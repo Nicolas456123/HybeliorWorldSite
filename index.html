@@ -67,12 +67,21 @@
 	}
 	
 	/* Contenu déroulant */
-	.info-panel-content {
-	    max-height: calc(100vh - 60px); /* Ajuster en fonction de l'en-tête */
-	    overflow-y: auto; /* Barre de défilement verticale si nécessaire */
-	    padding: 0px;
-	    text-align: justify; /* Justifier le texte */
-	}
+        .info-panel-content {
+            max-height: calc(100vh - 60px); /* Ajuster en fonction de l'en-tête */
+            overflow-y: auto; /* Barre de défilement verticale si nécessaire */
+            padding: 0px;
+            text-align: justify; /* Justifier le texte */
+        }
+
+        .info-panel-content details {
+            margin-bottom: 5px;
+        }
+
+        .info-panel-content summary {
+            font-weight: bold;
+            cursor: pointer;
+        }
 	
 	/* Titre (restant fixé en haut) */
 	.info-panel-header h2 {
@@ -125,6 +134,7 @@
             <div id="suggestions" class="suggestions-list"></div> <!-- Conteneur pour les suggestions -->
             <button id="searchButton">Rechercher</button>
             <button id="toggleText">Afficher/Masquer textes</button>
+            <button id="toggleBorders">Afficher les frontières</button>
         </div>
 
     <!-- Fenêtre d'information pour afficher les détails de la ville -->
@@ -136,7 +146,7 @@
         </div>
         <!-- Section déroulante avec le contenu -->
         <div class="info-panel-content">
-            <p id="cityInfo">Texte placeholder pour l'information sur la ville...</p>
+            <div id="cityInfo"></div>
         </div>
     </div>
 </div>
@@ -155,6 +165,26 @@
 	
     // Ajouter l'overlay SVG
     var svgOverlay = viewer.svgOverlay();
+
+    // Couche pour les frontières
+    var bordersLayer = document.createElementNS("http://www.w3.org/2000/svg", "g");
+    bordersLayer.setAttribute('id', 'bordersLayer');
+    bordersLayer.style.display = 'none';
+    svgOverlay.node().appendChild(bordersLayer);
+
+    // Exemple de polygone de frontière
+    var sampleBorder = document.createElementNS("http://www.w3.org/2000/svg", "polygon");
+    sampleBorder.setAttribute('points', '0.2,0.2 0.3,0.2 0.3,0.3 0.2,0.3');
+    sampleBorder.setAttribute('stroke', 'red');
+    sampleBorder.setAttribute('fill', 'transparent');
+    bordersLayer.appendChild(sampleBorder);
+
+    sampleBorder.addEventListener('mouseover', function() {
+        sampleBorder.setAttribute('fill', 'rgba(255,0,0,0.3)');
+    });
+    sampleBorder.addEventListener('mouseout', function() {
+        sampleBorder.setAttribute('fill', 'transparent');
+    });
 
     // Arrays pour stocker les éléments par type
     var continentsElements = [];
@@ -248,10 +278,20 @@
 					document.getElementById('cityName').textContent = name; // Nom du pays
 					
 					// Construire le contenu de l'info-bulle avec les informations supplémentaires
-					    var infoContent = `${item['Description'] || 'Non disponible'}<br>
-						<strong>Gouvernement:</strong><br> ${item['Gouvernement'] || 'Non disponible'}<br>
-						<strong>Culture:</strong><br> ${item['Culture'] || 'Non disponible'}<br>
-                                                <strong>Histoire Marquante:</strong><br> ${item['Histoire marquante'] || 'Non disponible'}
+                                            var infoContent = `
+                                                <p>${item['Description'] || 'Non disponible'}</p>
+                                                <details>
+                                                    <summary>Gouvernement</summary>
+                                                    <p>${item['Gouvernement'] || 'Non disponible'}</p>
+                                                </details>
+                                                <details>
+                                                    <summary>Culture</summary>
+                                                    <p>${item['Culture'] || 'Non disponible'}</p>
+                                                </details>
+                                                <details>
+                                                    <summary>Histoire Marquante</summary>
+                                                    <p>${item['Histoire marquante'] || 'Non disponible'}</p>
+                                                </details>
                                             `;
 					document.getElementById('cityInfo').innerHTML = infoContent; // Remplir l'info-bulle avec les détails du pays
 					document.getElementById('infoPanel').style.display = 'block'; // Afficher la fenêtre d'information
@@ -439,6 +479,14 @@
                 rectElement.style.display = 'none';
             }
         });
+    });
+
+    document.getElementById('toggleBorders').addEventListener('click', function() {
+        if (bordersLayer.style.display === 'none') {
+            bordersLayer.style.display = 'block';
+        } else {
+            bordersLayer.style.display = 'none';
+        }
     });
 
 </script>
