@@ -198,6 +198,8 @@
     var allRectElements = [];  // Pour toggle des rectangles
     // Variable pour stocker tous les noms (pays, continents, etc.)
     var allNames = [];
+    // État d'activation de l'affichage des textes
+    var textVisibilityEnabled = true;
 
     // Fonction de conversion des coordonnées pour les adapter à OpenSeadragon
     function convertCoordinates(x, y) {
@@ -403,6 +405,16 @@
 
     // Fonction pour afficher/masquer les éléments en fonction du zoom
     function updateTextVisibility() {
+        if (!textVisibilityEnabled) {
+            allTextElements.forEach(function(textElement) {
+                textElement.style.display = 'none';
+            });
+            allRectElements.forEach(function(rectElement) {
+                rectElement.style.display = 'none';
+            });
+            return;
+        }
+
         var zoomLevel = viewer.viewport.getZoom();
 
         // Gestion de la visibilité pour les continents
@@ -464,21 +476,8 @@
 
     // Gestion des boutons pour activer/désactiver l'image et le texte
     document.getElementById('toggleText').addEventListener('click', function() {
-        allTextElements.forEach(function(textElement) {
-            if (textElement.style.display === 'none') {
-                textElement.style.display = 'block';
-            } else {
-                textElement.style.display = 'none';
-            }
-        });
-
-        allRectElements.forEach(function(rectElement) {
-            if (rectElement.style.display === 'none') {
-                rectElement.style.display = 'block';
-            } else {
-                rectElement.style.display = 'none';
-            }
-        });
+        textVisibilityEnabled = !textVisibilityEnabled;
+        updateTextVisibility();
     });
 
     document.getElementById('toggleBorders').addEventListener('click', function() {
