@@ -5,7 +5,6 @@
 	<title>Hybelior World Map</title>
     <script src="./openseadragon-bin-5.0.0/openseadragon.min.js"></script>
     <script src="./openseadragon-bin-5.0.0/openseadragon-svg-overlay.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
     <style>
         /* Importation de la police Copperplate-Gothic-Std-29-AB */
         @font-face {
@@ -280,12 +279,62 @@
         };
     }
 
+    // Analyse simple du CSV sans bibliothèque externe
+    function parseCSV(text) {
+        var rows = [];
+        var row = [];
+        var field = '';
+        var insideQuotes = false;
+        for (var i = 0; i < text.length; i++) {
+            var c = text[i];
+            if (insideQuotes) {
+                if (c === '"') {
+                    if (i + 1 < text.length && text[i + 1] === '"') {
+                        field += '"';
+                        i++;
+                    } else {
+                        insideQuotes = false;
+                    }
+                } else {
+                    field += c;
+                }
+            } else {
+                if (c === '"') {
+                    insideQuotes = true;
+                } else if (c === ',') {
+                    row.push(field);
+                    field = '';
+                } else if (c === '\n' || c === '\r') {
+                    if (c === '\r' && text[i + 1] === '\n') i++;
+                    row.push(field);
+                    rows.push(row);
+                    row = [];
+                    field = '';
+                } else {
+                    field += c;
+                }
+            }
+        }
+        if (field.length > 0 || row.length > 0) {
+            row.push(field);
+            rows.push(row);
+        }
+        var header = rows.shift();
+        return rows.map(function(r) {
+            var obj = {};
+            for (var j = 0; j < header.length; j++) {
+                obj[header[j]] = r[j];
+            }
+            return obj;
+        });
+    }
+
     function addTextAndRectFromCSV(filePath, fontSize, storageArray, xOffset, yOffset) {
-        Papa.parse(filePath, {
-            download: true,
-            header: true,
-            complete: function(results) {
-                results.data.forEach(function(item) {
+        fetch(filePath)
+            .then(function(resp) { return resp.text(); })
+            .then(function(text) {
+                var data = parseCSV(text);
+                data.forEach(function(item) {
                     var x = parseFloat(item.Coord_X);
                     var y = parseFloat(item.Coord_Y);
                     
@@ -377,11 +426,9 @@
                     allTextElements.push(textElement);
                     allRectElements.push(rectElement);
                 });
-            },
-			encoding: "UTF-8" // Force l'encodage en UTF-8
-        });
+            })
+            .catch(function(err) { console.error('CSV parse error', err); });
     }
-
 	// Ajouter les textes et rectangles pour les continents, pays, régions et autres en fonction de leur niveau de zoom
 	addTextAndRectFromCSV("./Data/DT_Continents.csv", "0.03", continentsElements, 0.03, 0.02);
 	addTextAndRectFromCSV("./Data/DT_Pays.csv", "0.01", paysElements, 0.015, 0.01);
