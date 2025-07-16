@@ -38,9 +38,6 @@
         .controls button:hover {
             background-color: #0056b3;
         }
-        .controls button.active {
-            background-color: #28a745;
-        }
 	.controls input[type="text"] {
             width: 200px;
             color: black;
@@ -576,12 +573,10 @@
     // Écouter les événements de zoom et mettre à jour la visibilité
     viewer.addHandler('zoom', function() {
         updateTextVisibility();
-        updateMeasureElements();
     });
 
     // Initialement mettre à jour la visibilité (au cas où le zoom est déjà correct au démarrage)
     updateTextVisibility();
-    updateMeasureElements();
 
     // Gestion des boutons pour activer/désactiver l'image et le texte
     document.getElementById('toggleText').addEventListener('click', function() {
@@ -601,10 +596,7 @@
     var worldWidthKm = 1000; // Largeur approximative du monde en kilomètres
     var measureMode = null; // 'distance' ou 'area'
     var measurePoints = [];
-    var polygonElement = null;
-    var activeButton = null;
     var measureLayer = document.createElementNS("http://www.w3.org/2000/svg", "g");
-    var measureElements = []; // conserver les éléments pour mise à jour lors du zoom
     measureLayer.setAttribute('id', 'measureLayer');
     svgOverlay.node().appendChild(measureLayer);
 
@@ -613,7 +605,12 @@
         while (measureLayer.firstChild) {
             measureLayer.removeChild(measureLayer.firstChild);
         }
-        polygonElement = null;
+    }
+
+    function clearLayer() {
+        while (measureLayer.firstChild) {
+            measureLayer.removeChild(measureLayer.firstChild);
+        }
     }
 
     function distanceKm(p1, p2) {
@@ -631,15 +628,6 @@
         return area * worldWidthKm * worldWidthKm;
     }
 
-    function polygonCentroid(points) {
-        var x = 0, y = 0;
-        for (var i = 0; i < points.length; i++) {
-            x += points[i].x;
-            y += points[i].y;
-        }
-        return { x: x / points.length, y: y / points.length };
-    }
-
     function showLabel(text, coord) {
         var label = document.createElementNS("http://www.w3.org/2000/svg", "text");
         label.setAttribute("x", coord.x);
@@ -648,61 +636,21 @@
         label.setAttribute("font-size", "0.02");
         label.setAttribute("font-family", "Verdana, sans-serif");
         label.setAttribute("pointer-events", "none");
-        label.dataset.baseFont = 0.02 * viewer.viewport.getZoom();
         label.textContent = text;
         measureLayer.appendChild(label);
-        measureElements.push(label);
     }
 
-    function setMeasureMode(mode) {
-        if (mode) {
-            resetMeasure();
-        }
-        measureMode = mode;
-        if (activeButton) activeButton.classList.remove('active');
-        activeButton = null;
-        if (mode === 'distance') {
-            activeButton = document.getElementById('measureDistance');
-        } else if (mode === 'area') {
-            activeButton = document.getElementById('measureArea');
-        }
-        if (activeButton) activeButton.classList.add('active');
-    }
 
     document.getElementById('measureDistance').addEventListener('click', function() {
-        setMeasureMode('distance');
+        measureMode = 'distance';
+        resetMeasure();
     });
 
     document.getElementById('measureArea').addEventListener('click', function() {
-        setMeasureMode('area');
+        measureMode = 'area';
+        resetMeasure();
     });
 
-    function showPoint(coord) {
-        var circle = document.createElementNS("http://www.w3.org/2000/svg", "circle");
-        circle.setAttribute('cx', coord.x);
-        circle.setAttribute('cy', coord.y);
-        circle.setAttribute('r', '0.005');
-        circle.setAttribute('fill', 'red');
-        circle.dataset.baseRadius = 0.005 * viewer.viewport.getZoom();
-        measureLayer.appendChild(circle);
-        measureElements.push(circle);
-    }
-
-    function updateMeasureElements() {
-        var zoom = viewer.viewport.getZoom();
-        measureElements.forEach(function(el) {
-            if (el.tagName === 'circle') {
-                var baseR = parseFloat(el.dataset.baseRadius);
-                if (!isNaN(baseR)) el.setAttribute('r', baseR / zoom);
-            } else if (el.tagName === 'line' || el.tagName === 'polygon') {
-                var baseS = parseFloat(el.dataset.baseStroke);
-                if (!isNaN(baseS)) el.setAttribute('stroke-width', baseS / zoom);
-            } else if (el.tagName === 'text') {
-                var baseF = parseFloat(el.dataset.baseFont);
-                if (!isNaN(baseF)) el.setAttribute('font-size', baseF / zoom);
-            }
-        });
-    }
 
     viewer.addHandler('canvas-click', function(event) {
         if (!measureMode) return;
@@ -710,7 +658,6 @@
         var webPoint = event.position;
         var point = viewer.viewport.pointFromPixel(webPoint);
         measurePoints.push(point);
-        showPoint(point);
 
         if (measureMode === 'distance' && measurePoints.length === 2) {
             var line = document.createElementNS("http://www.w3.org/2000/svg", "line");
@@ -720,9 +667,7 @@
             line.setAttribute('y2', measurePoints[1].y);
             line.setAttribute('stroke', 'yellow');
             line.setAttribute('stroke-width', '0.005');
-            line.dataset.baseStroke = 0.005 * viewer.viewport.getZoom();
             measureLayer.appendChild(line);
-            measureElements.push(line);
 
             var dist = distanceKm(measurePoints[0], measurePoints[1]);
             var midX = (measurePoints[0].x + measurePoints[1].x) / 2;
@@ -734,29 +679,25 @@
             var offX = -dy/len * offset;
             var offY = dx/len * offset;
             showLabel(dist.toFixed(2) + ' km', { x: midX + offX, y: midY + offY });
-            setMeasureMode(null);
+            measureMode = null;
         } else if (measureMode === 'area') {
-            if (polygonElement) {
-                measureLayer.removeChild(polygonElement);
-            }
-            polygonElement = document.createElementNS("http://www.w3.org/2000/svg", "polygon");
-            polygonElement.setAttribute('points', measurePoints.map(function(p){ return p.x + ',' + p.y; }).join(' '));
-            polygonElement.setAttribute('stroke', 'yellow');
-            polygonElement.setAttribute('fill', 'rgba(255,255,0,0.3)');
-            polygonElement.setAttribute('stroke-width', '0.003');
-            polygonElement.dataset.baseStroke = 0.003 * viewer.viewport.getZoom();
-            measureLayer.appendChild(polygonElement);
-            measureElements.push(polygonElement);
+            // Points are collected on single click; polygon will be drawn on double-click
         }
     });
 
-    viewer.addHandler('canvas-double-click', function(event) {
+    viewer.addHandler('canvas-double-click', function() {
         if (measureMode === 'area' && measurePoints.length > 2) {
-            event.preventDefaultAction = true;
+            var poly = document.createElementNS("http://www.w3.org/2000/svg", "polygon");
+            poly.setAttribute('points', measurePoints.map(function(p){ return p.x + ',' + p.y; }).join(' '));
+            poly.setAttribute('stroke', 'yellow');
+            poly.setAttribute('fill', 'rgba(255,255,0,0.3)');
+            poly.setAttribute('stroke-width', '0.003');
+            clearLayer();
+            measureLayer.appendChild(poly);
+
             var area = polygonArea(measurePoints);
-            var center = polygonCentroid(measurePoints);
-            showLabel(area.toFixed(2) + ' km²', center);
-            setMeasureMode(null);
+            showLabel(area.toFixed(2) + ' km²', measurePoints[0]);
+            measureMode = null;
         }
     });
 
