@@ -19,6 +19,22 @@
             top: 50px;
             left: 10px;
             z-index: 1000;
+            transition: transform 0.3s ease;
+        }
+        .controls.collapsed {
+            transform: translateX(-110%);
+        }
+        #toggleControls {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            z-index: 1001;
+            padding: 8px;
+            background-color: #007bff;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
         }
         .controls button {
             display: block;
@@ -149,6 +165,7 @@
 
 <body>
 <div id="openseadragon1" style="width: calc(100% - 20px); height: calc(100% - 20px); position: relative;">
+    <button id="toggleControls">Menu</button>
     <!-- Barre de recherche et boutons de contrôle -->
         <div class="controls">
             <input type="text" id="searchInput" placeholder="Rechercher un nom...">
@@ -705,6 +722,10 @@
             showLabel(area.toFixed(2) + ' km²', center);
             setMeasureMode(null);
         }
+    });
+
+    document.getElementById('toggleControls').addEventListener('click', function() {
+        document.querySelector('.controls').classList.toggle('collapsed');
     });
 
 </script>
