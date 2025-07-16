@@ -33,6 +33,10 @@
         .controls button:hover {
             background-color: #0056b3;
         }
+        .controls button.active {
+            background-color: #28a745;
+            border: 2px solid #1e7e34;
+        }
 	.controls input[type="text"] {
             width: 200px;
             color: black;
@@ -547,6 +551,27 @@
     measureLayer.setAttribute('id', 'measureLayer');
     svgOverlay.node().appendChild(measureLayer);
 
+    function addMarker(coord) {
+        var dot = document.createElementNS("http://www.w3.org/2000/svg", "circle");
+        dot.setAttribute('cx', coord.x);
+        dot.setAttribute('cy', coord.y);
+        dot.setAttribute('r', '0.005');
+        dot.setAttribute('fill', 'yellow');
+        measureLayer.appendChild(dot);
+    }
+
+    function centroid(points) {
+        var x = 0, y = 0;
+        points.forEach(function(p){ x += p.x; y += p.y; });
+        return { x: x / points.length, y: y / points.length };
+    }
+
+    function endMeasurement() {
+        measureMode = null;
+        document.getElementById('measureDistance').classList.remove('active');
+        document.getElementById('measureArea').classList.remove('active');
+    }
+
     function resetMeasure() {
         measurePoints = [];
         while (measureLayer.firstChild) {
@@ -587,21 +612,30 @@
         measureLayer.appendChild(label);
     }
 
-    document.getElementById('measureDistance').addEventListener('click', function() {
+    var distanceBtn = document.getElementById('measureDistance');
+    var areaBtn = document.getElementById('measureArea');
+
+    distanceBtn.addEventListener('click', function() {
         measureMode = 'distance';
         resetMeasure();
+        distanceBtn.classList.add('active');
+        areaBtn.classList.remove('active');
     });
 
-    document.getElementById('measureArea').addEventListener('click', function() {
+    areaBtn.addEventListener('click', function() {
         measureMode = 'area';
         resetMeasure();
+        areaBtn.classList.add('active');
+        distanceBtn.classList.remove('active');
     });
 
     viewer.addHandler('canvas-click', function(event) {
         if (!measureMode) return;
+        event.preventDefaultAction = true;
         var webPoint = event.position;
         var point = viewer.viewport.pointFromPixel(webPoint);
         measurePoints.push(point);
+        addMarker(point);
 
         if (measureMode === 'distance' && measurePoints.length === 2) {
             var line = document.createElementNS("http://www.w3.org/2000/svg", "line");
@@ -618,7 +652,7 @@
                 x: (measurePoints[0].x + measurePoints[1].x) / 2,
                 y: (measurePoints[0].y + measurePoints[1].y) / 2
             });
-            measureMode = null;
+            endMeasurement();
         } else if (measureMode === 'area') {
             var poly = document.createElementNS("http://www.w3.org/2000/svg", "polygon");
             poly.setAttribute('points', measurePoints.map(function(p){ return p.x + ',' + p.y; }).join(' '));
@@ -630,11 +664,12 @@
         }
     });
 
-    viewer.addHandler('canvas-double-click', function() {
+    viewer.addHandler('canvas-double-click', function(event) {
         if (measureMode === 'area' && measurePoints.length > 2) {
+            event.preventDefaultAction = true;
             var area = polygonArea(measurePoints);
-            showLabel(area.toFixed(2) + ' km²', measurePoints[0]);
-            measureMode = null;
+            showLabel(area.toFixed(2) + ' km²', centroid(measurePoints));
+            endMeasurement();
         }
     });
 

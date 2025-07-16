@@ -21,4 +21,4 @@ The only JavaScript dependency bundled in the repository is OpenSeadragon, which
 
 ## Mesures sur la carte
 
-Deux outils permettent maintenant de mesurer des distances et des surfaces directement sur la carte. La largeur totale du monde est estimée à environ 1000 km. Utilisez les boutons *Mesurer distance* et *Mesurer surface* pour tracer respectivement une ligne ou un polygone et obtenir la valeur correspondante en kilomètres ou kilomètres carrés.
+Deux outils permettent maintenant de mesurer des distances et des surfaces directement sur la carte. La largeur totale du monde est estimée à environ 1000 km. Utilisez les boutons *Mesurer distance* et *Mesurer surface* pour tracer respectivement une ligne ou un polygone et obtenir la valeur correspondante en kilomètres ou kilomètres carrés. Des marqueurs indiquent chaque point cliqué et les boutons changent de couleur lorsqu'un mode est actif. Pour la mesure de surface, double-cliquez pour finaliser le polygone et afficher l'aire calculée.
