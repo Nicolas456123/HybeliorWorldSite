@@ -18,3 +18,7 @@ Simply open `index.html` in a modern web browser. The page loads the map tiles f
 ## Dependencies
 
 The only JavaScript dependency bundled in the repository is OpenSeadragon, which provides zooming and panning functionality. All geographic labels are defined in the CSV files under `Data`.
+
+## Mesures sur la carte
+
+Deux outils permettent maintenant de mesurer des distances et des surfaces directement sur la carte. La largeur totale du monde est estimée à environ 1000 km. Utilisez les boutons *Mesurer distance* et *Mesurer surface* pour tracer respectivement une ligne ou un polygone et obtenir la valeur correspondante en kilomètres ou kilomètres carrés.
