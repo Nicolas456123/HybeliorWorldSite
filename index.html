@@ -523,10 +523,12 @@
     // Écouter les événements de zoom et mettre à jour la visibilité
     viewer.addHandler('zoom', function() {
         updateTextVisibility();
+        updateMeasureElements();
     });
 
     // Initialement mettre à jour la visibilité (au cas où le zoom est déjà correct au démarrage)
     updateTextVisibility();
+    updateMeasureElements();
 
     // Gestion des boutons pour activer/désactiver l'image et le texte
     document.getElementById('toggleText').addEventListener('click', function() {
@@ -549,6 +551,7 @@
     var polygonElement = null;
     var activeButton = null;
     var measureLayer = document.createElementNS("http://www.w3.org/2000/svg", "g");
+    var measureElements = []; // conserver les éléments pour mise à jour lors du zoom
     measureLayer.setAttribute('id', 'measureLayer');
     svgOverlay.node().appendChild(measureLayer);
 
@@ -592,8 +595,10 @@
         label.setAttribute("font-size", "0.02");
         label.setAttribute("font-family", "Verdana, sans-serif");
         label.setAttribute("pointer-events", "none");
+        label.dataset.baseFont = 0.02 * viewer.viewport.getZoom();
         label.textContent = text;
         measureLayer.appendChild(label);
+        measureElements.push(label);
     }
 
     function setMeasureMode(mode) {
@@ -625,7 +630,25 @@
         circle.setAttribute('cy', coord.y);
         circle.setAttribute('r', '0.005');
         circle.setAttribute('fill', 'red');
+        circle.dataset.baseRadius = 0.005 * viewer.viewport.getZoom();
         measureLayer.appendChild(circle);
+        measureElements.push(circle);
+    }
+
+    function updateMeasureElements() {
+        var zoom = viewer.viewport.getZoom();
+        measureElements.forEach(function(el) {
+            if (el.tagName === 'circle') {
+                var baseR = parseFloat(el.dataset.baseRadius);
+                if (!isNaN(baseR)) el.setAttribute('r', baseR / zoom);
+            } else if (el.tagName === 'line' || el.tagName === 'polygon') {
+                var baseS = parseFloat(el.dataset.baseStroke);
+                if (!isNaN(baseS)) el.setAttribute('stroke-width', baseS / zoom);
+            } else if (el.tagName === 'text') {
+                var baseF = parseFloat(el.dataset.baseFont);
+                if (!isNaN(baseF)) el.setAttribute('font-size', baseF / zoom);
+            }
+        });
     }
 
     viewer.addHandler('canvas-click', function(event) {
@@ -644,13 +667,20 @@
             line.setAttribute('y2', measurePoints[1].y);
             line.setAttribute('stroke', 'yellow');
             line.setAttribute('stroke-width', '0.005');
+            line.dataset.baseStroke = 0.005 * viewer.viewport.getZoom();
             measureLayer.appendChild(line);
+            measureElements.push(line);
 
             var dist = distanceKm(measurePoints[0], measurePoints[1]);
-            showLabel(dist.toFixed(2) + ' km', {
-                x: (measurePoints[0].x + measurePoints[1].x) / 2,
-                y: (measurePoints[0].y + measurePoints[1].y) / 2
-            });
+            var midX = (measurePoints[0].x + measurePoints[1].x) / 2;
+            var midY = (measurePoints[0].y + measurePoints[1].y) / 2;
+            var dx = measurePoints[1].x - measurePoints[0].x;
+            var dy = measurePoints[1].y - measurePoints[0].y;
+            var len = Math.sqrt(dx*dx + dy*dy);
+            var offset = 0.02;
+            var offX = -dy/len * offset;
+            var offY = dx/len * offset;
+            showLabel(dist.toFixed(2) + ' km', { x: midX + offX, y: midY + offY });
             setMeasureMode(null);
         } else if (measureMode === 'area') {
             if (polygonElement) {
@@ -661,7 +691,9 @@
             polygonElement.setAttribute('stroke', 'yellow');
             polygonElement.setAttribute('fill', 'rgba(255,255,0,0.3)');
             polygonElement.setAttribute('stroke-width', '0.003');
+            polygonElement.dataset.baseStroke = 0.003 * viewer.viewport.getZoom();
             measureLayer.appendChild(polygonElement);
+            measureElements.push(polygonElement);
         }
     });
 
