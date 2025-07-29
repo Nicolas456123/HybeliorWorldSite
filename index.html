@@ -47,6 +47,9 @@
         .controls input[type="number"] {
             width: 80px;
         }
+        .controls input[type="range"] {
+            width: 100px;
+        }
         /* Style pour la fenêtre d'information */
         .info-panel {
             position: absolute;
@@ -166,6 +169,11 @@
                 <label style="color: white; font-size: 12px;">Tuiles (2-10000):</label>
                 <input type="number" id="gridSize" min="2" max="10000" value="16" style="width: 80px; margin-left: 5px;">
                 <button id="updateGrid" style="margin-left: 5px; padding: 5px;">MAJ</button>
+            </div>
+            <div style="margin-bottom: 10px;">
+                <label style="color: white; font-size: 12px;">Taille texte:</label>
+                <input type="range" id="textSizeSlider" min="4" max="50" value="12" style="width: 100px; margin-left: 5px;">
+                <span id="textSizeValue" style="color: white; font-size: 11px; margin-left: 5px;">12px</span>
             </div>
             <button id="measureDistance">Mesurer distance</button>
             <button id="measureArea">Mesurer surface</button>
@@ -342,39 +350,8 @@
         var shouldShowNumbers = zoom > zoomThreshold && visibleCells < 3000;
         
         if (shouldShowNumbers) {
-            // Calculer la taille d'une case en pixels
-            var stepSizeInPixels = viewport.viewportToWindowCoordinates(new OpenSeadragon.Point(stepSize, 0)).x - 
-                                   viewport.viewportToWindowCoordinates(new OpenSeadragon.Point(0, 0)).x;
-            
-            // Largeur et hauteur de case disponibles (avec marge de sécurité)
-            var maxWidth = Math.abs(stepSizeInPixels) * 0.9;
-            var maxHeight = Math.abs(stepSizeInPixels) * 0.7;
-            
-            // Taille de police de départ
-            var fontSize = Math.max(6, Math.min(30, 400 / currentGridSize * Math.pow(zoom, 0.3)));
-            
-            gridCtx.font = fontSize + 'px Verdana';
-            
-            // Test avec un texte représentatif de la longueur max possible
-            var sampleText = (currentGridSize-1) + ";" + (currentGridSize-1);
-            var textWidth = gridCtx.measureText(sampleText).width;
-            
-            // Réduire la taille si le texte dépasse
-            while (textWidth > maxWidth && fontSize > 4) {
-                fontSize--;
-                gridCtx.font = fontSize + 'px Verdana';
-                textWidth = gridCtx.measureText(sampleText).width;
-            }
-            
-            // Vérifier aussi la hauteur (approximative)
-            while (fontSize > maxHeight && fontSize > 4) {
-                fontSize--;
-            }
-            
-            // Ne pas afficher si trop petit
-            if (fontSize < 5) {
-                return;
-            }
+            // Utiliser directement la valeur du slider
+            var fontSize = parseInt(document.getElementById('textSizeSlider').value, 10);
             
             gridCtx.font = fontSize + 'px Verdana';
             gridCtx.fillStyle = '#00ff00';
@@ -839,6 +816,15 @@
     document.getElementById('gridSize').addEventListener('keypress', function(e) {
         if (e.key === 'Enter') {
             document.getElementById('updateGrid').click();
+        }
+    });
+
+    // Gestion du slider de taille de texte
+    document.getElementById('textSizeSlider').addEventListener('input', function() {
+        var value = this.value;
+        document.getElementById('textSizeValue').textContent = value + 'px';
+        if (gridVisible) {
+            scheduleGridUpdate(true);
         }
     });
 
