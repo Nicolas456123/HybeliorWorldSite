@@ -342,24 +342,33 @@
         var shouldShowNumbers = zoom > zoomThreshold && visibleCells < 3000;
         
         if (shouldShowNumbers) {
-            // Formule améliorée pour la taille de police
-            var baseFontSize = Math.max(10, 600 / currentGridSize); // Taille de base plus grande
-            var zoomMultiplier = Math.pow(zoom, 0.6); // Augmentation plus douce avec le zoom
-            var fontSize = Math.min(50, baseFontSize * zoomMultiplier); // Limite max à 50px
+            // Calculer la taille d'une case en pixels
+            var stepSizeInPixels = viewport.viewportToWindowCoordinates(new OpenSeadragon.Point(stepSize, 0)).x - 
+                                   viewport.viewportToWindowCoordinates(new OpenSeadragon.Point(0, 0)).x;
             
-            // Taille minimale selon le quadrillage
-            if (currentGridSize >= 500) {
-                fontSize = Math.max(12, fontSize); // Au moins 12px pour les gros quadrillages
-            } else if (currentGridSize >= 200) {
-                fontSize = Math.max(10, fontSize); // Au moins 10px pour les quadrillages moyens
-            } else {
-                fontSize = Math.max(8, fontSize); // Au moins 8px pour les petits quadrillages
+            // Limiter la taille de police à 80% de la largeur de case disponible
+            var maxFontSizeByCase = Math.abs(stepSizeInPixels) * 0.8;
+            
+            // Formule de base pour la taille de police
+            var baseFontSize = Math.max(8, 600 / currentGridSize);
+            var zoomMultiplier = Math.pow(zoom, 0.4); // Réduction pour éviter le débordement
+            var fontSize = baseFontSize * zoomMultiplier;
+            
+            // Appliquer la limite selon la taille de case
+            fontSize = Math.min(fontSize, maxFontSizeByCase);
+            
+            // Tailles minimales et maximales globales
+            fontSize = Math.max(6, Math.min(30, fontSize));
+            
+            // Ne pas afficher si trop petit pour être lisible
+            if (fontSize < 6) {
+                return; // Sortir sans dessiner les textes
             }
             
             gridCtx.font = fontSize + 'px Verdana';
             gridCtx.fillStyle = '#00ff00';
             gridCtx.strokeStyle = '#000000';
-            gridCtx.lineWidth = Math.max(1, fontSize / 10);
+            gridCtx.lineWidth = Math.max(0.5, fontSize / 12);
             gridCtx.textAlign = 'center';
             gridCtx.textBaseline = 'middle';
             gridCtx.globalAlpha = 0.9;
@@ -393,9 +402,12 @@
             clearTimeout(gridUpdateTimeout);
         }
         
-        // Mise à jour immédiate pour les mouvements, délai court pour le zoom
-        var delay = immediate ? 0 : 8; // 8ms au lieu de 16ms
-        gridUpdateTimeout = setTimeout(drawGrid, delay);
+        if (immediate) {
+            drawGrid();
+        } else {
+            // Délai minimal pour éviter trop de redraws pendant le zoom
+            gridUpdateTimeout = setTimeout(drawGrid, 1);
+        }
     }
 
     // Fonction pour créer/mettre à jour le quadrillage
@@ -742,12 +754,19 @@
     // Écouter les événements de zoom et mettre à jour la visibilité
     viewer.addHandler('zoom', function() {
         updateTextVisibility();
-        scheduleGridUpdate(false); // Garder un petit délai pour le zoom
+        scheduleGridUpdate(true); // Immédiat pour le zoom aussi
     });
 
     // Écouter les événements de déplacement pour le quadrillage (immédiat)
     viewer.addHandler('pan', function() {
         scheduleGridUpdate(true); // Mise à jour immédiate pour les mouvements
+    });
+
+    // Écouter pendant l'animation pour une synchronisation parfaite
+    viewer.addHandler('animation', function() {
+        if (gridVisible) {
+            drawGrid(); // Dessin direct pendant l'animation
+        }
     });
 
     // Écouter les événements d'animation pour le quadrillage
