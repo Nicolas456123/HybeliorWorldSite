@@ -327,32 +327,37 @@
         var offsetX = parseFloat(document.getElementById('offsetXSlider').value) / 100 * stepSize;
         var offsetY = parseFloat(document.getElementById('offsetYSlider').value) / 100 * stepSize;
         
-        // Calculer les limites visibles en coordonnées de grille
-        var startX = Math.max(0, Math.floor((bounds.x - offsetX) / stepSize));
-        var endX = Math.min(currentGridSize, Math.ceil(((bounds.x - offsetX) + bounds.width) / stepSize) + 1);
-        var startY = Math.max(0, Math.floor((bounds.y - offsetY) / stepSize));
-        var endY = Math.min(currentGridSize, Math.ceil(((bounds.y - offsetY) + bounds.height) / stepSize) + 1);
+        // Calculer les limites visibles avec une marge pour éviter les décalages
+        var marginSteps = 2;
+        var startX = Math.max(0, Math.floor((bounds.x - offsetX) / stepSize) - marginSteps);
+        var endX = Math.min(currentGridSize, Math.ceil(((bounds.x - offsetX) + bounds.width) / stepSize) + marginSteps);
+        var startY = Math.max(0, Math.floor((bounds.y - offsetY) / stepSize) - marginSteps);
+        var endY = Math.min(currentGridSize, Math.ceil(((bounds.y - offsetY) + bounds.height) / stepSize) + marginSteps);
         
         gridCtx.beginPath();
         
-        // Dessiner les lignes verticales
+        // Dessiner les lignes verticales avec une précision améliorée
         for (var i = startX; i <= endX; i++) {
             var worldX = i * stepSize + offsetX;
             var pixelPos = viewport.viewportToWindowCoordinates(new OpenSeadragon.Point(worldX, 0));
-            var x = pixelPos.x;
+            var x = Math.round(pixelPos.x); // Arrondir pour éviter les décalages sub-pixel
             
-            gridCtx.moveTo(x, 0);
-            gridCtx.lineTo(x, gridCanvas.height);
+            if (x >= -lineWidth && x <= gridCanvas.width + lineWidth) {
+                gridCtx.moveTo(x, 0);
+                gridCtx.lineTo(x, gridCanvas.height);
+            }
         }
         
-        // Dessiner les lignes horizontales
+        // Dessiner les lignes horizontales avec une précision améliorée
         for (var j = startY; j <= endY; j++) {
             var worldY = j * stepSize + offsetY;
             var pixelPos = viewport.viewportToWindowCoordinates(new OpenSeadragon.Point(0, worldY));
-            var y = pixelPos.y;
+            var y = Math.round(pixelPos.y); // Arrondir pour éviter les décalages sub-pixel
             
-            gridCtx.moveTo(0, y);
-            gridCtx.lineTo(gridCanvas.width, y);
+            if (y >= -lineWidth && y <= gridCanvas.height + lineWidth) {
+                gridCtx.moveTo(0, y);
+                gridCtx.lineTo(gridCanvas.width, y);
+            }
         }
         
         gridCtx.stroke();
@@ -364,13 +369,14 @@
         var shouldShowNumbers = zoom > zoomThreshold && visibleCells < 3000;
         
         if (shouldShowNumbers) {
-            // Calculer la taille d'une case en pixels
-            var stepSizeInPixels = viewport.viewportToWindowCoordinates(new OpenSeadragon.Point(stepSize, 0)).x - 
-                                   viewport.viewportToWindowCoordinates(new OpenSeadragon.Point(0, 0)).x;
+            // Calculer la taille d'une case en pixels de manière plus stable
+            var testPoint1 = viewport.viewportToWindowCoordinates(new OpenSeadragon.Point(0, 0));
+            var testPoint2 = viewport.viewportToWindowCoordinates(new OpenSeadragon.Point(stepSize, 0));
+            var stepSizeInPixels = Math.abs(testPoint2.x - testPoint1.x);
             
             // Utiliser le pourcentage du slider pour la taille du texte
             var textSizePercent = parseFloat(document.getElementById('textSizeSlider').value) / 100;
-            var fontSize = Math.abs(stepSizeInPixels) * textSizePercent;
+            var fontSize = stepSizeInPixels * textSizePercent;
             
             // Limites minimales et maximales
             fontSize = Math.max(4, Math.min(50, fontSize));
@@ -383,7 +389,7 @@
             gridCtx.textBaseline = 'middle';
             gridCtx.globalAlpha = 0.9;
             
-            // Dessiner les textes des cases visibles
+            // Dessiner les textes des cases visibles avec positionnement stable
             for (var x = Math.max(0, startX); x < Math.min(currentGridSize, endX); x++) {
                 for (var y = Math.max(0, startY); y < Math.min(currentGridSize, endY); y++) {
                     var centerX = (x + 0.5) * stepSize + offsetX;
@@ -391,13 +397,17 @@
                     
                     var pixelCenter = viewport.viewportToWindowCoordinates(new OpenSeadragon.Point(centerX, centerY));
                     
-                    // Vérifier si le texte est visible
-                    if (pixelCenter.x >= -50 && pixelCenter.x <= gridCanvas.width + 50 &&
-                        pixelCenter.y >= -50 && pixelCenter.y <= gridCanvas.height + 50) {
+                    // Arrondir les positions du texte pour plus de stabilité
+                    var textX = Math.round(pixelCenter.x);
+                    var textY = Math.round(pixelCenter.y);
+                    
+                    // Vérifier si le texte est visible avec une marge généreuse
+                    if (textX >= -100 && textX <= gridCanvas.width + 100 &&
+                        textY >= -100 && textY <= gridCanvas.height + 100) {
                         
                         var text = x + ';' + y;
-                        gridCtx.strokeText(text, pixelCenter.x, pixelCenter.y);
-                        gridCtx.fillText(text, pixelCenter.x, pixelCenter.y);
+                        gridCtx.strokeText(text, textX, textY);
+                        gridCtx.fillText(text, textX, textY);
                     }
                 }
             }
