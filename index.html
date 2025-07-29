@@ -172,8 +172,18 @@
             </div>
             <div style="margin-bottom: 10px;">
                 <label style="color: white; font-size: 12px;">Taille texte:</label>
-                <input type="range" id="textSizeSlider" min="4" max="50" value="12" style="width: 100px; margin-left: 5px;">
-                <span id="textSizeValue" style="color: white; font-size: 11px; margin-left: 5px;">12px</span>
+                <input type="range" id="textSizeSlider" min="10" max="90" value="50" style="width: 100px; margin-left: 5px;">
+                <span id="textSizeValue" style="color: white; font-size: 11px; margin-left: 5px;">50%</span>
+            </div>
+            <div style="margin-bottom: 10px;">
+                <label style="color: white; font-size: 12px;">Offset X:</label>
+                <input type="range" id="offsetXSlider" min="-100" max="100" value="0" style="width: 100px; margin-left: 5px;">
+                <span id="offsetXValue" style="color: white; font-size: 11px; margin-left: 5px;">0%</span>
+            </div>
+            <div style="margin-bottom: 10px;">
+                <label style="color: white; font-size: 12px;">Offset Y:</label>
+                <input type="range" id="offsetYSlider" min="-100" max="100" value="0" style="width: 100px; margin-left: 5px;">
+                <span id="offsetYValue" style="color: white; font-size: 11px; margin-left: 5px;">0%</span>
             </div>
             <button id="measureDistance">Mesurer distance</button>
             <button id="measureArea">Mesurer surface</button>
@@ -313,17 +323,21 @@
         
         var stepSize = 1.0 / currentGridSize;
         
+        // Appliquer les offsets (en pourcentage d'une tuile)
+        var offsetX = parseFloat(document.getElementById('offsetXSlider').value) / 100 * stepSize;
+        var offsetY = parseFloat(document.getElementById('offsetYSlider').value) / 100 * stepSize;
+        
         // Calculer les limites visibles en coordonnées de grille
-        var startX = Math.max(0, Math.floor(bounds.x / stepSize));
-        var endX = Math.min(currentGridSize, Math.ceil((bounds.x + bounds.width) / stepSize) + 1);
-        var startY = Math.max(0, Math.floor(bounds.y / stepSize));
-        var endY = Math.min(currentGridSize, Math.ceil((bounds.y + bounds.height) / stepSize) + 1);
+        var startX = Math.max(0, Math.floor((bounds.x - offsetX) / stepSize));
+        var endX = Math.min(currentGridSize, Math.ceil(((bounds.x - offsetX) + bounds.width) / stepSize) + 1);
+        var startY = Math.max(0, Math.floor((bounds.y - offsetY) / stepSize));
+        var endY = Math.min(currentGridSize, Math.ceil(((bounds.y - offsetY) + bounds.height) / stepSize) + 1);
         
         gridCtx.beginPath();
         
         // Dessiner les lignes verticales
         for (var i = startX; i <= endX; i++) {
-            var worldX = i * stepSize;
+            var worldX = i * stepSize + offsetX;
             var pixelPos = viewport.viewportToWindowCoordinates(new OpenSeadragon.Point(worldX, 0));
             var x = pixelPos.x;
             
@@ -333,7 +347,7 @@
         
         // Dessiner les lignes horizontales
         for (var j = startY; j <= endY; j++) {
-            var worldY = j * stepSize;
+            var worldY = j * stepSize + offsetY;
             var pixelPos = viewport.viewportToWindowCoordinates(new OpenSeadragon.Point(0, worldY));
             var y = pixelPos.y;
             
@@ -350,8 +364,16 @@
         var shouldShowNumbers = zoom > zoomThreshold && visibleCells < 3000;
         
         if (shouldShowNumbers) {
-            // Utiliser directement la valeur du slider
-            var fontSize = parseInt(document.getElementById('textSizeSlider').value, 10);
+            // Calculer la taille d'une case en pixels
+            var stepSizeInPixels = viewport.viewportToWindowCoordinates(new OpenSeadragon.Point(stepSize, 0)).x - 
+                                   viewport.viewportToWindowCoordinates(new OpenSeadragon.Point(0, 0)).x;
+            
+            // Utiliser le pourcentage du slider pour la taille du texte
+            var textSizePercent = parseFloat(document.getElementById('textSizeSlider').value) / 100;
+            var fontSize = Math.abs(stepSizeInPixels) * textSizePercent;
+            
+            // Limites minimales et maximales
+            fontSize = Math.max(4, Math.min(50, fontSize));
             
             gridCtx.font = fontSize + 'px Verdana';
             gridCtx.fillStyle = '#00ff00';
@@ -364,8 +386,8 @@
             // Dessiner les textes des cases visibles
             for (var x = Math.max(0, startX); x < Math.min(currentGridSize, endX); x++) {
                 for (var y = Math.max(0, startY); y < Math.min(currentGridSize, endY); y++) {
-                    var centerX = (x + 0.5) * stepSize;
-                    var centerY = (y + 0.5) * stepSize;
+                    var centerX = (x + 0.5) * stepSize + offsetX;
+                    var centerY = (y + 0.5) * stepSize + offsetY;
                     
                     var pixelCenter = viewport.viewportToWindowCoordinates(new OpenSeadragon.Point(centerX, centerY));
                     
@@ -822,7 +844,25 @@
     // Gestion du slider de taille de texte
     document.getElementById('textSizeSlider').addEventListener('input', function() {
         var value = this.value;
-        document.getElementById('textSizeValue').textContent = value + 'px';
+        document.getElementById('textSizeValue').textContent = value + '%';
+        if (gridVisible) {
+            scheduleGridUpdate(true);
+        }
+    });
+
+    // Gestion du slider d'offset X
+    document.getElementById('offsetXSlider').addEventListener('input', function() {
+        var value = this.value;
+        document.getElementById('offsetXValue').textContent = value + '%';
+        if (gridVisible) {
+            scheduleGridUpdate(true);
+        }
+    });
+
+    // Gestion du slider d'offset Y
+    document.getElementById('offsetYSlider').addEventListener('input', function() {
+        var value = this.value;
+        document.getElementById('offsetYValue').textContent = value + '%';
         if (gridVisible) {
             scheduleGridUpdate(true);
         }
