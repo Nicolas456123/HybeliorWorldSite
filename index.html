@@ -163,8 +163,8 @@
             <button id="toggleBorders">Afficher les frontières</button>
             <button id="toggleGrid">Afficher quadrillage</button>
             <div style="margin-bottom: 10px;">
-                <label style="color: white; font-size: 12px;">Tuiles (2-100):</label>
-                <input type="number" id="gridSize" min="2" max="100" value="16" style="width: 60px; margin-left: 5px;">
+                <label style="color: white; font-size: 12px;">Tuiles (2-10000):</label>
+                <input type="number" id="gridSize" min="2" max="10000" value="16" style="width: 80px; margin-left: 5px;">
                 <button id="updateGrid" style="margin-left: 5px; padding: 5px;">MAJ</button>
             </div>
             <button id="measureDistance">Mesurer distance</button>
@@ -269,6 +269,11 @@
         }
 
         var stepSize = 1.0 / gridSize;
+        var currentZoom = viewer.viewport.getZoom();
+        
+        // Adapter l'épaisseur des lignes selon le zoom et la densité
+        var baseStrokeWidth = Math.max(0.0001, 0.002 / currentZoom);
+        var strokeWidth = Math.max(0.00005, baseStrokeWidth / Math.sqrt(gridSize));
 
         // Créer les lignes verticales
         for (var i = 0; i <= gridSize; i++) {
@@ -279,8 +284,9 @@
             line.setAttribute('x2', x);
             line.setAttribute('y2', 1);
             line.setAttribute('stroke', '#00ff00');
-            line.setAttribute('stroke-width', '0.001');
+            line.setAttribute('stroke-width', strokeWidth);
             line.setAttribute('opacity', '0.7');
+            line.classList.add('grid-line');
             gridLayer.appendChild(line);
         }
 
@@ -293,27 +299,34 @@
             line.setAttribute('x2', 1);
             line.setAttribute('y2', y);
             line.setAttribute('stroke', '#00ff00');
-            line.setAttribute('stroke-width', '0.001');
+            line.setAttribute('stroke-width', strokeWidth);
             line.setAttribute('opacity', '0.7');
+            line.classList.add('grid-line');
             gridLayer.appendChild(line);
         }
 
-        // Calculer la taille de police adaptée au nombre de divisions
-        var fontSize = Math.max(0.001, 0.025 / gridSize);
-        var strokeWidth = Math.max(0.00005, fontSize * 0.015);
-
-        // Pour les quadrillages très denses (>50), réduire encore plus la taille
-        if (gridSize > 50) {
-            fontSize = Math.max(0.0005, 0.015 / gridSize);
-            strokeWidth = Math.max(0.00003, fontSize * 0.01);
-        }
-
-        // Ajouter les numéros des cases (seulement si pas trop dense)
-        var showNumbers = gridSize <= 50; // Ne pas afficher les numéros au-delà de 50x50
+        // Optimisation : n'afficher les numéros que si le quadrillage n'est pas trop dense
+        // et selon le niveau de zoom
+        var shouldShowNumbers = gridSize <= 200 && currentZoom > (gridSize / 50);
         
-        if (showNumbers) {
-            for (var x = 0; x < gridSize; x++) {
-                for (var y = 0; y < gridSize; y++) {
+        if (shouldShowNumbers) {
+            // Calculer la taille de police selon le zoom et la densité
+            var fontSize = Math.max(0.0005, (0.02 / gridSize) * Math.sqrt(currentZoom));
+            var textStrokeWidth = Math.max(0.00002, fontSize * 0.008);
+
+            // Optimisation : créer les textes par batch pour éviter de bloquer l'interface
+            var batchSize = Math.min(1000, gridSize * gridSize);
+            var totalCells = gridSize * gridSize;
+            var currentBatch = 0;
+            
+            function createTextBatch() {
+                var start = currentBatch * batchSize;
+                var end = Math.min(start + batchSize, totalCells);
+                
+                for (var i = start; i < end; i++) {
+                    var x = i % gridSize;
+                    var y = Math.floor(i / gridSize);
+                    
                     var centerX = (x + 0.5) * stepSize;
                     var centerY = (y + 0.5) * stepSize;
                     
@@ -322,16 +335,63 @@
                     textElement.setAttribute("y", centerY);
                     textElement.setAttribute("fill", "#00ff00");
                     textElement.setAttribute("stroke", "#000000");
-                    textElement.setAttribute("stroke-width", strokeWidth);
+                    textElement.setAttribute("stroke-width", textStrokeWidth);
                     textElement.setAttribute("font-size", fontSize);
                     textElement.setAttribute("text-anchor", "middle");
                     textElement.setAttribute("dominant-baseline", "middle");
                     textElement.setAttribute("font-family", "Verdana, sans-serif");
                     textElement.setAttribute("pointer-events", "none");
                     textElement.setAttribute("opacity", "0.8");
-                    textElement.textContent = x + "," + y;
+                    textElement.textContent = x + ";" + y;
+                    textElement.classList.add('grid-text');
                     gridLayer.appendChild(textElement);
                 }
+                
+                currentBatch++;
+                if (end < totalCells) {
+                    // Continuer le batch suivant après un court délai
+                    setTimeout(createTextBatch, 1);
+                }
+            }
+            
+            if (totalCells > 0) {
+                createTextBatch();
+            }
+        }
+    }
+
+    // Fonction pour mettre à jour l'épaisseur des lignes selon le zoom
+    function updateGridStrokeWidth() {
+        if (gridLayer.style.display === 'none') return;
+        
+        var currentZoom = viewer.viewport.getZoom();
+        var gridSize = parseInt(document.getElementById('gridSize').value, 10) || 16;
+        var baseStrokeWidth = Math.max(0.0001, 0.002 / currentZoom);
+        var strokeWidth = Math.max(0.00005, baseStrokeWidth / Math.sqrt(gridSize));
+        
+        // Mettre à jour toutes les lignes
+        var lines = gridLayer.querySelectorAll('.grid-line');
+        for (var i = 0; i < lines.length; i++) {
+            lines[i].setAttribute('stroke-width', strokeWidth);
+        }
+        
+        // Mettre à jour la taille des textes si nécessaire
+        var shouldShowTexts = gridSize <= 200 && currentZoom > (gridSize / 50);
+        var texts = gridLayer.querySelectorAll('.grid-text');
+        
+        if (shouldShowTexts) {
+            var fontSize = Math.max(0.0005, (0.02 / gridSize) * Math.sqrt(currentZoom));
+            var textStrokeWidth = Math.max(0.00002, fontSize * 0.008);
+            
+            for (var j = 0; j < texts.length; j++) {
+                texts[j].setAttribute('font-size', fontSize);
+                texts[j].setAttribute('stroke-width', textStrokeWidth);
+                texts[j].style.display = 'block';
+            }
+        } else {
+            // Masquer les textes si le zoom est trop faible ou le quadrillage trop dense
+            for (var k = 0; k < texts.length; k++) {
+                texts[k].style.display = 'none';
             }
         }
     }
@@ -667,6 +727,7 @@
     // Écouter les événements de zoom et mettre à jour la visibilité
     viewer.addHandler('zoom', function() {
         updateTextVisibility();
+        updateGridStrokeWidth(); // Mettre à jour l'épaisseur du quadrillage
     });
 
     // Initialement mettre à jour la visibilité (au cas où le zoom est déjà correct au démarrage)
@@ -699,13 +760,19 @@
     // Gestion du bouton de mise à jour du quadrillage
     document.getElementById('updateGrid').addEventListener('click', function() {
         var gridSize = parseInt(document.getElementById('gridSize').value, 10);
-        if (gridSize >= 2 && gridSize <= 100) {
+        if (gridSize >= 2 && gridSize <= 10000) {
+            // Afficher un avertissement pour les très gros quadrillages
+            if (gridSize > 1000) {
+                if (!confirm('Attention : Un quadrillage de ' + gridSize + 'x' + gridSize + ' (' + (gridSize*gridSize).toLocaleString() + ' sections) peut être lent à générer. Continuer ?')) {
+                    return;
+                }
+            }
             createGrid(gridSize);
             if (gridLayer.style.display === 'none') {
                 gridLayer.style.display = 'block';
             }
         } else {
-            alert('Le nombre de tuiles doit être entre 2 et 100 (jusqu\'à 10 000 sections)');
+            alert('Le nombre de tuiles doit être entre 2 et 10 000');
         }
     });
 
