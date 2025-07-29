@@ -244,7 +244,7 @@
     // Variables pour le quadrillage
     var currentGridSize = 16;
     var gridVisible = false;
-    var gridUpdateTimeout = null;
+    var gridUpdateRequested = false;
 
     // Exemple de polygone de frontière
     var sampleBorder = document.createElementNS("http://www.w3.org/2000/svg", "polygon");
@@ -414,19 +414,18 @@
         }
     }
 
-    // Fonction optimisée pour planifier les mises à jour
+    // Fonction optimisée pour planifier les mises à jour avec requestAnimationFrame
     function scheduleGridUpdate(immediate) {
-        if (!gridVisible) return;
-        
-        if (gridUpdateTimeout) {
-            clearTimeout(gridUpdateTimeout);
-        }
+        if (!gridVisible || gridUpdateRequested) return;
         
         if (immediate) {
             drawGrid();
         } else {
-            // Délai minimal pour éviter trop de redraws pendant le zoom
-            gridUpdateTimeout = setTimeout(drawGrid, 1);
+            gridUpdateRequested = true;
+            requestAnimationFrame(function() {
+                gridUpdateRequested = false;
+                drawGrid();
+            });
         }
     }
 
@@ -440,7 +439,9 @@
 
     // Fonction vide pour compatibilité (plus utilisée)
     function updateGridStrokeWidth() {
-        scheduleGridUpdate(true); // Mise à jour immédiate
+        if (gridVisible) {
+            drawGrid(); // Dessin immédiat
+        }
     }
 
     // Arrays pour stocker les éléments par type
@@ -774,24 +775,30 @@
     // Écouter les événements de zoom et mettre à jour la visibilité
     viewer.addHandler('zoom', function() {
         updateTextVisibility();
-        scheduleGridUpdate(true); // Immédiat pour le zoom aussi
+        if (gridVisible) {
+            drawGrid(); // Dessin immédiat pour le zoom
+        }
     });
 
     // Écouter les événements de déplacement pour le quadrillage (immédiat)
     viewer.addHandler('pan', function() {
-        scheduleGridUpdate(true); // Mise à jour immédiate pour les mouvements
+        if (gridVisible) {
+            drawGrid(); // Dessin immédiat pour le pan
+        }
     });
 
-    // Écouter pendant l'animation pour une synchronisation parfaite
+    // Écouter pendant toute l'animation pour une synchronisation parfaite
     viewer.addHandler('animation', function() {
         if (gridVisible) {
-            drawGrid(); // Dessin direct pendant l'animation
+            scheduleGridUpdate(false); // Utiliser requestAnimationFrame
         }
     });
 
     // Écouter les événements d'animation pour le quadrillage
     viewer.addHandler('animation-finish', function() {
-        scheduleGridUpdate(true); // Immédiat à la fin d'animation
+        if (gridVisible) {
+            drawGrid(); // Dessin final immédiat
+        }
     });
 
     // Redimensionner le canvas quand la fenêtre change
@@ -856,7 +863,7 @@
         var value = this.value;
         document.getElementById('textSizeValue').textContent = value + '%';
         if (gridVisible) {
-            scheduleGridUpdate(true);
+            drawGrid(); // Dessin immédiat pour les changements de sliders
         }
     });
 
@@ -865,7 +872,7 @@
         var value = this.value;
         document.getElementById('offsetXValue').textContent = value + '%';
         if (gridVisible) {
-            scheduleGridUpdate(true);
+            drawGrid(); // Dessin immédiat pour les changements de sliders
         }
     });
 
@@ -874,7 +881,7 @@
         var value = this.value;
         document.getElementById('offsetYValue').textContent = value + '%';
         if (gridVisible) {
-            scheduleGridUpdate(true);
+            drawGrid(); // Dessin immédiat pour les changements de sliders
         }
     });
 
