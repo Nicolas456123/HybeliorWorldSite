@@ -346,29 +346,40 @@
             var stepSizeInPixels = viewport.viewportToWindowCoordinates(new OpenSeadragon.Point(stepSize, 0)).x - 
                                    viewport.viewportToWindowCoordinates(new OpenSeadragon.Point(0, 0)).x;
             
-            // Limiter la taille de police à 80% de la largeur de case disponible
-            var maxFontSizeByCase = Math.abs(stepSizeInPixels) * 0.8;
+            // Largeur et hauteur de case disponibles (avec marge de sécurité)
+            var maxWidth = Math.abs(stepSizeInPixels) * 0.9;
+            var maxHeight = Math.abs(stepSizeInPixels) * 0.7;
             
-            // Formule de base pour la taille de police
-            var baseFontSize = Math.max(8, 600 / currentGridSize);
-            var zoomMultiplier = Math.pow(zoom, 0.4); // Réduction pour éviter le débordement
-            var fontSize = baseFontSize * zoomMultiplier;
+            // Taille de police de départ
+            var fontSize = Math.max(6, Math.min(30, 400 / currentGridSize * Math.pow(zoom, 0.3)));
             
-            // Appliquer la limite selon la taille de case
-            fontSize = Math.min(fontSize, maxFontSizeByCase);
+            gridCtx.font = fontSize + 'px Verdana';
             
-            // Tailles minimales et maximales globales
-            fontSize = Math.max(6, Math.min(30, fontSize));
+            // Test avec un texte représentatif de la longueur max possible
+            var sampleText = (currentGridSize-1) + ";" + (currentGridSize-1);
+            var textWidth = gridCtx.measureText(sampleText).width;
             
-            // Ne pas afficher si trop petit pour être lisible
-            if (fontSize < 6) {
-                return; // Sortir sans dessiner les textes
+            // Réduire la taille si le texte dépasse
+            while (textWidth > maxWidth && fontSize > 4) {
+                fontSize--;
+                gridCtx.font = fontSize + 'px Verdana';
+                textWidth = gridCtx.measureText(sampleText).width;
+            }
+            
+            // Vérifier aussi la hauteur (approximative)
+            while (fontSize > maxHeight && fontSize > 4) {
+                fontSize--;
+            }
+            
+            // Ne pas afficher si trop petit
+            if (fontSize < 5) {
+                return;
             }
             
             gridCtx.font = fontSize + 'px Verdana';
             gridCtx.fillStyle = '#00ff00';
             gridCtx.strokeStyle = '#000000';
-            gridCtx.lineWidth = Math.max(0.5, fontSize / 12);
+            gridCtx.lineWidth = Math.max(0.5, fontSize / 15);
             gridCtx.textAlign = 'center';
             gridCtx.textBaseline = 'middle';
             gridCtx.globalAlpha = 0.9;
