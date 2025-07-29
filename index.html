@@ -212,11 +212,21 @@
     bordersLayer.style.display = 'none';
     svgOverlay.node().appendChild(bordersLayer);
 
-    // Couche pour le quadrillage
-    var gridLayer = document.createElementNS("http://www.w3.org/2000/svg", "g");
-    gridLayer.setAttribute('id', 'gridLayer');
-    gridLayer.style.display = 'none';
-    svgOverlay.node().appendChild(gridLayer);
+    // Canvas pour le quadrillage (plus rapide que SVG)
+    var gridCanvas = document.createElement('canvas');
+    gridCanvas.style.position = 'absolute';
+    gridCanvas.style.top = '0';
+    gridCanvas.style.left = '0';
+    gridCanvas.style.pointerEvents = 'none';
+    gridCanvas.style.zIndex = '10';
+    gridCanvas.style.display = 'none';
+    document.getElementById('openseadragon1').appendChild(gridCanvas);
+    var gridCtx = gridCanvas.getContext('2d');
+
+    // Variables pour le quadrillage
+    var currentGridSize = 16;
+    var gridVisible = false;
+    var gridUpdateTimeout = null;
 
     // Exemple de polygone de frontière
     var sampleBorder = document.createElementNS("http://www.w3.org/2000/svg", "polygon");
@@ -257,126 +267,125 @@
         sampleBorder.setAttribute('fill', 'transparent');
     });
 
-    // Variables pour le rendu optimisé du quadrillage
-    var currentGridSize = 16;
-    var gridVisible = false;
-    var gridUpdateTimeout = null;
-
-    // Fonction pour créer le quadrillage optimisé (rendu à la demande)
-    function createGrid(gridSize) {
-        currentGridSize = gridSize || parseInt(document.getElementById('gridSize').value, 10) || 16;
+    // Fonction pour redimensionner et positionner le canvas
+    function updateCanvasSize() {
+        var containerElement = document.getElementById('openseadragon1');
+        var rect = containerElement.getBoundingClientRect();
         
-        // Vider le quadrillage existant
-        while (gridLayer.firstChild) {
-            gridLayer.removeChild(gridLayer.firstChild);
-        }
-        
-        updateVisibleGrid();
+        gridCanvas.width = rect.width;
+        gridCanvas.height = rect.height;
+        gridCanvas.style.width = rect.width + 'px';
+        gridCanvas.style.height = rect.height + 'px';
     }
 
-    // Fonction pour mettre à jour seulement la partie visible du quadrillage
-    function updateVisibleGrid() {
-        if (!gridVisible || gridLayer.style.display === 'none') return;
+    // Fonction pour dessiner le quadrillage sur canvas (ultra-rapide)
+    function drawGrid() {
+        if (!gridVisible) return;
         
-        // Vider le quadrillage existant
-        while (gridLayer.firstChild) {
-            gridLayer.removeChild(gridLayer.firstChild);
-        }
+        updateCanvasSize();
+        
+        // Effacer le canvas
+        gridCtx.clearRect(0, 0, gridCanvas.width, gridCanvas.height);
         
         var viewport = viewer.viewport;
+        var zoom = viewport.getZoom();
         var bounds = viewport.getBounds();
-        var currentZoom = viewport.getZoom();
         
-        // Calculer quelles lignes sont visibles
+        // Calculer l'épaisseur des lignes selon le zoom
+        var lineWidth = Math.max(0.5, 2 / zoom);
+        lineWidth = Math.min(lineWidth, 3); // Limiter l'épaisseur max
+        
+        gridCtx.strokeStyle = '#00ff00';
+        gridCtx.lineWidth = lineWidth;
+        gridCtx.globalAlpha = 0.7;
+        
         var stepSize = 1.0 / currentGridSize;
+        
+        // Calculer les limites visibles en coordonnées de grille
         var startX = Math.max(0, Math.floor(bounds.x / stepSize));
-        var endX = Math.min(currentGridSize, Math.ceil((bounds.x + bounds.width) / stepSize));
+        var endX = Math.min(currentGridSize, Math.ceil((bounds.x + bounds.width) / stepSize) + 1);
         var startY = Math.max(0, Math.floor(bounds.y / stepSize));
-        var endY = Math.min(currentGridSize, Math.ceil((bounds.y + bounds.height) / stepSize));
+        var endY = Math.min(currentGridSize, Math.ceil((bounds.y + bounds.height) / stepSize) + 1);
         
-        // Adapter l'épaisseur des lignes selon le zoom
-        var baseStrokeWidth = Math.max(0.0001, 0.001 / currentZoom);
-        var strokeWidth = Math.max(0.00005, baseStrokeWidth / Math.sqrt(currentGridSize));
+        gridCtx.beginPath();
         
-        // Créer seulement les lignes verticales visibles
+        // Dessiner les lignes verticales
         for (var i = startX; i <= endX; i++) {
-            var x = i * stepSize;
-            var line = document.createElementNS("http://www.w3.org/2000/svg", "line");
-            line.setAttribute('x1', x);
-            line.setAttribute('y1', 0);
-            line.setAttribute('x2', x);
-            line.setAttribute('y2', 1);
-            line.setAttribute('stroke', '#00ff00');
-            line.setAttribute('stroke-width', strokeWidth);
-            line.setAttribute('opacity', '0.7');
-            gridLayer.appendChild(line);
+            var worldX = i * stepSize;
+            var pixelPos = viewport.viewportToWindowCoordinates(new OpenSeadragon.Point(worldX, 0));
+            var x = pixelPos.x;
+            
+            gridCtx.moveTo(x, 0);
+            gridCtx.lineTo(x, gridCanvas.height);
         }
         
-        // Créer seulement les lignes horizontales visibles
+        // Dessiner les lignes horizontales
         for (var j = startY; j <= endY; j++) {
-            var y = j * stepSize;
-            var line = document.createElementNS("http://www.w3.org/2000/svg", "line");
-            line.setAttribute('x1', 0);
-            line.setAttribute('y1', y);
-            line.setAttribute('x2', 1);
-            line.setAttribute('y2', y);
-            line.setAttribute('stroke', '#00ff00');
-            line.setAttribute('stroke-width', strokeWidth);
-            line.setAttribute('opacity', '0.7');
-            gridLayer.appendChild(line);
+            var worldY = j * stepSize;
+            var pixelPos = viewport.viewportToWindowCoordinates(new OpenSeadragon.Point(0, worldY));
+            var y = pixelPos.y;
+            
+            gridCtx.moveTo(0, y);
+            gridCtx.lineTo(gridCanvas.width, y);
         }
         
-        // Afficher les numéros seulement si le zoom est suffisant et pas trop de cases visibles
+        gridCtx.stroke();
+        
+        // Dessiner les numéros si le zoom est suffisant
         var visibleCells = (endX - startX) * (endY - startY);
-        var shouldShowNumbers = currentZoom > (currentGridSize / 100) && visibleCells < 2000;
+        var shouldShowNumbers = zoom > (currentGridSize / 50) && visibleCells < 1000;
         
         if (shouldShowNumbers) {
-            var fontSize = Math.max(0.001, (0.03 / currentGridSize) * Math.sqrt(currentZoom));
-            var textStrokeWidth = Math.max(0.00005, fontSize * 0.01);
+            var fontSize = Math.max(8, Math.min(20, 400 / currentGridSize * Math.sqrt(zoom)));
+            gridCtx.font = fontSize + 'px Verdana';
+            gridCtx.fillStyle = '#00ff00';
+            gridCtx.strokeStyle = '#000000';
+            gridCtx.lineWidth = Math.max(1, fontSize / 8);
+            gridCtx.textAlign = 'center';
+            gridCtx.textBaseline = 'middle';
+            gridCtx.globalAlpha = 0.9;
             
-            // Créer seulement les textes des cases visibles
-            for (var x = Math.max(0, startX - 1); x < Math.min(currentGridSize, endX + 1); x++) {
-                for (var y = Math.max(0, startY - 1); y < Math.min(currentGridSize, endY + 1); y++) {
+            // Dessiner les textes des cases visibles
+            for (var x = Math.max(0, startX); x < Math.min(currentGridSize, endX); x++) {
+                for (var y = Math.max(0, startY); y < Math.min(currentGridSize, endY); y++) {
                     var centerX = (x + 0.5) * stepSize;
                     var centerY = (y + 0.5) * stepSize;
                     
-                    // Vérifier si le texte est dans la zone visible
-                    if (centerX >= bounds.x - stepSize && centerX <= bounds.x + bounds.width + stepSize &&
-                        centerY >= bounds.y - stepSize && centerY <= bounds.y + bounds.height + stepSize) {
+                    var pixelCenter = viewport.viewportToWindowCoordinates(new OpenSeadragon.Point(centerX, centerY));
+                    
+                    // Vérifier si le texte est visible
+                    if (pixelCenter.x >= -50 && pixelCenter.x <= gridCanvas.width + 50 &&
+                        pixelCenter.y >= -50 && pixelCenter.y <= gridCanvas.height + 50) {
                         
-                        var textElement = document.createElementNS("http://www.w3.org/2000/svg", "text");
-                        textElement.setAttribute("x", centerX);
-                        textElement.setAttribute("y", centerY);
-                        textElement.setAttribute("fill", "#00ff00");
-                        textElement.setAttribute("stroke", "#000000");
-                        textElement.setAttribute("stroke-width", textStrokeWidth);
-                        textElement.setAttribute("font-size", fontSize);
-                        textElement.setAttribute("text-anchor", "middle");
-                        textElement.setAttribute("dominant-baseline", "middle");
-                        textElement.setAttribute("font-family", "Verdana, sans-serif");
-                        textElement.setAttribute("pointer-events", "none");
-                        textElement.setAttribute("opacity", "0.8");
-                        textElement.textContent = x + ";" + y;
-                        gridLayer.appendChild(textElement);
+                        var text = x + ';' + y;
+                        gridCtx.strokeText(text, pixelCenter.x, pixelCenter.y);
+                        gridCtx.fillText(text, pixelCenter.x, pixelCenter.y);
                     }
                 }
             }
         }
     }
 
-    // Fonction optimisée pour les mises à jour avec debouncing
+    // Fonction optimisée pour planifier les mises à jour
     function scheduleGridUpdate() {
+        if (!gridVisible) return;
+        
         if (gridUpdateTimeout) {
             clearTimeout(gridUpdateTimeout);
         }
-        gridUpdateTimeout = setTimeout(function() {
-            updateVisibleGrid();
-        }, 50); // Délai de 50ms pour éviter trop de mises à jour
+        gridUpdateTimeout = setTimeout(drawGrid, 16); // 60 FPS max
     }
 
-    // Fonction pour mettre à jour l'épaisseur des lignes selon le zoom (simplifiée)
+    // Fonction pour créer/mettre à jour le quadrillage
+    function createGrid(gridSize) {
+        currentGridSize = gridSize || parseInt(document.getElementById('gridSize').value, 10) || 16;
+        if (gridVisible) {
+            drawGrid();
+        }
+    }
+
+    // Fonction vide pour compatibilité (plus utilisée)
     function updateGridStrokeWidth() {
-        // Cette fonction est maintenant intégrée dans updateVisibleGrid
         scheduleGridUpdate();
     }
 
@@ -711,7 +720,7 @@
     // Écouter les événements de zoom et mettre à jour la visibilité
     viewer.addHandler('zoom', function() {
         updateTextVisibility();
-        updateGridStrokeWidth(); // Mettre à jour l'épaisseur du quadrillage
+        scheduleGridUpdate(); // Mettre à jour le quadrillage canvas
     });
 
     // Écouter les événements de déplacement pour le quadrillage
@@ -721,6 +730,11 @@
 
     // Écouter les événements d'animation pour le quadrillage
     viewer.addHandler('animation-finish', function() {
+        scheduleGridUpdate();
+    });
+
+    // Redimensionner le canvas quand la fenêtre change
+    viewer.addHandler('resize', function() {
         scheduleGridUpdate();
     });
 
@@ -743,17 +757,15 @@
 
     // Gestion du bouton pour afficher/masquer le quadrillage
     document.getElementById('toggleGrid').addEventListener('click', function() {
-        if (gridLayer.style.display === 'none') {
+        if (gridCanvas.style.display === 'none') {
             gridVisible = true;
-            gridLayer.style.display = 'block';
-            updateVisibleGrid(); // Créer le quadrillage visible
+            gridCanvas.style.display = 'block';
+            drawGrid(); // Dessiner le quadrillage
         } else {
             gridVisible = false;
-            gridLayer.style.display = 'none';
-            // Vider le quadrillage pour libérer la mémoire
-            while (gridLayer.firstChild) {
-                gridLayer.removeChild(gridLayer.firstChild);
-            }
+            gridCanvas.style.display = 'none';
+            // Effacer le canvas pour libérer la mémoire
+            gridCtx.clearRect(0, 0, gridCanvas.width, gridCanvas.height);
         }
     });
 
@@ -762,9 +774,9 @@
         var gridSize = parseInt(document.getElementById('gridSize').value, 10);
         if (gridSize >= 2 && gridSize <= 10000) {
             createGrid(gridSize);
-            if (gridLayer.style.display === 'none') {
+            if (gridCanvas.style.display === 'none') {
                 gridVisible = true;
-                gridLayer.style.display = 'block';
+                gridCanvas.style.display = 'block';
             }
         } else {
             alert('Le nombre de tuiles doit être entre 2 et 10 000');
