@@ -292,8 +292,12 @@
         var bounds = viewport.getBounds();
         
         // Calculer l'épaisseur des lignes selon le zoom
-        var lineWidth = Math.max(0.5, 2 / zoom);
-        lineWidth = Math.min(lineWidth, 3); // Limiter l'épaisseur max
+        var lineWidth = Math.max(0.5, 3 / zoom);
+        // Pour les gros quadrillages, garder une épaisseur minimale plus importante
+        if (currentGridSize >= 500) {
+            lineWidth = Math.max(1, lineWidth);
+        }
+        lineWidth = Math.min(lineWidth, 4); // Limiter l'épaisseur max
         
         gridCtx.strokeStyle = '#00ff00';
         gridCtx.lineWidth = lineWidth;
@@ -333,14 +337,29 @@
         
         // Dessiner les numéros si le zoom est suffisant
         var visibleCells = (endX - startX) * (endY - startY);
-        var shouldShowNumbers = zoom > (currentGridSize / 50) && visibleCells < 1000;
+        // Seuil plus permissif pour les gros quadrillages
+        var zoomThreshold = currentGridSize >= 500 ? currentGridSize / 500 : currentGridSize / 200;
+        var shouldShowNumbers = zoom > zoomThreshold && visibleCells < 3000;
         
         if (shouldShowNumbers) {
-            var fontSize = Math.max(8, Math.min(20, 400 / currentGridSize * Math.sqrt(zoom)));
+            // Formule améliorée pour la taille de police
+            var baseFontSize = Math.max(10, 600 / currentGridSize); // Taille de base plus grande
+            var zoomMultiplier = Math.pow(zoom, 0.6); // Augmentation plus douce avec le zoom
+            var fontSize = Math.min(50, baseFontSize * zoomMultiplier); // Limite max à 50px
+            
+            // Taille minimale selon le quadrillage
+            if (currentGridSize >= 500) {
+                fontSize = Math.max(12, fontSize); // Au moins 12px pour les gros quadrillages
+            } else if (currentGridSize >= 200) {
+                fontSize = Math.max(10, fontSize); // Au moins 10px pour les quadrillages moyens
+            } else {
+                fontSize = Math.max(8, fontSize); // Au moins 8px pour les petits quadrillages
+            }
+            
             gridCtx.font = fontSize + 'px Verdana';
             gridCtx.fillStyle = '#00ff00';
             gridCtx.strokeStyle = '#000000';
-            gridCtx.lineWidth = Math.max(1, fontSize / 8);
+            gridCtx.lineWidth = Math.max(1, fontSize / 10);
             gridCtx.textAlign = 'center';
             gridCtx.textBaseline = 'middle';
             gridCtx.globalAlpha = 0.9;
@@ -367,13 +386,16 @@
     }
 
     // Fonction optimisée pour planifier les mises à jour
-    function scheduleGridUpdate() {
+    function scheduleGridUpdate(immediate) {
         if (!gridVisible) return;
         
         if (gridUpdateTimeout) {
             clearTimeout(gridUpdateTimeout);
         }
-        gridUpdateTimeout = setTimeout(drawGrid, 16); // 60 FPS max
+        
+        // Mise à jour immédiate pour les mouvements, délai court pour le zoom
+        var delay = immediate ? 0 : 8; // 8ms au lieu de 16ms
+        gridUpdateTimeout = setTimeout(drawGrid, delay);
     }
 
     // Fonction pour créer/mettre à jour le quadrillage
@@ -386,7 +408,7 @@
 
     // Fonction vide pour compatibilité (plus utilisée)
     function updateGridStrokeWidth() {
-        scheduleGridUpdate();
+        scheduleGridUpdate(true); // Mise à jour immédiate
     }
 
     // Arrays pour stocker les éléments par type
@@ -720,22 +742,22 @@
     // Écouter les événements de zoom et mettre à jour la visibilité
     viewer.addHandler('zoom', function() {
         updateTextVisibility();
-        scheduleGridUpdate(); // Mettre à jour le quadrillage canvas
+        scheduleGridUpdate(false); // Garder un petit délai pour le zoom
     });
 
-    // Écouter les événements de déplacement pour le quadrillage
+    // Écouter les événements de déplacement pour le quadrillage (immédiat)
     viewer.addHandler('pan', function() {
-        scheduleGridUpdate();
+        scheduleGridUpdate(true); // Mise à jour immédiate pour les mouvements
     });
 
     // Écouter les événements d'animation pour le quadrillage
     viewer.addHandler('animation-finish', function() {
-        scheduleGridUpdate();
+        scheduleGridUpdate(true); // Immédiat à la fin d'animation
     });
 
     // Redimensionner le canvas quand la fenêtre change
     viewer.addHandler('resize', function() {
-        scheduleGridUpdate();
+        scheduleGridUpdate(true); // Immédiat pour le redimensionnement
     });
 
     // Initialement mettre à jour la visibilité (au cas où le zoom est déjà correct au démarrage)
