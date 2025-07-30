@@ -176,6 +176,11 @@
                 <span id="textSizeValue" style="color: white; font-size: 11px; margin-left: 5px;">50%</span>
             </div>
             <div style="margin-bottom: 10px;">
+                <label style="color: white; font-size: 12px;">Épaisseur lignes:</label>
+                <input type="range" id="lineWidthSlider" min="1" max="20" value="3" style="width: 100px; margin-left: 5px;">
+                <span id="lineWidthValue" style="color: white; font-size: 11px; margin-left: 5px;">3%</span>
+            </div>
+            <div style="margin-bottom: 10px;">
                 <label style="color: white; font-size: 12px;">Offset X:</label>
                 <input type="range" id="offsetXSlider" min="-100" max="100" value="0" style="width: 100px; margin-left: 5px;">
                 <span id="offsetXValue" style="color: white; font-size: 11px; margin-left: 5px;">0%</span>
@@ -244,7 +249,7 @@
     // Variables pour le quadrillage
     var currentGridSize = 16;
     var gridVisible = false;
-    var gridUpdateRequested = false;
+    var gridUpdateTimeout = null;
 
     // Exemple de polygone de frontière
     var sampleBorder = document.createElementNS("http://www.w3.org/2000/svg", "polygon");
@@ -309,19 +314,23 @@
         var zoom = viewport.getZoom();
         var bounds = viewport.getBounds();
         
-        // Calculer l'épaisseur des lignes selon le zoom
-        var lineWidth = Math.max(0.5, 3 / zoom);
-        // Pour les gros quadrillages, garder une épaisseur minimale plus importante
-        if (currentGridSize >= 500) {
-            lineWidth = Math.max(1, lineWidth);
-        }
-        lineWidth = Math.min(lineWidth, 4); // Limiter l'épaisseur max
+        var stepSize = 1.0 / currentGridSize;
+        
+        // Calculer la taille d'une case en pixels (utilisé pour lignes ET texte)
+        var testPoint1 = viewport.viewportToWindowCoordinates(new OpenSeadragon.Point(0, 0));
+        var testPoint2 = viewport.viewportToWindowCoordinates(new OpenSeadragon.Point(stepSize, 0));
+        var stepSizeInPixels = Math.abs(testPoint2.x - testPoint1.x);
+        
+        // Calculer l'épaisseur des lignes selon le slider (relatif à la taille des cases)
+        var lineWidthPercent = parseFloat(document.getElementById('lineWidthSlider').value) / 100;
+        var lineWidth = stepSizeInPixels * lineWidthPercent;
+        
+        // Limites minimales et maximales pour l'épaisseur
+        lineWidth = Math.max(0.2, Math.min(10, lineWidth));
         
         gridCtx.strokeStyle = '#00ff00';
         gridCtx.lineWidth = lineWidth;
         gridCtx.globalAlpha = 0.7;
-        
-        var stepSize = 1.0 / currentGridSize;
         
         // Appliquer les offsets (en pourcentage d'une tuile)
         var offsetX = parseFloat(document.getElementById('offsetXSlider').value) / 100 * stepSize;
@@ -369,11 +378,6 @@
         var shouldShowNumbers = zoom > zoomThreshold && visibleCells < 3000;
         
         if (shouldShowNumbers) {
-            // Calculer la taille d'une case en pixels de manière plus stable
-            var testPoint1 = viewport.viewportToWindowCoordinates(new OpenSeadragon.Point(0, 0));
-            var testPoint2 = viewport.viewportToWindowCoordinates(new OpenSeadragon.Point(stepSize, 0));
-            var stepSizeInPixels = Math.abs(testPoint2.x - testPoint1.x);
-            
             // Utiliser le pourcentage du slider pour la taille du texte
             var textSizePercent = parseFloat(document.getElementById('textSizeSlider').value) / 100;
             var fontSize = stepSizeInPixels * textSizePercent;
@@ -414,18 +418,19 @@
         }
     }
 
-    // Fonction optimisée pour planifier les mises à jour avec requestAnimationFrame
+    // Fonction optimisée pour planifier les mises à jour
     function scheduleGridUpdate(immediate) {
-        if (!gridVisible || gridUpdateRequested) return;
+        if (!gridVisible) return;
+        
+        if (gridUpdateTimeout) {
+            clearTimeout(gridUpdateTimeout);
+        }
         
         if (immediate) {
             drawGrid();
         } else {
-            gridUpdateRequested = true;
-            requestAnimationFrame(function() {
-                gridUpdateRequested = false;
-                drawGrid();
-            });
+            // Délai ultra-court pour éviter les décalages
+            gridUpdateTimeout = setTimeout(drawGrid, 0);
         }
     }
 
@@ -439,9 +444,7 @@
 
     // Fonction vide pour compatibilité (plus utilisée)
     function updateGridStrokeWidth() {
-        if (gridVisible) {
-            drawGrid(); // Dessin immédiat
-        }
+        scheduleGridUpdate(true); // Mise à jour immédiate
     }
 
     // Arrays pour stocker les éléments par type
@@ -775,30 +778,24 @@
     // Écouter les événements de zoom et mettre à jour la visibilité
     viewer.addHandler('zoom', function() {
         updateTextVisibility();
-        if (gridVisible) {
-            drawGrid(); // Dessin immédiat pour le zoom
-        }
+        scheduleGridUpdate(true); // Immédiat pour le zoom
     });
 
     // Écouter les événements de déplacement pour le quadrillage (immédiat)
     viewer.addHandler('pan', function() {
-        if (gridVisible) {
-            drawGrid(); // Dessin immédiat pour le pan
-        }
+        scheduleGridUpdate(true); // Mise à jour immédiate pour les mouvements
     });
 
-    // Écouter pendant toute l'animation pour une synchronisation parfaite
+    // Écouter pendant l'animation pour une synchronisation parfaite
     viewer.addHandler('animation', function() {
         if (gridVisible) {
-            scheduleGridUpdate(false); // Utiliser requestAnimationFrame
+            scheduleGridUpdate(false); // Avec petit délai pendant l'animation
         }
     });
 
     // Écouter les événements d'animation pour le quadrillage
     viewer.addHandler('animation-finish', function() {
-        if (gridVisible) {
-            drawGrid(); // Dessin final immédiat
-        }
+        scheduleGridUpdate(true); // Immédiat à la fin d'animation
     });
 
     // Redimensionner le canvas quand la fenêtre change
@@ -863,7 +860,16 @@
         var value = this.value;
         document.getElementById('textSizeValue').textContent = value + '%';
         if (gridVisible) {
-            drawGrid(); // Dessin immédiat pour les changements de sliders
+            scheduleGridUpdate(true);
+        }
+    });
+
+    // Gestion du slider d'épaisseur des lignes
+    document.getElementById('lineWidthSlider').addEventListener('input', function() {
+        var value = this.value;
+        document.getElementById('lineWidthValue').textContent = value + '%';
+        if (gridVisible) {
+            scheduleGridUpdate(true);
         }
     });
 
@@ -872,7 +878,7 @@
         var value = this.value;
         document.getElementById('offsetXValue').textContent = value + '%';
         if (gridVisible) {
-            drawGrid(); // Dessin immédiat pour les changements de sliders
+            scheduleGridUpdate(true);
         }
     });
 
@@ -881,7 +887,7 @@
         var value = this.value;
         document.getElementById('offsetYValue').textContent = value + '%';
         if (gridVisible) {
-            drawGrid(); // Dessin immédiat pour les changements de sliders
+            scheduleGridUpdate(true);
         }
     });
 
