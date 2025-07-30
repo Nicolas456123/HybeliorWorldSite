@@ -847,12 +847,11 @@
         }
     });
 
-    // Gestion du bouton de mise à jour du quadrillage (simplifiée)
+    // Gestion du bouton de mise à jour du quadrillage (sans debug)
     document.getElementById('updateGrid').addEventListener('click', function() {
         var gridSize = parseInt(document.getElementById('gridSize').value, 10);
         if (gridSize >= 2 && gridSize <= 10000) {
             currentGridSize = gridSize;
-            console.log("Grid size updated to:", currentGridSize);
             if (gridVisible) {
                 createGrid(gridSize);
             }
@@ -873,15 +872,14 @@
         }
     });
 
-    // Gestion du sélecteur d'origine (directe)
+    // Gestion du sélecteur d'origine (sans debug)
     document.getElementById('originSelector').addEventListener('change', function() {
-        console.log("Origin changed to:", this.value);
         if (gridVisible) {
             createGrid();
         }
     });
 
-    // Gestion du slider de taille de texte (directe)
+    // Gestion du slider de taille de texte
     document.getElementById('textSizeSlider').addEventListener('input', function() {
         var value = this.value;
         document.getElementById('textSizeValue').textContent = value + '%';
@@ -890,7 +888,7 @@
         }
     });
 
-    // Gestion du slider d'épaisseur des lignes (directe)
+    // Gestion du slider d'épaisseur des lignes
     document.getElementById('lineWidthSlider').addEventListener('input', function() {
         var value = this.value;
         document.getElementById('lineWidthValue').textContent = value + '%';
@@ -899,7 +897,7 @@
         }
     });
 
-    // Gestion du slider d'offset X (directe)
+    // Gestion du slider d'offset X
     document.getElementById('offsetXSlider').addEventListener('input', function() {
         var value = this.value;
         document.getElementById('offsetXValue').textContent = value + '%';
@@ -908,7 +906,7 @@
         }
     });
 
-    // Gestion du slider d'offset Y (directe)
+    // Gestion du slider d'offset Y
     document.getElementById('offsetYSlider').addEventListener('input', function() {
         var value = this.value;
         document.getElementById('offsetYValue').textContent = value + '%';
