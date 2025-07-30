@@ -72,6 +72,13 @@
             width: 100%;
             margin-bottom: 5px;
         }
+        .grid-controls input[type="number"] {
+            width: 100%;
+            padding: 3px;
+            margin-bottom: 5px;
+            border: 1px solid #ccc;
+            border-radius: 3px;
+        }
         .grid-controls select {
             width: 100%;
             padding: 3px;
@@ -204,10 +211,12 @@
         <!-- Contrôles de grille -->
         <div class="grid-controls">
             <button id="toggleGrid">Afficher/Masquer grille</button>
-            <label for="gridSize">Taille grille: <span id="gridSizeValue">10</span></label>
-            <input type="range" id="gridSize" min="5" max="300" value="10">
+            <label for="gridSizeInput">Taille grille:</label>
+            <input type="number" id="gridSizeInput" min="5" max="300" value="10">
             <label for="gridTextSize">Taille texte: <span id="gridTextSizeValue">20%</span></label>
             <input type="range" id="gridTextSize" min="1" max="100" value="20" step="1">
+            <label for="gridLineWidth">Épaisseur ligne: <span id="gridLineWidthValue">10%</span></label>
+            <input type="range" id="gridLineWidth" min="1" max="50" value="10" step="1">
             <label for="originSelector">Origine:</label>
             <select id="originSelector">
                 <option value="top-left">Haut-Gauche</option>
@@ -709,8 +718,14 @@
         }
 
         const textSizePercent = parseInt(document.getElementById('gridTextSize').value);
+        const lineWidthPercent = parseInt(document.getElementById('gridLineWidth').value);
         const tileSize = 1 / currentGridSize; // Taille d'un tile
         const textSize = (textSizePercent / 100) * tileSize; // 100% = taille d'un tile, 1% = 1% d'un tile
+        const lineWidth = (lineWidthPercent / 100) * tileSize; // Épaisseur de ligne proportionnelle au tile
+
+        // Optimisation pour les grandes grilles
+        const isLargeGrid = currentGridSize > 125;
+        const labelStep = isLargeGrid ? Math.ceil(currentGridSize / 50) : 1; // Afficher moins de labels sur les grandes grilles
 
         // Créer les lignes de grille
         for (let i = 0; i <= currentGridSize; i++) {
@@ -721,7 +736,7 @@
             hLine.setAttribute('x2', 1);
             hLine.setAttribute('y2', i / currentGridSize);
             hLine.setAttribute('stroke', 'rgba(255,255,255,0.5)');
-            hLine.setAttribute('stroke-width', '0.001');
+            hLine.setAttribute('stroke-width', lineWidth);
             gridLayer.appendChild(hLine);
 
             // Lignes verticales
@@ -731,28 +746,35 @@
             vLine.setAttribute('x2', i / currentGridSize);
             vLine.setAttribute('y2', 1);
             vLine.setAttribute('stroke', 'rgba(255,255,255,0.5)');
-            vLine.setAttribute('stroke-width', '0.001');
+            vLine.setAttribute('stroke-width', lineWidth);
             gridLayer.appendChild(vLine);
         }
 
-        // Créer les étiquettes de grille
-        for (let x = 0; x < currentGridSize; x++) {
-            for (let y = 0; y < currentGridSize; y++) {
-                const coords = calculateGridCoordinates(x, y);
-                const label = document.createElementNS("http://www.w3.org/2000/svg", "text");
-                
-                label.setAttribute("x", (x + 0.5) / currentGridSize);
-                label.setAttribute("y", (y + 0.5) / currentGridSize);
-                label.setAttribute("fill", "yellow");
-                label.setAttribute("font-size", textSize);
-                label.setAttribute("text-anchor", "middle");
-                label.setAttribute("dominant-baseline", "middle");
-                label.setAttribute("font-family", "Verdana, sans-serif");
-                label.setAttribute("pointer-events", "none");
-                label.textContent = `${coords.x},${coords.y}`;
-                
-                gridLayer.appendChild(label);
+        // Créer les étiquettes de grille (optimisées pour les grandes grilles)
+        if (!isLargeGrid || textSize > 0.0001) { // Ne pas afficher les labels si trop petits
+            for (let x = 0; x < currentGridSize; x += labelStep) {
+                for (let y = 0; y < currentGridSize; y += labelStep) {
+                    const coords = calculateGridCoordinates(x, y);
+                    const label = document.createElementNS("http://www.w3.org/2000/svg", "text");
+                    
+                    label.setAttribute("x", (x + 0.5) / currentGridSize);
+                    label.setAttribute("y", (y + 0.5) / currentGridSize);
+                    label.setAttribute("fill", "yellow");
+                    label.setAttribute("font-size", textSize);
+                    label.setAttribute("text-anchor", "middle");
+                    label.setAttribute("dominant-baseline", "middle");
+                    label.setAttribute("font-family", "Verdana, sans-serif");
+                    label.setAttribute("pointer-events", "none");
+                    label.textContent = `${coords.x},${coords.y}`;
+                    
+                    gridLayer.appendChild(label);
+                }
             }
+        }
+
+        // Afficher un message d'optimisation si nécessaire
+        if (isLargeGrid) {
+            console.log(`Grille optimisée (${currentGridSize}x${currentGridSize}): labels affichés avec un pas de ${labelStep}`);
         }
     }
 
