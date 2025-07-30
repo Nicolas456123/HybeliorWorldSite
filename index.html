@@ -301,7 +301,7 @@
         gridCanvas.style.height = rect.height + 'px';
     }
 
-    // Fonction pour dessiner le quadrillage sur canvas (ultra-rapide)
+    // Fonction pour dessiner le quadrillage sur canvas (version simplifiée)
     function drawGrid() {
         if (!gridVisible) return;
         
@@ -316,102 +316,73 @@
         
         var stepSize = 1.0 / currentGridSize;
         
-        // Calculer la taille d'une case en pixels (utilisé pour lignes ET texte)
-        var testPoint1 = viewport.viewportToWindowCoordinates(new OpenSeadragon.Point(0, 0));
-        var testPoint2 = viewport.viewportToWindowCoordinates(new OpenSeadragon.Point(stepSize, 0));
-        var stepSizeInPixels = Math.abs(testPoint2.x - testPoint1.x);
-        
-        // Calculer l'épaisseur des lignes selon le slider (relatif à la taille des cases)
-        var lineWidthPercent = parseFloat(document.getElementById('lineWidthSlider').value) / 100;
-        var lineWidth = stepSizeInPixels * lineWidthPercent;
-        
-        // Limites minimales et maximales pour l'épaisseur
-        lineWidth = Math.max(0.2, Math.min(10, lineWidth));
+        // Épaisseur des lignes simplifiée avec le slider
+        var lineWidthPercent = parseFloat(document.getElementById('lineWidthSlider').value);
+        var lineWidth = Math.max(0.5, lineWidthPercent * zoom / 10);
+        lineWidth = Math.min(lineWidth, 8);
         
         gridCtx.strokeStyle = '#00ff00';
         gridCtx.lineWidth = lineWidth;
         gridCtx.globalAlpha = 0.7;
         
-        // Appliquer les offsets (en pourcentage d'une tuile)
+        // Appliquer les offsets
         var offsetX = parseFloat(document.getElementById('offsetXSlider').value) / 100 * stepSize;
         var offsetY = parseFloat(document.getElementById('offsetYSlider').value) / 100 * stepSize;
         
-        // Calculer les limites visibles avec une marge pour éviter les décalages
-        var marginSteps = 2;
-        var startX = Math.max(0, Math.floor((bounds.x - offsetX) / stepSize) - marginSteps);
-        var endX = Math.min(currentGridSize, Math.ceil(((bounds.x - offsetX) + bounds.width) / stepSize) + marginSteps);
-        var startY = Math.max(0, Math.floor((bounds.y - offsetY) / stepSize) - marginSteps);
-        var endY = Math.min(currentGridSize, Math.ceil(((bounds.y - offsetY) + bounds.height) / stepSize) + marginSteps);
+        // Calculer les limites visibles
+        var startX = Math.max(0, Math.floor((bounds.x - offsetX) / stepSize) - 1);
+        var endX = Math.min(currentGridSize, Math.ceil(((bounds.x - offsetX) + bounds.width) / stepSize) + 1);
+        var startY = Math.max(0, Math.floor((bounds.y - offsetY) / stepSize) - 1);
+        var endY = Math.min(currentGridSize, Math.ceil(((bounds.y - offsetY) + bounds.height) / stepSize) + 1);
         
         gridCtx.beginPath();
         
-        // Dessiner les lignes verticales avec une précision améliorée
+        // Dessiner les lignes verticales
         for (var i = startX; i <= endX; i++) {
             var worldX = i * stepSize + offsetX;
             var pixelPos = viewport.viewportToWindowCoordinates(new OpenSeadragon.Point(worldX, 0));
-            var x = Math.round(pixelPos.x); // Arrondir pour éviter les décalages sub-pixel
-            
-            if (x >= -lineWidth && x <= gridCanvas.width + lineWidth) {
-                gridCtx.moveTo(x, 0);
-                gridCtx.lineTo(x, gridCanvas.height);
-            }
+            gridCtx.moveTo(pixelPos.x, 0);
+            gridCtx.lineTo(pixelPos.x, gridCanvas.height);
         }
         
-        // Dessiner les lignes horizontales avec une précision améliorée
+        // Dessiner les lignes horizontales
         for (var j = startY; j <= endY; j++) {
             var worldY = j * stepSize + offsetY;
             var pixelPos = viewport.viewportToWindowCoordinates(new OpenSeadragon.Point(0, worldY));
-            var y = Math.round(pixelPos.y); // Arrondir pour éviter les décalages sub-pixel
-            
-            if (y >= -lineWidth && y <= gridCanvas.height + lineWidth) {
-                gridCtx.moveTo(0, y);
-                gridCtx.lineTo(gridCanvas.width, y);
-            }
+            gridCtx.moveTo(0, pixelPos.y);
+            gridCtx.lineTo(gridCanvas.width, pixelPos.y);
         }
         
         gridCtx.stroke();
         
-        // Dessiner les numéros si le zoom est suffisant
+        // Texte simplifié
         var visibleCells = (endX - startX) * (endY - startY);
-        // Seuil plus permissif pour les gros quadrillages
-        var zoomThreshold = currentGridSize >= 500 ? currentGridSize / 500 : currentGridSize / 200;
-        var shouldShowNumbers = zoom > zoomThreshold && visibleCells < 3000;
+        var shouldShowNumbers = zoom > (currentGridSize / 200) && visibleCells < 2000;
         
         if (shouldShowNumbers) {
-            // Utiliser le pourcentage du slider pour la taille du texte
-            var textSizePercent = parseFloat(document.getElementById('textSizeSlider').value) / 100;
-            var fontSize = stepSizeInPixels * textSizePercent;
-            
-            // Limites minimales et maximales
-            fontSize = Math.max(4, Math.min(50, fontSize));
+            // Taille de police basée sur zoom et slider
+            var textSizePercent = parseFloat(document.getElementById('textSizeSlider').value);
+            var fontSize = Math.max(6, Math.min(40, (textSizePercent * zoom) / currentGridSize * 200));
             
             gridCtx.font = fontSize + 'px Verdana';
             gridCtx.fillStyle = '#00ff00';
             gridCtx.strokeStyle = '#000000';
-            gridCtx.lineWidth = Math.max(0.5, fontSize / 15);
+            gridCtx.lineWidth = Math.max(0.5, fontSize / 12);
             gridCtx.textAlign = 'center';
             gridCtx.textBaseline = 'middle';
             gridCtx.globalAlpha = 0.9;
             
-            // Dessiner les textes des cases visibles avec positionnement stable
             for (var x = Math.max(0, startX); x < Math.min(currentGridSize, endX); x++) {
                 for (var y = Math.max(0, startY); y < Math.min(currentGridSize, endY); y++) {
                     var centerX = (x + 0.5) * stepSize + offsetX;
                     var centerY = (y + 0.5) * stepSize + offsetY;
-                    
                     var pixelCenter = viewport.viewportToWindowCoordinates(new OpenSeadragon.Point(centerX, centerY));
                     
-                    // Arrondir les positions du texte pour plus de stabilité
-                    var textX = Math.round(pixelCenter.x);
-                    var textY = Math.round(pixelCenter.y);
-                    
-                    // Vérifier si le texte est visible avec une marge généreuse
-                    if (textX >= -100 && textX <= gridCanvas.width + 100 &&
-                        textY >= -100 && textY <= gridCanvas.height + 100) {
-                        
+                    if (pixelCenter.x >= -50 && pixelCenter.x <= gridCanvas.width + 50 &&
+                        pixelCenter.y >= -50 && pixelCenter.y <= gridCanvas.height + 50) {
                         var text = x + ';' + y;
-                        gridCtx.strokeText(text, textX, textY);
-                        gridCtx.fillText(text, textX, textY);
+                        gridCtx.strokeText(text, pixelCenter.x, pixelCenter.y);
+                        gridCtx.fillText(text, pixelCenter.x, pixelCenter.y);
                     }
                 }
             }
@@ -775,32 +746,48 @@
 	    });
     }
 
-    // Écouter les événements de zoom et mettre à jour la visibilité
+    // Écouter les événements et synchroniser avec OpenSeadragon
     viewer.addHandler('zoom', function() {
         updateTextVisibility();
-        scheduleGridUpdate(true); // Immédiat pour le zoom
+        // Forcer un redraw immédiat après que OpenSeadragon ait mis à jour
+        setTimeout(function() {
+            if (gridVisible) drawGrid();
+        }, 0);
     });
 
-    // Écouter les événements de déplacement pour le quadrillage (immédiat)
     viewer.addHandler('pan', function() {
-        scheduleGridUpdate(true); // Mise à jour immédiate pour les mouvements
+        // Redraw immédiat pour le pan
+        setTimeout(function() {
+            if (gridVisible) drawGrid();
+        }, 0);
     });
 
-    // Écouter pendant l'animation pour une synchronisation parfaite
-    viewer.addHandler('animation', function() {
+    // Synchronisation continue pendant l'animation
+    var animationInProgress = false;
+    viewer.addHandler('animation-start', function() {
+        animationInProgress = true;
         if (gridVisible) {
-            scheduleGridUpdate(false); // Avec petit délai pendant l'animation
+            var animationLoop = function() {
+                if (animationInProgress && gridVisible) {
+                    drawGrid();
+                    requestAnimationFrame(animationLoop);
+                }
+            };
+            requestAnimationFrame(animationLoop);
         }
     });
 
-    // Écouter les événements d'animation pour le quadrillage
     viewer.addHandler('animation-finish', function() {
-        scheduleGridUpdate(true); // Immédiat à la fin d'animation
+        animationInProgress = false;
+        if (gridVisible) {
+            drawGrid();
+        }
     });
 
-    // Redimensionner le canvas quand la fenêtre change
     viewer.addHandler('resize', function() {
-        scheduleGridUpdate(true); // Immédiat pour le redimensionnement
+        if (gridVisible) {
+            drawGrid();
+        }
     });
 
     // Initialement mettre à jour la visibilité (au cas où le zoom est déjà correct au démarrage)
