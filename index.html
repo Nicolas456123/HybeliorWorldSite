@@ -1,26 +1,9 @@
-// Fonction pour calculer les coordonnées selon l'origine choisie
-    function calculateGridCoordinates(gridX, gridY) {
-        var origin = document.getElementById('originSelector').value;
-        var maxX = currentGridSize - 1;
-        var maxY = currentGridSize - 1;
-        
-        switch(origin) {
-            case 'top-left':
-                return { x: gridX, y: gridY };
-            case 'top-right':
-                return { x: maxX - gridX, y: gridY };
-            case 'bottom-left':
-                return { x: gridX, y: maxY - gridY };
-            case 'bottom-right':
-                return { x: maxX - gridX, y: maxY - gridY };
-            default:
-                return { x: gridX, y: gridY };
-        }
-    }<html lang="fr">
+<!DOCTYPE html>
+<html lang="fr">
 <head>
-	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Hybelior World Map</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Hybelior World Map</title>
     <script src="./openseadragon-bin-5.0.0/openseadragon.min.js"></script>
     <script src="./openseadragon-bin-5.0.0/openseadragon-svg-overlay.js"></script>
     <style>
@@ -30,20 +13,21 @@
             src: url('./Font/Copperplate-Gothic-Std-33-BC.ttf') format('truetype');
         }
 
+        body {
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+        }
+
         /* Style pour les boutons */
         .controls {
             position: absolute;
             top: 50px;
             left: 0;
-            z-index: 500; /* Z-index encore plus bas */
+            z-index: 1000;
             width: 220px;
             transform: translateX(calc(-100% + 20px));
             transition: transform 0.3s ease;
-            max-height: calc(100vh - 60px);
-            overflow-y: auto;
-            background-color: rgba(0, 0, 0, 0.8); /* Fond semi-transparent */
-            padding: 10px;
-            border-radius: 5px;
         }
         .controls:hover {
             transform: translateX(0);
@@ -57,60 +41,76 @@
             border: none;
             border-radius: 5px;
             cursor: pointer;
+            font-size: 12px;
         }
         .controls button:hover {
             background-color: #0056b3;
         }
-	.controls input[type="text"], .controls input[type="number"] {
+        .controls input[type="text"] {
             width: 200px;
             color: black;
             background-color: white;
             padding: 8px;
+            margin-bottom: 10px;
+            border: 1px solid #ccc;
+            border-radius: 3px;
         }
-        .controls input[type="number"] {
-            width: 80px;
+
+        /* Contrôles de grille */
+        .grid-controls {
+            background-color: rgba(255,255,255,0.9);
+            padding: 5px;
+            border-radius: 3px;
+            margin-bottom: 10px;
         }
-        .controls input[type="range"] {
-            width: 100px;
+        .grid-controls label {
+            font-size: 11px;
+            display: block;
+            margin-bottom: 3px;
         }
-        .controls select {
-            color: black;
-            background-color: white;
+        .grid-controls input[type="range"] {
+            width: 100%;
+            margin-bottom: 5px;
+        }
+        .grid-controls select {
+            width: 100%;
             padding: 3px;
+            margin-bottom: 5px;
         }
+
         /* Style pour la fenêtre d'information */
         .info-panel {
             position: absolute;
             top: 10px;
             right: 10px;
             width: 300px;
-	    /*height: auto; /* Hauteur automatique en fonction du contenu */
-            max-height: calc(100vh - 20px); /* Hauteur maximale de 600px */
-            padding: 15px; /* On retire le padding ici pour mieux gérer dans les sous-div */
+            max-height: calc(100vh - 20px);
+            padding: 15px;
             background-color: white;
             border: 1px solid #ccc;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
             font-family: 'Copperplate Gothic Std', sans-serif;
-            display: none; /* Caché par défaut */
-            z-index: 1001; /* S'assurer que la fenêtre est au-dessus des autres éléments */
-	    overflow: hidden; /* Empêcher le débordement */
+            display: none;
+            z-index: 1001;
+            overflow: hidden;
         }  
-	/* Section fixe (entête) */
-	.info-panel-header {
-	    position: sticky;
-	    top: 0;
-	    background-color: white;
-	    padding: 0px;
-	    border-bottom: 1px solid #ccc;
-	    z-index: 10; /* Assurez-vous qu'il est au-dessus du contenu défilant */
-	}
-	
-	/* Contenu déroulant */
-        .info-panel-content {
-            max-height: calc(100vh - 60px); /* Ajuster en fonction de l'en-tête */
-            overflow-y: auto; /* Barre de défilement verticale si nécessaire */
+        
+        /* Section fixe (entête) */
+        .info-panel-header {
+            position: sticky;
+            top: 0;
+            background-color: white;
             padding: 0px;
-            text-align: justify; /* Justifier le texte */
+            border-bottom: 1px solid #ccc;
+            z-index: 10;
+        }
+        
+        /* Contenu déroulant */
+        .info-panel-content {
+            max-height: calc(100vh - 60px);
+            overflow-y: auto;
+            padding: 0px;
+            text-align: justify;
         }
 
         .info-panel-content details {
@@ -121,124 +121,109 @@
             font-weight: bold;
             cursor: pointer;
         }
-	
-	/* Titre (restant fixé en haut) */
-	.info-panel-header h2 {
-	    font-family: 'Verdana', sans-serif; /* Police pour le titre */
-	    margin-top: 0;
-	    font-size: 20px;
-	    color: #333;
-	}
-	
-	/* Texte du contenu */
-	.info-panel-content p {
-	    font-family: 'Verdana', sans-serif; /* Police pour les paragraphes */
-	    font-size: 14px;
-	    color: #666;
-     white-space: pre-line; /* Conserve les sauts de ligne dans le texte */
-	}
-	    
-	.suggestions-list {
-		border: 1px solid #ccc;
-		background-color: white;
-		max-height: 150px;
-		overflow-y: auto;
-		display: none; /* Caché par défaut */
-		position: absolute;
-		width: 200px;
-		z-index: 1000;
-	}
+        
+        /* Titre (restant fixé en haut) */
+        .info-panel-header h2 {
+            font-family: 'Verdana', sans-serif;
+            margin-top: 0;
+            font-size: 20px;
+            color: #333;
+        }
+        
+        /* Texte du contenu */
+        .info-panel-content p {
+            font-family: 'Verdana', sans-serif;
+            font-size: 14px;
+            color: #666;
+            white-space: pre-line;
+        }
+            
+        .suggestions-list {
+            border: 1px solid #ccc;
+            background-color: white;
+            max-height: 150px;
+            overflow-y: auto;
+            display: none;
+            position: absolute;
+            width: 200px;
+            z-index: 1000;
+        }
 
-	.suggestions-list div {
-		padding: 8px;
-		cursor: pointer;
-	}
+        .suggestions-list div {
+            padding: 8px;
+            cursor: pointer;
+        }
 
-	.suggestions-list div:hover {
-		background-color: #f0f0f0;
-	}
-		
+        .suggestions-list div:hover {
+            background-color: #f0f0f0;
+        }
+            
         #bordersElement {
-                position: absolute;
-                z-index: 10; /* Assurez-vous que la carte a un z-index inférieur */
+            position: absolute;
+            z-index: 10;
         }
 
         /* Timeline container at bottom */
         #timelineContainer {
-                position: fixed;
-                bottom: 10px;
-                left: 50%;
-                transform: translateX(-50%);
-                background-color: rgba(255,255,255,0.8);
-                padding: 10px;
-                border-radius: 5px;
-                z-index: 1002;
-                font-family: 'Verdana', sans-serif;
-                text-align: center;
+            position: fixed;
+            bottom: 10px;
+            left: 50%;
+            transform: translateX(-50%);
+            background-color: rgba(255,255,255,0.8);
+            padding: 10px;
+            border-radius: 5px;
+            z-index: 1002;
+            font-family: 'Verdana', sans-serif;
+            text-align: center;
         }
 
         #timeline {
-                width: 80%;
+            width: 80%;
+        }
+
+        /* Grille overlay */
+        .grid-overlay {
+            pointer-events: none;
+            opacity: 0.7;
         }
     </style>
 </head>
 
 <body>
-<div id="openseadragon1" style="width: calc(100% - 20px); height: calc(100% - 20px); position: relative;">
+<div id="openseadragon1" style="width: 100vw; height: 100vh; position: relative;">
     <!-- Barre de recherche et boutons de contrôle -->
-        <div class="controls">
-            <input type="text" id="searchInput" placeholder="Rechercher un nom...">
-            <div id="suggestions" class="suggestions-list"></div> <!-- Conteneur pour les suggestions -->
-            <button id="searchButton">Rechercher</button>
-            <button id="toggleText">Afficher/Masquer textes</button>
-            <button id="toggleBorders">Afficher les frontières</button>
-            <button id="toggleGrid">Afficher quadrillage</button>
-            <div style="margin-bottom: 10px;">
-                <label style="color: white; font-size: 12px;">Tuiles (2-10000):</label>
-                <input type="number" id="gridSize" min="2" max="10000" value="16" style="width: 80px; margin-left: 5px;">
-                <button id="updateGrid" style="margin-left: 5px; padding: 5px;">MAJ</button>
-            </div>
-            <div style="margin-bottom: 10px;">
-                <label style="color: white; font-size: 12px;">Origine numéros:</label>
-                <select id="originSelector" style="margin-left: 5px; padding: 3px; width: 120px;">
-                    <option value="top-left">Haut-Gauche</option>
-                    <option value="top-right">Haut-Droite</option>
-                    <option value="bottom-left">Bas-Gauche</option>
-                    <option value="bottom-right">Bas-Droite</option>
-                </select>
-            </div>
-            <div style="margin-bottom: 10px;">
-                <label style="color: white; font-size: 12px;">Taille texte:</label>
-                <input type="range" id="textSizeSlider" min="10" max="90" value="50" style="width: 100px; margin-left: 5px;">
-                <span id="textSizeValue" style="color: white; font-size: 11px; margin-left: 5px;">50%</span>
-            </div>
-            <div style="margin-bottom: 10px;">
-                <label style="color: white; font-size: 12px;">Épaisseur lignes:</label>
-                <input type="range" id="lineWidthSlider" min="1" max="20" value="3" style="width: 100px; margin-left: 5px;">
-                <span id="lineWidthValue" style="color: white; font-size: 11px; margin-left: 5px;">3%</span>
-            </div>
-            <div style="margin-bottom: 10px;">
-                <label style="color: white; font-size: 12px;">Offset X:</label>
-                <input type="range" id="offsetXSlider" min="-100" max="100" value="0" style="width: 100px; margin-left: 5px;">
-                <span id="offsetXValue" style="color: white; font-size: 11px; margin-left: 5px;">0%</span>
-            </div>
-            <div style="margin-bottom: 10px;">
-                <label style="color: white; font-size: 12px;">Offset Y:</label>
-                <input type="range" id="offsetYSlider" min="-100" max="100" value="0" style="width: 100px; margin-left: 5px;">
-                <span id="offsetYValue" style="color: white; font-size: 11px; margin-left: 5px;">0%</span>
-            </div>
-            <button id="measureDistance">Mesurer distance</button>
-            <button id="measureArea">Mesurer surface</button>
+    <div class="controls">
+        <input type="text" id="searchInput" placeholder="Rechercher un nom...">
+        <div id="suggestions" class="suggestions-list"></div>
+        <button id="searchButton">Rechercher</button>
+        <button id="toggleText">Afficher/Masquer textes</button>
+        <button id="toggleBorders">Afficher les frontières</button>
+        <button id="measureDistance">Mesurer distance</button>
+        <button id="measureArea">Mesurer surface</button>
+        
+        <!-- Contrôles de grille -->
+        <div class="grid-controls">
+            <button id="toggleGrid">Afficher/Masquer grille</button>
+            <label for="gridSize">Taille grille: <span id="gridSizeValue">10</span></label>
+            <input type="range" id="gridSize" min="5" max="50" value="10">
+            <label for="gridTextSize">Taille texte: <span id="gridTextSizeValue">2%</span></label>
+            <input type="range" id="gridTextSize" min="1" max="10" value="2">
+            <label for="originSelector">Origine:</label>
+            <select id="originSelector">
+                <option value="top-left">Haut-Gauche</option>
+                <option value="top-right">Haut-Droite</option>
+                <option value="bottom-left">Bas-Gauche</option>
+                <option value="bottom-right">Bas-Droite</option>
+            </select>
         </div>
+    </div>
 
     <!-- Fenêtre d'information pour afficher les détails de la ville -->
     <div id="infoPanel" class="info-panel">
-        <!-- Section fixe avec le titre et le bouton de fermeture -->
         <div class="info-panel-header">
             <h2 id="cityName">Nom de la ville</h2>
             <span id="closeInfoPanel" style="position:absolute; top:10px; right:10px; cursor:pointer; font-weight:bold;">&times;</span>
         </div>
-        <!-- Section déroulante avec le contenu -->
         <div class="info-panel-content">
             <div id="cityInfo"></div>
         </div>
@@ -251,229 +236,246 @@
     <span id="timelineLabel"></span>
 </div>
 
-
 <script type="text/javascript">
-    var viewer = OpenSeadragon({
-        id: "openseadragon1",
-        prefixUrl: "./images/",
-        tileSources: "./HybeliorFull/HybeliorMap.dzi"
-    });
-    
-    document.getElementById('closeInfoPanel').addEventListener('click', function() {
-        document.getElementById('infoPanel').style.display = 'none';
-    });
-	
-    // Ajouter l'overlay SVG
-    var svgOverlay = viewer.svgOverlay();
-
-    // Couche pour les frontières
-    var bordersLayer = document.createElementNS("http://www.w3.org/2000/svg", "g");
-    bordersLayer.setAttribute('id', 'bordersLayer');
-    bordersLayer.style.display = 'none';
-    svgOverlay.node().appendChild(bordersLayer);
-
-    // Couche pour le quadrillage (retour au SVG)
-    var gridLayer = document.createElementNS("http://www.w3.org/2000/svg", "g");
-    gridLayer.setAttribute('id', 'gridLayer');
-    gridLayer.style.display = 'none';
-    svgOverlay.node().appendChild(gridLayer);
-
-    // Variables pour le quadrillage
-    var currentGridSize = 16;
-    var gridVisible = false;
-    var gridUpdateTimeout = null;
-
-    // Exemple de polygone de frontière
-    var sampleBorder = document.createElementNS("http://www.w3.org/2000/svg", "polygon");
-    sampleBorder.setAttribute('points', '0.45,0.45 0.55,0.45 0.55,0.55 0.45,0.55');
-    sampleBorder.setAttribute('stroke', 'red');
-    sampleBorder.setAttribute('fill', 'transparent');
-    bordersLayer.appendChild(sampleBorder);
-
-    // Formes de frontière selon la période historique
-    var borderShapes = {
-        0: '0.45,0.45 0.55,0.45 0.55,0.55 0.45,0.55',
-        1: '0.40,0.45 0.60,0.45 0.60,0.55 0.40,0.55',
-        2: '0.40,0.40 0.60,0.40 0.60,0.60 0.40,0.60'
+    // Configuration globale
+    const CONFIG = {
+        worldWidthKm: 1000,
+        csvFiles: [
+            { path: "./Data/DT_Continents.csv", fontSize: "0.03", storage: "continentsElements", xOffset: 0.03, yOffset: 0.02, zoomRange: [1, 2] },
+            { path: "./Data/DT_Pays.csv", fontSize: "0.01", storage: "paysElements", xOffset: 0.015, yOffset: 0.01, zoomRange: [2, 4] },
+            { path: "./Data/DT_Region.csv", fontSize: "0.004", storage: "regionElements", xOffset: 0.005, yOffset: 0.002, zoomRange: [4, 10] },
+            { path: "./Data/DT_Capitales.csv", fontSize: "0.0015", storage: "capitalesElements", xOffset: 0, yOffset: 0, zoomRange: [10, Infinity] },
+            { path: "./Data/DT_Cites.csv", fontSize: "0.0011", storage: "citesElements", xOffset: 0, yOffset: 0, zoomRange: [14, Infinity] },
+            { path: "./Data/DT_Villes.csv", fontSize: "0.0006", storage: "villesElements", xOffset: 0, yOffset: 0, zoomRange: [16, Infinity] },
+            { path: "./Data/DT_Villages.csv", fontSize: "0.0004", storage: "villagesElements", xOffset: 0, yOffset: 0, zoomRange: [18, Infinity] }
+        ]
     };
 
-    var timelineYears = ['1000', '1500', '2000'];
+    // Variables globales
+    let viewer;
+    let svgOverlay;
+    let bordersLayer;
+    let measureLayer;
+    let gridLayer;
+    
+    // Stockage des éléments
+    const elementStorage = {};
+    const allNames = [];
+    const allTextElements = [];
+    const allRectElements = [];
+    
+    // États
+    let textVisibilityEnabled = true;
+    let measureMode = null;
+    let measurePoints = [];
+    let currentGridSize = 10;
+    let gridVisible = false;
 
-    var timeline = document.getElementById('timeline');
-    var timelineLabel = document.getElementById('timelineLabel');
-
-    function updateBorders() {
-        var val = parseInt(timeline.value, 10);
-        var points = borderShapes[val];
-        if (points) {
-            sampleBorder.setAttribute('points', points);
-        }
-        timelineLabel.textContent = timelineYears[val];
+    // Initialisation du viewer OpenSeadragon
+    function initViewer() {
+        viewer = OpenSeadragon({
+            id: "openseadragon1",
+            prefixUrl: "./images/",
+            tileSources: "./HybeliorFull/HybeliorMap.dzi"
+        });
+        
+        svgOverlay = viewer.svgOverlay();
+        initLayers();
+        initEventHandlers();
+        loadCSVData();
     }
 
-    // Initial display
-    updateBorders();
-    timeline.addEventListener('input', updateBorders);
+    // Initialisation des couches SVG
+    function initLayers() {
+        // Couche pour les frontières
+        bordersLayer = createSVGGroup('bordersLayer');
+        bordersLayer.style.display = 'none';
+        
+        // Couche pour les mesures
+        measureLayer = createSVGGroup('measureLayer');
+        
+        // Couche pour la grille
+        gridLayer = createSVGGroup('gridLayer');
+        gridLayer.classList.add('grid-overlay');
+        gridLayer.style.display = 'none';
+        
+        // Exemple de frontière
+        createSampleBorder();
+        
+        // Timeline
+        initTimeline();
+    }
 
-    sampleBorder.addEventListener('mouseover', function() {
-        sampleBorder.setAttribute('fill', 'rgba(255,0,0,0.3)');
-    });
-    sampleBorder.addEventListener('mouseout', function() {
+    function createSVGGroup(id) {
+        const group = document.createElementNS("http://www.w3.org/2000/svg", "g");
+        group.setAttribute('id', id);
+        svgOverlay.node().appendChild(group);
+        return group;
+    }
+
+    function createSampleBorder() {
+        const sampleBorder = document.createElementNS("http://www.w3.org/2000/svg", "polygon");
+        sampleBorder.setAttribute('points', '0.45,0.45 0.55,0.45 0.55,0.55 0.45,0.55');
+        sampleBorder.setAttribute('stroke', 'red');
         sampleBorder.setAttribute('fill', 'transparent');
-    });
+        bordersLayer.appendChild(sampleBorder);
 
-    // Fonction pour créer le quadrillage SVG (version corrigée)
-    function createGrid(gridSize) {
-        currentGridSize = gridSize || parseInt(document.getElementById('gridSize').value, 10) || 16;
-        
-        // Vider le quadrillage existant
-        while (gridLayer.firstChild) {
-            gridLayer.removeChild(gridLayer.firstChild);
-        }
-        
-        if (!gridVisible) return;
-        
-        var stepSize = 1.0 / currentGridSize;
-        
-        // Appliquer les offsets
-        var offsetX = parseFloat(document.getElementById('offsetXSlider').value) / 100 * stepSize;
-        var offsetY = parseFloat(document.getElementById('offsetYSlider').value) / 100 * stepSize;
-        
-        // Épaisseur des lignes selon le slider
-        var lineWidthPercent = parseFloat(document.getElementById('lineWidthSlider').value);
-        var strokeWidth = Math.max(0.0001, lineWidthPercent / 2000);
-        
-        // Obtenir la zone visible actuelle
-        var viewport = viewer.viewport;
-        var bounds = viewport.getBounds();
-        var zoom = viewport.getZoom();
-        
-        // Calculer quelles lignes sont réellement visibles (avec plus de marge)
-        var startX = Math.max(0, Math.floor((bounds.x - offsetX) / stepSize) - 5);
-        var endX = Math.min(currentGridSize, Math.ceil(((bounds.x - offsetX) + bounds.width) / stepSize) + 5);
-        var startY = Math.max(0, Math.floor((bounds.y - offsetY) / stepSize) - 5);
-        var endY = Math.min(currentGridSize, Math.ceil(((bounds.y - offsetY) + bounds.height) / stepSize) + 5);
-        
-        // Créer seulement les lignes visibles
-        for (var i = startX; i <= endX; i++) {
-            if (i >= 0 && i <= currentGridSize) {
-                // Ligne verticale
-                var x = i * stepSize + offsetX;
-                var vLine = document.createElementNS("http://www.w3.org/2000/svg", "line");
-                vLine.setAttribute('x1', x);
-                vLine.setAttribute('y1', 0);
-                vLine.setAttribute('x2', x);
-                vLine.setAttribute('y2', 1);
-                vLine.setAttribute('stroke', '#00ff00');
-                vLine.setAttribute('stroke-width', strokeWidth);
-                vLine.setAttribute('opacity', '0.7');
-                gridLayer.appendChild(vLine);
+        // Événements hover
+        sampleBorder.addEventListener('mouseover', () => {
+            sampleBorder.setAttribute('fill', 'rgba(255,0,0,0.3)');
+        });
+        sampleBorder.addEventListener('mouseout', () => {
+            sampleBorder.setAttribute('fill', 'transparent');
+        });
+
+        // Timeline pour les frontières
+        const borderShapes = {
+            0: '0.45,0.45 0.55,0.45 0.55,0.55 0.45,0.55',
+            1: '0.40,0.45 0.60,0.45 0.60,0.55 0.40,0.55',
+            2: '0.40,0.40 0.60,0.40 0.60,0.60 0.40,0.60'
+        };
+
+        window.updateBorders = function() {
+            const val = parseInt(document.getElementById('timeline').value, 10);
+            const points = borderShapes[val];
+            if (points) {
+                sampleBorder.setAttribute('points', points);
             }
-        }
-        
-        for (var j = startY; j <= endY; j++) {
-            if (j >= 0 && j <= currentGridSize) {
-                // Ligne horizontale
-                var y = j * stepSize + offsetY;
-                var hLine = document.createElementNS("http://www.w3.org/2000/svg", "line");
-                hLine.setAttribute('x1', 0);
-                hLine.setAttribute('y1', y);
-                hLine.setAttribute('x2', 1);
-                hLine.setAttribute('y2', y);
-                hLine.setAttribute('stroke', '#00ff00');
-                hLine.setAttribute('stroke-width', strokeWidth);
-                hLine.setAttribute('opacity', '0.7');
-                gridLayer.appendChild(hLine);
-            }
-        }
-        
-        // Ajouter les numéros (logique simplifiée et corrigée)
-        var visibleCells = (endX - startX) * (endY - startY);
-        
-        // Toujours afficher quelques numéros, même si beaucoup de zoom
-        if (visibleCells < 10000) { // Limite plus généreuse
-            addVisibleGridNumbers(startX, endX, startY, endY, stepSize, offsetX, offsetY, zoom);
-        }
-    }
-    
-    // Fonction pour ajouter seulement les numéros visibles (corrigée)
-    function addVisibleGridNumbers(startX, endX, startY, endY, stepSize, offsetX, offsetY, zoom) {
-        var textSizePercent = parseFloat(document.getElementById('textSizeSlider').value) / 100;
-        // Formule corrigée plus simple
-        var fontSize = Math.max(0.005, Math.min(0.08, textSizePercent * 0.2 / currentGridSize));
-        
-        // Déterminer le pas d'échantillonnage selon le nombre de cases visibles
-        var visibleCells = (endX - startX) * (endY - startY);
-        var step = 1;
-        
-        if (visibleCells > 2000) {
-            step = Math.ceil(Math.sqrt(visibleCells / 500)); // Échantillonnage adaptatif
-        }
-        
-        for (var x = startX; x < endX; x += step) {
-            for (var y = startY; y < endY; y += step) {
-                if (x >= 0 && x < currentGridSize && y >= 0 && y < currentGridSize) {
-                    createGridText(x, y, stepSize, offsetX, offsetY, fontSize);
-                }
-            }
-        }
-    }
-    
-    // Fonction pour créer un texte de grille (centrage amélioré)
-    function createGridText(x, y, stepSize, offsetX, offsetY, fontSize) {
-        var centerX = (x + 0.5) * stepSize + offsetX;
-        var centerY = (y + 0.5) * stepSize + offsetY;
-        
-        // Calculer les coordonnées d'affichage selon l'origine choisie
-        var coords = calculateGridCoordinates(x, y);
-        
-        var textElement = document.createElementNS("http://www.w3.org/2000/svg", "text");
-        textElement.setAttribute("x", centerX);
-        textElement.setAttribute("y", centerY);
-        textElement.setAttribute("fill", "#00ff00");
-        textElement.setAttribute("stroke", "#000000");
-        textElement.setAttribute("stroke-width", fontSize * 0.05);
-        textElement.setAttribute("font-size", fontSize);
-        textElement.setAttribute("text-anchor", "middle");
-        textElement.setAttribute("dominant-baseline", "central"); // Meilleur centrage vertical
-        textElement.setAttribute("font-family", "Verdana, sans-serif");
-        textElement.setAttribute("pointer-events", "none");
-        textElement.setAttribute("opacity", "0.8");
-        textElement.textContent = coords.x + ";" + coords.y;
-        gridLayer.appendChild(textElement);
+        };
     }
 
-    // Arrays pour stocker les éléments par type
-    var continentsElements = [];
-    var paysElements = [];
-    var regionElements = [];
-    var capitalesElements = [];
-    var citesElements = [];
-    var villesElements = [];
-    var villagesElements = [];
-    var allTextElements = [];  // Pour toggle global
-    var allRectElements = [];  // Pour toggle des rectangles
-    // Variable pour stocker tous les noms (pays, continents, etc.)
-    var allNames = [];
-    // État d'activation de l'affichage des textes
-    var textVisibilityEnabled = true;
+    function initTimeline() {
+        const timelineYears = ['1000', '1500', '2000'];
+        const timeline = document.getElementById('timeline');
+        const timelineLabel = document.getElementById('timelineLabel');
 
-    // Fonction de conversion des coordonnées pour les adapter à OpenSeadragon
+        function updateTimeline() {
+            const val = parseInt(timeline.value, 10);
+            timelineLabel.textContent = timelineYears[val];
+            if (window.updateBorders) window.updateBorders();
+        }
+
+        updateTimeline();
+        timeline.addEventListener('input', updateTimeline);
+    }
+
+    // Gestionnaires d'événements
+    function initEventHandlers() {
+        // Fermeture du panneau d'info
+        document.getElementById('closeInfoPanel').addEventListener('click', () => {
+            document.getElementById('infoPanel').style.display = 'none';
+        });
+
+        // Recherche
+        initSearchHandlers();
+
+        // Boutons de contrôle
+        document.getElementById('toggleText').addEventListener('click', toggleTextVisibility);
+        document.getElementById('toggleBorders').addEventListener('click', toggleBorders);
+        document.getElementById('measureDistance').addEventListener('click', () => startMeasure('distance'));
+        document.getElementById('measureArea').addEventListener('click', () => startMeasure('area'));
+        document.getElementById('toggleGrid').addEventListener('click', toggleGrid);
+
+        // Contrôles de grille
+        initGridControls();
+
+        // Événements de zoom
+        viewer.addHandler('zoom', updateTextVisibility);
+        viewer.addHandler('canvas-click', handleCanvasClick);
+        viewer.addHandler('canvas-double-click', handleCanvasDoubleClick);
+    }
+
+    function initSearchHandlers() {
+        const searchInput = document.getElementById('searchInput');
+        const suggestionsContainer = document.getElementById('suggestions');
+
+        searchInput.addEventListener('input', function() {
+            const query = this.value.toLowerCase();
+            suggestionsContainer.innerHTML = '';
+
+            if (query.length === 0) {
+                suggestionsContainer.style.display = 'none';
+                return;
+            }
+
+            const suggestions = allNames.filter(name => 
+                name && name.toLowerCase().includes(query)
+            ).slice(0, 10); // Limiter à 10 suggestions
+
+            if (suggestions.length > 0) {
+                suggestionsContainer.style.display = 'block';
+                suggestions.forEach(suggestion => {
+                    const suggestionElement = document.createElement('div');
+                    suggestionElement.textContent = suggestion;
+                    suggestionElement.addEventListener('click', () => {
+                        searchInput.value = suggestion;
+                        suggestionsContainer.style.display = 'none';
+                        performSearch(suggestion);
+                    });
+                    suggestionsContainer.appendChild(suggestionElement);
+                });
+            } else {
+                suggestionsContainer.style.display = 'none';
+            }
+        });
+
+        document.getElementById('searchButton').addEventListener('click', () => {
+            performSearch(searchInput.value);
+        });
+    }
+
+    function initGridControls() {
+        const gridSizeSlider = document.getElementById('gridSize');
+        const gridTextSizeSlider = document.getElementById('gridTextSize');
+        const originSelector = document.getElementById('originSelector');
+
+        gridSizeSlider.addEventListener('input', function() {
+            currentGridSize = parseInt(this.value);
+            document.getElementById('gridSizeValue').textContent = currentGridSize;
+            if (gridVisible) updateGrid();
+        });
+
+        gridTextSizeSlider.addEventListener('input', function() {
+            const textSize = parseInt(this.value);
+            document.getElementById('gridTextSizeValue').textContent = textSize + '%';
+            if (gridVisible) updateGrid();
+        });
+
+        originSelector.addEventListener('change', function() {
+            if (gridVisible) updateGrid();
+        });
+    }
+
+    // Fonctions utilitaires
     function convertCoordinates(x, y) {
         return {
-            x: (x + 527.5) / 1047,  // Ajustement des coordonnées
+            x: (x + 527.5) / 1047,
             y: (y + 535) / 1047
         };
     }
 
-    // Analyse simple du CSV sans bibliothèque externe
+    function calculateGridCoordinates(gridX, gridY) {
+        const origin = document.getElementById('originSelector').value;
+        const maxX = currentGridSize - 1;
+        const maxY = currentGridSize - 1;
+        
+        switch(origin) {
+            case 'top-left': return { x: gridX, y: gridY };
+            case 'top-right': return { x: maxX - gridX, y: gridY };
+            case 'bottom-left': return { x: gridX, y: maxY - gridY };
+            case 'bottom-right': return { x: maxX - gridX, y: maxY - gridY };
+            default: return { x: gridX, y: gridY };
+        }
+    }
+
     function parseCSV(text) {
-        var rows = [];
-        var row = [];
-        var field = '';
-        var insideQuotes = false;
-        for (var i = 0; i < text.length; i++) {
-            var c = text[i];
+        const rows = [];
+        let row = [];
+        let field = '';
+        let insideQuotes = false;
+        
+        for (let i = 0; i < text.length; i++) {
+            const c = text[i];
             if (insideQuotes) {
                 if (c === '"') {
                     if (i + 1 < text.length && text[i + 1] === '"') {
@@ -502,426 +504,263 @@
                 }
             }
         }
+        
         if (field.length > 0 || row.length > 0) {
             row.push(field);
             rows.push(row);
         }
-        var header = rows.shift();
-        return rows.map(function(r) {
-            var obj = {};
-            for (var j = 0; j < header.length; j++) {
+        
+        const header = rows.shift();
+        return rows.map(r => {
+            const obj = {};
+            for (let j = 0; j < header.length; j++) {
                 obj[header[j]] = r[j];
             }
             return obj;
         });
     }
 
-    function addTextAndRectFromCSV(filePath, fontSize, storageArray, xOffset, yOffset) {
-        fetch(filePath)
-            .then(function(resp) { return resp.text(); })
-            .then(function(text) {
-                var data = parseCSV(text);
-                data.forEach(function(item) {
-                    var x = parseFloat(item.Coord_X);
-                    var y = parseFloat(item.Coord_Y);
-                    
-                    if (isNaN(x) || isNaN(y)) {
-                        console.error("Invalid coordinate:", x, y);
-                        return; // Ignorer cet élément si les coordonnées ne sont pas valides
-                    }
-                    					
-                    var convertedCoord = convertCoordinates(x, y);
-                    
-                    if (isNaN(convertedCoord.x) || isNaN(convertedCoord.y)) {
-                        console.error("Converted coordinates are invalid:", convertedCoord);
-                        return; // Ignorer cet élément si les coordonnées converties ne sont pas valides
-                    }
-					
-					// Assurez-vous que 'nom' est bien récupéré
-					var name = item[''];
-					console.log("Processing: " + name);  // Log pour vérifier le nom
-
-					if (!name) {
-						console.error("No name found for item with coordinates:", x, y);
-						return; // Ignorer cet élément si le nom est indéfini ou vide
-					}
-
-                    // Calcul dynamique de l'épaisseur du contour en fonction de la taille du texte
-                    var strokeWidth = fontSize * 0.06;
-                    
-                    // Création et configuration de l'élément texte SVG
-                    var textElement = document.createElementNS("http://www.w3.org/2000/svg", "text");
-                    textElement.setAttribute("x", convertedCoord.x + xOffset);
-					textElement.setAttribute("y", convertedCoord.y + yOffset);
-                    textElement.setAttribute("fill", "white"); // Couleur du texte
-                    textElement.setAttribute("stroke", "black"); // Couleur du contour du texte
-                    textElement.setAttribute("stroke-width", strokeWidth); // Épaisseur du contour
-                    textElement.setAttribute("font-size", fontSize); // Taille de la police
-                    textElement.setAttribute("text-anchor", "middle"); // Centrage du texte
-                    textElement.setAttribute("font-family", "Copperplate Gothic Std, sans-serif"); // Police personnalisée
-                    textElement.setAttribute("pointer-events", "none");
-                    textElement.textContent = name;  // Texte provenant du CSV
-
-                    // Calcul de la largeur et de la hauteur du rectangle basé sur le texte
-                    var textWidth = item[''].length * fontSize * 0.6; // Ajustez selon votre police
-                    var textHeight = fontSize * 1.1; // Ajouter un peu de marge pour le texte
-
-                    // Création et configuration de l'élément rectangle SVG
-                    var rectElement = document.createElementNS("http://www.w3.org/2000/svg", "rect");
-                    rectElement.setAttribute("x", convertedCoord.x + xOffset - textWidth / 2);
-					rectElement.setAttribute("y", convertedCoord.y + yOffset - textHeight + (fontSize * 0.3));
-                    rectElement.setAttribute("width", textWidth);
-                    rectElement.setAttribute("height", textHeight);
-                    rectElement.setAttribute("fill", "transparent"); // Changez "none" à une couleur si vous voulez le voir
-                    rectElement.setAttribute("pointer-events", "all"); // Assure que le rect capte les événements de clic
-
-                    // Ajouter les éléments à l'overlay
-                    svgOverlay.node().appendChild(rectElement);
-                    svgOverlay.node().appendChild(textElement);
-										
-			// Ajouter un gestionnaire de clic uniquement au rectangle
-			var tracker = new OpenSeadragon.MouseTracker({
-				element: rectElement,  // Événements de clic seulement sur le rectangle
-				clickHandler: function(event) {
-					event.preventDefaultAction = true; // Empêche le zoom
-					document.getElementById('cityName').textContent = name; // Nom du pays
-					
-					// Construire le contenu de l'info-bulle avec les informations supplémentaires
-                                            var infoContent = `
-                                                <p>${item['Description'] || 'Non disponible'}</p>
-                                                <details>
-                                                    <summary>Gouvernement</summary>
-                                                    <p>${item['Gouvernement'] || 'Non disponible'}</p>
-                                                </details>
-                                                <details>
-                                                    <summary>Culture</summary>
-                                                    <p>${item['Culture'] || 'Non disponible'}</p>
-                                                </details>
-                                                <details>
-                                                    <summary>Histoire Marquante</summary>
-                                                    <p>${item['Histoire marquante'] || 'Non disponible'}</p>
-                                                </details>
-                                            `;
-					document.getElementById('cityInfo').innerHTML = infoContent; // Remplir l'info-bulle avec les détails du pays
-					document.getElementById('infoPanel').style.display = 'block'; // Afficher la fenêtre d'information
-				}
-			});
-
-                    // Stocker les éléments pour une gestion facile
-                    storageArray.push({name: name, coord: convertedCoord, text: textElement, rect: rectElement});
-					allNames.push(name); // Ajouter le nom à la liste de tous les noms
-                    allTextElements.push(textElement);
-                    allRectElements.push(rectElement);
-                });
-            })
-            .catch(function(err) { console.error('CSV parse error', err); });
+    // Chargement des données CSV
+    function loadCSVData() {
+        CONFIG.csvFiles.forEach(config => {
+            elementStorage[config.storage] = [];
+            loadCSVFile(config);
+        });
     }
-	// Ajouter les textes et rectangles pour les continents, pays, régions et autres en fonction de leur niveau de zoom
-	addTextAndRectFromCSV("./Data/DT_Continents.csv", "0.03", continentsElements, 0.03, 0.02);
-	addTextAndRectFromCSV("./Data/DT_Pays.csv", "0.01", paysElements, 0.015, 0.01);
-	addTextAndRectFromCSV("./Data/DT_Region.csv", "0.004", regionElements, 0.005, 0.002);	
-	addTextAndRectFromCSV("./Data/DT_Villes.csv", "0.0006", villesElements, 0, 0);
-	addTextAndRectFromCSV("./Data/DT_Cites.csv", "0.0011", citesElements, 0, 0); 
-	addTextAndRectFromCSV("./Data/DT_Villages.csv", "0.0004", villagesElements, 0, 0);
-	addTextAndRectFromCSV("./Data/DT_Capitales.csv", "0.0015", capitalesElements, 0, 0);
 
-	// Gestion de la saisie dans la barre de recherche
-	document.getElementById('searchInput').addEventListener('input', function() {
-		var query = this.value.toLowerCase();
-		var suggestionsContainer = document.getElementById('suggestions');
-		suggestionsContainer.innerHTML = ''; // Vider les anciennes suggestions
+    function loadCSVFile(config) {
+        fetch(config.path)
+            .then(response => response.text())
+            .then(text => {
+                const data = parseCSV(text);
+                data.forEach(item => processCSVItem(item, config));
+            })
+            .catch(err => console.error('CSV load error for', config.path, err));
+    }
 
-		if (query.length === 0) {
-			suggestionsContainer.style.display = 'none';
-			return;
-		}
+    function processCSVItem(item, config) {
+        const x = parseFloat(item.Coord_X);
+        const y = parseFloat(item.Coord_Y);
+        const name = item[''];
 
-		var suggestions = allNames.filter(function(name) {
-			return name && name.toLowerCase().includes(query);  // Vérification que name est défini
-		});
-
-		if (suggestions.length > 0) {
-			suggestionsContainer.style.display = 'block';
-			suggestions.forEach(function(suggestion) {
-				var suggestionElement = document.createElement('div');
-				suggestionElement.textContent = suggestion;
-				suggestionElement.addEventListener('click', function() {
-					document.getElementById('searchInput').value = suggestion;
-					suggestionsContainer.style.display = 'none';
-				});
-				suggestionsContainer.appendChild(suggestionElement);
-			});
-		} else {
-			suggestionsContainer.style.display = 'none';
-		}
-	});
-
-	// Fonction de recherche et de zoom
-	document.getElementById('searchButton').addEventListener('click', function() {
-		var query = document.getElementById('searchInput').value.toLowerCase();
-		var found = false;
-
-		[continentsElements, paysElements, regionElements, capitalesElements, citesElements, villesElements, villagesElements].forEach(function(elementsArray, index) {
-			elementsArray.forEach(function(element) {
-				if (element.name && element.name.toLowerCase() === query) {
-					found = true;
-					// Utilisation des coordonnées de l'image pour centrer la vue
-					var point = new OpenSeadragon.Point(element.coord.x, element.coord.y);
-					viewer.viewport.panTo(point);  // Centre la vue sur le point
-
-					// Ajuster le niveau de zoom en fonction du type d'élément
-					var zoomLevel;
-			                    switch (index) {
-			                        case 0: // Continents
-			                            zoomLevel = 1.9;
-			                            break;
-			                        case 1: // Pays
-			                            zoomLevel = 3.9;
-			                            break;
-			                        case 2: // Régions
-			                            zoomLevel = 9.9;
-			                            break;
-			                        case 3: // Capitales
-			                            zoomLevel = 13.9;
-			                            break;
-			                        case 4: // Cités
-			                            zoomLevel = 15.9;
-			                            break;
-			                        case 5: // Villes
-			                            zoomLevel = 17.9;
-			                            break;
-			                        case 6: // Villages
-			                            zoomLevel = 19.9;
-			                            break;
-			                        default:
-			                            zoomLevel = 4;
-			                            break;
-			                    }
-				viewer.viewport.zoomTo(zoomLevel); // Appliquer le niveau de zoom	
-				}
-			});
-		});
-
-		if (!found) {
-			alert("Aucun résultat trouvé pour " + query);
-		}
-	});
-
-
-    // Fonction pour afficher/masquer les éléments en fonction du zoom
-    function updateTextVisibility() {
-        if (!textVisibilityEnabled) {
-            allTextElements.forEach(function(textElement) {
-                textElement.style.display = 'none';
-            });
-            allRectElements.forEach(function(rectElement) {
-                rectElement.style.display = 'none';
-            });
+        if (isNaN(x) || isNaN(y) || !name) {
             return;
         }
 
-        var zoomLevel = viewer.viewport.getZoom();
+        const convertedCoord = convertCoordinates(x, y);
+        if (isNaN(convertedCoord.x) || isNaN(convertedCoord.y)) {
+            return;
+        }
 
-        // Gestion de la visibilité pour les continents
-        continentsElements.forEach(function(element) {
-            var display = (zoomLevel >= 1 && zoomLevel < 2) ? 'block' : 'none';
-            element.text.style.display = display;
-            element.rect.style.display = display;
+        const elements = createTextAndRect(name, convertedCoord, config, item);
+        elementStorage[config.storage].push({
+            name: name,
+            coord: convertedCoord,
+            text: elements.text,
+            rect: elements.rect,
+            zoomRange: config.zoomRange
         });
 
-        // Gestion de la visibilité pour les pays
-        paysElements.forEach(function(element) {
-            var display = (zoomLevel >= 2 && zoomLevel < 4) ? 'block' : 'none';
-            element.text.style.display = display;
-            element.rect.style.display = display;
-        });
-
-        // Gestion de la visibilité pour les régions
-        regionElements.forEach(function(element) {
-            var display = (zoomLevel >= 4 && zoomLevel < 10) ? 'block' : 'none';
-            element.text.style.display = display;
-            element.rect.style.display = display;
-        });
-	    // Affichage des capitales (anciennement cités)
-	    capitalesElements.forEach(function(element) {
-	        var display = (zoomLevel >= 10) ? 'block' : 'none';
-	        element.text.style.display = display;
-	        element.rect.style.display = display;
-	    });
-	
-	    // Affichage des cités (anciennement villes)
-	    citesElements.forEach(function(element) {
-	        var display = (zoomLevel >= 14) ? 'block' : 'none';
-	        element.text.style.display = display;
-	        element.rect.style.display = display;
-	    });
-	
-	    // Affichage des villes (anciennement villages)
-	    villesElements.forEach(function(element) {
-	        var display = (zoomLevel >= 16) ? 'block' : 'none';
-	        element.text.style.display = display;
-	        element.rect.style.display = display;
-	    });
-	
-	    // Affichage des villages (nouvelle catégorie)
-	    villagesElements.forEach(function(element) {
-	        var display = (zoomLevel >= 18) ? 'block' : 'none';
-	        element.text.style.display = display;
-	        element.rect.style.display = display;
-	    });
+        allNames.push(name);
+        allTextElements.push(elements.text);
+        allRectElements.push(elements.rect);
     }
 
-    // Fonction pour calculer les coordonnées selon l'origine choisie
-    function calculateGridCoordinates(gridX, gridY) {
-        var origin = document.getElementById('originSelector').value;
-        var maxX = currentGridSize - 1;
-        var maxY = currentGridSize - 1;
+    function createTextAndRect(name, coord, config, item) {
+        const fontSize = parseFloat(config.fontSize);
+        const strokeWidth = fontSize * 0.06;
+
+        // Création du texte
+        const textElement = document.createElementNS("http://www.w3.org/2000/svg", "text");
+        textElement.setAttribute("x", coord.x + config.xOffset);
+        textElement.setAttribute("y", coord.y + config.yOffset);
+        textElement.setAttribute("fill", "white");
+        textElement.setAttribute("stroke", "black");
+        textElement.setAttribute("stroke-width", strokeWidth);
+        textElement.setAttribute("font-size", fontSize);
+        textElement.setAttribute("text-anchor", "middle");
+        textElement.setAttribute("font-family", "Copperplate Gothic Std, sans-serif");
+        textElement.setAttribute("pointer-events", "none");
+        textElement.textContent = name;
+
+        // Création du rectangle de collision
+        const textWidth = name.length * fontSize * 0.6;
+        const textHeight = fontSize * 1.1;
+
+        const rectElement = document.createElementNS("http://www.w3.org/2000/svg", "rect");
+        rectElement.setAttribute("x", coord.x + config.xOffset - textWidth / 2);
+        rectElement.setAttribute("y", coord.y + config.yOffset - textHeight + (fontSize * 0.3));
+        rectElement.setAttribute("width", textWidth);
+        rectElement.setAttribute("height", textHeight);
+        rectElement.setAttribute("fill", "transparent");
+        rectElement.setAttribute("pointer-events", "all");
+
+        // Ajout des éléments au SVG
+        svgOverlay.node().appendChild(rectElement);
+        svgOverlay.node().appendChild(textElement);
+
+        // Gestionnaire de clic
+        const tracker = new OpenSeadragon.MouseTracker({
+            element: rectElement,
+            clickHandler: function(event) {
+                event.preventDefaultAction = true;
+                showInfoPanel(name, item);
+            }
+        });
+
+        return { text: textElement, rect: rectElement };
+    }
+
+    function showInfoPanel(name, item) {
+        document.getElementById('cityName').textContent = name;
         
-        switch(origin) {
-            case 'top-left':
-                return { x: gridX, y: gridY };
-            case 'top-right':
-                return { x: maxX - gridX, y: gridY };
-            case 'bottom-left':
-                return { x: gridX, y: maxY - gridY };
-            case 'bottom-right':
-                return { x: maxX - gridX, y: maxY - gridY };
-            default:
-                return { x: gridX, y: gridY };
-        }
-    }
-
-    // Fonction de debouncing simplifiée
-    function scheduleGridUpdate() {
-        if (!gridVisible) return;
+        const infoContent = `
+            <p>${item['Description'] || 'Non disponible'}</p>
+            <details>
+                <summary>Gouvernement</summary>
+                <p>${item['Gouvernement'] || 'Non disponible'}</p>
+            </details>
+            <details>
+                <summary>Culture</summary>
+                <p>${item['Culture'] || 'Non disponible'}</p>
+            </details>
+            <details>
+                <summary>Histoire Marquante</summary>
+                <p>${item['Histoire marquante'] || 'Non disponible'}</p>
+            </details>
+        `;
         
-        if (gridUpdateTimeout) {
-            clearTimeout(gridUpdateTimeout);
-        }
-        gridUpdateTimeout = setTimeout(function() {
-            createGrid();
-        }, 150);
+        document.getElementById('cityInfo').innerHTML = infoContent;
+        document.getElementById('infoPanel').style.display = 'block';
     }
 
-    // Écouter seulement les événements essentiels
-    viewer.addHandler('zoom', function() {
-        updateTextVisibility();
-    });
-
-    viewer.addHandler('animation-finish', function() {
-        if (gridVisible) {
-            createGrid();
+    // Gestion de la visibilité
+    function updateTextVisibility() {
+        if (!textVisibilityEnabled) {
+            allTextElements.forEach(el => el.style.display = 'none');
+            allRectElements.forEach(el => el.style.display = 'none');
+            return;
         }
-    });
 
-    // Initialement mettre à jour la visibilité (au cas où le zoom est déjà correct au démarrage)
-    updateTextVisibility();
+        const zoomLevel = viewer.viewport.getZoom();
 
-    // Gestion des boutons pour activer/désactiver l'image et le texte
-    document.getElementById('toggleText').addEventListener('click', function() {
+        Object.values(elementStorage).forEach(elements => {
+            elements.forEach(element => {
+                const [minZoom, maxZoom] = element.zoomRange;
+                const display = (zoomLevel >= minZoom && zoomLevel < maxZoom) ? 'block' : 'none';
+                element.text.style.display = display;
+                element.rect.style.display = display;
+            });
+        });
+    }
+
+    function toggleTextVisibility() {
         textVisibilityEnabled = !textVisibilityEnabled;
         updateTextVisibility();
-    });
+    }
 
-    document.getElementById('toggleBorders').addEventListener('click', function() {
-        if (bordersLayer.style.display === 'none') {
-            bordersLayer.style.display = 'block';
-        } else {
-            bordersLayer.style.display = 'none';
+    function toggleBorders() {
+        bordersLayer.style.display = bordersLayer.style.display === 'none' ? 'block' : 'none';
+    }
+
+    // Fonction de recherche
+    function performSearch(query) {
+        const lowerQuery = query.toLowerCase();
+        let found = false;
+
+        Object.values(elementStorage).forEach((elements, index) => {
+            elements.forEach(element => {
+                if (element.name && element.name.toLowerCase() === lowerQuery) {
+                    found = true;
+                    const point = new OpenSeadragon.Point(element.coord.x, element.coord.y);
+                    viewer.viewport.panTo(point);
+                    
+                    // Zoom adaptatif selon le type
+                    const zoomLevels = [1.9, 3.9, 9.9, 13.9, 15.9, 17.9, 19.9];
+                    viewer.viewport.zoomTo(zoomLevels[index] || 4);
+                }
+            });
+        });
+
+        if (!found) {
+            alert("Aucun résultat trouvé pour " + query);
         }
-    });
+    }
 
-    // Gestion du bouton pour afficher/masquer le quadrillage
-    document.getElementById('toggleGrid').addEventListener('click', function() {
-        if (gridLayer.style.display === 'none') {
-            gridVisible = true;
+    // Gestion de la grille
+    function toggleGrid() {
+        gridVisible = !gridVisible;
+        if (gridVisible) {
+            createGrid();
             gridLayer.style.display = 'block';
-            createGrid(); // Créer le quadrillage SVG
         } else {
-            gridVisible = false;
             gridLayer.style.display = 'none';
-            // Vider le quadrillage pour libérer la mémoire
-            while (gridLayer.firstChild) {
-                gridLayer.removeChild(gridLayer.firstChild);
+        }
+    }
+
+    function createGrid() {
+        // Vider la grille existante
+        while (gridLayer.firstChild) {
+            gridLayer.removeChild(gridLayer.firstChild);
+        }
+
+        const textSize = parseInt(document.getElementById('gridTextSize').value) / 100; // Convertir en décimal
+
+        // Créer les lignes de grille
+        for (let i = 0; i <= currentGridSize; i++) {
+            // Lignes horizontales
+            const hLine = document.createElementNS("http://www.w3.org/2000/svg", "line");
+            hLine.setAttribute('x1', 0);
+            hLine.setAttribute('y1', i / currentGridSize);
+            hLine.setAttribute('x2', 1);
+            hLine.setAttribute('y2', i / currentGridSize);
+            hLine.setAttribute('stroke', 'rgba(255,255,255,0.5)');
+            hLine.setAttribute('stroke-width', '0.001');
+            gridLayer.appendChild(hLine);
+
+            // Lignes verticales
+            const vLine = document.createElementNS("http://www.w3.org/2000/svg", "line");
+            vLine.setAttribute('x1', i / currentGridSize);
+            vLine.setAttribute('y1', 0);
+            vLine.setAttribute('x2', i / currentGridSize);
+            vLine.setAttribute('y2', 1);
+            vLine.setAttribute('stroke', 'rgba(255,255,255,0.5)');
+            vLine.setAttribute('stroke-width', '0.001');
+            gridLayer.appendChild(vLine);
+        }
+
+        // Créer les étiquettes de grille
+        for (let x = 0; x < currentGridSize; x++) {
+            for (let y = 0; y < currentGridSize; y++) {
+                const coords = calculateGridCoordinates(x, y);
+                const label = document.createElementNS("http://www.w3.org/2000/svg", "text");
+                
+                label.setAttribute("x", (x + 0.5) / currentGridSize);
+                label.setAttribute("y", (y + 0.5) / currentGridSize);
+                label.setAttribute("fill", "yellow");
+                label.setAttribute("font-size", textSize);
+                label.setAttribute("text-anchor", "middle");
+                label.setAttribute("dominant-baseline", "middle");
+                label.setAttribute("font-family", "Verdana, sans-serif");
+                label.setAttribute("pointer-events", "none");
+                label.textContent = `${coords.x},${coords.y}`;
+                
+                gridLayer.appendChild(label);
             }
         }
-    });
+    }
 
-    // Gestion du bouton de mise à jour du quadrillage (sans debug)
-    document.getElementById('updateGrid').addEventListener('click', function() {
-        var gridSize = parseInt(document.getElementById('gridSize').value, 10);
-        if (gridSize >= 2 && gridSize <= 10000) {
-            currentGridSize = gridSize;
-            if (gridVisible) {
-                createGrid(gridSize);
-            }
-            if (gridLayer.style.display === 'none') {
-                gridVisible = true;
-                gridLayer.style.display = 'block';
-                createGrid(gridSize);
-            }
-        } else {
-            alert('Le nombre de tuiles doit être entre 2 et 10 000');
-        }
-    });
-
-    // Permettre la mise à jour en appuyant sur Entrée
-    document.getElementById('gridSize').addEventListener('keypress', function(e) {
-        if (e.key === 'Enter') {
-            document.getElementById('updateGrid').click();
-        }
-    });
-
-    // Gestion du sélecteur d'origine (sans debug)
-    document.getElementById('originSelector').addEventListener('change', function() {
+    function updateGrid() {
         if (gridVisible) {
             createGrid();
         }
-    });
+    }
 
-    // Gestion du slider de taille de texte
-    document.getElementById('textSizeSlider').addEventListener('input', function() {
-        var value = this.value;
-        document.getElementById('textSizeValue').textContent = value + '%';
-        if (gridVisible) {
-            createGrid();
-        }
-    });
-
-    // Gestion du slider d'épaisseur des lignes
-    document.getElementById('lineWidthSlider').addEventListener('input', function() {
-        var value = this.value;
-        document.getElementById('lineWidthValue').textContent = value + '%';
-        if (gridVisible) {
-            createGrid();
-        }
-    });
-
-    // Gestion du slider d'offset X
-    document.getElementById('offsetXSlider').addEventListener('input', function() {
-        var value = this.value;
-        document.getElementById('offsetXValue').textContent = value + '%';
-        if (gridVisible) {
-            createGrid();
-        }
-    });
-
-    // Gestion du slider d'offset Y
-    document.getElementById('offsetYSlider').addEventListener('input', function() {
-        var value = this.value;
-        document.getElementById('offsetYValue').textContent = value + '%';
-        if (gridVisible) {
-            createGrid();
-        }
-    });
-
-    // ----------- Mesure de distances et de surfaces -----------
-    var worldWidthKm = 1000; // Largeur approximative du monde en kilomètres
-    var measureMode = null; // 'distance' ou 'area'
-    var measurePoints = [];
-    var measureLayer = document.createElementNS("http://www.w3.org/2000/svg", "g");
-    measureLayer.setAttribute('id', 'measureLayer');
-    svgOverlay.node().appendChild(measureLayer);
+    // Outils de mesure
+    function startMeasure(mode) {
+        measureMode = mode;
+        resetMeasure();
+    }
 
     function resetMeasure() {
         measurePoints = [];
@@ -930,29 +769,23 @@
         }
     }
 
-    function clearLayer() {
-        while (measureLayer.firstChild) {
-            measureLayer.removeChild(measureLayer.firstChild);
-        }
-    }
-
     function distanceKm(p1, p2) {
-        var dx = (p2.x - p1.x) * worldWidthKm;
-        var dy = (p2.y - p1.y) * worldWidthKm;
+        const dx = (p2.x - p1.x) * CONFIG.worldWidthKm;
+        const dy = (p2.y - p1.y) * CONFIG.worldWidthKm;
         return Math.sqrt(dx * dx + dy * dy);
     }
 
     function polygonArea(points) {
-        var area = 0;
-        for (var i = 0, j = points.length - 1; i < points.length; j = i++) {
+        let area = 0;
+        for (let i = 0, j = points.length - 1; i < points.length; j = i++) {
             area += (points[j].x * points[i].y) - (points[i].x * points[j].y);
         }
         area = Math.abs(area / 2);
-        return area * worldWidthKm * worldWidthKm;
+        return area * CONFIG.worldWidthKm * CONFIG.worldWidthKm;
     }
 
     function showLabel(text, coord) {
-        var label = document.createElementNS("http://www.w3.org/2000/svg", "text");
+        const label = document.createElementNS("http://www.w3.org/2000/svg", "text");
         label.setAttribute("x", coord.x);
         label.setAttribute("y", coord.y);
         label.setAttribute("fill", "yellow");
@@ -963,27 +796,16 @@
         measureLayer.appendChild(label);
     }
 
-
-    document.getElementById('measureDistance').addEventListener('click', function() {
-        measureMode = 'distance';
-        resetMeasure();
-    });
-
-    document.getElementById('measureArea').addEventListener('click', function() {
-        measureMode = 'area';
-        resetMeasure();
-    });
-
-
-    viewer.addHandler('canvas-click', function(event) {
+    function handleCanvasClick(event) {
         if (!measureMode) return;
         event.preventDefaultAction = true;
-        var webPoint = event.position;
-        var point = viewer.viewport.pointFromPixel(webPoint);
+        
+        const webPoint = event.position;
+        const point = viewer.viewport.pointFromPixel(webPoint);
         measurePoints.push(point);
 
         if (measureMode === 'distance' && measurePoints.length === 2) {
-            var line = document.createElementNS("http://www.w3.org/2000/svg", "line");
+            const line = document.createElementNS("http://www.w3.org/2000/svg", "line");
             line.setAttribute('x1', measurePoints[0].x);
             line.setAttribute('y1', measurePoints[0].y);
             line.setAttribute('x2', measurePoints[1].x);
@@ -992,39 +814,42 @@
             line.setAttribute('stroke-width', '0.005');
             measureLayer.appendChild(line);
 
-            var dist = distanceKm(measurePoints[0], measurePoints[1]);
-            var midX = (measurePoints[0].x + measurePoints[1].x) / 2;
-            var midY = (measurePoints[0].y + measurePoints[1].y) / 2;
-            var dx = measurePoints[1].x - measurePoints[0].x;
-            var dy = measurePoints[1].y - measurePoints[0].y;
-            var len = Math.sqrt(dx*dx + dy*dy);
-            var offset = 0.02;
-            var offX = -dy/len * offset;
-            var offY = dx/len * offset;
+            const dist = distanceKm(measurePoints[0], measurePoints[1]);
+            const midX = (measurePoints[0].x + measurePoints[1].x) / 2;
+            const midY = (measurePoints[0].y + measurePoints[1].y) / 2;
+            const dx = measurePoints[1].x - measurePoints[0].x;
+            const dy = measurePoints[1].y - measurePoints[0].y;
+            const len = Math.sqrt(dx*dx + dy*dy);
+            const offset = 0.02;
+            const offX = -dy/len * offset;
+            const offY = dx/len * offset;
             showLabel(dist.toFixed(2) + ' km', { x: midX + offX, y: midY + offY });
             measureMode = null;
-        } else if (measureMode === 'area') {
-            // Points are collected on single click; polygon will be drawn on double-click
         }
-    });
+    }
 
-    viewer.addHandler('canvas-double-click', function() {
+    function handleCanvasDoubleClick() {
         if (measureMode === 'area' && measurePoints.length > 2) {
-            var poly = document.createElementNS("http://www.w3.org/2000/svg", "polygon");
-            poly.setAttribute('points', measurePoints.map(function(p){ return p.x + ',' + p.y; }).join(' '));
+            const poly = document.createElementNS("http://www.w3.org/2000/svg", "polygon");
+            poly.setAttribute('points', measurePoints.map(p => p.x + ',' + p.y).join(' '));
             poly.setAttribute('stroke', 'yellow');
             poly.setAttribute('fill', 'rgba(255,255,0,0.3)');
             poly.setAttribute('stroke-width', '0.003');
-            clearLayer();
+            
+            // Vider la couche et ajouter le polygone
+            while (measureLayer.firstChild) {
+                measureLayer.removeChild(measureLayer.firstChild);
+            }
             measureLayer.appendChild(poly);
 
-            var area = polygonArea(measurePoints);
+            const area = polygonArea(measurePoints);
             showLabel(area.toFixed(2) + ' km²', measurePoints[0]);
             measureMode = null;
         }
-    });
+    }
 
-
+    // Initialisation
+    document.addEventListener('DOMContentLoaded', initViewer);
 </script>
 </body>
 </html>
