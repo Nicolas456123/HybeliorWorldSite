@@ -284,7 +284,7 @@
         sampleBorder.setAttribute('fill', 'transparent');
     });
 
-    // Fonction pour créer le quadrillage SVG (fixe comme les textes)
+    // Fonction pour créer le quadrillage SVG (optimisée)
     function createGrid(gridSize) {
         currentGridSize = gridSize || parseInt(document.getElementById('gridSize').value, 10) || 16;
         
@@ -301,69 +301,97 @@
         var offsetX = parseFloat(document.getElementById('offsetXSlider').value) / 100 * stepSize;
         var offsetY = parseFloat(document.getElementById('offsetYSlider').value) / 100 * stepSize;
         
-        // Épaisseur des lignes selon le slider
+        // Épaisseur des lignes selon le slider (plus simple)
         var lineWidthPercent = parseFloat(document.getElementById('lineWidthSlider').value);
-        var strokeWidth = Math.max(0.0001, lineWidthPercent / 1000 / currentGridSize);
+        var strokeWidth = Math.max(0.0001, lineWidthPercent / 2000);
         
-        // Créer seulement un échantillon de lignes pour éviter les lags
-        var maxLines = 500; // Limite pour éviter les lags
-        var step = Math.max(1, Math.ceil(currentGridSize / maxLines));
+        // Pour les gros quadrillages, créer moins de lignes pour la performance
+        var maxVisibleLines = 100; // Maximum de lignes visibles
+        var lineStep = Math.max(1, Math.ceil(currentGridSize / maxVisibleLines));
         
-        // Lignes verticales
-        for (var i = 0; i <= currentGridSize; i += step) {
+        // Créer les lignes avec échantillonnage intelligent
+        for (var i = 0; i <= currentGridSize; i += lineStep) {
+            // Ligne verticale
             var x = i * stepSize + offsetX;
-            var line = document.createElementNS("http://www.w3.org/2000/svg", "line");
-            line.setAttribute('x1', x);
-            line.setAttribute('y1', 0);
-            line.setAttribute('x2', x);
-            line.setAttribute('y2', 1);
-            line.setAttribute('stroke', '#00ff00');
-            line.setAttribute('stroke-width', strokeWidth);
-            line.setAttribute('opacity', '0.7');
-            gridLayer.appendChild(line);
+            var vLine = document.createElementNS("http://www.w3.org/2000/svg", "line");
+            vLine.setAttribute('x1', x);
+            vLine.setAttribute('y1', 0);
+            vLine.setAttribute('x2', x);
+            vLine.setAttribute('y2', 1);
+            vLine.setAttribute('stroke', '#00ff00');
+            vLine.setAttribute('stroke-width', strokeWidth);
+            vLine.setAttribute('opacity', '0.7');
+            gridLayer.appendChild(vLine);
+            
+            // Ligne horizontale
+            var y = i * stepSize + offsetY;
+            var hLine = document.createElementNS("http://www.w3.org/2000/svg", "line");
+            hLine.setAttribute('x1', 0);
+            hLine.setAttribute('y1', y);
+            hLine.setAttribute('x2', 1);
+            hLine.setAttribute('y2', y);
+            hLine.setAttribute('stroke', '#00ff00');
+            hLine.setAttribute('stroke-width', strokeWidth);
+            hLine.setAttribute('opacity', '0.7');
+            gridLayer.appendChild(hLine);
         }
         
-        // Lignes horizontales
-        for (var j = 0; j <= currentGridSize; j += step) {
-            var y = j * stepSize + offsetY;
-            var line = document.createElementNS("http://www.w3.org/2000/svg", "line");
-            line.setAttribute('x1', 0);
-            line.setAttribute('y1', y);
-            line.setAttribute('x2', 1);
-            line.setAttribute('y2', y);
-            line.setAttribute('stroke', '#00ff00');
-            line.setAttribute('stroke-width', strokeWidth);
-            line.setAttribute('opacity', '0.7');
-            gridLayer.appendChild(line);
+        // Ajouter les numéros - seulement pour les quadrillages raisonnables
+        if (currentGridSize <= 50) {
+            // Afficher TOUS les numéros pour les petits quadrillages
+            addAllGridNumbers(stepSize, offsetX, offsetY);
+        } else if (currentGridSize <= 200) {
+            // Échantillonnage léger pour les quadrillages moyens
+            addSampledGridNumbers(stepSize, offsetX, offsetY, 2);
+        } else {
+            // Échantillonnage plus fort pour les gros quadrillages
+            addSampledGridNumbers(stepSize, offsetX, offsetY, Math.ceil(currentGridSize / 50));
         }
-        
-        // Ajouter les numéros (échantillon)
-        var maxTexts = 200; // Limite pour les textes
-        var textStep = Math.max(1, Math.ceil(currentGridSize / Math.sqrt(maxTexts)));
+    }
+    
+    // Fonction pour ajouter tous les numéros
+    function addAllGridNumbers(stepSize, offsetX, offsetY) {
         var textSizePercent = parseFloat(document.getElementById('textSizeSlider').value) / 100;
-        var fontSize = Math.max(0.002, textSizePercent * 0.02 / currentGridSize);
+        var fontSize = textSizePercent * 0.05; // Formule simplifiée
         
-        for (var x = 0; x < currentGridSize; x += textStep) {
-            for (var y = 0; y < currentGridSize; y += textStep) {
-                var centerX = (x + 0.5) * stepSize + offsetX;
-                var centerY = (y + 0.5) * stepSize + offsetY;
-                
-                var textElement = document.createElementNS("http://www.w3.org/2000/svg", "text");
-                textElement.setAttribute("x", centerX);
-                textElement.setAttribute("y", centerY);
-                textElement.setAttribute("fill", "#00ff00");
-                textElement.setAttribute("stroke", "#000000");
-                textElement.setAttribute("stroke-width", fontSize * 0.1);
-                textElement.setAttribute("font-size", fontSize);
-                textElement.setAttribute("text-anchor", "middle");
-                textElement.setAttribute("dominant-baseline", "middle");
-                textElement.setAttribute("font-family", "Verdana, sans-serif");
-                textElement.setAttribute("pointer-events", "none");
-                textElement.setAttribute("opacity", "0.8");
-                textElement.textContent = x + ";" + y;
-                gridLayer.appendChild(textElement);
+        for (var x = 0; x < currentGridSize; x++) {
+            for (var y = 0; y < currentGridSize; y++) {
+                createGridText(x, y, stepSize, offsetX, offsetY, fontSize);
             }
         }
+    }
+    
+    // Fonction pour ajouter un échantillon de numéros
+    function addSampledGridNumbers(stepSize, offsetX, offsetY, step) {
+        var textSizePercent = parseFloat(document.getElementById('textSizeSlider').value) / 100;
+        var fontSize = textSizePercent * 0.05; // Formule simplifiée
+        
+        for (var x = 0; x < currentGridSize; x += step) {
+            for (var y = 0; y < currentGridSize; y += step) {
+                createGridText(x, y, stepSize, offsetX, offsetY, fontSize);
+            }
+        }
+    }
+    
+    // Fonction pour créer un texte de grille
+    function createGridText(x, y, stepSize, offsetX, offsetY, fontSize) {
+        var centerX = (x + 0.5) * stepSize + offsetX;
+        var centerY = (y + 0.5) * stepSize + offsetY;
+        
+        var textElement = document.createElementNS("http://www.w3.org/2000/svg", "text");
+        textElement.setAttribute("x", centerX);
+        textElement.setAttribute("y", centerY);
+        textElement.setAttribute("fill", "#00ff00");
+        textElement.setAttribute("stroke", "#000000");
+        textElement.setAttribute("stroke-width", fontSize * 0.05);
+        textElement.setAttribute("font-size", fontSize);
+        textElement.setAttribute("text-anchor", "middle");
+        textElement.setAttribute("dominant-baseline", "middle");
+        textElement.setAttribute("font-family", "Verdana, sans-serif");
+        textElement.setAttribute("pointer-events", "none");
+        textElement.setAttribute("opacity", "0.8");
+        textElement.textContent = x + ";" + y;
+        gridLayer.appendChild(textElement);
     }
 
     // Arrays pour stocker les éléments par type
