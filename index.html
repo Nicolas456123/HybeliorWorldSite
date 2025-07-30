@@ -206,8 +206,8 @@
             <button id="toggleGrid">Afficher/Masquer grille</button>
             <label for="gridSize">Taille grille: <span id="gridSizeValue">10</span></label>
             <input type="range" id="gridSize" min="5" max="300" value="10">
-            <label for="gridTextSize">Taille texte: <span id="gridTextSizeValue">0.2%</span></label>
-            <input type="range" id="gridTextSize" min="1" max="50" value="2" step="1">
+            <label for="gridTextSize">Taille texte: <span id="gridTextSizeValue">20%</span></label>
+            <input type="range" id="gridTextSize" min="1" max="100" value="20" step="1">
             <label for="originSelector">Origine:</label>
             <select id="originSelector">
                 <option value="top-left">Haut-Gauche</option>
@@ -436,10 +436,14 @@
         });
 
         gridTextSizeSlider.addEventListener('input', function() {
-            const textSize = parseInt(this.value);
-            document.getElementById('gridTextSizeValue').textContent = textSize + '%';
+            const textSizePercent = parseInt(this.value);
+            document.getElementById('gridTextSizeValue').textContent = textSizePercent + '%';
             if (gridVisible) updateGrid();
         });
+
+        // Initialiser les valeurs affichées
+        document.getElementById('gridSizeValue').textContent = currentGridSize;
+        document.getElementById('gridTextSizeValue').textContent = '20%';
 
         originSelector.addEventListener('change', function() {
             if (gridVisible) updateGrid();
@@ -704,7 +708,9 @@
             gridLayer.removeChild(gridLayer.firstChild);
         }
 
-        const textSize = parseInt(document.getElementById('gridTextSize').value) / 100; // Convertir en décimal
+        const textSizePercent = parseInt(document.getElementById('gridTextSize').value);
+        const tileSize = 1 / currentGridSize; // Taille d'un tile
+        const textSize = (textSizePercent / 100) * tileSize; // 100% = taille d'un tile, 1% = 1% d'un tile
 
         // Créer les lignes de grille
         for (let i = 0; i <= currentGridSize; i++) {
