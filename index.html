@@ -1,4 +1,22 @@
-<html lang="fr">
+// Fonction pour calculer les coordonnées selon l'origine choisie
+    function calculateGridCoordinates(gridX, gridY) {
+        var origin = document.getElementById('originSelector').value;
+        var maxX = currentGridSize - 1;
+        var maxY = currentGridSize - 1;
+        
+        switch(origin) {
+            case 'top-left':
+                return { x: gridX, y: gridY };
+            case 'top-right':
+                return { x: maxX - gridX, y: gridY };
+            case 'bottom-left':
+                return { x: gridX, y: maxY - gridY };
+            case 'bottom-right':
+                return { x: maxX - gridX, y: maxY - gridY };
+            default:
+                return { x: gridX, y: gridY };
+        }
+    }<html lang="fr">
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -49,6 +67,11 @@
         }
         .controls input[type="range"] {
             width: 100px;
+        }
+        .controls select {
+            color: black;
+            background-color: white;
+            padding: 3px;
         }
         /* Style pour la fenêtre d'information */
         .info-panel {
@@ -171,6 +194,15 @@
                 <button id="updateGrid" style="margin-left: 5px; padding: 5px;">MAJ</button>
             </div>
             <div style="margin-bottom: 10px;">
+                <label style="color: white; font-size: 12px;">Origine numéros:</label>
+                <select id="originSelector" style="margin-left: 5px; padding: 3px; width: 120px;">
+                    <option value="top-left">Haut-Gauche</option>
+                    <option value="top-right">Haut-Droite</option>
+                    <option value="bottom-left">Bas-Gauche</option>
+                    <option value="bottom-right">Bas-Droite</option>
+                </select>
+            </div>
+            <div style="margin-bottom: 10px;">
                 <label style="color: white; font-size: 12px;">Taille texte:</label>
                 <input type="range" id="textSizeSlider" min="10" max="90" value="50" style="width: 100px; margin-left: 5px;">
                 <span id="textSizeValue" style="color: white; font-size: 11px; margin-left: 5px;">50%</span>
@@ -244,6 +276,7 @@
     // Variables pour le quadrillage
     var currentGridSize = 16;
     var gridVisible = false;
+    var gridUpdateTimeout = null;
 
     // Exemple de polygone de frontière
     var sampleBorder = document.createElementNS("http://www.w3.org/2000/svg", "polygon");
@@ -284,7 +317,7 @@
         sampleBorder.setAttribute('fill', 'transparent');
     });
 
-    // Fonction pour créer le quadrillage SVG (optimisée)
+    // Fonction pour créer le quadrillage SVG (avec viewport culling)
     function createGrid(gridSize) {
         currentGridSize = gridSize || parseInt(document.getElementById('gridSize').value, 10) || 16;
         
@@ -301,16 +334,23 @@
         var offsetX = parseFloat(document.getElementById('offsetXSlider').value) / 100 * stepSize;
         var offsetY = parseFloat(document.getElementById('offsetYSlider').value) / 100 * stepSize;
         
-        // Épaisseur des lignes selon le slider (plus simple)
+        // Épaisseur des lignes selon le slider
         var lineWidthPercent = parseFloat(document.getElementById('lineWidthSlider').value);
         var strokeWidth = Math.max(0.0001, lineWidthPercent / 2000);
         
-        // Pour les gros quadrillages, créer moins de lignes pour la performance
-        var maxVisibleLines = 100; // Maximum de lignes visibles
-        var lineStep = Math.max(1, Math.ceil(currentGridSize / maxVisibleLines));
+        // Obtenir la zone visible actuelle
+        var viewport = viewer.viewport;
+        var bounds = viewport.getBounds();
+        var zoom = viewport.getZoom();
         
-        // Créer les lignes avec échantillonnage intelligent
-        for (var i = 0; i <= currentGridSize; i += lineStep) {
+        // Calculer quelles lignes sont réellement visibles
+        var startX = Math.max(0, Math.floor((bounds.x - offsetX) / stepSize) - 2);
+        var endX = Math.min(currentGridSize, Math.ceil(((bounds.x - offsetX) + bounds.width) / stepSize) + 2);
+        var startY = Math.max(0, Math.floor((bounds.y - offsetY) / stepSize) - 2);
+        var endY = Math.min(currentGridSize, Math.ceil(((bounds.y - offsetY) + bounds.height) / stepSize) + 2);
+        
+        // Créer seulement les lignes visibles
+        for (var i = startX; i <= endX; i++) {
             // Ligne verticale
             var x = i * stepSize + offsetX;
             var vLine = document.createElementNS("http://www.w3.org/2000/svg", "line");
@@ -322,9 +362,11 @@
             vLine.setAttribute('stroke-width', strokeWidth);
             vLine.setAttribute('opacity', '0.7');
             gridLayer.appendChild(vLine);
-            
+        }
+        
+        for (var j = startY; j <= endY; j++) {
             // Ligne horizontale
-            var y = i * stepSize + offsetY;
+            var y = j * stepSize + offsetY;
             var hLine = document.createElementNS("http://www.w3.org/2000/svg", "line");
             hLine.setAttribute('x1', 0);
             hLine.setAttribute('y1', y);
@@ -336,47 +378,45 @@
             gridLayer.appendChild(hLine);
         }
         
-        // Ajouter les numéros - seulement pour les quadrillages raisonnables
-        if (currentGridSize <= 50) {
-            // Afficher TOUS les numéros pour les petits quadrillages
-            addAllGridNumbers(stepSize, offsetX, offsetY);
-        } else if (currentGridSize <= 200) {
-            // Échantillonnage léger pour les quadrillages moyens
-            addSampledGridNumbers(stepSize, offsetX, offsetY, 2);
-        } else {
-            // Échantillonnage plus fort pour les gros quadrillages
-            addSampledGridNumbers(stepSize, offsetX, offsetY, Math.ceil(currentGridSize / 50));
+        // Ajouter les numéros seulement dans la zone visible
+        var visibleCells = (endX - startX) * (endY - startY);
+        
+        // Afficher les numéros selon le zoom et la densité
+        if (zoom > (currentGridSize / 500) && visibleCells < 5000) {
+            addVisibleGridNumbers(startX, endX, startY, endY, stepSize, offsetX, offsetY, zoom);
         }
     }
     
-    // Fonction pour ajouter tous les numéros
-    function addAllGridNumbers(stepSize, offsetX, offsetY) {
+    // Fonction pour ajouter seulement les numéros visibles
+    function addVisibleGridNumbers(startX, endX, startY, endY, stepSize, offsetX, offsetY, zoom) {
         var textSizePercent = parseFloat(document.getElementById('textSizeSlider').value) / 100;
-        var fontSize = textSizePercent * 0.05; // Formule simplifiée
+        // Formule améliorée : taille relative au zoom et à la densité
+        var fontSize = Math.max(0.002, Math.min(0.05, textSizePercent * 0.1 / currentGridSize * Math.sqrt(zoom)));
         
-        for (var x = 0; x < currentGridSize; x++) {
-            for (var y = 0; y < currentGridSize; y++) {
-                createGridText(x, y, stepSize, offsetX, offsetY, fontSize);
+        // Déterminer le pas d'échantillonnage selon le zoom
+        var step = 1;
+        if (zoom < currentGridSize / 100) {
+            step = Math.ceil(currentGridSize / 100); // Échantillonnage pour les vues éloignées
+        } else if (zoom < currentGridSize / 50) {
+            step = Math.ceil(currentGridSize / 200); // Échantillonnage léger
+        }
+        
+        for (var x = startX; x < endX; x += step) {
+            for (var y = startY; y < endY; y += step) {
+                if (x < currentGridSize && y < currentGridSize) {
+                    createGridText(x, y, stepSize, offsetX, offsetY, fontSize);
+                }
             }
         }
     }
     
-    // Fonction pour ajouter un échantillon de numéros
-    function addSampledGridNumbers(stepSize, offsetX, offsetY, step) {
-        var textSizePercent = parseFloat(document.getElementById('textSizeSlider').value) / 100;
-        var fontSize = textSizePercent * 0.05; // Formule simplifiée
-        
-        for (var x = 0; x < currentGridSize; x += step) {
-            for (var y = 0; y < currentGridSize; y += step) {
-                createGridText(x, y, stepSize, offsetX, offsetY, fontSize);
-            }
-        }
-    }
-    
-    // Fonction pour créer un texte de grille
+    // Fonction pour créer un texte de grille (centrage amélioré)
     function createGridText(x, y, stepSize, offsetX, offsetY, fontSize) {
         var centerX = (x + 0.5) * stepSize + offsetX;
         var centerY = (y + 0.5) * stepSize + offsetY;
+        
+        // Calculer les coordonnées d'affichage selon l'origine choisie
+        var coords = calculateGridCoordinates(x, y);
         
         var textElement = document.createElementNS("http://www.w3.org/2000/svg", "text");
         textElement.setAttribute("x", centerX);
@@ -386,11 +426,11 @@
         textElement.setAttribute("stroke-width", fontSize * 0.05);
         textElement.setAttribute("font-size", fontSize);
         textElement.setAttribute("text-anchor", "middle");
-        textElement.setAttribute("dominant-baseline", "middle");
+        textElement.setAttribute("dominant-baseline", "central"); // Meilleur centrage vertical
         textElement.setAttribute("font-family", "Verdana, sans-serif");
         textElement.setAttribute("pointer-events", "none");
         textElement.setAttribute("opacity", "0.8");
-        textElement.textContent = x + ";" + y;
+        textElement.textContent = coords.x + ";" + coords.y;
         gridLayer.appendChild(textElement);
     }
 
@@ -722,12 +762,36 @@
 	    });
     }
 
+    // Fonction de debouncing pour éviter trop de redraws
+    function scheduleGridUpdate() {
+        if (!gridVisible) return;
+        
+        if (gridUpdateTimeout) {
+            clearTimeout(gridUpdateTimeout);
+        }
+        gridUpdateTimeout = setTimeout(function() {
+            createGrid();
+        }, 50); // 50ms de délai pour éviter trop de redraws
+    }
+
     // Écouter les événements de zoom et mettre à jour la visibilité
     viewer.addHandler('zoom', function() {
         updateTextVisibility();
+        // Mettre à jour la grille avec viewport culling
+        scheduleGridUpdate();
     });
 
-    // Plus besoin d'écouter pan et animation car SVG suit automatiquement
+    // Écouter les événements de pan pour mettre à jour la zone visible
+    viewer.addHandler('pan', function() {
+        scheduleGridUpdate();
+    });
+
+    // Écouter les événements d'animation pour une mise à jour fluide
+    viewer.addHandler('animation-finish', function() {
+        if (gridVisible) {
+            createGrid();
+        }
+    });
 
     // Initialement mettre à jour la visibilité (au cas où le zoom est déjà correct au démarrage)
     updateTextVisibility();
@@ -783,12 +847,19 @@
         }
     });
 
+    // Gestion du sélecteur d'origine
+    document.getElementById('originSelector').addEventListener('change', function() {
+        if (gridVisible) {
+            createGrid(); // Mise à jour immédiate pour les contrôles
+        }
+    });
+
     // Gestion du slider de taille de texte
     document.getElementById('textSizeSlider').addEventListener('input', function() {
         var value = this.value;
         document.getElementById('textSizeValue').textContent = value + '%';
         if (gridVisible) {
-            createGrid(); // Recréer le quadrillage avec la nouvelle taille
+            createGrid(); // Mise à jour immédiate pour les contrôles
         }
     });
 
@@ -797,7 +868,7 @@
         var value = this.value;
         document.getElementById('lineWidthValue').textContent = value + '%';
         if (gridVisible) {
-            createGrid(); // Recréer le quadrillage avec la nouvelle épaisseur
+            createGrid(); // Mise à jour immédiate pour les contrôles
         }
     });
 
@@ -806,7 +877,7 @@
         var value = this.value;
         document.getElementById('offsetXValue').textContent = value + '%';
         if (gridVisible) {
-            createGrid(); // Recréer le quadrillage avec le nouvel offset
+            createGrid(); // Mise à jour immédiate pour les contrôles
         }
     });
 
@@ -815,7 +886,7 @@
         var value = this.value;
         document.getElementById('offsetYValue').textContent = value + '%';
         if (gridVisible) {
-            createGrid(); // Recréer le quadrillage avec le nouvel offset
+            createGrid(); // Mise à jour immédiate pour les contrôles
         }
     });
 
