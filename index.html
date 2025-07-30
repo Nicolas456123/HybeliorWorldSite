@@ -35,10 +35,15 @@
             position: absolute;
             top: 50px;
             left: 0;
-            z-index: 1000;
+            z-index: 500; /* Z-index encore plus bas */
             width: 220px;
             transform: translateX(calc(-100% + 20px));
             transition: transform 0.3s ease;
+            max-height: calc(100vh - 60px);
+            overflow-y: auto;
+            background-color: rgba(0, 0, 0, 0.8); /* Fond semi-transparent */
+            padding: 10px;
+            border-radius: 5px;
         }
         .controls:hover {
             transform: translateX(0);
@@ -317,7 +322,7 @@
         sampleBorder.setAttribute('fill', 'transparent');
     });
 
-    // Fonction pour créer le quadrillage SVG (avec viewport culling)
+    // Fonction pour créer le quadrillage SVG (version corrigée)
     function createGrid(gridSize) {
         currentGridSize = gridSize || parseInt(document.getElementById('gridSize').value, 10) || 16;
         
@@ -343,67 +348,71 @@
         var bounds = viewport.getBounds();
         var zoom = viewport.getZoom();
         
-        // Calculer quelles lignes sont réellement visibles
-        var startX = Math.max(0, Math.floor((bounds.x - offsetX) / stepSize) - 2);
-        var endX = Math.min(currentGridSize, Math.ceil(((bounds.x - offsetX) + bounds.width) / stepSize) + 2);
-        var startY = Math.max(0, Math.floor((bounds.y - offsetY) / stepSize) - 2);
-        var endY = Math.min(currentGridSize, Math.ceil(((bounds.y - offsetY) + bounds.height) / stepSize) + 2);
+        // Calculer quelles lignes sont réellement visibles (avec plus de marge)
+        var startX = Math.max(0, Math.floor((bounds.x - offsetX) / stepSize) - 5);
+        var endX = Math.min(currentGridSize, Math.ceil(((bounds.x - offsetX) + bounds.width) / stepSize) + 5);
+        var startY = Math.max(0, Math.floor((bounds.y - offsetY) / stepSize) - 5);
+        var endY = Math.min(currentGridSize, Math.ceil(((bounds.y - offsetY) + bounds.height) / stepSize) + 5);
         
         // Créer seulement les lignes visibles
         for (var i = startX; i <= endX; i++) {
-            // Ligne verticale
-            var x = i * stepSize + offsetX;
-            var vLine = document.createElementNS("http://www.w3.org/2000/svg", "line");
-            vLine.setAttribute('x1', x);
-            vLine.setAttribute('y1', 0);
-            vLine.setAttribute('x2', x);
-            vLine.setAttribute('y2', 1);
-            vLine.setAttribute('stroke', '#00ff00');
-            vLine.setAttribute('stroke-width', strokeWidth);
-            vLine.setAttribute('opacity', '0.7');
-            gridLayer.appendChild(vLine);
+            if (i >= 0 && i <= currentGridSize) {
+                // Ligne verticale
+                var x = i * stepSize + offsetX;
+                var vLine = document.createElementNS("http://www.w3.org/2000/svg", "line");
+                vLine.setAttribute('x1', x);
+                vLine.setAttribute('y1', 0);
+                vLine.setAttribute('x2', x);
+                vLine.setAttribute('y2', 1);
+                vLine.setAttribute('stroke', '#00ff00');
+                vLine.setAttribute('stroke-width', strokeWidth);
+                vLine.setAttribute('opacity', '0.7');
+                gridLayer.appendChild(vLine);
+            }
         }
         
         for (var j = startY; j <= endY; j++) {
-            // Ligne horizontale
-            var y = j * stepSize + offsetY;
-            var hLine = document.createElementNS("http://www.w3.org/2000/svg", "line");
-            hLine.setAttribute('x1', 0);
-            hLine.setAttribute('y1', y);
-            hLine.setAttribute('x2', 1);
-            hLine.setAttribute('y2', y);
-            hLine.setAttribute('stroke', '#00ff00');
-            hLine.setAttribute('stroke-width', strokeWidth);
-            hLine.setAttribute('opacity', '0.7');
-            gridLayer.appendChild(hLine);
+            if (j >= 0 && j <= currentGridSize) {
+                // Ligne horizontale
+                var y = j * stepSize + offsetY;
+                var hLine = document.createElementNS("http://www.w3.org/2000/svg", "line");
+                hLine.setAttribute('x1', 0);
+                hLine.setAttribute('y1', y);
+                hLine.setAttribute('x2', 1);
+                hLine.setAttribute('y2', y);
+                hLine.setAttribute('stroke', '#00ff00');
+                hLine.setAttribute('stroke-width', strokeWidth);
+                hLine.setAttribute('opacity', '0.7');
+                gridLayer.appendChild(hLine);
+            }
         }
         
-        // Ajouter les numéros seulement dans la zone visible
+        // Ajouter les numéros (logique simplifiée et corrigée)
         var visibleCells = (endX - startX) * (endY - startY);
         
-        // Afficher les numéros selon le zoom et la densité
-        if (zoom > (currentGridSize / 500) && visibleCells < 5000) {
+        // Toujours afficher quelques numéros, même si beaucoup de zoom
+        if (visibleCells < 10000) { // Limite plus généreuse
             addVisibleGridNumbers(startX, endX, startY, endY, stepSize, offsetX, offsetY, zoom);
         }
     }
     
-    // Fonction pour ajouter seulement les numéros visibles
+    // Fonction pour ajouter seulement les numéros visibles (corrigée)
     function addVisibleGridNumbers(startX, endX, startY, endY, stepSize, offsetX, offsetY, zoom) {
         var textSizePercent = parseFloat(document.getElementById('textSizeSlider').value) / 100;
-        // Formule améliorée : taille relative au zoom et à la densité
-        var fontSize = Math.max(0.002, Math.min(0.05, textSizePercent * 0.1 / currentGridSize * Math.sqrt(zoom)));
+        // Formule corrigée plus simple
+        var fontSize = Math.max(0.005, Math.min(0.08, textSizePercent * 0.2 / currentGridSize));
         
-        // Déterminer le pas d'échantillonnage selon le zoom
+        // Déterminer le pas d'échantillonnage selon le nombre de cases visibles
+        var visibleCells = (endX - startX) * (endY - startY);
         var step = 1;
-        if (zoom < currentGridSize / 100) {
-            step = Math.ceil(currentGridSize / 100); // Échantillonnage pour les vues éloignées
-        } else if (zoom < currentGridSize / 50) {
-            step = Math.ceil(currentGridSize / 200); // Échantillonnage léger
+        
+        if (visibleCells > 2000) {
+            step = Math.ceil(Math.sqrt(visibleCells / 500)); // Échantillonnage adaptatif
         }
         
         for (var x = startX; x < endX; x += step) {
             for (var y = startY; y < endY; y += step) {
-                if (x < currentGridSize && y < currentGridSize) {
+                if (x >= 0 && x < currentGridSize && y >= 0 && y < currentGridSize) {
                     createGridText(x, y, stepSize, offsetX, offsetY, fontSize);
                 }
             }
@@ -762,7 +771,27 @@
 	    });
     }
 
-    // Fonction de debouncing pour éviter trop de redraws
+    // Fonction pour calculer les coordonnées selon l'origine choisie
+    function calculateGridCoordinates(gridX, gridY) {
+        var origin = document.getElementById('originSelector').value;
+        var maxX = currentGridSize - 1;
+        var maxY = currentGridSize - 1;
+        
+        switch(origin) {
+            case 'top-left':
+                return { x: gridX, y: gridY };
+            case 'top-right':
+                return { x: maxX - gridX, y: gridY };
+            case 'bottom-left':
+                return { x: gridX, y: maxY - gridY };
+            case 'bottom-right':
+                return { x: maxX - gridX, y: maxY - gridY };
+            default:
+                return { x: gridX, y: gridY };
+        }
+    }
+
+    // Fonction de debouncing simplifiée
     function scheduleGridUpdate() {
         if (!gridVisible) return;
         
@@ -771,22 +800,14 @@
         }
         gridUpdateTimeout = setTimeout(function() {
             createGrid();
-        }, 50); // 50ms de délai pour éviter trop de redraws
+        }, 150);
     }
 
-    // Écouter les événements de zoom et mettre à jour la visibilité
+    // Écouter seulement les événements essentiels
     viewer.addHandler('zoom', function() {
         updateTextVisibility();
-        // Mettre à jour la grille avec viewport culling
-        scheduleGridUpdate();
     });
 
-    // Écouter les événements de pan pour mettre à jour la zone visible
-    viewer.addHandler('pan', function() {
-        scheduleGridUpdate();
-    });
-
-    // Écouter les événements d'animation pour une mise à jour fluide
     viewer.addHandler('animation-finish', function() {
         if (gridVisible) {
             createGrid();
@@ -826,67 +847,73 @@
         }
     });
 
-    // Gestion du bouton de mise à jour du quadrillage
+    // Gestion du bouton de mise à jour du quadrillage (simplifiée)
     document.getElementById('updateGrid').addEventListener('click', function() {
         var gridSize = parseInt(document.getElementById('gridSize').value, 10);
         if (gridSize >= 2 && gridSize <= 10000) {
-            createGrid(gridSize);
+            currentGridSize = gridSize;
+            console.log("Grid size updated to:", currentGridSize);
+            if (gridVisible) {
+                createGrid(gridSize);
+            }
             if (gridLayer.style.display === 'none') {
                 gridVisible = true;
                 gridLayer.style.display = 'block';
+                createGrid(gridSize);
             }
         } else {
             alert('Le nombre de tuiles doit être entre 2 et 10 000');
         }
     });
 
-    // Permettre la mise à jour en appuyant sur Entrée dans le champ
+    // Permettre la mise à jour en appuyant sur Entrée
     document.getElementById('gridSize').addEventListener('keypress', function(e) {
         if (e.key === 'Enter') {
             document.getElementById('updateGrid').click();
         }
     });
 
-    // Gestion du sélecteur d'origine
+    // Gestion du sélecteur d'origine (directe)
     document.getElementById('originSelector').addEventListener('change', function() {
+        console.log("Origin changed to:", this.value);
         if (gridVisible) {
-            createGrid(); // Mise à jour immédiate pour les contrôles
+            createGrid();
         }
     });
 
-    // Gestion du slider de taille de texte
+    // Gestion du slider de taille de texte (directe)
     document.getElementById('textSizeSlider').addEventListener('input', function() {
         var value = this.value;
         document.getElementById('textSizeValue').textContent = value + '%';
         if (gridVisible) {
-            createGrid(); // Mise à jour immédiate pour les contrôles
+            createGrid();
         }
     });
 
-    // Gestion du slider d'épaisseur des lignes
+    // Gestion du slider d'épaisseur des lignes (directe)
     document.getElementById('lineWidthSlider').addEventListener('input', function() {
         var value = this.value;
         document.getElementById('lineWidthValue').textContent = value + '%';
         if (gridVisible) {
-            createGrid(); // Mise à jour immédiate pour les contrôles
+            createGrid();
         }
     });
 
-    // Gestion du slider d'offset X
+    // Gestion du slider d'offset X (directe)
     document.getElementById('offsetXSlider').addEventListener('input', function() {
         var value = this.value;
         document.getElementById('offsetXValue').textContent = value + '%';
         if (gridVisible) {
-            createGrid(); // Mise à jour immédiate pour les contrôles
+            createGrid();
         }
     });
 
-    // Gestion du slider d'offset Y
+    // Gestion du slider d'offset Y (directe)
     document.getElementById('offsetYSlider').addEventListener('input', function() {
         var value = this.value;
         document.getElementById('offsetYValue').textContent = value + '%';
         if (gridVisible) {
-            createGrid(); // Mise à jour immédiate pour les contrôles
+            createGrid();
         }
     });
 
