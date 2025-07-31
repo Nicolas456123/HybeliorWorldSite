@@ -286,36 +286,12 @@
 
     // Initialisation du viewer OpenSeadragon
     function initViewer() {
-        // Configuration du monde wrappé avec 9 copies (3x3)
-        const tileSources = [];
-        
-        if (CONFIG.wrapWorld) {
-            // Créer une grille 3x3 de copies de la carte
-            for (let y = -1; y <= 1; y++) {
-                for (let x = -1; x <= 1; x++) {
-                    tileSources.push({
-                        type: 'tiledimage',
-                        tileSource: "./HybeliorFull/HybeliorMap.dzi",
-                        x: x,
-                        y: y,
-                        width: 1,
-                        height: 1
-                    });
-                }
-            }
-        } else {
-            tileSources.push("./HybeliorFull/HybeliorMap.dzi");
-        }
-
         viewer = OpenSeadragon({
             id: "openseadragon1",
             prefixUrl: "./images/",
-            tileSources: tileSources,
-            wrapHorizontal: CONFIG.wrapWorld,
-            wrapVertical: CONFIG.wrapWorld,
-            visibilityRatio: 0.1,
-            minZoomImageRatio: 0.1,
-            maxZoomPixelRatio: 10,
+            tileSources: "./HybeliorFull/HybeliorMap.dzi",
+            wrapHorizontal: false,
+            wrapVertical: false,
             constrainDuringPan: false,
             showNavigationControl: true
         });
@@ -323,14 +299,11 @@
         svgOverlay = viewer.svgOverlay();
         initLayers();
         initEventHandlers();
+        loadCSVData();
         
-        // Attendre que le viewer soit prêt avant de charger les données
-        viewer.addHandler('open', function() {
-            loadCSVData();
-            if (CONFIG.wrapWorld) {
-                initWorldWrapping();
-            }
-        });
+        if (CONFIG.wrapWorld) {
+            initWorldWrapping();
+        }
     }
 
     // Initialisation des couches SVG
@@ -416,20 +389,20 @@
             let moved = false;
 
             // Wrapping horizontal
-            if (center.x > 1.5) {
-                newCenter.x = center.x - 3;
+            if (center.x > 1) {
+                newCenter.x = center.x - 1;
                 moved = true;
-            } else if (center.x < -1.5) {
-                newCenter.x = center.x + 3;
+            } else if (center.x < 0) {
+                newCenter.x = center.x + 1;
                 moved = true;
             }
 
             // Wrapping vertical
-            if (center.y > 1.5) {
-                newCenter.y = center.y - 3;
+            if (center.y > 1) {
+                newCenter.y = center.y - 1;
                 moved = true;
-            } else if (center.y < -1.5) {
-                newCenter.y = center.y + 3;
+            } else if (center.y < 0) {
+                newCenter.y = center.y + 1;
                 moved = true;
             }
 
@@ -441,25 +414,25 @@
 
     // Fonction pour dupliquer les éléments sur toutes les copies du monde
     function duplicateElementsForWrapping(originalElements) {
+        if (!CONFIG.wrapWorld) return originalElements;
+        
         const duplicatedElements = [...originalElements];
         
-        if (CONFIG.wrapWorld) {
-            // Créer des copies pour les 8 positions adjacentes
-            const offsets = [
-                {x: -1, y: -1}, {x: 0, y: -1}, {x: 1, y: -1},
-                {x: -1, y: 0},                 {x: 1, y: 0},
-                {x: -1, y: 1},  {x: 0, y: 1},  {x: 1, y: 1}
-            ];
+        // Créer des copies pour les 8 positions adjacentes
+        const offsets = [
+            {x: -1, y: -1}, {x: 0, y: -1}, {x: 1, y: -1},
+            {x: -1, y: 0},                 {x: 1, y: 0},
+            {x: -1, y: 1},  {x: 0, y: 1},  {x: 1, y: 1}
+        ];
 
-            originalElements.forEach(element => {
-                offsets.forEach(offset => {
-                    const duplicatedElement = duplicateElement(element, offset);
-                    if (duplicatedElement) {
-                        duplicatedElements.push(duplicatedElement);
-                    }
-                });
+        originalElements.forEach(element => {
+            offsets.forEach(offset => {
+                const duplicatedElement = duplicateElement(element, offset);
+                if (duplicatedElement) {
+                    duplicatedElements.push(duplicatedElement);
+                }
             });
-        }
+        });
         
         return duplicatedElements;
     }
@@ -906,7 +879,7 @@
         const isLargeGrid = currentGridSize > 125;
         const labelStep = isLargeGrid ? Math.ceil(currentGridSize / 50) : 1; // Afficher moins de labels sur les grandes grilles
 
-        // Déterminer les copies à créer (1 copie si pas de wrapping, 9 copies si wrapping)
+        // Déterminer les copies à créer pour le wrapping
         const worldCopies = CONFIG.wrapWorld ? [
             {x: -1, y: -1}, {x: 0, y: -1}, {x: 1, y: -1},
             {x: -1, y: 0},  {x: 0, y: 0},  {x: 1, y: 0},
