@@ -13,9 +13,6 @@
             src: url('./Font/Copperplate-Gothic-Std-33-BC.ttf') format('truetype');
         }
 
-    // Gestionnaires d'événements
-    function initEventHandlers() {
-
         body {
             margin: 0;
             padding: 0;
@@ -252,7 +249,6 @@
     // Configuration globale
     const CONFIG = {
         worldWidthKm: 1000,
-        wrapWorld: true, // Activer le wrapping du monde
         csvFiles: [
             { path: "./Data/DT_Continents.csv", fontSize: "0.03", storage: "continentsElements", xOffset: 0.03, yOffset: 0.02, zoomRange: [1, 2] },
             { path: "./Data/DT_Pays.csv", fontSize: "0.01", storage: "paysElements", xOffset: 0.015, yOffset: 0.01, zoomRange: [2, 4] },
@@ -289,21 +285,13 @@
         viewer = OpenSeadragon({
             id: "openseadragon1",
             prefixUrl: "./images/",
-            tileSources: "./HybeliorFull/HybeliorMap.dzi",
-            wrapHorizontal: false,
-            wrapVertical: false,
-            constrainDuringPan: false,
-            showNavigationControl: true
+            tileSources: "./HybeliorFull/HybeliorMap.dzi"
         });
         
         svgOverlay = viewer.svgOverlay();
         initLayers();
         initEventHandlers();
         loadCSVData();
-        
-        if (CONFIG.wrapWorld) {
-            initWorldWrapping();
-        }
     }
 
     // Initialisation des couches SVG
@@ -380,109 +368,8 @@
         timeline.addEventListener('input', updateTimeline);
     }
 
-    // Gestion du wrapping du monde
-    function initWorldWrapping() {
-        // Gestionnaire pour repositionner automatiquement quand on sort des limites
-        viewer.addHandler('pan', function(event) {
-            const center = viewer.viewport.getCenter();
-            let newCenter = { x: center.x, y: center.y };
-            let moved = false;
-
-            // Wrapping horizontal
-            if (center.x > 1) {
-                newCenter.x = center.x - 1;
-                moved = true;
-            } else if (center.x < 0) {
-                newCenter.x = center.x + 1;
-                moved = true;
-            }
-
-            // Wrapping vertical
-            if (center.y > 1) {
-                newCenter.y = center.y - 1;
-                moved = true;
-            } else if (center.y < 0) {
-                newCenter.y = center.y + 1;
-                moved = true;
-            }
-
-            if (moved) {
-                viewer.viewport.panTo(new OpenSeadragon.Point(newCenter.x, newCenter.y), true);
-            }
-        });
-    }
-
-    // Fonction pour dupliquer les éléments sur toutes les copies du monde
-    function duplicateElementsForWrapping(originalElements) {
-        if (!CONFIG.wrapWorld) return originalElements;
-        
-        const duplicatedElements = [...originalElements];
-        
-        // Créer des copies pour les 8 positions adjacentes
-        const offsets = [
-            {x: -1, y: -1}, {x: 0, y: -1}, {x: 1, y: -1},
-            {x: -1, y: 0},                 {x: 1, y: 0},
-            {x: -1, y: 1},  {x: 0, y: 1},  {x: 1, y: 1}
-        ];
-
-        originalElements.forEach(element => {
-            offsets.forEach(offset => {
-                const duplicatedElement = duplicateElement(element, offset);
-                if (duplicatedElement) {
-                    duplicatedElements.push(duplicatedElement);
-                }
-            });
-        });
-        
-        return duplicatedElements;
-    }
-
-    function duplicateElement(element, offset) {
-        const newCoord = {
-            x: element.coord.x + offset.x,
-            y: element.coord.y + offset.y
-        };
-
-        // Créer les nouveaux éléments SVG
-        const newTextElement = element.text.cloneNode(true);
-        const newRectElement = element.rect.cloneNode(true);
-
-        // Mettre à jour les positions
-        const currentX = parseFloat(newTextElement.getAttribute('x'));
-        const currentY = parseFloat(newTextElement.getAttribute('y'));
-        newTextElement.setAttribute('x', currentX + offset.x);
-        newTextElement.setAttribute('y', currentY + offset.y);
-
-        const rectX = parseFloat(newRectElement.getAttribute('x'));
-        const rectY = parseFloat(newRectElement.getAttribute('y'));
-        newRectElement.setAttribute('x', rectX + offset.x);
-        newRectElement.setAttribute('y', rectY + offset.y);
-
-        // Ajouter au SVG
-        svgOverlay.node().appendChild(newRectElement);
-        svgOverlay.node().appendChild(newTextElement);
-
-        // Copier les gestionnaires d'événements
-        if (element.clickHandler) {
-            const tracker = new OpenSeadragon.MouseTracker({
-                element: newRectElement,
-                clickHandler: element.clickHandler
-            });
-        }
-
-        // Ajouter aux listes globales
-        allTextElements.push(newTextElement);
-        allRectElements.push(newRectElement);
-
-        return {
-            name: element.name,
-            coord: newCoord,
-            text: newTextElement,
-            rect: newRectElement,
-            zoomRange: element.zoomRange,
-            clickHandler: element.clickHandler
-        };
-    }
+    // Gestionnaires d'événements
+    function initEventHandlers() {
         // Fermeture du panneau d'info
         document.getElementById('closeInfoPanel').addEventListener('click', () => {
             document.getElementById('infoPanel').style.display = 'none';
@@ -547,13 +434,17 @@
     }
 
     function initGridControls() {
-        const gridSizeSlider = document.getElementById('gridSize');
+        const gridSizeInput = document.getElementById('gridSizeInput');
         const gridTextSizeSlider = document.getElementById('gridTextSize');
+        const gridLineWidthSlider = document.getElementById('gridLineWidth');
         const originSelector = document.getElementById('originSelector');
 
-        gridSizeSlider.addEventListener('input', function() {
-            currentGridSize = parseInt(this.value);
-            document.getElementById('gridSizeValue').textContent = currentGridSize;
+        gridSizeInput.addEventListener('input', function() {
+            let value = parseInt(this.value);
+            if (isNaN(value) || value < 5) value = 5;
+            if (value > 300) value = 300;
+            this.value = value;
+            currentGridSize = value;
             if (gridVisible) updateGrid();
         });
 
@@ -563,13 +454,19 @@
             if (gridVisible) updateGrid();
         });
 
-        // Initialiser les valeurs affichées
-        document.getElementById('gridSizeValue').textContent = currentGridSize;
-        document.getElementById('gridTextSizeValue').textContent = '20%';
+        gridLineWidthSlider.addEventListener('input', function() {
+            const lineWidthPercent = parseInt(this.value);
+            document.getElementById('gridLineWidthValue').textContent = lineWidthPercent + '%';
+            if (gridVisible) updateGrid();
+        });
 
         originSelector.addEventListener('change', function() {
             if (gridVisible) updateGrid();
         });
+
+        // Initialiser les valeurs affichées
+        document.getElementById('gridTextSizeValue').textContent = '20%';
+        document.getElementById('gridLineWidthValue').textContent = '10%';
     }
 
     // Fonctions utilitaires
@@ -659,21 +556,7 @@
             .then(response => response.text())
             .then(text => {
                 const data = parseCSV(text);
-                const originalElements = [];
-                
-                data.forEach(item => {
-                    const element = processCSVItem(item, config);
-                    if (element) {
-                        originalElements.push(element);
-                        elementStorage[config.storage].push(element);
-                    }
-                });
-
-                // Dupliquer les éléments pour le wrapping du monde
-                if (CONFIG.wrapWorld && originalElements.length > 0) {
-                    const duplicatedElements = duplicateElementsForWrapping(originalElements);
-                    elementStorage[config.storage] = duplicatedElements;
-                }
+                data.forEach(item => processCSVItem(item, config));
             })
             .catch(err => console.error('CSV load error for', config.path, err));
     }
@@ -684,42 +567,26 @@
         const name = item[''];
 
         if (isNaN(x) || isNaN(y) || !name) {
-            return null;
+            return;
         }
 
         const convertedCoord = convertCoordinates(x, y);
         if (isNaN(convertedCoord.x) || isNaN(convertedCoord.y)) {
-            return null;
+            return;
         }
 
         const elements = createTextAndRect(name, convertedCoord, config, item);
-        
-        // Créer le gestionnaire de clic
-        const clickHandler = function(event) {
-            event.preventDefaultAction = true;
-            showInfoPanel(name, item);
-        };
-
-        const element = {
+        elementStorage[config.storage].push({
             name: name,
             coord: convertedCoord,
             text: elements.text,
             rect: elements.rect,
-            zoomRange: config.zoomRange,
-            clickHandler: clickHandler
-        };
-
-        // Appliquer le gestionnaire de clic
-        const tracker = new OpenSeadragon.MouseTracker({
-            element: elements.rect,
-            clickHandler: clickHandler
+            zoomRange: config.zoomRange
         });
 
         allNames.push(name);
         allTextElements.push(elements.text);
         allRectElements.push(elements.rect);
-
-        return element;
     }
 
     function createTextAndRect(name, coord, config, item) {
@@ -754,6 +621,15 @@
         // Ajout des éléments au SVG
         svgOverlay.node().appendChild(rectElement);
         svgOverlay.node().appendChild(textElement);
+
+        // Gestionnaire de clic
+        const tracker = new OpenSeadragon.MouseTracker({
+            element: rectElement,
+            clickHandler: function(event) {
+                event.preventDefaultAction = true;
+                showInfoPanel(name, item);
+            }
+        });
 
         return { text: textElement, rect: rectElement };
     }
@@ -814,38 +690,20 @@
     function performSearch(query) {
         const lowerQuery = query.toLowerCase();
         let found = false;
-        let closestElement = null;
-        let minDistance = Infinity;
-
-        // Obtenir le centre actuel de la vue
-        const viewCenter = viewer.viewport.getCenter();
 
         Object.values(elementStorage).forEach((elements, index) => {
             elements.forEach(element => {
                 if (element.name && element.name.toLowerCase() === lowerQuery) {
                     found = true;
+                    const point = new OpenSeadragon.Point(element.coord.x, element.coord.y);
+                    viewer.viewport.panTo(point);
                     
-                    // Calculer la distance au centre de la vue pour trouver l'élément le plus proche
-                    const dx = element.coord.x - viewCenter.x;
-                    const dy = element.coord.y - viewCenter.y;
-                    const distance = Math.sqrt(dx * dx + dy * dy);
-                    
-                    if (distance < minDistance) {
-                        minDistance = distance;
-                        closestElement = { element, index };
-                    }
+                    // Zoom adaptatif selon le type
+                    const zoomLevels = [1.9, 3.9, 9.9, 13.9, 15.9, 17.9, 19.9];
+                    viewer.viewport.zoomTo(zoomLevels[index] || 4);
                 }
             });
         });
-
-        if (found && closestElement) {
-            const point = new OpenSeadragon.Point(closestElement.element.coord.x, closestElement.element.coord.y);
-            viewer.viewport.panTo(point);
-            
-            // Zoom adaptatif selon le type
-            const zoomLevels = [1.9, 3.9, 9.9, 13.9, 15.9, 17.9, 19.9];
-            viewer.viewport.zoomTo(zoomLevels[closestElement.index] || 4);
-        }
 
         if (!found) {
             alert("Aucun résultat trouvé pour " + query);
@@ -879,59 +737,50 @@
         const isLargeGrid = currentGridSize > 125;
         const labelStep = isLargeGrid ? Math.ceil(currentGridSize / 50) : 1; // Afficher moins de labels sur les grandes grilles
 
-        // Déterminer les copies à créer pour le wrapping
-        const worldCopies = CONFIG.wrapWorld ? [
-            {x: -1, y: -1}, {x: 0, y: -1}, {x: 1, y: -1},
-            {x: -1, y: 0},  {x: 0, y: 0},  {x: 1, y: 0},
-            {x: -1, y: 1},  {x: 0, y: 1},  {x: 1, y: 1}
-        ] : [{x: 0, y: 0}];
+        // Créer les lignes de grille
+        for (let i = 0; i <= currentGridSize; i++) {
+            // Lignes horizontales
+            const hLine = document.createElementNS("http://www.w3.org/2000/svg", "line");
+            hLine.setAttribute('x1', 0);
+            hLine.setAttribute('y1', i / currentGridSize);
+            hLine.setAttribute('x2', 1);
+            hLine.setAttribute('y2', i / currentGridSize);
+            hLine.setAttribute('stroke', 'rgba(255,255,255,0.5)');
+            hLine.setAttribute('stroke-width', lineWidth);
+            gridLayer.appendChild(hLine);
 
-        worldCopies.forEach(worldOffset => {
-            // Créer les lignes de grille pour chaque copie du monde
-            for (let i = 0; i <= currentGridSize; i++) {
-                // Lignes horizontales
-                const hLine = document.createElementNS("http://www.w3.org/2000/svg", "line");
-                hLine.setAttribute('x1', worldOffset.x);
-                hLine.setAttribute('y1', worldOffset.y + i / currentGridSize);
-                hLine.setAttribute('x2', worldOffset.x + 1);
-                hLine.setAttribute('y2', worldOffset.y + i / currentGridSize);
-                hLine.setAttribute('stroke', 'rgba(255,255,255,0.5)');
-                hLine.setAttribute('stroke-width', lineWidth);
-                gridLayer.appendChild(hLine);
+            // Lignes verticales
+            const vLine = document.createElementNS("http://www.w3.org/2000/svg", "line");
+            vLine.setAttribute('x1', i / currentGridSize);
+            vLine.setAttribute('y1', 0);
+            vLine.setAttribute('x2', i / currentGridSize);
+            vLine.setAttribute('y2', 1);
+            vLine.setAttribute('stroke', 'rgba(255,255,255,0.5)');
+            vLine.setAttribute('stroke-width', lineWidth);
+            gridLayer.appendChild(vLine);
+        }
 
-                // Lignes verticales
-                const vLine = document.createElementNS("http://www.w3.org/2000/svg", "line");
-                vLine.setAttribute('x1', worldOffset.x + i / currentGridSize);
-                vLine.setAttribute('y1', worldOffset.y);
-                vLine.setAttribute('x2', worldOffset.x + i / currentGridSize);
-                vLine.setAttribute('y2', worldOffset.y + 1);
-                vLine.setAttribute('stroke', 'rgba(255,255,255,0.5)');
-                vLine.setAttribute('stroke-width', lineWidth);
-                gridLayer.appendChild(vLine);
-            }
-
-            // Créer les étiquettes de grille (optimisées pour les grandes grilles)
-            if (!isLargeGrid || textSize > 0.0001) { // Ne pas afficher les labels si trop petits
-                for (let x = 0; x < currentGridSize; x += labelStep) {
-                    for (let y = 0; y < currentGridSize; y += labelStep) {
-                        const coords = calculateGridCoordinates(x, y);
-                        const label = document.createElementNS("http://www.w3.org/2000/svg", "text");
-                        
-                        label.setAttribute("x", worldOffset.x + (x + 0.5) / currentGridSize);
-                        label.setAttribute("y", worldOffset.y + (y + 0.5) / currentGridSize);
-                        label.setAttribute("fill", "yellow");
-                        label.setAttribute("font-size", textSize);
-                        label.setAttribute("text-anchor", "middle");
-                        label.setAttribute("dominant-baseline", "middle");
-                        label.setAttribute("font-family", "Verdana, sans-serif");
-                        label.setAttribute("pointer-events", "none");
-                        label.textContent = `${coords.x},${coords.y}`;
-                        
-                        gridLayer.appendChild(label);
-                    }
+        // Créer les étiquettes de grille (optimisées pour les grandes grilles)
+        if (!isLargeGrid || textSize > 0.0001) { // Ne pas afficher les labels si trop petits
+            for (let x = 0; x < currentGridSize; x += labelStep) {
+                for (let y = 0; y < currentGridSize; y += labelStep) {
+                    const coords = calculateGridCoordinates(x, y);
+                    const label = document.createElementNS("http://www.w3.org/2000/svg", "text");
+                    
+                    label.setAttribute("x", (x + 0.5) / currentGridSize);
+                    label.setAttribute("y", (y + 0.5) / currentGridSize);
+                    label.setAttribute("fill", "yellow");
+                    label.setAttribute("font-size", textSize);
+                    label.setAttribute("text-anchor", "middle");
+                    label.setAttribute("dominant-baseline", "middle");
+                    label.setAttribute("font-family", "Verdana, sans-serif");
+                    label.setAttribute("pointer-events", "none");
+                    label.textContent = `${coords.x},${coords.y}`;
+                    
+                    gridLayer.appendChild(label);
                 }
             }
-        });
+        }
 
         // Afficher un message d'optimisation si nécessaire
         if (isLargeGrid) {
