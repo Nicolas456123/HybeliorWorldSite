@@ -46,6 +46,12 @@
         .controls button:hover {
             background-color: #0056b3;
         }
+        .controls button.active {
+            background-color: #28a745;
+        }
+        .controls button.active:hover {
+            background-color: #1e7e34;
+        }
         .controls input[type="text"] {
             width: 200px;
             color: black;
@@ -205,6 +211,7 @@
         <button id="searchButton">Rechercher</button>
         <button id="toggleText">Afficher/Masquer textes</button>
         <button id="toggleBorders">Afficher les frontières</button>
+        <button id="toggleWrapping">Mode infini ON/OFF</button>
         <button id="measureDistance">Mesurer distance</button>
         <button id="measureArea">Mesurer surface</button>
         
@@ -279,19 +286,43 @@
     let measurePoints = [];
     let currentGridSize = 10;
     let gridVisible = false;
+    let wrappingEnabled = true;
 
     // Initialisation du viewer OpenSeadragon
     function initViewer() {
+        // Vérifier l'état du wrapping depuis les paramètres URL
+        const urlParams = new URLSearchParams(window.location.search);
+        const wrappingParam = urlParams.get('wrapping');
+        if (wrappingParam !== null) {
+            wrappingEnabled = wrappingParam === 'true';
+        }
+
         viewer = OpenSeadragon({
             id: "openseadragon1",
             prefixUrl: "./images/",
-            tileSources: "./HybeliorFull/HybeliorMap.dzi"
+            tileSources: "./HybeliorFull/HybeliorMap.dzi",
+            // Options pour le wrapping infini (selon l'état)
+            wrapHorizontal: wrappingEnabled,
+            wrapVertical: wrappingEnabled,
+            visibilityRatio: wrappingEnabled ? 0 : 0.5, // Permet de voir en dehors des limites si wrapping activé
+            constrainDuringPan: !wrappingEnabled, // Autorise le pan libre si wrapping activé
+            // Options d'optimisation
+            showNavigationControl: true,
+            preserveImageSizeOnResize: true,
+            // Gestion des gestes pour une navigation fluide
+            gestureSettingsMouse: {
+                flickEnabled: true,
+                clickToZoom: false
+            }
         });
         
         svgOverlay = viewer.svgOverlay();
         initLayers();
         initEventHandlers();
         loadCSVData();
+
+        // Afficher l'état du wrapping dans le bouton
+        updateWrappingButton();
     }
 
     // Initialisation des couches SVG
@@ -323,32 +354,48 @@
     }
 
     function createSampleBorder() {
-        const sampleBorder = document.createElementNS("http://www.w3.org/2000/svg", "polygon");
-        sampleBorder.setAttribute('points', '0.45,0.45 0.55,0.45 0.55,0.55 0.45,0.55');
-        sampleBorder.setAttribute('stroke', 'red');
-        sampleBorder.setAttribute('fill', 'transparent');
-        bordersLayer.appendChild(sampleBorder);
-
-        // Événements hover
-        sampleBorder.addEventListener('mouseover', () => {
-            sampleBorder.setAttribute('fill', 'rgba(255,0,0,0.3)');
-        });
-        sampleBorder.addEventListener('mouseout', () => {
-            sampleBorder.setAttribute('fill', 'transparent');
-        });
-
-        // Timeline pour les frontières
         const borderShapes = {
             0: '0.45,0.45 0.55,0.45 0.55,0.55 0.45,0.55',
             1: '0.40,0.45 0.60,0.45 0.60,0.55 0.40,0.55',
             2: '0.40,0.40 0.60,0.40 0.60,0.60 0.40,0.60'
         };
 
+        const sampleBorders = [];
+
+        // Déterminer les positions selon l'état du wrapping
+        const positions = wrappingEnabled ? [
+            {x: 0, y: 0}, {x: 1, y: 0}, {x: -1, y: 0},
+            {x: 0, y: 1}, {x: 0, y: -1}, {x: 1, y: 1},
+            {x: -1, y: 1}, {x: 1, y: -1}, {x: -1, y: -1}
+        ] : [{x: 0, y: 0}]; // Seulement position originale si pas de wrapping
+
+        positions.forEach(offset => {
+            const sampleBorder = document.createElementNS("http://www.w3.org/2000/svg", "polygon");
+            sampleBorder.setAttribute('points', borderShapes[0]);
+            sampleBorder.setAttribute('stroke', 'red');
+            sampleBorder.setAttribute('fill', 'transparent');
+            sampleBorder.setAttribute('transform', `translate(${offset.x}, ${offset.y})`);
+            bordersLayer.appendChild(sampleBorder);
+
+            // Événements hover
+            sampleBorder.addEventListener('mouseover', () => {
+                sampleBorder.setAttribute('fill', 'rgba(255,0,0,0.3)');
+            });
+            sampleBorder.addEventListener('mouseout', () => {
+                sampleBorder.setAttribute('fill', 'transparent');
+            });
+
+            sampleBorders.push(sampleBorder);
+        });
+
+        // Timeline pour les frontières
         window.updateBorders = function() {
             const val = parseInt(document.getElementById('timeline').value, 10);
             const points = borderShapes[val];
             if (points) {
-                sampleBorder.setAttribute('points', points);
+                sampleBorders.forEach(border => {
+                    border.setAttribute('points', points);
+                });
             }
         };
     }
@@ -381,6 +428,7 @@
         // Boutons de contrôle
         document.getElementById('toggleText').addEventListener('click', toggleTextVisibility);
         document.getElementById('toggleBorders').addEventListener('click', toggleBorders);
+        document.getElementById('toggleWrapping').addEventListener('click', toggleWrapping);
         document.getElementById('measureDistance').addEventListener('click', () => startMeasure('distance'));
         document.getElementById('measureArea').addEventListener('click', () => startMeasure('area'));
         document.getElementById('toggleGrid').addEventListener('click', toggleGrid);
@@ -592,46 +640,69 @@
     function createTextAndRect(name, coord, config, item) {
         const fontSize = parseFloat(config.fontSize);
         const strokeWidth = fontSize * 0.06;
+        const elements = [];
 
-        // Création du texte
-        const textElement = document.createElementNS("http://www.w3.org/2000/svg", "text");
-        textElement.setAttribute("x", coord.x + config.xOffset);
-        textElement.setAttribute("y", coord.y + config.yOffset);
-        textElement.setAttribute("fill", "white");
-        textElement.setAttribute("stroke", "black");
-        textElement.setAttribute("stroke-width", strokeWidth);
-        textElement.setAttribute("font-size", fontSize);
-        textElement.setAttribute("text-anchor", "middle");
-        textElement.setAttribute("font-family", "Copperplate Gothic Std, sans-serif");
-        textElement.setAttribute("pointer-events", "none");
-        textElement.textContent = name;
+        // Déterminer les positions selon l'état du wrapping
+        const positions = wrappingEnabled ? [
+            {x: 0, y: 0},    // Position originale
+            {x: 1, y: 0},    // Droite
+            {x: -1, y: 0},   // Gauche
+            {x: 0, y: 1},    // Bas
+            {x: 0, y: -1},   // Haut
+            {x: 1, y: 1},    // Bas-droite
+            {x: -1, y: 1},   // Bas-gauche
+            {x: 1, y: -1},   // Haut-droite
+            {x: -1, y: -1}   // Haut-gauche
+        ] : [{x: 0, y: 0}]; // Seulement position originale si pas de wrapping
 
-        // Création du rectangle de collision
-        const textWidth = name.length * fontSize * 0.6;
-        const textHeight = fontSize * 1.1;
+        positions.forEach(offset => {
+            // Création du texte
+            const textElement = document.createElementNS("http://www.w3.org/2000/svg", "text");
+            textElement.setAttribute("x", coord.x + config.xOffset + offset.x);
+            textElement.setAttribute("y", coord.y + config.yOffset + offset.y);
+            textElement.setAttribute("fill", "white");
+            textElement.setAttribute("stroke", "black");
+            textElement.setAttribute("stroke-width", strokeWidth);
+            textElement.setAttribute("font-size", fontSize);
+            textElement.setAttribute("text-anchor", "middle");
+            textElement.setAttribute("font-family", "Copperplate Gothic Std, sans-serif");
+            textElement.setAttribute("pointer-events", "none");
+            textElement.textContent = name;
 
-        const rectElement = document.createElementNS("http://www.w3.org/2000/svg", "rect");
-        rectElement.setAttribute("x", coord.x + config.xOffset - textWidth / 2);
-        rectElement.setAttribute("y", coord.y + config.yOffset - textHeight + (fontSize * 0.3));
-        rectElement.setAttribute("width", textWidth);
-        rectElement.setAttribute("height", textHeight);
-        rectElement.setAttribute("fill", "transparent");
-        rectElement.setAttribute("pointer-events", "all");
+            // Création du rectangle de collision
+            const textWidth = name.length * fontSize * 0.6;
+            const textHeight = fontSize * 1.1;
 
-        // Ajout des éléments au SVG
-        svgOverlay.node().appendChild(rectElement);
-        svgOverlay.node().appendChild(textElement);
+            const rectElement = document.createElementNS("http://www.w3.org/2000/svg", "rect");
+            rectElement.setAttribute("x", coord.x + config.xOffset + offset.x - textWidth / 2);
+            rectElement.setAttribute("y", coord.y + config.yOffset + offset.y - textHeight + (fontSize * 0.3));
+            rectElement.setAttribute("width", textWidth);
+            rectElement.setAttribute("height", textHeight);
+            rectElement.setAttribute("fill", "transparent");
+            rectElement.setAttribute("pointer-events", "all");
 
-        // Gestionnaire de clic
-        const tracker = new OpenSeadragon.MouseTracker({
-            element: rectElement,
-            clickHandler: function(event) {
-                event.preventDefaultAction = true;
-                showInfoPanel(name, item);
-            }
+            // Ajout des éléments au SVG
+            svgOverlay.node().appendChild(rectElement);
+            svgOverlay.node().appendChild(textElement);
+
+            // Gestionnaire de clic
+            const tracker = new OpenSeadragon.MouseTracker({
+                element: rectElement,
+                clickHandler: function(event) {
+                    event.preventDefaultAction = true;
+                    showInfoPanel(name, item);
+                }
+            });
+
+            // Stocker tous les éléments
+            allTextElements.push(textElement);
+            allRectElements.push(rectElement);
+
+            elements.push({ text: textElement, rect: rectElement });
         });
 
-        return { text: textElement, rect: rectElement };
+        // Retourner seulement le premier élément pour la compatibilité
+        return elements[0];
     }
 
     function showInfoPanel(name, item) {
@@ -686,6 +757,29 @@
         bordersLayer.style.display = bordersLayer.style.display === 'none' ? 'block' : 'none';
     }
 
+    function toggleWrapping() {
+        wrappingEnabled = !wrappingEnabled;
+        
+        // Recharger la page pour appliquer les nouveaux paramètres de wrapping
+        // (OpenSeadragon ne permet pas de changer wrapHorizontal/wrapVertical à la volée)
+        if (confirm('Le changement du mode infini nécessite de recharger la page. Continuer ?')) {
+            // Stocker temporairement l'état dans l'URL pour persister le changement
+            const url = new URL(window.location);
+            url.searchParams.set('wrapping', wrappingEnabled);
+            window.location.href = url.toString();
+        }
+    }
+
+    function updateWrappingButton() {
+        const button = document.getElementById('toggleWrapping');
+        button.textContent = wrappingEnabled ? 'Mode infini: ON' : 'Mode infini: OFF';
+        if (wrappingEnabled) {
+            button.classList.add('active');
+        } else {
+            button.classList.remove('active');
+        }
+    }
+
     // Fonction de recherche
     function performSearch(query) {
         const lowerQuery = query.toLowerCase();
@@ -729,62 +823,77 @@
 
         const textSizePercent = parseInt(document.getElementById('gridTextSize').value);
         const lineWidthPercent = parseInt(document.getElementById('gridLineWidth').value);
-        const tileSize = 1 / currentGridSize; // Taille d'un tile
-        const textSize = (textSizePercent / 100) * tileSize; // 100% = taille d'un tile, 1% = 1% d'un tile
-        const lineWidth = (lineWidthPercent / 100) * tileSize; // Épaisseur de ligne proportionnelle au tile
+        const tileSize = 1 / currentGridSize;
+        const textSize = (textSizePercent / 100) * tileSize;
+        const lineWidth = (lineWidthPercent / 100) * tileSize;
 
         // Optimisation pour les grandes grilles
         const isLargeGrid = currentGridSize > 125;
-        const labelStep = isLargeGrid ? Math.ceil(currentGridSize / 50) : 1; // Afficher moins de labels sur les grandes grilles
+        const labelStep = isLargeGrid ? Math.ceil(currentGridSize / 50) : 1;
 
-        // Créer les lignes de grille
-        for (let i = 0; i <= currentGridSize; i++) {
-            // Lignes horizontales
-            const hLine = document.createElementNS("http://www.w3.org/2000/svg", "line");
-            hLine.setAttribute('x1', 0);
-            hLine.setAttribute('y1', i / currentGridSize);
-            hLine.setAttribute('x2', 1);
-            hLine.setAttribute('y2', i / currentGridSize);
-            hLine.setAttribute('stroke', 'rgba(255,255,255,0.5)');
-            hLine.setAttribute('stroke-width', lineWidth);
-            gridLayer.appendChild(hLine);
+        // Créer la grille sur toutes les positions wrappées
+        const worldPositions = [
+            {x: 0, y: 0},    // Position originale
+            {x: 1, y: 0},    // Droite
+            {x: -1, y: 0},   // Gauche
+            {x: 0, y: 1},    // Bas
+            {x: 0, y: -1},   // Haut
+            {x: 1, y: 1},    // Bas-droite
+            {x: -1, y: 1},   // Bas-gauche
+            {x: 1, y: -1},   // Haut-droite
+            {x: -1, y: -1}   // Haut-gauche
+        ];
 
-            // Lignes verticales
-            const vLine = document.createElementNS("http://www.w3.org/2000/svg", "line");
-            vLine.setAttribute('x1', i / currentGridSize);
-            vLine.setAttribute('y1', 0);
-            vLine.setAttribute('x2', i / currentGridSize);
-            vLine.setAttribute('y2', 1);
-            vLine.setAttribute('stroke', 'rgba(255,255,255,0.5)');
-            vLine.setAttribute('stroke-width', lineWidth);
-            gridLayer.appendChild(vLine);
-        }
+        worldPositions.forEach(worldOffset => {
+            // Créer les lignes de grille
+            for (let i = 0; i <= currentGridSize; i++) {
+                // Lignes horizontales
+                const hLine = document.createElementNS("http://www.w3.org/2000/svg", "line");
+                hLine.setAttribute('x1', worldOffset.x);
+                hLine.setAttribute('y1', worldOffset.y + i / currentGridSize);
+                hLine.setAttribute('x2', worldOffset.x + 1);
+                hLine.setAttribute('y2', worldOffset.y + i / currentGridSize);
+                hLine.setAttribute('stroke', 'rgba(255,255,255,0.5)');
+                hLine.setAttribute('stroke-width', lineWidth);
+                gridLayer.appendChild(hLine);
 
-        // Créer les étiquettes de grille (optimisées pour les grandes grilles)
-        if (!isLargeGrid || textSize > 0.0001) { // Ne pas afficher les labels si trop petits
-            for (let x = 0; x < currentGridSize; x += labelStep) {
-                for (let y = 0; y < currentGridSize; y += labelStep) {
-                    const coords = calculateGridCoordinates(x, y);
-                    const label = document.createElementNS("http://www.w3.org/2000/svg", "text");
-                    
-                    label.setAttribute("x", (x + 0.5) / currentGridSize);
-                    label.setAttribute("y", (y + 0.5) / currentGridSize);
-                    label.setAttribute("fill", "yellow");
-                    label.setAttribute("font-size", textSize);
-                    label.setAttribute("text-anchor", "middle");
-                    label.setAttribute("dominant-baseline", "middle");
-                    label.setAttribute("font-family", "Verdana, sans-serif");
-                    label.setAttribute("pointer-events", "none");
-                    label.textContent = `${coords.x},${coords.y}`;
-                    
-                    gridLayer.appendChild(label);
+                // Lignes verticales
+                const vLine = document.createElementNS("http://www.w3.org/2000/svg", "line");
+                vLine.setAttribute('x1', worldOffset.x + i / currentGridSize);
+                vLine.setAttribute('y1', worldOffset.y);
+                vLine.setAttribute('x2', worldOffset.x + i / currentGridSize);
+                vLine.setAttribute('y2', worldOffset.y + 1);
+                vLine.setAttribute('stroke', 'rgba(255,255,255,0.5)');
+                vLine.setAttribute('stroke-width', lineWidth);
+                gridLayer.appendChild(vLine);
+            }
+
+            // Créer les étiquettes de grille (optimisées pour les grandes grilles)
+            if (!isLargeGrid || textSize > 0.0001) {
+                for (let x = 0; x < currentGridSize; x += labelStep) {
+                    for (let y = 0; y < currentGridSize; y += labelStep) {
+                        const coords = calculateGridCoordinates(x, y);
+                        const label = document.createElementNS("http://www.w3.org/2000/svg", "text");
+                        
+                        label.setAttribute("x", worldOffset.x + (x + 0.5) / currentGridSize);
+                        label.setAttribute("y", worldOffset.y + (y + 0.5) / currentGridSize);
+                        label.setAttribute("fill", "yellow");
+                        label.setAttribute("font-size", textSize);
+                        label.setAttribute("text-anchor", "middle");
+                        label.setAttribute("dominant-baseline", "middle");
+                        label.setAttribute("font-family", "Verdana, sans-serif");
+                        label.setAttribute("pointer-events", "none");
+                        label.textContent = `${coords.x},${coords.y}`;
+                        
+                        gridLayer.appendChild(label);
+                    }
                 }
             }
-        }
+        });
 
         // Afficher un message d'optimisation si nécessaire
         if (isLargeGrid) {
-            console.log(`Grille optimisée (${currentGridSize}x${currentGridSize}): labels affichés avec un pas de ${labelStep}`);
+            console.log(`Grille infinie optimisée (${currentGridSize}x${currentGridSize}): labels affichés avec un pas de ${labelStep}`);
         }
     }
 
