@@ -10,200 +10,510 @@
     <script src="./openseadragon-bin-5.0.0/openseadragon.min.js"></script>
     <script src="./openseadragon-bin-5.0.0/openseadragon-svg-overlay.js"></script>
     <style>
-        /* Importation de la police Copperplate-Gothic-Std-29-AB */
         @font-face {
             font-family: 'Copperplate Gothic Std';
             src: url('./Font/Copperplate-Gothic-Std-33-BC.ttf') format('truetype');
         }
 
+        :root {
+            --panel-bg: rgba(28, 24, 20, 0.88);
+            --panel-border: rgba(178, 148, 96, 0.4);
+            --accent: #c9a84c;
+            --accent-hover: #dfc06a;
+            --text: #e8e0d0;
+            --text-muted: #a89b88;
+            --btn-bg: rgba(178, 148, 96, 0.15);
+            --btn-hover: rgba(178, 148, 96, 0.3);
+            --btn-active: rgba(178, 148, 96, 0.45);
+            --input-bg: rgba(0, 0, 0, 0.3);
+            --input-border: rgba(178, 148, 96, 0.3);
+            --radius: 6px;
+        }
+
+        * { box-sizing: border-box; }
+
         body {
             margin: 0;
             padding: 0;
             overflow: hidden;
+            font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
         }
 
-        /* Style pour les boutons */
-        .controls {
-            position: absolute;
-            top: 50px;
-            left: 0;
-            z-index: 1000;
-            width: 220px;
-            transform: translateX(calc(-100% + 20px));
-            transition: transform 0.3s ease;
-        }
-        .controls:hover {
-            transform: translateX(0);
-        }
-        .controls button {
-            display: block;
-            margin-bottom: 10px;
-            padding: 10px;
-            background-color: #007bff;
-            color: white;
-            border: none;
-            border-radius: 5px;
+        /* ===== Bouton menu hamburger ===== */
+        .menu-toggle {
+            position: fixed;
+            top: 12px;
+            left: 12px;
+            z-index: 1005;
+            width: 40px;
+            height: 40px;
+            background: var(--panel-bg);
+            border: 1px solid var(--panel-border);
+            border-radius: var(--radius);
             cursor: pointer;
-            font-size: 12px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: background 0.2s, top 0.2s;
+            backdrop-filter: blur(8px);
+            -webkit-backdrop-filter: blur(8px);
         }
-        .controls button:hover {
-            background-color: #0056b3;
+        body.measure-bar-visible .menu-toggle { top: 50px; }
+        .menu-toggle:hover { background: var(--btn-hover); }
+        .menu-toggle span {
+            display: block;
+            width: 18px;
+            height: 2px;
+            background: var(--accent);
+            position: relative;
+            transition: background 0.2s;
         }
-        .controls button.active {
-            background-color: #28a745;
+        .menu-toggle span::before,
+        .menu-toggle span::after {
+            content: '';
+            position: absolute;
+            left: 0;
+            width: 18px;
+            height: 2px;
+            background: var(--accent);
+            transition: transform 0.25s;
         }
-        .controls button.active:hover {
-            background-color: #1e7e34;
+        .menu-toggle span::before { top: -6px; }
+        .menu-toggle span::after { top: 6px; }
+        .menu-toggle.open span { background: transparent; }
+        .menu-toggle.open span::before { transform: rotate(45deg); top: 0; }
+        .menu-toggle.open span::after { transform: rotate(-45deg); top: 0; }
+
+        /* ===== Panneau de controles ===== */
+        .controls {
+            position: fixed;
+            top: 60px;
+            left: 12px;
+            z-index: 1005;
+            width: 240px;
+            max-height: calc(100vh - 80px);
+            overflow-y: auto;
+            background: var(--panel-bg);
+            border: 1px solid var(--panel-border);
+            border-radius: 8px;
+            padding: 12px;
+            backdrop-filter: blur(12px);
+            -webkit-backdrop-filter: blur(12px);
+            transform: translateX(calc(-100% - 20px));
+            opacity: 0;
+            transition: transform 0.3s ease, opacity 0.3s ease;
+            scrollbar-width: thin;
+            scrollbar-color: var(--panel-border) transparent;
+        }
+        .controls.open {
+            transform: translateX(0);
+            opacity: 1;
+        }
+        body.measure-bar-visible .controls { top: 98px; }
+
+        /* Scrollbar */
+        .controls::-webkit-scrollbar { width: 4px; }
+        .controls::-webkit-scrollbar-track { background: transparent; }
+        .controls::-webkit-scrollbar-thumb { background: var(--panel-border); border-radius: 2px; }
+
+        /* Section titre */
+        .ctrl-section {
+            margin-bottom: 10px;
+            padding-bottom: 10px;
+            border-bottom: 1px solid rgba(178, 148, 96, 0.15);
+        }
+        .ctrl-section:last-child { border-bottom: none; margin-bottom: 0; padding-bottom: 0; }
+        .ctrl-section-title {
+            font-size: 10px;
+            text-transform: uppercase;
+            letter-spacing: 1.5px;
+            color: var(--accent);
+            margin: 0 0 8px 0;
+            font-weight: 600;
+        }
+
+        /* Recherche */
+        .search-wrapper {
+            position: relative;
         }
         .controls input[type="text"] {
-            width: 200px;
-            color: black;
-            background-color: white;
-            padding: 8px;
-            margin-bottom: 10px;
-            border: 1px solid #ccc;
-            border-radius: 3px;
+            width: 100%;
+            padding: 8px 10px;
+            background: var(--input-bg);
+            border: 1px solid var(--input-border);
+            border-radius: var(--radius);
+            color: var(--text);
+            font-size: 13px;
+            outline: none;
+            transition: border-color 0.2s;
+        }
+        .controls input[type="text"]::placeholder { color: var(--text-muted); }
+        .controls input[type="text"]:focus { border-color: var(--accent); }
+
+        /* Boutons */
+        .controls button {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            width: 100%;
+            margin-bottom: 4px;
+            padding: 7px 10px;
+            background: var(--btn-bg);
+            color: var(--text);
+            border: 1px solid transparent;
+            border-radius: var(--radius);
+            cursor: pointer;
+            font-size: 12px;
+            font-family: inherit;
+            text-align: left;
+            transition: background 0.15s, border-color 0.15s;
+        }
+        .controls button:hover {
+            background: var(--btn-hover);
+            border-color: var(--panel-border);
+        }
+        .controls button.active {
+            background: var(--btn-active);
+            border-color: var(--accent);
+            color: var(--accent);
+        }
+        .controls button .icon {
+            font-size: 14px;
+            width: 18px;
+            text-align: center;
+            flex-shrink: 0;
         }
 
-        /* Contrôles de grille */
+        /* Grid controls */
         .grid-controls {
-            background-color: rgba(255,255,255,0.9);
-            padding: 5px;
-            border-radius: 3px;
-            margin-bottom: 10px;
+            background: transparent;
+            padding: 0;
+            margin: 0;
         }
         .grid-controls label {
             font-size: 11px;
-            display: block;
-            margin-bottom: 3px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            color: var(--text-muted);
+            margin: 6px 0 3px;
         }
+        .grid-controls label span { color: var(--accent); font-weight: 600; }
         .grid-controls input[type="range"] {
             width: 100%;
-            margin-bottom: 5px;
+            margin: 2px 0 4px;
+            -webkit-appearance: none;
+            appearance: none;
+            height: 4px;
+            background: var(--input-bg);
+            border-radius: 2px;
+            outline: none;
+        }
+        .grid-controls input[type="range"]::-webkit-slider-thumb {
+            -webkit-appearance: none;
+            width: 14px;
+            height: 14px;
+            border-radius: 50%;
+            background: var(--accent);
+            cursor: pointer;
+            border: 2px solid rgba(28, 24, 20, 0.8);
+        }
+        .grid-controls input[type="range"]::-moz-range-thumb {
+            width: 14px;
+            height: 14px;
+            border-radius: 50%;
+            background: var(--accent);
+            cursor: pointer;
+            border: 2px solid rgba(28, 24, 20, 0.8);
         }
         .grid-controls input[type="number"] {
             width: 100%;
-            padding: 3px;
-            margin-bottom: 5px;
-            border: 1px solid #ccc;
-            border-radius: 3px;
+            padding: 5px 8px;
+            background: var(--input-bg);
+            border: 1px solid var(--input-border);
+            border-radius: var(--radius);
+            color: var(--text);
+            font-size: 12px;
+            outline: none;
+            font-family: inherit;
         }
+        .grid-controls input[type="number"]:focus { border-color: var(--accent); }
         .grid-controls select {
             width: 100%;
-            padding: 3px;
-            margin-bottom: 5px;
+            padding: 5px 8px;
+            background: var(--input-bg);
+            border: 1px solid var(--input-border);
+            border-radius: var(--radius);
+            color: var(--text);
+            font-size: 12px;
+            outline: none;
+            font-family: inherit;
+        }
+        .grid-controls select option { background: #1c1814; }
+
+        /* ===== Info panel ===== */
+        .info-panel {
+            position: fixed;
+            top: 12px;
+            right: 12px;
+            width: 320px;
+            max-height: calc(100vh - 24px);
+            background: var(--panel-bg);
+            border: 1px solid var(--panel-border);
+            border-radius: 8px;
+            backdrop-filter: blur(12px);
+            -webkit-backdrop-filter: blur(12px);
+            display: none;
+            z-index: 1006;
+            overflow: hidden;
+            transition: top 0.2s;
         }
 
-        /* Style pour la fenêtre d'information */
-        .info-panel {
-            position: absolute;
-            top: 10px;
-            right: 10px;
-            width: 300px;
-            max-height: calc(100vh - 20px);
-            padding: 15px;
-            background-color: white;
-            border: 1px solid #ccc;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-            font-family: 'Copperplate Gothic Std', sans-serif;
-            display: none;
-            z-index: 1001;
-            overflow: hidden;
-        }  
-        
-        /* Section fixe (entête) */
         .info-panel-header {
             position: sticky;
             top: 0;
-            background-color: white;
-            padding: 0px;
-            border-bottom: 1px solid #ccc;
+            background: rgba(28, 24, 20, 0.95);
+            padding: 14px 16px 10px;
+            border-bottom: 1px solid var(--panel-border);
             z-index: 10;
         }
-        
-        /* Contenu déroulant */
-        .info-panel-content {
-            max-height: calc(100vh - 60px);
-            overflow-y: auto;
-            padding: 0px;
-            text-align: justify;
-        }
-
-        .info-panel-content details {
-            margin-bottom: 5px;
-        }
-
-        .info-panel-content summary {
-            font-weight: bold;
-            cursor: pointer;
-        }
-        
-        /* Titre (restant fixé en haut) */
         .info-panel-header h2 {
-            font-family: 'Verdana', sans-serif;
-            margin-top: 0;
+            font-family: 'Copperplate Gothic Std', 'Segoe UI', sans-serif;
+            margin: 0;
+            font-size: 16px;
+            color: var(--accent);
+            padding-right: 24px;
+        }
+        #closeInfoPanel {
+            position: absolute;
+            top: 10px;
+            right: 12px;
+            cursor: pointer;
+            color: var(--text-muted);
             font-size: 20px;
-            color: #333;
+            line-height: 1;
+            transition: color 0.15s;
+            font-weight: normal;
         }
-        
-        /* Texte du contenu */
+        #closeInfoPanel:hover { color: var(--text); }
+
+        .info-panel-content {
+            max-height: calc(100vh - 80px);
+            overflow-y: auto;
+            padding: 12px 16px 16px;
+            text-align: justify;
+            scrollbar-width: thin;
+            scrollbar-color: var(--panel-border) transparent;
+        }
+        .info-panel-content::-webkit-scrollbar { width: 4px; }
+        .info-panel-content::-webkit-scrollbar-thumb { background: var(--panel-border); border-radius: 2px; }
+
         .info-panel-content p {
-            font-family: 'Verdana', sans-serif;
-            font-size: 14px;
-            color: #666;
+            font-size: 13px;
+            color: var(--text);
+            line-height: 1.5;
             white-space: pre-line;
+            margin: 0 0 8px;
         }
-            
+        .info-panel-content details {
+            margin-bottom: 6px;
+            border: 1px solid rgba(178, 148, 96, 0.15);
+            border-radius: var(--radius);
+            overflow: hidden;
+        }
+        .info-panel-content summary {
+            font-weight: 600;
+            font-size: 12px;
+            color: var(--accent);
+            cursor: pointer;
+            padding: 8px 10px;
+            background: rgba(178, 148, 96, 0.08);
+            transition: background 0.15s;
+        }
+        .info-panel-content summary:hover { background: rgba(178, 148, 96, 0.15); }
+        .info-panel-content details[open] summary { border-bottom: 1px solid rgba(178, 148, 96, 0.15); }
+        .info-panel-content details > p { padding: 8px 10px; margin: 0; }
+
+        /* ===== Suggestions ===== */
         .suggestions-list {
-            border: 1px solid #ccc;
-            background-color: white;
+            border: 1px solid var(--panel-border);
+            background: rgba(28, 24, 20, 0.95);
+            backdrop-filter: blur(8px);
+            -webkit-backdrop-filter: blur(8px);
             max-height: 150px;
             overflow-y: auto;
             display: none;
             position: absolute;
-            width: 200px;
-            z-index: 1000;
+            width: 100%;
+            z-index: 1002;
+            border-radius: 0 0 var(--radius) var(--radius);
+            margin-top: -1px;
         }
-
         .suggestions-list div {
-            padding: 8px;
+            padding: 7px 10px;
             cursor: pointer;
+            color: var(--text);
+            font-size: 12px;
+            transition: background 0.1s;
         }
-
         .suggestions-list div:hover {
-            background-color: #f0f0f0;
-        }
-            
-        #bordersElement {
-            position: absolute;
-            z-index: 10;
+            background: var(--btn-hover);
+            color: var(--accent);
         }
 
-        /* Timeline container at bottom */
+        #bordersElement { position: absolute; z-index: 10; }
+
+        /* ===== Timeline ===== */
         #timelineContainer {
             position: fixed;
-            bottom: 10px;
+            bottom: 12px;
             left: 50%;
             transform: translateX(-50%);
-            background-color: rgba(255,255,255,0.8);
-            padding: 10px;
-            border-radius: 5px;
+            background: var(--panel-bg);
+            border: 1px solid var(--panel-border);
+            backdrop-filter: blur(12px);
+            -webkit-backdrop-filter: blur(12px);
+            padding: 8px 20px;
+            border-radius: 20px;
             z-index: 1002;
-            font-family: 'Verdana', sans-serif;
             text-align: center;
+            display: flex;
+            align-items: center;
+            gap: 12px;
         }
-
         #timeline {
-            width: 80%;
+            width: 120px;
+            -webkit-appearance: none;
+            appearance: none;
+            height: 4px;
+            background: var(--input-bg);
+            border-radius: 2px;
+            outline: none;
+        }
+        #timeline::-webkit-slider-thumb {
+            -webkit-appearance: none;
+            width: 14px;
+            height: 14px;
+            border-radius: 50%;
+            background: var(--accent);
+            cursor: pointer;
+            border: 2px solid rgba(28, 24, 20, 0.8);
+        }
+        #timeline::-moz-range-thumb {
+            width: 14px;
+            height: 14px;
+            border-radius: 50%;
+            background: var(--accent);
+            cursor: pointer;
+            border: 2px solid rgba(28, 24, 20, 0.8);
+        }
+        #timelineLabel {
+            color: var(--accent);
+            font-size: 13px;
+            font-weight: 600;
+            min-width: 36px;
         }
 
         /* Grille overlay */
-        .grid-overlay {
-            pointer-events: none;
-            opacity: 0.7;
+        .grid-overlay { pointer-events: none; opacity: 0.7; }
+
+        /* ===== Custom nav controls (remplacement OSD) ===== */
+        .nav-controls {
+            position: fixed;
+            top: 12px;
+            right: 12px;
+            z-index: 1005;
+            transition: top 0.2s;
+            display: flex;
+            flex-direction: column;
+            gap: 2px;
+            background: var(--panel-bg);
+            border: 1px solid var(--panel-border);
+            border-radius: 8px;
+            padding: 4px;
+            backdrop-filter: blur(8px);
+            -webkit-backdrop-filter: blur(8px);
+        }
+        .nav-controls button {
+            width: 34px;
+            height: 34px;
+            background: transparent;
+            border: none;
+            border-radius: var(--radius);
+            color: var(--accent);
+            font-size: 18px;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: background 0.15s;
+            line-height: 1;
+            padding: 0;
+        }
+        .nav-controls button:hover { background: var(--btn-hover); }
+        .nav-controls button:active { background: var(--btn-active); }
+        .nav-controls .nav-sep {
+            height: 1px;
+            background: var(--panel-border);
+            margin: 2px 4px;
         }
 
-        /* Bouton fullscreen iOS */
+        /* ===== Barre de mesure ===== */
+        .measure-bar {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            z-index: 1004;
+            background: rgba(28, 24, 20, 0.94);
+            border-bottom: 1px solid var(--accent);
+            padding: 8px 16px;
+            align-items: center;
+            gap: 12px;
+            font-size: 13px;
+            color: var(--text);
+            backdrop-filter: blur(8px);
+            -webkit-backdrop-filter: blur(8px);
+        }
+        .measure-bar.visible { display: flex; }
+        .measure-bar .measure-icon {
+            color: var(--accent);
+            font-size: 16px;
+            flex-shrink: 0;
+        }
+        .measure-bar .measure-info {
+            flex: 1;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+        .measure-bar .measure-hint { color: var(--text-muted); }
+        .measure-bar .measure-live {
+            color: var(--accent);
+            font-weight: 600;
+            font-variant-numeric: tabular-nums;
+        }
+        .measure-bar button {
+            padding: 4px 12px;
+            background: var(--btn-bg);
+            color: var(--text);
+            border: 1px solid var(--panel-border);
+            border-radius: var(--radius);
+            cursor: pointer;
+            font-size: 12px;
+            font-family: inherit;
+            transition: background 0.15s;
+            white-space: nowrap;
+        }
+        .measure-bar button:hover { background: var(--btn-hover); }
+        .measure-bar .measure-cancel { color: #e07070; border-color: rgba(224, 112, 112, 0.3); }
+        .measure-bar .measure-cancel:hover { background: rgba(224, 112, 112, 0.15); }
+
+        /* Curseur crosshair en mode mesure */
+        body.measuring #openseadragon1 { cursor: crosshair; }
+
+        /* ===== iOS fullscreen ===== */
         .ios-fullscreen-btn {
             display: none;
             position: fixed;
@@ -212,35 +522,24 @@
             transform: translateX(-50%);
             z-index: 1003;
             padding: 8px 16px;
-            background-color: rgba(0, 0, 0, 0.7);
-            color: white;
-            border: 1px solid rgba(255, 255, 255, 0.3);
-            border-radius: 8px;
-            font-size: 14px;
+            background: var(--panel-bg);
+            color: var(--accent);
+            border: 1px solid var(--panel-border);
+            border-radius: 20px;
+            font-size: 13px;
             cursor: pointer;
+            backdrop-filter: blur(8px);
+            -webkit-backdrop-filter: blur(8px);
             -webkit-tap-highlight-color: transparent;
         }
-        .ios-fullscreen-btn:active {
-            background-color: rgba(0, 0, 0, 0.9);
-        }
+        .ios-fullscreen-btn:active { background: var(--btn-hover); }
 
-        /* Mode pseudo-fullscreen iOS */
-        body.ios-fullscreen {
-            position: fixed;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-        }
+        body.ios-fullscreen { position: fixed; top: 0; left: 0; width: 100%; height: 100%; }
         body.ios-fullscreen .controls,
-        body.ios-fullscreen #timelineContainer {
-            display: none !important;
-        }
-        body.ios-fullscreen .ios-fullscreen-btn {
-            top: env(safe-area-inset-top, 10px);
-        }
+        body.ios-fullscreen .menu-toggle,
+        body.ios-fullscreen #timelineContainer { display: none !important; }
+        body.ios-fullscreen .ios-fullscreen-btn { top: env(safe-area-inset-top, 10px); }
 
-        /* Safe area padding pour les appareils avec encoche */
         @supports (padding: env(safe-area-inset-top)) {
             body {
                 padding-top: env(safe-area-inset-top);
@@ -248,51 +547,93 @@
                 padding-left: env(safe-area-inset-left);
                 padding-right: env(safe-area-inset-right);
             }
-            body.ios-fullscreen {
-                padding: 0;
-            }
+            body.ios-fullscreen { padding: 0; }
         }
     </style>
 </head>
 
 <body>
-<button id="iosFullscreenBtn" class="ios-fullscreen-btn">&#x26F6; Plein écran</button>
+<button id="iosFullscreenBtn" class="ios-fullscreen-btn">Plein écran</button>
 <div id="openseadragon1" style="width: 100vw; height: 100vh; position: relative;">
-    <!-- Barre de recherche et boutons de contrôle -->
-    <div class="controls">
-        <input type="text" id="searchInput" placeholder="Rechercher un nom...">
-        <div id="suggestions" class="suggestions-list"></div>
-        <button id="searchButton">Rechercher</button>
-        <button id="toggleText">Afficher/Masquer textes</button>
-        <button id="toggleBorders">Afficher les frontières</button>
-        <button id="toggleWrapping">Mode infini ON/OFF</button>
-        <button id="measureDistance">Mesurer distance</button>
-        <button id="measureArea">Mesurer surface</button>
-        
-        <!-- Contrôles de grille -->
-        <div class="grid-controls">
-            <button id="toggleGrid">Afficher/Masquer grille</button>
-            <label for="gridSizeInput">Taille grille:</label>
-            <input type="number" id="gridSizeInput" min="5" max="300" value="10">
-            <label for="gridTextSize">Taille texte: <span id="gridTextSizeValue">20%</span></label>
-            <input type="range" id="gridTextSize" min="1" max="100" value="20" step="1">
-            <label for="gridLineWidth">Épaisseur ligne: <span id="gridLineWidthValue">10%</span></label>
-            <input type="range" id="gridLineWidth" min="1" max="50" value="10" step="1">
-            <label for="originSelector">Origine:</label>
-            <select id="originSelector">
-                <option value="top-left">Haut-Gauche</option>
-                <option value="top-right">Haut-Droite</option>
-                <option value="bottom-left">Bas-Gauche</option>
-                <option value="bottom-right">Bas-Droite</option>
-            </select>
+
+    <!-- Bouton hamburger -->
+    <button class="menu-toggle" id="menuToggle"><span></span></button>
+
+    <!-- Panneau de contrôles -->
+    <div class="controls" id="controlsPanel">
+        <!-- Recherche -->
+        <div class="ctrl-section">
+            <div class="ctrl-section-title">Recherche</div>
+            <div class="search-wrapper">
+                <input type="text" id="searchInput" placeholder="Rechercher un lieu...">
+                <div id="suggestions" class="suggestions-list"></div>
+            </div>
+            <button id="searchButton"><span class="icon">&#x1F50D;</span> Rechercher</button>
+        </div>
+
+        <!-- Affichage -->
+        <div class="ctrl-section">
+            <div class="ctrl-section-title">Affichage</div>
+            <button id="toggleText"><span class="icon">&#x1F520;</span> Textes</button>
+            <button id="toggleBorders"><span class="icon">&#x1F5FA;</span> Frontières</button>
+            <button id="toggleWrapping"><span class="icon">&#x1F310;</span> Mode infini</button>
+        </div>
+
+        <!-- Outils -->
+        <div class="ctrl-section">
+            <div class="ctrl-section-title">Outils</div>
+            <button id="measureDistance"><span class="icon">&#x1F4CF;</span> Distance</button>
+            <button id="measureArea"><span class="icon">&#x2B1B;</span> Surface</button>
+        </div>
+
+        <!-- Grille -->
+        <div class="ctrl-section">
+            <div class="ctrl-section-title">Grille</div>
+            <div class="grid-controls">
+                <button id="toggleGrid"><span class="icon">#</span> Grille</button>
+                <label for="gridSizeInput">Taille <span id="gridSizeDisplay">10</span></label>
+                <input type="number" id="gridSizeInput" min="5" max="300" value="10">
+                <label for="gridTextSize">Texte <span id="gridTextSizeValue">20%</span></label>
+                <input type="range" id="gridTextSize" min="1" max="100" value="20" step="1">
+                <label for="gridLineWidth">Lignes <span id="gridLineWidthValue">10%</span></label>
+                <input type="range" id="gridLineWidth" min="1" max="50" value="10" step="1">
+                <label for="originSelector">Origine</label>
+                <select id="originSelector">
+                    <option value="top-left">Haut-Gauche</option>
+                    <option value="top-right">Haut-Droite</option>
+                    <option value="bottom-left">Bas-Gauche</option>
+                    <option value="bottom-right">Bas-Droite</option>
+                </select>
+            </div>
         </div>
     </div>
 
-    <!-- Fenêtre d'information pour afficher les détails de la ville -->
+    <!-- Nav controls -->
+    <div class="nav-controls" id="navControls">
+        <button id="navZoomIn" title="Zoom +">+</button>
+        <button id="navZoomOut" title="Zoom &minus;">&minus;</button>
+        <div class="nav-sep"></div>
+        <button id="navHome" title="Vue initiale">&#x2302;</button>
+        <button id="navFullscreen" title="Plein écran">&#x26F6;</button>
+    </div>
+
+    <!-- Barre de mesure -->
+    <div class="measure-bar" id="measureBar">
+        <span class="measure-icon" id="measureBarIcon"></span>
+        <div class="measure-info">
+            <span class="measure-hint" id="measureHint"></span>
+            <span class="measure-live" id="measureLive"></span>
+        </div>
+        <button id="measureClear" style="display:none">Effacer</button>
+        <button id="measureUndo" style="display:none">Annuler point</button>
+        <button class="measure-cancel" id="measureCancel">Esc - Fermer</button>
+    </div>
+
+    <!-- Info panel -->
     <div id="infoPanel" class="info-panel">
         <div class="info-panel-header">
             <h2 id="cityName">Nom de la ville</h2>
-            <span id="closeInfoPanel" style="position:absolute; top:10px; right:10px; cursor:pointer; font-weight:bold;">&times;</span>
+            <span id="closeInfoPanel">&times;</span>
         </div>
         <div class="info-panel-content">
             <div id="cityInfo"></div>
@@ -361,7 +702,7 @@
             visibilityRatio: wrappingEnabled ? 0 : 0.5, // Permet de voir en dehors des limites si wrapping activé
             constrainDuringPan: !wrappingEnabled, // Autorise le pan libre si wrapping activé
             // Options d'optimisation
-            showNavigationControl: true,
+            showNavigationControl: false,
             preserveImageSizeOnResize: true,
             // Gestion des gestes pour une navigation fluide
             gestureSettingsMouse: {
@@ -487,6 +828,38 @@
         document.getElementById('measureArea').addEventListener('click', () => startMeasure('area'));
         document.getElementById('toggleGrid').addEventListener('click', toggleGrid);
 
+        // Navigation personnalisée
+        document.getElementById('navZoomIn').addEventListener('click', () => {
+            viewer.viewport.zoomBy(1.5);
+            viewer.viewport.applyConstraints();
+        });
+        document.getElementById('navZoomOut').addEventListener('click', () => {
+            viewer.viewport.zoomBy(0.667);
+            viewer.viewport.applyConstraints();
+        });
+        document.getElementById('navHome').addEventListener('click', () => {
+            viewer.viewport.goHome();
+        });
+        document.getElementById('navFullscreen').addEventListener('click', () => {
+            if (viewer.isFullPage()) {
+                viewer.setFullPage(false);
+            } else {
+                viewer.setFullPage(true);
+            }
+        });
+
+        // Mesure : boutons barre
+        document.getElementById('measureCancel').addEventListener('click', cancelMeasure);
+        document.getElementById('measureClear').addEventListener('click', clearAllMeasures);
+        document.getElementById('measureUndo').addEventListener('click', undoMeasurePoint);
+
+        // Escape pour annuler la mesure
+        document.addEventListener('keydown', function(e) {
+            if (e.key === 'Escape' && measureMode) {
+                cancelMeasure();
+            }
+        });
+
         // Contrôles de grille
         initGridControls();
 
@@ -494,6 +867,13 @@
         viewer.addHandler('zoom', updateTextVisibility);
         viewer.addHandler('canvas-click', handleCanvasClick);
         viewer.addHandler('canvas-double-click', handleCanvasDoubleClick);
+
+        // Mouse move pour preview en temps réel
+        viewer.addHandler('canvas-drag', function() {}); // keep default
+        new OpenSeadragon.MouseTracker({
+            element: viewer.canvas,
+            moveHandler: handleCanvasMove
+        });
     }
 
     function initSearchHandlers() {
@@ -826,7 +1206,7 @@
 
     function updateWrappingButton() {
         const button = document.getElementById('toggleWrapping');
-        button.textContent = wrappingEnabled ? 'Mode infini: ON' : 'Mode infini: OFF';
+        button.innerHTML = '<span class="icon">&#x1F310;</span> ' + (wrappingEnabled ? 'Mode infini: ON' : 'Mode infini: OFF');
         if (wrappingEnabled) {
             button.classList.add('active');
         } else {
@@ -957,16 +1337,175 @@
         }
     }
 
-    // Outils de mesure
+    // ===== Outils de mesure améliorés =====
+    let previewLine = null;
+    let previewPoly = null;
+    let measureFinished = false;
+    const measureMarkers = [];
+
     function startMeasure(mode) {
+        // Si déjà en mode mesure, annuler d'abord
+        if (measureMode) cancelMeasure();
         measureMode = mode;
-        resetMeasure();
+        measurePoints = [];
+        measureFinished = false;
+        clearPreview();
+        document.body.classList.add('measuring');
+        updateMeasureBar();
+        // Fermer le menu
+        document.getElementById('menuToggle').classList.remove('open');
+        document.getElementById('controlsPanel').classList.remove('open');
     }
 
-    function resetMeasure() {
+    function cancelMeasure() {
+        measureMode = null;
         measurePoints = [];
+        measureFinished = false;
+        clearPreview();
+        clearMarkers();
+        clearMeasureLayer();
+        document.body.classList.remove('measuring');
+        updateMeasureBar();
+    }
+
+    function finishMeasure() {
+        measureFinished = true;
+        clearPreview();
+        document.body.classList.remove('measuring');
+        updateMeasureBar();
+    }
+
+    function clearAllMeasures() {
+        measureMode = null;
+        measurePoints = [];
+        measureFinished = false;
+        clearPreview();
+        clearMarkers();
+        clearMeasureLayer();
+        document.body.classList.remove('measuring');
+        updateMeasureBar();
+    }
+
+    function undoMeasurePoint() {
+        if (measurePoints.length === 0) return;
+        measurePoints.pop();
+        // Supprimer le dernier marqueur
+        const m = measureMarkers.pop();
+        if (m && m.parentNode) m.parentNode.removeChild(m);
+        // Redessiner les lignes intermédiaires
+        redrawMeasureProgress();
+        updateMeasureBar();
+        if (measurePoints.length === 0) {
+            clearPreview();
+        }
+    }
+
+    function clearMeasureLayer() {
         while (measureLayer.firstChild) {
             measureLayer.removeChild(measureLayer.firstChild);
+        }
+    }
+
+    function clearPreview() {
+        if (previewLine && previewLine.parentNode) previewLine.parentNode.removeChild(previewLine);
+        if (previewPoly && previewPoly.parentNode) previewPoly.parentNode.removeChild(previewPoly);
+        previewLine = null;
+        previewPoly = null;
+    }
+
+    function clearMarkers() {
+        measureMarkers.forEach(m => { if (m.parentNode) m.parentNode.removeChild(m); });
+        measureMarkers.length = 0;
+    }
+
+    function addMarker(point) {
+        const circle = document.createElementNS("http://www.w3.org/2000/svg", "circle");
+        circle.setAttribute("cx", point.x);
+        circle.setAttribute("cy", point.y);
+        circle.setAttribute("r", "0.004");
+        circle.setAttribute("fill", "var(--accent, #c9a84c)");
+        circle.setAttribute("stroke", "rgba(0,0,0,0.6)");
+        circle.setAttribute("stroke-width", "0.001");
+        circle.setAttribute("pointer-events", "none");
+        measureLayer.appendChild(circle);
+        measureMarkers.push(circle);
+    }
+
+    function redrawMeasureProgress() {
+        // Remove previous progress lines (not markers, not final result)
+        const toRemove = measureLayer.querySelectorAll('.measure-progress');
+        toRemove.forEach(el => el.parentNode.removeChild(el));
+
+        if (measureMode === 'distance' && measurePoints.length === 1) {
+            // Nothing to draw yet
+        }
+        if (measureMode === 'area' && measurePoints.length >= 2) {
+            for (let i = 0; i < measurePoints.length - 1; i++) {
+                const seg = document.createElementNS("http://www.w3.org/2000/svg", "line");
+                seg.classList.add('measure-progress');
+                seg.setAttribute('x1', measurePoints[i].x);
+                seg.setAttribute('y1', measurePoints[i].y);
+                seg.setAttribute('x2', measurePoints[i+1].x);
+                seg.setAttribute('y2', measurePoints[i+1].y);
+                seg.setAttribute('stroke', '#c9a84c');
+                seg.setAttribute('stroke-width', '0.002');
+                seg.setAttribute('stroke-dasharray', '0.006,0.004');
+                seg.setAttribute('pointer-events', 'none');
+                measureLayer.appendChild(seg);
+            }
+        }
+    }
+
+    function updateMeasureBar() {
+        const bar = document.getElementById('measureBar');
+        const icon = document.getElementById('measureBarIcon');
+        const hint = document.getElementById('measureHint');
+        const live = document.getElementById('measureLive');
+        const clearBtn = document.getElementById('measureClear');
+        const undoBtn = document.getElementById('measureUndo');
+        const cancelBtn = document.getElementById('measureCancel');
+
+        if (!measureMode && !measureFinished) {
+            bar.classList.remove('visible');
+            document.body.classList.remove('measure-bar-visible');
+            return;
+        }
+
+        bar.classList.add('visible');
+        document.body.classList.add('measure-bar-visible');
+
+        if (measureFinished) {
+            icon.textContent = '\u2714';
+            hint.textContent = 'Mesure termin\u00e9e';
+            cancelBtn.textContent = 'Fermer';
+            clearBtn.style.display = 'inline-block';
+            undoBtn.style.display = 'none';
+            return;
+        }
+
+        clearBtn.style.display = 'none';
+        cancelBtn.textContent = 'Esc - Annuler';
+
+        if (measureMode === 'distance') {
+            icon.textContent = '\uD83D\uDCCF';
+            if (measurePoints.length === 0) {
+                hint.textContent = 'Cliquez le point de d\u00e9part';
+                live.textContent = '';
+            } else {
+                hint.textContent = 'Cliquez le point d\u2019arriv\u00e9e';
+            }
+            undoBtn.style.display = measurePoints.length > 0 ? 'inline-block' : 'none';
+        } else if (measureMode === 'area') {
+            icon.textContent = '\u2B1B';
+            if (measurePoints.length === 0) {
+                hint.textContent = 'Cliquez pour placer les sommets';
+                live.textContent = '';
+            } else if (measurePoints.length < 3) {
+                hint.textContent = 'Continuez \u00e0 placer des sommets (' + measurePoints.length + ')';
+            } else {
+                hint.textContent = measurePoints.length + ' sommets \u2014 double-clic pour terminer';
+            }
+            undoBtn.style.display = measurePoints.length > 0 ? 'inline-block' : 'none';
         }
     }
 
@@ -985,67 +1524,161 @@
         return area * CONFIG.worldWidthKm * CONFIG.worldWidthKm;
     }
 
-    function showLabel(text, coord) {
+    function showMeasureLabel(text, coord) {
+        const bg = document.createElementNS("http://www.w3.org/2000/svg", "rect");
         const label = document.createElementNS("http://www.w3.org/2000/svg", "text");
         label.setAttribute("x", coord.x);
         label.setAttribute("y", coord.y);
-        label.setAttribute("fill", "yellow");
-        label.setAttribute("font-size", "0.02");
-        label.setAttribute("font-family", "Verdana, sans-serif");
+        label.setAttribute("fill", "#1c1814");
+        label.setAttribute("font-size", "0.012");
+        label.setAttribute("font-family", "Segoe UI, system-ui, sans-serif");
+        label.setAttribute("font-weight", "600");
+        label.setAttribute("text-anchor", "middle");
         label.setAttribute("pointer-events", "none");
         label.textContent = text;
+
+        // Background pill
+        const padding = 0.004;
+        const textW = text.length * 0.006;
+        bg.setAttribute("x", coord.x - textW / 2 - padding);
+        bg.setAttribute("y", coord.y - 0.011 - padding / 2);
+        bg.setAttribute("width", textW + padding * 2);
+        bg.setAttribute("height", 0.016);
+        bg.setAttribute("rx", "0.004");
+        bg.setAttribute("fill", "#c9a84c");
+        bg.setAttribute("pointer-events", "none");
+
+        measureLayer.appendChild(bg);
         measureLayer.appendChild(label);
     }
 
-    function handleCanvasClick(event) {
-        if (!measureMode) return;
-        event.preventDefaultAction = true;
-        
-        const webPoint = event.position;
-        const point = viewer.viewport.pointFromPixel(webPoint);
-        measurePoints.push(point);
+    function handleCanvasMove(event) {
+        if (!measureMode || measureFinished) return;
+        if (measurePoints.length === 0) return;
 
-        if (measureMode === 'distance' && measurePoints.length === 2) {
-            const line = document.createElementNS("http://www.w3.org/2000/svg", "line");
-            line.setAttribute('x1', measurePoints[0].x);
-            line.setAttribute('y1', measurePoints[0].y);
-            line.setAttribute('x2', measurePoints[1].x);
-            line.setAttribute('y2', measurePoints[1].y);
-            line.setAttribute('stroke', 'yellow');
-            line.setAttribute('stroke-width', '0.005');
-            measureLayer.appendChild(line);
+        const point = viewer.viewport.pointFromPixel(event.position);
+        const last = measurePoints[measurePoints.length - 1];
 
-            const dist = distanceKm(measurePoints[0], measurePoints[1]);
-            const midX = (measurePoints[0].x + measurePoints[1].x) / 2;
-            const midY = (measurePoints[0].y + measurePoints[1].y) / 2;
-            const dx = measurePoints[1].x - measurePoints[0].x;
-            const dy = measurePoints[1].y - measurePoints[0].y;
-            const len = Math.sqrt(dx*dx + dy*dy);
-            const offset = 0.02;
-            const offX = -dy/len * offset;
-            const offY = dx/len * offset;
-            showLabel(dist.toFixed(2) + ' km', { x: midX + offX, y: midY + offY });
-            measureMode = null;
+        if (measureMode === 'distance') {
+            // Preview line
+            if (!previewLine) {
+                previewLine = document.createElementNS("http://www.w3.org/2000/svg", "line");
+                previewLine.setAttribute('stroke', '#c9a84c');
+                previewLine.setAttribute('stroke-width', '0.003');
+                previewLine.setAttribute('stroke-dasharray', '0.008,0.005');
+                previewLine.setAttribute('pointer-events', 'none');
+                measureLayer.appendChild(previewLine);
+            }
+            previewLine.setAttribute('x1', last.x);
+            previewLine.setAttribute('y1', last.y);
+            previewLine.setAttribute('x2', point.x);
+            previewLine.setAttribute('y2', point.y);
+
+            // Live distance
+            const dist = distanceKm(last, point);
+            document.getElementById('measureLive').textContent = dist.toFixed(1) + ' km';
+        }
+
+        if (measureMode === 'area') {
+            // Preview closing line from last point to cursor, and cursor to first
+            if (!previewLine) {
+                previewLine = document.createElementNS("http://www.w3.org/2000/svg", "line");
+                previewLine.setAttribute('stroke', '#c9a84c');
+                previewLine.setAttribute('stroke-width', '0.002');
+                previewLine.setAttribute('stroke-dasharray', '0.006,0.004');
+                previewLine.setAttribute('pointer-events', 'none');
+                measureLayer.appendChild(previewLine);
+            }
+            previewLine.setAttribute('x1', last.x);
+            previewLine.setAttribute('y1', last.y);
+            previewLine.setAttribute('x2', point.x);
+            previewLine.setAttribute('y2', point.y);
+
+            if (measurePoints.length >= 2) {
+                if (!previewPoly) {
+                    previewPoly = document.createElementNS("http://www.w3.org/2000/svg", "line");
+                    previewPoly.setAttribute('stroke', 'rgba(201,168,76,0.4)');
+                    previewPoly.setAttribute('stroke-width', '0.002');
+                    previewPoly.setAttribute('stroke-dasharray', '0.006,0.004');
+                    previewPoly.setAttribute('pointer-events', 'none');
+                    measureLayer.appendChild(previewPoly);
+                }
+                previewPoly.setAttribute('x1', point.x);
+                previewPoly.setAttribute('y1', point.y);
+                previewPoly.setAttribute('x2', measurePoints[0].x);
+                previewPoly.setAttribute('y2', measurePoints[0].y);
+            }
+
+            // Live area
+            if (measurePoints.length >= 2) {
+                const tempPts = [...measurePoints, point];
+                const area = polygonArea(tempPts);
+                document.getElementById('measureLive').textContent = area.toFixed(1) + ' km\u00b2';
+            }
         }
     }
 
-    function handleCanvasDoubleClick() {
-        if (measureMode === 'area' && measurePoints.length > 2) {
+    function handleCanvasClick(event) {
+        if (!measureMode || measureFinished) return;
+        event.preventDefaultAction = true;
+
+        const point = viewer.viewport.pointFromPixel(event.position);
+        measurePoints.push(point);
+        addMarker(point);
+
+        if (measureMode === 'distance') {
+            if (measurePoints.length === 2) {
+                clearPreview();
+                // Draw final line
+                const line = document.createElementNS("http://www.w3.org/2000/svg", "line");
+                line.setAttribute('x1', measurePoints[0].x);
+                line.setAttribute('y1', measurePoints[0].y);
+                line.setAttribute('x2', measurePoints[1].x);
+                line.setAttribute('y2', measurePoints[1].y);
+                line.setAttribute('stroke', '#c9a84c');
+                line.setAttribute('stroke-width', '0.003');
+                line.setAttribute('pointer-events', 'none');
+                measureLayer.appendChild(line);
+
+                const dist = distanceKm(measurePoints[0], measurePoints[1]);
+                const midX = (measurePoints[0].x + measurePoints[1].x) / 2;
+                const midY = (measurePoints[0].y + measurePoints[1].y) / 2;
+                showMeasureLabel(dist.toFixed(2) + ' km', { x: midX, y: midY - 0.015 });
+                finishMeasure();
+                document.getElementById('measureLive').textContent = dist.toFixed(2) + ' km';
+            } else {
+                updateMeasureBar();
+            }
+        }
+
+        if (measureMode === 'area') {
+            redrawMeasureProgress();
+            updateMeasureBar();
+        }
+    }
+
+    function handleCanvasDoubleClick(event) {
+        if (measureMode === 'area' && measurePoints.length > 2 && !measureFinished) {
+            event.preventDefaultAction = true;
+            clearPreview();
+            // Remove progress lines
+            measureLayer.querySelectorAll('.measure-progress').forEach(el => el.parentNode.removeChild(el));
+
             const poly = document.createElementNS("http://www.w3.org/2000/svg", "polygon");
             poly.setAttribute('points', measurePoints.map(p => p.x + ',' + p.y).join(' '));
-            poly.setAttribute('stroke', 'yellow');
-            poly.setAttribute('fill', 'rgba(255,255,0,0.3)');
-            poly.setAttribute('stroke-width', '0.003');
-            
-            // Vider la couche et ajouter le polygone
-            while (measureLayer.firstChild) {
-                measureLayer.removeChild(measureLayer.firstChild);
-            }
+            poly.setAttribute('stroke', '#c9a84c');
+            poly.setAttribute('fill', 'rgba(201,168,76,0.15)');
+            poly.setAttribute('stroke-width', '0.002');
+            poly.setAttribute('pointer-events', 'none');
             measureLayer.appendChild(poly);
 
             const area = polygonArea(measurePoints);
-            showLabel(area.toFixed(2) + ' km²', measurePoints[0]);
-            measureMode = null;
+            // Place label at centroid
+            const cx = measurePoints.reduce((s, p) => s + p.x, 0) / measurePoints.length;
+            const cy = measurePoints.reduce((s, p) => s + p.y, 0) / measurePoints.length;
+            showMeasureLabel(area.toFixed(2) + ' km\u00b2', { x: cx, y: cy });
+            finishMeasure();
+            document.getElementById('measureLive').textContent = area.toFixed(2) + ' km\u00b2';
         }
     }
 
@@ -1090,8 +1723,19 @@
         }
     }
 
+    // Menu hamburger
+    function initMenu() {
+        const toggle = document.getElementById('menuToggle');
+        const panel = document.getElementById('controlsPanel');
+        toggle.addEventListener('click', function() {
+            toggle.classList.toggle('open');
+            panel.classList.toggle('open');
+        });
+    }
+
     // Initialisation
     document.addEventListener('DOMContentLoaded', function() {
+        initMenu();
         initViewer();
         initIOSFullscreen();
     });
