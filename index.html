@@ -59,6 +59,9 @@
             -webkit-backdrop-filter: blur(8px);
         }
         body.measure-bar-visible .menu-toggle { top: 50px; }
+        body.measure-bar-visible .nav-controls { top: 50px; }
+        body.measure-bar-visible .info-panel { top: 50px; }
+        body.info-panel-visible .nav-controls { right: 344px; }
         .menu-toggle:hover { background: var(--btn-hover); }
         .menu-toggle span {
             display: block;
@@ -423,7 +426,7 @@
             top: 12px;
             right: 12px;
             z-index: 1005;
-            transition: top 0.2s;
+            transition: top 0.2s, right 0.2s;
             display: flex;
             flex-direction: column;
             gap: 2px;
@@ -548,6 +551,15 @@
                 padding-right: env(safe-area-inset-right);
             }
             body.ios-fullscreen { padding: 0; }
+        }
+
+        @media (max-width: 500px) {
+            .info-panel {
+                width: calc(100vw - 64px);
+                left: 52px;
+                right: auto;
+            }
+            body.info-panel-visible .nav-controls { right: 12px; }
         }
     </style>
 </head>
@@ -815,6 +827,7 @@
         // Fermeture du panneau d'info
         document.getElementById('closeInfoPanel').addEventListener('click', () => {
             document.getElementById('infoPanel').style.display = 'none';
+            document.body.classList.remove('info-panel-visible');
         });
 
         // Recherche
@@ -1160,6 +1173,7 @@
         
         document.getElementById('cityInfo').innerHTML = infoContent;
         document.getElementById('infoPanel').style.display = 'block';
+        document.body.classList.add('info-panel-visible');
     }
 
     // Gestion de la visibilité
