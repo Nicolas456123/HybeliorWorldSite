@@ -876,8 +876,10 @@
         // Contrôles de grille
         initGridControls();
 
-        // Événements de zoom
+        // Événements de zoom et resize
         viewer.addHandler('zoom', updateTextVisibility);
+        viewer.addHandler('resize', updateTextVisibility);
+        window.addEventListener('orientationchange', () => setTimeout(updateTextVisibility, 300));
         viewer.addHandler('canvas-click', handleCanvasClick);
         viewer.addHandler('canvas-double-click', handleCanvasDoubleClick);
 
@@ -1052,6 +1054,7 @@
             .then(text => {
                 const data = parseCSV(text);
                 data.forEach(item => processCSVItem(item, config));
+                updateTextVisibility();
             })
             .catch(err => console.error('CSV load error for', config.path, err));
     }
@@ -1074,8 +1077,8 @@
         elementStorage[config.storage].push({
             name: name,
             coord: convertedCoord,
-            text: elements.text,
-            rect: elements.rect,
+            texts: elements.texts,
+            rects: elements.rects,
             zoomRange: config.zoomRange
         });
 
@@ -1087,7 +1090,8 @@
     function createTextAndRect(name, coord, config, item) {
         const fontSize = parseFloat(config.fontSize);
         const strokeWidth = fontSize * 0.06;
-        const elements = [];
+        const allTexts = [];
+        const allRects = [];
 
         // Déterminer les positions selon l'état du wrapping
         const positions = wrappingEnabled ? [
@@ -1141,15 +1145,13 @@
                 }
             });
 
-            // Stocker tous les éléments
+            allTexts.push(textElement);
+            allRects.push(rectElement);
             allTextElements.push(textElement);
             allRectElements.push(rectElement);
-
-            elements.push({ text: textElement, rect: rectElement });
         });
 
-        // Retourner seulement le premier élément pour la compatibilité
-        return elements[0];
+        return { texts: allTexts, rects: allRects };
     }
 
     function showInfoPanel(name, item) {
@@ -1185,13 +1187,23 @@
         }
 
         const zoomLevel = viewer.viewport.getZoom();
+        const viewportWidth = viewer.container.clientWidth;
+        // On mobile portrait (< 600px), small text appears at zoom levels where
+        // it's too tiny to read. Scale up thresholds progressively for smaller text.
+        // Continents (minZoom=1) stay unscaled, higher thresholds scale more.
+        const mobileFactor = (viewportWidth < 600) ? (600 / viewportWidth) : 1;
 
         Object.values(elementStorage).forEach(elements => {
             elements.forEach(element => {
                 const [minZoom, maxZoom] = element.zoomRange;
-                const display = (zoomLevel >= minZoom && zoomLevel < maxZoom) ? 'block' : 'none';
-                element.text.style.display = display;
-                element.rect.style.display = display;
+                // Progressive scaling: no effect at minZoom=1, full effect at minZoom>=4
+                const t = Math.min(1, Math.max(0, (minZoom - 1) / 3));
+                const scale = 1 + (mobileFactor - 1) * t;
+                const scaledMin = minZoom * scale;
+                const scaledMax = maxZoom * scale;
+                const display = (zoomLevel >= scaledMin && zoomLevel < scaledMax) ? 'block' : 'none';
+                element.texts.forEach(el => el.style.display = display);
+                element.rects.forEach(el => el.style.display = display);
             });
         });
     }
