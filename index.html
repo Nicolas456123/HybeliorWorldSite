@@ -878,6 +878,7 @@
 
         // Événements de zoom et resize
         viewer.addHandler('zoom', updateTextVisibility);
+        viewer.addHandler('zoom', updateMeasureScaling);
         viewer.addHandler('resize', updateTextVisibility);
         window.addEventListener('orientationchange', () => setTimeout(updateTextVisibility, 300));
         viewer.addHandler('canvas-click', handleCanvasClick);
@@ -1188,10 +1189,10 @@
 
         const zoomLevel = viewer.viewport.getZoom();
         const viewportWidth = viewer.container.clientWidth;
-        // On mobile portrait (< 600px), small text appears at zoom levels where
+        // On mobile portrait (< 768px), small text appears at zoom levels where
         // it's too tiny to read. Scale up thresholds progressively for smaller text.
         // Continents (minZoom=1) stay unscaled, higher thresholds scale more.
-        const mobileFactor = (viewportWidth < 600) ? (600 / viewportWidth) : 1;
+        const mobileFactor = (viewportWidth < 768) ? (768 / viewportWidth) : 1;
 
         Object.values(elementStorage).forEach(elements => {
             elements.forEach(element => {
@@ -1368,9 +1369,16 @@
     let previewPoly = null;
     let measureFinished = false;
     const measureMarkers = [];
+    const measureTrackers = [];
+    let draggingMarkerIndex = -1;
+
+    // Zoom-adaptive sizing for measurement elements
+    function mScale() {
+        const zoom = viewer.viewport.getZoom();
+        return 1 / zoom;
+    }
 
     function startMeasure(mode) {
-        // Si déjà en mode mesure, annuler d'abord
         if (measureMode) cancelMeasure();
         measureMode = mode;
         measurePoints = [];
@@ -1378,7 +1386,6 @@
         clearPreview();
         document.body.classList.add('measuring');
         updateMeasureBar();
-        // Fermer le menu
         document.getElementById('menuToggle').classList.remove('open');
         document.getElementById('controlsPanel').classList.remove('open');
     }
@@ -1399,6 +1406,8 @@
         clearPreview();
         document.body.classList.remove('measuring');
         updateMeasureBar();
+        // Enable dragging on markers
+        enableMarkerDrag();
     }
 
     function clearAllMeasures() {
@@ -1415,10 +1424,10 @@
     function undoMeasurePoint() {
         if (measurePoints.length === 0) return;
         measurePoints.pop();
-        // Supprimer le dernier marqueur
         const m = measureMarkers.pop();
         if (m && m.parentNode) m.parentNode.removeChild(m);
-        // Redessiner les lignes intermédiaires
+        const t = measureTrackers.pop();
+        if (t) t.destroy();
         redrawMeasureProgress();
         updateMeasureBar();
         if (measurePoints.length === 0) {
@@ -1442,29 +1451,131 @@
     function clearMarkers() {
         measureMarkers.forEach(m => { if (m.parentNode) m.parentNode.removeChild(m); });
         measureMarkers.length = 0;
+        measureTrackers.forEach(t => t.destroy());
+        measureTrackers.length = 0;
     }
 
-    function addMarker(point) {
+    function addMarker(point, index) {
+        const s = mScale();
         const circle = document.createElementNS("http://www.w3.org/2000/svg", "circle");
         circle.setAttribute("cx", point.x);
         circle.setAttribute("cy", point.y);
-        circle.setAttribute("r", "0.004");
-        circle.setAttribute("fill", "var(--accent, #c9a84c)");
+        circle.setAttribute("r", 0.004 * s);
+        circle.setAttribute("fill", "#c9a84c");
         circle.setAttribute("stroke", "rgba(0,0,0,0.6)");
-        circle.setAttribute("stroke-width", "0.001");
-        circle.setAttribute("pointer-events", "none");
+        circle.setAttribute("stroke-width", 0.001 * s);
+        circle.setAttribute("pointer-events", "all");
+        circle.setAttribute("cursor", "grab");
+        circle.dataset.index = index;
         measureLayer.appendChild(circle);
         measureMarkers.push(circle);
+
+        // Make marker draggable via OSD MouseTracker
+        const tracker = new OpenSeadragon.MouseTracker({
+            element: circle,
+            dragHandler: function(e) {
+                if (!measureFinished) return;
+                e.preventDefaultAction = true;
+                const newPt = viewer.viewport.pointFromPixel(e.position);
+                const idx = parseInt(circle.dataset.index);
+                measurePoints[idx] = newPt;
+                circle.setAttribute("cx", newPt.x);
+                circle.setAttribute("cy", newPt.y);
+                rebuildMeasureResult();
+            },
+            pressHandler: function(e) {
+                if (!measureFinished) return;
+                e.preventDefaultAction = true;
+                circle.setAttribute("cursor", "grabbing");
+            },
+            releaseHandler: function(e) {
+                circle.setAttribute("cursor", "grab");
+            }
+        });
+        measureTrackers.push(tracker);
+    }
+
+    function enableMarkerDrag() {
+        // Markers are already draggable via their trackers, just ensure pointer-events
+        measureMarkers.forEach(m => m.setAttribute("pointer-events", "all"));
+    }
+
+    function rebuildMeasureResult() {
+        // Clear everything except markers
+        const markers = [...measureMarkers];
+        const children = [...measureLayer.children];
+        children.forEach(child => {
+            if (!markers.includes(child)) {
+                measureLayer.removeChild(child);
+            }
+        });
+        // Re-insert markers at the end (on top)
+        markers.forEach(m => measureLayer.appendChild(m));
+
+        const s = mScale();
+
+        if (measureMode === 'distance' && measurePoints.length === 2) {
+            const line = document.createElementNS("http://www.w3.org/2000/svg", "line");
+            line.setAttribute('x1', measurePoints[0].x);
+            line.setAttribute('y1', measurePoints[0].y);
+            line.setAttribute('x2', measurePoints[1].x);
+            line.setAttribute('y2', measurePoints[1].y);
+            line.setAttribute('stroke', '#c9a84c');
+            line.setAttribute('stroke-width', 0.003 * s);
+            line.setAttribute('pointer-events', 'none');
+            measureLayer.insertBefore(line, measureLayer.firstChild);
+
+            const dist = distanceKm(measurePoints[0], measurePoints[1]);
+            const midX = (measurePoints[0].x + measurePoints[1].x) / 2;
+            const midY = (measurePoints[0].y + measurePoints[1].y) / 2;
+            showMeasureLabel(dist.toFixed(2) + ' km', { x: midX, y: midY - 0.015 * s });
+            document.getElementById('measureLive').textContent = dist.toFixed(2) + ' km';
+        }
+
+        if (measureMode === 'area' && measurePoints.length > 2) {
+            const poly = document.createElementNS("http://www.w3.org/2000/svg", "polygon");
+            poly.setAttribute('points', measurePoints.map(p => p.x + ',' + p.y).join(' '));
+            poly.setAttribute('stroke', '#c9a84c');
+            poly.setAttribute('fill', 'rgba(201,168,76,0.15)');
+            poly.setAttribute('stroke-width', 0.002 * s);
+            poly.setAttribute('pointer-events', 'none');
+            measureLayer.insertBefore(poly, measureLayer.firstChild);
+
+            const area = polygonArea(measurePoints);
+            const cx = measurePoints.reduce((s, p) => s + p.x, 0) / measurePoints.length;
+            const cy = measurePoints.reduce((s, p) => s + p.y, 0) / measurePoints.length;
+            showMeasureLabel(area.toFixed(2) + ' km²', { x: cx, y: cy });
+            document.getElementById('measureLive').textContent = area.toFixed(2) + ' km²';
+        }
+    }
+
+    function updateMeasureScaling() {
+        if (!measureMode && !measureFinished) return;
+        const s = mScale();
+        // Update marker sizes
+        measureMarkers.forEach(m => {
+            m.setAttribute("r", 0.004 * s);
+            m.setAttribute("stroke-width", 0.001 * s);
+        });
+        // If finished, rebuild to rescale lines and labels
+        if (measureFinished) {
+            rebuildMeasureResult();
+        } else {
+            // Update progress lines
+            const progressLines = measureLayer.querySelectorAll('.measure-progress');
+            progressLines.forEach(line => {
+                line.setAttribute('stroke-width', 0.002 * s);
+                line.setAttribute('stroke-dasharray', (0.006 * s) + ',' + (0.004 * s));
+            });
+        }
     }
 
     function redrawMeasureProgress() {
-        // Remove previous progress lines (not markers, not final result)
         const toRemove = measureLayer.querySelectorAll('.measure-progress');
         toRemove.forEach(el => el.parentNode.removeChild(el));
 
-        if (measureMode === 'distance' && measurePoints.length === 1) {
-            // Nothing to draw yet
-        }
+        const s = mScale();
+
         if (measureMode === 'area' && measurePoints.length >= 2) {
             for (let i = 0; i < measurePoints.length - 1; i++) {
                 const seg = document.createElementNS("http://www.w3.org/2000/svg", "line");
@@ -1474,8 +1585,8 @@
                 seg.setAttribute('x2', measurePoints[i+1].x);
                 seg.setAttribute('y2', measurePoints[i+1].y);
                 seg.setAttribute('stroke', '#c9a84c');
-                seg.setAttribute('stroke-width', '0.002');
-                seg.setAttribute('stroke-dasharray', '0.006,0.004');
+                seg.setAttribute('stroke-width', 0.002 * s);
+                seg.setAttribute('stroke-dasharray', (0.006 * s) + ',' + (0.004 * s));
                 seg.setAttribute('pointer-events', 'none');
                 measureLayer.appendChild(seg);
             }
@@ -1551,26 +1662,26 @@
     }
 
     function showMeasureLabel(text, coord) {
+        const s = mScale();
         const bg = document.createElementNS("http://www.w3.org/2000/svg", "rect");
         const label = document.createElementNS("http://www.w3.org/2000/svg", "text");
         label.setAttribute("x", coord.x);
         label.setAttribute("y", coord.y);
         label.setAttribute("fill", "#1c1814");
-        label.setAttribute("font-size", "0.012");
+        label.setAttribute("font-size", 0.012 * s);
         label.setAttribute("font-family", "Segoe UI, system-ui, sans-serif");
         label.setAttribute("font-weight", "600");
         label.setAttribute("text-anchor", "middle");
         label.setAttribute("pointer-events", "none");
         label.textContent = text;
 
-        // Background pill
-        const padding = 0.004;
-        const textW = text.length * 0.006;
+        const padding = 0.004 * s;
+        const textW = text.length * 0.006 * s;
         bg.setAttribute("x", coord.x - textW / 2 - padding);
-        bg.setAttribute("y", coord.y - 0.011 - padding / 2);
+        bg.setAttribute("y", coord.y - 0.011 * s - padding / 2);
         bg.setAttribute("width", textW + padding * 2);
-        bg.setAttribute("height", 0.016);
-        bg.setAttribute("rx", "0.004");
+        bg.setAttribute("height", 0.016 * s);
+        bg.setAttribute("rx", 0.004 * s);
         bg.setAttribute("fill", "#c9a84c");
         bg.setAttribute("pointer-events", "none");
 
@@ -1584,37 +1695,35 @@
 
         const point = viewer.viewport.pointFromPixel(event.position);
         const last = measurePoints[measurePoints.length - 1];
+        const s = mScale();
 
         if (measureMode === 'distance') {
-            // Preview line
             if (!previewLine) {
                 previewLine = document.createElementNS("http://www.w3.org/2000/svg", "line");
                 previewLine.setAttribute('stroke', '#c9a84c');
-                previewLine.setAttribute('stroke-width', '0.003');
-                previewLine.setAttribute('stroke-dasharray', '0.008,0.005');
                 previewLine.setAttribute('pointer-events', 'none');
                 measureLayer.appendChild(previewLine);
             }
+            previewLine.setAttribute('stroke-width', 0.003 * s);
+            previewLine.setAttribute('stroke-dasharray', (0.008 * s) + ',' + (0.005 * s));
             previewLine.setAttribute('x1', last.x);
             previewLine.setAttribute('y1', last.y);
             previewLine.setAttribute('x2', point.x);
             previewLine.setAttribute('y2', point.y);
 
-            // Live distance
             const dist = distanceKm(last, point);
             document.getElementById('measureLive').textContent = dist.toFixed(1) + ' km';
         }
 
         if (measureMode === 'area') {
-            // Preview closing line from last point to cursor, and cursor to first
             if (!previewLine) {
                 previewLine = document.createElementNS("http://www.w3.org/2000/svg", "line");
                 previewLine.setAttribute('stroke', '#c9a84c');
-                previewLine.setAttribute('stroke-width', '0.002');
-                previewLine.setAttribute('stroke-dasharray', '0.006,0.004');
                 previewLine.setAttribute('pointer-events', 'none');
                 measureLayer.appendChild(previewLine);
             }
+            previewLine.setAttribute('stroke-width', 0.002 * s);
+            previewLine.setAttribute('stroke-dasharray', (0.006 * s) + ',' + (0.004 * s));
             previewLine.setAttribute('x1', last.x);
             previewLine.setAttribute('y1', last.y);
             previewLine.setAttribute('x2', point.x);
@@ -1624,11 +1733,11 @@
                 if (!previewPoly) {
                     previewPoly = document.createElementNS("http://www.w3.org/2000/svg", "line");
                     previewPoly.setAttribute('stroke', 'rgba(201,168,76,0.4)');
-                    previewPoly.setAttribute('stroke-width', '0.002');
-                    previewPoly.setAttribute('stroke-dasharray', '0.006,0.004');
                     previewPoly.setAttribute('pointer-events', 'none');
                     measureLayer.appendChild(previewPoly);
                 }
+                previewPoly.setAttribute('stroke-width', 0.002 * s);
+                previewPoly.setAttribute('stroke-dasharray', (0.006 * s) + ',' + (0.004 * s));
                 previewPoly.setAttribute('x1', point.x);
                 previewPoly.setAttribute('y1', point.y);
                 previewPoly.setAttribute('x2', measurePoints[0].x);
@@ -1650,26 +1759,26 @@
 
         const point = viewer.viewport.pointFromPixel(event.position);
         measurePoints.push(point);
-        addMarker(point);
+        addMarker(point, measurePoints.length - 1);
+        const s = mScale();
 
         if (measureMode === 'distance') {
             if (measurePoints.length === 2) {
                 clearPreview();
-                // Draw final line
                 const line = document.createElementNS("http://www.w3.org/2000/svg", "line");
                 line.setAttribute('x1', measurePoints[0].x);
                 line.setAttribute('y1', measurePoints[0].y);
                 line.setAttribute('x2', measurePoints[1].x);
                 line.setAttribute('y2', measurePoints[1].y);
                 line.setAttribute('stroke', '#c9a84c');
-                line.setAttribute('stroke-width', '0.003');
+                line.setAttribute('stroke-width', 0.003 * s);
                 line.setAttribute('pointer-events', 'none');
                 measureLayer.appendChild(line);
 
                 const dist = distanceKm(measurePoints[0], measurePoints[1]);
                 const midX = (measurePoints[0].x + measurePoints[1].x) / 2;
                 const midY = (measurePoints[0].y + measurePoints[1].y) / 2;
-                showMeasureLabel(dist.toFixed(2) + ' km', { x: midX, y: midY - 0.015 });
+                showMeasureLabel(dist.toFixed(2) + ' km', { x: midX, y: midY - 0.015 * s });
                 finishMeasure();
                 document.getElementById('measureLive').textContent = dist.toFixed(2) + ' km';
             } else {
@@ -1687,14 +1796,14 @@
         if (measureMode === 'area' && measurePoints.length > 2 && !measureFinished) {
             event.preventDefaultAction = true;
             clearPreview();
-            // Remove progress lines
             measureLayer.querySelectorAll('.measure-progress').forEach(el => el.parentNode.removeChild(el));
 
+            const s = mScale();
             const poly = document.createElementNS("http://www.w3.org/2000/svg", "polygon");
             poly.setAttribute('points', measurePoints.map(p => p.x + ',' + p.y).join(' '));
             poly.setAttribute('stroke', '#c9a84c');
             poly.setAttribute('fill', 'rgba(201,168,76,0.15)');
-            poly.setAttribute('stroke-width', '0.002');
+            poly.setAttribute('stroke-width', 0.002 * s);
             poly.setAttribute('pointer-events', 'none');
             measureLayer.appendChild(poly);
 
