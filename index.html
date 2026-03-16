@@ -826,7 +826,7 @@
     const CONFIG = {
         worldWidthKm: 1000,
         csvFiles: [
-            { path: "./Data/DT_Continents.csv", fontSize: "0.03", storage: "continentsElements", xOffset: 0.03, yOffset: 0.02, zoomRange: [1, 2] },
+            { path: "./Data/DT_Continents.csv", fontSize: "0.03", storage: "continentsElements", xOffset: 0.03, yOffset: 0.02, zoomRange: [0, 2] },
             { path: "./Data/DT_Pays.csv", fontSize: "0.01", storage: "paysElements", xOffset: 0.015, yOffset: 0.01, zoomRange: [2, 4] },
             { path: "./Data/DT_Region.csv", fontSize: "0.004", storage: "regionElements", xOffset: 0.005, yOffset: 0.002, zoomRange: [4, 10] },
             { path: "./Data/DT_Capitales.csv", fontSize: "0.0015", storage: "capitalesElements", xOffset: 0, yOffset: 0, zoomRange: [10, Infinity] },
@@ -1257,7 +1257,8 @@
             coord: convertedCoord,
             texts: elements.texts,
             rects: elements.rects,
-            zoomRange: config.zoomRange
+            zoomRange: config.zoomRange,
+            fontSize: parseFloat(config.fontSize)
         });
 
         allNames.push(name);
@@ -1315,11 +1316,14 @@
             svgOverlay.node().appendChild(textElement);
 
             // Gestionnaire de clic
+            const clickFontSize = parseFloat(config.fontSize);
             const tracker = new OpenSeadragon.MouseTracker({
                 element: rectElement,
                 clickHandler: function(event) {
                     event.preventDefaultAction = true;
                     showInfoPanel(name, item);
+                    const pt = new OpenSeadragon.Point(coord.x, coord.y);
+                    panToWithPanelOffset(pt, getTargetZoom(clickFontSize));
                 }
             });
 
@@ -1544,6 +1548,40 @@
         }
     }
 
+    // Zoom cible pour que le texte ait toujours la même taille visuelle
+    // Référence: pays (fontSize=0.01) à zoom 3 sur écran 1280px → constante = 0.03
+    const VISUAL_SIZE_REF = 0.03;
+    const REF_WIDTH = 1280;
+    function getTargetZoom(fontSize) {
+        // Zoom OSD ajusté à la largeur courante
+        const visualZoom = VISUAL_SIZE_REF / fontSize;
+        return visualZoom * REF_WIDTH / viewer.container.clientWidth;
+    }
+    // Convertir zoom OSD → zoom visuel (indépendant de la largeur)
+    function toVisualZoom(osdZoom) {
+        return osdZoom * viewer.container.clientWidth / REF_WIDTH;
+    }
+
+    // Pan so that the point is centered in the visible area left of the info panel
+    function panToWithPanelOffset(point, targetZoom) {
+        const panel = document.querySelector('.info-panel');
+        if (!panel || panel.style.display === 'none') {
+            viewer.viewport.panTo(point);
+            return;
+        }
+        const panelWidth = 432; // 420px panel + 12px marge
+        const shiftPx = panelWidth / 2;
+        const zoom = targetZoom || viewer.viewport.getZoom();
+        const containerWidth = viewer.container.clientWidth;
+        // Calcul direct: pixels → viewport coords au zoom cible
+        const shiftViewport = shiftPx / (zoom * containerWidth);
+        const adjusted = new OpenSeadragon.Point(point.x + shiftViewport, point.y);
+        if (targetZoom) {
+            viewer.viewport.zoomTo(targetZoom);
+        }
+        viewer.viewport.panTo(adjusted);
+    }
+
     function navigateToPlace(name) {
         let foundElement = null;
         let foundItem = null;
@@ -1562,17 +1600,13 @@
             if (foundElement) break;
         }
 
+        showInfoPanel(name, { '': name });
+
         if (foundElement) {
             const point = new OpenSeadragon.Point(foundElement.coord.x, foundElement.coord.y);
-            viewer.viewport.panTo(point);
-            const zoomLevels = [1.9, 3.9, 9.9, 13.9, 15.9, 17.9, 19.9];
-            viewer.viewport.zoomTo(zoomLevels[foundIndex] || 4);
+            const targetZoom = getTargetZoom(foundElement.fontSize);
+            panToWithPanelOffset(point, targetZoom);
         }
-
-        // Find the CSV item to pass to showInfoPanel
-        // Search through elementStorage to find matching data
-        // We need the original CSV item — reconstruct minimal one if needed
-        showInfoPanel(name, { '': name });
     }
 
     function showInfoPanel(name, item) {
@@ -1668,22 +1702,13 @@
             return;
         }
 
-        const zoomLevel = viewer.viewport.getZoom();
-        const viewportWidth = viewer.container.clientWidth;
-        // On mobile portrait (< 768px), small text appears at zoom levels where
-        // it's too tiny to read. Scale up thresholds progressively for smaller text.
-        // Continents (minZoom=1) stay unscaled, higher thresholds scale more.
-        const mobileFactor = (viewportWidth < 768) ? (768 / viewportWidth) : 1;
+        // Utiliser le zoom visuel normalisé (indépendant de la largeur fenêtre)
+        const visualZoom = toVisualZoom(viewer.viewport.getZoom());
 
         Object.values(elementStorage).forEach(elements => {
             elements.forEach(element => {
                 const [minZoom, maxZoom] = element.zoomRange;
-                // Progressive scaling: no effect at minZoom=1, full effect at minZoom>=4
-                const t = Math.min(1, Math.max(0, (minZoom - 1) / 3));
-                const scale = 1 + (mobileFactor - 1) * t;
-                const scaledMin = minZoom * scale;
-                const scaledMax = maxZoom * scale;
-                const display = (zoomLevel >= scaledMin && zoomLevel < scaledMax) ? 'block' : 'none';
+                const display = (visualZoom >= minZoom && visualZoom < maxZoom) ? 'block' : 'none';
                 element.texts.forEach(el => el.style.display = display);
                 element.rects.forEach(el => el.style.display = display);
             });
@@ -1732,11 +1757,11 @@
                 if (element.name && element.name.toLowerCase() === lowerQuery) {
                     found = true;
                     const point = new OpenSeadragon.Point(element.coord.x, element.coord.y);
-                    viewer.viewport.panTo(point);
-                    
-                    // Zoom adaptatif selon le type
-                    const zoomLevels = [1.9, 3.9, 9.9, 13.9, 15.9, 17.9, 19.9];
-                    viewer.viewport.zoomTo(zoomLevels[index] || 4);
+
+                    showInfoPanel(element.name, { '': element.name });
+
+                    const targetZoom = getTargetZoom(element.fontSize);
+                    panToWithPanelOffset(point, targetZoom);
                 }
             });
         });
