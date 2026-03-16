@@ -1081,10 +1081,12 @@
         // Contrôles de grille
         initGridControls();
 
-        // Événements de zoom et resize
-        viewer.addHandler('zoom', updateTextVisibility);
+        // Événements de zoom, pan et resize
+        viewer.addHandler('zoom', throttledUpdateVisibility);
         viewer.addHandler('zoom', updateMeasureScaling);
+        viewer.addHandler('pan', throttledUpdateVisibility);
         viewer.addHandler('resize', updateTextVisibility);
+        viewer.addHandler('animation-finish', updateTextVisibility);
         window.addEventListener('orientationchange', () => setTimeout(updateTextVisibility, 300));
         viewer.addHandler('canvas-click', handleCanvasClick);
         viewer.addHandler('canvas-double-click', handleCanvasDoubleClick);
@@ -1761,6 +1763,15 @@
     }
 
     // Gestion de la visibilité
+    let _visibilityTimer = null;
+    function throttledUpdateVisibility() {
+        if (_visibilityTimer) return;
+        _visibilityTimer = requestAnimationFrame(() => {
+            _visibilityTimer = null;
+            updateTextVisibility();
+        });
+    }
+
     function updateTextVisibility() {
         if (!textVisibilityEnabled) {
             allTextElements.forEach(el => el.style.display = 'none');
@@ -1771,12 +1782,52 @@
         // Utiliser le zoom visuel normalisé (indépendant de la largeur fenêtre)
         const visualZoom = toVisualZoom(viewer.viewport.getZoom());
 
+        // Viewport bounds avec marge pour le culling
+        const bounds = viewer.viewport.getBounds(true);
+        const margin = 0.1; // 10% de marge
+        const vLeft = bounds.x - margin;
+        const vRight = bounds.x + bounds.width + margin;
+        const vTop = bounds.y - margin;
+        const vBottom = bounds.y + bounds.height + margin;
+
         Object.values(elementStorage).forEach(elements => {
             elements.forEach(element => {
                 const [minZoom, maxZoom] = element.zoomRange;
-                const display = (visualZoom >= minZoom && visualZoom < maxZoom) ? 'block' : 'none';
-                element.texts.forEach(el => el.style.display = display);
-                element.rects.forEach(el => el.style.display = display);
+                const inZoomRange = visualZoom >= minZoom && visualZoom < maxZoom;
+
+                if (!inZoomRange) {
+                    if (element._visible !== false) {
+                        element.texts.forEach(el => el.style.display = 'none');
+                        element.rects.forEach(el => el.style.display = 'none');
+                        element._visible = false;
+                    }
+                    return;
+                }
+
+                // Viewport culling : vérifier si l'élément est dans la vue
+                const cx = element.coord.x;
+                const cy = element.coord.y;
+                let inView = false;
+
+                if (wrappingEnabled) {
+                    // Vérifier position originale et les 8 copies wrapping
+                    for (let ox = -1; ox <= 1 && !inView; ox++) {
+                        for (let oy = -1; oy <= 1 && !inView; oy++) {
+                            if (cx + ox >= vLeft && cx + ox <= vRight && cy + oy >= vTop && cy + oy <= vBottom) {
+                                inView = true;
+                            }
+                        }
+                    }
+                } else {
+                    inView = cx >= vLeft && cx <= vRight && cy >= vTop && cy <= vBottom;
+                }
+
+                const display = inView ? 'block' : 'none';
+                if (element._visible !== inView) {
+                    element.texts.forEach(el => el.style.display = display);
+                    element.rects.forEach(el => el.style.display = display);
+                    element._visible = inView;
+                }
             });
         });
     }
