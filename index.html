@@ -775,6 +775,7 @@
             <div class="ctrl-section-title">Outils</div>
             <button id="measureDistance"><span class="icon">&#x1F4CF;</span> Distance</button>
             <button id="measureArea"><span class="icon">&#x2B1B;</span> Surface</button>
+            <button id="toggleEditor"><span class="icon">&#x270F;</span> &Eacute;diteur</button>
         </div>
 
         <!-- Grille -->
@@ -879,6 +880,11 @@
     let loreIndex = {};
     let loreCache = {};
 
+    // Editor mode
+    let editorMode = false;
+    let editorAuthenticated = false;
+    let editorTrackers = [];
+
     // Initialisation du viewer OpenSeadragon
     function initViewer() {
         // Vérifier l'état du wrapping depuis les paramètres URL
@@ -912,6 +918,9 @@
         initEventHandlers();
         loadCSVData();
         loadLoreIndex();
+
+        // Charger les overrides après un petit délai pour laisser les CSV charger
+        setTimeout(loadOverrides, 1500);
 
         // Afficher l'état du wrapping dans le bouton
         updateWrappingButton();
@@ -1034,6 +1043,7 @@
         document.getElementById('toggleWrapping').addEventListener('click', toggleWrapping);
         document.getElementById('measureDistance').addEventListener('click', () => startMeasure('distance'));
         document.getElementById('measureArea').addEventListener('click', () => startMeasure('area'));
+        document.getElementById('toggleEditor').addEventListener('click', toggleEditor);
         document.getElementById('toggleGrid').addEventListener('click', toggleGrid);
 
         // Navigation personnalisée
@@ -1272,10 +1282,14 @@
         const elements = createTextAndRect(name, convertedCoord, config, item);
         elementStorage[config.storage].push({
             name: name,
+            storage: config.storage,
             coord: convertedCoord,
             textCoord: { x: convertedCoord.x + (config.xOffset || 0), y: convertedCoord.y + (config.yOffset || 0) },
             texts: elements.texts,
             rects: elements.rects,
+            markers: elements.markers,
+            xOffset: config.xOffset || 0,
+            yOffset: config.yOffset || 0,
             zoomRange: config.zoomRange,
             fontSize: parseFloat(config.fontSize)
         });
@@ -1290,6 +1304,7 @@
         const strokeWidth = fontSize * 0.06;
         const allTexts = [];
         const allRects = [];
+        const allMarkers = [];
 
         // Déterminer les positions selon l'état du wrapping
         const positions = wrappingEnabled ? [
@@ -1342,6 +1357,7 @@
                 circle.setAttribute("pointer-events", "none");
                 svgOverlay.node().appendChild(circle);
                 allTexts.push(circle); // Suit la visibilité zoom
+                allMarkers.push(circle);
             }
 
             // Ajout des éléments au SVG
@@ -1368,7 +1384,7 @@
             allRectElements.push(rectElement);
         });
 
-        return { texts: allTexts, rects: allRects };
+        return { texts: allTexts, rects: allRects, markers: allMarkers };
     }
 
     // === Lore System ===
@@ -1930,6 +1946,210 @@
     let draggingMarkerIndex = -1;
 
     // Zoom-adaptive sizing for measurement elements
+    // === Editor Mode ===
+
+    function loadOverrides() {
+        fetch('/api/overrides')
+            .then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
+            .then(overrides => {
+                overrides.forEach(ov => {
+                    const storage = elementStorage[ov.storage];
+                    if (!storage) return;
+                    const el = storage.find(e => e.name === ov.name);
+                    if (!el) return;
+                    applyOverride(el, ov.coord_x, ov.coord_y);
+                });
+            })
+            .catch(err => console.warn('Overrides not available:', err));
+    }
+
+    function applyOverride(el, newCoordX, newCoordY) {
+        const newCoord = convertCoordinates(newCoordX, newCoordY);
+        el.coord = newCoord;
+        el.textCoord = { x: newCoord.x + el.xOffset, y: newCoord.y + el.yOffset };
+
+        const fontSize = el.fontSize;
+        const textWidth = el.name.length * fontSize * 0.6;
+        const textHeight = fontSize * 1.1;
+
+        // Repositionner tous les éléments SVG (textes, rects, markers) pour chaque offset de wrapping
+        const positions = wrappingEnabled ? [
+            {x: 0, y: 0}, {x: 1, y: 0}, {x: -1, y: 0},
+            {x: 0, y: 1}, {x: 0, y: -1}, {x: 1, y: 1},
+            {x: -1, y: 1}, {x: 1, y: -1}, {x: -1, y: -1}
+        ] : [{x: 0, y: 0}];
+
+        let textIdx = 0;
+        let rectIdx = 0;
+        let markerIdx = 0;
+
+        positions.forEach(offset => {
+            // Update markers (circles at exact coord)
+            if (el.markers && markerIdx < el.markers.length) {
+                el.markers[markerIdx].setAttribute("cx", newCoord.x + offset.x);
+                el.markers[markerIdx].setAttribute("cy", newCoord.y + offset.y);
+                markerIdx++;
+            }
+
+            // Update texts (at coord + text offset)
+            while (textIdx < el.texts.length) {
+                const t = el.texts[textIdx];
+                if (t.tagName === 'text') {
+                    t.setAttribute("x", newCoord.x + el.xOffset + offset.x);
+                    t.setAttribute("y", newCoord.y + el.yOffset + offset.y);
+                    textIdx++;
+                    break;
+                } else if (t.tagName === 'circle') {
+                    // Circle in texts array — already handled via markers
+                    textIdx++;
+                } else {
+                    textIdx++;
+                }
+            }
+
+            // Update rects
+            if (rectIdx < el.rects.length) {
+                el.rects[rectIdx].setAttribute("x", newCoord.x + el.xOffset + offset.x - textWidth / 2);
+                el.rects[rectIdx].setAttribute("y", newCoord.y + el.yOffset + offset.y - textHeight + (fontSize * 0.3));
+                rectIdx++;
+            }
+        });
+    }
+
+    function toggleEditor() {
+        if (!editorMode) {
+            if (!editorAuthenticated) {
+                const pwd = prompt('Mot de passe éditeur :');
+                if (!pwd) return;
+                // Verify password via API
+                fetch('/api/auth', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ password: pwd })
+                }).then(r => {
+                    if (r.ok) {
+                        editorAuthenticated = true;
+                        window._editorPassword = pwd;
+                        enableEditorMode();
+                    } else {
+                        alert('Mot de passe incorrect');
+                    }
+                }).catch(() => alert('Erreur de connexion au serveur'));
+                return;
+            }
+            enableEditorMode();
+        } else {
+            disableEditorMode();
+        }
+    }
+
+    function enableEditorMode() {
+        editorMode = true;
+        document.getElementById('toggleEditor').classList.add('active');
+
+        // Attach drag trackers to all marker circles
+        CONFIG.csvFiles.forEach(config => {
+            if (!config.showMarker) return;
+            const storage = elementStorage[config.storage];
+            if (!storage) return;
+
+            storage.forEach(el => {
+                if (!el.markers || el.markers.length === 0) return;
+                const mainMarker = el.markers[0]; // Primary position marker
+                mainMarker.setAttribute("pointer-events", "all");
+                mainMarker.setAttribute("cursor", "grab");
+
+                const tracker = new OpenSeadragon.MouseTracker({
+                    element: mainMarker,
+                    dragHandler: function(e) {
+                        e.preventDefaultAction = true;
+                        const newPt = viewer.viewport.pointFromPixel(e.position);
+                        // Update all SVG elements in real time
+                        el.coord = { x: newPt.x, y: newPt.y };
+                        el.textCoord = { x: newPt.x + el.xOffset, y: newPt.y + el.yOffset };
+
+                        const fontSize = el.fontSize;
+                        const textWidth = el.name.length * fontSize * 0.6;
+                        const textHeight = fontSize * 1.1;
+
+                        // Move marker
+                        mainMarker.setAttribute("cx", newPt.x);
+                        mainMarker.setAttribute("cy", newPt.y);
+
+                        // Move text and rect (first position only during drag)
+                        el.texts.forEach(t => {
+                            if (t.tagName === 'text') {
+                                t.setAttribute("x", newPt.x + el.xOffset);
+                                t.setAttribute("y", newPt.y + el.yOffset);
+                            }
+                        });
+                        el.rects.forEach(r => {
+                            if (r.tagName === 'rect') {
+                                r.setAttribute("x", newPt.x + el.xOffset - textWidth / 2);
+                                r.setAttribute("y", newPt.y + el.yOffset - textHeight + (fontSize * 0.3));
+                            }
+                        });
+                    },
+                    pressHandler: function(e) {
+                        e.preventDefaultAction = true;
+                        mainMarker.setAttribute("cursor", "grabbing");
+                        mainMarker.setAttribute("fill", "#e74c3c"); // Red during drag
+                    },
+                    releaseHandler: function(e) {
+                        mainMarker.setAttribute("cursor", "grab");
+                        mainMarker.setAttribute("fill", "#c9a84c"); // Back to gold
+                        // Auto-save: convert viewport coords back to CSV coords
+                        const csvX = el.coord.x * 1047 - 527.5;
+                        const csvY = el.coord.y * 1047 - 535;
+                        saveOverride(el.name, el.storage, csvX, csvY);
+                    }
+                });
+                editorTrackers.push(tracker);
+            });
+        });
+    }
+
+    function disableEditorMode() {
+        editorMode = false;
+        document.getElementById('toggleEditor').classList.remove('active');
+
+        // Remove all editor trackers
+        editorTrackers.forEach(t => t.destroy());
+        editorTrackers = [];
+
+        // Reset marker styles
+        CONFIG.csvFiles.forEach(config => {
+            if (!config.showMarker) return;
+            const storage = elementStorage[config.storage];
+            if (!storage) return;
+            storage.forEach(el => {
+                if (!el.markers) return;
+                el.markers.forEach(m => {
+                    m.setAttribute("pointer-events", "none");
+                    m.removeAttribute("cursor");
+                });
+            });
+        });
+    }
+
+    function saveOverride(name, storage, csvX, csvY) {
+        fetch('/api/overrides', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({
+                name: name,
+                storage: storage,
+                coord_x: csvX,
+                coord_y: csvY,
+                password: window._editorPassword
+            })
+        })
+        .then(r => { if (!r.ok) throw new Error('Save failed'); })
+        .catch(err => console.error('Override save error:', err));
+    }
+
+    // === Mesure ===
+
     function mScale() {
         const zoom = viewer.viewport.getZoom();
         return 1 / zoom;
