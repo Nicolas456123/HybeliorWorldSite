@@ -710,6 +710,17 @@
             body.ios-fullscreen { padding: 0; }
         }
 
+        /* Tablette / écran intermédiaire */
+        @media (max-width: 900px) and (min-width: 601px) {
+            .info-panel {
+                width: min(380px, 50vw);
+            }
+            body.info-panel-visible .nav-controls {
+                right: calc(min(380px, 50vw) + 24px);
+            }
+        }
+
+        /* Mobile */
         @media (max-width: 600px) {
             .info-panel {
                 width: calc(100vw - 24px);
@@ -720,7 +731,14 @@
                 max-height: 55vh;
                 border-radius: 12px 12px 0 0;
             }
-            body.info-panel-visible .nav-controls { right: 12px; }
+            .info-panel-content {
+                max-height: calc(55vh - 60px);
+            }
+            body.info-panel-visible .nav-controls {
+                right: 12px;
+                top: 12px;
+            }
+            .menu-toggle { z-index: 1007; }
         }
     </style>
 </head>
@@ -1555,7 +1573,8 @@
     function getTargetZoom(fontSize) {
         // Zoom OSD ajusté à la largeur courante
         const visualZoom = VISUAL_SIZE_REF / fontSize;
-        return visualZoom * REF_WIDTH / viewer.container.clientWidth;
+        const osdZoom = visualZoom * REF_WIDTH / viewer.container.clientWidth;
+        return Math.min(osdZoom, viewer.viewport.getMaxZoom());
     }
     // Convertir zoom OSD → zoom visuel (indépendant de la largeur)
     function toVisualZoom(osdZoom) {
@@ -1566,19 +1585,32 @@
     function panToWithPanelOffset(point, targetZoom) {
         const panel = document.querySelector('.info-panel');
         if (!panel || panel.style.display === 'none') {
+            if (targetZoom) viewer.viewport.zoomTo(targetZoom);
             viewer.viewport.panTo(point);
             return;
         }
-        const panelWidth = 432; // 420px panel + 12px marge
-        const shiftPx = panelWidth / 2;
         const zoom = targetZoom || viewer.viewport.getZoom();
         const containerWidth = viewer.container.clientWidth;
-        // Calcul direct: pixels → viewport coords au zoom cible
-        const shiftViewport = shiftPx / (zoom * containerWidth);
-        const adjusted = new OpenSeadragon.Point(point.x + shiftViewport, point.y);
-        if (targetZoom) {
-            viewer.viewport.zoomTo(targetZoom);
+        const isMobile = window.innerWidth <= 600;
+
+        let adjusted;
+        if (isMobile) {
+            // Panel en bas → décaler le point vers le haut
+            const panelHeight = window.innerHeight * 0.55;
+            const shiftPx = panelHeight / 2;
+            // OSD viewport Y : même échelle que X (basée sur image width)
+            const shiftViewport = shiftPx / (zoom * containerWidth);
+            adjusted = new OpenSeadragon.Point(point.x, point.y - shiftViewport);
+        } else {
+            // Panel à droite → décaler horizontalement
+            const panelEl = panel.getBoundingClientRect();
+            const panelPx = panelEl.width + 12;
+            const shiftPx = panelPx / 2;
+            const shiftViewport = shiftPx / (zoom * containerWidth);
+            adjusted = new OpenSeadragon.Point(point.x + shiftViewport, point.y);
         }
+
+        if (targetZoom) viewer.viewport.zoomTo(targetZoom);
         viewer.viewport.panTo(adjusted);
     }
 
