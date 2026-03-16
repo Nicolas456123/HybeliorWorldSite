@@ -9,6 +9,7 @@
     <title>Hybelior World Map</title>
     <script src="./openseadragon-bin-5.0.0/openseadragon.min.js"></script>
     <script src="./openseadragon-bin-5.0.0/openseadragon-svg-overlay.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     <style>
         @font-face {
             font-family: 'Copperplate Gothic Std';
@@ -61,7 +62,7 @@
         body.measure-bar-visible .menu-toggle { top: 50px; }
         body.measure-bar-visible .nav-controls { top: 50px; }
         body.measure-bar-visible .info-panel { top: 50px; }
-        body.info-panel-visible .nav-controls { right: 344px; }
+        body.info-panel-visible .nav-controls { right: 444px; }
         .menu-toggle:hover { background: var(--btn-hover); }
         .menu-toggle span {
             display: block;
@@ -259,7 +260,7 @@
             position: fixed;
             top: 12px;
             right: 12px;
-            width: 320px;
+            width: 420px;
             max-height: calc(100vh - 24px);
             background: var(--panel-bg);
             border: 1px solid var(--panel-border);
@@ -287,6 +288,12 @@
             color: var(--accent);
             padding-right: 24px;
         }
+        .info-panel-header .lore-subtitle {
+            font-size: 11px;
+            color: var(--text-muted);
+            margin-top: 2px;
+            font-style: italic;
+        }
         #closeInfoPanel {
             position: absolute;
             top: 10px;
@@ -303,39 +310,186 @@
         .info-panel-content {
             max-height: calc(100vh - 80px);
             overflow-y: auto;
-            padding: 12px 16px 16px;
+            padding: 14px 18px 18px;
             text-align: justify;
+            text-justify: inter-word;
+            hyphens: auto;
+            -webkit-hyphens: auto;
+            word-break: break-word;
             scrollbar-width: thin;
             scrollbar-color: var(--panel-border) transparent;
+            font-size: 13px;
+            line-height: 1.7;
+            color: var(--text);
+            letter-spacing: 0.01em;
         }
         .info-panel-content::-webkit-scrollbar { width: 4px; }
         .info-panel-content::-webkit-scrollbar-thumb { background: var(--panel-border); border-radius: 2px; }
 
-        .info-panel-content p {
-            font-size: 13px;
-            color: var(--text);
-            line-height: 1.5;
-            white-space: pre-line;
-            margin: 0 0 8px;
+        /* Lore MD content styling */
+        .info-panel-content .lore-epigraph {
+            border-left: 3px solid var(--accent);
+            padding: 10px 14px;
+            margin: 0 0 14px;
+            background: rgba(178, 148, 96, 0.06);
+            border-radius: 0 var(--radius) var(--radius) 0;
         }
+        .info-panel-content .lore-epigraph p {
+            font-size: 12.5px;
+            color: var(--text-muted);
+            line-height: 1.6;
+            margin: 0;
+            font-style: italic;
+            text-align: left;
+        }
+
+        .info-panel-content .lore-info-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 14px;
+            font-size: 12.5px;
+            line-height: 1.5;
+        }
+        .info-panel-content .lore-info-table td {
+            padding: 6px 10px;
+            border-bottom: 1px solid rgba(178, 148, 96, 0.1);
+            color: var(--text);
+            vertical-align: top;
+            text-align: left;
+        }
+        .info-panel-content .lore-info-table td:first-child {
+            color: var(--accent);
+            font-weight: 600;
+            font-size: 11.5px;
+            text-transform: uppercase;
+            letter-spacing: 0.03em;
+            white-space: nowrap;
+            width: 38%;
+            opacity: 0.9;
+        }
+
         .info-panel-content details {
-            margin-bottom: 6px;
+            margin-bottom: 5px;
             border: 1px solid rgba(178, 148, 96, 0.15);
             border-radius: var(--radius);
             overflow: hidden;
         }
         .info-panel-content summary {
             font-weight: 600;
-            font-size: 12px;
+            font-size: 13px;
             color: var(--accent);
             cursor: pointer;
-            padding: 8px 10px;
+            padding: 9px 12px;
             background: rgba(178, 148, 96, 0.08);
             transition: background 0.15s;
+            letter-spacing: 0.02em;
+            text-align: left;
         }
         .info-panel-content summary:hover { background: rgba(178, 148, 96, 0.15); }
-        .info-panel-content details[open] summary { border-bottom: 1px solid rgba(178, 148, 96, 0.15); }
-        .info-panel-content details > p { padding: 8px 10px; margin: 0; }
+        .info-panel-content details[open] summary {
+            border-bottom: 1px solid rgba(178, 148, 96, 0.15);
+            background: rgba(178, 148, 96, 0.12);
+        }
+        .info-panel-content details > .section-body { padding: 12px 14px; }
+
+        .info-panel-content p {
+            font-size: 13px;
+            color: var(--text);
+            line-height: 1.7;
+            margin: 0 0 10px;
+        }
+        .info-panel-content h3 {
+            font-family: 'Copperplate Gothic Std', 'Segoe UI', sans-serif;
+            color: var(--accent);
+            font-size: 13px;
+            margin: 16px 0 8px;
+            padding-bottom: 4px;
+            border-bottom: 1px solid rgba(178, 148, 96, 0.12);
+            text-align: left;
+        }
+        .info-panel-content h4 {
+            font-size: 12.5px;
+            font-weight: 700;
+            color: var(--text);
+            margin: 12px 0 6px;
+            text-align: left;
+        }
+        .info-panel-content ul, .info-panel-content ol {
+            padding-left: 20px;
+            margin: 6px 0 10px;
+        }
+        .info-panel-content li {
+            font-size: 12.5px;
+            color: var(--text);
+            line-height: 1.65;
+            margin-bottom: 5px;
+            text-align: justify;
+        }
+        .info-panel-content strong { color: var(--accent); font-weight: 600; }
+        .info-panel-content em { color: var(--text-muted); }
+        .info-panel-content table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 10px 0;
+            font-size: 12px;
+            line-height: 1.5;
+        }
+        .info-panel-content th {
+            text-align: left;
+            padding: 6px 8px;
+            border-bottom: 2px solid rgba(178, 148, 96, 0.25);
+            color: var(--accent);
+            font-size: 11px;
+            text-transform: uppercase;
+            letter-spacing: 0.04em;
+        }
+        .info-panel-content td {
+            padding: 5px 8px;
+            border-bottom: 1px solid rgba(178, 148, 96, 0.1);
+            color: var(--text);
+            vertical-align: top;
+        }
+        .info-panel-content hr { border: none; border-top: 1px solid rgba(178, 148, 96, 0.15); margin: 10px 0; }
+
+        /* Fallback simple view (non-lore entities) */
+        .info-panel-content .simple-desc {
+            font-size: 13px;
+            color: var(--text);
+            line-height: 1.7;
+            white-space: pre-line;
+            margin: 0 0 10px;
+        }
+        .info-panel-content details > p { padding: 10px 14px; margin: 0; }
+
+        /* Lore links */
+        .lore-link {
+            color: var(--accent);
+            cursor: pointer;
+            text-decoration: underline dotted;
+            text-decoration-color: rgba(178, 148, 96, 0.5);
+            text-underline-offset: 2px;
+            transition: color 0.15s, text-decoration-color 0.15s;
+        }
+        .lore-link:hover {
+            color: var(--accent-hover);
+            text-decoration: underline solid;
+            text-decoration-color: var(--accent-hover);
+        }
+        .lore-parent-link {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            margin-bottom: 12px;
+            padding: 8px 12px;
+            font-size: 12.5px;
+            color: var(--accent);
+            cursor: pointer;
+            background: rgba(178, 148, 96, 0.08);
+            border: 1px solid rgba(178, 148, 96, 0.2);
+            border-radius: var(--radius);
+            transition: background 0.15s;
+        }
+        .lore-parent-link:hover { background: rgba(178, 148, 96, 0.18); }
 
         /* ===== Suggestions ===== */
         .suggestions-list {
@@ -553,11 +707,15 @@
             body.ios-fullscreen { padding: 0; }
         }
 
-        @media (max-width: 500px) {
+        @media (max-width: 600px) {
             .info-panel {
-                width: calc(100vw - 64px);
-                left: 52px;
-                right: auto;
+                width: calc(100vw - 24px);
+                left: 12px;
+                right: 12px;
+                top: auto;
+                bottom: 0;
+                max-height: 55vh;
+                border-radius: 12px 12px 0 0;
             }
             body.info-panel-visible .nav-controls { right: 12px; }
         }
@@ -645,6 +803,7 @@
     <div id="infoPanel" class="info-panel">
         <div class="info-panel-header">
             <h2 id="cityName">Nom de la ville</h2>
+            <div class="lore-subtitle" id="loreSubtitle"></div>
             <span id="closeInfoPanel">&times;</span>
         </div>
         <div class="info-panel-content">
@@ -695,6 +854,10 @@
     let gridVisible = false;
     let wrappingEnabled = true;
 
+    // Lore system
+    let loreIndex = {};
+    let loreCache = {};
+
     // Initialisation du viewer OpenSeadragon
     function initViewer() {
         // Vérifier l'état du wrapping depuis les paramètres URL
@@ -727,6 +890,7 @@
         initLayers();
         initEventHandlers();
         loadCSVData();
+        loadLoreIndex();
 
         // Afficher l'état du wrapping dans le bouton
         updateWrappingButton();
@@ -828,6 +992,16 @@
         document.getElementById('closeInfoPanel').addEventListener('click', () => {
             document.getElementById('infoPanel').style.display = 'none';
             document.body.classList.remove('info-panel-visible');
+        });
+
+        // Lore links — event delegation
+        document.querySelector('.info-panel-content').addEventListener('click', (e) => {
+            const link = e.target.closest('.lore-link, .lore-parent-link');
+            if (link) {
+                e.preventDefault();
+                const placeName = link.getAttribute('data-name');
+                if (placeName) navigateToPlace(placeName);
+            }
         });
 
         // Recherche
@@ -1155,28 +1329,352 @@
         return { texts: allTexts, rects: allRects };
     }
 
+    // === Lore System ===
+
+    function loadLoreIndex() {
+        fetch('./Lore/lore-index.json')
+            .then(r => r.json())
+            .then(data => {
+                loreIndex = data;
+                // Build city→country index after lore index is loaded
+                buildCityIndex();
+            })
+            .catch(err => console.warn('Lore index not found:', err));
+    }
+
+    function fetchLore(name) {
+        if (loreCache[name]) return Promise.resolve(loreCache[name]);
+        const path = loreIndex[name];
+        if (!path) return Promise.resolve(null);
+        return fetch('./Lore/' + path)
+            .then(r => { if (!r.ok) throw new Error(r.status); return r.text(); })
+            .then(md => { loreCache[name] = md; return md; })
+            .catch(() => null);
+    }
+
+    function parseLoreMD(md) {
+        // Extract title subtitle (after # Title — Subtitle)
+        const titleMatch = md.match(/^#\s+(.+?)(?:\s*—\s*(.+))?$/m);
+        const subtitle = titleMatch ? (titleMatch[2] || '') : '';
+
+        // Extract epigraph (blockquote at the top)
+        const epigraphMatch = md.match(/^(?:#[^\n]+\n+)((?:>\s*[^\n]*\n?)+)/m);
+        let epigraph = '';
+        if (epigraphMatch) {
+            epigraph = epigraphMatch[1].replace(/^>\s?/gm, '').trim();
+        }
+
+        // Extract info table (first table after "Informations générales")
+        const infoTableMatch = md.match(/##\s*Informations générales\s*\n+((?:\|[^\n]+\n?)+)/);
+        let infoTable = [];
+        if (infoTableMatch) {
+            const rows = infoTableMatch[1].trim().split('\n');
+            rows.forEach(row => {
+                if (row.match(/^\|[\s-|]+\|$/)) return; // skip separator
+                const cells = row.split('|').map(c => c.trim()).filter(c => c);
+                if (cells.length >= 2 && cells[0].startsWith('**')) {
+                    const key = cells[0].replace(/\*\*/g, '');
+                    const val = cells[1].replace(/\*\*/g, '');
+                    if (key) infoTable.push({ key, val });
+                }
+            });
+        }
+
+        // Split into major sections (## headings)
+        const sections = [];
+        const sectionRegex = /^##\s+(.+)$/gm;
+        const sectionStarts = [];
+        let match;
+        while ((match = sectionRegex.exec(md)) !== null) {
+            sectionStarts.push({ title: match[1], index: match.index, end: match.index + match[0].length });
+        }
+
+        for (let i = 0; i < sectionStarts.length; i++) {
+            const s = sectionStarts[i];
+            const nextIndex = (i + 1 < sectionStarts.length) ? sectionStarts[i + 1].index : md.length;
+            const body = md.substring(s.end, nextIndex).trim();
+            // Skip "Informations générales" since we handle it as table
+            if (s.title.match(/Informations\s+générales/i)) continue;
+            if (body) sections.push({ title: s.title, body });
+        }
+
+        return { subtitle, epigraph, infoTable, sections };
+    }
+
+    function renderLoreHTML(parsed) {
+        let html = '';
+
+        // Epigraph
+        if (parsed.epigraph) {
+            html += `<div class="lore-epigraph">${renderMD(parsed.epigraph)}</div>`;
+        }
+
+        // Info table
+        if (parsed.infoTable.length > 0) {
+            html += '<table class="lore-info-table">';
+            parsed.infoTable.forEach(row => {
+                html += `<tr><td>${escHTML(row.key)}</td><td>${escHTML(row.val)}</td></tr>`;
+            });
+            html += '</table>';
+        }
+
+        // Sections as collapsible details
+        parsed.sections.forEach(section => {
+            html += `<details><summary>${escHTML(section.title)}</summary>`;
+            html += `<div class="section-body">${renderMD(section.body)}</div>`;
+            html += `</details>`;
+        });
+
+        return html;
+    }
+
+    function renderMD(text) {
+        if (typeof marked !== 'undefined' && marked.parse) {
+            return marked.parse(text, { breaks: true });
+        }
+        // Fallback: basic rendering
+        return text.replace(/\n/g, '<br>');
+    }
+
+    function escHTML(s) {
+        const d = document.createElement('div');
+        d.textContent = s;
+        return d.innerHTML;
+    }
+
+    // === City-to-Country Index & Cross-linking ===
+
+    let cityToCountry = {};
+    let placeNameSet = null;
+
+    function buildCityIndex() {
+        const entries = Object.entries(loreIndex);
+        const promises = entries.map(([countryName, path]) => {
+            return fetchLore(countryName).then(md => {
+                if (!md) return;
+                // Extract city names from "### CityName — Type" patterns
+                const cityPattern = /^###\s+([^\n—–-]+?)(?:\s*[—–-]\s*.+)?$/gm;
+                let m;
+                while ((m = cityPattern.exec(md)) !== null) {
+                    const city = m[1].trim();
+                    if (city && city !== countryName) {
+                        cityToCountry[city] = countryName;
+                    }
+                }
+            });
+        });
+        Promise.all(promises).then(() => {
+            console.log('City index built:', Object.keys(cityToCountry).length, 'entries');
+        });
+    }
+
+    function extractCitySection(md, cityName) {
+        // Find ### CityName (with optional — suffix) and extract until next ### or ##
+        const escaped = cityName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+        const regex = new RegExp('^###\\s+' + escaped + '\\b[^\\n]*\\n', 'gm');
+        const match = regex.exec(md);
+        if (!match) return null;
+
+        const startContent = match.index + match[0].length;
+        // Find end: next ### or ## or end of string
+        const rest = md.substring(startContent);
+        const endMatch = rest.match(/^##/m);
+        const section = endMatch ? rest.substring(0, endMatch.index).trim() : rest.trim();
+        const heading = match[0].trim();
+
+        return { heading, body: section };
+    }
+
+    function getPlaceNameSet() {
+        if (placeNameSet) return placeNameSet;
+        placeNameSet = new Set();
+        // Add all map names
+        allNames.forEach(n => { if (n && n.length > 2) placeNameSet.add(n); });
+        // Add country names from lore index
+        Object.keys(loreIndex).forEach(n => placeNameSet.add(n));
+        return placeNameSet;
+    }
+
+    function linkifyPlaceNames(html, excludeName) {
+        const names = getPlaceNameSet();
+        // Sort by length descending to match longer names first
+        const sorted = [...names].filter(n => n !== excludeName && n.length > 2).sort((a, b) => b.length - a.length);
+        if (sorted.length === 0) return html;
+
+        // Parse HTML to avoid replacing inside tags
+        const div = document.createElement('div');
+        div.innerHTML = html;
+        linkifyTextNodes(div, sorted, excludeName);
+        return div.innerHTML;
+    }
+
+    function linkifyTextNodes(node, names, excludeName) {
+        if (node.nodeType === Node.TEXT_NODE) {
+            const text = node.textContent;
+            // Build a regex matching any known place name
+            let found = false;
+            for (const name of names) {
+                if (text.includes(name)) { found = true; break; }
+            }
+            if (!found) return;
+
+            // Replace first occurrence of each name
+            const frag = document.createDocumentFragment();
+            let remaining = text;
+            let changed = false;
+
+            while (remaining.length > 0) {
+                let earliest = null;
+                let earliestIdx = remaining.length;
+                for (const name of names) {
+                    const idx = remaining.indexOf(name);
+                    if (idx !== -1 && idx < earliestIdx) {
+                        earliestIdx = idx;
+                        earliest = name;
+                    }
+                }
+                if (!earliest) {
+                    frag.appendChild(document.createTextNode(remaining));
+                    break;
+                }
+                if (earliestIdx > 0) {
+                    frag.appendChild(document.createTextNode(remaining.substring(0, earliestIdx)));
+                }
+                const link = document.createElement('a');
+                link.className = 'lore-link';
+                link.setAttribute('data-name', earliest);
+                link.textContent = earliest;
+                frag.appendChild(link);
+                remaining = remaining.substring(earliestIdx + earliest.length);
+                changed = true;
+            }
+            if (changed && node.parentNode) {
+                node.parentNode.replaceChild(frag, node);
+            }
+        } else if (node.nodeType === Node.ELEMENT_NODE) {
+            // Skip headings and existing links
+            const tag = node.tagName.toLowerCase();
+            if (tag === 'a' || tag === 'h1' || tag === 'h2' || tag === 'h3' || tag === 'h4') return;
+            // Iterate children (copy list since we modify DOM)
+            const children = [...node.childNodes];
+            children.forEach(child => linkifyTextNodes(child, names, excludeName));
+        }
+    }
+
+    function navigateToPlace(name) {
+        let foundElement = null;
+        let foundItem = null;
+        let foundIndex = -1;
+
+        const storageKeys = Object.keys(elementStorage);
+        for (let i = 0; i < storageKeys.length; i++) {
+            const elements = elementStorage[storageKeys[i]];
+            for (const el of elements) {
+                if (el.name && el.name.toLowerCase() === name.toLowerCase()) {
+                    foundElement = el;
+                    foundIndex = i;
+                    break;
+                }
+            }
+            if (foundElement) break;
+        }
+
+        if (foundElement) {
+            const point = new OpenSeadragon.Point(foundElement.coord.x, foundElement.coord.y);
+            viewer.viewport.panTo(point);
+            const zoomLevels = [1.9, 3.9, 9.9, 13.9, 15.9, 17.9, 19.9];
+            viewer.viewport.zoomTo(zoomLevels[foundIndex] || 4);
+        }
+
+        // Find the CSV item to pass to showInfoPanel
+        // Search through elementStorage to find matching data
+        // We need the original CSV item — reconstruct minimal one if needed
+        showInfoPanel(name, { '': name });
+    }
+
     function showInfoPanel(name, item) {
-        document.getElementById('cityName').textContent = name;
-        
-        const infoContent = `
-            <p>${item['Description'] || 'Non disponible'}</p>
+        const nameEl = document.getElementById('cityName');
+        const subtitleEl = document.getElementById('loreSubtitle');
+        const infoEl = document.getElementById('cityInfo');
+        const panel = document.getElementById('infoPanel');
+
+        nameEl.textContent = name;
+        subtitleEl.textContent = '';
+        infoEl.innerHTML = '<p style="color:var(--text-muted);font-size:12px;">Chargement...</p>';
+        panel.style.display = 'block';
+        document.body.classList.add('info-panel-visible');
+        // Scroll content to top
+        document.querySelector('.info-panel-content').scrollTop = 0;
+
+        // 1. Country with its own lore file
+        if (loreIndex[name]) {
+            fetchLore(name).then(md => {
+                if (!md) return;
+                const parsed = parseLoreMD(md);
+                subtitleEl.textContent = parsed.subtitle;
+                infoEl.innerHTML = renderLoreHTML(parsed);
+                applyLinkify(infoEl, name);
+            });
+            return;
+        }
+
+        // 2. City/village/region → extract from parent country's lore
+        const parentCountry = cityToCountry[name];
+        if (parentCountry) {
+            fetchLore(parentCountry).then(md => {
+                if (!md) { showFallbackCSV(infoEl, subtitleEl, item); return; }
+
+                const section = extractCitySection(md, name);
+                let html = '';
+
+                // Parent link
+                html += `<a class="lore-parent-link" data-name="${escHTML(parentCountry)}">&#x2190; Voir ${escHTML(parentCountry)}</a>`;
+
+                if (section) {
+                    // Extract subtitle from heading (### Name — Type)
+                    const headingMatch = section.heading.match(/###\s+.+?\s*[—–-]\s*(.+)/);
+                    if (headingMatch) subtitleEl.textContent = headingMatch[1].trim();
+
+                    html += renderMD(section.body);
+                } else {
+                    // City is in the index but no dedicated ### section found
+                    html += `<p class="simple-desc">${escHTML(item['Description'] || 'Information disponible dans la fiche pays.')}</p>`;
+                }
+
+                infoEl.innerHTML = html;
+                applyLinkify(infoEl, name);
+            });
+            return;
+        }
+
+        // 3. Fallback to CSV data
+        showFallbackCSV(infoEl, subtitleEl, item);
+    }
+
+    function showFallbackCSV(infoEl, subtitleEl, item) {
+        subtitleEl.textContent = '';
+        const fallback = `
+            <p class="simple-desc">${escHTML(item['Description'] || 'Non disponible')}</p>
             <details>
                 <summary>Gouvernement</summary>
-                <p>${item['Gouvernement'] || 'Non disponible'}</p>
+                <div class="section-body"><p>${escHTML(item['Gouvernement'] || 'Non disponible')}</p></div>
             </details>
             <details>
                 <summary>Culture</summary>
-                <p>${item['Culture'] || 'Non disponible'}</p>
+                <div class="section-body"><p>${escHTML(item['Culture'] || 'Non disponible')}</p></div>
             </details>
             <details>
                 <summary>Histoire Marquante</summary>
-                <p>${item['Histoire marquante'] || 'Non disponible'}</p>
+                <div class="section-body"><p>${escHTML(item['Histoire marquante'] || 'Non disponible')}</p></div>
             </details>
         `;
-        
-        document.getElementById('cityInfo').innerHTML = infoContent;
-        document.getElementById('infoPanel').style.display = 'block';
-        document.body.classList.add('info-panel-visible');
+        infoEl.innerHTML = fallback;
+    }
+
+    function applyLinkify(container, excludeName) {
+        const names = getPlaceNameSet();
+        const sorted = [...names].filter(n => n !== excludeName && n.length > 2).sort((a, b) => b.length - a.length);
+        linkifyTextNodes(container, sorted, excludeName);
     }
 
     // Gestion de la visibilité
