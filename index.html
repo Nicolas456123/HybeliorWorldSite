@@ -399,19 +399,22 @@
             margin: 0 0 10px;
         }
         .info-panel-content h3 {
-            font-family: 'Copperplate Gothic Std', 'Segoe UI', sans-serif;
+            font-family: 'Segoe UI', system-ui, sans-serif;
             color: var(--accent);
-            font-size: 13px;
-            margin: 16px 0 8px;
-            padding-bottom: 4px;
-            border-bottom: 1px solid rgba(178, 148, 96, 0.12);
+            font-size: 14.5px;
+            font-weight: 700;
+            letter-spacing: 0.02em;
+            margin: 18px 0 8px;
+            padding-bottom: 5px;
+            border-bottom: 1px solid rgba(178, 148, 96, 0.18);
             text-align: left;
         }
         .info-panel-content h4 {
-            font-size: 12.5px;
+            font-family: 'Segoe UI', system-ui, sans-serif;
+            font-size: 13.5px;
             font-weight: 700;
             color: var(--text);
-            margin: 12px 0 6px;
+            margin: 14px 0 6px;
             text-align: left;
         }
         .info-panel-content ul, .info-panel-content ol {
@@ -1334,12 +1337,13 @@
     function loadLoreIndex() {
         fetch('./Lore/lore-index.json')
             .then(r => r.json())
-            .then(data => {
-                loreIndex = data;
-                // Build city→country index after lore index is loaded
-                buildCityIndex();
-            })
+            .then(data => { loreIndex = data; })
             .catch(err => console.warn('Lore index not found:', err));
+
+        fetch('./Lore/city-index.json')
+            .then(r => r.json())
+            .then(data => { cityToCountry = data; })
+            .catch(err => console.warn('City index not found:', err));
     }
 
     function fetchLore(name) {
@@ -1446,27 +1450,6 @@
 
     let cityToCountry = {};
     let placeNameSet = null;
-
-    function buildCityIndex() {
-        const entries = Object.entries(loreIndex);
-        const promises = entries.map(([countryName, path]) => {
-            return fetchLore(countryName).then(md => {
-                if (!md) return;
-                // Extract city names from "### CityName — Type" patterns
-                const cityPattern = /^###\s+([^\n—–-]+?)(?:\s*[—–-]\s*.+)?$/gm;
-                let m;
-                while ((m = cityPattern.exec(md)) !== null) {
-                    const city = m[1].trim();
-                    if (city && city !== countryName) {
-                        cityToCountry[city] = countryName;
-                    }
-                }
-            });
-        });
-        Promise.all(promises).then(() => {
-            console.log('City index built:', Object.keys(cityToCountry).length, 'entries');
-        });
-    }
 
     function extractCitySection(md, cityName) {
         // Find ### CityName (with optional — suffix) and extract until next ### or ##
