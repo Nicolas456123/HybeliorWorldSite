@@ -1600,7 +1600,7 @@
             const shiftPx = panelHeight / 2;
             // OSD viewport Y : même échelle que X (basée sur image width)
             const shiftViewport = shiftPx / (zoom * containerWidth);
-            adjusted = new OpenSeadragon.Point(point.x, point.y - shiftViewport);
+            adjusted = new OpenSeadragon.Point(point.x, point.y + shiftViewport);
         } else {
             // Panel à droite → décaler horizontalement
             const panelEl = panel.getBoundingClientRect();
