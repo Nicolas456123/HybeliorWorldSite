@@ -844,13 +844,13 @@
     const CONFIG = {
         worldWidthKm: 1000,
         csvFiles: [
-            { path: "./Data/DT_Continents.csv", fontSize: "0.03", storage: "continentsElements", xOffset: 0.03, yOffset: 0.02, zoomRange: [0, 2] },
-            { path: "./Data/DT_Pays.csv", fontSize: "0.01", storage: "paysElements", xOffset: 0.015, yOffset: 0.01, zoomRange: [2, 4] },
-            { path: "./Data/DT_Region.csv", fontSize: "0.004", storage: "regionElements", xOffset: 0.005, yOffset: 0.002, zoomRange: [4, 10] },
-            { path: "./Data/DT_Capitales.csv", fontSize: "0.0015", storage: "capitalesElements", xOffset: 0, yOffset: 0, zoomRange: [10, Infinity] },
-            { path: "./Data/DT_Cites.csv", fontSize: "0.0011", storage: "citesElements", xOffset: 0, yOffset: 0, zoomRange: [14, Infinity] },
-            { path: "./Data/DT_Villes.csv", fontSize: "0.0006", storage: "villesElements", xOffset: 0, yOffset: 0, zoomRange: [16, Infinity] },
-            { path: "./Data/DT_Villages.csv", fontSize: "0.0004", storage: "villagesElements", xOffset: 0, yOffset: 0, zoomRange: [18, Infinity] }
+            { path: "./Data/DT_Continents.csv", fontSize: "0.03", storage: "continentsElements", zoomRange: [0, 2] },
+            { path: "./Data/DT_Pays.csv", fontSize: "0.01", storage: "paysElements", zoomRange: [2, 4] },
+            { path: "./Data/DT_Region.csv", fontSize: "0.004", storage: "regionElements", zoomRange: [4, 10] },
+            { path: "./Data/DT_Capitales.csv", fontSize: "0.0015", storage: "capitalesElements", zoomRange: [10, Infinity] },
+            { path: "./Data/DT_Cites.csv", fontSize: "0.0011", storage: "citesElements", zoomRange: [14, Infinity] },
+            { path: "./Data/DT_Villes.csv", fontSize: "0.0006", storage: "villesElements", zoomRange: [16, Infinity] },
+            { path: "./Data/DT_Villages.csv", fontSize: "0.0004", storage: "villagesElements", zoomRange: [18, Infinity] }
         ]
     };
 
@@ -1306,8 +1306,8 @@
         positions.forEach(offset => {
             // Création du texte
             const textElement = document.createElementNS("http://www.w3.org/2000/svg", "text");
-            textElement.setAttribute("x", coord.x + config.xOffset + offset.x);
-            textElement.setAttribute("y", coord.y + config.yOffset + offset.y);
+            textElement.setAttribute("x", coord.x + offset.x);
+            textElement.setAttribute("y", coord.y + offset.y);
             textElement.setAttribute("fill", "white");
             textElement.setAttribute("stroke", "black");
             textElement.setAttribute("stroke-width", strokeWidth);
@@ -1322,8 +1322,8 @@
             const textHeight = fontSize * 1.1;
 
             const rectElement = document.createElementNS("http://www.w3.org/2000/svg", "rect");
-            rectElement.setAttribute("x", coord.x + config.xOffset + offset.x - textWidth / 2);
-            rectElement.setAttribute("y", coord.y + config.yOffset + offset.y - textHeight + (fontSize * 0.3));
+            rectElement.setAttribute("x", coord.x + offset.x - textWidth / 2);
+            rectElement.setAttribute("y", coord.y + offset.y - textHeight + (fontSize * 0.3));
             rectElement.setAttribute("width", textWidth);
             rectElement.setAttribute("height", textHeight);
             rectElement.setAttribute("fill", "transparent");
