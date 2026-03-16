@@ -85,31 +85,31 @@ La cuisine mosrackienne est fonctionnelle : des rations conçues pour nourrir ef
 
 ## Régions
 
-### Camord (N°10)
+### Camord
 Région industrielle au nord-ouest, dominée par d'immenses complexes de forges. Camord est le poumon industriel de Mosrack — ses cheminées crachent de la fumée jour et nuit.
 
-### Fugnord (N°11)
+### Fugnord
 Région marécageuse et malsaine au nord-est. Fugnord abrite les camps d'entraînement les plus durs de Mosrack — les recrues y sont envoyées pour être "brisées et reforgées".
 
-### Mondack (N°12)
+### Mondack
 Plaines centrales parsemées de villes fortifiées. Mondack est le cœur logistique de Mosrack — routes pavées, entrepôts, casernes.
 
-### Nosford (N°13)
+### Nosford
 Région minière au sud. Les mines de Nosford fournissent le fer et le charbon qui alimentent les forges du pays.
 
-### Ragnack (N°14)
+### Ragnack
 Terres frontalières à l'est, zone de tension permanente avec les voisins. Ragnack est hérissée de fortifications et de garnisons.
 
-### Toreck (N°15)
+### Toreck
 Région de la capitale, au centre du pays. Toreck est le siège du Directoire et le cœur politique de Mosrack.
 
-### Calyndor (N°116)
+### Calyndor
 Région méridionale récemment annexée, encore partiellement sauvage. Calyndor est en cours de développement industriel — les forêts sont abattues pour alimenter les forges.
 
-### Valdran (N°117)
+### Valdran
 Hauts plateaux à l'ouest, utilisés comme terrain d'essai pour les nouvelles machines de guerre. Valdran est une zone militaire interdite aux civils.
 
-### Velithar (N°118)
+### Velithar
 Côte sud-ouest, seul accès maritime de Mosrack. Velithar abrite les chantiers navals militaires et la flotte de guerre.
 
 ---
@@ -119,67 +119,67 @@ Côte sud-ouest, seul accès maritime de Mosrack. Velithar abrite les chantiers 
 ### Folgrad — Capitale ★
 *La capitale de Mosrack est une citadelle industrielle. D'immenses murs de fer rouillé entourent une ville où les cheminées sont plus nombreuses que les arbres. Le Palais du Directoire, construit en acier et en basalte, domine la cité depuis une colline artificielle faite de scories. Les rues sont pavées de mâchefer, les bâtiments sont de brique noire, et l'air porte en permanence l'odeur du métal chauffé. Folgrad ne dort jamais — les équipes de forgerons se relaient en trois tours.*
 - Population : Capitale
-- Région : Toreck (N°15)
+- Région : Toreck
 
 ### Cumulgord
 *Ville industrielle massive, second centre de production de Mosrack. Cumulgord abrite les plus grands hauts fourneaux du pays — des structures de trente mètres de haut qui projettent des colonnes de feu visibles à des lieues. La ville est entourée d'un nuage perpétuel de fumée et de poussière.*
 - Population : Ville
-- Région : Camord (N°10)
+- Région : Camord
 
 ### Ausford
 *Camp d'entraînement principal de l'armée mosrackienne, bâti au milieu des marécages de Fugnord. Les recrues y endurent des mois de privations, de marches forcées dans la boue et de combats simulés dans des conditions épouvantables. Ceux qui survivent deviennent les soldats les plus endurants d'Onara.*
 - Population : Village
-- Région : Fugnord (N°11)
+- Région : Fugnord
 
 ### Frostmar
 *Village fortifié servant de dépôt d'armes dans les marais du nord. Frostmar est un labyrinthe de bunkers et d'entrepôts souterrains, dissimulés sous une végétation trompeuse. On dit que les réserves de Frostmar pourraient armer une armée de cent mille hommes.*
 - Population : Village
-- Région : Fugnord (N°11)
+- Région : Fugnord
 
 ### Kelthor
 *Poste avancé des services de renseignement de Mosrack. Les espions sont formés à Kelthor — torture, interrogatoire, infiltration, sabotage. Le village est si secret que sa localisation exacte n'apparaît sur aucune carte officielle.*
 - Population : Village
-- Région : Fugnord (N°11)
+- Région : Fugnord
 
 ### Thrymar
 *Village de ravitaillement qui fournit les camps d'entraînement en nourriture et en équipement. Thrymar est aussi un lieu de repos pour les recrues blessées — le seul endroit de Fugnord où l'on peut dormir dans un lit sec.*
 - Population : Village
-- Région : Fugnord (N°11)
+- Région : Fugnord
 
 ### Vorneth
 *Hameau d'ingénieurs militaires qui testent les prototypes de nouvelles armes. Vorneth est régulièrement secoué par des explosions — les accidents sont fréquents et les survivants portent les cicatrices de leur métier avec fierté.*
 - Population : Village
-- Région : Fugnord (N°11)
+- Région : Fugnord
 
 ### Dyrnathor
 *Village de dresseurs de bêtes de guerre. Les chiens de combat de Dyrnathor, croisés avec des races sauvages des marais, sont des créatures massives et féroces. Ils accompagnent les troupes mosrackiennes au combat.*
 - Population : Village
-- Région : Fugnord (N°11)
+- Région : Fugnord
 
 ### Myrklor
 *Avant-poste isolé dans les marais les plus profonds de Fugnord. Myrklor sert de prison militaire — les déserteurs et les traîtres y sont envoyés pour des travaux forcés dans la tourbe. Peu en reviennent.*
 - Population : Village
-- Région : Fugnord (N°11)
+- Région : Fugnord
 
 ### Mangord
 *Ville garnison au centre de Mondack, point de convergence des routes militaires. Mangord est un nœud logistique vital — toutes les marchandises, les troupes et les ordres passent par cette ville.*
 - Population : Ville
-- Région : Mondack (N°12)
+- Région : Mondack
 
 ### Mordock
 *Village de forgerons spécialisés dans les machines de siège. Les catapultes, les béliers et les tours de siège de Mordock sont les plus redoutés d'Onara — des monstres de bois et de fer capables de pulvériser n'importe quelle muraille.*
 - Population : Village
-- Région : Mondack (N°12)
+- Région : Mondack
 
 ### Reldarck
 *Village minier au cœur de Nosford. Les mines de Reldarck descendent si profondément dans la terre que les mineurs travaillent dans une chaleur suffocante. Le minerai extrait est le plus pur de Mosrack — et le coût en vies humaines est le plus élevé.*
 - Population : Village
-- Région : Nosford (N°13)
+- Région : Nosford
 
 ### Ramseck
 *Village frontalier fortifié, hérissé de tours de guet et de tranchées. Ramseck est le premier rempart de Mosrack contre les incursions depuis l'est. Sa garnison est en alerte permanente.*
 - Population : Village
-- Région : Ragnack (N°14)
+- Région : Ragnack
 
 ---
 

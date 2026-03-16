@@ -11,8 +11,8 @@
 |---|---|
 | **Continent** | Ilthara |
 | **Gouvernement** | Monarchie tribale |
-| **Religion principale** | Vael'Kurash (Les Esprits de Chaque Chose) |
-| **Religion secondaire** | Foedus Animae (Le Pacte des Âmes) |
+| **Religion principale** | [[00_Systeme_Religieux\|Vael'Kurash]] (Les Esprits de Chaque Chose) |
+| **Religion secondaire** | [[00_Systeme_Religieux\|Foedus Animae]] (Le Pacte des Âmes) |
 | **Culture dominante** | Vie en jungle, communion avec les esprits, spiritualité animiste |
 | **Histoire marquante** | L'Éveil de la Jungle |
 | **Ressources clés** | Bois tropicaux, plantes médicinales rares, pigments naturels, venins, fruits exotiques, cristaux de sève |
@@ -61,7 +61,7 @@ Le Roi-Chaman actuel est **Thylorin du Serpent-Vert**, un homme de grande statur
 
 ## Religion
 
-### Vael'Kurash — Les Esprits de Chaque Chose (religion officielle)
+### [[00_Systeme_Religieux|Vael'Kurash]] — Les Esprits de Chaque Chose (religion officielle)
 
 En Warenthor, Vael'Kurash n'est pas une religion au sens conventionnel — c'est la réalité quotidienne. Les esprits sont omniprésents et visibles pour ceux qui savent regarder. Chaque arbre, chaque rivière, chaque animal abrite un esprit, et les interactions avec ces esprits rythment la vie de chaque Warenthorien.
 
@@ -74,7 +74,7 @@ Les rituels sont profondément intégrés au quotidien :
 
 Les tatouages rituels de Vael'Kurash sont particulièrement élaborés en Warenthor. Chaque tatouage représente un esprit protecteur personnel, choisi lors d'une vision chamanique. Les tatouages changent de couleur selon l'humeur de l'esprit protecteur — un phénomène unique à Warenthor.
 
-### Foedus Animae — Le Pacte des Âmes (religion secondaire)
+### [[00_Systeme_Religieux|Foedus Animae]] — Le Pacte des Âmes (religion secondaire)
 
 Le culte des ancêtres est profondément ancré à Warenthor. Les morts ne quittent pas la jungle — ils deviennent des esprits supplémentaires qui veillent sur leurs descendants. Les tombes sont des arbres — les morts sont enterrés au pied d'un arbre qui absorbe leur essence et devient un arbre-ancêtre. Communiquer avec ces arbres-ancêtres est une pratique courante, et les familles se rassemblent régulièrement autour de l'arbre de leurs défunts pour leur parler, les consulter et leur demander conseil.
 
@@ -124,6 +124,31 @@ La jungle de Warenthor est stratifiée en trois niveaux : la canopée supérieur
 
 ### Galdris — Village
 *Village de guérisseurs situé près d'une cascade dont l'eau, filtrée à travers des couches de racines et de cristaux, possède des propriétés curatives reconnues. Les chamanes de Galdris sont les pharmaciens de Warenthor, maîtrisant une pharmacopée de centaines de plantes, racines, champignons, écorces et venins. Leur savoir est transmis exclusivement par voie orale, et un apprenti met vingt ans à devenir un guérisseur accompli. Les malades de tout Warenthor — et parfois d'au-delà — font le pèlerinage jusqu'à Galdris pour y trouver un remède.*
+- Population : Village
+- Région : WarenthorRegion
+
+### Thyrath — Village
+*Village de tatoueurs-chamanes, gardiens de l'art du tatouage rituel de Warenthor. Chaque tatoueur de Thyrath est aussi un interprète des esprits — car tracer un tatouage n'est pas un acte esthétique, c'est un acte de liaison. L'encre utilisée est extraite de la sève d'un arbre-esprit rare, et la cérémonie de tatouage dure parfois plusieurs jours, entrecoupée de transes et de dialogues avec l'esprit représenté. Les tatouages de Thyrath sont vivants : ils bougent légèrement selon l'état d'esprit du porteur, et changent de couleur si l'esprit protecteur est en colère ou en joie.*
+- Population : Village
+- Région : WarenthorRegion
+
+### Verdrath — Village
+*Village de venins, niché au cœur d'une clairière infestée de serpents et de grenouilles arboricoles. Les artisans de Verdrath récoltent, distillent et combinent les venins de la jungle avec une expertise inégalée — poisons paralysants pour les flèches de chasse, antidotes pour les morsures courantes, et préparations plus secrètes dont on préfère ne pas préciser l'usage. Curieusement, les habitants de Verdrath semblent insensibles à la plupart des toxines — une immunité acquise sur des générations qui les rend presque aussi dangereux que leurs produits.*
+- Population : Village
+- Région : WarenthorRegion
+
+### Canavel — Village
+*Village de la canopée, bâti exclusivement dans les couronnes des arbres les plus hauts de la jungle. Ses maisons n'ont pas de sol — uniquement des plateformes de bois tressé et des hamacs suspendus entre les branches. Les habitants de Canavel ne descendent jamais au sol ; ils se déplacent de cime en cime par un réseau de lianes et de ponts aériens que les étrangers trouvent vertigineux. Cette position élevée leur confère un rôle de guetteurs et d'observateurs — ils voient tout ce qui se passe sous la canopée sans jamais être vus.*
+- Population : Village
+- Région : WarenthorRegion
+
+### Sorothar — Village
+*Village des arbres-ancêtres, où la tradition du Foedus Animae est la plus vivace de Warenthor. Les morts de Sorothar sont enterrés depuis des générations au même endroit, et les arbres-ancêtres qui en ont poussé forment maintenant un bosquet sacré de troncs si épais qu'il faudrait dix hommes pour en entourer un seul. Les chamanes de Sorothar affirment entendre les voix de tous leurs ancêtres en permanence — un murmure constant qui les guide. Les vivants et les morts partagent la même forêt à Sorothar, et la frontière entre eux est la plus mince de tout Hybelior.*
+- Population : Village
+- Région : WarenthorRegion
+
+### Ryvalorn — Village
+*Village-pont situé à la confluence de trois rivières de la jungle. Ryvalorn est le principal point de commerce intérieur de Warenthor — le seul endroit où les différentes tribus se réunissent régulièrement pour échanger des marchandises, partager des nouvelles et résoudre des conflits. Les Marcheurs utilisent Ryvalorn comme base de départ pour leurs tournées spirituelles. Les rivières qui s'y croisent sont chacune gardée par un esprit-fleuve de grande puissance, et les résidents de Ryvalorn leur dédient des offrandes quotidiennes pour maintenir la paix entre elles.*
 - Population : Village
 - Région : WarenthorRegion
 

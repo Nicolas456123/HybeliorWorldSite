@@ -61,7 +61,7 @@ Les habitants d'Azoria ont développé un artisanat unique : la sculpture du cor
 
 ## Régions
 
-### No Man's Land Azoria (N°141)
+### No Man's Land Azoria
 L'archipel entier constitue une seule région administrative (pour autant que ce mot ait un sens ici). Des dizaines d'îlots et d'atolls, certains à peine assez grands pour une cabane, d'autres abritant des villages de plusieurs centaines d'âmes.
 
 ---
@@ -71,67 +71,67 @@ L'archipel entier constitue une seule région administrative (pour autant que ce
 ### Tarnora
 *Le plus grand "village" d'Azoria — en réalité un campement permanent de quelques centaines de naufragés et de leurs descendants, installé sur la plus grande île de l'archipel. Tarnora possède un port naturel protégé des récifs, ce qui en fait le seul mouillage sûr de la région. Un marché informel y fonctionne, échangeant poisson, corail et débris d'épaves.*
 - Population : Village
-- Région : No Man's Land Azoria (N°141)
+- Région : No Man's Land Azoria
 
 ### Fyloria
 *Village de pêcheurs construit sur pilotis au-dessus d'un lagon turquoise. Les habitants de Fyloria sont les plus pacifiques d'Azoria — ils vivent de la pêche et du troc, et évitent les conflits. Leur lagon est si riche en poissons que les autres villages les laissent tranquilles en échange de nourriture.*
 - Population : Village
-- Région : No Man's Land Azoria (N°141)
+- Région : No Man's Land Azoria
 
 ### Kelrith
 *Campement fortifié sur un îlot rocheux, contrôlé par une bande de naufrageurs. Kelrith est le village le plus dangereux d'Azoria — ses habitants allument de faux phares pour attirer les navires sur les récifs, puis pillent les épaves. Les marchands tyndariens ont mis une prime sur la tête de leur chef.*
 - Population : Village
-- Région : No Man's Land Azoria (N°141)
+- Région : No Man's Land Azoria
 
 ### Draknor
 *Village de sculpteurs de corail, installé sur un atoll où le corail pousse en formations spectaculaires. Les artisans de Draknor produisent des objets d'une beauté rare — des dagues de corail rouge, des amulettes de corail noir, des couronnes de corail blanc. Ces objets sont les seuls produits d'Azoria qui aient une valeur commerciale reconnue.*
 - Population : Village
-- Région : No Man's Land Azoria (N°141)
+- Région : No Man's Land Azoria
 
 ### Zylarin
 *Hameau isolé sur un îlot minuscule, habité par un seul clan familial de plongeurs. Les plongeurs de Zylarin descendent dans les épaves englouties pour récupérer des cargaisons — un métier extrêmement dangereux mais potentiellement très lucratif.*
 - Population : Village
-- Région : No Man's Land Azoria (N°141)
+- Région : No Man's Land Azoria
 
 ### Thylandor
 *Village de guérisseurs autodidactes qui ont appris à utiliser les algues et les éponges marines comme médicaments. Thylandor est le seul endroit d'Azoria où l'on peut se faire soigner — les blessés y arrivent de tout l'archipel.*
 - Population : Village
-- Région : No Man's Land Azoria (N°141)
+- Région : No Man's Land Azoria
 
 ### Vystara
 *Campement temporaire sur un banc de sable qui n'émerge que pendant la marée basse. Les habitants de Vystara vivent sur des radeaux ancrés et ne touchent terre que quelques heures par jour. Leur mode de vie est le plus précaire de tout Azoria.*
 - Population : Village
-- Région : No Man's Land Azoria (N°141)
+- Région : No Man's Land Azoria
 
 ### Eldorath
 *Village bâti dans les ruines d'un navire géant échoué sur un récif. La coque retournée sert de toit, les ponts servent de planchers, et les mâts brisés servent de piliers. Eldorath est un lieu étrange et fascinant — une ville-navire qui ne naviguera plus jamais.*
 - Population : Village
-- Région : No Man's Land Azoria (N°141)
+- Région : No Man's Land Azoria
 
 ### Raventh
 *Avant-poste de contrebandiers situé sur une île dotée de grottes sous-marines. Raventh sert de point de passage pour les marchandises illicites entre les continents — des poisons, des artefacts volés, des esclaves en fuite.*
 - Population : Village
-- Région : No Man's Land Azoria (N°141)
+- Région : No Man's Land Azoria
 
 ### Galvoria
 *Village de pêcheurs de perles sauvages. Les eaux autour de Galvoria abritent des huîtres perlières d'une taille exceptionnelle, produisant des perles dorées uniques au monde. Cette richesse fait de Galvoria un village convoité — et perpétuellement assiégé.*
 - Population : Village
-- Région : No Man's Land Azoria (N°141)
+- Région : No Man's Land Azoria
 
 ### Thylaria
 *Hameau de navigateurs qui connaissent les courants d'Azoria mieux que quiconque. Les pilotes de Thylaria sont les seuls capables de guider un navire à travers les récifs sans dommage — un service qu'ils monnayent cher.*
 - Population : Village
-- Région : No Man's Land Azoria (N°141)
+- Région : No Man's Land Azoria
 
 ### Morendil
 *Village construit sur une île volcanique éteinte. Morendil est remarquable pour ses sources chaudes et ses sols fertiles — les rares légumes et fruits d'Azoria y poussent. Le village est le plus prospère de l'archipel, ce qui attire convoitise et jalousie.*
 - Population : Village
-- Région : No Man's Land Azoria (N°141)
+- Région : No Man's Land Azoria
 
 ### Vyrathos
 *Le village le plus isolé d'Azoria, situé à l'extrémité de l'archipel. Vyrathos est habité par des ermites et des exilés volontaires — des gens qui ont fui non seulement la civilisation mais aussi les autres naufragés. Ils ne veulent qu'une chose : qu'on les laisse en paix.*
 - Population : Village
-- Région : No Man's Land Azoria (N°141)
+- Région : No Man's Land Azoria
 
 ---
 

@@ -85,16 +85,16 @@ La loyauté au clan est la valeur suprême en Elarian. Trahir son clan est pire 
 
 ## Régions
 
-### Tundryst (N°111)
+### Tundryst
 Vaste toundra au nord, le territoire le plus froid et le plus inhospitalier d'Elarian. Tundryst est le domaine du clan des Givrés et abrite la seconde capitale historique de la Confédération. Des aurores boréales illuminent le ciel pendant les longs mois d'hiver.
 
-### Kryostra (N°112)
+### Kryostra
 Région de fjords glaciaires à l'ouest, où les falaises de glace plongent dans des eaux noires et profondes. Kryostra est le territoire des clans marins — des pêcheurs et des navigateurs qui bravent les mers les plus dangereuses de Celethor.
 
-### Veskara (N°113)
+### Veskara
 Hauts plateaux au centre d'Elarian, balayés par des vents constants. Veskara est le cœur de l'élevage — des troupeaux de bœufs musqués et de rennes y paissent sous la surveillance de bergers armés.
 
-### Gimtar (N°114)
+### Gimtar
 Région montagneuse au sud, la plus tempérée d'Elarian. Gimtar abrite les forges les plus importantes et les mines de fer glaciaire. C'est aussi la porte d'entrée vers le reste de Celethor.
 
 ---
@@ -104,102 +104,102 @@ Région montagneuse au sud, la plus tempérée d'Elarian. Gimtar abrite les forg
 ### Tundralis — Capitale ★
 *Tundralis est une forteresse de pierre grise et de bois pétrifié, construite dans une cuvette naturelle qui la protège des vents les plus violents. La Grande Salle du Jarl Suprême, longue de cent pas, peut accueillir mille guerriers assis autour d'un foyer central dont les flammes ne s'éteignent jamais. Les murs sont ornés de trophées de chasse, d'armes ancestrales et de tapisseries racontant l'histoire de la Grande Alliance.*
 - Population : Capitale
-- Région : Tundryst (N°111)
+- Région : Tundryst
 
 ### Frostmir
 *Ville portuaire sur les rives d'un fjord gelé six mois par an. Frostmir est le principal point de commerce maritime d'Elarian — ses quais de pierre accueillent les navires des rares marchands assez courageux pour naviguer les eaux du nord. La ville est célèbre pour sa bière noire, servie chaude dans des cornes gravées.*
 - Population : Ville
-- Région : Tundryst (N°111)
+- Région : Tundryst
 
 ### Aethoria
 *Village d'observateurs du ciel, perché sur un plateau dégagé. Les Elariens d'Aethoria étudient les aurores boréales, qu'ils considèrent comme les messages visuels de Tempora. Leurs prédictions météorologiques, basées sur les couleurs des aurores, sont d'une précision remarquable.*
 - Population : Ville
-- Région : Tundryst (N°111)
+- Région : Tundryst
 
 ### Nymaris
 *Hameau de chasseurs spécialisés dans la traque des créatures du froid — des bêtes massives et dangereuses qui hantent la toundra. Les fourrures de Nymaris sont les plus chaudes et les plus prisées de Celethor.*
 - Population : Ville
-- Région : Tundryst (N°111)
+- Région : Tundryst
 
 ### Vyndoria
 *Village fortifié à l'extrême nord de la Confédération, le dernier avant les terres sauvages. Vyndoria est le poste avancé des éclaireurs qui surveillent les mouvements des tribus nomades et des créatures qui rôdent au-delà des frontières.*
 - Population : Ville
-- Région : Tundryst (N°111)
+- Région : Tundryst
 
 ### Kryndor
 *Ville principale de Kryostra, construite sur les falaises qui surplombent un fjord vertigineux. Les maisons sont accrochées à la roche comme des nids d'hirondelle, reliées par des escaliers et des passerelles de corde. Les pêcheurs de Kryndor descendent vers la mer chaque matin par des échelles de cinquante mètres.*
 - Population : Ville
-- Région : Kryostra (N°112)
+- Région : Kryostra
 
 ### Icelorn
 *Village de constructeurs de navires. Les drakkars d'Icelorn sont conçus pour naviguer dans les eaux glaciaires — leurs coques renforcées de fer glaciaire peuvent briser la glace fine. Les chantiers navals sont le cœur économique de Kryostra.*
 - Population : Ville
-- Région : Kryostra (N°112)
+- Région : Kryostra
 
 ### Glacoria
 *Cité-grotte creusée dans un glacier permanent. Glacoria est un spectacle irréel — des salles de glace translucide, des colonnes de givre sculptées par le temps, des passages où la lumière se décompose en arcs-en-ciel. La température est paradoxalement stable et supportable à l'intérieur du glacier.*
 - Population : Ville
-- Région : Kryostra (N°112)
+- Région : Kryostra
 
 ### Caeldor
 *Village de plongeurs qui récoltent l'ambre du nord au fond des fjords. L'ambre elarien, formé par la résine d'arbres disparus piégée dans la glace, est un matériau rare utilisé en joaillerie et en enchantement.*
 - Population : Ville
-- Région : Kryostra (N°112)
+- Région : Kryostra
 
 ### Lornath
 *Hameau de pêcheurs isolé au fond d'un fjord étroit. Lornath est connu pour ses eaux d'un bleu profond, si claires que les pêcheurs voient le fond à cinquante mètres. Des ruines sous-marines, visibles depuis la surface, alimentent les légendes locales.*
 - Population : Ville
-- Région : Kryostra (N°112)
+- Région : Kryostra
 
 ### Veskoris
 *Ville principale de Veskara, centre du commerce de fourrures et de viande séchée. Veskoris est construite autour d'un enclos géant où se tient le Grand Marché des Troupeaux — un événement biannuel où les clans échangent bétail, chevaux et chiens de traîneau.*
 - Population : Ville
-- Région : Veskara (N°113)
+- Région : Veskara
 
 ### Frosthal
 *Forteresse de pierre au sommet d'une colline battue par les vents, servant de point de rassemblement pour le Thing annuel. Frosthal peut abriter cinq mille personnes et contient des réserves de nourriture pour six mois — un refuge en cas de catastrophe.*
 - Population : Ville
-- Région : Veskara (N°113)
+- Région : Veskara
 
 ### Mythralis
 *Village de chamans et de guérisseurs qui pratiquent une médecine mêlant herboristerie et rituels de Rota Mundi. Les bains de vapeur de Mythralis, alimentés par des sources chaudes naturelles, sont réputés pour guérir les maladies des os.*
 - Population : Ville
-- Région : Veskara (N°113)
+- Région : Veskara
 
 ### Noryndal
 *Bourg d'éleveurs de chiens de traîneau. Les meutes de Noryndal sont les plus rapides de Celethor — leurs chiens, croisés avec des loups du nord, sont aussi fidèles que féroces. Posséder un chien de Noryndal est un signe de prestige.*
 - Population : Ville
-- Région : Veskara (N°113)
+- Région : Veskara
 
 ### Wynthar
 *Village de tanneurs et de fourreurs qui produisent les manteaux les plus chauds d'Hybelior. Le cuir de Wynthar, traité avec des huiles spéciales et des sels rares, reste souple même par des froids extrêmes.*
 - Population : Ville
-- Région : Veskara (N°113)
+- Région : Veskara
 
 ### Kryndalis
 *Avant-poste militaire sur la frontière sud de Veskara. Kryndalis surveille les passages entre les plateaux et les montagnes de Gimtar. Sa garnison est composée des meilleurs archers d'Elarian.*
 - Population : Ville
-- Région : Veskara (N°113)
+- Région : Veskara
 
 ### Gimtaris
 *Ville minière et forgeronne, cœur industriel d'Elarian. Les forges de Gimtaris brûlent jour et nuit, produisant le fer glaciaire qui fait la renommée de la Confédération. L'entrée de la ville est gardée par deux statues de guerriers en fer grandeur nature.*
 - Population : Ville
-- Région : Gimtar (N°114)
+- Région : Gimtar
 
 ### Lysorn
 *Village de marchands situé sur la route commerciale principale vers le sud. Lysorn est le point de contact entre Elarian et le reste de Celethor — les étrangers y sont tolérés, à condition de respecter les coutumes locales.*
 - Population : Ville
-- Région : Gimtar (N°114)
+- Région : Gimtar
 
 ### Thaldris
 *Bourg fortifié abritant les archives de la Confédération — des tablettes de pierre gravées avec l'histoire de chaque clan depuis la Grande Alliance. Les Gardiens des Tablettes sont des scribes-guerriers qui protègent les archives avec leur vie.*
 - Population : Ville
-- Région : Gimtar (N°114)
+- Région : Gimtar
 
 ### Kaldaris
 *Village de bûcherons et de charpentiers qui exploitent les dernières forêts de conifères du sud d'Elarian. Le bois de Kaldaris, durci par le froid, est le matériau de construction principal des longues maisons elariennes.*
 - Population : Ville
-- Région : Gimtar (N°114)
+- Région : Gimtar
 
 ---
 

@@ -85,7 +85,7 @@ Les Ryldoriens vivent simplement. Leurs maisons sont modestes, leurs vêtements 
 
 ## Régions
 
-### Ryldor (N°115)
+### Ryldor
 Unique région du pays, une vallée abritée entre les montagnes de Celethor. Le sol y est étonnamment fertile malgré le climat nordique, grâce aux techniques de compostage et de culture développées par les chamans. Des sources chaudes naturelles réchauffent certaines zones, créant des microclimats où poussent des plantes impossibles à trouver ailleurs.
 
 ---
@@ -95,27 +95,27 @@ Unique région du pays, une vallée abritée entre les montagnes de Celethor. Le
 ### Ryldaris — Capitale ★
 *La capitale de Ryldor est un immense jardin dont les bâtiments semblent pousser parmi les plantes. Les maisons sont de bois clair, aux toits couverts de mousse et d'herbes médicinales. Au centre, le Grand Sanctuaire — un bâtiment circulaire ouvert aux quatre vents — accueille les malades de tout Hybelior. Les couloirs sont parfumés par les herbes séchées qui pendent des poutres, et le sol est couvert de pétales frais chaque matin.*
 - Population : Capitale
-- Région : Ryldor (N°115)
+- Région : Ryldor
 
 ### Galrinth
 *Village d'herboristes spécialisés dans les plantes des hauteurs. Les jardins de Galrinth sont étagés sur les flancs d'une montagne, chaque terrasse abritant des espèces adaptées à une altitude différente. C'est ici que pousse le rare **lys de givre**, dont l'extrait guérit les fièvres les plus rebelles.*
 - Population : Ville
-- Région : Ryldor (N°115)
+- Région : Ryldor
 
 ### Thyros
 *Bourg nommé en l'honneur du Grand Chaman actuel (ou peut-être est-ce l'inverse). Thyros abrite l'école de médecine chamanique, où les apprentis guérisseurs étudient pendant dix ans avant d'être autorisés à pratiquer. Les cours sont dispensés en plein air, dans des clairières sacrées.*
 - Population : Ville
-- Région : Ryldor (N°115)
+- Région : Ryldor
 
 ### Zelthar
 *Village de champignonnistes installé dans une grotte humide. Les champignons de Zelthar — certains luminescents, d'autres mortels, d'autres miraculeux — sont la base de nombreuses potions ryldoriennes. Seuls les initiés savent distinguer les espèces bénéfiques des espèces toxiques.*
 - Population : Ville
-- Région : Ryldor (N°115)
+- Région : Ryldor
 
 ### Faldoris
 *Hameau paisible au bord d'une source chaude, servant de lieu de convalescence. Les malades qui ont reçu un traitement à Ryldaris sont envoyés à Faldoris pour se rétablir dans les eaux thermales. L'air y est si pur et l'atmosphère si sereine que même les âmes les plus tourmentées y trouvent la paix.*
 - Population : Ville
-- Région : Ryldor (N°115)
+- Région : Ryldor
 
 ---
 

@@ -12,8 +12,8 @@
 | **Localisation** | Île-nation |
 | **Numéro** | 14 |
 | **Gouvernement** | Monarchie isolée |
-| **Religion principale** | Noctari (Les Voiles de la Nuit) |
-| **Religion secondaire** | Taciti (Les Silencieux) |
+| **Religion principale** | [[00_Systeme_Religieux\|Noctari]] (Les Voiles de la Nuit) |
+| **Religion secondaire** | [[00_Systeme_Religieux\|Taciti]] (Les Silencieux) |
 | **Culture dominante** | Mystérieuse, rituels secrets, isolationnisme absolu |
 | **Histoire marquante** | L'Invasion Avortée |
 | **Ressources clés** | Inconnues (aucun commerce extérieur) |
@@ -56,11 +56,11 @@ La nature exacte du pouvoir à Nysaria reste inconnue.
 
 ## Religion
 
-### Noctari — Les Voiles de la Nuit (religion dominante)
+### [[00_Systeme_Religieux|Noctari]] — Les Voiles de la Nuit (religion dominante)
 
 Les fragments de texte nysarien déchiffrés révèlent un culte intense de Noctis et d'Umbra. La nuit est sacrée — non pas comme l'absence de lumière, mais comme la présence de la vérité. Les Nysariens semblent croire que le monde visible est un mensonge, et que seule l'obscurité révèle la réalité.
 
-### Taciti — Les Silencieux (religion secondaire)
+### [[00_Systeme_Religieux|Taciti]] — Les Silencieux (religion secondaire)
 
 Le silence est une composante essentielle de la culture nysarienne. Les messages dans les bouteilles ne contiennent jamais de mots parlés — uniquement des symboles et des dessins. Le lien entre Nysaria et Baelor à travers le culte des Taciti intrigue les érudits, mais aucune connexion directe n'a été établie.
 
@@ -82,7 +82,7 @@ De rares contacts ont eu lieu. Des pêcheurs ont parfois trouvé des objets nysa
 
 ## Régions
 
-### Nysaria (N°61)
+### Nysaria
 L'île entière constitue une seule région. Sa géographie exacte est inconnue — les cartes montrent une forme oblongue, mais les navigateurs affirment que l'île semble changer de forme selon l'angle d'approche. Les falaises sont noires, les plages inexistantes, et la végétation commence immédiatement au bord de l'eau.
 
 ---
@@ -92,7 +92,7 @@ L'île entière constitue une seule région. Sa géographie exacte est inconnue 
 ### Nysoris
 *La seule "ville" identifiée sur Nysaria — un ensemble de structures visibles depuis la mer par temps clair. Nysoris semble être construite en pierre noire, avec des tours effilées qui s'élèvent au-dessus de la canopée sombre. Des lumières — ni feu ni magie connue — brillent à ses fenêtres la nuit, d'une couleur violette qui n'existe nulle part ailleurs. Aucun étranger n'a jamais foulé les rues de Nysoris et n'est revenu pour en parler.*
 - Population : Village (estimation)
-- Région : Nysaria (N°61)
+- Région : Nysaria
 
 ---
 

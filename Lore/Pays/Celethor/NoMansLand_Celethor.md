@@ -62,7 +62,7 @@ Beaucoup d'habitants ne restent pas longtemps au même endroit. Ces **errants** 
 
 ## Régions
 
-### No Man's Land Celethor (N°139)
+### No Man's Land Celethor
 Vaste étendue de toundra, de forêts clairsemées et de plaines rocailleuses, coincée entre les territoires d'Astravia, d'Elarian et de Ryldor. Le terrain est difficile mais pas inhabitable — des rivières fournissent de l'eau, des forêts fournissent du bois, et les ruines de l'ancienne civilisation fournissent des matériaux de construction.
 
 ---
@@ -72,47 +72,47 @@ Vaste étendue de toundra, de forêts clairsemées et de plaines rocailleuses, c
 ### Nomiris
 *Le plus grand "village" des Terres Brisées — en réalité un campement semi-permanent de quelques centaines d'âmes, construit dans les ruines d'une ancienne cité. Nomiris est le carrefour commercial officieux du no man's land, où les errants échangent leurs trouvailles. Un marché noir y prospère, vendant tout ce que les nations civilisées interdisent.*
 - Population : Village
-- Région : No Man's Land Celethor (N°139)
+- Région : No Man's Land Celethor
 
 ### Thyldor
 *Forteresse improvisée bâtie par un ancien mercenaire qui s'est autoproclamé "gardien du passage". Thyldor contrôle un défilé étroit entre deux collines et fait payer un péage aux voyageurs. Le "gardien" change régulièrement — le poste est pris par la force aussi souvent qu'il est transmis.*
 - Population : Village
-- Région : No Man's Land Celethor (N°139)
+- Région : No Man's Land Celethor
 
 ### Feylor
 *Hameau de réfugiés d'Astravia — des non-mages qui ont fui la discrimination de la magocratie. Feylor est un endroit étonnamment paisible, organisé selon des principes égalitaires. Les habitants rêvent de bâtir une société juste, loin des mages.*
 - Population : Village
-- Région : No Man's Land Celethor (N°139)
+- Région : No Man's Land Celethor
 
 ### Zyldor
 *Campement de chasseurs spécialisés dans le gibier des Terres Brisées — des cerfs géants, des ours blancs et des créatures plus étranges. Les fourrures et la viande de Zyldor sont échangées contre des outils et des armes à Nomiris.*
 - Population : Village
-- Région : No Man's Land Celethor (N°139)
+- Région : No Man's Land Celethor
 
 ### Zarnith
 *Village de prospecteurs qui fouillent les ruines de l'ancienne civilisation à la recherche d'artefacts. Zarnith est un endroit dangereux — les prospecteurs se disputent les découvertes, et certains artefacts sont instables ou maudits.*
 - Population : Village
-- Région : No Man's Land Celethor (N°139)
+- Région : No Man's Land Celethor
 
 ### Myralor
 *Ermitage fondé par un ancien chaman de Ryldor, banni pour des pratiques jugées hérétiques. Myralor est un lieu de guérison non orthodoxe où les méthodes interdites par Ryldor sont pratiquées ouvertement — avec des résultats parfois miraculeux, parfois catastrophiques.*
 - Population : Village
-- Région : No Man's Land Celethor (N°139)
+- Région : No Man's Land Celethor
 
 ### Valdris
 *Campement militarisé de déserteurs elariens qui ont rompu leur serment de clan. Valdris est une communauté de guerriers sans maître, qui vendent leurs services comme mercenaires. Leur réputation est double : des combattants redoutables mais des alliés imprévisibles.*
 - Population : Village
-- Région : No Man's Land Celethor (N°139)
+- Région : No Man's Land Celethor
 
 ### Eridorn
 *Village de contrebandiers installé le long d'une route secrète reliant Astravia à Elarian. Eridorn fait transiter des marchandises interdites — aethérite non déclarée, fer glaciaire volé, potions de Ryldor. Les autorités des trois pays savent que le village existe mais n'ont pas les moyens de l'atteindre.*
 - Population : Village
-- Région : No Man's Land Celethor (N°139)
+- Région : No Man's Land Celethor
 
 ### Fenorith
 *Le village le plus isolé des Terres Brisées, niché au fond d'une vallée encaissée. Fenorith est habité par des reclus qui ont choisi de couper tout contact avec le monde. Les rares visiteurs qui y parviennent décrivent un endroit étrangement serein — et les habitants refusent de parler de ce qu'ils ont fui.*
 - Population : Village
-- Région : No Man's Land Celethor (N°139)
+- Région : No Man's Land Celethor
 
 ---
 

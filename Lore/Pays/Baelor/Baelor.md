@@ -12,8 +12,8 @@
 | **Localisation** | Île-nation |
 | **Numéro** | 5 |
 | **Gouvernement** | Théocratie monastique |
-| **Religion principale** | Somnium Vigil (La Veille des Rêves) |
-| **Religion secondaire** | Taciti (Les Silencieux) |
+| **Religion principale** | [[00_Systeme_Religieux\|Somnium Vigil]] (La Veille des Rêves) |
+| **Religion secondaire** | [[00_Systeme_Religieux\|Taciti]] (Les Silencieux) |
 | **Culture dominante** | Moines-guerriers, monastères fortifiés, discipline absolue |
 | **Histoire marquante** | La Défense du Monastère de Kethros |
 | **Ressources clés** | Encens rare, parchemins enluminés, herbes de méditation, sel marin, pierre noire |
@@ -57,7 +57,7 @@ Toute communication officielle se fait en langage des signes baelorien — un sy
 
 ## Religion
 
-### Somnium Vigil — La Veille des Rêves (religion dominante)
+### [[00_Systeme_Religieux|Somnium Vigil]] — La Veille des Rêves (religion dominante)
 
 Les moines de Baelor croient que les rêves sont des fenêtres vers la vérité. Somnix envoie des visions pendant le sommeil, Realis ancre ces visions dans le réel, et Aurion illumine leur signification. La pratique de la méditation profonde — aux frontières du sommeil éveillé — est le cœur de la vie monastique.
 
@@ -66,7 +66,7 @@ Les moines de Baelor croient que les rêves sont des fenêtres vers la vérité.
 - **Le Rêve Partagé** : Lors de rituels spéciaux, les moines entrent en méditation collective et partagent un même rêve. Ces rêves communautaires guident les décisions de l'île.
 - **Le Journal Silencieux** : Chaque moine consigne ses rêves dans un journal enluminé — la seule forme d'écriture pratiquée abondamment à Baelor.
 
-### Taciti — Les Silencieux (religion secondaire)
+### [[00_Systeme_Religieux|Taciti]] — Les Silencieux (religion secondaire)
 
 Le culte du silence absolu est la marque distinctive de Baelor. Les Silencieux croient que la voix divine ne peut être entendue que dans le silence le plus total. Parler est un acte de vanité — imposer ses pensées au monde. Le silence est un acte d'humilité — écouter le monde.
 
@@ -89,7 +89,7 @@ L'art de l'enluminure est la seule forme d'expression artistique encouragée à 
 
 ## Régions
 
-### Baelor (N°140)
+### Baelor
 L'île entière constitue une seule région. Des falaises noires au nord, des plages de galets au sud, des collines couvertes de brume au centre. Les monastères sont construits dans les falaises, accessibles uniquement par des escaliers taillés dans la roche ou des ponts suspendus.
 
 ---
@@ -99,12 +99,12 @@ L'île entière constitue une seule région. Des falaises noires au nord, des pl
 ### Baeloris
 *Le principal établissement de l'île — non pas une ville, mais un complexe monastique qui s'étend sur tout le flanc d'une falaise. Baeloris est un labyrinthe de cellules, de salles de méditation, de cours d'entraînement et de bibliothèques, reliées par des passages taillés dans la roche noire. Au sommet, la Salle du Silence — un espace circulaire ouvert au ciel — sert de lieu de rassemblement pour les rituels les plus importants. L'Abbé Suprême y réside.*
 - Population : Village
-- Région : Baelor (N°140)
+- Région : Baelor
 
 ### Thyldris
 *Second monastère de l'île, construit sur un promontoire face à la mer. Thyldris est le bastion des Veilleurs — les moines chargés de la défense côtière. Des postes d'observation sont répartis sur toute la falaise, et les Veilleurs communiquent par un système de drapeaux et de miroirs. C'est ici que les moines-guerriers les plus talentueux perfectionnent leur art.*
 - Population : Village
-- Région : Baelor (N°140)
+- Région : Baelor
 
 ---
 

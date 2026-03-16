@@ -12,8 +12,8 @@
 | **Continent** | Endora |
 | **Numéro** | 34 |
 | **Gouvernement** | Monarchie bardique |
-| **Religion principale** | Cantus Mundi (Le Chant du Monde) |
-| **Religion secondaire** | Somnium Vigil (La Veille des Rêves) |
+| **Religion principale** | [[00_Systeme_Religieux\|Cantus Mundi]] (Le Chant du Monde) |
+| **Religion secondaire** | [[00_Systeme_Religieux\|Somnium Vigil]] (La Veille des Rêves) |
 | **Culture dominante** | Arts, musique, récits épiques, diplomatie par la parole |
 | **Histoire marquante** | Le Chant des Anciens |
 | **Ressources clés** | Instruments de musique, encres rares, parchemins, cristaux de résonance, vins fins |
@@ -55,7 +55,7 @@ Le pouvoir à Thalmaris repose sur la parole et le talent :
 
 ## Religion
 
-### Cantus Mundi — Le Chant du Monde (religion dominante)
+### [[00_Systeme_Religieux|Cantus Mundi]] — Le Chant du Monde (religion dominante)
 
 Les Thalmariens croient que le monde a été créé par un chant — une mélodie primordiale dont chaque note a engendré une montagne, une rivière, un être vivant. Cantor, la divinité suprême du Cantus Mundi, n'est pas représenté sous forme humaine — il est une vibration, une résonance, un son qui traverse toute chose.
 
@@ -64,7 +64,7 @@ Les Thalmariens croient que le monde a été créé par un chant — une mélodi
 - **Le Silence Sacré** : Paradoxalement, le silence est aussi sacré que la musique. Un moment de silence absolu précède chaque performance, pour honorer le vide d'où naît le son.
 - **La Dernière Chanson** : Quand un Thalmarien meurt, sa famille compose une chanson unique qui résume sa vie. Cette chanson est jouée une seule fois lors des funérailles, puis scellée dans les Archives du Chant — une bibliothèque souterraine d'Ostarith.
 
-### Somnium Vigil — La Veille des Rêves (religion secondaire)
+### [[00_Systeme_Religieux|Somnium Vigil]] — La Veille des Rêves (religion secondaire)
 
 Beaucoup de Thalmariens croient que les rêves sont une source d'inspiration divine. Somnix, le gardien des rêves, envoie des visions aux artistes pendant leur sommeil — des mélodies inédites, des histoires jamais racontées, des images jamais peintes. Les bardes les plus talentueux affirment que leurs meilleures œuvres leur sont "dictées" en rêve.
 
@@ -89,22 +89,22 @@ Tous les enfants thalmariens apprennent à chanter, à jouer d'un instrument et 
 
 ## Régions
 
-### Azuralis (N°102)
+### Azuralis
 Région côtière au sud-ouest, baignée par une lumière bleue caractéristique qui a inspiré d'innombrables poèmes. Azuralis est le berceau des arts visuels de Thalmaris — peintres et sculpteurs y puisent leur inspiration.
 
-### Zylar (N°103)
+### Zylar
 Vallée intérieure isolée, connue pour ses propriétés acoustiques exceptionnelles. Les falaises de Zylar amplifient et déforment les sons de manière imprévisible — les bardes y viennent pour tester leurs compositions dans des conditions extrêmes.
 
-### Nalmir (N°104)
+### Nalmir
 Plaines fertiles au centre de Thalmaris, parsemées de villages prospères. Nalmir est le grenier du pays et le berceau des traditions rurales — chansons de moisson, contes du soir, danses populaires.
 
-### Ostaris (N°105)
+### Ostaris
 Région des hautes collines où se trouve la capitale. Ostaris est le cœur politique et culturel de Thalmaris, où se concentrent les académies, les salles de spectacle et les archives.
 
-### Rylthos (N°106)
+### Rylthos
 Région montagneuse au nord, terres rudes habitées par des bardes-guerriers — des musiciens qui ont adapté leur art au combat. Les chants de guerre de Rylthos sont si puissants qu'ils peuvent galvaniser une armée ou terrifier un ennemi.
 
-### Windora (N°107)
+### Windora
 Région venteuse à l'est, où les éoliennes naturelles — des formations rocheuses qui chantent avec le vent — ont inspiré toute une tradition musicale. Les instruments de Windora sont conçus pour capturer et moduler le vent.
 
 ---
@@ -114,107 +114,107 @@ Région venteuse à l'est, où les éoliennes naturelles — des formations roch
 ### Ostarith — Capitale ★
 *La capitale de Thalmaris est une symphonie architecturale. Chaque bâtiment est conçu pour résonner — les toits en forme de cloches, les rues qui canalisent le vent en mélodies, les places publiques dont l'acoustique permet à un murmure d'être entendu de tous. Au centre, le Palais du Chant — une construction de marbre blanc et de cristal de résonance — est le plus grand amphithéâtre couvert d'Hybelior, capable d'accueillir dix mille spectateurs.*
 - Population : Capitale
-- Région : Ostaris (N°105)
+- Région : Ostaris
 
 ### Galdaris
 *Ville académique où se trouve la Grande École des Bardes. Les étudiants y passent sept ans à maîtriser au moins trois arts avant d'obtenir le titre de Barde certifié. Les recalés sont rares mais le déshonneur est si grand que certains quittent Thalmaris plutôt que de l'affronter.*
 - Population : Ville
-- Région : Ostaris (N°105)
+- Région : Ostaris
 
 ### Azuralith
 *Cité portuaire baignée dans une lumière azurée perpétuelle — un phénomène naturel dû à la réfraction des cristaux marins de la côte. Azuralith est le centre des arts visuels : ses ateliers de peinture, de mosaïque et de vitrail sont renommés.*
 - Population : Ville
-- Région : Azuralis (N°102)
+- Région : Azuralis
 
 ### Valornis
 *Ville de marchands d'art où les œuvres de tout Thalmaris sont exposées et échangées. Le Grand Marché de Valornis est un événement culturel autant que commercial — chaque transaction est accompagnée d'une performance.*
 - Population : Ville
-- Région : Azuralis (N°102)
+- Région : Azuralis
 
 ### Galrinor
 *Village de pêcheurs-poètes qui composent des chants au rythme des vagues. La tradition musicale de Galrinor est unique : des mélopées lentes et mélancoliques qui imitent le ressac et racontent les histoires de ceux qui sont partis en mer sans revenir.*
 - Population : Ville
-- Région : Azuralis (N°102)
+- Région : Azuralis
 
 ### Zylarith
 *Unique village de la vallée de Zylar, habité par des acousticiens et des musiciens expérimentaux. Les falaises environnantes servent de salle de concert naturelle, et les compositions créées ici exploitent les échos et les distorsions de la vallée d'une manière que nul autre lieu ne permet.*
 - Population : Ville
-- Région : Zylar (N°103)
+- Région : Zylar
 
 ### Nalmiris
 *Bourg rural au cœur des plaines de Nalmir. Nalmiris est le berceau des chansons populaires — celles que les paysans chantent en travaillant, transmises de génération en génération. Les puristes des académies méprisent ces chants, mais le peuple les adore.*
 - Population : Ville
-- Région : Nalmir (N°104)
+- Région : Nalmir
 
 ### Myrdoris
 *Village de conteurs spécialisés dans les récits d'horreur et les légendes sombres. Les nuits de Myrdoris sont célèbres : les habitants se rassemblent autour d'un feu et se racontent des histoires qui feraient fuir les voyageurs les plus courageux.*
 - Population : Ville
-- Région : Nalmir (N°104)
+- Région : Nalmir
 
 ### Elarinor
 *Cité des danseurs. L'art de la danse à Elarinor n'est pas un divertissement — c'est un langage complet. Les danseurs d'Elarinor peuvent transmettre des messages complexes par le mouvement, et leurs performances rituelles sont considérées comme des actes de magie.*
 - Population : Ville
-- Région : Nalmir (N°104)
+- Région : Nalmir
 
 ### Velrith
 *Village de calligraphes et d'enlumineurs. Les manuscrits de Velrith sont des œuvres d'art — chaque lettre est décorée, chaque page est un tableau. Les commandes d'écriture de Velrith sont si demandées que l'attente peut durer des années.*
 - Population : Ville
-- Région : Nalmir (N°104)
+- Région : Nalmir
 
 ### Faloria
 *Hameau paisible spécialisé dans la fabrication d'encres. Les encres de Faloria sont réputées pour ne jamais s'effacer — une propriété quasi magique qui en fait le matériau d'écriture le plus précieux de Thalmaris.*
 - Population : Ville
-- Région : Nalmir (N°104)
+- Région : Nalmir
 
 ### Rylthoris
 *Ville principale de Rylthos, perchée sur un éperon montagneux. Rylthoris est le bastion des bardes-guerriers — des hommes et des femmes qui manient aussi bien la lame que le luth. Leurs chants de guerre résonnent dans les montagnes lors des entraînements.*
 - Population : Ville
-- Région : Rylthos (N°106)
+- Région : Rylthos
 
 ### Thaloria
 *Forteresse culturelle où les bardes apprennent le Chant de Bataille — une technique vocale capable de galvaniser les alliés et de semer la confusion chez l'ennemi. Les murs de Thaloria portent les inscriptions de chaque chant de guerre composé dans son enceinte.*
 - Population : Ville
-- Région : Rylthos (N°106)
+- Région : Rylthos
 
 ### Galdaroth
 *Village minier où les mineurs chantent en travaillant — non par tradition, mais par nécessité. Les vibrations de certaines mélodies renforcent la roche et préviennent les effondrements. Les chants de mine de Galdaroth sont un savoir technique autant qu'artistique.*
 - Population : Ville
-- Région : Rylthos (N°106)
+- Région : Rylthos
 
 ### Zyldoris
 *Bourg d'altitude connu pour ses chœurs de montagne — des ensembles vocaux qui exploitent les échos des sommets pour créer des harmonies impossibles à reproduire ailleurs. Les performances de Zyldoris attirent des auditeurs de tout Endora.*
 - Population : Ville
-- Région : Rylthos (N°106)
+- Région : Rylthos
 
 ### Nythoria
 *Village de luthiers montagnards qui fabriquent des instruments à partir du bois rare des hauteurs. Les luths de Nythoria sont accordés par le froid — ils sonnent mieux en hiver, quand l'air sec et glacé porte les notes plus loin.*
 - Population : Ville
-- Région : Rylthos (N°106)
+- Région : Rylthos
 
 ### Valorin
 *Avant-poste situé dans un col montagneux, servant à la fois de poste de garde et de relais culturel. Les voyageurs qui passent par Valorin sont invités à partager une histoire ou une chanson en guise de droit de passage.*
 - Population : Ville
-- Région : Rylthos (N°106)
+- Région : Rylthos
 
 ### Windoris
 *Ville principale de Windora, construite autour d'un ensemble de formations rocheuses qui chantent avec le vent. Les habitants ont appris à prédire le temps en écoutant la mélodie des rochers — chaque tonalité correspond à une direction et une force de vent.*
 - Population : Ville
-- Région : Windora (N°107)
+- Région : Windora
 
 ### Faldorin
 *Village d'ingénieurs sonores qui conçoivent des structures capables de capturer et d'amplifier les sons naturels. Les éoliennes musicales de Faldorin alimentent à la fois la ville en énergie et en musique.*
 - Population : Ville
-- Région : Windora (N°107)
+- Région : Windora
 
 ### Belvarin
 *Bourg paisible connu pour ses jardins sonores — des espaces paysagers où chaque plante, chaque fontaine, chaque élément est disposé pour produire une symphonie naturelle. Les malades viennent à Belvarin pour la "guérison par le son".*
 - Population : Ville
-- Région : Windora (N°107)
+- Région : Windora
 
 ### Lythmar
 *Village isolé à l'extrémité orientale de Windora, battu par des vents constants. Les habitants de Lythmar sont des ermites musiciens qui composent dans la solitude. Leurs œuvres, rares et précieuses, sont considérées comme les plus profondes de Thalmaris.*
 - Population : Ville
-- Région : Windora (N°107)
+- Région : Windora
 
 ---
 

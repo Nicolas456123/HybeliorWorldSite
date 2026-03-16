@@ -85,16 +85,16 @@ L'art avaloréen est éphémère par principe. Les sculpteurs travaillent la gla
 
 ## Régions
 
-### Indelite (N°94)
+### Indelite
 Forêt primaire dense et ancienne, considérée comme le cœur spirituel d'Avalor. Les arbres d'Indelite sont si vieux que leurs troncs mesurent parfois vingt mètres de diamètre. C'est ici que vivent les esprits les plus puissants et les plus anciens.
 
-### Crestalia (N°95)
+### Crestalia
 Région de collines boisées et de clairières lumineuses où se trouve la capitale. Crestalia est la partie la plus accessible d'Avalor — le seul endroit où les étrangers sont autorisés à entrer, sous escorte.
 
-### Wildoria (N°96)
+### Wildoria
 Forêt sauvage et indompté au nord, où les esprits sont les plus imprévisibles. Wildoria est le territoire des Gardiens des Lisières et un terrain d'épreuve pour les druides en formation. Les arbres y bougent — lentement, mais visiblement.
 
-### Perival (N°97)
+### Perival
 Vaste région de forêts tempérées et de rivières sinueuses à l'ouest. Perival est la plus peuplée des régions d'Avalor, avec de nombreux villages nichés dans les arbres le long des cours d'eau.
 
 ---
@@ -104,127 +104,127 @@ Vaste région de forêts tempérées et de rivières sinueuses à l'ouest. Periv
 ### Crestalis — Capitale ★
 *La capitale d'Avalor n'est pas une ville — c'est une cathédrale vivante. Des chênes millénaires dont les branches s'entrelacent forment des voûtes naturelles au-dessus de rues de mousse. Le palais de l'Archidruide est un séquoia colossal dont l'intérieur a été sculpté par les esprits eux-mêmes — des salles circulaires, des escaliers en spirale, des fenêtres d'ambre vivant. La nuit, des lucioles et des champignons phosphorescents illuminent la cité d'une lumière douce et verdâtre.*
 - Population : Capitale
-- Région : Crestalia (N°95)
+- Région : Crestalia
 
 ### Mornath
 *Ville ancienne bâtie autour d'un étang sacré dont les eaux reflètent non pas le ciel, mais le monde des esprits. Les druides viennent à Mornath pour les visions les plus profondes. Les bâtiments sont des saules géants dont les branches retombent comme des rideaux.*
 - Population : Ville
-- Région : Crestalia (N°95)
+- Région : Crestalia
 
 ### Nymria
 *Village de guérisseurs où les herboristes cultivent les plantes les plus rares d'Endora. Le jardin de Nymria est un lieu de pèlerinage — on dit que chaque plante y pousse parce qu'un esprit le veut, et que cueillir sans permission provoque des cauchemars.*
 - Population : Ville
-- Région : Crestalia (N°95)
+- Région : Crestalia
 
 ### Velaris
 *Bourg perché dans la canopée, relié aux arbres voisins par des ponts de lianes tressées. Velaris est le centre de formation des Voix — les interprètes des esprits y apprennent leur art pendant des années.*
 - Population : Ville
-- Région : Crestalia (N°95)
+- Région : Crestalia
 
 ### Zorathis
 *Village bâti autour d'un cercle de pierres moussues où les anciens druides tenaient conseil. Zorathis est un lieu de mémoire — les histoires d'Avalor y sont conservées non pas dans des livres, mais dans les racines des arbres, accessibles par méditation.*
 - Population : Ville
-- Région : Crestalia (N°95)
+- Région : Crestalia
 
 ### Indelith
 *Sanctuaire au cœur de la forêt primaire d'Indelite, accessible uniquement à ceux qui ont reçu l'autorisation des esprits. Indelith est le lieu du rituel de sélection de l'Archidruide. Les bâtiments sont des troncs creux si vastes qu'ils abritent des familles entières.*
 - Population : Ville
-- Région : Indelite (N°94)
+- Région : Indelite
 
 ### Valtaris
 *Village d'artisans spécialisés dans le travail du bois enchanté. Les objets créés à Valtaris — bâtons, amulettes, instruments — conservent une parcelle de vie et réagissent aux émotions de leur porteur.*
 - Population : Ville
-- Région : Indelite (N°94)
+- Région : Indelite
 
 ### Feythar
 *Hameau mystérieux où les frontières entre le monde matériel et le monde des esprits sont les plus minces. Les habitants de Feythar vivent avec des esprits visibles à l'œil nu — des silhouettes lumineuses qui dérivent entre les arbres.*
 - Population : Ville
-- Région : Indelite (N°94)
+- Région : Indelite
 
 ### Ralorin
 *Village de bûcherons rituels. Paradoxalement, ce sont les habitants de Ralorin qui abattent les rares arbres morts pour fournir du bois à tout Avalor. Chaque abattage est précédé d'un rituel de trois jours pour s'assurer que l'esprit de l'arbre a bien quitté son hôte.*
 - Population : Ville
-- Région : Indelite (N°94)
+- Région : Indelite
 
 ### Wildaris
 *Bastion des Gardiens des Lisières, construit dans et autour d'un bosquet de chênes guerriers — des arbres dont les branches se meuvent pour frapper les intrus. Wildaris est la première ligne de défense d'Avalor.*
 - Population : Ville
-- Région : Wildoria (N°96)
+- Région : Wildoria
 
 ### Ryndaris
 *Village de druides combattants, où l'art de la guerre est enseigné en harmonie avec la nature. Les guerriers de Ryndaris ne portent pas d'armure de métal — ils utilisent une résine d'arbre enchantée, aussi dure que l'acier mais légère comme le cuir.*
 - Population : Ville
-- Région : Wildoria (N°96)
+- Région : Wildoria
 
 ### Feylinor
 *Hameau isolé au cœur de Wildoria, habité par des ermites qui ont choisi de vivre seuls avec les esprits. Feylinor n'a pas de rues — chaque habitant vit dans un arbre différent, parfois à des centaines de mètres les uns des autres.*
 - Population : Ville
-- Région : Wildoria (N°96)
+- Région : Wildoria
 
 ### Krylnor
 *Village frontalier où les arbres sont plus agressifs que nulle part ailleurs. Les habitants de Krylnor ont développé une relation unique avec les esprits de combat — des entités protectrices mais violentes qui défendent le territoire avec une férocité terrifiante.*
 - Population : Ville
-- Région : Wildoria (N°96)
+- Région : Wildoria
 
 ### Thalor
 *Bourg forestier construit autour d'une cascade dont les eaux sont si pures qu'elles révèlent les illusions. Quiconque boit l'eau de Thalor voit le monde tel qu'il est pendant une journée — une expérience qui peut être libératrice ou traumatisante.*
 - Population : Ville
-- Région : Wildoria (N°96)
+- Région : Wildoria
 
 ### Zyldrin
 *Petit village de chasseurs-cueilleurs qui vivent selon les préceptes les plus stricts du Pacte des Sylves. Zyldrin ne prend à la forêt que ce qui tombe naturellement — fruits, noix, bois mort. Leurs habitants sont considérés comme les plus pieux d'Avalor.*
 - Population : Ville
-- Région : Wildoria (N°96)
+- Région : Wildoria
 
 ### Perivalis
 *Ville principale de Perival, construite le long d'une rivière paresseuse. Perivalis est le centre commercial d'Avalor — le seul endroit où les marchands étrangers peuvent échanger leurs biens contre du bois enchanté, des herbes et des cristaux.*
 - Population : Ville
-- Région : Perival (N°97)
+- Région : Perival
 
 ### Valarion
 *Cité lacustre dont les maisons flottent sur des radeaux de bois vivant, ancrés aux arbres de la rive. Valarion est célèbre pour ses fêtes nocturnes où les lucioles forment des constellations mouvantes au-dessus de l'eau.*
 - Population : Ville
-- Région : Perival (N°97)
+- Région : Perival
 
 ### Ryndar
 *Village de pêcheurs fluviaux qui utilisent des filets tissés à partir de toiles d'araignée géante. Les poissons de Ryndar sont nourris par les esprits de l'eau et considérés comme sacrés — seule une partie de chaque prise est consommée, le reste est rendu à la rivière.*
 - Population : Ville
-- Région : Perival (N°97)
+- Région : Perival
 
 ### Galdorin
 *Bourg paisible spécialisé dans la production de miel sylvestre. Les abeilles d'Avalor sont liées à des esprits mineurs qui les guident vers les meilleures fleurs. Le miel de Galdorin a des propriétés curatives reconnues dans tout Endora.*
 - Population : Ville
-- Région : Perival (N°97)
+- Région : Perival
 
 ### Thyloria
 *Village de tisserands qui créent des étoffes à partir de fibres végétales enchantées. Les vêtements de Thyloria changent de couleur avec les saisons — verts au printemps, dorés en automne, blancs en hiver.*
 - Population : Ville
-- Région : Perival (N°97)
+- Région : Perival
 
 ### Myrthos
 *Hameau de musiciens où l'on fabrique les instruments vivants d'Avalor. Les flûtes de Myrthos jouent des mélodies différentes selon l'humeur de celui qui souffle — parfois, elles jouent seules, quand un esprit le souhaite.*
 - Population : Ville
-- Région : Perival (N°97)
+- Région : Perival
 
 ### Zyloris
 *Village de cartographes qui dessinent non pas la géographie mais les courants d'énergie spirituelle. Les cartes de Zyloris sont incompréhensibles pour les étrangers mais indispensables pour naviguer en Avalor sans offenser les esprits.*
 - Population : Ville
-- Région : Perival (N°97)
+- Région : Perival
 
 ### Velthorn
 *Bourg fortifié par la nature elle-même — un cercle de ronces géantes protège Velthorn des intrus. Le village est spécialisé dans la culture de plantes défensives : orties paralysantes, vignes étrangleuses, fleurs soporifiques.*
 - Population : Ville
-- Région : Perival (N°97)
+- Région : Perival
 
 ### Vyndarin
 *Village de sages et de philosophes qui étudient la nature de la conscience des esprits. Vyndarin possède la seule bibliothèque d'Avalor — non pas de livres, mais d'arbres dont les anneaux de croissance encodent des connaissances.*
 - Population : Ville
-- Région : Perival (N°97)
+- Région : Perival
 
 ### Fandor
 *Le village le plus méridional d'Avalor, situé à la lisière de la forêt. Fandor sert de poste d'accueil pour les rares visiteurs autorisés. Les habitants sont les plus cosmopolites d'Avalor — certains ont même voyagé hors de la forêt.*
 - Population : Ville
-- Région : Perival (N°97)
+- Région : Perival
 
 ---
 

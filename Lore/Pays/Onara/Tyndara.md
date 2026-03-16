@@ -85,19 +85,19 @@ La cuisine tyndarienne est un mélange de toutes les cuisines du monde — des �
 
 ## Régions
 
-### Eryndor (N°119)
+### Eryndor
 Côte nord de Tyndara, battue par les vents et les tempêtes. Eryndor est le territoire des pêcheurs et des constructeurs de navires — des gens rudes mais loyaux.
 
-### Porthar (N°120)
+### Porthar
 Région portuaire centrale, cœur commercial de Tyndara. Les plus grands ports et entrepôts se trouvent à Porthar, ainsi que les sièges des principales guildes.
 
-### Celnar (N°121)
+### Celnar
 Arrière-pays vallonné, terre agricole et viticole. Celnar fournit la nourriture et le vin qui alimentent les ports. Plus calme et traditionnel que le reste du pays.
 
-### Fablior (N°122)
+### Fablior
 Région sud, siège de la capitale. Fablior est le centre politique et culturel de Tyndara — un lieu de luxe, de fêtes et de diplomatie.
 
-### Ralmeria (N°137)
+### Ralmeria
 Région insulaire au large de la côte, composée de plusieurs îles. Ralmeria est la zone de pêche la plus riche de Tyndara et un refuge pour ceux qui cherchent la tranquillité loin de l'agitation des ports.
 
 ---
@@ -107,87 +107,87 @@ Région insulaire au large de la côte, composée de plusieurs îles. Ralmeria e
 ### Fablioris — Capitale ★
 *La capitale de Tyndara est un festin pour les sens. Des palais de marbre blanc bordent des canaux où glissent des gondoles décorées. Les marchés débordent de soie, d'épices, de bijoux et de merveilles exotiques rapportées des quatre coins d'Hybelior. Le Palais de l'Archonte, construit sur une île artificielle, est un chef-d'œuvre d'architecture — ses dômes dorés brillent au soleil et ses jardins suspendus rivalisent avec ceux d'Avalor. La nuit, les lanternes des tavernes et des maisons de plaisir transforment la ville en un océan de lumière.*
 - Population : Capitale
-- Région : Fablior (N°122)
+- Région : Fablior
 
 ### Thyldrin
 *Ville bancaire où se trouve la Banque des Guildes — l'institution financière la plus puissante d'Onara. Les coffres de Thyldrin contiennent les réserves d'or de Tyndara, protégées par des serrures mécaniques et des gardes incorruptibles. Chaque transaction majeure de Tyndara passe par Thyldrin.*
 - Population : Ville
-- Région : Fablior (N°122)
+- Région : Fablior
 
 ### Galoris
 *Ville festive célèbre pour ses carnavals annuels. Galoris attire des visiteurs de tout Hybelior avec ses parades, ses bals masqués et ses concours gastronomiques. Derrière les festivités, c'est aussi un lieu de rencontres diplomatiques discrètes.*
 - Population : Ville
-- Région : Fablior (N°122)
+- Région : Fablior
 
 ### Eryndoris
 *Ville portuaire du nord, premier port de pêche de Tyndara. Eryndoris est rude et travailleuse — ses habitants méprisent le luxe de Fablioris et se considèrent comme les vrais Tyndariens. Le poisson d'Eryndoris nourrit la moitié du pays.*
 - Population : Ville
-- Région : Eryndor (N°119)
+- Région : Eryndor
 
 ### Thalorn
 *Village de constructeurs de navires, installé au bord d'une baie abritée. Les chantiers de Thalorn produisent les caravelles les plus rapides de la flotte — des bâtiments élancés, construits en bois d'Endora et calfatés avec une résine secrète.*
 - Population : Ville
-- Région : Eryndor (N°119)
+- Région : Eryndor
 
 ### Vyndris
 *Hameau de cartographes et de navigateurs. Les cartes marines de Vyndris sont les plus précises d'Hybelior — chaque courant, chaque récif, chaque banc de sable y est consigné. Posséder une carte de Vyndris est un avantage stratégique considérable.*
 - Population : Ville
-- Région : Eryndor (N°119)
+- Région : Eryndor
 
 ### Portharis
 *Le plus grand port de Tyndara, capable d'accueillir deux cents navires simultanément. Portharis est un carrefour mondial — on y entend toutes les langues, on y sent toutes les épices, on y voit toutes les couleurs. Les entrepôts de Portharis contiennent des marchandises venues de chaque continent.*
 - Population : Ville
-- Région : Porthar (N°120)
+- Région : Porthar
 
 ### Zyndris
 *Ville d'enchères où les cargaisons rares sont vendues aux plus offrants. Les ventes de Zyndris sont des événements — les marchands s'y affrontent à coups de fortunes pour des lots d'épices, de soie ou de cristaux. Les prix fixés à Zyndris déterminent les cours du marché mondial.*
 - Population : Ville
-- Région : Porthar (N°120)
+- Région : Porthar
 
 ### Thaloris
 *Village de douaniers et d'inspecteurs. Thaloris contrôle les marchandises qui entrent et sortent de Tyndara — une position qui rend ses habitants à la fois respectés et détestés. La contrebande est un problème constant.*
 - Population : Ville
-- Région : Porthar (N°120)
+- Région : Porthar
 
 ### Celnaris
 *Bourg viticole au cœur de l'arrière-pays. Les vignobles de Celnaris produisent le meilleur vin de Tyndara — un blanc sec et fruité qui accompagne les fruits de mer. Les caves de Celnaris contiennent des millésimes vieux de plusieurs siècles.*
 - Population : Ville
-- Région : Celnar (N°121)
+- Région : Celnar
 
 ### Ryldorath
 *Village agricole spécialisé dans la culture d'herbes aromatiques et d'épices adaptées au climat d'Onara. Les cuisiniers de tout Tyndara s'approvisionnent à Ryldorath pour leurs mélanges les plus recherchés.*
 - Population : Ville
-- Région : Celnar (N°121)
+- Région : Celnar
 
 ### Cryslor
 *Ville principale de Ralmeria, construite sur la plus grande île de l'archipel. Cryslor est un port de pêche paisible mais prospère, entouré d'eaux turquoise riches en poissons et en perles. Les plongeurs de Cryslor récoltent des perles noires d'une beauté rare.*
 - Population : Ville
-- Région : Ralmeria (N°137)
+- Région : Ralmeria
 
 ### Thalorin
 *Village de pêcheurs sur une île secondaire, spécialisé dans la pêche au thon géant. Les bateaux de Thalorin sont petits mais leurs équipages sont les plus courageux de l'archipel — la pêche au thon géant est mortellement dangereuse.*
 - Population : Ville
-- Région : Ralmeria (N°137)
+- Région : Ralmeria
 
 ### Vyndor
 *Hameau isolé sur une île volcanique. Vyndor est un lieu de villégiature pour les marchands les plus riches — les sources chaudes volcaniques et les plages de sable noir en font un paradis discret.*
 - Population : Ville
-- Région : Ralmeria (N°137)
+- Région : Ralmeria
 
 ### Galdor
 *Village de sauniers qui récoltent le sel dans des marais salants naturels. Le sel de Galdor est exporté dans tout Onara — un produit essentiel pour la conservation des aliments et le traitement du cuir.*
 - Population : Ville
-- Région : Ralmeria (N°137)
+- Région : Ralmeria
 
 ### Myrath
 *Petit port de commerce servant de relais entre Ralmeria et le continent. Myrath est le point de passage obligé pour toutes les marchandises de l'archipel. Son auberge, "Le Vent Favorable", est célèbre pour son ragoût de fruits de mer.*
 - Population : Ville
-- Région : Ralmeria (N°137)
+- Région : Ralmeria
 
 ### Zyloria
 *Village le plus éloigné de l'archipel, situé sur un îlot battu par les vagues. Zyloria est habitée par des gardiens de phare et des ermites. Son phare, le plus haut de Tyndara, guide les navires dans les eaux dangereuses de l'archipel.*
 - Population : Ville
-- Région : Ralmeria (N°137)
+- Région : Ralmeria
 
 ---
 

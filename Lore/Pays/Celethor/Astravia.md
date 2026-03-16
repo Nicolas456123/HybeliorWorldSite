@@ -87,13 +87,13 @@ Environ un tiers de la population n'a aucune aptitude magique. Ces "Ancrés" —
 
 ## Régions
 
-### Inverna (N°108)
+### Inverna
 Haute vallée montagneuse où se trouve la capitale. Inverna est le cœur magique d'Astravia — les gisements d'aethérite les plus riches se trouvent dans ses montagnes, et les îles volantes les plus anciennes flottent au-dessus de ses pics.
 
-### Brastallia (N°109)
+### Brastallia
 Région de plateaux et de forêts d'altitude au sud. Brastallia est la terre agricole d'Astravia — ses terrasses cultivées par magie produisent des récoltes abondantes. C'est aussi la région la plus peuplée par les non-mages.
 
-### Lysoria (N°110)
+### Lysoria
 Zone de collines et de lacs au nord-est, connue pour ses brumes permanentes et ses phénomènes magiques spontanés. Lysoria est le terrain d'expérimentation favori des mages — et le plus dangereux.
 
 ---
@@ -103,67 +103,67 @@ Zone de collines et de lacs au nord-est, connue pour ses brumes permanentes et s
 ### Invernis — Capitale ★
 *La capitale d'Astravia est à moitié terrestre, à moitié céleste. La ville basse, construite dans une vallée abritée, abrite les marchés, les ateliers et les habitations des non-mages. Au-dessus, reliée par des piliers de lumière cristallisée, flotte la ville haute — un archipel d'îles volantes où siègent le Magistère, le Conseil des Archimages et les académies de magie. De nuit, les cristaux d'aethérite qui soutiennent les îles émettent une lueur bleue qui baigne toute la vallée.*
 - Population : Capitale
-- Région : Inverna (N°108)
+- Région : Inverna
 
 ### Ryndorin
 *Ville académique perchée sur un plateau, abritant l'Académie des Vents — l'école de magie aérienne la plus prestigieuse d'Hybelior. Les étudiants y apprennent à voler, à manipuler les courants d'air et à créer des boucliers atmosphériques.*
 - Population : Ville
-- Région : Inverna (N°108)
+- Région : Inverna
 
 ### Galdryn
 *Cité minière souterraine où l'aethérite est extraite avec une précaution extrême. Chaque cristal est mesuré, catalogué et attribué. Le vol d'aethérite est le crime le plus sévèrement puni en Astravia — la peine est le bannissement permanent.*
 - Population : Ville
-- Région : Inverna (N°108)
+- Région : Inverna
 
 ### Aeloria
 *Village de chercheurs situé au bord du cratère de Caelum Prima. Aeloria est un lieu de pèlerinage et d'étude — les mages y analysent les résidus de la Chute, espérant comprendre ce qui a mal tourné et s'assurer que cela ne se reproduira pas.*
 - Population : Ville
-- Région : Inverna (N°108)
+- Région : Inverna
 
 ### Vyndrith
 *Petit bourg artisanal spécialisé dans la fabrication de cristaux de communication — des dispositifs qui permettent de transmettre la voix à distance. Les cristaux de Vyndrith sont exportés dans tout Celethor.*
 - Population : Ville
-- Région : Inverna (N°108)
+- Région : Inverna
 
 ### Brastoris
 *Ville principale de Brastallia, centre agricole et commercial. Brastoris est le marché central d'Astravia, où les produits des fermes enchantées sont échangés contre des cristaux et des artefacts. C'est aussi le bastion des Fils du Sol.*
 - Population : Ville
-- Région : Brastallia (N°109)
+- Région : Brastallia
 
 ### Thorindal
 *Village fortifié à la lisière d'une forêt d'altitude. Thorindal protège les routes commerciales entre Astravia et les pays voisins. Sa garnison est composée de mages-guerriers et de soldats non-mages — une coopération rare et exemplaire.*
 - Population : Ville
-- Région : Brastallia (N°109)
+- Région : Brastallia
 
 ### Valthara
 *Bourg pastoral où les bergers utilisent de petits cristaux d'aethérite pour guider leurs troupeaux. Valthara est connue pour son fromage de montagne, affiné dans des grottes où la magie résiduelle donne au lait un goût unique.*
 - Population : Ville
-- Région : Brastallia (N°109)
+- Région : Brastallia
 
 ### Zyldoria
 *Village de tisserands qui créent des étoffes imprégnées de magie — des capes qui repoussent la pluie, des gants qui réchauffent par eux-mêmes, des bottes qui allègent le pas. Les vêtements de Zyldoria sont prisés par les voyageurs.*
 - Population : Ville
-- Région : Brastallia (N°109)
+- Région : Brastallia
 
 ### Nythorin
 *Hameau isolé au fond d'une vallée, habité par des mages retraités qui ont choisi la solitude. Nythorin est un lieu de réflexion et de méditation — les anciens y partagent leur savoir avec les rares visiteurs jugés dignes.*
 - Population : Ville
-- Région : Brastallia (N°109)
+- Région : Brastallia
 
 ### Lysoris
 *Ville principale de Lysoria, construite au bord d'un lac dont les eaux reflètent non pas le ciel mais des images du passé. Lysoris est le centre de recherche en divination et en chronomagie — des disciplines dangereuses mais fascinantes.*
 - Population : Ville
-- Région : Lysoria (N°110)
+- Région : Lysoria
 
 ### Feyndor
 *Village de brume où les phénomènes magiques spontanés sont quotidiens — objets qui lévitent, voix sans source, illusions éphémères. Les habitants de Feyndor s'y sont habitués, mais les visiteurs trouvent l'endroit profondément perturbant.*
 - Population : Ville
-- Région : Lysoria (N°110)
+- Région : Lysoria
 
 ### Valtheron
 *Avant-poste de recherche fortifié, construit autour d'une anomalie magique permanente — un vortex d'énergie qui pulse comme un cœur. Les mages de Valtheron l'étudient depuis des décennies sans comprendre sa nature. Certains pensent que c'est un fragment de Caelum Prima.*
 - Population : Ville
-- Région : Lysoria (N°110)
+- Région : Lysoria
 
 ---
 
