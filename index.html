@@ -768,6 +768,10 @@
             <button id="toggleText"><span class="icon">&#x1F520;</span> Textes</button>
             <button id="toggleBorders"><span class="icon">&#x1F5FA;</span> Frontières</button>
             <button id="toggleWrapping"><span class="icon">&#x1F310;</span> Mode infini</button>
+            <div class="grid-controls" style="margin-top:6px">
+                <label for="clickZoomRange">Zoom clic <span id="clickZoomValue">100%</span></label>
+                <input type="range" id="clickZoomRange" min="50" max="200" value="100" step="10">
+            </div>
         </div>
 
         <!-- Outils -->
@@ -845,9 +849,9 @@
     const CONFIG = {
         worldWidthKm: 1000,
         csvFiles: [
-            { path: "./Data/DT_Continents.csv", fontSize: "0.03", storage: "continentsElements", xOffset: 0.03, yOffset: 0.02, zoomRange: [0, 2] },
-            { path: "./Data/DT_Pays.csv", fontSize: "0.01", storage: "paysElements", xOffset: 0.015, yOffset: 0.01, zoomRange: [2, 4] },
-            { path: "./Data/DT_Region.csv", fontSize: "0.004", storage: "regionElements", xOffset: 0.005, yOffset: 0.002, zoomRange: [4, 10] },
+            { path: "./Data/DT_Continents.csv", fontSize: "0.03", storage: "continentsElements", xOffset: 0, yOffset: 0, zoomRange: [0, 2] },
+            { path: "./Data/DT_Pays.csv", fontSize: "0.01", storage: "paysElements", xOffset: 0, yOffset: 0, zoomRange: [2, 4] },
+            { path: "./Data/DT_Region.csv", fontSize: "0.004", storage: "regionElements", xOffset: 0, yOffset: 0, zoomRange: [4, 10] },
             { path: "./Data/DT_Capitales.csv", fontSize: "0.0015", storage: "capitalesElements", xOffset: 0, yOffset: -0.002, showMarker: true, zoomRange: [10, Infinity] },
             { path: "./Data/DT_Cites.csv", fontSize: "0.0011", storage: "citesElements", xOffset: 0, yOffset: -0.0015, showMarker: true, zoomRange: [14, Infinity] },
             { path: "./Data/DT_Villes.csv", fontSize: "0.0006", storage: "villesElements", xOffset: 0, yOffset: -0.0014, showMarker: true, zoomRange: [16, Infinity] },
@@ -1041,6 +1045,11 @@
         document.getElementById('toggleText').addEventListener('click', toggleTextVisibility);
         document.getElementById('toggleBorders').addEventListener('click', toggleBorders);
         document.getElementById('toggleWrapping').addEventListener('click', toggleWrapping);
+        document.getElementById('clickZoomRange').addEventListener('input', (e) => {
+            const pct = parseInt(e.target.value);
+            clickZoomMultiplier = 1.5 * (pct / 100); // 100% = 1.5x, 50% = 0.75x, 200% = 3x
+            document.getElementById('clickZoomValue').textContent = pct + '%';
+        });
         document.getElementById('measureDistance').addEventListener('click', () => startMeasure('distance'));
         document.getElementById('measureArea').addEventListener('click', () => startMeasure('area'));
         document.getElementById('toggleEditor').addEventListener('click', toggleEditor);
@@ -1605,9 +1614,10 @@
     // Référence: pays (fontSize=0.01) à zoom 3 sur écran 1280px → constante = 0.03
     const VISUAL_SIZE_REF = 0.03;
     const REF_WIDTH = 1280;
+    let clickZoomMultiplier = 1.5; // défaut: 1.5x plus zoomé qu'avant
     function getTargetZoom(fontSize) {
-        // Zoom OSD ajusté à la largeur courante
-        const visualZoom = VISUAL_SIZE_REF / fontSize;
+        // Zoom OSD ajusté à la largeur courante, avec multiplicateur réglable
+        const visualZoom = (VISUAL_SIZE_REF / fontSize) * clickZoomMultiplier;
         const osdZoom = visualZoom * REF_WIDTH / viewer.container.clientWidth;
         return Math.min(osdZoom, viewer.viewport.getMaxZoom());
     }
@@ -1616,37 +1626,10 @@
         return osdZoom * viewer.container.clientWidth / REF_WIDTH;
     }
 
-    // Pan so that the point is centered in the visible area left of the info panel
+    // Pan so that the point is centered on screen
     function panToWithPanelOffset(point, targetZoom) {
-        const panel = document.querySelector('.info-panel');
-        if (!panel || panel.style.display === 'none') {
-            if (targetZoom) viewer.viewport.zoomTo(targetZoom);
-            viewer.viewport.panTo(point);
-            return;
-        }
-        const zoom = targetZoom || viewer.viewport.getZoom();
-        const containerWidth = viewer.container.clientWidth;
-        const isMobile = window.innerWidth <= 600;
-
-        let adjusted;
-        if (isMobile) {
-            // Panel en bas → décaler le point vers le haut
-            const panelHeight = window.innerHeight * 0.55;
-            const shiftPx = panelHeight / 2;
-            // OSD viewport Y : même échelle que X (basée sur image width)
-            const shiftViewport = shiftPx / (zoom * containerWidth);
-            adjusted = new OpenSeadragon.Point(point.x, point.y + shiftViewport);
-        } else {
-            // Panel à droite → décaler horizontalement
-            const panelEl = panel.getBoundingClientRect();
-            const panelPx = panelEl.width + 12;
-            const shiftPx = panelPx / 2;
-            const shiftViewport = shiftPx / (zoom * containerWidth);
-            adjusted = new OpenSeadragon.Point(point.x + shiftViewport, point.y);
-        }
-
         if (targetZoom) viewer.viewport.zoomTo(targetZoom);
-        viewer.viewport.panTo(adjusted);
+        viewer.viewport.panTo(point);
     }
 
     function navigateToPlace(name) {
@@ -1792,7 +1775,10 @@
         Object.values(elementStorage).forEach(elements => {
             elements.forEach(element => {
                 const [minZoom, maxZoom] = element.zoomRange;
-                const inZoomRange = visualZoom >= minZoom && visualZoom < maxZoom;
+                // Ajuster les seuils de visibilité selon le multiplicateur de zoom clic
+                const adjMin = minZoom * clickZoomMultiplier;
+                const adjMax = maxZoom * clickZoomMultiplier;
+                const inZoomRange = visualZoom >= adjMin && visualZoom < adjMax;
 
                 if (!inZoomRange) {
                     if (element._visible !== false) {
@@ -2121,8 +2107,10 @@
             const textWidth = dragEl.name.length * fontSize * 0.6;
             const textHeight = fontSize * 1.1;
 
-            dragMarker.setAttribute("cx", newPt.x);
-            dragMarker.setAttribute("cy", newPt.y);
+            if (dragMarker.tagName === 'circle') {
+                dragMarker.setAttribute("cx", newPt.x);
+                dragMarker.setAttribute("cy", newPt.y);
+            }
 
             dragEl.texts.forEach(t => {
                 if (t.tagName === 'text') {
@@ -2141,7 +2129,7 @@
         function onPointerUp(evt) {
             if (!dragEl) return;
             dragMarker.setAttribute("cursor", "grab");
-            dragMarker.setAttribute("fill", "#c9a84c");
+            if (dragMarker.tagName === 'circle') dragMarker.setAttribute("fill", "#c9a84c");
             dragMarker.releasePointerCapture(evt.pointerId);
             // Auto-save
             const csvX = dragEl.coord.x * 1047 - 527.5;
@@ -2159,34 +2147,41 @@
             document.removeEventListener('pointerup', onPointerUp, true);
         }});
 
-        // Attach pointerdown to all marker circles
+        // Attach pointerdown to all draggable elements (markers or rects)
         CONFIG.csvFiles.forEach(config => {
-            if (!config.showMarker) return;
             const storage = elementStorage[config.storage];
             if (!storage) return;
 
             storage.forEach(el => {
-                if (!el.markers || el.markers.length === 0) return;
-                const mainMarker = el.markers[0];
-                mainMarker.setAttribute("pointer-events", "all");
-                mainMarker.setAttribute("cursor", "grab");
-                mainMarker.style.touchAction = "none";
+                // Use marker circle if available, otherwise use first rect (for continents/pays/regions)
+                let handle;
+                if (el.markers && el.markers.length > 0) {
+                    handle = el.markers[0];
+                } else if (el.rects && el.rects.length > 0) {
+                    handle = el.rects[0];
+                } else {
+                    return;
+                }
+
+                handle.setAttribute("pointer-events", "all");
+                handle.setAttribute("cursor", "grab");
+                handle.style.touchAction = "none";
 
                 function onPointerDown(evt) {
                     if (!editorMode) return;
                     evt.preventDefault();
                     evt.stopPropagation();
                     dragEl = el;
-                    dragMarker = mainMarker;
-                    mainMarker.setAttribute("cursor", "grabbing");
-                    mainMarker.setAttribute("fill", "#e74c3c");
-                    mainMarker.setPointerCapture(evt.pointerId);
+                    dragMarker = handle;
+                    handle.setAttribute("cursor", "grabbing");
+                    if (handle.tagName === 'circle') handle.setAttribute("fill", "#e74c3c");
+                    handle.setPointerCapture(evt.pointerId);
                     viewer.setMouseNavEnabled(false);
                 }
 
-                mainMarker.addEventListener('pointerdown', onPointerDown);
+                handle.addEventListener('pointerdown', onPointerDown);
                 editorTrackers.push({ destroy: function() {
-                    mainMarker.removeEventListener('pointerdown', onPointerDown);
+                    handle.removeEventListener('pointerdown', onPointerDown);
                 }});
             });
         });
@@ -2200,17 +2195,22 @@
         editorTrackers.forEach(t => t.destroy());
         editorTrackers = [];
 
-        // Reset marker styles
+        // Reset marker/rect styles
         CONFIG.csvFiles.forEach(config => {
-            if (!config.showMarker) return;
             const storage = elementStorage[config.storage];
             if (!storage) return;
             storage.forEach(el => {
-                if (!el.markers) return;
-                el.markers.forEach(m => {
-                    m.setAttribute("pointer-events", "none");
-                    m.removeAttribute("cursor");
-                });
+                if (el.markers) {
+                    el.markers.forEach(m => {
+                        m.setAttribute("pointer-events", "none");
+                        m.removeAttribute("cursor");
+                    });
+                }
+                if (!config.showMarker && el.rects) {
+                    el.rects.forEach(r => {
+                        r.removeAttribute("cursor");
+                    });
+                }
             });
         });
     }
