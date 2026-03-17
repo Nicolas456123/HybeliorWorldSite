@@ -11,8 +11,8 @@
 |---|---|
 | **Continent** | Alkaran |
 | **Gouvernement** | Théocratie tribale |
-| **Religion principale** | [[00_Systeme_Religieux\|Foedus Animae]] (Le Pacte des Âmes) |
-| **Religion secondaire** | [[00_Systeme_Religieux\|Vael'Kurash]] (Culte des Esprits Anciens) |
+| **Religion principale** | Foedus Animae (Le Pacte des Âmes) |
+| **Religion secondaire** | Vael'Kurash (Culte des Esprits Anciens) |
 | **Culture dominante** | Nomade, culte des éléments et des esprits, survie en milieu hostile |
 | **Histoire marquante** | L'Unification sous le Grand Cham |
 | **Ressources clés** | Bétail, herbes médicinales, cuir, sel, encens sacré |
@@ -55,7 +55,7 @@ Le système fonctionne parce que le Grand Cham ne prend jamais parti entre tribu
 
 ## Religion
 
-### [[00_Systeme_Religieux|Foedus Animae]] — Le Pacte des Âmes (religion dominante)
+### Foedus Animae — Le Pacte des Âmes (religion dominante)
 
 Les Torkamites croient fermement que les morts ne disparaissent pas. Les âmes des ancêtres sont "négociées" par des forces invisibles — honorées correctement, elles protègent les vivants. Négligées, elles deviennent des esprits errants dangereux.
 
@@ -64,9 +64,9 @@ Les Torkamites croient fermement que les morts ne disparaissent pas. Les âmes d
 - **Les Offrandes de Cendres** : Les morts sont incinérés et leurs cendres mêlées à l'encens. Brûler cet encens sacré "nourrit" l'âme du défunt.
 - **L'Interdit de l'Oubli** : Oublier le nom d'un ancêtre est le pire péché. Les chamans maintiennent des registres oraux remontant à des dizaines de générations.
 
-### [[00_Systeme_Religieux|Vael'Kurash]] — Le Culte des Esprits Anciens (religion secondaire)
+### Vael'Kurash — Le Culte des Esprits Anciens (religion secondaire)
 
-Beaucoup de Torkamites mêlent le [[00_Systeme_Religieux|Foedus Animae]] avec une vénération des esprits de la nature — les esprits du vent qui guident les caravanes, les esprits de l'eau qui révèlent les oasis cachées, les esprits de la pierre qui protègent les campements.
+Beaucoup de Torkamites mêlent le Foedus Animae avec une vénération des esprits de la nature — les esprits du vent qui guident les caravanes, les esprits de l'eau qui révèlent les oasis cachées, les esprits de la pierre qui protègent les campements.
 
 Ce syncrétisme est naturel et non conflictuel. Pour un Torkamite, les esprits des ancêtres et les esprits de la nature sont simplement différents types de présences bienveillantes.
 

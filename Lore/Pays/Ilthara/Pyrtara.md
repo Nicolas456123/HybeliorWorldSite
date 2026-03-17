@@ -11,8 +11,8 @@
 |---|---|
 | **Continent** | Ilthara |
 | **Gouvernement** | Dictature militaire |
-| **Religion principale** | [[00_Systeme_Religieux\|Ignis Aeternum]] (Le Feu Éternel) |
-| **Religion secondaire** | [[00_Systeme_Religieux\|Lex Petra]] (La Loi de Pierre) |
+| **Religion principale** | Ignis Aeternum (Le Feu Éternel) |
+| **Religion secondaire** | Lex Petra (La Loi de Pierre) |
 | **Culture dominante** | Discipline militaire, survie en milieu volcanique, culte de la force |
 | **Histoire marquante** | La Grande Éruption |
 | **Ressources clés** | Obsidienne, soufre, métaux volcaniques, pierres ignées, cendres fertilisantes |
@@ -59,7 +59,7 @@ Le Haut Commandant actuel est **Varketh l'Indomptable**, un homme massif couvert
 
 ## Religion
 
-### [[00_Systeme_Religieux|Ignis Aeternum]] — Le Feu Éternel (religion officielle)
+### Ignis Aeternum — Le Feu Éternel (religion officielle)
 
 Les Pyrtariens vénèrent le feu comme la lumière primordiale de l'existence. Pour eux, Eldoria — la flamme divine — brûle au cœur de chaque volcan, et les éruptions sont sa respiration. Le feu n'est ni bon ni mauvais ; il est pur. Il consume le faible et forge le fort.
 
@@ -70,7 +70,7 @@ Les rituels d'Ignis Aeternum sont centrés sur la forge :
 - **L'Épreuve de la Flamme** (passage à l'âge adulte) — Chaque jeune de quinze ans doit marcher pieds nus sur un lit de braises. Ceux qui traversent sans crier sont accueillis comme adultes ; ceux qui crient doivent recommencer.
 - **La Forge du Serment** — Tout engagement solennel (mariage, promotion militaire, alliance) est scellé en plongeant les mains dans un brasier rituel. Les prêtres appliquent un onguent protecteur, mais les brûlures légères sont considérées comme le sceau d'Eldoria.
 
-### [[00_Systeme_Religieux|Lex Petra]] — La Loi de Pierre (religion secondaire)
+### Lex Petra — La Loi de Pierre (religion secondaire)
 
 Parmi les rangs militaires les plus élevés, la Lex Petra gagne du terrain. L'idée que la loi est aussi immuable et fondamentale que la pierre résonne avec la discipline militaire de Pyrtara. Les officiers supérieurs y voient un complément à Ignis Aeternum : le feu forge, mais la pierre donne forme. Certains Centurions rendent désormais la justice sur des blocs d'obsidienne polie, combinant les deux traditions.
 
@@ -121,7 +121,7 @@ Région méridionale la plus récente, née d'une coulée de lave massive qui a 
 *Bâtie au pied du Mont Pyralis comme un défi permanent à la nature, Ilyndar est une forteresse colossale de basalte noir dont les murs sont si épais qu'ils ont résisté à quatre éruptions majeures. Les rues sont disposées en cercles concentriques autour de la Citadelle du Commandement, et chaque cercle correspond à un niveau de la hiérarchie militaire. Au centre, l'Arène des Cendres — amphithéâtre à ciel ouvert où se décide la succession du Haut Commandant.*
 - Population : Grande ville
 - Région : Ilyndor
-- Particularités : Siège du Haut Commandant. Arène des Cendres. Forge Souveraine d'[[00_Systeme_Religieux|Ignis Aeternum]].
+- Particularités : Siège du Haut Commandant. Arène des Cendres. Forge Souveraine d'Ignis Aeternum.
 
 ### Thyndor — Ville
 *Ville-forteresse perchée sur un éperon de basalte surplombant les mines d'obsidienne de Davoria, Thyndor est le centre de production d'armes le plus important de Pyrtara. Le cliquetis des marteaux sur l'obsidienne résonne jour et nuit, et la lueur des forges fait briller la ville d'un rouge permanent dans l'obscurité. Les meilleurs Forgerons de Guerre du pays y résident.*
@@ -201,4 +201,4 @@ Région méridionale la plus récente, née d'une coulée de lave massive qui a 
 
 - **Le Cœur du Mont Pyralis** : Les Guetteurs de Feu de Vyldor ont détecté une anomalie au cœur du volcan — une pulsation régulière qui ne correspond à aucun phénomène géologique connu. Certains croient qu'Eldoria, la flamme divine d'Ignis Aeternum, est littéralement emprisonnée dans le volcan. Le Haut Commandant a envoyé une expédition secrète dans les cavernes profondes. Elle n'est pas revenue.
 - **La Faction de l'Obsidienne** : Un groupe d'officiers supérieurs, mené par la générale Sylthra, conspire secrètement pour renverser Varketh et transformer Pyrtara en une puissance expansionniste. Ils croient que la discipline militaire de Pyrtara est gaspillée en simple survie et rêvent de conquérir les territoires fertiles des pays voisins.
-- **Les Enfants des Cendres** : Dans les profondeurs de Kethorin, des enfants nés sur les terres volcaniques les plus récentes manifestent une résistance inhabituelle au feu — certains peuvent toucher des braises sans se brûler. Les prêtres d'[[00_Systeme_Religieux|Ignis Aeternum]] y voient un signe divin ; les médecins militaires y voient une mutation inquiétante. Personne ne sait ce que cela signifie réellement.
+- **Les Enfants des Cendres** : Dans les profondeurs de Kethorin, des enfants nés sur les terres volcaniques les plus récentes manifestent une résistance inhabituelle au feu — certains peuvent toucher des braises sans se brûler. Les prêtres d'Ignis Aeternum y voient un signe divin ; les médecins militaires y voient une mutation inquiétante. Personne ne sait ce que cela signifie réellement.

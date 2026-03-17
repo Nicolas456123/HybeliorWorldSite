@@ -11,8 +11,8 @@
 |---|---|
 | **Continent** | Ilthara |
 | **Gouvernement** | Théocratie druidique |
-| **Religion principale** | [[00_Systeme_Religieux\|Vael'Kurash]] (Les Esprits de Chaque Chose) |
-| **Religion secondaire** | [[00_Systeme_Religieux\|Rota Mundi]] (Le Cycle du Monde) |
+| **Religion principale** | Vael'Kurash (Les Esprits de Chaque Chose) |
+| **Religion secondaire** | Rota Mundi (Le Cycle du Monde) |
 | **Culture dominante** | Druidisme, connexion profonde à la nature et aux saisons |
 | **Histoire marquante** | Le Pacte Sylvestre |
 | **Ressources clés** | Herbes médicinales, bois sacré, cristaux de sève, résines enchantées |
@@ -55,7 +55,7 @@ L'Archidruide actuel est **Sylvenna la Tisseuse de Mousse**, une femme d'un âge
 
 ## Religion
 
-### [[00_Systeme_Religieux|Vael'Kurash]] — Les Esprits de Chaque Chose (religion officielle)
+### Vael'Kurash — Les Esprits de Chaque Chose (religion officielle)
 
 En Ackerna, Vael'Kurash n'est pas simplement une religion — c'est la réalité quotidienne. Les Ackerniens croient que chaque élément du monde naturel abrite un esprit : chaque arbre, chaque rivière, chaque rocher, chaque brise. Ces esprits ne sont pas des dieux mais des présences conscientes avec lesquelles on peut communiquer, négocier et coexister.
 
@@ -69,9 +69,9 @@ Les rituels de Vael'Kurash sont profondément saisonniers. À chaque changement 
 
 Les druides portent des tatouages rituels représentant les esprits auxquels ils sont liés. Ces tatouages évoluent naturellement au fil des saisons — s'assombrissant en hiver, verdissant au printemps — un phénomène que même les mages d'autres nations ne parviennent pas à expliquer.
 
-### [[00_Systeme_Religieux|Rota Mundi]] — Le Cycle du Monde (religion secondaire)
+### Rota Mundi — Le Cycle du Monde (religion secondaire)
 
-La croyance en [[00_Systeme_Religieux|Rota Mundi]] s'intègre naturellement à la culture d'Ackerna, car elle enseigne que tout est cyclique — la vie, la mort, les saisons, les civilisations. Les adeptes de Rota Mundi en Ackerna croient fermement en la réincarnation, persuadés que les âmes reviennent sous forme d'animaux, de plantes ou même de pierres. Cette croyance, bien que fausse selon les théologiens d'autres nations, est profondément enracinée et influence les rites funéraires : les morts d'Ackerna ne sont jamais enterrés dans des cercueils mais déposés directement dans la terre, enveloppés de mousse et de feuilles, pour que leur corps nourrisse la prochaine vie.
+La croyance en Rota Mundi s'intègre naturellement à la culture d'Ackerna, car elle enseigne que tout est cyclique — la vie, la mort, les saisons, les civilisations. Les adeptes de Rota Mundi en Ackerna croient fermement en la réincarnation, persuadés que les âmes reviennent sous forme d'animaux, de plantes ou même de pierres. Cette croyance, bien que fausse selon les théologiens d'autres nations, est profondément enracinée et influence les rites funéraires : les morts d'Ackerna ne sont jamais enterrés dans des cercueils mais déposés directement dans la terre, enveloppés de mousse et de feuilles, pour que leur corps nourrisse la prochaine vie.
 
 ---
 
@@ -114,7 +114,7 @@ La région la plus ouverte d'Ackerna, Siera est un paysage de clairières et de 
 *La capitale d'Ackerna ne porte pas de nom propre — elle est simplement la Ville, car en Ackerna, il n'y en a qu'une qui mérite ce titre. Nichée au cœur d'Obélia, elle est un labyrinthe vivant d'arbres-maisons centenaires dont les canopées se rejoignent en une voûte végétale si dense que la pluie n'atteint jamais le sol. Le Bosquet Primordial se trouve en son centre, entouré d'un anneau de chênes millénaires dont les troncs sont si larges qu'ils servent de salles de conseil.*
 - Population : Grande ville
 - Région : Obélia
-- Particularités : Siège de l'Archidruide et du Cercle des Saisons. Temple-Racine de [[00_Systeme_Religieux|Vael'Kurash]], le plus ancien lieu de culte d'Ackerna.
+- Particularités : Siège de l'Archidruide et du Cercle des Saisons. Temple-Racine de Vael'Kurash, le plus ancien lieu de culte d'Ackerna.
 
 ### Ylisfar — Village
 *Perché dans les branches d'un arbre colossal dont l'espèce est inconnue des botanistes, Ylisfar est un village suspendu accessible uniquement par des passerelles de lianes. Ses habitants sont des observateurs du ciel qui étudient les migrations des oiseaux pour prédire les changements de saisons avec une précision remarquable.*

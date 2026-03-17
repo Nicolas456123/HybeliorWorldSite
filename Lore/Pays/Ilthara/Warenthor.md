@@ -11,8 +11,8 @@
 |---|---|
 | **Continent** | Ilthara |
 | **Gouvernement** | Monarchie tribale |
-| **Religion principale** | [[00_Systeme_Religieux\|Vael'Kurash]] (Les Esprits de Chaque Chose) |
-| **Religion secondaire** | [[00_Systeme_Religieux\|Foedus Animae]] (Le Pacte des Âmes) |
+| **Religion principale** | Vael'Kurash (Les Esprits de Chaque Chose) |
+| **Religion secondaire** | Foedus Animae (Le Pacte des Âmes) |
 | **Culture dominante** | Vie en jungle, communion avec les esprits, spiritualité animiste |
 | **Histoire marquante** | L'Éveil de la Jungle |
 | **Ressources clés** | Bois tropicaux, plantes médicinales rares, pigments naturels, venins, fruits exotiques, cristaux de sève |
@@ -61,7 +61,7 @@ Le Roi-Chaman actuel est **Thylorin du Serpent-Vert**, un homme de grande statur
 
 ## Religion
 
-### [[00_Systeme_Religieux|Vael'Kurash]] — Les Esprits de Chaque Chose (religion officielle)
+### Vael'Kurash — Les Esprits de Chaque Chose (religion officielle)
 
 En Warenthor, Vael'Kurash n'est pas une religion au sens conventionnel — c'est la réalité quotidienne. Les esprits sont omniprésents et visibles pour ceux qui savent regarder. Chaque arbre, chaque rivière, chaque animal abrite un esprit, et les interactions avec ces esprits rythment la vie de chaque Warenthorien.
 
@@ -74,7 +74,7 @@ Les rituels sont profondément intégrés au quotidien :
 
 Les tatouages rituels de Vael'Kurash sont particulièrement élaborés en Warenthor. Chaque tatouage représente un esprit protecteur personnel, choisi lors d'une vision chamanique. Les tatouages changent de couleur selon l'humeur de l'esprit protecteur — un phénomène unique à Warenthor.
 
-### [[00_Systeme_Religieux|Foedus Animae]] — Le Pacte des Âmes (religion secondaire)
+### Foedus Animae — Le Pacte des Âmes (religion secondaire)
 
 Le culte des ancêtres est profondément ancré à Warenthor. Les morts ne quittent pas la jungle — ils deviennent des esprits supplémentaires qui veillent sur leurs descendants. Les tombes sont des arbres — les morts sont enterrés au pied d'un arbre qui absorbe leur essence et devient un arbre-ancêtre. Communiquer avec ces arbres-ancêtres est une pratique courante, et les familles se rassemblent régulièrement autour de l'arbre de leurs défunts pour leur parler, les consulter et leur demander conseil.
 

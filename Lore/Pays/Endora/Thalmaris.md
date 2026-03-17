@@ -12,8 +12,8 @@
 | **Continent** | Endora |
 | **Numéro** | 34 |
 | **Gouvernement** | Monarchie bardique |
-| **Religion principale** | [[00_Systeme_Religieux\|Cantus Mundi]] (Le Chant du Monde) |
-| **Religion secondaire** | [[00_Systeme_Religieux\|Somnium Vigil]] (La Veille des Rêves) |
+| **Religion principale** | Cantus Mundi (Le Chant du Monde) |
+| **Religion secondaire** | Somnium Vigil (La Veille des Rêves) |
 | **Culture dominante** | Arts, musique, récits épiques, diplomatie par la parole |
 | **Histoire marquante** | Le Chant des Anciens |
 | **Ressources clés** | Instruments de musique, encres rares, parchemins, cristaux de résonance, vins fins |
@@ -55,7 +55,7 @@ Le pouvoir à Thalmaris repose sur la parole et le talent :
 
 ## Religion
 
-### [[00_Systeme_Religieux|Cantus Mundi]] — Le Chant du Monde (religion dominante)
+### Cantus Mundi — Le Chant du Monde (religion dominante)
 
 Les Thalmariens croient que le monde a été créé par un chant — une mélodie primordiale dont chaque note a engendré une montagne, une rivière, un être vivant. Cantor, la divinité suprême du Cantus Mundi, n'est pas représenté sous forme humaine — il est une vibration, une résonance, un son qui traverse toute chose.
 
@@ -64,7 +64,7 @@ Les Thalmariens croient que le monde a été créé par un chant — une mélodi
 - **Le Silence Sacré** : Paradoxalement, le silence est aussi sacré que la musique. Un moment de silence absolu précède chaque performance, pour honorer le vide d'où naît le son.
 - **La Dernière Chanson** : Quand un Thalmarien meurt, sa famille compose une chanson unique qui résume sa vie. Cette chanson est jouée une seule fois lors des funérailles, puis scellée dans les Archives du Chant — une bibliothèque souterraine d'Ostarith.
 
-### [[00_Systeme_Religieux|Somnium Vigil]] — La Veille des Rêves (religion secondaire)
+### Somnium Vigil — La Veille des Rêves (religion secondaire)
 
 Beaucoup de Thalmariens croient que les rêves sont une source d'inspiration divine. Somnix, le gardien des rêves, envoie des visions aux artistes pendant leur sommeil — des mélodies inédites, des histoires jamais racontées, des images jamais peintes. Les bardes les plus talentueux affirment que leurs meilleures œuvres leur sont "dictées" en rêve.
 

@@ -12,8 +12,8 @@
 | **Localisation** | Île-nation |
 | **Numéro** | 14 |
 | **Gouvernement** | Monarchie isolée |
-| **Religion principale** | [[00_Systeme_Religieux\|Noctari]] (Les Voiles de la Nuit) |
-| **Religion secondaire** | [[00_Systeme_Religieux\|Taciti]] (Les Silencieux) |
+| **Religion principale** | Noctari (Les Voiles de la Nuit) |
+| **Religion secondaire** | Taciti (Les Silencieux) |
 | **Culture dominante** | Mystérieuse, rituels secrets, isolationnisme absolu |
 | **Histoire marquante** | L'Invasion Avortée |
 | **Ressources clés** | Inconnues (aucun commerce extérieur) |
@@ -56,11 +56,11 @@ La nature exacte du pouvoir à Nysaria reste inconnue.
 
 ## Religion
 
-### [[00_Systeme_Religieux|Noctari]] — Les Voiles de la Nuit (religion dominante)
+### Noctari — Les Voiles de la Nuit (religion dominante)
 
 Les fragments de texte nysarien déchiffrés révèlent un culte intense de Noctis et d'Umbra. La nuit est sacrée — non pas comme l'absence de lumière, mais comme la présence de la vérité. Les Nysariens semblent croire que le monde visible est un mensonge, et que seule l'obscurité révèle la réalité.
 
-### [[00_Systeme_Religieux|Taciti]] — Les Silencieux (religion secondaire)
+### Taciti — Les Silencieux (religion secondaire)
 
 Le silence est une composante essentielle de la culture nysarienne. Les messages dans les bouteilles ne contiennent jamais de mots parlés — uniquement des symboles et des dessins. Le lien entre Nysaria et Baelor à travers le culte des Taciti intrigue les érudits, mais aucune connexion directe n'a été établie.
 

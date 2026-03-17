@@ -12,8 +12,8 @@
 | **Localisation** | Île-nation |
 | **Numéro** | 5 |
 | **Gouvernement** | Théocratie monastique |
-| **Religion principale** | [[00_Systeme_Religieux\|Somnium Vigil]] (La Veille des Rêves) |
-| **Religion secondaire** | [[00_Systeme_Religieux\|Taciti]] (Les Silencieux) |
+| **Religion principale** | Somnium Vigil (La Veille des Rêves) |
+| **Religion secondaire** | Taciti (Les Silencieux) |
 | **Culture dominante** | Moines-guerriers, monastères fortifiés, discipline absolue |
 | **Histoire marquante** | La Défense du Monastère de Kethros |
 | **Ressources clés** | Encens rare, parchemins enluminés, herbes de méditation, sel marin, pierre noire |
@@ -57,7 +57,7 @@ Toute communication officielle se fait en langage des signes baelorien — un sy
 
 ## Religion
 
-### [[00_Systeme_Religieux|Somnium Vigil]] — La Veille des Rêves (religion dominante)
+### Somnium Vigil — La Veille des Rêves (religion dominante)
 
 Les moines de Baelor croient que les rêves sont des fenêtres vers la vérité. Somnix envoie des visions pendant le sommeil, Realis ancre ces visions dans le réel, et Aurion illumine leur signification. La pratique de la méditation profonde — aux frontières du sommeil éveillé — est le cœur de la vie monastique.
 
@@ -66,7 +66,7 @@ Les moines de Baelor croient que les rêves sont des fenêtres vers la vérité.
 - **Le Rêve Partagé** : Lors de rituels spéciaux, les moines entrent en méditation collective et partagent un même rêve. Ces rêves communautaires guident les décisions de l'île.
 - **Le Journal Silencieux** : Chaque moine consigne ses rêves dans un journal enluminé — la seule forme d'écriture pratiquée abondamment à Baelor.
 
-### [[00_Systeme_Religieux|Taciti]] — Les Silencieux (religion secondaire)
+### Taciti — Les Silencieux (religion secondaire)
 
 Le culte du silence absolu est la marque distinctive de Baelor. Les Silencieux croient que la voix divine ne peut être entendue que dans le silence le plus total. Parler est un acte de vanité — imposer ses pensées au monde. Le silence est un acte d'humilité — écouter le monde.
 

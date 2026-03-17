@@ -11,8 +11,8 @@
 |---|---|
 | **Continent** | Alkaran |
 | **Gouvernement** | Monarchie industrielle |
-| **Religion principale** | [[00_Systeme_Religieux\|Ignis Aeternum]] (La Flamme Éternelle) |
-| **Religion secondaire** | [[00_Systeme_Religieux\|Lex Petra]] (La Loi de Pierre) |
+| **Religion principale** | Ignis Aeternum (La Flamme Éternelle) |
+| **Religion secondaire** | Lex Petra (La Loi de Pierre) |
 | **Culture dominante** | Industrie minière, forge légendaire, fierté du travail |
 | **Histoire marquante** | La Forge de l'Acier Éternel |
 | **Ressources clés** | Mithral, acier noir, cristaux de forge, gemmes volcaniques |
@@ -57,7 +57,7 @@ La différence fondamentale avec Altram est l'absence de contre-pouvoir artisana
 
 ## Religion
 
-### [[00_Systeme_Religieux|Ignis Aeternum]] — La Flamme Éternelle (religion officielle)
+### Ignis Aeternum — La Flamme Éternelle (religion officielle)
 
 Les Myrtamites croient que la lumière primordiale d'Eldoria s'est incarnée dans le feu. Le volcanisme n'est pas un hasard géologique — c'est la respiration de la déesse. Forger dans la chaleur volcanique, c'est participer à l'acte de création originel.
 
@@ -66,9 +66,9 @@ Les Myrtamites croient que la lumière primordiale d'Eldoria s'est incarnée dan
 - **La Crémation** : Les morts sont jetés dans les crevasses volcaniques — le plus grand honneur. Les cendres remontent avec les fumées et "rejoignent la lumière d'Eldoria".
 - **Les Épreuves du Feu** : Les prêtres marchent sur des braises pour prouver leur foi. Les plus dévots portent des cicatrices de brûlures sur les avant-bras, considérées comme des marques de bénédiction.
 
-### [[00_Systeme_Religieux|Lex Petra]] (religion secondaire)
+### Lex Petra (religion secondaire)
 
-Importée d'Altram par les premiers colons, la [[00_Systeme_Religieux|Lex Petra]] survit chez les fonctionnaires et les juristes de Myrtam. Elle est vue comme une religion "intellectuelle" par opposition à l'Ignis Aeternum, plus viscérale. Les deux coexistent sans conflit majeur — la pierre et le feu sont complémentaires, après tout.
+Importée d'Altram par les premiers colons, la Lex Petra survit chez les fonctionnaires et les juristes de Myrtam. Elle est vue comme une religion "intellectuelle" par opposition à l'Ignis Aeternum, plus viscérale. Les deux coexistent sans conflit majeur — la pierre et le feu sont complémentaires, après tout.
 
 ---
 

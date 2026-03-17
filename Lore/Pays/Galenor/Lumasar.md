@@ -11,8 +11,8 @@
 |---|---|
 | **Continent** | Galenor |
 | **Gouvernement** | Aristocratie académique |
-| **Religion principale** | [[00_Systeme_Religieux\|Somnium Vigil]] (Le Rêve Éveillé) |
-| **Religion secondaire** | [[00_Systeme_Religieux\|Ordo Caelum]] (L'Ordre Céleste) |
+| **Religion principale** | Somnium Vigil (Le Rêve Éveillé) |
+| **Religion secondaire** | Ordo Caelum (L'Ordre Céleste) |
 | **Culture dominante** | Érudite et magique, académies de magie, recherche arcanique |
 | **Histoire marquante** | La Grande Éclipse |
 | **Ressources clés** | Cristaux prismatiques, encre onirique, composants arcaniques, savoir académique |
@@ -58,9 +58,9 @@ Le Grand Recteur actuel est **Thalendris Prismor**, un homme âgé d'une lucidit
 
 ## Religion
 
-### [[00_Systeme_Religieux|Somnium Vigil]] — Le Rêve Éveillé (religion principale)
+### Somnium Vigil — Le Rêve Éveillé (religion principale)
 
-Le Somnium Vigil enseigne que la réalité perçue n'est qu'une couche parmi d'autres, et que les rêves sont des fenêtres sur les strates profondes de l'existence. Les prêtres-rêveurs du [[00_Systeme_Religieux|Somnium Vigil]] pratiquent le sommeil rituel, entrant dans des transes contrôlées pour explorer les couches oniriques et en ramener des visions, des connaissances, parfois des fragments de matière onirique cristallisée.
+Le Somnium Vigil enseigne que la réalité perçue n'est qu'une couche parmi d'autres, et que les rêves sont des fenêtres sur les strates profondes de l'existence. Les prêtres-rêveurs du Somnium Vigil pratiquent le sommeil rituel, entrant dans des transes contrôlées pour explorer les couches oniriques et en ramener des visions, des connaissances, parfois des fragments de matière onirique cristallisée.
 
 Les temples du Somnium Vigil sont des dortoirs sacrés — de vastes salles silencieuses où les fidèles dorment côte à côte, partageant parfois un même rêve collectif. Les murs sont enduits d'encre onirique qui réagit aux émotions des dormeurs, créant des fresques éphémères chaque nuit.
 
@@ -68,7 +68,7 @@ Les temples du Somnium Vigil sont des dortoirs sacrés — de vastes salles sile
 - **La Nuit du Grand Rêve** (solstice d'hiver) — Toute la population de Lumasar dort simultanément, guidée par les prêtres dans un rêve collectif. Le contenu de ce rêve est interprété par le Cénacle comme un augure pour l'année à venir.
 - **L'Éveil de Somnix** (premier jour du printemps) — Célébration du dieu Somnix par un jeûne de sommeil : les fidèles restent éveillés pendant 48 heures, méditant sur la frontière entre veille et rêve, jusqu'à ce que les hallucinations naturelles de la privation de sommeil soient considérées comme des messages divins.
 
-### [[00_Systeme_Religieux|Ordo Caelum]] — L'Ordre Céleste (religion secondaire)
+### Ordo Caelum — L'Ordre Céleste (religion secondaire)
 
 L'Ordo Caelum, qui voit dans les constellations le langage divin, trouve un écho naturel à Lumasar où l'observation du ciel est une discipline académique. Les prêtres de l'Ordo Caelum de Lumasar sont souvent aussi des astronomes, et leurs observatoires servent autant à la prière qu'à la recherche. La cohabitation avec le Somnium Vigil est harmonieuse : les deux fois s'accordent sur l'idée que la réalité visible n'est qu'une fraction de ce qui existe.
 
@@ -161,7 +161,7 @@ Région méridionale la plus peuplée après Prismora, Invorial est la porte d'e
 - Région : Prismora
 
 ### Velkaris — Village
-*Village de souffleurs de cristal qui façonnent des instruments de musique translucides dont les sons induisent des états méditatifs. Les flûtes de Velkaris sont utilisées dans les temples du [[00_Systeme_Religieux|Somnium Vigil]] pour guider les fidèles vers le sommeil rituel.*
+*Village de souffleurs de cristal qui façonnent des instruments de musique translucides dont les sons induisent des états méditatifs. Les flûtes de Velkaris sont utilisées dans les temples du Somnium Vigil pour guider les fidèles vers le sommeil rituel.*
 - Population : Village
 - Région : Prismora
 

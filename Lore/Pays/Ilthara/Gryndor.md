@@ -11,8 +11,8 @@
 |---|---|
 | **Continent** | Ilthara |
 | **Gouvernement** | Monarchie traditionnelle |
-| **Religion principale** | [[00_Systeme_Religieux\|Lex Petra]] (La Loi de Pierre) |
-| **Religion secondaire** | [[00_Systeme_Religieux\|Rota Mundi]] (Le Cycle du Monde) |
+| **Religion principale** | Lex Petra (La Loi de Pierre) |
+| **Religion secondaire** | Rota Mundi (Le Cycle du Monde) |
 | **Culture dominante** | Savoir, artisanat de précision, vénération de l'histoire |
 | **Histoire marquante** | La Restauration de Gryndor |
 | **Ressources clés** | Cristaux magiques, pierre de taille, encre enchantée, instruments de précision |
@@ -59,7 +59,7 @@ Le roi actuel est **Vaelorn V**, un monarque méthodique et patient dont la pass
 
 ## Religion
 
-### [[00_Systeme_Religieux|Lex Petra]] — La Loi de Pierre (religion officielle)
+### Lex Petra — La Loi de Pierre (religion officielle)
 
 En Gryndor, la Lex Petra prend une dimension particulière. La pierre n'est pas seulement le symbole de la loi — elle est le support physique du savoir. Les Gryndoriens gravent leurs textes les plus importants dans la pierre, car le parchemin brûle et l'encre s'efface, mais la pierre perdure.
 
@@ -69,9 +69,9 @@ Les temples de la Lex Petra à Gryndor sont des salles d'étude autant que des l
 - **Le Jour de la Pierre Gravée** (solstice d'hiver) — Chaque famille grave dans un bloc de pierre un fait marquant de l'année écoulée. Ces pierres sont déposées dans les fondations des nouveaux bâtiments, créant une mémoire collective littéralement inscrite dans les murs du royaume.
 - **La Lecture des Fondations** (équinoxe de printemps) — Les prêtres exhument une pierre gravée ancienne, choisie au hasard dans les fondations d'un vieux bâtiment, et en lisent le contenu à la population. C'est une façon de faire revivre la voix des ancêtres.
 
-### [[00_Systeme_Religieux|Rota Mundi]] — Le Cycle du Monde (religion secondaire)
+### Rota Mundi — Le Cycle du Monde (religion secondaire)
 
-La croyance en [[00_Systeme_Religieux|Rota Mundi]] est populaire parmi les historiens de Gryndor. L'idée que tout est cyclique — que les civilisations naissent, prospèrent, déclinent et renaissent — résonne profondément avec l'expérience du Déclin et de la Restauration. Les adeptes de Rota Mundi étudient les cycles historiques avec une rigueur scientifique, cherchant à prédire les prochains déclins pour mieux s'y préparer. Leur croyance en la réincarnation, bien que non prouvée, motive une vénération des ancêtres et un soin particulier apporté aux archives généalogiques.
+La croyance en Rota Mundi est populaire parmi les historiens de Gryndor. L'idée que tout est cyclique — que les civilisations naissent, prospèrent, déclinent et renaissent — résonne profondément avec l'expérience du Déclin et de la Restauration. Les adeptes de Rota Mundi étudient les cycles historiques avec une rigueur scientifique, cherchant à prédire les prochains déclins pour mieux s'y préparer. Leur croyance en la réincarnation, bien que non prouvée, motive une vénération des ancêtres et un soin particulier apporté aux archives généalogiques.
 
 ---
 

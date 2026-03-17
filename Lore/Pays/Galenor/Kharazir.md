@@ -35,7 +35,7 @@ La situation dégénéra lorsque trois communautés revendiquèrent simultanéme
 
 ### La Charte de Kharazir
 
-La solution vint d'une femme nommée Mirael Azurin, fille d'un marchand d'Azuris et d'une prêtresse nomade de [[00_Systeme_Religieux|Rota Mundi]]. Élevée entre deux cultures, elle comprenait mieux que quiconque la nécessité d'un accord qui respecterait chaque identité sans en écraser aucune.
+La solution vint d'une femme nommée Mirael Azurin, fille d'un marchand d'Azuris et d'une prêtresse nomade de Rota Mundi. Élevée entre deux cultures, elle comprenait mieux que quiconque la nécessité d'un accord qui respecterait chaque identité sans en écraser aucune.
 
 Elle réunit les représentants de toutes les communautés dans la plaine de Rukhsar — un terrain neutre — et proposa la **Charte de Kharazir** : un document fondateur garantissant la liberté religieuse, l'autonomie régionale et un système fédéral où chaque communauté élit ses représentants au Conseil des Voix. La Charte fut gravée sur sept piliers de pierre — un pour chaque région — et chaque pilier fut érigé dans la capitale naissante.
 
@@ -60,7 +60,7 @@ La Médiatrice Suprême actuelle est **Selvina Hiliaris**, une diplomate née à
 
 ### Liberté religieuse totale
 
-Kharazir est unique sur Galenor : aucune religion n'y est officielle, et toutes y sont tolérées tant qu'elles ne prêchent pas la violence ou la domination d'autrui. Les temples de [[00_Systeme_Religieux|Rota Mundi]] côtoient les sanctuaires de l'[[00_Systeme_Religieux|Ordo Caelum]], les cercles de méditation du [[00_Systeme_Religieux|Somnium Vigil]] voisinent avec les autels de la [[00_Systeme_Religieux|Lex Petra]].
+Kharazir est unique sur Galenor : aucune religion n'y est officielle, et toutes y sont tolérées tant qu'elles ne prêchent pas la violence ou la domination d'autrui. Les temples de Rota Mundi côtoient les sanctuaires de l'Ordo Caelum, les cercles de méditation du Somnium Vigil voisinent avec les autels de la Lex Petra.
 
 Cette diversité religieuse est protégée par l'article premier de la Charte : *« Nulle foi ne sera contrainte, nulle prière interdite, nul temple fermé au nom d'un autre. »*
 
@@ -162,7 +162,7 @@ Région septentrionale adossée aux contreforts montagneux, couverte de forêts 
 - Région : Umarisar
 
 ### Ylondor — Village
-*Hameau de pêcheurs au bord d'un étang naturel si clair qu'on en voit le fond à dix mètres. Les habitants d'Ylondor pratiquent une forme de pêche méditative héritée de moines du [[00_Systeme_Religieux|Somnium Vigil]] qui s'installèrent ici il y a des siècles.*
+*Hameau de pêcheurs au bord d'un étang naturel si clair qu'on en voit le fond à dix mètres. Les habitants d'Ylondor pratiquent une forme de pêche méditative héritée de moines du Somnium Vigil qui s'installèrent ici il y a des siècles.*
 - Population : Village
 - Région : Umarisar
 
@@ -265,5 +265,5 @@ Région septentrionale adossée aux contreforts montagneux, couverte de forêts 
 
 - **La Huitième Voix** : La Charte mentionne sept régions et sept piliers — mais des érudits ont découvert des traces d'un huitième pilier brisé, enterré sous le centre de Rukhsar. Quelle communauté oubliée représentait-il, et pourquoi son existence a-t-elle été effacée de l'histoire ?
 - **Le Réseau des Passeurs d'Ombres** : Derrière la façade de tolérance, un réseau clandestin exploite la liberté religieuse de Kharazir pour faire entrer des cultes interdits et des artefacts dangereux. La Médiatrice Selvina soupçonne l'implication de marchands d'Azurea, mais les preuves sont insaisissables.
-- **Les Herbes qui Rêvent** : Dans les plaines de Solandra, certaines récoltes d'herbes dorées provoquent des visions prophétiques au lieu de guérir. La guilde des herboristes de Velithis cache cette propriété au public, mais un groupe dissident du [[00_Systeme_Religieux|Somnium Vigil]] cherche à s'en emparer pour ses rituels.
+- **Les Herbes qui Rêvent** : Dans les plaines de Solandra, certaines récoltes d'herbes dorées provoquent des visions prophétiques au lieu de guérir. La guilde des herboristes de Velithis cache cette propriété au public, mais un groupe dissident du Somnium Vigil cherche à s'en emparer pour ses rituels.
 - **L'Enfant des Sept Cultures** : Une prophétie ancienne, antérieure à la Charte elle-même, annonce la venue d'un être né de sept lignées différentes qui « ouvrira la porte que les Titans ont fermée ». Plusieurs factions recherchent activement cet individu, avec des intentions très divergentes.

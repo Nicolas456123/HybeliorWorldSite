@@ -11,8 +11,8 @@
 |---|---|
 | **Continent** | Alkaran |
 | **Gouvernement** | Confédération clanique |
-| **Religion principale** | [[00_Systeme_Religieux\|Foedus Animae]] (Le Pacte des Âmes) |
-| **Religion secondaire** | [[00_Systeme_Religieux\|Vael'Kurash]] (Culte des Esprits Anciens) |
+| **Religion principale** | Foedus Animae (Le Pacte des Âmes) |
+| **Religion secondaire** | Vael'Kurash (Culte des Esprits Anciens) |
 | **Culture dominante** | Martiale, indépendante, survie en conditions extrêmes |
 | **Histoire marquante** | La Bataille du Fjord Gelé |
 | **Ressources clés** | Fourrures, os de créatures, bois de taïga, ambre, poisson |
@@ -62,7 +62,7 @@ Il n'y a pas de bureaucratie, pas d'impôts centraux, pas d'armée permanente. C
 
 ## Religion
 
-### [[00_Systeme_Religieux|Foedus Animae]] — Le Pacte des Âmes
+### Foedus Animae — Le Pacte des Âmes
 
 Les Skaldoriens ont une relation intense et personnelle avec leurs morts. Chaque clan maintient un **Cairn des Voix** — un empilement de pierres où les noms des ancêtres sont gravés. Avant chaque combat, chaque chasse et chaque voyage, un Skaldorien touche le Cairn et murmure les noms de ses morts pour demander leur protection.
 
@@ -71,7 +71,7 @@ Les Skaldoriens ont une relation intense et personnelle avec leurs morts. Chaque
 - **Le Banquet des Morts** : Une fois par an, chaque famille prépare un repas complet et laisse des places vides à table pour les ancêtres. On sert de la nourriture dans les assiettes vides. Si la nourriture a "changé de goût" le lendemain, les ancêtres ont mangé — bon présage.
 - **L'Interdiction de l'Enterrement** : Les Skaldoriens ne mettent jamais leurs morts en terre. Les corps sont soit brûlés sur un bûcher (guerriers), soit confiés à la mer sur un radeau (marins), soit exposés au sommet des montagnes (chamans). La terre est pour les vivants.
 
-### [[00_Systeme_Religieux|Vael'Kurash]] (secondaire)
+### Vael'Kurash (secondaire)
 
 Les esprits de la nature sont respectés en Skaldoria, mais de manière pratique plutôt que dévote. On laisse des offrandes aux esprits de la forêt avant de couper un arbre. On remercie l'esprit de la mer après une pêche fructueuse. C'est plus de la courtoisie que de la religion.
 

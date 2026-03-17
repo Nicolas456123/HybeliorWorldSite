@@ -11,8 +11,8 @@
 |---|---|
 | **Continent** | Galenor |
 | **Gouvernement** | Théocratie artistique |
-| **Religion principale** | [[00_Systeme_Religieux\|Ordo Caelum]] (L'Ordre Céleste) |
-| **Religion secondaire** | [[00_Systeme_Religieux\|Cantus Mundi]] (Le Chant du Monde) |
+| **Religion principale** | Ordo Caelum (L'Ordre Céleste) |
+| **Religion secondaire** | Cantus Mundi (Le Chant du Monde) |
 | **Culture dominante** | Artistique et religieuse, musique sacrée, peinture, sculpture, architecture |
 | **Histoire marquante** | Le Festival des Lumières |
 | **Ressources clés** | Pigments naturels, marbres, instruments de musique, œuvres d'art, encens sacré |
@@ -58,7 +58,7 @@ La Primat actuelle est **Ilynara de Caverana**, une chanteuse dont la voix, dit-
 
 ## Religion
 
-### [[00_Systeme_Religieux|Ordo Caelum]] — L'Ordre Céleste (religion principale)
+### Ordo Caelum — L'Ordre Céleste (religion principale)
 
 L'Ordo Caelum enseigne que les constellations sont le langage des Célestes — les entités divines qui veillent sur le monde. Chaque constellation raconte une histoire sacrée, et les astrologues-prêtres de l'Ordo interprètent les mouvements célestes comme des messages adressés aux mortels.
 
@@ -68,7 +68,7 @@ L'Ordo Caelum enseigne que les constellations sont le langage des Célestes — 
 - **Le Festival des Lumières** (solstice d'été) — Sept jours de célébrations artistiques, de processions aux chandelles et de spectacles lumineux. Le point culminant est la Nuit des Étoiles Tombées, où des milliers de lanternes sont lâchées dans le ciel pour « répondre » aux constellations.
 - **L'Alignement Sacré** (équinoxe de printemps) — Lorsque les trois constellations principales de l'Ordo Caelum s'alignent, les prêtres organisent une veillée de prière et de chant qui dure toute la nuit, guidant les fidèles dans une méditation collective sur le sens des messages célestes.
 
-### [[00_Systeme_Religieux|Cantus Mundi]] — Le Chant du Monde (religion secondaire)
+### Cantus Mundi — Le Chant du Monde (religion secondaire)
 
 Le Cantus Mundi, qui croit que Cantor a chanté le monde en existence et que la musique est la forme la plus pure de prière, est profondément enraciné à Seraphia. Bien que l'Ordo Caelum soit la religion officielle, le Cantus Mundi imprègne la culture au quotidien : les Séraphiens chantent en travaillant, en cuisinant, en marchant. Le silence prolongé est considéré comme un mauvais présage.
 

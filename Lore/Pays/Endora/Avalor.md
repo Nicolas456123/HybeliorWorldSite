@@ -12,8 +12,8 @@
 | **Continent** | Endora |
 | **Numéro** | 24 |
 | **Gouvernement** | Théocratie mystique |
-| **Religion principale** | [[00_Systeme_Religieux\|Noctari]] (Les Voiles de la Nuit) |
-| **Religion secondaire** | [[00_Systeme_Religieux\|Vael'Kurash]] (Culte des Esprits Anciens) |
+| **Religion principale** | Noctari (Les Voiles de la Nuit) |
+| **Religion secondaire** | Vael'Kurash (Culte des Esprits Anciens) |
 | **Culture dominante** | Féerique, communion avec les esprits, symbiose avec la nature |
 | **Histoire marquante** | Le Pacte des Sylves |
 | **Ressources clés** | Bois enchanté, herbes rares, cristaux de mana, miel sylvestre, teintures naturelles |
@@ -55,7 +55,7 @@ Le pouvoir en Avalor est indissociable du spirituel :
 
 ## Religion
 
-### [[00_Systeme_Religieux|Noctari]] — Les Voiles de la Nuit (religion dominante)
+### Noctari — Les Voiles de la Nuit (religion dominante)
 
 Les Avaloréens croient que la vérité se cache dans l'obscurité. Noctis, divinité de la nuit, et Umbra, gardienne des ombres, enseignent que la lumière aveugle autant qu'elle éclaire. C'est dans le silence de la nuit, sous la canopée obscure, que les esprits parlent le plus clairement.
 
@@ -64,7 +64,7 @@ Les Avaloréens croient que la vérité se cache dans l'obscurité. Noctis, divi
 - **Le Voile d'Ombre** : Lors de cérémonies importantes, les participants se couvrent d'un voile noir pour symboliser leur acceptation de l'inconnu.
 - **L'Interdit de la Flamme** : Les feux de camp sont strictement réglementés en Avalor. Brûler du bois vivant est un crime capital — seul le bois mort, offert par la forêt, peut être utilisé.
 
-### [[00_Systeme_Religieux|Vael'Kurash]] — Le Culte des Esprits Anciens (religion secondaire)
+### Vael'Kurash — Le Culte des Esprits Anciens (religion secondaire)
 
 La vénération des esprits de la nature est si profondément ancrée en Avalor qu'elle se confond avec la vie quotidienne. Les esprits ne sont pas adorés comme des dieux — ils sont respectés comme des voisins, des alliés, des partenaires. Chaque arbre ancien a un nom, chaque source un esprit gardien, chaque clairière une histoire.
 

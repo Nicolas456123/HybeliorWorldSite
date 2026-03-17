@@ -12,8 +12,8 @@
 | **Continent** | Endora |
 | **Numéro** | 23 |
 | **Gouvernement** | Monarchie militaire |
-| **Religion principale** | [[00_Systeme_Religieux\|Lex Petra]] (La Loi de la Pierre) |
-| **Religion secondaire** | [[00_Systeme_Religieux\|Ignis Aeternum]] (Le Feu Éternel) |
+| **Religion principale** | Lex Petra (La Loi de la Pierre) |
+| **Religion secondaire** | Ignis Aeternum (Le Feu Éternel) |
 | **Culture dominante** | Militariste, forteresses dans les vallées, discipline et honneur |
 | **Histoire marquante** | La Défense de la Porte de Fer |
 | **Ressources clés** | Fer, acier, pierre de taille, charbon, chevaux de guerre |
@@ -55,7 +55,7 @@ Le système politique d'Iskara fusionne pouvoir royal et commandement militaire 
 
 ## Religion
 
-### [[00_Systeme_Religieux|Lex Petra]] — La Loi de la Pierre (religion dominante)
+### Lex Petra — La Loi de la Pierre (religion dominante)
 
 Les Iskarans croient que le monde est régi par des lois immuables, inscrites dans la pierre elle-même. La roche ne ment pas, ne plie pas, ne négocie pas — elle est la vérité brute. Terranu, le dieu de la terre, est vénéré comme le créateur de l'ordre naturel, tandis que Gravitas incarne la force qui maintient toute chose en place. Judicar est invoqué pour rendre la justice.
 
@@ -64,7 +64,7 @@ Les Iskarans croient que le monde est régi par des lois immuables, inscrites da
 - **Le Jugement de la Faille** : Les affaires judiciaires complexes sont tranchées dans des crevasses naturelles, où le juge écoute "la voix de la montagne" avant de rendre son verdict.
 - **La Veille de la Roche** : Une nuit par an, tous les Iskarans dorment à même la pierre, sans confort, pour se rappeler leur lien avec la terre.
 
-### [[00_Systeme_Religieux|Ignis Aeternum]] — Le Feu Éternel (religion secondaire)
+### Ignis Aeternum — Le Feu Éternel (religion secondaire)
 
 Le feu est omniprésent en Iskara — dans les forges, dans les lampes des tunnels, dans les braseros des remparts. Le culte d'Eldoria enseigne que le feu est la lumière primordiale qui repousse les ténèbres et purifie le fer. Pour les Iskarans, le feu et la pierre sont complémentaires : la pierre donne la forme, le feu donne la force.
 
@@ -194,7 +194,7 @@ Région nord, siège de la capitale. Glintar est un immense bassin entouré de m
 - Région : Helionar
 
 ### Morvalis
-*Bourg austère sur les hauteurs de Helionar, connu pour son monastère de la Lex Petra. Les moines-juges de Morvalis ([[00_Systeme_Religieux|Lex Petra]]) sont les arbitres suprêmes du royaume — leur verdict est sans appel, même pour le roi.*
+*Bourg austère sur les hauteurs de Helionar, connu pour son monastère de la Lex Petra. Les moines-juges de Morvalis (Lex Petra) sont les arbitres suprêmes du royaume — leur verdict est sans appel, même pour le roi.*
 - Population : Ville
 - Région : Helionar
 
@@ -224,5 +224,5 @@ Région nord, siège de la capitale. Glintar est un immense bassin entouré de m
 ## Secrets et intrigues
 
 - **Les Tunnels Oubliés** : Sous Iskara, un réseau de tunnels bien plus ancien que le royaume serpente dans les profondeurs. Les mineurs de Myrilith ont découvert des salles immenses ornées de symboles inconnus — et certaines sont verrouillées par des portes que même l'acier iskaran ne peut entamer.
-- **La Flamme Immortelle** : La Grande Forge de Glintaris brûle depuis la fondation de la cité. Aucun Iskaran ne sait pourquoi elle ne s'éteint jamais — le charbon qu'on y verse semble superflu. Les prêtres d'[[00_Systeme_Religieux|Ignis Aeternum]] gardent la forge avec une ferveur qui suggère qu'ils connaissent un secret qu'ils ne partagent pas.
+- **La Flamme Immortelle** : La Grande Forge de Glintaris brûle depuis la fondation de la cité. Aucun Iskaran ne sait pourquoi elle ne s'éteint jamais — le charbon qu'on y verse semble superflu. Les prêtres d'Ignis Aeternum gardent la forge avec une ferveur qui suggère qu'ils connaissent un secret qu'ils ne partagent pas.
 - **Le Roi Fantôme** : On murmure que Theron IV n'est pas le vrai roi. Le véritable héritier serait mort enfant et aurait été remplacé par un orphelin choisi par le Conseil des Forges. Si cette rumeur est vraie, la légitimité de la dynastie entière s'effondre — et certains commandants ambitieux pourraient en profiter.

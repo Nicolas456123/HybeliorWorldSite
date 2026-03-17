@@ -11,8 +11,8 @@
 |---|---|
 | **Continent** | Alkaran |
 | **Gouvernement** | Monarchie éclairée |
-| **Religion principale** | [[00_Systeme_Religieux\|Lex Petra]] (La Loi de Pierre) |
-| **Religion secondaire** | [[00_Systeme_Religieux\|Filii Fornacis]] (Les Enfants de la Forge) |
+| **Religion principale** | Lex Petra (La Loi de Pierre) |
+| **Religion secondaire** | Filii Fornacis (Les Enfants de la Forge) |
 | **Culture dominante** | Métallurgie, traditions guerrières, honneur familial |
 | **Histoire marquante** | La Rébellion des Forgerons |
 | **Ressources clés** | Fer, argent, pierres précieuses, acier d'exception |
@@ -57,7 +57,7 @@ Le roi actuel est **Aldric IV**, un souverain pragmatique et respecté, connu po
 
 ## Religion
 
-### [[00_Systeme_Religieux|Lex Petra]] — La Loi de Pierre (religion officielle)
+### Lex Petra — La Loi de Pierre (religion officielle)
 
 Les Altramites croient que l'ordre et la loi sont des forces naturelles incarnées dans la pierre elle-même. Chaque serment est prêté sur un bloc de pierre brute. Les tribunaux se tiennent dans des salles taillées dans la roche, et les juges portent des colliers de pierre polie symbolisant leur impartialité.
 
@@ -67,7 +67,7 @@ Les temples de la Lex Petra sont des cavernes naturelles élargies et gravées d
 - **Le Jour de la Pierre Première** (solstice d'hiver) — Chaque citoyen dépose une pierre gravée de son nom devant le temple, renouvelant son engagement envers la loi.
 - **Le Jugement des Flammes** (équinoxe de printemps) — Les forgerons présentent leurs meilleures créations au temple. La plus belle est fondue et coulée dans les fondations d'un nouveau bâtiment public, symbolisant que l'art sert la communauté.
 
-### [[00_Systeme_Religieux|Filii Fornacis]] — Les Enfants de la Forge (religion minoritaire)
+### Filii Fornacis — Les Enfants de la Forge (religion minoritaire)
 
 Une croyance populaire parmi les forgerons les plus dévots : Ferros, le Céleste Forgeron Légendaire, serait le véritable architecte du monde. Selon eux, le monde n'a pas été créé par les Éternels mais forgé — chaque montagne est un coup de marteau, chaque rivière une trempe d'acier. Cette hérésie est tolérée en Altram car elle renforce la fierté artisanale, mais les prêtres de la Lex Petra la regardent avec méfiance.
 
@@ -198,7 +198,7 @@ Région méridionale plus tempérée, connue pour ses carrières de pierre préc
 - Région : Yaltar
 
 ### Namyr
-*Le plus petit village d'Altram, à peine une douzaine de maisons. Mais Namyr abrite le Sanctuaire de la Première Enclume — le lieu où, selon la légende, Varnok le Forgeur a frappé son premier coup de marteau. C'est un lieu de pèlerinage pour les [[00_Systeme_Religieux|Filii Fornacis]].*
+*Le plus petit village d'Altram, à peine une douzaine de maisons. Mais Namyr abrite le Sanctuaire de la Première Enclume — le lieu où, selon la légende, Varnok le Forgeur a frappé son premier coup de marteau. C'est un lieu de pèlerinage pour les Filii Fornacis.*
 - Population : Village
 - Région : Yaltar
 
@@ -219,4 +219,4 @@ Région méridionale plus tempérée, connue pour ses carrières de pierre préc
 
 - **La Veine Noire** : Sous les mines les plus profondes de Martelios, les mineurs ont découvert un métal inconnu, noir comme la nuit et impossible à fondre avec les techniques actuelles. Le roi a fait sceller la galerie et interdit d'en parler. Certains croient que c'est le sang cristallisé d'un Éternel.
 - **Le prince Brennan** entretient secrètement des contacts avec Mosrack, cherchant à moderniser l'armée d'Altram avec des machines de guerre — une idée que le Conseil des Maîtres rejetterait catégoriquement.
-- **La Guilde des Ombres-Forgerons** : Un groupe clandestin de forgerons qui créent des armes maudites pour le plus offrant. Ils suivent une version corrompue des [[00_Systeme_Religieux|Filii Fornacis]] et croient que Ferros exige des sacrifices de sang pour les plus grandes œuvres.
+- **La Guilde des Ombres-Forgerons** : Un groupe clandestin de forgerons qui créent des armes maudites pour le plus offrant. Ils suivent une version corrompue des Filii Fornacis et croient que Ferros exige des sacrifices de sang pour les plus grandes œuvres.
