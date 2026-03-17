@@ -77,10 +77,10 @@ export default async function handler(req, res) {
         args: [
           { type: 'text', value: e.name },
           { type: 'text', value: e.storage },
-          { type: 'float', value: String(e.coord_x) },
-          { type: 'float', value: String(e.coord_y) },
-          { type: 'float', value: String(e.coord_x) },
-          { type: 'float', value: String(e.coord_y) }
+          { type: 'float', value: Number(e.coord_x) },
+          { type: 'float', value: Number(e.coord_y) },
+          { type: 'float', value: Number(e.coord_x) },
+          { type: 'float', value: Number(e.coord_y) }
         ]
       }));
       await tursoBatch(statements);

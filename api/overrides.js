@@ -69,10 +69,10 @@ export default async function handler(req, res) {
         [
           { type: 'text', value: name },
           { type: 'text', value: storage },
-          { type: 'float', value: String(coord_x) },
-          { type: 'float', value: String(coord_y) },
-          { type: 'float', value: String(coord_x) },
-          { type: 'float', value: String(coord_y) }
+          { type: 'float', value: Number(coord_x) },
+          { type: 'float', value: Number(coord_y) },
+          { type: 'float', value: Number(coord_x) },
+          { type: 'float', value: Number(coord_y) }
         ]
       );
       return res.status(200).json({ ok: true });
