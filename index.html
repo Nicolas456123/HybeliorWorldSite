@@ -2098,7 +2098,66 @@
         editorMode = true;
         document.getElementById('toggleEditor').classList.add('active');
 
-        // Attach drag trackers to all marker circles
+        let dragEl = null;       // element being dragged
+        let dragMarker = null;   // circle being dragged
+
+        function onPointerMove(evt) {
+            if (!dragEl) return;
+            evt.preventDefault();
+            evt.stopPropagation();
+            const viewerRect = viewer.container.getBoundingClientRect();
+            const pixelPt = new OpenSeadragon.Point(
+                evt.clientX - viewerRect.left,
+                evt.clientY - viewerRect.top
+            );
+            const newPt = viewer.viewport.pointFromPixel(pixelPt);
+
+            dragEl.coord = { x: newPt.x, y: newPt.y };
+            dragEl.textCoord = { x: newPt.x + dragEl.xOffset, y: newPt.y + dragEl.yOffset };
+
+            const fontSize = dragEl.fontSize;
+            const textWidth = dragEl.name.length * fontSize * 0.6;
+            const textHeight = fontSize * 1.1;
+
+            dragMarker.setAttribute("cx", newPt.x);
+            dragMarker.setAttribute("cy", newPt.y);
+
+            dragEl.texts.forEach(t => {
+                if (t.tagName === 'text') {
+                    t.setAttribute("x", newPt.x + dragEl.xOffset);
+                    t.setAttribute("y", newPt.y + dragEl.yOffset);
+                }
+            });
+            dragEl.rects.forEach(r => {
+                if (r.tagName === 'rect') {
+                    r.setAttribute("x", newPt.x + dragEl.xOffset - textWidth / 2);
+                    r.setAttribute("y", newPt.y + dragEl.yOffset - textHeight + (fontSize * 0.3));
+                }
+            });
+        }
+
+        function onPointerUp(evt) {
+            if (!dragEl) return;
+            dragMarker.setAttribute("cursor", "grab");
+            dragMarker.setAttribute("fill", "#c9a84c");
+            dragMarker.releasePointerCapture(evt.pointerId);
+            // Auto-save
+            const csvX = dragEl.coord.x * 1047 - 527.5;
+            const csvY = dragEl.coord.y * 1047 - 535;
+            saveOverride(dragEl.name, dragEl.storage, csvX, csvY);
+            viewer.setMouseNavEnabled(true);
+            dragEl = null;
+            dragMarker = null;
+        }
+
+        document.addEventListener('pointermove', onPointerMove, true);
+        document.addEventListener('pointerup', onPointerUp, true);
+        editorTrackers.push({ destroy: function() {
+            document.removeEventListener('pointermove', onPointerMove, true);
+            document.removeEventListener('pointerup', onPointerUp, true);
+        }});
+
+        // Attach pointerdown to all marker circles
         CONFIG.csvFiles.forEach(config => {
             if (!config.showMarker) return;
             const storage = elementStorage[config.storage];
@@ -2106,56 +2165,27 @@
 
             storage.forEach(el => {
                 if (!el.markers || el.markers.length === 0) return;
-                const mainMarker = el.markers[0]; // Primary position marker
+                const mainMarker = el.markers[0];
                 mainMarker.setAttribute("pointer-events", "all");
                 mainMarker.setAttribute("cursor", "grab");
+                mainMarker.style.touchAction = "none";
 
-                const tracker = new OpenSeadragon.MouseTracker({
-                    element: mainMarker,
-                    dragHandler: function(e) {
-                        e.preventDefaultAction = true;
-                        const newPt = viewer.viewport.pointFromPixel(e.position);
-                        // Update all SVG elements in real time
-                        el.coord = { x: newPt.x, y: newPt.y };
-                        el.textCoord = { x: newPt.x + el.xOffset, y: newPt.y + el.yOffset };
+                function onPointerDown(evt) {
+                    if (!editorMode) return;
+                    evt.preventDefault();
+                    evt.stopPropagation();
+                    dragEl = el;
+                    dragMarker = mainMarker;
+                    mainMarker.setAttribute("cursor", "grabbing");
+                    mainMarker.setAttribute("fill", "#e74c3c");
+                    mainMarker.setPointerCapture(evt.pointerId);
+                    viewer.setMouseNavEnabled(false);
+                }
 
-                        const fontSize = el.fontSize;
-                        const textWidth = el.name.length * fontSize * 0.6;
-                        const textHeight = fontSize * 1.1;
-
-                        // Move marker
-                        mainMarker.setAttribute("cx", newPt.x);
-                        mainMarker.setAttribute("cy", newPt.y);
-
-                        // Move text and rect (first position only during drag)
-                        el.texts.forEach(t => {
-                            if (t.tagName === 'text') {
-                                t.setAttribute("x", newPt.x + el.xOffset);
-                                t.setAttribute("y", newPt.y + el.yOffset);
-                            }
-                        });
-                        el.rects.forEach(r => {
-                            if (r.tagName === 'rect') {
-                                r.setAttribute("x", newPt.x + el.xOffset - textWidth / 2);
-                                r.setAttribute("y", newPt.y + el.yOffset - textHeight + (fontSize * 0.3));
-                            }
-                        });
-                    },
-                    pressHandler: function(e) {
-                        e.preventDefaultAction = true;
-                        mainMarker.setAttribute("cursor", "grabbing");
-                        mainMarker.setAttribute("fill", "#e74c3c"); // Red during drag
-                    },
-                    releaseHandler: function(e) {
-                        mainMarker.setAttribute("cursor", "grab");
-                        mainMarker.setAttribute("fill", "#c9a84c"); // Back to gold
-                        // Auto-save: convert viewport coords back to CSV coords
-                        const csvX = el.coord.x * 1047 - 527.5;
-                        const csvY = el.coord.y * 1047 - 535;
-                        saveOverride(el.name, el.storage, csvX, csvY);
-                    }
-                });
-                editorTrackers.push(tracker);
+                mainMarker.addEventListener('pointerdown', onPointerDown);
+                editorTrackers.push({ destroy: function() {
+                    mainMarker.removeEventListener('pointerdown', onPointerDown);
+                }});
             });
         });
     }
