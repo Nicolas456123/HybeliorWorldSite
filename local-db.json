@@ -590,8 +590,8 @@
   {
     "name": "Galdoria",
     "storage": "citesElements",
-    "coord_x": -216.891423168751,
-    "coord_y": 129.088153737997
+    "coord_x": -214.92353459837176,
+    "coord_y": 132.27512456996203
   },
   {
     "name": "Ryndor",
@@ -4108,5 +4108,23 @@
     "storage": "regionElements",
     "coord_x": 379.938896162611,
     "coord_y": 35.3295007199234
+  },
+  {
+    "name": "Village1",
+    "storage": "villagesElements",
+    "coord_x": -288.41684234198243,
+    "coord_y": -143.3210715708219
+  },
+  {
+    "name": "village2",
+    "storage": "villagesElements",
+    "coord_x": -280.1433582630026,
+    "coord_y": -150.29356293901583
+  },
+  {
+    "name": "Village3",
+    "storage": "villagesElements",
+    "coord_x": -279.84631329273174,
+    "coord_y": -162.7451225850338
   }
 ]

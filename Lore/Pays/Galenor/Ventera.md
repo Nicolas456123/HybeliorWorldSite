@@ -225,11 +225,6 @@ Région méridionale de vastes plateaux semi-arides, Astralor est la plus mysté
 - Population : Village
 - Région : Astralor
 
-### Kryndor — Village
-*Le village le plus méridional de Ventera, Kryndor est le dernier avant-poste avant les terres sauvages du sud. Ses habitants, des cavaliers endurcis, escortent les caravanes qui osent s'aventurer au-delà des frontières connues.*
-- Population : Village
-- Région : Astralor
-
 ---
 
 ## Relations extérieures

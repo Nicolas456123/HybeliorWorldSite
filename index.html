@@ -728,11 +728,11 @@
                 right: 12px;
                 top: auto;
                 bottom: 0;
-                max-height: 55vh;
+                max-height: 50vh;
                 border-radius: 12px 12px 0 0;
             }
             .info-panel-content {
-                max-height: calc(55vh - 60px);
+                max-height: calc(50vh - 60px);
             }
             body.info-panel-visible .nav-controls {
                 right: 12px;
@@ -779,7 +779,18 @@
             <div class="ctrl-section-title">Outils</div>
             <button id="measureDistance"><span class="icon">&#x1F4CF;</span> Distance</button>
             <button id="measureArea"><span class="icon">&#x2B1B;</span> Surface</button>
+            <button id="toggleMarkers"><span class="icon">&#x1F4CD;</span> Marqueurs</button>
             <button id="toggleEditor"><span class="icon">&#x270F;</span> &Eacute;diteur</button>
+            <button id="addPointBtn" style="display:none"><span class="icon">&#x2795;</span> Ajouter un point</button>
+            <div id="addPointOptions" style="display:none; margin-top:4px;">
+                <label style="font-size:11px; color:var(--text-muted); margin-bottom:4px; display:block;">Type :</label>
+                <select id="addPointType" style="width:100%; padding:5px 8px; background:var(--input-bg); border:1px solid var(--input-border); border-radius:var(--radius); color:var(--text); font-size:12px; margin-bottom:4px;">
+                    <option value="villagesElements">Village</option>
+                    <option value="villesElements">Ville</option>
+                    <option value="citesElements">Cit&eacute;</option>
+                    <option value="capitalesElements">Capitale</option>
+                </select>
+            </div>
         </div>
 
         <!-- Grille -->
@@ -874,6 +885,7 @@
     
     // États
     let textVisibilityEnabled = true;
+    let markersVisible = true;
     let measureMode = null;
     let measurePoints = [];
     let currentGridSize = 10;
@@ -888,6 +900,7 @@
     let editorMode = false;
     let editorAuthenticated = false;
     let editorTrackers = [];
+    let addPointMode = false;
 
     // Initialisation du viewer OpenSeadragon
     function initViewer() {
@@ -1050,6 +1063,7 @@
         document.getElementById('measureDistance').addEventListener('click', () => startMeasure('distance'));
         document.getElementById('measureArea').addEventListener('click', () => startMeasure('area'));
         document.getElementById('toggleEditor').addEventListener('click', toggleEditor);
+        document.getElementById('toggleMarkers').addEventListener('click', toggleMarkers);
         document.getElementById('toggleGrid').addEventListener('click', toggleGrid);
 
         // Navigation personnalisée
@@ -1364,6 +1378,14 @@
     }
 
     function parseLoreMD(md) {
+        // Convertir les liens Obsidian AVANT tout parsing
+        // [[Fichier\|Nom]], [[Fichier|Nom]], [[Nom]] → Nom affiché
+        md = md.replace(/\[\[([^\]]+)\]\]/g, function(m, inner) {
+            var clean = inner.replace(/\\\|/g, '|');
+            var parts = clean.split('|');
+            return parts.length > 1 ? parts[parts.length - 1].trim() : parts[0].split('/').pop().trim();
+        });
+
         // Extract title subtitle (after # Title — Subtitle)
         const titleMatch = md.match(/^#\s+(.+?)(?:\s*—\s*(.+))?$/m);
         const subtitle = titleMatch ? (titleMatch[2] || '') : '';
@@ -1440,6 +1462,12 @@
     }
 
     function renderMD(text) {
+        // Convertir les liens Obsidian [[Fichier\|Nom]], [[Fichier|Nom]], [[Nom]]
+        text = text.replace(/\[\[([^\]]+)\]\]/g, function(m, inner) {
+            var clean = inner.replace(/\\\|/g, '|');
+            var parts = clean.split('|');
+            return parts.length > 1 ? parts[parts.length - 1].trim() : parts[0].split('/').pop().trim();
+        });
         if (typeof marked !== 'undefined' && marked.parse) {
             return marked.parse(text, { breaks: true });
         }
@@ -1569,8 +1597,24 @@
 
     // Pan so that the point is centered on screen
     function panToWithPanelOffset(point, targetZoom) {
-        if (targetZoom) viewer.viewport.zoomTo(targetZoom);
-        viewer.viewport.panTo(point);
+        // Sur mobile, décaler pour centrer dans la moitié haute (au-dessus du panel)
+        const isMobile = window.innerWidth <= 600;
+        if (isMobile) {
+            // Appliquer le zoom d'abord, puis calculer l'offset au bon zoom
+            const zoom = targetZoom || viewer.viewport.getZoom();
+            if (targetZoom) viewer.viewport.zoomTo(targetZoom);
+            // Offset en pixels = 25% de la hauteur du container
+            const containerH = viewer.container.clientHeight;
+            const containerW = viewer.container.clientWidth;
+            const shiftPx = containerH * 0.25;
+            // En OSD: 1 unité viewport horizontale = zoom * containerW pixels
+            // Donc offsetY en viewport = shiftPx / (zoom * containerW)
+            const offsetY = shiftPx / (zoom * containerW);
+            viewer.viewport.panTo(new OpenSeadragon.Point(point.x, point.y + offsetY));
+        } else {
+            if (targetZoom) viewer.viewport.zoomTo(targetZoom);
+            viewer.viewport.panTo(point);
+        }
     }
 
     function navigateToPlace(name) {
@@ -1752,6 +1796,10 @@
                 if (element._visible !== inView) {
                     element.texts.forEach(el => el.style.display = display);
                     element.rects.forEach(el => el.style.display = display);
+                    // Respecter le toggle marqueurs
+                    if (!markersVisible && element.markers) {
+                        element.markers.forEach(m => m.style.display = 'none');
+                    }
                     element._visible = inView;
                 }
             });
@@ -1761,6 +1809,21 @@
     function toggleTextVisibility() {
         textVisibilityEnabled = !textVisibilityEnabled;
         updateTextVisibility();
+    }
+
+    function toggleMarkers() {
+        markersVisible = !markersVisible;
+        const btn = document.getElementById('toggleMarkers');
+        btn.classList.toggle('active', !markersVisible);
+        Object.values(elementStorage).forEach(elements => {
+            elements.forEach(el => {
+                if (el.markers) {
+                    el.markers.forEach(m => {
+                        m.style.display = markersVisible ? '' : 'none';
+                    });
+                }
+            });
+        });
     }
 
     function toggleBorders() {
@@ -1954,6 +2017,76 @@
     function enableEditorMode() {
         editorMode = true;
         document.getElementById('toggleEditor').classList.add('active');
+        document.getElementById('addPointBtn').style.display = '';
+        document.getElementById('addPointOptions').style.display = 'none';
+
+        // Bouton ajouter un point
+        function onAddPointClick() {
+            addPointMode = !addPointMode;
+            document.getElementById('addPointBtn').classList.toggle('active', addPointMode);
+            document.getElementById('addPointOptions').style.display = addPointMode ? 'block' : 'none';
+            viewer.canvas.style.cursor = addPointMode ? 'crosshair' : '';
+        }
+        document.getElementById('addPointBtn').addEventListener('click', onAddPointClick);
+        editorTrackers.push({ destroy: () => {
+            document.getElementById('addPointBtn').removeEventListener('click', onAddPointClick);
+        }});
+
+        // Handler pour placer un nouveau point sur clic canvas
+        const origCanvasClick = viewer.getHandler('canvas-click');
+        function addPointCanvasHandler(event) {
+            if (!addPointMode || !editorMode) return;
+            event.preventDefaultAction = true;
+            const viewportPoint = viewer.viewport.pointFromPixel(event.position);
+            const name = prompt('Nom du nouveau lieu :');
+            if (!name || !name.trim()) return;
+
+            const storage = document.getElementById('addPointType').value;
+            const configByStorage = {};
+            CONFIG.layers.forEach(c => { configByStorage[c.storage] = c; });
+            const config = configByStorage[storage];
+            if (!config) return;
+
+            const coord = { x: viewportPoint.x, y: viewportPoint.y };
+            const item = { '': name.trim() };
+            const elements = createTextAndRect(name.trim(), coord, config, item);
+            const el = {
+                name: name.trim(),
+                storage: storage,
+                coord: coord,
+                textCoord: { x: coord.x + (config.xOffset || 0), y: coord.y + (config.yOffset || 0) },
+                texts: elements.texts,
+                rects: elements.rects,
+                markers: elements.markers,
+                xOffset: config.xOffset || 0,
+                yOffset: config.yOffset || 0,
+                zoomRange: config.zoomRange,
+                fontSize: parseFloat(config.fontSize)
+            };
+            elementStorage[config.storage].push(el);
+            allNames.push(name.trim());
+
+            // Sauvegarder en DB
+            const csvX = coord.x * 1047 - 527.5;
+            const csvY = coord.y * 1047 - 535;
+            saveOverride(name.trim(), storage, csvX, csvY);
+
+            // Attacher drag au nouveau marqueur
+            if (window._attachDragToElement) window._attachDragToElement(el);
+
+            // Rendre visible
+            updateTextVisibility();
+
+            // Désactiver le mode ajout
+            addPointMode = false;
+            document.getElementById('addPointBtn').classList.remove('active');
+            document.getElementById('addPointOptions').style.display = 'none';
+            viewer.canvas.style.cursor = '';
+        }
+        viewer.addHandler('canvas-click', addPointCanvasHandler);
+        editorTrackers.push({ destroy: () => {
+            viewer.removeHandler('canvas-click', addPointCanvasHandler);
+        }});
 
         let dragEl = null;       // element being dragged
         let dragMarker = null;   // circle being dragged
@@ -2018,49 +2151,59 @@
             document.removeEventListener('pointerup', onPointerUp, true);
         }});
 
+        // Fonction pour attacher le drag à un élément (réutilisable pour nouveaux points)
+        function attachDragToElement(el) {
+            let handle;
+            if (el.markers && el.markers.length > 0) {
+                handle = el.markers[0];
+            } else if (el.rects && el.rects.length > 0) {
+                handle = el.rects[0];
+            } else {
+                return;
+            }
+
+            handle.setAttribute("pointer-events", "all");
+            handle.setAttribute("cursor", "grab");
+            handle.style.touchAction = "none";
+
+            function onPointerDown(evt) {
+                if (!editorMode) return;
+                evt.preventDefault();
+                evt.stopPropagation();
+                dragEl = el;
+                dragMarker = handle;
+                handle.setAttribute("cursor", "grabbing");
+                if (handle.tagName === 'circle') handle.setAttribute("fill", "#e74c3c");
+                handle.setPointerCapture(evt.pointerId);
+                viewer.setMouseNavEnabled(false);
+            }
+
+            handle.addEventListener('pointerdown', onPointerDown);
+            editorTrackers.push({ destroy: function() {
+                handle.removeEventListener('pointerdown', onPointerDown);
+            }});
+        }
+
+        // Rendre la fonction accessible depuis le handler d'ajout de point
+        window._attachDragToElement = attachDragToElement;
+
         // Attach pointerdown to all draggable elements (markers or rects)
         CONFIG.layers.forEach(config => {
             const storage = elementStorage[config.storage];
             if (!storage) return;
-
-            storage.forEach(el => {
-                // Use marker circle if available, otherwise use first rect (for continents/pays/regions)
-                let handle;
-                if (el.markers && el.markers.length > 0) {
-                    handle = el.markers[0];
-                } else if (el.rects && el.rects.length > 0) {
-                    handle = el.rects[0];
-                } else {
-                    return;
-                }
-
-                handle.setAttribute("pointer-events", "all");
-                handle.setAttribute("cursor", "grab");
-                handle.style.touchAction = "none";
-
-                function onPointerDown(evt) {
-                    if (!editorMode) return;
-                    evt.preventDefault();
-                    evt.stopPropagation();
-                    dragEl = el;
-                    dragMarker = handle;
-                    handle.setAttribute("cursor", "grabbing");
-                    if (handle.tagName === 'circle') handle.setAttribute("fill", "#e74c3c");
-                    handle.setPointerCapture(evt.pointerId);
-                    viewer.setMouseNavEnabled(false);
-                }
-
-                handle.addEventListener('pointerdown', onPointerDown);
-                editorTrackers.push({ destroy: function() {
-                    handle.removeEventListener('pointerdown', onPointerDown);
-                }});
-            });
+            storage.forEach(el => attachDragToElement(el));
         });
     }
 
     function disableEditorMode() {
         editorMode = false;
+        addPointMode = false;
         document.getElementById('toggleEditor').classList.remove('active');
+        document.getElementById('addPointBtn').style.display = 'none';
+        document.getElementById('addPointBtn').classList.remove('active');
+        document.getElementById('addPointOptions').style.display = 'none';
+        viewer.canvas.style.cursor = '';
+        window._attachDragToElement = null;
 
         // Remove all editor trackers
         editorTrackers.forEach(t => t.destroy());
