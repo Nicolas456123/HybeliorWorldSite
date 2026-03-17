@@ -2014,8 +2014,10 @@
 
     function applyOverride(el, newCoordX, newCoordY) {
         const newCoord = convertCoordinates(newCoordX, newCoordY);
-        el.coord = newCoord;
-        el.textCoord = { x: newCoord.x + el.xOffset, y: newCoord.y + el.yOffset };
+        el.coord.x = newCoord.x;
+        el.coord.y = newCoord.y;
+        el.textCoord.x = newCoord.x + el.xOffset;
+        el.textCoord.y = newCoord.y + el.yOffset;
 
         const fontSize = el.fontSize;
         const textWidth = el.name.length * fontSize * 0.6;
@@ -2110,8 +2112,10 @@
             );
             const newPt = viewer.viewport.pointFromPixel(pixelPt);
 
-            dragEl.coord = { x: newPt.x, y: newPt.y };
-            dragEl.textCoord = { x: newPt.x + dragEl.xOffset, y: newPt.y + dragEl.yOffset };
+            dragEl.coord.x = newPt.x;
+            dragEl.coord.y = newPt.y;
+            dragEl.textCoord.x = newPt.x + dragEl.xOffset;
+            dragEl.textCoord.y = newPt.y + dragEl.yOffset;
 
             const fontSize = dragEl.fontSize;
             const textWidth = dragEl.name.length * fontSize * 0.6;
