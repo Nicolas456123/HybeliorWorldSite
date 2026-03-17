@@ -850,8 +850,8 @@
             { path: "./Data/DT_Region.csv", fontSize: "0.004", storage: "regionElements", xOffset: 0.005, yOffset: 0.002, zoomRange: [4, 10] },
             { path: "./Data/DT_Capitales.csv", fontSize: "0.0015", storage: "capitalesElements", xOffset: 0, yOffset: -0.002, showMarker: true, zoomRange: [10, Infinity] },
             { path: "./Data/DT_Cites.csv", fontSize: "0.0011", storage: "citesElements", xOffset: 0, yOffset: -0.0015, showMarker: true, zoomRange: [14, Infinity] },
-            { path: "./Data/DT_Villes.csv", fontSize: "0.0006", storage: "villesElements", xOffset: 0, yOffset: -0.0008, showMarker: true, zoomRange: [16, Infinity] },
-            { path: "./Data/DT_Villages.csv", fontSize: "0.0004", storage: "villagesElements", xOffset: 0, yOffset: -0.0005, showMarker: true, zoomRange: [18, Infinity] }
+            { path: "./Data/DT_Villes.csv", fontSize: "0.0006", storage: "villesElements", xOffset: 0, yOffset: -0.0014, showMarker: true, zoomRange: [16, Infinity] },
+            { path: "./Data/DT_Villages.csv", fontSize: "0.0004", storage: "villagesElements", xOffset: 0, yOffset: -0.001, showMarker: true, zoomRange: [18, Infinity] }
         ]
     };
 
@@ -1375,7 +1375,7 @@
                 clickHandler: function(event) {
                     event.preventDefaultAction = true;
                     showInfoPanel(name, item);
-                    const pt = new OpenSeadragon.Point(textCenterX, textCenterY);
+                    const pt = new OpenSeadragon.Point(coord.x, coord.y);
                     panToWithPanelOffset(pt, getTargetZoom(clickFontSize));
                 }
             });
@@ -1670,8 +1670,7 @@
         showInfoPanel(name, { '': name });
 
         if (foundElement) {
-            const tc = foundElement.textCoord || foundElement.coord;
-            const point = new OpenSeadragon.Point(tc.x, tc.y);
+            const point = new OpenSeadragon.Point(foundElement.coord.x, foundElement.coord.y);
             const targetZoom = getTargetZoom(foundElement.fontSize);
             panToWithPanelOffset(point, targetZoom);
         }
@@ -1873,8 +1872,7 @@
             elements.forEach(element => {
                 if (element.name && element.name.toLowerCase() === lowerQuery) {
                     found = true;
-                    const tc = element.textCoord || element.coord;
-                    const point = new OpenSeadragon.Point(tc.x, tc.y);
+                    const point = new OpenSeadragon.Point(element.coord.x, element.coord.y);
 
                     showInfoPanel(element.name, { '': element.name });
 
