@@ -2214,6 +2214,7 @@
     }
 
     function saveOverride(name, storage, csvX, csvY) {
+        console.log('Saving override:', name, storage, csvX, csvY);
         fetch('/api/overrides', {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
@@ -2225,8 +2226,14 @@
                 password: window._editorPassword
             })
         })
-        .then(r => { if (!r.ok) throw new Error('Save failed'); })
-        .catch(err => console.error('Override save error:', err));
+        .then(r => {
+            if (!r.ok) return r.text().then(t => { throw new Error('Save failed: ' + r.status + ' ' + t); });
+            console.log('Override saved OK:', name);
+        })
+        .catch(err => {
+            console.error('Override save error:', err);
+            alert('Erreur de sauvegarde: ' + err.message);
+        });
     }
 
     // === Mesure ===
