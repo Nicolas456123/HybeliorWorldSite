@@ -34,8 +34,8 @@
 }
 .frise-axis {
     position: sticky; left: 0; z-index: 10;
-    flex-shrink: 0; width: 54px;
-    background: linear-gradient(to right, rgba(245,239,227,0.98) 80%, rgba(245,239,227,0) 100%);
+    flex-shrink: 0; width: 88px;
+    background: linear-gradient(to right, rgba(245,239,227,0.98) 82%, rgba(245,239,227,0) 100%);
 }
 #frise-svg { display: block; }
 #frise-svg text { font-family: 'Raleway', sans-serif; }
@@ -96,12 +96,36 @@
    DATA
    ================================================================= */
 const ERAS = [
-    { id:'primordial', name:'Temps Primordiaux', y0:0,   h:300, bg:'rgba(180,150,80,0.07)' },
-    { id:'lien',       name:'Âge du Lien',      y0:300, h:500, bg:'rgba(80,120,160,0.06)' },
-    { id:'arrachement',name:"L'Arrachement",     y0:800, h:160, bg:'rgba(160,30,30,0.09)' },
-    { id:'nuit',       name:'Grande Nuit',       y0:960, h:600, bg:'rgba(50,30,70,0.05)' },
-    { id:'nations',    name:'Ère des Nations',   y0:1560,h:1000,bg:'rgba(120,90,20,0.05)' },
-    { id:'actuel',     name:'Ère Actuelle',      y0:2560,h:600, bg:'rgba(180,140,40,0.06)' },
+    { id:'genese',     name:'Ères Primordiales', y0:0,   h:150, bg:'rgba(180,150,80,0.07)',  dateLabel:'∞ — ~45 000 av.A' },
+    { id:'eveil',      name:'Éveil des Mortels', y0:150, h:150, bg:'rgba(160,120,60,0.06)',  dateLabel:'~45 000 — ~20 000 av.A' },
+    { id:'lien',       name:'Âge du Lien',       y0:300, h:500, bg:'rgba(80,120,160,0.06)',  dateLabel:'~20 000 av.A — An 0' },
+    { id:'arrachement',name:"L'Arrachement",      y0:800, h:160, bg:'rgba(160,30,30,0.09)',  dateLabel:'An 0' },
+    { id:'nuit',       name:'Grande Nuit',        y0:960, h:600, bg:'rgba(50,30,70,0.05)',   dateLabel:'An 0 — ~3 000 ap.A' },
+    { id:'nations',    name:'Ère des Nations',    y0:1560,h:1000,bg:'rgba(120,90,20,0.05)',  dateLabel:'~3 000 — ~9 500 ap.A' },
+    { id:'actuel',     name:'Ère Actuelle',       y0:2560,h:600, bg:'rgba(180,140,40,0.06)', dateLabel:'~9 500 — 10 200 ap.A' },
+];
+
+/* Date ticks on left axis */
+const DATE_TICKS = [
+    {y:0,   label:'∞',           key:false},
+    {y:150, label:'~45 000 av.A',key:true},
+    {y:240, label:'~30 000 av.A',key:false},
+    {y:300, label:'~20 000 av.A',key:true},
+    {y:400, label:'~15 000 av.A',key:false},
+    {y:500, label:'~10 000 av.A',key:false},
+    {y:600, label:'~6 000 av.A', key:false},
+    {y:700, label:'~3 000 av.A', key:false},
+    {y:775, label:'~1 000 av.A', key:false},
+    {y:800, label:'⚡ An 0',      key:true},
+    {y:960, label:'~200 ap.A',   key:false},
+    {y:1200,label:'~1 500 ap.A', key:false},
+    {y:1560,label:'~3 000 ap.A', key:true},
+    {y:1800,label:'~4 500 ap.A', key:false},
+    {y:2100,label:'~6 000 ap.A', key:false},
+    {y:2400,label:'~8 500 ap.A', key:false},
+    {y:2560,label:'~9 500 ap.A', key:true},
+    {y:2800,label:'~10 000 ap.A',key:false},
+    {y:3100,label:'~10 200 ap.A',key:true},
 ];
 const TOTAL_H = 3160;
 const SW = 18; // stream width
@@ -122,24 +146,123 @@ const TYPES = {
 };
 
 const GLOBAL = [
-    { y:60,  t:'magie', title:'Émergence des 5 Éternels', desc:'Celestia, Tempora, Noctis, Navigor, Eldoria.' },
-    { y:130, t:'magie', title:'Naissance des 12 Cosmiques', desc:'Aquor, Terranu, Aerion, Climata…' },
-    { y:200, t:'magie', title:'45 Éthérés se spécialisent', desc:'Forces élémentaires attribuées.' },
-    { y:260, t:'magie', title:'La Voix de Cantor', desc:'Musique comme force de création.' },
-    { y:340, t:'magie', title:'Le Lien se forme', desc:'Connexion mortels-Éternels.' },
-    { y:440, t:'religion', title:'Les 9 Grandes Religions', desc:'Ignis Aeternum, Ordo Caelum, Noctari…' },
-    { y:580, t:'exploration', title:'Les 13 continents se peuplent', desc:'Civilisations émergent.' },
-    { y:830, t:'magie', title:'LA RUPTURE COSMIQUE', desc:'Le Premier Délié sectionne le Lien.' },
-    { y:870, t:'disparition', title:'Navigor disparaît', desc:'Chemins entre mondes fermés.' },
-    { y:900, t:'magie', title:'Eldoria s\'endort', desc:'Aucune nouvelle étoile.' },
-    { y:930, t:'magie', title:'Tempora blessé', desc:'Failles du Temps.' },
-    { y:1020,t:'magie', title:'Noctis s\'étend', desc:'Obscurité sans contre-balance.' },
-    { y:1150,t:'religion', title:'Schisme Ordo Caelum', desc:'Guerres saintes.' },
-    { y:1350,t:'magie', title:'Les Déliés se multiplient', desc:'Trame aspirée.' },
+    // Ères Primordiales
+    { y:40,  t:'magie',      title:'Résonance Primordiale',       desc:'Dans le Vide — la première vibration. Rien ne précède.' },
+    { y:65,  t:'magie',      title:'5 Éternels émergent',         desc:'Celestia, Noctis, Tempora, Eldoria, Navigor — en cascade.' },
+    { y:95,  t:'magie',      title:'12 Cosmiques en 4 phases',    desc:'Terranu, Aquor, Aerion, Flamara, Arborius, Spiritus, Transitum…' },
+    { y:125, t:'magie',      title:'45 Éthérés s\'installent',    desc:'Gelion (Cestra), Ignifex (Cendara), Venturis (Galenor), Coralis (Azoria)…' },
+    { y:148, t:'magie',      title:'La Fracture du Panghor',      desc:'Supercontinent → 3 phases → 13 continents. L\'Océan Primordial sépare.' },
+    // Éveil des Mortels
+    { y:162, t:'decouverte', title:'Premiers mortels — 5 Berceaux',desc:'Flamme/Cendara, Pierre/Alkaran, Vent/Galenor, Brume/Celethor, Eau/Azoria.' },
+    { y:198, t:'exploration',title:'5 Proto-empires',             desc:'Ornakh-Vael, Moldra-Garak, Velkoran, Sylvarin, Thalorak.' },
+    { y:238, t:'conquete',   title:'⚠ GRAND GEL — 1ère quasi-extinction',desc:'~30 000 av.A — Climata. Nadir : ~4 000 âmes. 90%+ perdus.' },
+    { y:280, t:'decouverte', title:'Reconstruction — peuples hybrides',desc:'~25 000 av.A — Ponts de glace. Premières rencontres entre continents.' },
+    // Âge du Lien
+    { y:312, t:'magie',      title:'Orvane, Khatun, Ildaran',     desc:'~20 000 av.A — 3 individus découvrent le Lien indépendamment.' },
+    { y:435, t:'religion',   title:'Les 9 Grandes Religions',     desc:'Ignis Aeternum, Vael\'Kurash, Rota Mundi, Noctari, Ordo Caelum…' },
+    { y:618, t:'exploration',title:'Re-consolidation impériale',  desc:'~3 000 av.A — Royaumes fragmentés fusionnent en 6 grands empires.' },
+    // Graines de la Chute
+    { y:778, t:'religion',   title:'Verithan — Traité du Vide',   desc:'~1 000 av.A — "Le Lien est une chaîne." Fonde les Verithani.' },
+    { y:795, t:'magie',      title:'L\'Étudiant — Cercle des Huit',desc:'~30 av.A — Héritier de Verithan. 8 disciples. Mont Cendra choisi.' },
+    // L'Arrachement
+    { y:816, t:'magie',      title:'⚡ RUPTURE COSMIQUE — An 0',  desc:'L\'Étudiant sectionne son Noeud au Mont Cendra. Propagation en 7h.' },
+    { y:843, t:'disparition',title:'Navigor disparaît',           desc:'Chemins entre dimensions fermés. Les âmes des morts n\'ont plus de guide.' },
+    { y:868, t:'magie',      title:'Eldoria s\'endort',           desc:'Grand Sommeil. Plus aucune étoile nouvelle ne naîtra jamais.' },
+    { y:892, t:'magie',      title:'Tempora blessé — Failles',    desc:'Discontinuités temporelles permanentes. Passé/présent/futur se mélangent.' },
+    // Grande Nuit
+    { y:975, t:'disparition',title:'Semaine Noire',               desc:'An 0 — 120M → 25M en 50 ans. Famines, épidémies, effondrements.' },
+    { y:1155,t:'conquete',   title:'Grand Schisme Religieux',     desc:'~1 000 ap.A — Fidèles vs Abandonnés vs Accusateurs.' },
+    { y:1195,t:'magie',      title:'⚠ FLÉAU DES FAILLES — 3ème quasi-extinction',desc:'~1 500 ap.A — Failles mobiles + épidémie mystique. 40M → 15M.' },
+    { y:1345,t:'magie',      title:'Les Déliés se multiplient',   desc:'Mortels coupés du Lien volontairement. Corrompus. Dangereux.' },
 ];
 
 /* Civilizations — each is an independent branch */
 const CIV = [
+  // === 7 ANCIENS EMPIRES DE L'ÂGE DU LIEN (~19 000 – 3 500 av.A) — dead:true ===
+  {name:'Dominat de Pyrevaste', color:'#b04020', y0:318, y1:450, cont:'Cendara', dead:true, segments:[
+    {y0:318,y1:400,w:1.4},{y0:400,y1:450,w:0.8}
+  ], events:[
+    {y:330,t:'fondation',title:'Fondation militaire',desc:'Premier empire guerrier unifié de Cendara (~19 000 av.A). Légions de feu.'},
+    {y:400,t:'conquete',title:'Apogée impérial',desc:'Domination de 4 régions. Légions de feu. Culte d\'Ignifex imposé.'},
+    {y:435,t:'religion',title:'Culte d\'État',desc:'Les non-pratiquants bannis hors frontières.'},
+    {y:450,t:'disparition',title:'Effondrement dynastique',desc:'Fronde des légions. Scission en 12 cités-états.'},
+  ]},
+  {name:'Théocratie de Celith', color:'#5090a0', y0:323, y1:463, cont:'Celethor', dead:true, segments:[
+    {y0:323,y1:390,w:1.2},{y0:390,y1:463,w:0.9}
+  ], events:[
+    {y:340,t:'religion',title:'Révélation des Ascendants',desc:'Les prêtres de Celith reçoivent le Lien en vision (~18 500 av.A).'},
+    {y:390,t:'fondation',title:'10 Cités-temples',desc:'Reliées par réseau de Lien. Ère de sérénité.'},
+    {y:450,t:'disparition',title:'Schisme des Prophètes',desc:'Deux interprétations du Lien. Guerre fratricide.'},
+    {y:463,t:'disparition',title:'Dissolution',desc:'Celethor se fragmente en clans théocratiques rivaux.'},
+  ]},
+  {name:'Confédération d\'Alkarath', color:'#c8a84b', y0:330, y1:500, cont:'Alkaran', dead:true, segments:[
+    {y0:330,y1:420,w:1.0},{y0:420,y1:500,w:1.3}
+  ], events:[
+    {y:345,t:'fondation',title:'Pacte des 7 Clans',desc:'Union marchande sous bannière commune (~18 000 av.A).'},
+    {y:420,t:'exploration',title:'Routes caravanières',desc:'Réseau commercial reliant 9 continents. Âge d\'or du commerce.'},
+    {y:475,t:'conquete',title:'Guerre des Épices',desc:'Conflit avec Solvenar pour les routes du sud.'},
+    {y:500,t:'disparition',title:'Absorption par Solvenar',desc:'Traité humiliant. Alkarath devient province.'},
+  ]},
+  {name:'Khalifat de Solvenar', color:'#a08040', y0:350, y1:540, cont:'Galenor', dead:true, segments:[
+    {y0:350,y1:460,w:1.1},{y0:460,y1:540,w:1.4}
+  ], events:[
+    {y:365,t:'fondation',title:'Unification des tribus du vent',desc:'Solvenar le Grand fonde le Khalifat (~16 000 av.A).'},
+    {y:460,t:'conquete',title:'Apogée — 6 continents tributaires',desc:'Caravanes de Lien. Sciences des étoiles.'},
+    {y:510,t:'magie',title:'Académie des Astres',desc:'Première institution d\'étude du Lien structurée.'},
+    {y:540,t:'disparition',title:'Sécheresse millénaire',desc:'Galenor brûle. Khalifat abandonné. Nomadisation.'},
+  ]},
+  {name:'Saint-Empire d\'Endara', color:'#8060a0', y0:363, y1:575, cont:'Endora', dead:true, segments:[
+    {y0:363,y1:475,w:0.9},{y0:475,y1:575,w:1.2}
+  ], events:[
+    {y:380,t:'fondation',title:'Pax Endarina',desc:'Empire pacifique fondé par les Liés d\'Endora (~14 500 av.A).'},
+    {y:475,t:'magie',title:'Âge d\'Or arcanique',desc:'Magie institutionnalisée. 400 ans de paix et de prospérité.'},
+    {y:540,t:'disparition',title:'Les Corrompus',desc:'Mage-roi cherchant à rompre le Lien. Premier proto-Délié.'},
+    {y:575,t:'disparition',title:'Incendie de la capitale',desc:'7 cités rasées. Fin de l\'empire. Diaspora endarine.'},
+  ]},
+  {name:'Songes d\'Ithalorn', color:'#7050a0', y0:388, y1:622, cont:'Ilthara', dead:true, segments:[
+    {y0:388,y1:490,w:1.0},{y0:490,y1:622,w:0.8}
+  ], events:[
+    {y:405,t:'fondation',title:'Citadelles oniriques',desc:'Constructeurs de mémoire collective (~13 000 av.A).'},
+    {y:490,t:'magie',title:'Grande Bibliothèque des Rêves',desc:'100 000 âmes y vivent en permanence via le Lien.'},
+    {y:590,t:'disparition',title:'Le Grand Oubli',desc:'Bibliothèque détruite. Savoir anéanti en une nuit.'},
+    {y:622,t:'disparition',title:'Fin de la lignée',desc:'Dernière Reine-Tisseuse disparaît. Ithalorn s\'effondre.'},
+  ]},
+  {name:'Ligue d\'Everthor', color:'#208060', y0:425, y1:720, cont:'Evertia', dead:true, segments:[
+    {y0:425,y1:550,w:1.2},{y0:550,y1:720,w:0.9}
+  ], events:[
+    {y:440,t:'fondation',title:'Charte maritime',desc:'12 cités côtières. Loi de la mer. Paix commerciale (~11 000 av.A).'},
+    {y:550,t:'exploration',title:'Cartographie mondiale',desc:'Premières cartes fidèles des 13 continents.'},
+    {y:650,t:'conquete',title:'Guerres de Piraterie',desc:'Conflit avec la Thalassocratie naissante d\'Azoria.'},
+    {y:720,t:'disparition',title:'Tempête de Lien',desc:'Vague magique submerge les ports principaux. Fin de la Ligue.'},
+  ]},
+
+  // === 6 GRANDS EMPIRES AVANT L'ARRACHEMENT (~1 200 – 0 av.A) — dead:true ===
+  {name:'Hégémonie d\'Aethran', color:'#d4a820', y0:768, y1:812, cont:'Galenor', dead:true, events:[
+    {y:773,t:'fondation',title:'Unification galenorienne',desc:'Héritiers du Khalifat. Alliance science et Lien (~1 200 av.A).'},
+    {y:800,t:'disparition',title:'Dissolution — Arrachement',desc:'L\'Hégémonie implose en 7h. Cités asphyxiées sans Lien.'},
+  ]},
+  {name:'Dominat de Pyrion', color:'#e04030', y0:770, y1:812, cont:'Ilthara', dead:true, events:[
+    {y:775,t:'fondation',title:'Renaissance ithalarienne',desc:'Empire guerrier, héritier des Songes (~1 100 av.A).'},
+    {y:810,t:'disparition',title:'Anéanti — Arrachement',desc:'Armées dissoutes. Généraux rendus fous par la rupture.'},
+  ]},
+  {name:'Empire de Lithane', color:'#c8a060', y0:772, y1:812, cont:'Alkaran', dead:true, events:[
+    {y:776,t:'fondation',title:'Confédération impériale',desc:'Commerce et Lien unis. Héritiers d\'Alkarath (~1 000 av.A).'},
+    {y:810,t:'disparition',title:'Chute — Arrachement',desc:'Routes commerciales coupées. Chaos et famine.'},
+  ]},
+  {name:'Sanctuaire d\'Orivane', color:'#5070c0', y0:772, y1:812, cont:'Celethor', dead:true, events:[
+    {y:776,t:'fondation',title:'État théocratique bienveillant',desc:'Dernier État-prêtre de Celethor. Paix intérieure (~1 000 av.A).'},
+    {y:810,t:'disparition',title:'Silence des dieux',desc:'L\'Arrachement. Plus aucune réponse du Lien. Les prêtres se taisent.'},
+  ]},
+  {name:'Thalassocratie de Navoris', color:'#3090c0', y0:775, y1:812, cont:'Azoria', dead:true, events:[
+    {y:779,t:'fondation',title:'Empire maritime d\'Azoria',desc:'Héritière de la Ligue d\'Everthor. Flottes de Lien (~900 av.A).'},
+    {y:812,t:'disparition',title:'Naufrages spontanés',desc:'Arrachement — tous les capitaines perdent le Lien simultanément.'},
+  ]},
+  {name:'Union des Flammes', color:'#e06020', y0:778, y1:810, cont:'Cendara', dead:true, events:[
+    {y:782,t:'fondation',title:'Héritiers de Pyrevaste',desc:'Ultime réunification de Cendara. 6 dynasties (~800 av.A).'},
+    {y:795,t:'magie',title:'Cercle des Huit actif',desc:'L\'Étudiant opère au Mont Cendra — territoire de l\'Union.'},
+    {y:810,t:'disparition',title:'Épicentre de l\'Arrachement',desc:'Mont Cendra déchire le Lien. 80% de la population en 7h.'},
+  ]},
+
   // Ancient (Âge du Lien)
   {name:'Nysaria',     color:'#404050', y0:350, y1:3100, cont:'Nysaria', events:[
     {y:400,t:'magie',title:'Origines mystérieuses',desc:'L\'île existe. Rien n\'en filtre.'},
@@ -535,6 +658,8 @@ const CONN = [
   // --- Left axis (HTML, sticky) ---
   const axis = document.getElementById('frise-axis');
   let axisHtml = '';
+
+  // Era bands with name labels
   ERAS.forEach(era => {
     const topPct = (era.y0 / TOTAL_H * 100);
     const hPct = (era.h / TOTAL_H * 100);
@@ -542,13 +667,38 @@ const CONN = [
     const borderCol = isArrachement ? 'rgba(160,30,30,0.25)' : 'rgba(120,78,18,0.12)';
     const bgCol = isArrachement ? 'rgba(160,30,30,0.06)' : 'transparent';
     axisHtml += `<div style="position:absolute;top:${topPct}%;height:${hPct}%;width:100%;
-      border-top:1px solid ${borderCol};box-sizing:border-box;padding:6px 4px 4px 5px;
+      border-top:1px solid ${borderCol};box-sizing:border-box;padding:5px 2px 4px 4px;
       background:${bgCol};">
-      <div style="font-family:'Cinzel',serif;font-size:9px;font-weight:700;
-        color:rgba(80,50,10,0.5);line-height:1.2;letter-spacing:0.3px;">
+      <div style="font-family:'Cinzel',serif;font-size:8px;font-weight:700;
+        color:rgba(80,50,10,0.45);line-height:1.2;letter-spacing:0.2px;
+        word-break:break-word;">
         ${era.name}</div>
+      <div style="font-family:'Raleway',sans-serif;font-size:6.5px;font-weight:400;
+        color:rgba(80,50,10,0.35);margin-top:2px;line-height:1.3;word-break:break-word;">
+        ${era.dateLabel || ''}</div>
     </div>`;
   });
+
+  // Date tick marks (right-side mini-labels)
+  DATE_TICKS.forEach(tick => {
+    const topPct = (tick.y / TOTAL_H * 100);
+    if (tick.key) {
+      axisHtml += `<div style="position:absolute;top:${topPct}%;right:0;left:0;
+        border-top:1px solid rgba(120,78,18,0.22);pointer-events:none;">
+        <div style="position:absolute;bottom:1px;right:2px;
+          font-family:'Raleway',sans-serif;font-size:6px;font-weight:700;
+          color:rgba(80,50,10,0.6);white-space:nowrap;line-height:1;">
+          ${tick.label}</div>
+      </div>`;
+    } else {
+      axisHtml += `<div style="position:absolute;top:${topPct}%;right:2px;
+        font-family:'Raleway',sans-serif;font-size:5.5px;font-weight:400;
+        color:rgba(80,50,10,0.38);white-space:nowrap;line-height:1;
+        transform:translateY(-50%);pointer-events:none;">
+        ${tick.label}</div>`;
+    }
+  });
+
   axis.innerHTML = axisHtml;
   axis.style.position = 'sticky';
   axis.style.height = TOTAL_H + 'px';
