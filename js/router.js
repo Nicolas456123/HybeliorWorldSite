@@ -4,7 +4,7 @@
  */
 
 const Router = {
-    routes: ['accueil', 'carte', 'lore', 'gameplay'],
+    routes: ['accueil', 'carte', 'lore', 'gameplay', 'frise'],
     defaultRoute: 'accueil',
     container: null,
     currentRoute: null,
@@ -64,6 +64,10 @@ const Router = {
             // Remonter en haut de page à chaque navigation
             window.scrollTo({ top: 0, behavior: 'instant' });
 
+            // Réinitialiser la nav des sous-onglets pour la nouvelle page
+            const globalNav = document.getElementById('global-subtab-nav');
+            if (globalNav) globalNav.innerHTML = '';
+
             // Execute any inline scripts in the loaded page
             this.container.querySelectorAll('script').forEach(oldScript => {
                 const newScript = document.createElement('script');
@@ -78,6 +82,17 @@ const Router = {
             // Auto-init map when navigating to carte
             if (route === 'carte' && typeof window.initMap === 'function') {
                 window.initMap();
+            }
+
+            // Pour les pages sans sous-onglets, construire le TOC automatiquement
+            const subtabPages = ['lore', 'gameplay'];
+            if (!subtabPages.includes(route) && window.SidebarTOC) {
+                const sidebar  = document.getElementById('site-sidebar');
+                const content  = this.container.querySelector('.page-content');
+                if (sidebar && content) {
+                    // Petit délai pour laisser le DOM se stabiliser
+                    setTimeout(() => SidebarTOC.build(sidebar, content), 50);
+                }
             }
 
         } catch (err) {

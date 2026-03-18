@@ -2,15 +2,12 @@
 <p class="page-subtitle">Les mécaniques qui font d'Hybélior un monde unique</p>
 <div class="divider"><div class="divider-gem"></div></div>
 
-<div class="gameplay-layout">
-  <nav class="subtab-nav" id="gameplay-subtab-nav"></nav>
-  <div class="subtab-content" id="gameplay-subtab-content"></div>
-</div>
+<div class="subtab-content" id="gameplay-subtab-content"></div>
 
 <script>
 SubTabs.init(
   'gameplay',
-  '#gameplay-subtab-nav',
+  '#global-subtab-nav',
   '#gameplay-subtab-content',
   [
     { key: 'combat',      label: 'Combat & Armes',  src: '/pages/gameplay-combat.html' },
@@ -19,6 +16,13 @@ SubTabs.init(
     { key: 'metiers',     label: 'Métiers',         src: '/pages/gameplay-metiers.html' },
     { key: 'monde',       label: 'Monde & Société', src: '/pages/gameplay-monde.html' },
   ],
-  'combat'
+  'combat',
+  function(html, key) {
+    var sidebar = document.getElementById('site-sidebar');
+    var content = document.getElementById('gameplay-subtab-content');
+    if (sidebar && content && window.SidebarTOC) {
+      SidebarTOC.build(sidebar, content);
+    }
+  }
 );
 </script>

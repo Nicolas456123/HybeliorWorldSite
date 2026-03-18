@@ -24,16 +24,15 @@ const SubTabs = {
         const cache = {};
         let current = null;
 
-        // Créer les boutons si la nav est vide
-        if (!nav.querySelector('.subtab-btn')) {
-            tabs.forEach(t => {
-                const btn = document.createElement('button');
-                btn.className = 'subtab-btn';
-                btn.dataset.key = t.key;
-                btn.textContent = t.label;
-                nav.appendChild(btn);
-            });
-        }
+        // Toujours recréer les boutons (la nav peut contenir des boutons d'une instance précédente)
+        nav.innerHTML = '';
+        tabs.forEach(t => {
+            const btn = document.createElement('button');
+            btn.className = 'subtab-btn';
+            btn.dataset.key = t.key;
+            btn.textContent = t.label;
+            nav.appendChild(btn);
+        });
 
         const activate = async (key) => {
             if (key === current) return;

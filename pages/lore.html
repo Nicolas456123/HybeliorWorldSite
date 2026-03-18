@@ -2,25 +2,12 @@
 <p class="page-subtitle">Des millénaires d'histoire façonnés par les âges</p>
 <div class="divider"><div class="divider-gem"></div></div>
 
-<div class="lore-layout">
-  <!-- Sidebar gauche -->
-  <aside class="lore-sidebar">
-    <nav class="subtab-nav" id="lore-subtab-nav"></nav>
-    <div class="toc-title">Sommaire</div>
-    <ul class="toc-list" id="lore-toc-list"></ul>
-    <div class="toc-progress">
-      <div class="toc-progress-fill" id="lore-toc-progress"></div>
-    </div>
-  </aside>
-
-  <!-- Zone de contenu -->
-  <div class="subtab-content" id="lore-subtab-content"></div>
-</div>
+<div class="subtab-content" id="lore-subtab-content"></div>
 
 <script>
 SubTabs.init(
   'lore',
-  '#lore-subtab-nav',
+  '#global-subtab-nav',
   '#lore-subtab-content',
   [
     { key: 'cosmo',      label: 'Lore',        src: '/pages/lore-cosmo.html' },
@@ -30,8 +17,7 @@ SubTabs.init(
   ],
   'cosmo',
   function(html, key) {
-    // Rebuild sidebar TOC after content loads
-    var sidebar = document.getElementById('lore-toc-list') && document.getElementById('lore-toc-list').closest('.lore-sidebar');
+    var sidebar = document.getElementById('site-sidebar');
     var content = document.getElementById('lore-subtab-content');
     if (sidebar && content && window.SidebarTOC) {
       SidebarTOC.build(sidebar, content);

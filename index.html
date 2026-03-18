@@ -27,10 +27,24 @@
             <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
             <span>Gameplay</span>
         </a></li>
+        <li><a href="#frise">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+            <span>Frise</span>
+        </a></li>
     </ul>
 </nav>
 
-<div id="page-container" class="page-container"></div>
+<div class="site-layout">
+    <aside id="site-sidebar" class="site-sidebar">
+        <nav id="global-subtab-nav" class="subtab-nav"></nav>
+        <div class="toc-title">Sommaire</div>
+        <ul class="toc-list" id="sidebar-toc-list"></ul>
+        <div class="toc-progress">
+            <div class="toc-progress-fill" id="sidebar-toc-progress"></div>
+        </div>
+    </aside>
+    <div id="page-container" class="page-container"></div>
+</div>
 
 <!-- Lore reader modal -->
 <div id="lore-modal" class="lore-modal" role="dialog" aria-modal="true" aria-label="Lecteur de lore" hidden>

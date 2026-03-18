@@ -1,0 +1,618 @@
+<style>
+/* =============================================
+   FRISE CHRONOLOGIQUE — styles spécifiques
+   ============================================= */
+
+.frise-controls {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    margin: 24px 0 32px;
+    flex-wrap: wrap;
+}
+
+.frise-zoom-label {
+    font-family: 'Raleway', sans-serif;
+    font-size: 13px;
+    color: var(--text-muted);
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.frise-zoom-btns {
+    display: flex;
+    gap: 8px;
+}
+
+.frise-zoom-btn {
+    font-family: 'Raleway', sans-serif;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+    color: var(--text-muted);
+    background: transparent;
+    border: 1px solid rgba(120, 78, 18, 0.25);
+    border-radius: 4px;
+    padding: 7px 14px;
+    cursor: pointer;
+    transition: background 0.2s, color 0.2s, border-color 0.2s;
+}
+
+.frise-zoom-btn:hover {
+    background: rgba(200, 168, 75, 0.12);
+    color: var(--text);
+    border-color: rgba(120, 78, 18, 0.5);
+}
+
+.frise-zoom-btn.active {
+    background: rgba(200, 168, 75, 0.18);
+    color: var(--gold);
+    border-color: var(--gold-dim);
+}
+
+/* === TIMELINE === */
+
+.frise-timeline {
+    position: relative;
+    padding: 24px 0 60px 40px;
+}
+
+.frise-timeline::before {
+    content: '';
+    position: absolute;
+    left: 12px;
+    top: 0;
+    bottom: 0;
+    width: 2px;
+    background: linear-gradient(180deg, var(--gold) 0%, rgba(120, 78, 18, 0.15) 100%);
+}
+
+/* === AGE BLOCKS === */
+
+.frise-age {
+    margin-bottom: 48px;
+    position: relative;
+}
+
+.frise-age::before {
+    content: '';
+    position: absolute;
+    left: -34px;
+    top: 16px;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background: var(--gold);
+    border: 2px solid var(--bg-mid);
+    box-shadow: 0 0 8px rgba(200, 168, 75, 0.5);
+}
+
+.frise-age-header {
+    cursor: pointer;
+    padding: 16px 20px;
+    background: rgba(200, 182, 148, 0.35);
+    border: 1px solid rgba(120, 78, 18, 0.22);
+    border-radius: 8px 8px 0 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    transition: background 0.2s;
+}
+
+.frise-age-header:hover {
+    background: rgba(200, 182, 148, 0.55);
+}
+
+.frise-age-header-left {
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+}
+
+.frise-age-name {
+    font-family: 'Cinzel', serif;
+    font-size: 15px;
+    color: var(--gold);
+    font-weight: 600;
+}
+
+.frise-age-epoch {
+    font-family: 'Raleway', sans-serif;
+    font-size: 11px;
+    color: var(--text-muted);
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    margin-top: 3px;
+}
+
+.frise-age-chevron {
+    color: var(--text-muted);
+    transition: transform 0.2s;
+    font-size: 14px;
+    flex-shrink: 0;
+}
+
+.frise-age.expanded .frise-age-chevron {
+    transform: rotate(180deg);
+}
+
+/* === SPECIAL STYLES === */
+
+/* L'Arrachement */
+.frise-age[data-special="arrachement"] .frise-age-header {
+    background: rgba(139, 32, 32, 0.12);
+    border-color: rgba(139, 32, 32, 0.35);
+}
+
+.frise-age[data-special="arrachement"] .frise-age-header:hover {
+    background: rgba(139, 32, 32, 0.20);
+}
+
+.frise-age[data-special="arrachement"]::before {
+    background: #8b2020;
+    box-shadow: 0 0 12px rgba(139, 32, 32, 0.6);
+    width: 16px;
+    height: 16px;
+    left: -36px;
+    top: 14px;
+}
+
+.frise-age[data-special="arrachement"] .frise-age-name {
+    color: #c04040;
+}
+
+.frise-age[data-special="arrachement"] .frise-event-dot {
+    background: #c04040;
+}
+
+/* L'Ère Actuelle */
+.frise-age[data-special="actuel"] .frise-age-header {
+    background: rgba(122, 76, 10, 0.18);
+    border-color: var(--accent);
+}
+
+.frise-age[data-special="actuel"] .frise-age-header:hover {
+    background: rgba(122, 76, 10, 0.28);
+}
+
+.frise-age[data-special="actuel"]::before {
+    background: var(--accent);
+    box-shadow: 0 0 12px rgba(122, 76, 10, 0.7);
+    animation: pulse-dot 2s ease-in-out infinite;
+}
+
+.frise-age[data-special="actuel"] .frise-age-name {
+    color: var(--accent);
+}
+
+@keyframes pulse-dot {
+    0%, 100% { transform: scale(1); opacity: 1; }
+    50%       { transform: scale(1.4); opacity: 0.7; }
+}
+
+/* === EVENTS === */
+
+.frise-age-events {
+    background: var(--panel-bg);
+    border: 1px solid rgba(120, 78, 18, 0.18);
+    border-top: none;
+    border-radius: 0 0 8px 8px;
+    overflow: hidden;
+}
+
+.frise-event {
+    display: flex;
+    gap: 14px;
+    padding: 14px 20px;
+    border-bottom: 1px solid rgba(120, 78, 18, 0.08);
+    align-items: flex-start;
+    transition: background 0.15s;
+}
+
+.frise-event:last-child {
+    border-bottom: none;
+}
+
+.frise-event:hover {
+    background: rgba(200, 182, 148, 0.18);
+}
+
+.frise-event-dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: var(--accent);
+    flex-shrink: 0;
+    margin-top: 6px;
+}
+
+.frise-event-content {
+    flex: 1;
+}
+
+.frise-event-title {
+    font-family: 'Raleway', sans-serif;
+    font-size: 13px;
+    font-weight: 700;
+    color: var(--text);
+    margin-bottom: 4px;
+}
+
+.frise-event-desc {
+    font-size: 13.5px;
+    color: var(--text-soft);
+    line-height: 1.55;
+}
+
+/* === ZOOM LEVELS === */
+
+/* Zoom 0 : survol — events cachés, ages compacts */
+.frise-zoom-0 .frise-age-events { display: none; }
+.frise-zoom-0 .frise-age { margin-bottom: 8px; }
+.frise-zoom-0 .frise-age-header { border-radius: 8px; cursor: default; }
+.frise-zoom-0 .frise-age-chevron { display: none; }
+
+/* Zoom 1 : détaillé — events visibles, descriptions cachées */
+.frise-zoom-1 .frise-age-events { display: block; }
+.frise-zoom-1 .frise-event-desc { display: none; }
+
+/* Zoom 2 : complet — tout visible */
+.frise-zoom-2 .frise-age-events { display: block; }
+.frise-zoom-2 .frise-event-desc { display: block; }
+</style>
+
+<h1>Frise Chronologique</h1>
+<p class="page-subtitle">De la Création au déclin — les âges d'Hybélior</p>
+<div class="divider"><div class="divider-gem"></div></div>
+
+<!-- Contrôles de zoom -->
+<div class="frise-controls">
+    <span class="frise-zoom-label">Niveau de détail :</span>
+    <div class="frise-zoom-btns">
+        <button class="frise-zoom-btn" data-zoom="0" title="Vue d'ensemble">≡ Survol</button>
+        <button class="frise-zoom-btn active" data-zoom="1" title="Vue intermédiaire">◈ Détaillé</button>
+        <button class="frise-zoom-btn" data-zoom="2" title="Vue complète">⊕ Complet</button>
+    </div>
+</div>
+
+<!-- Timeline verticale -->
+<div class="frise-timeline frise-zoom-1" id="frise-container">
+
+    <!-- ÂGE I — Les Temps Primordiaux -->
+    <div class="frise-age">
+        <div class="frise-age-header">
+            <div class="frise-age-header-left">
+                <span class="frise-age-name section-header" id="age-primordial">Âge I — Les Temps Primordiaux</span>
+                <span class="frise-age-epoch">∞ → Avant toute mesure</span>
+            </div>
+            <span class="frise-age-chevron">▼</span>
+        </div>
+        <div class="frise-age-events">
+            <div class="frise-event">
+                <div class="frise-event-dot"></div>
+                <div class="frise-event-content">
+                    <div class="frise-event-title">La Création</div>
+                    <div class="frise-event-desc">Depuis le Vide originel, les 5 Éternels émergent : Celestia, Tempora, Noctis, Navigor et Eldoria. Chacun incarne une force fondamentale de l'existence.</div>
+                </div>
+            </div>
+            <div class="frise-event">
+                <div class="frise-event-dot"></div>
+                <div class="frise-event-content">
+                    <div class="frise-event-title">Les Étoiles naissent</div>
+                    <div class="frise-event-desc">Eldoria tisse les premières étoiles depuis les profondeurs du Vide, illuminant les cieux d'Hybélior pour la première fois.</div>
+                </div>
+            </div>
+            <div class="frise-event">
+                <div class="frise-event-dot"></div>
+                <div class="frise-event-content">
+                    <div class="frise-event-title">L'Ordre Cosmique</div>
+                    <div class="frise-event-desc">Les 12 Cosmiques naissent des interactions entre Éternels : Aquor, Terranu, Aerion, Climata... Chacun gouverne un domaine de l'univers.</div>
+                </div>
+            </div>
+            <div class="frise-event">
+                <div class="frise-event-dot"></div>
+                <div class="frise-event-content">
+                    <div class="frise-event-title">Les Éthérés</div>
+                    <div class="frise-event-desc">45 Éthérés se spécialisent dans les forces élémentaires et les lieux du monde mortel. Le cosmos s'organise en 5 rangs d'entités.</div>
+                </div>
+            </div>
+            <div class="frise-event">
+                <div class="frise-event-dot"></div>
+                <div class="frise-event-content">
+                    <div class="frise-event-title">La Voix de Cantor</div>
+                    <div class="frise-event-desc">L'acte créateur primordial résonne : Cantor naît de la résonance entre Eldoria et Arborius, incarnant la musique comme force de création.</div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- ÂGE II — L'Âge du Lien -->
+    <div class="frise-age">
+        <div class="frise-age-header">
+            <div class="frise-age-header-left">
+                <span class="frise-age-name section-header" id="age-lien">Âge II — L'Âge du Lien</span>
+                <span class="frise-age-epoch">Ères reculées — avant l'Arrachement</span>
+            </div>
+            <span class="frise-age-chevron">▼</span>
+        </div>
+        <div class="frise-age-events">
+            <div class="frise-event">
+                <div class="frise-event-dot"></div>
+                <div class="frise-event-content">
+                    <div class="frise-event-title">Les Premiers Mortels</div>
+                    <div class="frise-event-desc">Les premières âmes mortelles apparaissent sur Hybélior. Navigor ouvre les chemins entre les mondes pour guider les âmes.</div>
+                </div>
+            </div>
+            <div class="frise-event">
+                <div class="frise-event-dot"></div>
+                <div class="frise-event-content">
+                    <div class="frise-event-title">Le Lien se forme</div>
+                    <div class="frise-event-desc">Certains mortels découvrent le Lien : une connexion spirituelle avec les Éternels et les Cosmiques. Les premiers Liés apparaissent, capables de canaliser des forces divines.</div>
+                </div>
+            </div>
+            <div class="frise-event">
+                <div class="frise-event-dot"></div>
+                <div class="frise-event-content">
+                    <div class="frise-event-title">L'Âge d'Or de Navigor</div>
+                    <div class="frise-event-desc">Navigor est à son apogée. Il guide les âmes entre les dimensions, facilite les échanges entre mondes et maintient les Éternels en communication.</div>
+                </div>
+            </div>
+            <div class="frise-event">
+                <div class="frise-event-dot"></div>
+                <div class="frise-event-content">
+                    <div class="frise-event-title">Les Premières Cités</div>
+                    <div class="frise-event-desc">Les 13 continents se couvrent progressivement de cités. Chaque civilization se développe selon sa géographie, ses ressources, ses divinités tutélaires.</div>
+                </div>
+            </div>
+            <div class="frise-event">
+                <div class="frise-event-dot"></div>
+                <div class="frise-event-content">
+                    <div class="frise-event-title">Les Grandes Religions</div>
+                    <div class="frise-event-desc">Les 9 grandes religions d'Hybélior prennent forme autour des Éternels et Cosmiques : l'Ignis Aeternum, l'Ordo Caelum, le Noctari...</div>
+                </div>
+            </div>
+            <div class="frise-event">
+                <div class="frise-event-dot"></div>
+                <div class="frise-event-content">
+                    <div class="frise-event-title">L'Étudiant du Lien</div>
+                    <div class="frise-event-desc">Un mortel d'une intelligence exceptionnelle — dont le nom sera perdu — commence à étudier les fils invisibles du Lien. Il cherche à comprendre comment les sevrer.</div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- ÂGE III — L'Arrachement -->
+    <div class="frise-age" data-special="arrachement">
+        <div class="frise-age-header">
+            <div class="frise-age-header-left">
+                <span class="frise-age-name section-header" id="age-arrachement">Âge III — L'Arrachement</span>
+                <span class="frise-age-epoch">L'Événement — point de rupture</span>
+            </div>
+            <span class="frise-age-chevron">▼</span>
+        </div>
+        <div class="frise-age-events">
+            <div class="frise-event">
+                <div class="frise-event-dot"></div>
+                <div class="frise-event-content">
+                    <div class="frise-event-title">La Rupture</div>
+                    <div class="frise-event-desc">L'Arrachement survient. La cause exacte demeure inconnue des mortels. Les traces suggèrent que le Premier Délié a sectionné si violemment les fils du Lien que l'impact a été cosmique.</div>
+                </div>
+            </div>
+            <div class="frise-event">
+                <div class="frise-event-dot"></div>
+                <div class="frise-event-content">
+                    <div class="frise-event-title">Navigor Disparaît</div>
+                    <div class="frise-event-desc">Navigor est emporté dans la rupture. Les chemins entre les mondes se referment brutalement. Les âmes commencent à errer, sans guide.</div>
+                </div>
+            </div>
+            <div class="frise-event">
+                <div class="frise-event-dot"></div>
+                <div class="frise-event-content">
+                    <div class="frise-event-title">Le Sommeil d'Eldoria</div>
+                    <div class="frise-event-desc">Eldoria sombre dans un sommeil profond d'une profondeur inconnue. Les étoiles qu'elle a créées brillent encore par inertie — mais aucune nouvelle étoile ne peut naître.</div>
+                </div>
+            </div>
+            <div class="frise-event">
+                <div class="frise-event-dot"></div>
+                <div class="frise-event-content">
+                    <div class="frise-event-title">Tempora Blessé</div>
+                    <div class="frise-event-desc">Tempora reçoit une blessure ancienne qu'il soigne depuis l'intérieur. Les premières Failles du Temps apparaissent — zones où passé et présent se chevauchent.</div>
+                </div>
+            </div>
+            <div class="frise-event">
+                <div class="frise-event-dot"></div>
+                <div class="frise-event-content">
+                    <div class="frise-event-title">Le Premier Délié</div>
+                    <div class="frise-event-desc">L'étudiant du Lien accomplit le premier sevrage volontaire. Il devient le Premier Délié, libérant une énergie brute considérable au prix de l'équilibre cosmique. Son nom réel est perdu.</div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- ÂGE IV — L'Âge de la Grande Nuit -->
+    <div class="frise-age">
+        <div class="frise-age-header">
+            <div class="frise-age-header-left">
+                <span class="frise-age-name section-header" id="age-grande-nuit">Âge IV — L'Âge de la Grande Nuit</span>
+                <span class="frise-age-epoch">Millénaires post-Arrachement</span>
+            </div>
+            <span class="frise-age-chevron">▼</span>
+        </div>
+        <div class="frise-age-events">
+            <div class="frise-event">
+                <div class="frise-event-dot"></div>
+                <div class="frise-event-content">
+                    <div class="frise-event-title">L'Obscurité Croissante</div>
+                    <div class="frise-event-desc">Avec Eldoria endormie, Noctis s'étend sans contre-balance. L'obscurité n'est pas malveillante en elle-même — mais l'équilibre penche dangereusement.</div>
+                </div>
+            </div>
+            <div class="frise-event">
+                <div class="frise-event-dot"></div>
+                <div class="frise-event-content">
+                    <div class="frise-event-title">Les Âmes Errent</div>
+                    <div class="frise-event-desc">Transitum, l'entité qui guide les âmes, est débordé. Des âmes mortes errent parfois entre les mondes sans atteindre leur destination. Les rites funéraires prennent une importance capitale.</div>
+                </div>
+            </div>
+            <div class="frise-event">
+                <div class="frise-event-dot"></div>
+                <div class="frise-event-content">
+                    <div class="frise-event-title">La Prolifération des Déliés</div>
+                    <div class="frise-event-desc">Dans le secret, de nouveaux Déliés apprennent la technique du sevrage. Chaque sevrage aspire une portion de la trame du monde.</div>
+                </div>
+            </div>
+            <div class="frise-event">
+                <div class="frise-event-dot"></div>
+                <div class="frise-event-content">
+                    <div class="frise-event-title">La Première Schisme</div>
+                    <div class="frise-event-desc">L'Ordo Caelum, religion de Celestia, se fracture sur la question du silence divin : est-il sagesse ou abandon ? Cette fracture amorce des siècles de guerre sainte.</div>
+                </div>
+            </div>
+            <div class="frise-event">
+                <div class="frise-event-dot"></div>
+                <div class="frise-event-content">
+                    <div class="frise-event-title">Failles du Temps</div>
+                    <div class="frise-event-desc">Les blessures de Tempora créent des Failles temporelles qui isolent certaines régions. Des voyageurs se retrouvent projetés dans le passé ou le futur de leur région.</div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- ÂGE V — L'Ère des Nations -->
+    <div class="frise-age">
+        <div class="frise-age-header">
+            <div class="frise-age-header-left">
+                <span class="frise-age-name section-header" id="age-nations">Âge V — L'Ère des Nations</span>
+                <span class="frise-age-epoch">Millénaires de construction — jusqu'à -100 ans</span>
+            </div>
+            <span class="frise-age-chevron">▼</span>
+        </div>
+        <div class="frise-age-events">
+            <div class="frise-event">
+                <div class="frise-event-dot"></div>
+                <div class="frise-event-content">
+                    <div class="frise-event-title">L'Unification d'Altram</div>
+                    <div class="frise-event-desc">Varnok le Forgeur unifie les vallées d'Alkaran non par la conquête, mais en forgeant pour chaque seigneur local une arme d'exception. La Monarchie Éclairée d'Altram est fondée.</div>
+                </div>
+            </div>
+            <div class="frise-event">
+                <div class="frise-event-dot"></div>
+                <div class="frise-event-content">
+                    <div class="frise-event-title">La Ligue des Marchands</div>
+                    <div class="frise-event-desc">À Tyndara, les grandes guildes maritimes fondent la Ligue des Marchands, établissant la domination commerciale de Tyndara sur les routes maritimes.</div>
+                </div>
+            </div>
+            <div class="frise-event">
+                <div class="frise-event-dot"></div>
+                <div class="frise-event-content">
+                    <div class="frise-event-title">La Rébellion des Forgerons</div>
+                    <div class="frise-event-desc">Les artisans d'Altram renversent un roi tyrannique pour établir une monarchie plus juste. Cet événement devient symbole de la valeur de l'artisanat dans la culture d'Alkaran.</div>
+                </div>
+            </div>
+            <div class="frise-event">
+                <div class="frise-event-dot"></div>
+                <div class="frise-event-content">
+                    <div class="frise-event-title">La Guerre des Cent-Jours</div>
+                    <div class="frise-event-desc">Mosrack repousse une invasion de Tyndara grâce à ses machines de guerre. Cette guerre cimente la réputation militaro-industrielle de Mosrack.</div>
+                </div>
+            </div>
+            <div class="frise-event">
+                <div class="frise-event-dot"></div>
+                <div class="frise-event-content">
+                    <div class="frise-event-title">Le Grand Cham</div>
+                    <div class="frise-event-desc">Un chef spirituel unifie les tribus nomades de Torkam sous son autorité. L'Unification tribale pacifie des siècles de guerres inter-tribus.</div>
+                </div>
+            </div>
+            <div class="frise-event">
+                <div class="frise-event-dot"></div>
+                <div class="frise-event-content">
+                    <div class="frise-event-title">Cendara et le Rituel</div>
+                    <div class="frise-event-desc">La monarchie ésotérique de Cendara élabore le Grand Rituel de Réveil, destiné à ramener Eldoria de son sommeil. Ses prophéties parlent du Mont Cendra comme point d'ancrage.</div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- ÂGE VI — L'Ère Actuelle -->
+    <div class="frise-age" data-special="actuel">
+        <div class="frise-age-header">
+            <div class="frise-age-header-left">
+                <span class="frise-age-name section-header" id="age-actuel">Âge VI — L'Ère Actuelle</span>
+                <span class="frise-age-epoch">Aujourd'hui — L'ère du déclin lent</span>
+            </div>
+            <span class="frise-age-chevron">▼</span>
+        </div>
+        <div class="frise-age-events">
+            <div class="frise-event">
+                <div class="frise-event-dot"></div>
+                <div class="frise-event-content">
+                    <div class="frise-event-title">Les Phénix s'Éteignent</div>
+                    <div class="frise-event-desc">Les Phénix de Feu d'Ilnara cessent de se reproduire. Le Temple des Flammes Éternelles surveille les derniers couples avec angoisse.</div>
+                </div>
+            </div>
+            <div class="frise-event">
+                <div class="frise-event-dot"></div>
+                <div class="frise-event-content">
+                    <div class="frise-event-title">Les Âmes Errent</div>
+                    <div class="frise-event-desc">Des âmes mortes peinent à trouver leur chemin vers l'au-delà. Transitum est visiblement submergé. Les nécromanciens signalent une activité anormale aux frontières du monde.</div>
+                </div>
+            </div>
+            <div class="frise-event">
+                <div class="frise-event-dot"></div>
+                <div class="frise-event-content">
+                    <div class="frise-event-title">Le Ciel Figé</div>
+                    <div class="frise-event-desc">Aucune nouvelle étoile n'est née dans le ciel depuis un siècle. Les astronomes sont divisés : simple cycle naturel, ou signe qu'Eldoria ne peut plus créer dans son sommeil ?</div>
+                </div>
+            </div>
+            <div class="frise-event">
+                <div class="frise-event-dot"></div>
+                <div class="frise-event-content">
+                    <div class="frise-event-title">Les Failles Multipliées</div>
+                    <div class="frise-event-desc">Les Failles du Temps se multiplient. Des zones entières d'Hybélior sont instables temporellement — on y croise parfois des versions passées ou futures de lieux familiers.</div>
+                </div>
+            </div>
+            <div class="frise-event">
+                <div class="frise-event-dot"></div>
+                <div class="frise-event-content">
+                    <div class="frise-event-title">Pulsations au Mont Cendra</div>
+                    <div class="frise-event-desc">Des pulsations récentes dans les profondeurs du Mont Cendra suggèrent que quelque chose remue dans le sommeil d'Eldoria. La monarchie de Cendara prépare le Grand Rituel.</div>
+                </div>
+            </div>
+            <div class="frise-event">
+                <div class="frise-event-dot"></div>
+                <div class="frise-event-content">
+                    <div class="frise-event-title">Les Déliés se Révèlent</div>
+                    <div class="frise-event-desc">Pour la première fois depuis des siècles, des Déliés agissent ouvertement. Leurs motivations restent obscures — certains semblent chercher quelque chose lié à l'Arrachement.</div>
+                </div>
+            </div>
+            <div class="frise-event">
+                <div class="frise-event-dot"></div>
+                <div class="frise-event-content">
+                    <div class="frise-event-title">Le Monde Attend</div>
+                    <div class="frise-event-desc">Les signes s'accumulent. Le déclin est lent mais certain. Des légendes commencent à émerger — des individus capables de changer le cours des choses. L'ère des joueurs commence.</div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+<script>
+// Zoom logic
+const container = document.getElementById('frise-container');
+document.querySelectorAll('.frise-zoom-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+        document.querySelectorAll('.frise-zoom-btn').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        const z = btn.dataset.zoom;
+        container.className = `frise-timeline frise-zoom-${z}`;
+    });
+});
+
+// Expand/collapse age on click (zoom 0 only : click to expand)
+document.querySelectorAll('.frise-age-header').forEach(header => {
+    header.addEventListener('click', () => {
+        const age = header.closest('.frise-age');
+        age.classList.toggle('expanded');
+    });
+});
+</script>
