@@ -112,37 +112,44 @@ Région méridionale baignée d'une brume perpétuelle, Gelinar est le domaine d
 
 ### Brystalis — Capitale ★
 *Décrire Brystalis est un exercice futile, car la ville n'a pas de forme fixe. Pour un visiteur, elle peut apparaître comme une cité de tours d'argent flottant dans les nuages, ou comme un réseau de ponts de cristal suspendus au-dessus d'un abîme lumineux, ou comme un jardin infini où chaque fleur est une maison. Seuls les Veilleurs voient la vérité : une ville de pierre grise, dense et labyrinthique, dont les murs sont couverts de glyphes oniriques qui alimentent les illusions. Au centre se trouve la Chambre du Voile — le lieu où les sept Voilés maintiennent l'équilibre entre rêve et réalité.*
+**Histoire :** Brystalis fut bâtie par les sept Voilés fondateurs au lendemain du chaos de l'Ère de l'Illusion Libre, sur les ruines d'une ville que personne ne se souvient avoir habitée — les records antérieurs au Voile du Rêve sont incomplets, car les illusions de l'époque avaient infecté les archives elles-mêmes. Ce que les Veilleurs appelèrent « la vraie ville » — la structure de pierre grise qu'ils percevaient — fut en réalité construite en urgence en moins de cinq ans, fonctionnelle avant d'être belle. Les illusions furent ajoutées ensuite, comme on peint une façade. Les habitants de Brystalis qui apprennent cela pour la première fois ressentent toujours une légère désillusion que les Tisseurs de Voile trouvent philosophiquement savoureuse.
 - Population : Grande ville
 - Région : Brystal
 - Particularités : Siège de l'Oligarchie des Voilés. Chambre du Voile. Temple de Somnium Vigil le plus ancien.
 
 ### Nectoria — Ville
 *Ville-jardin de Nectaris, Nectoria est un lieu d'une beauté envoûtante où les maisons sont tissées de lierre onirique et où les rues sont bordées de fleurs qui chantent à l'aube. C'est le principal point d'accueil des étrangers en Vytharia — les Tisseurs de Voile y maintiennent des illusions suffisamment douces pour ne pas terrifier les non-initiés, tout en étant assez spectaculaires pour les émerveiller.*
+**Histoire :** Nectoria fut désignée ville d'accueil des étrangers après un incident diplomatique grave : un ambassadeur de Gryndor, traversant Brystalis sans préparation, avait été pris de panique devant les illusions et menacé d'une rupture des relations diplomatiques. L'Oligarchie créa Nectoria comme une zone tampon — un endroit où les illusions étaient calibrées pour émerveiller sans terrifier, une sorte de dosage onirique réglementé. Les Tisseurs de Voile de Nectoria considèrent leur travail comme un art subtil : trop peu d'illusions et les visiteurs sont déçus, trop de réalité crue et ils paniquent. La juste mesure est une compétence qui s'acquiert en années.
 - Population : Ville
 - Région : Nectaris
 
 ### Zylor — Village
 *Petit village de cultivateurs d'encens onirique, Zylor est perpétuellement enveloppé d'un brouillard parfumé aux propriétés légèrement hypnotiques. Les habitants vivent dans un état de semi-rêve permanent, et leurs récoltes d'herbes à encens sont considérées comme les plus puissantes de Vytharia. Les visiteurs sont prévenus de ne pas rester plus de trois jours sous peine de ne plus vouloir partir.*
+**Histoire :** Un visiteur qui resta plus de trois jours à Zylor sans le vouloir — un marchand de Gryndor dont la monture s'était blessée — fut retrouvé six semaines plus tard, assis dans un champ, souriant, incapable d'expliquer où le temps était passé. Il ne manifesta jamais de détresse à propos de cet épisode et retourna à Zylor de son plein gré deux ans plus tard. Son rapport commercial à Gryndor, rédigé à son retour, ne mentionnait que les herbes. L'Oligarchie utilise parfois cet incident comme justification de son règlement des trois jours. Elle omet de mentionner que la règle fut instaurée vingt ans après l'incident, non vingt ans avant.
 - Population : Village
 - Région : Nectaris
 
 ### Velthorin — Village
 *Accroché au flanc d'une montagne de Cystara, Velthorin est le village des Veilleurs. C'est ici que les gardiens de la réalité sont formés — endurcis contre les illusions par un entraînement mental brutal. Le village est le seul lieu de Vytharia volontairement dépourvu d'illusions : ses murs sont nus, ses rues austères, et la réalité y est crue et non embellie. Pour un Vytharien habitué aux rêves, Velthorin est un lieu terrifiant.*
+**Histoire :** Le premier entraînement des Veilleurs, développé par le fondateur de l'ordre, consistait à placer les recrues dans un environnement rempli d'illusions complexes et à les laisser sortir seules — sans aide, sans guide. Ceux qui paniquaient étaient jugés inaptes ; ceux qui analysaient méthodiquement trouvaient la sortie. Cette méthode produisit les Veilleurs les plus efficaces mais aussi les plus froids de l'histoire de Vytharia — des individus qui avaient appris à ne faire confiance à aucune perception. L'entraînement actuel est légèrement plus humain, mais Velthorin garde une réputation d'austérité qui décourage les candidats les moins déterminés, ce que les instructeurs considèrent comme un avantage.
 - Population : Village
 - Région : Cystara
 
 ### Zaralith — Village
 *Niché dans une grotte naturelle de Cystara, Zaralith est le refuge des Noctari de Vytharia. L'obscurité y est si profonde que même les torches semblent lutter pour éclairer. Les habitants pratiquent des méditations dans le noir absolu et prétendent communiquer avec des entités que le Voile du Rêve empêche normalement de se manifester. L'Oligarchie surveille Zaralith de près sans jamais intervenir directement.*
+**Histoire :** Zaralith existait avant que les Noctari ne l'occupent — c'était une carrière abandonnée dont les propriétaires avaient fui après que plusieurs ouvriers eurent rapporté avoir entendu des voix dans les profondeurs. Les Noctari, cherchant un lieu dépourvu de Voile, y trouvèrent exactement ce qu'ils voulaient : un endroit où même les illusions ne pénétraient pas. Ils y installèrent leurs pratiques de méditation dans le noir et attribuèrent l'absence d'illusions à la présence d'entités qui chassaient le Voile. Les Veilleurs ont une hypothèse différente sur la nature de ces entités. Ils ne la partagent pas avec les Noctari.
 - Population : Village
 - Région : Cystara
 
 ### Mythoria — Ville
 *Centre artisanal de Gelinar, Mythoria est la ville où les matériaux oniriques sont transformés en objets d'un raffinement extrême. Les cristaux oniriques y sont taillés en prismes qui projettent des illusions permanentes, les encens sont mélangés en compositions capables d'induire des rêves précis, et la soie de brume est tissée en vêtements qui changent de couleur et de texture selon les émotions du porteur.*
+**Histoire :** La première soie de brume fut créée par accident lors d'une expérience ratée : un artisan tentait de condenser de la brume de Gelinar en un pigment liquide et obtint à la place un fil d'une légèreté et d'une réactivité inattendues. Le tissu qu'il en tissa changea de couleur en présence de son épouse inquiète — révélant une propriété que personne n'avait recherchée. L'Oligarchie, informée, acheta immédiatement le secret et réquisitionna le procédé. L'artisan fut généreusement compensé. La tradition à Mythoria veut que les meilleures découvertes arrivent à ceux qui ne cherchaient pas ce qu'ils ont trouvé.
 - Population : Ville
 - Région : Gelinar
 
 ### Kaloria — Village
 *Village de récolteurs de brume, Kaloria est situé dans la partie la plus brumeuse de Gelinar. Ses habitants utilisent des filets enchantés pour capturer la brume ambiante — une brume imprégnée du Voile du Rêve — qu'ils condensent en un liquide laiteux servant de base aux soies de brume. Le travail est délicat et dangereux, car inhaler trop de brume concentrée peut plonger dans un sommeil dont on ne se réveille pas.*
+**Histoire :** Trois récolteurs de Kaloria ont sombré dans des sommeils sans réveil depuis la fondation du village — le premier au siècle de la fondation, le deuxième il y a cinquante ans, le troisième il y a dix ans. Les trois dorment encore, maintenus en vie par des soins qui relèvent autant de la médecine que de la magie onirique. Les Voilés viennent parfois à Kaloria pour communiquer avec eux dans le rêve et rapportent qu'ils sont « occupés » sans préciser à quoi. Le village traite les trois dormeurs comme des membres à part entière de la communauté — leurs noms figurent dans les registres, leurs maisons sont entretenues, et personne à Kaloria ne suppose qu'ils ne se réveilleront jamais.
 - Population : Village
 - Région : Gelinar
 

@@ -118,67 +118,80 @@ Steppe orientale, Myralis est le territoire le plus sauvage de Lythar. La tribu 
 
 ### Raenoris — Capitale ★
 *Le terme « capitale » fait sourire les Lythariens, car Raenoris est la seule ville permanente qui accepte ce titre — et encore, à contrecœur. Bâtie à la confluence de trois rivières dans les collines de Raenoth, Raenoris est un lieu de rassemblement plutôt qu'une cité. Ses bâtiments de pierre basse entourent une immense plaine centrale — le Champ du Rassemblement — capable d'accueillir des milliers de yourtes lors du Grand Rassemblement d'été. Le reste de l'année, Raenoris est une ville marchande modeste où les sédentaires tiennent les commerces et les nomades s'arrêtent pour troquer.*
+**Histoire :** Raenoris fut le compromis le plus difficile de Lythana : pour convaincre les chefs sédentaristes de rejoindre la confédération, elle dut accepter qu'une ville permanente existe — un lieu fixe où les decisons de la confédération seraient prises et notariées. Elle choisit elle-même l'emplacement, à la confluence de trois rivières, en déclarant que « l'eau qui coule n'oublie pas d'où elle vient ». Le Champ du Rassemblement — la plaine centrale — fut délibérément laissé vide de tout bâtiment, réservé aux yourtes, pour rappeler que Raenoris n'appartient pas à ceux qui y vivent toute l'année mais à ceux qui y passent.
 - Population : Ville
 - Région : Raenoth
 - Particularités : Lieu du Grand Rassemblement. Marché des Chevaux (le plus grand d'Ilthara). Temple du Vent.
 
 ### Vyrnith — Village
 *Petit village de Raenoth niché dans une vallée protégée, Vyrnith est le lieu d'hivernage traditionnel de la tribu du Vent-Vert. Ses granges en pierre stockent le foin et le grain nécessaires pour passer l'hiver, et ses sources chaudes naturelles attirent les caravanes fatiguées. Vyrnith est aussi connu pour ses forgerons de campement, qui réparent les équipements des nomades contre quelques peaux ou fromages.*
+**Histoire :** Les sources chaudes de Vyrnith furent découvertes lors d'un hiver particulièrement brutal par une troupe de la tribu du Vent-Vert dont les chevaux refusaient d'avancer. Les bêtes s'étaient arrêtées au-dessus d'une zone où la neige ne tenait pas — de la vapeur montait du sol. Les cavaliers creusèrent et trouvèrent les sources. La troupe passa l'hiver sur place, construisit les premières granges pour abriter les troupeaux, et revint l'année suivante. Vyrnith est né de la sagesse des chevaux, et les habitants le reconnaissent en gardant toujours une place d'honneur pour les animaux dans leurs granges.
 - Population : Village
 - Région : Raenoth
 
 ### Talmaris — Village
 *Point de gué sur la plus large rivière de Raenoth, Talmaris contrôle le passage entre le nord et le sud de Lythar. Le village vit du péage fluvial et de la pêche, et ses habitants construisent les radeaux et les pontons qui permettent aux caravanes de traverser avec leurs troupeaux. Les passeurs de Talmaris sont les rares Lythariens plus à l'aise sur l'eau que sur un cheval.*
+**Histoire :** Les passeurs de Talmaris descendent d'une tribu de Lythar qui perdit tous ses chevaux lors d'une crue catastrophique. Incapables de suivre les autres tribus dans leur mouvement, ils restèrent sur les berges et apprirent à vivre de la rivière. Leur statut dans la confédération fut longtemps ambigu — des nomades immobiles, une contradiction en termes. La médiation de Lythana les intégra officiellement avec le titre de « Gardiens des Passages », un rôle que personne d'autre ne voulait et qu'ils remplissent avec une fierté tranquille depuis lors.
 - Population : Village
 - Région : Raenoth
 
 ### Valryndor — Ville
 *Ville des éleveurs de Fyrtara, Valryndor est un comptoir commercial où les chevaux de la tribu du Vent-Rouge sont vendus ou échangés. Ses enclos s'étendent sur des hectares, et les acheteurs viennent de tout Ilthara pour acquérir les célèbres chevaux cuivrés. Valryndor abrite aussi les plus grands selliers et harnacheurs de Lythar.*
+**Histoire :** La réputation des chevaux cuivrés de Fyrtara remonte à une course que Lythana elle-même aurait remportée sur un Vent-Rouge lors de sa tournée de duels fondatrice. Vaincue une première fois, la chef du Vent-Rouge avait remis son cheval personnel à Lythana comme gage de sa défaite. Lythana refusa la monture mais demanda à la place un poulain de la même lignée, qu'elle emmenait avec elle comme compagnon de route. Les éleveurs de Valryndor considèrent cette anecdote comme la meilleure publicité qu'ils n'ont jamais reçue.
 - Population : Ville
 - Région : Fyrtara
 
 ### Lytharil — Ville
 *Ville-étape au cœur des plaines de Lythoria, Lytharil est un point de repère pour les caravanes nomades. Plus un campement permanent qu'une vraie ville, elle est composée d'un noyau de bâtiments en pierre entouré d'un anneau de yourtes qui grossit ou rétrécit selon la saison. Le marché de Lytharil est le centre d'échange quotidien de la tribu du Vent-Blanc.*
+**Histoire :** Lytharil occupe exactement le centre géographique de Lythoria — un fait calculé, non accidentel. Lythana, qui connaissait ses plaines au degré près, choisit cet emplacement pour une étape lors de la Grande Migration fondatrice, déclarant que « le centre de la route est le seul endroit où tout le monde est égal ». L'idée que Lytharil appartient équitablement à toutes les tribus est profondément enracinée : aucune tribu n'y a le droit de stationner plus de deux semaines d'affilée, pour éviter que la ville ne soit considérée comme un territoire.
 - Population : Ville
 - Région : Lythoria
 
 ### Ralor — Village
 *Relais de la tribu du Vent-Blanc, Ralor est un village de passage où les messagers changent de monture et les caravanes font halte pour la nuit. Ses écuries sont les mieux tenues de Lythoria, et les palefreniers de Ralor sont réputés pour leur capacité à soigner un cheval épuisé en une seule nuit.*
+**Histoire :** Ralor fut fondé par un palefrenier légendaire nommé Orvos, qui prétendit avoir ramené à la vie un cheval mort de fatigue en le soignant toute une nuit. La mort du cheval était probablement un évanouissement profond — les vétérinaires de Gryndor qui entendirent l'anecdote furent sceptiques. Mais le soignant fut réel, les techniques qu'il transmit furent réelles, et les chevaux de Ralor récupèrent effectivement en une nuit ce que d'autres mettent une semaine à surmonter. Orvos est vénéré à Ralor comme un saint laïc de la médecine équine.
 - Population : Village
 - Région : Lythoria
 
 ### Zelmaris — Village
 *Village de tanneurs et de travailleurs du cuir, Zelmaris transforme les peaux brutes des troupeaux en cuir de qualité supérieure. Les produits de Zelmaris — selles, bottes, outres, tentes — sont reconnaissables à leur marque distinctive : un vent stylisé brûlé dans le cuir. Chaque artisan de Zelmaris connaît les techniques transmises depuis Lythana elle-même, dit-on.*
+**Histoire :** La marque de vent brûlée dans le cuir de Zelmaris n'est pas un choix décoratif — c'est une garantie. Lors de la Grande Migration, des selles de mauvaise qualité venaient de se briser dans les premiers jours du rassemblement, blessant des cavaliers et ralentissant la progression. Lythana furieuse ordonna que tous les équipements de cuir soient désormais marqués par leur fabricant, pour que la responsabilité soit traçable. Les artisans de Zelmaris, qui n'avaient aucune implication dans l'incident, adoptèrent la marque volontairement comme gage de qualité. Leur réputation date de ce geste.
 - Population : Village
 - Région : Lythoria
 
 ### Aetharis — Ville
 *Perchée sur un plateau venteux d'Aetharia, Aetharis est une ville austère où la tribu du Vent-Noir se rassemble pour les conseils de guerre. Ses murs bas résistent aux tempêtes de sable et de gravier que les vents des plateaux déclenchent régulièrement. Les habitants d'Aetharis sont aussi rudes que leur environnement — taciturnes, méfiants envers les étrangers, et férocement indépendants.*
+**Histoire :** La tribu du Vent-Noir fut la dernière à rejoindre la confédération de Lythana — et la plus difficile à convaincre. Leur chef refusa trois fois le défi équestre, arguant que les règles du duel étaient conçues pour des plaines et non pour des plateaux venteux. Lythana accepta de se battre sur leur terrain. Elle perdit sa première course sur le plateau — le vent la désorientait. Elle repartit, s'entraîna trois mois et revint. Elle gagna la seconde course de justesse. Le chef du Vent-Noir la rejoignit en silence et ne parla plus jamais de cette histoire. Aetharis est la ville où personne ne raconte ses défaites.
 - Population : Ville
 - Région : Aetharia
 
 ### Sylorin — Village
 *Village d'éleveurs de chevaux des plateaux, Sylorin est le berceau de la race équine la plus prisée d'Ilthara : le Destrier d'Aetharia, petit, nerveux et capable de galoper pendant des jours sans repos. Les éleveurs de Sylorin gardent jalousement les secrets de leur lignée équine, et les tentatives de vol de poulains sont punies avec une sévérité qui ferait pâlir les tribunaux de Gryndor.*
+**Histoire :** La race du Destrier d'Aetharia fut presque perdue lors d'une épidémie qui décima les troupeaux il y a deux siècles — une seule jument et deux étalons survécurent. Les éleveurs de Sylorin passèrent quarante ans à reconstituer la lignée avec une patience et une rigueur que les savants de Gryndor auraient admirées. La sévérité des peines contre le vol de poulains date de cette époque : quand une race entière peut s'éteindre, chaque naissance compte. Les éleveurs actuels connaissent par cœur les arbres généalogiques de leurs troupeaux sur vingt générations.
 - Population : Village
 - Région : Aetharia
 
 ### Illythia — Ville
 *Ville pastorale d'Iliara, Illythia est un lieu de calme et de verdure dans un pays dominé par les steppes arides. Entourée de prairies fleuries et de troupeaux de moutons, la ville est connue pour ses marchés d'herbes médicinales et ses tisanes. Les guérisseurs d'Illythia combinent les savoirs de Via Ventus et de Foedus Animae pour créer des remèdes qui rivalisent avec ceux des herboristes d'Ackerna.*
+**Histoire :** Les guérisseurs d'Illythia développèrent leur réputation lors d'une épidémie qui toucha plusieurs tribus nomades simultanément — une maladie des voies respiratoires qui rendait les cavaliers incapables de chevaucher. Les chamanes de Foedus Animae consultèrent les esprits ancestraux ; les herboristes testèrent des mélanges de plantes ; un guérisseur mêla les deux approches par accident et obtint un traitement efficace. Depuis lors, Illythia est la seule ville de Lythar où la médecine spirituelle et la médecine végétale sont enseignées conjointement, sans hiérarchie entre les deux.
 - Population : Ville
 - Région : Iliara
 
 ### Quendris — Ville
 *Avant-poste oriental de Myralis, Quendris est la dernière ville avant les steppes inconnues. Ses habitants sont des éclaireurs et des explorateurs, membres de la tribu du Vent-Gris, dont les récits de terres lointaines alimentent les légendes de tout Lythar. Quendris est aussi un marché noir réputé où circulent des marchandises exotiques dont l'origine est souvent impossible à déterminer.*
+**Histoire :** Le marché noir de Quendris n'est pas un secret ouvert — c'est une institution tolérée. Les éclaireurs qui reviennent des steppes orientales rapportent des objets dont personne ne sait l'origine, et les faire circuler par les voies officielles imposerait des explications impossibles à fournir. Le Grand Khan a tenté à plusieurs reprises de réguler ce commerce ; chaque tentative fut contournée avec une créativité qui finit par forcer l'admiration. L'accord tacite actuel : Quendris garde son marché, le Grand Khan garde son taux d'informations sur ce que les éclaireurs trouvent là-bas.
 - Population : Ville
 - Région : Myralis
 
 ### Vystaris — Village
 *Village d'herboristes de la steppe, Vystaris est un lieu de cueillette et de séchage des herbes sauvages de Myralis. Les plantes qui poussent dans les steppes orientales ont des propriétés uniques, certaines hallucinogènes, d'autres curatives, d'autres encore mortelles. Les herboristes de Vystaris sont les seuls à connaître la différence à coup sûr.*
+**Histoire :** La légende fondatrice de Vystaris est celle d'un chamane qui voulait cartographier toutes les plantes de Myralis et mourut empoisonné à la deux cent vingt-septième espèce — une mort qu'il avait lui-même prévue et documentée dans ses carnets. Il avait trouvé la plante mortelle, l'avait identifiée, et avait décidé de tester ses propres antidotes en conditions réelles. Aucun n'avait fonctionné assez vite. Ses carnets, retrouvés intacts, forment la base du savoir herboriste de Vystaris. La plante en question est cultivée dans un jardin clos au centre du village, soigneusement entretenue et jamais touchée sans gants.
 - Population : Village
 - Région : Myralis
 
 ### Faldris — Village
 *Le village le plus oriental de Lythar, Faldris est habité par les éclaireurs les plus aventureux de la tribu du Vent-Gris. Ses habitants partent régulièrement en expédition dans les terres inexplorées au-delà de Myralis et reviennent — quand ils reviennent — avec des récits de paysages impossibles, de créatures inconnues et de ruines d'une civilisation oubliée. La plupart de ces récits sont considérés comme des exagérations. Certains ne le sont peut-être pas.*
+**Histoire :** Faldris dénombre soigneusement ses absences : une liste gravée dans la pierre du bâtiment central recense tous les éclaireurs partis en expédition, avec la date de départ et, si elle est connue, la date de retour. Les noms sans date de retour sont entourés d'un cercle — il y en a quarante-trois. Personne à Faldris ne prononce ces noms à voix haute, mais la liste est consultée avant chaque départ. Les nouveaux éclaireurs passent toujours un moment à regarder les quarante-trois cercles avant de partir. Aucun n'a jamais renoncé après les avoir vus.
 - Population : Village
 - Région : Myralis
 

@@ -11,8 +11,8 @@
 |---|---|
 | **Continent** | Ilthara |
 | **Gouvernement** | Monarchie traditionnelle |
-| **Religion principale** | Lex Petra (La Loi de Pierre) |
-| **Religion secondaire** | Rota Mundi (Le Cycle du Monde) |
+| **Religion principale** | [[00_Systeme_Religieux\|Lex Petra]] (La Loi de Pierre) |
+| **Religion secondaire** | [[00_Systeme_Religieux\|Rota Mundi]] (Le Cycle du Monde) |
 | **Culture dominante** | Savoir, artisanat de précision, vénération de l'histoire |
 | **Histoire marquante** | La Restauration de Gryndor |
 | **Ressources clés** | Cristaux magiques, pierre de taille, encre enchantée, instruments de précision |
@@ -59,7 +59,7 @@ Le roi actuel est **Vaelorn V**, un monarque méthodique et patient dont la pass
 
 ## Religion
 
-### Lex Petra — La Loi de Pierre (religion officielle)
+### [[00_Systeme_Religieux|Lex Petra]] — La Loi de Pierre (religion officielle)
 
 En Gryndor, la Lex Petra prend une dimension particulière. La pierre n'est pas seulement le symbole de la loi — elle est le support physique du savoir. Les Gryndoriens gravent leurs textes les plus importants dans la pierre, car le parchemin brûle et l'encre s'efface, mais la pierre perdure.
 
@@ -69,9 +69,9 @@ Les temples de la Lex Petra à Gryndor sont des salles d'étude autant que des l
 - **Le Jour de la Pierre Gravée** (solstice d'hiver) — Chaque famille grave dans un bloc de pierre un fait marquant de l'année écoulée. Ces pierres sont déposées dans les fondations des nouveaux bâtiments, créant une mémoire collective littéralement inscrite dans les murs du royaume.
 - **La Lecture des Fondations** (équinoxe de printemps) — Les prêtres exhument une pierre gravée ancienne, choisie au hasard dans les fondations d'un vieux bâtiment, et en lisent le contenu à la population. C'est une façon de faire revivre la voix des ancêtres.
 
-### Rota Mundi — Le Cycle du Monde (religion secondaire)
+### [[00_Systeme_Religieux|Rota Mundi]] — Le Cycle du Monde (religion secondaire)
 
-La croyance en Rota Mundi est populaire parmi les historiens de Gryndor. L'idée que tout est cyclique — que les civilisations naissent, prospèrent, déclinent et renaissent — résonne profondément avec l'expérience du Déclin et de la Restauration. Les adeptes de Rota Mundi étudient les cycles historiques avec une rigueur scientifique, cherchant à prédire les prochains déclins pour mieux s'y préparer. Leur croyance en la réincarnation, bien que non prouvée, motive une vénération des ancêtres et un soin particulier apporté aux archives généalogiques.
+La croyance en [[00_Systeme_Religieux|Rota Mundi]] est populaire parmi les historiens de Gryndor. L'idée que tout est cyclique — que les civilisations naissent, prospèrent, déclinent et renaissent — résonne profondément avec l'expérience du Déclin et de la Restauration. Les adeptes de Rota Mundi étudient les cycles historiques avec une rigueur scientifique, cherchant à prédire les prochains déclins pour mieux s'y préparer. Leur croyance en la réincarnation, bien que non prouvée, motive une vénération des ancêtres et un soin particulier apporté aux archives généalogiques.
 
 ---
 
@@ -112,22 +112,26 @@ Région méridionale plus basse et plus tempérée, Tolvandor est la terre des a
 
 ### Holvendar — Capitale ★
 *Taillée dans le flanc d'une montagne de cristal blanc, Holvendar scintille sous le soleil comme une couronne de diamants. Ses rues sont des galeries voûtées éclairées par des cristaux luminescents, et chaque mur est une page d'histoire gravée dans la pierre. Le Trône de Cristal se trouve au sommet de la cité, dans une salle dont le plafond transparent offre une vue sur les étoiles — car à Gryndor, même le roi doit se souvenir qu'il existe des choses plus grandes que lui.*
+**Histoire :** Lors du Déclin, les envahisseurs mirent Holvendar à sac pendant quatre jours. Le cinquième jour, les galeries souterraines s'effondrèrent sur eux, tuant plus de pillards que la résistance elle-même. Ce fut présenté comme un miracle de la Lex Petra ; les ingénieurs qui reconstruisirent la ville après la Restauration découvrirent que l'effondrement n'était pas accidentel — les archivistes avaient sacrifié leur vie pour faire sauter les soutènements délibérément, choisissant d'enterrer les bibliothèques plutôt que de les laisser piller. Vaelorn V a trouvé les noms de ces archivistes dans des archives récemment déchiffrées. Il n'a pas encore décidé de les révéler au public.
 - Population : Grande ville
 - Région : Holvandor
 - Particularités : Siège du roi et du Conseil des Sages. Grande Bibliothèque de Gryndor (la plus vaste d'Ilthara). Académie des Douze Savoirs.
 
 ### Veylorn — Ville
 *Ville minière prospère nichée dans une vallée cristalline, Veylorn est le principal fournisseur de cristaux bruts du royaume. Ses mines sont célèbres pour leur organisation : chaque galerie est cartographiée, numérotée et documentée avec une précision obsessionnelle. Les mineurs de Veylorn ne sont pas de simples ouvriers — ce sont des géologues formés qui traitent chaque extraction comme une opération chirurgicale, veillant à ne pas endommager les veines adjacentes.*
+**Histoire :** Les mines de Veylorn furent les premières reconstruites après la Restauration — avant même le palais royal. Theldryn III comprit que sans cristaux, la reconstruction de Gryndor était impossible ; les cristaux étaient à la fois la matière première des instruments scientifiques et la source de revenus du commerce extérieur. Les mineurs de la première génération post-Déclin travaillèrent dix-huit heures par jour pendant sept ans. En mémoire de cet effort, les mineurs actuels s'accordent exactement sept jours de repos par an — ni plus, ni moins. Ce chiffre est considéré sacré à Veylorn.
 - Population : Ville
 - Région : Pyrendor
 
 ### Zyrthar — Ville
 *Ville-laboratoire de Tolvandor, Zyrthar est un lieu d'expérimentation permanente. Ses rues sont bordées d'ateliers où l'on entend le grincement des engrenages, le sifflement des alambics et les exclamations des inventeurs. Chaque quartier est dédié à une discipline — métallurgie, optique, alchimie, mécanique — et les explosions accidentelles sont si fréquentes qu'elles ne surprennent plus personne.*
+**Histoire :** Zyrthar n'existait pas avant la Restauration — Theldryn III créa délibérément une ville séparée de la capitale pour y concentrer les expérimentations les plus dangereuses. Il avait vu trop de bibliothèques brûler dans des accidents de laboratoire ; Zyrthar devait être une ville sacrifiable si nécessaire, où les échecs pouvaient brûler sans menacer Holvendar. Les habitants de Zyrthar, informés de cette logique dès le départ, l'acceptèrent avec un enthousiasme qui surprit tout le monde. Un inventeur qui refuse le risque, disent-ils, n'est pas un inventeur.
 - Population : Ville
 - Région : Tolvandor
 
 ### Nelthoris — Village
 *Village d'artisans spécialisés dans la taille de cristaux de précision, Nelthoris fournit les composants les plus délicats des instruments scientifiques et magiques de Gryndor. Les tailleurs de Nelthoris travaillent avec des loupes enchantées et des outils si fins qu'ils sont invisibles à l'œil nu. Un cristal taillé à Nelthoris est un gage de qualité dans tout Ilthara.*
+**Histoire :** La technique de taille de précision de Nelthoris fut mise au point par une artisane qui avait perdu la mobilité de ses mains droite dans un accident et appris à tailler avec sa main gauche, beaucoup plus lente et prudente. Les résultats de sa main blessée surpassèrent ceux de sa main saine — la lenteur forcée avait produit une précision inégalée. Elle enseigna ensuite à ses élèves à tailler délibérément comme si leur main dominante était blessée. La technique est inconfortable et épuisante, mais les instruments de Nelthoris n'ont pas d'égal dans tout Ilthara.
 - Population : Village
 - Région : Tolvandor
 

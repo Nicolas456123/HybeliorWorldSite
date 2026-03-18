@@ -11,8 +11,8 @@
 |---|---|
 | **Continent** | Ilthara |
 | **Gouvernement** | Théocratie druidique |
-| **Religion principale** | Vael'Kurash (Les Esprits de Chaque Chose) |
-| **Religion secondaire** | Rota Mundi (Le Cycle du Monde) |
+| **Religion principale** | [[00_Systeme_Religieux\|Vael'Kurash]] (Les Esprits de Chaque Chose) |
+| **Religion secondaire** | [[00_Systeme_Religieux\|Rota Mundi]] (Le Cycle du Monde) |
 | **Culture dominante** | Druidisme, connexion profonde à la nature et aux saisons |
 | **Histoire marquante** | Le Pacte Sylvestre |
 | **Ressources clés** | Herbes médicinales, bois sacré, cristaux de sève, résines enchantées |
@@ -55,7 +55,7 @@ L'Archidruide actuel est **Sylvenna la Tisseuse de Mousse**, une femme d'un âge
 
 ## Religion
 
-### Vael'Kurash — Les Esprits de Chaque Chose (religion officielle)
+### [[00_Systeme_Religieux|Vael'Kurash]] — Les Esprits de Chaque Chose (religion officielle)
 
 En Ackerna, Vael'Kurash n'est pas simplement une religion — c'est la réalité quotidienne. Les Ackerniens croient que chaque élément du monde naturel abrite un esprit : chaque arbre, chaque rivière, chaque rocher, chaque brise. Ces esprits ne sont pas des dieux mais des présences conscientes avec lesquelles on peut communiquer, négocier et coexister.
 
@@ -69,9 +69,9 @@ Les rituels de Vael'Kurash sont profondément saisonniers. À chaque changement 
 
 Les druides portent des tatouages rituels représentant les esprits auxquels ils sont liés. Ces tatouages évoluent naturellement au fil des saisons — s'assombrissant en hiver, verdissant au printemps — un phénomène que même les mages d'autres nations ne parviennent pas à expliquer.
 
-### Rota Mundi — Le Cycle du Monde (religion secondaire)
+### [[00_Systeme_Religieux|Rota Mundi]] — Le Cycle du Monde (religion secondaire)
 
-La croyance en Rota Mundi s'intègre naturellement à la culture d'Ackerna, car elle enseigne que tout est cyclique — la vie, la mort, les saisons, les civilisations. Les adeptes de Rota Mundi en Ackerna croient fermement en la réincarnation, persuadés que les âmes reviennent sous forme d'animaux, de plantes ou même de pierres. Cette croyance, bien que fausse selon les théologiens d'autres nations, est profondément enracinée et influence les rites funéraires : les morts d'Ackerna ne sont jamais enterrés dans des cercueils mais déposés directement dans la terre, enveloppés de mousse et de feuilles, pour que leur corps nourrisse la prochaine vie.
+La croyance en [[00_Systeme_Religieux|Rota Mundi]] s'intègre naturellement à la culture d'Ackerna, car elle enseigne que tout est cyclique — la vie, la mort, les saisons, les civilisations. Les adeptes de Rota Mundi en Ackerna croient fermement en la réincarnation, persuadés que les âmes reviennent sous forme d'animaux, de plantes ou même de pierres. Cette croyance, bien que fausse selon les théologiens d'autres nations, est profondément enracinée et influence les rites funéraires : les morts d'Ackerna ne sont jamais enterrés dans des cercueils mais déposés directement dans la terre, enveloppés de mousse et de feuilles, pour que leur corps nourrisse la prochaine vie.
 
 ---
 
@@ -112,57 +112,68 @@ La région la plus ouverte d'Ackerna, Siera est un paysage de clairières et de 
 
 ### AckernaVille — Capitale ★
 *La capitale d'Ackerna ne porte pas de nom propre — elle est simplement la Ville, car en Ackerna, il n'y en a qu'une qui mérite ce titre. Nichée au cœur d'Obélia, elle est un labyrinthe vivant d'arbres-maisons centenaires dont les canopées se rejoignent en une voûte végétale si dense que la pluie n'atteint jamais le sol. Le Bosquet Primordial se trouve en son centre, entouré d'un anneau de chênes millénaires dont les troncs sont si larges qu'ils servent de salles de conseil.*
+**Histoire :** La Ville ne fut pas bâtie — elle fut guidée. Pendant trois générations, les premiers druides façonnèrent les arbres d'Obélia en orientant leurs branches, en reliant leurs racines, en enseignant à leurs enfants à continuer le travail. Ce qui ressemblait à de la forêt aux yeux des étrangers était en réalité une ville planifiée depuis le début. Le Bosquet Primordial en est le cœur non pas parce qu'il fut choisi, mais parce que les chênes millénaires qui le composent poussaient là bien avant que les humains n'arrivent — les druides construisirent autour d'eux comme on bâtit autour d'une fondation qu'on n'a pas posée.
 - Population : Grande ville
 - Région : Obélia
-- Particularités : Siège de l'Archidruide et du Cercle des Saisons. Temple-Racine de Vael'Kurash, le plus ancien lieu de culte d'Ackerna.
+- Particularités : Siège de l'Archidruide et du Cercle des Saisons. Temple-Racine de [[00_Systeme_Religieux|Vael'Kurash]], le plus ancien lieu de culte d'Ackerna.
 
 ### Ylisfar — Village
 *Perché dans les branches d'un arbre colossal dont l'espèce est inconnue des botanistes, Ylisfar est un village suspendu accessible uniquement par des passerelles de lianes. Ses habitants sont des observateurs du ciel qui étudient les migrations des oiseaux pour prédire les changements de saisons avec une précision remarquable.*
+**Histoire :** L'arbre porteur d'Ylisfar fut trouvé debout et seul au milieu d'une clairière sans explication — aucune autre espèce comparable ne pousse dans un rayon de cent lieues. Les premiers habitants s'y installèrent non pour l'observer mais pour le protéger, convaincus qu'un arbre aussi singulier devait être l'incarnation d'un esprit majeur. La pratique d'observer les migrations d'oiseaux commença par hasard : depuis les branches supérieures, les habitants voyaient passer des formations que nul au sol n'apercevait. Ce qu'ils interprétaient comme des messages des esprits s'avéra aussi être une météorologie de remarquable précision.
 - Population : Village
 - Région : Obélia
 
 ### Myrisora — Village
 *Village de tisserands de mousse, Myrisora est célèbre pour ses étoffes végétales d'une douceur incomparable. Les tisserands travaillent en chantant des incantations qui, dit-on, convainquent les fibres de mousse de se lier plus étroitement. Les robes cérémonielles des druides sont presque toutes confectionnées ici.*
+**Histoire :** La technique de tissage de la mousse fut développée par une herboriste de Reckia qui cherchait un moyen de soigner les patients atteints de brûlures — la mousse était le seul matériau qu'elle pouvait appliquer sans douleur. Elle découvrit que certaines variétés, correctement préparées, formaient une fibre souple et résistante. Ses méthodes furent adoptées par des artisans qui n'avaient aucune intention médicale. Les chants que les tisserands utilisent aujourd'hui étaient à l'origine des mnémotechniques pour mémoriser les étapes de préparation.
 - Population : Village
 - Région : Obélia
 
 ### Thyrana — Village
-*Thyrana est le village des sculpteurs d'écorce, artisans qui graven dans le bois vivant des récits et des prophéties sans jamais blesser l'arbre. Chaque arbre de Thyrana est une bibliothèque à ciel ouvert, et les habitants viennent y lire l'histoire de leur lignée inscrite dans l'écorce par leurs ancêtres.*
+*Thyrana est le village des sculpteurs d'écorce, artisans qui gravent dans le bois vivant des récits et des prophéties sans jamais blesser l'arbre. Chaque arbre de Thyrana est une bibliothèque à ciel ouvert, et les habitants viennent y lire l'histoire de leur lignée inscrite dans l'écorce par leurs ancêtres.*
+**Histoire :** La première gravure de Thyrana fut une marque territoriale d'un druide qui voulait indiquer le périmètre de son ermitage — une pratique totalement incompatible avec les valeurs druidiques d'Ackerna. Il fut convoqué par le Cercle des Saisons et condamné à effacer sa marque. Mais l'arbre, interrogé rituellement, avait accepté la gravure et refusait qu'on la retire. Le Cercle décida que si l'arbre consentait, la pratique était acceptable — à condition de toujours demander. Thyrana est née de ce cas de jurisprudence.
 - Population : Village
 - Région : Obélia
 
-### Vesperis
-*Blotti dans une vallée où la brume ne se lève jamais, Vesperis est le lieu de formation des herboristes de Reckia. Ses jardins de plantes médicinales sont organisés en cercles concentriques selon les propriétés curatives, et une lumière bleutée émane du sol la nuit — signe, selon les druides, que les esprits de l'eau veillent sur les cultures.*
+### Vesperis — Ville
+*Blottie dans une vallée où la brume ne se lève jamais, Vesperis est le lieu de formation des herboristes de Reckia. Ses jardins de plantes médicinales sont organisés en cercles concentriques selon les propriétés curatives, et une lumière bleutée émane du sol la nuit — signe, selon les druides, que les esprits de l'eau veillent sur les cultures.*
+**Histoire :** La lumière bleutée du sol de Vesperis préoccupa longtemps les druides qui ne pouvaient l'expliquer par aucun esprit connu. Une expédition de recherche creusa prudemment sous les jardins et découvrit un réseau de filaments myceliens bioluminescents d'une espèce inconnue, probablement la source de la lumière et de la fertilité exceptionnelle des sols. Les druides décidèrent que l'explication scientifique ne contredisait pas l'interprétation spirituelle — les esprits de l'eau avaient simplement choisi ce champignon comme instrument. Les filaments ne furent pas perturbés.
 - Population : Ville
 - Région : Reckia
 
-### Ostram
+### Ostram — Village
 *Village de champignonnistes établi dans un réseau de grottes naturelles couvertes de mousse luminescente. Les champignons d'Ostram possèdent des propriétés variées — nutritives, médicinales, et parfois hallucinogènes. Les druides viennent ici pour des retraites méditatives, consommant des préparations spécifiques pour communier plus profondément avec les esprits.*
+**Histoire :** Les premiers habitants d'Ostram étaient des malades — des personnes trop faibles pour vivre ailleurs, qui s'installèrent dans les grottes pour profiter de l'air humide et des champignons médicinaux. La communauté de guérisseurs qui vint les soigner décida de rester et d'approfondir sa connaissance des champignons. Cette origine explique une tradition persistante : Ostram n'a jamais refusé un malade, quelle que soit sa condition ou sa nationalité. La règle de l'accueil inconditionnel est la seule loi écrite du village.
 - Population : Village
 - Région : Reckia
 
 ### Gnosias — Village
 *Le plus isolé des villages de Reckia, Gnosias est habité par des druides contemplatifs qui ont fait vœu de silence. Ils communiquent uniquement par le chant des oiseaux qu'ils ont appris à imiter à la perfection. Les visiteurs sont accueillis avec hospitalité mais doivent respecter le silence sous peine d'être reconduits aux limites du village.*
+**Histoire :** Le vœu de silence de Gnosias fut instauré après le Pacte Sylvestre, par des druides convaincus que le désastre de l'Hiver Noir était en partie causé par l'excès de paroles humaines — les arguments, les débats, les promesses qui corrompent la vérité. Le silence, pour eux, est une discipline de précision : on ne dit que ce qu'on peut dire avec le corps et les sons de la forêt. Leur maîtrise du langage des oiseaux est si parfaite que certains ornithologues étrangers ont passé des semaines à Gnosias sans réaliser que les chants qu'ils transcrivaient avec soin n'étaient pas produits par des oiseaux.
 - Population : Village
 - Région : Reckia
 
 ### Bybias — Ville
 *Ville frontière la plus animée d'Ackerna, Bybias est le principal point de commerce avec les pays voisins. Son marché à ciel ouvert, tenu sous une canopée de glycines géantes, propose herbes, potions, bois sculpté et remèdes que les marchands étrangers s'arrachent. C'est aussi le lieu où les Gardiens de Bosquet jugent les conflits avec les étrangers.*
+**Histoire :** Bybias naquit d'un problème récurrent : les marchands étrangers qui voulaient commercer avec Ackerna entraient dans la forêt et se perdaient — parfois pour toujours, parfois en revenant avec des états d'âme inquiétants après avoir croisé des esprits. L'Archidruide décida de créer une zone tampon à la lisière de la forêt où le commerce serait possible sans pénétration profonde. Les glycines géantes qui couvrent le marché furent plantées lors de la fondation de Bybias : elles délimitent exactement la zone autorisée. Au-delà d'elles, les étrangers ne vont pas sans escorte druidique.
 - Population : Ville
 - Région : Siera
 
 ### Merias — Ville
 *Merias est la ville des luthiers. Les instruments fabriqués ici — flûtes de sureau, harpes d'if, tambours de chêne — sont réputés pour produire des sons qui résonnent avec les esprits. On raconte qu'un musicien jouant un instrument de Merias peut calmer une tempête ou faire fleurir un arbre mort.*
+**Histoire :** La réputation des instruments de Merias repose sur une contrainte imposée par le Cercle des Saisons : chaque arbre dont le bois est utilisé doit avoir été choisi par le druide du Bosquet local, qui passe plusieurs heures à l'écouter avant d'autoriser l'abattage. Ce processus de sélection ne retient que les arbres qui ont vécu des décennies dans des conditions de stress — gelées, sécheresses, parasites — et dont le bois est donc extrêmement dense et résilient. La musique exceptionnelle des instruments de Merias est moins une question de magie que de matière première soigneusement choisie. Les druides savent cela ; ils n'en disent rien.
 - Population : Ville
 - Région : Siera
 
 ### Ebrios — Village
 *Petit village de vignerons de sève, Ebrios produit les meilleurs breuvages fermentés d'Ackerna. La récolte de sève est un rituel en soi : chaque arbre donneur est remercié individuellement, et la fermentation se fait dans des cuves creusées dans des troncs évidés. Le « Vin d'Ebrios » est offert aux dignitaires étrangers comme le plus grand honneur.*
+**Histoire :** Le Vin d'Ebrios faillit provoquer un incident diplomatique lors de son premier usage protocolaire : le dignitaire étranger à qui il fut offert, ignorant ses effets, en but trois coupes lors du banquet et passa la nuit à converser avec ce qu'il affirmait être des esprits d'arbres. Son rapport officiel à son gouvernement fut jugé délirant et ignoré. Depuis lors, Ebrios accompagne systématiquement chaque envoi d'une note d'avertissement sur la posologie. La note est rarement lue.
 - Population : Village
 - Région : Siera
 
 ### Drellesis — Village
 *Village de bergers de cerfs, Drellesis se distingue par sa relation unique avec les troupeaux de cervidés sauvages de Siera. Les habitants ne les domestiquent pas mais vivent en symbiose avec eux — les cerfs protègent le village des prédateurs en échange de pâturages entretenus et de soins en hiver. Les bois tombés des cerfs sont la principale matière première des artisans locaux.*
+**Histoire :** La symbiose avec les cerfs ne fut pas cherchée mais découverte lors d'un hiver particulièrement dur : les habitants de Drellesis, manquant de bois de chauffage, avaient abattu les arbres de leur clairière. Les cerfs, privés de leur abri habituel, se massèrent spontanément autour des maisons, et leur présence groupée éleva la température ambiante de plusieurs degrés. Les deux espèces passèrent l'hiver ensemble par nécessité et ne se séparèrent plus. Les druides interprètent cet hiver comme le moment où les cerfs de Siera choisirent les habitants de Drellesis — non l'inverse.
 - Population : Village
 - Région : Siera
 

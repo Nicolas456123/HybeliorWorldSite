@@ -1,0 +1,110 @@
+<button id="iosFullscreenBtn" class="ios-fullscreen-btn">Plein écran</button>
+<div id="openseadragon1" class="osd-container">
+
+    <!-- Bouton hamburger -->
+    <button class="menu-toggle" id="menuToggle"><span></span></button>
+
+    <!-- Panneau de contrôles -->
+    <div class="controls" id="controlsPanel">
+        <!-- Recherche -->
+        <div class="ctrl-section">
+            <div class="ctrl-section-title">Recherche</div>
+            <div class="search-wrapper">
+                <input type="text" id="searchInput" placeholder="Rechercher un lieu...">
+                <div id="suggestions" class="suggestions-list"></div>
+            </div>
+            <button id="searchButton"><span class="icon">&#x1F50D;</span> Rechercher</button>
+        </div>
+
+        <!-- Affichage -->
+        <div class="ctrl-section">
+            <div class="ctrl-section-title">Affichage</div>
+            <button id="toggleText"><span class="icon">&#x1F520;</span> Textes</button>
+            <button id="toggleBorders"><span class="icon">&#x1F5FA;</span> Frontières</button>
+            <button id="toggleWrapping"><span class="icon">&#x1F310;</span> Mode infini</button>
+            <div class="grid-controls" style="margin-top:6px">
+                <label for="clickZoomRange">Zoom clic <span id="clickZoomValue">100%</span></label>
+                <input type="range" id="clickZoomRange" min="50" max="200" value="100" step="10">
+            </div>
+        </div>
+
+        <!-- Outils -->
+        <div class="ctrl-section">
+            <div class="ctrl-section-title">Outils</div>
+            <button id="measureDistance"><span class="icon">&#x1F4CF;</span> Distance</button>
+            <button id="measureArea"><span class="icon">&#x2B1B;</span> Surface</button>
+            <button id="toggleMarkers"><span class="icon">&#x1F4CD;</span> Marqueurs</button>
+            <button id="toggleEditor"><span class="icon">&#x270F;</span> &Eacute;diteur</button>
+            <button id="addPointBtn" style="display:none"><span class="icon">&#x2795;</span> Ajouter un point</button>
+            <div id="addPointOptions" style="display:none; margin-top:4px;">
+                <label style="font-size:11px; color:var(--text-muted); margin-bottom:4px; display:block;">Type :</label>
+                <select id="addPointType" style="width:100%; padding:5px 8px; background:var(--input-bg); border:1px solid var(--input-border); border-radius:var(--radius); color:var(--text); font-size:12px; margin-bottom:4px;">
+                    <option value="villagesElements">Village</option>
+                    <option value="villesElements">Ville</option>
+                    <option value="citesElements">Cit&eacute;</option>
+                    <option value="capitalesElements">Capitale</option>
+                </select>
+            </div>
+        </div>
+
+        <!-- Grille -->
+        <div class="ctrl-section">
+            <div class="ctrl-section-title">Grille</div>
+            <div class="grid-controls">
+                <button id="toggleGrid"><span class="icon">#</span> Grille</button>
+                <label for="gridSizeInput">Taille <span id="gridSizeDisplay">10</span></label>
+                <input type="number" id="gridSizeInput" min="5" max="300" value="10">
+                <label for="gridTextSize">Texte <span id="gridTextSizeValue">20%</span></label>
+                <input type="range" id="gridTextSize" min="1" max="100" value="20" step="1">
+                <label for="gridLineWidth">Lignes <span id="gridLineWidthValue">10%</span></label>
+                <input type="range" id="gridLineWidth" min="1" max="50" value="10" step="1">
+                <label for="originSelector">Origine</label>
+                <select id="originSelector">
+                    <option value="top-left">Haut-Gauche</option>
+                    <option value="top-right">Haut-Droite</option>
+                    <option value="bottom-left">Bas-Gauche</option>
+                    <option value="bottom-right">Bas-Droite</option>
+                </select>
+            </div>
+        </div>
+    </div>
+
+    <!-- Nav controls -->
+    <div class="nav-controls" id="navControls">
+        <button id="navZoomIn" title="Zoom +">+</button>
+        <button id="navZoomOut" title="Zoom &minus;">&minus;</button>
+        <div class="nav-sep"></div>
+        <button id="navHome" title="Vue initiale">&#x2302;</button>
+        <button id="navFullscreen" title="Plein écran">&#x26F6;</button>
+    </div>
+
+    <!-- Barre de mesure -->
+    <div class="measure-bar" id="measureBar">
+        <span class="measure-icon" id="measureBarIcon"></span>
+        <div class="measure-info">
+            <span class="measure-hint" id="measureHint"></span>
+            <span class="measure-live" id="measureLive"></span>
+        </div>
+        <button id="measureClear" style="display:none">Effacer</button>
+        <button id="measureUndo" style="display:none">Annuler point</button>
+        <button class="measure-cancel" id="measureCancel">Esc - Fermer</button>
+    </div>
+
+    <!-- Info panel -->
+    <div id="infoPanel" class="info-panel">
+        <div class="info-panel-header">
+            <h2 id="cityName">Nom de la ville</h2>
+            <div class="lore-subtitle" id="loreSubtitle"></div>
+            <span id="closeInfoPanel">&times;</span>
+        </div>
+        <div class="info-panel-content">
+            <div id="cityInfo"></div>
+        </div>
+    </div>
+</div>
+
+<!-- Timeline Slider for Historical Borders -->
+<div id="timelineContainer">
+    <input type="range" id="timeline" min="0" max="2" value="0" step="1">
+    <span id="timelineLabel"></span>
+</div>

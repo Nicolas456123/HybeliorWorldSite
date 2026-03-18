@@ -11,8 +11,8 @@
 |---|---|
 | **Continent** | Alkaran |
 | **Gouvernement** | Confédération clanique |
-| **Religion principale** | Foedus Animae (Le Pacte des Âmes) |
-| **Religion secondaire** | Vael'Kurash (Culte des Esprits Anciens) |
+| **Religion principale** | [[00_Systeme_Religieux\|Foedus Animae]] (Le Pacte des Âmes) |
+| **Religion secondaire** | [[00_Systeme_Religieux\|Vael'Kurash]] (Culte des Esprits Anciens) |
 | **Culture dominante** | Martiale, indépendante, survie en conditions extrêmes |
 | **Histoire marquante** | La Bataille du Fjord Gelé |
 | **Ressources clés** | Fourrures, os de créatures, bois de taïga, ambre, poisson |
@@ -62,7 +62,7 @@ Il n'y a pas de bureaucratie, pas d'impôts centraux, pas d'armée permanente. C
 
 ## Religion
 
-### Foedus Animae — Le Pacte des Âmes
+### [[00_Systeme_Religieux|Foedus Animae]] — Le Pacte des Âmes
 
 Les Skaldoriens ont une relation intense et personnelle avec leurs morts. Chaque clan maintient un **Cairn des Voix** — un empilement de pierres où les noms des ancêtres sont gravés. Avant chaque combat, chaque chasse et chaque voyage, un Skaldorien touche le Cairn et murmure les noms de ses morts pour demander leur protection.
 
@@ -71,7 +71,7 @@ Les Skaldoriens ont une relation intense et personnelle avec leurs morts. Chaque
 - **Le Banquet des Morts** : Une fois par an, chaque famille prépare un repas complet et laisse des places vides à table pour les ancêtres. On sert de la nourriture dans les assiettes vides. Si la nourriture a "changé de goût" le lendemain, les ancêtres ont mangé — bon présage.
 - **L'Interdiction de l'Enterrement** : Les Skaldoriens ne mettent jamais leurs morts en terre. Les corps sont soit brûlés sur un bûcher (guerriers), soit confiés à la mer sur un radeau (marins), soit exposés au sommet des montagnes (chamans). La terre est pour les vivants.
 
-### Vael'Kurash (secondaire)
+### [[00_Systeme_Religieux|Vael'Kurash]] (secondaire)
 
 Les esprits de la nature sont respectés en Skaldoria, mais de manière pratique plutôt que dévote. On laisse des offrandes aux esprits de la forêt avant de couper un arbre. On remercie l'esprit de la mer après une pêche fructueuse. C'est plus de la courtoisie que de la religion.
 
@@ -112,16 +112,19 @@ La seule "région" officielle, car les Skaldoriens ne divisent pas leur territoi
 
 ### Skaldris
 *Hameau côtier, point de départ des expéditions vers les îles inexplorées au nord. Les marins qui en reviennent racontent des histoires de créatures colossales et de terres couvertes de cristaux — des récits que personne ne croit mais que tout le monde écoute.*
+**Histoire :** Les marins de Skaldris partent vers le nord depuis des générations sans jamais savoir exactement ce qu'ils cherchent. Les récits de créatures colossales et de terres cristallines varient selon les équipages, mais certains détails reviennent toujours : une lumière verte dansant sur un horizon plat, et un silence absolu que même la tempête ne brise pas. Deux expéditions ne sont jamais revenues. Trois sont revenues avec des mains qui tremblaient et ne s'arrêtaient plus.
 - Population : Village
 - Région : SkaldoriaRegion
 
 ### Vyndar
 *Village de tanneurs et de pelletiers. Le cuir et les fourrures de Vyndar sont exportés vers tout Alkaran. Les artisans d'ici ne forgent pas — ils travaillent la peau avec une précision qui rivalise avec celle des forgerons d'Altram.*
+**Histoire :** Les tanneurs de Vyndar développèrent leur technique après avoir observé qu'un cuir tombé dans une source de montagne particulière devenait imperméable sans traitement supplémentaire. Ils n'ont jamais compris pourquoi — la composition de la source reste un mystère — mais ils ont appris à l'intégrer dans chaque étape du tannage. Les fourrures de Vyndar ne se mouillent pas, résistent au froid et au sel, et sentent légèrement la tourbe. Elles sont reconnaissables entre toutes.
 - Population : Village
 - Région : SkaldoriaRegion
 
 ### Sylthor
 *Ermitage du clan du Givre, où les chamans les plus anciens se retirent pour mourir. Les Skaldoriens croient que les esprits de ces chamans fusionnent avec la montagne elle-même, devenant des gardiens éternels. Le sol autour de Sylthor vibre parfois — les locaux disent que ce sont les morts qui respirent.*
+**Histoire :** Sylthor est l'endroit de Skaldoria que les animaux évitent sans qu'on comprenne pourquoi. Les oiseaux ne s'y posent jamais. Le sol autour du village est froid même en été et vibre légèrement sous les pieds — un murmure que les habitants ressentent dans les os plutôt qu'ils n'entendent avec les oreilles. Les chamans du Givre qui viennent y mourir affirment tous la même chose : à Sylthor, on se sent attendu.
 - Population : Village
 - Région : SkaldoriaRegion
 

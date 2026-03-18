@@ -11,8 +11,8 @@
 |---|---|
 | **Continent** | Alkaran |
 | **Gouvernement** | Monarchie éclairée |
-| **Religion principale** | Lex Petra (La Loi de Pierre) |
-| **Religion secondaire** | Filii Fornacis (Les Enfants de la Forge) |
+| **Religion principale** | [[00_Systeme_Religieux\|Lex Petra]] (La Loi de Pierre) |
+| **Religion secondaire** | [[00_Systeme_Religieux\|Filii Fornacis]] (Les Enfants de la Forge) |
 | **Culture dominante** | Métallurgie, traditions guerrières, honneur familial |
 | **Histoire marquante** | La Rébellion des Forgerons |
 | **Ressources clés** | Fer, argent, pierres précieuses, acier d'exception |
@@ -57,7 +57,7 @@ Le roi actuel est **Aldric IV**, un souverain pragmatique et respecté, connu po
 
 ## Religion
 
-### Lex Petra — La Loi de Pierre (religion officielle)
+### [[00_Systeme_Religieux|Lex Petra]] — La Loi de Pierre (religion officielle)
 
 Les Altramites croient que l'ordre et la loi sont des forces naturelles incarnées dans la pierre elle-même. Chaque serment est prêté sur un bloc de pierre brute. Les tribunaux se tiennent dans des salles taillées dans la roche, et les juges portent des colliers de pierre polie symbolisant leur impartialité.
 
@@ -67,7 +67,7 @@ Les temples de la Lex Petra sont des cavernes naturelles élargies et gravées d
 - **Le Jour de la Pierre Première** (solstice d'hiver) — Chaque citoyen dépose une pierre gravée de son nom devant le temple, renouvelant son engagement envers la loi.
 - **Le Jugement des Flammes** (équinoxe de printemps) — Les forgerons présentent leurs meilleures créations au temple. La plus belle est fondue et coulée dans les fondations d'un nouveau bâtiment public, symbolisant que l'art sert la communauté.
 
-### Filii Fornacis — Les Enfants de la Forge (religion minoritaire)
+### [[00_Systeme_Religieux|Filii Fornacis]] — Les Enfants de la Forge (religion minoritaire)
 
 Une croyance populaire parmi les forgerons les plus dévots : Ferros, le Céleste Forgeron Légendaire, serait le véritable architecte du monde. Selon eux, le monde n'a pas été créé par les Éternels mais forgé — chaque montagne est un coup de marteau, chaque rivière une trempe d'acier. Cette hérésie est tolérée en Altram car elle renforce la fierté artisanale, mais les prêtres de la Lex Petra la regardent avec méfiance.
 
@@ -119,86 +119,103 @@ Région méridionale plus tempérée, connue pour ses carrières de pierre préc
 
 ### Trelios — Capitale ★
 *Port fortifié de la côte nord, Trelios est le siège du roi Aldric IV et le point de sortie de tout le métal d'Altram vers le reste du monde. Ses quais de pierre résistent aux tempêtes les plus violentes, et la forteresse royale, taillée dans la roche vive du promontoire, abrite le Conseil des Maîtres. Sa garnison est la plus importante du royaume.*
+**Histoire :** Varnok le Forgeur choisit ce promontoire parce qu'il jugeait la roche "la plus honnête d'Alkaran" — impossible à dissimuler, impossible à contrefaire, comme il voulait que le soit son règne. Le port fut creusé à la main sur trois générations, chaque famille du royaume contribuant une pierre gravée de son nom. Ces pierres forment encore aujourd'hui les fondations des quais.
 - Population : Capitale
 - Région : Martelios
 
 ### Roseltar
 *Ville commerciale en altitude, où les marchands étrangers viennent négocier les métaux d'Altram. L'air y est plus frais et plus respirable que dans les villes de forge, ce qui en fait le lieu préféré des diplomates et des acheteurs fortunés.*
+**Histoire :** Roseltar naquit comme simple relais de caravane sur la route des mines. Après la Rébellion des Forgerons, quand les marchands étrangers craignaient d'approcher l'instable Martelios, c'est Roseltar qui accueillit les délégations commerciales. En une génération, le village devint ville, et ses hôteliers devinrent les premiers négociants indépendants d'Altram.
 - Population : Ville
 - Région : Sorel Tiam
 
 ### Risel-Turam
 *Village de forgerons spécialisés dans les alliages expérimentaux. Risel-Turam a produit certaines des innovations métallurgiques les plus importantes de l'histoire d'Altram — et aussi quelques explosions mémorables.*
+**Histoire :** Deux frères forgerons — Risel et Turam — fondèrent le village après avoir été chassés de leur guilde pour expérimentation non autorisée. Leur rivalité fraternelle produisit, en cinquante ans, sept alliages nouveaux. La troisième génération reproduisit accidentellement une combustion qui détruisit la forge originelle, mais l'explosion révéla dans les décombres un alliage inconnu d'une dureté record — désormais appelé "l'acier-frère".
 - Population : Village
 - Région : Sorel Tiam
 
 ### Tesmian
 *Village agricole et minier au fond d'une vallée encaissée de Sorel Tiam. Les habitants de Tesmian extraient un minerai rouge sang appelé "larme de la montagne" tout en cultivant les terres fertiles des vallées avoisinantes.*
+**Histoire :** La "larme de la montagne" fut découverte par accident — un paysan creusant un canal d'irrigation frappa une veine rouge écarlate que personne ne reconnut. Il vendit les premiers échantillons à un forgeron de Martelios qui les fondit sans espoir ; l'alliage obtenu rougissait légèrement à la chaleur et tenait trois fois plus longtemps qu'un acier ordinaire. Depuis, Tesmian cultive ses champs d'une main et ses galeries de l'autre.
 - Population : Village
 - Région : Sorel Tiam
 
 ### Tanolies
 *Ville marchande de Liannor, Tanolies est une plaque tournante du commerce frontalier. Ses entrepôts de pierre massive stockent le fer extrait des montagnes voisines avant qu'il ne soit acheminé vers les forges de Martelios. Les marchands de Tanolies négocient aussi avec les caravanes de Torkam — un commerce discret mais lucratif.*
+**Histoire :** Tanolies commença comme poste de péage sur le seul col praticable en hiver entre Liannor et Torkam. Le premier percepteur, un homme nommé Vareth, comprit rapidement qu'il était plus rentable de commercer avec les nomades que de les taxer. Ses descendants gèrent encore les entrepôts centraux, et la tradition d'affaires discrètes avec Torkam remonte à ce premier accord conclu dans le froid, sans témoin et sans contrat écrit.
 - Population : Ville
 - Région : Liannor
 
 ### Traum
 *Ville garnison bâtie dans un défilé montagneux, Traum surveille les passes menant vers Torkam. Ses forgerons fabriquent les armes et armures des soldats de la frontière, et ses tavernes accueillent les patrouilleurs redescendus des cols avec des histoires de raids nomades.*
+**Histoire :** Traum fut fondée après un raid massif de la tribu des Lames qui ravagea trois villages de Liannor en une nuit. Le roi ordonna la construction d'un fort dans le défilé le plus étroit — "là où un seul homme bien armé peut tenir contre cent". Les forgerons locaux, contraints de s'installer pour équiper la garnison, développèrent la "lame du défilé" : courte, large, conçue pour les espaces confinés, encore fabriquée selon les plans originaux.
 - Population : Ville
 - Région : Liannor
 
 ### Umert
 *Village isolé au pied des plus hauts sommets de Liannor, Umert est un avant-poste de mineurs endurcis qui extraient le fer des veines les plus inaccessibles. Les habitants vivent au rythme des saisons — les mines ferment en hiver quand les cols sont impraticables.*
+**Histoire :** Les mineurs d'Umert furent les premiers à creuser une veine de fer à une altitude si élevée que l'air manquait et que les outils gelaient la nuit. Une légende locale dit que ce fer de haute altitude, laissé une nuit sous les étoiles, acquiert une résonance pure quand on le frappe — comme si les astres l'avaient trempé. Des forgerons d'Altram font exprès le voyage pour obtenir ces lingots et les tester eux-mêmes.
 - Population : Village
 - Région : Liannor
 
 ### Temeryl
 *Ville minière prospère dont les galeries s'enfoncent si profondément que les mineurs jurent entendre les battements de cœur de la montagne. Une superstition ? Les prêtres de la Lex Petra affirment que c'est la voix de Terranu lui-même.*
+**Histoire :** La galerie la plus profonde de Temeryl fut scellée après qu'une équipe entière de mineurs remonta à la surface muette et les yeux dilatés, refusant de décrire ce qu'elle avait vu en bas. Les prêtres de la Lex Petra condamnèrent le passage, gravant sur la dalle : "Ce qui est en dessous appartient à Terranu." La dalle n'a pas été touchée depuis — mais on entend les battements à travers elle.
 - Population : Ville
 - Région : Taloram
 
 ### Ulris
 *Cité des joailliers. Chaque bijou créé à Ulris porte une marque de forge unique, et les contrefaçons sont punies par l'exil. On dit que les plus belles parures des reines d'Hybelior ont été ciselées ici.*
+**Histoire :** La réputation d'Ulris fut établie par une seule pièce — la couronne de fiançailles que la grande joaillière Mirala Veth créa pour une reine étrangère dont le nom est perdu. La couronne déclencha une alliance diplomatique, et sa renommée fit le tour du monde avant la reine elle-même. Quand des imitations inondèrent les marchés étrangers, les guildes créèrent le système de marquage unique : chaque pièce porte le sceau personnel de son créateur, enregistré dans le Livre de Pierre du Conseil.
 - Population : Ville
 - Région : Taloram
 
 ### Sautrem
 *Hameau isolé au pied d'un ancien volcan éteint. Le sol y est si riche en minerai que les enfants trouvent des pépites en jouant. Mais les vents violents et les hivers brutaux en font un lieu de vie difficile.*
+**Histoire :** Sautrem fut abandonné après la dernière éruption mineure du volcan, il y a deux siècles. Les survivants qui revinrent au printemps découvrirent que la cendre avait déposé une couche minérale si riche que des pépites de fer brut affleuraient en surface. Ce retour fut considéré comme un signe — le volcan avait détruit, puis compensé. Le village fut rebâti sur les cendres, et les habitants refusent depuis de le quitter, quels que soient les hivers.
 - Population : Village
 - Région : Taloram
 
 ### Mirtel
 *Village agricole paisible, rare oasis de verdure dans un pays de pierre. Les vergers de Mirtel produisent les seuls fruits qui poussent naturellement dans tout Altram — des pommes à la chair grise mais au goût sucré incomparable.*
+**Histoire :** Les pommiers de Mirtel poussent dans un sol minéral qui teinte leur chair d'un gris argenté. Un maître-forgeron souffrant d'intoxication aux métaux fut envoyé se reposer ici sur les conseils d'un prêtre ; il revint guéri et affirma que les pommes grises avaient "nettoyé le métal de ses poumons". Vrai ou non, depuis lors, les caisses de pommes de Mirtel partent chaque saison vers les grandes forges, distribuées comme ration de santé.
 - Population : Village
 - Région : Taloram
 
 ### Arios
 *Ville garnison à la frontière avec Torkam. Arios est en état d'alerte permanent — non par hostilité envers les nomades, mais par tradition. Les soldats d'Arios sont les premiers à répondre aux raids et les derniers à quitter leur poste.*
+**Histoire :** Arios ne fut pas fondée comme forteresse, mais comme comptoir commercial — des marchands voulant capter le commerce nomade sans passer par Tanolies. Quand un raid rasa la moitié du village, les survivants reconstruisirent en pierre massive, armèrent leurs entrepôts et adoptèrent une devise modifiée : "Commerce si possible. Combat si nécessaire." Les soldats d'Arios sont aujourd'hui aussi les meilleurs négociants de la frontière.
 - Population : Ville
 - Région : Torian
 
 ### Turalt
 *Petit village de bergers et d'éleveurs, coincé entre deux montagnes. Les moutons de Turalt ont une laine si épaisse qu'elle sert d'isolant dans les forges — une propriété unique qui fait la fierté (et la richesse) du village.*
+**Histoire :** La découverte des propriétés isolantes de la laine de Turalt fut faite par une bergère qui tapissa les murs de sa forge improvisée avec de vieilles toisons pour couper le vent — et réalisa que l'intérieur restait froid malgré les flammes. Elle vendit l'information au maître-forgeron local contre dix ans d'exemption fiscale. Aujourd'hui, chaque forge d'Altram utilise de la laine de Turalt, et la bergère est devenue une figure légendaire dont le nom — Varra — est gravé sur chaque ballot expédié.
 - Population : Village
 - Région : Torian
 
 ### Liram
 *Village de bûcherons — une rareté en Altram où le bois est méprisé. Les habitants de Liram fournissent le charbon de bois nécessaire aux forges, un rôle vital mais peu glorieux. Ils compensent par un humour mordant et une fierté discrète.*
+**Histoire :** Liram existe parce que quelqu'un devait le faire — les forges d'Altram ont besoin de charbon, et la pierre ne brûle pas. Les habitants développèrent une culture de la fierté inverse : "Nous ne forgeons pas le métal, mais sans nous, rien ne se forge." En privé, ils sculptent le bois méprisé en objets d'une délicatesse surprenante — visages, animaux, scènes mythologiques. Ces sculptures ne sont jamais vendues. Elles sont transmises en héritage.
 - Population : Village
 - Région : Torian
 
 ### Sarultam
 *Ville commerciale qui sert de plaque tournante entre les mines de Martelios et les ports de la côte. Les marchands de Sarultam sont les meilleurs négociateurs d'Altram — et les moins scrupuleux, selon certains.*
+**Histoire :** Sarultam commença comme réseau de sentiers clandestins — des contrebandiers qui détournaient le métal de Martelios vers la côte en évitant les péages royaux. Quand le roi Aldric II décida de formaliser ces routes plutôt que de les combattre, les contrebandiers devinrent marchands agréés du soir au matin. Leurs méthodes de négociation, forgées dans l'art d'esquiver la loi, restent la marque distinctive de Sarultam.
 - Population : Ville
 - Région : Yaltar
 
 ### Altemior
 *Village perché sur une falaise surplombant la mer. Les pêcheurs d'Altemior utilisent des hameçons forgés dans un alliage secret qui résiste à la corrosion marine — un savoir jalousement gardé depuis des générations.*
+**Histoire :** L'alliage des hameçons fut découvert par un pêcheur mourant qui fondit les bijoux de sa femme — du cuivre et du fer volcanique récupéré dans les mines — pour forger de nouveaux hameçons en désespoir de cause. Sa pêche ce jour-là nourrit tout le village en plein hiver. Sa femme, qui ne lui pardonna jamais ses bijoux fondus, passa le reste de sa vie à perfectionner la formule pour "récupérer sa mise". L'alliage résultant porte toujours son surnom : "l'entêtement d'Almira".
 - Population : Village
 - Région : Yaltar
 
 ### Namyr
-*Le plus petit village d'Altram, à peine une douzaine de maisons. Mais Namyr abrite le Sanctuaire de la Première Enclume — le lieu où, selon la légende, Varnok le Forgeur a frappé son premier coup de marteau. C'est un lieu de pèlerinage pour les Filii Fornacis.*
+*Le plus petit village d'Altram, à peine une douzaine de maisons. Mais Namyr abrite le Sanctuaire de la Première Enclume — le lieu où, selon la légende, Varnok le Forgeur a frappé son premier coup de marteau. C'est un lieu de pèlerinage pour les [[00_Systeme_Religieux|Filii Fornacis]].*
+**Histoire :** Le sanctuaire fut bâti autour d'une roche plate marquée d'une entaille profonde — un coup de marteau ou simplement l'érosion, personne ne peut le dire avec certitude. Un prêtre des Filii Fornacis déclara, au retour d'une vision, que c'était le premier coup de Varnok, et que quiconque posait la main sur la marque recevait un fragment de son génie. Des forgerons vinrent de tout Altram pour toucher la pierre. Namyr n'existe que pour les accueillir — il ne s'est jamais développé au-delà de ce rôle.
 - Population : Village
 - Région : Yaltar
 
@@ -219,4 +236,4 @@ Région méridionale plus tempérée, connue pour ses carrières de pierre préc
 
 - **La Veine Noire** : Sous les mines les plus profondes de Martelios, les mineurs ont découvert un métal inconnu, noir comme la nuit et impossible à fondre avec les techniques actuelles. Le roi a fait sceller la galerie et interdit d'en parler. Certains croient que c'est le sang cristallisé d'un Éternel.
 - **Le prince Brennan** entretient secrètement des contacts avec Mosrack, cherchant à moderniser l'armée d'Altram avec des machines de guerre — une idée que le Conseil des Maîtres rejetterait catégoriquement.
-- **La Guilde des Ombres-Forgerons** : Un groupe clandestin de forgerons qui créent des armes maudites pour le plus offrant. Ils suivent une version corrompue des Filii Fornacis et croient que Ferros exige des sacrifices de sang pour les plus grandes œuvres.
+- **La Guilde des Ombres-Forgerons** : Un groupe clandestin de forgerons qui créent des armes maudites pour le plus offrant. Ils suivent une version corrompue des [[00_Systeme_Religieux|Filii Fornacis]] et croient que Ferros exige des sacrifices de sang pour les plus grandes œuvres.

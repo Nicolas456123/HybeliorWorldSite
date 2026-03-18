@@ -12,8 +12,8 @@
 | **Localisation** | Île-nation |
 | **Numéro** | 5 |
 | **Gouvernement** | Théocratie monastique |
-| **Religion principale** | Somnium Vigil (La Veille des Rêves) |
-| **Religion secondaire** | Taciti (Les Silencieux) |
+| **Religion principale** | [[00_Systeme_Religieux\|Somnium Vigil]] (La Veille des Rêves) |
+| **Religion secondaire** | [[00_Systeme_Religieux\|Taciti]] (Les Silencieux) |
 | **Culture dominante** | Moines-guerriers, monastères fortifiés, discipline absolue |
 | **Histoire marquante** | La Défense du Monastère de Kethros |
 | **Ressources clés** | Encens rare, parchemins enluminés, herbes de méditation, sel marin, pierre noire |
@@ -57,7 +57,7 @@ Toute communication officielle se fait en langage des signes baelorien — un sy
 
 ## Religion
 
-### Somnium Vigil — La Veille des Rêves (religion dominante)
+### [[00_Systeme_Religieux|Somnium Vigil]] — La Veille des Rêves (religion dominante)
 
 Les moines de Baelor croient que les rêves sont des fenêtres vers la vérité. Somnix envoie des visions pendant le sommeil, Realis ancre ces visions dans le réel, et Aurion illumine leur signification. La pratique de la méditation profonde — aux frontières du sommeil éveillé — est le cœur de la vie monastique.
 
@@ -66,7 +66,7 @@ Les moines de Baelor croient que les rêves sont des fenêtres vers la vérité.
 - **Le Rêve Partagé** : Lors de rituels spéciaux, les moines entrent en méditation collective et partagent un même rêve. Ces rêves communautaires guident les décisions de l'île.
 - **Le Journal Silencieux** : Chaque moine consigne ses rêves dans un journal enluminé — la seule forme d'écriture pratiquée abondamment à Baelor.
 
-### Taciti — Les Silencieux (religion secondaire)
+### [[00_Systeme_Religieux|Taciti]] — Les Silencieux (religion secondaire)
 
 Le culte du silence absolu est la marque distinctive de Baelor. Les Silencieux croient que la voix divine ne peut être entendue que dans le silence le plus total. Parler est un acte de vanité — imposer ses pensées au monde. Le silence est un acte d'humilité — écouter le monde.
 
@@ -98,11 +98,13 @@ L'île entière constitue une seule région. Des falaises noires au nord, des pl
 
 ### Baeloris
 *Le principal établissement de l'île — non pas une ville, mais un complexe monastique qui s'étend sur tout le flanc d'une falaise. Baeloris est un labyrinthe de cellules, de salles de méditation, de cours d'entraînement et de bibliothèques, reliées par des passages taillés dans la roche noire. Au sommet, la Salle du Silence — un espace circulaire ouvert au ciel — sert de lieu de rassemblement pour les rituels les plus importants. L'Abbé Suprême y réside.*
+**Histoire :** Les premiers moines en exil arrivèrent à Baelor sans outils ni matériaux — ils avaient fui précipitamment. Ils sculptèrent Baeloris à mains nues dans la falaise de roche noire, lentement, sur plusieurs générations, refusant tout commerce avec l'extérieur pour obtenir des instruments de construction. Ce choix de pauvreté radicale n'était pas idéologique au départ : ils n'avaient simplement rien. Mais quand ils purent enfin se procurer des outils, ils les refusèrent — la lenteur du travail leur avait appris quelque chose que la vitesse ne pouvait pas. Chaque cellule de Baeloris fut creusée par le moine qui l'habiterait, et chaque moine vit dans l'espace qu'il a lui-même façonné.
 - Population : Village
 - Région : Baelor
 
 ### Thyldris
 *Second monastère de l'île, construit sur un promontoire face à la mer. Thyldris est le bastion des Veilleurs — les moines chargés de la défense côtière. Des postes d'observation sont répartis sur toute la falaise, et les Veilleurs communiquent par un système de drapeaux et de miroirs. C'est ici que les moines-guerriers les plus talentueux perfectionnent leur art.*
+**Histoire :** Thyldris fut bâti après la Défense du Monastère de Kethros, non pas dans la crainte d'une seconde attaque mais dans la compréhension qu'elle aurait pu être évitée. Draven le Sanguinaire avait pu approcher des côtes de Baelor sans être repéré suffisamment tôt parce que personne ne surveillait la mer de façon systématique — les moines méditaient, pas n'observaient. L'Abbé de l'époque décida que l'observation permanente était aussi une forme de méditation. Thyldris fut le résultat : un monastère dont la pratique spirituelle est précisément l'attention portée à l'horizon, l'attente silencieuse de ce qui vient.
 - Population : Village
 - Région : Baelor
 

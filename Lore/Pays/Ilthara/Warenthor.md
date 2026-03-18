@@ -11,8 +11,8 @@
 |---|---|
 | **Continent** | Ilthara |
 | **Gouvernement** | Monarchie tribale |
-| **Religion principale** | Vael'Kurash (Les Esprits de Chaque Chose) |
-| **Religion secondaire** | Foedus Animae (Le Pacte des Âmes) |
+| **Religion principale** | [[00_Systeme_Religieux\|Vael'Kurash]] (Les Esprits de Chaque Chose) |
+| **Religion secondaire** | [[00_Systeme_Religieux\|Foedus Animae]] (Le Pacte des Âmes) |
 | **Culture dominante** | Vie en jungle, communion avec les esprits, spiritualité animiste |
 | **Histoire marquante** | L'Éveil de la Jungle |
 | **Ressources clés** | Bois tropicaux, plantes médicinales rares, pigments naturels, venins, fruits exotiques, cristaux de sève |
@@ -61,7 +61,7 @@ Le Roi-Chaman actuel est **Thylorin du Serpent-Vert**, un homme de grande statur
 
 ## Religion
 
-### Vael'Kurash — Les Esprits de Chaque Chose (religion officielle)
+### [[00_Systeme_Religieux|Vael'Kurash]] — Les Esprits de Chaque Chose (religion officielle)
 
 En Warenthor, Vael'Kurash n'est pas une religion au sens conventionnel — c'est la réalité quotidienne. Les esprits sont omniprésents et visibles pour ceux qui savent regarder. Chaque arbre, chaque rivière, chaque animal abrite un esprit, et les interactions avec ces esprits rythment la vie de chaque Warenthorien.
 
@@ -74,7 +74,7 @@ Les rituels sont profondément intégrés au quotidien :
 
 Les tatouages rituels de Vael'Kurash sont particulièrement élaborés en Warenthor. Chaque tatouage représente un esprit protecteur personnel, choisi lors d'une vision chamanique. Les tatouages changent de couleur selon l'humeur de l'esprit protecteur — un phénomène unique à Warenthor.
 
-### Foedus Animae — Le Pacte des Âmes (religion secondaire)
+### [[00_Systeme_Religieux|Foedus Animae]] — Le Pacte des Âmes (religion secondaire)
 
 Le culte des ancêtres est profondément ancré à Warenthor. Les morts ne quittent pas la jungle — ils deviennent des esprits supplémentaires qui veillent sur leurs descendants. Les tombes sont des arbres — les morts sont enterrés au pied d'un arbre qui absorbe leur essence et devient un arbre-ancêtre. Communiquer avec ces arbres-ancêtres est une pratique courante, et les familles se rassemblent régulièrement autour de l'arbre de leurs défunts pour leur parler, les consulter et leur demander conseil.
 
@@ -113,42 +113,50 @@ La jungle de Warenthor est stratifiée en trois niveaux : la canopée supérieur
 
 ### Wyndor — Ville
 *La plus grande communauté de Warenthor n'est pas une ville au sens conventionnel — c'est un réseau de plateformes et de maisons sur pilotis s'étendant sur plusieurs hectares de jungle, reliées par des ponts de lianes et des passerelles de bois. Vue d'en haut, Wyndor ressemble à une toile d'araignée géante suspendue entre les arbres. C'est le lieu de résidence du Roi-Chaman et le point de rassemblement du Cercle des Anciens. La Grande Plateforme centrale — un disque de bois poli de vingt mètres de diamètre soutenu par les branches entrelacées de quatre arbres géants — sert de place publique, de tribunal et de lieu de cérémonie.*
+**Histoire :** Wyndor fut le premier lieu où toutes les tribus de Warenthor se retrouvèrent après l'Éveil de la Jungle — non par choix politique, mais parce que les esprits les y guidèrent simultanément. Chaque tribu en chemin croyait répondre seule à un appel personnel ; elles se retrouvèrent toutes dans la même clairière le même jour, regardant les mêmes quatre arbres géants. Warenthos le chaman comprit immédiatement que la jungle choisissait cet endroit. Les arbres furent laissés intacts et la Grande Plateforme construite entre eux plutôt que sur eux. Toucher ces quatre troncs sans permission est encore aujourd'hui le crime le plus grave qu'on puisse commettre à Warenthor.
 - Population : Ville
 - Région : WarenthorRegion
 - Particularités : Résidence du Roi-Chaman. Siège du Cercle des Anciens. Grande Plateforme. Temple-Arbre de Vael'Kurash.
 
 ### Fylorin — Village
 *Village de chasseurs niché au creux d'une vallée où la jungle est si dense que le sol est invisible sous les racines entrelacées. Les chasseurs de Fylorin sont les meilleurs pisteurs de Warenthor, capables de suivre un animal pendant des jours à travers un terrain que tout étranger considérerait comme impénétrable. Ils utilisent des arcs d'if tropical et des flèches enduites de venin de grenouille — un poison paralysant qu'ils préparent avec un soin méticuleux. Chaque chasseur porte le tatouage de son plus grand trophée et respecte un code strict : ne tuer que ce qui est nécessaire, et remercier l'esprit de l'animal abattu.*
+**Histoire :** La règle de ne tuer que ce qui est nécessaire fut codifiée après un incident qui reste dans la mémoire collective de Fylorin comme la Chasse Maudite : une troupe de chasseurs, pris d'emballement lors d'une migration de cerfs, en abattit deux fois plus que le village ne pouvait consommer. Le lendemain, leur vallée était silencieuse — tous les animaux avaient quitté la zone. Il fallut cinq ans pour que la faune revienne, cinq ans de disette et de honte. Le tatouage du plus grand trophée personnel que portent les chasseurs n'est pas une marque de fierté mais un rappel : cet animal a été pris, son esprit a été remercié, et ce privilège ne se répète pas à la légère.
 - Population : Village
 - Région : WarenthorRegion
 
 ### Galdris — Village
 *Village de guérisseurs situé près d'une cascade dont l'eau, filtrée à travers des couches de racines et de cristaux, possède des propriétés curatives reconnues. Les chamanes de Galdris sont les pharmaciens de Warenthor, maîtrisant une pharmacopée de centaines de plantes, racines, champignons, écorces et venins. Leur savoir est transmis exclusivement par voie orale, et un apprenti met vingt ans à devenir un guérisseur accompli. Les malades de tout Warenthor — et parfois d'au-delà — font le pèlerinage jusqu'à Galdris pour y trouver un remède.*
+**Histoire :** La tradition de transmission orale exclusive des savoirs de Galdris fut initialement une nécessité : les premiers guérisseurs ne savaient pas écrire. Quand des Marcheurs lettrés proposèrent de codifier la pharmacopée par écrit, les chamanes refusèrent — non par conservatisme, mais parce qu'ils avaient observé que l'apprentissage oral forçait les apprentis à comprendre plutôt qu'à mémoriser. Un guérisseur qui récite des instructions écrites peut faire des erreurs sur un malade inhabituel ; un guérisseur qui a intégré le principe sait s'adapter. La règle d'oralité est devenue philosophique après avoir été pragmatique.
 - Population : Village
 - Région : WarenthorRegion
 
 ### Thyrath — Village
 *Village de tatoueurs-chamanes, gardiens de l'art du tatouage rituel de Warenthor. Chaque tatoueur de Thyrath est aussi un interprète des esprits — car tracer un tatouage n'est pas un acte esthétique, c'est un acte de liaison. L'encre utilisée est extraite de la sève d'un arbre-esprit rare, et la cérémonie de tatouage dure parfois plusieurs jours, entrecoupée de transes et de dialogues avec l'esprit représenté. Les tatouages de Thyrath sont vivants : ils bougent légèrement selon l'état d'esprit du porteur, et changent de couleur si l'esprit protecteur est en colère ou en joie.*
+**Histoire :** Le mouvement des tatouages de Thyrath déconcerta longtemps les visiteurs de l'extérieur, qui cherchaient une explication mécanique ou magique. La vérité découverte par les naturistes de Gryndor est à la fois plus simple et plus étrange : l'encre de sève réagit aux variations infimes de température cutanée causées par les émotions, faisant bouger les pigments dans des patterns qui correspondent à l'état émotionnel du porteur. Les chamanes de Thyrath savent lire ces patterns comme un texte. Les tatouages ne mentent pas — ce qui rend leur porteur absolument transparent pour quiconque connaît le langage.
 - Population : Village
 - Région : WarenthorRegion
 
 ### Verdrath — Village
 *Village de venins, niché au cœur d'une clairière infestée de serpents et de grenouilles arboricoles. Les artisans de Verdrath récoltent, distillent et combinent les venins de la jungle avec une expertise inégalée — poisons paralysants pour les flèches de chasse, antidotes pour les morsures courantes, et préparations plus secrètes dont on préfère ne pas préciser l'usage. Curieusement, les habitants de Verdrath semblent insensibles à la plupart des toxines — une immunité acquise sur des générations qui les rend presque aussi dangereux que leurs produits.*
+**Histoire :** L'immunité des habitants de Verdrath aux toxines commença avec un accident : la première maîtresse-venimeuse du village survécut à une morsure mortelle de serpent qui aurait dû la tuer, et ses enfants démontrèrent une résistance similaire, bien que moindre. Elle comprit qu'en s'exposant délibérément à des doses infimes de venin dès l'enfance, on développait une tolérance croissante. Elle fit de cette exposition un rite d'initiation. Plusieurs générations plus tard, les habitants de Verdrath naissent déjà avec une résistance partielle héritée. Le rite d'initiation existe toujours — il renforce ce qui est maintenant naturel, et rappelle l'origine de leur résistance.
 - Population : Village
 - Région : WarenthorRegion
 
 ### Canavel — Village
 *Village de la canopée, bâti exclusivement dans les couronnes des arbres les plus hauts de la jungle. Ses maisons n'ont pas de sol — uniquement des plateformes de bois tressé et des hamacs suspendus entre les branches. Les habitants de Canavel ne descendent jamais au sol ; ils se déplacent de cime en cime par un réseau de lianes et de ponts aériens que les étrangers trouvent vertigineux. Cette position élevée leur confère un rôle de guetteurs et d'observateurs — ils voient tout ce qui se passe sous la canopée sans jamais être vus.*
+**Histoire :** La tradition de ne jamais descendre au sol naquit d'une crue catastrophique qui noya le premier village de Canavel, alors situé au niveau du sol. Les survivants se réfugièrent dans les arbres et y restèrent une semaine. Quand les eaux se retirèrent, ils décidèrent collectivement de ne pas redescendre. Ce choix pragmatique devint culturel en deux générations : les enfants de Canavel apprennent à marcher dans les branches avant d'apprendre à marcher sur le sol. Plusieurs d'entre eux, rencontrant le sol de la forêt pour la première fois à l'âge adulte, décrivent une peur irrationnelle de la stabilité qui leur semble contre-naturelle.
 - Population : Village
 - Région : WarenthorRegion
 
 ### Sorothar — Village
 *Village des arbres-ancêtres, où la tradition du Foedus Animae est la plus vivace de Warenthor. Les morts de Sorothar sont enterrés depuis des générations au même endroit, et les arbres-ancêtres qui en ont poussé forment maintenant un bosquet sacré de troncs si épais qu'il faudrait dix hommes pour en entourer un seul. Les chamanes de Sorothar affirment entendre les voix de tous leurs ancêtres en permanence — un murmure constant qui les guide. Les vivants et les morts partagent la même forêt à Sorothar, et la frontière entre eux est la plus mince de tout Hybelior.*
+**Histoire :** Le bosquet des arbres-ancêtres de Sorothar a commencé avec un seul arbre — celui planté par le premier mort qui y fut enterré il y a sept générations. Cet arbre, le plus grand du bosquet, est appelé le Premier Ancêtre et ses feuilles sont utilisées dans tous les rituels de Sorothar. La légende dit que la nuit où le Premier Ancêtre cessa de fleurir, tous les ancêtres garderaient le silence définitivement. Le Premier Ancêtre fleurit chaque printemps sans exception — mais les chamanes qui veillent sur lui ont noté que ses floraisons durent trois jours de moins qu'il y a cinquante ans. Ils gardent cette observation pour eux.
 - Population : Village
 - Région : WarenthorRegion
 
 ### Ryvalorn — Village
 *Village-pont situé à la confluence de trois rivières de la jungle. Ryvalorn est le principal point de commerce intérieur de Warenthor — le seul endroit où les différentes tribus se réunissent régulièrement pour échanger des marchandises, partager des nouvelles et résoudre des conflits. Les Marcheurs utilisent Ryvalorn comme base de départ pour leurs tournées spirituelles. Les rivières qui s'y croisent sont chacune gardée par un esprit-fleuve de grande puissance, et les résidents de Ryvalorn leur dédient des offrandes quotidiennes pour maintenir la paix entre elles.*
+**Histoire :** La paix entre les trois esprits-fleuves de Ryvalorn n'a pas toujours existé. Pendant des années, les conflits entre ces esprits rendaient le carrefour dangereux — des crues inexplicables d'une seule rivière, des sécheresses soudaines d'une autre, des courants qui changeaient de sens. Les habitants de l'époque vivaient dans une anxiété permanente. Un chamane itinérant trouva la solution : chaque esprit-fleuve voulait des offrandes différentes et jalousait celles des autres. En établissant un protocole strict et distinct pour chaque rivière — avec des jours, des lieux et des matériaux d'offrande séparés — il mit fin aux conflits. Ce protocole est respecté à la lettre depuis deux siècles. La moindre déviation, même accidentelle, provoque des réactions immédiates et visibles.
 - Population : Village
 - Région : WarenthorRegion
 

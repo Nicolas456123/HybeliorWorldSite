@@ -35,7 +35,7 @@ La situation dégénéra lorsque trois communautés revendiquèrent simultanéme
 
 ### La Charte de Kharazir
 
-La solution vint d'une femme nommée Mirael Azurin, fille d'un marchand d'Azuris et d'une prêtresse nomade de Rota Mundi. Élevée entre deux cultures, elle comprenait mieux que quiconque la nécessité d'un accord qui respecterait chaque identité sans en écraser aucune.
+La solution vint d'une femme nommée Mirael Azurin, fille d'un marchand d'Azuris et d'une prêtresse nomade de [[00_Systeme_Religieux|Rota Mundi]]. Élevée entre deux cultures, elle comprenait mieux que quiconque la nécessité d'un accord qui respecterait chaque identité sans en écraser aucune.
 
 Elle réunit les représentants de toutes les communautés dans la plaine de Rukhsar — un terrain neutre — et proposa la **Charte de Kharazir** : un document fondateur garantissant la liberté religieuse, l'autonomie régionale et un système fédéral où chaque communauté élit ses représentants au Conseil des Voix. La Charte fut gravée sur sept piliers de pierre — un pour chaque région — et chaque pilier fut érigé dans la capitale naissante.
 
@@ -60,7 +60,7 @@ La Médiatrice Suprême actuelle est **Selvina Hiliaris**, une diplomate née à
 
 ### Liberté religieuse totale
 
-Kharazir est unique sur Galenor : aucune religion n'y est officielle, et toutes y sont tolérées tant qu'elles ne prêchent pas la violence ou la domination d'autrui. Les temples de Rota Mundi côtoient les sanctuaires de l'Ordo Caelum, les cercles de méditation du Somnium Vigil voisinent avec les autels de la Lex Petra.
+Kharazir est unique sur Galenor : aucune religion n'y est officielle, et toutes y sont tolérées tant qu'elles ne prêchent pas la violence ou la domination d'autrui. Les temples de [[00_Systeme_Religieux|Rota Mundi]] côtoient les sanctuaires de l'[[00_Systeme_Religieux|Ordo Caelum]], les cercles de méditation du [[00_Systeme_Religieux|Somnium Vigil]] voisinent avec les autels de la [[00_Systeme_Religieux|Lex Petra]].
 
 Cette diversité religieuse est protégée par l'article premier de la Charte : *« Nulle foi ne sera contrainte, nulle prière interdite, nul temple fermé au nom d'un autre. »*
 
@@ -127,122 +127,146 @@ Région septentrionale adossée aux contreforts montagneux, couverte de forêts 
 
 ### Rukhsar — Capitale ★
 *Bâtie dans la plaine où fut signée la Charte, Rukhsar est une cité circulaire organisée autour des Sept Piliers — les colonnes de pierre gravées du texte fondateur. Ses rues rayonnent en étoile depuis le centre, et chaque quartier reflète la culture d'une région différente. Le Grand Bazar de Rukhsar, ouvert jour et nuit, est un tourbillon de langues, d'odeurs et de couleurs que nul voyageur n'oublie.*
+**Histoire :** Les Sept Piliers furent érigés simultanément en une seule journée, chaque région fournissant ses propres maçons. La place centrale fut délibérément conçue sans architecture dominante — ni voûte, ni tour, ni emblème d'aucune communauté. Mirael Azurin, refusant tout titre, ne possède pas de statue dans la ville qu'elle a fondée ; son seul monument est la fontaine centrale, gravée de sa devise : *« Celui qui parle pour tous doit appartenir à aucun. »*
 - Population : Capitale
 - Région : Nomadaro
 - Particularités : Siège du Conseil des Voix, Jardin de la Concorde central, Grand Bazar interculturel.
 
 ### Lysara — Ville
 *Perchée sur les collines viticoles de Hiliara, Lysara est une ville paisible aux toits d'ardoise et aux ruelles pavées bordées de glycines. Ses caves abritent les meilleurs crus de Kharazir, et ses tavernes attirent les poètes et les philosophes de tout Galenor. On dit que plus de traités de paix ont été signés dans les caves de Lysara que dans toutes les salles de conseil du pays.*
+**Histoire :** Lysara fut fondée par les marchands qui approvisionnaient les délégations diplomatiques de la période précédant la Charte. Ils se retrouvaient ici pour commercer en marge des négociations tendues. Quand la paix fut conclue, ils décidèrent de rester — un village qui avait accueilli des ennemis en train de devenir amis valait bien qu'on y construise quelque chose de durable.
 - Population : Ville
 - Région : Hiliara
 
 ### Brindale — Village
 *Petit village de vergers niché dans une vallée abritée, Brindale produit des pommes dorées dont le jus est réputé pour ses vertus tonifiantes. Ses habitants, essentiellement des fermiers, vivent au rythme des saisons avec une simplicité que beaucoup envient.*
+**Histoire :** Les pommiers de Brindale sont les descendants d'arbres sauvages qui poussaient le long d'une rivière aujourd'hui asséchée. Les premiers colons les greffèrent et les cultivèrent en espérant un profit médical ; ils obtinrent un fruit ordinaire au goût excellent et une existence provinciale qu'ils ne troquèrent contre rien.
 - Population : Village
 - Région : Hiliara
 
 ### Valthorn — Village
 *Hameau de bergers sur les collines les plus élevées de Hiliara, Valthorn offre une vue imprenable sur les plaines dorées de Solandra. Ses habitants élèvent des chèvres dont le lait sert à fabriquer un fromage sec et épicé, apprécié des caravanes pour sa longue conservation.*
+**Histoire :** La recette du fromage de Valthorn fut créée par accident — un berger ajouta des herbes sauvages à un lot tourné pour en masquer l'odeur. Le résultat fut si apprécié d'un marchand de passage qu'il en commanda dix meules. Le berger ne dit jamais si le lot d'origine était réellement gâté ou non.
 - Population : Village
 - Région : Hiliara
 
 ### Baldir — Ville
 *Port lacustre animé sur la rive du Grand Lac d'Umarisar, Baldir est le centre névralgique du commerce fluvial de Kharazir. Ses quais flottants accueillent des barges venues de toutes les régions, et ses entrepôts regorgent de marchandises en transit. La guilde des bateliers de Baldir est l'une des plus influentes du pays.*
+**Histoire :** Baldir commença comme marché flottant — des marchands amarrant leurs bateaux côte à côte jusqu'à ce que les embarcations finissent par former une plateforme continue. Les premiers bâtiments permanents furent construits sur des radeaux lestés ; certains d'entre eux, agrandis et empilés, sont encore en service au cœur du vieux port.
 - Population : Ville
 - Région : Umarisar
 
 ### Solthir — Ville
 *Ville de pêcheurs et d'artisans construite sur une île artificielle au milieu d'un lac, Solthir est un prodige d'ingénierie lacustre. Ses maisons sur pilotis sont reliées par des ponts de bois sculpté, et le son des carillons aquatiques qui marquent les heures résonne sur l'eau calme.*
+**Histoire :** Solthir fut construite sur les ruines d'un ancien village englouti par une crue. Les survivants ne voulurent pas quitter le lac et décidèrent de reconstruire au-dessus de l'eau plutôt que de revenir sur la berge. Les fondations des anciennes maisons servent de socle aux pilotis — les plongeurs affirment voir les pavés de l'ancienne place du village à six mètres de fond, parfaitement intacts.
 - Population : Ville
 - Région : Umarisar
 
 ### Thalnor — Village
 *Village de tisserands installé sur les berges d'un affluent paisible, Thalnor est célèbre pour ses toiles imperméables tissées à partir de fibres de joncs locaux. Ces tissus, légers et résistants, sont prisés par les marins de Solena.*
+**Histoire :** La toile imperméable de Thalnor fut inventée par des pêcheurs qui voulaient des filets qui ne pourrissent pas. Ils expérimentèrent avec les joncs riverains, découvrant qu'une technique de tressage particulière créait une surface qui repoussait l'eau. Les marins de Solena qui achetèrent les premiers prototypes en commandèrent dix fois la production annuelle du village.
 - Population : Village
 - Région : Umarisar
 
 ### Ylondor — Village
-*Hameau de pêcheurs au bord d'un étang naturel si clair qu'on en voit le fond à dix mètres. Les habitants d'Ylondor pratiquent une forme de pêche méditative héritée de moines du Somnium Vigil qui s'installèrent ici il y a des siècles.*
+*Hameau de pêcheurs au bord d'un étang naturel si clair qu'on en voit le fond à dix mètres. Les habitants d'Ylondor pratiquent une forme de pêche méditative héritée de moines du [[00_Systeme_Religieux|Somnium Vigil]] qui s'installèrent ici il y a des siècles.*
+**Histoire :** Des moines du Somnium Vigil s'installèrent à Ylondor pour méditer au bord de l'étang, dont la clarté leur semblait une métaphore parfaite de la perception purifiée. Quand ils partirent un siècle plus tard, les pêcheurs qu'ils avaient employés conservèrent leurs techniques de pêche silencieuse — non par dévotion, mais parce qu'elles fonctionnaient mieux.
 - Population : Village
 - Région : Umarisar
 
 ### Varithor — Village
 *Village lacustre isolé, accessible uniquement par barque. Varithor est un refuge pour les érudits et les rêveurs qui cherchent le silence. Sa bibliothèque flottante, bien que modeste, contient des manuscrits rares récupérés lors de purges religieuses dans d'autres pays.*
+**Histoire :** La bibliothèque de Varithor fut assemblée par des réfugiés fuyant les purges théologiques de Seraphia, qui apportèrent leurs textes les plus précieux dans leurs barques. Le village n'existait pas encore — ils construisirent des maisons autour de leurs livres. La collection contient aujourd'hui des textes dont Seraphia nie officiellement l'existence.
 - Population : Village
 - Région : Umarisar
 
 ### Azurea — Ville
 *Cœur commercial d'Azuris, Azurea est bâtie au pied de falaises de pierre bleue qui lui donnent son nom. Son marché permanent, le Bazar d'Azur, est le deuxième plus grand de Kharazir après celui de Rukhsar. Les marchands d'Azurea sont réputés pour leur sens aigu des affaires et leur hospitalité calculée.*
+**Histoire :** La pierre bleue fut d'abord utilisée pour paver des routes — pratique et disponible. Ce fut un architecte étranger qui, remarquant la beauté du matériau, en demanda des blocs taillés pour une façade de noble. Les nobles voisins en voulurent autant. En dix ans, ce qui valait le prix d'une route valait celui d'un palais.
 - Population : Ville
 - Région : Azuris
 
 ### Lysindor — Village
 *Petit village de carriers qui extraient la fameuse pierre bleue d'Azuris. Le travail est dur, mais les carriers de Lysindor sont fiers de fournir le matériau dont sont faites les Portes d'Azur de toutes les villes de Kharazir.*
+**Histoire :** Les carriers de Lysindor ont une tradition unique : le premier bloc taillé d'une nouvelle face de carrière va au temple local ; le dernier bloc avant l'épuisement d'une veine est scellé dans le mur de la carrière avec une plaque portant le nom des hommes qui l'ont creusée. Ces plaques remontent à la fondation du village.
 - Population : Village
 - Région : Azuris
 
 ### Velithis — Ville
 *Ville herboriste au cœur des plaines dorées de Solandra, Velithis est entourée de champs d'herbes curatives à perte de vue. Ses apothicaires sont les plus compétents de Galenor, et sa guilde des herboristes fixe les prix des remèdes pour tout le continent.*
+**Histoire :** La ville entière descend d'un seul étal de marché — celui d'une herboriste nommée Aressa qui s'arrêta à ce carrefour parce que son âne refusait d'avancer. Elle trouva les herbes de la plaine exceptionnelles, s'installa, eut cinq filles qui eurent chacune cinq apprenties. Trois générations plus tard, le carrefour était devenu Velithis. L'emplacement de l'étal original est marqué par une pierre dorée dans le sol du marché actuel.
 - Population : Ville
 - Région : Solandra
 
 ### Myndor — Village
 *Village de séchoirs à herbes, reconnaissable de loin à ses longues structures de bois ajouré où les plantes récoltées sont suspendues pour le séchage. L'air de Myndor est perpétuellement embaumé de senteurs médicinales, et ses habitants affirment que personne n'y tombe jamais malade.*
+**Histoire :** Les cadres de séchage furent inventés lors d'une mauvaise saison de pluies qui avait ruiné trois récoltes consécutives. L'obligation de sécher sous abri permit de découvrir que les herbes séchées lentement à l'ombre avaient une concentration médicinale bien supérieure à celles séchées au soleil. La mauvaise saison devint la meilleure chose qui soit arrivée au village.
 - Population : Village
 - Région : Solandra
 
 ### Thalyra — Village
 *Hameau de recherche herboriste fondé par d'anciens étudiants de Lumasar qui préférèrent l'application pratique à la théorie. Thalyra possède un petit laboratoire communautaire où l'on expérimente de nouvelles préparations à base d'herbes dorées.*
+**Histoire :** Les fondateurs de Thalyra furent renvoyés de l'académie de Lumasar pour avoir expérimenté sur des plantes sans autorisation du Cénacle. Ils vinrent à Kharazir parce que personne ne leur demanderait de formulaires d'autorisation. En vingt ans, leurs découvertes pratiques dépassèrent en valeur appliquée tout ce que l'académie avait produit pendant leur scolarité.
 - Population : Village
 - Région : Solandra
 
 ### Ravendis — Ville
 *Ville caravanière de Nomadaro, Ravendis est un point de rassemblement pour les tribus semi-nomades qui commercent avec les sédentaires. Ses foires aux montures sont légendaires — on y trouve des créatures de selle venues de toutes les savanes du sud de Galenor.*
+**Histoire :** La foire fut créée par un unique commerçant arrivé avec quarante chevaux de savane et aucun acheteur en vue. Il organisa des courses et des démonstrations d'équitation pour attirer le public — les chevaux se vendirent en deux jours. La foire revient chaque saison depuis lors, et les courses sont devenues aussi importantes que la vente.
 - Population : Ville
 - Région : Nomadaro
 
 ### Fenaldor — Village
 *Campement semi-permanent au bord d'un oasis, Fenaldor oscille entre village et bivouac selon la saison. Pendant la saison sèche, seuls les anciens y demeurent ; pendant les pluies, la population décuple quand les tribus convergent pour les grandes fêtes nomades.*
+**Histoire :** Les anciens qui gardent Fenaldor pendant la saison sèche sont les gardiens de la mémoire tribale — ils savent où chaque tribu campe, quels accords ont été conclus, quelles querelles couvent. Ce rôle non officiel mais indispensable leur confère une autorité que nul titre formel ne pourrait égaler.
 - Population : Village
 - Région : Nomadaro
 
 ### Thrandor — Village
 *Avant-poste des dunes méridionales, Thrandor est le dernier village sédentaire avant les vastes savanes des cavaliers Khalorins. Ses habitants servent d'intermédiaires entre les nomades et le reste de Kharazir, et leur connaissance des coutumes tribales est inestimable.*
+**Histoire :** Thrandor ne fut pas fondé par des nomades ni par des sédentaires, mais par les enfants des deux — des descendants de mariages mixtes qui n'appartenaient complètement à aucune communauté et bâtirent la leur à mi-chemin entre les deux mondes. Cette double appartenance est aujourd'hui leur principal atout commercial.
 - Population : Village
 - Région : Nomadaro
 
 ### Velimar — Village
 *Village d'éleveurs spécialisés dans le dressage de montures de savane. Les dresseurs de Velimar fournissent les meilleures bêtes de Kharazir, élevées selon des méthodes transmises oralement depuis des générations. Aucun manuel ne saurait remplacer la patience et l'instinct d'un dresseur de Velimar.*
+**Histoire :** L'art du dressage de Velimar fut apporté par un maître-cavalier de Ventera qui s'installa ici après avoir épousé une éleveuse locale. Ses méthodes ventériennes, croisées avec le savoir indigène des comportements de savane, produisirent une technique hybride que ni Ventera ni Kharazir ne possèdent seuls. Ses descendants élèvent encore les chevaux selon les notes qu'il laissa — dans deux langues, jamais entièrement traduites.
 - Population : Village
 - Région : Nomadaro
 
 ### Quinthor — Ville
 *Ville de tailleurs de gemmes, Quinthor est le joyau d'Osaria — au sens propre. Ses ateliers transforment les pierres brutes des collines en bijoux d'une finesse remarquable. Le Marché des Éclats, tenu chaque premier jour du mois, attire les joailliers de tout Galenor.*
+**Histoire :** Le marché aux gemmes commença quand un mineur vendit une pierre brute à un marchand de passage pour acheter du pain. Le bénéfice que le marchand réalisa convainquit chaque mineur des collines de faire de même. Le village poussa pour les servir — une taverne, une auberge, un atelier de taille, puis une ville entière bâtie sur la valeur de ce que la terre cachait.
 - Population : Ville
 - Région : Osaria
 
 ### Mylnor — Village
 *Village minier sur les plateaux rocailleux d'Osaria, Mylnor exploite des veines de quartz rose et d'améthyste. La vie y est austère mais les mineurs sont bien payés, et le village s'enorgueillit d'une école de taille de pierre réputée.*
+**Histoire :** L'école de taille fut fondée par un ancien voleur de gemmes repenti qui avait fait fortune en revendant des pierres volées. De retour au pays, il restitua ce qu'il put aux familles lésées et finança l'école avec le reste. La devise qu'il choisit est gravée au fronton : *« Ce qui est pris doit être rendu, mais ce qui est enseigné ne peut être volé. »*
 - Population : Village
 - Région : Osaria
 
 ### Felithar — Village
 *Hameau de sculpteurs niché dans une gorge étroite dont les parois sont couvertes de bas-reliefs ciselés par des générations d'artistes. Felithar est un musée à ciel ouvert, et les sculpteurs qui y vivent considèrent la roche elle-même comme leur toile.*
+**Histoire :** Les premières sculptures de Felithar furent taillées par une jeune artiste exilée de la capitale, qui grava une scène satirique de ses juges sur la paroi de la gorge en guise de vengeance. Les passants la trouvèrent géniale. Elle sculpta pendant cinquante ans. D'autres vinrent s'installer dans la gorge pour travailler à côté d'elle, et le village naquit autour de l'art de son dépit.
 - Population : Village
 - Région : Osaria
 
 ### Nythora — Ville
 *Ville forestière d'Ysundara, construite en grande partie en bois massif — une rareté respectée dans cette région boisée. Nythora est un centre de commerce du bois, de la fourrure et du miel sauvage. Ses habitants, taciturnes et indépendants, entretiennent un rapport quasi sacré avec la forêt.*
+**Histoire :** Nythora naquit d'un refus collectif. Une équipe de bûcherons envoyée défricher la région vit les arbres millénaires qui les entouraient et vota à l'unanimité de ne pas les couper. Ils construisirent avec le bois mort déjà tombé, vendirent des services de gardiennage forestier, et quand la Charte de Kharazir fut signée, leur région fut la dernière à adhérer — mais aussi celle qui posa les conditions les plus strictes sur la protection des forêts.
 - Population : Ville
 - Région : Ysundara
 
 ### Kalithar — Village
 *Village de bûcherons et de trappeurs au cœur de la forêt dense d'Ysundara. La vie à Kalithar suit le rythme des arbres — on n'abat jamais plus que ce que la forêt peut régénérer, une règle non écrite mais universellement respectée.*
+**Histoire :** La règle du prélèvement équilibré fut instaurée après qu'une crue emporta trois villages en aval d'une zone déboisée. Les survivants enterrèrent leurs morts et replantèrent la colline avec les mêmes essences qui y avaient poussé. La règle n'est pas dans la Charte, pas dans les lois — elle est dans la mémoire de chaque famille de Kalithar, transmise avec les prénoms des noyés.
 - Population : Village
 - Région : Ysundara
 
 ### Brynthor — Village
 *Hameau isolé aux confins septentrionaux d'Ysundara, si proche de la taïga que les hivers y durent six mois. Les habitants de Brynthor sont des chasseurs endurcis qui prétendent avoir vu les Gardiens Sylvestres — les entités géantes de bois et de pierre qui, selon la légende, veillent sur les forêts du nord de Galenor.*
+**Histoire :** Les témoignages des Gardiens Sylvestres commencèrent après que deux chasseurs revinrent d'une expédition hivernale et refusèrent de décrire ce qu'ils avaient vu. L'un quitta Kharazir définitivement. L'autre se mit à peindre — des scènes forestières immenses remplies de présences enormes à peine visibles entre les troncs. Il ne dit jamais si c'était ce qu'il avait vu ou ce qu'il craignait d'avoir vu.
 - Population : Village
 - Région : Ysundara
 
@@ -265,5 +289,5 @@ Région septentrionale adossée aux contreforts montagneux, couverte de forêts 
 
 - **La Huitième Voix** : La Charte mentionne sept régions et sept piliers — mais des érudits ont découvert des traces d'un huitième pilier brisé, enterré sous le centre de Rukhsar. Quelle communauté oubliée représentait-il, et pourquoi son existence a-t-elle été effacée de l'histoire ?
 - **Le Réseau des Passeurs d'Ombres** : Derrière la façade de tolérance, un réseau clandestin exploite la liberté religieuse de Kharazir pour faire entrer des cultes interdits et des artefacts dangereux. La Médiatrice Selvina soupçonne l'implication de marchands d'Azurea, mais les preuves sont insaisissables.
-- **Les Herbes qui Rêvent** : Dans les plaines de Solandra, certaines récoltes d'herbes dorées provoquent des visions prophétiques au lieu de guérir. La guilde des herboristes de Velithis cache cette propriété au public, mais un groupe dissident du Somnium Vigil cherche à s'en emparer pour ses rituels.
+- **Les Herbes qui Rêvent** : Dans les plaines de Solandra, certaines récoltes d'herbes dorées provoquent des visions prophétiques au lieu de guérir. La guilde des herboristes de Velithis cache cette propriété au public, mais un groupe dissident du [[00_Systeme_Religieux|Somnium Vigil]] cherche à s'en emparer pour ses rituels.
 - **L'Enfant des Sept Cultures** : Une prophétie ancienne, antérieure à la Charte elle-même, annonce la venue d'un être né de sept lignées différentes qui « ouvrira la porte que les Titans ont fermée ». Plusieurs factions recherchent activement cet individu, avec des intentions très divergentes.

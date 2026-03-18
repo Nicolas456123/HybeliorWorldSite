@@ -114,92 +114,110 @@ Région méridionale et la plus étendue, Ravantis est une côte de plages longu
 
 ### Hekorinth — Capitale ★
 *Bâtie sur une falaise de calcaire blanc surplombant un port naturel en arc de cercle, Hekorinth scintille sous le soleil comme une couronne d'argent posée au bord de la mer. Le Palais des Constellations domine la ville depuis le point le plus élevé — sa grande coupole de verre enchantée permet d'observer les étoiles même en plein jour. Les rues descendent en terrasses vers le port, bordées de maisons blanches aux volets bleus, et l'air porte en permanence l'odeur du sel, du poisson grillé et du goudron de navire.*
+**Histoire :** Hekorinth fut fondée par Haldros le Navigateur à l'emplacement exact d'une falaise d'où, selon la légende, il avait observé une constellation inconnue une seule nuit avant de ne plus jamais la revoir. Ne voulant pas risquer de manquer une nouvelle apparition, il y installa son camp, puis sa maison, puis son trône. La coupole de verre enchantée du Palais des Constellations fut construite deux siècles plus tard par ses descendants, sur les ruines de ce premier camp ; elle est orientée précisément vers le point du ciel où Haldros avait vu la constellation inconnue. Les Astrologues de la Couronne scrutent ce point chaque nuit. La constellation n'est jamais réapparue.
 - Population : Grande ville
 - Région : Hekoria
 - Particularités : Siège du roi et du Conseil des Amiraux. Palais des Constellations. Grande Carte Stellaire. Observatoire Royal.
 
 ### Raldir — Ville
 *Ville portuaire secondaire de Hekoria, Raldir est le centre du commerce intérieur de Haldria. Son port, plus petit que celui d'Hekorinth mais mieux protégé des tempêtes, accueille les navires marchands des côtes et les barques de pêche. Les entrepôts de Raldir stockent le poisson séché, le sel et les perles avant leur expédition vers la capitale.*
+**Histoire :** Raldir fut longtemps rivale d'Hekorinth pour le titre de capitale. Son port naturel est meilleur, sa position stratégique supérieure, et ses marchands plus riches. Haldros choisit Hekorinth pour des raisons astronomiques que ses successeurs trouvèrent déraisonnables mais n'osèrent jamais remettre en question. Raldir accepta son statut secondaire en développant ce qu'Hekorinth n'avait pas : une efficacité commerciale sans égale. Les marchands de Raldir ont un proverbe : « Hekorinth regarde les étoiles, Raldir fait les comptes. »
 - Population : Ville
 - Région : Hekoria
 
 ### Fyndor — Village
 *Village de pêcheurs accroché à une falaise si abrupte que les maisons semblent suspendues au-dessus de la mer. Les habitants de Fyndor descendent chaque matin par des échelles de corde jusqu'à leurs barques, et remontent le soir chargés de la pêche du jour. Le vertige est une disqualification sociale à Fyndor — un enfant qui a le mal des hauteurs est envoyé vivre dans une ville de l'intérieur.*
+**Histoire :** Fyndor fut peuplé par accident : des pêcheurs qui fuyaient une tempête cherchèrent refuge au pied d'une falaise, trouvèrent des eaux calmes et poissonneuses, et ne repartirent jamais. Le problème de la falaise — trop haute pour un escalier, trop abrupte pour une route — fut résolu génération après génération par des systèmes de cordes et de poulies de plus en plus sophistiqués. Aujourd'hui, les enfants de Fyndor grimpent la falaise à mains nues comme les enfants d'autres villages courent dans les rues. Le vertige y est traité non comme un défaut de caractère mais comme une incompatibilité pratique.
 - Population : Village
 - Région : Hekoria
 
 ### Valdren — Village
 *Village côtier de Hekoria connu pour ses salines. Le sel de Valdren, récolté dans des bassins naturels creusés par la mer dans la roche calcaire, est d'une pureté exceptionnelle et se vend à prix d'or dans tout Ilthara. Les sauniers de Valdren sont des artisans patients dont le travail dépend entièrement des cycles de marée et de soleil — un métier qui convient parfaitement à un peuple qui vit au rythme des astres.*
+**Histoire :** La pureté exceptionnelle du sel de Valdren fut reconnue lors d'un banquet royal où un cuisinier, ayant oublié de saler un plat, utilisa en urgence du sel récupéré dans les bassins de Valdren qu'il avait rapporté pour un autre usage. Le roi remarqua une différence de goût et convoqua le cuisinier pour en comprendre l'origine. L'enquête mena à Valdren, dont les sauniers ignoraient qu'ils produisaient quelque chose de remarquable. Ils ne le savent que depuis lors et ont ajusté leurs prix en conséquence.
 - Population : Village
 - Région : Hekoria
 
 ### Uldarin — Ville
 *Principale ville d'Uldora, Uldarin est le plus grand chantier naval d'Ilthara. Ses cales sèches s'étendent sur des centaines de mètres le long d'un fjord profond, et le bruit des scies et des marteaux y résonne du lever au coucher du soleil. Les maîtres-charpentiers d'Uldarin sont des artistes qui sculptent la coque d'un navire comme un joaillier taille une gemme. Chaque navire porte un nom-constellation, gravé dans la proue.*
+**Histoire :** La tradition de nommer les navires d'après des constellations fut imposée par la reine Sylveira avant la Traversée des Brumes : elle estimait que chaque navire devait porter une constellation comme guide, en mémoire du principe qui lui avait permis de traverser. Cette tradition fut d'abord vécue comme une contrainte par les charpentiers, puis adoptée avec fierté quand il devint évident que les navires ainsi nommés avaient une réputation à tenir. Un marin qui prend la mer sur « La Couronne d'Argent » ne se permet pas de revenir bredouille.
 - Population : Ville
 - Région : Uldora
 
 ### Thyrin — Ville
 *Ville de pêcheurs au fond d'un fjord abrité, Thyrin est le port de pêche le plus productif de Haldria. Ses eaux calmes et profondes abritent des espèces marines introuvables ailleurs, et les pêcheurs de Thyrin utilisent des techniques secrètes transmises depuis des générations — certains jurent qu'ils peuvent « appeler » les bancs de poissons en chantant des mélodies spécifiques.*
+**Histoire :** Les mélodies qui « appellent » les poissons à Thyrin ne sont pas de la magie — elles correspondent à des fréquences sonores qui se propagent sous l'eau et semblent orienter certains poissons selon leur comportement naturel. Ce principe fut découvert empiriquement par des générations de pêcheurs qui ne le formulèrent jamais en termes scientifiques mais le transmirent comme une connaissance chantée. Des savants de Gryndor qui vinrent étudier le phénomène et tentèrent de le reproduire mécaniquement échouèrent systématiquement — la voix humaine produit des harmoniques qu'aucun instrument ne peut imiter exactement.
 - Population : Ville
 - Région : Uldora
 
 ### Sylthros — Village
 *Village forestier d'Uldora, Sylthros vit de l'exploitation des forêts côtières dont le bois alimente les chantiers navals d'Uldarin. Les bûcherons de Sylthros ne coupent jamais un arbre sans en planter trois, et chaque arbre abattu est béni sous une constellation avant d'être envoyé au chantier. Ce respect du bois produit un matériau que les charpentiers jurent plus résistant que n'importe quel autre.*
+**Histoire :** La règle de planter trois arbres pour chaque arbre abattu fut instaurée non par piété religieuse mais par calcul pratique : les premiers bûcherons de Sylthros avaient déboisé leur vallée en moins de deux générations et failli ruiner le chantier naval d'Uldarin. L'astrologue de la Couronne de l'époque, chargé de trouver une solution, calcula le temps de repousse nécessaire et conclut que trois plantations par abattage permettrait de maintenir l'équilibre. La bénédiction sous constellation fut ajoutée après coup pour rendre la règle acceptable culturellement.
 - Population : Village
 - Région : Uldora
 
 ### Galorin — Village
 *Petit village au bout d'un cap battu par les vents d'Uldora, Galorin abrite le phare le plus ancien de Haldria — une tour de pierre blanche dont la flamme n'a jamais été éteinte depuis cinq siècles. Les gardiens du phare de Galorin forment une lignée ininterrompue, et la charge se transmet de parent à enfant avec une solennité quasi-religieuse.*
+**Histoire :** La flamme du phare de Galorin s'éteignit une seule fois, il y a deux siècles, lors d'une tempête d'une violence sans précédent qui noya le gardien en poste et laissa le phare sans lumière pendant sept heures. Trois navires se fracassèrent sur les récifs cette nuit-là. Le gardien suivant, fils du noyé, jura que la flamme ne s'éteindrait plus jamais — et construisit un système de doubles et triples mèches avec des réservoirs d'huile de secours capables de tenir un mois sans approvisionnement. Ce système, amélioré par chaque génération successive, est aujourd'hui si sophistiqué que la flamme pourrait survivre à n'importe quelle tempête. Le village entier considère sa maintenance comme une dette envers les morts de cette nuit.
 - Population : Village
 - Région : Uldora
 
 ### Kandorin — Ville
 *Principale ville de l'archipel de Kandaros, Kandorin est bâtie sur la plus grande île et sert de centre administratif et commercial pour l'ensemble de la région insulaire. Ses marchés flottants — des barges amarrées les unes aux autres — sont célèbres dans tout Ilthara. On y trouve des perles d'une qualité inégalée, du corail enchanté aux propriétés curatives et des poissons de formes si étranges qu'on les croirait imaginaires.*
+**Histoire :** Les marchés flottants de Kandorin furent une nécessité avant d'être une attraction : l'île principale était trop petite pour accueillir les entrepôts et les étals d'un marché régional. Des marchands ingénieux amarrèrent leurs barges les unes aux autres et créèrent une surface commerciale flottante qui s'agrandissait selon les besoins. Le résultat actuel — un labyrinthe de barges reliées par des planches et des cordes, reconfigurées à chaque marée — est aussi incompréhensible pour un visiteur habituel que fascinant pour un marin confirmé.
 - Population : Ville
 - Région : Kandaros
 
 ### Sylradis — Village
 *Village de plongeurs de perles, Sylradis est niché sur une île coralienne entourée d'eaux turquoise. Les plongeurs descendent à des profondeurs que la plupart des humains ne peuvent atteindre, retenant leur souffle pendant des minutes grâce à des techniques d'entraînement transmises depuis l'enfance. Les perles de Sylradis — argentées avec des reflets étoilés — sont les plus rares et les plus chères d'Ilthara.*
+**Histoire :** Le reflet étoilé des perles de Sylradis n'est pas naturel — ou du moins, il ne l'était pas à l'origine. Un plongeur découvrit il y a trois siècles qu'en récoltant les perles uniquement lors de nuits de pleine lune et en les exposant au clair de lune pendant quarante nuits consécutives, les huîtres produisaient une nacre différente. Personne ne comprend le mécanisme — les Astrologues pensent que la lumière lunaire affecte les huîtres vivantes, les plongeurs pensent que c'est la foi qui fait la différence. Les deux théories sont irréfutables et également respectées à Sylradis.
 - Population : Village
 - Région : Kandaros
 
 ### Talrin — Village
 *Village de récolteurs de corail, Talrin exploite les récifs enchantés qui entourent les îles orientales de Kandaros. Le corail de Talrin n'est pas un simple matériau — il pulse d'une faible luminescence et possède des propriétés magiques que les alchimistes de Gryndor étudient avec avidité. Les récolteurs travaillent avec une délicatesse extrême, car un corail mal coupé perd ses propriétés.*
+**Histoire :** Les propriétés magiques du corail de Talrin furent découvertes lors d'un naufrage : un navire transportant du corail brut coula près des récifs, et les plongeurs envoyés récupérer la cargaison remontèrent de l'eau guéris de blessures qu'ils portaient depuis des semaines. L'incident fut rapporté aux Astrologues de la Couronne, qui envoyèrent des alchimistes de Gryndor étudier la chose. Vingt ans de recherches plus tard, les alchimistes avaient confirmé les propriétés sans pouvoir les expliquer. Ils continuent d'étudier. Les plongeurs de Talrin continuent de plonger.
 - Population : Village
 - Région : Kandaros
 
 ### Zaldrin — Village
 *La plus petite et la plus isolée des communautés de Kandaros, Zaldrin occupe une île que les cartes de navigation omettent souvent. Ses habitants sont des ermites-astronomes qui ont choisi l'isolement pour observer les étoiles sans la pollution lumineuse des villes côtières. Les observations de Zaldrin sont parmi les plus précises de Haldria, et les Astrologues de la Couronne s'y rendent en pèlerinage.*
+**Histoire :** Zaldrin est omise des cartes non par erreur mais délibérément — une décision prise par ses premiers habitants qui ne voulaient pas de visiteurs non invités. Le roi de l'époque accepta cet arrangement en échange d'un accès exclusif aux observations de Zaldrin pour les Astrologues de la Couronne. C'est un accord qui tient depuis deux cents ans. Les habitants de Zaldrin n'ont pas de commerce, pas de marché, et ne produisent rien d'exportable — seulement des données astronomiques d'une précision incomparable. C'est leur seul tribut et leur seule interaction avec le reste du royaume.
 - Population : Village
 - Région : Kandaros
 
 ### Ravindor — Ville
 *Principale ville portuaire de Ravantis, Ravindor est un carrefour commercial animé où convergent les routes maritimes du sud d'Ilthara. Son port peut accueillir des dizaines de navires simultanément, et ses quais bourdonnent d'activité du lever au coucher du soleil. Les tavernes de Ravindor sont célèbres pour leurs récits de marins — exagérés, certainement, mais toujours captivants.*
+**Histoire :** Ravindor fut le dernier port de Haldria à être intégré au royaume — il fonctionnait comme cité indépendante depuis sa fondation et résista trois tentatives d'annexion royale avant d'accepter un traité d'intégration qui lui conservait une autonomie commerciale considérable. Les marchands de Ravindor payent moins d'impôts que ceux de n'importe quelle autre ville, une anomalie que la famille royale accepte en échange de la loyauté d'un port stratégiquement indispensable. Les habitants de Ravindor sont fiers de ne l'avoir jamais oublié.
 - Population : Ville
 - Région : Ravantis
 
 ### Feldris — Ville
 *Ville balnéaire de Ravantis, Feldris est bâtie le long d'une plage de sable doré où les courants chauds du sud rendent les eaux agréablement tièdes. C'est le lieu de villégiature favori de la noblesse haldrienne, et ses auberges luxueuses, ses bains de mer et ses jardins de bord de mer en font le lieu le plus agréable du royaume.*
+**Histoire :** Feldris était un village de pêcheurs ordinaire jusqu'à ce qu'un astrologue de la Couronne en vacances y passe l'été et revienne à Hekorinth convaincu que l'air de Feldris avait amélioré ses capacités d'observation nocturne. Il publia un mémoire sur les vertus thérapeutiques de l'air marin de Ravantis. La noblesse, toujours en quête de justifications médicales pour le luxe, afflua immédiatement. Les pêcheurs de Feldris virent leurs maisons achetées, leurs plages privatisées et leur village transformé en resort en moins d'une génération. Ils s'en sortirent bien financièrement. Personne ne leur a demandé s'ils étaient contents.
 - Population : Ville
 - Région : Ravantis
 
 ### Ylloris — Village
 *Village de pêcheurs de lagune, Ylloris vit de la capture de crustacés et de mollusques dans les eaux peu profondes des lagunes de Ravantis. Ses habitants construisent des maisons sur pilotis qui semblent flotter au-dessus de l'eau, et se déplacent exclusivement en barque — même les enfants apprennent à ramer avant de marcher.*
+**Histoire :** Ylloris faillit disparaître lors d'une période de sécheresse qui abaissa le niveau des lagunes au point de rendre la pêche impossible. Les habitants, plutôt que de partir, creusèrent des canaux pour diriger l'eau de mer vers les lagunes. Ce travail titanesque prit quinze ans et impliqua toute la communauté sur trois générations. Les canaux existent encore et ont depuis transformé les lagunes en un système hydraulique entièrement contrôlé par les habitants d'Ylloris. La sécheresse fut une catastrophe ; le résultat fut une infrastructure unique à Haldria.
 - Population : Village
 - Région : Ravantis
 
 ### Galdrion — Village
 *Village de fabricants de voiles, Galdrion est le fournisseur principal de toile à voile pour toute la flotte haldrienne. Les tisserands de Galdrion utilisent un lin côtier d'une résistance exceptionnelle, et chaque voile est tissée avec un motif de constellation subtil censé attirer les vents favorables. Une voile de Galdrion est un gage de qualité reconnu même au-delà d'Ilthara.*
+**Histoire :** Le motif de constellation tissé dans les voiles de Galdrion n'est pas purement décoratif. Les vieilles voiles, examinées par les charpentiers d'Uldarin lors de réparations, révèlent que les fils du motif sont orientés différemment des fils de la toile — ils renforcent structurellement les zones qui subissent le plus de tension lors des virements de bord. Les tisserands de Galdrion ne font pas d'astronomie ; ils font de l'ingénierie textile en croyant faire de la religion. Le résultat est le même.
 - Population : Village
 - Région : Ravantis
 
 ### Tyrolis — Village
 *Village de cartographes, Tyrolis est le lieu où les cartes marines de Haldria sont dessinées, copiées et mises à jour. Les cartographes de Tyrolis sont des artistes autant que des scientifiques, et leurs cartes enluminées — où les routes sont tracées en encre d'or et les dangers en encre rouge — sont des œuvres d'art recherchées par les collectionneurs.*
+**Histoire :** Les cartographes de Tyrolis entretiennent une tradition singulière : toute carte produite dans le village doit comporter une zone blanche délibérée — une portion de mer non cartographiée, laissée vierge comme rappel que la connaissance a des limites. Cette zone varie d'une carte à l'autre mais est toujours présente. Un acheteur de Gryndor qui exigea une carte sans zone blanche se vit refuser la commande — les cartographes considèrent qu'une carte prétendument complète est un mensonge plus dangereux qu'une lacune honnête.
 - Population : Village
 - Région : Ravantis
 
 ### Myrdan — Village
 *Le village le plus méridional de Haldria, Myrdan est un avant-poste de veille maritime qui surveille les approches sud du territoire. Ses guetteurs scrutent l'horizon depuis une tour de vigie jour et nuit, et signalent l'approche de tout navire — ami ou inconnu — par un système de drapeaux de couleur visible depuis Ravindor. Myrdan est aussi le point de départ des rares expéditions vers les côtes méridionales inexplorées.*
+**Histoire :** Le système de drapeaux de Myrdan fut développé après qu'un navire étranger — dont personne à Haldria ne parla jamais publiquement — arriva à Ravindor sans que Myrdan ait pu l'identifier ou le signaler à temps. Ce navire repartit sans incident mais laissa derrière lui des questions auxquelles la famille royale refusa de répondre. Le lendemain, les Amiraux ordonnèrent la création d'un système de signalement exhaustif. Myrdan exécuta la commande en créant un code de drapeaux de quarante-sept couleurs et combinaisons couvrant tous les scénarios maritimes imaginables, y compris plusieurs pour lesquels personne n'a encore pu fournir d'exemples concrets.
 - Population : Village
 - Région : Ravantis
 

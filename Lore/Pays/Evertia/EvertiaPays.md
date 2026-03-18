@@ -131,96 +131,112 @@ Forêts tropicales du sud, les plus sauvages de l'île. Les créatures fantastiq
 
 ### Caëspia — Capitale ★
 *Joyau caché d'Evertia, Caëspia est invisible jusqu'à ce qu'on y soit. Entourée d'un labyrinthe naturel de racines géantes, de ravines et de brumes permanentes, la ville se révèle soudainement au détour d'un passage : un château de pierre blanche et de bois vivant, perché au sommet d'une cascade immense qui tombe dans un lac d'émeraude. Les maisons sont bâties dans les arbres, reliées par des ponts de lianes tressées. Le son de l'eau est omniprésent.*
+**Histoire :** La cascade au sommet de laquelle fut bâti le château de Caëspia jaillit au moment précis où le Rituel du Grand Éveil s'acheva — les treize Archidruides originels interprétèrent ce phénomène comme la désignation du site par les esprits eux-mêmes. La ville fut construite autour de la cascade en priorité inverse de ce qu'on attendrait : le château fut érigé en premier, parce que la première impératrice refusa de vivre au-dessous d'un endroit qu'elle considérait sacré, et les habitations ordinaires poussèrent ensuite dans ses branches et ses racines. Le labyrinthe naturel qui l'entoure s'est épaissi au fil des siècles — certains druides affirment qu'il continue de croître délibérément.
 - Population : Ville (grande)
 - Région : Vaelcendia
 - Particularités : Château de la Cascade, Cercle des Archidruides, Grande Cloche (à proximité), Jardins Suspendus de l'Impératrice
 
 ### Thalenvir
 *Cité druidique ancienne nichée dans une clairière sacrée où les arbres forment un cercle parfait. Thalenvir abrite la plus grande académie druidique de l'île, où les initiés étudient pendant dix années avant de recevoir leur titre. Les bâtiments sont entièrement en bois vivant — les murs poussent encore.*
+**Histoire :** Thalenvir précède Caëspia — c'était le premier établissement permanent des druides nomades qui découvrirent Evertia, fondé autour d'un cercle d'arbres dont la disposition géométrique parfaite les convainquit d'un dessein non humain. Les treize Archidruides du Rituel du Grand Éveil s'étaient formés à Thalenvir, et son académie fut ainsi la première institution d'Evertia. Lorsque le rituel créa Caëspia, les druides débattirent de savoir si Thalenvir resterait capitale ou céderait ce rôle. La question ne fut jamais formellement tranchée — Caëspia devint capitale de fait, et Thalenvir garda son autorité spirituelle de fait, un arrangement ambigu qui dure depuis lors.
 - Population : Ville
 - Région : Vaelcendia
 - Particularités : Académie des Druides, Cercle des Aînés Verts
 
 ### Valmora
 *Seul port d'Evertia ouvert aux étrangers, et encore — uniquement aux marchands autorisés. Valmora est construite sur une avancée rocheuse, séparée du reste de l'île par un ravin infranchissable. Les marchands ne voient que le port, les entrepôts et les auberges. Au-delà du ravin, l'île leur est interdite. Des Gardiens du Labyrinthe veillent en permanence.*
+**Histoire :** Valmora fut créée après qu'un navire marchand tymdarien réussit à aborder sur une côte non défendue d'Evertia — ses hommes pénétrèrent dans l'intérieur avant d'être capturés. L'incident convainquit la troisième impératrice qu'un commerce totalement fermé était insoutenable : la soif de contact des étrangers les poussait à chercher des voies d'entrée clandestines. Elle fit construire Valmora sur une avancée rocheuse délibérément séparée du reste de l'île — un endroit où l'étranger pouvait satisfaire son besoin de commerce sans pouvoir aller plus loin. La profondeur exacte du ravin fut calculée pour qu'aucun pont improvisé ne puisse l'enjamber.
 - Population : Ville
 - Région : Brumalis
 - Particularités : Port marchand, Marché des Gemmes annuel, Quartier des Étrangers
 
 ### Orévandis
 *Bourg prospère au milieu des vergers, Orévandis est le centre de l'agriculture evertienne. Les marchés regorgent de fruits inconnus ailleurs — des baies lumineuses, des agrumes qui changent de goût selon la saison, des racines aux propriétés énergisantes. Les éleveurs de créatures douces (cerfs spirituels, oiseaux chanteurs, renards de brume) y tiennent leurs enclos.*
+**Histoire :** Les vergers d'Orévandis furent plantés par les premiers Evertiens qui tentèrent de cultiver les espèces sauvages de l'île — un projet que les Archidruides considéraient comme une violation du Vael'Kurash, puisqu'il impliquait de forcer la croissance plutôt que de l'accepter. La fondatrice d'Orévandis répondit à cette critique en demandant l'avis des esprits des arbres qu'elle transplantait — et les esprits, consultés par méditation, répondirent qu'ils préféraient un verger où on s'occupait d'eux à une forêt sauvage où ils mouraient sans attention. Le Cercle des Archidruides fut troublé par cette réponse et l'accepta après trois semaines de débat.
 - Population : Ville
 - Région : Orvandis
 - Particularités : Grand Verger Impérial, Élevages de créatures pacifiques
 
 ### Sélyandris
 *Village de guérisseurs niché dans une vallée humide où poussent les plantes médicinales les plus rares. Chaque maison est à la fois un foyer et un laboratoire botanique. Les guérisseurs de Sélyandris sont les plus réputés de l'île — on vient de Caëspia pour les consulter.*
+**Histoire :** Sélyandris fut fondé par une guérisseuse qui avait travaillé à l'académie de Thalenvir et comprit que les plantes médicinales les plus efficaces ne poussaient pas dans la clairière sacrée mais dans des vallées humides et ombragées où personne ne vivait. Elle demanda l'autorisation de s'y installer seule pour étudier ces plantes. Dix ans plus tard, ses disciples avaient rejoint la vallée et Sélyandris était née. La caractéristique des maisons-laboratoires n'était pas un choix esthétique — les guérisseurs avaient simplement besoin de faire sécher leurs plantes partout où il y avait de la place, et leurs foyers furent progressivement envahis.
 - Population : Village
 - Région : Orvandis
 - Particularités : Jardins Médicinaux, Guilde des Herboristes
 
 ### Lithécrine
 *Ville souterraine la plus importante, creusée dans des cavernes de cristal naturel. Les murs scintillent en permanence à la lumière des torches. C'est ici que sont taillées les pierres précieuses d'Evertia — un travail effectué en partie par des artisans evertiens, en partie par les Sans-Lumière. Les deux populations ne se croisent presque jamais.*
+**Histoire :** Les cavernes de cristal sous Lithécrine furent découvertes lors de la construction d'un puits — des ouvriers qui creusaient percèrent le sol d'une caverne naturelle dont les parois scintillèrent à la lumière de leur torche. La première réaction fut la peur : les Archidruides craignirent que percer la roche n'ait blessé les esprits de la terre. Après consultation, les esprits donnèrent leur accord à l'exploitation, à condition que chaque gemme extraite soit d'abord "présentée" à la terre avant d'être vendue. Cette cérémonie, maintenue pendant des siècles, n'empêcha pas l'introduction des Sans-Lumière dans les mines — une contradiction que les Archidruides actuels préfèrent ne pas examiner de trop près.
 - Population : Ville
 - Région : Lithéa
 - Particularités : Ateliers de joaillerie, Mines de diamants, Quartier des Sans-Lumière (interdit d'accès)
 
 ### Selvacour
 *Avant-poste au bord de la forêt sauvage de Selvandor, Selvacour est le point de départ des patrouilles anti-braconnage. Les Gardiens du Labyrinthe y maintiennent une garnison permanente. Le village est construit en hauteur, dans les branches des arbres géants, pour éviter les créatures nocturnes qui rôdent au sol.*
+**Histoire :** Selvacour naquit après que des braconniers venus du continent réussirent à capturer plusieurs créatures rares de Selvandor — dont un cerfs spirituel dont la perte fut considérée comme un sacrilège. L'impératrice de l'époque envoya les premiers Gardiens s'établir en permanence à la lisière de la forêt. Le village en hauteur fut une adaptation aux premières nuits passées là — les Gardiens qui dormaient au sol furent régulièrement approchés par des prédateurs curieux, et remonter dans les branches parut la solution la plus simple.
 - Population : Village
 - Région : Selvandor
 - Particularités : Garnison des Gardiens, Observatoire de la canopée
 
 ### Brumalith
 *Village de pêcheurs perché sur les falaises brumeuses du nord. Les habitants de Brumalith sont les yeux et les oreilles de l'île — ce sont eux qui signalent les navires étrangers avant qu'ils n'atteignent les récifs. Une tradition locale veut que chaque enfant apprenne à imiter le cri des mouettes pour transmettre des messages codés le long de la côte.*
+**Histoire :** Le système de signaux de Brumalith — les cris de mouettes codés — fut inventé lors d'une invasion avortée il y a deux siècles. Des navires de guerre approchèrent sous couvert de brume, et le seul guetteur en poste ne put pas envoyer un message à temps : ses pigeons s'envolèrent dans la mauvaise direction dans la brume. Il improvisa en imitant le cri d'une mouette — une alarme que ses voisins, pêcheurs chevronnés habitués aux cris des oiseaux de mer, remarquèrent immédiatement comme anormal. L'invasion fut repoussée, et la technique du cri codé fut formalisée et enseignée à tous les enfants dès lors.
 - Population : Village
 - Région : Brumalis
 - Particularités : Tours de guet, Réseau de signaux côtiers
 
 ### Racinéal
 *Hameau druidique entièrement intégré à un arbre colossal — le Grand Racinéal, dont le tronc fait trente mètres de diamètre. Les habitations sont creusées dans les racines et les branches. Les druides qui y vivent étudient la communication avec les esprits végétaux et prétendent que le Grand Racinéal est l'arbre le plus ancien du monde.*
+**Histoire :** Le Grand Racinéal fut identifié comme sanctuaire bien avant que qui que ce soit y construise quoi que ce soit — des générations de druides venaient y méditer mais repartaient à Thalenvir ou Caëspia. Un druide qui avait passé une année entière en méditation au pied de l'arbre refusa simplement de repartir. Il creusa une chambre dans les racines et y vécut jusqu'à sa mort, quarante ans plus tard. D'autres druides vinrent creuser leurs propres chambres, attirés par les communications avec les esprits végétaux qu'il décrivait dans ses écrits. Racinéal est aujourd'hui habité par ceux qui préfèrent écouter l'arbre que parler aux autres druides.
 - Population : Village
 - Région : Vaelcendia
 - Particularités : Le Grand Racinéal, Sanctuaire de Spiritus
 
 ### Créciel
 *Village d'altitude construit sur un plateau dégagé au centre de l'île, Créciel est le site de la Grande Cloche — un instrument de bronze massif, haut de douze mètres, visible à des lieues à la ronde. La Cloche n'a sonné que trois fois dans l'histoire d'Evertia. Les Veilleurs qui la gardent vivent dans un silence quasi monastique.*
+**Histoire :** La Grande Cloche fut fondue au lendemain du Rituel du Grand Éveil, sur instruction des treize Archidruides qui voulaient un instrument capable d'unir toute l'île en un seul signal. Le fondeur qui l'exécuta travailla seul pendant trois ans, refusant tout aide pour garder la formule du bronze secrète. La Cloche sonna pour la première fois lors d'un tremblement de terre qui menaçait de fissurer l'île, la deuxième lors d'une invasion navale en masse, la troisième lors d'une révolte interne dont les détails restent classifiés. Les Veilleurs de Créciel connaissent ces trois histoires par cœur — et savent que sonner la Cloche sans raison suffisante est un crime capital.
 - Population : Village
 - Région : Vaelcendia
 - Particularités : La Grande Cloche, Ordre des Veilleurs
 
 ### Ondévaris
 *Village lacustre construit sur pilotis au-dessus du Lac des Miroirs — un lac si calme et si clair qu'il reflète le ciel avec une précision parfaite. Les habitants vivent de la pêche et de la culture de nénuphars médicinaux. On dit que les esprits de l'eau sont particulièrement actifs ici et qu'ils protègent les pêcheurs en échange d'offrandes quotidiennes.*
+**Histoire :** Le Lac des Miroirs tira son nom d'un archidruide qui, cherchant une vision dans la méditation, se pencha au-dessus de sa surface et ne vit pas son reflet mais une image de l'île telle qu'elle était des siècles plus tôt. Il vérifia par d'autres moyens et confirma que le lac montrait parfois le passé. Ondévaris s'installa autour de lui non pour exploiter cette propriété — les Evertiens la considèrent trop sacrée pour être commercialisée — mais pour la protéger, et les pêcheurs qui y vivent apprennent dès l'enfance à ne jamais troubler la surface du lac avec autre chose qu'une ligne de pêche mince comme un fil.
 - Population : Village
 - Région : Orvandis
 - Particularités : Lac des Miroirs, Sanctuaire des Esprits de l'Eau
 
 ### Pyracine
 *Village du Temple des Flammes Éternelles sur Ilnara. Pyracine est une anomalie dans la culture evertienne — c'est le seul lieu où le feu est vénéré autant que la nature. Les gardiens du Temple entretiennent une flamme qui, disent-ils, brûle depuis la création du monde. Les Phénix de Feu survolent régulièrement le village, et leurs plumes tombées sont considérées comme des reliques sacrées.*
+**Histoire :** L'île secondaire d'Ilnara fut colonisée après qu'un Phénix de Feu s'y posa lors d'une tempête et y demeura plusieurs jours — une présence si inhabituelle que des druides furent envoyés investiguer. Ils trouvèrent l'île couverte de forêts à la végétation plus dense qu'ailleurs, réchauffée par une activité volcanique souterraine légère. Le Temple des Flammes fut construit autour de la fissure volcanique principale, qui diffuse une chaleur constante — et qui abrite, dans ses profondeurs, le Phénix ancien que les druides n'ont pas encore su comment approcher. Pyracine existe pour surveiller l'île autant que pour la vénérer.
 - Population : Village
 - Région : Ilnara
 - Particularités : Temple des Flammes Éternelles, Nids des Phénix de Feu
 
 ### Coralvine
 *Petit port de la côte sud, Coralvine est le village des plongeurs — des hommes et des femmes qui descendent dans les eaux turquoise pour récolter des coraux aux propriétés médicinales. Le village est coloré, joyeux, et d'une beauté presque irréelle. C'est l'un des rares endroits d'Evertia où l'atmosphère n'est pas teintée de secret.*
+**Histoire :** L'atmosphère sans secret de Coralvine est une conséquence directe de son éloignement du pouvoir central — les Archidruides venaient rarement jusqu'à la côte sud, et les Gardiens du Labyrinthe s'y ennuyaient. Les plongeurs qui s'installèrent là le firent précisément parce que personne ne leur demandait de comptes. La légèreté de Coralvine est ancienne et défendue : quand un inspecteur impérial vint une fois réglementer les plongées, il repartit trois jours après avec la conviction que l'atmosphère joyeuse du village était en elle-même une forme de respect des esprits de la mer. Les plongeurs l'avaient simplement bien reçu.
 - Population : Village
 - Région : Selvandor
 - Particularités : Récifs de coraux médicinaux, École de plongée
 
 ### Sombreval
 *Le village qu'on ne nomme pas. Sombreval est l'entrée principale des labyrinthes souterrains où sont enfermés les étrangers capturés. Officiellement, ce lieu n'existe pas. En pratique, c'est une petite forteresse administrée par les Gardiens du Labyrinthe, où les prisonniers sont triés : ceux qui ont des compétences utiles deviennent des Sans-Lumière dans les mines de Lithéa, les autres disparaissent.*
+**Histoire :** Sombreval exista pendant un siècle avant d'avoir un nom — les Gardiens qui y travaillaient n'en parlaient pas hors de ses murs, et les cartographes officiels n'en tenaient pas compte. Le nom "Sombreval" vient d'un document administratif mal archivé qui fut retrouvé deux siècles après sa rédaction — quelqu'un avait simplement écrit le lieu de transit comme "la sombre vallée" dans un rapport de routine. L'Éclaireur, le leader de la rébellion des Sans-Lumière, connaît l'existence et la localisation exacte de Sombreval depuis des années.
 - Population : Village (fortifié)
 - Région : Lithéa
 - Particularités : Entrée des labyrinthes, Centre de tri des prisonniers
 
 ### Verdantis
 *Village des éleveurs de créatures fantastiques, niché dans une prairie bordée de forêts. Les enclos de Verdantis abritent les espèces les plus dociles de l'île — cerfs lumineux, loups de brume apprivoisés, oiseaux messagers. C'est aussi ici que les druides prélèvent le sang des créatures à des fins médicinales, selon des rituels stricts pour ne pas blesser les animaux.*
+**Histoire :** Verdantis fut fondé par des druides qui refusèrent de prélever du sang en forêt sauvage — ils considéraient que blesser une créature dans son habitat naturel traumatisait non seulement l'animal mais aussi les esprits du territoire. Ils proposèrent un compromis : apprivoiser les créatures les plus dociles, les installer dans des prairies où elles recevraient soins et nourriture, et ne prélever le sang que dans cet environnement de confiance. Les premières tentatives d'apprivoisement furent difficiles. Les cerfs lumineux, en particulier, refusèrent pendant trois générations. La quatrième naquit en captivité et n'eut jamais peur des humains — c'est de cette lignée que descendent tous les cerfs de Verdantis.
 - Population : Village
 - Région : Orvandis
 - Particularités : Enclos de créatures fantastiques, Centre de prélèvement rituel
 
 ### Ventsylve
 *Hameau de tisserands installé à la lisière de la forêt et des plaines, où le vent souffle en permanence. Les artisans de Ventsylve fabriquent des tissus à partir de fibres végétales endémiques — des étoffes légères, résistantes et d'un éclat singulier. Ces tissus, échangés lors du Marché des Gemmes, sont l'un des rares produits evertiens à circuler dans le monde extérieur.*
+**Histoire :** Le tisserand fondateur de Ventsylve choisit l'emplacement précisément pour le vent — il avait remarqué que les fibres végétales endémiques de l'île avaient besoin de conditions particulières de tension pendant leur séchage pour conserver leur résistance. Un vent constant et prévisible permettait de les tendre de manière uniforme, ce qui était impossible en forêt ou dans les zones abritées. La singularité des tissus de Ventsylve n'est pas une propriété magique — c'est le résultat d'une technique de séchage sous tension que les autres tisserands d'Evertia n'ont jamais pu reproduire parce qu'ils n'ont pas accès au même vent.
 - Population : Village
 - Région : Orvandis
 - Particularités : Ateliers de tissage, Culture de fibres végétales rares

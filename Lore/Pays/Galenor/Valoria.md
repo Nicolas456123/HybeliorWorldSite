@@ -123,72 +123,86 @@ Région orientale de collines et de forêts clairsemées, Ethrion est la plus te
 
 ### Valtheria — Capitale ★
 *Forteresse colossale bâtie sur un promontoire rocheux dominant la vallée centrale de Teldar, Valtheria est un monument à la puissance brute. Ses murailles, épaisses de quatre mètres, n'ont jamais été percées. La Grande Salle, où se réunit le Conseil des Thanes, peut accueillir mille guerriers assis à de longues tables de chêne massif. Au centre de la salle, la Pierre de Valtheria — le bloc sur lequel la fondatrice prêta le premier serment de la Confédération — est vénérée comme une relique sacrée.*
+**Histoire :** Valtheria la Forgée choisit ce promontoire non pour sa défense mais pour sa visibilité — elle voulait que chaque guerrier dans la vallée puisse voir le moment où la Confédération naissait. Elle prêta son serment debout sur le bord de la falaise, les bras en croix, visible à des lieues à la ronde. Les murs furent construits après, par ses successeurs. Elle avait dit qu'un peuple fort n'en avait pas besoin ; ses successeurs ne la crurent qu'à moitié.
 - Population : Capitale
 - Région : Teldar
 - Particularités : Siège du Haut-Thane, Grande Salle du Conseil, Pierre de Valtheria, Arène de Jugement.
 
 ### Selvorn — Village
 *Village de forgerons de guerre niché dans une gorge où le vent naturel alimente des forges à ciel ouvert. Les armes de Selvorn sont réputées dans toute Valoria — robustes, sans fioriture, mortellement efficaces. Chaque lame porte la marque du forgeron et l'empreinte du guerrier qui l'a commandée.*
+**Histoire :** La double marque — forgeron et guerrier commanditaire — fut instituée après qu'une arme servit dans un meurtre et que deux familles se disputèrent la responsabilité pendant une génération. L'enregistrement simultané de l'artisan et du propriétaire résolut d'un coup le problème de traçabilité légale. Les Gardiens de la Mémoire archivèrent la pratique dans leurs récits oraux comme exemple de solution élégante.
 - Population : Village
 - Région : Teldar
 
 ### Erynor — Village
 *Village de bûcherons et de charbonniers qui fournissent le combustible des forges de Teldar. La vie à Erynor est rude et peu glorieuse, mais les villageois sont fiers de leur rôle essentiel dans la chaîne de guerre du clan.*
+**Histoire :** Le charbon d'Erynor a une qualité spécifique liée à l'espèce locale de chêne dur qui brûle à une température optimale pour la forge d'armes lourdes. Des forgerons qui ont tenté d'utiliser d'autres charbon rapportent une acier légèrement différent — moins prévisible. Erynor n'a jamais eu besoin de se vanter de son rôle ; les forgerons en parlent à leur place.
 - Population : Village
 - Région : Teldar
 
 ### Kaeldor — Village
 *Hameau de bergers qui élèvent les moutons de montagne dont la laine épaisse sert à confectionner les manteaux de guerre valoriens — des vêtements si résistants qu'ils arrêtent parfois les flèches. Les bergers de Kaeldor sont des guerriers à temps partiel, toujours prêts à troquer la houlette contre la hache.*
+**Histoire :** La résistance aux flèches des manteaux de Kaeldor fut découverte lors d'une escarmouche frontalière où un berger rejoignit ses compagnons en portant son manteau de travail plutôt que d'aller chercher son armure. Une flèche le toucha dans le dos et rebondit sans le blesser. L'incident fut rapporté au Thane, qui examina le manteau et commanda cent exemplaires sur le champ. Les bergers reçurent leur première prime de guerre.
 - Population : Village
 - Région : Teldar
 
 ### Aldora — Village
 *Village agricole dans une rare vallée fertile de Teldar. Les fermes d'Aldora nourrissent la capitale et ses garnisons. Les fermiers, bien que considérés comme inférieurs aux guerriers, sont protégés par une loi ancienne qui interdit de les enrôler de force — même en temps de guerre, car affamer le clan est un crime plus grave que perdre une bataille.*
+**Histoire :** La loi protégeant les fermiers fut écrite par un Thane qui venait de remporter un siège de trois mois par la force militaire, pour trouver en entrant que tout avait déjà été consommé. Il avait gagné la forteresse et perdu le contenu. La loi fut rédigée le lendemain, sur un ton inhabituel pour un document légal valorien : "Voilà ce qu'on n'a pas le droit de faire de nouveau."
 - Population : Village
 - Région : Teldar
 
 ### Bryndor — Village
 *Avant-poste fortifié gardant le col sud de Teldar, Bryndor est en état d'alerte permanent. Sa garnison, composée de jeunes guerriers accomplissant leur premier service, surveille les mouvements des clans voisins et des créatures de montagne. C'est un lieu d'épreuve — les guerriers qui survivent à un hiver à Bryndor sont respectés pour le reste de leur vie.*
+**Histoire :** Le service à Bryndor est techniquement volontaire ; en pratique, le refuser équivaut à échouer une seconde Épreuve du Sang. Les guerriers qui terminent un hiver au col reçoivent un tatouage de marque spécifique qui ouvre les portes des postes de Champion. Ceux qui demandent à partir avant la fin de l'hiver peuvent partir — mais ils ne reviennent généralement jamais à Valtheria.
 - Population : Village
 - Région : Teldar
 
 ### Thalindor — Village
 *Village de chasseurs de Caelith, Thalindor est perché sur un plateau battu par les vents où seuls les plus endurants survivent. Ses habitants chassent les bêtes de lande — des créatures rapides et rusées — et leurs techniques de traque sont parmi les meilleures de Valoria.*
+**Histoire :** Les techniques de Thalindor sont supérieures à celles des chasseurs forestiers parce que le plateau ouvert interdit tout abri : un chasseur doit se rendre invisible dans un terrain où il n'y a rien pour le cacher. Les méthodes développées ici — immobilité absolue, patience de plusieurs heures, lecture des comportements animaux à distance — sont enseignées dans d'autres clans comme discipline de scout avancé.
 - Population : Village
 - Région : Caelith
 
 ### Felmaris — Ville
 *Forteresse du clan de Caelith, Felmaris est un bastion de pierre grise qui domine les landes environnantes. Sa Thane, **Dame Brynhild**, est une guerrière redoutée dont la loyauté envers la Confédération est sans faille — peut-être la seule à ne jamais remettre en question l'autorité du Haut-Thane.*
+**Histoire :** Les murs de Felmaris sont construits en strates alternées — une couche dure, une couche souple, une couche dure — qui absorbent et redirigent l'énergie des projectiles au lieu de les recevoir de plein fouet. La méthode fut développée par un maçon retraité de l'armée qui avait observé comment les ricochets tuaient plus de soldats que les impacts directs. Les murs de Felmaris n'ont jamais été percés.
 - Population : Ville
 - Région : Caelith
 
 ### Lyntheria — Ville
 *Forteresse du clan de Mytzar, Lyntheria est bâtie dans une vallée encaissée entre deux pics montagneux. Ses murs sont renforcés par des éboulis contrôlés — des avalanches de pierre que les défenseurs peuvent déclencher sur les assaillants. Le Thane de Mytzar, **Gronthar le Silencieux**, est un homme de peu de mots mais d'une brutalité terrifiante au combat.*
+**Histoire :** Le système d'avalanches contrôlées de Lyntheria fut conçu par son fondateur après qu'il passa un hiver à étudier le comportement de la neige et de la roche suite à une avalanche naturelle qui tua trente de ses guerriers. Il détermina que le déclenchement pouvait être maîtrisé par point d'application et timing. Le système n'a jamais raté depuis son installation — et n'a jamais servi deux fois sur le même assaillant.
 - Population : Ville
 - Région : Mytzar
 
 ### Ravynor — Village
 *Village de guetteurs des montagnes, Ravynor surveille les passes de Voldenor d'où descendent parfois les créatures de pierre. Ses habitants vivent dans une tension permanente, et les enfants apprennent à distinguer le grondement d'un éboulement naturel de celui d'une bête de pierre en mouvement.*
+**Histoire :** La distinction entre éboulement naturel et déplacement de créature s'apprend à Ravynor au son, non à la vue. Les chutes naturelles sont arythmiques ; le mouvement de créature a un pattern régulier. Les enfants du village apprennent à identifier ce rythme dès cinq ans — leurs avertissements nocturnes ont sauvé le village trois fois dans les archives orales locales.
 - Population : Village
 - Région : Mytzar
 
 ### Thyndrel — Village
 *Hameau de mineurs qui extraient le fer des veines de montagne avec des méthodes ancestrales. Le minerai de Thyndrel est d'une qualité brute que les forgerons apprécient pour sa dureté. La vie dans les mines est dangereuse, et les éboulements emportent régulièrement des travailleurs — un sacrifice que le clan accepte comme le prix de la force.*
+**Histoire :** Les méthodes de Thyndrel n'ont pas été modernisées délibérément. Les mineurs croient que leurs ancêtres ont laissé les veines dans des configurations qui ne se révèlent qu'à ceux qui travaillent sans changer les angles d'attaque. Un ingénieur de Myrtam qui tenta d'introduire des techniques nouvelles repartit trois jours plus tard avec ses outils intacts — les mineurs avaient simplement refusé de les utiliser. Poliment.
 - Population : Village
 - Région : Mytzar
 
 ### Zalnor — Village
 *Village de trappeurs spécialisés dans la capture de bêtes de montagne vivantes. Les fourrures de Zalnor sont les plus chaudes de Valoria, et certaines bêtes capturées sont dressées comme animaux de guerre — une pratique controversée même au sein des clans.*
+**Histoire :** Le programme d'animaux de guerre fut officiellement sanctionné par la Confédération après qu'un ours des montagnes dressé à Zalnor dévia seul une attaque de flanc qui aurait coûté cent guerriers. Le débat sur l'éthique de la pratique continua; le programme aussi. Zalnor reçoit encore des commandes régulières des quatre clans — et refuse régulièrement les demandes qu'il juge déraisonnables.
 - Population : Village
 - Région : Mytzar
 
 ### Astraneth — Ville
 *Forteresse du clan d'Ethrion, Astraneth est la plus « ouverte » des places fortes valoriennes — ses portes ne sont fermées que la nuit, et un petit marché y accueille des marchands étrangers. Le Thane d'Ethrion, **Veldris l'Ancien**, est un vétéran qui prône la diplomatie autant que la guerre, une position qui lui vaut à la fois l'admiration et le mépris de ses pairs.*
+**Histoire :** La politique des portes ouvertes d'Astraneth fut établie par le grand-père de Veldris l'Ancien, un guerrier qui avait passé deux ans prisonnier à Kharazir et en était revenu convaincu que les murs étaient pour ceux qui craignaient leurs voisins. Ses warriors s'y opposèrent ; il remporta le débat en Épreuve. Depuis, Astraneth est la seule forteresse valorienne où un marchand étranger peut entrer sans escorte armée.
 - Population : Ville
 - Région : Ethrion
 
 ### Vyrndel — Village
 *Village frontalier d'Ethrion, Vyrndel est le point de contact le plus courant entre Valoria et ses voisins. Les marchands de Kharazir et les émissaires de Trinoria y passent régulièrement, et les habitants de Vyrndel ont acquis une compétence diplomatique inhabituelle pour des Valoriens — ils savent négocier avant de frapper.*
+**Histoire :** Vyrndel occupe exactement le point d'intersection de trois routes commerciales nationales — une de Kharazir, une de Trinoria, une de la côte de Solena. Chaque génération a dû renégocier sa neutralité avec ses trois voisins pour continuer à exister. Cette nécessité répétée a produit des diplomatiques qui pensent en termes de "quelle offre satisfait trois parties simultanément" — une perspective rare à Valoria.
 - Population : Village
 - Région : Ethrion
 

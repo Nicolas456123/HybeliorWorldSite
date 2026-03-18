@@ -122,82 +122,98 @@ Région insulaire composée d'un archipel au large de la côte sud. Tetramis est
 
 ### Oranthor — Capitale ★
 *Bâtie dans une baie naturelle si vaste qu'elle pourrait abriter mille navires, Oranthor est la plus grande ville portuaire de Galenor. Ses quais s'étendent sur des kilomètres, bordés d'entrepôts, de tavernes, de bureaux de change et de comptoirs commerciaux. Le Palais des Amiraux, siège du Conseil, surplombe le port depuis une falaise — un bâtiment de pierre blanche et de verre dont les fenêtres reflètent la mer en permanence.*
+**Histoire :** Oranthor fut construite sur des ruines immergées plus anciennes que toute civilisation connue. Les fondateurs choisirent cette baie parce que les structures sous-marines offraient une fondation naturelle aux premiers quais — sans comprendre ce sur quoi ils bâtissaient. Les plongeurs qui explorent les profondeurs aujourd'hui rapportent des colonnes taillées et des seuils de portes qui n'appartiennent à aucun peuple répertorié. Thessara Oranthor a interdit les fouilles.
 - Population : Capitale
 - Région : Oracalis
 - Particularités : Siège du Conseil des Amiraux, plus grand port de Galenor, Guilde des Cartographes, chantiers navals royaux.
 
 ### Yltheris — Ville
 *Ville de chantiers navals, Yltheris construit les navires de la flotte solénienne. Ses cales sèches résonnent du matin au soir des coups de marteau et de scie, et l'air y sent le bois fraîchement coupé et le goudron. Les maîtres-charpentiers d'Yltheris sont les plus habiles de Galenor.*
+**Histoire :** La tradition charpentière d'Yltheris commença avec un maître-artisan étranger, naufragé dans cette baie, qui construisit sa propre embarcation de secours à partir du bois local pour rentrer chez lui. Le résultat était si remarquable que le seigneur de l'époque l'engagea sur-le-champ. Il ne repartit jamais chez lui. Ses méthodes, transmises sur sept générations, sont la base de tout ce qui se construit à Yltheris.
 - Population : Ville
 - Région : Oracalis
 
 ### Caldoris — Village
 *Village de cordiers et de voiliers installé sur une pointe venteuse près d'Oranthor. Les cordages et les voiles de Caldoris équipent la majorité des navires soléniens, et la qualité de leur toile est un secret jalousement gardé.*
+**Histoire :** La toile imperméabilisée de Caldoris fut découverte par un voilier en manque de fournitures lors d'une longue traversée, qui improvisa un mélange d'huile de baleine, de cendres et de résine végétale pour traiter une voile endommagée. La voile résulta bien plus durable que ses voiles standard. De retour à Caldoris, il reproduisit la formule et ne dit jamais à personne qu'il ne savait pas exactement pourquoi elle fonctionnait.
 - Population : Village
 - Région : Oracalis
 
 ### Elyanor — Ville
 *Port cosmopolite d'Etheira, Elyanor accueille les navires étrangers et les marchands de tous horizons. Ses rues résonnent de dizaines de langues, et ses marchés offrent des marchandises venues des quatre coins du monde connu. C'est la ville la plus diverse de Solena, et aussi la plus chaotique.*
+**Histoire :** Elyanor se développa sur la côte la moins abritée d'Etheira précisément parce que cette exposition en faisait la première escale accessible aux navires venant des eaux lointaines. Ce qui était désavantageux pour la pêche locale était idéal pour le commerce international. Chaque nouvelle route commerciale depuis l'est ou le nord arrive à Elyanor en premier — une rente géographique que la ville exploite depuis deux siècles.
 - Population : Ville
 - Région : Etheira
 
 ### Nydoria — Village
 *Village de pêcheurs de perles qui plongent dans les eaux claires de la côte orientale. Les perles d'Etheira sont réputées pour leur éclat rosé, et les plongeurs de Nydoria transmettent leur art de génération en génération.*
+**Histoire :** La lignée de plongeurs de Nydoria remonte à une femme dont le mari mourut en mer. Refusant que son deuil la définisse, elle apprit elle-même à plonger et découvrit les bancs de perles qui rendirent le village riche. Elle finança les bateaux de ses enfants et leur imposa une règle : toujours plonger par paires, jamais seul. La règle n'a jamais été violée, et aucun plongeur de Nydoria n'est mort en mer depuis.
 - Population : Village
 - Région : Etheira
 
 ### Kethyris — Village
 *Hameau de guetteurs maritimes installé sur une falaise escarpée. Les vigies de Kethyris sont les premières à repérer les navires approchant la côte d'Etheira, qu'ils soient marchands, explorateurs ou pirates.*
+**Histoire :** Le service de guet de Kethyris commença comme prestation payée par une famille amirale pour surveiller ses routes commerciales. Quand cette famille fut ruinée pendant la Guerre des Marées, les guetteurs continuèrent leur poste de leur propre initiative — les navires entrants prenaient l'habitude de les payer directement pour l'information. Le service s'auto-finança et survécut à la famille qui l'avait créé.
 - Population : Village
 - Région : Etheira
 
 ### Fendralis — Village
 *Village de fumeurs de poisson dont les produits se conservent pendant des mois en mer. Les techniques de Fendralis — fumage au bois de cèdre marin et salaison aux algues — sont un secret commercial que d'autres nations ont vainement tenté de reproduire.*
+**Histoire :** Le fumage au cèdre de Fendralis fut découvert lors d'un incendie accidentel qui consuma un stock de cèdre marin voisin d'une prise fraîche. Le poisson fumé involontairement avait un arôme que les habitants n'avaient jamais goûté. Un fumeur comprit l'accident et le reproduisit délibérément. Le résultat se conservait plus longtemps et se vendait plus cher — le "mauvais" bois devint le bon.
 - Population : Village
 - Région : Etheira
 
 ### Bryndarith — Village
 *Village de fabricants de filets et de nasses. Les filets de Bryndarith, tissés en fibre de jonc marin, sont si résistants que les pêcheurs affirment qu'ils pourraient capturer un léviathan.*
+**Histoire :** La résistance des filets de Bryndarith fut testée sans le vouloir quand un capitaine pariant qu'un filet standard pouvait tenir un requin de grande taille s'avéra avoir parié sur un filet de Bryndarith. Il gagna son pari. La marine solénienne commanda des filets de corde similaire pour ses dispositifs de protection de navires. Les fabricants reçurent un contrat permanent qu'ils honorent encore.
 - Population : Village
 - Région : Etheira
 
 ### Vyndralith — Ville
 *Port d'exploration de Vesperilia, Vyndralith est le point de départ des grandes expéditions. Ses quais sont plus modestes que ceux d'Oranthor, mais l'atmosphère y est chargée d'excitation et de promesses. Les tavernes de Vyndralith regorgent de récits d'explorateurs — certains véridiques, la plupart embellis.*
+**Histoire :** Vyndralith fut choisi comme port d'exploration parce que les vents dominants de l'ouest saisissent immédiatement les navires qui appareillent vers le large, ne leur laissant aucune occasion de changer d'avis à mi-canal. Plusieurs capitaines ont attribué cette architecture des vents à leur détermination : "Le vent décide pour vous." Ceux qui reviennent reprennent toujours la même berth.
 - Population : Ville
 - Région : Vesperilia
 
 ### Myrdris — Village
 *Village de cartographes installé sur une avancée côtière offrant une vue panoramique sur l'océan. Les cartes de Myrdris, dessinées à la main sur parchemin marin, sont les plus précises de Galenor — et les plus chères.*
+**Histoire :** L'avancée côtière de Myrdris permettait de sighter deux repères terrestres fixes et de calculer les distances par triangulation angulaire — une méthode développée ici avant d'être formalisée académiquement. Les cartes de Myrdris sont précises à quelques toises à vingt lieues de distance. Des rivaux ont tenté de copier les méthodes ; sans le promontoire spécifique, les résultats sont inférieurs.
 - Population : Village
 - Région : Vesperilia
 
 ### Valora — Village
 *Hameau de sauveteurs en mer dont les barques rapides patrouillent les eaux dangereuses de Vesperilia. Les côtes de cette région sont parsemées de récifs traîtres, et les sauveteurs de Valora ont sauvé des centaines de vies au fil des générations.*
+**Histoire :** Le service de sauvetage de Valora fut créé après qu'onze navires s'échouèrent sur le même récif en un mois. Les survivants s'organisèrent entre eux en service de secours — sans financement, sans mandat officiel. Le service perdit de l'argent pendant dix ans avant que les familles amirales acceptent de le financer. Il a depuis sauvé plus de vies et de cargaisons que la totalité de son financement cumulé.
 - Population : Village
 - Région : Vesperilia
 
 ### Ulithor — Village
 *Village de constructeurs de phares, Ulithor a érigé la plupart des tours lumineuses qui bordent les côtes de Solena. Chaque phare est à la fois une balise maritime et un temple de la Via Ventus, et les gardiens de phares d'Ulithor sont autant des prêtres que des techniciens.*
+**Histoire :** Les constructeurs d'Ulithor offrent à chaque client un contrat d'entretien de cinquante ans inclus dans le prix de construction. Cette innovation commerciale fut conçue pour leur propre intérêt : un phare qui s'effondre est mauvais pour leur réputation. En liant leur revenu à la durabilité, ils se contraignirent à une qualité que rien d'autre n'aurait pu exiger d'eux.
 - Population : Village
 - Région : Vesperilia
 
 ### Myrathis — Ville
 *Port de pêche principal de Boralis, Myrathis est une ville rude et laborieuse où la mer dicte tout. Ses chalutiers partent avant l'aube et reviennent à la tombée de la nuit, chargés de poissons que les criées de Myrathis vendent dans l'heure. Pas de poésie ici — du travail, du sel et du vent.*
+**Histoire :** Myrathis fonctionne selon une horloge sociale immuable depuis deux cents ans : départ de la flotte à deux heures du matin, retour à seize heures, criée jusqu'à dix-huit heures, ville endormie avant vingt et une heures. Ce rythme fut établi par un capitaine de pêche qui avait calculé que la criée de fin de journée maximisait les prix en captant les acheteurs des restaurants du soir. Personne n'a jamais changé l'heure.
 - Population : Ville
 - Région : Boralis
 
 ### Felwyn — Village
 *Village de saleurs et de conserveurs, Felwyn transforme les prises de Boralis en provisions de longue durée. Le sel marin de Felwyn, récolté dans des marais salants naturels, est d'une qualité qui rivalise avec celui de Tolvenor à Ventera.*
+**Histoire :** Le village de Felwyn fut bâti pour servir les marais salants qui existaient déjà — non l'inverse. Les premières familles construisirent leurs maisons là où la récolte arrivait naturellement, puis les entrepôts, puis les fumeries. La ville est l'infrastructure logistique d'un phénomène naturel qui aurait existé sans elle.
 - Population : Village
 - Région : Boralis
 
 ### Nydris — Village
 *Village de pêcheurs isolé de l'archipel de Tetramis, Nydris est accessible uniquement par bateau. Ses habitants vivent selon des traditions ancestrales que le continent a oubliées — pêche aux harpons, navigation à la voile carrée, rituels maritimes que même les prêtres de la Via Ventus ne reconnaissent pas entièrement.*
+**Histoire :** Les rituels de Tetramis que la Via Ventus ne reconnaît pas incluent une cérémonie de brûlure de bateau pour les pêcheurs noyés et une offrande du plus beau poisson de chaque prise à la mer elle-même. Ces pratiques précèdent la Via Ventus de plusieurs siècles, selon les propres chroniques de la religion. Les prêtres ont décidé d'y voir une "proto-Via Ventus" plutôt que de les interdire ; les habitants de Nydris n'ont pas eu leur mot à dire.
 - Population : Village
 - Région : Tetramis
 
 ### Falnor — Village
 *Le plus petit village de Tetramis, Falnor occupe une île si étroite que les vagues la submergent lors des grandes marées. Ses habitants, une poignée de familles, sont des gardiens de récifs coralliens dont le savoir sur l'écosystème marin est inestimable.*
+**Histoire :** Les familles de Falnor ont cartographié chaque variation de leur récif corallien sur quatre générations — croissances, déclins, colonies nouvelles, zones mortes. Leurs données, conservées en tradition orale, constituent le relevé environnemental marin le plus détaillé de Galenor. Des érudits de Lumasar ont tenté de l'obtenir par écrit ; les familles refusent systématiquement : "Ce qui s'écrit finit par être mal lu."
 - Population : Village
 - Région : Tetramis
 

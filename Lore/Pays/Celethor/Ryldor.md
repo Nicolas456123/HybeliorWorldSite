@@ -94,26 +94,31 @@ Unique région du pays, une vallée abritée entre les montagnes de Celethor. Le
 
 ### Ryldaris — Capitale ★
 *La capitale de Ryldor est un immense jardin dont les bâtiments semblent pousser parmi les plantes. Les maisons sont de bois clair, aux toits couverts de mousse et d'herbes médicinales. Au centre, le Grand Sanctuaire — un bâtiment circulaire ouvert aux quatre vents — accueille les malades de tout Hybelior. Les couloirs sont parfumés par les herbes séchées qui pendent des poutres, et le sol est couvert de pétales frais chaque matin.*
+**Histoire :** Ryldara elle-même choisit l'emplacement de Ryldaris après avoir cartographié les concentrations résiduelles du Fléau — elle voulait installer le Grand Sanctuaire exactement là où le Fléau était le moins virulent, pour protéger ses patients les plus fragiles. Ce qu'elle ne dit pas, mais que les archives de Thyros révèlent, c'est qu'elle choisit aussi l'endroit parce qu'il se trouvait directement au-dessus d'une poche de Fléau dormant : elle voulait le surveiller de près. Les pétales frais qui recouvrent le sol chaque matin ne sont pas uniquement symboliques — certaines espèces absorbent les émanations résiduelles qui remontent des profondeurs.
 - Population : Capitale
 - Région : Ryldor
 
 ### Galrinth
 *Village d'herboristes spécialisés dans les plantes des hauteurs. Les jardins de Galrinth sont étagés sur les flancs d'une montagne, chaque terrasse abritant des espèces adaptées à une altitude différente. C'est ici que pousse le rare **lys de givre**, dont l'extrait guérit les fièvres les plus rebelles.*
+**Histoire :** Les terrasses de Galrinth furent construites sur trois générations par une famille d'herboristes qui refusait de voir une plante mourir faute de trouver son altitude idéale. La mère commença par la terrasse basse ; son fils étendit les jardins vers le milieu de la pente ; sa petite-fille atteignit le sommet. Lorsque le Grand Chaman de l'époque vint visiter Galrinth pour la première fois, il découvrit un catalogue vivant de la flore de montagne de Celethor — et le lys de givre, que les botanistes croyaient éteint depuis un siècle, poussait tranquillement à la troisième terrasse depuis au moins trente ans.
 - Population : Ville
 - Région : Ryldor
 
 ### Thyros
 *Bourg nommé en l'honneur du Grand Chaman actuel (ou peut-être est-ce l'inverse). Thyros abrite l'école de médecine chamanique, où les apprentis guérisseurs étudient pendant dix ans avant d'être autorisés à pratiquer. Les cours sont dispensés en plein air, dans des clairières sacrées.*
+**Histoire :** La question de savoir si le village porta d'abord le nom ou si le Grand Chaman fut nommé d'après le village est délibérément laissée sans réponse dans les archives — une ambiguïté que Thyros lui-même entretient avec humour. Ce qui est certain : l'école fut fondée par une femme qui avait tenté d'apprendre la médecine chamanique à vingt apprentis dans une seule pièce et avait conclu que la nature enseignait mieux qu'elle. Les cours en plein air ne sont pas un idéal philosophique — c'est une décision pratique d'une enseignante qui avait épuisé toutes ses autres options.
 - Population : Ville
 - Région : Ryldor
 
 ### Zelthar
 *Village de champignonnistes installé dans une grotte humide. Les champignons de Zelthar — certains luminescents, d'autres mortels, d'autres miraculeux — sont la base de nombreuses potions ryldoriennes. Seuls les initiés savent distinguer les espèces bénéfiques des espèces toxiques.*
+**Histoire :** La grotte de Zelthar fut découverte lorsque Ryldara cherchait des champignons qui se nourrissaient du Fléau sans en mourir — elle avait compris que la résistance d'une plante au Fléau en faisait une arme potentielle contre lui. La grotte abritait une colonie de champignons anciens qui avaient coexisté avec le Fléau depuis des siècles. Certains l'absorbaient, d'autres le neutralisaient, d'autres encore avaient développé des propriétés curatives précisément parce qu'ils avaient dû résister. Zelthar est fondé autour de ces découvertes — et les champignonnistes qui savent distinguer les espèces gardent ce savoir avec autant de soin que les Forgerons-Thanes gardent leur technique du fer glaciaire.
 - Population : Ville
 - Région : Ryldor
 
 ### Faldoris
 *Hameau paisible au bord d'une source chaude, servant de lieu de convalescence. Les malades qui ont reçu un traitement à Ryldaris sont envoyés à Faldoris pour se rétablir dans les eaux thermales. L'air y est si pur et l'atmosphère si sereine que même les âmes les plus tourmentées y trouvent la paix.*
+**Histoire :** La source chaude de Faldoris fut identifiée comme lieu de convalescence après une observation simple : les patients qui y étaient envoyés pour "prendre l'air" pendant leur traitement récupéraient systématiquement plus vite que ceux qui restaient à Ryldaris. Le Grand Chaman de l'époque voulut analyser chimiquement les eaux — et ne trouva rien d'exceptionnel. La conclusion, embarrassante pour un guérisseur habitué aux causes physiques, fut que la tranquillité absolue de l'endroit était le facteur thérapeutique. Faldoris fut officiellement désignée comme annexe de Ryldaris pour permettre au Cercle des Guérisseurs d'accepter que la paix soit un remède.
 - Population : Ville
 - Région : Ryldor
 

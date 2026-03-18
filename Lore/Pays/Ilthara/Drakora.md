@@ -111,37 +111,44 @@ Région orientale aride et rocailleuse, Xeranthia est un terrain d'entraînement
 
 ### Myrthorin — Capitale ★
 *Bâtie autour du Pic de l'Aube — la plus haute montagne de Drakora — Myrthorin est une cité verticale. Ses quartiers s'étagent le long des flancs de la montagne, reliés par des escaliers monumentaux et des passerelles de pierre. Au sommet, le Nid Royal abrite Voldrax et la Reine Syraeth dans un palais ouvert aux vents où le rugissement des dragons remplace les cloches. L'Arène du Souffle, creusée dans le roc à mi-hauteur, est le lieu des défis et des cérémonies.*
+**Histoire :** Myrthorin naquit au lendemain de la Grande Chasse, quand la reine Myrthin dut reconstruire l'autorité de Drakora après le désastre causé par son mari. Elle choisit le Pic de l'Aube non pour sa défense mais pour sa visibilité : un palais au sommet d'une montagne est visible de tous les nids de dragons du territoire. Elle voulait que les dragons puissent voir où vivait leur alliée. La construction fut partiellement réalisée par des Liés dont les dragons aidaient à transporter les blocs de pierre — la seule fois dans l'histoire de Drakora où des dragons ont travaillé aux côtés des humains à une tâche non combattante. Cette coopération reste un souvenir fondateur.
 - Population : Grande ville
 - Région : Myrthéria
 - Particularités : Siège de la Reine-Dragonne et du Conseil des Liés. Nid Royal. Arène du Souffle. Grand Temple d'Ignis Aeternum.
 
 ### Obryalis — Village
 *Village des Serviteurs du Nid, Obryalis est niché dans un col montagneux d'où l'on peut observer les aires de repos des dragons. Ses habitants sont des soigneurs et des éleveurs spécialisés, capables de traiter les blessures des dragons et de prendre soin des œufs en l'absence des parents. On raconte que les enfants d'Obryalis apprennent à reconnaître les humeurs d'un dragon avant de savoir parler.*
+**Histoire :** Obryalis fut le seul village à ne pas être détruit lors de la Grande Chasse. Les chasseurs de Draegon III l'évitèrent instinctivement — peut-être parce que les habitants en sortaient pour se placer devant les nids, faisant bouclier de leurs corps sans armes. Peut-être aussi parce que les dragons, voyant leurs soigneurs habituels leur faire face sans peur, hésitèrent à cracher le feu. La raison exacte n'est pas documentée. Ce qu'on sait, c'est que d'Obryalis partirent les premiers messages à la reine Myrthin, l'informant de l'ampleur du désastre en cours. Sans ces messages, la trêve aurait peut-être été trop tardive.
 - Population : Village
 - Région : Myrthéria
 
 ### Sylvora — Ville
 *Principale ville des vallées de Sylvaris, Sylvora est un bourg animé où cohabitent guerriers, artisans et marchands. Ses forges draconiques produisent des armes et des armures d'une qualité remarquable, travaillées avec des écailles de dragon et trempées dans le feu d'un dragon allié — un processus qui rend l'acier quasiment indestructible. Le marché de Sylvora est le principal lieu de commerce de Drakora.*
+**Histoire :** Le procédé de trempe à l'acier draconique fut découvert par un forgeron qui, incapable de trouver une chaleur suffisante pour traiter un alliage expérimental, supplia son voisin Lié de lui prêter son dragon pour une heure. Le dragon, amusé par la demande ou simplement coopératif selon les récits, crâcha sur l'acier. Le résultat dépassa toutes les attentes. Le forgeron partagea immédiatement son procédé avec tous les artisans de Sylvora — un geste que le Conseil des Liés, qui aurait préféré un monopole, ne lui pardonna jamais vraiment. La guilde des forgerons de Sylvora a depuis lors une indépendance farouche.
 - Population : Ville
 - Région : Sylvaris
 
 ### Elyndor — Village
 *Village forestier de Sylvaris, Elyndor est peuplé de bûcherons et de chasseurs vivant au rythme de la forêt ignifuge. Les habitants récoltent le bois noir des arbres résistants au feu, un matériau prisé pour la construction de navires et d'instruments de musique. Elyndor est aussi le village natal de plusieurs Liés célèbres, et une superstition locale veut que la forêt elle-même guide les futurs élus vers les nids.*
+**Histoire :** La superstition de la forêt guidant les élus naquit d'un événement précis : trois jeunes d'Elyndor partis séparément pour l'Épreuve de la Montagne se retrouvèrent, sans s'être concertés, au même nid d'un dragon qui n'avait jamais choisi de Lié. Ce dragon choisit les trois simultanément — un cas sans précédent dans l'histoire de Drakora. Les trois Liés qui en résultèrent étaient tous originaires d'Elyndor, avaient emprunté des chemins différents, et ne s'expliquèrent jamais comment ils s'étaient retrouvés au même endroit. La forêt d'Elyndor bénéficie depuis d'une réputation qui attire les jeunes de tout Drakora, convaincus qu'elle les guidera à leur tour.
 - Population : Village
 - Région : Sylvaris
 
 ### Xelthor — Ville
 *Ville-garnison de Xeranthia, Xelthor est le centre d'entraînement de l'armée de Drakora. Ses casernes austères et ses arènes d'entraînement accueillent les aspirants au rang de Brûlé, et les exercices de combat aérien au-dessus des ravins environnants sont un spectacle aussi impressionnant que dangereux. Les instructeurs de Xelthor sont les guerriers les plus endurcis du royaume.*
+**Histoire :** Xelthor fut fondée par les survivants de la Grande Chasse — les guerriers qui avaient participé aux ordres de Draegon III, survécu aux représailles des dragons, et se retrouvaient sans statut dans une nation qui les regardait avec honte. La reine Myrthin, pragmatique, les envoya à Xeranthia avec une mission : s'entraîner, parfaire leurs techniques de combat contre les wyvernes, et transmettre leur savoir aux générations suivantes. Elle transforma ainsi une humiliation collective en institution. Les Brûlés de Xelthor portent tous une petite marque de brûlure au même endroit — l'épaule gauche — en mémoire des flammes de la Grande Chasse.
 - Population : Ville
 - Région : Xeranthia
 
 ### Felvoria — Village
 *Petit village de chasseurs de wyvernes à la lisière de Xeranthia, Felvoria vit de la traque de ces cousines dégénérées des dragons. La chasse à la wyverne est un art et un rite de passage — les peaux, les os et les griffes de wyverne sont des matériaux précieux pour les artisans de Drakora. Les chasseurs de Felvoria sont des pisteurs et des tireurs d'élite dont les compétences sont recherchées dans tout le royaume.*
+**Histoire :** La distinction entre dragon et wyverne est théologique à Felvoria autant qu'elle est zoologique : les habitants ont développé un rituel précis pour s'assurer, avant toute chasse, que la cible est bien une wyverne et non un jeune dragon égaré. Trois chasseurs de Felvoria furent exécutés au cours de l'histoire pour avoir tué un dragon par erreur — la peine maximale dans le droit de Drakora. Depuis lors, le rituel de distinction est codifié, enseigné aux enfants et récité comme une prière avant chaque chasse. Les erreurs ont cessé.
 - Population : Village
 - Région : Xeranthia
 
 ### Lunaris — Village
 *Village isolé au fond d'un canyon de Xeranthia, Lunaris doit son nom à la lumière lunaire qui, par un phénomène géologique, se reflète sur les parois cristallines du canyon et baigne le village d'une lueur argentée même en plein jour. Les habitants de Lunaris sont des mystiques et des ermites, souvent d'anciens Brûlés en quête de paix. On murmure qu'un dragon très ancien, Vey'thar, dort dans les profondeurs du canyon depuis des temps immémoriaux.*
+**Histoire :** Les premiers habitants de Lunaris n'étaient pas des mystiques mais des déserteurs — des aspirants Brûlés qui avaient survécu à l'Épreuve du Souffle mais refusaient ensuite de servir dans l'armée. Ils se cachèrent dans ce canyon difficile d'accès, espérant être oubliés. La reine Myrthin, informée, envoya non pas des soldats mais un Lié seul, sans armes, qui séjourna une semaine à Lunaris avant de repartir. Elle ne punit personne. Son message implicite — que Drakora avait aussi besoin de ceux qui choisissaient la paix — fut compris comme une amnistie. Lunaris est depuis lors un lieu de retraite officieusement reconnu.
 - Population : Village
 - Région : Xeranthia
 
