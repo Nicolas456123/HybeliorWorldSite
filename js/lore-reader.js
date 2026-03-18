@@ -80,12 +80,15 @@ const modalBody   = () => document.getElementById('lore-modal-body');
 const tabHistoires = () => document.getElementById('lore-tab-histoires');
 
 // ── Open / close ─────────────────────────────────────────────
-function openLoreModal(nationName) {
+function openLoreModal(nationName, defaultTab = 'pays') {
     const nation = NATIONS[nationName];
     if (!nation) return;
 
     _currentNation = nationName;
-    _currentTab = 'pays';
+
+    // Vérifier que le tab demandé est disponible
+    const startTab = (defaultTab === 'histoires' && nation.histoires) ? 'histoires' : 'pays';
+    _currentTab = startTab;
 
     const m = modal();
     m.removeAttribute('hidden');
@@ -93,15 +96,16 @@ function openLoreModal(nationName) {
 
     modalTitle().textContent = nationName;
 
-    // Reset tabs
+    // Reset tabs et activer le bon
     document.querySelectorAll('.lore-tab').forEach(t => t.classList.remove('active'));
-    document.querySelector('.lore-tab[data-tab="pays"]').classList.add('active');
+    const activeTabEl = document.querySelector(`.lore-tab[data-tab="${startTab}"]`);
+    if (activeTabEl) activeTabEl.classList.add('active');
 
     // Hide histoires tab if no file
     const tabH = tabHistoires();
     tabH.style.display = nation.histoires ? '' : 'none';
 
-    loadTab('pays');
+    loadTab(startTab);
 }
 
 function closeLoreModal() {

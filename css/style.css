@@ -2068,3 +2068,303 @@ body.ios-fullscreen .ios-fullscreen-btn { top: env(safe-area-inset-top, 10px); }
     }
     .menu-toggle { z-index: 1007; }
 }
+
+
+/* ============================================================
+   SOUS-ONGLETS (SubTabs) — Lore & Gameplay
+   ============================================================ */
+
+/* Barre de sous-onglets */
+.subtab-nav {
+    display: flex;
+    gap: 4px;
+    flex-wrap: wrap;
+    margin-bottom: 32px;
+    padding-bottom: 16px;
+    border-bottom: 1px solid rgba(120, 78, 18, 0.18);
+}
+
+.subtab-btn {
+    font-family: 'Raleway', sans-serif;
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    padding: 7px 16px;
+    border: 1px solid rgba(120, 78, 18, 0.22);
+    border-radius: 4px;
+    background: rgba(200, 182, 148, 0.28);
+    color: var(--text-muted);
+    cursor: pointer;
+    transition: background 0.18s, border-color 0.18s, color 0.18s;
+}
+.subtab-btn:hover {
+    background: rgba(200, 182, 148, 0.55);
+    border-color: rgba(120, 78, 18, 0.45);
+    color: var(--text);
+}
+.subtab-btn.active {
+    background: rgba(122, 76, 10, 0.15);
+    border-color: var(--accent);
+    color: var(--gold);
+}
+
+.subtab-loading, .subtab-error {
+    text-align: center;
+    padding: 60px 20px;
+    color: var(--text-muted);
+    font-style: italic;
+    font-size: 15px;
+}
+.subtab-error { color: #8b2020; }
+
+/* ── Layout 2 colonnes Lore (sidebar + contenu) ── */
+.lore-layout {
+    display: flex;
+    gap: 0;
+    align-items: flex-start;
+    min-height: calc(100vh - var(--nav-height) - 120px);
+}
+
+/* Sidebar gauche */
+.lore-sidebar {
+    width: 220px;
+    flex-shrink: 0;
+    position: sticky;
+    top: calc(var(--nav-height) + 24px);
+    max-height: calc(100vh - var(--nav-height) - 48px);
+    overflow-y: auto;
+    padding-right: 20px;
+    padding-bottom: 24px;
+    scrollbar-width: thin;
+    scrollbar-color: var(--panel-border) transparent;
+}
+.lore-sidebar::-webkit-scrollbar { width: 4px; }
+.lore-sidebar::-webkit-scrollbar-thumb { background: var(--panel-border); border-radius: 2px; }
+
+/* Sous-onglets dans la sidebar */
+.lore-sidebar .subtab-nav {
+    flex-direction: column;
+    gap: 3px;
+    margin-bottom: 20px;
+    padding-bottom: 14px;
+    border-bottom: 1px solid rgba(120, 78, 18, 0.18);
+}
+.lore-sidebar .subtab-btn {
+    text-align: left;
+    width: 100%;
+    padding: 6px 12px;
+    font-size: 10.5px;
+}
+
+/* Titre du TOC */
+.toc-title {
+    font-family: 'Raleway', sans-serif;
+    font-size: 9px;
+    font-weight: 700;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: var(--text-muted);
+    margin-bottom: 10px;
+    padding-left: 4px;
+}
+
+/* Liste TOC */
+.toc-list {
+    list-style: none;
+    padding: 0;
+    margin: 0 0 16px;
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+}
+
+.toc-item {
+    border-radius: 4px;
+    transition: background 0.15s;
+}
+.toc-item.toc-sub { padding-left: 12px; }
+.toc-empty { color: var(--text-muted); font-size: 12px; padding: 4px; }
+
+.toc-link {
+    display: block;
+    font-family: 'Raleway', sans-serif;
+    font-size: 11.5px;
+    font-weight: 500;
+    color: var(--text-muted);
+    text-decoration: none;
+    padding: 4px 8px;
+    border-radius: 4px;
+    transition: color 0.15s, background 0.15s;
+    line-height: 1.35;
+}
+.toc-sub .toc-link {
+    font-size: 10.5px;
+    color: var(--text-faint, rgba(100,75,40,0.65));
+}
+.toc-link:hover { color: var(--gold); background: rgba(120, 78, 18, 0.07); }
+.toc-item.active .toc-link {
+    color: var(--gold);
+    background: rgba(122, 76, 10, 0.10);
+    font-weight: 600;
+}
+
+/* Barre de progression */
+.toc-progress {
+    background: rgba(120, 78, 18, 0.10);
+    border-radius: 4px;
+    height: 4px;
+    overflow: hidden;
+    margin-top: 12px;
+}
+.toc-progress-fill {
+    height: 100%;
+    background: linear-gradient(90deg, var(--accent) 0%, var(--gold) 100%);
+    border-radius: 4px;
+    width: 0%;
+    transition: width 0.25s;
+}
+.toc-progress-label {
+    font-size: 10px;
+    color: var(--text-muted);
+    margin-top: 4px;
+    text-align: right;
+    font-family: 'Raleway', sans-serif;
+}
+
+/* Zone de contenu principale */
+.subtab-content {
+    flex: 1;
+    min-width: 0;
+    padding-left: 32px;
+    border-left: 1px solid rgba(120, 78, 18, 0.12);
+}
+
+/* Gameplay : pas de sidebar, contenu full-width */
+.gameplay-layout .subtab-content {
+    padding-left: 0;
+    border-left: none;
+}
+
+/* ── Bouton Lore dans le panneau info de la carte ── */
+.info-lore-btn {
+    display: block;
+    width: 100%;
+    margin-top: 14px;
+    padding: 8px 14px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 11.5px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: var(--gold);
+    background: rgba(122, 76, 10, 0.10);
+    border: 1px solid rgba(120, 78, 18, 0.35);
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.18s, border-color 0.18s;
+    text-align: center;
+}
+.info-lore-btn:hover {
+    background: rgba(122, 76, 10, 0.22);
+    border-color: var(--accent);
+}
+
+/* ── Histoires — navigateur continents/nations ── */
+.hist-continent-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+    gap: 10px;
+    margin: 24px 0;
+}
+.hist-continent-card {
+    background: rgba(200, 182, 148, 0.38);
+    border: 1px solid rgba(120, 78, 18, 0.20);
+    border-radius: 7px;
+    padding: 14px 16px;
+    cursor: pointer;
+    transition: background 0.18s, border-color 0.18s;
+}
+.hist-continent-card:hover {
+    background: rgba(200, 182, 148, 0.60);
+    border-color: rgba(120, 78, 18, 0.45);
+}
+.hist-continent-name {
+    font-family: 'Cinzel', serif;
+    font-size: 13.5px;
+    font-weight: 600;
+    color: var(--gold);
+    margin-bottom: 4px;
+}
+.hist-continent-count {
+    font-family: 'Raleway', sans-serif;
+    font-size: 11px;
+    color: var(--text-muted);
+    letter-spacing: 1px;
+}
+
+.hist-nation-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin: 16px 0 32px;
+}
+.hist-nation-btn {
+    font-family: 'Raleway', sans-serif;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 0.8px;
+    padding: 7px 14px;
+    border: 1px solid rgba(120, 78, 18, 0.25);
+    border-radius: 4px;
+    background: rgba(200, 182, 148, 0.30);
+    color: var(--text-soft);
+    cursor: pointer;
+    transition: background 0.15s, border-color 0.15s, color 0.15s;
+}
+.hist-nation-btn:hover {
+    background: rgba(122, 76, 10, 0.14);
+    border-color: var(--accent);
+    color: var(--gold);
+}
+.hist-back-btn {
+    font-family: 'Raleway', sans-serif;
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    padding: 5px 12px;
+    border: 1px solid rgba(120, 78, 18, 0.22);
+    border-radius: 4px;
+    background: transparent;
+    color: var(--text-muted);
+    cursor: pointer;
+    margin-bottom: 16px;
+    transition: color 0.15s;
+}
+.hist-back-btn:hover { color: var(--text); }
+
+/* ── Responsive ── */
+@media (max-width: 768px) {
+    .lore-layout { flex-direction: column; }
+    .lore-sidebar {
+        width: 100%;
+        position: static;
+        max-height: none;
+        padding-right: 0;
+        margin-bottom: 24px;
+    }
+    .lore-sidebar .subtab-nav {
+        flex-direction: row;
+        flex-wrap: nowrap;
+        overflow-x: auto;
+        gap: 4px;
+        padding-bottom: 0;
+        border-bottom: none;
+        margin-bottom: 12px;
+    }
+    .lore-sidebar .subtab-btn { white-space: nowrap; }
+    .toc-list, .toc-progress, .toc-progress-label, .toc-title { display: none; }
+    .subtab-content { padding-left: 0; border-left: none; }
+    .hist-continent-grid { grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); }
+}

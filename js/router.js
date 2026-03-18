@@ -18,11 +18,23 @@ const Router = {
 
     getRoute() {
         const hash = window.location.hash.slice(1);
-        return this.routes.includes(hash) ? hash : this.defaultRoute;
+        return this.routes.includes(hash) ? hash : (hash ? this.defaultRoute : this.defaultRoute);
     },
 
     async navigate() {
-        const route = this.getRoute();
+        const hash = window.location.hash.slice(1);
+        const isRoute = this.routes.includes(hash);
+
+        // Ancre in-page : hash non reconnu comme route ET élément existe dans la page
+        if (!isRoute && hash) {
+            const el = document.getElementById(hash);
+            if (el) {
+                el.scrollIntoView({ behavior: 'smooth', block: 'start' });
+                return;
+            }
+        }
+
+        const route = isRoute ? hash : this.defaultRoute;
 
         // Même page : remonter en haut (bouton de la page active)
         if (route === this.currentRoute) {

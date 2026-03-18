@@ -810,6 +810,7 @@ function initMap() {
                 infoEl.innerHTML = renderLoreHTML(parsed);
                 applyLinkify(infoEl, name);
             });
+            _updateLoreBtn(name);
             return;
         }
 
@@ -839,11 +840,23 @@ function initMap() {
                 infoEl.innerHTML = html;
                 applyLinkify(infoEl, name);
             });
+            _updateLoreBtn(parentCountry);
             return;
         }
 
         // 3. Fallback to CSV data
         showFallbackCSV(infoEl, subtitleEl, item);
+
+        // Bouton "Lire le lore" — affiché si la nation a une fiche dans le lore reader
+        _updateLoreBtn(name);
+    }
+
+    function _updateLoreBtn(name) {
+        const btn = document.getElementById('infoPanelLoreBtn');
+        if (!btn) return;
+        const hasLore = window.LoreReader && window.LoreReader.NATIONS && window.LoreReader.NATIONS[name];
+        btn.style.display = hasLore ? 'block' : 'none';
+        if (hasLore) btn.onclick = () => window.LoreReader.open(name, 'histoires');
     }
 
     function showFallbackCSV(infoEl, subtitleEl, item) {
