@@ -1335,7 +1335,7 @@ p {
     .hero-title-text { font-size: clamp(38px, 12vw, 64px); }
     .pillar-grid { grid-template-columns: 1fr; }
     .feature-item { grid-template-columns: 1fr; gap: 6px; }
-    .voie-item { grid-template-columns: 1fr; gap: 4px; }
+    .voie-item { grid-template-columns: 1fr !important; gap: 4px; }
     .voie-tag { display: inline-block; margin-top: 4px; }
     .stat-strip { flex-wrap: wrap; }
     .stat-item { min-width: 50%; }
@@ -1353,12 +1353,20 @@ p {
    MAP — Carte Hybélior (OpenSeadragon)
    ============================================================ */
 
-/* Full-viewport map: hide nav when on carte page */
-body:has(.page-carte) .site-nav { display: none; }
+/* Full-viewport map: nav en overlay transparent sur la carte */
+body:has(.page-carte) .site-nav { background: rgba(22, 14, 5, 0.80); z-index: 1010; }
 body:has(.page-carte) { overflow: hidden; }
 .page-carte { margin-top: 0 !important; height: 100vh !important; overflow: hidden; }
 .page-carte .page-content { height: 100%; padding: 0; }
 .osd-container { width: 100vw; height: 100vh; position: relative; }
+
+/* Décaler les contrôles de la carte sous la nav */
+body:has(.page-carte) .menu-toggle { top: calc(var(--nav-height) + 12px); }
+body:has(.page-carte) .nav-controls { top: calc(var(--nav-height) + 12px); }
+body:has(.page-carte) .controls { top: calc(var(--nav-height) + 60px); }
+body:has(.page-carte).measure-bar-visible .menu-toggle,
+body:has(.page-carte).measure-bar-visible .nav-controls { top: calc(var(--nav-height) + 50px); }
+body:has(.page-carte).measure-bar-visible .controls { top: calc(var(--nav-height) + 98px); }
 
 /* ===== Bouton menu hamburger ===== */
 .menu-toggle {

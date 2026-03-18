@@ -23,7 +23,12 @@ const Router = {
 
     async navigate() {
         const route = this.getRoute();
-        if (route === this.currentRoute) return;
+
+        // Même page : remonter en haut (bouton de la page active)
+        if (route === this.currentRoute) {
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+            return;
+        }
 
         // Update nav active state
         document.querySelectorAll('.nav-links a').forEach(a => {
@@ -43,6 +48,9 @@ const Router = {
             this.container.className = 'page-container page-' + route;
             this.container.innerHTML = `<div class="page-content">${this.cache[route]}</div>`;
             this.currentRoute = route;
+
+            // Remonter en haut de page à chaque navigation
+            window.scrollTo({ top: 0, behavior: 'instant' });
 
             // Execute any inline scripts in the loaded page
             this.container.querySelectorAll('script').forEach(oldScript => {
