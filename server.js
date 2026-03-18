@@ -4,7 +4,7 @@ const path = require('path');
 
 const PORT = process.env.PORT || 3001;
 const DB_FILE = path.join(__dirname, 'local-db.json');
-const LORE_ROOT = path.join(__dirname, 'lore');
+const LORE_ROOT = path.join(__dirname, 'Docs', 'Lore');
 const EDITOR_PASSWORD = process.env.EDITOR_PASSWORD || 'local';
 
 // ── Local DB (dev fallback for /api/overrides) ──────────────

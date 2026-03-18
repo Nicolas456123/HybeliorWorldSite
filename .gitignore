@@ -1,3 +1,14 @@
 
 localhost.url
 LaunchPythonServer.bat
+
+# Docs: exclure les fichiers lourds/privés, garder Docs/Lore/ pour Vercel
+Docs/AccessExport/
+Docs/GDD/
+Docs/*.accdb
+Docs/*.docx
+Docs/*.txt
+Docs/*.md
+Docs/*.ps1
+Docs/*.png
+local-db.json

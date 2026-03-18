@@ -20,6 +20,8 @@ tags: [religions, lore, cosmologie, croyances]
 
 ## Vue d'ensemble
 
+### 9 grandes religions
+
 | Religion | Nom latin | Entités vénérées | Précision | Présence principale |
 |----------|-----------|-----------------|-----------|---------------------|
 | Culte des Esprits Anciens | *Vael'Kurash* | Spiritus · Arborius | ★★★☆☆ | Alkaran, Ilthara, Ulinor |
@@ -31,6 +33,13 @@ tags: [religions, lore, cosmologie, croyances]
 | La Loi de Pierre | *Lex Petra* | Terranu · Gravitas · Judicar | ★★★☆☆ | Altram, Iskara, Gryndor |
 | Le Rêve Éveillé | *Somnium Vigil* | Somnix · Realis · Aurion | ★★☆☆☆ | Vytharia, Lumasar, Baelor |
 | Le Pacte des Âmes | *Foedus Animae* | Anima · Mentor · Ancestralis | ★★★★★ | Torkam, Skaldoria, tribus |
+
+### 2 religions significatives (régionales)
+
+| Religion | Nom latin | Entités vénérées | Précision | Présence principale |
+|----------|-----------|-----------------|-----------|---------------------|
+| Les Silencieux | *Taciti* | Le Silence *(absolu)* | ★★★☆☆ | Baelor, Nysaria |
+| Le Chant du Monde | *Cantus Mundi* | Cantor *(vibration primordiale)* | ★★★☆☆ | Thalmaris, Seraphia |
 
 ---
 
@@ -272,6 +281,64 @@ Anima est bien un négociant — mais les âmes ont une **valeur d'échange** da
 
 ---
 
+## Religions significatives
+
+Ces deux religions dépassent le statut de culte local sans atteindre l'universalité des 9 grandes religions.
+
+---
+
+### 🤫 Taciti — Les Silencieux
+
+> *« La voix du divin ne peut être entendue que dans le silence absolu. Parler, c'est s'aveugler. »*
+
+> [!note] Précision théologique : ★★★☆☆ — Intuition profonde sur l'écoute, inapplicable universellement
+
+**Entité vénérée :** Aucune divinité nommée — le Silence lui-même est sacré
+
+**Ce qu'ils croient :**
+Le monde des mortels est saturé de bruit — paroles, émotions, pensées — qui masque la vérité. La voix du divin existe en permanence autour de nous, mais seul le silence absolu permet de l'entendre. Parler est un acte d'ego : imposer ses pensées au monde au lieu d'écouter.
+
+**Ce qu'ils ignorent :**
+Le silence qu'ils cherchent est réel — c'est l'état dans lequel Somnix et Noctis peuvent communiquer le plus clairement. Mais ils ont absolutisé une pratique spirituelle utile en dogme inflexible, perdant de vue que la parole peut aussi être divine.
+
+**Pratiques :**
+- Vœu de silence partiel ou total, selon les degrés d'initiation
+- Art martial silencieux — aucun son en combat, même en cas de blessure
+- Enluminure et calligraphie comme seules formes d'expression autorisées
+- Méditation collective dans l'obscurité complète et le silence absolu
+
+**Clergé :** Les *Silentii* — moines n'émettant jamais de son, communiquant uniquement par gestes.
+
+**Présence forte :** Baelor *(principale)* · Nysaria *(secondaire)* · ordres monastiques isolés
+
+---
+
+### 🎵 Cantus Mundi — Le Chant du Monde
+
+> *« Avant toute chose, il y eut une vibration. Cette vibration était un chant. Ce chant était Cantor. Et Cantor chanta le monde. »*
+
+> [!note] Précision théologique : ★★★☆☆ — Vérité poétique sur la création, Cantor mal compris
+
+**Entité vénérée :** Cantor *(vibration primordiale)* — pas une entité personnifiée mais une résonance cosmique
+
+**Ce qu'ils croient :**
+Le monde n'a pas été forgé ni sculpté — il a été **chanté**. Chaque montagne est une note tenue, chaque rivière un mélisme, chaque être vivant un accord. La musique est la forme de prière la plus pure car elle imite l'acte créateur de Cantor. Composer, c'est co-créer avec le divin.
+
+**Ce qu'ils ignorent :**
+Cantor n'est pas une entité séparée des Éternels mais une expression de l'acte créateur primordial — une résonance d'Eldoria et d'Arborius combinées. Leur instinct que la musique est sacrée est profondément juste ; leur théologie de la "création par le chant" est une métaphore qu'ils ont prise au pied de la lettre.
+
+**Pratiques :**
+- *L'Heure du Chant* — chant collectif improvisé chaque matin, reflet de l'état du monde
+- Composition comme acte de foi — créer de la musique est une prière
+- *Le Silence Sacré* — moment de silence absolu avant toute performance, pour honorer le vide d'où naît le son
+- *La Dernière Chanson* — chaque mourant reçoit une chanson unique composée par ses proches, jouée une seule fois
+
+**Clergé :** Les *Cantori* — prêtres-compositeurs dont les œuvres sacrées structurent la liturgie.
+
+**Présence forte :** Thalmaris *(principale)* · Seraphia *(secondaire)* · communautés de bardes itinérants
+
+---
+
 ## Religions mineures et hérésies
 
 | Nom | Nom latin | Description | Statut |
@@ -279,8 +346,6 @@ Anima est bien un négociant — mais les âmes ont une **valeur d'échange** da
 | **Les Briseurs de Chaînes** | *Catena Fracta* | Les entités cosmiques sont des tyrans — les mortels doivent s'en libérer | ☠️ Persécutés partout |
 | **Le Culte de l'Eau Noire** | *Aqua Nigra* | Les abysses cachent le "vrai" dieu — Aquor vénéré sous forme corrompue | ⚠️ Dangereux |
 | **Les Enfants de la Forge** | *Filii Fornacis* | Ferros (un Céleste) est le vrai créateur du monde, pas les Éternels | 🔶 Toléré localement |
-| **Les Silencieux** | *Taciti* | Le silence absolu est la forme la plus pure du divin — vœu de silence total | 🔵 Inoffensif |
-| **Le Chant du Monde** | *Cantus Mundi* | Le monde a été chanté en existence par Cantor — la musique est la prière absolue | 🔵 Bienveillant |
 
 ---
 
