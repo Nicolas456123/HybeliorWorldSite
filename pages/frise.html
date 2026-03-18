@@ -30,6 +30,12 @@
                       radial-gradient(ellipse at 80% 70%, rgba(200,180,140,0.3) 0%, transparent 50%);
     max-height: 82vh; position: relative;
     scrollbar-width: thin; scrollbar-color: var(--gold-dim) #e8e0d0;
+    display: flex; align-items: flex-start;
+}
+.frise-axis {
+    position: sticky; left: 0; z-index: 10;
+    flex-shrink: 0; width: 54px;
+    background: linear-gradient(to right, rgba(245,239,227,0.98) 80%, rgba(245,239,227,0) 100%);
 }
 #frise-svg { display: block; }
 #frise-svg text { font-family: 'Raleway', sans-serif; }
@@ -75,6 +81,7 @@
 </div>
 
 <div class="frise-svg-wrap" id="frise-wrap">
+    <div class="frise-axis" id="frise-axis"></div>
     <svg id="frise-svg" xmlns="http://www.w3.org/2000/svg"></svg>
 </div>
 
@@ -525,15 +532,35 @@ const CONN = [
   svg.setAttribute('viewBox', `0 0 ${CHART_W} ${TOTAL_H}`);
   svg.classList.add('zl-1');
 
+  // --- Left axis (HTML, sticky) ---
+  const axis = document.getElementById('frise-axis');
+  let axisHtml = '';
+  ERAS.forEach(era => {
+    const topPct = (era.y0 / TOTAL_H * 100);
+    const hPct = (era.h / TOTAL_H * 100);
+    const isArrachement = era.id === 'arrachement';
+    const borderCol = isArrachement ? 'rgba(160,30,30,0.25)' : 'rgba(120,78,18,0.12)';
+    const bgCol = isArrachement ? 'rgba(160,30,30,0.06)' : 'transparent';
+    axisHtml += `<div style="position:absolute;top:${topPct}%;height:${hPct}%;width:100%;
+      border-top:1px solid ${borderCol};box-sizing:border-box;padding:6px 4px 4px 5px;
+      background:${bgCol};">
+      <div style="font-family:'Cinzel',serif;font-size:9px;font-weight:700;
+        color:rgba(80,50,10,0.5);line-height:1.2;letter-spacing:0.3px;">
+        ${era.name}</div>
+    </div>`;
+  });
+  axis.innerHTML = axisHtml;
+  axis.style.position = 'sticky';
+  axis.style.height = TOTAL_H + 'px';
+
   let s = '';
 
   // 3. Era backgrounds
   ERAS.forEach(era => {
     s += `<rect x="0" y="${era.y0}" width="${CHART_W}" height="${era.h}" fill="${era.bg}"/>`;
     s += `<line x1="0" y1="${era.y0}" x2="${CHART_W}" y2="${era.y0}" stroke="rgba(100,70,20,0.1)" stroke-width="1"/>`;
-    const cy = era.y0 + era.h / 2;
     s += `<text x="${CHART_W / 2}" y="${era.y0 + 16}" text-anchor="middle"
-           class="era-label" font-size="11" fill="rgba(80,50,10,0.2)"
+           class="era-label" font-size="11" fill="rgba(80,50,10,0.15)"
            letter-spacing="3">${era.name.toUpperCase()}</text>`;
   });
 
@@ -710,6 +737,7 @@ const CONN = [
       svg.style.width = (CHART_W * z) + 'px';
       svg.style.height = (TOTAL_H * z) + 'px';
       svg.className = `zl-${lvl}`;
+      axis.style.height = (TOTAL_H * z) + 'px';
     });
   });
 })();
