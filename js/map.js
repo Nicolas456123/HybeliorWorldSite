@@ -163,55 +163,93 @@ function initMap() {
         };
     }
 
-    // ===== SLIDER CONTINU : chaque ère = 1000 unités de slider =====
+    // ===== TIMELINE V4 : Monotonic year-based slider =====
     let currentDisplayYear = 10200;
-    const SLIDER_UNITS_PER_ERA = 1000;
     let isTimelinePlaying = false;
     let timelineAnimFrame = null;
-    let lastEraIdApplied = null;
+    let lastPlayTimestamp = null;
+    const SLIDER_MAX = 10000;
+    let effectiveRanges = []; // [{start, end}] per era, monotonic no-gap
 
-    // Position slider (0..N*1000) → { year, eraIdx }
-    function sliderToYearAndEra(sliderVal) {
-        if (!timelineData || !timelineData.eras) return { year: 0, eraIdx: 0 };
+    // Compute non-overlapping monotonic year ranges for each era
+    function computeEffectiveRanges() {
         const eras = timelineData.eras;
-        const eraIdx = Math.min(Math.floor(sliderVal / SLIDER_UNITS_PER_ERA), eras.length - 1);
-        const era = eras[eraIdx];
-        const fraction = (sliderVal - eraIdx * SLIDER_UNITS_PER_ERA) / SLIDER_UNITS_PER_ERA;
-        const start = era.startYear || 0;
-        const end = era.endYear || start;
-        return { year: Math.round(start + fraction * (end - start)), eraIdx: eraIdx };
+        effectiveRanges = [];
+        let cursor = eras[0].startYear;
+
+        for (let i = 0; i < eras.length; i++) {
+            const start = cursor;
+            let end;
+            if (i < eras.length - 1) {
+                end = eras[i].endYear;
+                const nextStart = eras[i + 1].startYear;
+                if (nextStart < end && nextStart <= cursor) {
+                    end = cursor; // overlapping child era, give parent minimal range
+                } else if (nextStart < end) {
+                    end = nextStart; // split at next era boundary
+                }
+            } else {
+                end = eras[i].endYear;
+            }
+            if (end <= start) end = start + 1;
+            effectiveRanges.push({ start, end });
+            cursor = end;
+        }
     }
 
-    // L'index d'ère courant (déterminé par la position slider, pas par l'année)
-    let currentEraIdx = 0;
+    // Slider position (0..SLIDER_MAX) → year (monotonic)
+    function sliderToYear(sliderVal) {
+        if (effectiveRanges.length === 0) return 0;
+        const n = effectiveRanges.length;
+        const unitsPerEra = SLIDER_MAX / n;
+        const eraIdx = Math.min(Math.floor(sliderVal / unitsPerEra), n - 1);
+        const fraction = (sliderVal - eraIdx * unitsPerEra) / unitsPerEra;
+        const r = effectiveRanges[eraIdx];
+        return Math.round(r.start + fraction * (r.end - r.start));
+    }
 
-    // Index d'ère + direction → position slider pour stepYears
-    function yearToSliderInEra(year, eraIdx) {
-        if (!timelineData || !timelineData.eras) return 0;
-        const era = timelineData.eras[eraIdx];
-        const s = era.startYear || 0;
-        const e = era.endYear || s;
-        const span = e - s || 1;
-        const fraction = Math.max(0, Math.min(1, (year - s) / span));
-        return eraIdx * SLIDER_UNITS_PER_ERA + fraction * SLIDER_UNITS_PER_ERA;
+    // Year → slider position
+    function yearToSlider(year) {
+        if (effectiveRanges.length === 0) return 0;
+        const n = effectiveRanges.length;
+        const unitsPerEra = SLIDER_MAX / n;
+
+        let eraIdx = n - 1;
+        for (let i = 0; i < n; i++) {
+            if (year <= effectiveRanges[i].end || i === n - 1) {
+                eraIdx = i;
+                break;
+            }
+        }
+
+        const r = effectiveRanges[eraIdx];
+        const span = r.end - r.start || 1;
+        const fraction = Math.max(0, Math.min(1, (year - r.start) / span));
+        return eraIdx * unitsPerEra + fraction * unitsPerEra;
+    }
+
+    // Year → era index (for display purposes)
+    function yearToEraIdx(year) {
+        for (let i = 0; i < effectiveRanges.length; i++) {
+            if (year <= effectiveRanges[i].end || i === effectiveRanges.length - 1) return i;
+        }
+        return 0;
     }
 
     function initTimeline() {
         const timeline = document.getElementById('timeline');
         if (!timeline) return;
 
-        // Slider continu : max = nb ères × 1000
+        // Slider continu
         timeline.min = 0;
-        timeline.max = 10000;
-        timeline.value = 10000;
+        timeline.max = SLIDER_MAX;
+        timeline.value = SLIDER_MAX;
         timeline.step = 1;
 
-        // Slider : glissement fluide
+        // Slider : glissement fluide → year-based
         timeline.addEventListener('input', function() {
             const val = parseFloat(this.value);
-            const result = sliderToYearAndEra(val);
-            currentDisplayYear = result.year;
-            currentEraIdx = result.eraIdx;
+            currentDisplayYear = sliderToYear(val);
             syncMapToYear();
             updateSliderTrack(this);
         });
@@ -251,51 +289,32 @@ function initMap() {
             else if (e.key === ' ') { e.preventDefault(); toggleTimelinePlay(); }
         });
 
-        updateTimelineDisplay(Math.floor(10000 / SLIDER_UNITS_PER_ERA));
+        // Initial display update will happen in initTimelineUI → syncMapToYear
     }
 
-    // Synchronise la carte avec currentEraIdx (change d'ère seulement si nécessaire)
+    // Synchronise la carte avec l'année courante (year-based, pas era-based)
     function syncMapToYear() {
-        if (!timelineData || !timelineData.eras[currentEraIdx]) return;
-        const eraId = timelineData.eras[currentEraIdx].id;
-
-        // Ne rafraîchir la carte que si l'ère change (perf)
-        if (eraId !== lastEraIdApplied) {
-            lastEraIdApplied = eraId;
-            updateMapForEra(eraId);
-        }
+        if (!timelineData || !timelineData.eras) return;
+        const eraIdx = yearToEraIdx(currentDisplayYear);
+        updateTimelineDisplay(eraIdx);
+        updateTimelineMarkerActive(eraIdx);
         updateYearDisplay();
+        // Mise à jour des noms par année (pas par ère)
+        updateContinentNamesForYear(currentDisplayYear);
+        updateCountryVisibilityForYear(currentDisplayYear);
+        updateTextVisibility();
     }
 
     function stepYears(delta) {
-        if (!timelineData || !timelineData.eras) return;
-        const eras = timelineData.eras;
+        if (!timelineData || effectiveRanges.length === 0) return;
 
-        let newYear = currentDisplayYear + delta;
-        let newEraIdx = currentEraIdx;
-
-        // Si on dépasse les bornes de l'ère actuelle, passer à l'ère suivante/précédente
-        const currentEra = eras[newEraIdx];
-        if (newYear < (currentEra.startYear || -Infinity) && newEraIdx > 0) {
-            newEraIdx--;
-            newYear = Math.max(eras[newEraIdx].startYear || -999999, newYear);
-        } else if (newYear >= (currentEra.endYear || Infinity) && newEraIdx < eras.length - 1) {
-            newEraIdx++;
-            newYear = Math.min(eras[newEraIdx].endYear || 10200, newYear);
-        }
-
-        // Bornes globales
-        const globalMin = eras[0].startYear || -999999;
-        const globalMax = eras[eras.length - 1].endYear || 10200;
-        newYear = Math.max(globalMin, Math.min(globalMax, newYear));
-        newEraIdx = Math.max(0, Math.min(eras.length - 1, newEraIdx));
-
-        currentDisplayYear = newYear;
-        currentEraIdx = newEraIdx;
+        const globalMin = effectiveRanges[0].start;
+        const globalMax = effectiveRanges[effectiveRanges.length - 1].end;
+        currentDisplayYear = Math.max(globalMin, Math.min(globalMax, currentDisplayYear + delta));
 
         const timeline = document.getElementById('timeline');
         if (timeline) {
-            timeline.value = yearToSliderInEra(currentDisplayYear, currentEraIdx);
+            timeline.value = yearToSlider(currentDisplayYear);
             updateSliderTrack(timeline);
         }
         syncMapToYear();
@@ -311,11 +330,9 @@ function initMap() {
         if (isTimelinePlaying) {
             playBtn.innerHTML = '&#x23F8;';
             playBtn.classList.add('playing');
-            // Si on est à la fin, repartir du début
-            const maxYear = timelineData.eras[timelineData.eras.length - 1].endYear || 10200;
-            if (currentDisplayYear >= maxYear - 1) {
-                currentDisplayYear = timelineData.eras[0].startYear || -999999;
-                currentEraIdx = 0;
+            const globalMax = effectiveRanges.length > 0 ? effectiveRanges[effectiveRanges.length - 1].end : 10200;
+            if (currentDisplayYear >= globalMax - 1) {
+                currentDisplayYear = effectiveRanges.length > 0 ? effectiveRanges[0].start : -999999;
             }
             lastPlayTimestamp = null;
             timelineAnimFrame = requestAnimationFrame(playTick);
@@ -329,7 +346,6 @@ function initMap() {
         }
     }
 
-    let lastPlayTimestamp = null;
     function playTick(timestamp) {
         if (!isTimelinePlaying) return;
         if (!lastPlayTimestamp) lastPlayTimestamp = timestamp;
@@ -337,25 +353,15 @@ function initMap() {
         const elapsed = timestamp - lastPlayTimestamp;
         lastPlayTimestamp = timestamp;
 
-        // Vitesse : le select donne le nb de ms par année
-        // ×1 = 50ms/an, ×10 = 10ms/an, ×100 = 2ms/an, ×1k = 0.5ms/an, ×10k = 0.1ms/an
         const speedSelect = document.getElementById('timelineSpeed');
         const msPerYear = speedSelect ? parseFloat(speedSelect.value) : 10;
         const yearsToAdd = Math.max(1, Math.round(elapsed / msPerYear));
 
         currentDisplayYear += yearsToAdd;
 
-        // Vérifier si on dépasse l'ère courante → avancer l'ère
-        const eras = timelineData.eras;
-        while (currentEraIdx < eras.length - 1 && currentDisplayYear >= (eras[currentEraIdx].endYear || Infinity)) {
-            currentEraIdx++;
-            // Ne pas recaler l'année — la laisser progresser naturellement
-        }
-
-        const maxYear = eras[eras.length - 1].endYear || 10200;
-        if (currentDisplayYear >= maxYear) {
-            currentDisplayYear = maxYear;
-            currentEraIdx = eras.length - 1;
+        const globalMax = effectiveRanges.length > 0 ? effectiveRanges[effectiveRanges.length - 1].end : 10200;
+        if (currentDisplayYear >= globalMax) {
+            currentDisplayYear = globalMax;
             isTimelinePlaying = false;
             const playBtn = document.getElementById('timelinePlayBtn');
             if (playBtn) {
@@ -364,10 +370,9 @@ function initMap() {
             }
         }
 
-        // Mettre à jour slider + carte
         const timeline = document.getElementById('timeline');
         if (timeline) {
-            timeline.value = yearToSliderInEra(currentDisplayYear, currentEraIdx);
+            timeline.value = yearToSlider(currentDisplayYear);
             updateSliderTrack(timeline);
         }
         syncMapToYear();
@@ -397,6 +402,7 @@ function initMap() {
                     return loadTimelineFromFile();
                 }
                 console.log('Timeline data loaded from Turso:', timelineData.eras.length, 'eras');
+                normalizeTimelineData();
                 initTimelineUI();
             })
             .catch(err => {
@@ -429,71 +435,87 @@ function initMap() {
             if (!era.date) era.date = formatEraDate(era.startYear, era.endYear);
         });
 
-        // 2. Construire la structure plate des continents depuis les données imbriquées
+        // 2. Compute monotonic effective ranges for the slider
+        computeEffectiveRanges();
+
+        // 3. Construire la structure plate des continents depuis les données imbriquées
+        const allNord = ['Alkaran', 'Celethor', 'Galenor', 'Ilthara', 'Cestra'];
+        const allSud = ['Onara', 'Endora', 'Azoria', 'Cendara', 'Evertia'];
+
         if (!timelineData.continents || timelineData.continents.length === 0) {
             const continentMap = {}; // currentName → { eraNames: { eraId: historicalName } }
-            timelineData.eras.forEach(era => {
+            timelineData.eras.forEach((era, eraArrayIdx) => {
                 if (!era.continents) return;
+                // First pass: add individual continent entries
                 era.continents.forEach(c => {
-                    // Gérer "Cendara+Evertia" → deux entrées
                     const names = c.currentName.split('+').map(n => n.trim());
                     names.forEach(name => {
-                        if (name === 'ALL') return; // Panghor = supercontinent, pas un continent actuel
+                        if (name === 'ALL' || name === 'ALL_NORD' || name === 'ALL_SUD') return;
                         if (!continentMap[name]) {
                             continentMap[name] = { currentName: name, eraNames: {} };
                         }
-                        // Si c'est "ALL" (Panghor), appliquer à tous les continents connus
                         continentMap[name].eraNames[era.id] = c.historicalName;
                     });
                 });
-                // Pour les continents de type Panghor (ALL), l'appliquer à tous
+                // Second pass: apply ALL, ALL_NORD, ALL_SUD
                 era.continents.forEach(c => {
+                    let targetNames = [];
                     if (c.currentName === 'ALL') {
-                        Object.keys(continentMap).forEach(name => {
-                            if (!continentMap[name].eraNames[era.id]) {
-                                continentMap[name].eraNames[era.id] = c.historicalName;
-                            }
-                        });
+                        targetNames = Object.keys(continentMap);
+                    } else if (c.currentName === 'ALL_NORD') {
+                        targetNames = allNord;
+                    } else if (c.currentName === 'ALL_SUD') {
+                        targetNames = allSud;
                     }
+                    targetNames.forEach(name => {
+                        if (!continentMap[name]) {
+                            continentMap[name] = { currentName: name, eraNames: {} };
+                        }
+                        if (!continentMap[name].eraNames[era.id]) {
+                            continentMap[name].eraNames[era.id] = c.historicalName;
+                        }
+                    });
                 });
             });
             timelineData.continents = Object.values(continentMap);
+
+            // Build yearRanges for each continent (using ORIGINAL era ranges for historical accuracy)
+            timelineData.continents.forEach(c => {
+                c.yearRanges = [];
+                Object.keys(c.eraNames).forEach(eraId => {
+                    const eraIdx = timelineData.eras.findIndex(e => e.id === eraId);
+                    if (eraIdx >= 0) {
+                        const era = timelineData.eras[eraIdx];
+                        c.yearRanges.push({
+                            startYear: era.startYear,
+                            endYear: era.endYear,
+                            name: c.eraNames[eraId],
+                            priority: eraIdx // higher = more specific
+                        });
+                    }
+                });
+                c.yearRanges.sort((a, b) => a.priority - b.priority);
+            });
+
             console.log('Built continent map:', timelineData.continents.map(c => c.currentName));
         }
 
-        // 3. Construire la structure plate des pays depuis le tableau countries du JSON
-        if (timelineData.countries && timelineData.countries.length > 0 && !timelineData.countries[0].existsInEras) {
+        // 4. Construire la structure plate des pays avec rawTimeline pour lookup par année
+        if (timelineData.countries && timelineData.countries.length > 0 && !timelineData.countries[0].rawTimeline) {
             const rawCountries = timelineData.countries;
             timelineData.countries = rawCountries
-                .filter(country => country.currentName) // ignorer les entrées sans nom
-                .map(country => {
-                    const name = country.currentName;
-                    const existsInEras = [];
-                    const eraNames = {};
-                    const predecessors = {};
-
-                    if (country.timeline) {
-                        country.timeline.forEach(entry => {
-                            if (!entry.era) return;
-                            const eraId = entry.era;
-                            if (entry.name === name) {
-                                if (!existsInEras.includes(eraId)) existsInEras.push(eraId);
-                                eraNames[eraId] = name;
-                            } else {
-                                predecessors[eraId] = entry.name;
-                            }
-                        });
-                    }
-
-                    return {
-                        name: name,
-                        continent: country.continent,
-                        existsInEras: existsInEras,
-                        vanishedInEras: [],
-                        predecessors: predecessors,
-                        eraNames: eraNames
-                    };
-                });
+                .filter(country => country.currentName)
+                .map(country => ({
+                    name: country.currentName,
+                    continent: country.continent,
+                    rawTimeline: (country.timeline || [])
+                        .filter(e => e.startYear !== undefined && e.endYear !== undefined)
+                        .map(e => ({
+                            startYear: e.startYear,
+                            endYear: e.endYear,
+                            name: e.name || country.currentName
+                        }))
+                }));
             console.log('Built country map:', timelineData.countries.length, 'countries');
         }
     }
@@ -513,23 +535,18 @@ function initMap() {
 
     function initTimelineUI() {
         const maxIdx = timelineData.eras.length - 1;
-        const sliderMax = timelineData.eras.length * SLIDER_UNITS_PER_ERA;
         const timeline = document.getElementById('timeline');
         if (timeline) {
-            timeline.max = sliderMax;
-            timeline.value = sliderMax;
+            timeline.max = SLIDER_MAX;
+            timeline.value = SLIDER_MAX;
             timeline.step = 1;
         }
         currentDisplayYear = timelineData.eras[maxIdx].endYear || 10200;
-        currentEraIdx = maxIdx;
-        lastEraIdApplied = null;
         updateTimelineDisplay(maxIdx);
         buildTimelineMarkers();
         buildTimelineLabels();
         if (timeline) updateSliderTrack(timeline);
-        updateYearDisplay();
-        updateMapForEra(timelineData.eras[maxIdx].id);
-        lastEraIdApplied = timelineData.eras[maxIdx].id;
+        syncMapToYear();
     }
 
     function updateSliderTrack(slider) {
@@ -591,12 +608,12 @@ function initMap() {
             marker.appendChild(tick);
 
             marker.addEventListener('click', function() {
-                const era = timelineData.eras[idx];
-                currentDisplayYear = era.startYear || 0;
-                currentEraIdx = idx;
+                if (effectiveRanges[idx]) {
+                    currentDisplayYear = effectiveRanges[idx].start;
+                }
                 const timeline = document.getElementById('timeline');
                 if (timeline) {
-                    timeline.value = idx * SLIDER_UNITS_PER_ERA;
+                    timeline.value = yearToSlider(currentDisplayYear);
                     updateSliderTrack(timeline);
                 }
                 syncMapToYear();
@@ -621,12 +638,12 @@ function initMap() {
             label.setAttribute('data-idx', idx);
 
             label.addEventListener('click', function() {
-                const era = timelineData.eras[idx];
-                currentDisplayYear = era.startYear || 0;
-                currentEraIdx = idx;
+                if (effectiveRanges[idx]) {
+                    currentDisplayYear = effectiveRanges[idx].start;
+                }
                 const timeline = document.getElementById('timeline');
                 if (timeline) {
-                    timeline.value = idx * SLIDER_UNITS_PER_ERA;
+                    timeline.value = yearToSlider(currentDisplayYear);
                     updateSliderTrack(timeline);
                 }
                 syncMapToYear();
@@ -680,45 +697,65 @@ function initMap() {
         updateTimelineLabelsActive(idx);
     }
 
-    // ===== SYSTEME TEMPOREL PRINCIPAL =====
+    // ===== SYSTEME TEMPOREL PRINCIPAL (YEAR-BASED) =====
 
-    function updateMapForEra(eraId) {
-        if (!timelineData) return;
-
-        currentEraId = eraId;
-        const eraIdx = timelineData.eras.findIndex(e => e.id === eraId);
-        if (eraIdx === -1) return;
-
-        // Mettre à jour l'affichage du slider
-        updateTimelineDisplay(eraIdx);
-        updateTimelineMarkerActive(eraIdx);
-
-        // Mettre à jour le slider lui-même
-        const timeline = document.getElementById('timeline');
-        if (timeline && parseInt(timeline.value) !== eraIdx) {
-            timeline.value = eraIdx;
-            updateSliderTrack(timeline);
+    // Lookup nom de continent pour une année donnée
+    function getContinentNameForYear(continentDef, year) {
+        if (!continentDef.yearRanges || continentDef.yearRanges.length === 0) {
+            return continentDef.currentName;
         }
+        // Exact match: year falls within range, highest priority wins
+        let bestMatch = null;
+        for (const range of continentDef.yearRanges) {
+            if (year >= range.startYear && year <= range.endYear) {
+                if (!bestMatch || range.priority > bestMatch.priority) {
+                    bestMatch = range;
+                }
+            }
+        }
+        if (bestMatch) return bestMatch.name;
 
-        // Mettre à jour les noms de continents
-        updateContinentNames(eraId);
-
-        // Mettre à jour la visibilité et les noms des pays
-        updateCountryVisibility(eraId);
-
-        // Recalculer la visibilité
-        updateTextVisibility();
+        // No exact match: find most recent range that started before year (highest priority)
+        let lastBefore = null;
+        for (const range of continentDef.yearRanges) {
+            if (range.endYear <= year) {
+                if (!lastBefore || range.priority > lastBefore.priority) {
+                    lastBefore = range;
+                }
+            }
+        }
+        return lastBefore ? lastBefore.name : continentDef.currentName;
     }
 
-    function updateContinentNames(eraId) {
-        if (!timelineData || !timelineData.continents) return;
+    // Lookup info pays pour une année donnée
+    function getCountryInfoForYear(countryDef, year) {
+        if (!countryDef.rawTimeline || countryDef.rawTimeline.length === 0) {
+            return { exists: false, name: countryDef.name };
+        }
+        // Find matching timeline entry (last match wins if multiple)
+        let bestMatch = null;
+        for (const entry of countryDef.rawTimeline) {
+            if (year >= entry.startYear && year <= entry.endYear) {
+                bestMatch = entry;
+            }
+        }
+        if (!bestMatch) return { exists: false, name: countryDef.name };
 
+        return {
+            exists: true,
+            name: bestMatch.name,
+            isCurrent: bestMatch.name === countryDef.name,
+            isPredecessor: bestMatch.name !== countryDef.name
+        };
+    }
+
+    function updateContinentNamesForYear(year) {
+        if (!timelineData || !timelineData.continents) return;
         const continentElements = elementStorage['continentsElements'] || [];
 
         timelineData.continents.forEach(continentDef => {
-            const eraName = continentDef.eraNames[eraId] || continentDef.currentName;
+            const name = getContinentNameForYear(continentDef, year);
 
-            // Trouver l'élément SVG correspondant au continent
             const element = continentElements.find(el =>
                 el.name && el.name.toLowerCase() === continentDef.currentName.toLowerCase()
             );
@@ -726,20 +763,17 @@ function initMap() {
             if (element && element.texts) {
                 element.texts.forEach(el => {
                     if (el.tagName === 'text') {
-                        el.textContent = eraName;
-                        // Retirer les styles d'époque précédente
+                        el.textContent = name;
                         el.removeAttribute('font-style');
                         el.style.opacity = '';
-                        el.style.transition = 'opacity 0.4s ease';
                     }
                 });
             }
         });
     }
 
-    function updateCountryVisibility(eraId) {
+    function updateCountryVisibilityForYear(year) {
         if (!timelineData || !timelineData.countries) return;
-
         const countryElements = elementStorage['paysElements'] || [];
 
         timelineData.countries.forEach(countryDef => {
@@ -747,39 +781,26 @@ function initMap() {
             const element = countryElements.find(el =>
                 el && el.name && el.name.toLowerCase() === countryDef.name.toLowerCase()
             );
-
             if (!element) return;
 
-            const existsNow = countryDef.existsInEras.includes(eraId);
-            const wasVanished = countryDef.vanishedInEras && countryDef.vanishedInEras.includes(eraId);
-            const hasPredecessor = countryDef.predecessors && countryDef.predecessors[eraId];
+            const info = getCountryInfoForYear(countryDef, year);
 
-            if (existsNow) {
-                // Le pays existe : afficher normalement avec son nom d'ère
-                const eraName = (countryDef.eraNames && countryDef.eraNames[eraId]) || countryDef.name;
+            if (info.exists && info.isCurrent) {
+                // Le pays existe sous son nom actuel
                 element._eraHidden = false;
                 element.texts.forEach(el => {
                     if (el.tagName === 'text') {
-                        el.textContent = eraName;
+                        el.textContent = info.name;
                         el.removeAttribute('font-style');
                         el.style.opacity = '';
                     }
                 });
-            } else if (wasVanished) {
-                // Pays disparu dans cette ère : italique, opacité réduite
+            } else if (info.exists && info.isPredecessor) {
+                // Prédécesseur : nom historique en italique
                 element._eraHidden = false;
                 element.texts.forEach(el => {
                     if (el.tagName === 'text') {
-                        el.setAttribute('font-style', 'italic');
-                        el.style.opacity = '0.4';
-                    }
-                });
-            } else if (hasPredecessor) {
-                // Afficher le prédécesseur à la place
-                element._eraHidden = false;
-                element.texts.forEach(el => {
-                    if (el.tagName === 'text') {
-                        el.textContent = countryDef.predecessors[eraId];
+                        el.textContent = info.name;
                         el.setAttribute('font-style', 'italic');
                         el.style.opacity = '0.7';
                     }
