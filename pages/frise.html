@@ -206,8 +206,19 @@
     font-size: 11px;
     font-weight: 600;
     color: var(--text-soft);
-    width: 160px;
+    width: 200px;
     flex-shrink: 0;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    line-height: 1.3;
+}
+.civ-bar-regime {
+    display: block;
+    font-size: 8px;
+    font-weight: 400;
+    font-style: italic;
+    color: var(--text-muted);
+    letter-spacing: 0.3px;
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
@@ -284,7 +295,7 @@
     border: 1px solid rgba(120, 78, 18, 0.28);
     border-radius: 6px;
     padding: 8px 12px;
-    max-width: 220px;
+    max-width: 260px;
     box-shadow: 0 4px 16px rgba(0,0,0,0.12);
     font-family: 'Raleway', sans-serif;
     font-size: 12px;
@@ -300,6 +311,14 @@
     color: var(--text);
     margin-bottom: 2px;
     font-size: 12.5px;
+}
+.civ-tt-reg {
+    display: block;
+    font-size: 10px;
+    font-style: italic;
+    color: var(--gold);
+    margin-bottom: 3px;
+    letter-spacing: 0.3px;
 }
 
 /* ── Timeline des événements ── */
@@ -496,7 +515,8 @@
     .frise-header { margin: 0 -18px; padding-left: 18px; padding-right: 18px; }
     .frise-legend { display: none; }
     .frise-filter-sep { display: none; }
-    .civ-bar-name { width: 110px; font-size: 10px; }
+    .civ-bar-name { width: 130px; font-size: 10px; }
+    .civ-bar-regime { font-size: 7px; }
     .civ-bar-cont { display: none; }
     .event-row.left, .event-row.right {
         flex-direction: column;
@@ -772,212 +792,212 @@ const GLOBAL = [
 
 const CIV = [
     // === 7 ANCIENS EMPIRES DE L'ÂGE DU LIEN — dead:true ===
-    {name:'Dominat de Pyrevaste', color:'#b04020', y0:318, y1:450, cont:'Cendara', dead:true, events:[
+    {name:'Dominat de Pyrevaste', color:'#b04020', y0:318, y1:450, cont:'Cendara', dead:true, reg:'Dominat militaire', events:[
         {y:330,t:'fondation',title:'Fondation militaire',desc:'Premier empire guerrier unifié de Cendara (~19 000 av.A). Légions de feu. Culte d\'Ignifex imposé.'},
         {y:400,t:'conquete',title:'Apogée impérial',desc:'Domination de 4 régions. Légions de feu. Culte d\'Ignifex imposé.'},
         {y:450,t:'disparition',title:'Effondrement dynastique',desc:'Fronde des légions. Scission en 12 cités-états.'},
     ]},
-    {name:'Théocratie de Celith', color:'#5090a0', y0:323, y1:463, cont:'Celethor', dead:true, events:[
+    {name:'Théocratie de Celith', color:'#5090a0', y0:323, y1:463, cont:'Celethor', dead:true, reg:'Théocratie', events:[
         {y:340,t:'religion',title:'Révélation des Ascendants',desc:'Les prêtres de Celith reçoivent le Lien en vision (~18 500 av.A).'},
         {y:390,t:'fondation',title:'10 Cités-temples',desc:'Reliées par réseau de Lien. Ère de sérénité.'},
         {y:463,t:'disparition',title:'Schisme des Prophètes → Dissolution',desc:'Deux interprétations du Lien. Guerre fratricide. Celethor se fragmente.'},
     ]},
-    {name:"Confédération d'Alkarath", color:'#c8a84b', y0:330, y1:500, cont:'Alkaran', dead:true, events:[
+    {name:"Confédération d'Alkarath", color:'#c8a84b', y0:330, y1:500, cont:'Alkaran', dead:true, reg:'Confédération marchande', events:[
         {y:345,t:'fondation',title:'Pacte des 7 Clans',desc:'Union marchande sous bannière commune (~18 000 av.A). Code de Pierre.'},
         {y:420,t:'exploration',title:'Routes caravanières',desc:'Réseau commercial reliant 9 continents. Âge d\'or du commerce.'},
         {y:500,t:'disparition',title:'Absorption par Solvenar',desc:'Traité humiliant. Alkarath devient province.'},
     ]},
-    {name:'Khalifat de Solvenar', color:'#a08040', y0:350, y1:540, cont:'Galenor', dead:true, events:[
+    {name:'Khalifat de Solvenar', color:'#a08040', y0:350, y1:540, cont:'Galenor', dead:true, reg:'Khalifat itinérant', events:[
         {y:365,t:'fondation',title:'Unification des tribus du vent',desc:'Solvenar le Grand fonde le Khalifat (~16 000 av.A).'},
         {y:460,t:'conquete',title:'Apogée — 6 continents tributaires',desc:'Caravanes de Lien. Sciences des étoiles.'},
         {y:540,t:'disparition',title:'Sécheresse millénaire',desc:'Galenor brûle. Khalifat abandonné. Nomadisation.'},
     ]},
-    {name:"Saint-Empire d'Endara", color:'#8060a0', y0:363, y1:575, cont:'Endora', dead:true, events:[
+    {name:"Saint-Empire d'Endara", color:'#8060a0', y0:363, y1:575, cont:'Endora', dead:true, reg:'Saint-Empire pacifique', events:[
         {y:380,t:'fondation',title:'Pax Endarina',desc:'Empire pacifique fondé par les Liés d\'Endora (~14 500 av.A).'},
         {y:475,t:'magie',title:"Âge d'Or arcanique",desc:'Magie institutionnalisée. 400 ans de paix et de prospérité.'},
         {y:575,t:'disparition',title:'Incendie de la capitale',desc:'7 cités rasées. Fin de l\'empire. Diaspora endarine.'},
     ]},
-    {name:"Songes d'Ithalorn", color:'#7050a0', y0:388, y1:622, cont:'Ilthara', dead:true, events:[
+    {name:"Songes d'Ithalorn", color:'#7050a0', y0:388, y1:622, cont:'Ilthara', dead:true, reg:'Onirocratie', events:[
         {y:405,t:'fondation',title:'Citadelles oniriques',desc:'Constructeurs de mémoire collective (~13 000 av.A). Bibliothèque de 100 000 âmes via le Lien.'},
         {y:622,t:'disparition',title:'Le Grand Oubli',desc:'Bibliothèque détruite en une nuit. Dernière Reine-Tisseuse disparaît. Ithalorn s\'effondre.'},
     ]},
-    {name:"Ligue d'Everthor", color:'#208060', y0:425, y1:720, cont:'Evertia', dead:true, events:[
+    {name:"Ligue d'Everthor", color:'#208060', y0:425, y1:720, cont:'Evertia', dead:true, reg:'Ligue maritime', events:[
         {y:440,t:'fondation',title:'Charte maritime',desc:'12 cités côtières. Loi de la mer. Paix commerciale (~11 000 av.A).'},
         {y:550,t:'exploration',title:'Cartographie mondiale',desc:'Premières cartes fidèles des 13 continents.'},
         {y:720,t:'disparition',title:'Tempête de Lien',desc:'Vague magique submerge les ports principaux. Fin de la Ligue.'},
     ]},
 
     // === 6 GRANDS EMPIRES AVANT L'ARRACHEMENT — dead:true ===
-    {name:"Hégémonie d'Aethran", color:'#d4a820', y0:768, y1:812, cont:'Galenor', dead:true, events:[
+    {name:"Hégémonie d'Aethran", color:'#d4a820', y0:768, y1:812, cont:'Galenor', dead:true, reg:'Hégémonie scientifique', events:[
         {y:773,t:'fondation',title:'Unification galenorienne',desc:'Héritiers du Khalifat. Alliance science et Lien (~1 200 av.A).'},
         {y:800,t:'disparition',title:'Dissolution — Arrachement',desc:"L'Hégémonie implose en 7h. Cités asphyxiées sans Lien."},
     ]},
-    {name:'Dominat de Pyrion', color:'#e04030', y0:770, y1:812, cont:'Ilthara', dead:true, events:[
+    {name:'Dominat de Pyrion', color:'#e04030', y0:770, y1:812, cont:'Ilthara', dead:true, reg:'Dominat guerrier', events:[
         {y:775,t:'fondation',title:'Renaissance ithalarienne',desc:'Empire guerrier, héritier des Songes (~1 100 av.A).'},
         {y:810,t:'disparition',title:'Anéanti — Arrachement',desc:'Armées dissoutes. Généraux rendus fous par la rupture.'},
     ]},
-    {name:'Empire de Lithane', color:'#c8a060', y0:772, y1:812, cont:'Alkaran', dead:true, events:[
+    {name:'Empire de Lithane', color:'#c8a060', y0:772, y1:812, cont:'Alkaran', dead:true, reg:'Confédération impériale', events:[
         {y:776,t:'fondation',title:'Confédération impériale',desc:'Commerce et Lien unis. Héritiers d\'Alkarath (~1 000 av.A).'},
         {y:810,t:'disparition',title:'Chute — Arrachement',desc:'Routes commerciales coupées. Chaos et famine.'},
     ]},
-    {name:"Sanctuaire d'Orivane", color:'#5070c0', y0:772, y1:812, cont:'Celethor', dead:true, events:[
+    {name:"Sanctuaire d'Orivane", color:'#5070c0', y0:772, y1:812, cont:'Celethor', dead:true, reg:'Théocratie bienveillante', events:[
         {y:776,t:'fondation',title:'État théocratique bienveillant',desc:'Dernier État-prêtre de Celethor. Paix intérieure (~1 000 av.A).'},
         {y:810,t:'disparition',title:'Silence des dieux',desc:"L'Arrachement. Plus aucune réponse du Lien. Les prêtres se taisent."},
     ]},
-    {name:'Thalassocratie de Navoris', color:'#3090c0', y0:775, y1:812, cont:'Azoria', dead:true, events:[
+    {name:'Thalassocratie de Navoris', color:'#3090c0', y0:775, y1:812, cont:'Azoria', dead:true, reg:'Thalassocratie', events:[
         {y:779,t:'fondation',title:"Empire maritime d'Azoria",desc:'Héritière de la Ligue d\'Everthor. Flottes de Lien (~900 av.A).'},
         {y:812,t:'disparition',title:'Naufrages spontanés',desc:'Arrachement — tous les capitaines perdent le Lien simultanément.'},
     ]},
-    {name:'Union des Flammes', color:'#e06020', y0:778, y1:810, cont:'Cendara', dead:true, events:[
+    {name:'Union des Flammes', color:'#e06020', y0:778, y1:810, cont:'Cendara', dead:true, reg:'Union dynastique', events:[
         {y:782,t:'fondation',title:'Héritiers de Pyrevaste',desc:'Ultime réunification de Cendara. 6 dynasties (~800 av.A).'},
         {y:795,t:'magie',title:'Cercle des Huit actif',desc:"L'Étudiant opère au Mont Cendra — territoire de l'Union."},
         {y:810,t:'disparition',title:"Épicentre de l'Arrachement",desc:'Mont Cendra déchire le Lien. 80% de la population en 7h.'},
     ]},
 
     // === CIVILISATIONS PERMANENTES ===
-    {name:'Nysaria', color:'#404050', y0:350, y1:3100, cont:'Nysaria', events:[
+    {name:'Nysaria', color:'#404050', y0:350, y1:3100, cont:'Nysaria', reg:'Monarchie isolée', events:[
         {y:400,t:'magie',title:'Origines mystérieuses',desc:"L'île existe. Rien n'en filtre. Même les explorateurs les plus aguerris disparaissent à l'approche."},
         {y:1700,t:'conquete',title:'Invasion avortée',desc:'40 navires de Mosrack anéantis en une nuit. Aucun survivant. Aucune explication.'},
         {y:2700,t:'dynastie',title:'Roi Sans Voix',desc:'Monarchie isolée. Cercle des Masques. Le roi ne parle jamais, ses décrets arrivent par signes.'},
         {y:2995,t:'mystere',title:'Message de Mirathi',desc:'Sphère de lumière. 3 langues superposées. "Les routes rouvrent…" (~10 064 ap.A).'},
     ]},
-    {name:'Astravia', color:'#6050a0', y0:350, y1:3100, cont:'Celethor', events:[
+    {name:'Astravia', color:'#6050a0', y0:350, y1:3100, cont:'Celethor', reg:'Archimagie — Conseil des 7', events:[
         {y:380,t:'magie',title:"Ère de l'Ascension",desc:'Civilisation céleste via aethérite — cristaux de lévitation qui permettent la construction dans les airs.'},
         {y:1620,t:'disparition',title:'Chute de Caelum Prima',desc:'La grande catastrophe magique. La cité-phare d\'Astravia s\'écrase.'},
         {y:1750,t:'fondation',title:"Ère de la Prudence",desc:'7 Archimages régissent une reconstruction méticuleuse. Plus jamais de cités volantes.'},
         {y:2900,t:'disparition',title:'Aethérite en déclin',desc:'Les réserves s\'épuisent. Une faction secrète cherche à extraire le dernier filon.'},
     ]},
-    {name:'Evertia', color:'#208040', y0:370, y1:3100, cont:'Evertia', events:[
+    {name:'Evertia', color:'#208040', y0:370, y1:3100, cont:'Evertia', reg:'Druidocratie — 13 Archidruides', events:[
         {y:400,t:'exploration',title:'Île Primordiale émerge',desc:'Spiritus et Arborius choisissent Evertia comme siège de la nature primordiale.'},
         {y:1650,t:'fondation',title:'Grand Éveil',desc:'13 Archidruides reçoivent la communion avec l\'île en 7 jours continus.'},
         {y:2940,t:'mystere',title:'Silence des Esprits',desc:'"Ils arrivent par le dessous." 200/300 esprits-lieux muets (~10 130 ap.A).'},
     ]},
-    {name:'Gryndor', color:'#806040', y0:370, y1:3100, cont:'Ilthara', events:[
+    {name:'Gryndor', color:'#806040', y0:370, y1:3100, cont:'Ilthara', reg:'Théocratie du savoir', events:[
         {y:400,t:'fondation',title:'Aldwyn le Sage',desc:'Premier centre de connaissance. Bibliothèques de cristal.'},
         {y:1800,t:'conquete',title:'Invasion et pillage',desc:'Siècle sombre. Les archives sont brûlées.'},
         {y:1950,t:'fondation',title:'Restauration',desc:'Theldryn III reconstruit les bibliothèques de mémoire.'},
         {y:3056,t:'mystere',title:'Faille — Ordavan disparaît',desc:'200 hab. en 3 min. Sol vitrifié. Faille de Tempora (~10 142 ap.A).'},
     ]},
-    {name:'Drakora', color:'#b03020', y0:370, y1:3100, cont:'Ilthara', events:[
+    {name:'Drakora', color:'#b03020', y0:370, y1:3100, cont:'Ilthara', reg:'Grand-duché militariste', events:[
         {y:420,t:'magie',title:'Lien draconique',desc:'Premiers liens humains-dragons. Pacte de coexistence.'},
         {y:1837,t:'fondation',title:"Grand-Duché fondé",desc:"Vorath Shan ouvre les portes nord de Drahk'Nor (~4 800 ap.A). La Scission du Panghor Brisé."},
         {y:2700,t:'dynastie',title:'Grand-Duc Vorath VI',desc:"Contacts discrets avec la Catena Fracta. Rival acharné de Gryndor."},
     ]},
-    {name:'Vytharia', color:'#7050a0', y0:370, y1:3100, cont:'Ilthara', events:[
+    {name:'Vytharia', color:'#7050a0', y0:370, y1:3100, cont:'Ilthara', reg:'Oniarchie — 7 Voilés', events:[
         {y:420,t:'magie',title:'Illusion Libre',desc:'Frontière rêve/réalité floue. Les Vytháriens vivent partiellement dans le monde des songes.'},
         {y:1680,t:'fondation',title:'Voile des Rêves',desc:'Vytha régule l\'illusion. 7 Voilés maintiennent la frontière.'},
         {y:2995,t:'mystere',title:"3ème langue du Message",desc:'Le Temple de Vytharia interprète comme "murmure entre dimensions" (~10 080 ap.A).'},
     ]},
-    {name:'Caeloria', color:'#5080b0', y0:370, y1:3100, cont:'Azoria', events:[
+    {name:'Caeloria', color:'#5080b0', y0:370, y1:3100, cont:'Azoria', reg:'Théocratie stellaire', events:[
         {y:400,t:'religion',title:'Ordo Caelum établi',desc:'5 Observatoires de cristal. Les prêtres-astronomes guident la navigation.'},
         {y:1650,t:'fondation',title:'Aldren le Juste',desc:'Intervention divine de Celestia. Théocratie établie.'},
         {y:2344,t:'religion',title:'Édit de Celestia',desc:'Emplois publics réservés aux Liés (~8 100 ap.A). Discrimination institutionnalisée.'},
         {y:2850,t:'magie',title:'Enfants Yeux Blancs',desc:'Naissances croissantes. Présage d\'un événement cosmique selon les prêtres.'},
     ]},
-    {name:'Cendara', color:'#b04020', y0:400, y1:3100, cont:'Cendara', events:[
+    {name:'Cendara', color:'#b04020', y0:400, y1:3100, cont:'Cendara', reg:'Pyrocratie — Roi-Pyromancien', events:[
         {y:1620,t:'fondation',title:'Ashgrim le Calciné',desc:"Cœur de Cendra découvert. L'île volcanique devient un foyer de magie ígnée."},
         {y:1850,t:'religion',title:'Ignis Aeternum',desc:'Roi-Pyromancien sacré. La magie du feu et la religion fusionnent.'},
         {y:2868,t:'mystere',title:'Cœur de Cendra pulse',desc:'1/saison → 1/semaine. Visions dans 50 lieues. Spirales de cendre.'},
     ]},
-    {name:'Altram', color:'#c8a84b', y0:380, y1:3100, cont:'Alkaran', events:[
+    {name:'Altram', color:'#c8a84b', y0:380, y1:3100, cont:'Alkaran', reg:'Monarchie éclairée', events:[
         {y:400,t:'fondation',title:'Premières forges',desc:'Clans de forgerons. La forge remplace la magie comme art suprême.'},
         {y:1046,t:'fondation',title:'Royaume de Tharnok',desc:'Hadris Tharnok. Forteresse de Pierre-Grise. 12 clans unifiés (~600 ap.A).'},
         {y:1620,t:'fondation',title:'Varnok le Forgeur',desc:'Monarchie Éclairée. Réformes sociales.'},
         {y:2455,t:'conquete',title:'Défense Porte de Fer',desc:'Repousse coalition Drakora-Gryndor. Frontières fixées (~8 800 ap.A).'},
     ]},
-    {name:'Myrtam', color:'#a04020', y0:400, y1:3100, cont:'Alkaran', events:[
+    {name:'Myrtam', color:'#a04020', y0:400, y1:3100, cont:'Alkaran', reg:'Monarchie industrielle', events:[
         {y:1650,t:'fondation',title:'Myr le Fondeur',desc:"Acier Éternel — alliage impossible à briser par les moyens normaux."},
         {y:2750,t:'dynastie',title:'Thorvald VIII',desc:'Monarchie Industrielle. Les forges de Myrtam équipent la moitié du monde.'},
     ]},
-    {name:'Ulinor', color:'#705040', y0:380, y1:3100, cont:'Ulinor', events:[
+    {name:'Ulinor', color:'#705040', y0:380, y1:3100, cont:'Ulinor', reg:'Confédération tribale', events:[
         {y:420,t:'decouverte',title:'Premiers Échos',desc:'Chant de la terre. Les habitants découvrent que les canyons conservent les voix des ancêtres.'},
         {y:1650,t:'fondation',title:'Yelthari la Muette',desc:"Écho-Guide. Communique uniquement par résonance. Confédération de 6 tribus."},
         {y:2700,t:'dynasty',title:'Mirathi Voix-d\'Ambre',desc:'Lance un avertissement secret aux nations voisines via les canaux acoustiques des canyons.'},
     ]},
 
     // === ROYAUMES DE LA GRANDE NUIT ===
-    {name:"Drahk'Nor", color:'#8b4020', y0:1089, y1:1837, cont:'Ilthara', dead:true, events:[
+    {name:"Drahk'Nor", color:'#8b4020', y0:1089, y1:1837, cont:'Ilthara', dead:true, reg:'Monarchie impériale absolue', events:[
         {y:1100,t:'fondation',title:'Drahk le Consolidateur',desc:"40 ans de campagnes. Unifie Ilthara et Endora (~800 ap.A). Possiblement Tissé lui-même."},
         {y:1350,t:'dynastie',title:'Impératrice Sera',desc:'47 ans de règne. Collège des Légats. Réformes fiscales (~1 350 ap.A).'},
         {y:1460,t:'disparition',title:'Tyrannie des Cendres',desc:"Inspecteurs de Pureté. Persécution et euthanasie des Tissés (~1 450 ap.A)."},
         {y:1837,t:'conquete',title:'Guerre du Panghor Brisé',desc:"Scission en Drakora, Gryndor, Haldria (~4 800 ap.A)."},
     ]},
-    {name:'Galenthis', color:'#a09040', y0:960, y1:1898, cont:'Galenor', dead:true, events:[
+    {name:'Galenthis', color:'#a09040', y0:960, y1:1898, cont:'Galenor', dead:true, reg:'Oligarchie marchande', events:[
         {y:990,t:'fondation',title:"Héritière d'Aethran",desc:"Successeur de l'Hégémonie. Exclue de la Convention de Gryndor."},
         {y:1600,t:'commerce',title:'Expansion économique',desc:"Routes caravanières. Carrefour commercial de Galenor (~3 500 ap.A)."},
         {y:1898,t:'conquete',title:'Guerre des Trois Couronnes',desc:"Scission en Kharazir, Ventera, Seraphia, Lumasar (~5 200 ap.A)."},
     ]},
-    {name:'Torkam', color:'#a08030', y0:980, y1:3100, cont:'Alkaran', events:[
+    {name:'Torkam', color:'#a08030', y0:980, y1:3100, cont:'Alkaran', reg:'Khanat — Grand Cham', events:[
         {y:1020,t:'conquete',title:'Âges du Sang',desc:'Guerres tribales entre 12 tribus.'},
         {y:1650,t:'fondation',title:"Zarek l'Unificateur",desc:'Grand Pacte spirituel. Fin des Âges du Sang.'},
         {y:2700,t:'dynasty',title:'Nareth la Sage',desc:'7ème Grand Cham. Diplomatie active.'},
     ]},
-    {name:'Skaldoria', color:'#607080', y0:980, y1:3100, cont:'Alkaran', events:[
+    {name:'Skaldoria', color:'#607080', y0:980, y1:3100, cont:'Alkaran', reg:'Confédération clanique', events:[
         {y:1700,t:'fondation',title:'Brenna Croc-de-Glace',desc:'Confédération des 7 clans claniques.'},
         {y:1780,t:'conquete',title:'Bataille du Fjord Gelé',desc:"Défense légendaire de Ralthyn contre l'invasion."},
     ]},
-    {name:'Mosrack', color:'#704030', y0:980, y1:3100, cont:'Onara', events:[
+    {name:'Mosrack', color:'#704030', y0:980, y1:3100, cont:'Onara', reg:'Oligarchie → Monarchie unifiée', events:[
         {y:1003,t:'fondation',title:"Le Forgon — Trois Ports",desc:"Familles Forr, Gondal, Navar. Oligarchie marchande (~400 ap.A)."},
         {y:1060,t:'commerce',title:'Premiers Deniers de Mer',desc:'Première monnaie interrégionale, 200 ans d\'avance sur les autres (~600 ap.A).'},
         {y:1600,t:'fondation',title:'Volkar le Marteau',desc:'Unifie 23 clans par combat singulier.'},
         {y:2700,t:'dynasty',title:'Volkar IX',desc:'Expansion industrielle. Négociations Brennan-Altram.'},
     ]},
-    {name:'Tyndara', color:'#4070a0', y0:1050, y1:3100, cont:'Onara', events:[
+    {name:'Tyndara', color:'#4070a0', y0:1050, y1:3100, cont:'Onara', reg:'République marchande', events:[
         {y:1680,t:'fondation',title:'Selyra la Calculatrice',desc:'Transforme les pirates en marchands. République commerciale.'},
         {y:1780,t:'alliance',title:'Ligue des Marchands',desc:'République marchande. Comptoirs sur tous les continents.'},
         {y:2720,t:'dynasty',title:'Archonte Valdris III',desc:'Prospérité record. Réseau commercial mondial.'},
     ]},
-    {name:'Elarian', color:'#405060', y0:980, y1:3100, cont:'Celethor', events:[
+    {name:'Elarian', color:'#405060', y0:980, y1:3100, cont:'Celethor', reg:'Confédération féodale', events:[
         {y:1000,t:'disparition',title:'La Longue Nuit',desc:'Hiver surnaturel de 3 ans. Quasi-extinction.'},
         {y:1650,t:'fondation',title:"Hrothgar l'Ancien",desc:'Confédération féodale. Grand Marché.'},
         {y:2680,t:'dynasty',title:'Hrothgar VII',desc:'Descendant direct en ligne non-rompue.'},
     ]},
-    {name:'Ryldor', color:'#308050', y0:1000, y1:3100, cont:'Celethor', events:[
+    {name:'Ryldor', color:'#308050', y0:1000, y1:3100, cont:'Celethor', reg:'Monarchie guérisseuse', events:[
         {y:1050,t:'disparition',title:'Le Fléau',desc:'Au bord de l\'extinction totale. 3 générations pour se relever.'},
         {y:1700,t:'fondation',title:'Ryldara guérit',desc:'Renaissance sur 3 générations de soin et de patience.'},
         {y:2950,t:'magie',title:'Myrla contrôle le Fléau',desc:'Première fois qu\'une personne contrôle la propagation du Fléau.'},
     ]},
-    {name:'Avalor', color:'#2a6030', y0:1000, y1:3100, cont:'Endora', events:[
+    {name:'Avalor', color:'#2a6030', y0:1000, y1:3100, cont:'Endora', reg:'Monarchie sylvestre', events:[
         {y:1680,t:'fondation',title:'Nyméra la Muette',desc:'7 ans d\'apprentissage dans la forêt. Pacte des Sylves.'},
         {y:1780,t:'alliance',title:'Pacte des Sylves',desc:'Alliance nature-mortels. Les esprits forestiers deviennent sujets de droit.'},
         {y:2680,t:'dynasty',title:'Feylara',desc:'Yeux saisonniers. Parle aux arbres.'},
     ]},
-    {name:'Thalmaris', color:'#806030', y0:1000, y1:3100, cont:'Endora', events:[
+    {name:'Thalmaris', color:'#806030', y0:1000, y1:3100, cont:'Endora', reg:'Monarchie artistique', events:[
         {y:1700,t:'fondation',title:'Valdren le Trouvère',desc:'30 jours de chant continu pour unifier les fragments culturels.'},
         {y:1820,t:'religion',title:'Cantus Mundi',desc:"L'art est prière. La musique comme magie."},
         {y:2700,t:'dynasty',title:'Elyndra III',desc:'Insomniaque. Prophétise en chantant.'},
     ]},
-    {name:'Kharazir', color:'#a08040', y0:1000, y1:3100, cont:'Galenor', events:[
+    {name:'Kharazir', color:'#a08040', y0:1000, y1:3100, cont:'Galenor', reg:'Fédération — Charte des 7 piliers', events:[
         {y:1700,t:'fondation',title:'Mirael Azurin',desc:'Charte des 7 piliers. Fédéralisme galenor.'},
         {y:2344,t:'religion',title:'Loi du Sol — tissu jaune',desc:'Déliés ne peuvent posséder de terre. Tissu jaune obligatoire (~8 300 ap.A).'},
         {y:2890,t:'rebellion',title:"Enfants du Vide",desc:'Clandestins. Refusent le tissu jaune. Sabotage symbolique (~9 900 ap.A).'},
     ]},
-    {name:'Lumasar', color:'#7060a0', y0:1580, y1:3100, cont:'Galenor', events:[
+    {name:'Lumasar', color:'#7060a0', y0:1580, y1:3100, cont:'Galenor', reg:'République — seule d\'Hybélior', events:[
         {y:1620,t:'fondation',title:'Âge des Académies',desc:'5 écoles fondées. Centre intellectuel de Galenor.'},
         {y:2252,t:'rebellion',title:'Révolution des Plumes',desc:"Seule véritable révolution républicaine d'Hybélior. Code de Lumasar (~7 500 ap.A)."},
         {y:2700,t:'traite',title:'Tribunal de Lumasar',desc:'1 847 décisions rendues. 17% ignorées. Consul Orath Dovan.'},
     ]},
-    {name:'Seraphia', color:'#c0a050', y0:1580, y1:3100, cont:'Galenor', events:[
+    {name:'Seraphia', color:'#c0a050', y0:1580, y1:3100, cont:'Galenor', reg:'Théocratie — Primat', events:[
         {y:1620,t:'fondation',title:'Altheus entend Cantor',desc:"Fonde Althior. L'ère des cathédrales commence."},
         {y:2700,t:'dynasty',title:'Primat Ilynara',desc:'Voix qui fleurit. Décisions ecclésiastiques mondiales.'},
     ]},
-    {name:'Ventera', color:'#5090a0', y0:1580, y1:3100, cont:'Galenor', events:[
+    {name:'Ventera', color:'#5090a0', y0:1580, y1:3100, cont:'Galenor', reg:'Monarchie élective', events:[
         {y:2000,t:'rebellion',title:'Révolte des Cavaliers',desc:'Monarchie élective instaurée. Le roi est élu par les clans.'},
         {y:2700,t:'dynasty',title:'Aldren',desc:'Élu au mérite. Cavaliers du Vent.'},
     ]},
-    {name:'Haldria', color:'#4060a0', y0:1580, y1:3100, cont:'Ilthara', events:[
+    {name:'Haldria', color:'#4060a0', y0:1580, y1:3100, cont:'Ilthara', reg:'Aristocratie marchande', events:[
         {y:1837,t:'fondation',title:'Aristocratie marchande',desc:"Guildes d'Endora → Conseil Commercial (~4 800 ap.A). Issue de l'effondrement de Drahk'Nor."},
         {y:2700,t:'dynasty',title:'Vaeldros III',desc:'Navigation. Alliance Ilthara-Endora.'},
     ]},
-    {name:'Pyrtara', color:'#c04020', y0:1580, y1:3100, cont:'Ilthara', events:[
+    {name:'Pyrtara', color:'#c04020', y0:1580, y1:3100, cont:'Ilthara', reg:'Méritocratie militaire', events:[
         {y:2206,t:'fondation',title:'Premier État séculier',desc:'Né du Schisme de Gryndor. Méritocratie militaire (~7 200 ap.A). Les Déliés peuvent être généraux.'},
         {y:2800,t:'alliance',title:'Brigade de Pyrtara',desc:"Accueille réfugiés Déliés de Kharazir et Gryndor. Tension avec Caeloria."},
     ]},
-    {name:'Baelor', color:'#706050', y0:1600, y1:3100, cont:'Baelor', events:[
+    {name:'Baelor', color:'#706050', y0:1600, y1:3100, cont:'Baelor', reg:'Théocratie monastique', events:[
         {y:1800,t:'conquete',title:'Siège des 300 jours',desc:'300 moines vs 40 000 pirates. La victoire insolite fonde la réputation de Baelor.'},
         {y:1900,t:'religion',title:'Somnium Vigil',desc:'Veille des Rêves. La vigilance comme vertu cardinale.'},
     ]},
-    {name:'Vestiges gelés', color:'#6080a0', y0:2500, y1:3100, cont:'Cestra', events:[
+    {name:'Vestiges gelés', color:'#6080a0', y0:2500, y1:3100, cont:'Cestra', reg:'Théocratie glaciaire (Noravia)', events:[
         {y:2700,t:'decouverte',title:'Noravia — colonie',desc:'Forteresse côtière. 25 000 hab. Boussoles folles au-delà de 50km.'},
         {y:2800,t:'mystere',title:'Chose sous le Glacier',desc:'Mont Jumeau couvert de glace. Structures pré-mortelles visibles de la côte.'},
         {y:2960,t:'mystere',title:'Expédition Altram stoppée',desc:'"Effondrement inhabituel." Tunnels dans Cestra. Archives classifiées (~10 050 ap.A).'},
@@ -1017,7 +1037,7 @@ const civTooltip = document.getElementById('civ-tooltip');
 function showCivTooltip(e, civ) {
     const y0Date = yToDateLabel(civ.y0);
     const y1Date = civ.dead ? yToDateLabel(civ.y1) : null;
-    civTooltip.innerHTML = `<strong>${civ.name}</strong>${civ.cont} · ${y0Date}${y1Date ? ` → ${y1Date}` : ' → présent'}${civ.dead ? ' ✝' : ''}`;
+    civTooltip.innerHTML = `<strong>${civ.name}</strong>${civ.reg ? `<span class="civ-tt-reg">${civ.reg}</span>` : ''}${civ.cont} · ${y0Date}${y1Date ? ` → ${y1Date}` : ' → présent'}${civ.dead ? ' ✝' : ''}`;
     civTooltip.classList.add('visible');
     moveCivTooltip(e);
 }
@@ -1147,8 +1167,9 @@ function renderCivBars(era, civs) {
         const pulse = isAlive ? `<span class="civ-bar-pulse" style="background:${civ.color}"></span>` : '';
         const deadIcon = isDead && civ.dead ? '<span class="civ-dead-icon">✝</span>' : '';
 
+        const regTag = civ.reg ? `<span class="civ-bar-regime">${civ.reg}</span>` : '';
         html += `<div class="civ-bar-row">
-            <div class="civ-bar-name" title="${civ.name}">${civ.name}</div>
+            <div class="civ-bar-name" title="${civ.name}${civ.reg ? ' — '+civ.reg : ''}">${civ.name}${regTag}</div>
             <div class="civ-bar-track"
                  onmouseenter="showCivTooltip(event, ${JSON.stringify(civ).replace(/"/g, '&quot;')})"
                  onmouseleave="hideCivTooltip()"
