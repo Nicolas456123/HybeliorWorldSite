@@ -1876,7 +1876,7 @@ function renderFrise() {
         html += `<div class="era-section" id="era-${era.id}">
             <div class="era-banner" style="background:${era.bg};border:1px solid rgba(0,0,0,0.06);">
                 <div class="era-banner-num">Ère ${era.num}</div>
-                <div class="era-banner-name" style="color:${era.accent}">${era.name}</div>
+                <div class="era-banner-name" id="era-heading-${era.id}" style="color:${era.accent}">${era.name}</div>
                 <div class="era-banner-dates">${era.dates}</div>
                 <div class="era-banner-desc">${era.desc}</div>
             </div>`;
@@ -1965,4 +1965,11 @@ renderEraNav();
 renderLegend();
 renderFrise();
 setupEraObserver();
+
+// Reconstruire le TOC après rendu dynamique
+if (window.SidebarTOC) {
+    const sidebar = document.getElementById('site-sidebar');
+    const content = document.querySelector('.page-content');
+    if (sidebar && content) SidebarTOC.build(sidebar, content);
+}
 </script>

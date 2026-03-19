@@ -115,7 +115,7 @@ const SidebarTOC = {
         if (!tocList) return;
 
         // Collecter les titres h2 et h3
-        const headings = Array.from(contentEl.querySelectorAll('h2[id], h3[id], [id].section-header'));
+        const headings = Array.from(contentEl.querySelectorAll('h2[id], h3[id], [id].section-header, .era-banner-name[id]'));
 
         // Fallback : si aucun id, chercher tous les h2/h3 et leur en assigner
         if (headings.length === 0) {
