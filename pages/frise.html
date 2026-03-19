@@ -118,13 +118,20 @@ const DATE_TICKS = [
     {y:775, label:'~1 000 av.A', key:false},
     {y:800, label:'⚡ An 0',      key:true},
     {y:960, label:'~200 ap.A',   key:false},
+    {y:1090,label:'~800 ap.A',   key:false},
     {y:1200,label:'~1 500 ap.A', key:false},
+    {y:1400,label:'~2 200 ap.A', key:false},
     {y:1560,label:'~3 000 ap.A', key:true},
-    {y:1800,label:'~4 500 ap.A', key:false},
-    {y:2100,label:'~6 000 ap.A', key:false},
+    {y:1720,label:'~4 000 ap.A', key:false},
+    {y:1840,label:'~4 800 ap.A', key:false},
+    {y:1900,label:'~5 200 ap.A', key:false},
+    {y:2100,label:'~6 500 ap.A', key:false},
+    {y:2250,label:'~7 500 ap.A', key:false},
     {y:2400,label:'~8 500 ap.A', key:false},
     {y:2560,label:'~9 500 ap.A', key:true},
-    {y:2800,label:'~10 000 ap.A',key:false},
+    {y:2700,label:'~9 700 ap.A', key:false},
+    {y:2870,label:'~9 900 ap.A', key:false},
+    {y:3000,label:'~10 070 ap.A',key:false},
     {y:3100,label:'~10 200 ap.A',key:true},
 ];
 const TOTAL_H = 3160;
@@ -143,37 +150,80 @@ const TYPES = {
     alliance:    { c:'#3a7a4a', l:'Alliance' },
     dynastie:    { c:'#b08020', l:'Dynastie' },
     exploration: { c:'#3080a0', l:'Exploration' },
+    catastrophe: { c:'#8b0000', l:'Catastrophe' },
+    commerce:    { c:'#4a8060', l:'Commerce' },
+    traite:      { c:'#2060a0', l:'Traité' },
+    mystere:     { c:'#604080', l:'Mystère' },
 };
 
 const GLOBAL = [
-    // Ères Primordiales
+    // ═══ Ères Primordiales ═══
     { y:40,  t:'magie',      title:'Résonance Primordiale',       desc:'Dans le Vide — la première vibration. Rien ne précède.' },
     { y:65,  t:'magie',      title:'5 Éternels émergent',         desc:'Celestia, Noctis, Tempora, Eldoria, Navigor — en cascade.' },
     { y:95,  t:'magie',      title:'12 Cosmiques en 4 phases',    desc:'Terranu, Aquor, Aerion, Flamara, Arborius, Spiritus, Transitum…' },
     { y:125, t:'magie',      title:'45 Éthérés s\'installent',    desc:'Gelion (Cestra), Ignifex (Cendara), Venturis (Galenor), Coralis (Azoria)…' },
     { y:148, t:'magie',      title:'La Fracture du Panghor',      desc:'Supercontinent → 3 phases → 13 continents. L\'Océan Primordial sépare.' },
-    // Éveil des Mortels
+    // ═══ Éveil des Mortels ═══
     { y:162, t:'decouverte', title:'Premiers mortels — 5 Berceaux',desc:'Flamme/Cendara, Pierre/Alkaran, Vent/Galenor, Brume/Celethor, Eau/Azoria.' },
+    { y:178, t:'decouverte', title:'Varak la Brûlante — 1er nom de l\'Histoire', desc:'~43 000 av.A — Découvre que le métal répond à la voix.', dl:2 },
     { y:198, t:'exploration',title:'5 Proto-empires',             desc:'Ornakh-Vael, Moldra-Garak, Velkoran, Sylvarin, Thalorak.' },
-    { y:238, t:'conquete',   title:'⚠ GRAND GEL — 1ère quasi-extinction',desc:'~30 000 av.A — Climata. Nadir : ~4 000 âmes. 90%+ perdus.' },
+    { y:238, t:'catastrophe',title:'⚠ GRAND GEL — 1ère quasi-extinction',desc:'~30 000 av.A — Climata. 80% de la population disparaît.' },
+    { y:270, t:'catastrophe',title:'Nadir du Gel — 12 300 âmes', desc:'~29 000 av.A — Point le plus bas. 5 000 ans de glaciation.', dl:2 },
     { y:280, t:'decouverte', title:'Reconstruction — peuples hybrides',desc:'~25 000 av.A — Ponts de glace. Premières rencontres entre continents.' },
-    // Âge du Lien
+    // ═══ Âge du Lien ═══
     { y:312, t:'magie',      title:'Orvane, Khatun, Ildaran',     desc:'~20 000 av.A — 3 individus découvrent le Lien indépendamment.' },
-    { y:435, t:'religion',   title:'Les 9 Grandes Religions',     desc:'Ignis Aeternum, Vael\'Kurash, Rota Mundi, Noctari, Ordo Caelum…' },
-    { y:618, t:'exploration',title:'Re-consolidation impériale',  desc:'~3 000 av.A — Royaumes fragmentés fusionnent en 6 grands empires.' },
-    // Graines de la Chute
-    { y:778, t:'religion',   title:'Verithan — Traité du Vide',   desc:'~1 000 av.A — "Le Lien est une chaîne." Fonde les Verithani.' },
-    { y:795, t:'magie',      title:'L\'Étudiant — Cercle des Huit',desc:'~30 av.A — Héritier de Verithan. 8 disciples. Mont Cendra choisi.' },
-    // L'Arrachement
-    { y:816, t:'magie',      title:'⚡ RUPTURE COSMIQUE — An 0',  desc:'L\'Étudiant sectionne son Noeud au Mont Cendra. Propagation en 7h.' },
-    { y:843, t:'disparition',title:'Navigor disparaît',           desc:'Chemins entre dimensions fermés. Les âmes des morts n\'ont plus de guide.' },
-    { y:868, t:'magie',      title:'Eldoria s\'endort',           desc:'Grand Sommeil. Plus aucune étoile nouvelle ne naîtra jamais.' },
+    { y:350, t:'fondation',  title:'3 écoles du Lien fondées', desc:'Clairière des Fils (Celethor), Guilde du Souffle (Cendara), Congrégation (Alkaran).', dl:2 },
+    { y:412, t:'conquete',   title:'Guerre des Deux Lumières — 40 ans', desc:'Pyrevaste vs Celith. Arbitrée par la Confédération d\'Alkarath.', dl:2 },
+    { y:435, t:'religion',   title:'Les 9 Grandes Religions',     desc:'Ignis Aeternum, Vael\'Kurash, Rota Mundi, Noctari, Ordo Caelum, Via Ventus, Lex Petra, Somnium Vigil, Foedus Animae.' },
+    { y:480, t:'fondation',  title:'Code de Pierre — premier droit écrit', desc:'Confédération d\'Alkarath. 400 articles. Base juridique jusqu\'à l\'Ère VII.', dl:2 },
+    { y:520, t:'religion',   title:'Schisme du Lien — 200 ans de rupture', desc:'4 empires s\'affrontent sur la définition officielle du Lien.', dl:2 },
+    { y:560, t:'alliance',   title:'Alliance Endara-Khalifat', desc:'Mariage de Lyrana et Khar le Venteux. 50 ans de paix. Bibliothèque d\'Endara (40 000 rouleaux).', dl:2 },
+    { y:600, t:'disparition',title:'Mort-de-Rêve — chute d\'Ithalorn', desc:'9 des 13 dirigeants meurent dans un cauchemar partagé. Nysaria se sépare.', dl:2 },
+    { y:618, t:'exploration',title:'Re-consolidation — 6 grands empires', desc:'~3 000 av.A — Hégémonie d\'Aethran, Dominat de Pyrion, Empire de Lithane, Sanctuaire d\'Orivane, Thalassocratie de Navoris, Union des Flammes.' },
+    { y:700, t:'decouverte', title:'Âge d\'Or — 120M hab, 7 cités volantes', desc:'200+ portails, 9 académies. Mortalité infantile 12%. Espérance de vie 65-90 ans.', dl:2 },
+    // ═══ Graines de la Chute ═══
+    { y:778, t:'religion',   title:'Verithan — Traité du Vide',   desc:'~1 000 av.A — "Le Lien est une chaîne." 5 thèses. Fonde les Verithani.' },
+    { y:795, t:'magie',      title:'L\'Étudiant — Cercle des Huit',desc:'~30 av.A — Héritier de Verithan. 8 disciples de 5 nations. Mont Cendra choisi.' },
+    // ═══ L'Arrachement ═══
+    { y:816, t:'catastrophe',title:'⚡ RUPTURE COSMIQUE — An 0',  desc:'L\'Étudiant sectionne son Nœud au Mont Cendra à l\'aube. Propagation en 7h sur tout Hybélior.' },
+    { y:830, t:'catastrophe',title:'7 cités volantes s\'écrasent en 7h', desc:'Cendal\'Horun (800m), Lithanel Haute (1200m), Pyranel, Althanar, Orivane Haute (1500m), Endral Flottant, Navoris Céleste.', dl:2 },
+    { y:843, t:'disparition',title:'Navigor disparaît',           desc:'Chemins entre dimensions fermés. Les âmes des morts n\'ont plus de guide. Transitum seul.' },
+    { y:855, t:'catastrophe',title:'Navoria engloutie — 200 000 morts', desc:'Thalassocratie de Navoris. 3 jours. 400 000 habitants. Ruines à 40m de profondeur.', dl:2 },
+    { y:868, t:'magie',      title:'Eldoria s\'endort',           desc:'Grand Sommeil. Plus aucune étoile nouvelle ne naîtra. Monde sur ses réserves.' },
     { y:892, t:'magie',      title:'Tempora blessé — Failles',    desc:'Discontinuités temporelles permanentes. Passé/présent/futur se mélangent.' },
-    // Grande Nuit
-    { y:975, t:'disparition',title:'Semaine Noire',               desc:'An 0 — 120M → 25M en 50 ans. Famines, épidémies, effondrements.' },
+    { y:930, t:'catastrophe',title:'Famines et épidémies mondiales', desc:'An 1-10. Première épidémie : ~8M morts. Famines : ~20M morts. Effondrement total.', dl:2 },
+    // ═══ Grande Nuit ═══
+    { y:975, t:'disparition',title:'Semaine Noire — 120M → 25M',  desc:'An 0-50. Famines, épidémies, effondrements. 75% de pertes sur 3 000 ans.' },
+    { y:1010,t:'fondation',  title:'Seigneurs de Forge — premiers féodaux', desc:'Domaines de 5 000-20 000 personnes. Premiers codes de survie (~50 ap.A).', dl:2 },
+    { y:1050,t:'fondation',  title:'Le Forgon — Pacte des Trois Ports', desc:'Familles Forr, Gondal, Navar. Première monnaie interrégionale (~400 ap.A).', dl:2 },
+    { y:1089,t:'fondation',  title:'Drahk le Consolidateur fonde Drahk\'Nor', desc:'40 ans de campagnes. Unifie Ilthara et Endora (~800 ap.A).', dl:2 },
     { y:1155,t:'conquete',   title:'Grand Schisme Religieux',     desc:'~1 000 ap.A — Fidèles vs Abandonnés vs Accusateurs.' },
-    { y:1195,t:'magie',      title:'⚠ FLÉAU DES FAILLES — 3ème quasi-extinction',desc:'~1 500 ap.A — Failles mobiles + épidémie mystique. 40M → 15M.' },
-    { y:1345,t:'magie',      title:'Les Déliés se multiplient',   desc:'Mortels coupés du Lien volontairement. Corrompus. Dangereux.' },
+    { y:1195,t:'catastrophe',title:'⚠ FLÉAU DES FAILLES — 3ème quasi-extinction',desc:'~1 500 ap.A — Failles temporelles mobiles + épidémie mystique. Population réduite de 40%.' },
+    { y:1345,t:'magie',      title:'Les Tissés persécutés',       desc:'~1 400-1 600 ap.A — Culte des Mangeurs de Temps. Inspecteurs de Pureté de Drahk\'Nor.' },
+    { y:1420,t:'conquete',   title:'Tyrannie des Cendres — Drahk\'Nor', desc:'~1 450-1 600 ap.A. Période la plus sombre. Euthanasie des Tissés.', dl:2 },
+    { y:1540,t:'traite',     title:'Convention de Gryndor', desc:'~2 950 ap.A — Premier accord inter-empires depuis l\'Arrachement. Routes communes, arbitrage.', dl:2 },
+    // ═══ Ère des Nations ═══
+    { y:1600,t:'commerce',   title:'Routes commerciales continentales', desc:'Route de l\'Épine (N-S), Route des Quatre Mers (maritime), Voie des Sommets.', dl:2 },
+    { y:1660,t:'commerce',   title:'Premières monnaies standardisées', desc:'Altram forge les premières pièces calibrées (~4 200 ap.A).', dl:2 },
+    { y:1837,t:'conquete',   title:'⚔ Guerre du Panghor Brisé',  desc:'~4 800 ap.A — Drahk\'Nor s\'effondre → Drakora, Gryndor, Haldria naissent.' },
+    { y:1898,t:'conquete',   title:'⚔ Guerre des Trois Couronnes', desc:'~5 200 ap.A — Galenthis s\'effondre → Kharazir, Ventera, Seraphia, Lumasar.' },
+    { y:1975,t:'conquete',   title:'⚔ Guerre des Détroits', desc:'~5 700 ap.A — Mosrack vs coalition (Tyndara, Haldria, Caeloria). Premières lois maritimes.', dl:2 },
+    { y:2021,t:'conquete',   title:'⚔ Guerre des Dieux Sourds', desc:'~6 000 ap.A — Gryndor vs Drakora. Conflit religieux vs séculier.', dl:2 },
+    { y:2098,t:'conquete',   title:'⚔ Schismes d\'Endora — guerres religieuses', desc:'~6 500 ap.A — Haldria interne → Avalor et Sanvara se séparent.', dl:2 },
+    { y:2160,t:'conquete',   title:'⚔ Guerre des Cinq Vents', desc:'~6 900 ap.A — Conflit entre puissances galenoriennes.', dl:2 },
+    { y:2206,t:'conquete',   title:'⚔ Guerre de l\'Ombre (ancienne)', desc:'~7 200 ap.A — Schisme de Gryndor → naissance de Pyrtara, premier État séculier.', dl:2 },
+    { y:2252,t:'rebellion',  title:'Révolution des Plumes — Lumasar', desc:'~7 500 ap.A — Seule république formelle d\'Hybélior. Code de Lumasar.', dl:2 },
+    { y:2350,t:'commerce',   title:'Étalon Métallique de Lumasar', desc:'~7 000 ap.A — 40+ nations adoptent le standard (arkhen). La Plume, le Marteau, la Forge.', dl:2 },
+    { y:2455,t:'conquete',   title:'Défense de la Porte de Fer — Altram', desc:'~8 800 ap.A — Repousse coalition Drakora-Gryndor. Frontières d\'Alkaran fixées.', dl:2 },
+    // ═══ Ère Actuelle ═══
+    { y:2570,t:'traite',     title:'Traité des Treize Continents', desc:'~9 500 ap.A — 64/71 nations signent. 12 ans de négociation. Fin de l\'Ère VI.' },
+    { y:2680,t:'decouverte', title:'Presse à caractères mobiles — Lumasar', desc:'~9 200 ap.A — Livres accessibles. Bulletins quotidiens. Démocratisation du savoir.', dl:2 },
+    { y:2753,t:'rebellion',  title:'Catena Fracta — premiers rapports', desc:'~9 750 ap.A — "Le Lien est une domination." Héritiers radicaux de Verithan. Cellules clandestines.', dl:2 },
+    { y:2830,t:'conquete',   title:'Guerre de l\'Ombre — assassinats ciblés', desc:'~9 850+ — 8 assassinats de figures pro-Lien. Aucune revendication. Limites du Traité testées.', dl:2 },
+    { y:2868,t:'mystere',    title:'⚠ Cœur de Cendra pulse', desc:'~9 900 ap.A — Pulsations accélèrent (1/saison → 1/semaine). Visions chez les Liés. Animaux fuient.' },
+    { y:2940,t:'mystere',    title:'Silence des Esprits d\'Evertia', desc:'200/300 esprits-lieux muets. Dernier message (~10 130) : "Ils arrivent par le dessous."' },
+    { y:2995,t:'mystere',    title:'Message de Mirathi — 3 langues', desc:'~10 064 ap.A — Sphère de lumière. "Les routes rouvrent… le guide revient par les marges."' },
+    { y:3056,t:'catastrophe',title:'⚠ Faille de Gryndor — Ordavan', desc:'~10 142 ap.A — Village de 200 hab. disparaît en 3 min. Cercle de sol vitrifié. Faille de Tempora.' },
 ];
 
 /* Civilizations — each is an independent branch */
@@ -269,6 +319,7 @@ const CIV = [
     {y:1700,t:'conquete',title:'Invasion Avortée',desc:'40 navires anéantis en une nuit.'},
     {y:2700,t:'dynastie',title:'Roi Sans Voix',desc:'Monarchie isolée. Cercle des Masques.'},
     {y:2850,t:'magie',title:'Brumes noires',desc:'L\'île change de forme.'},
+    {y:2995,t:'mystere',title:'Message de Mirathi',desc:'Sphère de lumière. 3 langues superposées. "Les routes rouvrent…" (~10 064 ap.A).'},
   ]},
   {name:'Astravia',    color:'#6050a0', y0:350, y1:3100, cont:'Celethor', segments:[
     {y0:350,y1:800,w:1.4},{y0:800,y1:1620,w:0.7},{y0:1620,y1:1750,w:0.3},{y0:1750,y1:3100,w:0.8}
@@ -291,6 +342,7 @@ const CIV = [
     {y:1650,t:'fondation',title:'Grand Éveil',desc:'13 Archidruides, 7 jours.'},
     {y:1800,t:'magie',title:'Île vivante',desc:'Volonté propre.'},
     {y:2680,t:'dynastie',title:'Vaelyndra III',desc:'Monarchie Druidique.'},
+    {y:2940,t:'mystere',title:'Silence des Esprits',desc:'"Ils arrivent par le dessous." 200/300 esprits-lieux muets (~10 130 ap.A).'},
   ]},
   {name:'Gryndor',     color:'#806040', y0:370, y1:3100, cont:'Ilthara', segments:[
     {y0:370,y1:1800,w:0.8},{y0:1800,y1:1950,w:0.3},{y0:1950,y1:3100,w:1}
@@ -300,17 +352,20 @@ const CIV = [
     {y:1800,t:'conquete',title:'Invasion et pillage',desc:'Siècle sombre.'},
     {y:1950,t:'fondation',title:'Restauration',desc:'Theldryn III reconstruit.'},
     {y:2700,t:'dynastie',title:'Roi Vaelorn V',desc:'Méritocratie du savoir.'},
+    {y:3056,t:'mystere',title:'Faille — Ordavan disparaît',desc:'200 hab. en 3 min. Sol vitrifié. Faille de Tempora (~10 142 ap.A).'},
   ]},
   {name:'Drakora',     color:'#b03020', y0:370, y1:3100, cont:'Ilthara', events:[
     {y:420,t:'magie',title:'Lien draconique',desc:'Premiers liens humains-dragons.'},
     {y:1650,t:'conquete',title:'Grande Chasse au Dragon',desc:'Désastre.'},
     {y:1800,t:'alliance',title:'Traité avec dragons',desc:'Coexistence.'},
-    {y:2700,t:'dynastie',title:'Reine Syraeth',desc:'Monarchie draconique.'},
+    {y:1837,t:'fondation',title:'Grand-Duché fondé',desc:'Vorath Shan ouvre les portes nord de Drahk\'Nor (~4 800 ap.A).'},
+    {y:2700,t:'dynastie',title:'Grand-Duc Vorath VI',desc:'Contacts discrets avec la Catena Fracta. Rival de Gryndor.'},
   ]},
   {name:'Vytharia',    color:'#7050a0', y0:370, y1:3100, cont:'Ilthara', events:[
     {y:420,t:'magie',title:'Illusion Libre',desc:'Chaos. Frontière rêve/réalité.'},
     {y:1680,t:'fondation',title:'Voile des Rêves',desc:'Vytha régule. 7 Voilés.'},
     {y:2800,t:'magie',title:'Voile s\'amincit',desc:'Fragile.'},
+    {y:2995,t:'mystere',title:'3ème langue du Message',desc:'Temple interprète comme "murmure entre dimensions" (~10 080 ap.A).'},
   ]},
   {name:'Caeloria',    color:'#5080b0', y0:370, y1:3100, cont:'Azoria', segments:[
     {y0:370,y1:1650,w:0.6},{y0:1650,y1:2200,w:1.2},{y0:2200,y1:3100,w:1}
@@ -320,8 +375,10 @@ const CIV = [
     {y:1720,t:'magie',title:'Intervention Divine',desc:'Théocratie.'},
     {y:1850,t:'decouverte',title:'Cités des Anciens',desc:'Ruines sous les glaces.'},
     {y:2050,t:'decouverte',title:'Stellarite',desc:'Métal bleu inaltérable.'},
+    {y:2344,t:'religion',title:'Édit de Celestia',desc:'Emplois publics réservés aux Liés (~8 100 ap.A).'},
     {y:2650,t:'dynastie',title:'Haute-Prêtresse Velmira',desc:'Yeux bleus divins.'},
     {y:2850,t:'magie',title:'Enfants Yeux Blancs',desc:'Naissances croissantes.'},
+    {y:2700,t:'traite',title:'Ordre des Voix',desc:'Traducteurs diplomatiques. Archives de 60 nations. Neutralité active.'},
   ]},
   {name:'Cendara',     color:'#b04020', y0:400, y1:3100, cont:'Cendara', segments:[
     {y0:400,y1:1620,w:0.5},{y0:1620,y1:2400,w:1.3},{y0:2400,y1:3100,w:1}
@@ -331,17 +388,21 @@ const CIV = [
     {y:1720,t:'magie',title:'Cœur de Cendra',desc:'Magma qui bat.'},
     {y:1850,t:'religion',title:'Ignis Aeternum',desc:'Roi-Pyromancien.'},
     {y:2650,t:'dynastie',title:'Pyranthus IV',desc:'Mystique.'},
-    {y:2750,t:'disparition',title:'Phénix en déclin',desc:'Aucun nid en 10 ans.'},
-    {y:2850,t:'magie',title:'Pulsations',desc:'Le Cœur accélère.'},
+    {y:2750,t:'disparition',title:'Phénix en déclin',desc:'Aucun nid en 10 ans. Moins de 40 certifiés au monde.'},
+    {y:2850,t:'mystere',title:'Cœur de Cendra pulse',desc:'1/saison → 1/semaine. Visions dans 50 lieues. Spirales de cendre.'},
+    {y:2950,t:'mystere',title:'Animaux fuient la zone',desc:'Rayon de 50 lieues inhabitable pour la faune (~10 050 ap.A).'},
   ]},
   {name:'Altram',      color:'#c8a84b', y0:380, y1:3100, cont:'Alkaran', segments:[
     {y0:380,y1:1600,w:0.6},{y0:1600,y1:2100,w:1.3},{y0:2100,y1:2700,w:1},{y0:2700,y1:3100,w:0.8}
   ], events:[
     {y:400,t:'fondation',title:'Premières forges',desc:'Clans de forgerons.'},
+    {y:1046,t:'fondation',title:'Royaume de Tharnok',desc:'Hadris Tharnok. Forteresse de Pierre-Grise. 12 clans unifiés (~600 ap.A).'},
+    {y:1180,t:'decouverte',title:'Grande Stèle d\'Alkaran',desc:'Orven la Gravée. 8m x 3m. Chef-d\'œuvre mémoriel (~1 200 ap.A).'},
     {y:1620,t:'fondation',title:'Varnok le Forgeur',desc:'Monarchie Éclairée.'},
     {y:1800,t:'dynastie',title:'Korvath III tyran',desc:'Opprime les artisans.'},
     {y:1900,t:'rebellion',title:'Rébellion des Forgerons',desc:'Theron l\'Enclume.'},
     {y:2100,t:'decouverte',title:'Veine Noire',desc:'Métal imperméable.'},
+    {y:2455,t:'conquete',title:'Défense Porte de Fer',desc:'Repousse coalition Drakora-Gryndor. Frontières fixées (~8 800 ap.A).'},
     {y:2700,t:'dynastie',title:'Aldric IV',desc:'Négociations Brennan-Mosrack.'},
   ]},
   {name:'Myrtam',      color:'#a04020', y0:400, y1:3100, cont:'Alkaran', segments:[
@@ -359,6 +420,24 @@ const CIV = [
     {y:1780,t:'alliance',title:'Confédération 6 tribus',desc:'Protéger les ruines.'},
     {y:1850,t:'religion',title:'Foedus Animae',desc:'Voix du Canyon.'},
     {y:2700,t:'dynastie',title:'Mirathi Voix-d\'Ambre',desc:'Avertissement secret.'},
+  ]},
+  // === ROYAUMES INTERMÉDIAIRES (Grande Nuit → Ère des Nations) ===
+  {name:'Drahk\'Nor', color:'#8b4020', y0:1089, y1:1837, cont:'Ilthara', dead:true, segments:[
+    {y0:1089,y1:1200,w:0.6},{y0:1200,y1:1600,w:1.5},{y0:1600,y1:1837,w:1.2}
+  ], events:[
+    {y:1100,t:'fondation',title:'Drahk le Consolidateur',desc:'40 ans de campagnes. Unifie Ilthara et Endora (~800 ap.A). Possiblement Tissé.'},
+    {y:1200,t:'conquete',title:'Manifeste de Pyros',desc:'Doctrine impériale. Conservé à Gryndor (~1 000 ap.A).'},
+    {y:1350,t:'dynastie',title:'Impératrice Sera',desc:'47 ans de règne. Collège des Légats. Réformes fiscales (~1 350 ap.A).'},
+    {y:1460,t:'disparition',title:'Tyrannie des Cendres',desc:'Inspecteurs de Pureté. Persécution et euthanasie des Tissés (~1 450 ap.A).'},
+    {y:1540,t:'traite',title:'Convention de Gryndor',desc:'Premier accord inter-empires. Routes communes, arbitrage frontalier (~2 950 ap.A).'},
+    {y:1837,t:'conquete',title:'Guerre du Panghor Brisé',desc:'Scission en Drakora, Gryndor, Haldria (~4 800 ap.A).'},
+  ]},
+  {name:'Galenthis', color:'#a09040', y0:960, y1:1898, cont:'Galenor', dead:true, segments:[
+    {y0:960,y1:1200,w:0.4},{y0:1200,y1:1560,w:0.8},{y0:1560,y1:1898,w:1.2}
+  ], events:[
+    {y:990,t:'fondation',title:'Héritière d\'Aethran',desc:'Successeur de l\'Hégémonie. Exclue de la Convention de Gryndor.'},
+    {y:1600,t:'commerce',title:'Expansion économique',desc:'Routes caravanières. Carrefour commercial de Galenor (~3 500 ap.A).'},
+    {y:1898,t:'conquete',title:'Guerre des Trois Couronnes',desc:'Scission en Kharazir, Ventera, Seraphia, Lumasar (~5 200 ap.A).'},
   ]},
   // Grande Nuit births
   {name:'Torkam',      color:'#a08030', y0:980, y1:3100, cont:'Alkaran', segments:[
@@ -379,7 +458,10 @@ const CIV = [
   {name:'Mosrack',     color:'#704030', y0:980, y1:3100, cont:'Onara', segments:[
     {y0:980,y1:1600,w:0.5},{y0:1600,y1:1900,w:1.5},{y0:1900,y1:2500,w:1.2},{y0:2500,y1:3100,w:1}
   ], events:[
+    {y:1003,t:'fondation',title:'Le Forgon — Trois Ports',desc:'Familles Forr, Gondal, Navar. Oligarchie marchande (~400 ap.A).'},
     {y:1020,t:'conquete',title:'Forgerons-guerriers',desc:'Que des pauses entre guerres.'},
+    {y:1060,t:'commerce',title:'Premiers Deniers de Mer',desc:'Première monnaie interrégionale, 200 ans d\'avance (~600 ap.A).'},
+    {y:1350,t:'exploration',title:'Ysolde Navar — Navoria',desc:'Première plongée documentée vers les ruines englouties (~950 ap.A).'},
     {y:1600,t:'fondation',title:'Volkar le Marteau',desc:'23 clans par combat singulier.'},
     {y:1750,t:'conquete',title:'Guerre des Cent-Jours',desc:'Coalition écrasée. Volkar meurt.'},
     {y:1830,t:'decouverte',title:'Machines de guerre',desc:'Catapultes, chariots.'},
@@ -429,7 +511,9 @@ const CIV = [
     {y:1200,t:'conquete',title:'Querelle Plaines Dorées',desc:'1 mois > 50 ans.'},
     {y:1700,t:'fondation',title:'Mirael Azurin',desc:'Charte. 7 piliers.'},
     {y:1780,t:'alliance',title:'Charte de Kharazir',desc:'Fédéralisme.'},
+    {y:2344,t:'religion',title:'Loi du Sol — tissu jaune',desc:'Déliés ne peuvent posséder de terre. Tissu jaune obligatoire (~8 300 ap.A).'},
     {y:2700,t:'dynastie',title:'Selvina',desc:'Médiatrice.'},
+    {y:2890,t:'rebellion',title:'Enfants du Vide',desc:'Clandestin. Refusent le tissu jaune. Sabotage symbolique (~9 900 ap.A).'},
   ]},
   {name:'Valoria',     color:'#904040', y0:1000, y1:3100, cont:'Galenor', events:[
     {y:1050,t:'conquete',title:'Guerres des Clans',desc:'Conflits internes.'},
@@ -464,6 +548,9 @@ const CIV = [
     {y:1620,t:'fondation',title:'Âge Académies',desc:'5 écoles.'},
     {y:1850,t:'magie',title:'Grande Éclipse',desc:'Catastrophe.'},
     {y:1950,t:'alliance',title:'Lois de Prudence',desc:'Réglementation.'},
+    {y:2252,t:'rebellion',title:'Révolution des Plumes',desc:'Seule république formelle d\'Hybélior. Code de Lumasar (~7 500 ap.A).'},
+    {y:2550,t:'commerce',title:'Étalon Métallique',desc:'40+ nations adoptent le standard monétaire. La Plume, le Marteau, la Forge.'},
+    {y:2700,t:'traite',title:'Tribunal de Lumasar',desc:'1 847 décisions. 17% ignorées. Consul Orath Dovan.'},
   ]},
   {name:'Solena',      color:'#3070a0', y0:1580, y1:3100, cont:'Galenor', events:[
     {y:1620,t:'exploration',title:'Grandes Explorations',desc:'Circumnavigation.'},
@@ -482,9 +569,11 @@ const CIV = [
     {y:2700,t:'dynastie',title:'Aldren',desc:'Élu au mérite.'},
   ]},
   {name:'Haldria',     color:'#4060a0', y0:1580, y1:3100, cont:'Ilthara', events:[
-    {y:1620,t:'fondation',title:'Haldros le Navigateur',desc:'Étoiles et Marées.'},
+    {y:1620,t:'fondation',title:'Haldros le Navigateur',desc:'Étoiles et Marées. Issue de l\'Empire Drahk\'Nor.'},
+    {y:1837,t:'fondation',title:'Aristrocratie marchande',desc:'Guildes d\'Endora → Conseil Commercial (~4 800 ap.A).'},
     {y:1850,t:'exploration',title:'Traversée Brumes',desc:'Routes stellaires.'},
-    {y:2700,t:'dynastie',title:'Vaeldros III',desc:'Navigation.'},
+    {y:2098,t:'conquete',title:'Schismes d\'Endora',desc:'Avalor et Sanvara se séparent (~6 500 ap.A).'},
+    {y:2700,t:'dynastie',title:'Vaeldros III',desc:'Navigation. Alliance Ilthara-Endora.'},
   ]},
   {name:'Ackerna',     color:'#306030', y0:1600, y1:3100, cont:'Ilthara', events:[
     {y:1650,t:'fondation',title:'Faelorn',desc:'Chêne-Mère.'},
@@ -495,7 +584,9 @@ const CIV = [
     {y:1620,t:'fondation',title:'Korvash le Brûlé',desc:'Dictature.'},
     {y:1800,t:'magie',title:'Grande Éruption',desc:'Militarisation.'},
     {y:1900,t:'conquete',title:'Fer et Feu',desc:'Expansion.'},
-    {y:2700,t:'dynastie',title:'Varketh',desc:'Indomptable.'},
+    {y:2206,t:'fondation',title:'Premier État séculier',desc:'Né du Schisme de Gryndor. Méritocratie militaire (~7 200 ap.A).'},
+    {y:2700,t:'dynastie',title:'Varketh',desc:'Indomptable. Déliés peuvent être généraux.'},
+    {y:2800,t:'alliance',title:'Brigade de Pyrtara',desc:'Accueille réfugiés Déliés de Kharazir et Gryndor.'},
   ]},
   {name:'Sylthara',    color:'#80a030', y0:1580, y1:3100, cont:'Ilthara', events:[
     {y:1620,t:'fondation',title:'Amaryl',desc:'Premiers Semeurs.'},
@@ -518,12 +609,24 @@ const CIV = [
   ]},
   {name:'Vestiges gelés', color:'#6080a0', y0:2500, y1:3100, cont:'Cestra', events:[
     {y:2600,t:'magie',title:'Gardiens de Givre',desc:'Golems antiques.'},
-    {y:2800,t:'magie',title:'Chose sous Glacier',desc:'Entité ancienne.'},
+    {y:2700,t:'decouverte',title:'Noravia — colonie',desc:'Forteresse côtière. 25 000 hab. Boussoles folles au-delà de 50km.'},
+    {y:2800,t:'mystere',title:'Chose sous Glacier',desc:'Mont Jumeau couvert de glace. Structures pré-mortelles visibles de la côte.'},
+    {y:2960,t:'mystere',title:'Expédition Altram stoppée',desc:'Tunnels dans Cestra. "Effondrement inhabituel." Archives classifiées (~10 050 ap.A).'},
   ]},
 ];
 
 /* Connections */
 const CONN = [
+  // Successions (Drahk'Nor → nations)
+  {from:'Drahk\'Nor',to:'Drakora',y:1837,t:'fondation',label:'Scission Drahk\'Nor'},
+  {from:'Drahk\'Nor',to:'Gryndor',y:1837,t:'fondation',label:'Scission Drahk\'Nor'},
+  {from:'Drahk\'Nor',to:'Haldria',y:1837,t:'fondation',label:'Scission Drahk\'Nor'},
+  // Successions (Galenthis → nations)
+  {from:'Galenthis',to:'Kharazir',y:1898,t:'fondation',label:'Scission Galenthis'},
+  {from:'Galenthis',to:'Lumasar',y:1898,t:'fondation',label:'Scission Galenthis'},
+  {from:'Galenthis',to:'Seraphia',y:1898,t:'fondation',label:'Scission Galenthis'},
+  {from:'Galenthis',to:'Ventera',y:1898,t:'fondation',label:'Scission Galenthis'},
+  // Guerres et alliances (Ère des Nations)
   {from:'Mosrack',to:'Tyndara',y:1750,t:'conquete',label:'Guerre des Cent-Jours'},
   {from:'Valoria',to:'Trinoria',y:1850,t:'conquete',label:'Invasion repoussée'},
   {from:'Tyndara',to:'Solena',y:1900,t:'alliance',label:'Routes commerciales'},
@@ -531,6 +634,14 @@ const CONN = [
   {from:'Seraphia',to:'Lumasar',y:1750,t:'alliance',label:'Échanges culturels'},
   {from:'Pyrtara',to:'Sylthara',y:1850,t:'conquete',label:'Occupation et famine'},
   {from:'Drakora',to:'Gryndor',y:1800,t:'conquete',label:'Raids et pillage'},
+  // Guerres majeures Ère VI
+  {from:'Mosrack',to:'Tyndara',y:1975,t:'conquete',label:'Guerre des Détroits'},
+  {from:'Gryndor',to:'Drakora',y:2021,t:'conquete',label:'Guerre des Dieux Sourds'},
+  {from:'Altram',to:'Drakora',y:2455,t:'conquete',label:'Défense Porte de Fer'},
+  // Ère Actuelle — tensions
+  {from:'Kharazir',to:'Pyrtara',y:2800,t:'conquete',label:'Crise des réfugiés Déliés'},
+  {from:'Mosrack',to:'Lumasar',y:2750,t:'commerce',label:'Rivalité commerciale'},
+  {from:'Caeloria',to:'Vytharia',y:2900,t:'religion',label:'Théologie du Lien vs Noctari'},
 ];
 
 /* =================================================================
@@ -717,10 +828,11 @@ const CONN = [
   // 4. Global events (centered horizontal labels)
   GLOBAL.forEach(g => {
     const col = TYPES[g.t]?.c || '#888';
+    const cls = `d${g.dl||1}`;
     s += `<line x1="20" y1="${g.y}" x2="${CHART_W - 20}" y2="${g.y}"
-           stroke="${col}" stroke-width="0.5" stroke-dasharray="6,4" opacity="0.2" class="d1"/>`;
+           stroke="${col}" stroke-width="0.5" stroke-dasharray="6,4" opacity="0.2" class="${cls}"/>`;
     s += `<text x="${CHART_W / 2}" y="${g.y - 5}" text-anchor="middle"
-           font-size="8" fill="${col}" opacity="0.55" class="d1"
+           font-size="8" fill="${col}" opacity="0.55" class="${cls} evt-global"
            data-type="${g.t}" data-title="${g.title.replace(/"/g,'&quot;')}"
            data-desc="${g.desc.replace(/"/g,'&quot;')}"
            style="cursor:pointer">${g.title}</text>`;
@@ -863,7 +975,7 @@ const CONN = [
 
   // Tooltip
   svg.addEventListener('mousemove', e => {
-    const el = e.target.closest('.evt-dot,.stream-path');
+    const el = e.target.closest('.evt-dot,.stream-path,.evt-global');
     if (el) {
       const t = el.dataset.type;
       const meta = TYPES[t] || {c:'#6a5a4a',l:el.dataset.cont||''};
