@@ -39,6 +39,13 @@ function initMap() {
     let loreIndex = {};
     let loreCache = {};
 
+    // Timeline system
+    let timelineData = null;
+    let currentEraId = 'actuelle';
+    let timelinePlayInterval = null;
+    let isTimelinePlaying = false;
+    let eraTransitionTimer = null;
+
     // Editor mode
     let editorMode = false;
     let editorAuthenticated = false;
@@ -78,6 +85,7 @@ function initMap() {
         initEventHandlers();
         loadFromDatabase();
         loadLoreIndex();
+        loadTimelineData();
 
         // Afficher l'état du wrapping dans le bouton
         updateWrappingButton();
@@ -159,18 +167,330 @@ function initMap() {
     }
 
     function initTimeline() {
+        // Initialiser le slider avec les ères (sera mis à jour après chargement des données)
+        const timeline = document.getElementById('timeline');
+        if (!timeline) return;
+
+        // Configurer le slider pour 11 positions (indices 0-10)
+        timeline.min = 0;
+        timeline.max = 10;
+        timeline.value = 10; // Ere VII Actuelle par défaut
+        timeline.step = 1;
+
+        // Gestionnaire du slider
+        timeline.addEventListener('input', function() {
+            const idx = parseInt(this.value, 10);
+            if (timelineData && timelineData.eras && timelineData.eras[idx]) {
+                const era = timelineData.eras[idx];
+                updateMapForEra(era.id);
+            }
+            // Mettre à jour la progression visuelle du track
+            updateSliderTrack(this);
+            if (window.updateBorders) window.updateBorders();
+        });
+
+        // Bouton play/pause
+        const playBtn = document.getElementById('timelinePlayBtn');
+        if (playBtn) {
+            playBtn.addEventListener('click', toggleTimelinePlay);
+        }
+
+        // Affichage initial (sera mis à jour une fois les données chargées)
+        updateTimelineDisplay(10);
+    }
+
+    function loadTimelineData() {
+        fetch('/api/timeline')
+            .then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
+            .then(data => {
+                timelineData = data.timelineData;
+                if (!timelineData || !timelineData.eras || timelineData.eras.length === 0) {
+                    console.warn('Timeline DB empty, trying local fallback');
+                    return loadTimelineFromFile();
+                }
+                console.log('Timeline data loaded from Turso:', timelineData.eras.length, 'eras');
+                initTimelineUI();
+            })
+            .catch(err => {
+                console.warn('Timeline API failed, trying local fallback:', err);
+                loadTimelineFromFile();
+            });
+    }
+
+    function loadTimelineFromFile() {
+        fetch('/data/timeline-names.json')
+            .then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
+            .then(data => {
+                timelineData = data.timelineData;
+                console.log('Timeline data loaded from file:', timelineData.eras.length, 'eras');
+                initTimelineUI();
+            })
+            .catch(err => {
+                console.warn('No timeline data available, using legacy mode:', err);
+                updateTimelineLegacy();
+            });
+    }
+
+    function initTimelineUI() {
+        const maxIdx = timelineData.eras.length - 1;
+        const timeline = document.getElementById('timeline');
+        if (timeline) {
+            timeline.max = maxIdx;
+            timeline.value = maxIdx;
+        }
+        updateTimelineDisplay(maxIdx);
+        buildTimelineMarkers();
+        if (timeline) updateSliderTrack(timeline);
+        updateMapForEra(timelineData.eras[maxIdx].id);
+    }
+
+    function updateSliderTrack(slider) {
+        if (!slider) return;
+        const min = parseFloat(slider.min) || 0;
+        const max = parseFloat(slider.max) || 10;
+        const val = parseFloat(slider.value) || 0;
+        const pct = ((val - min) / (max - min)) * 100;
+        slider.style.background = `linear-gradient(to right, var(--accent) ${pct}%, var(--input-bg) ${pct}%)`;
+    }
+
+    function updateTimelineLegacy() {
+        // Comportement original hardcodé comme fallback
         const timelineYears = ['1000', '1500', '2000'];
         const timeline = document.getElementById('timeline');
         const timelineLabel = document.getElementById('timelineLabel');
+        if (!timeline || !timelineLabel) return;
+        timeline.max = 2;
+        timeline.value = 0;
 
         function updateTimeline() {
             const val = parseInt(timeline.value, 10);
-            timelineLabel.textContent = timelineYears[val];
+            if (timelineLabel) timelineLabel.textContent = timelineYears[val];
             if (window.updateBorders) window.updateBorders();
         }
-
         updateTimeline();
         timeline.addEventListener('input', updateTimeline);
+    }
+
+    function updateTimelineDisplay(idx) {
+        const eraNameEl = document.getElementById('timelineEraName');
+        const eraDateEl = document.getElementById('timelineEraDate');
+
+        if (timelineData && timelineData.eras && timelineData.eras[idx]) {
+            const era = timelineData.eras[idx];
+            if (eraNameEl) eraNameEl.textContent = era.label;
+            if (eraDateEl) eraDateEl.textContent = era.date;
+        } else {
+            // Fallback avant chargement
+            if (eraNameEl) eraNameEl.textContent = 'Ere VII — Actuelle';
+            if (eraDateEl) eraDateEl.textContent = '~10 200 ap.A';
+        }
+    }
+
+    function buildTimelineMarkers() {
+        const markersContainer = document.getElementById('timelineMarkers');
+        if (!markersContainer || !timelineData) return;
+
+        markersContainer.innerHTML = '';
+        timelineData.eras.forEach((era, idx) => {
+            const marker = document.createElement('div');
+            marker.className = 'timeline-marker';
+            marker.setAttribute('data-idx', idx);
+            marker.setAttribute('title', era.label + '\n' + era.date);
+
+            // Petit label court sous le marqueur
+            const tick = document.createElement('div');
+            tick.className = 'timeline-tick';
+            marker.appendChild(tick);
+
+            marker.addEventListener('click', function() {
+                const timeline = document.getElementById('timeline');
+                if (timeline) {
+                    timeline.value = idx;
+                    timeline.dispatchEvent(new Event('input'));
+                }
+            });
+
+            markersContainer.appendChild(marker);
+        });
+        updateTimelineMarkerActive(10);
+    }
+
+    function updateTimelineMarkerActive(idx) {
+        const markers = document.querySelectorAll('.timeline-marker');
+        markers.forEach((m, i) => {
+            m.classList.toggle('active', i === idx);
+            m.classList.toggle('past', i < idx);
+        });
+    }
+
+    // ===== SYSTEME TEMPOREL PRINCIPAL =====
+
+    function updateMapForEra(eraId) {
+        if (!timelineData) return;
+
+        currentEraId = eraId;
+        const eraIdx = timelineData.eras.findIndex(e => e.id === eraId);
+        if (eraIdx === -1) return;
+
+        // Mettre à jour l'affichage du slider
+        updateTimelineDisplay(eraIdx);
+        updateTimelineMarkerActive(eraIdx);
+
+        // Mettre à jour le slider lui-même
+        const timeline = document.getElementById('timeline');
+        if (timeline && parseInt(timeline.value) !== eraIdx) {
+            timeline.value = eraIdx;
+            updateSliderTrack(timeline);
+        }
+
+        // Mettre à jour les noms de continents
+        updateContinentNames(eraId);
+
+        // Mettre à jour la visibilité et les noms des pays
+        updateCountryVisibility(eraId);
+
+        // Recalculer la visibilité
+        updateTextVisibility();
+    }
+
+    function updateContinentNames(eraId) {
+        if (!timelineData || !timelineData.continents) return;
+
+        const continentElements = elementStorage['continentsElements'] || [];
+
+        timelineData.continents.forEach(continentDef => {
+            const eraName = continentDef.eraNames[eraId] || continentDef.currentName;
+
+            // Trouver l'élément SVG correspondant au continent
+            const element = continentElements.find(el =>
+                el.name && el.name.toLowerCase() === continentDef.currentName.toLowerCase()
+            );
+
+            if (element && element.texts) {
+                element.texts.forEach(el => {
+                    if (el.tagName === 'text') {
+                        el.textContent = eraName;
+                        // Retirer les styles d'époque précédente
+                        el.removeAttribute('font-style');
+                        el.style.opacity = '';
+                        el.style.transition = 'opacity 0.4s ease';
+                    }
+                });
+            }
+        });
+    }
+
+    function updateCountryVisibility(eraId) {
+        if (!timelineData || !timelineData.countries) return;
+
+        const countryElements = elementStorage['paysElements'] || [];
+
+        timelineData.countries.forEach(countryDef => {
+            const element = countryElements.find(el =>
+                el.name && el.name.toLowerCase() === countryDef.name.toLowerCase()
+            );
+
+            if (!element) return;
+
+            const existsNow = countryDef.existsInEras.includes(eraId);
+            const wasVanished = countryDef.vanishedInEras && countryDef.vanishedInEras.includes(eraId);
+            const hasPredecessor = countryDef.predecessors && countryDef.predecessors[eraId];
+
+            if (existsNow) {
+                // Le pays existe : afficher normalement avec son nom d'ère
+                const eraName = (countryDef.eraNames && countryDef.eraNames[eraId]) || countryDef.name;
+                element._eraHidden = false;
+                element.texts.forEach(el => {
+                    if (el.tagName === 'text') {
+                        el.textContent = eraName;
+                        el.removeAttribute('font-style');
+                        el.style.opacity = '';
+                    }
+                });
+            } else if (wasVanished) {
+                // Pays disparu dans cette ère : italique, opacité réduite
+                element._eraHidden = false;
+                element.texts.forEach(el => {
+                    if (el.tagName === 'text') {
+                        el.setAttribute('font-style', 'italic');
+                        el.style.opacity = '0.4';
+                    }
+                });
+            } else if (hasPredecessor) {
+                // Afficher le prédécesseur à la place
+                element._eraHidden = false;
+                element.texts.forEach(el => {
+                    if (el.tagName === 'text') {
+                        el.textContent = countryDef.predecessors[eraId];
+                        el.setAttribute('font-style', 'italic');
+                        el.style.opacity = '0.7';
+                    }
+                });
+            } else {
+                // Le pays n'existe pas encore : masquer
+                element._eraHidden = true;
+            }
+        });
+    }
+
+    function toggleTimelinePlay() {
+        isTimelinePlaying = !isTimelinePlaying;
+        const playBtn = document.getElementById('timelinePlayBtn');
+        if (!playBtn) return;
+
+        if (isTimelinePlaying) {
+            playBtn.innerHTML = '&#x23F8;'; // Pause
+            playBtn.classList.add('playing');
+            playTimelineAnimation();
+        } else {
+            playBtn.innerHTML = '&#x25B6;'; // Play
+            playBtn.classList.remove('playing');
+            if (timelinePlayInterval) {
+                clearInterval(timelinePlayInterval);
+                timelinePlayInterval = null;
+            }
+        }
+    }
+
+    function playTimelineAnimation() {
+        const timeline = document.getElementById('timeline');
+        if (!timeline || !timelineData) return;
+
+        const maxIdx = timelineData.eras.length - 1;
+        let currentIdx = parseInt(timeline.value);
+
+        // Si on est à la fin, repartir du début
+        if (currentIdx >= maxIdx) {
+            currentIdx = 0;
+            timeline.value = 0;
+            updateMapForEra(timelineData.eras[0].id);
+        }
+
+        timelinePlayInterval = setInterval(function() {
+            if (!isTimelinePlaying) {
+                clearInterval(timelinePlayInterval);
+                return;
+            }
+
+            currentIdx++;
+            timeline.value = currentIdx;
+
+            if (timelineData.eras[currentIdx]) {
+                updateMapForEra(timelineData.eras[currentIdx].id);
+            }
+
+            if (currentIdx >= maxIdx) {
+                // Arrivé à la fin, arrêter
+                isTimelinePlaying = false;
+                const playBtn = document.getElementById('timelinePlayBtn');
+                if (playBtn) {
+                    playBtn.innerHTML = '&#x25B6;';
+                    playBtn.classList.remove('playing');
+                }
+                clearInterval(timelinePlayInterval);
+                timelinePlayInterval = null;
+            }
+        }, 2000); // 2 secondes par ère
     }
 
     // Gestionnaires d'événements
@@ -920,6 +1240,16 @@ function initMap() {
                 const adjMin = minZoom * clickZoomMultiplier;
                 const adjMax = maxZoom * clickZoomMultiplier;
                 const inZoomRange = visualZoom >= adjMin && visualZoom < adjMax;
+
+                // Masquer les entités cachées par le filtre temporel
+                if (element._eraHidden) {
+                    if (element._visible !== false) {
+                        element.texts.forEach(el => el.style.display = 'none');
+                        element.rects.forEach(el => el.style.display = 'none');
+                        element._visible = false;
+                    }
+                    return;
+                }
 
                 if (!inZoomRange) {
                     if (element._visible !== false) {

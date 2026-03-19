@@ -104,8 +104,18 @@
     </div>
 </div>
 
-<!-- Timeline Slider for Historical Borders -->
+<!-- Timeline Slider for Historical Eras -->
 <div id="timelineContainer">
-    <input type="range" id="timeline" min="0" max="2" value="0" step="1">
-    <span id="timelineLabel"></span>
+    <div id="timelineEraDisplay">
+        <span id="timelineEraName">Ere VII — Actuelle</span>
+        <span id="timelineEraDate">~10 200 ap.A</span>
+    </div>
+    <div id="timelineControls">
+        <button id="timelinePlayBtn" title="Animer les eres">&#x25B6;</button>
+        <div id="timelineSliderWrapper">
+            <div id="timelineMarkers"></div>
+            <input type="range" id="timeline" min="0" max="10" value="10" step="1">
+        </div>
+    </div>
+    <div id="timelineEraDesc"></div>
 </div>

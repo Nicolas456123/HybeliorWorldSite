@@ -221,15 +221,15 @@ Les trois entites majeures de la Grande Nuit ne se succedent pas : elles coexist
 
 | Entite | Fondation | Apogee | Dissolution | Successeur |
 |--------|-----------|--------|-------------|------------|
-| **Forgon** | ~400 ap.A (Pacte des Trois Ports) | ~1 000–2 500 ap.A | ~4 000 ap.A (evolution en Mosrack) | Mosrack |
-| **Royaume de Tharnok** | ~600 ap.A (unification par Hadris Tharnok) | ~1 200–2 500 ap.A | ~3 200 ap.A (evolution en Altram) | Altram |
-| **Empire Drahk'Nor** | ~800 ap.A (Manifeste de Pyros) | ~2 000–3 500 ap.A | ~4 800 ap.A (Guerre du Panghor Brise → eclatement) | Drakora, Gryndor, Haldria |
+| **Forgon** | ~400 ap.A (Pacte des Trois Ports) | ~1 000–2 500 ap.A | ~4 000 ap.A (evolution en entites intermediaires) | Entites intermediaires (Dorgath, Varenthos, Olvetharn…) → Mosrack (~9 200 ap.A) |
+| **Royaume de Tharnok** | ~600 ap.A (unification par Hadris Tharnok) | ~1 200–2 500 ap.A | ~3 200 ap.A (fragmentation en Trois Marches) | Trois Marches → Varnath → Seigneurs de la Pierre → Protectorat des Passes → Altram (~9 100 ap.A) |
+| **Empire Drahk'Nor** | ~800 ap.A (Manifeste de Pyros) | ~2 000–3 500 ap.A | ~4 800 ap.A (Guerre du Panghor Brise → eclatement) | Triumvirats/Voivodat → Khaghanat/Marches → Drakora (~9 100), Gryndor (~9 200), Haldria (~9 300) |
 
 **Periodes de coexistence notable :**
 - **~800–1 400 ap.A** : les trois entites se stabilisent simultanement. Le Forgon controle les mers, Tharnok l'interieur d'Alkaran, Drahk'Nor Ilthara et Endora. Aucune guerre majeure inter-empires — chacun occupe un espace geographique distinct.
 - **~1 400–1 700 ap.A** : le Fleau des Failles frappe les trois entites differemment. Le Forgon, maritime et disperse, survit le mieux. Drahk'Nor cree les Inspecteurs de Purete et entre dans sa periode la plus sombre. Tharnok, culture anti-Lien, est relativement epargne.
-- **~2 000–3 200 ap.A** : Tharnok decline progressivement et evolue vers Altram. Le Forgon et Drahk'Nor restent actifs. La Convention de Gryndor (~2 950 ap.A) reunite ces trois entites pour la premiere fois dans un cadre diplomatique.
-- **~3 200–4 800 ap.A** : seuls le Forgon et Drahk'Nor coexistent. Le Forgon se transforme en Mosrack (~4 000 ap.A). Drahk'Nor s'effondre lors de la Guerre du Panghor Brise (~4 800 ap.A).
+- **~2 000–3 200 ap.A** : Tharnok decline progressivement et se fragmente en Trois Marches (~3 100 ap.A). Le Forgon et Drahk'Nor restent actifs. La Convention de Gryndor (~2 950 ap.A) reunite ces trois entites pour la premiere fois dans un cadre diplomatique.
+- **~3 200–4 800 ap.A** : seuls le Forgon et Drahk'Nor coexistent. Le Forgon se dissout en entites maritimes intermediaires a partir de ~4 000 ap.A. Drahk'Nor s'effondre lors de la Guerre du Panghor Brise (~4 800 ap.A), produisant les Triumvirats et Voivodats successeurs.
 
 #### Royaume de Tharnok (Alkaran, ~600 ap.A → ~3 200 ap.A)
 
@@ -257,7 +257,7 @@ A ~30 ans, il unifie par la force et la diplomatie 12 clans disperses autour d'u
 - Isolationnisme relatif apres le Fleau des Failles
 - La montagne-frontiere au nord (futur territoire de Drakora) est une vulnerabilite permanente
 
-**Contribution a l'Ere VI :** Tharnok evolue directement en Altram. La Forteresse de Pierre-Grise devient Altram-Citadelle. Son code juridique, grave dans la pierre, est adopte comme base du systeme legal d'Altram.
+**Contribution a l'Ere VI :** Tharnok se fragmente en Trois Marches (~3 100 ap.A), qui evoluent a travers plusieurs entites intermediaires (Varnath, Seigneurs de la Pierre, Protectorat des Passes) avant de donner naissance a Altram (~9 100 ap.A) six millenaires plus tard. La Forteresse de Pierre-Grise, transmise de souverain en souverain a travers ces dynasties successives, devient finalement Altram-Citadelle. Le code juridique grave dans la pierre par Tharnok est la fondation lointaine du systeme legal d'Altram.
 
 ##### Tharnok en profondeur — Vie politique et culture
 
@@ -301,7 +301,7 @@ La Grande Stele d'Alkaran, aujourd'hui a Altram-Citadelle, est l'une des rares o
 
 **Resistance au Fleau des Failles (~1 500 ap.A)** : la nature maritime du Forgon le protege. Sa population est dispersee et mobile. 3 ports sont perdus (~1 490-1 520 ap.A) mais la structure survit — pas de point central a eliminer.
 
-**Contribution a l'Ere VI :** evolue directement en **Mosrack** (~4 000 ap.A) apres des conquetes terrestres. Mosrack herite de la culture maritime du Forgon — principale puissance navale d'Hybelior.
+**Contribution a l'Ere VI :** Le Forgon se dissout en une serie de republiques et thalassocraties maritimes (Dorgath, Varenthos, Olvetharn, Kharavel, Drasseth, Morveth, Solvar) avant que Mosrack n'emerge (~9 200 ap.A) comme heritier lointain. La culture maritime du Forgon — commerce par mer, gouvernance oligarchique, veneration de Navigor — se transmet de structure en structure sur six millenaires avant de culminer dans la principale puissance navale d'Hybelior.
 
 ##### Le Forgon en profondeur — Vie politique et culture
 
@@ -371,7 +371,7 @@ La reponse change selon les epoques et dynasties :
 - **La tyrannie des Cendres (~1 450-1 600 ap.A)** : pendant le Fleau des Failles, l'empire cree les **Inspecteurs de Purete** (~1 460 ap.A) qui traquent les Tisses et les euthanasient "pour le bien commun". Periode la plus sombre — et aussi la periode ou l'empire perd le plus de population au Fleau.
 - **Declin tardif (~3 000-4 800 ap.A)** : fragmentation progressive sous la pression des royaumes emergents de l'Ere VI naissante. La Guerre du Panghor Brise (~4 800 ap.A) met fin a l'empire.
 
-**Contribution a l'Ere VI :** la fragmentation produit trois nations — **Drakora, Gryndor, et Haldria**. Ces trois nations se haissent pour des raisons dynastiques mais partagent le meme fond culturel, le meme droit, la meme langue.
+**Contribution a l'Ere VI :** La fragmentation de Drahk'Nor produit d'abord les Triumvirats de Khorrath, le Voivodat de Gryndhaar et d'autres entites. Apres des millenaires de successions, guerres civiles et conquetes, Drakora (~9 100), Gryndor (~9 200) et Haldria (~9 300) emergent comme nations modernes. Ces trois nations se haissent pour des raisons dynastiques mais partagent le meme fond culturel, le meme droit, la meme langue — heritage lointain du Manifeste de Pyros.
 
 ##### Drahk'Nor en profondeur — Vie politique et culture
 
@@ -532,6 +532,8 @@ Premier accord inter-empires depuis l'Arrachement. L'Empire Drahk'Nor, Tharnok, 
 - Definition partagee de la citoyennete
 
 Symboliquement la fin de la Grande Nuit — le moment ou les entites politiques choisissent la negociation sur la predation. Anticipe de 50 ans le debut officiel de l'Ere des Nations (~3 000 ap.A).
+
+**Important** : les nations presentes a la Convention — Drahk'Nor, Tharnok, Forgon et les 4 entites mineures — ne sont pas les nations actuelles. Ces derniers ne se formeront que six millenaires plus tard, apres une longue succession de civilisations intermediaires. La Convention de Gryndor marque le debut de l'Ere des Nations comme concept et comme periode historique, mais les nations que cette ere produit directement sont elles-memes mortes depuis longtemps. Altram, Mosrack, Drakora, Gryndor, Haldria et leurs contemporains emergent seulement entre ~9 100 et ~9 800 ap.A — heritiers lointains d'une chaine de transmission qui remonte jusqu'aux royaumes rassembles ici, mais separes d'eux par des dizaines de civilisations disparues.
 
 > *"Nous avons survecu au silence des dieux. Nous pouvons bien survivre a notre propre compagnie."*
 > — Discours d'ouverture de la Convention de Gryndor, attribue au Legate Voran Drahk'Nor (~2 950 ap.A)

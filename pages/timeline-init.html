@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>Timeline Init — Hybelior</title>
+<style>
+  body { font-family: 'Segoe UI', sans-serif; background: #1a1a2e; color: #e0e0e0; padding: 40px; max-width: 900px; margin: 0 auto; }
+  h1 { color: #c9a84c; }
+  .step { background: #16213e; padding: 20px; border-radius: 8px; margin: 16px 0; border-left: 4px solid #c9a84c; }
+  .step h3 { color: #c9a84c; margin-top: 0; }
+  input[type=password] { padding: 10px; background: #0f3460; color: #e0e0e0; border: 1px solid #c9a84c; border-radius: 4px; width: 300px; }
+  button { padding: 10px 24px; background: #c9a84c; color: #1a1a2e; border: none; border-radius: 4px; cursor: pointer; font-weight: bold; font-size: 14px; }
+  button:hover { background: #dbb960; }
+  button:disabled { background: #555; cursor: not-allowed; }
+  #log { background: #0a0a1a; padding: 16px; border-radius: 8px; max-height: 400px; overflow-y: auto; font-family: monospace; font-size: 13px; white-space: pre-wrap; }
+  .ok { color: #4caf50; }
+  .err { color: #f44336; }
+  .info { color: #c9a84c; }
+  .stats { display: flex; gap: 20px; flex-wrap: wrap; margin: 16px 0; }
+  .stat { background: #0f3460; padding: 12px 20px; border-radius: 8px; text-align: center; }
+  .stat-num { font-size: 28px; color: #c9a84c; font-weight: bold; }
+  .stat-label { font-size: 12px; color: #999; }
+</style>
+</head>
+<body>
+<h1>Initialisation Timeline — Base Turso</h1>
+<p>Cette page charge <code>timeline-names.json</code>, le transforme au format Turso, et peuple les tables <code>timeline_eras</code> + <code>timeline_names</code>.</p>
+
+<div class="step">
+  <h3>1. Mot de passe editeur</h3>
+  <input type="password" id="pwd" placeholder="Mot de passe editeur">
+</div>
+
+<div class="step">
+  <h3>2. Charger et analyser le JSON</h3>
+  <button onclick="loadAndParse()">Charger timeline-names.json</button>
+  <div class="stats" id="stats" style="display:none"></div>
+</div>
+
+<div class="step">
+  <h3>3. Envoyer vers Turso</h3>
+  <button id="sendBtn" onclick="sendToTurso()" disabled>Envoyer les donnees</button>
+</div>
+
+<div id="log"></div>
+
+<script>
+let parsedEras = [];
+let parsedNames = [];
+
+function log(msg, cls) {
+  const el = document.getElementById('log');
+  const span = document.createElement('span');
+  span.className = cls || '';
+  span.textContent = msg + '\n';
+  el.appendChild(span);
+  el.scrollTop = el.scrollHeight;
+}
+
+async function loadAndParse() {
+  log('Chargement de /data/timeline-names.json...', 'info');
+  try {
+    const resp = await fetch('/data/timeline-names.json');
+    if (!resp.ok) throw new Error('HTTP ' + resp.status);
+    const json = await resp.json();
+    log('JSON charge avec succes', 'ok');
+
+    const td = json.timelineData;
+    parsedEras = [];
+    parsedNames = [];
+
+    // Transformer les eres
+    td.eras.forEach((era, idx) => {
+      parsedEras.push({
+        id: era.id,
+        label: era.name || era.label || era.id,
+        date_label: formatDateLabel(era.startYear, era.endYear),
+        description: era.description || '',
+        start_year: era.startYear || 0,
+        end_year: era.endYear || 0,
+        sort_order: idx
+      });
+
+      // Extraire les noms de continents depuis chaque ere
+      if (era.continents) {
+        era.continents.forEach(c => {
+          if (c.currentName === 'ALL' || c.currentName === 'ALL_NORD' || c.currentName === 'ALL_SUD') {
+            // Supercontinent — on cree une entree speciale
+            parsedNames.push({
+              place_name: c.historicalName,
+              place_type: 'continent',
+              era_id: era.id,
+              historical_name: c.historicalName,
+              visibility: 'visible',
+              meaning: c.meaning || ''
+            });
+          } else {
+            parsedNames.push({
+              place_name: c.currentName,
+              place_type: 'continent',
+              era_id: era.id,
+              historical_name: c.historicalName,
+              visibility: 'visible',
+              meaning: c.meaning || ''
+            });
+          }
+        });
+      }
+    });
+
+    // Transformer les pays/nations
+    if (td.countries) {
+      td.countries.forEach(country => {
+        const name = country.currentName || country.name;
+        if (country.timeline) {
+          country.timeline.forEach(entry => {
+            // Trouver l'ere correspondante
+            const matchingEra = parsedEras.find(e =>
+              entry.startYear >= e.start_year && entry.startYear < e.end_year
+            ) || parsedEras.find(e => e.id === entry.era);
+
+            if (matchingEra) {
+              parsedNames.push({
+                place_name: name,
+                place_type: 'pays',
+                era_id: matchingEra.id,
+                historical_name: entry.name || name,
+                visibility: entry.name === name ? 'visible' : 'predecessor',
+                meaning: ''
+              });
+            }
+          });
+
+          // Pour les eres ou le pays n'existe pas, marquer hidden
+          parsedEras.forEach(era => {
+            const hasEntry = parsedNames.some(n =>
+              n.place_name === name && n.era_id === era.id
+            );
+            if (!hasEntry) {
+              // Verifier si le pays existe dans cette ere via sa timeline
+              const existsInEra = country.timeline.some(t =>
+                t.startYear <= (era.end_year || era.start_year) && t.endYear >= era.start_year
+              );
+              if (!existsInEra) {
+                parsedNames.push({
+                  place_name: name,
+                  place_type: 'pays',
+                  era_id: era.id,
+                  historical_name: name,
+                  visibility: 'hidden',
+                  meaning: ''
+                });
+              }
+            }
+          });
+        }
+
+        // Gerer existsInEras / vanishedInEras / predecessors (ancien format)
+        if (country.existsInEras) {
+          country.existsInEras.forEach(eraId => {
+            const existing = parsedNames.find(n => n.place_name === name && n.era_id === eraId);
+            if (!existing) {
+              parsedNames.push({
+                place_name: name,
+                place_type: 'pays',
+                era_id: eraId,
+                historical_name: (country.eraNames && country.eraNames[eraId]) || name,
+                visibility: 'visible',
+                meaning: ''
+              });
+            }
+          });
+        }
+      });
+    }
+
+    // Transformer les civilisations disparues
+    if (td.extinctCivilizations) {
+      td.extinctCivilizations.forEach(civ => {
+        const name = civ.name || civ.currentName;
+        if (civ.timeline) {
+          civ.timeline.forEach(entry => {
+            const matchingEra = parsedEras.find(e => e.id === entry.era) ||
+              parsedEras.find(e => entry.startYear >= e.start_year && entry.startYear < e.end_year);
+            if (matchingEra) {
+              parsedNames.push({
+                place_name: name,
+                place_type: 'pays',
+                era_id: matchingEra.id,
+                historical_name: entry.name || name,
+                visibility: 'vanished',
+                meaning: ''
+              });
+            }
+          });
+        }
+      });
+    }
+
+    // Deduplicate
+    const seen = new Set();
+    parsedNames = parsedNames.filter(n => {
+      const key = `${n.place_name}|${n.place_type}|${n.era_id}`;
+      if (seen.has(key)) return false;
+      seen.add(key);
+      return true;
+    });
+
+    log(`Eres: ${parsedEras.length}`, 'ok');
+    log(`Noms historiques: ${parsedNames.length}`, 'ok');
+
+    const statsEl = document.getElementById('stats');
+    statsEl.style.display = 'flex';
+    statsEl.innerHTML = `
+      <div class="stat"><div class="stat-num">${parsedEras.length}</div><div class="stat-label">Eres</div></div>
+      <div class="stat"><div class="stat-num">${parsedNames.filter(n=>n.place_type==='continent').length}</div><div class="stat-label">Noms continents</div></div>
+      <div class="stat"><div class="stat-num">${parsedNames.filter(n=>n.place_type==='pays'&&n.visibility==='visible').length}</div><div class="stat-label">Nations visibles</div></div>
+      <div class="stat"><div class="stat-num">${parsedNames.filter(n=>n.place_type==='pays'&&n.visibility==='predecessor').length}</div><div class="stat-label">Predecesseurs</div></div>
+      <div class="stat"><div class="stat-num">${parsedNames.filter(n=>n.place_type==='pays'&&n.visibility==='vanished').length}</div><div class="stat-label">Civilisations disparues</div></div>
+      <div class="stat"><div class="stat-num">${parsedNames.length}</div><div class="stat-label">Total entrees</div></div>
+    `;
+
+    document.getElementById('sendBtn').disabled = false;
+  } catch (err) {
+    log('ERREUR: ' + err.message, 'err');
+  }
+}
+
+function formatDateLabel(start, end) {
+  function fmt(y) {
+    if (y <= -100000) return 'Temps Primordiaux';
+    if (y < 0) return '~' + Math.abs(y).toLocaleString() + ' av.A';
+    return '~' + y.toLocaleString() + ' ap.A';
+  }
+  return fmt(start) + ' → ' + fmt(end);
+}
+
+async function sendToTurso() {
+  const pwd = document.getElementById('pwd').value;
+  if (!pwd) { log('Mot de passe requis !', 'err'); return; }
+
+  document.getElementById('sendBtn').disabled = true;
+  log('\n=== Envoi vers Turso ===', 'info');
+
+  try {
+    // Envoyer en chunks pour eviter les timeouts
+    const CHUNK = 50;
+
+    // D'abord les eres
+    log(`Envoi de ${parsedEras.length} eres...`, 'info');
+    const eraResp = await fetch('/api/timeline', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        password: pwd,
+        action: 'bulk_init',
+        data: { eras: parsedEras, names: [] }
+      })
+    });
+    if (!eraResp.ok) {
+      const err = await eraResp.json();
+      throw new Error('Eras: ' + (err.error || eraResp.status));
+    }
+    log(`Eres envoyees avec succes`, 'ok');
+
+    // Puis les noms par chunks
+    let sent = 0;
+    for (let i = 0; i < parsedNames.length; i += CHUNK) {
+      const chunk = parsedNames.slice(i, i + CHUNK);
+      const resp = await fetch('/api/timeline', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          password: pwd,
+          action: 'bulk_init',
+          data: { eras: [], names: chunk }
+        })
+      });
+      if (!resp.ok) {
+        const err = await resp.json();
+        throw new Error('Names chunk ' + i + ': ' + (err.error || resp.status));
+      }
+      sent += chunk.length;
+      log(`  Noms: ${sent}/${parsedNames.length} envoyes`, 'ok');
+    }
+
+    log(`\n=== TERMINE ===`, 'ok');
+    log(`${parsedEras.length} eres + ${parsedNames.length} noms historiques charges dans Turso`, 'ok');
+  } catch (err) {
+    log('ERREUR: ' + err.message, 'err');
+    document.getElementById('sendBtn').disabled = false;
+  }
+}
+</script>
+</body>
+</html>

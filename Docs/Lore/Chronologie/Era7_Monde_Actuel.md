@@ -30,6 +30,7 @@
 - Propose a l'origine par la Republique de Lumasar et Caeloria — les deux puissances diplomatiques du monde
 - 13 continents signataires : Cendara, Onara, Endora, Evertia, Cestra, Baelor, Nysaria, Ulinor, Azoria, Alkaran, Galenor, Celethor, Ilthara
 - 64 nations signataires sur 71 nations reconnues a l'epoque
+- **Note** : plusieurs nations importantes n'existaient pas encore en ~9 500 ap.A — elles ont rejoint le Traite en tant que signataires tardifs apres leur fondation (voir section "Signataires tardifs" ci-dessous)
 
 **Articles fondamentaux**
 - **Article I — Reconnaissance des frontieres** : toute frontiere existante au moment de la signature est reconnue internationalement ; aucune modification par la force
@@ -42,22 +43,37 @@
 - **Article VIII — Responsabilite des Phenix** : les Phenix sont sous protection internationale ; aucune chasse, aucune capture autorisee
 - **Article IX — Commerce equitable** : interdiction du monopole de force sur les routes de commerce majeures
 
-**Nations refusant de signer**
+**Signataires originaux (~9 500 ap.A) — nations fondees avant la signature**
+Les nations fondees avant ~9 500 et presentes a la negociation : Solena (~7 200), Lumasar (~7 500), Tyndara (~8 400), Seraphia (~8 800), Baelor-Prime (~9 100), Altram (~9 100), Kharazir (~9 100), Drakora (~9 100), Mosrack (~9 200), Gryndor (~9 200), Ventera (~9 200), Thalmaris (~9 200), Astravia (~9 200), Azoral (~9 300), Caeloria (~9 300), Haldria (~9 300), Iskara (~9 400), Arkhen (~9 400), Myrtam (~9 400), Skaldoria (~9 400), Vytharia (~9 400), Sylvara (~9 400), ainsi qu'un ensemble de cites-etats et proto-nations formant les 64 signataires originaux.
+
+**Signataires tardifs — nations fondees apres ~9 500**
+Ces nations ont adhere au Traite apres leur fondation, generalement dans les decennies suivant leur creation :
+- **Avalor** (~9 600) et **Sanvara** (~9 600) — ont signe a leur fondation, peu apres le Traite ; adhesion sans difficulte
+- **Orvalis** (~9 600) et **Torkam** (~9 600) — signataires tardifs de la premiere vague
+- **Pyrtara** (~9 650) — signe lors de son adhesion, refusant toutefois l'Article V (le Tribunal de Lumasar ne peut pas juger ses decisions militaires) ; accepte tous les autres articles sous reserve
+- **Kethvar** (~9 700) — signataire tardif sans reserves majeures
+- **Pyrevane** (~9 800), **Elarath** (~9 800), **Solmaris** (~9 800), **Ferrath** (~9 800), **Mirathi** (~9 800) — fondees 300 ans apres le Traite ; ont adhere mais avec un sentiment de ne pas avoir eu voix au chapitre lors de la negociation
+- **Endrath** (~9 900), **Halcyon** (~9 900), **Lunasar** (~9 900), **Noravia** (~9 900), **Dhalvoria** (~9 900) — les nations les plus recentes ; leur adhesion est la plus formelle, certaines contestent des articles qui ne tiennent pas compte de leurs situations specifiques
+
+**Nations refusant de signer (statut complet)**
 - **Drakora** — refuse l'Article I (conteste les frontieres avec Gryndor) ; signe un accord bilateral minimal avec Lumasar mais n'est pas signataire plein
-- **Pyrtara** — refuse l'Article V (le Tribunal de Lumasar ne peut pas juger ses decisions militaires) ; signe tous les autres articles sous reserve
 - **Skaldoria** — ne reconnait pas les frontieres comme concept valide (nation nomade) ; negocie un statut de "membre observateur" unique
 - **7 petites nations** — refusent un traite qu'elles percoivent comme une validation du statu quo en leur defaveur
 
 **Tensions dans le Traite**
 - L'Article III est volontairement vague sur les restrictions professionnelles — Kharazir et Gryndor ont immediatement legifere contre les Delies dans certains metiers
-- L'Article VII sur Cendra est source de conflits latents : Arkhen et Pyrevane ont des interpretations opposees de la "co-gestion"
+- L'Article VII sur Cendra est source de conflits latents : Arkhen (fondee ~9 400, signataire original) et Pyrevane (fondee ~9 800, signataire tardif) ont des interpretations opposees de la "co-gestion" — Pyrevane conteste d'ailleurs sa legitimite a co-gerer un site inclus dans le Traite avant sa fondation
 - Le Tribunal de Lumasar manque de moyens coercitifs — ses decisions ne sont respectees que si les grandes puissances le veulent bien
+- Les nations fondees apres ~9 500 reprochent aux signataires originaux d'avoir dessine un monde sans elles ; les "griefs des tardifs" alimentent une tension de fond dans toutes les instances internationales
 
 **700 ans d'application : bilan au 10 200 ap.A**
 - Le Traité a tenu l'essentiel de sa promesse : aucune guerre interétatique majeure en 700 ans, un fait sans précédent dans l'histoire d'Hybelior
 - Cependant, 23 des 64 signataires originaux ont émis des "réserves additionnelles" au fil du temps, affaiblissant progressivement les articles les plus contraignants
 - La Guerre de l'Ombre (voir section dédiée) teste les limites du Traité : peut-il s'appliquer à des conflits sans déclaration officielle ?
 - Le Tribunal de Lumasar a rendu 1 847 décisions en 700 ans ; 312 ont été ignorées par la nation condamnée sans conséquence réelle — taux d'insoumission de 17%
+
+> **Note — un monde de nations très jeunes**
+> L'une des caractéristiques les moins comprises de l'Ère VII est l'extrême jeunesse des nations qui la composent. Sur les 38 nations reconnues en 10 200 ap.A, plus de la moitié ont moins de 700 ans — c'est-à-dire qu'elles n'existaient pas au moment de la signature du Traité des Treize Continents. Parmi elles, douze ont moins de 400 ans (Pyrevane, Elarath, Solmaris, Ferrath, Mirathi, Endrath, Halcyon, Lunasar, Noravia, Dhalvoria). Même les nations considérées comme "établies" — Kharazir, Mosrack, Gryndor, Altram — n'ont qu'environ 1 000 ans d'existence. Seule Lumasar (~2 700 ans) et Solena (~3 000 ans) possèdent une profondeur historique significative. Cette jeunesse collective explique la fragilité des institutions, la volatilité des alliances, et la fréquence des crises de succession : ces nations construisent encore leurs identités, leurs traditions et leurs équilibres internes. Les 63 civilisations qui les ont précédées et ont disparu ne sont pas de l'histoire lointaine — pour certains peuples, les ruines de leur prédécesseur direct sont encore visibles à l'horizon.
 
 ---
 
@@ -70,24 +86,24 @@
 **Histoire du clivage**
 - Pendant la Grande Nuit et l'Eveil des Royaumes, les Lies etaient des ressources rares et precieuses — healers, previsions meteorologiques, communication a distance
 - A mesure que la population croissait, les Lies devinrent une caste privilegiee dans de nombreuses nations
-- La Cristallisation (~8 000-9 500) codifie le clivage : registres officiels, guildes reservees, droits specifiques
+- La Cristallisation (~8 500-9 500) codifie le clivage : a mesure que les nations actuelles se fondent, elles institutionnalisent des registres officiels, guildes reservees, droits specifiques selon leur culture propre
 
 **Situation actuelle par region**
 
 | Nation/Region | Statut des Delies | Loi principale |
 |---------------|-------------------|----------------|
 | **Lumasar** | Egalite formelle — seul etat avec pleine egalite codifiee | Charte des Plumes (~7 495) |
-| **Caeloria** | Discrimination legale douce — emplois publics reserves aux Lies | Edit de Celestia (~8 100) |
-| **Kharazir** | Discrimination severe — les Delies ne peuvent pas posseder de terres | Loi du Sol (~5 300, renforcee ~9 600) |
-| **Gryndor** | Discrimination religieuse — les Delies exclus des rites de Vael'Kurash | Decrets du Concile (~7 900) |
-| **Pyrtara** | Merite pur — les Delies peuvent etre generaux si competents | Constitution militaire (~7 200) |
-| **Mosrack** | Discrimination commerciale — guildes navales fermees aux Delies | Charte de la Mer (~5 700) |
+| **Caeloria** | Discrimination legale douce — emplois publics reserves aux Lies | Edit de Celestia (~9 350) |
+| **Kharazir** | Discrimination severe — les Delies ne peuvent pas posseder de terres | Loi du Sol (~9 100, renforcee ~9 800) |
+| **Gryndor** | Discrimination religieuse — les Delies exclus des rites de Vael'Kurash | Decrets du Concile (~9 250) |
+| **Pyrtara** | Merite pur — les Delies peuvent etre generaux si competents | Constitution militaire (~9 650) |
+| **Mosrack** | Discrimination commerciale — guildes navales fermees aux Delies | Charte de la Mer (~9 200) |
 | **Altram** | Egalite dans les mines — discrimination dans la noblesse | Tradition Lex Petra |
 | **Vytharia/Nysaria** | Delies privilegies en certains cas — Noctis est "silence", non Lien | Theologie Noctari |
 | **Baelor-Prime** | Indifference culturelle — ni privilege ni persecution | Aucune loi specifique |
 
 **Formes de discrimination quotidienne**
-- Dans Kharazir : les Delies portent une marque de tissu jaune (volontaire a l'origine, devenue obligatoire ~9 800)
+- Dans Kharazir : les Delies portent une marque de tissu jaune (volontaire a l'origine lors de la fondation de Kharazir ~9 100, devenue obligatoire par decret royal ~9 800)
 - Dans Gryndor : les Delies sont enterres dans des cimetieres separes, sans rites Vael'Kurash
 - Dans Caeloria : les ecoles d'elite n'admettent que les enfants Lies ; les Delies ont acces aux ecoles publiques inferieures
 - Dans Mosrack : un Delie ne peut pas temoigner en justice contre un Lie dans les affaires commerciales
@@ -382,7 +398,7 @@ La plupart des nations de l'Ère VII organisent leurs fêtes autour de trois cyc
 Quelques fêtes notables :
 - **Les Nuits des Morts de Gryndor** (solstice d'hiver) — 7 nuits de processions funéraires et de récits des ancêtres ; les Déliés peuvent participer aux processions de rue mais pas aux cérémonies de temple
 - **La Fête des Plumes de Lumasar** (anniversaire de la Révolution, ~7 493) — défilé des guildes, élection publique du Consul de l'Année, distribution de pain gratuit par chaque guilde
-- **Le Jour des Forges d'Altram** (commémoration de la Défense de la Porte de Fer) — chaque forgeron éteint ses feux une heure en mémoire des morts ; puis rallumage collectif "comme Ulara a rallumé l'espoir"
+- **Le Jour des Forges d'Altram** (commémoration de la Défense de la Porte de Fer, ~8 800 — geste héroïque du Protectorat des Passes, prédécesseur direct d'Altram) — chaque forgeron éteint ses feux une heure en mémoire des morts ; puis rallumage collectif "comme Ulara a rallumé l'espoir"
 - **La Fête des Quatre-Vents de Mosrack** (début de la saison des navigations) — bénédiction de la flotte par les prêtres de Navigor (ironie notée : ils vénèrent un dieu disparu)
 - **Le Silence d'Avalor** (Endora) — journée entière sans discours public ; Avalor commémore la fin des Schismes par une journée de silence civique
 
@@ -582,12 +598,12 @@ La culture populaire d'Hybelior en 10 200 ap.A est saturée de rumeurs, de super
 
 | Expression | Origine | Sens actuel |
 |-----------|---------|------------|
-| "Tenir comme la Porte de Fer" | Défense d'Altram, ~8 800 ap.A | Résister sans céder malgré tout |
+| "Tenir comme la Porte de Fer" | Défense de la Porte de Fer (~8 800 ap.A, sous le Protectorat des Passes, ancêtre d'Altram) | Résister sans céder malgré tout |
 | "Sagesse de Galenor" | Guerre des Trois Couronnes | Partager plutôt que tout perdre en voulant tout prendre |
 | "Avoir les mains vides" | Fraternité des Mains Vides | Être Délié ; selon le contexte, insulte ou fierté |
 | "La pluie avant les cendres" | Prophéties d'Arkhen sur Flamara | Signe avant-coureur d'une catastrophe |
 | "Nuit des Lanternes Éteintes" | Schismes d'Endora, ~6 468 ap.A | Moment où une injustice banale déclenche une crise majeure |
-| "Le tissu jaune de Kharazir" | Loi du Sol, renforcée ~9 800 | Symbole universel d'oppression systémique |
+| "Le tissu jaune de Kharazir" | Loi du Sol (~9 100), rendue obligatoire ~9 800 | Symbole universel d'oppression systémique |
 
 ---
 
@@ -639,12 +655,12 @@ La Grande-Duché navigue entre ses ambitions historiques et ses contraintes actu
 
 ### Cestra — Le Continent des Anomalies
 
-Cestra est le 13e continent, le moins connu, officiellement colonisé par Noravia depuis ~8 100 ap.A. Mais "colonisé" est un terme optimiste : Noravia est une ville-forteresse côtière de 25 000 habitants entourée de 200 km de territoire cartographié. Au-delà : l'inconnu.
+Cestra est le 13e continent, le moins connu, officiellement colonisé par Noravia depuis ~9 900 ap.A. Mais "colonisé" est un terme optimiste : Noravia est une ville-forteresse côtière de 25 000 habitants entourée de 200 km de territoire cartographié. Au-delà : l'inconnu. Noravia n'a que ~300 ans d'existence — une colonie très jeune, née de la Concession de Thar-Sel (~8 900) et formalisée comme entité politique propre en ~9 900.
 
 **Structure politique de Cestra (IM-12)**
 - Cestra, la plus ancienne entité politique continue du monde, fonctionne comme une théocratie glaciaire — gouvernée par un Conseil des Givres composé de sept archontes élus à vie parmi les familles fondatrices. Son isolement géographique derrière les glaces permanentes en fait à la fois la nation la plus stable et la plus énigmatique.
 - Les sept archontes ne sont jamais tous vus simultanément par des étrangers ; les rares diplomates admis à Noravia traitent avec un ou deux représentants à la fois — une protection délibérée contre toute décapitation de la direction
-- Les "familles fondatrices" de Noravia (~8 100 ap.A) sont une poignée de familles d'explorateurs Caelori et Altram qui se sont sédentarisées ; leurs descendants forment aujourd'hui une aristocratie de fait, la seule éligible au Conseil des Givres
+- Les "familles fondatrices" de Noravia (~9 900 ap.A) sont une poignée de familles d'explorateurs Caelori et Altram qui se sont sédentarisées à partir de la Concession de Thar-Sel (~8 900) ; leurs descendants forment aujourd'hui une aristocratie de fait, la seule éligible au Conseil des Givres
 - L'expression "théocratie glaciaire" vient du fait que les décisions du Conseil sont présentées comme des "révélations de Glacien" (l'Éther des glaces permanentes de Cestra), même si la nature exacte de cette dévotion reste inconnue des étrangers
 
 **Ce qu'on sait de Cestra**

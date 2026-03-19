@@ -701,11 +701,30 @@ const DATE_TICKS = [
     {y:1195,label:'~1 500 ap.A'},
     {y:1540,label:'~2 950 ap.A'},
     {y:1560,label:'~3 000 ap.A'},
+    {y:1660,label:'~3 800 ap.A'},
+    {y:1720,label:'~4 200 ap.A'},
+    {y:1780,label:'~4 600 ap.A'},
     {y:1837,label:'~4 800 ap.A'},
     {y:1898,label:'~5 200 ap.A'},
+    {y:1960,label:'~5 800 ap.A'},
+    {y:2010,label:'~6 200 ap.A'},
+    {y:2060,label:'~6 600 ap.A'},
+    {y:2110,label:'~7 050 ap.A'},
+    {y:2160,label:'~7 200 ap.A'},
+    {y:2210,label:'~7 400 ap.A'},
     {y:2252,label:'~7 500 ap.A'},
+    {y:2310,label:'~7 800 ap.A'},
+    {y:2360,label:'~8 100 ap.A'},
+    {y:2410,label:'~8 400 ap.A'},
     {y:2455,label:'~8 800 ap.A'},
+    {y:2490,label:'~9 000 ap.A'},
+    {y:2520,label:'~9 100 ap.A'},
+    {y:2540,label:'~9 200 ap.A'},
     {y:2560,label:'~9 500 ap.A'},
+    {y:2620,label:'~9 600 ap.A'},
+    {y:2680,label:'~9 700 ap.A'},
+    {y:2740,label:'~9 800 ap.A'},
+    {y:2800,label:'~9 850 ap.A'},
     {y:2868,label:'~9 900 ap.A'},
     {y:3056,label:'~10 142 ap.A'},
     {y:3100,label:'~10 200 ap.A'},
@@ -846,9 +865,9 @@ const GLOBAL = [
     { y:1660,t:'commerce',   era:'nations', title:'Premières monnaies standardisées', dl:2,
       desc:'Altram forge les premières pièces calibrées (~4 200 ap.A). La standardisation monétaire préfigure l\'étalon de Lumasar.' },
     { y:1837,t:'conquete',   era:'nations', title:'⚔ Guerre du Panghor Brisé',
-      desc:'~4 800 ap.A — Drahk\'Nor s\'effondre après 4 000 ans. Drakora, Gryndor et Haldria naissent de ses cendres. Recomposition de la carte d\'Ilthara.' },
+      desc:'~4 800 ap.A — Drahk\'Nor s\'effondre après 4 000 ans. Les Triumvirats de Khorrath et le Voivodat de Gryndhaar naissent de ses cendres en Ilthara. Les guildes marchandes d\'Endora obtiennent leur autonomie. (Drakora, Gryndor et Haldria n\'émergeront que bien plus tard, de civilisations intermédiaires.)' },
     { y:1898,t:'conquete',   era:'nations', title:'⚔ Guerre des Trois Couronnes',
-      desc:'~5 200 ap.A — Galenthis s\'effondre. Kharazir, Ventera, Seraphia et Lumasar émergent. Fragmentation de Galenor en puissances rivales.' },
+      desc:'~5 200 ap.A — Galenthis s\'effondre. La Ligue Équestre de Galenor et l\'Hégémonie de Solkethis émergent de ses cendres. (Kharazir, Ventera, Seraphia et Lumasar ne se formeront que des siècles plus tard.)' },
     { y:1975,t:'conquete',   era:'nations', title:'⚔ Guerre des Détroits', dl:2,
       desc:'~5 700 ap.A — Mosrack vs coalition (Tyndara, Haldria, Caeloria). Premières lois maritimes internationales. Mosrack obtient des droits de passage mais pas la suprématie.' },
     { y:2021,t:'conquete',   era:'nations', title:'⚔ Guerre des Dieux Sourds', dl:2,
@@ -863,8 +882,26 @@ const GLOBAL = [
       desc:'~7 500 ap.A — Seule véritable révolution républicaine d\'Hybélior. Le Code de Lumasar fonde les droits des citoyens. Lumasar devient la seule république formelle.' },
     { y:2350,t:'commerce',   era:'nations', title:'Étalon Métallique de Lumasar', dl:2,
       desc:'~7 000 ap.A — 40+ nations adoptent le standard monétaire (l\'arkhen). Trois emblèmes : La Plume, le Marteau, la Forge. Intégration économique mondiale.' },
-    { y:2455,t:'conquete',   era:'nations', title:'Défense de la Porte de Fer — Altram',
-      desc:'~8 800 ap.A — Altram repousse la coalition Drakora-Gryndor. Les frontières d\'Alkaran sont fixées pour les siècles suivants. Victoire décisive.' },
+    // ── Civilisations intermédiaires — fondations et chutes notables ──
+    { y:1960,t:'fondation',  era:'nations', title:'Fondation du Drakhal (Empire des Cendres)', dl:2,
+      desc:'~5 800 ap.A — L\'Empire des Cendres unifie le centre et le sud d\'Ilthara après l\'effondrement du Voivodat de Gryndhaar. Né sur les ruines des Triumvirats de Khorrath.' },
+    { y:2010,t:'disparition',era:'nations', title:'Chute du Royaume de Varnath', dl:2,
+      desc:'~6 200 ap.A — Le Royaume de Varnath s\'effondre en Alkaran après une guerre civile dynastique dévastatrice. Débute l\'Ère des Seigneurs de la Pierre.' },
+    { y:2110,t:'catastrophe',era:'nations', title:'Éruption de Pyrathis — naissance des Cités du Sud', dl:2,
+      desc:'~7 050 ap.A — L\'éruption volcanique qui détruit le Drakhal donne naissance aux Cités-États de Pyrathis. Le sud d\'Ilthara se fragmentera pendant deux siècles avant de former l\'Hégémonie de Pyrannex.' },
+    { y:2310,t:'disparition',era:'nations', title:'Concile de Veldros — chute de la Confédération Veldrane', dl:2,
+      desc:'~7 800 ap.A — La Confédération Veldrane d\'Endora tient son dernier concile à Veldros avant d\'être absorbée. L\'Empire Kalvorn achève son expansion sur tout Endora.' },
+    { y:2455,t:'conquete',   era:'nations', title:'Défense de la Porte de Fer — Protectorat des Passes',
+      desc:'~8 800 ap.A — Le Protectorat des Passes (sous Aldren IV) repousse la coalition Drakora-Gryndor. Les frontières d\'Alkaran sont fixées pour les siècles suivants. Victoire décisive. (Altram ne sera fondé qu\'en ~9 100, après l\'Interrègne des Héritiers.)',
+      dl:2 },
+    { y:2455,t:'rebellion',  era:'nations', title:'Révolution des Surfaces — Cendara', dl:2,
+      desc:'~8 900 ap.A — Les populations de surface de Cendara se soulèvent contre le Protectorat de la Main Noire qui gouvernait depuis les souterrains. Naissance de la Ligue des Villes Libres.' },
+    { y:2490,t:'mystere',    era:'nations', title:'Rêve Sans Convocation — Nysaria', dl:2,
+      desc:'~9 100 ap.A — Un rêve collectif non invoqué traverse Nysaria en une seule nuit, abolissant la Confédération des Rêves Nommés. Origine inconnue. La Confédération des Rêves Nommés se dissout sans résistance.' },
+    { y:2520,t:'fondation',  era:'nations', title:'Trois fondations simultanées (~9 100)', dl:2,
+      desc:'~9 100 ap.A — Altram (Traité de Vask), Kharazir (Cité-État du Carrefour → fédération), Drakora (Marches de Khorrath → Grand-Duché) : trois nations émergent en l\'espace d\'une génération, signalant la fin de l\'ère des civilisations intermédiaires.' },
+    { y:2560,t:'disparition',era:'nations', title:'Dissolution de la Ligue Équestre de Galenor', dl:2,
+      desc:'~9 200 ap.A — La Ligue Équestre se fragmente après la sécession des Cavaliers Libres. Ventera hérite des plaines centrales et des traditions nomades ancestrales.' },
     // ═══ Ère Actuelle ═══
     { y:2570,t:'traite',     era:'actuel', title:'Traité des Treize Continents',
       desc:'~9 500 ap.A — 64 nations sur 71 signent. 12 ans de négociation. Le Tribunal de Lumasar arbitre. Début officiel de l\'Ère Actuelle.' },
@@ -900,11 +937,49 @@ const CIV = [
         {y:795,t:'magie',title:'Cercle des Huit actif',desc:"L'Étudiant opère au Mont Cendra — territoire de l'Union."},
         {y:810,t:'disparition',title:"Épicentre de l'Arrachement",desc:'Mont Cendra déchire le Lien. 80% de la population en 7h.'},
     ]},
-    {name:'Cendara', color:'#b04020', y0:960, y1:3100, cont:'Cendara',
-     lignee:'cendara', from:'Union des Flammes', reg:'Pyrocratie — Roi-Pyromancien', events:[
-        {y:1620,t:'fondation',title:'Ashgrim le Calciné',desc:"Cœur de Cendra découvert. L'île volcanique renaît comme foyer de magie ígnée."},
-        {y:1850,t:'religion',title:'Ignis Aeternum',desc:'Roi-Pyromancien sacré. La magie du feu et la religion fusionnent.'},
-        {y:2868,t:'mystere',title:'Cœur de Cendra pulse',desc:'1/saison → 1/semaine. Visions dans 50 lieues. Spirales de cendre.'},
+    // ── Civilisations intermédiaires de Cendara ──
+    {name:'Confédération Souffleurs de Cendre', color:'#a03818', y0:1195, y1:1640, cont:'Cendara', dead:true,
+     lignee:'cendara', from:'Union des Flammes', reg:'Confédération volcanique', events:[
+        {y:1200,t:'fondation',title:'Flancs du Mont Cendra',desc:"Issue des survivants de l'Arrachement. Communautés volcaniques sur les flancs du Mont Cendra (~1 500 ap.A)."},
+        {y:1580,t:'catastrophe',title:'Convulsions volcaniques',desc:"Les éruptions répétées (Convulsions) déciment les communautés (~3 200 ap.A)."},
+        {y:1640,t:'disparition',title:'Éruptions — dissolution',desc:"La Confédération s'effondre définitivement sous les éruptions (~3 200 ap.A)."},
+    ]},
+    {name:'Empire des Cendres Rouges', color:'#b03520', y0:1640, y1:1960, cont:'Cendara', dead:true,
+     lignee:'cendara', from:'Confédération Souffleurs de Cendre', reg:'Empire autoritaire', events:[
+        {y:1645,t:'fondation',title:'Unification des deux tiers de Cendara',desc:"Né des ruines des Souffleurs (~3 200 ap.A). Empire autoritaire dominé par les pyromanciens."},
+        {y:1900,t:'catastrophe',title:'Sécheresse + guerre civile',desc:"Double catastrophe frappe l'Empire (~5 800 ap.A). Effondrement économique et militaire."},
+        {y:1960,t:'disparition',title:'Fragmentation en Triarchies',desc:"L'Empire se divise en trois cités-états rivales (~5 800 ap.A)."},
+    ]},
+    {name:'Triarchies de Pyres', color:'#b84020', y0:1960, y1:2210, cont:'Cendara', dead:true,
+     lignee:'cendara', from:'Empire des Cendres Rouges', reg:'Trois cités-états en guerre', events:[
+        {y:1965,t:'fondation',title:'Trois cités-états rivales',desc:"Issues de l'Empire des Cendres Rouges (~5 800 ap.A). Guerre mutuelle permanente."},
+        {y:2210,t:'catastrophe',title:'Éruption + guerre mutuelle finale',desc:"Une éruption majeure combinée à la guerre mutuelle anéantit les Triarchies (~7 400 ap.A)."},
+    ]},
+    {name:'Protectorat de la Main Noire', color:'#604020', y0:2210, y1:2455, cont:'Cendara', dead:true,
+     lignee:'cendara', from:'Triarchies de Pyres', reg:'Gouvernance souterraine', events:[
+        {y:2215,t:'fondation',title:'Gouvernance depuis les souterrains',desc:"Fondé dans les cavernes sous Cendara pour survivre aux éruptions (~7 400 ap.A). Régit les populations de surface depuis l'ombre."},
+        {y:2455,t:'rebellion',title:'Révolution des Surfaces',desc:"Les populations de surface se soulèvent (~8 900 ap.A). La Main Noire est chassée."},
+    ]},
+    {name:'Ligue des Villes Libres', color:'#a04018', y0:2455, y1:2620, cont:'Cendara', dead:true,
+     lignee:'cendara', from:'Protectorat de la Main Noire', reg:'Ligue républicaine', events:[
+        {y:2460,t:'fondation',title:'Née de la Révolution des Surfaces',desc:"La Ligue unit les villes libérées du Protectorat (~8 900 ap.A). Gouvernance horizontale."},
+        {y:2620,t:'disparition',title:'Réorganisation → Arkhen + Pyrevane',desc:"La Ligue se réorganise en deux nations distinctes (~9 500 ap.A)."},
+    ]},
+    {name:'Arkhen', color:'#b04818', y0:2620, y1:3100, cont:'Cendara',
+     lignee:'cendara', from:'Ligue des Villes Libres', reg:'République des villes', events:[
+        {y:2625,t:'fondation',title:'Issue de la Ligue des Villes Libres',desc:"Arkhen hérite de la tradition républicaine de la Ligue (~9 400→9 500 ap.A)."},
+        {y:2700,t:'religion',title:'Ignis Aeternum réformé',desc:"La tradition pyromancienne intégrée dans une gouvernance républicaine."},
+    ]},
+    {name:'Pyrevane', color:'#c05020', y0:2740, y1:3100, cont:'Cendara',
+     lignee:'cendara', from:'Ligue des Villes Libres', reg:'Principauté volcanique', events:[
+        {y:2745,t:'fondation',title:'Branche volcanique de la Ligue',desc:"Pyrevane hérite des territoires proches du Mont Cendra (~9 800 ap.A). Tradition pyromancienne forte."},
+        {y:2868,t:'mystere',title:'Connexion au Cœur de Cendra',desc:"Pyrevane ressent en premier les pulsations accélérées du Cœur."},
+    ]},
+    {name:'Cendara', color:'#b04020', y0:960, y1:1195, cont:'Cendara', dead:true,
+     lignee:'cendara', from:'Union des Flammes', reg:'État de survie', events:[
+        {y:975,t:'fondation',title:'Survivants de l\'Arrachement',desc:"Cendara comme entité politique embryonnaire dans les premières générations (~200 ap.A). Chaos et survie."},
+        {y:1100,t:'religion',title:'Ashgrim le Calciné',desc:"Cœur de Cendra découvert. L'île volcanique renaît comme foyer de magie ígnée (~1 000 ap.A)."},
+        {y:1195,t:'disparition',title:'Fragmentation — naissance des Souffleurs',desc:"La proto-Cendara se fragmente à l'époque du Fléau des Failles (~1 500 ap.A). Les Souffleurs de Cendre émergent."},
     ]},
 
     // ═══════════════════════════════════════════════════
@@ -921,18 +996,46 @@ const CIV = [
         {y:776,t:'fondation',title:'État théocratique bienveillant',desc:'Reconvergence des traditions prêtriques de Celith. Dernier État-prêtre de Celethor (~1 000 av.A). Capitale Orivanel.'},
         {y:810,t:'disparition',title:'Silence des dieux',desc:"L'Arrachement. Plus aucune réponse du Lien. Les prêtres se taisent."},
     ]},
-    {name:'Astravia', color:'#6050a0', y0:960, y1:3100, cont:'Celethor',
-     lignee:'celethor', from:"Sanctuaire d'Orivane", reg:'Archimagie — Conseil des 7', events:[
+    // ── Civilisations intermédiaires de Celethor ──
+    {name:'Veillants d\'Orith', color:'#507080', y0:960, y1:1100, cont:'Celethor', dead:true,
+     lignee:'celethor', from:"Sanctuaire d'Orivane", reg:'Nomades forestiers', events:[
+        {y:965,t:'fondation',title:'Tradition des forêts profondes',desc:"Héritiers directs du Sanctuaire d'Orivane. Gardiens nomades des forêts de Celethor (~200 ap.A)."},
+        {y:1100,t:'fondation',title:'Sédentarisation progressive',desc:"Les Veillants se sédentarisent (~800 ap.A). Naissance de la Ligue des Clairières."},
+    ]},
+    {name:'Ligue des Clairières (Orivath)', color:'#508070', y0:1100, y1:1300, cont:'Celethor', dead:true,
+     lignee:'celethor', from:"Veillants d'Orith", reg:'Ligue des clairières', events:[
+        {y:1105,t:'fondation',title:'Clairières forestières de Celethor',desc:"La sédentarisation forme la Ligue des Clairières (~800 ap.A). Architecture bois et pierre naturelle."},
+        {y:1300,t:'disparition',title:'Fracture politique',desc:"La Ligue se fracture (~1 600 ap.A). Le Conclave de Selvorn émerge comme médiateur."},
+    ]},
+    {name:'Conclave de Selvorn', color:'#405870', y0:1300, y1:1837, cont:'Celethor', dead:true,
+     lignee:'celethor', from:"Ligue des Clairières (Orivath)", reg:'État médiateur', events:[
+        {y:1310,t:'fondation',title:'Médiateur entre clans',desc:"Le Conclave s'impose comme arbitre des conflits forestiers (~1 600 ap.A)."},
+        {y:1700,t:'disparition',title:'Marginalisation progressive',desc:"Marginalité croissante (~3 800 ap.A). La Fédération de Thalvorn le supplante."},
+        {y:1837,t:'disparition',title:'Dissolution finale',desc:"Le Conclave se dissout dans la Fédération de Thalvorn (~3 800 ap.A)."},
+    ]},
+    {name:'Fédération de Thalvorn', color:'#406068', y0:1720, y1:2252, cont:'Celethor', dead:true,
+     lignee:'celethor', from:'Conclave de Selvorn', reg:'Fédération forestière', events:[
+        {y:1725,t:'fondation',title:'Forêts intérieures de Celethor',desc:"La Fédération absorbe le Conclave et unifie les forêts intérieures (~4 000 ap.A)."},
+        {y:2200,t:'catastrophe',title:'Dessèchement Gris',desc:"Catastrophe écologique frappant les forêts de Celethor (~7 500 ap.A). La Fédération s'effondre."},
+        {y:2252,t:'disparition',title:'Dissolution — Protectorat d\'Oriven',desc:"Le Protectorat d'Oriven prend le relais (~7 500 ap.A)."},
+    ]},
+    {name:'Protectorat d\'Oriven', color:'#507888', y0:2252, y1:2540, cont:'Celethor', dead:true,
+     lignee:'celethor', from:'Fédération de Thalvorn', reg:'Protectorat centralisé', events:[
+        {y:2255,t:'fondation',title:'Tout Celethor unifié',desc:"Le Protectorat succède à la Fédération après le Dessèchement Gris (~7 500 ap.A)."},
+        {y:2540,t:'disparition',title:'Fragmentation volontaire',desc:"Le Protectorat se fragmente délibérément en plusieurs nations (~9 200 ap.A). Naissance d'Astravia, Caeloria, Halcyon, Orvalis."},
+    ]},
+    {name:'Astravia', color:'#6050a0', y0:2540, y1:3100, cont:'Celethor',
+     lignee:'celethor', from:"Protectorat d'Oriven", reg:'Archimagie — Conseil des 7', events:[
         {y:1050,t:'magie',title:"Ère de l'Ascension",desc:'Héritière directe du Sanctuaire (même site Orivanel). Civilisation céleste via aethérite.'},
         {y:1620,t:'disparition',title:'Chute de Caelum Prima',desc:'La grande catastrophe magique. La cité-phare d\'Astravia s\'écrase.'},
         {y:1750,t:'fondation',title:"Ère de la Prudence",desc:'7 Archimages régissent une reconstruction méticuleuse. Plus jamais de cités volantes.'},
         {y:2900,t:'disparition',title:'Aethérite en déclin',desc:'Les réserves s\'épuisent. Une faction secrète cherche à extraire le dernier filon.'},
     ]},
-    {name:'Caeloria', color:'#5080b0', y0:1560, y1:3100, cont:'Azoria',
-     lignee:'celethor', from:"Sanctuaire d'Orivane", reg:'Théocratie stellaire', events:[
-        {y:1600,t:'religion',title:'Ordo Caelum établi',desc:'Courant né à Orivanel (Celethor), relocalisé en Azoria. 5 Observatoires de cristal.'},
-        {y:1650,t:'fondation',title:'Aldren le Juste',desc:'Intervention divine de Celestia. Théocratie établie en Azoria.'},
-        {y:2344,t:'religion',title:'Édit de Celestia',desc:'Emplois publics réservés aux Liés (~8 100 ap.A). Discrimination institutionnalisée.'},
+    {name:'Caeloria', color:'#5080b0', y0:2540, y1:3100, cont:'Azoria',
+     lignee:'celethor', from:"Protectorat d'Oriven", reg:'Théocratie stellaire', events:[
+        {y:2545,t:'fondation',title:'Issue du Protectorat d\'Oriven',desc:"Le courant théocratique celethorien se relocalise en Azoria (~9 300 ap.A). 5 Observatoires de cristal."},
+        {y:2560,t:'religion',title:'Aldren le Juste',desc:'Intervention divine de Celestia. Théocratie stellaire établie en Azoria (~9 300 ap.A).'},
+        {y:2700,t:'religion',title:'Édit de Celestia',desc:'Emplois publics réservés aux Liés. Discrimination institutionnalisée.'},
         {y:2850,t:'magie',title:'Enfants Yeux Blancs',desc:'Naissances croissantes. Présage d\'un événement cosmique selon les prêtres.'},
     ]},
     {name:'Elarian', color:'#405060', y0:980, y1:3100, cont:'Celethor',
@@ -962,16 +1065,47 @@ const CIV = [
         {y:776,t:'fondation',title:'Confédération impériale',desc:'Commerce et Lien unis. Héritiers d\'Alkarath (~1 000 av.A). Cité volante Lithanel Haute.'},
         {y:810,t:'disparition',title:'Chute — Arrachement',desc:'Lithanel Haute s\'écrase. Routes commerciales coupées. Chaos et famine.'},
     ]},
-    {name:'Altram', color:'#c8a84b', y0:960, y1:3100, cont:'Alkaran',
-     lignee:'alkaran', from:'Empire de Lithane', reg:'Monarchie éclairée', events:[
-        {y:1046,t:'fondation',title:'Royaume de Tharnok',desc:'Hadris Tharnok, lignée Enfants de la Roche. Forteresse de Pierre-Grise. Code de Pierre perpétué (~600 ap.A).'},
-        {y:1620,t:'fondation',title:'Varnok le Forgeur',desc:'Altram succède à Tharnok. Monarchie Éclairée. Réformes sociales.'},
-        {y:2455,t:'conquete',title:'Défense Porte de Fer',desc:'Repousse coalition Drakora-Gryndor. Frontières fixées (~8 800 ap.A).'},
+    {name:'Trois Marches de Tharnok', color:'#b89030', y0:960, y1:1780, cont:'Alkaran', dead:true,
+     lignee:'alkaran', from:'Empire de Lithane', reg:'Trois marches feudales', events:[
+        {y:975,t:'fondation',title:'Héritières d\'Alkarath',desc:"Trois domaines issus de l'Empire de Lithane. Héritent du Code de Pierre (~600 ap.A)."},
+        {y:1780,t:'disparition',title:'Guerres de l\'Héritage',desc:"Les Trois Marches s'épuisent dans des guerres dynastiques (~4 600 ap.A). Le Royaume de Varnath émerge."},
     ]},
-    {name:'Myrtam', color:'#a04020', y0:1560, y1:3100, cont:'Alkaran',
-     lignee:'onara', from:'Mosrack', reg:'Monarchie industrielle', note:'Faction terrienne du Forgon', events:[
-        {y:1650,t:'fondation',title:'Myr le Fondeur',desc:"Faction terrienne du Forgon. Acier Éternel — alliage impossible à briser par les moyens normaux."},
-        {y:2750,t:'dynastie',title:'Thorvald VIII',desc:'Monarchie Industrielle. Les forges de Myrtam équipent la moitié du monde.'},
+    {name:'Royaume de Varnath', color:'#c8a030', y0:1780, y1:2010, cont:'Alkaran', dead:true,
+     lignee:'alkaran', from:'Trois Marches de Tharnok', reg:'Monarchie nordique', events:[
+        {y:1785,t:'fondation',title:'Nord montagneux d\'Alkaran',desc:"Varnath unifie les Marches après les guerres dynastiques (~4 600 ap.A)."},
+        {y:2010,t:'disparition',title:'Guerre civile dynastique',desc:"Varnath s'effondre dans une guerre civile (~6 200 ap.A). Débute l'Ère des Seigneurs de la Pierre."},
+    ]},
+    {name:'Ère des Seigneurs de la Pierre', color:'#a08028', y0:2010, y1:2210, cont:'Alkaran', dead:true,
+     lignee:'alkaran', from:'Royaume de Varnath', reg:'Seigneuries fragmentées', events:[
+        {y:2015,t:'fondation',title:'Fragmentation post-Varnath',desc:"Alkaran fragmenté entre seigneurs de la pierre rivaux (~6 200 ap.A). Pas d'autorité centrale."},
+        {y:2200,t:'fondation',title:'Menace extérieure — union forcée',desc:"Une menace commune force les seigneurs à s'unir (~7 400 ap.A). Naissance du Protectorat des Passes."},
+        {y:2210,t:'disparition',title:'Absorption dans le Protectorat',desc:"Les seigneuries se fondent dans le Protectorat des Passes (~7 400 ap.A)."},
+    ]},
+    {name:'Protectorat des Passes', color:'#c8a840', y0:2210, y1:2475, cont:'Alkaran', dead:true,
+     lignee:'alkaran', from:'Ère des Seigneurs de la Pierre', reg:'Protectorat unifié', events:[
+        {y:2215,t:'fondation',title:'Unification face à la menace',desc:"Le Protectorat unifie Alkaran face à une menace extérieure commune (~7 400 ap.A)."},
+        {y:2455,t:'conquete',title:'Défense de la Porte de Fer — Aldren IV',desc:"Le Protectorat sous Aldren IV repousse la coalition Drakora-Gryndor (~8 800 ap.A). Victoire décisive."},
+        {y:2475,t:'disparition',title:'Mort d\'Aldren IV — crise de succession',desc:"La mort d'Aldren IV sans héritier désigné déclenche l'Interrègne (~8 850 ap.A)."},
+    ]},
+    {name:'Interrègne des Héritiers', color:'#b09030', y0:2475, y1:2520, cont:'Alkaran', dead:true,
+     lignee:'alkaran', from:'Protectorat des Passes', reg:'Interrègne — 5 prétendants', events:[
+        {y:2480,t:'fondation',title:'Cinq prétendants — chaos politique',desc:"Cinq prétendants se disputent la succession (~8 850 ap.A). Alkaran au bord de la guerre civile."},
+        {y:2520,t:'traite',title:'Traité de Vask → Altram',desc:"Le Traité de Vask met fin à l'Interrègne (~9 100 ap.A). Altram est fondé."},
+    ]},
+    {name:'Altram', color:'#c8a84b', y0:2520, y1:3100, cont:'Alkaran',
+     lignee:'alkaran', from:'Interrègne des Héritiers', reg:'Monarchie éclairée', events:[
+        {y:2525,t:'fondation',title:'Traité de Vask — fondation',desc:'Altram fondé sur les cendres de l\'Interrègne (~9 100 ap.A). Monarchie Éclairée. Héritière du Code de Pierre.'},
+        {y:2700,t:'commerce',title:'Forges d\'Altram',desc:'Les forges équipent la moitié du monde. Alliance commerciale avec Mosrack.'},
+    ]},
+    {name:'Iskara', color:'#a88030', y0:2540, y1:3100, cont:'Alkaran',
+     lignee:'alkaran', from:'Protectorat des Passes', reg:'Confédération montagnarde', events:[
+        {y:2545,t:'fondation',title:'Scission du Protectorat des Passes',desc:"La faction orientale du Protectorat forme Iskara (~9 400 ap.A). Héritière des traditions minières."},
+        {y:2700,t:'commerce',title:'Mines d\'Iskara',desc:"Les mines d'Iskara alimentent les forges d'Altram et de Myrtam."},
+    ]},
+    {name:'Ferrath', color:'#988020', y0:2740, y1:3100, cont:'Alkaran',
+     lignee:'alkaran', from:'Protectorat des Passes', reg:'Forge-État', events:[
+        {y:2745,t:'fondation',title:'Issue tardive du Protectorat',desc:"Ferrath se consolide en dernier, long après Altram (~9 800 ap.A). Spécialisation dans les alliages rares."},
+        {y:2800,t:'commerce',title:'Acier de Ferrath',desc:"Réputation mondiale pour les métaux d'exception."},
     ]},
 
     // ═══════════════════════════════════════════════════
@@ -992,30 +1126,80 @@ const CIV = [
      lignee:'galenor', from:"Hégémonie d'Aethran", reg:'Oligarchie marchande', events:[
         {y:990,t:'fondation',title:"Héritière d'Aethran",desc:"Successeur direct de l'Hégémonie. Exclue de la Convention de Gryndor."},
         {y:1600,t:'commerce',title:'Expansion économique',desc:"Routes caravanières. Carrefour commercial de Galenor (~3 500 ap.A)."},
-        {y:1898,t:'conquete',title:'Guerre des Trois Couronnes',desc:"Scission en Kharazir, Ventera, Seraphia, Lumasar (~5 200 ap.A)."},
+        {y:1898,t:'conquete',title:'Guerre des Trois Couronnes',desc:"Scission → Ligue Équestre + Hégémonie de Solkethis (~5 200 ap.A). Kharazir, Ventera, Seraphia et Lumasar émergeront bien plus tard."},
     ]},
-    {name:'Kharazir', color:'#a08040', y0:1898, y1:3100, cont:'Galenor',
-     lignee:'galenor', from:'Galenthis', reg:'Fédération — Charte des 7 piliers', events:[
+    // ── Civilisations intermédiaires de Galenor ──
+    {name:'Confédération de Galenthis-Centre', color:'#908030', y0:1720, y1:1898, cont:'Galenor', dead:true,
+     lignee:'galenor', from:'Galenthis', reg:'Confédération des plaines', events:[
+        {y:1725,t:'fondation',title:'Plaines centrales unifiées',desc:"Issue de la fragmentation de Galenthis. Contrôle les routes caravanières intérieures (~4 200 ap.A)."},
+        {y:1898,t:'disparition',title:'Guerre dynastique — Cycle Brisé',desc:"Effacement par la Guerre des Trois Couronnes (~5 200 ap.A). Héritages dispersés."},
+    ]},
+    {name:'Hégémonie de Solkethis', color:'#b09030', y0:1720, y1:1960, cont:'Galenor', dead:true,
+     lignee:'galenor', from:'Galenthis', reg:'Hégémonie marchande', events:[
+        {y:1730,t:'fondation',title:'Sud et est de Galenthis',desc:"Issue de la Guerre des Trois Couronnes. Hégémonie économique sur les cités portuaires (~4 200 ap.A)."},
+        {y:1900,t:'fondation',title:'Apogée commercial',desc:"Capitale Solkethis. Contrôle des routes maritimes sud (~5 800 ap.A)."},
+        {y:1960,t:'disparition',title:'Schisme intellectuel + sécession marchande',desc:"Lumasar fait sécession (~5 800 ap.A). L'Hégémonie perd son unité économique et intellectuelle."},
+    ]},
+    {name:'Ligue Équestre de Galenor', color:'#a07030', y0:1720, y1:2200, cont:'Galenor', dead:true,
+     lignee:'galenor', from:'Galenthis', reg:'Ligue de cavaliers', events:[
+        {y:1730,t:'fondation',title:'Cavaliers des plaines ouest',desc:"Nés de la Guerre des Trois Couronnes. Héritiers des traditions nomades des Ventori (~4 300 ap.A)."},
+        {y:2000,t:'rebellion',title:'Sécession des Cavaliers Libres',desc:"Fracture interne de la Ligue (~6 800 ap.A). Le mouvement des Cavaliers Libres revendique l'autonomie."},
+        {y:2200,t:'disparition',title:'Dissolution — sécession définitive',desc:"La Ligue Équestre se fragmente. Ventera hérite des traditions nomades (~7 200 ap.A)."},
+    ]},
+    {name:'Principauté de Caverana', color:'#c07050', y0:1640, y1:2080, cont:'Galenor', dead:true,
+     lignee:'galenor', from:'Galenthis', reg:'Principauté de montagne', events:[
+        {y:1650,t:'fondation',title:'Montagnes sud-est',desc:"Issue des guerres post-Galenthis. Principauté indépendante dans les passes (~3 800 ap.A)."},
+        {y:2000,t:'religion',title:'Incendie Sacré',desc:"Catastrophe religieuse qui ravage les temples (~6 400 ap.A). La Principauté ne s'en relève pas."},
+        {y:2080,t:'disparition',title:'Chute suite à l\'Incendie Sacré',desc:"La Principauté s'effondre suite à la catastrophe religieuse (~6 400 ap.A). Hérite Seraphia."},
+    ]},
+    {name:'Duché de Solenor', color:'#907040', y0:1660, y1:2200, cont:'Galenor', dead:true,
+     lignee:'galenor', from:'Galenthis', reg:'Duché côtier', events:[
+        {y:1670,t:'fondation',title:'Côtes méridionales',desc:"Duché né des guerres de succession post-Galenthis. Cités portuaires du sud (~3 800 ap.A)."},
+        {y:2200,t:'fondation',title:'Transformation progressive → Solena',desc:"Le Duché se transforme pacifiquement en Solena (~7 200 ap.A). Continuité dynastique."},
+    ]},
+    {name:'Tyndareth', color:'#507090', y0:1898, y1:2410, cont:'Galenor', dead:true,
+     lignee:'galenor', from:'Galenthis', reg:'État côtier', events:[
+        {y:1910,t:'fondation',title:'Côtes nord de Galenthis',desc:"Hérite des cités portuaires nord après la Guerre des Trois Couronnes (~5 200 ap.A)."},
+        {y:2410,t:'fondation',title:'Transformation → Tyndara',desc:"Tyndareth se transforme progressivement en Tyndara (~8 400 ap.A). Réformes marchandes."},
+    ]},
+    {name:'Cité-État du Carrefour', color:'#908040', y0:2100, y1:2520, cont:'Galenor', dead:true,
+     lignee:'galenor', from:'Hégémonie de Solkethis', reg:'Cité-État', events:[
+        {y:2110,t:'fondation',title:'Nord-est de Galenor',desc:"Née de l'effondrement de l'Hégémonie de Solkethis. Position stratégique au carrefour des routes (~6 800 ap.A)."},
+        {y:2520,t:'fondation',title:'Transformation → Kharazir',desc:"La Cité-État se structure en Fédération de Kharazir (~9 100 ap.A). Charte des 7 piliers."},
+    ]},
+    {name:'Kharazir', color:'#a08040', y0:2520, y1:3100, cont:'Galenor',
+     lignee:'galenor', from:'Cité-État du Carrefour', reg:'Fédération — Charte des 7 piliers', events:[
         {y:1900,t:'fondation',title:'Mirael Azurin',desc:'Hérite des ports nord de Galenthis et du site d\'Aethranor. Charte des 7 piliers.'},
         {y:2344,t:'religion',title:'Loi du Sol — tissu jaune',desc:'Déliés ne peuvent posséder de terre. Tissu jaune obligatoire (~8 300 ap.A).'},
         {y:2890,t:'rebellion',title:"Enfants du Vide",desc:'Clandestins. Refusent le tissu jaune. Sabotage symbolique (~9 900 ap.A).'},
     ]},
-    {name:'Lumasar', color:'#7060a0', y0:1898, y1:3100, cont:'Galenor',
-     lignee:'galenor', from:'Galenthis', reg:'République — seule d\'Hybélior', events:[
-        {y:1900,t:'fondation',title:'Cité libre — Accords de Lumasar',desc:'Site académique depuis l\'Hégémonie. Obtient l\'indépendance après la Guerre des Trois Couronnes.'},
+    {name:'Lumasar', color:'#7060a0', y0:1960, y1:3100, cont:'Galenor',
+     lignee:'galenor', from:'Hégémonie de Solkethis', reg:'République — seule d\'Hybélior', events:[
+        {y:1965,t:'fondation',title:'Sécession de l\'Hégémonie',desc:"Site académique depuis l'Hégémonie. Fait sécession et obtient son indépendance (~5 800 ap.A)."},
         {y:2252,t:'rebellion',title:'Révolution des Plumes',desc:"Seule véritable révolution républicaine d'Hybélior. Oligarchie → République. Code de Lumasar (~7 500 ap.A)."},
         {y:2700,t:'traite',title:'Tribunal de Lumasar',desc:'1 847 décisions rendues. 17% ignorées. Consul Orath Dovan.'},
     ]},
-    {name:'Seraphia', color:'#c0a050', y0:1898, y1:3100, cont:'Galenor',
-     lignee:'galenor', from:'Galenthis', reg:'Théocratie — Primat', events:[
-        {y:1900,t:'fondation',title:'Altheus entend Cantor',desc:"Hérite des cités sud de Galenthis. Fonde Althior. L'ère des cathédrales commence."},
+    {name:'Seraphia', color:'#c0a050', y0:2440, y1:3100, cont:'Galenor',
+     lignee:'galenor', from:'Principauté de Caverana', reg:'Théocratie — Primat', events:[
+        {y:2445,t:'fondation',title:'Héritière de la Principauté de Caverana',desc:"Altheus entend Cantor après l'Incendie Sacré. Fonde Althior sur les ruines de Caverana (~8 800 ap.A). L'ère des cathédrales commence."},
         {y:2700,t:'dynasty',title:'Primat Ilynara',desc:'Voix qui fleurit. Décisions ecclésiastiques mondiales.'},
     ]},
-    {name:'Ventera', color:'#5090a0', y0:1898, y1:3100, cont:'Galenor',
-     lignee:'galenor', from:'Galenthis', reg:'Monarchie élective', events:[
-        {y:1900,t:'fondation',title:'Plaines centrales de Galenthis',desc:'Hérite des plaines — cœur historique des Coureurs. Héritage nomade direct.'},
-        {y:2000,t:'rebellion',title:'Révolte des Cavaliers',desc:'Monarchie élective instaurée. Le roi est élu par les clans.'},
+    {name:'Ventera', color:'#5090a0', y0:2540, y1:3100, cont:'Galenor',
+     lignee:'galenor', from:'Ligue Équestre de Galenor', reg:'Monarchie élective', events:[
+        {y:2545,t:'fondation',title:'Héritière des Cavaliers Libres',desc:'Née de la dissolution de la Ligue Équestre. Hérite des plaines — cœur historique des Coureurs (~9 200 ap.A).'},
+        {y:2560,t:'rebellion',title:'Monarchie élective instaurée',desc:'Le roi est élu par les clans de cavaliers. Héritage nomade perpétué.'},
         {y:2700,t:'dynasty',title:'Aldren',desc:'Élu au mérite. Cavaliers du Vent.'},
+    ]},
+    {name:'Solena', color:'#907040', y0:2200, y1:3100, cont:'Galenor',
+     lignee:'galenor', from:'Duché de Solenor', reg:'Monarchie côtière', events:[
+        {y:2205,t:'fondation',title:'Issue du Duché de Solenor',desc:"Transformation progressive du Duché de Solenor en Solena (~7 200 ap.A). Continuité dynastique sur les côtes méridionales."},
+        {y:2700,t:'commerce',title:'Flotte marchande de Solena',desc:"Les ports de Solena dominent le commerce côtier sud de Galenor."},
+    ]},
+    {name:'Tyndara', color:'#507090', y0:2410, y1:3100, cont:'Galenor',
+     lignee:'galenor', from:'Tyndareth', reg:'République marchande', events:[
+        {y:2415,t:'fondation',title:'Issue de Tyndareth',desc:"Tyndareth se transforme en Tyndara sous l'impulsion de réformes marchandes (~8 400 ap.A)."},
+        {y:2500,t:'alliance',title:'Ligue des Marchands',desc:'République marchande. Comptoirs sur tous les continents.'},
+        {y:2720,t:'dynasty',title:'Archonte Valdris III',desc:'Prospérité record. Réseau commercial mondial.'},
     ]},
 
     // ═══════════════════════════════════════════════════
@@ -1035,24 +1219,61 @@ const CIV = [
     {name:"Drahk'Nor", color:'#8b4020', y0:1089, y1:1837, cont:'Ilthara', dead:true,
      lignee:'ilthara', from:'Dominat de Pyrion', reg:'Monarchie impériale absolue', events:[
         {y:1100,t:'fondation',title:'Drahk le Consolidateur',desc:"Fondé depuis les ruines de Pyros. 40 ans de campagnes. Unifie Ilthara et Endora (~800 ap.A)."},
-        {y:1350,t:'dynastie',title:'Impératrice Sera',desc:'47 ans de règne. Collège des Légats. Réformes fiscales (~1 350 ap.A).'},
+        {y:1350,t:'dynasty',title:'Impératrice Sera',desc:'47 ans de règne. Collège des Légats. Réformes fiscales (~1 350 ap.A).'},
         {y:1460,t:'disparition',title:'Tyrannie des Cendres',desc:"Inspecteurs de Pureté. Persécution et euthanasie des Tissés (~1 450 ap.A)."},
-        {y:1837,t:'conquete',title:'Guerre du Panghor Brisé',desc:"Scission en Drakora, Gryndor, Haldria (~4 800 ap.A)."},
+        {y:1837,t:'conquete',title:'Guerre du Panghor Brisé',desc:"Scission → Triumvirats de Khorrath + Voivodat de Gryndhaar (~4 800 ap.A). Drakora et Gryndor n'émergeront que des siècles plus tard."},
     ]},
-    {name:'Drakora', color:'#b03020', y0:1837, y1:3100, cont:'Ilthara',
-     lignee:'ilthara', from:"Drahk'Nor", reg:'Grand-duché militariste', events:[
-        {y:1837,t:'fondation',title:"Grand-Duché fondé",desc:"Vorath Shan ouvre les portes nord de Drahk'Nor (~4 800 ap.A). Hérite de la tradition draconique millénaire d'Ilthara-nord."},
-        {y:2700,t:'dynastie',title:'Grand-Duc Vorath VI',desc:"Contacts discrets avec la Catena Fracta. Rival acharné de Gryndor."},
+    // ── Civilisations intermédiaires d'Ilthara ──
+    {name:'Triumvirats de Khorrath', color:'#903020', y0:1837, y1:1960, cont:'Ilthara', dead:true,
+     lignee:'ilthara', from:"Drahk'Nor", reg:'Triumvirat — 3 généraux', events:[
+        {y:1840,t:'fondation',title:'Nés des cendres de Drahk\'Nor',desc:"Trois généraux se partagent le centre-nord d'Ilthara (~4 800 ap.A). Guerre civile interne permanente."},
+        {y:1960,t:'disparition',title:'Guerre civile — absorption',desc:"Les Triumvirats s'effondrent (~5 400 ap.A). Le Drakhal absorbe leurs territoires."},
     ]},
-    {name:'Gryndor', color:'#806040', y0:1837, y1:3100, cont:'Ilthara',
-     lignee:'ilthara', from:"Drahk'Nor", reg:'Théocratie du savoir', events:[
-        {y:1837,t:'fondation',title:'Fondation — Illara de Gryndor',desc:"Hérite du cœur intellectuel de Drahk'Nor. Identité Vael'Kurash. Bibliothèques de cristal (~4 800 ap.A)."},
-        {y:1950,t:'fondation',title:'Restauration',desc:'Theldryn III reconstruit les bibliothèques de mémoire après un siècle sombre.'},
+    {name:'Voivodat de Gryndhaar', color:'#705030', y0:1898, y1:1960, cont:'Ilthara', dead:true,
+     lignee:'ilthara', from:"Drahk'Nor", reg:'Voivodat nordique', events:[
+        {y:1900,t:'fondation',title:'Nord montagneux d\'Ilthara',desc:"Fondé par les survivants du nord de Drahk'Nor (~5 200 ap.A). Structure de voïvodes héréditaires."},
+        {y:1960,t:'disparition',title:'Conquête par le Drakhal',desc:"Le Drakhal (Empire des Cendres) absorbe le Voivodat (~5 400 ap.A)."},
+    ]},
+    {name:'Drakhal — Empire des Cendres', color:'#802818', y0:1960, y1:2160, cont:'Ilthara', dead:true,
+     lignee:'ilthara', from:'Triumvirats de Khorrath', reg:'Empire autoritaire', events:[
+        {y:1965,t:'fondation',title:'Unification du centre et du sud',desc:"Absorbe les Triumvirats et le Voivodat. Domine presque tout Ilthara (~5 800 ap.A)."},
+        {y:2060,t:'conquete',title:'Apogée du Drakhal',desc:"Empire des Cendres à son maximum d'extension. Pression sur les frontières voisines (~6 600 ap.A)."},
+        {y:2160,t:'catastrophe',title:'Éruption volcanique — déclin',desc:"Catastrophe volcanique frappe le cœur du Drakhal (~7 100 ap.A). Déclin accéléré, fragmentation."},
+    ]},
+    {name:'Cités-États de Pyrathis', color:'#c04518', y0:2110, y1:2360, cont:'Ilthara', dead:true,
+     lignee:'ilthara', from:'Drakhal — Empire des Cendres', reg:'Cités-États indépendantes', events:[
+        {y:2115,t:'fondation',title:'Nées de l\'éruption',desc:"Les Cités-États émergent dans le sillage de l'éruption qui fracture le Drakhal (~7 050 ap.A)."},
+        {y:2360,t:'disparition',title:'Absorption par Pyrannex',desc:"L'Hégémonie de Pyrannex absorbe les Cités-États (~8 200 ap.A)."},
+    ]},
+    {name:'Hégémonie de Pyrannex', color:'#b03818', y0:2360, y1:2650, cont:'Ilthara', dead:true,
+     lignee:'ilthara', from:'Cités-États de Pyrathis', reg:'Hégémonie militaire', events:[
+        {y:2365,t:'fondation',title:'Unification du sud d\'Ilthara',desc:"Pyrannex absorbe les Cités-États et unifie tout le sud (~8 200 ap.A)."},
+        {y:2650,t:'disparition',title:'Coup mercenaire + guerre civile',desc:"Renversement par des mercenaires recrutés contre une menace extérieure (~9 300 ap.A). Donne naissance à Pyrtara."},
+    ]},
+    {name:'Marches de Khorrath', color:'#7a3820', y0:2160, y1:2500, cont:'Ilthara', dead:true,
+     lignee:'ilthara', from:'Drakhal — Empire des Cendres', reg:'Zone chaotique — seigneurs de guerre', events:[
+        {y:2165,t:'fondation',title:'Zone de chaos post-Drakhal',desc:"Les Marches émergent dans le vide laissé par l'effondrement du Drakhal (~7 100 ap.A). Seigneurs de guerre en conflit perpétuel."},
+        {y:2500,t:'disparition',title:'Absorption par proto-Drakora',desc:"Les factions les plus cohérentes des Marches forment Drakora (~9 000 ap.A)."},
+    ]},
+    {name:'Khaghanat de Gryndhaal', color:'#706048', y0:2060, y1:2540, cont:'Ilthara', dead:true,
+     lignee:'ilthara', from:'Voivodat de Gryndhaar', reg:'Khaghanat du nord profond', events:[
+        {y:2065,t:'fondation',title:'Renaissance du nord profond',desc:"Issu du Voivodat, le Khaghanat unifie le nord montagneux (~6 600 ap.A). Tradition de bibliothèques orales."},
+        {y:2540,t:'fondation',title:'Transformation → Gryndor',desc:"Le Khaghanat se transforme progressivement en Gryndor (~9 200 ap.A). Continuité intellectuelle."},
+    ]},
+    {name:'Drakora', color:'#b03020', y0:2500, y1:3100, cont:'Ilthara',
+     lignee:'ilthara', from:'Marches de Khorrath', reg:'Grand-duché militariste', events:[
+        {y:2505,t:'fondation',title:"Grand-Duché fondé sur les Marches",desc:"Vorath Shan unifie les Marches de Khorrath (~9 100 ap.A). Hérite de la tradition draconique millénaire d'Ilthara-nord."},
+        {y:2700,t:'dynasty',title:'Grand-Duc Vorath VI',desc:"Contacts discrets avec la Catena Fracta. Rival acharné de Gryndor."},
+    ]},
+    {name:'Gryndor', color:'#806040', y0:2540, y1:3100, cont:'Ilthara',
+     lignee:'ilthara', from:'Khaghanat de Gryndhaal', reg:'Théocratie du savoir', events:[
+        {y:2545,t:'fondation',title:'Héritier intellectuel du Khaghanat',desc:"Hérite du cœur intellectuel du Khaghanat. Identité Vael'Kurash. Bibliothèques de cristal (~9 200 ap.A)."},
+        {y:2600,t:'fondation',title:'Restauration des bibliothèques',desc:'Theldryn III reconstruit les bibliothèques de mémoire et codifie le Vael\'Kurash.'},
         {y:3056,t:'mystere',title:'Faille — Ordavan disparaît',desc:'200 hab. en 3 min. Sol vitrifié. Faille de Tempora (~10 142 ap.A).'},
     ]},
-    {name:'Pyrtara', color:'#c04020', y0:2206, y1:3100, cont:'Ilthara',
-     lignee:'ilthara', from:'Gryndor', reg:'Méritocratie militaire', events:[
-        {y:2206,t:'fondation',title:'Commandant Pyrax — État séculier',desc:'Scission ouest de Gryndor. Capital à Pyros (site historique du Dominat de Pyrion). Méritocratie militaire (~7 200 ap.A). Les Déliés peuvent être généraux.'},
+    {name:'Pyrtara', color:'#c04020', y0:2650, y1:3100, cont:'Ilthara',
+     lignee:'ilthara', from:'Hégémonie de Pyrannex', reg:'Méritocratie militaire', events:[
+        {y:2655,t:'fondation',title:'Commandant Pyrax — État séculier',desc:'Né du coup mercenaire contre Pyrannex. Capital à Pyros (site historique du Dominat de Pyrion). Méritocratie militaire (~9 300→9 650 ap.A). Les Déliés peuvent être généraux.'},
         {y:2800,t:'alliance',title:'Brigade de Pyrtara',desc:"Accueille réfugiés Déliés de Kharazir et Gryndor. Tension avec Caeloria."},
     ]},
 
@@ -1065,22 +1286,54 @@ const CIV = [
         {y:475,t:'magie',title:"Âge d'Or arcanique",desc:'Magie institutionnalisée. 400 ans de paix et de prospérité.'},
         {y:575,t:'disparition',title:'Incendie de la capitale',desc:'7 cités rasées. Fin de l\'empire. Diaspora endarine.'},
     ]},
-    {name:'Haldria', color:'#4060a0', y0:1837, y1:3100, cont:'Endora',
-     lignee:'endora', from:"Drahk'Nor", reg:'Aristocratie marchande', note:'Guildes d\'Endora issues de Drahk\'Nor', events:[
-        {y:1837,t:'fondation',title:'Aristocratie marchande',desc:"Guildes d'Endora → Conseil Commercial (~4 800 ap.A). Issue de l'effondrement de Drahk'Nor."},
+    // ── Civilisations intermédiaires d'Endora ──
+    {name:'Cités-Vigiles', color:'#506088', y0:1837, y1:1960, cont:'Endora', dead:true,
+     lignee:'endora', from:"Drahk'Nor", reg:'Cités indépendantes', events:[
+        {y:1840,t:'fondation',title:'Issue de Drahk\'Nor',desc:"Tout Endora fragmenté en cités-vigiles autonomes à l'effondrement de Drahk'Nor (~4 800 ap.A)."},
+        {y:1960,t:'disparition',title:'Dissolution progressive',desc:"Les Cités-Vigiles perdent leur cohésion (~5 400 ap.A). La Confédération Veldrane les absorbe."},
+    ]},
+    {name:'Confédération Veldrane', color:'#4858a0', y0:1898, y1:2060, cont:'Endora', dead:true,
+     lignee:'endora', from:'Cités-Vigiles', reg:'Confédération des plaines', events:[
+        {y:1905,t:'fondation',title:'Plaines centrales d\'Endora',desc:"Issue de la consolidation des Cités-Vigiles (~5 200 ap.A)."},
+        {y:2060,t:'disparition',title:'Guerre des Sceaux',desc:"La Confédération s'effondre dans la Guerre des Sceaux (~6 100 ap.A). Les États Haldrins émergent."},
+    ]},
+    {name:'États Haldrins', color:'#3850a0', y0:2010, y1:2210, cont:'Endora', dead:true,
+     lignee:'endora', from:'Confédération Veldrane', reg:'États féodaux du nord', events:[
+        {y:2015,t:'fondation',title:'Nord et centre d\'Endora',desc:"Fragmentations issues de la Confédération Veldrane (~6 000 ap.A). Aristocraties féodales."},
+        {y:2180,t:'religion',title:'Grand Schisme Noctari',desc:"Guerre religieuse interne autour du Noctari (~6 800 ap.A — schismes d'Endora)."},
+        {y:2210,t:'disparition',title:'Conquête par Kalvorn',desc:"L'Empire Kalvorn conquiert tout Endora (~7 200 ap.A)."},
+    ]},
+    {name:'Empire Kalvorn', color:'#2a4080', y0:2160, y1:2410, cont:'Endora', dead:true,
+     lignee:'endora', from:'États Haldrins', reg:'Empire unifié', events:[
+        {y:2165,t:'fondation',title:'Unification totale d\'Endora',desc:"L'Empire Kalvorn unifie Endora par conquête progressive (~7 100 ap.A)."},
+        {y:2360,t:'disparition',title:'Décennie Rouge — 3 assassinats dynastiques',desc:"Trois empereurs assassinés en dix ans (~8 300 ap.A). L'Empire se fragmente sous les coups de la Décennie Rouge."},
+        {y:2410,t:'disparition',title:'Effondrement total',desc:"Kalvorn disparaît (~8 300 ap.A). Le Protectorat d'Haldros et la Confédération Tacite du Sud émergent."},
+    ]},
+    {name:'Protectorat d\'Haldros', color:'#304080', y0:2360, y1:2540, cont:'Endora', dead:true,
+     lignee:'endora', from:'Empire Kalvorn', reg:'Protectorat du nord', events:[
+        {y:2365,t:'fondation',title:'Nord-centre d\'Endora',desc:"Issu de la Décennie Rouge (~8 200 ap.A). Le Protectorat maintient l'ordre dans le nord."},
+        {y:2540,t:'fondation',title:'Transformation → Haldria',desc:"Le Protectorat se transforme progressivement en Haldria (~9 200 ap.A)."},
+    ]},
+    {name:'Confédération Tacite du Sud', color:'#285030', y0:2410, y1:2620, cont:'Endora', dead:true,
+     lignee:'endora', from:'Empire Kalvorn', reg:'Confédération silencieuse', events:[
+        {y:2415,t:'fondation',title:'Sud-ouest d\'Endora',desc:"Issue du vide de pouvoir post-Kalvorn (~8 300 ap.A). Gouvernance par consensus tacite."},
+        {y:2620,t:'disparition',title:'Second Schisme → Avalor + Sanvara',desc:"La Confédération se divise suite au Second Schisme (~9 500 ap.A). Avalor et Sanvara émergent."},
+    ]},
+    {name:'Haldria', color:'#4060a0', y0:2540, y1:3100, cont:'Endora',
+     lignee:'endora', from:'Protectorat d\'Haldros', reg:'Aristocratie marchande', events:[
+        {y:2545,t:'fondation',title:'Issue du Protectorat d\'Haldros',desc:"Guildes d'Endora → Conseil Commercial (~9 200 ap.A). Héritière de la longue tradition marchande d'Endora."},
         {y:2700,t:'dynasty',title:'Vaeldros III',desc:'Navigation. Alliance Ilthara-Endora.'},
     ]},
-    {name:'Avalor', color:'#2a6030', y0:1837, y1:3100, cont:'Endora',
-     lignee:'endora', from:'Haldria', reg:'Monarchie sylvestre', events:[
-        {y:1880,t:'fondation',title:'Nyméra la Muette',desc:'Schismes d\'Endora. 7 ans d\'apprentissage dans la forêt. Pacte des Sylves.'},
-        {y:1980,t:'alliance',title:'Pacte des Sylves',desc:'Alliance nature-mortels. Les esprits forestiers deviennent sujets de droit.'},
+    {name:'Avalor', color:'#2a6030', y0:2620, y1:3100, cont:'Endora',
+     lignee:'endora', from:'Confédération Tacite du Sud', reg:'Monarchie sylvestre', events:[
+        {y:2625,t:'fondation',title:'Nyméra la Muette — après le Second Schisme',desc:'Issue du Second Schisme de la Confédération Tacite. 7 ans d\'apprentissage dans la forêt. Pacte des Sylves (~9 600 ap.A).'},
+        {y:2640,t:'alliance',title:'Pacte des Sylves',desc:'Alliance nature-mortels. Les esprits forestiers deviennent sujets de droit.'},
         {y:2680,t:'dynasty',title:'Feylara',desc:'Yeux saisonniers. Parle aux arbres.'},
     ]},
-    {name:'Thalmaris', color:'#806030', y0:1560, y1:3100, cont:'Endora',
-     lignee:'endora', from:null, reg:'Monarchie artistique', note:'Formation culturelle indépendante sur Endora', events:[
-        {y:1700,t:'fondation',title:'Valdren le Trouvère',desc:'30 jours de chant continu pour unifier les fragments culturels. Hérite du Cantus Mundi d\'Evertia.'},
-        {y:1820,t:'religion',title:'Cantus Mundi',desc:"L'art est prière. La musique comme magie."},
-        {y:2700,t:'dynasty',title:'Elyndra III',desc:'Insomniaque. Prophétise en chantant.'},
+    {name:'Sanvara', color:'#1a5020', y0:2620, y1:3100, cont:'Endora',
+     lignee:'endora', from:'Confédération Tacite du Sud', reg:'Confédération forestière', events:[
+        {y:2625,t:'fondation',title:'Issue du Second Schisme',desc:"Née de la division de la Confédération Tacite (~9 600 ap.A). Hérite des forêts du sud."},
+        {y:2700,t:'alliance',title:'Traité des Forêts',desc:"Alliance avec Avalor. Les deux sœurs-nations partagent les secrets de l'esprit-forêt."},
     ]},
 
     // ═══════════════════════════════════════════════════
@@ -1096,13 +1349,75 @@ const CIV = [
         {y:1003,t:'fondation',title:"Le Forgon — Trois Ports",desc:"3 familles de capitaines héritières de Navoris : Forr, Gondal, Navar. Oligarchie marchande (~400 ap.A)."},
         {y:1060,t:'commerce',title:'Premiers Deniers de Mer',desc:'Première monnaie interrégionale, 200 ans d\'avance sur les autres (~600 ap.A).'},
         {y:1600,t:'fondation',title:'Volkar le Marteau',desc:'Unifie 23 clans par combat singulier. Forgon → Mosrack.'},
+        {y:2540,t:'fondation',title:'Absorption de la Principauté de Solvar',desc:"Mosrack absorbe Solvar (~9 200 ap.A). La principauté s'intègre après une révolution populaire. Mosrack atteint sa forme actuelle."},
         {y:2700,t:'dynasty',title:'Volkar IX',desc:'Expansion industrielle. Négociations Brennan-Altram.'},
     ]},
-    {name:'Tyndara', color:'#4070a0', y0:1898, y1:3100, cont:'Onara',
-     lignee:'galenor', from:'Galenthis', reg:'République marchande', note:'Duché maritime de Galenthis, reloc. en Onara', events:[
-        {y:1900,t:'fondation',title:'Selyra la Calculatrice',desc:'Duché maritime issu de Galenthis, installé à Onara. Transforme les pirates en marchands.'},
-        {y:1980,t:'alliance',title:'Ligue des Marchands',desc:'République marchande. Comptoirs sur tous les continents.'},
-        {y:2720,t:'dynasty',title:'Archonte Valdris III',desc:'Prospérité record. Réseau commercial mondial.'},
+    // ── Civilisations intermédiaires d'Onara/Azoria ──
+    {name:'Confédération des Havres de Dorgath', color:'#507060', y0:1720, y1:1837, cont:'Onara', dead:true,
+     lignee:'onara', from:null, reg:'Confédération portuaire', events:[
+        {y:1725,t:'fondation',title:'Onara nord — havres commerciaux',desc:"Confédération des ports du nord d'Onara (~4 000 ap.A). Rivalité commerciale entre clans."},
+        {y:1837,t:'disparition',title:'Rivalité commerciale — dissolution',desc:"La rivalité interne dissout la Confédération (~4 800 ap.A). La Thalassocratie de Varenthos absorbe ses membres."},
+    ]},
+    {name:'Thalassocratie de Varenthos', color:'#406070', y0:1780, y1:1960, cont:'Onara', dead:true,
+     lignee:'onara', from:'Confédération des Havres de Dorgath', reg:'Thalassocratie', events:[
+        {y:1785,t:'fondation',title:'Onara + îles',desc:"Thalassocratie maritime unissant Onara et ses îles (~4 500 ap.A)."},
+        {y:1960,t:'rebellion',title:'Révolte des colonies',desc:"Les colonies périphériques se rebellent (~5 200 ap.A). Varenthos s'effondre."},
+    ]},
+    {name:'République d\'Olvetharn', color:'#507868', y0:1960, y1:2080, cont:'Onara', dead:true,
+     lignee:'onara', from:'Thalassocratie de Varenthos', reg:'République marchande', events:[
+        {y:1965,t:'fondation',title:'Issue des colonies révoltées',desc:"La République émergent de la révolte (~5 100 ap.A). Marchands prenant le pouvoir."},
+        {y:2080,t:'disparition',title:'Guerre civile marchande',desc:"Deux factions marchandes s'affrontent (~6 300 ap.A). La Ligue des Détroits absorbe les débris."},
+    ]},
+    {name:'Ligue des Détroits de Kharavel', color:'#306878', y0:1960, y1:2160, cont:'Onara', dead:true,
+     lignee:'onara', from:'Thalassocratie de Varenthos', reg:'Ligue intercontinentale', events:[
+        {y:1965,t:'fondation',title:'Détroits — route intercontinentale',desc:"La Ligue contrôle les passages entre continents (~5 800 ap.A). Puissance commerciale majeure."},
+        {y:2050,t:'conquete',title:'Guerre des Détroits',desc:"Conflit entre la Ligue et les marchands d'Onara (~6 500 ap.A)."},
+        {y:2160,t:'disparition',title:'Guerre des Détroits — chute',desc:"La Ligue s'effondre dans la Grande Guerre des Détroits (~7 100 ap.A)."},
+    ]},
+    {name:'Empire Côtier de Drasseth', color:'#407068', y0:2100, y1:2310, cont:'Onara', dead:true,
+     lignee:'onara', from:'République d\'Olvetharn', reg:'Empire côtier', events:[
+        {y:2105,t:'fondation',title:'Onara est',desc:"L'Empire côtier unifie l'est d'Onara (~6 900 ap.A) sur les ruines d'Olvetharn."},
+        {y:2310,t:'disparition',title:'Crise de succession',desc:"Trois héritiers se disputent l'Empire (~7 800 ap.A). Dislocation."},
+    ]},
+    {name:'Thalassocratie Jumelle Azor-Kerev', color:'#4060a8', y0:2160, y1:2410, cont:'Azoria', dead:true,
+     lignee:'onara', from:null, reg:'Double thalassocratie', events:[
+        {y:2165,t:'fondation',title:'Azoria — deux centres commerciaux',desc:"La Thalassocratie Jumelle Azor-Kerev domine les routes azoriennes (~7 200 ap.A)."},
+        {y:2410,t:'catastrophe',title:'Tempête catastrophique',desc:"Une tempête d'une violence sans précédent dévaste Azoria (~8 400 ap.A). La Thalassocratie s'effondre."},
+    ]},
+    {name:'Fédération de Morveth', color:'#507878', y0:2310, y1:2460, cont:'Onara', dead:true,
+     lignee:'onara', from:'Empire Côtier de Drasseth', reg:'Fédération intercontinentale', events:[
+        {y:2315,t:'fondation',title:'Intercontinentale',desc:"La Fédération de Morveth regroupe marchands de plusieurs continents (~7 900 ap.A)."},
+        {y:2460,t:'disparition',title:'Piraterie + dissolution',desc:"La piraterie endémique et les dissensions internes dissolvent la Fédération (~8 800 ap.A)."},
+    ]},
+    {name:'Principauté de Solvar', color:'#605848', y0:2460, y1:2540, cont:'Onara', dead:true,
+     lignee:'onara', from:'Fédération de Morveth', reg:'Principauté',  events:[
+        {y:2465,t:'fondation',title:'Onara sud',desc:"La Principauté de Solvar émerge de la dissolution de Morveth (~8 600 ap.A)."},
+        {y:2540,t:'rebellion',title:'Révolution → Mosrack (restructuration)',desc:"La Principauté se transforme (~9 200 ap.A) — Mosrack se restructure en absorbant Solvar."},
+    ]},
+    {name:'Azoral', color:'#4070b8', y0:2520, y1:3100, cont:'Azoria',
+     lignee:'onara', from:'Thalassocratie Jumelle Azor-Kerev', reg:'République maritime', events:[
+        {y:2525,t:'fondation',title:'Issue de la Thalassocratie Azor-Kerev',desc:"Azoral hérite de la tradition maritime azorienne (~9 300 ap.A). République marchande."},
+        {y:2700,t:'commerce',title:'Flottes d\'Azoral',desc:"Domination des routes commerciales de l'Azoria."},
+    ]},
+    {name:'Kethvar', color:'#3068b0', y0:2680, y1:3100, cont:'Azoria',
+     lignee:'onara', from:'Thalassocratie Jumelle Azor-Kerev', reg:'Principauté côtière', events:[
+        {y:2685,t:'fondation',title:'Côtes nord-est d\'Azoria',desc:"Kethvar hérite des ports nord de la Thalassocratie (~9 700 ap.A)."},
+        {y:2800,t:'commerce',title:'Comptoirs de Kethvar',desc:"Kethvar contrôle l'accès aux passages de l'est."},
+    ]},
+    {name:'Solmaris', color:'#5070a8', y0:2740, y1:3100, cont:'Azoria',
+     lignee:'onara', from:'Fédération de Morveth', reg:'République côtière', events:[
+        {y:2745,t:'fondation',title:'Issue de la Fédération de Morveth',desc:"Solmaris hérite des routes de Morveth sur Azoria (~9 800 ap.A)."},
+        {y:2900,t:'alliance',title:'Alliance Azoral-Solmaris',desc:"Les deux républiques azoriennes coordonnent leurs flottes marchandes."},
+    ]},
+    {name:'Elarath', color:'#507060', y0:2740, y1:3100, cont:'Onara',
+     lignee:'onara', from:'Fédération de Morveth', reg:'Cité-État portuaire', events:[
+        {y:2745,t:'fondation',title:'Issue de la Fédération de Morveth',desc:"Elarath hérite des ports d'Onara de Morveth (~9 800 ap.A)."},
+        {y:2900,t:'commerce',title:'Marché d\'Elarath',desc:"Elarath devient le premier marché de l'Onara méridionale."},
+    ]},
+    {name:'Myrtam', color:'#a04020', y0:2360, y1:3100, cont:'Alkaran',
+     lignee:'onara', from:'Mosrack', reg:'Monarchie industrielle', note:'Faction terrienne du Forgon', events:[
+        {y:2365,t:'fondation',title:'Myr le Fondeur — faction terrienne',desc:"Faction terrienne du Forgon. Acier Éternel — alliage impossible à briser (~8 100 ap.A)."},
+        {y:2750,t:'dynasty',title:'Thorvald VIII',desc:'Monarchie Industrielle. Les forges de Myrtam équipent la moitié du monde.'},
     ]},
 
     // ═══════════════════════════════════════════════════
@@ -1114,42 +1429,130 @@ const CIV = [
         {y:550,t:'exploration',title:'Cartographie mondiale',desc:'Premières cartes fidèles des 13 continents.'},
         {y:720,t:'disparition',title:'Tempête de Lien',desc:'Vague magique submerge les ports principaux. Fin de la Ligue.'},
     ]},
+    // ── Civilisations intermédiaires d'Evertia ──
+    {name:"Intendance des Voix Vertes", color:'#207840', y0:960, y1:1100, cont:'Evertia', dead:true,
+     lignee:'evertia', from:"Ligue d'Everthor", reg:'Intendance druidique', events:[
+        {y:965,t:'fondation',title:'Forêts profondes d\'Evertia',desc:"Héritière directe de la Ligue d'Everthor. Intendants des forêts et des voix naturelles (~200 ap.A)."},
+        {y:1100,t:'disparition',title:'Fragmentation des Voix',desc:"Les Voix Vertes se fragmentent en courants rivaux (~1 800 ap.A). Dissolution."},
+    ]},
+    {name:"Thalasserie d'Everthor", color:'#308858', y0:1100, y1:1750, cont:'Evertia', dead:true,
+     lignee:'evertia', from:"Intendance des Voix Vertes", reg:'Thalasserie côtière', events:[
+        {y:1105,t:'fondation',title:'Côtes et fleuves d\'Evertia',desc:"Issue de la fragmentation des Voix Vertes (~1 600 ap.A). Maîtrise des eaux."},
+        {y:1720,t:'catastrophe',title:'Grande Inondation Verte',desc:"Catastrophe fluviale dévastatrice (~4 200 ap.A). La Thalasserie est détruite."},
+        {y:1750,t:'disparition',title:'Effondrement',desc:"La Thalasserie disparaît dans les inondations (~4 200 ap.A). Le Conclave des Racines Profondes émerge."},
+    ]},
+    {name:"Conclave des Racines Profondes", color:'#207050', y0:1720, y1:2252, cont:'Evertia', dead:true,
+     lignee:'evertia', from:"Thalasserie d'Everthor", reg:'Conclave druidique profond', events:[
+        {y:1725,t:'fondation',title:'Forêts intérieures',desc:"Issue des survivants des inondations (~3 800 ap.A). Repli vers les forêts profondes."},
+        {y:2200,t:'religion',title:'Schisme sur le silence des esprits',desc:"Un débat théologique majeur fracture le Conclave (~7 400 ap.A)."},
+        {y:2252,t:'disparition',title:'Schisme — dissolution',desc:"Le Conclave se dissout dans le schisme (~7 400 ap.A). La Fédération des Lisières émerge."},
+    ]},
+    {name:'Fédération des Lisières', color:'#208048', y0:2110, y1:2520, cont:'Evertia', dead:true,
+     lignee:'evertia', from:"Conclave des Racines Profondes", reg:'Fédération des zones de transition', events:[
+        {y:2115,t:'fondation',title:'Zones de transition — lisières',desc:"La Fédération unit les zones frontalières entre forêts et plaines (~6 900 ap.A)."},
+        {y:2450,t:'catastrophe',title:'Épidémie + désintégration',desc:"Une épidémie frappe les lisières (~9 100 ap.A). La Fédération se désintègre."},
+        {y:2520,t:'disparition',title:'Fragmentation → Thalmaris + Sylvara',desc:"La Fédération se fragmente (~9 100 ap.A). Thalmaris et Sylvara héritent de ses territoires."},
+    ]},
     {name:'Evertia', color:'#208040', y0:960, y1:3100, cont:'Evertia',
      lignee:'evertia', from:"Ligue d'Everthor", reg:'Druidocratie — 13 Archidruides', events:[
         {y:1050,t:'exploration',title:'Continuité druidique',desc:'Tradition de Geysar et des esprits-lieux ininterrompue depuis ~35 000 ans.'},
         {y:1650,t:'fondation',title:'Grand Éveil',desc:'13 Archidruides reçoivent la communion avec l\'île en 7 jours continus.'},
         {y:2940,t:'mystere',title:'Silence des Esprits',desc:'"Ils arrivent par le dessous." 200/300 esprits-lieux muets (~10 130 ap.A).'},
     ]},
+    {name:'Thalmaris', color:'#408030', y0:2520, y1:3100, cont:'Evertia',
+     lignee:'evertia', from:'Fédération des Lisières', reg:'Monarchie artistique', events:[
+        {y:2525,t:'fondation',title:'Valdren le Trouvère — issue de la Fédération',desc:"Thalmaris hérite des terres nord-ouest de la Fédération (~9 200 ap.A). 30 jours de chant pour unifier les fragments."},
+        {y:2560,t:'religion',title:'Cantus Mundi',desc:"L'art est prière. La musique comme magie."},
+        {y:2700,t:'dynasty',title:'Elyndra III',desc:'Insomniaque. Prophétise en chantant.'},
+    ]},
+    {name:'Sylvara', color:'#307838', y0:2540, y1:3100, cont:'Evertia',
+     lignee:'evertia', from:'Fédération des Lisières', reg:'Confédération sylvestre', events:[
+        {y:2545,t:'fondation',title:'Issue de la Fédération des Lisières',desc:"Sylvara hérite des forêts de transition au sud (~9 400 ap.A)."},
+        {y:2700,t:'magie',title:'Pacte de l\'Arbre-Mère',desc:"Sylvara établit un pacte avec le plus ancien arbre d'Evertia."},
+    ]},
 
     // ═══════════════════════════════════════════════════
     // LIGNÉE DE NYSARIA — L'île aux masques
     // ═══════════════════════════════════════════════════
-    {name:'Nysaria', color:'#404050', y0:622, y1:3100, cont:'Nysaria',
-     lignee:'nysaria', from:"Songes d'Ithalorn", reg:'Monarchie isolée', events:[
+    {name:'Nysaria', color:'#404050', y0:622, y1:960, cont:'Nysaria', dead:true,
+     lignee:'nysaria', from:"Songes d'Ithalorn", reg:'Monarchie proto-isolée', events:[
         {y:700,t:'magie',title:'Indépendance retrouvée',desc:"Se sépare à la chute des Songes d'Ithalorn. L'île se referme sur elle-même."},
-        {y:1700,t:'conquete',title:'Invasion avortée',desc:'40 navires de Mosrack anéantis en une nuit. Aucun survivant. Aucune explication.'},
-        {y:2700,t:'dynastie',title:'Roi Sans Voix',desc:'Monarchie isolée. Cercle des Masques. Le roi ne parle jamais, ses décrets arrivent par signes.'},
-        {y:2995,t:'mystere',title:'Message de Mirathi',desc:'Sphère de lumière. 3 langues superposées. "Les routes rouvrent…" (~10 064 ap.A).'},
+        {y:900,t:'fondation',title:'Proto-Synarchie',desc:"Les traditions oniriques se structurent. Nysaria préfigure sa future Synarchie des Voiles."},
     ]},
-    {name:'Vytharia', color:'#7050a0', y0:1680, y1:3100, cont:'Ilthara',
-     lignee:'nysaria', from:'Nysaria', reg:'Oniarchie — 7 Voilés', events:[
-        {y:1680,t:'fondation',title:'Voile des Rêves',desc:'Héritière de la tradition onirique des Songes via Nysaria. Vytha régule l\'illusion. 7 Voilés maintiennent la frontière rêve/réalité.'},
+    // ── Civilisations intermédiaires de Nysaria ──
+    {name:'Synarchie des Voiles', color:'#504858', y0:960, y1:1300, cont:'Nysaria', dead:true,
+     lignee:'nysaria', from:'Nysaria', reg:'Synarchie onirique', events:[
+        {y:965,t:'fondation',title:'Héritière des traditions oniriques',desc:"La Synarchie préserve la tradition des Songes d'Ithalorn (~800 ap.A). Gouvernance par les rêveurs."},
+        {y:1240,t:'catastrophe',title:'Gel du Voile — épidémie onirique',desc:"Une épidémie onirique frappe Nysaria (~2 400 ap.A). Les rêveurs se perdent dans leurs propres rêves."},
+        {y:1300,t:'disparition',title:'Effondrement de la Synarchie',desc:"Le Gel du Voile détruit la Synarchie (~2 400 ap.A). Les Principautés de l'Éveil émergent."},
+    ]},
+    {name:"Principautés de l'Éveil Interdit", color:'#604860', y0:1300, y1:1837, cont:'Nysaria', dead:true,
+     lignee:'nysaria', from:'Synarchie des Voiles', reg:'Principautés fragmentées', events:[
+        {y:1305,t:'fondation',title:'Fragmentées après le Gel du Voile',desc:"Les Principautés émergent dans le chaos post-Synarchie (~2 400 ap.A)."},
+        {y:1700,t:'disparition',title:'Inadaptation climatique',desc:"Les Principautés s'éteignent progressivement (~4 800 ap.A). L'Empire Somnambule prend le relais."},
+        {y:1837,t:'disparition',title:'Absorption par l\'Empire Somnambule',desc:"Le dernier vestige des Principautés disparaît (~4 800 ap.A)."},
+    ]},
+    {name:'Empire Somnambule de Keth-Anur', color:'#504065', y0:1837, y1:2360, cont:'Nysaria', dead:true,
+     lignee:'nysaria', from:"Principautés de l'Éveil Interdit", reg:'Empire onirique de caste', events:[
+        {y:1840,t:'fondation',title:'Domination de Vytharia + Lunasar',desc:"L'Empire Somnambule étend sa domination sur tout Nysaria (~5 200 ap.A). Castes oniriques rigides."},
+        {y:2200,t:'disparition',title:'Dégénérescence de caste',desc:"La caste dominante se perd dans ses propres rêves (~7 800 ap.A). L'Empire se dissout lentement."},
+        {y:2360,t:'disparition',title:'Effondrement final',desc:"L'Empire Somnambule s'effondre définitivement (~7 800 ap.A). La Confédération des Rêves Nommés émerge."},
+    ]},
+    {name:'Confédération des Rêves Nommés', color:'#403850', y0:2360, y1:2490, cont:'Nysaria', dead:true,
+     lignee:'nysaria', from:'Empire Somnambule de Keth-Anur', reg:'Confédération onirique', events:[
+        {y:2365,t:'fondation',title:'Tout Nysaria — rêves nommés',desc:"Issue de l'effondrement de l'Empire Somnambule (~8 100 ap.A). Pratique de nommer et cataloguer les rêves."},
+        {y:2490,t:'mystere',title:'Rêve Sans Convocation',desc:"Un rêve collectif non invoqué abolit la Confédération en une nuit (~9 100 ap.A). Origine inconnue."},
+    ]},
+    {name:'Vytharia', color:'#7050a0', y0:2490, y1:3100, cont:'Nysaria',
+     lignee:'nysaria', from:"Confédération des Rêves Nommés", reg:'Oniarchie — 7 Voilés', events:[
+        {y:2495,t:'fondation',title:'Voile des Rêves — après le Rêve Sans Convocation',desc:"Issue du Rêve Sans Convocation (~9 100→9 400 ap.A). Vytha régule l'illusion. 7 Voilés maintiennent la frontière rêve/réalité."},
         {y:2995,t:'mystere',title:"3ème langue du Message",desc:'Le Temple de Vytharia interprète comme "murmure entre dimensions" (~10 080 ap.A).'},
+    ]},
+    {name:'Mirathi', color:'#604858', y0:2740, y1:3100, cont:'Nysaria',
+     lignee:'nysaria', from:"Confédération des Rêves Nommés", reg:'Principauté onirique', events:[
+        {y:2745,t:'fondation',title:'Issue de la Confédération',desc:"Mirathi se consolide comme principauté distincte (~9 800 ap.A). Tradition des oracles oniriques."},
+        {y:2868,t:'mystere',title:'Visions du Cœur',desc:"Les oracles de Mirathi reçoivent les visions du Cœur de Cendra pulsant."},
+    ]},
+    {name:'Lunasar', color:'#504060', y0:2800, y1:3100, cont:'Nysaria',
+     lignee:'nysaria', from:"Confédération des Rêves Nommés", reg:'Monarchie lunaire', events:[
+        {y:2805,t:'fondation',title:'Tradition lunaire de Nysaria',desc:"Lunasar hérite de la tradition lunaire de la Confédération (~9 900 ap.A)."},
+        {y:2900,t:'magie',title:'Cycle des lunes',desc:"Les décisions de Lunasar sont prises selon les cycles lunaires."},
+    ]},
+    // ── Nysaria moderne — île aux masques ──
+    {name:'Nysaria (Île aux Masques)', color:'#404050', y0:2490, y1:3100, cont:'Nysaria',
+     lignee:'nysaria', from:"Confédération des Rêves Nommés", reg:'Monarchie isolée', events:[
+        {y:2495,t:'fondation',title:'Renaissance post-Rêve',desc:"Nysaria se reconstitue comme entité politique après le Rêve Sans Convocation (~9 100 ap.A). L'île se referme."},
+        {y:2600,t:'conquete',title:'Invasion avortée de Mosrack',desc:'40 navires anéantis en une nuit. Aucun survivant. Aucune explication.'},
+        {y:2700,t:'dynasty',title:'Roi Sans Voix',desc:'Cercle des Masques. Le roi ne parle jamais, ses décrets arrivent par signes.'},
+        {y:2995,t:'mystere',title:'Message de Mirathi',desc:'Sphère de lumière. 3 langues superposées. "Les routes rouvrent…" (~10 064 ap.A).'},
     ]},
 
     // ═══════════════════════════════════════════════════
     // INDÉPENDANTS — Nations sans lignée impériale
     // ═══════════════════════════════════════════════════
-    {name:'Torkam', color:'#a08030', y0:980, y1:3100, cont:'Alkaran',
-     lignee:'ind', from:null, reg:'Khanat — Grand Cham', note:'Tribus indépendantes d\'Alkaran', events:[
-        {y:1020,t:'conquete',title:'Âges du Sang',desc:'Guerres tribales entre 12 tribus.'},
-        {y:1650,t:'fondation',title:"Zarek l'Unificateur",desc:'Grand Pacte spirituel. Fin des Âges du Sang.'},
-        {y:2700,t:'dynasty',title:'Nareth la Sage',desc:'7ème Grand Cham. Diplomatie active.'},
+    // ── Civilisations intermédiaires d'Ulinor ──
+    {name:'Khanat des Vents Noirs', color:'#806048', y0:960, y1:1100, cont:'Ulinor', dead:true,
+     lignee:'ind', from:null, reg:'Khanat nordique', events:[
+        {y:965,t:'fondation',title:'Unité de nécessité — nord d\'Ulinor',desc:"Le Khanat des Vents Noirs rassemble les tribus du nord face aux conditions extrêmes (~700 ap.A)."},
+        {y:1100,t:'disparition',title:'Fin de l\'unité de nécessité',desc:"Une fois la menace passée, le Khanat se dissout (~1 400 ap.A). Les tribus retrouvent leur indépendance."},
     ]},
-    {name:'Skaldoria', color:'#607080', y0:980, y1:3100, cont:'Alkaran',
-     lignee:'ind', from:null, reg:'Confédération clanique', note:'Tribus nordiques d\'Alkaran', events:[
-        {y:1700,t:'fondation',title:'Brenna Croc-de-Glace',desc:'Confédération des 7 clans claniques.'},
-        {y:1780,t:'conquete',title:'Bataille du Fjord Gelé',desc:"Défense légendaire de Ralthyn contre l'invasion."},
+    {name:'Confédération Triksal (Trois Rivières)', color:'#706040', y0:1200, y1:1600, cont:'Ulinor', dead:true,
+     lignee:'ind', from:null, reg:'Confédération fluviale', events:[
+        {y:1205,t:'fondation',title:'Centre d\'Ulinor — trois rivières',desc:"La Confédération Triksal unit les peuples des trois grandes rivières (~2 100 ap.A)."},
+        {y:1540,t:'catastrophe',title:'Grande Sécheresse',desc:"La sécheresse assèche les rivières (~3 600 ap.A). La Confédération s'effondre."},
+        {y:1600,t:'disparition',title:'Dissolution',desc:"Triksal disparaît (~3 600 ap.A). Un siècle de chaos tribal suit."},
+    ]},
+    {name:'Khanat Dorvakh (Ciel Rouge)', color:'#905840', y0:1837, y1:1980, cont:'Ulinor', dead:true,
+     lignee:'ind', from:null, reg:'Khanat conquérant', events:[
+        {y:1840,t:'fondation',title:'Sud et centre d\'Ulinor',desc:"Le Khanat Dorvakh émerge des guerres tribales (~4 800 ap.A). Unification par la conquête."},
+        {y:1960,t:'disparition',title:'Guerre civile de succession',desc:"Trois prétendants se disputent le trône (~5 700 ap.A). Le Khanat se fracture."},
+        {y:1980,t:'disparition',title:'Fragmentation définitive',desc:"Dorvakh disparaît (~5 700 ap.A). Un siècle de seigneurs de guerre suit."},
+    ]},
+    {name:'Ligue des Plaines Hautes (Yurrak)', color:'#807050', y0:2010, y1:2360, cont:'Ulinor', dead:true,
+     lignee:'ind', from:null, reg:'Ligue des plaines', events:[
+        {y:2015,t:'fondation',title:'Nord-est d\'Ulinor',desc:"La Ligue Yurrak unit les peuples des hautes plaines (~6 200 ap.A). Autorité morale forte."},
+        {y:2300,t:'disparition',title:'Perte d\'autorité morale',desc:"La Ligue perd la confiance des clans (~8 100 ap.A). Désintégration progressive."},
+        {y:2360,t:'disparition',title:'Dissolution finale',desc:"La Ligue Yurrak se dissout (~8 100 ap.A). Skaldoria, Torkam et Dhalvoria émergent."},
     ]},
     {name:'Ulinor', color:'#705040', y0:960, y1:3100, cont:'Ulinor',
      lignee:'ind', from:null, reg:'Confédération tribale', note:'Continuité chamanique — forêts conscientes de Selvara', events:[
@@ -1157,10 +1560,46 @@ const CIV = [
         {y:1650,t:'fondation',title:'Yelthari la Muette',desc:"Écho-Guide. Communique uniquement par résonance. Confédération de 6 tribus."},
         {y:2700,t:'dynasty',title:'Mirathi Voix-d\'Ambre',desc:'Lance un avertissement secret aux nations voisines via les canaux acoustiques des canyons.'},
     ]},
-    {name:'Baelor', color:'#706050', y0:1560, y1:3100, cont:'Baelor',
-     lignee:'ind', from:null, reg:'Théocratie monastique', note:'Anomalie cosmique — continent sans Éthéré', events:[
-        {y:1800,t:'conquete',title:'Siège des 300 jours',desc:'300 moines vs 40 000 pirates. La victoire insolite fonde la réputation de Baelor.'},
-        {y:1900,t:'religion',title:'Somnium Vigil',desc:'Veille des Rêves. La vigilance comme vertu cardinale.'},
+    {name:'Skaldoria', color:'#507060', y0:2360, y1:3100, cont:'Ulinor',
+     lignee:'ind', from:'Ligue des Plaines Hautes (Yurrak)', reg:'Confédération clanique', events:[
+        {y:2365,t:'fondation',title:'Héritière du nord de la Ligue Yurrak',desc:"Skaldoria hérite des clans nordiques de la Ligue (~9 400 ap.A). Brenna Croc-de-Glace fonde la confédération."},
+        {y:2420,t:'conquete',title:'Bataille du Fjord Gelé',desc:"Défense légendaire de Ralthyn contre l'invasion."},
+    ]},
+    {name:'Torkam', color:'#a08030', y0:2360, y1:3100, cont:'Ulinor',
+     lignee:'ind', from:'Ligue des Plaines Hautes (Yurrak)', reg:'Khanat — Grand Cham', events:[
+        {y:2365,t:'fondation',title:'Héritier des plaines centrales de Yurrak',desc:"Torkam hérite des clans des plaines centrales (~9 400 ap.A). Zarek l'Unificateur établit le Grand Pacte spirituel."},
+        {y:2700,t:'dynasty',title:'Nareth la Sage',desc:'7ème Grand Cham. Diplomatie active.'},
+    ]},
+    {name:'Dhalvoria', color:'#706848', y0:2800, y1:3100, cont:'Ulinor',
+     lignee:'ind', from:'Ligue des Plaines Hautes (Yurrak)', reg:'Principauté des vallées', events:[
+        {y:2805,t:'fondation',title:'Dernière héritière de Yurrak',desc:"Dhalvoria se consolide tardivement (~9 900 ap.A). Vallées isolées de l'ouest d'Ulinor."},
+        {y:2900,t:'decouverte',title:'Archives de Yurrak',desc:"Dhalvoria récupère les archives orales de la Ligue Yurrak. Mémoire historique préservée."},
+    ]},
+    // ── Civilisations intermédiaires de Baelor ──
+    {name:'Confédération des Îles Vives (Vel\'Haara)', color:'#807050', y0:1720, y1:1960, cont:'Baelor', dead:true,
+     lignee:'ind', from:null, reg:'Confédération insulaire', events:[
+        {y:1725,t:'fondation',title:'Archipel de Baelor',desc:"Fédération des îles habitées de Baelor (~4 200 ap.A). Commerce inter-insulaire."},
+        {y:1960,t:'catastrophe',title:'Tempêtes cataclysmiques',desc:"Des tempêtes d'une violence inouïe dévastent l'archipel (~5 800 ap.A). La Confédération se dissout."},
+    ]},
+    {name:'Théocratie de l\'Île-Mère', color:'#706848', y0:1960, y1:2160, cont:'Baelor', dead:true,
+     lignee:'ind', from:"Confédération des Îles Vives (Vel'Haara)", reg:'Théocratie insulaire', events:[
+        {y:1965,t:'religion',title:'Baelor-Centrale — île sacrée',desc:"Après les tempêtes, une île centrale est désignée sacrée (~5 900 ap.A). Gouvernance théocratique."},
+        {y:2160,t:'rebellion',title:'Révolution marchande',desc:"Les marchands renversent la théocratie (~7 100 ap.A)."},
+    ]},
+    {name:'République Maritime de Sel', color:'#686040', y0:2160, y1:2410, cont:'Baelor', dead:true,
+     lignee:'ind', from:"Théocratie de l'Île-Mère", reg:'République marchande maritime', events:[
+        {y:2165,t:'fondation',title:'Archipel libéré',desc:"Issue de la révolution marchande (~7 100 ap.A). Commerce maritime intense."},
+        {y:2410,t:'catastrophe',title:'Épidémie continentale',desc:"Une épidémie dévastate l'archipel (~8 400 ap.A). La République s'effondre."},
+    ]},
+    {name:'Protectorat des Chenaux', color:'#706855', y0:2410, y1:2500, cont:'Baelor', dead:true,
+     lignee:'ind', from:"République Maritime de Sel", reg:'Protectorat de transition', events:[
+        {y:2415,t:'fondation',title:'Post-épidémie',desc:"Le Protectorat gère la reconstruction après l'épidémie (~8 400 ap.A)."},
+        {y:2500,t:'fondation',title:'Transition pacifique → Baelor-Prime',desc:"Le Protectorat cède pacifiquement la place à Baelor-Prime (~9 000 ap.A)."},
+    ]},
+    {name:'Baelor-Prime', color:'#706050', y0:2500, y1:3100, cont:'Baelor',
+     lignee:'ind', from:"Protectorat des Chenaux", reg:'Théocratie monastique', note:'Anomalie cosmique — continent sans Éthéré', events:[
+        {y:2505,t:'religion',title:'Baelor-Prime — Somnium Vigil',desc:"Issue du Protectorat des Chenaux (~9 000→9 100 ap.A). La Veille des Rêves devient la vertu cardinale."},
+        {y:2600,t:'conquete',title:'Siège des 300 jours (mémoire)',desc:'La tradition du Siège des 300 jours (moines vs pirates) est commémorée comme événement fondateur.'},
     ]},
     {name:'Vestiges gelés', color:'#6080a0', y0:2500, y1:3100, cont:'Cestra',
      lignee:'ind', from:null, reg:'Théocratie glaciaire (Noravia)', note:'Colonie tardive — Caeloria + Altram', events:[
@@ -1171,23 +1610,32 @@ const CIV = [
 ];
 
 const CONN = [
-    {from:"Drahk'Nor", to:'Drakora', y:1837, t:'fondation', label:"Scission Drahk'Nor"},
-    {from:"Drahk'Nor", to:'Gryndor', y:1837, t:'fondation', label:"Scission Drahk'Nor"},
-    {from:"Drahk'Nor", to:'Haldria', y:1837, t:'fondation', label:"Scission Drahk'Nor"},
-    {from:'Galenthis', to:'Kharazir', y:1898, t:'fondation', label:'Scission Galenthis'},
-    {from:'Galenthis', to:'Lumasar', y:1898, t:'fondation', label:'Scission Galenthis'},
-    {from:'Galenthis', to:'Seraphia', y:1898, t:'fondation', label:'Scission Galenthis'},
-    {from:'Galenthis', to:'Ventera', y:1898, t:'fondation', label:'Scission Galenthis'},
-    {from:'Mosrack', to:'Tyndara', y:1750, t:'conquete', label:'Guerre des Cent-Jours'},
-    {from:'Tyndara', to:'Solena', y:1900, t:'alliance', label:'Routes commerciales'},
+    // Scissions de Drahk'Nor → civilisations intermédiaires
+    {from:"Drahk'Nor", to:'Triumvirats de Khorrath', y:1837, t:'fondation', label:"Scission Drahk'Nor"},
+    {from:"Drahk'Nor", to:'Voivodat de Gryndhaar', y:1837, t:'fondation', label:"Scission Drahk'Nor"},
+    {from:"Drahk'Nor", to:'Cités-Vigiles', y:1837, t:'fondation', label:"Scission Drahk'Nor (Endora)"},
+    // Évolution intermédiaires → nations actuelles
+    {from:'Marches de Khorrath', to:'Drakora', y:2500, t:'fondation', label:'Formation de Drakora'},
+    {from:'Khaghanat de Gryndhaal', to:'Gryndor', y:2540, t:'fondation', label:'Transformation → Gryndor'},
+    {from:'Protectorat d\'Haldros', to:'Haldria', y:2540, t:'fondation', label:'Transformation → Haldria'},
+    // Galenthis → civilisations intermédiaires
+    {from:'Galenthis', to:'Ligue Équestre de Galenor', y:1898, t:'fondation', label:'Scission Galenthis'},
+    {from:'Galenthis', to:'Hégémonie de Solkethis', y:1898, t:'fondation', label:'Scission Galenthis'},
+    // Cités intermédiaires → nations actuelles de Galenor
+    {from:'Hégémonie de Solkethis', to:'Lumasar', y:1960, t:'fondation', label:'Sécession Lumasar'},
+    {from:'Cité-État du Carrefour', to:'Kharazir', y:2520, t:'fondation', label:'→ Kharazir'},
+    {from:'Ligue Équestre de Galenor', to:'Ventera', y:2540, t:'fondation', label:'→ Ventera'},
+    {from:'Principauté de Caverana', to:'Seraphia', y:2440, t:'fondation', label:'→ Seraphia'},
+    {from:'Tyndareth', to:'Tyndara', y:2410, t:'fondation', label:'Transformation → Tyndara'},
+    // Connexions entre nations actuelles
     {from:'Mosrack', to:'Altram', y:2700, t:'alliance', label:'Négociations Brennan'},
-    {from:'Seraphia', to:'Lumasar', y:1750, t:'alliance', label:'Échanges culturels'},
-    {from:'Drakora', to:'Gryndor', y:1800, t:'conquete', label:'Raids et pillage'},
-    {from:'Mosrack', to:'Tyndara', y:1975, t:'conquete', label:'Guerre des Détroits'},
-    {from:'Gryndor', to:'Drakora', y:2021, t:'conquete', label:'Guerre des Dieux Sourds'},
-    {from:'Altram', to:'Drakora', y:2455, t:'conquete', label:'Défense Porte de Fer'},
+    {from:'Tyndara', to:'Solena', y:2500, t:'alliance', label:'Routes commerciales'},
+    {from:'Drakora', to:'Gryndor', y:2600, t:'conquete', label:'Raids et pillage'},
+    {from:'Gryndor', to:'Drakora', y:2680, t:'conquete', label:'Guerre des Dieux Sourds'},
+    {from:'Protectorat des Passes', to:'Drakora', y:2455, t:'conquete', label:'Défense Porte de Fer'},
     {from:'Kharazir', to:'Pyrtara', y:2800, t:'conquete', label:'Crise des réfugiés Déliés'},
     {from:'Caeloria', to:'Vytharia', y:2900, t:'religion', label:'Théologie du Lien vs Noctari'},
+    {from:'Mosrack', to:'Tyndara', y:2560, t:'conquete', label:'Guerre des Détroits'},
 ];
 
 /* =================================================================

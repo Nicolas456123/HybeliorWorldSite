@@ -501,48 +501,163 @@ body.measure-bar-visible .controls { top: 98px; }
     transform: translateX(-50%);
     background: var(--panel-bg);
     border: 1px solid var(--panel-border);
-    backdrop-filter: blur(12px);
-    -webkit-backdrop-filter: blur(12px);
-    padding: 8px 20px;
-    border-radius: 20px;
+    backdrop-filter: blur(14px);
+    -webkit-backdrop-filter: blur(14px);
+    padding: 10px 18px 8px;
+    border-radius: 16px;
     z-index: 1002;
     text-align: center;
+    min-width: 320px;
+    max-width: 600px;
+    width: calc(100vw - 40px);
+    box-shadow: 0 4px 24px rgba(0,0,0,0.35);
+}
+
+/* Ligne supérieure : nom de l'ère + date */
+#timelineEraDisplay {
+    display: flex;
+    align-items: baseline;
+    justify-content: center;
+    gap: 8px;
+    margin-bottom: 8px;
+}
+#timelineEraName {
+    color: var(--accent);
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 0.03em;
+    font-family: 'Copperplate Gothic Std', 'Copperplate', serif;
+}
+#timelineEraDate {
+    color: var(--text-muted);
+    font-size: 11px;
+    font-style: italic;
+}
+
+/* Ligne du slider + bouton play */
+#timelineControls {
     display: flex;
     align-items: center;
-    gap: 12px;
+    gap: 10px;
 }
+
+#timelinePlayBtn {
+    flex-shrink: 0;
+    width: 28px;
+    height: 28px;
+    border-radius: 50%;
+    background: var(--accent);
+    border: none;
+    color: #1c1814;
+    font-size: 10px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+    transition: transform 0.15s, background 0.15s;
+    line-height: 1;
+}
+#timelinePlayBtn:hover { transform: scale(1.1); }
+#timelinePlayBtn.playing { background: #e07b39; }
+
+/* Wrapper slider + marqueurs */
+#timelineSliderWrapper {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+    position: relative;
+}
+
+/* Marqueurs visuels des ères */
+#timelineMarkers {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    height: 10px;
+    padding: 0 7px; /* aligner avec les extrémités du slider */
+    box-sizing: border-box;
+}
+.timeline-marker {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    cursor: pointer;
+    height: 10px;
+    opacity: 0.4;
+    transition: opacity 0.2s;
+}
+.timeline-marker:hover { opacity: 0.9; }
+.timeline-marker.past { opacity: 0.6; }
+.timeline-marker.active { opacity: 1; }
+.timeline-tick {
+    width: 2px;
+    height: 8px;
+    background: var(--accent);
+    border-radius: 1px;
+    transition: height 0.2s, background 0.2s;
+}
+.timeline-marker.active .timeline-tick {
+    height: 10px;
+    background: var(--accent);
+    width: 3px;
+}
+.timeline-marker.past .timeline-tick {
+    background: rgba(201, 168, 76, 0.5);
+}
+
+/* Slider principal */
 #timeline {
-    width: 120px;
+    width: 100%;
     -webkit-appearance: none;
     appearance: none;
     height: 4px;
-    background: var(--input-bg);
+    background: linear-gradient(to right, var(--accent) 0%, var(--input-bg) 0%);
     border-radius: 2px;
     outline: none;
+    cursor: pointer;
 }
 #timeline::-webkit-slider-thumb {
     -webkit-appearance: none;
-    width: 14px;
-    height: 14px;
+    width: 16px;
+    height: 16px;
     border-radius: 50%;
     background: var(--accent);
     cursor: pointer;
-    border: 2px solid rgba(120, 78, 18, 0.4);
+    border: 2px solid rgba(120, 78, 18, 0.5);
+    box-shadow: 0 1px 4px rgba(0,0,0,0.4);
+    transition: transform 0.15s;
 }
+#timeline::-webkit-slider-thumb:hover { transform: scale(1.2); }
 #timeline::-moz-range-thumb {
-    width: 14px;
-    height: 14px;
+    width: 16px;
+    height: 16px;
     border-radius: 50%;
     background: var(--accent);
     cursor: pointer;
-    border: 2px solid rgba(120, 78, 18, 0.4);
+    border: 2px solid rgba(120, 78, 18, 0.5);
+    box-shadow: 0 1px 4px rgba(0,0,0,0.4);
 }
-#timelineLabel {
-    color: var(--accent);
-    font-size: 13px;
-    font-weight: 600;
-    min-width: 36px;
+#timeline::-moz-range-progress {
+    background: var(--accent);
+    height: 4px;
+    border-radius: 2px;
 }
+
+/* Description optionnelle de l'ère */
+#timelineEraDesc {
+    display: none; /* masqué par défaut, activable */
+    color: var(--text-muted);
+    font-size: 10px;
+    margin-top: 4px;
+    font-style: italic;
+    text-align: center;
+}
+
+/* Ancienne étiquette texte — cachée (remplacée par le nouveau système) */
+#timelineLabel { display: none; }
 
 /* Grille overlay */
 .grid-overlay { pointer-events: none; opacity: 0.7; }
@@ -709,4 +824,15 @@ body.ios-fullscreen .ios-fullscreen-btn { top: env(safe-area-inset-top, 10px); }
         top: 12px;
     }
     .menu-toggle { z-index: 1007; }
+
+    /* Timeline mobile */
+    #timelineContainer {
+        min-width: unset;
+        width: calc(100vw - 24px);
+        padding: 8px 12px 6px;
+        border-radius: 12px 12px 0 0;
+        bottom: 0;
+    }
+    #timelineEraName { font-size: 11px; }
+    #timelineEraDate { font-size: 10px; }
 }

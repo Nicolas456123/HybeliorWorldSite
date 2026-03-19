@@ -1,0 +1,1334 @@
+{
+  "meta": {
+    "description": "Noms historiques des continents et nations d'Hybelior a travers les ages. Genere depuis les chroniques canoniques.",
+    "calendar": "An 0 = L'Arrachement. av.A = avant l'Arrachement. ap.A = apres l'Arrachement.",
+    "currentYear": 10200,
+    "version": "2.0.0"
+  },
+  "timelineData": {
+    "eras": [
+      {
+        "id": "era1_panghor",
+        "name": "Ere I — Panghor (supercontinent)",
+        "startYear": -999999,
+        "endYear": -45000,
+        "description": "Un seul supercontinent entourant l'Ocean Premier. Les Eternels et les 12 Cosmiques faconne le monde. Les 45 Etheres s'installent dans leurs zones d'influence.",
+        "continents": [
+          {
+            "currentName": "ALL",
+            "historicalName": "Panghor",
+            "type": "supercontinent",
+            "meaning": "La Terre Une — masse primordiale unique avant la Fracture",
+            "notes": "Couvre ~70% de la surface du globe. Ocean unique sans nom ('Ocean Premier'). Mont Originel (futur Mont Cendra) et Mont Jumeau forment l'axe energetique nord-sud."
+          }
+        ]
+      },
+      {
+        "id": "era1_fracture1",
+        "name": "Ere I — Fracture 1 : Grand Schisme",
+        "startYear": -999999,
+        "endYear": -800000,
+        "description": "Panghor se fend en deux masses — Panghor-Ven (Nord) et Panghor-Dra (Sud). L'Ocean Primordial s'ouvre entre elles. Baelor, Nysaria, Ulinor emergent comme fragments isoles de la chaine volcanique centrale.",
+        "continents": [
+          {
+            "currentName": "ALL_NORD",
+            "historicalName": "Panghor-Ven",
+            "type": "demi-continent",
+            "meaning": "Panghor du Haut (ven = dessus, elevation, en proto-cosmique)",
+            "notes": "Comprend les futurs Alkaran, Celethor, Galenor, Ilthara, Cestra. Mont Jumeau s'y trouve."
+          },
+          {
+            "currentName": "ALL_SUD",
+            "historicalName": "Panghor-Dra",
+            "type": "demi-continent",
+            "meaning": "Panghor du Bas (dra = profond, racines, en proto-cosmique)",
+            "notes": "Comprend les futurs Onara, Endora, Azoria, Cendara+Evertia. Mont Originel (futur Cendra) s'y trouve."
+          },
+          {
+            "currentName": "Baelor",
+            "historicalName": "Keth-Isvar",
+            "type": "fragment isole",
+            "meaning": "Rocher-du-Milieu (keth = roc ; isvar = entre-deux)",
+            "notes": "Fragment isole de la chaine volcanique centrale. Sans Ethere dominant — origine de l'independance culturelle de Baelor."
+          },
+          {
+            "currentName": "Nysaria",
+            "historicalName": "Gorenth",
+            "type": "fragment isole",
+            "meaning": "Gorge-chantante (gor = gargouille, gorge taillee ; enth = resonance)",
+            "notes": "Fragment isole. Harmonex (Cantor x Aerion) s'y installe — acoustique unique des canyons issus de la Fracture."
+          },
+          {
+            "currentName": "Ulinor",
+            "historicalName": "Selvar-Enth",
+            "type": "fragment isole",
+            "meaning": "Terre-de-Selvara (nom de l'Ethere des forets conscientes)",
+            "notes": "Fragment isole. Selvara (Arborius x Spiritus) y concentre les forets les plus conscientes du monde."
+          }
+        ]
+      },
+      {
+        "id": "era1_fracture2",
+        "name": "Ere I — Fracture 2 : L'Eclatement",
+        "startYear": -600000,
+        "endYear": -100000,
+        "description": "Panghor Nord et Sud se divisent en masses individuelles. Les futurs 13 continents prennent forme sur ~3 millions d'annees.",
+        "continents": [
+          {
+            "currentName": "Alkaran",
+            "historicalName": "Alkar-Dun",
+            "meaning": "Pierre-Grave (alkar = roche solide ; dun = grave, lourd)",
+            "notes": "Se detache en premier du Panghor Nord, lentement et proprement. Luminarc (cristaux souterrains) s'y concentre. Alkaran devient le continent aux mines les plus riches du monde."
+          },
+          {
+            "currentName": "Celethor",
+            "historicalName": "Nebulveth",
+            "meaning": "Voile-de-Brume (nebul = brume ; veth = voile, tissu)",
+            "notes": "Nebulair (brumes cotieres) s'y installe definitivement. Forets humides parmi les plus denses du monde habite."
+          },
+          {
+            "currentName": "Galenor",
+            "historicalName": "Galen-Rath",
+            "meaning": "Plaine-du-Vent (galen = plaine etendue ; rath = souffle, air)",
+            "notes": "Garde les cicatrices des anciennes fissures — falaises abruptes, gorges. Aridan (deserts) au centre."
+          },
+          {
+            "currentName": "Ilthara",
+            "historicalName": "Foudrath",
+            "meaning": "Terre-de-Foudre (foud = eclair ; rath = air/souffle)",
+            "notes": "Foudrin (eclair/tonnerre) s'y installe. Activite sismique residuelle de Petral dans les plaines nord."
+          },
+          {
+            "currentName": "Cestra",
+            "historicalName": "Glaciven",
+            "meaning": "Terre-de-Glace (glaci = glace ; ven = dessus/nord)",
+            "notes": "Ejete vers le nord. Glacien suit et y etend ses glaces chaque millenaire. Mont Jumeau progressivement isole."
+          },
+          {
+            "currentName": "Onara",
+            "historicalName": "Silthar-Dra",
+            "meaning": "Delta-Profond (silthar = boue, delta — de l'Ethere Silthor ; dra = profond)",
+            "notes": "Zone de grands deltas. Silthor (embouchures fluviales) en est l'architecte."
+          },
+          {
+            "currentName": "Endora",
+            "historicalName": "Mirevan",
+            "meaning": "Marais-du-Reve (mire = marecage ; van = vision, songe)",
+            "notes": "Mireille (Aquor x Somnix) habite les marecages du nord. Mortivel (terres mortes) au sud."
+          },
+          {
+            "currentName": "Azoria",
+            "historicalName": "Coralith",
+            "meaning": "Archipel-de-Corail (coral = corail ; ith = ile, fragment)",
+            "notes": "Se fragmente en centaines d'iles sous l'action de Coralix. Plus haute biodiversite marine du monde."
+          },
+          {
+            "currentName": "Cendara+Evertia",
+            "historicalName": "Embravast",
+            "meaning": "Grande-Forge-de-Feu (embra = lave/forge — de l'Ethere Embrasur ; vast = grand, vaste)",
+            "notes": "Bloc encore uni adjacent au Mont Originel (futur Cendra). Flamara tres active."
+          },
+          {
+            "currentName": "Baelor",
+            "historicalName": "Keth-Isvar",
+            "meaning": "Rocher-du-Milieu",
+            "notes": "Reste isole entre les deux masses."
+          },
+          {
+            "currentName": "Nysaria",
+            "historicalName": "Gorenth",
+            "meaning": "Gorge-chantante",
+            "notes": "Reste isole. Les canyons de la fracture creent l'acoustique unique d'Harmonex."
+          },
+          {
+            "currentName": "Ulinor",
+            "historicalName": "Selvar-Enth",
+            "meaning": "Terre-de-Selvara",
+            "notes": "Reste isole. Foret primordiale de Selvara."
+          }
+        ]
+      },
+      {
+        "id": "era1_fracture3",
+        "name": "Ere I — Fracture 3 : Les Details",
+        "startYear": -100000,
+        "endYear": -45000,
+        "description": "Cendara se separe d'Evertia (eruptions volcaniques). Cestra s'exile vers le nord (Mont Jumeau recouvert par Glacien). Azoria se fragmente en archipel. Les 13 continents sont stables — l'Ere des Mortels peut commencer.",
+        "continents": [
+          {
+            "currentName": "Alkaran",
+            "historicalName": "Alkar-Dun",
+            "meaning": "Pierre-Grave",
+            "notes": "Stable. Mines les plus riches du monde futur."
+          },
+          {
+            "currentName": "Azoria",
+            "historicalName": "Coralith",
+            "meaning": "Archipel-de-Corail",
+            "notes": "Fragmentation finale. Coralix colonise les nouveaux hauts-fonds — biodiversite maximale."
+          },
+          {
+            "currentName": "Baelor",
+            "historicalName": "Keth-Isvar",
+            "meaning": "Rocher-du-Milieu",
+            "notes": "Reste stable, isole. Sans Ethere dominant — anomalie unique du monde."
+          },
+          {
+            "currentName": "Celethor",
+            "historicalName": "Nebulveth",
+            "meaning": "Voile-de-Brume",
+            "notes": "Forets humides etablies. Nebulair definitif."
+          },
+          {
+            "currentName": "Cendara",
+            "historicalName": "Embrath",
+            "meaning": "Forge-de-Lave (embra = lave active ; ath = lieu de)",
+            "notes": "Se separe d'Evertia par eruptions cataclysmiques. Se fragmente en archipel volcanique autour du Mont Originel (Cendra)."
+          },
+          {
+            "currentName": "Cestra",
+            "historicalName": "Glaciven",
+            "meaning": "Terre-de-Glace",
+            "notes": "Exile vers le pole nord. Mont Jumeau recouvert par Glacien. Seuls Glacien, Permafrost et Lumiveil restent."
+          },
+          {
+            "currentName": "Endora",
+            "historicalName": "Mirevan",
+            "meaning": "Marais-du-Reve",
+            "notes": "Stable. Marecages du nord, terres mortes au sud (Mortivel)."
+          },
+          {
+            "currentName": "Evertia",
+            "historicalName": "Geysvast",
+            "meaning": "Grande-Terre-des-Sources (geys = source thermale — de l'Ethere Geysar ; vast = grand)",
+            "notes": "Se separe de Cendara. Geysar (Flamara x Aquor) herite du controle. Sources thermales abondantes."
+          },
+          {
+            "currentName": "Galenor",
+            "historicalName": "Galen-Rath",
+            "meaning": "Plaine-du-Vent",
+            "notes": "Stable."
+          },
+          {
+            "currentName": "Ilthara",
+            "historicalName": "Foudrath",
+            "meaning": "Terre-de-Foudre",
+            "notes": "Stable. Tremblements periodiques de Petral."
+          },
+          {
+            "currentName": "Nysaria",
+            "historicalName": "Gorenth",
+            "meaning": "Gorge-chantante",
+            "notes": "Stable. Gorges d'Harmonex definitivement formees."
+          },
+          {
+            "currentName": "Onara",
+            "historicalName": "Silthar-Dra",
+            "meaning": "Delta-Profond",
+            "notes": "Stable. Grands deltas crees par Silthor."
+          },
+          {
+            "currentName": "Ulinor",
+            "historicalName": "Selvar-Enth",
+            "meaning": "Terre-de-Selvara",
+            "notes": "Stable. Foret primordiale consciente de Selvara."
+          }
+        ]
+      },
+      {
+        "id": "era2_berceaux",
+        "name": "Ere II — Berceaux (~45 000 → ~30 000 av.A)",
+        "startYear": -45000,
+        "endYear": -30000,
+        "description": "Les 5 Berceaux naissent. Premiers peuples : Marcheurs de Cendre (proto-kalvar), Enfants de la Roche (alkrath), Coureurs (proto-galennoth), Voix-sous-Bois (sylveth), Gens de l'Eau (aquen). Les 5 proto-civilisations ne se connaissent pas et se croient seules au monde.",
+        "continents": [
+          {
+            "currentName": "Alkaran",
+            "historicalName": "Alkrath-Vun",
+            "meaning": "Patrie-de-Pierre (alkrath = pierre en proto-alkrath ; vun = patrie, foyer-souterrain)",
+            "berceau": "Enfants de la Roche",
+            "protolanguage": "Alkrath",
+            "notes": "Premier berceau a creer une proto-ecriture (Pierres-Memoire, ~40 000 av.A). Cavernes amenagees, tunnels, architecture souterraine."
+          },
+          {
+            "currentName": "Azoria",
+            "historicalName": "Aquen-Ith",
+            "meaning": "Iles-de-l'Eau (aquen = eau en proto-aquen ; ith = ile, archipel)",
+            "berceau": "Gens de l'Eau",
+            "protolanguage": "Aquen",
+            "notes": "Archipel natal des Gens de l'Eau. Premiers radeaux, pirogues, navigation astronomique maritime."
+          },
+          {
+            "currentName": "Baelor",
+            "historicalName": "Keth-Isvar",
+            "meaning": "Rocher-du-Milieu",
+            "berceau": "Aucun originel — peuple par migration tardive",
+            "notes": "Culture autosuffisante unique. Pas d'integration aux 5 berceaux. Tradition de l'independance spirituelle."
+          },
+          {
+            "currentName": "Celethor",
+            "historicalName": "Sylveth-Mur",
+            "meaning": "Foret-des-Voix (sylveth = foret/voix en proto-sylveth ; mur = silence sacre, profondeur)",
+            "berceau": "Voix-sous-Bois",
+            "protolanguage": "Sylveth",
+            "notes": "Villages sedentaires de 100-300. Premier langage complexe. Porteurs-de-Recits."
+          },
+          {
+            "currentName": "Cendara",
+            "historicalName": "Kalvar-Drath",
+            "meaning": "Forge-de-Cendre (kalvar = cendre/feu en proto-kalvar ; drath = forge, fabrication)",
+            "berceau": "Marcheurs de Cendre",
+            "protolanguage": "Kalvar",
+            "notes": "Plaines volcaniques, forge primitive, travail du metal brut. Gardiennes du Feu."
+          },
+          {
+            "currentName": "Cestra",
+            "historicalName": "Glaciven-Morth",
+            "meaning": "Terre-de-Glace-Morte (glaciven = terre de glace ; morth = inhospitalier, vide de vie)",
+            "berceau": "Aucun originel — peuple tres tardivement",
+            "notes": "Peuple seulement vers la fin de l'Ere II, dans des conditions extremes. Aurores de Lumiveil venerees comme signes divins."
+          },
+          {
+            "currentName": "Endora",
+            "historicalName": "Mirevan-Sel",
+            "meaning": "Marecages-Silencieux (mirevan = marecage du reve ; sel = silence trouble)",
+            "berceau": "Migration des Voix-sous-Bois (branche dissidente)",
+            "notes": "Peuple par des essaims migrants des Voix-sous-Bois. Adaptes aux marais."
+          },
+          {
+            "currentName": "Evertia",
+            "historicalName": "Geysvast-Therm",
+            "meaning": "Terre-des-Sources-Chaudes (geysvast = sources thermales ; therm = chaleur bienfaitrice)",
+            "berceau": "Migration mixte (Marcheurs + branche thermale)",
+            "notes": "Sources thermales deviennent centres de soins et rituels des l'Ere II."
+          },
+          {
+            "currentName": "Galenor",
+            "historicalName": "Galennoth",
+            "meaning": "Plaines-du-Souffle (galen = plaine ; ennoth = souffle perpetuel, vent vital)",
+            "berceau": "Coureurs",
+            "protolanguage": "Proto-galennoth",
+            "notes": "Berceau des Coureurs. Steppes infinies, premiers cavaliers. Nomadisme total."
+          },
+          {
+            "currentName": "Ilthara",
+            "historicalName": "Sylveth-Foud",
+            "meaning": "Foret-de-Foudre (sylveth = foret/voix ; foud = foudre, eclair)",
+            "berceau": "Voix-sous-Bois (branche orientale)",
+            "notes": "Branche des Voix-sous-Bois qui migre vers les forets de foudre. Langue proche du Sylveth originel."
+          },
+          {
+            "currentName": "Nysaria",
+            "historicalName": "Gorenth-Chal",
+            "meaning": "Gorges-du-Chant (gorenth = gorge-chantante ; chal = melodie, harmonie)",
+            "berceau": "Migration musicienne (des Coureurs et Voix-sous-Bois)",
+            "notes": "Peuple par des migrants attires par les resonances naturelles d'Harmonex."
+          },
+          {
+            "currentName": "Onara",
+            "historicalName": "Silthar-Ven",
+            "meaning": "Delta-Nourricier (silthar = delta ; ven = abondance, nourrir)",
+            "berceau": "Marcheurs de Cendre (branche cotiere)",
+            "notes": "Extension cotiere des Marcheurs. Transition vers la peche et le commerce fluvial."
+          },
+          {
+            "currentName": "Ulinor",
+            "historicalName": "Selvar-Enth",
+            "meaning": "Terre-de-Selvara",
+            "berceau": "Voix-sous-Bois (branche profonde absorbee par Selvara)",
+            "notes": "La foret de Selvara 'parle' directement aux mortels ici — premier contact proto-Lien."
+          }
+        ]
+      },
+      {
+        "id": "era2_gel_reconstruction",
+        "name": "Ere II — Grand Gel et Reconstruction (~30 000 → ~20 000 av.A)",
+        "startYear": -30000,
+        "endYear": -20000,
+        "description": "Grand Gel (~30 000 av.A, Climata) elimine 73% de la population mondiale. Reconstruction (~25 000 → ~20 000 av.A) : melange des peuples, cultures hybrides (Forgeurs-de-Roche, Cavaliers-des-Lizieres, Navigateurs-de-Sable...). Pose les bases de l'Ere III.",
+        "continents": [
+          {
+            "currentName": "Alkaran",
+            "historicalName": "Alkar-Krath",
+            "meaning": "Forteresse-de-Pierre (alkar = roche/pierre ; krath = forteresse, refuge)",
+            "notes": "Survie du Gel grace aux cavernes profondes. Naissance des Forgeurs-de-Roche (hybrides Enfants-de-la-Roche + Marcheurs-de-Cendre)."
+          },
+          {
+            "currentName": "Azoria",
+            "historicalName": "Aquen-Ithvar",
+            "meaning": "Mer-des-Iles-Lointaines (aquen = eau ; ithvar = ile de l'horizon)",
+            "notes": "Les Gens de l'Eau survivent mieux — la mer nourrit. Expansion maritime post-Gel vers iles inconnues."
+          },
+          {
+            "currentName": "Baelor",
+            "historicalName": "Keth-Vel",
+            "meaning": "Rocher-Vivant (keth = roc ; vel = vivant, persistant)",
+            "notes": "Survie isolee. Sans contacts avec les 5 berceaux — culture unique se renforce."
+          },
+          {
+            "currentName": "Celethor",
+            "historicalName": "Sylveth-Rath",
+            "meaning": "Foret-Tenace (sylveth = foret ; rath = qui resiste, tenace)",
+            "notes": "Forets resistantes au Gel. Refuge pour migrants des steppes de Galenor. Naissance des Cavaliers-des-Lizieres."
+          },
+          {
+            "currentName": "Cendara",
+            "historicalName": "Kalvar-Ven",
+            "meaning": "Feu-Persistant (kalvar = feu/cendre ; ven = qui dure, permanent)",
+            "notes": "Volcans protegent des glaciations. Clans refugies convergent vers la chaleur. Brassage cultural intense."
+          },
+          {
+            "currentName": "Cestra",
+            "historicalName": "Glaciven-Dun",
+            "meaning": "Enfer-Blanc (glaciven = glace ; dun = immense, ecrasant)",
+            "notes": "Le Gel aggrave l'isolation. Populations quasi-eteintes. Survivants d'une resistance hors norme."
+          },
+          {
+            "currentName": "Endora",
+            "historicalName": "Mirevan-Thal",
+            "meaning": "Marais-Refuge (mirevan = marecage-reve ; thal = abri, couverture)",
+            "notes": "Les marecages resistent mieux au Gel. Refuge pour migrants du nord."
+          },
+          {
+            "currentName": "Evertia",
+            "historicalName": "Geysvast-Vel",
+            "meaning": "Chaleur-Vitale (geysvast = sources thermales ; vel = vie, survie)",
+            "notes": "Les sources thermales preservent une bulle de chaleur. Population stable pendant le Gel."
+          },
+          {
+            "currentName": "Galenor",
+            "historicalName": "Galennoth-Veth",
+            "meaning": "Steppes-Mortes (galennoth = plaines du souffle ; veth = froid, mort — inversion)",
+            "notes": "Catastrophique. Les Coureurs ne peuvent fuir assez vite. 73%+ morts. Survivants migrent vers Celethor/Alkaran."
+          },
+          {
+            "currentName": "Ilthara",
+            "historicalName": "Sylveth-Krath",
+            "meaning": "Foret-Fortifiee (sylveth = foret ; krath = forteresse)",
+            "notes": "Les Voix-sous-Bois s'enfoncent dans les forets denses pour survivre. Culture defensive."
+          },
+          {
+            "currentName": "Nysaria",
+            "historicalName": "Gorenth-Vel",
+            "meaning": "Gorges-Vivantes (gorenth = gorge-chantante ; vel = vivant)",
+            "notes": "Les gorges profondes protegent du vent glaciaire. Population reduite mais stable."
+          },
+          {
+            "currentName": "Onara",
+            "historicalName": "Silthar-Krath",
+            "meaning": "Forteresse-des-Deltas (silthar = delta ; krath = forteresse)",
+            "notes": "Deltas comme zones de calme. Populations cotieres survivent mieux. Naissance des Navigateurs-de-Sable."
+          },
+          {
+            "currentName": "Ulinor",
+            "historicalName": "Selvar-Vel",
+            "meaning": "Foret-Vivante (selvar = foret consciente ; vel = vie)",
+            "notes": "Selvara protege activement la foret. Habitat le plus sur pendant le Gel — mais peu de mortels y habitent."
+          }
+        ]
+      },
+      {
+        "id": "era3_lien_empires",
+        "name": "Ere III — Age du Lien (~20 000 → An 0)",
+        "startYear": -20000,
+        "endYear": 0,
+        "description": "Trois individus decouvrent le Lien independamment (~20 000 av.A) : Orvane la Tisseuse (Celethor), Khatun Pyrecour (Cendara), Ildaran l'Ecouteur (Alkaran). 7 grands empires sur 20 000 ans. Age d'or : 6 empires simultanes, 7 cites volantes, 200+ portails, 120 millions d'habitants.",
+        "continents": [
+          {
+            "currentName": "Alkaran",
+            "historicalName": "Alkarath",
+            "meaning": "Coeur-de-Pierre (alkar = pierre ; ath = coeur, essence)",
+            "empire": "Confederation d'Alkarath",
+            "notes": "Ildaran l'Ecouteur (~19 980 av.A). Capitale Alkar-Prime. Patrie de Lex Petra."
+          },
+          {
+            "currentName": "Azoria",
+            "historicalName": "Azorath",
+            "meaning": "Mer-des-Navigants (azor = naviguer au loin ; ath = lieu de puissance)",
+            "empire": "Thalassocratie de Navoris (avec Onara)",
+            "notes": "Les Gens de l'Eau deviennent la plus grande puissance maritime. Navoria (400 000 hab.) engloutie An 0."
+          },
+          {
+            "currentName": "Baelor",
+            "historicalName": "Baelorn",
+            "meaning": "Ile-des-Silencieux (baelor = ile-citadelle ; orn = isolement choisi)",
+            "empire": "Cite-Etat independante",
+            "notes": "Refuse toute integration imperiale. Tradition des Taciti/Silencieux. Jamais vassalise."
+          },
+          {
+            "currentName": "Celethor",
+            "historicalName": "Celith",
+            "meaning": "Voix-Sacree (cel = voix, parole ; ith = sacre, divin)",
+            "empire": "Theocratie de Celith → Sanctuaire d'Orivane",
+            "notes": "Orvane la Tisseuse (~20 050 av.A). Capitale Celith-Prime puis Orivanel."
+          },
+          {
+            "currentName": "Cendara",
+            "historicalName": "Pyrevaste",
+            "meaning": "Grande-Forge-de-Feu (pyre = feu ardent ; vaste = grandeur imperiale)",
+            "empire": "Dominat de Pyrevaste → Union des Flammes",
+            "notes": "Khatun Pyrecour (~20 020 av.A). Capitale Cendral. Premier empire forge-magique."
+          },
+          {
+            "currentName": "Cestra",
+            "historicalName": "Cestravar",
+            "meaning": "Terre-des-Anomalies (cestra = froid extreme, inconnu ; var = etrange, inquietant)",
+            "empire": "Territoire inexplore",
+            "notes": "Reste quasi-inexplore meme en Ere III. Anomalies du Lien precoces."
+          },
+          {
+            "currentName": "Endora",
+            "historicalName": "Endarion",
+            "meaning": "Empire-du-Milieu (endar = centre geographique ; ion = empire etendu)",
+            "empire": "Saint-Empire d'Endara",
+            "notes": "Capitale Endara-Prime. Un des 6 empires de l'age d'or."
+          },
+          {
+            "currentName": "Evertia",
+            "historicalName": "Everthor",
+            "meaning": "Cite-des-Eaux-Chaudes (ever = chaud, bouillonnant ; thor = cite, demeure)",
+            "empire": "Ligue Marchande d'Everthor",
+            "notes": "Septieme grand empire — le plus recent. Capitale Everthor-Prime."
+          },
+          {
+            "currentName": "Galenor",
+            "historicalName": "Aethran",
+            "meaning": "Plaines-de-l'Horizon (aethr = horizon infini ; an = territoire)",
+            "empire": "Hegemonie d'Aethran",
+            "notes": "Capitale Aethranor. Cavaliers et marchands du vent. Un des 6 empires."
+          },
+          {
+            "currentName": "Ilthara",
+            "historicalName": "Ithalorn",
+            "meaning": "Royaume-des-Profondeurs-Spirituelles (itha = profondeur spirituelle ; lorn = royaume des songes)",
+            "empire": "Royaume des Songes d'Ithalorn → Dominat de Pyrion",
+            "notes": "Capitale Pyrion-Prime (futur Pyrtara). Tradition Somnix/reves la plus developpee."
+          },
+          {
+            "currentName": "Nysaria",
+            "historicalName": "Nysarith",
+            "meaning": "Gorges-du-Savoir-Sonore (nysar = resonance profonde ; ith = sacre)",
+            "empire": "Cite-Etat semi-independante",
+            "notes": "Academies musicales. Harmonex tres actif."
+          },
+          {
+            "currentName": "Onara",
+            "historicalName": "Onarith",
+            "meaning": "Delta-de-la-Mer (onar = delta cotier ; ith = mer, etendue d'eau)",
+            "empire": "Thalassocratie de Navoris (avec Azoria)",
+            "notes": "Co-territoire de la Thalassocratie."
+          },
+          {
+            "currentName": "Ulinor",
+            "historicalName": "Ulnavar",
+            "meaning": "Foret-Sacree-Interdite (uln = foret inaccessible ; avar = sanctuaire)",
+            "empire": "Territoire de Selvara (non-empire)",
+            "notes": "Culture Foedus Animae (veneration de Spiritus ancestral). Peu peuple."
+          }
+        ]
+      },
+      {
+        "id": "era5_grande_nuit",
+        "name": "Ere V — Grande Nuit (An 0 → ~3 000 ap.A)",
+        "startYear": 0,
+        "endYear": 3000,
+        "description": "3 000 ans de chaos. Empires effondrés. Trois royaumes intermediaires : Tharnok (Alkaran, forteresse de pierre), Forgon (Onara/Azoria, puissance maritime), Drahk'Nor (Ilthara/Endora, armee sans Lien). Fleau des Failles (~1 500 ap.A) elimine 40% des survivants. Population : 120M (An 0) → 90M → 18M (~3 000 ap.A).",
+        "continents": [
+          {
+            "currentName": "Alkaran",
+            "historicalName": "Tharnak-Reth",
+            "meaning": "Territoire-de-Tharnok (tharnak = stronghold de pierre ; reth = territoire d'un pouvoir)",
+            "royaumeIntermediaire": "Tharnok",
+            "notes": "Graveurs de Tharnok preservent le savoir dans la pierre. Heritier de la Confederation d'Alkarath."
+          },
+          {
+            "currentName": "Azoria",
+            "historicalName": "Forgon-Ith",
+            "meaning": "Iles-de-Forgon (forgon = forge maritime ; ith = iles)",
+            "royaumeIntermediaire": "Forgon (avec Onara)",
+            "notes": "Commerce maritime comme seul lien entre continents sans portails."
+          },
+          {
+            "currentName": "Baelor",
+            "historicalName": "Baelorn",
+            "meaning": "Ile-des-Silencieux",
+            "notes": "Baelor-Prime se maintient ininterrompue depuis l'Ere III. Isolationnisme radical."
+          },
+          {
+            "currentName": "Celethor",
+            "historicalName": "Celith-Veth",
+            "meaning": "Celith-qui-Se-Tait (celith = les voix sacrees ; veth = silence apres cri)",
+            "notes": "La Theocratie de Celith s'effondre. Porteurs-de-Recits errants preservent le savoir. Precedesseur du Sanctuaire d'Orivane."
+          },
+          {
+            "currentName": "Cendara",
+            "historicalName": "Pyrevane-Krath",
+            "meaning": "Forge-Fortifiee (pyrevane = forge active persistante ; krath = forteresse)",
+            "notes": "Les Seigneurs de Forge controlent Cendara. Clans des Marcheurs residuels maintiennent les rituels du feu."
+          },
+          {
+            "currentName": "Cestra",
+            "historicalName": "Cestravar",
+            "meaning": "Terre-des-Anomalies",
+            "notes": "Inexplore. Anomalies du Lien s'accentuent sans les Lies pour les contenir."
+          },
+          {
+            "currentName": "Endora",
+            "historicalName": "Drahk-Sel",
+            "meaning": "Territoires-de-Drahk'Nor (drahk = force militaire brute ; sel = silence de la force)",
+            "royaumeIntermediaire": "Drahk'Nor (avec Ilthara)",
+            "notes": "Frontiere sud de Drahk'Nor. Armee professionnelle sans Lien."
+          },
+          {
+            "currentName": "Evertia",
+            "historicalName": "Evertia-Morth",
+            "meaning": "Sources-Oubliees (evertia = sources thermales ; morth = abandonne)",
+            "notes": "Sources thermales restent actives. Derniers vestiges de la civilisation d'Everthor."
+          },
+          {
+            "currentName": "Galenor",
+            "historicalName": "Galenthis",
+            "meaning": "Terre-Galenthienne (galenthis = heritier de l'Hegemonie d'Aethran)",
+            "notes": "Galenthis succede directement a l'Hegemonie. Tradition mercenaire et carrefour commercial maintenu."
+          },
+          {
+            "currentName": "Ilthara",
+            "historicalName": "Drahk'Nor",
+            "meaning": "Puissance-des-Tenebres (drahk = force brute sans Lien ; nor = empire territorial)",
+            "royaumeIntermediaire": "Drahk'Nor",
+            "notes": "Capitale Drahk. Armee professionnelle sans Lien. Chamanes de Memoire comme seuls conseillers spirituels."
+          },
+          {
+            "currentName": "Nysaria",
+            "historicalName": "Nysarith-Veth",
+            "meaning": "Gorges-Silencieuses (nysarith = gorges du savoir ; veth = silence)",
+            "notes": "Tradition musicale survit fragmentee. Harmonex continue de repondre — mais plus tristement."
+          },
+          {
+            "currentName": "Onara",
+            "historicalName": "Forgon-Reth",
+            "meaning": "Territoire-de-Forgon (forgon = forge maritime ; reth = territoire)",
+            "royaumeIntermediaire": "Forgon (avec Azoria)",
+            "notes": "Puissance maritime marchande. Paradoxalement Forgon prospere sans portails."
+          },
+          {
+            "currentName": "Ulinor",
+            "historicalName": "Ulnavar-Morth",
+            "meaning": "Foret-Abandonnee (ulnavar = foret sacree ; morth = abandonne)",
+            "notes": "Selvara souffre — Spiritus affaibli. Forets conscientes se retirent."
+          }
+        ]
+      },
+      {
+        "id": "era6_nations",
+        "name": "Ere VI — Nations (~3 000 → ~9 500 ap.A)",
+        "startYear": 3000,
+        "endYear": 9500,
+        "description": "38+ nations emergent depuis les royaumes intermediaires. 7 guerres majeures faconnent les frontieres. Guildes transnationales, systemes monetaires, routes commerciales. La Cristallisation (~8 000 → ~9 500) stabilise les frontieres. Traite des Treize Continents (~9 500 ap.A, 64 signataires) cloture l'ere.",
+        "continents": [
+          {
+            "currentName": "Alkaran",
+            "historicalName": "Alkarath-Reth",
+            "meaning": "Heritage-d'Alkarath (alkarath = le nom imperial de l'Ere III ; reth = heritage, continuee)",
+            "notes": "Tharnok → Altram, Iskara. Defense de la Porte de Fer (~8 816). Ferrath fonde ~7 600."
+          },
+          {
+            "currentName": "Azoria",
+            "historicalName": "Azoria",
+            "meaning": "Nom moderne stabilise (~3 600 avec fondation d'Azoral)",
+            "notes": "Forgon → Azoral (~3 600), Kethvar (~5 800), Solmaris (~6 300). Traite des Treize Continents."
+          },
+          {
+            "currentName": "Baelor",
+            "historicalName": "Baelor",
+            "meaning": "Nom inchange depuis l'Ere III",
+            "notes": "Cite-etat insulaire isolationniste. Tradition ininterrompue."
+          },
+          {
+            "currentName": "Celethor",
+            "historicalName": "Celethor",
+            "meaning": "Evolution de Celith : 'celethor' (foret-lumineuse en neo-sylveth, ~3 500 ap.A)",
+            "notes": "Sanctuaire d'Orivane → Astravia, Caeloria, Orvalis, Halcyon (~7 300)."
+          },
+          {
+            "currentName": "Cendara",
+            "historicalName": "Cendara",
+            "meaning": "Evolution de 'Cendra' — nom du Mont etendu au continent (~3 200 avec Arkhen)",
+            "notes": "Arkhen (~3 200), Pyrevane (~4 900). Gardiens du Mont Cendra."
+          },
+          {
+            "currentName": "Cestra",
+            "historicalName": "Cestra",
+            "meaning": "Evolution de Cestravar — le 'var' abandonne avec les premiers explorateurs (~8 100)",
+            "notes": "Noravia fondee ~8 100. Seule colonie stable. Integration controversee au Traite."
+          },
+          {
+            "currentName": "Endora",
+            "historicalName": "Endora",
+            "meaning": "Evolution d'Endarion — contracte en 'Endora' par les habitants de Haldria (~4 800)",
+            "notes": "Drahk'Nor → Haldria, Avalor (~6 544), Sanvara (~6 544), Endrath (~6 900)."
+          },
+          {
+            "currentName": "Evertia",
+            "historicalName": "Evertia",
+            "meaning": "Evolution d'Everthor — 'Evertia' adopte par les natifs (~3 100)",
+            "notes": "Thalmaris (~3 200), Sylvara (~4 800). Sources thermales restaurees."
+          },
+          {
+            "currentName": "Galenor",
+            "historicalName": "Galenor",
+            "meaning": "Evolution de Galennoth/Galenthis — contracte en 'Galenor' (~3 500)",
+            "notes": "Galenthis → Kharazir, Ventera, Seraphia (Guerre des Trois Couronnes ~5 181), Tyndara, Solena, Lumasar (Republique ~7 493)."
+          },
+          {
+            "currentName": "Ilthara",
+            "historicalName": "Ilthara",
+            "meaning": "Evolution d'Ithalorn/Drahk'Nor — 'Ilthara' adopte ~4 800 apres la Guerre du Panghor Brise",
+            "notes": "Drahk'Nor → Drakora, Gryndor, Pyrtara (~7 207)."
+          },
+          {
+            "currentName": "Nysaria",
+            "historicalName": "Nysaria",
+            "meaning": "Evolution de Nysarith — 'Nysaria' (terre-de-resonance) adopte ~3 800",
+            "notes": "Vytharia (~5 500), Mirathi (~6 200), Lunasar (~6 800). Grand Festival du Son institue."
+          },
+          {
+            "currentName": "Onara",
+            "historicalName": "Onara",
+            "meaning": "Evolution d'Onarith — 'Onara' adopte ~4 300 avec Myrtam",
+            "notes": "Forgon → Mosrack, Myrtam (~4 300), Elarath (~6 100)."
+          },
+          {
+            "currentName": "Ulinor",
+            "historicalName": "Ulinor",
+            "meaning": "Evolution d'Ulnavar — 'Ulinor' (foret-de-l'ame) adopte ~3 800",
+            "notes": "Skaldoria (~5 300), Torkam (~5 500), Dhalvoria (~7 100). Frontiere non reconnue par Skaldoria."
+          }
+        ]
+      },
+      {
+        "id": "era7_actuelle",
+        "name": "Ere VII — Actuelle (~9 500 → ~10 200 ap.A)",
+        "startYear": 9500,
+        "endYear": 10200,
+        "description": "Paix fragile sous le Traite des Treize Continents (700 ans sans guerre inter-etatique majeure). Clivage Lies/Delies (~30% Lies). Catena Fracta. Guerre de l'Ombre (~9 850 → present). Quatre mysteres actifs : Coeur de Cendra (pulse), Silence des Phenix, Message de Mirathi (~10 064), Faille d'Ordavan (~10 142).",
+        "continents": [
+          {
+            "currentName": "Alkaran",
+            "historicalName": "Alkaran",
+            "meaning": "Nom canonique — Traite des Treize Continents (~9 500 ap.A)",
+            "nations": ["Altram", "Iskara", "Ferrath"],
+            "notes": "Coeur metallurgique du monde. Heritage de l'Empire de Lithane."
+          },
+          {
+            "currentName": "Azoria",
+            "historicalName": "Azoria",
+            "meaning": "Nom canonique",
+            "nations": ["Azoral", "Kethvar", "Solmaris"],
+            "notes": "Puissance maritime. Biodiversite marine maximale (Coralix). Frontieres disputees avec Onara."
+          },
+          {
+            "currentName": "Baelor",
+            "historicalName": "Baelor",
+            "meaning": "Nom canonique",
+            "nations": ["Baelor-Prime"],
+            "notes": "Cite-etat insulaire isolationniste. Taciti/Silencieux. Ininterrompu depuis Ere III."
+          },
+          {
+            "currentName": "Celethor",
+            "historicalName": "Celethor",
+            "meaning": "Nom canonique",
+            "nations": ["Astravia", "Caeloria", "Orvalis", "Halcyon"],
+            "notes": "Centres intellectuels. Caeloria : diplomatie neutre. Heritage du Sanctuaire d'Orivane."
+          },
+          {
+            "currentName": "Cendara",
+            "historicalName": "Cendara",
+            "meaning": "Nom canonique",
+            "nations": ["Arkhen", "Pyrevane"],
+            "notes": "Mont Cendra pulse en frequence croissante (mystere actif). Ceinture volcanique d'Embrasur s'active depuis ~9 800."
+          },
+          {
+            "currentName": "Cestra",
+            "historicalName": "Cestra",
+            "meaning": "Nom canonique",
+            "nations": ["Noravia (seule colonie stable)"],
+            "notes": "13e continent. Quasi-inexplore. Anomalies du Lien. Mont Jumeau sous les glaces de Glacien ?"
+          },
+          {
+            "currentName": "Endora",
+            "historicalName": "Endora",
+            "meaning": "Nom canonique",
+            "nations": ["Haldria", "Avalor", "Sanvara", "Endrath"],
+            "notes": "Marecages de Mireille au nord. Guides-des-Marecages. Avalor : premier Etat seculier formel."
+          },
+          {
+            "currentName": "Evertia",
+            "historicalName": "Evertia",
+            "meaning": "Nom canonique",
+            "nations": ["Thalmaris", "Sylvara"],
+            "notes": "Forets conscientes s'eteignent progressivement depuis ~10 130 (Selvara souffre)."
+          },
+          {
+            "currentName": "Galenor",
+            "historicalName": "Galenor",
+            "meaning": "Nom canonique",
+            "nations": ["Kharazir", "Ventera", "Seraphia", "Tyndara", "Solena", "Lumasar"],
+            "notes": "Coeur economique. Lumasar : seule republique. Route des Quatre Mers."
+          },
+          {
+            "currentName": "Ilthara",
+            "historicalName": "Ilthara",
+            "meaning": "Nom canonique",
+            "nations": ["Drakora", "Gryndor", "Pyrtara", "Lythar", "Ackerna", "Warenthor", "Sylthara", "Haldria"],
+            "notes": "Frontieres contestees. Rivalite Drakora/Gryndor. Failles de Gryndor (Ere VII). Faille d'Ordavan (~10 142)."
+          },
+          {
+            "currentName": "Nysaria",
+            "historicalName": "Nysaria",
+            "meaning": "Nom canonique",
+            "nations": ["Vytharia", "Lunasar", "Mirathi"],
+            "notes": "Message de Mirathi (~10 064) — trois langues dont une inconnue (retour de Navigor ?). Grand Festival du Son."
+          },
+          {
+            "currentName": "Onara",
+            "historicalName": "Onara",
+            "meaning": "Nom canonique",
+            "nations": ["Mosrack", "Myrtam", "Elarath"],
+            "notes": "Puissance maritime (Mosrack). Delta fertile (Silthor). Frontieres disputees avec Azoria."
+          },
+          {
+            "currentName": "Ulinor",
+            "historicalName": "Ulinor",
+            "meaning": "Nom canonique",
+            "nations": ["Skaldoria", "Torkam", "Dhalvoria"],
+            "notes": "Peuples nomades. Skaldoria refuse le concept de frontiere. Expedition perdue dans les forets (~10 100)."
+          }
+        ]
+      }
+    ],
+    "countries": [
+      {
+        "currentName": "Altram",
+        "continent": "Alkaran",
+        "religion": "Lex Petra",
+        "timeline": [
+          { "era": "era3_lien_empires", "name": "Confederation d'Alkarath", "type": "empire", "capital": "Alkar-Prime", "startYear": -15000, "endYear": 0, "notes": "Un des 7 grands empires. Ildaran l'Ecouteur, decouvrant du Lien." },
+          { "era": "era5_grande_nuit", "name": "Tharnok", "type": "royaume intermediaire", "capital": "Tharnok-Cit", "startYear": 100, "endYear": 3000, "notes": "Graveurs de Tharnok preservent le savoir dans la pierre." },
+          { "era": "era6_nations", "name": "Empire de Lithane", "type": "empire regional", "capital": "Lithanel", "startYear": 3000, "endYear": 7800, "notes": "Capitale Lithanel = futur Altram. Un des 6 grands empires pre-Arrachement selon les sources." },
+          { "era": "era6_nations", "name": "Altram", "type": "royaume", "startYear": 7800, "endYear": 10200, "notes": "Reine-Forgeron Ulara (~8 816) : Defense de la Porte de Fer. Fragment Zero aux archives sous triple scelle." }
+        ]
+      },
+      {
+        "currentName": "Iskara",
+        "continent": "Alkaran",
+        "religion": "Lex Petra",
+        "timeline": [
+          { "era": "era5_grande_nuit", "name": "Province sud de Tharnok (Iskara-Reth)", "type": "province", "startYear": 100, "endYear": 3000 },
+          { "era": "era6_nations", "name": "Marches d'Iskar", "type": "marche frontiere", "startYear": 3000, "endYear": 5500, "notes": "Zone frontiere avec Endora. Mines de cuivre." },
+          { "era": "era6_nations", "name": "Iskara", "type": "royaume minier", "startYear": 5500, "endYear": 10200, "notes": "Pacte de la Pierre (~8 250) signataire." }
+        ]
+      },
+      {
+        "currentName": "Ferrath",
+        "continent": "Alkaran",
+        "timeline": [
+          { "era": "era6_nations", "name": "Mines Libres d'Altram (Ferrath-Veth)", "type": "territoire minier", "startYear": 7000, "endYear": 7600, "notes": "Cooperatives independantes sous suzerainete d'Altram." },
+          { "era": "era6_nations", "name": "Ferrath", "type": "confederation de mineurs", "startYear": 7600, "endYear": 10200, "notes": "Ecole d'ingenierie militaire souterraine fondee ici." }
+        ]
+      },
+      {
+        "currentName": "Kharazir",
+        "continent": "Galenor",
+        "timeline": [
+          { "era": "era3_lien_empires", "name": "Hegemonie d'Aethran (province nord portuaire)", "type": "province", "startYear": -10000, "endYear": 0 },
+          { "era": "era5_grande_nuit", "name": "Ports nord de Galenthis", "type": "sous-region", "startYear": 200, "endYear": 5181 },
+          { "era": "era6_nations", "name": "Kharazir", "type": "royaume commercial portuaire", "startYear": 5181, "endYear": 10200, "notes": "Fonde par Authal-Keth (Guerre des Trois Couronnes). Art de la negociation commerciale comme vertu morale." }
+        ]
+      },
+      {
+        "currentName": "Ventera",
+        "continent": "Galenor",
+        "timeline": [
+          { "era": "era3_lien_empires", "name": "Hegemonie d'Aethran (plaines centrales)", "type": "province", "startYear": -10000, "endYear": 0 },
+          { "era": "era5_grande_nuit", "name": "Plaines centrales de Galenthis", "type": "sous-region", "startYear": 200, "endYear": 5181 },
+          { "era": "era6_nations", "name": "Ventera", "type": "royaume agricole", "startYear": 5181, "endYear": 10200, "notes": "Autosuffisance agricole comme ideal civique. Rivale commerciale de Kharazir." }
+        ]
+      },
+      {
+        "currentName": "Seraphia",
+        "continent": "Galenor",
+        "religion": "Ordo Caelum",
+        "timeline": [
+          { "era": "era5_grande_nuit", "name": "Cites academiques de Galenthis", "type": "territoire", "startYear": 200, "endYear": 5181 },
+          { "era": "era6_nations", "name": "Seraphia", "type": "royaume theocratique", "startYear": 5181, "endYear": 10200, "notes": "Fonde par Davan (soutenu par l'Ordo Caelum). Savoir et medecine." }
+        ]
+      },
+      {
+        "currentName": "Tyndara",
+        "continent": "Galenor",
+        "religion": "Via Ventus",
+        "timeline": [
+          { "era": "era6_nations", "name": "Marche de Tyndara (dans Galenthis)", "type": "marche", "startYear": 3000, "endYear": 4500 },
+          { "era": "era6_nations", "name": "Tyndara", "type": "principaute maritime", "startYear": 4500, "endYear": 10200, "notes": "Admiral Torvan : blocus heroique de 8 ans (Guerre des Detroits ~5 710)." }
+        ]
+      },
+      {
+        "currentName": "Solena",
+        "continent": "Galenor",
+        "religion": "Via Ventus",
+        "timeline": [
+          { "era": "era6_nations", "name": "Solena", "type": "cite marchande", "startYear": 3800, "endYear": 10200, "notes": "Specialiste soie et textiles. Route des Quatre Mers." }
+        ]
+      },
+      {
+        "currentName": "Lumasar",
+        "continent": "Galenor",
+        "timeline": [
+          { "era": "era3_lien_empires", "name": "Cite academique de Lumasar", "type": "cite academique", "startYear": -5000, "endYear": 0, "notes": "Source du nom actuel." },
+          { "era": "era6_nations", "name": "Ville Franche de Lumasar", "type": "ville franche", "startYear": 5228, "endYear": 7493, "notes": "Accords de Lumasar (~5 228). Oligarchie marchande hereditaire." },
+          { "era": "era6_nations", "name": "Republique Marchande de Lumasar", "type": "republique", "startYear": 7493, "endYear": 10200, "notes": "Revolution des Plumes. Mira la Tisserande, premiere Consul. Seul regime republicain formel du monde." }
+        ]
+      },
+      {
+        "currentName": "Drakora",
+        "continent": "Ilthara",
+        "timeline": [
+          { "era": "era3_lien_empires", "name": "Dominat de Pyrion", "type": "empire", "capital": "Pyros", "startYear": -8000, "endYear": 0 },
+          { "era": "era5_grande_nuit", "name": "Drahk'Nor", "type": "royaume intermediaire", "capital": "Drahk", "startYear": 200, "endYear": 4800, "notes": "Armee professionnelle sans Lien." },
+          { "era": "era6_nations", "name": "Drakora", "type": "etat-tampon militariste", "startYear": 4800, "endYear": 10200, "notes": "Fonde par Vorath Shan (traitre). Culture de la defiance et de la diplomatie secrete." }
+        ]
+      },
+      {
+        "currentName": "Gryndor",
+        "continent": "Ilthara",
+        "religion": "Vael'Kurash",
+        "timeline": [
+          { "era": "era5_grande_nuit", "name": "Province centrale de Drahk'Nor", "type": "province", "startYear": 200, "endYear": 4800 },
+          { "era": "era6_nations", "name": "Gryndor", "type": "etat traditionnel Vael'Kurash", "startYear": 4800, "endYear": 10200, "notes": "Illara de Gryndor. Failles de Gryndor (Ere VII). Convention de Gryndor (~2 950) donnait son nom a la paix." }
+        ]
+      },
+      {
+        "currentName": "Pyrtara",
+        "continent": "Ilthara",
+        "religion": "Ignis Aeternum",
+        "timeline": [
+          { "era": "era3_lien_empires", "name": "Pyros / Dominat de Pyrion (capitale)", "type": "capitale", "startYear": -8000, "endYear": 0 },
+          { "era": "era5_grande_nuit", "name": "Province ouest de Drahk'Nor", "type": "province", "startYear": 200, "endYear": 7180 },
+          { "era": "era6_nations", "name": "Pyrtara", "type": "etat laic militaire", "startYear": 7207, "endYear": 10200, "notes": "Commandant Pyrax, fondateur. Meritocratie militaire. Nom en reference au Dominat de Pyrion." }
+        ]
+      },
+      {
+        "currentName": "Lythar",
+        "continent": "Ilthara",
+        "religion": "Via Ventus",
+        "timeline": [
+          { "era": "era6_nations", "name": "Lythar", "type": "principaute", "startYear": 5800, "endYear": 10200 }
+        ]
+      },
+      {
+        "currentName": "Ackerna",
+        "continent": "Ilthara",
+        "timeline": [
+          { "era": "era6_nations", "name": "Ackerna", "type": "etat", "startYear": 5000, "endYear": 10200 }
+        ]
+      },
+      {
+        "currentName": "Warenthor",
+        "continent": "Ilthara",
+        "timeline": [
+          { "era": "era5_grande_nuit", "name": "Marche de Drahk'Nor (Warenthor-Reth)", "type": "marche frontiere", "startYear": 200, "endYear": 5500 },
+          { "era": "era6_nations", "name": "Warenthor", "type": "marche militaire", "startYear": 5500, "endYear": 10200 }
+        ]
+      },
+      {
+        "currentName": "Sylthara",
+        "continent": "Ilthara",
+        "religion": "Rota Mundi",
+        "timeline": [
+          { "era": "era6_nations", "name": "Sylthara", "type": "etat forestier", "startYear": 4500, "endYear": 10200 }
+        ]
+      },
+      {
+        "currentName": "Haldria",
+        "continent": "Endora",
+        "timeline": [
+          { "era": "era3_lien_empires", "name": "Saint-Empire d'Endara (province sud)", "type": "province", "startYear": -10000, "endYear": 0 },
+          { "era": "era5_grande_nuit", "name": "Province sud de Drahk'Nor", "type": "province", "startYear": 200, "endYear": 4800 },
+          { "era": "era6_nations", "name": "Haldria", "type": "aristocratie marchande", "startYear": 4800, "endYear": 10200, "notes": "'Ce qui se negocie ne se saigne pas.' Eclate lors des Schismes d'Endora (~6 544)." }
+        ]
+      },
+      {
+        "currentName": "Avalor",
+        "continent": "Endora",
+        "religion": "Noctari",
+        "timeline": [
+          { "era": "era6_nations", "name": "Communaute Noctari d'Endora", "type": "communaute religieuse", "startYear": 5800, "endYear": 6544 },
+          { "era": "era6_nations", "name": "Avalor", "type": "etat seculier", "startYear": 6544, "endYear": 10200, "notes": "Premier Etat formellement seculier. Ursula la Voilee. Centre philosophique." }
+        ]
+      },
+      {
+        "currentName": "Sanvara",
+        "continent": "Endora",
+        "religion": "Noctari",
+        "timeline": [
+          { "era": "era6_nations", "name": "Cite de Sanvara (assiege 15 ans)", "type": "cite fortifiee", "startYear": 6487, "endYear": 6544, "notes": "Siege par Haldria." },
+          { "era": "era6_nations", "name": "Sanvara", "type": "etat religieux", "startYear": 6544, "endYear": 10200, "notes": "Murs d'Ursula (creneaux vers l'interieur). Identite forgee par le siege." }
+        ]
+      },
+      {
+        "currentName": "Endrath",
+        "continent": "Endora",
+        "timeline": [
+          { "era": "era6_nations", "name": "Region montagneuse de Haldria", "type": "province", "startYear": 4800, "endYear": 6900 },
+          { "era": "era6_nations", "name": "Endrath", "type": "region autonome montagneuse", "startYear": 6900, "endYear": 10200 }
+        ]
+      },
+      {
+        "currentName": "Astravia",
+        "continent": "Celethor",
+        "timeline": [
+          { "era": "era3_lien_empires", "name": "Sanctuaire d'Orivane (capitale Orivanel)", "type": "empire theocratique", "capital": "Orivanel", "startYear": -8000, "endYear": 0, "notes": "Heritage de la Theocratie de Celith. Un des 6 empires." },
+          { "era": "era5_grande_nuit", "name": "Cite survivante d'Orivanel", "type": "cite", "startYear": 50, "endYear": 3000 },
+          { "era": "era6_nations", "name": "Astravia", "type": "cite-etat culturelle", "startYear": 3100, "endYear": 10200, "notes": "Centre intellectuel de Celethor. Heritage du Sanctuaire d'Orivane." }
+        ]
+      },
+      {
+        "currentName": "Caeloria",
+        "continent": "Celethor",
+        "religion": "Ordo Caelum",
+        "timeline": [
+          { "era": "era3_lien_empires", "name": "Iles du Sanctuaire d'Orivane", "type": "territoire insulaire", "startYear": -8000, "endYear": 0 },
+          { "era": "era6_nations", "name": "Caeloria", "type": "puissance diplomatique neutre", "startYear": 3500, "endYear": 10200, "notes": "Caeloria-Prime Ithael : mediateur Guerre des Detroits (~5 759). Academies pour erudit de tous continents." }
+        ]
+      },
+      {
+        "currentName": "Orvalis",
+        "continent": "Celethor",
+        "timeline": [
+          { "era": "era6_nations", "name": "Orvalis", "type": "principaute forestiere", "startYear": 4500, "endYear": 10200, "notes": "Nom derive d'Orvane la Tisseuse." }
+        ]
+      },
+      {
+        "currentName": "Halcyon",
+        "continent": "Celethor",
+        "timeline": [
+          { "era": "era6_nations", "name": "Province ouest d'Astravia", "type": "province", "startYear": 3100, "endYear": 7300 },
+          { "era": "era6_nations", "name": "Halcyon", "type": "cite dissidente", "startYear": 7300, "endYear": 10200, "notes": "Cote ouest, dissidente d'Astravia." }
+        ]
+      },
+      {
+        "currentName": "Mosrack",
+        "continent": "Onara",
+        "timeline": [
+          { "era": "era3_lien_empires", "name": "Thalassocratie de Navoris (cotes Onara)", "type": "empire maritime", "capital": "Navoria (engloutie An 0)", "startYear": -8000, "endYear": 0 },
+          { "era": "era5_grande_nuit", "name": "Forgon (Onara)", "type": "royaume intermediaire", "startYear": 150, "endYear": 3500 },
+          { "era": "era6_nations", "name": "Mosrack", "type": "puissance navale marchande", "startYear": 3500, "endYear": 10200, "notes": "Suprematie navale — Route des Quatre Mers. Tatouage des Quatre-Vents comme honneur militaire." }
+        ]
+      },
+      {
+        "currentName": "Myrtam",
+        "continent": "Onara",
+        "religion": "Ignis Aeternum",
+        "timeline": [
+          { "era": "era5_grande_nuit", "name": "Terres interieures de Forgon", "type": "territoire", "startYear": 150, "endYear": 4300 },
+          { "era": "era6_nations", "name": "Myrtam", "type": "etat terrien", "startYear": 4300, "endYear": 10200, "notes": "Faction terrienne d'ex-Forgon. Contrepoint aux marins de Mosrack." }
+        ]
+      },
+      {
+        "currentName": "Elarath",
+        "continent": "Onara",
+        "timeline": [
+          { "era": "era6_nations", "name": "Province de Myrtam", "type": "province", "startYear": 4300, "endYear": 6100 },
+          { "era": "era6_nations", "name": "Elarath", "type": "principaute independante", "startYear": 6100, "endYear": 10200 }
+        ]
+      },
+      {
+        "currentName": "Azoral",
+        "continent": "Azoria",
+        "timeline": [
+          { "era": "era2_berceaux", "name": "Berceau de l'Eau (Gens de l'Eau)", "type": "berceau originel", "startYear": -45000, "endYear": -20000, "language": "Aquen" },
+          { "era": "era3_lien_empires", "name": "Thalassocratie de Navoris (Azoria)", "type": "empire maritime", "startYear": -8000, "endYear": 0 },
+          { "era": "era5_grande_nuit", "name": "Forgon-Ith (iles Azoria)", "type": "territoire de Forgon", "startYear": 150, "endYear": 3600 },
+          { "era": "era6_nations", "name": "Azoral", "type": "confederation insulaire", "startYear": 3600, "endYear": 10200 }
+        ]
+      },
+      {
+        "currentName": "Kethvar",
+        "continent": "Azoria",
+        "timeline": [
+          { "era": "era6_nations", "name": "Ile principale d'Azoral", "type": "territoire", "startYear": 3600, "endYear": 5800 },
+          { "era": "era6_nations", "name": "Kethvar", "type": "etat insulaire", "startYear": 5800, "endYear": 10200 }
+        ]
+      },
+      {
+        "currentName": "Solmaris",
+        "continent": "Azoria",
+        "timeline": [
+          { "era": "era6_nations", "name": "Ile marchande d'Azoral (influence Mosrack)", "type": "comptoir", "startYear": 3600, "endYear": 6300 },
+          { "era": "era6_nations", "name": "Solmaris", "type": "cite marchande autonome", "startYear": 6300, "endYear": 10200 }
+        ]
+      },
+      {
+        "currentName": "Thalmaris",
+        "continent": "Evertia",
+        "religion": "Cantus Mundi",
+        "timeline": [
+          { "era": "era3_lien_empires", "name": "Ligue Marchande d'Everthor", "type": "empire commercial", "capital": "Everthor-Prime", "startYear": -5000, "endYear": 0, "notes": "Septieme grand empire. Capitale Everthor-Prime (partiellement sous Thalmaris actuel)." },
+          { "era": "era5_grande_nuit", "name": "Cite-refuge d'Evertia", "type": "ville survivante", "startYear": 50, "endYear": 3000 },
+          { "era": "era6_nations", "name": "Thalmaris", "type": "etat commercial", "startYear": 3200, "endYear": 10200 }
+        ]
+      },
+      {
+        "currentName": "Sylvara",
+        "continent": "Evertia",
+        "timeline": [
+          { "era": "era6_nations", "name": "Sylvara", "type": "etat forestier", "startYear": 4800, "endYear": 10200, "notes": "Forets conscientes s'eteignent progressivement depuis ~10 130. Lien avec Selvara affaibli." }
+        ]
+      },
+      {
+        "currentName": "Vytharia",
+        "continent": "Nysaria",
+        "religion": "Noctari",
+        "timeline": [
+          { "era": "era6_nations", "name": "Cites des gorges de Nysarith", "type": "cites dispersees", "startYear": 3200, "endYear": 5500 },
+          { "era": "era6_nations", "name": "Vytharia", "type": "etat religieux", "startYear": 5500, "endYear": 10200, "notes": "Tradition Noctari et Somnium Vigil. Scission → Mirathi (~6 200) et Lunasar (~6 800)." }
+        ]
+      },
+      {
+        "currentName": "Lunasar",
+        "continent": "Nysaria",
+        "religion": "Noctari",
+        "timeline": [
+          { "era": "era6_nations", "name": "Province de Vytharia", "type": "province", "startYear": 5500, "endYear": 6800 },
+          { "era": "era6_nations", "name": "Lunasar", "type": "etat dissidant theologique", "startYear": 6800, "endYear": 10200 }
+        ]
+      },
+      {
+        "currentName": "Mirathi",
+        "continent": "Nysaria",
+        "timeline": [
+          { "era": "era6_nations", "name": "Port de Vytharia", "type": "port", "startYear": 5500, "endYear": 6200 },
+          { "era": "era6_nations", "name": "Mirathi", "type": "cite portuaire autonome", "startYear": 6200, "endYear": 10200, "notes": "Message de Mirathi (~10 064) — trois langues dont une inconnue. Mystere actif Ere VII." }
+        ]
+      },
+      {
+        "currentName": "Baelor-Prime",
+        "continent": "Baelor",
+        "religion": "Les Silencieux (Taciti)",
+        "timeline": [
+          { "era": "era3_lien_empires", "name": "Cite de Baelorn", "type": "cite-etat", "startYear": -15000, "endYear": 0, "notes": "Sans Ethere dominant. Culture autosuffisante unique." },
+          { "era": "era5_grande_nuit", "name": "Baelorn-Prime", "type": "cite-etat survivante", "startYear": 0, "endYear": 2800, "notes": "Une des rares structures ininterrompues depuis l'Ere III." },
+          { "era": "era6_nations", "name": "Baelor-Prime", "type": "cite-etat isolationniste", "startYear": 2800, "endYear": 10200, "notes": "Isolation radicale. Taciti/Silencieux. Premier regime ininterrompu du monde." }
+        ]
+      },
+      {
+        "currentName": "Arkhen",
+        "continent": "Cendara",
+        "religion": "Ignis Aeternum",
+        "timeline": [
+          { "era": "era2_berceaux", "name": "Berceau de Flamme (Marcheurs de Cendre)", "type": "berceau originel", "startYear": -45000, "endYear": -20000, "language": "Proto-kalvar" },
+          { "era": "era3_lien_empires", "name": "Dominat de Pyrevaste / Union des Flammes", "type": "empire", "startYear": -15000, "endYear": 0 },
+          { "era": "era5_grande_nuit", "name": "Seigneurs de Forge de Cendara", "type": "pouvoir de facto", "startYear": 0, "endYear": 3200 },
+          { "era": "era6_nations", "name": "Arkhen", "type": "premier etat formel de Cendara", "startYear": 3200, "endYear": 10200, "notes": "Descendance directe des Marcheurs de Cendre. Gardiens du Mont Cendra." }
+        ]
+      },
+      {
+        "currentName": "Pyrevane",
+        "continent": "Cendara",
+        "religion": "Ignis Aeternum",
+        "timeline": [
+          { "era": "era6_nations", "name": "Province volcanique d'Arkhen", "type": "province", "startYear": 3200, "endYear": 4900 },
+          { "era": "era6_nations", "name": "Pyrevane", "type": "principaute volcanique separee", "startYear": 4900, "endYear": 10200, "notes": "Archipel le plus actif de Cendara." }
+        ]
+      },
+      {
+        "currentName": "Skaldoria",
+        "continent": "Ulinor",
+        "religion": "Rota Mundi",
+        "timeline": [
+          { "era": "era5_grande_nuit", "name": "Tribus nomades d'Ulinor", "type": "tribus", "startYear": 0, "endYear": 5300 },
+          { "era": "era6_nations", "name": "Skaldoria", "type": "federation tribale nomade", "startYear": 5300, "endYear": 10200, "notes": "Unifiee par Rota Mundi. Refuse le concept de frontiere. Voie des Sommets controlée en partie." }
+        ]
+      },
+      {
+        "currentName": "Torkam",
+        "continent": "Ulinor",
+        "religion": "Foedus Animae",
+        "timeline": [
+          { "era": "era6_nations", "name": "Torkam", "type": "confederation tribale", "startYear": 5500, "endYear": 10200, "notes": "Tradition Foedus Animae (veneration de Spiritus ancestral)." }
+        ]
+      },
+      {
+        "currentName": "Dhalvoria",
+        "continent": "Ulinor",
+        "timeline": [
+          { "era": "era6_nations", "name": "Fraction pastorale de Torkam", "type": "branche tribale", "startYear": 5500, "endYear": 7100 },
+          { "era": "era6_nations", "name": "Dhalvoria", "type": "etat pastoral sedentaire", "startYear": 7100, "endYear": 10200, "notes": "Scission pastorale-sedentaire de Torkam." }
+        ]
+      },
+      {
+        "currentName": "Noravia",
+        "continent": "Cestra",
+        "timeline": [
+          { "era": "era6_nations", "name": "Noravia", "type": "colonie", "startYear": 8100, "endYear": 10200, "notes": "Premiere colonisation stable de Cestra. Aurores boreales de Lumiveil. Integration controversee au Traite des Treize Continents. Cherche peut-etre le Mont Jumeau." }
+        ]
+      }
+    ],
+    "civilisationsDisparues": [
+      {
+        "name": "Dominat de Pyrevaste",
+        "type": "empire",
+        "continent": "Cendara",
+        "startYear": -18000,
+        "endYear": -5000,
+        "successeur": "Union des Flammes",
+        "notes": "Premier empire forge-magique. Khatun Pyrecour decouvre le Lien ici (~20 020 av.A). Capitale Cendral."
+      },
+      {
+        "name": "Theocratie de Celith",
+        "type": "empire theocratique",
+        "continent": "Celethor",
+        "startYear": -17000,
+        "endYear": -3000,
+        "successeur": "Sanctuaire d'Orivane",
+        "notes": "Heritiere de la decouverte d'Orvane la Tisseuse (~20 050 av.A). Capitale Celith-Prime."
+      },
+      {
+        "name": "Confederation d'Alkarath",
+        "type": "empire",
+        "continent": "Alkaran",
+        "startYear": -15000,
+        "endYear": -2000,
+        "successeur": "Empire de Lithane / Tharnok",
+        "notes": "Ildaran l'Ecouteur (~19 980 av.A). Premiere proto-ecriture sur pierre (Pierres-Memoire)."
+      },
+      {
+        "name": "Khalifat de Solvenar",
+        "type": "empire",
+        "continent": "Galenor + Onara",
+        "startYear": -12000,
+        "endYear": -4000,
+        "successeur": "Hegemonie d'Aethran",
+        "notes": "Quatrieme grand empire. Tradition du commerce et des caravanes."
+      },
+      {
+        "name": "Saint-Empire d'Endara",
+        "type": "empire theocratique",
+        "continent": "Endora",
+        "startYear": -10000,
+        "endYear": 0,
+        "successeur": "Drahk'Nor (partiel)",
+        "notes": "Un des 6 empires coexistants de l'age d'or. Capitale Endara-Prime."
+      },
+      {
+        "name": "Royaume des Songes d'Ithalorn",
+        "type": "empire spirituel",
+        "continent": "Ilthara",
+        "startYear": -10000,
+        "endYear": -2000,
+        "successeur": "Dominat de Pyrion",
+        "notes": "Tradition Somnix/Reves la plus developpee. Cite Pyrion = futur Pyrtara."
+      },
+      {
+        "name": "Ligue Marchande d'Everthor",
+        "type": "empire commercial",
+        "continent": "Evertia",
+        "startYear": -5000,
+        "endYear": 0,
+        "successeur": "Thalmaris (partiel)",
+        "notes": "Septieme grand empire — le plus recent. Sources thermales et commerce maritime. Capitale Everthor-Prime."
+      },
+      {
+        "name": "Hegemonie d'Aethran",
+        "type": "empire",
+        "continent": "Galenor",
+        "startYear": -8000,
+        "endYear": 0,
+        "successeur": "Galenthis",
+        "notes": "Cavaliers et marchands du vent. Capitale Aethranor. Un des 6 empires de l'age d'or."
+      },
+      {
+        "name": "Dominat de Pyrion",
+        "type": "empire militaire",
+        "continent": "Ilthara ouest",
+        "startYear": -8000,
+        "endYear": 0,
+        "successeur": "Drahk'Nor",
+        "notes": "Heritier du Royaume des Songes. Capitale Pyros (futur Pyrtara). Un des 6 empires."
+      },
+      {
+        "name": "Empire de Lithane",
+        "type": "empire",
+        "continent": "Alkaran",
+        "startYear": -8000,
+        "endYear": 0,
+        "successeur": "Tharnok",
+        "notes": "Capitale Lithanel (futur Altram). Metallurgie et mines. Un des 6 empires de l'age d'or."
+      },
+      {
+        "name": "Sanctuaire d'Orivane",
+        "type": "empire theocratique",
+        "continent": "Celethor + iles",
+        "startYear": -8000,
+        "endYear": 0,
+        "successeur": "Astravia",
+        "notes": "Capitale Orivanel (futur Astravia). Heritage de la Theocratie de Celith. Un des 6 empires."
+      },
+      {
+        "name": "Thalassocratie de Navoris",
+        "type": "empire maritime",
+        "continent": "Azoria + Onara + cotes",
+        "startYear": -8000,
+        "endYear": 0,
+        "successeur": "Forgon",
+        "notes": "Capitale Navoria (400 000 hab., engloutie en 3 jours lors de l'Arrachement). Plus grand empire maritime."
+      },
+      {
+        "name": "Union des Flammes",
+        "type": "empire",
+        "continent": "Cendara + Endora sud",
+        "startYear": -8000,
+        "endYear": 0,
+        "successeur": "Seigneurs de Forge / Arkhen",
+        "notes": "Capitale Cendral. Heritier du Dominat de Pyrevaste. Un des 6 empires de l'age d'or."
+      },
+      {
+        "name": "Tharnok",
+        "type": "royaume intermediaire",
+        "continent": "Alkaran",
+        "startYear": 100,
+        "endYear": 3000,
+        "successeur": "Altram + Iskara",
+        "notes": "Forteresse de pierre. Graveurs de Tharnok — premier effort de preservation du savoir post-Arrachement."
+      },
+      {
+        "name": "Forgon",
+        "type": "royaume intermediaire",
+        "continent": "Onara + Azoria (cotes)",
+        "startYear": 150,
+        "endYear": 3500,
+        "successeur": "Mosrack + Myrtam + Azoral",
+        "notes": "Puissance maritime marchande. Paradoxalement prospere sans portails."
+      },
+      {
+        "name": "Drahk'Nor",
+        "type": "royaume intermediaire",
+        "continent": "Ilthara + Endora",
+        "startYear": 200,
+        "endYear": 4800,
+        "successeur": "Drakora + Gryndor + Haldria",
+        "notes": "Capitale Drahk. Armee professionnelle sans Lien. Discipline militaire pure comme ciment social."
+      },
+      {
+        "name": "Galenthis",
+        "type": "successeur de l'Hegemonie d'Aethran",
+        "continent": "Galenor",
+        "startYear": 200,
+        "endYear": 5181,
+        "successeur": "Kharazir + Ventera + Seraphia + Lumasar",
+        "notes": "Tradition mercenaire et carrefour commercial. Se divise lors de la Guerre des Trois Couronnes (~5 181)."
+      }
+    ]
+  }
+}
