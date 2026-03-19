@@ -42,9 +42,6 @@ function initMap() {
     // Timeline system
     let timelineData = null;
     let currentEraId = 'actuelle';
-    let timelinePlayInterval = null;
-    let isTimelinePlaying = false;
-    let eraTransitionTimer = null;
 
     // Editor mode
     let editorMode = false;
@@ -166,39 +163,70 @@ function initMap() {
         };
     }
 
-    // Variable pour l'année courante affichée
+    // ===== SLIDER CONTINU : chaque ère = 1000 unités de slider =====
     let currentDisplayYear = 10200;
+    const SLIDER_UNITS_PER_ERA = 1000;
+    let isTimelinePlaying = false;
+    let timelineAnimFrame = null;
+    let lastEraIdApplied = null;
+
+    // Position slider (0..N*1000) → { year, eraIdx }
+    function sliderToYearAndEra(sliderVal) {
+        if (!timelineData || !timelineData.eras) return { year: 0, eraIdx: 0 };
+        const eras = timelineData.eras;
+        const eraIdx = Math.min(Math.floor(sliderVal / SLIDER_UNITS_PER_ERA), eras.length - 1);
+        const era = eras[eraIdx];
+        const fraction = (sliderVal - eraIdx * SLIDER_UNITS_PER_ERA) / SLIDER_UNITS_PER_ERA;
+        const start = era.startYear || 0;
+        const end = era.endYear || start;
+        return { year: Math.round(start + fraction * (end - start)), eraIdx: eraIdx };
+    }
+
+    // L'index d'ère courant (déterminé par la position slider, pas par l'année)
+    let currentEraIdx = 0;
+
+    // Index d'ère + direction → position slider pour stepYears
+    function yearToSliderInEra(year, eraIdx) {
+        if (!timelineData || !timelineData.eras) return 0;
+        const era = timelineData.eras[eraIdx];
+        const s = era.startYear || 0;
+        const e = era.endYear || s;
+        const span = e - s || 1;
+        const fraction = Math.max(0, Math.min(1, (year - s) / span));
+        return eraIdx * SLIDER_UNITS_PER_ERA + fraction * SLIDER_UNITS_PER_ERA;
+    }
 
     function initTimeline() {
         const timeline = document.getElementById('timeline');
         if (!timeline) return;
 
+        // Slider continu : max = nb ères × 1000
         timeline.min = 0;
-        timeline.max = 10;
-        timeline.value = 10;
+        timeline.max = 10000;
+        timeline.value = 10000;
         timeline.step = 1;
 
-        // Slider d'ères
+        // Slider : glissement fluide
         timeline.addEventListener('input', function() {
-            const idx = parseInt(this.value, 10);
-            if (timelineData && timelineData.eras && timelineData.eras[idx]) {
-                const era = timelineData.eras[idx];
-                updateMapForEra(era.id);
-                // Positionner l'année au début de l'ère
-                currentDisplayYear = era.startYear || 0;
-                updateYearDisplay();
-            }
+            const val = parseFloat(this.value);
+            const result = sliderToYearAndEra(val);
+            currentDisplayYear = result.year;
+            currentEraIdx = result.eraIdx;
+            syncMapToYear();
             updateSliderTrack(this);
-            if (window.updateBorders) window.updateBorders();
         });
 
-        // Boutons de navigation par année
+        // Boutons ±
         document.querySelectorAll('.tl-year-btn').forEach(btn => {
             btn.addEventListener('click', function() {
                 const delta = parseInt(this.getAttribute('data-delta'));
                 stepYears(delta);
             });
         });
+
+        // Play
+        const playBtn = document.getElementById('timelinePlayBtn');
+        if (playBtn) playBtn.addEventListener('click', toggleTimelinePlay);
 
         // Toggle collapse
         const toggleBtn = document.getElementById('timelineToggleBtn');
@@ -215,47 +243,138 @@ function initMap() {
             });
         }
 
-        // Keyboard shortcuts
+        // Keyboard
         document.addEventListener('keydown', function(e) {
             if (e.target.tagName === 'INPUT' || e.target.tagName === 'SELECT' || e.target.tagName === 'TEXTAREA') return;
             if (e.key === 'ArrowLeft') { e.preventDefault(); stepYears(-100); }
             else if (e.key === 'ArrowRight') { e.preventDefault(); stepYears(100); }
+            else if (e.key === ' ') { e.preventDefault(); toggleTimelinePlay(); }
         });
 
-        updateTimelineDisplay(10);
+        updateTimelineDisplay(Math.floor(10000 / SLIDER_UNITS_PER_ERA));
+    }
+
+    // Synchronise la carte avec currentEraIdx (change d'ère seulement si nécessaire)
+    function syncMapToYear() {
+        if (!timelineData || !timelineData.eras[currentEraIdx]) return;
+        const eraId = timelineData.eras[currentEraIdx].id;
+
+        // Ne rafraîchir la carte que si l'ère change (perf)
+        if (eraId !== lastEraIdApplied) {
+            lastEraIdApplied = eraId;
+            updateMapForEra(eraId);
+        }
+        updateYearDisplay();
     }
 
     function stepYears(delta) {
         if (!timelineData || !timelineData.eras) return;
+        const eras = timelineData.eras;
 
-        currentDisplayYear += delta;
+        let newYear = currentDisplayYear + delta;
+        let newEraIdx = currentEraIdx;
 
-        // Bornes min/max du monde
-        const minYear = timelineData.eras[0].startYear || -999999;
-        const maxYear = timelineData.eras[timelineData.eras.length - 1].endYear || 10200;
-        currentDisplayYear = Math.max(minYear, Math.min(maxYear, currentDisplayYear));
+        // Si on dépasse les bornes de l'ère actuelle, passer à l'ère suivante/précédente
+        const currentEra = eras[newEraIdx];
+        if (newYear < (currentEra.startYear || -Infinity) && newEraIdx > 0) {
+            newEraIdx--;
+            newYear = Math.max(eras[newEraIdx].startYear || -999999, newYear);
+        } else if (newYear >= (currentEra.endYear || Infinity) && newEraIdx < eras.length - 1) {
+            newEraIdx++;
+            newYear = Math.min(eras[newEraIdx].endYear || 10200, newYear);
+        }
 
-        // Trouver l'ère correspondante à cette année
-        let matchedIdx = timelineData.eras.length - 1;
-        for (let i = 0; i < timelineData.eras.length; i++) {
-            const era = timelineData.eras[i];
-            if (currentDisplayYear >= (era.startYear || -Infinity) && currentDisplayYear < (era.endYear || Infinity)) {
-                matchedIdx = i;
-                break;
+        // Bornes globales
+        const globalMin = eras[0].startYear || -999999;
+        const globalMax = eras[eras.length - 1].endYear || 10200;
+        newYear = Math.max(globalMin, Math.min(globalMax, newYear));
+        newEraIdx = Math.max(0, Math.min(eras.length - 1, newEraIdx));
+
+        currentDisplayYear = newYear;
+        currentEraIdx = newEraIdx;
+
+        const timeline = document.getElementById('timeline');
+        if (timeline) {
+            timeline.value = yearToSliderInEra(currentDisplayYear, currentEraIdx);
+            updateSliderTrack(timeline);
+        }
+        syncMapToYear();
+        if (window.updateBorders) window.updateBorders();
+    }
+
+    // ===== PLAY ANIMATION =====
+    function toggleTimelinePlay() {
+        isTimelinePlaying = !isTimelinePlaying;
+        const playBtn = document.getElementById('timelinePlayBtn');
+        if (!playBtn) return;
+
+        if (isTimelinePlaying) {
+            playBtn.innerHTML = '&#x23F8;';
+            playBtn.classList.add('playing');
+            // Si on est à la fin, repartir du début
+            const maxYear = timelineData.eras[timelineData.eras.length - 1].endYear || 10200;
+            if (currentDisplayYear >= maxYear - 1) {
+                currentDisplayYear = timelineData.eras[0].startYear || -999999;
+                currentEraIdx = 0;
+            }
+            lastPlayTimestamp = null;
+            timelineAnimFrame = requestAnimationFrame(playTick);
+        } else {
+            playBtn.innerHTML = '&#x25B6;';
+            playBtn.classList.remove('playing');
+            if (timelineAnimFrame) {
+                cancelAnimationFrame(timelineAnimFrame);
+                timelineAnimFrame = null;
+            }
+        }
+    }
+
+    let lastPlayTimestamp = null;
+    function playTick(timestamp) {
+        if (!isTimelinePlaying) return;
+        if (!lastPlayTimestamp) lastPlayTimestamp = timestamp;
+
+        const elapsed = timestamp - lastPlayTimestamp;
+        lastPlayTimestamp = timestamp;
+
+        // Vitesse : le select donne le nb de ms par année
+        // ×1 = 50ms/an, ×10 = 10ms/an, ×100 = 2ms/an, ×1k = 0.5ms/an, ×10k = 0.1ms/an
+        const speedSelect = document.getElementById('timelineSpeed');
+        const msPerYear = speedSelect ? parseFloat(speedSelect.value) : 10;
+        const yearsToAdd = Math.max(1, Math.round(elapsed / msPerYear));
+
+        currentDisplayYear += yearsToAdd;
+
+        // Vérifier si on dépasse l'ère courante → avancer l'ère
+        const eras = timelineData.eras;
+        while (currentEraIdx < eras.length - 1 && currentDisplayYear >= (eras[currentEraIdx].endYear || Infinity)) {
+            currentEraIdx++;
+            // Ne pas recaler l'année — la laisser progresser naturellement
+        }
+
+        const maxYear = eras[eras.length - 1].endYear || 10200;
+        if (currentDisplayYear >= maxYear) {
+            currentDisplayYear = maxYear;
+            currentEraIdx = eras.length - 1;
+            isTimelinePlaying = false;
+            const playBtn = document.getElementById('timelinePlayBtn');
+            if (playBtn) {
+                playBtn.innerHTML = '&#x25B6;';
+                playBtn.classList.remove('playing');
             }
         }
 
-        // Mettre à jour le slider d'ères
+        // Mettre à jour slider + carte
         const timeline = document.getElementById('timeline');
-        if (timeline && parseInt(timeline.value) !== matchedIdx) {
-            timeline.value = matchedIdx;
+        if (timeline) {
+            timeline.value = yearToSliderInEra(currentDisplayYear, currentEraIdx);
             updateSliderTrack(timeline);
         }
+        syncMapToYear();
 
-        // Mettre à jour la carte pour cette ère
-        updateMapForEra(timelineData.eras[matchedIdx].id);
-        updateYearDisplay();
-        if (window.updateBorders) window.updateBorders();
+        if (isTimelinePlaying) {
+            timelineAnimFrame = requestAnimationFrame(playTick);
+        }
     }
 
     function updateYearDisplay() {
@@ -263,7 +382,7 @@ function initMap() {
         const suffixEl = document.getElementById('timelineYearSuffix');
         if (!yearEl) return;
 
-        const abs = Math.abs(currentDisplayYear);
+        const abs = Math.abs(Math.round(currentDisplayYear));
         yearEl.textContent = abs.toLocaleString('fr-FR');
         if (suffixEl) suffixEl.textContent = currentDisplayYear < 0 ? 'av.A' : 'ap.A';
     }
@@ -394,19 +513,23 @@ function initMap() {
 
     function initTimelineUI() {
         const maxIdx = timelineData.eras.length - 1;
+        const sliderMax = timelineData.eras.length * SLIDER_UNITS_PER_ERA;
         const timeline = document.getElementById('timeline');
         if (timeline) {
-            timeline.max = maxIdx;
-            timeline.value = maxIdx;
+            timeline.max = sliderMax;
+            timeline.value = sliderMax;
+            timeline.step = 1;
         }
-        // Initialiser l'année courante à la fin de la dernière ère
         currentDisplayYear = timelineData.eras[maxIdx].endYear || 10200;
+        currentEraIdx = maxIdx;
+        lastEraIdApplied = null;
         updateTimelineDisplay(maxIdx);
         buildTimelineMarkers();
         buildTimelineLabels();
         if (timeline) updateSliderTrack(timeline);
         updateYearDisplay();
         updateMapForEra(timelineData.eras[maxIdx].id);
+        lastEraIdApplied = timelineData.eras[maxIdx].id;
     }
 
     function updateSliderTrack(slider) {
@@ -468,11 +591,15 @@ function initMap() {
             marker.appendChild(tick);
 
             marker.addEventListener('click', function() {
+                const era = timelineData.eras[idx];
+                currentDisplayYear = era.startYear || 0;
+                currentEraIdx = idx;
                 const timeline = document.getElementById('timeline');
                 if (timeline) {
-                    timeline.value = idx;
-                    timeline.dispatchEvent(new Event('input'));
+                    timeline.value = idx * SLIDER_UNITS_PER_ERA;
+                    updateSliderTrack(timeline);
                 }
+                syncMapToYear();
             });
 
             markersContainer.appendChild(marker);
@@ -494,11 +621,15 @@ function initMap() {
             label.setAttribute('data-idx', idx);
 
             label.addEventListener('click', function() {
+                const era = timelineData.eras[idx];
+                currentDisplayYear = era.startYear || 0;
+                currentEraIdx = idx;
                 const timeline = document.getElementById('timeline');
                 if (timeline) {
-                    timeline.value = idx;
-                    timeline.dispatchEvent(new Event('input'));
+                    timeline.value = idx * SLIDER_UNITS_PER_ERA;
+                    updateSliderTrack(timeline);
                 }
+                syncMapToYear();
             });
 
             labelsRow.appendChild(label);
@@ -659,13 +790,6 @@ function initMap() {
             }
         });
     }
-
-    // Fonctions play/speed supprimées — remplacées par la navigation par année
-
-    /* legacy stubs pour éviter les erreurs si appelées */
-    function toggleTimelinePlay() {}
-
-    function playTimelineAnimation() { /* no-op */ }
 
     // Gestionnaires d'événements
     function initEventHandlers() {

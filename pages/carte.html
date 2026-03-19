@@ -120,29 +120,39 @@
         <!-- Labels d'ères au-dessus du slider -->
         <div id="timelineLabelsRow"></div>
 
-        <!-- Marqueurs visuels + slider d'ères -->
+        <!-- Slider continu (chaque ère = segment proportionnel) -->
         <div id="timelineSliderArea">
             <div id="timelineMarkers"></div>
-            <input type="range" id="timeline" min="0" max="10" value="10" step="1">
+            <input type="range" id="timeline" min="0" max="10000" value="10000" step="1">
         </div>
 
-        <!-- Navigation par année -->
-        <div id="timelineYearNav">
-            <div id="timelineYearBtns">
-                <button class="tl-year-btn" data-delta="-1000" title="-1 000 ans">&#x276E;&#x276E; 1000</button>
-                <button class="tl-year-btn" data-delta="-100" title="-100 ans">&#x276E; 100</button>
-                <button class="tl-year-btn" data-delta="-1" title="-1 an">&#x276E; 1</button>
+        <!-- Ligne basse : navigation + année + play -->
+        <div id="timelineBottomRow">
+            <div class="tl-nav-group">
+                <button class="tl-year-btn" data-delta="-1000" title="-1 000 ans">&#x276E;&#x276E;</button>
+                <button class="tl-year-btn" data-delta="-100" title="-100 ans">&#x276E;</button>
             </div>
+
             <div id="timelineYearDisplay">
                 <span id="timelineCurrentYear">10 200</span>
                 <span id="timelineYearSuffix">ap.A</span>
             </div>
-            <div id="timelineYearBtns">
-                <button class="tl-year-btn" data-delta="1" title="+1 an">1 &#x276F;</button>
-                <button class="tl-year-btn" data-delta="100" title="+100 ans">100 &#x276F;</button>
-                <button class="tl-year-btn" data-delta="1000" title="+1 000 ans">1000 &#x276F;&#x276F;</button>
+
+            <div class="tl-nav-group">
+                <button class="tl-year-btn" data-delta="100" title="+100 ans">&#x276F;</button>
+                <button class="tl-year-btn" data-delta="1000" title="+1 000 ans">&#x276F;&#x276F;</button>
+            </div>
+
+            <div id="timelinePlayGroup">
+                <button id="timelinePlayBtn" title="Lecture (Espace)">&#x25B6;</button>
+                <select id="timelineSpeed" title="Vitesse d'animation">
+                    <option value="50">×1</option>
+                    <option value="10" selected>×10</option>
+                    <option value="2">×100</option>
+                    <option value="0.5">×1k</option>
+                    <option value="0.1">×10k</option>
+                </select>
             </div>
         </div>
     </div>
-
 </div>
