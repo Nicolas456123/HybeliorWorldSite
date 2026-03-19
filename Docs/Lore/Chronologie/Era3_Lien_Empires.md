@@ -193,6 +193,9 @@ Septieme Haute-Voix de la Theocratie, gouvernant pendant 47 ans. Elle est la pre
 - La Theocratie "renovee" par les Tisserands est moins spirituelle, plus technocratique — et perd son aura de legitimite sacree. En 500 ans, elle s'effondre dans l'irrelevance politique.
 - Heritage : le systeme d'ecriture de Celith (adopte et adapte par toutes les nations suivantes), la tradition medicale, et la philosophie Ecoutes-Profondes (qui survit en courant souterrain jusqu'en Ere VII, ou elle alimentera les Taciti/Silencieux).
 
+*Relation avec le Vael'Kurash :*
+La Theocratie de Celith est l'ancetre direct du Vael'Kurash — les "Liants-d'Ame" qui venerent Spiritus et Arborius heritent de la theologie, de la tradition medicale et du reseau de pretres-guerisseurs de Celith. Cette filiation n'est pas une simple succession : le Vael'Kurash emerge precisement parmi les Ecoutes-Profondes exiles, qui refusaient la derive technocratique des Tisserands-de-Fil. La Theocratie renovee et le nascent Vael'Kurash ont ainsi coexiste pendant plusieurs siecles dans une rivalite theologique sourde — les Tisserands revendiquant la legitimite institutionnelle de Celith, les Liants revendiquant la fidelite a l'esprit originel d'Orvane. Quand la Theocratie s'effondre dans l'irrelevance, le Vael'Kurash recueille l'heritage spirituel intact, sans avoir a gerer l'heritage politique compromis.
+
 ---
 
 **3 — Confederation d'Alkarath (~16 000 → ~11 500 av.A)**
@@ -273,7 +276,7 @@ Septieme Haute-Voix de la Theocratie, gouvernant pendant 47 ans. Elle est la pre
 - Le Saint-Empire cree la **Bibliotheque d'Endara** (~8 500 av.A) — premier depot systematique du savoir ecrit. 40 000 rouleaux au moment de sa destruction. Aucun n'a surveci.
 
 *Cites principales :*
-- **Endara** (capitale imperiale) : population de 200 000 — la plus grande ville de l'histoire jusqu'a l'Ere VI. Planifiée selon une grille geometrique dictee par la logique du Lien (les portails sont places aux noeuds de la grille, les Cathedrales-du-Lien aux intersections majeures). Presque entierement detruite lors de la chute.
+- **Endara** (capitale imperiale) : population de 200 000 — l'une des plus grandes villes continentales de l'histoire, et la plus grande ville interieure jusqu'a l'Ere VI. Planifiée selon une grille geometrique dictee par la logique du Lien (les portails sont places aux noeuds de la grille, les Cathedrales-du-Lien aux intersections majeures). Presque entierement detruite lors de la chute. (Note : la cite portuaire de Navoria, capitale de la Thalassocratie de Navoris a l'Age d'Or, la depassera en atteignant ~400 000 habitants — mais Navoria n'existe pas encore au temps du Saint-Empire.)
 - **Varandar** (ville universitaire) : siege de l'Academie du Lien, la plus importante institution educative de l'histoire. C'est ici que Verithan naitra 4 000 ans plus tard (la ville change de mains plusieurs fois, mais l'Academie locale survivra jusqu'aux approches de l'Arrachement).
 - **Navalis** (port imperial) : plus grand port du monde durant 2 000 ans. Point de depart des expeditions qui cartographieront pour la premiere fois l'integralite des cotes d'Endora.
 
@@ -370,6 +373,16 @@ Une pratique emergeant naturellement : les empires qui ne veulent pas se faire l
 
 ---
 
+### Du Déclin des 7 Empires à la Reconsolidation (~1 500 → ~3 000 av.A)
+
+Les 7 Grands Empires ne forment pas une sequence fermee dont les membres disparaissent sans laisser de traces. Leur chute — echelonnee sur des millenaires — donne naissance a des fragments, des heritiers, et des reconsolidations. La periode ~1 500 → ~3 000 av.A est une ere de refusion : les republiques marchandes heritees de la Ligue d'Everthor, les royaumes continentaux issus des fragments du Khalifat et du Saint-Empire, et les nouvelles puissances navales nees de la prosperite maritime se regroupent sous six poles de pouvoir.
+
+La **Thalassocratie de Navoris** emerge de cette periode de refusion comme la puissance maritime dominante. Elle n'est pas fille directe d'un des 7 Grands Empires : elle descend des traditions nautiques des Gens de l'Eau, herites et amplifies par les cites-ports de la Ligue Marchande d'Everthor. Quand la Ligue se fragmente (~1 500 av.A), les ports d'Azoria et des cotes d'Onara s'unissent sous le gouvernement de Navoris — ville portuaire qui grossit pendant trois siecles jusqu'a devenir le plus grand port du monde connu. C'est donc une puissance *nouvelle*, sans ancetre empire, qui comble le vide laisse par l'effondrement maritime de la Ligue.
+
+Le passage des 7 empires sequentiels aux 6 empires simultanés n'est pas une rupture — c'est une sedimentation. Vers ~3 000 av.A, la carte politique d'Hybelior s'est stabilisee autour de six poles suffisamment equilibres pour coexister sans guerre d'extermination. Chacun descend d'un ou plusieurs des 7 anciens empires, ou (dans le cas de Navoris) d'une tradition parallele qui n'avait jamais abouti a un empire de premier rang pendant l'Age du Lien.
+
+---
+
 ### L'Age d'Or (~3 000 → ~1 000 av.A)
 
 La periode des 2 000 ans qui precede l'Arrachement est l'apogee de la civilisation du Lien. Six empires coexistent, en paix relative depuis deux siecles au moment des evenements du Cercle des Huit.
@@ -392,3 +405,21 @@ La periode des 2 000 ans qui precede l'Arrachement est l'apogee de la civilisati
 - 9 grandes academies du Lien
 - Mortalite infantile : 12% (record historique absolu — ne sera pas retrouve avant l'Ere VII)
 - Esperance de vie : 65 ans pour un non-Lie, 80-90 ans pour un Lie (le Lien ralentit legerement le vieillissement des Lies tres pratiquants)
+
+---
+
+#### Le devenir des 6 Empires apres l'Arrachement (An 0 et apres)
+
+L'Arrachement ne tue pas les empires instantanement — mais il les condamne tous, a des rythmes differents. Les structures politiques, economiques et culturelles construites sur le Lien se trouvent privees de leur pilier central. Ce qui suit decrit le sort de chacun dans les premieres generations post-An 0 :
+
+**Hegemonie d'Aethran (Galenor) :** Galenor, territoire des grandes plaines et heritage du Khalifat nomade, supporte mieux que d'autres la perte du Lien — les populations rurales et semi-nomades y etaient moins dependantes des portails et des grandes infrastructures liees. L'Hegemonie se fragmente neanmoins en royaumes tribaux independants dans les deux siecles suivants, ses institutions centrales (fondees sur les Cercles-du-Vent) n'ayant plus de raison d'etre sans les Lies pour les animer. Ces royaumes seront les ancetres des nations de Galenor en Ere V.
+
+**Dominat de Pyrion (Ilthara ouest) :** L'empire le plus militarise des six s'effondre en royaumes forestiers isoles dans la generation suivant l'Arrachement. Ses Lies de combat, deconnectes, perdent leur principal avantage sur les non-Lies. Sans la legitimite du Lien, le titre de Dominat n'a plus de sens. Les territoires d'Ilthara-ouest se morcelent en principautes locales — les futurs territoires de Nysaria et les marches forestieres qui porteront d'autres noms en Ere V.
+
+**Empire de Lithane (Alkaran) :** Beneficiant de la tradition juridique et institutionnelle heritee de la Confederation d'Alkarath, Lithane resiste plus longtemps que ses voisins. Le Code de Pierre et les structures civiles ne reposaient pas exclusivement sur le Lien. L'Empire se contracte sur lui-meme pendant trois siecles, perdant ses marches peripheriques, avant de se stabiliser sous une forme reduite centrée sur la cite de Lithanel — germe de ce qui deviendra Altram.
+
+**Sanctuaire d'Orivane (Celethor + iles) :** La tradition de Celethor, fondee sur la meditation et le contact avec la foret plutot que sur les grandes infrastructures liees, survit culturellement mieux que les empires plus technocratiques. Le Sanctuaire se dissout en communautes forestieres autonomes, gardant vivante une part des savoirs medicaux et oraux de la tradition d'Orvane. Ces communautes alimenteront les renaissances culturelles de l'Ere V dans les forets de l'ouest.
+
+**Thalassocratie de Navoris (Azoria + Onara + cotes) :** La chute la plus brutale et la plus spectaculaire. Navoria, capitale portuaire de 400 000 habitants dont les systemes d'inondation et d'infrastructure dependaient entierement du Lien, est engloutie en 40 minutes au cours des 7 heures de l'Arrachement. Les colonies cotieres d'Azoria et d'Onara survivent independamment, mais sans la metropole centrale, la Thalassocratie cesse d'exister comme entite politique des l'An 0. Les survivants maritimes — descendants des Gens de l'Eau — forment les noyaux de petites republiques insulaires qui traverseront la Grande Nuit isolees les unes des autres.
+
+**Union des Flammes (Cendara + Endora sud) :** Directement frappee par l'eruption du Mont Cendra (An 0), l'Union perd sa legitimite symbolique en meme temps que son centre geographique. Cendral, capitale reconstruite sur les terres volcaniques, est evacuee lors de l'eruption. Dans les siecles suivants, les forgerons non-Lies et les traditions artisanales non-liees permettent une survie technologique partielle — heritage des guildes fondees par les descendants de Drakhan l'Aine. L'Union se fragmente en cites-etats independantes, mais la culture de la forge et l'Ignis Aeternum perdurent comme ciment culturel jusqu'en Ere V.

@@ -104,6 +104,20 @@
 - Conséquence politique explosive : si les Liés deviennent plus rares, leur pouvoir collectif peut soit augmenter (rareté = valeur) soit diminuer (minorité insuffisante pour se défendre)
 - Les Catena Fracta citent cette statistique pour affirmer que "le Lien meurt naturellement — aidons-le"
 
+**La remutation du Lien sur 8 500 ans — mécanisme génétique (IS-09)**
+
+La question démographique ne peut être comprise sans considérer ce que les académiciens de Caeloria appellent la "remutation du Lien" : le processus par lequel le trait du Lien, devenu massivement récessif après le Fléau de l'Arrachement (An 0), s'est progressivement réactivé au fil des générations.
+
+Au moment de l'Arrachement, la quasi-totalité des Liés perdent leur connexion active — mais la structure génétique du Noeud ne disparaît pas, elle devient silencieuse. Ces "porteurs silencieux" ne manifestent aucun Lien, mais transmettent le trait à leur descendance. À mesure que les conditions magiques se stabilisaient (la Trame résiduelle se reconstituant lentement à partir des fragments épargnés par l'Arrachement), les unions entre porteurs silencieux ont commencé à produire des Liés actifs.
+
+Estimations intermédiaires des académiciens de Lumasar (~10 150 ap.A) :
+- **~500 ap. Fléau** : premiers Liés renaissants signalés — phénomène rare, localisé près des anciens nœuds d'ancrage (Mont Cendra, sommets d'Ilthara) ; populations les traitent de malédictions ou de miracles selon les régions
+- **~5 000 ap.A** : quelques milliers de Liés actifs dans le monde entier ; reconnaissables mais encore marginaux ; leur intégration dans les structures politiques naissantes de l'Ère V définit les premières tensions du clivage Liés/Déliés
+- **~7 000 ap.A** : environ 10% de la population manifeste un Lien actif ; la proportion est suffisante pour que les Liés constituent une classe sociale reconnaissable dans la plupart des nations
+- **~10 200 ap.A** : environ 30% de la population porte un Lien actif — chiffre qui semble aujourd'hui en légère diminution selon les relevés de Caeloria (voir débat démographique ci-dessus), possiblement parce que les conditions magiques stagnent voire régressent depuis l'Arrachement non guéri
+
+Ce mécanisme de remutation explique pourquoi les Liés sont inégalement répartis géographiquement : les populations qui se sont sédentarisées près des anciens sites d'ancrage ont des taux de Liés plus élevés que les populations nomades qui ont traversé les régions mortes pendant la Grande Nuit.
+
 ---
 
 ### Les Catena Fracta — Briseurs de Chaines
@@ -113,6 +127,11 @@
 - Revendiquent l'heritage spirituel de Verithan (Ere III) mais interpretent ses ecrits de facon radicale
 - Premiere mention documentee : ~9 750 ap.A, archives de la police de Kharazir — "un groupe de fauteurs de troubles se reclamant des Verithani"
 
+**Note sur Thyara et les branches du Verithanisme (L-06)**
+- Thyara, compagne de Verithan durant ses années fondatrices à Lumasar, est vénérée comme sainte dans certaines branches du Verithanisme — bien que les détails de sa vie restent remarquablement absents des textes canoniques, comme si son effacement avait été délibéré.
+- Les branches modérées des Verithani (celles qui n'ont pas basculé vers les Catena Fracta) maintiennent un culte discret de Thyara comme "voix qui n'a pas été entendue" — figure symbolique de la sagesse ignorée
+- Son absence des archives officielles est notée par les érudits de Lumasar : le *Traité du Vide* de Verithan ne la mentionne pas par son nom, bien que plusieurs passages rédigés à la première personne du pluriel suggèrent une réflexion à deux
+
 **Ideologie**
 - Le Lien cosmique est une domination : les Eternels et Cosmiques ont cree les mortels comme canaux, pas comme individus libres
 - L'Arrachement n'etait pas une catastrophe — c'etait une liberation partielle ; l'Etudiant avait raison, il n'est pas alle assez loin
@@ -120,7 +139,14 @@
 - La vraie liberte = couper totalement le Lien dans le monde entier, Lies compris, volontairement ou de force
 - La position sur les Lies varie selon les factions : certains veulent les convertir, d'autres les eliminer
 
+**Origine et fondation (L-07)**
+- Fondée vers la fin de l'Ère VI (~6 000 ap.A), dans les décennies suivant les premiers grands conflits Liés/Déliés, par des Verithani radicaux ayant conclu que la voie philosophique ne suffirait pas
+- Organisation secrète dès sa création, vouée à la reconstitution — puis à la destruction définitive — du Lien originel ; les fondateurs se divisèrent rapidement sur l'objectif : "reconstituer pour mieux briser" versus "briser sans reconstituer"
+- La première mention documentée (~9 750, archives de Kharazir) est probablement le premier cas d'infiltration superficielle — l'organisation aurait existé sous des noms différents pendant des siècles avant d'adopter le nom "Catena Fracta"
+- Les membres les plus puissants sont recrutés parmi les Liés les plus capables (paradoxe fondateur : des Liés qui veulent détruire le Lien) et les érudits obsédés par l'histoire de l'Arrachement
+
 **Structure organisationnelle**
+- Hiérarchie cellulaire stricte : pas de chef unique connu ou revendiqué — décision délibérée pour empêcher toute décapitation de l'organisation
 - **Fracta de base** : cellules de 5 a 9 membres autonomes ; les cellules ne se connaissent pas entre elles
 - **Les Noeuds** : coordonnent plusieurs Fracta dans une region — communication par codes changeants (5 a 12 personnes)
 - **Le Conseil des Fils** : structure superieure, composition inconnue ; semble etre compose de 7 membres, dont certains infiltres dans des positions gouvernementales
@@ -218,6 +244,10 @@
 - Animaux : les troupeaux fuient la zone depuis ~10 050 ; les oiseaux migrateurs alterent leurs routes
 - A chaque pulsation, les cendres du sol forment brievement des spirales symetriques (temoignages de pelerins d'Arkhen)
 
+**Origine géologique et lien à l'Ère I (IM-13)**
+
+Le Mont Cendra n'est pas seulement le site de l'Arrachement — il est l'un des plus anciens ancrages du monde. Les théologiens d'Arkhen et les géologues de Lumasar s'accordent sur un fait : le Cœur de Cendra est directement lié au **Mont Jumeau**, l'une des deux montagnes sacrées de l'Ère I. Le Mont Jumeau, autrefois pic volcanique jumeau du Mont Cendra à l'aube du monde, fut absorbé sous les glaces de Cestra par l'Éternel Glacien lors de la Grande Glaciation de l'Ère I — un événement qui scella dans la glace une quantité considérable d'énergie tellurique primordiale. Ce que Cendra pulse aujourd'hui pourrait être l'écho de cette énergie ancienne, longtemps comprimée sous Cestra, qui cherche à remonter par son point d'ancrage survivant. La connexion entre le Cœur de Cendra et le Mont Jumeau englacé reste une hypothèse académique, mais elle expliquerait pourquoi les anomalies de Cestra et les pulsations de Cendra semblent s'intensifier simultanément depuis ~9 900 ap.A.
+
 **Reactions des nations**
 - **Arkhen** : declare la zone "site de pelerinage sacre" ; controle l'acces, peur qu'une autre nation s'en empare
 - **Pyrevane** : rivalise avec Arkhen — Arkhen dit "Flamara revient", Pyrevane dit "Eldoria se reveille"
@@ -270,6 +300,14 @@
 - Contre-argument de Lumasar : pourrait venir d'une civilisation survivante isolee, pas d'un Eternel
 - Position officielle de Mirathi : classifie "phenomene inexplique d'interet national" ; acces restreint depuis ~10 100 suite a des tentatives de vol
 
+**Note de lore — l'entité qui a aidé Navigor (DAR-07)**
+
+Certains théologiens de Vytharia, en creusant les fragments du Message de Mirathi, posent une question qui n'avait jamais été formulée : si "le guide revient par les marges", qui l'a guidé, lui, pendant les 10 200 ans de son absence ? Navigor avait-il une aide extérieure pour survivre à l'Arrachement — ou pour maintenir quelque chose en son absence ? Les fragments du Message ne répondent pas. Cette question — l'identité d'une éventuelle entité qui aurait assisté ou accompagné Navigor au-delà de la Trame brisée — est un **mystère intentionnellement non résolu** dans l'histoire du monde. Aucune source canonique ne nomme ou ne décrit cette entité. Son existence même est incertaine. C'est une question ouverte du lore, délibérément laissée sans réponse pour le moment.
+
+**Note de lore — le Sixième Éternel (DAR-08)**
+
+Dans les archives fragmentées de Navoria (récupérées par Mosrack) et dans un seul texte de l'Ordo Caelum de Seraphia daté de l'Ère III tardive, apparaît une référence isolée à "un sixième Éternel" dont le nom n'est pas transcrit — la ligne de texte est lacunaire dans tous les exemplaires connus. Les cinq Éternels canoniques sont identifiés (Flamara, Eldoria, Arborius, Glacien, et un cinquième dont l'identité est débattue). La mention d'un "sixième" est une **référence intentionnelle non développée** — un fil laissé dans le tissu du lore, sans suite explicite pour l'instant. Elle n'est pas une erreur de copiste : les académiciens de Lumasar ont vérifié l'occurrence dans trois sources indépendantes. Ce que serait ce sixième Éternel, s'il existe ou a existé, reste délibérément hors du canon accessible.
+
 ---
 
 #### Faille de Gryndor
@@ -294,6 +332,23 @@
 - *Academie de Lumasar* : la Faille etait soit provoquee, soit une manifestation extreme des blessures de Tempora qui s'aggravent
 - *Catena Fracta* : revendiquent en interne d'avoir "ouvert un passage vers la liberation"
 - *Theorie "connexion"* : le Message de Mirathi a ete recu 78 ans avant ; les Esprits d'Evertia ont dit "ils arrivent par le dessous" — les trois mysteres sont lies
+
+---
+
+#### Le Fragment Zéro — Archives d'Altram
+
+**Localisation et statut**
+- Le Fragment Zéro demeure aux archives d'Altram, où il est l'objet d'un culte discret parmi les archivistes. Certains membres de la Catena Fracta affirment que le parchemin "pulse" faiblement lors des nuits sans lune — affirmation invérifiable mais persistante.
+- Le Fragment Zéro est le seul artefact documenté à avoir précédé l'Ère du Lien tout en contenant des traces actives du Lien résiduel ; les archivistes d'Altram le gardent sous scellement de pierre (technique Lex Petra) dans une chambre sans fenêtres
+
+**Culte des archivistes**
+- Quatre à sept archivistes d'Altram forment un cercle informel de "gardiens du Fragment" — ni religion reconnue, ni organisation officielle ; ils refusent de nommer leurs pratiques
+- L'administration d'Altram tolère ce culte discret à condition qu'il ne perturbe pas les opérations des mines et des forges ; le Fragment n'est pas exposé au public
+- Les Catena Fracta locales le considèrent comme une "blessure ancienne encore ouverte" — preuve que l'Arrachement n'a pas guéri, mais a simplement comprimé quelque chose
+
+**Lien aux mystères actifs**
+- Des chercheurs de Caeloria (~10 080) ont tenté d'étudier le Fragment dans le cadre de l'enquête sur le Cœur de Cendra ; Altram a refusé l'accès, invoquant "la sécurité des archives nationales"
+- La coïncidence temporelle entre les pulsations croissantes du Mont Cendra et les témoignages des archivistes sur les "pulsations nocturnes" du Fragment n'est pas officielle mais circule dans les milieux académiques de Lumasar
 
 ---
 
@@ -585,6 +640,12 @@ La Grande-Duché navigue entre ses ambitions historiques et ses contraintes actu
 ### Cestra — Le Continent des Anomalies
 
 Cestra est le 13e continent, le moins connu, officiellement colonisé par Noravia depuis ~8 100 ap.A. Mais "colonisé" est un terme optimiste : Noravia est une ville-forteresse côtière de 25 000 habitants entourée de 200 km de territoire cartographié. Au-delà : l'inconnu.
+
+**Structure politique de Cestra (IM-12)**
+- Cestra, la plus ancienne entité politique continue du monde, fonctionne comme une théocratie glaciaire — gouvernée par un Conseil des Givres composé de sept archontes élus à vie parmi les familles fondatrices. Son isolement géographique derrière les glaces permanentes en fait à la fois la nation la plus stable et la plus énigmatique.
+- Les sept archontes ne sont jamais tous vus simultanément par des étrangers ; les rares diplomates admis à Noravia traitent avec un ou deux représentants à la fois — une protection délibérée contre toute décapitation de la direction
+- Les "familles fondatrices" de Noravia (~8 100 ap.A) sont une poignée de familles d'explorateurs Caelori et Altram qui se sont sédentarisées ; leurs descendants forment aujourd'hui une aristocratie de fait, la seule éligible au Conseil des Givres
+- L'expression "théocratie glaciaire" vient du fait que les décisions du Conseil sont présentées comme des "révélations de Glacien" (l'Éther des glaces permanentes de Cestra), même si la nature exacte de cette dévotion reste inconnue des étrangers
 
 **Ce qu'on sait de Cestra**
 - Les forêts intérieures semblent fonctionner selon des règles différentes : les boussoles s'affolent à plus de 50 km des côtes, les animaux connus de l'Ère VI n'y vivent pas (ou ont des formes différentes), et les Liés signalent des "résonances" du Lien que les instruments de Lumasar ne peuvent pas catégoriser

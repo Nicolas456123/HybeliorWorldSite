@@ -11,7 +11,7 @@
 - Forets du Berceau de Brume meurent a 70%
 - Seuls epargnes : Marcheurs de Cendre (feu volcanique protege)
 
-**Bilan : ~80% de la population mortelle disparait**
+**Bilan : ~73% de la population mortelle disparait**
 - Enfants de la Roche : survivent dans cavernes profondes, reduits a quelques centaines
 - Coureurs : refugies au sud de Galenor, groupes minuscules
 - Voix-sous-Bois : perdent quasi-totalite de leur tradition orale — millenaires de memoire effaces
@@ -104,6 +104,8 @@ La fonte des glaces n'est pas une liberation immediate. Les premiers siecles du 
 Les survivants des cinq Berceaux emergent de leurs refuges en ne se reconnaissant plus. Cinq mille ans d'isolement et de survie extreme ont profondement modifie chaque groupe. Les "purs" Berceaux n'existent plus — ce qui emerge sont des peuples meurtris portant les traumatismes du Gel et les adaptations forcees qu'il a imposees.
 
 **Bilan demographique approximatif au debut de la Reconstruction :**
+
+Les cinq peuples-berceaux, après des millénaires d'expansion sur leurs territoires respectifs, totalisent environ 45 000 individus à l'aube du Grand Gel — les Marcheurs de Cendre formant le groupe le plus nombreux (~12 000), suivis des Voix-sous-Bois (~10 000), des Gens de l'Eau (~9 000), des Enfants de la Roche (~8 000) et des Coureurs (~6 000).
 
 | Peuple | Population pre-Gel (estimation) | Survivants au debut de la Reconstruction |
 |--------|--------------------------------|------------------------------------------|
@@ -232,7 +234,7 @@ Vers ~20 000 av.A, quand la Reconstruction se termine et que l'Age du Lien comme
 
 C'est dans ce contexte que trois individus — Orvane, Khatun, Ildaran — vont, a quelques decennies d'intervalle, decouvrir le Lien.
 
-Le Lien ne tombe pas dans un monde vierge. Il tombe dans un monde qui a deja appris, au prix de 80% de sa population, ce que ca fait de perdre quelque chose d'essentiel.
+Le Lien ne tombe pas dans un monde vierge. Il tombe dans un monde qui a deja appris, au prix de 73% de sa population, ce que ca fait de perdre quelque chose d'essentiel.
 
 Les mortels qui decouvrent le Lien sont les enfants et petits-enfants du Grand Gel. La memoire du Silence, du Temps-sans-Ciel, de l'Exil du Vent est encore vivante dans les corps et les cultures. Quand ils touchent pour la premiere fois cette immense resonance — cette presence qui repond — ils ne pensent pas : "voila un outil". Ils pensent : "voila quelque chose qu'on ne nous enlevera plus jamais."
 
@@ -253,8 +255,8 @@ Cette certitude sera le germe de toute la dependance qui rendra l'Arrachement po
 | ~29 800 av.A | Asha-qui-Recoit accueille les premiers refugies d'autres peuples (Marcheurs de Cendre) |
 | ~29 500 av.A | Morra la Profonde grave ses memoires dans les galeries les plus basses d'Alkaran |
 | ~29 200 av.A | Elara la Derniere Voix transmet ses 43 recits a six enfants (Voix-sous-Bois) |
-| ~29 100 av.A | Pelari-les-Yeux-Clairs guide la dispersion des Gens de l'Eau vers les iles equatoriales |
-| ~29 000 → ~25 500 av.A | Apogee du Grand Gel — disparition de 80% de la population mortelle |
+| ~30 100 av.A | Pelari-les-Yeux-Clairs guide la dispersion des Gens de l'Eau vers les iles equatoriales |
+| ~29 000 → ~25 500 av.A | Apogee du Grand Gel — disparition de 73% de la population mortelle |
 | ~25 000 av.A | Debut du rechauffement — debut de la Reconstruction |
 | ~25 000 → ~24 500 av.A | Ponts de glace fondants — passages vers Cestra et Ilthara |
 | ~24 900 av.A | Querelle du Bucher (Marcheurs / Enfants de la Roche) |

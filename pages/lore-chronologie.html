@@ -1,0 +1,439 @@
+<!-- ===== Chronologie — Sous-onglet Lore ===== -->
+<div class="chrono-page">
+
+  <div class="chrono-era-nav" role="tablist" aria-label="Ères chronologiques">
+
+    <button class="chrono-era-btn active" role="tab" aria-selected="true"
+            data-era="0" data-files='["Era0_Le_Vide.md"]'>
+      <span class="era-num">Ère 0</span>
+      <span class="era-name">Genèse</span>
+      <span class="era-period">Avant le temps</span>
+    </button>
+
+    <button class="chrono-era-btn" role="tab" aria-selected="false"
+            data-era="1" data-files='["Era1_Cosmiques.md","Era1_Etheres_Panghor.md"]'>
+      <span class="era-num">Ère I</span>
+      <span class="era-name">Cosmiques</span>
+      <span class="era-period">Âge primordial</span>
+    </button>
+
+    <button class="chrono-era-btn" role="tab" aria-selected="false"
+            data-era="2" data-files='["Era2_Berceaux.md","Era2_Gel_Reconstruction.md"]'>
+      <span class="era-num">Ère II</span>
+      <span class="era-name">Éveil</span>
+      <span class="era-period">Âge des berceaux</span>
+    </button>
+
+    <button class="chrono-era-btn" role="tab" aria-selected="false"
+            data-era="3" data-files='["Era3_Lien_Empires.md","Era3_Religions_Chute.md"]'>
+      <span class="era-num">Ère III</span>
+      <span class="era-name">Lien</span>
+      <span class="era-period">Âge des empires</span>
+    </button>
+
+    <button class="chrono-era-btn" role="tab" aria-selected="false"
+            data-era="4" data-files='["Era4_Arrachement.md"]'>
+      <span class="era-num">Ère IV</span>
+      <span class="era-name">Arrachement</span>
+      <span class="era-period">La rupture cosmique</span>
+    </button>
+
+    <button class="chrono-era-btn" role="tab" aria-selected="false"
+            data-era="5" data-files='["Era5_Grande_Nuit.md"]'>
+      <span class="era-num">Ère V</span>
+      <span class="era-name">Grande Nuit</span>
+      <span class="era-period">Âge des ténèbres</span>
+    </button>
+
+    <button class="chrono-era-btn" role="tab" aria-selected="false"
+            data-era="6" data-files='["Era6_Guerres_Nations.md"]'>
+      <span class="era-num">Ère VI</span>
+      <span class="era-name">Nations</span>
+      <span class="era-period">Âge des guerres</span>
+    </button>
+
+    <button class="chrono-era-btn" role="tab" aria-selected="false"
+            data-era="7" data-files='["Era7_Monde_Actuel.md"]'>
+      <span class="era-num">Ère VII</span>
+      <span class="era-name">Actuelle</span>
+      <span class="era-period">Le monde aujourd'hui</span>
+    </button>
+
+  </div><!-- /.chrono-era-nav -->
+
+  <div class="chrono-content lore-md-content" id="chrono-content" role="tabpanel">
+    <div class="chrono-loading" id="chrono-loading">
+      <div class="chrono-loading-inner">
+        <div class="chrono-spinner"></div>
+        <span>Chargement des chroniques…</span>
+      </div>
+    </div>
+  </div>
+
+</div><!-- /.chrono-page -->
+
+<style>
+/* ===== Chronologie page ===== */
+
+.chrono-page {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+}
+
+/* --- Navigation des ères --- */
+
+.chrono-era-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  padding: 20px 0 24px;
+  border-bottom: 1px solid rgba(120, 78, 18, 0.22);
+  margin-bottom: 32px;
+}
+
+.chrono-era-btn {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2px;
+  padding: 10px 16px;
+  background: rgba(232, 220, 196, 0.55);
+  border: 1px solid rgba(120, 78, 18, 0.28);
+  border-radius: var(--radius);
+  cursor: pointer;
+  transition: background 0.18s, border-color 0.18s, transform 0.14s, box-shadow 0.18s;
+  font-family: 'Raleway', sans-serif;
+  color: var(--text);
+  min-width: 100px;
+  position: relative;
+  text-align: center;
+}
+
+.chrono-era-btn::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  border-radius: var(--radius);
+  background: linear-gradient(135deg, rgba(255,255,255,0.18) 0%, transparent 60%);
+  pointer-events: none;
+}
+
+.chrono-era-btn:hover {
+  background: rgba(210, 185, 148, 0.75);
+  border-color: rgba(120, 78, 18, 0.50);
+  box-shadow: 0 3px 10px rgba(100, 65, 10, 0.18);
+  transform: translateY(-1px);
+}
+
+.chrono-era-btn.active {
+  background: rgba(120, 78, 18, 0.14);
+  border-color: var(--gold);
+  box-shadow: 0 0 0 1px var(--gold-dim), 0 4px 14px rgba(120, 78, 18, 0.22);
+}
+
+.chrono-era-btn.active .era-num {
+  color: var(--gold);
+}
+
+.era-num {
+  font-family: 'Cinzel', serif;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 1.5px;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  transition: color 0.18s;
+}
+
+.era-name {
+  font-family: 'Cinzel', serif;
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--text);
+  letter-spacing: 0.5px;
+  line-height: 1.2;
+}
+
+.era-period {
+  font-size: 10px;
+  color: var(--text-muted);
+  font-style: italic;
+  letter-spacing: 0.3px;
+  line-height: 1.2;
+}
+
+/* --- Zone de contenu --- */
+
+.chrono-content {
+  min-height: 300px;
+  position: relative;
+}
+
+/* --- Chargement --- */
+
+.chrono-loading {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 64px 0;
+  color: var(--text-muted);
+  font-size: 14px;
+  font-style: italic;
+  letter-spacing: 0.5px;
+}
+
+.chrono-loading-inner {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 16px;
+}
+
+.chrono-spinner {
+  width: 36px;
+  height: 36px;
+  border: 3px solid rgba(120, 78, 18, 0.15);
+  border-top-color: var(--gold);
+  border-radius: 50%;
+  animation: chrono-spin 0.9s linear infinite;
+}
+
+@keyframes chrono-spin {
+  to { transform: rotate(360deg); }
+}
+
+/* --- Séparateur entre deux fichiers de la même ère --- */
+
+.chrono-file-separator {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  margin: 40px 0 36px;
+  color: var(--gold);
+}
+
+.chrono-file-separator::before,
+.chrono-file-separator::after {
+  content: '';
+  flex: 1;
+  height: 1px;
+  background: linear-gradient(to right, transparent, var(--gold), transparent);
+}
+
+.chrono-file-separator::before {
+  background: linear-gradient(to right, transparent, var(--gold));
+}
+
+.chrono-file-separator::after {
+  background: linear-gradient(to left, transparent, var(--gold));
+}
+
+.chrono-sep-label {
+  font-family: 'Cinzel', serif;
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  white-space: nowrap;
+  color: var(--gold);
+  padding: 4px 12px;
+  border: 1px solid rgba(120, 78, 18, 0.30);
+  border-radius: 20px;
+  background: rgba(232, 220, 196, 0.60);
+}
+
+/* --- Erreur --- */
+
+.chrono-error {
+  padding: 28px 20px;
+  background: rgba(139, 32, 32, 0.06);
+  border: 1px solid rgba(139, 32, 32, 0.25);
+  border-radius: var(--radius);
+  color: #8b2020;
+  font-size: 14px;
+}
+
+/* --- Responsive --- */
+
+@media (max-width: 768px) {
+  .chrono-era-nav {
+    gap: 6px;
+    padding: 14px 0 18px;
+  }
+  .chrono-era-btn {
+    min-width: calc(50% - 3px);
+    flex: 1 1 calc(50% - 3px);
+    padding: 8px 10px;
+  }
+  .era-name { font-size: 12px; }
+  .era-period { display: none; }
+}
+
+@media (max-width: 480px) {
+  .chrono-era-btn {
+    min-width: calc(50% - 3px);
+  }
+}
+</style>
+
+<script>
+(function () {
+  'use strict';
+
+  var BASE_URL = '/lore/Chronologie/';
+
+  /* Noms lisibles pour le séparateur inter-fichier */
+  var FILE_LABELS = {
+    'Era0_Le_Vide.md':            'Le Vide',
+    'Era1_Cosmiques.md':          'Les Cosmiques',
+    'Era1_Etheres_Panghor.md':    'Éthérés & Panghor',
+    'Era2_Berceaux.md':           'Les Berceaux',
+    'Era2_Gel_Reconstruction.md': 'Gel & Reconstruction',
+    'Era3_Lien_Empires.md':       'Le Lien & les Empires',
+    'Era3_Religions_Chute.md':    'Religions & Chute',
+    'Era4_Arrachement.md':        'L\'Arrachement',
+    'Era5_Grande_Nuit.md':        'La Grande Nuit',
+    'Era6_Guerres_Nations.md':    'Guerres des Nations',
+    'Era7_Monde_Actuel.md':       'Le Monde Actuel',
+  };
+
+  /* Cache : era index (string) → rendered HTML string */
+  var cache = {};
+
+  /* DOM refs */
+  var contentEl  = document.getElementById('chrono-content');
+  var loadingEl  = document.getElementById('chrono-loading');
+  var btns       = document.querySelectorAll('.chrono-era-btn');
+
+  /* ---- Utilitaires ---- */
+
+  function cleanWikiLinks(text) {
+    return text.replace(/\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/g, function (_, file, display) {
+      return display || file;
+    });
+  }
+
+  function fetchFile(filename) {
+    return fetch(BASE_URL + filename)
+      .then(function (res) {
+        if (!res.ok) throw new Error('HTTP ' + res.status + ' — ' + filename);
+        return res.text();
+      });
+  }
+
+  function renderMarkdown(text) {
+    var clean = cleanWikiLinks(text);
+    return marked.parse(clean, { breaks: true });
+  }
+
+  function buildSeparator(filename) {
+    var label = FILE_LABELS[filename] || filename.replace('.md', '');
+    var sep = document.createElement('div');
+    sep.className = 'chrono-file-separator';
+    var span = document.createElement('span');
+    span.className = 'chrono-sep-label';
+    span.textContent = label;
+    sep.appendChild(span);
+    return sep;
+  }
+
+  function showLoading() {
+    /* Clear content except loading indicator */
+    while (contentEl.firstChild) contentEl.removeChild(contentEl.firstChild);
+    contentEl.appendChild(loadingEl);
+    loadingEl.style.display = 'flex';
+  }
+
+  function showError(msg) {
+    loadingEl.style.display = 'none';
+    var div = document.createElement('div');
+    div.className = 'chrono-error';
+    div.textContent = 'Erreur de chargement : ' + msg;
+    contentEl.appendChild(div);
+  }
+
+  function injectHtml(htmlString) {
+    /* Create a wrapper fragment */
+    var wrapper = document.createElement('div');
+    wrapper.innerHTML = htmlString;
+
+    /* Clear content */
+    while (contentEl.firstChild) contentEl.removeChild(contentEl.firstChild);
+
+    /* Move children into contentEl */
+    while (wrapper.firstChild) contentEl.appendChild(wrapper.firstChild);
+  }
+
+  /* ---- Chargement d'une ère ---- */
+
+  function loadEra(btn) {
+    var eraKey  = btn.getAttribute('data-era');
+    var files   = JSON.parse(btn.getAttribute('data-files'));
+
+    /* Mise à jour boutons actifs */
+    btns.forEach(function (b) {
+      b.classList.remove('active');
+      b.setAttribute('aria-selected', 'false');
+    });
+    btn.classList.add('active');
+    btn.setAttribute('aria-selected', 'true');
+
+    /* Cache hit */
+    if (cache[eraKey]) {
+      injectHtml(cache[eraKey]);
+      contentEl.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      return;
+    }
+
+    showLoading();
+
+    /* Fetch tous les fichiers en parallèle */
+    var promises = files.map(fetchFile);
+
+    Promise.all(promises)
+      .then(function (texts) {
+        /* Construire le HTML combiné */
+        var fragment = document.createDocumentFragment();
+
+        texts.forEach(function (text, i) {
+          if (i > 0) {
+            /* Séparateur avant le 2e fichier et suivants */
+            fragment.appendChild(buildSeparator(files[i]));
+          }
+          var block = document.createElement('div');
+          block.innerHTML = renderMarkdown(text);
+          fragment.appendChild(block);
+        });
+
+        /* Sérialiser le fragment en HTML pour le cache */
+        var tmp = document.createElement('div');
+        tmp.appendChild(fragment.cloneNode(true));
+        cache[eraKey] = tmp.innerHTML;
+
+        /* Vider le contenu, injecter */
+        while (contentEl.firstChild) contentEl.removeChild(contentEl.firstChild);
+        contentEl.appendChild(fragment);
+
+        /* Scroll doux vers le haut du contenu */
+        contentEl.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      })
+      .catch(function (err) {
+        showError(err.message);
+      });
+  }
+
+  /* ---- Attacher les écouteurs ---- */
+
+  btns.forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      loadEra(btn);
+    });
+  });
+
+  /* ---- Chargement initial — Ère 0 ---- */
+  var firstBtn = document.querySelector('.chrono-era-btn[data-era="0"]');
+  if (firstBtn) loadEra(firstBtn);
+
+})();
+</script>

@@ -49,6 +49,8 @@ Noctis est plus difficile a saisir. Il n'est pas ne dans l'ombre de Celestia —
 
 Les deux premiers Eternels ne se "voient" pas au sens propre. Mais chacun *sait* que l'autre existe, parce que l'existence de l'un definit l'autre. Celestia sait qu'elle est lumiere parce qu'il existe quelque chose qui n'est pas elle. Noctis sait qu'il est ombre parce qu'il existe quelque chose qu'il ne peut pas etre.
 
+Lors de cette separation primordiale, une cicatrice imperceptible se forma dans la trame du Vide — une faille que les erudits des eres futures nommeront la Faille d'Ordavan, sans jamais comprendre son origine ni sa nature exacte.
+
 **Second moment : Le temps (Tempora)**
 
 A ce stade, Celestia et Noctis existent — mais leur existence est un *etat*, pas une *histoire*. Ils n'ont pas de passe. Ils n'ont pas de futur. Ils *sont*, sans changement possible.
@@ -249,7 +251,7 @@ Chaque Eternel a une relation differente avec le Vide dont il est issu :
 La tradition majoritaire (texte de Lumasar, Ere III) affirme que Celestia nait *avant* Noctis — la lumiere avant l'ombre. Mais les traditions Noctites de l'actuel Endora (Ere V-VII) affirment l'inverse : l'ombre est premiere, parce que "pour qu'une lumiere soit lumiere, il faut que quelque chose refuse d'etre illumine, et ce refus est logiquement premier." La verite — qu'ils naissent *simultanement*, comme les deux faces d'une feuille — n'est ni Celestienne ni Noctite, et donc acceptee par tres peu de croyants.
 
 **Le nombre d'Eternels :**
-La plupart des traditions reconnaissent 5 Eternels. Mais des textes tres anciens (anterieurs a l'Ere III, probablement de l'Ere II tardive) mentionnent un "Sixieme Eternel" — une entite dont le nom varie selon les sources (*Vacuus*, *l'Innomme*, *le Residu*) et dont la nature est decrite comme "ce qui reste du Vide apres que les Cinq en sont sortis". La theologie Celestienne officielle nie cette entite. Les theologiens independants de l'Ere VII y voient peut-etre la meilleure description du Substrat — ni un Eternel a proprement parler, mais quelque chose qui persiste et qui *attend*.
+La plupart des traditions reconnaissent 5 Eternels. Mais des textes tres anciens (anterieurs a l'Ere III, probablement de l'Ere II tardive) mentionnent un "Sixieme Eternel" — une entite dont le nom varie selon les sources (*Vacuus*, *l'Innomme*, *le Residu*) et dont la nature est decrite comme "ce qui reste du Vide apres que les Cinq en sont sortis". La theologie Celestienne officielle nie cette entite. Les theologiens independants de l'Ere VII y voient peut-etre la meilleure description du Substrat — ni un Eternel a proprement parler, mais quelque chose qui persiste et qui *attend*. (Note editoriale : reference intentionnelle — les textes fragmentaires de Navoria et de l'Ordo Caelum perpetuent cette croyance sans qu'aucune preuve cosmologique ne la soutienne.)
 
 **L'ordre de naissance de Tempora :**
 La tradition etablie dit que Tempora est le troisieme Eternel. Mais si Tempora *cree* le temps, comment peut-il etre "troisième" — ce concept implique un ordre temporel qui n'existait pas avant lui ? Les philosophes de Nysaria (Ere VI) ont propose une solution : Tempora ne nait pas *troisième dans le temps*, mais *troisième dans la logique*. Il est le troisieme concept necessaire, pas le troisieme evenement dans une sequence. Cette distinction, subtile mais fondamentale, explique pourquoi les descriptions de la naissance de Tempora sont si paradoxales dans tous les textes.

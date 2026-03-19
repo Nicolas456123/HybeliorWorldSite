@@ -8,26 +8,26 @@
 
 L'Etudiant choisit le Mont Cendra pour des raisons precises, non symboliques : c'est le Premier Ancrage, le point ou la Trame du Lien est la plus dense, la plus concentree en un seul endroit physique. Couper le Lien ici, c'est couper a la racine — et non aux ramifications.
 
-Le Cercle des Huit se forme progressivement. Chaque disciple est recrute pour un role specifique :
-- **Serna Veld** (Cendara, Liee-du-Feu) — ancrage de la vibration initiale, canalisation de Flamara contre lui-meme
-- **Orath Koss** (Alkaran, Lie-de-Pierre) — stabilisation du sol pendant l'eruption prevue
-- **Ysala Thorne** (Galenor, Liee-du-Vent) — dispersion de la vibration sur les courants d'air a grande echelle
-- **Merith l'Aveugle** (Ilthara, Lie-du-Reve) — projection dans le reseau de Somnix pour mesurer la propagation
-- **Casta Drel** (Celethor, Liee-des-Forets) — maintien de l'ancrage vegetal pendant le choc
-- **Boran Shult** (Evertia, Lie-du-Commerce) — tenu dans l'ignorance du but final, croit participer a un rituel de "mesure" du Lien
-- **Pelara Ash** (Endora, Liee-de-Feu secondaire) — renfort de Serna, sacrifiee la premiere
-- **L'Etudiant lui-meme** — point central, porteur du Noeud sectionne
+Le Cercle des Huit se forme progressivement. Chaque membre a lu le *Traite du Vide* et participe en connaissance de cause. Chacun est recrute pour un role specifique :
+- **Sera (de Celethor)** (Cendara, Liee-du-Feu) — ancrage de la vibration initiale, canalisation de Flamara contre lui-meme
+- **Drakhan (l'Aine)** (Alkaran, Lie-de-Pierre) — stabilisation du sol pendant l'eruption prevue
+- **Mirathis** (Galenor, Liee-du-Vent) — dispersion de la vibration sur les courants d'air a grande echelle
+- **Vorath (le Tacite)** (Ilthara, Lie-du-Reve) — projection dans le reseau de Somnix pour mesurer la propagation
+- **Aelindra (de Pyrion)** (Celethor, Liee-des-Forets) — maintien de l'ancrage vegetal pendant le choc
+- **Thessan (l'Erudit)** (Evertia, Lie-du-Commerce) — analyse et documentation des effets du rituel en temps reel
+- **Kayara-du-Large** (Endora, Liee-de-Feu secondaire) — renfort de Sera, sacrifiee la premiere
+- **L'Etudiant lui-meme** — point central, porteur du Noeud sectionne, huitieme membre
 
 **La nuit precedant le rituel** : L'Etudiant ne dort pas. Il redige une seule ligne sur un parchemin : *"Je n'efface pas le Lien. Je montre qu'il peut l'etre — ce qui revient au meme."* Ce parchemin survit. Il est conserve dans les archives de l'Academie d'Altram sous le nom de **Fragment Zero**.
 
-**L'aube du rituel** : Le Cercle monte au sommet du Mont Cendra avant l'aurore. La temperature au sommet est de -18C. Le volcan est calme depuis 400 ans. L'Etudiant place ses mains a plat sur la roche nue. Serna Veld affirme avoir senti le sol *respirer* au moment du contact.
+**L'aube du rituel** : Le Cercle monte au sommet du Mont Cendra avant l'aurore. La temperature au sommet est de -18C. Le volcan est calme depuis 400 ans. L'Etudiant place ses mains a plat sur la roche nue. Sera (de Celethor) affirme avoir senti le sol *respirer* au moment du contact.
 
 **Le moment de la section** : L'Etudiant sectionne son propre Noeud — le point de connexion entre son ame et la Trame. Ce n'est pas une douleur physique mais un *vide* : comme si la moitie de soi cessait d'exister. Le silence dure trois secondes. Puis le Mont Cendra entre en eruption.
 
 **Ce qui arrive a l'Etudiant immediatement apres** :
 - Il survit. Son ame est intacte mais completement isolee de la Trame — premier Delie delibere de l'histoire.
 - Il perd connaissance 40 secondes apres le rituel, assomme par l'onde de choc de Flamara.
-- Pelara Ash meurt instantanement : son Noeud, surcharge par la proximite, se rompt involontairement.
+- Kayara-du-Large meurt instantanement : son Noeud, surcharge par la proximite, se rompt involontairement.
 - Trois autres membres du Cercle perdent leur connexion au Lien dans la minute. Ils deviennent des Delies par contamination de proximite.
 - L'Etudiant est retrouve vivant trois jours plus tard au pied du Mont, inconscient dans un lit de cendres. Il ne se souvient pas d'avoir descendu la montagne.
 
@@ -41,51 +41,51 @@ Le Cercle des Huit se forme progressivement. Chaque disciple est recrute pour un
 
 ### Le Cercle des Huit — Portraits et Destins
 
-**Serna Veld** — la Survivante-Temoin
+**Sera (de Celethor)** — la Survivante-Temoin
 
-Née dans un quartier ouvrier de Cendral, Serna Veld avait 34 ans lors de l'Arrachement. Liee-du-Feu de deuxieme rang dans le systeme academique de l'Union des Flammes, elle travaillait comme ingenieure thermique pour les forges royales avant d'etre approchee par l'Etudiant. Son recrutement prit trois ans : elle refusa deux fois, accepta la troisieme apres que l'Etudiant lui eut montre la fragmentation interne du Cercle des Sages et les contradictions du systeme d'allocation du Lien.
+Née dans un quartier ouvrier de Cendral, Sera avait 34 ans lors de l'Arrachement. Liee-du-Feu de deuxieme rang dans le systeme academique de l'Union des Flammes, elle travaillait comme ingenieure thermique pour les forges royales avant d'etre approchee par l'Etudiant. Son recrutement prit trois ans : elle refusa deux fois, accepta la troisieme apres que l'Etudiant lui eut montre la fragmentation interne du Cercle des Sages et les contradictions du systeme d'allocation du Lien. Elle avait lu le *Traite du Vide* dans son integralite avant d'accepter — et elle savait.
 
-Apres l'Arrachement, Serna Veld devient la seule membre du Cercle des Huit a survivre plus de 50 ans. Son Noeud ne se rompt pas a proximite du rituel — son role d'ancrage la protege paradoxalement, car elle canalise Flamara *autour* d'elle plutot que *a travers* elle. Elle perd neanmoins l'acces au Lien en H1, a 40km de distance quand la vague la rejoint.
+Apres l'Arrachement, Sera devient la seule membre du Cercle des Huit a survivre plus de 50 ans. Son Noeud ne se rompt pas a proximite du rituel — son role d'ancrage la protege paradoxalement, car elle canalise Flamara *autour* d'elle plutot que *a travers* elle. Elle perd neanmoins l'acces au Lien en H1, a 40km de distance quand la vague la rejoint.
 
-Elle consacre les 30 annees suivantes a rediger ce qui deviendra les **Memoires de Serna** — le seul recit de premiere main du rituel. Ces memoires existent en trois versions selon les traditions :
-- La version *Verithane* : Serna presente l'Etudiant comme lucide et necessaire
-- La version *d'Altram* : Serna decrit un homme convaincu mais aveugle aux consequences reelles
-- La version *populaire*, dite de Cendara : Serna regrette d'avoir participe et demande pardon
+Elle consacre les 30 annees suivantes a rediger ce qui deviendra les **Memoires de Sera** — le seul recit de premiere main du rituel. Ces memoires existent en trois versions selon les traditions :
+- La version *Verithane* : Sera presente l'Etudiant comme lucide et necessaire
+- La version *d'Altram* : Sera decrit un homme convaincu mais aveugle aux consequences reelles
+- La version *populaire*, dite de Cendara : Sera regrette d'avoir participe et demande pardon
 
 Historiens actuels estiment que les trois versions sont reelles — qu'elle a ecrit differemment selon les audiences. Elle meurt a 67 ans, dans un village sans nom, de pneumonie ordinaire.
 
 > *"Il n'a pas tremble. Pas une seule fois. J'ai toujours pense que ceux qui ne tremblent pas devant ce qu'ils font sont soit les plus courageux soit les plus fous. Je n'ai jamais su dans quelle categorie il entrait. Je ne le saurai jamais."*
-> — Serna Veld, *Memoires de Serna*, version d'Altram
+> — Sera (de Celethor), *Memoires de Sera*, version d'Altram
 
 ---
 
-**Orath Koss** — le Briseur de Pierre
+**Drakhan (l'Aine)** — le Briseur de Pierre
 
-Lie-de-Pierre d'Alkaran, ingenieur geologique. Avait 52 ans lors de l'Arrachement — le plus age du Cercle. Recrute pour ses connaissances de la structure sismique du Mont Cendra. Son role etait de stabiliser le sol *autour* du sommet pendant le rituel afin que les membres du Cercle ne soient pas engloutis par une eruption intempestive.
+Lie-de-Pierre d'Alkaran, ingenieur geologique. Avait 52 ans lors de l'Arrachement — le plus age du Cercle. Recrute pour ses connaissances de la structure sismique du Mont Cendra. Son role etait de stabiliser le sol *autour* du sommet pendant le rituel afin que les membres du Cercle ne soient pas engloutis par une eruption intempestive. Il etait l'un des premiers a avoir ete convaincu par le *Traite du Vide*, et l'avait lui-meme apporte a deux autres membres du Cercle.
 
-Il echoue partiellement : l'eruption est plus violente que prevue. Mais sa contribution retarde l'effondrement du flanc nord de 12 minutes — ce qui permet a Ysala Thorne de s'eloigner suffisamment.
+Il echoue partiellement : l'eruption est plus violente que prevue. Mais sa contribution retarde l'effondrement du flanc nord de 12 minutes — ce qui permet a Mirathis de s'eloigner suffisamment.
 
-Orath Koss perd son Lien en H1. Il descend le Mont a pied, en trois jours, avec une cheville brisee. Il est l'un des quatre membres du Cercle a survivre aux semaines suivantes. Il n'ecrit jamais. Les rares temoignages sur lui viennent de villageois d'Alkaran qui le voient marcher vers l'est, seul, pendant des mois. Il disparait dans les montagnes. Certaines traditions alkariennes disent qu'il s'est mure vivant dans une grotte, que son esprit est encore la, que les seismes du plateau d'Alkaran sont ses regrets.
+Drakhan perd son Lien en H1. Il descend le Mont a pied, en trois jours, avec une cheville brisee. Il est l'un des quatre membres du Cercle a survivre aux semaines suivantes. Il n'ecrit jamais. Les rares temoignages sur lui viennent de villageois d'Alkaran qui le voient marcher vers l'est, seul, pendant des mois. Il disparait dans les montagnes. Certaines traditions alkariennes disent qu'il s'est mure vivant dans une grotte, que son esprit est encore la, que les seismes du plateau d'Alkaran sont ses regrets.
 
 ---
 
-**Ysala Thorne** — la Diffuseuse du Vent
+**Mirathis** — la Diffuseuse du Vent
 
-Liee-du-Vent, 28 ans. La plus jeune du Cercle. Originaire de la cote galenoraise, fille d'un capitaine de port. Avait rejoint l'Etudiant pour des raisons intellectuelles — elle croyait sincererement que le Lien devait etre "libere" de la monopolisation des grands empires. L'Arrachement ne lui avait pas ete presente comme une destruction mais comme une redistribution.
+Liee-du-Vent, 28 ans. La plus jeune du Cercle. Originaire de la cote galenoraise, fille d'un capitaine de port. Avait rejoint l'Etudiant pour des raisons intellectuelles — elle croyait que le Lien devait etre "libere" de la monopolisation des grands empires. Convaincue par le *Traite du Vide*, elle avait accepte en pleine connaissance de cause ce que le rituel produirait.
 
-Son role de dispersion de la vibration sur les vents accelere la propagation de H1 a H3. Elle est, involontairement, l'une des personnes les plus responsables de la vitesse du desastre. Elle apprend cela 10 ans apres l'Arrachement en lisant les archives d'Orivanel — que les chercheurs ont retrouve les traces de "vents porteurs anormaux" dans les minutes suivant l'eruption. Elle ne le sait pas au moment du rituel.
+Son role de dispersion de la vibration sur les vents accelere la propagation de H1 a H3. Elle est l'une des personnes les plus responsables de la vitesse du desastre — une responsabilite qu'elle avait acceptee avant de monter au sommet. Elle mesure pleinement l'etendue des degats 10 ans apres l'Arrachement en lisant les archives d'Orivanel, qui documentent les "vents porteurs anormaux" dans les minutes suivant l'eruption.
 
 Elle survit 70 ans. Vit sous un faux nom a Galenor. Devient guerisseuse empirique — sans le Lien, avec des plantes et des outils ordinaires. N'ecrit jamais sur le rituel. A sa mort, on retrouve sur elle un fragment de parchemin avec une seule phrase : *"J'ai cru liberer quelque chose. J'ai compris trop tard que pour liberer il faut d'abord savoir ce qu'on tient."*
 
 ---
 
-**Merith l'Aveugle** — le Prophete Malgre Lui
+**Vorath (le Tacite)** — le Prophete Malgre Lui
 
-Lie-du-Reve, ne aveugle des la naissance, 44 ans lors de l'Arrachement. La plupart des recits sur le Cercle des Huit mettent Merith en position de prophete sinistre — celui qui "savait" mais n'a pas parle. C'est inexact selon les archives verithanes.
+Lie-du-Reve, ne aveugle des la naissance, 44 ans lors de l'Arrachement. La plupart des recits sur le Cercle des Huit mettent Vorath en position de prophete sinistre — celui qui "savait" mais n'a pas parle. C'est inexact selon les archives verithanes.
 
-Merith ne savait pas. Son role — projeter sa conscience dans le reseau de Somnix pour mesurer la propagation — lui donne acces a quelque chose d'inhumain pendant les 7 heures. Il *voit* (au sens mystique) la propagation en temps reel depuis l'interieur de la Trame. Ce qu'il percoit le laisse dans un etat dissociatif complet. Il n'est plus en etat de communiquer apres H2.
+Vorath savait ce que le rituel accomplirait — il avait lu le *Traite du Vide* comme les autres. Mais ce qu'il ignorait, c'est ce qu'il *verrait* en accomplissant son role : projeter sa conscience dans le reseau de Somnix pour mesurer la propagation lui donne acces a quelque chose d'inhumain pendant les 7 heures. Il *voit* (au sens mystique) la propagation en temps reel depuis l'interieur de la Trame. Ce qu'il percoit le laisse dans un etat dissociatif complet. Il n'est plus en etat de communiquer apres H2.
 
-Les *Visions de Merith* — recueillies de sa bouche par ses compagnons apres le rituel — sont un document hallucinatoire. Des fragments ont ete preserves :
+Les *Visions de Vorath* — recueillies de sa bouche par ses compagnons apres le rituel — sont un document hallucinatoire. Des fragments ont ete preserves :
 
 > *"La corde se casse et les deux bouts deviennent vivants. Ils ne savent pas qu'ils sont morts. Ils cherchent l'autre bout dans l'obscurite. Ils chercheront toujours."*
 
@@ -93,22 +93,42 @@ Les *Visions de Merith* — recueillies de sa bouche par ses compagnons apres le
 
 Cette derniere vision — "quelqu'un qui a aide Navigor a partir" — est l'un des grands mysteres non resolus du lore. Les Catena Fracta (Ere VII) en font un pilier de leur theologie : que la disparition de Navigor n'etait pas un effet secondaire de l'Arrachement mais un acte delibere d'une entite tierce.
 
-Merith meurt 4 jours apres le rituel. Cause : crise cardiaque pendant le sommeil. Il avait probablement vu trop de la Trame en train de se rompre.
+Vorath meurt 4 jours apres le rituel. Cause : crise cardiaque pendant le sommeil. Il avait probablement vu trop de la Trame en train de se rompre.
 
 ---
 
-**Boran Shult** — l'Innocent
+**Thessan (l'Erudit)** — le Comptable du Desastre
 
-Lie-du-Commerce d'Evertia, 39 ans. Le membre dont l'histoire est la plus connue du grand public — non pas pour son importance mais pour sa tragedie particuliere. Boran Shult croyait participer a un "rituel de mesure" du Lien : l'Etudiant lui avait dit qu'il s'agissait d'evaluer les flux energetiques du Mont Cendra a des fins academiques.
+Lie-du-Commerce d'Evertia, 39 ans. Le membre dont l'histoire est la plus connue du grand public — non pas pour son importance rituelle mais pour ce qu'il fit apres. Thessan etait l'analyste du Cercle : son role consistait a documenter en temps reel les effets economiques et systemiques de l'Arrachement, mesurer la propagation des ruptures commerciales et anticiper les effondrements de reseau. C'est lui qui avait calcule, a partir du *Traite du Vide*, que la perte du Lien tuerait les monopoles commerciaux des grandes puissances — l'argument qui l'avait convaincu de participer.
 
-Quand le rituel se deroule et que le Lien se brise, Boran Shult n'a aucun role actif. Il regarde. Il comprend en H1 ce qu'il a aide a accomplir involontairement. Les temoignages de Serna Veld indiquent qu'il *hurle* — le seul cri audible parmi les membres du Cercle au moment du rituel.
+Quand le rituel se deroule et que le Lien se brise, Thessan observe avec rigueur ce pour quoi il etait la. Les temoignages de Sera indiquent qu'il *hurle* — le seul cri audible parmi les membres du Cercle au moment du rituel. Ses propres ecrits ne mentionnent pas ce cri. Peut-etre ne s'en souvient-il pas. Peut-etre ne veut-il pas s'en souvenir.
 
-Il survit. Rentre a Evertia. Tente d'alerter les autorites — mais que leur dire ? Que le Lien est brise, et que lui n'a pas su que c'etait le but ? Il est d'abord traite comme un fou, puis comme un criminel (quand on comprend l'ampleur), puis protege par les Verithani qui voient en lui un temoin precieux.
+Il survit. Rentre a Evertia. Est d'abord traite comme un fou, puis comme un criminel (quand on comprend l'ampleur de ce qu'il a aide a accomplir), puis protege par les Verithani qui voient en lui un temoin precieux et un cerveau encore fonctionnel.
 
-Il dediche les 40 annees restantes de sa vie a documenter les pertes economiques de l'Arrachement — cataloguant port par port, marche par marche, les routes commerciales detruites. Son ouvrage, **Le Registre des Pertes**, est une source historique majeure mais aussi un acte de penitence maniaque : 12 volumes, 8 000 pages, ecrits sur 35 ans.
+Il dedie les 40 annees restantes de sa vie a documenter les pertes economiques de l'Arrachement — cataloguant port par port, marche par marche, les routes commerciales detruites. Son ouvrage, **Le Registre des Pertes**, est une source historique majeure mais aussi un acte d'expiation maniaque : 12 volumes, 8 000 pages, ecrits sur 35 ans.
 
 > *"Il n'a jamais cesse de compter. Je crois qu'il croyait que si on savait le nombre exact de ceux qui etaient morts, on pourrait... je ne sais pas. Leur rendre quelque chose. On ne peut pas rendre ce genre de chose."*
-> — Temoignage d'une voisine de Boran Shult, recueilli ~40 ap.A
+> — Temoignage d'une voisine de Thessan (l'Erudit), recueilli ~40 ap.A
+
+---
+
+**Kayara-du-Large** — la Premiere
+
+Liee-de-Feu secondaire, originaire d'Endora, 31 ans lors de l'Arrachement. Navigatrice avant d'etre Liee — elle avait traverse les sept mers connues avant l'age de 25 ans, d'ou son epithete. Elle rejoint le Cercle la derniere, convaincue par Sera (de Celethor) apres une nuit de discussion a bord d'un navire au large d'Endora. Elle avait pose une condition : comprendre le rituel dans tous ses details avant de dire oui. On lui avait montre le *Traite du Vide*. Elle avait accepte les yeux ouverts.
+
+Son role : renfort de Sera pour l'ancrage de la vibration initiale, absorbant l'exces d'energie que Flamara reflechirait au moment de la section. C'est precisement ce surplus qui la tue. Elle meurt instantanement en H0, la premiere du Cercle — son Noeud, surcharge par la proximite du centre du rituel, se rompt avant meme qu'elle comprenne que le rituel a reussi.
+
+Les archives verithanes notent qu'elle souriait. Les historiens debattent de ce detail depuis des siecles : sourire de contentement, de peur mal interpretee, ou simple artefact d'un temoignage reconstruit apres coup ? Aucune conclusion definitive. Elle n'a laisse aucun ecrit.
+
+---
+
+**Aelindra (de Pyrion)** — l'Ancre Verte
+
+Liee-des-Forets de Celethor, 36 ans lors de l'Arrachement. Issue d'une famille de botanistes du Dominat de Pyrion, elle avait consacre sa jeunesse a l'etude des connexions entre Arborius et la Trame du Lien — convaincu que le Lien etait aussi une forme de parasite pour les ecosystemes naturels, l'achevement du *Traite du Vide* lui avait semble une confirmation theorique de ce qu'elle observait sur le terrain.
+
+Son role dans le rituel : maintenir l'ancrage vegetal pendant le choc, empecher que la vibration initiale ne disloquet les racines profondes du flanc du Mont Cendra — ce qui aurait provoque une eruption prematurement orientee vers les membres du Cercle. Elle reussit. Les membres au sommet gagnent les quelques minutes necessaires.
+
+Elle perd son Lien en H2, a distance de securite. Elle descend le Mont en silence aux cotes de Drakhan. On ne sait presque rien d'elle apres ce jour : elle disparait dans les forets de Celethor, seules quelques mentions indirectes la placent dans des villages de la peripherie de Pyrion au cours des 20 annees suivantes. Elle ne cherche pas a etre retrouvee. Certains textes de l'ordre botanique de Celethor, fondes deux siecles apres l'Arrachement, citent "une femme de Pyrion qui parlait aux arbres morts" comme figure fondatrice — peut-etre elle, peut-etre une legende.
 
 ---
 
@@ -131,7 +151,7 @@ Il sectionne son propre Noeud. La vibration se propage a toute la Trame cosmique
 - **Celestia et Noctis** : desequilibres. Les cycles jour/nuit deviennent erratiques pendant des siecles.
 
 **Bilan de l'Arrachement :**
-- Population mondiale : ~120 millions → ~30 millions en un an (famine, effondrements, guerres)
+- Population mondiale : ~120 millions → ~90 millions en quelques annees (chute rapide initiale due aux effondrements, famines, guerres immédiates), puis déclin continu sur plusieurs décennies
 - Cites volantes : detruites (Althanar, Pyranel, Lithanel Haute...)
 - Portails : tous fermes (reseau de 200+ portails coupe)
 - Navoria : engloutie sous les flots en 3 jours
@@ -145,7 +165,7 @@ Il sectionne son propre Noeud. La vibration se propage a toute la Trame cosmique
 
 Trois secondes de silence absolu sur toute la surface d'Hybelior. Les Lies dans le monde entier rapportent la meme chose : le Lien "tressaille" — comme une corde tendue frappee d'un coup. Personne ne sait encore ce qui vient de se passer.
 
-A Navoria, des marins sur le port voient la mer changer de couleur vers le nord : une teinte rouge-ocre venue de Cendara. Les portails de la cote vacillent. Un marchand en transit dans un portail Navorie → Aethranor temoigne plus tard : *"Le passage s'est ferme autour de moi. J'ai senti les bords me toucher. Puis j'etais sur le sol, a mi-chemin entre les deux villes, dans un endroit qui n'existe pas."* Il survit. Beaucoup d'autres non.
+A Navoria, des marins sur le port voient la mer changer de couleur vers le nord : une teinte rouge-ocre venue de Cendara. Les portails de la cote vacillent. Un marchand en transit dans un portail Navorie → Aethranor temoigne plus tard : *"Le passage s'est ferme autour de moi. J'ai senti les bords me toucher. Puis j'etais sur le sol, a mi-chemin entre les deux villes, dans un endroit qui n'existe pas."* Il survit. Beaucoup d'autres non. Ces victimes du transit interrompu deviennent les premiers temoins des Failles de Tempora — leur existence fragmentee entre deux points de l'espace est l'un des mysteres medicaux les plus etudies des eres suivantes.
 
 **H1 — La Devastation Primaire (00:03 → 01:00)**
 
@@ -221,7 +241,7 @@ La cite volante **Althanar** (Galenor, 950m, 12 000 especes vegetales maintenues
 | **Navoris Celeste** | Thalassocratie de Navoris | 400m | Tombe dans la mer lors de l'engloutissement | Fond de l'ocean, 200m de profondeur |
 | **Endral Flotant** | Heritage du Saint-Empire d'Endara | 700m | Chute en foret d'Endora | Ruines envahies par la jungle, non retrouvees |
 
-Exception : **Everthor Suspendu** (Ligue d'Everthor) — en maintenance au sol depuis 6 mois, cristaux de sustentation demontees. Seule cite "volante" a survivre. Rebaptisee **Everthor au Sol**, capitale de la Ligue pendant ~200 ans avant d'etre abandonnee.
+Exception : **Everthor Suspendu** (Ligue d'Everthor) — en maintenance au sol depuis 6 mois, cristaux de sustentation demontees. Seule cite "volante" a survivre. Rebaptisee **Everthor au Sol**, capitale de la Ligue pendant ~200 ans avant d'etre abandonnee. *Note : Everthor Suspendu ne comptait pas parmi les "7 cites volantes" proprement dites (constructions magiques deliberement elevees). Everthor est un plateau naturel maintenu en levitation par un phenomene ethere distinct — sa nature geologique lui confere un statut separe dans les classifications de l'epoque.*
 
 **H6-7 — La Fin du Monde Connu (05:00 → 07:00)**
 
@@ -264,14 +284,14 @@ Cestra, peu dependante du Lien, subit le moins de dommages directs. Une inscript
 - **Sanavir** (Spiritus x Arborius — guerison naturelle) : affaibli de 80%. Les remedes traditionnels gardent un effet residuel, mais la guerison magique disparait.
 
 **Etheres qui se renforcent ou se transforment :**
-- **Cendris** (Flamara x Terranu — lave, roche en fusion) : surcharge, devient temporairement incontrolable. Des sources de lave apparaissent dans des endroits inattendus sur Cendara et Onara.
+- **Embrasur** (Flamara x Terranu — lave, roche en fusion) : surcharge, devient temporairement incontrolable. Des sources de lave apparaissent dans des endroits inattendus sur Cendara et Onara.
 - **Tempestal** (Aerion x Climata — tempetes) : libere de l'ordre que lui imposait le Lien, devient erratique et violent. Les tempetes de l'Ere V sont plus longues et destructrices qu'a toute epoque precedente.
 - **Obscuris** (Noctis x Somnix — obscurite profonde) : gagne en puissance avec le desequilibre de Noctis. Les zones d'ombre profonde deviennent dangereuses pendant l'Ere V.
 - **Glacien** (Climata x Aquor — gel) : profite du chaos climatique pour s'etendre. Des zones temperees subissent leurs premiers gels permanents.
 
 **Les Tisses — Lies residuels survivants**
 
-Environ 0,3% de la population mondiale apres l'Arrachement garde une connexion partielle au Lien (~90 000 individus sur 30 millions de survivants). Appeles **Tisses** (pejoratif : "cousu de bouts de rien").
+Environ 0,3% de la population mondiale apres l'Arrachement garde une connexion partielle au Lien (~270 000 individus sur ~90 millions de survivants dans les premieres annees, le chiffre declinant avec la population au fil des decennies). Appeles **Tisses** (pejoratif : "cousu de bouts de rien").
 
 - Connexion a 1-2 Etheres locaux uniquement — jamais aux Cosmiques, jamais aux Eternels
 - Capacites residuelles : sentir la meteo, calmer des animaux, favoriser la germination
@@ -394,9 +414,9 @@ La plus repandue des legendes populaires sur l'Arrachement, presente dans des ve
 
 Les partisans de ce mythe y voient une implication troublante : si le Lien pouvait resister, il pouvait peut-etre aussi guerir.
 
-Les historiens verithanis rejettent ce mythe comme une invention consolatrice. Il n'existe aucune trace d'un rituel precedent. Les sources primaires — dont les Memoires de Serna — ne le mentionnent pas.
+Les historiens verithanis rejettent ce mythe comme une invention consolatrice. Il n'existe aucune trace d'un rituel precedent. Les sources primaires — dont les *Memoires de Sera* — ne le mentionnent pas.
 
-*Contre-argument populaire* : Serna etait presente au troisieme essai seulement.
+*Contre-argument populaire* : Sera n'etait presente qu'au dernier essai, et ne pouvait donc rien attester des tentatives precedentes.
 
 #### Les Sept qui Marchent
 
@@ -405,6 +425,8 @@ Legende alkariote, tres ancienne (certains chercheurs la datent de ~500 ap.A) : 
 La legende sert de cadre a de nombreux recits de la Grande Nuit : les "marcheurs" apparaissent dans differentes cultures sous differents noms, toujours comme des voyageurs etranges qui ne vieillissent pas, qui portent quelque chose de precieux, qui refusent de s'arreter.
 
 Historiquement sans fondement. Symboliquement tres riche — plusieurs ordres religieux de l'Ere VI revendiquent descendre de l'un des Sept.
+
+*Note historique (fiction intra-diegetique) : Le nom des "Sept qui Marchent" est une construction populaire — le chiffre sept, sacre dans de nombreuses traditions, a remplace la realite plus sombre de cinq survivants dans la memoire collective. Les archives verithanes les plus rigoureuses ne documentent que cinq membres ayant veritablement survecu au rituel et aux semaines immediates ; les deux figures supplementaires du compte populaire sont vraisemblablement des amalgames de temoignages errones ou des interpolations symboliques tardives.*
 
 #### La Voix sous les Cendres
 

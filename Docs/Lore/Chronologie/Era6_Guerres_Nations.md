@@ -39,7 +39,7 @@
 - **Illara de Gryndor** — prophetesse-combattante qui unifie les guerriers d'Ilthara centrale ; canonisee par l'Eglise de Vael'Kurash
 
 **Consequences durables**
-- Trois nations la ou il n'y en avait qu'une : Drakora (tampon militariste), Gryndor (province traditionaliste), Haldria (aristocratie marchande d'Endora)
+- **Dissolution de Drahk'Nor (~4 800 ap.A)** : la Guerre du Panghor Brise signe la fin definitive de l'Empire Drahk'Nor et donne naissance a trois nations distinctes — Drakora (etat-tampon militariste fonde par le traitre Vorath Shan), Gryndor (province traditionaliste autour du culte de Vael'Kurash et des rites funeraires d'Ilthara centrale), et Haldria (aristocratie marchande d'Endora-sud). La ou il y avait un empire, il y a desormais trois identites nationales rivales qui se disputent l'heritage et la legitimite.
 - Rivalite structurelle Drakora/Gryndor gravee dans les traites fondateurs : les deux nations revendiquent l'heritage legitime de Drahk'Nor
 - Les rites funeraires de Gryndor deviennent un marqueur identitaire national fort
 
@@ -197,6 +197,10 @@
 - Le *Code de Lumasar* devient reference pour 40 nations signataires du futur Traite des Treize Continents
 - Les grandes familles en exil fondent une chambre clandestine qui donnera, des siecles plus tard, les racines des Catena Fracta
 
+**Le Fragment Zero et les archives d'Altram**
+
+Le Fragment Zero — le parchemin original de l'Etudiant decrivant le rituel de l'Arrachement — demeure aux archives royales d'Altram sous triple scelle. Sa conservation est l'une des rares decisions consensuelles entre les nations issues de Tharnok : personne ne veut le detruire (trop precieux historiquement), personne ne veut l'etudier ouvertement (trop dangereusement sedieux). Plusieurs tentatives de vol sont documentees pendant l'Ere des Nations, dont celle de la Catena Fracta (~5 800 ap.A), qui echoue mais revele l'existence de l'organisation au grand public pour la premiere fois. L'echec de cette tentative — et la publicite involontaire qu'elle genere — amene Altram a renforcer le protocole de securite des archives : le Fragment Zero est desormais garde par une rotation de trois familles de gardiens dont les identites ne sont jamais rendues publiques simultanement.
+
 **Consequences culturelles**
 - La Révolution des Plumes engendre une explosion culturelle sans précédent à Lumasar : libérés du patronage des grandes familles, les artisans deviennent des créateurs autonomes. L'artisanat de Lumasar — céramique, broderies dites "plumes de couleur", reliures ouvragées — commence à s'exporter dans tout le monde connu
 - Le *Traité des Plumes* de Scholar Ovath est copié et distribué dans 23 langues en 50 ans, devenant le texte politique le plus diffusé de l'Ère VI. Des cercles de lecture clandestins se forment à Kharazir, Haldria, et même Gryndor
@@ -247,6 +251,7 @@ L'Ère des Nations n'est pas qu'une succession de guerres. Entre les conflits, d
 - Le sel d'Azoria, le bois d'Evertia, le métal d'Alkaran et le grain de Galenor forment le premier triangle commercial stable de l'ère post-Arrachement
 - Population mondiale estimée : ~8 millions en 3 000 ap.A, ~18 millions en 4 700 ap.A — doublement en 1 500 ans grâce à la stabilité relative
 - Les monnaies de cette période sont essentiellement des lingots de métal pesé ; aucune monnaie frappée avant ~4 200 ap.A (Altram frappe les premières pièces standardisées)
+- **Écho de la Convention de Gryndor — la question des Tissés renaissants** : la Convention de Gryndor (~2 950 ap.A) avait codifié un premier cadre de coexistence entre nations, mais avait laissé en suspens le statut des "Tissés renaissants" — ces individus manifestant à nouveau un Lien actif alors que le Fléau était censé l'avoir éteint. Dès ~3 200 ap.A, leur nombre croissant crée une tension structurelle : les nations comme Drahk'Nor et Tharnok les intègrent prudemment dans leurs structures militaires ou administratives, mais leur exclusion des conseils politiques formels est la norme. Cette marginalisation institutionnelle des Tissés, perçue comme une menace latente par les élites non-Liées, alimente une frustration sourde qui contribuera, des siècles plus tard, aux fractures internes de ces empires — dont la Guerre du Panghor Brisé est en partie l'héritière (les Liés de la province centrale d'Ilthara, dont le Lien résiduel est plus fort que la capitale, alimentent les forces rebelles qui donnent naissance à Gryndor).
 
 **Interrègne commercial (~4 850 → ~5 100 ap.A)**
 - La Guerre du Panghor Brisé désorganise les routes d'Ilthara/Endora pendant un siècle
@@ -459,6 +464,10 @@ L'Ère des Nations voit émerger des systèmes judiciaires profondément différ
 - Les "Chants de Jugement" : les anciens récitent les précédents analogues sous forme de chants avant de délibérer
 - Particularité : pas de prison — les condamnés sont intégrés à la tribu adverse comme "travailleurs de réparation" pendant une durée déterminée
 
+**L'Expedition d'Ulinor et ses survivants**
+
+Parmi les cas documentés les plus enigmatiques de l'Ere VI figure l'expedition d'Ulinor — une exploration des terres interieures d'Ulinor entreprise par un groupe de naturalistes et de cartographes de Baelor-Prime vers ~5 600 ap.A. Sur les vingt membres de l'expedition, deux seulement reviennent, portant des manifestations physiques inexplicables : modifications de la pigmentation oculaire, insensibilite partielle au froid dans des conditions normalement fatales, et — selon les temoignages de leurs contemporains — une capacite a sentir la presence de Failles de Tempora plusieurs heures avant leur apparition. Les archives de Baelor-Prime consacrent trois volumes a leurs depositions. Leur sort apres l'Ere VI reste inconnu — les chroniqueurs d'Era7 mentionnent leurs noms comme cas d'etude dans les academies de Lumasar, mais aucune trace vivante n'est documentee. Certains theoriciens contemporains suggerent que leur exposition prolongee aux anomalies residuelles du Lien dans les terres intérieures d'Ulinor a produit une forme de mutation irreversible — ni Tie, ni Delie, mais quelque chose d'intermediaire sans categorie institutionnelle.
+
 ---
 
 ### Naissance des Nations Actuelles — Tableau Complet
@@ -476,8 +485,8 @@ L'Ère des Nations voit émerger des systèmes judiciaires profondément différ
 | **Kharazir** | Galenor | Galenthis (Ere V) → eclatement guerre | ~5 200 ap.A |
 | **Ventera** | Galenor | Galenthis → eclatement guerre | ~5 200 ap.A |
 | **Seraphia** | Galenor | Galenthis → eclatement guerre | ~5 200 ap.A |
-| **Tyndara** | Galenor | Galenthis → province maritime independante | ~5 100 ap.A |
-| **Solena** | Galenor | Galenthis → confederation de cites-etats | ~5 150 ap.A |
+| **Tyndara** | Galenor | Galenthis → duche maritime (existait avant) → nation independante apres Guerre des Trois Couronnes | ~5 240 ap.A |
+| **Solena** | Galenor | Galenthis → confederation de cites-etats (existait avant) → nation independante apres Guerre des Trois Couronnes | ~5 260 ap.A |
 | **Caeloria** | Celethor | Sanctuaire d'Orivane → faction diplomatique | ~4 600 ap.A |
 | **Iskara** | Alkaran | Tharnok → province miniere autonome | ~4 500 ap.A |
 | **Avalor** | Endora | Schismes d'Endora → revolution religieuse | ~6 500 ap.A |

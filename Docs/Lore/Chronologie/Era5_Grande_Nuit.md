@@ -37,7 +37,7 @@ Avec les grandes structures effondrees, le pouvoir revient a ceux qui ont des mo
 
 **Annees 50-200 — Le Nouveau Desordre**
 
-Population mondiale stabilisee autour de 20-25 millions. Les premiers micro-royaumes prennent forme. Les Verithani emergent comme faction visible pour la premiere fois. Scission interne :
+Population mondiale stabilisee autour de 60-70 millions apres le choc initial — les grandes famines et guerres de predation ont reduit la population depuis ~90M (An 0) a ~70M vers An 50. Les premiers micro-royaumes prennent forme. Les Verithani emergent comme faction visible pour la premiere fois. Scission interne :
 - **Les Purs** : l'Arrachement etait juste et necessaire. Les mortels apprennent a vivre libres.
 - **Les Endeuilles** : le cout etait trop eleve. Certains aident activement les survivants comme acte de reparation.
 
@@ -118,11 +118,25 @@ Cette contraction geographique des alliances sociales dure 500-800 ans selon les
 
 ---
 
-### Le Fleau des Failles (~1 500 ap.A) — 3e quasi-extinction — Mecanisme Detaille
+### Le Fleau des Failles (~1 400-1 600 ap.A) — 3e quasi-extinction
 
 *(dit aussi Fleau Silencieux — deux noms selon les regions)*
 
-**Origines des Failles de Tempora**
+> **Note de nature** : le Fleau des Failles n'est pas une maladie ordinaire. C'est un phenomene magique lie directement aux Failles de Tempora. Il cible specifiquement les etres portant encore une connexion residuelle au Lien — les Tisses — parce que leur Lien residuel les rend vulnerables aux distorsions temporelles emanant des Failles. Les non-Tisses traversent la meme periode sans symptomes du Fleau.
+
+---
+
+#### Les Tisses a l'Aube du Fleau — Une Question de Generations
+
+Comprendre le Fleau des Failles exige de ne pas confondre les Tisses de An 0 avec ceux de ~1 400 ap.A.
+
+A **An 0**, lors de l'Arrachement, le monde compte **~270 000 Tisses** (sur ~90M de survivants). Avec une esperance de vie de ~50-60 ans pendant la Grande Nuit (medecine sans Lien, famines, conflits), aucun de ces individus n'est encore vivant 1 500 ans plus tard.
+
+Ce que le Fleau frappe, vers ~1 400 ap.A, c'est la **descendance** de ces 270 000 — les porteurs du Lien residuel apres 25 a 30 generations de transmission. Sous l'effet combine des mariages endogames, de la mortalite differentiee des Tisses pendant la Grande Nuit (souvent pris pour cibles dans les periodes de violence anti-Lien), et de la dilution naturelle du Lien residuel sur les generations, cette population Tissee a ete progressivement reduite. Les historiens estiment qu'il en subsistait **~150 000** vers ~1 400 ap.A, au seuil du Fleau.
+
+---
+
+#### Origines des Failles de Tempora
 
 Tempora, blesse par l'Arrachement, perd partiellement le controle du flux temporel local. Les Failles ne sont pas voulues par Tempora — elles sont des symptomes de sa blessure, des cicatrices instables qui s'ouvrent et se ferment.
 
@@ -143,9 +157,19 @@ Tempora, blesse par l'Arrachement, perd partiellement le controle du flux tempor
 | **Montagnes d'Alkaran** | ~10 villages | Failles lentes mais profondes — le Mont-Gris a bascule de 200 ans en arriere pendant 3 mois |
 | **Cotes de Celethor** | ~8 villages | Failles maritimes — navires retrouves sans equipage, epoque inconnue |
 
-**L'epidemie mystique — symptomes et progression**
+---
 
-Les residus du Lien rompu — fragments de Trame disperses dans l'atmosphere — se degradent progressivement sur 1 500 ans. Vers ~1 500 ap.A, cette degradation atteint un stade critique : les fragments deviennent toxiques pour tout etre ayant encore une connexion residuelle au Lien.
+#### Pourquoi les Tisses sont-ils specifiquement vulnerables ?
+
+La question est documentee des ~1 420 ap.A par les Chamanes de Memoire d'Alkaran, qui sont parmi les premiers Tisses a identifier le phenomene sur leurs propres corps.
+
+Le Lien residuel qu'un Tisse porte n'est pas mort — il est brise, fragmentaire, mais toujours *vivant* en lui. Or les Failles de Tempora emanent une distorsion temporelle qui interagit directement avec tout ce qui appartient a la Trame. Les fragments de Trame disperses dans l'atmosphere se degradent progressivement depuis 1 500 ans. Vers ~1 400-1 500 ap.A, cette degradation atteint un stade critique : les fragments deviennent actifs de facon toxique, et les Failles instables amplifient ce phenomene.
+
+Pour un non-Tisse, la distorsion temporelle des Failles est physiquement dangereuse (desorientation, engloutissement) mais elle n'a pas d'effet systemique sur le corps. Pour un Tisse, les fragments toxiques de Trame *resonnent* avec son Lien residuel — le propre corps du Tisse devient le vecteur de sa destruction.
+
+---
+
+#### Symptomes et progression du Fleau
 
 **Progression sur 6-18 mois selon l'intensite de la connexion residuelle :**
 1. **Phase 1 (mois 1-3)** : "parasites" dans la perception du Lien — les Tisses voient des choses qui ne sont pas la, entendent des voix, sentent des presences
@@ -154,17 +178,21 @@ Les residus du Lien rompu — fragments de Trame disperses dans l'atmosphere —
 4. **Phase 4 (mois 12-18)** : mort par paralysie totale. Rares sujets meurent en phase 2 par hemorragie interne si leur connexion etait particulierement forte.
 
 **Tentatives de soin :**
-- Coupure volontaire du Lien residuel (amputation mystique) : efficace si fait en phase 1, irreversible, le patient devient non-Lie permanent. Quelques milliers de Tisses survivent ainsi.
+- Coupure volontaire du Lien residuel (amputation mystique) : efficace si fait en phase 1, irreversible, le patient devient non-Lie permanent. Quelques milliers de Tisses survivent ainsi — leurs descendants ne porteront plus le Lien.
 - Plantes de Sanavir (residuellement actif) : attenuation des douleurs en phase 2-3, sans guerison.
 - Priere aux entites : silence total.
 - "Extraction" du Lien par des non-Lies : inefficace et fatale dans 100% des cas documentes.
 
-**Bilan du Fleau des Failles :**
-- ~40% de la population de l'Ere V elimine
-- Quasi-extermination des Tisses : sur ~90 000 presents a An 0, peut-etre 200-300 survivent
-- Ces 200-300 sont les ancetres des Lies modernes
+---
 
-Survivants privilegies : les non-Lies et les populations peu dependantes du Lien (Baelor, Ulinor, certaines iles d'Azoria).
+#### Bilan du Fleau (~1 400-1 600 ap.A)
+
+- **Duree** : environ 200 ans d'activite maximale des Failles mobiles, avec un pic vers ~1 450-1 550 ap.A
+- **Impact demographique global** : ~40% de la population mondiale eliminee pendant la periode (~18M a la fin de l'Ere V contre ~30M avant le Fleau — les non-Tisses subissent les destructions directes des Failles mobiles, les famines et conflits induits)
+- **Quasi-extermination des Tisses** : sur les ~150 000 porteurs du Lien residuel presents vers ~1 400 ap.A (descendance des ~270 000 de An 0, reduits sur 25 generations), le Fleau et la persecution par les Inspecteurs de Purete de Drahk'Nor n'en laissent que **~200-300 survivants**
+- Ces 200-300 sont les ancetres des Lies modernes — porteurs d'un Lien residuel assez faible pour avoir echappe au Fleau ou assez isoles geographiquement pour ne jamais avoir ete detectes
+
+Survivants privilegies : les non-Tisses et les populations peu dependantes du Lien (Baelor, Ulinor, certaines iles d'Azoria).
 
 #### Le Fleau vecu de l'interieur — Temoignages
 
@@ -186,6 +214,22 @@ Les archives de Tharnok et de Gryndor contiennent des fragments de temoignages s
 De petits royaumes emergent des cendres. Des clans, des cites-etats, des theocracies locales. Le Fleau des Failles (~1 500 ap.A) aneantit nombre de ces royaumes naissants, mais les survivants se reorganisent et deviennent les briques de l'Ere des Nations.
 
 Parmi eux : le **Royaume de Tharnok** (Alkaran), le **Forgon** (cotes d'Onara/Azoria), et l'**Empire Drahk'Nor** (Ilthara/Endora) — etats post-Arrachement qui dominent la Grande Nuit tardive.
+
+#### Chronologie de Coexistence — Les Trois Grands (~400 → ~4 800 ap.A)
+
+Les trois entites majeures de la Grande Nuit ne se succedent pas : elles coexistent sur des siecles entiers, avec des phases de chevauchement, de concurrence et d'equilibre fragile.
+
+| Entite | Fondation | Apogee | Dissolution | Successeur |
+|--------|-----------|--------|-------------|------------|
+| **Forgon** | ~400 ap.A (Pacte des Trois Ports) | ~1 000–2 500 ap.A | ~4 000 ap.A (evolution en Mosrack) | Mosrack |
+| **Royaume de Tharnok** | ~600 ap.A (unification par Hadris Tharnok) | ~1 200–2 500 ap.A | ~3 200 ap.A (evolution en Altram) | Altram |
+| **Empire Drahk'Nor** | ~800 ap.A (Manifeste de Pyros) | ~2 000–3 500 ap.A | ~4 800 ap.A (Guerre du Panghor Brise → eclatement) | Drakora, Gryndor, Haldria |
+
+**Periodes de coexistence notable :**
+- **~800–1 400 ap.A** : les trois entites se stabilisent simultanement. Le Forgon controle les mers, Tharnok l'interieur d'Alkaran, Drahk'Nor Ilthara et Endora. Aucune guerre majeure inter-empires — chacun occupe un espace geographique distinct.
+- **~1 400–1 700 ap.A** : le Fleau des Failles frappe les trois entites differemment. Le Forgon, maritime et disperse, survit le mieux. Drahk'Nor cree les Inspecteurs de Purete et entre dans sa periode la plus sombre. Tharnok, culture anti-Lien, est relativement epargne.
+- **~2 000–3 200 ap.A** : Tharnok decline progressivement et evolue vers Altram. Le Forgon et Drahk'Nor restent actifs. La Convention de Gryndor (~2 950 ap.A) reunite ces trois entites pour la premiere fois dans un cadre diplomatique.
+- **~3 200–4 800 ap.A** : seuls le Forgon et Drahk'Nor coexistent. Le Forgon se transforme en Mosrack (~4 000 ap.A). Drahk'Nor s'effondre lors de la Guerre du Panghor Brise (~4 800 ap.A).
 
 #### Royaume de Tharnok (Alkaran, ~600 ap.A → ~3 200 ap.A)
 
@@ -364,6 +408,10 @@ La verite pratique : que Drahk ait ete Tisse ou non, il avait compris qu'une ide
 
 L'Arrachement n'affecte pas seulement les mortels. Le monde naturel se recompose progressivement sur 3 000 ans.
 
+**Le silence de Cantor (~500 ap.A)**
+
+Cantor, l'Eternel dont le domaine etait la complexite biologique — les ecologies imbriquees, les equilibres entre especes, la symphonie des ecosystemes — est l'un des premiers Eternels dont le silence devient documentable avec precision. Affaibli par l'effondrement des ecosystemes complexes qu'il entretenait depuis l'aube du monde, Cantor sombre dans un silence total vers ~500 ap.A. Avant cette date, quelques naturalistes signalent encore des phenomenes qu'ils attribuent a une influence residuelle de Cantor : des migrations d'oiseaux anormalement coordonnees, des equilibres de population animale inexplicables par la seule ecologie. Apres ~500 ap.A, meme ces traces disparaissent. Les naturalistes y voient le signe que la complexite biologique du monde a chute sous un seuil critique — Cantor n'a plus de matiere sur laquelle agir. La Grande Nuit, avec ses famines, ses especes eteintes et ses ecosystemes simplifies, lui a retire l'objet meme de son existence.
+
 #### Les Especes Magiques — Extinction et Adaptation
 
 Les especes directement dependantes du Lien pour leur survie disparaissent rapidement. Parmi elles :
@@ -395,6 +443,10 @@ Vers ~200-300 ap.A, les premiers **Guideurs d'Ames** — practicicens qui ne peu
 #### Le Silence des Dieux — Premiere Reaction
 
 Les premieres decennies de la Grande Nuit sont marquées par une crise religieuse sans precedent. L'Age du Lien avait developpe des religions sophistiquees avec des contacts reguliers, preuves, et reponses des entites. Le silence post-Arrachement est donc non pas une absence de foi mais une trahison percue.
+
+**Les cinq Eternels et leur retrait total**
+
+Les cinq Eternels — actifs tout au long des trois premieres eres, intervenants documentés dans les affaires des mortels, repondant aux prieres et aux rituels — se retirent dans un silence total apres l'Arrachement. Aucune manifestation, aucun signe, aucune intervention n'est documenté dans les sources post-An 0. Les theologiens debattent depuis trois millenaires : sommeil volontaire, affaiblissement cause par la rupture de la Trame, ou simple indifference envers un monde qu'ils jugent desormais irreparable. Les trois hypotheses ont leurs partisans, et aucune n'est refutable — le silence des Eternels etant par definition imperméable a toute verification empirique.
 
 Les reactions varient :
 - **Cultes de la Colere** (~10-100 ap.A) : "les dieux nous ont abandonnes deliberement". Certains se tournent vers des rituels propitiatoires agressifs, d'autres vers des theologies de vengeance ou il faut forcer les entites a repondre.
@@ -490,13 +542,13 @@ La Convention de Gryndor est un succes relatif. Elle etablit les bases d'une coe
 
 - Elle ne resout pas les disputes territoriales — elle les arbitre provisoirement. La Guerre des Frontieres de Galenor eclate ~200 ans apres la Convention.
 - Elle exclut deliberement Galenthis (successeur de l'Hegemonie d'Aethran), dont la participation aurait complique les negociations. Galenthis considere cela comme un affront permanent.
-- Elle ne traite pas la question des Tisses renaissants — qui detiennent le Lien, qui peut l'utiliser, qui le surveille. Cette omission deliberee est une bombe a retardement pour l'Ere des Nations.
+- Elle ne traite pas la question des Tisses renaissants — qui detient le Lien, qui peut l'utiliser, qui le surveille. Cette omission est deliberee : les delegues de Tharnok et Drahk'Nor refusent de negocier le statut d'individus dont l'existence meme est contestee politiquement. Les ~200-300 survivants du Fleau des Failles sont trop peu nombreux et trop disperses pour se faire entendre. La Convention les exclut de fait de tout cadre juridique — ni citoyens a part entiere, ni menace reconnue. Cette invisibilisation est une bombe a retardement pour l'Ere des Nations : quand la Remutation du Lien produit de nouveaux Lies en nombre croissant (~1 800-2 500 ap.A), aucun statut ni precedent ne les attend. La tension entre les nations heritant de la culture anti-Lien de la Grande Nuit et les nouveaux Lies cherchant une place dans le monde structurera les premiers siecles de l'Ere VI.
 
 #### Le Monde a la Fin de la Grande Nuit — Portrait
 
 En ~3 000 ap.A, au moment ou commence officiellement l'Ere des Nations, voici l'etat du monde :
 
-- **Population** : ~15-18 millions (reconstruite depuis 30 millions a l'Arrachement, decimée par le Fleau des Failles, lentement remontée)
+- **Population** : ~18 millions (effondrée depuis ~90M a l'Arrachement sur 3 000 ans de famines, guerres et Fleau des Failles, avec une legere remontee dans les derniers siecles de l'Ere)
 - **Grandes entités politiques** : Tharnok (~3 millions), Drahk'Nor (~8 millions a son apogee, en declin), Forgon (~1,5 millions, plus zone d'influence)
 - **Technologie** : pre-industrielle, mais avancée pour une civilization sans Lien. Metallurgie solide, agriculture rotative, medecine empirique fonctionnelle, navigation maritime competente.
 - **Culture** : diversifiée et isolee par region. 3 000 ans de separation ont cree des langues, des religions, et des cultures distinctes sur des territoires qui partageaient la meme civilisation a l'Age du Lien.

@@ -26,7 +26,7 @@ Les dates anterieures aux mortels (~45 000 av.A) sont des estimations — person
 | I — La Genese | -∞ → ~45 000 av.A | Millions d'annees | [Era1_Cosmiques.md](Chronologie/Era1_Cosmiques.md) · [Era1_Etheres_Panghor.md](Chronologie/Era1_Etheres_Panghor.md) |
 | II — L'Eveil des Mortels | ~45 000 → ~20 000 av.A | ~25 000 ans | [Era2_Berceaux.md](Chronologie/Era2_Berceaux.md) · [Era2_Gel_Reconstruction.md](Chronologie/Era2_Gel_Reconstruction.md) |
 | III — L'Age du Lien | ~20 000 → An 0 | ~20 000 ans | [Era3_Lien_Empires.md](Chronologie/Era3_Lien_Empires.md) · [Era3_Religions_Chute.md](Chronologie/Era3_Religions_Chute.md) |
-| IV — L'Arrachement | An 0 | Evenement ponctuel | [Era4_Arrachement.md](Chronologie/Era4_Arrachement.md) |
+| IV — L'Arrachement | An 0 (= 0 av.A / 0 ap.A) | Evenement ponctuel (~7 heures) | [Era4_Arrachement.md](Chronologie/Era4_Arrachement.md) |
 | V — La Grande Nuit | An 0 → ~3 000 ap.A | ~3 000 ans | [Era5_Grande_Nuit.md](Chronologie/Era5_Grande_Nuit.md) |
 | VI — L'Ere des Nations | ~3 000 → ~9 500 ap.A | ~6 500 ans | [Era6_Guerres_Nations.md](Chronologie/Era6_Guerres_Nations.md) |
 | VII — L'Ere Actuelle | ~9 500 → 10 200 ap.A | ~700 ans | [Era7_Monde_Actuel.md](Chronologie/Era7_Monde_Actuel.md) |
@@ -47,7 +47,7 @@ Les **12 Cosmiques** naissent en 4 phases (Fondamentaux, Dynamiques, Vivants, My
 
 ### Ere II — L'Eveil des Mortels
 
-Les **5 Berceaux** produisent les premiers peuples : Marcheurs de Cendre (Cendara — feu/forge), Enfants de la Roche (Alkaran — pierre/cavernes), Coureurs (Galenor — vent/nomadisme), Voix-sous-Bois (Celethor — foret/langage), Gens de l'Eau (Azoria — mer/navigation). Les proto-civilisations ne se connaissent pas et se croient seules au monde. Le **Grand Gel** (~30 000 av.A) elimine 80% de la population. La **Reconstruction** (~25 000 → ~20 000 av.A) melange les peuples, cree les cultures hybrides (Forgeurs-de-Roche, Cavaliers-des-Lizieres, Navigateurs-de-Sable…) et pose les bases de l'Ere III.
+Les **5 Berceaux** produisent les premiers peuples : Marcheurs de Cendre (Cendara/Onara — feu/forge), Enfants de la Roche (Alkaran — pierre/cavernes), Coureurs (Galenor — vent/nomadisme), Voix-sous-Bois / Ilthara (Celethor — foret/langage), Gens de l'Eau (Azoria — mer/navigation). Les proto-civilisations ne se connaissent pas et se croient seules au monde. Le **Grand Gel** (~30 000 av.A) elimine 73% de la population. La **Reconstruction** (~25 000 → ~20 000 av.A) melange les peuples, cree les cultures hybrides (Forgeurs-de-Roche, Cavaliers-des-Lizieres, Navigateurs-de-Sable…) et pose les bases de l'Ere III.
 → [Les 5 Berceaux](Chronologie/Era2_Berceaux.md) · [Grand Gel et Reconstruction](Chronologie/Era2_Gel_Reconstruction.md)
 
 ### Ere III — L'Age du Lien
@@ -57,12 +57,12 @@ Trois individus decouvrent le **Lien** independamment (~20 000 av.A) : **Orvane 
 
 ### Ere IV — L'Arrachement
 
-L'Etudiant sectionne son Noeud au **Mont Cendra** a l'aube de l'An 0. La vibration se propage en **7 heures** selon un axe rayonnant depuis Cendara. 7 cites volantes s'ecrasent. 200 portails ferment — des centaines de personnes disparaissent en transit. **Navoria** (400 000 habitants, capitale de la Thalassocratie) est engloutie en 3 jours. Population mondiale : 120M → ~110M dans les heures suivantes → ~30M sur 3 000 ans. Navigor disparait (ames sans guide), Eldoria s'endort (plus d'etoiles nouvelles), Tempora est blesse (Failles du Temps), Celestia et Noctis se desequilibrent.
+L'Etudiant sectionne son Noeud au **Mont Cendra** a l'aube de l'An 0. La vibration se propage en **7 heures** selon un axe rayonnant depuis Cendara. 7 cites volantes s'ecrasent. 200 portails ferment — des centaines de personnes disparaissent en transit. **Navoria** (400 000 habitants, capitale de la Thalassocratie) est engloutie en 3 jours. Population mondiale : 120M → ~90M en quelques annees (chute rapide due aux effondrements immédiats) → ~18M sur 3 000 ans (declin continu — famines, guerres, Fleau). Navigor disparait (ames sans guide), Eldoria s'endort (plus d'etoiles nouvelles), Tempora est blesse (Failles du Temps), Celestia et Noctis se desequilibrent.
 → [Detail](Chronologie/Era4_Arrachement.md)
 
 ### Ere V — La Grande Nuit
 
-3 000 ans de chaos. Famines (epidemie respiratoire : 8 millions de morts en 3 ans), guerres de predation, effondrement des structures imperiales. Trois royaumes intermediaires emergent : **Tharnok** (Alkaran — forteresse de pierre, archives gravees), **Forgon** (cotes Onara/Azoria — puissance maritime marchande), **Drahk'Nor** (Ilthara/Endora — armee professionnelle sans Lien). Le **Fleau des Failles** (~1 500 ap.A) — Failles de Tempora mobiles et epidemie mystique liee aux residus du Lien rompus — elimine 40% des survivants et quasi-eteint les **Tisses** (90 000 → ~200-300 individus, ancetres des Lies modernes). La **Convention de Gryndor** (~2 950 ap.A) marque symboliquement la fin de la Grande Nuit.
+3 000 ans de chaos. Famines (epidemie respiratoire : 8 millions de morts en 3 ans), guerres de predation, effondrement des structures imperiales. Trois royaumes intermediaires emergent : **Tharnok** (Alkaran — forteresse de pierre, archives gravees), **Forgon** (cotes Onara/Azoria — puissance maritime marchande), **Drahk'Nor** (Ilthara/Endora — armee professionnelle sans Lien). Le **Fleau des Failles** (~1 500 ap.A) — Failles de Tempora mobiles et epidemie mystique liee aux residus du Lien rompus — elimine 40% des survivants et quasi-eteint les **Tisses** (~200 000 an 50 ap.A → ~200-300 individus a la fin de l'ere, ancetres des Lies modernes). La **Convention de Gryndor** (~2 950 ap.A) marque symboliquement la fin de la Grande Nuit. Population mondiale a la fin de l'ere : ~18 millions.
 → [Detail](Chronologie/Era5_Grande_Nuit.md)
 
 ### Ere VI — L'Ere des Nations
@@ -82,7 +82,7 @@ Paix fragile sous le Traite des Treize Continents (700 ans sans guerre inter-eta
 | # | Nom | Date | Cause | Survivants |
 |---|-----|------|-------|------------|
 | 1 | **Le Grand Gel** | ~30 000 av.A | Cycle climatique long de Climata | ~20% de la population |
-| 2 | **L'Arrachement** | An 0 | Rupture du Lien cosmique — l'Etudiant au Mont Cendra | ~25% de la population (bilan sur 3 000 ans) |
+| 2 | **L'Arrachement** | An 0 → ~3 000 ap.A | Rupture du Lien cosmique — l'Etudiant au Mont Cendra | ~15% de la population (120M → ~18M sur 3 000 ans, declin progressif) |
 | 3 | **Le Fleau des Failles** *(dit aussi Fleau Silencieux)* | ~1 500 ap.A | Failles de Tempora mobiles + epidemie mystique liee aux residus du Lien | ~60% de survivants (~40% elimines) |
 
 ---
@@ -193,6 +193,47 @@ Entites de 3e rang issues des interactions entre Cosmiques. Specialisation extre
 
 ---
 
+## LES 13 CONTINENTS — LISTE CANONIQUE (L-05)
+
+*(Issus de la Fracture du Panghor, Ère I. Listés dans le Traité des Treize Continents, ~9 500 ap.A. Liste canonique complète : Era7_Monde_Actuel.md §Traité des Treize Continents)*
+
+| # | Continent | Berceau originel | Nations principales (Ère VII) | Notes |
+|---|-----------|-----------------|-------------------------------|-------|
+| 1 | **Galenor** | Berceau des Coureurs (vent/nomadisme) | Kharazir, Ventera, Seraphia, Tyndara, Solena, Lumasar | Cœur économique ; territoire de l'ancienne Hégémonie d'Aethran |
+| 2 | **Ilthara** | Berceau des Voix-sous-Bois / Ilthara | Drakora, Gryndor, Pyrtara | Ancien territoire de Drahk'Nor ; frontières contestées |
+| 3 | **Cendara** | Berceau des Marcheurs de Cendre (feu/forge) | Arkhen, Pyrevane | Siège du Mont Cendra ; mystère du Cœur de Cendra |
+| 4 | **Onara** | *(lié à Cendara originellement)* | Mosrack, Myrtam, Elarath, Azoral, Kethvar, Solmaris | Puissance maritime ; parfois regroupé avec Azoria |
+| 5 | **Alkaran** | Berceau des Enfants de la Roche (pierre/cavernes) | Altram, Iskara, Ferrath | Ressources minières ; héritage de l'Empire de Lithane |
+| 6 | **Endora** | — | Haldria, Avalor, Sanvara, Endrath | Territoire de l'ancien Saint-Empire d'Endara |
+| 7 | **Evertia** | — | Thalmaris, Sylvara | Forets conscientes ; esprits-lieux silencieux depuis ~10 130 |
+| 8 | **Celethor** | Berceau des Voix-sous-Bois (foret/langage) | Astravia, Caeloria, Orvalis, Halcyon | Héritage du Sanctuaire d'Orivane ; centres intellectuels |
+| 9 | **Nysaria** | — | Vytharia, Lunasar, Mirathi | Source du Message de Mirathi (~10 064) |
+| 10 | **Azoria** | Berceau des Gens de l'Eau (mer/navigation) | Azoral, Kethvar, Solmaris *(chevauchement avec Onara)* | Puissance maritime ; voir aussi Onara |
+| 11 | **Baelor** | — | Baelor-Prime | Cité-état insulaire isolationniste |
+| 12 | **Ulinor** | — | Skaldoria, Torkam, Dhalvoria | Peuples nomades ; concept de frontière non reconnu par Skaldoria |
+| 13 | **Cestra** | — | Noravia *(seule colonie stable, ~8 100 ap.A)* | 13e continent ; territoire quasi-inexploré ; anomalies du Lien |
+
+> **Note :** La liste canonique complète des 13 continents signataires est établie par le Traité des Treize Continents (~9 500 ap.A) : Cendara, Onara, Endora, Evertia, Cestra, Baelor, Nysaria, Ulinor, Azoria, Alkaran, Galenor, Celethor, Ilthara. Les frontières géographiques entre Onara et Azoria sont disputées dans les sources — certaines cartographies les fusionnent, le Traité les distingue.
+
+---
+
+## DEMOGRAPHIE CANONIQUE
+
+*(Decision DAR-03 = C — chute partielle rapide post-Arrachement, puis declin continu sur ~3 000 ans)*
+
+| Moment | Population mondiale | Tisses / Lies |
+|--------|---------------------|---------------|
+| Pic Age du Lien (~1 000 av.A) | ~120 millions | ~360 000 (0,3%) |
+| An 0 immediat (post-Arrachement, quelques annees) | ~90 millions | ~270 000 (0,3%) |
+| An ~50 ap.A | ~70 millions | ~200 000 |
+| Fin Ere V (~3 000 ap.A) | ~18 millions | ~200-300 (post-Fleau des Failles) |
+| Debut Ere VI (~3 000 ap.A) | ~8 millions | ~500 |
+| Ere VII actuelle (~10 200 ap.A) | a preciser | ~30% de Lies dans la population |
+
+> La chute initiale (120M → 90M) est rapide — quelques annees — due aux effondrements immédiats (cites volantes, Navoria, portails). Le declin de 90M → 18M est continu sur ~3 000 ans (famines, guerres, Fleau des Failles). Le saut 18M → 8M entre fin Ere V et debut Ere VI reflète le bilan des dernières décennies de chaos avant la Convention de Gryndor.
+
+---
+
 ## NOTES
 
 - Ce document est l'index principal — les details sont dans les sous-fichiers [Chronologie/](Chronologie/)
@@ -201,4 +242,4 @@ Entites de 3e rang issues des interactions entre Cosmiques. Specialisation extre
 - Les noms de pays changent au fil des conquetes, regimes, dynasties — une meme ligne sur la frise = meme territoire, couleurs differentes selon le regime
 - "Lumasar" designe a la fois une cite academique ancienne (Ere III) et une nation moderne (fondee ~7 500 ap.A)
 - "Galenthis" est le successeur post-Arrachement de l'Hegemonie d'Aethran sur le territoire de Galenor
-- **Incoherence a resoudre :** le Cercle des Huit porte deux jeux de noms differents selon les fichiers — les noms canoniques sont ceux de [Era3_Religions_Chute.md](Chronologie/Era3_Religions_Chute.md) (Sera, Drakhan, Mirathis, Vorath, Aelindra, Thessan, Kayara, Iveth) ; [Era4_Arrachement.md](Chronologie/Era4_Arrachement.md) utilise des noms differents (Serna Veld, Orath Koss, etc.) a reconcilier
+- Les noms canoniques du Cercle des Huit sont ceux de [Era3_Religions_Chute.md](Chronologie/Era3_Religions_Chute.md) (Sera, Drakhan, Mirathis, Vorath, Aelindra, Thessan, Kayara, Iveth) — Era3 est la reference

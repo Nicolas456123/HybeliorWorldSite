@@ -115,6 +115,18 @@ Les Etheres sont souvent decrits comme des "dieux mineurs" dans les traditions r
 
 ---
 
+> **Note — Les 45 Éthérés et les 20 non détaillés**
+> Les sources anciennes évoquent environ 45 Éthérés au total. Les 20 non détaillés ici sont des entités mineures, nées des unions secondaires entre Cosmiques, dont l'influence sur le monde mortel est restée négligeable. Certains n'ont peut-être existé que brièvement avant de se fondre dans les flux élémentaires de leurs parents.
+>
+> Parmi ces entités mineures se trouvent notamment :
+> - **Verdis** *(domaine probable : végétation basse, mousses, lichens — lien avec Arborius)* — présence diffuse sur les terres tempérées, aucune interaction mortelle documentée
+> - **Sanavir** *(domaine probable : eaux guérisseuses, sources minérales — lien avec Aquor)* — certaines sources thermales d'Evertia lui sont peut-être attribuables, mais Geysar en revendique la plupart
+> - **Pathis** *(domaine probable : chemins, routes naturelles, cols de montagne — lien avec Terranu et Aerion)* — son influence expliquerait pourquoi certains cols montagneux "s'ouvrent" intuitivement aux voyageurs
+> - **Memoria** *(domaine probable : échos, résonances du passé — lien avec Somnix et Terranu)* — les grottes qui "parlent" du passé à ceux qui y méditent sont peut-être son œuvre plutôt que celle de Selvara
+> - **Obscuris** *(domaine probable : ombres, zones de pénombre permanente — lien avec Noctis et Terranu)* — distinct d'Abyssus (qui est lié aux fonds marins) ; Obscuris serait l'entité des ombres terrestres et des forêts sans lumière
+
+---
+
 #### Notes sur les Etheres
 
 - Les 20 Etheres restants (non encore nommes dans le lore) correspondent a des domaines comme : le sel marin, la neige, le verglas, la foudre sous-marine, les sources d'eau douce, les cavernes calcaires, les landes, les plaines de lave solidifiee, les forets de sel, les marecages acides, etc.
