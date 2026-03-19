@@ -438,66 +438,67 @@ function initMap() {
         // 2. Compute monotonic effective ranges for the slider
         computeEffectiveRanges();
 
-        // 3. Construire la structure plate des continents depuis les données imbriquées
-        const allNord = ['Alkaran', 'Celethor', 'Galenor', 'Ilthara', 'Cestra'];
-        const allSud = ['Onara', 'Endora', 'Azoria', 'Cendara', 'Evertia'];
-
-        if (!timelineData.continents || timelineData.continents.length === 0) {
-            const continentMap = {}; // currentName → { eraNames: { eraId: historicalName } }
-            timelineData.eras.forEach((era, eraArrayIdx) => {
+        // 3. Construire la structure plate des continents
+        // Priorité : utiliser continentTimelines (year-based) si disponible
+        if (timelineData.continentTimelines && timelineData.continentTimelines.length > 0) {
+            timelineData.continents = timelineData.continentTimelines.map(ct => ({
+                currentName: ct.currentName,
+                yearRanges: (ct.timeline || [])
+                    .filter(e => e.startYear !== undefined && e.endYear !== undefined)
+                    .map(e => ({
+                        startYear: e.startYear,
+                        endYear: e.endYear,
+                        name: e.name || ct.currentName
+                    }))
+                    .sort((a, b) => a.startYear - b.startYear)
+            }));
+            console.log('Built continent map from continentTimelines:', timelineData.continents.map(c => c.currentName));
+        }
+        // Fallback : construire depuis les données imbriquées par ère
+        else if (!timelineData.continents || timelineData.continents.length === 0) {
+            const allNord = ['Alkaran', 'Celethor', 'Galenor', 'Ilthara', 'Cestra'];
+            const allSud = ['Onara', 'Endora', 'Azoria', 'Cendara', 'Evertia'];
+            const continentMap = {};
+            timelineData.eras.forEach((era) => {
                 if (!era.continents) return;
-                // First pass: add individual continent entries
                 era.continents.forEach(c => {
                     const names = c.currentName.split('+').map(n => n.trim());
                     names.forEach(name => {
                         if (name === 'ALL' || name === 'ALL_NORD' || name === 'ALL_SUD') return;
-                        if (!continentMap[name]) {
-                            continentMap[name] = { currentName: name, eraNames: {} };
-                        }
+                        if (!continentMap[name]) continentMap[name] = { currentName: name, eraNames: {} };
                         continentMap[name].eraNames[era.id] = c.historicalName;
                     });
                 });
-                // Second pass: apply ALL, ALL_NORD, ALL_SUD
                 era.continents.forEach(c => {
                     let targetNames = [];
-                    if (c.currentName === 'ALL') {
-                        targetNames = Object.keys(continentMap);
-                    } else if (c.currentName === 'ALL_NORD') {
-                        targetNames = allNord;
-                    } else if (c.currentName === 'ALL_SUD') {
-                        targetNames = allSud;
-                    }
+                    if (c.currentName === 'ALL') targetNames = Object.keys(continentMap);
+                    else if (c.currentName === 'ALL_NORD') targetNames = allNord;
+                    else if (c.currentName === 'ALL_SUD') targetNames = allSud;
                     targetNames.forEach(name => {
-                        if (!continentMap[name]) {
-                            continentMap[name] = { currentName: name, eraNames: {} };
-                        }
-                        if (!continentMap[name].eraNames[era.id]) {
-                            continentMap[name].eraNames[era.id] = c.historicalName;
-                        }
+                        if (!continentMap[name]) continentMap[name] = { currentName: name, eraNames: {} };
+                        if (!continentMap[name].eraNames[era.id]) continentMap[name].eraNames[era.id] = c.historicalName;
                     });
                 });
             });
-            timelineData.continents = Object.values(continentMap);
-
-            // Build yearRanges for each continent (using ORIGINAL era ranges for historical accuracy)
-            timelineData.continents.forEach(c => {
-                c.yearRanges = [];
-                Object.keys(c.eraNames).forEach(eraId => {
-                    const eraIdx = timelineData.eras.findIndex(e => e.id === eraId);
-                    if (eraIdx >= 0) {
-                        const era = timelineData.eras[eraIdx];
-                        c.yearRanges.push({
-                            startYear: era.startYear,
-                            endYear: era.endYear,
-                            name: c.eraNames[eraId],
-                            priority: eraIdx // higher = more specific
-                        });
+            // Build year ranges from effective ranges (contiguous, no gaps)
+            timelineData.continents = Object.values(continentMap).map(c => {
+                const yearRanges = [];
+                let lastKnownName = c.currentName;
+                timelineData.eras.forEach((era, eraIdx) => {
+                    const eff = effectiveRanges[eraIdx];
+                    if (!eff) return;
+                    const name = c.eraNames[era.id] || lastKnownName;
+                    lastKnownName = name;
+                    const prev = yearRanges[yearRanges.length - 1];
+                    if (prev && prev.name === name) {
+                        prev.endYear = eff.end;
+                    } else {
+                        yearRanges.push({ startYear: eff.start, endYear: eff.end, name });
                     }
                 });
-                c.yearRanges.sort((a, b) => a.priority - b.priority);
+                return { currentName: c.currentName, yearRanges };
             });
-
-            console.log('Built continent map:', timelineData.continents.map(c => c.currentName));
+            console.log('Built continent map (fallback):', timelineData.continents.map(c => c.currentName));
         }
 
         // 4. Construire la structure plate des pays avec rawTimeline pour lookup par année
@@ -699,32 +700,19 @@ function initMap() {
 
     // ===== SYSTEME TEMPOREL PRINCIPAL (YEAR-BASED) =====
 
-    // Lookup nom de continent pour une année donnée
+    // Lookup nom de continent pour une année donnée (yearRanges triées et contiguës)
     function getContinentNameForYear(continentDef, year) {
         if (!continentDef.yearRanges || continentDef.yearRanges.length === 0) {
             return continentDef.currentName;
         }
-        // Exact match: year falls within range, highest priority wins
-        let bestMatch = null;
         for (const range of continentDef.yearRanges) {
             if (year >= range.startYear && year <= range.endYear) {
-                if (!bestMatch || range.priority > bestMatch.priority) {
-                    bestMatch = range;
-                }
+                return range.name;
             }
         }
-        if (bestMatch) return bestMatch.name;
-
-        // No exact match: find most recent range that started before year (highest priority)
-        let lastBefore = null;
-        for (const range of continentDef.yearRanges) {
-            if (range.endYear <= year) {
-                if (!lastBefore || range.priority > lastBefore.priority) {
-                    lastBefore = range;
-                }
-            }
-        }
-        return lastBefore ? lastBefore.name : continentDef.currentName;
+        // Fallback: last range or current name
+        const last = continentDef.yearRanges[continentDef.yearRanges.length - 1];
+        return (last && year > last.endYear) ? last.name : continentDef.currentName;
     }
 
     // Lookup info pays pour une année donnée

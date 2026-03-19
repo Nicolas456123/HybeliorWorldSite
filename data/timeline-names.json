@@ -807,6 +807,173 @@
         ]
       }
     ],
+    "continentTimelines": [
+      {
+        "currentName": "Alkaran",
+        "timeline": [
+          { "name": "Panghor", "startYear": -999999, "endYear": -950000 },
+          { "name": "Panghor-Ven", "startYear": -950000, "endYear": -600000 },
+          { "name": "Alkar-Dun", "startYear": -600000, "endYear": -45000 },
+          { "name": "Alkrath-Vun", "startYear": -45000, "endYear": -30000 },
+          { "name": "Alkar-Krath", "startYear": -30000, "endYear": -20000 },
+          { "name": "Alkarath", "startYear": -20000, "endYear": 0 },
+          { "name": "Tharnak-Reth", "startYear": 0, "endYear": 3000 },
+          { "name": "Alkarath-Reth", "startYear": 3000, "endYear": 9500 },
+          { "name": "Alkaran", "startYear": 9500, "endYear": 10200 }
+        ]
+      },
+      {
+        "currentName": "Azoria",
+        "timeline": [
+          { "name": "Panghor", "startYear": -999999, "endYear": -950000 },
+          { "name": "Panghor-Dra", "startYear": -950000, "endYear": -600000 },
+          { "name": "Coralith", "startYear": -600000, "endYear": -45000 },
+          { "name": "Aquen-Ith", "startYear": -45000, "endYear": -30000 },
+          { "name": "Aquen-Ithvar", "startYear": -30000, "endYear": -20000 },
+          { "name": "Azorath", "startYear": -20000, "endYear": 0 },
+          { "name": "Forgon-Ith", "startYear": 0, "endYear": 3600 },
+          { "name": "Azoria", "startYear": 3600, "endYear": 10200 }
+        ]
+      },
+      {
+        "currentName": "Baelor",
+        "timeline": [
+          { "name": "Panghor", "startYear": -999999, "endYear": -950000 },
+          { "name": "Keth-Isvar", "startYear": -950000, "endYear": -30000 },
+          { "name": "Keth-Vel", "startYear": -30000, "endYear": -20000 },
+          { "name": "Baelorn", "startYear": -20000, "endYear": 3000 },
+          { "name": "Baelor", "startYear": 3000, "endYear": 10200 }
+        ]
+      },
+      {
+        "currentName": "Celethor",
+        "timeline": [
+          { "name": "Panghor", "startYear": -999999, "endYear": -950000 },
+          { "name": "Panghor-Ven", "startYear": -950000, "endYear": -600000 },
+          { "name": "Nebulveth", "startYear": -600000, "endYear": -45000 },
+          { "name": "Sylveth-Mur", "startYear": -45000, "endYear": -30000 },
+          { "name": "Sylveth-Rath", "startYear": -30000, "endYear": -20000 },
+          { "name": "Celith", "startYear": -20000, "endYear": 0 },
+          { "name": "Celith-Veth", "startYear": 0, "endYear": 3500 },
+          { "name": "Celethor", "startYear": 3500, "endYear": 10200 }
+        ]
+      },
+      {
+        "currentName": "Cendara",
+        "timeline": [
+          { "name": "Panghor", "startYear": -999999, "endYear": -950000 },
+          { "name": "Panghor-Dra", "startYear": -950000, "endYear": -600000 },
+          { "name": "Embravast", "startYear": -600000, "endYear": -100000 },
+          { "name": "Embrath", "startYear": -100000, "endYear": -45000 },
+          { "name": "Kalvar-Drath", "startYear": -45000, "endYear": -30000 },
+          { "name": "Kalvar-Ven", "startYear": -30000, "endYear": -20000 },
+          { "name": "Pyrevaste", "startYear": -20000, "endYear": 0 },
+          { "name": "Pyrevane-Krath", "startYear": 0, "endYear": 3200 },
+          { "name": "Cendara", "startYear": 3200, "endYear": 10200 }
+        ]
+      },
+      {
+        "currentName": "Cestra",
+        "timeline": [
+          { "name": "Panghor", "startYear": -999999, "endYear": -950000 },
+          { "name": "Panghor-Ven", "startYear": -950000, "endYear": -600000 },
+          { "name": "Glaciven", "startYear": -600000, "endYear": -45000 },
+          { "name": "Glaciven-Morth", "startYear": -45000, "endYear": -30000 },
+          { "name": "Glaciven-Dun", "startYear": -30000, "endYear": -20000 },
+          { "name": "Cestravar", "startYear": -20000, "endYear": 8100 },
+          { "name": "Cestra", "startYear": 8100, "endYear": 10200 }
+        ]
+      },
+      {
+        "currentName": "Endora",
+        "timeline": [
+          { "name": "Panghor", "startYear": -999999, "endYear": -950000 },
+          { "name": "Panghor-Dra", "startYear": -950000, "endYear": -600000 },
+          { "name": "Mirevan", "startYear": -600000, "endYear": -45000 },
+          { "name": "Mirevan-Sel", "startYear": -45000, "endYear": -30000 },
+          { "name": "Mirevan-Thal", "startYear": -30000, "endYear": -20000 },
+          { "name": "Endarion", "startYear": -20000, "endYear": 0 },
+          { "name": "Drahk-Sel", "startYear": 0, "endYear": 4800 },
+          { "name": "Endora", "startYear": 4800, "endYear": 10200 }
+        ]
+      },
+      {
+        "currentName": "Evertia",
+        "timeline": [
+          { "name": "Panghor", "startYear": -999999, "endYear": -950000 },
+          { "name": "Panghor-Dra", "startYear": -950000, "endYear": -600000 },
+          { "name": "Embravast", "startYear": -600000, "endYear": -100000 },
+          { "name": "Geysvast", "startYear": -100000, "endYear": -45000 },
+          { "name": "Geysvast-Therm", "startYear": -45000, "endYear": -30000 },
+          { "name": "Geysvast-Vel", "startYear": -30000, "endYear": -20000 },
+          { "name": "Everthor", "startYear": -20000, "endYear": 0 },
+          { "name": "Evertia-Morth", "startYear": 0, "endYear": 3100 },
+          { "name": "Evertia", "startYear": 3100, "endYear": 10200 }
+        ]
+      },
+      {
+        "currentName": "Galenor",
+        "timeline": [
+          { "name": "Panghor", "startYear": -999999, "endYear": -950000 },
+          { "name": "Panghor-Ven", "startYear": -950000, "endYear": -600000 },
+          { "name": "Galen-Rath", "startYear": -600000, "endYear": -45000 },
+          { "name": "Galennoth", "startYear": -45000, "endYear": -30000 },
+          { "name": "Galennoth-Veth", "startYear": -30000, "endYear": -20000 },
+          { "name": "Aethran", "startYear": -20000, "endYear": 0 },
+          { "name": "Galenthis", "startYear": 0, "endYear": 3500 },
+          { "name": "Galenor", "startYear": 3500, "endYear": 10200 }
+        ]
+      },
+      {
+        "currentName": "Ilthara",
+        "timeline": [
+          { "name": "Panghor", "startYear": -999999, "endYear": -950000 },
+          { "name": "Panghor-Ven", "startYear": -950000, "endYear": -600000 },
+          { "name": "Foudrath", "startYear": -600000, "endYear": -45000 },
+          { "name": "Sylveth-Foud", "startYear": -45000, "endYear": -30000 },
+          { "name": "Sylveth-Krath", "startYear": -30000, "endYear": -20000 },
+          { "name": "Ithalorn", "startYear": -20000, "endYear": 0 },
+          { "name": "Drahk'Nor", "startYear": 0, "endYear": 4800 },
+          { "name": "Ilthara", "startYear": 4800, "endYear": 10200 }
+        ]
+      },
+      {
+        "currentName": "Nysaria",
+        "timeline": [
+          { "name": "Panghor", "startYear": -999999, "endYear": -950000 },
+          { "name": "Gorenth", "startYear": -950000, "endYear": -45000 },
+          { "name": "Gorenth-Chal", "startYear": -45000, "endYear": -30000 },
+          { "name": "Gorenth-Vel", "startYear": -30000, "endYear": -20000 },
+          { "name": "Nysarith", "startYear": -20000, "endYear": 0 },
+          { "name": "Nysarith-Veth", "startYear": 0, "endYear": 3800 },
+          { "name": "Nysaria", "startYear": 3800, "endYear": 10200 }
+        ]
+      },
+      {
+        "currentName": "Onara",
+        "timeline": [
+          { "name": "Panghor", "startYear": -999999, "endYear": -950000 },
+          { "name": "Panghor-Dra", "startYear": -950000, "endYear": -600000 },
+          { "name": "Silthar-Dra", "startYear": -600000, "endYear": -45000 },
+          { "name": "Silthar-Ven", "startYear": -45000, "endYear": -30000 },
+          { "name": "Silthar-Krath", "startYear": -30000, "endYear": -20000 },
+          { "name": "Onarith", "startYear": -20000, "endYear": 0 },
+          { "name": "Forgon-Reth", "startYear": 0, "endYear": 4300 },
+          { "name": "Onara", "startYear": 4300, "endYear": 10200 }
+        ]
+      },
+      {
+        "currentName": "Ulinor",
+        "timeline": [
+          { "name": "Panghor", "startYear": -999999, "endYear": -950000 },
+          { "name": "Selvar-Enth", "startYear": -950000, "endYear": -30000 },
+          { "name": "Selvar-Vel", "startYear": -30000, "endYear": -20000 },
+          { "name": "Ulnavar", "startYear": -20000, "endYear": 0 },
+          { "name": "Ulnavar-Morth", "startYear": 0, "endYear": 3800 },
+          { "name": "Ulinor", "startYear": 3800, "endYear": 10200 }
+        ]
+      }
+    ],
     "countries": [
       {
         "currentName": "Altram",
