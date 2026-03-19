@@ -166,37 +166,106 @@ function initMap() {
         };
     }
 
+    // Variable pour l'année courante affichée
+    let currentDisplayYear = 10200;
+
     function initTimeline() {
-        // Initialiser le slider avec les ères (sera mis à jour après chargement des données)
         const timeline = document.getElementById('timeline');
         if (!timeline) return;
 
-        // Configurer le slider pour 11 positions (indices 0-10)
         timeline.min = 0;
         timeline.max = 10;
-        timeline.value = 10; // Ere VII Actuelle par défaut
+        timeline.value = 10;
         timeline.step = 1;
 
-        // Gestionnaire du slider
+        // Slider d'ères
         timeline.addEventListener('input', function() {
             const idx = parseInt(this.value, 10);
             if (timelineData && timelineData.eras && timelineData.eras[idx]) {
                 const era = timelineData.eras[idx];
                 updateMapForEra(era.id);
+                // Positionner l'année au début de l'ère
+                currentDisplayYear = era.startYear || 0;
+                updateYearDisplay();
             }
-            // Mettre à jour la progression visuelle du track
             updateSliderTrack(this);
             if (window.updateBorders) window.updateBorders();
         });
 
-        // Bouton play/pause
-        const playBtn = document.getElementById('timelinePlayBtn');
-        if (playBtn) {
-            playBtn.addEventListener('click', toggleTimelinePlay);
+        // Boutons de navigation par année
+        document.querySelectorAll('.tl-year-btn').forEach(btn => {
+            btn.addEventListener('click', function() {
+                const delta = parseInt(this.getAttribute('data-delta'));
+                stepYears(delta);
+            });
+        });
+
+        // Toggle collapse
+        const toggleBtn = document.getElementById('timelineToggleBtn');
+        const header = document.getElementById('timelineHeader');
+        if (toggleBtn) {
+            toggleBtn.addEventListener('click', function(e) {
+                e.stopPropagation();
+                document.getElementById('timelineContainer').classList.toggle('collapsed');
+            });
+        }
+        if (header) {
+            header.addEventListener('click', function() {
+                document.getElementById('timelineContainer').classList.toggle('collapsed');
+            });
         }
 
-        // Affichage initial (sera mis à jour une fois les données chargées)
+        // Keyboard shortcuts
+        document.addEventListener('keydown', function(e) {
+            if (e.target.tagName === 'INPUT' || e.target.tagName === 'SELECT' || e.target.tagName === 'TEXTAREA') return;
+            if (e.key === 'ArrowLeft') { e.preventDefault(); stepYears(-100); }
+            else if (e.key === 'ArrowRight') { e.preventDefault(); stepYears(100); }
+        });
+
         updateTimelineDisplay(10);
+    }
+
+    function stepYears(delta) {
+        if (!timelineData || !timelineData.eras) return;
+
+        currentDisplayYear += delta;
+
+        // Bornes min/max du monde
+        const minYear = timelineData.eras[0].startYear || -999999;
+        const maxYear = timelineData.eras[timelineData.eras.length - 1].endYear || 10200;
+        currentDisplayYear = Math.max(minYear, Math.min(maxYear, currentDisplayYear));
+
+        // Trouver l'ère correspondante à cette année
+        let matchedIdx = timelineData.eras.length - 1;
+        for (let i = 0; i < timelineData.eras.length; i++) {
+            const era = timelineData.eras[i];
+            if (currentDisplayYear >= (era.startYear || -Infinity) && currentDisplayYear < (era.endYear || Infinity)) {
+                matchedIdx = i;
+                break;
+            }
+        }
+
+        // Mettre à jour le slider d'ères
+        const timeline = document.getElementById('timeline');
+        if (timeline && parseInt(timeline.value) !== matchedIdx) {
+            timeline.value = matchedIdx;
+            updateSliderTrack(timeline);
+        }
+
+        // Mettre à jour la carte pour cette ère
+        updateMapForEra(timelineData.eras[matchedIdx].id);
+        updateYearDisplay();
+        if (window.updateBorders) window.updateBorders();
+    }
+
+    function updateYearDisplay() {
+        const yearEl = document.getElementById('timelineCurrentYear');
+        const suffixEl = document.getElementById('timelineYearSuffix');
+        if (!yearEl) return;
+
+        const abs = Math.abs(currentDisplayYear);
+        yearEl.textContent = abs.toLocaleString('fr-FR');
+        if (suffixEl) suffixEl.textContent = currentDisplayYear < 0 ? 'av.A' : 'ap.A';
     }
 
     function loadTimelineData() {
@@ -222,13 +291,105 @@ function initMap() {
             .then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
             .then(data => {
                 timelineData = data.timelineData;
-                console.log('Timeline data loaded from file:', timelineData.eras.length, 'eras');
+                normalizeTimelineData();
+                console.log('Timeline data loaded from file:', timelineData.eras.length, 'eras,', (timelineData.continents||[]).length, 'continents,', (timelineData.countries||[]).length, 'countries');
                 initTimelineUI();
             })
             .catch(err => {
                 console.warn('No timeline data available, using legacy mode:', err);
                 updateTimelineLegacy();
             });
+    }
+
+    function normalizeTimelineData() {
+        if (!timelineData || !timelineData.eras) return;
+
+        // 1. Normaliser les champs des ères
+        timelineData.eras.forEach(era => {
+            if (!era.label && era.name) era.label = era.name;
+            if (!era.date) era.date = formatEraDate(era.startYear, era.endYear);
+        });
+
+        // 2. Construire la structure plate des continents depuis les données imbriquées
+        if (!timelineData.continents || timelineData.continents.length === 0) {
+            const continentMap = {}; // currentName → { eraNames: { eraId: historicalName } }
+            timelineData.eras.forEach(era => {
+                if (!era.continents) return;
+                era.continents.forEach(c => {
+                    // Gérer "Cendara+Evertia" → deux entrées
+                    const names = c.currentName.split('+').map(n => n.trim());
+                    names.forEach(name => {
+                        if (name === 'ALL') return; // Panghor = supercontinent, pas un continent actuel
+                        if (!continentMap[name]) {
+                            continentMap[name] = { currentName: name, eraNames: {} };
+                        }
+                        // Si c'est "ALL" (Panghor), appliquer à tous les continents connus
+                        continentMap[name].eraNames[era.id] = c.historicalName;
+                    });
+                });
+                // Pour les continents de type Panghor (ALL), l'appliquer à tous
+                era.continents.forEach(c => {
+                    if (c.currentName === 'ALL') {
+                        Object.keys(continentMap).forEach(name => {
+                            if (!continentMap[name].eraNames[era.id]) {
+                                continentMap[name].eraNames[era.id] = c.historicalName;
+                            }
+                        });
+                    }
+                });
+            });
+            timelineData.continents = Object.values(continentMap);
+            console.log('Built continent map:', timelineData.continents.map(c => c.currentName));
+        }
+
+        // 3. Construire la structure plate des pays depuis le tableau countries du JSON
+        if (timelineData.countries && timelineData.countries.length > 0 && !timelineData.countries[0].existsInEras) {
+            const rawCountries = timelineData.countries;
+            timelineData.countries = rawCountries
+                .filter(country => country.currentName) // ignorer les entrées sans nom
+                .map(country => {
+                    const name = country.currentName;
+                    const existsInEras = [];
+                    const eraNames = {};
+                    const predecessors = {};
+
+                    if (country.timeline) {
+                        country.timeline.forEach(entry => {
+                            if (!entry.era) return;
+                            const eraId = entry.era;
+                            if (entry.name === name) {
+                                if (!existsInEras.includes(eraId)) existsInEras.push(eraId);
+                                eraNames[eraId] = name;
+                            } else {
+                                predecessors[eraId] = entry.name;
+                            }
+                        });
+                    }
+
+                    return {
+                        name: name,
+                        continent: country.continent,
+                        existsInEras: existsInEras,
+                        vanishedInEras: [],
+                        predecessors: predecessors,
+                        eraNames: eraNames
+                    };
+                });
+            console.log('Built country map:', timelineData.countries.length, 'countries');
+        }
+    }
+
+    function formatEraDate(startYear, endYear) {
+        function fmtYear(y) {
+            if (y === undefined || y === null) return '?';
+            const abs = Math.abs(y);
+            const formatted = abs.toLocaleString('fr-FR');
+            return '~' + formatted + (y < 0 ? ' av.A' : ' ap.A');
+        }
+        if (startYear !== undefined && endYear !== undefined) {
+            return fmtYear(startYear) + ' → ' + fmtYear(endYear);
+        }
+        return fmtYear(startYear || endYear);
     }
 
     function initTimelineUI() {
@@ -238,9 +399,13 @@ function initMap() {
             timeline.max = maxIdx;
             timeline.value = maxIdx;
         }
+        // Initialiser l'année courante à la fin de la dernière ère
+        currentDisplayYear = timelineData.eras[maxIdx].endYear || 10200;
         updateTimelineDisplay(maxIdx);
         buildTimelineMarkers();
+        buildTimelineLabels();
         if (timeline) updateSliderTrack(timeline);
+        updateYearDisplay();
         updateMapForEra(timelineData.eras[maxIdx].id);
     }
 
@@ -277,11 +442,12 @@ function initMap() {
 
         if (timelineData && timelineData.eras && timelineData.eras[idx]) {
             const era = timelineData.eras[idx];
-            if (eraNameEl) eraNameEl.textContent = era.label;
-            if (eraDateEl) eraDateEl.textContent = era.date;
+            // Extraire le nom sans les dates entre parenthèses ex: "(~9 500 → ~10 200 ap.A)"
+            let cleanName = (era.label || era.name || '').replace(/\s*\([^)]*\d[^)]*\)\s*/g, '').trim();
+            if (eraNameEl) eraNameEl.textContent = cleanName;
+            if (eraDateEl) eraDateEl.textContent = era.date || '';
         } else {
-            // Fallback avant chargement
-            if (eraNameEl) eraNameEl.textContent = 'Ere VII — Actuelle';
+            if (eraNameEl) eraNameEl.textContent = 'Ère VII — Actuelle';
             if (eraDateEl) eraDateEl.textContent = '~10 200 ap.A';
         }
     }
@@ -295,9 +461,8 @@ function initMap() {
             const marker = document.createElement('div');
             marker.className = 'timeline-marker';
             marker.setAttribute('data-idx', idx);
-            marker.setAttribute('title', era.label + '\n' + era.date);
+            marker.setAttribute('title', (era.label || '') + '\n' + (era.date || ''));
 
-            // Petit label court sous le marqueur
             const tick = document.createElement('div');
             tick.className = 'timeline-tick';
             marker.appendChild(tick);
@@ -312,7 +477,67 @@ function initMap() {
 
             markersContainer.appendChild(marker);
         });
-        updateTimelineMarkerActive(10);
+        updateTimelineMarkerActive(timelineData.eras.length - 1);
+    }
+
+    function buildTimelineLabels() {
+        const labelsRow = document.getElementById('timelineLabelsRow');
+        if (!labelsRow || !timelineData) return;
+
+        labelsRow.innerHTML = '';
+        timelineData.eras.forEach((era, idx) => {
+            const label = document.createElement('div');
+            label.className = 'tl-label';
+            // Extraire un label court (numéro d'ère ou abréviation)
+            const shortLabel = extractShortEraLabel(era.label, era.id);
+            label.textContent = shortLabel;
+            label.setAttribute('data-idx', idx);
+
+            label.addEventListener('click', function() {
+                const timeline = document.getElementById('timeline');
+                if (timeline) {
+                    timeline.value = idx;
+                    timeline.dispatchEvent(new Event('input'));
+                }
+            });
+
+            labelsRow.appendChild(label);
+        });
+        updateTimelineLabelsActive(timelineData.eras.length - 1);
+    }
+
+    function extractShortEraLabel(label, eraId) {
+        // Utiliser l'id pour des labels courts distincts
+        if (eraId) {
+            const idLabels = {
+                'era1_panghor': 'I·P',
+                'era1_fracture1': 'I·F1',
+                'era1_fracture2': 'I·F2',
+                'era1_fracture3': 'I·F3',
+                'era2_berceaux': 'II·B',
+                'era2_gel_reconstruction': 'II·G',
+                'era3_lien_empires': 'III',
+                'era5_grande_nuit': 'V',
+                'era6_nations': 'VI',
+                'era7_actuelle': 'VII'
+            };
+            if (idLabels[eraId]) return idLabels[eraId];
+        }
+        // Fallback sur le label textuel
+        if (!label) return '?';
+        const fMatch = label.match(/Fracture\s*(\d)/i);
+        if (fMatch) return 'I·F' + fMatch[1];
+        const match = label.match(/[ÈEe]re\s+([\dIVXLCDM]+)/i);
+        if (match) return match[1];
+        return label.substring(0, 4);
+    }
+
+    function updateTimelineLabelsActive(idx) {
+        const labels = document.querySelectorAll('.tl-label');
+        labels.forEach((l, i) => {
+            l.classList.toggle('active', i === idx);
+            l.classList.toggle('past', i < idx);
+        });
     }
 
     function updateTimelineMarkerActive(idx) {
@@ -321,6 +546,7 @@ function initMap() {
             m.classList.toggle('active', i === idx);
             m.classList.toggle('past', i < idx);
         });
+        updateTimelineLabelsActive(idx);
     }
 
     // ===== SYSTEME TEMPOREL PRINCIPAL =====
@@ -386,8 +612,9 @@ function initMap() {
         const countryElements = elementStorage['paysElements'] || [];
 
         timelineData.countries.forEach(countryDef => {
+            if (!countryDef || !countryDef.name) return;
             const element = countryElements.find(el =>
-                el.name && el.name.toLowerCase() === countryDef.name.toLowerCase()
+                el && el.name && el.name.toLowerCase() === countryDef.name.toLowerCase()
             );
 
             if (!element) return;
@@ -433,65 +660,12 @@ function initMap() {
         });
     }
 
-    function toggleTimelinePlay() {
-        isTimelinePlaying = !isTimelinePlaying;
-        const playBtn = document.getElementById('timelinePlayBtn');
-        if (!playBtn) return;
+    // Fonctions play/speed supprimées — remplacées par la navigation par année
 
-        if (isTimelinePlaying) {
-            playBtn.innerHTML = '&#x23F8;'; // Pause
-            playBtn.classList.add('playing');
-            playTimelineAnimation();
-        } else {
-            playBtn.innerHTML = '&#x25B6;'; // Play
-            playBtn.classList.remove('playing');
-            if (timelinePlayInterval) {
-                clearInterval(timelinePlayInterval);
-                timelinePlayInterval = null;
-            }
-        }
-    }
+    /* legacy stubs pour éviter les erreurs si appelées */
+    function toggleTimelinePlay() {}
 
-    function playTimelineAnimation() {
-        const timeline = document.getElementById('timeline');
-        if (!timeline || !timelineData) return;
-
-        const maxIdx = timelineData.eras.length - 1;
-        let currentIdx = parseInt(timeline.value);
-
-        // Si on est à la fin, repartir du début
-        if (currentIdx >= maxIdx) {
-            currentIdx = 0;
-            timeline.value = 0;
-            updateMapForEra(timelineData.eras[0].id);
-        }
-
-        timelinePlayInterval = setInterval(function() {
-            if (!isTimelinePlaying) {
-                clearInterval(timelinePlayInterval);
-                return;
-            }
-
-            currentIdx++;
-            timeline.value = currentIdx;
-
-            if (timelineData.eras[currentIdx]) {
-                updateMapForEra(timelineData.eras[currentIdx].id);
-            }
-
-            if (currentIdx >= maxIdx) {
-                // Arrivé à la fin, arrêter
-                isTimelinePlaying = false;
-                const playBtn = document.getElementById('timelinePlayBtn');
-                if (playBtn) {
-                    playBtn.innerHTML = '&#x25B6;';
-                    playBtn.classList.remove('playing');
-                }
-                clearInterval(timelinePlayInterval);
-                timelinePlayInterval = null;
-            }
-        }, 2000); // 2 secondes par ère
-    }
+    function playTimelineAnimation() { /* no-op */ }
 
     // Gestionnaires d'événements
     function initEventHandlers() {

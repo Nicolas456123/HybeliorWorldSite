@@ -106,16 +106,43 @@
 
 <!-- Timeline Slider for Historical Eras -->
 <div id="timelineContainer">
-    <div id="timelineEraDisplay">
-        <span id="timelineEraName">Ere VII — Actuelle</span>
-        <span id="timelineEraDate">~10 200 ap.A</span>
+    <!-- Header : nom de l'ère + date -->
+    <div id="timelineHeader">
+        <div id="timelineEraDisplay">
+            <span id="timelineEraName">Ère VII — Actuelle</span>
+            <span id="timelineEraDate">~10 200 ap.A</span>
+        </div>
+        <button id="timelineToggleBtn" title="Replier/déplier la timeline">&#x25BC;</button>
     </div>
-    <div id="timelineControls">
-        <button id="timelinePlayBtn" title="Animer les eres">&#x25B6;</button>
-        <div id="timelineSliderWrapper">
+
+    <!-- Corps dépliable -->
+    <div id="timelineBody">
+        <!-- Labels d'ères au-dessus du slider -->
+        <div id="timelineLabelsRow"></div>
+
+        <!-- Marqueurs visuels + slider d'ères -->
+        <div id="timelineSliderArea">
             <div id="timelineMarkers"></div>
             <input type="range" id="timeline" min="0" max="10" value="10" step="1">
         </div>
+
+        <!-- Navigation par année -->
+        <div id="timelineYearNav">
+            <div id="timelineYearBtns">
+                <button class="tl-year-btn" data-delta="-1000" title="-1 000 ans">&#x276E;&#x276E; 1000</button>
+                <button class="tl-year-btn" data-delta="-100" title="-100 ans">&#x276E; 100</button>
+                <button class="tl-year-btn" data-delta="-1" title="-1 an">&#x276E; 1</button>
+            </div>
+            <div id="timelineYearDisplay">
+                <span id="timelineCurrentYear">10 200</span>
+                <span id="timelineYearSuffix">ap.A</span>
+            </div>
+            <div id="timelineYearBtns">
+                <button class="tl-year-btn" data-delta="1" title="+1 an">1 &#x276F;</button>
+                <button class="tl-year-btn" data-delta="100" title="+100 ans">100 &#x276F;</button>
+                <button class="tl-year-btn" data-delta="1000" title="+1 000 ans">1000 &#x276F;&#x276F;</button>
+            </div>
+        </div>
     </div>
-    <div id="timelineEraDesc"></div>
+
 </div>
