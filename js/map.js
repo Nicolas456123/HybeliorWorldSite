@@ -199,13 +199,16 @@ function initMap() {
 
     // Slider position (0..SLIDER_MAX) → year (monotonic)
     function sliderToYear(sliderVal) {
-        if (effectiveRanges.length === 0) return 0;
+        if (!effectiveRanges || effectiveRanges.length === 0) return 0;
         const n = effectiveRanges.length;
         const unitsPerEra = SLIDER_MAX / n;
         const eraIdx = Math.min(Math.floor(sliderVal / unitsPerEra), n - 1);
         const fraction = (sliderVal - eraIdx * unitsPerEra) / unitsPerEra;
         const r = effectiveRanges[eraIdx];
-        return Math.round(r.start + fraction * (r.end - r.start));
+        if (!r || r.start === undefined || r.end === undefined) return 0;
+        const year = r.start + fraction * (r.end - r.start);
+        if (isNaN(year) || !isFinite(year)) return 0;
+        return Math.round(year);
     }
 
     // Year → slider position
@@ -387,9 +390,15 @@ function initMap() {
         const suffixEl = document.getElementById('timelineYearSuffix');
         if (!yearEl) return;
 
-        const abs = Math.abs(Math.round(currentDisplayYear));
+        if (currentDisplayYear === undefined || currentDisplayYear === null || isNaN(currentDisplayYear)) {
+            yearEl.textContent = '—';
+            if (suffixEl) suffixEl.textContent = '';
+            return;
+        }
+        const year = Math.round(currentDisplayYear);
+        const abs = Math.abs(year);
         yearEl.textContent = abs.toLocaleString('fr-FR');
-        if (suffixEl) suffixEl.textContent = currentDisplayYear < 0 ? 'av.A' : 'ap.A';
+        if (suffixEl) suffixEl.textContent = year < 0 ? 'av.A' : 'ap.A';
     }
 
     function loadTimelineData() {
