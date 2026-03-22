@@ -2055,6 +2055,10 @@ function initMap() {
         // Bouton ajouter un point
         function onAddPointClick() {
             addPointMode = !addPointMode;
+            // Désactiver le mode frontière si on active le mode ajout de point
+            if (addPointMode && borderDrawMode) {
+                cancelBorderDraw();
+            }
             document.getElementById('addPointBtn').classList.toggle('active', addPointMode);
             document.getElementById('addPointOptions').style.display = addPointMode ? 'block' : 'none';
             viewer.canvas.style.cursor = addPointMode ? 'crosshair' : '';

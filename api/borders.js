@@ -77,9 +77,9 @@ export default async function handler(req, res) {
             { type: 'text', value: data.entity_type || 'paysElements' },
             { type: 'text', value: data.era_id || 'actuelle' },
             { type: 'text', value: data.points },
-            { type: 'text', value: data.color || null },
+            data.color ? { type: 'text', value: data.color } : { type: 'null' },
             { type: 'text', value: data.points },
-            { type: 'text', value: data.color || null }
+            data.color ? { type: 'text', value: data.color } : { type: 'null' }
           ]
         );
         return res.status(200).json({ ok: true });
