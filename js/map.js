@@ -1983,34 +1983,16 @@ function initMap() {
             document.getElementById('drawBorderBtn').classList.toggle('active', borderDrawMode);
             document.getElementById('drawBorderOptions').style.display = borderDrawMode ? 'block' : 'none';
             viewer.canvas.style.cursor = borderDrawMode ? 'crosshair' : '';
+            if (borderDrawMode) {
+                // Force borders visible as guide
+                bordersLayer.style.display = 'block';
+                document.getElementById('toggleBorders').classList.add('active');
+            }
             if (!borderDrawMode) cancelBorderDraw();
         }
         document.getElementById('drawBorderBtn').addEventListener('click', onDrawBorderClick);
         editorTrackers.push({ destroy: () => {
             document.getElementById('drawBorderBtn').removeEventListener('click', onDrawBorderClick);
-        }});
-
-        // Autocomplete for border target name
-        const borderInput = document.getElementById('borderTargetName');
-        const borderSuggestions = document.getElementById('borderTargetSuggestions');
-        function onBorderInput() {
-            const val = borderInput.value.toLowerCase();
-            borderSuggestions.innerHTML = '';
-            if (val.length < 1) return;
-            const matches = allNames.filter(n => n.toLowerCase().includes(val)).slice(0, 8);
-            matches.forEach(m => {
-                const div = document.createElement('div');
-                div.textContent = m;
-                div.addEventListener('click', () => {
-                    borderInput.value = m;
-                    borderSuggestions.innerHTML = '';
-                });
-                borderSuggestions.appendChild(div);
-            });
-        }
-        borderInput.addEventListener('input', onBorderInput);
-        editorTrackers.push({ destroy: () => {
-            borderInput.removeEventListener('input', onBorderInput);
         }});
 
         // Border draw canvas handler
@@ -2256,12 +2238,33 @@ function initMap() {
     }
 
     function finishBorderDraw() {
-        const name = document.getElementById('borderTargetName').value.trim();
-        if (!name) {
-            alert('Veuillez saisir un nom de pays/région.');
+        const entityType = document.getElementById('borderEntityType').value;
+        const savedPoints = [...borderDrawPoints];
+
+        // Clean up preview elements but keep draw mode active
+        borderDrawPreview.forEach(el => el.remove());
+        borderDrawPreview = [];
+        borderDrawPoints = [];
+
+        // Show temporary polygon preview
+        const previewPoly = document.createElementNS("http://www.w3.org/2000/svg", "polygon");
+        previewPoly.setAttribute('points', savedPoints.map(p => p.x + ',' + p.y).join(' '));
+        previewPoly.setAttribute('stroke', 'rgba(201, 168, 76, 0.9)');
+        previewPoly.setAttribute('stroke-width', '0.002');
+        previewPoly.setAttribute('fill', 'rgba(201, 168, 76, 0.15)');
+        previewPoly.setAttribute('stroke-linejoin', 'round');
+        bordersLayer.appendChild(previewPoly);
+
+        // Prompt name AFTER drawing
+        const typeLabel = entityType === 'continentsElements' ? 'continent' : entityType === 'paysElements' ? 'pays' : 'région';
+        const name = prompt(`Nom du ${typeLabel} pour ce polygone :`);
+
+        // Remove preview
+        previewPoly.remove();
+
+        if (!name || !name.trim()) {
             return;
         }
-        const entityType = document.getElementById('borderEntityType').value;
 
         // Save to API
         fetch('/api/borders', {
@@ -2271,35 +2274,29 @@ function initMap() {
                 password: window._editorPassword,
                 action: 'upsert',
                 data: {
-                    name: name,
+                    name: name.trim(),
                     entity_type: entityType,
                     era_id: currentEraId || 'actuelle',
-                    points: JSON.stringify(borderDrawPoints)
+                    points: JSON.stringify(savedPoints)
                 }
             })
         }).then(r => r.json()).then(result => {
             if (result.ok) {
-                // Add to local data
-                const key = name + '|' + (currentEraId || 'actuelle');
+                const key = name.trim() + '|' + (currentEraId || 'actuelle');
                 bordersData[key] = {
-                    name: name,
+                    name: name.trim(),
                     entity_type: entityType,
                     era_id: currentEraId || 'actuelle',
-                    points: [...borderDrawPoints],
+                    points: savedPoints,
                     color: null,
                     svgElements: []
                 };
                 renderAllBorders();
-                bordersLayer.style.display = 'block';
-                document.getElementById('toggleBorders').classList.add('active');
-                console.log(`Frontière sauvegardée: ${name}`);
+                console.log(`Frontière sauvegardée: ${name.trim()} (${typeLabel})`);
             } else {
                 alert('Erreur: ' + (result.error || 'inconnu'));
             }
         }).catch(err => alert('Erreur réseau: ' + err.message));
-
-        // Clean up draw state
-        cancelBorderDraw();
     }
 
     function disableEditorMode() {
