@@ -4,6 +4,7 @@ const path = require('path');
 
 const PORT = process.env.PORT || 3001;
 const DB_FILE = path.join(__dirname, 'local-db.json');
+const BORDERS_FILE = path.join(__dirname, 'local-borders.json');
 const LORE_ROOT = path.join(__dirname, 'Docs', 'Lore');
 const EDITOR_PASSWORD = process.env.EDITOR_PASSWORD || 'local';
 
@@ -148,6 +149,43 @@ const server = http.createServer(async (req, res) => {
             }
             res.writeHead(403, { 'Content-Type': 'application/json' });
             return res.end(JSON.stringify({ error: 'Mot de passe incorrect' }));
+        } catch (err) {
+            res.writeHead(400, { 'Content-Type': 'application/json' });
+            return res.end(JSON.stringify({ error: err.message }));
+        }
+    }
+
+    // ── API: GET /api/borders ─────────────────────────────────
+    if (pathname === '/api/borders' && req.method === 'GET') {
+        let borders = [];
+        try { borders = JSON.parse(fs.readFileSync(BORDERS_FILE, 'utf8')); } catch {}
+        res.writeHead(200, { 'Content-Type': 'application/json' });
+        return res.end(JSON.stringify(borders));
+    }
+
+    // ── API: POST /api/borders ────────────────────────────────
+    if (pathname === '/api/borders' && req.method === 'POST') {
+        try {
+            const { password, action, data } = await parseBody(req);
+            if (password !== EDITOR_PASSWORD) {
+                res.writeHead(403, { 'Content-Type': 'application/json' });
+                return res.end(JSON.stringify({ error: 'Mot de passe incorrect' }));
+            }
+            let borders = [];
+            try { borders = JSON.parse(fs.readFileSync(BORDERS_FILE, 'utf8')); } catch {}
+
+            if (action === 'upsert') {
+                const idx = borders.findIndex(b => b.name === data.name && b.entity_type === (data.entity_type || 'paysElements') && b.era_id === (data.era_id || 'actuelle'));
+                const entry = { name: data.name, entity_type: data.entity_type || 'paysElements', era_id: data.era_id || 'actuelle', points: data.points, color: data.color || null };
+                if (idx >= 0) borders[idx] = entry;
+                else borders.push(entry);
+            } else if (action === 'delete') {
+                borders = borders.filter(b => !(b.name === data.name && b.entity_type === (data.entity_type || 'paysElements') && b.era_id === (data.era_id || 'actuelle')));
+            }
+
+            fs.writeFileSync(BORDERS_FILE, JSON.stringify(borders, null, 2));
+            res.writeHead(200, { 'Content-Type': 'application/json' });
+            return res.end(JSON.stringify({ ok: true }));
         } catch (err) {
             res.writeHead(400, { 'Content-Type': 'application/json' });
             return res.end(JSON.stringify({ error: err.message }));

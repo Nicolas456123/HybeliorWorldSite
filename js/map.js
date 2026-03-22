@@ -49,6 +49,25 @@ function initMap() {
     let editorTrackers = [];
     let addPointMode = false;
 
+    // Border system
+    let bordersData = {};
+    let borderDrawMode = false;
+    let borderDrawPoints = [];
+    let borderDrawPreview = [];
+    let colorFilterMode = false;
+    let highlightedBorder = null;
+
+    const COUNTRY_COLORS = [
+        'rgba(231, 76, 60, 0.25)',   'rgba(46, 204, 113, 0.25)',
+        'rgba(52, 152, 219, 0.25)',  'rgba(155, 89, 182, 0.25)',
+        'rgba(241, 196, 15, 0.25)',  'rgba(230, 126, 34, 0.25)',
+        'rgba(26, 188, 156, 0.25)',  'rgba(22, 160, 133, 0.25)',
+        'rgba(192, 57, 43, 0.25)',   'rgba(41, 128, 185, 0.25)',
+        'rgba(142, 68, 173, 0.25)',  'rgba(39, 174, 96, 0.25)',
+        'rgba(211, 84, 0, 0.25)',    'rgba(44, 62, 80, 0.25)',
+        'rgba(243, 156, 18, 0.25)',  'rgba(127, 140, 141, 0.25)'
+    ];
+
     // Initialisation du viewer OpenSeadragon
     function initViewer() {
         // Vérifier l'état du wrapping depuis les paramètres URL
@@ -102,8 +121,8 @@ function initMap() {
         gridLayer.classList.add('grid-overlay');
         gridLayer.style.display = 'none';
         
-        // Exemple de frontière
-        createSampleBorder();
+        // Chargement des frontières depuis la DB
+        loadBorders();
         
         // Timeline
         initTimeline();
@@ -116,51 +135,132 @@ function initMap() {
         return group;
     }
 
-    function createSampleBorder() {
-        const borderShapes = {
-            0: '0.45,0.45 0.55,0.45 0.55,0.55 0.45,0.55',
-            1: '0.40,0.45 0.60,0.45 0.60,0.55 0.40,0.55',
-            2: '0.40,0.40 0.60,0.40 0.60,0.60 0.40,0.60'
-        };
+    // === Border System ===
 
-        const sampleBorders = [];
+    function loadBorders() {
+        fetch('/api/borders')
+            .then(r => r.json())
+            .then(borders => {
+                bordersData = {};
+                borders.forEach(b => {
+                    const key = b.name + '|' + (b.era_id || 'actuelle');
+                    bordersData[key] = {
+                        ...b,
+                        points: typeof b.points === 'string' ? JSON.parse(b.points) : b.points,
+                        svgElements: []
+                    };
+                });
+                renderAllBorders();
+            })
+            .catch(err => console.warn('Chargement frontières:', err));
 
-        // Déterminer les positions selon l'état du wrapping
-        const positions = wrappingEnabled ? [
-            {x: 0, y: 0}, {x: 1, y: 0}, {x: -1, y: 0},
-            {x: 0, y: 1}, {x: 0, y: -1}, {x: 1, y: 1},
-            {x: -1, y: 1}, {x: 1, y: -1}, {x: -1, y: -1}
-        ] : [{x: 0, y: 0}]; // Seulement position originale si pas de wrapping
-
-        positions.forEach(offset => {
-            const sampleBorder = document.createElementNS("http://www.w3.org/2000/svg", "polygon");
-            sampleBorder.setAttribute('points', borderShapes[0]);
-            sampleBorder.setAttribute('stroke', 'red');
-            sampleBorder.setAttribute('fill', 'transparent');
-            sampleBorder.setAttribute('transform', `translate(${offset.x}, ${offset.y})`);
-            bordersLayer.appendChild(sampleBorder);
-
-            // Événements hover
-            sampleBorder.addEventListener('mouseover', () => {
-                sampleBorder.setAttribute('fill', 'rgba(255,0,0,0.3)');
-            });
-            sampleBorder.addEventListener('mouseout', () => {
-                sampleBorder.setAttribute('fill', 'transparent');
-            });
-
-            sampleBorders.push(sampleBorder);
-        });
-
-        // Timeline pour les frontières
+        // Timeline hook
         window.updateBorders = function() {
-            const val = parseInt(document.getElementById('timeline').value, 10);
-            const points = borderShapes[val];
-            if (points) {
-                sampleBorders.forEach(border => {
-                    border.setAttribute('points', points);
+            renderAllBorders();
+        };
+    }
+
+    function getCountryColor(name) {
+        const key = name + '|' + (currentEraId || 'actuelle');
+        if (bordersData[key] && bordersData[key].color) return bordersData[key].color;
+        let hash = 0;
+        for (let i = 0; i < name.length; i++) hash = ((hash << 5) - hash) + name.charCodeAt(i);
+        return COUNTRY_COLORS[Math.abs(hash) % COUNTRY_COLORS.length];
+    }
+
+    function renderAllBorders() {
+        while (bordersLayer.firstChild) bordersLayer.removeChild(bordersLayer.firstChild);
+
+        const positions = wrappingEnabled ? [
+            {x:0,y:0},{x:1,y:0},{x:-1,y:0},{x:0,y:1},{x:0,y:-1},
+            {x:1,y:1},{x:-1,y:1},{x:1,y:-1},{x:-1,y:-1}
+        ] : [{x:0,y:0}];
+
+        Object.values(bordersData).forEach(border => {
+            const eraId = border.era_id || 'actuelle';
+            if (eraId !== 'actuelle' && eraId !== currentEraId) return;
+            if (!border.points || border.points.length < 3) return;
+            border.svgElements = [];
+
+            const pointsStr = border.points.map(p => p.x + ',' + p.y).join(' ');
+
+            positions.forEach(offset => {
+                const poly = document.createElementNS("http://www.w3.org/2000/svg", "polygon");
+                poly.setAttribute('points', pointsStr);
+                poly.setAttribute('stroke', 'rgba(178, 148, 96, 0.6)');
+                poly.setAttribute('stroke-width', '0.001');
+                poly.setAttribute('fill', colorFilterMode ? getCountryColor(border.name) : 'transparent');
+                poly.setAttribute('stroke-linejoin', 'round');
+                if (offset.x !== 0 || offset.y !== 0) {
+                    poly.setAttribute('transform', `translate(${offset.x}, ${offset.y})`);
+                }
+                poly.setAttribute('pointer-events', 'all');
+                poly.style.cursor = 'pointer';
+
+                poly.addEventListener('click', (e) => {
+                    e.stopPropagation();
+                    highlightBorder(border.name);
+                    showInfoPanel(border.name, { '': border.name });
+                });
+                poly.addEventListener('mouseover', () => {
+                    if (!colorFilterMode && highlightedBorder !== border.name) {
+                        poly.setAttribute('fill', 'rgba(178, 148, 96, 0.12)');
+                    }
+                });
+                poly.addEventListener('mouseout', () => {
+                    if (!colorFilterMode && highlightedBorder !== border.name) {
+                        poly.setAttribute('fill', 'transparent');
+                    }
+                });
+
+                bordersLayer.appendChild(poly);
+                border.svgElements.push(poly);
+            });
+        });
+    }
+
+    function highlightBorder(name) {
+        // Clear previous highlight
+        if (highlightedBorder) {
+            const prevKey = Object.keys(bordersData).find(k => bordersData[k].name === highlightedBorder);
+            if (prevKey && bordersData[prevKey]) {
+                bordersData[prevKey].svgElements.forEach(el => {
+                    el.setAttribute('fill', colorFilterMode ? getCountryColor(highlightedBorder) : 'transparent');
                 });
             }
-        };
+        }
+        // Apply new highlight
+        highlightedBorder = name;
+        const key = Object.keys(bordersData).find(k => bordersData[k].name === name);
+        if (key && bordersData[key]) {
+            bordersData[key].svgElements.forEach(el => {
+                el.setAttribute('fill', 'rgba(201, 168, 76, 0.3)');
+                el.setAttribute('stroke', 'rgba(201, 168, 76, 0.9)');
+                el.setAttribute('stroke-width', '0.002');
+            });
+        }
+    }
+
+    function clearHighlight() {
+        if (highlightedBorder) {
+            const key = Object.keys(bordersData).find(k => bordersData[k].name === highlightedBorder);
+            if (key && bordersData[key]) {
+                bordersData[key].svgElements.forEach(el => {
+                    el.setAttribute('fill', colorFilterMode ? getCountryColor(highlightedBorder) : 'transparent');
+                    el.setAttribute('stroke', 'rgba(178, 148, 96, 0.6)');
+                    el.setAttribute('stroke-width', '0.001');
+                });
+            }
+            highlightedBorder = null;
+        }
+    }
+
+    function toggleColorFilter() {
+        colorFilterMode = !colorFilterMode;
+        const btn = document.getElementById('toggleColorFilter');
+        if (btn) btn.classList.toggle('active', colorFilterMode);
+        if (colorFilterMode) bordersLayer.style.display = 'block';
+        renderAllBorders();
     }
 
     // ===== TIMELINE V4 : Monotonic year-based slider =====
@@ -815,6 +915,7 @@ function initMap() {
         document.getElementById('closeInfoPanel').addEventListener('click', () => {
             document.getElementById('infoPanel').style.display = 'none';
             document.body.classList.remove('info-panel-visible');
+            clearHighlight();
         });
 
         // Lore links — event delegation
@@ -833,6 +934,8 @@ function initMap() {
         // Boutons de contrôle
         document.getElementById('toggleText').addEventListener('click', toggleTextVisibility);
         document.getElementById('toggleBorders').addEventListener('click', toggleBorders);
+        const colorFilterBtn = document.getElementById('toggleColorFilter');
+        if (colorFilterBtn) colorFilterBtn.addEventListener('click', toggleColorFilter);
         document.getElementById('toggleWrapping').addEventListener('click', toggleWrapping);
         document.getElementById('clickZoomRange').addEventListener('input', (e) => {
             const pct = parseInt(e.target.value);
@@ -1869,6 +1972,103 @@ function initMap() {
         document.getElementById('toggleEditor').classList.add('active');
         document.getElementById('addPointBtn').style.display = '';
         document.getElementById('addPointOptions').style.display = 'none';
+        document.getElementById('drawBorderBtn').style.display = '';
+
+        // Border drawing
+        function onDrawBorderClick() {
+            borderDrawMode = !borderDrawMode;
+            addPointMode = false;
+            document.getElementById('addPointBtn').classList.remove('active');
+            document.getElementById('addPointOptions').style.display = 'none';
+            document.getElementById('drawBorderBtn').classList.toggle('active', borderDrawMode);
+            document.getElementById('drawBorderOptions').style.display = borderDrawMode ? 'block' : 'none';
+            viewer.canvas.style.cursor = borderDrawMode ? 'crosshair' : '';
+            if (!borderDrawMode) cancelBorderDraw();
+        }
+        document.getElementById('drawBorderBtn').addEventListener('click', onDrawBorderClick);
+        editorTrackers.push({ destroy: () => {
+            document.getElementById('drawBorderBtn').removeEventListener('click', onDrawBorderClick);
+        }});
+
+        // Autocomplete for border target name
+        const borderInput = document.getElementById('borderTargetName');
+        const borderSuggestions = document.getElementById('borderTargetSuggestions');
+        function onBorderInput() {
+            const val = borderInput.value.toLowerCase();
+            borderSuggestions.innerHTML = '';
+            if (val.length < 1) return;
+            const matches = allNames.filter(n => n.toLowerCase().includes(val)).slice(0, 8);
+            matches.forEach(m => {
+                const div = document.createElement('div');
+                div.textContent = m;
+                div.addEventListener('click', () => {
+                    borderInput.value = m;
+                    borderSuggestions.innerHTML = '';
+                });
+                borderSuggestions.appendChild(div);
+            });
+        }
+        borderInput.addEventListener('input', onBorderInput);
+        editorTrackers.push({ destroy: () => {
+            borderInput.removeEventListener('input', onBorderInput);
+        }});
+
+        // Border draw canvas handler
+        function borderDrawCanvasHandler(event) {
+            if (!borderDrawMode || !editorMode) return;
+            event.preventDefaultAction = true;
+            const vp = viewer.viewport.pointFromPixel(event.position);
+            borderDrawPoints.push({ x: vp.x, y: vp.y });
+
+            // Draw marker
+            const circle = document.createElementNS("http://www.w3.org/2000/svg", "circle");
+            circle.setAttribute("cx", vp.x);
+            circle.setAttribute("cy", vp.y);
+            circle.setAttribute("r", 0.003);
+            circle.setAttribute("fill", "#c9a84c");
+            circle.setAttribute("stroke", "rgba(0,0,0,0.5)");
+            circle.setAttribute("stroke-width", 0.0005);
+            measureLayer.appendChild(circle);
+            borderDrawPreview.push(circle);
+
+            // Draw line to previous point
+            if (borderDrawPoints.length > 1) {
+                const prev = borderDrawPoints[borderDrawPoints.length - 2];
+                const line = document.createElementNS("http://www.w3.org/2000/svg", "line");
+                line.setAttribute("x1", prev.x);
+                line.setAttribute("y1", prev.y);
+                line.setAttribute("x2", vp.x);
+                line.setAttribute("y2", vp.y);
+                line.setAttribute("stroke", "rgba(201, 168, 76, 0.8)");
+                line.setAttribute("stroke-width", 0.001);
+                measureLayer.appendChild(line);
+                borderDrawPreview.push(line);
+            }
+        }
+        viewer.addHandler('canvas-click', borderDrawCanvasHandler);
+        editorTrackers.push({ destroy: () => {
+            viewer.removeHandler('canvas-click', borderDrawCanvasHandler);
+        }});
+
+        // Double-click to close polygon
+        function borderDrawDblClick(event) {
+            if (!borderDrawMode || borderDrawPoints.length < 3) return;
+            event.preventDefaultAction = true;
+            finishBorderDraw();
+        }
+        viewer.addHandler('canvas-double-click', borderDrawDblClick);
+        editorTrackers.push({ destroy: () => {
+            viewer.removeHandler('canvas-double-click', borderDrawDblClick);
+        }});
+
+        // Escape to cancel
+        function borderDrawKeyHandler(e) {
+            if (e.key === 'Escape' && borderDrawMode) cancelBorderDraw();
+        }
+        document.addEventListener('keydown', borderDrawKeyHandler);
+        editorTrackers.push({ destroy: () => {
+            document.removeEventListener('keydown', borderDrawKeyHandler);
+        }});
 
         // Bouton ajouter un point
         function onAddPointClick() {
@@ -2045,13 +2245,73 @@ function initMap() {
         });
     }
 
+    function cancelBorderDraw() {
+        borderDrawPoints = [];
+        borderDrawPreview.forEach(el => el.remove());
+        borderDrawPreview = [];
+        borderDrawMode = false;
+        document.getElementById('drawBorderBtn').classList.remove('active');
+        document.getElementById('drawBorderOptions').style.display = 'none';
+        viewer.canvas.style.cursor = '';
+    }
+
+    function finishBorderDraw() {
+        const name = document.getElementById('borderTargetName').value.trim();
+        if (!name) {
+            alert('Veuillez saisir un nom de pays/région.');
+            return;
+        }
+        const entityType = document.getElementById('borderEntityType').value;
+
+        // Save to API
+        fetch('/api/borders', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({
+                password: window._editorPassword,
+                action: 'upsert',
+                data: {
+                    name: name,
+                    entity_type: entityType,
+                    era_id: currentEraId || 'actuelle',
+                    points: JSON.stringify(borderDrawPoints)
+                }
+            })
+        }).then(r => r.json()).then(result => {
+            if (result.ok) {
+                // Add to local data
+                const key = name + '|' + (currentEraId || 'actuelle');
+                bordersData[key] = {
+                    name: name,
+                    entity_type: entityType,
+                    era_id: currentEraId || 'actuelle',
+                    points: [...borderDrawPoints],
+                    color: null,
+                    svgElements: []
+                };
+                renderAllBorders();
+                bordersLayer.style.display = 'block';
+                document.getElementById('toggleBorders').classList.add('active');
+                console.log(`Frontière sauvegardée: ${name}`);
+            } else {
+                alert('Erreur: ' + (result.error || 'inconnu'));
+            }
+        }).catch(err => alert('Erreur réseau: ' + err.message));
+
+        // Clean up draw state
+        cancelBorderDraw();
+    }
+
     function disableEditorMode() {
         editorMode = false;
         addPointMode = false;
+        cancelBorderDraw();
         document.getElementById('toggleEditor').classList.remove('active');
         document.getElementById('addPointBtn').style.display = 'none';
         document.getElementById('addPointBtn').classList.remove('active');
         document.getElementById('addPointOptions').style.display = 'none';
+        document.getElementById('drawBorderBtn').style.display = 'none';
+        document.getElementById('drawBorderOptions').style.display = 'none';
         viewer.canvas.style.cursor = '';
         window._attachDragToElement = null;
 

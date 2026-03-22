@@ -21,6 +21,7 @@
             <div class="ctrl-section-title">Affichage</div>
             <button id="toggleText"><span class="icon">&#x1F520;</span> Textes</button>
             <button id="toggleBorders"><span class="icon">&#x1F5FA;</span> Frontières</button>
+            <button id="toggleColorFilter"><span class="icon">&#x1F3A8;</span> Couleurs pays</button>
             <button id="toggleWrapping"><span class="icon">&#x1F310;</span> Mode infini</button>
             <div class="grid-controls" style="margin-top:6px">
                 <label for="clickZoomRange">Zoom clic <span id="clickZoomValue">100%</span></label>
@@ -44,6 +45,21 @@
                     <option value="citesElements">Cit&eacute;</option>
                     <option value="capitalesElements">Capitale</option>
                 </select>
+            </div>
+            <button id="drawBorderBtn" style="display:none"><span class="icon">&#x1F58A;</span> Dessiner fronti&egrave;re</button>
+            <div id="drawBorderOptions" style="display:none; margin-top:4px;">
+                <label style="font-size:11px; color:var(--text-muted); margin-bottom:2px; display:block;">Associer &agrave; :</label>
+                <div style="position:relative;">
+                    <input type="text" id="borderTargetName" placeholder="Nom du pays/r&eacute;gion..." style="width:100%; padding:5px 8px; background:var(--input-bg); border:1px solid var(--input-border); border-radius:var(--radius); color:var(--text); font-size:12px; margin-bottom:4px; box-sizing:border-box;">
+                    <div id="borderTargetSuggestions" class="suggestions-list"></div>
+                </div>
+                <label style="font-size:11px; color:var(--text-muted); margin-bottom:2px; display:block;">Type :</label>
+                <select id="borderEntityType" style="width:100%; padding:5px 8px; background:var(--input-bg); border:1px solid var(--input-border); border-radius:var(--radius); color:var(--text); font-size:12px; margin-bottom:4px;">
+                    <option value="paysElements">Pays</option>
+                    <option value="regionElements">R&eacute;gion</option>
+                    <option value="continentsElements">Continent</option>
+                </select>
+                <div style="font-size:10px; color:var(--text-muted); line-height:1.3;">Clic = ajouter point &bull; Double-clic = fermer &bull; Esc = annuler</div>
             </div>
         </div>
 
