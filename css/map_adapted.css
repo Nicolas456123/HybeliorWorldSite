@@ -10,6 +10,9 @@ body:has(.page-carte) { overflow: hidden; }
 .page-carte .page-content { height: 100%; padding: 0; }
 .osd-container { width: 100vw; height: 100vh; position: relative; }
 
+/* ===== Fullscreen natif ===== */
+.osd-container:fullscreen { background: #1a1a2e; }
+
 /* ===== Bouton menu hamburger ===== */
 .menu-toggle {
     position: fixed;

@@ -1412,6 +1412,9 @@ body:has(.page-carte).measure-bar-visible .menu-toggle,
 body:has(.page-carte).measure-bar-visible .nav-controls { top: calc(var(--nav-height) + 50px); }
 body:has(.page-carte).measure-bar-visible .controls { top: calc(var(--nav-height) + 98px); }
 
+/* ===== Fullscreen natif ===== */
+.osd-container:fullscreen { background: #1a1a2e; }
+
 /* ===== Bouton menu hamburger ===== */
 .menu-toggle {
     position: fixed;

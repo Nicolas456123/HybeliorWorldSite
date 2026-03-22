@@ -33,7 +33,7 @@ function initMap() {
     let measurePoints = [];
     let currentGridSize = 10;
     let gridVisible = false;
-    let wrappingEnabled = true;
+    let wrappingEnabled = false;
 
     // Lore system
     let loreIndex = {};
@@ -858,10 +858,13 @@ function initMap() {
             viewer.viewport.goHome();
         });
         document.getElementById('navFullscreen').addEventListener('click', () => {
-            if (viewer.isFullPage()) {
-                viewer.setFullPage(false);
+            const el = document.getElementById('openseadragon1');
+            if (document.fullscreenElement) {
+                document.exitFullscreen();
             } else {
-                viewer.setFullPage(true);
+                el.requestFullscreen().catch(err => {
+                    console.warn('Fullscreen non supporté:', err);
+                });
             }
         });
 
