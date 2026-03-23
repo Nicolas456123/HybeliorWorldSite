@@ -2548,8 +2548,8 @@ function initMap() {
     // === Zoom Level Bar ===
 
     // Font sizes matching each bar icon (Global has no fontSize → zoom 0)
-    // Icons: 🌍Global(0), 🏔Continents(0.03→1.5), 🚩Pays(0.01→4.5), 🏰Cités(0.0015→30), 🏠Villes(0.0011→40.9), 🌿Villages(0.0006→75)
-    const ZOOM_BAR_FONT_SIZES = [null, 0.03, 0.01, 0.0015, 0.0011, 0.0006];
+    // Icons: 🌍Global(0), 🏔Continents(0.03), 🚩Pays(0.01), 🏰Régions(0.004), ⚔Cités(0.0015), 🏠Villes(0.0011), 🌿Villages(0.0006)
+    const ZOOM_BAR_FONT_SIZES = [null, 0.03, 0.01, 0.004, 0.0015, 0.0011, 0.0006];
 
     // Compute adjusted stops: same formula as getTargetZoom → (VISUAL_SIZE_REF / fontSize) * clickZoomMultiplier
     function getAdjustedStops() {

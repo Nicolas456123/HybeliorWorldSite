@@ -2732,6 +2732,15 @@ body.ios-fullscreen .ios-fullscreen-btn { top: env(safe-area-inset-top, 10px); }
     body.info-panel-visible .nav-controls {
         right: 12px;
         top: 12px;
+        bottom: auto;
+    }
+    .nav-controls {
+        max-height: calc(100vh - 24px);
+        overflow-y: auto;
+    }
+    .zoom-level-bar {
+        transform: scale(0.85);
+        transform-origin: top center;
     }
     .menu-toggle { z-index: 1007; }
 }
