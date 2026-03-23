@@ -1175,7 +1175,7 @@ p {
 .lore-modal {
     position: fixed;
     inset: 0;
-    z-index: 1000;
+    z-index: 1100;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -1414,6 +1414,19 @@ body:has(.page-carte).measure-bar-visible .controls { top: calc(var(--nav-height
 
 /* ===== Fullscreen natif ===== */
 .osd-container:fullscreen { background: #1a1a2e; }
+body.map-fullscreen .nav-controls {
+    top: 12px;
+}
+body.map-fullscreen .menu-toggle {
+    top: 12px;
+}
+body.map-fullscreen .controls {
+    top: 60px;
+}
+body.map-fullscreen .info-panel {
+    top: 12px;
+    max-height: calc(100vh - 24px);
+}
 
 /* ===== Bouton menu hamburger ===== */
 .menu-toggle {
@@ -1437,7 +1450,7 @@ body:has(.page-carte).measure-bar-visible .controls { top: calc(var(--nav-height
 body.measure-bar-visible .menu-toggle { top: 50px; }
 body.measure-bar-visible .nav-controls { top: 50px; }
 body.measure-bar-visible .info-panel { top: 50px; }
-body.info-panel-visible .nav-controls { right: 444px; }
+body.info-panel-visible .nav-controls { right: 12px; }
 .menu-toggle:hover { background: var(--btn-hover); }
 .menu-toggle span {
     display: block;
@@ -1634,7 +1647,7 @@ body.measure-bar-visible .controls { top: 98px; }
 .info-panel {
     position: fixed;
     top: calc(var(--nav-height) + 12px);
-    right: 12px;
+    right: 58px;
     width: 420px;
     max-height: calc(100vh - var(--nav-height) - 24px);
     background: var(--panel-bg);
@@ -2206,6 +2219,10 @@ body.measure-bar-visible .borders-panel { top: 50px; }
     text-align: center;
     min-width: 340px;
     max-width: 720px;
+    display: none; /* hidden by default, toggled via JS */
+}
+#timelineContainer.visible {
+    display: block;
     width: calc(100vw - 32px);
     box-shadow: 0 4px 24px rgba(0,0,0,0.35);
 }
@@ -2503,7 +2520,7 @@ body.measure-bar-visible .borders-panel { top: 50px; }
     position: fixed;
     top: 12px;
     right: 12px;
-    z-index: 1005;
+    z-index: 1007;
     transition: top 0.2s, right 0.2s;
     display: flex;
     flex-direction: column;
@@ -2533,6 +2550,7 @@ body.measure-bar-visible .borders-panel { top: 50px; }
 }
 .nav-controls button:hover { background: var(--btn-hover); }
 .nav-controls button:active { background: var(--btn-active); }
+.nav-controls button.active { background: var(--btn-hover); color: var(--gold); }
 .nav-controls .nav-sep {
     height: 1px;
     background: var(--panel-border);
@@ -2574,11 +2592,12 @@ body.measure-bar-visible .borders-panel { top: 50px; }
 }
 .zlb-track {
     width: 3px;
-    height: 14px;
+    height: 14px; /* overridden by JS proportionally */
     background: rgba(178, 148, 96, 0.25);
     border-radius: 2px;
     position: relative;
     overflow: hidden;
+    cursor: pointer;
 }
 .zlb-track .zlb-fill {
     position: absolute;
@@ -2692,7 +2711,7 @@ body.ios-fullscreen .ios-fullscreen-btn { top: env(safe-area-inset-top, 10px); }
         width: min(380px, 50vw);
     }
     body.info-panel-visible .nav-controls {
-        right: calc(min(380px, 50vw) + 24px);
+        right: 12px;
     }
 }
 

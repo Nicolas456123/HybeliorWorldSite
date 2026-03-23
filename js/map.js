@@ -1601,6 +1601,9 @@ function initMap() {
             const pct = parseInt(e.target.value);
             clickZoomMultiplier = 1.5 * (pct / 100);
             document.getElementById('clickZoomValue').textContent = pct + '%';
+            // Refresh zoom bar to match new multiplier
+            refreshZoomBarLayout();
+            updateZoomLevelBar();
         };
         document.getElementById('measureDistance').onclick = () => startMeasure('distance');
         document.getElementById('measureArea').onclick = () => startMeasure('area');
@@ -1620,6 +1623,12 @@ function initMap() {
         document.getElementById('navHome').onclick = () => {
             viewer.viewport.goHome();
         };
+        document.getElementById('navTimeline').onclick = () => {
+            const tc = document.getElementById('timelineContainer');
+            tc.classList.toggle('visible');
+            document.getElementById('navTimeline').classList.toggle('active', tc.classList.contains('visible'));
+        };
+
         document.getElementById('navFullscreen').onclick = () => {
             const el = document.getElementById('openseadragon1');
             if (document.fullscreenElement) {
@@ -1630,6 +1639,11 @@ function initMap() {
                 });
             }
         };
+
+        // Track fullscreen state on body for CSS
+        document.addEventListener('fullscreenchange', () => {
+            document.body.classList.toggle('map-fullscreen', !!document.fullscreenElement);
+        });
 
         // Mesure : boutons barre
         document.getElementById('measureCancel').onclick = cancelMeasure;
@@ -2533,7 +2547,17 @@ function initMap() {
     // Gestion de la grille
     // === Zoom Level Bar ===
 
-    const ZOOM_STOPS = [0, 2, 4, 10, 16, 20];
+    // Font sizes matching each bar icon (Global has no fontSize → zoom 0)
+    // Icons: 🌍Global(0), 🏔Continents(0.03→1.5), 🚩Pays(0.01→4.5), 🏰Cités(0.0015→30), 🏠Villes(0.0011→40.9), 🌿Villages(0.0006→75)
+    const ZOOM_BAR_FONT_SIZES = [null, 0.03, 0.01, 0.0015, 0.0011, 0.0006];
+
+    // Compute adjusted stops: same formula as getTargetZoom → (VISUAL_SIZE_REF / fontSize) * clickZoomMultiplier
+    function getAdjustedStops() {
+        return ZOOM_BAR_FONT_SIZES.map(fs => {
+            if (fs === null) return 0; // Global = zoom min
+            return (VISUAL_SIZE_REF / fs) * clickZoomMultiplier;
+        });
+    }
 
     function initZoomLevelBar() {
         const bar = document.getElementById('zoomLevelBar');
@@ -2542,10 +2566,14 @@ function initMap() {
         const stops = bar.querySelectorAll('.zlb-stop');
         const tracks = bar.querySelectorAll('.zlb-track');
 
+        // Update track heights and data-zoom attributes
+        refreshZoomBarLayout();
+
         // Click on a stop → zoom to that level
-        stops.forEach(stop => {
+        stops.forEach((stop, idx) => {
             stop.onclick = () => {
-                const targetVisual = parseFloat(stop.dataset.zoom);
+                const adjusted = getAdjustedStops();
+                const targetVisual = adjusted[idx];
                 const osdZoom = targetVisual * REF_WIDTH / viewer.container.clientWidth;
                 const clampedZoom = Math.max(viewer.viewport.getMinZoom(), Math.min(osdZoom, viewer.viewport.getMaxZoom()));
                 viewer.viewport.zoomTo(clampedZoom);
@@ -2553,14 +2581,15 @@ function initMap() {
             };
         });
 
-        // Click on a track → zoom to midpoint between adjacent stops
+        // Click on a track → zoom to proportional point between adjacent stops
         tracks.forEach((track, i) => {
             track.onclick = (e) => {
                 e.stopPropagation();
+                const adjusted = getAdjustedStops();
                 const rect = track.getBoundingClientRect();
                 const pct = (e.clientY - rect.top) / rect.height;
-                const lowZoom = ZOOM_STOPS[i];
-                const highZoom = ZOOM_STOPS[i + 1];
+                const lowZoom = adjusted[i];
+                const highZoom = adjusted[i + 1];
                 const targetVisual = lowZoom + (highZoom - lowZoom) * pct;
                 const osdZoom = targetVisual * REF_WIDTH / viewer.container.clientWidth;
                 const clampedZoom = Math.max(viewer.viewport.getMinZoom(), Math.min(osdZoom, viewer.viewport.getMaxZoom()));
@@ -2575,6 +2604,19 @@ function initMap() {
         updateZoomLevelBar();
     }
 
+    function refreshZoomBarLayout() {
+        const bar = document.getElementById('zoomLevelBar');
+        if (!bar) return;
+        const tracks = bar.querySelectorAll('.zlb-track');
+        const adjusted = getAdjustedStops();
+        const totalSpan = adjusted[adjusted.length - 1] - adjusted[0];
+        const TOTAL_TRACK_PX = 120;
+        tracks.forEach((track, i) => {
+            const span = adjusted[i + 1] - adjusted[i];
+            track.style.height = Math.max(6, Math.round((span / totalSpan) * TOTAL_TRACK_PX)) + 'px';
+        });
+    }
+
     function updateZoomLevelBar() {
         const bar = document.getElementById('zoomLevelBar');
         if (!bar) return;
@@ -2582,17 +2624,17 @@ function initMap() {
         const visualZoom = toVisualZoom(viewer.viewport.getZoom());
         const stops = bar.querySelectorAll('.zlb-stop');
         const tracks = bar.querySelectorAll('.zlb-track');
+        const adjusted = getAdjustedStops();
 
         // Update stop highlights
-        stops.forEach(stop => {
-            const z = parseFloat(stop.dataset.zoom);
-            stop.classList.toggle('active', visualZoom >= z);
+        stops.forEach((stop, idx) => {
+            stop.classList.toggle('active', visualZoom >= adjusted[idx]);
         });
 
         // Update track fills
         tracks.forEach((track, i) => {
-            const low = ZOOM_STOPS[i];
-            const high = ZOOM_STOPS[i + 1];
+            const low = adjusted[i];
+            const high = adjusted[i + 1];
             const fill = track.querySelector('.zlb-fill');
             if (!fill) return;
 
