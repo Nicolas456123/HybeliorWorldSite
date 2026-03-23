@@ -38,8 +38,11 @@ async function ensureTable() {
     era_id TEXT NOT NULL DEFAULT 'actuelle',
     points TEXT NOT NULL,
     color TEXT,
+    parent_name TEXT,
     UNIQUE(name, entity_type, era_id)
   )`);
+  // Migration: ajouter parent_name si la table existe deja
+  try { await tursoExecute('ALTER TABLE country_borders ADD COLUMN parent_name TEXT'); } catch(e) {}
   tableReady = true;
 }
 
@@ -54,7 +57,7 @@ export default async function handler(req, res) {
     await ensureTable();
 
     if (req.method === 'GET') {
-      const rows = await tursoExecute('SELECT name, entity_type, era_id, points, color FROM country_borders');
+      const rows = await tursoExecute('SELECT name, entity_type, era_id, points, color, parent_name FROM country_borders');
       return res.status(200).json(rows);
     }
 
@@ -69,17 +72,19 @@ export default async function handler(req, res) {
           return res.status(400).json({ error: 'Champs manquants' });
         }
         await tursoExecute(
-          `INSERT INTO country_borders (name, entity_type, era_id, points, color)
-           VALUES (?, ?, ?, ?, ?) ON CONFLICT(name, entity_type, era_id)
-           DO UPDATE SET points = ?, color = ?`,
+          `INSERT INTO country_borders (name, entity_type, era_id, points, color, parent_name)
+           VALUES (?, ?, ?, ?, ?, ?) ON CONFLICT(name, entity_type, era_id)
+           DO UPDATE SET points = ?, color = ?, parent_name = ?`,
           [
             { type: 'text', value: data.name },
             { type: 'text', value: data.entity_type || 'paysElements' },
             { type: 'text', value: data.era_id || 'actuelle' },
             { type: 'text', value: data.points },
             data.color ? { type: 'text', value: data.color } : { type: 'null' },
+            data.parent_name ? { type: 'text', value: data.parent_name } : { type: 'null' },
             { type: 'text', value: data.points },
-            data.color ? { type: 'text', value: data.color } : { type: 'null' }
+            data.color ? { type: 'text', value: data.color } : { type: 'null' },
+            data.parent_name ? { type: 'text', value: data.parent_name } : { type: 'null' }
           ]
         );
         return res.status(200).json({ ok: true });

@@ -1,4 +1,7 @@
 function initMap() {
+    if (window._mapInitialized) return;
+    window._mapInitialized = true;
+
     // Configuration globale
     const CONFIG = {
         worldWidthKm: 1000,
@@ -28,7 +31,7 @@ function initMap() {
     
     // États
     let textVisibilityEnabled = true;
-    let markersVisible = true;
+    let markersVisible = false;
     let measureMode = null;
     let measurePoints = [];
     let currentGridSize = 10;
@@ -47,7 +50,9 @@ function initMap() {
     let editorMode = false;
     let editorAuthenticated = false;
     let editorTrackers = [];
+    let editorDragTrackers = [];
     let addPointMode = false;
+    let editorActiveMode = 'none'; // 'none' | 'move' | 'borders' | 'addPoint'
 
     // Border system
     let bordersData = {};
@@ -56,6 +61,26 @@ function initMap() {
     let borderDrawPreview = [];
     let colorFilterMode = false;
     let highlightedBorder = null;
+
+    // Borders panel system
+    let borderPanelVisible = false;
+    let selectedBorderKey = null;
+    let borderEditHandles = [];
+    let borderMidHandles = [];
+    let borderEditLayer = null;
+    let borderAddPointMode = false;
+    let borderDeletePointMode = false;
+    let borderDragIdx = -1;
+    let borderDragHandle = null;
+    let borderSnapEnabled = true;
+
+    const BORDER_TYPE_COLORS = {
+        continentsElements: { stroke: 'rgba(231, 76, 60, 0.8)', fill: 'rgba(231, 76, 60, 0.15)', dot: '#e74c3c', label: 'Continent' },
+        paysElements:       { stroke: 'rgba(52, 152, 219, 0.8)', fill: 'rgba(52, 152, 219, 0.15)', dot: '#3498db', label: 'Pays' },
+        regionElements:     { stroke: 'rgba(46, 204, 113, 0.8)', fill: 'rgba(46, 204, 113, 0.15)', dot: '#2ecc71', label: 'R\u00e9gion' }
+    };
+
+    const SNAP_THRESHOLD_PX = 12;
 
     const COUNTRY_COLORS = [
         'rgba(231, 76, 60, 0.25)',   'rgba(46, 204, 113, 0.25)',
@@ -112,6 +137,9 @@ function initMap() {
         // Couche pour les frontières
         bordersLayer = createSVGGroup('bordersLayer');
         bordersLayer.style.display = 'none';
+
+        // Couche pour les handles d'édition de frontières
+        borderEditLayer = createSVGGroup('borderEditLayer');
         
         // Couche pour les mesures
         measureLayer = createSVGGroup('measureLayer');
@@ -147,6 +175,7 @@ function initMap() {
                     bordersData[key] = {
                         ...b,
                         points: typeof b.points === 'string' ? JSON.parse(b.points) : b.points,
+                        parent_name: b.parent_name || null,
                         svgElements: []
                     };
                 });
@@ -171,6 +200,18 @@ function initMap() {
     function renderAllBorders() {
         while (bordersLayer.firstChild) bordersLayer.removeChild(bordersLayer.firstChild);
 
+        // Ocean background when color filter is active
+        if (colorFilterMode) {
+            const ocean = document.createElementNS("http://www.w3.org/2000/svg", "rect");
+            ocean.setAttribute('x', '-1');
+            ocean.setAttribute('y', '-1');
+            ocean.setAttribute('width', '3');
+            ocean.setAttribute('height', '3');
+            ocean.setAttribute('fill', 'rgba(52, 152, 219, 0.10)');
+            ocean.setAttribute('pointer-events', 'none');
+            bordersLayer.appendChild(ocean);
+        }
+
         const positions = wrappingEnabled ? [
             {x:0,y:0},{x:1,y:0},{x:-1,y:0},{x:0,y:1},{x:0,y:-1},
             {x:1,y:1},{x:-1,y:1},{x:1,y:-1},{x:-1,y:-1}
@@ -183,13 +224,28 @@ function initMap() {
             border.svgElements = [];
 
             const pointsStr = border.points.map(p => p.x + ',' + p.y).join(' ');
+            const borderKey = border.name + '|' + eraId;
+            const isSelected = borderKey === selectedBorderKey;
+            const typeColors = BORDER_TYPE_COLORS[border.entity_type] || BORDER_TYPE_COLORS.paysElements;
+
+            // Stroke color: type-coded when panel is open, gold otherwise
+            let strokeColor = borderPanelVisible ? typeColors.stroke : 'rgba(178, 148, 96, 0.6)';
+            let strokeWidth = borderPanelVisible ? '0.0015' : '0.001';
+            if (isSelected) {
+                strokeColor = typeColors.stroke;
+                strokeWidth = '0.003';
+            }
+
+            let fillColor = 'transparent';
+            if (colorFilterMode) fillColor = getCountryColor(border.name);
+            if (isSelected) fillColor = typeColors.fill;
 
             positions.forEach(offset => {
                 const poly = document.createElementNS("http://www.w3.org/2000/svg", "polygon");
                 poly.setAttribute('points', pointsStr);
-                poly.setAttribute('stroke', 'rgba(178, 148, 96, 0.6)');
-                poly.setAttribute('stroke-width', '0.001');
-                poly.setAttribute('fill', colorFilterMode ? getCountryColor(border.name) : 'transparent');
+                poly.setAttribute('stroke', strokeColor);
+                poly.setAttribute('stroke-width', strokeWidth);
+                poly.setAttribute('fill', fillColor);
                 poly.setAttribute('stroke-linejoin', 'round');
                 if (offset.x !== 0 || offset.y !== 0) {
                     poly.setAttribute('transform', `translate(${offset.x}, ${offset.y})`);
@@ -199,16 +255,20 @@ function initMap() {
 
                 poly.addEventListener('click', (e) => {
                     e.stopPropagation();
-                    highlightBorder(border.name);
-                    showInfoPanel(border.name, { '': border.name });
+                    if (borderPanelVisible) {
+                        selectBorder(borderKey);
+                    } else {
+                        highlightBorder(border.name);
+                        showInfoPanel(border.name, { '': border.name });
+                    }
                 });
                 poly.addEventListener('mouseover', () => {
-                    if (!colorFilterMode && highlightedBorder !== border.name) {
-                        poly.setAttribute('fill', 'rgba(178, 148, 96, 0.12)');
+                    if (!colorFilterMode && highlightedBorder !== border.name && !isSelected) {
+                        poly.setAttribute('fill', borderPanelVisible ? typeColors.fill : 'rgba(178, 148, 96, 0.12)');
                     }
                 });
                 poly.addEventListener('mouseout', () => {
-                    if (!colorFilterMode && highlightedBorder !== border.name) {
+                    if (!colorFilterMode && highlightedBorder !== border.name && !isSelected) {
                         poly.setAttribute('fill', 'transparent');
                     }
                 });
@@ -261,6 +321,606 @@ function initMap() {
         if (btn) btn.classList.toggle('active', colorFilterMode);
         if (colorFilterMode) bordersLayer.style.display = 'block';
         renderAllBorders();
+    }
+
+    // ===== BORDERS PANEL =====
+
+    function openBordersPanel() {
+        borderPanelVisible = true;
+        document.getElementById('bordersPanel').style.display = 'block';
+        // Close info panel if open
+        document.getElementById('infoPanel').style.display = 'none';
+        document.body.classList.remove('info-panel-visible');
+        // Show borders
+        bordersLayer.style.display = 'block';
+        document.getElementById('toggleBorders').classList.add('active');
+        renderAllBorders();
+        populateBordersTree();
+        populateParentDropdown();
+        // Zoom handler to adapt handle sizes
+        viewer.addHandler('zoom', updateHandleRadii);
+    }
+
+    function closeBordersPanel() {
+        borderPanelVisible = false;
+        deselectBorder();
+        document.getElementById('bordersPanel').style.display = 'none';
+        cancelBorderDraw();
+        document.getElementById('borderDrawHint').style.display = 'none';
+        viewer.removeHandler('zoom', updateHandleRadii);
+        renderAllBorders();
+    }
+
+    function populateBordersTree() {
+        const tree = document.getElementById('bordersTree');
+        tree.innerHTML = '';
+        const era = currentEraId || 'actuelle';
+
+        // Build hierarchy: continents → pays → regions
+        const continents = [];
+        const orphans = [];
+
+        Object.keys(bordersData).forEach(key => {
+            const b = bordersData[key];
+            const bEra = b.era_id || 'actuelle';
+            if (bEra !== 'actuelle' && bEra !== era) return;
+            if (b.entity_type === 'continentsElements') {
+                continents.push({ key, border: b, children: [] });
+            }
+        });
+
+        // Attach pays to continents
+        Object.keys(bordersData).forEach(key => {
+            const b = bordersData[key];
+            const bEra = b.era_id || 'actuelle';
+            if (bEra !== 'actuelle' && bEra !== era) return;
+            if (b.entity_type === 'paysElements') {
+                const parent = continents.find(c => c.border.name === b.parent_name);
+                if (parent) {
+                    parent.children.push({ key, border: b, children: [] });
+                } else {
+                    orphans.push({ key, border: b, children: [] });
+                }
+            }
+        });
+
+        // Attach regions to pays
+        Object.keys(bordersData).forEach(key => {
+            const b = bordersData[key];
+            const bEra = b.era_id || 'actuelle';
+            if (bEra !== 'actuelle' && bEra !== era) return;
+            if (b.entity_type === 'regionElements') {
+                let attached = false;
+                for (const cont of continents) {
+                    const parentPays = cont.children.find(p => p.border.name === b.parent_name);
+                    if (parentPays) { parentPays.children.push({ key, border: b }); attached = true; break; }
+                }
+                if (!attached) {
+                    for (const orph of orphans) {
+                        if (orph.border.name === b.parent_name) { orph.children.push({ key, border: b }); attached = true; break; }
+                    }
+                }
+                if (!attached) orphans.push({ key, border: b, children: [] });
+            }
+        });
+
+        function createItem(node, level) {
+            const item = document.createElement('div');
+            item.className = 'border-tree-item' + (node.key === selectedBorderKey ? ' selected' : '');
+            item.style.paddingLeft = (8 + level * 16) + 'px';
+
+            const hasChildren = node.children && node.children.length > 0;
+            const toggle = document.createElement('span');
+            toggle.className = 'tree-toggle';
+            toggle.textContent = hasChildren ? '\u25BC' : '';
+            item.appendChild(toggle);
+
+            const dot = document.createElement('span');
+            dot.className = 'border-type-dot';
+            const typeClass = node.border.entity_type === 'continentsElements' ? 'continent' :
+                              node.border.entity_type === 'paysElements' ? 'pays' : 'region';
+            dot.classList.add(typeClass);
+            item.appendChild(dot);
+
+            const label = document.createElement('span');
+            label.textContent = node.border.name;
+            item.appendChild(label);
+
+            item.addEventListener('click', (e) => {
+                e.stopPropagation();
+                selectBorder(node.key);
+            });
+
+            return item;
+        }
+
+        function renderNode(container, node, level) {
+            container.appendChild(createItem(node, level));
+            if (node.children && node.children.length > 0) {
+                const childContainer = document.createElement('div');
+                childContainer.className = 'border-tree-children';
+                node.children.forEach(child => renderNode(childContainer, child, level + 1));
+                container.appendChild(childContainer);
+            }
+        }
+
+        continents.forEach(c => renderNode(tree, c, 0));
+
+        // Orphans under "Ocean" group
+        if (orphans.length > 0) {
+            const oceanHeader = document.createElement('div');
+            oceanHeader.className = 'border-tree-item';
+            oceanHeader.style.paddingLeft = '8px';
+            oceanHeader.style.color = 'var(--text-muted)';
+            oceanHeader.style.fontStyle = 'italic';
+            const oceanDot = document.createElement('span');
+            oceanDot.className = 'border-type-dot ocean';
+            oceanHeader.appendChild(oceanDot);
+            const oceanLabel = document.createElement('span');
+            oceanLabel.textContent = 'Non rattach\u00e9s';
+            oceanHeader.appendChild(oceanLabel);
+            tree.appendChild(oceanHeader);
+            orphans.forEach(o => renderNode(tree, o, 1));
+        }
+
+        if (tree.children.length === 0) {
+            tree.innerHTML = '<div style="font-size:11px; color:var(--text-muted); padding:8px;">Aucune fronti\u00e8re</div>';
+        }
+    }
+
+    function selectBorder(key) {
+        if (selectedBorderKey === key) {
+            deselectBorder();
+            return;
+        }
+        deselectBorder();
+        selectedBorderKey = key;
+        const border = bordersData[key];
+        if (!border) return;
+
+        // Update edit section
+        document.getElementById('borderEditSection').style.display = 'block';
+        document.getElementById('borderEditName').textContent = border.name;
+        const typeColors = BORDER_TYPE_COLORS[border.entity_type] || BORDER_TYPE_COLORS.paysElements;
+        document.getElementById('borderEditDot').style.background = typeColors.dot;
+        document.getElementById('borderEditType').textContent = typeColors.label;
+        document.getElementById('borderEditPointCount').textContent = border.points ? border.points.length : 0;
+
+        if (border.parent_name) {
+            document.getElementById('borderEditParentInfo').style.display = 'block';
+            document.getElementById('borderEditParent').textContent = border.parent_name;
+        } else {
+            document.getElementById('borderEditParentInfo').style.display = 'none';
+        }
+
+        if (border.color) {
+            document.getElementById('borderEditColor').value = border.color;
+        }
+
+        renderAllBorders();
+        renderBorderEditHandles(key);
+        populateBordersTree();
+    }
+
+    function deselectBorder() {
+        selectedBorderKey = null;
+        borderAddPointMode = false;
+        borderDeletePointMode = false;
+        clearBorderEditHandles();
+        document.getElementById('borderEditSection').style.display = 'none';
+        document.getElementById('borderAddPointBtn').classList.remove('active');
+        document.getElementById('borderDeletePointBtn').classList.remove('active');
+        viewer.canvas.style.cursor = '';
+    }
+
+    function clearBorderEditHandles() {
+        while (borderEditLayer.firstChild) borderEditLayer.removeChild(borderEditLayer.firstChild);
+        borderEditHandles = [];
+        borderMidHandles = [];
+    }
+
+    function getBorderHandleRadius() {
+        const zoom = viewer.viewport.getZoom();
+        const containerWidth = viewer.container.clientWidth;
+        return Math.max(0.001, Math.min(0.008, 6 / (zoom * containerWidth)));
+    }
+
+    function renderBorderEditHandles(key) {
+        clearBorderEditHandles();
+        const border = bordersData[key];
+        if (!border || !border.points) return;
+
+        const r = getBorderHandleRadius();
+        const points = border.points;
+        const typeColors = BORDER_TYPE_COLORS[border.entity_type] || BORDER_TYPE_COLORS.paysElements;
+
+        // Vertex handles
+        points.forEach((pt, idx) => {
+            const circle = document.createElementNS("http://www.w3.org/2000/svg", "circle");
+            circle.setAttribute('cx', pt.x);
+            circle.setAttribute('cy', pt.y);
+            circle.setAttribute('r', r);
+            circle.setAttribute('fill', '#c9a84c');
+            circle.setAttribute('stroke', '#1a1a2e');
+            circle.setAttribute('stroke-width', r * 0.3);
+            circle.setAttribute('pointer-events', 'all');
+            circle.setAttribute('cursor', 'grab');
+            circle.style.touchAction = 'none';
+            circle.dataset.idx = idx;
+
+            circle.addEventListener('pointerdown', (evt) => onBorderHandleDown(evt, idx, circle));
+
+            if (borderDeletePointMode) {
+                circle.setAttribute('cursor', 'pointer');
+                circle.setAttribute('fill', '#e07070');
+                circle.addEventListener('click', (evt) => {
+                    evt.stopPropagation();
+                    deleteBorderPoint(key, idx);
+                });
+            }
+
+            borderEditLayer.appendChild(circle);
+            borderEditHandles.push(circle);
+        });
+
+        // Midpoint handles (for inserting new points)
+        for (let i = 0; i < points.length; i++) {
+            const next = (i + 1) % points.length;
+            const mx = (points[i].x + points[next].x) / 2;
+            const my = (points[i].y + points[next].y) / 2;
+
+            const mid = document.createElementNS("http://www.w3.org/2000/svg", "circle");
+            mid.setAttribute('cx', mx);
+            mid.setAttribute('cy', my);
+            mid.setAttribute('r', r * 0.55);
+            mid.setAttribute('fill', 'rgba(201, 168, 76, 0.4)');
+            mid.setAttribute('stroke', 'rgba(201, 168, 76, 0.6)');
+            mid.setAttribute('stroke-width', r * 0.2);
+            mid.setAttribute('pointer-events', 'all');
+            mid.setAttribute('cursor', 'pointer');
+            mid.style.touchAction = 'none';
+
+            mid.addEventListener('pointerdown', (evt) => {
+                evt.stopPropagation();
+                evt.preventDefault();
+                // Insert new point at this position
+                const insertIdx = next === 0 ? points.length : next;
+                border.points.splice(insertIdx, 0, { x: mx, y: my });
+                renderAllBorders();
+                renderBorderEditHandles(key);
+                updateBorderEditInfo(key);
+                // Start dragging the new point immediately
+                const newHandle = borderEditHandles[insertIdx];
+                if (newHandle) {
+                    onBorderHandleDown(evt, insertIdx, newHandle);
+                }
+            });
+
+            borderEditLayer.appendChild(mid);
+            borderMidHandles.push(mid);
+        }
+    }
+
+    function onBorderHandleDown(evt, idx, handle) {
+        if (borderDeletePointMode) return;
+        evt.preventDefault();
+        evt.stopPropagation();
+        borderDragIdx = idx;
+        borderDragHandle = handle;
+        handle.setAttribute('cursor', 'grabbing');
+        handle.setAttribute('fill', '#e74c3c');
+        handle.setPointerCapture(evt.pointerId);
+        viewer.setMouseNavEnabled(false);
+
+        function onMove(e) {
+            if (borderDragIdx < 0) return;
+            e.preventDefault();
+            e.stopPropagation();
+            const viewerRect = viewer.container.getBoundingClientRect();
+            const pixelPt = new OpenSeadragon.Point(e.clientX - viewerRect.left, e.clientY - viewerRect.top);
+            const newPt = viewer.viewport.pointFromPixel(pixelPt);
+
+            // Snap check
+            if (borderSnapEnabled) {
+                const snap = findSnapTarget(newPt, selectedBorderKey);
+                if (snap) {
+                    newPt.x = snap.x;
+                    newPt.y = snap.y;
+                    handle.setAttribute('fill', '#3498db');
+                } else {
+                    handle.setAttribute('fill', '#e74c3c');
+                }
+            }
+
+            bordersData[selectedBorderKey].points[borderDragIdx] = { x: newPt.x, y: newPt.y };
+            handle.setAttribute('cx', newPt.x);
+            handle.setAttribute('cy', newPt.y);
+
+            // Update polygon live
+            updateSelectedBorderPolygon();
+        }
+
+        function onUp(e) {
+            if (borderDragIdx < 0) return;
+            handle.releasePointerCapture(e.pointerId);
+            viewer.setMouseNavEnabled(true);
+            borderDragIdx = -1;
+            borderDragHandle = null;
+            renderAllBorders();
+            renderBorderEditHandles(selectedBorderKey);
+        }
+
+        handle.addEventListener('pointermove', onMove);
+        handle.addEventListener('pointerup', onUp);
+        handle.addEventListener('pointercancel', onUp);
+    }
+
+    function updateSelectedBorderPolygon() {
+        if (!selectedBorderKey || !bordersData[selectedBorderKey]) return;
+        const border = bordersData[selectedBorderKey];
+        const pointsStr = border.points.map(p => p.x + ',' + p.y).join(' ');
+        border.svgElements.forEach(poly => {
+            poly.setAttribute('points', pointsStr);
+        });
+    }
+
+    function findSnapTarget(point, excludeKey) {
+        const zoom = viewer.viewport.getZoom();
+        const containerWidth = viewer.container.clientWidth;
+        const threshold = SNAP_THRESHOLD_PX / (zoom * containerWidth);
+
+        let closest = null;
+        let closestDist = threshold;
+
+        Object.keys(bordersData).forEach(key => {
+            if (key === excludeKey) return;
+            const border = bordersData[key];
+            if (!border.points) return;
+            const eraId = border.era_id || 'actuelle';
+            if (eraId !== 'actuelle' && eraId !== currentEraId) return;
+
+            border.points.forEach((pt, idx) => {
+                const dx = pt.x - point.x;
+                const dy = pt.y - point.y;
+                const dist = Math.sqrt(dx * dx + dy * dy);
+                if (dist < closestDist) {
+                    closestDist = dist;
+                    closest = { x: pt.x, y: pt.y, borderKey: key, pointIdx: idx };
+                }
+            });
+        });
+
+        return closest;
+    }
+
+    function updateHandleRadii() {
+        const r = getBorderHandleRadius();
+        borderEditHandles.forEach(h => {
+            h.setAttribute('r', r);
+            h.setAttribute('stroke-width', r * 0.3);
+        });
+        borderMidHandles.forEach(h => {
+            h.setAttribute('r', r * 0.55);
+            h.setAttribute('stroke-width', r * 0.2);
+        });
+    }
+
+    function deleteBorderPoint(key, idx) {
+        const border = bordersData[key];
+        if (!border || !border.points || border.points.length <= 3) {
+            alert('Une fronti\u00e8re doit avoir au moins 3 points.');
+            return;
+        }
+        border.points.splice(idx, 1);
+        renderAllBorders();
+        renderBorderEditHandles(key);
+        updateBorderEditInfo(key);
+    }
+
+    function updateBorderEditInfo(key) {
+        const border = bordersData[key];
+        if (!border) return;
+        document.getElementById('borderEditPointCount').textContent = border.points ? border.points.length : 0;
+    }
+
+    function saveBorder(key) {
+        const border = bordersData[key];
+        if (!border) return;
+
+        const colorInput = document.getElementById('borderEditColor').value;
+        border.color = colorInput;
+
+        fetch('/api/borders', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({
+                password: window._editorPassword,
+                action: 'upsert',
+                data: {
+                    name: border.name,
+                    entity_type: border.entity_type,
+                    era_id: border.era_id || 'actuelle',
+                    points: JSON.stringify(border.points),
+                    color: border.color,
+                    parent_name: border.parent_name
+                }
+            })
+        }).then(r => r.json()).then(result => {
+            if (result.ok) {
+                console.log('Fronti\u00e8re sauvegard\u00e9e:', border.name);
+                renderAllBorders();
+                if (selectedBorderKey === key) renderBorderEditHandles(key);
+            } else {
+                alert('Erreur: ' + (result.error || 'inconnu'));
+            }
+        }).catch(err => alert('Erreur r\u00e9seau: ' + err.message));
+    }
+
+    function deleteBorder(key) {
+        const border = bordersData[key];
+        if (!border) return;
+        if (!confirm('Supprimer la fronti\u00e8re "' + border.name + '" ?')) return;
+
+        fetch('/api/borders', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({
+                password: window._editorPassword,
+                action: 'delete',
+                data: {
+                    name: border.name,
+                    entity_type: border.entity_type,
+                    era_id: border.era_id || 'actuelle'
+                }
+            })
+        }).then(r => r.json()).then(result => {
+            if (result.ok) {
+                delete bordersData[key];
+                deselectBorder();
+                renderAllBorders();
+                populateBordersTree();
+            } else {
+                alert('Erreur: ' + (result.error || 'inconnu'));
+            }
+        }).catch(err => alert('Erreur r\u00e9seau: ' + err.message));
+    }
+
+    function populateParentDropdown() {
+        const type = document.getElementById('borderNewType').value;
+        const parentGroup = document.getElementById('borderParentGroup');
+        const parentSelect = document.getElementById('borderNewParent');
+
+        if (type === 'continentsElements') {
+            parentGroup.style.display = 'none';
+            return;
+        }
+
+        parentGroup.style.display = 'block';
+        parentSelect.innerHTML = '<option value="">-- Choisir --</option>';
+
+        const era = currentEraId || 'actuelle';
+
+        if (type === 'paysElements') {
+            // List all continents
+            Object.values(bordersData).forEach(b => {
+                const bEra = b.era_id || 'actuelle';
+                if (bEra !== 'actuelle' && bEra !== era) return;
+                if (b.entity_type === 'continentsElements') {
+                    const opt = document.createElement('option');
+                    opt.value = b.name;
+                    opt.textContent = b.name;
+                    parentSelect.appendChild(opt);
+                }
+            });
+        } else if (type === 'regionElements') {
+            // List all pays
+            Object.values(bordersData).forEach(b => {
+                const bEra = b.era_id || 'actuelle';
+                if (bEra !== 'actuelle' && bEra !== era) return;
+                if (b.entity_type === 'paysElements') {
+                    const opt = document.createElement('option');
+                    opt.value = b.name;
+                    opt.textContent = b.name + (b.parent_name ? ' (' + b.parent_name + ')' : '');
+                    parentSelect.appendChild(opt);
+                }
+            });
+        }
+    }
+
+    function startBorderDrawFromPanel() {
+        const type = document.getElementById('borderNewType').value;
+        const parent = document.getElementById('borderNewParent').value;
+        const name = document.getElementById('borderNewName').value.trim();
+
+        if (!name) {
+            alert('Veuillez entrer un nom pour la fronti\u00e8re.');
+            return;
+        }
+
+        // Check if name already exists
+        const era = currentEraId || 'actuelle';
+        const existingKey = name + '|' + era;
+        if (bordersData[existingKey]) {
+            alert('Une fronti\u00e8re avec ce nom existe d\u00e9j\u00e0.');
+            return;
+        }
+
+        // Validate parent requirement
+        if (type === 'paysElements' && !parent) {
+            alert('Un pays doit avoir un continent parent.');
+            return;
+        }
+        if (type === 'regionElements' && !parent) {
+            alert('Une r\u00e9gion doit avoir un pays parent.');
+            return;
+        }
+
+        // Enter draw mode
+        borderDrawMode = true;
+        borderDrawPoints = [];
+        document.getElementById('borderStartDraw').classList.add('active');
+        document.getElementById('borderDrawHint').style.display = 'block';
+        viewer.canvas.style.cursor = 'crosshair';
+
+        // Store metadata for when drawing finishes
+        window._borderDrawMeta = { name, type, parent: parent || null, era };
+    }
+
+    function finishBorderDrawPanel() {
+        const meta = window._borderDrawMeta;
+        if (!meta || borderDrawPoints.length < 3) return;
+
+        const savedPoints = [...borderDrawPoints];
+
+        // Clean up preview
+        borderDrawPreview.forEach(el => el.remove());
+        borderDrawPreview = [];
+        borderDrawPoints = [];
+        borderDrawMode = false;
+        document.getElementById('borderStartDraw').classList.remove('active');
+        document.getElementById('borderDrawHint').style.display = 'none';
+        viewer.canvas.style.cursor = '';
+
+        const key = meta.name + '|' + meta.era;
+
+        // Save to API
+        fetch('/api/borders', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({
+                password: window._editorPassword,
+                action: 'upsert',
+                data: {
+                    name: meta.name,
+                    entity_type: meta.type,
+                    era_id: meta.era,
+                    points: JSON.stringify(savedPoints),
+                    parent_name: meta.parent
+                }
+            })
+        }).then(r => r.json()).then(result => {
+            if (result.ok) {
+                bordersData[key] = {
+                    name: meta.name,
+                    entity_type: meta.type,
+                    era_id: meta.era,
+                    points: savedPoints,
+                    color: null,
+                    parent_name: meta.parent,
+                    svgElements: []
+                };
+                renderAllBorders();
+                populateBordersTree();
+                selectBorder(key);
+                // Clear form
+                document.getElementById('borderNewName').value = '';
+                console.log('Fronti\u00e8re cr\u00e9\u00e9e:', meta.name);
+            } else {
+                alert('Erreur: ' + (result.error || 'inconnu'));
+            }
+        }).catch(err => alert('Erreur r\u00e9seau: ' + err.message));
+
+        window._borderDrawMeta = null;
     }
 
     // ===== TIMELINE V4 : Monotonic year-based slider =====
@@ -931,36 +1591,36 @@ function initMap() {
         // Recherche
         initSearchHandlers();
 
-        // Boutons de contrôle
-        document.getElementById('toggleText').addEventListener('click', toggleTextVisibility);
-        document.getElementById('toggleBorders').addEventListener('click', toggleBorders);
+        // Boutons de contrôle (onclick= pour éviter les doublons si initMap() est appelé plusieurs fois)
+        document.getElementById('toggleText').onclick = toggleTextVisibility;
+        document.getElementById('toggleBorders').onclick = toggleBorders;
         const colorFilterBtn = document.getElementById('toggleColorFilter');
-        if (colorFilterBtn) colorFilterBtn.addEventListener('click', toggleColorFilter);
-        document.getElementById('toggleWrapping').addEventListener('click', toggleWrapping);
-        document.getElementById('clickZoomRange').addEventListener('input', (e) => {
+        if (colorFilterBtn) colorFilterBtn.onclick = toggleColorFilter;
+        document.getElementById('toggleWrapping').onclick = toggleWrapping;
+        document.getElementById('clickZoomRange').oninput = (e) => {
             const pct = parseInt(e.target.value);
-            clickZoomMultiplier = 1.5 * (pct / 100); // 100% = 1.5x, 50% = 0.75x, 200% = 3x
+            clickZoomMultiplier = 1.5 * (pct / 100);
             document.getElementById('clickZoomValue').textContent = pct + '%';
-        });
-        document.getElementById('measureDistance').addEventListener('click', () => startMeasure('distance'));
-        document.getElementById('measureArea').addEventListener('click', () => startMeasure('area'));
-        document.getElementById('toggleEditor').addEventListener('click', toggleEditor);
-        document.getElementById('toggleMarkers').addEventListener('click', toggleMarkers);
-        document.getElementById('toggleGrid').addEventListener('click', toggleGrid);
+        };
+        document.getElementById('measureDistance').onclick = () => startMeasure('distance');
+        document.getElementById('measureArea').onclick = () => startMeasure('area');
+        document.getElementById('toggleEditor').onclick = toggleEditor;
+        document.getElementById('toggleMarkers').onclick = toggleMarkers;
+        document.getElementById('toggleGrid').onclick = toggleGrid;
 
         // Navigation personnalisée
-        document.getElementById('navZoomIn').addEventListener('click', () => {
+        document.getElementById('navZoomIn').onclick = () => {
             viewer.viewport.zoomBy(1.5);
             viewer.viewport.applyConstraints();
-        });
-        document.getElementById('navZoomOut').addEventListener('click', () => {
+        };
+        document.getElementById('navZoomOut').onclick = () => {
             viewer.viewport.zoomBy(0.667);
             viewer.viewport.applyConstraints();
-        });
-        document.getElementById('navHome').addEventListener('click', () => {
+        };
+        document.getElementById('navHome').onclick = () => {
             viewer.viewport.goHome();
-        });
-        document.getElementById('navFullscreen').addEventListener('click', () => {
+        };
+        document.getElementById('navFullscreen').onclick = () => {
             const el = document.getElementById('openseadragon1');
             if (document.fullscreenElement) {
                 document.exitFullscreen();
@@ -969,22 +1629,56 @@ function initMap() {
                     console.warn('Fullscreen non supporté:', err);
                 });
             }
-        });
+        };
 
         // Mesure : boutons barre
-        document.getElementById('measureCancel').addEventListener('click', cancelMeasure);
-        document.getElementById('measureClear').addEventListener('click', clearAllMeasures);
-        document.getElementById('measureUndo').addEventListener('click', undoMeasurePoint);
+        document.getElementById('measureCancel').onclick = cancelMeasure;
+        document.getElementById('measureClear').onclick = clearAllMeasures;
+        document.getElementById('measureUndo').onclick = undoMeasurePoint;
 
         // Escape pour annuler la mesure
-        document.addEventListener('keydown', function(e) {
+        document.onkeydown = function(e) {
             if (e.key === 'Escape' && measureMode) {
                 cancelMeasure();
             }
-        });
+        };
 
         // Contrôles de grille
         initGridControls();
+
+        // Zoom level bar
+        initZoomLevelBar();
+
+        // Editor panel events
+        document.getElementById('closeEditorPanel').onclick = () => disableEditorMode();
+        document.getElementById('editorModeMove').onclick = () => setEditorMode('move');
+        document.getElementById('editorModeBorders').onclick = () => setEditorMode('borders');
+        document.getElementById('editorModeAddPoint').onclick = () => setEditorMode('addPoint');
+
+        // Borders panel events
+        document.getElementById('closeBordersPanel').onclick = () => setEditorMode('none');
+        document.getElementById('borderNewType').onchange = populateParentDropdown;
+        document.getElementById('borderStartDraw').onclick = startBorderDrawFromPanel;
+        document.getElementById('borderAddPointBtn').onclick = () => {
+            borderAddPointMode = !borderAddPointMode;
+            borderDeletePointMode = false;
+            document.getElementById('borderAddPointBtn').classList.toggle('active', borderAddPointMode);
+            document.getElementById('borderDeletePointBtn').classList.remove('active');
+            if (selectedBorderKey) renderBorderEditHandles(selectedBorderKey);
+        };
+        document.getElementById('borderDeletePointBtn').onclick = () => {
+            borderDeletePointMode = !borderDeletePointMode;
+            borderAddPointMode = false;
+            document.getElementById('borderDeletePointBtn').classList.toggle('active', borderDeletePointMode);
+            document.getElementById('borderAddPointBtn').classList.remove('active');
+            if (selectedBorderKey) renderBorderEditHandles(selectedBorderKey);
+        };
+        document.getElementById('borderSaveBtn').onclick = () => {
+            if (selectedBorderKey) saveBorder(selectedBorderKey);
+        };
+        document.getElementById('borderDeleteBtn').onclick = () => {
+            if (selectedBorderKey) deleteBorder(selectedBorderKey);
+        };
 
         // Événements de zoom, pan et resize
         viewer.addHandler('zoom', throttledUpdateVisibility);
@@ -1141,8 +1835,8 @@ function initMap() {
                     });
 
                     allNames.push(entry.name);
-                    allTextElements.push(elements.text);
-                    allRectElements.push(elements.rect);
+                    elements.texts.forEach(t => allTextElements.push(t));
+                    elements.rects.forEach(r => allRectElements.push(r));
                 });
                 updateTextVisibility();
                 console.log(`Base de données chargée: ${entries.length} entrées`);
@@ -1251,6 +1945,7 @@ function initMap() {
                 circle.setAttribute("stroke", "rgba(0,0,0,0.6)");
                 circle.setAttribute("stroke-width", fontSize * 0.08);
                 circle.setAttribute("pointer-events", "none");
+                if (!markersVisible) circle.style.display = 'none';
                 svgOverlay.node().appendChild(circle);
                 allTexts.push(circle); // Suit la visibilité zoom
                 allMarkers.push(circle);
@@ -1683,11 +2378,7 @@ function initMap() {
     }
 
     function updateTextVisibility() {
-        if (!textVisibilityEnabled) {
-            allTextElements.forEach(el => el.style.display = 'none');
-            allRectElements.forEach(el => el.style.display = 'none');
-            return;
-        }
+        if (!textVisibilityEnabled) return;
 
         // Utiliser le zoom visuel normalisé (indépendant de la largeur fenêtre)
         const visualZoom = toVisualZoom(viewer.viewport.getZoom());
@@ -1761,6 +2452,15 @@ function initMap() {
 
     function toggleTextVisibility() {
         textVisibilityEnabled = !textVisibilityEnabled;
+        document.getElementById('toggleText').classList.toggle('active', !textVisibilityEnabled);
+        if (!textVisibilityEnabled) {
+            allTextElements.forEach(el => el.style.display = 'none');
+            allRectElements.forEach(el => el.style.display = 'none');
+            Object.values(elementStorage).forEach(elements => {
+                elements.forEach(el => { el._visible = false; });
+            });
+            return;
+        }
         updateTextVisibility();
     }
 
@@ -1831,8 +2531,87 @@ function initMap() {
     }
 
     // Gestion de la grille
+    // === Zoom Level Bar ===
+
+    const ZOOM_STOPS = [0, 2, 4, 10, 16, 20];
+
+    function initZoomLevelBar() {
+        const bar = document.getElementById('zoomLevelBar');
+        if (!bar) return;
+
+        const stops = bar.querySelectorAll('.zlb-stop');
+        const tracks = bar.querySelectorAll('.zlb-track');
+
+        // Click on a stop → zoom to that level
+        stops.forEach(stop => {
+            stop.onclick = () => {
+                const targetVisual = parseFloat(stop.dataset.zoom);
+                const osdZoom = targetVisual * REF_WIDTH / viewer.container.clientWidth;
+                const clampedZoom = Math.max(viewer.viewport.getMinZoom(), Math.min(osdZoom, viewer.viewport.getMaxZoom()));
+                viewer.viewport.zoomTo(clampedZoom);
+                viewer.viewport.applyConstraints();
+            };
+        });
+
+        // Click on a track → zoom to midpoint between adjacent stops
+        tracks.forEach((track, i) => {
+            track.onclick = (e) => {
+                e.stopPropagation();
+                const rect = track.getBoundingClientRect();
+                const pct = (e.clientY - rect.top) / rect.height;
+                const lowZoom = ZOOM_STOPS[i];
+                const highZoom = ZOOM_STOPS[i + 1];
+                const targetVisual = lowZoom + (highZoom - lowZoom) * pct;
+                const osdZoom = targetVisual * REF_WIDTH / viewer.container.clientWidth;
+                const clampedZoom = Math.max(viewer.viewport.getMinZoom(), Math.min(osdZoom, viewer.viewport.getMaxZoom()));
+                viewer.viewport.zoomTo(clampedZoom);
+                viewer.viewport.applyConstraints();
+            };
+        });
+
+        // Update on zoom change
+        viewer.addHandler('zoom', updateZoomLevelBar);
+        viewer.addHandler('animation-finish', updateZoomLevelBar);
+        updateZoomLevelBar();
+    }
+
+    function updateZoomLevelBar() {
+        const bar = document.getElementById('zoomLevelBar');
+        if (!bar) return;
+
+        const visualZoom = toVisualZoom(viewer.viewport.getZoom());
+        const stops = bar.querySelectorAll('.zlb-stop');
+        const tracks = bar.querySelectorAll('.zlb-track');
+
+        // Update stop highlights
+        stops.forEach(stop => {
+            const z = parseFloat(stop.dataset.zoom);
+            stop.classList.toggle('active', visualZoom >= z);
+        });
+
+        // Update track fills
+        tracks.forEach((track, i) => {
+            const low = ZOOM_STOPS[i];
+            const high = ZOOM_STOPS[i + 1];
+            const fill = track.querySelector('.zlb-fill');
+            if (!fill) return;
+
+            if (visualZoom <= low) {
+                fill.style.height = '0%';
+            } else if (visualZoom >= high) {
+                fill.style.height = '100%';
+            } else {
+                const pct = ((visualZoom - low) / (high - low)) * 100;
+                fill.style.height = pct + '%';
+            }
+        });
+    }
+
     function toggleGrid() {
         gridVisible = !gridVisible;
+        document.getElementById('toggleGrid').classList.toggle('active', gridVisible);
+        const gridBlock = document.getElementById('gridControlsBlock');
+        if (gridBlock) gridBlock.style.display = gridVisible ? 'block' : 'none';
         if (gridVisible) {
             createGrid();
             gridLayer.style.display = 'block';
@@ -1970,50 +2749,27 @@ function initMap() {
     function enableEditorMode() {
         editorMode = true;
         document.getElementById('toggleEditor').classList.add('active');
-        document.getElementById('addPointBtn').style.display = '';
-        document.getElementById('addPointOptions').style.display = 'none';
-        document.getElementById('drawBorderBtn').style.display = '';
-
-        // Border drawing
-        function onDrawBorderClick() {
-            borderDrawMode = !borderDrawMode;
-            addPointMode = false;
-            document.getElementById('addPointBtn').classList.remove('active');
-            document.getElementById('addPointOptions').style.display = 'none';
-            document.getElementById('drawBorderBtn').classList.toggle('active', borderDrawMode);
-            document.getElementById('drawBorderOptions').style.display = borderDrawMode ? 'block' : 'none';
-            viewer.canvas.style.cursor = borderDrawMode ? 'crosshair' : '';
-            if (borderDrawMode) {
-                // Force borders visible as guide
-                bordersLayer.style.display = 'block';
-                document.getElementById('toggleBorders').classList.add('active');
-            }
-            if (!borderDrawMode) cancelBorderDraw();
-        }
-        document.getElementById('drawBorderBtn').addEventListener('click', onDrawBorderClick);
-        editorTrackers.push({ destroy: () => {
-            document.getElementById('drawBorderBtn').removeEventListener('click', onDrawBorderClick);
-        }});
+        document.getElementById('editorPanel').style.display = 'block';
 
         // Border draw canvas handler
         function borderDrawCanvasHandler(event) {
-            if (!borderDrawMode || !editorMode) return;
+            if (!borderDrawMode || !editorMode || editorActiveMode !== 'borders') return;
             event.preventDefaultAction = true;
             const vp = viewer.viewport.pointFromPixel(event.position);
             borderDrawPoints.push({ x: vp.x, y: vp.y });
 
-            // Draw marker
+            const r = getBorderHandleRadius();
+
             const circle = document.createElementNS("http://www.w3.org/2000/svg", "circle");
             circle.setAttribute("cx", vp.x);
             circle.setAttribute("cy", vp.y);
-            circle.setAttribute("r", 0.003);
+            circle.setAttribute("r", r);
             circle.setAttribute("fill", "#c9a84c");
             circle.setAttribute("stroke", "rgba(0,0,0,0.5)");
-            circle.setAttribute("stroke-width", 0.0005);
-            measureLayer.appendChild(circle);
+            circle.setAttribute("stroke-width", r * 0.2);
+            borderEditLayer.appendChild(circle);
             borderDrawPreview.push(circle);
 
-            // Draw line to previous point
             if (borderDrawPoints.length > 1) {
                 const prev = borderDrawPoints[borderDrawPoints.length - 2];
                 const line = document.createElementNS("http://www.w3.org/2000/svg", "line");
@@ -2023,7 +2779,7 @@ function initMap() {
                 line.setAttribute("y2", vp.y);
                 line.setAttribute("stroke", "rgba(201, 168, 76, 0.8)");
                 line.setAttribute("stroke-width", 0.001);
-                measureLayer.appendChild(line);
+                borderEditLayer.appendChild(line);
                 borderDrawPreview.push(line);
             }
         }
@@ -2036,7 +2792,7 @@ function initMap() {
         function borderDrawDblClick(event) {
             if (!borderDrawMode || borderDrawPoints.length < 3) return;
             event.preventDefaultAction = true;
-            finishBorderDraw();
+            finishBorderDrawPanel();
         }
         viewer.addHandler('canvas-double-click', borderDrawDblClick);
         editorTrackers.push({ destroy: () => {
@@ -2052,26 +2808,9 @@ function initMap() {
             document.removeEventListener('keydown', borderDrawKeyHandler);
         }});
 
-        // Bouton ajouter un point
-        function onAddPointClick() {
-            addPointMode = !addPointMode;
-            // Désactiver le mode frontière si on active le mode ajout de point
-            if (addPointMode && borderDrawMode) {
-                cancelBorderDraw();
-            }
-            document.getElementById('addPointBtn').classList.toggle('active', addPointMode);
-            document.getElementById('addPointOptions').style.display = addPointMode ? 'block' : 'none';
-            viewer.canvas.style.cursor = addPointMode ? 'crosshair' : '';
-        }
-        document.getElementById('addPointBtn').addEventListener('click', onAddPointClick);
-        editorTrackers.push({ destroy: () => {
-            document.getElementById('addPointBtn').removeEventListener('click', onAddPointClick);
-        }});
-
-        // Handler pour placer un nouveau point sur clic canvas
-        const origCanvasClick = viewer.getHandler('canvas-click');
+        // Add point canvas handler
         function addPointCanvasHandler(event) {
-            if (!addPointMode || !editorMode) return;
+            if (!addPointMode || !editorMode || editorActiveMode !== 'addPoint') return;
             event.preventDefaultAction = true;
             const viewportPoint = viewer.viewport.pointFromPixel(event.position);
             const name = prompt('Nom du nouveau lieu :');
@@ -2102,128 +2841,117 @@ function initMap() {
             elementStorage[config.storage].push(el);
             allNames.push(name.trim());
 
-            // Sauvegarder en DB
             const csvX = coord.x * 1047 - 527.5;
             const csvY = coord.y * 1047 - 535;
             saveOverride(name.trim(), storage, csvX, csvY);
 
-            // Attacher drag au nouveau marqueur
-            if (window._attachDragToElement) window._attachDragToElement(el);
-
-            // Rendre visible
             updateTextVisibility();
-
-            // Désactiver le mode ajout
-            addPointMode = false;
-            document.getElementById('addPointBtn').classList.remove('active');
-            document.getElementById('addPointOptions').style.display = 'none';
-            viewer.canvas.style.cursor = '';
         }
         viewer.addHandler('canvas-click', addPointCanvasHandler);
         editorTrackers.push({ destroy: () => {
             viewer.removeHandler('canvas-click', addPointCanvasHandler);
         }});
+    }
 
-        let dragEl = null;       // element being dragged
-        let dragMarker = null;   // circle being dragged
+    // === Drag system (separate from editor mode for mode isolation) ===
 
-        function onPointerMove(evt) {
-            if (!dragEl) return;
+    let dragEl = null;
+    let dragMarker = null;
+
+    function onPointerMove(evt) {
+        if (!dragEl) return;
+        evt.preventDefault();
+        evt.stopPropagation();
+        const viewerRect = viewer.container.getBoundingClientRect();
+        const pixelPt = new OpenSeadragon.Point(
+            evt.clientX - viewerRect.left,
+            evt.clientY - viewerRect.top
+        );
+        const newPt = viewer.viewport.pointFromPixel(pixelPt);
+
+        dragEl.coord.x = newPt.x;
+        dragEl.coord.y = newPt.y;
+        dragEl.textCoord.x = newPt.x + dragEl.xOffset;
+        dragEl.textCoord.y = newPt.y + dragEl.yOffset;
+
+        const fontSize = dragEl.fontSize;
+        const textWidth = dragEl.name.length * fontSize * 0.6;
+        const textHeight = fontSize * 1.1;
+
+        if (dragMarker.tagName === 'circle') {
+            dragMarker.setAttribute("cx", newPt.x);
+            dragMarker.setAttribute("cy", newPt.y);
+        }
+
+        dragEl.texts.forEach(t => {
+            if (t.tagName === 'text') {
+                t.setAttribute("x", newPt.x + dragEl.xOffset);
+                t.setAttribute("y", newPt.y + dragEl.yOffset);
+            }
+        });
+        dragEl.rects.forEach(r => {
+            if (r.tagName === 'rect') {
+                r.setAttribute("x", newPt.x + dragEl.xOffset - textWidth / 2);
+                r.setAttribute("y", newPt.y + dragEl.yOffset - textHeight + (fontSize * 0.3));
+            }
+        });
+    }
+
+    function onPointerUp(evt) {
+        if (!dragEl) return;
+        dragMarker.setAttribute("cursor", "grab");
+        if (dragMarker.tagName === 'circle') dragMarker.setAttribute("fill", "#c9a84c");
+        dragMarker.releasePointerCapture(evt.pointerId);
+        const csvX = dragEl.coord.x * 1047 - 527.5;
+        const csvY = dragEl.coord.y * 1047 - 535;
+        saveOverride(dragEl.name, dragEl.storage, csvX, csvY);
+        viewer.setMouseNavEnabled(true);
+        dragEl = null;
+        dragMarker = null;
+    }
+
+    function attachDragToElement(el) {
+        let handle;
+        if (el.markers && el.markers.length > 0) {
+            handle = el.markers[0];
+        } else if (el.rects && el.rects.length > 0) {
+            handle = el.rects[0];
+        } else {
+            return;
+        }
+
+        handle.setAttribute("pointer-events", "all");
+        handle.setAttribute("cursor", "grab");
+        handle.style.touchAction = "none";
+
+        function onPointerDown(evt) {
+            if (!editorMode || editorActiveMode !== 'move') return;
             evt.preventDefault();
             evt.stopPropagation();
-            const viewerRect = viewer.container.getBoundingClientRect();
-            const pixelPt = new OpenSeadragon.Point(
-                evt.clientX - viewerRect.left,
-                evt.clientY - viewerRect.top
-            );
-            const newPt = viewer.viewport.pointFromPixel(pixelPt);
-
-            dragEl.coord.x = newPt.x;
-            dragEl.coord.y = newPt.y;
-            dragEl.textCoord.x = newPt.x + dragEl.xOffset;
-            dragEl.textCoord.y = newPt.y + dragEl.yOffset;
-
-            const fontSize = dragEl.fontSize;
-            const textWidth = dragEl.name.length * fontSize * 0.6;
-            const textHeight = fontSize * 1.1;
-
-            if (dragMarker.tagName === 'circle') {
-                dragMarker.setAttribute("cx", newPt.x);
-                dragMarker.setAttribute("cy", newPt.y);
-            }
-
-            dragEl.texts.forEach(t => {
-                if (t.tagName === 'text') {
-                    t.setAttribute("x", newPt.x + dragEl.xOffset);
-                    t.setAttribute("y", newPt.y + dragEl.yOffset);
-                }
-            });
-            dragEl.rects.forEach(r => {
-                if (r.tagName === 'rect') {
-                    r.setAttribute("x", newPt.x + dragEl.xOffset - textWidth / 2);
-                    r.setAttribute("y", newPt.y + dragEl.yOffset - textHeight + (fontSize * 0.3));
-                }
-            });
+            dragEl = el;
+            dragMarker = handle;
+            handle.setAttribute("cursor", "grabbing");
+            if (handle.tagName === 'circle') handle.setAttribute("fill", "#e74c3c");
+            handle.setPointerCapture(evt.pointerId);
+            viewer.setMouseNavEnabled(false);
         }
 
-        function onPointerUp(evt) {
-            if (!dragEl) return;
-            dragMarker.setAttribute("cursor", "grab");
-            if (dragMarker.tagName === 'circle') dragMarker.setAttribute("fill", "#c9a84c");
-            dragMarker.releasePointerCapture(evt.pointerId);
-            // Auto-save
-            const csvX = dragEl.coord.x * 1047 - 527.5;
-            const csvY = dragEl.coord.y * 1047 - 535;
-            saveOverride(dragEl.name, dragEl.storage, csvX, csvY);
-            viewer.setMouseNavEnabled(true);
-            dragEl = null;
-            dragMarker = null;
-        }
+        handle.addEventListener('pointerdown', onPointerDown);
+        editorDragTrackers.push({ destroy: function() {
+            handle.removeEventListener('pointerdown', onPointerDown);
+        }});
+    }
 
+    function attachAllDragHandlers() {
         document.addEventListener('pointermove', onPointerMove, true);
         document.addEventListener('pointerup', onPointerUp, true);
-        editorTrackers.push({ destroy: function() {
+        editorDragTrackers.push({ destroy: function() {
             document.removeEventListener('pointermove', onPointerMove, true);
             document.removeEventListener('pointerup', onPointerUp, true);
         }});
 
-        // Fonction pour attacher le drag à un élément (réutilisable pour nouveaux points)
-        function attachDragToElement(el) {
-            let handle;
-            if (el.markers && el.markers.length > 0) {
-                handle = el.markers[0];
-            } else if (el.rects && el.rects.length > 0) {
-                handle = el.rects[0];
-            } else {
-                return;
-            }
-
-            handle.setAttribute("pointer-events", "all");
-            handle.setAttribute("cursor", "grab");
-            handle.style.touchAction = "none";
-
-            function onPointerDown(evt) {
-                if (!editorMode) return;
-                evt.preventDefault();
-                evt.stopPropagation();
-                dragEl = el;
-                dragMarker = handle;
-                handle.setAttribute("cursor", "grabbing");
-                if (handle.tagName === 'circle') handle.setAttribute("fill", "#e74c3c");
-                handle.setPointerCapture(evt.pointerId);
-                viewer.setMouseNavEnabled(false);
-            }
-
-            handle.addEventListener('pointerdown', onPointerDown);
-            editorTrackers.push({ destroy: function() {
-                handle.removeEventListener('pointerdown', onPointerDown);
-            }});
-        }
-
-        // Rendre la fonction accessible depuis le handler d'ajout de point
         window._attachDragToElement = attachDragToElement;
 
-        // Attach pointerdown to all draggable elements (markers or rects)
         CONFIG.layers.forEach(config => {
             const storage = elementStorage[config.storage];
             if (!storage) return;
@@ -2231,96 +2959,13 @@ function initMap() {
         });
     }
 
-    function cancelBorderDraw() {
-        borderDrawPoints = [];
-        borderDrawPreview.forEach(el => el.remove());
-        borderDrawPreview = [];
-        borderDrawMode = false;
-        document.getElementById('drawBorderBtn').classList.remove('active');
-        document.getElementById('drawBorderOptions').style.display = 'none';
-        viewer.canvas.style.cursor = '';
-    }
-
-    function finishBorderDraw() {
-        const entityType = document.getElementById('borderEntityType').value;
-        const savedPoints = [...borderDrawPoints];
-
-        // Clean up preview elements but keep draw mode active
-        borderDrawPreview.forEach(el => el.remove());
-        borderDrawPreview = [];
-        borderDrawPoints = [];
-
-        // Show temporary polygon preview
-        const previewPoly = document.createElementNS("http://www.w3.org/2000/svg", "polygon");
-        previewPoly.setAttribute('points', savedPoints.map(p => p.x + ',' + p.y).join(' '));
-        previewPoly.setAttribute('stroke', 'rgba(201, 168, 76, 0.9)');
-        previewPoly.setAttribute('stroke-width', '0.002');
-        previewPoly.setAttribute('fill', 'rgba(201, 168, 76, 0.15)');
-        previewPoly.setAttribute('stroke-linejoin', 'round');
-        bordersLayer.appendChild(previewPoly);
-
-        // Prompt name AFTER drawing
-        const typeLabel = entityType === 'continentsElements' ? 'continent' : entityType === 'paysElements' ? 'pays' : 'région';
-        const name = prompt(`Nom du ${typeLabel} pour ce polygone :`);
-
-        // Remove preview
-        previewPoly.remove();
-
-        if (!name || !name.trim()) {
-            return;
-        }
-
-        // Save to API
-        fetch('/api/borders', {
-            method: 'POST',
-            headers: { 'Content-Type': 'application/json' },
-            body: JSON.stringify({
-                password: window._editorPassword,
-                action: 'upsert',
-                data: {
-                    name: name.trim(),
-                    entity_type: entityType,
-                    era_id: currentEraId || 'actuelle',
-                    points: JSON.stringify(savedPoints)
-                }
-            })
-        }).then(r => r.json()).then(result => {
-            if (result.ok) {
-                const key = name.trim() + '|' + (currentEraId || 'actuelle');
-                bordersData[key] = {
-                    name: name.trim(),
-                    entity_type: entityType,
-                    era_id: currentEraId || 'actuelle',
-                    points: savedPoints,
-                    color: null,
-                    svgElements: []
-                };
-                renderAllBorders();
-                console.log(`Frontière sauvegardée: ${name.trim()} (${typeLabel})`);
-            } else {
-                alert('Erreur: ' + (result.error || 'inconnu'));
-            }
-        }).catch(err => alert('Erreur réseau: ' + err.message));
-    }
-
-    function disableEditorMode() {
-        editorMode = false;
-        addPointMode = false;
-        cancelBorderDraw();
-        document.getElementById('toggleEditor').classList.remove('active');
-        document.getElementById('addPointBtn').style.display = 'none';
-        document.getElementById('addPointBtn').classList.remove('active');
-        document.getElementById('addPointOptions').style.display = 'none';
-        document.getElementById('drawBorderBtn').style.display = 'none';
-        document.getElementById('drawBorderOptions').style.display = 'none';
-        viewer.canvas.style.cursor = '';
+    function detachAllDragHandlers() {
+        editorDragTrackers.forEach(t => t.destroy());
+        editorDragTrackers = [];
         window._attachDragToElement = null;
+        dragEl = null;
+        dragMarker = null;
 
-        // Remove all editor trackers
-        editorTrackers.forEach(t => t.destroy());
-        editorTrackers = [];
-
-        // Reset marker/rect styles
         CONFIG.layers.forEach(config => {
             const storage = elementStorage[config.storage];
             if (!storage) return;
@@ -2335,6 +2980,85 @@ function initMap() {
                     el.rects.forEach(r => {
                         r.removeAttribute("cursor");
                     });
+                }
+            });
+        });
+    }
+
+    function setEditorMode(mode) {
+        // Clean up previous mode
+        if (editorActiveMode === 'move') {
+            detachAllDragHandlers();
+        }
+        if (editorActiveMode === 'borders') {
+            closeBordersPanel();
+        }
+        if (editorActiveMode === 'addPoint') {
+            addPointMode = false;
+            viewer.canvas.style.cursor = '';
+            document.getElementById('addPointOptions').style.display = 'none';
+        }
+
+        // Update buttons
+        document.querySelectorAll('.editor-mode-btn').forEach(b => b.classList.remove('active'));
+
+        // Toggle: if same mode, deactivate
+        if (editorActiveMode === mode) {
+            editorActiveMode = 'none';
+            return;
+        }
+
+        editorActiveMode = mode;
+
+        // Activate new mode
+        if (mode === 'move') {
+            attachAllDragHandlers();
+            document.getElementById('editorModeMove').classList.add('active');
+        }
+        if (mode === 'borders') {
+            openBordersPanel();
+            document.getElementById('editorModeBorders').classList.add('active');
+        }
+        if (mode === 'addPoint') {
+            addPointMode = true;
+            viewer.canvas.style.cursor = 'crosshair';
+            document.getElementById('editorModeAddPoint').classList.add('active');
+            document.getElementById('addPointOptions').style.display = 'block';
+        }
+    }
+
+    function cancelBorderDraw() {
+        borderDrawPoints = [];
+        borderDrawPreview.forEach(el => el.remove());
+        borderDrawPreview = [];
+        borderDrawMode = false;
+        const startBtn = document.getElementById('borderStartDraw');
+        if (startBtn) startBtn.classList.remove('active');
+        const hint = document.getElementById('borderDrawHint');
+        if (hint) hint.style.display = 'none';
+        viewer.canvas.style.cursor = '';
+        window._borderDrawMeta = null;
+    }
+
+    function disableEditorMode() {
+        setEditorMode('none');
+        editorMode = false;
+        cancelBorderDraw();
+        document.getElementById('toggleEditor').classList.remove('active');
+        document.getElementById('editorPanel').style.display = 'none';
+        viewer.canvas.style.cursor = '';
+
+        // Remove all editor trackers
+        editorTrackers.forEach(t => t.destroy());
+        editorTrackers = [];
+
+        // Force markers hidden
+        markersVisible = false;
+        document.getElementById('toggleMarkers').classList.remove('active');
+        Object.values(elementStorage).forEach(elements => {
+            elements.forEach(el => {
+                if (el.markers) {
+                    el.markers.forEach(m => { m.style.display = 'none'; });
                 }
             });
         });
