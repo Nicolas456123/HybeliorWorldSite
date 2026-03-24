@@ -1,0 +1,1237 @@
+<style>
+/* =============================================
+   FRISE V2 — Timeline horizontale scrollable
+   Design : Gantt-like, bandes d'ères, pistes de lignées
+   ============================================= */
+
+/* ── Header ── */
+.frise2-header {
+    text-align: center;
+    padding: 24px 20px 12px;
+}
+.frise2-title {
+    font-family: 'Cinzel', serif;
+    font-size: 26px;
+    font-weight: 700;
+    color: var(--gold);
+    letter-spacing: 2px;
+    margin-bottom: 4px;
+}
+.frise2-subtitle {
+    font-family: 'Raleway', sans-serif;
+    font-size: 13px;
+    color: var(--text-muted);
+    font-style: italic;
+    letter-spacing: 0.5px;
+}
+
+/* ── Controls bar (sticky) ── */
+.frise2-controls {
+    position: sticky;
+    top: 0;
+    z-index: 200;
+    background: rgba(232, 220, 196, 0.97);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border-bottom: 1px solid rgba(120, 78, 18, 0.22);
+    padding: 8px 16px;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    flex-wrap: wrap;
+}
+.frise2-zoom-group {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 11px;
+    color: var(--text-muted);
+    font-weight: 600;
+}
+.frise2-zoom-slider {
+    width: 100px;
+    accent-color: var(--gold);
+    cursor: pointer;
+}
+.frise2-zoom-label {
+    min-width: 34px;
+    text-align: center;
+    font-variant-numeric: tabular-nums;
+}
+.frise2-era-nav {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4px;
+}
+.frise2-era-btn {
+    font-family: 'Cinzel', serif;
+    font-size: 10px;
+    font-weight: 600;
+    letter-spacing: 0.8px;
+    padding: 4px 10px;
+    border: 1px solid rgba(120, 78, 18, 0.25);
+    border-radius: 4px;
+    background: rgba(200, 182, 148, 0.3);
+    color: var(--text-muted);
+    cursor: pointer;
+    transition: background 0.15s, border-color 0.15s, color 0.15s;
+    white-space: nowrap;
+}
+.frise2-era-btn:hover {
+    background: rgba(200, 182, 148, 0.55);
+    border-color: rgba(120, 78, 18, 0.45);
+    color: var(--text);
+}
+.frise2-era-btn.active {
+    background: rgba(122, 76, 10, 0.15);
+    border-color: var(--gold);
+    color: var(--gold);
+}
+.frise2-link-classic {
+    font-family: 'Raleway', sans-serif;
+    font-size: 11px;
+    font-weight: 600;
+    color: var(--gold);
+    text-decoration: none;
+    padding: 4px 10px;
+    border: 1px solid rgba(120, 78, 18, 0.25);
+    border-radius: 4px;
+    transition: background 0.15s;
+    margin-left: auto;
+}
+.frise2-link-classic:hover {
+    background: rgba(122, 76, 10, 0.10);
+}
+.frise2-controls-sep {
+    width: 1px;
+    height: 22px;
+    background: rgba(120, 78, 18, 0.18);
+    flex-shrink: 0;
+}
+
+/* ── Legend ── */
+.frise2-legend {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    padding: 6px 16px 8px;
+    align-items: center;
+}
+.frise2-legend-item {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 10px;
+    font-weight: 600;
+    color: var(--text-muted);
+    letter-spacing: 0.4px;
+}
+.frise2-legend-dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    flex-shrink: 0;
+}
+.frise2-legend-diamond {
+    width: 8px;
+    height: 8px;
+    transform: rotate(45deg);
+    flex-shrink: 0;
+}
+
+/* ── Main viewport ── */
+.frise2-viewport {
+    position: relative;
+    overflow: hidden;
+    cursor: grab;
+    min-height: 400px;
+    border-top: 1px solid rgba(120, 78, 18, 0.12);
+    user-select: none;
+    -webkit-user-select: none;
+}
+.frise2-viewport.grabbing {
+    cursor: grabbing;
+}
+.frise2-canvas-wrap {
+    position: relative;
+    will-change: transform;
+}
+
+/* Era background bands */
+.frise2-era-band {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    border-right: 1px solid rgba(120, 78, 18, 0.10);
+}
+.frise2-era-label {
+    position: absolute;
+    top: 8px;
+    left: 8px;
+    font-family: 'Cinzel', serif;
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    writing-mode: vertical-rl;
+    text-orientation: mixed;
+    opacity: 0.35;
+    pointer-events: none;
+    max-height: 200px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+/* Date ticks (top ruler) */
+.frise2-ruler {
+    position: relative;
+    height: 28px;
+    border-bottom: 1px solid rgba(120, 78, 18, 0.15);
+    flex-shrink: 0;
+}
+.frise2-tick {
+    position: absolute;
+    top: 0;
+    height: 100%;
+    border-left: 1px solid rgba(120, 78, 18, 0.12);
+}
+.frise2-tick-label {
+    position: absolute;
+    bottom: 4px;
+    left: 4px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 9px;
+    font-weight: 600;
+    color: var(--text-muted);
+    white-space: nowrap;
+    pointer-events: none;
+}
+
+/* Global events track */
+.frise2-global-track {
+    position: relative;
+    height: 26px;
+    border-bottom: 1px solid rgba(120, 78, 18, 0.08);
+    flex-shrink: 0;
+}
+.frise2-global-track-label {
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    padding-left: 6px;
+    font-family: 'Cinzel', serif;
+    font-size: 9px;
+    font-weight: 700;
+    color: var(--text-muted);
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    z-index: 2;
+    pointer-events: none;
+}
+.frise2-global-diamond {
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    transform: rotate(45deg) translate(-50%, -50%);
+    top: 50%;
+    cursor: pointer;
+    z-index: 3;
+    border-radius: 1px;
+    transition: transform 0.12s;
+}
+.frise2-global-diamond:hover {
+    transform: rotate(45deg) translate(-50%, -50%) scale(1.4);
+    z-index: 10;
+}
+
+/* Lignee sections */
+.frise2-lignee-section {
+    position: relative;
+    border-bottom: 1px solid rgba(120, 78, 18, 0.08);
+}
+.frise2-lignee-label {
+    position: sticky;
+    left: 0;
+    z-index: 5;
+    background: rgba(232, 220, 196, 0.85);
+    backdrop-filter: blur(6px);
+    padding: 2px 8px;
+    font-family: 'Cinzel', serif;
+    font-size: 10px;
+    font-weight: 700;
+    color: var(--gold);
+    letter-spacing: 0.8px;
+    white-space: nowrap;
+    pointer-events: none;
+}
+
+/* Civ bars */
+.frise2-civ-bar {
+    position: absolute;
+    height: 18px;
+    border-radius: 3px;
+    cursor: pointer;
+    transition: filter 0.12s, box-shadow 0.12s;
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+    z-index: 2;
+}
+.frise2-civ-bar:hover {
+    filter: brightness(1.15);
+    box-shadow: 0 1px 6px rgba(0,0,0,0.25);
+    z-index: 6;
+}
+.frise2-civ-bar.expanded {
+    box-shadow: 0 2px 10px rgba(0,0,0,0.3);
+    z-index: 7;
+}
+.frise2-civ-name {
+    font-family: 'Raleway', sans-serif;
+    font-size: 9px;
+    font-weight: 700;
+    color: #fff;
+    text-shadow: 0 1px 2px rgba(0,0,0,0.5);
+    padding: 0 4px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    pointer-events: none;
+}
+.frise2-civ-event-dot {
+    position: absolute;
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    top: 50%;
+    transform: translateY(-50%);
+    cursor: pointer;
+    z-index: 3;
+    border: 1px solid rgba(255,255,255,0.5);
+    transition: transform 0.1s;
+}
+.frise2-civ-event-dot:hover {
+    transform: translateY(-50%) scale(1.6);
+    z-index: 10;
+}
+
+/* CONN overlay (SVG) */
+.frise2-conn-svg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    pointer-events: none;
+    z-index: 1;
+}
+.frise2-conn-path {
+    fill: none;
+    stroke-width: 1.5;
+    stroke-dasharray: 6 3;
+    opacity: 0.25;
+    pointer-events: stroke;
+    cursor: pointer;
+    transition: opacity 0.15s;
+}
+.frise2-conn-path:hover {
+    opacity: 0.8;
+    stroke-width: 2.5;
+}
+
+/* Tooltip */
+.frise2-tooltip {
+    position: fixed;
+    z-index: 1000;
+    background: rgba(30, 20, 8, 0.92);
+    color: #f0e8d8;
+    font-family: 'Raleway', sans-serif;
+    font-size: 12px;
+    padding: 8px 12px;
+    border-radius: 5px;
+    pointer-events: none;
+    max-width: 320px;
+    line-height: 1.5;
+    box-shadow: 0 4px 16px rgba(0,0,0,0.4);
+    opacity: 0;
+    transition: opacity 0.12s;
+}
+.frise2-tooltip.visible { opacity: 1; }
+.frise2-tooltip strong {
+    color: #dbb96e;
+    font-family: 'Cinzel', serif;
+    font-size: 12px;
+    font-weight: 700;
+}
+.frise2-tooltip .tt-sub {
+    font-size: 10px;
+    color: #baa888;
+    display: block;
+    margin-top: 2px;
+}
+.frise2-tooltip .tt-desc {
+    font-size: 11px;
+    margin-top: 4px;
+    color: #d8d0c0;
+    font-style: italic;
+}
+
+/* Popover (click events) */
+.frise2-popover {
+    position: absolute;
+    z-index: 500;
+    background: var(--panel-bg);
+    border: 1px solid var(--panel-border);
+    border-radius: 6px;
+    padding: 12px 16px;
+    max-width: 340px;
+    box-shadow: var(--shadow);
+    font-family: 'Raleway', sans-serif;
+    font-size: 12px;
+    color: var(--text);
+    line-height: 1.55;
+}
+.frise2-popover-title {
+    font-family: 'Cinzel', serif;
+    font-size: 13px;
+    font-weight: 700;
+    color: var(--gold);
+    margin-bottom: 4px;
+}
+.frise2-popover-date {
+    font-size: 10px;
+    color: var(--text-muted);
+    font-weight: 600;
+    margin-bottom: 6px;
+}
+.frise2-popover-desc {
+    font-size: 11.5px;
+    color: var(--text-soft);
+    font-style: italic;
+}
+.frise2-popover-close {
+    position: absolute;
+    top: 6px;
+    right: 8px;
+    background: none;
+    border: none;
+    font-size: 16px;
+    cursor: pointer;
+    color: var(--text-muted);
+    line-height: 1;
+}
+
+/* Expanded civ event list */
+.frise2-civ-events-panel {
+    position: absolute;
+    z-index: 400;
+    background: var(--panel-bg);
+    border: 1px solid var(--panel-border);
+    border-radius: 0 0 6px 6px;
+    padding: 8px 12px;
+    max-width: 400px;
+    box-shadow: var(--shadow);
+    font-family: 'Raleway', sans-serif;
+    font-size: 11px;
+    max-height: 220px;
+    overflow-y: auto;
+}
+.frise2-civ-events-panel h4 {
+    font-family: 'Cinzel', serif;
+    font-size: 12px;
+    font-weight: 700;
+    color: var(--gold);
+    margin-bottom: 6px;
+}
+.frise2-civ-event-item {
+    padding: 3px 0;
+    border-bottom: 1px solid rgba(120, 78, 18, 0.08);
+    display: flex;
+    gap: 6px;
+    align-items: baseline;
+}
+.frise2-civ-event-item:last-child { border-bottom: none; }
+.frise2-cev-date {
+    font-size: 9px;
+    font-weight: 700;
+    color: var(--text-muted);
+    white-space: nowrap;
+    min-width: 60px;
+}
+.frise2-cev-title {
+    font-weight: 600;
+    color: var(--text);
+}
+.frise2-cev-desc {
+    font-size: 10px;
+    color: var(--text-soft);
+    font-style: italic;
+    margin-top: 1px;
+}
+
+/* ── Mini-map ── */
+.frise2-minimap {
+    position: fixed;
+    bottom: 16px;
+    right: 16px;
+    width: 250px;
+    height: 80px;
+    background: rgba(232, 220, 196, 0.92);
+    border: 1px solid var(--panel-border);
+    border-radius: 6px;
+    box-shadow: var(--shadow);
+    z-index: 300;
+    overflow: hidden;
+    cursor: pointer;
+}
+.frise2-minimap canvas {
+    width: 100%;
+    height: 100%;
+    display: block;
+}
+.frise2-minimap-vp {
+    position: absolute;
+    top: 0;
+    border: 2px solid var(--gold);
+    background: rgba(122, 76, 10, 0.12);
+    border-radius: 2px;
+    pointer-events: none;
+}
+
+/* Fallback message */
+.frise2-fallback {
+    text-align: center;
+    padding: 60px 20px;
+    font-family: 'Raleway', sans-serif;
+    color: var(--text-muted);
+    font-size: 15px;
+    line-height: 1.8;
+}
+.frise2-fallback a {
+    color: var(--gold);
+    font-weight: 700;
+    text-decoration: none;
+}
+.frise2-fallback a:hover {
+    text-decoration: underline;
+}
+
+/* ── Responsive ── */
+@media (max-width: 768px) {
+    .frise2-minimap { display: none; }
+    .frise2-civ-bar { height: 14px; }
+    .frise2-civ-name { font-size: 8px; }
+    .frise2-controls { gap: 6px; padding: 6px 10px; }
+    .frise2-era-btn { font-size: 9px; padding: 3px 7px; }
+    .frise2-title { font-size: 20px; }
+}
+</style>
+
+<!-- ── HTML Structure ── -->
+<div id="frise2-root">
+    <div class="frise2-header">
+        <h1 class="frise2-title">Chronologie d'Hybelior</h1>
+        <p class="frise2-subtitle">Vue horizontale — Gantt des civilisations par lignee</p>
+    </div>
+
+    <div class="frise2-controls" id="frise2-controls">
+        <div class="frise2-zoom-group">
+            <span>Zoom</span>
+            <input type="range" class="frise2-zoom-slider" id="frise2-zoom" min="0.3" max="4" step="0.05" value="1">
+            <span class="frise2-zoom-label" id="frise2-zoom-label">1.0x</span>
+        </div>
+        <div class="frise2-controls-sep"></div>
+        <div class="frise2-era-nav" id="frise2-era-nav"></div>
+        <a href="#frise" class="frise2-link-classic">Frise verticale</a>
+    </div>
+
+    <div class="frise2-legend" id="frise2-legend"></div>
+
+    <div id="frise2-fallback" class="frise2-fallback" style="display:none;">
+        Les donnees de civilisation ne sont pas encore chargees.<br>
+        Visitez d'abord la <a href="#frise">frise verticale</a> puis revenez ici.
+    </div>
+
+    <div class="frise2-viewport" id="frise2-viewport" style="display:none;">
+        <div class="frise2-canvas-wrap" id="frise2-canvas"></div>
+    </div>
+
+    <div class="frise2-minimap" id="frise2-minimap" style="display:none;">
+        <canvas id="frise2-minimap-canvas"></canvas>
+        <div class="frise2-minimap-vp" id="frise2-minimap-vp"></div>
+    </div>
+
+    <!-- Tooltip -->
+    <div class="frise2-tooltip" id="frise2-tooltip"></div>
+</div>
+
+<script>
+(function() {
+    'use strict';
+
+    /* ── Data access ── */
+    const TL = window.HYBELIOR_TIMELINE;
+    if (!TL) { console.error('HYBELIOR_TIMELINE not found'); return; }
+
+    const { ERAS, DATE_TICKS, LIGNEES, TYPES, GLOBAL, yToDateLabel } = TL;
+
+    /* ── Check CIV data availability ── */
+    function hasCivData() {
+        return TL.CIV && TL.CIV.length > 0;
+    }
+
+    const fallbackEl = document.getElementById('frise2-fallback');
+    const viewportEl = document.getElementById('frise2-viewport');
+    const minimapEl  = document.getElementById('frise2-minimap');
+
+    if (!hasCivData()) {
+        fallbackEl.style.display = '';
+        viewportEl.style.display = 'none';
+        minimapEl.style.display  = 'none';
+        return;
+    }
+
+    fallbackEl.style.display = 'none';
+    viewportEl.style.display = '';
+    minimapEl.style.display  = '';
+
+    const CIV  = TL.CIV;
+    const CONN = TL.CONN;
+
+    /* ── Constants ── */
+    const PIXELS_PER_UNIT = 4;
+    const GLOBAL_Y_MIN = 0;
+    const GLOBAL_Y_MAX = 3160;
+    const BAR_H = 18;
+    const BAR_GAP = 2;
+    const LIGNEE_PAD = 4;
+    const RULER_H = 28;
+    const GLOBAL_TRACK_H = 26;
+    const MIN_ZOOM = 0.3;
+    const MAX_ZOOM = 4;
+
+    let currentZoom = 1;
+    let scrollX = 0;
+    let canvasWidth = 0;
+
+    /* ── Coordinate helpers ── */
+    function yToX(y) {
+        return (y - GLOBAL_Y_MIN) * PIXELS_PER_UNIT * currentZoom;
+    }
+    function totalWidth() {
+        return (GLOBAL_Y_MAX - GLOBAL_Y_MIN) * PIXELS_PER_UNIT * currentZoom;
+    }
+
+    /* ── Group CIV by lignee ── */
+    const ligneeOrder = Object.keys(LIGNEES);
+    function groupByLignee() {
+        const groups = {};
+        ligneeOrder.forEach(k => { groups[k] = []; });
+        CIV.forEach(c => {
+            const lig = c.lignee || 'ind';
+            if (!groups[lig]) groups[lig] = [];
+            groups[lig].push(c);
+        });
+        // Sort each group by y0
+        Object.values(groups).forEach(arr => arr.sort((a, b) => a.y0 - b.y0));
+        return groups;
+    }
+
+    /* Pack civs vertically within a lignee to avoid overlaps */
+    function packRows(civs) {
+        const rows = []; // each row = end-x of last bar
+        civs.forEach(c => {
+            let placed = false;
+            for (let r = 0; r < rows.length; r++) {
+                if (c.y0 >= rows[r]) {
+                    c._row = r;
+                    rows[r] = c.y1;
+                    placed = true;
+                    break;
+                }
+            }
+            if (!placed) {
+                c._row = rows.length;
+                rows.push(c.y1);
+            }
+        });
+        return rows.length;
+    }
+
+    const civGroups = groupByLignee();
+    const ligneeRowCounts = {};
+    ligneeOrder.forEach(k => {
+        ligneeRowCounts[k] = packRows(civGroups[k]);
+    });
+
+    /* ── Build civ position map (name -> {lignee, row, yTop}) ── */
+    // We'll compute yTop for each lignee section after layout
+    let ligneeSectionTops = {};
+    let totalCanvasHeight = RULER_H + GLOBAL_TRACK_H;
+    ligneeOrder.forEach(k => {
+        const labelH = 18;
+        ligneeSectionTops[k] = totalCanvasHeight;
+        const rows = ligneeRowCounts[k] || 1;
+        totalCanvasHeight += labelH + rows * (BAR_H + BAR_GAP) + LIGNEE_PAD;
+    });
+    totalCanvasHeight += 20; // bottom padding
+
+    function getCivCenterY(civ) {
+        const lig = civ.lignee || 'ind';
+        const sectionTop = ligneeSectionTops[lig] || 0;
+        const labelH = 18;
+        return sectionTop + labelH + civ._row * (BAR_H + BAR_GAP) + BAR_H / 2;
+    }
+
+    /* ── DOM refs ── */
+    const canvasEl = document.getElementById('frise2-canvas');
+    const tooltipEl = document.getElementById('frise2-tooltip');
+    const zoomSlider = document.getElementById('frise2-zoom');
+    const zoomLabel = document.getElementById('frise2-zoom-label');
+    const eraNavEl = document.getElementById('frise2-era-nav');
+    const legendEl = document.getElementById('frise2-legend');
+    const minimapCanvas = document.getElementById('frise2-minimap-canvas');
+    const minimapVp = document.getElementById('frise2-minimap-vp');
+
+    /* ── Build era nav buttons ── */
+    ERAS.forEach(era => {
+        const btn = document.createElement('button');
+        btn.className = 'frise2-era-btn';
+        btn.textContent = era.name;
+        btn.dataset.eraId = era.id;
+        btn.style.borderLeftColor = era.color;
+        btn.style.borderLeftWidth = '3px';
+        btn.addEventListener('click', () => scrollToEra(era));
+        eraNavEl.appendChild(btn);
+    });
+
+    /* ── Build legend ── */
+    Object.entries(TYPES).forEach(([key, t]) => {
+        const item = document.createElement('span');
+        item.className = 'frise2-legend-item';
+        item.innerHTML = `<span class="frise2-legend-dot" style="background:${t.c}"></span>${t.l}`;
+        legendEl.appendChild(item);
+    });
+    // Add global diamond legend
+    const gItem = document.createElement('span');
+    gItem.className = 'frise2-legend-item';
+    gItem.innerHTML = `<span class="frise2-legend-diamond" style="background:var(--gold)"></span>Global`;
+    legendEl.appendChild(gItem);
+
+    /* ── Render canvas ── */
+    let popoverEl = null;
+    let civEventsPanel = null;
+    let expandedCiv = null;
+
+    function render() {
+        const tw = totalWidth();
+        canvasWidth = tw;
+        canvasEl.style.width = tw + 'px';
+        canvasEl.style.height = totalCanvasHeight + 'px';
+        canvasEl.innerHTML = '';
+
+        // Era background bands
+        ERAS.forEach(era => {
+            const band = document.createElement('div');
+            band.className = 'frise2-era-band';
+            const x0 = yToX(era.yMin);
+            const x1 = yToX(era.yMax);
+            band.style.left = x0 + 'px';
+            band.style.width = (x1 - x0) + 'px';
+            band.style.background = `linear-gradient(180deg, ${era.bg}, transparent 60%)`;
+
+            const label = document.createElement('div');
+            label.className = 'frise2-era-label';
+            label.textContent = `${era.num} — ${era.name}`;
+            label.style.color = era.color;
+            band.appendChild(label);
+
+            canvasEl.appendChild(band);
+        });
+
+        // Date ticks (ruler)
+        const ruler = document.createElement('div');
+        ruler.className = 'frise2-ruler';
+        ruler.style.width = tw + 'px';
+        DATE_TICKS.forEach(tick => {
+            const x = yToX(tick.y);
+            const el = document.createElement('div');
+            el.className = 'frise2-tick';
+            el.style.left = x + 'px';
+            const lbl = document.createElement('span');
+            lbl.className = 'frise2-tick-label';
+            lbl.textContent = tick.label;
+            el.appendChild(lbl);
+            ruler.appendChild(el);
+        });
+        canvasEl.appendChild(ruler);
+
+        // Global events track
+        const gTrack = document.createElement('div');
+        gTrack.className = 'frise2-global-track';
+        gTrack.style.width = tw + 'px';
+        gTrack.style.top = RULER_H + 'px';
+        gTrack.style.position = 'absolute';
+        gTrack.style.left = '0';
+
+        GLOBAL.forEach(evt => {
+            const x = yToX(evt.y);
+            const d = document.createElement('div');
+            d.className = 'frise2-global-diamond';
+            const tc = TYPES[evt.t] ? TYPES[evt.t].c : '#a07820';
+            d.style.background = tc;
+            d.style.left = x + 'px';
+            d.addEventListener('mouseenter', e => showTooltip(e, `<strong>${evt.title}</strong><span class="tt-sub">${yToDateLabel(evt.y)} — ${evt.era}</span><span class="tt-desc">${evt.desc || ''}</span>`));
+            d.addEventListener('mousemove', moveTooltip);
+            d.addEventListener('mouseleave', hideTooltip);
+            d.addEventListener('click', e => {
+                e.stopPropagation();
+                showPopover(x, RULER_H + GLOBAL_TRACK_H + 4, evt.title, yToDateLabel(evt.y), evt.desc);
+            });
+            gTrack.appendChild(d);
+        });
+        canvasEl.appendChild(gTrack);
+
+        // Lignee sections
+        ligneeOrder.forEach(ligKey => {
+            const civs = civGroups[ligKey];
+            if (!civs || civs.length === 0) return;
+            const sectionTop = ligneeSectionTops[ligKey];
+            const rowCount = ligneeRowCounts[ligKey];
+            const labelH = 18;
+            const sectionH = labelH + rowCount * (BAR_H + BAR_GAP) + LIGNEE_PAD;
+
+            const section = document.createElement('div');
+            section.className = 'frise2-lignee-section';
+            section.style.position = 'absolute';
+            section.style.top = sectionTop + 'px';
+            section.style.left = '0';
+            section.style.width = tw + 'px';
+            section.style.height = sectionH + 'px';
+
+            // Label
+            const lbl = document.createElement('div');
+            lbl.className = 'frise2-lignee-label';
+            lbl.textContent = LIGNEES[ligKey] ? LIGNEES[ligKey].name : ligKey;
+            section.appendChild(lbl);
+
+            // Civ bars
+            civs.forEach(civ => {
+                const x0 = yToX(civ.y0);
+                const x1 = yToX(civ.y1);
+                const barW = Math.max(x1 - x0, 2);
+                const barTop = labelH + civ._row * (BAR_H + BAR_GAP);
+
+                const bar = document.createElement('div');
+                bar.className = 'frise2-civ-bar';
+                bar.style.left = x0 + 'px';
+                bar.style.top = barTop + 'px';
+                bar.style.width = barW + 'px';
+                bar.style.background = civ.color;
+                bar.style.opacity = civ.dead ? '0.45' : '0.75';
+
+                const nameSpan = document.createElement('span');
+                nameSpan.className = 'frise2-civ-name';
+                nameSpan.textContent = civ.name;
+                bar.appendChild(nameSpan);
+
+                // Tooltip
+                bar.addEventListener('mouseenter', e => {
+                    const ligInfo = civ.lignee && LIGNEES[civ.lignee] ? LIGNEES[civ.lignee].name : '';
+                    const dateStr = yToDateLabel(civ.y0) + (civ.dead ? (' → ' + yToDateLabel(civ.y1) + ' \u271D') : ' → present');
+                    showTooltip(e, `<strong>${civ.name}</strong><span class="tt-sub">${civ.reg || ''} — ${civ.cont}</span><span class="tt-sub">${dateStr}</span>${ligInfo ? `<span class="tt-sub">${ligInfo}</span>` : ''}${civ.from ? `<span class="tt-sub">\u2190 ${civ.from}</span>` : ''}`);
+                });
+                bar.addEventListener('mousemove', moveTooltip);
+                bar.addEventListener('mouseleave', hideTooltip);
+
+                // Click to expand events
+                bar.addEventListener('click', e => {
+                    e.stopPropagation();
+                    toggleCivExpand(civ, x0, sectionTop + barTop + BAR_H);
+                });
+
+                // Event dots on bar
+                if (civ.events && civ.events.length) {
+                    civ.events.forEach(evt => {
+                        if (evt.y < civ.y0 || evt.y > civ.y1) return;
+                        const ex = yToX(evt.y) - x0;
+                        if (ex < 0 || ex > barW) return;
+                        const dot = document.createElement('div');
+                        dot.className = 'frise2-civ-event-dot';
+                        const ec = TYPES[evt.t] ? TYPES[evt.t].c : '#888';
+                        dot.style.background = ec;
+                        dot.style.left = ex + 'px';
+                        dot.addEventListener('mouseenter', ev => {
+                            ev.stopPropagation();
+                            showTooltip(ev, `<strong>${evt.title}</strong><span class="tt-sub">${yToDateLabel(evt.y)}</span><span class="tt-desc">${evt.desc || ''}</span>`);
+                        });
+                        dot.addEventListener('mousemove', ev => { ev.stopPropagation(); moveTooltip(ev); });
+                        dot.addEventListener('mouseleave', ev => { ev.stopPropagation(); hideTooltip(); });
+                        dot.addEventListener('click', ev => {
+                            ev.stopPropagation();
+                            showPopover(x0 + ex, sectionTop + barTop + BAR_H + 4, evt.title, yToDateLabel(evt.y), evt.desc);
+                        });
+                        bar.appendChild(dot);
+                    });
+                }
+
+                section.appendChild(bar);
+            });
+
+            canvasEl.appendChild(section);
+        });
+
+        // CONN SVG overlay
+        renderConnections();
+
+        // Update viewport height
+        viewportEl.style.height = Math.min(totalCanvasHeight + 20, window.innerHeight - 200) + 'px';
+
+        // Update transform
+        applyScroll();
+        renderMinimap();
+    }
+
+    /* ── CONN lines ── */
+    function renderConnections() {
+        const svg = document.createElementNS('http://www.w3.org/2000/svg', 'svg');
+        svg.classList.add('frise2-conn-svg');
+        svg.setAttribute('width', canvasWidth);
+        svg.setAttribute('height', totalCanvasHeight);
+        svg.style.width = canvasWidth + 'px';
+        svg.style.height = totalCanvasHeight + 'px';
+
+        // Build name -> civ map
+        const civMap = {};
+        CIV.forEach(c => { civMap[c.name] = c; });
+
+        CONN.forEach(conn => {
+            const fromCiv = civMap[conn.from];
+            const toCiv = civMap[conn.to];
+            if (!fromCiv || !toCiv) return;
+
+            const x = yToX(conn.y);
+            const y1 = getCivCenterY(fromCiv);
+            const y2 = getCivCenterY(toCiv);
+            const tc = TYPES[conn.t] ? TYPES[conn.t].c : '#888';
+
+            const cp = Math.abs(y2 - y1) * 0.3;
+            const d = `M ${x} ${y1} C ${x + cp} ${y1}, ${x + cp} ${y2}, ${x} ${y2}`;
+
+            const path = document.createElementNS('http://www.w3.org/2000/svg', 'path');
+            path.classList.add('frise2-conn-path');
+            path.setAttribute('d', d);
+            path.setAttribute('stroke', tc);
+            path.style.pointerEvents = 'stroke';
+
+            // Tooltip on hover
+            path.addEventListener('mouseenter', e => {
+                showTooltip(e, `<strong>${conn.from} \u2192 ${conn.to}</strong><span class="tt-sub">${conn.label} — ${yToDateLabel(conn.y)}</span>`);
+            });
+            path.addEventListener('mousemove', moveTooltip);
+            path.addEventListener('mouseleave', hideTooltip);
+
+            svg.appendChild(path);
+        });
+
+        canvasEl.appendChild(svg);
+    }
+
+    /* ── Tooltip ── */
+    function showTooltip(e, html) {
+        tooltipEl.innerHTML = html;
+        tooltipEl.classList.add('visible');
+        moveTooltip(e);
+    }
+    function moveTooltip(e) {
+        const x = e.clientX + 14;
+        const y = e.clientY - 10;
+        tooltipEl.style.left = Math.min(x, window.innerWidth - 340) + 'px';
+        tooltipEl.style.top = Math.min(y, window.innerHeight - 100) + 'px';
+    }
+    function hideTooltip() {
+        tooltipEl.classList.remove('visible');
+    }
+
+    /* ── Popover ── */
+    function showPopover(x, y, title, date, desc) {
+        closePopover();
+        const el = document.createElement('div');
+        el.className = 'frise2-popover';
+        el.style.left = x + 'px';
+        el.style.top = y + 'px';
+        el.innerHTML = `
+            <button class="frise2-popover-close">&times;</button>
+            <div class="frise2-popover-title">${title}</div>
+            <div class="frise2-popover-date">${date}</div>
+            ${desc ? `<div class="frise2-popover-desc">${desc}</div>` : ''}
+        `;
+        el.querySelector('.frise2-popover-close').addEventListener('click', e => {
+            e.stopPropagation();
+            closePopover();
+        });
+        canvasEl.appendChild(el);
+        popoverEl = el;
+    }
+    function closePopover() {
+        if (popoverEl) { popoverEl.remove(); popoverEl = null; }
+    }
+
+    /* ── Civ expand (events list) ── */
+    function toggleCivExpand(civ, x, y) {
+        closeCivEventsPanel();
+        if (expandedCiv === civ) { expandedCiv = null; return; }
+        expandedCiv = civ;
+        if (!civ.events || civ.events.length === 0) return;
+
+        const panel = document.createElement('div');
+        panel.className = 'frise2-civ-events-panel';
+        panel.style.left = x + 'px';
+        panel.style.top = y + 'px';
+        panel.innerHTML = `<h4>${civ.name} — Evenements</h4>` +
+            civ.events.map(evt => {
+                const ec = TYPES[evt.t] ? TYPES[evt.t].c : '#888';
+                return `<div class="frise2-civ-event-item">
+                    <span class="frise2-cev-date" style="color:${ec}">${yToDateLabel(evt.y)}</span>
+                    <span>
+                        <span class="frise2-cev-title">${evt.title}</span>
+                        ${evt.desc ? `<div class="frise2-cev-desc">${evt.desc}</div>` : ''}
+                    </span>
+                </div>`;
+            }).join('');
+        panel.addEventListener('click', e => e.stopPropagation());
+        canvasEl.appendChild(panel);
+        civEventsPanel = panel;
+    }
+    function closeCivEventsPanel() {
+        if (civEventsPanel) { civEventsPanel.remove(); civEventsPanel = null; }
+        expandedCiv = null;
+    }
+
+    /* ── Scroll / Pan ── */
+    function applyScroll() {
+        const maxScroll = Math.max(0, canvasWidth - viewportEl.clientWidth);
+        scrollX = Math.max(0, Math.min(scrollX, maxScroll));
+        canvasEl.style.transform = `translateX(${-scrollX}px)`;
+        updateMinimap();
+        updateEraHighlight();
+    }
+
+    function scrollToEra(era) {
+        const targetX = yToX(era.yMin) - 40;
+        animateScrollTo(targetX);
+    }
+
+    function animateScrollTo(targetX) {
+        const startX = scrollX;
+        const dist = targetX - startX;
+        const duration = 400;
+        let start = null;
+        function step(ts) {
+            if (!start) start = ts;
+            const elapsed = ts - start;
+            const t = Math.min(elapsed / duration, 1);
+            const ease = t < 0.5 ? 2 * t * t : -1 + (4 - 2 * t) * t;
+            scrollX = startX + dist * ease;
+            applyScroll();
+            if (t < 1) requestAnimationFrame(step);
+        }
+        requestAnimationFrame(step);
+    }
+
+    function updateEraHighlight() {
+        const centerX = scrollX + viewportEl.clientWidth / 2;
+        const centerY = centerX / (PIXELS_PER_UNIT * currentZoom) + GLOBAL_Y_MIN;
+        const btns = eraNavEl.querySelectorAll('.frise2-era-btn');
+        btns.forEach(btn => {
+            const era = ERAS.find(e => e.id === btn.dataset.eraId);
+            if (era && centerY >= era.yMin && centerY < era.yMax) {
+                btn.classList.add('active');
+            } else {
+                btn.classList.remove('active');
+            }
+        });
+    }
+
+    /* ── Drag to pan ── */
+    let isDragging = false;
+    let dragStartX = 0;
+    let dragStartScrollX = 0;
+
+    viewportEl.addEventListener('mousedown', e => {
+        if (e.button !== 0) return;
+        isDragging = true;
+        dragStartX = e.clientX;
+        dragStartScrollX = scrollX;
+        viewportEl.classList.add('grabbing');
+        closePopover();
+        closeCivEventsPanel();
+    });
+    window.addEventListener('mousemove', e => {
+        if (!isDragging) return;
+        const dx = dragStartX - e.clientX;
+        scrollX = dragStartScrollX + dx;
+        applyScroll();
+    });
+    window.addEventListener('mouseup', () => {
+        isDragging = false;
+        viewportEl.classList.remove('grabbing');
+    });
+
+    /* ── Wheel scroll (horizontal) / Ctrl+wheel zoom ── */
+    viewportEl.addEventListener('wheel', e => {
+        e.preventDefault();
+        if (e.ctrlKey || e.metaKey) {
+            // Zoom
+            const delta = e.deltaY > 0 ? -0.1 : 0.1;
+            const mouseXInCanvas = scrollX + e.offsetX;
+            const pivotY = mouseXInCanvas / (PIXELS_PER_UNIT * currentZoom) + GLOBAL_Y_MIN;
+            setZoom(currentZoom + delta, pivotY, e.offsetX);
+        } else {
+            // Horizontal scroll
+            scrollX += e.deltaY !== 0 ? e.deltaY : e.deltaX;
+            applyScroll();
+        }
+    }, { passive: false });
+
+    /* ── Zoom logic ── */
+    function setZoom(z, pivotY, pivotScreenX) {
+        const newZoom = Math.max(MIN_ZOOM, Math.min(MAX_ZOOM, z));
+        if (newZoom === currentZoom) return;
+
+        if (pivotY !== undefined && pivotScreenX !== undefined) {
+            // Keep pivot point under mouse
+            const newX = (pivotY - GLOBAL_Y_MIN) * PIXELS_PER_UNIT * newZoom;
+            scrollX = newX - pivotScreenX;
+        }
+
+        currentZoom = newZoom;
+        zoomSlider.value = currentZoom;
+        zoomLabel.textContent = currentZoom.toFixed(1) + 'x';
+        render();
+    }
+
+    zoomSlider.addEventListener('input', () => {
+        const vpCenter = scrollX + viewportEl.clientWidth / 2;
+        const pivotY = vpCenter / (PIXELS_PER_UNIT * currentZoom) + GLOBAL_Y_MIN;
+        setZoom(parseFloat(zoomSlider.value), pivotY, viewportEl.clientWidth / 2);
+    });
+
+    /* ── Click on empty space closes popover ── */
+    viewportEl.addEventListener('click', () => {
+        closePopover();
+        closeCivEventsPanel();
+    });
+
+    /* ── Minimap ── */
+    function renderMinimap() {
+        const canvas = minimapCanvas;
+        const rect = minimapEl.getBoundingClientRect();
+        canvas.width = rect.width * window.devicePixelRatio;
+        canvas.height = rect.height * window.devicePixelRatio;
+        const ctx = canvas.getContext('2d');
+        ctx.scale(window.devicePixelRatio, window.devicePixelRatio);
+        const w = rect.width;
+        const h = rect.height;
+
+        const scaleX = w / (GLOBAL_Y_MAX - GLOBAL_Y_MIN);
+        const scaleY = h / totalCanvasHeight;
+
+        ctx.clearRect(0, 0, w, h);
+
+        // Era bands
+        ERAS.forEach(era => {
+            const x0 = (era.yMin - GLOBAL_Y_MIN) * scaleX;
+            const x1 = (era.yMax - GLOBAL_Y_MIN) * scaleX;
+            ctx.fillStyle = era.bg.replace(/[\d.]+\)$/, '0.25)');
+            ctx.fillRect(x0, 0, x1 - x0, h);
+        });
+
+        // Civ bars
+        CIV.forEach(civ => {
+            const x0 = (civ.y0 - GLOBAL_Y_MIN) * scaleX;
+            const x1 = (civ.y1 - GLOBAL_Y_MIN) * scaleX;
+            const cy = getCivCenterY(civ) * scaleY;
+            ctx.fillStyle = civ.color;
+            ctx.globalAlpha = civ.dead ? 0.35 : 0.6;
+            ctx.fillRect(x0, cy - 1, Math.max(x1 - x0, 1), 2);
+        });
+        ctx.globalAlpha = 1;
+    }
+
+    function updateMinimap() {
+        const rect = minimapEl.getBoundingClientRect();
+        const w = rect.width;
+        const scaleX = w / totalWidth() * currentZoom * PIXELS_PER_UNIT;
+        // Actually: minimap maps y-space [0, 3160] to [0, w]
+        const mmScale = w / (GLOBAL_Y_MAX - GLOBAL_Y_MIN);
+
+        const vpWidthInY = viewportEl.clientWidth / (PIXELS_PER_UNIT * currentZoom);
+        const scrollInY = scrollX / (PIXELS_PER_UNIT * currentZoom);
+
+        const vpLeft = scrollInY * mmScale;
+        const vpW = vpWidthInY * mmScale;
+
+        minimapVp.style.left = vpLeft + 'px';
+        minimapVp.style.width = Math.max(vpW, 4) + 'px';
+        minimapVp.style.top = '0';
+        minimapVp.style.height = '100%';
+    }
+
+    /* ── Minimap drag ── */
+    let mmDragging = false;
+    minimapEl.addEventListener('mousedown', e => {
+        mmDragging = true;
+        mmNavigate(e);
+    });
+    window.addEventListener('mousemove', e => {
+        if (!mmDragging) return;
+        mmNavigate(e);
+    });
+    window.addEventListener('mouseup', () => { mmDragging = false; });
+
+    function mmNavigate(e) {
+        const rect = minimapEl.getBoundingClientRect();
+        const x = e.clientX - rect.left;
+        const mmScale = rect.width / (GLOBAL_Y_MAX - GLOBAL_Y_MIN);
+        const clickY = x / mmScale + GLOBAL_Y_MIN;
+        const vpWidthInY = viewportEl.clientWidth / (PIXELS_PER_UNIT * currentZoom);
+        const targetYStart = clickY - vpWidthInY / 2;
+        scrollX = (targetYStart - GLOBAL_Y_MIN) * PIXELS_PER_UNIT * currentZoom;
+        applyScroll();
+    }
+
+    /* ── Resize debounce ── */
+    let resizeTimer = null;
+    window.addEventListener('resize', () => {
+        clearTimeout(resizeTimer);
+        resizeTimer = setTimeout(() => {
+            applyScroll();
+            renderMinimap();
+        }, 150);
+    });
+
+    /* ── Touch support ── */
+    let touchStartX = 0;
+    let touchStartScroll = 0;
+    viewportEl.addEventListener('touchstart', e => {
+        if (e.touches.length === 1) {
+            touchStartX = e.touches[0].clientX;
+            touchStartScroll = scrollX;
+        }
+    }, { passive: true });
+    viewportEl.addEventListener('touchmove', e => {
+        if (e.touches.length === 1) {
+            const dx = touchStartX - e.touches[0].clientX;
+            scrollX = touchStartScroll + dx;
+            applyScroll();
+        }
+    }, { passive: true });
+
+    /* ── Initial render ── */
+    render();
+
+})();
+</script>
