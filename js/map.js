@@ -1053,6 +1053,9 @@ function initMap() {
         });
 
         // Initial display update will happen in initTimelineUI → syncMapToYear
+
+        // Init civ explorer panel
+        initCivExplorer();
     }
 
     // Synchronise la carte avec l'année courante (year-based, pas era-based)
@@ -1066,6 +1069,93 @@ function initMap() {
         updateContinentNamesForYear(currentDisplayYear);
         updateCountryVisibilityForYear(currentDisplayYear);
         updateTextVisibility();
+        updateCivExplorer();
+    }
+
+    // ===== PANEL CIVILISATIONS ACTIVES =====
+    function updateCivExplorer() {
+        const HT = window.HYBELIOR_TIMELINE;
+        if (!HT || !HT.CIV || HT.CIV.length === 0) return;
+
+        const panel = document.getElementById('civExplorerPanel');
+        const list = document.getElementById('civExplorerList');
+        const countEl = document.getElementById('civExplorerCount');
+        if (!panel || !list) return;
+
+        const friseY = HT.mapYearToFriseY(currentDisplayYear);
+        const activeCivs = HT.CIV.filter(c => c.y0 <= friseY && c.y1 >= friseY);
+
+        countEl.textContent = activeCivs.length;
+
+        if (activeCivs.length === 0) {
+            list.innerHTML = '<div style="font-size:10px;color:#6a5438;padding:8px;text-align:center;">Aucune civilisation connue</div>';
+            return;
+        }
+
+        // Group by continent
+        const groups = {};
+        activeCivs.forEach(c => {
+            const cont = c.cont || 'Autre';
+            if (!groups[cont]) groups[cont] = [];
+            groups[cont].push(c);
+        });
+
+        let html = '';
+        Object.keys(groups).sort().forEach(cont => {
+            html += `<div class="civ-explorer-group-title">${cont}</div>`;
+            groups[cont].forEach(civ => {
+                const dateLabel = HT.yToDateLabel(civ.y0);
+                html += `<div class="civ-explorer-item" data-civ-name="${civ.name.replace(/"/g, '&quot;')}" data-cont="${cont}">
+                    <span class="civ-explorer-dot" style="background:${civ.color}"></span>
+                    <span class="civ-explorer-name">${civ.name}</span>
+                    <span class="civ-explorer-reg">${civ.reg || ''}</span>
+                    <span class="civ-explorer-cont">${cont}</span>
+                </div>`;
+            });
+        });
+
+        list.innerHTML = html;
+    }
+
+    // Civ explorer toggle
+    function initCivExplorer() {
+        const panel = document.getElementById('civExplorerPanel');
+        const toggle = document.getElementById('civExplorerToggle');
+        if (!panel || !toggle) return;
+
+        // Show panel by default
+        panel.classList.add('visible');
+
+        toggle.addEventListener('click', () => {
+            panel.classList.toggle('collapsed');
+        });
+
+        // Click on civ item → try to pan to country on map
+        document.getElementById('civExplorerList').addEventListener('click', (e) => {
+            const item = e.target.closest('.civ-explorer-item');
+            if (!item) return;
+            const civName = item.dataset.civName;
+            // Try to find the country text element on the map
+            if (svgOverlay) {
+                const textEls = svgOverlay.node().querySelectorAll('text');
+                for (const el of textEls) {
+                    if (el.textContent.trim() === civName) {
+                        const bbox = el.getBBox();
+                        const point = viewer.viewport.imageToViewportCoordinates(
+                            bbox.x + bbox.width/2, bbox.y + bbox.height/2
+                        );
+                        viewer.viewport.panTo(point);
+                        viewer.viewport.zoomTo(Math.max(viewer.viewport.getZoom(), 3));
+                        // Flash effect
+                        el.style.transition = 'fill 0.3s';
+                        const origFill = el.getAttribute('fill') || '';
+                        el.setAttribute('fill', '#ffd700');
+                        setTimeout(() => el.setAttribute('fill', origFill), 2000);
+                        break;
+                    }
+                }
+            }
+        });
     }
 
     function stepYears(delta) {
