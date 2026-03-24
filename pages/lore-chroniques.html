@@ -330,6 +330,41 @@
     box-shadow: 0 0 0 2px rgba(122,76,10,0.15), 0 2px 8px rgba(122,76,10,0.1);
     position: relative;
 }
+/* ── Reader progress footer (e-reader style) ──────── */
+.chron-reader-footer {
+    position: sticky;
+    bottom: 0;
+    background: rgba(232,220,196,0.97);
+    backdrop-filter: blur(8px);
+    border-top: 1px solid rgba(120,78,18,0.12);
+    padding: 6px 16px 8px;
+    z-index: 10;
+}
+.chron-progress-bar {
+    width: 100%;
+    height: 3px;
+    background: rgba(120,78,18,0.1);
+    border-radius: 2px;
+    overflow: hidden;
+    margin-bottom: 4px;
+}
+.chron-progress-fill {
+    height: 100%;
+    background: var(--gold);
+    border-radius: 2px;
+    width: 0%;
+    transition: width .15s ease;
+}
+.chron-progress-info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: 'Raleway', sans-serif;
+    font-size: .7rem;
+    color: var(--text-muted);
+    letter-spacing: .5px;
+}
+
 .chron-card.current-reading::after {
     content: 'En cours';
     position: absolute;
@@ -362,6 +397,14 @@
             <button class="chron-modal-close" id="chron-close-btn" aria-label="Fermer">&times;</button>
         </div>
         <div class="chron-modal-body" id="chron-reader-body"></div>
+        <div class="chron-reader-footer" id="chron-reader-footer">
+            <div class="chron-progress-bar"><div class="chron-progress-fill" id="chron-progress-fill"></div></div>
+            <div class="chron-progress-info">
+                <span id="chron-progress-pct">0%</span>
+                <span id="chron-progress-pos">Chapitre 1/40</span>
+                <span id="chron-progress-day">Jour 1</span>
+            </div>
+        </div>
     </div>
 </div>
 
@@ -538,9 +581,28 @@
         return Math.min(100, Math.round((bookmark.scrollTop / (bookmark.scrollHeight - 600)) * 100));
     }
 
-    // Debounced scroll save
+    // Progress UI elements
+    var progressFill = document.getElementById('chron-progress-fill');
+    var progressPct = document.getElementById('chron-progress-pct');
+    var progressPos = document.getElementById('chron-progress-pos');
+    var progressDay = document.getElementById('chron-progress-day');
+
+    function updateProgressUI() {
+        if (currentChapterIdx < 0) return;
+        var ch = allChapters[currentChapterIdx];
+        var scrollable = readerBody.scrollHeight - readerBody.clientHeight;
+        var pct = scrollable > 0 ? Math.min(100, Math.round((readerBody.scrollTop / scrollable) * 100)) : 0;
+
+        if (progressFill) progressFill.style.width = pct + '%';
+        if (progressPct) progressPct.textContent = pct + '%';
+        if (progressPos) progressPos.textContent = 'Chapitre ' + ch.num + '/' + allChapters.length;
+        if (progressDay) progressDay.textContent = ch.jour ? 'Jour ' + ch.jour + ' du voyage' : '';
+    }
+
+    // Debounced scroll save + live progress
     var scrollSaveTimer = null;
     function onReaderScroll() {
+        updateProgressUI();
         if (scrollSaveTimer) clearTimeout(scrollSaveTimer);
         scrollSaveTimer = setTimeout(saveBookmark, 300);
     }
@@ -562,8 +624,11 @@
             readerBody.scrollTop = 0;
         }
 
-        // Save immediately (new chapter opened)
-        setTimeout(saveBookmark, 100);
+        // Save immediately + update progress
+        setTimeout(function() {
+            saveBookmark();
+            updateProgressUI();
+        }, 100);
 
         // Mark chapter card as current
         updateChapterCards();
