@@ -272,6 +272,79 @@
     font-family: 'Raleway', sans-serif;
     font-style: italic;
 }
+/* ── Resume bar ────────────────────────────────────── */
+.chron-resume-bar {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    max-width: 700px;
+    margin: 0 auto 1.5rem;
+    padding: .8rem 1.2rem;
+    background: rgba(122,76,10,0.08);
+    border: 1px solid rgba(122,76,10,0.2);
+    border-radius: var(--radius);
+    cursor: pointer;
+    transition: background .2s, box-shadow .2s;
+}
+.chron-resume-bar:hover {
+    background: rgba(122,76,10,0.14);
+    box-shadow: 0 2px 12px rgba(122,76,10,0.1);
+}
+.chron-resume-icon {
+    font-size: 1.4rem;
+    flex-shrink: 0;
+}
+.chron-resume-info {
+    flex: 1;
+    font-family: 'Raleway', sans-serif;
+}
+.chron-resume-label {
+    font-size: .75rem;
+    font-weight: 700;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: var(--gold);
+    margin-bottom: .15rem;
+}
+.chron-resume-chapter {
+    font-family: 'Cinzel', serif;
+    font-size: .95rem;
+    color: var(--text);
+}
+.chron-resume-progress {
+    width: 60px;
+    height: 4px;
+    background: rgba(120,78,18,0.12);
+    border-radius: 2px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+.chron-resume-progress-fill {
+    height: 100%;
+    background: var(--gold);
+    border-radius: 2px;
+    transition: width .3s;
+}
+.chron-card.current-reading {
+    border-color: var(--gold);
+    box-shadow: 0 0 0 2px rgba(122,76,10,0.15), 0 2px 8px rgba(122,76,10,0.1);
+    position: relative;
+}
+.chron-card.current-reading::after {
+    content: 'En cours';
+    position: absolute;
+    top: 6px;
+    right: 8px;
+    font-family: 'Raleway', sans-serif;
+    font-size: .6rem;
+    font-weight: 700;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #fff;
+    background: var(--gold);
+    padding: 1px 6px;
+    border-radius: 3px;
+}
 </style>
 
 <div id="chroniques-root">
@@ -382,6 +455,10 @@
                 openChapter(num);
             });
         });
+
+        // Show resume bar and mark current chapter
+        showResumeBar();
+        updateChapterCards();
     }
 
     // ── Open chapter ─────────────────────────────────────────
@@ -432,6 +509,43 @@
             });
     }
 
+    // ── Reading position persistence ─────────────────────
+    var STORAGE_KEY = 'hybelior_chroniques_bookmark';
+
+    function saveBookmark() {
+        if (currentChapterIdx < 0) return;
+        var ch = allChapters[currentChapterIdx];
+        if (!ch) return;
+        var bookmark = {
+            chapterNum: ch.num,
+            chapterTitle: ch.titre,
+            scrollTop: readerBody.scrollTop,
+            scrollHeight: readerBody.scrollHeight,
+            timestamp: Date.now()
+        };
+        try { localStorage.setItem(STORAGE_KEY, JSON.stringify(bookmark)); } catch(e) {}
+    }
+
+    function loadBookmark() {
+        try {
+            var raw = localStorage.getItem(STORAGE_KEY);
+            return raw ? JSON.parse(raw) : null;
+        } catch(e) { return null; }
+    }
+
+    function getReadingProgress(bookmark) {
+        if (!bookmark || !bookmark.scrollHeight || bookmark.scrollHeight <= 0) return 0;
+        return Math.min(100, Math.round((bookmark.scrollTop / (bookmark.scrollHeight - 600)) * 100));
+    }
+
+    // Debounced scroll save
+    var scrollSaveTimer = null;
+    function onReaderScroll() {
+        if (scrollSaveTimer) clearTimeout(scrollSaveTimer);
+        scrollSaveTimer = setTimeout(saveBookmark, 300);
+    }
+    readerBody.addEventListener('scroll', onReaderScroll);
+
     function renderChapter(text) {
         // Strip Obsidian wiki links
         var clean = text.replace(/\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/g, function(_, file, display) {
@@ -439,7 +553,20 @@
         });
         var html = marked.parse(clean, { breaks: true });
         readerBody.innerHTML = '<div class="chron-md-content">' + html + '</div>';
-        readerBody.scrollTop = 0;
+
+        // Restore scroll position if reopening same chapter
+        var bookmark = loadBookmark();
+        if (bookmark && allChapters[currentChapterIdx] && bookmark.chapterNum === allChapters[currentChapterIdx].num) {
+            setTimeout(function() { readerBody.scrollTop = bookmark.scrollTop; }, 50);
+        } else {
+            readerBody.scrollTop = 0;
+        }
+
+        // Save immediately (new chapter opened)
+        setTimeout(saveBookmark, 100);
+
+        // Mark chapter card as current
+        updateChapterCards();
     }
 
     // ── Navigation ───────────────────────────────────────────
@@ -452,9 +579,11 @@
 
     // ── Close ────────────────────────────────────────────────
     function closeModal() {
+        saveBookmark();
         modal.setAttribute('hidden', '');
         document.body.style.overflow = '';
         currentChapterIdx = -1;
+        showResumeBar();
     }
 
     closeBtn.addEventListener('click', closeModal);
@@ -464,6 +593,50 @@
         if (!modal.hasAttribute('hidden') && e.key === 'ArrowLeft') prevBtn.click();
         if (!modal.hasAttribute('hidden') && e.key === 'ArrowRight') nextBtn.click();
     });
+
+    // ── Resume bar + chapter card markers ─────────────────
+    function showResumeBar() {
+        var existing = document.getElementById('chron-resume-bar');
+        if (existing) existing.remove();
+
+        var bookmark = loadBookmark();
+        if (!bookmark || !bookmark.chapterNum) return;
+
+        var progress = getReadingProgress(bookmark);
+        var bar = document.createElement('div');
+        bar.id = 'chron-resume-bar';
+        bar.className = 'chron-resume-bar';
+        bar.innerHTML =
+            '<span class="chron-resume-icon">\uD83D\uDCD6</span>' +
+            '<div class="chron-resume-info">' +
+            '  <div class="chron-resume-label">Reprendre la lecture</div>' +
+            '  <div class="chron-resume-chapter">Chapitre ' + bookmark.chapterNum + ' \u2014 ' + escHtml(bookmark.chapterTitle) + '</div>' +
+            '</div>' +
+            '<div class="chron-resume-progress"><div class="chron-resume-progress-fill" style="width:' + progress + '%"></div></div>';
+        bar.addEventListener('click', function() {
+            openChapter(bookmark.chapterNum);
+        });
+
+        var actNav = root.querySelector('.chron-act-nav');
+        if (actNav) {
+            actNav.parentNode.insertBefore(bar, actNav);
+        }
+    }
+
+    function updateChapterCards() {
+        var bookmark = loadBookmark();
+        var cards = root.querySelectorAll('.chron-card');
+        cards.forEach(function(card) {
+            card.classList.remove('current-reading');
+        });
+        if (bookmark && bookmark.chapterNum) {
+            cards.forEach(function(card) {
+                if (parseInt(card.dataset.chapter) === bookmark.chapterNum) {
+                    card.classList.add('current-reading');
+                }
+            });
+        }
+    }
 
     // ── Utility ──────────────────────────────────────────────
     function escHtml(str) {
