@@ -4,7 +4,7 @@
  */
 
 const Router = {
-    routes: ['accueil', 'carte', 'lore', 'gameplay', 'apprentissage', 'frise', 'frise-v2', 'lignees'],
+    routes: ['accueil', 'carte', 'lore', 'gameplay', 'frise', 'frise-v2', 'lignees'],
     defaultRoute: 'accueil',
     container: null,
     currentRoute: null,
