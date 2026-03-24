@@ -609,6 +609,101 @@
     .era-banner { padding: 14px 16px; }
     .era-banner-name { font-size: 17px; }
 }
+
+/* ── Search input ── */
+.frise-search-input {
+    font-family: 'Raleway', sans-serif;
+    font-size: 11px;
+    padding: 4px 10px;
+    border: 1px solid rgba(120,78,18,0.28);
+    border-radius: 4px;
+    background: var(--input-bg, rgba(255,255,255,0.55));
+    color: var(--text);
+    width: 160px;
+    outline: none;
+    transition: border-color 0.18s;
+}
+.frise-search-input:focus {
+    border-color: var(--gold);
+}
+
+/* ── Year Explorer ── */
+.frise-year-explorer {
+    display: flex;
+    gap: 4px;
+    align-items: center;
+}
+
+/* ── Zoom controls ── */
+.frise-zoom-controls {
+    display: flex;
+    gap: 2px;
+}
+.frise-zoom-btn {
+    font-family: 'Raleway', sans-serif;
+    font-size: 12px;
+    font-weight: 700;
+    padding: 3px 8px;
+    border: 1px solid rgba(120,78,18,0.28);
+    border-radius: 3px;
+    background: transparent;
+    color: var(--text-muted);
+    cursor: pointer;
+    transition: background 0.15s, border-color 0.15s, color 0.15s;
+}
+.frise-zoom-btn:hover {
+    background: rgba(122,76,10,0.10);
+    color: var(--gold);
+}
+.frise-zoom-btn.active {
+    background: rgba(122,76,10,0.15);
+    border-color: var(--gold);
+    color: var(--gold);
+}
+
+/* ── Zoom level behaviors ── */
+#frise-content.zoom-collapsed .events-section {
+    display: none;
+}
+#frise-content.zoom-expanded .event-desc {
+    display: block;
+}
+
+/* ── Year highlight glow ── */
+.civ-bar-fill.year-highlight {
+    filter: brightness(1.3);
+    box-shadow: 0 0 8px 2px var(--gold);
+    transition: box-shadow 0.3s, filter 0.3s;
+}
+
+/* ── Search hidden ── */
+.event-row.hidden,
+.civ-bar-row.hidden {
+    display: none;
+}
+
+/* ── Year explorer message ── */
+.frise-year-msg {
+    position: fixed;
+    bottom: 24px;
+    left: 50%;
+    transform: translateX(-50%);
+    font-family: 'Raleway', sans-serif;
+    font-size: 13px;
+    font-weight: 600;
+    color: var(--gold);
+    background: var(--panel-bg, rgba(232,220,196,0.97));
+    border: 1px solid rgba(120,78,18,0.30);
+    border-radius: 6px;
+    padding: 8px 20px;
+    z-index: 9999;
+    pointer-events: none;
+    opacity: 0;
+    transition: opacity 0.3s;
+}
+.frise-year-msg.visible {
+    opacity: 1;
+}
 </style>
 
 <h1 id="frise-title">Frise Chronologique d'Hybélior</h1>
@@ -622,8 +717,24 @@
         <button class="frise-filter-all" id="btn-filter-all">Tout afficher</button>
         <div class="frise-filter-sep"></div>
         <div class="frise-legend" id="frise-legend"></div>
+        <div class="frise-filter-sep"></div>
+        <input type="text" id="frise-search" class="frise-search-input" placeholder="Rechercher...">
+        <div class="frise-filter-sep"></div>
+        <div class="frise-year-explorer">
+            <input type="text" id="frise-year-input" class="frise-search-input" placeholder="Année..." style="width:100px">
+            <button id="frise-year-go" class="frise-filter-all">Aller</button>
+        </div>
+        <div class="frise-filter-sep"></div>
+        <div class="frise-zoom-controls">
+            <button class="frise-zoom-btn" data-zoom="collapsed" title="Vue condensée">−</button>
+            <button class="frise-zoom-btn active" data-zoom="normal" title="Vue normale">◯</button>
+            <button class="frise-zoom-btn" data-zoom="expanded" title="Vue étendue">+</button>
+        </div>
     </div>
 </div>
+
+<!-- Year explorer floating message -->
+<div class="frise-year-msg" id="frise-year-msg"></div>
 
 <!-- CONTENU FRISE -->
 <div id="frise-content" style="padding-bottom: 60px;"></div>
@@ -633,293 +744,12 @@
 
 <script>
 /* =================================================================
-   DATA — Hybélior Chronological Timeline
+   DATA — loaded from shared js/timeline-data.js
+   CIV & CONN remain inline (volume)
    ================================================================= */
 
-const ERAS = [
-    {
-        id: 'genese', num: '0', name: 'Ères Primordiales',
-        dates: '∞ — ~45 000 av.A',
-        desc: 'Avant les mortels. Émergence des Éternels, des Cosmiques, des Éthérés. Formation du monde par la Fracture du Panghor.',
-        color: '#a07820', bg: 'rgba(160,120,30,0.05)', accent: '#a07820',
-        yMin: 0, yMax: 150
-    },
-    {
-        id: 'eveil', num: 'I', name: 'Éveil des Mortels',
-        dates: '~45 000 — ~20 000 av.A',
-        desc: 'Les premières civilisations mortelles émergent dans les 5 Berceaux. Le Grand Gel (~30 000 av.A) efface 80% de la vie. Reconstruction lente.',
-        color: '#6a8040', bg: 'rgba(100,130,60,0.05)', accent: '#6a8040',
-        yMin: 150, yMax: 300
-    },
-    {
-        id: 'lien', num: 'II', name: 'Âge du Lien',
-        dates: '~20 000 av.A — An 0',
-        desc: 'Découverte et maîtrise du Lien magique. Âge d\'Or de 120 millions d\'habitants, 7 cités volantes, 200 portails. Les graines de la Chute sont semées.',
-        color: '#3060a0', bg: 'rgba(48,96,160,0.05)', accent: '#3060a0',
-        yMin: 300, yMax: 800
-    },
-    {
-        id: 'arrachement', num: 'III', name: "L'Arrachement",
-        dates: 'An 0',
-        desc: "L'Étudiant sectionne son Nœud au Mont Cendra. En 7 heures, le Lien se rompt à travers tout Hybélior. 7 cités volantes s'écrasent. Navigor disparaît. Début de la plus grande catastrophe de l'histoire.",
-        color: '#a02020', bg: 'rgba(160,30,30,0.07)', accent: '#a02020',
-        yMin: 800, yMax: 960
-    },
-    {
-        id: 'nuit', num: 'IV', name: 'Grande Nuit',
-        dates: 'An 0 — ~3 000 ap.A',
-        desc: '120 millions d\'habitants → ~25 millions en 3 000 ans. Féodalisme de survie. Persécution des Tissés. Le Fléau des Failles frappe une troisième fois.',
-        color: '#502060', bg: 'rgba(80,32,96,0.05)', accent: '#502060',
-        yMin: 960, yMax: 1560
-    },
-    {
-        id: 'nations', num: 'V', name: 'Ère des Nations',
-        dates: '~3 000 — ~9 500 ap.A',
-        desc: 'Les empires se fragmentent et se reforment. Routes commerciales, guerres dynastiques, révolutions. Drahk\'Nor s\'effondre. Les républiques émergent.',
-        color: '#7a5020', bg: 'rgba(122,80,32,0.05)', accent: '#7a5020',
-        yMin: 1560, yMax: 2560
-    },
-    {
-        id: 'actuel', num: 'VI', name: 'Ère Actuelle',
-        dates: '~9 500 — ~10 200 ap.A',
-        desc: 'Le Traité des Treize Continents. La Catena Fracta dans l\'ombre. Le Cœur de Cendra pulse. Les Esprits se taisent. Quelque chose arrive.',
-        color: '#7a4c0a', bg: 'rgba(122,76,10,0.06)', accent: '#7a4c0a',
-        yMin: 2560, yMax: 3160
-    },
-];
-
-/* Correspondance position SVG → date approximative */
-const DATE_TICKS = [
-    {y:0,   label:'∞'},
-    {y:150, label:'~45 000 av.A'},
-    {y:238, label:'~30 000 av.A'},
-    {y:300, label:'~20 000 av.A'},
-    {y:500, label:'~10 000 av.A'},
-    {y:700, label:'~3 000 av.A'},
-    {y:800, label:'An 0'},
-    {y:960, label:'~200 ap.A'},
-    {y:1195,label:'~1 500 ap.A'},
-    {y:1540,label:'~2 950 ap.A'},
-    {y:1560,label:'~3 000 ap.A'},
-    {y:1660,label:'~3 800 ap.A'},
-    {y:1720,label:'~4 200 ap.A'},
-    {y:1780,label:'~4 600 ap.A'},
-    {y:1837,label:'~4 800 ap.A'},
-    {y:1898,label:'~5 200 ap.A'},
-    {y:1960,label:'~5 800 ap.A'},
-    {y:2010,label:'~6 200 ap.A'},
-    {y:2060,label:'~6 600 ap.A'},
-    {y:2110,label:'~7 050 ap.A'},
-    {y:2160,label:'~7 200 ap.A'},
-    {y:2210,label:'~7 400 ap.A'},
-    {y:2252,label:'~7 500 ap.A'},
-    {y:2310,label:'~7 800 ap.A'},
-    {y:2360,label:'~8 100 ap.A'},
-    {y:2410,label:'~8 400 ap.A'},
-    {y:2455,label:'~8 800 ap.A'},
-    {y:2490,label:'~9 000 ap.A'},
-    {y:2520,label:'~9 100 ap.A'},
-    {y:2540,label:'~9 200 ap.A'},
-    {y:2560,label:'~9 500 ap.A'},
-    {y:2620,label:'~9 600 ap.A'},
-    {y:2680,label:'~9 700 ap.A'},
-    {y:2740,label:'~9 800 ap.A'},
-    {y:2800,label:'~9 850 ap.A'},
-    {y:2868,label:'~9 900 ap.A'},
-    {y:3056,label:'~10 142 ap.A'},
-    {y:3100,label:'~10 200 ap.A'},
-];
-
-function yToDate(y) {
-    // Trouver les deux ticks encadrant y et interpoler
-    for (let i = 0; i < DATE_TICKS.length - 1; i++) {
-        const a = DATE_TICKS[i], b = DATE_TICKS[i+1];
-        if (y >= a.y && y <= b.y) {
-            if (a.label === b.label) return a.label;
-            return a.label + '–' + b.label;
-        }
-    }
-    if (y <= DATE_TICKS[0].y) return DATE_TICKS[0].label;
-    return DATE_TICKS[DATE_TICKS.length-1].label;
-}
-
-/* Lignées civilisationnelles — regroupements historiques */
-const LIGNEES = {
-    'ilthara':  {name:'Lignée des Ombrils',     desc:'Mémoire onirique, conquête et scission — des Songes aux nations d\'Ilthara'},
-    'endora':   {name:'Lignée des Syltharans',   desc:'Grâce arcane et création — du Saint-Empire aux royaumes sylvestres'},
-    'galenor':  {name:'Lignée des Ventori',      desc:'Vent, route et commerce — des Coureurs aux Quatre Couronnes'},
-    'alkaran':  {name:'Lignée des Petravins',    desc:'Pierre, forge et loi — des Enfants de la Roche au fer'},
-    'celethor': {name:'Lignée des Nébulaïrs',    desc:'Prière, étoiles et savoir sacré — de Celith à la lumière'},
-    'cendara':  {name:'Lignée des Kharavasts',   desc:'La flamme qui ne meurt pas — du feu primordial au Cœur'},
-    'onara':    {name:'Lignée des Marevanes',    desc:'Routes maritimes et marchands — des flottes au Forgon'},
-    'evertia':  {name:'Lignée des Selvarins',    desc:'Communion avec la terre — continuité druidique et esprits-lieux'},
-    'nysaria':  {name:"Lignée des Vael'Somnix",  desc:'Le voile entre les mondes — isolement, masques et rêves'},
-    'ind':      {name:'Lignée des Panghoris',    desc:'Racines propres — nations auto-fondées, antérieures aux empires'},
-};
-
-const TYPES = {
-    fondation:   { c:'#8b6914', l:'Fondation' },
-    conquete:    { c:'#b03030', l:'Guerre' },
-    rebellion:   { c:'#c06010', l:'Révolte' },
-    disparition: { c:'#706060', l:'Chute' },
-    decouverte:  { c:'#2a7a5a', l:'Découverte' },
-    magie:       { c:'#7050a0', l:'Magie' },
-    religion:    { c:'#9a8020', l:'Religion' },
-    alliance:    { c:'#3a7a4a', l:'Alliance' },
-    dynastie:    { c:'#b08020', l:'Époque' },
-    exploration: { c:'#3080a0', l:'Exploration' },
-    catastrophe: { c:'#8b0000', l:'Catastrophe' },
-    commerce:    { c:'#4a8060', l:'Commerce' },
-    traite:      { c:'#2060a0', l:'Traité' },
-    mystere:     { c:'#604080', l:'Mystère' },
-};
-
-const GLOBAL = [
-    // ═══ Ères Primordiales ═══
-    { y:40,  t:'magie',      era:'genese', title:'Résonance Primordiale',
-      desc:'Dans le Vide — la première vibration. Rien ne précède. La substance de la magie prend forme avant le monde lui-même.' },
-    { y:65,  t:'magie',      era:'genese', title:'Émergence des 5 Éternels',
-      desc:'Celestia (étoiles), Noctis (ombres), Tempora (temps), Eldoria (vie), Navigor (passages) — émergent en cascade depuis la Résonance. Ces entités façonnent ensuite les lois du monde.' },
-    { y:95,  t:'magie',      era:'genese', title:'Naissance des 12 Cosmiques',
-      desc:'Terranu, Aquor, Aerion, Flamara, Arborius, Spiritus, Transitum… Douze entités secondaires en 4 phases. Chacune incarne un aspect physique du monde.' },
-    { y:125, t:'magie',      era:'genese', title:'Installation des 45 Éthérés',
-      desc:'Gelion (Cestra), Ignifex (Cendara), Venturis (Galenor), Coralis (Azoria)… Les Éthérés sont les gardiens locaux des continents. Ils formeront la base de nombreuses religions.' },
-    { y:148, t:'catastrophe',era:'genese', title:'Fracture du Panghor',
-      desc:'Le supercontinent unique se divise en 3 phases sur ~10 000 ans, donnant naissance aux 13 continents actuels séparés par l\'Océan Primordial.' },
-    // ═══ Éveil des Mortels ═══
-    { y:162, t:'decouverte', era:'eveil', title:'Premiers mortels — 5 Berceaux',
-      desc:'Les premières formes de vie mortelle consciente apparaissent dans cinq zones simultanément : Flamme/Cendara, Pierre/Alkaran, Vent/Galenor, Brume/Celethor, Eau/Azoria.' },
-    { y:178, t:'decouverte', era:'eveil', title:'Varak la Brûlante — 1er nom historique', dl:2,
-      desc:'~43 000 av.A — Première personne nommée dans l\'Histoire. Découvre que le métal répond à la voix — précurseur de la forge et de la magie du son.' },
-    { y:198, t:'exploration',era:'eveil', title:'5 Proto-empires émergent',
-      desc:'Ornakh-Vael, Moldra-Garak, Velkoran, Sylvarin, Thalorak. Les premières formes politiques organisées apparaissent sur les 5 continents fondateurs.' },
-    { y:238, t:'catastrophe',era:'eveil', title:'⚠ GRAND GEL — 1ère quasi-extinction',
-      desc:'~30 000 av.A — Climata, la Cosmique du Froid, provoque une glaciation mondiale. 80% de la population disparaît. La quasi-totalité des proto-empires s\'effondre.' },
-    { y:270, t:'catastrophe',era:'eveil', title:'Nadir du Gel — 12 300 âmes survivantes', dl:2,
-      desc:'~29 000 av.A — Point le plus bas de l\'histoire de l\'humanité. 12 300 individus répartis sur 13 continents. La reconstitution prendra 5 000 ans.' },
-    { y:280, t:'decouverte', era:'eveil', title:'Reconstruction — premiers peuples hybrides', dl:2,
-      desc:'~25 000 av.A — Les ponts de glace permettent les premières grandes migrations inter-continentales. Premières rencontres entre peuples différents.' },
-    // ═══ Âge du Lien ═══
-    { y:312, t:'magie',      era:'lien', title:'Orvane, Khatun, Ildaran découvrent le Lien',
-      desc:'~20 000 av.A — Trois individus sur trois continents différents découvrent simultanément la magie du Lien — une énergie cosmique qui relie toutes les choses vivantes.' },
-    { y:350, t:'fondation',  era:'lien', title:'3 Écoles du Lien fondées', dl:2,
-      desc:'Clairière des Fils (Celethor), Guilde du Souffle (Cendara), Congrégation (Alkaran). Premières institutions de magie structurée. Les praticiens sont appelés Liés.' },
-    { y:412, t:'conquete',   era:'lien', title:'Guerre des Deux Lumières — 40 ans', dl:2,
-      desc:'Pyrevaste vs Celith. Premier grand conflit armé impliquant le Lien. Arbitrée par la Confédération d\'Alkarath après 40 ans de destruction.' },
-    { y:435, t:'religion',   era:'lien', title:'Les 9 Grandes Religions',
-      desc:'Ignis Aeternum, Vael\'Kurash, Rota Mundi, Noctari, Ordo Caelum, Via Ventus, Lex Petra, Somnium Vigil, Foedus Animae. Les grandes traditions spirituelles se formalisent.' },
-    { y:480, t:'fondation',  era:'lien', title:'Code de Pierre — premier droit écrit', dl:2,
-      desc:'Confédération d\'Alkarath. 400 articles fondant le droit commun entre nations. Restera la base juridique de référence jusqu\'à l\'Ère des Nations.' },
-    { y:520, t:'religion',   era:'lien', title:'Schisme du Lien — 200 ans de rupture', dl:2,
-      desc:'Quatre empires s\'affrontent sur la définition officielle du Lien : est-il divin, naturel, ou un outil ? Le schisme laisse des cicatrices durables.' },
-    { y:560, t:'alliance',   era:'lien', title:'Alliance Endara-Khalifat', dl:2,
-      desc:'Mariage de Lyrana et Khar le Venteux. 50 ans de paix. Fondation de la Bibliothèque d\'Endara (40 000 rouleaux). Apogée de la diplomatie médiévale.' },
-    { y:600, t:'disparition',era:'lien', title:'Mort-de-Rêve — chute d\'Ithalorn', dl:2,
-      desc:'9 des 13 dirigeants d\'Ithalorn meurent dans un cauchemar partagé en une seule nuit. Nysaria se sépare définitivement. Origine inconnue.' },
-    { y:618, t:'exploration',era:'lien', title:'6 Grands Empires dominent le monde', dl:2,
-      desc:'~3 000 av.A — Hégémonie d\'Aethran, Dominat de Pyrion, Empire de Lithane, Sanctuaire d\'Orivane, Thalassocratie de Navoris, Union des Flammes. Ordre mondial stabilisé.' },
-    { y:700, t:'decouverte', era:'lien', title:'Âge d\'Or — 120M habitants, 7 cités volantes', dl:2,
-      desc:'200+ portails actifs, 9 académies du Lien, mortalité infantile à 12%, espérance de vie 65-90 ans. La civilisation n\'atteindra ce niveau qu\'après 10 000 ans.' },
-    // ═══ Graines de la Chute ═══
-    { y:778, t:'religion',   era:'lien', title:'Verithan — Traité du Vide',
-      desc:'~1 000 av.A — "Le Lien est une chaîne." Verithan publie ses 5 thèses et fonde les Verithani. Premier mouvement anti-Lien organisé de l\'histoire.' },
-    { y:795, t:'magie',      era:'lien', title:"L'Étudiant rassemble le Cercle des Huit",
-      desc:'~30 av.A — Héritier intellectuel de Verithan. Réunit 8 disciples (Sera, Drakhan, Mirathis, Vorath, Aelindra, Thessan, Kayara, Iveth) de 5 nations différentes au Mont Cendra.' },
-    // ═══ L'Arrachement ═══
-    { y:816, t:'catastrophe',era:'arrachement', title:'⚡ RUPTURE COSMIQUE — An 0',
-      desc:'L\'Étudiant sectionne son propre Nœud de Lien au sommet du Mont Cendra à l\'aube. La rupture se propage en 7 heures à travers tout Hybélior, détruisant le réseau magique mondial.' },
-    { y:830, t:'catastrophe',era:'arrachement', title:'7 cités volantes s\'écrasent en 7 heures', dl:2,
-      desc:'Cendal\'Horun (800m de hauteur), Lithanel Haute (1200m), Pyranel, Althanar, Orivane Haute (1500m), Endral Flottant, Navoris Céleste. Des centaines de milliers de morts.' },
-    { y:843, t:'disparition',era:'arrachement', title:'Navigor disparaît',
-      desc:'L\'Éternel des passages disparaît. Les chemins entre dimensions se ferment. Les âmes des morts n\'ont plus de guide vers l\'au-delà — seul Transitum subsiste.' },
-    { y:855, t:'catastrophe',era:'arrachement', title:'Navoria engloutie — 200 000 morts', dl:2,
-      desc:'La Thalassocratie de Navoris. En 3 jours, la capitale côtière s\'enfonce. 400 000 habitants. Les ruines sont aujourd\'hui à 40m de profondeur sous la mer.' },
-    { y:868, t:'magie',      era:'arrachement', title:'Eldoria entre dans le Grand Sommeil',
-      desc:'L\'Éternel de la vie s\'endort. Plus aucune étoile nouvelle ne naîtra jamais. Le monde vit désormais sur ses réserves magiques existantes.' },
-    { y:892, t:'magie',      era:'arrachement', title:'Tempora blessé — Failles temporelles',
-      desc:'L\'Éternel du temps est gravement blessé. Des discontinuités temporelles permanentes (les Failles) apparaissent. Passé, présent et futur peuvent se mélanger aux abords des Failles.' },
-    { y:930, t:'catastrophe',era:'arrachement', title:'Famines et épidémies mondiales', dl:2,
-      desc:'Années 1 à 10. Première épidémie : ~8M morts. Famines : ~20M morts. Sans le Lien, l\'agriculture magique s\'effondre. L\'infrastructure mondiale cesse de fonctionner.' },
-    // ═══ Grande Nuit ═══
-    { y:975, t:'disparition',era:'nuit', title:'La Grande Nuit — 120M → ~25M survivants',
-      desc:'An 0-50. Famines, épidémies, effondrements d\'infrastructure, guerres tribales. ~90 millions de morts sur 3 000 ans. 75% de la population mondiale disparaît.' },
-    { y:1010,t:'fondation',  era:'nuit', title:'Seigneurs de Forge — premiers féodaux', dl:2,
-      desc:'Domaines de 5 000 à 20 000 personnes autour d\'une forge. Premiers codes de survie (~50 ap.A). La maîtrise du métal remplace la magie comme fondement du pouvoir.' },
-    { y:1050,t:'fondation',  era:'nuit', title:'Le Forgon — Pacte des Trois Ports', dl:2,
-      desc:'Familles Forr, Gondal, Navar sur la côte d\'Onara. Première monnaie interrégionale (~400 ap.A). Germe de ce qui deviendra Mosrack.' },
-    { y:1089,t:'fondation',  era:'nuit', title:'Drahk fonde Drahk\'Nor', dl:2,
-      desc:'40 ans de campagnes militaires. Unifie Ilthara et Endora (~800 ap.A). Possiblement lui-même Tissé — ce qui rendrait sa future persécution des Tissés d\'autant plus tragique.' },
-    { y:1155,t:'conquete',   era:'nuit', title:'Grand Schisme Religieux',
-      desc:'~1 000 ap.A — Trois camps : les Fidèles (les dieux dorment), les Abandonnés (les dieux sont morts), les Accusateurs (les dieux ont trahi). Conflits sanglants.' },
-    { y:1195,t:'catastrophe',era:'nuit', title:'⚠ FLÉAU DES FAILLES — 3ème quasi-extinction',
-      desc:'~1 480 ap.A — Phénomène magique ciblant les Tissés via les Failles de Tempora. ~150 000 Tissés réduits à ~200-300 survivants en 200 ans. Population mondiale réduite de 40%.' },
-    { y:1345,t:'magie',      era:'nuit', title:'Persécution des Tissés', dl:2,
-      desc:'~1 400-1 600 ap.A — Le Culte des Mangeurs de Temps et les Inspecteurs de Pureté de Drahk\'Nor traquent les Tissés. Être né sans Lien devient un crime.' },
-    { y:1420,t:'conquete',   era:'nuit', title:'Tyrannie des Cendres — Drahk\'Nor', dl:2,
-      desc:'~1 450-1 600 ap.A. Période la plus sombre de Drahk\'Nor. Euthanasie systématique des Tissés. Camps, registres, délations. Période dite la plus noire de l\'ère.' },
-    { y:1540,t:'traite',     era:'nuit', title:'Convention de Gryndor', dl:2,
-      desc:'~2 400 ap.A — Premier traité inter-empires depuis l\'Arrachement. Routes communes, arbitrage frontalier. Exclut délibérément les Tissés renaissants — bombe à retardement pour l\'Ère des Nations.' },
-    // ═══ Ère des Nations ═══
-    { y:1600,t:'commerce',   era:'nations', title:'Routes commerciales continentales', dl:2,
-      desc:'Route de l\'Épine (N-S), Route des Quatre Mers (maritime), Voie des Sommets (montagnarde). Première infrastructure économique mondiale depuis l\'Arrachement.' },
-    { y:1660,t:'commerce',   era:'nations', title:'Premières monnaies standardisées', dl:2,
-      desc:'Altram forge les premières pièces calibrées (~4 200 ap.A). La standardisation monétaire préfigure l\'étalon de Lumasar.' },
-    { y:1837,t:'conquete',   era:'nations', title:'⚔ Guerre du Panghor Brisé',
-      desc:'~4 800 ap.A — Drahk\'Nor s\'effondre après 4 000 ans. Les Triumvirats de Khorrath et le Voivodat de Gryndhaar naissent de ses cendres en Ilthara. Les guildes marchandes d\'Endora obtiennent leur autonomie. (Drakora, Gryndor et Haldria n\'émergeront que bien plus tard, de civilisations intermédiaires.)' },
-    { y:1898,t:'conquete',   era:'nations', title:'⚔ Guerre des Trois Couronnes',
-      desc:'~5 200 ap.A — Galenthis s\'effondre. La Ligue Équestre de Galenor et l\'Hégémonie de Solkethis émergent de ses cendres. (Kharazir, Ventera, Seraphia et Lumasar ne se formeront que des siècles plus tard.)' },
-    { y:1975,t:'conquete',   era:'nations', title:'⚔ Guerre des Détroits', dl:2,
-      desc:'~5 700 ap.A — Mosrack vs coalition (Tyndara, Haldria, Caeloria). Premières lois maritimes internationales. Mosrack obtient des droits de passage mais pas la suprématie.' },
-    { y:2021,t:'conquete',   era:'nations', title:'⚔ Guerre des Dieux Sourds', dl:2,
-      desc:'~6 000 ap.A — Gryndor vs Drakora. Conflit entre le modèle de gouvernance séculier (Gryndor) et théocratique (Drakora). La guerre se termine sans vainqueur.' },
-    { y:2098,t:'conquete',   era:'nations', title:'⚔ Schismes d\'Endora', dl:2,
-      desc:'~6 500 ap.A — Guerres religieuses internes à Haldria. Avalor et Sanvara se séparent. L\'Endora post-Arrachement finit de se fragmenter.' },
-    { y:2160,t:'conquete',   era:'nations', title:'⚔ Guerre des Cinq Vents', dl:2,
-      desc:'~6 900 ap.A — Conflit entre les cinq puissances galenoriennes (Kharazir, Ventera, Seraphia, Lumasar, Solena). Aucun vainqueur. Traités de neutralisation.' },
-    { y:2206,t:'conquete',   era:'nations', title:'⚔ Guerre de l\'Ombre (ancienne)', dl:2,
-      desc:'~7 200 ap.A — Schisme politique dans Gryndor. Naissance de Pyrtara, premier État séculier revendiqué. Les méritocraties militaires émergent.' },
-    { y:2252,t:'rebellion',  era:'nations', title:'Révolution des Plumes — Lumasar',
-      desc:'~7 500 ap.A — Seule véritable révolution républicaine d\'Hybélior. Le Code de Lumasar fonde les droits des citoyens. Lumasar devient la seule république formelle.' },
-    { y:2350,t:'commerce',   era:'nations', title:'Étalon Métallique de Lumasar', dl:2,
-      desc:'~7 000 ap.A — 40+ nations adoptent le standard monétaire (l\'arkhen). Trois emblèmes : La Plume, le Marteau, la Forge. Intégration économique mondiale.' },
-    // ── Civilisations intermédiaires — fondations et chutes notables ──
-    { y:1960,t:'fondation',  era:'nations', title:'Fondation du Drakhal (Empire des Cendres)', dl:2,
-      desc:'~5 800 ap.A — L\'Empire des Cendres unifie le centre et le sud d\'Ilthara après l\'effondrement du Voivodat de Gryndhaar. Né sur les ruines des Triumvirats de Khorrath.' },
-    { y:2010,t:'disparition',era:'nations', title:'Chute du Royaume de Varnath', dl:2,
-      desc:'~6 200 ap.A — Le Royaume de Varnath s\'effondre en Alkaran après une guerre civile dynastique dévastatrice. Débute l\'Ère des Seigneurs de la Pierre.' },
-    { y:2110,t:'catastrophe',era:'nations', title:'Éruption de Pyrathis — naissance des Cités du Sud', dl:2,
-      desc:'~7 050 ap.A — L\'éruption volcanique qui détruit le Drakhal donne naissance aux Cités-États de Pyrathis. Le sud d\'Ilthara se fragmentera pendant deux siècles avant de former l\'Hégémonie de Pyrannex.' },
-    { y:2310,t:'disparition',era:'nations', title:'Concile de Veldros — chute de la Confédération Veldrane', dl:2,
-      desc:'~7 800 ap.A — La Confédération Veldrane d\'Endora tient son dernier concile à Veldros avant d\'être absorbée. L\'Empire Kalvorn achève son expansion sur tout Endora.' },
-    { y:2455,t:'conquete',   era:'nations', title:'Défense de la Porte de Fer — Protectorat des Passes',
-      desc:'~8 800 ap.A — Le Protectorat des Passes (sous Aldren IV) repousse la coalition Drakora-Gryndor. Les frontières d\'Alkaran sont fixées pour les siècles suivants. Victoire décisive. (Altram ne sera fondé qu\'en ~9 100, après l\'Interrègne des Héritiers.)',
-      dl:2 },
-    { y:2455,t:'rebellion',  era:'nations', title:'Révolution des Surfaces — Cendara', dl:2,
-      desc:'~8 900 ap.A — Les populations de surface de Cendara se soulèvent contre le Protectorat de la Main Noire qui gouvernait depuis les souterrains. Naissance de la Ligue des Villes Libres.' },
-    { y:2490,t:'mystere',    era:'nations', title:'Rêve Sans Convocation — Nysaria', dl:2,
-      desc:'~9 100 ap.A — Un rêve collectif non invoqué traverse Nysaria en une seule nuit, abolissant la Confédération des Rêves Nommés. Origine inconnue. La Confédération des Rêves Nommés se dissout sans résistance.' },
-    { y:2520,t:'fondation',  era:'nations', title:'Trois fondations simultanées (~9 100)', dl:2,
-      desc:'~9 100 ap.A — Altram (Traité de Vask), Kharazir (Cité-État du Carrefour → fédération), Drakora (Marches de Khorrath → Grand-Duché) : trois nations émergent en l\'espace d\'une génération, signalant la fin de l\'ère des civilisations intermédiaires.' },
-    { y:2560,t:'disparition',era:'nations', title:'Dissolution de la Ligue Équestre de Galenor', dl:2,
-      desc:'~9 200 ap.A — La Ligue Équestre se fragmente après la sécession des Cavaliers Libres. Ventera hérite des plaines centrales et des traditions nomades ancestrales.' },
-    // ═══ Ère Actuelle ═══
-    { y:2570,t:'traite',     era:'actuel', title:'Traité des Treize Continents',
-      desc:'~9 500 ap.A — 64 nations sur 71 signent. 12 ans de négociation. Le Tribunal de Lumasar arbitre. Début officiel de l\'Ère Actuelle.' },
-    { y:2680,t:'decouverte', era:'actuel', title:'Presse à caractères mobiles — Lumasar', dl:2,
-      desc:'~9 200 ap.A — Les livres deviennent accessibles au peuple. Bulletins quotidiens. Démocratisation du savoir. Révolution culturelle silencieuse.' },
-    { y:2753,t:'rebellion',  era:'actuel', title:'Catena Fracta — premiers rapports', dl:2,
-      desc:'~9 750 ap.A — "Le Lien est une domination." Héritiers radicaux de Verithan. Cellules clandestines dans 12 nations. Les assassinats commencent.' },
-    { y:2830,t:'conquete',   era:'actuel', title:'Guerre de l\'Ombre — assassinats ciblés', dl:2,
-      desc:'~9 850+ ap.A — 8 figures pro-Lien assassinées. Aucune revendication. Les limites du Traité des Treize Continents sont testées. Les enquêtes n\'aboutissent pas.' },
-    { y:2868,t:'mystere',    era:'actuel', title:'⚠ Cœur de Cendra s\'accélère',
-      desc:'~9 900 ap.A — Les pulsations du Cœur de Cendra s\'accélèrent : 1/saison → 1/semaine. Les Liés dans un rayon de 50 lieues reçoivent des visions. Les animaux fuient.' },
-    { y:2940,t:'mystere',    era:'actuel', title:'Silence des Esprits d\'Evertia',
-      desc:'200 des 300 esprits-lieux d\'Evertia cessent de communiquer. Le dernier message reçu (~10 130 ap.A) : "Ils arrivent par le dessous."' },
-    { y:2995,t:'mystere',    era:'actuel', title:'Message de Mirathi — 3 langues',
-      desc:'~10 064 ap.A — Une sphère de lumière apparaît simultanément à Ulinor, Nysaria et Vytharia. Même message en 3 langues superposées : "Les routes rouvrent… le guide revient par les marges."' },
-    { y:3056,t:'catastrophe',era:'actuel', title:'⚠ Faille de Gryndor — Ordavan disparaît',
-      desc:'~10 142 ap.A — Le village d\'Ordavan (200 habitants) disparaît en 3 minutes. Cercle de sol vitrifié de 40 mètres de rayon. Faille de Tempora confirmée. Aucun survivant.' },
-];
+const { ERAS, DATE_TICKS, LIGNEES, TYPES, GLOBAL,
+        yToDate, yToDateLabel, buildConnMap, getEraCivsForRange } = window.HYBELIOR_TIMELINE;
 
 const CIV = [
     // ═══════════════════════════════════════════════════
@@ -1638,6 +1468,8 @@ const CONN = [
     {from:'Mosrack', to:'Tyndara', y:2560, t:'conquete', label:'Guerre des Détroits'},
 ];
 
+window.HYBELIOR_TIMELINE.registerCivData(CIV, CONN);
+
 /* =================================================================
    MOTEUR DE RENDU
    ================================================================= */
@@ -1664,30 +1496,7 @@ function hideCivTooltip() {
     civTooltip.classList.remove('visible');
 }
 
-function yToDateLabel(y) {
-    for (let i = 0; i < DATE_TICKS.length - 1; i++) {
-        const a = DATE_TICKS[i], b = DATE_TICKS[i+1];
-        if (y <= a.y) return a.label;
-        if (y >= a.y && y <= b.y) {
-            if (a.y === y) return a.label;
-            if (b.y === y) return b.label;
-            return a.label;
-        }
-    }
-    return DATE_TICKS[DATE_TICKS.length - 1].label;
-}
 
-// Build connections map : eventTitle → list of connection labels
-function buildConnMap() {
-    const map = {};
-    // For each CONN, we associate it with the "from" civ events near that y
-    CONN.forEach(conn => {
-        const key = `${conn.from}|${conn.y}`;
-        if (!map[key]) map[key] = [];
-        map[key].push(`→ ${conn.to} : ${conn.label}`);
-    });
-    return map;
-}
 
 function renderEraNav() {
     const nav = document.getElementById('frise-era-nav');
@@ -1750,16 +1559,6 @@ function applyFilters() {
     });
 }
 
-function getEraCivsForRange(yMin, yMax) {
-    return CIV.filter(c => c.y0 < yMax && c.y1 > yMin)
-               .sort((a, b) => {
-                   // Sort by lignee first, then by y0
-                   const la = a.lignee || 'zzz', lb = b.lignee || 'zzz';
-                   if (la < lb) return -1;
-                   if (la > lb) return 1;
-                   return a.y0 - b.y0;
-               });
-}
 
 function renderCivBars(era, civs) {
     if (civs.length === 0) return '';
@@ -1972,4 +1771,147 @@ if (window.SidebarTOC) {
     const content = document.querySelector('.page-content');
     if (sidebar && content) SidebarTOC.build(sidebar, content);
 }
+
+/* =================================================================
+   PHASE 1 — Quick Wins: Search, Year Explorer, Zoom
+   ================================================================= */
+
+// ── 1A. Search Bar ──
+(function() {
+    const searchInput = document.getElementById('frise-search');
+    if (!searchInput) return;
+    let searchTimer = null;
+
+    searchInput.addEventListener('input', function() {
+        clearTimeout(searchTimer);
+        searchTimer = setTimeout(function() {
+            const query = searchInput.value.trim().toLowerCase();
+            // Filter event rows
+            document.querySelectorAll('.event-row').forEach(row => {
+                if (!query) {
+                    row.classList.remove('hidden');
+                } else {
+                    const text = row.textContent.toLowerCase();
+                    row.classList.toggle('hidden', !text.includes(query));
+                }
+            });
+            // Filter civ bar rows
+            document.querySelectorAll('.civ-bar-row').forEach(row => {
+                if (!query) {
+                    row.classList.remove('hidden');
+                } else {
+                    const nameEl = row.querySelector('.civ-bar-name');
+                    const name = nameEl ? nameEl.textContent.toLowerCase() : '';
+                    row.classList.toggle('hidden', !name.includes(query));
+                }
+            });
+        }, 150);
+    });
+})();
+
+// ── 1B. Year Explorer ──
+(function() {
+    const yearInput = document.getElementById('frise-year-input');
+    const yearGoBtn = document.getElementById('frise-year-go');
+    const yearMsg = document.getElementById('frise-year-msg');
+    if (!yearInput || !yearGoBtn) return;
+
+    const { mapYearToFriseY } = window.HYBELIOR_TIMELINE;
+
+    function parseYearInput(raw) {
+        raw = raw.trim();
+        // Handle "An 0" or "an 0"
+        if (/^an\s+/i.test(raw)) {
+            const num = parseInt(raw.replace(/^an\s+/i, ''), 10);
+            return isNaN(num) ? null : num;
+        }
+        // Handle negative numbers (av.A)
+        const num = parseInt(raw, 10);
+        return isNaN(num) ? null : num;
+    }
+
+    function doYearExplore() {
+        const year = parseYearInput(yearInput.value);
+        if (year === null) return;
+
+        const targetY = mapYearToFriseY(year);
+
+        // Find containing era
+        let targetEra = null;
+        for (const era of ERAS) {
+            if (targetY >= era.yMin && targetY <= era.yMax) {
+                targetEra = era;
+                break;
+            }
+        }
+
+        // Scroll to era section
+        if (targetEra) {
+            const section = document.getElementById('era-' + targetEra.id);
+            if (section) {
+                section.scrollIntoView({ behavior: 'smooth', block: 'start' });
+            }
+        }
+
+        // Highlight active civs at that year
+        const activeCivs = CIV.filter(c => targetY >= c.y0 && targetY <= c.y1);
+        const fills = document.querySelectorAll('.civ-bar-fill');
+        let highlighted = 0;
+
+        fills.forEach(fill => {
+            const row = fill.closest('.civ-bar-row');
+            if (!row) return;
+            const nameEl = row.querySelector('.civ-bar-name');
+            if (!nameEl) return;
+            const name = nameEl.textContent.trim();
+            const isActive = activeCivs.some(c => c.name === name);
+            if (isActive) {
+                fill.classList.add('year-highlight');
+                highlighted++;
+            }
+        });
+
+        // Remove glow after 3 seconds
+        if (highlighted > 0) {
+            setTimeout(() => {
+                document.querySelectorAll('.civ-bar-fill.year-highlight').forEach(el => {
+                    el.classList.remove('year-highlight');
+                });
+            }, 3000);
+        }
+
+        // Show message
+        if (yearMsg) {
+            const dateLabel = yToDateLabel(targetY);
+            yearMsg.textContent = highlighted + ' civilisation' + (highlighted !== 1 ? 's' : '') + ' active' + (highlighted !== 1 ? 's' : '') + ' en ' + dateLabel;
+            yearMsg.classList.add('visible');
+            setTimeout(() => { yearMsg.classList.remove('visible'); }, 3000);
+        }
+    }
+
+    yearGoBtn.addEventListener('click', doYearExplore);
+    yearInput.addEventListener('keydown', function(e) {
+        if (e.key === 'Enter') doYearExplore();
+    });
+})();
+
+// ── 1C. Zoom Levels ──
+(function() {
+    const zoomBtns = document.querySelectorAll('.frise-zoom-btn');
+    const friseContent = document.getElementById('frise-content');
+    if (!friseContent || zoomBtns.length === 0) return;
+
+    zoomBtns.forEach(btn => {
+        btn.addEventListener('click', function() {
+            const zoom = this.dataset.zoom;
+            // Update active button
+            zoomBtns.forEach(b => b.classList.remove('active'));
+            this.classList.add('active');
+            // Update content class
+            friseContent.classList.remove('zoom-collapsed', 'zoom-expanded');
+            if (zoom === 'collapsed') friseContent.classList.add('zoom-collapsed');
+            else if (zoom === 'expanded') friseContent.classList.add('zoom-expanded');
+        });
+    });
+})();
 </script>
