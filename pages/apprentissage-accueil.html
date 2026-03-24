@@ -1,0 +1,204 @@
+<style>
+.mem-hero {
+    text-align: center;
+    padding: 32px 20px 24px;
+    background: linear-gradient(135deg, var(--cyan-dim), var(--gold-dim));
+    border-radius: var(--radius);
+    border: 1px solid var(--panel-border);
+    margin-bottom: 32px;
+}
+.mem-hero h2 { font-family: 'Cinzel', serif; font-size: 1.6rem; color: var(--gold); margin-bottom: 8px; }
+.mem-hero p { color: var(--text-muted); max-width: 640px; margin: 0 auto; line-height: 1.7; }
+
+.mem-stats-strip {
+    display: flex; gap: 16px; flex-wrap: wrap; justify-content: center; margin-bottom: 32px;
+}
+.mem-stat-card {
+    background: var(--panel-bg); border: 1px solid var(--panel-border);
+    border-radius: var(--radius); padding: 16px 24px; text-align: center; min-width: 140px; flex: 1; max-width: 200px;
+}
+.mem-stat-value { font-family: 'Cinzel', serif; font-size: 1.8rem; color: var(--gold); }
+.mem-stat-label { font-size: 0.82rem; color: var(--text-muted); text-transform: uppercase; letter-spacing: 1px; margin-top: 4px; }
+
+.mem-module-grid {
+    display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 20px; margin-bottom: 40px;
+}
+.mem-module-card {
+    background: var(--panel-bg); border: 1px solid var(--panel-border); border-radius: var(--radius);
+    padding: 24px; transition: transform 0.2s, box-shadow 0.2s; cursor: pointer;
+}
+.mem-module-card:hover { transform: translateY(-3px); box-shadow: var(--shadow); }
+.mem-module-icon { font-size: 2rem; margin-bottom: 12px; display: block; }
+.mem-module-card h3 { font-family: 'Cinzel', serif; font-size: 1.05rem; color: var(--text); margin-bottom: 6px; }
+.mem-module-card p { font-size: 0.88rem; color: var(--text-muted); line-height: 1.6; margin-bottom: 12px; }
+.mem-module-meta { display: flex; justify-content: space-between; align-items: center; }
+.mem-difficulty {
+    font-size: 0.75rem; text-transform: uppercase; letter-spacing: 1px; padding: 3px 10px;
+    border-radius: 12px; background: var(--gold-dim); color: var(--gold);
+}
+.mem-difficulty.medium { background: var(--cyan-dim); color: var(--cyan); }
+.mem-difficulty.hard { background: rgba(180,40,40,0.1); color: #8b2020; }
+.mem-btn {
+    display: inline-block; padding: 7px 18px; border: 1px solid var(--gold); color: var(--gold);
+    border-radius: var(--radius); font-size: 0.82rem; text-transform: uppercase; letter-spacing: 1px;
+    cursor: pointer; background: transparent; font-family: 'Raleway', sans-serif; transition: all 0.2s;
+}
+.mem-btn:hover { background: var(--gold); color: #fff; }
+
+.mem-progress-section { margin-top: 20px; }
+.mem-progress-section h2 { font-family: 'Cinzel', serif; font-size: 1.2rem; color: var(--gold); margin-bottom: 16px; }
+.mem-progress-bar-wrap {
+    background: var(--gold-dim); border-radius: 8px; height: 10px; overflow: hidden; margin-bottom: 8px;
+}
+.mem-progress-bar-fill {
+    height: 100%; background: linear-gradient(90deg, var(--gold), var(--cyan)); border-radius: 8px; transition: width 0.5s;
+}
+.mem-progress-label { font-size: 0.82rem; color: var(--text-muted); margin-bottom: 20px; }
+</style>
+
+<div class="mem-hero">
+    <h2>Entraînement Mémoriel</h2>
+    <p>
+        Maîtrisez les techniques utilisées par les champions du monde de mémoire.
+        Palais de la mémoire, système Major, mémorisation de cartes, répétition espacée
+        — des outils interactifs pour développer une mémoire exceptionnelle.
+    </p>
+</div>
+
+<!-- Statistiques globales -->
+<div class="mem-stats-strip" id="mem-global-stats">
+    <div class="mem-stat-card">
+        <div class="mem-stat-value" id="stat-sessions">0</div>
+        <div class="mem-stat-label">Sessions</div>
+    </div>
+    <div class="mem-stat-card">
+        <div class="mem-stat-value" id="stat-best">—</div>
+        <div class="mem-stat-label">Meilleur score</div>
+    </div>
+    <div class="mem-stat-card">
+        <div class="mem-stat-value" id="stat-streak">0</div>
+        <div class="mem-stat-label">Jours consécutifs</div>
+    </div>
+    <div class="mem-stat-card">
+        <div class="mem-stat-value" id="stat-time">0m</div>
+        <div class="mem-stat-label">Temps total</div>
+    </div>
+</div>
+
+<!-- Progression globale -->
+<div class="mem-progress-section">
+    <h2 id="progression">Progression globale</h2>
+    <div class="mem-progress-bar-wrap">
+        <div class="mem-progress-bar-fill" id="mem-global-progress" style="width:0%"></div>
+    </div>
+    <div class="mem-progress-label" id="mem-progress-label">Commencez un module pour suivre votre progression</div>
+</div>
+
+<!-- Grille des modules -->
+<h2 id="modules" style="font-family:'Cinzel',serif; font-size:1.2rem; color:var(--gold); margin: 28px 0 16px;">Modules d'entraînement</h2>
+
+<div class="mem-module-grid">
+    <div class="mem-module-card" data-target="palais">
+        <span class="mem-module-icon">🏛️</span>
+        <h3>Palais de la Mémoire</h3>
+        <p>Créez des parcours mentaux et placez-y des informations. La technique des loci, utilisée depuis l'Antiquité.</p>
+        <div class="mem-module-meta">
+            <span class="mem-difficulty">Débutant</span>
+            <button class="mem-btn" data-target="palais">Commencer</button>
+        </div>
+    </div>
+
+    <div class="mem-module-card" data-target="major">
+        <span class="mem-module-icon">🔢</span>
+        <h3>Système Major</h3>
+        <p>Convertissez les chiffres en sons consonantiques puis en mots mémorisables. La clé pour retenir les nombres.</p>
+        <div class="mem-module-meta">
+            <span class="mem-difficulty">Débutant</span>
+            <button class="mem-btn" data-target="major">Commencer</button>
+        </div>
+    </div>
+
+    <div class="mem-module-card" data-target="cartes">
+        <span class="mem-module-icon">🃏</span>
+        <h3>Mémorisation de Cartes</h3>
+        <p>Mémorisez un jeu de 52 cartes avec le système PAO (Personne-Action-Objet). L'épreuve reine des compétitions.</p>
+        <div class="mem-module-meta">
+            <span class="mem-difficulty medium">Intermédiaire</span>
+            <button class="mem-btn" data-target="cartes">Commencer</button>
+        </div>
+    </div>
+
+    <div class="mem-module-card" data-target="repetition">
+        <span class="mem-module-icon">📦</span>
+        <h3>Répétition Espacée</h3>
+        <p>Créez vos propres flashcards et révisez-les avec le système de Leitner à 5 boîtes. Rétention à long terme garantie.</p>
+        <div class="mem-module-meta">
+            <span class="mem-difficulty">Débutant</span>
+            <button class="mem-btn" data-target="repetition">Commencer</button>
+        </div>
+    </div>
+
+    <div class="mem-module-card" data-target="listes">
+        <span class="mem-module-icon">🔗</span>
+        <h3>Listes & Associations</h3>
+        <p>Mémorisez des listes de mots avec la méthode des chaînes. Créez des histoires absurdes pour tout retenir.</p>
+        <div class="mem-module-meta">
+            <span class="mem-difficulty">Débutant</span>
+            <button class="mem-btn" data-target="listes">Commencer</button>
+        </div>
+    </div>
+
+    <div class="mem-module-card" data-target="chrono">
+        <span class="mem-module-icon">⏱️</span>
+        <h3>Entraînement Chrono</h3>
+        <p>Exercices chronométrés comme en compétition : chiffres, binaires, mots. Battez vos records personnels.</p>
+        <div class="mem-module-meta">
+            <span class="mem-difficulty hard">Avancé</span>
+            <button class="mem-btn" data-target="chrono">Commencer</button>
+        </div>
+    </div>
+</div>
+
+<script>
+(function() {
+    // Navigation vers les modules
+    document.querySelectorAll('[data-target]').forEach(el => {
+        el.addEventListener('click', function(e) {
+            const target = this.dataset.target;
+            if (target && window.SubTabs) {
+                SubTabs.go('apprentissage', target);
+            }
+        });
+    });
+
+    // Charger les stats globales depuis localStorage
+    function loadGlobalStats() {
+        const sessions = parseInt(localStorage.getItem('hyb_mem_total_sessions') || '0');
+        const bestScore = localStorage.getItem('hyb_mem_best_score') || '—';
+        const totalTime = parseInt(localStorage.getItem('hyb_mem_total_time') || '0');
+
+        document.getElementById('stat-sessions').textContent = sessions;
+        document.getElementById('stat-best').textContent = bestScore;
+        document.getElementById('stat-time').textContent = totalTime >= 60 ? Math.floor(totalTime/60) + 'h' + (totalTime%60) + 'm' : totalTime + 'm';
+
+        // Streak
+        const lastDate = localStorage.getItem('hyb_mem_last_session_date');
+        const streak = parseInt(localStorage.getItem('hyb_mem_streak') || '0');
+        document.getElementById('stat-streak').textContent = streak;
+
+        // Progression
+        const modules = ['palais','major','cartes','repetition','listes','chrono'];
+        let totalProgress = 0;
+        modules.forEach(m => {
+            totalProgress += parseInt(localStorage.getItem('hyb_mem_progress_' + m) || '0');
+        });
+        const avgProgress = Math.round(totalProgress / modules.length);
+        document.getElementById('mem-global-progress').style.width = avgProgress + '%';
+        document.getElementById('mem-progress-label').textContent = avgProgress > 0
+            ? avgProgress + '% de progression globale'
+            : 'Commencez un module pour suivre votre progression';
+    }
+
+    loadGlobalStats();
+})();
+</script>

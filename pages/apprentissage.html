@@ -1,0 +1,30 @@
+<h1>Apprentissage</h1>
+<p class="page-subtitle">Techniques de champions de la mémoire — entraînez votre esprit</p>
+<div class="divider"><div class="divider-gem"></div></div>
+
+<div class="subtab-content" id="apprentissage-subtab-content"></div>
+
+<script>
+SubTabs.init(
+  'apprentissage',
+  '#global-subtab-nav',
+  '#apprentissage-subtab-content',
+  [
+    { key: 'accueil',    label: 'Accueil',            src: '/pages/apprentissage-accueil.html' },
+    { key: 'palais',     label: 'Palais de Mémoire',  src: '/pages/apprentissage-palais.html' },
+    { key: 'major',      label: 'Système Major',      src: '/pages/apprentissage-major.html' },
+    { key: 'cartes',     label: 'Cartes',             src: '/pages/apprentissage-cartes.html' },
+    { key: 'repetition', label: 'Répétition Espacée', src: '/pages/apprentissage-repetition.html' },
+    { key: 'listes',     label: 'Listes',             src: '/pages/apprentissage-listes.html' },
+    { key: 'chrono',     label: 'Chrono',             src: '/pages/apprentissage-chrono.html' },
+  ],
+  'accueil',
+  function(html, key) {
+    var sidebar = document.getElementById('site-sidebar');
+    var content = document.getElementById('apprentissage-subtab-content');
+    if (sidebar && content && window.SidebarTOC) {
+      SidebarTOC.build(sidebar, content);
+    }
+  }
+);
+</script>
