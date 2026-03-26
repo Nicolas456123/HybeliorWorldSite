@@ -136,8 +136,13 @@ function initMap() {
     }
 
     // Initialisation des couches SVG
+    var geoLayer = null; // Coastlines, lakes, rivers — always visible
+
     function initLayers() {
-        // Couche pour les frontières
+        // Couche géographique (côtes, lacs, rivières) — toujours visible
+        geoLayer = createSVGGroup('geoLayer');
+
+        // Couche pour les frontières politiques
         bordersLayer = createSVGGroup('bordersLayer');
         bordersLayer.style.display = 'none';
 
@@ -202,6 +207,7 @@ function initMap() {
 
     function renderAllBorders() {
         while (bordersLayer.firstChild) bordersLayer.removeChild(bordersLayer.firstChild);
+        while (geoLayer.firstChild) geoLayer.removeChild(geoLayer.firstChild);
 
         // Ocean background when color filter is active
         if (colorFilterMode) {
@@ -238,7 +244,9 @@ function initMap() {
             const isGeoFeature = ['coastlineElements','lakeElements','riverElements'].includes(border.entity_type);
             let strokeColor = (borderPanelVisible || isGeoFeature) ? typeColors.stroke : 'rgba(178, 148, 96, 0.6)';
             let strokeWidth = (borderPanelVisible || isGeoFeature) ? '0.0015' : '0.001';
-            if (isLineType) strokeWidth = '0.0008'; // Rivers are thinner
+            if (isGeoFeature && border.entity_type === 'coastlineElements') strokeWidth = '0.003';
+            if (isGeoFeature && border.entity_type === 'lakeElements') strokeWidth = '0.002';
+            if (isLineType) strokeWidth = '0.0015'; // Rivers
             if (isSelected) {
                 strokeColor = typeColors.stroke;
                 strokeWidth = '0.003';
@@ -287,7 +295,9 @@ function initMap() {
                     }
                 });
 
-                bordersLayer.appendChild(poly);
+                // Geographic features go in always-visible geoLayer
+                var targetLayer = isGeoFeature ? geoLayer : bordersLayer;
+                targetLayer.appendChild(poly);
                 border.svgElements.push(poly);
             });
         });
