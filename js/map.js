@@ -77,7 +77,10 @@ function initMap() {
     const BORDER_TYPE_COLORS = {
         continentsElements: { stroke: 'rgba(231, 76, 60, 0.8)', fill: 'rgba(231, 76, 60, 0.15)', dot: '#e74c3c', label: 'Continent' },
         paysElements:       { stroke: 'rgba(52, 152, 219, 0.8)', fill: 'rgba(52, 152, 219, 0.15)', dot: '#3498db', label: 'Pays' },
-        regionElements:     { stroke: 'rgba(46, 204, 113, 0.8)', fill: 'rgba(46, 204, 113, 0.15)', dot: '#2ecc71', label: 'R\u00e9gion' }
+        regionElements:     { stroke: 'rgba(46, 204, 113, 0.8)', fill: 'rgba(46, 204, 113, 0.15)', dot: '#2ecc71', label: 'R\u00e9gion' },
+        coastlineElements:  { stroke: 'rgba(139, 90, 43, 0.9)', fill: 'transparent', dot: '#8b5a2b', label: 'C\u00f4te' },
+        lakeElements:       { stroke: 'rgba(70, 130, 180, 0.8)', fill: 'rgba(70, 130, 180, 0.25)', dot: '#4682b4', label: 'Lac' },
+        riverElements:      { stroke: 'rgba(30, 100, 180, 0.85)', fill: 'none', dot: '#1e64b4', label: 'Rivi\u00e8re', isLine: true }
     };
 
     const SNAP_THRESHOLD_PX = 12;
@@ -220,33 +223,44 @@ function initMap() {
         Object.values(bordersData).forEach(border => {
             const eraId = border.era_id || 'actuelle';
             if (eraId !== 'actuelle' && eraId !== currentEraId) return;
-            if (!border.points || border.points.length < 3) return;
+            if (!border.points || border.points.length < 2) return;
+            const typeColors = BORDER_TYPE_COLORS[border.entity_type] || BORDER_TYPE_COLORS.paysElements;
+            const isLineType = typeColors.isLine || false;
+            if (!isLineType && border.points.length < 3) return;
             border.svgElements = [];
 
             const pointsStr = border.points.map(p => p.x + ',' + p.y).join(' ');
             const borderKey = border.name + '|' + eraId;
             const isSelected = borderKey === selectedBorderKey;
-            const typeColors = BORDER_TYPE_COLORS[border.entity_type] || BORDER_TYPE_COLORS.paysElements;
 
             // Stroke color: type-coded when panel is open, gold otherwise
-            let strokeColor = borderPanelVisible ? typeColors.stroke : 'rgba(178, 148, 96, 0.6)';
-            let strokeWidth = borderPanelVisible ? '0.0015' : '0.001';
+            // Geographic features (coast/lake/river) always show their type color
+            const isGeoFeature = ['coastlineElements','lakeElements','riverElements'].includes(border.entity_type);
+            let strokeColor = (borderPanelVisible || isGeoFeature) ? typeColors.stroke : 'rgba(178, 148, 96, 0.6)';
+            let strokeWidth = (borderPanelVisible || isGeoFeature) ? '0.0015' : '0.001';
+            if (isLineType) strokeWidth = '0.0008'; // Rivers are thinner
             if (isSelected) {
                 strokeColor = typeColors.stroke;
                 strokeWidth = '0.003';
             }
 
             let fillColor = 'transparent';
-            if (colorFilterMode) fillColor = getCountryColor(border.name);
-            if (isSelected) fillColor = typeColors.fill;
+            if (isLineType) fillColor = 'none';
+            else if (isGeoFeature) fillColor = typeColors.fill;
+            else if (colorFilterMode) fillColor = getCountryColor(border.name);
+            if (isSelected && !isLineType) fillColor = typeColors.fill;
 
             positions.forEach(offset => {
-                const poly = document.createElementNS("http://www.w3.org/2000/svg", "polygon");
+                const tagName = isLineType ? 'polyline' : 'polygon';
+                const poly = document.createElementNS("http://www.w3.org/2000/svg", tagName);
                 poly.setAttribute('points', pointsStr);
                 poly.setAttribute('stroke', strokeColor);
                 poly.setAttribute('stroke-width', strokeWidth);
                 poly.setAttribute('fill', fillColor);
                 poly.setAttribute('stroke-linejoin', 'round');
+                if (isLineType) {
+                    poly.setAttribute('stroke-linecap', 'round');
+                }
                 if (offset.x !== 0 || offset.y !== 0) {
                     poly.setAttribute('transform', `translate(${offset.x}, ${offset.y})`);
                 }
