@@ -180,23 +180,42 @@ function initMap() {
     // === Border System ===
 
     function loadBorders() {
-        fetch('/api/borders')
-            .then(r => r.json())
-            .then(borders => {
-                bordersData = {};
-                borders.forEach(b => {
-                    const key = b.name + '|' + (b.era_id || 'actuelle');
-                    const pts = typeof b.points === 'string' ? JSON.parse(b.points) : b.points;
-                    const paths = b.paths ? (typeof b.paths === 'string' ? JSON.parse(b.paths) : b.paths) : null;
-                    bordersData[key] = {
-                        ...b,
-                        points: pts,
-                        paths: paths,
-                        parent_name: b.parent_name || null,
-                        svgElements: []
-                    };
-                });
-                renderAllBorders();
+        function parseBorders(borders) {
+            bordersData = {};
+            borders.forEach(b => {
+                const key = b.name + '|' + (b.era_id || 'actuelle');
+                const pts = typeof b.points === 'string' ? JSON.parse(b.points) : b.points;
+                const paths = b.paths ? (typeof b.paths === 'string' ? JSON.parse(b.paths) : b.paths) : null;
+                bordersData[key] = {
+                    ...b,
+                    points: pts,
+                    paths: paths,
+                    parent_name: b.parent_name || null,
+                    svgElements: []
+                };
+            });
+            renderAllBorders();
+        }
+
+        // Load from static JSON first (continent outlines), then merge API data (user edits)
+        fetch('/local-borders.json')
+            .then(r => r.ok ? r.json() : [])
+            .then(staticBorders => {
+                parseBorders(staticBorders);
+                // Also load API borders (user-drawn country/region borders) and merge
+                return fetch('/api/borders').then(r => r.json()).catch(() => []);
+            })
+            .then(apiBorders => {
+                if (apiBorders && apiBorders.length > 0) {
+                    apiBorders.forEach(b => {
+                        const key = b.name + '|' + (b.era_id || 'actuelle');
+                        // API borders override static ones (for user edits)
+                        const pts = typeof b.points === 'string' ? JSON.parse(b.points) : b.points;
+                        const paths = b.paths ? (typeof b.paths === 'string' ? JSON.parse(b.paths) : b.paths) : null;
+                        bordersData[key] = { ...b, points: pts, paths: paths, parent_name: b.parent_name || null, svgElements: [] };
+                    });
+                    renderAllBorders();
+                }
             })
             .catch(err => console.warn('Chargement frontières:', err));
 
