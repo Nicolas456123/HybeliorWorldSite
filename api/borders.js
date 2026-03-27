@@ -62,8 +62,20 @@ export default async function handler(req, res) {
       try {
         const fs = await import('fs');
         const path = await import('path');
-        const filePath = path.join(process.cwd(), 'local-borders.json');
-        staticBorders = JSON.parse(fs.readFileSync(filePath, 'utf8'));
+        // Try multiple paths (Vercel serverless vs local dev)
+        const candidates = [
+          path.join(process.cwd(), 'local-borders.json'),
+          path.resolve(__dirname, '..', 'local-borders.json'),
+          '/var/task/local-borders.json',
+        ];
+        for (const fp of candidates) {
+          try {
+            if (fs.existsSync(fp)) {
+              staticBorders = JSON.parse(fs.readFileSync(fp, 'utf8'));
+              break;
+            }
+          } catch (_) {}
+        }
       } catch (e) { /* file not available */ }
 
       // Load user-edited borders from Turso DB
