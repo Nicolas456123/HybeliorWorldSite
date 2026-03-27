@@ -85,6 +85,13 @@ function initMap() {
 
     const SNAP_THRESHOLD_PX = 12;
 
+    function hexToRgba(hex, alpha) {
+        const r = parseInt(hex.slice(1, 3), 16);
+        const g = parseInt(hex.slice(3, 5), 16);
+        const b = parseInt(hex.slice(5, 7), 16);
+        return `rgba(${r}, ${g}, ${b}, ${alpha})`;
+    }
+
     const COUNTRY_COLORS = [
         'rgba(231, 76, 60, 0.25)',   'rgba(46, 204, 113, 0.25)',
         'rgba(52, 152, 219, 0.25)',  'rgba(155, 89, 182, 0.25)',
@@ -142,9 +149,8 @@ function initMap() {
         // Couche géographique (côtes, lacs, rivières) — toujours visible
         geoLayer = createSVGGroup('geoLayer');
 
-        // Couche pour les frontières politiques
+        // Couche pour les frontières (visible par défaut pour les continents colorés)
         bordersLayer = createSVGGroup('bordersLayer');
-        bordersLayer.style.display = 'none';
 
         // Couche pour les handles d'édition de frontières
         borderEditLayer = createSVGGroup('borderEditLayer');
@@ -180,9 +186,12 @@ function initMap() {
                 bordersData = {};
                 borders.forEach(b => {
                     const key = b.name + '|' + (b.era_id || 'actuelle');
+                    const pts = typeof b.points === 'string' ? JSON.parse(b.points) : b.points;
+                    const paths = b.paths ? (typeof b.paths === 'string' ? JSON.parse(b.paths) : b.paths) : null;
                     bordersData[key] = {
                         ...b,
-                        points: typeof b.points === 'string' ? JSON.parse(b.points) : b.points,
+                        points: pts,
+                        paths: paths,
                         parent_name: b.parent_name || null,
                         svgElements: []
                     };
@@ -235,33 +244,59 @@ function initMap() {
             if (!isLineType && border.points.length < 3) return;
             border.svgElements = [];
 
+            // Build SVG path data: supports multiple subpaths for islands
+            const allPaths = border.paths || [border.points];
+            const pathD = allPaths.map(pts => {
+                if (!pts || pts.length < 3) return '';
+                return 'M' + pts.map(p => p.x + ' ' + p.y).join('L') + 'Z';
+            }).filter(Boolean).join(' ');
             const pointsStr = border.points.map(p => p.x + ',' + p.y).join(' ');
+            const usePathElement = allPaths.length > 1 && pathD;
             const borderKey = border.name + '|' + eraId;
             const isSelected = borderKey === selectedBorderKey;
 
-            // Stroke color: type-coded when panel is open, gold otherwise
-            // Geographic features (coast/lake/river) always show their type color
+            // Per-continent color + geographic features support
+            const hasOwnColor = border.color && border.entity_type === 'continentsElements';
             const isGeoFeature = ['coastlineElements','lakeElements','riverElements'].includes(border.entity_type);
-            let strokeColor = (borderPanelVisible || isGeoFeature) ? typeColors.stroke : 'rgba(178, 148, 96, 0.6)';
-            let strokeWidth = (borderPanelVisible || isGeoFeature) ? '0.0015' : '0.001';
-            if (isGeoFeature && border.entity_type === 'coastlineElements') strokeWidth = '0.003';
-            if (isGeoFeature && border.entity_type === 'lakeElements') strokeWidth = '0.002';
-            if (isLineType) strokeWidth = '0.0015'; // Rivers
-            if (isSelected) {
+            let strokeColor, strokeWidth, fillColor;
+
+            // Adaptive stroke width: thinner when zoomed in
+            const zoom = viewer ? viewer.viewport.getZoom(true) : 1;
+            const baseWidth = 0.0015 / Math.max(1, Math.sqrt(zoom));
+
+            if (hasOwnColor && !borderPanelVisible) {
+                strokeColor = hexToRgba(border.color, 0.85);
+                strokeWidth = String(baseWidth);
+                fillColor = hexToRgba(border.color, 0.10);
+            } else if (isGeoFeature) {
                 strokeColor = typeColors.stroke;
-                strokeWidth = '0.003';
+                strokeWidth = border.entity_type === 'coastlineElements' ? '0.003' : (border.entity_type === 'lakeElements' ? '0.002' : '0.0015');
+                fillColor = isLineType ? 'none' : typeColors.fill;
+            } else {
+                strokeColor = borderPanelVisible ? typeColors.stroke : 'rgba(178, 148, 96, 0.6)';
+                strokeWidth = String(baseWidth * 0.8);
+                fillColor = 'transparent';
             }
 
-            let fillColor = 'transparent';
             if (isLineType) fillColor = 'none';
-            else if (isGeoFeature) fillColor = typeColors.fill;
-            else if (colorFilterMode) fillColor = getCountryColor(border.name);
-            if (isSelected && !isLineType) fillColor = typeColors.fill;
+            if (isSelected) {
+                strokeColor = hasOwnColor ? hexToRgba(border.color, 1) : typeColors.stroke;
+                strokeWidth = '0.003';
+                fillColor = (hasOwnColor ? hexToRgba(border.color, 0.25) : typeColors.fill);
+                if (isLineType) fillColor = 'none';
+            }
+
+            if (colorFilterMode && !isGeoFeature && !isLineType) fillColor = getCountryColor(border.name);
 
             positions.forEach(offset => {
-                const tagName = isLineType ? 'polyline' : 'polygon';
+                const tagName = isLineType ? 'polyline' : (usePathElement ? 'path' : 'polygon');
                 const poly = document.createElementNS("http://www.w3.org/2000/svg", tagName);
-                poly.setAttribute('points', pointsStr);
+                if (usePathElement && !isLineType) {
+                    poly.setAttribute('d', pathD);
+                    poly.setAttribute('fill-rule', 'evenodd');
+                } else {
+                    poly.setAttribute('points', pointsStr);
+                }
                 poly.setAttribute('stroke', strokeColor);
                 poly.setAttribute('stroke-width', strokeWidth);
                 poly.setAttribute('fill', fillColor);
@@ -286,12 +321,14 @@ function initMap() {
                 });
                 poly.addEventListener('mouseover', () => {
                     if (!colorFilterMode && highlightedBorder !== border.name && !isSelected) {
-                        poly.setAttribute('fill', borderPanelVisible ? typeColors.fill : 'rgba(178, 148, 96, 0.12)');
+                        const hoverFill = hasOwnColor ? hexToRgba(border.color, 0.22) : (borderPanelVisible ? typeColors.fill : 'rgba(178, 148, 96, 0.12)');
+                        poly.setAttribute('fill', hoverFill);
                     }
                 });
                 poly.addEventListener('mouseout', () => {
                     if (!colorFilterMode && highlightedBorder !== border.name && !isSelected) {
-                        poly.setAttribute('fill', 'transparent');
+                        const baseFill = hasOwnColor && !borderPanelVisible ? hexToRgba(border.color, 0.12) : 'transparent';
+                        poly.setAttribute('fill', baseFill);
                     }
                 });
 
@@ -1708,6 +1745,7 @@ function initMap() {
         // Boutons de contrôle (onclick= pour éviter les doublons si initMap() est appelé plusieurs fois)
         document.getElementById('toggleText').onclick = toggleTextVisibility;
         document.getElementById('toggleBorders').onclick = toggleBorders;
+        document.getElementById('toggleBorders').classList.add('active');
         const colorFilterBtn = document.getElementById('toggleColorFilter');
         if (colorFilterBtn) colorFilterBtn.onclick = toggleColorFilter;
         document.getElementById('toggleWrapping').onclick = toggleWrapping;
@@ -1814,6 +1852,10 @@ function initMap() {
         viewer.addHandler('pan', throttledUpdateVisibility);
         viewer.addHandler('resize', updateTextVisibility);
         viewer.addHandler('animation-finish', updateTextVisibility);
+        // Update border stroke width on zoom change
+        viewer.addHandler('animation-finish', () => {
+            if (bordersLayer.style.display !== 'none') renderAllBorders();
+        });
         window.addEventListener('orientationchange', () => setTimeout(updateTextVisibility, 300));
         viewer.addHandler('canvas-click', handleCanvasClick);
         viewer.addHandler('canvas-double-click', handleCanvasDoubleClick);
