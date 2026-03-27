@@ -57,8 +57,24 @@ export default async function handler(req, res) {
     await ensureTable();
 
     if (req.method === 'GET') {
-      const rows = await tursoExecute('SELECT name, entity_type, era_id, points, color, parent_name FROM country_borders');
-      return res.status(200).json(rows);
+      // Load auto-traced continent borders from static JSON
+      let staticBorders = [];
+      try {
+        const fs = await import('fs');
+        const path = await import('path');
+        const filePath = path.join(process.cwd(), 'local-borders.json');
+        staticBorders = JSON.parse(fs.readFileSync(filePath, 'utf8'));
+      } catch (e) { /* file not available */ }
+
+      // Load user-edited borders from Turso DB
+      const dbRows = await tursoExecute('SELECT name, entity_type, era_id, points, color, parent_name FROM country_borders');
+
+      // Merge: DB rows override static ones with same key
+      const merged = {};
+      for (const b of staticBorders) merged[b.name + '|' + (b.era_id || 'actuelle')] = b;
+      for (const b of dbRows) merged[b.name + '|' + (b.era_id || 'actuelle')] = b;
+
+      return res.status(200).json(Object.values(merged));
     }
 
     if (req.method === 'POST') {
