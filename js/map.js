@@ -420,9 +420,10 @@ function initMap() {
         tree.innerHTML = '';
         const era = currentEraId || 'actuelle';
 
-        // Build hierarchy: continents → pays → regions
+        // Build hierarchy: continents → pays → regions, plus geo features
         const continents = [];
         const orphans = [];
+        const geoFeatures = []; // coastlines, lakes, rivers
 
         Object.keys(bordersData).forEach(key => {
             const b = bordersData[key];
@@ -468,6 +469,16 @@ function initMap() {
             }
         });
 
+        // Collect geographic features (coastlines, lakes, rivers)
+        Object.keys(bordersData).forEach(key => {
+            const b = bordersData[key];
+            const bEra = b.era_id || 'actuelle';
+            if (bEra !== 'actuelle' && bEra !== era) return;
+            if (['coastlineElements', 'lakeElements', 'riverElements'].includes(b.entity_type)) {
+                geoFeatures.push({ key, border: b, children: [] });
+            }
+        });
+
         function createItem(node, level) {
             const item = document.createElement('div');
             item.className = 'border-tree-item' + (node.key === selectedBorderKey ? ' selected' : '');
@@ -481,9 +492,15 @@ function initMap() {
 
             const dot = document.createElement('span');
             dot.className = 'border-type-dot';
-            const typeClass = node.border.entity_type === 'continentsElements' ? 'continent' :
-                              node.border.entity_type === 'paysElements' ? 'pays' : 'region';
-            dot.classList.add(typeClass);
+            const typeClassMap = {
+                continentsElements: 'continent',
+                paysElements: 'pays',
+                regionElements: 'region',
+                coastlineElements: 'coastline',
+                lakeElements: 'lake',
+                riverElements: 'river'
+            };
+            dot.classList.add(typeClassMap[node.border.entity_type] || 'region');
             item.appendChild(dot);
 
             const label = document.createElement('span');
@@ -525,6 +542,23 @@ function initMap() {
             oceanHeader.appendChild(oceanLabel);
             tree.appendChild(oceanHeader);
             orphans.forEach(o => renderNode(tree, o, 1));
+        }
+
+        // Geographic features (coastlines, lakes, rivers)
+        if (geoFeatures.length > 0) {
+            const geoHeader = document.createElement('div');
+            geoHeader.className = 'border-tree-item';
+            geoHeader.style.paddingLeft = '8px';
+            geoHeader.style.color = 'var(--text-muted)';
+            geoHeader.style.fontStyle = 'italic';
+            const geoDot = document.createElement('span');
+            geoDot.className = 'border-type-dot coastline';
+            geoHeader.appendChild(geoDot);
+            const geoLabel = document.createElement('span');
+            geoLabel.textContent = 'G\u00e9ographie';
+            geoHeader.appendChild(geoLabel);
+            tree.appendChild(geoHeader);
+            geoFeatures.forEach(g => renderNode(tree, g, 1));
         }
 
         if (tree.children.length === 0) {
@@ -613,6 +647,13 @@ function initMap() {
             circle.dataset.idx = idx;
 
             circle.addEventListener('pointerdown', (evt) => onBorderHandleDown(evt, idx, circle));
+
+            // Right-click to delete point
+            circle.addEventListener('contextmenu', (evt) => {
+                evt.preventDefault();
+                evt.stopPropagation();
+                deleteBorderPoint(key, idx);
+            });
 
             if (borderDeletePointMode) {
                 circle.setAttribute('cursor', 'pointer');

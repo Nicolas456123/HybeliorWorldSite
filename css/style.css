@@ -2165,6 +2165,9 @@ body.measure-bar-visible .borders-panel { top: 50px; }
 .border-type-dot.pays { background: #3498db; }
 .border-type-dot.region { background: #2ecc71; }
 .border-type-dot.ocean { background: #7f8c8d; }
+.border-type-dot.coastline { background: #8b5a2b; }
+.border-type-dot.lake { background: #4682b4; }
+.border-type-dot.river { background: #1e64b4; }
 
 .border-tree-children {
     padding-left: 18px;
