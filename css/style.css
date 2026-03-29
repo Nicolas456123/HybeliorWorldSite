@@ -1921,7 +1921,7 @@ body.measure-bar-visible .controls { top: 98px; }
 /* ===== Editor Panel ===== */
 .editor-panel {
     position: fixed;
-    top: 12px;
+    top: calc(var(--nav-height) + 12px);
     left: 260px;
     width: 220px;
     background: var(--panel-bg);
@@ -1933,7 +1933,7 @@ body.measure-bar-visible .controls { top: 98px; }
     overflow: hidden;
     transition: top 0.2s;
 }
-body.measure-bar-visible .editor-panel { top: 50px; }
+body.measure-bar-visible .editor-panel { top: calc(var(--nav-height) + 50px); }
 
 .editor-panel-header {
     background: var(--panel-bg);
@@ -2008,10 +2008,10 @@ body.measure-bar-visible .editor-panel { top: 50px; }
 /* ===== Borders Editor Panel ===== */
 .borders-panel {
     position: fixed;
-    top: 12px;
+    top: calc(var(--nav-height) + 12px);
     right: 12px;
     width: 320px;
-    max-height: calc(100vh - 24px);
+    max-height: calc(100vh - var(--nav-height) - 24px);
     background: var(--panel-bg);
     border: 1px solid var(--panel-border);
     border-radius: 8px;
@@ -2022,7 +2022,7 @@ body.measure-bar-visible .editor-panel { top: 50px; }
     overflow: hidden;
     transition: top 0.2s;
 }
-body.measure-bar-visible .borders-panel { top: 50px; }
+body.measure-bar-visible .borders-panel { top: calc(var(--nav-height) + 50px); }
 
 .borders-panel-header {
     position: sticky;
