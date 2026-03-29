@@ -1,0 +1,418 @@
+<!-- ===== Pipeline PNJ : De l'éditeur au joueur ===== -->
+
+<!-- ===== Étape 1 — Créer les DataAssets ===== -->
+<div class="section-header" id="etape1-dataassets">
+    <h2>Étape 1 — Créer les DataAssets</h2>
+    <span class="section-count">UHWDialogueData · FHWDialogueNode · UHWQuestData</span>
+</div>
+
+<div class="codex-panel cyan-accent">
+    <div class="codex-label">Les données de dialogue et de quête sont définies dans des DataAssets</div>
+    <p>
+        Tout commence par la création des données statiques. <strong style="color:var(--cyan);">UHWDialogueData</strong> est un <strong style="color:var(--gold);">Primary Data Asset</strong> qui contient l'arbre de conversation complet d'un PNJ.
+        Chaque noeud de l'arbre est une structure <strong style="color:var(--cyan);">FHWDialogueNode</strong> contenant le texte, les choix, les conditions et les événements associés.
+    </p>
+    <p style="margin-bottom:0;">
+        Si le PNJ propose des quêtes, un <strong style="color:var(--cyan);">UHWQuestData</strong> séparé décrit chaque quête avec ses objectifs, récompenses et prérequis.
+    </p>
+</div>
+
+<div class="feature-list">
+    <div class="feature-item">
+        <span class="feature-key">DialogueID</span>
+        <span class="feature-value"><strong style="color:var(--cyan);">FGameplayTag</strong> — Identifiant unique du dialogue, utilisé pour le référencement dans les systèmes conditionnels.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">Nodes</span>
+        <span class="feature-value"><strong style="color:var(--cyan);">TArray&lt;FHWDialogueNode&gt;</strong> — Liste ordonnée de tous les noeuds de l'arbre de conversation.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">StartNodeIndex</span>
+        <span class="feature-value">Index du noeud de départ dans le tableau Nodes — permet de commencer la conversation à un point arbitraire.</span>
+    </div>
+</div>
+
+<div class="lore-block">
+    <div class="lore-block-title">— Structure FHWDialogueNode —</div>
+    <p>
+        <strong style="color:var(--gold);">SpeakerText</strong> — Texte affiché dans la bulle de dialogue du PNJ.
+        <strong style="color:var(--gold);">SpeakerName</strong> — Nom du locuteur affiché au-dessus du texte.
+        <strong style="color:var(--gold);">Choices</strong> — <strong style="color:var(--cyan);">TArray&lt;FHWDialogueChoice&gt;</strong>, liste des réponses proposées au joueur.
+    </p>
+    <p>
+        <strong style="color:var(--gold);">AutoNextNodeIndex</strong> — Index du noeud suivant pour les dialogues linéaires sans choix (avancement automatique).
+        <strong style="color:var(--gold);">EmoteTag</strong> — Tag déclenchant une animation ou expression faciale du PNJ pendant ce noeud.
+    </p>
+    <p style="margin-bottom:0;">
+        <strong style="color:var(--gold);">RequiredConditionTag</strong> — Condition vérifiée via <strong style="color:var(--cyan);">ProgressionComponent</strong> pour afficher ce noeud.
+        <strong style="color:var(--gold);">OnReachEventTag</strong> — Événement déclenché lorsque le joueur atteint ce noeud (déblocage, mise à jour de quête, etc.).
+    </p>
+</div>
+
+<div class="lore-block">
+    <div class="lore-block-title">— Structure FHWDialogueChoice —</div>
+    <p>
+        <strong style="color:var(--gold);">ChoiceText</strong> — Texte du choix affiché au joueur.
+        <strong style="color:var(--gold);">NextNodeIndex</strong> — Index du noeud vers lequel naviguer si ce choix est sélectionné (-1 = fin du dialogue).
+    </p>
+    <p style="margin-bottom:0;">
+        <strong style="color:var(--gold);">RequiredConditionTag</strong> — Condition pour rendre ce choix visible.
+        <strong style="color:var(--gold);">ActionTag</strong> / <strong style="color:var(--gold);">ActionParameter</strong> — Action déclenchée lors de la sélection (ex : accepter une quête, ouvrir une boutique).
+    </p>
+</div>
+
+<div class="feature-list">
+    <div class="feature-item">
+        <span class="feature-key">QuestID</span>
+        <span class="feature-value">Identifiant unique de la quête, référencé par les choix de dialogue via <strong style="color:var(--gold);">ActionParameter</strong>.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">QuestName / QuestDescription</span>
+        <span class="feature-value">Nom et description affichés dans le journal de quêtes du joueur.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">QuestType</span>
+        <span class="feature-value">Type de quête (principale, secondaire, exploration, événementielle) — détermine le classement dans le journal.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">Objectives / Rewards</span>
+        <span class="feature-value">Liste des objectifs à remplir et des récompenses distribuées à la complétion.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">PrerequisiteQuests / QuestGiverTag</span>
+        <span class="feature-value">Quêtes devant être complétées avant d'accéder à celle-ci, et tag identifiant le PNJ donneur de quête.</span>
+    </div>
+</div>
+
+<!-- ===== Étape 2 — Configurer l'acteur NPC ===== -->
+<div class="section-header" id="etape2-acteur">
+    <h2>Étape 2 — Configurer l'acteur NPC dans l'éditeur</h2>
+    <span class="section-count">Character · IInteractable · UHWNPCComponent</span>
+</div>
+
+<div class="codex-panel cyan-accent">
+    <div class="codex-label">L'acteur PNJ combine un Character, une interface et un composant dédié</div>
+    <p>
+        Le PNJ hérite d'une classe <strong style="color:var(--gold);">Character</strong> et implémente l'interface <strong style="color:var(--cyan);">IInteractable</strong>, ce qui le rend détectable par le système d'interaction du joueur.
+        Le composant <strong style="color:var(--cyan);">UHWNPCComponent</strong> est ajouté à l'acteur et contient toute la configuration du PNJ : identité, dialogues, quêtes et marchandise.
+    </p>
+    <p style="margin-bottom:0;">
+        Pour les PNJ ayant un comportement autonome (patrouille, routine quotidienne), un <strong style="color:var(--cyan);">AHWAIController</strong> optionnel pilote l'IA via un <strong style="color:var(--gold);">BehaviorTree</strong> et un <strong style="color:var(--gold);">Blackboard</strong>.
+    </p>
+</div>
+
+<div class="feature-list">
+    <div class="feature-item">
+        <span class="feature-key">NPCName</span>
+        <span class="feature-value"><strong style="color:var(--cyan);">FText</strong>, répliqué — Nom affiché au-dessus du PNJ et dans les dialogues.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">NPCTag</span>
+        <span class="feature-value"><strong style="color:var(--cyan);">FGameplayTag</strong> — Tag unique identifiant ce PNJ dans tous les systèmes (quêtes, dialogues, scripts).</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">DefaultDialogue</span>
+        <span class="feature-value"><strong style="color:var(--cyan);">UHWDialogueData*</strong> — Dialogue par défaut joué quand aucune condition spéciale n'est remplie.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">ConditionalDialogues</span>
+        <span class="feature-value"><strong style="color:var(--cyan);">TMap&lt;FGameplayTag, UHWDialogueData*&gt;</strong> — Dialogues alternatifs activés selon la progression du joueur.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">AvailableQuests</span>
+        <span class="feature-value"><strong style="color:var(--cyan);">TArray&lt;FGameplayTag&gt;</strong> — Liste des quêtes que ce PNJ peut proposer au joueur.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">bIsMerchant / ShopInventoryTag</span>
+        <span class="feature-value">Booléen activant la fonctionnalité marchand et tag identifiant l'inventaire de boutique associé.</span>
+    </div>
+</div>
+
+<div class="voie-list" style="margin-bottom: 44px;">
+    <div class="voie-item">
+        <span class="voie-name">AHWAIController</span>
+        <span class="voie-desc">Contrôleur IA optionnel pilotant le comportement autonome du PNJ — patrouille, idle, réactions contextuelles.</span>
+        <span class="voie-tag">IA · Optionnel</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name">BT_PNJ_General / BB_General</span>
+        <span class="voie-desc">BehaviorTree et Blackboard génériques pour les PNJ standard — gèrent les états idle, marche et interaction.</span>
+        <span class="voie-tag">BehaviorTree</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name">BP_PNJ.uasset</span>
+        <span class="voie-desc">Blueprint de base situé dans <strong style="color:var(--cyan);">Content/BP/Game/PNJ/</strong> — sert de template pour tous les PNJ du jeu.</span>
+        <span class="voie-tag">Blueprint · Template</span>
+    </div>
+</div>
+
+<!-- ===== Étape 3 — Indicateur au-dessus du PNJ ===== -->
+<div class="section-header" id="etape3-indicateur">
+    <h2>Étape 3 — Indicateur au-dessus du PNJ</h2>
+    <span class="section-count">GetNPCIndicator · FGameplayTag</span>
+</div>
+
+<div class="codex-panel">
+    <div class="codex-label">Un indicateur visuel informe le joueur de l'état du PNJ</div>
+    <p>
+        La méthode <strong style="color:var(--cyan);">UHWNPCComponent::GetNPCIndicator(ACharacter* Player)</strong> retourne un <strong style="color:var(--cyan);">FGameplayTag</strong> décrivant l'état actuel du PNJ vis-à-vis du joueur.
+        Le système vérifie l'état des quêtes via <strong style="color:var(--cyan);">UHWProgressionComponent::IsUnlocked()</strong> pour déterminer quel indicateur afficher.
+    </p>
+</div>
+
+<div class="voie-list" style="margin-bottom: 44px;">
+    <div class="voie-item">
+        <span class="voie-name">NPC.Indicator.QuestAvailable</span>
+        <span class="voie-desc">Affiche un <strong style="color:var(--gold);">!</strong> — Le PNJ a une nouvelle quête disponible que le joueur peut accepter.</span>
+        <span class="voie-tag">! · Nouvelle quête</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name">NPC.Indicator.QuestInProgress</span>
+        <span class="voie-desc">Affiche un <strong style="color:var(--gold);">?</strong> — Le joueur a une quête en cours liée à ce PNJ, mais les objectifs ne sont pas encore remplis.</span>
+        <span class="voie-tag">? · En cours</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name">NPC.Indicator.QuestComplete</span>
+        <span class="voie-desc">Affiche un <strong style="color:var(--gold);">? doré</strong> — Les objectifs sont remplis, le joueur peut rendre la quête auprès de ce PNJ.</span>
+        <span class="voie-tag">? doré · Complétion</span>
+    </div>
+</div>
+
+<!-- ===== Étape 4 — Le joueur interagit ===== -->
+<div class="section-header" id="etape4-interaction">
+    <h2>Étape 4 — Le joueur interagit</h2>
+    <span class="section-count">AHWPlayerController · IInteractable · UHWDialogueComponent</span>
+</div>
+
+<div class="codex-panel cyan-accent">
+    <div class="codex-label">L'appui sur Interact déclenche la chaîne complète jusqu'au dialogue</div>
+    <p>
+        Lorsque le joueur appuie sur la touche d'interaction, <strong style="color:var(--cyan);">AHWPlayerController::Interact()</strong> est appelé.
+        Le contrôleur effectue un <strong style="color:var(--gold);">sphere overlap</strong> via <strong style="color:var(--cyan);">GetOverlappedInteractables()</strong> avec un rayon de <strong style="color:var(--gold);">InteractionRadius = 200.0f</strong> pour détecter les objets interactifs à proximité.
+    </p>
+    <p style="margin-bottom:0;">
+        L'interface <strong style="color:var(--cyan);">IInteractable::Interact()</strong> est appelée sur le PNJ détecté.
+        L'implémentation du PNJ appelle <strong style="color:var(--cyan);">UHWNPCComponent::GetDialogueForPlayer(Player)</strong>, qui itère sur les <strong style="color:var(--gold);">ConditionalDialogues</strong> et vérifie chaque condition via le <strong style="color:var(--cyan);">ProgressionComponent</strong>. Le premier dialogue dont les conditions sont remplies est retourné, sinon c'est le <strong style="color:var(--gold);">DefaultDialogue</strong>.
+    </p>
+</div>
+
+<div class="feature-list">
+    <div class="feature-item">
+        <span class="feature-key">AHWPlayerController::Interact()</span>
+        <span class="feature-value">Point d'entrée de l'interaction — appelé par l'input du joueur.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">GetOverlappedInteractables()</span>
+        <span class="feature-value">Sphere overlap avec <strong style="color:var(--cyan);">InteractionRadius = 200.0f</strong> — retourne les IInteractable dans le rayon.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">IInteractable::Interact()</span>
+        <span class="feature-value">Appel polymorphe sur le PNJ — l'implémentation récupère le dialogue approprié.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">GetDialogueForPlayer(Player)</span>
+        <span class="feature-value">Évalue les <strong style="color:var(--gold);">ConditionalDialogues</strong> par priorité, retourne le dialogue correspondant ou le défaut.</span>
+    </div>
+</div>
+
+<div class="lore-block">
+    <div class="lore-block-title">— Démarrage du dialogue —</div>
+    <p>
+        <strong style="color:var(--gold);">UHWDialogueComponent::StartDialogue(DialogueData, NPCComponent)</strong> est ensuite appelé sur le composant dialogue du joueur.
+    </p>
+    <p>
+        <strong style="color:var(--gold);">bInDialogue = true</strong> — Le joueur est verrouillé, ses déplacements sont désactivés pour la durée de la conversation.
+    </p>
+    <p style="margin-bottom:0;">
+        Le composant navigue immédiatement vers <strong style="color:var(--gold);">GoToNode(StartNodeIndex)</strong> pour afficher le premier noeud de dialogue.
+    </p>
+</div>
+
+<!-- ===== Étape 5 — Navigation dans le dialogue ===== -->
+<div class="section-header" id="etape5-navigation">
+    <h2>Étape 5 — Navigation dans le dialogue</h2>
+    <span class="section-count">GoToNode · SelectChoice · AdvanceDialogue</span>
+</div>
+
+<div class="codex-panel">
+    <div class="codex-label">L'arbre de dialogue est navigué noeud par noeud</div>
+    <p>
+        Le composant <strong style="color:var(--cyan);">UHWDialogueComponent</strong> expose trois méthodes de navigation qui gèrent l'avancement dans l'arbre de conversation.
+        Chaque transition vérifie les conditions requises et déclenche les événements associés aux noeuds.
+    </p>
+</div>
+
+<div class="feature-list">
+    <div class="feature-item">
+        <span class="feature-key">GoToNode(NodeIndex)</span>
+        <span class="feature-value">Valide l'index du noeud, vérifie <strong style="color:var(--gold);">RequiredConditionTag</strong> via <strong style="color:var(--cyan);">ProgressionComponent</strong>, broadcast <strong style="color:var(--gold);">OnDialogueNodeChanged</strong>, déclenche <strong style="color:var(--gold);">OnReachEventTag</strong>.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">GetAvailableChoices()</span>
+        <span class="feature-value">Filtre les choix du noeud courant en évaluant le <strong style="color:var(--gold);">RequiredConditionTag</strong> de chaque choix — seuls les choix valides sont retournés.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">SelectChoice(ChoiceIndex)</span>
+        <span class="feature-value">Traite l'<strong style="color:var(--gold);">ActionTag</strong> et l'<strong style="color:var(--gold);">ActionParameter</strong> du choix via <strong style="color:var(--gold);">OnDialogueActionTriggered</strong>. Avance vers <strong style="color:var(--gold);">NextNodeIndex</strong> ou appelle <strong style="color:var(--gold);">EndDialogue</strong> si l'index vaut -1.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">AdvanceDialogue()</span>
+        <span class="feature-value">Pour les noeuds sans choix (avancement automatique) — utilise <strong style="color:var(--gold);">AutoNextNodeIndex</strong> pour naviguer vers le noeud suivant.</span>
+    </div>
+</div>
+
+<!-- ===== Étape 6 — Accepter une quête via le dialogue ===== -->
+<div class="section-header" id="etape6-quete">
+    <h2>Étape 6 — Accepter une quête via le dialogue</h2>
+    <span class="section-count">Action.AcceptQuest · UHWQuestComponent</span>
+</div>
+
+<div class="codex-panel cyan-accent">
+    <div class="codex-label">Un choix de dialogue peut déclencher l'acceptation d'une quête</div>
+    <p>
+        Lorsqu'un choix de dialogue porte l'<strong style="color:var(--gold);">ActionTag = "Action.AcceptQuest"</strong> avec un <strong style="color:var(--gold);">ActionParameter</strong> contenant le <strong style="color:var(--cyan);">QuestID</strong>, la sélection de ce choix déclenche la chaîne d'acceptation de quête.
+    </p>
+    <p style="margin-bottom:0;">
+        <strong style="color:var(--cyan);">AHWPlayerController::HandleDialogueAction()</strong> reçoit l'action et la route vers <strong style="color:var(--cyan);">UHWQuestComponent::AcceptQuest(QuestID)</strong>.
+        La méthode valide les prérequis, passe la quête en statut <strong style="color:var(--gold);">Active</strong>, initialise les compteurs d'objectifs et broadcast <strong style="color:var(--gold);">OnQuestAccepted</strong>.
+    </p>
+</div>
+
+<div class="feature-list">
+    <div class="feature-item">
+        <span class="feature-key">ActionTag</span>
+        <span class="feature-value"><strong style="color:var(--gold);">"Action.AcceptQuest"</strong> — Tag identifiant le type d'action à exécuter lors de la sélection du choix.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">ActionParameter</span>
+        <span class="feature-value">Contient le <strong style="color:var(--cyan);">QuestID</strong> de la quête à accepter — transmis au système de quêtes.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">HandleDialogueAction()</span>
+        <span class="feature-value">Reçoit l'action depuis le composant de dialogue et la dispatche vers le système approprié.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">AcceptQuest(QuestID)</span>
+        <span class="feature-value">Valide les prérequis → statut <strong style="color:var(--gold);">Active</strong> → initialise les compteurs → broadcast <strong style="color:var(--gold);">OnQuestAccepted</strong>.</span>
+    </div>
+</div>
+
+<!-- ===== Étape 7 — Affichage UI du dialogue ===== -->
+<div class="section-header" id="etape7-ui">
+    <h2>Étape 7 — Affichage UI du dialogue</h2>
+    <span class="section-count">UHWDialogueWidget · Delegates · Boutons de choix</span>
+</div>
+
+<div class="codex-panel">
+    <div class="codex-label">Le widget de dialogue écoute les delegates du composant</div>
+    <p>
+        <strong style="color:var(--cyan);">UHWDialogueWidget</strong> s'abonne aux delegates <strong style="color:var(--gold);">OnDialogueNodeChanged</strong> et <strong style="color:var(--gold);">OnDialogueEnded</strong> du composant de dialogue.
+        À chaque changement de noeud, le widget extrait les données et met à jour l'affichage.
+    </p>
+    <p style="margin-bottom:0;">
+        Les choix sont présentés sous forme de boutons générés dynamiquement en Blueprint. Un clic sur un choix appelle <strong style="color:var(--cyan);">DialogueComponent-&gt;SelectChoice()</strong>, bouclant vers l'étape 5.
+    </p>
+</div>
+
+<div class="feature-list">
+    <div class="feature-item">
+        <span class="feature-key">HandleDialogueNodeChanged</span>
+        <span class="feature-value">Callback extrayant <strong style="color:var(--gold);">SpeakerName</strong>, <strong style="color:var(--gold);">SpeakerText</strong> et <strong style="color:var(--gold);">Choices</strong> du noeud courant → appelle <strong style="color:var(--gold);">ShowDialogueNode()</strong>.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">ShowDialogueNode()</span>
+        <span class="feature-value">Affiche le texte du PNJ et génère dynamiquement un bouton par choix disponible.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">OnChoiceSelected(ChoiceIndex)</span>
+        <span class="feature-value">Callback du clic sur un bouton de choix — transmet l'index au <strong style="color:var(--cyan);">DialogueComponent-&gt;SelectChoice()</strong>.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">HandleDialogueEnded</span>
+        <span class="feature-value">Callback de fin de dialogue — masque le widget et restaure les contrôles du joueur.</span>
+    </div>
+</div>
+
+<!-- ===== Flux complet ===== -->
+<div class="section-header" id="flux-complet">
+    <h2>Flux complet</h2>
+    <span class="section-count">De l'interaction à la fin du dialogue</span>
+</div>
+
+<div class="codex-panel cyan-accent">
+    <div class="codex-label">Chaîne d'appels complète : Interact → EndDialogue</div>
+<pre style="color:var(--text-light); font-family:monospace; font-size:0.85rem; line-height:1.6; margin:0; overflow-x:auto; white-space:pre;">
+  [Touche Interact]
+        │
+        ▼
+  AHWPlayerController::Interact()
+        │
+        ▼
+  GetOverlappedInteractables()          ◄── sphere overlap (r = 200)
+        │
+        ▼
+  IInteractable::Interact(Player)       ◄── appel sur le PNJ
+        │
+        ▼
+  UHWNPCComponent::GetDialogueForPlayer(Player)
+        │
+        ├── ConditionalDialogues → check ProgressionComponent
+        │                              │
+        │                    ┌─────────┴─────────┐
+        │                    │ condition OK ?     │
+        │                    │  OUI → dialogue    │
+        │                    │  NON → suivant     │
+        │                    └─────────┬─────────┘
+        │                              │
+        └── fallback: DefaultDialogue ◄┘
+                    │
+                    ▼
+  UHWDialogueComponent::StartDialogue(Data, NPC)
+        │
+        ├── bInDialogue = true
+        ├── désactive mouvement joueur
+        │
+        ▼
+  GoToNode(StartNodeIndex)
+        │
+        ├── vérifie RequiredConditionTag
+        ├── broadcast OnDialogueNodeChanged ──► UHWDialogueWidget
+        ├── fire OnReachEventTag                    │
+        │                                           ▼
+        │                                   ShowDialogueNode()
+        │                                   ┌───────────────────┐
+        │                                   │  SpeakerName      │
+        │                                   │  SpeakerText      │
+        │                                   │  [Choix 1]        │
+        │                                   │  [Choix 2]        │
+        │                                   │  [Choix 3]        │
+        │                                   └───────┬───────────┘
+        │                                           │
+        ▼                                           ▼
+  ┌─────────────────────────────────────────────────────────┐
+  │             BOUCLE DE NAVIGATION                        │
+  │                                                         │
+  │  Noeud avec choix ?                                     │
+  │    OUI → joueur clique → SelectChoice(index)            │
+  │           ├── ActionTag ? → HandleDialogueAction()      │
+  │           │     ex: AcceptQuest → QuestComponent         │
+  │           └── NextNodeIndex == -1 ? → EndDialogue()     │
+  │               sinon → GoToNode(NextNodeIndex) ──┐       │
+  │                                                 │       │
+  │  Noeud sans choix ?                             │       │
+  │    OUI → AdvanceDialogue()                      │       │
+  │           └── GoToNode(AutoNextNodeIndex) ──────┘       │
+  │                                                         │
+  └─────────────────────────────────────────────────────────┘
+        │
+        ▼
+  EndDialogue()
+        │
+        ├── bInDialogue = false
+        ├── réactive mouvement joueur
+        ├── broadcast OnDialogueEnded ──► Widget se masque
+        │
+        ▼
+    [Retour au jeu]
+</pre>
+</div>

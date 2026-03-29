@@ -1,0 +1,537 @@
+<!-- ===== Pipeline Combo & Maîtrise d'arme : Du moveset au dégât final ===== -->
+
+<!-- ===== Étape 1 — Définir un Moveset d'arme ===== -->
+<div class="section-header" id="etape1-moveset">
+    <h2>Étape 1 — Définir un Moveset d'arme</h2>
+    <span class="section-count">UHWWeaponMoveset · FHWComboChain · FHWComboAttack</span>
+</div>
+
+<div class="codex-panel cyan-accent">
+    <div class="codex-label">Chaque arme possède un Moveset définissant ses combos et animations</div>
+    <p>
+        <strong style="color:var(--gold);">UHWWeaponMoveset</strong> est un <strong style="color:var(--cyan);">UPrimaryDataAsset</strong> qui regroupe toutes les chaînes de combo, les compétences et les animations associées à un type d'arme.
+        Le type d'arme est défini par l'enum <strong style="color:var(--cyan);">EHWWeaponType</strong> : Sword, Axe, Mace, Dagger, Bow, Staff, Spear, Shield.
+    </p>
+    <p style="margin-bottom:0;">
+        Chaque moveset contient un tableau de <strong style="color:var(--cyan);">FHWComboChain</strong> décrivant les enchaînements possibles, ainsi que les montages d'animation pour les états idle, dégainage et rengainage.
+    </p>
+</div>
+
+<div class="feature-list">
+    <div class="feature-item">
+        <span class="feature-key">WeaponType</span>
+        <span class="feature-value"><strong style="color:var(--cyan);">EHWWeaponType</strong> — Type d'arme parmi les 8 catégories (Sword, Axe, Mace, Dagger, Bow, Staff, Spear, Shield).</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">ComboChains</span>
+        <span class="feature-value"><strong style="color:var(--cyan);">TArray&lt;FHWComboChain&gt;</strong> — Tableau de toutes les chaînes de combo disponibles pour cette arme.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">WeaponSkills</span>
+        <span class="feature-value">Compétences spéciales liées à l'arme — débloquées progressivement avec la maîtrise.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">BaseAttackSpeed / AttackRange</span>
+        <span class="feature-value">Vitesse d'attaque de base et portée de l'arme — modifiées par les bonus de maîtrise.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">IdleStanceMontage / DrawMontage / SheatheMontage</span>
+        <span class="feature-value">Montages d'animation pour la posture de combat, le dégainage et le rengainage de l'arme.</span>
+    </div>
+</div>
+
+<div class="lore-block">
+    <div class="lore-block-title">— Structure FHWComboChain —</div>
+    <p>
+        <strong style="color:var(--gold);">ComboName</strong> — Nom de la chaîne de combo (ex : "Enchaînement léger", "Frappe lourde").
+        <strong style="color:var(--gold);">ComboTag</strong> — <strong style="color:var(--cyan);">FGameplayTag</strong> identifiant le type de combo : <strong style="color:var(--cyan);">Combo.Light</strong>, <strong style="color:var(--cyan);">Combo.Heavy</strong> ou <strong style="color:var(--cyan);">Combo.Special</strong>.
+    </p>
+    <p>
+        <strong style="color:var(--gold);">Attacks</strong> — <strong style="color:var(--cyan);">TArray&lt;FHWComboAttack&gt;</strong>, séquence ordonnée des attaques composant la chaîne.
+        <strong style="color:var(--gold);">Finisher</strong> — <strong style="color:var(--cyan);">FHWComboAttack</strong>, attaque finale déclenchée après la dernière attaque de la chaîne.
+    </p>
+    <p style="margin-bottom:0;">
+        <strong style="color:var(--gold);">RequiredMasteryLevel</strong> — Niveau de maîtrise minimum requis pour accéder à cette chaîne de combo.
+    </p>
+</div>
+
+<div class="lore-block">
+    <div class="lore-block-title">— Structure FHWComboAttack —</div>
+    <p>
+        <strong style="color:var(--gold);">AttackMontage</strong> — Montage d'animation joué pour cette attaque.
+        <strong style="color:var(--gold);">DamageMultiplier</strong> — Multiplicateur de dégâts appliqué au calcul de base.
+        <strong style="color:var(--gold);">DamageType</strong> — <strong style="color:var(--cyan);">FGameplayTag</strong> définissant le type de dégât (physique, élémentaire, etc.).
+    </p>
+    <p>
+        <strong style="color:var(--gold);">ComboWindowDuration</strong> — Durée de la fenêtre pendant laquelle le joueur peut enchaîner l'attaque suivante.
+        <strong style="color:var(--gold);">StaminaCost</strong> — Coût en endurance pour exécuter cette attaque.
+        <strong style="color:var(--gold);">RequiredMasteryLevel</strong> — Niveau de maîtrise minimum pour débloquer cette attaque individuelle.
+    </p>
+    <p style="margin-bottom:0;">
+        <strong style="color:var(--gold);">HiddenUnlockCondition</strong> — Condition cachée à remplir pour révéler cette attaque (non affichée au joueur).
+        <strong style="color:var(--gold);">OnHitEffect</strong> — Effet appliqué à l'ennemi lors d'un touché confirmé.
+        <strong style="color:var(--gold);">bCanCharge</strong> / <strong style="color:var(--gold);">ChargedMultiplier</strong> — Si l'attaque peut être chargée et le multiplicateur associé.
+    </p>
+</div>
+
+<!-- ===== Étape 2 — Configurer la maîtrise ===== -->
+<div class="section-header" id="etape2-maitrise">
+    <h2>Étape 2 — Configurer la maîtrise</h2>
+    <span class="section-count">UHWWeaponMasteryComponent · FHWWeaponMasteryData · Formule XP</span>
+</div>
+
+<div class="codex-panel cyan-accent">
+    <div class="codex-label">Chaque type d'arme possède sa propre progression de maîtrise</div>
+    <p>
+        <strong style="color:var(--gold);">UHWWeaponMasteryComponent</strong> est un composant répliqué qui gère la maîtrise de toutes les armes du personnage.
+        Il contient un <strong style="color:var(--cyan);">TArray&lt;FHWWeaponMasteryData&gt;</strong> avec une entrée par type d'arme, initialisée au niveau 0 dans <strong style="color:var(--cyan);">BeginPlay</strong> pour les 8 types.
+    </p>
+    <p style="margin-bottom:0;">
+        L'expérience requise pour monter de niveau suit une courbe exponentielle : <strong style="color:var(--cyan);">100.0f * Pow(1.15f, Level)</strong>. La maîtrise n'a pas de plafond fixe mais commence à 0 et peut dépasser 100.
+    </p>
+</div>
+
+<div class="feature-list">
+    <div class="feature-item">
+        <span class="feature-key">WeaponType</span>
+        <span class="feature-value"><strong style="color:var(--cyan);">EHWWeaponType</strong> — Type d'arme associé à cette entrée de maîtrise.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">MasteryLevel</span>
+        <span class="feature-value">Niveau actuel de maîtrise (0 à 100+) — débloque progressivement des combos et attaques.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">CurrentExperience / ExperienceToNextLevel</span>
+        <span class="feature-value">XP accumulée et seuil pour le prochain niveau — formule : <strong style="color:var(--cyan);">100.0f * Pow(1.15f, Level)</strong>.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">DamageMultiplier</span>
+        <span class="feature-value">Multiplicateur de dégâts passif : <strong style="color:var(--cyan);">1.0 + Level * 0.02</strong> — +2% par niveau de maîtrise.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">AttackSpeedBonus</span>
+        <span class="feature-value">Bonus de vitesse d'attaque : <strong style="color:var(--cyan);">Level * 0.5</strong> — augmente la fluidité des enchaînements.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">CritRateBonus</span>
+        <span class="feature-value">Bonus de taux de critique : <strong style="color:var(--cyan);">Level * 0.1</strong> — +0.1% de chance de critique par niveau.</span>
+    </div>
+</div>
+
+<!-- ===== Étape 3 — Équiper une arme ===== -->
+<div class="section-header" id="etape3-equiper">
+    <h2>Étape 3 — Équiper une arme</h2>
+    <span class="section-count">Player Blueprint · ComboComponent · Weapon Mesh</span>
+</div>
+
+<div class="codex-panel">
+    <div class="codex-label">L'équipement d'une arme active son moveset dans le ComboComponent</div>
+    <p>
+        Lorsque le joueur équipe une arme, le <strong style="color:var(--gold);">Player Blueprint</strong> met à jour le mesh visible (ex : <strong style="color:var(--gold);">Sword_Mesh</strong>, <strong style="color:var(--gold);">Shield_Mesh</strong>, <strong style="color:var(--gold);">Bow</strong>) sur les composants correspondants de l'acteur.
+    </p>
+    <p style="margin-bottom:0;">
+        Le Blueprint appelle ensuite <strong style="color:var(--cyan);">ComboComponent-&gt;SetActiveMoveset(NewMoveset)</strong>, ce qui réinitialise l'état de combo courant (index, tag, fenêtre) et charge le nouveau moveset comme référence active.
+    </p>
+</div>
+
+<div class="voie-list" style="margin-bottom: 44px;">
+    <div class="voie-item">
+        <span class="voie-name">Weapon (USceneComponent)</span>
+        <span class="voie-desc">Point d'attache racine pour les composants d'arme sur le squelette du personnage.</span>
+        <span class="voie-tag">Composant · Attache</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name">Sword_Mesh (USkeletalMeshComponent)</span>
+        <span class="voie-desc">Mesh squelettique de l'épée — rattaché au socket de la main droite du personnage.</span>
+        <span class="voie-tag">Mesh · SkeletalMesh</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name">Shield / Shield_Mesh</span>
+        <span class="voie-desc">Composant et mesh du bouclier — rattaché au socket de la main gauche.</span>
+        <span class="voie-tag">Mesh · Bouclier</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name">SetActiveMoveset(NewMoveset)</span>
+        <span class="voie-desc">Réinitialise <strong style="color:var(--cyan);">CurrentComboIndex</strong>, <strong style="color:var(--cyan);">CurrentComboTag</strong> et la fenêtre de combo, puis charge le nouveau moveset.</span>
+        <span class="voie-tag">ComboComponent</span>
+    </div>
+</div>
+
+<!-- ===== Étape 4 — Input d'attaque ===== -->
+<div class="section-header" id="etape4-input">
+    <h2>Étape 4 — Input d'attaque</h2>
+    <span class="section-count">Input_WeaponLeft · Combat.State · GameplayAbility</span>
+</div>
+
+<div class="codex-panel cyan-accent">
+    <div class="codex-label">L'input du joueur est routé vers la bonne ability selon l'arme équipée</div>
+    <p>
+        <strong style="color:var(--cyan);">Input_WeaponLeft()</strong> vérifie d'abord si le tag <strong style="color:var(--cyan);">Combat.State.ReadyToFight</strong> est actif.
+        Si le joueur n'est pas en posture de combat, l'ability <strong style="color:var(--gold);">GA_ReadyToFight</strong> est activée pour passer en mode combat.
+    </p>
+    <p style="margin-bottom:0;">
+        Si le joueur est prêt, le système vérifie le tag de set de combat pour router vers la bonne ability :
+        <strong style="color:var(--cyan);">Combat.Set.Unarmed</strong> active <strong style="color:var(--gold);">GA_UnarmedAttack</strong>,
+        <strong style="color:var(--cyan);">Combat.Set.Bow</strong> active <strong style="color:var(--gold);">GA_BowShoot</strong>,
+        <strong style="color:var(--cyan);">Combat.Set.SwordAndShield</strong> active <strong style="color:var(--gold);">GA_SwordAttack</strong>.
+    </p>
+</div>
+
+<div class="feature-list">
+    <div class="feature-item">
+        <span class="feature-key">Input_WeaponLeft()</span>
+        <span class="feature-value">Point d'entrée de l'attaque — vérifie l'état de combat et route vers l'ability appropriée.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">Combat.State.ReadyToFight</span>
+        <span class="feature-value"><strong style="color:var(--cyan);">FGameplayTag</strong> — Indique que le joueur est en posture de combat, arme dégainée.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">GA_SwordAttack</span>
+        <span class="feature-value"><strong style="color:var(--gold);">GameplayAbility</strong> Blueprint — Appelle <strong style="color:var(--cyan);">ComboComponent-&gt;TryAttack(ComboTag)</strong> pour lancer le combo.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">Combat.Set.*</span>
+        <span class="feature-value">Tags de set de combat (<strong style="color:var(--cyan);">Unarmed</strong>, <strong style="color:var(--cyan);">Bow</strong>, <strong style="color:var(--cyan);">SwordAndShield</strong>) déterminant l'ability à activer.</span>
+    </div>
+</div>
+
+<!-- ===== Étape 5 — Exécution du combo ===== -->
+<div class="section-header" id="etape5-combo">
+    <h2>Étape 5 — Exécution du combo</h2>
+    <span class="section-count">TryAttack · ComboWindow · PlayAttackMontage</span>
+</div>
+
+<div class="codex-panel cyan-accent">
+    <div class="codex-label">TryAttack orchestre la validation, la sélection et l'exécution de chaque attaque</div>
+    <p>
+        La méthode <strong style="color:var(--cyan);">TryAttack(FGameplayTag ComboTag)</strong> est le coeur du système de combo. Elle valide le moveset actif, vérifie la maîtrise, sélectionne l'attaque appropriée dans la chaîne et gère la fenêtre d'enchaînement.
+    </p>
+    <p style="margin-bottom:0;">
+        Si la fenêtre de combo expire sans nouvel input, <strong style="color:var(--cyan);">OnComboWindowExpired</strong> est déclenché, ce qui appelle <strong style="color:var(--cyan);">ResetCombo</strong> et broadcast <strong style="color:var(--gold);">OnComboReset</strong>.
+    </p>
+</div>
+
+<div class="voie-list" style="margin-bottom: 44px;">
+    <div class="voie-item">
+        <span class="voie-name">1. Valider le Moveset</span>
+        <span class="voie-desc">Vérifie que <strong style="color:var(--cyan);">ActiveMoveset</strong> est valide et recherche la <strong style="color:var(--cyan);">FHWComboChain</strong> correspondant au <strong style="color:var(--cyan);">ComboTag</strong> fourni.</span>
+        <span class="voie-tag">Validation</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name">2. Vérifier la maîtrise</span>
+        <span class="voie-desc">Contrôle que <strong style="color:var(--cyan);">MasteryLevel</strong> est supérieur ou égal au <strong style="color:var(--gold);">RequiredMasteryLevel</strong> de la chaîne.</span>
+        <span class="voie-tag">Maîtrise</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name">3. Filtrer les attaques accessibles</span>
+        <span class="voie-desc"><strong style="color:var(--cyan);">GetAccessibleAttacks</strong> filtre par niveau de maîtrise et par <strong style="color:var(--gold);">HiddenUnlockCondition</strong> tag.</span>
+        <span class="voie-tag">Filtrage</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name">4. Déterminer l'index suivant</span>
+        <span class="voie-desc">Si <strong style="color:var(--cyan);">bInComboWindow</strong> + même tag : <strong style="color:var(--gold);">CurrentComboIndex + 1</strong>. Tag différent ou pas de fenêtre : reset à 0.</span>
+        <span class="voie-tag">Index</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name">5. Sélectionner attaque ou Finisher</span>
+        <span class="voie-desc">Si l'index dépasse la longueur de la chaîne, le <strong style="color:var(--gold);">Finisher</strong> est sélectionné à la place.</span>
+        <span class="voie-tag">Sélection</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name">6. Vérifier l'endurance</span>
+        <span class="voie-desc"><strong style="color:var(--cyan);">HasEnoughStamina()</strong> vérifie le coût, puis <strong style="color:var(--cyan);">ConsumeStamina(StaminaCost)</strong> déduit l'endurance.</span>
+        <span class="voie-tag">Stamina</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name">7. Mettre à jour l'état</span>
+        <span class="voie-desc">Met à jour <strong style="color:var(--cyan);">CurrentComboIndex</strong> et <strong style="color:var(--cyan);">CurrentComboTag</strong>, puis démarre le <strong style="color:var(--gold);">ComboWindowTimer</strong>.</span>
+        <span class="voie-tag">État</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name">8. Jouer l'animation</span>
+        <span class="voie-desc"><strong style="color:var(--cyan);">PlayAttackMontage(SelectedAttack)</strong> lance le montage. Broadcast <strong style="color:var(--gold);">OnComboAttack</strong> ou <strong style="color:var(--gold);">OnComboFinished</strong>.</span>
+        <span class="voie-tag">Animation · Delegates</span>
+    </div>
+</div>
+
+<!-- ===== Étape 6 — Détection de touche ===== -->
+<div class="section-header" id="etape6-hit">
+    <h2>Étape 6 — Détection de touche</h2>
+    <span class="section-count">AnimNotify · Melee Trace · Mastery XP</span>
+</div>
+
+<div class="codex-panel">
+    <div class="codex-label">Un AnimNotify dans le montage déclenche la détection de collision</div>
+    <p>
+        Pendant l'animation d'attaque, un <strong style="color:var(--cyan);">AnimNotify</strong> placé dans le montage déclenche un <strong style="color:var(--gold);">melee trace</strong> ou un <strong style="color:var(--gold);">hitbox sweep</strong> pour détecter les cibles touchées.
+    </p>
+    <p style="margin-bottom:0;">
+        Lorsqu'un touché est confirmé, <strong style="color:var(--cyan);">NotifyHitConfirmed()</strong> attribue de l'XP de maîtrise : <strong style="color:var(--gold);">+10 XP par touché</strong>.
+        L'appel est routé vers <strong style="color:var(--cyan);">CachedMasteryComponent-&gt;AddMasteryExperience(ActiveMoveset-&gt;WeaponType, 10.f)</strong>.
+    </p>
+</div>
+
+<div class="feature-list">
+    <div class="feature-item">
+        <span class="feature-key">AnimNotify</span>
+        <span class="feature-value">Notification placée dans le montage d'attaque — déclenche la fenêtre de détection de collision.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">Melee Trace / Hitbox Sweep</span>
+        <span class="feature-value">Trace physique le long de l'arme ou sweep d'une zone pour détecter les acteurs touchés.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">NotifyHitConfirmed()</span>
+        <span class="feature-value">Callback de touché confirmé — attribue <strong style="color:var(--gold);">+10 XP</strong> de maîtrise au type d'arme actif.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">AddMasteryExperience(WeaponType, 10.f)</span>
+        <span class="feature-value">Ajoute l'XP au <strong style="color:var(--cyan);">UHWWeaponMasteryComponent</strong> — déclenche les montées de niveau si le seuil est atteint.</span>
+    </div>
+</div>
+
+<!-- ===== Étape 7 — Calcul de dégâts ===== -->
+<div class="section-header" id="etape7-degats">
+    <h2>Étape 7 — Calcul de dégâts</h2>
+    <span class="section-count">UHWGameplayEffectExecutionCalc · Crit · Réaction élémentaire</span>
+</div>
+
+<div class="codex-panel cyan-accent">
+    <div class="codex-label">Le calcul de dégâts combine statistiques, critiques et réactions élémentaires</div>
+    <p>
+        <strong style="color:var(--gold);">UHWGameplayEffectExecutionCalc</strong> capture les attributs <strong style="color:var(--cyan);">Attack</strong>, <strong style="color:var(--cyan);">Defense</strong>, <strong style="color:var(--cyan);">MaxHealth</strong>, <strong style="color:var(--cyan);">CritRate</strong> et <strong style="color:var(--cyan);">CritDamage</strong> de la source et de la cible pour calculer les dégâts finaux.
+    </p>
+    <p style="margin-bottom:0;">
+        Un encodage pair/impair du dégât final est utilisé pour indiquer un critique à l'UI sans envoyer de données supplémentaires.
+    </p>
+</div>
+
+<div class="feature-list">
+    <div class="feature-item">
+        <span class="feature-key">BaseDamage</span>
+        <span class="feature-value">Formule : <strong style="color:var(--cyan);">Attack + Defense + MaxHealth</strong> — combinaison des statistiques capturées.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">Crit Roll</span>
+        <span class="feature-value"><strong style="color:var(--cyan);">FRand() &lt;= CritRate / 100</strong> — si le jet réussit, <strong style="color:var(--gold);">CritDamage = BaseDamage * (CritDamage / 100)</strong>.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">ReactionMultiplier</span>
+        <span class="feature-value">Multiplicateur obtenu via <strong style="color:var(--cyan);">CheckReaction()</strong> — dépend des conditions élémentaires actives sur la cible.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">FinalDamage</span>
+        <span class="feature-value"><strong style="color:var(--cyan);">Floor((BaseDamage + CritDamage) * ReactionMultiplier)</strong> — arrondi au sol, encodage pair/impair pour les critiques.</span>
+    </div>
+</div>
+
+<!-- ===== Étape 8 — Réactions élémentaires ===== -->
+<div class="section-header" id="etape8-reactions">
+    <h2>Étape 8 — Réactions élémentaires</h2>
+    <span class="section-count">UHWElementalReactionSystem · CheckReaction · ApplyReaction</span>
+</div>
+
+<div class="codex-panel cyan-accent">
+    <div class="codex-label">Les réactions élémentaires combinent le type de dégât entrant avec les conditions actives</div>
+    <p>
+        <strong style="color:var(--gold);">UHWElementalReactionSystem::CheckReaction</strong> prend en entrée le <strong style="color:var(--cyan);">IncomingDamageType</strong> et les <strong style="color:var(--cyan);">TargetConditions</strong> pour déterminer la réaction déclenchée.
+        La méthode retourne un <strong style="color:var(--cyan);">FHWElementalReactionResult</strong> contenant le type de réaction et le multiplicateur.
+    </p>
+    <p style="margin-bottom:0;">
+        <strong style="color:var(--cyan);">ApplyReaction()</strong> consomme la condition élémentaire utilisée et applique éventuellement une nouvelle condition sur la cible.
+    </p>
+</div>
+
+<div class="voie-list" style="margin-bottom: 44px;">
+    <div class="voie-item">
+        <span class="voie-name">Vaporize</span>
+        <span class="voie-desc"><strong style="color:var(--gold);">Fire + Wet</strong> — Multiplicateur <strong style="color:var(--cyan);">1.5x</strong>. L'eau s'évapore au contact du feu, amplifiant les dégâts.</span>
+        <span class="voie-tag">Feu + Eau · 1.5x</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name">Melt</span>
+        <span class="voie-desc"><strong style="color:var(--gold);">Fire + Frozen</strong> — Multiplicateur <strong style="color:var(--cyan);">1.3x</strong>. Le feu fait fondre la glace, libérant de l'énergie thermique.</span>
+        <span class="voie-tag">Feu + Glace · 1.3x</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name">Freeze</span>
+        <span class="voie-desc"><strong style="color:var(--gold);">Ice + Wet</strong> — Gèle la cible en place. Pas de multiplicateur direct, mais immobilise l'ennemi.</span>
+        <span class="voie-tag">Glace + Eau · CC</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name">ElectroCharge</span>
+        <span class="voie-desc"><strong style="color:var(--gold);">Lightning + Wet</strong> — Multiplicateur <strong style="color:var(--cyan);">1.2x</strong>. L'eau conduit l'électricité pour des dégâts amplifiés.</span>
+        <span class="voie-tag">Foudre + Eau · 1.2x</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name">Overload</span>
+        <span class="voie-desc"><strong style="color:var(--gold);">Fire + Charged</strong> — Multiplicateur <strong style="color:var(--cyan);">1.5x</strong> avec explosion AoE (rayon <strong style="color:var(--cyan);">500</strong>). Dégâts de zone dévastateurs.</span>
+        <span class="voie-tag">Feu + Chargé · 1.5x AoE</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name">Superconduct</span>
+        <span class="voie-desc"><strong style="color:var(--gold);">Ice + Charged</strong> — Réduit la <strong style="color:var(--cyan);">défense de 30%</strong> sur la cible. Prépare des combos physiques dévastateurs.</span>
+        <span class="voie-tag">Glace + Chargé · -30% Def</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name">Shatter</span>
+        <span class="voie-desc"><strong style="color:var(--gold);">Physical + Frozen</strong> — Multiplicateur <strong style="color:var(--cyan);">2.0x</strong>. Briser une cible gelée inflige des dégâts massifs.</span>
+        <span class="voie-tag">Physique + Gelé · 2.0x</span>
+    </div>
+</div>
+
+<!-- ===== Étape 9 — Progression de maîtrise ===== -->
+<div class="section-header" id="etape9-progression">
+    <h2>Étape 9 — Progression de maîtrise</h2>
+    <span class="section-count">AddMasteryExperience · RecalculateMasteryBonuses · Level-Up</span>
+</div>
+
+<div class="codex-panel">
+    <div class="codex-label">L'XP accumulée déclenche des montées de niveau et recalcule les bonus</div>
+    <p>
+        <strong style="color:var(--cyan);">AddMasteryExperience(WeaponType, XP)</strong> ajoute l'expérience à l'entrée correspondante. Une boucle <strong style="color:var(--gold);">while</strong> gère les montées de niveau successives si l'XP dépasse plusieurs seuils d'un coup.
+    </p>
+    <p style="margin-bottom:0;">
+        À chaque montée de niveau, <strong style="color:var(--cyan);">RecalculateMasteryBonuses</strong> recalcule les trois bonus passifs et notifie le <strong style="color:var(--cyan);">UHWProgressionComponent</strong> du changement.
+    </p>
+</div>
+
+<div class="feature-list">
+    <div class="feature-item">
+        <span class="feature-key">AddMasteryExperience(WeaponType, XP)</span>
+        <span class="feature-value">Ajoute l'XP à <strong style="color:var(--cyan);">CurrentExperience</strong> — boucle while pour gérer les level-ups multiples.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">RecalculateMasteryBonuses</span>
+        <span class="feature-value"><strong style="color:var(--cyan);">DamageMultiplier = 1.0 + Level * 0.02</strong>, <strong style="color:var(--cyan);">AttackSpeedBonus = Level * 0.5</strong>, <strong style="color:var(--cyan);">CritRateBonus = Level * 0.1</strong>.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">UHWProgressionComponent</span>
+        <span class="feature-value">Notifié lors de chaque montée de niveau de maîtrise — peut déclencher des récompenses ou déblocages.</span>
+    </div>
+</div>
+
+<!-- ===== Étape 10 — Persistance de la maîtrise ===== -->
+<div class="section-header" id="etape10-persistance">
+    <h2>Étape 10 — Persistance de la maîtrise</h2>
+    <span class="section-count">SaveWeaponMastery · LoadWeaponMastery · OWS Backend</span>
+</div>
+
+<div class="codex-panel cyan-accent">
+    <div class="codex-label">Les données de maîtrise sont sérialisées en JSON et sauvegardées via OWS</div>
+    <p>
+        <strong style="color:var(--cyan);">SaveWeaponMastery()</strong> sérialise toutes les entrées de maîtrise en JSON au format <strong style="color:var(--gold);">{"Masteries": [{WeaponType, MasteryLevel, CurrentExperience, ...}]}</strong>.
+        <strong style="color:var(--cyan);">LoadWeaponMastery(JSON)</strong> effectue l'opération inverse et appelle <strong style="color:var(--cyan);">SetAllMasteryData()</strong>.
+    </p>
+    <p style="margin-bottom:0;">
+        La sauvegarde est transmise au backend <strong style="color:var(--gold);">OWS</strong> via <strong style="color:var(--cyan);">AddOrUpdateCustomCharacterData("WeaponMastery", JSON)</strong>. Cette opération fait partie de <strong style="color:var(--gold);">SaveAllProgression()</strong> qui sauvegarde également les quêtes, la progression et la barre de compétences.
+    </p>
+</div>
+
+<div class="feature-list">
+    <div class="feature-item">
+        <span class="feature-key">SaveWeaponMastery()</span>
+        <span class="feature-value">Sérialise les <strong style="color:var(--cyan);">FHWWeaponMasteryData</strong> en JSON — appelé lors de la sauvegarde globale.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">LoadWeaponMastery(JSON)</span>
+        <span class="feature-value">Désérialise le JSON et appelle <strong style="color:var(--cyan);">SetAllMasteryData()</strong> pour restaurer l'état complet.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">AddOrUpdateCustomCharacterData</span>
+        <span class="feature-value">Appel API <strong style="color:var(--gold);">OWS</strong> avec la clé <strong style="color:var(--cyan);">"WeaponMastery"</strong> et le JSON sérialisé.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">SaveAllProgression()</span>
+        <span class="feature-value">Sauvegarde globale : maîtrise d'arme + quêtes + progression + barre de compétences.</span>
+    </div>
+</div>
+
+<!-- ===== Flux complet ===== -->
+<div class="section-header" id="flux-complet">
+    <h2>Flux complet</h2>
+    <span class="section-count">De l'input à la montée de maîtrise</span>
+</div>
+
+<div class="codex-panel cyan-accent">
+    <div class="codex-label">Chaîne d'appels complète : Input → TryAttack → Hit → Damage Calc → Reaction → Mastery XP</div>
+<pre style="color:var(--text-light); font-family:monospace; font-size:0.85rem; line-height:1.6; margin:0; overflow-x:auto; white-space:pre;">
+  [Input_WeaponLeft]
+        │
+        ▼
+  Combat.State.ReadyToFight ?
+        │
+        ├── NON → GA_ReadyToFight (dégaine l'arme)
+        │
+        ├── OUI → Vérifie Combat.Set.*
+        │           │
+        │           ├── Unarmed → GA_UnarmedAttack
+        │           ├── Bow → GA_BowShoot
+        │           └── SwordAndShield → GA_SwordAttack
+        │
+        ▼
+  ComboComponent::TryAttack(ComboTag)
+        │
+        ├── 1. Valide ActiveMoveset + trouve ComboChain
+        ├── 2. Vérifie MasteryLevel >= RequiredMasteryLevel
+        ├── 3. GetAccessibleAttacks (filtre maîtrise + conditions cachées)
+        ├── 4. Détermine NextIndex (fenêtre active ? même tag ?)
+        ├── 5. Sélectionne attaque ou Finisher
+        ├── 6. HasEnoughStamina() → ConsumeStamina()
+        ├── 7. Update CurrentComboIndex + ComboWindowTimer
+        │
+        ▼
+  PlayAttackMontage(SelectedAttack)
+        │
+        ├── OnComboAttack / OnComboFinished (delegates)
+        │
+        ▼
+  [AnimNotify] → Melee Trace / Hitbox Sweep
+        │
+        ├── Touché confirmé ?
+        │     │
+        │     ├── NON → (pas de dégâts)
+        │     │
+        │     └── OUI → NotifyHitConfirmed()
+        │                   │
+        │                   ▼
+        │     UHWGameplayEffectExecutionCalc
+        │           │
+        │           ├── BaseDamage = Attack + Defense + MaxHealth
+        │           ├── Crit Roll: FRand() <= CritRate/100
+        │           │     └── CritDamage = BaseDamage * (CritDamage/100)
+        │           │
+        │           ▼
+        │     UHWElementalReactionSystem::CheckReaction()
+        │           │
+        │           ├── Vaporize (Fire+Wet) ────── 1.5x
+        │           ├── Melt (Fire+Frozen) ─────── 1.3x
+        │           ├── Freeze (Ice+Wet) ────────── CC
+        │           ├── ElectroCharge (Ltn+Wet) ── 1.2x
+        │           ├── Overload (Fire+Charged) ── 1.5x AoE
+        │           ├── Superconduct (Ice+Chg) ─── -30% Def
+        │           └── Shatter (Phys+Frozen) ──── 2.0x
+        │           │
+        │           ▼
+        │     FinalDamage = Floor((Base + Crit) * Reaction)
+        │           │
+        │           ▼
+        │     Applique dégâts à la cible
+        │
+        ▼
+  AddMasteryExperience(WeaponType, 10.f)
+        │
+        ├── CurrentExperience += 10
+        ├── Level-up ? → RecalculateMasteryBonuses
+        │                   ├── DamageMultiplier = 1.0 + Level*0.02
+        │                   ├── AttackSpeedBonus = Level*0.5
+        │                   └── CritRateBonus = Level*0.1
+        │
+        ▼
+  [ComboWindowTimer expire]
+        │
+        ├── Nouvel input dans la fenêtre ? → retour à TryAttack
+        └── Expiration → OnComboWindowExpired → ResetCombo
+</pre>
+</div>

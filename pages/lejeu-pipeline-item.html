@@ -1,0 +1,471 @@
+<!-- ===== Pipeline Item — Du DataTable à l'équipement joueur ===== -->
+
+<!-- ===== Étape 1 — Définir un objet ===== -->
+<div class="section-header" id="etape1-definition">
+    <h2>Étape 1 — Définir un objet (DataTable)</h2>
+    <span class="section-count">FHWItemStaticDataStruct · EItemType · EItemSubCategory</span>
+</div>
+
+<div class="codex-panel cyan-accent">
+    <div class="codex-label">Structure de données statiques d'un objet</div>
+    <p>
+        Chaque objet du jeu est défini dans un DataTable via la structure <strong style="color:var(--cyan);">FHWItemStaticDataStruct</strong>.
+        Elle contient l'ensemble des métadonnées nécessaires : nom, description, poids, type, sous-catégorie, taille de stack, niveau requis, durabilité, icône et meshes 3D.
+    </p>
+    <p style="margin-bottom:0;">
+        Le type d'objet est défini par <strong style="color:var(--cyan);">EItemType</strong> (None, Resource, Weapon, Consumable, Equipment)
+        et affiné par <strong style="color:var(--cyan);">EItemSubCategory</strong> qui compte plus de <strong style="color:var(--gold);">106 catégories</strong> distinctes.
+    </p>
+</div>
+
+<div class="feature-list">
+    <div class="feature-item">
+        <span class="feature-key">Name / Description</span>
+        <span class="feature-value">Nom et description affichés dans l'interface — texte localisable.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">Weight / StackSize</span>
+        <span class="feature-value">Poids unitaire et nombre maximum d'objets empilables dans un seul emplacement d'inventaire.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">ItemType (EItemType)</span>
+        <span class="feature-value">Catégorie principale : <strong style="color:var(--gold);">None</strong>, <strong style="color:var(--gold);">Resource</strong>, <strong style="color:var(--gold);">Weapon</strong>, <strong style="color:var(--gold);">Consumable</strong>, <strong style="color:var(--gold);">Equipment</strong>.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">SubCategory (EItemSubCategory)</span>
+        <span class="feature-value">Sous-catégorie fine parmi 106+ entrées — permet un filtrage précis dans l'inventaire, le commerce et les conditions de quête.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">RequiredLevel / MaxUses / Durability</span>
+        <span class="feature-value">Niveau minimum pour utiliser l'objet, nombre d'utilisations maximales et points de durabilité initiale.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">Icon (UTexture2D*)</span>
+        <span class="feature-value">Texture 2D utilisée pour l'affichage dans l'inventaire, les tooltips et les barres d'actions.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">StaticMesh / SkeletalMesh</span>
+        <span class="feature-value">Meshes 3D pour la représentation dans le monde (drop au sol) et sur le personnage (équipement porté).</span>
+    </div>
+</div>
+
+<div class="voie-list" style="margin-bottom: 44px;">
+    <div class="voie-item">
+        <span class="voie-name">Caracteristics — TArray&lt;FHWCara&gt;</span>
+        <span class="voie-desc">Tableau de caractéristiques associées à l'objet. Chaque entrée contient un <strong style="color:var(--cyan);">ECara</strong> (MaxHealth, Attack, Defense, CritRate, CritDamage, dégâts/résistances élémentaires, etc.) et une <strong style="color:var(--gold);">CaraValue</strong> numérique.</span>
+        <span class="voie-tag">Stats · ECara</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name">16 Equipment Slots</span>
+        <span class="voie-desc">De <strong style="color:var(--gold);">HeadSlot</strong> à <strong style="color:var(--gold);">CrystalSlot</strong>, chaque emplacement est mappé par un Order (1 à 16) qui détermine la position dans l'interface d'équipement.</span>
+        <span class="voie-tag">Order 1–16</span>
+    </div>
+</div>
+
+<!-- ===== Étape 2 — Table de loot ===== -->
+<div class="section-header" id="etape2-loot">
+    <h2>Étape 2 — Table de loot</h2>
+    <span class="section-count">UHWLootTable · FHWLootEntry · RollLoot</span>
+</div>
+
+<div class="codex-panel cyan-accent">
+    <div class="codex-label">Définition probabiliste du butin</div>
+    <p>
+        <strong style="color:var(--cyan);">UHWLootTable</strong> est un <strong style="color:var(--cyan);">UPrimaryDataAsset</strong> qui définit une table de loot complète.
+        Chaque table possède un identifiant unique via <strong style="color:var(--cyan);">FGameplayTag</strong>, un tableau d'entrées, un nombre de drops garantis et un plafond de drops maximum.
+    </p>
+    <p style="margin-bottom:0;">
+        La méthode <strong style="color:var(--gold);">RollLoot(PlayerLevel, LuckMultiplier)</strong> exécute un système en 3 phases :
+        <strong style="color:var(--gold);">tirage aléatoire</strong> → <strong style="color:var(--gold);">remplissage garanti</strong> → <strong style="color:var(--gold);">limitation au plafond</strong>.
+    </p>
+</div>
+
+<div class="feature-list">
+    <div class="feature-item">
+        <span class="feature-key">LootTableID (FGameplayTag)</span>
+        <span class="feature-value">Identifiant unique de la table de loot — utilisé pour le référencement depuis les mobs, conteneurs et récompenses de quêtes.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">GuaranteedDropCount / MaxDropCount</span>
+        <span class="feature-value">Nombre minimum de drops garantis et nombre maximum d'objets que la table peut produire en un seul tirage.</span>
+    </div>
+</div>
+
+<div class="voie-list" style="margin-bottom: 44px;">
+    <div class="voie-item">
+        <span class="voie-name">FHWLootEntry</span>
+        <span class="voie-desc">Entrée individuelle de la table : <strong style="color:var(--cyan);">ItemTag</strong>, <strong style="color:var(--gold);">DropChance</strong> (0–1), <strong style="color:var(--gold);">MinQuantity/MaxQuantity</strong>, <strong style="color:var(--cyan);">MinPlayerLevel</strong>, <strong style="color:var(--cyan);">MinMasteryLevel</strong>, <strong style="color:var(--cyan);">RequiredMasteryType</strong>, <strong style="color:var(--cyan);">HiddenConditionTag</strong>, <strong style="color:var(--cyan);">RarityTag</strong>.</span>
+        <span class="voie-tag">Probabilité · Conditions</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name">RollLoot — Phase 1</span>
+        <span class="voie-desc">Tirage aléatoire : chaque entrée est évaluée contre sa DropChance multipliée par le LuckMultiplier du joueur. Les entrées dont les conditions ne sont pas remplies sont exclues.</span>
+        <span class="voie-tag">Random Roll</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name">RollLoot — Phase 2</span>
+        <span class="voie-desc">Remplissage garanti : si le nombre de drops obtenus est inférieur à GuaranteedDropCount, des entrées supplémentaires sont sélectionnées pour atteindre le minimum.</span>
+        <span class="voie-tag">Guaranteed Fill</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name">RollLoot — Phase 3</span>
+        <span class="voie-desc">Limitation au plafond : si le nombre total de drops dépasse MaxDropCount, les entrées excédentaires sont retirées par ordre de priorité décroissante.</span>
+        <span class="voie-tag">Cap Enforcement</span>
+    </div>
+</div>
+
+<!-- ===== Étape 3 — Entrée dans le monde ===== -->
+<div class="section-header" id="etape3-spawn">
+    <h2>Étape 3 — Entrée dans le monde</h2>
+    <span class="section-count">MobDead · AHWContainer · Récompenses</span>
+</div>
+
+<div class="codex-panel">
+    <div class="codex-label">Comment un objet apparaît dans le monde</div>
+    <p>
+        Les objets entrent dans le monde par trois canaux principaux : le <strong style="color:var(--gold);">drop de mob</strong> à la mort, le <strong style="color:var(--gold);">contenu de conteneur</strong> pré-généré ou dynamique, et les <strong style="color:var(--gold);">récompenses</strong> de quêtes ou ajouts manuels.
+    </p>
+</div>
+
+<div class="voie-list" style="margin-bottom: 44px;">
+    <div class="voie-item">
+        <span class="voie-name">Mob Drops</span>
+        <span class="voie-desc"><strong style="color:var(--cyan);">AHWGASMobCharacter::MobDead()</strong> déclenche le tirage de loot via <strong style="color:var(--gold);">LootTable->RollLoot()</strong>. Les objets obtenus sont mis à disposition du joueur ayant infligé le coup fatal.</span>
+        <span class="voie-tag">Kill → Loot</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name">Containers</span>
+        <span class="voie-desc"><strong style="color:var(--cyan);">AHWContainer</strong> implémente <strong style="color:var(--cyan);">IInteractable</strong> et possède un <strong style="color:var(--cyan);">LootTableID</strong>, un état <strong style="color:var(--gold);">bIsCurrentlyOpen</strong> et un <strong style="color:var(--cyan);">InteractableGUID</strong> pour la persistance.</span>
+        <span class="voie-tag">Coffre · Persistance</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name">Récompenses / Manuel</span>
+        <span class="voie-desc">Les quêtes et les systèmes de test utilisent <strong style="color:var(--gold);">AddNewItem()</strong> et <strong style="color:var(--gold);">AddItemToTest()</strong> pour injecter directement des objets dans l'inventaire du joueur.</span>
+        <span class="voie-tag">Quêtes · Debug</span>
+    </div>
+</div>
+
+<!-- ===== Étape 4 — Interaction joueur ===== -->
+<div class="section-header" id="etape4-interaction">
+    <h2>Étape 4 — Interaction joueur</h2>
+    <span class="section-count">AHWPlayerController · Server_OpenContainer · OWS</span>
+</div>
+
+<div class="codex-panel cyan-accent">
+    <div class="codex-label">Du clic joueur à la récupération d'objet</div>
+    <p>
+        Le joueur déclenche une interaction via <strong style="color:var(--cyan);">AHWPlayerController::Interact()</strong> qui appelle <strong style="color:var(--cyan);">GetOverlappedInteractables()</strong> pour détecter les objets interactifs à portée.
+    </p>
+    <p style="margin-bottom:0;">
+        Pour un conteneur, le <strong style="color:var(--gold);">Server_OpenContainer()</strong> RPC est envoyé au serveur, qui valide l'accès, crée des <strong style="color:var(--cyan);">FHWContainerOpenedItem</strong> et persiste l'état via <strong style="color:var(--cyan);">OWS</strong>.
+        L'UI affiche ensuite l'inventaire du conteneur et le joueur peut glisser les objets vers son inventaire.
+    </p>
+</div>
+
+<div class="feature-list">
+    <div class="feature-item">
+        <span class="feature-key">Interact()</span>
+        <span class="feature-value">Point d'entrée de l'interaction joueur — détecte les IInteractable dans la zone de chevauchement et déclenche l'action appropriée.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">GetOverlappedInteractables()</span>
+        <span class="feature-value">Retourne la liste des objets interactifs actuellement à portée du joueur, triés par proximité.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">Server_OpenContainer() RPC</span>
+        <span class="feature-value">Appel serveur validé — vérifie la légitimité de l'accès, génère le contenu du conteneur et crée les <strong style="color:var(--cyan);">FHWContainerOpenedItem</strong> correspondants.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">Persistance OWS</span>
+        <span class="feature-value">L'état du conteneur (ouvert/fermé, contenu restant) est persisté côté serveur via OWS pour garantir la cohérence entre sessions.</span>
+    </div>
+</div>
+
+<!-- ===== Étape 5 — Gestion de l'inventaire ===== -->
+<div class="section-header" id="etape5-inventaire">
+    <h2>Étape 5 — Gestion de l'inventaire</h2>
+    <span class="section-count">UHWInventoryComponent · FHWInventoryMaster · FFastArraySerializer</span>
+</div>
+
+<div class="codex-panel cyan-accent">
+    <div class="codex-label">Stockage, manipulation et réplication des objets</div>
+    <p>
+        Le composant <strong style="color:var(--cyan);">UHWInventoryComponent</strong> gère l'inventaire via la structure <strong style="color:var(--cyan);">FHWInventoryMaster</strong>,
+        qui hérite de <strong style="color:var(--cyan);">FFastArraySerializer</strong> pour une réplication réseau optimisée.
+    </p>
+    <p style="margin-bottom:0;">
+        Chaque objet en inventaire est représenté par un <strong style="color:var(--cyan);">FHWInventoryItem</strong> contenant un GUID unique, un identifiant de type, la quantité, le numéro de slot, l'état de durabilité, les statistiques de combat et l'ordre d'affichage.
+    </p>
+</div>
+
+<div class="feature-list">
+    <div class="feature-item">
+        <span class="feature-key">FHWInventoryItem</span>
+        <span class="feature-value">Structure runtime d'un objet en inventaire : <strong style="color:var(--cyan);">ItemGUID</strong>, <strong style="color:var(--cyan);">ItemTypeID</strong>, Quantity, InSlotNumber, NumberOfUsesLeft, Condition.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">Stats de combat</span>
+        <span class="feature-value">FlatAttack, FlatDefense, FlatHP, pourcentages, CritRate, CritDamage — stockés directement sur l'item pour un accès rapide.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">ItemStats array / Order</span>
+        <span class="feature-value">Tableau de statistiques détaillées et ordre d'affichage dans l'inventaire pour le tri et la présentation UI.</span>
+    </div>
+</div>
+
+<div class="voie-list" style="margin-bottom: 44px;">
+    <div class="voie-item">
+        <span class="voie-name">AddNewItem</span>
+        <span class="voie-desc">Génère un <strong style="color:var(--cyan);">GUID</strong> unique, ajoute l'objet au tableau de l'inventaire, gère le stacking automatique et marque le tableau <strong style="color:var(--gold);">dirty</strong> pour la réplication réseau.</span>
+        <span class="voie-tag">Ajout · GUID</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name">MoveItem</span>
+        <span class="voie-desc"><strong style="color:var(--gold);">ServerRPC</strong> avec validation côté serveur. Gère le déplacement entre slots, entre inventaires, et la logique complexe de swap d'équipement lorsqu'un slot est déjà occupé.</span>
+        <span class="voie-tag">Déplacement · Swap</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name">RemoveItem</span>
+        <span class="voie-desc">Retire l'objet du tableau, réordonne les emplacements restants et marque le tableau dirty pour synchroniser la suppression avec le client.</span>
+        <span class="voie-tag">Suppression · Reorder</span>
+    </div>
+</div>
+
+<!-- ===== Étape 6 — Équiper un objet ===== -->
+<div class="section-header" id="etape6-equiper">
+    <h2>Étape 6 — Équiper un objet</h2>
+    <span class="section-count">EquipmentInventory · GameplayEffect · AbilitySystemComponent</span>
+</div>
+
+<div class="codex-panel">
+    <div class="codex-label">Application dynamique des statistiques via GAS</div>
+    <p>
+        Lorsqu'un objet est déplacé vers l'<strong style="color:var(--gold);">EquipmentInventory</strong>, le système détermine le slot approprié via <strong style="color:var(--cyan);">GetSlotFromOrder</strong> et <strong style="color:var(--cyan);">GetEquipmentSlotOrders</strong>.
+    </p>
+    <p style="margin-bottom:0;">
+        <strong style="color:var(--gold);">ApplyEquipmentStats(EquippedItem)</strong> crée un <strong style="color:var(--cyan);">UGameplayEffect</strong> dynamique de durée <strong style="color:var(--gold);">Infinite</strong>.
+        Pour chaque <strong style="color:var(--cyan);">FHWCara</strong> de l'objet, la fonction <strong style="color:var(--cyan);">CaraToAttribute()</strong> convertit l'enum en <strong style="color:var(--cyan);">FGameplayAttribute</strong>,
+        puis ajoute un modificateur <strong style="color:var(--gold);">Additive</strong>.
+        L'effet est appliqué via <strong style="color:var(--cyan);">ASC->ApplyGameplayEffectToSelf()</strong> et le handle est stocké dans <strong style="color:var(--cyan);">ActiveEquipmentEffects</strong> (TMap&lt;FGuid, FActiveGameplayEffectHandle&gt;).
+    </p>
+</div>
+
+<div class="feature-list">
+    <div class="feature-item">
+        <span class="feature-key">GetSlotFromOrder / GetEquipmentSlotOrders</span>
+        <span class="feature-value">Résout le numéro d'Order (1–16) en slot d'équipement concret — détermine où l'objet sera porté sur le personnage.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">ApplyEquipmentStats</span>
+        <span class="feature-value">Crée un GameplayEffect dynamique Infinite, convertit chaque FHWCara en FGameplayAttribute via <strong style="color:var(--cyan);">CaraToAttribute()</strong>, applique un modificateur Additive.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">ASC->ApplyGameplayEffectToSelf()</span>
+        <span class="feature-value">Applique l'effet sur l'<strong style="color:var(--cyan);">AbilitySystemComponent</strong> du personnage — les attributs sont immédiatement mis à jour.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">ActiveEquipmentEffects</span>
+        <span class="feature-value">TMap&lt;FGuid, FActiveGameplayEffectHandle&gt; — associe chaque objet équipé à son handle d'effet actif pour un retrait propre.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">RemoveEquipmentStats</span>
+        <span class="feature-value">Retire l'effet via le handle stocké — les attributs du personnage retrouvent leurs valeurs de base instantanément.</span>
+    </div>
+</div>
+
+<!-- ===== Étape 7 — Représentation visuelle ===== -->
+<div class="section-header" id="etape7-visuel">
+    <h2>Étape 7 — Représentation visuelle</h2>
+    <span class="section-count">AHWGASPlayerCharacter · Mesh Components · Blueprint</span>
+</div>
+
+<div class="codex-panel cyan-accent">
+    <div class="codex-label">L'objet équipé prend forme sur le personnage</div>
+    <p>
+        <strong style="color:var(--cyan);">AHWGASPlayerCharacter</strong> expose des composants de mesh dédiés à chaque pièce d'équipement visible :
+        <strong style="color:var(--gold);">Sword_Mesh</strong>, <strong style="color:var(--gold);">Shield_Mesh</strong>, <strong style="color:var(--gold);">Bow</strong>,
+        <strong style="color:var(--gold);">Chest</strong>, <strong style="color:var(--gold);">Pants</strong>, <strong style="color:var(--gold);">Cloak</strong>,
+        <strong style="color:var(--gold);">Helms</strong>, <strong style="color:var(--gold);">Boots</strong>, <strong style="color:var(--gold);">Head</strong>,
+        <strong style="color:var(--gold);">Hairstyle</strong>, <strong style="color:var(--gold);">Shoulders</strong>.
+    </p>
+    <p style="margin-bottom:0;">
+        Un événement Blueprint <strong style="color:var(--gold);">EquipFunction()</strong> reçoit la définition de l'objet et applique le <strong style="color:var(--cyan);">SkeletalMesh</strong> correspondant sur le composant approprié.
+    </p>
+</div>
+
+<div class="voie-list" style="margin-bottom: 44px;">
+    <div class="voie-item">
+        <span class="voie-name">Order 1 — Head</span>
+        <span class="voie-desc">Slot de tête : casques, couronnes, capuches. Appliqué sur le composant <strong style="color:var(--gold);">Helms</strong>.</span>
+        <span class="voie-tag">Slot 1</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name">Order 5 — Chest</span>
+        <span class="voie-desc">Slot de torse : armures, tuniques, robes. Appliqué sur le composant <strong style="color:var(--gold);">Chest</strong>.</span>
+        <span class="voie-tag">Slot 5</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name">Order 10 — HandLeft</span>
+        <span class="voie-desc">Main gauche : boucliers, orbes, focus. Appliqué sur le composant <strong style="color:var(--gold);">Shield_Mesh</strong>.</span>
+        <span class="voie-tag">Slot 10</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name">Order 11 — HandRight</span>
+        <span class="voie-desc">Main droite : épées, haches, bâtons. Appliqué sur le composant <strong style="color:var(--gold);">Sword_Mesh</strong>.</span>
+        <span class="voie-tag">Slot 11</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name">Order 14 — Pants</span>
+        <span class="voie-desc">Slot de jambes : pantalons, jambières, robes longues. Appliqué sur le composant <strong style="color:var(--gold);">Pants</strong>.</span>
+        <span class="voie-tag">Slot 14</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name">Order 15 — Boots</span>
+        <span class="voie-desc">Slot de pieds : bottes, sandales, chausses. Appliqué sur le composant <strong style="color:var(--gold);">Boots</strong>.</span>
+        <span class="voie-tag">Slot 15</span>
+    </div>
+</div>
+
+<!-- ===== Étape 8 — Persistance ===== -->
+<div class="section-header" id="etape8-persistance">
+    <h2>Étape 8 — Persistance</h2>
+    <span class="section-count">Sérialisation JSON · OWS · FastArraySerializer</span>
+</div>
+
+<div class="codex-panel">
+    <div class="codex-label">Sauvegarde et synchronisation de l'inventaire</div>
+    <p>
+        L'inventaire est sérialisé en JSON via <strong style="color:var(--cyan);">FJsonObjectConverter::UStructToJsonObjectString</strong> appliqué à la structure <strong style="color:var(--cyan);">FHWInventoryMaster</strong>.
+        La restauration se fait par <strong style="color:var(--gold);">LoadInventorySerialize()</strong> qui parse le JSON, reconstruit la structure et appelle <strong style="color:var(--gold);">MarkArrayDirty</strong> pour forcer la réplication complète.
+    </p>
+    <p style="margin-bottom:0;">
+        La persistance serveur utilise <strong style="color:var(--cyan);">OWSPlayerControllerComponent->AddOrUpdateCustomCharacterData()</strong> pour stocker les données d'inventaire dans la base OWS.
+    </p>
+</div>
+
+<div class="feature-list">
+    <div class="feature-item">
+        <span class="feature-key">SerializeInventory()</span>
+        <span class="feature-value"><strong style="color:var(--cyan);">FJsonObjectConverter::UStructToJsonObjectString(FHWInventoryMaster)</strong> — convertit l'intégralité de l'inventaire en chaîne JSON.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">LoadInventorySerialize()</span>
+        <span class="feature-value">Parse le JSON sauvegardé, reconstruit <strong style="color:var(--cyan);">FHWInventoryMaster</strong> et appelle <strong style="color:var(--gold);">MarkArrayDirty</strong> pour synchroniser l'état avec tous les clients.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">PersistInventory()</span>
+        <span class="feature-value">Envoie les données sérialisées vers le backend via <strong style="color:var(--cyan);">OWSPlayerControllerComponent->AddOrUpdateCustomCharacterData()</strong>.</span>
+    </div>
+</div>
+
+<div class="voie-list" style="margin-bottom: 44px;">
+    <div class="voie-item">
+        <span class="voie-name">Réplication réseau</span>
+        <span class="voie-desc"><strong style="color:var(--cyan);">FastArraySerializer</strong> avec condition <strong style="color:var(--gold);">COND_OwnerOnly</strong> et mode <strong style="color:var(--gold);">push-based</strong> — seul le propriétaire reçoit les mises à jour d'inventaire, optimisant la bande passante.</span>
+        <span class="voie-tag">Network · Push</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name">OnRep_Inventory</span>
+        <span class="voie-desc">Callback de réplication côté client — déclenche <strong style="color:var(--gold);">ReloadDisplayItems()</strong> pour rafraîchir l'ensemble de l'affichage UI de l'inventaire.</span>
+        <span class="voie-tag">Client · Refresh</span>
+    </div>
+</div>
+
+<!-- ===== Étape 9 — Affichage UI ===== -->
+<div class="section-header" id="etape9-ui">
+    <h2>Étape 9 — Affichage UI</h2>
+    <span class="section-count">UHWCommonInventoryListWidget · UHWEquipmentWidget · UHWInventoryEntry</span>
+</div>
+
+<div class="codex-panel cyan-accent">
+    <div class="codex-label">Présentation visuelle de l'inventaire et de l'équipement</div>
+    <p>
+        L'inventaire est affiché dans un <strong style="color:var(--cyan);">UHWCommonInventoryListWidget</strong> organisé en grille, où chaque case est un <strong style="color:var(--cyan);">UHWInventoryEntry</strong> affichant l'icône, la quantité et les informations de tooltip.
+    </p>
+    <p style="margin-bottom:0;">
+        L'écran d'équipement utilise <strong style="color:var(--cyan);">UHWEquipmentWidget</strong> avec 16 emplacements de bordure mappés via un <strong style="color:var(--cyan);">SlotMap</strong> (TMap&lt;EEquipmentSlot, UBorder*&gt;).
+        La structure <strong style="color:var(--cyan);">FHWInventoryDisplayItem</strong> fusionne les données runtime et statiques pour alimenter l'UI de manière unifiée.
+    </p>
+</div>
+
+<div class="feature-list">
+    <div class="feature-item">
+        <span class="feature-key">UHWCommonInventoryListWidget</span>
+        <span class="feature-value">Widget de grille d'inventaire — instancie un <strong style="color:var(--cyan);">UHWInventoryEntry</strong> par objet, gère le layout et le scroll.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">UHWEquipmentWidget</span>
+        <span class="feature-value">Interface d'équipement à 16 slots — chaque emplacement est un <strong style="color:var(--cyan);">UBorder*</strong> mappé dans le <strong style="color:var(--cyan);">SlotMap</strong> par <strong style="color:var(--cyan);">EEquipmentSlot</strong>.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">UHWInventoryEntry</span>
+        <span class="feature-value">Widget d'entrée individuelle : <strong style="color:var(--gold);">IconImage</strong>, <strong style="color:var(--gold);">QuantityLabel</strong>, tooltip au survol, handlers de clic et de drag-and-drop.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">FHWInventoryDisplayItem</span>
+        <span class="feature-value">Structure de présentation combinant les données runtime (quantité, durabilité, GUID) et les données statiques (nom, icône, description) pour l'affichage UI.</span>
+    </div>
+</div>
+
+<!-- ===== Diagramme de flux ===== -->
+<div class="section-header" id="flux-complet">
+    <h2>Flux complet — Du DataTable au personnage</h2>
+    <span class="section-count">9 étapes · Vue d'ensemble</span>
+</div>
+
+<div class="codex-panel" style="border-left-color: var(--gold);">
+    <div class="codex-label">Diagramme du pipeline Item</div>
+    <pre style="color:var(--text-dim); font-family:'Courier New',monospace; font-size:0.85rem; line-height:1.6; margin:0; overflow-x:auto;">
+ ┌─────────────────────────────────────────────────────────────────────┐
+ │  <span style="color:var(--gold);">1. DataTable</span>                                                       │
+ │  FHWItemStaticDataStruct → Name, Type, Stats, Meshes, Icon        │
+ └──────────────────────────────┬──────────────────────────────────────┘
+                                │
+                                ▼
+ ┌─────────────────────────────────────────────────────────────────────┐
+ │  <span style="color:var(--gold);">2. LootTable</span>                                                      │
+ │  UHWLootTable → FHWLootEntry[] → RollLoot(Level, Luck)            │
+ └──────────────────────────────┬──────────────────────────────────────┘
+                                │
+                ┌───────────────┼───────────────┐
+                ▼               ▼               ▼
+ ┌──────────────────┐ ┌─────────────────┐ ┌─────────────────┐
+ │  <span style="color:var(--cyan);">3a. MobDead()</span>   │ │  <span style="color:var(--cyan);">3b. Container</span>  │ │  <span style="color:var(--cyan);">3c. Quêtes</span>     │
+ │  → RollLoot()    │ │  AHWContainer   │ │  AddNewItem()   │
+ └────────┬─────────┘ └────────┬────────┘ └────────┬────────┘
+          │                    │                    │
+          └───────────────┬────┘────────────────────┘
+                          ▼
+ ┌─────────────────────────────────────────────────────────────────────┐
+ │  <span style="color:var(--gold);">4. Interaction</span>                                                     │
+ │  Interact() → GetOverlappedInteractables() → Server_OpenContainer │
+ └──────────────────────────────┬──────────────────────────────────────┘
+                                ▼
+ ┌─────────────────────────────────────────────────────────────────────┐
+ │  <span style="color:var(--gold);">5. Inventaire</span>                                                      │
+ │  UHWInventoryComponent → FHWInventoryMaster → FHWInventoryItem    │
+ │  AddNewItem · MoveItem · RemoveItem                               │
+ └──────────────────────────────┬──────────────────────────────────────┘
+                                │
+                ┌───────────────┴───────────────┐
+                ▼                               ▼
+ ┌──────────────────────────────┐ ┌────────────────────────────────────┐
+ │  <span style="color:var(--gold);">6. Équiper</span>                   │ │  <span style="color:var(--gold);">8. Persistance</span>                    │
+ │  ApplyEquipmentStats()       │ │  SerializeInventory() → JSON      │
+ │  → UGameplayEffect (Infinite)│ │  PersistInventory() → OWS         │
+ │  → ASC->Apply...ToSelf()     │ │  FastArraySerializer → Réplication│
+ └──────────────┬───────────────┘ └────────────────────────────────────┘
+                ▼
+ ┌─────────────────────────────────────────────────────────────────────┐
+ │  <span style="color:var(--gold);">7. Visuel</span>                                                         │
+ │  EquipFunction() → SkeletalMesh → Sword/Shield/Chest/Pants/...    │
+ └──────────────────────────────┬──────────────────────────────────────┘
+                                ▼
+ ┌─────────────────────────────────────────────────────────────────────┐
+ │  <span style="color:var(--gold);">9. UI</span>                                                              │
+ │  UHWCommonInventoryListWidget · UHWEquipmentWidget (16 slots)     │
+ │  UHWInventoryEntry → IconImage · QuantityLabel · Tooltip          │
+ │  OnRep_Inventory → ReloadDisplayItems()                           │
+ └─────────────────────────────────────────────────────────────────────┘
+    </pre>
+</div>

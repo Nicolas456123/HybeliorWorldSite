@@ -1,0 +1,514 @@
+<!-- ===== Pipeline Mob/Ennemi : de l'éditeur au combat ===== -->
+
+<!-- ===== Étape 1 — Créer un Blueprint Mob ===== -->
+<div class="section-header" id="etape1-blueprint">
+    <h2>Étape 1 — Créer un Blueprint Mob</h2>
+    <span class="section-count">1 / 10 · Blueprint de base</span>
+</div>
+
+<div class="codex-panel cyan-accent">
+    <div class="codex-label">Classe de base et composants automatiques</div>
+    <p>
+        Tout mob d'Hybélior dérive de <strong style="color:var(--gold);">AHWGASMobCharacter</strong>, elle-même héritière de <strong style="color:var(--gold);">AHWGASCharacter</strong>.
+        À l'instanciation, le Blueprint reçoit automatiquement les composants essentiels : <strong style="color:var(--cyan);">UHWMobNameplateWidgetComponent</strong> (barre de vie et icônes d'état),
+        <strong style="color:var(--cyan);">UAIPerceptionComponent</strong> (détection sensorielle),
+        <strong style="color:var(--cyan);">AbilitySystemComponent</strong> (GAS) et
+        <strong style="color:var(--cyan);">CombatAttributeSet</strong> (statistiques de combat).
+    </p>
+    <p style="margin-bottom:0;">
+        Le designer configure ensuite le mesh, les animations, le <strong style="color:var(--cyan);">MobTag</strong> (<strong style="color:var(--gold);">FGameplayTag</strong>) identifiant le type de mob, et la <strong style="color:var(--cyan);">LootTable</strong> (<strong style="color:var(--gold);">UHWLootTable*</strong>) pour le butin.
+        Le <strong style="color:var(--cyan);">MobLevel</strong> n'est pas fixé dans le Blueprint : il est attribué dynamiquement par le spawner au moment de l'apparition.
+    </p>
+</div>
+
+<div class="feature-list">
+    <div class="feature-item">
+        <span class="feature-key">Base class</span>
+        <span class="feature-value"><strong style="color:var(--gold);">AHWGASMobCharacter</strong> — étend <strong style="color:var(--gold);">AHWGASCharacter</strong>. Hérite du pipeline GAS complet (abilities, effets, attributs) et ajoute la logique spécifique aux mobs.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">Composants auto</span>
+        <span class="feature-value"><strong style="color:var(--cyan);">UHWMobNameplateWidgetComponent</strong>, <strong style="color:var(--cyan);">UAIPerceptionComponent</strong>, <strong style="color:var(--cyan);">AbilitySystemComponent</strong>, <strong style="color:var(--cyan);">CombatAttributeSet</strong> — créés dans le constructeur C++.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">Configuration</span>
+        <span class="feature-value">Mesh, animations, <strong style="color:var(--cyan);">MobTag</strong> (<strong style="color:var(--gold);">FGameplayTag</strong>), <strong style="color:var(--cyan);">LootTable</strong> (<strong style="color:var(--gold);">UHWLootTable*</strong>). Le <strong style="color:var(--cyan);">MobLevel</strong> est défini par le spawner au runtime.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">BlueprintImplementableEvent</span>
+        <span class="feature-value"><strong style="color:var(--gold);">Attack()</strong>, <strong style="color:var(--gold);">Dodge()</strong>, <strong style="color:var(--gold);">Retreat()</strong>, <strong style="color:var(--gold);">InitializeMob()</strong>, <strong style="color:var(--gold);">ResetMob()</strong> — points d'extension Blueprint pour la logique spécifique à chaque mob.</span>
+    </div>
+</div>
+
+<!-- ===== Étape 2 — Abilities du mob ===== -->
+<div class="section-header" id="etape2-abilities">
+    <h2>Étape 2 — Abilities du mob</h2>
+    <span class="section-count">2 / 10 · GAS · AbilitySet</span>
+</div>
+
+<div class="codex-panel">
+    <div class="codex-label">Octroi d'abilities via DataAsset</div>
+    <p>
+        Chaque mob reçoit ses capacités de combat via un <strong style="color:var(--gold);">UHWGameplayAbilitySet</strong>, un DataAsset qui regroupe les abilities d'attaque (ex. <strong style="color:var(--gold);">GA_TestMobAttack</strong>, <strong style="color:var(--gold);">GA_MobFireball</strong>).
+        La méthode <strong style="color:var(--cyan);">GiveToAbilitySystem()</strong> octroie l'ensemble des abilities à l'<strong style="color:var(--cyan);">AbilitySystemComponent</strong> du mob en une seule opération.
+    </p>
+    <p style="margin-bottom:0;">
+        Les statistiques de combat sont portées par le <strong style="color:var(--gold);">CombatAttributeSet</strong> : Health, MaxHealth, Attack, Defense, Strength, etc. Ces attributs sont initialisés par un Gameplay Effect de base appliqué au spawn.
+    </p>
+</div>
+
+<div class="voie-list">
+    <div class="voie-item">
+        <span class="voie-name" style="color:var(--gold);">UHWGameplayAbilitySet</span>
+        <span class="voie-desc">DataAsset conteneur. Regroupe les abilities d'attaque, les effets de gameplay et les attribute sets à octroyer au mob. <strong style="color:var(--cyan);">GiveToAbilitySystem()</strong> les enregistre dans l'ASC.</span>
+        <span class="voie-tag">DataAsset · Grant</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name" style="color:var(--gold);">GA_TestMobAttack</span>
+        <span class="voie-desc">Ability d'attaque de test pour mobs. Attaque de mêlée basique avec détection par trace, consommation de stamina et application de dégâts via le pipeline GAS.</span>
+        <span class="voie-tag">Mêlée · Test</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name" style="color:var(--gold);">GA_MobFireball</span>
+        <span class="voie-desc">Ability de projectile de feu. Lance un <strong style="color:var(--gold);">UHWFakeProjectile</strong> avec tag élémentaire Feu, déclenchant potentiellement des réactions élémentaires sur la cible.</span>
+        <span class="voie-tag">Projectile · Feu</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name" style="color:var(--gold);">UHWCombatAttributeSet</span>
+        <span class="voie-desc">Ensemble d'attributs de combat : Health, MaxHealth, Attack, Defense, Strength, Agility, Constitution, Energy, Stamina, Mana, CritRate, CritDamage. Initialisé au spawn via un GE de base.</span>
+        <span class="voie-tag">Attributs · Stats</span>
+    </div>
+</div>
+
+<!-- ===== Étape 3 — Intelligence artificielle ===== -->
+<div class="section-header" id="etape3-ia">
+    <h2>Étape 3 — Intelligence artificielle</h2>
+    <span class="section-count">3 / 10 · BehaviorTree · Perception</span>
+</div>
+
+<div class="codex-panel cyan-accent">
+    <div class="codex-label">Contrôleur IA et arbre de comportement</div>
+    <p>
+        Le <strong style="color:var(--gold);">AHWAIController</strong> orchestre le comportement du mob via un <strong style="color:var(--cyan);">BehaviorTree</strong> et un <strong style="color:var(--cyan);">Blackboard</strong>.
+        Le système <strong style="color:var(--cyan);">AIPerception</strong> est configuré avec un rayon de vue de 3000 unités (perte à 3500), un champ de vision de 90 degrés et un age maximum de stimuli de 5 secondes.
+    </p>
+    <p style="margin-bottom:0;">
+        La méthode <strong style="color:var(--cyan);">UpdateBlackboardValues()</strong> s'exécute toutes les 0.5 secondes et synchronise les données vitales : santé actuelle, cible, flag de retraite (activé quand Health tombe sous 20% de MaxHealth).
+    </p>
+</div>
+
+<div class="feature-list">
+    <div class="feature-item">
+        <span class="feature-key">Perception</span>
+        <span class="feature-value"><strong style="color:var(--cyan);">SightRadius</strong> = 3000, <strong style="color:var(--cyan);">LoseSightRadius</strong> = 3500, <strong style="color:var(--cyan);">FOV</strong> = 90 degrés, <strong style="color:var(--cyan);">MaxAge</strong> = 5s. Le mob perd sa cible si elle sort du rayon élargi.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">BBKey_TargetActor</span>
+        <span class="feature-value">Référence à l'acteur ciblé. Mise à jour par <strong style="color:var(--cyan);">OnPerceptionUpdated</strong> quand un joueur entre dans le champ de perception.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">BBKey_TargetLocation</span>
+        <span class="feature-value">Dernière position connue de la cible. Sert à l'approche et à la poursuite si le joueur quitte le champ de vision.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">BBKey_Health</span>
+        <span class="feature-value">Points de vie actuels du mob. Permet au BehaviorTree de basculer vers des comportements défensifs sous un certain seuil.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">BBKey_ShouldRetreat</span>
+        <span class="feature-value">Booléen de retraite. Activé quand Health &lt; 20% de MaxHealth. Déclenche le comportement de fuite.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">BBKey_IsInCombat</span>
+        <span class="feature-value">Booléen indiquant si le mob est actuellement engagé en combat. Conditionne la branche principale du BehaviorTree.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">BBKey_PatrolLocation</span>
+        <span class="feature-value">Point de patrouille aléatoire dans le rayon de base. Utilisé par le comportement idle hors combat.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">UpdateBlackboardValues()</span>
+        <span class="feature-value">Exécutée toutes les 0.5s. Met à jour les clés santé, cible et flag de retraite dans le Blackboard.</span>
+    </div>
+</div>
+
+<div class="voie-list">
+    <div class="voie-item">
+        <span class="voie-name" style="color:var(--gold);">BTTask_Abilities</span>
+        <span class="voie-desc">Tâche BT qui active une ability du mob via son ASC. Sélectionne l'ability appropriée en fonction du contexte de combat (distance, cooldowns).</span>
+        <span class="voie-tag">BT Task · Abilities</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name" style="color:var(--gold);">BTTask_FocusTarget</span>
+        <span class="voie-desc">Tâche BT qui oriente le mob vers sa cible. Utilise SetFocus pour maintenir le regard et la rotation vers le joueur ciblé.</span>
+        <span class="voie-tag">BT Task · Focus</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name" style="color:var(--gold);">BTTask_FindPointInRadiusOfHome</span>
+        <span class="voie-desc">Tâche BT de patrouille. Génère un point aléatoire dans un rayon autour de la position d'origine du mob pour la navigation idle.</span>
+        <span class="voie-tag">BT Task · Patrol</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name" style="color:var(--gold);">BTService_CheckHasTag</span>
+        <span class="voie-desc">Service BT vérifiant la présence d'un tag gameplay sur le mob ou sa cible. Conditionne les branches du BehaviorTree (ex. est gelé, est en feu).</span>
+        <span class="voie-tag">BT Service · Tags</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name" style="color:var(--gold);">BTService_CheckDistanceToHome</span>
+        <span class="voie-desc">Service BT mesurant la distance entre le mob et sa position d'origine. Déclenche le retour au point de spawn si le mob s'éloigne trop (leash).</span>
+        <span class="voie-tag">BT Service · Leash</span>
+    </div>
+</div>
+
+<!-- ===== Étape 4 — Placer un MobSpawner ===== -->
+<div class="section-header" id="etape4-spawner">
+    <h2>Étape 4 — Placer un MobSpawner dans le niveau</h2>
+    <span class="section-count">4 / 10 · Spawner · Détection</span>
+</div>
+
+<div class="codex-panel">
+    <div class="codex-label">Configuration du spawner en monde ouvert</div>
+    <p>
+        Le <strong style="color:var(--gold);">AMobSpawner</strong> est un acteur placé dans le niveau par le level designer. Il contient une <strong style="color:var(--cyan);">DetectionSphere</strong> (<strong style="color:var(--gold);">USphereComponent</strong>, rayon 500 unités) qui déclenche l'apparition des mobs quand un joueur entre dans la zone.
+    </p>
+    <p style="margin-bottom:0;">
+        Le spawner référence un <strong style="color:var(--cyan);">MobPoolManager</strong> pour l'optimisation du recyclage d'acteurs. La collision est configurée en <strong style="color:var(--cyan);">QueryOnly</strong> avec overlap sur le canal Pawn.
+    </p>
+</div>
+
+<div class="feature-list">
+    <div class="feature-item">
+        <span class="feature-key">DetectionSphere</span>
+        <span class="feature-value"><strong style="color:var(--gold);">USphereComponent</strong> avec un rayon de 500 unités. Détecte l'entrée des joueurs pour déclencher le spawn.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">MobToSpawnClass</span>
+        <span class="feature-value">Classe du Blueprint mob à instancier. Référence au <strong style="color:var(--gold);">AHWGASMobCharacter</strong> configuré à l'étape 1.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">MobLevelSpawner</span>
+        <span class="feature-value">Niveau attribué aux mobs de ce spawner. Détermine les attributs de combat, les dégâts et le butin des mobs générés.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">MobNumber</span>
+        <span class="feature-value">Nombre maximum de mobs actifs simultanément pour ce spawner. Le respawn ne dépasse jamais ce plafond.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">RespawnDelay</span>
+        <span class="feature-value">Délai avant réapparition d'un mob après sa mort. Défaut : 5.0 secondes.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">PlayerCheckInterval</span>
+        <span class="feature-value">Intervalle de vérification de la présence joueur dans la zone. Défaut : 1.0 seconde.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">MobPoolManager</span>
+        <span class="feature-value">Référence au <strong style="color:var(--gold);">AMobPoolManager</strong> pour le recyclage d'acteurs. Évite les créations/destructions coûteuses.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">Collision</span>
+        <span class="feature-value"><strong style="color:var(--cyan);">QueryOnly</strong>, overlap sur le canal <strong style="color:var(--cyan);">Pawn</strong>. La sphère ne bloque pas les mouvements, elle détecte uniquement les chevauchements.</span>
+    </div>
+</div>
+
+<!-- ===== Étape 5 — Pool d'objets ===== -->
+<div class="section-header" id="etape5-pool">
+    <h2>Étape 5 — Pool d'objets (AMobPoolManager)</h2>
+    <span class="section-count">5 / 10 · Pooling · Performance</span>
+</div>
+
+<div class="codex-panel cyan-accent">
+    <div class="codex-label">Recyclage d'acteurs pour la performance</div>
+    <p>
+        Le <strong style="color:var(--gold);">AMobPoolManager</strong> pré-instancie un nombre configurable de mobs (<strong style="color:var(--cyan);">InitialPoolSize</strong> = 50 par défaut) au <strong style="color:var(--cyan);">BeginPlay</strong>.
+        Les mobs sont créés désactivés et stockés dans un tableau <strong style="color:var(--cyan);">MobPool</strong>.
+    </p>
+    <p style="margin-bottom:0;">
+        Au lieu de détruire et recréer des acteurs, le pool les active et les désactive, ce qui élimine les coûts d'allocation mémoire et de construction en temps réel.
+    </p>
+</div>
+
+<div class="voie-list">
+    <div class="voie-item">
+        <span class="voie-name" style="color:var(--gold);">InitializePool()</span>
+        <span class="voie-desc">Appelée au <strong style="color:var(--cyan);">BeginPlay</strong>. Pré-spawne <strong style="color:var(--cyan);">InitialPoolSize</strong> mobs de la classe <strong style="color:var(--gold);">MobClass</strong>, tous désactivés (collision off, tick off, hidden).</span>
+        <span class="voie-tag">Init · BeginPlay</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name" style="color:var(--gold);">GetPooledMob()</span>
+        <span class="voie-desc">Retourne le premier mob désactivé du pool. Si le pool est épuisé, spawne dynamiquement un nouveau mob et l'ajoute au tableau.</span>
+        <span class="voie-tag">Get · Fallback</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name" style="color:var(--gold);">ActivateMob()</span>
+        <span class="voie-desc"><strong style="color:var(--cyan);">SetActorLocation</strong> vers la position du spawner, réactive collision, tick et visibilité, réactive les sens IA, puis appelle <strong style="color:var(--gold);">InitializeMob()</strong> (BlueprintImplementableEvent).</span>
+        <span class="voie-tag">Activate · Enable</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name" style="color:var(--gold);">DeactivateMob()</span>
+        <span class="voie-desc">Désactive collision, tick, visibilité. Passe l'IA en mode <strong style="color:var(--cyan);">Dormant</strong>. Appelle <strong style="color:var(--gold);">ResetMob()</strong> pour remettre le mob à son état initial dans le pool.</span>
+        <span class="voie-tag">Deactivate · Dormant</span>
+    </div>
+</div>
+
+<!-- ===== Étape 6 — Détection du joueur ===== -->
+<div class="section-header" id="etape6-detection">
+    <h2>Étape 6 — Détection du joueur</h2>
+    <span class="section-count">6 / 10 · Spawn dynamique · Possession</span>
+</div>
+
+<div class="codex-panel">
+    <div class="codex-label">Du overlap au combat actif</div>
+    <p>
+        Quand un joueur entre dans la <strong style="color:var(--cyan);">DetectionSphere</strong> du spawner, l'événement <strong style="color:var(--cyan);">OnPlayerEnterSphere</strong> démarre un timer (<strong style="color:var(--cyan);">PlayerCheckTimer</strong>) qui appelle périodiquement <strong style="color:var(--gold);">ActivateMob_Implementation()</strong>.
+    </p>
+    <p style="margin-bottom:0;">
+        Les mobs sont tirés du pool et positionnés autour du spawner avec une variance de +/- 200 unités.
+        L'<strong style="color:var(--gold);">AHWAIController</strong> possède le mob via <strong style="color:var(--cyan);">OnPossess()</strong>, lance le <strong style="color:var(--cyan);">BehaviorTree</strong> et configure la perception.
+        Dès qu'un joueur est perçu, <strong style="color:var(--cyan);">OnPerceptionUpdated</strong> met à jour le Blackboard et fait entrer le mob en combat.
+    </p>
+</div>
+
+<div class="feature-list">
+    <div class="feature-item">
+        <span class="feature-key">OnPlayerEnterSphere</span>
+        <span class="feature-value">Callback de l'overlap. Démarre le <strong style="color:var(--cyan);">PlayerCheckTimer</strong> qui vérifie périodiquement si des mobs doivent être activés.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">ActivateMob_Implementation()</span>
+        <span class="feature-value">Tire un mob du pool, le positionne près du spawner (variance +/- 200 unités), et lance la séquence de possession IA.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">OnPossess()</span>
+        <span class="feature-value">Le contrôleur IA possède le mob. Lance <strong style="color:var(--cyan);">RunBehaviorTree</strong> et configure le composant <strong style="color:var(--cyan);">AIPerception</strong> pour la détection sensorielle.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">OnPerceptionUpdated</span>
+        <span class="feature-value">Si un joueur est perçu : affecte <strong style="color:var(--cyan);">BBKey_TargetActor</strong>, met à jour le Blackboard, passe <strong style="color:var(--cyan);">BBKey_IsInCombat</strong> à true. Le mob engage le combat.</span>
+    </div>
+</div>
+
+<!-- ===== Étape 7 — Décisions de combat ===== -->
+<div class="section-header" id="etape7-combat">
+    <h2>Étape 7 — Décisions de combat</h2>
+    <span class="section-count">7 / 10 · Tactique · BehaviorTree</span>
+</div>
+
+<div class="codex-panel cyan-accent">
+    <div class="codex-label">Évaluation tactique et commandes</div>
+    <p>
+        Le fallback <strong style="color:var(--gold);">EvaluateCombatSituation()</strong> prend des décisions simples : si Health &lt; 30% alors Retreat, si distance a la cible inferieure ou egale a 300 unités alors Attack, sinon Dodge.
+        Le <strong style="color:var(--cyan);">BehaviorTree</strong> affine ces décisions en vérifiant <strong style="color:var(--cyan);">BBKey_IsInCombat</strong>, <strong style="color:var(--cyan);">BBKey_ShouldRetreat</strong> et la distance à la cible.
+    </p>
+    <p style="margin-bottom:0;">
+        Trois commandes principales contrôlent les actions du mob en combat.
+    </p>
+</div>
+
+<div class="voie-list">
+    <div class="voie-item">
+        <span class="voie-name" style="color:var(--gold);">EvaluateCombatSituation()</span>
+        <span class="voie-desc">Logique de fallback : Health &lt; 30% = Retreat, distance &le; 300 = Attack, sinon = Dodge. Fournit une base décisionnelle simple que le BehaviorTree peut supplanter.</span>
+        <span class="voie-tag">Fallback · Décision</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name" style="color:var(--gold);">CommandAttack()</span>
+        <span class="voie-desc">Ordonne au mob d'attaquer. Appelle <strong style="color:var(--gold);">ControlledCharacter->Attack()</strong> (BlueprintImplementableEvent) qui déclenche l'activation d'une ability via l'ASC.</span>
+        <span class="voie-tag">Attaque · Ability</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name" style="color:var(--gold);">CommandDodge()</span>
+        <span class="voie-desc">Ordonne au mob d'esquiver. Appelle <strong style="color:var(--gold);">ControlledCharacter->Dodge()</strong> pour activer l'ability d'esquive avec invincibility frames.</span>
+        <span class="voie-tag">Esquive · iFrames</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name" style="color:var(--gold);">CommandRetreat()</span>
+        <span class="voie-desc">Ordonne au mob de fuir. <strong style="color:var(--cyan);">MoveToPosition</strong> vers un point situé à 500 unités du joueur, dans la direction opposée.</span>
+        <span class="voie-tag">Retraite · 500u</span>
+    </div>
+</div>
+
+<!-- ===== Étape 8 — Dégâts et réactions élémentaires ===== -->
+<div class="section-header" id="etape8-degats">
+    <h2>Étape 8 — Dégâts et réactions élémentaires</h2>
+    <span class="section-count">8 / 10 · Pipeline · 7 réactions</span>
+</div>
+
+<div class="codex-panel">
+    <div class="codex-label">Pipeline de dégâts et interactions entre éléments</div>
+    <p>
+        Les dégâts transitent par le <strong style="color:var(--gold);">UHWCombatAttributeSet</strong> : l'attribut transitoire <strong style="color:var(--cyan);">Damage</strong> sert de valeur intermédiaire avant application sur Health.
+        Quand un élément frappe une cible déjà affectée par un autre élément, <strong style="color:var(--gold);">UHWElementalReactionSystem::CheckReaction()</strong> évalue la combinaison et applique la réaction résultante.
+    </p>
+    <p style="margin-bottom:0;">
+        Le <strong style="color:var(--gold);">AHWGameMode</strong> fournit les Gameplay Effects élémentaires de base : <strong style="color:var(--cyan);">ApplyColdGE</strong>, <strong style="color:var(--cyan);">ApplyBurningGE</strong>, <strong style="color:var(--cyan);">ApplyWetGE</strong>, <strong style="color:var(--cyan);">ApplyElectrifiedGE</strong>, <strong style="color:var(--cyan);">ApplyFrozenGE</strong>, <strong style="color:var(--cyan);">ApplyChargedGE</strong>.
+    </p>
+</div>
+
+<div class="voie-list">
+    <div class="voie-item">
+        <span class="voie-name">Vaporize</span>
+        <span class="voie-desc"><strong style="color:var(--cyan);">Fire + Wet</strong> — multiplicateur de dégâts x1.5. Réaction offensive directe et puissante.</span>
+        <span class="voie-tag">Feu + Eau · x1.5</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name">Melt</span>
+        <span class="voie-desc"><strong style="color:var(--cyan);">Fire + Frozen</strong> — multiplicateur de dégâts x1.3. Fond l'état gelé et inflige des dégâts bonus thermiques.</span>
+        <span class="voie-tag">Feu + Gel · x1.3</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name">Freeze</span>
+        <span class="voie-desc"><strong style="color:var(--cyan);">Ice + Wet</strong> — gèle la cible sur place. Vulnérable au Shatter pendant la durée du gel.</span>
+        <span class="voie-tag">Glace + Eau · CC</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name">ElectroCharge</span>
+        <span class="voie-desc"><strong style="color:var(--cyan);">Lightning + Wet</strong> — dégâts de foudre périodiques, multiplicateur x1.2. Se propage aux ennemis mouillés à proximité.</span>
+        <span class="voie-tag">Foudre + Eau · x1.2</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name">Overload</span>
+        <span class="voie-desc"><strong style="color:var(--cyan);">Fire + Charged</strong> — explosion AoE, multiplicateur x1.5. Repousse les ennemis dans la zone d'effet.</span>
+        <span class="voie-tag">Feu + Chargé · x1.5 AoE</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name">Superconduct</span>
+        <span class="voie-desc"><strong style="color:var(--cyan);">Ice + Charged</strong> — réduit la défense physique de la cible pendant une durée prolongée. Prépare les frappes lourdes.</span>
+        <span class="voie-tag">Glace + Chargé · Déf ↓</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name">Shatter</span>
+        <span class="voie-desc"><strong style="color:var(--cyan);">Physical + Frozen</strong> — brise la glace, multiplicateur x2.0. Dégâts massifs proportionnels à la défense de la cible gelée.</span>
+        <span class="voie-tag">Physique + Gel · x2.0</span>
+    </div>
+</div>
+
+<!-- ===== Étape 9 — Mort, loot et respawn ===== -->
+<div class="section-header" id="etape9-mort">
+    <h2>Étape 9 — Mort, loot et respawn</h2>
+    <span class="section-count">9 / 10 · Loot · Recyclage</span>
+</div>
+
+<div class="codex-panel cyan-accent">
+    <div class="codex-label">Cycle de vie complet du mob</div>
+    <p>
+        Quand Health atteint 0, <strong style="color:var(--gold);">MobDead()</strong> est appelée. La <strong style="color:var(--gold);">LootTable</strong> effectue un jet de butin via <strong style="color:var(--cyan);">RollLoot(MobLevel, 1.0f)</strong>, puis le mob notifie son spawner d'origine via <strong style="color:var(--cyan);">DeactivateSpecificMob</strong>.
+    </p>
+    <p style="margin-bottom:0;">
+        Le spawner retire le mob de sa liste <strong style="color:var(--cyan);">SpawnedMobs</strong>, le pool manager le désactive et le remet en attente, puis le <strong style="color:var(--cyan);">RespawnTimer</strong> démarre.
+        À expiration, <strong style="color:var(--gold);">RespawnMob()</strong> vérifie si des joueurs sont encore dans la zone via <strong style="color:var(--cyan);">ArePlayersInZone()</strong> et réactive un mob du pool si <strong style="color:var(--cyan);">ActiveMobsCount</strong> est inférieur à <strong style="color:var(--cyan);">MobNumber</strong>.
+    </p>
+</div>
+
+<div class="feature-list">
+    <div class="feature-item">
+        <span class="feature-key">MobDead()</span>
+        <span class="feature-value">Appelée quand Health = 0. Exécute <strong style="color:var(--cyan);">LootTable->RollLoot(MobLevel, 1.0f)</strong> pour générer le butin, puis notifie le spawner propriétaire.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">DeactivateSpecificMob</span>
+        <span class="feature-value">Le spawner retire le mob de <strong style="color:var(--cyan);">SpawnedMobs</strong>. Le pool manager appelle <strong style="color:var(--gold);">DeactivateMob()</strong> pour recycler l'acteur.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">RespawnTimer</span>
+        <span class="feature-value">Timer démarré après la mort d'un mob. Durée configurable via <strong style="color:var(--cyan);">RespawnDelay</strong> (défaut 5.0s).</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">RespawnMob()</span>
+        <span class="feature-value">Vérifie <strong style="color:var(--cyan);">ArePlayersInZone()</strong> et que <strong style="color:var(--cyan);">ActiveMobsCount &lt; MobNumber</strong>. Si les conditions sont remplies, réactive un mob du pool.</span>
+    </div>
+</div>
+
+<!-- ===== Étape 10 — Nameplate UI ===== -->
+<div class="section-header" id="etape10-nameplate">
+    <h2>Étape 10 — Nameplate UI</h2>
+    <span class="section-count">10 / 10 · Widget · Icônes d'état</span>
+</div>
+
+<div class="codex-panel">
+    <div class="codex-label">Barre de vie et icônes de conditions</div>
+    <p>
+        Le composant <strong style="color:var(--gold);">UHWMobNameplateWidgetComponent</strong> (dérivé de <strong style="color:var(--cyan);">UWidgetComponent</strong>) est attaché à la racine du mob et affiche la barre de vie ainsi que les icônes de conditions actives.
+    </p>
+    <p style="margin-bottom:0;">
+        Le widget <strong style="color:var(--gold);">UHWMobNameplateWidget</strong> maintient une référence à son <strong style="color:var(--cyan);">OwningHWGASCharacter</strong> et utilise un <strong style="color:var(--cyan);">CombatStateTileView</strong> pour afficher les icônes d'état (brûlure, gel, électrocution, etc.).
+        La méthode <strong style="color:var(--gold);">RefreshSource()</strong> est appelée automatiquement à chaque changement de tag d'état de combat.
+        Les icônes sont définies dans une <strong style="color:var(--cyan);">DataTable</strong> (<strong style="color:var(--gold);">CombatStateIcons</strong>) qui mappe chaque tag à son icône UI.
+    </p>
+</div>
+
+<div class="voie-list">
+    <div class="voie-item">
+        <span class="voie-name" style="color:var(--gold);">UHWMobNameplateWidgetComponent</span>
+        <span class="voie-desc">Dérivé de <strong style="color:var(--cyan);">UWidgetComponent</strong>, attaché à la racine du mob. Gère l'affichage et l'orientation face caméra de la nameplate.</span>
+        <span class="voie-tag">Widget · Component</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name" style="color:var(--gold);">UHWMobNameplateWidget</span>
+        <span class="voie-desc">Widget UMG affichant la barre de vie, le nom du mob et le <strong style="color:var(--cyan);">CombatStateTileView</strong> pour les icônes de conditions élémentaires actives.</span>
+        <span class="voie-tag">UMG · Nameplate</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name" style="color:var(--gold);">RefreshSource()</span>
+        <span class="voie-desc">Appelée sur changement de tag d'état de combat. Met à jour les icônes du <strong style="color:var(--cyan);">CombatStateTileView</strong> en fonction des conditions actives sur le mob.</span>
+        <span class="voie-tag">Refresh · Tags</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name" style="color:var(--gold);">CombatStateIcons</span>
+        <span class="voie-desc"><strong style="color:var(--cyan);">DataTable</strong> mappant chaque tag de condition (Burning, Frozen, Wet, Electrified, etc.) à son icône UI correspondante.</span>
+        <span class="voie-tag">DataTable · Icons</span>
+    </div>
+</div>
+
+<!-- ===== Diagramme de flux ===== -->
+<div class="section-header" id="flux-complet">
+    <h2>Flux complet : de l'éditeur au combat</h2>
+    <span class="section-count">Diagramme récapitulatif</span>
+</div>
+
+<div class="codex-panel cyan-accent">
+    <div class="codex-label">Pipeline Mob — Vue d'ensemble</div>
+    <pre style="
+        font-family: 'Fira Code', 'Courier New', monospace;
+        font-size: 0.82rem;
+        line-height: 1.6;
+        color: var(--text);
+        overflow-x: auto;
+        margin: 0;
+        white-space: pre;
+    ">
+  Blueprint Mob                    AbilitySet                   AI Controller
+  (AHWGASMobCharacter)             (UHWGameplayAbilitySet)      (AHWAIController)
+        |                                |                            |
+        v                                v                            v
+  +-----------+    GiveToAbilitySystem  +----------+    OnPossess    +-----------+
+  | Mesh      |----------------------->| ASC      |<----------------| BT + BB   |
+  | Anims     |    abilities, GE,      | Combat   |   RunBehavior  | Perception|
+  | MobTag    |    attributes          | Attrs    |   Tree         | Senses    |
+  | LootTable |                        +----------+                +-----------+
+  +-----------+                              |                           |
+        |                                    |                           |
+        v                                    v                           v
+  +-----------+                        +-----------+              +-----------+
+  | MobSpawner|---GetPooledMob()------>| MobPool   |              | Evaluate  |
+  | Detection |    ActivateMob()       | Manager   |              | Combat    |
+  | Sphere    |    position + enable   | (50 mobs) |              | Situation |
+  +-----------+                        +-----------+              +-----------+
+        |                                    |                      |    |    |
+        |         OnPlayerEnterSphere        |                Attack  Dodge  Retreat
+        |-------->PlayerCheckTimer---------->|                      |    |    |
+                                             |                      v    v    v
+                                             |              +------------------+
+                                             |              | Ability Activation|
+                                             |              | Damage Pipeline   |
+                                             |              | Elemental Reaction|
+                                             |              +------------------+
+                                             |                       |
+                                             |            MobDead() + RollLoot()
+                                             |                       |
+                                             |<---DeactivateMob()----+
+                                             |                       |
+                                             |    RespawnTimer       v
+                                             |---RespawnMob()----->[Loot Drop]
+    </pre>
+</div>

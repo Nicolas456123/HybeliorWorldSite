@@ -1,0 +1,537 @@
+<!-- ===== Pipeline Quête : Du design à la complétion ===== -->
+
+<!-- ===== Étape 1 — Créer un UHWQuestData ===== -->
+<div class="section-header" id="etape1-questdata">
+    <h2>Étape 1 — Créer un UHWQuestData</h2>
+    <span class="section-count">UPrimaryDataAsset · FHWQuestObjective · FHWQuestReward</span>
+</div>
+
+<div class="codex-panel cyan-accent">
+    <div class="codex-label">Toute quête commence par un DataAsset décrivant ses objectifs, récompenses et conditions</div>
+    <p>
+        <strong style="color:var(--cyan);">UHWQuestData</strong> est un <strong style="color:var(--gold);">UPrimaryDataAsset</strong> qui centralise la définition complète d'une quête.
+        Il contient l'identifiant, le type, les objectifs à remplir, les récompenses à distribuer, ainsi que les liens vers les quêtes prérequises et les dialogues associés.
+    </p>
+    <p style="margin-bottom:0;">
+        Le type de quête est déterminé par l'enum <strong style="color:var(--cyan);">EHWQuestType</strong> qui conditionne le classement dans le journal et le comportement de répétition.
+    </p>
+</div>
+
+<div class="feature-list">
+    <div class="feature-item">
+        <span class="feature-key">QuestID</span>
+        <span class="feature-value"><strong style="color:var(--cyan);">FGameplayTag</strong> — Identifiant unique de la quête, référencé par tous les systèmes (dialogue, progression, PNJ).</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">QuestName / QuestDescription</span>
+        <span class="feature-value"><strong style="color:var(--cyan);">FText</strong> — Nom et description affichés dans le journal de quêtes et le tracker UI.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">QuestType</span>
+        <span class="feature-value"><strong style="color:var(--cyan);">EHWQuestType</strong> — <strong style="color:var(--gold);">MainStory</strong>, <strong style="color:var(--gold);">Side</strong>, <strong style="color:var(--gold);">Daily</strong>, <strong style="color:var(--gold);">Weekly</strong>, <strong style="color:var(--gold);">Hidden</strong>, <strong style="color:var(--gold);">Chain</strong>.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">RecommendedLevel</span>
+        <span class="feature-value">Niveau recommandé pour entreprendre la quête — affiché dans le journal et utilisé pour le filtrage.</span>
+    </div>
+</div>
+
+<div class="lore-block">
+    <div class="lore-block-title">— Structure FHWQuestObjective —</div>
+    <p>
+        <strong style="color:var(--gold);">Description</strong> — Texte décrivant l'objectif affiché au joueur.
+        <strong style="color:var(--gold);">ConditionType</strong> — <strong style="color:var(--cyan);">EHWConditionType</strong>, type de condition à vérifier (tuer, collecter, explorer, interagir, etc.).
+        <strong style="color:var(--gold);">SubjectTag</strong> — <strong style="color:var(--cyan);">FGameplayTag</strong> identifiant la cible de l'objectif (type de monstre, objet, zone).
+    </p>
+    <p style="margin-bottom:0;">
+        <strong style="color:var(--gold);">TargetValue</strong> — Quantité requise pour compléter l'objectif.
+        <strong style="color:var(--gold);">Visibility</strong> — Détermine si l'objectif est visible dès le départ ou révélé progressivement.
+        <strong style="color:var(--gold);">RequiredLocation</strong> — Zone optionnelle où l'objectif doit être accompli.
+        <strong style="color:var(--gold);">CurrentProgress</strong> — Progression actuelle, mise à jour en temps réel.
+    </p>
+</div>
+
+<div class="lore-block">
+    <div class="lore-block-title">— Structure FHWQuestReward —</div>
+    <p>
+        <strong style="color:var(--gold);">ExperienceReward</strong> — Points d'expérience accordés à la complétion.
+        <strong style="color:var(--gold);">GoldReward</strong> — Monnaie accordée au joueur.
+        <strong style="color:var(--gold);">ItemRewards</strong> — <strong style="color:var(--cyan);">TMap&lt;FGameplayTag, int32&gt;</strong>, objets et quantités distribués.
+    </p>
+    <p style="margin-bottom:0;">
+        <strong style="color:var(--gold);">UnlockReward</strong> — <strong style="color:var(--cyan);">FGameplayTag</strong> débloquant une capacité, un titre ou un accès via le système de progression.
+        <strong style="color:var(--gold);">ReputationRewards</strong> — <strong style="color:var(--cyan);">TMap&lt;FGameplayTag, float&gt;</strong>, gains de réputation par faction.
+    </p>
+</div>
+
+<div class="feature-list">
+    <div class="feature-item">
+        <span class="feature-key">PrerequisiteQuests</span>
+        <span class="feature-value"><strong style="color:var(--cyan);">TArray&lt;FGameplayTag&gt;</strong> — Quêtes devant être complétées avant que celle-ci soit accessible.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">NextQuestInChain</span>
+        <span class="feature-value"><strong style="color:var(--cyan);">FGameplayTag</strong> — Quête suivante découverte automatiquement à la complétion (chaînes de quêtes).</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">QuestGiverTag</span>
+        <span class="feature-value"><strong style="color:var(--cyan);">FGameplayTag</strong> — Identifiant du PNJ qui donne la quête, utilisé par le système d'indicateurs.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">AcceptDialogueID / CompleteDialogueID</span>
+        <span class="feature-value"><strong style="color:var(--cyan);">FGameplayTag</strong> — Dialogues joués lors de l'acceptation et de la remise de la quête.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">TimeLimitSeconds</span>
+        <span class="feature-value">Durée limite optionnelle en secondes — la quête échoue si le temps est dépassé (0 = pas de limite).</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">bRepeatable</span>
+        <span class="feature-value">Booléen indiquant si la quête peut être acceptée à nouveau après complétion ou abandon.</span>
+    </div>
+</div>
+
+<!-- ===== Étape 2 — Assigner à un PNJ ===== -->
+<div class="section-header" id="etape2-assignation">
+    <h2>Étape 2 — Assigner la quête à un PNJ</h2>
+    <span class="section-count">UHWNPCComponent · AvailableQuests · Indicateurs</span>
+</div>
+
+<div class="codex-panel cyan-accent">
+    <div class="codex-label">Le PNJ référence les quêtes qu'il peut proposer via son composant</div>
+    <p>
+        Le tableau <strong style="color:var(--cyan);">UHWNPCComponent::AvailableQuests</strong> contient un <strong style="color:var(--cyan);">TArray&lt;FGameplayTag&gt;</strong> listant les <strong style="color:var(--gold);">QuestID</strong> des quêtes que ce PNJ peut proposer.
+        Le système vérifie dynamiquement quelles quêtes sont éligibles pour chaque joueur qui interagit.
+    </p>
+</div>
+
+<div class="feature-list">
+    <div class="feature-item">
+        <span class="feature-key">HasQuestForPlayer()</span>
+        <span class="feature-value">Vérifie si le PNJ possède au moins une quête non encore complétée pour le joueur — détermine l'affichage de l'indicateur.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">GetNPCIndicator()</span>
+        <span class="feature-value">Retourne un <strong style="color:var(--cyan);">FGameplayTag</strong> parmi <strong style="color:var(--gold);">QuestAvailable</strong>, <strong style="color:var(--gold);">QuestInProgress</strong> ou <strong style="color:var(--gold);">QuestComplete</strong>.</span>
+    </div>
+</div>
+
+<div class="voie-list" style="margin-bottom: 44px;">
+    <div class="voie-item">
+        <span class="voie-name">NPC.Indicator.QuestAvailable</span>
+        <span class="voie-desc">Le PNJ a une nouvelle quête — affiche un <strong style="color:var(--gold);">!</strong> au-dessus de sa tête.</span>
+        <span class="voie-tag">! · Nouvelle quête</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name">NPC.Indicator.QuestInProgress</span>
+        <span class="voie-desc">Une quête est en cours mais les objectifs ne sont pas remplis — affiche un <strong style="color:var(--gold);">?</strong> grisé.</span>
+        <span class="voie-tag">? · En cours</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name">NPC.Indicator.QuestComplete</span>
+        <span class="voie-desc">Tous les objectifs sont remplis — affiche un <strong style="color:var(--gold);">? doré</strong>, le joueur peut rendre la quête.</span>
+        <span class="voie-tag">? doré · Complétion</span>
+    </div>
+</div>
+
+<!-- ===== Étape 3 — Découverte ===== -->
+<div class="section-header" id="etape3-decouverte">
+    <h2>Étape 3 — Découverte de la quête</h2>
+    <span class="section-count">DiscoverQuest · AssetManager · QuestDataCache</span>
+</div>
+
+<div class="codex-panel">
+    <div class="codex-label">La quête est chargée en mémoire et passe en statut Discovered</div>
+    <p>
+        <strong style="color:var(--cyan);">DiscoverQuest(QuestID)</strong> charge le <strong style="color:var(--cyan);">UHWQuestData</strong> correspondant via l'<strong style="color:var(--cyan);">AssetManager</strong> et le met en cache dans un <strong style="color:var(--cyan);">TMap</strong> nommé <strong style="color:var(--gold);">QuestDataCache</strong> pour éviter les chargements redondants.
+    </p>
+    <p style="margin-bottom:0;">
+        Le statut de la quête passe à <strong style="color:var(--gold);">Discovered</strong> et le delegate <strong style="color:var(--gold);">OnQuestDiscovered</strong> est broadcast pour notifier l'UI et les autres systèmes.
+    </p>
+</div>
+
+<div class="voie-list" style="margin-bottom: 44px;">
+    <div class="voie-item">
+        <span class="voie-name">EHWQuestStatus::Unknown</span>
+        <span class="voie-desc">État initial — la quête n'a jamais été rencontrée par le joueur.</span>
+        <span class="voie-tag">Défaut</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name">EHWQuestStatus::Discovered</span>
+        <span class="voie-desc">La quête a été révélée (via PNJ, exploration ou chaîne) mais pas encore acceptée.</span>
+        <span class="voie-tag">Découverte</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name">EHWQuestStatus::Active</span>
+        <span class="voie-desc">La quête est acceptée et en cours — les objectifs sont suivis activement.</span>
+        <span class="voie-tag">En cours</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name">EHWQuestStatus::Completed</span>
+        <span class="voie-desc">Tous les objectifs ont été remplis et les récompenses distribuées.</span>
+        <span class="voie-tag">Terminée</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name">EHWQuestStatus::Failed</span>
+        <span class="voie-desc">La quête a échoué (temps écoulé, condition non remplie).</span>
+        <span class="voie-tag">Échec</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name">EHWQuestStatus::Abandoned</span>
+        <span class="voie-desc">Le joueur a volontairement abandonné la quête — peut la reprendre si <strong style="color:var(--gold);">bRepeatable</strong>.</span>
+        <span class="voie-tag">Abandonné</span>
+    </div>
+</div>
+
+<!-- ===== Étape 4 — Acceptation ===== -->
+<div class="section-header" id="etape4-acceptation">
+    <h2>Étape 4 — Acceptation de la quête</h2>
+    <span class="section-count">AcceptQuest · Prérequis · Réplication</span>
+</div>
+
+<div class="codex-panel cyan-accent">
+    <div class="codex-label">L'acceptation passe par le dialogue et valide toutes les conditions</div>
+    <p>
+        Le joueur accepte la quête via un choix de dialogue portant l'<strong style="color:var(--gold);">ActionTag = "Action.AcceptQuest"</strong> avec le <strong style="color:var(--gold);">ActionParameter</strong> contenant le <strong style="color:var(--cyan);">QuestID</strong>.
+        <strong style="color:var(--cyan);">AHWPlayerController::HandleDialogueAction()</strong> reçoit l'action et la route vers <strong style="color:var(--cyan);">QuestComp-&gt;AcceptQuest(QuestID)</strong>.
+    </p>
+</div>
+
+<div class="feature-list">
+    <div class="feature-item">
+        <span class="feature-key">AcceptQuest(QuestID)</span>
+        <span class="feature-value">Point d'entrée principal — valide que la quête est connue, vérifie <strong style="color:var(--cyan);">ArePrerequisitesMet()</strong>, puis passe le statut à <strong style="color:var(--gold);">Active</strong>.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">ArePrerequisitesMet()</span>
+        <span class="feature-value">Itère sur <strong style="color:var(--gold);">PrerequisiteQuests</strong> et vérifie que chaque quête prérequise est au statut <strong style="color:var(--gold);">Completed</strong>.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">MakeObjectiveKey</span>
+        <span class="feature-value">Génère la clé de progression au format <strong style="color:var(--gold);">"{QuestID}_{ObjectiveIndex}"</strong> — utilisée dans les <strong style="color:var(--cyan);">TMap</strong> répliqués.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">Rep_QuestStatuses / Rep_QuestProgress</span>
+        <span class="feature-value">Tableaux répliqués synchronisant les statuts et la progression des quêtes entre serveur et client.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">OnQuestAccepted</span>
+        <span class="feature-value">Delegate broadcast après acceptation — notifie le tracker UI, le journal de quêtes et le système d'indicateurs PNJ.</span>
+    </div>
+</div>
+
+<!-- ===== Étape 5 — Suivi de progression ===== -->
+<div class="section-header" id="etape5-progression">
+    <h2>Étape 5 — Suivi de la progression</h2>
+    <span class="section-count">UpdateQuestProgress · ConditionType · SubjectTag</span>
+</div>
+
+<div class="codex-panel">
+    <div class="codex-label">Chaque action du joueur est évaluée contre les objectifs actifs</div>
+    <p>
+        <strong style="color:var(--cyan);">UpdateQuestProgress(ConditionType, SubjectTag, Amount)</strong> est appelé par les systèmes de jeu (combat, collecte, exploration) chaque fois qu'une action pertinente se produit.
+        La méthode itère sur toutes les quêtes actives et compare le <strong style="color:var(--cyan);">ConditionType</strong> et le <strong style="color:var(--cyan);">SubjectTag</strong> de chaque objectif.
+    </p>
+    <p style="margin-bottom:0;">
+        Lorsqu'une correspondance est trouvée, la progression est incrémentée (clampée entre 0 et <strong style="color:var(--gold);">TargetValue</strong>), synchronisée dans les tableaux répliqués, et le delegate <strong style="color:var(--gold);">OnQuestObjectiveUpdated</strong> est broadcast.
+    </p>
+</div>
+
+<div class="feature-list">
+    <div class="feature-item">
+        <span class="feature-key">UpdateQuestProgress()</span>
+        <span class="feature-value">Itère sur les quêtes actives, matche les objectifs par <strong style="color:var(--cyan);">ConditionType</strong> + <strong style="color:var(--cyan);">SubjectTag</strong>, incrémente la progression.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">Clamp progression</span>
+        <span class="feature-value">La valeur <strong style="color:var(--gold);">CurrentProgress</strong> est toujours clampée entre 0 et <strong style="color:var(--gold);">TargetValue</strong> — pas de dépassement possible.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">OnQuestObjectiveUpdated</span>
+        <span class="feature-value">Delegate broadcast avec <strong style="color:var(--gold);">QuestID</strong>, <strong style="color:var(--gold);">ObjectiveIndex</strong> et <strong style="color:var(--gold);">Progress</strong> — le tracker UI se met à jour en temps réel.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">CheckQuestCompletion(QuestID)</span>
+        <span class="feature-value">Appelé automatiquement après chaque mise à jour — vérifie si tous les objectifs sont remplis.</span>
+    </div>
+</div>
+
+<!-- ===== Étape 6 — Complétion et récompenses ===== -->
+<div class="section-header" id="etape6-completion">
+    <h2>Étape 6 — Complétion et récompenses</h2>
+    <span class="section-count">CheckQuestCompletion · ApplyQuestRewards · Chaînes</span>
+</div>
+
+<div class="codex-panel cyan-accent">
+    <div class="codex-label">La complétion déclenche les récompenses et peut initier la quête suivante</div>
+    <p>
+        <strong style="color:var(--cyan);">CheckQuestCompletion(QuestID)</strong> vérifie que chaque objectif a <strong style="color:var(--gold);">CurrentProgress &gt;= TargetValue</strong>.
+        Si tous les objectifs sont remplis, le statut passe à <strong style="color:var(--gold);">Completed</strong> et <strong style="color:var(--cyan);">ApplyQuestRewards()</strong> distribue expérience, or, objets, déblocages et réputation.
+    </p>
+    <p style="margin-bottom:0;">
+        La complétion signale également le système de progression via <strong style="color:var(--cyan);">ProgressionComp-&gt;IncrementProgress(<strong style="color:var(--gold);">QuestCompleted</strong>, QuestID, 1.0)</strong>.
+        Si <strong style="color:var(--gold);">NextQuestInChain</strong> est défini, <strong style="color:var(--cyan);">DiscoverQuest(NextQuestInChain)</strong> est appelé automatiquement.
+    </p>
+</div>
+
+<div class="feature-list">
+    <div class="feature-item">
+        <span class="feature-key">CheckQuestCompletion()</span>
+        <span class="feature-value">Vérifie <strong style="color:var(--gold);">CurrentProgress &gt;= TargetValue</strong> pour chaque objectif — retourne vrai si tous sont remplis.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">ApplyQuestRewards()</span>
+        <span class="feature-value">Distribue <strong style="color:var(--gold);">ExperienceReward</strong>, <strong style="color:var(--gold);">GoldReward</strong>, <strong style="color:var(--gold);">ItemRewards</strong>, <strong style="color:var(--gold);">UnlockReward</strong> et <strong style="color:var(--gold);">ReputationRewards</strong>.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">IncrementProgress()</span>
+        <span class="feature-value">Signale au <strong style="color:var(--cyan);">UHWProgressionComponent</strong> que la quête est complétée — active les déblocages conditionnels.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">NextQuestInChain</span>
+        <span class="feature-value">Si défini, <strong style="color:var(--cyan);">DiscoverQuest()</strong> est appelé automatiquement pour révéler la quête suivante dans la chaîne.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">OnQuestCompleted</span>
+        <span class="feature-value">Delegate broadcast à la complétion — met à jour le journal, le tracker UI et les indicateurs PNJ.</span>
+    </div>
+</div>
+
+<!-- ===== Étape 7 — Abandon ===== -->
+<div class="section-header" id="etape7-abandon">
+    <h2>Étape 7 — Abandon de quête</h2>
+    <span class="section-count">AbandonQuest · Nettoyage · Réacceptation</span>
+</div>
+
+<div class="codex-panel">
+    <div class="codex-label">Le joueur peut abandonner une quête active à tout moment</div>
+    <p>
+        <strong style="color:var(--cyan);">AbandonQuest(QuestID)</strong> passe le statut à <strong style="color:var(--gold);">Abandoned</strong> et nettoie toutes les entrées de progression associées dans les tableaux répliqués.
+    </p>
+    <p style="margin-bottom:0;">
+        Si <strong style="color:var(--gold);">bRepeatable</strong> est activé sur le <strong style="color:var(--cyan);">UHWQuestData</strong>, le joueur peut réaccepter la quête auprès du PNJ donneur. La progression repart alors de zéro.
+    </p>
+</div>
+
+<!-- ===== Étape 8 — Persistance ===== -->
+<div class="section-header" id="etape8-persistance">
+    <h2>Étape 8 — Persistance des données</h2>
+    <span class="section-count">SerializeQuests · JSON · OWS Backend</span>
+</div>
+
+<div class="codex-panel cyan-accent">
+    <div class="codex-label">Les quêtes sont sérialisées en JSON et sauvegardées via le backend OWS</div>
+    <p>
+        <strong style="color:var(--cyan);">SerializeQuests()</strong> convertit l'état complet des quêtes en JSON au format :
+        <code style="color:var(--gold);">{"statuses": {tag: int}, "progress": {key: float}}</code>.
+        <strong style="color:var(--cyan);">DeserializeQuests(JSON)</strong> reconstruit les structures <strong style="color:var(--cyan);">TMap</strong> et synchronise les tableaux répliqués.
+    </p>
+    <p style="margin-bottom:0;">
+        <strong style="color:var(--cyan);">SaveQuestProgress()</strong> envoie les données au backend <strong style="color:var(--gold);">OWS</strong> via <strong style="color:var(--cyan);">AddOrUpdateCustomCharacterData("QuestProgress", JSON)</strong>.
+        La sauvegarde automatique se déclenche toutes les <strong style="color:var(--gold);">5 minutes</strong> ainsi qu'à la déconnexion du joueur.
+    </p>
+</div>
+
+<div class="feature-list">
+    <div class="feature-item">
+        <span class="feature-key">SerializeQuests()</span>
+        <span class="feature-value">Convertit les <strong style="color:var(--cyan);">TMap</strong> de statuts et de progression en chaîne JSON compacte.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">DeserializeQuests(JSON)</span>
+        <span class="feature-value">Reconstruit les <strong style="color:var(--cyan);">TMap</strong> depuis le JSON et synchronise les tableaux répliqués <strong style="color:var(--gold);">Rep_QuestStatuses</strong> / <strong style="color:var(--gold);">Rep_QuestProgress</strong>.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">SaveQuestProgress()</span>
+        <span class="feature-value">Appel backend via <strong style="color:var(--cyan);">AddOrUpdateCustomCharacterData("QuestProgress", JSON)</strong> — persistance côté serveur OWS.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">Auto-save</span>
+        <span class="feature-value">Sauvegarde automatique toutes les <strong style="color:var(--gold);">5 minutes</strong> + sauvegarde obligatoire à la déconnexion (logout).</span>
+    </div>
+</div>
+
+<!-- ===== Étape 9 — Affichage UI ===== -->
+<div class="section-header" id="etape9-ui">
+    <h2>Étape 9 — Affichage UI</h2>
+    <span class="section-count">UHWQuestTrackerWidget · Delegates · Blueprint Events</span>
+</div>
+
+<div class="codex-panel">
+    <div class="codex-label">Le tracker de quêtes affiche jusqu'à 5 quêtes actives en temps réel</div>
+    <p>
+        <strong style="color:var(--cyan);">UHWQuestTrackerWidget</strong> est initialisé via <strong style="color:var(--cyan);">InitializeQuestTracker(QuestComponent)</strong> et s'abonne aux 4 delegates du composant de quêtes.
+        Le widget affiche un maximum de <strong style="color:var(--gold);">MaxDisplayedQuests = 5</strong> quêtes simultanément.
+    </p>
+</div>
+
+<div class="feature-list">
+    <div class="feature-item">
+        <span class="feature-key">InitializeQuestTracker()</span>
+        <span class="feature-value">Bind les delegates <strong style="color:var(--gold);">OnQuestAccepted</strong>, <strong style="color:var(--gold);">OnQuestObjectiveUpdated</strong>, <strong style="color:var(--gold);">OnQuestCompleted</strong>, <strong style="color:var(--gold);">OnQuestDiscovered</strong>.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">OnQuestAdded</span>
+        <span class="feature-value">Blueprint Event — ajoute une nouvelle entrée dans le tracker avec le nom et les objectifs de la quête.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">OnObjectiveUpdated(Progress, Target)</span>
+        <span class="feature-value">Blueprint Event — met à jour la barre de progression de l'objectif concerné en temps réel.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">OnQuestCompleted</span>
+        <span class="feature-value">Blueprint Event — affiche une notification de complétion et retire la quête du tracker.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">OnQuestDiscovered</span>
+        <span class="feature-value">Blueprint Event — affiche une notification de découverte et propose au joueur de suivre la quête.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">GetQuestObjectives(QuestID)</span>
+        <span class="feature-value">Retourne la liste des objectifs avec leur progression actuelle — utilisé pour le rendu détaillé du journal.</span>
+    </div>
+</div>
+
+<!-- ===== Étape 10 — Intégration progression ===== -->
+<div class="section-header" id="etape10-integration">
+    <h2>Étape 10 — Intégration avec le système de progression</h2>
+    <span class="section-count">UHWProgressionComponent · UHWUnlockDefinition · Conditions</span>
+</div>
+
+<div class="codex-panel cyan-accent">
+    <div class="codex-label">La complétion de quêtes alimente le système de déblocage global</div>
+    <p>
+        Chaque quête complétée déclenche <strong style="color:var(--cyan);">UHWProgressionComponent::IncrementProgress()</strong>, enregistrant l'accomplissement dans le système de progression du joueur.
+        Les <strong style="color:var(--cyan);">UHWUnlockDefinition</strong> peuvent définir une condition <strong style="color:var(--gold);">QuestCompleted</strong> qui, une fois remplie, accorde automatiquement des récompenses.
+    </p>
+    <p style="margin-bottom:0;">
+        Ce mécanisme permet de débloquer des <strong style="color:var(--gold);">capacités</strong>, des <strong style="color:var(--gold);">objets</strong>, des <strong style="color:var(--gold);">titres</strong> ou des <strong style="color:var(--gold);">accès</strong> en récompense de chaînes de quêtes complexes, sans que le QuestData ait besoin de connaître ces systèmes.
+    </p>
+</div>
+
+<div class="voie-list" style="margin-bottom: 44px;">
+    <div class="voie-item">
+        <span class="voie-name">IncrementProgress(QuestCompleted, QuestID, 1.0)</span>
+        <span class="voie-desc">Enregistre la complétion de la quête dans le <strong style="color:var(--cyan);">ProgressionComponent</strong> — sert de déclencheur pour les déblocages.</span>
+        <span class="voie-tag">Progression</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name">UHWUnlockDefinition (QuestCompleted)</span>
+        <span class="voie-desc">Définition de déblocage conditionnée par la complétion d'une quête — accorde capacités, objets ou titres.</span>
+        <span class="voie-tag">Déblocage</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name">GetNPCIndicator() via Progression</span>
+        <span class="voie-desc">Les indicateurs PNJ utilisent le <strong style="color:var(--cyan);">ProgressionComponent</strong> pour déterminer les tags d'état de quête.</span>
+        <span class="voie-tag">Indicateur</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name">Dialogues conditionnels</span>
+        <span class="voie-desc">Les dialogues vérifient les déblocages de progression pour afficher des branches narratives spécifiques.</span>
+        <span class="voie-tag">Dialogue · Condition</span>
+    </div>
+</div>
+
+<!-- ===== Flux complet ===== -->
+<div class="section-header" id="flux-complet">
+    <h2>Flux complet</h2>
+    <span class="section-count">Du DataAsset à la complétion</span>
+</div>
+
+<div class="codex-panel cyan-accent">
+    <div class="codex-label">Cycle de vie complet d'une quête : création → complétion → déblocage</div>
+<pre style="color:var(--text-light); font-family:monospace; font-size:0.85rem; line-height:1.6; margin:0; overflow-x:auto; white-space:pre;">
+  [1. UHWQuestData]                          [2. UHWNPCComponent]
+  Créer le DataAsset                         Ajouter QuestID dans
+  dans l'éditeur                             AvailableQuests
+        │                                           │
+        └──────────────┬────────────────────────────┘
+                       │
+                       ▼
+              [3. DÉCOUVERTE]
+              DiscoverQuest(QuestID)
+              ├── AssetManager charge UHWQuestData
+              ├── Cache dans QuestDataCache
+              ├── Status → Discovered
+              └── Broadcast OnQuestDiscovered
+                       │
+                       ▼
+              [4. ACCEPTATION]
+              Dialogue: ActionTag = "Action.AcceptQuest"
+              ├── HandleDialogueAction()
+              ├── AcceptQuest(QuestID)
+              │     ├── ArePrerequisitesMet() ?
+              │     │     NON → rejeté
+              │     │     OUI ↓
+              │     ├── Status → Active
+              │     ├── Init MakeObjectiveKey("{QuestID}_{Index}")
+              │     └── Sync Rep_QuestStatuses / Rep_QuestProgress
+              └── Broadcast OnQuestAccepted
+                       │
+                       ▼
+  ┌────────────────────────────────────────────────────────┐
+  │           [5. BOUCLE DE PROGRESSION]                   │
+  │                                                        │
+  │  Événement jeu (kill, collect, explore...)             │
+  │        │                                               │
+  │        ▼                                               │
+  │  UpdateQuestProgress(ConditionType, SubjectTag, Amt)   │
+  │        │                                               │
+  │        ├── Match objectif ? NON → ignoré               │
+  │        │                   OUI ↓                       │
+  │        ├── Clamp(Progress, 0, TargetValue)             │
+  │        ├── Sync tableaux répliqués                     │
+  │        ├── Broadcast OnQuestObjectiveUpdated           │
+  │        │                                               │
+  │        ▼                                               │
+  │  CheckQuestCompletion(QuestID)                         │
+  │        ├── Tous objectifs remplis ? NON → boucle ──┐   │
+  │        │                           OUI ↓           │   │
+  │        └── vers Étape 6            ◄───────────────┘   │
+  └────────────────────────────────────────────────────────┘
+                       │
+                       ▼
+              [6. COMPLÉTION]
+              Status → Completed
+              ├── ApplyQuestRewards()
+              │     ├── ExperienceReward
+              │     ├── GoldReward
+              │     ├── ItemRewards (TMap)
+              │     ├── UnlockReward (FGameplayTag)
+              │     └── ReputationRewards (TMap)
+              │
+              ├── ProgressionComp→IncrementProgress(QuestCompleted)
+              │
+              ├── NextQuestInChain valide ?
+              │     OUI → DiscoverQuest(NextQuestInChain)
+              │     NON → fin de chaîne
+              │
+              └── Broadcast OnQuestCompleted
+                       │
+              ┌────────┴────────┐
+              │                 │
+              ▼                 ▼
+  [8. PERSISTANCE]     [10. PROGRESSION]
+  SerializeQuests()    UHWUnlockDefinition
+  → JSON               ├── Condition: QuestCompleted
+  SaveQuestProgress()  ├── Accorde: capacités, titres
+  → OWS Backend        └── Met à jour indicateurs PNJ
+  (auto 5min + logout)       et dialogues conditionnels
+                                    │
+              ┌─────────────────────┘
+              ▼
+  [9. UI - QuestTrackerWidget]
+  ├── OnQuestAdded → nouvelle entrée
+  ├── OnObjectiveUpdated → barre progression
+  ├── OnQuestCompleted → notification
+  └── OnQuestDiscovered → notification
+
+  ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
+
+  [7. ABANDON] (à tout moment)
+  AbandonQuest(QuestID)
+  ├── Status → Abandoned
+  ├── Nettoyage progression
+  └── bRepeatable ? → peut réaccepter
+</pre>
+</div>

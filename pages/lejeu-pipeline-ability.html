@@ -1,0 +1,434 @@
+<!-- ===== Pipeline d'une Ability : De l'éditeur au joueur ===== -->
+<div class="section-header" id="pipeline-intro">
+    <h2>Pipeline d'une Ability</h2>
+    <span class="section-count">De l'éditeur au joueur · 8 étapes</span>
+</div>
+
+<div class="codex-panel cyan-accent">
+    <div class="codex-label">Guide complet de création d'une Ability</div>
+    <p>
+        Ce guide détaille le parcours complet d'une ability dans Hybélior World : de la création du <strong style="color:var(--cyan);">Blueprint GameplayAbility</strong> dans l'éditeur Unreal jusqu'à son exécution en jeu sur la barre de compétences du joueur.
+    </p>
+    <p style="margin-bottom:0;">
+        Chaque étape couvre une couche du <strong style="color:var(--cyan);">Gameplay Ability System</strong> étendu par nos classes C++ : définition, configuration des effets, assemblage en DataAsset, octroi au personnage, liaison des inputs, activation, affichage UI et relations de tags.
+    </p>
+</div>
+
+<!-- ===== Étape 1 — Blueprint GameplayAbility ===== -->
+<div class="section-header" id="etape1">
+    <h2>Étape 1 — Créer un Blueprint GameplayAbility</h2>
+    <span class="section-count">Classe de base · Policies · Tags</span>
+</div>
+
+<div class="codex-panel">
+    <div class="codex-label">Classe de base UHWGameplayAbility</div>
+    <p>
+        Toute ability du projet dérive de <strong style="color:var(--gold);">UHWGameplayAbility</strong> (qui étend <strong style="color:var(--cyan);">UGameplayAbility</strong>). Cette classe expose les paramètres essentiels : politique d'activation, groupe d'activation, nom de l'ability et comportement de fin de frame.
+    </p>
+    <p style="margin-bottom:0;">
+        Les valeurs par défaut du constructeur configurent l'ability en <strong style="color:var(--cyan);">InstancedPerActor</strong>, avec une politique réseau <strong style="color:var(--cyan);">LocalPredicted</strong> et <strong style="color:var(--cyan);">bServerRespectsRemoteAbilityCancellation</strong> à false pour éviter les annulations non autorisées côté client.
+    </p>
+</div>
+
+<div class="feature-list">
+    <div class="feature-item">
+        <span class="feature-key">ActivationPolicy</span>
+        <span class="feature-value">Détermine quand l'ability s'active : <strong style="color:var(--cyan);">OnInputTriggered</strong> (une seule fois à l'appui), <strong style="color:var(--cyan);">WhileInputActive</strong> (tant que l'input est maintenu), <strong style="color:var(--cyan);">Passive</strong> (toujours active).</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">ActivationGroup</span>
+        <span class="feature-value">Gère l'exclusivité entre abilities : <strong style="color:var(--cyan);">Independent</strong> (aucune restriction), <strong style="color:var(--cyan);">Exclusive_Replaceable</strong> (remplacée par une autre exclusive), <strong style="color:var(--cyan);">Exclusive_Blocking</strong> (bloque les autres exclusives).</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">AbilityName / bEndAbilityThisFrame</span>
+        <span class="feature-value">Nom lisible de l'ability pour le debug et l'UI. <strong style="color:var(--cyan);">bEndAbilityThisFrame</strong> force la terminaison de l'ability dans la même frame que son activation (utile pour les abilities instantanées).</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">AbilityTags</span>
+        <span class="feature-value">Tags identifiant cette ability. Utilisés par le système pour le filtrage, le ciblage et les relations entre abilities.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">CancelAbilitiesWithTag</span>
+        <span class="feature-value">Tags des abilities qui seront annulées quand cette ability s'active. Exemple : une esquive annule les abilities de type « attaque ».</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">BlockAbilitiesWithTag</span>
+        <span class="feature-value">Tags des abilities bloquées pendant l'exécution de cette ability. Empêche l'activation simultanée d'abilities incompatibles.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">ActivationRequiredTags / ActivationBlockedTags</span>
+        <span class="feature-value">Tags requis sur l'avatar pour activer l'ability (ex : être au sol) et tags qui empêchent l'activation (ex : être étourdi).</span>
+    </div>
+</div>
+
+<div class="voie-list">
+    <div class="voie-item">
+        <span class="voie-name" style="color:var(--gold);">UHWGameplayAbility_Dodge</span>
+        <span class="voie-desc">Ability d'esquive. Propriétés : <strong style="color:var(--cyan);">Direction</strong> (vecteur de déplacement), <strong style="color:var(--cyan);">Strength</strong> (force de propulsion), <strong style="color:var(--cyan);">Duration</strong> (durée du mouvement), <strong style="color:var(--cyan);">DodgingAnimation</strong> (montage d'animation), <strong style="color:var(--cyan);">IFrameGameplayEffect</strong> (effet d'invincibilité temporaire).</span>
+        <span class="voie-tag">Esquive · iFrames</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name" style="color:var(--gold);">UHWGameplayAbility_FakeProjectile</span>
+        <span class="voie-desc">Ability de projectile non physique. Crée un projectile visuel sans simulation balistique — le hit est déterminé par trace ou prédiction côté serveur.</span>
+        <span class="voie-tag">Projectile · Visuel</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name" style="color:var(--gold);">UHWGameplayAbility_TraceSteps</span>
+        <span class="voie-desc">Ability à détection par pas successifs. Effectue un trace à chaque step d'animation pour détecter les cibles, idéal pour les attaques en mouvement et les frappes en chaîne.</span>
+        <span class="voie-tag">Trace · Steps</span>
+    </div>
+</div>
+
+<!-- ===== Étape 2 — GameplayEffects ===== -->
+<div class="section-header" id="etape2">
+    <h2>Étape 2 — Créer les GameplayEffects</h2>
+    <span class="section-count">Cost · Cooldown · Damage · Tags</span>
+</div>
+
+<div class="codex-panel cyan-accent">
+    <div class="codex-label">Effets de gameplay associés</div>
+    <p>
+        Chaque ability nécessite un ou plusieurs <strong style="color:var(--cyan);">GameplayEffects</strong> pour gérer ses coûts de ressources, son temps de recharge et ses effets sur la cible. Ces effets sont des assets Blueprint créés dans l'éditeur et référencés par l'ability.
+    </p>
+    <p style="margin-bottom:0;">
+        Le système de tags d'échec d'activation (<strong style="color:var(--cyan);">Ability_ActivateFail_*</strong>) permet à l'UI de communiquer au joueur la raison précise pour laquelle une ability ne peut pas s'activer.
+    </p>
+</div>
+
+<div class="feature-list">
+    <div class="feature-item">
+        <span class="feature-key">Cost Effect</span>
+        <span class="feature-value">Déduit une ressource du <strong style="color:var(--gold);">UHWCombatAttributeSet</strong> : Mana, Stamina ou Energy selon l'ability. Appliqué lors du <strong style="color:var(--cyan);">CommitAbility</strong>.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">Cooldown Effect</span>
+        <span class="feature-value">Effet de type <strong style="color:var(--cyan);">HasDuration</strong>. Octroie un tag de cooldown spécifique à l'ability. Tant que l'effet est actif, l'ability ne peut pas être réactivée.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">Damage Effect</span>
+        <span class="feature-value">Modifie l'attribut <strong style="color:var(--cyan);">Health</strong> de la cible. Passe par le pipeline de calcul de dégâts (<strong style="color:var(--gold);">UHWGameplayEffectExecutionCalc</strong>) pour intégrer les résistances et les réactions élémentaires.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">Ability_ActivateFail_IsDead</span>
+        <span class="feature-value">Tag d'échec signalant que le personnage est mort. L'UI affiche un feedback visuel correspondant.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">Ability_ActivateFail_Cooldown</span>
+        <span class="feature-value">Tag d'échec signalant que l'ability est encore en temps de recharge. L'UI peut afficher le temps restant.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">Ability_ActivateFail_Cost</span>
+        <span class="feature-value">Tag d'échec signalant que le personnage n'a pas assez de ressources (Mana, Stamina ou Energy) pour activer l'ability.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">Ability_ActivateFail_TagsBlocked / _TagsMissing</span>
+        <span class="feature-value">Tags d'échec signalant que des tags bloquants sont présents ou que des tags requis sont absents sur le personnage.</span>
+    </div>
+</div>
+
+<!-- ===== Étape 3 — AbilitySet DataAsset ===== -->
+<div class="section-header" id="etape3">
+    <h2>Étape 3 — Assembler un AbilitySet DataAsset</h2>
+    <span class="section-count">UPrimaryDataAsset · Abilities · Effects · Attributes</span>
+</div>
+
+<div class="codex-panel">
+    <div class="codex-label">UHWGameplayAbilitySet</div>
+    <p>
+        Le <strong style="color:var(--gold);">UHWGameplayAbilitySet</strong> (dérivé de <strong style="color:var(--cyan);">UPrimaryDataAsset</strong>) regroupe en un seul asset tout ce qu'un personnage ou une classe doit recevoir : abilities, effets passifs et ensembles d'attributs.
+    </p>
+    <p style="margin-bottom:0;">
+        Les handles générés lors de l'octroi sont stockés dans un <strong style="color:var(--gold);">FHWAbilitySet_GrantedHandles</strong> pour permettre le retrait propre des abilities et effets quand le set est retiré (changement de classe, déséquipement d'arme, etc.).
+    </p>
+</div>
+
+<div class="feature-list">
+    <div class="feature-item">
+        <span class="feature-key">GrantedGameplayAbilities</span>
+        <span class="feature-value">Tableau de structures contenant : la <strong>classe de l'Ability</strong>, le <strong>AbilityLevel</strong> et l'<strong style="color:var(--cyan);">InputTag</strong> (<strong style="color:var(--cyan);">FGameplayTag</strong>) qui liera cette ability à un input du joueur.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">GrantedGameplayEffects</span>
+        <span class="feature-value">Tableau de structures contenant : la <strong>classe du GameplayEffect</strong> et le <strong>EffectLevel</strong>. Utilisé pour les effets passifs permanents (régénération, buffs de classe, etc.).</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">GrantedAttributes</span>
+        <span class="feature-value">Tableau de classes d'<strong style="color:var(--cyan);">AttributeSet</strong> à octroyer. Assure que le personnage possède les attributs nécessaires aux abilities et effets du set.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">FHWAbilitySet_GrantedHandles</span>
+        <span class="feature-value">Structure de suivi. Stocke tous les <strong style="color:var(--cyan);">FGameplayAbilitySpecHandle</strong>, <strong style="color:var(--cyan);">FActiveGameplayEffectHandle</strong> et références d'AttributeSet octroyés, permettant leur retrait en une seule opération.</span>
+    </div>
+</div>
+
+<!-- ===== Étape 4 — Octroi au personnage ===== -->
+<div class="section-header" id="etape4">
+    <h2>Étape 4 — Octroi au personnage</h2>
+    <span class="section-count">GiveToAbilitySystem · PossessedBy · DynamicAbilityTags</span>
+</div>
+
+<div class="codex-panel cyan-accent">
+    <div class="codex-label">GiveToAbilitySystem</div>
+    <p>
+        L'octroi des abilities au personnage se fait lors de la prise de possession par le contrôleur. Le <strong style="color:var(--cyan);">AbilitySystemComponent</strong> est initialisé, puis chaque AbilitySet est parcouru pour octroyer ses abilities, effets et attributs.
+    </p>
+    <p style="margin-bottom:0;">
+        Le point clé : chaque <strong style="color:var(--cyan);">FGameplayAbilitySpec</strong> créée stocke l'<strong style="color:var(--cyan);">InputTag</strong> dans ses <strong style="color:var(--cyan);">DynamicAbilityTags</strong>, permettant au système d'input de retrouver l'ability correspondante par tag.
+    </p>
+</div>
+
+<div class="feature-list">
+    <div class="feature-item">
+        <span class="feature-key">AHWGASCharacter::PossessedBy()</span>
+        <span class="feature-value">Point d'entrée sur la classe de base. Appelle <strong style="color:var(--cyan);">InitAbilityActorInfo</strong> pour lier l'ASC à l'acteur et à son avatar.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">AHWGASPlayerCharacter::PossessedBy()</span>
+        <span class="feature-value">Surcharge joueur. Itère sur le tableau <strong style="color:var(--cyan);">AbilitySets</strong> du personnage et appelle <strong style="color:var(--gold);">GiveToAbilitySystem()</strong> pour chaque set.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">GiveToAbilitySystem()</span>
+        <span class="feature-value">Crée un <strong style="color:var(--cyan);">FGameplayAbilitySpec</strong> pour chaque ability du set, stocke l'InputTag dans les <strong style="color:var(--cyan);">DynamicAbilityTags</strong>, et donne la spec à l'ASC. Octroie également les GameplayEffects et les AttributeSets.</span>
+    </div>
+</div>
+
+<!-- ===== Étape 5 — Liaison des inputs ===== -->
+<div class="section-header" id="etape5">
+    <h2>Étape 5 — Liaison des inputs</h2>
+    <span class="section-count">InputConfig · EnhancedInput · Tags</span>
+</div>
+
+<div class="codex-panel">
+    <div class="codex-label">UHWInputConfig et liaison par tags</div>
+    <p>
+        Le <strong style="color:var(--gold);">UHWInputConfig</strong> (DataAsset) définit deux tableaux : <strong style="color:var(--cyan);">NativeInputActions</strong> pour les actions système (mouvement, caméra) et <strong style="color:var(--cyan);">AbilityInputActions</strong> pour les actions liées aux abilities. Chaque entrée associe un <strong style="color:var(--cyan);">UInputAction</strong> à un <strong style="color:var(--cyan);">FGameplayTag</strong> (InputTag).
+    </p>
+    <p style="margin-bottom:0;">
+        Lors du setup des inputs, le <strong style="color:var(--gold);">UHWInputComponent</strong> mappe chaque InputAction d'ability vers les callbacks <strong style="color:var(--cyan);">AbilityInputTagPressed</strong> et <strong style="color:var(--cyan);">AbilityInputTagReleased</strong>, qui transmettent l'InputTag à l'ASC.
+    </p>
+</div>
+
+<div class="feature-list">
+    <div class="feature-item">
+        <span class="feature-key">UHWInputConfig</span>
+        <span class="feature-value">DataAsset contenant les mappings input. <strong style="color:var(--cyan);">NativeInputActions</strong> : actions système sans lien GAS. <strong style="color:var(--cyan);">AbilityInputActions</strong> : actions liées à des abilities via InputTag.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">SetupPlayerInputComponent()</span>
+        <span class="feature-value">Appelé par <strong style="color:var(--gold);">AHWGASPlayerCharacter</strong>. Lie les inputs via <strong style="color:var(--gold);">UHWInputComponent</strong> en appelant <strong style="color:var(--cyan);">BindAbilityActions</strong>.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">BindAbilityActions()</span>
+        <span class="feature-value">Parcourt les AbilityInputActions et mappe chaque input vers les callbacks <strong style="color:var(--cyan);">AbilityInputTagPressed</strong> (appui) et <strong style="color:var(--cyan);">AbilityInputTagReleased</strong> (relâchement).</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">AbilityInputTagPressed(InputTag)</span>
+        <span class="feature-value">Appelé sur <strong style="color:var(--gold);">UHWAbilitySystemComponent</strong>. Recherche l'ability dont les <strong style="color:var(--cyan);">DynamicAbilityTags</strong> contiennent l'InputTag reçu et la marque pour activation.</span>
+    </div>
+</div>
+
+<!-- ===== Étape 6 — Activation ===== -->
+<div class="section-header" id="etape6">
+    <h2>Étape 6 — Activation</h2>
+    <span class="section-count">ProcessAbilityInput · CommitAbility · Tasks</span>
+</div>
+
+<div class="codex-panel cyan-accent">
+    <div class="codex-label">Pipeline d'activation</div>
+    <p>
+        L'activation est orchestrée par <strong style="color:var(--cyan);">ProcessAbilityInput()</strong>, appelé chaque frame par l'ASC. Cette méthode vérifie d'abord le tag <strong style="color:var(--cyan);">TAG_Gameplay_AbilityInputBlocked</strong>, puis filtre les abilities selon leur <strong style="color:var(--cyan);">ActivationPolicy</strong> et tente l'activation.
+    </p>
+    <p style="margin-bottom:0;">
+        Une fois activée, l'ability passe par <strong style="color:var(--cyan);">CommitAbility</strong> qui valide les tags, applique le coût et le cooldown, puis exécute la logique spécifique via des <strong style="color:var(--cyan);">Ability Tasks</strong> asynchrones (PlayMontage, WaitDelay, ApplyRootMotion, etc.).
+    </p>
+</div>
+
+<div class="feature-list">
+    <div class="feature-item">
+        <span class="feature-key">ProcessAbilityInput()</span>
+        <span class="feature-value">Boucle frame par frame. Vérifie <strong style="color:var(--cyan);">TAG_Gameplay_AbilityInputBlocked</strong>. Filtre par policy : <strong style="color:var(--cyan);">OnInputTriggered</strong> (une fois), <strong style="color:var(--cyan);">WhileInputActive</strong> (maintenu), <strong style="color:var(--cyan);">Passive</strong> (toujours).</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">TryActivateAbility()</span>
+        <span class="feature-value">Tentative d'activation standard. Pour les abilities instantanées, <strong style="color:var(--cyan);">TryActivateAbilityBatchedAndEndInSameFrame()</strong> regroupe activation et fin dans la même frame réseau.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">ActivateAbility → CommitAbility</span>
+        <span class="feature-value"><strong style="color:var(--cyan);">CommitAbility</strong> valide les tags de l'ability, applique le Cost Effect (déduit la ressource) et le Cooldown Effect (lance le temps de recharge).</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">DoesAbilitySatisfyTagRequirements</span>
+        <span class="feature-value">Vérifie les tags built-in (Required/Blocked) plus les exigences additionnelles définies dans <strong style="color:var(--gold);">UHWAbilityTagRelationshipMapping</strong> via <strong style="color:var(--cyan);">GetAdditionalActivationTagRequirements()</strong>.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">Logique spécifique (Tasks)</span>
+        <span class="feature-value">Après le commit, l'ability exécute sa logique via des tâches asynchrones : <strong style="color:var(--cyan);">PlayMontage</strong>, <strong style="color:var(--cyan);">WaitDelay</strong>, <strong style="color:var(--cyan);">ApplyRootMotion</strong>, traces de détection, application d'effets sur les cibles, etc.</span>
+    </div>
+</div>
+
+<!-- ===== Étape 7 — Barre de compétences (UI) ===== -->
+<div class="section-header" id="etape7">
+    <h2>Étape 7 — Barre de compétences (UI)</h2>
+    <span class="section-count">10 slots · Cooldowns · Delegates</span>
+</div>
+
+<div class="codex-panel">
+    <div class="codex-label">UHWSkillBarComponent</div>
+    <p>
+        Le composant <strong style="color:var(--gold);">UHWSkillBarComponent</strong> gère 10 slots de compétences. Chaque slot est une structure <strong style="color:var(--gold);">FHWSkillSlot</strong> contenant la référence à l'ability assignée, son tag, son icône, les informations de cooldown, l'état d'activabilité, le coût en ressource et le texte de la touche associée.
+    </p>
+    <p style="margin-bottom:0;">
+        Le widget <strong style="color:var(--gold);">UHWSkillBarWidget</strong> s'abonne aux delegates du composant et met à jour l'affichage en temps réel via des événements Blueprint.
+    </p>
+</div>
+
+<div class="feature-list">
+    <div class="feature-item">
+        <span class="feature-key">FHWSkillSlot</span>
+        <span class="feature-value">Structure d'un slot : <strong style="color:var(--cyan);">AssignedAbility</strong>, <strong style="color:var(--cyan);">AbilityTag</strong>, <strong style="color:var(--cyan);">Icon</strong>, <strong style="color:var(--cyan);">CooldownDuration</strong>, <strong style="color:var(--cyan);">CooldownRemaining</strong>, <strong style="color:var(--cyan);">bCanActivate</strong>, <strong style="color:var(--cyan);">ResourceCost</strong>, <strong style="color:var(--cyan);">KeybindText</strong>.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">AssignAbilityToSlot()</span>
+        <span class="feature-value">Assigne une ability à un slot donné. Met à jour l'icône, le coût et le keybind. Diffuse <strong style="color:var(--cyan);">OnSlotChanged</strong>.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">ActivateSlot()</span>
+        <span class="feature-value">Active l'ability du slot via <strong style="color:var(--cyan);">ASC->TryActivateAbilityByClass()</strong>. Vérifie d'abord que le slot contient une ability et que <strong style="color:var(--cyan);">bCanActivate</strong> est true.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">TickComponent → UpdateCooldowns()</span>
+        <span class="feature-value">À chaque tick, interroge les effets de cooldown actifs sur l'ASC pour mettre à jour <strong style="color:var(--cyan);">CooldownRemaining</strong> de chaque slot.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">OnSlotChanged / OnCooldownStarted</span>
+        <span class="feature-value">Delegates multicast. <strong style="color:var(--gold);">UHWSkillBarWidget</strong> s'y abonne pour mettre à jour l'UI : changement d'icône, lancement de l'animation de cooldown, grayout quand <strong style="color:var(--cyan);">bCanActivate</strong> est false.</span>
+    </div>
+</div>
+
+<!-- ===== Étape 8 — Relations de tags ===== -->
+<div class="section-header" id="etape8">
+    <h2>Étape 8 — Relations de tags</h2>
+    <span class="section-count">TagRelationshipMapping · Règles d'activation</span>
+</div>
+
+<div class="codex-panel cyan-accent">
+    <div class="codex-label">UHWAbilityTagRelationshipMapping</div>
+    <p>
+        Le <strong style="color:var(--gold);">UHWAbilityTagRelationshipMapping</strong> (DataAsset) contient un <strong style="color:var(--cyan);">TArray&lt;FHWAbilityTagRelationship&gt;</strong> qui définit les règles de relations entre abilities sans les coder en dur dans chaque Blueprint.
+    </p>
+    <p style="margin-bottom:0;">
+        Ce mapping est appliqué lors de l'initialisation du système via <strong style="color:var(--gold);">AHWGASPlayerCharacter::AbilitySystemInitialized()</strong> qui appelle <strong style="color:var(--cyan);">SetTagRelationshipMapping()</strong>. Les règles sont ensuite consultées automatiquement dans <strong style="color:var(--cyan);">DoesAbilitySatisfyTagRequirements()</strong>.
+    </p>
+</div>
+
+<div class="feature-list">
+    <div class="feature-item">
+        <span class="feature-key">AbilityTag</span>
+        <span class="feature-value">Le tag de l'ability à laquelle cette règle s'applique. Peut être un tag parent pour affecter toute une catégorie d'abilities.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">AbilityTagsToBlock</span>
+        <span class="feature-value">Tags des abilities qui seront bloquées tant que l'ability ciblée est active. Permet de définir des incompatibilités globales.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">AbilityTagsToCancel</span>
+        <span class="feature-value">Tags des abilities qui seront immédiatement annulées quand l'ability ciblée s'active.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">ActivationRequiredTags / ActivationBlockedTags</span>
+        <span class="feature-value">Tags additionnels requis ou bloquants pour l'activation. Complètent les tags définis directement sur l'ability pour une configuration centralisée.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">GetAdditionalActivationTagRequirements()</span>
+        <span class="feature-value">Méthode appelée par <strong style="color:var(--cyan);">DoesAbilitySatisfyTagRequirements()</strong> pour fusionner les exigences du mapping avec celles de l'ability elle-même.</span>
+    </div>
+</div>
+
+<!-- ===== Flux complet ===== -->
+<div class="section-header" id="flux-complet">
+    <h2>Flux complet</h2>
+    <span class="section-count">Diagramme de flux · Vue d'ensemble</span>
+</div>
+
+<div class="codex-panel cyan-accent">
+    <div class="codex-label">Diagramme du pipeline complet</div>
+    <p style="margin-bottom:0;">
+        Le flux complet d'une ability, de sa création à son exécution en jeu :
+    </p>
+</div>
+
+<div class="codex-panel" style="font-family:monospace; font-size:0.92em; line-height:1.7; overflow-x:auto;">
+    <div class="codex-label">Pipeline : Éditeur → Joueur</div>
+    <p style="margin-bottom:0; white-space:pre; color:var(--text);">
+<strong style="color:var(--gold);">Blueprint GameplayAbility</strong>        <strong style="color:var(--gold);">GameplayEffects</strong>
+  (ActivationPolicy, Tags)             (Cost, Cooldown, Damage)
+          │                                      │
+          └──────────┬───────────────────────────┘
+                     ▼
+        <strong style="color:var(--gold);">UHWGameplayAbilitySet</strong> (DataAsset)
+          Abilities + Effects + Attributes
+                     │
+                     ▼
+        <strong style="color:var(--cyan);">PossessedBy()</strong> → <strong style="color:var(--cyan);">GiveToAbilitySystem()</strong>
+          Crée FGameplayAbilitySpec
+          InputTag → DynamicAbilityTags
+                     │
+          ┌──────────┴──────────┐
+          ▼                     ▼
+  <strong style="color:var(--gold);">UHWInputConfig</strong>        <strong style="color:var(--gold);">UHWAbilityTagRelationshipMapping</strong>
+   InputAction→Tag         Règles Block/Cancel/Required
+          │                     │
+          ▼                     │
+  <strong style="color:var(--cyan);">BindAbilityActions()</strong>          │
+   Pressed/Released→ASC         │
+          │                     │
+          └──────────┬──────────┘
+                     ▼
+        <strong style="color:var(--cyan);">ProcessAbilityInput()</strong> (chaque frame)
+          Vérifie AbilityInputBlocked
+          Filtre par ActivationPolicy
+                     │
+                     ▼
+        <strong style="color:var(--cyan);">TryActivateAbility()</strong>
+          ActivateAbility → CommitAbility
+          Valide tags + applique Cost + Cooldown
+                     │
+          ┌──────────┴──────────┐
+          ▼                     ▼
+  <strong style="color:var(--cyan);">Ability Tasks</strong>          <strong style="color:var(--gold);">UHWSkillBarComponent</strong>
+   PlayMontage, Traces      UpdateCooldowns()
+   ApplyRootMotion          OnCooldownStarted
+   Apply Effects            → UHWSkillBarWidget
+</p>
+</div>
+
+<div class="feature-list" style="margin-bottom: 52px;">
+    <div class="feature-item">
+        <span class="feature-key">1. Création</span>
+        <span class="feature-value">Blueprint GA + GameplayEffects dans l'éditeur Unreal.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">2. Assemblage</span>
+        <span class="feature-value">Regroupement dans un <strong style="color:var(--gold);">UHWGameplayAbilitySet</strong> avec les effets et attributs.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">3. Octroi</span>
+        <span class="feature-value"><strong style="color:var(--cyan);">PossessedBy()</strong> octroie le set au personnage, stocke les InputTags.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">4. Liaison</span>
+        <span class="feature-value"><strong style="color:var(--gold);">UHWInputConfig</strong> lie les touches aux tags, les callbacks transmettent à l'ASC.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">5. Activation</span>
+        <span class="feature-value"><strong style="color:var(--cyan);">ProcessAbilityInput()</strong> → <strong style="color:var(--cyan);">TryActivateAbility()</strong> → <strong style="color:var(--cyan);">CommitAbility()</strong> → logique spécifique.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">6. UI</span>
+        <span class="feature-value"><strong style="color:var(--gold);">UHWSkillBarComponent</strong> met à jour cooldowns et état en temps réel via delegates.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">7. Relations</span>
+        <span class="feature-value"><strong style="color:var(--gold);">UHWAbilityTagRelationshipMapping</strong> applique les règles de blocage/annulation à chaque tentative d'activation.</span>
+    </div>
+</div>

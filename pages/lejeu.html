@@ -1,5 +1,5 @@
 <h1>Le Jeu</h1>
-<p class="page-subtitle">Gameplay, mécaniques et architecture technique d'Hybélior</p>
+<p class="page-subtitle">Gameplay, architecture technique et pipelines de production d'Hybélior</p>
 <div class="divider"><div class="divider-gem"></div></div>
 
 <div class="subtab-content" id="lejeu-subtab-content"></div>
@@ -10,14 +10,20 @@ SubTabs.init(
   '#global-subtab-nav',
   '#lejeu-subtab-content',
   [
-    { key: 'combat',      label: 'Combat & Armes',       src: '/pages/gameplay-combat.html' },
-    { key: 'magie',       label: 'Magie',                src: '/pages/gameplay-magie.html' },
-    { key: 'progression', label: 'Progression',          src: '/pages/gameplay-progression.html' },
-    { key: 'metiers',     label: 'Métiers',              src: '/pages/gameplay-metiers.html' },
-    { key: 'monde',       label: 'Monde & Société',      src: '/pages/gameplay-monde.html' },
-    { key: 'architecture',label: 'Architecture',         src: '/pages/lejeu-architecture.html' },
-    { key: 'code-combat', label: 'Code: Combat',         src: '/pages/lejeu-code-combat.html' },
-    { key: 'code-systemes',label: 'Code: Systèmes',     src: '/pages/lejeu-code-systemes.html' },
+    { key: 'combat',          label: 'Combat & Armes',       src: '/pages/gameplay-combat.html' },
+    { key: 'magie',           label: 'Magie',                src: '/pages/gameplay-magie.html' },
+    { key: 'progression',     label: 'Progression',          src: '/pages/gameplay-progression.html' },
+    { key: 'metiers',         label: 'Métiers',              src: '/pages/gameplay-metiers.html' },
+    { key: 'monde',           label: 'Monde & Société',      src: '/pages/gameplay-monde.html' },
+    { key: 'architecture',    label: 'Architecture',         src: '/pages/lejeu-architecture.html' },
+    { key: 'code-combat',     label: 'Code: Combat',         src: '/pages/lejeu-code-combat.html' },
+    { key: 'code-systemes',   label: 'Code: Systèmes',      src: '/pages/lejeu-code-systemes.html' },
+    { key: 'pipe-npc',        label: 'Pipeline: PNJ',        src: '/pages/lejeu-pipeline-npc.html' },
+    { key: 'pipe-ability',    label: 'Pipeline: Ability',    src: '/pages/lejeu-pipeline-ability.html' },
+    { key: 'pipe-item',       label: 'Pipeline: Objet',      src: '/pages/lejeu-pipeline-item.html' },
+    { key: 'pipe-mob',        label: 'Pipeline: Mob',        src: '/pages/lejeu-pipeline-mob.html' },
+    { key: 'pipe-quest',      label: 'Pipeline: Quête',      src: '/pages/lejeu-pipeline-quest.html' },
+    { key: 'pipe-combo',      label: 'Pipeline: Combo',      src: '/pages/lejeu-pipeline-combo.html' },
   ],
   'combat',
   function(html, key) {
