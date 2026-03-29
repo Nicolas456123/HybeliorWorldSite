@@ -1,0 +1,451 @@
+<!-- ===== Inventaire et Équipement ===== -->
+<div class="section-header" id="inventaire">
+    <h2>Inventaire et Équipement</h2>
+    <span class="section-count">UHWInventoryComponent · UHWItemStaticData</span>
+</div>
+
+<div class="codex-panel cyan-accent">
+    <div class="codex-label">Gestion centralisée de l'inventaire et de l'équipement</div>
+    <p>
+        Le composant <strong style="color:var(--cyan);">UHWInventoryComponent</strong> gère l'intégralité de l'inventaire d'un personnage via la structure <strong style="color:var(--cyan);">FHWInventoryMaster</strong>.
+        Les statistiques d'équipement sont appliquées dynamiquement sous forme de <strong style="color:var(--gold);">GameplayEffects</strong> du Gameplay Ability System, permettant une interaction native avec le combat et les buffs.
+        La sérialisation JSON assure la persistance côté serveur.
+    </p>
+    <p style="margin-bottom:0;">
+        <strong style="color:var(--cyan);">UHWItemStaticData</strong> centralise toutes les données statiques des objets dans un DataAsset unique, évitant la duplication et garantissant la cohérence entre inventaire, loot et boutiques.
+    </p>
+</div>
+
+<div class="feature-list">
+    <div class="feature-item">
+        <span class="feature-key">Inventory</span>
+        <span class="feature-value">Structure FHWInventoryMaster contenant l'ensemble des items du personnage, avec leur quantité, état et métadonnées.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">InventoryName / InventorySize</span>
+        <span class="feature-value">Identifiant de l'inventaire et nombre maximum d'emplacements disponibles. Permet de gérer plusieurs inventaires distincts (sac principal, coffre, banque).</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">ItemLibrary</span>
+        <span class="feature-value">Référence vers la bibliothèque d'objets utilisée pour résoudre les identifiants en données complètes.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">ActiveEquipmentEffects</span>
+        <span class="feature-value">Liste des GameplayEffectHandles actifs appliqués par l'équipement porté — permet le retrait propre lors du déséquipement.</span>
+    </div>
+</div>
+
+<div class="lore-block">
+    <div class="lore-block-title">— Méthodes principales —</div>
+    <p>
+        <strong style="color:var(--gold);">AddNewItem</strong> — Ajoute un objet à l'inventaire avec gestion du stacking et de l'espace disponible.
+        <strong style="color:var(--gold);">MoveItem</strong> — Déplace un objet entre emplacements ou entre inventaires.
+        <strong style="color:var(--gold);">RemoveItem</strong> — Retire un objet avec mise à jour de la quantité ou suppression complète.
+    </p>
+    <p>
+        <strong style="color:var(--gold);">ApplyEquipmentStats</strong> / <strong style="color:var(--gold);">RemoveEquipmentStats</strong> — Applique ou retire les GameplayEffects d'un équipement sur l'AbilitySystemComponent du personnage.
+    </p>
+    <p style="margin-bottom:0;">
+        <strong style="color:var(--gold);">SerializeInventory</strong> / <strong style="color:var(--gold);">LoadInventorySerialize</strong> — Convertit l'inventaire en JSON pour la sauvegarde serveur, et restaure l'état depuis les données sérialisées.
+    </p>
+</div>
+
+<!-- ===== Système de Quêtes ===== -->
+<div class="section-header" id="quetes">
+    <h2>Système de Quêtes</h2>
+    <span class="section-count">UHWQuestComponent · UHWQuestData</span>
+</div>
+
+<div class="codex-panel cyan-accent">
+    <div class="codex-label">Acceptation, suivi et complétion de quêtes</div>
+    <p>
+        Le composant <strong style="color:var(--cyan);">UHWQuestComponent</strong> pilote le cycle de vie complet des quêtes : acceptation, abandon, progression des objectifs et distribution des récompenses.
+        Les données de quête sont définies dans des <strong style="color:var(--cyan);">UHWQuestData</strong> (DataAssets) qui décrivent les objectifs, récompenses et prérequis.
+    </p>
+    <p style="margin-bottom:0;">
+        Les statuts et la progression sont <strong style="color:var(--gold);">répliqués</strong> (Rep_QuestStatuses, Rep_QuestProgress) pour une synchronisation client-serveur fiable. Un cache local (<strong style="color:var(--cyan);">QuestDataCache</strong>) évite les lectures répétées des DataAssets.
+    </p>
+</div>
+
+<div class="feature-list">
+    <div class="feature-item">
+        <span class="feature-key">AcceptQuest</span>
+        <span class="feature-value">Vérifie les prérequis, enregistre la quête dans Rep_QuestStatuses et initialise la progression des objectifs.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">AbandonQuest</span>
+        <span class="feature-value">Retire la quête active et nettoie les données de progression associées.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">UpdateQuestProgress</span>
+        <span class="feature-value">Met à jour les compteurs d'objectifs en cours. Vérifie automatiquement si la quête est complétable après chaque mise à jour.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">DiscoverQuest</span>
+        <span class="feature-value">Marque une quête comme découverte dans le journal, sans l'accepter — utile pour les quêtes trouvées via exploration ou dialogue.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">SerializeQuests / DeserializeQuests</span>
+        <span class="feature-value">Sérialisation et désérialisation complètes de l'état des quêtes pour la persistance serveur.</span>
+    </div>
+</div>
+
+<div class="voie-list" style="margin-bottom: 44px;">
+    <div class="voie-item">
+        <span class="voie-name">OnQuestAccepted</span>
+        <span class="voie-desc">Delegate déclenché lorsqu'une quête est acceptée — permet la mise à jour de l'UI et des systèmes dépendants.</span>
+        <span class="voie-tag">Delegate</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name">OnQuestCompleted</span>
+        <span class="voie-desc">Delegate déclenché à la complétion d'une quête — distribue les récompenses et notifie les systèmes de progression.</span>
+        <span class="voie-tag">Delegate</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name">OnQuestObjectiveUpdated</span>
+        <span class="voie-desc">Delegate déclenché à chaque mise à jour d'un objectif — rafraîchit le tracker de quêtes et les indicateurs de progression.</span>
+        <span class="voie-tag">Delegate</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name">OnQuestDiscovered</span>
+        <span class="voie-desc">Delegate déclenché lorsqu'une quête est découverte — affiche une notification au joueur et met à jour le journal.</span>
+        <span class="voie-tag">Delegate</span>
+    </div>
+</div>
+
+<!-- ===== Progression Cachée ===== -->
+<div class="section-header" id="progression-cachee">
+    <h2>Progression Cachée</h2>
+    <span class="section-count">UHWProgressionComponent · Compteurs invisibles</span>
+</div>
+
+<div class="codex-panel" style="border-left-color: #8b2020;">
+    <div class="codex-label">Ce que le joueur ne voit pas le fait progresser</div>
+    <p>
+        Le composant <strong style="color:var(--gold);">UHWProgressionComponent</strong> maintient des compteurs cachés — kills par type d'ennemi, zones explorées, combos réalisés, lieux visités — qui débloquent automatiquement des récompenses lorsque les conditions sont remplies.
+    </p>
+    <p style="margin-bottom:0;">
+        Le joueur n'est pas informé des seuils exacts. Les déblocages arrivent comme des <strong style="color:var(--gold);">surprises organiques</strong>, récompensant le jeu naturel plutôt que le farming ciblé.
+        Les données sont répliquées via <strong style="color:var(--cyan);">Rep_ProgressionData</strong> et les définitions de déblocage sont centralisées dans <strong style="color:var(--cyan);">AllUnlockDefinitions</strong>.
+    </p>
+</div>
+
+<div class="feature-list">
+    <div class="feature-item">
+        <span class="feature-key">IncrementProgress</span>
+        <span class="feature-value">Incrémente un compteur de progression identifié par tag. Vérifie après chaque incrément si de nouveaux déblocages sont disponibles.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">MarkLocationVisited</span>
+        <span class="feature-value">Enregistre un lieu dans VisitedLocations. Déclenche les vérifications de déblocage liées à l'exploration.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">MarkComboAchieved</span>
+        <span class="feature-value">Enregistre un combo spécifique comme accompli. Certains déblocages exigent des enchaînements précis en combat.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">IsUnlocked / GetAvailableUnlocks</span>
+        <span class="feature-value">Vérifie si un déblocage spécifique a été obtenu, ou retourne la liste de tous les déblocages disponibles selon la progression actuelle.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">UnlockedIDs</span>
+        <span class="feature-value">Ensemble des identifiants de déblocages déjà obtenus par le personnage.</span>
+    </div>
+</div>
+
+<div class="voie-list" style="margin-bottom: 44px;">
+    <div class="voie-item">
+        <span class="voie-name">OnUnlockAchieved</span>
+        <span class="voie-desc">Delegate déclenché lorsqu'un déblocage est obtenu — notifie l'UI pour afficher la récompense et met à jour les systèmes liés.</span>
+        <span class="voie-tag">Delegate</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name">OnProgressUpdated</span>
+        <span class="voie-desc">Delegate déclenché à chaque mise à jour de compteur — utilisé en interne pour les vérifications de seuil.</span>
+        <span class="voie-tag">Delegate</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name">UHWUnlockDefinition</span>
+        <span class="voie-desc">DataAsset définissant un déblocage : identifiant, description, liste de conditions requises et récompense associée.</span>
+        <span class="voie-tag">DataAsset</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name">UHWUnlockCondition</span>
+        <span class="voie-desc">Condition individuelle pour un déblocage — type de compteur, seuil requis, opérateur de comparaison.</span>
+        <span class="voie-tag">DataAsset</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name">UHWUnlockableReward</span>
+        <span class="voie-desc">Récompense associée à un déblocage — peut être un objet, une compétence, un titre, un accès ou un GameplayEffect permanent.</span>
+        <span class="voie-tag">DataAsset</span>
+    </div>
+</div>
+
+<!-- ===== Dialogue et PNJ ===== -->
+<div class="section-header" id="dialogue">
+    <h2>Dialogue et PNJ</h2>
+    <span class="section-count">UHWNPCComponent · UHWDialogueComponent · UHWDialogueData</span>
+</div>
+
+<div class="codex-panel">
+    <div class="codex-label">PNJ vivants avec dialogues conditionnels et arbres de conversation</div>
+    <p>
+        <strong style="color:var(--gold);">UHWNPCComponent</strong> donne vie aux PNJ : nom, tag d'identification, dialogues par défaut et <strong style="color:var(--gold);">dialogues conditionnels</strong> qui varient selon la progression du joueur, ses relations de faction ou ses quêtes actives.
+        Chaque PNJ peut proposer des quêtes via <strong style="color:var(--cyan);">AvailableQuests</strong> et servir de marchand via <strong style="color:var(--cyan);">ShopInventoryTag</strong>.
+    </p>
+    <p style="margin-bottom:0;">
+        Côté joueur, <strong style="color:var(--gold);">UHWDialogueComponent</strong> gère l'état de la conversation : navigation dans l'arbre de dialogue, vérification des conditions de branchement, suivi du noeud actif.
+        Les données d'arbre sont définies dans des <strong style="color:var(--cyan);">UHWDialogueData</strong> (DataAssets).
+    </p>
+</div>
+
+<div class="feature-list">
+    <div class="feature-item">
+        <span class="feature-key">NPCName / NPCTag</span>
+        <span class="feature-value">Nom affiché du PNJ et tag unique d'identification pour le référencement dans les systèmes de quêtes et de dialogue.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">DefaultDialogue / ConditionalDialogues</span>
+        <span class="feature-value">Dialogue par défaut et liste de dialogues conditionnels évalués par priorité — le premier dont les conditions sont remplies remplace le dialogue par défaut.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">StartDialogue</span>
+        <span class="feature-value">Initialise une conversation : verrouille le joueur (bInDialogue), charge l'arbre de dialogue, positionne le noeud initial (CurrentNodeIndex) et lie le NPC actif (CurrentNPC).</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">SelectChoice</span>
+        <span class="feature-value">Sélectionne une option de dialogue parmi les choix disponibles au noeud courant. Navigue vers le noeud suivant en fonction du choix.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">AdvanceDialogue</span>
+        <span class="feature-value">Avance au noeud suivant dans une séquence linéaire (dialogue sans choix). Vérifie les conditions de branchement automatique.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">EndDialogue</span>
+        <span class="feature-value">Termine la conversation, libère le joueur et réinitialise l'état du composant de dialogue.</span>
+    </div>
+</div>
+
+<!-- ===== Interactables ===== -->
+<div class="section-header" id="interactables">
+    <h2>Interactables</h2>
+    <span class="section-count">IInteractable · Containers · Portes · Supply Pods</span>
+</div>
+
+<div class="codex-panel cyan-accent">
+    <div class="codex-label">Objets interactifs du monde</div>
+    <p>
+        L'interface <strong style="color:var(--cyan);">IInteractable</strong> unifie tous les objets interactifs du monde via trois méthodes : <strong style="color:var(--cyan);">Interact</strong> (exécuter l'interaction), <strong style="color:var(--cyan);">GetInteractableGUID</strong> et <strong style="color:var(--cyan);">SetInteractableGUID</strong> (identification unique pour la persistance).
+    </p>
+    <p style="margin-bottom:0;">
+        <strong style="color:var(--gold);">ADynamicContentManager</strong> instancie les interactables depuis une DataTable, permettant le peuplement dynamique des zones sans placement manuel dans l'éditeur.
+    </p>
+</div>
+
+<div class="voie-list" style="margin-bottom: 44px;">
+    <div class="voie-item">
+        <span class="voie-name">AHWContainer</span>
+        <span class="voie-desc">Coffres et conteneurs pillables avec gestion d'état ouvert/fermé. Contenu généré via le système de loot ou pré-défini. Persistance de l'état entre sessions.</span>
+        <span class="voie-tag">Loot · Persistance</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name">AHWDoor</span>
+        <span class="voie-desc">Portes interactives avec animation d'ouverture/fermeture. Peuvent être verrouillées et nécessiter une clé, une compétence ou un événement pour être débloquées.</span>
+        <span class="voie-tag">Passage · Verrou</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name">ASupplyPod</span>
+        <span class="voie-desc">Capsules de ravitaillement apparaissant dans le monde — contenu unique récupérable une seule fois par personnage.</span>
+        <span class="voie-tag">Drop · Unique</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name">ADynamicContentManager</span>
+        <span class="voie-desc">Gestionnaire de spawn dynamique : lit une DataTable et instancie les interactables correspondants dans la zone au chargement.</span>
+        <span class="voie-tag">Spawn · DataTable</span>
+    </div>
+</div>
+
+<!-- ===== Contrôleur Joueur ===== -->
+<div class="section-header" id="controleur">
+    <h2>Contrôleur Joueur</h2>
+    <span class="section-count">AHWPlayerController · AHWLoginPlayerController</span>
+</div>
+
+<div class="codex-panel">
+    <div class="codex-label">Point central de la logique joueur</div>
+    <p>
+        <strong style="color:var(--gold);">AHWPlayerController</strong> est le contrôleur principal qui orchestre les interactions entre les systèmes : inventaire, conteneurs, persistance, dialogue et équipement.
+        Il gère les actions de haut niveau du joueur et la communication avec le backend OWS.
+    </p>
+    <p style="margin-bottom:0;">
+        <strong style="color:var(--gold);">AHWLoginPlayerController</strong> gère le flux de connexion et de sélection de personnage avant l'entrée en jeu.
+    </p>
+</div>
+
+<div class="feature-list">
+    <div class="feature-item">
+        <span class="feature-key">Interact</span>
+        <span class="feature-value">Déclenche l'interaction avec l'objet IInteractable le plus proche — ouvre un coffre, parle à un PNJ, franchit une porte.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">TravelToZone</span>
+        <span class="feature-value">Initie le voyage vers une autre zone du monde — communique avec le backend OWS pour le transfert de serveur.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">SaveCharacterCustomization</span>
+        <span class="feature-value">Persiste les données d'apparence du personnage (morphologie, couleurs, éléments cosmétiques) côté serveur.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">SaveWeaponMastery</span>
+        <span class="feature-value">Sauvegarde les niveaux de maîtrise de chaque type d'arme pour le personnage actif.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">SaveCharacterProgression</span>
+        <span class="feature-value">Persiste l'ensemble de la progression du personnage — statistiques, compteurs cachés, déblocages obtenus.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">HandleDialogueAction</span>
+        <span class="feature-value">Traite les actions de dialogue entrantes (choix, avancement, fin) et les route vers le UHWDialogueComponent approprié.</span>
+    </div>
+</div>
+
+<!-- ===== Interface Utilisateur ===== -->
+<div class="section-header" id="interface">
+    <h2>Interface Utilisateur</h2>
+    <span class="section-count">HUD · Widgets · CommonUI</span>
+</div>
+
+<div class="codex-panel cyan-accent">
+    <div class="codex-label">Architecture UI modulaire</div>
+    <p>
+        L'interface repose sur le framework <strong style="color:var(--cyan);">CommonUI</strong> d'Unreal avec des widgets activables héritant de <strong style="color:var(--cyan);">UHWCommonActivatableWidget</strong>.
+        Le HUD principal (<strong style="color:var(--cyan);">AHWHUD</strong>) gère les éléments dynamiques comme les nombres de dégâts flottants avec scaling, fade et couleurs contextuelles.
+    </p>
+    <p style="margin-bottom:0;">
+        Chaque système majeur dispose de son propre widget dédié, maintenant une séparation claire des responsabilités.
+    </p>
+</div>
+
+<div class="voie-list" style="margin-bottom: 44px;">
+    <div class="voie-item">
+        <span class="voie-name">AHWHUD</span>
+        <span class="voie-desc">HUD principal affichant les nombres de dégâts flottants avec effets de scaling progressif, fade-out temporisé et couleurs différenciées selon le type de dégâts (physique, magique, soin, critique).</span>
+        <span class="voie-tag">Dégâts · Feedback</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name">UHWCommonInventoryListWidget / UHWInventoryEntry</span>
+        <span class="voie-desc">Liste d'inventaire avec entrées individuelles affichant icône, quantité, rareté et tooltip détaillé au survol. UHWInventoryListWidget fournit une variante spécialisée.</span>
+        <span class="voie-tag">Inventaire · Items</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name">UHWEquipmentWidget</span>
+        <span class="voie-desc">Interface d'équipement avec emplacements dédiés (tête, torse, jambes, arme principale, arme secondaire, accessoires). Drag-and-drop depuis l'inventaire.</span>
+        <span class="voie-tag">Équipement · Slots</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name">UHWDialogueWidget</span>
+        <span class="voie-desc">Affichage des dialogues avec texte progressif, portrait du PNJ, et liste de choix interactifs lorsque le noeud le requiert.</span>
+        <span class="voie-tag">Dialogue · Choix</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name">UHWSkillBarWidget + UHWSkillBarComponent</span>
+        <span class="voie-desc">Barre de compétences affichant les emplacements actifs avec icônes, cooldowns en temps réel et indicateurs de ressources. Le composant logique gère le binding des compétences.</span>
+        <span class="voie-tag">Compétences · Cooldowns</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name">UHWMobNameplateWidget + UHWMobNameplateWidgetComponent</span>
+        <span class="voie-desc">Barres de vie et noms flottants au-dessus des ennemis, avec indication du niveau relatif et des états de combat actifs.</span>
+        <span class="voie-tag">Mobs · Barres de vie</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name">UHWQuestTrackerWidget</span>
+        <span class="voie-desc">Tracker de quêtes affiché en permanence — liste les objectifs actifs avec progression en temps réel et indicateurs de complétion.</span>
+        <span class="voie-tag">Quêtes · Suivi</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name">UHWCombatStateIconEntry</span>
+        <span class="voie-desc">Icônes de buffs et debuffs affichés dans la zone d'état du personnage — durée restante, stacks et tooltip descriptif.</span>
+        <span class="voie-tag">Buffs · Debuffs</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name">UHWCustomButton</span>
+        <span class="voie-desc">Widget bouton personnalisé avec support du style visuel HybeliorWorld — états hover, pressed, disabled avec effets visuels cohérents.</span>
+        <span class="voie-tag">UI · Base</span>
+    </div>
+</div>
+
+<!-- ===== Input et Configuration ===== -->
+<div class="section-header" id="input">
+    <h2>Input et Configuration</h2>
+    <span class="section-count">Enhanced Input System · Keybindings</span>
+</div>
+
+<div class="codex-panel cyan-accent">
+    <div class="codex-label">Système d'entrées basé sur les Gameplay Tags</div>
+    <p>
+        <strong style="color:var(--cyan);">UHWInputConfig</strong> est un DataAsset qui mappe les Input Actions vers des Gameplay Tags, séparant les actions natives (<strong style="color:var(--cyan);">NativeInputActions</strong> — mouvement, caméra, interaction) des actions de compétences (<strong style="color:var(--cyan);">AbilityInputActions</strong> — barre de skills, sorts).
+    </p>
+    <p style="margin-bottom:0;">
+        <strong style="color:var(--cyan);">UHWInputComponent</strong> étend le Enhanced Input System d'UE5 pour lier automatiquement les actions aux tags configurés.
+        <strong style="color:var(--gold);">UHWSettingsLocal</strong> gère la configuration joueur : sensibilité, keybindings personnalisés et préférences d'entrée.
+    </p>
+</div>
+
+<div class="feature-list">
+    <div class="feature-item">
+        <span class="feature-key">NativeInputActions</span>
+        <span class="feature-value">Actions d'entrée fondamentales mappées à des Gameplay Tags — déplacement, rotation caméra, saut, interaction, ouverture de menus.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">AbilityInputActions</span>
+        <span class="feature-value">Actions liées aux compétences du Gameplay Ability System — chaque emplacement de la barre de skills est associé à un tag d'input unique.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">UHWSettingsLocal</span>
+        <span class="feature-value">Stockage des préférences joueur : remapping des touches, sensibilité souris/manette, configuration des raccourcis personnalisés persistant entre les sessions.</span>
+    </div>
+</div>
+
+<!-- ===== Systèmes de Base ===== -->
+<div class="section-header" id="systemes-base">
+    <h2>Systèmes de Base</h2>
+    <span class="section-count">GameMode · Assets · Portails · Sérialisation</span>
+</div>
+
+<div class="codex-panel">
+    <div class="codex-label">Infrastructure fondamentale du projet</div>
+    <p>
+        <strong style="color:var(--gold);">AHWGameMode</strong> étend <strong style="color:var(--cyan);">AOWSGameMode</strong> (Open World Server) et intègre les effets d'états de combat élémentaires : <strong style="color:var(--gold);">Cold</strong>, <strong style="color:var(--gold);">Burning</strong>, <strong style="color:var(--gold);">Wet</strong>, <strong style="color:var(--gold);">Electrified</strong>, <strong style="color:var(--gold);">Frozen</strong> et <strong style="color:var(--gold);">Charged</strong>. Ces effets sont appliqués via des GameplayEffects et peuvent interagir entre eux (Wet + Electrified = dégâts amplifiés).
+    </p>
+    <p style="margin-bottom:0;">
+        <strong style="color:var(--cyan);">UHWAssetManager</strong> remplace l'asset manager par défaut pour exécuter des tâches de démarrage personnalisées et initialiser le Gameplay Ability System au chargement.
+    </p>
+</div>
+
+<div class="voie-list" style="margin-bottom: 44px;">
+    <div class="voie-item">
+        <span class="voie-name">AHWPortal</span>
+        <span class="voie-desc">Point de voyage rapide entre zones. Déclenche le TravelToZone du contrôleur joueur et gère la transition visuelle. Chaque portail est lié à une zone cible et un point d'apparition.</span>
+        <span class="voie-tag">Voyage · Zones</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name">AHWLocationTrigger</span>
+        <span class="voie-desc">Volume de détection qui marque un lieu comme visité lorsque le joueur y entre. Alimente le système de progression cachée via MarkLocationVisited.</span>
+        <span class="voie-tag">Exploration · Trigger</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name">UHWCharacterCustomComponent</span>
+        <span class="voie-desc">Composant de personnalisation d'apparence : morphologie, couleurs de peau/cheveux/yeux, éléments cosmétiques. Données sérialisées pour la persistance serveur.</span>
+        <span class="voie-tag">Apparence · Custom</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name">UHWLootTable</span>
+        <span class="voie-desc">DataAsset définissant les tables de loot avec probabilités de drop, scaling par niveau du joueur et de l'ennemi, et catégories de rareté.</span>
+        <span class="voie-tag">Loot · Probabilités</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name">UHWJsonSerialization</span>
+        <span class="voie-desc">Utilitaires de sérialisation JSON pour la conversion bidirectionnelle entre les structures C++ du jeu et le format JSON utilisé par le backend OWS.</span>
+        <span class="voie-tag">JSON · Persistance</span>
+    </div>
+</div>

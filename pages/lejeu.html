@@ -1,0 +1,31 @@
+<h1>Le Jeu</h1>
+<p class="page-subtitle">Gameplay, mécaniques et architecture technique d'Hybélior</p>
+<div class="divider"><div class="divider-gem"></div></div>
+
+<div class="subtab-content" id="lejeu-subtab-content"></div>
+
+<script>
+SubTabs.init(
+  'lejeu',
+  '#global-subtab-nav',
+  '#lejeu-subtab-content',
+  [
+    { key: 'combat',      label: 'Combat & Armes',       src: '/pages/gameplay-combat.html' },
+    { key: 'magie',       label: 'Magie',                src: '/pages/gameplay-magie.html' },
+    { key: 'progression', label: 'Progression',          src: '/pages/gameplay-progression.html' },
+    { key: 'metiers',     label: 'Métiers',              src: '/pages/gameplay-metiers.html' },
+    { key: 'monde',       label: 'Monde & Société',      src: '/pages/gameplay-monde.html' },
+    { key: 'architecture',label: 'Architecture',         src: '/pages/lejeu-architecture.html' },
+    { key: 'code-combat', label: 'Code: Combat',         src: '/pages/lejeu-code-combat.html' },
+    { key: 'code-systemes',label: 'Code: Systèmes',     src: '/pages/lejeu-code-systemes.html' },
+  ],
+  'combat',
+  function(html, key) {
+    var sidebar = document.getElementById('site-sidebar');
+    var content = document.getElementById('lejeu-subtab-content');
+    if (sidebar && content && window.SidebarTOC) {
+      SidebarTOC.build(sidebar, content);
+    }
+  }
+);
+</script>

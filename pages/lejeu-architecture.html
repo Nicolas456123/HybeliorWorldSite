@@ -1,0 +1,321 @@
+<!-- ===== Vue d'ensemble ===== -->
+<div class="section-header" id="vue-ensemble">
+    <h2>Vue d'ensemble</h2>
+    <span class="section-count">UE5.4 · GAS · OWS · MMO</span>
+</div>
+
+<div class="codex-panel cyan-accent">
+    <div class="codex-label">Architecture technique du projet HybeliorWorld</div>
+    <p>
+        HybeliorWorld est un projet <strong style="color:var(--cyan);">Unreal Engine 5.4</strong> construit autour du
+        <strong style="color:var(--cyan);">Gameplay Ability System (GAS)</strong> pour la gestion des compétences, effets et attributs de combat.
+        L'architecture MMO repose sur <strong style="color:var(--cyan);">Open World Server (OWS)</strong>, un backend .NET en microservices
+        qui gère l'authentification, la persistance des personnages, les instances de zones et la communication inter-serveurs.
+    </p>
+    <p style="margin-bottom:0;">
+        Le projet s'organise autour d'un module Runtime unique : <strong style="color:var(--gold);">HybeliorWorld</strong>.
+        La base de code C++ compte environ <strong style="color:var(--gold);">72 fichiers</strong> (répartis entre Public et Private),
+        complétés par plus de <strong style="color:var(--gold);">35 679 assets Blueprint</strong> couvrant les abilities, les interfaces, le PCG, les GameplayEffects et l'ensemble du contenu de jeu.
+    </p>
+</div>
+
+<div class="feature-list">
+    <div class="feature-item">
+        <span class="feature-key">Moteur</span>
+        <span class="feature-value">Unreal Engine 5.4 — Nanite, Lumen, World Partition, Enhanced Input, CommonUI.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">Gameplay Framework</span>
+        <span class="feature-value">Gameplay Ability System (GAS) — Abilities, GameplayEffects, GameplayCues, AttributeSets, GameplayTags.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">Backend MMO</span>
+        <span class="feature-value">Open World Server (OWS) — API REST .NET, microservices (auth, characters, instances, global data), base de données persistante.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">Module Runtime</span>
+        <span class="feature-value">HybeliorWorld — module unique contenant l'ensemble de la logique C++ du jeu, organisé en 14 sous-systèmes.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">Code C++</span>
+        <span class="feature-value">~72 fichiers source répartis entre les dossiers Public/ (headers) et Private/ (implémentation).</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">Assets Blueprint</span>
+        <span class="feature-value">35 679+ assets — Blueprints, DataAssets, DataTables, GameplayAbilities, GameplayEffects, GameplayCues, Widgets, Maps.</span>
+    </div>
+</div>
+
+<!-- ===== Plugins et Dépendances ===== -->
+<div class="section-header" id="plugins">
+    <h2>Plugins et Dépendances</h2>
+    <span class="section-count">11 plugins majeurs</span>
+</div>
+
+<div class="codex-panel">
+    <div class="codex-label">Écosystème de plugins</div>
+    <p style="margin-bottom:0;">
+        Le projet s'appuie sur un ensemble de plugins Epic officiels et tiers pour couvrir les besoins d'un MMO open-world complet :
+        combat, réseau, IA, génération procédurale, environnement aquatique et interfaces.
+    </p>
+</div>
+
+<div class="feature-list">
+    <div class="feature-item">
+        <span class="feature-key">GameplayAbilities</span>
+        <span class="feature-value">Plugin Epic officiel — Gameplay Ability System complet : Abilities, Effects, Cues, AttributeSets, Tags, Tasks. Coeur du système de combat et de compétences.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">ReplicationGraph</span>
+        <span class="feature-value">Optimisation de la réplication réseau pour les environnements massivement multijoueurs. Gestion spatiale des acteurs répliqués selon la distance et la pertinence.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">OWSPlugin</span>
+        <span class="feature-value">Plugin client Open World Server — communication avec le backend REST, gestion des sessions, travel entre zones, persistance des personnages côté serveur.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">CommonUI</span>
+        <span class="feature-value">Framework UI d'Epic pour la gestion multi-plateforme des interfaces. Navigation par stack, support gamepad natif, gestion des focus et des couches d'UI.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">TargetingSystem</span>
+        <span class="feature-value">Système de ciblage avancé — sélection de cibles par filtres (distance, angle, type, faction), utilisé par le GAS pour les abilities et les GameplayEffects.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">EnhancedInput</span>
+        <span class="feature-value">Système d'input UE5 — Input Actions, Input Mapping Contexts, modifiers et triggers. Support clavier/souris, manette et multi-périphérique.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">PCG (Procedural Content Generation)</span>
+        <span class="feature-value">Génération procédurale de contenu environnemental — placement de végétation, rochers, détails de terrain sur les cartes de 20 à 50 km.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">Oceanology</span>
+        <span class="feature-value">Plugin tiers — simulation d'océan dynamique avec vagues, courants, buoyancy, rendu sous-marin et interactions physiques.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">Riverology</span>
+        <span class="feature-value">Plugin tiers — système de rivières procédurales avec flux directionnel, écume, interactions avec le terrain et connexion au système Oceanology.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">LiveLink</span>
+        <span class="feature-value">Pipeline d'animation temps réel — connexion avec des outils externes (Maya, MotionBuilder, capture faciale) pour le streaming d'animation en direct dans l'éditeur.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">AIModule</span>
+        <span class="feature-value">Module IA natif Unreal — Behavior Trees, Blackboard, EQS (Environment Query System), AI Perception. Base de l'IA des mobs et PNJ.</span>
+    </div>
+</div>
+
+<!-- ===== Structure des Modules ===== -->
+<div class="section-header" id="modules">
+    <h2>Structure des Modules</h2>
+    <span class="section-count">14 systèmes majeurs · ~72 fichiers C++</span>
+</div>
+
+<div class="codex-panel cyan-accent">
+    <div class="codex-label">Organisation du code source</div>
+    <p style="margin-bottom:0;">
+        Le module <strong style="color:var(--cyan);">HybeliorWorld</strong> est structuré en 14 sous-systèmes, chacun regroupant ses classes
+        dans les dossiers <code>Public/</code> (headers) et <code>Private/</code> (implémentation). Le nombre de fichiers indiqué correspond
+        au total headers + sources pour chaque système.
+    </p>
+</div>
+
+<div class="feature-list">
+    <div class="feature-item">
+        <span class="feature-key">AbilitySystem <span style="color:var(--gold);">· 17 fichiers</span></span>
+        <span class="feature-value">Coeur du GAS — implémentation des GameplayAbilities, calcul de dégâts (UHWDamageExecCalc), AttributeSets (UHWAttributeSetBase, UHWCombatAttributeSet), AbilitySystemComponent custom, Ability Tasks spécialisés, GameplayEffects et GameplayCues.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">UI <span style="color:var(--gold);">· 14 fichiers</span></span>
+        <span class="feature-value">Systèmes de widgets — HUD principal, menus, barres de compétences, inventaire UI, fenêtres de dialogue, notifications. Basé sur CommonUI avec des widgets C++ exposés aux Blueprints.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">Character <span style="color:var(--gold);">· 4 fichiers</span></span>
+        <span class="feature-value">Classes de personnages de base — AHWCharacter (base avec apparence et ciblage), AHWGASCharacter (intégration GAS, attributs de combat). Hiérarchie extensible pour joueurs et mobs.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">Combat <span style="color:var(--gold);">· 3 fichiers</span></span>
+        <span class="feature-value">Système de combos et enchaînements, maîtrise d'arme progressive, réactions élémentaires entre GameplayEffects. Gestion du momentum et des états de combat.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">Input <span style="color:var(--gold);">· 3 fichiers</span></span>
+        <span class="feature-value">Gestion des entrées joueur via Enhanced Input — Input Mapping Contexts, binding dynamique des actions, support multi-périphérique (clavier/souris, manette).</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">Interactables <span style="color:var(--gold);">· 4 fichiers</span></span>
+        <span class="feature-value">Objets interactifs du monde — conteneurs, portes, Supply Pods, leviers. Interface commune IHWInteractable avec détection de proximité et feedback visuel.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">AI <span style="color:var(--gold);">· 2 fichiers</span></span>
+        <span class="feature-value">Tasks de Behavior Tree custom et intégration avec le AIModule. Logique de décision des ennemis, patrouille, aggro et comportements de groupe.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">Inventory <span style="color:var(--gold);">· 2 fichiers</span></span>
+        <span class="feature-value">Système de gestion d'inventaire — items, stacks, équipement, transferts entre conteneurs. Données persistées via OWS.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">MobManager <span style="color:var(--gold);">· 2 fichiers</span></span>
+        <span class="feature-value">Spawning et gestion des ennemis — pools de mobs, respawn timers, densité dynamique selon la zone et la population de joueurs.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">NPC <span style="color:var(--gold);">· 2 fichiers</span></span>
+        <span class="feature-value">Comportement des PNJ non-hostiles — routines quotidiennes, dialogues, interactions marchandes, réactions contextuelles au joueur.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">Progression <span style="color:var(--gold);">· 1 fichier</span></span>
+        <span class="feature-value">Système de progression par pratique — calcul des gains de maîtrise, décroissance, seuils de déblocage, intégration avec les GameplayTags.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">Loot <span style="color:var(--gold);">· 1 fichier</span></span>
+        <span class="feature-value">Système de loot — tables de drop, rareté, calcul contextuel des récompenses selon le type d'ennemi et la zone.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">Quest <span style="color:var(--gold);">· 1 fichier</span></span>
+        <span class="feature-value">Système de quêtes — suivi des objectifs, conditions de complétion, récompenses, intégration avec le système de factions et de progression.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">World / Portals <span style="color:var(--gold);">· 2 fichiers</span></span>
+        <span class="feature-value">Téléportation et gestion des locations — portails entre zones, travel inter-serveurs via OWS, points de spawn, World Partition streaming.</span>
+    </div>
+</div>
+
+<!-- ===== Hiérarchie des Personnages ===== -->
+<div class="section-header" id="hierarchie">
+    <h2>Hiérarchie des Personnages</h2>
+    <span class="section-count">Héritage C++ · 5 classes</span>
+</div>
+
+<div class="codex-panel">
+    <div class="codex-label">Chaîne d'héritage des classes Character</div>
+    <p style="margin-bottom:0;">
+        L'architecture des personnages suit une hiérarchie d'héritage stricte, partant de la classe de base Unreal
+        <strong style="color:var(--gold);">ACharacter</strong> jusqu'aux spécialisations joueur et mob.
+        Chaque niveau ajoute une couche de fonctionnalité sans dupliquer de logique.
+    </p>
+</div>
+
+<div class="voie-list">
+    <div class="voie-item">
+        <span class="voie-name">ACharacter</span>
+        <span class="voie-desc">Classe de base Unreal Engine — CharacterMovementComponent, CapsuleComponent, SkeletalMesh. Gère le déplacement physique, la gravité, le networking de base.</span>
+        <span class="voie-tag">UE5 · Base</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name">AHWCharacter</span>
+        <span class="voie-desc">Classe de base HybeliorWorld — système d'apparence personnalisable, composant de ciblage (lock-on), animations de base, interface d'interaction. Tous les personnages du jeu héritent de cette classe.</span>
+        <span class="voie-tag">Apparence · Ciblage</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name">AHWGASCharacter</span>
+        <span class="voie-desc">Intégration complète du GAS — AbilitySystemComponent, AttributeSets (vie, mana, endurance, stats de combat), application et réception de GameplayEffects, GameplayTags d'état. Classe parente commune aux joueurs et aux mobs.</span>
+        <span class="voie-tag">GAS · Attributs · Combat</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name">AHWGASPlayerCharacter</span>
+        <span class="voie-desc">Spécialisation joueur — gestion des inputs (Enhanced Input), caméra troisième personne, système d'équipement (armes, armure, accessoires), barre de compétences, inventaire, intégration UI/HUD, persistance via OWS.</span>
+        <span class="voie-tag">Joueur · Input · Équipement</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name">AHWGASMobCharacter</span>
+        <span class="voie-desc">Spécialisation ennemi — contrôleur IA (Behavior Tree + Blackboard), système de loot (tables de drop), intégration avec le MobManager (spawning, respawn, pools), AI Perception pour la détection des joueurs.</span>
+        <span class="voie-tag">IA · Loot · Spawner</span>
+    </div>
+</div>
+
+<div class="lore-block">
+    <div class="lore-block-title">— Schéma d'héritage —</div>
+    <p style="font-family:monospace; font-size:0.95em; line-height:1.8; margin-bottom:0;">
+        <strong style="color:var(--gold);">ACharacter</strong> <span style="color:#666;">→</span>
+        <strong style="color:var(--gold);">AHWCharacter</strong> <span style="color:#666;">(apparence, ciblage)</span> <span style="color:#666;">→</span>
+        <strong style="color:var(--gold);">AHWGASCharacter</strong> <span style="color:#666;">(GAS, attributs de combat)</span> <span style="color:#666;">→</span><br>
+        &nbsp;&nbsp;&nbsp;&nbsp;├── <strong style="color:var(--cyan);">AHWGASPlayerCharacter</strong> <span style="color:#666;">(input, caméra, équipement, UI)</span><br>
+        &nbsp;&nbsp;&nbsp;&nbsp;└── <strong style="color:var(--cyan);">AHWGASMobCharacter</strong> <span style="color:#666;">(IA, loot, spawner)</span>
+    </p>
+</div>
+
+<!-- ===== Content Directory Structure ===== -->
+<div class="section-header" id="content">
+    <h2>Structure du Répertoire Content</h2>
+    <span class="section-count">6 dossiers principaux</span>
+</div>
+
+<div class="codex-panel cyan-accent">
+    <div class="codex-label">Arborescence des assets</div>
+    <p style="margin-bottom:0;">
+        Le dossier <strong style="color:var(--cyan);">Content/</strong> du projet est organisé par domaine fonctionnel.
+        Les assets Blueprint, DataTables, GameplayEffects, Widgets et Maps sont séparés pour faciliter
+        le versioning et le travail collaboratif.
+    </p>
+</div>
+
+<div class="feature-list">
+    <div class="feature-item">
+        <span class="feature-key">AbilitySystem/</span>
+        <span class="feature-value">Coeur du GAS côté assets — sous-dossiers : <strong style="color:var(--gold);">Abilities/</strong> (GameplayAbilities Blueprint), <strong style="color:var(--gold);">GEs/</strong> (GameplayEffects : buffs, debuffs, dégâts, regen), <strong style="color:var(--gold);">GameplayCues/</strong> (effets visuels et sonores déclenchés par les tags), <strong style="color:var(--gold);">Projectiles/</strong> (projectiles magiques et physiques), <strong style="color:var(--gold);">Tags/</strong> (GameplayTag DataTables).</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">BP/</span>
+        <span class="feature-value">Blueprints principaux — sous-dossiers : <strong style="color:var(--gold);">Game/</strong> (GameMode, GameState, PlayerState), <strong style="color:var(--gold);">HUD/</strong> (widgets d'interface en jeu), <strong style="color:var(--gold);">Inventory/</strong> (système d'inventaire BP), <strong style="color:var(--gold);">Login/</strong> (écran de connexion OWS, sélection de personnage), <strong style="color:var(--gold);">PCG/</strong> (graphes de génération procédurale), <strong style="color:var(--gold);">Portals/</strong> (acteurs de téléportation).</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">Input/</span>
+        <span class="feature-value"><strong style="color:var(--gold);">28 Input Actions</strong> définies (mouvement, combat, interaction, UI, caméra, abilities) avec leurs Input Mapping Contexts pour clavier/souris et manette. Modifiers et Triggers configurés par action.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">Maps/</span>
+        <span class="feature-value">Mondes multiples utilisant World Partition — cartes allant de <strong style="color:var(--gold);">20 km</strong> à <strong style="color:var(--gold);">50 km</strong> de diamètre. Streaming par cellules, niveaux de données (Data Layers) pour le contenu saisonnier ou événementiel.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">Interactables/</span>
+        <span class="feature-value">Assets d'objets interactifs — <strong style="color:var(--gold);">Containers/</strong> (coffres, caisses, armoires), <strong style="color:var(--gold);">Doors/</strong> (portes avec états verrouillé/ouvert), <strong style="color:var(--gold);">SupplyPods/</strong> (capsules de ravitaillement, récompenses de zone).</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">_HWAssets/</span>
+        <span class="feature-value">Assets artistiques et médias — <strong style="color:var(--gold);">Characters/</strong> (meshes, rigs, animations des personnages), <strong style="color:var(--gold);">Audio/</strong> (musique, SFX, ambiances), <strong style="color:var(--gold);">Icons/</strong> (icônes d'items, compétences, UI), <strong style="color:var(--gold);">FX/</strong> (Niagara particles, post-process), <strong style="color:var(--gold);">Environment/</strong> (meshes de terrain, végétation, architecture).</span>
+    </div>
+</div>
+
+<!-- ===== Configuration ===== -->
+<div class="section-header" id="configuration">
+    <h2>Configuration</h2>
+    <span class="section-count">INI · GameplayTags · Enhanced Input</span>
+</div>
+
+<div class="codex-panel">
+    <div class="codex-label">Fichiers de configuration clés</div>
+    <p style="margin-bottom:0;">
+        La configuration du projet est répartie entre les fichiers <strong style="color:var(--gold);">.ini</strong> d'Unreal
+        et les systèmes de tags/input intégrés au GAS. Les paramètres réseau OWS, les tags de combat
+        et les mappings d'input sont les trois piliers de la configuration.
+    </p>
+</div>
+
+<div class="feature-list">
+    <div class="feature-item">
+        <span class="feature-key">DefaultGame.ini</span>
+        <span class="feature-value">Configuration OWS — URL de l'API backend, clés d'authentification, paramètres de session, timeouts réseau. Paramètres GAS globaux : modes de prédiction, réplication des GameplayEffects, politique de tags.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">DefaultGameplayTags.ini</span>
+        <span class="feature-value">Définition de l'arborescence complète des GameplayTags utilisés par le projet : <strong style="color:var(--gold);">CombatTags</strong> (états de combat, types de dégâts, conditions), <strong style="color:var(--gold);">InputTags</strong> (binding GAS des actions), <strong style="color:var(--gold);">AbilityTags</strong> (activation, cooldown, blocage), <strong style="color:var(--gold);">EquipmentTags</strong> (slots, types d'arme, rareté).</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">Enhanced Input</span>
+        <span class="feature-value">Configuration multi-périphérique — Input Mapping Contexts séparés pour clavier/souris et manette, avec priorités de contexte (gameplay, UI, véhicule, dialogue). Support du remapping en jeu par le joueur.</span>
+    </div>
+</div>
+
+<div class="lore-block" style="margin-bottom: 52px;">
+    <div class="lore-block-title">— Stack technique résumé —</div>
+    <p>
+        <strong style="color:var(--gold);">Client :</strong> Unreal Engine 5.4 · C++ (HybeliorWorld module) · Blueprints · GAS · Enhanced Input · CommonUI · World Partition · Nanite · Lumen · PCG · Niagara
+    </p>
+    <p>
+        <strong style="color:var(--gold);">Réseau :</strong> OWSPlugin · ReplicationGraph · Dedicated Servers · Zone-based instancing · Server travel
+    </p>
+    <p style="margin-bottom:0;">
+        <strong style="color:var(--gold);">Backend :</strong> Open World Server (.NET) · REST API · Microservices (Auth, Characters, Instances, GlobalData) · Base de données persistante
+    </p>
+</div>
