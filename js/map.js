@@ -197,26 +197,10 @@ function initMap() {
             renderAllBorders();
         }
 
-        // Load from static JSON first (continent outlines), then merge API data (user edits)
-        fetch('/local-borders.json')
-            .then(r => r.ok ? r.json() : [])
-            .then(staticBorders => {
-                parseBorders(staticBorders);
-                // Also load API borders (user-drawn country/region borders) and merge
-                return fetch('/api/borders').then(r => r.json()).catch(() => []);
-            })
-            .then(apiBorders => {
-                if (apiBorders && apiBorders.length > 0) {
-                    apiBorders.forEach(b => {
-                        const key = b.name + '|' + (b.era_id || 'actuelle');
-                        // API borders override static ones (for user edits)
-                        const pts = typeof b.points === 'string' ? JSON.parse(b.points) : b.points;
-                        const paths = b.paths ? (typeof b.paths === 'string' ? JSON.parse(b.paths) : b.paths) : null;
-                        bordersData[key] = { ...b, points: pts, paths: paths, parent_name: b.parent_name || null, svgElements: [] };
-                    });
-                    renderAllBorders();
-                }
-            })
+        // Load all borders from API (merges static + user-edited borders server-side)
+        fetch('/api/borders')
+            .then(r => r.json())
+            .then(borders => parseBorders(borders))
             .catch(err => console.warn('Chargement frontières:', err));
 
         // Timeline hook
@@ -1133,9 +1117,6 @@ function initMap() {
         });
 
         // Initial display update will happen in initTimelineUI → syncMapToYear
-
-        // Init civ explorer panel
-        initCivExplorer();
     }
 
     // Synchronise la carte avec l'année courante (year-based, pas era-based)
@@ -1149,93 +1130,6 @@ function initMap() {
         updateContinentNamesForYear(currentDisplayYear);
         updateCountryVisibilityForYear(currentDisplayYear);
         updateTextVisibility();
-        updateCivExplorer();
-    }
-
-    // ===== PANEL CIVILISATIONS ACTIVES =====
-    function updateCivExplorer() {
-        const HT = window.HYBELIOR_TIMELINE;
-        if (!HT || !HT.CIV || HT.CIV.length === 0) return;
-
-        const panel = document.getElementById('civExplorerPanel');
-        const list = document.getElementById('civExplorerList');
-        const countEl = document.getElementById('civExplorerCount');
-        if (!panel || !list) return;
-
-        const friseY = HT.mapYearToFriseY(currentDisplayYear);
-        const activeCivs = HT.CIV.filter(c => c.y0 <= friseY && c.y1 >= friseY);
-
-        countEl.textContent = activeCivs.length;
-
-        if (activeCivs.length === 0) {
-            list.innerHTML = '<div style="font-size:10px;color:#6a5438;padding:8px;text-align:center;">Aucune civilisation connue</div>';
-            return;
-        }
-
-        // Group by continent
-        const groups = {};
-        activeCivs.forEach(c => {
-            const cont = c.cont || 'Autre';
-            if (!groups[cont]) groups[cont] = [];
-            groups[cont].push(c);
-        });
-
-        let html = '';
-        Object.keys(groups).sort().forEach(cont => {
-            html += `<div class="civ-explorer-group-title">${cont}</div>`;
-            groups[cont].forEach(civ => {
-                const dateLabel = HT.yToDateLabel(civ.y0);
-                html += `<div class="civ-explorer-item" data-civ-name="${civ.name.replace(/"/g, '&quot;')}" data-cont="${cont}">
-                    <span class="civ-explorer-dot" style="background:${civ.color}"></span>
-                    <span class="civ-explorer-name">${civ.name}</span>
-                    <span class="civ-explorer-reg">${civ.reg || ''}</span>
-                    <span class="civ-explorer-cont">${cont}</span>
-                </div>`;
-            });
-        });
-
-        list.innerHTML = html;
-    }
-
-    // Civ explorer toggle
-    function initCivExplorer() {
-        const panel = document.getElementById('civExplorerPanel');
-        const toggle = document.getElementById('civExplorerToggle');
-        if (!panel || !toggle) return;
-
-        // Show panel by default
-        panel.classList.add('visible');
-
-        toggle.addEventListener('click', () => {
-            panel.classList.toggle('collapsed');
-        });
-
-        // Click on civ item → try to pan to country on map
-        document.getElementById('civExplorerList').addEventListener('click', (e) => {
-            const item = e.target.closest('.civ-explorer-item');
-            if (!item) return;
-            const civName = item.dataset.civName;
-            // Try to find the country text element on the map
-            if (svgOverlay) {
-                const textEls = svgOverlay.node().querySelectorAll('text');
-                for (const el of textEls) {
-                    if (el.textContent.trim() === civName) {
-                        const bbox = el.getBBox();
-                        const point = viewer.viewport.imageToViewportCoordinates(
-                            bbox.x + bbox.width/2, bbox.y + bbox.height/2
-                        );
-                        viewer.viewport.panTo(point);
-                        viewer.viewport.zoomTo(Math.max(viewer.viewport.getZoom(), 3));
-                        // Flash effect
-                        el.style.transition = 'fill 0.3s';
-                        const origFill = el.getAttribute('fill') || '';
-                        el.setAttribute('fill', '#ffd700');
-                        setTimeout(() => el.setAttribute('fill', origFill), 2000);
-                        break;
-                    }
-                }
-            }
-        });
     }
 
     function stepYears(delta) {
@@ -1370,6 +1264,9 @@ function initMap() {
 
         // 1. Normaliser les champs des ères
         timelineData.eras.forEach(era => {
+            // Ensure startYear/endYear are numbers (DB may return strings)
+            if (era.startYear !== undefined) era.startYear = Number(era.startYear);
+            if (era.endYear !== undefined) era.endYear = Number(era.endYear);
             if (!era.label && era.name) era.label = era.name;
             if (!era.date) era.date = formatEraDate(era.startYear, era.endYear);
         });
@@ -1385,8 +1282,8 @@ function initMap() {
                 yearRanges: (ct.timeline || [])
                     .filter(e => e.startYear !== undefined && e.endYear !== undefined)
                     .map(e => ({
-                        startYear: e.startYear,
-                        endYear: e.endYear,
+                        startYear: Number(e.startYear),
+                        endYear: Number(e.endYear),
                         name: e.name || ct.currentName
                     }))
                     .sort((a, b) => a.startYear - b.startYear)
@@ -1451,8 +1348,8 @@ function initMap() {
                     rawTimeline: (country.timeline || [])
                         .filter(e => e.startYear !== undefined && e.endYear !== undefined)
                         .map(e => ({
-                            startYear: e.startYear,
-                            endYear: e.endYear,
+                            startYear: Number(e.startYear),
+                            endYear: Number(e.endYear),
                             name: e.name || country.currentName
                         }))
                 }));

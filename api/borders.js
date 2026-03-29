@@ -57,36 +57,9 @@ export default async function handler(req, res) {
     await ensureTable();
 
     if (req.method === 'GET') {
-      // Load auto-traced continent borders from static JSON
-      let staticBorders = [];
-      try {
-        const fs = await import('fs');
-        const path = await import('path');
-        // Try multiple paths (Vercel serverless vs local dev)
-        const candidates = [
-          path.join(process.cwd(), 'local-borders.json'),
-          path.resolve(__dirname, '..', 'local-borders.json'),
-          '/var/task/local-borders.json',
-        ];
-        for (const fp of candidates) {
-          try {
-            if (fs.existsSync(fp)) {
-              staticBorders = JSON.parse(fs.readFileSync(fp, 'utf8'));
-              break;
-            }
-          } catch (_) {}
-        }
-      } catch (e) { /* file not available */ }
-
-      // Load user-edited borders from Turso DB
+      // Load borders from Turso DB
       const dbRows = await tursoExecute('SELECT name, entity_type, era_id, points, color, parent_name FROM country_borders');
-
-      // Merge: DB rows override static ones with same key
-      const merged = {};
-      for (const b of staticBorders) merged[b.name + '|' + (b.era_id || 'actuelle')] = b;
-      for (const b of dbRows) merged[b.name + '|' + (b.era_id || 'actuelle')] = b;
-
-      return res.status(200).json(Object.values(merged));
+      return res.status(200).json(dbRows);
     }
 
     if (req.method === 'POST') {
