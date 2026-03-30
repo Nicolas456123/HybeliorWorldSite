@@ -985,3 +985,10 @@ body.ios-fullscreen .ios-fullscreen-btn { top: env(safe-area-inset-top, 10px); }
     #timelineEraName { font-size: 11px; }
     #timelineEraDate { font-size: 10px; }
 }
+
+/* ── iOS Safari SVG text rendering fixes ── */
+svg text {
+    -webkit-text-size-adjust: none;
+    text-rendering: geometricPrecision;
+    -webkit-font-smoothing: antialiased;
+}

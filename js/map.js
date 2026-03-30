@@ -2045,6 +2045,8 @@ function initMap() {
             textElement.setAttribute("pointer-events", "none");
             textElement.setAttribute("paint-order", "stroke");
             textElement.setAttribute("stroke-linejoin", "round");
+            textElement.setAttribute("dominant-baseline", "central");
+            textElement.setAttribute("text-rendering", "geometricPrecision");
             if (letterSpacing > 0) {
                 textElement.setAttribute("letter-spacing", letterSpacing);
             }
@@ -2843,6 +2845,7 @@ function initMap() {
                         label.setAttribute("dominant-baseline", "middle");
                         label.setAttribute("font-family", "Verdana, sans-serif");
                         label.setAttribute("pointer-events", "none");
+                        label.setAttribute("text-rendering", "geometricPrecision");
                         label.textContent = `${coords.x},${coords.y}`;
                         
                         gridLayer.appendChild(label);
