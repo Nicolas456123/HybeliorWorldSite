@@ -67,6 +67,16 @@ var LoreSearch = (function() {
         var results = document.getElementById('lore-search-results');
         if (!input || !results) return;
 
+        // Move results dropdown to body so it escapes sidebar overflow:auto
+        document.body.appendChild(results);
+
+        function positionResults() {
+            var rect = input.getBoundingClientRect();
+            results.style.top = rect.bottom + 'px';
+            results.style.left = rect.left + 'px';
+            results.style.width = rect.width + 'px';
+        }
+
         input.addEventListener('input', function() {
             var val = input.value.trim();
             var res = search(val);
@@ -89,6 +99,7 @@ var LoreSearch = (function() {
                 });
             }
             results.innerHTML = html;
+            positionResults();
             results.style.display = 'block';
         });
 
