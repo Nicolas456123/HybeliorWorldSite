@@ -84,6 +84,13 @@ const Router = {
                 window.initMap();
             }
 
+            // Show/hide lore search
+            var loreSearchEl = document.getElementById('lore-search-wrapper');
+            if (loreSearchEl) {
+                loreSearchEl.style.display = (route === 'lore') ? '' : 'none';
+                if (route === 'lore') LoreSearch.load();
+            }
+
             // Pour les pages sans sous-onglets, construire le TOC automatiquement
             const subtabPages = ['lore', 'gameplay', 'lejeu', 'apprentissage'];
             if (!subtabPages.includes(route) && window.SidebarTOC) {

@@ -1,15 +1,8 @@
 <!-- Hero -->
 <div class="hero">
-    <img
-        src="/images/logo.png"
-        alt="Hybélior"
-        class="hero-logo"
-        onerror="this.style.display='none'; document.getElementById('hero-title-block').style.display='block';"
-    >
-    <div id="hero-title-block" style="display:none;">
-        <div class="hero-title-text">HYBÉLIOR</div>
-        <div class="hero-ornament"><div class="hero-ornament-diamond"></div></div>
-    </div>
+    <div class="hero-bg-pattern"></div>
+    <div class="hero-title-text">HYBÉLIOR</div>
+    <div class="hero-ornament"><div class="hero-ornament-diamond"></div></div>
     <p class="hero-tagline">Un monde à découvrir, un destin à choisir.</p>
 </div>
 
@@ -21,6 +14,16 @@
     Hybélior ne s'effondre pas spectaculairement. Il <em>s'étiole</em>.
     Les signes s'accumulent depuis des générations sans que personne n'en voie la totalité.
     Dans ce monde en lent déclin, votre légende reste à écrire.
+</div>
+
+<div class="divider"><div class="divider-gem"></div></div>
+
+<div class="section-header" style="margin-bottom: 8px;">
+    <h2>Qu'est-ce qu'Hybélior ?</h2>
+</div>
+
+<div class="context-section">
+    <p><strong>Hybélior</strong> est un jeu vidéo multijoueur et son univers étendu — lore, carte interactive, chroniques, lignées royales. Ce site vous permet d'explorer un monde dark fantasy de 13 continents, 37 nations et des millénaires d'histoire, que vous soyez joueur ou simple explorateur.</p>
 </div>
 
 <!-- Stats du monde -->
@@ -135,4 +138,47 @@
         <p>Combat hybride, magie du Lien, maîtrise des armes, Le Labeur — les mécaniques qui font d'Hybélior un monde unique.</p>
     </a>
 
+    <a href="#lore" class="card" data-subtab="chroniques">
+        <svg class="card-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4">
+            <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/>
+            <polyline points="14 2 14 8 20 8"/>
+            <line x1="16" y1="13" x2="8" y2="13"/>
+            <line x1="16" y1="17" x2="8" y2="17"/>
+        </svg>
+        <h3>Chroniques de l'Exilé</h3>
+        <p>Le journal de Sorin Valthen, cartographe banni de Kharazir — 40 chapitres à travers les 13 continents.</p>
+    </a>
+
+    <a href="#frise" class="card">
+        <svg class="card-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4">
+            <circle cx="12" cy="12" r="10"/>
+            <polyline points="12 6 12 12 16 14"/>
+        </svg>
+        <h3>Frise chronologique</h3>
+        <p>Des milliers d'années d'histoire — des premiers âges jusqu'à l'ère actuelle, visualisez le temps d'Hybélior.</p>
+    </a>
+
+    <a href="#lignees" class="card">
+        <svg class="card-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4">
+            <path d="M12 3v18"/>
+            <path d="M8 8H4a1 1 0 0 0-1 1v2a1 1 0 0 0 1 1h4"/>
+            <path d="M16 8h4a1 1 0 0 1 1 1v2a1 1 0 0 1-1 1h-4"/>
+            <path d="M8 16H6a1 1 0 0 0-1 1v2a1 1 0 0 0 1 1h2"/>
+            <path d="M16 16h2a1 1 0 0 1 1 1v2a1 1 0 0 1-1 1h-2"/>
+        </svg>
+        <h3>Lignées royales</h3>
+        <p>Les grandes dynasties des nations — arbres généalogiques, héritages et luttes de pouvoir.</p>
+    </a>
+
 </div>
+
+<script>
+document.querySelectorAll('.card[data-subtab]').forEach(function(card) {
+    card.addEventListener('click', function() {
+        var subtab = this.dataset.subtab;
+        if (subtab) {
+            setTimeout(function() { SubTabs.go('lore', subtab); }, 400);
+        }
+    });
+});
+</script>

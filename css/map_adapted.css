@@ -6,6 +6,7 @@
 /* Full-viewport map: hide nav when on carte page */
 body:has(.page-carte) .site-nav { display: none; }
 body:has(.page-carte) { overflow: hidden; }
+body:has(.page-carte) .site-footer { display: none; }
 .page-carte { margin-top: 0 !important; height: 100vh !important; overflow: hidden; }
 .page-carte .page-content { height: 100%; padding: 0; }
 .osd-container { width: 100vw; height: 100vh; position: relative; }

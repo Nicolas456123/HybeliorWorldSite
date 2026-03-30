@@ -56,6 +56,8 @@ body {
     background: var(--bg-dark);
     color: var(--text);
     min-height: 100vh;
+    display: flex;
+    flex-direction: column;
     line-height: 1.65;
     background-image:
         /* Grain parchemin — fibres horizontales très subtiles */
@@ -191,6 +193,7 @@ body {
     align-items: flex-start;
     margin-top: var(--nav-height);
     min-height: calc(100vh - var(--nav-height));
+    flex: 1;
 }
 
 /* Sidebar globale */
@@ -352,15 +355,20 @@ p {
 .hero {
     text-align: center;
     padding: 16px 0 48px;
+    position: relative;
+    overflow: hidden;
 }
 
-.hero-logo {
-    width: 100%;
-    max-width: 820px;
-    height: auto;
-    display: block;
-    margin: 0 auto 36px;
-    filter: drop-shadow(0 4px 12px rgba(80, 50, 10, 0.25));
+.hero-bg-pattern {
+    position: absolute;
+    inset: 0;
+    opacity: 0.04;
+    background-image:
+        radial-gradient(circle at 20% 50%, var(--gold) 1px, transparent 1px),
+        radial-gradient(circle at 80% 30%, var(--gold) 1px, transparent 1px),
+        radial-gradient(circle at 50% 80%, var(--gold) 1px, transparent 1px);
+    background-size: 60px 60px, 80px 80px, 70px 70px;
+    pointer-events: none;
 }
 
 .hero-title-text {
@@ -374,8 +382,14 @@ p {
     background-clip: text;
     text-shadow: none;
     filter: drop-shadow(0 3px 6px rgba(80, 50, 10, 0.35));
+    animation: hero-glow 4s ease-in-out infinite alternate;
     margin-bottom: 20px;
     line-height: 1.1;
+}
+
+@keyframes hero-glow {
+    from { filter: drop-shadow(0 3px 6px rgba(80, 50, 10, 0.35)); }
+    to   { filter: drop-shadow(0 3px 12px rgba(150, 95, 20, 0.55)); }
 }
 
 .hero-ornament {
@@ -436,6 +450,22 @@ p {
     color: var(--cyan);
     opacity: 0.4;
     font-style: normal;
+}
+
+/* ===== Context section ===== */
+
+.context-section {
+    max-width: 760px;
+    margin: 0 auto 40px;
+    text-align: center;
+    font-size: 16px;
+    line-height: 1.8;
+    color: var(--text-soft, #4a3820);
+    padding: 0 24px;
+}
+.context-section strong {
+    color: var(--gold);
+    font-weight: 700;
 }
 
 /* ===== Pillar cards (3 pilliers) ===== */
@@ -3230,4 +3260,103 @@ select:focus-visible,
     .toc-list, .toc-progress, .toc-progress-label, .toc-title { display: none; }
     .subtab-content { padding-left: 0; border-left: none; }
     .hist-continent-grid { grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); }
+}
+
+/* ===== Footer ===== */
+.site-footer {
+    background: rgba(22, 14, 5, 0.97);
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+    border-top: 1px solid rgba(120, 78, 18, 0.35);
+    padding: 32px 36px;
+    text-align: center;
+    flex-shrink: 0;
+}
+.site-footer-inner {
+    max-width: 1080px;
+    margin: 0 auto;
+}
+.site-footer-title {
+    font-family: 'Cinzel', serif;
+    font-size: 13px;
+    letter-spacing: 3px;
+    color: #a86c1c;
+    margin-bottom: 8px;
+}
+.site-footer-copy {
+    font-size: 12px;
+    color: rgba(232, 222, 200, 0.5);
+    letter-spacing: 1px;
+    margin: 0;
+}
+
+@media (max-width: 768px) {
+    .site-footer { padding: 24px 18px; }
+    .site-footer-title { font-size: 11px; letter-spacing: 2px; }
+}
+
+/* ===== Lore Search ===== */
+.lore-search-wrapper {
+    position: relative;
+    margin-bottom: 12px;
+    padding: 0 0 12px;
+    border-bottom: 1px solid rgba(120, 78, 18, 0.18);
+}
+.lore-search-input {
+    width: 100%;
+    padding: 8px 10px;
+    background: rgba(232, 220, 196, 0.6);
+    border: 1px solid rgba(120, 78, 18, 0.25);
+    border-radius: 6px;
+    color: var(--text, #1e1408);
+    font-size: 13px;
+    font-family: 'Raleway', sans-serif;
+    outline: none;
+    transition: border-color 0.2s;
+    box-sizing: border-box;
+}
+.lore-search-input::placeholder { color: var(--text-muted, #6a5438); }
+.lore-search-input:focus { border-color: var(--gold, #7a4c0a); }
+
+.lore-search-results {
+    display: none;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 100%;
+    max-height: 320px;
+    overflow-y: auto;
+    background: rgba(232, 220, 196, 0.97);
+    border: 1px solid rgba(120, 78, 18, 0.30);
+    border-radius: 0 0 6px 6px;
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+    z-index: 200;
+    margin-top: -1px;
+    box-shadow: 0 8px 24px rgba(40, 20, 0, 0.15);
+}
+.lore-search-category {
+    font-family: 'Cinzel', serif;
+    font-size: 10px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    color: var(--gold, #7a4c0a);
+    padding: 10px 12px 4px;
+}
+.lore-search-item {
+    padding: 7px 12px;
+    cursor: pointer;
+    color: var(--text, #1e1408);
+    font-size: 13px;
+    font-family: 'Raleway', sans-serif;
+    transition: background 0.12s;
+}
+.lore-search-item:hover {
+    background: rgba(120, 78, 18, 0.10);
+    color: var(--gold, #7a4c0a);
+}
+.lore-search-hint {
+    color: var(--text-muted, #6a5438);
+    font-size: 11px;
 }
