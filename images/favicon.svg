@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#c9951a"/>
+      <stop offset="50%" stop-color="#7a4c0a"/>
+      <stop offset="100%" stop-color="#4a2d06"/>
+    </linearGradient>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1a1008"/>
+      <stop offset="100%" stop-color="#0d0804"/>
+    </linearGradient>
+  </defs>
+  <!-- Background -->
+  <rect width="64" height="64" rx="12" fill="url(#bg)"/>
+  <!-- Diamond ornament -->
+  <path d="M32 8 L44 32 L32 56 L20 32 Z" fill="none" stroke="url(#g)" stroke-width="2.5" opacity="0.3"/>
+  <!-- H letter -->
+  <path d="M22 16 L22 48 M42 16 L42 48 M22 32 L42 32" fill="none" stroke="url(#g)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Top diamond accent -->
+  <path d="M32 10 L35 14 L32 18 L29 14 Z" fill="#c9951a" opacity="0.7"/>
+</svg>
