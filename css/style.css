@@ -2125,9 +2125,22 @@ body.measure-bar-visible .editor-panel { top: calc(var(--nav-height) + 50px); }
     .editor-panel {
         left: 12px;
         top: auto;
-        bottom: 180px;
+        bottom: 80px;
         width: calc(100vw - 24px);
         max-width: 280px;
+    }
+    .borders-panel {
+        right: 0;
+        left: 0;
+        top: auto;
+        bottom: 0;
+        width: 100%;
+        max-width: 100%;
+        max-height: 60vh;
+        border-radius: 12px 12px 0 0;
+    }
+    .borders-panel-content {
+        max-height: calc(60vh - 56px);
     }
 }
 

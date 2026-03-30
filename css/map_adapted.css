@@ -253,6 +253,10 @@ body.measure-bar-visible .controls { top: 98px; }
     padding: 14px 16px 10px;
     border-bottom: 1px solid var(--panel-border);
     z-index: 10;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    gap: 0;
 }
 .info-panel-header h2 {
     font-family: 'Copperplate Gothic Std', 'Segoe UI', sans-serif;
@@ -974,6 +978,71 @@ body.ios-fullscreen .ios-fullscreen-btn { top: env(safe-area-inset-top, 10px); }
     }
     .menu-toggle { z-index: 1007; }
 
+    /* ── Close buttons: touch-friendly (min 44×44px) ── */
+    #closeInfoPanel,
+    #closeEditorPanel,
+    #closeBordersPanel {
+        min-width: 44px;
+        min-height: 44px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 26px;
+    }
+
+    /* ── Info panel: close button always accessible ── */
+    .info-panel-header {
+        position: sticky;
+        top: 0;
+        z-index: 12;
+    }
+    #closeInfoPanel {
+        position: absolute;
+        top: 6px;
+        right: 6px;
+        z-index: 15;
+    }
+
+    /* ── Editor panel: full-width above timeline ── */
+    .editor-panel {
+        left: 12px !important;
+        right: 12px;
+        top: auto !important;
+        bottom: 80px;
+        width: calc(100vw - 24px) !important;
+        max-width: 100% !important;
+        max-height: 40vh;
+        overflow-y: auto;
+        z-index: 1008;
+    }
+
+    /* ── Borders panel: full-width bottom sheet ── */
+    .borders-panel {
+        top: auto !important;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        width: 100% !important;
+        max-width: 100%;
+        max-height: 55vh;
+        border-radius: 12px 12px 0 0;
+        z-index: 1009;
+    }
+    .borders-panel-content {
+        max-height: calc(55vh - 56px);
+        overflow-y: auto;
+    }
+    .borders-panel-header {
+        position: sticky;
+        top: 0;
+        z-index: 12;
+    }
+
+    /* ── Timeline: push up when info panel open ── */
+    body.info-panel-visible #timelineContainer {
+        bottom: calc(50vh + 4px);
+    }
+
     /* Timeline mobile */
     #timelineContainer {
         min-width: unset;
@@ -981,9 +1050,27 @@ body.ios-fullscreen .ios-fullscreen-btn { top: env(safe-area-inset-top, 10px); }
         padding: 8px 12px 6px;
         border-radius: 12px 12px 0 0;
         bottom: 0;
+        z-index: 1002;
     }
     #timelineEraName { font-size: 11px; }
     #timelineEraDate { font-size: 10px; }
+
+    /* ── Controls panel: full-width on mobile ── */
+    .controls {
+        width: calc(100vw - 24px) !important;
+        max-width: 100%;
+        max-height: calc(100vh - 70px);
+    }
+
+    /* ── Nav controls: compact ── */
+    .nav-controls {
+        top: 12px;
+        right: 12px;
+    }
+    .nav-controls button {
+        width: 38px;
+        height: 38px;
+    }
 }
 
 /* ── iOS Safari SVG text rendering fixes ── */
