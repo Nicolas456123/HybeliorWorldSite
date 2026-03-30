@@ -28,6 +28,7 @@ const NATIONS = {
 
     // Cestra
     'Cestra': { continent: 'Cestra', pays: 'Pays/Cestra/Cestra.md', histoires: 'Histoires/Cestra/Cestra_Histoires.md' },
+    'No Man\'s Land Cestra': { continent: 'Cestra', pays: 'Pays/Cestra/NoMansLand_Cestra.md', histoires: null },
 
     // Endora
     'Avalor':    { continent: 'Endora', pays: 'Pays/Endora/Avalor.md',    histoires: 'Histoires/Endora/Avalor_Histoires.md' },
