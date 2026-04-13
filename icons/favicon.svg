@@ -1,0 +1,21 @@
+<svg width="180" height="180" viewBox="0 0 180 180" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <linearGradient id="fg" x1="0" y1="0" x2="0" y2="1">
+            <stop offset="0%" stop-color="#dabb70"/>
+            <stop offset="40%" stop-color="#c8a050"/>
+            <stop offset="100%" stop-color="#7a4c0a"/>
+        </linearGradient>
+        <radialGradient id="fh" cx="50%" cy="42%">
+            <stop offset="0%" stop-color="#c8a050" stop-opacity="0.15"/>
+            <stop offset="100%" stop-color="#c8a050" stop-opacity="0"/>
+        </radialGradient>
+        <filter id="fgl">
+            <feGaussianBlur stdDeviation="2" result="b"/>
+            <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+        </filter>
+    </defs>
+    <rect width="180" height="180" rx="36" fill="#1e1408"/>
+    <circle cx="90" cy="84" r="60" fill="url(#fh)"/>
+    <text x="90" y="110" text-anchor="middle" font-family="'Cinzel', serif" font-weight="900" font-size="90" fill="url(#fg)" filter="url(#fgl)">H</text>
+    <polygon points="90,122 94,127 90,132 86,127" fill="#5a2888" opacity="0.6"/>
+</svg>
