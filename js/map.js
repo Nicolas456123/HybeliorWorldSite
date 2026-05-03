@@ -9,10 +9,10 @@ function initMap() {
             { fontSize: "0.03", storage: "continentsElements", xOffset: 0, yOffset: 0, zoomRange: [0, 2] },
             { fontSize: "0.01", storage: "paysElements", xOffset: 0, yOffset: 0, zoomRange: [2, 4] },
             { fontSize: "0.004", storage: "regionElements", xOffset: 0, yOffset: 0, zoomRange: [4, 10] },
-            { fontSize: "0.0015", storage: "capitalesElements", xOffset: 0, yOffset: -0.002, showMarker: true, iconScale: 5, zoomRange: [10, Infinity] },
-            { fontSize: "0.0011", storage: "citesElements", xOffset: 0, yOffset: -0.0015, showMarker: true, iconScale: 4.5, zoomRange: [14, Infinity] },
-            { fontSize: "0.0006", storage: "villesElements", xOffset: 0, yOffset: -0.0014, showMarker: true, iconScale: 5, zoomRange: [16, Infinity] },
-            { fontSize: "0.0004", storage: "villagesElements", xOffset: 0, yOffset: -0.001, showMarker: true, iconScale: 5, zoomRange: [18, Infinity] }
+            { fontSize: "0.011", storage: "capitalesElements", xOffset: 0, yOffset: 0.020, showMarker: true, iconScale: 1.5, zoomRange: [10, Infinity] },
+            { fontSize: "0.010", storage: "citesElements", xOffset: 0, yOffset: 0.016, showMarker: true, iconScale: 1.2, zoomRange: [14, Infinity] },
+            { fontSize: "0.010", storage: "villesElements", xOffset: 0, yOffset: 0.012, showMarker: true, iconScale: 0.8, zoomRange: [16, Infinity] },
+            { fontSize: "0.010", storage: "villagesElements", xOffset: 0, yOffset: 0.011, showMarker: true, iconScale: 0.6, zoomRange: [18, Infinity] }
         ]
     };
 
@@ -2240,6 +2240,9 @@ function initMap() {
             rectElement.setAttribute("pointer-events", "all");
 
             // Icône stylisée par tier (capitale/cité/ville/village)
+            // Note : l'icône n'est PAS poussée dans allTexts → reste visible
+            // indépendamment du zoomRange du tier (contrairement aux labels texte).
+            // Seul markersVisible la masque.
             if (config.showMarker) {
                 const iconGroup = createTierIcon(
                     config.storage,
@@ -2252,7 +2255,6 @@ function initMap() {
                 );
                 if (!markersVisible) iconGroup.style.display = 'none';
                 svgOverlay.node().appendChild(iconGroup);
-                allTexts.push(iconGroup);
                 allMarkers.push(iconGroup);
             }
 
