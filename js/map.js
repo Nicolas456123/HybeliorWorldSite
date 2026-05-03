@@ -9,12 +9,186 @@ function initMap() {
             { fontSize: "0.03", storage: "continentsElements", xOffset: 0, yOffset: 0, zoomRange: [0, 2] },
             { fontSize: "0.01", storage: "paysElements", xOffset: 0, yOffset: 0, zoomRange: [2, 4] },
             { fontSize: "0.004", storage: "regionElements", xOffset: 0, yOffset: 0, zoomRange: [4, 10] },
-            { fontSize: "0.0015", storage: "capitalesElements", xOffset: 0, yOffset: -0.002, showMarker: true, zoomRange: [10, Infinity] },
-            { fontSize: "0.0011", storage: "citesElements", xOffset: 0, yOffset: -0.0015, showMarker: true, zoomRange: [14, Infinity] },
-            { fontSize: "0.0006", storage: "villesElements", xOffset: 0, yOffset: -0.0014, showMarker: true, zoomRange: [16, Infinity] },
-            { fontSize: "0.0004", storage: "villagesElements", xOffset: 0, yOffset: -0.001, showMarker: true, zoomRange: [18, Infinity] }
+            { fontSize: "0.0015", storage: "capitalesElements", xOffset: 0, yOffset: -0.002, showMarker: true, iconScale: 5, zoomRange: [10, Infinity] },
+            { fontSize: "0.0011", storage: "citesElements", xOffset: 0, yOffset: -0.0015, showMarker: true, iconScale: 4.5, zoomRange: [14, Infinity] },
+            { fontSize: "0.0006", storage: "villesElements", xOffset: 0, yOffset: -0.0014, showMarker: true, iconScale: 5, zoomRange: [16, Infinity] },
+            { fontSize: "0.0004", storage: "villagesElements", xOffset: 0, yOffset: -0.001, showMarker: true, iconScale: 5, zoomRange: [18, Infinity] }
         ]
     };
+
+    // === Icônes SVG par tier — style médiéval hand-drawn ===
+    // viewBox 0 0 32 32, mises à l'échelle dynamiquement.
+    // Palette :
+    //   parchemin clair  #F5EBD8  (corps des bâtiments)
+    //   parchemin ombre  #E0D2B6  (façades de pierre dans l'ombre)
+    //   encre brune      #3a2a1f  (contours, fenêtres, portes)
+    //   tuile claire     #C26A3A  (toits exposés au soleil)
+    //   tuile sombre     #8B3F1F  (toits dans l'ombre)
+    //   bannière dorée   #C9A84C
+    //   bannière cramoisie #8E2A2A
+    //   pierre grise     #B8AC9A
+    const ICON_SVG = {
+        capitalesElements: `
+            <!-- CAPITALE : grande cité fortifiée — donjon central + 2 corps de logis + bannière -->
+            <!-- Logis arrière gauche (corps en pierre, toit pentu) -->
+            <path d="M4 13 L8 9 L12 13 L12 17 L4 17 Z" fill="#C26A3A" stroke="#3a2a1f" stroke-width="0.5"/>
+            <path d="M5 14 L8 11 L11 14" fill="none" stroke="#8B3F1F" stroke-width="0.4"/>
+            <rect x="4" y="16" width="8" height="11" fill="#F5EBD8" stroke="#3a2a1f" stroke-width="0.5"/>
+            <rect x="6" y="19" width="1.5" height="2" fill="#3a2a1f"/>
+            <rect x="8.5" y="19" width="1.5" height="2" fill="#3a2a1f"/>
+            <!-- Logis arrière droit -->
+            <path d="M20 13 L24 9 L28 13 L28 17 L20 17 Z" fill="#C26A3A" stroke="#3a2a1f" stroke-width="0.5"/>
+            <path d="M21 14 L24 11 L27 14" fill="none" stroke="#8B3F1F" stroke-width="0.4"/>
+            <rect x="20" y="16" width="8" height="11" fill="#F5EBD8" stroke="#3a2a1f" stroke-width="0.5"/>
+            <rect x="22" y="19" width="1.5" height="2" fill="#3a2a1f"/>
+            <rect x="24.5" y="19" width="1.5" height="2" fill="#3a2a1f"/>
+            <!-- Donjon central — corps de pierre -->
+            <rect x="12" y="6" width="8" height="21" fill="#F5EBD8" stroke="#3a2a1f" stroke-width="0.7"/>
+            <rect x="12" y="6" width="8" height="2" fill="#E0D2B6" stroke="none"/>
+            <!-- Crenelations du donjon -->
+            <path d="M12 5 L13.5 5 L13.5 6 L15 6 L15 5 L17 5 L17 6 L18.5 6 L18.5 5 L20 5 L20 6" fill="#F5EBD8" stroke="#3a2a1f" stroke-width="0.5" stroke-linejoin="miter"/>
+            <!-- Fenêtre meurtrière -->
+            <rect x="15" y="11" width="2" height="3" fill="#3a2a1f"/>
+            <rect x="15.5" y="13" width="1" height="2" fill="#3a2a1f"/>
+            <!-- Pierres de moellons -->
+            <line x1="12" y1="13" x2="20" y2="13" stroke="#3a2a1f" stroke-width="0.2" stroke-dasharray="0.5 0.5" opacity="0.6"/>
+            <line x1="12" y1="17" x2="20" y2="17" stroke="#3a2a1f" stroke-width="0.2" stroke-dasharray="0.5 0.5" opacity="0.6"/>
+            <line x1="12" y1="21" x2="20" y2="21" stroke="#3a2a1f" stroke-width="0.2" stroke-dasharray="0.5 0.5" opacity="0.6"/>
+            <!-- Mât + bannière dorée triangulaire -->
+            <line x1="16" y1="0" x2="16" y2="5" stroke="#3a2a1f" stroke-width="0.5"/>
+            <path d="M16 0.5 L23 2 L16 3.5 Z" fill="#C9A84C" stroke="#3a2a1f" stroke-width="0.4"/>
+            <!-- Murailles devant -->
+            <rect x="2" y="20" width="28" height="7" fill="#F5EBD8" stroke="#3a2a1f" stroke-width="0.5"/>
+            <rect x="2" y="20" width="28" height="1.5" fill="#E0D2B6"/>
+            <!-- Crenelations muraille -->
+            <path d="M2 20 L4 20 L4 18 L6 18 L6 20 L9 20 L9 18 L11 18 L11 20 L21 20 L21 18 L23 18 L23 20 L26 20 L26 18 L28 18 L28 20 L30 20" fill="#F5EBD8" stroke="#3a2a1f" stroke-width="0.5" stroke-linejoin="miter"/>
+            <!-- Tours d'angle -->
+            <rect x="0" y="15" width="4" height="12" fill="#F5EBD8" stroke="#3a2a1f" stroke-width="0.5"/>
+            <rect x="0" y="15" width="4" height="1.5" fill="#E0D2B6"/>
+            <path d="M0 15 L1 15 L1 13 L2 13 L2 15 L3 15 L3 13 L4 13 L4 15" fill="#F5EBD8" stroke="#3a2a1f" stroke-width="0.4" stroke-linejoin="miter"/>
+            <rect x="28" y="15" width="4" height="12" fill="#F5EBD8" stroke="#3a2a1f" stroke-width="0.5"/>
+            <rect x="28" y="15" width="4" height="1.5" fill="#E0D2B6"/>
+            <path d="M28 15 L29 15 L29 13 L30 13 L30 15 L31 15 L31 13 L32 13 L32 15" fill="#F5EBD8" stroke="#3a2a1f" stroke-width="0.4" stroke-linejoin="miter"/>
+            <!-- Porte d'entrée arquée -->
+            <path d="M14 27 L14 23 Q14 21.5 16 21.5 Q18 21.5 18 23 L18 27 Z" fill="#3a2a1f"/>
+            <line x1="16" y1="22" x2="16" y2="27" stroke="#5a3a2a" stroke-width="0.3"/>
+        `,
+        citesElements: `
+            <!-- CITÉ : ville murée moyenne — clocher, beffroi, maisons à pignon -->
+            <!-- Maison gauche (pignon visible derrière la muraille) -->
+            <path d="M5 13 L8 9 L11 13 Z" fill="#C26A3A" stroke="#3a2a1f" stroke-width="0.45"/>
+            <rect x="5" y="13" width="6" height="8" fill="#F5EBD8" stroke="#3a2a1f" stroke-width="0.45"/>
+            <rect x="7" y="15" width="1" height="2" fill="#3a2a1f"/>
+            <!-- Beffroi/tour avec coupole -->
+            <rect x="20" y="8" width="6" height="13" fill="#F5EBD8" stroke="#3a2a1f" stroke-width="0.55"/>
+            <rect x="20" y="8" width="6" height="1.5" fill="#E0D2B6"/>
+            <path d="M20 8 L23 5 L26 8 Z" fill="#8B3F1F" stroke="#3a2a1f" stroke-width="0.4"/>
+            <line x1="23" y1="2" x2="23" y2="5" stroke="#3a2a1f" stroke-width="0.4"/>
+            <circle cx="23" cy="5" r="0.5" fill="#C9A84C" stroke="#3a2a1f" stroke-width="0.3"/>
+            <rect x="22" y="13" width="2" height="3" fill="#3a2a1f"/>
+            <!-- Clocher d'église -->
+            <path d="M13 11 L15 7 L17 11 Z" fill="#C26A3A" stroke="#3a2a1f" stroke-width="0.4"/>
+            <rect x="13.5" y="11" width="3" height="9" fill="#F5EBD8" stroke="#3a2a1f" stroke-width="0.4"/>
+            <line x1="15" y1="5" x2="15" y2="7" stroke="#3a2a1f" stroke-width="0.4"/>
+            <path d="M14 6 L16 6 M15 5 L15 7" stroke="#3a2a1f" stroke-width="0.4"/>
+            <rect x="14.5" y="14" width="1" height="2" fill="#3a2a1f"/>
+            <!-- Muraille frontale -->
+            <rect x="3" y="21" width="24" height="6" fill="#F5EBD8" stroke="#3a2a1f" stroke-width="0.5"/>
+            <rect x="3" y="21" width="24" height="1.2" fill="#E0D2B6"/>
+            <path d="M3 21 L4.5 21 L4.5 19.5 L6 19.5 L6 21 L8 21 L8 19.5 L9.5 19.5 L9.5 21 L17.5 21 L17.5 19.5 L19 19.5 L19 21 L21 21 L21 19.5 L22.5 19.5 L22.5 21 L24 21 L24 19.5 L25.5 19.5 L25.5 21 L27 21" fill="#F5EBD8" stroke="#3a2a1f" stroke-width="0.4" stroke-linejoin="miter"/>
+            <!-- Porte arquée -->
+            <path d="M12 27 L12 23.5 Q12 22.5 13.25 22.5 Q14.5 22.5 14.5 23.5 L14.5 27 Z" fill="#3a2a1f"/>
+        `,
+        villesElements: `
+            <!-- VILLE : groupement de 4 maisons (pas de muraille) avec église -->
+            <!-- Maison gauche -->
+            <path d="M3 17 L6 12 L9 17 Z" fill="#C26A3A" stroke="#3a2a1f" stroke-width="0.5"/>
+            <path d="M3 17 L4 13 M9 17 L8 13" fill="none" stroke="#8B3F1F" stroke-width="0.3" opacity="0.6"/>
+            <rect x="3" y="17" width="6" height="10" fill="#F5EBD8" stroke="#3a2a1f" stroke-width="0.5"/>
+            <rect x="5" y="20" width="1.5" height="2" fill="#3a2a1f"/>
+            <rect x="3.5" y="23" width="1" height="1.5" fill="#3a2a1f"/>
+            <!-- Maison-église centrale (avec petit clocher) -->
+            <rect x="13" y="11" width="2" height="4" fill="#F5EBD8" stroke="#3a2a1f" stroke-width="0.4"/>
+            <path d="M13 11 L14 9 L15 11 Z" fill="#C26A3A" stroke="#3a2a1f" stroke-width="0.4"/>
+            <line x1="14" y1="7.5" x2="14" y2="9" stroke="#3a2a1f" stroke-width="0.4"/>
+            <path d="M13.3 8.3 L14.7 8.3 M14 7.5 L14 9" stroke="#3a2a1f" stroke-width="0.3"/>
+            <path d="M10 16 L14 11 L18 16 Z" fill="#C26A3A" stroke="#3a2a1f" stroke-width="0.5"/>
+            <rect x="10" y="16" width="8" height="11" fill="#F5EBD8" stroke="#3a2a1f" stroke-width="0.5"/>
+            <path d="M13 22 L13 27 L15 27 L15 22 Q14 21 13 22 Z" fill="#3a2a1f"/>
+            <rect x="11" y="19" width="1.5" height="2" fill="#3a2a1f"/>
+            <rect x="15.5" y="19" width="1.5" height="2" fill="#3a2a1f"/>
+            <!-- Maison droite haute -->
+            <path d="M19 16 L22 11 L25 16 Z" fill="#C26A3A" stroke="#3a2a1f" stroke-width="0.5"/>
+            <path d="M19 16 L20 13 M25 16 L24 13" fill="none" stroke="#8B3F1F" stroke-width="0.3" opacity="0.6"/>
+            <rect x="19" y="16" width="6" height="11" fill="#F5EBD8" stroke="#3a2a1f" stroke-width="0.5"/>
+            <rect x="21" y="19" width="1.5" height="2" fill="#3a2a1f"/>
+            <rect x="23" y="22" width="1.5" height="3" fill="#3a2a1f"/>
+            <!-- Petite maison droite (front) -->
+            <path d="M25 19 L27.5 16 L30 19 Z" fill="#C26A3A" stroke="#3a2a1f" stroke-width="0.5"/>
+            <rect x="25" y="19" width="5" height="8" fill="#F5EBD8" stroke="#3a2a1f" stroke-width="0.5"/>
+            <rect x="26" y="22" width="1" height="2" fill="#3a2a1f"/>
+            <rect x="27.5" y="24" width="1" height="2.5" fill="#3a2a1f"/>
+        `,
+        villagesElements: `
+            <!-- VILLAGE : 3 maisonnettes simples -->
+            <!-- Maison gauche -->
+            <path d="M3 18 L6 14 L9 18 Z" fill="#C26A3A" stroke="#3a2a1f" stroke-width="0.5"/>
+            <rect x="3" y="18" width="6" height="9" fill="#F5EBD8" stroke="#3a2a1f" stroke-width="0.5"/>
+            <rect x="5" y="22" width="1.2" height="2" fill="#3a2a1f"/>
+            <rect x="3.5" y="20" width="1" height="1" fill="#3a2a1f"/>
+            <!-- Maison centrale (un peu plus haute) -->
+            <path d="M11 17 L15 11 L19 17 Z" fill="#C26A3A" stroke="#3a2a1f" stroke-width="0.5"/>
+            <rect x="11" y="17" width="8" height="10" fill="#F5EBD8" stroke="#3a2a1f" stroke-width="0.5"/>
+            <path d="M13 22 L13 27 L15 27 L15 22 Q14 21.3 13 22 Z" fill="#3a2a1f"/>
+            <rect x="16" y="20" width="1.5" height="2" fill="#3a2a1f"/>
+            <!-- Petit cheminée fumant -->
+            <rect x="13" y="13" width="1" height="3" fill="#3a2a1f"/>
+            <!-- Maison droite -->
+            <path d="M21 19 L24 15 L27 19 Z" fill="#C26A3A" stroke="#3a2a1f" stroke-width="0.5"/>
+            <rect x="21" y="19" width="6" height="8" fill="#F5EBD8" stroke="#3a2a1f" stroke-width="0.5"/>
+            <rect x="23" y="22" width="1.2" height="2" fill="#3a2a1f"/>
+            <rect x="25" y="20" width="1" height="1" fill="#3a2a1f"/>
+        `,
+        ruineElements: `
+            <!-- RUINE : tour brisée + restes de murailles -->
+            <!-- Restes de mur gauche -->
+            <path d="M2 27 L2 21 L4 21 L4 19 L6 19 L6 22 L8 22 L8 27 Z" fill="#B8AC9A" stroke="#3a2a1f" stroke-width="0.5"/>
+            <!-- Tour principale brisée -->
+            <path d="M11 27 L11 7 L13 5 L14 8 L16 4 L18 7 L19 9 L21 7 L21 18 L19 19 L21 21 L21 27 Z" fill="#F5EBD8" stroke="#3a2a1f" stroke-width="0.6"/>
+            <path d="M11 27 L11 7 L13 5 L14 8 L16 4 L18 7" fill="none" stroke="#8B3F1F" stroke-width="0.3" opacity="0.5"/>
+            <!-- Fenêtres écroulées -->
+            <rect x="13" y="12" width="2" height="3" fill="#3a2a1f"/>
+            <path d="M13 15 L15 15 L14.5 16 Z" fill="#3a2a1f"/>
+            <rect x="15.5" y="20" width="2" height="3" fill="#3a2a1f"/>
+            <!-- Pierres tombées au sol -->
+            <ellipse cx="9" cy="26.5" rx="1.5" ry="0.7" fill="#B8AC9A" stroke="#3a2a1f" stroke-width="0.3"/>
+            <ellipse cx="23" cy="26.7" rx="1.2" ry="0.6" fill="#B8AC9A" stroke="#3a2a1f" stroke-width="0.3"/>
+            <ellipse cx="25.5" cy="26.5" rx="1" ry="0.5" fill="#B8AC9A" stroke="#3a2a1f" stroke-width="0.3"/>
+            <!-- Restes de mur droit -->
+            <path d="M24 27 L24 22 L26 22 L26 24 L28 24 L28 27 Z" fill="#B8AC9A" stroke="#3a2a1f" stroke-width="0.5"/>
+        `
+    };
+
+    function createTierIcon(tier, cx, cy, fontSize, scale, offsetX, offsetY) {
+        const ns = "http://www.w3.org/2000/svg";
+        const g = document.createElementNS(ns, "g");
+        const iconSize = fontSize * (scale || 8);
+        // L'icône est ancrée par sa BASE (les bâtiments reposent sur le sol au point cx,cy)
+        const tx = cx + offsetX - (iconSize / 2);
+        const ty = cy + offsetY - iconSize;
+        const s = iconSize / 32;
+        g.setAttribute("transform", `translate(${tx} ${ty}) scale(${s})`);
+        g.setAttribute("pointer-events", "none");
+        const content = ICON_SVG[tier] || ICON_SVG.villagesElements;
+        const parser = new DOMParser();
+        const doc = parser.parseFromString(
+            `<svg xmlns="http://www.w3.org/2000/svg">${content}</svg>`,
+            'image/svg+xml'
+        );
+        const root = doc.documentElement;
+        while (root.firstChild) g.appendChild(root.firstChild);
+        return g;
+    }
 
     // Variables globales
     let viewer;
@@ -130,7 +304,8 @@ function initMap() {
                 clickToZoom: false
             }
         });
-        
+        window._viewer = viewer; // expose for debug/external navigation
+
         svgOverlay = viewer.svgOverlay();
         initLayers();
         initEventHandlers();
@@ -2064,20 +2239,21 @@ function initMap() {
             rectElement.setAttribute("fill", "transparent");
             rectElement.setAttribute("pointer-events", "all");
 
-            // Marqueur central (point doré) pour entités ponctuelles
+            // Icône stylisée par tier (capitale/cité/ville/village)
             if (config.showMarker) {
-                const circle = document.createElementNS("http://www.w3.org/2000/svg", "circle");
-                circle.setAttribute("cx", coord.x + offset.x);
-                circle.setAttribute("cy", coord.y + offset.y);
-                circle.setAttribute("r", fontSize * 0.35);
-                circle.setAttribute("fill", "#c9a84c");
-                circle.setAttribute("stroke", "rgba(0,0,0,0.6)");
-                circle.setAttribute("stroke-width", fontSize * 0.08);
-                circle.setAttribute("pointer-events", "none");
-                if (!markersVisible) circle.style.display = 'none';
-                svgOverlay.node().appendChild(circle);
-                allTexts.push(circle); // Suit la visibilité zoom
-                allMarkers.push(circle);
+                const iconGroup = createTierIcon(
+                    config.storage,
+                    coord.x + offset.x,
+                    coord.y + offset.y,
+                    fontSize,
+                    config.iconScale,
+                    0,
+                    0
+                );
+                if (!markersVisible) iconGroup.style.display = 'none';
+                svgOverlay.node().appendChild(iconGroup);
+                allTexts.push(iconGroup);
+                allMarkers.push(iconGroup);
             }
 
             // Ajout des éléments au SVG
