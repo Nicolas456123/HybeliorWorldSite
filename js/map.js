@@ -2715,11 +2715,21 @@ function initMap() {
                 const adjMax = maxZoom * clickZoomMultiplier;
                 const inZoomRange = visualZoom >= adjMin && visualZoom < adjMax;
 
+                // Helper : applique un display state cohérent à texts + rects + markers
+                const setDisplay = (state) => {
+                    element.texts.forEach(el => el.style.display = state);
+                    element.rects.forEach(el => el.style.display = state);
+                    // markers (icônes SVG médiévales) : cachés si state=none OU si toggle markersVisible=false
+                    if (element.markers) {
+                        const mState = (state === 'none' || !markersVisible) ? 'none' : state;
+                        element.markers.forEach(m => m.style.display = mState);
+                    }
+                };
+
                 // Masquer les entités cachées par le filtre temporel
                 if (element._eraHidden) {
                     if (element._visible !== false) {
-                        element.texts.forEach(el => el.style.display = 'none');
-                        element.rects.forEach(el => el.style.display = 'none');
+                        setDisplay('none');
                         element._visible = false;
                     }
                     return;
@@ -2727,8 +2737,7 @@ function initMap() {
 
                 if (!inZoomRange) {
                     if (element._visible !== false) {
-                        element.texts.forEach(el => el.style.display = 'none');
-                        element.rects.forEach(el => el.style.display = 'none');
+                        setDisplay('none');
                         element._visible = false;
                     }
                     return;
@@ -2752,14 +2761,8 @@ function initMap() {
                     inView = cx >= vLeft && cx <= vRight && cy >= vTop && cy <= vBottom;
                 }
 
-                const display = inView ? 'block' : 'none';
                 if (element._visible !== inView) {
-                    element.texts.forEach(el => el.style.display = display);
-                    element.rects.forEach(el => el.style.display = display);
-                    // Respecter le toggle marqueurs
-                    if (!markersVisible && element.markers) {
-                        element.markers.forEach(m => m.style.display = 'none');
-                    }
+                    setDisplay(inView ? 'block' : 'none');
                     element._visible = inView;
                 }
             });
@@ -2784,15 +2787,13 @@ function initMap() {
         markersVisible = !markersVisible;
         const btn = document.getElementById('toggleMarkers');
         btn.classList.toggle('active', !markersVisible);
+        // Force un re-eval complet (viewport + zoom + markersVisible) sur tous les éléments.
+        // Sans cela, activer markersVisible afficherait TOUS les markers (y compris hors viewport)
+        // ce qui ferait revenir le lag à 3000+ SVG rendus en permanence.
         Object.values(elementStorage).forEach(elements => {
-            elements.forEach(el => {
-                if (el.markers) {
-                    el.markers.forEach(m => {
-                        m.style.display = markersVisible ? '' : 'none';
-                    });
-                }
-            });
+            elements.forEach(el => { el._visible = null; });
         });
+        updateTextVisibility();
     }
 
     function toggleBorders() {
