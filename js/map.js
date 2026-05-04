@@ -290,6 +290,13 @@ function initMap() {
             id: "openseadragon1",
             prefixUrl: "./images/",
             tileSources: "https://hybelior-tiles.nicolas-vollard.workers.dev/HybeliorMap.dzi",
+            // Perf : tuiles servies depuis Cloudflare R2 + Worker cache edge.
+            // imageLoaderLimit : nb de tuiles téléchargées en parallèle (défaut 6, trop bas pour réseau moderne).
+            imageLoaderLimit: 16,
+            // maxImageCacheCount : nb de tuiles gardées en RAM browser (défaut 200, faible pour zoom max).
+            maxImageCacheCount: 800,
+            // immediateRender : affiche dès qu'une tuile arrive (sinon attend toutes les tuiles d'un niveau).
+            immediateRender: true,
             // Options pour le wrapping infini (selon l'état)
             wrapHorizontal: wrappingEnabled,
             wrapVertical: wrappingEnabled,
