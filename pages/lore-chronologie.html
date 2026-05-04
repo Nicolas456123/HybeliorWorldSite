@@ -4,59 +4,59 @@
   <div class="chrono-era-nav" role="tablist" aria-label="Ères chronologiques">
 
     <button class="chrono-era-btn active" role="tab" aria-selected="true"
-            data-era="0" data-files='["Era0_Le_Vide.md"]'>
+            data-era="0" data-files='["Era 0 - Le Vide.md"]'>
       <span class="era-num">Ère 0</span>
-      <span class="era-name">Genèse</span>
-      <span class="era-period">Avant le temps</span>
+      <span class="era-name">Le Vide</span>
+      <span class="era-period">Avant-Mémoire</span>
     </button>
 
     <button class="chrono-era-btn" role="tab" aria-selected="false"
-            data-era="1" data-files='["Era1_Cosmiques.md","Era1_Etheres_Panghor.md"]'>
+            data-era="1" data-files='["Era 1a - Les Cosmiques.md","Era 1b - Éthérés et Panghor.md"]'>
       <span class="era-num">Ère I</span>
-      <span class="era-name">Cosmiques</span>
-      <span class="era-period">Âge primordial</span>
+      <span class="era-name">La Genèse</span>
+      <span class="era-period">Avant-Mémoire — ~45 000 av.A</span>
     </button>
 
     <button class="chrono-era-btn" role="tab" aria-selected="false"
-            data-era="2" data-files='["Era2_Berceaux.md","Era2_Gel_Reconstruction.md"]'>
+            data-era="2" data-files='["Era 2a - Les Berceaux.md","Era 2b - Grand Gel et Reconstruction.md"]'>
       <span class="era-num">Ère II</span>
-      <span class="era-name">Éveil</span>
-      <span class="era-period">Âge des berceaux</span>
+      <span class="era-name">L'Éveil des Mortels</span>
+      <span class="era-period">~45 000 — ~20 000 av.A</span>
     </button>
 
     <button class="chrono-era-btn" role="tab" aria-selected="false"
-            data-era="3" data-files='["Era3_Lien_Empires.md","Era3_Religions_Chute.md"]'>
+            data-era="3" data-files='["Era 3a - Le Lien et les Empires.md","Era 3b - Religions Verithan et la Chute.md"]'>
       <span class="era-num">Ère III</span>
-      <span class="era-name">Lien</span>
-      <span class="era-period">Âge des empires</span>
+      <span class="era-name">L'Âge du Lien</span>
+      <span class="era-period">~20 000 av.A — An 0</span>
     </button>
 
     <button class="chrono-era-btn" role="tab" aria-selected="false"
-            data-era="4" data-files='["Era4_Arrachement.md"]'>
+            data-era="4" data-files='["Era 4 - L&#39;Arrachement.md"]'>
       <span class="era-num">Ère IV</span>
-      <span class="era-name">Arrachement</span>
-      <span class="era-period">La rupture cosmique</span>
+      <span class="era-name">L'Arrachement</span>
+      <span class="era-period">An 0 — Souffle Cardinal</span>
     </button>
 
     <button class="chrono-era-btn" role="tab" aria-selected="false"
-            data-era="5" data-files='["Era5_Grande_Nuit.md"]'>
+            data-era="5" data-files='["Era 5 - La Grande Nuit.md"]'>
       <span class="era-num">Ère V</span>
-      <span class="era-name">Grande Nuit</span>
-      <span class="era-period">Âge des ténèbres</span>
+      <span class="era-name">La Grande Nuit</span>
+      <span class="era-period">An 0 — ~3 000 ap.A</span>
     </button>
 
     <button class="chrono-era-btn" role="tab" aria-selected="false"
-            data-era="6" data-files='["Era6_Guerres_Nations.md"]'>
+            data-era="6" data-files='["Era 6 - L&#39;Ère des Nations.md"]'>
       <span class="era-num">Ère VI</span>
-      <span class="era-name">Nations</span>
-      <span class="era-period">Âge des guerres</span>
+      <span class="era-name">L'Ère des Nations</span>
+      <span class="era-period">~3 000 — ~9 500 ap.A</span>
     </button>
 
     <button class="chrono-era-btn" role="tab" aria-selected="false"
-            data-era="7" data-files='["Era7_Monde_Actuel.md"]'>
+            data-era="7" data-files='["Era 7 - Le Monde Actuel.md"]'>
       <span class="era-num">Ère VII</span>
-      <span class="era-name">Actuelle</span>
-      <span class="era-period">Le monde aujourd'hui</span>
+      <span class="era-name">Le Monde Actuel</span>
+      <span class="era-period">~9 500 — an 251 du Sillage</span>
     </button>
 
   </div><!-- /.chrono-era-nav -->
@@ -281,21 +281,21 @@
 (function () {
   'use strict';
 
-  var BASE_URL = '/lore/Chronologie/';
+  var BASE_URL = '/Docs/Lore/Chronologie/';
 
   /* Noms lisibles pour le séparateur inter-fichier */
   var FILE_LABELS = {
-    'Era0_Le_Vide.md':            'Le Vide',
-    'Era1_Cosmiques.md':          'Les Cosmiques',
-    'Era1_Etheres_Panghor.md':    'Éthérés & Panghor',
-    'Era2_Berceaux.md':           'Les Berceaux',
-    'Era2_Gel_Reconstruction.md': 'Gel & Reconstruction',
-    'Era3_Lien_Empires.md':       'Le Lien & les Empires',
-    'Era3_Religions_Chute.md':    'Religions & Chute',
-    'Era4_Arrachement.md':        'L\'Arrachement',
-    'Era5_Grande_Nuit.md':        'La Grande Nuit',
-    'Era6_Guerres_Nations.md':    'Guerres des Nations',
-    'Era7_Monde_Actuel.md':       'Le Monde Actuel',
+    'Era 0 - Le Vide.md':                          'Le Vide',
+    'Era 1a - Les Cosmiques.md':                   'Les Cosmiques',
+    'Era 1b - Éthérés et Panghor.md':              'Éthérés & Panghor',
+    'Era 2a - Les Berceaux.md':                    'Les Berceaux',
+    'Era 2b - Grand Gel et Reconstruction.md':     'Gel & Reconstruction',
+    'Era 3a - Le Lien et les Empires.md':          'Le Lien & les Empires',
+    'Era 3b - Religions Verithan et la Chute.md':  'Religions & Chute',
+    'Era 4 - L\'Arrachement.md':                   'L\'Arrachement',
+    'Era 5 - La Grande Nuit.md':                   'La Grande Nuit',
+    'Era 6 - L\'Ère des Nations.md':               'L\'Ère des Nations',
+    'Era 7 - Le Monde Actuel.md':                  'Le Monde Actuel',
   };
 
   /* Cache : era index (string) → rendered HTML string */

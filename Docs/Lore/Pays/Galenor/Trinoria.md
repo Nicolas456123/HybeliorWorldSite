@@ -1,3 +1,10 @@
+﻿---
+tags: [lore, pays, galenor]
+type: lore
+status: drafted
+last_review: 2026-05-02
+needs_review_for: []
+---
 # Trinoria — Le Royaume des Mille Flèches
 
 > *« Un Trinorien ne vise jamais deux fois. La première flèche porte le jugement, la seconde ne serait que gaspillage. »*
@@ -58,7 +65,7 @@ Le pouvoir à Trinoria suit une structure féodale classique, tempérée par les
 
 ### Vael'Kurash — Le Culte des Esprits Anciens (religion principale)
 
-Le Vael'Kurash enseigne que chaque élément naturel — arbre, rocher, cours d'eau, animal — abrite un esprit ancien. Ces esprits ne sont pas des dieux mais des gardiens, des mémoires vivantes de la terre. Les druides du Vael'Kurash communiquent avec ces esprits par des rituels saisonniers, des offrandes et des tatouages sacrés.
+Le Vael'Kurash enseigne que chaque élément naturel — arbre, rocher, cours d'eau, animal — abrite un esprit ancien. Selon les druides trinoriens, ces esprits sont des gardiens et des mémoires vivantes de la terre, distincts dans leur fonction de ce que d'autres traditions appellent leurs Cosmiques ou Célestes. Les druides du Vael'Kurash communiquent avec ces esprits par des rituels saisonniers, des offrandes et des tatouages sacrés.
 
 Chaque Trinorien porte au moins un tatouage rituel, tracé à l'encre de sève, représentant l'esprit de sa forêt natale. Les druides les plus vénérés portent des dizaines de tatouages couvrant leur corps entier, chacun représentant un esprit avec lequel ils ont communié.
 
@@ -123,7 +130,7 @@ Région sud-est, connue pour ses forêts de bambous géants et ses clairières f
 
 ### Gyndor — Ville (siège royal)
 *Taillée dans un chêne pétrifié si colossal que sa base mesure cinquante mètres de diamètre, Gyndor est autant un monument naturel qu'une ville. Le palais royal occupe les étages supérieurs, tandis que les salles de conseil, les armureries et les logements des Gardes Sylvestres s'étagent sur les niveaux inférieurs. Autour du chêne central, la ville s'étend en cercles concentriques de plateformes et de passerelles.*
-**Histoire :** Le chêne était déjà millénaire quand Valren le Fondateur choisit ce lieu pour sa capitale. Selon la tradition, il demanda au druid en chef d'interpréter la réponse de l'esprit du chêne avant de planter le premier clou. La réponse fut lue dans les motifs de l'écorce — un schéma en spirale que les druides interprétèrent comme "construis, mais ne coupe rien." La pétrification de l'arbre survint un siècle plus tard, spontanément, transformant le palais vivant en forteresse de pierre-bois imprenable.
+**Histoire :** Le chêne était déjà millénaire quand Valren le Fondateur choisit ce lieu pour sa capitale. Selon la tradition, il demanda au druide en chef d'interpréter ce que l'on prêtait à l'esprit du chêne avant de planter le premier clou. La réponse fut lue dans les motifs de l'écorce — un schéma en spirale que les druides interprétèrent comme "construis, mais ne coupe rien." Un siècle plus tard, le bois du chêne s'était densifié et minéralisé sans cause documentée, transformant le palais vivant en forteresse de pierre-bois que les chroniqueurs locaux qualifient d'imprenable.
 - Population : Ville
 - Région : Nalithos
 - Particularités : Siège du Roi-Archer, Arène du Grand Tournoi, Sanctuaire de l'Esprit du Chêne.
@@ -247,6 +254,59 @@ Région sud-est, connue pour ses forêts de bambous géants et ses clairières f
 
 ## Secrets et intrigues
 
-- **Le Cerf Blanc Immortel** : Lors de la Grande Chasse Silencieuse, le cerf blanc traqué est toujours le même — un être aussi ancien que la forêt elle-même. Les druides le savent mais gardent le secret, car le cerf porte en lui la mémoire de tous les esprits de Trinoria. Si le cerf meurt, les esprits s'éteignent avec lui.
+- **Le Cerf Blanc Immortel** : Selon les druides, le cerf blanc traqué lors de la Grande Chasse Silencieuse serait toujours le même — un être qu'ils décrivent comme aussi ancien que la forêt. Cette croyance reste interne au Vael'Kurash et n'est partagée publiquement avec personne. La doctrine druidique tient que la mort du cerf entraînerait l'extinction de ce qu'ils perçoivent comme la mémoire des esprits de Trinoria — un risque que peu osent vérifier.
 - **L'Arc du Premier Roi** : L'arc de Valren, le fondateur de la monarchie, est conservé dans un sanctuaire secret de Nalithos. On murmure que quiconque bande cet arc acquiert la vision parfaite — la capacité de voir les esprits, les mensonges, et l'avenir. Plusieurs seigneurs-chasseurs cherchent ce sanctuaire, non pour le pouvoir, mais pour prouver leur valeur.
 - **Les Flèches Qui Reviennent** : Des patrouilles de la Garde Sylvestre ont signalé un phénomène troublant dans les forêts profondes de Grendor : des flèches tirées il y a des siècles, lors de la Bataille des Mille Flèches, retrouvées intactes, plantées dans le sol frais comme si elles venaient d'être décochées. Les druides refusent d'enquêter, ce qui ne fait qu'alimenter l'inquiétude.
+
+---
+
+## Données canoniques (source : Access)
+
+> Identité importée verbatim depuis `AccessExport/Pays.csv`. Sert de référence canonique au système Access historique.
+
+### Identité
+
+| Champ | Valeur |
+|-------|--------|
+| **N° Pays (CSV)** | 9 |
+| **Nom CSV** | Trinoria |
+| **Continent (CSV)** | Galenor (N°7) |
+| **Gouvernement** | Monarchie féodale |
+| **Culture** | Culture féodale, avec une société stratifiée où les seigneurs locaux ont une grande autonomie. |
+| **Histoire marquante** | La Bataille des Mille Flèches, où les archers de Trinoria ont repoussé une invasion bien plus nombreuse en utilisant des tactiques de guérilla. |
+| **Description CSV** | Un pays avec des forêts denses et des montagnes, connu pour ses archers et ses chasseurs d'élite. |
+
+### Régions canoniques (source : Region.csv)
+
+- **Nalithos** (R47) — *stub : description non renseignée dans le CSV*
+- **Ithralis** (R48) — *stub : description non renseignée dans le CSV*
+- **Krysalor** (R49) — *stub : description non renseignée dans le CSV*
+- **Rontho** (R50) — *stub : description non renseignée dans le CSV*
+- **Grendor** (R51) — *stub : description non renseignée dans le CSV*
+- **Fyrilith** (R52) — *stub : description non renseignée dans le CSV*
+
+### Villes canoniques (source : Ville.csv)
+
+Total : **18 villes/villages** réparties sur **6 régions**.
+
+| Ville | Région | Type |
+|-------|--------|------|
+| Gyndor | Nalithos | Ville |
+| Velathor | Nalithos | Village |
+| Ralynor | Nalithos | Village |
+| Xarnith | Nalithos | Village |
+| Falorin | Ithralis | Ville |
+| Brynthar | Ithralis | Village |
+| Sylvera | Krysalor | Ville |
+| Kaloris | Krysalor | Ville |
+| Maldor | Krysalor | Village |
+| Thalgris | Rontho | Ville |
+| Ynorath | Rontho | Village |
+| Gorthorn | Grendor | Ville |
+| Velryn | Grendor | Village |
+| Xylandor | Fyrilith | Ville |
+| Talnithar | Fyrilith | Ville |
+| Velkoros | Fyrilith | Village |
+| Sylthar | Fyrilith | Village |
+| Talvoria | Fyrilith | Village |
+

@@ -1,3 +1,10 @@
+﻿---
+tags: [lore, pays, celethor]
+type: lore
+status: drafted
+last_review: 2026-05-02
+needs_review_for: []
+---
 # Elarian — La Grande Alliance Glaciale
 
 > *« Le froid ne tue pas — il enseigne. Il t'apprend à te serrer contre tes frères, à partager ta flamme, à économiser tes forces. Un peuple qui survit à l'hiver peut survivre à tout. »*
@@ -115,7 +122,7 @@ Région montagneuse au sud, la plus tempérée d'Elarian. Gimtar abrite les forg
 
 ### Aethoria
 *Village d'observateurs du ciel, perché sur un plateau dégagé. Les Elariens d'Aethoria étudient les aurores boréales, qu'ils considèrent comme les messages visuels de Tempora. Leurs prédictions météorologiques, basées sur les couleurs des aurores, sont d'une précision remarquable.*
-**Histoire :** La tradition d'observation des aurores à Aethoria débuta avec une vieille femme du clan des Givrés qui prétendait lire le temps dans leurs couleurs — une compétence considérée comme de la superstition par ses contemporains. Mais ses prédictions étaient constamment justes, et les chasseurs qui l'ignoraient revenaient régulièrement pris dans des tempêtes imprévues. Après sa mort, trois de ses élèves tentèrent de codifier sa méthode par écrit. Ce carnet, amendé par chaque génération d'observateurs depuis lors, est le document météorologique le plus précis d'Hybelior — et personne n'a encore réussi à en expliquer entièrement le fonctionnement.
+**Histoire :** La tradition d'observation des aurores à Aethoria débuta avec une vieille femme du clan des Givrés qui prétendait lire le temps dans leurs couleurs — une compétence considérée comme de la superstition par ses contemporains. Mais ses prédictions étaient constamment justes, et les chasseurs qui l'ignoraient revenaient régulièrement pris dans des tempêtes imprévues. Après sa mort, trois de ses élèves tentèrent de codifier sa méthode par écrit. Ce carnet, amendé par chaque génération d'observateurs depuis lors, est tenu par les chroniqueurs locaux pour le document météorologique le plus précis d'Hybelior — et son fonctionnement résiste encore aux tentatives d'explication systématique des théoriciens.
 - Population : Ville
 - Région : Tundryst
 
@@ -236,6 +243,59 @@ Région montagneuse au sud, la plus tempérée d'Elarian. Gimtar abrite les forg
 
 ## Secrets et intrigues
 
-- **Le Glacier Vivant** : Au cœur de Kryostra, un glacier immense avance lentement mais inexorablement. Les chamans affirment qu'il est vivant — une entité antique, endormie mais consciente. Si le glacier atteint Kryndor, la ville sera engloutie. Les Elariens tentent de le ralentir par des rituels, mais rien ne semble fonctionner.
-- **Le Sang du Fondateur** : La lignée Hrothgar cache un secret : le premier Jarl Suprême n'était pas entièrement humain. Son sang portait la marque d'une créature du froid — un être de glace et de vent. Ses descendants héritent parfois de cette nature, développant une résistance surnaturelle au froid mais aussi une cruauté imprévisible.
-- **Le Treizième Clan** : L'histoire officielle mentionne douze clans. Mais les archives de Thaldris contiennent des références à un treizième — le clan des Abysses, des plongeurs qui vivaient sous la mer glaciaire. Ils ont disparu pendant la Longue Nuit, et leurs descendants vivraient encore dans des cités sous-marines que personne n'a jamais trouvées.
+- **Le Glacier Vivant** : Au cœur de Kryostra, un glacier immense avance lentement mais sans relâche. Les chamans en parlent comme d'une présence vivante — une entité antique, endormie selon leur lecture, dont le mouvement serait l'expiration ralentie. Si le glacier atteint Kryndor, la ville sera engloutie. Les Elariens tentent de le ralentir par des rituels ; les résultats n'ont pas été observés à hauteur des espérances.
+- **Le Sang du Fondateur** : Une tradition orale tenace, transmise dans les cercles intimes du clan Hrothgar, soutient que le premier Jarl Suprême portait dans ses veines une marque qui n'était pas entièrement humaine — ce que les conteurs décrivent comme la trace d'une créature du froid, glace et vent mêlés. Les descendants en ligne directe développent parfois une résistance au froid que les autres clans qualifient de surnaturelle, et certains témoins leur prêtent une cruauté qu'ils relient à cette même origine. Les chroniqueurs neutres notent que la lecture héréditaire du trait n'a jamais été confirmée hors de la tradition familiale.
+- **Le Treizième Clan** : L'histoire officielle mentionne douze clans. Mais les archives de Thaldris contiennent des références à un treizième — le clan des Abysses, des plongeurs qui vivaient sous la mer glaciaire. Ils ont disparu pendant la Longue Nuit, et selon une rumeur ancienne leurs descendants vivraient encore dans des cités sous-marines, qu'aucune expédition documentée n'a localisées à ce jour.
+
+---
+
+## Données canoniques (source : Access)
+
+> Identité importée verbatim depuis `AccessExport/Pays.csv`. Sert de référence canonique au système Access historique.
+
+### Identité
+
+| Champ | Valeur |
+|-------|--------|
+| **N° Pays (CSV)** | 28 |
+| **Nom CSV** | Elarian |
+| **Continent (CSV)** | Celethor (N°13) |
+| **Gouvernement** | Confédération féodale |
+| **Culture** | Culture glaciale et martiale, où les habitants maîtrisent l'art de la forge de glace et du combat en terrain hostile. |
+| **Histoire marquante** | La Grande Alliance Glaciale, une union des seigneurs de Elarian pour repousser une invasion de créatures des glaces venues du nord. |
+| **Description CSV** | Un pays de montagnes enneigées et de vallées glaciaires, connu pour ses forgerons de glace et ses guerriers endurcis. |
+
+### Régions canoniques (source : Region.csv)
+
+- **Tundryst** (R111) — *stub : description non renseignée dans le CSV*
+- **Kryostra** (R112) — *stub : description non renseignée dans le CSV*
+- **Veskara** (R113) — *stub : description non renseignée dans le CSV*
+- **Gimtar** (R114) — *stub : description non renseignée dans le CSV*
+
+### Villes canoniques (source : Ville.csv)
+
+Total : **20 villes/villages** réparties sur **4 régions**.
+
+| Ville | Région | Type |
+|-------|--------|------|
+| Tundralis | Tundryst | Capitale |
+| Frostmir | Tundryst | Ville |
+| Aethoria | Tundryst | Village |
+| Nymaris | Tundryst | Village |
+| Vyndoria | Tundryst | Village |
+| Kryndor | Kryostra | Ville |
+| Icelorn | Kryostra | Village |
+| Glacoria | Kryostra | Village |
+| Caeldor | Kryostra | Village |
+| Lornath | Kryostra | Village |
+| Veskoris | Veskara | Ville |
+| Frosthal | Veskara | Village |
+| Mythralis | Veskara | Village |
+| Noryndal | Veskara | Village |
+| Wynthar | Veskara | Village |
+| Kryndalis | Veskara | Village |
+| Gimtaris | Gimtar | Ville |
+| Lysorn | Gimtar | Village |
+| Thaldris | Gimtar | Village |
+| Kaldaris | Gimtar | Village |
+

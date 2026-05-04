@@ -1,3 +1,10 @@
+﻿---
+tags: [lore, pays, azoria]
+type: lore
+status: drafted
+last_review: 2026-05-02
+needs_review_for: []
+---
 # Caeloria — Le Royaume des Cieux Gelés
 
 > *« Les étoiles ne mentent pas. Mais elles ne disent pas tout non plus — c'est pourquoi il faut des oracles. »*
@@ -23,23 +30,23 @@
 
 ### Les Fondations dans la Glace
 
-Caeloria ne fut pas fondée — elle fut révélée. Selon la tradition, les premiers habitants d'Azoria étaient des nomades errant sur la banquise, survivant à peine dans un monde de blanc et de silence. Ils n'avaient pas de foyer, pas de destination, pas d'espoir. Le froid les tuait lentement et méthodiquement.
+Selon la tradition caélorienne, Caeloria n'a pas été fondée comme on fonde une ville — elle a été révélée. Les chroniques racontent que les premiers habitants d'Azoria étaient des nomades errant sur la banquise, survivant à peine dans un monde de blanc et de silence. Ils n'avaient pas de foyer, pas de destination. Le froid les tuait lentement.
 
-Un soir de solstice d'hiver, alors qu'une tempête de neige menaçait d'anéantir le dernier groupe de survivants, le ciel se déchira. Les nuages s'ouvrirent au-dessus d'une côte rocheuse que personne n'avait vue — comme si la terre elle-même venait d'émerger de la glace. Les étoiles apparurent, plus brillantes que jamais, formant un motif que les anciens reconnurent : une flèche pointant vers la côte.
+Un soir de solstice d'hiver, alors qu'une tempête de neige menaçait d'anéantir un dernier groupe de survivants, ce que les chroniques sacrées appellent *l'Ouverture du Ciel* se produisit : les nuages s'écartèrent au-dessus d'une côte rocheuse que les nomades n'avaient pas remarquée jusqu'alors, et les étoiles parurent former un motif — ce que les anciens lurent comme une flèche pointant vers la côte. Que le motif ait existé objectivement ou que le regard désespéré des survivants l'ait composé, les chroniques ne tranchent pas.
 
-Ils suivirent le signe. Sur la côte, ils trouvèrent des falaises percées de grottes naturelles, chauffées par des sources thermales souterraines. Un refuge au milieu de l'enfer glacé. Les nomades s'y installèrent et nommèrent l'endroit Caeloria — "le don du ciel".
+Ils suivirent le signe. Sur la côte, ils trouvèrent des falaises percées de grottes naturelles, chauffées par des sources thermales souterraines. Un refuge au milieu de l'étendue glacée. Les nomades s'y installèrent et nommèrent l'endroit Caeloria — "le don du ciel".
 
 ### L'Intervention Divine
 
 Trois générations plus tard, Caeloria était devenue un royaume naissant — prospère par les standards d'Azoria, ce qui signifiait simplement que ses habitants ne mouraient pas de froid. Mais la prospérité attira l'attention. Des hordes de pillards venus des terres intérieures — des nomades restés sauvages — déferlèrent sur la côte caélorienne.
 
-Le roi **Aldren le Juste** rassembla ses guerriers, mais ils étaient en infériorité écrasante. La bataille semblait perdue d'avance. La nuit précédant l'assaut, Aldren monta seul au sommet de la plus haute falaise de Caeloria. Selon les chroniques sacrées, il ne pria pas — il demanda. Pas en suppliant. En exigeant.
+Le roi **Aldren le Juste** rassembla ses guerriers, mais ils étaient en infériorité écrasante. La bataille semblait perdue d'avance. La nuit précédant l'assaut, Aldren monta seul au sommet de la plus haute falaise de Caeloria. Selon les chroniques sacrées, il ne pria pas en suppliant — il s'adressa au ciel comme à un débiteur :
 
 *« Vous nous avez guidés ici. Vous avez ouvert le ciel pour nous montrer le chemin. Si nous mourons demain, votre don n'aura servi à rien. Alors faites quelque chose — ou admettez que les étoiles ne sont que des cailloux lumineux. »*
 
-À l'aube, une tempête d'une violence inouïe se leva — mais uniquement sur le campement des envahisseurs. Les Caéloriens, à quelques lieues de distance, ne ressentirent qu'une brise légère. Quand la tempête se dissipa, il ne restait des pillards que du givre et du silence.
+À l'aube, une tempête d'une violence inouïe se leva sur le campement des envahisseurs ; les Caéloriens, à quelques lieues de distance, ne ressentirent qu'une brise légère. Quand la tempête se dissipa, des pillards il ne restait que du givre et du silence. Que la coïncidence ait été météorologique, qu'elle ait été l'effet d'une voix entendue par-dessus le Pacte, ou qu'elle relève d'autre chose encore — les chroniques de Caeloria ne distinguent pas, et leur tradition n'a pas besoin de la distinction.
 
-Cet événement — l'Intervention Divine — transforma Caeloria. Le peuple, déjà pieux, bascula dans une ferveur religieuse absolue. Les prêtres, qui n'étaient jusqu'alors que des conseillers, devinrent les véritables dirigeants. La lignée royale ne disparut pas, mais elle se soumit volontairement au clergé. Le roi devint le "Bras des Cieux" — un exécutant militaire au service de la volonté divine interprétée par les oracles.
+Cet événement — que les Caéloriens nomment **l'Intervention Divine** — transforma le royaume. Le peuple, déjà pieux, bascula dans une ferveur religieuse absolue. Les prêtres, qui n'étaient jusqu'alors que des conseillers, devinrent les véritables dirigeants. La lignée royale ne disparut pas, mais elle se soumit volontairement au clergé. Le roi devint le "Bras des Cieux" — un exécutant militaire au service de la volonté divine telle qu'interprétée par les oracles.
 
 ### Caeloria aujourd'hui
 
@@ -59,7 +66,7 @@ Le **Bras des Cieux** actuel est le général **Thandric Coeur-de-Givre**, un v�
 - **Les Veilleurs** : Prêtres-astronomes qui surveillent le ciel en permanence depuis les observatoires. Ils rapportent tout phénomène inhabituel au Conclave.
 - **Le Peuple** : N'a aucune représentation politique directe. Les doléances passent par les prêtres locaux qui les transmettent — ou pas — au Conclave.
 
-La théocratie fonctionne parce que le peuple y croit sincèrement. L'Intervention Divine n'est pas un mythe lointain — c'est un événement historique documenté dont les conséquences sont encore visibles (la zone où les pillards ont péri reste stérile, couverte d'un givre qui ne fond jamais).
+La théocratie fonctionne parce que le peuple y croit sincèrement. Pour un Caélorien, l'Intervention Divine n'est pas un mythe lointain mais un événement dont les traces sont encore observables : la zone où les pillards ont péri demeure stérile, couverte d'un givre qui ne fond pas. Les théologiens du Conclave en font la preuve d'une faveur céleste ; quelques érudits étrangers y ont vu, au fil des Souffles, l'empreinte d'un phénomène dont la nature reste discutée — une lecture que Caeloria ne reprend pas.
 
 ---
 
@@ -67,7 +74,7 @@ La théocratie fonctionne parce que le peuple y croit sincèrement. L'Interventi
 
 ### Ordo Caelum — L'Ordre Céleste
 
-Pour les Caéloriens, le ciel n'est pas un décor — c'est un livre ouvert, écrit par les dieux pour ceux qui savent lire. Chaque constellation, chaque étoile filante, chaque éclipse est un message. Les oracles passent leur vie à déchiffrer ce langage divin, et leurs interprétations façonnent la politique du royaume.
+Caeloria s'inscrit dans la **Tradition de la Lumière Ancienne**, par sa branche stellaire (Ordo Caelum). Pour les Caéloriens, le ciel se lit comme un livre ouvert : chaque constellation, chaque étoile filante, chaque éclipse y inscrit, selon eux, une part de ce que la Polyphonie laisse passer. Les oracles passent leur vie à déchiffrer ce langage tel qu'ils le perçoivent, et leurs interprétations façonnent la politique du royaume.
 
 **Particularités caéloriennes :**
 - **Les Observatoires Sacrés** : Cinq tours de glace cristallisée, si hautes qu'elles percent les nuages. Construites par des techniques ancestrales perdues, elles ne fondent jamais malgré la chaleur relative de la côte. Chaque observatoire est dédié à une constellation majeure et abrite un oracle spécialisé.
@@ -76,7 +83,7 @@ Pour les Caéloriens, le ciel n'est pas un décor — c'est un livre ouvert, éc
 
 ### Rota Mundi (secondaire)
 
-La croyance aux cycles éternels imprègne la culture caélorienne de manière subtile. Les saisons extrêmes d'Azoria — six mois de nuit, six mois de jour — renforcent l'idée que tout est cyclique. Les prêtres du Rota Mundi ne rivalisent pas avec l'Ordo Caelum — ils le complètent, offrant une vision du temps qui donne du sens aux prédictions stellaires. Un oracle lit les étoiles ; un prêtre du Cycle interprète quand la prédiction se réalisera.
+La lecture cyclique du temps imprègne la culture caélorienne de manière subtile. Les saisons extrêmes d'Azoria — six mois de nuit, six mois de jour — entretiennent localement l'image que tout revient. Les prêtres du Rota Mundi cohabitent avec l'Ordo Caelum sans rivalité doctrinale apparente : selon l'usage caélorien, un oracle lit les étoiles, un prêtre du Cycle interprète à quel moment du Souffle la prédiction trouvera sa résonance. Les théologiens des deux camps savent que cette répartition est un compromis local plus qu'une doctrine inter-religieuse partagée ailleurs.
 
 ---
 
@@ -110,7 +117,7 @@ L'architecture caélorienne est unique dans Hybelior. Les bâtiments sont sculpt
 La région côtière occidentale de Caeloria, balayée par des vents glaciaux venus de l'intérieur du continent. Duskoria tire son nom du crépuscule perpétuel qui baigne la région pendant les mois d'hiver — un demi-jour grisâtre où le soleil ne se lève jamais tout à fait. Les falaises de Duskoria sont percées de grottes thermales qui abritent la majorité de la population. C'est ici que se trouvent les observatoires les plus anciens et les mines de stellarite les plus productives. La côte est dangereuse — les Léviathans des Abysses y sont régulièrement aperçus.
 
 ### Silvarenth
-La région intérieure, plus élevée et plus froide que Duskoria. Silvarenth est un plateau glacé parsemé de formations de glace naturelles qui ressemblent à des cathédrales — les habitants les appellent les "Temples du Givre". Sous la surface gelée, des tunnels creusés par d'anciennes rivières souterraines forment un réseau labyrinthique. C'est dans ces tunnels que les explorateurs caéloriens ont découvert des fragments des Cités des Anciens — une civilisation perdue maîtrisant une magie liée au froid. Les ruines sont instables et dangereuses, mais les artefacts qu'on y trouve valent des fortunes.
+La région intérieure, plus élevée et plus froide que Duskoria. Silvarenth est un plateau glacé parsemé de formations de glace naturelles qui ressemblent à des cathédrales — les habitants les appellent les "Temples du Givre". Sous la surface gelée, des tunnels creusés par d'anciennes rivières souterraines forment un réseau labyrinthique. C'est dans ces tunnels que les explorateurs caéloriens ont rapporté des fragments attribués aux **Cités des Anciens** — civilisation antérieure dont les Caéloriens lisent les vestiges comme la trace d'une maîtrise du froid. La nature exacte de ces ruines, leur datation et l'identité de leurs bâtisseurs varient selon les chroniqueurs. Les passages sont instables et dangereux, mais les artefacts qu'on y trouve valent des fortunes.
 
 ---
 
@@ -168,6 +175,43 @@ La région intérieure, plus élevée et plus froide que Duskoria. Silvarenth es
 ## Secrets et intrigues
 
 - **La Sixième Tour** : Les cinq observatoires sacrés sont connus de tous. Mais les archives du Conclave mentionnent un sixième observatoire, plus ancien que les autres, enfoui sous la glace de Silvarenth. Il aurait été scellé volontairement par les premiers oracles après qu'ils y ont "vu quelque chose qui ne devait pas être vu". Le Conclave actuel nie son existence — ce qui ne fait que renforcer les rumeurs.
-- **L'Intervention était-elle divine ?** : Thandric Coeur-de-Givre, le Bras des Cieux, a découvert dans les tunnels des Cités des Anciens un artefact qui semble capable de contrôler la météo locale. Si l'Intervention Divine n'était pas divine mais technologique — un vestige des Anciens activé par accident — le fondement même de la théocratie s'effondre. Thandric garde l'artefact caché dans ses quartiers personnels, rongé par le doute.
-- **Les Yeux Blancs** : Un nombre croissant d'enfants naissent à Caeloria avec des yeux d'un blanc laiteux — pas aveugles, mais voyant "autrement". Le Conclave les présente comme des bénis des cieux, mais les médecins constatent que ces enfants partagent tous une anomalie physiologique identique, comme s'ils étaient... modifiés. Par quoi ? Par qui ? Les oracles refusent d'en discuter.
-- **Le Pacte du Léviathan** : Les pêcheurs de Frostlin murmurent que la Haute-Prêtresse Velmira se rend seule sur la banquise certaines nuits, et qu'elle parle à quelque chose dans l'eau noire. Personne n'ose la suivre. Mais depuis son ascension au pouvoir, aucun Léviathan n'a attaqué la côte — ce qui était auparavant un événement annuel.
+- **L'Intervention, lecture concurrente** : Thandric Coeur-de-Givre, le Bras des Cieux, a rapporté des tunnels des Cités des Anciens un artefact dont il croit qu'il pourrait influer sur la météo locale. Si l'Intervention Divine se laisse aussi lire comme l'effet d'un vestige des Anciens activé par hasard, la lecture théocratique perd son monopole interprétatif — sans pour autant être réfutée, puisque les deux explications ne sont pas exclusives. Thandric garde l'objet dans ses quartiers personnels, rongé par cette ambiguïté plus que par une certitude.
+- **Les Yeux Blancs** : Un nombre croissant d'enfants naissent à Caeloria avec des yeux d'un blanc laiteux — non aveugles, mais voyant, selon ce qu'on rapporte, "autrement". Le Conclave les présente comme des bénis des cieux ; certains médecins observent qu'ils partagent une particularité physiologique commune, qu'ils peinent à expliquer par les seuls hasards de la lignée. Les oracles ne reprennent pas la question, ce qui n'a fait que la nourrir.
+- **Le Pacte du Léviathan** : Les pêcheurs de Frostlin murmurent que la Haute-Prêtresse Velmira se rend seule sur la banquise certaines nuits, et qu'elle s'y adresse à quelque chose dans l'eau noire. Aucun témoin direct n'a été rapporté. Ce qui est observable : depuis son ascension au pouvoir, aucun Léviathan n'a attaqué la côte — alors que les attaques étaient auparavant annuelles. La corrélation alimente les rumeurs sans les confirmer.
+
+---
+
+## Données canoniques (source : Access)
+
+> Identité importée verbatim depuis `AccessExport/Pays.csv`. Sert de référence canonique au système Access historique.
+
+### Identité
+
+| Champ | Valeur |
+|-------|--------|
+| **N° Pays (CSV)** | 32 |
+| **Nom CSV** | Caeloria |
+| **Continent (CSV)** | Azoria (N°9) |
+| **Gouvernement** | Théocratie divine |
+| **Culture** | Culture religieuse et mystique, avec une forte vénération pour les divinités célestes et les oracles. |
+| **Histoire marquante** | L'Intervention Divine, un moment où, selon la légende, les dieux eux-mêmes sont descendus pour sauver Caeloria d'une menace cataclysmique. |
+| **Description CSV** | Un petit royaume prospère situé sur une côte rocheuse, connu pour ses oracles et ses temples dédiés aux dieux des cieux. |
+
+### Régions canoniques (source : Region.csv)
+
+- **Duskoria** (R62) — *stub : description non renseignée dans le CSV*
+- **Silvarenth** (R63) — *stub : description non renseignée dans le CSV*
+
+### Villes canoniques (source : Ville.csv)
+
+Total : **6 villes/villages** réparties sur **2 régions**.
+
+| Ville | Région | Type |
+|-------|--------|------|
+| Duskoris | Duskoria | Ville |
+| Frostlin | Duskoria | Village |
+| Vyntheris | Duskoria | Village |
+| Vyndoris | Duskoria | Village |
+| Silvaris | Silvarenth | Ville |
+| Galdrith | Silvarenth | Village |
+

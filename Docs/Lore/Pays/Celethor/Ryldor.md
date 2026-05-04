@@ -1,3 +1,10 @@
+﻿---
+tags: [lore, pays, celethor]
+type: lore
+status: drafted
+last_review: 2026-05-02
+needs_review_for: []
+---
 # Ryldor — La Guérison du Fléau
 
 > *« La maladie n'est pas un ennemi — c'est un message. Le corps souffre quand l'esprit s'égare, et l'esprit s'égare quand l'âme oublie ses racines. Guérir, c'est se souvenir de qui l'on est. »*
@@ -137,6 +144,41 @@ Unique région du pays, une vallée abritée entre les montagnes de Celethor. Le
 
 ## Secrets et intrigues
 
-- **Le Fléau dort** : Le Grand Chaman Thyros sait que le Fléau n'a pas été vaincu — il a été contenu. Sous les fondations de Ryldaris, scellé par des racines et des rituels, quelque chose pulse encore. Si le sceau se brisait, le Fléau pourrait revenir plus fort qu'avant.
-- **La Potion Interdite** : Les archives secrètes de Ryldor contiennent la recette d'une potion capable de rendre un être humain immortel — mais au prix de la stérilité de la terre dans un rayon de dix lieues. Thyros a interdit sa fabrication, mais certains apprentis ont lu les archives.
-- **L'Héritière du Fléau** : Une jeune guérisseuse nommée **Myrla** est née immunisée au Fléau — mais plus inquiétant, elle peut le contrôler. Elle peut le concentrer dans ses mains et l'injecter dans un être vivant. Thyros la surveille de près, déchiré entre la peur et l'espoir qu'elle pourrait être la clé d'une guérison définitive.
+- **Le Fléau dort** : Le Grand Chaman Thyros tient pour acquis, dans son cercle restreint, que le Fléau n'a pas été vaincu — il a été contenu. Sous les fondations de Ryldaris, scellé par des racines et des rituels, ce que les chamans surveillants décrivent comme une activité résiduelle se manifeste encore par pulsations. Si le sceau se brisait, selon leur lecture, le Fléau pourrait revenir d'une virulence plus grande qu'auparavant.
+- **La Potion Interdite** : Les archives secrètes de Ryldor contiennent une recette qui, selon les notes de ses auteurs, prolongerait indéfiniment la vie d'un être humain — au prix d'une stérilité durable de la terre dans un rayon de dix lieues. Aucune mise en œuvre documentée n'en a été conservée. Thyros a interdit sa fabrication, mais certains apprentis ont eu accès aux archives.
+- **L'Héritière du Fléau** : Une jeune guérisseuse nommée **Myrla** présente une immunité que ses examinateurs n'ont pas pu mettre en défaut — et, plus troublant pour le Cercle, plusieurs témoins du Sanctuaire rapportent qu'elle parvient à concentrer dans ses mains ce qu'ils identifient comme du Fléau, et à le transférer à un être vivant. Thyros la garde sous une attention serrée, partagé entre la crainte de ce que cette aptitude désigne et l'espoir qu'elle ouvre une voie vers une guérison définitive.
+
+---
+
+## Données canoniques (source : Access)
+
+> Identité importée verbatim depuis `AccessExport/Pays.csv`. Sert de référence canonique au système Access historique.
+
+### Identité
+
+| Champ | Valeur |
+|-------|--------|
+| **N° Pays (CSV)** | 35 |
+| **Nom CSV** | Ryldor |
+| **Continent (CSV)** | Celethor (N°13) |
+| **Gouvernement** | Théocratie chamanique |
+| **Culture** | Culture chamanique et médicinale, où la guérison et la communion avec les esprits sont des aspects centraux. |
+| **Histoire marquante** | La Guérison du Fléau, un événement où les chamans de Ryldor ont réussi à éradiquer une maladie dévastatrice qui menaçait de décimer la population. |
+| **Description CSV** | Un royaume caché parmi des marais et des rivières, réputé pour ses herboristes et ses guérisseurs mystiques. |
+
+### Régions canoniques (source : Region.csv)
+
+- **RyldorRegion** (R115) — *stub : description non renseignée dans le CSV*
+
+### Villes canoniques (source : Ville.csv)
+
+Total : **5 villes/villages** réparties sur **1 régions**.
+
+| Ville | Région | Type |
+|-------|--------|------|
+| Ryldaris | RyldorRegion | Capitale |
+| Galrinth | RyldorRegion | Village |
+| Thyros | RyldorRegion | Village |
+| Zelthar | RyldorRegion | Village |
+| Faldoris | RyldorRegion | Village |
+

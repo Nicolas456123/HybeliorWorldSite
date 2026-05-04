@@ -9,55 +9,63 @@
     'use strict';
 
     /* =================================================================
-       ERES
+       ERES (canon Lore \u2014 8 \u00E8res : 0 \u00E0 VII)
+       Source : Documentation/GDD/Lore/Chronologie/ (Era 0 \u2192 Era 7)
        ================================================================= */
     const ERAS = [
         {
-            id: 'genese', num: '0', name: 'Eres Primordiales',
-            dates: '\u221E \u2014 ~45 000 av.A',
-            desc: 'Avant les mortels. \u00C9mergence des \u00C9ternels, des Cosmiques, des \u00C9th\u00E9r\u00E9s. Formation du monde par la Fracture du Panghor.',
-            color: '#a07820', bg: 'rgba(160,120,30,0.05)', accent: '#a07820',
-            yMin: 0, yMax: 150
+            id: 'vide', num: '0', name: 'Le Vide',
+            dates: '\u221E \u2014 Avant-M\u00E9moire',
+            desc: 'Avant tout : pas de temps, pas d\'espace, pas de mati\u00E8re. Une R\u00E9sonance traverse le Substrat et fait \u00E9merger en cascade les 5 \u00C9ternels : Celestia, Noctis, Tempora, Eldoria, Navigor. Aucun mortel ne se souvient du Vide.',
+            color: '#5a4a30', bg: 'rgba(90,74,48,0.05)', accent: '#5a4a30',
+            yMin: 0, yMax: 60
         },
         {
-            id: 'eveil', num: 'I', name: '\u00C9veil des Mortels',
+            id: 'genese', num: 'I', name: 'La Gen\u00E8se',
+            dates: 'Avant-M\u00E9moire \u2014 ~45 000 av.A',
+            desc: 'Naissance des 12 Cosmiques en 4 phases (Aquor, Terranu, Aerion\u2026 jusqu\'\u00E0 Etherius). Installation des 45 \u00C9th\u00E9r\u00E9s sur le Panghor, le supercontinent unique. La Fracture du Panghor en 3 phases produit les 13 continents actuels.',
+            color: '#a07820', bg: 'rgba(160,120,30,0.05)', accent: '#a07820',
+            yMin: 60, yMax: 150
+        },
+        {
+            id: 'eveil', num: 'II', name: 'L\'\u00C9veil des Mortels',
             dates: '~45 000 \u2014 ~20 000 av.A',
-            desc: 'Les premi\u00E8res civilisations mortelles \u00E9mergent dans les 5 Berceaux. Le Grand Gel (~30 000 av.A) efface 80% de la vie. Reconstruction lente.',
+            desc: 'Les premiers mortels \u00E9mergent dans les 5 Berceaux : Marcheurs de Cendre, Enfants de la Roche, Coureurs, Voix-sous-Bois, Gens de l\'Eau. Le Grand Gel (~30 000 av.A) \u00E9limine ~73 % de la population. Reconstruction et premi\u00E8res migrations.',
             color: '#6a8040', bg: 'rgba(100,130,60,0.05)', accent: '#6a8040',
             yMin: 150, yMax: 300
         },
         {
-            id: 'lien', num: 'II', name: '\u00C2ge du Lien',
+            id: 'lien', num: 'III', name: 'L\'\u00C2ge du Lien',
             dates: '~20 000 av.A \u2014 An 0',
-            desc: 'D\u00E9couverte et ma\u00EEtrise du Lien magique. \u00C2ge d\'Or de 120 millions d\'habitants, 7 cit\u00E9s volantes, 200 portails. Les graines de la Chute sont sem\u00E9es.',
+            desc: 'Orvane, Khatun et Ildaran formalisent ind\u00E9pendamment le Lien. 7 grands empires se succ\u00E8dent (Pyrevaste, Celith, Alkarath, Solvenar, Endara, Ithalorn, Everthor). 9 grandes religions structurent la vie spirituelle. Apog\u00E9e : ~120 M habitants, 7 cit\u00E9s volantes, 200+ portails. Souffle Cardinal de la Fracture (~-1 500). Verithan publie le Trait\u00E9 du Vide.',
             color: '#3060a0', bg: 'rgba(48,96,160,0.05)', accent: '#3060a0',
             yMin: 300, yMax: 800
         },
         {
-            id: 'arrachement', num: 'III', name: "L'Arrachement",
-            dates: 'An 0',
-            desc: "L'\u00C9tudiant sectionne son N\u0153ud au Mont Cendra. En 7 heures, le Lien se rompt \u00E0 travers tout Hyb\u00E9lior. 7 cit\u00E9s volantes s'\u00E9crasent. Navigor dispara\u00EEt. D\u00E9but de la plus grande catastrophe de l'histoire.",
+            id: 'arrachement', num: 'IV', name: 'L\'Arrachement',
+            dates: 'An 0 (= -250 du Sillage)',
+            desc: 'Souffle Cardinal observ\u00E9. Selon le r\u00E9cit Verithane, l\'\u00C9tudiant sectionne son N\u0153ud au Mont Cendra ; six lectures coexistent. Navigor cesse d\'\u00EAtre atteignable, Eldoria se fait silencieuse, Tempora para\u00EEt bless\u00E9. Navoria engloutie en 3 jours. 17 Br\u00E8ches du N\u00E9ant + Crat\u00E8res du Cardinal.',
             color: '#a02020', bg: 'rgba(160,30,30,0.07)', accent: '#a02020',
             yMin: 800, yMax: 960
         },
         {
-            id: 'nuit', num: 'IV', name: 'Grande Nuit',
+            id: 'nuit', num: 'V', name: 'La Grande Nuit',
             dates: 'An 0 \u2014 ~3 000 ap.A',
-            desc: '120 millions d\'habitants \u2192 ~25 millions en 3 000 ans. F\u00E9odalisme de survie. Pers\u00E9cution des Tiss\u00E9s. Le Fl\u00E9au des Failles frappe une troisi\u00E8me fois.',
+            desc: '4 phases d\u00E9mographiques : choc imm\u00E9diat (~120M\u219290M), stabilisation longue (~60-70M), quasi-extinction par le Fl\u00E9au des Failles (~30M\u219218M, Tisses d\u00E9cim\u00E9s ~150 000\u2192~200-300), recovery lente. Trois royaumes interm\u00E9diaires : Tharnok, Forgon, Drahk\'Nor. Convention de Gryndor.',
             color: '#502060', bg: 'rgba(80,32,96,0.05)', accent: '#502060',
             yMin: 960, yMax: 1560
         },
         {
-            id: 'nations', num: 'V', name: '\u00C8re des Nations',
+            id: 'nations', num: 'VI', name: 'L\'\u00C8re des Nations',
             dates: '~3 000 \u2014 ~9 500 ap.A',
-            desc: 'Les empires se fragmentent et se reforment. Routes commerciales, guerres dynastiques, r\u00E9volutions. Drahk\'Nor s\'effondre. Les r\u00E9publiques \u00E9mergent.',
+            desc: '7 guerres majeures fa\u00E7onnent les fronti\u00E8res. 38+ nations \u00E9mergent comme \u00EElots de civilisation \u2014 plus de la moiti\u00E9 du monde reste sauvage (wildlands, Failles r\u00E9siduelles). Drahk\'Nor s\'effondre. Trois artefacts (Fragment Z\u00E9ro, Carte du Silence, Inscription de Kharazir) deviennent objets d\'archive. Aucun cadre supranational n\'aboutit.',
             color: '#7a5020', bg: 'rgba(122,80,32,0.05)', accent: '#7a5020',
             yMin: 1560, yMax: 2560
         },
         {
-            id: 'actuel', num: 'VI', name: '\u00C8re Actuelle',
-            dates: '~9 500 \u2014 ~10 200 ap.A',
-            desc: 'Le Trait\u00E9 des Treize Continents. La Catena Fracta dans l\'ombre. Le C\u0153ur de Cendra pulse. Les Esprits se taisent. Quelque chose arrive.',
+            id: 'actuel', num: 'VII', name: 'Le Monde Actuel',
+            dates: '~9 500 \u2014 10 200 ap.A (an 251 du Sillage)',
+            desc: 'Monde diplomatiquement fragment\u00E9 \u2014 38 nations, aucun cadre supranational. La Catena Fracta recrute en cellules. La Guerre de l\'Ombre est active. Le C\u0153ur de Cendra pulse de plus en plus vite. Anomalies tardives : Enfants aux Yeux Blancs, \u00E9toiles mouvantes, Failles possiblement mobiles. T\u00E9moins encore vivants : Veyran d\'Astravia, In\u00E9a la Sept-fois-R\u00E9veill\u00E9e, La H\u00EAtraie d\'Os-Karash\u2026',
             color: '#7a4c0a', bg: 'rgba(122,76,10,0.06)', accent: '#7a4c0a',
             yMin: 2560, yMax: 3160
         },
@@ -148,12 +156,12 @@
        ================================================================= */
     const GLOBAL = [
         // ═══ Ères Primordiales ═══
-        { y:40,  t:'magie',      era:'genese', title:'R\u00E9sonance Primordiale',
-          desc:'Dans le Vide \u2014 la premi\u00E8re vibration. Rien ne pr\u00E9c\u00E8de. La substance de la magie prend forme avant le monde lui-m\u00EAme.' },
-        { y:65,  t:'magie',      era:'genese', title:'\u00C9mergence des 5 \u00C9ternels',
-          desc:'Celestia (\u00E9toiles), Noctis (ombres), Tempora (temps), Eldoria (vie), Navigor (passages) \u2014 \u00E9mergent en cascade depuis la R\u00E9sonance. Ces entit\u00E9s fa\u00E7onnent ensuite les lois du monde.' },
+        { y:40,  t:'magie',      era:'vide', title:'R\u00E9sonance Primordiale',
+          desc:'Dans le Vide \u2014 la premi\u00E8re vibration du Substrat. Rien ne pr\u00E9c\u00E8de. Cause non rapport\u00E9e. La r\u00E9sonance produit, en cascade, les 5 \u00C9ternels.' },
+        { y:65,  t:'magie',      era:'vide', title:'\u00C9mergence des 5 \u00C9ternels',
+          desc:'Celestia (lumi\u00E8re, ordre), Noctis (ombre, profondeur), Tempora (temps, flux), Eldoria (mati\u00E8re, \u00E9toiles), Navigor (chemins, connexions) \u2014 \u00E9mergent en cascade depuis la R\u00E9sonance. Le Pacte Primordial est nou\u00E9 (termes inconnus).' },
         { y:95,  t:'magie',      era:'genese', title:'Naissance des 12 Cosmiques',
-          desc:'Terranu, Aquor, Aerion, Flamara, Arborius, Spiritus, Transitum\u2026 Douze entit\u00E9s secondaires en 4 phases. Chacune incarne un aspect physique du monde.' },
+          desc:'4 phases canoniques (D-COSMO-4) : Phase 1 Aquor, Terranu, Aerion \u00B7 Phase 2 Climata, Gravitas, Vortex \u00B7 Phase 3 Judicar, Fatum, Spiritus \u00B7 Phase 4 Stellaris, Aetheron, Etherius. Enfants du monde, non cr\u00E9ateurs du monde.' },
         { y:125, t:'magie',      era:'genese', title:'Installation des 45 \u00C9th\u00E9r\u00E9s',
           desc:'Gelion (Cestra), Ignifex (Cendara), Venturis (Galenor), Coralis (Azoria)\u2026 Les \u00C9th\u00E9r\u00E9s sont les gardiens locaux des continents. Ils formeront la base de nombreuses religions.' },
         { y:148, t:'catastrophe',era:'genese', title:'Fracture du Panghor',

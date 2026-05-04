@@ -1,3 +1,10 @@
+﻿---
+tags: [lore, pays, ilthara]
+type: lore
+status: drafted
+last_review: 2026-05-02
+needs_review_for: []
+---
 # Gryndor — Le Trône du Savoir Ancien
 
 > *« En Gryndor, une bibliothèque vaut plus qu'un château, et un livre plus qu'une épée. »*
@@ -11,8 +18,8 @@
 |---|---|
 | **Continent** | Ilthara |
 | **Gouvernement** | Monarchie traditionnelle |
-| **Religion principale** | [[00_Systeme_Religieux\|Lex Petra]] (La Loi de Pierre) |
-| **Religion secondaire** | [[00_Systeme_Religieux\|Rota Mundi]] (Le Cycle du Monde) |
+| **Religion principale** | [[Lex Petra]] (La Loi de Pierre) |
+| **Religion secondaire** | [[Rota Mundi]] (Le Cycle du Monde) |
 | **Culture dominante** | Savoir, artisanat de précision, vénération de l'histoire |
 | **Histoire marquante** | La Restauration de Gryndor |
 | **Ressources clés** | Cristaux magiques, pierre de taille, encre enchantée, instruments de précision |
@@ -59,7 +66,7 @@ Le roi actuel est **Vaelorn V**, un monarque méthodique et patient dont la pass
 
 ## Religion
 
-### [[00_Systeme_Religieux|Lex Petra]] — La Loi de Pierre (religion officielle)
+### [[Lex Petra]] — La Loi de Pierre (religion officielle)
 
 En Gryndor, la Lex Petra prend une dimension particulière. La pierre n'est pas seulement le symbole de la loi — elle est le support physique du savoir. Les Gryndoriens gravent leurs textes les plus importants dans la pierre, car le parchemin brûle et l'encre s'efface, mais la pierre perdure.
 
@@ -69,9 +76,9 @@ Les temples de la Lex Petra à Gryndor sont des salles d'étude autant que des l
 - **Le Jour de la Pierre Gravée** (solstice d'hiver) — Chaque famille grave dans un bloc de pierre un fait marquant de l'année écoulée. Ces pierres sont déposées dans les fondations des nouveaux bâtiments, créant une mémoire collective littéralement inscrite dans les murs du royaume.
 - **La Lecture des Fondations** (équinoxe de printemps) — Les prêtres exhument une pierre gravée ancienne, choisie au hasard dans les fondations d'un vieux bâtiment, et en lisent le contenu à la population. C'est une façon de faire revivre la voix des ancêtres.
 
-### [[00_Systeme_Religieux|Rota Mundi]] — Le Cycle du Monde (religion secondaire)
+### [[Rota Mundi]] — Le Cycle du Monde (religion secondaire)
 
-La croyance en [[00_Systeme_Religieux|Rota Mundi]] est populaire parmi les historiens de Gryndor. L'idée que tout est cyclique — que les civilisations naissent, prospèrent, déclinent et renaissent — résonne profondément avec l'expérience du Déclin et de la Restauration. Les adeptes de Rota Mundi étudient les cycles historiques avec une rigueur scientifique, cherchant à prédire les prochains déclins pour mieux s'y préparer. Leur croyance en la réincarnation, bien que non prouvée, motive une vénération des ancêtres et un soin particulier apporté aux archives généalogiques.
+La lecture [[Rota Mundi]] est populaire parmi les historiens de Gryndor. L'idée que tout est cyclique — que les civilisations naissent, prospèrent, déclinent et renaissent — résonne profondément avec l'expérience du Déclin et de la Restauration. Les adeptes de Rota Mundi étudient les cycles historiques avec une rigueur scientifique, cherchant à dégager des tendances pour mieux préparer les déclins éventuels. Leur lecture marquée de la réincarnation, dont les Foedus Animae proposent une compréhension différente, motive une vénération des ancêtres et un soin particulier apporté aux archives généalogiques.
 
 ---
 
@@ -152,5 +159,41 @@ Région méridionale plus basse et plus tempérée, Tolvandor est la terre des a
 ## Secrets et intrigues
 
 - **La Bibliothèque Scellée** : Sous les fondations de la Grande Bibliothèque de Holvendar se trouve une salle que le roi Theldryn III fit sceller lors de la Restauration. Les archives de la Restauration mentionnent qu'elle contient des textes « trop dangereux pour être lus et trop précieux pour être détruits ». Personne n'y a accédé depuis, et les rois successifs ont tous respecté l'interdiction — mais Vaelorn V a récemment ordonné un inventaire discret des sceaux. Ils s'affaiblissent.
-- **Le Cristal Pensant** : Les mineurs de Veylorn ont découvert dans les profondeurs un cristal qui émet une lumière pulsante répondant aux questions qu'on lui pose. Le Conseil des Sages l'étudie en secret, partagé entre l'émerveillement et la terreur. Certains pensent qu'il s'agit d'une conscience emprisonnée — peut-être celle d'un être antérieur aux Éternels eux-mêmes.
+- **Le Cristal Pensant** : Les mineurs de Veylorn ont découvert dans les profondeurs un cristal qui émet une lumière pulsante semblant répondre aux questions qu'on lui pose. Le Conseil des Sages l'étudie en secret, partagé entre l'émerveillement et la prudence. Certains penchent pour une conscience emprisonnée — peut-être celle d'un être antérieur, voire contemporain des récits les plus reculés sur les Éternels. D'autres y voient un phénomène acoustique élaboré dont la lecture comme "réponse" relèverait de la pareidolie. Aucune des deux hypothèses n'a été démontrée.
 - **L'Infiltration de la Garde** : Plusieurs membres récents de la Garde Cristalline ont été recrutés avec des références falsifiées. Une enquête discrète suggère qu'un pays voisin — probablement Drakora — infiltre l'ordre militaire pour accéder aux secrets du royaume. Le commandant de la Garde soupçonne un complot mais n'a pas encore identifié tous les agents.
+
+---
+
+## Données canoniques (source : Access)
+
+> Identité importée verbatim depuis `AccessExport/Pays.csv`. Sert de référence canonique au système Access historique.
+
+### Identité
+
+| Champ | Valeur |
+|-------|--------|
+| **N° Pays (CSV)** | 18 |
+| **Nom CSV** | Gryndor |
+| **Continent (CSV)** | Ilthara (N°10) |
+| **Gouvernement** | Monarchie traditionnelle |
+| **Culture** | Culture savante et artisanale, avec une grande vénération pour l'histoire et les anciens savoirs. |
+| **Histoire marquante** | La Restauration de Gryndor, une période où les artisans du royaume ont restauré des monuments historiques après une série de guerres destructrices. |
+| **Description CSV** | Un royaume ancien avec des citadelles millénaires, respecté pour ses artisans et ses historiens. |
+
+### Régions canoniques (source : Region.csv)
+
+- **Holvandor** (R67) — *stub : description non renseignée dans le CSV*
+- **Pyrendor** (R68) — *stub : description non renseignée dans le CSV*
+- **Tolvandor** (R69) — *stub : description non renseignée dans le CSV*
+
+### Villes canoniques (source : Ville.csv)
+
+Total : **4 villes/villages** réparties sur **3 régions**.
+
+| Ville | Région | Type |
+|-------|--------|------|
+| Holvendar | Holvandor | Capitale |
+| Veylorn | Pyrendor | Ville |
+| Zyrthar | Tolvandor | Ville |
+| Nelthoris | Tolvandor | Village |
+

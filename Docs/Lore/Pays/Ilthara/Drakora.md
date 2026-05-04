@@ -1,3 +1,10 @@
+﻿---
+tags: [lore, pays, ilthara]
+type: lore
+status: drafted
+last_review: 2026-05-02
+needs_review_for: []
+---
 # Drakora — Le Trône des Flammes Draconiques
 
 > *« En Drakora, les faibles servent. Les forts commandent. Et les dragons jugent. »*
@@ -61,7 +68,7 @@ Le souverain actuel est **la Reine Syraeth**, Liée à Voldrax, un Dragon d'Aube
 
 ### Ignis Aeternum — Le Feu Éternel (religion officielle)
 
-En Drakora, Ignis Aeternum prend une forme spécifique : le feu divin d'Eldoria se manifeste à travers les dragons. Le souffle d'un dragon n'est pas simplement du feu — c'est la lumière primordiale elle-même, canalisée à travers une créature vivante. Vénérer les dragons, c'est vénérer le feu sacré.
+En Drakora, Ignis Aeternum prend une forme spécifique. Selon la lecture liturgique drakorienne, ce qu'Ignis Aeternum nomme Eldoria — la flamme première — se manifesterait à travers les dragons : le souffle d'un dragon ne serait pas simplement du feu mais la lumière primordiale même, portée par une créature vivante. D'autres écoles d'Ignis Aeternum, ailleurs en Hybelior, contestent cette identification ou la jugent dévotionnelle plus que doctrinale. À Drakora, vénérer les dragons revient à vénérer ce que les fidèles tiennent pour le feu sacré.
 
 **Fêtes religieuses :**
 - **L'Envol d'Aube** (solstice d'été) — À l'aube, les dragons Liés s'élèvent dans le ciel et crachent du feu simultanément, embrasant l'horizon. C'est le spectacle le plus impressionnant d'Ilthara, visible depuis les pays voisins.
@@ -70,7 +77,7 @@ En Drakora, Ignis Aeternum prend une forme spécifique : le feu divin d'Eldoria 
 
 ### Vael'Kurash — Les Esprits de Chaque Chose (religion secondaire)
 
-Parmi les non-Liés de Drakora, une forme locale de Vael'Kurash enseigne que les dragons sont les esprits les plus puissants du monde naturel. Cette croyance confère aux dragons un statut encore plus sacré et renforce l'idée que le lien draconique est un privilège spirituel autant que physique. Les tatouages rituels de Vael'Kurash à Drakora représentent exclusivement des motifs draconiques — écailles, ailes, flammes.
+Parmi les non-Liés de Drakora, une forme locale de Vael'Kurash enseigne que les dragons figurent parmi les présences les plus puissantes du monde naturel. Cette lecture confère aux dragons un statut sacré supplémentaire et renforce l'idée que le lien draconique est un privilège spirituel autant que physique. Les Vael'Kurash d'Ackerna et d'Ulinor, plus orthodoxes, considèrent cette focalisation sur une seule espèce comme une dérive — un débat que les Drakoriens ignorent poliment. Les tatouages rituels de Vael'Kurash à Drakora représentent exclusivement des motifs draconiques — écailles, ailes, flammes.
 
 ---
 
@@ -161,13 +168,52 @@ Région orientale aride et rocailleuse, Xeranthia est un terrain d'entraînement
 | **Pyrtara** | Respect mutuel | Deux nations de feu. Les Drakoriens admirent la discipline de Pyrtara ; Pyrtara envie les dragons de Drakora. Des échanges de techniques de forge existent. |
 | **Ackerna** | Tension ancienne | Le feu et la forêt sont des ennemis naturels. Les druides d'Ackerna craignent les dragons ; les Drakoriens méprisent la passivité des druides. |
 | **Gryndor** | Méfiance historique | Le pillage ancien de Gryndor par des ancêtres de Drakora n'est pas oublié. Les relations sont froides mais pas hostiles. |
-| **Vytharia** | Hostilité froide | Les dragons sont immunisés aux illusions, ce qui perturbe l'équilibre de Vytharia. Les Voilés considèrent les dragons comme une menace au Voile. |
+| **Vytharia** | Hostilité froide | Les dragons paraissent peu sensibles aux illusions vytharies — un fait observé que les Voilés interprètent comme une menace au Voile. Les Drakoriens, eux, n'ont jamais cherché à comprendre pourquoi. |
 | **Lythar** | Indifférence | Les nomades de Lythar évitent les montagnes de Drakora, et les Drakoriens n'ont aucun intérêt pour les steppes. Les deux nations s'ignorent mutuellement. |
 
 ---
 
 ## Secrets et intrigues
 
-- **Vey'thar, le Dragon Dormant** : Dans les profondeurs du canyon de Lunaris repose un dragon si ancien que les légendes le placent avant l'arrivée des humains en Ilthara. Si Vey'thar se réveillait, sa puissance dépasserait celle de tous les dragons Liés réunis. Certains fanatiques d'Ignis Aeternum cherchent à le réveiller ; d'autres, plus sages, craignent qu'il ne soit pas bienveillant.
-- **Le Lien Noir de Kael** : Le jeune prétendant Kael le Cendreux est Lié à un dragon noir — une couleur jamais vue chez les Dragons d'Aube. Des rumeurs circulent selon lesquelles son dragon ne serait pas un Dragon d'Aube mais une créature des Marécages de Noyrath, et que le lien de Kael ne serait pas un vrai lien mais une forme de domination magique. Si c'est vrai, cela disqualifierait sa prétention au trône — et pourrait annoncer un danger bien plus grand.
+- **Vey'thar, le Dragon Dormant** : Dans les profondeurs du canyon de Lunaris reposerait, selon les légendes drakoriennes, un dragon si ancien qu'il précéderait l'arrivée des humains en Ilthara. Si Vey'thar se réveillait, sa puissance dépasserait — toujours selon ces récits — celle de tous les dragons Liés réunis. Certains fanatiques d'Ignis Aeternum cherchent à le réveiller ; d'autres craignent qu'il ne soit pas bienveillant. Aucune expédition récente n'a confirmé sa présence.
+- **Le Lien Noir de Kael** : Le jeune prétendant Kael le Cendreux est Lié à un dragon noir — une couleur jamais documentée chez les Dragons d'Aube. Des rumeurs circulent : son dragon ne serait pas un Dragon d'Aube mais une créature issue des Marécages de Noyrath, et le lien de Kael relèverait d'une domination magique plus que d'un choix mutuel. Si ces rumeurs étaient avérées, cela disqualifierait sa prétention au trône selon le droit drakorien — et pourrait signaler un danger plus large.
 - **Les Œufs Volés** : Plusieurs œufs de dragon ont disparu des nids au cours de la dernière année. La Reine Syraeth a ordonné une enquête discrète, mais les soupçons se portent vers l'extérieur — un pays étranger tenterait de s'emparer du pouvoir draconique de Drakora. Si ces œufs éclosent hors de Drakora, l'équilibre de puissance d'Ilthara pourrait basculer.
+
+---
+
+## Données canoniques (source : Access)
+
+> Identité importée verbatim depuis `AccessExport/Pays.csv`. Sert de référence canonique au système Access historique.
+
+### Identité
+
+| Champ | Valeur |
+|-------|--------|
+| **N° Pays (CSV)** | 20 |
+| **Nom CSV** | Drakora |
+| **Continent (CSV)** | Ilthara (N°10) |
+| **Gouvernement** | Monarchie guerrière |
+| **Culture** | Culture guerrière et draconique, où les liens avec les dragons sont vus comme un symbole de puissance. |
+| **Histoire marquante** | La Grande Chasse du Dragon, une époque où les héros de Drakora se sont unis pour capturer ou apprivoiser les dragons, consolidant la légende du pays comme terre des dragons. |
+| **Description CSV** | Un territoire dominé par des montagnes escarpées et des dragons légendaires, où seuls les plus braves osent s'aventurer. |
+
+### Régions canoniques (source : Region.csv)
+
+- **Sylvaris** (R64) — *stub : description non renseignée dans le CSV*
+- **Myrthéria** (R65) — *stub : description non renseignée dans le CSV*
+- **Xeranthia** (R66) — *stub : description non renseignée dans le CSV*
+
+### Villes canoniques (source : Ville.csv)
+
+Total : **7 villes/villages** réparties sur **3 régions**.
+
+| Ville | Région | Type |
+|-------|--------|------|
+| Sylvora | Sylvaris | Ville |
+| Elyndor | Sylvaris | Village |
+| Obryalis | Myrthéria | Village |
+| Myrthorin | Myrthéria | Capitale |
+| Xelthor | Xeranthia | Ville |
+| Felvoria | Xeranthia | Village |
+| Lunaris | Xeranthia | Village |
+

@@ -1,3 +1,10 @@
+﻿---
+tags: [lore, pays, alkaran]
+type: lore
+status: drafted
+last_review: 2026-05-02
+needs_review_for: []
+---
 # Torkam — Les Sables de l'Esprit
 
 > *« Nous n'avons pas de murs parce que nous n'avons pas besoin de murs. Le désert est notre forteresse, et les esprits sont nos sentinelles. »*
@@ -11,8 +18,8 @@
 |---|---|
 | **Continent** | Alkaran |
 | **Gouvernement** | Théocratie tribale |
-| **Religion principale** | [[00_Systeme_Religieux\|Foedus Animae]] (Le Pacte des Âmes) |
-| **Religion secondaire** | [[00_Systeme_Religieux\|Vael'Kurash]] (Culte des Esprits Anciens) |
+| **Religion principale** | [[Foedus Animae]] (Le Pacte des Âmes) |
+| **Religion secondaire** | [[Vael'Kurash]] (Culte des Esprits Anciens) |
 | **Culture dominante** | Nomade, culte des éléments et des esprits, survie en milieu hostile |
 | **Histoire marquante** | L'Unification sous le Grand Cham |
 | **Ressources clés** | Bétail, herbes médicinales, cuir, sel, encens sacré |
@@ -31,9 +38,9 @@ Chaque tribu vénérait son propre esprit ancestral, et les conflits étaient so
 
 Zarek naquit aveugle dans la plus petite tribu de Torkam — la tribu des Murmures, méprisée par tous car ses membres prétendaient entendre les voix des morts. Aveugle mais doté d'une perception surnaturelle, Zarek traversa seul le Désert du Silence — un exploit que personne n'avait jamais accompli.
 
-À son retour, il rapporta une révélation : tous les esprits ancestraux sont connectés. Ils ne sont pas rivaux — ils sont les facettes d'une même force. Honorer un esprit en méprisant un autre, c'est déchirer le tissu même du monde.
+À son retour, il rapporta ce qu'il décrivit comme une révélation : selon ce que Zarek perçut, les esprits ancestraux des différentes tribus n'étaient pas rivaux, mais des facettes d'une même résonance ; honorer un esprit en méprisant un autre revenait, à ses yeux, à déchirer le tissu même du monde.
 
-Cette vision, connue sous le nom du **Grand Pacte**, devint le fondement de l'unification. Zarek ne conquit aucune tribu — il les convainquit une par une, guérissant les malades, prédisant les pluies et résolvant des conflits vieux de décennies. Il devint le premier **Grand Cham** — littéralement "Celui qui entend toutes les voix".
+Cette lecture, transmise sous le nom du **Grand Pacte**, devint le fondement de l'unification. Zarek ne conquit aucune tribu — il les convainquit une par une, guérissant les malades, prédisant les pluies et résolvant des conflits vieux de décennies. Il devint le premier **Grand Cham** — littéralement "Celui qui entend toutes les voix". Les chamans actuels gardent une prudence mesurée : la révélation de Zarek est tenue pour fondatrice, mais ils n'avancent pas qu'elle livre la structure du Pacte Primordial — seulement la manière dont Torkam s'accorde à ce qu'il en perçoit.
 
 ### L'héritage
 
@@ -55,18 +62,18 @@ Le système fonctionne parce que le Grand Cham ne prend jamais parti entre tribu
 
 ## Religion
 
-### [[00_Systeme_Religieux|Foedus Animae]] — Le Pacte des Âmes (religion dominante)
+### [[Foedus Animae]] — Le Pacte des Âmes (religion dominante)
 
-Les Torkamites croient fermement que les morts ne disparaissent pas. Les âmes des ancêtres sont "négociées" par des forces invisibles — honorées correctement, elles protègent les vivants. Négligées, elles deviennent des esprits errants dangereux.
+Les Torkamites tiennent fermement que les morts ne disparaissent pas. Selon leur lecture, les âmes des ancêtres demeurent dans une trame invisible que les rituels viennent toucher — correctement honorées, elles sont perçues comme protectrices des vivants ; négligées, elles seraient à l'origine d'esprits errants dangereux. Les chamans précisent que ce qu'ils décrivent est ce qu'ils observent dans leurs pratiques, sans prétendre rendre compte de la mécanique cosmique du Pacte.
 
 **Pratiques centrales :**
 - **Le Feu des Noms** : Chaque soir, les familles nomment à voix haute leurs morts récents autour du feu. Tant qu'un nom est prononcé, l'âme reste protectrice.
 - **Les Offrandes de Cendres** : Les morts sont incinérés et leurs cendres mêlées à l'encens. Brûler cet encens sacré "nourrit" l'âme du défunt.
 - **L'Interdit de l'Oubli** : Oublier le nom d'un ancêtre est le pire péché. Les chamans maintiennent des registres oraux remontant à des dizaines de générations.
 
-### [[00_Systeme_Religieux|Vael'Kurash]] — Le Culte des Esprits Anciens (religion secondaire)
+### [[Vael'Kurash]] — Le Culte des Esprits Anciens (religion secondaire)
 
-Beaucoup de Torkamites mêlent le [[00_Systeme_Religieux|Foedus Animae]] avec une vénération des esprits de la nature — les esprits du vent qui guident les caravanes, les esprits de l'eau qui révèlent les oasis cachées, les esprits de la pierre qui protègent les campements.
+Beaucoup de Torkamites mêlent le [[Foedus Animae]] avec une vénération des esprits de la nature — les esprits du vent qui guident les caravanes, les esprits de l'eau qui révèlent les oasis cachées, les esprits de la pierre qui protègent les campements.
 
 Ce syncrétisme est naturel et non conflictuel. Pour un Torkamite, les esprits des ancêtres et les esprits de la nature sont simplement différents types de présences bienveillantes.
 
@@ -230,3 +237,51 @@ Terres frontalières avec Myrtam au sud-est. Zone de tension constante — les f
 - **Le Désert du Silence** cache une entrée vers un réseau de cavernes souterraines où, selon la tribu des Ossements, les âmes des morts errent physiquement. Les chamans qui y sont entrés en ressortent changés — certains ne parlent plus jamais.
 - **La tribu des Ombres** est bien plus qu'un groupe de diplomates. C'est le réseau d'espionnage le plus ancien d'Alkaran, et ses agents opèrent dans tous les pays du continent sans que personne ne les soupçonne.
 - **Un schisme couve** : la tribu des Flammes remet en question l'autorité de la Grande Chamane Nareth, arguant qu'elle favorise la tribu des Murmures. Si le conflit éclate, ce serait la première guerre intertribale depuis l'époque de Zarek.
+
+---
+
+## Données canoniques (source : Access)
+
+> Identité importée verbatim depuis `AccessExport/Pays.csv`. Sert de référence canonique au système Access historique.
+
+### Identité
+
+| Champ | Valeur |
+|-------|--------|
+| **N° Pays (CSV)** | 4 |
+| **Nom CSV** | Torkam |
+| **Continent (CSV)** | Alkaran (N°1) |
+| **Gouvernement** | Théocratie tribale |
+| **Culture** | Culture nomade, avec des croyances religieuses centrées sur le culte des éléments et des esprits de la nature. |
+| **Histoire marquante** | L'unification des tribus de Torkam sous le Grand Cham, un chef spirituel qui a pacifié les guerres tribales. |
+| **Description CSV** | Un territoire vaste et aride, où les nomades vivent en harmonie avec leur environnement hostile. |
+
+### Régions canoniques (source : Region.csv)
+
+- **Jalkanor** (R17) — *stub : description non renseignée dans le CSV*
+- **Olkanir** (R18) — *stub : description non renseignée dans le CSV*
+- **Qythros** (R19) — *stub : description non renseignée dans le CSV*
+- **Zolkanor** (R20) — *stub : description non renseignée dans le CSV*
+- **Myrthal** (R21) — *stub : description non renseignée dans le CSV*
+
+### Villes canoniques (source : Ville.csv)
+
+Total : **14 villes/villages** réparties sur **5 régions**.
+
+| Ville | Région | Type |
+|-------|--------|------|
+| Jalkoris | Jalkanor | Ville |
+| Thyron | Jalkanor | Village |
+| Olkanoris | Olkanir | Capitale |
+| Faldor | Olkanir | Ville |
+| Zyldris | Olkanir | Village |
+| Haldrin | Qythros | Ville |
+| Valdarin | Qythros | Village |
+| Caelorn | Qythros | Village |
+| Zolkoris | Zolkanor | Village |
+| Frosthar | Zolkanor | Village |
+| Galdrin | Zolkanor | Village |
+| Kelosar | Myrthal | Village |
+| Myrthoris | Myrthal | Ville |
+| Valoris | Myrthal | Village |
+

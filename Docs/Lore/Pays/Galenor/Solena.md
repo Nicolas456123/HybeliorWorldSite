@@ -1,3 +1,10 @@
+﻿---
+tags: [lore, pays, galenor]
+type: lore
+status: drafted
+last_review: 2026-05-02
+needs_review_for: []
+---
 # Solena — L'Empire des Horizons
 
 > *« La mer ne nous appartient pas. Nous lui appartenons. Et elle nous a appris que derrière chaque horizon se cache un autre horizon. »*
@@ -238,3 +245,53 @@ Région insulaire composée d'un archipel au large de la côte sud. Tetramis est
 - **Le Navire Fantôme de Vesperilia** : Un vaisseau sans équipage apparaît périodiquement au large de Vyndralith, toujours à l'aube, toujours par temps calme. Ceux qui ont tenté de l'aborder rapportent que le pont est vide mais que les voiles sont parfaitement tendues — et que le navire disparaît dès qu'on pose le pied dessus.
 - **La Huitième Famille** : Le Conseil des Amiraux compte sept familles — mais les archives mentionnent une huitième, la famille Tetramor, qui fut expulsée du Conseil il y a trois siècles pour une raison effacée des registres. Les descendants de Tetramor vivent-ils encore sur les îles de Tetramis ? Et qu'ont-ils fait pour mériter l'oubli ?
 - **Les Profondeurs d'Oranthor** : Les fondations de la capitale sont bâties sur des ruines immergées — des structures de pierre si anciennes et si massives qu'elles ne peuvent être l'œuvre d'aucune civilisation connue. L'Amiral-Souveraine Thessara a interdit les plongées d'exploration, mais les rumeurs persistent : quelque chose dort sous Oranthor.
+
+---
+
+## Données canoniques (source : Access)
+
+> Identité importée verbatim depuis `AccessExport/Pays.csv`. Sert de référence canonique au système Access historique.
+
+### Identité
+
+| Champ | Valeur |
+|-------|--------|
+| **N° Pays (CSV)** | 12 |
+| **Nom CSV** | Solena |
+| **Continent (CSV)** | Galenor (N°7) |
+| **Gouvernement** | Oligarchie maritime |
+| **Culture** | Culture maritime, avec une grande importance accordée à l'exploration et aux échanges commerciaux. |
+| **Histoire marquante** | L'Âge des Grandes Explorations, où les marins de Solena ont découvert de nouvelles terres et routes commerciales, renforçant la puissance de la nation. |
+| **Description CSV** | Une nation côtière avec de belles plages et des falaises abruptes, célèbre pour ses navigateurs et explorateurs. |
+
+### Régions canoniques (source : Region.csv)
+
+- **Etheira** (R43) — *stub : description non renseignée dans le CSV*
+- **Oracalis** (R44) — *stub : description non renseignée dans le CSV*
+- **Vesperilia** (R45) — *stub : description non renseignée dans le CSV*
+- **Boralis** (R46) — *stub : description non renseignée dans le CSV*
+- **Tetramis** (R136) — *stub : description non renseignée dans le CSV*
+
+### Villes canoniques (source : Ville.csv)
+
+Total : **16 villes/villages** réparties sur **5 régions**.
+
+| Ville | Région | Type |
+|-------|--------|------|
+| Elyanor | Etheira | Ville |
+| Nydoria | Etheira | Village |
+| Kethyris | Etheira | Village |
+| Fendralis | Etheira | Village |
+| Bryndarith | Etheira | Village |
+| Oranthor | Oracalis | Capitale |
+| Yltheris | Oracalis | Ville |
+| Caldoris | Oracalis | Village |
+| Vyndralith | Vesperilia | Ville |
+| Myrdris | Vesperilia | Village |
+| Valora | Vesperilia | Village |
+| Ulithor | Vesperilia | Village |
+| Myrathis | Boralis | Ville |
+| Felwyn | Boralis | Village |
+| Nydris | Tetramis | Village |
+| Falnor | Tetramis | Village |
+

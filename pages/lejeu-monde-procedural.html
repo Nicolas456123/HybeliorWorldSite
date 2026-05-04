@@ -1,0 +1,441 @@
+<!-- ===== Vue d'ensemble ===== -->
+<div class="section-header" id="vue-ensemble">
+    <h2>Vue d'ensemble</h2>
+    <span class="section-count">Monde procédural · 1 000 km · 19 biomes · 11 météos</span>
+</div>
+
+<div class="codex-panel cyan-accent">
+    <div class="codex-label">Architecture procédurale du monde HybeliorWorld</div>
+    <p>
+        Le monde d'HybeliorWorld est <strong style="color:var(--cyan);">entièrement procédural</strong> : terrain clipmap couvrant <strong>1 000 km</strong>, 19 biomes (13 climatiques + 6 fantasy), grottes SDF par Marching Cubes, érosion hydraulique 50 000 gouttes, océan infini Gerstner GPU, météo dynamique par biome, cycle jour/nuit astronomique, 4 saisons, et — pivot canonique 2026 — <strong style="color:var(--cyan);">cycle long des Ères cosmiques</strong>.
+    </p>
+    <p style="margin-bottom:0;">
+        L'orchestrateur central <strong style="color:var(--gold);">AHWEnvironmentManager</strong> coordonne 12 phases de tick chaque frame, depuis les positions astronomiques soleil/lune jusqu'à la synchronisation Material Parameter Collection. La <strong style="color:var(--gold);">phase EraGenerator</strong> (à ajouter en post-V4) maintient l'identité cosmique de la session et émet les modificateurs vers toutes les phases en aval.
+    </p>
+</div>
+
+<div class="feature-list">
+    <div class="feature-item">
+        <span class="feature-key">Étendue monde</span>
+        <span class="feature-value">100 000 000 cm — soit <strong style="color:var(--gold);">1 000 km</strong> côté. Carte principale <code>HybeliorWorld_50km_V3</code> avec World Partition.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">Biomes</span>
+        <span class="feature-value"><strong style="color:var(--gold);">19 biomes</strong> — 13 climatiques (grille de Whittaker : IceDesert → Tropical, Volcanic, Coast, Ocean) + 6 fantasy (CrystallineGrove, ConsciousForest, EternalMist, TemporalFaille, ShadowLands, AncientRuins).</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">Terrain LOD</span>
+        <span class="feature-value">Clipmap <strong>12 anneaux LOD</strong> — du LOD 0 (triangles 100 cm sur 6,4 m) au LOD 11 (triangles 204 800 cm sur 13,1 km). Anneaux creux à partir du LOD 1 (-30 % de triangles).</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">Météo</span>
+        <span class="feature-value"><strong style="color:var(--gold);">11 types</strong> — Clear, PartlyCloudy, Cloudy, Overcast, Fog, Rain, HeavyRain, Thunderstorm, Snow, Blizzard, Sandstorm. Probabilités par biome, gradients altitude (-0,65°C / 100 m), oscillation diurne ±10°C.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">Saisons</span>
+        <span class="feature-value"><strong style="color:var(--gold);">4 saisons</strong> (Spring, Summer, Autumn, Winter) — durée 60 min in-game par saison. Modificateurs température / humidité / teinte végétation. <strong>Cycle court visuel</strong>.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">Ères cosmiques</span>
+        <span class="feature-value"><strong style="color:var(--cyan);">Cycle long thématique</strong> — 3 à 9 mois IRL (paramétriques). Module spawns d'entités cosmiques, palette globale, biomes biaisés, événements possibles. Pivot canonique 2026 (voir Migration Accord dans Architecture).</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">Plugins associés</span>
+        <span class="feature-value">PCG + PCGBiomeCore + PCGBiomeSample + PCGGeometryScriptInterop + GeometryScripting + ProceduralMeshComponent + Niagara (effets météo).</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">Module</span>
+        <span class="feature-value">Tout le terrain et l'eau vivent dans le module <strong style="color:var(--gold);">HybeliorWorld</strong> Runtime — pas de plugin séparé. Le système Water (ex-Oceanology) est <strong>fusionné en C++ natif</strong>.</span>
+    </div>
+</div>
+
+<!-- ===== HW Environment Manager + EraGenerator ===== -->
+<div class="section-header" id="environment-manager">
+    <h2>HW Environment Manager · Pipeline 12 phases</h2>
+    <span class="section-count">Orchestrateur · phase EraGenerator (canon 2026)</span>
+</div>
+
+<div class="codex-panel" style="border-left-color: var(--gold);">
+    <div class="codex-label">Pivot canonique 2026 : la phase EraGenerator</div>
+    <p>
+        Le pipeline tick actuel comporte <strong style="color:var(--gold);">12 phases ordonnées strictement</strong> (TimeOfDay → Weather → Sky → etc.) — mais aucune ne représente l'<strong style="color:var(--cyan);">Ère cosmique active</strong>. Le canon GDD post-refonte impose l'ajout d'une <strong style="color:var(--gold);">phase EraGenerator</strong> en tête de pipeline (ou juste après TimeOfDay).
+    </p>
+    <p style="margin-bottom:0;">
+        Cette phase maintient un <code>CurrentEra</code> (référence vers un <code>UHWEraDefinition</code> data asset) et un <code>EraProgress</code> (0-1, progression dans la durée 3-9 mois IRL), détecte les <strong>signes d'annonce</strong> (faibles puis forts) précédant un <strong style="color:var(--cyan);">Souffle</strong>, et émet des deltas que les phases en aval consomment : modificateurs météo, palette ciel, biomes biaisés, spawn d'entités cosmiques. <em>Action V3 : documenté seulement. Implémentation post-V4 (générateur paramétrique #1 de la roadmap production).</em>
+    </p>
+</div>
+
+<div class="codex-panel cyan-accent">
+    <div class="codex-label">Coexistence Saisons (court) ↔ Ères (long)</div>
+    <p style="margin-bottom:0;">
+        Les deux systèmes fonctionnent <strong>en parallèle, sans conflit</strong> — ils opèrent à des échelles temporelles disjointes. Les <strong style="color:var(--gold);">4 saisons</strong> pilotent la végétation, la palette diurne et les variantes météo (60 min in-game). Les <strong style="color:var(--cyan);">Ères</strong> définissent l'identité cosmique de la session : entités spawnées, palette de teinte globale, types d'événements possibles, biomes biaisés (3 à 9 mois IRL). La saison module l'arbre rose au printemps ; l'Ère module l'apparition de mobs Shadow et le brouillard violet.
+    </p>
+</div>
+
+<div class="voie-list">
+    <div class="voie-item">
+        <span class="voie-name" style="color:var(--gold);">Phase 1 — TimeOfDay</span>
+        <span class="voie-desc"><code>UHWTimeOfDaySystem</code> — calculs astronomiques soleil/lune, déclinaison solaire, équation du temps, angle horaire. Cycle 24 h en 60 min IRL (150 s par heure de jeu, facteur 36×). Cycle synodique lunaire 29,53 jours, 8 phases. 7 périodes de la journée : Night, AstronomicalTwilight, NauticalTwilight, CivilTwilight, BlueHour, GoldenHour, Day.</span>
+        <span class="voie-tag">Astronomie · 24h</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name" style="color:var(--gold);">Phase ★ — EraGenerator (à ajouter)</span>
+        <span class="voie-desc"><strong>NOUVELLE PHASE canonique 2026.</strong> Maintient <code>CurrentEra</code>, <code>EraProgress</code>, détecte les signes annonciateurs d'un Souffle, émet les modificateurs cosmiques (palette, biomes biaisés, entités spawnées). Position recommandée : tête de pipeline ou immédiatement après TimeOfDay.</span>
+        <span class="voie-tag">Ères · Souffle · Canon</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name" style="color:var(--gold);">Phase 2 — Weather</span>
+        <span class="voie-desc">Simulation météo par biome via <code>UHWWeatherEffectsSystem</code>. Probabilités composées (biome + saison + Ère). Sélection du type météo actif (parmi 11) et déclenchement des transitions.</span>
+        <span class="voie-tag">Météo · Probabilités</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name" style="color:var(--gold);">Phase 3 — Clouds</span>
+        <span class="voie-desc">Couverture nuageuse — nuages 2D + volumétriques. Densité dérivée de la météo active.</span>
+        <span class="voie-tag">Nuages</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name" style="color:var(--gold);">Phase 4 — Precipitation</span>
+        <span class="voie-desc">Particules Niagara — Rain, Snow, Rain_and_Snow, Wind_Debris, Dust, Inside_Cloud_Fog, Lightning_Strike. Densité pilotée par <code>WeatherEffectsSystem</code>.</span>
+        <span class="voie-tag">Niagara · Particules</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name" style="color:var(--gold);">Phase 5 — SkySurfaceRenderer</span>
+        <span class="voie-desc"><code>UHWSkySurfaceRenderer</code> alimenté par <code>UHWPropertyCache</code> (cache C++ d'interpolation FInterpTo : 48 floats / 16 couleurs / 4 vecteurs). ~100 paramètres matériaux ciel lissés. Remplace le système UDS Blueprint (1 200+ nœuds) par du C++ pur.</span>
+        <span class="voie-tag">Sky · 100+ paramètres</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name" style="color:var(--gold);">Phase 6 — Lighting</span>
+        <span class="voie-desc">Soleil directionnel, lune, SkyLight (3 composants : capture, cubemap, realtime).</span>
+        <span class="voie-tag">Sun · Moon · SkyLight</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name" style="color:var(--gold);">Phase 7 — WeatherAudio</span>
+        <span class="voie-desc">Sons météo spatialisés — pluie, vent, tonnerre, blizzard.</span>
+        <span class="voie-tag">Audio · Météo</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name" style="color:var(--gold);">Phase 8 — WeatherEffects</span>
+        <span class="voie-desc">Effets écran et paysage — DLWE (Dynamic Landscape Weather Effects, traces neige/boue persistantes), Screen Droplets (gouttes écran + essuyage), Rainbow (après pluie + soleil 5-60° au-dessus horizon), Overcast Turbulence, Inside Cloud Fog.</span>
+        <span class="voie-tag">DLWE · Screen FX</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name" style="color:var(--gold);">Phase 9 — OceanBridge</span>
+        <span class="voie-desc"><code>UHWTerrainWaterBridge</code> appelle <code>AHWInfiniteOcean::SetPreset()</code> avec un preset Beaufort selon la météo : Clear → Calm 00, Cloudy → 03-05, Rain → 06-07, Thunderstorm → 08, Blizzard → 09 / Hurricane.</span>
+        <span class="voie-tag">Water · Beaufort 00-09</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name" style="color:var(--gold);">Phase 10 — MPCManager</span>
+        <span class="voie-desc"><code>UHWWeatherMPCManager</code> publie les valeurs finales vers <code>WeatherMPC</code> + <code>UDWParametersMPC</code>. Consommé par les matériaux paysage / eau. Pas de conflit avec PropertyCache (phases différentes — précédence : cache → rendu → publication).</span>
+        <span class="voie-tag">MPC · Materials</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name" style="color:var(--gold);">Phase 11 — Seasons config push</span>
+        <span class="voie-desc"><code>AHWSeasons</code> pousse <code>SeasonDurationMinutes</code>, <code>FoliageTint</code>, <code>SnowLine</code>, modificateurs vers les sous-systèmes (WeatherSystem, TerrainMaterialManager, MPCManager).</span>
+        <span class="voie-tag">Saisons · Modifiers</span>
+    </div>
+</div>
+
+<!-- ===== 19 Biomes ===== -->
+<div class="section-header" id="biomes">
+    <h2>19 Biomes</h2>
+    <span class="section-count">13 climatiques (Whittaker) + 6 fantasy</span>
+</div>
+
+<div class="codex-panel">
+    <div class="codex-label">Biome System — UHWBiomeClassifier + UHWTerrainBiomeMap</div>
+    <p>
+        La répartition mondiale des biomes est dessinée à la main dans une <strong style="color:var(--gold);">MacroMap 2048×2048</strong> (pixels colorés → biomes). Lue par <code>UHWTerrainBiomeMap</code> : <code>SampleBiomeAtWorldPos()</code> retourne un <code>FHWBiomeSample</code> avec biome primaire, secondaire et poids de transition. Classification additionnelle par altitude (Lowland / Midland / Highland / Alpine) et pente (Flat / Moderate / Steep / Cliff).
+    </p>
+    <p style="margin-bottom:0;">
+        Chaque <strong style="color:var(--gold);">Ère cosmique</strong> biaise la distribution générée : ère Tempora favorise les biomes spectraux/brumeux (EternalMist, TemporalFaille), ère Eldoria les volcaniques (Volcanic, Cendara), ère Noctis les ombres (ShadowLands). Le mapping Biomes ↔ Ères s'opère via la phase EraGenerator de l'orchestrateur.
+    </p>
+</div>
+
+<div class="voie-list">
+    <div class="voie-item">
+        <span class="voie-name">Climatiques (13)</span>
+        <span class="voie-desc"><strong>1.</strong> IceDesert (Cestra, Azoria) · <strong>2.</strong> Tundra (bords Cestra) · <strong>3.</strong> Taiga (Celethor, Nysaria) · <strong>4.</strong> TemperateForest (Galenor, Evertia) · <strong>5.</strong> Temperate (Galenor, Alkaran, Onara) · <strong>6.</strong> Plains (Endora, Onara) · <strong>7.</strong> Savanna (sud Galenor) · <strong>8.</strong> Desert (ouest Endora) · <strong>9.</strong> Tropical (Ilthara, est Endora, Ulinor) · <strong>10.</strong> Swamp (Ilthara/Warenthor, Endora) · <strong>11.</strong> Volcanic (Cendara, Myrtam/Alkaran) · <strong>12.</strong> Coast (toutes les côtes) · <strong>13.</strong> Ocean (eaux profondes).</span>
+        <span class="voie-tag">Whittaker · 13</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name" style="color:var(--cyan);">Fantasy (6)</span>
+        <span class="voie-desc"><strong>14. CrystallineGrove</strong> — forêts cristallines de Baelor, grottes Luminarc · <strong>15. ConsciousForest</strong> — Evertia, Warenthor (végétation consciente) · <strong>16. EternalMist</strong> — brume de Baelor, brume violette de Nysaria · <strong>17. TemporalFaille</strong> — zones vitrifiées de Gryndor, fissures temporelles · <strong>18. ShadowLands</strong> — puits d'ombre, zones Noctis · <strong>19. AncientRuins</strong> — cités-ciel écrasées, Navoria engloutie.</span>
+        <span class="voie-tag">Fantasy · 6 · Lore</span>
+    </div>
+</div>
+
+<div class="lore-block">
+    <div class="lore-block-title">— Structures de données —</div>
+    <p>
+        <strong style="color:var(--gold);">FHWBiomeData</strong> — <code>EHWBiomeType BiomeType</code>, <code>FLinearColor MapColor</code>, <code>BaseHeight</code>, <code>HeightVariation</code>, <code>MoistureLevel</code> [0-1], <code>TemperatureLevel</code> [0-1], <code>FName MaterialLayerName</code>.
+    </p>
+    <p style="margin-bottom:0;">
+        <strong style="color:var(--gold);">FHWBiomeSample</strong> — <code>PrimaryBiome</code>, <code>SecondaryBiome</code> (transitions), <code>BlendWeight</code>, <code>BaseHeight</code>, <code>Moisture</code>, <code>Temperature</code>. Côtes : 10 types (<code>EHWCoastType</code> — SandyBeach, RockyShore, Cliff, Estuary, Delta, Lagoon, Mangrove, Fjord, IceShelf, CoralReef).
+    </p>
+</div>
+
+<!-- ===== PCG ===== -->
+<div class="section-header" id="pcg">
+    <h2>PCG · Procedural Content Generation</h2>
+    <span class="section-count">4 PCGGraphs projet · 90+ via plugins · DataAsset cascade</span>
+</div>
+
+<div class="codex-panel cyan-accent">
+    <div class="codex-label">Pipeline PCG : du C++ vers les graphes UE5</div>
+    <p>
+        Le placement procédural de la végétation, des rochers et des détails environnementaux est piloté par le framework PCG d'UE5. Côté C++, <code>UHWBiomeVegetationConfig</code> (DataAsset) fournit des presets <strong>par biome × altitude</strong> avec une cascade de priorité (match exact → wildcard altitude → preset vide). Côté graphe, <code>UHWTerrainPCGDataProvider</code> sert de pont BPFunctionLibrary entre le terrain et les PCGGraphs.
+    </p>
+    <p style="margin-bottom:0;">
+        Le projet contient <strong style="color:var(--gold);">4 PCGGraphs</strong> dans <code>/Game/Blueprints/PCG/</code> (PCG_Basic, PCG_TemperateForest, PCG_HotDesert, PCG_MultiBiome) + 2 Blueprints orchestrateurs (<code>BP_BiomeGenerator</code>, <code>BP_PCGManager</code>). Le plugin <strong>PCGBiomeCore</strong> ajoute 90+ graphes complémentaires (BiomeCore, BiomeCoreRuntime, samplers Trees/Rocks).
+    </p>
+</div>
+
+<div class="feature-list">
+    <div class="feature-item">
+        <span class="feature-key">PCG_Basic</span>
+        <span class="feature-value">Graphe fallback tous biomes — 10 nœuds. Placement minimal de base.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">PCG_TemperateForest</span>
+        <span class="feature-value">Cible TemperateForest, Taiga. <strong style="color:var(--gold);">Vide actuellement (0 nœuds)</strong> — dette connue : les forêts tempérées ne génèrent pas de végétation procédurale.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">PCG_HotDesert</span>
+        <span class="feature-value">Cible Desert, Savanna — 3 nœuds. Placement de cactus, rochers de désert, herbes sèches.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">PCG_MultiBiome</span>
+        <span class="feature-value">Transitions entre biomes — 3 nœuds. Mélange progressif des végétations à la frontière.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">BP_BiomeGenerator + BP_PCGManager</span>
+        <span class="feature-value">Orchestrateurs Blueprint — <code>BP_PCGManager</code> singleton de streaming, <code>BP_BiomeGenerator</code> coordonne l'instanciation par tile.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">UHWBiomeVegetationConfig</span>
+        <span class="feature-value">DataAsset — <strong>presets par biome + altitude</strong>. Layers : GrassLayers, Trees, Rocks, Bushes, GroundScatter. Hints environnement : GroundFogDensity, FogTint, WindStrength.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">UHWTerrainPCGDataProvider</span>
+        <span class="feature-value">Pont C++ ↔ PCG (BPFunctionLibrary) — expose les données terrain (hauteur, biome, pente) aux graphes PCG.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">Génération de villes</span>
+        <span class="feature-value">850 instances de <code>BP_House_C</code> placées via <code>BP_GenerateCity</code> + <code>BP_Ville</code>. Spawn de PNJ contextuels via <code>BP_SpawnerPNJ</code>.</span>
+    </div>
+</div>
+
+<!-- ===== Météo et Saisons ===== -->
+<div class="section-header" id="meteo-saisons">
+    <h2>Météo & Saisons</h2>
+    <span class="section-count">11 météos · 4 saisons · zones override</span>
+</div>
+
+<div class="codex-panel">
+    <div class="codex-label">Weather System — par biome, modulé par saison et Ère</div>
+    <p>
+        Chaque biome définit une <strong>BaseTemperature</strong>, une <strong>BaseHumidity</strong>, des <strong>WeatherProbabilities</strong> (map type → poids) et une <strong>BaseWindSpeed</strong>. La météo finale compose : config biome + modificateurs saisonniers + modificateurs cosmiques (Ère) + gradient altitude (-0,65°C / 100 m) + oscillation diurne (±10°C). Les zones <code>AHWWeatherOverrideVolume</code> permettent de forcer une météo locale, et les <code>AHWWeatherMaskBrush</code> protègent les abris (RadialGradient, PyramidGradient, SoftSquare, SoftCircle, LinearFalloff, Solid).
+    </p>
+    <p style="margin-bottom:0;">
+        Effets avancés : <strong style="color:var(--gold);">DLWE</strong> (traces neige/boue persistantes sur le terrain), <strong style="color:var(--gold);">Screen Droplets</strong> (gouttes + essuyage), <strong style="color:var(--gold);">Rainbow</strong> (après pluie + soleil 5-60° au-dessus horizon), <strong style="color:var(--gold);">Overcast Turbulence</strong> (ombres nuages animées sur paysage), <strong style="color:var(--gold);">Inside Cloud Fog</strong> (brouillard vol).
+    </p>
+</div>
+
+<div class="feature-list">
+    <div class="feature-item">
+        <span class="feature-key">Spring</span>
+        <span class="feature-value">Température +0.0 · Humidité +0.2 (asymétrique, dette connue) · Foliage Tint vert vif.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">Summer</span>
+        <span class="feature-value">Température +0.3 · Humidité -0.1 · Foliage Tint vert saturé.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">Autumn</span>
+        <span class="feature-value">Température 0.0 · Humidité +0.1 · Foliage Tint orange.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">Winter</span>
+        <span class="feature-value">Température -0.3 · Humidité -0.2 · Foliage Tint gris-brun. SnowLine descendue (±1 km selon saison).</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">Cycle saisonnier</span>
+        <span class="feature-value"><code>SeasonDurationMinutes = 60</code> in-game (4 h IRL pour le cycle complet 4 saisons).</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">Transition foliage</span>
+        <span class="feature-value">Continue via MPC <code>UDWParametersMPC.FoliageTint</code> — lerp entre 4 teintes cibles, publié par <code>UHWWeatherMPCManager</code> en phase 10.</span>
+    </div>
+</div>
+
+<!-- ===== Terrain & World Partition ===== -->
+<div class="section-header" id="terrain">
+    <h2>Terrain & World Partition</h2>
+    <span class="section-count">Clipmap 12 LODs · 1 000 km · érosion · SDF caves</span>
+</div>
+
+<div class="codex-panel cyan-accent">
+    <div class="codex-label">AHWTerrainManager — orchestrateur terrain procédural</div>
+    <p>
+        <code>AHWTerrainManager</code> coordonne tous les sous-systèmes terrain (clipmap, biomes, caves, eau, PCG). Architecture : <code>UHWClipmapSystem</code> (LOD) · <code>AHWClipmapRenderer</code> (ProceduralMesh) · <code>UHWTerrainAsyncGenerator</code> (threads) · <code>AHWTerrainCollisionSystem</code> · <code>UHWTerrainModificationLayer</code> + sous-systèmes lazy (<code>AHWTerrainWaterSystem</code>, <code>AHWTerrainStructures</code>, <code>AHWTerrainGameplayZones</code>, <code>AHWTerrainCaveManager</code>).
+    </p>
+    <p style="margin-bottom:0;">
+        Tout le code terrain vit dans le <strong>module principal HybeliorWorld</strong> — pas de plugin séparé. Le monde est généré à partir d'un <code>WorldSeed = 42</code> et d'un <code>FHWNoiseSettings</code> qui combine bruit continental, montagneux et de détail (octaves Perlin / Fractal).
+    </p>
+</div>
+
+<div class="feature-list">
+    <div class="feature-item">
+        <span class="feature-key">WorldSize / WorldSeed</span>
+        <span class="feature-value">100 000 000 cm (1 000 km) · seed 42 — graine maître reproductible.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">Clipmap 12 anneaux</span>
+        <span class="feature-value">LOD 0 = triangles 100 cm, GridSize 6,4 m → LOD 11 = triangles 204 800 cm, GridSize 13,1 km. Anneaux creux à partir de LOD 1 (-30 % triangles).</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">Strips de couture</span>
+        <span class="feature-value">PatchA (vertical) + PatchB (horizontal) — éliminent les T-junctions aux transitions de LOD.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">CollisionRadius / TileLoadRadius</span>
+        <span class="feature-value">Collision 5,12 km autour du joueur · Chargement LOD élevé jusqu'à 50 km.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">Vertex colors (packing)</span>
+        <span class="feature-value">R = Height [0-1] · G = Temperature · B = Humidity. Consommé par les matériaux triplanaires par biome.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">Régénération budgétée</span>
+        <span class="feature-value"><code>MaxRingUpdatesPerFrame = 4</code>. Pas de budget dynamique (dette connue).</span>
+    </div>
+</div>
+
+<div class="codex-panel">
+    <div class="codex-label">Érosion hydraulique + thermale</div>
+    <p style="margin-bottom:0;">
+        <strong style="color:var(--gold);">Érosion hydraulique</strong> — 50 000 gouttes simulées s'écoulent le long des pentes, érodant et déposant des sédiments (paramètres : Inertia 0.05, SedimentCapacityFactor 4.0, ErodeSpeed 0.3, EvaporateSpeed 0.01, Gravity 4.0, MaxDropletLifetime 30 pas, ErosionRadius 3 cellules).
+        <strong style="color:var(--gold);">Érosion thermale</strong> — 10 itérations, TalusAngle 0,5 rad (~28,6°), ErosionRate 0.5. Les matériaux s'écoulent sur les pentes au-delà de l'angle de repos.
+    </p>
+</div>
+
+<div class="codex-panel cyan-accent">
+    <div class="codex-label">Caves SDF — Marching Cubes 64³</div>
+    <p style="margin-bottom:0;">
+        Grottes procédurales générées via <strong>Signed Distance Fields</strong> + <strong>Marching Cubes</strong>. Primitives : Sphere, Box, Capsule, Cylinder, Torus. Opérations booléennes : Union (<code>min</code>), Subtraction (<code>max(d1,-d2)</code>, creuse), Intersection, SmoothUnion, SmoothSubtraction. <code>FHWMarchingCubes</code> stateless thread-safe, résolution 64³ = 262 144 voxels par chunk. <code>FHWSDFShape</code> ajoute <code>NoiseAmplitude</code> (perturbation 3D organique) + <code>NoiseSeed</code>.
+    </p>
+</div>
+
+<!-- ===== Water ===== -->
+<div class="section-header" id="water">
+    <h2>Water · Océan, Lacs, Rivières</h2>
+    <span class="section-count">Gerstner GPU · QuadTree LOD · Buoyancy · Swim</span>
+</div>
+
+<div class="codex-panel">
+    <div class="codex-label">AHWInfiniteOcean + composants Water (fusionnés dans HybeliorWorld)</div>
+    <p>
+        Le système Water (anciennement plugin Oceanology) est <strong style="color:var(--gold);">intégralement fusionné dans le module HybeliorWorld</strong> en C++ natif. <code>Oceanology_Plugin</code> n'est <strong>pas</strong> activé dans le <code>.uproject</code> — les assets legacy (~11 GB) sont à purger après resave complet.
+    </p>
+    <p style="margin-bottom:0;">
+        Acteurs : <code>AHWInfiniteOcean</code> (suit la caméra) · <code>AHWLake</code> (lac délimité, collision) · <code>AHWWaterVolume</code> (physique gameplay) · <code>AHWWaterManager</code> (RVT heightmaps). Composants : <code>UHWWaterMeshComponent</code> (rendu QuadTree 64×64 tiles) · <code>UHWGerstnerWaveSolverComponent</code> (vagues GPU) · <code>UHWBuoyancyComponent</code> (flottabilité pontoons) · <code>UHWSwimmingComponent</code> (nage / drowning) · <code>UHWUnderwaterComponent</code> (post-process) · <code>UHWInfiniteComponent</code> (follow camera) · <code>UHWWaterAudioComponent</code> (audio spatial).
+    </p>
+</div>
+
+<div class="voie-list">
+    <div class="voie-item">
+        <span class="voie-name" style="color:var(--gold);">Vagues Gerstner GPU</span>
+        <span class="voie-desc">4 groupes de vagues par défaut (8 ondes), configurable jusqu'à 20 ondes via <code>EHWGerstnerWaveSummarize</code>. Wave_1 : Amp 50, Wavelength 8192, Speed 1000. Wave_4 : Amp 5, Wavelength 1024, Speed 250. Direction et phase paramétrables.</span>
+        <span class="voie-tag">GPU · 4 groupes · 8 ondes</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name" style="color:var(--gold);">QuadTree LOD</span>
+        <span class="voie-desc">64×64 tiles autour de la caméra, subdivisées dynamiquement selon la distance. Économise les triangles loin du joueur.</span>
+        <span class="voie-tag">QuadTree · Performance</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name" style="color:var(--gold);">Buoyancy + Swim + Drowning</span>
+        <span class="voie-desc">Flottabilité physique pour bateaux et objets, nage pour le joueur, mécanique de noyade au-delà d'une durée d'apnée. Intégrés au <code>UHWSwimmingComponent</code> et au <code>UHWBuoyancyComponent</code>.</span>
+        <span class="voie-tag">Buoyancy · Swim · Drown</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name" style="color:var(--gold);">Presets Beaufort</span>
+        <span class="voie-desc">10 presets (00_Calm → 09_SevereGale + RealColor_Hurricane) appliqués via <code>OceanBridge</code> selon la météo active. Ajuste amplitude, choppiness, écume.</span>
+        <span class="voie-tag">Beaufort · 00-09</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name" style="color:var(--gold);">Underwater post-process</span>
+        <span class="voie-desc"><code>UHWUnderwaterComponent</code> applique une teinte bleue/verte progressive avec la profondeur, atténuation lumière, particules de plancton, effet de réfraction.</span>
+        <span class="voie-tag">PP · Sous-marin</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name" style="color:var(--gold);">Rivières / lacs procéduraux</span>
+        <span class="voie-desc"><code>AHWTerrainWaterSystem</code> sculpte rivières et lacs dans le terrain au moment de la génération (carved). Connecté au <code>OceanBridge</code> pour la cohérence des niveaux.</span>
+        <span class="voie-tag">Terrain · Water</span>
+    </div>
+</div>
+
+<!-- ===== Maps & Niveaux ===== -->
+<div class="section-header" id="maps">
+    <h2>Maps & Niveaux</h2>
+    <span class="section-count">14 Worlds · World Partition · Hub + Tests</span>
+</div>
+
+<div class="codex-panel">
+    <div class="codex-label">Catalogue des niveaux UE5</div>
+    <p style="margin-bottom:0;">
+        Le projet contient <strong style="color:var(--gold);">14 cartes</strong> dans <code>/Game/Maps/</code>. La carte principale <code>HybeliorWorld_50km_V3</code> utilise <strong>World Partition</strong> avec streaming par cellules et niveaux de données (Data Layers) pour le contenu saisonnier ou événementiel. Le découpage en tuiles produit 2 158 <code>LandscapeStreamingProxy</code> + 1 378 <code>WorldPartitionHLOD</code> + 1 223 <code>InstancedFoliageActor</code> auto-générés.
+    </p>
+</div>
+
+<div class="feature-list">
+    <div class="feature-item">
+        <span class="feature-key">HybeliorWorld_50km_V3</span>
+        <span class="feature-value">Monde principal — 50 km², World Partition activé, Data Layers pour contenu saisonnier.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">HybeliorWorld_20km_V2</span>
+        <span class="feature-value">Version précédente 20 km² (legacy, conservé pour comparaison).</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">HubWorldMap</span>
+        <span class="feature-value">Hub joueurs central — 184 acteurs, Landscape ~2 km × 2 km. Point de spawn et navigation vers autres zones via portails. Niveau classique (pas de World Partition).</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">Login</span>
+        <span class="feature-value">Carte écran de connexion — widget login + sélection de personnage.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">Galenor / DeadKingdom / DeadZone / Canyon</span>
+        <span class="feature-value">Zones nommées — instances dédiées par zone. Travel inter-zones via OWS (RabbitMQ SpinUp/ShutDown).</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">8m_Landscape_WC_Complete</span>
+        <span class="feature-value">Paysage 8 m haute résolution — banc d'essai pour validation du clipmap fin.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">TestScaleBiomeV3</span>
+        <span class="feature-value">Map de test biomes — valide les 17 biomes via <code>LayerInfo TestScaleBiomeV3_sharedassets</code>.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">Map_Test_ProceduralGene + M_GenerateCity_V2</span>
+        <span class="feature-value">Tests génération procédurale (PCG) et génération de ville (BP_GenerateCity).</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">Concept_Map / Interior_Map</span>
+        <span class="feature-value">Cartes de prototypage conceptuel et de bâtiments intérieurs.</span>
+    </div>
+</div>
+
+<div class="lore-block" style="margin-bottom: 52px;">
+    <div class="lore-block-title">— Synthèse du sous-système Monde et Environnement —</div>
+    <p>
+        <strong style="color:var(--gold);">Sources canoniques :</strong> <code>05 - Implémentation Unreal/Monde et Environnement/</code> — 24 fichiers (HW Environment Manager, Time Of Day, Seasons, Weather System, Weather MPC, Sky Surface Renderer, Property Cache, Biome System, Foliage Assets, PCG Graphs, Terrain Manager, Terrain Elements, Terrain Erosion, Caves SDF, Clipmap System, Terrain Water Bridge, Infinite Ocean, Ocean Environment Presets, Water Buoyancy, Water Presets, Water Swimming, Level Design, Levels).
+    </p>
+    <p>
+        <strong style="color:var(--gold);">Implémentation canonique post-V4 :</strong> ajout de la phase <code>EraGenerator</code> en tête du pipeline tick de <code>AHWEnvironmentManager</code>, maintien de <code>CurrentEra</code> + <code>EraProgress</code>, détection des signes annonciateurs de Souffle, émission des modificateurs cosmiques (palette, biomes biaisés, entités spawnées). Pivot 2026 documenté ; implémentation planifiée comme générateur paramétrique #1 de la roadmap production.
+    </p>
+    <p style="margin-bottom:0;">
+        <strong style="color:var(--gold);">Stack résumé :</strong> Module HybeliorWorld (terrain + eau + environnement, pas de plugin séparé) · Plugins PCG (4 graphes projet + 90+ via PCGBiomeCore/Sample) · Niagara (effets météo) · GeometryScripting + ProceduralMeshComponent (clipmap, SDF caves) · World Partition (HLOD, streaming) · 19 biomes (13 climatiques + 6 fantasy) · 11 météos · 4 saisons · cycle long Ères canonique.
+    </p>
+</div>

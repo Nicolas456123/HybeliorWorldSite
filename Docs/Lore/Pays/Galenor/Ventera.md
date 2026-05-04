@@ -1,3 +1,10 @@
+﻿---
+tags: [lore, pays, galenor]
+type: lore
+status: drafted
+last_review: 2026-05-02
+needs_review_for: []
+---
 # Ventera — Le Royaume des Cavaliers du Vent
 
 > *« Un Ventérien sans monture est un oiseau sans ailes. Nous ne chevauchons pas pour voyager — nous chevauchons pour vivre. »*
@@ -164,7 +171,7 @@ Région méridionale de vastes plateaux semi-arides, Astralor est la plus mysté
 
 ### Arlyndor — Ville
 *Ville de Jolera, Arlyndor est le centre des haras les plus prestigieux de Ventera. Ses pâturages vallonnés, arrosés par des sources naturelles, offrent des conditions idéales pour l'élevage. Les poulains d'Arlyndor sont promis aux plus grands cavaliers avant même leur naissance.*
-**Histoire :** Toutes les lignées de course d'Arlyndor descendent d'une seule jument capturée dans un troupeau sauvage il y a un siècle — une bête si rapide qu'il fallut six cavaliers pour la corner. Ses descendants dominent les courses à travers Galenor depuis trois générations. Les éleveurs d'Arlyndor ne croisent jamais cette lignée avec des souches étrangères — ils considèrent le sang de la jument sauvage comme un patrimoine.
+**Histoire :** Toutes les lignées de course d'Arlyndor descendent d'une seule jument capturée dans un troupeau sauvage il y a un siècle — une bête si rapide qu'il fallut six cavaliers pour la corner. Ses descendants dominent les courses à travers Galenor depuis trois générations. Les éleveurs d'Arlyndor ne croisent jamais cette lignée avec des souches étrangères — ils considèrent le sang de la jument sauvage comme un héritage.
 - Population : Ville
 - Région : Jolera
 
@@ -273,3 +280,58 @@ Région méridionale de vastes plateaux semi-arides, Astralor est la plus mysté
 - **L'Héritage de Lyria** : La cavalière qui renversa Marven III laissa un testament scellé, conservé dans les archives de Soltharis, avec la consigne de ne l'ouvrir que « lorsque le vent cessera de souffler ». Certains estiment que cette condition est métaphorique et cherchent à briser le sceau — d'autres craignent ce que le document contient.
 - **La Conspiration de Rystera** : Dame Nyra ne se contente pas de contester le Roi-Cavalier. Elle entretient secrètement des contacts avec Valoria, négociant une alliance militaire qui pourrait renverser l'équilibre du pouvoir à Ventera. Si Aldren l'apprend, la guerre civile deviendra inévitable.
 - **Les Cairns qui Marchent** : Dans les plateaux d'Astralor, des cairns bougent. Non pas sous l'effet du vent — ils se déplacent de plusieurs mètres en une nuit, sans que personne ne les voie bouger. Les gardiens de cairns de Myrkis documentent le phénomène depuis des décennies, mais aucune explication rationnelle n'a été trouvée.
+
+---
+
+## Données canoniques (source : Access)
+
+> Identité importée verbatim depuis `AccessExport/Pays.csv`. Sert de référence canonique au système Access historique.
+
+### Identité
+
+| Champ | Valeur |
+|-------|--------|
+| **N° Pays (CSV)** | 11 |
+| **Nom CSV** | Ventera |
+| **Continent (CSV)** | Galenor (N°7) |
+| **Gouvernement** | Monarchie élective |
+| **Culture** | Culture centrée sur l'équitation, les festivals et les traditions agricoles. |
+| **Histoire marquante** | La Révolte des Cavaliers, où les soldats montés ont forcé la royauté à adopter un système électif pour le choix du souverain. |
+| **Description CSV** | Un pays de plaines et de collines, connu pour ses cavaliers d'élite et ses festivals saisonniers. |
+
+### Régions canoniques (source : Region.csv)
+
+- **Jolera** (R57) — *stub : description non renseignée dans le CSV*
+- **Plenera** (R58) — *stub : description non renseignée dans le CSV*
+- **Rystera** (R59) — *stub : description non renseignée dans le CSV*
+- **Astralor** (R60) — *stub : description non renseignée dans le CSV*
+
+### Villes canoniques (source : Ville.csv)
+
+Total : **22 villes/villages** réparties sur **4 régions**.
+
+| Ville | Région | Type |
+|-------|--------|------|
+| Arlyndor | Jolera | Ville |
+| Varethor | Jolera | Village |
+| Ilithar | Jolera | Village |
+| Soltharis | Plenera | Capitale |
+| Nythor | Plenera | Ville |
+| Meldor | Plenera | Village |
+| Myrralith | Plenera | Village |
+| Aldaris | Plenera | Village |
+| Ultharia | Plenera | Village |
+| Kaldirith | Plenera | Village |
+| Nyralith | Rystera | Ville |
+| Falandros | Rystera | Village |
+| Elthira | Rystera | Village |
+| Drynor | Rystera | Village |
+| Astralon | Astralor | Ville |
+| Myrkis | Astralor | Village |
+| Tolvenor | Astralor | Village |
+| Darnis | Astralor | Village |
+| Caldrith | Astralor | Village |
+| Ilymaris | Astralor | Village |
+| Felmarith | Astralor | Village |
+| Kryndor | Astralor | Village |
+

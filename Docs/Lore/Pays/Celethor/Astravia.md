@@ -1,3 +1,10 @@
+﻿---
+tags: [lore, pays, celethor]
+type: lore
+status: drafted
+last_review: 2026-05-02
+needs_review_for: []
+---
 # Astravia — La Chute de l'Île Céleste
 
 > *« Nous avons touché le ciel — et le ciel nous a laissés tomber. Mais même brisés, nous regardons toujours vers le haut. Car un peuple qui cesse de rêver d'altitude est un peuple qui a déjà touché le fond. »*
@@ -57,18 +64,21 @@ Les non-mages ont des droits civiques complets mais ne peuvent accéder aux fonc
 
 ## Religion
 
-### Ordo Caelum — L'Ordre Céleste (religion dominante)
+> [!note] Double héritage astravien
+> Astravia vit sous un double héritage doctrinal — la voie haute de l'**Ordo Caelum** (canon stellaire) et la voie basse du **Somnium Vigil** (courant onirique). Les théologiens locaux les distinguent sans les opposer. Le tableau d'identité administre une "principale" et une "secondaire" pour les besoins du registre, mais la pratique courante les tient pour deux entrées d'un même édifice.
 
-Les Astraviens vénèrent Celestia et Stellaris — les divinités du ciel et des étoiles. Ils croient que les constellations sont un langage divin, que chaque étoile est un mot et que le ciel nocturne est un message que l'humanité n'a pas encore entièrement déchiffré.
+### Ordo Caelum — L'Ordre Céleste
+
+Les Astraviens vénèrent Celestia et Stellaris — figures du ciel et des étoiles dans la tradition Ordo Caelum. Selon la doctrine locale, les constellations sont un langage à entendre, chaque étoile un mot et le ciel nocturne un message que les lectures successives n'ont pas épuisé.
 
 **Pratiques centrales :**
 - **La Lecture des Étoiles** : Chaque décision importante est précédée d'une consultation astrologique. Les positions des constellations influencent la politique, le commerce et même les mariages.
-- **Le Vol Sacré** : Une fois dans sa vie, chaque Astravien doit monter sur une île céleste et contempler le monde d'en haut. Cette expérience est considérée comme une communion avec Celestia.
+- **Le Vol Sacré** : Une fois dans sa vie, chaque Astravien doit monter sur une île céleste et contempler le monde d'en haut. Cette expérience est tenue par les fidèles pour une communion avec Celestia.
 - **L'Hommage à la Chute** : Chaque année, les Astraviens observent un jour de deuil en mémoire de Caelum Prima. Les lumières s'éteignent et les îles volantes descendent lentement vers le sol.
 
-### Somnium Vigil — La Veille des Rêves (religion secondaire)
+### Somnium Vigil — La Veille des Rêves
 
-Les mages astraviens accordent une grande importance aux rêves, qu'ils considèrent comme des messages de Somnix — une fenêtre vers des réalités alternatives. Les rêves prophétiques sont enregistrés et analysés par des spécialistes appelés Oniromanciens.
+Les mages astraviens accordent une grande importance aux rêves, qu'ils inscrivent dans la lecture du Somnium Vigil — une voie qui tient les rêves pour des messages de Somnix et pour une fenêtre vers des réalités alternatives. Les rêves prophétiques sont enregistrés et analysés par des spécialistes appelés Oniromanciens.
 
 ---
 
@@ -108,7 +118,7 @@ Zone de collines et de lacs au nord-est, connue pour ses brumes permanentes et s
 
 ### Ryndorin
 *Ville académique perchée sur un plateau, abritant l'Académie des Vents — l'école de magie aérienne la plus prestigieuse d'Hybelior. Les étudiants y apprennent à voler, à manipuler les courants d'air et à créer des boucliers atmosphériques.*
-**Histoire :** L'Académie des Vents fut fondée à Ryndorin pour une raison pratique : le plateau offre des conditions de vent constantes et prévisibles, indispensables à l'apprentissage de la magie aérienne. Les premiers professeurs découvrirent rapidement que les courants d'altitude au-dessus du plateau suivaient des modèles réguliers — comme si quelque chose les organisait. Les théoriciens pensent aujourd'hui que les anciens mages avaient, des siècles plus tôt, modifié la géographie de la région pour créer ces conditions — un acte de géomagie à une échelle que personne ne sait plus reproduire.
+**Histoire :** L'Académie des Vents fut fondée à Ryndorin pour une raison pratique : le plateau offre des conditions de vent constantes et prévisibles, indispensables à l'apprentissage de la magie aérienne. Les premiers professeurs découvrirent rapidement que les courants d'altitude au-dessus du plateau suivaient des modèles réguliers — comme si quelque chose les organisait. Selon une lecture courante chez les théoriciens, les anciens mages auraient, des siècles plus tôt, modifié la géographie de la région pour créer ces conditions — un acte de géomagie à une échelle que les arcanistes contemporains ne savent plus reproduire. D'autres écoles tiennent que la régularité des vents tient à la seule topographie du plateau et que la lecture "ancienne géomagie" relève de la légende académique.
 - Population : Ville
 - Région : Inverna
 
@@ -162,7 +172,7 @@ Zone de collines et de lacs au nord-est, connue pour ses brumes permanentes et s
 
 ### Lysoris
 *Ville principale de Lysoria, construite au bord d'un lac dont les eaux reflètent non pas le ciel mais des images du passé. Lysoris est le centre de recherche en divination et en chronomagie — des disciplines dangereuses mais fascinantes.*
-**Histoire :** Le lac de Lysoris commença à montrer des images du passé trente ans après la Chute de Caelum Prima — les chercheurs pensent que l'onde de choc magique de la catastrophe modifia les propriétés de l'eau de manière permanente. Les premières images étaient floues et brèves. Avec le temps, elles sont devenues plus claires, plus longues, parfois interactives. Les oniromanciens de Lysoris furent les premiers à documenter la prophétie du Ciel Engloutissant — non depuis leurs rêves, mais depuis le lac lui-même, qui leur montra ce qui n'avait pas encore eu lieu.
+**Histoire :** Les eaux de Lysoris commencèrent à présenter, selon les chroniques locales, des reflets identifiés comme des images du passé trente ans après la Chute de Caelum Prima. La lecture la plus répandue chez les chercheurs attribue ce phénomène à l'onde de choc magique de la catastrophe, qui aurait modifié les propriétés de l'eau de façon durable ; d'autres explications coexistent. Les premiers reflets rapportés étaient floues et brefs. Avec le temps, ils sont devenus plus clairs, plus longs, et certains observateurs rapportent des séquences qu'ils décrivent comme interactives. Les oniromanciens de Lysoris furent les premiers à consigner ce qu'ils nommèrent la prophétie du Ciel Engloutissant — non depuis leurs rêves, mais depuis le lac, dont les images leur parurent présenter ce qui n'avait pas encore eu lieu.
 - Population : Ville
 - Région : Lysoria
 
@@ -174,7 +184,7 @@ Zone de collines et de lacs au nord-est, connue pour ses brumes permanentes et s
 
 ### Valtheron
 *Avant-poste de recherche fortifié, construit autour d'une anomalie magique permanente — un vortex d'énergie qui pulse comme un cœur. Les mages de Valtheron l'étudient depuis des décennies sans comprendre sa nature. Certains pensent que c'est un fragment de Caelum Prima.*
-**Histoire :** Le vortex de Valtheron fut découvert par un groupe d'étudiants qui s'étaient perdus dans Lysoria lors d'une excursion — et dont les boussoles magiques commencèrent à tourner follement à cet endroit précis. Leur professeur, qui vint les chercher, nota que le vortex pulsait à un rythme régulier et que sa fréquence correspondait exactement au rythme cardiaque humain au repos. Ce détail, rapporté dans ses carnets avec un point d'interrogation, est la note la plus citée et la moins comprise de toute la littérature arcanistique d'Astravia.
+**Histoire :** Le vortex de Valtheron fut découvert par un groupe d'étudiants qui s'étaient perdus dans Lysoria lors d'une excursion — et dont les boussoles magiques commencèrent à tourner follement à cet endroit précis. Leur professeur, qui vint les chercher, consigna que le vortex pulsait à un rythme régulier dont la fréquence, mesurée à plusieurs reprises, lui parut correspondre au rythme cardiaque humain au repos. Ce détail, rapporté dans ses carnets avec un point d'interrogation, est la note la plus citée et la moins comprise de toute la littérature arcanistique d'Astravia ; les lectures qui en sont faites — coïncidence métrologique, écho mémoriel, signature inconnue — restent contradictoires.
 - Population : Ville
 - Région : Lysoria
 
@@ -193,6 +203,56 @@ Zone de collines et de lacs au nord-est, connue pour ses brumes permanentes et s
 
 ## Secrets et intrigues
 
-- **Le Cœur de Caelum Prima** : Au fond du cratère, enterré sous des tonnes de décombres, le cœur d'aethérite de l'île détruite pulse encore. Les mages qui s'en approchent trop entendent des voix — pas des esprits, mais des échos des archimages morts dans la Chute, piégés dans le cristal.
-- **Le Projet Ascension** : Un groupe clandestin de mages radicaux, les **Stellaristes**, travaille en secret à recréer Caelum Prima. Ils ont découvert une méthode pour synthétiser l'aethérite — mais le processus nécessite des sacrifices humains. Le Magistère ignore leur existence.
-- **La Prophétie de Lysoria** : Les oniromanciens de Lysoris ont récemment partagé un rêve commun : une vision d'Astravia engloutie par le ciel lui-même, les îles volantes aspirées vers les étoiles. Celyndra a interdit la divulgation de cette prophétie, mais la rumeur se répand.
+- **Le Cœur de Caelum Prima** : Au fond du cratère, enterré sous les décombres, ce que les chercheurs d'Aeloria identifient comme le cœur d'aethérite de l'île détruite manifeste encore une activité pulsée. Les mages qui s'en approchent trop rapportent y entendre des voix ; les lectures qui circulent vont de l'écho mémoriel à la résonance arcaniste résiduelle, en passant par l'hypothèse — défendue par certains pèlerins — d'archimages morts dans la Chute dont la trace se serait imprimée dans le cristal. Aucune lecture n'a été tranchée.
+- **Le Projet Ascension** : Un cercle clandestin de mages radicaux, les **Stellaristes**, travaille en secret à recréer Caelum Prima. Ils prétendent avoir mis au point une méthode pour synthétiser l'aethérite — mais le procédé, selon les rumeurs qui filtrent, exigerait des sacrifices humains. Le Magistère ne reconnaît pas leur existence dans ses registres.
+- **La Prophétie de Lysoria** : Les oniromanciens de Lysoris ont récemment rapporté un rêve commun : ce qu'ils décrivent comme une vision d'Astravia engloutie par le ciel lui-même, les îles volantes aspirées vers les étoiles. Celyndra a interdit la divulgation de cette lecture, mais la rumeur se répand.
+
+---
+
+## Données canoniques (source : Access)
+
+> Identité importée verbatim depuis `AccessExport/Pays.csv`. Sert de référence canonique au système Access historique.
+
+### Identité
+
+| Champ | Valeur |
+|-------|--------|
+| **N° Pays (CSV)** | 27 |
+| **Nom CSV** | Astravia |
+| **Continent (CSV)** | Celethor (N°13) |
+| **Gouvernement** | Monarchie magocratique |
+| **Culture** | Culture aérienne et magique, où les habitants utilisent la magie pour manipuler le vent et se déplacer. |
+| **Histoire marquante** | La Chute de l'Île Céleste, un événement tragique où l'une des îles volantes s'est écrasée, entraînant des réformes majeures dans l'utilisation de la magie. |
+| **Description CSV** | Un royaume flottant, situé sur des îles volantes, réputé pour sa maîtrise de la magie aérienne et des courants d'air. |
+
+### Régions canoniques (source : Region.csv)
+
+- **Windora** (R107) — *stub : description non renseignée dans le CSV*
+- **Inverna** (R108) — *stub : description non renseignée dans le CSV*
+- **Brastallia** (R109) — *stub : description non renseignée dans le CSV*
+- **Lysoria** (R110) — *stub : description non renseignée dans le CSV*
+
+### Villes canoniques (source : Ville.csv)
+
+Total : **17 villes/villages** réparties sur **4 régions**.
+
+| Ville | Région | Type |
+|-------|--------|------|
+| Windoris | Windora | Ville |
+| Faldorin | Windora | Village |
+| Belvarin | Windora | Village |
+| Lythmar | Windora | Village |
+| Invernis | Inverna | Capitale |
+| Ryndorin | Inverna | Village |
+| Galdryn | Inverna | Village |
+| Aeloria | Inverna | Village |
+| Vyndrith | Inverna | Village |
+| Brastoris | Brastallia | Ville |
+| Thorindal | Brastallia | Village |
+| Valthara | Brastallia | Village |
+| Zyldoria | Brastallia | Village |
+| Nythorin | Brastallia | Village |
+| Lysoris | Lysoria | Ville |
+| Feyndor | Lysoria | Village |
+| Valtheron | Lysoria | Village |
+

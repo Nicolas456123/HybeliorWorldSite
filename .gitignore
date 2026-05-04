@@ -4,13 +4,12 @@ package-lock.json
 localhost.url
 LaunchPythonServer.bat
 
-# Docs: exclure les fichiers lourds/privés, garder Docs/Lore/ pour Vercel
-Docs/AccessExport/
-Docs/GDD/
-Docs/*.accdb
-Docs/*.docx
-Docs/*.txt
-Docs/*.md
-Docs/*.ps1
-Docs/*.png
+# Docs/Lore/ est un MIROIR auto-genere depuis ../Documentation/Lore/
+# Voir ../Documentation/sync-docs.ps1
+# La source de verite est dans Documentation/ a la racine du projet.
+# Docs/Lore/ doit etre exclu du git (genere) mais reste necessaire pour Vercel.
+# Vercel deploie depuis HybeliorWorldSite/ et a besoin de Docs/Lore/ localement.
+# Le sync est lance avant chaque deploy (manuellement ou via hook).
+Docs/
+
 local-db.json

@@ -1,3 +1,10 @@
+﻿---
+tags: [lore, pays, ilthara]
+type: lore
+status: drafted
+last_review: 2026-05-02
+needs_review_for: []
+---
 # Lythar — L'Empire des Vents Nomades
 
 > *« Un Lytharien sans cheval est un oiseau sans ailes. Un Lytharien sans route est un mort qui ne le sait pas encore. »*
@@ -59,16 +66,16 @@ Le Grand Khan actuel est **Raelorn le Vif**, un cavalier d'une agilité légenda
 
 ### Via Ventus — La Voie du Vent (religion officielle)
 
-Les Lythariens vénèrent le vent comme le souffle du monde. Aerion, le dieu du vent, et Navigor, le guide des voyageurs, sont les divinités principales. Voyager est une forme de prière ; rester immobile est une forme de mort spirituelle.
+Les Lythariens vénèrent le vent comme le souffle du monde. Aerion et Navigor — l'un porté comme la voix du vent, l'autre comme le guide des voyageurs — sont les figures principales du culte lytharien. Selon la doctrine de Via Ventus à Lythar, voyager est une forme de prière et rester immobile une forme de mort spirituelle — un précepte qu'on récite plus qu'on ne le discute, et que les Foedus Animae locaux nuancent en pratique.
 
 **Fêtes religieuses :**
 - **La Grande Migration** (solstice d'été) — Toutes les tribus convergent vers un point de rassemblement et chevauchent ensemble pendant sept jours. C'est à la fois une fête, un pèlerinage et un acte politique.
 - **La Course des Vents** (équinoxe de printemps) — Course équestre de trois jours traversant les plaines, ouverte à tous. Le vainqueur reçoit le titre de « Favori d'Aerion » et une influence considérable dans le Conseil.
-- **Le Souffle du Dernier Pas** (solstice d'hiver) — Cérémonie funéraire collective. Les morts de l'année sont honorés en libérant des cerfs-volants dans le vent, chacun portant le nom d'un défunt. On croit que le vent emporte l'âme vers la prochaine route.
+- **Le Souffle du Dernier Pas** (solstice d'hiver) — Cérémonie funéraire collective. Les morts de l'année sont honorés en libérant des cerfs-volants dans le vent, chacun portant le nom d'un défunt. Selon la lecture lytharienne, le vent emporterait l'âme vers la prochaine route.
 
 ### Foedus Animae — Le Pacte des Âmes (religion secondaire)
 
-Le culte des ancêtres est profondément ancré chez les Lythariens. Les morts ne disparaissent pas — ils chevauchent aux côtés des vivants sous forme d'esprits du vent. Chaque cavalier porte un talisman contenant une mèche de cheveux d'un ancêtre, et avant chaque décision importante, il consulte « ceux qui chevauchent derrière ». Les chamanes de Foedus Animae communiquent avec les esprits ancestraux lors de transes induites par des herbes de la steppe.
+Le culte des ancêtres est profondément ancré chez les Lythariens. Selon les Foedus Animae locaux, les morts ne disparaissent pas — ils chevaucheraient aux côtés des vivants sous la forme que la tradition appelle "esprits du vent". Chaque cavalier porte un talisman contenant une mèche de cheveux d'un ancêtre, et avant chaque décision importante, il consulte « ceux qui chevauchent derrière ». Les chamanes de Foedus Animae rapportent communiquer avec les ancêtres lors de transes induites par des herbes de la steppe ; les théologiens des autres traditions interprètent ces transes diversement.
 
 ---
 
@@ -214,3 +221,51 @@ Steppe orientale, Myralis est le territoire le plus sauvage de Lythar. La tribu 
 - **Les Ruines au-delà de Myralis** : Les éclaireurs de Faldris ont découvert des ruines massives dans les steppes orientales — des structures de pierre noire qui ne correspondent à aucune civilisation connue. Des glyphes sur les murs semblent décrire des créatures gigantesques et un cataclysme ancien. Le Grand Khan a envoyé une expédition officielle, mais celle-ci est revenue avec des pertes et un silence troublant sur ce qu'elle a trouvé.
 - **La Tribu Perdue** : Les légendes de Lythar parlent d'une septième tribu — le Vent-Pourpre — qui aurait refusé la confédération de Lythana et se serait enfoncée dans les steppes orientales. Si cette tribu existe encore, elle aurait évolué pendant des siècles sans contact avec le reste de Lythar. Des cavaliers isolés, portant des bannières pourpres, ont été aperçus à la lisière de Myralis.
 - **Le Complot des Sédentaires** : Un groupe influent de marchands de Raenoris milite secrètement pour transformer la confédération en une monarchie sédentaire, avec Raenoris comme capitale permanente. Ils financent la construction de bâtiments en dur et tentent de convaincre les jeunes que le nomadisme est archaïque. Si le Grand Khan l'apprenait, la réaction serait violente.
+
+---
+
+## Données canoniques (source : Access)
+
+> Identité importée verbatim depuis `AccessExport/Pays.csv`. Sert de référence canonique au système Access historique.
+
+### Identité
+
+| Champ | Valeur |
+|-------|--------|
+| **N° Pays (CSV)** | 21 |
+| **Nom CSV** | Lythar |
+| **Continent (CSV)** | Ilthara (N°10) |
+| **Gouvernement** | Confédération tribale |
+| **Culture** | Culture nomade et équestre, avec une grande importance accordée à la mobilité et aux échanges entre tribus. |
+| **Histoire marquante** | La Grande Migration, où les tribus de Lythar ont parcouru des milliers de kilomètres pour échapper à une menace et ont fini par établir leur territoire actuel. |
+| **Description CSV** | Un pays de vastes plaines et de rivières serpentines, connu pour ses cavaliers nomades et ses villes en mouvement. |
+
+### Régions canoniques (source : Region.csv)
+
+- **Fyrtara** (R70) — *stub : description non renseignée dans le CSV*
+- **Lythoria** (R71) — *stub : description non renseignée dans le CSV*
+- **Raenoth** (R72) — *stub : description non renseignée dans le CSV*
+- **Aetharia** (R73) — *stub : description non renseignée dans le CSV*
+- **Iliara** (R74) — *stub : description non renseignée dans le CSV*
+- **Myralis** (R75) — *stub : description non renseignée dans le CSV*
+
+### Villes canoniques (source : Ville.csv)
+
+Total : **13 villes/villages** réparties sur **6 régions**.
+
+| Ville | Région | Type |
+|-------|--------|------|
+| Valryndor | Fyrtara | Ville |
+| Lytharil | Lythoria | Ville |
+| Ralor | Lythoria | Village |
+| Zelmaris | Lythoria | Village |
+| Raenoris | Raenoth | Capitale |
+| Vyrnith | Raenoth | Village |
+| Talmaris | Raenoth | Village |
+| Aetharis | Aetharia | Ville |
+| Sylorin | Aetharia | Village |
+| Illythia | Iliara | Ville |
+| Quendris | Myralis | Ville |
+| Vystaris | Myralis | Village |
+| Faldris | Myralis | Village |
+

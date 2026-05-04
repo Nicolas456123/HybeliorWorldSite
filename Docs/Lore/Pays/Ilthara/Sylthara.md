@@ -1,3 +1,10 @@
+﻿---
+tags: [lore, pays, ilthara]
+type: lore
+status: drafted
+last_review: 2026-05-02
+needs_review_for: []
+---
 # Sylthara — Le Grenier d'Or d'Ilthara
 
 > *« En Sylthara, on ne conquiert pas la terre — on la remercie. Et la terre, en retour, ne nous trahit jamais. »*
@@ -59,7 +66,7 @@ La Grande Semeuse actuelle est **Feylara d'Amarendis**, une femme pragmatique et
 
 ### Rota Mundi — Le Cycle du Monde (religion officielle)
 
-Rota Mundi est la religion naturelle de Sylthara. L'idée que tout est cyclique — naissance, croissance, récolte, mort, renaissance — correspond parfaitement au rythme de vie agricole. Les Syltharis voient dans chaque saison un chapitre d'une histoire éternelle, et dans chaque graine plantée un acte de foi en la continuité du cycle.
+Rota Mundi est la religion dominante de Sylthara, et la lecture syltharie en est la plus articulée d'Hybelior. L'idée que tout est cyclique — naissance, croissance, récolte, mort, renaissance — épouse le rythme de vie agricole. Les Syltharis voient dans chaque saison un chapitre d'une histoire qu'ils tiennent pour éternelle, et dans chaque graine plantée un acte de foi en la continuité du cycle.
 
 **Fêtes religieuses :**
 - **Le Premier Sillon** (équinoxe de printemps) — Le Grand Semeur trace le premier sillon de la saison dans un champ sacré près d'Amarendis. Ce geste symbolique marque le début officiel des semailles dans tout le pays.
@@ -67,7 +74,7 @@ Rota Mundi est la religion naturelle de Sylthara. L'idée que tout est cyclique 
 - **La Grande Moisson** (équinoxe d'automne) — Commémoration de la libération et de la première récolte collective. Chaque village organise un festin communautaire où toute la nourriture est partagée gratuitement.
 - **Le Repos de la Terre** (solstice d'hiver) — Journée de silence et de repos absolu. Aucun travail n'est effectué, et la terre est laissée tranquille. Les familles se rassemblent autour du foyer et content les histoires de leurs ancêtres.
 
-La croyance en la réincarnation est très forte en Sylthara. Les morts sont enterrés dans les champs, et les familles croient sincèrement que leurs ancêtres reviennent sous forme de plantes, d'animaux ou de pluie bienfaisante.
+La lecture syltharie de la réincarnation est marquée. Les morts sont enterrés dans les champs, et les familles transmettent que leurs ancêtres reviennent sous forme de plantes, d'animaux ou de pluie bienfaisante. Cette compréhension est plus locale qu'orthodoxe : les Foedus Animae lui opposent leur propre lecture du Pacte des Âmes, et même certaines écoles Rota Mundi d'autres continents la jugent excessive.
 
 ### Vael'Kurash — Les Esprits de Chaque Chose (religion secondaire)
 
@@ -223,7 +230,56 @@ Région orientale de rivières et de marais drainés, Brynthal est la plus jeune
 
 ## Secrets et intrigues
 
-- **Le Champ Maudit** : À la lisière de Fenoria, un champ que personne ne cultive depuis des générations reste obstinément stérile. Aucune graine n'y germe, aucune herbe n'y pousse. Les anciens racontent que c'est le lieu où un ancien chef de guerre étranger fut enterré après avoir été empoisonné par les Semeurs — et que sa haine empoisonne encore le sol. Récemment, des fleurs noires ont commencé à y pousser spontanément. Personne ne sait ce que cela signifie.
+- **Le Champ Maudit** : À la lisière de Fenoria, un champ que personne ne cultive depuis des générations reste obstinément stérile. Aucune graine n'y germe, aucune herbe n'y pousse. Selon les anciens, ce serait le lieu où un ancien chef de guerre étranger fut enterré après avoir été empoisonné par les Semeurs — et sa haine empoisonnerait encore le sol. Récemment, des fleurs noires ont commencé à y pousser spontanément. La signification de ce changement reste discutée.
 - **La Réserve Secrète** : Le Conseil des Moissons maintient en secret des greniers souterrains contenant assez de nourriture pour nourrir tout Ilthara pendant un an. L'emplacement de ces greniers est connu de cinq personnes seulement, et leur existence est niée officiellement. Certains pays voisins soupçonnent leur existence et aimeraient en connaître la localisation.
 - **Les Semeurs Noirs** : Un mouvement clandestin de paysans radicaux, les Semeurs Noirs, prône l'utilisation de la nourriture comme arme politique — cessation des exportations vers les pays jugés hostiles, empoisonnement sélectif des récoltes destinées aux ennemis. La Grande Semeuse Feylara est horrifiée par ces idées mais n'a pas encore identifié les meneurs du mouvement.
-- **La Graine Ancienne** : Dans les caves du Conseil à Amarendis, une graine unique est conservée dans un coffret scellé. Selon la tradition, elle fut offerte par les esprits de la terre lors de la Grande Moisson, et on dit que la planter provoquerait une croissance végétale si explosive qu'elle engloutirait le continent entier. Légende ou réalité, personne n'a jamais osé ouvrir le coffret.
+- **La Graine Ancienne** : Dans les caves du Conseil à Amarendis, une graine unique est conservée dans un coffret scellé. Selon la tradition syltharie, elle aurait été offerte par les esprits de la terre lors de la Grande Moisson ; le récit prétend que la planter provoquerait une croissance végétale si explosive qu'elle engloutirait le continent entier. Légende ou pas, personne n'a jamais osé ouvrir le coffret.
+
+---
+
+## Données canoniques (source : Access)
+
+> Identité importée verbatim depuis `AccessExport/Pays.csv`. Sert de référence canonique au système Access historique.
+
+### Identité
+
+| Champ | Valeur |
+|-------|--------|
+| **N° Pays (CSV)** | 33 |
+| **Nom CSV** | Sylthara |
+| **Continent (CSV)** | Ilthara (N°10) |
+| **Gouvernement** | Confédération agricole |
+| **Culture** | Culture pastorale et agricole, centrée sur l'harmonie avec la nature et le respect des cycles de la vie. |
+| **Histoire marquante** | La Grande Moisson, un événement où les récoltes de Sylthara ont nourri plusieurs nations voisines lors d'une famine dévastatrice, renforçant leur influence régionale. |
+| **Description CSV** | Une terre de prairies dorées et de collines ondulantes, habitée par un peuple pastoral attaché à la terre et à ses cycles naturels. |
+
+### Régions canoniques (source : Region.csv)
+
+- **Fenoria** (R76) — *stub : description non renseignée dans le CSV*
+- **Amaroth** (R77) — *stub : description non renseignée dans le CSV*
+- **Julindar** (R78) — *stub : description non renseignée dans le CSV*
+- **Dyanos** (R79) — *stub : description non renseignée dans le CSV*
+- **Brynthal** (R80) — *stub : description non renseignée dans le CSV*
+
+### Villes canoniques (source : Ville.csv)
+
+Total : **15 villes/villages** réparties sur **5 régions**.
+
+| Ville | Région | Type |
+|-------|--------|------|
+| Eldrys | Fenoria | Ville |
+| Faldrin | Fenoria | Ville |
+| Eldarion | Fenoria | Village |
+| Vilnora | Fenoria | Village |
+| Amarendis | Amaroth | Capitale |
+| Feylorn | Amaroth | Village |
+| Ydralis | Amaroth | Village |
+| Myridia | Julindar | Village |
+| Kelvoris | Julindar | Village |
+| Drylia | Julindar | Ville |
+| Ryndor | Dyanos | Ville |
+| Velthar | Dyanos | Village |
+| Galdoria | Brynthal | Ville |
+| Vesperith | Brynthal | Village |
+| Falyria | Brynthal | Village |
+

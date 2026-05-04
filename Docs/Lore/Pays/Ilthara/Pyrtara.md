@@ -1,3 +1,10 @@
+﻿---
+tags: [lore, pays, ilthara]
+type: lore
+status: drafted
+last_review: 2026-05-02
+needs_review_for: []
+---
 # Pyrtara — Le Royaume des Cendres Ardentes
 
 > *« À Pyrtara, on ne craint pas le volcan — on le respecte. Celui qui oublie la différence finit en cendres. »*
@@ -11,8 +18,8 @@
 |---|---|
 | **Continent** | Ilthara |
 | **Gouvernement** | Dictature militaire |
-| **Religion principale** | [[00_Systeme_Religieux\|Ignis Aeternum]] (Le Feu Éternel) |
-| **Religion secondaire** | [[00_Systeme_Religieux\|Lex Petra]] (La Loi de Pierre) |
+| **Religion principale** | [[Ignis Aeternum]] (Le Feu Éternel) |
+| **Religion secondaire** | [[Lex Petra]] (La Loi de Pierre) |
 | **Culture dominante** | Discipline militaire, survie en milieu volcanique, culte de la force |
 | **Histoire marquante** | La Grande Éruption |
 | **Ressources clés** | Obsidienne, soufre, métaux volcaniques, pierres ignées, cendres fertilisantes |
@@ -59,9 +66,9 @@ Le Haut Commandant actuel est **Varketh l'Indomptable**, un homme massif couvert
 
 ## Religion
 
-### [[00_Systeme_Religieux|Ignis Aeternum]] — Le Feu Éternel (religion officielle)
+### [[Ignis Aeternum]] — Le Feu Éternel (religion officielle)
 
-Les Pyrtariens vénèrent le feu comme la lumière primordiale de l'existence. Pour eux, Eldoria — la flamme divine — brûle au cœur de chaque volcan, et les éruptions sont sa respiration. Le feu n'est ni bon ni mauvais ; il est pur. Il consume le faible et forge le fort.
+Les Pyrtariens vénèrent le feu comme la lumière primordiale de l'existence. Selon la lecture pyrtarienne d'Ignis Aeternum, Eldoria — la flamme première — brûlerait au cœur de chaque volcan, et les éruptions seraient sa respiration. Cette identification entre Eldoria et l'activité volcanique est une lecture locale, plus dévotionnelle que doctrinale ; les écoles d'Ignis Aeternum d'autres continents la traitent diversement. Pour les fidèles de Pyrtara, le feu n'est ni bon ni mauvais ; il est pur — et l'on récite qu'il consume le faible et forge le fort.
 
 Les rituels d'Ignis Aeternum sont centrés sur la forge :
 
@@ -70,9 +77,9 @@ Les rituels d'Ignis Aeternum sont centrés sur la forge :
 - **L'Épreuve de la Flamme** (passage à l'âge adulte) — Chaque jeune de quinze ans doit marcher pieds nus sur un lit de braises. Ceux qui traversent sans crier sont accueillis comme adultes ; ceux qui crient doivent recommencer.
 - **La Forge du Serment** — Tout engagement solennel (mariage, promotion militaire, alliance) est scellé en plongeant les mains dans un brasier rituel. Les prêtres appliquent un onguent protecteur, mais les brûlures légères sont considérées comme le sceau d'Eldoria.
 
-### [[00_Systeme_Religieux|Lex Petra]] — La Loi de Pierre (religion secondaire)
+### [[Lex Petra]] — La Loi de Pierre (religion secondaire)
 
-Parmi les rangs militaires les plus élevés, la Lex Petra gagne du terrain. L'idée que la loi est aussi immuable et fondamentale que la pierre résonne avec la discipline militaire de Pyrtara. Les officiers supérieurs y voient un complément à Ignis Aeternum : le feu forge, mais la pierre donne forme. Certains Centurions rendent désormais la justice sur des blocs d'obsidienne polie, combinant les deux traditions.
+Parmi les rangs militaires les plus élevés, la Lex Petra gagne du terrain. L'idée que la loi soit aussi immuable et fondamentale que la pierre résonne avec la discipline militaire de Pyrtara. Plusieurs officiers supérieurs en font le complément naturel d'Ignis Aeternum : le feu forge, la pierre donne forme. Certains Centurions rendent désormais la justice sur des blocs d'obsidienne polie, articulant les deux traditions sans les confondre.
 
 ---
 
@@ -122,7 +129,7 @@ Région méridionale la plus récente, née d'une coulée de lave massive qui a 
 **Histoire :** Thaldris, qui rebâtit Pyrtara après la Grande Éruption, choisit délibérément d'installer la capitale là où le désastre avait été le plus grand — au pied du Mont Pyralis lui-même. Ses généraux protestèrent : la position était intenable en cas de nouvelle éruption. Thaldris répondit que c'était précisément l'idée. Une capitale qu'on ne peut pas défendre contre un volcan apprend à ses habitants que la vie entière est un combat qu'on finit par perdre — et que cela n'est pas une raison de reculer. La Citadelle fut construite avec la lave solidifiée de la Grande Éruption elle-même.
 - Population : Grande ville
 - Région : Ilyndor
-- Particularités : Siège du Haut Commandant. Arène des Cendres. Forge Souveraine d'[[00_Systeme_Religieux|Ignis Aeternum]].
+- Particularités : Siège du Haut Commandant. Arène des Cendres. Forge Souveraine d'[[Ignis Aeternum]].
 
 ### Thyndor — Ville
 *Ville-forteresse perchée sur un éperon de basalte surplombant les mines d'obsidienne de Davoria, Thyndor est le centre de production d'armes le plus important de Pyrtara. Le cliquetis des marteaux sur l'obsidienne résonne jour et nuit, et la lueur des forges fait briller la ville d'un rouge permanent dans l'obscurité. Les meilleurs Forgerons de Guerre du pays y résident.*
@@ -212,6 +219,53 @@ Région méridionale la plus récente, née d'une coulée de lave massive qui a 
 
 ## Secrets et intrigues
 
-- **Le Cœur du Mont Pyralis** : Les Guetteurs de Feu de Vyldor ont détecté une anomalie au cœur du volcan — une pulsation régulière qui ne correspond à aucun phénomène géologique connu. Certains croient qu'Eldoria, la flamme divine d'Ignis Aeternum, est littéralement emprisonnée dans le volcan. Le Haut Commandant a envoyé une expédition secrète dans les cavernes profondes. Elle n'est pas revenue.
-- **La Faction de l'Obsidienne** : Un groupe d'officiers supérieurs, mené par la générale Sylthra, conspire secrètement pour renverser Varketh et transformer Pyrtara en une puissance expansionniste. Ils croient que la discipline militaire de Pyrtara est gaspillée en simple survie et rêvent de conquérir les territoires fertiles des pays voisins.
-- **Les Enfants des Cendres** : Dans les profondeurs de Kethorin, des enfants nés sur les terres volcaniques les plus récentes manifestent une résistance inhabituelle au feu — certains peuvent toucher des braises sans se brûler. Les prêtres d'[[00_Systeme_Religieux|Ignis Aeternum]] y voient un signe divin ; les médecins militaires y voient une mutation inquiétante. Personne ne sait ce que cela signifie réellement.
+- **Le Cœur du Mont Pyralis** : Les Guetteurs de Feu de Vyldor ont détecté une anomalie au cœur du volcan — une pulsation régulière qu'aucun phénomène géologique connu ne suffit à expliquer. Selon certains fidèles d'Ignis Aeternum, Eldoria même y serait littéralement présente ; selon les Guetteurs eux-mêmes, l'observation reste à corroborer. Le Haut Commandant a envoyé une expédition secrète dans les cavernes profondes. Elle n'est pas revenue.
+- **La Faction de l'Obsidienne** : Un groupe d'officiers supérieurs, mené par la générale Sylthra, conspire secrètement pour renverser Varketh et transformer Pyrtara en une puissance expansionniste. Ils estiment que la discipline militaire de Pyrtara est gaspillée en simple survie et rêvent de conquérir les territoires fertiles des pays voisins.
+- **Les Enfants des Cendres** : Dans les profondeurs de Kethorin, des enfants nés sur les terres volcaniques les plus récentes manifestent une résistance inhabituelle au feu — certains peuvent toucher des braises sans se brûler. Les prêtres d'[[Ignis Aeternum]] y lisent un signe d'Eldoria ; les médecins militaires y observent une variation biologique qu'ils peinent à expliquer. Aucune lecture n'est tranchée.
+
+---
+
+## Données canoniques (source : Access)
+
+> Identité importée verbatim depuis `AccessExport/Pays.csv`. Sert de référence canonique au système Access historique.
+
+### Identité
+
+| Champ | Valeur |
+|-------|--------|
+| **N° Pays (CSV)** | 17 |
+| **Nom CSV** | Pyrtara |
+| **Continent (CSV)** | Ilthara (N°10) |
+| **Gouvernement** | Dictature militaire |
+| **Culture** | Culture militaire et de survie, où la force et l'endurance sont hautement valorisées. |
+| **Histoire marquante** | La Grande Éruption, un cataclysme qui a remodelé le paysage de Pyrtara, forçant ses habitants à s'adapter ou périr. |
+| **Description CSV** | Une région volcanique et dangereuse, connue pour ses guerriers endurcis et ses coutumes de survie rigoureuses. |
+
+### Régions canoniques (source : Region.csv)
+
+- **Davoria** (R81) — *stub : description non renseignée dans le CSV*
+- **Brevana** (R82) — *stub : description non renseignée dans le CSV*
+- **Eleris** (R83) — *stub : description non renseignée dans le CSV*
+- **Ilyndor** (R84) — *stub : description non renseignée dans le CSV*
+- **Kethorin** (R85) — *stub : description non renseignée dans le CSV*
+
+### Villes canoniques (source : Ville.csv)
+
+Total : **13 villes/villages** réparties sur **5 régions**.
+
+| Ville | Région | Type |
+|-------|--------|------|
+| Thyndor | Davoria | Ville |
+| Rydelith | Davoria | Village |
+| Taldorn | Davoria | Village |
+| Valdyn | Brevana | Ville |
+| Theralor | Brevana | Village |
+| Keldros | Eleris | Ville |
+| Mendris | Eleris | Village |
+| Vyldor | Eleris | Village |
+| Ilyndar | Ilyndor | Capitale |
+| Velorn | Ilyndor | Village |
+| Hetholin | Kethorin | Ville |
+| Kyldar | Kethorin | Village |
+| Nymiris | Kethorin | Village |
+

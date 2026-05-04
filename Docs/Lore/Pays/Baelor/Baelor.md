@@ -1,3 +1,10 @@
+﻿---
+tags: [lore, pays, baelor]
+type: lore
+status: drafted
+last_review: 2026-05-02
+needs_review_for: []
+---
 # Baelor — La Défense du Monastère de Kethros
 
 > *« Le silence est notre prière. Le poing est notre réponse. Nous ne parlons pas parce que les mots sont faibles — nous agissons parce que les actes sont éternels. »*
@@ -12,8 +19,8 @@
 | **Localisation** | Île-nation |
 | **Numéro** | 5 |
 | **Gouvernement** | Théocratie monastique |
-| **Religion principale** | [[00_Systeme_Religieux\|Somnium Vigil]] (La Veille des Rêves) |
-| **Religion secondaire** | [[00_Systeme_Religieux\|Taciti]] (Les Silencieux) |
+| **Religion principale** | [[Somnium Vigil]] (La Veille des Rêves) |
+| **Religion secondaire** | [[Taciti]] (Les Silencieux) |
 | **Culture dominante** | Moines-guerriers, monastères fortifiés, discipline absolue |
 | **Histoire marquante** | La Défense du Monastère de Kethros |
 | **Ressources clés** | Encens rare, parchemins enluminés, herbes de méditation, sel marin, pierre noire |
@@ -57,18 +64,18 @@ Toute communication officielle se fait en langage des signes baelorien — un sy
 
 ## Religion
 
-### [[00_Systeme_Religieux|Somnium Vigil]] — La Veille des Rêves (religion dominante)
+### [[Somnium Vigil]] — La Veille des Rêves (religion dominante)
 
-Les moines de Baelor croient que les rêves sont des fenêtres vers la vérité. Somnix envoie des visions pendant le sommeil, Realis ancre ces visions dans le réel, et Aurion illumine leur signification. La pratique de la méditation profonde — aux frontières du sommeil éveillé — est le cœur de la vie monastique.
+Les moines de Baelor tiennent les rêves pour des fenêtres vers ce qu'ils nomment, sans plus de précision, *la vérité*. Dans leur lecture liturgique, Somnix se laisse percevoir à travers les visions du sommeil, Realis dans ce qui ancre ces visions au réel, et Aurion dans ce qui en éclaire la signification — sans qu'il soit jamais affirmé que ces Célestes "agissent" sur le rêveur. La pratique de la méditation profonde — aux frontières du sommeil éveillé — est le cœur de la vie monastique, et ce qui s'y rencontre n'a pas, dans la doctrine de Baelor, à être nommé pour être réel.
 
 **Pratiques centrales :**
 - **La Veille** : Les moines dorment très peu — quatre heures par nuit. Le reste est consacré à la méditation, l'entraînement et le travail. Ils croient que la frontière entre veille et sommeil est le lieu où Somnix parle le plus clairement.
 - **Le Rêve Partagé** : Lors de rituels spéciaux, les moines entrent en méditation collective et partagent un même rêve. Ces rêves communautaires guident les décisions de l'île.
 - **Le Journal Silencieux** : Chaque moine consigne ses rêves dans un journal enluminé — la seule forme d'écriture pratiquée abondamment à Baelor.
 
-### [[00_Systeme_Religieux|Taciti]] — Les Silencieux (religion secondaire)
+### [[Taciti]] — Les Silencieux (religion secondaire)
 
-Le culte du silence absolu est la marque distinctive de Baelor. Les Silencieux croient que la voix divine ne peut être entendue que dans le silence le plus total. Parler est un acte de vanité — imposer ses pensées au monde. Le silence est un acte d'humilité — écouter le monde.
+Le culte du silence absolu est la marque distinctive de Baelor. Les Silencieux tiennent que ce qu'ils nomment *la voix divine* ne peut se laisser entendre que dans le silence le plus total. Parler est, selon eux, un acte de vanité — imposer ses pensées au monde. Le silence est, selon la même lecture, un acte d'humilité — écouter ce qui résonne sans qu'on le force à se nommer.
 
 Les moines les plus dévots des Taciti n'émettent aucun son — pas même en toussant, en mangeant ou en se blessant. Ce contrôle absolu du corps est le résultat de décennies d'entraînement.
 
@@ -126,3 +133,35 @@ L'île entière constitue une seule région. Des falaises noires au nord, des pl
 - **La Salle Scellée** : Sous le monastère de Baeloris, une salle est scellée depuis la fondation de l'île. Les abbés se transmettent la connaissance de son existence mais personne ne l'a jamais ouverte. La tradition dit qu'elle contient "la voix de Somnix lui-même" — un son si pur qu'il rendrait fou quiconque n'est pas préparé.
 - **Le Moine Parlant** : Parmi les moines, l'un d'eux brise secrètement son vœu de silence. Chaque nuit, dans les profondeurs du monastère, il murmure des prières dans une langue inconnue. Les autres moines le suspectent mais ne l'ont pas encore identifié. Certains pensent qu'il est possédé — d'autres qu'il est prophète.
 - **L'Arme Ultime** : Les maîtres de discipline de Baelor enseignent un art martial secret aux seuls moines de rang supérieur — une technique capable de tuer par le son, ou plutôt par l'absence de son. En créant un vide acoustique parfait autour de la tête d'un adversaire, le moine provoque une désorientation fatale. Cette technique n'a été utilisée que trois fois dans l'histoire de Baelor.
+
+---
+
+## Données canoniques (source : Access)
+
+> Identité importée verbatim depuis `AccessExport/Pays.csv`. Sert de référence canonique au système Access historique.
+
+### Identité
+
+| Champ | Valeur |
+|-------|--------|
+| **N° Pays (CSV)** | 5 |
+| **Nom CSV** | BaelorPays |
+| **Continent (CSV)** | Baelor (N°6) |
+| **Gouvernement** | Théocratie monastique |
+| **Culture** | Culture austère et ascétique, centrée sur la méditation, l'entraînement martial, et la contemplation. |
+| **Histoire marquante** | La défense héroïque du monastère de Kethros contre une armée de pirates, où les moines ont tenu bon pendant des semaines. |
+| **Description CSV** | Une petite île montagneuse, isolée, connue pour ses moines-guerriers et ses monastères fortifiés. |
+
+### Régions canoniques (source : Region.csv)
+
+- **BaelorRegion** (R140) — *stub : description non renseignée dans le CSV*
+
+### Villes canoniques (source : Ville.csv)
+
+Total : **2 villes/villages** réparties sur **1 régions**.
+
+| Ville | Région | Type |
+|-------|--------|------|
+| Baeloris | BaelorRegion | Village |
+| Thyldris | BaelorRegion | Village |
+

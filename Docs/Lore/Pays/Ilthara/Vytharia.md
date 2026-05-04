@@ -1,3 +1,10 @@
+﻿---
+tags: [lore, pays, ilthara]
+type: lore
+status: drafted
+last_review: 2026-05-02
+needs_review_for: []
+---
 # Vytharia — Le Royaume au-delà du Voile
 
 > *« À Vytharia, ne crois jamais ce que tu vois. Crois ce que tu rêves. »*
@@ -37,7 +44,7 @@ Pendant des siècles, Vytharia fut un lieu de liberté absolue — chacun pouvai
 
 Face à l'effondrement de la société, les sept illusionnistes les plus puissants de Vytharia se réunirent et accomplirent un acte de magie sans précédent : ils tissèrent le Voile du Rêve — une barrière semi-perméable entre le monde éveillé et le monde onirique. Le Voile ne supprima pas les illusions mais les régula, créant un cadre où le rêve et la réalité coexistent harmonieusement.
 
-Les sept illusionnistes devinrent les premiers membres de l'Oligarchie des Voilés — un gouvernement de mystiques qui maintient le Voile et empêche le chaos de revenir. Depuis ce jour, Vytharia est un lieu où le rêve est réel, mais contrôlé ; où les illusions sont partout, mais ordonnées ; et où la frontière entre ce qui est et ce qui semble être est une question de perspective.
+Les sept illusionnistes devinrent les premiers membres de l'Oligarchie des Voilés — un gouvernement de mystiques chargé de maintenir le Voile et d'empêcher le chaos de revenir. Depuis ce jour, Vytharia est, selon ses habitants, un lieu où le rêve a force de réalité tout en restant contrôlé ; où les illusions sont partout, mais ordonnées ; et où la frontière entre ce qui est et ce qui semble être est, comme aiment à le dire les Voilés, une question de perspective.
 
 ---
 
@@ -57,7 +64,7 @@ L'identité des membres actuels de l'Oligarchie est un secret. Certains murmuren
 
 ### Somnium Vigil — La Veille du Rêve (religion officielle)
 
-Les Vythariens croient que les rêves ne sont pas des fantaisies du cerveau endormi mais des fenêtres sur d'autres réalités. Somnix, Realis et Aurion — les trois aspects du divin selon Somnium Vigil — représentent respectivement le rêve, la réalité et la lumière qui les relie.
+Selon la lecture vytharienne de Somnium Vigil, les rêves ne sont pas des fantaisies du cerveau endormi mais des fenêtres sur d'autres réalités. Somnix, Realis et Aurion — les trois figures principales du culte selon Somnium Vigil — y sont portées comme le rêve, la réalité et la lumière qui les relie. Les Noctari de Vytharia, bien que partageant la même Tradition des Choses Cachées, lisent ces figures différemment et n'accordent pas le même statut au Voile.
 
 Les rituels sont profondément oniriques :
 
@@ -68,7 +75,7 @@ Les rituels sont profondément oniriques :
 
 ### Noctari — Les Enfants de la Nuit (religion secondaire)
 
-Les adeptes de Noctari en Vytharia croient que la vérité ultime se cache dans l'obscurité la plus profonde — au-delà même du rêve. Pour eux, le Voile du Rêve est un voile de mensonges supplémentaire, et seule l'obscurité totale permet de voir la réalité fondamentale. Les Noctari de Vytharia pratiquent des retraites dans des cavernes absolument sombres, parfois pendant des semaines, recherchant des visions qui transcendent aussi bien le rêve que la veille. L'Oligarchie les tolère mais les surveille de près.
+Pour les Noctari de Vytharia, ce que la doctrine vytharienne nomme "vérité ultime" se trouverait dans l'obscurité la plus profonde — au-delà même du rêve. Selon leur lecture, le Voile du Rêve serait un voile supplémentaire, et seule l'obscurité totale permettrait d'approcher ce qu'ils tiennent pour la réalité fondamentale. Les Noctari de Vytharia pratiquent des retraites dans des cavernes absolument sombres, parfois pendant des semaines, recherchant des visions qui transcendent aussi bien le rêve que la veille. Cette lecture est en désaccord direct avec celle des Voilés sur la nature même du Voile, mais les deux écoles partagent la Tradition des Choses Cachées comme souche commune. L'Oligarchie les tolère mais les surveille de près.
 
 ---
 
@@ -162,7 +169,7 @@ Région méridionale baignée d'une brume perpétuelle, Gelinar est le domaine d
 | **Gryndor** | Fascination réciproque | Les savants de Gryndor veulent comprendre le Voile ; les Voilés de Vytharia veulent documenter leurs rêves. Les échanges sont riches mais prudents. |
 | **Ackerna** | Méfiance mutuelle | Les esprits de la nature d'Ackerna réagissent mal aux illusions de Vytharia. Les druides considèrent le Voile comme une distorsion dangereuse du monde naturel. |
 | **Lythar** | Curiosité distante | Les nomades de Lythar traversent parfois Vytharia et rapportent des histoires extravagantes. Ils sont fascinés mais ne s'attardent jamais. |
-| **Drakora** | Hostilité voilée | Les dragons de Drakora sont insensibles aux illusions, ce qui rend Vytharia vulnérable face à eux. Les deux nations se traitent avec une politesse glaciale. |
+| **Drakora** | Hostilité voilée | Les dragons de Drakora sembleraient peu sensibles aux illusions vytharies — un fait que les deux nations interprètent différemment, mais qui rend Vytharia mal à l'aise face à eux. Les relations se tiennent à une politesse glaciale. |
 | **Haldria** | Respect prudent | Les astrologues de Haldria et les mystiques de Vytharia partagent un intérêt pour les forces invisibles, mais leurs méthodes sont radicalement différentes. |
 
 ---
@@ -173,3 +180,43 @@ Région méridionale baignée d'une brume perpétuelle, Gelinar est le domaine d
 - **Les Cauchemars Éveillés** : Depuis quelques mois, des habitants de Brystalis se réveillent avec des blessures physiques correspondant à des cauchemars qu'ils ne se souviennent pas avoir faits. Les Veilleurs enquêtent mais ne trouvent aucune explication. La rumeur se répand que le Voile se déchire — non pas en un seul point, mais partout à la fois, comme un tissu qui s'effiloche.
 - **Le Lac des Rêves** : Le Lac des Rêves au centre d'Ilthara serait la source du Voile du Rêve. Une faction au sein de l'Oligarchie veut envoyer une expédition au Lac pour renforcer le Voile de l'intérieur. Une autre faction s'y oppose, craignant que toute manipulation directe ne provoque un effondrement catastrophique. La tension entre les deux factions menace de briser l'unité de l'Oligarchie.
 - **L'Artisan des Cauchemars** : À Zaralith, un Noctari connu sous le nom de « L'Artisan » aurait développé la capacité de créer des cauchemars sur commande et de les injecter dans l'esprit de victimes endormies. Si cette rumeur est vraie, c'est l'arme la plus terrifiante jamais conçue en Vytharia — et quelqu'un, quelque part, l'utilise déjà.
+
+---
+
+## Données canoniques (source : Access)
+
+> Identité importée verbatim depuis `AccessExport/Pays.csv`. Sert de référence canonique au système Access historique.
+
+### Identité
+
+| Champ | Valeur |
+|-------|--------|
+| **N° Pays (CSV)** | 19 |
+| **Nom CSV** | Vytharia |
+| **Continent (CSV)** | Ilthara (N°10) |
+| **Gouvernement** | Oligarchie mystique |
+| **Culture** | Culture mystique et ésotérique, avec une grande importance accordée aux rêves et aux visions. |
+| **Histoire marquante** | Le Voile du Rêve, un événement où une vague de rêves partagés a traversé Vytharia, influençant profondément la culture et les croyances de ses habitants. |
+| **Description CSV** | Un pays mystérieux, réputé pour ses illusionnistes et ses mystiques, où la réalité et le rêve semblent souvent se confondre. |
+
+### Régions canoniques (source : Region.csv)
+
+- **Brystal** (R90) — *stub : description non renseignée dans le CSV*
+- **Nectaris** (R91) — *stub : description non renseignée dans le CSV*
+- **Cystara** (R92) — *stub : description non renseignée dans le CSV*
+- **Gelinar** (R93) — *stub : description non renseignée dans le CSV*
+
+### Villes canoniques (source : Ville.csv)
+
+Total : **7 villes/villages** réparties sur **4 régions**.
+
+| Ville | Région | Type |
+|-------|--------|------|
+| Brystalis | Brystal | Capitale |
+| Zylor | Nectaris | Village |
+| Nectoria | Nectaris | Ville |
+| Velthorin | Cystara | Village |
+| Zaralith | Cystara | Village |
+| Mythoria | Gelinar | Ville |
+| Kaloria | Gelinar | Village |
+

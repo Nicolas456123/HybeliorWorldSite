@@ -1,3 +1,10 @@
+﻿---
+tags: [lore, pays, onara]
+type: lore
+status: drafted
+last_review: 2026-05-02
+needs_review_for: []
+---
 # Mosrack — La Guerre des Cent-Jours
 
 > *« La paix est un luxe que seuls les faibles s'offrent. La guerre est une nécessité que seuls les forts comprennent. Mosrack ne cherche pas la guerre — Mosrack EST la guerre. »*
@@ -57,7 +64,7 @@ Le système politique de Mosrack est brutal et efficace :
 
 ### Lex Petra — La Loi de la Pierre (religion dominante)
 
-Les Mosrackiens ont adopté Lex Petra d'une manière particulière : ils ne vénèrent pas la pierre comme élément naturel, mais comme **matériau brut** à transformer. Terranu est le dieu qui a donné le minerai, Gravitas est la force qui forge l'acier, Judicar est le juge qui sépare le fort du faible. La nature existe pour être exploitée — telle est la loi.
+Les Mosrackiens ont adopté Lex Petra d'une manière particulière : ils ne vénèrent pas la pierre comme élément naturel, mais comme **matériau brut** à transformer. Selon la lecture mosrackienne, Terranu donne le minerai, Gravitas est la force qui forge l'acier, Judicar tranche entre le fort et le faible. La nature existe pour être exploitée — telle est la loi, telle qu'elle est lue ici. Les théologiens d'Altram et d'Iskara, qui se réclament de la même Lex Petra, considèrent cette lecture comme un détournement de la doctrine du serment-témoin vers une doctrine de l'exploitation.
 
 **Pratiques centrales :**
 - **Le Serment du Marteau** : Tout soldat mosrackien prête serment en frappant une enclume. Le son du métal scelle l'engagement.
@@ -213,3 +220,54 @@ Côte sud-ouest, seul accès maritime de Mosrack. Velithar abrite les chantiers 
 - **Le Projet Leviathan** : Le Directoire finance en secret la construction d'une machine de guerre colossale — un engin amphibie capable de traverser les mers et de débarquer sur n'importe quelle côte. Le projet est si coûteux qu'il prive les régions civiles de ressources, provoquant des famines discrètes.
 - **Le Cinquième Général** : L'un des cinq membres du Directoire est un agent infiltré d'une puissance étrangère. Le Grand Stratège le soupçonne mais ne sait pas lequel — et l'accuser à tort déclencherait une guerre civile.
 - **Les Mines de Reldarck** : Les mineurs les plus profonds ont découvert quelque chose dans la roche — non pas du minerai, mais des **os**. Des ossements gigantesques, appartenant à une créature si grande que le squelette s'étend sur des centaines de mètres. Le Directoire a classé la découverte secrète, mais des rumeurs filtrent.
+
+---
+
+## Données canoniques (source : Access)
+
+> Identité importée verbatim depuis `AccessExport/Pays.csv`. Sert de référence canonique au système Access historique.
+
+### Identité
+
+| Champ | Valeur |
+|-------|--------|
+| **N° Pays (CSV)** | 2 |
+| **Nom CSV** | Mosrack |
+| **Continent (CSV)** | Onara (N°14) |
+| **Gouvernement** | Oligarchie militaire |
+| **Culture** | Culture militaire et industrielle, avec une grande importance accordée aux ingénieurs et aux inventeurs. |
+| **Histoire marquante** | La guerre des Cent-Jours contre Tyndara, où Mosrack a repoussé une invasion grâce à ses machines de guerre. |
+| **Description CSV** | Une nation industrielle avec de grandes cités fortifiées, connue pour ses machines de guerre et son architecture imposante. |
+
+### Régions canoniques (source : Region.csv)
+
+- **Camord** (R10) — *stub : description non renseignée dans le CSV*
+- **Fugnord** (R11) — *stub : description non renseignée dans le CSV*
+- **Mondack** (R12) — *stub : description non renseignée dans le CSV*
+- **Nosford** (R13) — *stub : description non renseignée dans le CSV*
+- **Ragnack** (R14) — *stub : description non renseignée dans le CSV*
+- **Toreck** (R15) — *stub : description non renseignée dans le CSV*
+- **Calyndor** (R116) — *stub : description non renseignée dans le CSV*
+- **Valdran** (R117) — *stub : description non renseignée dans le CSV*
+- **Velithar** (R118) — *stub : description non renseignée dans le CSV*
+
+### Villes canoniques (source : Ville.csv)
+
+Total : **13 villes/villages** réparties sur **9 régions**.
+
+| Ville | Région | Type |
+|-------|--------|------|
+| Cumulgord | Camord | ? |
+| Ausford | Fugnord | ? |
+| Frostmar | Fugnord | Village |
+| Kelthor | Fugnord | Village |
+| Thrymar | Fugnord | Village |
+| Vorneth | Fugnord | Village |
+| Dyrnathor | Fugnord | Village |
+| Myrklor | Fugnord | Village |
+| Mangord | Mondack | ? |
+| Mordock | Mondack | ? |
+| Reldarck | Nosford | ? |
+| Ramseck | Ragnack | ? |
+| Folgrad | Toreck | Capitale |
+

@@ -1,72 +1,91 @@
 /**
  * Lore Reader — ouvre un modal pour lire les fichiers .md des nations
- * Sources: /lore/Pays/<continent>/<file>.md et /lore/Histoires/<continent>/<file>_Histoires.md
+ * Sources: /lore/Pays/<continent>/<file>.md et /lore/Histoires/<continent>/<file>.md
+ *
+ * Note: Le découpage continent ↔ nation reflète la structure réelle du miroir
+ * Docs/Lore/ après refonte 2026 (D-LORE-NATIONS-CHEVAL : Iskara→Alkaran,
+ * Myrtam→Onara, Skaldoria→Ulinor, Thalmaris→Evertia, Haldria→Endora).
+ * Les fichiers Histoires/ n'utilisent PAS le suffixe `_Histoires` — c'est
+ * juste `<Nation>.md` au même nom que dans Pays/.
  */
 
 const NATIONS = {
     // Alkaran
-    'Altram':    { continent: 'Alkaran', pays: 'Pays/Alkaran/Altram.md',    histoires: 'Histoires/Alkaran/Altram_Histoires.md' },
-    'Torkam':    { continent: 'Alkaran', pays: 'Pays/Alkaran/Torkam.md',    histoires: 'Histoires/Alkaran/Torkam_Histoires.md' },
-    'Myrtam':    { continent: 'Alkaran', pays: 'Pays/Alkaran/Myrtam.md',    histoires: 'Histoires/Alkaran/Myrtam_Histoires.md' },
-    'Skaldoria': { continent: 'Alkaran', pays: 'Pays/Alkaran/Skaldoria.md', histoires: 'Histoires/Alkaran/Skaldoria_Histoires.md' },
+    'Altram':    { continent: 'Alkaran', pays: 'Pays/Alkaran/Altram.md',    histoires: 'Histoires/Alkaran/Altram.md' },
+    'Torkam':    { continent: 'Alkaran', pays: 'Pays/Alkaran/Torkam.md',    histoires: 'Histoires/Alkaran/Torkam.md' },
+    'Iskara':    { continent: 'Alkaran', pays: 'Pays/Alkaran/Iskara.md',    histoires: 'Histoires/Alkaran/Iskara.md' },
+    'Ferrath':   { continent: 'Alkaran', pays: 'Pays/Alkaran/Ferrath.md',   histoires: null },
 
     // Azoria
-    'Caeloria':               { continent: 'Azoria', pays: 'Pays/Azoria/Caeloria.md',           histoires: 'Histoires/Azoria/Caeloria_Histoires.md' },
-    'No Man\'s Land Azoria':  { continent: 'Azoria', pays: 'Pays/Azoria/NoMansLand_Azoria.md',  histoires: 'Histoires/Azoria/NoMansLand_Azoria_Histoires.md' },
+    'Caeloria':              { continent: 'Azoria', pays: 'Pays/Azoria/Caeloria.md',            histoires: 'Histoires/Azoria/Caeloria.md' },
+    'Azoral':                { continent: 'Azoria', pays: 'Pays/Azoria/Azoral.md',              histoires: null },
+    'Kethvar':               { continent: 'Azoria', pays: 'Pays/Azoria/Kethvar.md',             histoires: null },
+    'Solmaris':              { continent: 'Azoria', pays: 'Pays/Azoria/Solmaris.md',            histoires: null },
+    'No Man\'s Land Azoria': { continent: 'Azoria', pays: 'Pays/Azoria/No Man\'s Land Azoria.md', histoires: 'Histoires/Azoria/No Man\'s Land Azoria.md' },
 
     // Baelor
-    'Baelor': { continent: 'Baelor', pays: 'Pays/Baelor/Baelor.md', histoires: 'Histoires/Baelor/Baelor_Histoires.md' },
+    'Baelor': { continent: 'Baelor', pays: 'Pays/Baelor/Baelor.md', histoires: 'Histoires/Baelor/Baelor.md' },
 
     // Celethor
-    'Astravia':              { continent: 'Celethor', pays: 'Pays/Celethor/Astravia.md',            histoires: 'Histoires/Celethor/Astravia_Histoires.md' },
-    'Elarian':               { continent: 'Celethor', pays: 'Pays/Celethor/Elarian.md',             histoires: 'Histoires/Celethor/Elarian_Histoires.md' },
-    'Ryldor':                { continent: 'Celethor', pays: 'Pays/Celethor/Ryldor.md',              histoires: 'Histoires/Celethor/Ryldor_Histoires.md' },
-    'No Man\'s Land Celethor': { continent: 'Celethor', pays: 'Pays/Celethor/NoMansLand_Celethor.md', histoires: 'Histoires/Celethor/NoMansLand_Celethor_Histoires.md' },
+    'Astravia':                { continent: 'Celethor', pays: 'Pays/Celethor/Astravia.md',              histoires: 'Histoires/Celethor/Astravia.md' },
+    'Elarian':                 { continent: 'Celethor', pays: 'Pays/Celethor/Elarian.md',               histoires: 'Histoires/Celethor/Elarian.md' },
+    'Ryldor':                  { continent: 'Celethor', pays: 'Pays/Celethor/Ryldor.md',                histoires: 'Histoires/Celethor/Ryldor.md' },
+    'No Man\'s Land Celethor': { continent: 'Celethor', pays: 'Pays/Celethor/No Man\'s Land Celethor.md', histoires: 'Histoires/Celethor/No Man\'s Land Celethor.md' },
 
     // Cendara
-    'Cendara': { continent: 'Cendara', pays: 'Pays/Cendara/CendaraPays.md', histoires: 'Histoires/Cendara/CendaraPays_Histoires.md' },
+    'Cendara':  { continent: 'Cendara', pays: 'Pays/Cendara/Cendara.md',  histoires: 'Histoires/Cendara/Cendara.md' },
+    'Arkhen':   { continent: 'Cendara', pays: 'Pays/Cendara/Arkhen.md',   histoires: null },
+    'Pyrevane': { continent: 'Cendara', pays: 'Pays/Cendara/Pyrevane.md', histoires: null },
 
     // Cestra
-    'Cestra': { continent: 'Cestra', pays: 'Pays/Cestra/Cestra.md', histoires: 'Histoires/Cestra/Cestra_Histoires.md' },
-    'No Man\'s Land Cestra': { continent: 'Cestra', pays: 'Pays/Cestra/NoMansLand_Cestra.md', histoires: null },
+    'Cestra':                  { continent: 'Cestra', pays: null,                                     histoires: 'Histoires/Cestra/Cestra.md' },
+    'Noravia':                 { continent: 'Cestra', pays: 'Pays/Cestra/Noravia.md',                 histoires: null },
+    'No Man\'s Land Cestra':   { continent: 'Cestra', pays: 'Pays/Cestra/No Man\'s Land Cestra.md',   histoires: null },
 
     // Endora
-    'Avalor':    { continent: 'Endora', pays: 'Pays/Endora/Avalor.md',    histoires: 'Histoires/Endora/Avalor_Histoires.md' },
-    'Iskara':    { continent: 'Endora', pays: 'Pays/Endora/Iskara.md',    histoires: 'Histoires/Endora/Iskara_Histoires.md' },
-    'Thalmaris': { continent: 'Endora', pays: 'Pays/Endora/Thalmaris.md', histoires: 'Histoires/Endora/Thalmaris_Histoires.md' },
+    'Avalor':  { continent: 'Endora', pays: 'Pays/Endora/Avalor.md',  histoires: 'Histoires/Endora/Avalor.md' },
+    'Haldria': { continent: 'Endora', pays: 'Pays/Endora/Haldria.md', histoires: 'Histoires/Endora/Haldria.md' },
+    'Sanvara': { continent: 'Endora', pays: 'Pays/Endora/Sanvara.md', histoires: null },
 
     // Evertia
-    'Evertia': { continent: 'Evertia', pays: 'Pays/Evertia/EvertiaPays.md', histoires: 'Histoires/Evertia/EvertiaPays_Histoires.md' },
+    'Evertia':   { continent: 'Evertia', pays: 'Pays/Evertia/Evertia.md',   histoires: 'Histoires/Evertia/Evertia.md' },
+    'Thalmaris': { continent: 'Evertia', pays: 'Pays/Evertia/Thalmaris.md', histoires: 'Histoires/Evertia/Thalmaris.md' },
+    'Sylvara':   { continent: 'Evertia', pays: 'Pays/Evertia/Sylvara.md',   histoires: null },
 
     // Galenor
-    'Kharazir': { continent: 'Galenor', pays: 'Pays/Galenor/Kharazir.md', histoires: 'Histoires/Galenor/Kharazir_Histoires.md' },
-    'Lumasar':  { continent: 'Galenor', pays: 'Pays/Galenor/Lumasar.md',  histoires: 'Histoires/Galenor/Lumasar_Histoires.md' },
-    'Seraphia': { continent: 'Galenor', pays: 'Pays/Galenor/Seraphia.md', histoires: 'Histoires/Galenor/Seraphia_Histoires.md' },
-    'Solena':   { continent: 'Galenor', pays: 'Pays/Galenor/Solena.md',   histoires: 'Histoires/Galenor/Solena_Histoires.md' },
-    'Trinoria': { continent: 'Galenor', pays: 'Pays/Galenor/Trinoria.md', histoires: 'Histoires/Galenor/Trinoria_Histoires.md' },
-    'Valoria':  { continent: 'Galenor', pays: 'Pays/Galenor/Valoria.md',  histoires: 'Histoires/Galenor/Valoria_Histoires.md' },
-    'Ventera':  { continent: 'Galenor', pays: 'Pays/Galenor/Ventera.md',  histoires: 'Histoires/Galenor/Ventera_Histoires.md' },
+    'Kharazir': { continent: 'Galenor', pays: 'Pays/Galenor/Kharazir.md', histoires: 'Histoires/Galenor/Kharazir.md' },
+    'Lumasar':  { continent: 'Galenor', pays: 'Pays/Galenor/Lumasar.md',  histoires: 'Histoires/Galenor/Lumasar.md' },
+    'Seraphia': { continent: 'Galenor', pays: 'Pays/Galenor/Seraphia.md', histoires: 'Histoires/Galenor/Seraphia.md' },
+    'Solena':   { continent: 'Galenor', pays: 'Pays/Galenor/Solena.md',   histoires: 'Histoires/Galenor/Solena.md' },
+    'Trinoria': { continent: 'Galenor', pays: 'Pays/Galenor/Trinoria.md', histoires: 'Histoires/Galenor/Trinoria.md' },
+    'Valoria':  { continent: 'Galenor', pays: 'Pays/Galenor/Valoria.md',  histoires: 'Histoires/Galenor/Valoria.md' },
+    'Ventera':  { continent: 'Galenor', pays: 'Pays/Galenor/Ventera.md',  histoires: 'Histoires/Galenor/Ventera.md' },
 
     // Ilthara
-    'Ackerna':   { continent: 'Ilthara', pays: 'Pays/Ilthara/Ackerna.md',   histoires: 'Histoires/Ilthara/Ackerna_Histoires.md' },
-    'Drakora':   { continent: 'Ilthara', pays: 'Pays/Ilthara/Drakora.md',   histoires: 'Histoires/Ilthara/Drakora_Histoires.md' },
-    'Gryndor':   { continent: 'Ilthara', pays: 'Pays/Ilthara/Gryndor.md',   histoires: 'Histoires/Ilthara/Gryndor_Histoires.md' },
-    'Haldria':   { continent: 'Ilthara', pays: 'Pays/Ilthara/Haldria.md',   histoires: 'Histoires/Ilthara/Haldria_Histoires.md' },
-    'Lythar':    { continent: 'Ilthara', pays: 'Pays/Ilthara/Lythar.md',    histoires: 'Histoires/Ilthara/Lythar_Histoires.md' },
-    'Pyrtara':   { continent: 'Ilthara', pays: 'Pays/Ilthara/Pyrtara.md',   histoires: 'Histoires/Ilthara/Pyrtara_Histoires.md' },
-    'Sylthara':  { continent: 'Ilthara', pays: 'Pays/Ilthara/Sylthara.md',  histoires: 'Histoires/Ilthara/Sylthara_Histoires.md' },
-    'Vytharia':  { continent: 'Ilthara', pays: 'Pays/Ilthara/Vytharia.md',  histoires: 'Histoires/Ilthara/Vytharia_Histoires.md' },
-    'Warenthor': { continent: 'Ilthara', pays: 'Pays/Ilthara/Warenthor.md', histoires: 'Histoires/Ilthara/Warenthor_Histoires.md' },
+    'Ackerna':   { continent: 'Ilthara', pays: 'Pays/Ilthara/Ackerna.md',   histoires: 'Histoires/Ilthara/Ackerna.md' },
+    'Drakora':   { continent: 'Ilthara', pays: 'Pays/Ilthara/Drakora.md',   histoires: 'Histoires/Ilthara/Drakora.md' },
+    'Gryndor':   { continent: 'Ilthara', pays: 'Pays/Ilthara/Gryndor.md',   histoires: 'Histoires/Ilthara/Gryndor.md' },
+    'Lythar':    { continent: 'Ilthara', pays: 'Pays/Ilthara/Lythar.md',    histoires: 'Histoires/Ilthara/Lythar.md' },
+    'Pyrtara':   { continent: 'Ilthara', pays: 'Pays/Ilthara/Pyrtara.md',   histoires: 'Histoires/Ilthara/Pyrtara.md' },
+    'Sylthara':  { continent: 'Ilthara', pays: 'Pays/Ilthara/Sylthara.md',  histoires: 'Histoires/Ilthara/Sylthara.md' },
+    'Vytharia':  { continent: 'Ilthara', pays: 'Pays/Ilthara/Vytharia.md',  histoires: 'Histoires/Ilthara/Vytharia.md' },
+    'Warenthor': { continent: 'Ilthara', pays: 'Pays/Ilthara/Warenthor.md', histoires: 'Histoires/Ilthara/Warenthor.md' },
 
     // Nysaria
-    'Nysaria': { continent: 'Nysaria', pays: 'Pays/Nysaria/Nysaria.md', histoires: 'Histoires/Nysaria/Nysaria_Histoires.md' },
+    'Nysaria': { continent: 'Nysaria', pays: 'Pays/Nysaria/Nysaria.md', histoires: 'Histoires/Nysaria/Nysaria.md' },
+    'Lunasar': { continent: 'Nysaria', pays: 'Pays/Nysaria/Lunasar.md', histoires: null },
+    'Mirathi': { continent: 'Nysaria', pays: 'Pays/Nysaria/Mirathi.md', histoires: null },
 
     // Onara
-    'Mosrack': { continent: 'Onara', pays: 'Pays/Onara/Mosrack.md', histoires: 'Histoires/Onara/Mosrack_Histoires.md' },
-    'Tyndara': { continent: 'Onara', pays: 'Pays/Onara/Tyndara.md', histoires: 'Histoires/Onara/Tyndara_Histoires.md' },
+    'Mosrack': { continent: 'Onara', pays: 'Pays/Onara/Mosrack.md', histoires: 'Histoires/Onara/Mosrack.md' },
+    'Tyndara': { continent: 'Onara', pays: 'Pays/Onara/Tyndara.md', histoires: 'Histoires/Onara/Tyndara.md' },
+    'Myrtam':  { continent: 'Onara', pays: 'Pays/Onara/Myrtam.md',  histoires: 'Histoires/Onara/Myrtam.md' },
+    'Elarath': { continent: 'Onara', pays: 'Pays/Onara/Elarath.md', histoires: null },
 
     // Ulinor
-    'Ulinor': { continent: 'Ulinor', pays: 'Pays/Ulinor/UlinorPays.md', histoires: 'Histoires/Ulinor/UlinorPays_Histoires.md' },
+    'Ulinor':    { continent: 'Ulinor', pays: 'Pays/Ulinor/Ulinor.md',    histoires: 'Histoires/Ulinor/Ulinor.md' },
+    'Skaldoria': { continent: 'Ulinor', pays: 'Pays/Ulinor/Skaldoria.md', histoires: 'Histoires/Ulinor/Skaldoria.md' },
+    'Dhalvoria': { continent: 'Ulinor', pays: 'Pays/Ulinor/Dhalvoria.md', histoires: null },
 };
 
 // ── Modal state ──────────────────────────────────────────────

@@ -1,423 +1,376 @@
-<!-- ===== Système d'Abilities (GAS) ===== -->
+<!-- ===== Vue d'ensemble GAS ===== -->
 <div class="section-header" id="gas">
-    <h2>Système d'Abilities (GAS)</h2>
-    <span class="section-count">Gameplay Ability System · UE5.4</span>
+    <h2>Architecture GAS</h2>
+    <span class="section-count">Gameplay Ability System · UE 5.4</span>
 </div>
 
 <div class="codex-panel cyan-accent">
-    <div class="codex-label">Architecture du Gameplay Ability System</div>
+    <div class="codex-label">Fondations</div>
     <p>
-        Le combat d'Hybélior repose sur le <strong style="color:var(--cyan);">Gameplay Ability System</strong> d'Unreal Engine 5.4, étendu par des classes C++ spécialisées.
-        L'ensemble du pipeline — activation des abilities, application des effets, gestion des tags — est orchestré par un <strong style="color:var(--cyan);">AbilitySystemComponent</strong> personnalisé qui centralise le traitement des inputs, l'exécution par lots et le mapping des relations entre tags.
+        Le combat repose sur le <strong style="color:var(--cyan);">Gameplay Ability System</strong> d'Unreal 5.4, étendu par des classes C++ <code>HW</code>. Cette page décrit la <strong style="color:var(--cyan);">couche fondation</strong> : ASC, AttributeSet, Effects globaux, Réactions élémentaires, Tags. Les pages voisines détaillent les pipelines :
     </p>
     <p style="margin-bottom:0;">
-        Chaque ability dérive d'une classe de base enrichie qui expose une politique d'activation, un groupe d'activation et un accès direct aux données de combat du personnage.
+        Pipeline Ability (création/activation d'une ability, Tasks asynchrones), Pipeline Combo (combos, movesets, Maîtrise d'arme), Pipeline Mob (IA, spawn, pool). Cette factorisation évite les doublons.
     </p>
 </div>
 
 <div class="voie-list">
     <div class="voie-item">
         <span class="voie-name" style="color:var(--gold);">UHWAbilitySystemComponent</span>
-        <span class="voie-desc">ASC personnalisé. Gère le traitement des input tags pour lier les entrées joueur aux abilities, l'exécution par lots (ability batch execution) pour regrouper les activations réseau, et le mapping des relations entre tags via <strong style="color:var(--gold);">UHWAbilityTagRelationshipMapping</strong>.</span>
-        <span class="voie-tag">ASC · Input Tags · Batch</span>
+        <span class="voie-desc">ASC custom héritant de <code>UAbilitySystemComponent</code>. Route les inputs joueur vers les abilities via tags (<code>AbilityInputTagPressed/Released</code>), gère le batch RPC serveur (<code>ShouldDoServerAbilityRPCBatch → true</code> : utile pour les abilities à cycle court qui se terminent dans la même frame), et consulte le <code>UHWAbilityTagRelationshipMapping</code>.</span>
+        <span class="voie-tag">ASC · Input · Batch</span>
     </div>
     <div class="voie-item">
         <span class="voie-name" style="color:var(--gold);">UHWGameplayAbility</span>
-        <span class="voie-desc">Classe de base de toutes les abilities. Expose une <strong>ActivationPolicy</strong> (déclenchement on input, on spawn, on grant), un <strong>ActivationGroup</strong> (exclusivité entre abilities), et un accès aux données de combat du personnage porteur.</span>
-        <span class="voie-tag">Base Ability · Policy · Group</span>
-    </div>
-    <div class="voie-item">
-        <span class="voie-name" style="color:var(--gold);">UHWGameplayAbility_Dodge</span>
-        <span class="voie-desc">Ability spécialisée d'esquive. Gère les invincibility frames, la consommation d'endurance et le déplacement directionnel pendant l'esquive.</span>
-        <span class="voie-tag">Esquive · iFrames</span>
-    </div>
-    <div class="voie-item">
-        <span class="voie-name" style="color:var(--gold);">UHWGameplayAbility_FakeProjectile</span>
-        <span class="voie-desc">Ability de projectile non physique. Crée un <strong style="color:var(--gold);">UHWFakeProjectile</strong> pour les effets visuels et l'application de dégâts sans simulation balistique complète.</span>
-        <span class="voie-tag">Projectile · Visuel</span>
-    </div>
-    <div class="voie-item">
-        <span class="voie-name" style="color:var(--gold);">UHWGameplayAbility_TraceSteps</span>
-        <span class="voie-desc">Ability à détection par traces successives. Permet de détecter les cibles à chaque pas d'animation, utile pour les attaques en mouvement et les frappes en chaîne.</span>
-        <span class="voie-tag">Trace · Steps</span>
-    </div>
-    <div class="voie-item">
-        <span class="voie-name" style="color:var(--gold);">UHWGameplayAbilitySet</span>
-        <span class="voie-desc">DataAsset conteneur qui regroupe et octroie en une seule opération un ensemble d'abilities, d'effets de gameplay et d'attribute sets à un personnage.</span>
-        <span class="voie-tag">DataAsset · Grant</span>
+        <span class="voie-desc">Classe de base de toutes les abilities. Expose <code>EHWAbilityActivationPolicy</code> (OnInputTriggered, WhileInputActive, Passive) et <code>EHWAbilityActivationGroup</code> (Independent, Exclusive_Replaceable, Exclusive_Blocking). Détails création/activation : voir Pipeline Ability.</span>
+        <span class="voie-tag">Base · Policy · Group</span>
     </div>
     <div class="voie-item">
         <span class="voie-name" style="color:var(--gold);">UHWAbilityTagRelationshipMapping</span>
-        <span class="voie-desc">Asset de données définissant les relations entre tags : quelles abilities bloquent, annulent ou requièrent d'autres tags pour s'activer. Centralise les règles d'activation sans coder en dur les dépendances.</span>
-        <span class="voie-tag">Tags · Règles</span>
+        <span class="voie-desc">DataAsset déclarant les relations entre tags : <code>AbilityTagsToBlock</code>, <code>AbilityTagsToCancel</code>, <code>ActivationRequiredTags</code>, <code>ActivationBlockedTags</code>. Lookup O(n) — acceptable jusqu'à ~50 entrées. Centralise les règles d'activation sans coder en dur les dépendances.</span>
+        <span class="voie-tag">DataAsset · Règles</span>
     </div>
     <div class="voie-item">
-        <span class="voie-name" style="color:var(--gold);">UHWGameplayTags</span>
-        <span class="voie-desc">Gestionnaire central des tags de gameplay. Déclare et expose tous les tags natifs utilisés par le système de combat : états, éléments, types d'attaque, conditions, etc.</span>
-        <span class="voie-tag">Tags · Manager</span>
+        <span class="voie-name" style="color:var(--gold);">UHWGameplayAbilitySet</span>
+        <span class="voie-desc">DataAsset de bundle. Octroie en une opération un ensemble d'abilities, d'effets de gameplay et d'attribute sets à un personnage. <code>FHWAbilitySet_GrantedHandles::TakeFromAbilitySystem()</code> révoque tous les grants d'un coup.</span>
+        <span class="voie-tag">DataAsset · Grant</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name" style="color:var(--gold);">FHWGameplayTags</span>
+        <span class="voie-desc">Singleton C++ initialisé par <code>UHWAssetManager::StartInitialLoading</code>. Déclare 93 tags natifs répartis en 17 catégories (inputs, états, dégâts, réactions, armes, ressources, UI). API <code>FindTagByString(string, bMatchPartialString)</code>.</span>
+        <span class="voie-tag">Tags · Singleton</span>
     </div>
 </div>
 
-<!-- ===== Attributs de Combat ===== -->
-<div class="section-header" id="attributs">
-    <h2>Attributs de Combat</h2>
-    <span class="section-count">18 attributs · 2 transitoires</span>
+<!-- ===== Combat Attribute Set ===== -->
+<div class="section-header" id="attributeset">
+    <h2>Combat Attribute Set</h2>
+    <span class="section-count">Ressources · 8 stats brutes canoniques</span>
 </div>
 
 <div class="codex-panel">
-    <div class="codex-label">Système d'attributs GAS</div>
+    <div class="codex-label">UHWCombatAttributeSet</div>
     <p>
-        Les statistiques de combat sont gérées via le <strong style="color:var(--gold);">Gameplay Attribute System</strong>. La classe <strong style="color:var(--gold);">UHWCombatAttributeSet</strong> dérive de <strong style="color:var(--gold);">UHWAttributeSet</strong> et déclare l'ensemble des attributs numériques du personnage.
+        Hérite de <code>UHWAttributeSet</code> → <code>UAttributeSet</code>. Déclare l'ensemble des attributs numériques répliqués du personnage de combat. Hooks serveur :
     </p>
     <p style="margin-bottom:0;">
-        Le traitement des dégâts est intercepté dans <strong style="color:var(--gold);">PreGameplayEffectExecute</strong> (clamping, validation) et finalisé dans <strong style="color:var(--gold);">PostGameplayEffectExecute</strong> (application des dégâts, déclenchement des événements de mort, mise à jour des barres).
+        <code>PreGameplayEffectExecute()</code> — clamping, détection critique par parité, type de dégât élémentaire, suppression/application de conditions, réduction par <code>Defense</code>. <code>PostGameplayEffectExecute()</code> — application définitive sur Health, déclenchement des événements de mort, mise à jour des barres UI.
     </p>
 </div>
+
+<div class="codex-panel cyan-accent" style="margin-top: 24px;">
+    <div class="codex-label">Refonte 2026 — alignement canon Personnage</div>
+    <p>
+        La doc canon (<em>Personnage.md</em>) impose <strong style="color:var(--cyan);">8 stats brutes Couche 1</strong> (Vigueur, Vivacité, Endurance, Acuité, Esprit, Résonance, Mémoire, Verbe) et <strong style="color:var(--cyan);">4 stats fondamentales Couche 0</strong> (Vitalité, Souffle, Présence, Conscience). L'AttributeSet C++ actuel utilise encore les 3 attributs hérités D&D <code>Strength</code> / <code>Agility</code> / <code>Constitution</code> — voir Migration Accord pour le mapping et le phasage.
+    </p>
+    <p style="margin-bottom:0;">
+        Mapping prévu : <code>Strength</code> → <code>RawStat_Vigueur</code>, <code>Agility</code> → <code>RawStat_Vivacite</code>, <code>Constitution</code> → <code>RawStat_Endurance</code>. Les 5 stats manquantes côté code (Acuité, Esprit, Résonance, Mémoire, Verbe) seront ajoutées en colonnes nouvelles. Aucun breaking change OWS — les attributs existants sont conservés et marqués comme techniques internes.
+    </p>
+</div>
+
+<div class="codex-panel" style="border-left-color: var(--gold); margin-top: 24px;">
+    <div class="codex-label">Compression Le Souffle (à implémenter post-V4)</div>
+    <p style="margin-bottom:0;">
+        À chaque <em>Souffle</em> cosmique (cycle Petit / Grand / Cardinal — voir Gameplay : Monde), <code>UHWGameplayEffectExecutionCalc</code> appliquera la règle canonique : pour toute stat brute Couche 1, si <code>RawStat &gt; 50</code> alors <code>RawStat = 50 + (RawStat − 50) × 0.7</code>. La compression ramène 30 % de l'excès vers le seuil 50 — c'est le mécanisme anti-power-creep central. Implémentation prévue post-V4 ; refonte sémantique seule en V3.
+    </p>
+</div>
+
+<h3 style="margin-top: 32px;">Ressources vitales</h3>
 
 <div class="feature-list">
     <div class="feature-item">
-        <span class="feature-key">Health / MaxHealth</span>
-        <span class="feature-value">Points de vie actuels et maximum. Health est clampé entre 0 et MaxHealth dans PreGameplayEffectExecute. Atteindre 0 déclenche la logique de mort.</span>
+        <span class="feature-key">Health · MaxHealth · HealthRegenRate</span>
+        <span class="feature-value">Défauts : 100 / 1000 / 100/5s. Health clampé entre 0 et MaxHealth dans <code>PreGameplayEffectExecute</code>. Atteindre 0 déclenche la logique de mort. Réplication COND_None / COND_OwnerOnly.</span>
     </div>
     <div class="feature-item">
-        <span class="feature-key">Energy / MaxEnergy</span>
-        <span class="feature-value">Ressource d'énergie générale. Consommée par certaines abilities actives et régénérée passivement ou via des effets.</span>
+        <span class="feature-key">Mana · MaxMana · ManaRegenRate</span>
+        <span class="feature-value">Défauts : 130 / 1500 / 200/5s. Consommé par les compétences de Voie. Sans Voie active, le pool ne porte aucun usage gameplay côté joueur. Réplication COND_OwnerOnly.</span>
     </div>
     <div class="feature-item">
-        <span class="feature-key">Stamina / MaxStamina</span>
-        <span class="feature-value">Endurance physique. Chaque attaque, esquive et sprint en consomme. L'épuisement total pénalise la vitesse et empêche certaines actions.</span>
+        <span class="feature-key">Stamina · MaxStamina · StaminaRegenRate</span>
+        <span class="feature-value">Défauts : 100 / 100 / 10/5s. Consommé par attaques, esquives, sprint, parades tenues. Note canon : la formule joueur est <code>Stamina max = Souffle (Couche 0) + Endurance (Couche 1) × 2</code> — l'AttributeSet C++ actuel utilise une valeur fixe (mapping prévu via Migration Accord).</span>
     </div>
     <div class="feature-item">
-        <span class="feature-key">Mana / MaxMana</span>
-        <span class="feature-value">Ressource magique. Consommée par les compétences liées aux Voies du Lien et les abilities magiques.</span>
-    </div>
-    <div class="feature-item">
-        <span class="feature-key">Strength</span>
-        <span class="feature-value">Force brute. Multiplie les dégâts des armes lourdes et influence les calculs d'interruption (stagger).</span>
-    </div>
-    <div class="feature-item">
-        <span class="feature-key">Agility</span>
-        <span class="feature-value">Agilité. Augmente les dégâts des armes légères, la vitesse d'attaque et l'efficacité de l'esquive.</span>
-    </div>
-    <div class="feature-item">
-        <span class="feature-key">Constitution</span>
-        <span class="feature-value">Robustesse physique. Contribue au MaxHealth, au MaxStamina et à la résistance aux états altérés.</span>
-    </div>
-    <div class="feature-item">
-        <span class="feature-key">Attack / Defense</span>
-        <span class="feature-value">Valeurs offensives et défensives globales. Attack est le multiplicateur de dégâts de base ; Defense réduit les dégâts entrants avant application des résistances élémentaires.</span>
-    </div>
-    <div class="feature-item">
-        <span class="feature-key">CritRate / CritDamage</span>
-        <span class="feature-value">Taux de critique (probabilité) et multiplicateur de dégâts critiques. Utilisés dans <strong style="color:var(--gold);">UHWDamageGameplayEffect</strong> pour le calcul des coups critiques.</span>
-    </div>
-    <div class="feature-item">
-        <span class="feature-key">Damage (transient)</span>
-        <span class="feature-value">Attribut transitoire — n'est pas persisté. Sert de valeur intermédiaire dans le pipeline de calcul des dégâts avant application sur Health.</span>
-    </div>
-    <div class="feature-item">
-        <span class="feature-key">Healing (transient)</span>
-        <span class="feature-value">Attribut transitoire de soin. Valeur intermédiaire appliquée positivement sur Health dans PostGameplayEffectExecute.</span>
+        <span class="feature-key">Energy · MaxEnergy · EnergyRegenRate</span>
+        <span class="feature-value">Défauts : 100 / 100 / 0/5s. Ressource auxiliaire pour abilities spécifiques. Pas de regen passive par défaut.</span>
     </div>
 </div>
 
-<!-- ===== Calcul de Dégâts ===== -->
-<div class="section-header" id="degats">
-    <h2>Calcul de Dégâts</h2>
-    <span class="section-count">Exécution · Critiques · Réactions</span>
+<h3 style="margin-top: 32px;">Statistiques de combat (état actuel C++)</h3>
+
+<div class="feature-list">
+    <div class="feature-item">
+        <span class="feature-key">Strength → Vigueur (canon)</span>
+        <span class="feature-value">Défaut 10. Formule dérivée : <code>Attack = min(Strength × 10, 9999)</code>. Côté canon, à mapper vers <code>RawStat_Vigueur</code>.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">Agility → Vivacité (canon)</span>
+        <span class="feature-value">Défaut 10. Formule dérivée : <code>CritRate = clamp(Agility × 0.5, 0, 100)</code>. Côté canon, à mapper vers <code>RawStat_Vivacite</code>.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">Constitution → Endurance (canon)</span>
+        <span class="feature-value">Défaut 10. Formule dérivée : <code>MaxHealth = Constitution × 100</code>. Côté canon, à mapper vers <code>RawStat_Endurance</code> (le canon Personnage scinde aussi PV vs Stamina selon Vigueur vs Endurance).</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">Attack · Defense</span>
+        <span class="feature-value">Puissance d'attaque dérivée et coefficient défensif <code>[0.0–1.0]</code>. Defense applique <code>Damage -= Damage × Clamp(Defense, 0, 1)</code>.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">CritRate · CritDamage</span>
+        <span class="feature-value">Défauts 0.05 et 0.5 (5 % chance, +50 % bonus). Évalués par <code>UHWDamageGameplayEffect</code>.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">Stats canoniques manquantes côté code</span>
+        <span class="feature-value">Acuité, Esprit, Résonance, Mémoire, Verbe ne sont pas encore représentées dans <code>UHWCombatAttributeSet</code>. Ajout prévu via Migration Accord (Phase C).</span>
+    </div>
 </div>
 
-<div class="codex-panel cyan-accent">
-    <div class="codex-label">Pipeline de dégâts</div>
-    <p>
-        Le calcul des dégâts passe par un <strong style="color:var(--cyan);">Execution Calculator</strong> dédié qui intègre les statistiques offensives de l'attaquant, les défenses de la cible, les multiplicateurs élémentaires et les réactions entre éléments.
-    </p>
+<h3 style="margin-top: 32px;">Attributs transitoires (non répliqués)</h3>
+
+<div class="feature-list">
+    <div class="feature-item">
+        <span class="feature-key">Damage</span>
+        <span class="feature-value">Valeur intermédiaire dans le pipeline. Appliquée comme <code>−Health</code> dans <code>PostGameplayEffectExecute</code>. Servait aussi à l'encodage critique par parité (voir UHWDamageGameplayEffect ci-dessous).</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">Healing</span>
+        <span class="feature-value">Valeur intermédiaire de soin. Appliquée comme <code>+Health</code> dans <code>PostGameplayEffectExecute</code>.</span>
+    </div>
+</div>
+
+<!-- ===== Pipeline Effects ===== -->
+<div class="section-header" id="effects">
+    <h2>Effects — Dégâts &amp; Conditions</h2>
+    <span class="section-count">UHWDamageGameplayEffect · ExecutionCalc</span>
+</div>
+
+<div class="codex-panel">
+    <div class="codex-label">Pipeline d'application des dégâts</div>
     <p style="margin-bottom:0;">
-        Le système de critiques est géré par <strong style="color:var(--gold);">UHWDamageGameplayEffect</strong>, un effet spécialisé qui évalue le CritRate et applique le CritDamage avant de transmettre la valeur finale à l'execution calculator.
+        Les dégâts traversent une chaîne complète : <strong style="color:var(--gold);">GA</strong> → <strong style="color:var(--gold);">UHWDamageGameplayEffect</strong> → <strong style="color:var(--gold);">UHWGameplayEffectExecutionCalc</strong> → <strong style="color:var(--gold);">PreGameplayEffectExecute</strong> → réaction élémentaire → <strong style="color:var(--gold);">PostGameplayEffectExecute</strong> → <code>OnHealthChange</code>.
     </p>
 </div>
 
 <div class="voie-list">
     <div class="voie-item">
         <span class="voie-name" style="color:var(--gold);">UHWDamageGameplayEffect</span>
-        <span class="voie-desc">Effet de gameplay spécialisé pour les dégâts. Évalue le taux de critique (CritRate), applique le multiplicateur de dégâts critiques (CritDamage), et transmet le résultat au calculator d'exécution.</span>
-        <span class="voie-tag">Critical Hit · Effect</span>
+        <span class="voie-desc">Classe parente de tous les GE de dégât. Configure <code>UTargetTagRequirementsGameplayEffectComponent</code> pour ignorer les cibles taguées <code>Combat.State.IFrame</code>. Contient le système de critiques (CritRate / CritDamage).</span>
+        <span class="voie-tag">GE · Dégâts</span>
     </div>
     <div class="voie-item">
         <span class="voie-name" style="color:var(--gold);">UHWGameplayEffectExecutionCalc</span>
-        <span class="voie-desc">Calculator d'exécution principal. Capture les attributs Attack, Defense, Strength, Agility de la source et de la cible, applique les formules de dégâts, et intègre les réactions élémentaires via <strong style="color:var(--gold);">UHWElementalReactionSystem</strong>.</span>
-        <span class="voie-tag">Execution · Formule</span>
+        <span class="voie-desc">Calculator d'exécution serveur. Capture <code>Attack</code>, <code>MaxHealth</code>, <code>CritRate</code>, <code>CritDamage</code> de la source (snapshot). Calcule <code>BaseDamage = Attack + MaxHealth</code> (formule à reviser — mentionnée comme « surprenante » dans la doc canon, perturbe l'équilibrage).</span>
+        <span class="voie-tag">Execution · Serveur</span>
     </div>
     <div class="voie-item">
         <span class="voie-name" style="color:var(--gold);">UHWCombatDataSubsystem</span>
-        <span class="voie-desc">Sous-système World de gestion des données de combat. Centralise les tables de données, les coefficients de dégâts et les paramètres de balance accessibles par tous les calculateurs.</span>
+        <span class="voie-desc">World Subsystem centralisant tables de données et coefficients de balance. Accessible par tous les calculateurs et abilities via <code>UHWGameplayAbility::GetFloatValueFromCombatData(FString)</code>.</span>
         <span class="voie-tag">Subsystem · Data</span>
     </div>
 </div>
 
-<!-- ===== Système de Combo ===== -->
-<div class="section-header" id="combo">
-    <h2>Système de Combo</h2>
-    <span class="section-count">Chaînes d'attaques · Movesets</span>
+<div class="lore-block" style="margin-top: 24px;">
+    <div class="lore-block-title">— Encodage critique par parité —</div>
+    <p style="margin-bottom:0;">
+        Le critique est signalé en forçant la magnitude finale à un nombre <strong>impair</strong> (la valeur normale est paire). Lecture côté <code>PreGameplayEffectExecute</code> : si <code>magnitude % 2 == 1</code> alors c'est un critique. Méthode fragile si la formule de dégâts évolue — point d'attention canon.
+    </p>
+</div>
+
+<!-- ===== States Effects (élémentaires) ===== -->
+<div class="section-header" id="states">
+    <h2>Effects — États Élémentaires</h2>
+    <span class="section-count">Pattern Applicateur + DoT</span>
 </div>
 
 <div class="codex-panel">
-    <div class="codex-label">Combos par arme et maîtrise</div>
-    <p>
-        Le système de combo gère les enchaînements d'attaques en temps réel. Chaque arme possède un <strong style="color:var(--gold);">UHWWeaponMoveset</strong> qui définit ses chaînes de combo. Le composant <strong style="color:var(--gold);">UHWComboComponent</strong> suit l'état du combo en cours, valide les fenêtres d'enchaînement et vérifie les prérequis de maîtrise pour les attaques avancées.
-    </p>
+    <div class="codex-label">Deux couches : applicateur (tag) + effet actif (DoT)</div>
     <p style="margin-bottom:0;">
-        La consommation d'endurance augmente à chaque étape du combo. Les finisseurs de haut rang ne sont accessibles qu'avec un niveau de maîtrise suffisant.
+        Les états élémentaires utilisent un pattern à deux GE séparés. L'<strong style="color:var(--gold);">applicateur</strong> (<code>GE_Apply*</code>) accorde le tag d'état avec stacking <code>AGGREGATE_BY_TARGET</code> et <code>REFRESH_ON_SUCCESSFUL_APPLICATION</code>. L'<strong style="color:var(--gold);">effet actif</strong> (<code>GE_*Effect</code>) gère les modificateurs d'attributs et les dégâts par tick. Cette séparation permet de vérifier le tag sans dépendre du DoT.
     </p>
 </div>
 
 <div class="feature-list">
     <div class="feature-item">
-        <span class="feature-key">ActiveMoveset</span>
-        <span class="feature-value">Référence au <strong style="color:var(--gold);">UHWWeaponMoveset</strong> actif, déterminé par l'arme équipée. Contient les définitions de toutes les chaînes de combo disponibles pour ce type d'arme.</span>
+        <span class="feature-key">Burning</span>
+        <span class="feature-value"><code>GE_ApplyBurningFor10Seconds</code> (durée effective 6s, tag <code>Combat.State.Burning</code>) + <code>GE_BurningEffect</code> (DoT 10s, tick 1.0s, +1.0 Damage/tick).</span>
     </div>
     <div class="feature-item">
-        <span class="feature-key">CurrentComboIndex</span>
-        <span class="feature-value">Index de la frappe en cours dans la chaîne de combo. Incrémenté à chaque attaque réussie dans la fenêtre de combo, remis à zéro à la fin ou en cas d'interruption.</span>
+        <span class="feature-key">Wet</span>
+        <span class="feature-value"><code>GE_ApplyWetFor10Seconds</code> (10s, tag <code>Combat.State.Wet</code>). Pas de DoT — état de marquage uniquement, prérequis pour Freeze, ElectroCharge, Vaporize.</span>
     </div>
     <div class="feature-item">
-        <span class="feature-key">bInComboWindow</span>
-        <span class="feature-value">Booléen indiquant si le joueur est dans la fenêtre temporelle permettant d'enchaîner la prochaine attaque. Passer cette fenêtre reset le combo.</span>
+        <span class="feature-key">Cold</span>
+        <span class="feature-value"><code>GE_ApplyColdFor6Seconds</code> (6s, tag <code>Combat.State.Cold</code>). Marqueur intermédiaire avant transition vers Frozen.</span>
     </div>
     <div class="feature-item">
-        <span class="feature-key">ComboWindowTimer</span>
-        <span class="feature-value">Timer contrôlant la durée de la fenêtre de combo. Sa durée varie selon l'arme et la vitesse d'attaque du personnage.</span>
+        <span class="feature-key">Frozen</span>
+        <span class="feature-value"><code>GE_ApplyFrozenFor4Seconds</code> (4s, tag <code>Combat.State.Frozen</code>, <code>CLEAR_ENTIRE_STACK</code> à l'expiration). État sévère court — fenêtre de Shatter.</span>
     </div>
     <div class="feature-item">
-        <span class="feature-key">OnComboAttack</span>
-        <span class="feature-value">Delegate diffusé à chaque attaque de combo. Permet aux systèmes visuels, sonores et d'animation de réagir à chaque frappe.</span>
+        <span class="feature-key">Electrified · Charged</span>
+        <span class="feature-value">Tags <code>Combat.State.Electrified</code> et <code>Combat.State.Charged</code> existent dans <code>CombatTags</code>, mais <strong>aucun GE Blueprint n'est encore créé</strong>. <code>ApplyElectrifiedGameplayEffect</code> et <code>ApplyChargedGameplayEffect</code> sont <code>null</code> dans le GameMode par défaut — voir Anomalies.</span>
     </div>
     <div class="feature-item">
-        <span class="feature-key">OnComboFinished</span>
-        <span class="feature-value">Delegate diffusé à la fin complète d'une chaîne de combo (finisseur exécuté). Déclenche les effets de finisseur et les bonus de maîtrise.</span>
-    </div>
-    <div class="feature-item">
-        <span class="feature-key">OnComboReset</span>
-        <span class="feature-value">Delegate diffusé quand le combo est interrompu ou que la fenêtre expire. Réinitialise l'état du composant.</span>
+        <span class="feature-key">IFrame · DodgedRecently</span>
+        <span class="feature-value"><code>GE_DodgeForwardIFrame</code> (0.5s) et <code>GE_DodgeBackwardIFrame</code> (~0.6s) accordent <code>Combat.State.IFrame</code>. <code>GE_DodgedRecently</code> (0.5s) accorde <code>Combat.State.DodgedRecently</code>, requis comme <code>ActivationRequiredTag</code> pour les abilities de contre-esquive.</span>
     </div>
 </div>
 
-<div class="voie-list">
-    <div class="voie-item">
-        <span class="voie-name" style="color:var(--gold);">UHWComboComponent</span>
-        <span class="voie-desc">ActorComponent gérant l'état complet du combo : moveset actif, index courant, fenêtre de combo, consommation d'endurance et validation de la maîtrise. Expose les delegates OnComboAttack, OnComboFinished et OnComboReset.</span>
-        <span class="voie-tag">Component · State</span>
-    </div>
-    <div class="voie-item">
-        <span class="voie-name" style="color:var(--gold);">UHWWeaponMoveset</span>
-        <span class="voie-desc">DataAsset définissant les chaînes de combo par type d'arme. Chaque entrée spécifie l'animation, les dégâts, la consommation de stamina, le seuil de maîtrise requis et la durée de la fenêtre de combo.</span>
-        <span class="voie-tag">DataAsset · Chains</span>
-    </div>
-</div>
-
-<!-- ===== Maîtrise d'Armes ===== -->
-<div class="section-header" id="maitrise">
-    <h2>Maîtrise d'Armes</h2>
-    <span class="section-count">Progression par usage · Multiplicateurs</span>
-</div>
-
-<div class="codex-panel">
-    <div class="codex-label">Progression de maîtrise en C++</div>
-    <p>
-        Le composant <strong style="color:var(--gold);">UHWWeaponMasteryComponent</strong> suit le niveau de maîtrise pour chaque type d'arme (Sword, Axe, Mace, etc.) via un tableau de <strong style="color:var(--gold);">FHWWeaponMasteryData</strong>.
-    </p>
+<div class="lore-block" style="margin-top: 24px;">
+    <div class="lore-block-title">— Configuration via GameMode —</div>
     <p style="margin-bottom:0;">
-        Chaque combat accumule de l'expérience dans le type d'arme utilisé. La maîtrise débloque des multiplicateurs de dégâts croissants et des techniques de combo avancées. Le recalcul des bonus est effectué à chaque changement de seuil.
+        <code>AHWGameMode</code> expose 6 <code>TSubclassOf&lt;UGameplayEffect&gt;</code> (<code>ApplyColdGameplayEffect</code>, <code>ApplyBurningGameplayEffect</code>, <code>ApplyWetGameplayEffect</code>, <code>ApplyElectrifiedGameplayEffect</code>, <code>ApplyFrozenGameplayEffect</code>, <code>ApplyChargedGameplayEffect</code>). <code>BP_HybeliorGameMode</code> doit configurer ces propriétés. <strong>Risque silent fail</strong> si le GameMode actif n'est pas <code>BP_HybeliorGameMode</code> — les GE élémentaires ne se chargent alors pas.
     </p>
 </div>
 
-<div class="feature-list">
-    <div class="feature-item">
-        <span class="feature-key">WeaponMasteries</span>
-        <span class="feature-value">Tableau de <strong style="color:var(--gold);">FHWWeaponMasteryData</strong> — une entrée par type d'arme. Stocke le niveau actuel, l'expérience accumulée, le multiplicateur de dégâts et les techniques débloquées.</span>
-    </div>
-    <div class="feature-item">
-        <span class="feature-key">AddMasteryExperience</span>
-        <span class="feature-value">Méthode appelée après chaque action de combat. Ajoute de l'expérience au type d'arme utilisé, vérifie les seuils de niveau et déclenche RecalculateMasteryBonuses si un seuil est franchi.</span>
-    </div>
-    <div class="feature-item">
-        <span class="feature-key">GetCurrentDamageMultiplier</span>
-        <span class="feature-value">Retourne le multiplicateur de dégâts actuel pour un type d'arme donné. Utilisé par le pipeline de dégâts pour pondérer les frappes selon la maîtrise du personnage.</span>
-    </div>
-    <div class="feature-item">
-        <span class="feature-key">RecalculateMasteryBonuses</span>
-        <span class="feature-value">Recalcule tous les bonus de maîtrise (multiplicateurs, techniques disponibles, réduction de fatigue) quand un seuil est franchi. Met à jour le moveset actif si de nouvelles chaînes de combo sont débloquées.</span>
-    </div>
-</div>
-
-<!-- ===== Réactions Élémentaires ===== -->
-<div class="section-header" id="elements">
+<!-- ===== Réactions élémentaires ===== -->
+<div class="section-header" id="reactions">
     <h2>Réactions Élémentaires</h2>
-    <span class="section-count">8 réactions · Classe statique</span>
+    <span class="section-count">8 réactions · Système statique</span>
 </div>
 
 <div class="codex-panel cyan-accent">
-    <div class="codex-label">Système de réactions élémentaires</div>
+    <div class="codex-label">UHWElementalReactionSystem</div>
     <p>
-        La classe utilitaire statique <strong style="color:var(--cyan);">UHWElementalReactionSystem</strong> gère les interactions entre éléments. Quand un effet élémentaire touche une cible déjà affectée par un autre élément, le système évalue la combinaison via <strong style="color:var(--cyan);">CheckReaction</strong> (statique) et applique l'effet résultant via <strong style="color:var(--cyan);">ApplyReaction</strong> (statique).
+        Système statique centralisé. Évalue les interactions entre 4 éléments (Fire, Water, Ice, Lightning) et 6 conditions (Burning, Wet, Cold, Frozen, Electrified, Charged). Appelé depuis <code>UHWCombatAttributeSet::HandlePreExecuteEffectDamage</code> (pas dans l'ExecutionCalc — pour éviter une double-application).
     </p>
     <p style="margin-bottom:0;">
-        Les réactions sont calculées dans le pipeline d'exécution des dégâts, au sein de <strong style="color:var(--gold);">UHWGameplayEffectExecutionCalc</strong>.
+        <strong style="color:var(--cyan);">API</strong> : <code>FHWElementalReactionResult CheckReaction(IncomingDamageType, TargetActiveConditions)</code> retourne le résultat (multiplicateur, condition à appliquer/retirer, AoE éventuel) ; <code>void ApplyReaction(TargetASC, Result)</code> applique l'effet.
     </p>
 </div>
 
-<div class="voie-list">
+<div class="voie-list" style="margin-bottom: 24px;">
     <div class="voie-item">
         <span class="voie-name">Vaporize</span>
-        <span class="voie-desc">Eau + Feu. Multiplicateur de dégâts massif sur l'attaque déclencheuse. La réaction la plus directement offensive.</span>
-        <span class="voie-tag">Eau + Feu · Dégâts ×</span>
+        <span class="voie-desc">Wet + Fire (ou inverse). Multiplicateur ×1.5 sur l'attaque déclencheuse. Retire l'état Wet de la cible.</span>
+        <span class="voie-tag">Wet + Fire · ×1.5</span>
     </div>
     <div class="voie-item">
         <span class="voie-name">Melt</span>
-        <span class="voie-desc">Glace + Feu. Multiplicateur de dégâts élevé, fond l'état gelé et inflige des dégâts bonus thermiques.</span>
-        <span class="voie-tag">Glace + Feu · Dégâts ×</span>
+        <span class="voie-desc">Cold (ou Frozen) + Fire. ×1.3. Sur cible Frozen, applique aussi Wet après réaction (<code>bApplyWetAfterReaction</code>).</span>
+        <span class="voie-tag">Cold + Fire · ×1.3</span>
     </div>
     <div class="voie-item">
         <span class="voie-name">Overload</span>
-        <span class="voie-desc">Foudre + Feu. Explosion de zone qui repousse les ennemis proches et inflige des dégâts AoE.</span>
-        <span class="voie-tag">Foudre + Feu · AoE</span>
+        <span class="voie-desc">Charged + Fire. ×1.5 + AoE rayon 500. Repousse les ennemis proches.</span>
+        <span class="voie-tag">Charged + Fire · AoE</span>
     </div>
     <div class="voie-item">
         <span class="voie-name">Freeze</span>
-        <span class="voie-desc">Eau + Glace. Gèle la cible sur place pendant une courte durée. La cible gelée est vulnérable aux bris (Shatter).</span>
-        <span class="voie-tag">Eau + Glace · CC</span>
+        <span class="voie-desc">Wet + Ice (ou Cold + Ice). Applique <code>Combat.State.Frozen</code> via <code>GE_ApplyFrozenFor4Seconds</code>. La cible gelée est vulnérable au Shatter.</span>
+        <span class="voie-tag">Wet + Ice · CC</span>
     </div>
     <div class="voie-item">
         <span class="voie-name">Superconduct</span>
-        <span class="voie-desc">Foudre + Glace. Réduit la défense physique de la cible pendant une durée prolongée. Idéal pour préparer des frappes lourdes.</span>
-        <span class="voie-tag">Foudre + Glace · Défense ↓</span>
+        <span class="voie-desc">Cold + Lightning. Réduit Defense de 30% pendant une durée prolongée. Préparation pour frappes lourdes. <strong>Partiellement implémenté</strong> : certains cas restent placeholder.</span>
+        <span class="voie-tag">Cold + Lightning · Def↓</span>
     </div>
     <div class="voie-item">
         <span class="voie-name">ElectroCharge</span>
-        <span class="voie-desc">Foudre + Eau. Dégâts de foudre périodiques sur la cible et propagation aux ennemis mouillés à proximité.</span>
-        <span class="voie-tag">Foudre + Eau · DoT</span>
+        <span class="voie-desc">Wet + Lightning. ×1.2 + applique <code>Combat.State.Charged</code> (ou Electrified selon source). DoT et propagation aux cibles mouillées proches.</span>
+        <span class="voie-tag">Wet + Lightning · DoT</span>
     </div>
     <div class="voie-item">
-        <span class="voie-name">Firestorm</span>
-        <span class="voie-desc">Feu + Vent. Propage les flammes sur une zone étendue avec des dégâts de brûlure amplifiés.</span>
-        <span class="voie-tag">Feu + Vent · Propagation</span>
+        <span class="voie-name">Firestorm (placeholder)</span>
+        <span class="voie-desc">Burning + Lightning ou Electrified + Fire. Doit propager les flammes sur zone avec dégâts amplifiés. <strong>Non implémenté</strong> dans l'EnumValue.</span>
+        <span class="voie-tag">Placeholder</span>
     </div>
     <div class="voie-item">
-        <span class="voie-name">Shatter</span>
-        <span class="voie-desc">Attaque physique lourde sur une cible gelée (Freeze). Brise la glace et inflige des dégâts bonus massifs proportionnels à la défense de la cible.</span>
-        <span class="voie-tag">Physique + Gel · Burst</span>
+        <span class="voie-name">Shatter (placeholder)</span>
+        <span class="voie-desc">Attaque physique lourde sur cible Frozen. Doit briser la glace avec dégâts bonus proportionnels à Defense de la cible. <strong>Non implémenté</strong> dans l'EnumValue.</span>
+        <span class="voie-tag">Placeholder</span>
     </div>
 </div>
 
-<!-- ===== Ability Tasks ===== -->
-<div class="section-header" id="tasks">
-    <h2>Ability Tasks</h2>
-    <span class="section-count">Tâches asynchrones · Détection</span>
-</div>
-
-<div class="codex-panel">
-    <div class="codex-label">Tâches asynchrones du GAS</div>
+<div class="codex-panel" style="border-left-color: #8b2020;">
+    <div class="codex-label">Anomalies connues</div>
     <p style="margin-bottom:0;">
-        Les <strong style="color:var(--gold);">Ability Tasks</strong> sont des opérations asynchrones exécutées pendant la durée de vie d'une ability. Elles permettent d'attendre des événements, de détecter des cibles ou de simuler des projectiles sans bloquer le thread principal.
+        3 réactions placeholder (Firestorm, Superconduct partiel, Shatter). Relation Cold ↔ Frozen floue côté design. <code>ApplyElectrifiedGameplayEffect</code> et <code>ApplyChargedGameplayEffect</code> <code>null</code> dans le GameMode. <code>GE_FireballDamageEffect</code> a un tag d'effet <code>Combat.DamageType.Water</code> suspect (Feu ≠ Eau). <code>GE_LightningStormDamage</code> n'a aucun tag de type — interactions élémentaires non fonctionnelles. <code>GE_TestDamage50</code> à retirer avant prod.
     </p>
 </div>
 
-<div class="voie-list">
-    <div class="voie-item">
-        <span class="voie-name" style="color:var(--gold);">AbilityTask_WaitLanded</span>
-        <span class="voie-desc">Tâche d'attente d'atterrissage. Suspend l'exécution de l'ability jusqu'à ce que le personnage touche le sol. Utilisée pour les attaques aériennes et les abilities de plongeon.</span>
-        <span class="voie-tag">Wait · Landing</span>
-    </div>
-    <div class="voie-item">
-        <span class="voie-name" style="color:var(--gold);">HWATA_ConeTrace</span>
-        <span class="voie-desc">Détection de cibles dans un cône. Définit un angle et une distance, effectue un trace conique et retourne toutes les cibles valides dans la zone. Idéal pour les attaques en arc de cercle et les souffles.</span>
-        <span class="voie-tag">Cone · Détection</span>
-    </div>
-    <div class="voie-item">
-        <span class="voie-name" style="color:var(--gold);">HWAT_WaitMultiTraceForTargets</span>
-        <span class="voie-desc">Détection multi-trace asynchrone. Lance plusieurs traces simultanés (ligne, sphère, capsule) et attend que toutes les cibles soient collectées avant de poursuivre. Utilisé pour les attaques à zone complexe.</span>
-        <span class="voie-tag">Multi-Trace · Async</span>
-    </div>
-    <div class="voie-item">
-        <span class="voie-name" style="color:var(--gold);">UHWFakeProjectile</span>
-        <span class="voie-desc">Projectile non physique. Se déplace visuellement dans le monde sans simulation balistique — le hit est calculé par trace ou par prédiction. Utilisé pour les projectiles magiques, les flèches visuelles et les effets de portée.</span>
-        <span class="voie-tag">Projectile · Visuel</span>
-    </div>
-</div>
-
-<!-- ===== Contrôleur IA (Mobs) ===== -->
-<div class="section-header" id="ia">
-    <h2>Contrôleur IA (Mobs)</h2>
-    <span class="section-count">BehaviorTree · Perception · Combat</span>
+<!-- ===== Tags système ===== -->
+<div class="section-header" id="tags">
+    <h2>Système de Tags</h2>
+    <span class="section-count">93 tags natifs · 5 DataTables</span>
 </div>
 
 <div class="codex-panel">
-    <div class="codex-label">Intelligence artificielle des mobs</div>
-    <p>
-        Le contrôleur <strong style="color:var(--gold);">AHWAIController</strong> pilote le comportement de tous les mobs de combat. Il s'appuie sur un <strong style="color:var(--gold);">BehaviorTree</strong> pour la prise de décision, un <strong style="color:var(--gold);">Blackboard</strong> pour le partage de données entre tâches, et le système <strong style="color:var(--gold);">AIPerception</strong> d'Unreal pour la détection sensorielle des joueurs et des menaces.
-    </p>
+    <div class="codex-label">Source unique de vérité</div>
     <p style="margin-bottom:0;">
-        L'évaluation de la situation de combat est continue : le contrôleur ajuste son comportement (attaquer, se replier, patrouiller) en fonction de l'état de santé, de la distance à la cible et du nombre d'alliés présents.
+        Les tags natifs sont initialisés en C++ (<code>FHWGameplayTags::InitializeNativeTags</code>) et alimentés par 5 <strong style="color:var(--gold);">DataTables</strong> sous <code>/Game/AbilitySystem/Tags/</code> qui servent de source unique de vérité, enregistrées via <code>UGameplayTagsManager</code>.
     </p>
 </div>
 
 <div class="feature-list">
     <div class="feature-item">
-        <span class="feature-key">BBKey_TargetActor</span>
-        <span class="feature-value">Clé Blackboard stockant la référence à l'acteur ciblé. Mise à jour par OnPerceptionUpdated quand un joueur entre dans le champ de perception.</span>
+        <span class="feature-key">AbilityTags (7)</span>
+        <span class="feature-value">Échecs d'activation et événements (<code>Ability.ActivateFail.IsDead/Cooldown/Cost/TagsBlocked/TagsMissing/Networking</code>, <code>Ability.Event.Combo</code>).</span>
     </div>
     <div class="feature-item">
-        <span class="feature-key">BBKey_TargetLocation</span>
-        <span class="feature-value">Clé Blackboard stockant la dernière position connue de la cible. Utilisée pour les déplacements d'approche et la patrouille vers le dernier point de contact.</span>
+        <span class="feature-key">CombatTags (35)</span>
+        <span class="feature-value">États (Dead, Wet, Burning, Cold, Charged, Electrified, Frozen, IFrame, DodgedRecently, ReadyToFight, Blocking) ; types de dégâts (Fire, Water, Ice, Lightning, Falling) ; cooldowns ; SetByCaller (Strength, Attack, Speed, Agility, CritDamage, Intelligence, Constitution, MaxStamina, MaxHealth, MaxMana, Defense) ; flags critiques ; sets d'arme.</span>
     </div>
     <div class="feature-item">
-        <span class="feature-key">BBKey_Health</span>
-        <span class="feature-value">Clé Blackboard reflétant les points de vie actuels du mob. Permet aux nœuds du BehaviorTree de déclencher des comportements défensifs sous un certain seuil.</span>
+        <span class="feature-key">EquipementTags (22)</span>
+        <span class="feature-value">16 slots d'équipement (<code>EquipementSlot.*</code>) + 6 types d'arme (<code>WeaponType.Unarmed</code>, <code>Bow</code>, <code>HandLeftAlone</code>, <code>HandRightAlone</code>, <code>TwoWeapon</code>, <code>GreatSword</code>). Note canon : la liste de <code>WeaponType</code> côté code (6) est plus restreinte que les 13 types d'arme côté gameplay — alignement à prévoir.</span>
     </div>
     <div class="feature-item">
-        <span class="feature-key">BBKey_ShouldRetreat</span>
-        <span class="feature-value">Clé Blackboard booléenne. Activée par EvaluateCombatSituation quand les conditions de retraite sont remplies (santé critique, supériorité numérique ennemie).</span>
+        <span class="feature-key">InputTags (24)</span>
+        <span class="feature-value">7 tags ability (<code>NormalAbility1/2</code>, <code>SpecialAbility1</code>, <code>Dash</code>, <code>WeaponLeft/Right</code>, <code>ReadyToFight</code>) + 7 inputs divers (<code>Crouch</code>, <code>Move</code>, <code>Interact</code>, <code>Sprint</code>, <code>WalkRun</code>, <code>Aiming</code>, <code>FirstCamera</code>) + 10 états de mouvement (<code>MovementState.*</code>).</span>
     </div>
     <div class="feature-item">
-        <span class="feature-key">OnPerceptionUpdated</span>
-        <span class="feature-value">Callback du système AIPerception. Appelée quand un stimulus (vue, son, dégât) est détecté ou perdu. Met à jour les clés Blackboard et lance l'évaluation de combat.</span>
+        <span class="feature-key">GameplayCueTags (2)</span>
+        <span class="feature-value"><code>GameplayCue.Test</code>, <code>GameplayCue.LightningStorm.Strike</code>. Réservé à l'expansion VFX/SFX.</span>
     </div>
     <div class="feature-item">
-        <span class="feature-key">EvaluateCombatSituation</span>
-        <span class="feature-value">Méthode d'évaluation tactique. Analyse la santé, la distance, le nombre d'alliés et la force de la cible pour déterminer le comportement optimal (attaque, retraite, appel de renforts).</span>
-    </div>
-    <div class="feature-item">
-        <span class="feature-key">CommandAttack</span>
-        <span class="feature-value">Ordonne au mob d'attaquer la cible actuelle. Sélectionne l'ability appropriée du mob et l'active via son AbilitySystemComponent.</span>
-    </div>
-    <div class="feature-item">
-        <span class="feature-key">PatrolToRandomLocation</span>
-        <span class="feature-value">Génère un point de patrouille aléatoire dans le rayon de patrouille du mob et lance un déplacement via le NavigationSystem. Utilisé en état idle.</span>
+        <span class="feature-key">Tags d'invulnérabilité</span>
+        <span class="feature-value"><code>Combat.State.Invulnerable</code> et <code>Combat.State.IFrame</code> sont consommés en priorité dans <code>PreGameplayEffectExecute</code> (Invulnerable force la magnitude à 0 ; IFrame est filtré côté GE de dégât via <code>UTargetTagRequirementsGameplayEffectComponent</code>).</span>
     </div>
 </div>
 
-<!-- ===== Spawning et Pool ===== -->
-<div class="section-header" id="spawning">
-    <h2>Spawning et Pool</h2>
-    <span class="section-count">Spawn · Respawn · Pooling</span>
+<!-- ===== Migration Accord ===== -->
+<div class="section-header" id="migration">
+    <h2>Migration Accord — Côté Combat</h2>
+    <span class="section-count">Refonte sémantique 2026</span>
 </div>
 
-<div class="codex-panel">
-    <div class="codex-label">Gestion des mobs en monde ouvert</div>
+<div class="codex-panel cyan-accent">
+    <div class="codex-label">Stratégie de migration parallèle</div>
+    <p>
+        La doc canon (<em>L'Accord</em>, <em>Le Souffle</em>, <em>Les Ères</em>) abandonne le concept de <code>CharacterLevel</code>/<code>XP</code> classique au profit du système 5 couches : Stats brutes → Maîtrises → <strong style="color:var(--cyan);">L'Accord</strong> → Héritage → Identité. La migration suit une stratégie <strong style="color:var(--cyan);">parallèle non bloquante</strong> — les tables OWS existantes restent en place, les nouvelles colonnes s'ajoutent.
+    </p>
     <p style="margin-bottom:0;">
-        Le système de spawning combine un <strong style="color:var(--gold);">AMobSpawner</strong> pour la logique de population (respawn delay, détection de présence joueur, conditions de spawn) avec un <strong style="color:var(--gold);">AMobPoolManager</strong> qui recycle les acteurs inactifs pour minimiser les allocations mémoire et les coûts de création.
+        Côté combat, l'impact est documenté dans <code>Migration Accord.md</code>. Aucun breaking change réseau ni OWS ; <code>FUserCharacter</code> garde tous ses champs ; <code>CharacterLevel</code>/<code>XP</code> deviennent invisibles côté HUD mais continuent de fonctionner techniquement.
     </p>
 </div>
 
-<div class="voie-list" style="margin-bottom: 52px;">
-    <div class="voie-item">
-        <span class="voie-name" style="color:var(--gold);">AMobSpawner</span>
-        <span class="voie-desc">Acteur de spawn placé en monde ouvert. Gère le nombre de mobs actifs dans sa zone, le délai de respawn après la mort d'un mob, et la détection de proximité des joueurs pour activer ou désactiver le spawning dynamiquement.</span>
-        <span class="voie-tag">Spawn · Respawn</span>
+<div class="feature-list">
+    <div class="feature-item">
+        <span class="feature-key">Phase A — Schéma SQL</span>
+        <span class="feature-value">Ajout de 4 colonnes : <code>CurrentEraAccord</code> FLOAT (0–100), <code>ConcordedErasCount</code> INT, <code>EraAccordsHistory</code> JSON, <code>CurrentMasteryRustLevel</code> FLOAT. <code>ALTER TABLE ADD COLUMN DEFAULT 0</code> non bloquant.</span>
     </div>
-    <div class="voie-item">
-        <span class="voie-name" style="color:var(--gold);">AMobPoolManager</span>
-        <span class="voie-desc">Pool d'objets pour les mobs. Pré-instancie un nombre configurable de mobs par type, les désactive en les retournant au pool au lieu de les détruire, et les réactive avec un nouvel état quand un spawner en a besoin. Optimisation critique pour les zones à haute densité de mobs.</span>
-        <span class="voie-tag">Pool · Performance</span>
+    <div class="feature-item">
+        <span class="feature-key">Phase B — Lecture/écriture client</span>
+        <span class="feature-value"><code>UHWProgressionComponent</code> lit/écrit <code>CurrentEraAccord</code> sur les events gameplay pertinents. UI bascule sur Accord. <code>CharacterLevel</code> et <code>XP</code> deviennent purement internes.</span>
     </div>
+    <div class="feature-item">
+        <span class="feature-key">Phase C — 8 stats brutes</span>
+        <span class="feature-value">Nouvelles colonnes <code>RawStat_Vigueur</code>, <code>RawStat_Vivacite</code>, <code>RawStat_Endurance</code>, <code>RawStat_Acuite</code>, <code>RawStat_Esprit</code>, <code>RawStat_Resonance</code>, <code>RawStat_Memoire</code>, <code>RawStat_Verbe</code> (FLOAT 0–150). <code>Strength</code>/<code>Agility</code>/<code>Constitution</code> projetés dessus pour rétrocompatibilité.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">Phase D — Compression Souffle</span>
+        <span class="feature-value">Implémentation dans <code>UHWGameplayEffectExecutionCalc</code> : pour toute stat brute &gt; 50, ramener 30 % de l'excès vers 50. Côté combat, c'est ce qui resserre les écarts à chaque cycle cosmique.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">Phase E — 5 paliers Maîtrise</span>
+        <span class="feature-value">La courbe <code>XP × 1.15^N</code> de <code>UHWWeaponMasteryComponent</code> est remplacée par 5 seuils discrets (Novice → Initié → Adepte → Expert → Maître) + une rouille post-<em>Souffle</em> (−15 % une semaine, dissipée par usage). Voir Pipeline Combo pour le détail.</span>
+    </div>
+</div>
+
+<div class="lore-block" style="margin-top: 24px; margin-bottom: 52px;">
+    <div class="lore-block-title">— Note de vocabulaire : Souffle ≠ Stamina —</div>
+    <p style="margin-bottom:0;">
+        Le mot <em>Souffle</em> a deux sens dans Hybélior : (a) une stat fondamentale Couche 0 qui dimensionne le pool de Stamina (capacité d'effort général d'un mortel) ; (b) le <strong style="color:var(--gold);">cycle cosmique</strong> qui rééquilibre périodiquement le monde (Petit / Grand / Cardinal). Côté code, <strong>Stamina</strong> reste l'attribut anglais qui nomme la barre de combat — il ne faut pas le renommer en « Souffle » pour éviter la collision sémantique avec le concept cosmique.
+    </p>
 </div>

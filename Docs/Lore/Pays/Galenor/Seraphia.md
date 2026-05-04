@@ -1,3 +1,10 @@
+﻿---
+tags: [lore, pays, galenor]
+type: lore
+status: drafted
+last_review: 2026-05-02
+needs_review_for: []
+---
 # Seraphia — Le Sanctuaire des Arts et de la Lumière
 
 > *« Chaque note chantée est une prière, chaque couleur posée sur la toile est un acte de foi. À Seraphia, créer, c'est vénérer. »*
@@ -11,8 +18,8 @@
 |---|---|
 | **Continent** | Galenor |
 | **Gouvernement** | Théocratie artistique |
-| **Religion principale** | [[00_Systeme_Religieux\|Ordo Caelum]] (L'Ordre Céleste) |
-| **Religion secondaire** | [[00_Systeme_Religieux\|Cantus Mundi]] (Le Chant du Monde) |
+| **Religion principale** | [[Ordo Caelum]] (L'Ordre Céleste) |
+| **Religion secondaire** | [[Cantus Mundi]] (Le Chant du Monde) |
 | **Culture dominante** | Artistique et religieuse, musique sacrée, peinture, sculpture, architecture |
 | **Histoire marquante** | Le Festival des Lumières |
 | **Ressources clés** | Pigments naturels, marbres, instruments de musique, œuvres d'art, encens sacré |
@@ -39,7 +46,7 @@ L'événement qui cimenta l'identité séraphienne fut le premier **Festival des
 
 Le Festival dura sept jours et sept nuits. Des artistes de toutes les nations de Galenor présentèrent leurs œuvres. Des musiciens jouèrent sans interruption. Des danseurs et des poètes rivalisèrent de grâce. Le Festival des Lumières devint un événement annuel, attirant des pèlerins et des artistes du monde entier, et consacrant Seraphia comme la capitale des arts de Galenor.
 
-Mais le Festival a aussi un versant sombre : lors de la troisième édition, un artiste fou tenta de « peindre avec la lumière divine elle-même », déclenchant un incendie mystique qui détruisit un quartier entier d'Althior. Depuis, chaque Festival est surveillé par les Gardiens de la Flamme Sacrée, un ordre religieux chargé de s'assurer que l'art ne franchit jamais la ligne entre le divin et le dangereux.
+Mais le Festival a aussi un versant sombre : lors de la troisième édition, un artiste tenta ce qu'il décrivait comme « peindre avec la lumière divine elle-même », et un incendie d'origine non élucidée se déclara, détruisant un quartier entier d'Althior. Les chroniqueurs séraphiens y lisent une transgression mystique ; les ingénieurs de Lumasar invoqués plus tard suggérèrent une combustion liée à des pigments expérimentaux. Depuis, chaque Festival est surveillé par les Gardiens de la Flamme Sacrée, un ordre religieux chargé de s'assurer que l'art ne franchit jamais la ligne entre ce qui célèbre les Célestes et ce qui pourrait nuire à la cité.
 
 ---
 
@@ -58,7 +65,7 @@ La Primat actuelle est **Ilynara de Caverana**, une chanteuse dont la voix, dit-
 
 ## Religion
 
-### [[00_Systeme_Religieux|Ordo Caelum]] — L'Ordre Céleste (religion principale)
+### [[Ordo Caelum]] — L'Ordre Céleste (religion principale)
 
 L'Ordo Caelum enseigne que les constellations sont le langage des Célestes — les entités divines qui veillent sur le monde. Chaque constellation raconte une histoire sacrée, et les astrologues-prêtres de l'Ordo interprètent les mouvements célestes comme des messages adressés aux mortels.
 
@@ -68,7 +75,7 @@ L'Ordo Caelum enseigne que les constellations sont le langage des Célestes — 
 - **Le Festival des Lumières** (solstice d'été) — Sept jours de célébrations artistiques, de processions aux chandelles et de spectacles lumineux. Le point culminant est la Nuit des Étoiles Tombées, où des milliers de lanternes sont lâchées dans le ciel pour « répondre » aux constellations.
 - **L'Alignement Sacré** (équinoxe de printemps) — Lorsque les trois constellations principales de l'Ordo Caelum s'alignent, les prêtres organisent une veillée de prière et de chant qui dure toute la nuit, guidant les fidèles dans une méditation collective sur le sens des messages célestes.
 
-### [[00_Systeme_Religieux|Cantus Mundi]] — Le Chant du Monde (religion secondaire)
+### [[Cantus Mundi]] — Le Chant du Monde (religion secondaire)
 
 Le Cantus Mundi, qui croit que Cantor a chanté le monde en existence et que la musique est la forme la plus pure de prière, est profondément enraciné à Seraphia. Bien que l'Ordo Caelum soit la religion officielle, le Cantus Mundi imprègne la culture au quotidien : les Séraphiens chantent en travaillant, en cuisinant, en marchant. Le silence prolongé est considéré comme un mauvais présage.
 
@@ -344,7 +351,75 @@ Région méridionale tempérée, Meridia est la plus fertile de Seraphia. Ses vi
 
 ## Secrets et intrigues
 
-- **La Fausse Note** : Dans les profondeurs de la grotte d'Altheus, un son discordant a commencé à se mêler à l'écho de la Première Note. Les prêtres qui méditent dans la grotte en ressortent troublés, certains affirmant avoir entendu non pas la voix de Cantor mais un cri — un cri de douleur ou de rage. Le Primat a restreint l'accès à la grotte sans explication publique.
+- **La Fausse Note** : Dans les profondeurs de la grotte d'Altheus, un son discordant aurait commencé à se mêler à l'écho de la Première Note, selon les rapports des prêtres qui y méditent. Plusieurs ressortent troublés ; certains disent avoir entendu non pas ce qu'ils interprètent comme la voix de Cantor mais un cri — un cri qu'ils décrivent comme de douleur ou de rage. Le Primat a restreint l'accès à la grotte sans explication publique.
 - **Le Peintre Invisible** : Des fresques apparaissent la nuit sur les murs d'Althior — des œuvres d'une beauté terrifiante représentant des scènes que personne ne comprend : des cités englouties, des constellations inconnues, des visages qui semblent vivants. Nul ne sait qui les peint, et les Gardiens de la Flamme Sacrée n'ont jamais réussi à surprendre l'artiste.
 - **Le Schisme du Cantus** : Une faction secrète au sein du Cantus Mundi croit que la musique de Cantor ne crée pas seulement — elle peut aussi détruire. Ces « Chanteurs de l'Absence » recherchent la Note Inverse, un son qui pourrait défaire la création elle-même. Le Primat les traque discrètement, mais leur influence grandit parmi les jeunes artistes désabusés.
 - **Les Larmes de Marbre** : Les statues les plus anciennes d'Althior pleurent. Des gouttelettes d'un liquide clair apparaissent sur leurs joues de marbre lors des nuits sans lune. Les prêtres affirment que c'est un miracle ; les érudits de Lumasar pensent que c'est un phénomène naturel. La vérité pourrait être bien plus inquiétante.
+
+---
+
+## Données canoniques (source : Access)
+
+> Identité importée verbatim depuis `AccessExport/Pays.csv`. Sert de référence canonique au système Access historique.
+
+### Identité
+
+| Champ | Valeur |
+|-------|--------|
+| **N° Pays (CSV)** | 10 |
+| **Nom CSV** | Seraphia |
+| **Continent (CSV)** | Galenor (N°7) |
+| **Gouvernement** | Théocratie artistique |
+| **Culture** | Culture artistique et religieuse, avec une grande vénération pour les arts et la beauté. |
+| **Histoire marquante** | Le Festival des Lumières, une célébration annuelle où les temples de Seraphia s'illuminent de mille feux, attirant des visiteurs de tout le continent. |
+| **Description CSV** | Une nation prospère avec des collines verdoyantes, célèbre pour ses artistes et ses temples magnifiques. |
+
+### Régions canoniques (source : Region.csv)
+
+- **Lagosaim** (R38) — *stub : description non renseignée dans le CSV*
+- **Zariheim** (R39) — *stub : description non renseignée dans le CSV*
+- **Caverana** (R40) — *stub : description non renseignée dans le CSV*
+- **Frondeval** (R41) — *stub : description non renseignée dans le CSV*
+- **Meridia** (R42) — *stub : description non renseignée dans le CSV*
+
+### Villes canoniques (source : Ville.csv)
+
+Total : **34 villes/villages** réparties sur **5 régions**.
+
+| Ville | Région | Type |
+|-------|--------|------|
+| Zerithor | Lagosaim | Ville |
+| Ythralia | Lagosaim | Village |
+| Mithorn | Lagosaim | Village |
+| Ylthros | Lagosaim | Village |
+| Varalia | Lagosaim | Village |
+| Elandor | Lagosaim | Village |
+| Thyndros | Lagosaim | Village |
+| Brethenor | Lagosaim | Village |
+| Aquarith | Lagosaim | Village |
+| Olvaris | Lagosaim | Village |
+| Thalindra | Lagosaim | Village |
+| Vorlith | Lagosaim | Village |
+| Sylvoria | Lagosaim | Village |
+| Ralithor | Lagosaim | Village |
+| Velmaris | Lagosaim | Village |
+| Zarilith | Zariheim | Ville |
+| Othrion | Zariheim | Village |
+| Ryndoria | Zariheim | Village |
+| Fyndora | Zariheim | Village |
+| Althior | Caverana | Capitale |
+| Thalvorn | Caverana | Ville |
+| Velynor | Caverana | Village |
+| Otharis | Caverana | Village |
+| Fyrthar | Caverana | Village |
+| Yvondor | Caverana | Village |
+| Ralthyn | Caverana | Village |
+| Rilthanir | Caverana | Village |
+| Ithoria | Frondeval | Ville |
+| Velithor | Frondeval | Village |
+| Zyndril | Frondeval | Village |
+| Ulthorin | Meridia | Ville |
+| Thalinar | Meridia | Village |
+| Narothis | Meridia | Village |
+| Esaridia | Meridia | Ville |
+

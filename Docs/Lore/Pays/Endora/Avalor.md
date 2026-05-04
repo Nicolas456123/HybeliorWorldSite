@@ -1,3 +1,10 @@
+﻿---
+tags: [lore, pays, endora]
+type: lore
+status: drafted
+last_review: 2026-05-02
+needs_review_for: []
+---
 # Avalor — Le Pacte des Sylves
 
 > *« Vous voyez une forêt. Nous voyons un peuple — chaque arbre est un ancêtre, chaque feuille un murmure, chaque racine un serment. Blesser la sylve, c'est blesser Avalor. »*
@@ -12,8 +19,8 @@
 | **Continent** | Endora |
 | **Numéro** | 24 |
 | **Gouvernement** | Théocratie mystique |
-| **Religion principale** | [[00_Systeme_Religieux\|Noctari]] (Le Voile des Ombres) |
-| **Religion secondaire** | [[00_Systeme_Religieux\|Vael'Kurash]] (Culte des Esprits Anciens) |
+| **Religion principale** | [[Noctari]] (Le Voile des Ombres) |
+| **Religion secondaire** | [[Vael'Kurash]] (Culte des Esprits Anciens) |
 | **Culture dominante** | Féerique, communion avec les esprits, symbiose avec la nature |
 | **Histoire marquante** | Le Pacte des Sylves |
 | **Ressources clés** | Bois enchanté, herbes rares, cristaux de mana, miel sylvestre, teintures naturelles |
@@ -24,21 +31,21 @@
 
 ### L'Ère des Esprits Sauvages
 
-Avant Avalor, les forêts d'Endora étaient un territoire interdit. Les esprits qui y résidaient étaient imprévisibles et souvent hostiles — des voyageurs disparaissaient, des villages en lisière étaient engloutis par une végétation soudaine, des chasseurs revenaient fous, parlant de visages dans les arbres et de voix dans le vent.
+Avant Avalor, les forêts d'Endora étaient considérées par les peuples voisins comme un territoire interdit. Les présences qui y résidaient étaient imprévisibles selon les chroniques — des voyageurs disparaissaient, des villages en lisière étaient engloutis par une végétation soudaine, des chasseurs revenaient désorientés, parlant de visages dans les arbres et de voix dans le vent.
 
-Les peuples voisins évitaient les forêts. Mais un peuple, les **Vaelori**, y entra volontairement. Descendants d'ermites et de mystiques bannis pour hérésie par les royaumes voisins, les Vaelori n'avaient nulle part où aller. Ils s'enfoncèrent dans la forêt, prêts à mourir — et découvrirent que les esprits ne tuaient pas ceux qui venaient sans armes.
+Les peuples voisins évitaient les forêts. Mais un peuple, les **Vaelori**, y entra volontairement. Descendants d'ermites et de mystiques bannis pour hérésie par les royaumes voisins, les Vaelori n'avaient nulle part où aller. Ils s'enfoncèrent dans la forêt, prêts à mourir — et constatèrent, génération après génération, que ceux qui venaient sans armes en revenaient parfois.
 
 ### Le Pacte des Sylves
 
-La fondatrice légendaire d'Avalor, **Nyméra la Muette**, était une femme qui avait perdu la parole après un traumatisme. Incapable de crier ou de menacer, elle communiquait par gestes — et les esprits de la forêt répondirent.
+La fondatrice légendaire d'Avalor, **Nyméra la Muette**, était une femme qui avait perdu la parole après un traumatisme. Incapable de crier ou de menacer, elle communiquait par gestes — et, selon la tradition vaelori, les présences de la forêt finirent par lui répondre.
 
-Selon la tradition, Nyméra passa sept années seule dans la forêt profonde, apprenant à comprendre le langage des esprits. Elle découvrit que la forêt n'était pas hostile — elle était **blessée**. Une civilisation ancienne avait autrefois exploité la sylve sans retenue, et les esprits se souvenaient. Leur hostilité était de la douleur.
+Selon cette tradition, Nyméra passa sept années seule dans la forêt profonde, apprenant ce qu'elle décrivait elle-même comme « le langage des esprits ». Sa lecture, transmise par les premières générations d'Avalor : la forêt avait été éprouvée par une civilisation ancienne qui avait exploité la sylve sans retenue, et certaines présences gardaient mémoire de cette époque. Leur hostilité, selon Nyméra, était une **forme de mémoire** plutôt qu'une volonté de nuire — lecture à laquelle des théologiens d'autres traditions opposent encore aujourd'hui des hypothèses différentes (cycles climatiques, frontières d'Ères, simple territorialité animale).
 
-Nyméra négocia le **Pacte des Sylves** : les Vaelori protégeraient la forêt et ne prendraient que ce qu'elle offrait volontairement. En échange, les esprits protégeraient les Vaelori et partageraient leur savoir. Ce pacte, renouvelé chaque siècle par l'Archidruide régnant, est le fondement d'Avalor.
+Nyméra fonda le **Pacte des Sylves** : les Vaelori protégeraient la forêt et ne prendraient que ce qu'elle offrirait. En contrepartie, selon la lecture vaelori, les présences de la forêt protégeraient les Vaelori et partageraient leur savoir. Ce pacte, renouvelé chaque siècle par l'Archidruide régnant, est le fondement d'Avalor — qu'il s'agisse, comme l'affirme la tradition, d'un accord effectif entre humains et esprits, ou, comme le suggèrent certains observateurs extérieurs, d'une discipline communautaire dont la rigueur a simplement permis d'apprendre l'écosystème.
 
 ### L'Avalor d'aujourd'hui
 
-Le pays est gouverné par l'Archidruide **Feylara**, une femme d'une quarantaine d'années aux yeux qui changent de couleur selon les saisons. Sous sa guidance, Avalor connaît une période de prospérité, mais des tensions grandissent : les jeunes générations questionnent les restrictions du Pacte, tandis que les esprits deviennent plus exigeants dans leurs demandes.
+Le pays est gouverné par l'Archidruide **Feylara**, une femme d'une quarantaine d'années aux yeux dont la couleur, selon les chroniques avaloréennes, varie avec les saisons. Sous sa guidance, Avalor connaît une période de prospérité, mais des tensions grandissent : les jeunes générations questionnent les restrictions du Pacte, et selon les Voix de plusieurs villages, les demandes attribuées aux esprits paraissent plus exigeantes ces dernières années — lecture qui peut, selon les théologiens étrangers, refléter autant un changement effectif qu'une plus grande nervosité du Cercle des Murmures.
 
 ---
 
@@ -46,27 +53,27 @@ Le pays est gouverné par l'Archidruide **Feylara**, une femme d'une quarantaine
 
 Le pouvoir en Avalor est indissociable du spirituel :
 
-- **L'Archidruide** est le chef suprême, choisi non par élection mais par les esprits eux-mêmes lors d'un rituel où les candidats méditent dans un bosquet sacré pendant neuf nuits. Celui que les esprits acceptent revient transformé — les autres ne reviennent pas toujours.
-- **Le Cercle des Murmures** est un conseil de sept druides aînés qui interprètent la volonté des esprits et conseillent l'Archidruide.
-- **Les Gardiens des Lisières** protègent les frontières de la forêt. Mi-guerriers, mi-mystiques, ils peuvent commander à la végétation de se refermer sur les intrus.
-- **Les Voix** sont des intermédiaires qui traduisent les besoins des esprits aux communautés humaines. Chaque village a sa Voix attitrée.
+- **L'Archidruide** est le chef suprême, choisi non par élection mais selon le rituel codifié à Indelith : les candidats méditent dans un bosquet sacré pendant neuf nuits, et celui qui ressort « reconnu » par les présences de la forêt — selon la lecture du Cercle — endosse la charge. Les autres ne reviennent pas toujours, ce que la tradition lit comme un refus des esprits et que les sceptiques attribuent aux conditions extrêmes du rituel.
+- **Le Cercle des Murmures** est un conseil de sept druides aînés qui interprètent ce qu'ils tiennent pour la volonté des esprits et conseillent l'Archidruide.
+- **Les Gardiens des Lisières** protègent les frontières de la forêt. Mi-guerriers, mi-mystiques, leurs pratiques permettent, selon la doctrine d'Avalor, d'amener la végétation à se refermer sur les intrus — capacité observée par des témoins étrangers, dont les explications varient selon les écoles.
+- **Les Voix** sont des intermédiaires qui traduisent ce qu'ils perçoivent comme les besoins des esprits aux communautés humaines. Chaque village a sa Voix attitrée.
 
 ---
 
 ## Religion
 
-### [[00_Systeme_Religieux|Noctari]] — Le Voile des Ombres (religion dominante)
+### [[Noctari]] — Le Voile des Ombres (religion dominante)
 
-Les Avaloréens croient que la vérité se cache dans l'obscurité. Noctis, divinité de la nuit, et Umbra, gardienne des ombres, enseignent que la lumière aveugle autant qu'elle éclaire. C'est dans le silence de la nuit, sous la canopée obscure, que les esprits parlent le plus clairement.
+La doctrine avaloréenne lit la vérité comme cachée dans l'obscurité. Selon les enseignements transmis, Noctis et Umbra rappellent que la lumière aveugle autant qu'elle éclaire. C'est dans le silence de la nuit, sous la canopée obscure, que les esprits parlent — pour qui sait écouter selon la formule rituelle.
 
 **Pratiques centrales :**
-- **La Veillée Nocturne** : Chaque semaine, les Avaloréens passent une nuit entière dans la forêt, seuls, en silence absolu. Ils écoutent — et parfois, les esprits répondent.
+- **La Veillée Nocturne** : Chaque semaine, les Avaloréens passent une nuit entière dans la forêt, seuls, en silence absolu. Ils écoutent — et selon les récits, certains entendent des réponses.
 - **Le Voile d'Ombre** : Lors de cérémonies importantes, les participants se couvrent d'un voile noir pour symboliser leur acceptation de l'inconnu.
-- **L'Interdit de la Flamme** : Les feux de camp sont strictement réglementés en Avalor. Brûler du bois vivant est un crime capital — seul le bois mort, offert par la forêt, peut être utilisé.
+- **L'Interdit de la Flamme** : Les feux de camp sont strictement réglementés en Avalor. Brûler du bois vivant est un crime capital — seul le bois mort, offert par la forêt selon la formule du Pacte, peut être utilisé.
 
-### [[00_Systeme_Religieux|Vael'Kurash]] — Le Culte des Esprits Anciens (religion secondaire)
+### [[Vael'Kurash]] — Le Culte des Esprits Anciens (religion secondaire)
 
-La vénération des esprits de la nature est si profondément ancrée en Avalor qu'elle se confond avec la vie quotidienne. Les esprits ne sont pas adorés comme des dieux — ils sont respectés comme des voisins, des alliés, des partenaires. Chaque arbre ancien a un nom, chaque source un esprit gardien, chaque clairière une histoire.
+La vénération des esprits de la nature est si profondément ancrée en Avalor qu'elle se confond avec la vie quotidienne. Les pratiques ne s'adressent pas à des dieux mais à des présences que les Avaloréens reconnaissent comme voisines — alliées, partenaires, parfois exigeantes. Chaque arbre ancien porte un nom, chaque source est attribuée à un esprit gardien selon la doctrine locale, chaque clairière a une histoire.
 
 ---
 
@@ -76,7 +83,7 @@ La vénération des esprits de la nature est si profondément ancrée en Avalor 
 Les Avaloréens ne construisent pas de maisons — ils les cultivent. Leurs habitations sont des arbres vivants dont la croissance a été guidée pendant des générations pour former des pièces, des escaliers et des balcons. Abattre un arbre-maison est un acte impensable.
 
 ### La communion
-Le rite de passage des jeunes Avaloréens est la **Première Communion** : à quinze ans, l'adolescent boit une infusion d'herbes sacrées et entre en transe dans la forêt profonde. S'il est jugé digne, un esprit se lie à lui — non comme un serviteur, mais comme un compagnon. Cette liaison est permanente et confère des capacités subtiles : une intuition accrue, une perception des émotions végétales, une résistance aux illusions.
+Le rite de passage des jeunes Avaloréens est la **Première Communion** : à quinze ans, l'adolescent boit une infusion d'herbes sacrées et entre en transe dans la forêt profonde. Selon la lecture vaelori, un esprit accepte parfois de se lier à lui — non comme un serviteur, mais comme un compagnon. Cette liaison, lorsqu'elle est reconnue par le Cercle des Murmures, est tenue pour permanente et associée à des capacités subtiles : une intuition accrue, une perception des émotions végétales, une résistance aux illusions. Tous les adolescents ne reviennent pas avec un compagnon, et la doctrine ne stigmatise pas ceux qui rentrent seuls.
 
 ### Les arts vivants
 L'art avaloréen est éphémère par principe. Les sculpteurs travaillent la glaise qui sera dissoute par la pluie, les peintres utilisent des pigments qui s'effacent en une saison, les musiciens jouent des instruments vivants — des flûtes taillées dans des branches qui repoussent, des harpes tendues de fils de soie d'araignée.
@@ -86,13 +93,13 @@ L'art avaloréen est éphémère par principe. Les sculpteurs travaillent la gla
 ## Régions
 
 ### Indelite
-Forêt primaire dense et ancienne, considérée comme le cœur spirituel d'Avalor. Les arbres d'Indelite sont si vieux que leurs troncs mesurent parfois vingt mètres de diamètre. C'est ici que vivent les esprits les plus puissants et les plus anciens.
+Forêt primaire dense et ancienne, considérée par les Avaloréens comme le cœur spirituel du pays. Les arbres d'Indelite sont si vieux que leurs troncs mesurent parfois vingt mètres de diamètre. La doctrine locale y situe les présences les plus puissantes et les plus anciennes.
 
 ### Crestalia
 Région de collines boisées et de clairières lumineuses où se trouve la capitale. Crestalia est la partie la plus accessible d'Avalor — le seul endroit où les étrangers sont autorisés à entrer, sous escorte.
 
 ### Wildoria
-Forêt sauvage et indompté au nord, où les esprits sont les plus imprévisibles. Wildoria est le territoire des Gardiens des Lisières et un terrain d'épreuve pour les druides en formation. Les arbres y bougent — lentement, mais visiblement.
+Forêt sauvage au nord, où les présences sont, selon les druides, les moins prévisibles. Wildoria est le territoire des Gardiens des Lisières et un terrain d'épreuve pour les druides en formation. Les voyageurs et les druides rapportent y avoir vu des arbres se déplacer — lentement, mais visiblement ; les sceptiques attribuent ces observations à des effets de tassement de sol et de croissance différentielle, sans convaincre les habitants.
 
 ### Perival
 Vaste région de forêts tempérées et de rivières sinueuses à l'ouest. Perival est la plus peuplée des régions d'Avalor, avec de nombreux villages nichés dans les arbres le long des cours d'eau.
@@ -103,19 +110,19 @@ Vaste région de forêts tempérées et de rivières sinueuses à l'ouest. Periv
 
 ### Crestalis — Capitale ★
 *La capitale d'Avalor n'est pas une ville — c'est une cathédrale vivante. Des chênes millénaires dont les branches s'entrelacent forment des voûtes naturelles au-dessus de rues de mousse. Le palais de l'Archidruide est un séquoia colossal dont l'intérieur a été sculpté par les esprits eux-mêmes — des salles circulaires, des escaliers en spirale, des fenêtres d'ambre vivant. La nuit, des lucioles et des champignons phosphorescents illuminent la cité d'une lumière douce et verdâtre.*
-**Histoire :** Le séquoia de Crestalis était déjà le plus grand arbre de la forêt lorsque les premiers Vaelori arrivèrent — les esprits en avaient fait leur point de rassemblement depuis des siècles. Nyméra la Muette n'y installa pas sa communauté par choix stratégique mais parce que les esprits refusèrent de l'autoriser à s'établir ailleurs, la ramenant chaque nuit vers cet endroit quel que soit le chemin qu'elle tentait. La cité s'organisa autour du séquoia naturellement, comme l'eau autour d'une pierre — et les esprits sculptèrent ses salles intérieures au fil de trois générations, ajoutant une pièce chaque fois qu'un nouvel Archidruide prenait ses fonctions.
+**Histoire :** Le séquoia de Crestalis était déjà le plus grand arbre de la forêt lorsque les premiers Vaelori arrivèrent — selon la tradition vaelori, les esprits en avaient fait leur point de rassemblement depuis des siècles. La doctrine raconte que Nyméra la Muette n'y installa pas sa communauté par choix stratégique mais parce que ses tentatives de s'établir ailleurs la ramenaient chaque nuit vers cet endroit, lecture que les Vaelori attribuent à l'action des esprits et que les sceptiques expliquent par la topographie et la mémoire spatiale. La cité s'organisa autour du séquoia, et les salles intérieures du palais furent sculptées au fil de trois générations — selon la lecture avaloréenne, par les esprits eux-mêmes, ajoutant une pièce chaque fois qu'un nouvel Archidruide prenait ses fonctions.
 - Population : Capitale
 - Région : Crestalia
 
 ### Mornath
 *Ville ancienne bâtie autour d'un étang sacré dont les eaux reflètent non pas le ciel, mais le monde des esprits. Les druides viennent à Mornath pour les visions les plus profondes. Les bâtiments sont des saules géants dont les branches retombent comme des rideaux.*
-**Histoire :** L'étang de Mornath fut découvert par une éclaireure vaelori nommée Thoryn qui cherchait de l'eau potable et se pencha au-dessus de la surface — et vit son propre reflet remplacé par le visage d'un esprit qui lui parla pendant une heure. Thoryn rentra au camp en titubant, incapable de rapporter exactement ce qui s'était dit, mais certaine que l'étang était l'endroit le plus important de la forêt. La communauté qui s'établit autour de lui ne fut jamais très grande — les visions de Mornath ont la réputation de révéler des vérités que certains préfèrent ne pas connaître.
+**Histoire :** L'étang de Mornath fut découvert par une éclaireure vaelori nommée Thoryn qui cherchait de l'eau potable et se pencha au-dessus de la surface. Selon le récit qu'elle laissa, son propre reflet fut remplacé par le visage d'un esprit avec lequel elle dialogua pendant une heure. Thoryn rentra au camp en titubant, incapable de rapporter exactement ce qui s'était dit, mais certaine que l'étang était l'endroit le plus important de la forêt. La communauté qui s'établit autour de lui ne fut jamais très grande — les visions de Mornath ont la réputation, selon les druides, de révéler des vérités que certains préfèrent ne pas connaître.
 - Population : Ville
 - Région : Crestalia
 
 ### Nymria
 *Village de guérisseurs où les herboristes cultivent les plantes les plus rares d'Endora. Le jardin de Nymria est un lieu de pèlerinage — on dit que chaque plante y pousse parce qu'un esprit le veut, et que cueillir sans permission provoque des cauchemars.*
-**Histoire :** Le jardin de Nymria fut commencé par Nyméra elle-même durant ses sept années de solitude dans la forêt — chaque plante qu'elle y plantait était accompagnée d'un geste d'offrande aux esprits, qui en retour lui enseignaient ses propriétés curatives. Le village qui se forma autour du jardin prit le nom de la fondatrice avec une légère déformation, et ses habitants considèrent qu'ils sont ses héritiers directs. Personne ne sait vraiment où Nyméra est enterrée, mais la rumeur dit que ses restes nourrissent la racine de la plante la plus rare du jardin — celle dont l'esprit garde jalousement le secret de l'usage.
+**Histoire :** Le jardin de Nymria fut commencé par Nyméra elle-même durant ses sept années de solitude dans la forêt — chaque plantation était, selon la tradition, accompagnée d'un geste d'offrande, et la doctrine vaelori soutient que les esprits lui enseignaient en retour les propriétés curatives des plantes. Le village qui se forma autour du jardin prit le nom de la fondatrice avec une légère déformation, et ses habitants se considèrent comme ses héritiers directs. L'emplacement de la sépulture de Nyméra n'a pas été conservé avec certitude ; une rumeur tenace veut que ses restes nourrissent la racine de la plante la plus rare du jardin — celle dont l'usage reste, selon les herboristes, le secret le mieux gardé du lieu.
 - Population : Ville
 - Région : Crestalia
 
@@ -133,37 +140,37 @@ Vaste région de forêts tempérées et de rivières sinueuses à l'ouest. Periv
 
 ### Indelith
 *Sanctuaire au cœur de la forêt primaire d'Indelite, accessible uniquement à ceux qui ont reçu l'autorisation des esprits. Indelith est le lieu du rituel de sélection de l'Archidruide. Les bâtiments sont des troncs creux si vastes qu'ils abritent des familles entières.*
-**Histoire :** Après la mort de Nyméra la Muette, Avalor se trouva sans guide et sept prétendants se disputèrent le leadership. Les esprits refusèrent de reconnaître aucun d'eux. Pendant trois ans, la forêt resta silencieuse — une période appelée la Grande Attente. Finalement, une jeune femme sans ambition politique, venue simplement s'occuper des arbres malades d'Indelite, entendit les esprits lui parler directement. Elle n'était pas venue pour être choisie. C'est peut-être pour cela qu'elle le fut — et le rituel de sélection fut codifié à Indelith pour reproduire cette condition : on cherche non pas le plus ambitieux, mais celui qui ne cherche pas.
+**Histoire :** Après la mort de Nyméra la Muette, Avalor se trouva sans guide et sept prétendants se disputèrent le leadership. Selon la tradition vaelori, aucun d'eux ne fut reconnu par les esprits ; pendant trois ans, la forêt resta silencieuse selon les chroniques — une période appelée la Grande Attente. Une jeune femme sans ambition politique, venue simplement s'occuper des arbres malades d'Indelite, en sortit (selon son propre témoignage) avec un dialogue intérieur qu'elle attribuait aux esprits. Elle n'était pas venue pour être choisie. C'est peut-être pour cela qu'elle le fut — et le rituel de sélection fut codifié à Indelith pour reproduire cette condition : on cherche non pas le plus ambitieux, mais celui qui ne cherche pas.
 - Population : Ville
 - Région : Indelite
 
 ### Valtaris
 *Village d'artisans spécialisés dans le travail du bois enchanté. Les objets créés à Valtaris — bâtons, amulettes, instruments — conservent une parcelle de vie et réagissent aux émotions de leur porteur.*
-**Histoire :** Le premier artisan de Valtaris était un homme qui ramassa un rameau tombé d'un arbre d'Indelite et en sculpta une simple cuillère — qui se mit à vibrer chaque fois qu'il était triste et à s'orienter vers sa femme quand il se perdait. Il comprit que le bois d'Indelite retenait quelque chose des esprits qui l'habitaient. Il revint chercher d'autres branches tombées, apprit à les travailler sans briser leur essence, et enseigna sa méthode. Valtaris devint le seul endroit où l'artisanat n'est pas interdit par le Pacte parce que ses artisans ne prennent jamais — ils ramassent ce qui a été offert.
+**Histoire :** Le premier artisan de Valtaris était un homme qui ramassa un rameau tombé d'un arbre d'Indelite et en sculpta une simple cuillère. Selon le récit transmis, l'objet vibrait chaque fois qu'il était triste et s'orientait vers sa femme quand il se perdait. Il en conclut, dans le cadre de la lecture vaelori, que le bois d'Indelite retenait quelque chose des esprits qui l'habitaient. Il revint chercher d'autres branches tombées, apprit à les travailler sans briser leur essence, et enseigna sa méthode. Valtaris devint l'un des rares lieux où l'artisanat est tenu pour compatible avec le Pacte, parce que ses artisans ne prélèvent rien — ils ramassent ce qui leur paraît avoir été offert.
 - Population : Ville
 - Région : Indelite
 
 ### Feythar
 *Hameau mystérieux où les frontières entre le monde matériel et le monde des esprits sont les plus minces. Les habitants de Feythar vivent avec des esprits visibles à l'œil nu — des silhouettes lumineuses qui dérivent entre les arbres.*
-**Histoire :** Feythar fut abandonnée trois fois avant d'être habitée de manière permanente. Chaque fois, les colons s'installaient et disparaissaient en quelques mois — non pas tués, mais absorbés progressivement dans le monde des esprits, incapables de distinguer les deux réalités. La quatrième communauté à s'y établir était composée uniquement de personnes ayant déjà frôlé le monde des esprits lors de leur Première Communion et qui avaient appris à maintenir le fil qui les retenait au réel. Ils prospérèrent, et Feythar est depuis lors une ville dont l'habitant type vit avec un pied dans chaque monde.
+**Histoire :** Feythar fut abandonnée trois fois avant d'être habitée de manière permanente. Chaque fois, selon les chroniques druidiques, les colons s'installaient et disparaissaient en quelques mois — la lecture avaloréenne parle d'absorption progressive dans le monde des esprits, lecture que les sceptiques attribuent à des troubles de perception liés à la zone. La quatrième communauté à s'y établir était composée uniquement de personnes ayant déjà frôlé le monde des esprits lors de leur Première Communion et qui avaient appris, selon la formation des Voix, à maintenir le fil qui les retenait au réel. Ils prospérèrent, et Feythar est depuis lors une ville dont l'habitant type, selon ses propres dires, vit avec un pied dans chaque monde.
 - Population : Ville
 - Région : Indelite
 
 ### Ralorin
 *Village de bûcherons rituels. Paradoxalement, ce sont les habitants de Ralorin qui abattent les rares arbres morts pour fournir du bois à tout Avalor. Chaque abattage est précédé d'un rituel de trois jours pour s'assurer que l'esprit de l'arbre a bien quitté son hôte.*
-**Histoire :** La profession de bûcheron rituel naquit d'une crise. Un jeune homme avait coupé une branche vivante pour réparer sa maison — l'esprit de l'arbre, encore présent, envahit le bois de la maison et le rendit inhabitable pendant une génération, les meubles se déplaçant seuls et les portes refusant de s'ouvrir. Le Pacte fut révisé pour codifier avec précision comment identifier un arbre dont l'esprit est parti, et Ralorin fut fondée pour abriter ceux qui maîtriseraient cette compétence délicate — des gens dont le rôle est aussi sacré que celui des prêtres, mais dont le travail ressemble à celui de bûcherons ordinaires.
+**Histoire :** La profession de bûcheron rituel naquit d'une crise. Un jeune homme avait coupé une branche vivante pour réparer sa maison — selon les chroniques avaloréennes, l'esprit de l'arbre, encore présent, se manifesta dans le bois de la maison et la rendit inhabitable pendant une génération, les meubles paraissant se déplacer seuls et les portes refusant de s'ouvrir. Le Pacte fut révisé pour codifier avec précision comment identifier un arbre dont l'esprit est tenu pour parti, et Ralorin fut fondée pour abriter ceux qui maîtriseraient cette compétence délicate — des gens dont le rôle est aussi sacré que celui des prêtres, mais dont le travail ressemble à celui de bûcherons ordinaires.
 - Population : Ville
 - Région : Indelite
 
 ### Wildaris
 *Bastion des Gardiens des Lisières, construit dans et autour d'un bosquet de chênes guerriers — des arbres dont les branches se meuvent pour frapper les intrus. Wildaris est la première ligne de défense d'Avalor.*
-**Histoire :** Les chênes guerriers de Wildaris ne sont pas naturels — ils furent élevés sur trois générations par des druides qui transmirent à chaque arbre les souvenirs d'une invasion militaire qui avait failli détruire Avalor deux siècles plus tôt. Les arbres portent encore la colère de cette mémoire. Chaque Gardien des Lisières qui s'entraîne à Wildaris reçoit une entaille rituelle au bras droit à l'arrivée — et le sang mêlé à la sève crée un lien de reconnaissance : les chênes ne frappent pas leurs propres protecteurs.
+**Histoire :** Les chênes guerriers de Wildaris n'ont pas poussé sans intervention — selon les chroniques druidiques, ils furent élevés sur trois générations par des druides qui leur « transmirent » (selon la lecture avaloréenne) les souvenirs d'une invasion militaire qui avait failli détruire Avalor deux siècles plus tôt. La doctrine locale dit que les arbres portent encore la mémoire de cette époque. Chaque Gardien des Lisières qui s'entraîne à Wildaris reçoit une entaille rituelle au bras droit à l'arrivée — le sang mêlé à la sève crée, selon les druides, un lien de reconnaissance qui empêche les chênes de frapper leurs propres protecteurs.
 - Population : Ville
 - Région : Wildoria
 
 ### Ryndaris
 *Village de druides combattants, où l'art de la guerre est enseigné en harmonie avec la nature. Les guerriers de Ryndaris ne portent pas d'armure de métal — ils utilisent une résine d'arbre enchantée, aussi dure que l'acier mais légère comme le cuir.*
-**Histoire :** La résine d'arbre enchantée fut développée par une druide nommée Lythara dont le frère mourut lors d'une patrouille — son armure de métal trop lourde l'avait empêché de grimper dans les arbres pour fuir une embuscade. Lythara passa dix ans à travailler avec des esprits arboricoles pour trouver une sève qui se solidifiait au contact de l'air mais restait légère. Elle ne breveta pas sa découverte — elle l'enseigna à tous les combattants d'Avalor, et Ryndaris fut fondée autour de son atelier devenu école.
+**Histoire :** La résine d'arbre enchantée fut développée par une druide nommée Lythara dont le frère mourut lors d'une patrouille — son armure de métal trop lourde l'avait empêché de grimper dans les arbres pour fuir une embuscade. Lythara passa dix ans à travailler avec ce qu'elle décrivait comme des esprits arboricoles pour mettre au point une sève qui se solidifiait au contact de l'air mais restait légère. Elle ne breveta pas sa découverte — elle l'enseigna à tous les combattants d'Avalor, et Ryndaris fut fondée autour de son atelier devenu école.
 - Population : Ville
 - Région : Wildoria
 
@@ -175,31 +182,31 @@ Vaste région de forêts tempérées et de rivières sinueuses à l'ouest. Periv
 
 ### Krylnor
 *Village frontalier où les arbres sont plus agressifs que nulle part ailleurs. Les habitants de Krylnor ont développé une relation unique avec les esprits de combat — des entités protectrices mais violentes qui défendent le territoire avec une férocité terrifiante.*
-**Histoire :** La violence des esprits de Krylnor date d'une nuit, il y a environ cent cinquante ans, où un groupe de mercenaires d'un pays voisin massacra deux familles entières de colons avaloréens au bord de la lisière. Les arbres qui assistèrent au massacre absorbèrent la terreur et la douleur des victimes — et ne retrouvèrent jamais leur sérénité. Les habitants actuels de Krylnor ne tentent pas de calmer les esprits : ils ont appris à vivre avec leur colère permanente, et considèrent qu'elle est juste.
+**Histoire :** La violence attribuée aux esprits de Krylnor date d'une nuit, il y a environ cent cinquante ans, où un groupe de mercenaires d'un pays voisin massacra deux familles entières de colons avaloréens au bord de la lisière. Selon la doctrine locale, les arbres qui assistèrent au massacre absorbèrent la terreur et la douleur des victimes et n'en sortirent jamais — lecture que les druides extérieurs interprètent diversement, certains y voyant plutôt une mémoire collective humaine projetée sur la forêt. Les habitants actuels de Krylnor ne cherchent pas à calmer ce qu'ils tiennent pour la colère des arbres : ils ont appris à vivre avec, et la considèrent comme juste.
 - Population : Ville
 - Région : Wildoria
 
 ### Thalor
 *Bourg forestier construit autour d'une cascade dont les eaux sont si pures qu'elles révèlent les illusions. Quiconque boit l'eau de Thalor voit le monde tel qu'il est pendant une journée — une expérience qui peut être libératrice ou traumatisante.*
-**Histoire :** La cascade de Thalor fut découverte par une druide qui cherchait à démasquer un esprit qui lui mentait — un phénomène rare mais documenté, où une entité use d'illusions pour obtenir ce qu'elle veut. Elle trouva la cascade par instinct, but l'eau, et vit soudainement l'esprit pour ce qu'il était vraiment : un esprit mineur blessé, non malveillant, qui dissimulait sa faiblesse par peur. Elle fonda Thalor autour de la cascade pour en faire un lieu de diagnostic — une étape obligatoire pour tout druide soupçonnant qu'une vérité lui est cachée.
+**Histoire :** La cascade de Thalor fut découverte par une druide qui soupçonnait un esprit de la tromper — phénomène rare mais documenté dans les chroniques, où une présence userait d'illusions pour obtenir ce qu'elle veut. Elle trouva la cascade par instinct, but l'eau, et perçut alors (selon son propre récit) l'esprit pour ce qu'elle estimait être sa nature réelle : une présence mineure éprouvée, non malveillante, qui dissimulait sa faiblesse par peur. Elle fonda Thalor autour de la cascade pour en faire un lieu de diagnostic — une étape recommandée pour tout druide soupçonnant qu'une vérité lui est cachée.
 - Population : Ville
 - Région : Wildoria
 
 ### Zyldrin
 *Petit village de chasseurs-cueilleurs qui vivent selon les préceptes les plus stricts du Pacte des Sylves. Zyldrin ne prend à la forêt que ce qui tombe naturellement — fruits, noix, bois mort. Leurs habitants sont considérés comme les plus pieux d'Avalor.*
-**Histoire :** Les fondateurs de Zyldrin quittèrent leurs villages d'origine après un désaccord théologique profond — ils estimaient que même le rituel de Ralorin était une violation du Pacte, car un bûcheron qui attend que l'esprit parte reste un bûcheron qui coupe. Ils furent d'abord considérés comme des fanatiques. Mais deux siècles de vie strictement conforme à leurs principes ont prouvé qu'ils peuvent survivre sans rien prendre à la forêt — et les esprits de Zyldrin sont, de l'avis général, les plus généreux d'Avalor, offrant abondamment à ceux qui n'exigent rien.
+**Histoire :** Les fondateurs de Zyldrin quittèrent leurs villages d'origine après un désaccord théologique profond — ils estimaient que même le rituel de Ralorin constituait une violation du Pacte, car un bûcheron qui attend que l'esprit parte reste un bûcheron qui coupe. Ils furent d'abord considérés comme des fanatiques. Mais deux siècles de vie strictement conforme à leurs principes ont montré qu'on peut y survivre sans rien prélever à la forêt — et les habitants de Zyldrin tiennent les présences locales pour particulièrement généreuses envers ceux qui n'exigent rien, lecture que d'autres villages avaloréens partagent.
 - Population : Ville
 - Région : Wildoria
 
 ### Perivalis
 *Ville principale de Perival, construite le long d'une rivière paresseuse. Perivalis est le centre commercial d'Avalor — le seul endroit où les marchands étrangers peuvent échanger leurs biens contre du bois enchanté, des herbes et des cristaux.*
-**Histoire :** L'Archidruide Valanis le Pragmatique comprit, deux siècles après la fondation d'Avalor, que l'isolationnisme total avait un coût : Avalor manquait de métal, de céréales et de textile que la forêt ne produisait pas. Il désigna Perivalis comme l'unique point de contact commercial avec l'extérieur après une longue négociation avec les esprits de la région — qui acceptèrent à condition que jamais aucun étranger ne pénètre au-delà de la rivière sans escorte. Cette frontière invisible est respectée depuis lors avec une rigueur absolue.
+**Histoire :** L'Archidruide Valanis le Pragmatique comprit, deux siècles après la fondation d'Avalor, que l'isolationnisme total avait un coût : Avalor manquait de métal, de céréales et de textile que la forêt ne produisait pas. Il désigna Perivalis comme l'unique point de contact commercial avec l'extérieur, après ce que les chroniques décrivent comme une longue négociation avec les esprits de la région — la doctrine retient un accord conditionné par l'interdiction pour tout étranger de franchir la rivière sans escorte. Cette frontière invisible est respectée depuis lors avec une rigueur absolue.
 - Population : Ville
 - Région : Perival
 
 ### Valarion
 *Cité lacustre dont les maisons flottent sur des radeaux de bois vivant, ancrés aux arbres de la rive. Valarion est célèbre pour ses fêtes nocturnes où les lucioles forment des constellations mouvantes au-dessus de l'eau.*
-**Histoire :** Valarion ne fut pas bâtie sur le lac — elle fut chassée sur le lac. L'ancien village terrestre fut englouti en quelques jours lorsque les esprits de l'eau redirigèrent une rivière souterraine, inondant la vallée pour une raison que les druides de l'époque ne comprirent jamais entièrement. Les habitants, refusant de fuir plus loin, construisirent des radeaux de bois vivant et restèrent. Les esprits du lac — peut-être par culpabilité, peut-être par admiration — les adoptèrent et guidèrent les lucioles vers leurs fêtes.
+**Histoire :** Valarion ne fut pas bâtie sur le lac — elle fut chassée sur le lac. L'ancien village terrestre fut englouti en quelques jours lorsqu'une rivière souterraine se redirigea brutalement, inondant la vallée pour une raison que les druides de l'époque attribuèrent aux esprits de l'eau sans pouvoir préciser leur intention. Les habitants, refusant de fuir plus loin, construisirent des radeaux de bois vivant et restèrent. La doctrine locale lit l'abondance des lucioles aux fêtes nocturnes comme un geste d'adoption des esprits du lac — peut-être par regret, peut-être par admiration ; les chroniques n'ont pas tranché.
 - Population : Ville
 - Région : Perival
 
@@ -211,7 +218,7 @@ Vaste région de forêts tempérées et de rivières sinueuses à l'ouest. Periv
 
 ### Galdorin
 *Bourg paisible spécialisé dans la production de miel sylvestre. Les abeilles d'Avalor sont liées à des esprits mineurs qui les guident vers les meilleures fleurs. Le miel de Galdorin a des propriétés curatives reconnues dans tout Endora.*
-**Histoire :** Le lien entre les abeilles de Galdorin et les esprits naquit d'un geste accidentel. Un apiculteur, après une bonne récolte, laissa un rayon de miel entier au pied d'un arbre ancien — non comme rituel, mais par simple générosité impulsive. Un esprit mineur qui hibernait dans les racines fut réveillé par le parfum et, touché par le geste, commença à guider les abeilles vers les fleurs les plus chargées de pollen. La tradition des offrandes de miel aux esprits fut codifiée à Galdorin, et sa réputation comme centre apicole d'Avalor s'établit sur ce malentendu heureux.
+**Histoire :** Le lien attribué aux abeilles de Galdorin et aux esprits naquit, selon la tradition apicole locale, d'un geste accidentel. Un apiculteur, après une bonne récolte, laissa un rayon de miel entier au pied d'un arbre ancien — non comme rituel, mais par simple générosité impulsive. Selon la lecture vaelori, un esprit mineur qui reposait dans les racines fut réveillé par le parfum, et c'est ce contact qui aurait commencé à orienter les abeilles vers les fleurs les plus chargées de pollen. La tradition des offrandes de miel aux esprits fut codifiée à Galdorin, et la réputation apicole du village s'établit autour de ce récit fondateur, dont la valeur factuelle n'a jamais été disputée localement.
 - Population : Ville
 - Région : Perival
 
@@ -223,7 +230,7 @@ Vaste région de forêts tempérées et de rivières sinueuses à l'ouest. Periv
 
 ### Myrthos
 *Hameau de musiciens où l'on fabrique les instruments vivants d'Avalor. Les flûtes de Myrthos jouent des mélodies différentes selon l'humeur de celui qui souffle — parfois, elles jouent seules, quand un esprit le souhaite.*
-**Histoire :** La tradition des instruments vivants remonte à Nyméra elle-même. Ne pouvant pas parler, elle avait appris à communiquer avec les esprits par la musique — et les esprits lui avaient fabriqué ses premiers instruments, des flûtes de roseaux dont ils contrôlaient partiellement le souffle. Après sa mort, les instruments qu'elle avait laissés continuèrent de jouer seuls lors des nuits de solstice. Myrthos fut fondée par les luthiers qui tentèrent de reproduire ces instruments — non pas pour les imiter, mais pour offrir aux esprits de nouveaux outils d'expression.
+**Histoire :** La tradition des instruments vivants remonte, selon la doctrine vaelori, à Nyméra elle-même. Ne pouvant pas parler, elle aurait appris à communiquer avec les esprits par la musique ; la lecture avaloréenne dit que ses premiers instruments furent fabriqués par les esprits eux-mêmes — des flûtes de roseaux dont ils contrôlaient partiellement le souffle. Les chroniques rapportent qu'après sa mort, les instruments qu'elle avait laissés continuaient de jouer seuls lors des nuits de solstice — phénomène que les visiteurs étrangers attribuent à la résonance du bois, et que les avaloréens lisent autrement. Myrthos fut fondée par les luthiers qui tentèrent de poursuivre cette tradition — non pas pour imiter Nyméra, mais pour offrir aux esprits, dans le cadre du Pacte, de nouveaux outils d'expression.
 - Population : Ville
 - Région : Perival
 
@@ -235,13 +242,13 @@ Vaste région de forêts tempérées et de rivières sinueuses à l'ouest. Periv
 
 ### Velthorn
 *Bourg fortifié par la nature elle-même — un cercle de ronces géantes protège Velthorn des intrus. Le village est spécialisé dans la culture de plantes défensives : orties paralysantes, vignes étrangleuses, fleurs soporifiques.*
-**Histoire :** Velthorn fut fondée par des réfugiés d'un village de lisière attaqué et brûlé par des raiders d'un pays voisin. N'ayant ni l'endurance de reconstruire un village ordinaire ni les ressources pour ériger des murs, ils demandèrent aux esprits des murailles vivantes. Les esprits de Perival répondirent en faisant pousser les ronces en une seule nuit — un cercle complet autour du campement de réfugiés. Les habitants comprirent alors qu'ils pouvaient cultiver cette protection, et Velthorn devint l'école de botanique défensive d'Avalor.
+**Histoire :** Velthorn fut fondée par des réfugiés d'un village de lisière attaqué et brûlé par des raiders d'un pays voisin. N'ayant ni l'endurance de reconstruire un village ordinaire ni les ressources pour ériger des murs, ils demandèrent aux esprits, selon le rituel druidique, des murailles vivantes. Selon les chroniques avaloréennes, les ronces poussèrent en une seule nuit — un cercle complet autour du campement. Les habitants comprirent alors qu'ils pouvaient cultiver cette protection, et Velthorn devint l'école de botanique défensive d'Avalor.
 - Population : Ville
 - Région : Perival
 
 ### Vyndarin
 *Village de sages et de philosophes qui étudient la nature de la conscience des esprits. Vyndarin possède la seule bibliothèque d'Avalor — non pas de livres, mais d'arbres dont les anneaux de croissance encodent des connaissances.*
-**Histoire :** Le premier philosophe de Vyndarin découvrit la bibliothèque par accident : en examinant une coupe transversale d'un arbre mort, il remarqua que les variations de ses anneaux de croissance formaient des séquences trop régulières pour être naturelles. Après des années de déchiffrement, il conclut qu'un esprit avait utilisé l'arbre pour enregistrer des événements — chaque variation correspondait à une émotion, à une saison particulière, à un fait. Vyndarin fut fondée autour de la méthode de lecture de ces anneaux, et ses habitants plantent délibérément des arbres destinés à devenir les pages d'une bibliothèque que leurs arrière-petits-enfants liront.
+**Histoire :** Le premier philosophe de Vyndarin découvrit la bibliothèque par accident : en examinant une coupe transversale d'un arbre mort, il remarqua que les variations de ses anneaux de croissance formaient des séquences qu'il jugea trop régulières pour être uniquement naturelles. Après des années de déchiffrement, il proposa la lecture suivante : un esprit aurait utilisé l'arbre pour enregistrer des événements, chaque variation correspondant à une émotion, à une saison particulière, à un fait. Vyndarin fut fondée autour de la méthode de lecture de ces anneaux, et ses habitants plantent délibérément des arbres destinés à devenir les pages d'une bibliothèque que leurs arrière-petits-enfants liront.
 - Population : Ville
 - Région : Perival
 
@@ -266,6 +273,64 @@ Vaste région de forêts tempérées et de rivières sinueuses à l'ouest. Periv
 
 ## Secrets et intrigues
 
-- **Le Cœur de la Sylve** : Au plus profond d'Indelite se trouve un arbre plus ancien que la mémoire — le **Sylvain Primordial**. Les druides les plus anciens affirment que cet arbre est la source de toute vie végétale d'Hybelior. Si jamais il mourait, toutes les forêts du monde suivraient.
-- **Les Esprits Noirs** : Tous les esprits d'Avalor ne sont pas bienveillants. Dans les profondeurs de Wildoria rôdent des entités corrompues — des esprits d'arbres morts de manière violente, consumés par la rage. L'Archidruide Feylara passe une partie considérable de son temps à les contenir, mais leur nombre augmente.
-- **Le Pacte se fissure** : Une faction secrète de jeunes Avaloréens, les **Fils du Jour**, rejette le Noctari et le Pacte des Sylves. Ils veulent ouvrir Avalor au monde, abattre des arbres pour construire des routes et commercer librement. Si les esprits découvrent cette faction, la réaction pourrait être catastrophique.
+- **Le Cœur de la Sylve** : Au plus profond d'Indelite se dresse un arbre plus ancien que la mémoire vaelori — le **Sylvain Primordial**. Les druides les plus anciens lui attribuent un rôle de source de la vie végétale d'Hybelior, et redoutent les conséquences cosmiques de sa mort. Cette lecture est doctrinale et avaloréenne ; les théologiens d'autres traditions (Rota Mundi, Vael'Kurash des hauts plateaux) lisent le Sylvain comme une présence importante mais non causative à l'échelle du monde.
+- **Les Esprits Sombres de Wildoria** : Toutes les présences d'Avalor ne sont pas accommodantes. Dans les profondeurs de Wildoria, les druides rapportent des présences plus difficiles à approcher — selon la doctrine locale, des esprits liés à des arbres morts de manière violente, qu'ils décrivent comme habités par une rage persistante. L'Archidruide Feylara consacre une part considérable de son temps à ce qu'elle nomme leur « contention » ; les rapports du Cercle des Murmures suggèrent que le nombre de ces présences a augmenté ces dernières Ères, lecture que certains observateurs de Sylthara ou de Caeloria attribuent plutôt à des changements écologiques qu'à un phénomène spirituel.
+- **Le Pacte se fissure** : Une faction discrète de jeunes Avaloréens, les **Fils du Jour**, rejette le Noctari et la rigueur du Pacte des Sylves. Ils plaident pour une ouverture d'Avalor — abattages contrôlés, routes, commerce libre. Si la faction est découverte par le Cercle des Murmures avant d'avoir gagné en influence, la réaction politique pourrait être violente, et la doctrine vaelori avertit qu'elle pourrait fragiliser le Pacte lui-même.
+
+---
+
+## Données canoniques (source : Access)
+
+> Identité importée verbatim depuis `AccessExport/Pays.csv`. Sert de référence canonique au système Access historique.
+
+### Identité
+
+| Champ | Valeur |
+|-------|--------|
+| **N° Pays (CSV)** | 24 |
+| **Nom CSV** | Avalor |
+| **Continent (CSV)** | Endora (N°11) |
+| **Gouvernement** | Théocratie mystique |
+| **Culture** | Culture spirituelle et féerique, où les interactions avec les esprits de la nature sont quotidiennes. |
+| **Histoire marquante** | Le Pacte des Sylves, un accord sacré entre les habitants d'Avalor et les esprits des forêts pour protéger leur territoire contre toute forme d'exploitation. |
+| **Description CSV** | Un pays féerique aux forêts enchantées, habité par des êtres mystérieux et des esprits de la nature. |
+
+### Régions canoniques (source : Region.csv)
+
+- **Indelite** (R94) — *stub : description non renseignée dans le CSV*
+- **Crestalia** (R95) — *stub : description non renseignée dans le CSV*
+- **Wildoria** (R96) — *stub : description non renseignée dans le CSV*
+- **Perival** (R97) — *stub : description non renseignée dans le CSV*
+
+### Villes canoniques (source : Ville.csv)
+
+Total : **25 villes/villages** réparties sur **4 régions**.
+
+| Ville | Région | Type |
+|-------|--------|------|
+| Indelith | Indelite | Ville |
+| Valtaris | Indelite | Village |
+| Feythar | Indelite | Village |
+| Ralorin | Indelite | Village |
+| Crestalis | Crestalia | Capitale |
+| Mornath | Crestalia | Ville |
+| Nymria | Crestalia | Village |
+| Velaris | Crestalia | Village |
+| Zorathis | Crestalia | Village |
+| Wildaris | Wildoria | Ville |
+| Ryndaris | Wildoria | Ville |
+| Feylinor | Wildoria | Village |
+| Krylnor | Wildoria | Village |
+| Thalor | Wildoria | Village |
+| Zyldrin | Wildoria | Village |
+| Perivalis | Perival | Ville |
+| Valarion | Perival | Ville |
+| Ryndar | Perival | Village |
+| Galdorin | Perival | Village |
+| Thyloria | Perival | Village |
+| Myrthos | Perival | Village |
+| Zyloris | Perival | Village |
+| Velthorn | Perival | Village |
+| Vyndarin | Perival | Village |
+| Fandor | Perival | Village |
+

@@ -1,3 +1,10 @@
+﻿---
+tags: [lore, pays, ilthara]
+type: lore
+status: drafted
+last_review: 2026-05-02
+needs_review_for: []
+---
 # Ackerna — Le Sanctuaire des Saisons Éternelles
 
 > *« En Ackerna, chaque feuille qui tombe est une prière, chaque bourgeon qui éclot est une bénédiction. »*
@@ -11,8 +18,8 @@
 |---|---|
 | **Continent** | Ilthara |
 | **Gouvernement** | Théocratie druidique |
-| **Religion principale** | [[00_Systeme_Religieux\|Vael'Kurash]] (Les Esprits de Chaque Chose) |
-| **Religion secondaire** | [[00_Systeme_Religieux\|Rota Mundi]] (Le Cycle du Monde) |
+| **Religion principale** | [[Vael'Kurash]] (Les Esprits de Chaque Chose) |
+| **Religion secondaire** | [[Rota Mundi]] (Le Cycle du Monde) |
 | **Culture dominante** | Druidisme, connexion profonde à la nature et aux saisons |
 | **Histoire marquante** | Le Pacte Sylvestre |
 | **Ressources clés** | Herbes médicinales, bois sacré, cristaux de sève, résines enchantées |
@@ -29,15 +36,15 @@ Le premier cercle druidique, celui du Chêne-Mère, fut fondé par une femme don
 
 ### La Corruption de l'Hiver Noir
 
-Pendant des siècles, Ackerna vécut en harmonie. Mais un hiver, la forêt tomba malade. Les arbres perdirent leurs feuilles en plein été, les sources se tarirent, et les esprits de la nature — autrefois bienveillants — devinrent erratiques et hostiles. Les druides nommèrent cette période l'Hiver Noir.
+Pendant des siècles, Ackerna vécut en harmonie. Mais un hiver, la forêt tomba malade. Les arbres perdirent leurs feuilles en plein été, les sources se tarirent, et ce que les druides interprétaient comme la voix bienveillante des esprits sembla se brouiller, se faire erratique. Les druides nommèrent cette période l'Hiver Noir.
 
-La cause fut découverte trop tard : un cercle dissident de druides, fascinés par les pouvoirs des Marécages de Noyrath au sud d'Ilthara, avait tenté de percer le voile entre le monde des vivants et celui des morts pour y puiser une magie plus puissante. Ce faisant, ils avaient empoisonné les racines profondes de la forêt et rompu le lien millénaire entre les druides et les esprits.
+Selon la chronique druidique, la cause fut découverte trop tard : un cercle dissident, fasciné par ce qui filtrait des Marécages de Noyrath au sud d'Ilthara, avait pratiqué des rites jugés transgressifs pour puiser une magie plus puissante. Coïncidence ou conséquence — les théologiens d'autres traditions en débattent encore — la dégradation de la forêt fut attribuée à ces rites par les druides de l'époque, et la confiance entre eux et ce qu'ils nommaient "esprits" s'effondra.
 
 ### Le Pacte Sylvestre
 
-Face à l'agonie de la forêt, l'Archidruide Faelorn convoqua un rituel sans précédent. Pendant sept jours et sept nuits, les druides fidèles se réunirent au cœur du Bosquet Primordial et offrirent une partie de leur propre essence vitale à la terre. En échange, les esprits de la nature acceptèrent de renouveler leur alliance — mais à une condition : désormais, les druides gouverneraient Ackerna non pas comme des chefs, mais comme des gardiens liés par serment à la forêt. Quiconque trahirait ce pacte verrait son lien avec la nature se rompre irrémédiablement.
+Face à l'agonie de la forêt, l'Archidruide Faelorn convoqua un rituel sans précédent. Pendant sept jours et sept nuits, les druides fidèles se réunirent au cœur du Bosquet Primordial et offrirent ce que leur tradition nomme une part de leur essence vitale à la terre. À l'issue du rituel, ce que les druides perçurent comme une réponse des esprits prit la forme d'une condition : désormais, les druides gouverneraient Ackerna non pas comme des chefs, mais comme des gardiens liés par serment à la forêt. Selon les Vael'Kurash d'Ackerna, quiconque trahirait ce pacte verrait son lien avec la nature s'étioler — une menace que les druides récitent encore lors des intronisations, sans que les modalités exactes en aient jamais été testées publiquement.
 
-Le Pacte Sylvestre transforma Ackerna d'une communauté druidique en une véritable théocratie où la forêt elle-même est la plus haute autorité. Les druides dissidents furent bannis dans les Marécages de Noyrath, où leurs descendants — dit-on — errent encore.
+Le Pacte Sylvestre transforma Ackerna d'une communauté druidique en une véritable théocratie où la forêt elle-même, dans la lecture des druides, est la plus haute autorité. Les druides dissidents furent bannis dans les Marécages de Noyrath, où leurs descendants — dit-on — errent encore.
 
 ---
 
@@ -55,9 +62,9 @@ L'Archidruide actuel est **Sylvenna la Tisseuse de Mousse**, une femme d'un âge
 
 ## Religion
 
-### [[00_Systeme_Religieux|Vael'Kurash]] — Les Esprits de Chaque Chose (religion officielle)
+### [[Vael'Kurash]] — Les Esprits de Chaque Chose (religion officielle)
 
-En Ackerna, Vael'Kurash n'est pas simplement une religion — c'est la réalité quotidienne. Les Ackerniens croient que chaque élément du monde naturel abrite un esprit : chaque arbre, chaque rivière, chaque rocher, chaque brise. Ces esprits ne sont pas des dieux mais des présences conscientes avec lesquelles on peut communiquer, négocier et coexister.
+En Ackerna, Vael'Kurash imprègne la vie quotidienne plus qu'elle ne se présente comme un système de croyance distinct. Les Ackerniens vivent comme si chaque élément du monde naturel abritait une présence : chaque arbre, chaque rivière, chaque rocher, chaque brise. Selon leur tradition, ces présences ne sont pas des dieux mais des interlocuteurs silencieux avec lesquels on peut, par les rites appropriés, dialoguer et coexister.
 
 Les rituels de Vael'Kurash sont profondément saisonniers. À chaque changement de saison, le pays entier participe à des célébrations qui durent plusieurs jours :
 
@@ -69,16 +76,16 @@ Les rituels de Vael'Kurash sont profondément saisonniers. À chaque changement 
 
 Les druides portent des tatouages rituels représentant les esprits auxquels ils sont liés. Ces tatouages évoluent naturellement au fil des saisons — s'assombrissant en hiver, verdissant au printemps — un phénomène que même les mages d'autres nations ne parviennent pas à expliquer.
 
-### [[00_Systeme_Religieux|Rota Mundi]] — Le Cycle du Monde (religion secondaire)
+### [[Rota Mundi]] — Le Cycle du Monde (religion secondaire)
 
-La croyance en [[00_Systeme_Religieux|Rota Mundi]] s'intègre naturellement à la culture d'Ackerna, car elle enseigne que tout est cyclique — la vie, la mort, les saisons, les civilisations. Les adeptes de Rota Mundi en Ackerna croient fermement en la réincarnation, persuadés que les âmes reviennent sous forme d'animaux, de plantes ou même de pierres. Cette croyance, bien que fausse selon les théologiens d'autres nations, est profondément enracinée et influence les rites funéraires : les morts d'Ackerna ne sont jamais enterrés dans des cercueils mais déposés directement dans la terre, enveloppés de mousse et de feuilles, pour que leur corps nourrisse la prochaine vie.
+La lecture [[Rota Mundi]] s'intègre naturellement à la culture d'Ackerna, car elle enseigne que tout est cyclique — la vie, la mort, les saisons, les civilisations. Les adeptes de Rota Mundi en Ackerna inclinent vers une lecture marquée de la réincarnation : les âmes reviendraient sous forme d'animaux, de plantes ou même de pierres. Cette lecture est contestée par d'autres écoles théologiques d'Hybelior, qui en proposent des compréhensions différentes ; elle reste profondément enracinée à Ackerna et influence les rites funéraires. Les morts d'Ackerna ne sont jamais enterrés dans des cercueils mais déposés directement dans la terre, enveloppés de mousse et de feuilles, pour que leur corps nourrisse la prochaine vie.
 
 ---
 
 ## Culture et société
 
 ### Le Lien Végétal
-À la naissance de chaque enfant, un druide plante un arbre-jumeau. La santé de l'arbre est censée refléter celle de l'enfant, et vice versa. Quand un Ackernien meurt, son arbre-jumeau est considéré comme sacré et ne peut jamais être abattu.
+À la naissance de chaque enfant, un druide plante un arbre-jumeau. Selon la tradition druidique, la santé de l'arbre refléterait celle de l'enfant, et inversement — une corrélation que les druides rapportent comme évidente et que les visiteurs étrangers évaluent diversement. Quand un Ackernien meurt, son arbre-jumeau est considéré comme sacré et ne peut jamais être abattu.
 
 ### Hiérarchie sociale
 1. **Les Druides** — Guides spirituels et politiques, vénérés mais tenus à une vie d'austérité
@@ -115,7 +122,7 @@ La région la plus ouverte d'Ackerna, Siera est un paysage de clairières et de 
 **Histoire :** La Ville ne fut pas bâtie — elle fut guidée. Pendant trois générations, les premiers druides façonnèrent les arbres d'Obélia en orientant leurs branches, en reliant leurs racines, en enseignant à leurs enfants à continuer le travail. Ce qui ressemblait à de la forêt aux yeux des étrangers était en réalité une ville planifiée depuis le début. Le Bosquet Primordial en est le cœur non pas parce qu'il fut choisi, mais parce que les chênes millénaires qui le composent poussaient là bien avant que les humains n'arrivent — les druides construisirent autour d'eux comme on bâtit autour d'une fondation qu'on n'a pas posée.
 - Population : Grande ville
 - Région : Obélia
-- Particularités : Siège de l'Archidruide et du Cercle des Saisons. Temple-Racine de [[00_Systeme_Religieux|Vael'Kurash]], le plus ancien lieu de culte d'Ackerna.
+- Particularités : Siège de l'Archidruide et du Cercle des Saisons. Temple-Racine de [[Vael'Kurash]], le plus ancien lieu de culte d'Ackerna.
 
 ### Ylisfar — Village
 *Perché dans les branches d'un arbre colossal dont l'espèce est inconnue des botanistes, Ylisfar est un village suspendu accessible uniquement par des passerelles de lianes. Ses habitants sont des observateurs du ciel qui étudient les migrations des oiseaux pour prédire les changements de saisons avec une précision remarquable.*
@@ -193,7 +200,50 @@ La région la plus ouverte d'Ackerna, Siera est un paysage de clairières et de 
 
 ## Secrets et intrigues
 
-- **Les Racines qui Saignent** : Sous le Bosquet Primordial, les racines les plus profondes ont commencé à suinter un liquide rouge sombre. L'Archidruide Sylvenna a interdit l'accès aux cavernes souterraines, mais certains druides murmurent que le Pacte Sylvestre s'affaiblit — et que les esprits réclament un nouveau prix.
-- **Les Enfants de l'Hiver Noir** : Les druides bannis lors du Pacte Sylvestre n'ont pas disparu. Un réseau clandestin, se faisant appeler les Enfants de l'Hiver Noir, opère en secret dans les Marécages de Noyrath et tente de corrompre les esprits frontaliers pour reprendre pied en Ackerna. Certains de leurs agents se seraient infiltrés parmi les Gardiens de Bosquet.
-- **L'Arbre Sans Jumeau** : Un enfant est né récemment à AckernaVille dont l'arbre-jumeau a refusé de pousser. Les druides ont planté sept graines — toutes sont mortes. L'enfant grandit en parfaite santé, mais les anciens sont terrifiés : la dernière fois qu'un arbre-jumeau a refusé de pousser, c'était pour le druide qui allait déclencher l'Hiver Noir.
-- **Le Chant des Profondeurs** : Les habitants de Gnosias, dans leur silence, ont commencé à entendre un chant venant de sous la terre — une mélodie qui ne correspond à aucun esprit connu. Certains pensent qu'il émane du Lac des Rêves, au centre d'Ilthara, et qu'il annonce un changement cataclysmique.
+- **Les Racines qui Saignent** : Sous le Bosquet Primordial, les racines les plus profondes ont commencé à suinter un liquide rouge sombre. L'Archidruide Sylvenna a interdit l'accès aux cavernes souterraines. Selon certains druides, le Pacte Sylvestre s'affaiblirait et les esprits réclameraient un nouveau prix ; d'autres, plus prudents, parlent d'une simple anomalie géologique qu'on cherche à interpréter trop vite.
+- **Les Enfants de l'Hiver Noir** : Les druides bannis lors du Pacte Sylvestre n'ont pas disparu. Un réseau clandestin, se faisant appeler les Enfants de l'Hiver Noir, opère en secret dans les Marécages de Noyrath. La rumeur leur prête de tenter de retourner les esprits frontaliers contre Ackerna et d'avoir infiltré quelques Gardiens de Bosquet — accusations que le Cercle des Saisons traite avec sérieux sans pouvoir les confirmer publiquement.
+- **L'Arbre Sans Jumeau** : Un enfant est né récemment à AckernaVille dont l'arbre-jumeau a refusé de pousser. Les druides ont planté sept graines — toutes sont mortes. L'enfant grandit en parfaite santé, mais les anciens sont inquiets : selon la mémoire druidique, la dernière fois qu'un arbre-jumeau aurait refusé de pousser, ce fut pour le druide à qui fut imputé l'Hiver Noir. Cette correspondance, citée comme un présage, n'a jamais été démontrée comme une causalité.
+- **Le Chant des Profondeurs** : Les habitants de Gnosias, dans leur silence, ont commencé à entendre un chant venant de sous la terre — une mélodie qui ne correspond à aucun esprit que les druides sachent nommer. Selon certains, il émanerait du Lac des Rêves, au centre d'Ilthara, et annoncerait un changement cataclysmique. D'autres y entendent une musique étrange, sans plus.
+
+---
+
+## Données canoniques (source : Access)
+
+> Identité importée verbatim depuis `AccessExport/Pays.csv`. Sert de référence canonique au système Access historique.
+
+### Identité
+
+| Champ | Valeur |
+|-------|--------|
+| **N° Pays (CSV)** | 16 |
+| **Nom CSV** | Ackerna |
+| **Continent (CSV)** | Ilthara (N°10) |
+| **Gouvernement** | Théocratie druidique |
+| **Culture** | Culture druidique avec une profonde connexion à la nature et aux cycles des saisons. |
+| **Histoire marquante** | Le Pacte Sylvestre, un accord sacré signé entre les différentes communautés forestières pour protéger les terres contre toute exploitation extérieure. |
+| **Description CSV** | Un pays couvert de forêts denses et de montagnes, abritant des sociétés secrètes et des ordres anciens. |
+
+### Régions canoniques (source : Region.csv)
+
+- **Obélia** (R7) — *stub : description non renseignée dans le CSV*
+- **Reckia** (R8) — *stub : description non renseignée dans le CSV*
+- **Siera** (R9) — *stub : description non renseignée dans le CSV*
+
+### Villes canoniques (source : Ville.csv)
+
+Total : **11 villes/villages** réparties sur **3 régions**.
+
+| Ville | Région | Type |
+|-------|--------|------|
+| AckernaVille | Obélia | Capitale |
+| Ylisfar | Obélia | Village |
+| Myrisora | Obélia | Village |
+| Thyrana | Obélia | Village |
+| Vesperis | Reckia | ? |
+| Ostram | Reckia | ? |
+| Gnosias | Reckia | Village |
+| Ebrios | Siera | Village |
+| Drellesis | Siera | Village |
+| Bybias | Siera | Ville |
+| Merias | Siera | Ville |
+

@@ -1,3 +1,10 @@
+﻿---
+tags: [lore, pays, onara]
+type: lore
+status: drafted
+last_review: 2026-05-02
+needs_review_for: []
+---
 # Tyndara — La Ligue des Marchands
 
 > *« L'or ne ment pas. L'or ne trahit pas. L'or ne se souvient pas des offenses et ne porte pas de rancune. C'est pourquoi l'or est le meilleur diplomate du monde. »*
@@ -57,7 +64,7 @@ Le pouvoir à Tyndara appartient à l'argent :
 
 ### Via Ventus — La Voie du Vent (religion dominante)
 
-Les Tyndariens vénèrent Aerion, le dieu du vent, et Navigor, le guide des voyageurs. Le vent est le souffle du monde — il pousse les navires, porte les nouvelles, disperse les nuages. Suivre le vent, c'est suivre le destin.
+Les Tyndariens vénèrent Aerion comme entité du vent, et Navigor comme guide des voyageurs. Selon la lecture tyndarienne de Via Ventus, le vent est le souffle du monde — il pousse les navires, porte les nouvelles, disperse les nuages — et suivre le vent, c'est suivre le destin. Les théologiens de Solena, qui partagent la même Voie, distinguent plus volontiers les vents domestiqués (météorologie) du Souffle cosmique, et trouvent la lecture tyndarienne trop pragmatique pour leur goût.
 
 **Pratiques centrales :**
 - **Le Baptême du Vent** : Chaque nouveau-né est présenté face au vent dominant. La direction du vent à cet instant détermine son "destin de voyage" — nord pour l'aventure, sud pour la richesse, est pour la sagesse, ouest pour l'amour.
@@ -225,3 +232,54 @@ Région insulaire au large de la côte, composée de plusieurs îles. Ralmeria e
 - **La Guilde Fantôme** : Au-delà des douze guildes officielles, une treizième opère dans l'ombre — la **Guilde des Ombres**, spécialisée dans le commerce de marchandises interdites : poisons, artefacts maudits, informations volées. L'Archonte sait qu'elle existe mais ne peut la détruire sans déstabiliser l'économie entière.
 - **Le Trésor de Selyra** : La fondatrice de Tyndara aurait caché un trésor fabuleux avant sa mort — non pas de l'or, mais un **livre de routes** contenant les cartes de passages maritimes inconnus, menant à des terres que personne n'a encore découvertes. Des dizaines de chercheurs de trésor ont péri en le cherchant.
 - **La Corruption de Thyldrin** : La Banque des Guildes n'est pas aussi incorruptible qu'elle le prétend. Plusieurs directeurs détournent des fonds pour financer des opérations secrètes — certaines au profit de Mosrack. Si la fraude était révélée, la confiance dans la monnaie tyndarienne s'effondrerait.
+
+---
+
+## Données canoniques (source : Access)
+
+> Identité importée verbatim depuis `AccessExport/Pays.csv`. Sert de référence canonique au système Access historique.
+
+### Identité
+
+| Champ | Valeur |
+|-------|--------|
+| **N° Pays (CSV)** | 3 |
+| **Nom CSV** | Tyndara |
+| **Continent (CSV)** | Onara (N°14) |
+| **Gouvernement** | République marchande |
+| **Culture** | Culture maritime et commerciale, avec une grande influence des guildes marchandes. |
+| **Histoire marquante** | La fondation de la Ligue des Marchands, une alliance de guildes qui a établi la domination maritime de Tyndara. |
+| **Description CSV** | Un pays riche en traditions maritimes, avec de vastes côtes et une flotte puissante. |
+
+### Régions canoniques (source : Region.csv)
+
+- **Eryndor** (R119) — *stub : description non renseignée dans le CSV*
+- **Porthar** (R120) — *stub : description non renseignée dans le CSV*
+- **Celnar** (R121) — *stub : description non renseignée dans le CSV*
+- **Fablior** (R122) — *stub : description non renseignée dans le CSV*
+- **Ralmeria** (R137) — *stub : description non renseignée dans le CSV*
+
+### Villes canoniques (source : Ville.csv)
+
+Total : **17 villes/villages** réparties sur **5 régions**.
+
+| Ville | Région | Type |
+|-------|--------|------|
+| Eryndoris | Eryndor | Ville |
+| Thalorn | Eryndor | Village |
+| Vyndris | Eryndor | Village |
+| Portharis | Porthar | Ville |
+| Zyndris | Porthar | Village |
+| Thaloris | Porthar | Village |
+| Celnaris | Celnar | Ville |
+| Ryldorath | Celnar | Village |
+| Fablioris | Fablior | Capitale |
+| Thyldrin | Fablior | Village |
+| Galoris | Fablior | Village |
+| Cryslor | Ralmeria | Ville |
+| Thalorin | Ralmeria | Village |
+| Vyndor | Ralmeria | Village |
+| Galdor | Ralmeria | Village |
+| Myrath | Ralmeria | Village |
+| Zyloria | Ralmeria | Village |
+

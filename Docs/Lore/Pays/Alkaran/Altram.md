@@ -1,3 +1,10 @@
+﻿---
+tags: [lore, pays, alkaran]
+type: lore
+status: drafted
+last_review: 2026-05-02
+needs_review_for: []
+---
 # Altram — Le Trône de Fer et de Pierre
 
 > *« En Altram, on ne naît pas forgeron — on le devient dans la douleur, le feu et l'acier. »*
@@ -11,8 +18,8 @@
 |---|---|
 | **Continent** | Alkaran |
 | **Gouvernement** | Monarchie éclairée |
-| **Religion principale** | [[00_Systeme_Religieux\|Lex Petra]] (La Loi de Pierre) |
-| **Religion secondaire** | [[00_Systeme_Religieux\|Filii Fornacis]] (Les Enfants de la Forge) |
+| **Religion principale** | [[Lex Petra]] (La Loi de Pierre) |
+| **Religion secondaire** | [[Filii Fornacis]] (Les Enfants de la Forge) |
 | **Culture dominante** | Métallurgie, traditions guerrières, honneur familial |
 | **Histoire marquante** | La Rébellion des Forgerons |
 | **Ressources clés** | Fer, argent, pierres précieuses, acier d'exception |
@@ -57,7 +64,7 @@ Le roi actuel est **Aldric IV**, un souverain pragmatique et respecté, connu po
 
 ## Religion
 
-### [[00_Systeme_Religieux|Lex Petra]] — La Loi de Pierre (religion officielle)
+### [[Lex Petra]] — La Loi de Pierre (religion officielle)
 
 Les Altramites croient que l'ordre et la loi sont des forces naturelles incarnées dans la pierre elle-même. Chaque serment est prêté sur un bloc de pierre brute. Les tribunaux se tiennent dans des salles taillées dans la roche, et les juges portent des colliers de pierre polie symbolisant leur impartialité.
 
@@ -67,9 +74,9 @@ Les temples de la Lex Petra sont des cavernes naturelles élargies et gravées d
 - **Le Jour de la Pierre Première** (solstice d'hiver) — Chaque citoyen dépose une pierre gravée de son nom devant le temple, renouvelant son engagement envers la loi.
 - **Le Jugement des Flammes** (équinoxe de printemps) — Les forgerons présentent leurs meilleures créations au temple. La plus belle est fondue et coulée dans les fondations d'un nouveau bâtiment public, symbolisant que l'art sert la communauté.
 
-### [[00_Systeme_Religieux|Filii Fornacis]] — Les Enfants de la Forge (religion minoritaire)
+### [[Filii Fornacis]] — Les Enfants de la Forge (religion minoritaire)
 
-Une croyance populaire parmi les forgerons les plus dévots : Ferros, le Céleste Forgeron Légendaire, serait le véritable architecte du monde. Selon eux, le monde n'a pas été créé par les Éternels mais forgé — chaque montagne est un coup de marteau, chaque rivière une trempe d'acier. Cette hérésie est tolérée en Altram car elle renforce la fierté artisanale, mais les prêtres de la Lex Petra la regardent avec méfiance.
+Une croyance populaire parmi les forgerons les plus dévots tient Ferros, le Forgeron Légendaire (rang Céleste), pour le véritable architecte du monde. Dans cette lecture, le monde n'aurait pas émergé du Pacte Primordial selon les chants ordinaires — il aurait été *forgé*, chaque montagne portant un coup de marteau, chaque rivière une trempe d'acier. Les prêtres de la Lex Petra regardent cette interprétation avec méfiance ; elle est tolérée en Altram parce qu'elle renforce la fierté artisanale, et qu'aucun des deux camps n'a jamais pu produire de preuve qui clôturerait le débat.
 
 ---
 
@@ -214,7 +221,7 @@ Région méridionale plus tempérée, connue pour ses carrières de pierre préc
 - Région : Yaltar
 
 ### Namyr
-*Le plus petit village d'Altram, à peine une douzaine de maisons. Mais Namyr abrite le Sanctuaire de la Première Enclume — le lieu où, selon la légende, Varnok le Forgeur a frappé son premier coup de marteau. C'est un lieu de pèlerinage pour les [[00_Systeme_Religieux|Filii Fornacis]].*
+*Le plus petit village d'Altram, à peine une douzaine de maisons. Mais Namyr abrite le Sanctuaire de la Première Enclume — le lieu où, selon la légende, Varnok le Forgeur a frappé son premier coup de marteau. C'est un lieu de pèlerinage pour les [[Filii Fornacis]].*
 **Histoire :** Le sanctuaire fut bâti autour d'une roche plate marquée d'une entaille profonde — un coup de marteau ou simplement l'érosion, personne ne peut le dire avec certitude. Un prêtre des Filii Fornacis déclara, au retour d'une vision, que c'était le premier coup de Varnok, et que quiconque posait la main sur la marque recevait un fragment de son génie. Des forgerons vinrent de tout Altram pour toucher la pierre. Namyr n'existe que pour les accueillir — il ne s'est jamais développé au-delà de ce rôle.
 - Population : Village
 - Région : Yaltar
@@ -234,6 +241,58 @@ Région méridionale plus tempérée, connue pour ses carrières de pierre préc
 
 ## Secrets et intrigues
 
-- **La Veine Noire** : Sous les mines les plus profondes de Martelios, les mineurs ont découvert un métal inconnu, noir comme la nuit et impossible à fondre avec les techniques actuelles. Le roi a fait sceller la galerie et interdit d'en parler. Certains croient que c'est le sang cristallisé d'un Éternel.
+- **La Veine Noire** : Sous les mines les plus profondes de Martelios, les mineurs ont découvert un métal inconnu, noir comme la nuit et impossible à fondre avec les techniques actuelles. Le roi a fait sceller la galerie et interdit d'en parler. Les rumeurs des tavernes proposent toutes les lectures possibles — minerai des premiers âges, résidu d'un Souffle ancien, et même, dans une version que les prêtres réprouvent, un fragment cristallisé qu'ils nomment « le sang d'un Éternel », sans que personne n'avance jamais ce que cela voudrait dire.
 - **Le prince Brennan** entretient secrètement des contacts avec Mosrack, cherchant à moderniser l'armée d'Altram avec des machines de guerre — une idée que le Conseil des Maîtres rejetterait catégoriquement.
-- **La Guilde des Ombres-Forgerons** : Un groupe clandestin de forgerons qui créent des armes maudites pour le plus offrant. Ils suivent une version corrompue des [[00_Systeme_Religieux|Filii Fornacis]] et croient que Ferros exige des sacrifices de sang pour les plus grandes œuvres.
+- **La Guilde des Ombres-Forgerons** : Un groupe clandestin de forgerons qui créent des armes maudites pour le plus offrant. Ils suivent une version corrompue des [[Filii Fornacis]] et tiennent pour acquis que Ferros — tel qu'eux le perçoivent — réclamerait des sacrifices de sang pour les plus grandes œuvres. Les prêtres orthodoxes de Filii Fornacis rejettent cette lecture comme une dérive humaine sans fondement liturgique.
+
+---
+
+## Données canoniques (source : Access)
+
+> Identité importée verbatim depuis `AccessExport/Pays.csv`. Sert de référence canonique au système Access historique.
+
+### Identité
+
+| Champ | Valeur |
+|-------|--------|
+| **N° Pays (CSV)** | 1 |
+| **Nom CSV** | Altram |
+| **Continent (CSV)** | Alkaran (N°1) |
+| **Gouvernement** | Monarchie éclairée |
+| **Culture** | Culture centrée sur la métallurgie, la guerre et les traditions anciennes. |
+| **Histoire marquante** | La rébellion des forgerons, où les artisans d'Altram ont renversé un roi tyrannique pour établir une monarchie plus juste. |
+| **Description CSV** | Un pays montagnard avec des vallées profondes, riche en ressources naturelles, et connu pour ses forgerons. |
+
+### Régions canoniques (source : Region.csv)
+
+- **Sorel Tiam** (R2) — *stub : description non renseignée dans le CSV*
+- **Martelios** (R3) — *stub : description non renseignée dans le CSV*
+- **Liannor** (R4) — *stub : description non renseignée dans le CSV*
+- **Yaltar** (R5) — *stub : description non renseignée dans le CSV*
+- **Torian** (R6) — *stub : description non renseignée dans le CSV*
+- **Taloram** (R142) — *stub : description non renseignée dans le CSV*
+
+### Villes canoniques (source : Ville.csv)
+
+Total : **17 villes/villages** réparties sur **6 régions**.
+
+| Ville | Région | Type |
+|-------|--------|------|
+| Roseltar | Sorel Tiam | Ville |
+| Risel-Turam | Sorel Tiam | Village |
+| Tesmian | Sorel Tiam | Village |
+| Trelios | Martelios | Capitale |
+| Tanolies | Liannor | Ville |
+| Traum | Liannor | Ville |
+| Umert | Liannor | Village |
+| Sarultam | Yaltar | Ville |
+| Altemior | Yaltar | Village |
+| Namyr | Yaltar | Village |
+| Arios | Torian | Ville |
+| Turalt | Torian | Village |
+| Liram | Torian | Village |
+| Temeryl | Taloram | Ville |
+| Ulris | Taloram | Ville |
+| Sautrem | Taloram | Village |
+| Mirtel | Taloram | Village |
+

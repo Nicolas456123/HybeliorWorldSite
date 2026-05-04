@@ -1,3 +1,10 @@
+﻿---
+tags: [lore, pays, galenor]
+type: lore
+status: drafted
+last_review: 2026-05-02
+needs_review_for: []
+---
 # Lumasar — Le Royaume des Rêves Éveillés
 
 > *« La réalité n'est qu'un voile. À Lumasar, nous apprenons à regarder au travers. »*
@@ -11,8 +18,8 @@
 |---|---|
 | **Continent** | Galenor |
 | **Gouvernement** | Aristocratie académique |
-| **Religion principale** | [[00_Systeme_Religieux\|Somnium Vigil]] (Le Rêve Éveillé) |
-| **Religion secondaire** | [[00_Systeme_Religieux\|Ordo Caelum]] (L'Ordre Céleste) |
+| **Religion principale** | [[Somnium Vigil]] (Le Rêve Éveillé) |
+| **Religion secondaire** | [[Ordo Caelum]] (L'Ordre Céleste) |
 | **Culture dominante** | Érudite et magique, académies de magie, recherche arcanique |
 | **Histoire marquante** | La Grande Éclipse |
 | **Ressources clés** | Cristaux prismatiques, encre onirique, composants arcaniques, savoir académique |
@@ -35,9 +42,9 @@ Le pouvoir politique glissa naturellement vers les académiciens. Ceux qui compr
 
 ### La Grande Éclipse
 
-L'événement le plus marquant de l'histoire de Lumasar survint lorsque les archimages des cinq académies tentèrent une expérience collective : percer simultanément le voile onirique pour observer ce qui se trouvait de l'autre côté. Le rituel déclencha la **Grande Éclipse** — le ciel de Lumasar tout entier s'obscurcit pendant sept jours et sept nuits, tandis que des visions terrifiantes et merveilleuses se matérialisaient dans les rues, les champs et les forêts.
+L'événement le plus marquant de l'histoire de Lumasar survint, selon les chroniques académiques, lorsque les archimages des cinq académies tentèrent une expérience collective : percer simultanément le voile onirique pour observer ce qui se trouvait de l'autre côté. Le rituel coïncida avec la **Grande Éclipse** — le ciel de Lumasar tout entier s'obscurcit pendant sept jours et sept nuits, tandis que ce que les habitants décrivirent comme des visions terrifiantes et merveilleuses s'observa dans les rues, les champs et les forêts. Les chroniqueurs débattent encore de la causalité : certains lisent l'Éclipse comme conséquence du rituel, d'autres comme phénomène cosmique simultané que le rituel n'aurait fait qu'amplifier ou révéler.
 
-Des créatures de rêve errèrent dans le monde éveillé. Des cauchemars prirent forme. Des merveilles inimaginables apparurent puis s'évanouirent. Quand la lumière revint, Lumasar était changé à jamais : les cristaux prismatiques brillaient plus fort, la magie était plus accessible, mais aussi plus dangereuse. Les archimages survivants — trois sur cinq moururent pendant l'Éclipse — instaurèrent les **Lois de la Prudence**, un code strict régissant la pratique arcanique.
+Des créatures que les témoins décrivirent comme issues du rêve furent aperçues dans le monde éveillé. Des silhouettes prirent forme. Des merveilles inimaginables apparurent puis s'évanouirent. Quand la lumière revint, Lumasar était changé : les cristaux prismatiques brillaient plus fort, et les praticiens rapportent depuis lors que la magie y est plus accessible, mais aussi plus instable. Les archimages survivants — trois sur cinq moururent pendant l'Éclipse — instaurèrent les **Lois de la Prudence**, un code strict régissant la pratique arcanique.
 
 Depuis la Grande Éclipse, des failles oniriques s'ouvrent parfois sans prévenir, et Lumasar entretient un corps spécialisé de **Veilleurs** chargés de les refermer avant que des entités indésirables n'en émergent.
 
@@ -58,9 +65,9 @@ Le Grand Recteur actuel est **Thalendris Prismor**, un homme âgé d'une lucidit
 
 ## Religion
 
-### [[00_Systeme_Religieux|Somnium Vigil]] — Le Rêve Éveillé (religion principale)
+### [[Somnium Vigil]] — Le Rêve Éveillé (religion principale)
 
-Le Somnium Vigil enseigne que la réalité perçue n'est qu'une couche parmi d'autres, et que les rêves sont des fenêtres sur les strates profondes de l'existence. Les prêtres-rêveurs du [[00_Systeme_Religieux|Somnium Vigil]] pratiquent le sommeil rituel, entrant dans des transes contrôlées pour explorer les couches oniriques et en ramener des visions, des connaissances, parfois des fragments de matière onirique cristallisée.
+Le Somnium Vigil enseigne que la réalité perçue n'est qu'une couche parmi d'autres, et que les rêves sont des fenêtres sur les strates profondes de l'existence. Les prêtres-rêveurs du [[Somnium Vigil]] pratiquent le sommeil rituel, entrant dans des transes contrôlées pour explorer les couches oniriques et en ramener des visions, des connaissances, parfois des fragments de matière onirique cristallisée.
 
 Les temples du Somnium Vigil sont des dortoirs sacrés — de vastes salles silencieuses où les fidèles dorment côte à côte, partageant parfois un même rêve collectif. Les murs sont enduits d'encre onirique qui réagit aux émotions des dormeurs, créant des fresques éphémères chaque nuit.
 
@@ -68,7 +75,7 @@ Les temples du Somnium Vigil sont des dortoirs sacrés — de vastes salles sile
 - **La Nuit du Grand Rêve** (solstice d'hiver) — Toute la population de Lumasar dort simultanément, guidée par les prêtres dans un rêve collectif. Le contenu de ce rêve est interprété par le Cénacle comme un augure pour l'année à venir.
 - **L'Éveil de Somnix** (premier jour du printemps) — Célébration du dieu Somnix par un jeûne de sommeil : les fidèles restent éveillés pendant 48 heures, méditant sur la frontière entre veille et rêve, jusqu'à ce que les hallucinations naturelles de la privation de sommeil soient considérées comme des messages divins.
 
-### [[00_Systeme_Religieux|Ordo Caelum]] — L'Ordre Céleste (religion secondaire)
+### [[Ordo Caelum]] — L'Ordre Céleste (religion secondaire)
 
 L'Ordo Caelum, qui voit dans les constellations le langage divin, trouve un écho naturel à Lumasar où l'observation du ciel est une discipline académique. Les prêtres de l'Ordo Caelum de Lumasar sont souvent aussi des astronomes, et leurs observatoires servent autant à la prière qu'à la recherche. La cohabitation avec le Somnium Vigil est harmonieuse : les deux fois s'accordent sur l'idée que la réalité visible n'est qu'une fraction de ce qui existe.
 
@@ -169,7 +176,7 @@ Région méridionale la plus peuplée après Prismora, Invorial est la porte d'e
 - Région : Prismora
 
 ### Velkaris — Village
-*Village de souffleurs de cristal qui façonnent des instruments de musique translucides dont les sons induisent des états méditatifs. Les flûtes de Velkaris sont utilisées dans les temples du [[00_Systeme_Religieux|Somnium Vigil]] pour guider les fidèles vers le sommeil rituel.*
+*Village de souffleurs de cristal qui façonnent des instruments de musique translucides dont les sons induisent des états méditatifs. Les flûtes de Velkaris sont utilisées dans les temples du [[Somnium Vigil]] pour guider les fidèles vers le sommeil rituel.*
 **Histoire :** La découverte des propriétés sonores du cristal soufflé fut faite par un verrier qui cassa par accident une flûte en verre et tenta de la reproduire en cristal. Le son qu'il obtint était si étrange et si apaisant que ses voisins s'endormirent. Les prêtres du Somnium Vigil commandèrent une flûte d'essai, puis dix, puis tout ce que le village pouvait produire.
 - Population : Village
 - Région : Prismora
@@ -311,7 +318,70 @@ Région méridionale la plus peuplée après Prismora, Invorial est la porte d'e
 
 ## Secrets et intrigues
 
-- **Le Rêve qui ne Finit Pas** : Dans les sous-sols de l'académie de Prismalith, un archimage est endormi depuis quarante-sept ans, prisonnier d'un rêve dont personne ne parvient à le tirer. Son corps ne vieillit pas. Ses paupières tremblent parfois, et les Veilleurs qui le surveillent jurent que ses lèvres murmurent des coordonnées — des coordonnées qui correspondent à un lieu qui n'existe sur aucune carte connue.
+- **Le Rêve qui ne Finit Pas** : Dans les sous-sols de l'académie de Prismalith, un archimage est endormi depuis quarante-sept ans, dans un sommeil dont aucune intervention connue n'a su le tirer. Son corps ne vieillit pas perceptiblement. Ses paupières tremblent parfois, et les Veilleurs qui le surveillent rapportent que ses lèvres murmurent ce qu'ils interprètent comme des coordonnées — coordonnées qui ne correspondent à aucun lieu sur les cartes consultées.
 - **Les Enfants de l'Éclipse** : Depuis la Grande Éclipse, certains enfants naissent à Lumasar avec les yeux prismatiques — des iris qui changent de couleur selon la lumière. Ces enfants ont des capacités oniriques exceptionnelles, mais aussi une instabilité émotionnelle préoccupante. Le Cénacle les surveille de près, sans que le public sache exactement pourquoi.
 - **La Sixième Académie** : Des rumeurs persistantes évoquent l'existence d'une académie clandestine, cachée quelque part dans les failles de Gistenora, qui enseigne des arts arcaniques interdits par les Lois de la Prudence — notamment la manipulation des rêves d'autrui et la création d'entités oniriques permanentes.
 - **Le Grand Recteur et la Prophétie** : Thalendris Prismor affirme en privé que ses rêves prophétiques montrent une deuxième Éclipse, plus dévastatrice, provoquée non pas par accident mais par intention. Il soupçonne une faction interne, mais refuse de nommer qui que ce soit sans preuves — une prudence qui pourrait lui coûter cher.
+
+---
+
+## Données canoniques (source : Access)
+
+> Identité importée verbatim depuis `AccessExport/Pays.csv`. Sert de référence canonique au système Access historique.
+
+### Identité
+
+| Champ | Valeur |
+|-------|--------|
+| **N° Pays (CSV)** | 8 |
+| **Nom CSV** | Lumasar |
+| **Continent (CSV)** | Galenor (N°7) |
+| **Gouvernement** | Aristocratie académique |
+| **Culture** | Culture érudite et magique, où les académies de magie jouent un rôle central dans la société. |
+| **Histoire marquante** | La Grande Éclipse, un événement où une éclipse solaire a perturbé les flux magiques, obligeant les mages de Lumasar à unir leurs forces pour rétablir l'équilibre. |
+| **Description CSV** | Une terre fertile avec des plaines vastes, connue pour ses académies de magie et ses érudits. |
+
+### Régions canoniques (source : Region.csv)
+
+- **Dromolia** (R27) — *stub : description non renseignée dans le CSV*
+- **Prismora** (R28) — *stub : description non renseignée dans le CSV*
+- **Boreluna** (R29) — *stub : description non renseignée dans le CSV*
+- **Gistenora** (R30) — *stub : description non renseignée dans le CSV*
+- **Invorial** (R31) — *stub : description non renseignée dans le CSV*
+
+### Villes canoniques (source : Ville.csv)
+
+Total : **29 villes/villages** réparties sur **5 régions**.
+
+| Ville | Région | Type |
+|-------|--------|------|
+| Quenloria | Dromolia | Ville |
+| Velastris | Dromolia | Ville |
+| Dorlanis | Dromolia | Ville |
+| Torenlith | Dromolia | Village |
+| Vekrion | Dromolia | Village |
+| Hadris | Dromolia | Village |
+| Thalvar | Dromolia | Village |
+| Fynloris | Dromolia | Village |
+| Ondalith | Dromolia | Village |
+| Prismalith | Prismora | Capitale |
+| Sylvorn | Prismora | Village |
+| Falneth | Prismora | Village |
+| Draynor | Prismora | Village |
+| Vythora | Prismora | Village |
+| Melithar | Prismora | Village |
+| Nydoros | Prismora | Village |
+| Rithmar | Prismora | Village |
+| Velkaris | Prismora | Village |
+| Ulverith | Prismora | Village |
+| Brendorn | Boreluna | Ville |
+| Ythara | Boreluna | Village |
+| Myndora | Boreluna | Village |
+| Ethriel | Boreluna | Village |
+| Sylthronis | Gistenora | Ville |
+| Faldenor | Gistenora | Village |
+| Endelis | Gistenora | Village |
+| Ithriona | Gistenora | Village |
+| Kelanor | Invorial | Ville |
+| Drethorn | Invorial | Village |
+

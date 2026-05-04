@@ -1,3 +1,10 @@
+﻿---
+tags: [lore, pays, galenor]
+type: lore
+status: drafted
+last_review: 2026-05-02
+needs_review_for: []
+---
 # Valoria — La Confédération du Sang et de l'Acier
 
 > *« Nous ne prions pas les dieux à genoux. Nous les honorons debout, l'arme au poing et le nom de nos ancêtres sur les lèvres. »*
@@ -227,3 +234,50 @@ Région orientale de collines et de forêts clairsemées, Ethrion est la plus te
 - **L'Ambition de Theron** : Le fils du Haut-Thane rêve d'une Valoria unifiée sous un seul roi — lui-même. Il entretient secrètement des contacts avec Dame Nyra de Ventera et certains marchands de Kharazir, cherchant des alliés extérieurs pour contrebalancer le pouvoir des autres clans. Son père, s'il l'apprenait, devrait choisir entre son fils et son honneur.
 - **L'Ossuaire Interdit de Mytzar** : Le clan Mytzar garde un ossuaire scellé dont l'accès est interdit même aux Anciens. Le Thane Gronthar est le seul à y entrer, et il n'en parle jamais. Les rumeurs prétendent que l'ossuaire ne contient pas des os humains mais les restes d'une créature — ou d'un être — qui précéda les clans sur ces terres.
 - **La Pierre Noire de Valtheria** : Sous la Pierre de Valtheria — le bloc sacré de la fondation — une autre pierre est enterrée. Noire, lisse, et froide même en été. Les Gardiens de la Mémoire les plus anciens connaissent son existence mais jurent que Valtheria la Forgée elle-même l'y a placée en ordonnant qu'on ne la déterre « que lorsque la dernière guerre commencera ». Nul ne sait ce que cela signifie — mais nul ne souhaite le découvrir.
+
+---
+
+## Données canoniques (source : Access)
+
+> Identité importée verbatim depuis `AccessExport/Pays.csv`. Sert de référence canonique au système Access historique.
+
+### Identité
+
+| Champ | Valeur |
+|-------|--------|
+| **N° Pays (CSV)** | 13 |
+| **Nom CSV** | Valoria |
+| **Continent (CSV)** | Galenor (N°7) |
+| **Gouvernement** | Confédération clanique |
+| **Culture** | Culture guerrière et clanique, avec une forte tradition de loyauté envers le clan et la famille. |
+| **Histoire marquante** | L'Alliance des Clans, où les différentes factions de Valoria se sont unies pour repousser une invasion extérieure, solidifiant la confédération actuelle. |
+| **Description CSV** | Un pays montagneux et fertile, abritant des forteresses imposantes et des clans puissants. |
+
+### Régions canoniques (source : Region.csv)
+
+- **Caelith** (R53) — *stub : description non renseignée dans le CSV*
+- **Mytzar** (R54) — *stub : description non renseignée dans le CSV*
+- **Teldar** (R55) — *stub : description non renseignée dans le CSV*
+- **Ethrion** (R56) — *stub : description non renseignée dans le CSV*
+
+### Villes canoniques (source : Ville.csv)
+
+Total : **14 villes/villages** réparties sur **4 régions**.
+
+| Ville | Région | Type |
+|-------|--------|------|
+| Thalindor | Caelith | Village |
+| Felmaris | Caelith | Ville |
+| Lyntheria | Mytzar | Ville |
+| Ravynor | Mytzar | Village |
+| Thyndrel | Mytzar | Village |
+| Zalnor | Mytzar | Village |
+| Valtheria | Teldar | Capitale |
+| Selvorn | Teldar | Village |
+| Erynor | Teldar | Village |
+| Kaeldor | Teldar | Village |
+| Aldora | Teldar | Village |
+| Bryndor | Teldar | Village |
+| Astraneth | Ethrion | Ville |
+| Vyrndel | Ethrion | Village |
+

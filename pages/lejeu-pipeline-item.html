@@ -1,471 +1,551 @@
-<!-- ===== Pipeline Item — Du DataTable à l'équipement joueur ===== -->
+<!-- ===== Pipeline Item — De la fiche canon à l'item équipé en jeu ===== -->
 
-<!-- ===== Étape 1 — Définir un objet ===== -->
-<div class="section-header" id="etape1-definition">
-    <h2>Étape 1 — Définir un objet (DataTable)</h2>
-    <span class="section-count">FHWItemStaticDataStruct · EItemType · EItemSubCategory</span>
+<!-- ===== Vue d'ensemble ===== -->
+<div class="section-header" id="vue-densemble">
+    <h2>Vue d'ensemble du Pipeline</h2>
+    <span class="section-count">Fiche canon → DataTable → BP → Loot → Inventaire → Équipement</span>
 </div>
 
 <div class="codex-panel cyan-accent">
-    <div class="codex-label">Structure de données statiques d'un objet</div>
+    <div class="codex-label">Du concept GDD à l'item équipé sur le personnage</div>
     <p>
-        Chaque objet du jeu est défini dans un DataTable via la structure <strong style="color:var(--cyan);">FHWItemStaticDataStruct</strong>.
-        Elle contient l'ensemble des métadonnées nécessaires : nom, description, poids, type, sous-catégorie, taille de stack, niveau requis, durabilité, icône et meshes 3D.
+        Le pipeline d'un item parcourt <strong style="color:var(--cyan);">7 étapes</strong> qui partent du Markdown canon
+        (4 catégories d'items, 9 catégories de craft) et aboutissent à un item équipé qui modifie les attributs GAS du personnage.
+        Chaque étape produit un artefact concret : fiche d'archétype, ligne de DataTable, DataAsset de loot, instance runtime, GameplayEffect.
     </p>
     <p style="margin-bottom:0;">
-        Le type d'objet est défini par <strong style="color:var(--cyan);">EItemType</strong> (None, Resource, Weapon, Consumable, Equipment)
-        et affiné par <strong style="color:var(--cyan);">EItemSubCategory</strong> qui compte plus de <strong style="color:var(--gold);">106 catégories</strong> distinctes.
+        <strong style="color:var(--gold);">Prérequis d'usage canoniques</strong> : à terme, équiper un item demande deux conditions
+        — un palier d'<strong style="color:var(--gold);">Accord</strong> d'Ère suffisant (50% pour les Magistraux, 75% pour les Légendaires)
+        et une <strong style="color:var(--gold);">Maîtrise</strong> du type d'équipement adéquate.
+        L'Accord remplace l'ancien "niveau requis" comme condition sociale ; la Maîtrise reste la condition technique.
+    </p>
+</div>
+
+<div class="codex-panel" style="border-left-color: var(--gold);">
+    <div class="codex-label">Diagramme du pipeline data</div>
+    <pre style="color:var(--text-dim); font-family:'Courier New',monospace; font-size:0.85rem; line-height:1.6; margin:0; overflow-x:auto;">
+ ┌─────────────────────────────────────────────────────────────────────┐
+ │  <span style="color:var(--gold);">1. Fiche canon GDD</span>                                                │
+ │  03 - Mécaniques/Items/  →  4 catégories · ~70 types · 9 crafts    │
+ └──────────────────────────────┬──────────────────────────────────────┘
+                                ▼
+ ┌─────────────────────────────────────────────────────────────────────┐
+ │  <span style="color:var(--gold);">2. Catalogue Item</span>                                                 │
+ │  FHWItemStaticDataStruct  →  DT_ItemData (249) · DT_All_Items      │
+ └──────────────────────────────┬──────────────────────────────────────┘
+                                ▼
+ ┌─────────────────────────────────────────────────────────────────────┐
+ │  <span style="color:var(--gold);">3. Tier &amp; Prérequis canon</span>                                       │
+ │  6 tiers (Commun → Mythique)  +  Accord d'Ère  +  Maîtrise         │
+ └──────────────────────────────┬──────────────────────────────────────┘
+                                ▼
+ ┌─────────────────────────────────────────────────────────────────────┐
+ │  <span style="color:var(--gold);">4. Spawn &amp; Loot</span>                                                  │
+ │  UHWLootTable (UPrimaryDataAsset)  →  RollLoot()  →  3 sources    │
+ └──────────────────────────────┬──────────────────────────────────────┘
+                                ▼
+ ┌─────────────────────────────────────────────────────────────────────┐
+ │  <span style="color:var(--gold);">5. Inventaire runtime</span>                                             │
+ │  UHWInventoryComponent  →  FHWInventoryMaster (FastArraySerializer)│
+ └──────────────────────────────┬──────────────────────────────────────┘
+                                ▼
+ ┌─────────────────────────────────────────────────────────────────────┐
+ │  <span style="color:var(--gold);">6. Équipement &amp; GAS</span>                                              │
+ │  ApplyEquipmentStats()  →  UGameplayEffect Infinite  →  ASC        │
+ └──────────────────────────────┬──────────────────────────────────────┘
+                                ▼
+ ┌─────────────────────────────────────────────────────────────────────┐
+ │  <span style="color:var(--gold);">7. Persistance &amp; UI</span>                                              │
+ │  SerializeInventory() → JSON → OWS  ·  OnRep_Inventory → ReloadUI │
+ └─────────────────────────────────────────────────────────────────────┘
+    </pre>
+</div>
+
+<!-- ===== Étape 1 — Fiche canon GDD ===== -->
+<div class="section-header" id="etape1-canon">
+    <h2>Étape 1 — Fiche canon (GDD)</h2>
+    <span class="section-count">4 catégories · ~70 types · 9 catégories de craft</span>
+</div>
+
+<div class="codex-panel">
+    <div class="codex-label">La taxonomie canonique précède toute donnée moteur</div>
+    <p>
+        Avant qu'un item existe dans le moteur, il existe dans le canon — une fiche d'archétype
+        sous <strong style="color:var(--gold);">Documentation/GDD/03 - Mécaniques/Items/</strong>.
+        Le canon impose <strong style="color:var(--gold);">4 catégories</strong> principales (Consommable, Équipement, Récolte, Arme)
+        et <strong style="color:var(--gold);">9 catégories de craft</strong> qui regroupent les 63 métiers.
+    </p>
+    <p style="margin-bottom:0;">
+        Toute nouvelle entrée DataTable doit pouvoir se rattacher à une catégorie canon, à une source si Récolte (Nature / Créature / Fabriqué)
+        et à une catégorie de craft si elle est fabriquée. Les fiches d'archétype définissent aussi la disponibilité par Ère
+        (variants Spectral, Brulé, Onirique, Frost, etc.) et le tier visé.
+    </p>
+</div>
+
+<div class="feature-list">
+    <div class="feature-item">
+        <span class="feature-key">Consommable</span>
+        <span class="feature-value">Items à usage unique ou limité qui déclenchent un effet à la consommation. ~16 types : Boisson, Potion, Parchemin, Fruits, Légumes, Poisson, Viande, Fromage, Champignons, Gâteaux, Épices, Herbes, Cristal, Récipient, Livre Récipient, Divers.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">Équipement</span>
+        <span class="feature-value">Items portés qui modifient les attributs GAS. 5 sous-familles : Armures (8 slots × 5 classes Tissu/Cuir/Mailles/Plate/Spécial), Vêtements non-armure, Accessoires (Anneau, Amulette, Broche, Bracelet, Boucle d'oreille, Ceinture), Focus magiques (Orbe, Talisman, Tome, Cristal de Voie, Bandeau), Outils par métier.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">Récolte</span>
+        <span class="feature-value">Ressources brutes ou intermédiaires. 3 sources canoniques : Nature (21 types — Bois, Écorce, Plante, Minerai, Pierre, Gemme brut...), Créature (25 types — Os, Cuir, Plume, Écaille, Sang, Venin...), Fabriqué (15 intermédiaires — Lingot, Alliage, Fil métallique, Plaque de verre, Brique, Tissu...).</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">Arme</span>
+        <span class="feature-value">14 types canoniques alignés sur les Maîtrises de combat : Épée 1H/2H, Marteau 1H/2H, Hache 1H/2H, Lance, Rapière, Dague, Lame, Arc, Sceptre, Bouclier, Grand bouclier (+ Flèche comme munition).</span>
+    </div>
+</div>
+
+<div class="voie-list" style="margin-top: 32px; margin-bottom: 44px;">
+    <div class="voie-item">
+        <span class="voie-name">9 Catégories de Craft</span>
+        <span class="voie-desc"><strong style="color:var(--cyan);">Forge</strong>, <strong style="color:var(--cyan);">Alchimie</strong>, <strong style="color:var(--cyan);">Cuisine</strong>, <strong style="color:var(--cyan);">Tissage et confection</strong>, <strong style="color:var(--cyan);">Travail du cuir</strong>, <strong style="color:var(--cyan);">Joaillerie et lapidaire</strong>, <strong style="color:var(--cyan);">Travail du bois et de la pierre</strong>, <strong style="color:var(--cyan);">Scriptorium et enchantement</strong>, <strong style="color:var(--cyan);">Récolte et transformation primaire</strong>. Chaque craft est défini par 7 axes : métier, station, intrants, sortie, palier de Maîtrise requis, durée gameplay, mini-jeu.</span>
+        <span class="voie-tag">63 métiers regroupés</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name">Modulation par Ère</span>
+        <span class="voie-desc">Les Ères modulent les crafts : Verdoiement (+20% qualité Botanique/Apothicairerie), Sommeil de Glace (-20% rendement Botanique, +30% conservation alimentaire), Feu Endormi (+20% qualité Forge), Brume Mortelle (recettes alchimiques rares débloquées). Variants visuels d'items générés par Ère (Spectral, Brulé, Onirique...).</span>
+        <span class="voie-tag">Disponibilité variable</span>
+    </div>
+</div>
+
+<!-- ===== Étape 2 — Catalogue Item (DataTable) ===== -->
+<div class="section-header" id="etape2-catalogue">
+    <h2>Étape 2 — Catalogue Item (DataTable)</h2>
+    <span class="section-count">FHWItemStaticDataStruct · DT_ItemData · DT_All_Items</span>
+</div>
+
+<div class="codex-panel cyan-accent">
+    <div class="codex-label">La fiche canon devient une ligne de DataTable</div>
+    <p>
+        Chaque item est défini dans un DataTable via la structure <strong style="color:var(--cyan);">FHWItemStaticDataStruct</strong>
+        (header source : <code>Public/Inventory/HWItemStaticData.h</code>).
+        Le projet utilise actuellement <strong style="color:var(--cyan);">DT_ItemData</strong> (249 lignes) comme table maîtresse,
+        et <strong style="color:var(--cyan);">DT_All_Items</strong> (96 lignes) comme sous-ensemble actif.
+    </p>
+    <p style="margin-bottom:0;">
+        Le type principal est défini par <strong style="color:var(--cyan);">EItemType</strong> (None, Resource, Weapon, Consumable, Equipment)
+        et affiné par <strong style="color:var(--cyan);">EItemSubCategory</strong> (~30 valeurs effectives en table) :
+        <strong style="color:var(--gold);">Resource</strong> (90 lignes), <strong style="color:var(--gold);">Consumable</strong> (55), <strong style="color:var(--gold);">Weapon</strong> (52), <strong style="color:var(--gold);">Equipment</strong> (52).
     </p>
 </div>
 
 <div class="feature-list">
     <div class="feature-item">
         <span class="feature-key">Name / Description</span>
-        <span class="feature-value">Nom et description affichés dans l'interface — texte localisable.</span>
+        <span class="feature-value">Nom et description affichés dans l'UI — texte localisable. Identifiant de ligne (RowName) numérique ou tag.</span>
     </div>
     <div class="feature-item">
         <span class="feature-key">Weight / StackSize</span>
-        <span class="feature-value">Poids unitaire et nombre maximum d'objets empilables dans un seul emplacement d'inventaire.</span>
+        <span class="feature-value">Poids unitaire (float) et taille maximale d'empilage. StackSize=1 pour armes/équipements, 20–200 pour ressources et consommables.</span>
     </div>
     <div class="feature-item">
         <span class="feature-key">ItemType (EItemType)</span>
-        <span class="feature-value">Catégorie principale : <strong style="color:var(--gold);">None</strong>, <strong style="color:var(--gold);">Resource</strong>, <strong style="color:var(--gold);">Weapon</strong>, <strong style="color:var(--gold);">Consumable</strong>, <strong style="color:var(--gold);">Equipment</strong>.</span>
+        <span class="feature-value">Catégorie principale : <strong style="color:var(--gold);">Resource</strong>, <strong style="color:var(--gold);">Weapon</strong>, <strong style="color:var(--gold);">Consumable</strong>, <strong style="color:var(--gold);">Equipment</strong>. Aligné sur les 4 catégories canon GDD.</span>
     </div>
     <div class="feature-item">
         <span class="feature-key">SubCategory (EItemSubCategory)</span>
-        <span class="feature-value">Sous-catégorie fine parmi 106+ entrées — permet un filtrage précis dans l'inventaire, le commerce et les conditions de quête.</span>
+        <span class="feature-value">Sous-catégorie fine : 13 types d'armes (SwordOneHand, Bow, Scepter, Dagger...), 14 types d'équipement (Amulet, Helmet, Chestplate...), 16 types de consommables, 21 types de ressources Nature + créature.</span>
     </div>
     <div class="feature-item">
-        <span class="feature-key">RequiredLevel / MaxUses / Durability</span>
-        <span class="feature-value">Niveau minimum pour utiliser l'objet, nombre d'utilisations maximales et points de durabilité initiale.</span>
+        <span class="feature-key">RequiredLevel (legacy)</span>
+        <span class="feature-value"><strong style="color:#8b2020;">Dette technique D-GD-ACCORD</strong> — champ legacy à remplacer par Accord d'Ère + palier de Maîtrise. Le canon impose Accord 50%/75% selon tier (Magistral/Légendaire) et Maîtrise du type d'arme. Refonte sémantique en cours.</span>
     </div>
     <div class="feature-item">
-        <span class="feature-key">Icon (UTexture2D*)</span>
-        <span class="feature-value">Texture 2D utilisée pour l'affichage dans l'inventaire, les tooltips et les barres d'actions.</span>
+        <span class="feature-key">MaxUses / Durability</span>
+        <span class="feature-value">Nombre d'utilisations max (0 = illimité, pour ressources/consommables) et durabilité initiale (80–250 pour les armes/armures). La durabilité décroît à la mort et à l'usage — restaurée chez un forgeron.</span>
     </div>
     <div class="feature-item">
-        <span class="feature-key">StaticMesh / SkeletalMesh</span>
-        <span class="feature-value">Meshes 3D pour la représentation dans le monde (drop au sol) et sur le personnage (équipement porté).</span>
+        <span class="feature-key">Icon / StaticMesh / SkeletalMesh</span>
+        <span class="feature-value">Référence Soft à la texture d'inventaire (UTexture2D), au mesh statique pour le drop au sol et au mesh squelettique pour l'équipement porté sur le personnage.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">MasteryLevel / MasteryExperience</span>
+        <span class="feature-value">Système de maîtrise présent structurellement mais inactif — à raccrocher aux 5 paliers canoniques (Novice, Initié, Adepte, Expert, Maître) et à la décroissance / rouille post-Souffle (-15% pendant 1 semaine après chaque Souffle).</span>
     </div>
 </div>
 
-<div class="voie-list" style="margin-bottom: 44px;">
+<div class="voie-list" style="margin-top: 32px; margin-bottom: 44px;">
     <div class="voie-item">
         <span class="voie-name">Caracteristics — TArray&lt;FHWCara&gt;</span>
-        <span class="voie-desc">Tableau de caractéristiques associées à l'objet. Chaque entrée contient un <strong style="color:var(--cyan);">ECara</strong> (MaxHealth, Attack, Defense, CritRate, CritDamage, dégâts/résistances élémentaires, etc.) et une <strong style="color:var(--gold);">CaraValue</strong> numérique.</span>
+        <span class="voie-desc">Tableau de caractéristiques associées à l'item. Chaque entrée contient un <strong style="color:var(--cyan);">ECara</strong> (MaxHealth, Attack, Defense, CritRate, CritDamage, dégâts/résistances élémentaires, etc.) et une <strong style="color:var(--gold);">CaraValue</strong> numérique. <strong style="color:#8b2020;">Bug confirmé</strong> : Caracteristics vide sur les 249 lignes de DT_ItemData → ApplyEquipmentStats() n'applique aucun bonus tant que la table n'est pas peuplée.</span>
         <span class="voie-tag">Stats · ECara</span>
     </div>
     <div class="voie-item">
-        <span class="voie-name">16 Equipment Slots</span>
-        <span class="voie-desc">De <strong style="color:var(--gold);">HeadSlot</strong> à <strong style="color:var(--gold);">CrystalSlot</strong>, chaque emplacement est mappé par un Order (1 à 16) qui détermine la position dans l'interface d'équipement.</span>
-        <span class="voie-tag">Order 1–16</span>
+        <span class="voie-name">Identifiants doubles</span>
+        <span class="voie-desc">Runtime réseau : <strong style="color:var(--cyan);">ItemTypeID</strong> (int32, index DataTable). LootTable / Quest / Dialogue / Unlock : <strong style="color:var(--cyan);">FGameplayTag</strong>. Mapping tag→ID nécessaire côté consommateur pour convertir un FHWLootResult en FHWInventoryItem.</span>
+        <span class="voie-tag">int32 · GameplayTag</span>
     </div>
 </div>
 
-<!-- ===== Étape 2 — Table de loot ===== -->
-<div class="section-header" id="etape2-loot">
-    <h2>Étape 2 — Table de loot</h2>
-    <span class="section-count">UHWLootTable · FHWLootEntry · RollLoot</span>
+<!-- ===== Étape 3 — Tiers et prérequis canoniques ===== -->
+<div class="section-header" id="etape3-tiers">
+    <h2>Étape 3 — Tiers &amp; Prérequis canoniques</h2>
+    <span class="section-count">6 tiers · Accord d'Ère + Maîtrise</span>
+</div>
+
+<div class="codex-panel cyan-accent">
+    <div class="codex-label">L'Accord remplace le niveau requis classique</div>
+    <p>
+        Les items s'organisent en <strong style="color:var(--cyan);">6 tiers qualitatifs</strong> alignés sur les paliers de Maîtrise.
+        Pour équiper un item, deux conditions doivent être remplies simultanément :
+        un palier d'<strong style="color:var(--cyan);">Accord d'Ère</strong> suffisant (condition sociale) et une <strong style="color:var(--cyan);">Maîtrise</strong> du type d'équipement (condition technique).
+    </p>
+    <p style="margin-bottom:0;">
+        Cette double condition remplace le simple "niveau requis" classique des MMO.
+        Un Concordant à 75% sans Maîtrise d'épée ne peut équiper une épée légendaire ; un Maître d'épée à seulement 30% d'Accord non plus.
+        Au Souffle, les paliers d'Accord dérivent — certains items se retrouvent temporairement non équipables le temps de la réacclimatation.
+    </p>
+</div>
+
+<div class="feature-list">
+    <div class="feature-item">
+        <span class="feature-key">Tier 1 — Commun</span>
+        <span class="feature-value">Items 1–20. Stats 1×. Loot bas, marchands PNJ, novices. Pas d'enchantement, façonnage trivial. Aucun prérequis d'Accord. Couleur UI grise.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">Tier 2 — Façonné</span>
+        <span class="feature-value">Items 21–40. Stats 1.5×. Initiés, drops zones moyennes. Façonnage standard. Couleur UI blanche.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">Tier 3 — Œuvré</span>
+        <span class="feature-value">Items 41–60. Stats 2×. Adeptes, drops zones avancées. Slot d'enchantement optionnel, signature du créateur possible. Couleur UI verte.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">Tier 4 — Magistral</span>
+        <span class="feature-value">Items 61–80. Stats 3×. 1 slot d'enchantement, 1 propriété spéciale, signature visible. <strong style="color:var(--gold);">Prérequis : 50% d'Accord d'Ère + Maîtrise suffisante</strong>. Couleur UI bleue.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">Tier 5 — Légendaire</span>
+        <span class="feature-value">Items 81–100. Stats 4.5×. 2 slots, 2–3 propriétés spéciales, signature célèbre. <strong style="color:var(--gold);">Prérequis : 75% d'Accord d'Ère + Maîtrise suffisante</strong>. Couleur UI violette. Au-delà des stats, la légende vient du créateur, de la circonstance, du first discovery.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">Tier 6 — Mythique</span>
+        <span class="feature-value">Items 101+. Stats 6× ou plus. 3 slots et plus, propriétés uniques, irreproductible (un seul exemplaire dans le monde). Conditions cachées extrêmes, accessibles depuis le palier 100% d'Accord seulement. Couleur UI orange.</span>
+    </div>
+</div>
+
+<!-- ===== Étape 4 — Spawn et Loot ===== -->
+<div class="section-header" id="etape4-loot">
+    <h2>Étape 4 — Spawn &amp; Loot</h2>
+    <span class="section-count">UHWLootTable · UPrimaryDataAsset · 3 canaux d'apparition</span>
 </div>
 
 <div class="codex-panel cyan-accent">
     <div class="codex-label">Définition probabiliste du butin</div>
     <p>
         <strong style="color:var(--cyan);">UHWLootTable</strong> est un <strong style="color:var(--cyan);">UPrimaryDataAsset</strong> qui définit une table de loot complète.
-        Chaque table possède un identifiant unique via <strong style="color:var(--cyan);">FGameplayTag</strong>, un tableau d'entrées, un nombre de drops garantis et un plafond de drops maximum.
+        Chaque table est identifiée par un <strong style="color:var(--cyan);">FGameplayTag</strong>, possède un tableau d'entrées,
+        un nombre de drops garantis et un plafond de drops maximum.
+        Le découverte se fait automatiquement par <strong style="color:var(--cyan);">UHWAssetManager</strong> via le scan des
+        <code>PrimaryAssetTypesToScan</code> déclarés dans <code>DefaultGame.ini</code>.
     </p>
     <p style="margin-bottom:0;">
-        La méthode <strong style="color:var(--gold);">RollLoot(PlayerLevel, LuckMultiplier)</strong> exécute un système en 3 phases :
-        <strong style="color:var(--gold);">tirage aléatoire</strong> → <strong style="color:var(--gold);">remplissage garanti</strong> → <strong style="color:var(--gold);">limitation au plafond</strong>.
+        <strong style="color:#8b2020;">Dette technique D-GD-ACCORD</strong> — la méthode <code>RollLoot(PlayerLevel, LuckMultiplier)</code> utilise actuellement
+        <strong style="color:#8b2020;">PlayerLevel</strong> comme entrée de scaling. La cible canonique post-refonte est de scaler sur
+        <strong style="color:var(--gold);">Accord (couche 3)</strong> + <strong style="color:var(--gold);">stats brutes (couche 1)</strong> + <strong style="color:var(--gold);">tier 6 niveaux</strong>.
+        Refonte sémantique seule en V3, code à venir.
     </p>
 </div>
 
 <div class="feature-list">
     <div class="feature-item">
         <span class="feature-key">LootTableID (FGameplayTag)</span>
-        <span class="feature-value">Identifiant unique de la table de loot — utilisé pour le référencement depuis les mobs, conteneurs et récompenses de quêtes.</span>
+        <span class="feature-value">Identifiant unique de la table — référencé depuis les mobs (TSoftObjectPtr&lt;UHWLootTable&gt;), les conteneurs et les récompenses de quêtes.</span>
     </div>
     <div class="feature-item">
         <span class="feature-key">GuaranteedDropCount / MaxDropCount</span>
-        <span class="feature-value">Nombre minimum de drops garantis et nombre maximum d'objets que la table peut produire en un seul tirage.</span>
+        <span class="feature-value">Nombre minimum garanti et plafond maximum d'objets produits en un seul tirage. Permet de calibrer un drop minimum (loot d'apprentissage) tout en bornant l'inflation.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">Découverte AssetManager</span>
+        <span class="feature-value">UPrimaryDataAsset auto-découvert par UHWAssetManager. Pas de référence directe nécessaire dans le code — l'AssetManager retrouve les tables par FPrimaryAssetId(LootTable, FName) depuis <code>/Game/Data/LootTables</code>.</span>
     </div>
 </div>
 
-<div class="voie-list" style="margin-bottom: 44px;">
+<div class="voie-list" style="margin-top: 32px; margin-bottom: 44px;">
     <div class="voie-item">
         <span class="voie-name">FHWLootEntry</span>
-        <span class="voie-desc">Entrée individuelle de la table : <strong style="color:var(--cyan);">ItemTag</strong>, <strong style="color:var(--gold);">DropChance</strong> (0–1), <strong style="color:var(--gold);">MinQuantity/MaxQuantity</strong>, <strong style="color:var(--cyan);">MinPlayerLevel</strong>, <strong style="color:var(--cyan);">MinMasteryLevel</strong>, <strong style="color:var(--cyan);">RequiredMasteryType</strong>, <strong style="color:var(--cyan);">HiddenConditionTag</strong>, <strong style="color:var(--cyan);">RarityTag</strong>.</span>
+        <span class="voie-desc">Entrée individuelle de la table : <strong style="color:var(--cyan);">ItemTag</strong>, <strong style="color:var(--gold);">DropChance</strong> (0–1), <strong style="color:var(--gold);">MinQuantity/MaxQuantity</strong>, <strong style="color:var(--cyan);">MinMasteryLevel</strong>, <strong style="color:var(--cyan);">RequiredMasteryType</strong>, <strong style="color:var(--cyan);">HiddenConditionTag</strong> (conditions cachées), <strong style="color:var(--cyan);">RarityTag</strong> (mappé aux 6 tiers).</span>
         <span class="voie-tag">Probabilité · Conditions</span>
     </div>
     <div class="voie-item">
-        <span class="voie-name">RollLoot — Phase 1</span>
-        <span class="voie-desc">Tirage aléatoire : chaque entrée est évaluée contre sa DropChance multipliée par le LuckMultiplier du joueur. Les entrées dont les conditions ne sont pas remplies sont exclues.</span>
+        <span class="voie-name">RollLoot — Phase 1 · Tirage</span>
+        <span class="voie-desc">Chaque entrée est évaluée contre sa DropChance multipliée par le LuckMultiplier du joueur. Les entrées dont les conditions (Maîtrise minimum, condition cachée, Accord cible post-refonte) ne sont pas remplies sont exclues d'office.</span>
         <span class="voie-tag">Random Roll</span>
     </div>
     <div class="voie-item">
-        <span class="voie-name">RollLoot — Phase 2</span>
-        <span class="voie-desc">Remplissage garanti : si le nombre de drops obtenus est inférieur à GuaranteedDropCount, des entrées supplémentaires sont sélectionnées pour atteindre le minimum.</span>
+        <span class="voie-name">RollLoot — Phase 2 · Garantis</span>
+        <span class="voie-desc">Si le nombre de drops obtenus est inférieur à GuaranteedDropCount, des entrées supplémentaires sont sélectionnées par ordre de poids pour atteindre le minimum garanti.</span>
         <span class="voie-tag">Guaranteed Fill</span>
     </div>
     <div class="voie-item">
-        <span class="voie-name">RollLoot — Phase 3</span>
-        <span class="voie-desc">Limitation au plafond : si le nombre total de drops dépasse MaxDropCount, les entrées excédentaires sont retirées par ordre de priorité décroissante.</span>
+        <span class="voie-name">RollLoot — Phase 3 · Plafond</span>
+        <span class="voie-desc">Si le total dépasse MaxDropCount, les entrées excédentaires sont retirées par ordre de priorité décroissante. Garantit qu'un boss ne déverse pas un inventaire entier d'un coup.</span>
         <span class="voie-tag">Cap Enforcement</span>
     </div>
 </div>
 
-<!-- ===== Étape 3 — Entrée dans le monde ===== -->
-<div class="section-header" id="etape3-spawn">
-    <h2>Étape 3 — Entrée dans le monde</h2>
-    <span class="section-count">MobDead · AHWContainer · Récompenses</span>
-</div>
-
 <div class="codex-panel">
-    <div class="codex-label">Comment un objet apparaît dans le monde</div>
-    <p>
-        Les objets entrent dans le monde par trois canaux principaux : le <strong style="color:var(--gold);">drop de mob</strong> à la mort, le <strong style="color:var(--gold);">contenu de conteneur</strong> pré-généré ou dynamique, et les <strong style="color:var(--gold);">récompenses</strong> de quêtes ou ajouts manuels.
+    <div class="codex-label">3 canaux d'entrée d'un item dans le monde</div>
+    <p style="margin-bottom:0;">
+        Un item rejoint l'inventaire par trois voies. Chacune termine par un appel à <strong style="color:var(--gold);">UHWInventoryComponent::AddItem()</strong>
+        après conversion FHWLootResult → FHWInventoryItem.
     </p>
 </div>
 
 <div class="voie-list" style="margin-bottom: 44px;">
     <div class="voie-item">
         <span class="voie-name">Mob Drops</span>
-        <span class="voie-desc"><strong style="color:var(--cyan);">AHWGASMobCharacter::MobDead()</strong> déclenche le tirage de loot via <strong style="color:var(--gold);">LootTable->RollLoot()</strong>. Les objets obtenus sont mis à disposition du joueur ayant infligé le coup fatal.</span>
+        <span class="voie-desc"><strong style="color:var(--cyan);">AHWGASMobCharacter::OnDeath()</strong> déclenche le tirage via <strong style="color:var(--gold);">LootTable->RollLoot()</strong>. Les FHWLootResult retournés sont convertis en FHWInventoryItem et mis à disposition du joueur ayant infligé le coup fatal.</span>
         <span class="voie-tag">Kill → Loot</span>
     </div>
     <div class="voie-item">
         <span class="voie-name">Containers</span>
-        <span class="voie-desc"><strong style="color:var(--cyan);">AHWContainer</strong> implémente <strong style="color:var(--cyan);">IInteractable</strong> et possède un <strong style="color:var(--cyan);">LootTableID</strong>, un état <strong style="color:var(--gold);">bIsCurrentlyOpen</strong> et un <strong style="color:var(--cyan);">InteractableGUID</strong> pour la persistance.</span>
+        <span class="voie-desc"><strong style="color:var(--cyan);">AHWContainer</strong> implémente <strong style="color:var(--cyan);">IInteractable</strong> et possède un <strong style="color:var(--cyan);">LootTableID</strong>, un état <strong style="color:var(--gold);">bIsCurrentlyOpen</strong> et un <strong style="color:var(--cyan);">InteractableGUID</strong> pour la persistance. L'ouverture passe par RPC serveur Server_OpenContainer.</span>
         <span class="voie-tag">Coffre · Persistance</span>
     </div>
     <div class="voie-item">
         <span class="voie-name">Récompenses / Manuel</span>
-        <span class="voie-desc">Les quêtes et les systèmes de test utilisent <strong style="color:var(--gold);">AddNewItem()</strong> et <strong style="color:var(--gold);">AddItemToTest()</strong> pour injecter directement des objets dans l'inventaire du joueur.</span>
-        <span class="voie-tag">Quêtes · Debug</span>
+        <span class="voie-desc">Quêtes, crafts joueur, signatures d'œuvres, ajouts manuels via <strong style="color:var(--gold);">AddNewItem()</strong> et <strong style="color:var(--gold);">AddItemToTest()</strong>. Une œuvre Magistrale signée par un artisan rejoint cet inventaire et peut rapporter de l'Accord à son créateur.</span>
+        <span class="voie-tag">Quêtes · Craft · Debug</span>
     </div>
 </div>
 
-<!-- ===== Étape 4 — Interaction joueur ===== -->
-<div class="section-header" id="etape4-interaction">
-    <h2>Étape 4 — Interaction joueur</h2>
-    <span class="section-count">AHWPlayerController · Server_OpenContainer · OWS</span>
-</div>
-
-<div class="codex-panel cyan-accent">
-    <div class="codex-label">Du clic joueur à la récupération d'objet</div>
-    <p>
-        Le joueur déclenche une interaction via <strong style="color:var(--cyan);">AHWPlayerController::Interact()</strong> qui appelle <strong style="color:var(--cyan);">GetOverlappedInteractables()</strong> pour détecter les objets interactifs à portée.
-    </p>
-    <p style="margin-bottom:0;">
-        Pour un conteneur, le <strong style="color:var(--gold);">Server_OpenContainer()</strong> RPC est envoyé au serveur, qui valide l'accès, crée des <strong style="color:var(--cyan);">FHWContainerOpenedItem</strong> et persiste l'état via <strong style="color:var(--cyan);">OWS</strong>.
-        L'UI affiche ensuite l'inventaire du conteneur et le joueur peut glisser les objets vers son inventaire.
-    </p>
-</div>
-
-<div class="feature-list">
-    <div class="feature-item">
-        <span class="feature-key">Interact()</span>
-        <span class="feature-value">Point d'entrée de l'interaction joueur — détecte les IInteractable dans la zone de chevauchement et déclenche l'action appropriée.</span>
-    </div>
-    <div class="feature-item">
-        <span class="feature-key">GetOverlappedInteractables()</span>
-        <span class="feature-value">Retourne la liste des objets interactifs actuellement à portée du joueur, triés par proximité.</span>
-    </div>
-    <div class="feature-item">
-        <span class="feature-key">Server_OpenContainer() RPC</span>
-        <span class="feature-value">Appel serveur validé — vérifie la légitimité de l'accès, génère le contenu du conteneur et crée les <strong style="color:var(--cyan);">FHWContainerOpenedItem</strong> correspondants.</span>
-    </div>
-    <div class="feature-item">
-        <span class="feature-key">Persistance OWS</span>
-        <span class="feature-value">L'état du conteneur (ouvert/fermé, contenu restant) est persisté côté serveur via OWS pour garantir la cohérence entre sessions.</span>
-    </div>
-</div>
-
-<!-- ===== Étape 5 — Gestion de l'inventaire ===== -->
+<!-- ===== Étape 5 — Inventaire runtime ===== -->
 <div class="section-header" id="etape5-inventaire">
-    <h2>Étape 5 — Gestion de l'inventaire</h2>
-    <span class="section-count">UHWInventoryComponent · FHWInventoryMaster · FFastArraySerializer</span>
+    <h2>Étape 5 — Inventaire runtime</h2>
+    <span class="section-count">UHWInventoryComponent · FHWInventoryMaster · FastArraySerializer</span>
 </div>
 
 <div class="codex-panel cyan-accent">
     <div class="codex-label">Stockage, manipulation et réplication des objets</div>
     <p>
-        Le composant <strong style="color:var(--cyan);">UHWInventoryComponent</strong> gère l'inventaire via la structure <strong style="color:var(--cyan);">FHWInventoryMaster</strong>,
-        qui hérite de <strong style="color:var(--cyan);">FFastArraySerializer</strong> pour une réplication réseau optimisée.
+        Le composant <strong style="color:var(--cyan);">UHWInventoryComponent</strong> est monté sur <strong style="color:var(--cyan);">AHWPlayerController</strong> en deux instances :
+        <strong style="color:var(--gold);">BagInventory</strong> (sac à dos) et <strong style="color:var(--gold);">EquipmentInventory</strong> (slots équipés).
+        Chaque composant possède une <strong style="color:var(--cyan);">FHWInventoryMaster</strong> qui hérite de <strong style="color:var(--cyan);">FFastArraySerializer</strong> pour une réplication push-based optimisée.
     </p>
     <p style="margin-bottom:0;">
-        Chaque objet en inventaire est représenté par un <strong style="color:var(--cyan);">FHWInventoryItem</strong> contenant un GUID unique, un identifiant de type, la quantité, le numéro de slot, l'état de durabilité, les statistiques de combat et l'ordre d'affichage.
+        Les items en inventaire sont représentés par des <strong style="color:var(--cyan);">FHWInventoryItem</strong> contenant un GUID unique d'instance,
+        l'identifiant de type DataTable, la quantité, l'ordre d'affichage, l'état de durabilité et les statistiques de combat.
+        Le GUID préserve l'identité d'un item à travers les déplacements, les sauvegardes et les restaurations.
     </p>
 </div>
 
 <div class="feature-list">
     <div class="feature-item">
         <span class="feature-key">FHWInventoryItem</span>
-        <span class="feature-value">Structure runtime d'un objet en inventaire : <strong style="color:var(--cyan);">ItemGUID</strong>, <strong style="color:var(--cyan);">ItemTypeID</strong>, Quantity, InSlotNumber, NumberOfUsesLeft, Condition.</span>
+        <span class="feature-value">Structure runtime : <strong style="color:var(--cyan);">ItemGUID</strong> (FGuid d'instance), <strong style="color:var(--cyan);">ItemTypeID</strong> (lookup DataTable), Quantity, Order (position bag ou slot équipement), NumberOfUsesLeft, Condition (durabilité 0–100). Hérite de FFastArraySerializerItem.</span>
     </div>
     <div class="feature-item">
-        <span class="feature-key">Stats de combat</span>
-        <span class="feature-value">FlatAttack, FlatDefense, FlatHP, pourcentages, CritRate, CritDamage — stockés directement sur l'item pour un accès rapide.</span>
+        <span class="feature-key">Stats de combat embarquées</span>
+        <span class="feature-value">FlatAttack, FlatDefense, FlatHP, AttackPercent, DefensePercent, HPPercent, CritRate, CritDamage — stockés directement sur l'item pour un accès rapide sans relookup DataTable à chaque requête.</span>
     </div>
     <div class="feature-item">
-        <span class="feature-key">ItemStats array / Order</span>
-        <span class="feature-value">Tableau de statistiques détaillées et ordre d'affichage dans l'inventaire pour le tri et la présentation UI.</span>
+        <span class="feature-key">ItemStats array</span>
+        <span class="feature-value">Tableau de FHWCara détaillées (ECara + valeur) pour les bonus issus du tier, des enchantements et des affixes générés. Alimente l'ApplyEquipmentStats() au moment de l'équipement.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">17 slots d'équipement (EEquipmentSlot)</span>
+        <span class="feature-value">HeadSlot, EarringRightSlot, EarringLeftSlot, NecklaceSlot, ChestSlot, BeltSlot, CloakSlot, BracerLeftSlot, BracerRightSlot, HandLeftSlot, HandRightSlot, RingLeftSlot, RingRightSlot, PantsSlot, BootsSlot, CrystalSlot. Mappés au champ Order via GetSlotFromOrder().</span>
     </div>
 </div>
 
-<div class="voie-list" style="margin-bottom: 44px;">
+<div class="voie-list" style="margin-top: 32px; margin-bottom: 44px;">
     <div class="voie-item">
         <span class="voie-name">AddNewItem</span>
-        <span class="voie-desc">Génère un <strong style="color:var(--cyan);">GUID</strong> unique, ajoute l'objet au tableau de l'inventaire, gère le stacking automatique et marque le tableau <strong style="color:var(--gold);">dirty</strong> pour la réplication réseau.</span>
+        <span class="voie-desc">Génère un <strong style="color:var(--cyan);">GUID</strong> unique d'instance, ajoute l'item au tableau, gère le stacking automatique sur les slots existants et marque le tableau <strong style="color:var(--gold);">dirty</strong> pour la réplication FastArray delta.</span>
         <span class="voie-tag">Ajout · GUID</span>
     </div>
     <div class="voie-item">
-        <span class="voie-name">MoveItem</span>
-        <span class="voie-desc"><strong style="color:var(--gold);">ServerRPC</strong> avec validation côté serveur. Gère le déplacement entre slots, entre inventaires, et la logique complexe de swap d'équipement lorsqu'un slot est déjà occupé.</span>
+        <span class="voie-name">MoveItem (drag-and-drop)</span>
+        <span class="voie-desc"><strong style="color:var(--gold);">ServerMoveItem RPC</strong> avec validation côté serveur. FindItemIndexByGUID → IsItemEquippable → GetEquipmentSlotFromSubCategory → swap si slot occupé → ApplyEquipmentStats si destination = EquipmentInventory.</span>
         <span class="voie-tag">Déplacement · Swap</span>
     </div>
     <div class="voie-item">
         <span class="voie-name">RemoveItem</span>
-        <span class="voie-desc">Retire l'objet du tableau, réordonne les emplacements restants et marque le tableau dirty pour synchroniser la suppression avec le client.</span>
+        <span class="voie-desc">Retire l'item du tableau, réajuste l'Order des slots restants du BagInventory et marque le tableau dirty pour synchroniser la suppression avec le client. Si l'item était équipé, déclenche RemoveEquipmentStats().</span>
         <span class="voie-tag">Suppression · Reorder</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name">Réplication push-based</span>
+        <span class="voie-desc"><strong style="color:var(--cyan);">FastArrayDeltaSerialize</strong> avec <strong style="color:var(--gold);">COND_OwnerOnly</strong> et mode <strong style="color:var(--gold);">push-based</strong> — seul le propriétaire reçoit les mises à jour de son inventaire, optimisant la bande passante. Callback OnRep_Inventory déclenche ReloadDisplayItems pour rafraîchir l'UI.</span>
+        <span class="voie-tag">Network · Push · OwnerOnly</span>
     </div>
 </div>
 
-<!-- ===== Étape 6 — Équiper un objet ===== -->
-<div class="section-header" id="etape6-equiper">
-    <h2>Étape 6 — Équiper un objet</h2>
-    <span class="section-count">EquipmentInventory · GameplayEffect · AbilitySystemComponent</span>
+<!-- ===== Étape 6 — Équipement et GAS ===== -->
+<div class="section-header" id="etape6-equipement">
+    <h2>Étape 6 — Équipement &amp; GAS</h2>
+    <span class="section-count">ApplyEquipmentStats · UGameplayEffect Infinite · ASC</span>
 </div>
 
-<div class="codex-panel">
-    <div class="codex-label">Application dynamique des statistiques via GAS</div>
+<div class="codex-panel cyan-accent">
+    <div class="codex-label">Application dynamique des stats via GameplayEffect</div>
     <p>
-        Lorsqu'un objet est déplacé vers l'<strong style="color:var(--gold);">EquipmentInventory</strong>, le système détermine le slot approprié via <strong style="color:var(--cyan);">GetSlotFromOrder</strong> et <strong style="color:var(--cyan);">GetEquipmentSlotOrders</strong>.
+        Lorsqu'un item est déplacé vers l'<strong style="color:var(--cyan);">EquipmentInventory</strong>, le système résout son slot via
+        <strong style="color:var(--cyan);">GetSlotFromOrder()</strong> et <strong style="color:var(--cyan);">GetEquipmentSlotFromSubCategory()</strong>.
+        Une fois le slot validé, <strong style="color:var(--gold);">ApplyEquipmentStats(EquippedItem)</strong> crée un
+        <strong style="color:var(--cyan);">UGameplayEffect</strong> dynamique de durée <strong style="color:var(--gold);">Infinite</strong>.
     </p>
     <p style="margin-bottom:0;">
-        <strong style="color:var(--gold);">ApplyEquipmentStats(EquippedItem)</strong> crée un <strong style="color:var(--cyan);">UGameplayEffect</strong> dynamique de durée <strong style="color:var(--gold);">Infinite</strong>.
-        Pour chaque <strong style="color:var(--cyan);">FHWCara</strong> de l'objet, la fonction <strong style="color:var(--cyan);">CaraToAttribute()</strong> convertit l'enum en <strong style="color:var(--cyan);">FGameplayAttribute</strong>,
-        puis ajoute un modificateur <strong style="color:var(--gold);">Additive</strong>.
-        L'effet est appliqué via <strong style="color:var(--cyan);">ASC->ApplyGameplayEffectToSelf()</strong> et le handle est stocké dans <strong style="color:var(--cyan);">ActiveEquipmentEffects</strong> (TMap&lt;FGuid, FActiveGameplayEffectHandle&gt;).
+        Pour chaque <strong style="color:var(--cyan);">FHWCara</strong> de l'item, la fonction <strong style="color:var(--cyan);">CaraToAttribute()</strong>
+        convertit l'enum ECara en <strong style="color:var(--cyan);">FGameplayAttribute</strong>, puis ajoute un modificateur Additive.
+        L'effet est appliqué via <strong style="color:var(--cyan);">ASC->ApplyGameplayEffectToSelf()</strong>
+        et le handle est stocké dans <strong style="color:var(--cyan);">ActiveEquipmentEffects</strong> (TMap&lt;FGuid, FActiveGameplayEffectHandle&gt;)
+        pour permettre un retrait propre lors du déséquipement.
     </p>
 </div>
 
 <div class="feature-list">
     <div class="feature-item">
-        <span class="feature-key">GetSlotFromOrder / GetEquipmentSlotOrders</span>
-        <span class="feature-value">Résout le numéro d'Order (1–16) en slot d'équipement concret — détermine où l'objet sera porté sur le personnage.</span>
+        <span class="feature-key">GetSlotFromOrder / GetEquipmentSlotFromSubCategory</span>
+        <span class="feature-value">Résout le numéro d'Order en EEquipmentSlot concret, ou détermine directement le slot depuis EItemSubCategory (Helmet → HeadSlot, Chestplate → ChestSlot, Bow → HandRightSlot...).</span>
     </div>
     <div class="feature-item">
         <span class="feature-key">ApplyEquipmentStats</span>
-        <span class="feature-value">Crée un GameplayEffect dynamique Infinite, convertit chaque FHWCara en FGameplayAttribute via <strong style="color:var(--cyan);">CaraToAttribute()</strong>, applique un modificateur Additive.</span>
+        <span class="feature-value">Crée un UGameplayEffect dynamique Infinite, itère sur les FHWCara de l'item, convertit chaque entrée en FGameplayAttribute via CaraToAttribute(), applique un modificateur Additive sur l'AttributeSet UHWCombatAttributeSet.</span>
     </div>
     <div class="feature-item">
         <span class="feature-key">ASC->ApplyGameplayEffectToSelf()</span>
-        <span class="feature-value">Applique l'effet sur l'<strong style="color:var(--cyan);">AbilitySystemComponent</strong> du personnage — les attributs sont immédiatement mis à jour.</span>
+        <span class="feature-value">Applique l'effet sur l'AbilitySystemComponent du personnage. Les attributs (MaxHealth, Attack, Defense, CritRate, CritDamage, etc.) sont immédiatement mis à jour et propagés à tous les systèmes qui les consomment.</span>
     </div>
     <div class="feature-item">
-        <span class="feature-key">ActiveEquipmentEffects</span>
-        <span class="feature-value">TMap&lt;FGuid, FActiveGameplayEffectHandle&gt; — associe chaque objet équipé à son handle d'effet actif pour un retrait propre.</span>
+        <span class="feature-key">ActiveEquipmentEffects (TMap)</span>
+        <span class="feature-value">Map FGuid → FActiveGameplayEffectHandle qui associe chaque item équipé à son handle d'effet actif. Permet à RemoveEquipmentStats() de cibler exactement le bon effet sans ambiguïté en cas de stacks ou de doublons.</span>
     </div>
     <div class="feature-item">
         <span class="feature-key">RemoveEquipmentStats</span>
-        <span class="feature-value">Retire l'effet via le handle stocké — les attributs du personnage retrouvent leurs valeurs de base instantanément.</span>
+        <span class="feature-value">Retire l'effet via le handle stocké dans ActiveEquipmentEffects — les attributs du personnage retrouvent leurs valeurs de base instantanément. Appelé automatiquement par MoveItem lorsque l'item quitte EquipmentInventory.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">EquipAllItems (au spawn)</span>
+        <span class="feature-value">Appelée après LoadInventorySerialize au BeginPlay du PlayerController. Réapplique tous les ApplyEquipmentStats sur les items présents dans EquipmentInventory pour restaurer l'état exact d'avant la déconnexion.</span>
     </div>
 </div>
 
-<!-- ===== Étape 7 — Représentation visuelle ===== -->
-<div class="section-header" id="etape7-visuel">
-    <h2>Étape 7 — Représentation visuelle</h2>
-    <span class="section-count">AHWGASPlayerCharacter · Mesh Components · Blueprint</span>
-</div>
-
-<div class="codex-panel cyan-accent">
-    <div class="codex-label">L'objet équipé prend forme sur le personnage</div>
-    <p>
-        <strong style="color:var(--cyan);">AHWGASPlayerCharacter</strong> expose des composants de mesh dédiés à chaque pièce d'équipement visible :
-        <strong style="color:var(--gold);">Sword_Mesh</strong>, <strong style="color:var(--gold);">Shield_Mesh</strong>, <strong style="color:var(--gold);">Bow</strong>,
-        <strong style="color:var(--gold);">Chest</strong>, <strong style="color:var(--gold);">Pants</strong>, <strong style="color:var(--gold);">Cloak</strong>,
-        <strong style="color:var(--gold);">Helms</strong>, <strong style="color:var(--gold);">Boots</strong>, <strong style="color:var(--gold);">Head</strong>,
-        <strong style="color:var(--gold);">Hairstyle</strong>, <strong style="color:var(--gold);">Shoulders</strong>.
-    </p>
-    <p style="margin-bottom:0;">
-        Un événement Blueprint <strong style="color:var(--gold);">EquipFunction()</strong> reçoit la définition de l'objet et applique le <strong style="color:var(--cyan);">SkeletalMesh</strong> correspondant sur le composant approprié.
-    </p>
-</div>
-
-<div class="voie-list" style="margin-bottom: 44px;">
+<div class="voie-list" style="margin-top: 32px; margin-bottom: 44px;">
     <div class="voie-item">
-        <span class="voie-name">Order 1 — Head</span>
-        <span class="voie-desc">Slot de tête : casques, couronnes, capuches. Appliqué sur le composant <strong style="color:var(--gold);">Helms</strong>.</span>
-        <span class="voie-tag">Slot 1</span>
+        <span class="voie-name">Mapping ECara → GameplayAttribute</span>
+        <span class="voie-desc">22 caractéristiques (ECara) mappées vers <strong style="color:var(--cyan);">UHWCombatAttributeSet</strong> via CaraToAttribute(). Ressources vitales (MaxHealth, HealthRegenRate), attributs primaires (à recartographier sur les 8 stats brutes canon : Vigueur, Vivacité, Endurance, Acuité, Esprit, Résonance, Mémoire, Verbe) et stats combat (Attack, Defense, CritRate, CritDamage). Dégâts/résistances élémentaires définis mais non implémentés.</span>
+        <span class="voie-tag">22 ECara · GAS</span>
     </div>
     <div class="voie-item">
-        <span class="voie-name">Order 5 — Chest</span>
-        <span class="voie-desc">Slot de torse : armures, tuniques, robes. Appliqué sur le composant <strong style="color:var(--gold);">Chest</strong>.</span>
-        <span class="voie-tag">Slot 5</span>
-    </div>
-    <div class="voie-item">
-        <span class="voie-name">Order 10 — HandLeft</span>
-        <span class="voie-desc">Main gauche : boucliers, orbes, focus. Appliqué sur le composant <strong style="color:var(--gold);">Shield_Mesh</strong>.</span>
-        <span class="voie-tag">Slot 10</span>
-    </div>
-    <div class="voie-item">
-        <span class="voie-name">Order 11 — HandRight</span>
-        <span class="voie-desc">Main droite : épées, haches, bâtons. Appliqué sur le composant <strong style="color:var(--gold);">Sword_Mesh</strong>.</span>
-        <span class="voie-tag">Slot 11</span>
-    </div>
-    <div class="voie-item">
-        <span class="voie-name">Order 14 — Pants</span>
-        <span class="voie-desc">Slot de jambes : pantalons, jambières, robes longues. Appliqué sur le composant <strong style="color:var(--gold);">Pants</strong>.</span>
-        <span class="voie-tag">Slot 14</span>
-    </div>
-    <div class="voie-item">
-        <span class="voie-name">Order 15 — Boots</span>
-        <span class="voie-desc">Slot de pieds : bottes, sandales, chausses. Appliqué sur le composant <strong style="color:var(--gold);">Boots</strong>.</span>
-        <span class="voie-tag">Slot 15</span>
+        <span class="voie-name">Rendu visuel — UpdateMeshEquipment</span>
+        <span class="voie-desc"><strong style="color:var(--cyan);">AHWGASPlayerCharacter::UpdateMeshEquipment()</strong> assigne dynamiquement le SkeletalMesh de l'item au composant approprié : <strong style="color:var(--gold);">Sword_Mesh</strong> (HandRightSlot), <strong style="color:var(--gold);">Shield_Mesh</strong> (HandLeftSlot), <strong style="color:var(--gold);">Chest</strong>, <strong style="color:var(--gold);">Pants</strong>, <strong style="color:var(--gold);">Cloak</strong>, <strong style="color:var(--gold);">Helms</strong>, <strong style="color:var(--gold);">Boots</strong>. OnRep_UpdateMeshEquipment synchronise le rendu côté clients.</span>
+        <span class="voie-tag">SkeletalMesh · OnRep</span>
     </div>
 </div>
 
-<!-- ===== Étape 8 — Persistance ===== -->
-<div class="section-header" id="etape8-persistance">
-    <h2>Étape 8 — Persistance</h2>
-    <span class="section-count">Sérialisation JSON · OWS · FastArraySerializer</span>
+<!-- ===== Étape 7 — Persistance et UI ===== -->
+<div class="section-header" id="etape7-persistance">
+    <h2>Étape 7 — Persistance &amp; UI</h2>
+    <span class="section-count">JSON · OWS CustomCharacterData · Widgets</span>
 </div>
 
 <div class="codex-panel">
-    <div class="codex-label">Sauvegarde et synchronisation de l'inventaire</div>
+    <div class="codex-label">Sauvegarde, restauration et affichage de l'inventaire</div>
     <p>
-        L'inventaire est sérialisé en JSON via <strong style="color:var(--cyan);">FJsonObjectConverter::UStructToJsonObjectString</strong> appliqué à la structure <strong style="color:var(--cyan);">FHWInventoryMaster</strong>.
-        La restauration se fait par <strong style="color:var(--gold);">LoadInventorySerialize()</strong> qui parse le JSON, reconstruit la structure et appelle <strong style="color:var(--gold);">MarkArrayDirty</strong> pour forcer la réplication complète.
+        L'inventaire est sérialisé en JSON via <strong style="color:var(--cyan);">FJsonObjectConverter::UStructToJsonObjectString</strong>
+        appliqué à la structure <strong style="color:var(--cyan);">FHWInventoryMaster</strong>.
+        La persistance serveur utilise <strong style="color:var(--cyan);">UOWSPlayerControllerComponent::AddOrUpdateCustomCharacterData()</strong>
+        sur deux clés : <strong style="color:var(--gold);">BagInventory</strong> et <strong style="color:var(--gold);">EquipmentInventory</strong>, écrites toutes les 10 secondes.
     </p>
     <p style="margin-bottom:0;">
-        La persistance serveur utilise <strong style="color:var(--cyan);">OWSPlayerControllerComponent->AddOrUpdateCustomCharacterData()</strong> pour stocker les données d'inventaire dans la base OWS.
+        À la connexion, <strong style="color:var(--gold);">LoadInventorySerialize()</strong> parse le JSON, reconstruit FHWInventoryMaster
+        (les GUID d'instance sont préservés), appelle <strong style="color:var(--gold);">MarkArrayDirty</strong> pour forcer la réplication
+        et déclenche <strong style="color:var(--gold);">EquipAllItems()</strong> qui réapplique les GameplayEffects de tous les items équipés.
     </p>
 </div>
 
 <div class="feature-list">
     <div class="feature-item">
         <span class="feature-key">SerializeInventory()</span>
-        <span class="feature-value"><strong style="color:var(--cyan);">FJsonObjectConverter::UStructToJsonObjectString(FHWInventoryMaster)</strong> — convertit l'intégralité de l'inventaire en chaîne JSON.</span>
+        <span class="feature-value"><strong style="color:var(--cyan);">FJsonObjectConverter::UStructToJsonObjectString(FHWInventoryMaster)</strong> — convertit l'intégralité de l'inventaire en chaîne JSON sérialisable.</span>
     </div>
     <div class="feature-item">
         <span class="feature-key">LoadInventorySerialize()</span>
-        <span class="feature-value">Parse le JSON sauvegardé, reconstruit <strong style="color:var(--cyan);">FHWInventoryMaster</strong> et appelle <strong style="color:var(--gold);">MarkArrayDirty</strong> pour synchroniser l'état avec tous les clients.</span>
+        <span class="feature-value">Parse le JSON sauvegardé, reconstruit FHWInventoryMaster avec GUID préservés, appelle MarkArrayDirty pour synchroniser l'état avec tous les clients via OnRep_Inventory.</span>
     </div>
     <div class="feature-item">
         <span class="feature-key">PersistInventory()</span>
-        <span class="feature-value">Envoie les données sérialisées vers le backend via <strong style="color:var(--cyan);">OWSPlayerControllerComponent->AddOrUpdateCustomCharacterData()</strong>.</span>
+        <span class="feature-value">Sérialise puis envoie via <strong style="color:var(--cyan);">OWSPlayerControllerComponent->AddOrUpdateCustomCharacterData()</strong> sur les deux clés BagInventory et EquipmentInventory. Fréquence : 10 s.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">OnRep_Inventory → ReloadDisplayItems()</span>
+        <span class="feature-value">Callback de réplication côté client — déclenche le rafraîchissement complet de l'affichage UI de l'inventaire (UHWCommonInventoryListWidget) et de l'écran d'équipement (UHWEquipmentWidget).</span>
     </div>
 </div>
 
-<div class="voie-list" style="margin-bottom: 44px;">
+<div class="voie-list" style="margin-top: 32px; margin-bottom: 44px;">
     <div class="voie-item">
-        <span class="voie-name">Réplication réseau</span>
-        <span class="voie-desc"><strong style="color:var(--cyan);">FastArraySerializer</strong> avec condition <strong style="color:var(--gold);">COND_OwnerOnly</strong> et mode <strong style="color:var(--gold);">push-based</strong> — seul le propriétaire reçoit les mises à jour d'inventaire, optimisant la bande passante.</span>
-        <span class="voie-tag">Network · Push</span>
+        <span class="voie-name">UHWCommonInventoryListWidget</span>
+        <span class="voie-desc">Widget de grille d'inventaire — instancie un <strong style="color:var(--cyan);">UHWInventoryEntry</strong> par item, gère le layout, le scroll, le tri par Order et les filtres par catégorie. Lié au composant via SetInventoryComponent().</span>
+        <span class="voie-tag">Grille · Scroll</span>
     </div>
     <div class="voie-item">
-        <span class="voie-name">OnRep_Inventory</span>
-        <span class="voie-desc">Callback de réplication côté client — déclenche <strong style="color:var(--gold);">ReloadDisplayItems()</strong> pour rafraîchir l'ensemble de l'affichage UI de l'inventaire.</span>
-        <span class="voie-tag">Client · Refresh</span>
+        <span class="voie-name">UHWEquipmentWidget</span>
+        <span class="voie-desc">Interface des slots équipés — chaque emplacement est un <strong style="color:var(--cyan);">UBorder*</strong> mappé dans le <strong style="color:var(--cyan);">SlotMap</strong> (TMap&lt;EEquipmentSlot, UBorder*&gt;). Affiche les items en cours d'équipement avec leurs icônes et tooltips.</span>
+        <span class="voie-tag">17 slots · SlotMap</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name">UHWInventoryEntry</span>
+        <span class="voie-desc">Widget d'entrée individuelle : <strong style="color:var(--gold);">IconImage</strong>, <strong style="color:var(--gold);">QuantityLabel</strong>, tooltip au survol affichant nom/description/stats/tier/prérequis Accord+Maîtrise, handlers de clic et de drag-and-drop déclenchant MoveItem.</span>
+        <span class="voie-tag">Drag · Tooltip</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name">FHWInventoryDisplayItem</span>
+        <span class="voie-desc">Structure de présentation qui combine les données runtime (FHWInventoryItem : quantité, durabilité, GUID, stats) et les données statiques (FHWItemStaticDataStruct : nom, icône, description, mesh) pour alimenter l'UI de manière unifiée sans double lookup côté widget.</span>
+        <span class="voie-tag">Runtime + Static</span>
     </div>
 </div>
 
-<!-- ===== Étape 9 — Affichage UI ===== -->
-<div class="section-header" id="etape9-ui">
-    <h2>Étape 9 — Affichage UI</h2>
-    <span class="section-count">UHWCommonInventoryListWidget · UHWEquipmentWidget · UHWInventoryEntry</span>
+<!-- ===== Dette technique et alignement canon ===== -->
+<div class="section-header" id="dette-canon">
+    <h2>Dette technique &amp; alignement canon</h2>
+    <span class="section-count">Migration Accord · Tiers · Stats brutes</span>
 </div>
 
-<div class="codex-panel cyan-accent">
-    <div class="codex-label">Présentation visuelle de l'inventaire et de l'équipement</div>
+<div class="codex-panel" style="border-left-color: #8b2020;">
+    <div class="codex-label">Chantiers de refonte sémantique en cours</div>
     <p>
-        L'inventaire est affiché dans un <strong style="color:var(--cyan);">UHWCommonInventoryListWidget</strong> organisé en grille, où chaque case est un <strong style="color:var(--cyan);">UHWInventoryEntry</strong> affichant l'icône, la quantité et les informations de tooltip.
-    </p>
-    <p style="margin-bottom:0;">
-        L'écran d'équipement utilise <strong style="color:var(--cyan);">UHWEquipmentWidget</strong> avec 16 emplacements de bordure mappés via un <strong style="color:var(--cyan);">SlotMap</strong> (TMap&lt;EEquipmentSlot, UBorder*&gt;).
-        La structure <strong style="color:var(--cyan);">FHWInventoryDisplayItem</strong> fusionne les données runtime et statiques pour alimenter l'UI de manière unifiée.
+        Le code actuel reflète l'état hérité du système. Plusieurs chantiers de mise en conformité avec le canon 2026 sont planifiés.
+        Cette page documente le pipeline tel qu'il existe — et où le canon impose un futur état différent, le gap est signalé.
     </p>
 </div>
 
-<div class="feature-list">
+<div class="feature-list" style="margin-bottom: 44px;">
     <div class="feature-item">
-        <span class="feature-key">UHWCommonInventoryListWidget</span>
-        <span class="feature-value">Widget de grille d'inventaire — instancie un <strong style="color:var(--cyan);">UHWInventoryEntry</strong> par objet, gère le layout et le scroll.</span>
+        <span class="feature-key">PlayerLevel → Accord (D-GD-ACCORD)</span>
+        <span class="feature-value"><code>RollLoot(PlayerLevel, LuckMultiplier)</code> et <code>RequiredLevel</code> de FHWItemStaticDataStruct utilisent un niveau global classique. Cible canonique : <strong style="color:var(--gold);">Accord d'Ère + palier de Maîtrise</strong> (50% pour Magistral, 75% pour Légendaire). Refonte sémantique en V3, refactor code à venir.</span>
     </div>
     <div class="feature-item">
-        <span class="feature-key">UHWEquipmentWidget</span>
-        <span class="feature-value">Interface d'équipement à 16 slots — chaque emplacement est un <strong style="color:var(--cyan);">UBorder*</strong> mappé dans le <strong style="color:var(--cyan);">SlotMap</strong> par <strong style="color:var(--cyan);">EEquipmentSlot</strong>.</span>
+        <span class="feature-key">Mapping ECara → 8 stats brutes canon</span>
+        <span class="feature-value">Le mapping actuel utilise Strength/Agility/Constitution/Intelligence (ancien système). Cible canonique : <strong style="color:var(--gold);">Vigueur, Vivacité, Endurance, Acuité, Esprit, Résonance, Mémoire, Verbe</strong>. Recartographier UHWCombatAttributeSet et CaraToAttribute() en parallèle de la refonte du Personnage.</span>
     </div>
     <div class="feature-item">
-        <span class="feature-key">UHWInventoryEntry</span>
-        <span class="feature-value">Widget d'entrée individuelle : <strong style="color:var(--gold);">IconImage</strong>, <strong style="color:var(--gold);">QuantityLabel</strong>, tooltip au survol, handlers de clic et de drag-and-drop.</span>
+        <span class="feature-key">RarityTag → 6 tiers canon</span>
+        <span class="feature-value">FHWLootEntry possède un RarityTag mais il n'est pas encore aligné sur les 6 tiers canon (Commun → Mythique). À mapper sur les couleurs UI canon (gris, blanc, vert, bleu, violet, orange) et sur les multiplicateurs de stats (1× → 6×).</span>
     </div>
     <div class="feature-item">
-        <span class="feature-key">FHWInventoryDisplayItem</span>
-        <span class="feature-value">Structure de présentation combinant les données runtime (quantité, durabilité, GUID) et les données statiques (nom, icône, description) pour l'affichage UI.</span>
+        <span class="feature-key">Caracteristics vide sur DT_ItemData</span>
+        <span class="feature-value">Bug confirmé : les 249 lignes de DT_ItemData ont <code>Caracteristics = []</code> → ApplyEquipmentStats() n'applique aucun bonus. Peuplement à faire en parallèle des fiches d'archétype Phase 2 du Recipe Generator.</span>
     </div>
-</div>
-
-<!-- ===== Diagramme de flux ===== -->
-<div class="section-header" id="flux-complet">
-    <h2>Flux complet — Du DataTable au personnage</h2>
-    <span class="section-count">9 étapes · Vue d'ensemble</span>
-</div>
-
-<div class="codex-panel" style="border-left-color: var(--gold);">
-    <div class="codex-label">Diagramme du pipeline Item</div>
-    <pre style="color:var(--text-dim); font-family:'Courier New',monospace; font-size:0.85rem; line-height:1.6; margin:0; overflow-x:auto;">
- ┌─────────────────────────────────────────────────────────────────────┐
- │  <span style="color:var(--gold);">1. DataTable</span>                                                       │
- │  FHWItemStaticDataStruct → Name, Type, Stats, Meshes, Icon        │
- └──────────────────────────────┬──────────────────────────────────────┘
-                                │
-                                ▼
- ┌─────────────────────────────────────────────────────────────────────┐
- │  <span style="color:var(--gold);">2. LootTable</span>                                                      │
- │  UHWLootTable → FHWLootEntry[] → RollLoot(Level, Luck)            │
- └──────────────────────────────┬──────────────────────────────────────┘
-                                │
-                ┌───────────────┼───────────────┐
-                ▼               ▼               ▼
- ┌──────────────────┐ ┌─────────────────┐ ┌─────────────────┐
- │  <span style="color:var(--cyan);">3a. MobDead()</span>   │ │  <span style="color:var(--cyan);">3b. Container</span>  │ │  <span style="color:var(--cyan);">3c. Quêtes</span>     │
- │  → RollLoot()    │ │  AHWContainer   │ │  AddNewItem()   │
- └────────┬─────────┘ └────────┬────────┘ └────────┬────────┘
-          │                    │                    │
-          └───────────────┬────┘────────────────────┘
-                          ▼
- ┌─────────────────────────────────────────────────────────────────────┐
- │  <span style="color:var(--gold);">4. Interaction</span>                                                     │
- │  Interact() → GetOverlappedInteractables() → Server_OpenContainer │
- └──────────────────────────────┬──────────────────────────────────────┘
-                                ▼
- ┌─────────────────────────────────────────────────────────────────────┐
- │  <span style="color:var(--gold);">5. Inventaire</span>                                                      │
- │  UHWInventoryComponent → FHWInventoryMaster → FHWInventoryItem    │
- │  AddNewItem · MoveItem · RemoveItem                               │
- └──────────────────────────────┬──────────────────────────────────────┘
-                                │
-                ┌───────────────┴───────────────┐
-                ▼                               ▼
- ┌──────────────────────────────┐ ┌────────────────────────────────────┐
- │  <span style="color:var(--gold);">6. Équiper</span>                   │ │  <span style="color:var(--gold);">8. Persistance</span>                    │
- │  ApplyEquipmentStats()       │ │  SerializeInventory() → JSON      │
- │  → UGameplayEffect (Infinite)│ │  PersistInventory() → OWS         │
- │  → ASC->Apply...ToSelf()     │ │  FastArraySerializer → Réplication│
- └──────────────┬───────────────┘ └────────────────────────────────────┘
-                ▼
- ┌─────────────────────────────────────────────────────────────────────┐
- │  <span style="color:var(--gold);">7. Visuel</span>                                                         │
- │  EquipFunction() → SkeletalMesh → Sword/Shield/Chest/Pants/...    │
- └──────────────────────────────┬──────────────────────────────────────┘
-                                ▼
- ┌─────────────────────────────────────────────────────────────────────┐
- │  <span style="color:var(--gold);">9. UI</span>                                                              │
- │  UHWCommonInventoryListWidget · UHWEquipmentWidget (16 slots)     │
- │  UHWInventoryEntry → IconImage · QuantityLabel · Tooltip          │
- │  OnRep_Inventory → ReloadDisplayItems()                           │
- └─────────────────────────────────────────────────────────────────────┘
-    </pre>
+    <div class="feature-item">
+        <span class="feature-key">DT_All_Items RowStruct null</span>
+        <span class="feature-value">DT_All_Items (96 lignes) retourne RowStruct = None côté Python — export bloqué. Vérification du Blueprint struct sous-jacent ou migration vers C++ struct nécessaire pour réactiver le lookup.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">Double système (legacy + HW)</span>
+        <span class="feature-value">DT_InventoryItemLibrary (FInventoryItemTypes, héritage OWS, 2 lignes de test) coexiste avec DT_ItemData (FHWItemStaticDataStruct, 249 lignes, système HW). Préférer DT_ItemData pour tout nouveau contenu, planifier la suppression de la couche legacy.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">Système de Maîtrise présent mais inactif</span>
+        <span class="feature-value">MasteryLevel/MasteryExperience/MasteryExperienceToNextLevel sont déclarés dans FHWItemStaticDataStruct mais aucun système ne les exploite. À raccrocher aux 5 paliers canoniques (Novice, Initié, Adepte, Expert, Maître), à la décroissance et à la rouille post-Souffle (-15% pendant 1 semaine).</span>
+    </div>
 </div>

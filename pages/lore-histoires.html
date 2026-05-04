@@ -17,7 +17,7 @@
 
     <div class="hist-continent-card" data-continent="Alkaran">
         <div class="hist-continent-name">Alkaran</div>
-        <div class="hist-continent-count">4 nations</div>
+        <div class="hist-continent-count">3 nations</div>
     </div>
 
     <div class="hist-continent-card" data-continent="Azoria">
@@ -42,17 +42,17 @@
 
     <div class="hist-continent-card" data-continent="Cestra">
         <div class="hist-continent-name">Cestra</div>
-        <div class="hist-continent-count">2 territoires</div>
+        <div class="hist-continent-count">1 territoire</div>
     </div>
 
     <div class="hist-continent-card" data-continent="Endora">
         <div class="hist-continent-name">Endora</div>
-        <div class="hist-continent-count">3 nations</div>
+        <div class="hist-continent-count">2 nations</div>
     </div>
 
     <div class="hist-continent-card" data-continent="Evertia">
         <div class="hist-continent-name">Evertia</div>
-        <div class="hist-continent-count">1 nation</div>
+        <div class="hist-continent-count">2 nations</div>
     </div>
 
     <div class="hist-continent-card" data-continent="Galenor">
@@ -62,7 +62,7 @@
 
     <div class="hist-continent-card" data-continent="Ilthara">
         <div class="hist-continent-name">Ilthara</div>
-        <div class="hist-continent-count">9 nations</div>
+        <div class="hist-continent-count">8 nations</div>
     </div>
 
     <div class="hist-continent-card" data-continent="Nysaria">
@@ -72,12 +72,12 @@
 
     <div class="hist-continent-card" data-continent="Onara">
         <div class="hist-continent-name">Onara</div>
-        <div class="hist-continent-count">2 nations</div>
+        <div class="hist-continent-count">3 nations</div>
     </div>
 
     <div class="hist-continent-card" data-continent="Ulinor">
         <div class="hist-continent-name">Ulinor</div>
-        <div class="hist-continent-count">1 nation</div>
+        <div class="hist-continent-count">2 nations</div>
     </div>
 
 </div>
@@ -91,20 +91,25 @@
 
 <script>
 (function() {
+    // Mapping continent → nations (canon D-LORE-NATIONS-CHEVAL post-2026).
+    // Reflète les fichiers présents dans Docs/Lore/Histoires/<continent>/.
+    // Nations sans fichier Histoires/ (Ferrath, Sanvara, Sylvara, Lunasar, Mirathi,
+    // Arkhen, Pyrevane, Noravia, Azoral, Kethvar, Solmaris, Elarath, Dhalvoria) ne
+    // sont pas listées ici — elles apparaissent uniquement dans lore-geo.html / lore.html.
     var data = {
-        'Alkaran':  ['Altram', 'Torkam', 'Myrtam', 'Skaldoria'],
+        'Alkaran':  ['Altram', 'Iskara', 'Torkam'],
         'Azoria':   ['Caeloria', "No Man's Land Azoria"],
         'Baelor':   ['Baelor'],
         'Celethor': ['Astravia', 'Elarian', 'Ryldor', "No Man's Land Celethor"],
         'Cendara':  ['Cendara'],
-        'Cestra':   ['Cestra', "No Man's Land Cestra"],
-        'Endora':   ['Avalor', 'Iskara', 'Thalmaris'],
-        'Evertia':  ['Evertia'],
+        'Cestra':   ['Cestra'],
+        'Endora':   ['Avalor', 'Haldria'],
+        'Evertia':  ['Evertia', 'Thalmaris'],
         'Galenor':  ['Kharazir', 'Lumasar', 'Seraphia', 'Solena', 'Trinoria', 'Valoria', 'Ventera'],
-        'Ilthara':  ['Ackerna', 'Drakora', 'Gryndor', 'Haldria', 'Lythar', 'Pyrtara', 'Sylthara', 'Vytharia', 'Warenthor'],
+        'Ilthara':  ['Ackerna', 'Drakora', 'Gryndor', 'Lythar', 'Pyrtara', 'Sylthara', 'Vytharia', 'Warenthor'],
         'Nysaria':  ['Nysaria'],
-        'Onara':    ['Mosrack', 'Tyndara'],
-        'Ulinor':   ['Ulinor']
+        'Onara':    ['Mosrack', 'Myrtam', 'Tyndara'],
+        'Ulinor':   ['Skaldoria', 'Ulinor']
     };
 
     var grid     = document.getElementById('hist-continent-grid');

@@ -1,3 +1,10 @@
+﻿---
+tags: [lore, pays, ilthara]
+type: lore
+status: drafted
+last_review: 2026-05-02
+needs_review_for: []
+---
 # Warenthor — Le Royaume de la Jungle Éveillée
 
 > *« En Warenthor, la jungle ne dort jamais. Chaque liane observe, chaque racine écoute, et les esprits jugent ceux qui osent marcher sous leur canopée. »*
@@ -11,8 +18,8 @@
 |---|---|
 | **Continent** | Ilthara |
 | **Gouvernement** | Monarchie tribale |
-| **Religion principale** | [[00_Systeme_Religieux\|Vael'Kurash]] (Les Esprits de Chaque Chose) |
-| **Religion secondaire** | [[00_Systeme_Religieux\|Foedus Animae]] (Le Pacte des Âmes) |
+| **Religion principale** | [[Vael'Kurash]] (Les Esprits de Chaque Chose) |
+| **Religion secondaire** | [[Foedus Animae]] (Le Pacte des Âmes) |
 | **Culture dominante** | Vie en jungle, communion avec les esprits, spiritualité animiste |
 | **Histoire marquante** | L'Éveil de la Jungle |
 | **Ressources clés** | Bois tropicaux, plantes médicinales rares, pigments naturels, venins, fruits exotiques, cristaux de sève |
@@ -25,9 +32,9 @@
 
 Warenthor occupe la jungle la plus dense et la plus ancienne d'Ilthara — une forêt tropicale si vaste et si épaisse que la lumière du soleil n'atteint jamais le sol en certains endroits. Les premiers habitants de cette jungle n'étaient pas des conquérants venus s'installer, mais des nomades qui s'y réfugièrent pour échapper aux guerres et aux famines du continent.
 
-La jungle les accueillit — ou plutôt, elle ne les tua pas immédiatement, ce qui, en Warenthor, est une forme d'hospitalité. Les survivants apprirent à vivre avec la forêt plutôt que contre elle. Ils étudièrent les plantes comestibles, les animaux dangereux, les cours d'eau cachés et, surtout, les esprits.
+La jungle les accueillit — ou plutôt, elle ne les tua pas immédiatement, ce qui, en Warenthor, est une forme d'hospitalité. Les survivants apprirent à vivre avec la forêt plutôt que contre elle. Ils étudièrent les plantes comestibles, les animaux dangereux, les cours d'eau cachés et, surtout, ce qu'ils nommèrent les esprits.
 
-Car en Warenthor, les esprits ne sont pas une croyance abstraite — ils se manifestent. Les arbres bougent la nuit, les rivières changent de cours sans raison apparente, et des voix murmurent dans le vent humide. Les premiers Warenthoriens apprirent à écouter ces voix et à y répondre, développant une relation symbiotique avec la jungle elle-même.
+Car en Warenthor, ce que les habitants nomment "esprits" n'est pas une croyance abstraite : on rapporte des manifestations. Selon les chroniques warenthoriennes, des arbres semblent bouger la nuit, des rivières changent de cours sans raison apparente, et des voix murmurent dans le vent humide. Les premiers Warenthoriens apprirent à écouter ces voix et à y répondre, développant ce qu'ils décrivent comme une relation symbiotique avec la jungle elle-même. Les naturalistes étrangers proposent diverses lectures de ces phénomènes, sans qu'aucune ne fasse consensus.
 
 ### L'Ère des Tribus Séparées
 
@@ -37,13 +44,13 @@ Chaque tribu avait sa propre relation avec les esprits de son territoire. Certai
 
 ### L'Éveil de la Jungle
 
-L'événement qui unifia Warenthor fut aussi terrifiant que fondateur. Un jour, sans avertissement, la jungle entière s'éveilla. Les arbres se mirent à bouger, les rivières à rugir, les animaux à agir de concert. Les esprits, habituellement discrets, se manifestèrent avec une puissance écrasante, prenant des formes visibles — des silhouettes de lumière verte entre les troncs, des visages dans l'écorce, des yeux dans l'eau.
+L'événement qui unifia Warenthor est rapporté par la tradition orale comme aussi terrifiant que fondateur. Selon les récits warenthoriens, un jour, sans avertissement, la jungle entière s'éveilla : des arbres se mirent à bouger, des rivières à rugir, des animaux à agir de concert. Les esprits, jusque-là discrets selon la lecture locale, se manifestèrent avec une intensité que les chroniques décrivent comme écrasante — silhouettes de lumière verte entre les troncs, visages dans l'écorce, yeux dans l'eau.
 
-Cet Éveil n'était pas une attaque mais un appel. Les esprits, menacés par un mal inconnu venant des profondeurs de la terre — peut-être lié aux Marécages de Noyrath — avaient besoin d'aide humaine. Mais ils ne pouvaient communiquer qu'avec un seul interlocuteur, et les tribus divisées ne pouvaient pas répondre d'une seule voix.
+Selon la lecture warenthorienne, cet Éveil n'était pas une attaque mais un appel : ce que les chamanes perçurent comme les esprits aurait été éprouvé par un mal inconnu venant des profondeurs — peut-être lié aux Marécages de Noyrath. Les chamanes rapportent qu'une seule voix humaine pouvait répondre, et que les tribus divisées étaient incapables de s'accorder.
 
-Le chaman Warenthos, de la tribu du Serpent-Vert, réussit l'impossible : il marcha seul à travers la jungle éveillée, parlant à chaque esprit, apaisant chaque arbre, et convainquit les autres tribus de le suivre. Sous sa guidance, les tribus se confédérèrent en un seul peuple et répondirent à l'appel de la jungle. Le mal souterrain fut repoussé — les détails sont volontairement gardés vagues dans la tradition orale — et les esprits, reconnaissants, scellèrent un pacte avec les humains de Warenthor.
+Le chaman Warenthos, de la tribu du Serpent-Vert, marcha seul à travers la jungle éveillée — selon ce qu'on raconte, parlant à chaque esprit, apaisant chaque arbre — et convainquit les autres tribus de le suivre. Sous sa guidance, les tribus se confédérèrent en un seul peuple et répondirent à ce que les chamanes nomment l'appel de la jungle. Le mal souterrain fut repoussé — les détails sont volontairement gardés vagues dans la tradition orale — et selon la chronique, les esprits scellèrent un pacte avec les humains de Warenthor.
 
-Warenthos fut proclamé premier Roi-Chaman, et la monarchie tribale fut fondée sur un principe sacré : le roi sert la jungle, et la jungle sert le roi.
+Warenthos fut proclamé premier Roi-Chaman, et la monarchie tribale fut fondée sur un principe que les fidèles tiennent pour sacré : le roi sert la jungle, et la jungle sert le roi.
 
 ---
 
@@ -51,7 +58,7 @@ Warenthos fut proclamé premier Roi-Chaman, et la monarchie tribale fut fondée 
 
 Le gouvernement de Warenthor est un mélange de pouvoir monarchique et de tradition tribale :
 
-- **Le Roi-Chaman (ou la Reine-Chamane)** est à la fois souverain et guide spirituel suprême. Il doit être capable de communiquer avec les esprits de la jungle, ce qui fait de la succession une affaire complexe — le titre n'est pas strictement héréditaire mais va au membre de la famille royale jugé le plus apte par les esprits.
+- **Le Roi-Chaman (ou la Reine-Chamane)** est à la fois souverain et guide spirituel suprême. Il doit savoir entrer en dialogue avec ce que la tradition warenthorienne nomme les esprits de la jungle, ce qui rend la succession complexe : le titre n'est pas strictement héréditaire et va à celui ou celle des héritiers que les chamanes jugent — au terme d'une lecture rituelle — le plus accordé à la jungle.
 - **Le Cercle des Anciens** rassemble les chefs des anciennes tribus. Bien que Warenthor soit unifié, les identités tribales persistent, et chaque tribu conserve son chef qui siège au Cercle. Les décisions sont prises par consensus, et le Roi-Chaman ne peut s'opposer à un vote unanime du Cercle.
 - **Les Marcheurs** sont des émissaires spirituels qui parcourent la jungle, maintenant le lien entre les communautés humaines et les esprits. Ils servent aussi de messagers, de guérisseurs et de guides pour les rares voyageurs qui traversent Warenthor.
 
@@ -61,9 +68,9 @@ Le Roi-Chaman actuel est **Thylorin du Serpent-Vert**, un homme de grande statur
 
 ## Religion
 
-### [[00_Systeme_Religieux|Vael'Kurash]] — Les Esprits de Chaque Chose (religion officielle)
+### [[Vael'Kurash]] — Les Esprits de Chaque Chose (religion officielle)
 
-En Warenthor, Vael'Kurash n'est pas une religion au sens conventionnel — c'est la réalité quotidienne. Les esprits sont omniprésents et visibles pour ceux qui savent regarder. Chaque arbre, chaque rivière, chaque animal abrite un esprit, et les interactions avec ces esprits rythment la vie de chaque Warenthorien.
+En Warenthor, Vael'Kurash imprègne le quotidien plus qu'elle ne se présente comme religion distincte. Selon la tradition locale, ce que les Warenthoriens nomment "esprits" serait omniprésent et visible pour ceux qui savent regarder ; chaque arbre, chaque rivière, chaque animal abriterait une présence avec laquelle les rituels permettraient d'interagir. Les visiteurs étrangers ne perçoivent en général qu'une fraction de ce que les chamanes décrivent.
 
 Les rituels sont profondément intégrés au quotidien :
 
@@ -72,18 +79,18 @@ Les rituels sont profondément intégrés au quotidien :
 - **Le Chant des Racines** (solstice d'été) — Les Marcheurs guident une procession qui serpente à travers la jungle, s'arrêtant devant chaque arbre-esprit pour chanter un hymne de gratitude. La procession peut durer plusieurs jours.
 - **La Fête du Serpent** (équinoxe de printemps) — Célébration de la vie et du renouveau. Des danses rituelles imitent les mouvements des serpents, et des offrandes de fruits sont déposées aux entrées des terriers.
 
-Les tatouages rituels de Vael'Kurash sont particulièrement élaborés en Warenthor. Chaque tatouage représente un esprit protecteur personnel, choisi lors d'une vision chamanique. Les tatouages changent de couleur selon l'humeur de l'esprit protecteur — un phénomène unique à Warenthor.
+Les tatouages rituels de Vael'Kurash sont particulièrement élaborés en Warenthor. Chaque tatouage représente une figure tutélaire personnelle, identifiée lors d'une vision chamanique. Les tatouages changent de couleur selon ce que la tradition locale interprète comme l'humeur de cette figure tutélaire — un phénomène que les Warenthoriens présentent comme spécifique à leur jungle.
 
-### [[00_Systeme_Religieux|Foedus Animae]] — Le Pacte des Âmes (religion secondaire)
+### [[Foedus Animae]] — Le Pacte des Âmes (religion secondaire)
 
-Le culte des ancêtres est profondément ancré à Warenthor. Les morts ne quittent pas la jungle — ils deviennent des esprits supplémentaires qui veillent sur leurs descendants. Les tombes sont des arbres — les morts sont enterrés au pied d'un arbre qui absorbe leur essence et devient un arbre-ancêtre. Communiquer avec ces arbres-ancêtres est une pratique courante, et les familles se rassemblent régulièrement autour de l'arbre de leurs défunts pour leur parler, les consulter et leur demander conseil.
+Le culte des ancêtres est profondément ancré à Warenthor. Selon la lecture warenthorienne du Foedus Animae, les morts ne quittent pas la jungle — ils prendraient leur place parmi les présences qui veillent sur leurs descendants. Les tombes sont des arbres : les morts sont enterrés au pied d'un arbre qui, selon la tradition, absorbe leur essence et devient un arbre-ancêtre. Communiquer avec ces arbres-ancêtres est une pratique courante — les familles se rassemblent régulièrement autour de l'arbre de leurs défunts pour leur parler, les consulter et leur demander conseil. Les Foedus Animae d'autres continents articulent cette doctrine différemment, sans toujours la lier à un végétal singulier.
 
 ---
 
 ## Culture et société
 
 ### L'Épreuve de la Jungle
-À l'âge de treize ans, chaque jeune Warenthorien est envoyé seul dans la jungle pendant sept jours et sept nuits. Sans nourriture, sans arme, sans guide. Pendant cette épreuve, l'adolescent doit trouver son esprit protecteur — une vision chamanique induite par la faim, la fatigue et la connexion avec la jungle. Ceux qui reviennent avec une vision sont tatoués de leur esprit protecteur. Les rares qui ne reviennent pas sont honorés comme des offrandes à la jungle.
+À l'âge de treize ans, chaque jeune Warenthorien est envoyé seul dans la jungle pendant sept jours et sept nuits. Sans nourriture, sans arme, sans guide. Pendant cette épreuve, l'adolescent doit rapporter ce que la tradition appelle son esprit protecteur — une vision induite par la faim, la fatigue et l'immersion dans la jungle. Ceux qui reviennent avec une vision sont tatoués de leur figure tutélaire. Les rares qui ne reviennent pas sont honorés comme des offrandes à la jungle.
 
 ### Hiérarchie sociale
 1. **Le Roi-Chaman et le Cercle des Anciens** — Guides spirituels et politiques
@@ -176,7 +183,40 @@ La jungle de Warenthor est stratifiée en trois niveaux : la canopée supérieur
 
 ## Secrets et intrigues
 
-- **Le Mal Sous les Racines** : Le mal souterrain repoussé lors de l'Éveil n'a pas été détruit — seulement contenu. Les Marcheurs les plus anciens sentent que les barrières faiblissent. Dans les profondeurs de la jungle, des arbres meurent sans raison apparente, et les esprits qui y résidaient disparaissent. Le Roi-Chaman Thylorin cherche discrètement l'aide des druides d'Ackerna, mais craint d'admettre publiquement la menace.
-- **L'Arbre-Monde** : Au cœur le plus profond de la jungle, là où aucun humain n'a jamais pénétré, les esprits murmurent l'existence d'un arbre si gigantesque que ses racines touchent le cœur d'Ilthara et que ses branches percent la canopée jusqu'au ciel. Si cet Arbre-Monde existe, il pourrait être la source de toute la magie de la jungle — et sa destruction signifierait la mort de Warenthor.
-- **Le Marcheur Perdu** : Le plus puissant des Marcheurs, un chamane nommé Veldris, est parti il y a un an pour une mission dans les profondeurs de la jungle et n'est jamais revenu. Les esprits se taisent quand on prononce son nom. Certains croient qu'il a trouvé quelque chose de si terrifiant qu'il ne peut pas revenir ; d'autres murmurent qu'il est devenu quelque chose de non-humain, absorbé par la jungle elle-même.
-- **Les Esprits Étrangers** : Depuis quelques mois, des esprits inconnus apparaissent dans la jungle — des entités qui ne ressemblent à aucun esprit naturel de Warenthor. Ils sont plus sombres, plus silencieux, et les animaux les fuient. Les chamanes n'arrivent pas à communiquer avec eux. Certains pensent qu'ils viennent des Marécages de Noyrath ; d'autres craignent qu'ils viennent de bien plus loin.
+- **Le Mal Sous les Racines** : Selon la mémoire des Marcheurs les plus anciens, le mal souterrain repoussé lors de l'Éveil n'aurait été que contenu, et les barrières faibliraient. Dans les profondeurs de la jungle, des arbres meurent sans raison apparente, et ce que les chamanes percevaient comme leurs esprits cesse de se manifester. Le Roi-Chaman Thylorin cherche discrètement l'aide des druides d'Ackerna sans encore admettre publiquement l'existence d'une menace.
+- **L'Arbre-Monde** : Au cœur le plus profond de la jungle, là où aucun humain n'a jamais pénétré, les chamanes rapportent un murmure persistant : celui d'un arbre si gigantesque que ses racines toucheraient le cœur d'Ilthara et que ses branches perceraient la canopée jusqu'au ciel. Si cet Arbre-Monde existe, il pourrait être la source de ce que les Warenthoriens nomment la magie de la jungle — et sa destruction pourrait signifier la mort de Warenthor. Aucune expédition n'a corroboré ces récits.
+- **Le Marcheur Perdu** : Le plus respecté des Marcheurs, un chamane nommé Veldris, est parti il y a un an pour une mission dans les profondeurs de la jungle et n'est jamais revenu. Les chamanes rapportent que les esprits se taisent quand on prononce son nom. Selon certains, il aurait trouvé quelque chose de si troublant qu'il ne peut pas revenir ; d'autres murmurent qu'il aurait basculé dans un état que la jungle aurait absorbé. Aucune lecture n'est confirmée.
+- **Les Esprits Étrangers** : Depuis quelques mois, des présences inconnues sont rapportées dans la jungle — des entités qui ne ressemblent à aucune figure habituellement reconnue par les chamanes. Plus sombres, plus silencieuses, les animaux les fuient. Les chamanes n'arrivent pas à entrer en dialogue avec elles. Certains les attribuent aux Marécages de Noyrath ; d'autres redoutent une origine plus lointaine encore.
+
+---
+
+## Données canoniques (source : Access)
+
+> Identité importée verbatim depuis `AccessExport/Pays.csv`. Sert de référence canonique au système Access historique.
+
+### Identité
+
+| Champ | Valeur |
+|-------|--------|
+| **N° Pays (CSV)** | 37 |
+| **Nom CSV** | Warenthor |
+| **Continent (CSV)** | Ilthara (N°10) |
+| **Gouvernement** | Monarchie tribale |
+| **Culture** | Culture tribale et respectueuse de la nature, avec une profonde vénération pour les esprits de la forêt. |
+| **Histoire marquante** | L'Éveil de la Jungle, un moment où les esprits de Warenthor se sont manifestés pour protéger leur royaume contre une menace extérieure. |
+| **Description CSV** | Un royaume secret niché au cœur de vastes jungles, où les habitants vivent en harmonie avec la nature sauvage et les anciens esprits. |
+
+### Régions canoniques (source : Region.csv)
+
+- **WarenthorRegion** (R138) — *stub : description non renseignée dans le CSV*
+
+### Villes canoniques (source : Ville.csv)
+
+Total : **3 villes/villages** réparties sur **1 régions**.
+
+| Ville | Région | Type |
+|-------|--------|------|
+| Wyndor | WarenthorRegion | Ville |
+| Fylorin | WarenthorRegion | Village |
+| Galdris | WarenthorRegion | Village |
+

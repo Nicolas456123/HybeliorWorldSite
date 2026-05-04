@@ -1,0 +1,356 @@
+<!-- ===== Vue d'ensemble ===== -->
+<div class="section-header" id="vue-ensemble">
+    <h2>Vue d'ensemble</h2>
+    <span class="section-count">CommonUI · Enhanced Input · IInteractable · 23 widgets</span>
+</div>
+
+<div class="codex-panel cyan-accent">
+    <div class="codex-label">Architecture UI et Interaction</div>
+    <p>
+        L'interface utilisateur d'HybeliorWorld repose sur le framework <strong style="color:var(--cyan);">CommonUI</strong> d'Epic, avec des widgets activables héritant de <code>UHWCommonActivatableWidget</code> (gamepad-friendly, gestion stack et focus). Le <strong style="color:var(--cyan);">HUD principal</strong> <code>AHWHUD</code> est un HUD <strong>2D Canvas</strong> custom (pas un widget UMG) qui héberge le floating damage et le canvas de cooldowns. Les widgets gameplay (Inventaire, Dialogue, Skill Bar, Quest Tracker, Nameplate, Map) s'ajoutent par-dessus en UMG.
+    </p>
+    <p style="margin-bottom:0;">
+        Le système d'<strong style="color:var(--cyan);">Enhanced Input</strong> de UE5.4 (jamais legacy) gère 28 Input Actions, 2 Input Mapping Contexts (clavier/souris + manette), 2 PlayerMappableInputConfigs (remapping joueur), et un DataAsset <code>UHWInputConfig</code> qui mappe les <code>UInputAction</code> vers des <strong style="color:var(--gold);">FGameplayTag</strong> pour le routage GAS. Les <strong style="color:var(--cyan);">interactables du monde</strong> partagent le contrat <code>IInteractable</code> (Containers, Doors, Supply Pods) ou utilisent un canal séparé (Portals avec auto-overlap).
+    </p>
+</div>
+
+<div class="feature-list">
+    <div class="feature-item">
+        <span class="feature-key">HUD principal</span>
+        <span class="feature-value"><code>AHWHUD</code> — HUD Canvas 2D custom. Floating damage avec 4 catégories (dégâts normal/critique, soin normal/critique), animations curve-driven (scale, speed, alpha). <code>HUDStatLIVE_RepCounter</code> répliqué pour pousser les refresh stats sans répliquer chaque attribut.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">Framework UI</span>
+        <span class="feature-value">CommonUI — <code>UHWCommonActivatableWidget</code> (base navigable gamepad), stack de widgets, gestion focus, support multi-plateforme. Préfixes BP variables : <code>WBP_</code>, <code>UI_</code>, <code>UW_</code>, <code>BP_</code> selon l'époque.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">Enhanced Input</span>
+        <span class="feature-value"><strong style="color:var(--gold);">28 Input Actions</strong> · <strong style="color:var(--gold);">2 Input Mapping Contexts</strong> (KBM / Gamepad) · <strong style="color:var(--gold);">UHWInputConfig</strong> (DataAsset, mapping IA ↔ Gameplay Tags) · <strong style="color:var(--gold);">UHWInputComponent</strong> (extends <code>UEnhancedInputComponent</code>, déclaré <code>DefaultInputComponentClass</code>).</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">Settings</span>
+        <span class="feature-value"><code>UHWSettingsLocal</code> — préférences joueur persistées : sensibilité souris/manette, remapping touches, configuration des raccourcis personnalisés. Persistance entre sessions.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">Interactables du monde</span>
+        <span class="feature-value">Interface <code>IInteractable</code> commune (<code>Interact()</code>, <code>GetInteractableGUID()</code>, <code>SetInteractableGUID()</code>) implémentée par <code>AHWContainer</code>, <code>AHWDoor</code>, <code>ASupplyPod</code>. <code>AHWPortal</code> dérive directement <code>AActor</code> (auto-overlap, design intentionnel). <code>ADynamicContentManager</code> spawne depuis DataTable.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">Widgets gameplay</span>
+        <span class="feature-value">23 widgets recensés — HUD (ResourceBars, AbilityCooldowns, Nameplates, Map, FloatingDamage), Inventaire (CommonInventoryList, EquipmentWidget, MenuTabs), Dialogue, Skill Bar (10 slots), Quest Tracker (5 quêtes max), Login (UI_Login, UI_Register, UI_CreateCharacter), CombatStateIcon, CustomButton.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">Persistance interactables</span>
+        <span class="feature-value">FastArrayed sur <code>AHWPlayerController</code> — <code>FHWContainerMaster</code> (containers ouverts) + <code>FHWSupplyPodMaster</code> (pods ouverts), répliqués <code>COND_OwnerOnly</code>, sérialisés en JSON via OWS clés <code>"ContainersOpened"</code> + <code>"SupplyPodsOpened"</code>.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">Sources doc</span>
+        <span class="feature-value"><code>05 - Implémentation Unreal/Interaction et UI/</code> — 22 fichiers : Index, HUD, HUD Widgets, Input Actions, Input Component, Interactable Framework, Interactable Blueprints, Containers, Doors, Supply Pods, Portals, Dynamic Content Manager, Architecture Assets, Dialogue UI, Inventory UI, Map UI, Login UI, Quest Tracker UI, Skill Bar UI, Nameplate UI, UI Other Widgets.</span>
+    </div>
+</div>
+
+<!-- ===== Enhanced Input ===== -->
+<div class="section-header" id="enhanced-input">
+    <h2>Enhanced Input · UHWInputConfig + UHWInputComponent</h2>
+    <span class="section-count">28 IA · 2 IMC · routage natif + GAS via Tags</span>
+</div>
+
+<div class="codex-panel cyan-accent">
+    <div class="codex-label">Pipeline d'input — du clavier au GAS</div>
+    <p>
+        Chaque appui parcourt une chaîne en 5 étapes : périphérique physique → <code>UInputMappingContext</code> (résolution touche → InputAction) → <code>UInputAction</code> (IA_Move, IA_Jump, IA_Weapon_Right, etc.) → <code>UHWInputConfig</code> (mapping <code>UInputAction</code> ↔ <code>FGameplayTag</code> InputTag.*) → <code>UHWInputComponent</code> qui dispatche en <strong>deux canaux parallèles</strong> :
+    </p>
+    <p style="margin-bottom:0;">
+        <strong style="color:var(--gold);">Canal natif</strong> via <code>BindNativeAction()</code> → méthode C++ sur <code>AHWGASPlayerCharacter</code> (effet immédiat : combo, animation locale).
+        <strong style="color:var(--cyan);">Canal GAS</strong> via <code>BindAbilityActions()</code> → callbacks <code>AbilityInputTagPressed</code> / <code>AbilityInputTagReleased</code> sur l'ASC (activation des abilities, dégâts, cooldowns). Certaines actions (par ex. <code>IA_Weapon_Right</code>) <strong>existent dans les deux canaux</strong> : le natif gère la frappe immédiate, le GAS gère l'ability sous-jacente.
+    </p>
+</div>
+
+<div class="feature-list">
+    <div class="feature-item">
+        <span class="feature-key">UHWInputConfig (DataAsset)</span>
+        <span class="feature-value">2 tableaux : <code>NativeInputActions</code> (TArray&lt;FHWInputAction&gt; pour le canal C++) · <code>AbilityInputActions</code> (TArray&lt;FHWInputAction&gt; pour le canal GAS). Chaque <code>FHWInputAction</code> = <code>UInputAction*</code> + <code>FGameplayTag InputTag</code>. Lookup via <code>FindNativeInputActionForTag()</code> / <code>FindAbilityInputActionForTag()</code> avec log d'erreur si tag manquant.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">UHWInputComponent</span>
+        <span class="feature-value">Extends <code>UEnhancedInputComponent</code>. Déclaré <code>DefaultInputComponentClass</code> dans <code>DefaultInput.ini</code>. Templates clés : <code>BindNativeAction()</code> (binding C++ natif) · <code>BindAbilityActions()</code> (binding GAS, retourne handles dans <code>BindHandles</code> pour <code>RemoveBinds</code> au logout) · <code>AddInputMappings()</code> / <code>RemoveInputMappings()</code> (registre les <code>UPlayerMappableInputConfig</code> dans le subsystem Enhanced Input du LocalPlayer).</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">28 Input Actions</span>
+        <span class="feature-value">Mouvement (Move, Sprint, Dash, Dodge, Jump, Crouch, WalkRun) · Vol (Flying, FlyingUp, FlyingDown) · Combat (ReadyToFight, Weapon_Left, Weapon_Right, NormalAbility1/2, SpecialAbility1) · Caméra (Look_Mouse, Look_Stick, ChangeCamera, MouseWheelUp/Down) · Cible (Target, NextTarget, PreviousTarget) · UI (OpenInventory, OpenMainMenu, ShowMap, Interact).</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">2 Input Mapping Contexts</span>
+        <span class="feature-value"><code>IMC_Default_KBM</code> (clavier + souris) · <code>IMC_Default_Gamepad</code> (manette). Priorité de contexte distincte : gameplay, UI, dialogue, véhicule. Support du remapping en jeu via <code>UHWSettingsLocal</code>.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">2 PlayerMappableInputConfigs</span>
+        <span class="feature-value"><code>PMI_Default_KBM</code> + <code>PMI_Default_Gamepad</code> dans <code>/Game/Input/Configs/</code>. Configurations remappables exposées au joueur. Note : l'API <code>PlayerMappableInputConfig</code> est marquée <em>deprecated</em> en UE5.4 — migration vers la nouvelle API recommandée (dette connue).</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">InputData_Player (HWInputConfig)</span>
+        <span class="feature-value">Asset <code>UHWInputConfig</code> principal du projet, situé dans <code>/Game/Input/</code>. Référencé par <code>AHWGASPlayerCharacter::SetupPlayerInputComponent()</code> pour brancher tous les bindings au démarrage.</span>
+    </div>
+</div>
+
+<div class="codex-panel">
+    <div class="codex-label">Tags d'input — déclaration C++ centralisée</div>
+    <p style="margin-bottom:0;">
+        Tous les InputTags sont déclarés en C++ natif dans <code>FHWGameplayTags</code> (<code>Source/HybeliorWorld/Public/AbilitySystem/HWGameplayTags.h</code>). Hiérarchie principale : <code>InputTag_Move</code>, <code>InputTag_Look_Mouse</code>, <code>InputTag_Look_Stick</code>, <code>InputTag_Jump_Triggered/_Completed</code>, <code>InputTag_Sprint</code>, <code>InputTag_Crouch</code>, <code>InputTag_Dash</code>, <code>InputTag_ChangeCamera</code>, <code>InputTag_Target/_NextTarget/_PreviousTarget</code>, <code>InputTag_Weapon_Left/_Right</code>, <code>InputTag_Flying/_FlyingUp/_FlyingDown</code>, <code>InputTag_MouseWheelUp/_Down</code>, <code>InputTag_SwitchWeapon</code>, <code>InputTag_Interact</code>, <code>InputTag_WalkRun</code>, <code>InputTag_Abilities_*</code> (WeaponLeft, WeaponRight, Dash, NormalAbility1/2, SpecialAbility1, ReadyToFight).
+    </p>
+</div>
+
+<div class="lore-block">
+    <div class="lore-block-title">— Flux end-to-end : exemple d'attaque à droite —</div>
+    <p style="font-family:monospace; font-size:0.92em; line-height:1.7; margin-bottom:0;">
+        1. Joueur appuie LMB (KBM) ou RT (Gamepad)<br>
+        2. <span style="color:var(--cyan);">IMC</span> résout vers <span style="color:var(--gold);">IA_Weapon_Right</span><br>
+        3. <span style="color:var(--cyan);">UHWInputComponent</span> (UEnhancedInputComponent) émet <code>ETriggerEvent::Started</code><br>
+        4a. <span style="color:#666;">[Native]</span> <code>InputTag_Weapon_Right</code> → <code>Input_WeaponRight()</code> → animation/combo C++ immédiat<br>
+        4b. <span style="color:#666;">[GAS]</span> <code>InputTag_Abilities_WeaponRight</code> → <code>AbilityInputTagPressed(tag)</code> → ASC active <code>GA_WeaponRight</code><br>
+        5. Au relâchement (<code>Completed</code>) → <code>AbilityInputTagReleased(tag)</code> → ASC notifie l'ability active
+    </p>
+</div>
+
+<!-- ===== HUD principal ===== -->
+<div class="section-header" id="hud">
+    <h2>HUD principal · AHWHUD</h2>
+    <span class="section-count">Canvas 2D · floating damage · stat refresh répliqué</span>
+</div>
+
+<div class="codex-panel">
+    <div class="codex-label">AHWHUD — HUD custom Canvas 2D (pas UMG)</div>
+    <p>
+        Le HUD principal <code>AHWHUD</code> hérite de <code>AHUD</code> et utilise <code>DrawHUD()</code> pour rendre directement sur le Canvas 2D. Il <strong>n'est pas un widget UMG</strong>. Il héberge le système de <strong style="color:var(--gold);">floating damage</strong> (textes flottants au-dessus des cibles) et le canvas de cooldowns rapide. Les widgets UMG (Inventaire, Dialogue, Skill Bar, etc.) sont ajoutés par-dessus via <code>AddToViewport</code>.
+    </p>
+    <p style="margin-bottom:0;">
+        BP associé : <code>BP_HUD</code> dans <code>/Game/Game/</code>. Note connue : les cooldowns d'<code>Ability1</code> sont hardcodés au niveau HUD (incohérence — devrait être générique via le SkillBarComponent).
+    </p>
+</div>
+
+<div class="feature-list">
+    <div class="feature-item">
+        <span class="feature-key">FHWFloatingDamage</span>
+        <span class="feature-value">Struct runtime — texte, alpha, scale, position, flags <code>IsCritical</code> / <code>IsHealing</code>. Aucun object pool : chaque hit alloue un nouveau struct (dette connue, pression GC sur 60+ mobs simultanés).</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">Animation curves</span>
+        <span class="feature-value">3 courbes : <code>FloatingDamageScaleCurve</code> (pop-then-shrink) · <code>FloatingDamageSpeedCurve</code> (vitesse verticale) · <code>FloatingDamageTextAlphaCurve</code> (fade out).</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">4 catégories visuelles</span>
+        <span class="feature-value">Dégâts normaux · Dégâts critiques · Soin normal · Soin critique. Chacune a sa fonte (<code>FloatingDamageFont</code>, <code>FloatingCriticalDamageFont</code>, <code>FloatingHealingFont</code>, <code>FloatingCriticalHealingFont</code>), couleurs (<code>FloatingDamageFontColor</code>, <code>DropShadowColor</code>, <code>OutlineColor</code>) et durée min d'affichage.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">AddFloatingDamageItem()</span>
+        <span class="feature-value">Méthode principale — <code>(FString DamageText, AActor* DamagedActor, FVector2D InitialDisplayLocationOffset, bool IsHealing, bool IsCritical, bool ShowDropShadow, bool ShowOutline)</code>.</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">HUDStatLIVE_RepCounter</span>
+        <span class="feature-value">Compteur <code>int32</code> répliqué (<code>ReplicatedUsing=OnRep_HUDStatLIVEChanged</code>) sur <code>AHWPlayerController</code>. Incrémenté serveur via <code>IncrementHUDStatLIVE()</code>. Le RepNotify déclenche le refresh client de tous les widgets stats (canon : pousser un signal de changement plutôt que de répliquer chaque attribut individuellement).</span>
+    </div>
+    <div class="feature-item">
+        <span class="feature-key">Hit Flash (complémentaire)</span>
+        <span class="feature-value">Feedback Niagara côté acteur (par-dessus le mesh) qui vient s'ajouter au floating damage Canvas du HUD. Voir doc <code>VFX Audio Rendu/Hit Flash</code>.</span>
+    </div>
+</div>
+
+<!-- ===== Widgets HUD ===== -->
+<div class="section-header" id="widgets-hud">
+    <h2>Widgets HUD · ResourceBars, Cooldowns, Nameplates, Map</h2>
+    <span class="section-count">Overlay UMG par-dessus AHWHUD · 12 widgets HUD</span>
+</div>
+
+<div class="codex-panel cyan-accent">
+    <div class="codex-label">Organisation /Game/UI/HUD/</div>
+    <p style="margin-bottom:0;">
+        L'overlay UMG du HUD est composé d'un BP_HUD (HUD principal) qui orchestre des widgets enfants : ResourceBars (HP/Mana/Stamina), AbilityCooldowns (cooldowns GAS), PlayerNamePlate (joueur), EntityNameplate (mobs world-space), CombatStateIcon (buffs/debuffs), UW_Map / UW_Map1 (mini-carte), UI_PlayerIcon (rotation Yaw temps réel), UW_TargetPoint (indicateur de cible).
+    </p>
+</div>
+
+<div class="voie-list">
+    <div class="voie-item">
+        <span class="voie-name" style="color:var(--gold);">ResourceBarsHUDWidget</span>
+        <span class="voie-desc">Widget BP pur — barres HP, Mana, et 3× barres de Stamina. S'abonne aux changements d'attributs GAS via le RepCounter <code>HUDStatLIVE</code>.</span>
+        <span class="voie-tag">HUD · Stats</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name" style="color:var(--gold);">AbilityCooldownsWidget</span>
+        <span class="voie-desc">Widget BP pur — affichage des cooldowns GAS. Couplé à <code>UHWSkillBarComponent</code> via le delegate <code>OnCooldownStarted(SlotIndex, Duration)</code>. Animation sweep BP.</span>
+        <span class="voie-tag">HUD · GAS</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name" style="color:var(--gold);">PlayerNamePlateWidget</span>
+        <span class="voie-desc">Plaque nom + niveau + combat rating au-dessus du joueur. Affichée pour les autres joueurs visibles dans la zone.</span>
+        <span class="voie-tag">HUD · Multi</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name" style="color:var(--gold);">UHWEntityNameplateWidget + UHWEntityNameplateWidgetComponent</span>
+        <span class="voie-desc">Plaque flottante <strong>world-space</strong> sur les ennemis (mobs / entités) — rendue hors du Canvas HUD via <code>UWidgetComponent</code> attaché à la racine. Barre de vie + nom + <code>CombatStateTileView</code> pour icônes d'état actives. Méthode <code>RefreshSource()</code> appelée à chaque changement de tag de combat.</span>
+        <span class="voie-tag">World-space · Mobs</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name" style="color:var(--gold);">UHWCombatStateIconEntry</span>
+        <span class="voie-desc">Entry de TileView (implémente <code>IUserObjectListEntry</code>) — icônes de buffs/debuffs/conditions élémentaires actives. Données mappées depuis la DataTable <code>CombatStateIcons</code>.</span>
+        <span class="voie-tag">Buffs · Debuffs</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name" style="color:var(--gold);">UHWMapWidget (UW_Map / UW_Map1)</span>
+        <span class="voie-desc">Mini-carte. <code>NativeTick</code> pousse la position joueur dans le MPC <code>PlayerPosition</code> à chaque frame. Le matériau bound à <code>UImage MapImage</code> sample le MPC pour positionner l'icône et scroller la vue. <code>MapDimension</code> hardcodée à 20480 UU (incohérence connue). <code>Zoom</code> paramétrable.</span>
+        <span class="voie-tag">Minimap · MPC</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name" style="color:var(--gold);">UI_PlayerIcon</span>
+        <span class="voie-desc">Widget BP pur — icône du joueur sur la carte, rotation chaque Tick selon le Yaw du personnage.</span>
+        <span class="voie-tag">Map · Rotation</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name" style="color:var(--gold);">UW_TargetPoint</span>
+        <span class="voie-desc">Indicateur visuel de point cible à l'écran (waypoint, objectif de quête, marqueur).</span>
+        <span class="voie-tag">Waypoint</span>
+    </div>
+</div>
+
+<!-- ===== Widgets gameplay ===== -->
+<div class="section-header" id="widgets-gameplay">
+    <h2>Widgets gameplay · Inventaire, Dialogue, Skill Bar, Quest, Login</h2>
+    <span class="section-count">UMG · UHWCommonActivatableWidget · stack-aware</span>
+</div>
+
+<div class="codex-panel">
+    <div class="codex-label">Pattern commun — composant ↔ widget par delegates</div>
+    <p style="margin-bottom:0;">
+        Les widgets gameplay suivent un pattern uniforme : un <strong style="color:var(--gold);">composant joueur</strong> (sur <code>AHWGASPlayerCharacter</code> ou <code>AHWPlayerController</code>) détient l'état runtime et expose des <strong>multicast delegates</strong> ; le widget UMG se branche dans <code>NativeConstruct</code> et se débranche dans <code>NativeDestruct</code>. Ce pattern unifie Inventaire (UHWInventoryComponent), Dialogue (UHWDialogueComponent), Skill Bar (UHWSkillBarComponent), Quest Tracker (UHWQuestComponent), HUD (HUDStatLIVE).
+    </p>
+</div>
+
+<div class="voie-list">
+    <div class="voie-item">
+        <span class="voie-name" style="color:var(--gold);">UHWCommonInventoryListWidget</span>
+        <span class="voie-desc">Grille d'inventaire — 4 items par ligne, filtre par type d'item. Composante ListView désactivée temporairement en C++ (référence <code>InventoryComponent</code> conservée). BP : <code>WBP_Inventory</code>.</span>
+        <span class="voie-tag">Inventaire · Grille</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name" style="color:var(--gold);">UHWEquipmentWidget</span>
+        <span class="voie-desc">Paperdoll <strong>16 slots</strong> pour les items équipés. Drag-and-drop depuis l'inventaire. <code>SlotMap</code> = <code>TMap&lt;EEquipmentSlot, UBorder*&gt;</code>. BP : <code>WBP_Equipment</code> / <code>BP_Equipment</code>.</span>
+        <span class="voie-tag">Équipement · 16 slots</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name" style="color:var(--gold);">UHWInventoryEntry</span>
+        <span class="voie-desc">Tile individuelle — icône + quantité + tooltip au survol. Right-click menu non implémenté (incohérence connue).</span>
+        <span class="voie-tag">Tile · Tooltip</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name" style="color:var(--gold);">UHWMenuTabsWidget</span>
+        <span class="voie-desc">Onglets du menu principal — <code>SetActiveTab()</code>, <code>QuitToMenu()</code>, <code>QuitGame()</code>, <code>PlayFadeIn() / PlayFadeOut()</code>. Toggled par <code>AHWPlayerController::ToggleMainMenu()</code> (HWPlayerController.h:549) et <code>ToggleMap()</code> (HWPlayerController.h:553).</span>
+        <span class="voie-tag">Menu · Tabs</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name" style="color:var(--gold);">UHWDialogueWidget</span>
+        <span class="voie-desc">Affichage du dialogue actif. Bind delegates <code>OnDialogueNodeChanged</code> + <code>OnDialogueEnded</code> de <code>UHWDialogueComponent</code>. Méthodes : <code>ShowDialogueNode(SpeakerName, Text, Choices)</code> · <code>OnChoiceSelected(ChoiceIndex)</code>. Speaker name + body text + liste verticale de choix.</span>
+        <span class="voie-tag">Dialogue · Choix</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name" style="color:var(--gold);">UHWSkillBarWidget + UHWSkillBarComponent</span>
+        <span class="voie-desc"><strong>10 slots</strong> de compétences. Chaque slot = <code>FHWSkillSlot</code> (AssignedAbility, AbilityTag, Icon, CooldownDuration, ResourceCost, KeybindText). Tick 50 ms (~20 Hz) lit <code>ASC->GetCooldownTimeRemainingAndDuration()</code> et broadcast <code>OnCooldownStarted(SlotIndex, Duration)</code>. <code>UHWSkillBarWidget::RefreshSlot()</code> minimal — overridé par <code>WBP_SkillBar</code>. Sérialisation JSON pour persistance par personnage (clé OWS <code>"SkillBar"</code>).</span>
+        <span class="voie-tag">10 slots · Cooldowns</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name" style="color:var(--gold);">UHWQuestTrackerWidget</span>
+        <span class="voie-desc">Tracker permanent en HUD — max <strong>5 quêtes affichées</strong>. 4 BlueprintImplementableEvents : <code>OnQuestAdded</code>, <code>OnObjectiveUpdated</code>, <code>OnQuestCompleted</code>, <code>OnQuestDiscovered</code>. <code>RefreshActiveQuests()</code> minimal en C++ — overridé par <code>WBP_QuestTracker</code>. S'abonne aux delegates de <code>UHWQuestComponent</code> dans <code>NativeConstruct</code>.</span>
+        <span class="voie-tag">Quêtes · 5 max</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name" style="color:var(--gold);">UHWLoginWidget</span>
+        <span class="voie-desc">Email + mot de passe → <code>POST /api/Users/LoginAndCreateSession</code> via OWS. Delegates <code>OnLoginSuccess</code> (vers Character Select) + <code>OnLoginError</code>. Création widget migrée en C++ depuis 2026-04-07 dans <code>AHWLoginPlayerController::BeginPlay()</code>. <code>ValidateAndLogin</code> lit la config OWS depuis <code>GGameIni</code> (résout le souci de l'URL hardcodée).</span>
+        <span class="voie-tag">Login · OWS</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name" style="color:var(--gold);">UI_RegisterWidget · UI_CreateCharacterWidget · UI_CharacterDetailWidget</span>
+        <span class="voie-desc">Suite des widgets login — création de compte, création de personnage (10 anatomies + apparence), détail du personnage avant entrée en jeu. Note dette : <code>UI_RegisterWidget</code> a des erreurs de compilation pré-existantes (pins de la fonction Register perdus).</span>
+        <span class="voie-tag">Onboarding</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name" style="color:var(--gold);">UHWCustomButton</span>
+        <span class="voie-desc">Bouton CommonUI custom — états hover, pressed, disabled avec effets visuels cohérents au style HybeliorWorld.</span>
+        <span class="voie-tag">CommonUI · Base</span>
+    </div>
+</div>
+
+<!-- ===== Interactables du monde ===== -->
+<div class="section-header" id="interactables">
+    <h2>Interactables · IInteractable + IInteractable-libres</h2>
+    <span class="section-count">5 acteurs · contrat unique · persistance OWS</span>
+</div>
+
+<div class="codex-panel cyan-accent">
+    <div class="codex-label">Architecture des interactables</div>
+    <p>
+        Tous les objets interactifs du monde partagent (ou pas) le contrat <code>IInteractable</code>. <strong>3 implémentent l'interface</strong> : <code>AHWContainer</code> (coffres et caisses), <code>AHWDoor</code> (portes de zone OWS), <code>ASupplyPod</code> (capsules à usage unique). <strong>2 utilisent un canal séparé</strong> : <code>AHWPortal</code> (auto-overlap, design intentionnel — pas d'<code>IInteractable</code>) et <code>ADynamicContentManager</code> (orchestrateur de spawn depuis DataTable, pas un interactable lui-même).
+    </p>
+    <p style="margin-bottom:0;">
+        <strong>Méthodes du contrat</strong> : <code>Interact()</code> (entry point joueur, corps C++ vide — implémenté en BP) · <code>GetInteractableGUID()</code> (retourne <strong style="color:var(--gold);">un nouveau GUID à chaque appel par défaut — bug connu, doit retourner un GUID stocké</strong>) · <code>SetInteractableGUID(FGuid)</code>. Les sous-classes doivent overrider <code>GetInteractableGUID()</code> pour retourner le GUID répliqué stocké.
+    </p>
+</div>
+
+<div class="voie-list">
+    <div class="voie-item">
+        <span class="voie-name" style="color:var(--gold);">AHWContainer</span>
+        <span class="voie-desc">Coffres et caisses pillables. Propriétés : <code>LootTableID</code>, <code>InteractableGUID</code> (répliqué, <code>OnRep_InteractableGUID</code>), <code>bIsCurrentlyOpen</code> (jamais modifié en C++ — driven serveur via OnRep), <code>UDataTable* ItemDataTable</code>. BlueprintNativeEvents : <code>Interact()</code>, <code>ContainerOpened()</code>, <code>ContainerClosed()</code> (corps C++ vides — BP gère animation + VFX). Flux : Interact → BP → <code>Server_OpenContainer()</code> RPC. BP : <code>BP_Container</code>.</span>
+        <span class="voie-tag">Loot · Persistance</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name" style="color:var(--gold);">AHWDoor</span>
+        <span class="voie-desc">Porte interactive avec zone travel OWS. Propriétés : <code>ZoneName</code>, <code>StartingLocation</code>, <code>StartingRotation</code>, <code>InteractableGUID</code> (répliqué, OnRep <strong>vide</strong>). Méthode <code>TravelThroughDoor(AHWGASPlayerCharacter*)</code> serveur uniquement — validations <code>HasAuthority()</code>, <code>!IsTransferringBetweenZones()</code> (anti-double-trigger), puis <code>SetIsTransferringBetweenZones(true)</code> + <code>StopMovementImmediately()</code> + <code>ShowLoadingScreen()</code> + <code>GetZoneServerToTravelTo()</code> (OWS RPC, stratégie <code>MapWithFewestPlayers</code>). BP : <code>BP_Door</code>, <code>BP_DoorPortal</code> (hybride).</span>
+        <span class="voie-tag">Zone Travel · OWS</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name" style="color:var(--gold);">ASupplyPod</span>
+        <span class="voie-desc">Capsule de ravitaillement à usage unique par personnage. Implémente <code>IInteractable</code> avec persistance via <code>FHWSupplyPodMaster</code> (FastArrayed). Une fois ouverte, ajoute le GUID dans la liste persistée du joueur — ne peut plus être ouverte. BP : <code>BP_SupplyPod01</code>.</span>
+        <span class="voie-tag">Drop · Unique</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name" style="color:var(--gold);">AHWPortal</span>
+        <span class="voie-desc"><strong>Hérite directement <code>AActor</code></strong> — n'implémente pas <code>IInteractable</code> (design intentionnel : auto-overlap). <code>UBoxComponent BoxCollision</code> (100×100×100 défaut, <code>ECC_Pawn</code> Overlap) déclenche <code>OnBoxOverlap()</code> au passage du joueur → <code>TravelThroughPortal(OtherActor)</code> avec validations <code>HasAuthority()</code>, Cast vers <code>AHWGASPlayerCharacter</code>, <code>CapsuleComponent->IsOverlappingActor(this)</code> (validation extra), latch <code>IsTransferringBetweenZones</code>. BP : <code>BP_BoxPortal</code>.</span>
+        <span class="voie-tag">Auto-overlap · Travel</span>
+    </div>
+    <div class="voie-item">
+        <span class="voie-name" style="color:var(--gold);">ADynamicContentManager</span>
+        <span class="voie-desc">Orchestrateur de spawn d'interactables depuis une DataTable. Lit <code>FHWInteractableDataTableRow</code> (<code>InteractableGUID</code>, <code>InteractableTransform</code>, <code>TSubclassOf&lt;AActor&gt; InteractableToSpawn</code>, <code>bIsPlayerInstanced</code>) et instancie au runtime. Permet le peuplement dynamique des zones sans placement manuel dans l'éditeur. BP : <code>HubWorldContentManager</code>, DataTable : <code>DT_InteractablesToSpawn</code>.</span>
+        <span class="voie-tag">Spawn · DataTable</span>
+    </div>
+</div>
+
+<div class="lore-block">
+    <div class="lore-block-title">— Persistance interactables (FastArray + OWS) —</div>
+    <p>
+        Sur <code>AHWPlayerController</code>, deux FastArrayed serializers répliqués <code>COND_OwnerOnly</code> tracent l'état d'ouverture côté joueur :
+        <code>FHWSupplyPodMaster</code> (TArray&lt;FHWSupplyPodOpenedItem { FGuid SupplyPodGUID }&gt;) +
+        <code>FHWContainerMaster</code> (TArray&lt;FHWContainerOpenedItem { FGuid ContainerGUID }&gt;).
+    </p>
+    <p style="margin-bottom:0;">
+        <strong>API exposée</strong> : <code>IsSupplyPodOpened()</code>, <code>IsContainerOpened()</code>, <code>AddSupplyPodToOpenedList()</code>, <code>AddContainerToOpenedList()</code>, <code>SerializeSupplyPodsOpened()</code>, <code>LoadSupplyPodsOpenedFromJSON()</code>, <code>RefreshStateOfRelevantSupplyPods()</code>, <code>RefreshStateOfRelevantContainers()</code>. <strong>Cycle complet</strong> : Player Interact → [Client] <code>Interact()</code> → [Server] <code>Server_OpenContainer / Server_OpenSupplyPod</code> RPC → [Server] <code>AddContainerToOpenedList(GUID)</code> → réplication FastArray → persisté via OWS clés <code>"ContainersOpened"</code> + <code>"SupplyPodsOpened"</code>.
+        <strong>Bug connu</strong> : <code>AHWContainer::IsContainerOpened()</code> appelle par erreur <code>HWPlayerController->IsSupplyPodOpened()</code> au lieu de <code>->IsContainerOpened()</code> — containers et supply pods partagent la même liste d'état.
+    </p>
+</div>
+
+<!-- ===== Synthèse ===== -->
+<div class="section-header" id="synthese">
+    <h2>Synthèse · cohérence inter-systèmes</h2>
+    <span class="section-count">UI ↔ Composants joueur ↔ GAS ↔ OWS</span>
+</div>
+
+<div class="codex-panel cyan-accent">
+    <div class="codex-label">Liaisons clés</div>
+    <p style="margin-bottom:0;">
+        L'écosystème UI/Interaction d'HybeliorWorld est strictement <strong style="color:var(--cyan);">composant-driven</strong> : chaque widget UMG s'abonne aux delegates de son composant joueur (Inventory, Dialogue, Quest, SkillBar) plutôt que d'observer directement le GAS. Les composants centralisent l'état, le GAS gère la logique gameplay, OWS persiste le tout. Pour la chaîne d'input, voir aussi la page <strong>Pipeline Ability</strong> (étape 5 « Liaison des inputs »). Pour les flux de zone travel, voir <strong>Architecture</strong> (§ Plugins → OWSPlugin) et <strong>Pipeline Quest</strong> (clés OWS).
+    </p>
+</div>
+
+<div class="lore-block" style="margin-bottom: 52px;">
+    <div class="lore-block-title">— Sources canoniques consultées —</div>
+    <p style="margin-bottom:0;">
+        <strong style="color:var(--gold);">Sous-dossier doc 05 :</strong> <code>Interaction et UI/</code> — 22 fichiers : <em>Index, HUD, HUD Widgets, Input Actions, Input Component, Interactable Framework, Interactable Blueprints, Containers, Doors, Supply Pods, Portals, Dynamic Content Manager, Architecture Assets, Dialogue UI, Inventory UI, Map UI, Login UI, Quest Tracker UI, Skill Bar UI, Nameplate UI, UI Other Widgets</em>. Couverture : 100 % du sous-dossier.
+        <strong>Pas de doublon</strong> avec <code>lejeu-code-systemes.html</code> (qui garde Character/Inventory/Progression/Quest C++ — la <em>logique</em>, pas les <em>widgets</em>) ni avec <code>lejeu-pipeline-npc.html</code> (qui détaille la mécanique du dialogue, pas le widget). Pas de doublon non plus avec <code>lejeu-pipeline-ability.html</code> (qui couvre le pipeline GAS — la chaîne input → activation, pas l'inventaire des widgets).
+    </p>
+</div>
