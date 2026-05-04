@@ -289,7 +289,7 @@ function initMap() {
         viewer = OpenSeadragon({
             id: "openseadragon1",
             prefixUrl: "./images/",
-            tileSources: "./HybeliorFull/HybeliorMap.dzi",
+            tileSources: "https://hybelior-tiles.nicolas-vollard.workers.dev/HybeliorMap.dzi",
             // Options pour le wrapping infini (selon l'état)
             wrapHorizontal: wrappingEnabled,
             wrapVertical: wrappingEnabled,

@@ -12,4 +12,9 @@ LaunchPythonServer.bat
 # Le sync est lance avant chaque deploy (manuellement ou via hook).
 Docs/
 
+# HybeliorFull/ = 207k tiles OpenSeadragon (~777 MB)
+# Servies via Cloudflare R2 + Worker proxy : https://hybelior-tiles.nicolas-vollard.workers.dev
+# Source de verite locale, upload via rclone vers R2 bucket "hybelior-tiles".
+HybeliorFull/
+
 local-db.json
