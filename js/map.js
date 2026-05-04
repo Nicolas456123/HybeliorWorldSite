@@ -2762,6 +2762,25 @@ function initMap() {
                 }
             });
         });
+
+        // DEBUG TEMPORAIRE — à retirer après diagnostic du bug "tous les labels visibles"
+        let _dbgVisible = 0, _dbgTotal = 0, _dbgFirstVisible = null;
+        Object.values(elementStorage).forEach(elements => {
+            elements.forEach(el => {
+                _dbgTotal++;
+                if (el._visible) {
+                    _dbgVisible++;
+                    if (!_dbgFirstVisible) _dbgFirstVisible = { name: el.name, coord: el.coord, storage: el.storage, zoomRange: el.zoomRange };
+                }
+            });
+        });
+        console.log('[map-debug]', {
+            visualZoom: visualZoom.toFixed(2),
+            bounds: { x: bounds.x.toFixed(3), y: bounds.y.toFixed(3), w: bounds.width.toFixed(3), h: bounds.height.toFixed(3) },
+            labels: `${_dbgVisible}/${_dbgTotal}`,
+            wrappingEnabled,
+            firstVisible: _dbgFirstVisible
+        });
     }
 
     function toggleTextVisibility() {
