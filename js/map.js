@@ -9,10 +9,12 @@ function initMap() {
             { fontSize: "0.03", storage: "continentsElements", xOffset: 0, yOffset: 0, zoomRange: [0, 2] },
             { fontSize: "0.01", storage: "paysElements", xOffset: 0, yOffset: 0, zoomRange: [2, 4] },
             { fontSize: "0.004", storage: "regionElements", xOffset: 0, yOffset: 0, zoomRange: [4, 10] },
-            { fontSize: "0.011", storage: "capitalesElements", xOffset: 0, yOffset: 0.020, showMarker: true, iconScale: 1.5, zoomRange: [10, Infinity] },
-            { fontSize: "0.010", storage: "citesElements", xOffset: 0, yOffset: 0.016, showMarker: true, iconScale: 1.2, zoomRange: [14, Infinity] },
-            { fontSize: "0.010", storage: "villesElements", xOffset: 0, yOffset: 0.012, showMarker: true, iconScale: 0.8, zoomRange: [16, Infinity] },
-            { fontSize: "0.010", storage: "villagesElements", xOffset: 0, yOffset: 0.011, showMarker: true, iconScale: 0.6, zoomRange: [18, Infinity] }
+            // Plages de zoom exclusives par tier : à zoom max, seuls les villages restent
+            // pour éviter la superposition (était : tous Infinity → 48 labels superposés à zoom 85).
+            { fontSize: "0.011", storage: "capitalesElements", xOffset: 0, yOffset: 0.020, showMarker: true, iconScale: 1.5, zoomRange: [10, 60] },
+            { fontSize: "0.010", storage: "citesElements",     xOffset: 0, yOffset: 0.016, showMarker: true, iconScale: 1.2, zoomRange: [14, 70] },
+            { fontSize: "0.010", storage: "villesElements",    xOffset: 0, yOffset: 0.012, showMarker: true, iconScale: 0.8, zoomRange: [16, Infinity] },
+            { fontSize: "0.010", storage: "villagesElements",  xOffset: 0, yOffset: 0.011, showMarker: true, iconScale: 0.6, zoomRange: [18, Infinity] }
         ]
     };
 
@@ -2761,25 +2763,6 @@ function initMap() {
                     element._visible = inView;
                 }
             });
-        });
-
-        // DEBUG TEMPORAIRE — à retirer après diagnostic du bug "tous les labels visibles"
-        let _dbgVisible = 0, _dbgTotal = 0, _dbgFirstVisible = null;
-        Object.values(elementStorage).forEach(elements => {
-            elements.forEach(el => {
-                _dbgTotal++;
-                if (el._visible) {
-                    _dbgVisible++;
-                    if (!_dbgFirstVisible) _dbgFirstVisible = { name: el.name, coord: el.coord, storage: el.storage, zoomRange: el.zoomRange };
-                }
-            });
-        });
-        console.log('[map-debug]', {
-            visualZoom: visualZoom.toFixed(2),
-            bounds: { x: bounds.x.toFixed(3), y: bounds.y.toFixed(3), w: bounds.width.toFixed(3), h: bounds.height.toFixed(3) },
-            labels: `${_dbgVisible}/${_dbgTotal}`,
-            wrappingEnabled,
-            firstVisible: _dbgFirstVisible
         });
     }
 
