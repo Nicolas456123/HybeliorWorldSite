@@ -194,6 +194,18 @@
         return d.innerHTML;
     }
 
+    /** Coloration syntaxique des blocs ```lang``` via highlight.js (si chargé). */
+    function postProcessHighlight(rootEl) {
+        if (typeof window.hljs === 'undefined') return;
+        rootEl.querySelectorAll('pre > code').forEach(code => {
+            // Si pas de classe language-X mais qu'on devine du JSON/YAML/etc., on auto-detecte.
+            try {
+                if (code.dataset.highlighted === 'yes') return;
+                hljs.highlightElement(code);
+            } catch (e) { /* highlight.js peut throw sur du code invalide */ }
+        });
+    }
+
     /** Fetch + render dans targetEl */
     async function render(targetEl, mdPath) {
         if (!targetEl) return;
@@ -211,6 +223,8 @@
             postProcessDataview(targetEl, mdPath);
             // Post-traiter les liens Obsidian (résolution via manifeste)
             postProcessObsidianLinks(targetEl, mdPath);
+            // Coloration syntaxique des blocs code (highlight.js)
+            postProcessHighlight(targetEl);
 
             // Construire le TOC sidebar
             const sidebar = document.getElementById('site-sidebar');
