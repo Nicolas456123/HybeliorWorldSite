@@ -380,6 +380,92 @@
     padding: 1px 6px;
     border-radius: 3px;
 }
+
+/* ── Mode lecture (toggle scroll/page) ─────────────────────── */
+.chron-mode-toggle {
+    font-family: 'Raleway', sans-serif;
+    font-size: .8rem;
+    padding: .35rem .7rem;
+    border: 1px solid var(--panel-border);
+    border-radius: var(--radius);
+    background: var(--panel-bg);
+    color: var(--text-muted);
+    cursor: pointer;
+    transition: background .15s, color .15s, border-color .15s;
+    flex-shrink: 0;
+    margin-left: .4rem;
+    display: inline-flex;
+    align-items: center;
+    gap: .35rem;
+    line-height: 1;
+}
+.chron-mode-toggle:hover {
+    background: var(--gold-dim);
+    color: var(--gold);
+    border-color: var(--gold);
+}
+.chron-mode-toggle .chron-mode-icon {
+    font-size: 1rem;
+    line-height: 1;
+}
+
+/* ── Mode page (e-reader) ──────────────────────────────────── */
+.chron-modal-body.page-mode {
+    overflow: hidden;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: pan-y;        /* permet scroll vertical natif si besoin, on intercepte horizontal */
+    position: relative;
+    /* Le padding 2rem 2.5rem du parent reste : il joue le rôle de marge de page. */
+}
+.chron-pages-wrapper {
+    /* Mode défilement : pas de comportement spécial, simple bloc */
+}
+.chron-modal-body.page-mode .chron-pages-wrapper {
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+.chron-modal-body.page-mode .chron-md-content {
+    height: 100%;
+    column-fill: auto;
+    column-gap: 0;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    will-change: transform;
+    transition: transform .4s cubic-bezier(.22, .8, .25, 1);
+    /* column-width est défini par JS (= largeur du wrapper en pixels) */
+}
+
+/* Indicateurs de tap-zones (apparaissent brièvement au hover desktop) */
+.chron-tap-zone {
+    position: absolute;
+    top: 0; bottom: 0;
+    width: 18%;
+    z-index: 5;
+    cursor: pointer;
+    background: linear-gradient(to right, rgba(120, 78, 18, 0.05), transparent);
+    opacity: 0;
+    transition: opacity .2s;
+    pointer-events: none;       /* activé seulement en mode page via JS */
+}
+.chron-modal-body.page-mode .chron-tap-zone { pointer-events: auto; }
+.chron-modal-body.page-mode .chron-tap-zone:hover { opacity: 1; }
+.chron-tap-zone.left  { left: 0; }
+.chron-tap-zone.right { right: 0; background: linear-gradient(to left, rgba(120, 78, 18, 0.05), transparent); }
+
+/* Empêche les éléments enfants des colonnes d'être coupés bizarrement */
+.chron-modal-body.page-mode .chron-md-content > * {
+    break-inside: avoid;
+}
+.chron-modal-body.page-mode .chron-md-content p {
+    break-inside: auto;
+}
+
+/* État dragging : transition coupée pendant le mouvement */
+.chron-modal-body.page-mode.dragging .chron-md-content { transition: none; }
 </style>
 
 <div id="chroniques-root">
@@ -393,10 +479,18 @@
         <div class="chron-modal-topbar">
             <button class="chron-modal-nav-btn" id="chron-prev-btn" disabled>&larr; Précédent</button>
             <div class="chron-modal-topbar-title" id="chron-reader-title"></div>
+            <button class="chron-mode-toggle" id="chron-mode-toggle" aria-label="Basculer mode de lecture">
+                <span class="chron-mode-icon" id="chron-mode-icon">⊞</span>
+                <span id="chron-mode-label">Pages</span>
+            </button>
             <button class="chron-modal-nav-btn" id="chron-next-btn">Suivant &rarr;</button>
             <button class="chron-modal-close" id="chron-close-btn" aria-label="Fermer">&times;</button>
         </div>
-        <div class="chron-modal-body" id="chron-reader-body"></div>
+        <div class="chron-modal-body" id="chron-reader-body">
+            <div class="chron-pages-wrapper" id="chron-pages-wrapper"></div>
+            <div class="chron-tap-zone left" id="chron-tap-left" aria-label="Page précédente"></div>
+            <div class="chron-tap-zone right" id="chron-tap-right" aria-label="Page suivante"></div>
+        </div>
         <div class="chron-reader-footer" id="chron-reader-footer">
             <div class="chron-progress-bar"><div class="chron-progress-fill" id="chron-progress-fill"></div></div>
             <div class="chron-progress-info">
@@ -422,6 +516,23 @@
     var allChapters = [];
     var currentChapterIdx = -1;
     var mdCache = {};
+
+    // Mode lecture (scroll | page) + état pagination
+    var STORAGE_KEY_MODE = 'hybelior_chroniques_mode';
+    var readMode = (function() {
+        try { return localStorage.getItem(STORAGE_KEY_MODE) || 'scroll'; }
+        catch(e) { return 'scroll'; }
+    })();
+    var currentPage = 0;
+    var totalPages = 1;
+    var goLastPageOnLoad = false;     // flag pour ouvrir le chapitre précédent à la dernière page
+
+    var pagesWrapper = document.getElementById('chron-pages-wrapper');
+    var modeToggleBtn = document.getElementById('chron-mode-toggle');
+    var modeIcon = document.getElementById('chron-mode-icon');
+    var modeLabel = document.getElementById('chron-mode-label');
+    var tapLeft = document.getElementById('chron-tap-left');
+    var tapRight = document.getElementById('chron-tap-right');
 
     // ── Fetch index ──────────────────────────────────────────
     fetch('/Docs/Lore/Chroniques/chroniques-index.json')
@@ -511,10 +622,12 @@
             if (allChapters[i].num === num) { idx = i; break; }
         }
         if (idx === -1) return;
-        currentChapterIdx = idx;
-        showChapter();
+        // Afficher la modale d'abord pour que les mesures de layout
+        // (clientWidth en mode page) soient disponibles.
         modal.removeAttribute('hidden');
         document.body.style.overflow = 'hidden';
+        currentChapterIdx = idx;
+        showChapter();
     }
 
     function showChapter() {
@@ -525,7 +638,7 @@
         prevBtn.disabled = currentChapterIdx <= 0;
         nextBtn.disabled = currentChapterIdx >= allChapters.length - 1;
 
-        readerBody.innerHTML = '<div class="chron-loading">Chargement...</div>';
+        pagesWrapper.innerHTML = '<div class="chron-loading">Chargement...</div>';
 
         var fichier = ch.fichier;
         if (mdCache[fichier]) {
@@ -543,7 +656,7 @@
                 renderChapter(text);
             })
             .catch(function() {
-                readerBody.innerHTML =
+                pagesWrapper.innerHTML =
                     '<div class="chron-placeholder">' +
                     '<div class="chron-placeholder-icon">\u2728</div>' +
                     '<div class="chron-placeholder-text">Ce chapitre n\u2019a pas encore \u00e9t\u00e9 \u00e9crit...<br>' +
@@ -564,6 +677,9 @@
             chapterTitle: ch.titre,
             scrollTop: readerBody.scrollTop,
             scrollHeight: readerBody.scrollHeight,
+            mode: readMode,
+            page: currentPage,
+            totalPages: totalPages,
             timestamp: Date.now()
         };
         try { localStorage.setItem(STORAGE_KEY, JSON.stringify(bookmark)); } catch(e) {}
@@ -577,7 +693,11 @@
     }
 
     function getReadingProgress(bookmark) {
-        if (!bookmark || !bookmark.scrollHeight || bookmark.scrollHeight <= 0) return 0;
+        if (!bookmark) return 0;
+        if (bookmark.mode === 'page' && bookmark.totalPages > 0) {
+            return Math.min(100, Math.round(((bookmark.page + 1) / bookmark.totalPages) * 100));
+        }
+        if (!bookmark.scrollHeight || bookmark.scrollHeight <= 0) return 0;
         return Math.min(100, Math.round((bookmark.scrollTop / (bookmark.scrollHeight - 600)) * 100));
     }
 
@@ -590,12 +710,22 @@
     function updateProgressUI() {
         if (currentChapterIdx < 0) return;
         var ch = allChapters[currentChapterIdx];
-        var scrollable = readerBody.scrollHeight - readerBody.clientHeight;
-        var pct = scrollable > 0 ? Math.min(100, Math.round((readerBody.scrollTop / scrollable) * 100)) : 0;
+        var pct;
+
+        if (readMode === 'page' && totalPages > 0) {
+            pct = Math.round(((currentPage + 1) / totalPages) * 100);
+        } else {
+            var scrollable = readerBody.scrollHeight - readerBody.clientHeight;
+            pct = scrollable > 0 ? Math.min(100, Math.round((readerBody.scrollTop / scrollable) * 100)) : 0;
+        }
 
         if (progressFill) progressFill.style.width = pct + '%';
         if (progressPct) progressPct.textContent = pct + '%';
-        if (progressPos) progressPos.textContent = 'Chapitre ' + ch.num + '/' + allChapters.length;
+        if (progressPos) {
+            progressPos.textContent = readMode === 'page'
+                ? 'Page ' + (currentPage + 1) + '/' + totalPages + ' · Ch. ' + ch.num + '/' + allChapters.length
+                : 'Chapitre ' + ch.num + '/' + allChapters.length;
+        }
         if (progressDay) progressDay.textContent = ch.jour ? 'Jour ' + ch.jour + ' du voyage' : '';
     }
 
@@ -614,25 +744,220 @@
             return display || file;
         });
         var html = marked.parse(clean, { breaks: true });
-        readerBody.innerHTML = '<div class="chron-md-content">' + html + '</div>';
+        pagesWrapper.innerHTML = '<div class="chron-md-content">' + html + '</div>';
 
-        // Restore scroll position if reopening same chapter
         var bookmark = loadBookmark();
-        if (bookmark && allChapters[currentChapterIdx] && bookmark.chapterNum === allChapters[currentChapterIdx].num) {
-            setTimeout(function() { readerBody.scrollTop = bookmark.scrollTop; }, 50);
+        var sameChapter = bookmark && allChapters[currentChapterIdx]
+                          && bookmark.chapterNum === allChapters[currentChapterIdx].num;
+
+        if (readMode === 'page') {
+            // Setup pagination après que le DOM soit en place
+            requestAnimationFrame(function() {
+                setupPaging(sameChapter ? bookmark : null);
+            });
         } else {
-            readerBody.scrollTop = 0;
+            if (sameChapter) {
+                setTimeout(function() { readerBody.scrollTop = bookmark.scrollTop; }, 50);
+            } else {
+                readerBody.scrollTop = 0;
+            }
         }
 
         // Save immediately + update progress
         setTimeout(function() {
             saveBookmark();
             updateProgressUI();
-        }, 100);
+        }, 120);
 
         // Mark chapter card as current
         updateChapterCards();
     }
+
+    // ── Mode page (e-reader) ─────────────────────────────────
+    function applyReadMode() {
+        if (readMode === 'page') {
+            readerBody.classList.add('page-mode');
+            if (modeIcon)  modeIcon.textContent = '☰';
+            if (modeLabel) modeLabel.textContent = 'Défilement';
+            // Si un chapitre est ouvert, paginer
+            if (pagesWrapper.querySelector('.chron-md-content')) {
+                setupPaging(loadBookmark());
+            }
+        } else {
+            readerBody.classList.remove('page-mode');
+            if (modeIcon)  modeIcon.textContent = '⊞';
+            if (modeLabel) modeLabel.textContent = 'Pages';
+            teardownPaging();
+        }
+        updateProgressUI();
+    }
+
+    function setupPaging(bookmark) {
+        var content = pagesWrapper.querySelector('.chron-md-content');
+        if (!content) return;
+        var w = pagesWrapper.clientWidth;
+        if (!w) {
+            // Layout pas prêt (modale qui vient de s'afficher) → réessai différé
+            setTimeout(function() { setupPaging(bookmark); }, 50);
+            return;
+        }
+        // Reset transform avant mesure
+        content.style.transition = 'none';
+        content.style.transform = 'translate3d(0,0,0)';
+        content.style.columnWidth = w + 'px';
+        // force reflow
+        var totalWidth = content.scrollWidth;
+        // Restore transition next frame
+        requestAnimationFrame(function() { content.style.transition = ''; });
+        totalPages = Math.max(1, Math.round(totalWidth / w));
+        // Position cible
+        var targetPage = 0;
+        if (goLastPageOnLoad) {
+            targetPage = totalPages - 1;
+            goLastPageOnLoad = false;
+        } else if (bookmark && bookmark.mode === 'page'
+                   && bookmark.chapterNum === allChapters[currentChapterIdx].num
+                   && typeof bookmark.page === 'number') {
+            targetPage = Math.min(bookmark.page, totalPages - 1);
+        }
+        currentPage = targetPage;
+        applyPageTransform();
+        updateProgressUI();
+    }
+
+    function teardownPaging() {
+        var content = pagesWrapper.querySelector('.chron-md-content');
+        if (!content) return;
+        content.style.transform = '';
+        content.style.columnWidth = '';
+    }
+
+    function applyPageTransform() {
+        var content = pagesWrapper.querySelector('.chron-md-content');
+        if (!content) return;
+        var w = pagesWrapper.clientWidth;
+        content.style.transform = 'translate3d(' + (-currentPage * w) + 'px,0,0)';
+    }
+
+    function gotoPage(n) {
+        if (readMode !== 'page') return;
+        if (n < 0) {
+            // Page précédente d'un chapitre antérieur
+            if (currentChapterIdx > 0) {
+                goLastPageOnLoad = true;
+                currentChapterIdx--;
+                showChapter();
+                return;
+            }
+            n = 0;
+        }
+        if (n >= totalPages) {
+            if (currentChapterIdx < allChapters.length - 1) {
+                currentChapterIdx++;
+                showChapter();
+                return;
+            }
+            n = totalPages - 1;
+        }
+        currentPage = n;
+        applyPageTransform();
+        saveBookmark();
+        updateProgressUI();
+    }
+
+    // Toggle mode
+    if (modeToggleBtn) {
+        modeToggleBtn.addEventListener('click', function() {
+            readMode = (readMode === 'scroll') ? 'page' : 'scroll';
+            try { localStorage.setItem(STORAGE_KEY_MODE, readMode); } catch(e) {}
+            applyReadMode();
+        });
+    }
+
+    // Tap zones (clic gauche/droite)
+    if (tapLeft) {
+        tapLeft.addEventListener('click', function() { gotoPage(currentPage - 1); });
+    }
+    if (tapRight) {
+        tapRight.addEventListener('click', function() { gotoPage(currentPage + 1); });
+    }
+
+    // Swipe au doigt
+    var touchStartX = 0;
+    var touchStartY = 0;
+    var touchStartTime = 0;
+    var dragOffset = 0;
+    var isDragging = false;
+    var swipeAxis = null;   // 'x' | 'y' | null — déterminé après quelques px
+
+    readerBody.addEventListener('touchstart', function(e) {
+        if (readMode !== 'page') return;
+        touchStartX = e.touches[0].clientX;
+        touchStartY = e.touches[0].clientY;
+        touchStartTime = Date.now();
+        isDragging = false;
+        dragOffset = 0;
+        swipeAxis = null;
+    }, { passive: true });
+
+    readerBody.addEventListener('touchmove', function(e) {
+        if (readMode !== 'page') return;
+        var dx = e.touches[0].clientX - touchStartX;
+        var dy = e.touches[0].clientY - touchStartY;
+        if (swipeAxis === null && (Math.abs(dx) > 10 || Math.abs(dy) > 10)) {
+            swipeAxis = (Math.abs(dx) > Math.abs(dy)) ? 'x' : 'y';
+        }
+        if (swipeAxis !== 'x') return;
+        if (!isDragging) {
+            isDragging = true;
+            readerBody.classList.add('dragging');
+        }
+        if (e.cancelable) e.preventDefault();
+        dragOffset = dx;
+        var content = pagesWrapper.querySelector('.chron-md-content');
+        if (content) {
+            var w = pagesWrapper.clientWidth;
+            content.style.transform = 'translate3d(' + (-currentPage * w + dx) + 'px,0,0)';
+        }
+    }, { passive: false });
+
+    readerBody.addEventListener('touchend', function() {
+        if (readMode !== 'page' || !isDragging) {
+            isDragging = false; swipeAxis = null;
+            return;
+        }
+        readerBody.classList.remove('dragging');
+        var w = pagesWrapper.clientWidth;
+        var dx = dragOffset;
+        var dt = Date.now() - touchStartTime;
+        var velocity = Math.abs(dx) / Math.max(1, dt);
+
+        if (Math.abs(dx) > w * 0.20 || velocity > 0.4) {
+            gotoPage(currentPage + (dx < 0 ? 1 : -1));
+        } else {
+            applyPageTransform();   // snap back
+        }
+        isDragging = false;
+        dragOffset = 0;
+        swipeAxis = null;
+    });
+
+    // Resize → re-mesurer
+    var resizeTimer = null;
+    window.addEventListener('resize', function() {
+        if (readMode !== 'page') return;
+        clearTimeout(resizeTimer);
+        resizeTimer = setTimeout(function() {
+            setupPaging({
+                mode: 'page',
+                chapterNum: allChapters[currentChapterIdx] && allChapters[currentChapterIdx].num,
+                page: currentPage
+            });
+        }, 200);
+    });
+
+    // Application initiale du mode (au chargement)
+    applyReadMode();
 
     // ── Navigation ───────────────────────────────────────────
     prevBtn.addEventListener('click', function() {
@@ -654,9 +979,17 @@
     closeBtn.addEventListener('click', closeModal);
     modal.querySelector('.chron-modal-backdrop').addEventListener('click', closeModal);
     document.addEventListener('keydown', function(e) {
-        if (e.key === 'Escape' && !modal.hasAttribute('hidden')) closeModal();
-        if (!modal.hasAttribute('hidden') && e.key === 'ArrowLeft') prevBtn.click();
-        if (!modal.hasAttribute('hidden') && e.key === 'ArrowRight') nextBtn.click();
+        if (modal.hasAttribute('hidden')) return;
+        if (e.key === 'Escape') { closeModal(); return; }
+        if (readMode === 'page') {
+            // Page mode : ←/→ = page nav (déborde sur chapitres voisins),
+            //              Shift+←/→ = chapitre prev/next direct
+            if (e.key === 'ArrowLeft')  { e.shiftKey ? prevBtn.click() : gotoPage(currentPage - 1); }
+            if (e.key === 'ArrowRight') { e.shiftKey ? nextBtn.click() : gotoPage(currentPage + 1); }
+        } else {
+            if (e.key === 'ArrowLeft')  prevBtn.click();
+            if (e.key === 'ArrowRight') nextBtn.click();
+        }
     });
 
     // ── Resume bar + chapter card markers ─────────────────
