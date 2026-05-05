@@ -2046,6 +2046,20 @@ function initMap() {
         viewer.addHandler('zoom', throttledCullBorders);
         viewer.addHandler('pan', throttledCullBorders);
         viewer.addHandler('animation-finish', cullBordersOutOfView);
+
+        // Perf zoom : cacher l'overlay SVG pendant les animations pan/zoom.
+        // Le viewport culling (cullBordersOutOfView, updateTextVisibility) reduit deja
+        // beaucoup, mais OSD recompute aussi tous les transforms SVG a chaque frame
+        // d'animation. Le hide pendant l'anim gain le coup ce dernier (FPS x10 a zoom max).
+        // Les tuiles bitmap (rendues GPU) restent visibles, l'overlay revient instantanement
+        // a animation-finish. Visuellement : les overlays disparaissent pendant le mouvement,
+        // reapparaissent des qu'on relache.
+        const svgOverlayNode = svgOverlay && svgOverlay.node && svgOverlay.node();
+        const svgRoot = svgOverlayNode && (svgOverlayNode.ownerSVGElement || svgOverlayNode.parentElement);
+        if (svgRoot) {
+            viewer.addHandler('animation-start', () => { svgRoot.style.visibility = 'hidden'; });
+            viewer.addHandler('animation-finish', () => { svgRoot.style.visibility = ''; });
+        }
         // Update border stroke width on zoom change
         viewer.addHandler('animation-finish', () => {
             if (bordersLayer.style.display !== 'none') renderAllBorders();
