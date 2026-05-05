@@ -1,0 +1,27 @@
+<!-- Page Implémentation Unreal : sous-onglets = 11 sous-systèmes de Documentation/GDD/05 - Implémentation Unreal/ -->
+<div class="md-subtabs-wrapper">
+    <nav class="subtab-nav" id="implementation-subtab-nav"></nav>
+    <div class="subtab-content" id="implementation-content"></div>
+</div>
+
+<script>
+(function () {
+    const base = 'GDD/05 - Implémentation Unreal/';
+    const tabs = [
+        { key: 'overview',    label: "Vue d'ensemble",      src: base + "Vue d'Ensemble/Index.md" },
+        { key: 'combat',      label: 'Combat & Capacités',  src: base + 'Combat et Capacités/Index.md' },
+        { key: 'entities',    label: 'Personnages & Entités', src: base + 'Personnages et Entités/Index.md' },
+        { key: 'progression', label: 'Progression & Inventaire', src: base + 'Progression et Inventaire/Index.md' },
+        { key: 'monde',       label: 'Monde & Environnement', src: base + 'Monde et Environnement/Index.md' },
+        { key: 'ui',          label: 'Interaction & UI',    src: base + 'Interaction et UI/Index.md' },
+        { key: 'vfx',         label: 'VFX / Audio / Rendu', src: base + 'VFX Audio Rendu/Index.md' },
+        { key: 'framework',   label: 'Framework & Plugins', src: base + 'Framework et Plugins/Index.md' },
+        { key: 'backend',     label: 'Backend OWS',         src: base + 'Backend OWS/Index.md' },
+        { key: 'tools',       label: 'Outils & Automation', src: base + 'Outils et Automation/Index.md' },
+        { key: 'audits',      label: 'Audits',              src: base + 'Audits/Index.md' },
+    ];
+    if (window.MdRenderer) {
+        MdRenderer.initTabs('implementation', '#implementation-subtab-nav', '#implementation-content', tabs, 'overview');
+    }
+})();
+</script>

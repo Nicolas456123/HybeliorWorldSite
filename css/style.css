@@ -3057,6 +3057,41 @@ body.ios-fullscreen .ios-fullscreen-btn { top: env(safe-area-inset-top, 10px); }
 .md-content del { opacity: 0.5; }
 .md-content img { max-width: 100%; border-radius: 4px; }
 
+/* ── Callouts Obsidian (> [!type] Title) ── */
+.md-callout {
+    border-left: 3px solid var(--gold);
+    background: rgba(178, 148, 96, 0.08);
+    padding: 12px 16px;
+    margin: 16px 0;
+    border-radius: 0 4px 4px 0;
+}
+.md-callout-title {
+    color: var(--gold);
+    font-weight: 600;
+    margin-bottom: 6px;
+    font-size: 14px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+.md-callout-body p:last-child { margin-bottom: 0; }
+.md-callout-important { border-left-color: #c08820; background: rgba(192, 136, 32, 0.1); }
+.md-callout-important .md-callout-title { color: #d8a040; }
+.md-callout-important .md-callout-title::before { content: "★ "; }
+.md-callout-warning { border-left-color: #c06050; background: rgba(192, 96, 80, 0.1); }
+.md-callout-warning .md-callout-title { color: #e08070; }
+.md-callout-warning .md-callout-title::before { content: "⚠ "; }
+.md-callout-note { border-left-color: var(--cyan); background: rgba(80, 160, 200, 0.08); }
+.md-callout-note .md-callout-title { color: var(--cyan); }
+.md-callout-note .md-callout-title::before { content: "🛈 "; }
+.md-callout-info { border-left-color: var(--cyan); background: rgba(80, 160, 200, 0.08); }
+.md-callout-info .md-callout-title { color: var(--cyan); }
+.md-callout-tip { border-left-color: #60a070; background: rgba(96, 160, 112, 0.1); }
+.md-callout-tip .md-callout-title { color: #80c090; }
+.md-callout-tip .md-callout-title::before { content: "💡 "; }
+.md-callout-quote { border-left-color: var(--text-muted); background: rgba(255, 255, 255, 0.03); font-style: italic; }
+.md-callout-example { border-left-color: #a070c0; background: rgba(160, 112, 192, 0.08); }
+.md-callout-example .md-callout-title { color: #b890d0; }
+
 /* ── Layout 2 colonnes Lore (sidebar + contenu) ── */
 .lore-layout {
     display: flex;

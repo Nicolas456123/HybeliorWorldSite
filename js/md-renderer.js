@@ -35,16 +35,54 @@
     function transformObsidianLinks(md) {
         return md.replace(/\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/g, (m, target, label) => {
             const text = label || target.split('/').pop();
-            const slug = target.toLowerCase()
-                .replace(/[^\w\s\-/]/g, '')
-                .replace(/\s+/g, '-');
             return `<a href="#md/${encodeURIComponent(target)}" class="md-link" data-md-target="${target}">${text}</a>`;
+        });
+    }
+
+    /** Convertit les callouts Obsidian > [!type] Title \n > body en <div class="md-callout md-callout-type"> */
+    function transformObsidianCallouts(md) {
+        const lines = md.split('\n');
+        const out = [];
+        let i = 0;
+        while (i < lines.length) {
+            const line = lines[i];
+            const m = line.match(/^>\s*\[!(\w+)\](?:\s+(.*))?$/i);
+            if (m) {
+                const type = m[1].toLowerCase();
+                const title = m[2] || '';
+                const body = [];
+                i++;
+                while (i < lines.length && /^>/.test(lines[i])) {
+                    body.push(lines[i].replace(/^>\s?/, ''));
+                    i++;
+                }
+                const titleHtml = title ? `<div class="md-callout-title">${title}</div>` : '';
+                const bodyMd = body.join('\n');
+                out.push(`<div class="md-callout md-callout-${type}">${titleHtml}<div class="md-callout-body" data-md="${encodeURIComponent(bodyMd)}"></div></div>`);
+                continue;
+            }
+            out.push(line);
+            i++;
+        }
+        return out.join('\n');
+    }
+
+    /** Post-processing : render le contenu des callouts (qui contient du markdown) */
+    function postProcessCallouts(rootEl) {
+        rootEl.querySelectorAll('.md-callout-body[data-md]').forEach(el => {
+            const md = decodeURIComponent(el.dataset.md);
+            const inner = transformObsidianLinks(md);
+            el.innerHTML = (typeof marked !== 'undefined') ? marked.parse(inner) : inner;
+            el.removeAttribute('data-md');
         });
     }
 
     /** Render markdown raw → HTML stylé */
     function renderMarkdownText(md) {
-        const body = transformObsidianLinks(stripFrontmatter(md));
+        // Ordre : strip frontmatter → callouts (avant les liens car contiennent du md inline) → liens Obsidian
+        let body = stripFrontmatter(md);
+        body = transformObsidianCallouts(body);
+        body = transformObsidianLinks(body);
         if (typeof marked === 'undefined') {
             return `<pre>${body.replace(/[<>&]/g, c => ({'<':'&lt;','>':'&gt;','&':'&amp;'}[c]))}</pre>`;
         }
@@ -63,6 +101,8 @@
             const md = await resp.text();
             const html = renderMarkdownText(md);
             targetEl.innerHTML = `<div class="md-content">${html}</div>`;
+            // Post-traiter les callouts (rend leur body markdown)
+            postProcessCallouts(targetEl);
 
             // Construire le TOC sidebar
             const sidebar = document.getElementById('site-sidebar');
