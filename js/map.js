@@ -436,6 +436,17 @@ function initMap() {
             if (!isLineType && border.points.length < 3) return;
             border.svgElements = [];
 
+            // Cache bbox du border (en coords normalisées image) pour viewport culling.
+            // Calculé une fois au render, utilisé par cullBordersOutOfView() à chaque pan/zoom.
+            let minX = Infinity, minY = Infinity, maxX = -Infinity, maxY = -Infinity;
+            border.points.forEach(p => {
+                if (p.x < minX) minX = p.x;
+                if (p.x > maxX) maxX = p.x;
+                if (p.y < minY) minY = p.y;
+                if (p.y > maxY) maxY = p.y;
+            });
+            border._bbox = { minX, minY, maxX, maxY };
+
             // Build SVG path data: supports multiple subpaths for islands
             const allPaths = border.paths || [border.points];
             const pathD = allPaths.map(pts => {
@@ -529,6 +540,39 @@ function initMap() {
                 targetLayer.appendChild(poly);
                 border.svgElements.push(poly);
             });
+        });
+        cullBordersOutOfView();
+    }
+
+    // Viewport culling pour les bordures (continents/pays/regions/coastlines/rivers/lakes).
+    // Sans ce filtre, le browser layout/paint ~200 paths SVG complexes a chaque frame
+    // d'animation, meme s'ils sont a l'autre bout du monde -> 5 FPS au zoom max.
+    // Avec ce filtre, ne sont rendus que les paths dont le bbox intersecte le viewport.
+    function cullBordersOutOfView() {
+        if (!viewer || wrappingEnabled) return; // skip en mode wrapping (multi-copies)
+        const bounds = viewer.viewport.getBounds(true);
+        const margin = 0.05;
+        const vL = bounds.x - margin;
+        const vR = bounds.x + bounds.width + margin;
+        const vT = bounds.y - margin;
+        const vB = bounds.y + bounds.height + margin;
+        Object.values(bordersData).forEach(border => {
+            if (!border._bbox || !border.svgElements || !border.svgElements.length) return;
+            const b = border._bbox;
+            const inView = !(b.maxX < vL || b.minX > vR || b.maxY < vT || b.minY > vB);
+            if (border._inView !== inView) {
+                const display = inView ? '' : 'none';
+                border.svgElements.forEach(el => el.style.display = display);
+                border._inView = inView;
+            }
+        });
+    }
+    let _cullBordersTimer = null;
+    function throttledCullBorders() {
+        if (_cullBordersTimer) return;
+        _cullBordersTimer = requestAnimationFrame(() => {
+            _cullBordersTimer = null;
+            cullBordersOutOfView();
         });
     }
 
@@ -1998,23 +2042,10 @@ function initMap() {
         viewer.addHandler('pan', throttledUpdateVisibility);
         viewer.addHandler('resize', updateTextVisibility);
         viewer.addHandler('animation-finish', updateTextVisibility);
-
-        // Perf zoom max : cacher l'overlay SVG (~2100 paths) pendant les animations
-        // pan/zoom. Le browser n'a plus à layout/composite les SVG -> FPS x10 sur le
-        // zoom. Le SVG revient instantanement a animation-finish (les tuiles bitmap
-        // restent visibles via WebGL pendant la transition).
-        const svgOverlayNode = svgOverlay && svgOverlay.node && svgOverlay.node();
-        if (svgOverlayNode) {
-            // svgOverlay.node() retourne un <g> ; on cache son <svg> parent pour aussi
-            // suspendre les overlays canvas/clipPath siblings.
-            const svgRoot = svgOverlayNode.ownerSVGElement || svgOverlayNode.parentElement;
-            viewer.addHandler('animation-start', () => {
-                if (svgRoot) svgRoot.style.visibility = 'hidden';
-            });
-            viewer.addHandler('animation-finish', () => {
-                if (svgRoot) svgRoot.style.visibility = '';
-            });
-        }
+        // Culling des bordures aussi sur zoom/pan (cf cullBordersOutOfView)
+        viewer.addHandler('zoom', throttledCullBorders);
+        viewer.addHandler('pan', throttledCullBorders);
+        viewer.addHandler('animation-finish', cullBordersOutOfView);
         // Update border stroke width on zoom change
         viewer.addHandler('animation-finish', () => {
             if (bordersLayer.style.display !== 'none') renderAllBorders();
