@@ -466,6 +466,41 @@
 
 /* État dragging : transition coupée pendant le mouvement */
 .chron-modal-body.page-mode.dragging .chron-md-content { transition: none; }
+
+/* ── Mode plein écran ──────────────────────────────────────── */
+.chron-fs-toggle { padding: .35rem .55rem; }
+
+.chron-modal.fullscreen .chron-modal-backdrop { display: none; }
+.chron-modal.fullscreen .chron-modal-panel {
+    width: 100vw;
+    max-width: none;
+    height: 100vh;
+    height: 100dvh;             /* dynamic viewport — gère URL bar mobile */
+    border-radius: 0;
+    border: none;
+    box-shadow: none;
+}
+
+/* Mobile : modale en plein écran par défaut */
+@media (max-width: 768px) {
+    .chron-modal { padding: 0; }
+    .chron-modal-backdrop { display: none; }
+    .chron-modal-panel {
+        width: 100vw;
+        max-width: none;
+        height: 100vh;
+        height: 100dvh;
+        border-radius: 0;
+        border: none;
+        box-shadow: none;
+    }
+    .chron-modal-topbar { padding: .55rem .8rem; }
+    .chron-modal-nav-btn { font-size: .75rem; padding: .3rem .5rem; }
+    .chron-modal-topbar-title { font-size: .85rem; margin: 0 .4rem; }
+    .chron-mode-toggle { font-size: .7rem; padding: .3rem .5rem; }
+    .chron-mode-toggle #chron-mode-label { display: none; }
+    .chron-fs-toggle { display: none; }   /* déjà fullscreen par défaut */
+}
 </style>
 
 <div id="chroniques-root">
@@ -482,6 +517,9 @@
             <button class="chron-mode-toggle" id="chron-mode-toggle" aria-label="Basculer mode de lecture">
                 <span class="chron-mode-icon" id="chron-mode-icon">⊞</span>
                 <span id="chron-mode-label">Pages</span>
+            </button>
+            <button class="chron-mode-toggle chron-fs-toggle" id="chron-fs-toggle" aria-label="Plein écran" title="Plein écran">
+                <span class="chron-mode-icon" id="chron-fs-icon">⛶</span>
             </button>
             <button class="chron-modal-nav-btn" id="chron-next-btn">Suivant &rarr;</button>
             <button class="chron-modal-close" id="chron-close-btn" aria-label="Fermer">&times;</button>
@@ -533,6 +571,8 @@
     var modeLabel = document.getElementById('chron-mode-label');
     var tapLeft = document.getElementById('chron-tap-left');
     var tapRight = document.getElementById('chron-tap-right');
+    var fsToggleBtn = document.getElementById('chron-fs-toggle');
+    var fsIcon = document.getElementById('chron-fs-icon');
 
     // ── Fetch index ──────────────────────────────────────────
     fetch('/Docs/Lore/Chroniques/chroniques-index.json')
@@ -956,6 +996,62 @@
         }, 200);
     });
 
+    // ── Plein écran ───────────────────────────────────────────
+    function isInFullscreen() {
+        return !!(document.fullscreenElement || document.webkitFullscreenElement);
+    }
+    function requestFs(el) {
+        try {
+            if (el.requestFullscreen) return el.requestFullscreen();
+            if (el.webkitRequestFullscreen) return el.webkitRequestFullscreen();
+        } catch(e) {}
+        return Promise.reject();
+    }
+    function exitFs() {
+        try {
+            if (document.exitFullscreen) return document.exitFullscreen();
+            if (document.webkitExitFullscreen) return document.webkitExitFullscreen();
+        } catch(e) {}
+    }
+    function rePaginate() {
+        if (readMode !== 'page') return;
+        setTimeout(function() {
+            var ch = allChapters[currentChapterIdx];
+            setupPaging(ch ? { mode: 'page', chapterNum: ch.num, page: currentPage } : null);
+        }, 220);
+    }
+    function toggleFullscreen() {
+        var willEnter = !modal.classList.contains('fullscreen');
+        if (willEnter) {
+            modal.classList.add('fullscreen');
+            if (fsIcon) fsIcon.textContent = '⮽';
+            requestFs(modal).then(function(){}, function(){});
+        } else {
+            modal.classList.remove('fullscreen');
+            if (fsIcon) fsIcon.textContent = '⛶';
+            if (isInFullscreen()) exitFs();
+        }
+        rePaginate();
+    }
+    if (fsToggleBtn) fsToggleBtn.addEventListener('click', toggleFullscreen);
+
+    // Sync si l'utilisateur quitte le plein écran via Esc / F11
+    function onFsChange() {
+        if (!isInFullscreen() && modal.classList.contains('fullscreen')) {
+            modal.classList.remove('fullscreen');
+            if (fsIcon) fsIcon.textContent = '⛶';
+            rePaginate();
+        }
+    }
+    document.addEventListener('fullscreenchange', onFsChange);
+    document.addEventListener('webkitfullscreenchange', onFsChange);
+
+    // Mobile : appliquer la classe fullscreen au DOM (le CSS la met déjà
+    // par défaut mais c'est plus cohérent pour le toggle / les mesures).
+    if (window.matchMedia && window.matchMedia('(max-width: 768px)').matches) {
+        modal.classList.add('fullscreen');
+    }
+
     // Application initiale du mode (au chargement)
     applyReadMode();
 
@@ -970,6 +1066,13 @@
     // ── Close ────────────────────────────────────────────────
     function closeModal() {
         saveBookmark();
+        // Quitter le plein écran navigateur si actif
+        if (document.fullscreenElement || document.webkitFullscreenElement) {
+            try {
+                if (document.exitFullscreen) document.exitFullscreen();
+                else if (document.webkitExitFullscreen) document.webkitExitFullscreen();
+            } catch(e) {}
+        }
         modal.setAttribute('hidden', '');
         document.body.style.overflow = '';
         currentChapterIdx = -1;
