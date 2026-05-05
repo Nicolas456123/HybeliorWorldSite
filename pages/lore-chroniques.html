@@ -158,7 +158,11 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: .7rem 1.2rem;
+    /* Safe-area-inset-top → décale la topbar sous le notch iPhone */
+    padding-top: calc(.7rem + env(safe-area-inset-top, 0px));
+    padding-bottom: .7rem;
+    padding-left: calc(1.2rem + env(safe-area-inset-left, 0px));
+    padding-right: calc(1.2rem + env(safe-area-inset-right, 0px));
     border-bottom: 1px solid var(--panel-border);
     background: var(--bg-mid);
     flex-shrink: 0;
@@ -337,7 +341,11 @@
     background: rgba(232,220,196,0.97);
     backdrop-filter: blur(8px);
     border-top: 1px solid rgba(120,78,18,0.12);
-    padding: 6px 16px 8px;
+    /* Safe-area-inset → décale le footer hors du bord arrondi iPhone */
+    padding-top: 8px;
+    padding-right: calc(16px + env(safe-area-inset-right, 0px));
+    padding-bottom: calc(14px + env(safe-area-inset-bottom, 0px));
+    padding-left: calc(16px + env(safe-area-inset-left, 0px));
     z-index: 10;
 }
 .chron-progress-bar {
