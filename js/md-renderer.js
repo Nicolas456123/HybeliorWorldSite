@@ -39,6 +39,23 @@
         });
     }
 
+    /**
+     * Détecte les blocs ```dataview ... ``` et les remplace par un placeholder div.
+     * On extrait le chemin FROM "X" pour le passer en attribut data-from.
+     * Les autres clauses (TABLE, WHERE, SORT) sont ignorées : on liste les
+     * fichiers du dossier en excluant Index.md (déjà fait par le script
+     * gen-doc-manifest.js).
+     */
+    function transformObsidianDataview(md) {
+        const re = /```dataview\s*\n([\s\S]*?)\n```/g;
+        return md.replace(re, (full, body) => {
+            const fromMatch = body.match(/^\s*FROM\s+"([^"]+)"/im);
+            const from = fromMatch ? fromMatch[1] : '';
+            // Si la clause WHERE explicite "Index" → on signale qu'on liste tout sauf Index
+            return `<div class="md-dataview" data-from="${encodeURIComponent(from)}"></div>`;
+        });
+    }
+
     /** Convertit les callouts Obsidian > [!type] Title \n > body en <div class="md-callout md-callout-type"> */
     function transformObsidianCallouts(md) {
         const lines = md.split('\n');
@@ -79,8 +96,10 @@
 
     /** Render markdown raw → HTML stylé */
     function renderMarkdownText(md) {
-        // Ordre : strip frontmatter → callouts (avant les liens car contiennent du md inline) → liens Obsidian
+        // Ordre : strip frontmatter → dataview (avant marked qui rendrait en code) →
+        //         callouts (avant les liens car contiennent du md inline) → liens Obsidian
         let body = stripFrontmatter(md);
+        body = transformObsidianDataview(body);
         body = transformObsidianCallouts(body);
         body = transformObsidianLinks(body);
         if (typeof marked === 'undefined') {
@@ -88,6 +107,91 @@
         }
         marked.setOptions({ breaks: false, gfm: true, headerIds: true, mangle: false });
         return marked.parse(body);
+    }
+
+    /** Cache du manifeste des fichiers de doc */
+    let _manifestPromise = null;
+    function getManifest() {
+        if (_manifestPromise) return _manifestPromise;
+        _manifestPromise = fetch('/Docs/_manifest.json')
+            .then(r => r.ok ? r.json() : {})
+            .catch(() => ({}));
+        return _manifestPromise;
+    }
+
+    /**
+     * Construit la grille de cartes pour un bloc dataview.
+     * `from` est le chemin Obsidian (ex: "05 - Implémentation Unreal/Combat et Capacités")
+     * → on tente plusieurs préfixes de manifest pour le résoudre.
+     */
+    async function postProcessDataview(rootEl, currentMdPath) {
+        const blocks = rootEl.querySelectorAll('.md-dataview[data-from]');
+        if (blocks.length === 0) return;
+
+        const manifest = await getManifest();
+
+        blocks.forEach(block => {
+            const from = decodeURIComponent(block.dataset.from || '');
+            if (!from) {
+                block.remove();
+                return;
+            }
+
+            // Tenter de résoudre la clé du manifeste : on essaie le from tel quel,
+            // puis avec préfixes "GDD/" et "Lore/" (les deux racines courantes).
+            const candidates = [from, 'GDD/' + from, 'Lore/' + from];
+            let entries = null, resolvedKey = null;
+            for (const k of candidates) {
+                if (manifest[k] && manifest[k].length) {
+                    entries = manifest[k];
+                    resolvedKey = k;
+                    break;
+                }
+            }
+
+            if (!entries) {
+                block.innerHTML = `<div class="md-dataview-empty">Aucun fichier trouvé pour <code>${from}</code></div>`;
+                return;
+            }
+
+            // Construit la grille
+            const grid = document.createElement('div');
+            grid.className = 'md-dataview-grid';
+            entries.forEach(entry => {
+                const card = document.createElement('a');
+                card.className = 'md-dataview-card';
+                // Lien : on encode le chemin complet du .md pour le router md/
+                const fullPath = resolvedKey + '/' + entry.file;
+                card.href = '#md/' + encodeURIComponent(fullPath);
+                card.dataset.mdTarget = fullPath;
+                card.innerHTML = `
+                    <div class="md-dataview-card-title">${escHtml(entry.title || entry.name)}</div>
+                    <div class="md-dataview-card-name">${escHtml(entry.name)}</div>
+                `;
+                grid.appendChild(card);
+            });
+
+            block.innerHTML = '';
+            block.appendChild(grid);
+        });
+
+        // Délégation : ouvrir les cartes md → rendre le .md dans le conteneur courant
+        rootEl.querySelectorAll('.md-dataview-card').forEach(card => {
+            card.addEventListener('click', (e) => {
+                e.preventDefault();
+                const target = card.dataset.mdTarget;
+                if (!target) return;
+                // Render dans le conteneur parent (md-content) en remplaçant l'ensemble
+                const container = rootEl;
+                render(container, target);
+            });
+        });
+    }
+
+    function escHtml(s) {
+        const d = document.createElement('div');
+        d.textContent = s == null ? '' : String(s);
+        return d.innerHTML;
     }
 
     /** Fetch + render dans targetEl */
@@ -103,6 +207,10 @@
             targetEl.innerHTML = `<div class="md-content">${html}</div>`;
             // Post-traiter les callouts (rend leur body markdown)
             postProcessCallouts(targetEl);
+            // Post-traiter les blocs dataview (grille de cartes)
+            postProcessDataview(targetEl, mdPath);
+            // Post-traiter les liens Obsidian (résolution via manifeste)
+            postProcessObsidianLinks(targetEl, mdPath);
 
             // Construire le TOC sidebar
             const sidebar = document.getElementById('site-sidebar');
@@ -114,6 +222,61 @@
         } catch (e) {
             targetEl.innerHTML = `<div class="subtab-error">Erreur de chargement : ${e.message}</div>`;
         }
+    }
+
+    /**
+     * Résout un target wiki-link (`[[X]]`) en chemin de manifeste.
+     * X peut être : un nom court ("Combat Attribute Set"), un sous-chemin
+     * ("Items/Catalogue/Mug"), ou un titre de section ("Univers#La Polyphonie").
+     */
+    function resolveWikilink(target, manifest) {
+        // Strip section anchor
+        const hashIdx = target.indexOf('#');
+        const filePart = hashIdx === -1 ? target : target.slice(0, hashIdx);
+        const baseName = filePart.split('/').pop();
+
+        // Recherche : match sur entry.name (sans .md)
+        for (const folder in manifest) {
+            for (const entry of manifest[folder]) {
+                if (entry.name === baseName || entry.name === filePart) {
+                    return folder + '/' + entry.file;
+                }
+            }
+        }
+        // Tentative de match partiel (sous-chemin)
+        for (const folder in manifest) {
+            for (const entry of manifest[folder]) {
+                const fullPath = folder + '/' + entry.name;
+                if (fullPath.endsWith('/' + filePart) || fullPath === filePart) {
+                    return folder + '/' + entry.file;
+                }
+            }
+        }
+        return null;
+    }
+
+    async function postProcessObsidianLinks(rootEl, currentMdPath) {
+        const links = rootEl.querySelectorAll('a.md-link[data-md-target]');
+        if (links.length === 0) return;
+
+        const manifest = await getManifest();
+
+        links.forEach(link => {
+            const target = link.dataset.mdTarget;
+            const resolved = resolveWikilink(target, manifest);
+            if (!resolved) {
+                link.classList.add('md-link-broken');
+                link.title = 'Lien non résolu : ' + target;
+                link.addEventListener('click', e => e.preventDefault());
+                return;
+            }
+            link.dataset.mdResolved = resolved;
+            link.href = '#md/' + encodeURIComponent(resolved);
+            link.addEventListener('click', e => {
+                e.preventDefault();
+                render(rootEl, resolved);
+            });
+        });
     }
 
     /** Sous-onglets pilotés par .md (analogue à SubTabs.init mais pour markdown) */
