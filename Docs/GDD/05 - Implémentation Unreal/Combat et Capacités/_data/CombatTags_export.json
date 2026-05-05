@@ -1,0 +1,182 @@
+[
+	{
+		"Name": "CombatStateDead",
+		"Tag": "Combat.State.Dead",
+		"DevComment": ""
+	},
+	{
+		"Name": "CombatDamageTypeFire",
+		"Tag": "Combat.DamageType.Fire",
+		"DevComment": "Fire Damage"
+	},
+	{
+		"Name": "CombatDamageTypeWater",
+		"Tag": "Combat.DamageType.Water",
+		"DevComment": "Water Damage"
+	},
+	{
+		"Name": "CombatDamageTypeIce",
+		"Tag": "Combat.DamageType.Ice",
+		"DevComment": "Ice Damage"
+	},
+	{
+		"Name": "CombatDamageTypeLightning",
+		"Tag": "Combat.DamageType.Lightning",
+		"DevComment": "Lightning Damage"
+	},
+	{
+		"Name": "CombatStateWet",
+		"Tag": "Combat.State.Wet",
+		"DevComment": "Wet state"
+	},
+	{
+		"Name": "CombatStateBurning",
+		"Tag": "Combat.State.Burning",
+		"DevComment": "Burning state"
+	},
+	{
+		"Name": "CombatStateCold",
+		"Tag": "Combat.State.Cold",
+		"DevComment": "Cold state"
+	},
+	{
+		"Name": "CombatStateCharged",
+		"Tag": "Combat.State.Charged",
+		"DevComment": "Charged state"
+	},
+	{
+		"Name": "CombatFlagsCriticalHit",
+		"Tag": "Combat.Flags.CriticalHit",
+		"DevComment": "Was a critical hit?"
+	},
+	{
+		"Name": "CombatCooldownNormalAbility1",
+		"Tag": "Combat.Cooldown.NormalAbility1",
+		"DevComment": "Normal Ability 1 Cooldown"
+	},
+	{
+		"Name": "CombatCooldownNormalAbility2",
+		"Tag": "Combat.Cooldown.NormalAbility2",
+		"DevComment": "Normal Ability 2 Cooldown"
+	},
+	{
+		"Name": "CombatDamageTypeFalling",
+		"Tag": "Combat.DamageType.Falling",
+		"DevComment": "Falling Damage"
+	},
+	{
+		"Name": "CombatSetByCallingFallingDamage",
+		"Tag": "Combat.SetByCaller.FallingDamage",
+		"DevComment": "Set by Caller Falling Damage"
+	},
+	{
+		"Name": "CombatActivateFromEventApplyFallingDamage",
+		"Tag": "Combat.ActivateFromEvent.ApplyFallingDamage",
+		"DevComment": "Activate from Event Apply Falling Damage"
+	},
+	{
+		"Name": "CombatStateIframe",
+		"Tag": "Combat.State.Iframe",
+		"DevComment": "Invulnerbility Frames"
+	},
+	{
+		"Name": "CombatStateDodgedRecently",
+		"Tag": "Combat.State.DodgedRecently",
+		"DevComment": "A dodge was performed recently."
+	},
+	{
+		"Name": "CombatStateElectrified",
+		"Tag": "Combat.State.Electrified",
+		"DevComment": "Electrified state"
+	},
+	{
+		"Name": "CombatStateFrozen",
+		"Tag": "Combat.State.Frozen",
+		"DevComment": "Frozen state"
+	},
+	{
+		"Name": "CombatComboWindow1",
+		"Tag": "Combat.Combo.Window.1",
+		"DevComment": "1st combo window"
+	},
+	{
+		"Name": "CombatStateReadyToFight",
+		"Tag": "Combat.State.ReadyToFight",
+		"DevComment": "Ready To Fight"
+	},
+	{
+		"Name": "SetByCallerStrength",
+		"Tag": "SetByCaller.Strength",
+		"DevComment": "Modifie Strength Attribute"
+	},
+	{
+		"Name": "SetByCallerAttack",
+		"Tag": "SetByCaller.Attack",
+		"DevComment": "Modifie Attack Attribute"
+	},
+	{
+		"Name": "SetByCallerSpeed",
+		"Tag": "SetByCaller.Speed",
+		"DevComment": "Modifie Speed Attribute"
+	},
+	{
+		"Name": "SetByCallerAgility",
+		"Tag": "SetByCaller.Agility",
+		"DevComment": "Modifie Agility Attribute"
+	},
+	{
+		"Name": "SetByCallerCritDamage",
+		"Tag": "SetByCaller.CritDamage",
+		"DevComment": "Modifie CritDamage Attribute"
+	},
+	{
+		"Name": "SetByCallerIntelligence",
+		"Tag": "SetByCaller.Intelligence",
+		"DevComment": "Modifie Intelligence Attribute"
+	},
+	{
+		"Name": "SetByCallerConstitution",
+		"Tag": "SetByCaller.Constitution",
+		"DevComment": "Modifie Constitution Attribute"
+	},
+	{
+		"Name": "SetByCallerMaxStamina",
+		"Tag": "SetByCaller.MaxStamina",
+		"DevComment": "Modifie MaxStamina Attribute"
+	},
+	{
+		"Name": "SetByCallerMaxHealth",
+		"Tag": "SetByCaller.MaxHealth",
+		"DevComment": "Modifie MaxHealth Attribute"
+	},
+	{
+		"Name": "SetByCallerMaxMana",
+		"Tag": "SetByCaller.MaxMana",
+		"DevComment": "Modifie MaxMana Attribute"
+	},
+	{
+		"Name": "SetByCallerDefense",
+		"Tag": "SetByCaller.Defense",
+		"DevComment": "Modifie Defense Attribute"
+	},
+	{
+		"Name": "Blocking",
+		"Tag": "Combat.State.Blocking",
+		"DevComment": "Blocking"
+	},
+	{
+		"Name": "CombatSetUnarmed",
+		"Tag": "Combat.Set.Unarmed",
+		"DevComment": "Unarmed"
+	},
+	{
+		"Name": "CombatSetSwordAndShield",
+		"Tag": "Combat.Set.SwordAndShield",
+		"DevComment": "SwordAndShield"
+	},
+	{
+		"Name": "CombatSetBow",
+		"Tag": "Combat.Set.Bow",
+		"DevComment": "Bow"
+	}
+]

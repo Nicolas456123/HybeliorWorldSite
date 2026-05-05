@@ -1,0 +1,21 @@
+<!-- Page Vision : sous-onglets pilotés par les .md de Documentation/GDD/01 - Vision/ -->
+<div class="md-subtabs-wrapper">
+    <nav class="subtab-nav" id="vision-subtab-nav"></nav>
+    <div class="subtab-content" id="vision-content"></div>
+</div>
+
+<script>
+(function () {
+    const tabs = [
+        { key: 'pitch',      label: 'Pitch',       src: 'GDD/01 - Vision/Vision.md' },
+        { key: 'univers',    label: 'L\'Univers',  src: 'GDD/01 - Vision/Univers.md' },
+        { key: 'partie',     label: 'La Partie',   src: 'GDD/01 - Vision/La Partie.md' },
+        { key: 'production', label: 'Production',  src: 'GDD/01 - Vision/Production.md' },
+    ];
+    if (window.MdRenderer) {
+        MdRenderer.initTabs('vision', '#vision-subtab-nav', '#vision-content', tabs, 'pitch');
+    } else {
+        console.error('MdRenderer non chargé');
+    }
+})();
+</script>

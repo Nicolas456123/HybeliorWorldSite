@@ -4,13 +4,10 @@ package-lock.json
 localhost.url
 LaunchPythonServer.bat
 
-# Docs/Lore/ est un MIROIR auto-genere depuis ../Documentation/Lore/
-# Voir ../Documentation/sync-docs.ps1
-# La source de verite est dans Documentation/ a la racine du projet.
-# Docs/Lore/ doit etre exclu du git (genere) mais reste necessaire pour Vercel.
-# Vercel deploie depuis HybeliorWorldSite/ et a besoin de Docs/Lore/ localement.
-# Le sync est lance avant chaque deploy (manuellement ou via hook).
-Docs/
+# Docs/ contient un miroir des .md de Documentation/GDD/ et Documentation/Lore/
+# Ces fichiers sont SERVIS par Vercel (le site les fetch dynamiquement via MdRenderer).
+# Doivent donc etre commit. Source de verite : Documentation/GDD et Documentation/Lore.
+# Pour resync : copier le contenu via Copy-Item -Recurse -Force.
 
 # HybeliorFull/ = 207k tiles OpenSeadragon (~777 MB)
 # Servies via Cloudflare R2 + Worker proxy : https://hybelior-tiles.nicolas-vollard.workers.dev

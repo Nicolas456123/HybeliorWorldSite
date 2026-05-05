@@ -1,0 +1,18 @@
+[
+	{
+		"Name": "1",
+		"ItemName": "Item 1",
+		"ItemDescription": "Item 1 Description",
+		"ItemIcon": "/Engine/Tutorial/Mobile/TutorialAssets/android_Icon.android_Icon",
+		"bCanStack": true,
+		"StackSize": 20
+	},
+	{
+		"Name": "2",
+		"ItemName": "Item 2",
+		"ItemDescription": "Item 2 Description",
+		"ItemIcon": "/Engine/EngineResources/AICON-Green.AICON-Green",
+		"bCanStack": false,
+		"StackSize": 0
+	}
+]

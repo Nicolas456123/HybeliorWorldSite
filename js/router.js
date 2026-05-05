@@ -4,7 +4,8 @@
  */
 
 const Router = {
-    routes: ['accueil', 'carte', 'lore', 'gameplay', 'lejeu', 'frise', 'frise-v2', 'lignees'],
+    routes: ['accueil', 'carte', 'lore', 'gameplay', 'lejeu', 'frise', 'frise-v2', 'lignees',
+             'vision', 'monde', 'mecaniques', 'systemes', 'implementation'],
     defaultRoute: 'accueil',
     container: null,
     currentRoute: null,
@@ -92,7 +93,8 @@ const Router = {
             }
 
             // Pour les pages sans sous-onglets, construire le TOC automatiquement
-            const subtabPages = ['lore', 'gameplay', 'lejeu', 'apprentissage'];
+            const subtabPages = ['lore', 'gameplay', 'lejeu', 'apprentissage',
+                                  'vision', 'monde', 'mecaniques', 'systemes', 'implementation'];
             if (!subtabPages.includes(route) && window.SidebarTOC) {
                 const sidebar  = document.getElementById('site-sidebar');
                 const content  = this.container.querySelector('.page-content');

@@ -1,0 +1,12 @@
+[
+	{
+		"Name": "GameplayCueTest",
+		"Tag": "GameplayCue.Test",
+		"DevComment": ""
+	},
+	{
+		"Name": "GameplayCueLightningStormStrike",
+		"Tag": "GameplayCue.LightningStorm.Strike",
+		"DevComment": "Gameplay Cue for Striking a Target"
+	}
+]

@@ -1,0 +1,8 @@
+---,Tag,DevComment
+AbilityActivateFailIsDead,"Ability.ActivateFail.IsDead","Failed because the player is dead."
+AbilityActivateFailCooldown,"Ability.ActivateFail.Cooldown","Failed because of a cooldown"
+AbilityActivateFailCost,"Ability.ActivateFail.Cost","Failed because a cost wasn't met"
+AbilityActivateFailTagsBlocked,"Ability.ActivateFail.TagsBlocked","Failed because of a blocking tag"
+AbilityActivateFailTagsMissing,"Ability.ActivateFail.TagsMissing","Failed because of required tags missing"
+AbilityActivateFailNetworking,"Ability.ActivateFail.Networking","Failed because of network policy"
+AbilityEventCombo,"Ability.Event.Combo","Event to kick off combo"

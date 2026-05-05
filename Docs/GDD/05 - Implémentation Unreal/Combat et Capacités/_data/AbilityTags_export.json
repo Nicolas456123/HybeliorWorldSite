@@ -1,0 +1,37 @@
+[
+	{
+		"Name": "AbilityActivateFailIsDead",
+		"Tag": "Ability.ActivateFail.IsDead",
+		"DevComment": "Failed because the player is dead."
+	},
+	{
+		"Name": "AbilityActivateFailCooldown",
+		"Tag": "Ability.ActivateFail.Cooldown",
+		"DevComment": "Failed because of a cooldown"
+	},
+	{
+		"Name": "AbilityActivateFailCost",
+		"Tag": "Ability.ActivateFail.Cost",
+		"DevComment": "Failed because a cost wasn't met"
+	},
+	{
+		"Name": "AbilityActivateFailTagsBlocked",
+		"Tag": "Ability.ActivateFail.TagsBlocked",
+		"DevComment": "Failed because of a blocking tag"
+	},
+	{
+		"Name": "AbilityActivateFailTagsMissing",
+		"Tag": "Ability.ActivateFail.TagsMissing",
+		"DevComment": "Failed because of required tags missing"
+	},
+	{
+		"Name": "AbilityActivateFailNetworking",
+		"Tag": "Ability.ActivateFail.Networking",
+		"DevComment": "Failed because of network policy"
+	},
+	{
+		"Name": "AbilityEventCombo",
+		"Tag": "Ability.Event.Combo",
+		"DevComment": "Event to kick off combo"
+	}
+]

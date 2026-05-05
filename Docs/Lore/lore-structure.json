@@ -1,0 +1,3037 @@
+{
+  "Alkaran": {
+    "Altram": {
+      "csv_n": "1",
+      "csv_continent": "Alkaran",
+      "csv_continent_n": "1",
+      "gouvernement": "Monarchie éclairée",
+      "file": "Alkaran/Altram.md",
+      "regions": {
+        "Sorel Tiam": {
+          "n": "2",
+          "villes": [
+            {
+              "nom": "Roseltar",
+              "type": "Ville"
+            },
+            {
+              "nom": "Risel-Turam",
+              "type": "Village"
+            },
+            {
+              "nom": "Tesmian",
+              "type": "Village"
+            }
+          ]
+        },
+        "Martelios": {
+          "n": "3",
+          "villes": [
+            {
+              "nom": "Trelios",
+              "type": "Capitale"
+            }
+          ]
+        },
+        "Liannor": {
+          "n": "4",
+          "villes": [
+            {
+              "nom": "Tanolies",
+              "type": "Ville"
+            },
+            {
+              "nom": "Traum",
+              "type": "Ville"
+            },
+            {
+              "nom": "Umert",
+              "type": "Village"
+            }
+          ]
+        },
+        "Yaltar": {
+          "n": "5",
+          "villes": [
+            {
+              "nom": "Sarultam",
+              "type": "Ville"
+            },
+            {
+              "nom": "Altemior",
+              "type": "Village"
+            },
+            {
+              "nom": "Namyr",
+              "type": "Village"
+            }
+          ]
+        },
+        "Torian": {
+          "n": "6",
+          "villes": [
+            {
+              "nom": "Arios",
+              "type": "Ville"
+            },
+            {
+              "nom": "Turalt",
+              "type": "Village"
+            },
+            {
+              "nom": "Liram",
+              "type": "Village"
+            }
+          ]
+        },
+        "Taloram": {
+          "n": "142",
+          "villes": [
+            {
+              "nom": "Temeryl",
+              "type": "Ville"
+            },
+            {
+              "nom": "Ulris",
+              "type": "Ville"
+            },
+            {
+              "nom": "Sautrem",
+              "type": "Village"
+            },
+            {
+              "nom": "Mirtel",
+              "type": "Village"
+            }
+          ]
+        }
+      }
+    },
+    "Iskara": {
+      "csv_n": "23",
+      "csv_continent": "Endora",
+      "csv_continent_n": "11",
+      "gouvernement": "Monarchie militaire",
+      "file": "Alkaran/Iskara.md",
+      "regions": {
+        "Lushara": {
+          "n": "98",
+          "villes": [
+            {
+              "nom": "Lusharis",
+              "type": "Ville"
+            },
+            {
+              "nom": "Valryn",
+              "type": "Ville"
+            },
+            {
+              "nom": "Galdar",
+              "type": "Village"
+            },
+            {
+              "nom": "Mytharis",
+              "type": "Village"
+            },
+            {
+              "nom": "Zarathor",
+              "type": "Village"
+            },
+            {
+              "nom": "Falron",
+              "type": "Village"
+            }
+          ]
+        },
+        "Helionar": {
+          "n": "99",
+          "villes": [
+            {
+              "nom": "Helionis",
+              "type": "Ville"
+            },
+            {
+              "nom": "Galornis",
+              "type": "Village"
+            },
+            {
+              "nom": "Kaeloria",
+              "type": "Village"
+            },
+            {
+              "nom": "Taldaris",
+              "type": "Village"
+            },
+            {
+              "nom": "Zelrith",
+              "type": "Village"
+            },
+            {
+              "nom": "Galathor",
+              "type": "Village"
+            },
+            {
+              "nom": "Morvalis",
+              "type": "Village"
+            }
+          ]
+        },
+        "Ysolia": {
+          "n": "100",
+          "villes": [
+            {
+              "nom": "Ysolith",
+              "type": "Ville"
+            },
+            {
+              "nom": "Zyndrel",
+              "type": "Village"
+            }
+          ]
+        },
+        "Glintar": {
+          "n": "101",
+          "villes": [
+            {
+              "nom": "Glintaris",
+              "type": "Capitale"
+            },
+            {
+              "nom": "Valyria",
+              "type": "Village"
+            },
+            {
+              "nom": "Myrilith",
+              "type": "Village"
+            },
+            {
+              "nom": "Kalvorn",
+              "type": "Village"
+            },
+            {
+              "nom": "Zyndaris",
+              "type": "Village"
+            },
+            {
+              "nom": "Feldoris",
+              "type": "Village"
+            }
+          ]
+        }
+      }
+    },
+    "Torkam": {
+      "csv_n": "4",
+      "csv_continent": "Alkaran",
+      "csv_continent_n": "1",
+      "gouvernement": "Théocratie tribale",
+      "file": "Alkaran/Torkam.md",
+      "regions": {
+        "Jalkanor": {
+          "n": "17",
+          "villes": [
+            {
+              "nom": "Jalkoris",
+              "type": "Ville"
+            },
+            {
+              "nom": "Thyron",
+              "type": "Village"
+            }
+          ]
+        },
+        "Olkanir": {
+          "n": "18",
+          "villes": [
+            {
+              "nom": "Olkanoris",
+              "type": "Capitale"
+            },
+            {
+              "nom": "Faldor",
+              "type": "Ville"
+            },
+            {
+              "nom": "Zyldris",
+              "type": "Village"
+            }
+          ]
+        },
+        "Qythros": {
+          "n": "19",
+          "villes": [
+            {
+              "nom": "Haldrin",
+              "type": "Ville"
+            },
+            {
+              "nom": "Valdarin",
+              "type": "Village"
+            },
+            {
+              "nom": "Caelorn",
+              "type": "Village"
+            }
+          ]
+        },
+        "Zolkanor": {
+          "n": "20",
+          "villes": [
+            {
+              "nom": "Zolkoris",
+              "type": "Village"
+            },
+            {
+              "nom": "Frosthar",
+              "type": "Village"
+            },
+            {
+              "nom": "Galdrin",
+              "type": "Village"
+            }
+          ]
+        },
+        "Myrthal": {
+          "n": "21",
+          "villes": [
+            {
+              "nom": "Kelosar",
+              "type": "Village"
+            },
+            {
+              "nom": "Myrthoris",
+              "type": "Ville"
+            },
+            {
+              "nom": "Valoris",
+              "type": "Village"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "Azoria": {
+    "Caeloria": {
+      "csv_n": "32",
+      "csv_continent": "Azoria",
+      "csv_continent_n": "9",
+      "gouvernement": "Théocratie divine",
+      "file": "Azoria/Caeloria.md",
+      "regions": {
+        "Duskoria": {
+          "n": "62",
+          "villes": [
+            {
+              "nom": "Duskoris",
+              "type": "Ville"
+            },
+            {
+              "nom": "Frostlin",
+              "type": "Village"
+            },
+            {
+              "nom": "Vyntheris",
+              "type": "Village"
+            },
+            {
+              "nom": "Vyndoris",
+              "type": "Village"
+            }
+          ]
+        },
+        "Silvarenth": {
+          "n": "63",
+          "villes": [
+            {
+              "nom": "Silvaris",
+              "type": "Ville"
+            },
+            {
+              "nom": "Galdrith",
+              "type": "Village"
+            }
+          ]
+        }
+      }
+    },
+    "No man's land Azoria": {
+      "csv_n": "15",
+      "csv_continent": "Azoria",
+      "csv_continent_n": "9",
+      "gouvernement": "Aucun gouvernement",
+      "file": "Azoria/No Man's Land Azoria.md",
+      "regions": {
+        "No man's land Azoria Region": {
+          "n": "141",
+          "villes": [
+            {
+              "nom": "Tarnora",
+              "type": "Village"
+            },
+            {
+              "nom": "Fyloria",
+              "type": "Village"
+            },
+            {
+              "nom": "Kelrith",
+              "type": "Village"
+            },
+            {
+              "nom": "Draknor",
+              "type": "Village"
+            },
+            {
+              "nom": "Zylarin",
+              "type": "Village"
+            },
+            {
+              "nom": "Thylandor",
+              "type": "Village"
+            },
+            {
+              "nom": "Vystara",
+              "type": "Village"
+            },
+            {
+              "nom": "Eldorath",
+              "type": "Village"
+            },
+            {
+              "nom": "Raventh",
+              "type": "Village"
+            },
+            {
+              "nom": "Galvoria",
+              "type": "Village"
+            },
+            {
+              "nom": "Thylaria",
+              "type": "Village"
+            },
+            {
+              "nom": "Morendil",
+              "type": "Village"
+            },
+            {
+              "nom": "Vyrathos",
+              "type": "Village"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "Baelor": {
+    "BaelorPays": {
+      "csv_n": "5",
+      "csv_continent": "Baelor",
+      "csv_continent_n": "6",
+      "gouvernement": "Théocratie monastique",
+      "file": "Baelor/Baelor.md",
+      "regions": {
+        "BaelorRegion": {
+          "n": "140",
+          "villes": [
+            {
+              "nom": "Baeloris",
+              "type": "Village"
+            },
+            {
+              "nom": "Thyldris",
+              "type": "Village"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "Celethor": {
+    "Astravia": {
+      "csv_n": "27",
+      "csv_continent": "Celethor",
+      "csv_continent_n": "13",
+      "gouvernement": "Monarchie magocratique",
+      "file": "Celethor/Astravia.md",
+      "regions": {
+        "Windora": {
+          "n": "107",
+          "villes": [
+            {
+              "nom": "Windoris",
+              "type": "Ville"
+            },
+            {
+              "nom": "Faldorin",
+              "type": "Village"
+            },
+            {
+              "nom": "Belvarin",
+              "type": "Village"
+            },
+            {
+              "nom": "Lythmar",
+              "type": "Village"
+            }
+          ]
+        },
+        "Inverna": {
+          "n": "108",
+          "villes": [
+            {
+              "nom": "Invernis",
+              "type": "Capitale"
+            },
+            {
+              "nom": "Ryndorin",
+              "type": "Village"
+            },
+            {
+              "nom": "Galdryn",
+              "type": "Village"
+            },
+            {
+              "nom": "Aeloria",
+              "type": "Village"
+            },
+            {
+              "nom": "Vyndrith",
+              "type": "Village"
+            }
+          ]
+        },
+        "Brastallia": {
+          "n": "109",
+          "villes": [
+            {
+              "nom": "Brastoris",
+              "type": "Ville"
+            },
+            {
+              "nom": "Thorindal",
+              "type": "Village"
+            },
+            {
+              "nom": "Valthara",
+              "type": "Village"
+            },
+            {
+              "nom": "Zyldoria",
+              "type": "Village"
+            },
+            {
+              "nom": "Nythorin",
+              "type": "Village"
+            }
+          ]
+        },
+        "Lysoria": {
+          "n": "110",
+          "villes": [
+            {
+              "nom": "Lysoris",
+              "type": "Ville"
+            },
+            {
+              "nom": "Feyndor",
+              "type": "Village"
+            },
+            {
+              "nom": "Valtheron",
+              "type": "Village"
+            }
+          ]
+        }
+      }
+    },
+    "Elarian": {
+      "csv_n": "28",
+      "csv_continent": "Celethor",
+      "csv_continent_n": "13",
+      "gouvernement": "Confédération féodale",
+      "file": "Celethor/Elarian.md",
+      "regions": {
+        "Tundryst": {
+          "n": "111",
+          "villes": [
+            {
+              "nom": "Tundralis",
+              "type": "Capitale"
+            },
+            {
+              "nom": "Frostmir",
+              "type": "Ville"
+            },
+            {
+              "nom": "Aethoria",
+              "type": "Village"
+            },
+            {
+              "nom": "Nymaris",
+              "type": "Village"
+            },
+            {
+              "nom": "Vyndoria",
+              "type": "Village"
+            }
+          ]
+        },
+        "Kryostra": {
+          "n": "112",
+          "villes": [
+            {
+              "nom": "Kryndor",
+              "type": "Ville"
+            },
+            {
+              "nom": "Icelorn",
+              "type": "Village"
+            },
+            {
+              "nom": "Glacoria",
+              "type": "Village"
+            },
+            {
+              "nom": "Caeldor",
+              "type": "Village"
+            },
+            {
+              "nom": "Lornath",
+              "type": "Village"
+            }
+          ]
+        },
+        "Veskara": {
+          "n": "113",
+          "villes": [
+            {
+              "nom": "Veskoris",
+              "type": "Ville"
+            },
+            {
+              "nom": "Frosthal",
+              "type": "Village"
+            },
+            {
+              "nom": "Mythralis",
+              "type": "Village"
+            },
+            {
+              "nom": "Noryndal",
+              "type": "Village"
+            },
+            {
+              "nom": "Wynthar",
+              "type": "Village"
+            },
+            {
+              "nom": "Kryndalis",
+              "type": "Village"
+            }
+          ]
+        },
+        "Gimtar": {
+          "n": "114",
+          "villes": [
+            {
+              "nom": "Gimtaris",
+              "type": "Ville"
+            },
+            {
+              "nom": "Lysorn",
+              "type": "Village"
+            },
+            {
+              "nom": "Thaldris",
+              "type": "Village"
+            },
+            {
+              "nom": "Kaldaris",
+              "type": "Village"
+            }
+          ]
+        }
+      }
+    },
+    "No man's land Celethor": {
+      "csv_n": "26",
+      "csv_continent": "Celethor",
+      "csv_continent_n": "13",
+      "gouvernement": "Aucun gouvernement",
+      "file": "Celethor/No Man's Land Celethor.md",
+      "regions": {
+        "No man's land Celethor Region": {
+          "n": "139",
+          "villes": [
+            {
+              "nom": "Nomiris",
+              "type": "Village"
+            },
+            {
+              "nom": "Thyldor",
+              "type": "Village"
+            },
+            {
+              "nom": "Feylor",
+              "type": "Village"
+            },
+            {
+              "nom": "Zyldor",
+              "type": "Village"
+            },
+            {
+              "nom": "Zarnith",
+              "type": "Village"
+            },
+            {
+              "nom": "Myralor",
+              "type": "Village"
+            },
+            {
+              "nom": "Valdris",
+              "type": "Village"
+            },
+            {
+              "nom": "Eridorn",
+              "type": "Village"
+            },
+            {
+              "nom": "Fenorith",
+              "type": "Village"
+            }
+          ]
+        }
+      }
+    },
+    "Ryldor": {
+      "csv_n": "35",
+      "csv_continent": "Celethor",
+      "csv_continent_n": "13",
+      "gouvernement": "Théocratie chamanique",
+      "file": "Celethor/Ryldor.md",
+      "regions": {
+        "RyldorRegion": {
+          "n": "115",
+          "villes": [
+            {
+              "nom": "Ryldaris",
+              "type": "Capitale"
+            },
+            {
+              "nom": "Galrinth",
+              "type": "Village"
+            },
+            {
+              "nom": "Thyros",
+              "type": "Village"
+            },
+            {
+              "nom": "Zelthar",
+              "type": "Village"
+            },
+            {
+              "nom": "Faldoris",
+              "type": "Village"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "Cendara": {
+    "CendaraPays": {
+      "csv_n": "30",
+      "csv_continent": "Cendara",
+      "csv_continent_n": "16",
+      "gouvernement": "Monarchie ésotérique",
+      "file": "Cendara/Cendara.md",
+      "regions": {
+        "Brumancia": {
+          "n": "128",
+          "villes": [
+            {
+              "nom": "Brumaris",
+              "type": "Capitale"
+            },
+            {
+              "nom": "Fyndoris",
+              "type": "Village"
+            },
+            {
+              "nom": "Mylaris",
+              "type": "Village"
+            }
+          ]
+        },
+        "Utophora": {
+          "n": "129",
+          "villes": [
+            {
+              "nom": "Uthorin",
+              "type": "Ville"
+            },
+            {
+              "nom": "Thaldor",
+              "type": "Village"
+            },
+            {
+              "nom": "Galron",
+              "type": "Village"
+            }
+          ]
+        },
+        "Virendor": {
+          "n": "130",
+          "villes": [
+            {
+              "nom": "Virondis",
+              "type": "Ville"
+            }
+          ]
+        },
+        "Diamora": {
+          "n": "131",
+          "villes": [
+            {
+              "nom": "Diamoris",
+              "type": "Ville"
+            },
+            {
+              "nom": "Kaldris",
+              "type": "Ville"
+            },
+            {
+              "nom": "Malthoris",
+              "type": "Village"
+            },
+            {
+              "nom": "Galrith",
+              "type": "Village"
+            }
+          ]
+        },
+        "Solara": {
+          "n": "132",
+          "villes": [
+            {
+              "nom": "Solarith",
+              "type": "Ville"
+            },
+            {
+              "nom": "Vyndria",
+              "type": "Village"
+            },
+            {
+              "nom": "Thyroth",
+              "type": "Village"
+            }
+          ]
+        },
+        "Malrith": {
+          "n": "133",
+          "villes": [
+            {
+              "nom": "Drystar",
+              "type": "Ville"
+            },
+            {
+              "nom": "Vylora",
+              "type": "Village"
+            },
+            {
+              "nom": "Thyronis",
+              "type": "Village"
+            },
+            {
+              "nom": "Mylarin",
+              "type": "Village"
+            }
+          ]
+        },
+        "Meliflore": {
+          "n": "134",
+          "villes": [
+            {
+              "nom": "Lorenthia",
+              "type": "Village"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "Cestra": {
+    "No man's land": {
+      "csv_n": "25",
+      "csv_continent": "Cestra",
+      "csv_continent_n": "12",
+      "gouvernement": "Aucun gouvernement",
+      "file": "Cestra/No Man's Land Cestra.md",
+      "regions": {}
+    }
+  },
+  "Endora": {
+    "Avalor": {
+      "csv_n": "24",
+      "csv_continent": "Endora",
+      "csv_continent_n": "11",
+      "gouvernement": "Théocratie mystique",
+      "file": "Endora/Avalor.md",
+      "regions": {
+        "Indelite": {
+          "n": "94",
+          "villes": [
+            {
+              "nom": "Indelith",
+              "type": "Ville"
+            },
+            {
+              "nom": "Valtaris",
+              "type": "Village"
+            },
+            {
+              "nom": "Feythar",
+              "type": "Village"
+            },
+            {
+              "nom": "Ralorin",
+              "type": "Village"
+            }
+          ]
+        },
+        "Crestalia": {
+          "n": "95",
+          "villes": [
+            {
+              "nom": "Crestalis",
+              "type": "Capitale"
+            },
+            {
+              "nom": "Mornath",
+              "type": "Ville"
+            },
+            {
+              "nom": "Nymria",
+              "type": "Village"
+            },
+            {
+              "nom": "Velaris",
+              "type": "Village"
+            },
+            {
+              "nom": "Zorathis",
+              "type": "Village"
+            }
+          ]
+        },
+        "Wildoria": {
+          "n": "96",
+          "villes": [
+            {
+              "nom": "Wildaris",
+              "type": "Ville"
+            },
+            {
+              "nom": "Ryndaris",
+              "type": "Ville"
+            },
+            {
+              "nom": "Feylinor",
+              "type": "Village"
+            },
+            {
+              "nom": "Krylnor",
+              "type": "Village"
+            },
+            {
+              "nom": "Thalor",
+              "type": "Village"
+            },
+            {
+              "nom": "Zyldrin",
+              "type": "Village"
+            }
+          ]
+        },
+        "Perival": {
+          "n": "97",
+          "villes": [
+            {
+              "nom": "Perivalis",
+              "type": "Ville"
+            },
+            {
+              "nom": "Valarion",
+              "type": "Ville"
+            },
+            {
+              "nom": "Ryndar",
+              "type": "Village"
+            },
+            {
+              "nom": "Galdorin",
+              "type": "Village"
+            },
+            {
+              "nom": "Thyloria",
+              "type": "Village"
+            },
+            {
+              "nom": "Myrthos",
+              "type": "Village"
+            },
+            {
+              "nom": "Zyloris",
+              "type": "Village"
+            },
+            {
+              "nom": "Velthorn",
+              "type": "Village"
+            },
+            {
+              "nom": "Vyndarin",
+              "type": "Village"
+            },
+            {
+              "nom": "Fandor",
+              "type": "Village"
+            }
+          ]
+        }
+      }
+    },
+    "Haldria": {
+      "csv_n": "22",
+      "csv_continent": "Ilthara",
+      "csv_continent_n": "10",
+      "gouvernement": "Monarchie héréditaire",
+      "file": "Endora/Haldria.md",
+      "regions": {
+        "Hekoria": {
+          "n": "86",
+          "villes": [
+            {
+              "nom": "Hekorinth",
+              "type": "Capitale"
+            },
+            {
+              "nom": "Raldir",
+              "type": "Ville"
+            },
+            {
+              "nom": "Fyndor",
+              "type": "Village"
+            },
+            {
+              "nom": "Valdren",
+              "type": "Village"
+            }
+          ]
+        },
+        "Uldora": {
+          "n": "87",
+          "villes": [
+            {
+              "nom": "Uldarin",
+              "type": "Ville"
+            },
+            {
+              "nom": "Thyrin",
+              "type": "Ville"
+            },
+            {
+              "nom": "Sylthros",
+              "type": "Village"
+            },
+            {
+              "nom": "Galorin",
+              "type": "Village"
+            }
+          ]
+        },
+        "Kandaros": {
+          "n": "88",
+          "villes": [
+            {
+              "nom": "Kandorin",
+              "type": "Ville"
+            },
+            {
+              "nom": "Sylradis",
+              "type": "Village"
+            },
+            {
+              "nom": "Talrin",
+              "type": "Village"
+            },
+            {
+              "nom": "Zaldrin",
+              "type": "Village"
+            }
+          ]
+        },
+        "Ravantis": {
+          "n": "89",
+          "villes": [
+            {
+              "nom": "Ravindor",
+              "type": "Ville"
+            },
+            {
+              "nom": "Feldris",
+              "type": "Ville"
+            },
+            {
+              "nom": "Ylloris",
+              "type": "Village"
+            },
+            {
+              "nom": "Galdrion",
+              "type": "Village"
+            },
+            {
+              "nom": "Tyrolis",
+              "type": "Village"
+            },
+            {
+              "nom": "Myrdan",
+              "type": "Village"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "Evertia": {
+    "EvertiaPays": {
+      "csv_n": "6",
+      "csv_continent": "Evertia",
+      "csv_continent_n": "17",
+      "gouvernement": "Confédération druidique",
+      "file": "Evertia/Evertia.md",
+      "regions": {}
+    },
+    "Thalmaris": {
+      "csv_n": "34",
+      "csv_continent": "Endora",
+      "csv_continent_n": "11",
+      "gouvernement": "Monarchie bardique",
+      "file": "Evertia/Thalmaris.md",
+      "regions": {
+        "Azuralis": {
+          "n": "102",
+          "villes": [
+            {
+              "nom": "Azuralith",
+              "type": "Ville"
+            },
+            {
+              "nom": "Valornis",
+              "type": "Village"
+            },
+            {
+              "nom": "Galrinor",
+              "type": "Village"
+            }
+          ]
+        },
+        "Zylar": {
+          "n": "103",
+          "villes": [
+            {
+              "nom": "Zylarith",
+              "type": "Ville"
+            }
+          ]
+        },
+        "Nalmir": {
+          "n": "104",
+          "villes": [
+            {
+              "nom": "Nalmiris",
+              "type": "Ville"
+            },
+            {
+              "nom": "Myrdoris",
+              "type": "Village"
+            },
+            {
+              "nom": "Elarinor",
+              "type": "Village"
+            },
+            {
+              "nom": "Velrith",
+              "type": "Village"
+            },
+            {
+              "nom": "Faloria",
+              "type": "Village"
+            }
+          ]
+        },
+        "Ostaris": {
+          "n": "105",
+          "villes": [
+            {
+              "nom": "Ostarith",
+              "type": "Capitale"
+            },
+            {
+              "nom": "Galdaris",
+              "type": "Village"
+            }
+          ]
+        },
+        "Rylthos": {
+          "n": "106",
+          "villes": [
+            {
+              "nom": "Rylthoris",
+              "type": "Ville"
+            },
+            {
+              "nom": "Thaloria",
+              "type": "Village"
+            },
+            {
+              "nom": "Galdaroth",
+              "type": "Village"
+            },
+            {
+              "nom": "Zyldoris",
+              "type": "Village"
+            },
+            {
+              "nom": "Nythoria",
+              "type": "Village"
+            },
+            {
+              "nom": "Valorin",
+              "type": "Village"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "Galenor": {
+    "Lumasar": {
+      "csv_n": "8",
+      "csv_continent": "Galenor",
+      "csv_continent_n": "7",
+      "gouvernement": "Aristocratie académique",
+      "file": "Galenor/Lumasar.md",
+      "regions": {
+        "Dromolia": {
+          "n": "27",
+          "villes": [
+            {
+              "nom": "Quenloria",
+              "type": "Ville"
+            },
+            {
+              "nom": "Velastris",
+              "type": "Ville"
+            },
+            {
+              "nom": "Dorlanis",
+              "type": "Ville"
+            },
+            {
+              "nom": "Torenlith",
+              "type": "Village"
+            },
+            {
+              "nom": "Vekrion",
+              "type": "Village"
+            },
+            {
+              "nom": "Hadris",
+              "type": "Village"
+            },
+            {
+              "nom": "Thalvar",
+              "type": "Village"
+            },
+            {
+              "nom": "Fynloris",
+              "type": "Village"
+            },
+            {
+              "nom": "Ondalith",
+              "type": "Village"
+            }
+          ]
+        },
+        "Prismora": {
+          "n": "28",
+          "villes": [
+            {
+              "nom": "Prismalith",
+              "type": "Capitale"
+            },
+            {
+              "nom": "Sylvorn",
+              "type": "Village"
+            },
+            {
+              "nom": "Falneth",
+              "type": "Village"
+            },
+            {
+              "nom": "Draynor",
+              "type": "Village"
+            },
+            {
+              "nom": "Vythora",
+              "type": "Village"
+            },
+            {
+              "nom": "Melithar",
+              "type": "Village"
+            },
+            {
+              "nom": "Nydoros",
+              "type": "Village"
+            },
+            {
+              "nom": "Rithmar",
+              "type": "Village"
+            },
+            {
+              "nom": "Velkaris",
+              "type": "Village"
+            },
+            {
+              "nom": "Ulverith",
+              "type": "Village"
+            }
+          ]
+        },
+        "Boreluna": {
+          "n": "29",
+          "villes": [
+            {
+              "nom": "Brendorn",
+              "type": "Ville"
+            },
+            {
+              "nom": "Ythara",
+              "type": "Village"
+            },
+            {
+              "nom": "Myndora",
+              "type": "Village"
+            },
+            {
+              "nom": "Ethriel",
+              "type": "Village"
+            }
+          ]
+        },
+        "Gistenora": {
+          "n": "30",
+          "villes": [
+            {
+              "nom": "Sylthronis",
+              "type": "Ville"
+            },
+            {
+              "nom": "Faldenor",
+              "type": "Village"
+            },
+            {
+              "nom": "Endelis",
+              "type": "Village"
+            },
+            {
+              "nom": "Ithriona",
+              "type": "Village"
+            }
+          ]
+        },
+        "Invorial": {
+          "n": "31",
+          "villes": [
+            {
+              "nom": "Kelanor",
+              "type": "Ville"
+            },
+            {
+              "nom": "Drethorn",
+              "type": "Village"
+            }
+          ]
+        }
+      }
+    },
+    "Pays libres de Kharazir": {
+      "csv_n": "7",
+      "csv_continent": "Galenor",
+      "csv_continent_n": "7",
+      "gouvernement": "Fédéralisme démocratique",
+      "file": "Galenor/Kharazir.md",
+      "regions": {
+        "Hiliara": {
+          "n": "16",
+          "villes": [
+            {
+              "nom": "Lysara",
+              "type": "Ville"
+            },
+            {
+              "nom": "Brindale",
+              "type": "Village"
+            },
+            {
+              "nom": "Valthorn",
+              "type": "Village"
+            }
+          ]
+        },
+        "Umarisar": {
+          "n": "32",
+          "villes": [
+            {
+              "nom": "Baldir",
+              "type": "Ville"
+            },
+            {
+              "nom": "Solthir",
+              "type": "Ville"
+            },
+            {
+              "nom": "Thalnor",
+              "type": "Village"
+            },
+            {
+              "nom": "Ylondor",
+              "type": "Village"
+            },
+            {
+              "nom": "Varithor",
+              "type": "Village"
+            }
+          ]
+        },
+        "Azuris": {
+          "n": "33",
+          "villes": [
+            {
+              "nom": "Azurea",
+              "type": "Ville"
+            },
+            {
+              "nom": "Lysindor",
+              "type": "Village"
+            }
+          ]
+        },
+        "Solandra": {
+          "n": "34",
+          "villes": [
+            {
+              "nom": "Velithis",
+              "type": "Ville"
+            },
+            {
+              "nom": "Myndor",
+              "type": "Village"
+            },
+            {
+              "nom": "Thalyra",
+              "type": "Village"
+            }
+          ]
+        },
+        "Nomadaro": {
+          "n": "35",
+          "villes": [
+            {
+              "nom": "Rukhsar",
+              "type": "Capitale"
+            },
+            {
+              "nom": "Ravendis",
+              "type": "Ville"
+            },
+            {
+              "nom": "Fenaldor",
+              "type": "Village"
+            },
+            {
+              "nom": "Thrandor",
+              "type": "Village"
+            },
+            {
+              "nom": "Velimar",
+              "type": "Village"
+            }
+          ]
+        },
+        "Osaria": {
+          "n": "36",
+          "villes": [
+            {
+              "nom": "Quinthor",
+              "type": "Ville"
+            },
+            {
+              "nom": "Mylnor",
+              "type": "Village"
+            },
+            {
+              "nom": "Felithar",
+              "type": "Village"
+            }
+          ]
+        },
+        "Ysundara": {
+          "n": "37",
+          "villes": [
+            {
+              "nom": "Nythora",
+              "type": "Ville"
+            },
+            {
+              "nom": "Kalithar",
+              "type": "Village"
+            },
+            {
+              "nom": "Brynthor",
+              "type": "Village"
+            }
+          ]
+        }
+      }
+    },
+    "Seraphia": {
+      "csv_n": "10",
+      "csv_continent": "Galenor",
+      "csv_continent_n": "7",
+      "gouvernement": "Théocratie artistique",
+      "file": "Galenor/Seraphia.md",
+      "regions": {
+        "Lagosaim": {
+          "n": "38",
+          "villes": [
+            {
+              "nom": "Zerithor",
+              "type": "Ville"
+            },
+            {
+              "nom": "Ythralia",
+              "type": "Village"
+            },
+            {
+              "nom": "Mithorn",
+              "type": "Village"
+            },
+            {
+              "nom": "Ylthros",
+              "type": "Village"
+            },
+            {
+              "nom": "Varalia",
+              "type": "Village"
+            },
+            {
+              "nom": "Elandor",
+              "type": "Village"
+            },
+            {
+              "nom": "Thyndros",
+              "type": "Village"
+            },
+            {
+              "nom": "Brethenor",
+              "type": "Village"
+            },
+            {
+              "nom": "Aquarith",
+              "type": "Village"
+            },
+            {
+              "nom": "Olvaris",
+              "type": "Village"
+            },
+            {
+              "nom": "Thalindra",
+              "type": "Village"
+            },
+            {
+              "nom": "Vorlith",
+              "type": "Village"
+            },
+            {
+              "nom": "Sylvoria",
+              "type": "Village"
+            },
+            {
+              "nom": "Ralithor",
+              "type": "Village"
+            },
+            {
+              "nom": "Velmaris",
+              "type": "Village"
+            }
+          ]
+        },
+        "Zariheim": {
+          "n": "39",
+          "villes": [
+            {
+              "nom": "Zarilith",
+              "type": "Ville"
+            },
+            {
+              "nom": "Othrion",
+              "type": "Village"
+            },
+            {
+              "nom": "Ryndoria",
+              "type": "Village"
+            },
+            {
+              "nom": "Fyndora",
+              "type": "Village"
+            }
+          ]
+        },
+        "Caverana": {
+          "n": "40",
+          "villes": [
+            {
+              "nom": "Althior",
+              "type": "Capitale"
+            },
+            {
+              "nom": "Thalvorn",
+              "type": "Ville"
+            },
+            {
+              "nom": "Velynor",
+              "type": "Village"
+            },
+            {
+              "nom": "Otharis",
+              "type": "Village"
+            },
+            {
+              "nom": "Fyrthar",
+              "type": "Village"
+            },
+            {
+              "nom": "Yvondor",
+              "type": "Village"
+            },
+            {
+              "nom": "Ralthyn",
+              "type": "Village"
+            },
+            {
+              "nom": "Rilthanir",
+              "type": "Village"
+            }
+          ]
+        },
+        "Frondeval": {
+          "n": "41",
+          "villes": [
+            {
+              "nom": "Ithoria",
+              "type": "Ville"
+            },
+            {
+              "nom": "Velithor",
+              "type": "Village"
+            },
+            {
+              "nom": "Zyndril",
+              "type": "Village"
+            }
+          ]
+        },
+        "Meridia": {
+          "n": "42",
+          "villes": [
+            {
+              "nom": "Ulthorin",
+              "type": "Ville"
+            },
+            {
+              "nom": "Thalinar",
+              "type": "Village"
+            },
+            {
+              "nom": "Narothis",
+              "type": "Village"
+            },
+            {
+              "nom": "Esaridia",
+              "type": "Ville"
+            }
+          ]
+        }
+      }
+    },
+    "Solena": {
+      "csv_n": "12",
+      "csv_continent": "Galenor",
+      "csv_continent_n": "7",
+      "gouvernement": "Oligarchie maritime",
+      "file": "Galenor/Solena.md",
+      "regions": {
+        "Etheira": {
+          "n": "43",
+          "villes": [
+            {
+              "nom": "Elyanor",
+              "type": "Ville"
+            },
+            {
+              "nom": "Nydoria",
+              "type": "Village"
+            },
+            {
+              "nom": "Kethyris",
+              "type": "Village"
+            },
+            {
+              "nom": "Fendralis",
+              "type": "Village"
+            },
+            {
+              "nom": "Bryndarith",
+              "type": "Village"
+            }
+          ]
+        },
+        "Oracalis": {
+          "n": "44",
+          "villes": [
+            {
+              "nom": "Oranthor",
+              "type": "Capitale"
+            },
+            {
+              "nom": "Yltheris",
+              "type": "Ville"
+            },
+            {
+              "nom": "Caldoris",
+              "type": "Village"
+            }
+          ]
+        },
+        "Vesperilia": {
+          "n": "45",
+          "villes": [
+            {
+              "nom": "Vyndralith",
+              "type": "Ville"
+            },
+            {
+              "nom": "Myrdris",
+              "type": "Village"
+            },
+            {
+              "nom": "Valora",
+              "type": "Village"
+            },
+            {
+              "nom": "Ulithor",
+              "type": "Village"
+            }
+          ]
+        },
+        "Boralis": {
+          "n": "46",
+          "villes": [
+            {
+              "nom": "Myrathis",
+              "type": "Ville"
+            },
+            {
+              "nom": "Felwyn",
+              "type": "Village"
+            }
+          ]
+        },
+        "Tetramis": {
+          "n": "136",
+          "villes": [
+            {
+              "nom": "Nydris",
+              "type": "Village"
+            },
+            {
+              "nom": "Falnor",
+              "type": "Village"
+            }
+          ]
+        }
+      }
+    },
+    "Trinoria": {
+      "csv_n": "9",
+      "csv_continent": "Galenor",
+      "csv_continent_n": "7",
+      "gouvernement": "Monarchie féodale",
+      "file": "Galenor/Trinoria.md",
+      "regions": {
+        "Nalithos": {
+          "n": "47",
+          "villes": [
+            {
+              "nom": "Gyndor",
+              "type": "Ville"
+            },
+            {
+              "nom": "Velathor",
+              "type": "Village"
+            },
+            {
+              "nom": "Ralynor",
+              "type": "Village"
+            },
+            {
+              "nom": "Xarnith",
+              "type": "Village"
+            }
+          ]
+        },
+        "Ithralis": {
+          "n": "48",
+          "villes": [
+            {
+              "nom": "Falorin",
+              "type": "Ville"
+            },
+            {
+              "nom": "Brynthar",
+              "type": "Village"
+            }
+          ]
+        },
+        "Krysalor": {
+          "n": "49",
+          "villes": [
+            {
+              "nom": "Sylvera",
+              "type": "Ville"
+            },
+            {
+              "nom": "Kaloris",
+              "type": "Ville"
+            },
+            {
+              "nom": "Maldor",
+              "type": "Village"
+            }
+          ]
+        },
+        "Rontho": {
+          "n": "50",
+          "villes": [
+            {
+              "nom": "Thalgris",
+              "type": "Ville"
+            },
+            {
+              "nom": "Ynorath",
+              "type": "Village"
+            }
+          ]
+        },
+        "Grendor": {
+          "n": "51",
+          "villes": [
+            {
+              "nom": "Gorthorn",
+              "type": "Ville"
+            },
+            {
+              "nom": "Velryn",
+              "type": "Village"
+            }
+          ]
+        },
+        "Fyrilith": {
+          "n": "52",
+          "villes": [
+            {
+              "nom": "Xylandor",
+              "type": "Ville"
+            },
+            {
+              "nom": "Talnithar",
+              "type": "Ville"
+            },
+            {
+              "nom": "Velkoros",
+              "type": "Village"
+            },
+            {
+              "nom": "Sylthar",
+              "type": "Village"
+            },
+            {
+              "nom": "Talvoria",
+              "type": "Village"
+            }
+          ]
+        }
+      }
+    },
+    "Valoria": {
+      "csv_n": "13",
+      "csv_continent": "Galenor",
+      "csv_continent_n": "7",
+      "gouvernement": "Confédération clanique",
+      "file": "Galenor/Valoria.md",
+      "regions": {
+        "Caelith": {
+          "n": "53",
+          "villes": [
+            {
+              "nom": "Thalindor",
+              "type": "Village"
+            },
+            {
+              "nom": "Felmaris",
+              "type": "Ville"
+            }
+          ]
+        },
+        "Mytzar": {
+          "n": "54",
+          "villes": [
+            {
+              "nom": "Lyntheria",
+              "type": "Ville"
+            },
+            {
+              "nom": "Ravynor",
+              "type": "Village"
+            },
+            {
+              "nom": "Thyndrel",
+              "type": "Village"
+            },
+            {
+              "nom": "Zalnor",
+              "type": "Village"
+            }
+          ]
+        },
+        "Teldar": {
+          "n": "55",
+          "villes": [
+            {
+              "nom": "Valtheria",
+              "type": "Capitale"
+            },
+            {
+              "nom": "Selvorn",
+              "type": "Village"
+            },
+            {
+              "nom": "Erynor",
+              "type": "Village"
+            },
+            {
+              "nom": "Kaeldor",
+              "type": "Village"
+            },
+            {
+              "nom": "Aldora",
+              "type": "Village"
+            },
+            {
+              "nom": "Bryndor",
+              "type": "Village"
+            }
+          ]
+        },
+        "Ethrion": {
+          "n": "56",
+          "villes": [
+            {
+              "nom": "Astraneth",
+              "type": "Ville"
+            },
+            {
+              "nom": "Vyrndel",
+              "type": "Village"
+            }
+          ]
+        }
+      }
+    },
+    "Ventera": {
+      "csv_n": "11",
+      "csv_continent": "Galenor",
+      "csv_continent_n": "7",
+      "gouvernement": "Monarchie élective",
+      "file": "Galenor/Ventera.md",
+      "regions": {
+        "Jolera": {
+          "n": "57",
+          "villes": [
+            {
+              "nom": "Arlyndor",
+              "type": "Ville"
+            },
+            {
+              "nom": "Varethor",
+              "type": "Village"
+            },
+            {
+              "nom": "Ilithar",
+              "type": "Village"
+            }
+          ]
+        },
+        "Plenera": {
+          "n": "58",
+          "villes": [
+            {
+              "nom": "Soltharis",
+              "type": "Capitale"
+            },
+            {
+              "nom": "Nythor",
+              "type": "Ville"
+            },
+            {
+              "nom": "Meldor",
+              "type": "Village"
+            },
+            {
+              "nom": "Myrralith",
+              "type": "Village"
+            },
+            {
+              "nom": "Aldaris",
+              "type": "Village"
+            },
+            {
+              "nom": "Ultharia",
+              "type": "Village"
+            },
+            {
+              "nom": "Kaldirith",
+              "type": "Village"
+            }
+          ]
+        },
+        "Rystera": {
+          "n": "59",
+          "villes": [
+            {
+              "nom": "Nyralith",
+              "type": "Ville"
+            },
+            {
+              "nom": "Falandros",
+              "type": "Village"
+            },
+            {
+              "nom": "Elthira",
+              "type": "Village"
+            },
+            {
+              "nom": "Drynor",
+              "type": "Village"
+            }
+          ]
+        },
+        "Astralor": {
+          "n": "60",
+          "villes": [
+            {
+              "nom": "Astralon",
+              "type": "Ville"
+            },
+            {
+              "nom": "Myrkis",
+              "type": "Village"
+            },
+            {
+              "nom": "Tolvenor",
+              "type": "Village"
+            },
+            {
+              "nom": "Darnis",
+              "type": "Village"
+            },
+            {
+              "nom": "Caldrith",
+              "type": "Village"
+            },
+            {
+              "nom": "Ilymaris",
+              "type": "Village"
+            },
+            {
+              "nom": "Felmarith",
+              "type": "Village"
+            },
+            {
+              "nom": "Kryndor",
+              "type": "Village"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "Ilthara": {
+    "Ackerna": {
+      "csv_n": "16",
+      "csv_continent": "Ilthara",
+      "csv_continent_n": "10",
+      "gouvernement": "Théocratie druidique",
+      "file": "Ilthara/Ackerna.md",
+      "regions": {
+        "Obélia": {
+          "n": "7",
+          "villes": [
+            {
+              "nom": "AckernaVille",
+              "type": "Capitale"
+            },
+            {
+              "nom": "Ylisfar",
+              "type": "Village"
+            },
+            {
+              "nom": "Myrisora",
+              "type": "Village"
+            },
+            {
+              "nom": "Thyrana",
+              "type": "Village"
+            }
+          ]
+        },
+        "Reckia": {
+          "n": "8",
+          "villes": [
+            {
+              "nom": "Vesperis",
+              "type": "?"
+            },
+            {
+              "nom": "Ostram",
+              "type": "?"
+            },
+            {
+              "nom": "Gnosias",
+              "type": "Village"
+            }
+          ]
+        },
+        "Siera": {
+          "n": "9",
+          "villes": [
+            {
+              "nom": "Ebrios",
+              "type": "Village"
+            },
+            {
+              "nom": "Drellesis",
+              "type": "Village"
+            },
+            {
+              "nom": "Bybias",
+              "type": "Ville"
+            },
+            {
+              "nom": "Merias",
+              "type": "Ville"
+            }
+          ]
+        }
+      }
+    },
+    "Drakora": {
+      "csv_n": "20",
+      "csv_continent": "Ilthara",
+      "csv_continent_n": "10",
+      "gouvernement": "Monarchie guerrière",
+      "file": "Ilthara/Drakora.md",
+      "regions": {
+        "Sylvaris": {
+          "n": "64",
+          "villes": [
+            {
+              "nom": "Sylvora",
+              "type": "Ville"
+            },
+            {
+              "nom": "Elyndor",
+              "type": "Village"
+            }
+          ]
+        },
+        "Myrthéria": {
+          "n": "65",
+          "villes": [
+            {
+              "nom": "Obryalis",
+              "type": "Village"
+            },
+            {
+              "nom": "Myrthorin",
+              "type": "Capitale"
+            }
+          ]
+        },
+        "Xeranthia": {
+          "n": "66",
+          "villes": [
+            {
+              "nom": "Xelthor",
+              "type": "Ville"
+            },
+            {
+              "nom": "Felvoria",
+              "type": "Village"
+            },
+            {
+              "nom": "Lunaris",
+              "type": "Village"
+            }
+          ]
+        }
+      }
+    },
+    "Gryndor": {
+      "csv_n": "18",
+      "csv_continent": "Ilthara",
+      "csv_continent_n": "10",
+      "gouvernement": "Monarchie traditionnelle",
+      "file": "Ilthara/Gryndor.md",
+      "regions": {
+        "Holvandor": {
+          "n": "67",
+          "villes": [
+            {
+              "nom": "Holvendar",
+              "type": "Capitale"
+            }
+          ]
+        },
+        "Pyrendor": {
+          "n": "68",
+          "villes": [
+            {
+              "nom": "Veylorn",
+              "type": "Ville"
+            }
+          ]
+        },
+        "Tolvandor": {
+          "n": "69",
+          "villes": [
+            {
+              "nom": "Zyrthar",
+              "type": "Ville"
+            },
+            {
+              "nom": "Nelthoris",
+              "type": "Village"
+            }
+          ]
+        }
+      }
+    },
+    "Lythar": {
+      "csv_n": "21",
+      "csv_continent": "Ilthara",
+      "csv_continent_n": "10",
+      "gouvernement": "Confédération tribale",
+      "file": "Ilthara/Lythar.md",
+      "regions": {
+        "Fyrtara": {
+          "n": "70",
+          "villes": [
+            {
+              "nom": "Valryndor",
+              "type": "Ville"
+            }
+          ]
+        },
+        "Lythoria": {
+          "n": "71",
+          "villes": [
+            {
+              "nom": "Lytharil",
+              "type": "Ville"
+            },
+            {
+              "nom": "Ralor",
+              "type": "Village"
+            },
+            {
+              "nom": "Zelmaris",
+              "type": "Village"
+            }
+          ]
+        },
+        "Raenoth": {
+          "n": "72",
+          "villes": [
+            {
+              "nom": "Raenoris",
+              "type": "Capitale"
+            },
+            {
+              "nom": "Vyrnith",
+              "type": "Village"
+            },
+            {
+              "nom": "Talmaris",
+              "type": "Village"
+            }
+          ]
+        },
+        "Aetharia": {
+          "n": "73",
+          "villes": [
+            {
+              "nom": "Aetharis",
+              "type": "Ville"
+            },
+            {
+              "nom": "Sylorin",
+              "type": "Village"
+            }
+          ]
+        },
+        "Iliara": {
+          "n": "74",
+          "villes": [
+            {
+              "nom": "Illythia",
+              "type": "Ville"
+            }
+          ]
+        },
+        "Myralis": {
+          "n": "75",
+          "villes": [
+            {
+              "nom": "Quendris",
+              "type": "Ville"
+            },
+            {
+              "nom": "Vystaris",
+              "type": "Village"
+            },
+            {
+              "nom": "Faldris",
+              "type": "Village"
+            }
+          ]
+        }
+      }
+    },
+    "Pyrtara": {
+      "csv_n": "17",
+      "csv_continent": "Ilthara",
+      "csv_continent_n": "10",
+      "gouvernement": "Dictature militaire",
+      "file": "Ilthara/Pyrtara.md",
+      "regions": {
+        "Davoria": {
+          "n": "81",
+          "villes": [
+            {
+              "nom": "Thyndor",
+              "type": "Ville"
+            },
+            {
+              "nom": "Rydelith",
+              "type": "Village"
+            },
+            {
+              "nom": "Taldorn",
+              "type": "Village"
+            }
+          ]
+        },
+        "Brevana": {
+          "n": "82",
+          "villes": [
+            {
+              "nom": "Valdyn",
+              "type": "Ville"
+            },
+            {
+              "nom": "Theralor",
+              "type": "Village"
+            }
+          ]
+        },
+        "Eleris": {
+          "n": "83",
+          "villes": [
+            {
+              "nom": "Keldros",
+              "type": "Ville"
+            },
+            {
+              "nom": "Mendris",
+              "type": "Village"
+            },
+            {
+              "nom": "Vyldor",
+              "type": "Village"
+            }
+          ]
+        },
+        "Ilyndor": {
+          "n": "84",
+          "villes": [
+            {
+              "nom": "Ilyndar",
+              "type": "Capitale"
+            },
+            {
+              "nom": "Velorn",
+              "type": "Village"
+            }
+          ]
+        },
+        "Kethorin": {
+          "n": "85",
+          "villes": [
+            {
+              "nom": "Hetholin",
+              "type": "Ville"
+            },
+            {
+              "nom": "Kyldar",
+              "type": "Village"
+            },
+            {
+              "nom": "Nymiris",
+              "type": "Village"
+            }
+          ]
+        }
+      }
+    },
+    "Sylthara": {
+      "csv_n": "33",
+      "csv_continent": "Ilthara",
+      "csv_continent_n": "10",
+      "gouvernement": "Confédération agricole",
+      "file": "Ilthara/Sylthara.md",
+      "regions": {
+        "Fenoria": {
+          "n": "76",
+          "villes": [
+            {
+              "nom": "Eldrys",
+              "type": "Ville"
+            },
+            {
+              "nom": "Faldrin",
+              "type": "Ville"
+            },
+            {
+              "nom": "Eldarion",
+              "type": "Village"
+            },
+            {
+              "nom": "Vilnora",
+              "type": "Village"
+            }
+          ]
+        },
+        "Amaroth": {
+          "n": "77",
+          "villes": [
+            {
+              "nom": "Amarendis",
+              "type": "Capitale"
+            },
+            {
+              "nom": "Feylorn",
+              "type": "Village"
+            },
+            {
+              "nom": "Ydralis",
+              "type": "Village"
+            }
+          ]
+        },
+        "Julindar": {
+          "n": "78",
+          "villes": [
+            {
+              "nom": "Myridia",
+              "type": "Village"
+            },
+            {
+              "nom": "Kelvoris",
+              "type": "Village"
+            },
+            {
+              "nom": "Drylia",
+              "type": "Ville"
+            }
+          ]
+        },
+        "Dyanos": {
+          "n": "79",
+          "villes": [
+            {
+              "nom": "Ryndor",
+              "type": "Ville"
+            },
+            {
+              "nom": "Velthar",
+              "type": "Village"
+            }
+          ]
+        },
+        "Brynthal": {
+          "n": "80",
+          "villes": [
+            {
+              "nom": "Galdoria",
+              "type": "Ville"
+            },
+            {
+              "nom": "Vesperith",
+              "type": "Village"
+            },
+            {
+              "nom": "Falyria",
+              "type": "Village"
+            }
+          ]
+        }
+      }
+    },
+    "Vytharia": {
+      "csv_n": "19",
+      "csv_continent": "Ilthara",
+      "csv_continent_n": "10",
+      "gouvernement": "Oligarchie mystique",
+      "file": "Ilthara/Vytharia.md",
+      "regions": {
+        "Brystal": {
+          "n": "90",
+          "villes": [
+            {
+              "nom": "Brystalis",
+              "type": "Capitale"
+            }
+          ]
+        },
+        "Nectaris": {
+          "n": "91",
+          "villes": [
+            {
+              "nom": "Zylor",
+              "type": "Village"
+            },
+            {
+              "nom": "Nectoria",
+              "type": "Ville"
+            }
+          ]
+        },
+        "Cystara": {
+          "n": "92",
+          "villes": [
+            {
+              "nom": "Velthorin",
+              "type": "Village"
+            },
+            {
+              "nom": "Zaralith",
+              "type": "Village"
+            }
+          ]
+        },
+        "Gelinar": {
+          "n": "93",
+          "villes": [
+            {
+              "nom": "Mythoria",
+              "type": "Ville"
+            },
+            {
+              "nom": "Kaloria",
+              "type": "Village"
+            }
+          ]
+        }
+      }
+    },
+    "Warenthor": {
+      "csv_n": "37",
+      "csv_continent": "Ilthara",
+      "csv_continent_n": "10",
+      "gouvernement": "Monarchie tribale",
+      "file": "Ilthara/Warenthor.md",
+      "regions": {
+        "WarenthorRegion": {
+          "n": "138",
+          "villes": [
+            {
+              "nom": "Wyndor",
+              "type": "Ville"
+            },
+            {
+              "nom": "Fylorin",
+              "type": "Village"
+            },
+            {
+              "nom": "Galdris",
+              "type": "Village"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "Nysaria": {
+    "NysariaPays": {
+      "csv_n": "14",
+      "csv_continent": "Nysaria",
+      "csv_continent_n": "8",
+      "gouvernement": "Monarchie isolée",
+      "file": "Nysaria/Nysaria.md",
+      "regions": {
+        "NysariaRegion": {
+          "n": "61",
+          "villes": [
+            {
+              "nom": "Nysoris",
+              "type": "Village"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "Onara": {
+    "Mosrack": {
+      "csv_n": "2",
+      "csv_continent": "Onara",
+      "csv_continent_n": "14",
+      "gouvernement": "Oligarchie militaire",
+      "file": "Onara/Mosrack.md",
+      "regions": {
+        "Camord": {
+          "n": "10",
+          "villes": [
+            {
+              "nom": "Cumulgord",
+              "type": "?"
+            }
+          ]
+        },
+        "Fugnord": {
+          "n": "11",
+          "villes": [
+            {
+              "nom": "Ausford",
+              "type": "?"
+            },
+            {
+              "nom": "Frostmar",
+              "type": "Village"
+            },
+            {
+              "nom": "Kelthor",
+              "type": "Village"
+            },
+            {
+              "nom": "Thrymar",
+              "type": "Village"
+            },
+            {
+              "nom": "Vorneth",
+              "type": "Village"
+            },
+            {
+              "nom": "Dyrnathor",
+              "type": "Village"
+            },
+            {
+              "nom": "Myrklor",
+              "type": "Village"
+            }
+          ]
+        },
+        "Mondack": {
+          "n": "12",
+          "villes": [
+            {
+              "nom": "Mangord",
+              "type": "?"
+            },
+            {
+              "nom": "Mordock",
+              "type": "?"
+            }
+          ]
+        },
+        "Nosford": {
+          "n": "13",
+          "villes": [
+            {
+              "nom": "Reldarck",
+              "type": "?"
+            }
+          ]
+        },
+        "Ragnack": {
+          "n": "14",
+          "villes": [
+            {
+              "nom": "Ramseck",
+              "type": "?"
+            }
+          ]
+        },
+        "Toreck": {
+          "n": "15",
+          "villes": [
+            {
+              "nom": "Folgrad",
+              "type": "Capitale"
+            }
+          ]
+        },
+        "Calyndor": {
+          "n": "116",
+          "villes": []
+        },
+        "Valdran": {
+          "n": "117",
+          "villes": []
+        },
+        "Velithar": {
+          "n": "118",
+          "villes": []
+        }
+      }
+    },
+    "Myrtam": {
+      "csv_n": "31",
+      "csv_continent": "Alkaran",
+      "csv_continent_n": "1",
+      "gouvernement": "Monarchie industrielle",
+      "file": "Onara/Myrtam.md",
+      "regions": {
+        "Ardentia": {
+          "n": "22",
+          "villes": [
+            {
+              "nom": "Ardentris",
+              "type": "Ville"
+            },
+            {
+              "nom": "Falnorath",
+              "type": "Village"
+            }
+          ]
+        },
+        "Xerathoria": {
+          "n": "23",
+          "villes": [
+            {
+              "nom": "Xerathoris",
+              "type": "Ville"
+            },
+            {
+              "nom": "Mythrin",
+              "type": "Village"
+            },
+            {
+              "nom": "Dravenor",
+              "type": "Village"
+            },
+            {
+              "nom": "Zyndrelis",
+              "type": "Village"
+            },
+            {
+              "nom": "Vyndorin",
+              "type": "Village"
+            }
+          ]
+        },
+        "Haliandra": {
+          "n": "24",
+          "villes": [
+            {
+              "nom": "Haliandris",
+              "type": "Capitale"
+            },
+            {
+              "nom": "Feyloris",
+              "type": "Village"
+            }
+          ]
+        },
+        "Lyraxia": {
+          "n": "25",
+          "villes": [
+            {
+              "nom": "Lyraxoris",
+              "type": "Ville"
+            },
+            {
+              "nom": "Zyndor",
+              "type": "Village"
+            },
+            {
+              "nom": "Thylaris",
+              "type": "Village"
+            }
+          ]
+        }
+      }
+    },
+    "Tyndara": {
+      "csv_n": "3",
+      "csv_continent": "Onara",
+      "csv_continent_n": "14",
+      "gouvernement": "République marchande",
+      "file": "Onara/Tyndara.md",
+      "regions": {
+        "Eryndor": {
+          "n": "119",
+          "villes": [
+            {
+              "nom": "Eryndoris",
+              "type": "Ville"
+            },
+            {
+              "nom": "Thalorn",
+              "type": "Village"
+            },
+            {
+              "nom": "Vyndris",
+              "type": "Village"
+            }
+          ]
+        },
+        "Porthar": {
+          "n": "120",
+          "villes": [
+            {
+              "nom": "Portharis",
+              "type": "Ville"
+            },
+            {
+              "nom": "Zyndris",
+              "type": "Village"
+            },
+            {
+              "nom": "Thaloris",
+              "type": "Village"
+            }
+          ]
+        },
+        "Celnar": {
+          "n": "121",
+          "villes": [
+            {
+              "nom": "Celnaris",
+              "type": "Ville"
+            },
+            {
+              "nom": "Ryldorath",
+              "type": "Village"
+            }
+          ]
+        },
+        "Fablior": {
+          "n": "122",
+          "villes": [
+            {
+              "nom": "Fablioris",
+              "type": "Capitale"
+            },
+            {
+              "nom": "Thyldrin",
+              "type": "Village"
+            },
+            {
+              "nom": "Galoris",
+              "type": "Village"
+            }
+          ]
+        },
+        "Ralmeria": {
+          "n": "137",
+          "villes": [
+            {
+              "nom": "Cryslor",
+              "type": "Ville"
+            },
+            {
+              "nom": "Thalorin",
+              "type": "Village"
+            },
+            {
+              "nom": "Vyndor",
+              "type": "Village"
+            },
+            {
+              "nom": "Galdor",
+              "type": "Village"
+            },
+            {
+              "nom": "Myrath",
+              "type": "Village"
+            },
+            {
+              "nom": "Zyloria",
+              "type": "Village"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "Ulinor": {
+    "Skaldoria": {
+      "csv_n": "36",
+      "csv_continent": "Alkaran",
+      "csv_continent_n": "1",
+      "gouvernement": "Confédération clanique",
+      "file": "Ulinor/Skaldoria.md",
+      "regions": {
+        "SkaldoriaRegion": {
+          "n": "26",
+          "villes": [
+            {
+              "nom": "Skaldris",
+              "type": "Village"
+            },
+            {
+              "nom": "Vyndar",
+              "type": "Village"
+            },
+            {
+              "nom": "Sylthor",
+              "type": "Village"
+            }
+          ]
+        }
+      }
+    },
+    "UlinorPays": {
+      "csv_n": "29",
+      "csv_continent": "Ulinor",
+      "csv_continent_n": "15",
+      "gouvernement": "Confédération tribale",
+      "file": "Ulinor/Ulinor.md",
+      "regions": {
+        "Xyria": {
+          "n": "123",
+          "villes": [
+            {
+              "nom": "Vorthar",
+              "type": "Village"
+            },
+            {
+              "nom": "Xylaris",
+              "type": "Ville"
+            }
+          ]
+        },
+        "Jentar": {
+          "n": "124",
+          "villes": [
+            {
+              "nom": "Jentaris",
+              "type": "Capitale"
+            },
+            {
+              "nom": "Xerathis",
+              "type": "Village"
+            },
+            {
+              "nom": "Talvornis",
+              "type": "Village"
+            }
+          ]
+        },
+        "Korrinor": {
+          "n": "125",
+          "villes": [
+            {
+              "nom": "Korindar",
+              "type": "Ville"
+            },
+            {
+              "nom": "Feldrin",
+              "type": "Village"
+            }
+          ]
+        },
+        "Folinor": {
+          "n": "126",
+          "villes": [
+            {
+              "nom": "Folindor",
+              "type": "Ville"
+            },
+            {
+              "nom": "Mythar",
+              "type": "Village"
+            },
+            {
+              "nom": "Nylorin",
+              "type": "Village"
+            },
+            {
+              "nom": "Galrin",
+              "type": "Village"
+            }
+          ]
+        },
+        "Elarion": {
+          "n": "127",
+          "villes": [
+            {
+              "nom": "Elaris",
+              "type": "Village"
+            },
+            {
+              "nom": "Vynthal",
+              "type": "Village"
+            }
+          ]
+        },
+        "Tressalia": {
+          "n": "135",
+          "villes": [
+            {
+              "nom": "Tresnor",
+              "type": "Village"
+            },
+            {
+              "nom": "Keldris",
+              "type": "Village"
+            }
+          ]
+        }
+      }
+    }
+  }
+}
