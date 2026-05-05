@@ -351,12 +351,14 @@ body {
     flex: 1;
     min-width: 0;
     min-height: calc(100vh - var(--nav-height));
+    overflow-x: hidden;        /* sécurité : blocs enfants avec width fixe ne forcent pas le scroll horizontal global */
 }
 
 .page-content {
     max-width: 1080px;
     margin: 0 auto;
     padding: 60px 36px 80px;
+    min-width: 0;
 }
 
 /* Carte : pleine largeur, sidebar masquée */
@@ -1647,7 +1649,14 @@ p {
     .nav-links a { padding: 8px 12px; font-size: 11px; letter-spacing: 1.5px; }
     .nav-links a span { display: none; }
     .page-content { padding: 36px 18px 60px; }
-    h1 { font-size: 24px; }
+    h1 { font-size: 24px; letter-spacing: 2px; }
+    .md-content { font-size: 15px; padding: 8px 0 40px; }
+    .md-content h1 { font-size: 24px; letter-spacing: 1.5px; }
+    .md-content h2 { font-size: 19px; }
+    .md-content h3 { font-size: 16px; }
+    .md-content table { font-size: 13px; }
+    .md-content blockquote { padding: 10px 14px; }
+    .md-callout { padding: 10px 14px; }
     .hero-title-text { font-size: clamp(38px, 12vw, 64px); }
     .pillar-grid { grid-template-columns: 1fr; }
     .feature-item { grid-template-columns: 1fr; gap: 6px; }
@@ -3090,6 +3099,16 @@ body.ios-fullscreen .ios-fullscreen-btn { top: env(safe-area-inset-top, 10px); }
     max-width: 880px;
     margin: 0 auto;
     padding: 16px 8px 60px;
+    overflow-wrap: break-word;       /* casse les mots trop longs (URLs, noms compactés) */
+    word-wrap: break-word;
+    min-width: 0;
+}
+.md-content h1,
+.md-content h2,
+.md-content h3,
+.md-content h4 {
+    overflow-wrap: break-word;
+    word-wrap: break-word;
 }
 .md-content h1 {
     font-family: var(--font-title);
@@ -3216,6 +3235,14 @@ body.ios-fullscreen .ios-fullscreen-btn { top: env(safe-area-inset-top, 10px); }
     margin: 16px 0;
     width: 100%;
     font-size: 14px;
+    display: block;            /* permet le scroll horizontal sur viewports étroits */
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    max-width: 100%;
+}
+.md-content table th,
+.md-content table td {
+    word-break: break-word;     /* coupe les mots ultra-longs */
 }
 .md-content th, .md-content td {
     border: 1px solid rgba(178, 148, 96, 0.2);
