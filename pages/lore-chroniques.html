@@ -787,8 +787,14 @@
     readerBody.addEventListener('scroll', onReaderScroll);
 
     function renderChapter(text) {
+        // Strip frontmatter YAML (---\n...\n---) en tête de fichier
+        var body = text;
+        if (body.startsWith('---')) {
+            var end = body.indexOf('\n---', 3);
+            if (end !== -1) body = body.slice(end + 4).replace(/^\n+/, '');
+        }
         // Strip Obsidian wiki links
-        var clean = text.replace(/\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/g, function(_, file, display) {
+        var clean = body.replace(/\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/g, function(_, file, display) {
             return display || file;
         });
         var html = marked.parse(clean, { breaks: true });
