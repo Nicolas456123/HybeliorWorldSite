@@ -293,6 +293,11 @@ function initMap() {
             prefixUrl: "./images/",
             tileSources: "https://hybelior-tiles.nicolas-vollard.workers.dev/HybeliorMap.dzi",
             // Perf : tuiles servies depuis Cloudflare R2 + Worker cache edge.
+            // crossOriginPolicy: 'Anonymous' → permet au browser de marquer les <img> comme
+            // CORS-clean, ce qui debloque le rendering WebGL d'OSD (sinon fallback Canvas2D
+            // ~5-10x plus lent, source du lag percu aux zooms profonds).
+            // Le Worker R2 renvoie deja les headers CORS (Access-Control-Allow-Origin).
+            crossOriginPolicy: 'Anonymous',
             // imageLoaderLimit : nb de tuiles téléchargées en parallèle (défaut 6, trop bas pour réseau moderne).
             imageLoaderLimit: 16,
             // maxImageCacheCount : nb de tuiles gardées en RAM browser (défaut 200, faible pour zoom max).
