@@ -1,22 +1,12 @@
-<!-- Page Monde : sous-onglets pilotés par les .md de Documentation/GDD/02 - Monde/ -->
+<!-- Page Monde : sous-onglets pilotés par NavConfig.subtabs.monde -->
 <div class="md-subtabs-wrapper">
-    <nav class="subtab-nav" id="monde-subtab-nav"></nav>
     <div class="subtab-content" id="monde-content"></div>
 </div>
 
 <script>
 (function () {
-    const tabs = [
-        { key: 'cosmologie', label: 'Cosmologie',     src: 'GDD/02 - Monde/Cosmologie.md' },
-        { key: 'geographie', label: 'Géographie',     src: 'GDD/02 - Monde/Géographie.md' },
-        { key: 'continents', label: 'Continents',     src: 'GDD/02 - Monde/Continents/Index.md' },
-        { key: 'lignees',    label: 'Lignées',        src: 'GDD/02 - Monde/Lignées.md' },
-        { key: 'histoire',   label: 'Histoire',       src: "GDD/02 - Monde/Histoire d'Hybelior.md" },
-        { key: 'frise',      label: 'Frise',          src: 'GDD/02 - Monde/Frise.md' },
-        { key: 'traces',     label: 'Traces des Ères', src: 'GDD/02 - Monde/Traces des Ères.md' },
-    ];
-    if (window.MdRenderer) {
-        MdRenderer.initTabs('monde', '#monde-subtab-nav', '#monde-content', tabs, 'cosmologie');
-    }
+    var cfg = window.NavConfig && NavConfig.subtabs.monde;
+    if (!cfg || !window.MdRenderer) return;
+    MdRenderer.initTabs('monde', null, '#monde-content', cfg.tabs, cfg.defaultKey);
 })();
 </script>

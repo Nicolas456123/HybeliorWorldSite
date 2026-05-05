@@ -1,19 +1,12 @@
-<!-- Page Systèmes : sous-onglets pilotés par les .md de Documentation/GDD/04 - Systèmes/ -->
+<!-- Page Systèmes : sous-onglets pilotés par NavConfig.subtabs.systemes -->
 <div class="md-subtabs-wrapper">
-    <nav class="subtab-nav" id="systemes-subtab-nav"></nav>
     <div class="subtab-content" id="systemes-content"></div>
 </div>
 
 <script>
 (function () {
-    const tabs = [
-        { key: 'data',        label: 'Architecture Data', src: 'GDD/04 - Systèmes/Architecture Data-Driven.md' },
-        { key: 'pnj',         label: 'PNJ',               src: 'GDD/04 - Systèmes/PNJ.md' },
-        { key: 'bestiaire',   label: 'Bestiaire',         src: 'GDD/04 - Systèmes/Bestiaire/Index.md' },
-        { key: 'comportements', label: 'Comportements PNJ', src: 'GDD/04 - Systèmes/Comportements PNJ/Index.md' },
-    ];
-    if (window.MdRenderer) {
-        MdRenderer.initTabs('systemes', '#systemes-subtab-nav', '#systemes-content', tabs, 'data');
-    }
+    var cfg = window.NavConfig && NavConfig.subtabs.systemes;
+    if (!cfg || !window.MdRenderer) return;
+    MdRenderer.initTabs('systemes', null, '#systemes-content', cfg.tabs, cfg.defaultKey);
 })();
 </script>

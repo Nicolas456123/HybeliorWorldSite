@@ -1,37 +1,12 @@
-<!-- Page Mécaniques : sous-onglets pilotés par les .md de Documentation/GDD/03 - Mécaniques/ -->
+<!-- Page Mécaniques : sous-onglets pilotés par NavConfig.subtabs.mecaniques -->
 <div class="md-subtabs-wrapper">
-    <nav class="subtab-nav" id="mecaniques-subtab-nav"></nav>
     <div class="subtab-content" id="mecaniques-content"></div>
 </div>
 
 <script>
 (function () {
-    // Regroupement logique : 3 piliers identité 2026 + Personnage + Combat + Magie + Vivre + Items + Architecture + Social + UI
-    // Pour les groupes de plusieurs .md, on charge l'Index correspondant.
-    const tabs = [
-        { key: 'identite',     label: 'Identité 2026',  src: 'GDD/03 - Mécaniques/Le Souffle.md' },
-        { key: 'accord',       label: "L'Accord",       src: "GDD/03 - Mécaniques/L'Accord.md" },
-        { key: 'eres',         label: 'Les Ères',       src: 'GDD/03 - Mécaniques/Les Ères.md' },
-        { key: 'personnage',   label: 'Personnage',     src: 'GDD/03 - Mécaniques/Personnage.md' },
-        { key: 'progression',  label: 'Progression',    src: 'GDD/03 - Mécaniques/Progression.md' },
-        { key: 'labeur',       label: 'Labeur',         src: 'GDD/03 - Mécaniques/Labeur.md' },
-        { key: 'combat',       label: 'Combat',         src: 'GDD/03 - Mécaniques/Combat.md' },
-        { key: 'armes',        label: 'Armes',          src: 'GDD/03 - Mécaniques/Armes et Maîtrise.md' },
-        { key: 'lien',         label: 'Le Lien (magie)', src: 'GDD/03 - Mécaniques/Le Lien.md' },
-        { key: 'mort',         label: 'Mort',           src: 'GDD/03 - Mécaniques/Mort.md' },
-        { key: 'metiers',      label: 'Métiers',        src: 'GDD/03 - Mécaniques/Métiers.md' },
-        { key: 'economie',     label: 'Économie',       src: 'GDD/03 - Mécaniques/Économie.md' },
-        { key: 'exploration',  label: 'Exploration',    src: 'GDD/03 - Mécaniques/Exploration.md' },
-        { key: 'items',        label: 'Items',          src: 'GDD/03 - Mécaniques/Items/Catalogue/_Index.md' },
-        { key: 'architecture', label: 'Architecture',   src: 'GDD/03 - Mécaniques/Architecture/Index.md' },
-        { key: 'guildes',      label: 'Guildes',        src: 'GDD/03 - Mécaniques/Guildes.md' },
-        { key: 'factions',     label: 'Factions',       src: 'GDD/03 - Mécaniques/Factions.md' },
-        { key: 'pvp',          label: 'PvP',            src: 'GDD/03 - Mécaniques/PvP.md' },
-        { key: 'prediction',   label: 'Prédiction',     src: 'GDD/03 - Mécaniques/Prédiction.md' },
-        { key: 'interface',    label: 'Interface',      src: 'GDD/03 - Mécaniques/Interface.md' },
-    ];
-    if (window.MdRenderer) {
-        MdRenderer.initTabs('mecaniques', '#mecaniques-subtab-nav', '#mecaniques-content', tabs, 'identite');
-    }
+    var cfg = window.NavConfig && NavConfig.subtabs.mecaniques;
+    if (!cfg || !window.MdRenderer) return;
+    MdRenderer.initTabs('mecaniques', null, '#mecaniques-content', cfg.tabs, cfg.defaultKey);
 })();
 </script>

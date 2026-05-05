@@ -5,25 +5,22 @@
 <div class="subtab-content" id="lore-subtab-content"></div>
 
 <script>
-SubTabs.init(
-  'lore',
-  '#global-subtab-nav',
-  '#lore-subtab-content',
-  [
-    { key: 'cosmo',       label: 'Cosmologie',  src: '/pages/lore-cosmo.html' },
-    { key: 'chronologie', label: 'Chronologie', src: '/pages/lore-chronologie.html' },
-    { key: 'geo',         label: 'Géographie',  src: '/pages/lore-geo.html' },
-    { key: 'religions',   label: 'Religions',   src: '/pages/lore-religions.html' },
-    { key: 'histoires',   label: 'Histoires',   src: '/pages/lore-histoires.html' },
-    { key: 'chroniques',  label: 'Chroniques',  src: '/pages/lore-chroniques.html' },
-  ],
-  'cosmo',
-  function(html, key) {
-    var sidebar = document.getElementById('site-sidebar');
-    var content = document.getElementById('lore-subtab-content');
-    if (sidebar && content && window.SidebarTOC) {
-      SidebarTOC.build(sidebar, content);
-    }
-  }
-);
+(function () {
+    var cfg = window.NavConfig && NavConfig.subtabs.lore;
+    if (!cfg || !window.SubTabs) return;
+    SubTabs.init(
+        'lore',
+        '',                              // pas de nav locale : remplacée par dropdown
+        '#lore-subtab-content',
+        cfg.tabs,
+        cfg.defaultKey,
+        function (html, key) {
+            var sidebar = document.getElementById('site-sidebar');
+            var content = document.getElementById('lore-subtab-content');
+            if (sidebar && content && window.SidebarTOC) {
+                SidebarTOC.build(sidebar, content);
+            }
+        }
+    );
+})();
 </script>

@@ -117,40 +117,61 @@
     }
 
     /** Sous-onglets pilotés par .md (analogue à SubTabs.init mais pour markdown) */
+    const _instances = {};
     function initTabs(instanceId, navSelector, contentSelector, tabs, defaultKey) {
-        const nav  = document.querySelector(navSelector);
+        const nav  = navSelector ? document.querySelector(navSelector) : null;
         const area = document.querySelector(contentSelector);
-        if (!nav || !area) return;
+        if (!area) return;
 
-        nav.innerHTML = '';
-        tabs.forEach(t => {
-            const btn = document.createElement('button');
-            btn.className = 'subtab-btn';
-            btn.dataset.key = t.key;
-            btn.textContent = t.label;
-            nav.appendChild(btn);
-        });
+        if (nav) {
+            nav.innerHTML = '';
+            tabs.forEach(t => {
+                const btn = document.createElement('button');
+                btn.className = 'subtab-btn';
+                btn.dataset.key = t.key;
+                btn.textContent = t.label;
+                nav.appendChild(btn);
+            });
+        }
 
         let current = null;
         const activate = async (key) => {
             if (key === current) return;
             current = key;
-            nav.querySelectorAll('.subtab-btn').forEach(b =>
-                b.classList.toggle('active', b.dataset.key === key)
-            );
+            if (nav) {
+                nav.querySelectorAll('.subtab-btn').forEach(b =>
+                    b.classList.toggle('active', b.dataset.key === key)
+                );
+            }
             const tab = tabs.find(t => t.key === key);
             if (!tab) return;
             await render(area, tab.src);
         };
 
-        nav.addEventListener('click', e => {
-            const btn = e.target.closest('.subtab-btn');
-            if (btn) activate(btn.dataset.key);
-        });
+        if (nav) {
+            nav.addEventListener('click', e => {
+                const btn = e.target.closest('.subtab-btn');
+                if (btn) activate(btn.dataset.key);
+            });
+        }
 
-        activate(defaultKey);
+        // Si le router a déjà un subkey en attente pour cette instance, l'utiliser
+        const pending = window._pendingSubkey;
+        const startKey = (pending && tabs.find(t => t.key === pending)) ? pending : defaultKey;
+        activate(startKey);
+        if (pending) window._pendingSubkey = null;
+
+        _instances[instanceId] = { activate, tabs };
     }
 
-    window.MdRenderer = { render, initTabs, renderMarkdownText };
+    /** Active un sous-onglet depuis l'extérieur. Retourne true si l'instance existe. */
+    function go(instanceId, key) {
+        const inst = _instances[instanceId];
+        if (!inst) return false;
+        inst.activate(key);
+        return true;
+    }
+
+    window.MdRenderer = { render, initTabs, go, renderMarkdownText };
 
 })();

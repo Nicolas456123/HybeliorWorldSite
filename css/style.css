@@ -186,6 +186,121 @@ body {
 .nav-links a.active svg,
 .nav-links a:hover svg { opacity: 1; }
 
+/* ── Dropdowns de la nav principale ──────────────────────────── */
+.nav-links li { position: relative; }
+
+.nav-links li.has-dropdown > a { padding-right: 16px; }
+
+.nav-caret {
+    margin-left: 4px;
+    font-size: 9px;
+    line-height: 1;
+    opacity: 0.6;
+    transition: transform 0.18s, opacity 0.18s;
+    display: inline-block;
+}
+
+.nav-links li.has-dropdown:hover .nav-caret,
+.nav-links li.has-dropdown.open .nav-caret {
+    opacity: 1;
+}
+.nav-links li.has-dropdown.open .nav-caret {
+    transform: rotate(180deg);
+}
+
+.nav-dropdown {
+    position: absolute;
+    top: calc(100% - 4px);
+    left: 0;
+    min-width: 240px;
+    max-width: 360px;
+    max-height: 70vh;
+    overflow-y: auto;
+    background: rgba(28, 18, 8, 0.98);
+    border: 1px solid rgba(180, 130, 40, 0.30);
+    border-top: 1px solid rgba(230, 180, 60, 0.45);
+    border-radius: 0 0 var(--radius) var(--radius);
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+    box-shadow: 0 12px 32px rgba(0, 0, 0, 0.45);
+    padding: 6px 0;
+    opacity: 0;
+    transform: translateY(-6px);
+    pointer-events: none;
+    visibility: hidden;
+    transition: opacity 0.18s, transform 0.18s, visibility 0s 0.18s;
+    z-index: 1001;
+    scrollbar-width: thin;
+    scrollbar-color: rgba(180, 130, 40, 0.4) transparent;
+}
+.nav-dropdown::-webkit-scrollbar { width: 5px; }
+.nav-dropdown::-webkit-scrollbar-thumb {
+    background: rgba(180, 130, 40, 0.4);
+    border-radius: 3px;
+}
+
+.nav-links li.has-dropdown.open > .nav-dropdown {
+    opacity: 1;
+    transform: translateY(0);
+    pointer-events: auto;
+    visibility: visible;
+    transition: opacity 0.18s, transform 0.18s, visibility 0s 0s;
+}
+
+.nav-dropdown-item {
+    display: block;
+    padding: 9px 18px;
+    color: rgba(210, 178, 115, 0.78);
+    text-decoration: none;
+    font-family: 'Raleway', sans-serif;
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    transition: background 0.12s, color 0.12s, padding-left 0.12s;
+    border-left: 2px solid transparent;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.nav-dropdown-item:hover {
+    background: rgba(180, 130, 40, 0.15);
+    color: rgba(232, 200, 120, 0.98);
+    padding-left: 22px;
+}
+.nav-dropdown-item.active {
+    color: #e8c878;
+    background: rgba(180, 130, 40, 0.22);
+    border-left-color: #e8c878;
+    text-shadow: 0 0 12px rgba(230, 180, 60, 0.4);
+}
+
+/* Dropdown qui dépasse à droite : alignement à droite */
+.nav-links li.has-dropdown:nth-last-child(-n+3) .nav-dropdown {
+    left: auto;
+    right: 0;
+}
+
+/* Cache la barre subtab-nav inline qui était au-dessus des pages
+   (remplacée par les dropdowns du haut). On garde celle des sous-sous-onglets
+   (qui a la classe .subtab-nav-secondary). */
+.md-subtabs-wrapper > nav.subtab-nav:not(.subtab-nav-secondary) { display: none; }
+
+/* Mobile : dropdowns en pleine largeur sous la nav */
+@media (max-width: 800px) {
+    .nav-dropdown {
+        position: fixed;
+        top: var(--nav-height);
+        left: 0 !important;
+        right: 0;
+        min-width: 0;
+        max-width: none;
+        border-radius: 0;
+        border-left: none;
+        border-right: none;
+    }
+}
+
 /* ===== Site layout (sidebar + contenu) ===== */
 
 .site-layout {

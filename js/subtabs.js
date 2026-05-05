@@ -17,31 +17,35 @@ const SubTabs = {
      * @param {Function} [onLoad]    Callback(html, key) après chargement
      */
     init(instanceId, navSelector, contentSelector, tabs, defaultKey, onLoad) {
-        const nav  = document.querySelector(navSelector);
+        const nav  = navSelector ? document.querySelector(navSelector) : null;
         const area = document.querySelector(contentSelector);
-        if (!nav || !area) return;
+        if (!area) return;
 
         const cache = {};
         let current = null;
 
-        // Toujours recréer les boutons (la nav peut contenir des boutons d'une instance précédente)
-        nav.innerHTML = '';
-        tabs.forEach(t => {
-            const btn = document.createElement('button');
-            btn.className = 'subtab-btn';
-            btn.dataset.key = t.key;
-            btn.textContent = t.label;
-            nav.appendChild(btn);
-        });
+        if (nav) {
+            // Toujours recréer les boutons (la nav peut contenir des boutons d'une instance précédente)
+            nav.innerHTML = '';
+            tabs.forEach(t => {
+                const btn = document.createElement('button');
+                btn.className = 'subtab-btn';
+                btn.dataset.key = t.key;
+                btn.textContent = t.label;
+                nav.appendChild(btn);
+            });
+        }
 
         const activate = async (key) => {
             if (key === current) return;
             current = key;
 
             // Mise à jour des boutons
-            nav.querySelectorAll('.subtab-btn').forEach(b =>
-                b.classList.toggle('active', b.dataset.key === key)
-            );
+            if (nav) {
+                nav.querySelectorAll('.subtab-btn').forEach(b =>
+                    b.classList.toggle('active', b.dataset.key === key)
+                );
+            }
 
             // Chargement du contenu
             if (!cache[key]) {
@@ -77,13 +81,18 @@ const SubTabs = {
         };
 
         // Délégation des clics
-        nav.addEventListener('click', e => {
-            const btn = e.target.closest('.subtab-btn');
-            if (btn) activate(btn.dataset.key);
-        });
+        if (nav) {
+            nav.addEventListener('click', e => {
+                const btn = e.target.closest('.subtab-btn');
+                if (btn) activate(btn.dataset.key);
+            });
+        }
 
-        // Démarrage
-        activate(defaultKey);
+        // Démarrage : si le router a un subkey en attente, on l'utilise.
+        const pending = window._pendingSubkey;
+        const startKey = (pending && tabs.find(t => t.key === pending)) ? pending : defaultKey;
+        activate(startKey);
+        if (pending) window._pendingSubkey = null;
 
         this._instances[instanceId] = { activate, nav, area };
     },
