@@ -1998,6 +1998,23 @@ function initMap() {
         viewer.addHandler('pan', throttledUpdateVisibility);
         viewer.addHandler('resize', updateTextVisibility);
         viewer.addHandler('animation-finish', updateTextVisibility);
+
+        // Perf zoom max : cacher l'overlay SVG (~2100 paths) pendant les animations
+        // pan/zoom. Le browser n'a plus à layout/composite les SVG -> FPS x10 sur le
+        // zoom. Le SVG revient instantanement a animation-finish (les tuiles bitmap
+        // restent visibles via WebGL pendant la transition).
+        const svgOverlayNode = svgOverlay && svgOverlay.node && svgOverlay.node();
+        if (svgOverlayNode) {
+            // svgOverlay.node() retourne un <g> ; on cache son <svg> parent pour aussi
+            // suspendre les overlays canvas/clipPath siblings.
+            const svgRoot = svgOverlayNode.ownerSVGElement || svgOverlayNode.parentElement;
+            viewer.addHandler('animation-start', () => {
+                if (svgRoot) svgRoot.style.visibility = 'hidden';
+            });
+            viewer.addHandler('animation-finish', () => {
+                if (svgRoot) svgRoot.style.visibility = '';
+            });
+        }
         // Update border stroke width on zoom change
         viewer.addHandler('animation-finish', () => {
             if (bordersLayer.style.display !== 'none') renderAllBorders();
