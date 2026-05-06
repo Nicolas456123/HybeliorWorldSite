@@ -2,7 +2,7 @@
 tags: [lore, chronique]
 type: lore
 status: drafted
-last_review: 2026-05-02
+last_review: 2026-05-06
 needs_review_for: []
 ---
 # Chapitre 27 — Le Cœur qui Pulse
@@ -121,6 +121,8 @@ Kessa et moi nous étions installés sur une avancée de basalte refroidi, à di
 Et j'ai senti la pulsation.
 
 Pas entendue — sentie. Dans la poitrine, dans quelque chose qui est sous la poitrine, dans un endroit que je ne savais pas avoir. Une légère pression, régulière, qui n'avait rien à voir avec mon propre cœur. Un battement extérieur. Un rythme qui n'était pas le mien mais que mon corps recevait comme si c'était le sien — comme quand on pose la main sur la gorge de quelqu'un qui chante et qu'on sent les vibrations traverser les os de la main.
+
+J'essayai d'abord d'expliquer. C'est l'altitude, me dis-je — l'air rare modifie la perception du pouls. C'est la chaleur du basalte qui remonte par les semelles. C'est la suggestion : Kessa avait parlé des pulsations, mon corps me fournissait ce que mon esprit attendait. Trois explications en quelques secondes, chacune raisonnable. Aucune ne tint plus de quelques secondes. Le battement continuait, étranger, indifférent à mes hypothèses. Je notai mes hypothèses et je notai aussi qu'elles ne tenaient pas. Je n'allai pas plus loin dans la correction. Je ne savais pas où aller.
 
 Je suis Délié.
 

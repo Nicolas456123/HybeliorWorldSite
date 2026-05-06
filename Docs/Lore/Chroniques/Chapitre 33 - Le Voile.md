@@ -2,7 +2,7 @@
 tags: [lore, chronique]
 type: lore
 status: drafted
-last_review: 2026-05-02
+last_review: 2026-05-06
 needs_review_for: []
 ---
 # Chapitre 33 — Le Voile des Rêves
@@ -100,6 +100,8 @@ Je reconnaissais ces symboles.
 
 Non pas dans le sens d'un texte que j'aurais déjà vu dans une bibliothèque ou copié pour un commanditaire. Je les reconnaissais d'une façon plus physique, plus ancienne que la mémoire intellectuelle — la façon dont on reconnaît un chemin qu'on n'a pas emprunté depuis l'enfance. Mon corps savait ces symboles. Ma main sut, avant que je la lève, qu'elle pouvait en tracer plusieurs de mémoire.
 
+Je notai cette reconnaissance et je notai aussi ma méfiance envers elle. Un cartographe qui voyage depuis sept cents jours apprend à se défier de ses propres yeux quand ils trouvent ce qu'ils cherchaient. Je notai donc deux choses : ce que mon corps disait avoir reconnu, et que c'était mon corps qui le disait — pas ma méthode. La distinction me sembla ce soir-là plus importante que la reconnaissance elle-même.
+
 Je les avais vus dans les tunnels de Kharazir.
 
 Je m'assis. Je ne sais pas à quel moment je m'assis — je me trouvai simplement assis, avec le parchemin devant moi et la certitude qui se déposait dans ma poitrine comme un sédiment lourd. Kharazir : les mines, les galeries creusées avant que l'histoire commence, les parois que les géologues d'Ordavan dataient d'avant l'Arrachement. Des symboles sur la roche que tout le monde avait attribués à une culture perdue, à une décoration sans signification, à une trace d'ouvriers anciens.
@@ -164,7 +166,7 @@ Je pensai à mon père. Je pensai à Aldric Valthen qui avait fait ce voyage ava
 
 Il était mort d'une pneumonie d'hiver à quarante-deux ans, un forgeron d'Evertia avec des mains larges et des explications courtes pour tout.
 
-Qu'avait-il compris que je ne comprends pas encore ?
+Qu'avait-il compris que je ne comprends pas encore ? Et — la question qui me vint après, et que je m'imposai d'écrire dans la même page sans lui chercher de cadre — qu'avait-il vu, peut-être, que j'avais cru voir et qui n'était pas tout à fait ce que je croyais ?
 
 Je n'eus pas de réponse. La mer restait la mer — son bruit de fond indifférent, son amplitude qui n'a pas de bord visible. La nuit de Vytharia posait son Voile sur les étoiles et les rendait semblables à ce qu'elles étaient pour moi : des questions que j'avais maintenant les moyens de poser correctement, sans être encore sûr que les réponses soient à portée de formulation.
 

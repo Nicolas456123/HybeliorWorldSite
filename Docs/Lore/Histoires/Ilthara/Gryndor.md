@@ -1,8 +1,8 @@
 ﻿---
-tags: [lore, histoire, ilthara]
-type: lore
-status: drafted
-last_review: 2026-05-02
+tags: [lore, histoire, ilthara, gryndor]
+type: histoire
+status: canon
+last_review: 2026-05-06
 needs_review_for: []
 ---
 # Histoires de Gryndor
@@ -132,3 +132,85 @@ Mais ses mains avaient oublie. La precision nanometrique etait partie avec la lo
 Nelthoris perdit son meilleur tailleur. Isylrin y gagna le visage de sa fille.
 
 Il dit parfois qu'il regrette. Mais seulement quand Elyn ne le regarde pas.
+
+---
+
+## Holvendar --- "La Lecture Manquee"
+
+L'Archiviste-Senior Velthor avait passe quarante ans dans la Grande Bibliotheque. Il avait vu trois rois. Il avait classe pres de cinquante mille ouvrages. Il etait l'archiviste de reference pour les sections juridiques, et nul ne connaissait mieux que lui la jurisprudence de Gryndor.
+
+Quand le rapport de Sorin Valthen arriva sur son bureau --- transmis par Selvorn, sans commentaire --- Velthor le lut une fois et le classa.
+
+Il avait reconnu le style. Il avait reconnu la profondeur. Il avait reconnu --- cela il ne se l'avoua que des annees plus tard --- la presque-justesse des cartes. Sorin avait *compris* quelque chose, sans articuler exactement quoi. Le rapport etait deroutant et precieux a la fois.
+
+Velthor le classa sous la cote *« Hypotheses cartographiques marginales — exterieurs »*. C'etait la cote correcte. L'auteur n'etait pas accredite a Gryndor ; les hypotheses ne reposaient pas sur des sources gryndoriennes ; le rapport etait deposé par un transit, pas par un auteur.
+
+Le matin du classement, Velthor passa quinze minutes de plus a relire la deuxieme page du rapport. Il y avait une phrase qui le derangeait. Une phrase qui evoquait *« un deplacement, pas une brisure »* --- formule qu'il avait deja vue, autrefois, dans une enveloppe que Selvorn lui avait fait classer trente ans plus tot et qu'il n'avait jamais réussi a localiser depuis.
+
+Il classa quand meme. Il prit son the. Il commença sa journee.
+
+Trois mois plus tard, en preparant son depart a la retraite, Velthor demanda a un jeune archiviste de retrouver le rapport. Le jeune archiviste mit deux semaines, ce qui lui valut des reproches --- la cote *« Hypotheses cartographiques marginales — exterieurs »* contenait pres de quatre cents documents. Velthor, en relisant le rapport, comprit ce que sa première lecture avait *raté*.
+
+Il ne corrigea pas le classement. Il le fit prendre note dans une marge interieure, accessible aux seuls archivistes seniors --- une note discrète, dépourvue d'engagement, qui disait simplement : *« A relire. Possible point de convergence. »*
+
+Velthor partit a la retraite. Il mourut quatre ans plus tard. La note de marge resta. Trois decennies plus tard, un autre archiviste senior la lut, alla relire le rapport, et eut a peu pres la même réaction : il sentit une justesse, mais il n'avait ni les outils pour la mesurer ni l'autorite pour la promouvoir. Il ajouta sa propre note de marge : *« Confirme l'observation precedente. »*
+
+C'est ainsi que la Bibliotheque transmet ses presque-decouvertes : des notes de marge, gardees par des archivistes seniors successifs, attendant un lecteur qui aurait l'autorite et le temps. Personne, a Holvendar, n'a vu la collection des notes de marge interieure. Elle existe en pointillé. Elle reste illisible parce qu'elle est dispersée.
+
+---
+
+## Veylorn --- "La Galerie Sept"
+
+Taldric n'a jamais ete retrouve. Mais sa galerie, oui --- la profonde galerie sept, ou il avait disparu, fut redecouverte vingt ans apres sa disparition par une equipe de mineurs en quête de nouvelles veines.
+
+L'equipe etait dirigee par une femme nommee Bryla. Elle entra dans la galerie avec deux compagnons et une lampe a huile. Apres trois heures de descente, ils trouverent ce que Taldric avait laissé. Pas son corps --- son outil. Une pioche posee proprement contre la paroi, comme par un mineur qui s'arrete pour faire une pause.
+
+Et a cote de la pioche, gravé dans la roche brillante par une main lente et appliquée, un texte. Pas en gryndorien. Dans une langue que Bryla ne reconnaissait pas. Mais elle pouvait le *lire*. Les mots se formaient dans sa tete comme s'ils traduisaient eux-memes :
+
+*« Il chante. Il pleure aussi. Je l'ai entendu. Il dit qu'il a perdu un visage. Il dit qu'il l'a oublié. Je crois que je vais l'aider a se souvenir. Je ne reviendrai peut-etre pas. Si vous lisez ceci, c'est que vous avez aussi entendu. C'est que la pierre n'oublie pas. »*
+
+Bryla ne dit rien a ses deux compagnons. Elle leur ordonna de sortir. Elle sortit avec eux. Elle scella la galerie sept avec des poutres de soutenement et un avis officiel : *« Instabilite structurelle confirmée. Acces interdit. »*
+
+Elle redigea un rapport au Conseil des Sages. Elle écrivit que la galerie était dangereuse. Elle ne mentionna pas le texte gravé. Elle ne mentionna pas la pioche. Elle ne mentionna pas qu'elle l'avait *lu*.
+
+Elle expliqua plus tard, a un seul ami de confiance, pourquoi : « Si je le rapporte, le Conseil envoie une expedition. L'expedition trouve. Trouve quoi, je ne sais pas. Mais trouver une chose de cette nature, et la rapporter dans les archives de Holvendar, c'est en faire un objet de classification. Ce que Taldric a laissé n'est pas un objet. C'est une trace. »
+
+L'ami n'a pas ecrit ce qu'il a entendu. Bryla est morte sans rien transmettre d'officiel. La galerie sept est toujours fermee. Le Conseil des Sages ne sait pas. Quelqu'un, parmi les mineurs de Veylorn, sait peut-etre. Personne, a Veylorn, ne demande.
+
+---
+
+## Zyrthar --- "L'Outil de Maethra"
+
+Apres la disparition de Maethra, son atelier fut scelle. Le Conseil des Sages confisqua le cristal parfait. Le trou sphérique fut comblé par une coulee d'obsidienne fondue. Un document officiel ferma l'affaire.
+
+Mais quelque part dans Zyrthar, un outil avait survécu. Il appartenait a Maethra avant son experience finale --- un instrument qu'elle avait fabrique elle-meme, qui ressemblait a un compas mais comprenait sept branches articulees au lieu de deux. Personne ne savait a quoi il servait. Personne, sauf Maethra. Et elle n'avait laisse aucune note.
+
+L'outil fut récupéré par un voisin, Thelvar, qui retournait chez lui le soir de la disparition. Il avait vu l'outil pose dans un buisson, comme deposé la avant l'experience. Pourquoi Maethra avait-elle sorti l'outil de l'atelier ? Pour qu'il survive a l'experience ?
+
+Thelvar le ramena chez lui. Il le posa sur son etabli. Il le regarda chaque soir. Il essaya de comprendre son fonctionnement. Il vint a la conclusion que l'outil mesurait quelque chose qu'il n'avait pas le concept pour nommer --- une *direction* qui n'etait pas spatiale, une *intensite* qui n'etait pas thermique, une *qualite* qui n'etait pas physique.
+
+Il finit par devenir alchimiste lui-meme, vingt ans apres avoir trouve l'outil. Il devint le meilleur de Zyrthar. Quand on lui demandait son secret, il disait : « J'ai un outil que je ne comprends pas, et je l'utilise pour calibrer mon intuition. Quand mes mesures classiques sont d'accord avec lui, j'ai confiance. Quand elles divergent, je doute. »
+
+C'etait sa methode. Elle marchait. Personne ne savait ce que l'outil mesurait. Lui-meme l'ignorait. Mais il faisait confiance a la divergence comme signal --- la oú son savoir et l'outil ne s'accordaient pas, il y avait *quelque chose* a observer.
+
+A sa mort, l'outil disparut. Personne ne sait qui le prit. Quelques jeunes alchimistes de Zyrthar pretendent l'avoir vu chez tel ou tel. Personne ne le possede officiellement. Il circule, peut-etre, dans des mains qui ne disent pas. Maethra avait peut-etre prevu cela --- un outil qui ne se laisse pas archiver.
+
+---
+
+## Nelthoris --- "La Loupe Refusee"
+
+Apres qu'Isylrin eut renonce a ses loupes enchantees pour retrouver le visage de sa fille, sa methode --- la *taille a la main blessee* --- continua de s'enseigner a Nelthoris. Mais quelque chose changea dans la transmission.
+
+Les nouveaux apprentis durent choisir : adopter la methode (et donc passer leurs vingt premières annees a tailler avec leur main non dominante, ce qui etait inconfortable et lent) ou refuser la methode (et donc accepter de produire des cristaux d'une precision moindre, qui ne portaient pas la marque *« Nelthoris »*).
+
+Le doyen Velken, successeur d'Isylrin, refusa de trancher. Il enseigna les deux. Les apprentis qui adoptaient la methode portaient un anneau de cuivre au poignet de leur main entrainee --- un signe visible. Les apprentis qui refusaient ne le portaient pas. La distinction etait claire. La hierarchie aurait du suivre.
+
+Elle ne suivit pas. Velken refusa que les uns soient consideres comme superieurs aux autres. Il disait : « Tailler avec la main blessee est une technique. Refuser cette technique est aussi une technique. Les deux peuvent produire un travail bon. Aucune n'est superieure a l'autre. »
+
+Cette neutralite déconcerta. Les Maitres-Savants de Holvendar, en visite, demandaient toujours qui produisait les *meilleurs* cristaux a Nelthoris. Velken repondait que la question n'avait pas de sens. Les Maitres en etaient agacés. Une discipline sans hierarchie n'etait pas une discipline a Gryndor.
+
+Mais les chiffres --- les chiffres officiels que Velken tenait scrupuleusement --- montraient la chose suivante : sur cinquante apprentis, vingt-trois adoptaient la methode, vingt-sept la refusaient ; les cristaux des vingt-trois etaient *en moyenne* plus precis ; ceux des vingt-sept etaient *en moyenne* plus rapides a produire ; les deux populations produisaient des oeuvres de qualité equivalente sur les commandes les plus exigeantes, parce que les apprentis selectionnaient leur outil selon le besoin.
+
+Velken ne publia pas ces chiffres. Il les garda dans son cahier. A sa mort, son successeur les trouva et les classa selon une cote interne : *« Statistiques techniques sans interpretation possible. »*
+
+Cette cote n'existe pas dans le catalogue officiel de Gryndor. Elle existe a Nelthoris seulement. Quelques tailleurs anciens, en formant leurs apprentis, mentionnent que Velken avait des chiffres. Personne ne se donne la peine d'aller les chercher. La question --- la *vraie* question, qui aurait été : *qu'est-ce qu'on perd quand on choisit l'efficacité ?* --- n'a jamais ete posee a Holvendar. Elle n'a meme pas ete posée a Nelthoris.

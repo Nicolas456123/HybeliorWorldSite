@@ -1,13 +1,16 @@
 ﻿---
-tags: [lore, histoire, galenor]
-type: lore
-status: drafted
-last_review: 2026-05-02
+tags: [lore, histoire, galenor, kharazir]
+type: histoire
+status: canon
+last_review: 2026-05-06
 needs_review_for: []
 ---
 # Histoires de Kharazir
 
 > *Chaque ville a ses cicatrices. Voici celles qui ne guérissent jamais.*
+
+> *Naïm le balayeur, le 14 du mois Vanir 251, a perdu sa cabane une nuit, le sommeil un autre. Sorin Valthen, le 14 du mois Vanir 251, a perdu sa charge, sa carte, et sept ans de marges méticuleuses. Les Sept Piliers de Rukhsar n'ont rien remarqué.*
+> *— Inscription de marge, anonyme, retrouvée dans une auberge de Solandra, an 252.*
 
 ---
 

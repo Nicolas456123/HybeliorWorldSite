@@ -2,7 +2,7 @@
 tags: [lore, chronique]
 type: lore
 status: drafted
-last_review: 2026-05-02
+last_review: 2026-05-06
 needs_review_for: []
 ---
 # Chapitre 5 — Le Port des Adieux
@@ -180,7 +180,7 @@ Derrière chaque horizon se cache un autre horizon.
 
 *Note de cartographe, portée sur ma carte mentale :*
 
-*Solena, que j'ai traversée du nord au sud en dix-huit jours : une nation dont la mer est l'âme, non la frontière. Ses phares sont ses temples, ses routes maritimes ses chemins de foi, ses gens des créatures qui ont appris que l'horizon n'est pas une limite mais une porte. J'emporte de Solena la leçon du gardien de phare — qu'allumer une lumière pour les autres n'est pas un sacrifice mais un contrat, et que ce contrat tenu chaque soir, sans public ni applaudissements, constitue une vie entière de sens.*
+*Solena, que j'ai traversée du nord au sud en dix-huit jours : une nation dont la mer est l'âme, non la frontière. Ses phares sont ses temples, ses routes maritimes ses chemins de foi, ses gens des créatures qui ont appris que l'horizon n'est pas une limite mais une porte. Je note pour mémoire que le vieux Thelorn allume sa lampe chaque soir sans public ni applaudissements. Je ne sais pas encore quoi faire de ce fait. Je le note parce qu'il s'est imposé, et parce que les faits qui s'imposent finissent par servir, sans qu'on sache toujours à quoi.*
 
 *Galenor, dans son ensemble : plus vaste que je ne le croyais. Plus vaste que mes cartes ne l'indiquaient, et mes cartes étaient pourtant précises. Ce qui déborde les cartes, c'est la texture des lieux — l'odeur, le bruit, la façon dont les gens marchent et s'adressent les uns aux autres. Le cartographe que j'étais avait la précision. Le voyageur que je deviens commence à avoir la texture.*
 

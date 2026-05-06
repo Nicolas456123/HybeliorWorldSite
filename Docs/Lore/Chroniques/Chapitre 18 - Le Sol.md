@@ -2,7 +2,7 @@
 tags: [lore, chronique]
 type: lore
 status: drafted
-last_review: 2026-05-02
+last_review: 2026-05-06
 needs_review_for: []
 ---
 # Chapitre 18 — Le Sol Vitrifié
@@ -158,6 +158,8 @@ Tempora ne brisait pas. Tempora déplaçait.
 
 Et Tempora avait déplacé Ordavan pour que quelqu'un, un jour, comprenne ce que Tempora cherchait à dire.
 
+Je couche cette dernière phrase et je la regarde. Elle est propre. Elle ferme tout. C'est précisément ce qui m'inquiète quand j'ai le temps de m'inquiéter — c'est-à-dire pas maintenant. Une explication qui rend nécessaire ma présence à cet endroit précis devrait éveiller un cartographe sérieux. Elle m'éveillera plus tard, quand j'aurai dormi. Pour l'instant, elle me console, et un homme qui a marché quinze jours pour atteindre un sol vitrifié a besoin de consolations qu'il sait fragiles.
+
 ---
 
 La Garde Cristalline arriva le deuxième jour.
@@ -223,6 +225,8 @@ La deuxième nuit, allongé dans mon sac sur la roche, je ne dormis pas.
 Je repensais aux silhouettes. A la femme avec l'enfant dans les bras — la posture de quelqu'un qui protège, pas de quelqu'un qui fuit. La différence était importante. Ceux d'Ordavan n'avaient pas fui : le déplacement les avait pris dans leur activité quotidienne, dans le geste ordinaire de l'instant. Aucun des gestes que j'avais perçus n'était un geste d'urgence — c'était du bruit de fond humain, le mouvement de gens qui font leur vie sans savoir que leur vie est sur le point d'être extraite de son contexte temporel.
 
 Tempora les avait pris dans l'ordinaire.
+
+(Je relèverai plus tard que protéger, ce n'est pas exactement le geste de l'ordinaire. La femme serrait l'enfant. Pourquoi serre-t-on un enfant à un instant donné ? Pour le bercer, ou parce qu'on a senti quelque chose. Je laisse la question pendante. Elle me dérange — j'irai donc plutôt regarder une autre silhouette.)
 
 Ce n'était pas une punition. Une punition aurait ciblé les gestes extraordinaires, les actes d'importance. Tempora avait prélevé une tranche d'ordinaire — deux cents vies dans leur mardi matin, dans leur geste de boulangerie et de maçonnerie et de mère qui porte un enfant. Il avait prélevé cette tranche et l'avait mise de côté, comme un archiviste glisse une note entre les pages d'un livre pour marquer une place.
 

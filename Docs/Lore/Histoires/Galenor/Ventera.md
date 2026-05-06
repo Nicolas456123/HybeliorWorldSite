@@ -1,13 +1,16 @@
 ﻿---
-tags: [lore, histoire, galenor]
-type: lore
-status: drafted
-last_review: 2026-05-02
+tags: [lore, histoire, galenor, ventera]
+type: histoire
+status: canon
+last_review: 2026-05-06
 needs_review_for: []
 ---
 # Histoires de Ventera
 
-> *Chaque ville a ses cicatrices. Voici celles qui ne guerissent jamais.*
+> *Chaque ville a ses cicatrices. Voici celles qui ne guérissent jamais.*
+
+> *« Le coucher suit le lever. Honorer l'un sans l'autre, c'est honorer la moitié du cycle. »*
+> *— Lyrin de Soltharis, an 174 (citée plus souvent qu'attribuée).*
 
 ---
 
@@ -96,3 +99,57 @@ Le cheval ne broncha pas une seule fois.
 "Comment ?" demanda un eleve.
 
 "Patience," dit Mira. "La meme patience qu'il m'a fallu pour accepter de ne plus courir."
+
+---
+
+## Myrkis — « Les Cairns qui Marchent »
+
+Les gardiens de cairns de Myrkis tiennent un registre depuis trois générations. Position, date, déplacement. Aucune cause connue. Quand un cairn marcheur est repéré, on note ; quand il revient, on note. C'est un travail patient.
+
+Vela, la gardienne actuelle, a soixante-huit ans. Elle a hérité du registre de sa mère, qui l'avait hérité du sien. Elle a noté, pendant cinquante ans, exactement *six cent quarante-deux* déplacements significatifs. La majorité (environ quatre-vingts pour cent) revient à la position d'origine en une à trois semaines. Le reste reste déplacé, ou se déplace encore.
+
+Vela a remarqué une chose qui n'est pas dans le registre — qu'elle n'a pas pu inscrire parce qu'elle ne saurait pas comment la formuler : *les cairns qui ne reviennent pas* ont presque toujours bougé dans une direction. Pas n'importe laquelle. Vers le sud. Toujours vers le sud.
+
+Le sud, à Astralor, est la direction des **terres non cartographiées** où trois cavaliers de Kryndor ont disparu, où aucune caravane ne s'aventure, où la règle absolue est *ne pas entrer*. Les cairns qui ne reviennent pas y vont, lentement, sur des années — comme s'ils marchaient *vers* quelque chose.
+
+Vela en a parlé une fois, à une jeune gardienne en formation. La jeune gardienne a posé la question évidente : *« Mais qu'est-ce qu'il y a au sud ? »* Vela a répondu : *« Si je savais, je n'aurais pas besoin de noter. »*
+
+Elle continue de noter. Le registre, à sa mort, sera transmis à la jeune gardienne. Celle-ci continuera de noter à son tour. Aucune génération n'a, jusqu'ici, *suivi* un cairn pour voir où il va. Personne n'envisage de le faire. Vela elle-même a, dans ses notes les plus privées, écrit une fois : *« Un cairn marche depuis ma jeunesse. Il a gagné quarante mètres en cinquante ans. Il en a, peut-être, encore quatre cents à parcourir. Je n'en verrai pas la fin. C'est précisément ce qui me permet de noter. »*
+
+---
+
+## Astralon — « Les Arches Calculées »
+
+Astralon, la cité des étoiles, abrite onze arches de pierre disposées en cercle autour d'un plateau d'observation. Chaque arche est orientée pour cadrer une constellation précise à un moment précis de l'année. La fonction astronomique précède la fonction religieuse — c'est l'une des rares villes ventériennes où les pierres sont strictement sédentaires.
+
+Soltir, Maître des Arches, a soixante-treize ans. Il connaît chaque arche, chaque azimut, chaque date. Sa famille a été Maîtres des Arches pendant huit générations. C'est sa fierté.
+
+Ce que Soltir n'a jamais dit publiquement, c'est que **deux arches ne fonctionnent plus**. Les constellations qu'elles cadraient ont *bougé* — la précession astronomique, sur deux millénaires, les a décalées d'environ deux degrés. Le cadrage n'est plus exact. Pour la majorité des observateurs, la différence est imperceptible. Pour Soltir, qui aligne les pierres au demi-degré, c'est une humiliation.
+
+Il pourrait corriger les arches — déplacer les pierres, refaire l'orientation. Cela demanderait des années de travail. Il pourrait l'admettre — déclarer publiquement que les arches étaient justes il y a deux mille ans et ne le sont plus. Cela demanderait une réforme doctrinale.
+
+Il ne fait ni l'un ni l'autre. Il *recalibre tacitement* — comme les Stellaris de Seraphia, comme les Lecteurs de Caeloria, comme tous les serviteurs des Tables fixées qui savent qu'elles ne le sont plus. Il ajuste légèrement les annonces officielles. Il décale les fêtes liturgiques d'un jour, parfois deux. Personne ne le remarque. Personne ne demande.
+
+La Recalibration Tacite des arches d'Astralon n'a pas le nom qu'elle a à Seraphia. Mais c'est la même pratique. C'est aussi la même perte — un dispositif religieux qui ne peut plus admettre ses propres ajustements accumule une dette de vérité que rien ne peut solder.
+
+Soltir mourra, son fils prendra la suite, recalibrera à son tour, et continuera de feindre que les arches sont intactes. Quelqu'un, un jour, refusera ce mensonge. Ce ne sera pas dans cette génération.
+
+---
+
+## Kryndor — « Les Cavaliers qui ne Reviennent Pas »
+
+Kryndor est le dernier village avant les terres non cartographiées du sud. La règle absolue : *les cavaliers de Kryndor escortent les caravanes jusqu'à la frontière, et reviennent*. Ils ne traversent jamais.
+
+Trois cavaliers, dans l'histoire récente, ont brisé la règle.
+
+Le premier — Vendris, fils du chef de l'an 198 — pensait prouver que la règle était une superstition. Il traversa au printemps. Il revint à l'automne. Il refusa de décrire ce qu'il avait vu. Il but jusqu'à sa mort, deux ans plus tard.
+
+Le deuxième — Tessana, jeune cavalière de l'an 222 — voulait *aller voir*. Elle ne revint pas. Les cavaliers de Kryndor envoyés à sa recherche revinrent bredouilles : pas de cadavre, pas de monture, pas de traces. La rumeur veut qu'ils aient cherché trois jours, ce qui est court pour une recherche normale. Ils ont admis, plus tard, qu'ils n'avaient pas cherché trop avant : à un moment, leurs propres chevaux ont *refusé* de continuer.
+
+Le troisième — Aldric, vieux cavalier vétéran de l'an 247 — savait ce qu'il faisait. Il avait soixante-quatre ans, deux enfants adultes, une vie réussie. Il partit en disant simplement à sa femme : *« Je veux savoir. »* Elle ne tenta pas de l'en empêcher. Il revint deux mois plus tard. Sa femme l'attendait à la lisière du village.
+
+Il l'embrassa. Il dit : *« Tu avais raison de me laisser partir. Tu as eu tort de m'attendre. »* Il s'enferma dans leur maison pendant trois jours. Il en sortit, alla aux écuries, sella son cheval, et reprit la route du sud — cette fois sans rien dire à personne.
+
+Sa femme garda sa promesse non-formulée et ne le suivit pas. Elle vit encore à Kryndor en l'an 252. Elle a soixante-cinq ans. Elle ne s'est pas remariée. Quand un voyageur de passage lui demande, par maladresse, si elle attend toujours son mari, elle répond : *« Non. Je ne l'attends plus. Je continue, c'est tout. »*
+
+C'est, à Kryndor, l'équivalent ventérien le plus pur de la Charge mature au sens du cadre — une vertu sans nom, sans gloire, sans pathos. Continuer, simplement, sans attendre.

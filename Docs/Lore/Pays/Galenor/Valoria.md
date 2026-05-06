@@ -1,14 +1,20 @@
 ﻿---
-tags: [lore, pays, galenor]
-type: lore
-status: drafted
-last_review: 2026-05-02
+tags: [lore, pays, galenor, valoria]
+type: nation
+status: canon
+last_review: 2026-05-06
 needs_review_for: []
 ---
 # Valoria — La Confédération du Sang et de l'Acier
 
 > *« Nous ne prions pas les dieux à genoux. Nous les honorons debout, l'arme au poing et le nom de nos ancêtres sur les lèvres. »*
 > — Seigneur de Guerre Kaeldar, Thane du clan Teldar
+
+> *« Nous nous tuons pour les mêmes choses depuis deux cents ans. Nous n'avons rien appris. »*
+> — Neld de Thalindor, *Archives du Sang*, an 248
+
+> *« La pierre tient, les bâtisseurs finissent. »*
+> — Inscription anonyme gravée sur des éclats des Marches Mortes (Lex Petra), interdite à Valoria, copiée néanmoins
 
 ---
 
@@ -49,6 +55,32 @@ C'est alors que **Valtheria la Forgée** — une guerrière du clan Teldar, rép
 L'armée unifiée repoussa la horde dans les montagnes lors de la **Bataille du Col de Fer**, une victoire sanglante qui coûta la vie à un tiers des guerriers valoriens. Valtheria, blessée mais vivante, fonda la **Confédération des Clans** : chaque clan conserverait son autonomie, mais un **Conseil des Thanes** se réunirait pour faire face aux menaces communes.
 
 Valtheria fonda la capitale qui porte son nom — Valtheria — et son clan, les Teldar, fut reconnu comme le premier parmi les égaux. Cette prééminence, contestée mais jamais renversée, perdure aujourd'hui.
+
+### La Codification du Sang (an 50 — encore en cours)
+
+Ce que les chants valoriens ne célèbrent pas, c'est ce que la Confédération a *fait des codes martiaux* après Valtheria. Les premiers Thanes héritiers ont entrepris de **fixer** les règles du Holmgang (duel rituel), du Raid de Gloire, du Serment de Pierre, des successions claniques, des dépouilles partagées, des veuves, des enfants illégitimes, des esclaves de guerre, des prisonniers, des otages, des messagers, des fêtes de clan, des deuils, des mariages mixtes inter-clans, des reniements, des excommunications, des bannissements.
+
+Le **Code des Thanes** — qui n'est pas un texte unique mais un corpus oral transmis par les *Gardiens de la Mémoire* (prêtres du Foedus Animae) — a fini par couvrir, à l'an 251, près de mille cinq cents articles. Aucun n'est écrit. Tous sont mémorisés. Les Gardiens connaissent le Code mieux que les Thanes ; les Gardiens *sont*, en pratique, les régulateurs réels du pays. Ils ne décident pas — ils *récitent*. Mais ce qui est récité fait loi, et ce qui n'est pas récité n'existe pas.
+
+Cette codification a été fonctionnelle : elle a permis à Valoria de tenir près de deux mille ans sans guerre civile généralisée (les conflits inter-claniques restent des affaires locales). Elle a aussi *figé* le pays. Le Holmgang fixe la résolution des conflits ; les Holmgang se répètent ; les *raisons* des Holmgang se répètent. Le pays se duelle pour les mêmes choses depuis des siècles, et appelle cela *tradition*.
+
+L'historien **Neld de Thalindor** (an 196-251) a, en l'an 248, publié une analyse compilant deux cents ans d'archives de duels (les Holmgang étant, par exception, *consignés* dans des registres de pierre tenus par les Gardiens locaux). Sa conclusion : *« Nous nous tuons pour les mêmes choses depuis deux cents ans. Nous n'avons rien appris. »* La publication a circulé dans toutes les familles de Valoria. Elle n'a rien changé doctrinalement — la tradition du Holmgang est trop enracinée pour être abrogée. Mais le nombre de duels à Thalindor, depuis dix ans, a baissé de quarante pour cent. Pas parce que les Valoriens sont devenus plus sages ; parce que beaucoup d'entre eux ont *honte* de répéter ce que leurs ancêtres ont déjà fait. C'est, à l'échelle valorienne, une révolution silencieuse.
+
+### L'Instrumentalisation Clanique
+
+Ce qui rend Valoria difficile à voir clairement — y compris pour ses habitants — c'est que **le clan, en tant qu'institution, traite chaque membre comme un instrument du clan**. Cette instrumentalisation est entièrement *gentille* dans la plupart des cas : on aime les siens, on les défend, on les nomme, on les enterre. Mais le but final n'est jamais le sien. C'est le clan.
+
+Un guerrier de Teldar qui voudrait s'établir à Kharazir, épouser une Kharaziri, élever ses enfants hors du clan — *peut* le faire. Personne ne l'arrêtera. Mais il sera *renié*. Pas hai — renié. Effacé du Foedus Animae local. Privé de sa part d'os ancestral. Son nom rayé des litanies. Cette excommunication clanique est, dans l'expérience valorienne, plus terrible que la mort, parce qu'elle empêche la persistance dans le Pacte des Âmes (cf. religion *Foedus Animae* — Instrumentalisation enfoncée selon sa fiche).
+
+Le clan promet : *« si tu sers, nous te garderons après ta mort »*. Si tu ne sers pas, nous *t'oublions*. Le mécanisme est élégant ; il est aussi exactement l'instrumentalisation au sens du cadre — l'âme est un *moyen* de continuité du clan, jamais une *fin* en elle-même.
+
+Les **Sans-Sang** (ceux qui ont fui l'Épreuve du Sang à 14 ans) sont l'incarnation visible de cette instrumentalisation. Ils ne sont pas tués ; ils sont *réduits* (tâches serviles, mariage interdit, vie courte par épuisement). Le pays a besoin d'eux pour les corvées qu'aucun guerrier n'accepterait. Personne ne le formule ainsi. La doctrine officielle dit que les Sans-Sang sont *« déchus »* — ils ont choisi leur sort. La pratique économique dit que sans Sans-Sang, Valoria ne tient pas.
+
+### La Pierre Noire de Valtheria
+
+Sous la Pierre de Valtheria — bloc sacré sur lequel la fondatrice prêta le premier serment — une **autre pierre** est enterrée. Noire, lisse, froide même en été. Les Gardiens de la Mémoire les plus anciens connaissent son existence. Ils jurent que Valtheria la Forgée elle-même l'a placée là en ordonnant qu'on ne la déterre *« que lorsque la dernière guerre commencera »*.
+
+Aucun Gardien ne sait ce que cela signifie. Aucun Thane ne souhaite le découvrir. La Pierre Noire est, à l'échelle de la nation, l'équivalent de la carte d'Etheira à Solena : *quelque chose de fondateur dont l'avertissement est gardé scellé*. Les deux nations partagent, sans le savoir, une posture identique — *notre fondatrice savait quelque chose de plus grand que nous, et nous avons préféré ne pas l'écouter*.
 
 ---
 
@@ -107,6 +139,15 @@ La cuisine valorienne est fruste et nourrissante : viande de gibier rôtie sur f
 ### Architecture
 
 Les Valoriens construisent pour la guerre et l'éternité : forteresses de pierre massive, murailles cyclopéennes, tours de guet austères. Pas d'ornement, pas de beauté superflue — chaque pierre a une fonction. Les maisons des guerriers sont des bâtisses carrées et trapues, conçues pour résister aux assauts et aux hivers. Les seules décorations sont les crânes d'animaux et d'ennemis vaincus accrochés aux linteaux des portes.
+
+### Biais culturels
+
+- **Le Holmgang comme conversation.** Pour un Valorien, *être défié en duel* est une marque de respect ; *ne jamais l'être* est une marque d'invisibilité. La pression sociale pousse les jeunes guerriers à *provoquer* — les anciens, à *accepter*. Ce mécanisme entretient la violence et la dignité simultanément. C'est très exactement ce que Neld de Thalindor a documenté.
+- **L'oubli sélectif.** Les *bons* guerriers sont chantés. Les *bons* duels sont consignés. Les fuyards, les Sans-Sang, les femmes non-guerrières mortes en couches, les enfants morts d'épuisement aux mines de Thyndrel — n'apparaissent pas dans les registres oraux des Gardiens. Ils sont *oubliés à voix haute*. C'est une politique de la mémoire, pas un accident.
+- **L'honneur du serment.** Un Valorien tient parole comme une roche tient un mur. Cette qualité est réelle, et elle fait la force du pays dans les négociations diplomatiques où d'autres parjurent allègrement. Elle est aussi une cage : un Valorien qui s'est lié par serment ne peut plus changer d'avis sans déshonneur, même si les circonstances changent. La promesse, à Valoria, ne s'adapte pas — c'est elle qu'on adapte à ses dépens.
+- **Le rapport à Trinoria.** La Bataille des Mille Flèches est, à Valoria, une humiliation entretenue. Les jeunes guerriers s'entraînent *contre Trinoria*. Les vieux racontent les mille flèches comme on raconte une morsure jamais guérie. Cette rancœur est culturellement utile — elle donne un *Tranchant* fonctionnel au pays. Elle l'empêche aussi de regarder ses propres blessures internes.
+- **Le mépris militaire pour Lumasar et Seraphia.** *« Des chanteurs, des rêveurs, des dessinateurs. »* Cette caractérisation, partagée à Valoria, dispense de prendre au sérieux ce qu'il pourrait y avoir à apprendre des deux nations. Le respect mutuel avec Ventera (*« cavaliers et guerriers se reconnaissent »*) compense partiellement ce mépris.
+- **L'ouverture d'Astraneth.** La forteresse d'Ethrion est *l'exception structurelle* de Valoria : portes ouvertes le jour, marché étranger, Thane diplomate. Cette exception ne change pas le pays — elle le ventile. Astraneth est, de fait, le poumon par lequel Valoria respire ce qu'elle ne peut pas dire ailleurs. Veldris l'Ancien, son Thane, le sait.
 
 ---
 
@@ -281,3 +322,54 @@ Total : **14 villes/villages** réparties sur **4 régions**.
 | Astraneth | Ethrion | Ville |
 | Vyrndel | Ethrion | Village |
 
+---
+
+## Cadre interne — Patterns
+
+> Encadré technique réservé aux rédacteurs et agents travaillant le Lore. N'apparaît jamais in-world.
+
+**Piège Institutionnel dominant : L'Âge de la Loi figée, doublé de l'Instrumentalisation.**
+
+1. **Loi figée martiale et juridique** (piège primaire). Le Code des Thanes (mille cinq cents articles oraux) régit chaque aspect de la vie clanique. Aucun article ne s'abroge ; ils s'*ajoutent*. Le Holmgang fixe la résolution des conflits, mais les conflits se répètent — ce que Neld a documenté. La Lex Petra, religion principale, est *enfoncée* dans la Loi figée selon sa fiche : *« la doctrine officielle interdit l'interrogation des codes ; elle les applique »*. Valoria en est l'incarnation civile parfaite.
+
+2. **Instrumentalisation clanique** (piège secondaire, structurel). Le clan promet la persistance dans le Foedus Animae *à condition de servir*. Renier le clan = perdre l'éternité. Les Sans-Sang sont réduits aux corvées en sanction de leur fuite. Les Gardiens de la Mémoire codent qui est rappelé et qui est oublié. Le clan, en tant qu'institution, traite chaque âme comme un *moyen* de continuité — exactement la définition de l'Instrumentalisation au sens du cadre. La doctrine officielle parle de *« devoir »* et de *« lignée »* ; jamais d'instrumentalisation.
+
+**Cohérence avec les religions :**
+- *Lex Petra* (Loi figée enfoncée, cf. fiche) : Valoria en est l'incarnation institutionnelle. Le serment sur pierre, la Pierre Ancestrale, le Jugement de Pierre — tout est petranien. Karelya (figure mentionnée dans la fiche Lex Petra) est l'antécédent doctrinal des figures valoriennes contemporaines de Loi-touchant-au-Sablier.
+- *Foedus Animae* secondaire (Instrumentalisation, cf. fiche) : Valoria est aussi son incarnation institutionnelle. La double présence de deux religions dans l'Instrumentalisation et la Loi figée explique pourquoi Valoria est si solidement piégée — il n'y a pas, dans son paysage religieux, de contre-poids doctrinal.
+
+**Âge moral collectif majoritaire : La Loi.** Cas extrême. Les Valoriens ordinaires (guerriers, forgerons, bergers) appliquent les codes avec une ferveur qui n'est même pas remise en question. Le Désir affleure chez les jeunes guerriers ambitieux (Theron de Teldar). Le Principe est rarissime — Bren l'aîné qui refusa l'héritage, Aldra Vorn la juge, Kela du clan Ryth, Neld de Thalindor.
+
+**Figure-clé portant la Vertu Cachée :**
+
+**Neld de Thalindor** (an 196-251). Historien des Holmgang. A passé sa vie à compiler les archives orales et lithiques des duels valoriens. A publié, en 248, *Archives du Sang*, qui démontre que les raisons des duels se répètent depuis deux siècles. Mort de vieillesse en 251, à 55 ans (jeune pour Valoria, vieux pour un homme qui a passé sa vie penché sur des registres). Pas de funérailles publiques. Son livre est désormais lu dans les écoles de Valoria — non comme thèse, mais comme *exemple d'observation rigoureuse*, ce qui est une manière polie de neutraliser sa portée critique.
+
+**Vertu portée :** **Le Voile** (Vertu #2). Neld a *douté* de ce que sa nation prétendait savoir sur elle-même. Il n'a pas dénoncé — il a *compté*. Sa rigueur scientifique est, en filigrane, un acte de Vertu : il a refusé de croire les chants, il a regardé les registres. Sa découverte est gratuite — elle ne lui a apporté ni honneurs (un historien n'a pas de Champion), ni descendance (il est mort sans enfants), ni postérité claire (son livre a été *intégré* à la culture sans être *appliqué*). Il a, au sens propre, affleuré une Vertu sans la nommer.
+
+**Mort marquante** : Neld meurt seul dans la maison qu'il s'était fait bâtir à Thalindor, entouré des registres qu'il n'a pas terminé d'analyser. Une voisine le trouve. Un Gardien de la Mémoire vient prendre les registres en garde. *Archives du Sang*, son livre publié, est conservé à Thalindor comme curiosité ; aucune édition n'a été faite hors de Valoria. Le pays, à sa manière, l'a digéré — il a admis ses observations sans en tirer la conclusion.
+
+**Figures-clés secondaires :**
+
+- **Aldra Vorn de Valtheria** (juge, *Histoires* — *Le Juge et l'Accusation Impossible*) — porte **La Charge** (Vertu #1). Assume le poids d'un verdict qui ne peut satisfaire personne. Pas de gloire ; le pays continue ses Holmgang.
+- **Bren du clan Valth (Selvorn)** (*Histoires* — *L'Héritier qui Refusa l'Héritage*) — porte **Le Voile** dans une variante : doute de ses propres capacités à un titre, agit en conséquence. Mort à 62 ans, sans titre, *« Bras droit »* gravé sur sa tombe. Pas un héros — un homme qui a su sa place.
+- **Kela du clan Ryth (Bryndor)** (*Histoires* — *La Bataille qui N'eut Pas Lieu*) — porte **Le Tranchant** (Vertu #4). A su *refuser* la guerre rituelle. La colline qu'elle a partagée s'appelle aujourd'hui *« la Colline du Bon Sens »* — nom *non flatteur*, comme le note l'Histoire. Cohérent avec le cadre : la vertu n'est pas honorée.
+- **Veldris l'Ancien d'Astraneth** (Thane d'Ethrion, mentionné en cités) — porte une **bascule partielle vers le Principe** : sa politique des portes ouvertes hérite d'un grand-père qui avait passé deux ans prisonnier à Kharazir. Il représente le contre-poids structural à la fermeture clanique. Sa figure est *contestée* à Valoria même.
+
+**Conflit moteur de la nation :**
+
+**La tension entre la Tradition et l'Apprentissage.** Valoria *sait* — par Neld, par les Histoires, par le proverbe lithannien clandestin — qu'elle se répète. Mais sa structure même (Code des Thanes, Foedus Animae, Holmgang) lui interdit d'apprendre, parce qu'apprendre supposerait *abroger*, et que les codes ne s'abrogent pas. Le pays est dans une boucle visible (du moins par les Petrani lucides comme Karelya il y a des siècles, et par les historiens contemporains comme Neld) et *non sortable*. La Pierre Noire de Valtheria — qui parle d'une *« dernière guerre »* — est, dans cette lecture, une prophétie discrète : Valoria finira parce qu'elle ne peut pas changer.
+
+**Ce qui est *spécifiquement* valorian (à ne pas dupliquer ailleurs) :**
+
+- La Pierre Noire sous la Pierre de Valtheria (avertissement scellé de la fondatrice).
+- Les Bêtes de Pierre de Voldenor (menace fondatrice qui n'a jamais été éliminée — repoussée mais latente).
+- L'Ossuaire Interdit de Mytzar (objet de Foedus Animae aux limites — peut-être *non humain*).
+- Le Code des Thanes oral à 1500 articles.
+- La distinction *Sans-Sang* (catégorie d'exclusion par échec de l'Épreuve à 14 ans).
+- L'ambiguïté de l'ouverture d'Astraneth comme exception structurelle.
+
+**Ratio brisé / relevé pour Valoria** : pour chaque figure du Principe (Neld, Aldra, Bren, Kela, Veldris partiel), prévoir 4-6 figures de la Loi *honorables* (Kaeldar le Haut-Thane massif et taciturne, Champions des clans, Gardiens de la Mémoire dévoués, mineurs de Thyndrel courageux, bergers de Kaeldor stoïques). La force valorienne est *réelle* ; la dignité aussi. Le piège n'est pas dans la rudesse — il est dans la doctrine que la rudesse n'a rien à apprendre.
+
+---
+
+*Liens : [[Histoires/Galenor/Valoria|Histoires de Valoria]] | [[Religions/Lex Petra|Lex Petra]] | [[Religions/Foedus Animae|Foedus Animae]] | [[Galenor - Continent]]*

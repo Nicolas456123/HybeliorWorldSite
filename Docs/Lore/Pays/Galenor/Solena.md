@@ -1,14 +1,20 @@
 ﻿---
-tags: [lore, pays, galenor]
-type: lore
-status: drafted
-last_review: 2026-05-02
+tags: [lore, pays, galenor, solena]
+type: nation
+status: canon
+last_review: 2026-05-06
 needs_review_for: []
 ---
 # Solena — L'Empire des Horizons
 
 > *« La mer ne nous appartient pas. Nous lui appartenons. Et elle nous a appris que derrière chaque horizon se cache un autre horizon. »*
 > — Amiral Etheira la Grande, fondatrice de la flotte de Solena
+
+> *« Retournez. »*
+> — Annotation finale de la carte interdite d'Etheira la Grande, Guilde des Cartographes, Oranthor
+
+> *« Ceux qui font les voiles ne sont pas ceux qui naviguent. »*
+> — Oswin de Thalnor (qui n'est pas solénien — mais dont la phrase a été reprise par les ouvriers d'Yltheris contre les familles amirales)
 
 ---
 
@@ -47,6 +53,24 @@ L'Âge des Explorations enrichit prodigieusement Solena. Les familles de navigat
 Le pouvoir attire la convoitise, et l'oligarchie solénienne ne fut pas épargnée. Trois familles maritimes — les Oranthor, les Vyndral et les Myrathis — se disputèrent le contrôle des routes commerciales dans un conflit naval connu comme la **Guerre des Marées**. Pendant cinq ans, les flottes soléniennes s'entre-déchirèrent, détruisant plus de navires qu'aucun ennemi étranger ne l'avait jamais fait.
 
 La paix vint d'un accord pragmatique : les trois familles se partagèrent les routes commerciales et fondèrent le **Conseil des Amiraux**, un gouvernement collégial où chaque grande famille dispose d'un siège. Le Conseil des Amiraux persiste à ce jour, élargi à sept familles, mais les rivalités sous-jacentes n'ont jamais disparu.
+
+### L'Expulsion Tetramor (an 130, effacée des registres)
+
+L'élargissement du Conseil de trois à sept familles a une histoire que Solena préfère ne pas raconter. Sept *autres* familles — au nombre desquelles **les Tetramor** — étaient candidates. Six furent admises. La septième — Tetramor — fut **expulsée**, leur siège ré-attribué, leurs biens confisqués, leur nom gratté des registres officiels. La cause précise n'apparaît dans aucune archive accessible. Les indices recoupés (par les rares érudits qui s'en sont préoccupés, dont un cartographe étranger nommé Sorin Valthen lors de son passage à Oranthor en l'an 251) suggèrent que les Tetramor avaient *publié* — au sens d'avoir rendu accessibles à des marins ordinaires — des relevés cartographiques que les six autres familles voulaient garder en secret commercial. Le crime des Tetramor n'était pas la concurrence ; c'était la *transparence*.
+
+Les descendants des Tetramor vivent encore, croit-on, dans l'archipel de Tetramis (qui porte leur nom — c'est l'unique trace officielle qui ait survécu). Le village de **Nydris** abrite, selon les rumeurs des plongeurs de **Falnor**, des familles qui *« savent »* depuis cinq générations sans plus prétendre revendiquer quoi que ce soit. Aucune action politique ; aucune menace pour le Conseil. Juste une mémoire entretenue dans des langues que personne d'autre ne parle.
+
+C'est, à l'échelle solénienne, l'incarnation de ce qu'est le Conseil aujourd'hui : *un dispositif qui a effacé les voix qui menaçaient son monopole sur l'horizon, et qui prétend ensuite que l'horizon est libre*.
+
+### La Carte Interdite d'Etheira (an 174 — toujours scellée)
+
+L'Amiral Etheira la Grande — fondatrice mythique du pays, navigatrice qui circumnavigua le continent — entreprit un dernier voyage à 67 ans, en l'an 174. Elle revint quinze mois plus tard, seule sur un canot, son navire et son équipage perdus. Elle se présenta directement à la Guilde des Cartographes, déposa une carte qu'elle avait dessinée pendant le voyage de retour, demanda qu'elle soit **scellée**, et mourut trois semaines plus tard d'une infirmité que les soigneurs n'identifièrent pas.
+
+La carte montre une terre au-delà des océans connus, à l'ouest de Vesperilia, aux confins des courants permanents. Elle est annotée d'un seul mot, écrit de la main même d'Etheira : *« Retournez. »*
+
+La Guilde a respecté son vœu. La carte est dans un coffre scellé sous le Palais des Amiraux. Aucun copiste n'y a accédé. Aucune expédition n'a été envoyée vérifier. C'est, à Oranthor, **le seul cas connu où Solena a accepté de ne pas partir**.
+
+Cette acceptation est, à l'échelle de la culture solénienne, philosophiquement énorme. Elle est, en pratique, contournée chaque jour : les jeunes capitaines de Vyndralith continuent de partir vers l'ouest, ignorant ou méprisant l'avertissement, et certains ne reviennent pas. Le Conseil des Amiraux, lorsqu'on lui demande pourquoi il ne publie pas la carte d'Etheira, répond invariablement que *« la fondatrice a demandé qu'elle reste scellée »*. Ce qui est vrai. Et qui dispense de la question : *pourquoi a-t-elle écrit Retournez ?*
 
 ---
 
@@ -103,6 +127,14 @@ La cuisine solénienne est maritime : poissons grillés au sel de mer, crustacé
 ### Architecture
 
 Les villes soléniennes épousent le littoral : bâtiments de pierre et de bois tournés vers la mer, quais omniprésents, entrepôts massifs, phares qui dominent les toits. Les maisons sont compactes et résistantes aux tempêtes, avec des fenêtres étroites et des toits pentus. La couleur dominante est le bleu — bleu de mer sur les volets, bleu de ciel sur les murs.
+
+### Biais culturels
+
+- **L'horizon comme valeur cardinale.** Pour un Solénien, *partir* est plus noble qu'arriver. Plus prestigieux que rester. Cette norme produit une compétence de navigation inégalée, et une difficulté chronique à *finir*. Les chantiers d'Yltheris excellent à construire des navires ; les charpentiers de Brethenor excellent à construire des barques destinées à brûler. La culture matérielle solénienne ne tient pas en place.
+- **Le mépris des Terriens.** Les fermiers et artisans non-marins (Felwyn salins, Yltheris artisans navals — qui sont mi-marins en pratique) sont *« nécessaires mais peu considérés »*. La hiérarchie est intériorisée jusque chez les Terriens eux-mêmes, qui s'excusent presque de leur condition. Le mépris est suffisamment doux pour ne pas être une cruauté ; suffisamment constant pour façonner les destins.
+- **Le silence sur ce qui ne revient pas.** Solena perd des navires. Beaucoup. Les statistiques exactes ne sont jamais publiées. Les pertes maritimes sont inscrites dans des registres internes des Capitaines de Port, classés *Annexe Tempête* ou *Annexe Inconnue*. Les familles des disparus reçoivent une compensation et une cérémonie privée. Le pays ne fait pas de monument aux marins perdus. *« Ils sont partis. La mer a décidé. »* Cette phrase, qui sonne comme une sagesse, est aussi un classement administratif particulièrement efficace.
+- **Le principe d'éternité familiale.** Les sept familles amirales fonctionnent comme si elles allaient durer toujours. Les rituels de transmission sont anciens, les emblèmes immuables, les généalogies tenues à jour avec une précision qu'une noblesse continentale jalouserait. Les Tetramor — l'unique exemple d'extinction politique de famille amirale — ont été effacés *précisément pour pouvoir continuer à dire que les familles durent*. La Loi du Sablier est, à Solena, refoulée avec une ferveur particulière.
+- **L'amour pour Lumasar, la rivalité avec Ventera, le dédain pour Kharazir.** Solena admire Lumasar comme une sœur intellectuelle (Solena rapporte les artefacts, Lumasar les étudie — chacun y trouve son compte). Avec Ventera, c'est l'animosité des frères qui se ressemblent (caravaniers / marins, mêmes plateaux ciel-bas, mêmes plateaux secs). Pour Kharazir, le dédain est tranquille : Solena considère que Kharazir n'a pas vraiment compris ce qu'est commercer (Kharazir échange ; Solena *transporte*).
 
 ---
 
@@ -295,3 +327,54 @@ Total : **16 villes/villages** réparties sur **5 régions**.
 | Nydris | Tetramis | Village |
 | Falnor | Tetramis | Village |
 
+---
+
+## Cadre interne — Patterns
+
+> Encadré technique réservé aux rédacteurs et agents travaillant le Lore. N'apparaît jamais in-world.
+
+**Piège Institutionnel dominant : L'Effacement de la Limite, adossé à un Déni du Sablier.**
+
+1. **Effacement de la Limite ventarien-solénien** (piège primaire). La *Via Ventus*, religion principale, est dans le piège (cf. fiche religion : *« Effacement de la Limite, en lutte interne contre une vraie discipline du refus »*). À Solena, ce piège prend la forme suivante : aucun horizon n'est jamais le bon, donc aucun n'est *non*. *Toute* destination vaut. Toute marchandise vaut. Toute famille amirale vaut (sauf les Tetramor, mais les Tetramor sont désormais fictifs administrativement). Cette équivalence est la condition d'un commerce permissif et d'une exploration permanente. Elle est aussi ce qui a vidé Solena de toute capacité à dire que *quelque part, il faudrait s'arrêter*.
+
+2. **Déni du Sablier oligarchique** (piège secondaire, structurel). Les sept familles amirales se conçoivent comme éternelles. Les pertes maritimes sont occultées. Les Tetramor sont effacés. La carte d'Etheira est scellée. Tout ce qui rappellerait que *les empires finissent*, *les familles s'éteignent*, *les voyages ne reviennent pas*, est traité par dispositif administratif (annexe, classement, scellement). Solena vit comme si sa fondation était une promesse de durée, pas un commencement avec sa propre fin.
+
+**Cohérence avec les religions :**
+- *Via Ventus* (Effacement, cf. fiche) : Solena en est l'incarnation civile. Les Ventari de la Coupe (Tranchant authentique) sont marginaux ici — ils sont les Capitaines des familles minoritaires, les vieux navigateurs comme Elva Morn (cf. *Histoires*) qui *renoncent* aux honneurs pour reprendre la mer une dernière fois. Les Ventari du Souffle Continu (dilution) sont, eux, dominants.
+- *Ordo Caelum* secondaire (Loi figée) : utilisée par les navigateurs comme outil pratique (lecture des étoiles), sans engagement doctrinal profond. À Solena, l'Ordo Caelum est un instrument ; à Seraphia, c'est une religion. La différence est instructive.
+
+**Âge moral collectif majoritaire : Le Désir, glissant vers la Loi.** Les Soléniens ordinaires (marins, marchands) agissent largement par recherche de l'opportunité, du profit, de la prochaine cargaison. C'est une nation où le Désir est la norme — ce qui la distingue des autres nations galenoriennes plus solidement dans la Loi. La Loi y arrive surtout par les institutions (Conseil des Amiraux, Guilde des Cartographes, Capitaines de Port). Le Principe est rarissime.
+
+**Figure-clé portant la Vertu Cachée :**
+
+**Brun d'Elyanor** (an 178-244, négociant, *Histoires*). A causé indirectement la mort de trente marins par négligence professionnelle (cargaison utilisée pour des navires inadaptés). A consacré le reste de sa vie — quarante ans — à vérifier *jusqu'au bout des conséquences* chaque contrat qu'il négociait. A refusé des contrats lucratifs. Est mort relativement pauvre. Sa tombe porte les trente noms des marins morts.
+
+**Vertu portée :** **La Charge** (Vertu #1). Brun a assumé la responsabilité de *ce qu'il n'était pas censé contrôler* (l'usage final de ses cargaisons). Cette assomption est gratuite — la profession n'exigeait rien d'elle. Elle a coûté. Elle ne lui a rien apporté. Sa famille, après sa mort, a fait graver les noms des morts sur sa propre tombe — non pour le justifier, mais pour témoigner qu'il *n'avait pas oublié*.
+
+**Mort marquante** : Brun meurt à 66 ans d'épuisement chronique, sans cérémonie publique. Le Conseil des Amiraux n'envoie pas de représentant à ses funérailles. La phrase gravée par sa famille — *« Pas pour qu'on l'accuse. Pour qu'on se souvienne qu'il se souvenait »* — est, en filigrane, l'antithèse exacte de la culture solénienne du silence sur les pertes. Elle n'est pas commentée publiquement. Elle est, par certains marins de Boralis, *recopiée* discrètement sur des planchettes glissées dans leurs sacoches de voyage.
+
+**Figures-clés secondaires :**
+
+- **Elva Morn d'Oranthor** (capitaine, *Histoires*) — bascule entre **Le Tranchant** (refus des honneurs, choix d'enseigner) et un **Désir profond** (repartir à 60 puis à 72 ans). Sa figure est ambiguë — elle illustre que la Vertu peut être *imparfaite* et continuer à valoir.
+- **Sela de Nythor (Ventera frontière)** : pour mémoire — Sela n'est pas solénienne, mais sa décision (suivre le cheval pour retrouver son mari) est l'image-miroir de ce que Solena ne fait *pas* avec ses disparus. Comparaison utile en marge.
+- **Seld d'Yltheris** (gardien de phare, *Histoires*) — porte **La Charge** héréditaire. Pas dramatique — domestique. Pose les pieds dans le quotidien de la fidélité aux passages. Sera oublié.
+
+**Conflit moteur de la nation :**
+
+**La tension entre l'Horizon et le Retour.** Solena est tirée vers l'extérieur — explorer, partir, conquérir des routes. C'est sa nature et sa fierté. Mais quelque chose, dans sa fondation même, lui dit *retournez* (la carte d'Etheira). Cette tension n'est pas résolue ; elle est *gérée* par scellement. Tant que la carte reste scellée, la tension reste latente. Si elle est ouverte, ou si quelqu'un (Sorin Valthen ? un descendant Tetramor ? un capitaine renégat ?) confirme indépendamment ce qu'Etheira a vu, le Conseil devra trancher entre nier et reconnaître. Ni l'une ni l'autre option ne lui convient.
+
+**Ce qui est *spécifiquement* solénien (à ne pas dupliquer ailleurs) :**
+
+- L'oligarchie maritime à sept familles (six légitimes + une effacée).
+- La carte interdite d'Etheira et son injonction *Retournez*.
+- Les ruines immergées sous Oranthor (interdites de fouille par Thessara Oranthor).
+- Tetramis comme archipel-mémoire (descendants Tetramor, refus tacite).
+- Le *Caldemar* (ragoût communautaire de bord) comme image culinaire de l'agrégation maritime.
+
+**Ratio brisé / relevé pour Solena** : pour chaque figure du Principe (Brun, Elva, Seld, l'enfant de Caldoris dans les *Histoires*), prévoir 4-6 figures du Désir-vers-la-Loi *séduisantes* (Thessara Oranthor matriarche, Capitaines de Port compétents, Cartographes prestigieux, jeunes capitaines de Vyndralith ambitieux, plongeurs de Velmaris fiers). Ne jamais énoncer le piège ; le laisser dans les pertes silencieuses.
+
+> **Note pour A.4 / cohérence Sorin** : Sorin traverse Solena au chapitre 5 (*Le Port*, Solena côte). Il y rencontre **Thelorn**, le gardien du phare, qui *« allume une lumière chaque soir sans public »*. La phrase de Sorin notant cela comme *« un fait de cartographie »* — sans réaliser qu'il vient de voir une Vertu (la Charge fonctionnelle, gardien) en action — est le plus solénien des moments du voyage : *quelque chose qui mérite d'être vu, qui n'est pas vu*.
+
+---
+
+*Liens : [[Histoires/Galenor/Solena|Histoires de Solena]] | [[Religions/Via Ventus|Via Ventus]] | [[Religions/Ordo Caelum|Ordo Caelum]] | [[Galenor - Continent]]*

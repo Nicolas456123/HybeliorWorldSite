@@ -1,13 +1,16 @@
 ﻿---
-tags: [lore, histoire, galenor]
-type: lore
-status: drafted
-last_review: 2026-05-02
+tags: [lore, histoire, galenor, lumasar]
+type: histoire
+status: canon
+last_review: 2026-05-06
 needs_review_for: []
 ---
 # Histoires de Lumasar
 
 > *Chaque ville a ses cicatrices. Voici celles qui ne guérissent jamais.*
+
+> *Lumasar a institué le voir au-delà. Elle a oublié, en chemin, que regarder ce qu'on voit déjà est un travail aussi.*
+> *— Marge anonyme, archives de Drethorn, env. an 240.*
 
 ---
 

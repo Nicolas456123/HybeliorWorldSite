@@ -2,7 +2,7 @@
 tags: [lore, chronique]
 type: lore
 status: drafted
-last_review: 2026-05-02
+last_review: 2026-05-06
 needs_review_for: []
 ---
 # Chapitre 8 — Le Sang de Valoria
@@ -167,6 +167,8 @@ Il a tapé la table du poing — pas avec violence, juste pour indiquer la solid
 Je n'ai pas répondu sur le fond. J'ai bu ma bière et j'ai réfléchi à ce que c'était que de vivre dans un monde où la vérité est ce qui peut être gravé dans la roche, pas ce qui peut être effacé et réécrit selon les intérêts du plus puissant. À Kharazir, on m'avait effacé. Les pierres de Valoria ne m'auraient pas laissé effacer aussi facilement.
 
 Il y a quelque chose d'enviable là-dedans. Même si la rudesse du reste donne de quoi discuter.
+
+J'ai voulu, en sortant de la salle de Forgal, mettre des mots précis sur ma hâte de quitter Valtheria — parce que j'avais cette hâte, je la sentais dans la façon dont j'avais préparé mes affaires plus vite que nécessaire. Je n'ai pas réussi à la formuler entièrement. Le clan Teldar applique sa Loi avec une cohérence que les Bibliothèques de Kharazir ne tiennent qu'en façade — et c'est précisément cette cohérence qui me serre quelque part. Une règle qui s'applique à elle-même est plus difficile à fuir qu'une règle qui ment sur ce qu'elle est. Je n'ai pas su, ce soir-là, démêler ce qui dans mon malaise tenait au caractère étranger de Valoria et ce qui tenait à une parenté que je préférais ne pas regarder en face. J'ai écrit *enviable* parce que c'est commode. *Enviable* permet de partir.
 
 ---
 

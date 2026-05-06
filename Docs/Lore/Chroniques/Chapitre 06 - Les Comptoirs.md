@@ -2,7 +2,7 @@
 tags: [lore, chronique]
 type: lore
 status: drafted
-last_review: 2026-05-02
+last_review: 2026-05-06
 needs_review_for: []
 ---
 # Chapitre 6 — Les Comptoirs de Tyndara
@@ -77,6 +77,8 @@ J'avais répondu correctement. Il avait hoché la tête, et quelque chose s'éta
 — Ce qui revient au même, à Tyndara. Tout se monnaye. Si vous savez quelque chose que je ne sais pas, ça vaut. Si vous voulez savoir quelque chose que vous ne savez pas encore, ça coûte.
 
 Il m'avait offert un siège et une infusion — une herbe de Ryldorath, légèrement amère, qui laissait une chaleur persistante dans la gorge. Pendant deux heures, nous avions parlé cartographie, routes maritimes, méthodes de relevé. Je lui avais décrit certaines de mes cartes de Kharazir — non pas les cartes elles-mêmes, dont j'avais perdu l'accès, mais leur contenu, certaines mesures, certaines observations sur les courants côtiers du golfe. Il écoutait en prenant des notes brèves sur un carnet de cuir, et je savais que ces notes allaient alimenter quelque chose d'utile pour lui. Je n'en tirais rien de tangible. Mais j'apprenais à parler à un Tyndarien, ce qui avait sa valeur propre.
+
+Je note ici une chose qui m'a paru importante sur le moment et qui l'est moins en y revenant. Pendant ces deux heures, je me suis pris à penser que Maldrix pourrait être quelqu'un — un cartographe qui me comprendrait, un homme âgé qui me donnerait des conseils, l'aîné professionnel que je n'avais pas eu à Kharazir parce que mes supérieurs y étaient mes geôliers en puissance. Cette pensée a duré peut-être une demi-heure. Maldrix l'a écartée sans la nommer en se levant pour aller chercher un autre dossier, et en revenant en disant "je dois reprendre, j'ai un client à quatre heures". Le mot client a fait le travail. Il n'y avait pas d'aîné à trouver dans ce comptoir. Il y avait un homme qui faisait son métier et qui acceptait de m'en faire bénéficier dans la mesure exacte où cela alimentait le sien. C'est une leçon utile à apprendre, et qui ne sera utile que si je m'en souviens — ce dont je doute, à ce stade, parce que la tentation de rétablir un mentor là où je n'en ai pas est plus forte que mon scepticisme.
 
 C'est lui qui avait mentionné la Catena Fracta, le Jour 74.
 

@@ -1,8 +1,8 @@
 ﻿---
-tags: [lore, histoire, ilthara]
-type: lore
-status: drafted
-last_review: 2026-05-02
+tags: [lore, histoire, ilthara, lythar]
+type: histoire
+status: canon
+last_review: 2026-05-06
 needs_review_for: []
 ---
 # Histoires de Lythar
@@ -94,3 +94,107 @@ Quand il redescendit, ses voisins lui demanderent ce qu'il avait fait.
 La tradition du Lacher du Vent a Talmaris prevoit maintenant une deuxieme montee possible --- non pas pour un tissu, mais pour ceux qui ont besoin de plus de temps. Il n'y a pas de rituel. Juste la colline, le vent, et le temps qu'il faut.
 
 Les habitants appellent ca le Lacher Personnel. C'est souvent plus difficile que le Lacher Officiel.
+
+---
+
+## Vyrnith --- "Les Sept Nuits du Voyageur"
+
+Le voyageur arriva par un soir d'automne, seul, sans monture. C'etait inhabituel a Vyrnith --- les rares etrangers qui passaient par la tribu du Vent-Vert venaient toujours avec une caravane, jamais a pied. L'homme marchait d'un pas regulier, n'etait charge que d'un sac mince, et ne se presenta sous aucun nom.
+
+L'aubergiste de Vyrnith, Kelya, lui offrit une place pres du feu. Il accepta. Elle lui demanda d'ou il venait. Il ne repondit pas vraiment --- il dit qu'il avait marche longtemps, et que les sources chaudes lui faisaient du bien.
+
+Il resta sept nuits. Il payait en herbes seches d'une espece que personne a Vyrnith ne reconnaissait, mais qui calmait les douleurs des vieux. Il ecoutait plus qu'il ne parlait. Quand on lui demandait son metier, il disait simplement : "Je passe."
+
+La sixieme nuit, un Cavalier du Vent en mission le reconnut. Pas le visage --- le silence. "Tu es du Foedus Animae," dit le Cavalier. "Tu marches au lieu de chevaucher. Pourquoi ?"
+
+Le voyageur ne nia pas. "Parce que ce que je porte ne se transmet pas par cheval."
+
+Le Cavalier voulut en savoir davantage. L'homme refusa de prêcher. "Vos ancetres chevauchent avec vous. Les miens marchent avec moi. Ce sont les memes ancetres. C'est juste que la terre se souvient differement de chacun."
+
+La septieme nuit, il partit avant l'aube. Kelya trouva sur sa table une seule herbe seche, posee precisement, et un mot ecrit dans une langue qu'elle ne savait pas lire mais dont elle reconnaissait l'intention --- merci.
+
+Elle conserva l'herbe et le mot. Trente ans plus tard, ses petits-enfants demandent encore qui etait l'homme du Foedus Animae qui marchait au lieu de chevaucher. Personne a Vyrnith ne le sait. Le Cavalier qui l'avait reconnu mourut sans avoir transcrit la rencontre. La trace est diffuse, comme les autres traces de Lythar --- une herbe seche, un mot, une nuit ou rien d'important n'a semble se passer.
+
+---
+
+## Aetharis --- "La Course Perdue qu'On Ne Raconte Pas"
+
+A Aetharis, on dit que tout le monde sait qu'il y a eu une premiere course --- celle que Lythana perdit. On dit que tout le monde sait. Personne ne la raconte.
+
+C'est une regle non ecrite, intransmise, parfaitement respectee depuis cinq siecles. On ne parle pas des defaites a Aetharis. Pas pour les nier --- on les sait. Pas pour les surmonter --- elles n'ont pas a l'etre. Pour autre chose, qu'aucun habitant n'arrive a formuler clairement.
+
+Aldric, jeune cavalier de la tribu du Vent-Noir, ne supportait pas cette regle. Il etait orphelin de pere --- son pere etait mort lors d'une course aux confins d'Aetharia, jete bas par un coup de vent imprevu. Personne n'avait jamais raconte la course a Aldric. Pas la chute, pas l'enterrement, pas le nom du cheval. Rien.
+
+Il alla voir le doyen, Vorek, et lui demanda. Vorek le regarda longtemps. Puis il dit : "Tu veux que je te raconte la chute ou la course ?"
+
+"Les deux."
+
+"On ne raconte ni l'une ni l'autre."
+
+"Pourquoi ?"
+
+Vorek hesita, ce qui n'etait pas dans ses habitudes. Il finit par dire : "Parce qu'a Aetharis, raconter une defaite, c'est la rejouer. Et chaque fois qu'on la rejoue, on apprend a perdre une fois de plus."
+
+"Vous oubliez ?"
+
+"Non. On ne parle pas. C'est different."
+
+Aldric n'accepta pas la reponse cette nuit-la. Il fouilla les archives --- inexistantes. Il interrogea les vieux --- silencieux. Il chercha la sepulture de son pere --- non marquee, comme toutes les sepultures d'Aetharis. La regle se tenait, parfaite et impenetrable.
+
+Vingt ans plus tard, Aldric devint doyen a son tour. On lui amena un orphelin qui voulait savoir comment sa mere etait morte. Aldric ouvrit la bouche pour repondre.
+
+Il ne raconta pas. Il n'avait pas appris a raconter --- ses aines ne lui avaient rien transmis sur ce point. Il dit seulement : "Elle a couru. C'est tout ce qu'on dit a Aetharis. Et c'est plus que tu ne crois."
+
+L'enfant ne comprit pas. Il comprendrait peut-etre, dans vingt ans, en lui amenant un autre enfant.
+
+---
+
+## Sylorin --- "Le Poulain qui Refusa la Course"
+
+La race du Destrier d'Aetharia se reproduit selon un protocole strict. Chaque eleveur de Sylorin connait par coeur les croisements autorises sur sept generations. Un poulain ne du protocole est elu ; un poulain hors protocole est ecarte des reproductions futures, sans cruaute mais sans exception.
+
+Le poulain qu'on appela plus tard "Celui-qui-Refusa" naquit du protocole. Sa mere etait Veyla des Crêtes ; son pere, Krell de la Faille. Tout etait dans l'ordre. Il aurait du devenir l'un des destriers les plus prises de sa generation.
+
+A trois ans, on le mit a la course --- l'epreuve d'aptitude qui decide si un destrier sera reproduction ou monture. Il etait rapide, oui. Endurant, oui. Mais il refusait de gagner. A chaque course, il restait de la deuxieme ou troisieme position et ne forcait jamais l'allure. Pas par fatigue. Par decision.
+
+Les eleveurs etaient perplexes. Un destrier qui refuse de gagner brise le protocole d'une autre maniere : il refuse sa propre nature. Le doyen Maelek demanda si on devait l'ecarter.
+
+C'est Bryssa, palefreniere de quatre-vingts ans, qui posa la main sur le museau du poulain. Elle le regarda dans les yeux longtemps. Puis elle dit : "Ce n'est pas un coureur. C'est un ouvreur."
+
+Personne ne comprit. Bryssa expliqua --- pas tout, parce qu'elle disait elle-meme qu'elle ne savait pas tout. Mais elle avait observe que les chevaux qui galopaient derriere ce poulain finissaient toujours plus tot --- comme si sa cadence stable, jamais maximale, fixait pour les autres une trajectoire propre. Il ne gagnait pas ; il faisait gagner. Sa fonction n'etait pas le titre --- c'etait la course.
+
+On le retira des epreuves d'aptitude. On le mit en tete des entrainements collectifs des autres destriers. La generation suivante de Sylorin produisit les meilleures montures depuis deux siecles. Le poulain ne courut jamais une course officielle.
+
+Bryssa mourut sans avoir transmis sa methode. Le poulain mourut vieux, dans un pre. On ne refit pas exactement l'experience. On la *raconte*, parfois, aux jeunes eleveurs qui demandent pourquoi tel cheval mediocre est garde au troupeau. Personne ne sait si la regle est generalisable. Personne n'ose trancher.
+
+---
+
+## Faldris --- "Les Quarante-Trois Cercles"
+
+La pierre se trouve a l'entree du batiment central de Faldris. Elle est large, polie, gravee de noms en colonnes serrees. Chaque colonne represente une expedition. Chaque ligne, un nom d'eclaireur. Chaque date de retour est inscrite a cote du nom.
+
+Quarante-trois noms n'ont pas de date de retour. Ils sont entoures d'un cercle simple, propre, sans ornement.
+
+On ne sait pas quel doyen instaura la regle des cercles. On sait qu'elle existe depuis plus de cent ans. On sait que les nouveaux eclaireurs viennent toucher la pierre avant chaque depart. Ils suivent la liste du doigt. Ils s'arretent souvent a un cercle. Parfois plus longtemps.
+
+Ervin etait le quarante-quatrieme candidat a l'expedition orientale de l'an 247. Il avait vingt-deux ans. Son frere aine, Tovan, etait mort cinq ans plus tot dans les steppes de Myralis --- son nom etait gravé dans la deuxieme colonne, treizieme ligne, entoure d'un cercle frais.
+
+Le matin du depart, Ervin posa son doigt sur le cercle de son frere. Il resta la une demi-heure. Il ne pleura pas. Il ne pria pas. Il *regarda*.
+
+Le doyen de Faldris, Velka, vint se placer a cote de lui. "Tu peux encore renoncer."
+
+"Je sais."
+
+"Tu ne renonces pas ?"
+
+"Non."
+
+"Pourquoi ?"
+
+Ervin ne sut pas repondre tout de suite. Il finit par dire : "Parce que si je renonce, le cercle de Tovan devient un avertissement. Si je pars, il reste un nom."
+
+Velka hocha la tete. C'etait peut-etre la phrase la plus juste qu'elle ait entendue de toute sa carriere --- ou la plus dangereuse. Elle ne sut pas choisir. Elle n'avait pas a choisir : Ervin etait deja parti.
+
+Il revint. Quatre mois plus tard, amaigri, brule de soleil, sans un mot sur ce qu'il avait vu. Sa date de retour fut gravee. Le cercle de Tovan resta inchange. Il fixe encore Ervin chaque fois qu'il entre dans le batiment.
+
+Le doyen Velka dit parfois aux jeunes eclaireurs : "On ne grave pas les cercles pour effrayer. On les grave pour se rappeler qu'on choisit." Elle ne dit jamais ce qu'on choisit. Les eclaireurs comprennent ou ils ne comprennent pas. Ceux qui comprennent partent quand meme. Ceux qui ne comprennent pas partent aussi. La pierre les attend.

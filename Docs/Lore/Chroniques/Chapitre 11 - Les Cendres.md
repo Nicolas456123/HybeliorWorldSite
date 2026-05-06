@@ -2,7 +2,7 @@
 tags: [lore, chronique]
 type: lore
 status: drafted
-last_review: 2026-05-02
+last_review: 2026-05-06
 needs_review_for: []
 ---
 # Chapitre 11 — Les Cendres Rouges
@@ -59,6 +59,8 @@ La maladie des poumons. Le prix de vivre à Haliandris.
 Elle s'appelait Dorvha. Elle me donna une chambre au deuxième étage, étroite mais propre, avec une fenêtre donnant sur une ruelle d'où l'on ne voyait pas les fumées mais où l'on sentait toujours l'air chargé — une chaleur de four, une densité métallique dans chaque inspiration, comme si l'on mangeait sa propre bouffée d'air au lieu de la simplement respirer. J'avais emporté un foulard de soie fine depuis Torkam, vendu comme filtre à poussière par les nomades frontaliers. Je l'ai mis autour de ma bouche dès le premier soir.
 
 Dorvha me regarda le faire et n'eut pas de commentaire. Les habitants d'Haliandris ne portent pas de protection, parce que porter une protection, c'est admettre que leur ville leur fait du mal, et un Myrtamite n'admet pas facilement que son pays lui fait du mal. Il l'accepte, ce qui est différent. Il l'intègre dans sa façon de vivre, dans ses prières à l'Ignis Aeternum — *le souffle d'Eldoria*, l'air de la déesse dans les poumons, une bénédiction lente. Qu'est-ce qu'une bénédiction lente sinon une douleur qu'on a décidé d'honorer ?
+
+Je note la formule pour ce qu'elle est. Je n'oublie pas que je l'écris depuis l'extérieur — un foulard sur le visage, une chambre louée pour quelques jours, et la facilité de juger ceux qui restent.
 
 ---
 

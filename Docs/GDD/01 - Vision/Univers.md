@@ -1,241 +1,103 @@
 ---
-tags: [vision, monde, univers, lore, polyphonie, pacte-primordial]
+tags: [vision, univers, monde, lore, polyphonie, liés, déliés, narration]
 type: vision
 status: drafted
-last_review: 2026-05-02
-needs_review_for: [généalogie-religions, rumeurs-cardinaux-lointains]
+last_review: 2026-05-07
+needs_review_for: []
 ---
 
-# 🌍 Univers & Monde
+# 🌍 Univers — Hybelior
 
-## Ambiance
-
-> [!tip] Style
-> **Médiéval fantastique classique** — épées, magie, dragons, royaumes. Un monde reconnaissable immédiatement, mais avec une narration et une présentation qui lui sont propres.
-
----
-
-## Structure du monde
-
-```
-Monde
-├── 🏘️ Zones sûres (villes, villages)
-│     Commerces · Quêtes · PNJ · Réparations · Hôtel des ventes
-│
-├── 🌲 Zones sauvages (danger progressif)
-│     Créatures · Ressources · Donjons · Événements dynamiques
-│     ⚑ PvP flag activable par le joueur
-│
-└── 🔒 Zones spéciales
-      Donjons instanciés · Territoires de guildes · Zones de faction
-```
+> *« Avant d'être une carte, avant d'être une histoire, Hybelior est un accord. Cinq voix se sont tues quelque part au commencement, et de ce silence partagé, le monde s'est levé. »*
+>
+> *— Maître Veyran d'Astravia, « Préambule aux Cycles »*
 
 ---
 
-> [!info] Géographie canonique
-> Pour la liste exhaustive des continents, pays, biomes et zones canoniques, voir [[Géographie]] (canon : 13 continents, 37 pays).
+## Le monde s'appelle Hybelior
 
----
+Il y a, quelque part dans la trame des choses, un monde qui respire. On l'appelle **Hybelior**. Ce nom ne désigne pas tant un lieu qu'une condition — l'état d'un cosmos qui n'a jamais cessé de dialoguer avec lui-même, où aucune voix n'a réduit les autres au silence, où le décor même est une conversation toujours en cours. C'est, peut-être, ce qui distingue ce monde-ci de tous ceux que les chroniques rapportent comme défunts : il **continue de répondre**.
 
-## Narration — Lore ambiant
+Pour celui qui le découvre, Hybelior se présente d'abord comme un médiéval-fantastique reconnaissable — épées, magies, royaumes, dragons, ruines, marchés. C'est volontaire : le monde n'a pas voulu être une énigme exotique, mais un **lieu où l'on entre sans dictionnaire**. Pourtant, celui qui s'y attarde finit par sentir que cette familiarité est un seuil, pas un terminus. Sous la surface médiévale, il y a un cosmos — et ce cosmos ne fonctionne pas comme les autres.
 
-> [!important] Principe
-> L'histoire ne se raconte pas par des cinématiques imposées. Elle se découvre.
-
-**Comment le lore se révèle :**
-- En explorant (ruines, inscriptions, environnement)
-- En lisant des livres, parchemins, notes disséminés
-- En conversant avec des PNJ (connaissance partielle)
-- En résolvant des quêtes qui révèlent des pans du monde
-- Via des **conditions cachées** pour les secrets les plus profonds
-
-Le joueur est un **individu parmi d'autres**, dans un monde qui existait avant lui et qui continuera après.
-
----
-
-## Apparition dans le monde
-
-> [!note] Spawn initial
-> Les nouveaux joueurs apparaissent **aléatoirement dans une zone accessible aux débutants**.
-> La zone influence les options de personnalisation disponibles à la création (culture locale).
-> Ces options s'élargissent en explorant d'autres régions.
-
----
-
-## Temps et climat
-
-| Système | Impact |
-|---------|--------|
-| **Cycle jour / nuit** | Créatures nocturnes, événements de nuit, secrets accessibles seulement la nuit |
-| **Météo dynamique** | Visibilité, mobilité, événements spéciaux déclenchés (tempêtes, brouillard, orages magiques) |
-| **Saisons** | Voir ci-dessous — impact fort, variable par continent |
-
-### Saisons — Système continental
-
-> [!important] Chaque continent a son propre régime climatique
-> Il n'y a pas un seul cycle de saisons mondial. Les saisons varient selon la géographie du continent → [[Géographie]].
-
-| Continent | Régime saisonnier |
-|-----------|-------------------|
-| **Galenor** | 4 saisons complètes — durée variable selon les zones |
-| **Celethor** | Hiver quasi-permanent — brefs dégels estivaux |
-| **Ilthara** | Saison sèche / saison des pluies (tropical-tempéré) |
-| **Alkaran** | 4 saisons, hivers rigoureux au nord |
-| **Endora** | Saison sèche / mousson (savane et tropical) |
-| **Onara** | Tropical — peu de variations, météo intense |
-| *(autres)* | *(à définir selon biomes)* |
-
-### Impact gameplay des saisons
-
-| Effet | Description |
-|-------|-------------|
-| 🌿 **Ressources saisonnières** | Certaines plantes, minerais ou créatures n'apparaissent qu'en saison précise |
-| 🦅 **Migrations de créatures** | Des espèces entières se déplacent entre zones selon la saison |
-| 🔒 **Zones inaccessibles** | Certains cols, rivières gelées ou zones inondées bloquent ou ouvrent des passages |
-| 🎉 **Événements exclusifs** | Festivals, invasions saisonnières, boss spéciaux uniquement en saison |
-| ⛈️ **Météo dynamique** | Tempêtes, blizzards, orages magiques — déclenchés aléatoirement ou liés à des événements cosmiques |
-
-> [!tip] Synergie avec les Éternels
-> Certains phénomènes climatiques extrêmes sont liés aux conflits entre entités — une tempête cosmique peut précéder un événement de lore majeur.
-
----
-
-> [!todo] À définir
-> - Factions du lore et leurs relations (au-delà des pays)
-> - Carte globale détaillée (voir [[Géographie]])
-> - Noms propres à l'univers pour la magie → [[Le Lien]]
-
----
-
-## Synopsis
-
-> [!important] Hybelior respire.
-
-Le **Souffle** rythme le cosmos. À chaque transition, le monde change — couleurs du ciel, créatures dominantes, opportunités, dangers thématiques. Selon où l'on se tient, on n'observe pas la même chose :
-
-- Dans un village reculé, un Souffle ressemble à une apocalypse. Les récoltes faiblissent, le ciel se voile autrement, des créatures inconnues apparaissent. Les anciens du village racontent que la même chose s'est produite il y a longtemps, mais leurs souvenirs sont brouillés.
-- Dans la guilde des Concordants, un Souffle est une vague qu'on apprend à lire. Ceux qui ont vécu cinq ou six transitions reconnaissent les signes, anticipent les grandes lignes, transmettent leur lecture aux autres.
-- Au temple, le Souffle est l'œuvre de leur entité. Selon la religion, c'est un don, une épreuve, une jalousie cosmique, une promesse à tenir. Chaque tradition a son protocole.
-- Chez les Déliés, le Souffle est une **prison cosmique** dont les Éternels seraient les geôliers — et leur secte prêche qu'on peut s'en libérer.
-
-Les drames d'Hybelior se logent dans ces lectures qui ne se rejoignent pas. Une religion accuse une autre d'avoir faussé le résultat. Une nation cherche un coupable. Les entités elles-mêmes paraissent diverger, à voir comment les Voies se transmettent. Chacun porte un fragment, parfois précieux, parfois trompeur.
-
-> [!tip] Pour le joueur
-> Tu arrives dans un monde dont le rythme te dépasse au début. Tu peux apprendre à le lire ([[Prédiction]], Bourse des Augures), à t'y aligner ([[L'Accord]]), à le rejeter ([[Factions|Déliés]]), ou à rester en marge. Aucune posture n'est neutre — chacune fait de toi quelqu'un de différent.
-
----
-
-## Le Pacte Primordial
-
-Avant que le monde existe, les **5 Éternels** sont parvenus à un accord. Ce qu'il contenait précisément, aucun savoir mortel ne le rapporte — les chroniques les plus anciennes en parlent comme d'un *Pacte* sans en nommer les termes.
-
-Ce qui est observé, en revanche, est sa **structure persistante** :
-
-- La réalité d'Hybelior est un **dialogue cosmique** entre les voix Éternelles
-- Aucune voix n'écrase les autres durablement
-- Les configurations changent, parfois lentement, parfois brutalement
-- Le **Souffle** est le mouvement de ce dialogue qui se transforme
-
-Les Éternels eux-mêmes paraissent liés par cette structure — quels qu'aient été leurs vœux fondateurs, ils ne s'en émancipent pas. C'est ce qu'observent les théologiens du *Rota Mundi* (Cycle Éternel), qui voient dans cette contrainte mutuelle la preuve d'un serment ancien.
-
-D'autres traditions lisent le Pacte différemment :
-- Les *Vael'Kurash* y voient un **équilibre naturel** plutôt qu'un accord négocié
-- Les *Foedus Animae* transmettent oralement qu'il s'agirait d'un **don des âmes ancestrales** aux entités
-- Les Déliés affirment que c'est une **chaîne** que les Éternels se sont volontairement passée — et qu'ils pourraient briser s'ils le voulaient
+> *« Hybelior n'est pas un nom de royaume. C'est un nom d'accord. Tu ne peux pas y arriver ; tu ne peux qu'y consentir. »*
+>
+> *— inscription à l'entrée du temple de Caelorhin, Cestra*
 
 ---
 
 ## La Polyphonie cosmique
 
-Le dialogue des Éternels n'a pas de tour de rôle. Les voix ne se relayent pas selon un calendrier ; elles se croisent, se renforcent, s'opposent, se taisent, reprennent. À chaque Souffle, la **configuration émergente** détermine la nature de l'Ère qui s'ouvre.
+Au commencement — selon les chroniques que personne n'a lues, mais que toutes les religions citent — **cinq Éternels** sont parvenus à un accord. On l'appelle le **Pacte Primordial**, et son contenu exact reste inaccessible : aucun savoir mortel n'en rapporte les termes, et chaque tradition en propose sa lecture. Ce qui demeure incontestable, c'est sa **structure**. Aucune voix n'écrase durablement les autres. Aucune force ne devient absolue. Les configurations changent, parfois lentement, parfois brutalement, et aucune ne s'installe pour de bon.
 
-> *Les Éternels ne disent pas. Ils résonnent. Et leur résonance, parfois, fait basculer un monde entier.*
-> — Maître Veyran d'Astravia, *Les Cycles du Monde*
+De ce dialogue sont nés des rangs entiers d'entités : Cosmiques, Célestes, Astraux, Éthérés — toute une **polyphonie** dont les voix se croisent, se renforcent, s'opposent, se taisent, reprennent. Pour le détail des entités, de leurs domaines et de leurs noms, voir [[Cosmologie]]. Ce qu'il faut retenir, ici, à hauteur de monde : **la réalité d'Hybelior est un dialogue**. Pas un édit. Pas une création figée. Un dialogue.
 
-Chaque Ère est ainsi reconnaissable par ses archétypes (Ombre Longue, Verdoiement, Sommeil de Glace, etc.) sans que l'on puisse anticiper avec certitude laquelle s'ouvrira ensuite. Les **divinations** (Astronomie, Oracle, Voie de Tempora) parviennent à dégager des tendances, parfois sur plusieurs Souffles à l'avance, mais leurs lectures restent partielles.
+Cette structure a une conséquence immédiate, et elle est tout sauf décorative : tout, à Hybelior, est **interprété avant d'être vécu**. Les neuf grandes religions ne s'accordent pas sur la nature du Pacte. Les sages voient l'équilibre cosmique là où d'autres lisent une chaîne consentie. Les nations s'accusent mutuellement d'avoir infléchi telle Ère ou faussé tel Souffle. Aucun savoir n'est jamais total. Aucune lecture n'est définitive. Et c'est dans cet entre-deux qu'Hybelior reste vivant — car un monde où une seule explication s'imposerait ne serait plus un monde, mais un manuel.
 
-### L'influence mortelle est observable — à grande échelle
-
-Un mortel seul n'infléchit pas un Souffle. Les chroniques rapportent en revanche que :
-- Les **cultes massifs** modifient le poids relatif des voix entendues
-- Les **Concordants accumulés** d'une région exercent une pression sur la configuration locale
-- Les **rituels coordonnés sur plusieurs continents** ont parfois précédé des Ères de tonalité étonnamment alignée à leurs intentions
-
-Ces observations alimentent autant les politiques cosmiques que les soupçons mutuels entre nations.
+> *« Les Éternels ne disent pas. Ils résonnent. Et leur résonance, parfois, fait basculer un monde entier. »*
+>
+> *— Maître Veyran d'Astravia*
 
 ---
 
-## La politique du Souffle
+## Le temps qui respire
 
-Aucun Souffle ne se produit sans une floraison d'interprétations divergentes :
+À Hybelior, le temps n'est pas une ligne. C'est une **respiration**. Le monde inspire, expire, se reconfigure. Ce mouvement intrinsèque — le **Souffle** — n'est pas un événement qui arrive de l'extérieur ; c'est ce que fait, sans cesse, un cosmos polyphonique qui se redistribue. Des **Ères** s'ouvrent, vivent leur tonalité, puis cèdent la place à d'autres. Ce qui était dominant se fait silencieux ; ce qui dormait se réveille. La lumière change. Les créatures changent. Les pratiques qui résonnaient hier font écho dans le vide aujourd'hui — et inversement.
 
-- **Les religions s'accusent** : *"Telle Voie a faussé le résultat", "Tel Éternel a trahi son alliance"*. Schismes naissent, théologiens débattent, fidèles se déchirent.
-- **Les nations cherchent des coupables** : *"Les Concordants de la Région X ont infléchi le Souffle pour leurs intérêts."* Diplomatie, complots, sanctions économiques.
-- **Les entités elles-mêmes paraissent diverger** : tous les Cosmiques ne portent pas la même Ère avec la même intensité. Certaines Voies se font silencieuses pendant qu'une autre devient éloquente. Les rêves prophétiques des prêtres rapportent des contradictions.
-- **Les Déliés y trouvent une preuve** : *"Si les voix elles-mêmes se contredisent, à quoi bon servir l'une plutôt que l'autre ?"* Chaque transition alimente leur recrutement.
+Pour le détail de cette respiration, voir [[Le Souffle]]. Pour la chronologie des Ères passées et leurs visages, voir [[Les Ères]]. Pour ce que l'Histoire en a retenu, voir [[Histoire d'Hybelior]].
 
-C'est dans ces lectures qui ne se réconcilient pas que vivent les drames d'Hybelior. Ils sont permanents, multi-échelles (taverne, cour, temple, donjon, conseil), et n'ont besoin d'aucun antagoniste cosmique pour exister.
+À hauteur de monde, ce qu'il faut comprendre tient en une phrase : **Hybelior n'est jamais le même deux saisons de suite, et c'est cela qui le rend habitable**. Un monde qui ne respire pas est un monde qui meurt — figé dans une domination qui s'est imposée et n'a plus de contradicteur. Hybelior a refusé cette équation, non par humanisme abstrait, mais par **réalisme cosmologique**. Aucun ciel vivant n'a la même couleur deux saisons de suite.
 
----
-
-## Antagoniste — Les Déliés et la Catena Fracta
-
-> [!warning] Mouvement minoritaire — secte organisée présente discrètement dans plusieurs continents
-
-Vocabulaire à distinguer :
-- **Non-Liés** — catégorie démographique : ~70% des mortels n'ont aucune Voie active. Neutre par défaut, parfois stigmatisée politiquement par certaines nations.
-- **Déliés** — minorité de mortels ayant volontairement entrepris un *sevrage* (rituels, exercices, parfois rituels physiques) pour se rendre insensibles aux Voies. C'est un acte conscient.
-- **Catena Fracta** *(« la chaîne brisée »)* — mouvement sectaire organisé qui rassemble les Déliés et leurs sympathisants. Présence documentée à Kharazir, Haldria, Endrath, et plus discrète à Altram et Drakora. Quasi-absente à Torkam, Skaldoria, Baelor-Prime, Vytharia.
-
-La doctrine de la Catena Fracta affirme que le Pacte Primordial — quel qu'il soit — est une **prison consentie** dont les Éternels seraient à la fois geôliers et prisonniers. Selon eux, vivre en accord avec le Souffle revient à perpétuer cette captivité ; il faudrait s'en détacher.
-
-Le sevrage prend la forme de **rituels, exercices psychologiques et pratiques magiques mineures** qui visent à rendre le pratiquant insensible aux Voies. Les résultats observés sont irréguliers : la plupart des Déliés ne décrochent rien, certains croient ressentir une "indépendance intérieure" surtout symbolique, et quelques pratiquants extrêmes tentent des rituels physiques qui finissent souvent mal pour eux.
-
-Leur **Délié Primordial** — figure tutélaire de la Catena Fracta — est tantôt présenté comme un sage des origines, tantôt comme une fiction fondatrice. La majorité des historiens y voit un **récit de légitimation** plus qu'une personne réelle.
-
-### Structure et présence
-
-La Catena Fracta s'organise en **cellules locales** plutôt qu'en hiérarchie. Sur leur recrutement :
-- Dans certaines tavernes périphériques où l'on parle bas
-- Parmi quelques marchands marginaux ou voyageurs solitaires
-- Dans des conseils municipaux où un membre influent peut sympathiser
-- Comme conseillers occasionnels d'un prince désabusé (rare, et discret)
-- Dans des cercles érudits qui étudient le Pacte avec scepticisme
-
-Leur menace est **politique et idéologique**, pas cosmique. Ils inquiètent les autorités religieuses et les nations alignées avec une Voie. Ils n'ont pas la capacité de menacer le monde dans sa structure. Voir [[Catena Fracta]] pour le détail doctrinal.
+> *« Le monde respire. Et toi, qui te crois ancré, tu apprends à chaque Souffle que tu n'étais qu'invité. »*
+>
+> *— proverbe de Mosrack, Onara*
 
 ---
 
-## Rumeurs et horizons longs
+## Les peuples et les lignées
 
-Les chroniques regorgent de rumeurs que les joueurs peuvent recouper, partager, prendre au sérieux ou ignorer :
+Sur ce cosmos vit une humanité diverse. Hybelior n'a pas une seule origine — il a eu **cinq Berceaux**, cinq foyers où sont apparus, presque simultanément, les premiers mortels conscients. De ces Berceaux et de leurs migrations sont nées **dix lignées** : les Ombrils des Songes d'Ilthara, les Syltharans à la grâce arcane, les Ventori du vent et des routes, les Petravins de la pierre et de la loi, les Nébulaïrs des étoiles, les Kharavasts de la flamme inextinguible, les Marevanes des routes maritimes, les Selvarins des esprits-lieux, les Vael'Somnix du voile entre les mondes, et les Panghoris auto-fondés hors arbre commun. Pour le détail des filiations, voir [[Lignées]] ; pour la géographie où ces peuples vivent aujourd'hui, voir [[Continents/Index]].
 
-- *"Plusieurs petites Ères avant celle-ci, un Souffle a été marqué par une faille étrange. La prochaine Cardinale arrive — peut-être dans cinq Ères, peut-être dans cinquante."*
-- *"Les Cosmiques ne s'entendent plus comme avant. Quelque chose se prépare."*
-- *"Un culte clandestin prétend avoir trouvé un moyen de détourner un Souffle vers une Ère choisie."*
-- *"Une Voie majeure prépare un grand rituel cosmique pour le prochain équinoxe."*
-
-Ces récits agitent les courants politiques, religieux et sociaux. Certains finissent par devenir l'événement qu'ils annonçaient — d'autres se révèlent être autre chose, ou rien du tout.
-
-> [!tip] Pour le joueur
-> Tu peux choisir d'ignorer ces récits (jouer ta vie quotidienne) ou de t'y impliquer (enquêter, prendre parti, contribuer ou contrer). Les deux sont également valides. Hybelior ne t'oblige pas à être un héros — il te propose simplement plusieurs niveaux d'engagement.
+Ce qui doit s'entendre ici, c'est que **personne, à Hybelior, n'arrive seul dans un monde vide**. Chaque mortel hérite d'une lignée, d'une langue, d'une mémoire collective qui le dépasse — une manière de regarder le ciel, de nommer les morts, de comprendre les Ères. Le joueur qui arrive ne crée pas son personnage *contre* un décor : il l'inscrit dans une **continuité**.
 
 ---
 
-## Le rôle des joueurs
+## Les Liés et les Déliés
 
-Les joueurs sont des individus qui prennent place dans un monde déjà riche de tensions. Chaque Souffle réorganise les rapports de force ; chaque Ère réinvente les questions urgentes.
+Au cœur d'Hybelior se loge une grande tension philosophique — peut-être la plus centrale de toutes. C'est la tension entre ceux qui **s'accordent au cosmos** et ceux qui **s'en arrachent**.
 
-Selon ce qu'ils choisissent :
-- **S'aligner** avec une Voie, une nation, une faction
-- **Devenir Concordant** et incarner une expertise sur les cycles
-- **Rejoindre les Déliés** ou les contrer activement
-- **Pratiquer la prédiction** pour anticiper les bascules
-- **Documenter le savoir** sur les Souffles passés et leurs Cardinaux
-- **Rester en marge**, vivre sa vie sans entrer dans les grands débats
+Les **Liés** sont ceux qui acceptent de respirer avec le monde. Ils n'en sont pas tous des fidèles — beaucoup de Liés ne pratiquent aucune religion, ne canalisent aucune Voie, ne prêtent serment à aucune entité. Être Lié, ce n'est pas une appartenance ; c'est une **manière d'être**. C'est consentir à ce que le monde change, à ce que chaque Ère redéfinisse les règles, à ce que sa propre puissance ne soit jamais un acquis définitif. Le Lié sait que sa force est partiellement empruntée au cosmos qui la rend possible — et que, le cosmos changeant, sa force changera. Il l'accepte, parfois avec sérénité, parfois en grognant. Mais il l'accepte. Ceux qui canalisent une Voie magique le font dans cette posture, voir [[Le Lien]] pour le détail.
 
-Aucun choix n'est obligatoire. Chacun fait du joueur quelqu'un de différent dans la chronique commune.
+Les **Déliés** ont fait l'autre choix. Pour eux, le Pacte Primordial est une **prison consentie** dont les Éternels sont à la fois geôliers et prisonniers. Le Souffle n'est pas une respiration — c'est le bruit qu'on fait, encore et encore, pour rappeler aux mortels qu'ils sont enchaînés. Vivre en accord avec le monde, c'est perpétuer cette captivité. Il faut, disent-ils, **se sevrer**. Apprendre à ne plus respirer avec le cosmos. Devenir un point dur, étranger, qui ne dérive plus avec les voix Éternelles. Au prix d'une déconnexion profonde — car celui qui ne respire plus avec le monde, le monde, à terme, ne le respire plus non plus.
+
+Cette tension n'est pas une dispute académique. Elle traverse tout. Une nation peut basculer parce qu'un prince désabusé a écouté un Délié. Une religion peut se schismer parce que ses sages ne s'accordent plus sur ce que le Pacte exige. Un mortel peut, à mi-vie, rompre avec sa Voie et entrer dans le sevrage — geste rare, lourd, parfois définitif. La **Catena Fracta**, la « Chaîne Brisée », est le mouvement organisé qui rassemble les Déliés (voir [[Catena Fracta]]) ; mais on est Délié bien avant d'avoir rejoint un mouvement.
+
+Les Liés disent : *le monde respire, et nous avec lui*. Les Déliés répondent : *le monde respire, et nous voulons en sortir*. Aucune des deux postures n'est neutre, aucune ne se réfute par une preuve — et c'est précisément parce que la preuve manque qu'Hybelior reste un monde où l'on a encore quelque chose à choisir.
+
+> *« Les Liés disent que je marche dans la chaîne. Les Déliés disent que je marche en me croyant libre. Moi, je marche. C'est tout ce que j'ai. »*
+>
+> *— une marchande de Mosrack, citée par un chroniqueur anonyme*
 
 ---
 
-*Liens : [[Vision]] | [[Exploration]] | [[Factions]] | [[Le Lien]] | [[Géographie]] | [[Cosmologie]] | [[Histoire d'Hybelior]]*
+## Une géographie habitée
+
+Hybelior n'est pas un monde abstrait. Il a un sol, des continents — chacun avec son climat, ses langues, ses tensions politiques, ses ruines, ses cultes, son rapport propre aux Éternels et aux Cosmiques. Un Souffle vécu à Cendara, dans la chaleur du Cœur qui pulse, n'est pas le même que vécu à Celethor, dans l'hiver presque permanent. Un Lié de Vytharia n'a pas la même Voie disponible qu'un Lié d'Astravia. Une saison de mousson à Endora ne dialogue pas avec le cosmos comme une tempête de blizzard à Skaldoria. Pour la liste des continents et nations, voir [[Continents/Index]] ; pour la cartographie générale, [[Géographie]] ; pour la mémoire historique des lieux, [[Histoire d'Hybelior]] et [[Frise]].
+
+Ce qui mérite d'être posé ici, c'est que la **géographie d'Hybelior n'est pas un décor** : elle est une dimension de la Polyphonie. Le climat, les saisons, les biomes ne sont pas indépendants des Éternels et des Cosmiques — ils en sont la **signature locale**. Un continent où une voix domine n'a pas la même météo qu'un continent où elle s'est tue. Et quand le Souffle redistribue les voix, c'est aussi le sol lui-même qui en porte la trace.
+
+---
+
+## Vivre dans Hybelior
+
+Hybelior ne demande pas d'être un héros. Il propose un monde dont le rythme dépasse au début, et plusieurs niveaux d'engagement. On peut apprendre à le lire — par les divinations, la Bourse des Augures, l'art de la [[Prédiction]]. On peut s'y aligner — devenir [[L'Accord|Concordant]], incarner une expertise sur les cycles, gagner les titres rares qui suivent un mortel à travers les Ères. On peut s'en arracher — rejoindre la Catena Fracta, contester le Pacte, payer le prix de la déconnexion. On peut, aussi, simplement vivre — exercer un métier, fonder une guilde, traverser les Ères comme on traverse les saisons, sans grande théorie.
+
+Aucune posture n'est obligatoire, aucune n'est neutre. Chacune fait du joueur **quelqu'un de différent dans la chronique commune** d'Hybelior — et cette chronique, à la fin, est ce qui restera quand les Souffles se seront enchaînés. C'est, peut-être, ce que ce monde a de plus précieux : non une histoire qu'on subit, mais une histoire à laquelle on ajoute. Hybelior ne se raconte pas tout seul. Il **se raconte avec ceux qui l'habitent**.
+
+> *« On ne demande pas à un monde pourquoi il existe. On lui demande seulement de durer assez pour qu'on s'y accorde. Hybelior dure. C'est déjà beaucoup. »*
+>
+> *— Ilthani Vael, Cendara*
+
+---
+
+*Liens narratifs : [[Vision]] | [[Cosmologie]] | [[Le Souffle]] | [[Les Ères]] | [[L'Accord]] | [[Le Lien]] | [[Lignées]] | [[Histoire d'Hybelior]] | [[Géographie]] | [[Continents/Index]] | [[Catena Fracta]] | [[Prédiction]] | [[La Partie]]*

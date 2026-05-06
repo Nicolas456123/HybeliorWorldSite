@@ -1,31 +1,342 @@
 ---
-tags: [lore, pays, stub, alkaran]
-type: lore
-status: stub
-last_review: 2026-05-02
-needs_review_for: [contenu]
+tags: [lore, pays, alkaran, nation]
+type: nation
+status: drafted
+last_review: 2026-05-06
+needs_review_for: []
+---
+# Ferrath — La République des Profondeurs
+
+> *« Le filon ne meurt pas. Il s'endort. »*
+> — Dicton de mineur, transmis dans toutes les vallées de Ferrath, attribué à personne en particulier
+
+> *« Veiller, ce n'est pas attendre. Veiller, c'est savoir qu'on n'attend rien. »*
+> — Veshva des Cavernes, fragment d'un *Carnet de Selvara* recopié par une apprentie sans titre, an 247
+
+> *« Ferrath ne signe rien. Ferrath descend. »*
+> — Réponse de la Concile des Profondeurs à une délégation diplomatique d'Iskara, an 218
+
 ---
 
-# Ferrath
+## Informations générales
 
-> [!warning] Stub — fiche à étoffer
-> Cette nation est référencée dans les Chroniques et la Chronologie sans description dédiée.
-> À étoffer en chantier futur (descente des couches concept→artefacts).
+| | |
+|---|---|
+| **Continent** | Alkaran |
+| **Numéro** | (non rattaché à un N° Pays.csv ; n'apparaît dans la base canonique Access que par mention indirecte dans la Chronologie) |
+| **Gouvernement** | République des Profondeurs (assemblée des chefs de mine + Concile des Vael'Kari) |
+| **Religion principale** | [[Vael Kurash]] (Voix-des-Anciens, lignée des *Enfants-de-la-Roche*) |
+| **Religion secondaire** | [[Lex Petra]] (La Loi de la Pierre), localement nuancée par les Vael'Kari |
+| **Culture dominante** | Mineurs, ouvriers de profondeur, veilleurs de présences ; sobriété, parole rare, rapport quotidien à ce qui ne répond plus |
+| **Histoire marquante** | La Sécession des Mineurs ; la mort de Veshva des Cavernes (+249) |
+| **Ressources clés** | Cuivre, étain, plomb, charbon, pierres luminescentes, *fer-bleu* (alliage rare), eaux profondes |
 
-## Continent
+---
 
-[[Alkaran - Continent]]
+## Histoire
 
-## Mentions actuelles
+### Les origines — Sous la roche avant le royaume
 
-- Voir [[Chronologie - Index]] — Ferrath listée parmi les nations alkaranaises (Altram · Iskara · Ferrath)
-- Voir [[Chapitre 10 - Les Mines Silencieuses]] (chronique) — première mention narrative
+Ferrath n'a pas été fondée. Ferrath a été *creusée*. Les premières communautés sédentaires d'Alkaran central s'y sont installées il y a un millénaire et demi pour exploiter les filons que les vallées du nord ne donnaient plus. Mineurs, charbonniers, fondeurs, polisseurs : un peuple de *gens qui descendent*, organisés autour de leurs galeries plutôt que de leurs villages. Les villages eux-mêmes étaient bâtis *au-dessus* des mines — non par utilité, mais parce que le travail dictait l'habitat.
 
-## À documenter
+Pendant les premiers siècles, Ferrath n'existait pas comme entité distincte. Ses vallées étaient nominalement vassales d'Altram, qui réclamait une part du métal extrait. Les Maîtres de Trelios envoyaient des collecteurs ; les chefs de mine ferrathins payaient ce qu'on leur demandait, sans plus, et continuaient leur travail sans plus s'en soucier. La vassalité était notionnelle.
 
-- Géographie
-- Démographie
-- Politique / Gouvernance
-- Religion dominante
-- Relations diplomatiques (notamment avec Altram et Iskara)
-- Spécificités culturelles
+### La Sécession des Mineurs (env. an 60)
+
+L'événement fondateur de la nation est la **Sécession des Mineurs** — une rupture sourde, sans bataille, sans déclaration, sans manifeste.
+
+En l'an 58, le roi d'Altram (Korvath II, oncle du futur tyran Korvath III) doubla les quotas de tribut sur Ferrath pour financer une campagne militaire contre des pillards skaldori. Les chefs de mine de Ferrath se réunirent au fond d'une galerie de la mine de Vythos, sans témoins, et prirent une décision : ils ne refuseraient pas le tribut — ils l'**ignoreraient**. Quand les collecteurs altrami arriveraient, les mines seraient *fermées pour entretien*. Les fonderies seraient *en repos rituel*. Les charbonniers seraient *partis chercher du bois lointain*.
+
+Pendant trois ans, Ferrath fut administrativement absente. Les collecteurs revenaient à Trelios les mains vides, à chaque fois pour des raisons techniques irréprochables. Le roi Korvath II, qui n'avait pas l'intelligence stratégique de son père, finit par envoyer une garnison.
+
+La garnison entra dans la première vallée et trouva une cinquantaine de villages déserts. Les mineurs étaient partis dans les profondeurs — *vraiment* partis, dans des galeries que personne d'extérieur ne savait localiser. La garnison campa trois semaines sans trouver un homme adulte à interroger. Quand elle se replia, le quartier-maître altrami écrivit un rapport qui devint célèbre dans les archives de Trelios : *« Nous n'avons pas été combattus. Nous avons été ignorés. »*
+
+Le tribut ne fut jamais rétabli. Aucun traité ne fut signé. Aucune frontière ne fut tracée. Ferrath devint indépendante par le geste minéral de *ne pas être trouvable*. C'est une indépendance qui n'a pas été reconnue parce qu'elle n'a jamais été demandée.
+
+### La République des Profondeurs (an 60 — encore en vigueur)
+
+Après la Sécession, les chefs de mine se réunirent à nouveau et décidèrent d'un fonctionnement collectif minimal. Pas de roi, pas de monarchie, pas même de capitale fixe. Une **assemblée tournante** se réunit deux fois par an dans une mine différente — la mine d'accueil offrant la salle, la nourriture, et un médiateur pour la session.
+
+Cette structure légère fonctionne depuis cinq siècles. Elle a produit peu de grandes décisions et beaucoup de petites — ce qui est, selon les Ferrathins, exactement ce qu'on attend d'un gouvernement.
+
+### La mort de Veshva (+249) et ses suites
+
+Le seul événement récent qui a réellement remué Ferrath est la mort de **Veshva des Cavernes** (Vael'Kari de la lignée Source-Bleue, morte en +249 à soixante-deux ans, au pied d'une pierre des hautes terres que personne d'autre n'avait visitée depuis un demi-siècle). Veshva est canonique au Tier A.5a (cf. *[[Vael Kurash]]*).
+
+Sa pratique — la *« veillée du mourant »*, c'est-à-dire la veille longue d'esprits qui ne répondent plus, sans demander qu'ils répondent, sans prétendre qu'ils répondront — est ambiguë doctrinalement. Le Concile des Vael'Kari de Ferrath n'a pris aucune position publique. Sept ou huit apprenties (toutes des femmes) pratiquent comme elle a pratiqué, sans titre, sans coordination, dans des vallées différentes. Elles ne se réclament pas explicitement de Veshva.
+
+Les chefs de mine, eux, ont un rapport plus direct au phénomène : depuis trois générations, *certaines galeries ne donnent plus rien*. Les Vael'Kari attribuent cela au *retrait des esprits-de-roche*. Les chefs de mine n'argumentent pas avec eux ; ils ferment les galeries, ouvrent ailleurs, et continuent. C'est dans ce silence partagé entre les Vael'Kari (qui ne disent pas *extinction*) et les chefs de mine (qui ne disent pas *épuisement*) que Ferrath fonctionne aujourd'hui.
+
+---
+
+## Gouvernement — La République des Profondeurs
+
+Le pouvoir à Ferrath est distribué entre trois instances qui se chevauchent sans hiérarchie claire :
+
+- **L'Assemblée des Chefs de Mine** se réunit deux fois par an dans une mine d'accueil. Chaque mine reconnue (environ quatre-vingts en l'an 252) y envoie son chef ou son délégué. Les décisions se prennent à la majorité simple. Le sujet le plus fréquent est le partage des routes commerciales et la mutualisation des ressources techniques.
+- **Le Concile des Profondeurs** (parfois appelé *Concile des Vael'Kari de Ferrath*) regroupe les chefs de lignée Vael'Kari présents dans le pays. Il se réunit irrégulièrement, à l'initiative d'une lignée. Ses décisions sont *spirituelles* — ce qui, en Ferrath, recouvre tout ce qui touche à la veille des présences, à l'ouverture ou à la fermeture des Cavernes de l'Écoute, au calendrier des veillées. Le Concile n'a pas de pouvoir civil. Mais une mine dont la veille est défavorable ferme — pas par décret, par retrait progressif des ouvriers.
+- **Les Médiateurs Itinérants** (généralement trois, parfois quatre) sont des arbitres entre mines, choisis par consensus pour des durées de cinq ans. Ils tranchent les conflits inter-mines, les rivalités sur les filons, les contestations de paternité d'innovation. Ils sont reconnus par tradition, pas par charte écrite.
+
+Il n'y a pas de capitale. La ville de **Vythoris** (cf. infra) est la plus grande, et c'est elle qui *abrite généralement* les assemblées les plus importantes — mais sans titre officiel.
+
+Le système est **lent**, **redondant**, et **peu intelligible aux étrangers**. Les diplomates iskaran qui tentent de négocier avec Ferrath repartent généralement frustrés, parce qu'aucune autorité n'a le pouvoir de signer en son nom. *« Ferrath ne signe rien. Ferrath descend. »* La phrase, attribuée à un Médiateur en 218, est devenue formule diplomatique.
+
+---
+
+## Religion
+
+### [[Vael Kurash]] — Voix-des-Anciens (religion dominante)
+
+Ferrath est, parmi les nations alkaranes, celle où le Vael Kurash est le plus profondément enraciné. La lignée dominante est celle des **Enfants-de-la-Roche** (variante alkaranne de la souche commune Voix-sous-Bois / Enfants-de-la-Roche, cf. *[[Vael Kurash]]*). Les Vael'Kari ferrathins veillent les présences *minérales* : esprits de filons, de cavernes, de sources profondes, parfois d'outils minéraux particulièrement anciens (un piolet centenaire, par exemple, peut devenir objet de veille).
+
+**Particularité ferrathine :** la doctrine officielle de la persistance (*« la pierre dure plus que toi »*) est tenue avec une rigueur formelle, **mais pratiquement contredite** par la pratique des *« veillées du mourant »* initiée par Veshva des Cavernes. Ces veillées ne sont ni hérétiques ni doctrinales — elles sont *tolérées*, ce qui est, en pratique, une admission silencieuse que la doctrine n'épuise pas le réel.
+
+**Les Cavernes de l'Écoute** principales d'Alkaran (initiations Vael'Kari, vingt-sept jours dont sept sans nourriture et sept sans parole) sont presque toutes situées en Ferrath — six sur les sept. Cette concentration fait de Ferrath le centre de gravité spirituel du Vael Kurash continental, sans que la nation en tire de pouvoir politique (les lignées ne s'autoproclament pas ; on est reconnu par le silence qu'on tient).
+
+**Pratiques centrales :**
+- **L'Écoute** : passage rituel d'un apprenti dans une Caverne. Vingt-sept jours. Sept sans nourriture, sept sans parole.
+- **La Veillée** : présence prolongée d'un Vael'Kari au pied d'une présence connue. Peut durer des semaines. La veillée ne demande pas, n'exige pas — elle est.
+- **L'Exposition aérienne (mineurs)** ou **mise sous pierre simple (Vael'Kari)** des morts. Aucun monument. Aucun nom inscrit.
+- **Tension interne** entre Décrétistes (codifiés à Gryndor depuis ~9 250 ap.A) et tenants du **Silence Égal** (cf. *[[Vael Kurash]]*). À Ferrath, le débat est moins vif qu'à Gryndor — *« une querelle de plaine »*, disent les Vael'Kari des hautes terres.
+
+### [[Lex Petra]] — La Loi de la Pierre (religion secondaire)
+
+Présence pétrane historique, héritée d'Altram et nuancée par le contact avec le Vael Kurash. Les prêtres-juges Lex Petra de Ferrath sont moins juristes que ceux d'Altram et moins militaires que ceux d'Iskara — ils sont avant tout *arbitres techniques* entre mines pour des questions de partage de filon, de paternité d'innovation, de responsabilité d'éboulement. Leur autorité est réelle mais limitée à ces matières. Les Médiateurs Itinérants (cf. supra) recrutent souvent parmi eux.
+
+Le **Serment de Pierre** ferrathin est plus court qu'en Iskara : *« La pierre tient. »* — trois mots, prononcés en posant la main sur un bloc de granit. C'est tout. Aucun Ferrathin ne ressent le besoin d'allonger.
+
+---
+
+## Culture et société
+
+### Les gens qui descendent
+
+L'identité ferrathine, à la différence d'Altram (forge), Iskara (bouclier), Torkam (veille), est dans le **geste de descente**. Un mineur ferrathin descend chaque jour en moyenne entre quarante et quatre cents mètres sous la surface. Les enfants de mineurs descendent dès l'âge de neuf ans, comme apprentis-aérateurs. La parole est rare en profondeur — pour des raisons pragmatiques (l'air manque), mais aussi parce qu'on *écoute* ce qui n'est pas voix.
+
+### Hiérarchie sociale
+
+1. **Les Chefs de Mine** (élus par leurs ouvriers ou hérités selon les mines) — élite politique
+2. **Les Vael'Kari de lignée** — élite spirituelle, sans pouvoir civil mais influence réelle
+3. **Les Maîtres-Mineurs** (mineurs expérimentés qui forment les apprentis) — pilier technique
+4. **Les Mineurs de profondeur** — masse ouvrière, dignité de métier
+5. **Les Veilleurs de Surface** (mineurs vieillissants ou blessés affectés à la maintenance des galeries supérieures) — rôle respecté
+6. **Les Mineurs Silencieux** — exclus structurels (cf. infra)
+
+### Les Mineurs Silencieux
+
+Phénomène propre à Ferrath, jamais documenté en Altram ni Iskara. Quand un mineur descend assez profond et y reste assez longtemps, il arrive qu'il **remonte muet**. Pas paralysé, pas sourd : muet de bouche, alors qu'il pourrait parler. Il ne dit plus rien — ni à sa famille, ni à ses camarades, ni aux Vael'Kari qui viennent l'examiner.
+
+Ces hommes (et quelques femmes) ne sont pas exilés. Ils ne sont pas non plus réintégrés. On leur donne une cabane proche de la galerie qu'ils ont remontée. On les nourrit. Ils descendent parfois encore, seuls, et remontent. Ils ne disent rien. Personne ne sait s'ils ont *vu*, *entendu*, ou *cessé*. Les Vael'Kari les considèrent comme *« ceux qui veillent à présent par leur silence »*, formulation poétique qui esquive la question médicale. Ils n'ont pas de droits civiques particuliers (ils ne peuvent voter à l'Assemblée des Chefs de Mine), mais aucun ne s'en plaint, parce qu'aucun ne parle.
+
+Le Concile des Profondeurs estime, en l'an 252, qu'il y a entre quatre cents et six cents Mineurs Silencieux à Ferrath. Le chiffre n'est pas formellement compté — *« compter ce qui s'est tu, c'est mal écouter »*.
+
+### Gastronomie
+
+Cuisine de profondeur : champignons, poissons aveugles des lacs souterrains, pain noir cuit dans la chaleur résiduelle des forges en bouche de mine, fromages affinés dans les galeries (un climat constant à 12°C, naturellement). Le *vin-de-roche* (boisson fermentée à base d'orge cultivé en surface et de minéraux dissous) est une particularité ferrathine que les voyageurs trouvent imbuvable et que les Ferrathins boivent avec un plaisir entêté.
+
+### Architecture
+
+Bâtiments de surface modestes, presque toujours bas (le vent porte fort sur les hauts massifs). Les **vraies** habitations sont sous terre : maisons creusées dans la roche, cuisines reliées à des conduits naturels, chambres de profondeur avec luminescence cristalline (cristaux importés de Kaeloria d'Iskara, ou produits localement à Volnir). Une famille ferrathine moyenne vit *en partie sous terre* — l'hiver, surtout.
+
+---
+
+## Régions
+
+### Vorra
+Région centrale, vallées de la Vorne supérieure. Cœur minier et politique du pays. Concentration de fonderies, de mines de cuivre et d'étain, des deux Cavernes de l'Écoute principales. La ville de Vythoris, centre de gravité informel de la nation, s'y trouve.
+
+### Hautes-Pierres
+Massifs orientaux, frontière avec Iskara. Mines plus pauvres mais plus anciennes. Quatre des sept Cavernes de l'Écoute principales d'Alkaran s'y trouvent. Région la plus religieuse et la moins peuplée. Routes des Veilleurs (cf. fiche continent) traversent ici.
+
+### Sourd-Bois
+Région nord-ouest, à la lisière des hauts plateaux torkamites. Mélange de vallées boisées (rares en Alkaran) et de plateaux semi-arides. Économie mixte : un peu de bois, un peu de mine, un peu de bétail. Population sparse. Considérée comme *« demi-Ferrath »* par les Vorrans.
+
+### Profonds
+Vallées les plus encaissées du pays, sud-ouest. Mines les plus profondes (jusqu'à six cents mètres). C'est ici qu'on trouve la majorité des Mineurs Silencieux. Trois des plus anciennes mines (Vythos originelle, Goren-Bas, Ulthral) y opèrent encore.
+
+### Lac-de-Vyrn
+Région lacustre partagée avec Altram. Pêche, sel, transport fluvial. Le lac baisse depuis trois générations ; aucun rapport officiel n'enregistre la chute, mais les pêcheurs en parlent.
+
+---
+
+## Villes et villages
+
+### Vythoris — Centre informel ★
+*Vythoris est la plus grande ville de Ferrath, sans en être officiellement la capitale. Bâtie au-dessus d'une mine ancienne et étendue sur plusieurs niveaux souterrains, elle abrite environ douze mille habitants en surface et autant en profondeur. C'est ici que se réunissent les Assemblées des Chefs de Mine les plus importantes.*
+**Histoire :** Vythoris fut fondée comme simple campement minier au-dessus de la première mine sécessionniste — celle où, en l'an 58, les chefs de mine décidèrent d'ignorer le tribut altrami. La cabane où ils s'étaient réunis est devenue la salle d'Assemblée actuelle. On peut encore y voir, gravée dans le mur de fond, l'unique trace écrite de la Sécession : sept noms, sans date, sans déclaration. La phrase qui les accompagne est : *« Nous étions là. »*
+- Population : Centre principal
+- Région : Vorra
+
+### Goren-Bas
+*Vieille ville minière, deuxième de Ferrath en taille. Goren-Bas exploite l'une des plus anciennes mines de cuivre encore productives — environ douze siècles d'exploitation continue. Une partie significative de la ville est désormais souterraine.*
+**Histoire :** Goren-Bas a été pendant trois siècles la rivale de Vythoris pour le centre politique. La rivalité s'est éteinte non par victoire mais par fatigue — vers l'an 180, les chefs de Goren-Bas ont cessé d'envoyer des délégués aux assemblées les plus importantes, sans bruit. Personne n'a jamais demandé pourquoi. Goren-Bas continue de fournir le cuivre ; sa décision d'être moins politique a été acceptée comme on accepte une saison.
+- Population : Ville
+- Région : Profonds
+
+### Ulthral
+*Ville minière des Profonds, spécialisée dans le plomb et l'étain. Ulthral est aussi la ville où le plus grand nombre de Mineurs Silencieux vit — environ quatre-vingts en l'an 252, sur une population de six mille habitants. Les visiteurs y notent un calme inhabituel.*
+**Histoire :** L'augmentation du nombre de Mineurs Silencieux à Ulthral remonte à l'an 200 environ — quand la mine principale a été poussée au-delà de cinq cents mètres pour suivre une veine d'étain particulièrement riche. La veine s'est éteinte vers 230. Les Silencieux, eux, ont continué d'apparaître, par cycles d'environ dix par décennie. Le Concile des Profondeurs a envoyé en 240 une délégation Vael'Kari pour *« écouter ce qu'Ulthral entendait »*. La délégation est restée six mois. Son rapport, conservé à Vythoris, contient principalement des descriptions de silences. Aucune conclusion n'a été tirée.
+- Population : Ville
+- Région : Profonds
+
+### Selvaris
+*Ville lacustre du Lac-de-Vyrn, partagée administrativement avec Altram (la frontière passe au milieu du lac). Pêche, sel, échanges. Population mixte ferrathine et altramine, deux quartiers distincts qui ne se mélangent pas mais ne se combattent pas non plus.*
+**Histoire :** Selvaris est l'une des rares villes alkaranes binationales. La frontière y a été tracée en l'an 92 par un compromis pratique : la ligne médiane du lac, qui ne mécontentait personne parce qu'elle n'avantageait personne. Le quartier ferrathin (rive nord) et le quartier altrami (rive sud) ont des marchés séparés, des autels séparés, des écoles séparées, et un seul ferry partagé qui traverse la ligne médiane chaque jour. Le ferrymaster, élu alternativement par chaque rive pour des mandats de cinq ans, est traditionnellement choisi parmi les pêcheurs (*« qui connaissent le milieu »* — phrase qui veut dire ce qu'on veut bien y entendre).
+- Population : Ville
+- Région : Lac-de-Vyrn
+
+### Volnir
+*Petite ville des Hautes-Pierres spécialisée dans la production de cristaux luminescents. Les *cristaux de Volnir* sont exportés dans toute Alkaran — ils éclairent les mines de Goren-Bas, les chambres souterraines de Vythoris, et certaines galeries d'Iskara (notamment Kaeloria). On ne sait pas exactement comment ils brillent.*
+**Histoire :** Les cristaux luminescents furent découverts par des mineurs de Volnir vers l'an 110 dans une galerie qu'ils étaient en train de fermer pour épuisement. Les cristaux brillaient sans source d'énergie identifiable. Trois générations de mineurs ont essayé de comprendre le mécanisme ; aucune n'y est parvenue. La technique de récolte (extraction à froid, sans choc, dans le noir complet pour préserver la luminescence) est transmise oralement et n'a jamais été écrite. Les Vael'Kari de Volnir affirment que les cristaux sont *« la mémoire d'une présence partie »* — ce qui est, dans la grammaire vael'kurashe, une formulation lourde, parce qu'elle admet implicitement que la présence est *partie*.
+- Population : Ville
+- Région : Hautes-Pierres
+
+### Selthar
+*Bourg fortifié de la frontière avec Iskara. Selthar est l'unique point où Ferrath garde une garnison — une centaine d'hommes, principalement pour gérer les passages caravaniers et les rares incidents avec les patrouilles iskaran qui dépassent leurs zones.*
+**Histoire :** Selthar fut fondée vers l'an 130 après que des éclaireurs iskaran s'introduisirent par mégarde dans une mine ferrathine et furent reçus avec un manque total d'hostilité — les mineurs leur offrirent du vin-de-roche et leur expliquèrent qu'ils n'étaient pas, *« administrativement »*, en Iskara. Le rapport iskaran qui en résulta amena les deux nations à formaliser leur frontière. Selthar est née de cet accord. La garnison existe non par méfiance, mais parce qu'il faut bien quelqu'un pour répondre aux questions des éclaireurs iskaran qui se présentent.
+- Population : Ville
+- Région : Hautes-Pierres
+
+### Caverne-Mère
+*Hameau autour de la plus ancienne et la plus respectée des Cavernes de l'Écoute d'Alkaran. Population permanente d'environ soixante personnes — Vael'Kari, leurs apprentis, et les artisans qui les nourrissent. Les non-initiés ne pénètrent pas dans la Caverne elle-même.*
+**Histoire :** Caverne-Mère n'a pas de date de fondation. Les chants Vael'Kari les plus anciens la mentionnent déjà comme lieu de passage. La Caverne elle-même a été initiation pour des dizaines de générations de Vael'Kari. C'est ici, en +249, que **Veshva des Cavernes** est morte — au pied d'une pierre, *« hautes terres de Ferrath »*, qu'aucune mention plus précise ne localise. La pierre est entretenue par les apprenties qui pratiquent la *« veillée du mourant »*. Aucun nom n'est inscrit. Les visiteurs y sont admis ; on leur demande de rester silencieux et de ne pas s'attarder.
+- Population : Hameau (Vael'Kari)
+- Région : Hautes-Pierres
+
+### Tombarn
+*Village de fondeurs des Profonds, spécialisé dans le **fer-bleu** — un alliage rare obtenu par fusion de fer altrami avec un minéral local que personne hors de Tombarn ne sait identifier. Le fer-bleu ne rouille pas et conserve une trempe régulière sur trente ans. La quantité produite est faible (moins de cent kilos par an) ; la liste des clients est longue.*
+**Histoire :** La technique du fer-bleu fut découverte par un fondeur de Tombarn nommé Volar vers l'an 80, en mélangeant un minéral qu'il pensait être du cuivre brut avec du fer altrami pour économiser le cuivre. Le résultat le surprit. Il transmit la formule à son fils, qui la transmit à sa fille, et la lignée Volar tient depuis cinq siècles le secret de l'alliage. La famille est aujourd'hui constituée de quatorze personnes, dont neuf maîtrisent au moins une étape de la formule. Les Volar refusent toute forme d'expansion ; ils produisent ce qu'ils produisent et pas plus. Le Concile des Profondeurs les laisse tranquilles parce qu'ils sont *« utiles »* — formulation suffisante.
+- Population : Village
+- Région : Profonds
+
+### Mara-Vieille
+*Hameau de surface du Sourd-Bois, à la lisière la plus extrême de Ferrath. Une trentaine de familles, principalement des bergers et des charbonniers. Importance : c'est ici que vit, depuis +250, l'une des sept apprenties de Veshva des Cavernes — une femme nommée Yltha, environ cinquante ans, qui veille les présences affaiblies des hauts plateaux du Sourd-Bois sans jamais quitter son métier de bergère.*
+**Histoire :** Mara-Vieille a été fondée comme simple bourg de pâturage il y a quatre siècles. Sa pertinence narrative actuelle tient à Yltha. Yltha n'a aucun titre. Les villageois ne savent qu'à moitié qu'elle a été apprentie de Veshva. Ils savent seulement qu'elle disparaît pendant des semaines, et qu'à son retour, son troupeau a été surveillé par des bénévoles. Ils acceptent ce mode de vie comme on accepte la pluie.
+- Population : Hameau
+- Région : Sourd-Bois
+
+### Vorn-Trel
+*Ville commerciale au confluent de la Vorne et de l'un de ses affluents. Vorn-Trel est le principal point de transbordement du métal ferrathin vers Altram (par voie d'eau jusqu'à Trelios). Les caravaniers d'Altram qui viennent y traiter trouvent les Ferrathins lents, polis, et impossibles à pousser.*
+**Histoire :** Vorn-Trel s'est développée comme entrepôt à partir de l'an 100. Sa particularité administrative est que le marché est tenu par les Médiateurs Itinérants (cf. supra) en présence permanente — l'un des trois Médiateurs y réside huit mois par an pour arbitrer les contrats commerciaux. Cette concentration de pouvoir inhabituelle pour Ferrath est tolérée parce que le commerce est *« la chose qu'on ne peut pas laisser à elle-même »*.
+- Population : Ville
+- Région : Vorra
+
+### Sourd-Sour
+*Bourg du Sourd-Bois, atypique : on y pratique encore une métallurgie du bronze archaïque, à l'ancienne, alors que le reste d'Alkaran est passé au fer depuis longtemps. Les bronzes de Sourd-Sour sont recherchés pour des objets cérémoniels (cloches d'autel, lampes votives, ornements de tombes vael'kurashes).*
+**Histoire :** Sourd-Sour a refusé la transition au fer non par idéologie mais par paresse — les fondeurs locaux ont jugé que le marché pour leur bronze tenait suffisamment, et n'ont pas investi dans les techniques nouvelles. Trois siècles plus tard, le pari s'est avéré juste : la rareté de leur bronze le rend précieux, et leur économie est stable. Les Ferrathins citent Sourd-Sour comme exemple de *« sagesse par paresse »* — formule qui résume une partie de l'éthique nationale.
+- Population : Village
+- Région : Sourd-Bois
+
+---
+
+## Relations extérieures
+
+| Pays | Relation | Détails |
+|------|----------|---------|
+| **Altram** | Partenariat commercial discret | Le métal ferrathin alimente les forges de Trelios. Altram a renoncé à toute prétention de vassalité depuis la Sécession de l'an 60. La relation est cordiale dans les faits, glaciale dans les protocoles. |
+| **Iskara** | Neutralité armée | Iskara aimerait un traité formel ; Ferrath ne signe rien. La frontière des Hautes-Pierres est gardée par Selthar (Ferrath, 100 hommes) et plusieurs garnisons iskaran (Helionar, Glintar). Aucun incident majeur depuis trois générations. |
+| **Torkam** | Échanges minimaux | Pas de frontière commune significative. Quelques caravanes torkamites passent par le Sourd-Bois ; les Ferrathins les laissent passer sans formalités. |
+| **Gryndor** (Endora) | Lien religieux tendu | Le Vael Kurash gryndori (Décrétiste) considère les Vael'Kari ferrathins comme *« insuffisamment formés »*. Les Vael'Kari ferrathins considèrent les Décrétistes comme *« administratifs »*. Les Cavernes de l'Écoute de Ferrath sont, malgré ce désaccord, le lieu d'initiation reconnu par les deux courants — ce qui est un compromis muet. |
+
+---
+
+## Secrets et intrigues
+
+- **Veshva et le retrait** : la pratique de la *« veillée du mourant »* admet implicitement que des esprits *meurent*. Le Concile des Profondeurs n'a pas pris position publique. La doctrine officielle reste celle du retrait, du sommeil, de la concentration. Le jour où une apprentie de Veshva *formulera publiquement* l'extinction (chose qu'aucune ne fait pour le moment), un schisme deviendra inévitable.
+- **Les Mineurs Silencieux** : ce qu'ils ont *vu* ou *entendu* en profondeur n'est pas connu. Les hypothèses circulent (présence vael'kurashe profonde, créature inconnue, simple effet du manque d'air et de lumière prolongé). Aucune n'a de preuve. Le nombre augmente lentement.
+- **Le fer-bleu** : la lignée Volar de Tombarn refuse toute expansion. Plusieurs grandes commandes (Mosrack, Iskara) ont été refusées. La raison officielle est le respect du métier ; la raison privée, transmise par une cousine bavarde à un visiteur kharaziri en 248, est que *« le minéral qu'on ajoute, on ne sait plus où il est »*. La veine du minéral d'origine est presque épuisée.
+- **La Caverne fermée** : sous Ulthral, vers l'an 215, une galerie est revenue avec des Mineurs Silencieux dont l'un a, exceptionnellement, parlé avant de mourir trois jours plus tard. Ce qu'il a dit n'est consigné que dans un document d'un Vael'Kari local : *« Sept respirations, et puis plus. »* La galerie a été scellée. Personne ne sait ce qui respire — ou ne respire plus.
+
+---
+
+## Cadre interne — Patterns
+
+> Encadré technique réservé aux rédacteurs et agents travaillant le Lore. N'apparaît jamais in-world.
+
+**Piège Institutionnel dominant : LE DÉNI DU SABLIER** (refus doctrinal d'admettre l'extinction des esprits, des filons, des présences), doublé d'un **EFFACEMENT DE LA LIMITE** vael'kurash (par contagion de ce qui mérite veille).
+
+Ferrath est, à la lettre, le pays où le piège canonique du Vael Kurash (cf. *[[Vael Kurash]]* §Cadre interne) s'incarne avec le plus de force, parce que le métier civil (la mine) le redouble par sa propre opacité. Trois mécanismes :
+
+1. **Doctrine de la persistance.** Le Vael Kurash, à Ferrath comme ailleurs, refuse d'écrire *extinction*. Quand un esprit ne répond plus, il s'est *retiré*, il *dort*, il *se concentre*. Cette discipline du refus est l'un des grands traits structurels du Vael Kurash actuel (cf. religion canonique). À Ferrath, elle se redouble parce que la doctrine est appliquée non seulement à des esprits forestiers ou solaires (lointains, métaphoriques) mais à des *présences-de-roche* directement liées à l'économie minière. Si on admet qu'un esprit-de-filon est mort, on admet que le filon est mort.
+
+2. **Économie minière en miroir.** Les chefs de mine *savent* que les filons s'épuisent. Mais leur grammaire d'action est de *fermer* (sans drame) et *d'ouvrir ailleurs* (sans annonce). Ils ne formulent pas l'épuisement à l'échelle nationale. Aucun rapport de l'Assemblée des Chefs de Mine ne synthétise les données pour mesurer la tendance globale. Ce silence économique double le silence doctrinal et le rend *évident* aux Ferrathins eux-mêmes — *« on n'en parle pas parce que ça ne se dit pas »*.
+
+3. **Veshva et la dissidence muette.** La pratique des *« veillées du mourant »* est une dissidence — par incarnation, pas par doctrine. Veshva ne prêche rien ; elle veille. Ses sept ou huit apprenties ne se réclament pas d'elle ; elles veillent. Cette dissidence est *tolérée* par le Concile parce qu'elle ne formule pas. Si elle formulait, elle serait combattue. Le Vael Kurash de Ferrath préfère un schisme silencieux à une réforme parlée — c'est sa manière de continuer à *« durer »* (cohérente avec sa propre doctrine de la persistance).
+
+**Tension secondaire : Effacement de la Limite vael'kurash.** À Ferrath particulièrement, le Vael Kurash a fini par *veiller à peu près tout* — y compris des objets manufacturés (un piolet centenaire, une lampe de Volnir). À force d'avoir refusé tous les seuils (cf. critique générique du Vael Kurash : Tranchant qui bascule en Effacement), le clergé a perdu la capacité de tracer ce qui *mérite* veille. Cette dérive est moins voyante à Ferrath qu'à Ulinor (où elle culmine), mais elle est présente.
+
+**Cohérence avec la religion :** Vael Kurash (canonique A.5a) — Déni du Sablier explicite. Ferrath en est le territoire-mère continental. Veshva des Cavernes est la figure canonique. Les sept Cavernes de l'Écoute principales d'Alkaran sont presque toutes en Ferrath. Lex Petra (secondaire) ajoute une vertu d'arbitrage technique mais ne combat pas le piège.
+
+**Âge moral collectif majoritaire : LA LOI** (lignée Vael'Kari, métier minier).
+
+**Figure-clé portant la Vertu Cachée : VESHVA DES CAVERNES** (canonique au Tier A.5a — +187 à +249).
+
+Cf. *[[Vael Kurash]]* §Une figure historique pour la fiche complète. Rappel narratif local :
+
+Veshva-de-la-Lignée-de-la-Source-Bleue, dite Veshva des Cavernes. Vael'Kari d'Alkaran (Ferrath, hautes terres). Née bergère. Initiation à treize ans, passage des Cavernes à dix-neuf, reconnue à vingt-quatre. Quinze ans de pratique exemplaire, *Carnet de Selvara* sur les nuances du silence-de-réponse. À trente-neuf ans, Œuvre Tardive : aller veiller, **seule et longuement**, les esprits qu'on disait *retirés*. Ne demande pas qu'ils répondent. Ne prétend pas qu'ils répondront. Veille. Meurt en +249, au pied d'une pierre des hautes terres que personne d'autre n'avait visitée depuis un demi-siècle.
+
+Vertu portée : **LA CHARGE** (Vertu #1) — assumer la veille de ce qui ne reviendra peut-être pas. Pas par espoir. Pas par devoir codifié. Par capacité à porter ce qui s'éteint. La Charge est gratuite : aucun titre, aucun monument, aucune cérémonie de canonisation officielle. Sept ou huit apprenties (toutes des femmes) pratiquent comme elle a pratiqué, sans coordination, dans des vallées différentes (notamment Yltha à Mara-Vieille).
+
+**Vertu secondaire affleurante : LE VOILE** (Vertu #2) — Veshva refuse, à la fin, de *clore* la doctrine. Elle ne dit pas *« les esprits meurent »*. Elle ne dit pas *« les esprits dorment »*. Elle veille, et c'est tout. Cette retenue — refuser la clôture théorique — est un Voile accompli.
+
+**Note critique de cadre :** ne jamais transformer Veshva en mentor explicite. Sa formulation (*« la veillée du mourant »*) est doctrinalement trouble — elle ne fait pas système. Elle se transmet par exemple. Le lecteur doit pressentir, sans qu'on le formule, que la veillée des esprits affaiblis est plus juste que le déni officiel — mais sans aucune validation narrative. Si une apprentie de Veshva *formulait* la doctrine, elle quitterait le Principe pour glisser dans une nouvelle Loi. Aucune ne le fait.
+
+**Conflit moteur de la nation :**
+
+**La tension entre la Veille et l'Épuisement.** Ferrath est, par sa fondation économique, un pays qui descend dans la roche pour en tirer ressources. Par son fond religieux, c'est un pays qui veille la roche comme présence vivante. Tant que les filons donnaient et que les esprits répondaient, les deux pratiques s'accordaient. Aujourd'hui, les filons s'épuisent et les esprits se taisent — et les deux faits sont *le même fait*, observable des deux côtés du même mur. Le pays choisit, sans le formuler, de *continuer comme si* — par fermeture silencieuse de galeries, par déplacement des veillées vers d'autres présences, par tolérance de la pratique de Veshva. Ce choix est une **gravité**, pas une décision.
+
+Le conflit n'est pas une crise. Il est une lente reconfiguration que personne ne nomme. Les Ferrathins *bons* (les chefs de mine scrupuleux, les Vael'Kari de lignée, les Médiateurs Itinérants honorables) maintiennent la République des Profondeurs avec une compétence réelle. Ils ne voient pas — ou ne disent pas qu'ils voient — que ce qu'ils maintiennent perd de la matière chaque génération.
+
+**Ce qui est *spécifiquement* ferrathin (à ne pas dupliquer ailleurs) :**
+
+- La République des Profondeurs comme **anti-gouvernement** (pas de capitale, pas de roi, pas de charte écrite, pas de signature collective).
+- Les **Mineurs Silencieux** comme catégorie d'exclus structurels par le silence (et non par le métier raté ou la stigmatisation sociale).
+- La concentration des **Cavernes de l'Écoute** principales (six sur sept).
+- La présence canonique de **Veshva des Cavernes** et de ses sept-huit apprenties.
+- Le **fer-bleu** de Tombarn — alliage rare protégé par lignée familiale, et dont la veine de minéral s'épuise sans qu'on le dise.
+- Le **vin-de-roche** comme boisson nationale dont le goût est un test d'appartenance.
+
+**Cohérence avec Sorin Valthen** : Sorin passe par Ferrath au chapitre 10 (*Les Mines*), conjointement avec Iskara. Selon `_arc-sorin.md` : *« Sablier tacite (les hommes mourants des poussières) ; Espérance Vide minière (la grande veine) »* et *« Les mineurs entendent quelque chose. Sorin leur fait l'honneur de ne pas réinterpréter. C'est un de ses bons moments — il écoute sans absorber. »* Cette retenue de Sorin face aux mineurs ferrathins est précieuse. Aucune mention narrative directe n'est nécessaire dans la fiche ; le passage est suffisamment évoqué par le contexte.
+
+**Ratio brisé / relevé pour Ferrath** : pour la figure du Principe (Veshva, ses apprenties, Yltha), prévoir 4-6 figures de la Loi correctement appliquée par des gens *bons* : les chefs de mine scrupuleux, les Vael'Kari de lignée Décrétistes, les Médiateurs Itinérants, les fondeurs Volar de Tombarn, les apprentis-aérateurs qui descendent à neuf ans. Plusieurs de ces figures *« bonnes »* sont elles-mêmes pétries du piège — elles maintiennent le silence sur l'épuisement parce qu'elles le considèrent comme une vertu de retenue.
+
+Aucun PNJ ne doit énoncer le piège. Le lecteur le verra dans la fermeture polie des galeries, dans le silence de l'Assemblée sur les chiffres globaux, dans la *« veillée du mourant »* qui ne se nomme pas, dans le nombre croissant de Mineurs Silencieux qu'on ne compte pas.
+
+---
+
+## Données canoniques (source : Access)
+
+> Identité importée verbatim depuis `AccessExport/Pays.csv`.
+
+### Identité
+
+| Champ | Valeur |
+|-------|--------|
+| **N° Pays (CSV)** | (non rattaché — Ferrath n'apparaît pas comme entrée distincte dans Pays.csv. Mention indirecte dans la Chronologie et dans les chapitres 9-10 du journal de Sorin Valthen.) |
+| **Nom CSV** | Ferrath |
+| **Continent (CSV)** | Alkaran |
+| **Statut canonique** | Reconnaissance par mention. La nation est intégrée au lore canonique V3.4 par cohérence narrative (Sécession des Mineurs, Veshva des Cavernes au Tier A.5a, mentions dans `_arc-sorin.md`). |
+
+### Régions canoniques
+
+- **Vorra** — région centrale, Vythoris
+- **Hautes-Pierres** — massifs orientaux, Cavernes de l'Écoute
+- **Sourd-Bois** — nord-ouest, lisière torkamite
+- **Profonds** — sud-ouest, mines les plus profondes
+- **Lac-de-Vyrn** — région lacustre frontière avec Altram
+
+### Villes canoniques
+
+| Ville | Région | Type |
+|-------|--------|------|
+| Vythoris | Vorra | Centre principal |
+| Vorn-Trel | Vorra | Ville |
+| Goren-Bas | Profonds | Ville |
+| Ulthral | Profonds | Ville |
+| Tombarn | Profonds | Village |
+| Volnir | Hautes-Pierres | Ville |
+| Selthar | Hautes-Pierres | Ville |
+| Caverne-Mère | Hautes-Pierres | Hameau (Vael'Kari) |
+| Mara-Vieille | Sourd-Bois | Hameau |
+| Sourd-Sour | Sourd-Bois | Village |
+| Selvaris | Lac-de-Vyrn | Ville (binationale) |

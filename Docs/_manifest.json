@@ -13,412 +13,136 @@
     {
       "name": "Univers",
       "file": "Univers.md",
-      "title": "🌍 Univers & Monde"
+      "title": "🌍 Univers — Hybelior"
     },
     {
       "name": "Vision",
       "file": "Vision.md",
-      "title": "🎯 Vision & Concept"
+      "title": "🎯 Vision & Concept — la promesse d'Hybelior"
     }
   ],
   "GDD/02 - Monde": [
     {
       "name": "Cosmologie",
       "file": "Cosmologie.md",
-      "title": "✨ Cosmologie d'Hybelior"
+      "title": "La Cosmologie d'Hybelior — la Polyphonie du monde"
     },
     {
       "name": "Frise",
       "file": "Frise.md",
-      "title": "⏳ Frise chronologique d'Hybelior"
+      "title": "⏳ La Frise — la carte du temps long d'Hybelior"
     },
     {
       "name": "Géographie",
       "file": "Géographie.md",
-      "title": "🗺️ Géographie d'Hybelior"
+      "title": "🗺️ Géographie d'Hybelior — la forme du monde"
     },
     {
       "name": "Histoire d'Hybelior",
       "file": "Histoire d'Hybelior.md",
-      "title": "📜 Histoire d'Hybelior — Le Calendrier des Souffles"
+      "title": "📜 Histoire d'Hybelior — Chronique d'un monde qui respire"
     },
     {
       "name": "Lignées",
       "file": "Lignées.md",
-      "title": "🌳 Lignées des civilisations"
+      "title": "🌳 Les Lignées — manières d'être au monde"
     },
     {
       "name": "Traces des Ères",
       "file": "Traces des Ères.md",
-      "title": "🏛️ Traces des Ères — La Mémoire d'Hybelior"
-    }
-  ],
-  "GDD/02 - Monde/Continents/Alkaran": [
-    {
-      "name": "Altram",
-      "file": "Altram.md",
-      "title": "Altram"
-    },
-    {
-      "name": "Ferrath",
-      "file": "Ferrath.md",
-      "title": "Ferrath"
-    },
-    {
-      "name": "Iskara",
-      "file": "Iskara.md",
-      "title": "Iskara"
-    },
-    {
-      "name": "Torkam",
-      "file": "Torkam.md",
-      "title": "Torkam"
-    }
-  ],
-  "GDD/02 - Monde/Continents/Azoria": [
-    {
-      "name": "Azoral",
-      "file": "Azoral.md",
-      "title": "Azoral"
-    },
-    {
-      "name": "Caeloria",
-      "file": "Caeloria.md",
-      "title": "Caeloria"
-    },
-    {
-      "name": "Kethvar",
-      "file": "Kethvar.md",
-      "title": "Kethvar"
-    },
-    {
-      "name": "No Man's Land Azoria",
-      "file": "No Man's Land Azoria.md",
-      "title": "No Man's Land Azoria"
-    },
-    {
-      "name": "Solmaris",
-      "file": "Solmaris.md",
-      "title": "Solmaris"
-    }
-  ],
-  "GDD/02 - Monde/Continents/Baelor": [
-    {
-      "name": "Baelor",
-      "file": "Baelor.md",
-      "title": "Baelor"
-    }
-  ],
-  "GDD/02 - Monde/Continents/Celethor": [
-    {
-      "name": "Astravia",
-      "file": "Astravia.md",
-      "title": "Astravia"
-    },
-    {
-      "name": "Elarian",
-      "file": "Elarian.md",
-      "title": "Elarian"
-    },
-    {
-      "name": "No Man's Land Celethor",
-      "file": "No Man's Land Celethor.md",
-      "title": "No Man's Land Celethor"
-    },
-    {
-      "name": "Ryldor",
-      "file": "Ryldor.md",
-      "title": "Ryldor"
-    }
-  ],
-  "GDD/02 - Monde/Continents/Cendara": [
-    {
-      "name": "Arkhen",
-      "file": "Arkhen.md",
-      "title": "Arkhen"
-    },
-    {
-      "name": "Cendara",
-      "file": "Cendara.md",
-      "title": "Cendara"
-    },
-    {
-      "name": "Pyrevane",
-      "file": "Pyrevane.md",
-      "title": "Pyrevane"
-    }
-  ],
-  "GDD/02 - Monde/Continents/Cestra": [
-    {
-      "name": "No Man's Land Cestra",
-      "file": "No Man's Land Cestra.md",
-      "title": "No Man's Land Cestra"
-    },
-    {
-      "name": "Noravia",
-      "file": "Noravia.md",
-      "title": "Noravia"
-    }
-  ],
-  "GDD/02 - Monde/Continents/Endora": [
-    {
-      "name": "Avalor",
-      "file": "Avalor.md",
-      "title": "Avalor"
-    },
-    {
-      "name": "Haldria",
-      "file": "Haldria.md",
-      "title": "Haldria"
-    },
-    {
-      "name": "Sanvara",
-      "file": "Sanvara.md",
-      "title": "Sanvara"
-    }
-  ],
-  "GDD/02 - Monde/Continents/Evertia": [
-    {
-      "name": "Evertia",
-      "file": "Evertia.md",
-      "title": "Evertia"
-    },
-    {
-      "name": "Sylvara",
-      "file": "Sylvara.md",
-      "title": "Sylvara"
-    },
-    {
-      "name": "Thalmaris",
-      "file": "Thalmaris.md",
-      "title": "Thalmaris"
-    }
-  ],
-  "GDD/02 - Monde/Continents/Galenor": [
-    {
-      "name": "Kharazir",
-      "file": "Kharazir.md",
-      "title": "Kharazir"
-    },
-    {
-      "name": "Lumasar",
-      "file": "Lumasar.md",
-      "title": "Lumasar"
-    },
-    {
-      "name": "Seraphia",
-      "file": "Seraphia.md",
-      "title": "Seraphia"
-    },
-    {
-      "name": "Solena",
-      "file": "Solena.md",
-      "title": "Solena"
-    },
-    {
-      "name": "Trinoria",
-      "file": "Trinoria.md",
-      "title": "Trinoria"
-    },
-    {
-      "name": "Valoria",
-      "file": "Valoria.md",
-      "title": "Valoria"
-    },
-    {
-      "name": "Ventera",
-      "file": "Ventera.md",
-      "title": "Ventera"
-    }
-  ],
-  "GDD/02 - Monde/Continents/Ilthara": [
-    {
-      "name": "Ackerna",
-      "file": "Ackerna.md",
-      "title": "Ackerna"
-    },
-    {
-      "name": "Drakora",
-      "file": "Drakora.md",
-      "title": "Drakora"
-    },
-    {
-      "name": "Gryndor",
-      "file": "Gryndor.md",
-      "title": "Gryndor"
-    },
-    {
-      "name": "Lythar",
-      "file": "Lythar.md",
-      "title": "Lythar"
-    },
-    {
-      "name": "Pyrtara",
-      "file": "Pyrtara.md",
-      "title": "Pyrtara"
-    },
-    {
-      "name": "Sylthara",
-      "file": "Sylthara.md",
-      "title": "Sylthara"
-    },
-    {
-      "name": "Vytharia",
-      "file": "Vytharia.md",
-      "title": "Vytharia"
-    },
-    {
-      "name": "Warenthor",
-      "file": "Warenthor.md",
-      "title": "Warenthor"
-    }
-  ],
-  "GDD/02 - Monde/Continents/Nysaria": [
-    {
-      "name": "Lunasar",
-      "file": "Lunasar.md",
-      "title": "Lunasar"
-    },
-    {
-      "name": "Mirathi",
-      "file": "Mirathi.md",
-      "title": "Mirathi"
-    },
-    {
-      "name": "Nysaria",
-      "file": "Nysaria.md",
-      "title": "Nysaria"
-    }
-  ],
-  "GDD/02 - Monde/Continents/Onara": [
-    {
-      "name": "Elarath",
-      "file": "Elarath.md",
-      "title": "Elarath"
-    },
-    {
-      "name": "Mosrack",
-      "file": "Mosrack.md",
-      "title": "Mosrack"
-    },
-    {
-      "name": "Myrtam",
-      "file": "Myrtam.md",
-      "title": "Myrtam"
-    },
-    {
-      "name": "Tyndara",
-      "file": "Tyndara.md",
-      "title": "Tyndara"
-    }
-  ],
-  "GDD/02 - Monde/Continents/Ulinor": [
-    {
-      "name": "Dhalvoria",
-      "file": "Dhalvoria.md",
-      "title": "Dhalvoria"
-    },
-    {
-      "name": "Skaldoria",
-      "file": "Skaldoria.md",
-      "title": "Skaldoria"
-    },
-    {
-      "name": "Ulinor",
-      "file": "Ulinor.md",
-      "title": "Ulinor"
+      "title": "🏛️ Traces des Ères — la mémoire géographique du monde"
     }
   ],
   "GDD/03 - Mécaniques": [
     {
       "name": "Armes et Maîtrise",
       "file": "Armes et Maîtrise.md",
-      "title": "🗡️ Armes & Maîtrise"
+      "title": "🗡️ Armes & Maîtrise — on devient ce qu'on pratique"
     },
     {
       "name": "Combat",
       "file": "Combat.md",
-      "title": "⚔️ Système de Combat"
+      "title": "⚔️ Le Combat — le dialogue qui peut tuer"
     },
     {
       "name": "Exploration",
       "file": "Exploration.md",
-      "title": "🗺️ Exploration & Monde ouvert"
+      "title": "🗺️ Exploration — entrer en relation avec un monde"
     },
     {
       "name": "Factions",
       "file": "Factions.md",
-      "title": "⚔️ Factions (définies par le lore)"
+      "title": "⚔️ Les Factions — pensées du monde"
     },
     {
       "name": "Guildes",
       "file": "Guildes.md",
-      "title": "🏰 Guildes (créées par les joueurs)"
+      "title": "🏰 Les Guildes — la famille élue"
     },
     {
       "name": "Interface",
       "file": "Interface.md",
-      "title": "🖥️ Interface Utilisateur"
+      "title": "🖥️ Interface — la transparence du regard"
     },
     {
       "name": "L'Accord",
       "file": "L'Accord.md",
-      "title": "🎵 L'Accord — La progression d'Hybelior"
+      "title": "🎵 L'Accord — la résonance avec le monde"
     },
     {
       "name": "Labeur",
       "file": "Labeur.md",
-      "title": "⚡ Le Labeur"
+      "title": "⚡ Le Labeur — l'énergie du jour"
     },
     {
       "name": "Le Lien",
       "file": "Le Lien.md",
-      "title": "🔮 La Magie — Le Lien"
+      "title": "🔮 Le Lien — la magie comme résonance"
     },
     {
       "name": "Le Souffle",
       "file": "Le Souffle.md",
-      "title": "🌬️ Le Souffle — Le rythme cosmique d'Hybelior"
+      "title": "🌬️ Le Souffle — la respiration du monde"
     },
     {
       "name": "Les Ères",
       "file": "Les Ères.md",
-      "title": "🌌 Les Ères — Saisons cosmiques d'Hybelior"
+      "title": "🌌 Les Ères — saisons cosmiques d'Hybelior"
     },
     {
       "name": "Mort",
       "file": "Mort.md",
-      "title": "💀 Mort & Conséquences"
+      "title": "💀 Mort — la rupture qui apprend"
     },
     {
       "name": "Métiers",
       "file": "Métiers.md",
-      "title": "🔨 Métiers & Artisanat"
+      "title": "🔨 Métiers — soixante-trois manières d'habiter le monde"
     },
     {
       "name": "Personnage",
       "file": "Personnage.md",
-      "title": "🧑 Le Personnage Joueur"
+      "title": "🧑 Le Personnage — une présence dans le monde"
     },
     {
       "name": "Progression",
       "file": "Progression.md",
-      "title": "📈 Progression — Le système d'Accord"
+      "title": "📈 Progression — Plusieurs vies dans une seule"
     },
     {
       "name": "Prédiction",
       "file": "Prédiction.md",
-      "title": "🔮 La Prédiction — Anticiper les Souffles"
+      "title": "🔮 La Prédiction — lire le Souffle qui vient"
     },
     {
       "name": "PvP",
       "file": "PvP.md",
-      "title": "⚔️ PvP"
+      "title": "⚔️ PvP — le monde quand il devient dangereux"
     },
     {
       "name": "Économie",
       "file": "Économie.md",
-      "title": "💰 Économie & Monétisation"
+      "title": "💰 L'Économie — le tissu vivant d'Hybelior"
     }
   ],
   "GDD/03 - Mécaniques/Architecture": [
@@ -463,1414 +187,6 @@
       "name": "Types d'Items",
       "file": "Types d'Items.md",
       "title": "📋 Types d'Items — Catalogue master"
-    }
-  ],
-  "GDD/03 - Mécaniques/Items/Catalogue/Accessoires/Amulettes": [
-    {
-      "name": "Disque d'effroi",
-      "file": "Disque d'effroi.md",
-      "title": "Disque d'effroi"
-    },
-    {
-      "name": "Fontaine de vitesse",
-      "file": "Fontaine de vitesse.md",
-      "title": "Fontaine de vitesse"
-    },
-    {
-      "name": "Gant de tentation",
-      "file": "Gant de tentation.md",
-      "title": "Gant de tentation"
-    },
-    {
-      "name": "Gobelet porte-bonheur",
-      "file": "Gobelet porte-bonheur.md",
-      "title": "Gobelet porte-bonheur"
-    },
-    {
-      "name": "Graal de la fidélité",
-      "file": "Graal de la fidélité.md",
-      "title": "Graal de la fidélité"
-    },
-    {
-      "name": "Médaillon en argent",
-      "file": "Médaillon en argent.md",
-      "title": "Médaillon en argent"
-    },
-    {
-      "name": "Éclat prospère",
-      "file": "Éclat prospère.md",
-      "title": "Éclat prospère"
-    }
-  ],
-  "GDD/03 - Mécaniques/Items/Catalogue/Accessoires/Anneaux": [
-    {
-      "name": "Anneau d'argent à gemme",
-      "file": "Anneau d'argent à gemme.md",
-      "title": "Anneau d'argent à gemme"
-    },
-    {
-      "name": "Anneau d'or runique",
-      "file": "Anneau d'or runique.md",
-      "title": "Anneau d'or runique"
-    },
-    {
-      "name": "Anneau de fer",
-      "file": "Anneau de fer.md",
-      "title": "Anneau de fer"
-    },
-    {
-      "name": "Anneau de mithril magistral",
-      "file": "Anneau de mithril magistral.md",
-      "title": "Anneau de mithril magistral"
-    },
-    {
-      "name": "Anneau sigillaire des Sentinelles",
-      "file": "Anneau sigillaire des Sentinelles.md",
-      "title": "Anneau sigillaire des Sentinelles"
-    }
-  ],
-  "GDD/03 - Mécaniques/Items/Catalogue/Accessoires/Boucles d'oreille": [
-    {
-      "name": "Anneaux d'oreille en argent",
-      "file": "Anneaux d'oreille en argent.md",
-      "title": "Anneaux d'oreille en argent"
-    },
-    {
-      "name": "Boucles d'oreille à éclat de Voie",
-      "file": "Boucles d'oreille à éclat de Voie.md",
-      "title": "Boucles d'oreille à éclat de Voie"
-    }
-  ],
-  "GDD/03 - Mécaniques/Items/Catalogue/Accessoires/Bracelets": [
-    {
-      "name": "Bracelet de cuir",
-      "file": "Bracelet de cuir.md",
-      "title": "Bracelet de cuir"
-    },
-    {
-      "name": "Bracelet de mithril",
-      "file": "Bracelet de mithril.md",
-      "title": "Bracelet de mithril"
-    }
-  ],
-  "GDD/03 - Mécaniques/Items/Catalogue/Accessoires/Broches": [
-    {
-      "name": "Broche de faction",
-      "file": "Broche de faction.md",
-      "title": "Broche de faction"
-    },
-    {
-      "name": "Fibule simple en bronze",
-      "file": "Fibule simple en bronze.md",
-      "title": "Fibule simple en bronze"
-    }
-  ],
-  "GDD/03 - Mécaniques/Items/Catalogue/Accessoires/Ceintures-accessoire": [
-    {
-      "name": "Ceinture d'aventurier en cuir renforcé",
-      "file": "Ceinture d'aventurier en cuir renforcé.md",
-      "title": "Ceinture d'aventurier en cuir renforcé"
-    },
-    {
-      "name": "Ceinture à pochettes en cuir",
-      "file": "Ceinture à pochettes en cuir.md",
-      "title": "Ceinture à pochettes en cuir"
-    }
-  ],
-  "GDD/03 - Mécaniques/Items/Catalogue/Armes/Distance/Arc": [
-    {
-      "name": "Arc cosmique des Échos",
-      "file": "Arc cosmique des Échos.md",
-      "title": "Arc cosmique des Échos"
-    },
-    {
-      "name": "Arc court en if",
-      "file": "Arc court en if.md",
-      "title": "Arc court en if"
-    },
-    {
-      "name": "Arc long en chêne magistral",
-      "file": "Arc long en chêne magistral.md",
-      "title": "Arc long en chêne magistral"
-    }
-  ],
-  "GDD/03 - Mécaniques/Items/Catalogue/Armes/Distance/Flèche": [
-    {
-      "name": "Flèche commune en fer",
-      "file": "Flèche commune en fer.md",
-      "title": "Flèche commune en fer"
-    },
-    {
-      "name": "Flèche incendiaire d'Eldoria",
-      "file": "Flèche incendiaire d'Eldoria.md",
-      "title": "Flèche incendiaire d'Eldoria"
-    },
-    {
-      "name": "Flèche perforante en acier",
-      "file": "Flèche perforante en acier.md",
-      "title": "Flèche perforante en acier"
-    }
-  ],
-  "GDD/03 - Mécaniques/Items/Catalogue/Armes/Défensif/Bouclier": [
-    {
-      "name": "Bouclier rond en bois et fer",
-      "file": "Bouclier rond en bois et fer.md",
-      "title": "Bouclier rond en bois et fer"
-    },
-    {
-      "name": "Pavois de chevalier",
-      "file": "Pavois de chevalier.md",
-      "title": "Pavois de chevalier"
-    },
-    {
-      "name": "Targe de la Sentinelle",
-      "file": "Targe de la Sentinelle.md",
-      "title": "Targe de la Sentinelle"
-    }
-  ],
-  "GDD/03 - Mécaniques/Items/Catalogue/Armes/Mêlée 1H/Dague": [
-    {
-      "name": "Dague d'éclaireur en fer",
-      "file": "Dague d'éclaireur en fer.md",
-      "title": "Dague d'éclaireur en fer"
-    },
-    {
-      "name": "Dague jumelle des ombres",
-      "file": "Dague jumelle des ombres.md",
-      "title": "Dague jumelle des ombres"
-    },
-    {
-      "name": "Stylet d'assassin en argent",
-      "file": "Stylet d'assassin en argent.md",
-      "title": "Stylet d'assassin en argent"
-    }
-  ],
-  "GDD/03 - Mécaniques/Items/Catalogue/Armes/Mêlée 1H/Hache à une main": [
-    {
-      "name": "Hache d'abordage en bronze",
-      "file": "Hache d'abordage en bronze.md",
-      "title": "Hache d'abordage en bronze"
-    },
-    {
-      "name": "Hache de bûcheron-soldat",
-      "file": "Hache de bûcheron-soldat.md",
-      "title": "Hache de bûcheron-soldat"
-    },
-    {
-      "name": "Hache rituelle en Acier d'Ivar",
-      "file": "Hache rituelle en Acier d'Ivar.md",
-      "title": "Hache rituelle en Acier d'Ivar"
-    }
-  ],
-  "GDD/03 - Mécaniques/Items/Catalogue/Armes/Mêlée 1H/Lame": [
-    {
-      "name": "Couteau de chasse en fer",
-      "file": "Couteau de chasse en fer.md",
-      "title": "Couteau de chasse en fer"
-    },
-    {
-      "name": "Kukri légendaire de la Nuit",
-      "file": "Kukri légendaire de la Nuit.md",
-      "title": "Kukri légendaire de la Nuit"
-    },
-    {
-      "name": "Sabre œuvré du désert",
-      "file": "Sabre œuvré du désert.md",
-      "title": "Sabre œuvré du désert"
-    }
-  ],
-  "GDD/03 - Mécaniques/Items/Catalogue/Armes/Mêlée 1H/Marteau à une main": [
-    {
-      "name": "Maillet de la Garde Royale",
-      "file": "Maillet de la Garde Royale.md",
-      "title": "Maillet de la Garde Royale"
-    },
-    {
-      "name": "Marteau de soldat en fer",
-      "file": "Marteau de soldat en fer.md",
-      "title": "Marteau de soldat en fer"
-    },
-    {
-      "name": "Marteau œuvré en acier inoxydable",
-      "file": "Marteau œuvré en acier inoxydable.md",
-      "title": "Marteau œuvré en acier inoxydable"
-    }
-  ],
-  "GDD/03 - Mécaniques/Items/Catalogue/Armes/Mêlée 1H/Rapière": [
-    {
-      "name": "Fleuret du Maître d'Armes",
-      "file": "Fleuret du Maître d'Armes.md",
-      "title": "Fleuret du Maître d'Armes"
-    },
-    {
-      "name": "Rapière de duel en acier",
-      "file": "Rapière de duel en acier.md",
-      "title": "Rapière de duel en acier"
-    }
-  ],
-  "GDD/03 - Mécaniques/Items/Catalogue/Armes/Mêlée 1H/Sceptre": [
-    {
-      "name": "Sceptre de la Cathédrale",
-      "file": "Sceptre de la Cathédrale.md",
-      "title": "Sceptre de la Cathédrale"
-    },
-    {
-      "name": "Sceptre de novice en cuivre",
-      "file": "Sceptre de novice en cuivre.md",
-      "title": "Sceptre de novice en cuivre"
-    },
-    {
-      "name": "Sceptre œuvré d'Anterium",
-      "file": "Sceptre œuvré d'Anterium.md",
-      "title": "Sceptre œuvré d'Anterium"
-    }
-  ],
-  "GDD/03 - Mécaniques/Items/Catalogue/Armes/Mêlée 1H/Épée à une main": [
-    {
-      "name": "Cometfall - Cristal du Loup",
-      "file": "Cometfall - Cristal du Loup.md",
-      "title": "Cometfall — Cristal du Loup"
-    },
-    {
-      "name": "Ebony - défenseur des échos",
-      "file": "Ebony - défenseur des échos.md",
-      "title": "Ebony — défenseur des échos"
-    },
-    {
-      "name": "Épée commune en fer",
-      "file": "Épée commune en fer.md",
-      "title": "Épée commune en fer"
-    },
-    {
-      "name": "Épée façonnée en acier",
-      "file": "Épée façonnée en acier.md",
-      "title": "Épée façonnée en acier"
-    },
-    {
-      "name": "Épée magistrale en Bliysium",
-      "file": "Épée magistrale en Bliysium.md",
-      "title": "Épée magistrale en Bliysium"
-    },
-    {
-      "name": "Épée œuvrée en acier d'Ivar",
-      "file": "Épée œuvrée en acier d'Ivar.md",
-      "title": "Épée œuvrée en acier d'Ivar"
-    }
-  ],
-  "GDD/03 - Mécaniques/Items/Catalogue/Armes/Mêlée 2H/Hache à deux mains": [
-    {
-      "name": "Clair de lune - terreur de la rédemption",
-      "file": "Clair de lune - terreur de la rédemption.md",
-      "title": "Clair de lune — terreur de la rédemption"
-    },
-    {
-      "name": "Flamme d'âme",
-      "file": "Flamme d'âme.md",
-      "title": "Flamme d'âme"
-    },
-    {
-      "name": "Gardien des sorts - conquérant de la couronne",
-      "file": "Gardien des sorts - conquérant de la couronne.md",
-      "title": "Gardien des sorts — conquérant de la couronne"
-    },
-    {
-      "name": "Hache de bûcheron-guerrier",
-      "file": "Hache de bûcheron-guerrier.md",
-      "title": "Hache de bûcheron-guerrier"
-    },
-    {
-      "name": "La consécration - point crucial des veuves",
-      "file": "La consécration - point crucial des veuves.md",
-      "title": "La consécration — point crucial des veuves"
-    },
-    {
-      "name": "Spark - secret des rêves illuminés",
-      "file": "Spark - secret des rêves illuminés.md",
-      "title": "Spark — secret des rêves illuminés"
-    },
-    {
-      "name": "Tourment - croisé du ciel",
-      "file": "Tourment - croisé du ciel.md",
-      "title": "Tourment — croisé du ciel"
-    }
-  ],
-  "GDD/03 - Mécaniques/Items/Catalogue/Armes/Mêlée 2H/Lance": [
-    {
-      "name": "Lance d'Aerion",
-      "file": "Lance d'Aerion.md",
-      "title": "Lance d'Aerion"
-    },
-    {
-      "name": "Lance de garde en fer",
-      "file": "Lance de garde en fer.md",
-      "title": "Lance de garde en fer"
-    },
-    {
-      "name": "Pique de bataillon",
-      "file": "Pique de bataillon.md",
-      "title": "Pique de bataillon"
-    }
-  ],
-  "GDD/03 - Mécaniques/Items/Catalogue/Armes/Mêlée 2H/Marteau à deux mains": [
-    {
-      "name": "Bibelot de remords",
-      "file": "Bibelot de remords.md",
-      "title": "Bibelot de remords"
-    },
-    {
-      "name": "Marteau de siège en acier",
-      "file": "Marteau de siège en acier.md",
-      "title": "Marteau de siège en acier"
-    },
-    {
-      "name": "Mystère",
-      "file": "Mystère.md",
-      "title": "Mystère"
-    },
-    {
-      "name": "Oracle",
-      "file": "Oracle.md",
-      "title": "Oracle"
-    },
-    {
-      "name": "Relieur de rêves",
-      "file": "Relieur de rêves.md",
-      "title": "Relieur de rêves"
-    },
-    {
-      "name": "Terrefeu - terreur des rêves illuminés",
-      "file": "Terrefeu - terreur des rêves illuminés.md",
-      "title": "Terrefeu — terreur des rêves illuminés"
-    },
-    {
-      "name": "Épine",
-      "file": "Épine.md",
-      "title": "Épine"
-    }
-  ],
-  "GDD/03 - Mécaniques/Items/Catalogue/Armes/Mêlée 2H/Épée à deux mains": [
-    {
-      "name": "Claymore œuvrée en Acier d'Ivar",
-      "file": "Claymore œuvrée en Acier d'Ivar.md",
-      "title": "Claymore œuvrée en Acier d'Ivar"
-    },
-    {
-      "name": "Espadon de soldat en acier",
-      "file": "Espadon de soldat en acier.md",
-      "title": "Espadon de soldat en acier"
-    }
-  ],
-  "GDD/03 - Mécaniques/Items/Catalogue/Armures/Bras/Brassards": [
-    {
-      "name": "Brassards en cuir",
-      "file": "Brassards en cuir.md",
-      "title": "Brassards en cuir"
-    },
-    {
-      "name": "Brassards en plate",
-      "file": "Brassards en plate.md",
-      "title": "Brassards en plate"
-    }
-  ],
-  "GDD/03 - Mécaniques/Items/Catalogue/Armures/Jambes/Jambières": [
-    {
-      "name": "Cuissardes en mailles",
-      "file": "Cuissardes en mailles.md",
-      "title": "Cuissardes en mailles"
-    },
-    {
-      "name": "Jambières en plate",
-      "file": "Jambières en plate.md",
-      "title": "Jambières en plate"
-    },
-    {
-      "name": "Pantalon en cuir",
-      "file": "Pantalon en cuir.md",
-      "title": "Pantalon en cuir"
-    }
-  ],
-  "GDD/03 - Mécaniques/Items/Catalogue/Armures/Mains/Gantelets": [
-    {
-      "name": "Gantelets en plate",
-      "file": "Gantelets en plate.md",
-      "title": "Gantelets en plate"
-    },
-    {
-      "name": "Gants en cuir",
-      "file": "Gants en cuir.md",
-      "title": "Gants en cuir"
-    },
-    {
-      "name": "Mitaines en tissu",
-      "file": "Mitaines en tissu.md",
-      "title": "Mitaines en tissu"
-    }
-  ],
-  "GDD/03 - Mécaniques/Items/Catalogue/Armures/Pieds/Bottes": [
-    {
-      "name": "Bottes en cuir",
-      "file": "Bottes en cuir.md",
-      "title": "Bottes en cuir"
-    },
-    {
-      "name": "Bottes en plate",
-      "file": "Bottes en plate.md",
-      "title": "Bottes en plate"
-    },
-    {
-      "name": "Sandales en tissu",
-      "file": "Sandales en tissu.md",
-      "title": "Sandales en tissu"
-    }
-  ],
-  "GDD/03 - Mécaniques/Items/Catalogue/Armures/Taille/Ceinture armure": [
-    {
-      "name": "Ceinture de plate",
-      "file": "Ceinture de plate.md",
-      "title": "Ceinture de plate"
-    },
-    {
-      "name": "Ceinture en cuir d'éclaireur",
-      "file": "Ceinture en cuir d'éclaireur.md",
-      "title": "Ceinture en cuir d'éclaireur"
-    }
-  ],
-  "GDD/03 - Mécaniques/Items/Catalogue/Armures/Torse/Cuirasse": [
-    {
-      "name": "Cuirasse de chevalier en plate",
-      "file": "Cuirasse de chevalier en plate.md",
-      "title": "Cuirasse de chevalier en plate"
-    },
-    {
-      "name": "Cuirasse du Premier Veilleur",
-      "file": "Cuirasse du Premier Veilleur.md",
-      "title": "Cuirasse du Premier Veilleur"
-    },
-    {
-      "name": "Plastron de la Sentinelle d'Astravia",
-      "file": "Plastron de la Sentinelle d'Astravia.md",
-      "title": "Plastron de la Sentinelle d'Astravia"
-    },
-    {
-      "name": "Plastron de soldat en mailles",
-      "file": "Plastron de soldat en mailles.md",
-      "title": "Plastron de soldat en mailles"
-    },
-    {
-      "name": "Robe d'apprenti en tissu",
-      "file": "Robe d'apprenti en tissu.md",
-      "title": "Robe d'apprenti en tissu"
-    },
-    {
-      "name": "Tunique d'éclaireur en cuir",
-      "file": "Tunique d'éclaireur en cuir.md",
-      "title": "Tunique d'éclaireur en cuir"
-    }
-  ],
-  "GDD/03 - Mécaniques/Items/Catalogue/Armures/Torse/Robe magique": [
-    {
-      "name": "Robe œuvrée d'Eldoria",
-      "file": "Robe œuvrée d'Eldoria.md",
-      "title": "Robe œuvrée d'Eldoria"
-    },
-    {
-      "name": "Voile de la Veuve de Galenor",
-      "file": "Voile de la Veuve de Galenor.md",
-      "title": "Voile de la Veuve de Galenor"
-    }
-  ],
-  "GDD/03 - Mécaniques/Items/Catalogue/Armures/Tête/Heaume": [
-    {
-      "name": "Capuche en cuir d'éclaireur",
-      "file": "Capuche en cuir d'éclaireur.md",
-      "title": "Capuche en cuir d'éclaireur"
-    },
-    {
-      "name": "Capuche en tissu",
-      "file": "Capuche en tissu.md",
-      "title": "Capuche en tissu"
-    },
-    {
-      "name": "Casque en mailles",
-      "file": "Casque en mailles.md",
-      "title": "Casque en mailles"
-    },
-    {
-      "name": "Heaume de chevalier en plate",
-      "file": "Heaume de chevalier en plate.md",
-      "title": "Heaume de chevalier en plate"
-    }
-  ],
-  "GDD/03 - Mécaniques/Items/Catalogue/Armures/Épaules/Pauldrons": [
-    {
-      "name": "Pauldrons de chevalier en plate",
-      "file": "Pauldrons de chevalier en plate.md",
-      "title": "Pauldrons de chevalier en plate"
-    },
-    {
-      "name": "Pauldrons en cuir",
-      "file": "Pauldrons en cuir.md",
-      "title": "Pauldrons en cuir"
-    },
-    {
-      "name": "Épaulières de soldat en mailles",
-      "file": "Épaulières de soldat en mailles.md",
-      "title": "Épaulières de soldat en mailles"
-    }
-  ],
-  "GDD/03 - Mécaniques/Items/Catalogue/Consommables/Aliments bruts": [
-    {
-      "name": "Carotte",
-      "file": "Carotte.md",
-      "title": "Carotte"
-    },
-    {
-      "name": "Fromage de chèvre affiné",
-      "file": "Fromage de chèvre affiné.md",
-      "title": "Fromage de chèvre affiné"
-    },
-    {
-      "name": "Pavé de cerf",
-      "file": "Pavé de cerf.md",
-      "title": "Pavé de cerf"
-    },
-    {
-      "name": "Pomme rouge",
-      "file": "Pomme rouge.md",
-      "title": "Pomme rouge"
-    },
-    {
-      "name": "Truite fumée",
-      "file": "Truite fumée.md",
-      "title": "Truite fumée"
-    }
-  ],
-  "GDD/03 - Mécaniques/Items/Catalogue/Consommables/Boissons": [
-    {
-      "name": "Amigo universel",
-      "file": "Amigo universel.md",
-      "title": "Amigo universel"
-    },
-    {
-      "name": "Bière commune de taverne",
-      "file": "Bière commune de taverne.md",
-      "title": "Bière commune de taverne"
-    },
-    {
-      "name": "Boire un buzzer",
-      "file": "Boire un buzzer.md",
-      "title": "Boire un buzzer"
-    },
-    {
-      "name": "Lever de soleil démoniaque",
-      "file": "Lever de soleil démoniaque.md",
-      "title": "Lever de soleil démoniaque"
-    },
-    {
-      "name": "Score fou",
-      "file": "Score fou.md",
-      "title": "Score fou"
-    },
-    {
-      "name": "Tempête démoniaque",
-      "file": "Tempête démoniaque.md",
-      "title": "Tempête démoniaque"
-    },
-    {
-      "name": "Élingue banane",
-      "file": "Élingue banane.md",
-      "title": "Élingue banane"
-    }
-  ],
-  "GDD/03 - Mécaniques/Items/Catalogue/Consommables/Champignons": [
-    {
-      "name": "Amanite des Voiles",
-      "file": "Amanite des Voiles.md",
-      "title": "Amanite des Voiles"
-    },
-    {
-      "name": "Champignon de Paris",
-      "file": "Champignon de Paris.md",
-      "title": "Champignon de Paris"
-    }
-  ],
-  "GDD/03 - Mécaniques/Items/Catalogue/Consommables/Cristaux usables": [
-    {
-      "name": "Cristal d'éveil de Voie",
-      "file": "Cristal d'éveil de Voie.md",
-      "title": "Cristal d'éveil de Voie"
-    },
-    {
-      "name": "Cristal de mana mineur",
-      "file": "Cristal de mana mineur.md",
-      "title": "Cristal de mana mineur"
-    },
-    {
-      "name": "Cristal de recharge majeur",
-      "file": "Cristal de recharge majeur.md",
-      "title": "Cristal de recharge majeur"
-    }
-  ],
-  "GDD/03 - Mécaniques/Items/Catalogue/Consommables/Gâteaux": [
-    {
-      "name": "Gâteau de fête royale",
-      "file": "Gâteau de fête royale.md",
-      "title": "Gâteau de fête royale"
-    },
-    {
-      "name": "Tarte aux pommes",
-      "file": "Tarte aux pommes.md",
-      "title": "Tarte aux pommes"
-    }
-  ],
-  "GDD/03 - Mécaniques/Items/Catalogue/Consommables/Livres-Récipient": [
-    {
-      "name": "Arbres et vautours",
-      "file": "Arbres et vautours.md",
-      "title": "Arbres et vautours"
-    },
-    {
-      "name": "Flèche des Dieux",
-      "file": "Flèche des Dieux.md",
-      "title": "Flèche des Dieux"
-    },
-    {
-      "name": "Géant avec l'immortalité",
-      "file": "Géant avec l'immortalité.md",
-      "title": "Géant avec l'immortalité"
-    },
-    {
-      "name": "Mendier dans les abysses",
-      "file": "Mendier dans les abysses.md",
-      "title": "Mendier dans les abysses"
-    },
-    {
-      "name": "Signes chez les anges",
-      "file": "Signes chez les anges.md",
-      "title": "Signes chez les anges"
-    },
-    {
-      "name": "Vautours avec honneur",
-      "file": "Vautours avec honneur.md",
-      "title": "Vautours avec honneur"
-    }
-  ],
-  "GDD/03 - Mécaniques/Items/Catalogue/Consommables/Modificateurs": [
-    {
-      "name": "Cannelle",
-      "file": "Cannelle.md",
-      "title": "Cannelle"
-    },
-    {
-      "name": "Persil",
-      "file": "Persil.md",
-      "title": "Persil"
-    },
-    {
-      "name": "Sauge sacrée",
-      "file": "Sauge sacrée.md",
-      "title": "Sauge sacrée"
-    },
-    {
-      "name": "Sel de mer",
-      "file": "Sel de mer.md",
-      "title": "Sel de mer"
-    }
-  ],
-  "GDD/03 - Mécaniques/Items/Catalogue/Consommables/Pains": [
-    {
-      "name": "Brioche royale",
-      "file": "Brioche royale.md",
-      "title": "Brioche royale"
-    },
-    {
-      "name": "Pain commun",
-      "file": "Pain commun.md",
-      "title": "Pain commun"
-    },
-    {
-      "name": "Pain de campagne",
-      "file": "Pain de campagne.md",
-      "title": "Pain de campagne"
-    },
-    {
-      "name": "Pain noir d'Alkaran",
-      "file": "Pain noir d'Alkaran.md",
-      "title": "Pain noir d'Alkaran"
-    },
-    {
-      "name": "Pain rituel d'Aetheron",
-      "file": "Pain rituel d'Aetheron.md",
-      "title": "Pain rituel d'Aetheron"
-    }
-  ],
-  "GDD/03 - Mécaniques/Items/Catalogue/Consommables/Parchemins": [
-    {
-      "name": "Parchemin d'Invisibilité",
-      "file": "Parchemin d'Invisibilité.md",
-      "title": "Parchemin d'Invisibilité"
-    },
-    {
-      "name": "Parchemin de Boule de feu",
-      "file": "Parchemin de Boule de feu.md",
-      "title": "Parchemin de Boule de feu"
-    },
-    {
-      "name": "Parchemin de Soin de masse",
-      "file": "Parchemin de Soin de masse.md",
-      "title": "Parchemin de Soin de masse"
-    }
-  ],
-  "GDD/03 - Mécaniques/Items/Catalogue/Consommables/Potions": [
-    {
-      "name": "Antidote raffiné",
-      "file": "Antidote raffiné.md",
-      "title": "Antidote raffiné"
-    },
-    {
-      "name": "Potion de régen Mana",
-      "file": "Potion de régen Mana.md",
-      "title": "Potion de régen Mana"
-    },
-    {
-      "name": "Potion de soin majeure",
-      "file": "Potion de soin majeure.md",
-      "title": "Potion de soin majeure"
-    },
-    {
-      "name": "Potion de soin mineure",
-      "file": "Potion de soin mineure.md",
-      "title": "Potion de soin mineure"
-    },
-    {
-      "name": "Élixir cosmique d'Aetheron",
-      "file": "Élixir cosmique d'Aetheron.md",
-      "title": "Élixir cosmique d'Aetheron"
-    }
-  ],
-  "GDD/03 - Mécaniques/Items/Catalogue/Consommables/Récipients": [
-    {
-      "name": "Fiole en verre",
-      "file": "Fiole en verre.md",
-      "title": "Fiole en verre"
-    },
-    {
-      "name": "Fiole sertie d'argent",
-      "file": "Fiole sertie d'argent.md",
-      "title": "Fiole sertie d'argent"
-    },
-    {
-      "name": "Gourde en cuir",
-      "file": "Gourde en cuir.md",
-      "title": "Gourde en cuir"
-    }
-  ],
-  "GDD/03 - Mécaniques/Items/Catalogue/Focus magiques/Bandeaux frontaux": [
-    {
-      "name": "Bandeau d'Augure en soie",
-      "file": "Bandeau d'Augure en soie.md",
-      "title": "Bandeau d'Augure en soie"
-    },
-    {
-      "name": "Bandeau de scribe en lin",
-      "file": "Bandeau de scribe en lin.md",
-      "title": "Bandeau de scribe en lin"
-    }
-  ],
-  "GDD/03 - Mécaniques/Items/Catalogue/Focus magiques/Cristaux de Voie": [
-    {
-      "name": "Cristal de Voie d'Aquor",
-      "file": "Cristal de Voie d'Aquor.md",
-      "title": "Cristal de Voie d'Aquor"
-    },
-    {
-      "name": "Cristal de Voie d'Eldoria",
-      "file": "Cristal de Voie d'Eldoria.md",
-      "title": "Cristal de Voie d'Eldoria"
-    },
-    {
-      "name": "Cristal de Voie de Noctis",
-      "file": "Cristal de Voie de Noctis.md",
-      "title": "Cristal de Voie de Noctis"
-    },
-    {
-      "name": "Cristal de Voie de Spiritus",
-      "file": "Cristal de Voie de Spiritus.md",
-      "title": "Cristal de Voie de Spiritus"
-    },
-    {
-      "name": "Cristal de Voie de Tempora",
-      "file": "Cristal de Voie de Tempora.md",
-      "title": "Cristal de Voie de Tempora"
-    }
-  ],
-  "GDD/03 - Mécaniques/Items/Catalogue/Focus magiques/Orbes": [
-    {
-      "name": "Orbe d'Eldoria",
-      "file": "Orbe d'Eldoria.md",
-      "title": "Orbe d'Eldoria"
-    },
-    {
-      "name": "Orbe de cristal commun",
-      "file": "Orbe de cristal commun.md",
-      "title": "Orbe de cristal commun"
-    }
-  ],
-  "GDD/03 - Mécaniques/Items/Catalogue/Focus magiques/Talismans": [
-    {
-      "name": "Talisman de pacte mineur",
-      "file": "Talisman de pacte mineur.md",
-      "title": "Talisman de pacte mineur"
-    },
-    {
-      "name": "Talisman des Augures",
-      "file": "Talisman des Augures.md",
-      "title": "Talisman des Augures"
-    }
-  ],
-  "GDD/03 - Mécaniques/Items/Catalogue/Focus magiques/Tomes": [
-    {
-      "name": "Codex universel des Voies",
-      "file": "Codex universel des Voies.md",
-      "title": "Codex universel des Voies"
-    },
-    {
-      "name": "Tome d'Aquor",
-      "file": "Tome d'Aquor.md",
-      "title": "Tome d'Aquor"
-    },
-    {
-      "name": "Tome d'Eldoria",
-      "file": "Tome d'Eldoria.md",
-      "title": "Tome d'Eldoria"
-    },
-    {
-      "name": "Tome de Noctis",
-      "file": "Tome de Noctis.md",
-      "title": "Tome de Noctis"
-    },
-    {
-      "name": "Tome de Tempora",
-      "file": "Tome de Tempora.md",
-      "title": "Tome de Tempora"
-    }
-  ],
-  "GDD/03 - Mécaniques/Items/Catalogue/Outils/Atelier": [
-    {
-      "name": "Aiguille et fuseau",
-      "file": "Aiguille et fuseau.md",
-      "title": "Aiguille et fuseau"
-    },
-    {
-      "name": "Mortier et pilon",
-      "file": "Mortier et pilon.md",
-      "title": "Mortier et pilon"
-    },
-    {
-      "name": "Pince et burin",
-      "file": "Pince et burin.md",
-      "title": "Pince et burin"
-    },
-    {
-      "name": "Plume et stylet",
-      "file": "Plume et stylet.md",
-      "title": "Plume et stylet"
-    }
-  ],
-  "GDD/03 - Mécaniques/Items/Catalogue/Outils/Forge": [
-    {
-      "name": "Marteau de forge en fer",
-      "file": "Marteau de forge en fer.md",
-      "title": "Marteau de forge en fer"
-    },
-    {
-      "name": "Soufflet en cuir",
-      "file": "Soufflet en cuir.md",
-      "title": "Soufflet en cuir"
-    }
-  ],
-  "GDD/03 - Mécaniques/Items/Catalogue/Outils/Récolte": [
-    {
-      "name": "Canne à pêche",
-      "file": "Canne à pêche.md",
-      "title": "Canne à pêche"
-    },
-    {
-      "name": "Couteau de tanneur",
-      "file": "Couteau de tanneur.md",
-      "title": "Couteau de tanneur"
-    },
-    {
-      "name": "Faux de fermier",
-      "file": "Faux de fermier.md",
-      "title": "Faux de fermier"
-    },
-    {
-      "name": "Hache de bûcheron",
-      "file": "Hache de bûcheron.md",
-      "title": "Hache de bûcheron"
-    },
-    {
-      "name": "Pioche de mineur",
-      "file": "Pioche de mineur.md",
-      "title": "Pioche de mineur"
-    }
-  ],
-  "GDD/03 - Mécaniques/Items/Catalogue/Ressources/Fabriqué/Alliages": [
-    {
-      "name": "Acier au tungstène",
-      "file": "Acier au tungstène.md",
-      "title": "Acier au tungstène"
-    },
-    {
-      "name": "Acier d'Ivar",
-      "file": "Acier d'Ivar.md",
-      "title": "Acier d'Ivar"
-    },
-    {
-      "name": "Acier inoxydable",
-      "file": "Acier inoxydable.md",
-      "title": "Acier inoxydable"
-    },
-    {
-      "name": "Anterium",
-      "file": "Anterium.md",
-      "title": "Anterium"
-    },
-    {
-      "name": "Bliysium",
-      "file": "Bliysium.md",
-      "title": "Bliysium"
-    },
-    {
-      "name": "Bronze",
-      "file": "Bronze.md",
-      "title": "Bronze"
-    },
-    {
-      "name": "Déterium",
-      "file": "Déterium.md",
-      "title": "Déterium"
-    },
-    {
-      "name": "Laiton",
-      "file": "Laiton.md",
-      "title": "Laiton"
-    },
-    {
-      "name": "Spuelium",
-      "file": "Spuelium.md",
-      "title": "Spuelium"
-    }
-  ],
-  "GDD/03 - Mécaniques/Items/Catalogue/Ressources/Fabriqué/Gemmes taillées": [
-    {
-      "name": "Rubis taillé",
-      "file": "Rubis taillé.md",
-      "title": "Rubis taillé"
-    },
-    {
-      "name": "Saphir taillé",
-      "file": "Saphir taillé.md",
-      "title": "Saphir taillé"
-    },
-    {
-      "name": "Émeraude taillée",
-      "file": "Émeraude taillée.md",
-      "title": "Émeraude taillée"
-    }
-  ],
-  "GDD/03 - Mécaniques/Items/Catalogue/Ressources/Fabriqué/Lingots": [
-    {
-      "name": "Lingot d'acier",
-      "file": "Lingot d'acier.md",
-      "title": "Lingot d'acier"
-    },
-    {
-      "name": "Lingot d'argent",
-      "file": "Lingot d'argent.md",
-      "title": "Lingot d'argent"
-    },
-    {
-      "name": "Lingot d'or",
-      "file": "Lingot d'or.md",
-      "title": "Lingot d'or"
-    },
-    {
-      "name": "Lingot de cuivre",
-      "file": "Lingot de cuivre.md",
-      "title": "Lingot de cuivre"
-    },
-    {
-      "name": "Lingot de fer",
-      "file": "Lingot de fer.md",
-      "title": "Lingot de fer"
-    },
-    {
-      "name": "Lingot de mithril",
-      "file": "Lingot de mithril.md",
-      "title": "Lingot de mithril"
-    }
-  ],
-  "GDD/03 - Mécaniques/Items/Catalogue/Ressources/Fabriqué/Planches": [
-    {
-      "name": "Planche en chêne",
-      "file": "Planche en chêne.md",
-      "title": "Planche en chêne"
-    },
-    {
-      "name": "Planche en frêne",
-      "file": "Planche en frêne.md",
-      "title": "Planche en frêne"
-    }
-  ],
-  "GDD/03 - Mécaniques/Items/Catalogue/Ressources/Fabriqué/Tissus": [
-    {
-      "name": "Laine",
-      "file": "Laine.md",
-      "title": "Laine"
-    },
-    {
-      "name": "Lin",
-      "file": "Lin.md",
-      "title": "Lin"
-    },
-    {
-      "name": "Soie",
-      "file": "Soie.md",
-      "title": "Soie"
-    }
-  ],
-  "GDD/03 - Mécaniques/Items/Catalogue/Ressources/Récolte Créature/Cuir": [
-    {
-      "name": "Cuir d'Antérix",
-      "file": "Cuir d'Antérix.md",
-      "title": "Cuir d'Antérix"
-    },
-    {
-      "name": "Cuir d'ours",
-      "file": "Cuir d'ours.md",
-      "title": "Cuir d'ours"
-    },
-    {
-      "name": "Cuir de cerf",
-      "file": "Cuir de cerf.md",
-      "title": "Cuir de cerf"
-    },
-    {
-      "name": "Cuir de loup",
-      "file": "Cuir de loup.md",
-      "title": "Cuir de loup"
-    },
-    {
-      "name": "Cuir de requin abyssal",
-      "file": "Cuir de requin abyssal.md",
-      "title": "Cuir de requin abyssal"
-    }
-  ],
-  "GDD/03 - Mécaniques/Items/Catalogue/Ressources/Récolte Créature/Os": [
-    {
-      "name": "Os d'Antérix",
-      "file": "Os d'Antérix.md",
-      "title": "Os d'Antérix"
-    },
-    {
-      "name": "Os de Ceapeecu",
-      "file": "Os de Ceapeecu.md",
-      "title": "Os de Ceapeecu"
-    },
-    {
-      "name": "Os de Fallilla",
-      "file": "Os de Fallilla.md",
-      "title": "Os de Fallilla"
-    },
-    {
-      "name": "Os de Feopsingale",
-      "file": "Os de Feopsingale.md",
-      "title": "Os de Feopsingale"
-    },
-    {
-      "name": "Os de Loumatée",
-      "file": "Os de Loumatée.md",
-      "title": "Os de Loumatée"
-    },
-    {
-      "name": "Os de Paboucs",
-      "file": "Os de Paboucs.md",
-      "title": "Os de Paboucs"
-    },
-    {
-      "name": "Os de Sparutor",
-      "file": "Os de Sparutor.md",
-      "title": "Os de Sparutor"
-    },
-    {
-      "name": "Os de Zastalo",
-      "file": "Os de Zastalo.md",
-      "title": "Os de Zastalo"
-    },
-    {
-      "name": "Os de Zocshawk",
-      "file": "Os de Zocshawk.md",
-      "title": "Os de Zocshawk"
-    },
-    {
-      "name": "Os de loup",
-      "file": "Os de loup.md",
-      "title": "Os de loup"
-    }
-  ],
-  "GDD/03 - Mécaniques/Items/Catalogue/Ressources/Récolte Créature/Plumes": [
-    {
-      "name": "Plume cosmique d'aigle d'Eldoria",
-      "file": "Plume cosmique d'aigle d'Eldoria.md",
-      "title": "Plume cosmique d'aigle d'Eldoria"
-    },
-    {
-      "name": "Plume d'aigle",
-      "file": "Plume d'aigle.md",
-      "title": "Plume d'aigle"
-    },
-    {
-      "name": "Plume de canard",
-      "file": "Plume de canard.md",
-      "title": "Plume de canard"
-    }
-  ],
-  "GDD/03 - Mécaniques/Items/Catalogue/Ressources/Récolte Créature/Écailles": [
-    {
-      "name": "Écaille de dragon nain",
-      "file": "Écaille de dragon nain.md",
-      "title": "Écaille de dragon nain"
-    },
-    {
-      "name": "Écaille de poisson abyssal",
-      "file": "Écaille de poisson abyssal.md",
-      "title": "Écaille de poisson abyssal"
-    }
-  ],
-  "GDD/03 - Mécaniques/Items/Catalogue/Ressources/Récolte Nature/Bois": [
-    {
-      "name": "Bois d'if",
-      "file": "Bois d'if.md",
-      "title": "Bois d'if"
-    },
-    {
-      "name": "Bois d'ébène",
-      "file": "Bois d'ébène.md",
-      "title": "Bois d'ébène"
-    },
-    {
-      "name": "Bois de chêne",
-      "file": "Bois de chêne.md",
-      "title": "Bois de chêne"
-    },
-    {
-      "name": "Bois de hêtre",
-      "file": "Bois de hêtre.md",
-      "title": "Bois de hêtre"
-    },
-    {
-      "name": "Bois de pin",
-      "file": "Bois de pin.md",
-      "title": "Bois de pin"
-    }
-  ],
-  "GDD/03 - Mécaniques/Items/Catalogue/Ressources/Récolte Nature/Fleurs": [
-    {
-      "name": "Rose des montagnes",
-      "file": "Rose des montagnes.md",
-      "title": "Rose des montagnes"
-    }
-  ],
-  "GDD/03 - Mécaniques/Items/Catalogue/Ressources/Récolte Nature/Gemmes brutes": [
-    {
-      "name": "Rubis brut",
-      "file": "Rubis brut.md",
-      "title": "Rubis brut"
-    },
-    {
-      "name": "Saphir brut",
-      "file": "Saphir brut.md",
-      "title": "Saphir brut"
-    },
-    {
-      "name": "Émeraude brute",
-      "file": "Émeraude brute.md",
-      "title": "Émeraude brute"
-    }
-  ],
-  "GDD/03 - Mécaniques/Items/Catalogue/Ressources/Récolte Nature/Minerai": [
-    {
-      "name": "Minerai d'argent",
-      "file": "Minerai d'argent.md",
-      "title": "Minerai d'argent"
-    },
-    {
-      "name": "Minerai d'or",
-      "file": "Minerai d'or.md",
-      "title": "Minerai d'or"
-    },
-    {
-      "name": "Minerai de cuivre",
-      "file": "Minerai de cuivre.md",
-      "title": "Minerai de cuivre"
-    },
-    {
-      "name": "Minerai de fer",
-      "file": "Minerai de fer.md",
-      "title": "Minerai de fer"
-    },
-    {
-      "name": "Minerai de mithril",
-      "file": "Minerai de mithril.md",
-      "title": "Minerai de mithril"
-    }
-  ],
-  "GDD/03 - Mécaniques/Items/Catalogue/Ressources/Récolte Nature/Plantes": [
-    {
-      "name": "Hémostine",
-      "file": "Hémostine.md",
-      "title": "Hémostine"
-    },
-    {
-      "name": "Sanguinaire",
-      "file": "Sanguinaire.md",
-      "title": "Sanguinaire"
-    }
-  ],
-  "GDD/03 - Mécaniques/Items/Catalogue/Ressources/Récolte Nature/Écorce": [
-    {
-      "name": "Écorce d'Épicéa",
-      "file": "Écorce d'Épicéa.md",
-      "title": "Écorce d'Épicéa"
-    },
-    {
-      "name": "Écorce de Douglas",
-      "file": "Écorce de Douglas.md",
-      "title": "Écorce de Douglas"
-    },
-    {
-      "name": "Écorce de Mélèze",
-      "file": "Écorce de Mélèze.md",
-      "title": "Écorce de Mélèze"
-    },
-    {
-      "name": "Écorce de Pin",
-      "file": "Écorce de Pin.md",
-      "title": "Écorce de Pin"
-    },
-    {
-      "name": "Écorce de Sapin",
-      "file": "Écorce de Sapin.md",
-      "title": "Écorce de Sapin"
-    },
-    {
-      "name": "Écorce de cèdre rouge",
-      "file": "Écorce de cèdre rouge.md",
-      "title": "Écorce de cèdre rouge"
-    }
-  ],
-  "GDD/03 - Mécaniques/Items/Catalogue/Vêtements/Capes": [
-    {
-      "name": "Cape de pluie cirée",
-      "file": "Cape de pluie cirée.md",
-      "title": "Cape de pluie cirée"
-    },
-    {
-      "name": "Cape de voyage en laine",
-      "file": "Cape de voyage en laine.md",
-      "title": "Cape de voyage en laine"
-    },
-    {
-      "name": "Cape royale brodée",
-      "file": "Cape royale brodée.md",
-      "title": "Cape royale brodée"
-    }
-  ],
-  "GDD/03 - Mécaniques/Items/Catalogue/Vêtements/Capuches civiles": [
-    {
-      "name": "Capuche d'érudit",
-      "file": "Capuche d'érudit.md",
-      "title": "Capuche d'érudit"
-    },
-    {
-      "name": "Capuche en lin gris",
-      "file": "Capuche en lin gris.md",
-      "title": "Capuche en lin gris"
-    }
-  ],
-  "GDD/03 - Mécaniques/Items/Catalogue/Vêtements/Robes civiles": [
-    {
-      "name": "Robe noble brodée",
-      "file": "Robe noble brodée.md",
-      "title": "Robe noble brodée"
-    },
-    {
-      "name": "Robe simple de marchand",
-      "file": "Robe simple de marchand.md",
-      "title": "Robe simple de marchand"
-    }
-  ],
-  "GDD/03 - Mécaniques/Items/Catalogue/Vêtements/Sacs à dos": [
-    {
-      "name": "Célestoplume",
-      "file": "Célestoplume.md",
-      "title": "Célestoplume"
-    },
-    {
-      "name": "Dracochitine",
-      "file": "Dracochitine.md",
-      "title": "Dracochitine"
-    },
-    {
-      "name": "Légèrefolium",
-      "file": "Légèrefolium.md",
-      "title": "Légèrefolium"
-    },
-    {
-      "name": "Sac simple en cuir",
-      "file": "Sac simple en cuir.md",
-      "title": "Sac simple en cuir"
-    },
-    {
-      "name": "Sacrumbrance",
-      "file": "Sacrumbrance.md",
-      "title": "Sacrumbrance"
-    },
-    {
-      "name": "Sylveflot",
-      "file": "Sylveflot.md",
-      "title": "Sylveflot"
-    },
-    {
-      "name": "Écumevol",
-      "file": "Écumevol.md",
-      "title": "Écumevol"
-    }
-  ],
-  "GDD/03 - Mécaniques/Items/Catalogue/Vêtements/Tabards": [
-    {
-      "name": "Tabard de garde",
-      "file": "Tabard de garde.md",
-      "title": "Tabard de garde"
-    },
-    {
-      "name": "Tabard de la guilde des marchands",
-      "file": "Tabard de la guilde des marchands.md",
-      "title": "Tabard de la guilde des marchands"
-    }
-  ],
-  "GDD/03 - Mécaniques/Items/Catalogue/Vêtements/Tuniques civiles": [
-    {
-      "name": "Tunique d'artisan",
-      "file": "Tunique d'artisan.md",
-      "title": "Tunique d'artisan"
-    },
-    {
-      "name": "Tunique paysanne",
-      "file": "Tunique paysanne.md",
-      "title": "Tunique paysanne"
     }
   ],
   "GDD/03 - Mécaniques/Items/_Templates": [
@@ -2880,1072 +1196,9 @@
   ],
   "GDD/04 - Systèmes": [
     {
-      "name": "Architecture Data-Driven",
-      "file": "Architecture Data-Driven.md",
-      "title": "🏗️ Architecture Data-Driven — Production d'Hybelior"
-    },
-    {
       "name": "PNJ",
       "file": "PNJ.md",
-      "title": "🧍 Système PNJ"
-    }
-  ],
-  "GDD/04 - Systèmes/Bestiaire": [
-    {
-      "name": "Taxonomie des Créatures",
-      "file": "Taxonomie des Créatures.md",
-      "title": "🧬 Taxonomie des Créatures — 9 axes V2"
-    }
-  ],
-  "GDD/04 - Systèmes/Bestiaire/Espèces/Amorphes": [
-    {
-      "name": "Slime amorphe",
-      "file": "Slime amorphe.md",
-      "title": "🟢 Slime amorphe"
-    },
-    {
-      "name": "Slime cendreux",
-      "file": "Slime cendreux.md",
-      "title": "🟢 Slime cendreux"
-    },
-    {
-      "name": "Slime des marais",
-      "file": "Slime des marais.md",
-      "title": "🟢 Slime des marais"
-    }
-  ],
-  "GDD/04 - Systèmes/Bestiaire/Espèces/Arthropodes/Arachnides": [
-    {
-      "name": "Scorpion géant des sables",
-      "file": "Scorpion géant des sables.md",
-      "title": "🦂 Scorpion géant des sables"
-    },
-    {
-      "name": "Scorpion noir des cavernes",
-      "file": "Scorpion noir des cavernes.md",
-      "title": "🦂 Scorpion noir des cavernes"
-    },
-    {
-      "name": "Veuve cristalline d'Endora",
-      "file": "Veuve cristalline d'Endora.md",
-      "title": "🕷️ Veuve cristalline d'Endora"
-    }
-  ],
-  "GDD/04 - Systèmes/Bestiaire/Espèces/Arthropodes/Crustacés": [
-    {
-      "name": "Crabe-titan de Sigeleon",
-      "file": "Crabe-titan de Sigeleon.md",
-      "title": "🦀 Crabe-titan de Sigeleon"
-    },
-    {
-      "name": "Krill géant",
-      "file": "Krill géant.md",
-      "title": "🦞 Krill géant"
-    },
-    {
-      "name": "Paboucs",
-      "file": "Paboucs.md",
-      "title": "🦐 Paboucs"
-    }
-  ],
-  "GDD/04 - Systèmes/Bestiaire/Espèces/Arthropodes/Insectes": [
-    {
-      "name": "Fourmilière colossale",
-      "file": "Fourmilière colossale.md",
-      "title": "🐜 Fourmilière colossale"
-    },
-    {
-      "name": "Ruche d'abeilles géantes",
-      "file": "Ruche d'abeilles géantes.md",
-      "title": "🐝 Ruche d'abeilles géantes"
-    },
-    {
-      "name": "Swarm de scarabées de cendre",
-      "file": "Swarm de scarabées de cendre.md",
-      "title": "🐞 Swarm de scarabées de cendre"
-    },
-    {
-      "name": "Termites souterrains du Mosrack",
-      "file": "Termites souterrains du Mosrack.md",
-      "title": "🐜 Termites souterrains du Mosrack"
-    }
-  ],
-  "GDD/04 - Systèmes/Bestiaire/Espèces/Cosmiques/Démons": [
-    {
-      "name": "Démon de cendre",
-      "file": "Démon de cendre.md",
-      "title": "👹 Démon de cendre"
-    },
-    {
-      "name": "Démon industriel de Mosrack",
-      "file": "Démon industriel de Mosrack.md",
-      "title": "👹 Démon industriel de Mosrack"
-    },
-    {
-      "name": "Démon mineur",
-      "file": "Démon mineur.md",
-      "title": "👹 Démon mineur"
-    },
-    {
-      "name": "Démon-marais d'Ilthara",
-      "file": "Démon-marais d'Ilthara.md",
-      "title": "👹 Démon-marais d'Ilthara"
-    }
-  ],
-  "GDD/04 - Systèmes/Bestiaire/Espèces/Cosmiques/Fractals": [
-    {
-      "name": "Cristal vivant",
-      "file": "Cristal vivant.md",
-      "title": "💎 Cristal vivant"
-    },
-    {
-      "name": "Tisseur du Vide",
-      "file": "Tisseur du Vide.md",
-      "title": "🕳️ Tisseur du Vide"
-    }
-  ],
-  "GDD/04 - Systèmes/Bestiaire/Espèces/Cosmiques/Polymorphes": [
-    {
-      "name": "Esprit changeforme — Le Doré",
-      "file": "Esprit changeforme — Le Doré.md",
-      "title": "🌫️ Esprit changeforme — Le Doré"
-    },
-    {
-      "name": "Métamorphe",
-      "file": "Métamorphe.md",
-      "title": "🦎 Métamorphe"
-    }
-  ],
-  "GDD/04 - Systèmes/Bestiaire/Espèces/Cosmiques/Spectres": [
-    {
-      "name": "Chuchoteur du Grand Canyon",
-      "file": "Chuchoteur du Grand Canyon.md",
-      "title": "👻 Chuchoteur du Grand Canyon"
-    },
-    {
-      "name": "Spectre des Ères",
-      "file": "Spectre des Ères.md",
-      "title": "👻 Spectre des Ères"
-    },
-    {
-      "name": "Écho du Roi-Sans-Nom",
-      "file": "Écho du Roi-Sans-Nom.md",
-      "title": "👻 Écho du Roi-Sans-Nom"
-    }
-  ],
-  "GDD/04 - Systèmes/Bestiaire/Espèces/Cosmiques/Tentaculaires": [
-    {
-      "name": "Bouche du Cendre",
-      "file": "Bouche du Cendre.md",
-      "title": "🐙 Bouche du Cendre"
-    },
-    {
-      "name": "Tentacule abyssal — Le Long-Bras des Marais",
-      "file": "Tentacule abyssal — Le Long-Bras des Marais.md",
-      "title": "🐙 Tentacule abyssal — Le Long-Bras des Marais"
-    },
-    {
-      "name": "Tentacule abyssal",
-      "file": "Tentacule abyssal.md",
-      "title": "🐙 Tentacule abyssal"
-    }
-  ],
-  "GDD/04 - Systèmes/Bestiaire/Espèces/Cosmiques/Élémentaires": [
-    {
-      "name": "Cendre Vivante du Mont Cendra",
-      "file": "Cendre Vivante du Mont Cendra.md",
-      "title": "🔥 Cendre Vivante du Mont Cendra"
-    },
-    {
-      "name": "Errant des Failles d'Ilthara",
-      "file": "Errant des Failles d'Ilthara.md",
-      "title": "🔥 Errant des Failles d'Ilthara"
-    },
-    {
-      "name": "Forgeron-Cœur de Myrtam",
-      "file": "Forgeron-Cœur de Myrtam.md",
-      "title": "🔥 Forgeron-Cœur de Myrtam"
-    },
-    {
-      "name": "Élémentaire d'air",
-      "file": "Élémentaire d'air.md",
-      "title": "🌪️ Élémentaire d'air"
-    },
-    {
-      "name": "Élémentaire d'eau",
-      "file": "Élémentaire d'eau.md",
-      "title": "💧 Élémentaire d'eau"
-    },
-    {
-      "name": "Élémentaire de feu — Cœur d'Eldoria",
-      "file": "Élémentaire de feu — Cœur d'Eldoria.md",
-      "title": "🔥 Élémentaire de feu — Cœur d'Eldoria"
-    },
-    {
-      "name": "Élémentaire de terre",
-      "file": "Élémentaire de terre.md",
-      "title": "🪨 Élémentaire de terre"
-    }
-  ],
-  "GDD/04 - Systèmes/Bestiaire/Espèces/Mammifères/Bovidés": [
-    {
-      "name": "Loumatée",
-      "file": "Loumatée.md",
-      "title": "🐗 Loumatée"
-    },
-    {
-      "name": "Sanglier commun",
-      "file": "Sanglier commun.md",
-      "title": "🐗 Sanglier commun"
-    },
-    {
-      "name": "Solitaire de Cendre",
-      "file": "Solitaire de Cendre.md",
-      "title": "🐗 Solitaire de Cendre"
-    }
-  ],
-  "GDD/04 - Systèmes/Bestiaire/Espèces/Mammifères/Canidés": [
-    {
-      "name": "Loup arctique",
-      "file": "Loup arctique.md",
-      "title": "🐺 Loup arctique"
-    },
-    {
-      "name": "Loup de cendre",
-      "file": "Loup de cendre.md",
-      "title": "🐺 Loup de cendre"
-    },
-    {
-      "name": "Loup forestier d'Astravia",
-      "file": "Loup forestier d'Astravia.md",
-      "title": "🐺 Loup forestier d'Astravia"
-    },
-    {
-      "name": "Loup gris",
-      "file": "Loup gris.md",
-      "title": "🐺 Loup gris"
-    },
-    {
-      "name": "Renard polaire",
-      "file": "Renard polaire.md",
-      "title": "🦊 Renard polaire"
-    },
-    {
-      "name": "Renard roux",
-      "file": "Renard roux.md",
-      "title": "🦊 Renard roux"
-    }
-  ],
-  "GDD/04 - Systèmes/Bestiaire/Espèces/Mammifères/Cervidés": [
-    {
-      "name": "Ceapeecu",
-      "file": "Ceapeecu.md",
-      "title": "🦌 Ceapeecu"
-    },
-    {
-      "name": "Cerf de Lune",
-      "file": "Cerf de Lune.md",
-      "title": "🦌 Cerf de Lune"
-    },
-    {
-      "name": "Cerf majestueux",
-      "file": "Cerf majestueux.md",
-      "title": "🦌 Cerf majestueux"
-    },
-    {
-      "name": "Renne mythique de Celethor",
-      "file": "Renne mythique de Celethor.md",
-      "title": "🦌 Renne mythique de Celethor"
-    }
-  ],
-  "GDD/04 - Systèmes/Bestiaire/Espèces/Mammifères/Géants humanoïdes": [
-    {
-      "name": "Yéti",
-      "file": "Yéti.md",
-      "title": "🦍 Yéti"
-    }
-  ],
-  "GDD/04 - Systèmes/Bestiaire/Espèces/Mammifères/Ursidés": [
-    {
-      "name": "Antérix",
-      "file": "Antérix.md",
-      "title": "🐻 Antérix"
-    },
-    {
-      "name": "Ours brun",
-      "file": "Ours brun.md",
-      "title": "🐻 Ours brun"
-    },
-    {
-      "name": "Ours noir d'Astravia",
-      "file": "Ours noir d'Astravia.md",
-      "title": "🐻 Ours noir d'Astravia"
-    },
-    {
-      "name": "Ours polaire",
-      "file": "Ours polaire.md",
-      "title": "🐻‍❄️ Ours polaire"
-    }
-  ],
-  "GDD/04 - Systèmes/Bestiaire/Espèces/Oiseaux/Aigles": [
-    {
-      "name": "Aigle Brulé du Mont Cendra",
-      "file": "Aigle Brulé du Mont Cendra.md",
-      "title": "🦅 Aigle Brulé du Mont Cendra"
-    },
-    {
-      "name": "Aigle blanc des cimes",
-      "file": "Aigle blanc des cimes.md",
-      "title": "🦅 Aigle blanc des cimes"
-    },
-    {
-      "name": "Aigle royal",
-      "file": "Aigle royal.md",
-      "title": "🦅 Aigle royal"
-    },
-    {
-      "name": "Feopsingale",
-      "file": "Feopsingale.md",
-      "title": "🦅 Feopsingale"
-    }
-  ],
-  "GDD/04 - Systèmes/Bestiaire/Espèces/Oiseaux/Faucons": [
-    {
-      "name": "Fallilla",
-      "file": "Fallilla.md",
-      "title": "🦅 Fallilla"
-    },
-    {
-      "name": "Faucon des sables",
-      "file": "Faucon des sables.md",
-      "title": "🦅 Faucon des sables"
-    },
-    {
-      "name": "Faucon pèlerin",
-      "file": "Faucon pèlerin.md",
-      "title": "🦅 Faucon pèlerin"
-    }
-  ],
-  "GDD/04 - Systèmes/Bestiaire/Espèces/Poissons/Abysses": [
-    {
-      "name": "Orque-géante du Sigeleon",
-      "file": "Orque-géante du Sigeleon.md",
-      "title": "🐋 Orque-géante du Sigeleon"
-    },
-    {
-      "name": "Requin abyssal",
-      "file": "Requin abyssal.md",
-      "title": "🦈 Requin abyssal"
-    },
-    {
-      "name": "Requin-cuirassé de Cendara",
-      "file": "Requin-cuirassé de Cendara.md",
-      "title": "🦈 Requin-cuirassé de Cendara"
-    }
-  ],
-  "GDD/04 - Systèmes/Bestiaire/Espèces/Poissons/Eaux douces": [
-    {
-      "name": "Brochet géant des Lacs",
-      "file": "Brochet géant des Lacs.md",
-      "title": "🐟 Brochet géant des Lacs"
-    },
-    {
-      "name": "Carpe sage des étangs",
-      "file": "Carpe sage des étangs.md",
-      "title": "🐟 Carpe sage des étangs"
-    },
-    {
-      "name": "Saumon de Lune",
-      "file": "Saumon de Lune.md",
-      "title": "🐟 Saumon de Lune"
-    },
-    {
-      "name": "Truite mystique",
-      "file": "Truite mystique.md",
-      "title": "🐟 Truite mystique"
-    }
-  ],
-  "GDD/04 - Systèmes/Bestiaire/Espèces/Reptiles/Sauriens": [
-    {
-      "name": "Dragon nain",
-      "file": "Dragon nain.md",
-      "title": "🐉 Dragon nain"
-    },
-    {
-      "name": "Zocshawk",
-      "file": "Zocshawk.md",
-      "title": "🐉 Zocshawk"
-    }
-  ],
-  "GDD/04 - Systèmes/Bestiaire/Espèces/Reptiles/Serpentidés": [
-    {
-      "name": "Serpent géant des forêts",
-      "file": "Serpent géant des forêts.md",
-      "title": "🐍 Serpent géant des forêts"
-    },
-    {
-      "name": "Sparutor",
-      "file": "Sparutor.md",
-      "title": "🐍 Sparutor"
-    },
-    {
-      "name": "Vipère des marais d'Ilthara",
-      "file": "Vipère des marais d'Ilthara.md",
-      "title": "🐍 Vipère des marais d'Ilthara"
-    }
-  ],
-  "GDD/04 - Systèmes/Bestiaire/Espèces/Reptiles/Tortues": [
-    {
-      "name": "Tortue ancestrale",
-      "file": "Tortue ancestrale.md",
-      "title": "🐢 Tortue ancestrale"
-    },
-    {
-      "name": "Zastalo",
-      "file": "Zastalo.md",
-      "title": "🐢 Zastalo"
-    }
-  ],
-  "GDD/04 - Systèmes/Bestiaire/Espèces/Sapients sauvages/Autres": [
-    {
-      "name": "Vermifuge des sables",
-      "file": "Vermifuge des sables.md",
-      "title": "🪱 Vermifuge des sables"
-    }
-  ],
-  "GDD/04 - Systèmes/Bestiaire/Espèces/Sapients sauvages/Goblinoïdes": [
-    {
-      "name": "Goblin Verdoyant",
-      "file": "Goblin Verdoyant.md",
-      "title": "🌿 Goblin Verdoyant"
-    },
-    {
-      "name": "Goblin",
-      "file": "Goblin.md",
-      "title": "👺 Goblin"
-    },
-    {
-      "name": "Orc-blanc Skaldoria",
-      "file": "Orc-blanc Skaldoria.md",
-      "title": "❄️ Orc-blanc Skaldoria"
-    },
-    {
-      "name": "Orc",
-      "file": "Orc.md",
-      "title": "👹 Orc"
-    }
-  ],
-  "GDD/04 - Systèmes/Bestiaire/_Templates": [
-    {
-      "name": "Aigle royal",
-      "file": "Aigle royal.md",
-      "title": "🦅 Aigle royal — Archétype-référence"
-    },
-    {
-      "name": "Cerf majestueux",
-      "file": "Cerf majestueux.md",
-      "title": "🦌 Cerf majestueux — Archétype-référence"
-    },
-    {
-      "name": "Cristal vivant",
-      "file": "Cristal vivant.md",
-      "title": "💎 Cristal vivant — Archétype-référence"
-    },
-    {
-      "name": "Dragon nain",
-      "file": "Dragon nain.md",
-      "title": "🐉 Dragon nain — Archétype-référence"
-    },
-    {
-      "name": "Démon mineur",
-      "file": "Démon mineur.md",
-      "title": "👹 Démon mineur — Archétype-référence"
-    },
-    {
-      "name": "Esprit changeforme",
-      "file": "Esprit changeforme.md",
-      "title": "🌫️ Esprit changeforme — Archétype-référence"
-    },
-    {
-      "name": "Faucon",
-      "file": "Faucon.md",
-      "title": "🦅 Faucon — Archétype-référence"
-    },
-    {
-      "name": "Goblin",
-      "file": "Goblin.md",
-      "title": "👺 Goblin — Archétype-référence"
-    },
-    {
-      "name": "Krill géant",
-      "file": "Krill géant.md",
-      "title": "🦞 Krill géant — Archétype-référence"
-    },
-    {
-      "name": "Loup arctique",
-      "file": "Loup arctique.md",
-      "title": "🐺 Loup arctique — Archétype-référence"
-    },
-    {
-      "name": "Loup forestier",
-      "file": "Loup forestier.md",
-      "title": "🐺 Loup forestier — Archétype-référence"
-    },
-    {
-      "name": "Métamorphe",
-      "file": "Métamorphe.md",
-      "title": "🦎 Métamorphe — Archétype-référence"
-    },
-    {
-      "name": "Orc",
-      "file": "Orc.md",
-      "title": "👹 Orc — Archétype-référence"
-    },
-    {
-      "name": "Ours brun",
-      "file": "Ours brun.md",
-      "title": "🐻 Ours brun — Archétype-référence"
-    },
-    {
-      "name": "Requin abyssal",
-      "file": "Requin abyssal.md",
-      "title": "🦈 Requin abyssal — Archétype-référence"
-    },
-    {
-      "name": "Ruche d'insectes",
-      "file": "Ruche d'insectes.md",
-      "title": "🐝 Ruche d'insectes — Archétype-référence"
-    },
-    {
-      "name": "Sanglier",
-      "file": "Sanglier.md",
-      "title": "🐗 Sanglier — Archétype-référence"
-    },
-    {
-      "name": "Scorpion géant",
-      "file": "Scorpion géant.md",
-      "title": "🦂 Scorpion géant — Archétype-référence"
-    },
-    {
-      "name": "Serpent géant",
-      "file": "Serpent géant.md",
-      "title": "🐍 Serpent géant — Archétype-référence"
-    },
-    {
-      "name": "Slime amorphe",
-      "file": "Slime amorphe.md",
-      "title": "🟢 Slime amorphe — Archétype-référence"
-    },
-    {
-      "name": "Spectre des Ères",
-      "file": "Spectre des Ères.md",
-      "title": "👻 Spectre des Ères — Archétype-référence"
-    },
-    {
-      "name": "Tentacule abyssal",
-      "file": "Tentacule abyssal.md",
-      "title": "🐙 Tentacule abyssal — Archétype-référence"
-    },
-    {
-      "name": "Tisseur du Vide",
-      "file": "Tisseur du Vide.md",
-      "title": "🕳️ Tisseur du Vide — Archétype-référence"
-    },
-    {
-      "name": "Tortue ancestrale",
-      "file": "Tortue ancestrale.md",
-      "title": "🐢 Tortue ancestrale — Archétype-référence"
-    },
-    {
-      "name": "Truite mystique",
-      "file": "Truite mystique.md",
-      "title": "🐟 Truite mystique — Archétype-référence"
-    },
-    {
-      "name": "Vermifuge des sables",
-      "file": "Vermifuge des sables.md",
-      "title": "🪱 Vermifuge des sables — Archétype-référence"
-    },
-    {
-      "name": "Yéti",
-      "file": "Yéti.md",
-      "title": "🦍 Yéti — Archétype-référence"
-    },
-    {
-      "name": "Élémentaire de feu",
-      "file": "Élémentaire de feu.md",
-      "title": "🔥 Élémentaire de feu — Archétype-référence"
-    }
-  ],
-  "GDD/04 - Systèmes/Bestiaire/Écosystèmes": [
-    {
-      "name": "Caverne profonde d'Ulinor",
-      "file": "Caverne profonde d'Ulinor.md",
-      "title": "💎 Caverne profonde d'Ulinor — Écosystème"
-    },
-    {
-      "name": "Côte et mer peu profonde",
-      "file": "Côte et mer peu profonde.md",
-      "title": "🐚 Côte et mer peu profonde — Écosystème"
-    },
-    {
-      "name": "Désert chaud de Cendara",
-      "file": "Désert chaud de Cendara.md",
-      "title": "🏜️ Désert chaud de Cendara — Écosystème"
-    },
-    {
-      "name": "Eau douce",
-      "file": "Eau douce.md",
-      "title": "🐟 Eau douce — Écosystème transverse"
-    },
-    {
-      "name": "Forêt boréale d'Alkaran",
-      "file": "Forêt boréale d'Alkaran.md",
-      "title": "🌲 Forêt boréale (Taïga) d'Alkaran — Écosystème"
-    },
-    {
-      "name": "Forêt tempérée d'Astravia",
-      "file": "Forêt tempérée d'Astravia.md",
-      "title": "🌳 Forêt tempérée d'Astravia — Écosystème"
-    },
-    {
-      "name": "Jungle d'Azoria et Ilthara",
-      "file": "Jungle d'Azoria et Ilthara.md",
-      "title": "🌴 Jungle tropicale (Ilthara, Endora, Evertia) — Écosystème"
-    },
-    {
-      "name": "Marais de Pyrtara",
-      "file": "Marais de Pyrtara.md",
-      "title": "🐊 Marais de Pyrtara — Écosystème"
-    },
-    {
-      "name": "Montagne haute",
-      "file": "Montagne haute.md",
-      "title": "🏔️ Montagne haute — Écosystème"
-    },
-    {
-      "name": "Océan abyssal",
-      "file": "Océan abyssal.md",
-      "title": "🌊 Océan abyssal — Écosystème"
-    },
-    {
-      "name": "Plaine cultivée de Galenor",
-      "file": "Plaine cultivée de Galenor.md",
-      "title": "🟩 Plaine cultivée de Galenor — Écosystème"
-    },
-    {
-      "name": "Plans cosmiques",
-      "file": "Plans cosmiques.md",
-      "title": "🕳️ Plans cosmiques — Écosystème planaire"
-    },
-    {
-      "name": "Steppe d'Onara",
-      "file": "Steppe d'Onara.md",
-      "title": "🌾 Steppe d'Onara — Écosystème"
-    },
-    {
-      "name": "Toundra de Cestra",
-      "file": "Toundra de Cestra.md",
-      "title": "🤍 Toundra de Cestra — Écosystème"
-    },
-    {
-      "name": "Zones magmatiques du Mont Cendra",
-      "file": "Zones magmatiques du Mont Cendra.md",
-      "title": "🌋 Zones magmatiques du Mont Cendra — Écosystème"
-    }
-  ],
-  "GDD/04 - Systèmes/Comportements PNJ": [
-    {
-      "name": "Actions Situationnelles",
-      "file": "Actions Situationnelles.md",
-      "title": "🎯 Actions Situationnelles — Comportement PNJ en situation"
-    },
-    {
-      "name": "Concepts Fondamentaux IA PNJ",
-      "file": "Concepts Fondamentaux IA PNJ.md",
-      "title": "🧠 Concepts Fondamentaux — IA des PNJ"
-    },
-    {
-      "name": "Modes Sociaux",
-      "file": "Modes Sociaux.md",
-      "title": "🎭 Modes Sociaux — Comportements superposables"
-    },
-    {
-      "name": "Routine Quotidienne",
-      "file": "Routine Quotidienne.md",
-      "title": "🌅 Routine Quotidienne — Template générique"
-    }
-  ],
-  "GDD/04 - Systèmes/Comportements PNJ/Métiers/Agriculture et Élevage": [
-    {
-      "name": "Agriculteur",
-      "file": "Agriculteur.md",
-      "title": "🌾 Comportement PNJ — Agriculteur"
-    },
-    {
-      "name": "Berger",
-      "file": "Berger.md",
-      "title": "🐑 Comportement PNJ — Berger"
-    },
-    {
-      "name": "Bûcheron",
-      "file": "Bûcheron.md",
-      "title": "🪵 Comportement PNJ — Bûcheron"
-    },
-    {
-      "name": "Eleveur de créature",
-      "file": "Eleveur de créature.md",
-      "title": "🐎 Comportement PNJ — Éleveur de créature"
-    },
-    {
-      "name": "Meunier",
-      "file": "Meunier.md",
-      "title": "🌾 Comportement PNJ — Meunier"
-    }
-  ],
-  "GDD/04 - Systèmes/Comportements PNJ/Métiers/Architecture chantier": [
-    {
-      "name": "Charpentier",
-      "file": "Charpentier.md",
-      "title": "🪵 Template PNJ — Charpentier"
-    },
-    {
-      "name": "Lapidaire",
-      "file": "Lapidaire.md",
-      "title": "💎 Template PNJ — Lapidaire"
-    },
-    {
-      "name": "Maçon",
-      "file": "Maçon.md",
-      "title": "🧱 Template PNJ — Maçon"
-    },
-    {
-      "name": "Tailleur de pierre",
-      "file": "Tailleur de pierre.md",
-      "title": "⛏️ Template PNJ — Tailleur de pierre"
-    },
-    {
-      "name": "Verrier",
-      "file": "Verrier.md",
-      "title": "🔮 Template PNJ — Verrier"
-    }
-  ],
-  "GDD/04 - Systèmes/Comportements PNJ/Métiers/Artisanat et Production": [
-    {
-      "name": "Architecte",
-      "file": "Architecte.md",
-      "title": "🏛 Template PNJ — Architecte"
-    },
-    {
-      "name": "Bijoutier",
-      "file": "Bijoutier.md",
-      "title": "💎 Template PNJ — Bijoutier"
-    },
-    {
-      "name": "Boucher",
-      "file": "Boucher.md",
-      "title": "🥩 Template PNJ — Boucher"
-    },
-    {
-      "name": "Boulanger",
-      "file": "Boulanger.md",
-      "title": "🥖 Template PNJ — Boulanger"
-    },
-    {
-      "name": "Cordonnier",
-      "file": "Cordonnier.md",
-      "title": "👢 Template PNJ — Cordonnier"
-    },
-    {
-      "name": "Cuisinier",
-      "file": "Cuisinier.md",
-      "title": "🍲 Template PNJ — Cuisinier"
-    },
-    {
-      "name": "Dresseur de créature",
-      "file": "Dresseur de créature.md",
-      "title": "🐺 Template PNJ — Dresseur de créature"
-    },
-    {
-      "name": "Enchanteur d'objet",
-      "file": "Enchanteur d'objet.md",
-      "title": "🔮 Template PNJ — Enchanteur d'objet"
-    },
-    {
-      "name": "Forgeron",
-      "file": "Forgeron.md",
-      "title": "🔨 Template PNJ — Forgeron"
-    },
-    {
-      "name": "Menuisier",
-      "file": "Menuisier.md",
-      "title": "🪵 Template PNJ — Menuisier"
-    },
-    {
-      "name": "Sculpteur",
-      "file": "Sculpteur.md",
-      "title": "🗿 Template PNJ — Sculpteur"
-    },
-    {
-      "name": "Tailleur",
-      "file": "Tailleur.md",
-      "title": "👗 Template PNJ — Tailleur"
-    },
-    {
-      "name": "Tanneur",
-      "file": "Tanneur.md",
-      "title": "🥩 Template PNJ — Tanneur"
-    },
-    {
-      "name": "Tisserand",
-      "file": "Tisserand.md",
-      "title": "🧵 Template PNJ — Tisserand"
-    }
-  ],
-  "GDD/04 - Systèmes/Comportements PNJ/Métiers/Commerce et Services": [
-    {
-      "name": "Aubergiste",
-      "file": "Aubergiste.md",
-      "title": "🛏️ Comportement PNJ — Aubergiste"
-    },
-    {
-      "name": "Banquier",
-      "file": "Banquier.md",
-      "title": "🏦 Comportement PNJ — Banquier"
-    },
-    {
-      "name": "Marchand",
-      "file": "Marchand.md",
-      "title": "💰 Comportement PNJ — Marchand"
-    },
-    {
-      "name": "Tavernier",
-      "file": "Tavernier.md",
-      "title": "🍺 Comportement PNJ — Tavernier"
-    }
-  ],
-  "GDD/04 - Systèmes/Comportements PNJ/Métiers/Divertissements": [
-    {
-      "name": "Acteur",
-      "file": "Acteur.md",
-      "title": "🎭 Template PNJ — Acteur"
-    },
-    {
-      "name": "Barde",
-      "file": "Barde.md",
-      "title": "📜 Template PNJ — Barde"
-    },
-    {
-      "name": "Jongleur",
-      "file": "Jongleur.md",
-      "title": "🤹 Template PNJ — Jongleur"
-    },
-    {
-      "name": "Musicien",
-      "file": "Musicien.md",
-      "title": "🎵 Template PNJ — Musicien"
-    },
-    {
-      "name": "Peintre",
-      "file": "Peintre.md",
-      "title": "🎨 Template PNJ — Peintre"
-    }
-  ],
-  "GDD/04 - Systèmes/Comportements PNJ/Métiers/Erudition": [
-    {
-      "name": "Alchimiste",
-      "file": "Alchimiste.md",
-      "title": "🧪 Template PNJ — Alchimiste"
-    },
-    {
-      "name": "Astronome",
-      "file": "Astronome.md",
-      "title": "🌌 Template PNJ — Astronome"
-    },
-    {
-      "name": "Bibliothécaire",
-      "file": "Bibliothécaire.md",
-      "title": "📚 Template PNJ — Bibliothécaire"
-    },
-    {
-      "name": "Chercheur",
-      "file": "Chercheur.md",
-      "title": "🔬 Template PNJ — Chercheur"
-    },
-    {
-      "name": "Enseignant",
-      "file": "Enseignant.md",
-      "title": "🏫 Template PNJ — Enseignant"
-    },
-    {
-      "name": "Historien",
-      "file": "Historien.md",
-      "title": "🏛️ Template PNJ — Historien"
-    },
-    {
-      "name": "Médecin",
-      "file": "Médecin.md",
-      "title": "🩺 Template PNJ — Médecin"
-    }
-  ],
-  "GDD/04 - Systèmes/Comportements PNJ/Métiers/Exploration": [
-    {
-      "name": "Cartographe",
-      "file": "Cartographe.md",
-      "title": "🗺️ Template PNJ — Cartographe"
-    },
-    {
-      "name": "Chasseur de créature",
-      "file": "Chasseur de créature.md",
-      "title": "🏹 Template PNJ — Chasseur de créature"
-    },
-    {
-      "name": "Chasseur de primes",
-      "file": "Chasseur de primes.md",
-      "title": "🎯 Template PNJ — Chasseur de primes"
-    },
-    {
-      "name": "Chasseur de trésors",
-      "file": "Chasseur de trésors.md",
-      "title": "💰 Template PNJ — Chasseur de trésors"
-    },
-    {
-      "name": "Dresseur",
-      "file": "Dresseur.md",
-      "title": "🦅 Template PNJ — Dresseur (terrain)"
-    },
-    {
-      "name": "Explorateur",
-      "file": "Explorateur.md",
-      "title": "🧭 Template PNJ — Explorateur"
-    },
-    {
-      "name": "Mercenaire",
-      "file": "Mercenaire.md",
-      "title": "⚔️ Template PNJ — Mercenaire"
-    },
-    {
-      "name": "Mineur",
-      "file": "Mineur.md",
-      "title": "⛏️ Template PNJ — Mineur"
-    },
-    {
-      "name": "Navigateur",
-      "file": "Navigateur.md",
-      "title": "⛵ Template PNJ — Navigateur"
-    }
-  ],
-  "GDD/04 - Systèmes/Comportements PNJ/Métiers/Gouvernance": [
-    {
-      "name": "Ambassadeur",
-      "file": "Ambassadeur.md",
-      "title": "🕊️ Template comportement PNJ — Ambassadeur"
-    },
-    {
-      "name": "Avocat",
-      "file": "Avocat.md",
-      "title": "📚 Template comportement PNJ — Avocat"
-    },
-    {
-      "name": "Conseiller",
-      "file": "Conseiller.md",
-      "title": "🧠 Template comportement PNJ — Conseiller"
-    },
-    {
-      "name": "Juge",
-      "file": "Juge.md",
-      "title": "⚖️ Template comportement PNJ — Juge"
-    },
-    {
-      "name": "Scribe",
-      "file": "Scribe.md",
-      "title": "📜 Template comportement PNJ — Scribe"
-    }
-  ],
-  "GDD/04 - Systèmes/Comportements PNJ/Métiers/Mysticisme": [
-    {
-      "name": "Apothicaire",
-      "file": "Apothicaire.md",
-      "title": "💊 Template PNJ — Apothicaire"
-    },
-    {
-      "name": "Enchanteur du vivant",
-      "file": "Enchanteur du vivant.md",
-      "title": "🌿 Template PNJ — Enchanteur du vivant"
-    },
-    {
-      "name": "Guérisseur",
-      "file": "Guérisseur.md",
-      "title": "💚 Template PNJ — Guérisseur"
-    },
-    {
-      "name": "Herboriste",
-      "file": "Herboriste.md",
-      "title": "🌿 Template PNJ — Herboriste"
-    },
-    {
-      "name": "Mage",
-      "file": "Mage.md",
-      "title": "🔮 Template PNJ — Mage"
-    },
-    {
-      "name": "Nécromancien",
-      "file": "Nécromancien.md",
-      "title": "💀 Template PNJ — Nécromancien"
-    },
-    {
-      "name": "Oracle",
-      "file": "Oracle.md",
-      "title": "🎴 Template PNJ — Oracle"
-    },
-    {
-      "name": "Prêtre",
-      "file": "Prêtre.md",
-      "title": "🛐 Template PNJ — Prêtre"
-    }
-  ],
-  "GDD/04 - Systèmes/Comportements PNJ/Métiers/Sécurité": [
-    {
-      "name": "Archer",
-      "file": "Archer.md",
-      "title": "🏹 Template comportement PNJ — Archer"
-    },
-    {
-      "name": "Assassin",
-      "file": "Assassin.md",
-      "title": "🗡️ Template comportement PNJ — Assassin"
-    },
-    {
-      "name": "Chevalier",
-      "file": "Chevalier.md",
-      "title": "🛡️ Template comportement PNJ — Chevalier"
-    },
-    {
-      "name": "Espion",
-      "file": "Espion.md",
-      "title": "👁️ Template comportement PNJ — Espion"
-    },
-    {
-      "name": "Garde",
-      "file": "Garde.md",
-      "title": "🛡️ Template comportement PNJ — Garde"
-    },
-    {
-      "name": "Soldat",
-      "file": "Soldat.md",
-      "title": "⚔️ Template comportement PNJ — Soldat"
-    }
-  ],
-  "GDD/04 - Systèmes/Comportements PNJ/_Ebauches Archivees": [
-    {
-      "name": "Métiers - Boulanger",
-      "file": "Métiers - Boulanger.md",
-      "title": "🥖 Métier PNJ — Boulanger"
-    },
-    {
-      "name": "Métiers - Forgeron",
-      "file": "Métiers - Forgeron.md",
-      "title": "🔨 Métier PNJ — Forgeron"
+      "title": "🧍 Les PNJ — la présence comme contrat"
     }
   ],
   "GDD/05 - Implémentation Unreal/Audits": [
@@ -4169,6 +1422,11 @@
       "title": "Combat Attribute Set"
     },
     {
+      "name": "Combat System",
+      "file": "Combat System.md",
+      "title": "Combat System — Implémentation"
+    },
+    {
       "name": "Combo System",
       "file": "Combo System.md",
       "title": "ComboSystem"
@@ -4219,9 +1477,24 @@
       "title": "01 — AbilitySystem & Combat"
     },
     {
+      "name": "Lien System",
+      "file": "Lien System.md",
+      "title": "Lien System — Implémentation"
+    },
+    {
+      "name": "Mastery System",
+      "file": "Mastery System.md",
+      "title": "Mastery System — Implémentation"
+    },
+    {
       "name": "Movesets",
       "file": "Movesets.md",
       "title": "Movesets"
+    },
+    {
+      "name": "PvP System",
+      "file": "PvP System.md",
+      "title": "PvP System — Implémentation"
     },
     {
       "name": "Reactions Integration",
@@ -4431,6 +1704,11 @@
       "name": "UI Other Widgets",
       "file": "UI Other Widgets.md",
       "title": "Documentation MCP — Widget Blueprints UI (HybeliorWorld UE5.4)"
+    },
+    {
+      "name": "UI Specifications",
+      "file": "UI Specifications.md",
+      "title": "UI Specifications — Implémentation"
     }
   ],
   "GDD/05 - Implémentation Unreal/Monde et Environnement": [
@@ -4450,9 +1728,29 @@
       "title": "ClipmapSystem"
     },
     {
+      "name": "Cosmology Spec",
+      "file": "Cosmology Spec.md",
+      "title": "Cosmology Spec — Implémentation"
+    },
+    {
+      "name": "Era System",
+      "file": "Era System.md",
+      "title": "Era System — Implémentation"
+    },
+    {
+      "name": "Exploration System",
+      "file": "Exploration System.md",
+      "title": "Exploration System — Implémentation"
+    },
+    {
       "name": "Foliage Assets",
       "file": "Foliage Assets.md",
       "title": "Documentation MCP — FoliageTypes & GrassTypes"
+    },
+    {
+      "name": "Geography Tables",
+      "file": "Geography Tables.md",
+      "title": "Geography Tables — Implémentation"
     },
     {
       "name": "HW Environment Manager",
@@ -4505,6 +1803,11 @@
       "title": "SkySurfaceRenderer"
     },
     {
+      "name": "Souffle System",
+      "file": "Souffle System.md",
+      "title": "Souffle System — Implémentation"
+    },
+    {
       "name": "Terrain Elements",
       "file": "Terrain Elements.md",
       "title": "TerrainElements"
@@ -4528,6 +1831,11 @@
       "name": "Time Of Day",
       "file": "Time Of Day.md",
       "title": "TimeOfDay"
+    },
+    {
+      "name": "Traces System",
+      "file": "Traces System.md",
+      "title": "Traces System — Implémentation"
     },
     {
       "name": "Water Buoyancy",
@@ -4669,6 +1977,11 @@
       "title": "CharacterMeshes"
     },
     {
+      "name": "Death System",
+      "file": "Death System.md",
+      "title": "Death System — Implémentation"
+    },
+    {
       "name": "Dialogue Component",
       "file": "Dialogue Component.md",
       "title": "DialogueComponent"
@@ -4714,6 +2027,11 @@
       "title": "Lore"
     },
     {
+      "name": "NPC Spec",
+      "file": "NPC Spec.md",
+      "title": "NPC Spec — Implémentation"
+    },
+    {
       "name": "NPC System",
       "file": "NPC System.md",
       "title": "NPCSystem"
@@ -4724,12 +2042,1080 @@
       "title": "Nameplate"
     },
     {
+      "name": "Stats System",
+      "file": "Stats System.md",
+      "title": "Stats System — Implémentation"
+    },
+    {
       "name": "Targeting System",
       "file": "Targeting System.md",
       "title": "TargetingSystem"
     }
   ],
+  "GDD/05 - Implémentation Unreal/Personnages et Entités/Bestiary": [
+    {
+      "name": "Taxonomie des Créatures",
+      "file": "Taxonomie des Créatures.md",
+      "title": "🧬 Taxonomie des Créatures — 9 axes V2"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Personnages et Entités/Bestiary/Espèces/Amorphes": [
+    {
+      "name": "Slime amorphe",
+      "file": "Slime amorphe.md",
+      "title": "🟢 Slime amorphe"
+    },
+    {
+      "name": "Slime cendreux",
+      "file": "Slime cendreux.md",
+      "title": "🟢 Slime cendreux"
+    },
+    {
+      "name": "Slime des marais",
+      "file": "Slime des marais.md",
+      "title": "🟢 Slime des marais"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Personnages et Entités/Bestiary/Espèces/Arthropodes/Arachnides": [
+    {
+      "name": "Scorpion géant des sables",
+      "file": "Scorpion géant des sables.md",
+      "title": "🦂 Scorpion géant des sables"
+    },
+    {
+      "name": "Scorpion noir des cavernes",
+      "file": "Scorpion noir des cavernes.md",
+      "title": "🦂 Scorpion noir des cavernes"
+    },
+    {
+      "name": "Veuve cristalline d'Endora",
+      "file": "Veuve cristalline d'Endora.md",
+      "title": "🕷️ Veuve cristalline d'Endora"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Personnages et Entités/Bestiary/Espèces/Arthropodes/Crustacés": [
+    {
+      "name": "Crabe-titan de Sigeleon",
+      "file": "Crabe-titan de Sigeleon.md",
+      "title": "🦀 Crabe-titan de Sigeleon"
+    },
+    {
+      "name": "Krill géant",
+      "file": "Krill géant.md",
+      "title": "🦞 Krill géant"
+    },
+    {
+      "name": "Paboucs",
+      "file": "Paboucs.md",
+      "title": "🦐 Paboucs"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Personnages et Entités/Bestiary/Espèces/Arthropodes/Insectes": [
+    {
+      "name": "Fourmilière colossale",
+      "file": "Fourmilière colossale.md",
+      "title": "🐜 Fourmilière colossale"
+    },
+    {
+      "name": "Ruche d'abeilles géantes",
+      "file": "Ruche d'abeilles géantes.md",
+      "title": "🐝 Ruche d'abeilles géantes"
+    },
+    {
+      "name": "Swarm de scarabées de cendre",
+      "file": "Swarm de scarabées de cendre.md",
+      "title": "🐞 Swarm de scarabées de cendre"
+    },
+    {
+      "name": "Termites souterrains du Mosrack",
+      "file": "Termites souterrains du Mosrack.md",
+      "title": "🐜 Termites souterrains du Mosrack"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Personnages et Entités/Bestiary/Espèces/Cosmiques/Démons": [
+    {
+      "name": "Démon de cendre",
+      "file": "Démon de cendre.md",
+      "title": "👹 Démon de cendre"
+    },
+    {
+      "name": "Démon industriel de Mosrack",
+      "file": "Démon industriel de Mosrack.md",
+      "title": "👹 Démon industriel de Mosrack"
+    },
+    {
+      "name": "Démon mineur",
+      "file": "Démon mineur.md",
+      "title": "👹 Démon mineur"
+    },
+    {
+      "name": "Démon-marais d'Ilthara",
+      "file": "Démon-marais d'Ilthara.md",
+      "title": "👹 Démon-marais d'Ilthara"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Personnages et Entités/Bestiary/Espèces/Cosmiques/Fractals": [
+    {
+      "name": "Cristal vivant",
+      "file": "Cristal vivant.md",
+      "title": "💎 Cristal vivant"
+    },
+    {
+      "name": "Tisseur du Vide",
+      "file": "Tisseur du Vide.md",
+      "title": "🕳️ Tisseur du Vide"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Personnages et Entités/Bestiary/Espèces/Cosmiques/Polymorphes": [
+    {
+      "name": "Esprit changeforme — Le Doré",
+      "file": "Esprit changeforme — Le Doré.md",
+      "title": "🌫️ Esprit changeforme — Le Doré"
+    },
+    {
+      "name": "Métamorphe",
+      "file": "Métamorphe.md",
+      "title": "🦎 Métamorphe"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Personnages et Entités/Bestiary/Espèces/Cosmiques/Spectres": [
+    {
+      "name": "Chuchoteur du Grand Canyon",
+      "file": "Chuchoteur du Grand Canyon.md",
+      "title": "👻 Chuchoteur du Grand Canyon"
+    },
+    {
+      "name": "Spectre des Ères",
+      "file": "Spectre des Ères.md",
+      "title": "👻 Spectre des Ères"
+    },
+    {
+      "name": "Écho du Roi-Sans-Nom",
+      "file": "Écho du Roi-Sans-Nom.md",
+      "title": "👻 Écho du Roi-Sans-Nom"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Personnages et Entités/Bestiary/Espèces/Cosmiques/Tentaculaires": [
+    {
+      "name": "Bouche du Cendre",
+      "file": "Bouche du Cendre.md",
+      "title": "🐙 Bouche du Cendre"
+    },
+    {
+      "name": "Tentacule abyssal — Le Long-Bras des Marais",
+      "file": "Tentacule abyssal — Le Long-Bras des Marais.md",
+      "title": "🐙 Tentacule abyssal — Le Long-Bras des Marais"
+    },
+    {
+      "name": "Tentacule abyssal",
+      "file": "Tentacule abyssal.md",
+      "title": "🐙 Tentacule abyssal"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Personnages et Entités/Bestiary/Espèces/Cosmiques/Élémentaires": [
+    {
+      "name": "Cendre Vivante du Mont Cendra",
+      "file": "Cendre Vivante du Mont Cendra.md",
+      "title": "🔥 Cendre Vivante du Mont Cendra"
+    },
+    {
+      "name": "Errant des Failles d'Ilthara",
+      "file": "Errant des Failles d'Ilthara.md",
+      "title": "🔥 Errant des Failles d'Ilthara"
+    },
+    {
+      "name": "Forgeron-Cœur de Myrtam",
+      "file": "Forgeron-Cœur de Myrtam.md",
+      "title": "🔥 Forgeron-Cœur de Myrtam"
+    },
+    {
+      "name": "Élémentaire d'air",
+      "file": "Élémentaire d'air.md",
+      "title": "🌪️ Élémentaire d'air"
+    },
+    {
+      "name": "Élémentaire d'eau",
+      "file": "Élémentaire d'eau.md",
+      "title": "💧 Élémentaire d'eau"
+    },
+    {
+      "name": "Élémentaire de feu — Cœur d'Eldoria",
+      "file": "Élémentaire de feu — Cœur d'Eldoria.md",
+      "title": "🔥 Élémentaire de feu — Cœur d'Eldoria"
+    },
+    {
+      "name": "Élémentaire de terre",
+      "file": "Élémentaire de terre.md",
+      "title": "🪨 Élémentaire de terre"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Personnages et Entités/Bestiary/Espèces/Mammifères/Bovidés": [
+    {
+      "name": "Loumatée",
+      "file": "Loumatée.md",
+      "title": "🐗 Loumatée"
+    },
+    {
+      "name": "Sanglier commun",
+      "file": "Sanglier commun.md",
+      "title": "🐗 Sanglier commun"
+    },
+    {
+      "name": "Solitaire de Cendre",
+      "file": "Solitaire de Cendre.md",
+      "title": "🐗 Solitaire de Cendre"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Personnages et Entités/Bestiary/Espèces/Mammifères/Canidés": [
+    {
+      "name": "Loup arctique",
+      "file": "Loup arctique.md",
+      "title": "🐺 Loup arctique"
+    },
+    {
+      "name": "Loup de cendre",
+      "file": "Loup de cendre.md",
+      "title": "🐺 Loup de cendre"
+    },
+    {
+      "name": "Loup forestier d'Astravia",
+      "file": "Loup forestier d'Astravia.md",
+      "title": "🐺 Loup forestier d'Astravia"
+    },
+    {
+      "name": "Loup gris",
+      "file": "Loup gris.md",
+      "title": "🐺 Loup gris"
+    },
+    {
+      "name": "Renard polaire",
+      "file": "Renard polaire.md",
+      "title": "🦊 Renard polaire"
+    },
+    {
+      "name": "Renard roux",
+      "file": "Renard roux.md",
+      "title": "🦊 Renard roux"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Personnages et Entités/Bestiary/Espèces/Mammifères/Cervidés": [
+    {
+      "name": "Ceapeecu",
+      "file": "Ceapeecu.md",
+      "title": "🦌 Ceapeecu"
+    },
+    {
+      "name": "Cerf de Lune",
+      "file": "Cerf de Lune.md",
+      "title": "🦌 Cerf de Lune"
+    },
+    {
+      "name": "Cerf majestueux",
+      "file": "Cerf majestueux.md",
+      "title": "🦌 Cerf majestueux"
+    },
+    {
+      "name": "Renne mythique de Celethor",
+      "file": "Renne mythique de Celethor.md",
+      "title": "🦌 Renne mythique de Celethor"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Personnages et Entités/Bestiary/Espèces/Mammifères/Géants humanoïdes": [
+    {
+      "name": "Yéti",
+      "file": "Yéti.md",
+      "title": "🦍 Yéti"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Personnages et Entités/Bestiary/Espèces/Mammifères/Ursidés": [
+    {
+      "name": "Antérix",
+      "file": "Antérix.md",
+      "title": "🐻 Antérix"
+    },
+    {
+      "name": "Ours brun",
+      "file": "Ours brun.md",
+      "title": "🐻 Ours brun"
+    },
+    {
+      "name": "Ours noir d'Astravia",
+      "file": "Ours noir d'Astravia.md",
+      "title": "🐻 Ours noir d'Astravia"
+    },
+    {
+      "name": "Ours polaire",
+      "file": "Ours polaire.md",
+      "title": "🐻‍❄️ Ours polaire"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Personnages et Entités/Bestiary/Espèces/Oiseaux/Aigles": [
+    {
+      "name": "Aigle Brulé du Mont Cendra",
+      "file": "Aigle Brulé du Mont Cendra.md",
+      "title": "🦅 Aigle Brulé du Mont Cendra"
+    },
+    {
+      "name": "Aigle blanc des cimes",
+      "file": "Aigle blanc des cimes.md",
+      "title": "🦅 Aigle blanc des cimes"
+    },
+    {
+      "name": "Aigle royal",
+      "file": "Aigle royal.md",
+      "title": "🦅 Aigle royal"
+    },
+    {
+      "name": "Feopsingale",
+      "file": "Feopsingale.md",
+      "title": "🦅 Feopsingale"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Personnages et Entités/Bestiary/Espèces/Oiseaux/Faucons": [
+    {
+      "name": "Fallilla",
+      "file": "Fallilla.md",
+      "title": "🦅 Fallilla"
+    },
+    {
+      "name": "Faucon des sables",
+      "file": "Faucon des sables.md",
+      "title": "🦅 Faucon des sables"
+    },
+    {
+      "name": "Faucon pèlerin",
+      "file": "Faucon pèlerin.md",
+      "title": "🦅 Faucon pèlerin"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Personnages et Entités/Bestiary/Espèces/Poissons/Abysses": [
+    {
+      "name": "Orque-géante du Sigeleon",
+      "file": "Orque-géante du Sigeleon.md",
+      "title": "🐋 Orque-géante du Sigeleon"
+    },
+    {
+      "name": "Requin abyssal",
+      "file": "Requin abyssal.md",
+      "title": "🦈 Requin abyssal"
+    },
+    {
+      "name": "Requin-cuirassé de Cendara",
+      "file": "Requin-cuirassé de Cendara.md",
+      "title": "🦈 Requin-cuirassé de Cendara"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Personnages et Entités/Bestiary/Espèces/Poissons/Eaux douces": [
+    {
+      "name": "Brochet géant des Lacs",
+      "file": "Brochet géant des Lacs.md",
+      "title": "🐟 Brochet géant des Lacs"
+    },
+    {
+      "name": "Carpe sage des étangs",
+      "file": "Carpe sage des étangs.md",
+      "title": "🐟 Carpe sage des étangs"
+    },
+    {
+      "name": "Saumon de Lune",
+      "file": "Saumon de Lune.md",
+      "title": "🐟 Saumon de Lune"
+    },
+    {
+      "name": "Truite mystique",
+      "file": "Truite mystique.md",
+      "title": "🐟 Truite mystique"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Personnages et Entités/Bestiary/Espèces/Reptiles/Sauriens": [
+    {
+      "name": "Dragon nain",
+      "file": "Dragon nain.md",
+      "title": "🐉 Dragon nain"
+    },
+    {
+      "name": "Zocshawk",
+      "file": "Zocshawk.md",
+      "title": "🐉 Zocshawk"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Personnages et Entités/Bestiary/Espèces/Reptiles/Serpentidés": [
+    {
+      "name": "Serpent géant des forêts",
+      "file": "Serpent géant des forêts.md",
+      "title": "🐍 Serpent géant des forêts"
+    },
+    {
+      "name": "Sparutor",
+      "file": "Sparutor.md",
+      "title": "🐍 Sparutor"
+    },
+    {
+      "name": "Vipère des marais d'Ilthara",
+      "file": "Vipère des marais d'Ilthara.md",
+      "title": "🐍 Vipère des marais d'Ilthara"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Personnages et Entités/Bestiary/Espèces/Reptiles/Tortues": [
+    {
+      "name": "Tortue ancestrale",
+      "file": "Tortue ancestrale.md",
+      "title": "🐢 Tortue ancestrale"
+    },
+    {
+      "name": "Zastalo",
+      "file": "Zastalo.md",
+      "title": "🐢 Zastalo"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Personnages et Entités/Bestiary/Espèces/Sapients sauvages/Autres": [
+    {
+      "name": "Vermifuge des sables",
+      "file": "Vermifuge des sables.md",
+      "title": "🪱 Vermifuge des sables"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Personnages et Entités/Bestiary/Espèces/Sapients sauvages/Goblinoïdes": [
+    {
+      "name": "Goblin Verdoyant",
+      "file": "Goblin Verdoyant.md",
+      "title": "🌿 Goblin Verdoyant"
+    },
+    {
+      "name": "Goblin",
+      "file": "Goblin.md",
+      "title": "👺 Goblin"
+    },
+    {
+      "name": "Orc-blanc Skaldoria",
+      "file": "Orc-blanc Skaldoria.md",
+      "title": "❄️ Orc-blanc Skaldoria"
+    },
+    {
+      "name": "Orc",
+      "file": "Orc.md",
+      "title": "👹 Orc"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Personnages et Entités/Bestiary/_Templates": [
+    {
+      "name": "Aigle royal",
+      "file": "Aigle royal.md",
+      "title": "🦅 Aigle royal — Archétype-référence"
+    },
+    {
+      "name": "Cerf majestueux",
+      "file": "Cerf majestueux.md",
+      "title": "🦌 Cerf majestueux — Archétype-référence"
+    },
+    {
+      "name": "Cristal vivant",
+      "file": "Cristal vivant.md",
+      "title": "💎 Cristal vivant — Archétype-référence"
+    },
+    {
+      "name": "Dragon nain",
+      "file": "Dragon nain.md",
+      "title": "🐉 Dragon nain — Archétype-référence"
+    },
+    {
+      "name": "Démon mineur",
+      "file": "Démon mineur.md",
+      "title": "👹 Démon mineur — Archétype-référence"
+    },
+    {
+      "name": "Esprit changeforme",
+      "file": "Esprit changeforme.md",
+      "title": "🌫️ Esprit changeforme — Archétype-référence"
+    },
+    {
+      "name": "Faucon",
+      "file": "Faucon.md",
+      "title": "🦅 Faucon — Archétype-référence"
+    },
+    {
+      "name": "Goblin",
+      "file": "Goblin.md",
+      "title": "👺 Goblin — Archétype-référence"
+    },
+    {
+      "name": "Krill géant",
+      "file": "Krill géant.md",
+      "title": "🦞 Krill géant — Archétype-référence"
+    },
+    {
+      "name": "Loup arctique",
+      "file": "Loup arctique.md",
+      "title": "🐺 Loup arctique — Archétype-référence"
+    },
+    {
+      "name": "Loup forestier",
+      "file": "Loup forestier.md",
+      "title": "🐺 Loup forestier — Archétype-référence"
+    },
+    {
+      "name": "Métamorphe",
+      "file": "Métamorphe.md",
+      "title": "🦎 Métamorphe — Archétype-référence"
+    },
+    {
+      "name": "Orc",
+      "file": "Orc.md",
+      "title": "👹 Orc — Archétype-référence"
+    },
+    {
+      "name": "Ours brun",
+      "file": "Ours brun.md",
+      "title": "🐻 Ours brun — Archétype-référence"
+    },
+    {
+      "name": "Requin abyssal",
+      "file": "Requin abyssal.md",
+      "title": "🦈 Requin abyssal — Archétype-référence"
+    },
+    {
+      "name": "Ruche d'insectes",
+      "file": "Ruche d'insectes.md",
+      "title": "🐝 Ruche d'insectes — Archétype-référence"
+    },
+    {
+      "name": "Sanglier",
+      "file": "Sanglier.md",
+      "title": "🐗 Sanglier — Archétype-référence"
+    },
+    {
+      "name": "Scorpion géant",
+      "file": "Scorpion géant.md",
+      "title": "🦂 Scorpion géant — Archétype-référence"
+    },
+    {
+      "name": "Serpent géant",
+      "file": "Serpent géant.md",
+      "title": "🐍 Serpent géant — Archétype-référence"
+    },
+    {
+      "name": "Slime amorphe",
+      "file": "Slime amorphe.md",
+      "title": "🟢 Slime amorphe — Archétype-référence"
+    },
+    {
+      "name": "Spectre des Ères",
+      "file": "Spectre des Ères.md",
+      "title": "👻 Spectre des Ères — Archétype-référence"
+    },
+    {
+      "name": "Tentacule abyssal",
+      "file": "Tentacule abyssal.md",
+      "title": "🐙 Tentacule abyssal — Archétype-référence"
+    },
+    {
+      "name": "Tisseur du Vide",
+      "file": "Tisseur du Vide.md",
+      "title": "🕳️ Tisseur du Vide — Archétype-référence"
+    },
+    {
+      "name": "Tortue ancestrale",
+      "file": "Tortue ancestrale.md",
+      "title": "🐢 Tortue ancestrale — Archétype-référence"
+    },
+    {
+      "name": "Truite mystique",
+      "file": "Truite mystique.md",
+      "title": "🐟 Truite mystique — Archétype-référence"
+    },
+    {
+      "name": "Vermifuge des sables",
+      "file": "Vermifuge des sables.md",
+      "title": "🪱 Vermifuge des sables — Archétype-référence"
+    },
+    {
+      "name": "Yéti",
+      "file": "Yéti.md",
+      "title": "🦍 Yéti — Archétype-référence"
+    },
+    {
+      "name": "Élémentaire de feu",
+      "file": "Élémentaire de feu.md",
+      "title": "🔥 Élémentaire de feu — Archétype-référence"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Personnages et Entités/Bestiary/Écosystèmes": [
+    {
+      "name": "Caverne profonde d'Ulinor",
+      "file": "Caverne profonde d'Ulinor.md",
+      "title": "💎 Caverne profonde d'Ulinor — Écosystème"
+    },
+    {
+      "name": "Côte et mer peu profonde",
+      "file": "Côte et mer peu profonde.md",
+      "title": "🐚 Côte et mer peu profonde — Écosystème"
+    },
+    {
+      "name": "Désert chaud de Cendara",
+      "file": "Désert chaud de Cendara.md",
+      "title": "🏜️ Désert chaud de Cendara — Écosystème"
+    },
+    {
+      "name": "Eau douce",
+      "file": "Eau douce.md",
+      "title": "🐟 Eau douce — Écosystème transverse"
+    },
+    {
+      "name": "Forêt boréale d'Alkaran",
+      "file": "Forêt boréale d'Alkaran.md",
+      "title": "🌲 Forêt boréale (Taïga) d'Alkaran — Écosystème"
+    },
+    {
+      "name": "Forêt tempérée d'Astravia",
+      "file": "Forêt tempérée d'Astravia.md",
+      "title": "🌳 Forêt tempérée d'Astravia — Écosystème"
+    },
+    {
+      "name": "Jungle d'Azoria et Ilthara",
+      "file": "Jungle d'Azoria et Ilthara.md",
+      "title": "🌴 Jungle tropicale (Ilthara, Endora, Evertia) — Écosystème"
+    },
+    {
+      "name": "Marais de Pyrtara",
+      "file": "Marais de Pyrtara.md",
+      "title": "🐊 Marais de Pyrtara — Écosystème"
+    },
+    {
+      "name": "Montagne haute",
+      "file": "Montagne haute.md",
+      "title": "🏔️ Montagne haute — Écosystème"
+    },
+    {
+      "name": "Océan abyssal",
+      "file": "Océan abyssal.md",
+      "title": "🌊 Océan abyssal — Écosystème"
+    },
+    {
+      "name": "Plaine cultivée de Galenor",
+      "file": "Plaine cultivée de Galenor.md",
+      "title": "🟩 Plaine cultivée de Galenor — Écosystème"
+    },
+    {
+      "name": "Plans cosmiques",
+      "file": "Plans cosmiques.md",
+      "title": "🕳️ Plans cosmiques — Écosystème planaire"
+    },
+    {
+      "name": "Steppe d'Onara",
+      "file": "Steppe d'Onara.md",
+      "title": "🌾 Steppe d'Onara — Écosystème"
+    },
+    {
+      "name": "Toundra de Cestra",
+      "file": "Toundra de Cestra.md",
+      "title": "🤍 Toundra de Cestra — Écosystème"
+    },
+    {
+      "name": "Zones magmatiques du Mont Cendra",
+      "file": "Zones magmatiques du Mont Cendra.md",
+      "title": "🌋 Zones magmatiques du Mont Cendra — Écosystème"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Personnages et Entités/NPC Behaviors": [
+    {
+      "name": "Actions Situationnelles",
+      "file": "Actions Situationnelles.md",
+      "title": "🎯 Actions Situationnelles — Comportement PNJ en situation"
+    },
+    {
+      "name": "Concepts Fondamentaux IA PNJ",
+      "file": "Concepts Fondamentaux IA PNJ.md",
+      "title": "🧠 Concepts Fondamentaux — IA des PNJ"
+    },
+    {
+      "name": "Modes Sociaux",
+      "file": "Modes Sociaux.md",
+      "title": "🎭 Modes Sociaux — Comportements superposables"
+    },
+    {
+      "name": "Routine Quotidienne",
+      "file": "Routine Quotidienne.md",
+      "title": "🌅 Routine Quotidienne — Template générique"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Personnages et Entités/NPC Behaviors/Métiers/Agriculture et Élevage": [
+    {
+      "name": "Agriculteur",
+      "file": "Agriculteur.md",
+      "title": "🌾 Comportement PNJ — Agriculteur"
+    },
+    {
+      "name": "Berger",
+      "file": "Berger.md",
+      "title": "🐑 Comportement PNJ — Berger"
+    },
+    {
+      "name": "Bûcheron",
+      "file": "Bûcheron.md",
+      "title": "🪵 Comportement PNJ — Bûcheron"
+    },
+    {
+      "name": "Eleveur de créature",
+      "file": "Eleveur de créature.md",
+      "title": "🐎 Comportement PNJ — Éleveur de créature"
+    },
+    {
+      "name": "Meunier",
+      "file": "Meunier.md",
+      "title": "🌾 Comportement PNJ — Meunier"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Personnages et Entités/NPC Behaviors/Métiers/Architecture chantier": [
+    {
+      "name": "Charpentier",
+      "file": "Charpentier.md",
+      "title": "🪵 Template PNJ — Charpentier"
+    },
+    {
+      "name": "Lapidaire",
+      "file": "Lapidaire.md",
+      "title": "💎 Template PNJ — Lapidaire"
+    },
+    {
+      "name": "Maçon",
+      "file": "Maçon.md",
+      "title": "🧱 Template PNJ — Maçon"
+    },
+    {
+      "name": "Tailleur de pierre",
+      "file": "Tailleur de pierre.md",
+      "title": "⛏️ Template PNJ — Tailleur de pierre"
+    },
+    {
+      "name": "Verrier",
+      "file": "Verrier.md",
+      "title": "🔮 Template PNJ — Verrier"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Personnages et Entités/NPC Behaviors/Métiers/Artisanat et Production": [
+    {
+      "name": "Architecte",
+      "file": "Architecte.md",
+      "title": "🏛 Template PNJ — Architecte"
+    },
+    {
+      "name": "Bijoutier",
+      "file": "Bijoutier.md",
+      "title": "💎 Template PNJ — Bijoutier"
+    },
+    {
+      "name": "Boucher",
+      "file": "Boucher.md",
+      "title": "🥩 Template PNJ — Boucher"
+    },
+    {
+      "name": "Boulanger",
+      "file": "Boulanger.md",
+      "title": "🥖 Template PNJ — Boulanger"
+    },
+    {
+      "name": "Cordonnier",
+      "file": "Cordonnier.md",
+      "title": "👢 Template PNJ — Cordonnier"
+    },
+    {
+      "name": "Cuisinier",
+      "file": "Cuisinier.md",
+      "title": "🍲 Template PNJ — Cuisinier"
+    },
+    {
+      "name": "Dresseur de créature",
+      "file": "Dresseur de créature.md",
+      "title": "🐺 Template PNJ — Dresseur de créature"
+    },
+    {
+      "name": "Enchanteur d'objet",
+      "file": "Enchanteur d'objet.md",
+      "title": "🔮 Template PNJ — Enchanteur d'objet"
+    },
+    {
+      "name": "Forgeron",
+      "file": "Forgeron.md",
+      "title": "🔨 Template PNJ — Forgeron"
+    },
+    {
+      "name": "Menuisier",
+      "file": "Menuisier.md",
+      "title": "🪵 Template PNJ — Menuisier"
+    },
+    {
+      "name": "Sculpteur",
+      "file": "Sculpteur.md",
+      "title": "🗿 Template PNJ — Sculpteur"
+    },
+    {
+      "name": "Tailleur",
+      "file": "Tailleur.md",
+      "title": "👗 Template PNJ — Tailleur"
+    },
+    {
+      "name": "Tanneur",
+      "file": "Tanneur.md",
+      "title": "🥩 Template PNJ — Tanneur"
+    },
+    {
+      "name": "Tisserand",
+      "file": "Tisserand.md",
+      "title": "🧵 Template PNJ — Tisserand"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Personnages et Entités/NPC Behaviors/Métiers/Commerce et Services": [
+    {
+      "name": "Aubergiste",
+      "file": "Aubergiste.md",
+      "title": "🛏️ Comportement PNJ — Aubergiste"
+    },
+    {
+      "name": "Banquier",
+      "file": "Banquier.md",
+      "title": "🏦 Comportement PNJ — Banquier"
+    },
+    {
+      "name": "Marchand",
+      "file": "Marchand.md",
+      "title": "💰 Comportement PNJ — Marchand"
+    },
+    {
+      "name": "Tavernier",
+      "file": "Tavernier.md",
+      "title": "🍺 Comportement PNJ — Tavernier"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Personnages et Entités/NPC Behaviors/Métiers/Divertissements": [
+    {
+      "name": "Acteur",
+      "file": "Acteur.md",
+      "title": "🎭 Template PNJ — Acteur"
+    },
+    {
+      "name": "Barde",
+      "file": "Barde.md",
+      "title": "📜 Template PNJ — Barde"
+    },
+    {
+      "name": "Jongleur",
+      "file": "Jongleur.md",
+      "title": "🤹 Template PNJ — Jongleur"
+    },
+    {
+      "name": "Musicien",
+      "file": "Musicien.md",
+      "title": "🎵 Template PNJ — Musicien"
+    },
+    {
+      "name": "Peintre",
+      "file": "Peintre.md",
+      "title": "🎨 Template PNJ — Peintre"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Personnages et Entités/NPC Behaviors/Métiers/Erudition": [
+    {
+      "name": "Alchimiste",
+      "file": "Alchimiste.md",
+      "title": "🧪 Template PNJ — Alchimiste"
+    },
+    {
+      "name": "Astronome",
+      "file": "Astronome.md",
+      "title": "🌌 Template PNJ — Astronome"
+    },
+    {
+      "name": "Bibliothécaire",
+      "file": "Bibliothécaire.md",
+      "title": "📚 Template PNJ — Bibliothécaire"
+    },
+    {
+      "name": "Chercheur",
+      "file": "Chercheur.md",
+      "title": "🔬 Template PNJ — Chercheur"
+    },
+    {
+      "name": "Enseignant",
+      "file": "Enseignant.md",
+      "title": "🏫 Template PNJ — Enseignant"
+    },
+    {
+      "name": "Historien",
+      "file": "Historien.md",
+      "title": "🏛️ Template PNJ — Historien"
+    },
+    {
+      "name": "Médecin",
+      "file": "Médecin.md",
+      "title": "🩺 Template PNJ — Médecin"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Personnages et Entités/NPC Behaviors/Métiers/Exploration": [
+    {
+      "name": "Cartographe",
+      "file": "Cartographe.md",
+      "title": "🗺️ Template PNJ — Cartographe"
+    },
+    {
+      "name": "Chasseur de créature",
+      "file": "Chasseur de créature.md",
+      "title": "🏹 Template PNJ — Chasseur de créature"
+    },
+    {
+      "name": "Chasseur de primes",
+      "file": "Chasseur de primes.md",
+      "title": "🎯 Template PNJ — Chasseur de primes"
+    },
+    {
+      "name": "Chasseur de trésors",
+      "file": "Chasseur de trésors.md",
+      "title": "💰 Template PNJ — Chasseur de trésors"
+    },
+    {
+      "name": "Dresseur",
+      "file": "Dresseur.md",
+      "title": "🦅 Template PNJ — Dresseur (terrain)"
+    },
+    {
+      "name": "Explorateur",
+      "file": "Explorateur.md",
+      "title": "🧭 Template PNJ — Explorateur"
+    },
+    {
+      "name": "Mercenaire",
+      "file": "Mercenaire.md",
+      "title": "⚔️ Template PNJ — Mercenaire"
+    },
+    {
+      "name": "Mineur",
+      "file": "Mineur.md",
+      "title": "⛏️ Template PNJ — Mineur"
+    },
+    {
+      "name": "Navigateur",
+      "file": "Navigateur.md",
+      "title": "⛵ Template PNJ — Navigateur"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Personnages et Entités/NPC Behaviors/Métiers/Gouvernance": [
+    {
+      "name": "Ambassadeur",
+      "file": "Ambassadeur.md",
+      "title": "🕊️ Template comportement PNJ — Ambassadeur"
+    },
+    {
+      "name": "Avocat",
+      "file": "Avocat.md",
+      "title": "📚 Template comportement PNJ — Avocat"
+    },
+    {
+      "name": "Conseiller",
+      "file": "Conseiller.md",
+      "title": "🧠 Template comportement PNJ — Conseiller"
+    },
+    {
+      "name": "Juge",
+      "file": "Juge.md",
+      "title": "⚖️ Template comportement PNJ — Juge"
+    },
+    {
+      "name": "Scribe",
+      "file": "Scribe.md",
+      "title": "📜 Template comportement PNJ — Scribe"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Personnages et Entités/NPC Behaviors/Métiers/Mysticisme": [
+    {
+      "name": "Apothicaire",
+      "file": "Apothicaire.md",
+      "title": "💊 Template PNJ — Apothicaire"
+    },
+    {
+      "name": "Enchanteur du vivant",
+      "file": "Enchanteur du vivant.md",
+      "title": "🌿 Template PNJ — Enchanteur du vivant"
+    },
+    {
+      "name": "Guérisseur",
+      "file": "Guérisseur.md",
+      "title": "💚 Template PNJ — Guérisseur"
+    },
+    {
+      "name": "Herboriste",
+      "file": "Herboriste.md",
+      "title": "🌿 Template PNJ — Herboriste"
+    },
+    {
+      "name": "Mage",
+      "file": "Mage.md",
+      "title": "🔮 Template PNJ — Mage"
+    },
+    {
+      "name": "Nécromancien",
+      "file": "Nécromancien.md",
+      "title": "💀 Template PNJ — Nécromancien"
+    },
+    {
+      "name": "Oracle",
+      "file": "Oracle.md",
+      "title": "🎴 Template PNJ — Oracle"
+    },
+    {
+      "name": "Prêtre",
+      "file": "Prêtre.md",
+      "title": "🛐 Template PNJ — Prêtre"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Personnages et Entités/NPC Behaviors/Métiers/Sécurité": [
+    {
+      "name": "Archer",
+      "file": "Archer.md",
+      "title": "🏹 Template comportement PNJ — Archer"
+    },
+    {
+      "name": "Assassin",
+      "file": "Assassin.md",
+      "title": "🗡️ Template comportement PNJ — Assassin"
+    },
+    {
+      "name": "Chevalier",
+      "file": "Chevalier.md",
+      "title": "🛡️ Template comportement PNJ — Chevalier"
+    },
+    {
+      "name": "Espion",
+      "file": "Espion.md",
+      "title": "👁️ Template comportement PNJ — Espion"
+    },
+    {
+      "name": "Garde",
+      "file": "Garde.md",
+      "title": "🛡️ Template comportement PNJ — Garde"
+    },
+    {
+      "name": "Soldat",
+      "file": "Soldat.md",
+      "title": "⚔️ Template comportement PNJ — Soldat"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Personnages et Entités/NPC Behaviors/_Ebauches Archivees": [
+    {
+      "name": "Métiers - Boulanger",
+      "file": "Métiers - Boulanger.md",
+      "title": "🥖 Métier PNJ — Boulanger"
+    },
+    {
+      "name": "Métiers - Forgeron",
+      "file": "Métiers - Forgeron.md",
+      "title": "🔨 Métier PNJ — Forgeron"
+    }
+  ],
   "GDD/05 - Implémentation Unreal/Progression et Inventaire": [
+    {
+      "name": "Accord System",
+      "file": "Accord System.md",
+      "title": "Accord System — Implémentation"
+    },
     {
       "name": "Data Tables Catalog",
       "file": "Data Tables Catalog.md",
@@ -4749,6 +3135,11 @@
       "name": "Data Tables Misc",
       "file": "Data Tables Misc.md",
       "title": "DataTables_Misc"
+    },
+    {
+      "name": "Economy System",
+      "file": "Economy System.md",
+      "title": "Economy System — Implémentation"
     },
     {
       "name": "HW Inventory Component",
@@ -4781,14 +3172,1437 @@
       "title": "InventoryPersistence"
     },
     {
+      "name": "Labeur System",
+      "file": "Labeur System.md",
+      "title": "Labeur System — Implémentation"
+    },
+    {
       "name": "Loot System",
       "file": "Loot System.md",
       "title": "Loot System"
     },
     {
+      "name": "Profession System",
+      "file": "Profession System.md",
+      "title": "Profession System — Implémentation"
+    },
+    {
+      "name": "Progression System",
+      "file": "Progression System.md",
+      "title": "Progression System — Implémentation"
+    },
+    {
       "name": "Quest System",
       "file": "Quest System.md",
       "title": "Quest System"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Accessoires/Amulettes": [
+    {
+      "name": "Disque d'effroi",
+      "file": "Disque d'effroi.md",
+      "title": "Disque d'effroi"
+    },
+    {
+      "name": "Fontaine de vitesse",
+      "file": "Fontaine de vitesse.md",
+      "title": "Fontaine de vitesse"
+    },
+    {
+      "name": "Gant de tentation",
+      "file": "Gant de tentation.md",
+      "title": "Gant de tentation"
+    },
+    {
+      "name": "Gobelet porte-bonheur",
+      "file": "Gobelet porte-bonheur.md",
+      "title": "Gobelet porte-bonheur"
+    },
+    {
+      "name": "Graal de la fidélité",
+      "file": "Graal de la fidélité.md",
+      "title": "Graal de la fidélité"
+    },
+    {
+      "name": "Médaillon en argent",
+      "file": "Médaillon en argent.md",
+      "title": "Médaillon en argent"
+    },
+    {
+      "name": "Éclat prospère",
+      "file": "Éclat prospère.md",
+      "title": "Éclat prospère"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Accessoires/Anneaux": [
+    {
+      "name": "Anneau d'argent à gemme",
+      "file": "Anneau d'argent à gemme.md",
+      "title": "Anneau d'argent à gemme"
+    },
+    {
+      "name": "Anneau d'or runique",
+      "file": "Anneau d'or runique.md",
+      "title": "Anneau d'or runique"
+    },
+    {
+      "name": "Anneau de fer",
+      "file": "Anneau de fer.md",
+      "title": "Anneau de fer"
+    },
+    {
+      "name": "Anneau de mithril magistral",
+      "file": "Anneau de mithril magistral.md",
+      "title": "Anneau de mithril magistral"
+    },
+    {
+      "name": "Anneau sigillaire des Sentinelles",
+      "file": "Anneau sigillaire des Sentinelles.md",
+      "title": "Anneau sigillaire des Sentinelles"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Accessoires/Boucles d'oreille": [
+    {
+      "name": "Anneaux d'oreille en argent",
+      "file": "Anneaux d'oreille en argent.md",
+      "title": "Anneaux d'oreille en argent"
+    },
+    {
+      "name": "Boucles d'oreille à éclat de Voie",
+      "file": "Boucles d'oreille à éclat de Voie.md",
+      "title": "Boucles d'oreille à éclat de Voie"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Accessoires/Bracelets": [
+    {
+      "name": "Bracelet de cuir",
+      "file": "Bracelet de cuir.md",
+      "title": "Bracelet de cuir"
+    },
+    {
+      "name": "Bracelet de mithril",
+      "file": "Bracelet de mithril.md",
+      "title": "Bracelet de mithril"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Accessoires/Broches": [
+    {
+      "name": "Broche de faction",
+      "file": "Broche de faction.md",
+      "title": "Broche de faction"
+    },
+    {
+      "name": "Fibule simple en bronze",
+      "file": "Fibule simple en bronze.md",
+      "title": "Fibule simple en bronze"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Accessoires/Ceintures-accessoire": [
+    {
+      "name": "Ceinture d'aventurier en cuir renforcé",
+      "file": "Ceinture d'aventurier en cuir renforcé.md",
+      "title": "Ceinture d'aventurier en cuir renforcé"
+    },
+    {
+      "name": "Ceinture à pochettes en cuir",
+      "file": "Ceinture à pochettes en cuir.md",
+      "title": "Ceinture à pochettes en cuir"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Armes/Distance/Arc": [
+    {
+      "name": "Arc cosmique des Échos",
+      "file": "Arc cosmique des Échos.md",
+      "title": "Arc cosmique des Échos"
+    },
+    {
+      "name": "Arc court en if",
+      "file": "Arc court en if.md",
+      "title": "Arc court en if"
+    },
+    {
+      "name": "Arc long en chêne magistral",
+      "file": "Arc long en chêne magistral.md",
+      "title": "Arc long en chêne magistral"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Armes/Distance/Flèche": [
+    {
+      "name": "Flèche commune en fer",
+      "file": "Flèche commune en fer.md",
+      "title": "Flèche commune en fer"
+    },
+    {
+      "name": "Flèche incendiaire d'Eldoria",
+      "file": "Flèche incendiaire d'Eldoria.md",
+      "title": "Flèche incendiaire d'Eldoria"
+    },
+    {
+      "name": "Flèche perforante en acier",
+      "file": "Flèche perforante en acier.md",
+      "title": "Flèche perforante en acier"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Armes/Défensif/Bouclier": [
+    {
+      "name": "Bouclier rond en bois et fer",
+      "file": "Bouclier rond en bois et fer.md",
+      "title": "Bouclier rond en bois et fer"
+    },
+    {
+      "name": "Pavois de chevalier",
+      "file": "Pavois de chevalier.md",
+      "title": "Pavois de chevalier"
+    },
+    {
+      "name": "Targe de la Sentinelle",
+      "file": "Targe de la Sentinelle.md",
+      "title": "Targe de la Sentinelle"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Armes/Mêlée 1H/Dague": [
+    {
+      "name": "Dague d'éclaireur en fer",
+      "file": "Dague d'éclaireur en fer.md",
+      "title": "Dague d'éclaireur en fer"
+    },
+    {
+      "name": "Dague jumelle des ombres",
+      "file": "Dague jumelle des ombres.md",
+      "title": "Dague jumelle des ombres"
+    },
+    {
+      "name": "Stylet d'assassin en argent",
+      "file": "Stylet d'assassin en argent.md",
+      "title": "Stylet d'assassin en argent"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Armes/Mêlée 1H/Hache à une main": [
+    {
+      "name": "Hache d'abordage en bronze",
+      "file": "Hache d'abordage en bronze.md",
+      "title": "Hache d'abordage en bronze"
+    },
+    {
+      "name": "Hache de bûcheron-soldat",
+      "file": "Hache de bûcheron-soldat.md",
+      "title": "Hache de bûcheron-soldat"
+    },
+    {
+      "name": "Hache rituelle en Acier d'Ivar",
+      "file": "Hache rituelle en Acier d'Ivar.md",
+      "title": "Hache rituelle en Acier d'Ivar"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Armes/Mêlée 1H/Lame": [
+    {
+      "name": "Couteau de chasse en fer",
+      "file": "Couteau de chasse en fer.md",
+      "title": "Couteau de chasse en fer"
+    },
+    {
+      "name": "Kukri légendaire de la Nuit",
+      "file": "Kukri légendaire de la Nuit.md",
+      "title": "Kukri légendaire de la Nuit"
+    },
+    {
+      "name": "Sabre œuvré du désert",
+      "file": "Sabre œuvré du désert.md",
+      "title": "Sabre œuvré du désert"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Armes/Mêlée 1H/Marteau à une main": [
+    {
+      "name": "Maillet de la Garde Royale",
+      "file": "Maillet de la Garde Royale.md",
+      "title": "Maillet de la Garde Royale"
+    },
+    {
+      "name": "Marteau de soldat en fer",
+      "file": "Marteau de soldat en fer.md",
+      "title": "Marteau de soldat en fer"
+    },
+    {
+      "name": "Marteau œuvré en acier inoxydable",
+      "file": "Marteau œuvré en acier inoxydable.md",
+      "title": "Marteau œuvré en acier inoxydable"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Armes/Mêlée 1H/Rapière": [
+    {
+      "name": "Fleuret du Maître d'Armes",
+      "file": "Fleuret du Maître d'Armes.md",
+      "title": "Fleuret du Maître d'Armes"
+    },
+    {
+      "name": "Rapière de duel en acier",
+      "file": "Rapière de duel en acier.md",
+      "title": "Rapière de duel en acier"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Armes/Mêlée 1H/Sceptre": [
+    {
+      "name": "Sceptre de la Cathédrale",
+      "file": "Sceptre de la Cathédrale.md",
+      "title": "Sceptre de la Cathédrale"
+    },
+    {
+      "name": "Sceptre de novice en cuivre",
+      "file": "Sceptre de novice en cuivre.md",
+      "title": "Sceptre de novice en cuivre"
+    },
+    {
+      "name": "Sceptre œuvré d'Anterium",
+      "file": "Sceptre œuvré d'Anterium.md",
+      "title": "Sceptre œuvré d'Anterium"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Armes/Mêlée 1H/Épée à une main": [
+    {
+      "name": "Cometfall - Cristal du Loup",
+      "file": "Cometfall - Cristal du Loup.md",
+      "title": "Cometfall — Cristal du Loup"
+    },
+    {
+      "name": "Ebony - défenseur des échos",
+      "file": "Ebony - défenseur des échos.md",
+      "title": "Ebony — défenseur des échos"
+    },
+    {
+      "name": "Épée commune en fer",
+      "file": "Épée commune en fer.md",
+      "title": "Épée commune en fer"
+    },
+    {
+      "name": "Épée façonnée en acier",
+      "file": "Épée façonnée en acier.md",
+      "title": "Épée façonnée en acier"
+    },
+    {
+      "name": "Épée magistrale en Bliysium",
+      "file": "Épée magistrale en Bliysium.md",
+      "title": "Épée magistrale en Bliysium"
+    },
+    {
+      "name": "Épée œuvrée en acier d'Ivar",
+      "file": "Épée œuvrée en acier d'Ivar.md",
+      "title": "Épée œuvrée en acier d'Ivar"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Armes/Mêlée 2H/Hache à deux mains": [
+    {
+      "name": "Clair de lune - terreur de la rédemption",
+      "file": "Clair de lune - terreur de la rédemption.md",
+      "title": "Clair de lune — terreur de la rédemption"
+    },
+    {
+      "name": "Flamme d'âme",
+      "file": "Flamme d'âme.md",
+      "title": "Flamme d'âme"
+    },
+    {
+      "name": "Gardien des sorts - conquérant de la couronne",
+      "file": "Gardien des sorts - conquérant de la couronne.md",
+      "title": "Gardien des sorts — conquérant de la couronne"
+    },
+    {
+      "name": "Hache de bûcheron-guerrier",
+      "file": "Hache de bûcheron-guerrier.md",
+      "title": "Hache de bûcheron-guerrier"
+    },
+    {
+      "name": "La consécration - point crucial des veuves",
+      "file": "La consécration - point crucial des veuves.md",
+      "title": "La consécration — point crucial des veuves"
+    },
+    {
+      "name": "Spark - secret des rêves illuminés",
+      "file": "Spark - secret des rêves illuminés.md",
+      "title": "Spark — secret des rêves illuminés"
+    },
+    {
+      "name": "Tourment - croisé du ciel",
+      "file": "Tourment - croisé du ciel.md",
+      "title": "Tourment — croisé du ciel"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Armes/Mêlée 2H/Lance": [
+    {
+      "name": "Lance d'Aerion",
+      "file": "Lance d'Aerion.md",
+      "title": "Lance d'Aerion"
+    },
+    {
+      "name": "Lance de garde en fer",
+      "file": "Lance de garde en fer.md",
+      "title": "Lance de garde en fer"
+    },
+    {
+      "name": "Pique de bataillon",
+      "file": "Pique de bataillon.md",
+      "title": "Pique de bataillon"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Armes/Mêlée 2H/Marteau à deux mains": [
+    {
+      "name": "Bibelot de remords",
+      "file": "Bibelot de remords.md",
+      "title": "Bibelot de remords"
+    },
+    {
+      "name": "Marteau de siège en acier",
+      "file": "Marteau de siège en acier.md",
+      "title": "Marteau de siège en acier"
+    },
+    {
+      "name": "Mystère",
+      "file": "Mystère.md",
+      "title": "Mystère"
+    },
+    {
+      "name": "Oracle",
+      "file": "Oracle.md",
+      "title": "Oracle"
+    },
+    {
+      "name": "Relieur de rêves",
+      "file": "Relieur de rêves.md",
+      "title": "Relieur de rêves"
+    },
+    {
+      "name": "Terrefeu - terreur des rêves illuminés",
+      "file": "Terrefeu - terreur des rêves illuminés.md",
+      "title": "Terrefeu — terreur des rêves illuminés"
+    },
+    {
+      "name": "Épine",
+      "file": "Épine.md",
+      "title": "Épine"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Armes/Mêlée 2H/Épée à deux mains": [
+    {
+      "name": "Claymore œuvrée en Acier d'Ivar",
+      "file": "Claymore œuvrée en Acier d'Ivar.md",
+      "title": "Claymore œuvrée en Acier d'Ivar"
+    },
+    {
+      "name": "Espadon de soldat en acier",
+      "file": "Espadon de soldat en acier.md",
+      "title": "Espadon de soldat en acier"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Armures/Bras/Brassards": [
+    {
+      "name": "Brassards en cuir",
+      "file": "Brassards en cuir.md",
+      "title": "Brassards en cuir"
+    },
+    {
+      "name": "Brassards en plate",
+      "file": "Brassards en plate.md",
+      "title": "Brassards en plate"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Armures/Jambes/Jambières": [
+    {
+      "name": "Cuissardes en mailles",
+      "file": "Cuissardes en mailles.md",
+      "title": "Cuissardes en mailles"
+    },
+    {
+      "name": "Jambières en plate",
+      "file": "Jambières en plate.md",
+      "title": "Jambières en plate"
+    },
+    {
+      "name": "Pantalon en cuir",
+      "file": "Pantalon en cuir.md",
+      "title": "Pantalon en cuir"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Armures/Mains/Gantelets": [
+    {
+      "name": "Gantelets en plate",
+      "file": "Gantelets en plate.md",
+      "title": "Gantelets en plate"
+    },
+    {
+      "name": "Gants en cuir",
+      "file": "Gants en cuir.md",
+      "title": "Gants en cuir"
+    },
+    {
+      "name": "Mitaines en tissu",
+      "file": "Mitaines en tissu.md",
+      "title": "Mitaines en tissu"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Armures/Pieds/Bottes": [
+    {
+      "name": "Bottes en cuir",
+      "file": "Bottes en cuir.md",
+      "title": "Bottes en cuir"
+    },
+    {
+      "name": "Bottes en plate",
+      "file": "Bottes en plate.md",
+      "title": "Bottes en plate"
+    },
+    {
+      "name": "Sandales en tissu",
+      "file": "Sandales en tissu.md",
+      "title": "Sandales en tissu"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Armures/Taille/Ceinture armure": [
+    {
+      "name": "Ceinture de plate",
+      "file": "Ceinture de plate.md",
+      "title": "Ceinture de plate"
+    },
+    {
+      "name": "Ceinture en cuir d'éclaireur",
+      "file": "Ceinture en cuir d'éclaireur.md",
+      "title": "Ceinture en cuir d'éclaireur"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Armures/Torse/Cuirasse": [
+    {
+      "name": "Cuirasse de chevalier en plate",
+      "file": "Cuirasse de chevalier en plate.md",
+      "title": "Cuirasse de chevalier en plate"
+    },
+    {
+      "name": "Cuirasse du Premier Veilleur",
+      "file": "Cuirasse du Premier Veilleur.md",
+      "title": "Cuirasse du Premier Veilleur"
+    },
+    {
+      "name": "Plastron de la Sentinelle d'Astravia",
+      "file": "Plastron de la Sentinelle d'Astravia.md",
+      "title": "Plastron de la Sentinelle d'Astravia"
+    },
+    {
+      "name": "Plastron de soldat en mailles",
+      "file": "Plastron de soldat en mailles.md",
+      "title": "Plastron de soldat en mailles"
+    },
+    {
+      "name": "Robe d'apprenti en tissu",
+      "file": "Robe d'apprenti en tissu.md",
+      "title": "Robe d'apprenti en tissu"
+    },
+    {
+      "name": "Tunique d'éclaireur en cuir",
+      "file": "Tunique d'éclaireur en cuir.md",
+      "title": "Tunique d'éclaireur en cuir"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Armures/Torse/Robe magique": [
+    {
+      "name": "Robe œuvrée d'Eldoria",
+      "file": "Robe œuvrée d'Eldoria.md",
+      "title": "Robe œuvrée d'Eldoria"
+    },
+    {
+      "name": "Voile de la Veuve de Galenor",
+      "file": "Voile de la Veuve de Galenor.md",
+      "title": "Voile de la Veuve de Galenor"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Armures/Tête/Heaume": [
+    {
+      "name": "Capuche en cuir d'éclaireur",
+      "file": "Capuche en cuir d'éclaireur.md",
+      "title": "Capuche en cuir d'éclaireur"
+    },
+    {
+      "name": "Capuche en tissu",
+      "file": "Capuche en tissu.md",
+      "title": "Capuche en tissu"
+    },
+    {
+      "name": "Casque en mailles",
+      "file": "Casque en mailles.md",
+      "title": "Casque en mailles"
+    },
+    {
+      "name": "Heaume de chevalier en plate",
+      "file": "Heaume de chevalier en plate.md",
+      "title": "Heaume de chevalier en plate"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Armures/Épaules/Pauldrons": [
+    {
+      "name": "Pauldrons de chevalier en plate",
+      "file": "Pauldrons de chevalier en plate.md",
+      "title": "Pauldrons de chevalier en plate"
+    },
+    {
+      "name": "Pauldrons en cuir",
+      "file": "Pauldrons en cuir.md",
+      "title": "Pauldrons en cuir"
+    },
+    {
+      "name": "Épaulières de soldat en mailles",
+      "file": "Épaulières de soldat en mailles.md",
+      "title": "Épaulières de soldat en mailles"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Consommables/Aliments bruts": [
+    {
+      "name": "Carotte",
+      "file": "Carotte.md",
+      "title": "Carotte"
+    },
+    {
+      "name": "Fromage de chèvre affiné",
+      "file": "Fromage de chèvre affiné.md",
+      "title": "Fromage de chèvre affiné"
+    },
+    {
+      "name": "Pavé de cerf",
+      "file": "Pavé de cerf.md",
+      "title": "Pavé de cerf"
+    },
+    {
+      "name": "Pomme rouge",
+      "file": "Pomme rouge.md",
+      "title": "Pomme rouge"
+    },
+    {
+      "name": "Truite fumée",
+      "file": "Truite fumée.md",
+      "title": "Truite fumée"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Consommables/Boissons": [
+    {
+      "name": "Amigo universel",
+      "file": "Amigo universel.md",
+      "title": "Amigo universel"
+    },
+    {
+      "name": "Bière commune de taverne",
+      "file": "Bière commune de taverne.md",
+      "title": "Bière commune de taverne"
+    },
+    {
+      "name": "Boire un buzzer",
+      "file": "Boire un buzzer.md",
+      "title": "Boire un buzzer"
+    },
+    {
+      "name": "Lever de soleil démoniaque",
+      "file": "Lever de soleil démoniaque.md",
+      "title": "Lever de soleil démoniaque"
+    },
+    {
+      "name": "Score fou",
+      "file": "Score fou.md",
+      "title": "Score fou"
+    },
+    {
+      "name": "Tempête démoniaque",
+      "file": "Tempête démoniaque.md",
+      "title": "Tempête démoniaque"
+    },
+    {
+      "name": "Élingue banane",
+      "file": "Élingue banane.md",
+      "title": "Élingue banane"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Consommables/Champignons": [
+    {
+      "name": "Amanite des Voiles",
+      "file": "Amanite des Voiles.md",
+      "title": "Amanite des Voiles"
+    },
+    {
+      "name": "Champignon de Paris",
+      "file": "Champignon de Paris.md",
+      "title": "Champignon de Paris"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Consommables/Cristaux usables": [
+    {
+      "name": "Cristal d'éveil de Voie",
+      "file": "Cristal d'éveil de Voie.md",
+      "title": "Cristal d'éveil de Voie"
+    },
+    {
+      "name": "Cristal de mana mineur",
+      "file": "Cristal de mana mineur.md",
+      "title": "Cristal de mana mineur"
+    },
+    {
+      "name": "Cristal de recharge majeur",
+      "file": "Cristal de recharge majeur.md",
+      "title": "Cristal de recharge majeur"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Consommables/Gâteaux": [
+    {
+      "name": "Gâteau de fête royale",
+      "file": "Gâteau de fête royale.md",
+      "title": "Gâteau de fête royale"
+    },
+    {
+      "name": "Tarte aux pommes",
+      "file": "Tarte aux pommes.md",
+      "title": "Tarte aux pommes"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Consommables/Livres-Récipient": [
+    {
+      "name": "Arbres et vautours",
+      "file": "Arbres et vautours.md",
+      "title": "Arbres et vautours"
+    },
+    {
+      "name": "Flèche des Dieux",
+      "file": "Flèche des Dieux.md",
+      "title": "Flèche des Dieux"
+    },
+    {
+      "name": "Géant avec l'immortalité",
+      "file": "Géant avec l'immortalité.md",
+      "title": "Géant avec l'immortalité"
+    },
+    {
+      "name": "Mendier dans les abysses",
+      "file": "Mendier dans les abysses.md",
+      "title": "Mendier dans les abysses"
+    },
+    {
+      "name": "Signes chez les anges",
+      "file": "Signes chez les anges.md",
+      "title": "Signes chez les anges"
+    },
+    {
+      "name": "Vautours avec honneur",
+      "file": "Vautours avec honneur.md",
+      "title": "Vautours avec honneur"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Consommables/Modificateurs": [
+    {
+      "name": "Cannelle",
+      "file": "Cannelle.md",
+      "title": "Cannelle"
+    },
+    {
+      "name": "Persil",
+      "file": "Persil.md",
+      "title": "Persil"
+    },
+    {
+      "name": "Sauge sacrée",
+      "file": "Sauge sacrée.md",
+      "title": "Sauge sacrée"
+    },
+    {
+      "name": "Sel de mer",
+      "file": "Sel de mer.md",
+      "title": "Sel de mer"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Consommables/Pains": [
+    {
+      "name": "Brioche royale",
+      "file": "Brioche royale.md",
+      "title": "Brioche royale"
+    },
+    {
+      "name": "Pain commun",
+      "file": "Pain commun.md",
+      "title": "Pain commun"
+    },
+    {
+      "name": "Pain de campagne",
+      "file": "Pain de campagne.md",
+      "title": "Pain de campagne"
+    },
+    {
+      "name": "Pain noir d'Alkaran",
+      "file": "Pain noir d'Alkaran.md",
+      "title": "Pain noir d'Alkaran"
+    },
+    {
+      "name": "Pain rituel d'Aetheron",
+      "file": "Pain rituel d'Aetheron.md",
+      "title": "Pain rituel d'Aetheron"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Consommables/Parchemins": [
+    {
+      "name": "Parchemin d'Invisibilité",
+      "file": "Parchemin d'Invisibilité.md",
+      "title": "Parchemin d'Invisibilité"
+    },
+    {
+      "name": "Parchemin de Boule de feu",
+      "file": "Parchemin de Boule de feu.md",
+      "title": "Parchemin de Boule de feu"
+    },
+    {
+      "name": "Parchemin de Soin de masse",
+      "file": "Parchemin de Soin de masse.md",
+      "title": "Parchemin de Soin de masse"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Consommables/Potions": [
+    {
+      "name": "Antidote raffiné",
+      "file": "Antidote raffiné.md",
+      "title": "Antidote raffiné"
+    },
+    {
+      "name": "Potion de régen Mana",
+      "file": "Potion de régen Mana.md",
+      "title": "Potion de régen Mana"
+    },
+    {
+      "name": "Potion de soin majeure",
+      "file": "Potion de soin majeure.md",
+      "title": "Potion de soin majeure"
+    },
+    {
+      "name": "Potion de soin mineure",
+      "file": "Potion de soin mineure.md",
+      "title": "Potion de soin mineure"
+    },
+    {
+      "name": "Élixir cosmique d'Aetheron",
+      "file": "Élixir cosmique d'Aetheron.md",
+      "title": "Élixir cosmique d'Aetheron"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Consommables/Récipients": [
+    {
+      "name": "Fiole en verre",
+      "file": "Fiole en verre.md",
+      "title": "Fiole en verre"
+    },
+    {
+      "name": "Fiole sertie d'argent",
+      "file": "Fiole sertie d'argent.md",
+      "title": "Fiole sertie d'argent"
+    },
+    {
+      "name": "Gourde en cuir",
+      "file": "Gourde en cuir.md",
+      "title": "Gourde en cuir"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Focus magiques/Bandeaux frontaux": [
+    {
+      "name": "Bandeau d'Augure en soie",
+      "file": "Bandeau d'Augure en soie.md",
+      "title": "Bandeau d'Augure en soie"
+    },
+    {
+      "name": "Bandeau de scribe en lin",
+      "file": "Bandeau de scribe en lin.md",
+      "title": "Bandeau de scribe en lin"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Focus magiques/Cristaux de Voie": [
+    {
+      "name": "Cristal de Voie d'Aquor",
+      "file": "Cristal de Voie d'Aquor.md",
+      "title": "Cristal de Voie d'Aquor"
+    },
+    {
+      "name": "Cristal de Voie d'Eldoria",
+      "file": "Cristal de Voie d'Eldoria.md",
+      "title": "Cristal de Voie d'Eldoria"
+    },
+    {
+      "name": "Cristal de Voie de Noctis",
+      "file": "Cristal de Voie de Noctis.md",
+      "title": "Cristal de Voie de Noctis"
+    },
+    {
+      "name": "Cristal de Voie de Spiritus",
+      "file": "Cristal de Voie de Spiritus.md",
+      "title": "Cristal de Voie de Spiritus"
+    },
+    {
+      "name": "Cristal de Voie de Tempora",
+      "file": "Cristal de Voie de Tempora.md",
+      "title": "Cristal de Voie de Tempora"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Focus magiques/Orbes": [
+    {
+      "name": "Orbe d'Eldoria",
+      "file": "Orbe d'Eldoria.md",
+      "title": "Orbe d'Eldoria"
+    },
+    {
+      "name": "Orbe de cristal commun",
+      "file": "Orbe de cristal commun.md",
+      "title": "Orbe de cristal commun"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Focus magiques/Talismans": [
+    {
+      "name": "Talisman de pacte mineur",
+      "file": "Talisman de pacte mineur.md",
+      "title": "Talisman de pacte mineur"
+    },
+    {
+      "name": "Talisman des Augures",
+      "file": "Talisman des Augures.md",
+      "title": "Talisman des Augures"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Focus magiques/Tomes": [
+    {
+      "name": "Codex universel des Voies",
+      "file": "Codex universel des Voies.md",
+      "title": "Codex universel des Voies"
+    },
+    {
+      "name": "Tome d'Aquor",
+      "file": "Tome d'Aquor.md",
+      "title": "Tome d'Aquor"
+    },
+    {
+      "name": "Tome d'Eldoria",
+      "file": "Tome d'Eldoria.md",
+      "title": "Tome d'Eldoria"
+    },
+    {
+      "name": "Tome de Noctis",
+      "file": "Tome de Noctis.md",
+      "title": "Tome de Noctis"
+    },
+    {
+      "name": "Tome de Tempora",
+      "file": "Tome de Tempora.md",
+      "title": "Tome de Tempora"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Outils/Atelier": [
+    {
+      "name": "Aiguille et fuseau",
+      "file": "Aiguille et fuseau.md",
+      "title": "Aiguille et fuseau"
+    },
+    {
+      "name": "Mortier et pilon",
+      "file": "Mortier et pilon.md",
+      "title": "Mortier et pilon"
+    },
+    {
+      "name": "Pince et burin",
+      "file": "Pince et burin.md",
+      "title": "Pince et burin"
+    },
+    {
+      "name": "Plume et stylet",
+      "file": "Plume et stylet.md",
+      "title": "Plume et stylet"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Outils/Forge": [
+    {
+      "name": "Marteau de forge en fer",
+      "file": "Marteau de forge en fer.md",
+      "title": "Marteau de forge en fer"
+    },
+    {
+      "name": "Soufflet en cuir",
+      "file": "Soufflet en cuir.md",
+      "title": "Soufflet en cuir"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Outils/Récolte": [
+    {
+      "name": "Canne à pêche",
+      "file": "Canne à pêche.md",
+      "title": "Canne à pêche"
+    },
+    {
+      "name": "Couteau de tanneur",
+      "file": "Couteau de tanneur.md",
+      "title": "Couteau de tanneur"
+    },
+    {
+      "name": "Faux de fermier",
+      "file": "Faux de fermier.md",
+      "title": "Faux de fermier"
+    },
+    {
+      "name": "Hache de bûcheron",
+      "file": "Hache de bûcheron.md",
+      "title": "Hache de bûcheron"
+    },
+    {
+      "name": "Pioche de mineur",
+      "file": "Pioche de mineur.md",
+      "title": "Pioche de mineur"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Ressources/Fabriqué/Alliages": [
+    {
+      "name": "Acier au tungstène",
+      "file": "Acier au tungstène.md",
+      "title": "Acier au tungstène"
+    },
+    {
+      "name": "Acier d'Ivar",
+      "file": "Acier d'Ivar.md",
+      "title": "Acier d'Ivar"
+    },
+    {
+      "name": "Acier inoxydable",
+      "file": "Acier inoxydable.md",
+      "title": "Acier inoxydable"
+    },
+    {
+      "name": "Anterium",
+      "file": "Anterium.md",
+      "title": "Anterium"
+    },
+    {
+      "name": "Bliysium",
+      "file": "Bliysium.md",
+      "title": "Bliysium"
+    },
+    {
+      "name": "Bronze",
+      "file": "Bronze.md",
+      "title": "Bronze"
+    },
+    {
+      "name": "Déterium",
+      "file": "Déterium.md",
+      "title": "Déterium"
+    },
+    {
+      "name": "Laiton",
+      "file": "Laiton.md",
+      "title": "Laiton"
+    },
+    {
+      "name": "Spuelium",
+      "file": "Spuelium.md",
+      "title": "Spuelium"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Ressources/Fabriqué/Gemmes taillées": [
+    {
+      "name": "Rubis taillé",
+      "file": "Rubis taillé.md",
+      "title": "Rubis taillé"
+    },
+    {
+      "name": "Saphir taillé",
+      "file": "Saphir taillé.md",
+      "title": "Saphir taillé"
+    },
+    {
+      "name": "Émeraude taillée",
+      "file": "Émeraude taillée.md",
+      "title": "Émeraude taillée"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Ressources/Fabriqué/Lingots": [
+    {
+      "name": "Lingot d'acier",
+      "file": "Lingot d'acier.md",
+      "title": "Lingot d'acier"
+    },
+    {
+      "name": "Lingot d'argent",
+      "file": "Lingot d'argent.md",
+      "title": "Lingot d'argent"
+    },
+    {
+      "name": "Lingot d'or",
+      "file": "Lingot d'or.md",
+      "title": "Lingot d'or"
+    },
+    {
+      "name": "Lingot de cuivre",
+      "file": "Lingot de cuivre.md",
+      "title": "Lingot de cuivre"
+    },
+    {
+      "name": "Lingot de fer",
+      "file": "Lingot de fer.md",
+      "title": "Lingot de fer"
+    },
+    {
+      "name": "Lingot de mithril",
+      "file": "Lingot de mithril.md",
+      "title": "Lingot de mithril"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Ressources/Fabriqué/Planches": [
+    {
+      "name": "Planche en chêne",
+      "file": "Planche en chêne.md",
+      "title": "Planche en chêne"
+    },
+    {
+      "name": "Planche en frêne",
+      "file": "Planche en frêne.md",
+      "title": "Planche en frêne"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Ressources/Fabriqué/Tissus": [
+    {
+      "name": "Laine",
+      "file": "Laine.md",
+      "title": "Laine"
+    },
+    {
+      "name": "Lin",
+      "file": "Lin.md",
+      "title": "Lin"
+    },
+    {
+      "name": "Soie",
+      "file": "Soie.md",
+      "title": "Soie"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Ressources/Récolte Créature/Cuir": [
+    {
+      "name": "Cuir d'Antérix",
+      "file": "Cuir d'Antérix.md",
+      "title": "Cuir d'Antérix"
+    },
+    {
+      "name": "Cuir d'ours",
+      "file": "Cuir d'ours.md",
+      "title": "Cuir d'ours"
+    },
+    {
+      "name": "Cuir de cerf",
+      "file": "Cuir de cerf.md",
+      "title": "Cuir de cerf"
+    },
+    {
+      "name": "Cuir de loup",
+      "file": "Cuir de loup.md",
+      "title": "Cuir de loup"
+    },
+    {
+      "name": "Cuir de requin abyssal",
+      "file": "Cuir de requin abyssal.md",
+      "title": "Cuir de requin abyssal"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Ressources/Récolte Créature/Os": [
+    {
+      "name": "Os d'Antérix",
+      "file": "Os d'Antérix.md",
+      "title": "Os d'Antérix"
+    },
+    {
+      "name": "Os de Ceapeecu",
+      "file": "Os de Ceapeecu.md",
+      "title": "Os de Ceapeecu"
+    },
+    {
+      "name": "Os de Fallilla",
+      "file": "Os de Fallilla.md",
+      "title": "Os de Fallilla"
+    },
+    {
+      "name": "Os de Feopsingale",
+      "file": "Os de Feopsingale.md",
+      "title": "Os de Feopsingale"
+    },
+    {
+      "name": "Os de Loumatée",
+      "file": "Os de Loumatée.md",
+      "title": "Os de Loumatée"
+    },
+    {
+      "name": "Os de Paboucs",
+      "file": "Os de Paboucs.md",
+      "title": "Os de Paboucs"
+    },
+    {
+      "name": "Os de Sparutor",
+      "file": "Os de Sparutor.md",
+      "title": "Os de Sparutor"
+    },
+    {
+      "name": "Os de Zastalo",
+      "file": "Os de Zastalo.md",
+      "title": "Os de Zastalo"
+    },
+    {
+      "name": "Os de Zocshawk",
+      "file": "Os de Zocshawk.md",
+      "title": "Os de Zocshawk"
+    },
+    {
+      "name": "Os de loup",
+      "file": "Os de loup.md",
+      "title": "Os de loup"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Ressources/Récolte Créature/Plumes": [
+    {
+      "name": "Plume cosmique d'aigle d'Eldoria",
+      "file": "Plume cosmique d'aigle d'Eldoria.md",
+      "title": "Plume cosmique d'aigle d'Eldoria"
+    },
+    {
+      "name": "Plume d'aigle",
+      "file": "Plume d'aigle.md",
+      "title": "Plume d'aigle"
+    },
+    {
+      "name": "Plume de canard",
+      "file": "Plume de canard.md",
+      "title": "Plume de canard"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Ressources/Récolte Créature/Écailles": [
+    {
+      "name": "Écaille de dragon nain",
+      "file": "Écaille de dragon nain.md",
+      "title": "Écaille de dragon nain"
+    },
+    {
+      "name": "Écaille de poisson abyssal",
+      "file": "Écaille de poisson abyssal.md",
+      "title": "Écaille de poisson abyssal"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Ressources/Récolte Nature/Bois": [
+    {
+      "name": "Bois d'if",
+      "file": "Bois d'if.md",
+      "title": "Bois d'if"
+    },
+    {
+      "name": "Bois d'ébène",
+      "file": "Bois d'ébène.md",
+      "title": "Bois d'ébène"
+    },
+    {
+      "name": "Bois de chêne",
+      "file": "Bois de chêne.md",
+      "title": "Bois de chêne"
+    },
+    {
+      "name": "Bois de hêtre",
+      "file": "Bois de hêtre.md",
+      "title": "Bois de hêtre"
+    },
+    {
+      "name": "Bois de pin",
+      "file": "Bois de pin.md",
+      "title": "Bois de pin"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Ressources/Récolte Nature/Fleurs": [
+    {
+      "name": "Rose des montagnes",
+      "file": "Rose des montagnes.md",
+      "title": "Rose des montagnes"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Ressources/Récolte Nature/Gemmes brutes": [
+    {
+      "name": "Rubis brut",
+      "file": "Rubis brut.md",
+      "title": "Rubis brut"
+    },
+    {
+      "name": "Saphir brut",
+      "file": "Saphir brut.md",
+      "title": "Saphir brut"
+    },
+    {
+      "name": "Émeraude brute",
+      "file": "Émeraude brute.md",
+      "title": "Émeraude brute"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Ressources/Récolte Nature/Minerai": [
+    {
+      "name": "Minerai d'argent",
+      "file": "Minerai d'argent.md",
+      "title": "Minerai d'argent"
+    },
+    {
+      "name": "Minerai d'or",
+      "file": "Minerai d'or.md",
+      "title": "Minerai d'or"
+    },
+    {
+      "name": "Minerai de cuivre",
+      "file": "Minerai de cuivre.md",
+      "title": "Minerai de cuivre"
+    },
+    {
+      "name": "Minerai de fer",
+      "file": "Minerai de fer.md",
+      "title": "Minerai de fer"
+    },
+    {
+      "name": "Minerai de mithril",
+      "file": "Minerai de mithril.md",
+      "title": "Minerai de mithril"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Ressources/Récolte Nature/Plantes": [
+    {
+      "name": "Hémostine",
+      "file": "Hémostine.md",
+      "title": "Hémostine"
+    },
+    {
+      "name": "Sanguinaire",
+      "file": "Sanguinaire.md",
+      "title": "Sanguinaire"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Ressources/Récolte Nature/Écorce": [
+    {
+      "name": "Écorce d'Épicéa",
+      "file": "Écorce d'Épicéa.md",
+      "title": "Écorce d'Épicéa"
+    },
+    {
+      "name": "Écorce de Douglas",
+      "file": "Écorce de Douglas.md",
+      "title": "Écorce de Douglas"
+    },
+    {
+      "name": "Écorce de Mélèze",
+      "file": "Écorce de Mélèze.md",
+      "title": "Écorce de Mélèze"
+    },
+    {
+      "name": "Écorce de Pin",
+      "file": "Écorce de Pin.md",
+      "title": "Écorce de Pin"
+    },
+    {
+      "name": "Écorce de Sapin",
+      "file": "Écorce de Sapin.md",
+      "title": "Écorce de Sapin"
+    },
+    {
+      "name": "Écorce de cèdre rouge",
+      "file": "Écorce de cèdre rouge.md",
+      "title": "Écorce de cèdre rouge"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Vêtements/Capes": [
+    {
+      "name": "Cape de pluie cirée",
+      "file": "Cape de pluie cirée.md",
+      "title": "Cape de pluie cirée"
+    },
+    {
+      "name": "Cape de voyage en laine",
+      "file": "Cape de voyage en laine.md",
+      "title": "Cape de voyage en laine"
+    },
+    {
+      "name": "Cape royale brodée",
+      "file": "Cape royale brodée.md",
+      "title": "Cape royale brodée"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Vêtements/Capuches civiles": [
+    {
+      "name": "Capuche d'érudit",
+      "file": "Capuche d'érudit.md",
+      "title": "Capuche d'érudit"
+    },
+    {
+      "name": "Capuche en lin gris",
+      "file": "Capuche en lin gris.md",
+      "title": "Capuche en lin gris"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Vêtements/Robes civiles": [
+    {
+      "name": "Robe noble brodée",
+      "file": "Robe noble brodée.md",
+      "title": "Robe noble brodée"
+    },
+    {
+      "name": "Robe simple de marchand",
+      "file": "Robe simple de marchand.md",
+      "title": "Robe simple de marchand"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Vêtements/Sacs à dos": [
+    {
+      "name": "Célestoplume",
+      "file": "Célestoplume.md",
+      "title": "Célestoplume"
+    },
+    {
+      "name": "Dracochitine",
+      "file": "Dracochitine.md",
+      "title": "Dracochitine"
+    },
+    {
+      "name": "Légèrefolium",
+      "file": "Légèrefolium.md",
+      "title": "Légèrefolium"
+    },
+    {
+      "name": "Sac simple en cuir",
+      "file": "Sac simple en cuir.md",
+      "title": "Sac simple en cuir"
+    },
+    {
+      "name": "Sacrumbrance",
+      "file": "Sacrumbrance.md",
+      "title": "Sacrumbrance"
+    },
+    {
+      "name": "Sylveflot",
+      "file": "Sylveflot.md",
+      "title": "Sylveflot"
+    },
+    {
+      "name": "Écumevol",
+      "file": "Écumevol.md",
+      "title": "Écumevol"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Vêtements/Tabards": [
+    {
+      "name": "Tabard de garde",
+      "file": "Tabard de garde.md",
+      "title": "Tabard de garde"
+    },
+    {
+      "name": "Tabard de la guilde des marchands",
+      "file": "Tabard de la guilde des marchands.md",
+      "title": "Tabard de la guilde des marchands"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Vêtements/Tuniques civiles": [
+    {
+      "name": "Tunique d'artisan",
+      "file": "Tunique d'artisan.md",
+      "title": "Tunique d'artisan"
+    },
+    {
+      "name": "Tunique paysanne",
+      "file": "Tunique paysanne.md",
+      "title": "Tunique paysanne"
     }
   ],
   "GDD/05 - Implémentation Unreal/VFX Audio Rendu": [
@@ -4835,6 +4649,21 @@
   ],
   "GDD/05 - Implémentation Unreal/Vue d'Ensemble": [
     {
+      "name": "Architecture Data-Driven",
+      "file": "Architecture Data-Driven.md",
+      "title": "🏗️ Architecture Data-Driven — Production d'Hybelior"
+    },
+    {
+      "name": "Faction System",
+      "file": "Faction System.md",
+      "title": "Faction System — Implémentation"
+    },
+    {
+      "name": "Guild System",
+      "file": "Guild System.md",
+      "title": "Guild System — Implémentation"
+    },
+    {
       "name": "Index Assets",
       "file": "Index Assets.md",
       "title": "MCP_00_INDEX — Index de Navigation et Inventaire MCP"
@@ -4845,9 +4674,24 @@
       "title": "Index Implémentation Unreal"
     },
     {
+      "name": "Player Sessions Spec",
+      "file": "Player Sessions Spec.md",
+      "title": "Player Sessions Spec — Implémentation"
+    },
+    {
+      "name": "Prediction System",
+      "file": "Prediction System.md",
+      "title": "Prediction System — Implémentation"
+    },
+    {
       "name": "Synthèse Projet",
       "file": "Synthèse Projet.md",
       "title": "HybeliorWorld — Rapport de Synthèse Global"
+    },
+    {
+      "name": "Vision Rules",
+      "file": "Vision Rules.md",
+      "title": "Vision Rules — Implémentation"
     }
   ],
   "Lore/Chroniques": [
@@ -5121,6 +4965,11 @@
       "title": "Histoires d'Altram"
     },
     {
+      "name": "Ferrath",
+      "file": "Ferrath.md",
+      "title": "Histoires de Ferrath"
+    },
+    {
       "name": "Iskara",
       "file": "Iskara.md",
       "title": "Histoires d'Iskara"
@@ -5133,14 +4982,29 @@
   ],
   "Lore/Histoires/Azoria": [
     {
+      "name": "Azoral",
+      "file": "Azoral.md",
+      "title": "Histoires d'Azoral"
+    },
+    {
       "name": "Caeloria",
       "file": "Caeloria.md",
       "title": "Histoires de Caeloria"
     },
     {
+      "name": "Kethvar",
+      "file": "Kethvar.md",
+      "title": "Histoires de Kethvar"
+    },
+    {
       "name": "No Man's Land Azoria",
       "file": "No Man's Land Azoria.md",
       "title": "Histoires du No Man's Land d'Azoria"
+    },
+    {
+      "name": "Solmaris",
+      "file": "Solmaris.md",
+      "title": "Histoires de Solmaris"
     }
   ],
   "Lore/Histoires/Baelor": [
@@ -5174,9 +5038,19 @@
   ],
   "Lore/Histoires/Cendara": [
     {
+      "name": "Arkhen",
+      "file": "Arkhen.md",
+      "title": "Histoires d'Arkhen — La Confédération de la Cendre Froide"
+    },
+    {
       "name": "Cendara",
       "file": "Cendara.md",
-      "title": "Histoires de Cendara"
+      "title": "Histoires de Cendara — Royaume de la Grande Île"
+    },
+    {
+      "name": "Pyrevane",
+      "file": "Pyrevane.md",
+      "title": "Histoires de Pyrevane — La Théocratie des Sept Feux"
     }
   ],
   "Lore/Histoires/Cestra": [
@@ -5184,6 +5058,11 @@
       "name": "Cestra",
       "file": "Cestra.md",
       "title": "Histoires de Cestra"
+    },
+    {
+      "name": "Noravia",
+      "file": "Noravia.md",
+      "title": "Histoires de Noravia"
     }
   ],
   "Lore/Histoires/Endora": [
@@ -5196,6 +5075,11 @@
       "name": "Haldria",
       "file": "Haldria.md",
       "title": "Histoires de Haldria"
+    },
+    {
+      "name": "Sanvara",
+      "file": "Sanvara.md",
+      "title": "Histoires de Sanvara"
     }
   ],
   "Lore/Histoires/Evertia": [
@@ -5203,6 +5087,11 @@
       "name": "Evertia",
       "file": "Evertia.md",
       "title": "Histoires d'Evertia"
+    },
+    {
+      "name": "Sylvara",
+      "file": "Sylvara.md",
+      "title": "Histoires de Sylvara"
     },
     {
       "name": "Thalmaris",
@@ -5291,12 +5180,27 @@
   ],
   "Lore/Histoires/Nysaria": [
     {
+      "name": "Lunasar",
+      "file": "Lunasar.md",
+      "title": "Histoires de Lunasar"
+    },
+    {
+      "name": "Mirathi",
+      "file": "Mirathi.md",
+      "title": "Histoires de Mirathi"
+    },
+    {
       "name": "Nysaria",
       "file": "Nysaria.md",
       "title": "Histoires de Nysaria"
     }
   ],
   "Lore/Histoires/Onara": [
+    {
+      "name": "Elarath",
+      "file": "Elarath.md",
+      "title": "Histoires d'Elarath"
+    },
     {
       "name": "Mosrack",
       "file": "Mosrack.md",
@@ -5315,6 +5219,11 @@
   ],
   "Lore/Histoires/Ulinor": [
     {
+      "name": "Dhalvoria",
+      "file": "Dhalvoria.md",
+      "title": "Histoires de Dhalvoria"
+    },
+    {
       "name": "Skaldoria",
       "file": "Skaldoria.md",
       "title": "Histoires de Skaldoria"
@@ -5329,7 +5238,7 @@
     {
       "name": "Alkaran - Continent",
       "file": "Alkaran - Continent.md",
-      "title": "Alkaran — Le Continent des Forges et des Esprits"
+      "title": "Alkaran — Le Royaume des Anciens Esprits"
     },
     {
       "name": "Altram",
@@ -5339,7 +5248,7 @@
     {
       "name": "Ferrath",
       "file": "Ferrath.md",
-      "title": "Ferrath"
+      "title": "Ferrath — La République des Profondeurs"
     },
     {
       "name": "Iskara",
@@ -5356,7 +5265,7 @@
     {
       "name": "Azoral",
       "file": "Azoral.md",
-      "title": "Azoral"
+      "title": "Azoral — La Thalassocratie Brise-glace"
     },
     {
       "name": "Azoria - Continent",
@@ -5371,7 +5280,7 @@
     {
       "name": "Kethvar",
       "file": "Kethvar.md",
-      "title": "Kethvar"
+      "title": "Kethvar — La Confédération des Guildes Givrées"
     },
     {
       "name": "No Man's Land Azoria",
@@ -5381,7 +5290,7 @@
     {
       "name": "Solmaris",
       "file": "Solmaris.md",
-      "title": "Solmaris"
+      "title": "Solmaris — L'Archipel du Soleil Court"
     }
   ],
   "Lore/Pays/Baelor": [
@@ -5393,24 +5302,24 @@
     {
       "name": "Baelor",
       "file": "Baelor.md",
-      "title": "Baelor — La Défense du Monastère de Kethros"
+      "title": "Baelor — La Nation du Silence"
     }
   ],
   "Lore/Pays/Celethor": [
     {
       "name": "Astravia",
       "file": "Astravia.md",
-      "title": "Astravia — La Chute de l'Île Céleste"
+      "title": "Astravia — La Cité des Tables"
     },
     {
       "name": "Celethor - Continent",
       "file": "Celethor - Continent.md",
-      "title": "Celethor — Le Continent des Extrêmes"
+      "title": "Celethor — Le Continent des Lectures"
     },
     {
       "name": "Elarian",
       "file": "Elarian.md",
-      "title": "Elarian — La Grande Alliance Glaciale"
+      "title": "Elarian — La Confédération des Tablettes"
     },
     {
       "name": "No Man's Land Celethor",
@@ -5420,14 +5329,14 @@
     {
       "name": "Ryldor",
       "file": "Ryldor.md",
-      "title": "Ryldor — La Guérison du Fléau"
+      "title": "Ryldor — La Vallée Surveillée"
     }
   ],
   "Lore/Pays/Cendara": [
     {
       "name": "Arkhen",
       "file": "Arkhen.md",
-      "title": "Arkhen"
+      "title": "Arkhen — La Confédération de la Cendre Froide"
     },
     {
       "name": "Cendara - Continent",
@@ -5437,12 +5346,12 @@
     {
       "name": "Cendara",
       "file": "Cendara.md",
-      "title": "CendaraPays — L'Île de Feu et de Cendres"
+      "title": "Cendara — L'Île de Feu et de Cendres"
     },
     {
       "name": "Pyrevane",
       "file": "Pyrevane.md",
-      "title": "Pyrevane"
+      "title": "Pyrevane — La Théocratie des Sept Feux"
     }
   ],
   "Lore/Pays/Cestra": [
@@ -5471,7 +5380,7 @@
     {
       "name": "Endora - Continent",
       "file": "Endora - Continent.md",
-      "title": "Endora — Le Continent des Traditions Vivantes"
+      "title": "Endora — Le Continent des Voix Tenues"
     },
     {
       "name": "Haldria",
@@ -5488,7 +5397,7 @@
     {
       "name": "Evertia - Continent",
       "file": "Evertia - Continent.md",
-      "title": "Evertia — L'Île Primordiale"
+      "title": "Evertia — L'Île aux Lectures"
     },
     {
       "name": "Evertia",
@@ -5498,7 +5407,7 @@
     {
       "name": "Sylvara",
       "file": "Sylvara.md",
-      "title": "Sylvara"
+      "title": "Sylvara — La Forêt qui Tient"
     },
     {
       "name": "Thalmaris",
@@ -5510,7 +5419,7 @@
     {
       "name": "Galenor - Continent",
       "file": "Galenor - Continent.md",
-      "title": "Galenor — Le Continent des Mille Visages"
+      "title": "Galenor — Le Jardin des Titans"
     },
     {
       "name": "Kharazir",
@@ -5599,29 +5508,29 @@
     {
       "name": "Lunasar",
       "file": "Lunasar.md",
-      "title": "Lunasar"
+      "title": "Lunasar — La Monarchie Lunaire"
     },
     {
       "name": "Mirathi",
       "file": "Mirathi.md",
-      "title": "Mirathi"
+      "title": "Mirathi — Le Sanctuaire des Oracles"
     },
     {
       "name": "Nysaria - Continent",
       "file": "Nysaria - Continent.md",
-      "title": "Nysaria — L'Île Inconnue"
+      "title": "Nysaria — Le Continent des Voiles"
     },
     {
       "name": "Nysaria",
       "file": "Nysaria.md",
-      "title": "Nysaria — L'Invasion Avortée"
+      "title": "Nysaria — L'Île aux Masques"
     }
   ],
   "Lore/Pays/Onara": [
     {
       "name": "Elarath",
       "file": "Elarath.md",
-      "title": "Elarath"
+      "title": "Elarath — La Cité-État qui a Choisi de Rester Petite"
     },
     {
       "name": "Mosrack",
@@ -5648,7 +5557,7 @@
     {
       "name": "Dhalvoria",
       "file": "Dhalvoria.md",
-      "title": "Dhalvoria"
+      "title": "Dhalvoria — Les Vallées en Attente"
     },
     {
       "name": "Skaldoria",
@@ -5745,11 +5654,35 @@
       "title": "🤫 Taciti — Les Silencieux"
     }
   ],
+  "Lore/_Analyse": [
+    {
+      "name": "Audit Patterns Existants",
+      "file": "Audit Patterns Existants.md",
+      "title": "Audit Patterns Existants — Lore Hybélior"
+    },
+    {
+      "name": "CHANTIER - Veines Philosophiques",
+      "file": "CHANTIER - Veines Philosophiques.md",
+      "title": "🌿 CHANTIER — Veines Philosophiques d'Hybélior"
+    },
+    {
+      "name": "Veines philosophiques - Référence",
+      "file": "Veines philosophiques - Référence.md",
+      "title": "🌿 Veines Philosophiques d'Hybélior — Référence d'écriture"
+    }
+  ],
   "Lore/_Analyse/Archives": [
     {
       "name": "Rapport Revision Chronologie 2026-04",
       "file": "Rapport Revision Chronologie 2026-04.md",
       "title": "RAPPORT DE REVISION CHRONOLOGIQUE — SYNTHESE COMPLETE"
+    }
+  ],
+  "Lore/_Audio/Chroniques": [
+    {
+      "name": "Chapitre 01 - Les Murs Jaunes",
+      "file": "Chapitre 01 - Les Murs Jaunes.md",
+      "title": "Chapitre 01 - Les Murs Jaunes"
     }
   ]
 }

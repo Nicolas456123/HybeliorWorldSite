@@ -2,7 +2,7 @@
 tags: [lore, chronique]
 type: lore
 status: drafted
-last_review: 2026-05-02
+last_review: 2026-05-06
 needs_review_for: []
 ---
 # Chapitre 19 — Le Feu des Dragons
@@ -281,6 +281,8 @@ Je lui montrai ce que j'avais dessiné — pas les images, que je ne savais pas 
 Foryen lut lentement. Puis il leva les yeux sur moi avec une expression qui était la première vraiment non utilitaire que j'avais vue chez un Drakorien depuis mon arrivée — quelque chose d'inquiet, pas pour lui-même, inquiet de façon générale.
 
 Il dit : « Ton père est venu avec les mêmes questions. Il y a vingt ans. »
+
+Je sentis quelque chose qui ressemblait à de la satisfaction et que je m'efforçai de ne pas appeler ainsi. Chaque pays que je traverse ajoute une corroboration — Lunaris confirme Ordavan, Foryen confirme Lunaris, le carnet de mon père confirme la trajectoire. La carte se complète. La carte se complète si bien qu'il faudrait une discipline considérable pour s'apercevoir que les pièces qui ne s'y emboîtent pas, je ne les rapporte plus depuis Holvendar. Je ne le note pas. Je le pense. Ce n'est pas la même chose.
 
 Cette fois, je laissai le silence s'installer.
 

@@ -1,418 +1,176 @@
-﻿---
-tags: [souffle, cycle, cosmologie, mécanique-centrale, ères, polyphonie]
+---
+tags: [souffle, cycle, cosmologie, mécanique-centrale, ères, polyphonie, narration]
 status: drafted
-last_review: 2026-05-02
-needs_review_for: [chiffres-compression-playtest]
-type: mechanic
+last_review: 2026-05-06
+needs_review_for: []
+type: mechanic-narrative
+implementation: "[[Souffle System]]"
 ---
 
-# 🌬️ Le Souffle — Le rythme cosmique d'Hybelior
+# 🌬️ Le Souffle — la respiration du monde
 
-> [!important] Concept central
 > *« Le monde respire. À intervalles que les mortels ne maîtrisent pas, le dialogue cosmique change de mouvement. Les voix Éternelles se redistribuent ; certaines deviennent éloquentes, d'autres se font silencieuses. À chaque Souffle, le grand puissant se sent un peu moins puissant, et le novice un peu moins novice. »*
 >
 > *— attribué à Maître Veyran d'Astravia, « Les Cycles du Monde »*
 
-Le **Souffle** est le mouvement émergent de la [[Univers#La Polyphonie cosmique|Polyphonie cosmique]] — le moment où la **configuration des voix Éternelles** se reconfigure et fait basculer une Ère vers la suivante. Côté gameplay, c'est l'**identité** d'Hybelior : il rééquilibre les écarts de puissance, fait avancer le monde, et rythme les communautés.
+---
 
-Sans Souffle, le monde tomberait dans le piège classique des MMO (power creep, vétérans inaccessibles, nouveaux décrochés). Avec Souffle, Hybelior reste **vivant et accessible** sans jamais effacer le mérite des anciens.
+## L'idée
+
+Tout, dans Hybelior, part d'une intuition : **un monde qui ne respire pas est un monde qui meurt**. Les MMO classiques le savent sans vouloir l'admettre — leurs joueurs vétérans deviennent des géants inaccessibles, leurs nouveaux décrochent au seuil, leur économie s'enfle jusqu'à ce qu'on la wipe d'un coup brutal qui efface, en une nuit, des années de mémoire commune. À Hybelior, on a refusé cette équation. Pas par humanisme abstrait : par **réalisme cosmologique**. Aucun monde vivant ne reste figé. Aucun ciel n'a la même couleur deux saisons de suite. Aucune mer ne se répète. Pourquoi un monde de jeu, qui se prétend vivant, devrait-il l'être ?
+
+Le **Souffle** est notre réponse. Ce n'est pas une mécanique de patch déguisée en lore. Ce n'est pas un wipe poli. C'est le **mouvement intrinsèque** d'un cosmos polyphonique — le moment où la configuration des voix Éternelles se reconfigure et fait basculer le monde vers la saison suivante. Tout ce que la mécanique fait, *fonctionnellement*, est de tenir cette promesse : **rester vivant sans effacer ceux qui l'ont peuplé**.
 
 ---
 
-## Ce qu'un Souffle résout
+## Ce qu'un Souffle dit, en une phrase
 
-| Problème classique MMO | Comment le Souffle le résout |
-|------------------------|------------------------------|
-| **Power creep** : les anciens écrasent tout | La compression cyclique le ramène en arrière |
-| **Barrière à l'entrée** : nouveau joueur abandonne | Il sait qu'il rattrapera partiellement à chaque Souffle |
-| **Stagnation end-game** : "j'ai tout fini" | Le cycle redonne du sens à pratiquer |
-| **Wipe brutal** détruit les acquis | Les acquis (titres, savoir, cosmétiques) restent — seule la puissance se rééquilibre |
-| **Lore détaché du gameplay** | C'est une mécanique **intrinsèque au monde**, pas un patch éditeur |
+> *« Tu n'es pas grand parce que tu es ancien dans le monde. Tu es grand parce que tu t'accordes au monde tel qu'il **est**. Et le monde respire. »*
+
+Cette promesse contient toute la philosophie d'Hybelior. Elle dit au vétéran : *ton ancienneté est une dignité, pas une dette qu'on impose aux nouveaux.* Elle dit au nouveau : *tu n'es pas en retard ; tu apprends une saison comme les autres ont appris la leur.* Elle dit à tous : *le monde n'est jamais "fini". Il continue, et tu continues avec lui.*
 
 ---
 
-## Trois magnitudes de Souffle
+## Pourquoi le monde respire
 
-> Hybelior connaît trois échelles de Souffle, qui s'imbriquent :
+La question n'est pas *« pourquoi avons-nous mis un cycle ? »* — c'est *« pourquoi tant de mondes en sont privés ? »*. Un monde sans Souffle accumule, et tout ce qui accumule finit par étouffer : les écarts entre joueurs, les inflations économiques, les hiérarchies sociales figées, les zones désertées parce que les nouveaux n'osent plus y aller. La seule issue, pour ces mondes, c'est le cataclysme — le wipe — qui ressuscite la vie en l'amputant.
 
-```
-┌─────────────────────────────────────────────────────────┐
-│ PETIT SOUFFLE          ─ 3 à 9 mois (gameplay)          │
-│ Cycle d'ère thématique                                  │
-│ Compression légère des stats, rouille temporaire        │
-│ Plusieurs par Partie                                    │
-└─────────────────────────────────────────────────────────┘
-┌─────────────────────────────────────────────────────────┐
-│ GRAND SOUFFLE          ─ 1 à 2 ans (gameplay)           │
-│ Fin de Partie                                           │
-│ Bouleversement majeur, redistribution totale            │
-│ Reset complet (excepté héritage cosmétique)             │
-└─────────────────────────────────────────────────────────┘
-┌─────────────────────────────────────────────────────────┐
-│ SOUFFLE CARDINAL       ─ Échelle des âges (lore)        │
-│ Reconfiguration profonde de la Polyphonie               │
-│ Rare, mémorable, parfois nommé par les chroniqueurs     │
-│ Modification durable d'Hybelior                         │
-└─────────────────────────────────────────────────────────┘
-```
+Hybelior part de l'idée inverse : **si le cataclysme est inévitable, faisons-le rituel, fréquent, attendu**. Le Souffle est un cataclysme apprivoisé. Il ne détruit rien de ce qui a un sens — il rééquilibre seulement ce qui en a perdu. Tes titres restent. Tes œuvres signées circulent. Tes monuments tiennent debout. Tes savoirs, tes recettes, tes amis, ta carte explorée — tout ce qui *raconte ton passage* — est sacré. Mais ta capacité brute à dominer la prochaine saison, elle, doit se conquérir à nouveau.
 
-> [!note] Les magnitudes vues du joueur
-> - Le **Petit Souffle** est l'événement régulier — celui qui structure la vie du joueur
-> - Le **Grand Souffle** est une transition majeure entre groupes d'Ères thématiques (compression renforcée, mais **pas de fin de Partie**)
-> - Le **Cardinal** est l'événement historique mythique — bouleversement civilisationnel rarissime
+Cette distinction est la **colonne vertébrale** d'Hybelior. *Ce qui est mémoire reste. Ce qui est puissance se rejoue.*
 
 ---
 
-## Le Petit Souffle — détaillé
+## Trois échelles de respiration
 
-### Mécanique de compression
+Un monde qui respire le fait à plusieurs cadences imbriquées — comme un corps a son souffle, son rythme cardiaque, son cycle de sommeil. Hybelior connaît trois échelles.
 
-À chaque Petit Souffle, les **stats brutes** des joueurs sont partiellement compressées au-dessus d'un seuil. C'est ce qui resserre les écarts.
+### Le Petit Souffle — la saison
 
-> [!important] Formule retenue : **compression linéaire au-dessus d'un seuil**
+C'est le souffle le plus fréquent, celui qui structure réellement la vie d'un joueur. Il marque la fin d'une **Ère thématique** — un moment où les voix dominantes des Éternels et des Cosmiques s'estompent au profit d'autres. Ce qui change, alors, n'est pas seulement un décor : c'est une **manière d'être au monde**. Les pratiques qui résonnaient cessent de résonner ; d'autres, qu'on ignorait, se mettent à faire écho. Pendant quelques jours après le passage, on a la sensation d'une étrangeté familière — comme si l'on rentrait chez soi pour découvrir que les meubles ont été déplacés, juste assez pour qu'on les redécouvre.
 
-```
-Seuil = 50 (niveau "humain accompli")
+### Le Grand Souffle — la fin d'un cycle thématique
 
-Pour chaque stat brute :
-  Si valeur ≤ 50 → inchangée
-  Si valeur > 50 → on ramène 30% de l'excès vers 50
+À une cadence plus longue, plusieurs Petits Souffles forment ensemble un **mouvement** — un groupe d'Ères qui partageaient une parenté tonale. Le Grand Souffle est la transition entre deux mouvements. Sa différence avec le Petit n'est pas mécanique mais **expressive** : c'est un basculement plus marqué, un événement narratif que les chroniqueurs d'Hybelior datent et nomment, un moment où la respiration du monde change non pas de note mais de phrase. Les vétérans les plus anciens disent qu'ils ne se rappellent plus exactement *combien* d'Ères ils ont traversées, mais qu'ils se rappellent toujours **où ils étaient** au moment d'un Grand Souffle.
 
-Exemples :
-  Stat 100 → 50 + (50 × 0.7) = 85
-  Stat 80  → 50 + (30 × 0.7) = 71
-  Stat 60  → 50 + (10 × 0.7) = 57
-  Stat 50  → 50 (inchangée)
-  Stat 30  → 30 (inchangée)
-```
+### Le Souffle Cardinal — l'événement des âges
 
-### Ce qui est touché vs préservé
+Et puis il y a les Cardinaux. Ceux dont parlent les vieux moines, les chamanes des continents glacés, les inscriptions presque illisibles sur les ruines mortes. Un **Souffle Cardinal** n'est pas une transition d'Ère ; c'est une **reconfiguration de la Polyphonie elle-même**. Les voix se taisent ou s'éveillent. Des continents changent de visage. Des entités cosmiques s'éclipsent ou émergent. Les théologiens d'Hybelior ne s'accordent pas sur leur cause — les uns y voient une décision des Éternels, d'autres une amplitude rare mais possible du chant cosmique, d'autres encore le signe d'une **lutte interne** dans le tissu du monde. Aucune lecture ne s'est imposée comme canon. Et c'est bien ainsi : un monde où l'événement le plus rare est expliqué par tout le monde de la même manière n'est plus un monde. C'est un manuel.
 
-| Élément | Touché par le Souffle ? | Détail |
-|---------|------------------------|--------|
-| **Stats brutes** ([[Personnage]]) | ✅ **Compression** | Tout point au-dessus de 50 partiellement ramené |
-| **Maîtrises** ([[Armes et Maîtrise]]) | ⚠️ **Rouille temporaire** | Paliers intacts. 1ère semaine post-Souffle : performance −15%, dissipée par usage |
-| **Items équipés** | ⚠️ **Légère perte temporaire** | Hauts tiers (Magistral, Légendaire) perdent ~10% stats pendant 2 semaines |
-| **L'Accord** ([[L'Accord]]) | 🔄 **Dérive avec inertie** | Pas de reset brutal — l'Accord glisse progressivement (~2-4 sem) vers une nouvelle valeur cible calculée sur la similarité Ère(N) ↔ Ère(N+1). Si Ères proches : Accord largement préservé. Si très différentes : redescente progressive. Voir [[L'Accord]] §Transition d'Ère. |
-| **Niveau de contenu** (zones, ennemis) | ❌ Non | Le monde reste à son niveau |
-| **Cosmétiques, titres, Renom** | ❌ Non | Héritage immatériel sacré |
-| **Recettes connues** | ❌ Non | Le savoir reste |
-| **Éclats, items en banque, montures** | ❌ Non | Aucune perte de richesse |
-| **Karma, factions, guilde** | ❌ Non | La société reste cohérente |
-| **Lore découvert, conditions cachées trouvées** | ❌ Non | Découvertes acquises |
-
-> [!tip] Lecture
-> **Le Souffle compresse les écarts, jamais les acquis.** Tout ce qui est *connaissance, identité, achievement* est sacré. Seul ce qui est *capacité brute en cours* fluctue.
-
----
-
-## Cadence — variable et imprévisible
-
-> [!warning] Pas de date prévisible
-> Aucun calendrier ne fixe les Souffles. Ils surviennent selon des **rythmes cosmiques** que le monde tente de prédire (voir [[Prédiction]]).
-
-| Élément | Valeur |
-|---------|--------|
-| **Durée typique d'une ère** | 3 à 6 mois (parfois jusqu'à 9) |
-| **Durée minimum** | 6 semaines (sécurité système) |
-| **Durée maximum** | 9 mois |
-| **Tolérance de glissement** | ±20% selon l'état du monde et les actions des joueurs |
-
-### Facteurs qui modulent la durée
-
-> [!important] Le monde réagit aux joueurs
-> La durée d'une ère est **émergente**, pas scriptée :
-
-- Si un boss mondial lié à l'ère est vaincu → l'ère s'accélère vers sa fin
-- Si une condition cachée 🔒 est remplie → un Souffle anticipé peut se déclencher
-- Si l'ère est calme (peu d'événements joués) → elle s'étire
-- Les **rituels coordonnés** des grandes religions ou des Concordants accumulés peuvent peser à la marge sur la transition
-- Les **Cardinaux passés** continuent d'influencer la tonalité des ères suivantes
-
-→ **Ce ne sont pas les designers qui décident à la seconde près** — c'est le monde qui réagit. Cela renforce la sensation d'**intrinsèque cosmique**.
-
----
-
-## Phases d'un Petit Souffle
-
-```
-[ÈRE EN COURS — phase stable]
-   ↓
-[Signes faibles apparaissent — environ 30-50% de la durée écoulée]
-   - PNJ font des rêves étranges
-   - Créatures changent de comportement subtilement
-   - Constellations se troublent (l'Astronome remarque)
-   - Animaux migrent à contre-saison (le Chasseur remarque)
-   ↓
-[Signes forts apparaissent — 1 à 2 semaines avant le Souffle]
-   - Événement mondial annonciateur (parfois unique à chaque ère)
-   - Phénomènes visibles dans le ciel
-   - Oracles prédisent un changement imminent
-   - Bourse des Augures s'agite
-   ↓
-[LE SOUFFLE]
-   - Événement mondial visuel et global
-   - Tous les joueurs voient le ciel se "fendre" pendant quelques minutes
-   - Effet visuel cosmique sur tous les clients
-   - Compression des stats appliquée
-   - Variants visuels nouveaux activés
-   - Nouvelle ère démarre
-   ↓
-[NOUVELLE ÈRE]
-   - Atmosphère du monde change (ciel, lumière, brume…)
-   - Variants de créatures actifs
-   - Ressources / matériaux d'ère débloqués
-   - Quêtes ère-thématiques générées
-   - Bourse des Augures verse les gains
-```
-
-> [!tip] Effet de seuil
-> Le moment du Souffle est un **événement social** — beaucoup de joueurs se connectent pour le vivre ensemble. Les guildes organisent des veillées. Les revenants reviennent.
-
----
-
-## Le Grand Souffle — transition d'Ères majeure
-
-> [!important] Pas un reset, pas un wipe
-> Comme tous les Souffles, le Grand Souffle **compresse** (au-dessus du seuil 50) — il ne réinitialise rien. La **Partie du joueur ne s'arrête pas** (voir [[La Partie]]). Ce qui distingue le Grand Souffle du Petit, c'est l'**ampleur** du basculement narratif et cosmique.
-
-### Spécificités
-
-Le Grand Souffle survient à la transition entre **groupes d'Ères thématiques** (typiquement tous les 1-2 ans gameplay). Il provoque un bouleversement plus marqué que les Petits Souffles inter-Ères, mais reste dans la mécanique générale du Souffle.
-
-| Élément | Effet du Grand Souffle |
-|---------|------------------------|
-| **Stats brutes** | Compression renforcée (formule canonique au-dessus de 50, mais ramène 50% de l'excès au lieu de 30%) |
-| **Maîtrises** | Conservées intégralement ; rouille post-Souffle plus longue (2 semaines au lieu de 1) |
-| **L'Accord** | Dérive renforcée — la similarité Ère(N) ↔ Ère(N+1) est typiquement plus faible au Grand Souffle, donc descente plus marquée mais toujours progressive (3-5 sem au lieu de 2-4). Voir [[L'Accord]] §Transition d'Ère. |
-| **Items, Éclats, montures** | ✅ Conservés (perte temporaire ~15% sur 3 sem pour items haut tier, vs 10% sur 2 sem pour Petit Souffle) |
-| **Cosmétiques, titres, *"Concordant des X Ères"*** | ✅ Conservés à vie (Héritage permanent) |
-| **Renom historique, œuvres signées, monuments** | ✅ Inscrits dans les chroniques, visibles à travers les Ères suivantes |
-| **Carte explorée, lore découvert, recettes connues** | ✅ Conservés |
-| **Ambiance & ère active** | Bascule majeure — nouveau cycle pluri-Ères thématique |
-
-> Voir [[La Partie]] pour le cycle continu du joueur, et [[Les Ères]] pour le détail des cycles thématiques.
-
-### Ce que le Grand Souffle révèle
-
-- Une grande révélation de lore marque la transition entre cycles pluri-Ères
-- Des **traces permanentes** plus visibles s'inscrivent dans la géographie ([[Traces des Ères]])
-- Un arc narratif transverse atteint son apex
-- Les **Joueurs marquants** de cette période laissent des **monuments permanents** dans le monde
-
----
-
-## Le Souffle Cardinal — l'échelle des âges
-
-### Caractère exceptionnel
-
-Un **Souffle Cardinal** est une reconfiguration profonde de la Polyphonie cosmique. Il survient à l'échelle des **siècles**. C'est un événement historique que les chroniqueurs nomment, datent, transmettent.
-
-Les chroniques d'Hybelior mentionnent plusieurs Cardinaux dans la mémoire longue. Les plus récents ont laissé des **observations durables** que les théologiens, érudits et religions interprètent diversement :
-
-- Des **Failles Temporelles** où passé et présent se chevauchent (voir [[Traces des Ères]])
-- Des **Cratères du Cardinal** et des **Brèches du Néant** dans plusieurs continents
-- Des **modifications observables** dans la présence ou l'éloquence de certaines voix Éternelles
-- L'apparition de mouvements philosophiques marginaux qui en tirent leurs propres conclusions
-
-> [!info] Sur les causes
-> Les religions traditionnelles parlent d'un **rééquilibrage** initié par les Éternels eux-mêmes. Les érudits évoquent une **amplitude exceptionnelle** rare mais possible dans la Polyphonie. Les Déliés y voient l'expression d'une **lutte interne** entre entités. Aucune lecture ne s'est imposée comme canon.
-
-### Conditions d'apparition
-
-> [!warning] Très rare — peut-être jamais pendant le cycle de jeu
-> Un Cardinal pourrait survenir au cours d'une Partie **uniquement si** :
-> - L'arc narratif global converge vers ce climax
-> - Plusieurs conditions cachées 🔒 inter-Parties sont accomplies
-> - L'équipe de design le décide narrativement
+> *« On ne demande pas à un Cardinal pourquoi il est venu. On lui demande seulement de se rappeler ce qu'il a effacé, et ce qu'il a laissé debout. »*
 >
-> En pratique : ce sera un **événement annoncé à très grande échelle**, qui transformera durablement le monde présent.
-
-### Ce qu'il pourrait modifier durablement
-
-- Reconfiguration profonde du calendrier ([[Histoire d'Hybelior]])
-- Évolution observable des présences cosmiques
-- Modification ponctuelle de la géographie (très rare, équipe planifiée)
-- Émergence d'un nouvel équilibre des Voies de magie ([[Le Lien]])
-- Le "monde présent" se transforme — les Parties suivantes héritent du nouveau canon
+> *— inscription au sanctuaire de Caelorhin, Cestra*
 
 ---
 
-## Les Ères — ce que chaque Souffle inaugure
+## Ce que le Souffle préserve, ce qu'il rend
 
-> Un Souffle ne fait pas que rééquilibrer. **Il colore le monde** pour la durée de l'ère qui suit.
+À chaque passage, le Souffle pose deux gestes simultanés. Il **préserve** tout ce qui est mémoire et identité ; il **rend** ce qui est puissance brute. Cette distinction est, en soi, une déclaration philosophique.
 
-Une **Ère** est une saison cosmique thématique. Définie par :
+Tes **acquis matériels** — les éclats accumulés, les montures, les items en banque — ne disparaissent jamais. Tes **savoirs** — les recettes apprises, les conditions cachées trouvées, les fragments de lore exhumés — restent inscrits. Tes **titres et héritages** — Concordant, Maître d'une discipline, Voyageur des Souffles — sont gravés à vie. Ta **place sociale** — guilde, factions, karma, réseau — survit au Souffle, parce que le tissu humain ne se déchire pas avec les voix cosmiques. Tes **œuvres signées** — l'épée que tu as forgée et qui circule entre les mains des autres, le monument érigé après une victoire mémorable — gardent ton nom inscrit jusqu'à ce qu'elles tombent par leur propre histoire.
 
-1. **Force dominante** — une entité majeure (parmi les 5 Éternels et 12 Cosmiques, parfois un Céleste majeur)
-2. **Force secondaire** — une autre entité, souvent en tension ou complément
-3. **État du monde** — Floraison / Dégénérescence / Stagnation / Bouleversement
-4. **Mood social** — Sérénité / Méfiance / Ferveur / Effroi / Curiosité
-5. **Tension cosmique** — Faible / Moyenne / Haute / Critique
-6. **Continent emphase** — 1-2 des 13 continents focalisés
+Mais ta **capacité brute à dominer la saison qui s'ouvre**, elle, est partiellement remise en jeu. Pendant quelques jours, tes outils familiers te sembleront étrangers — non parce qu'ils ont changé, mais parce que **toi**, désormais, vis dans un monde qui les valorise différemment. Tes Maîtrises subiront une **rouille** brève, une friction d'adaptation qui se dissipe par l'usage — comme si la main, après un long voyage, devait redécouvrir le poids exact de sa lame. Tes objets de plus haut tier perdront temporairement un peu de leur éclat, le temps que leurs vertus retrouvent leur place dans la nouvelle composition cosmique.
 
-Voir [[Les Ères]] pour le détail des archétypes et de leurs effets.
+Et ton **Accord** — ta résonance avec le monde présent — ne s'effondre pas, mais il **dérive**. Selon que la nouvelle Ère ressemble à l'ancienne ou s'en éloigne, tu sens, sur quelques jours ou quelques semaines, que tes pratiques résonnent encore, ou qu'elles font écho dans le vide. Rien n'est instantané. Le monde te laisse le temps de comprendre ce qui a changé.
+
+> Pour les chiffres exacts (taux de compression, durée de la rouille, cinétique de dérive de l'Accord), voir [[Souffle System]].
 
 ---
 
-## Interprétations religieuses
+## Vivre un Souffle
 
-> [!note] Le même phénomène vu différemment
-> Les 9 religions d'Hybelior interprètent le Souffle de manière distincte. Aucune n'a la vérité absolue ; chacune éclaire un aspect.
+Le Souffle n'est pas un événement isolé : c'est une **expérience qui se déploie en plusieurs temps**, et la communauté d'Hybelior a appris à les nommer.
 
-| Religion | Interprétation du Souffle |
-|----------|---------------------------|
-| **Ordo Caelum** (Celestia) | Régulation cosmique — Celestia maintient l'équilibre depuis sa retraite |
-| **Vael'Kurash** (mort, ancêtres) | Test — chaque Souffle évalue les vivants pour les ancêtres |
-| **Ignis Aeternum** (feu, lumière) | Combat éternel entre lumière et obscurité — chaque Souffle un round |
-| **Noctari** (ombre) | Souffle = respiration de Noctis qui grandit ; chaque Souffle le rapproche du sommet |
-| **Rota Mundi** (cycles, Spiritus + Terranu) | Roue du monde — tout est cycle, rien n'est neuf |
-| **Via Ventus** (vent, Aerion) | Souffle = expiration cosmique, vent du monde |
-| **Lex Petra** (pierre, immuabilité) | Hérésie — la "vraie" Lex Petra rejette le Souffle ; sectes dissidentes l'acceptent |
-| **Somnium Vigil** (rêves, Somnix) | Souffle = changement de rêve — Hybelior rêvée différemment |
-| **Foedus Animae** (âmes, serments) | Souffle = renouvellement des serments cosmiques entre les entités |
+D'abord, il y a la **phase stable** — la routine de l'Ère en cours, ses rituels, ses combats, ses projets. C'est la majeure partie d'une Ère. Le monde paraît acquis, les pratiques évidentes, les ennemis prévisibles. Puis, au bout d'un temps qu'aucun calendrier ne fixe, viennent les **signes faibles**. Ce ne sont d'abord que des bizarreries : un PNJ qui rapporte un rêve étrange, un chasseur qui remarque une migration à contre-saison, un astronome qui croit voir une constellation trembler. Rien d'alarmant, rien de spectaculaire. Mais ceux qui savent lire ces signes — et c'est tout un art, voir [[Prédiction]] — commencent à se préparer.
 
-→ Le joueur peut **choisir** son interprétation (selon sa religion ou ses préférences). Cela colore son expérience narrative.
+Ensuite, plus tard, viennent les **signes forts**. Là, plus de doute possible : un événement mondial annonciateur traverse le ciel, les oracles parlent ouvertement, la Bourse des Augures s'agite, les guildes organisent des veillées. C'est une période de **suspension** — tout ralentit en attendant ce qui doit arriver.
+
+Puis vient **le Souffle lui-même**. Pendant quelques minutes, partout dans le monde, tous les joueurs voient le ciel se fendre. C'est un événement visuel global, vécu collectivement. Ceux qui ne sont pas connectés ce soir-là le regretteront. Ceux qui le sont s'en rappelleront longtemps. Au moment précis du Souffle, les voix se redistribuent ; ce qui se passe, *à l'intérieur* de la cosmologie d'Hybelior, est ce qu'aucune description mortelle ne sait dire vraiment.
+
+Enfin, il y a **la nouvelle Ère**. Le ciel a changé. La lumière n'est plus la même. Certains animaux ont disparu, d'autres sont apparus. De nouvelles ressources affleurent, de nouvelles quêtes naissent. Et pendant les premiers jours, chaque joueur vit cette friction familière : *« mes outils me semblent étranges, parce que le monde a changé »*. Cette friction n'est pas un défaut — c'est une **promesse tenue**. Si la nouvelle Ère ressemblait à l'ancienne, elle ne serait pas une nouvelle Ère.
+
+> *« On reconnaît un vieux à ce qu'il sait déjà s'asseoir et attendre les signes. On reconnaît un jeune à ce qu'il s'agite la veille du Souffle. »*
+>
+> *— proverbe de Mosrack, Onara*
 
 ---
 
-## La rouille post-Souffle (Maîtrises)
+## Une réactivité au monde
 
-> [!important] Friction d'adaptation
-> Pendant la **première semaine** après un Souffle, les Maîtrises subissent une **rouille temporaire** : performance réduite de 15%, qui s'estompe par usage.
+Une Ère n'a pas de date d'expiration scriptée. C'est l'un des partis pris les plus radicaux d'Hybelior. La durée d'une Ère est **émergente** : elle dépend de ce que le monde fait, de ce que les joueurs y font, de ce qui s'y accomplit ou s'y attarde.
 
-| Activité de premier usage | Effet de la rouille |
-|--------------------------|---------------------|
-| Premier combat avec une arme maîtrisée | Dégâts −15%, vitesse −10% |
-| Premier craft avec un métier maîtrisé | Qualité réduite, plus de chances d'échec mineur |
-| Première utilisation de Voie (magie) | Coût Mana +20%, durée d'incantation +15% |
+Si un boss mondial lié à la dominante de l'Ère est vaincu, l'Ère s'accélère vers sa fin — comme si le monde, ayant épuisé un de ses dialogues centraux, n'avait plus rien à dire dans cette tonalité. Si une condition cachée est remplie quelque part — souvent par un joueur ou un groupe minutieux — un Souffle peut être **anticipé**. Si l'Ère est calme, peu jouée, peu marquée par des événements collectifs, elle s'étire, le monde traînant comme une conversation qui peine à conclure. Les rituels coordonnés des grandes religions, les actions massives des Concordants, les Cardinaux passés qui continuent d'influencer le présent — tout cela pèse, à la marge, sur le moment où l'Ère cèdera.
 
-> [!tip] Effet narratif
-> La rouille reflète le sentiment vrai : *"Le monde a changé, mes outils familiers semblent étrangers pour quelques jours."* Cela force les joueurs à se **réacclimater**, ce qui rend la première semaine d'une nouvelle ère intense et mémorable.
-
-Dissipation : la rouille s'estompe **automatiquement par usage** (entièrement effacée après ~10 utilisations significatives par maîtrise).
+Ce ne sont **pas les designers qui décident** à la seconde près. C'est le monde qui réagit. Cette inversion change tout. Elle fait du joueur, non plus un consommateur d'un calendrier, mais un **acteur d'un cosmos qui répond à sa présence**. Quand l'Ère s'achève, on peut souvent dire *« nous y avons contribué »* — et ce *nous*, à Hybelior, n'est jamais une fiction.
 
 ---
 
-## Effets sociaux d'un Souffle
+## Les voix qui en parlent
 
-| Avant le Souffle | Pendant le Souffle | Après le Souffle |
-|------------------|--------------------|--------------------|
-| Course au sommet, tension | Pause, anticipation, événement | Réajustement, nouvelle vague de progression |
-| Vétérans dominent les classements | Brève période d'incertitude | Newcomers et "joueurs revenants" relancés |
-| Économie inflationniste | Stabilisation forcée | Demande renouvelée pour items milieu de gamme |
-| Stocks d'ère accumulés | Liquidation ou stockage stratégique | Items d'ère devenue précédente : reliques précieuses |
+Le Souffle est un fait cosmique ; c'est aussi un **objet d'interprétation**. Les neuf grandes religions d'Hybelior n'en disent pas la même chose, et aucune n'a tort. Cette polyphonie d'interprétations est elle-même une dimension du monde : un Souffle vu par un fidèle de l'Ordo Caelum n'est pas le même que vécu par un Noctari. Le joueur peut choisir l'interprétation qui colore son expérience, ou n'en choisir aucune et s'en tenir à l'observation muette.
 
-> [!tip] Calendrier communautaire
-> Le Souffle devient un **moment-clé** :
-> - Les guildes organisent des veillées et des "courses au 100% Accord"
-> - Les revenants reviennent à ce moment
-> - La Bourse des Augures s'anime fortement
-> - Les artisans préparent des stocks pour la "vague post-Souffle"
+| Religion | Lecture du Souffle |
+|---|---|
+| **Ordo Caelum** | Régulation cosmique. Celestia, depuis sa retraite, maintient l'équilibre. Le Souffle est sa grâce. |
+| **Vael'Kurash** | Test des morts. À chaque Souffle, les ancêtres jugent les vivants ; ce qu'on perd, on l'a mérité. |
+| **Ignis Aeternum** | Combat éternel entre lumière et obscurité. Chaque Souffle est un round du grand affrontement. |
+| **Noctari** | Respiration de Noctis. Chaque Souffle le rapproche du sommet ; il grandit de ce que le monde lâche. |
+| **Rota Mundi** | La roue du monde. Tout est cycle, rien n'est neuf. Ce qui revient n'a jamais cessé d'être. |
+| **Via Ventus** | Expiration cosmique. Le Souffle est le vent du monde, sans cause ni but, simplement vrai. |
+| **Lex Petra** | Hérésie. La vraie Lex Petra rejette le Souffle ; les sectes dissidentes l'acceptent en cachette. |
+| **Somnium Vigil** | Changement de rêve. Hybelior est rêvée différemment chaque Ère ; le Souffle est le rêveur qui change de song. |
+| **Foedus Animae** | Renouvellement des serments cosmiques entre les entités. Les âmes mortelles s'y synchronisent. |
 
----
-
-## Implications sur les autres systèmes
-
-| Système | Comment le Souffle l'affecte |
-|---------|------------------------------|
-| **[[Personnage]]** | Compression stats brutes |
-| **[[Armes et Maîtrise]]** | Rouille temporaire 1 semaine |
-| **[[Le Lien]]** | Mana max compressé. Le Lien doit se "retisser". Voies dominantes amplifiées, opposées atténuées |
-| **[[Progression]]** | L'Accord dérive avec inertie selon similarité d'Ères (voir [[L'Accord]] §Transition d'Ère) |
-| **[[Économie]]** | Items d'ère précédente deviennent reliques, demande change |
-| **[[Guildes]]** | Sièges peuvent être bouleversés ; territoires reconfigurés |
-| **[[Cosmologie]]** | États des entités cosmiques évoluent ; Titres Célestes peuvent être contestés |
+Pour le détail théologique, voir [[Cosmologie]]. Pour ce que le Souffle fait à un fidèle dans son rapport à sa Voie, voir [[Le Lien]].
 
 ---
 
-## Effet sur les Liés (magiciens)
+## La rouille — l'étrangeté familière
 
-> [!warning] Le Lien doit se retisser
-> Les pratiquants de magie (Liés à une Voie unique — voir [[Le Lien]]) sont **particulièrement affectés** :
+La rouille post-Souffle est, mécaniquement, la friction qui rend la première semaine d'une nouvelle Ère intense. Mais ce qu'elle est *vraiment*, c'est la **traduction phénoménologique** de la promesse philosophique du Souffle. Elle dit, dans le corps même du joueur : *le monde a changé, et toi tu dois l'apprendre à nouveau.*
 
-- Mana max compressé comme les autres stats
-- Première semaine : leur Voie est **amplifiée ou diminuée** selon l'ère
-- Si la Voie est **dominante de l'ère** : +25% efficacité (semaine 1) puis +10% le reste
-- Si la Voie est **opposée à la dominante** : −20% efficacité tout au long de l'ère
-- Si la Voie est neutre : pas de modificateur
+Pendant ces premiers jours, le forgeron qui frappe son enclume sent que sa main est moins sûre. L'épéiste trouve sa lame plus lourde, ou trop légère. Le Lié qui canalise sa Voie sent qu'elle exige plus de lui pour rendre moins. Rien de catastrophique ; juste cette **étrangeté familière** qu'on connaît quand on revient chez soi après un long voyage. La rouille se dissipe par l'usage, naturellement, sans rituel particulier — il suffit de pratiquer pour qu'elle s'efface.
 
-→ Les Liés vivent les ères de manière **plus intense** que les autres joueurs. Pour eux, chaque Souffle est une renaissance ou une épreuve.
+C'est volontaire que cette friction soit brève. Une rouille qui durerait trop longtemps deviendrait une punition. Telle quelle, elle est un **rite de passage** : on franchit le Souffle, on tâtonne, on retrouve son aisance. La nouvelle Ère est entrée en soi.
 
----
-
-## Conditions cachées 🔒 liées aux Souffles
-
-> Récompenses pour ceux qui interagissent profondément avec le mécanisme :
-
-- **Prédire correctement 3 Souffles successifs** → titre "Prophète" (rare)
-- **Atteindre 100% d'Accord pendant l'ère** → titre "Concordant" + accès événement de fin d'ère
-- **Maîtriser un Souffle** (Voie de Tempora niv 5 + 3 ères vécues) → résistance partielle à la compression (−10% au lieu de −30%)
-- **Vivre 5 ères différentes** → titre "Voyageur des Souffles"
-- **Refuser un Souffle** (path mythique) → s'engager dans la voie des **Déliés** (secte philosophique antagoniste)
+> *« Le Souffle ne nous prend rien. Il nous demande seulement de nous rappeler que nos outils ne sont pas nous. »*
+>
+> *— Maître Aldric, forgeron de Mosrack, à un apprenti désorienté*
 
 ---
 
-## Production technique
+## Les Liés — une intensité particulière
 
-> Voir [[Architecture Data-Driven]] et [[Production]] pour les détails techniques.
+Pour les pratiquants de magie — les Liés à une Voie unique, voir [[Le Lien]] — le Souffle est plus qu'une transition. C'est un **événement intime**. Leur Lien à leur Voie ne disparaît pas, mais il **change de tension**. Si la Voie est dominante dans la nouvelle Ère, le Lié vit une amplification — sa magie résonne avec le monde, son pouvoir gagne une éloquence nouvelle. Si la Voie est opposée à la dominante, le Lié sent au contraire une **résistance** — sa pratique devient plus coûteuse, comme s'il chantait à contre-courant. Si la Voie est neutre par rapport à l'Ère, il continue normalement, sans euphorie ni épreuve.
 
-### Résumé du flux
-
-```
-1. Le serveur déclenche un Souffle (timing modulé par état du monde)
-2. Une nouvelle EraConfig est générée (force dominante, secondaire, etc.)
-3. Le serveur diffuse la config aux clients (~quelques KB JSON)
-4. Chaque client applique localement :
-   - Sky / lumière (UE5 presets)
-   - Variants visuels actifs (shaders, particules)
-   - Spawn tables modifiées
-   - Audio mix
-   - Foliage density
-5. Stats brutes des joueurs compressées côté serveur
-6. Maîtrises rouillent (état temporaire)
-7. L'Accord_cible recalculé via similarité Ère(N)↔Ère(N+1) ; dérive progressive amorcée
-8. Quêtes IA biaisées vers le thème de l'ère
-```
-
-### Coût production
-
-- **Mécanique du Souffle** : 1 fois codé, fonctionne pour toutes les ères
-- **Compression stats** : 1 fonction
-- **Effet visuel global du Souffle** : 1 cinématique courte (~5 sec) — créée une fois, réutilisée
-- **Variants par ère** : déjà pris en charge par le système de générateurs
-
-→ Le Souffle est **bon marché à produire** une fois l'architecture en place.
+Cette intensité particulière fait des Liés les plus sensibles aux Souffles. Là où un guerrier subit une rouille brève et passe à autre chose, un Lié vit chaque Ère comme une **renaissance ou une épreuve**. Pour eux, prédire le prochain Souffle n'est pas un sport — c'est une question de survie pratique.
 
 ---
 
-## Synthèse — Pourquoi le Souffle est le cœur d'Hybelior
+## Pour ceux qui le comprennent
 
-Le Souffle :
-- Donne du **rythme** au monde sans imposer un calendrier rigide
-- Maintient l'**équité** entre joueurs sans annuler le mérite
-- Crée un **arc narratif vivant** où le cosmos et les joueurs interagissent
-- Permet à Hybelior d'**évoluer** sans casser la cohérence
-- Donne du sens à la **prédiction**, à l'**archéologie**, à la **mémoire**
-- Ancre tout le gameplay dans la **cosmologie** déjà riche du monde
+Le Souffle récompense ceux qui s'y investissent. Il y a, pour cela, des **conditions cachées** dont la communauté ne sait pas toujours l'existence — des accomplissements rares qui marquent un joueur d'un titre, d'un trait, d'une trace dans le monde.
 
-> [!important] Promesse au joueur
-> **"Tu n'es pas grand parce que tu es ancien dans le monde. Tu es grand parce que tu t'accordes au monde tel qu'il EST. Et le monde respire."**
+Certains apprennent à **prédire** trois Souffles successifs et gagnent le titre de Prophète, qu'aucun PNJ ne distribue à la légère. D'autres atteignent l'**Accord pleinement réalisé** dans une Ère et deviennent Concordants — un statut qui les suit à travers toutes les Ères suivantes, comme une signature sociale indélébile. Quelques-uns, après avoir maîtrisé une Voie particulière et traversé plusieurs Ères, parviennent à **résister partiellement à la compression** — non pas l'annuler, mais l'atténuer, comme si la Voie elle-même protégeait son fidèle. Et puis il y a les **Voyageurs des Souffles**, ceux qui ont vécu suffisamment d'Ères pour que leur expérience devienne, en elle-même, une légende.
+
+Il existe aussi un chemin **antagoniste** : celui qui *refuse* le Souffle. C'est le chemin des [[Univers#Les Déliés|Déliés]] — les rares qui s'extraient du tissu cosmique pour gagner en puissance brute, mais au prix d'une déconnexion profonde. Ils ne respirent plus avec le monde. Et le monde, à terme, ne les respire plus.
+
+> Pour le détail des récompenses mécaniques associées à ces conditions, voir [[Souffle System]].
 
 ---
 
-## Décisions actées
+## Pourquoi le Souffle est le cœur d'Hybelior
 
-- ✅ **Compression linéaire** au-dessus du seuil 50, ramène 30% de l'excès vers 50
-- ✅ **Cadence variable** : 3-9 mois, min 6 semaines, max 9 mois, ±20%
-- ✅ **Pas de date prévisible** mais **signes** annoncent (faibles puis forts)
-- ✅ **Maîtrises rouillent** 1 semaine post-Souffle (−15%, dissipation par usage)
-- ✅ **Items haut tier** légère perte stats temporaire (10% sur 2 semaines)
-- ✅ **Interprétations multiples** selon les 9 religions
-- ✅ **Réactivité aux joueurs** : durée modulée par actions
-- ✅ **3 magnitudes** : Petit (cycle d'Ère, 3-9 mois), Grand (transition pluri-Ères, ~1-2 ans, compression renforcée), Cardinal (reconfiguration profonde, échelle des âges)
-- ✅ **Cardinaux passés** documentés dans les chroniques (voir [[Histoire d'Hybelior]])
+Si l'on devait dire ce qu'Hybelior est en une mécanique, ce serait celle-ci. Le Souffle ne se contente pas de rééquilibrer une jauge ; il **fonde la cohérence du monde**. Sans lui, la cosmologie ne serait qu'un décor, l'équité entre joueurs un slogan, la prédiction un mini-jeu, l'archéologie un loisir, la mémoire collective une accumulation. Avec lui, tout cela trouve sa place : la cosmologie devient mouvement, l'équité devient promesse tenue, la prédiction devient enjeu vital, l'archéologie devient mémoire **utile**, et la communauté apprend, de Souffle en Souffle, à se raconter elle-même.
+
+Il y a, dans cette mécanique, une humilité revendiquée. Hybelior ne promet pas un monde figé où les joueurs s'inscrivent comme des gravures sur une stèle. Il promet un monde qui **respire avec eux** — qui change parce qu'ils y vivent, et qui les change parce qu'il continue. Cette réciprocité est la chose la plus rare qu'un MMO puisse offrir. C'est aussi la plus précieuse.
+
+> *« Ne demande pas combien d'Ères tu auras vécues. Demande si, à la dernière, tu te seras encore accordé. »*
+>
+> *— Ilthani Vael, Cendara*
 
 ---
 
-*Liens : [[L'Accord]] | [[Les Ères]] | [[Architecture Data-Driven]] | [[Histoire d'Hybelior]] | [[Prédiction]] | [[Traces des Ères]] | [[Production]] | [[La Partie]] | [[Cosmologie]]*
+*Liens narratifs : [[Les Ères]] | [[L'Accord]] | [[Cosmologie]] | [[Histoire d'Hybelior]] | [[Prédiction]] | [[Traces des Ères]] | [[La Partie]] | [[Le Lien]]*
+
+*Implémentation technique (chiffres, formules, specs Unreal) : [[Souffle System]]*

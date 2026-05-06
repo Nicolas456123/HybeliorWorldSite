@@ -1,13 +1,71 @@
 ﻿---
-tags: [lore, histoire, alkaran]
-type: lore
-status: drafted
-last_review: 2026-05-02
+tags: [lore, histoire, alkaran, nation]
+type: histoires
+status: canon
+last_review: 2026-05-06
 needs_review_for: []
 ---
 # Histoires de Torkam
 
-> *Chaque ville a ses cicatrices. Voici celles qui ne guerissent jamais.*
+> *Chaque ville a ses cicatrices. Voici celles qui ne guérissent jamais.*
+
+---
+
+## Lignes structurantes (vue d'ensemble historique)
+
+**Ère pré-unificatrice (~ -500 à -1)** — *Sables Rouges*. Tribus nomades en guerre permanente pour les oasis, les pâturages et les routes caravanières. Treize tribus dans certaines récitations très anciennes ; douze dans toutes les récitations qui suivent l'Unification. La treizième tribu a été *effacée* — non détruite mais retirée de la mémoire orale. Aucune chamane vivante ne connaît son nom.
+
+**An 0 — Unification de Zarek.** Naissance dans la tribu des Murmures, méprisée. Aveugle de naissance. Traversée seule du Désert du Silence — exploit que personne n'avait jamais accompli. Retour avec la révélation du **Grand Pacte** (les esprits ancestraux des tribus comme facettes d'une même résonance). Convaincra douze tribus une par une, en guérissant et en arbitrant. Devient le premier **Grand Cham**. Le titre est si lourdement cité qu'à terme, son nom personnel d'avant-titre est perdu. *(Cet oubli est, selon l'Interdit de l'Oubli, un péché. Aucun chaman ne le formule publiquement.)*
+
+**An 0-78 — Consolidation.** Construction du lieu de rassemblement d'Olkanor (la cuvette aux mille tentes), fondation d'Olkanoris (la capitale permanente, autour de la source qui jaillit le jour de la mort de Zarek). Codification orale par les chamans des Murmures.
+
+**An 78 — Rupture de Veska Drennar.** Tisseuse de Chaînes canonique (cf. *[[Foedus Animae]]*), Maîtresse de Maison à Torkam, refuse de rendre compte d'une chaîne qui a *« poussé une chose qui voulait rester »*. Mise en repos forcé. Quitte le clergé. Vingt années d'errance dans les villages reculés d'Ulinor et d'Alkaran ; passages réguliers par Torkam, sans s'y fixer.
+
+**An 109 — Mort de Veska.** Canonisée vingt-cinq ans plus tard sous le nom de *Veska de la Patience* — version qui escamote son refus. Quelques Veilleuses des Errants à Olkanoris en gardent un souvenir privé plus exact. *(Cf. fiche Foedus Animae.)*
+
+**An 134 — Canonisation officielle de Veska.** Récupération doctrinale.
+
+**An 150-250 — Stabilité institutionnelle.** Sept Grands Chams successifs (la dernière étant Nareth la Sage, environ 220-actuel). Tensions tribales constantes mais sans guerre ouverte. Schisme rampant entre la tribu des Flammes et la Grande Chamane (accusation de favoritisme envers les Murmures). Glissement économique : transmission croissante du travail de récitation des familles pauvres aux Tisseuses extérieures, contre paiement.
+
+**An 198 — Mort de Mirhan.** Le plus ancien chaman d'Olkanoris meurt en pleine récitation. Avant sa mort, il a découvert que le nom personnel de Zarek est perdu. Sa découverte est consignée par son apprentie Seyda et reste une donnée chamanique privée. La leçon qu'il transmet — *« recite les noms, pas les histoires »* — devient un précepte de formation.
+
+**An 220-250 — Apparitions des Quarante-Sept Tentes.** Chaque année, à la même période, hors saison de Conseil, quarante-sept tentes spectrales se dressent dans la cuvette d'Olkanor. Davan, gardien d'Olkanor, et la Grande Chamane Nareth identifient en 232 le phénomène comme manifestation de la treizième tribu effacée. Le nom à prononcer pour les libérer est inconnu.
+
+**An 252 — Présent.** Tensions avec la tribu des Flammes en hausse. Aucun voyageur étranger d'envergure n'a traversé Torkam récemment ; Sorin Valthen ne s'y est pas rendu directement (il n'est passé que par Tanolies, Altram, sur la frontière nord-ouest).
+
+**Personnages historiques nommés :**
+- **Zarek l'Unificateur** — premier Grand Cham, ~-30 à 0 (fondation et règne)
+- **Yalka** — Grande Chamane, an 80, parole-emblème *« le désert est notre forteresse »*
+- **Veska Drennar** — Tisseuse, +50 à +109 (canonique Foedus Animae)
+- **Mirhan** — chaman des Murmures, ~+110 à +198
+- **Seyda** — apprentie de Mirhan, devenue chamane des archives orales après lui
+- **Nareth la Sage** — Grande Chamane actuelle, depuis ~205
+- **Davan** — gardien d'Olkanor, depuis ~225
+- **Khorel** — guerrier des Lames, *« qui ne meurt pas »*, vivant en +252 (cas spirituel reconnu par les Ossements de Valdarin)
+- **Ileth** — nécromancienne de Valdarin, gardienne du secret de l'assassinat de Zarek
+- **Selene** — navigatrice stellaire de Thyron, témoin du déplacement de Veylar
+- **Tarik** — forgeur de Valoris, *« d'entre les deux »*
+
+**Conflits structurants non résolus :**
+- Tribu des Flammes / Grande Chamane (couvant)
+- Inégalité Tisseuses / familles pauvres (jamais nommée)
+- Nom de la treizième tribu (perdu)
+- Vrai nom de Zarek (perdu)
+- Mort de Zarek (assassinat refoulé, secret de Valdarin)
+- Déplacement de Veylar (admis tacitement par addition d'une seconde étoile de référence, mais jamais explicité)
+
+**Monuments :**
+- **Olkanor — la Cuvette** : lieu fondateur, rassemblement des douze tribus. Les armes des tribus rivales sont enterrées au centre.
+- **Olkanoris — la Source** : jaillie le jour de la mort de Zarek.
+- **Myrthoris — le Cercle des Six** : menhirs antérieurs aux tribus. Septième pierre miniature détenue par Essa, fille de Daran.
+- **Kelosar — la Grotte aux Peintures** : peintures rupestres montrant Torkam d'avant le désert.
+- **Sanctuaire des Veilleurs des Errants** (Olkanoris) : coffre conservant les écorces de la Forêt des Ombres-Marchantes attribuée à Veska.
+
+**Défaites refoulées :**
+- Treizième tribu (effacement officiel)
+- Mort de Zarek (assassinat caché par Horath de Valdarin)
+- Inégalité spirituelle structurelle (familles pauvres vs riches)
+- Catastrophe pré-désertique (vue par Alya à Kelosar, jamais transmise)
 
 ---
 

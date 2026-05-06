@@ -1,13 +1,16 @@
 ﻿---
-tags: [lore, histoire, galenor]
-type: lore
-status: drafted
-last_review: 2026-05-02
+tags: [lore, histoire, galenor, valoria]
+type: histoire
+status: canon
+last_review: 2026-05-06
 needs_review_for: []
 ---
 # Histoires de Valoria
 
-> *Chaque ville a ses cicatrices. Voici celles qui ne guerissent jamais.*
+> *Chaque ville a ses cicatrices. Voici celles qui ne guérissent jamais.*
+
+> *« La pierre tient, les bâtisseurs finissent. »*
+> *— Inscription clandestine, gravée sur des éclats détachés des Marches mortes (cf. Lex Petra), apparaissant régulièrement à Valoria malgré les ordres de martelage. Anonyme.*
 
 ---
 
@@ -102,3 +105,39 @@ Certaines families remarquerent que leurs ancetres s'etaient battus pour exactem
 Le nombre de duels a Thalindor diminua de quarante pour cent dans les dix ans suivants.
 
 Les archives de Neld sont maintenant obligatoires dans toutes les ecoles de Valoria. Pas pour decourager les duels. Pour enseigner la conscience.
+
+---
+
+## Astraneth — « La Politique des Portes Ouvertes »
+
+Veldris l'Ancien, Thane d'Ethrion, a hérité de la politique des portes ouvertes que son grand-père, Hadran le Sage, avait instaurée après deux ans de captivité à Kharazir. Hadran était revenu changé. Il avait passé sa captivité à parler à des gens qu'il aurait dû tuer. Il en était revenu avec une question : *« Sommes-nous forts parce que nous sommes fermés, ou fermés parce que nous craignons d'être faibles ? »*
+
+La question, posée à un Conseil des Anciens, fut accueillie par un long silence. Puis par un Holmgang. Hadran le remporta. Il n'avait pas convaincu le Conseil — il avait simplement gagné le droit d'imposer sa réponse à Astraneth.
+
+La politique des portes ouvertes était simple : les portes sont fermées la nuit, ouvertes le jour. Aucun marchand étranger n'a besoin d'escorte armée pour entrer. Cette politique, dans le reste de Valoria, est jugée *imprudente* — voire *déshonorante*. Astraneth la maintient depuis trois générations.
+
+Veldris l'Ancien, à soixante-deux ans, est conscient que sa politique est précaire. Si une attaque surprise endommageait Astraneth, le Conseil des Thanes voudrait mettre fin à l'expérience. Veldris a, par anticipation, instauré un dispositif que ses pairs n'ont pas encore compris : *les portes restent toujours ouvertes le jour, mais chaque famille de la ville garde, à portée de main, ce qu'il faut pour les fermer en six minutes*. Six minutes, c'est le temps mesuré pour qu'une attaque de cavalerie depuis la frontière atteigne Astraneth.
+
+La politique paraît ouverte. Elle est, en pratique, *vigilante*. Veldris ne le dit pas. Les Kharaziri qui passent croient à l'ouverture pure. Les autres Thanes croient à la naïveté. Personne ne demande pourquoi les marchands d'Astraneth ont, dans leurs greniers, des barres de fer aux dimensions précises des gonds de la ville.
+
+Veldris meurt — quand il mourra — sans avoir formulé cela publiquement. Ses successeurs continueront, ou non. La politique tient pour l'instant.
+
+---
+
+## Lyntheria — « L'Avalanche qui ne Sert qu'une Fois »
+
+Le système d'avalanches contrôlées de Lyntheria, en Mytzar, est le dispositif défensif le plus sophistiqué de Valoria. Conçu par le fondateur de la forteresse il y a deux siècles, après une avalanche naturelle qui avait tué trente de ses guerriers, il consiste en plusieurs charges de pierre maintenues en équilibre instable sur les flancs de la vallée encaissée — déclenchables sur ordre du Thane, capables d'engloutir une armée entière en quelques minutes.
+
+Le dispositif est entretenu par une famille — les **Thrand** — qui se transmettent l'art depuis cinq générations. Ils sont les seuls à savoir où sont les charges, comment les vérifier, comment les déclencher. C'est une charge sacrée et stratégique.
+
+Ce que Yornis Thrand sait, et que personne d'autre ne sait, c'est que **deux des sept charges principales sont mortes**. La pierre s'est tassée naturellement, l'angle d'instabilité a disparu. Si on tirait la corde de déclenchement, rien ne tomberait. Le dispositif est, à soixante pour cent, opérationnel — pas à cent pour cent comme la doctrine l'affirme.
+
+Yornis a constaté la défaillance il y a sept ans. Il aurait pu prévenir le Thane Gronthar. Il aurait pu prévenir son propre père, encore vivant. Il n'a rien dit. Pourquoi ?
+
+Parce que admettre la défaillance, c'est lancer une opération de réhabilitation des charges — opération qui exposerait ouvertement le secret du dispositif (les marchands étrangers à Lyntheria, les voyageurs en transit, verraient les ouvriers travailler sur les pentes). Le secret partagé n'est plus un secret. Et un dispositif que les ennemis savent défaillant à soixante pour cent est plus dangereux qu'un dispositif qu'ils croient à cent pour cent.
+
+Yornis a calculé, méthodiquement : la dissuasion vaut plus que la frappe. Il a accepté, *au nom de la dissuasion*, un risque réel — si Lyntheria est effectivement attaquée, deux mille assaillants survivront à l'avalanche.
+
+Yornis n'en parle à personne. Il vieillit. Il forme son fils Aldric à un dispositif que celui-ci croira intact. La transmission préserve la fiction. La fiction préserve la dissuasion. La dissuasion préserve Lyntheria — pour combien de temps, il ne sait pas.
+
+C'est, à Mytzar, une vertu de pierre — une *Charge* sans gloire, sans aveu, sans descendance qui en saura jamais le prix.

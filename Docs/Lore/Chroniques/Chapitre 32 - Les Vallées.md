@@ -2,7 +2,7 @@
 tags: [lore, chronique]
 type: lore
 status: drafted
-last_review: 2026-05-02
+last_review: 2026-05-06
 needs_review_for: []
 ---
 # Chapitre 32 — Les Vallées Oubliées
@@ -318,7 +318,7 @@ Le nom de mon père.
 
 *Nous gardons les noms de ceux qui passent par Dhalvoria*, dit Orryn. *Quand ils partent, on les porte dans nos Pierres de Mémoire pour qu'ils ne disparaissent pas entièrement, même s'ils meurent loin.*
 
-Je tins le galet dans ma paume. Il était doux et lourd et tiède de la chaleur d'Orryn.
+Je tins le galet dans ma paume. Il était doux et lourd et tiède de la chaleur d'Orryn. Je pensai aux Anciens d'Ulinor qui avaient gravé ce qu'ils ne pouvaient plus porter — non pas une leçon, non pas une morale, le simple registre de ce qu'ils avaient vu, déposé là où la pierre conserve mieux que les hommes. Ce geste-là me parut familier sans que je susse encore pourquoi. Je notai la familiarité sans la creuser.
 
 *Est-ce qu'il est mort loin ?* demandai-je.
 

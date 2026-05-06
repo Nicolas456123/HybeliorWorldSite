@@ -1,14 +1,20 @@
 ﻿---
-tags: [lore, pays, galenor]
-type: lore
-status: drafted
-last_review: 2026-05-02
+tags: [lore, pays, galenor, kharazir]
+type: nation
+status: canon
+last_review: 2026-05-06
 needs_review_for: []
 ---
 # Pays libres de Kharazir — Le Carrefour des Peuples
 
 > *« Ici, nul dieu ne prime sur l'autre, nulle voix ne s'éteint sans être entendue. Kharazir est la preuve vivante que la liberté se forge dans la diversité. »*
 > — Inscription sur la Porte d'Azur, Rukhsar
+
+> *« On ne déplace pas une armée contre un cartographe. On envoie des hommes de bureau avec des formulaires et un air d'excuse professionnelle. »*
+> — Sorin Valthen, *Cahier I, Murs Jaunes*, an 251
+
+> *« La Charte est sacrée. Les commentaires de la Charte le sont aussi. Les commentaires des commentaires le deviennent en trois générations. »*
+> — Proverbe d'archiviste, Bibliothèques de Kharazir
 
 ---
 
@@ -47,6 +53,38 @@ La solution vint d'une femme nommée Mirael Azurin, fille d'un marchand d'Azuris
 Elle réunit les représentants de toutes les communautés dans le Grand Canyon de Rukhsar — un terrain neutre que les rivières d'or liquide traversaient de part en part, rendant le lieu sacré pour les peuples fluviaux comme pour les nomades des plateaux — et proposa la **Charte de Kharazir** : un document fondateur garantissant la liberté religieuse, l'autonomie régionale et un système fédéral où chaque communauté élit ses représentants au Conseil des Voix. La Charte fut gravée sur sept piliers de pierre — un pour chaque région — et chaque pilier fut érigé dans le fond du canyon, là où les eaux se rejoignent, au cœur de la capitale naissante.
 
 Mirael refusa tout titre, déclarant que « celui qui gouverne tous les peuples ne peut appartenir à aucun ». Elle est aujourd'hui vénérée comme la Mère de la Charte, et son anniversaire est un jour férié national.
+
+### La Dérive Lettrée (an 80 environ — encore en cours)
+
+L'histoire que Kharazir raconte d'elle-même s'arrête généralement à la Charte. Ce qui s'est passé ensuite — sur trois siècles — est moins glorieux et beaucoup moins enseigné.
+
+La Charte, dans sa première version, tenait sur sept piliers et trente-sept articles. Elle était lisible. Elle pouvait être récitée par cœur par un enfant de douze ans qui s'y appliquait. **C'est ce qui en faisait la force**.
+
+Très vite, des cas particuliers ont surgi. Que faire d'une communauté qui naît après la signature ? Comment arbitrer entre deux articles qui se contredisent en pratique ? Quel statut pour un voyageur de passage qui réside plus de six mois ? Comment traiter une prière qui blesse les fidèles d'une autre religion sans la prêcher ? Le Conseil des Voix, dans sa sagesse, **a commenté**. Puis a commenté les commentaires. Puis a institué une **Cour de l'Équité** dont les décisions ont été archivées, classées, indexées.
+
+En l'an 100, les *Trente-Sept Articles* étaient devenus *Cent Quatre-Vingts Cas*. En 150, les *Cas* étaient passés à *Onze Cents Précédents*. En 200, les Précédents formaient une bibliothèque. En 251, ils en formaient sept.
+
+Les **Bibliothèques de Kharazir**, instituées formellement en l'an 137 sous le Médiateur Suprême Daëlin Voras pour « consigner et préserver l'esprit de la Charte », sont devenues, en deux siècles, le véritable centre de gravité du pays. Elles emploient plus de personnes que l'armée. Elles forment plus de carrières que toute autre institution. Elles produisent plus de textes que de loin n'importe quelle autre instance de Galenor — y compris les Académies de Lumasar, qui en sont les premières clientes.
+
+Les Bibliothèques ne dirigent pas Kharazir. Elles **classifient** Kharazir. Et qui classifie un peuple finit par dire ce qu'il est.
+
+Le résultat est une particularité galenorienne : **Kharazir est la nation la plus libre du continent en théorie, et la plus minutieusement administrée en pratique**. Aucune autre nation ne produit autant de formulaires par habitant. Aucune autre nation n'a une bureaucratie aussi polie, aussi compétente, aussi imperturbable. Les habitants en sont fiers — c'est ainsi qu'on tient sept régions en paix. Ils ne voient pas que la paix qu'ils tiennent ressemble de plus en plus à un classement.
+
+> *« On ne déplace pas une armée contre un cartographe »* — la phrase de Sorin Valthen, exilé en 251 — résume cette dérive d'un mot. Les Bibliothèques n'ont pas besoin de violence. Elles ont des **formulaires de saisie**, des **convocations administratives**, des **réaffectations**, des **révocations**. C'est plus efficace. C'est moins discutable.
+
+### L'Affaire Valthen (an 251 — discrète, encore vive en 252)
+
+L'exil du cartographe **Sorin Valthen** des Bibliothèques de Rukhsar, en l'an 251, n'est pas un événement national. Aucun journal officiel n'en a parlé. Le Conseil des Voix n'en a pas débattu. La Médiatrice Selvina Hiliaris a, selon l'archiviste qui le suivait, signé sa révocation en marge d'un autre dossier, sans la lire.
+
+L'affaire est discrète. Elle est aussi, sans que personne à Kharazir veuille s'en saisir, **un symptôme**. Sorin avait découvert, à l'occasion de fouilles routinières sous le Quartier des Tunnels de Rukhsar, des inscriptions antérieures à la Charte — antérieures, peut-être, à la fondation même de la cité. Il avait soumis un rapport. Le rapport avait été classé. Il avait demandé à le voir reclassé sous une autre cote, plus accessible. Le rapport avait disparu.
+
+Une semaine plus tard, sa carte (œuvre de sept ans) avait été saisie pour « réévaluation ». Une semaine après, sa charge de cartographe accrédité avait été révoquée pour « manquements administratifs ». Une semaine après encore, il avait été convoqué pour signer son acte de démission volontaire — qu'il avait refusé de signer, et qui avait été enregistré comme signé en son absence.
+
+Personne, dans les Bibliothèques, n'a été insincère. **C'est ce qui rend la chose remarquable.** Chaque archiviste a appliqué la procédure correcte. Chaque formulaire a été rempli au dixième. Chaque cachet a été apposé sur le bon document. Le résultat — un homme dépouillé de ses outils, de son métier, et de la possibilité même de protester — a été obtenu sans qu'aucune Voix du Conseil ne soit informée de quoi que ce soit. La Charte a été respectée. C'est, exactement, le problème.
+
+Sorin a quitté Rukhsar le 14 du mois Vanir 251. Il est parti à pied, sans escorte, avec quatre carnets et un peu d'argent fourni par sa logeuse Mira Dasthen (rare voix qui lui ait dit, à mi-mot, que ce qui lui arrivait n'était pas juste). Son voyage — qui le mènera pendant trois ans à travers Galenor, Onara, Alkaran, Ilthara, Endora, Cestra, Baelor, Nysaria, Evertia, Ulinor — n'a aucun statut officiel. Il est, pour les registres de Kharazir, un Délié comme un autre, en transit administratif.
+
+À son retour à Rukhsar à la fin de l'an 253 ou au début de 254, il déposera un dossier au Tribunal des Plumes de Lumasar (les Bibliothèques de Kharazir ayant refusé d'enregistrer son retour) et une copie chez son ami Omarin au Bazar de Rukhsar. Le dossier ne sera jamais examiné officiellement. Il ne disparaîtra pas non plus. Il sera *classé*. C'est la forme la plus aboutie de réponse que Kharazir sait donner à ce qui la dérange.
 
 ---
 
@@ -102,6 +140,16 @@ La cuisine de Kharazir est un miroir de sa diversité : épices nomades de Nomad
 ### Architecture
 
 L'architecture de Kharazir reflète son pluralisme. Une même rue peut mêler des bâtiments en pierre taillée, des structures de bois et de toile nomade, et des tours d'influence érudite. La seule constante est la Porte d'Azur présente à l'entrée de chaque ville — un arc de pierre bleue symbolisant l'ouverture à tous.
+
+### Biais culturels
+
+Quelques traits, peu théorisés in-world, qui colorent la vie quotidienne des Kharaziri :
+
+- **La foi dans le formulaire.** Pour un Kharaziri élevé dans la tradition, ce qui n'est pas écrit n'a pas eu lieu. Une promesse orale est, en pratique, une intention. Une promesse écrite et déposée à la Bibliothèque locale est un fait. Cette inclination s'étend à des domaines où elle est démesurée : il existe à Lysara un registre des demandes en mariage retirées, à Solthir un registre des querelles de pêche réglées, à Quinthor un registre des taillages de gemmes ratés (dit *registre des éclats inutiles*, qui pèse douze volumes).
+- **Le tissu jaune des Non-Liés.** Les habitants sans communauté politiquement active reçoivent à la naissance une bande de tissu jaune, distincte du Lien tressé. La distinction *est légère*, *officielle*, *non discriminatoire*. Les Non-Liés peuvent voter, posséder, voyager. Mais ils ne peuvent pas siéger, ne peuvent pas accéder à certaines charges, ne peuvent pas plaider en leur nom devant la Cour de l'Équité (un avocat affilié à une Voix régionale doit le faire pour eux). Personne, à Kharazir, ne pense que cette distinction est un problème. Beaucoup de Non-Liés, eux-mêmes, en sont fiers — c'est leur identité d'« Errants », de mobiles. Sorin Valthen a porté le tissu jaune toute sa vie sans le voir. Il l'a vu pour la première fois le matin de son exil. Il a écrit, plus tard : *« Le tissu n'avait pas changé. Mes yeux, oui. »*
+- **L'archive comme protection.** Un Kharaziri menacé court à la Bibliothèque. Une famille en deuil dépose ses souvenirs au Cabinet de Mémoire. Un commerçant en faillite fait inventorier ses biens. Cette dépose est, en théorie, neutre — c'est un classement, pas un jugement. En pratique, *ce qui est archivé est protégé*. Et *ce qui n'est pas archivé est attaquable*. Le règne du dossier, à Kharazir, s'est imposé sans coup d'État ; il s'est imposé par utilité, ce qui est la forme la plus durable d'imposition.
+- **La méfiance des grands gestes.** À Kharazir, plus qu'ailleurs en Galenor, on se méfie des gens qui ont raison trop vite. La modération est une vertu. Le compromis est une vertu. La conciliation est une vertu. Quelqu'un qui propose de tout changer — ou de tout interroger — est, *par défaut*, suspect. Sorin Valthen, en ce sens, n'a pas été chassé pour ce qu'il avait découvert sous le Quartier des Tunnels. Il a été chassé pour avoir voulu **publier** ce qu'il avait trouvé. Personne, dans les Bibliothèques, ne lui en aurait voulu de garder l'information dans un tiroir.
+- **L'amitié interculturelle, vraie et limitée.** Les Kharaziri sont, au quotidien, parmi les peuples les plus tolérants du continent. Un musulman quenlorien, un nomade khalorin, un érudit lumasarien et un marchand solénien peuvent partager un Kharaz au Bazar de Rukhsar sans que personne ne s'étonne. Cette tolérance s'arrête, cependant, à un seuil très précis : *l'engagement collectif*. Les Kharaziri se mêlent à tous, mais épousent rarement hors de leur communauté d'origine, *adoptent rarement* les enfants d'une autre, *transmettent rarement* leur savoir-faire en dehors de leur lignée. La diversité de Kharazir est une coexistence, pas une fusion. C'est, pour ses défenseurs, sa force. C'est, pour ses critiques, ce qui finira par la pétrifier.
 
 ---
 
@@ -357,4 +405,52 @@ Total : **24 villes/villages** réparties sur **7 régions**.
 | Nythora | Ysundara | Ville |
 | Kalithar | Ysundara | Village |
 | Brynthor | Ysundara | Village |
+
+---
+
+## Cadre interne — Patterns
+
+> Encadré technique réservé aux rédacteurs et agents travaillant le Lore. N'apparaît jamais in-world.
+
+**Piège Institutionnel dominant : L'Espérance Vide, doublée d'une Loi figée bureaucratique.**
+
+Kharazir est, dans le système des Pièges, **un cas double** :
+
+1. **Espérance Vide kharazirienne** (piège primaire). La Charte est promise comme garantie suffisante de paix et de coexistence. Elle l'a été, en effet, pendant deux générations. Mais la conviction qu'elle *continuera de garantir* tient lieu de pensée — et empêche de voir que la Charte, sans interrogation institutionnelle, dérive doucement vers une coquille administrative. *« La Charte protège »* est devenu un acte de foi. Plus on croit, plus on cesse de surveiller. Le piège n'est pas dans la Charte ; il est dans la croyance qu'elle agit toute seule. Sorin Valthen, en l'an 251, en fait la découverte *à ses dépens* — sa propre formation kharazirienne lui avait fait croire que les Bibliothèques *seraient* justes, par construction. Elles ne l'étaient pas. Elles étaient *régulières*, ce qui n'est pas la même chose.
+
+2. **Loi figée bibliothécaire** (piège secondaire, en passe de devenir primaire). Les Bibliothèques de Kharazir ont transformé l'application de la Charte en un système qui ne s'interroge plus. La compétence des archivistes est réelle ; leur intégrité, dans la majorité des cas, est totale. Ce qui s'est figé, c'est la *fonction* — chaque archiviste applique la procédure correcte parce qu'elle est correcte, sans plus jamais se demander si la procédure correcte produit un résultat juste. C'est exactement la définition de la Loi figée à l'échelle institutionnelle. La phrase de Sorin sur *« les hommes de bureau avec des formulaires et un air d'excuse professionnelle »* en est la photographie. La force du piège : **personne ne peut être tenu responsable**, parce que tout le monde a été correct.
+
+**Cohérence avec la religion :** Kharazir n'a pas de religion dominante (liberté religieuse totale). Mais sa *foi civile* — la Charte — fonctionne comme une religion sans le savoir. L'Article Premier (« Nulle foi ne sera contrainte ») est récité à chaque cérémonie d'ouverture du Conseil. La fonction est rituelle. La croyance est dogmatique. La Charte est, en termes vael'kurashis, *l'esprit gardien officieux* du peuple kharaziri — qu'on n'invoque plus parce qu'on suppose qu'il veille. C'est exactement le motif du Déni du Sablier vael'kurashi, transposé en cadre civil. Kharazir partage donc, sans le savoir, le pli philosophique de Trinoria — *ce qui dure ne s'éteint pas* — appliqué non à des esprits naturels mais à un texte fondateur.
+
+**Âge moral collectif majoritaire : La Loi.** Les Kharaziri ordinaires agissent depuis la règle reçue (la Charte, le Lien, le calendrier des Sept Voix), avec une conviction calme. Le Désir est marginal (caravaniers, Errants, les rares dissidents). Le Principe est rarissime (Mira Dasthen ; Sorin Valthen *en construction* ; quelques archivistes en doute privé qui n'agissent pas).
+
+**Figure-clé portant la Vertu Cachée :**
+
+**Sorin Valthen** (an 217 — vivant à la fin de l'arc, an 254). Cartographe accrédité, exilé en 251. Porte conjointement deux Vertus, mais dans leur forme la plus *coûteuse* :
+- **La Charge** (Vertu #1) — il assume la responsabilité de ce qu'il a découvert plutôt que de la déléguer. Pas par héroïsme : par incapacité à la déléguer (les Bibliothèques ont refusé). Sa Charge est gratuite — elle ne paie pas, elle l'a coûté. Aucun monument, aucune réhabilitation, aucune cérémonie. Il rentre à Kharazir à 36 ans, dépose ses cahiers à Lumasar, et *vit* dans une auberge de Rukhsar sans jamais être rappelé au Conseil.
+- **Le Voile** (Vertu #2) — il termine son voyage en pluralisant explicitement ses propres lectures. Sa synthèse déposée à Lumasar conserve les hypothèses concurrentes. Il refuse, à la fin, de *clore*. C'est cela qui lui aurait donné un titre, qu'il refuse implicitement.
+
+**Sorin n'est pas vénéré à Kharazir. Il y vit.** La distinction est tout. Aucun Kharaziri ne lui doit rien. Le Conseil des Voix ne le mentionnera pas. Les Bibliothèques continueront de classer ses pétitions. Et c'est précisément cela qui fait de lui une figure du Principe — sa vertu *ne paie pas*. Si, dans dix ou trente ans, un universitaire de Lumasar exhume sa synthèse et reconnaît la cohérence du tracé, ce sera après lui. Sa charge accomplie a été *de porter sans gain*.
+
+> **Note pour A.4 / cohérence avec _arc-sorin.md** : Sorin est, à Kharazir, un Délié et un exilé. Il n'est *pas* un héros local. Le balayeur Naïm (cf. *Histoires de Kharazir — Le Huitième Pilier*) le précède dans le rôle d'incarnation invisible : un homme qui voit ce que personne ne voit, qui le signale, et qu'on fait disparaître. Sorin et Naïm n'ont jamais dû se croiser ; mais leur position est miroir.
+
+**Conflit moteur de la nation :**
+
+**La tension entre l'Archive et le Refus.** Kharazir, par la Charte, a institué la liberté. Par les Bibliothèques, elle l'a institutionnalisée. Au point que, *dans le pays le plus libre du continent*, dire non à une procédure correcte est devenu impossible — non parce qu'on est puni, mais parce qu'on n'est pas entendu. La Catena Fracta (cf. religion mineure homonyme), mouvement du Refus, prend racine ici (chez les Errants, chez les Non-Liés, chez les exilés des Bibliothèques) précisément parce que c'est ici qu'on ne peut plus refuser sans devenir un *cas administratif*. Le pays le plus tolérant produit le mouvement de Refus le plus radical. La Loi du Sillage Inverse, en filigrane.
+
+Le conflit n'est pas une crise. Il est une **gravité**. Aucun affrontement public ; aucune ligne de bataille. Juste une lente dérive dans laquelle les Kharaziri *bons* — Mira Dasthen, certains archivistes en doute, des marchands lucides — se trouvent à choisir entre la Charte (qui les a faits ce qu'ils sont) et la rigueur (qui les obligerait à voir que la Charte n'agit plus seule).
+
+**Ce qui est *spécifiquement* kharaziri (à ne pas dupliquer ailleurs) :**
+
+- L'archive comme outil principal de gouvernance.
+- La distinction Lié / Non-Lié avec tissu jaune (pas un statut servile — un classement *poli*, ce qui est plus difficile à attaquer).
+- La Catena Fracta comme produit endogène de la liberté excessive.
+- Le Quartier des Tunnels et la dalle scellée — patrimoine titanique refoulé sous la capitale même.
+- L'amitié-coexistence (Omarin, Kharaz au Bazar) comme forme d'intimité limitée.
+
+**Ratio brisé / relevé pour Kharazir** : pour chaque figure du Principe (Sorin, Mira, Naïm), prévoir 4-6 figures de la Loi correctement applicquée par des gens *bons* (Selvina Hiliaris, archivistes ordinaires, prêtres du Jardin de la Concorde, maître-balayeur qui ignore Naïm, Voix régionales modérées). Aucun PNJ ne doit énoncer le piège. Le lecteur le verra dans la *régularité parfaite* de l'expulsion de Sorin, dans le sourire poli de la Médiatrice qui signe sans lire, dans le formulaire correctement rempli qui détruit une vie sans qu'on puisse en accuser personne.
+
+---
+
+*Liens : [[Histoires/Galenor/Kharazir|Histoires de Kharazir]] | [[Chroniques/_arc-sorin|Arc de Sorin Valthen]] | [[Religions/_Mineures/Catena Fracta|Catena Fracta]] | [[Galenor - Continent]]*
 

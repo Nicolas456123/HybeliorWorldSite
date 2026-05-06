@@ -1,13 +1,64 @@
 ﻿---
-tags: [lore, histoire, alkaran]
-type: lore
-status: drafted
-last_review: 2026-05-02
+tags: [lore, histoire, alkaran, nation]
+type: histoires
+status: canon
+last_review: 2026-05-06
 needs_review_for: []
 ---
 # Histoires d'Iskara
 
-> *Chaque ville a ses cicatrices. Voici celles qui ne guerissent jamais.*
+> *Chaque ville a ses cicatrices. Voici celles qui ne guérissent jamais.*
+
+---
+
+## Lignes structurantes (vue d'ensemble historique)
+
+**Ère pré-fondatrice (~ -300 à -1)** — vallées encaissées d'Alkaran central, peuplées de bergers et de mineurs qui subissent les incursions de hordes venues de l'est. La géographie a déjà fait l'essentiel : seuls les défilés permettent l'accès, et les défilés se défendent.
+
+**An 0-30 — Aldric le Bâtisseur.** Premier roi. Maçon de métier. Verrouillage systématique des défilés. Construction du réseau de tunnels reliant les forteresses. La Grande Forge de Glintaris est installée dans une cavité naturelle ; son alimentation en charbon automatisée est conçue par Aldric lui-même (les prêtres d'Ignis Aeternum, plus tard, préféreront ne pas le rappeler).
+
+**An 35-38 — Défense de la Porte de Fer.** Une coalition de quarante mille hommes assiège le défilé principal. La reine **Yrelda la Forgée** commande la garnison de trois mille. Le siège dure trois cents jours. La Porte tient. Yrelda, à la fin, fait graver dans le fer : *« Vous êtes libres de revenir. Nous serons là. »* Phrase pragmatique sur le moment, devenue doctrine sur trois siècles.
+
+**An 60-87 — Fondation de la doctrine défensive.** Plusieurs incursions secondaires sont repoussées. Vers 87, le Roi-Maréchal Veldrik II promulgue le décret formalisant l'état de siège permanent. *« Tant qu'aucun traité signé ne marque la fin du danger, le pays demeure en alerte. »* Aucun traité n'a jamais été signé, parce qu'aucun ennemi assez grand pour signer ne s'est plus présenté.
+
+**An 100-150 — Codification.** Les Forgerons-Juges sont institués (Académie de Galathor, ~125). L'Académie des Gardiens de la Porte (Valyria, ~110) impose son cursus de sept ans. La caserne d'Helionis intègre, vers 145, le village dont elle a rasé les terres — caserne-village unique en Alkaran.
+
+**An 150-250 — Stabilité institutionnelle, ennemi qui s'efface.** Les coalitions orientales se dissolvent ; les empires lointains se fragmentent. Les rapports d'éclaireurs notent, génération après génération, que les routes de l'est se vident. Aucune synthèse n'est commandée. Le greffier qui en propose une en 232 est muté à Mytharis.
+
+**An 245 — Disparition de Sera Vyn.** L'éclaireuse de Kalvorn, dont la prédiction de 218 (armée à un an d'écart) avait été admise en privé, quitte son poste un matin de brouillard. On ne la revit jamais. Sa fille Aelra, devenue éclaireuse à son tour, suit les traces sans en parler. Un cairn près de la frontière orientale, attribué à une autre disparue (Nyra), porte un message à quatre mots : *« Ruines. Au-delà. Attention. »*
+
+**An 252 — Passage de Sorin Valthen.** Le voyageur kharaziri traverse Iskara au chapitre 10 de son journal (*Les Mines*). Glintaris, brève notation sur la Grande Forge : *« Les prêtres entretiennent ce qu'ils ne comprennent pas, et c'est précisément ce qui leur permet d'y croire. »* Pas d'effet local. Le journal n'a jamais été lu officiellement à Iskara.
+
+**Personnages historiques nommés :**
+- **Aldric le Bâtisseur** — fondateur, an 0-30
+- **Yrelda la Forgée** — reine du siège, an 35-44
+- **Veldrik II** — Roi-Maréchal codificateur, an 80-94
+- **Theron IV** — Roi-Maréchal actuel, depuis 240 (légitimité contestée par rumeur)
+- **Sera Vyn** — éclaireuse de Kalvorn (disparue 245)
+- **Nyra** — éclaireuse d'Ysolith (disparue ~ 240)
+- **Aelra** — fille de Nyra, éclaireuse en exercice
+- **Frère Kelryn** — moine-juge de Morvalis (retiré 247 après son verdict *« Je ne sais pas »*)
+- **Astor Vyn** — Forgeron-Juge de Galathor, fondateur du fonds communautaire
+- **Lira de Zelrith** — exigeuse de la ventilation, sans titre
+
+**Conflits structurants non résolus :**
+- Doctrine défensive / vidage des routes de l'est (sourd)
+- Légitimité dynastique (rumeur du Roi Fantôme, jamais réfutée formellement)
+- Lex Petra / Ignis Aeternum (compromis non examiné autour de la Flamme Immortelle)
+- Tunnels Oubliés (galerie scellée de Myrilith, présence inconnue derrière la Porte sans nom)
+
+**Monuments :**
+- **Porte de Fer** (Glintar) — gravure d'Yrelda
+- **Champ de Fer** (Helionis) — milliers de lames d'entraînement
+- **Tour de Kalvorn** — porte le nom de Sera Vyn depuis 248
+- **Pont de Galornis** — pierres gravées des trente noms
+- **Salle du Roc-Rendu** (Morvalis) — où les moines-juges méditent dans la crevasse sacrée
+
+**Défaites refoulées :**
+- Le sens de la garde permanente (admis en privé par très peu)
+- L'identité réelle des assaillants de l'an 88 (probablement gryndoris plutôt que skaldori, mais la mention *Skaldoria* est devenue tradition)
+- Ce qu'a vu Sera Vyn après son retour de la disgrâce
+- Ce qu'on entend derrière la porte de métal scellée à Myrilith
 
 ---
 

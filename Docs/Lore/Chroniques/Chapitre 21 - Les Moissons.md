@@ -2,7 +2,7 @@
 tags: [lore, chronique]
 type: lore
 status: drafted
-last_review: 2026-05-02
+last_review: 2026-05-06
 needs_review_for: []
 ---
 # Chapitre 21 — Les Moissons Éternelles
@@ -99,6 +99,8 @@ Tout le village participa, comme pour une fête — ce qui était effectivement 
 Emris m'expliqua, pendant que nous travaillions côte à côte — elle avait refusé que je reste spectateur, avec une fermeté affectueuse qui n'admettait pas de réponse —, que la récolte collective était aussi ancienne que le village. Que depuis la Grande Moisson d'Amaryl, chaque geste agricole d'importance se faisait à plusieurs, parce que la solitude avait été l'ennemi pendant l'Ère de la Famine et que la solidarité était la réponse que Sylthara avait trouvée et n'avait jamais revoquée.
 
 Je cueillais des pommes. C'est un geste simple — la main qui se ferme autour du fruit, le léger mouvement rotatif qui détache le pédoncule sans l'arracher, le dépôt dans le panier avec précaution pour ne pas meurtrir la peau. Mais après deux heures, ce geste simple avait pris une qualité différente. Il s'était dépouillé de sa conscience. Je ne pensais plus à comment faire, je faisais. Mes mains savaient ce que mes pensées n'avaient plus à organiser. Et dans cet espace libéré — le temps que les pensées ne dépensaient plus à coordonner les mains — d'autres choses arrivaient. Je regardais la lumière sur la pomme avant de la prendre. Je sentais le froid du fruit. J'entendais le son sourd et feutré qu'il faisait en touchant le fond du panier, différent à chaque fois selon l'angle, selon la taille, selon la maturité de ce qui était déjà en dessous.
+
+À deux paniers de moi, une vieille femme dont je n'avais pas retenu le nom posait, à intervalles réguliers, une pomme à part dans le creux d'une racine — pas dans le panier, dans la racine, à même la mousse. Une par cinquante peut-être. Sans cérémonie. Le geste prenait une seconde et son visage ne changeait pas. J'enregistrai le détail sans le commenter et continuai ma rangée.
 
 Je comprenais, dans ces moments de geste pur, ce que Talvind voulait dire quand il parlait d'entendre le sol. Non pas une compréhension intellectuelle — j'avais compris intellectuellement depuis longtemps. Une compréhension par le corps. La façon dont l'attention se déplace, quand on fait quelque chose depuis longtemps et sans effort, vers une perception plus fine, plus directe, moins filtrée par le langage.
 

@@ -2,7 +2,7 @@
 tags: [lore, chronique]
 type: lore
 status: drafted
-last_review: 2026-05-02
+last_review: 2026-05-06
 needs_review_for: []
 ---
 # Chapitre I — Les Murs Jaunes de Kharazir
@@ -133,6 +133,8 @@ Les Bibliothèques ont ma carte. Ils n'ont pas ma note sur la borne. La note est
 J'ai posé la main sur la pierre un moment. Elle était froide. L'aube était grise, la ville encore presque silencieuse, seuls quelques marchands du bazar préparant leurs étals, un charretier dont la charrette grinçait dans une rue parallèle. Le tissu jaune sur ma manche gauche était pâle dans la lumière de cette heure.
 
 Je n'ai pas pleuré. Je ne suis pas sûr d'en être capable pour le moment. Il y a, dans la colère froide qui me tient depuis une semaine, quelque chose qui interdit les larmes — comme si le corps avait décidé que pleurer signifiait accepter, et qu'il n'était pas prêt à accepter.
+
+Je note cela tel quel parce que je n'ai pas mieux. Je relirai peut-être ces lignes dans un an et j'y trouverai autre chose qu'une dignité — quelque chose qui ressemblera à l'orgueil de l'homme qui n'a pas encore admis que son pays l'a porté pendant trente-quatre ans avant de le rejeter. C'est possible. Pour l'instant, je préfère la formulation présente. La précision viendra plus tard, ou ne viendra pas. Les cartographes notent d'abord ; ils corrigent ensuite, s'ils sont encore là.
 
 J'ai pensé à mon père, debout dans les pâturages d'altitude, comptant les étoiles dans son carnet de semelle de cuir. J'ai pensé à ce qu'il avait compté, et à ce que ses calculs avaient fini par produire comme conséquences, et à la lettre de Prismalith dont il n'avait pas voulu me montrer le contenu.
 

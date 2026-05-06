@@ -1,13 +1,13 @@
-﻿---
+---
 tags: [lore, histoire, celethor, nomansland]
 type: lore
-status: drafted
-last_review: 2026-05-02
+status: canon
+last_review: 2026-05-06
 needs_review_for: []
 ---
 # Histoires des Terres Brisées de Celethor
 
-> *Ici, personne ne te demandera d'où tu viens. Parce que la réponse est toujours la même : d'un endroit pire.*
+> *Ici, personne ne te demandera d'où tu viens. Parce que la réponse est toujours la même : d'un endroit pire. Et parce que la deuxième règle des Terres Brisées, qu'on ne formule jamais à voix haute, est qu'on n'effraie pas les nouveaux arrivants en posant des questions.*
 
 ---
 
@@ -81,7 +81,7 @@ Le Magistère ne vint pas. Pas directement. Mais les caravanes cessèrent de pas
 
 Ceux qui avaient voté pour livrer Seren ne dirent rien. Pas besoin. Leur silence était plus éloquent que n'importe quel discours.
 
-Au printemps, Seren quitta Feylor d'elle-même. Elle laissa une lettre : *« Votre démocratie est belle. Ne la laissez pas mourir pour moi. »*
+Au printemps, Seren quitta Feylor d'elle-même. Elle laissa une lettre : « Votre démocratie est belle. Ne la laissez pas mourir pour moi. »
 
 Aldric la lut devant l'assemblée. Personne ne parla.
 
@@ -99,19 +99,19 @@ L'ours était blanc, massif, avec des yeux d'un bleu impossible. Torven le traqu
 
 L'ours le regardait.
 
-Et Torven entendit : *« Arrête. »*
+Et Torven entendit : « Arrête. »
 
 Pas un son. Une pensée. Directe, claire, impossible. Torven lâcha son arc. L'ours s'approcha, lentement, et posa son museau contre la main du chasseur.
 
 Des images affluèrent. La forêt telle qu'elle était avant — immense, vivante, peuplée de créatures que Torven n'avait jamais vues. Et parmi elles, des ours blancs — des dizaines, des centaines — qui servaient de gardiens à quelque chose enfoui sous la glace.
 
-*« Nous étions les veilleurs, »* dit la pensée. *« Il n'en reste que moi. »*
+« Nous étions les veilleurs, » dit la pensée. « Il n'en reste que moi. »
 
 Torven rentra à Zyldor sans fourrure. Les autres chasseurs se moquèrent. Il ne raconta rien.
 
 Mais chaque nuit, il retournait dans la clairière. L'ours lui montrait des choses — des tunnels sous la glace, des portes scellées, des inscriptions que personne ne lisait plus. Et une vérité terrible : ce que les veilleurs gardaient commençait à se réveiller.
 
-Six mois plus tard, Torven quitta Zyldor. Il laissa ses pièges, ses armes, ses fourrures. Les chasseurs fouillèrent sa tente et trouvèrent un seul objet : un dessin maladroit d'un ours blanc devant une porte immense, et en dessous, deux mots : *« Il vient. »*
+Six mois plus tard, Torven quitta Zyldor. Il laissa ses pièges, ses armes, ses fourrures. Les chasseurs fouillèrent sa tente et trouvèrent un seul objet : un dessin maladroit d'un ours blanc devant une porte immense, et en dessous, deux mots : « Il vient. »
 
 Personne à Zyldor ne chasse plus l'ours blanc. Non par peur de Torven — il a disparu. Par peur de ce qu'ils pourraient *entendre*.
 
@@ -135,13 +135,13 @@ Aldren établit la règle de quarantaine ce soir-là. Tout artefact non identifi
 
 Mais le trou est toujours là. Parfaitement rond, parfaitement lisse, parfaitement vide. Rien ne pousse sur ses bords. La pluie qui y tombe ne fait aucun bruit. Et parfois, la nuit, les prospecteurs de Zarnith jurent entendre des voix qui montent du fond — quatre voix, familières, qui disent toutes la même chose :
 
-*« On est encore là. On ne sait juste plus où. »*
+« On est encore là. On ne sait juste plus où. »
 
 ---
 
 ## Myralor — « Huit sur dix »
 
-La femme amenait son fils mourant. Il avait sept ans, la fièvre du givre — une maladie de Celethor qui geait le sang de l'intérieur. Ryldor l'avait renvoyée. « Intraitable, » avaient dit les guérisseurs du Cercle.
+La femme amenait son fils mourant. Il avait sept ans, la fièvre du givre — une maladie de Celethor qui gelait le sang de l'intérieur. Ryldor l'avait renvoyée. « Intraitable, » avaient dit les guérisseurs du Cercle.
 
 Le chaman de Myralor s'appelait Veldris. Banni, hérétique, dangereux. Et le dernier espoir de cette mère.
 
@@ -199,9 +199,9 @@ Dix ans plus tard, un voyageur apporta une nouvelle : le Jarl Krenneth avait ét
 
 Le sergent Valdris écouta la nouvelle. Ne sourit pas. Ne pleura pas. Il alla s'asseoir devant le feu et regarda les flammes — les mêmes flammes que celles qu'il avait refusé de porter à Frostheim.
 
-*« Est-ce que ça valait le coup ? »* demanda son lieutenant.
+« Est-ce que ça valait le coup ? » demanda son lieutenant.
 
-*« Demande aux enfants de Frostheim, »* répondit Valdris.
+« Demande aux enfants de Frostheim, » répondit Valdris.
 
 Il mourut l'hiver suivant. D'une blessure infectée, reçue lors d'un contrat de mercenaire. Rien d'héroïque. Rien de glorieux. Juste un homme qui avait dit « non » une fois, et qui avait vécu le reste de sa vie avec cette syllabe comme seul titre de noblesse.
 
@@ -243,14 +243,66 @@ La paix de Fenorith déconcerte les visiteurs. Ce n'est pas la paix des innocent
 
 Un jour, un jeune aventurier arriva, brûlant d'idéaux, convaincu qu'il pouvait changer Astravia. Il demanda conseil à Yeldris.
 
-L'ancien archimage le regarda longtemps. Puis : *« Tu veux que je te dise que c'est possible ? »*
+L'ancien archimage le regarda longtemps. Puis : « Tu veux que je te dise que c'est possible ? »
 
-*« Oui. »*
+« Oui. »
 
-*« Ça ne l'est pas. Mais vas-y quand même. Tu ne pourras pas vivre ici tant que tu n'auras pas essayé. »*
+« Ça ne l'est pas. Mais vas-y quand même. Tu ne pourras pas vivre ici tant que tu n'auras pas essayé. »
 
 Le jeune homme repartit. Yeldris retourna à son jardin.
 
 Trois ans plus tard, le jeune homme revint. Brisé, amer, vaincu. Yeldris lui tendit une bêche.
 
-*« Bienvenue à Fenorith. »*
+« Bienvenue à Fenorith. »
+
+---
+
+## Eridorn-bis — « La Tisseuse et le Stellari »
+
+L'un des trois fonctionnaires corrompus d'Astravia qui protègent Eridorn est un Magistrat Arcanique d'Invernis nommé **Falthen**. Il fait partie du service depuis trente-deux ans. Il a, en plus de son salaire officiel, une rente trimestrielle déposée par la Tisseuse dans une chambre forte de Brastoris dont seuls trois employés connaissent le numéro.
+
+Falthen ne se considère pas comme corrompu. Il se considère comme **réaliste**. Il sait que la Route Sourde fait circuler ce dont Astravia, Elarian et Ryldor ont besoin — et qu'aucun de ces pays ne peut admettre. Il considère que protéger Eridorn est une forme de service public. La rente trimestrielle est, dans son raisonnement, une compensation pour le risque qu'il prend.
+
+Il vit modestement. Il n'a pas dépensé un seul des paiements de la Tisseuse. Sa rente s'accumule depuis vingt-six ans dans la chambre forte de Brastoris. Sa femme ne sait pas. Ses enfants ne sauront jamais — il a laissé des consignes pour que la rente soit, à sa mort, restituée à la Tisseuse, *« qui en fera ce qu'elle voudra, et qui, je l'espère, comprendra que je n'en avais pas besoin »*.
+
+La Tisseuse comprend. Elle n'a jamais demandé à Falthen pourquoi il accumulait sans dépenser. Elle a sa propre lecture : Falthen accumule parce qu'il a besoin que la transaction soit *réelle*, pas parce qu'il a besoin de l'argent. Une rente non dépensée n'invalide pas le contrat ; elle le rend même plus solide. Falthen n'est pas corrompu *au sens où il abuserait de sa position*. Il est dans une convention qu'il a passée avec lui-même et qu'il honore.
+
+Cette nuance importe. Elle distingue Falthen des deux autres fonctionnaires corrompus d'Astravia (qui, eux, dépensent et profitent, et qui sont donc plus exposés à la chute). Falthen est invisible parce qu'il est *correct*. Personne n'enquêtera sur un homme qui vit modestement.
+
+Quand Falthen mourra — il a soixante-douze ans, sa santé décline —, la chambre forte de Brastoris contiendra cinquante-deux ans de rente accumulée. La Tisseuse en héritera officiellement par le testament secret de Falthen. Elle l'a déjà décidé : elle financera, avec cette somme, la création d'une école de cartographie indépendante à Brastoris, qui formera des Voilés à la lecture des cartes — exactement le genre d'école que le Magistère d'Astravia n'autoriserait pas. L'école s'appellera *« École Lethanis »*. Aucune publication ne fera le lien entre l'école et la Première Lectrice morte cinquante-huit ans plus tôt. La Tisseuse n'expliquera rien. Falthen, lui, n'aura plus rien à expliquer.
+
+Ce sera, peut-être, la première brèche réelle dans la Loi figée d'Astravia depuis Lethanis. Personne ne la verra comme telle. C'est, exactement, ce qu'il faut pour qu'elle tienne.
+
+---
+
+## Valdris-bis — « La Recrue qui dit non à son tour »
+
+En l'an 248, une jeune femme arriva à Valdris. Elle s'appelait **Brynda Kelvarsdóttir**. Elle avait vingt-deux ans, elle venait de Frostmir, et elle avait déserté son clan trois mois plus tôt après avoir refusé un ordre.
+
+L'ordre de son sergent était de brûler la grange d'un fermier qui avait manqué deux livraisons d'huile. Une grange. Pas un village. Une grange.
+
+Brynda avait dit *« non »*. Le sergent avait insisté. Elle avait répété *« non »*. Le sergent avait tiré son épée. Elle avait tiré la sienne. Le sergent était un homme expérimenté ; il l'aurait tuée. Mais il ne l'avait pas tuée — il avait, pour une raison qu'elle n'avait jamais su, baissé son épée. Il lui avait dit : *« va. tu as quatre heures pour disparaître. »*
+
+Elle avait pris quatre heures. Elle avait disparu.
+
+À Valdris, elle se présenta au commandant — l'arrière-petit-neveu du sergent Valdris original. Elle dit ce qu'elle avait fait. Elle demanda à servir.
+
+Le commandant la regarda longtemps. Il dit : *« Tu as dit non pour une grange. Mon arrière-grand-oncle a dit non pour un village. Toi, tu as dit non plus tôt. Cela ne te rend pas meilleure. Cela te rend, peut-être, plus jeune. »*
+
+Brynda ne sut pas quoi répondre. Elle attendit.
+
+Le commandant ajouta : *« On n'enseigne pas le non à Valdris. On le pratique. Si tu en as encore besoin pour comprendre, tu n'es pas encore prête. Si tu n'en as plus besoin, tu peux rester. »*
+
+Elle resta. Elle servit pendant trois ans. Elle prit deux contrats où elle dut tuer ; elle prit un contrat qu'elle refusa parce que la cible n'était pas claire. Le commandant approuva tous trois les choix sans commentaire.
+
+En l'an 251 — l'année du passage de Sorin Valthen à Lysorn —, Brynda demanda au commandant l'autorisation de quitter Valdris pour fonder un campement séparé, plus au sud, près de la frontière de Ryldor. Elle voulait, dit-elle, *« un endroit où des soldats elariens trop jeunes pour avoir gagné leur non puissent venir l'apprendre sans devenir des Effacés »*.
+
+Le commandant réfléchit deux jours. Il dit oui. Il lui prêta dix soldats. Il lui donna deux mois de provisions. Il dit : *« si tu réussis, tu auras peut-être fait ce que mon arrière-grand-oncle aurait voulu. Si tu échoues, tu rentres ici. »*
+
+Le campement existe en l'an 251. Il s'appelle *« Brynda-le-Refus »*. Il compte douze âmes. Personne, à Elarian, ne sait qu'il existe. Personne, à Astravia, ne sait qu'il existe. Le Cercle de Ryldor le sait, parce que les Marcheurs sont passés. Le Cercle ne le commente pas.
+
+Si Brynda réussit, dans dix ou vingt ans, le campement deviendra un village. Les anciens soldats elariens qui auront refusé un ordre injuste pourront s'y rendre sans être Effacés *à vie* — ils seront temporairement perdus, le temps de comprendre s'ils peuvent rentrer. Quelques-uns rentreront, ayant su mieux dire *« non »* la prochaine fois. D'autres resteront.
+
+Aucune nation ne ratifiera ce dispositif. Il n'aura pas de nom officiel. Ce sera, à l'échelle d'Hybélior, l'une des plus belles inventions politiques du siècle. Personne ne la verra comme telle.
+
+C'est, à Celethor, ainsi que les choses justes commencent — quand elles commencent : par une jeune femme qui dit *« non »* pour une grange, et par un commandant qui a la patience d'attendre qu'elle apprenne à dire *« non »* pour autre chose.

@@ -9,7 +9,7 @@
     { "num": "V", "titre": "L'Indicible", "chapitres": [33,34,35,36,37,38,39,40] }
   ],
   "chapitres": [
-    { "num": 1,  "titre": "Les Murs Jaunes de Kharazir", "continent": "Galenor", "nations": ["Kharazir"], "fichier": "Chapitre 01 - Les Murs Jaunes.md", "jour": 1, "audio": "https://hybelior-tiles.nicolas-vollard.workers.dev/audio/chronique-01.mp3", "audioPartial": true },
+    { "num": 1,  "titre": "Les Murs Jaunes de Kharazir", "continent": "Galenor", "nations": ["Kharazir"], "fichier": "Chapitre 01 - Les Murs Jaunes.md", "jour": 1 },
     { "num": 2,  "titre": "Les Plumes de Lumasar", "continent": "Galenor", "nations": ["Lumasar"], "fichier": "Chapitre 02 - Les Plumes.md", "jour": 12 },
     { "num": 3,  "titre": "Le Vent des Cavaliers", "continent": "Galenor", "nations": ["Ventera"], "fichier": "Chapitre 03 - Le Vent.md", "jour": 28 },
     { "num": 4,  "titre": "Les Cathédrales Vivantes", "continent": "Galenor", "nations": ["Seraphia"], "fichier": "Chapitre 04 - Les Cathédrales.md", "jour": 45 },

@@ -2,13 +2,19 @@
 tags: [lore, pays, ulinor]
 type: lore
 status: drafted
-last_review: 2026-05-02
+last_review: 2026-05-06
 needs_review_for: []
 ---
 # UlinorPays — L'Archipel des Voix Oubliées
 
 > *« Pose ton oreille contre la roche, étranger. Ce que tu y entendras — ou ce que tu n'entendras pas — les Écho-Guides sauront le lire. Selon eux, le chant est une acceptation. Le silence, dans leur lecture, demande prudence. »*
-> — Proverbe tribal de Jentar, transmis par les Écho-Guides
+> — proverbe tribal de Jentar, transmis par les Écho-Guides
+
+> *« Ma Pierre de Mémoire pèse dans ma poche depuis cinquante ans. Je ne la sens plus. J'ai cessé de la sentir vers la trentaine. Je ne sais pas si c'est elle qui s'est allégée, ou moi qui me suis épaissi. »*
+> — confidence d'une potière de Nylorin à un voyageur, transcrite dans une marge
+
+> *« Ce que les Anciens ont gravé, nous l'écoutons. Ce qu'ils n'ont pas gravé, nous l'inventons en disant que nous l'écoutons. La différence ne se voit pas, sauf chez celui qui le fait. »*
+> — fragment d'une note d'Écho-Guide retrouvée à Xerathis, attribution refusée par sa tribu
 
 ---
 
@@ -52,9 +58,19 @@ Yelthari devint la première **Écho-Guide**, c'est-à-dire, dans le vocabulaire
 
 La Confédération tribale, selon les observateurs continentaux, tient mieux qu'on l'attendrait d'une structure aussi diffuse. Le rapport partagé aux ruines des Anciens, dans la lecture des Écho-Guides, sert de ciment culturel que les querelles territoriales n'ont pas, jusqu'à présent, défait. Six tribus majeures contrôlent les six régions de l'archipel, chacune ayant en charge un ensemble de ruines.
 
-La cheffe actuelle de la Confédération, dans la lecture Jentar, est **Mirathi Voix-d'Ambre**, Écho-Guide suprême de la tribu Jentar. Sexagénaire au regard perçant, elle affirme avoir reçu un message complet des Anciens — qu'elle qualifie d'avertissement. Elle refuse, à ce stade, d'en livrer le contenu, ce qui alimente les tensions avec les autres chefs tribaux. Selon les versions, certains lisent ce silence comme prudence, d'autres comme manœuvre.
+La cheffe actuelle de la Confédération, dans la lecture Jentar, est **Mirathi Voix-d'Ambre**, Écho-Guide suprême de la tribu Jentar. Sexagénaire au regard perçant, elle affirme avoir reçu un message complet des Anciens — qu'elle qualifie d'avertissement. Elle refuse, à ce stade, d'en livrer le contenu, ce qui alimente les tensions avec les autres chefs tribaux. Selon les versions, certains lisent ce silence comme prudence, d'autres comme manœuvre. Une troisième lecture, marginale et que Mirathi ne dément pas explicitement, voudrait que le « message » n'existe pas et qu'elle l'ait inventé pour consolider sa position face à la lente érosion de l'autorité Jentar — érosion que les chroniques de Folindor et de Korindar enregistrent depuis trois générations sans la nommer.
 
 Les deux îles satellites — Nylor au nord et Serenth au sud — ajoutent à la culture ulinorienne des registres distincts. Nylor abrite les Druides de l'Écho, mystiques que la tradition locale rattache à un usage cultivé de la résonance sonore. Serenth, sauvage et tenue par les tribus pour dangereuse, est lue comme terre d'épreuve : peu y mettent les pieds.
+
+### Tournants historiques refoulés
+
+Trois épisodes que les chroniques tribales mentionnent à voix basse mais qu'aucun Écho-Guide officiel n'a inscrit dans les chants publics :
+
+- **Le Schisme de la Septième Tribu (an inconnu, antérieur à la Confédération moderne)** : il existait, selon les fragments des chants Folinor les plus anciens, une septième tribu majeure dont le nom n'est jamais prononcé. Selon ces fragments, la tribu refusa, à un moment situé entre l'établissement des Écho-Guides et la formation du Conseil des Six, de continuer à *écouter* les ruines. Elle aurait formulé que les Anciens étaient morts, simplement, et que les sons du Canyon étaient sons de roche. Elle disparut — *quitta l'archipel*, selon une lecture ; *fut absorbée*, selon une autre ; *se dispersa* selon une troisième. Aucun Écho-Guide actuel ne s'en réclame. Les six tribus actuelles sont, selon cette lecture, *celles qui sont restées en parlant aux pierres*.
+
+- **La Sécheresse de la Voix (env. 4 100 ap.A)** : pendant trois générations, selon les chroniques de Korrinor, les ruines *ne résonnèrent presque plus*. Les Écho-Guides parvenaient encore à entendre, mais les autres pratiquants — apprentis, pèlerins, sensitifs en formation — ne percevaient plus rien. Cette période est rapportée comme une crise spirituelle majeure ; la Confédération hésita à se dissoudre. Puis, vers la quatrième génération, *les voix revinrent* — formulation officielle. La lecture marginale que les Korrinor de la haute mine ont transmise à leurs apprentis sans la consigner : les voix ne revinrent pas, mais une nouvelle génération d'Écho-Guides apprit à *les ajouter* au silence. La sécheresse, dans cette lecture, n'a jamais cessé. Elle est seulement devenue invisible.
+
+- **L'Affaire Selvane (an 187)** : Selvane, Écho-Guide jentarienne, déclara publiquement à Xerathis qu'elle n'avait jamais entendu une seule voix dans le Canyon en quarante ans de pratique. Elle posa sa Pierre de Mémoire au bord du gouffre et descendit y vivre trois mois. Elle remonta indemne, sereine, en disant simplement : *« je n'ai rien entendu, et c'est suffisant »*. L'affaire fut classée comme *crise de foi tardive*. Selvane fut écartée sans cérémonie, autorisée à continuer sa vie comme citoyenne ordinaire. Elle mourut huit ans plus tard à Vorthar, sans être ré-intégrée. Les apprentis qu'elle avait formés sont, à ce jour, soit silencieux sur l'épisode, soit ostentatoirement plus pieux que la moyenne.
 
 ---
 
@@ -66,6 +82,18 @@ Les deux îles satellites — Nylor au nord et Serenth au sud — ajoutent à la
 - **Les Gardiens des Ruines** : Ordre inter-tribal chargé de protéger les sites sacrés. Ils ne jurent fidélité à aucune tribu, seulement aux Anciens.
 
 La confédération fonctionne sur un équilibre délicat entre autonomie tribale et coopération sacrée. Les conflits entre tribus existent, mais jamais au point de menacer les ruines.
+
+### Biais politiques et points aveugles
+
+Sans qu'aucun chroniqueur ne l'ait formulé explicitement, plusieurs biais structurent la politique ulinorienne :
+
+- **La hiérarchie tacite des tribus selon leur proximité aux ruines.** Jentar est première parce que sa région contient le Canyon ; Xyria est seconde par densité de ruines forestières ; Korrinor troisième par les cristaux résonnants ; Folinor quatrième par la nourriture (pouvoir matériel mais peu spirituel) ; Elarion et Tressalia partagent la dernière position, leurs ruines étant les moins étudiées. Cette hiérarchie n'est jamais officielle, jamais protocolaire ; elle se voit dans l'ordre des prises de parole au Conseil des Six, dans les délais de réponse aux sollicitations, dans les mariages inter-tribaux préférés.
+
+- **La règle du « non-débat sur les Anciens »** : par tradition tacite, le Conseil des Six ne discute pas du contenu de ce que les Écho-Guides perçoivent. Les Écho-Guides *rapportent*, le Conseil *agit*. Cette règle protège les Écho-Guides de la contestation politique ; elle empêche aussi toute interrogation collective sur la véracité des perceptions. Aucun chef tribal n'a osé en cinq générations demander publiquement : *« comment savons-nous que ce qui est entendu est ce que les Anciens ont voulu dire ? »*
+
+- **Le verrou des Tatouages des Ruines** : chaque adulte porte un glyphe choisi par son Écho-Guide. Ce glyphe est tenu pour exprimer sa nature profonde. Mais le glyphe est aussi, structurellement, un marqueur d'allégeance — il rattache l'individu à la lecture de son Écho-Guide. Refuser un Tatouage, ou en demander un changement, est extrêmement rare ; les quelques cas connus (Selvane à Xerathis, un pêcheur d'Elaris dont le nom n'est plus prononcé) sont passés sous silence.
+
+- **La collecte des Pierres de Mémoire perdues** : quand une famille perd la lignée de ses Pierres (mort sans descendance, exil), les Pierres sont, par tradition, déposées dans les ruines de la tribu d'origine. La pratique paraît tendre. Elle a, sur plusieurs siècles, *accumulé* des Pierres de Mémoire dans les ruines, qui sont aujourd'hui couvertes d'objets dépositaires que personne ne lit plus. La pieuse-fixation a un volume matériel.
 
 ---
 
@@ -258,6 +286,88 @@ Les collines boisées du sud-est, couvertes d'une forêt moins dense que celle d
 | **Culture** | Culture tribale et animiste, où les ruines anciennes sont vénérées comme des lieux sacrés. |
 | **Histoire marquante** | La Révélation des Anciens, où les tribus d'Ulinor ont découvert des secrets anciens dans les ruines, les aidant à renforcer leurs liens avec les esprits de la nature. |
 | **Description CSV** | Une île couverte de jungles épaisses et de ruines anciennes, habitée par des tribus qui vivent en harmonie avec la nature et les esprits anciens. |
+
+---
+
+## Cadre interne — Patterns
+
+> Encadré technique réservé aux rédacteurs et agents travaillant le Lore. N'apparaît jamais in-world.
+
+**Piège dominant : LA LOI FIGÉE doublée d'un DÉNI DU SABLIER paradoxal.**
+
+Ulinor central est le cœur géographique et symbolique de la pieuse-fixation continentale (cf. fiche [[Ulinor - Continent]]). La nation pratique avec une cohérence remarquable l'ensemble des gestes qui *paraissent* du Sablier — Pierres de Mémoire, chants funéraires résonnants, Tatouages, Nuits des Voix, Épreuves de l'Écho — et qui en réalité **fixent** ce qu'ils prétendent déposer. Le piège opère par excès de pieuses-pratiques, dont aucune n'est interrogeable parce qu'elles sont toutes *belles*.
+
+La Loi figée tient à ce que les rituels sont reçus, transmis, jamais réinterrogés. La Confédération tribale a **cinq générations de stabilité** dans sa pratique cultuelle ; aucun Écho-Guide actuel ne sait expliquer pourquoi tel geste précède tel autre dans la liturgie funéraire, et aucun ne le demande. La règle du « non-débat sur les Anciens » est l'expression formelle de ce verrou.
+
+Le Déni du Sablier opère parce que **les Anciens, en Ulinor, ne sont jamais admis comme morts**. Ils ont *changé de support*, ils *résonnent*, ils *avertissent*, ils *façonnent in utero les enfants particuliers* — toutes ces formulations rituelles sont des manières de les maintenir présents. Le Schisme de la Septième Tribu, l'Affaire Selvane, la Sécheresse de la Voix sont les trois grands traumatismes refoulés qui auraient pu, à différents moments, briser ce déni. Aucun n'a été assumé.
+
+**Variantes par région :**
+
+| Région | Inflexion locale du piège |
+|---|---|
+| **Jentar** | Cœur de la pieuse-fixation : Écho-Guides comme caste de ré-actualisation permanente des Anciens ; règle du non-débat ; règne de Mirathi Voix-d'Ambre |
+| **Xyria** | Variante végétale : ruines envahies par la jungle, *protégées* — lecture qui permet aussi de ne pas regarder ce qu'elles contiennent |
+| **Korrinor** | Variante minière : extraction ritualisée des cristaux résonnants ; les vieux mineurs de la haute mine portent une frange sceptique discrète |
+| **Folinor** | Variante agricole : ruines enfouies sous les champs, exhumées en labourant — accumulation matérielle de la pieuse-fixation |
+| **Elarion** | Variante côtière : esprits marins et Anciens parfois confondus dans la pratique populaire ; Effacement *léger* qui contre-balance la fixation |
+| **Tressalia** | Variante sylvestre : Keldris et ses colonnes onirophages — la fixation devient absorption (les rêves comme énergie nourrissant les Anciens) ; cas extrême |
+
+**Frange du Sablier authentique (rare et marginale) :**
+
+- **Selvane** (Écho-Guide dissidente, an 187) : posa sa Pierre, descendit dans le Canyon, remonta sereine. *« Je n'ai rien entendu, et c'est suffisant. »* Vertu portée : **LE SABLIER** authentique, formulé sans drame. Mort marquante : Selvane mourut à Vorthar en 195, à 73 ans, sans avoir été ré-intégrée à la communauté Écho-Guide. Sa tombe ne porte pas son glyphe — elle l'avait demandé. Les chroniques Jentar la mentionnent en deux lignes. Aucune autre source.
+- **Vieille pêcheuse anonyme d'Elaris** (mentionnée dans la fiche par la confidence en exergue) : a cessé de sentir sa Pierre de Mémoire vers la trentaine. Continue de la porter sans la sentir. Vertu affleurante : **AIMER-CE-QUI-EST** — elle accepte que le rituel n'opère plus en elle sans trahir sa famille en la posant. Mort : non précisée. Elle est, structurellement, une figure du Principe sans nom.
+- **Korrinor de la haute mine** (le mineur sourd Aldric, ses successeurs) : parmi les cristaux, certains travaillent par la matière sans y mettre de voix. La lecture sceptique du contenu des glyphes vient d'eux, transmise oralement et jamais codifiée.
+- **Druides de l'Écho de Nylor** : à dose. Tous ne sont pas dans la frange — la majorité d'entre eux pratique une variante particulièrement raffinée de la pieuse-fixation. Mais certains, isolés, *écoutent sans y mettre*.
+
+**Figure-clé dominante : Mirathi Voix-d'Ambre.**
+
+- Née ~ 165 du Sillage à Jentaris, lignée Jentar.
+- Apprentie Écho-Guide à 14 ans (Épreuve de l'Écho réussie : elle entendit, ou affirme avoir entendu, son propre nom).
+- Écho-Guide de la tribu Jentar à 32 ans.
+- Écho-Guide Suprême depuis 215.
+- En 226 du Sillage, déclare avoir reçu *un message complet* des Anciens — un avertissement qu'elle refuse de divulguer.
+- Mort marquante (canon flou, à laisser ouvert) : Mirathi meurt vers 248 du Sillage, à 83 ans, sans avoir transmis le contenu de l'avertissement. Selon une lecture, le message n'a jamais existé. Selon une autre, il était trop pour être divulgué. Selon une troisième, elle l'a oublié vingt ans avant sa mort et n'a pas osé le dire. Aucun rédacteur ultérieur ne doit trancher.
+
+Vertu portée (ou plutôt : pervertie) : **LA CHARGE** dévoyée. Mirathi *porte* quelque chose, elle ne le partage pas. Mais ce qu'elle porte est peut-être un vide ou un mensonge ; elle ne le sait peut-être plus elle-même. C'est la Charge qui sert, in fine, l'institution plus que la vérité. Pattern : **figure du Principe corrompue par la fonction** — Mirathi a peut-être été, jeune, dans le Principe ; quarante ans d'Écho-Guidance l'ont reconfigurée dans la Loi, sans qu'elle s'en aperçoive.
+
+**Figure-clé secondaire : Selvane (cf. supra).** Frange du Sablier authentique, écartée sans drame. Sa biographie minimale est tout son enseignement.
+
+**Conflit moteur d'Ulinor central :**
+
+**La tension entre la pieuse-fixation prospère et l'érosion silencieuse de sa propre véracité.** La Confédération tient. Les rituels fonctionnent. Les Écho-Guides forment leurs successeurs. Et **personne ne sait plus, en interne, si ce qui est entendu dans le Canyon est entendu ou inventé**. Cette ignorance n'est pas formulée. Elle se voit dans :
+- la longueur croissante des séances d'écoute (les Écho-Guides modernes passent en moyenne 30% plus de temps au bord du gouffre que ceux d'il y a deux siècles, pour des résultats équivalents) ;
+- l'augmentation du nombre de glyphes mentionnés dans les transcriptions (le huitième glyphe non-cartographié est l'avant-dernier ; il y en a au moins onze qui circulent en sourdine) ;
+- l'ostentation croissante du « message de Mirathi » (besoin d'un événement consolant) ;
+- la récurrence statistique des « Enfants de l'Écho » (catégorie qui s'élargit génération après génération).
+
+Le conflit est *silencieux et permanent*. Il ne se résout pas. Il se *gonfle*. À l'inverse de Noravia (où le Sablier authentique tient *parce qu'on n'en parle pas*), Ulinor central s'enfonce dans la fixation *parce qu'on en parle trop, et trop bien*.
+
+**Cohérence avec Sorin (canon arc) :**
+
+- Sorin **ne traverse pas Ulinor central** dans son arc principal. Il le contourne par la mer (ch. 12 Skaldoria/Torkam, ch. 32 Vallées dhalvoriennes). Cette absence est cohérente : un cartographe du Voile dans la pieuse-fixation ulinorienne aurait été *aspiré* — soit en l'instrumentalisant comme témoin, soit en le rejetant comme infidèle. La cartographie de Sorin demande des seuils ; Ulinor central n'en a pas.
+- **Si Sorin avait visité Jentaris**, il aurait probablement été reçu par une jeune Écho-Guide, observé poliment, écarté sans hostilité au bout de quelques jours. Aucun Écho-Guide ne lui aurait parlé en doctrine. Mirathi ne l'aurait pas reçu (sa formule : *« les voyageurs portent leurs propres voix, ils ne sont pas prêts à entendre les nôtres »*).
+
+**Cohérence avec les religions (Tier A.5) :**
+
+- **Foedus Animae** dominante : ici, dans sa **variante la plus enracinée dans la pieuse-fixation**. Pas de Maisons des Ancêtres formalisées (la communauté est trop décentralisée), mais un *tarif d'attention permanente* qui pèse sur chaque Ulinorien. Comparable à la fiche Foedus pour le piège de l'Instrumentalisation, mais avec une variante locale propre : ici, ce sont les *vivants* qui sont moyens (de la transmission des Anciens) plutôt que les morts.
+- **Vael'Kurash** secondaire : présence dispersée, intégrée au quotidien (offrandes aux esprits de la nature). À Nylor, les Druides de l'Écho sont nominalement Vael'Kari mais leur pratique de résonance est si fortement teintée de Foedus que l'ancrage est ambigu. Quelques Druides isolés portent la frange du Sablier authentique (cf. supra).
+- **Caeloria, Ordo Caelum** : absents en Ulinor central. Quelques émissaires caeloriens d'Azoria ont essayé d'étudier les échos du Canyon ; les Ulinoriens les ont tolérés puis renvoyés (cf. fiche relations). Pattern d'extranéité : Ulinor refuse d'être cartographié par les théocraties extérieures.
+
+**Tonalité d'écriture pour Ulinor central** : registre contemplatif, lent, presque liturgique. Chaque scène doit *paraître pieuse et sobre*. Le piège n'apparaît qu'à la lecture seconde — quand on remarque que rien ne se conclut, que tout s'ajoute, que la pieuse-fixation a un *volume*. Les phrases doivent porter une gravité qui frôle la beauté formelle. Cette beauté est une partie du verrou.
+
+**Aucun PNJ ne nomme jamais le piège.** L'Affaire Selvane est mentionnée dans l'Histoire ; aucun Ulinorien actuel ne dit *« nous fixons les Anciens en croyant les déposer »*. La pieuse-fixation s'avoue dans :
+- le poids matériel des Pierres de Mémoire accumulées dans les ruines ;
+- la longueur croissante des séances d'écoute ;
+- l'ostentation croissante du « message de Mirathi » ;
+- les Écho-Guides qui *ajoutent* à la lecture des ruines au lieu de simplement la transmettre ;
+- les enfants Tatoués qui ne savent pas pourquoi ils ont *ce* glyphe et qui acceptent qu'il les exprime ;
+- la disparition de toute mention de la Septième Tribu dans les chants publics.
+
+**Ratio brisé / relevé** : strict. Pour 1 figure de la frange (Selvane, vieille pêcheuse, certains Korrinor de la haute mine, Druides de Nylor isolés), prévoir 6-8 figures pieuses-fixatrices : Mirathi, ses prédécesseurs, les apprentis Écho-Guides convaincus, les villageois fervents, les chefs tribaux qui appliquent la règle du non-débat, les guetteurs de Talvornis qui voient des silhouettes, les sensitifs de Keldris qui ne rêvent plus.
+
+---
+
+*Liens : [[Ulinor - Continent]] · [[Skaldoria]] · [[Dhalvoria]] · [[../../Histoires/Ulinor/Ulinor|Histoires/Ulinor]] · [[../../Religions/Foedus Animae|Foedus Animae]] · [[../../Religions/Vael Kurash|Vael'Kurash]] · [[../../Chroniques/_arc-sorin|Arc Sorin]]*
 
 ### Régions canoniques (source : Region.csv)
 

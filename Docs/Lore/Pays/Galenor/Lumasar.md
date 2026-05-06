@@ -1,14 +1,20 @@
 ﻿---
-tags: [lore, pays, galenor]
-type: lore
-status: drafted
-last_review: 2026-05-02
+tags: [lore, pays, galenor, lumasar]
+type: nation
+status: canon
+last_review: 2026-05-06
 needs_review_for: []
 ---
 # Lumasar — Le Royaume des Rêves Éveillés
 
 > *« La réalité n'est qu'un voile. À Lumasar, nous apprenons à regarder au travers. »*
 > — Archimage Velestrin, Recteur de l'Académie de Prismalith
+
+> *« Nous étions, voyez-vous, parfaitement disposés à publier votre rapport. La règle, malheureusement, était claire. »*
+> — Verian Soth, Premier Lecteur, à Sorin Valthen, Académie d'Invorial, an 251
+
+> *« Ce qu'on cherche dans le rêve s'éloigne. Ce qui s'approche, on n'a pas pensé à le chercher. »*
+> — Marge d'un cahier de candidat recalé, archives de Drethorn, anonyme
 
 ---
 
@@ -47,6 +53,36 @@ L'événement le plus marquant de l'histoire de Lumasar survint, selon les chron
 Des créatures que les témoins décrivirent comme issues du rêve furent aperçues dans le monde éveillé. Des silhouettes prirent forme. Des merveilles inimaginables apparurent puis s'évanouirent. Quand la lumière revint, Lumasar était changé : les cristaux prismatiques brillaient plus fort, et les praticiens rapportent depuis lors que la magie y est plus accessible, mais aussi plus instable. Les archimages survivants — trois sur cinq moururent pendant l'Éclipse — instaurèrent les **Lois de la Prudence**, un code strict régissant la pratique arcanique.
 
 Depuis la Grande Éclipse, des failles oniriques s'ouvrent parfois sans prévenir, et Lumasar entretient un corps spécialisé de **Veilleurs** chargés de les refermer avant que des entités indésirables n'en émergent.
+
+### L'Institutionnalisation du Rêve (an 60 — encore en cours)
+
+Ce que les chroniques académiques racontent moins volontiers, c'est ce que sont *devenues* les Lois de la Prudence après leur instauration.
+
+À l'origine, les Lois étaient sept articles brefs. Elles étaient *prudentielles* — elles posaient des seuils que tout praticien devait reconnaître. Au cours des deux siècles qui suivirent, les Lois ont accumulé des **Annotations**, des **Précédents**, des **Cas-Types** et des **Bordereaux d'Application**. La prudence est devenue une procédure. La procédure est devenue un examen. L'examen est devenu une carrière.
+
+L'**Examen des Voiles**, qui avait été conçu vers l'an 90 comme un *test d'aptitude onirique fondamentale*, est devenu, en deux siècles, **le dispositif de tri social principal de Lumasar**. Réussir l'Examen, c'est entrer dans le monde institutionnel — accéder aux Académies, aux fonctions d'Archiviste, aux postes de Veilleur, à la possibilité même de plaider devant le Cénacle. *Échouer l'Examen*, c'est être Voilé : libre, certes, mais politiquement invisible, exclu des charges, exclu des registres officiels (les Voilés n'apparaissent dans les recensements que sous une catégorie séparée, *« Population Civile »*, qui est un euphémisme charitable pour *non-comptable politiquement*).
+
+L'ironie galenorienne — qu'aucun Lumasarien ne formule jamais ainsi — est la suivante : **Lumasar prêche que la réalité visible n'est qu'un voile, et fonde toute sa hiérarchie sociale sur la capacité d'un enfant de douze ans à pénétrer ce voile**. Ceux qui *réussissent* sont validés ; ceux qui *échouent* sont, par définition, ceux qui n'ont pas su voir au-delà. La doctrine du *Somnium Vigil* est ainsi placée, sans le dire, en juge de l'existence civile.
+
+Le Cénacle ne décrit pas l'Examen ainsi. Le Cénacle parle de *« vocation »*, de *« reconnaissance des dons »*, de *« vérification des capacités »*. Les Voilés, eux-mêmes, intériorisent cette vision : ils sont *ceux qui n'ont pas le don*. Personne ne se demande publiquement si l'Examen mesure quelque chose de réel ou si, au contraire, il fabrique la chose qu'il prétend mesurer. La question est trop ancienne. Elle a été *classée*.
+
+### Les Voilés et l'Économie de Lumasar
+
+Pour comprendre pourquoi le système tient, il faut voir ce que font les Voilés. Ils sont la majorité — environ sept Lumasariens sur dix. Ce sont les fermiers de Rithmar, les éleveurs de Vythora, les enchanteurs ordinaires de Draynor, les apothicaires de Melithar, les forestiers de Vekrion, les villageois de Hadris, de Thalvar, d'Ondalith. **Ils nourrissent, vêtissent, soignent et logent les Académiciens.** Sans eux, l'Académie de Prismalith mourrait en deux saisons. Sans l'Académie, les Voilés vivraient — peut-être moins richement, peut-être plus paisiblement.
+
+Le rapport de force est, de fait, inverse à ce que la hiérarchie sociale prétend. Les Voilés le savent. Les Académiciens le savent aussi, en privé. Mais aucun des deux n'a intérêt à mettre le rapport au jour, parce que le mythe — *« il y a ceux qui voient, et ceux qui font »* — sert tout le monde à court terme. Les Académiciens conservent leur prestige. Les Voilés conservent leur tranquillité. Le système ne s'effondre pas parce que personne n'a intérêt à le forcer.
+
+C'est la définition même d'une Loi figée séduisante.
+
+### L'Affaire Soth-Valthen (an 251 — discrète, encore vive en 252)
+
+Un cartographe étranger nommé **Sorin Valthen**, banni des Bibliothèques de Kharazir en l'an 251, se présente à l'Académie d'Invorial pour solliciter la publication par la République des Plumes (organe éditorial de Lumasar) d'une cartographie sur laquelle il avait travaillé sept ans. Il est reçu par le Premier Lecteur **Verian Soth**.
+
+L'entretien est célèbre, dans un cercle minuscule de gens qui en ont connaissance, parce qu'il a fonctionné *parfaitement* du point de vue institutionnel. Verian Soth a écouté Sorin pendant deux heures avec une attention réelle. Il a pris des notes. Il a posé des questions précises. Il a reconnu, in petto, la qualité du travail. Puis il a expliqué, avec une politesse qui ne pouvait pas être feinte, que la **règle de Lumasar** voulait qu'aucune publication étrangère ne soit examinée par la République des Plumes sans **lettre de créance d'une Bibliothèque accréditée**. Sorin n'avait plus de Bibliothèque accréditée. Il avait été révoqué. Sa lettre de créance était caduque. Verian ne pouvait *pas* déroger.
+
+Sorin a écrit, plus tard : *« Le décourageant, ce n'est pas la mauvaise foi. C'est la bonne foi mise au service d'une règle injuste. »* La phrase a circulé sous le manteau dans certains cercles érudits de Lumasar, sans être attribuée. Elle est désormais l'un des plus dangereux résumés qu'un visiteur ait fait du pays.
+
+Verian Soth, en l'an 252, est toujours Premier Lecteur. Il a refusé, depuis, deux autres dossiers similaires. Il a appliqué la règle correctement à chaque fois. Il a vieilli. On dit, parmi ses subordonnés, qu'il dort moins. On ne dit rien d'autre.
 
 ---
 
@@ -102,6 +138,14 @@ La cuisine de Lumasar est légère et délicate : infusions de plantes oniriques
 ### Architecture
 
 Les bâtiments de Lumasar sont construits en pierre blanche et en cristal prismatique. Les tours des académies s'élancent vers le ciel, fines et translucides, reflétant la lumière en arcs-en-ciel permanents. Les fenêtres sont rarement en verre — on utilise des plaques de cristal qui filtrent la lumière de manière à induire un léger état méditatif chez les occupants.
+
+### Biais culturels
+
+- **La promesse permanente.** Un Lumasarien éduqué croit que la *prochaine plongée* révélera ce que la précédente n'a pas révélé. Ce ressort entretient la recherche, mais il l'enferme aussi dans une fuite en avant. Le terme local pour cette posture, *« la Promesse Toujours en Avant »*, est utilisé par les Académiciens comme un compliment ; les Voilés s'en servent comme moquerie discrète.
+- **La hiérarchie du voir.** Les Lumasariens classent intuitivement les gens selon leur *capacité supposée à percevoir l'invisible*. Un Archimage est « plus » qu'un Veilleur, qui est « plus » qu'un Initié, qui est « plus » qu'un Voilé. Cette hiérarchie n'est jamais énoncée comme telle — elle est portée dans la façon dont on s'assied à table, dans qui parle en premier dans une assemblée, dans qui reçoit du pain avant les autres. Les visiteurs étrangers le perçoivent immédiatement et trouvent cela soit fascinant, soit insupportable.
+- **L'Examen comme religion civile.** L'Examen des Voiles est, à Lumasar, plus structurant que le calendrier liturgique du *Somnium Vigil*. La date de l'Examen marque l'année. La préparation à l'Examen marque l'enfance. L'échec à l'Examen marque toute une vie. Aucun Lumasarien n'oublie son Examen. Le candidat éternel **Dorien de Falneth**, qui a refusé trente-deux fois de franchir la porte du dortoir sacré, est le symptôme le plus vif de l'emprise psychique de ce dispositif.
+- **L'amour pour les marges, en théorie seulement.** Lumasar célèbre, dans ses textes officiels, les figures qui ont *« échappé au cadre »* — Calmara du *Somnium Vigil* (cf. la fiche religion), les Songeurs sans Herbes, les Marcheurs Sobres. Mais ces figures, in vivo, sont marginalisées. La célébration vient toujours après leur mort. Le pays admire ce qu'il ne tolère pas pendant que ça vit.
+- **Le mépris feutré pour Kharazir.** Beaucoup de Lumasariens parlent de Kharazir avec une condescendance chaleureuse — *« charmant, multiculturel, désordonné »*. La phrase ne dit pas tout. Sous la condescendance, il y a la conviction que Kharazir a *renoncé au voir* en privilégiant la coexistence sur la profondeur. C'est une lecture, parmi d'autres possibles. Elle est rarement contestée publiquement.
 
 ---
 
@@ -385,3 +429,54 @@ Total : **29 villes/villages** réparties sur **5 régions**.
 | Kelanor | Invorial | Ville |
 | Drethorn | Invorial | Village |
 
+---
+
+## Cadre interne — Patterns
+
+> Encadré technique réservé aux rédacteurs et agents travaillant le Lore. N'apparaît jamais in-world.
+
+**Piège Institutionnel dominant : L'Espérance Vide, doublée d'une Loi figée académique.**
+
+1. **Espérance Vide onirique** (piège primaire). Lumasar est fondé sur l'idée que la *prochaine couche* dévoilera ce que la précédente cachait. La doctrine du *Somnium Vigil* (religion principale) entretient cette posture : il y a toujours un voile au-delà du voile. Cette croyance est *vraie* dans une certaine mesure, *vidée* dans une autre — au point qu'elle empêche d'admettre qu'aucune plongée ne peut, à elle seule, *clore* la quête. La quête n'est pas faite pour être close ; elle est faite pour entretenir le rang social de ceux qui plongent. C'est exactement le motif de l'Espérance Vide : un manque permanent maintenu par la promesse perpétuelle. Le piège est *enfoncé* — la doctrine ne lutte pas contre lui, elle le défend comme une vertu (« la curiosité infinie »).
+
+2. **Loi figée académique** (piège secondaire, structurel). Les Académies (Prismalith, Boreluna, Dromolia, Gistenora, Invorial) ont transformé la pratique onirique en cursus codifié. Les Tables, les protocoles, les Lois de la Prudence, l'Examen des Voiles — tout est codifié à un point qui interdit l'interrogation. Verian Soth en est l'incarnation : un homme intelligent, intègre, qui *ne peut pas* déroger à la règle qu'il a passé sa vie à faire respecter. La doctrine n'est plus interrogée ; elle est appliquée.
+
+**Cohérence avec les religions :**
+- *Somnium Vigil* (Effacement de la Limite, cf. fiche) : Lumasar hérite institutionnellement de cette dérive — la pluralité absolue des couches oniriques, dans le système d'Examen, est devenue le critère de tri qui *exclut* (Voilés vs Initiés). Ironie : l'Effacement de la Limite religieux produit, dans son application civile, une Limite très dure (l'Examen).
+- *Ordo Caelum* secondaire (Loi figée) : renforce le pli académique. Les astronomes de Boreluna sont les meilleurs exemples du caelumite mature — précis, méthodiques, fermés à l'idée que les Tables puissent vieillir.
+
+**Âge moral collectif majoritaire : La Loi.** Les Lumasariens ordinaires (Académiciens et Voilés confondus) appliquent les rôles que l'Examen leur a attribués. Le Désir affleure chez les chercheurs de mousse onirique de Torenlith, chez les Veilleurs en érosion de Sylthronis, chez les rêveurs marchands. Le Principe est *exceptionnellement* rare — quelques Songeurs sans Herbes, quelques Voilés lucides comme Corven de Rithmar (cf. *Histoires de Lumasar*).
+
+**Figure-clé portant la Vertu Cachée :**
+
+**Dorien de Falneth** (an 219 — toujours vivant en 252, environ 33 ans). Étudiant éternel. A échoué trente-deux fois à passer l'Examen des Voiles, *non par incapacité* (il en a la capacité de niveau Archimage, comme l'a découvert l'inspecteur Andren — cf. cohérence : voir aussi le tuteur **Andren de Drethorn**, an 215, capacité onirique avérée, qui a échoué *trois fois* et enseigne en marge). Dorien a *refusé* l'Examen parce qu'il a compris, par étude, que la franchir signifierait quelque chose qu'il ne supporte pas — peut-être *se réveiller* hors d'un monde qu'il a appris à aimer.
+
+**Vertu portée :** **Le Tranchant** (Vertu #4). Dorien dit non, indéfiniment, à ce qui est *promis* comme l'aboutissement naturel de sa formation. Sa vie entière est ce refus. Il n'enseigne pas ce refus ; il enseigne d'autres à passer ce qu'il refuse. Sa Vertu est silencieuse, *coûteuse* (il vit petitement, sans charge, sans titre, sans pouvoir politique), et *gratuite* (rien dans le système ne le récompense — il est, au contraire, un homme dont les voisins se moquent gentiment).
+
+**Mort marquante** : Dorien ne meurt pas dans l'arc actuel. Sa figure est en cours. Il *mourra* obscur, probablement entre 60 et 70 ans, dans la petite chambre qu'il loue à Falneth, entouré de ses notes que personne d'autre que lui ne saura interpréter. Aucun monument, aucune cérémonie. Quelques anciens élèves devenus Archimages prononceront son nom à mi-voix lors de leur propre fin. C'est tout.
+
+**Figure-clé secondaire :**
+
+**Selendris** (mentionnée *Histoires de Lumasar — L'Archimage qui Dort*, an 196 — encore vivante en 252, 56 ans). Fille de l'Archimage Veyren plongé en coma onirique depuis quarante-sept ans. Porte **La Charge** (Vertu #1) : assume la garde de son père sans réclamer reconnaissance, même quand celui-ci, ayant brièvement émergé, lui demande explicitement de *ne pas venir le chercher*. Selendris, en filigrane, sera *la Lumasarienne qui reconnaîtra les coordonnées du père de Sorin Valthen* (an 254, à Lumasar, lors du dépôt de la synthèse). Cette reconnaissance sera *son* moment de Charge mature — non pour l'arracher à sa garde paternelle, mais pour confirmer que les coordonnées que son père prononce depuis quarante-sept ans correspondent à un point que Sorin a, lui aussi, cartographié.
+
+**Conflit moteur de la nation :**
+
+**La tension entre la Plongée et le Voile.** Lumasar est obsédée par le *voir au-delà*. Mais Lumasar est aussi obsédée par le *voile* (au sens de la Vertu : le doute, l'aveu d'ignorance). Officiellement, le pays prêche le doute (*Somnium Vigil*). Officieusement, son Examen tranche. Cette contradiction est la gravité durable du pays : on ne peut pas être *à la fois* la nation qui doute et la nation qui certifie qui voit.
+
+La **Sixième Académie** (faction clandestine évoquée dans les Secrets et Intrigues) tente, avec une violence contraire mais homologue, de résoudre la contradiction par la force. Le Cénacle, lui, la tient en suspens, par procédure. Aucune des deux n'aboutira parce que la contradiction est *constitutive* du pays.
+
+Quand un Lumasarien meurt avec lucidité, il dit souvent une variante de cette phrase : *« J'ai passé ma vie à chercher la couche en dessous. Je n'ai pas regardé celle où j'étais. »* La phrase n'est pas dans les manuels. Elle circule.
+
+**Ce qui est *spécifiquement* lumasarien (à ne pas dupliquer ailleurs) :**
+
+- L'Examen des Voiles comme dispositif de tri social *fondé sur la doctrine religieuse*.
+- La hiérarchie sociale ouvertement basée sur la perception de l'invisible.
+- Les failles oniriques comme infrastructure (Veilleurs, Sylthronis, Lois de la Prudence).
+- La fusion entre Académie et État (un Recteur est aussi un dirigeant).
+- Le binôme Voilé/Initié, qui n'a pas d'équivalent ailleurs.
+
+**Ratio brisé / relevé pour Lumasar** : pour chaque figure du Principe (Dorien, Selendris, Andren, Corven, Veldris l'astronome aveugle), prévoir 4-6 figures de la Loi *séduisantes* (Thalendris Prismor le Grand Recteur prophétique, Verian Soth le Premier Lecteur juste, archimages méthodiques, Veilleurs en érosion qui ne sortent pas, Voilés résignés). Ne jamais énoncer le piège.
+
+---
+
+*Liens : [[Histoires/Galenor/Lumasar|Histoires de Lumasar]] | [[Chroniques/_arc-sorin|Arc de Sorin Valthen]] | [[Religions/Somnium Vigil|Somnium Vigil]] | [[Religions/Ordo Caelum|Ordo Caelum]] | [[Galenor - Continent]]*

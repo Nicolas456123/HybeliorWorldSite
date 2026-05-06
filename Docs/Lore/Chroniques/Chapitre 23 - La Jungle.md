@@ -2,7 +2,7 @@
 tags: [lore, chronique]
 type: lore
 status: drafted
-last_review: 2026-05-02
+last_review: 2026-05-06
 needs_review_for: []
 ---
 # Chapitre 23 — La Jungle Éveillée
@@ -190,7 +190,7 @@ Je continuai de marcher.
 
 *Ils arrivent par le dessous.*
 
-Je ne sais pas encore ce que cela signifie. Je sais que ce n'est pas une métaphore. Je sais que les esprits de Warenthor, quand ils ont parlé pour la dernière fois avant de se taire, ont choisi cette phrase précisément — ont choisi de localiser ce qu'ils fuyaient. Je sais que la Carte du Silence que je transporte a été tracée par quelqu'un qui savait des choses sur la forme du monde que les cartes ordinaires ne montrent pas.
+Je sais que les esprits de Warenthor, quand ils ont parlé pour la dernière fois avant de se taire, ont choisi cette phrase précisément. *Ils* — j'enregistre le pluriel sans antécédent, c'est la formule telle qu'elle a été reçue, je n'ai pas à l'arranger. Je sais que la Carte du Silence que je transporte a été tracée par quelqu'un qui savait des choses sur la forme du monde que les cartes ordinaires ne montrent pas.
 
 Et je sais que Celethor est de l'autre côté. Que c'est là-bas que les lignes convergent.
 

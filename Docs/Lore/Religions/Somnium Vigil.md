@@ -1,8 +1,8 @@
 ﻿---
-tags: [religion, lore, cosmologie, refonte-2026-05]
+tags: [religion, lore, cosmologie, refonte-2026-05, veines-philo]
 type: lore
 status: drafted
-last_review: 2026-05-02
+last_review: 2026-05-06
 needs_review_for: [enrichissement-doctrinal-V4]
 nom_latin: Somnium Vigil
 entites_venerees: [Somnix, Realis, Aurion]
@@ -122,5 +122,96 @@ L'**Accord** (cf. [[L'Accord]]) est interprété comme la mesure d'**éveil** du
 **Sillage actuel (an 251)** : doctrine mature mais en attente. Le **septième réveil d'Inéa** est attendu — c'est l'un des **mystères majeurs** du présent (cf. GDD/24 §"Conditions cachées 🔒"). Les **cauchemars collectifs récurrents** (cf. [[Era 1a - Les Cosmiques]] §Somnix : "agité — cauchemars collectifs synchrones") inquiètent — Somnix essaie de communiquer quelque chose, mais quoi ?
 
 ---
+
+## Doctrine officielle
+
+La doctrine Somnium Vigil ne tient pas dans un livre. Elle tient dans une **pratique** — celle de la *Veille Multiple* — et dans un corpus mouvant de récits oniriques tenus par les Vigili, le **Grand Tissu**, qui s'enrichit sans cesse et n'est jamais clos. À l'Académie Onirique de Lumasar, on enseigne aux novices que *« le Tissu n'a pas de bord ; quand vous croyez en avoir trouvé un, vous avez juste rêvé un mur »*. Cette formule est doctrinale.
+
+L'enseignement officiel articule trois affirmations. **D'abord**, la réalité éveillée est **une couche parmi d'autres** — pas la première, pas la plus vraie, pas la plus profonde. Elle est seulement la plus *dense*. Les autres couches (rêve léger, rêve profond, rêve partagé, rêve d'éveil, rêve d'avant-naissance, rêve d'après-mort) sont également légitimes, et la qualité spirituelle d'un fidèle se mesure à sa capacité à *circuler entre elles*. **Ensuite**, **toute vision a sa vérité** : un rêve qui contredit un autre rêve n'est pas faux ; il est simplement *autre*. La hiérarchie des visions est elle-même une projection éveillée, à dépasser. **Enfin**, le **septième réveil d'Inéa** révélera ce que les six premiers ont approché — mais aucun Vigili sérieux ne prétend savoir quoi.
+
+Les sermons publics, donnés à la lune sombre, ouvrent invariablement sur la formule :
+
+> *« Ce que tu vois éveillé n'est qu'une des vérités du monde. Ce que tu rêveras cette nuit en est une autre. Ne demande pas laquelle est juste — demande seulement laquelle te visite. »*
+
+Les pratiques sont nombreuses et d'une grande diversité régionale. **À Lumasar**, l'Académie Onirique tient un **Bureau des Visions** où les fidèles viennent déposer leurs rêves, classés selon huit catégories (rêve-fil, rêve-mur, rêve-eau, rêve-ouvert, rêve-clos, rêve-vide, rêve-double, rêve-noir). Les rêves répétitifs ou marquants sont étudiés par les *Tisseurs d'Académie*, qui produisent des *Lectures* — non pas des interprétations univoques, mais des **constellations de sens**, listant tous les axes possibles. Une Lecture de référence peut faire vingt pages pour un rêve de quatre lignes.
+
+**À Vytharia**, les *Cercles de Sommeil Partagé* réunissent sept à treize dormeurs sur des nattes disposées en étoile, sous l'effet d'**Herbes de Somnix** légèrement infusées. L'objectif est de *converger sur un même paysage onirique*. Les chroniques de Vytharia compilent des centaines de cas de convergence partielle — fidèles qui se retrouvent au matin avec des descriptions concordantes d'un lieu jamais vu en éveil. La doctrine officielle considère ces convergences comme des **preuves expérimentales** de la pluralité des couches.
+
+**À Baelor**, la pratique est plus ascétique : les *Rêveurs de Falaise* méditent en silence pendant des semaines, parfois des mois, jusqu'à entrer dans des transes sans substance. Les *Veilleurs Permanents* — issus du Souffle des Yeux Ouverts (an 234) — y trouvent souvent refuge ; ils ne dorment plus que par fragments, et leur état liminaire est tenu pour particulièrement sacré.
+
+Le **Calendrier des Réveils** structure les fêtes principales : neuf nuits par an dédiées aux six réveils déjà accomplis d'Inéa, et une nuit — toujours mobile, toujours secrète, fixée par la Crypte d'Inéa elle-même — dédiée au septième réveil *à venir*. Cette nuit-là, on ne dort pas. On *attend*.
+
+---
+
+## Vie quotidienne
+
+Une cité Somnium Vigil se reconnaît à sa **lumière basse**. Les Vigili tiennent doctrinalement que la lumière forte *raidit* l'esprit et appauvrit les visions. À Lumasar, le quartier de l'Académie est éclairé la nuit par des lampes-de-rosée — globes de verre teinté à diffusion lente — qui créent une pénombre dorée perpétuelle. Les visiteurs étrangers s'y endorment souvent assis. Cet effet est désiré : on dit, à l'Académie, que *« la ville rêve par ses rues »*.
+
+Le clergé Vigili n'a pas de hiérarchie stricte. Il y a des **Tisseurs** (interprètes établis), des **Veilleurs** (gardiens de pratiques particulières), des **Songeurs** (Vigili qui n'enseignent pas mais qui rêvent et déposent), et des **Errants** (Vigili sans poste fixe, qui vont d'une cité à l'autre). Le passage entre ces statuts est libre : un Tisseur peut redevenir Errant, un Songeur peut être nommé Tisseur. Aucun examen, aucun rite de promotion fixe. La doctrine considère qu'**imposer une hiérarchie reviendrait à fermer une couche**. Cette horizontalité est l'une des grandes singularités de la religion. Elle a un prix — sur lequel les tensions internes reviennent.
+
+Les **Herbes de Somnix** sont d'usage courant, presque banalisé. Cinq variétés principales : *grise* (rêve léger, sociable), *bleue* (rêve profond, prophétique), *noire* (rêve d'avant-naissance, rare), *blanche* (éveil prolongé), *rouge* (interdite à l'usage profane, réservée aux Tisseurs avancés — induit des transes pouvant durer dix-sept jours). L'infusion grise se prend dans presque toutes les maisons fidèles, le soir, comme un thé. À Vytharia, on l'offre aux invités au lieu du vin.
+
+Les fêtes sont nocturnes. **La Nuit-de-Convergence** (équinoxe d'automne) rassemble les fidèles d'une ville entière dans des Cercles communs ; on y consomme l'herbe bleue ; au matin, les Tisseurs collationnent les rêves et publient une *Vision-de-Ville* qui circule comme oracle. **La Nuit-Blanche** (solstice d'été) est jeûne du sommeil : les fidèles doivent rester éveillés vingt-quatre heures, marcher dans les rues, écouter le bruit des autres. **La Nuit-Mobile** (date secrète, Inéa) est tenue par les sept gardiens héréditaires ; le reste du clergé l'apprend deux jours avant.
+
+Détail important : les Vigili **n'ont pas de lieu sacré central interdit**. La Crypte d'Inéa elle-même est *secrète* mais pas *interdite* — quiconque trouverait son entrée pourrait y descendre. La doctrine considère que *« ce qu'on protège par un mur est déjà mort »*. Cette absence de seuil est en soi un trait spirituel — qui se retournera, en certains points, contre la religion.
+
+Les enfants Vigili sont initiés aux **rêves dirigés** dès l'âge de cinq ou six ans, par un Tisseur de famille. Ils apprennent à *demander* à rêver de quelque chose, à *garder* un rêve au matin, à le *raconter sans honte*. Cette formation produit, au sein de la population Vigili, une éloquence onirique remarquable : un enfant de huit ans peut tenir une description précise d'un paysage de rêve pendant une demi-heure. Les voyageurs étrangers en sont souvent troublés.
+
+---
+
+## Tensions internes
+
+Trois lignes de friction traversent la religion — toutes trois liées au même nœud.
+
+**Première ligne : la question des seuils.** Une frange minoritaire mais croissante du clergé — les ***Marcheurs Sobres*** — soutient que la doctrine officielle est en train de **se diluer dans son propre succès**. Trop de rêves sont reçus comme légitimes ; trop d'herbes circulent ; trop de visions sont validées sans tri. Le résultat, selon eux, est qu'on **ne croit plus à rien** : la pluralité des couches s'est transformée en *équivalence des couches*, ce qui est doctrinalement faux et spirituellement creux. Les Marcheurs Sobres prônent une discipline stricte : pas d'herbes pendant un an d'initiation, pas de rêves partagés tant qu'on n'a pas tenu sept rêves seul, refus du Bureau des Visions comme tribunal de validation. Leur formule interne : *« Il faut savoir ne pas rêver pour savoir rêver. »* L'Académie Onirique de Lumasar les considère comme une **dérive austère**. Ils sont peu nombreux. Ils gagnent en influence.
+
+**Deuxième ligne : les Veilleurs Permanents.** Les survivants du Souffle des Yeux Ouverts (an 234), incapables de dormir plus de deux heures par nuit, sont devenus une catégorie sacrée. La doctrine les tient pour des **témoins du seuil** — fidèles dont l'incapacité à dormir profondément est une grâce. Mais en pratique, beaucoup de Veilleurs Permanents sont **épuisés**, dépressifs, et meurent jeunes. Leur état est romantisé par le clergé urbain. Quelques Marcheurs Sobres soulignent — toujours à voix basse — que la religion *exploite* leur fatigue pour donner du poids à sa doctrine. Le sujet est tabou. Personne ne le formule publiquement. Mais dans les correspondances privées de quelques Vigili lumasariens, on trouve des phrases comme : *« Aurelva est morte cette nuit. Elle avait trente-deux ans. Nous lui ferons les honneurs des grands rêveurs. Je ne sais plus si cela est juste. »*
+
+**Troisième ligne : les rêveurs profanes.** À Vytharia et à Lumasar, des cercles de **rêveurs non-Vigili** se sont formés — des amateurs, des nobles, des artistes — qui se procurent les Herbes par des canaux marchands et tiennent des Cercles privés. La doctrine officielle ne les condamne pas (par principe d'horizontalité). Mais le clergé observe que ces Cercles produisent des **rêves marchandises** — visions sur commande, oracles personnels, prophéties de carrière. Quelques Tisseurs ont tenté de réguler. Le Concile informel des Tisseurs a refusé : réguler, c'est introduire un seuil. La frange Marcheurs Sobres considère ce refus comme **la trahison structurelle** de la religion — *« nous avons cessé de pouvoir dire non »*. Ils ont peut-être raison.
+
+Plus discrète encore : depuis quinze ans, un nombre croissant de Songeurs **arrêtent simplement de prendre les Herbes**. Ils continuent de pratiquer la Veille Multiple par méditation seule. Ils ne forment pas un mouvement. Ils ne se reconnaissent pas entre eux. Ils sont, peut-être, en train de faire à la religion ce que Mara Telventh a fait à Rota Mundi — sans porte-parole, et sans réforme officielle.
+
+---
+
+## Lecture du monde
+
+Somnium Vigil lit l'**Arrachement** comme la **confirmation onirique** de la doctrine : les sept nuits de cauchemars collectifs planétaires sont, pour les Vigili, la preuve que les rêves sont bien le canal par lequel les grandes vérités cosmiques circulent. *« Quand le monde est blessé, c'est dans les rêves qu'il saigne. »* Cette lecture est *trop* confortable, et plusieurs Marcheurs Sobres la critiquent comme un confort doctrinal qui empêche de penser le réel — *« nous avons converti une catastrophe en faveur. »*
+
+Les **Souffles cycliques** sont lus comme **changements de rêve cosmique**. Chaque ère est un rêve différent que Somnix tient pour Hybélior ; le Souffle est le moment où le rêveur se retourne dans son sommeil. Cette lecture rend la religion remarquablement préparée aux **présages annonciateurs** — les Vigili sont parmi les meilleurs interprètes des rêves prophétiques collectifs qui précèdent les Petits Souffles. Ils prédisent moins bien la magnitude que les Roteri, mais ils ressentent plus tôt l'imminence. C'est une compétence reconnue par les nations qui les consultent.
+
+La **Polyphonie** est embrassée plus que comprise. Pour les Vigili, elle est **structurelle** : il y a toujours plusieurs voix, plusieurs couches, plusieurs vérités, et c'est l'ordre normal du monde. Cette posture a un coût : elle empêche la religion de **discriminer** entre voix vraies et voix fausses. Ce qui, dans les autres religions, serait un défaut, est ici érigé en doctrine. Les Marcheurs Sobres y voient le piège fondamental — *« quand tout est vrai, plus rien n'est vrai »*. Le clergé majoritaire répond qu'au contraire, c'est le refus de hiérarchiser qui ouvre les couches. Les deux camps utilisent le même mot — *vrai* — pour désigner deux choses différentes.
+
+Les **Cosmiques retirés** sont lus comme **rêveurs qui rêvent ailleurs**. Somnix n'est pas absente : elle rêve à un autre rythme, un rêve où Hybélior n'est qu'un détail. Cette formule est consolante. Elle est aussi indistinguable, en pratique, d'une affirmation qu'**il n'y a plus rien à attendre** — distinction qui, encore une fois, ne sera pas tranchée par la doctrine, parce que la doctrine refuse les tranchants.
+
+---
+
+## Une figure historique — Calmara Sept-Murs (~+121 à +201 du Sillage)
+
+Tisseuse à l'Académie Onirique de Lumasar pendant trente-six ans, *Calmara Sept-Murs* est la figure la plus citée de la frange ascétique de Somnium Vigil — celle qui a posé les bases doctrinales des **Marcheurs Sobres** sans jamais en revendiquer la fondation, et qui est morte en disgrâce silencieuse à la marge même de l'institution qui l'avait élevée.
+
+Née à Lumasar dans une famille de scribes-médecins, Calmara entre à l'Académie à dix-neuf ans, devient Tisseuse à vingt-neuf — précocité rare. Pendant ses quinze premières années, elle est une *Tisseuse exemplaire*, multipliant les Lectures, présidant les Cercles de Sommeil Partagé, défendant la doctrine de la pluralité avec brio. Ses *Lectures du Mur* — études sur les rêves de cloisonnement — sont enseignées encore aujourd'hui.
+
+À quarante-six ans, elle cesse progressivement de prendre les Herbes. Elle continue d'enseigner. Ses élèves notent qu'elle interroge davantage : *« Es-tu sûr d'avoir rêvé ? Es-tu sûr de ne pas avoir composé ? À quelle distance étais-tu de toi pendant ce rêve ? »* Ces questions, doctrinalement orthodoxes, deviennent dans sa bouche progressivement plus tranchantes.
+
+Elle écrit, à partir de +163, une longue série de **lettres à des correspondants extérieurs** : Lethanis Vor-Ostrun (Première Lectrice d'Astravia, cf. Ordo Caelum), des Concilières Roteri, un Vael'Kari d'Ulinor. Ces lettres, partiellement conservées, montrent une femme qui doute de plus en plus de l'horizontalité de sa religion. Une de ses formules, citée par les Marcheurs Sobres modernes :
+
+> *« Nous avons appris à accueillir tous les rêves. Nous avons oublié comment refuser ceux qui nous font du mal. La pluralité est devenue notre paresse. »*
+
+À soixante-douze ans, elle propose à l'Académie un **Code des Initiations Sobres** — une discipline minimale (pas d'herbes pendant la première année, pas de Cercles partagés avant le septième rêve solitaire, pas de Bureau des Visions avant trois ans). Le Concile informel des Tisseurs débat pendant deux ans. La proposition est rejetée à une majorité courte. Elle aurait introduit un seuil ; le clergé majoritaire considère que le seuil tuerait la religion.
+
+Calmara démissionne de l'Académie à soixante-quinze ans. Elle s'installe dans un quartier modeste de Lumasar, continue d'enseigner à un petit nombre d'élèves — qu'on appellera plus tard les *Sept Sobres* — et meurt à quatre-vingts ans, sans honneurs, dans une chambre où il n'y a aucune Herbe, aucune lampe-de-rosée, aucun objet rituel. Sa dernière phrase rapportée, par l'élève qui était présente : *« J'ai rêvé moins ces dernières années. Je vois mieux ce que je vois. »*
+
+L'Académie ne lui a pas dédié de Lecture commémorative. Ses lettres à Lethanis ont été retrouvées par hasard dans une chemise non répertoriée, longtemps après les deux femmes. Les *Sept Sobres* ont essaimé. Le mouvement des Marcheurs Sobres, aujourd'hui, ne se réclame pas formellement de Calmara — mais cite régulièrement la phrase sur la *paresse* sans toujours en connaître la source. C'est, peut-être, exactement la postérité qu'elle aurait souhaitée.
+
+---
+
+## Cadre interne — Patterns
+
+> Encadré technique réservé aux rédacteurs. Ne jamais affleurer in-world.
+
+- **Piège Institutionnel dominant : L'Effacement de la Limite.** Somnium Vigil refuse les seuils par doctrine : pas de hiérarchie de vérité entre couches, pas d'examen, pas de promotion fixe, pas de lieu interdit, pas de discrimination entre rêve sacré et rêve marchandise. Le résultat est un clergé séduisant, accueillant, intellectuellement vif — et qui glisse, sur trois ou quatre générations, vers une équivalence généralisée où plus rien ne pèse vraiment. Le piège est *enraciné* : la doctrine officielle ne lutte pas contre, elle le défend comme une vertu. La frange Marcheurs Sobres / Songeurs sans Herbes est en lutte minoritaire — elle perd pour l'instant.
+- **Âge moral collectif majoritaire : Le Désir.** La pratique Vigili — Herbes, Cercles, fascination pour les visions — fonctionne largement par recherche de ce qui plaît à ressentir. Les Veilleurs Permanents fuient l'éveil ; les rêveurs profanes recherchent des oracles personnels ; le clergé majoritaire valide ce qui est intéressant à rêver. C'est l'une des religions où la majorité reste dans le Désir, contrairement aux autres traditions plus solidement installées dans la Loi. Une minorité (Marcheurs Sobres) commence à passer à la Loi par construction d'une discipline ; une minorité encore plus restreinte (Songeurs sans Herbes, Calmara) approche le Principe.
+- **Vertu Cachée affleurante : Le Tranchant.** Ce qui peut être attrapé par un fidèle attentif, c'est la capacité à **dire non** — à un rêve, à une Herbe, à un Cercle, à une Lecture validatrice. La phrase de Calmara (*« Nous avons oublié comment refuser ceux qui nous font du mal »*) en est la formulation la plus nette. Elle affleure dans les Marcheurs Sobres, les Songeurs sans Herbes, les correspondances privées des Tisseurs en doute. Elle ne deviendra pas doctrine officielle.
+- **Note de friction** : la séduction de la doctrine est le piège lui-même. Ne jamais la dénoncer dans le texte — au contraire, la rendre attirante. Le lecteur doit comprendre pourquoi tant de gens y croient avant de sentir, par friction, ce que la pluralité absolue coûte. La figure de Calmara doit rester sans triomphe.
 
 *Liens : [[00 - Système Religieux]] | [[Era 4 - L'Arrachement]] | [[Le Souffle]] | [[Cosmologie]] | [[Histoire d'Hybelior]]*

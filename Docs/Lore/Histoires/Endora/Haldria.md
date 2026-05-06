@@ -2,12 +2,15 @@
 tags: [lore, histoire, endora]
 type: lore
 status: drafted
-last_review: 2026-05-02
+last_review: 2026-05-06
 needs_review_for: []
 ---
 # Histoires de Haldria
 
 > *Chaque ville a ses cicatrices. Voici celles qui ne guerissent jamais.*
+
+> *Haldria a institué l'observation. Elle a oublié, en chemin, que regarder le même point pendant cinq siècles ne dit pas que le ciel n'a pas bougé.*
+> *— Marge anonyme, archives de Tyrolis, env. an 230.*
 
 ---
 
@@ -102,3 +105,131 @@ Cinquante ans plus tard, son travail fut redecouvert et verifie par de nouveaux 
 Les quatre etoiles restantes sont encore debattues.
 
 Sa carte est maintenant exposee dans la Grande Bibliotheque de Hekorinth. On l'appelle "la carte des disparitions". Les astronomes la regardent avec un malaise qu'ils ne savent pas exactement nommer.
+
+---
+
+## Zaldrin — « Veidra, qui n'envoyait plus de révisions »
+
+Veidra naquit à Zaldrin en l'an 134, dans la lignée des ermites-astronomes qui peuplaient l'île la moins cartographiée de l'archipel. Sa mère et sa grand-mère avaient tenu le même poste avant elle. Le poste, à Zaldrin, n'était pas un emploi — c'était un héritage, une position héritée d'une convention vieille de deux cents ans entre la famille royale et les premiers habitants : Zaldrin n'apparaîtrait pas sur les cartes, et en échange, les Astrologues de la Couronne auraient un accès exclusif aux observations de l'île.
+
+Veidra apprit à observer avant d'apprendre à lire. Sa grand-mère lui montrait les constellations en pointant le ciel, en nommant les positions, en faisant compter à l'enfant les écarts en degrés. À douze ans, Veidra connaissait toutes les Tables stellaires par cœur. À quinze, elle avait commencé à noter, en marge de son cahier d'observations, des **décalages** entre ce que les Tables indiquaient et ce qu'elle voyait.
+
+À vingt-trois ans, elle envoya sa première révision à Hekorinth. Une étoile mineure de la constellation du Cavalier. Position canonique : telle. Position observée à Zaldrin sur cinq nuits consécutives : telle, autre, écart d'environ un demi-degré. La lettre était brève, polie, technique.
+
+La Couronne accusa réception. La révision fut consignée dans les archives. Elle ne fut pas adoptée. Veidra ne s'en émut pas — elle était jeune, et pensait que les révisions s'accumulaient avant d'être validées.
+
+Elle envoya une deuxième révision deux ans plus tard. Puis une troisième. Puis une dixième. À quarante ans, Veidra avait envoyé soixante-trois révisions techniques. Aucune n'avait été adoptée. Toutes avaient été accusées en réception. La correspondance, méticuleusement classée à Zaldrin et à Hekorinth, montrait une institution polie qui *recevait sans intégrer*.
+
+Vers ses cinquante-cinq ans, Veidra cessa d'envoyer des révisions.
+
+Pas par dépit. Pas par colère. Elle continua de répondre aux questions reçues — les Astrologues, en privé, lui en posaient régulièrement, et elle répondait avec la même rigueur. Mais elle cessa de proposer.
+
+À la place, elle commença à écrire autre chose. Dans des cahiers qu'elle ne destinait à personne, elle nota non plus *où sont les étoiles*, mais *comment se tiennent celles qu'on regarde*. Elle nota la lenteur d'apparition d'une constellation à l'horizon, la qualité de scintillement d'une étoile mineure, le moment où une certaine paire de constellations *« entre en conversation »* dans son ciel. Elle inventa des mots pour décrire ce qu'elle voyait. Aucun des mots ne ressemblait au vocabulaire des Tables.
+
+Un soir, elle écrivit dans une marge — le passage est cité aujourd'hui dans plusieurs cahiers d'apprentis qui n'ont pas le droit de le citer officiellement : *« la constellation de Haldros n'est peut-être plus là où il l'a vue. Elle est peut-être ailleurs. Personne ne pense à regarder ailleurs. »*
+
+Elle ne formalisa jamais cette intuition. Elle n'envoya pas de révision portant sur la constellation fondatrice. Elle savait, depuis trente-cinq ans, qu'on ne l'écouterait pas — ou plutôt qu'on l'écouterait, qu'on accuserait réception, qu'on classerait, et qu'on continuerait à scruter le point d'origine. Le coût de l'envoi serait nul. Le bénéfice aussi.
+
+Veidra mourut à soixante-quatre ans, en l'an 198, d'une fièvre. Elle laissa trente-deux cahiers. Les ermites-astronomes de Zaldrin les transmirent à la Couronne, comme le voulait l'accord. Les cahiers furent déposés dans une salle des archives où l'on classe ce qui n'a pas de catégorie. On en référença l'existence. On ne les ouvrit pas.
+
+Cinquante ans plus tard, en l'an 246, une jeune apprentie d'Hekorinth qui cherchait une référence sur les écarts d'observation tombait par hasard sur le quatorzième cahier de Veidra. Elle le lut. Elle nota la phrase sur la constellation de Haldros. Elle écrivit un mémoire mineur la citant.
+
+Le mémoire fut lu poliment et classé. La Couronne continua d'observer le point fixe. La constellation, depuis Haldros, n'a pas reparu à cet endroit.
+
+Personne, à ce jour, n'a regardé ailleurs.
+
+Sur la pierre tombale de Veidra à Zaldrin, suivant l'usage local des ermites-astronomes, on a gravé les coordonnées d'observation de l'île — sans nom. C'est l'épitaphe que la lignée donne à ses morts. Aucune des trois nièces qui ont repris le poste n'a remis cet usage en question.
+
+---
+
+## Galorin — « Le Phare qui ne s'éteignait plus »
+
+La flamme du phare de Galorin n'avait pas faibli depuis cinq siècles, à une exception près — la nuit de la Grande Tempête, deux siècles plus tôt, où le gardien s'était noyé et où trois navires s'étaient brisés sur les récifs. Le gardien suivant, fils du noyé, avait reconstruit le système de sorte que la flamme ne s'éteigne plus *jamais*. Il avait réussi. Son fils l'avait perfectionné. Son petit-fils l'avait sophistiqué encore. Aujourd'hui, le phare de Galorin avait une flamme triple, des réservoirs de secours pour un mois, et un protocole d'entretien si méticuleux que l'extinction était matériellement impossible.
+
+Mariden était la gardienne actuelle. Sixième génération. Son père lui avait confié la charge à dix-neuf ans, en lui répétant ce que tous les pères Galoriens répétaient : *« la flamme ne doit jamais s'éteindre. Pas parce qu'elle nous protège. Parce que nous le devons aux morts. »*
+
+Mariden tenait. Elle aimait son travail. Elle savait par cœur les niveaux des réservoirs, les positions des mèches, les vents qui pouvaient menacer la stabilité de la flamme. Elle dormait à côté du foyer central, dans une petite pièce dont la cloison vibrait quand quelque chose n'allait pas. Elle ne s'éveillait jamais en sursaut sans raison.
+
+Une nuit, elle s'éveilla sans raison.
+
+Le foyer central brûlait. Les trois mèches étaient stables. Les réservoirs étaient pleins. Aucun vent n'agitait la cloison. Mariden vérifia tout. Tout allait. Elle resta éveillée jusqu'à l'aube, sans comprendre ce qui l'avait réveillée.
+
+À l'aube, un capitaine d'Uldarin frappa à la porte. *« Le phare était éteint cette nuit, »* dit-il. *« On a manqué de se briser. »*
+
+Mariden refusa la phrase. *« Le phare brûle. Il a brûlé toute la nuit. Vous avez confondu avec autre chose. »* Le capitaine insista. *« Je l'ai regardé pendant deux heures. Pas de lumière. Aucune. »*
+
+Mariden vérifia ses cahiers. La flamme avait brûlé. Le combustible avait été consommé à un rythme normal. Toutes les mesures étaient cohérentes. *La flamme ne s'était pas éteinte.* Le capitaine en était certain. *Le capitaine ne l'avait pas vue.*
+
+Mariden envoya un courrier à Hekorinth. Le bureau des phares lui répondit avec la formule habituelle : tenir le journal, vérifier les mesures, signaler tout incident. Elle vérifiait. Elle signalait. Aucun incident n'apparaissait dans ses mesures.
+
+Au cours des saisons suivantes, trois autres capitaines vinrent rapporter la même chose : telle nuit, à telle heure, le phare était invisible. Toujours par temps clair. Toujours pendant que Mariden, à son poste, voyait la flamme brûler. Le bureau des phares classa les rapports comme *« observations non concordantes »*. Personne ne tira de conclusion.
+
+Mariden, à quarante ans, prit l'habitude, certaines nuits, de descendre sur la falaise et de regarder son propre phare depuis la mer. Sept fois sur huit, la flamme brûlait, visible, fière. La huitième fois, elle ne brûlait pas. Mariden voyait la nuit noire, le ciel froid, la mer indifférente. Elle remontait. La flamme brûlait dans la lanterne. Le combustible avait été consommé. Tout allait.
+
+Mariden ne raconta cela à personne. Pas même à son fils, qu'elle formait à la charge. Elle le forma comme on lui avait appris : à entretenir, à vérifier, à tenir. Elle ne lui dit pas qu'on tient parfois quelque chose qui ne se voit plus.
+
+À soixante-deux ans, elle prit sa retraite. Son fils tient la charge. Il n'a pas, à ce jour, signalé d'incident.
+
+Mariden vit dans la maison du gardien, à côté du phare. Certains soirs, elle descend sur la falaise. Parfois elle voit la flamme. Parfois elle ne la voit pas. Elle remonte. Elle ne dit rien à son fils.
+
+---
+
+## Tyrolis — « La Carte qui assumait son blanc »
+
+Erys était cartographe à Tyrolis. Apprentie depuis quatre ans, elle s'apprêtait à signer sa première carte officielle — un relevé de la côte sud-est de Ravantis, commande d'un négociant de Ravindor.
+
+La règle de Tyrolis était stricte : toute carte produite devait comporter une **zone blanche** délibérée. Une portion de mer non cartographiée, laissée vierge comme rappel que la connaissance a des limites. C'était la tradition la plus ancienne du village.
+
+Erys avait travaillé six mois sur cette côte. Elle la connaissait. Elle avait marché chaque crique, sondé chaque récif, noté chaque courant. Quand vint le moment de finaliser la carte, elle se rendit compte qu'elle ne savait *pas* où placer son blanc.
+
+Toutes les zones avaient été observées. Toutes étaient documentables. Le négociant de Ravindor paierait pour une carte aussi complète que possible.
+
+Erys consulta son maître, Volenris, qui dirigeait l'atelier de Tyrolis depuis trente ans. *« Si tu connais tout, »* dit-il, *« tu n'as pas appris la côte. Tu as appris à reconnaître ce que tes yeux peuvent voir. Le blanc n'est pas l'endroit que tu n'as pas vu. C'est l'endroit dont tu sais que tes yeux n'ont pas vu tout ce qu'il y a. »*
+
+Erys ne comprit pas. Elle insista. *« Mais j'ai tout vu. »*
+
+Volenris la regarda longtemps. *« Personne, à Tyrolis, n'a jamais tout vu. C'est pour cela que nous mettons un blanc. Si tu crois avoir tout vu, tu as raté quelque chose de plus grave qu'une crique. »*
+
+Erys repartit avec sa carte inachevée. Elle marcha encore un mois. Elle re-sonda les récifs. Elle interrogea les pêcheurs. Elle trouva — et cela la surprit — qu'à un endroit précis, près d'un cap, les pêcheurs avaient l'habitude de faire un détour qu'aucune raison apparente n'expliquait. Ils détournaient leurs barques sans le formuler. Quand Erys leur demanda pourquoi, ils haussèrent les épaules. *« On fait comme nos pères. »*
+
+Erys plaça son blanc à cet endroit.
+
+Quand elle remit la carte au négociant de Ravindor, il s'irrita. *« Vous me vendez une carte avec un trou. »* Erys répondit, suivant la formule de Volenris : *« Je vous vends une carte avec un blanc. Le trou, c'est ce que vous appelleriez si je vous disais que je sais ce qu'il y a dans le blanc. »*
+
+Le négociant paya. Il ronchonna pendant deux ans. Au bout de deux ans, son fils, qui pêchait dans la zone, rapporta qu'il avait failli se briser sur un récif que personne n'avait cartographié — exactement à l'endroit du blanc d'Erys. Il avait eu le réflexe de faire le détour des anciens. Il avait survécu.
+
+Le négociant, depuis, achète exclusivement à Tyrolis. Il a appris.
+
+Erys est aujourd'hui maîtresse de l'atelier. Elle a formé treize apprentis. À chacun, elle dit la même phrase : *« Le blanc n'est pas ton ignorance. C'est ton honnêteté. Si tu crois pouvoir le retirer un jour, tu n'es pas cartographe. Tu es marchand de cartes. »*
+
+Aucun de ses apprentis n'a jamais retiré le blanc. Aucun, à sa connaissance, n'est devenu marchand. Quelques-uns sont allés à Hekorinth, où on leur a dit que les Tables stellaires, contrairement aux cartes marines, sont *« par nature complètes »*. Ils sont revenus à Tyrolis sans commentaire.
+
+---
+
+## Hekorinth — « L'Apprenti qui regarda ailleurs »
+
+Toren entra à l'Observatoire Royal en l'an 248, à l'âge de seize ans. Il était d'une famille de sauniers de Valdren, brillant pour son âge, recommandé par un astrologue de passage. Il fut formé dans la stricte tradition d'Ordo Caelum : observation des constellations majeures, lecture des Tables, application aux prédictions.
+
+Pendant ses sept premières années, Toren fit ce qu'on attendait de lui. Il scrutait. Il consignait. Il vérifiait que les observations correspondaient aux Tables. Elles correspondaient — ou plutôt, dans les rares cas où elles ne correspondaient pas, on lui apprenait que c'était une erreur d'observation. Toren rectifiait.
+
+Lors de sa neuvième année, un Maître-Astrologue lui confia une commande inhabituelle : reclasser les archives mineures de l'Observatoire — des rapports anciens, des correspondances oubliées, des cahiers de provinces que personne n'avait lus depuis des décennies. Travail ingrat, généralement réservé aux apprentis qu'on voulait punir. Toren fit ce qu'on lui demandait.
+
+C'est ainsi qu'il tomba sur les cahiers de Veidra de Zaldrin.
+
+Trente-deux cahiers. Couverture identique. Date d'envoi : régulière sur quarante ans. Cachet de réception : présent. Mention : *« archives non classées »*. Toren les ouvrit par ordre chronologique.
+
+Le quatorzième cahier portait, en marge d'une observation banale, une phrase qui le saisit. *« La constellation de Haldros n'est peut-être plus là où il l'a vue. Elle est peut-être ailleurs. Personne ne pense à regarder ailleurs. »*
+
+Toren resta longtemps avec le cahier. Il vérifia la date — l'an 192, soit cinquante-quatre ans avant ce jour. Il vérifia qui était Veidra — l'observatrice principale de Zaldrin, morte en 198. Il vérifia si la phrase avait été reprise — non, jamais.
+
+Toren rédigea un mémoire mineur qu'il signa de son nom. Il le déposa au bureau du Maître-Archiviste, comme le voulait l'usage. Le mémoire reprenait la phrase de Veidra, accompagnée d'une suggestion technique : entreprendre, pendant six mois, une *observation systématique du ciel autour du point d'origine* — non plus le point lui-même, mais les zones adjacentes que personne n'avait scrutées.
+
+Le mémoire fut lu. Il fut classé. Le Maître-Archiviste convoqua Toren et lui dit, avec une bienveillance dont il se souvient encore : *« Mon garçon, vous avez fait un beau travail d'archive. Mais Veidra était une observatrice provinciale. Ses cahiers ont été reçus en leur temps. Ce qu'il y a à apprendre d'eux a été appris. La proposition d'observer ailleurs est intéressante théoriquement, mais l'Observatoire Royal a une méthode établie. Nous suivons les Tables. Nous les complétons. Nous ne les remettons pas en cause. »*
+
+Toren acquiesça. Il ne reprit pas la proposition. Il finit son apprentissage. Il devint Astrologue de la Couronne junior à l'âge de trente ans, comme prévu.
+
+Il continue d'observer le point fixe, comme tous ses collègues. Il est compétent. Il est respecté. Il a, dans son bureau privé, une copie manuscrite du quatorzième cahier de Veidra. Il n'a jamais entrepris l'observation qu'il avait proposée à seize ans, parce qu'il sait — il l'a appris — que ce n'est pas ainsi qu'on travaille à l'Observatoire Royal.
+
+Il ne se considère pas comme déçu. Il considère, avec la dignité tranquille d'un homme qui a accepté son métier, que *« la Couronne sait ce qu'elle fait »*. Quand il dit cela, certains soirs, il pense à Veidra sans le formuler. Il pense aussi à sa propre proposition. Il pense que ces deux pensées sont la même.
+
+Il ne les écrit pas dans ses cahiers.

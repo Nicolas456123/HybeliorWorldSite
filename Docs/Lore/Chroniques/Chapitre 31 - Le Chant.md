@@ -2,7 +2,7 @@
 tags: [lore, chronique]
 type: lore
 status: drafted
-last_review: 2026-05-02
+last_review: 2026-05-06
 needs_review_for: []
 ---
 # Chapitre 31 — Le Chant et la Sève
@@ -26,7 +26,7 @@ Je demandai pourquoi.
 
 Il réfléchit — non pas parce que la réponse était complexe, mais parce qu'il cherchait comment expliquer quelque chose d'évident à quelqu'un qui ne le savait pas encore. *Pour que les choses se souviennent d'elles-mêmes*, dit-il enfin. *C'est ce que les gens de Thalmaris disent. Le chant rappelle aux choses ce qu'elles sont. Les arbres, les pierres, la mer. Tout.*
 
-Je notai cette formulation. Elle me parut moins naïve que je ne l'aurais trouvée deux mois plus tôt.
+Je notai cette formulation. Elle me parut moins naïve que je ne l'aurais trouvée deux mois plus tôt. Je laissai au matelot le mot *évidente* qui m'était venu à l'esprit, et je le rangeai à côté de plusieurs autres mots qui m'étaient venus de la même façon ces dernières semaines, depuis Evertia : pour eux, simples ; pour moi, encore à ranger.
 
 ---
 
@@ -110,6 +110,24 @@ Je passai seul la demi-heure suivante à Sylvara, Voix-de-Pierre s'étant retir�
 
 Je posai une main sur l'Arbre-Mère.
 
+Avant cela — j'écris dans l'ordre où les choses se sont posées en moi, pas dans celui où elles se sont produites — il y avait eu, à mi-chemin de Sylvara depuis la capitale, un campement bas que Voix-de-Pierre m'avait fait contourner sans le commenter. Je l'avais vu de loin : des huttes basses, du bois noirci, une fumée qui ne montait pas droit. Quatre ou cinq hommes accroupis autour d'une cuve où la sève descendait par un système de tubes étroits depuis des arbres saignés à intervalles. Je n'avais pas demandé. Voix-de-Pierre marchait devant. Je l'avais suivi.
+
+Ce fut au retour, le lendemain, que je passai près d'eux par moi-même. Voix-de-Pierre était resté à Sylvara pour la session de l'aube. Je revenais seul vers Thalmaris à pied. Ils m'aperçurent — j'étais Délié, ils ne pouvaient pas me sentir d'avance, je dus tousser à dix pas pour ne pas les surprendre. L'un d'eux se redressa, se frotta les reins et marcha vers moi. Il s'appelait Marvet. Trente ans, ou trente-cinq avec les rides précoces des hommes qui passent l'année dans la résine. Il avait les paumes brunes — la sève noircit la peau et ne s'enlève pas. Il dit, en thalmarien lent qu'il sut avoir à ralentir pour moi : *Vous venez de Sylvara avec le Maître Voix.* Pas une question. Je dis oui. Il dit : *On est cinq pour l'extraction de la rive sud. La guilde nous compte douze sur les registres. Si vous écrivez quelque chose, écrivez ça.*
+
+Je lui demandai pourquoi me dire cela.
+
+Il dit : *Parce que vous êtes étranger. Aux gens d'ici, on a déjà dit. Les gens d'ici trouvent que la sève est sacrée et que ce qui touche au sacré ne se compte pas. Aux étrangers qui notent, on a moins dit.*
+
+Il y avait une part de calcul dans la phrase et il ne s'en cachait pas. Je le notai. Je lui demandai depuis combien de temps la sève avait l'amer-là.
+
+Il dit : *Un an. Plus. Ça change le rendement — on tire plus mais ça donne moins de propriétés. La guilde a baissé le prix qu'elle nous achète au baril, parce que les guérisseurs payent moins cher pour de l'amer. Mais ils nous demandent toujours autant de barils. Donc on saigne plus d'arbres. Le Maître Voix dit que l'arbre change.* Il haussa l'épaule. *L'arbre change peut-être. Nous, on saigne plus.*
+
+Je dis que je n'écrivais pas pour la guilde. Que mon journal ne lirait peut-être personne avant longtemps.
+
+Il dit : *Tant pis. Vous l'écrirez quand même.*
+
+Je lui dis que oui. Je ne lui demandai pas s'il croyait à ce que disait Voix-de-Pierre sur l'arbre — je n'avais pas le droit de demander à un homme dont les mains étaient noires depuis vingt ans s'il pensait que son métier était sacré. La question m'aurait fait honte avant lui. Il retourna à sa cuve. Je continuai vers la capitale. Je notai ce qu'il avait demandé que je notasse : cinq pour douze. Je ne sais pas si c'est juste. Je sais que je le note.
+
 Je ne suis pas druide. Je n'ai pas de pratique du Cantus. Je n'avais aucune raison théorique de percevoir quoi que ce soit que le contact ordinaire d'une main sur de l'écorce ne transmettrait pas. C'est ce que je me dis en posant la main — une précaution mentale, une façon de rester cartographe.
 
 Puis je fermai les yeux, parce que c'est ce que font les druides et les Canteurs et peut-être parce que la lumière filtrée de la forêt était plus confortable fermée qu'ouverte.
@@ -185,6 +203,8 @@ Je partis le lendemain matin pour Ulinor.
 La mer entre Evertia et l'archipel d'Ulinor est large et peu fréquentée — les routes commerciales habituelles font un arc plus long qui passe par des ports intermédiaires, car les eaux directes sont réputées difficiles à certaines saisons. Mais c'était la bonne saison, et le capitaine du navire que je trouvai à Valmora connaissait ces eaux.
 
 Je passai la traversée à relire mes notes de Thalenvir.
+
+Je marchai sur le pont sans cahier, plusieurs fois par jour. Je ne notais rien pendant ces marches. Je regardais l'eau, le bois, la couture des voiles. C'était une économie nouvelle, ou retrouvée — la mémoire du Sorin de Ventera, peut-être, qui pendant trois jours n'avait pas eu besoin d'inscrire ce qu'il voyait. Je ne tirais pas de leçon de ce silence. Je notais simplement, après coup, qu'il y avait eu silence, et qu'il avait été supportable.
 
 La sève amère de Sylvara. La note que Voix-de-Pierre avait trouvée, la fréquence propre de la terre qui commençait à vibrer. Les compositions des artistes de Thalmaris qui débordaient de leurs formes comme des questions trop grandes pour leurs contenants.
 

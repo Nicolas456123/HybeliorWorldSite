@@ -2,7 +2,7 @@
 tags: [lore, chronique]
 type: lore
 status: drafted
-last_review: 2026-05-02
+last_review: 2026-05-06
 needs_review_for: []
 ---
 # Chapitre 4 — Les Cathédrales Vivantes
@@ -68,6 +68,8 @@ Et puis j'ai fait quelque chose que je n'aurais pas su anticiper avant de le fai
 Je n'ai pas pu. Pas parce que mes mains refusaient — elles ont tracé des lignes, des courbes, des annotations dans les marges — mais parce que la représentation que j'obtenais était désespérément en deçà. C'était comme essayer de retranscrire une symphonie en notant "des sons graves puis des sons aigus, durée approximative vingt minutes". L'information y était. L'essentiel manquait.
 
 C'est là que la beauté d'Althior m'a fait mal pour la première fois.
+
+J'ai refermé le carnet sur cette ébauche que je n'ai pas arrachée — c'est important, je l'ai laissée là, dans le carnet, comme on laisse une faute d'orthographe dans une lettre quand l'arrachement coûterait plus cher que la faute elle-même. À Kharazir, j'aurais arraché. La précision exigeait l'élimination de l'imparfait. Ici, dans la nef, sous cette lumière qui se réécrivait à chaque minute, l'imparfait avait l'air de la seule chose que je pouvais honnêtement produire. Cela m'a coûté. Pas beaucoup. Juste assez pour que je le note.
 
 ---
 

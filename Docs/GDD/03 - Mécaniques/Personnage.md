@@ -1,352 +1,160 @@
-﻿---
-tags: [personnage, stats, build, progression-par-usage]
-status: recently_refactored
-last_review: 2026-05-01
-needs_review_for: [chiffres-playtest, focus-system]
-type: mechanic
+---
+tags: [personnage, présence, classless, progression-par-usage, philosophie, narration]
+status: drafted
+last_review: 2026-05-07
+needs_review_for: []
+type: mechanic-narrative
+implementation: "[[Stats System]]"
 ---
 
-# 🧑 Le Personnage Joueur
+# 🧑 Le Personnage — une présence dans le monde
 
-## Concept fondamental
-
-> [!important]
-> **Pas de classe. Pas de restriction. Pas d'attribution manuelle de points.**
-> Le personnage est une page blanche que le joueur remplit **par ses actions**, pas par des choix de menu.
+> *« Demande à un voyageur ce qu'il est. S'il te récite des chiffres, il est ailleurs. S'il te raconte ses mains, ses chemins, ses silences — il est là. Hybelior ne reconnaît que ceux qui sont là. »*
 >
-> Tout est accessible, tout prend du temps à monter — et ce qu'on n'entretient pas redescend. La limite vient d'elle-même via le [[Labeur|Labeur]], la décroissance et le [[Le Souffle|Souffle]].
+> *— Maître Veyran d'Astravia, lettre à un apprenti perdu*
 
 ---
 
-## Personnalisation visuelle
+## L'idée du personnage
 
-**À la création :**
-- Visage, couleur de peau, morphologie
-- Tatouages, coiffure, couleur des yeux
-- Certaines options limitées selon la zone d'apparition (culture locale)
+Dans la plupart des mondes, on **a** un personnage. On le crée, on le configure, on l'équipe, on le pilote. Il est devant soi, comme un outil, et l'on s'en sert pour traverser le jeu. À Hybelior, ce rapport-là a été refusé. Pas par préciosité, mais parce qu'il rate ce qui rend un monde **vivant** : la présence d'êtres dont l'identité ne se réduit pas à leur fiche.
 
-**En jeu :**
-- Équipement visible sur le personnage intégralement
-- Personnalisation via [[Métiers|métiers]] (gravure par un forgeron, teintures)
-- Nouvelles options cosmétiques débloquées en explorant d'autres cultures
+Un personnage, ici, n'est pas une feuille de stats. Ce n'est pas un build, ce n'est pas une classe. C'est une **présence** — quelqu'un qui apparaît dans le monde, y prend des chemins, y croise d'autres présences, et qui, peu à peu, **devient quelqu'un** par tout ce qu'il a fait. La nuance est mince, mais elle change tout. *Avoir un personnage* suggère qu'on le possède. *Être quelqu'un dans un monde* suggère qu'on s'y est inscrit, qu'on y a laissé une trace, qu'on y est attendu ou redouté quelque part.
 
-**Emplacements d'équipement :**
+C'est cela qu'Hybelior cherche à offrir. Pas un avatar. Une **vie**.
 
-| Slot | Description |
-|------|-------------|
-| Torse, Épaules, Bras | Armure |
-| Jambes, Bottes | Armure |
-| Cape | Dos |
-| Heaume / Coiffe | Tête |
-| Collier / Amulette | Cou |
-| 2× Bracelet | Poignets |
-| 2× Bague | Doigts |
-| Boucles d'oreilles | Oreilles |
-| Main droite | Arme principale |
-| Main gauche | Arme secondaire / Bouclier |
-
----
-
-## Architecture du personnage en 3 couches
-
-> Le système de stats d'Hybelior est organisé en **3 couches**, du général au spécifique. Cette architecture évite les transferts indésirables (un forgeron ne devient pas automatiquement détective parce qu'il monte une stat) et alignent la progression avec les actions.
-
-```
-┌─────────────────────────────────────────────────┐
-│ COUCHE 0 — STATS FONDAMENTALES (4 stats)        │
-│ Universelles. Montent automatiquement avec      │
-│ le niveau. Tout joueur les a quoi qu'il fasse.  │
-└─────────────────────────────────────────────────┘
-                       ↓
-┌─────────────────────────────────────────────────┐
-│ COUCHE 1 — STATS BRUTES (8 stats)               │
-│ Capacités physiques/mentales génériques.        │
-│ Montent par USAGE, pas par allocation.          │
-│ Échelle 0–150. Compressées par les Souffles.    │
-└─────────────────────────────────────────────────┘
-                       ↓
-┌─────────────────────────────────────────────────┐
-│ COUCHE 2 — MAÎTRISES CONTEXTUELLES              │
-│ Savoir-faire spécifique à une activité.         │
-│ Stats brutes × Maîtrises = efficacité réelle    │
-└─────────────────────────────────────────────────┘
-```
-
----
-
-## COUCHE 0 — Stats fondamentales (4 stats universelles)
-
-> Montent **automatiquement** avec le niveau. Pas d'allocation. Pas d'usage spécifique requis.
-
-| Stat | Rôle |
-|------|------|
-| **Vitalité** | Points de vie de base — chair et résistance brute |
-| **Souffle** | Stamina de base — capacité d'effort général |
-| **Présence** | Charisme de base — comment les PNJ te perçoivent (prix marchands neutres, salutations, accès) |
-| **Conscience** | Mana de base **si une Voie est active** — perception du Lien et seuil minimum |
-
-> [!tip] Pourquoi universelles
-> Un cuisinier maître a besoin de **Souffle** pour tenir des heures aux fourneaux, de **Présence** pour vendre, de **Vitalité** pour survivre à un voyage. Il n'investit pas en martial mais ces 4 stats lui montent quand même.
-
----
-
-## COUCHE 1 — Stats brutes (8 stats, montent par usage)
-
-> Échelle **0–150**. Plafond mou à **100** (asymptotique au-delà), plafond dur à **150**. Compressées par chaque [[Le Souffle|Souffle]] au-dessus du seuil 50.
-
-| Stat | Description | Domaines impactés |
-|------|-------------|-------------------|
-| **Vigueur** | Force musculaire, encaissement | Combat, port de charge, métiers physiques (forge, bûcheron) |
-| **Vivacité** | Vitesse de réaction, agilité | Combat, esquive, mini-jeux de timing |
-| **Endurance** | Résistance à l'effort prolongé | Voyages, sprint, crafts longs, parades tenues |
-| **Acuité** | Précision, attention, observation | Critique, détection, qualité de craft, mini-jeux |
-| **Esprit** | Capacité magique brute | Mana max, complexité de sorts |
-| **Résonance** | Intensité de canalisation | Puissance/durée des sorts, charisme aura |
-| **Mémoire** | Apprentissage, recettes, lore | Gain de Maîtrise accéléré, identification d'items |
-| **Verbe** | Communication, persuasion, expression | Marchandage, leadership, performances |
-
-### Échelle narrative
-
-| Niveau de stat | Sens narratif | Effet concret |
-|----------------|---------------|----------------|
-| **0–20** | Novice / Faible | Référence — un humain ordinaire |
-| **20–40** | Compétent | Au-dessus du commun |
-| **40–60** | Aguerri | Vraiment au-dessus |
-| **60–80** | Exceptionnel | Rare, on remarque |
-| **80–100** | Légendaire | Histoires se racontent à ton sujet |
-| **100–150** | **Mythique** | Quelques rares dans toute la Partie |
-
-> [!warning] Compression cyclique
-> À chaque [[Le Souffle|Petit Souffle]], les valeurs au-dessus de 50 sont **partiellement ramenées** vers 50 :
-> - Stat 100 → 85
-> - Stat 80 → 71
-> - Stat 50 et en-dessous → inchangée
+> *« Je ne joue pas un guerrier. Je suis quelqu'un qui s'est battu. Ce n'est pas pareil. »*
 >
-> Cela compresse les écarts mais préserve les acquis spécifiques (voir [[L'Accord]]).
+> *— Iola, Concordante de l'Ère du Sel*
 
 ---
 
-## Pas d'attribution manuelle — Système de Focus
+## Pas de classe — une vie
 
-> [!important] Tout monte par usage, mais le joueur peut "diriger" sa progression
-> Le joueur **n'attribue jamais de points**. Tout monte par les actions qu'il fait. **Mais** il peut choisir 1 à 2 stats **Focus** qui montent **2× plus vite** quand utilisées.
+Au moment de la création, personne ne te demande qui tu seras. Le monde ne te propose pas une liste de rôles. Il ne t'attribue pas une couleur, une icône, une discipline. Tu choisis un visage, une voix, un coin de continent où apparaître — et c'est tout. Le reste, **tu le deviendras**.
 
-### Règles du Focus
+Ce parti pris a un nom dans les vieux livres de design : *classless*. Mais ce mot, technique, ne dit pas l'essentiel. L'essentiel, c'est que **personne ne te dit qui être au départ**. Ni un menu, ni un PNJ, ni un didacticiel. Tu arrives nu — au sens propre du mot : sans histoire imposée, sans destin scellé. Ce que tu deviendras dépend de ce que tu pratiqueras.
 
-| Élément | Valeur |
-|---------|--------|
-| **Nombre de stats Focus** | 1 (par défaut) — 2 (au palier d'Accord 50%) — 3 (palier d'Accord 75%) |
-| **Effet** | Stats focalisées montent ×2 quand utilisées par les actions associées |
-| **Changement** | 1 fois par semaine réelle (pas plus, pour éviter l'optimisation excessive) |
-| **Visualisation** | Focus marqué d'une icône ⭐ dans la fiche personnage |
+Si tu passes des semaines à frapper l'enclume, tu seras **forgeron** — non pas parce qu'on t'aura coché cette case, mais parce que tes mains auront appris la chaleur du métal et que les apprentis viendront te demander conseil. Si tu passes des mois à pister du gibier dans les forêts d'Onara, tu seras **chasseur** — et le monde te traitera comme tel, parce que tes pas reconnaîtront les sentiers que les autres ne voient pas. Si tu passes des années à canaliser une Voie, tu seras **Lié** — et ta présence, dans la salle d'une auberge, fera baisser la voix de ceux qui savent.
 
-### Exemple
+Cette manière de devenir est lente. Elle est aussi la seule qui produise des identités auxquelles le joueur **croit**. Un titre qui se gagne en cliquant ne tient pas. Un titre qui s'est inscrit en toi par mille gestes, lui, ne se perd plus. Pour le détail mécanique de la progression par usage : voir [[Armes et Maîtrise]] et [[Stats System]].
 
-Aldric le forgeron-aventurier décide de focaliser **Acuité** et **Mémoire** :
-- Quand il forge → son **Acuité** monte ×2
-- Quand il identifie un minerai → son **Œil** (sous-application d'Acuité) bénéficie du gain accéléré
-- Quand il étudie un grimoire → sa **Mémoire** monte ×2
-- Pendant 1 semaine, ces stats progressent visiblement plus vite que les autres
-
----
-
-## COUCHE 2 — Maîtrises contextuelles
-
-> Les **Maîtrises** sont des savoir-faire spécifiques. Elles ne montent que par l'usage de leur activité. Elles **ne se transfèrent pas** entre activités différentes, même si la stat brute sous-jacente est commune.
-
-### Catégories de maîtrises
-
-| Catégorie | Exemples |
-|-----------|----------|
-| **Combat** | Maîtrise par arme (épée, hache, arc, lance, dague, marteau, bouclier...) — voir [[Armes et Maîtrise]] |
-| **Magie** | Maîtrise par Voie (mono-Voie de toute façon — voir [[Le Lien]]) |
-| **Métiers** | Forge, Cuisine, Tissage, Alchimie, Herboristerie... (les 63 métiers — voir [[Métiers]]) |
-| **Exploration** | Pistage, Survie en froid/chaud, Navigation maritime, Escalade, Cartographie |
-| **Social** | Marchandage, Diplomatie, Performance (barde), Intimidation, Commandement |
-
-### 5 paliers de Maîtrise (existant)
-
-Voir [[Armes et Maîtrise]] :
-1. **Novice**
-2. **Initié**
-3. **Adepte**
-4. **Expert**
-5. **Maître** 🔒
-
-> [!note] Décroissance
-> Les Maîtrises non entretenues décroissent. À chaque Souffle, une **rouille temporaire** s'applique (1 semaine, −15% performance).
-
----
-
-## Pourquoi cette architecture évite les transferts indésirables
-
-> [!important] Stats brutes × Maîtrises = efficacité réelle
+> *« On naît sans nom à Hybelior. On le gagne, ou on s'en passe. »*
 >
-> Une stat brute seule ne fait rien. Elle doit être **multipliée par une maîtrise contextuelle** pour produire un effet utile.
-
-### Exemple concret
-
-```
-Aldric le forgeron a Acuité 80 (stat brute haute).
-Il a Maîtrise_Forge palier 5 (Maître).
-Il a Maîtrise_Pistage palier 0 (jamais pratiqué).
-
-→ Forger une épée : Acuité 80 × Maîtrise_Forge palier 5 = excellent
-→ Lire des traces dans la forêt : Acuité 80 × Maîtrise_Pistage 0 = médiocre
-```
-
-> Sans la **maîtrise**, la **stat brute seule** ne donne rien. Aldric voit les traces (il a un bon œil) mais ne sait pas les interpréter (il n'est pas chasseur).
-
-→ **Le forgeron ne devient pas automatiquement détective.** ✅
+> *— inscription sur la pierre d'accueil de Mosrack*
 
 ---
 
-## Tableau des effets — comment les stats produisent du gameplay
+## Les stats comme reflets, pas comme cages
 
-> Ces formules sont **indicatives** (à équilibrer en playtest).
+Hybelior connaît des **stats** — ces chiffres qui décrivent, dans le langage technique, ce qu'un corps peut faire. Vigueur, Vivacité, Endurance, Acuité, Esprit, Résonance, Mémoire, Verbe. Huit dimensions qui ensemble composent ce qu'on appelait jadis la **complexion** d'un être. Mais ces stats, ici, ne sont pas des cages. Elles ne te disent pas qui tu es. Elles **reflètent** ce que tu fais, et elles montent ou redescendent selon que tu pratiques ou que tu négliges.
 
-| Effet de gameplay | Formule indicative |
-|-------------------|---------------------|
-| **HP max** | Vitalité (couche 0) + Vigueur (couche 1) × 1.5 |
-| **Stamina max** | Souffle (couche 0) + Endurance (couche 1) × 2 |
-| **Mana max** | Conscience (couche 0) + Esprit (couche 1) × 2 (si Voie active) |
-| **Régen Mana** | Esprit + Résonance (passif lent) |
-| **Dégâts physiques** | Vigueur × Maîtrise_Arme |
-| **Dégâts magiques** | Esprit × Résonance × Maîtrise_Voie |
-| **% Critique** | (Vivacité ou Acuité, selon arme) ÷ 5 |
-| **Multiplicateur critique** | 150% base + Acuité ÷ 20 |
-| **Défense physique** | Vigueur + équipement |
-| **Défense magique** | Esprit + Conscience + équipement |
-| **Vitesse de mouvement** | Base + Vivacité × 0.3% + Endurance × 0.2% |
-| **Vitesse d'attaque** | Vivacité × Maîtrise_Arme |
-| **Prix d'achat marchand** | Base − Verbe × 0.5% (plafond −30%) |
-| **Qualité de craft** | Acuité × Mémoire × Maîtrise_Métier |
-| **Capacité de port** | Vigueur + Endurance |
-| **Détection (générique)** | Acuité × Maîtrise contextuelle (Pistage, Survie, etc.) |
+Une **Vigueur** élevée n'est pas un attribut qu'on s'est offert au menu de création — c'est l'inscription dans le corps de mille gestes appuyés sur une masse, sur une lame, sur une charge portée trop loin. Une **Acuité** affûtée est la trace d'années passées à observer, à viser, à ajuster. Une **Mémoire** profonde est ce qui reste quand on a beaucoup lu, beaucoup appris, beaucoup voulu retenir. Le **Verbe** ample est le don de ceux qui ont tellement parlé aux gens qu'ils savent maintenant comment leur parler.
 
----
+Chaque stat est une **manière d'être au monde** — pas un compteur. Et c'est pourquoi, à Hybelior, on ne te demande jamais d'attribuer des points. Personne ne décide à ta place qui tu seras, et personne — pas même toi — ne le décide d'avance. Tes stats sont **la mémoire de tes pratiques**, écrite en chair. Elles changent parce que tu changes. Elles dessinent ta silhouette en creux, et cette silhouette, contrairement à un build, **te ressemble**.
 
-## Régénération HP
-
-| Contexte | Vigueur faible | Vigueur moyenne | Vigueur élevée |
-|----------|---------------|-----------------|----------------|
-| **Hors combat** (5 sec sans dégât) | ~1% HP/s | ~3% HP/s | ~6% HP/s |
-| **En combat** | 0 | ~0.5% HP/s | ~1.5% HP/s |
-| **Potions / Nourriture** | Soin direct ou HoT — s'ajoute toujours par-dessus la régén passive |
-
-> [!note] Statut "En combat"
-> Le joueur entre en combat dès qu'il **reçoit ou inflige des dégâts**. Il en sort après **5 secondes sans nouvelle action de combat**. Le HUD signale clairement le statut.
-
-> [!tip] Choix de build
-> Une Vigueur faible rend les **potions et la cuisine** indispensables → valorise les métiers. Une Vigueur élevée permet le combat prolongé sans appui → spécialisation tank/dueliste.
-
----
-
-## Régénération Stamina et Mana
-
-| Ressource | Hors combat | En combat |
-|-----------|-------------|-----------|
-| **Stamina** | ~80 pts/s (immobile), ~60 pts/s (en marche) | ~15 pts/s |
-| **Mana** | ~5 pts/s + bonus Esprit | ~1 pts/s |
-
-> Voir [[Combat]] pour les coûts détaillés des actions et la méditation.
-
----
-
-## Prérequis d'équipement
-
-> [!warning] Double condition
-> Pour équiper un item, **deux conditions doivent être remplies simultanément** :
-> 1. **L'Accord d'ère** suffisant (palier 50%+ pour items Magistraux, 75%+ pour Légendaires) → [[L'Accord]]
-> 2. **Maîtrise de l'arme / type d'équipement** suffisant → [[Armes et Maîtrise]]
+> *« Mes mains m'ont appris ma Vigueur. Mes nuits m'ont appris ma Mémoire. Mon silence m'a appris mon Acuité. Personne ne me les a données. »*
 >
-> Un Concordant à 75% sans maîtrise épée ne peut pas équiper une épée légendaire. Un Maître épée à seulement 30% d'Accord non plus.
+> *— Aldric, forgeron-aventurier de Mosrack*
 
-> [!note] Évolution depuis l'ancien système
-> Auparavant, le prérequis était "Niveau global suffisant". Avec le système d'Accord ([[L'Accord]]), c'est l'Accord d'ère qui sert de prérequis "social" (avec les Maîtrises pour la technique).
-
----
-
-## Exemples de profils joueurs
-
-### Profil 1 — Le forgeron-aventurier
-*"Je crafte mes propres armes, j'ai pas peur de me défendre."*
-
-| Couche | Stats |
-|--------|-------|
-| **Fondamentales** | Vitalité 60, Souffle 65, Présence 50, Conscience 30 |
-| **Brutes** | Acuité 90, Mémoire 80, Vigueur 65, Endurance 55, Vivacité 35, Esprit 25, Résonance 20, Verbe 30 |
-| **Maîtrises** | Maîtrise_Forge ★★★★★, Maîtrise_Bijouterie ★★★, Maîtrise_Épée ★★ |
-| **Focus actuel** | Acuité, Mémoire |
-
-### Profil 2 — Le duelliste
-*"Vivacité et Vigueur, rien d'autre ne compte."*
-
-| Couche | Stats |
-|--------|-------|
-| **Fondamentales** | Vitalité 70, Souffle 75, Présence 40, Conscience 20 |
-| **Brutes** | Vivacité 100, Vigueur 80, Endurance 70, Acuité 60, Mémoire 35, Esprit 20, Résonance 15, Verbe 25 |
-| **Maîtrises** | Maîtrise_Rapière ★★★★★, Maîtrise_Dague ★★★, Maîtrise_Bouclier ★ |
-| **Focus actuel** | Vivacité, Vigueur |
-
-### Profil 3 — Le Lié de Spiritus, herboriste
-*"Le Lien avec la nature est mon métier autant que mon arme."*
-
-| Couche | Stats |
-|--------|-------|
-| **Fondamentales** | Vitalité 50, Souffle 55, Présence 60, Conscience 80 |
-| **Brutes** | Esprit 85, Résonance 80, Acuité 70, Endurance 50, Mémoire 60, Vivacité 30, Vigueur 25, Verbe 40 |
-| **Maîtrises** | Maîtrise_Voie_Spiritus ★★★★, Maîtrise_Herboristerie ★★★★, Maîtrise_Alchimie ★★★ |
-| **Focus actuel** | Esprit, Acuité |
-
-### Profil 4 — Le marchand-voyageur
-*"Je ne combats jamais. Je voyage, je commerce, je raconte."*
-
-| Couche | Stats |
-|--------|-------|
-| **Fondamentales** | Vitalité 50, Souffle 65, Présence 90, Conscience 25 |
-| **Brutes** | Verbe 100, Endurance 75, Mémoire 80, Acuité 60, Vivacité 40, Vigueur 30, Esprit 20, Résonance 15 |
-| **Maîtrises** | Maîtrise_Marchandage ★★★★★, Maîtrise_Diplomatie ★★★★, Maîtrise_Cartographie ★★★ |
-| **Focus actuel** | Verbe, Mémoire |
-
-### Profil 5 — Le hors-la-loi furtif
-*"Frapper fort, disparaître."*
-
-| Couche | Stats |
-|--------|-------|
-| **Fondamentales** | Vitalité 55, Souffle 60, Présence 30, Conscience 50 |
-| **Brutes** | Vivacité 90, Acuité 75, Vigueur 70, Esprit 60, Résonance 45, Endurance 50, Mémoire 35, Verbe 20 |
-| **Maîtrises** | Maîtrise_Dague ★★★★, Maîtrise_Voie_Umbra ★★★, Maîtrise_Furtivité ★★★★ |
-| **Focus actuel** | Vivacité, Acuité |
-| **Note** | Karma rouge probable — voir [[PvP]] |
+Pour le détail des stats, leurs valeurs, leurs formules de progression et leurs effets numériques : voir [[Stats System]].
 
 ---
 
-## Cohérence avec les autres systèmes
+## La compression — le monde te ramène à hauteur d'humain
 
-| Système | Lien |
-|---------|------|
-| **[[Le Souffle]]** | Compresse les stats brutes au-dessus de 50 |
-| **[[L'Accord]]** | Remplace l'ancien "niveau global". Détermine les paliers d'effets |
-| **[[Armes et Maîtrise]]** | Les Maîtrises sont la couche 2 |
-| **[[Le Lien]]** | Mono-Voie. Esprit + Résonance = puissance magique |
-| **[[Labeur]]** | Limite la vitesse de progression |
-| **[[Mort]]** | Pas de perte de stats à la mort |
+Il y a une chose qu'Hybelior refuse : qu'un être devienne un **dieu inaccessible** par seule accumulation. Aucun mortel, dans ce monde, n'a vocation à dépasser durablement la mesure des autres. Cette mesure a un seuil — *la hauteur d'humain*, comme disent les anciens — et au-delà de ce seuil, le monde, périodiquement, te ramène à lui.
 
----
+La **compression** n'est pas une punition. C'est le geste par lequel le cosmos rappelle qu'aucune statue ne tient debout éternellement, qu'aucun corps n'est fait pour rester surhumain saison après saison. À chaque [[Le Souffle|Souffle]], les puissances brutes accumulées au-delà du seuil sont partiellement rendues. Tes savoirs restent. Tes œuvres restent. Tes liens restent. Mais ta capacité à **dominer** la prochaine saison, elle, redescend vers la mesure commune.
 
-## Décisions actées
+Ce mécanisme dit, à voix basse, l'une des promesses les plus profondes d'Hybelior : *tu n'es pas grand parce que tu es ancien. Tu es grand parce que tu t'accordes au monde tel qu'il est.* Le vétéran ne devient jamais un mur infranchissable pour le nouveau. Le nouveau ne décroche jamais devant un écart impossible à combler.
 
-- ✅ **Architecture en 3 couches** (4 fondamentales + 8 brutes + Maîtrises contextuelles)
-- ✅ **Pas d'attribution manuelle** — tout par usage
-- ✅ **Système de Focus** : 1-3 stats focalisées montent ×2
-- ✅ **Stats brutes 0-150**, plafond mou 100 / dur 150
-- ✅ **Compression par Souffle** : voir [[Le Souffle]]
-- ✅ **Maîtrises contextuelles** : pas de transfert indésirable entre domaines
-- ✅ **Plus de stat *Énergie* séparée** — Stamina + Mana suffisent
-- ✅ **Régénération HP** liée à Vigueur (anciennement Constitution)
-- ✅ **Régénération Mana** méditation possible hors combat
+Pour la philosophie complète du Souffle — pourquoi le monde respire, ce que la respiration préserve et ce qu'elle rend — voir [[Le Souffle]]. Pour les chiffres exacts de la compression : voir [[Souffle System]].
+
+> *« On reconnaît les vieux d'Hybelior à ce qu'ils ne se plaignent jamais d'avoir été ramenés à hauteur. Ils savent que c'est la condition pour que le monde reste un monde. »*
+>
+> *— proverbe de Cestra*
 
 ---
 
-*Liens : [[Labeur]] | [[Combat]] | [[Armes et Maîtrise]] | [[Le Lien]] | [[Progression]] | [[Mort]] | [[Le Souffle]] | [[L'Accord]]*
+## Le Focus — choisir ce qui compte aujourd'hui
+
+S'il n'y a pas d'attribution de points, comment dire au monde *« voilà ce qui me tient à cœur en ce moment »* ? Comment marquer une orientation, une intention, sans transformer le personnage en build figé ?
+
+La réponse d'Hybelior s'appelle le **Focus**. C'est un geste simple : tu désignes une, deux ou trois manières d'être qui, en ce moment de ta vie, comptent plus que les autres. Pas pour exclure le reste — tout continue de monter par usage, comme avant — mais pour **dire** où ton attention se porte. Une manière de poser, sur la table du monde : *« voilà ce que je travaille en ce moment. Voilà la silhouette que j'essaie de devenir, ces jours-ci. »*
+
+Le Focus n'est pas un engagement à vie. Il se déplace. On peut, après quelques semaines, déplacer son attention ailleurs — comme un artisan qui, après avoir longtemps perfectionné une technique, décide qu'il a fait le tour et veut maintenant travailler autre chose. Cette **intentionnalité mobile** est l'un des outils les plus délicats d'Hybelior. Elle remplace, pour ceux qui en sentent le besoin, l'allocation de points — mais sans figer, sans imposer, sans punir le changement.
+
+Pour les paliers, le multiplicateur exact, et la cadence de changement : voir [[Stats System]] §"Système de Focus".
+
+> *« On ne devient pas quelqu'un en décidant qui l'on sera. On le devient en décidant, chaque saison, ce qu'on choisit de pratiquer. »*
+>
+> *— Ilthani Vael, Cendara*
+
+---
+
+## L'équipement — extension du soi
+
+Un personnage, à Hybelior, n'est pas seul dans son corps. Il porte des choses. Une lame qu'il a forgée ou qu'on lui a donnée. Une cape qui le suit depuis qu'il a quitté son village. Une bague qu'il ne se rappelle plus qui lui a transmise. Ces objets ne sont pas des accessoires. Ce sont des **extensions du soi** — des prolongements matériels de la présence qu'on est devenu.
+
+Hybelior tient à cette idée que l'équipement raconte. Une armure usée à la jointure de l'épaule dit qu'on a porté longtemps un bouclier à gauche. Un manche de hache lustré dit qu'on a coupé beaucoup de bois ou beaucoup d'ennemis. Un anneau gravé dit qu'on appartient — à un ordre, à une guilde, à un souvenir. Le monde reconnaît ces signes, et toi-même, en regardant ton personnage, tu vois la **trace** matérielle de ce que tu as traversé.
+
+Mais l'équipement n'est pas une voie de contournement. On ne s'achète pas une identité. Pour porter les pièces les plus puissantes, il faut **s'être accordé** au monde présent et **avoir maîtrisé** la discipline qui les sert. Un Concordant qui n'a jamais touché à une épée ne peut pas brandir une lame légendaire ; un Maître épéiste qui n'est pas accordé non plus. La double condition est une déclaration : *l'équipement ne fait pas l'homme. Il le complète, quand l'homme est déjà là.*
+
+Pour les slots, les modificateurs, les prérequis chiffrés : voir [[Stats System]] §"Slots d'équipement".
+
+> *« Mon épée est de moi. Pas parce que je l'ai payée. Parce que je l'ai méritée, et qu'elle me reconnaît. »*
+>
+> *— Karzal d'Onara, vétéran de trois Ères*
+
+---
+
+## Le personnage et son monde
+
+Tout, dans le système, converge vers la même direction : faire que le personnage **soit quelqu'un dans un monde**, et non pas un avatar dans un jeu. Cette convergence est patiente, et se construit par couches.
+
+Il y a la **classless** qui refuse de te dire d'avance qui tu seras. La **progression par usage** qui inscrit dans ton corps ce que tu pratiques. Les **Maîtrises** qui empêchent les transferts faciles d'un domaine à l'autre. L'**Accord** qui te lie à l'Ère présente. Les **Voies**, pour ceux qui choisissent le Lien, qui inscrivent en toi une signature spirituelle que tout Hybelior reconnaît. L'**Héritage** — ce que tu portes de tes prédécesseurs et ce que tu transmettras. Le **Souffle** qui rebat les cartes sans effacer ta mémoire. Et le **Focus** — ce geste minuscule par lequel tu dis, chaque semaine, où tu portes ton attention.
+
+Ensemble, ces couches produisent une chose rare : un personnage qui, vu de l'extérieur, est unique, et qui, vu de l'intérieur, te ressemble parce qu'il a été façonné par tout ce que tu as choisi de faire. Il n'y a pas, à Hybelior, de personnage générique. Il n'y a que des présences singulières que le monde reconnaît, parfois redoute, parfois aime, et toujours **enregistre**.
+
+> *« Le monde sait qui tu es avant que tu ne le saches toi-même. Il te le dit, à travers les regards des PNJ, les prix des marchands, les portes qui s'ouvrent ou qui restent closes. Écoute-le. C'est lui qui te dessine. »*
+>
+> *— Maître Veyran d'Astravia*
+
+---
+
+## Trois présences
+
+Pour donner chair à tout cela, voici trois présences telles qu'on les croise à Hybelior. Ce ne sont pas des fiches. Ce ne sont pas des modèles à imiter. Ce sont des **personnages** — au sens où ils sont devenus quelqu'un par le détail de ce qu'ils ont fait.
+
+### Aldric, forgeron de Mosrack
+
+Aldric arrive devant son enclume avant l'aube et n'en repart qu'à la nuit. Ses mains portent les cicatrices d'un quart de siècle de métal frappé. Il sait, rien qu'au son d'un coup, si l'acier est bon. Quand il sort dans la rue, les enfants le saluent et les marchands lui font crédit — non pas parce qu'il est riche, mais parce que sa parole engage Mosrack tout entière. S'il devait se défendre, il pourrait : il a passé suffisamment de soirs à manier l'épée pour ne pas être un quidam. Mais ce n'est pas pour cela qu'on le respecte. C'est parce qu'il **est** un forgeron — et qu'on ne peut pas être forgeron à ce niveau-là sans avoir été, aussi, beaucoup d'autres choses.
+
+### Lyssa, éclaireuse des marges d'Onara
+
+Lyssa marche depuis longtemps. Elle connaît trois langues qu'aucune carte ne mentionne. Elle sait dormir dans le froid, lire un ciel, sentir une bête à cent pas. Elle ne porte presque rien — un arc, une dague, une cape qui a vu deux Ères. Quand elle entre dans une auberge, on lui sert avant qu'elle ne demande. Elle n'a pas de titre officiel ; elle n'en a pas besoin. *Lyssa qui revient des marges* — c'est ainsi qu'on l'annonce aux nouveaux arrivants, et c'est suffisant. Sa présence est une géographie ambulante.
+
+### Vehna, Liée à Spiritus, herboriste de Cendara
+
+Vehna parle à voix basse, et tout le monde l'entend. Elle a passé sa vie à apprivoiser une seule Voie — Spiritus — et à l'entrelacer avec son métier d'herboriste. Quand elle pose la main sur une plante, la plante semble se laisser cueillir. Quand elle franchit un Souffle, elle vit chaque transition comme un petit deuil et une petite renaissance. Les Concordants viennent la consulter avant les rituels d'Ère. Elle ne se considère ni comme une mage, ni comme une sage. Elle dit simplement : *« je suis quelqu'un qui s'occupe des vivants »*. C'est exactement ce que le monde, d'Hybelior, voit en elle.
+
+Aucun de ces trois personnages n'a été *choisi* à la création. Tous trois sont **devenus**. Et c'est là, exactement là, qu'Hybelior a placé son pari.
+
+---
+
+## Pourquoi le personnage est au cœur d'Hybelior
+
+Si l'on devait dire, en une phrase, ce qui fait la différence entre Hybelior et les mondes qui se ressemblent, ce serait peut-être ceci : **on n'y joue pas un personnage, on y est quelqu'un**. Cette nuance fonde tout le reste — la classless, la progression par usage, la double condition d'équipement, la compression cyclique, l'Accord, le Lien.
+
+Le personnage, ici, n'est pas un véhicule à travers le monde. Il **est** le rapport au monde. Et le monde, en retour, le reconnaît, l'enregistre, le marque. Cette réciprocité — entre une présence et un cosmos qui répond — est la chose la plus rare qu'un MMO puisse offrir.
+
+> *« Demande à un nouveau qui il sera. Il te répondra une classe. Demande à un ancien qui il est. Il te racontera dix ans de vie, et tu comprendras que la question n'avait pas de bonne réponse à la création — seulement à la fin. »*
+>
+> *— Ilthani Vael, dernière entrée de son journal*
+
+---
+
+*Liens narratifs : [[Le Souffle]] | [[L'Accord]] | [[Armes et Maîtrise]] | [[Le Lien]] | [[Métiers]] | [[Labeur]] | [[Mort]] | [[La Partie]]*
+
+*Implémentation technique (chiffres, formules, specs Unreal) : [[Stats System]]*

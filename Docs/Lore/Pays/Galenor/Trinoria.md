@@ -1,14 +1,20 @@
 ﻿---
-tags: [lore, pays, galenor]
-type: lore
-status: drafted
-last_review: 2026-05-02
+tags: [lore, pays, galenor, trinoria]
+type: nation
+status: canon
+last_review: 2026-05-06
 needs_review_for: []
 ---
 # Trinoria — Le Royaume des Mille Flèches
 
 > *« Un Trinorien ne vise jamais deux fois. La première flèche porte le jugement, la seconde ne serait que gaspillage. »*
 > — Maître-Archer Gyndaris, commandant de la Garde Sylvestre
+
+> *« Un cartographe doit savoir quand il ne sait pas. »*
+> — Yrath-le-Vieux-Père, druide de Velathor, à Sorin Valthen, an 251
+
+> *« Les esprits ne meurent pas. C'est ce que nous disons. C'est aussi pourquoi nous n'apprenons jamais à les pleurer. »*
+> — Marge anonyme, atelier de Talvoria, env. an 200
 
 ---
 
@@ -47,6 +53,34 @@ L'événement fondateur de l'identité trinorienne survint lorsqu'une armée de 
 Les archers de Trinoria, invisibles dans la canopée, décochèrent des milliers de flèches en une seule nuit. On raconte que le ciel forestier devint si dense de projectiles que pas un rayon de lune ne touchait le sol. L'armée valorienne fut décimée sans avoir aperçu un seul adversaire. Depuis cette bataille, Trinoria est redoutée par toutes les nations de Galenor, et l'expression « entrer dans la forêt des Trinoriens » est synonyme de marcher vers sa mort.
 
 Le roi actuel, **Orlan IV de Nalithos**, perpétue la tradition du Grand Tournoi mais a modernisé la monarchie en instaurant un conseil de vassaux qui participent aux décisions importantes. C'est un tireur d'exception et un chasseur respecté, mais certains seigneurs estiment qu'il accorde trop d'importance à la diplomatie au détriment des traditions guerrières.
+
+### La Codification du Vael'Kurash (an 90 — encore en cours)
+
+L'histoire que Trinoria raconte volontiers d'elle-même — celle des seigneurs-chasseurs et de la Bataille des Mille Flèches — masque une transformation moins glorieuse de sa religion principale. Le **Vael'Kurash**, à l'origine, était une *pratique* — un dialogue d'esprit à esprit entre les peuples forestiers et les présences animiques de la canopée. Chaque vallée avait ses propres rituels. Chaque chamane lisait ses propres signes. La diversité était constitutive.
+
+Vers l'an 90, le druide-chef Eltheran de Velathor entreprit ce qu'il appelait *« l'unification respectueuse »* des pratiques. L'objectif déclaré : empêcher que des chamanes mal formés blessent par ignorance des esprits qu'ils prétendaient honorer. L'objectif réel : faire de Velathor le centre incontesté de l'autorité druidique. Eltheran y est parvenu. Les rituels furent codifiés. Les tatouages reçurent des grammaires. Les cérémonies saisonnières (Réveil des Racines, Grande Chasse Silencieuse) furent fixées dans leurs gestes.
+
+Cent soixante ans plus tard, le Vael'Kurash est une **religion d'application** : on suit le rituel parce qu'il est rituel, on porte les tatouages parce qu'on les porte, on consulte les druides parce qu'on consulte les druides. Les chamanes hétérodoxes des vallées éloignées (sud-Fyrilith, nord-Ithralis) sont *tolérés* mais classés comme *« praticiens locaux »* — étiquette qui les rend pittoresques sans leur donner d'autorité.
+
+L'effet de cette codification est que **les esprits, en pratique, répondent moins**. C'est un fait empirique que les druides expérimentés admettent en privé sans le proclamer. La doctrine officielle l'explique par diverses causes (les esprits *« reposent »*, la nation *« n'écoute pas assez »*, certains lieux ont été *« pollués »* par l'industrie kharazirienne ou la magie lumasarienne). Aucune lecture officielle n'envisage la possibilité simple : *les esprits, codifiés, n'ont plus rien à dire qu'on ne leur ait déjà fait dire*.
+
+### Le Cerf Blanc et la Doctrine de la Persistance
+
+Le **Cerf Blanc Immortel** des forêts de Nalithos est le symbole central du Vael'Kurash trinorien. Selon la doctrine officielle, c'est *toujours le même* — un être aussi ancien que la forêt elle-même, qui apparaît parfois aux chasseurs respectueux et qui *ne mourra jamais*. Cette croyance est centrale parce qu'elle fonde toute la lecture trinorienne du monde naturel : *les esprits ne s'éteignent pas*.
+
+Une réalité moins flatteuse est documentée par les archives chamaniques de Velathor (consultables sur autorisation, donc rarement consultées) : il y a eu, sur deux mille ans, *au moins onze* Cerfs Blancs. Onze cerfs distincts, observés à différentes époques, dont chacun a vieilli, et est mort. Les druides successifs ont *transmis* l'identité — quand un Cerf Blanc mourait, on cherchait son successeur, et quand on le trouvait, on déclarait que *c'était toujours lui*.
+
+L'épisode raconté dans les *Histoires de Trinoria* (« La Chasse qui N'eut Pas Lieu » sous le seigneur Mael) est un cas où un Cerf Blanc a effectivement vieilli et est mort *naturellement* — son corps retrouvé dans la neige, enterré avec les honneurs des guerriers. Ce que Mael a fait — refuser de le tuer pour préserver la *raison* de la chasse — est une vertu authentique. Mais il a aussi, sans le vouloir, rejoué la doctrine officielle : *les esprits ne meurent pas, ils sont transmis*.
+
+Le druide **Kessa de Velathor** (cf. *Histoires* — *Le Chamane et l'Arbre Mort*), dans une vallée isolée, a, elle, fait quelque chose de différent : elle a *accompagné* la mort d'un esprit (l'arbre mort dont la graine donnait naissance à son successeur), et reconnu publiquement que *l'ancien était parti*. Sa pratique est marginale, non doctrinale, et Velathor préfère ne pas la commenter.
+
+### La Forêt qui Garde
+
+Ce que les Trinoriens disent peu, mais que les voisins observent : **la forêt elle-même semble protéger Trinoria**. La clairière évitée près de Falorin (cf. *Histoires* — *Ce que la Forêt Garde*) est l'un des incidents documentés ; il y en a d'autres. Des incursions étrangères qui se perdent. Des éclaireurs qui reviennent confus. Des bruits dans les arbres, des présences entrevues, des choses qui aident sans qu'on sache *qui*.
+
+La doctrine officielle attribue ces phénomènes aux **Gardiens Sylvestres** — entités géantes de bois et de pierre dont les peuples du nord (Brynthor, frange Ysundara) rapportent l'existence. Les Gardiens Sylvestres sont, à Trinoria, vénérés à distance — on ne les invoque pas, on ne les sculpte pas, on ne les nomme pas trop fort. Ils sont, dans la cosmologie trinorienne, *ce qui justifie* le refus de codifier le nord. Tant que les Gardiens veillent, Trinoria n'a pas besoin de murs.
+
+Cette croyance est partiellement vraie. Elle est aussi extrêmement commode : elle permet à Trinoria de *ne pas regarder* la possibilité que la forêt elle-même soit un être qu'il faudrait pleurer un jour.
 
 ---
 
@@ -101,6 +135,14 @@ La cuisine trinorienne est sauvage et raffinée : gibier rôti sur bois de cèdr
 ### Architecture
 
 Les Trinoriens construisent avec et dans les arbres. Les villages sont des réseaux de plateformes, de passerelles suspendues et de maisons encastrées dans les troncs des arbres les plus anciens. Les villes plus grandes utilisent du bois pétrifié — un matériau que les druides savent produire en accélérant le vieillissement du bois par magie — aussi résistant que la pierre mais conservant l'apparence du bois.
+
+### Biais culturels
+
+- **L'arc comme mesure de l'humain.** L'Épreuve de l'Arc à quinze ans détermine la place sociale d'un Trinorien pour la vie. Réussir, c'est être *Chasseur Libre* ; échouer trois fois, c'est être *Laboureur* (statut acceptable mais sans accès au Conseil des Bois). Cette norme produit une nation extraordinairement habile à l'arc et profondément clivée entre ceux qui ont *visé juste à temps* et ceux qui ont *failli*. Les Laboureurs nourrissent le pays. Les Chasseurs le gouvernent. Personne n'en discute.
+- **Le silence dans la chasse.** La Grande Chasse Silencieuse impose le silence absolu. Cette discipline, transposée hors de la chasse, donne aux Trinoriens une réputation de *taciturnité* (largement justifiée). Les visiteurs étrangers trouvent les Trinoriens difficiles à connaître ; les Trinoriens trouvent les voisins bavards.
+- **La méfiance envers l'écrit.** Les druides du Vael'Kurash ne *transmettent pas par écrit* — leur savoir passe par les tatouages, les cérémonies, la mémoire orale. Cette norme protège la diversité des pratiques régionales (chaque druide adapte ce qu'il transmet) ; elle empêche aussi toute correction des dérives accumulées (personne ne peut comparer un rituel actuel à un rituel d'il y a cent ans, sauf en interrogeant les chamanes anciennes — qui sont, elles aussi, codifiées dans leur mémoire).
+- **L'amitié des esprits, en pratique.** Les Trinoriens parlent aux arbres. Aux rivières. Aux pierres. Pas comme on parle à une personne — comme on parle à *quelque chose qui écoute peut-être*. Cette pratique est la plus belle chose que la culture trinorienne produit. Elle est aussi celle qui empêche le plus efficacement le deuil.
+- **Le mépris poli pour Lumasar et Kharazir.** Les érudits de Lumasar sont, pour les Trinoriens, *« des gens qui parlent à des livres »* (cité d'un proverbe de Velathor). Les Kharaziri sont *« des gens qui se classent eux-mêmes »*. Ces images sont à la fois drôles et fermées — elles dispensent les Trinoriens de se demander ce que les autres pourraient leur apprendre. La rancœur envers Valoria, en revanche, est culturellement entretenue (Garde Sylvestre, Gorthorn).
 
 ---
 
@@ -310,3 +352,54 @@ Total : **18 villes/villages** réparties sur **6 régions**.
 | Sylthar | Fyrilith | Village |
 | Talvoria | Fyrilith | Village |
 
+---
+
+## Cadre interne — Patterns
+
+> Encadré technique réservé aux rédacteurs et agents travaillant le Lore. N'apparaît jamais in-world.
+
+**Piège Institutionnel dominant : L'Âge de la Loi figée, doublé d'un Déni du Sablier.**
+
+1. **Loi figée vael'kurashe** (piège primaire). La codification d'Eltheran (an 90) a transformé une pratique vivante en dispositif rituel. Les druides appliquent les rites parce que les rites sont à appliquer. Les chamanes hétérodoxes sont tolérés mais marginalisés. Les esprits, en pratique, *répondent moins*. Cela n'empêche pas la doctrine de continuer.
+
+2. **Déni du Sablier vael'kurashe** (piège secondaire — exactement le piège dominant de la religion *Vael Kurash* selon sa fiche). Trinoria refuse l'extinction des esprits. Le Cerf Blanc est *toujours le même* (alors qu'il y en a eu onze). Les arbres millénaires sont *les mêmes ancêtres*. Les rivières *parlent encore*. La nation s'est construite sur l'idée que ce qui est sacré ne s'éteint pas — et donc, sur l'incapacité à pleurer. Quand un esprit s'éteint vraiment (un arbre meurt sans descendance, une vallée se vide de sa présence), la doctrine officielle classe cela comme *« retrait temporaire »* ou *« sommeil »*. Elle n'admet pas la mort des esprits.
+
+**Cohérence avec les religions :**
+- *Vael Kurash* (Déni du Sablier, cf. fiche) : Trinoria en est l'incarnation institutionnelle. Veshva des Cavernes (cf. fiche religion : femme qui *« veille les esprits qui ne reviendront peut-être pas »*) est *trinorienne en spirit* mais — en cohérence avec la fiche religion — opère plutôt à Alkaran. Sa pratique est *parente* de celle de Kessa de Velathor à Trinoria.
+- *Lex Petra* secondaire (Loi figée, cf. fiche) : présente surtout dans Grendor (frontière valorienne) où la rigueur petranienne offre un contre-poids martial à la fluidité druidique. Cohabitation discrète sans conflit doctrinal majeur.
+
+**Âge moral collectif majoritaire : La Loi.** Les Trinoriens ordinaires (Chasseurs Libres, Gardes Sylvestres, druides ordinaires) appliquent les codes vael'kurashis avec piété. Le Désir affleure chez les jeunes archers du Tournoi, chez les chasseurs ambitieux. Le Principe est rare — quelques chamanes hétérodoxes, quelques chasseurs comme Dorren de Ralynor (*Histoires*), Kessa de Velathor.
+
+**Figure-clé portant la Vertu Cachée :**
+
+**Kessa de Velathor** (an 178-251). Chamane du Vael'Kurash dans une vallée aux abords de Velathor. A *accompagné* la mort d'un arbre sacré et planté sa graine successrice publiquement, reconnaissant que *l'ancien était parti et que le nouveau était autre*. Sa pratique — accepter doctrinalement *que les esprits puissent s'éteindre* — n'a pas été condamnée par Velathor (qui aurait dû la condamner) parce qu'elle s'est gardée de la formuler comme thèse. Elle l'a juste *vécue*. Morte de vieillesse, an 251, à 73 ans. Son tatouage le plus récent — gravé sur l'avant-bras gauche, le matin de sa mort — porte un seul symbole, qu'elle avait inventé : *« ce qui s'en va et qu'on a aimé »*. Aucun druide officiel n'a su le lire après elle.
+
+**Vertu portée :** **Le Sablier** (Vertu #5). Kessa a accepté la finitude des esprits qu'elle vénérait — sans bruit, sans schisme, sans manifeste. Sa Vertu est gratuite — Velathor ne la compte pas parmi ses figures majeures (ce serait l'admettre comme thèse). Ses apprenties, sept ou huit, continueront sa pratique sans la formaliser. Le Vael'Kurash officiel restera dans son Déni du Sablier doctrinal pour deux ou trois siècles encore.
+
+**Mort marquante** : Kessa meurt sereinement, dans la cabane qu'elle occupait depuis cinquante ans, en regardant le jeune arbre qu'elle avait planté à la mort de l'ancien. Le Concile des Druides ne lui dédie aucune fête. Une stèle simple est érigée par ses apprenties — pas une stèle commémorative officielle, juste une pierre marquée du symbole qu'elle avait inventé. Les druides de Velathor passent devant sans la commenter.
+
+**Figures-clés secondaires :**
+
+- **Dorren de Ralynor** (chasseur, *Histoires* — *Le Chasseur qui Épargna*) — porte **Le Tranchant** (Vertu #4) en filigrane : il refuse de tirer sur ce qui mérite de guérir. Pas de doctrine ; pas d'enseignement. Une pratique qu'il ne saurait pas formuler.
+- **Le seigneur Mael de Gyndor** (*Histoires* — *La Chasse qui N'eut Pas Lieu*) — figure intéressante, *intermédiaire* : son geste (refuser de tuer le Cerf Blanc) est lucide à un niveau (préserver la *raison* de la chasse), aveugle à un autre (il participe à la doctrine de la persistance — il *transmet* la fonction du Cerf à son successeur, sans dire publiquement que l'ancien est mort). Mael est exactement le type de figure que le cadre demande de ne pas surinterpréter : *partiellement* dans le Principe, *encore* dans la Loi.
+- **Yrath-le-Vieux-Père de Velathor** : druide qui rencontre Sorin Valthen au chapitre 7 (*Les Druides*). Il porte **Le Voile** (Vertu #2). Sa phrase à Sorin — *« un cartographe doit savoir quand il ne sait pas »* — est, selon les notes A.4 (cf. _arc-sorin), la phrase-pivot que Sorin oubliera puis retrouvera à la fin de son arc. Yrath n'enseigne pas — il *remarque*. Il meurt obscur, comme tous les autres.
+
+**Conflit moteur de la nation :**
+
+**La tension entre la Codification et la Vivante.** Trinoria veut maintenir un dialogue vivant avec les esprits, mais elle a codifié les rites qui rendent ce dialogue possible. Plus elle codifie, moins les esprits *répondent*. Plus les esprits répondent moins, plus elle compense par la doctrine de la persistance (*« ils sont là, simplement nous n'écoutons pas assez »*). La nation est dans une boucle qu'elle ne peut pas voir — et qui, contrairement aux dérives de Kharazir ou de Lumasar, est *invisible de l'extérieur* parce que la forêt protège encore Trinoria de la chute.
+
+**Ce qui est *spécifiquement* trinorien (à ne pas dupliquer ailleurs) :**
+
+- Le Cerf Blanc Immortel et son successorat secret (mécanisme de Déni en boucle).
+- La transmission orale exclusive du Vael'Kurash (refus de l'écrit comme protection contre la critique).
+- Les Gardiens Sylvestres comme infrastructure de défense (qu'on n'invoque pas, qu'on ne nomme pas trop fort).
+- Le bois pétrifié comme matériau (technique druidique unique).
+- L'Épreuve de l'Arc comme tri social fondé sur une compétence physique précise.
+
+**Ratio brisé / relevé pour Trinoria** : pour chaque figure du Principe (Kessa, Dorren, Yrath, Mael partiel), prévoir 4-6 figures de la Loi *vivantes et compétentes* (Orlan IV roi-archer, Gyndaris commandant, druides ordinaires, Gardes Sylvestres dévoués, Maître-Archer Gyndaris, chasseurs traditionnels). La codification trinorienne est *belle* à voir ; le piège n'est pas dans la beauté mais dans l'absence de cri quand un esprit s'éteint.
+
+> **Note pour A.4 / cohérence Sorin** : Sorin traverse Trinoria au chapitre 7 (*Les Druides*, Velathor) et croisera Yrath. La phrase-pivot doit rester celle d'Yrath — *« un cartographe doit savoir quand il ne sait pas »*. Sorin ne doit pas en faire une thèse ; il doit l'oublier, la retrouver, et finir avec elle.
+
+---
+
+*Liens : [[Histoires/Galenor/Trinoria|Histoires de Trinoria]] | [[Religions/Vael Kurash|Vael Kurash]] | [[Religions/Lex Petra|Lex Petra]] | [[Galenor - Continent]]*

@@ -2,7 +2,7 @@
 tags: [lore, chronique]
 type: lore
 status: drafted
-last_review: 2026-05-02
+last_review: 2026-05-06
 needs_review_for: []
 ---
 # Chapitre 24 — Les Cavaliers des Steppes
@@ -126,6 +126,10 @@ J'avais entendu parler. À Evertia, déjà — des rumeurs, des bruits de voyage
 
 Le marchand dit : « Ils sont de plus en plus nombreux. J'ai vu des données — je ne dirai pas comment je les ai obtenues. Il y a trois ans, on en comptait une dizaine à Caeloria. L'année dernière, ils étaient peut-être soixante. »
 
+Le serviteur qui remit le vin à ce moment-là portait au cou un anneau de cuir rouge, mince, qui n'était pas un ornement. Je l'avais vu déjà à Nectoria sans m'arrêter dessus — sur deux femmes au marché du matin, sur un porteur dans la cour de l'auberge, sur l'homme qui balayait le couloir à mon arrivée. Je l'avais classé, dans la première heure, comme un signe de confrérie ou de quartier. La deuxième heure, j'avais compris ce que c'était. Je ne l'avais pas écrit. Le marchand me servit une rasade comme s'il ne voyait pas l'anneau du serviteur. Le serviteur posa la cruche et se retira sans qu'aucun de nous deux le remerciât. Le mot pour ces gens, à Vytharia, est *liés-au-foyer* ; le mot que les marchands étrangers utilisent entre eux, sans se vanter de le savoir, est plus court. Trois maisons sur dix à Nectoria les emploient sans contrat parce que l'anneau est le contrat. La République des Plumes a publié, il y a vingt ans selon mes lectures, un avis disant que la pratique était *en voie d'extinction*. Mes yeux disent autre chose. Mes yeux ne sont pas un avis publié.
+
+Je n'ai rien dit au marchand. Je n'ai pas demandé à voir le bureau qui régule les contrats de service. Je n'ai pas pris note du nom du serviteur — et je ne le pouvais pas, je ne le lui avais pas demandé. Ma Loi privée règle cela proprement : je suis ici pour cartographier ce qui se passe sous le sol, pas ce qui se passe au-dessus ; je ne peux pas tout porter ; mes faibles forces seraient mieux employées à comprendre ce qui menace cinq nations qu'à intervenir contre une coutume vyétharienne dont la République finira bien par s'occuper. Cela tient. Cela tient bien. C'est ce qui m'inquiète à présent, dans cette manière dont cela tient — la facilité avec laquelle on s'en arrange, la fluidité avec laquelle un anneau de cuir rouge entre dans le décor d'une cour d'auberge où un cartographe en voyage a besoin de manger et de dormir. J'écris la note dans la marge intérieure et je la laisse. Je ne reviens pas dessus.
+
 Je lui demandai depuis combien de temps le phénomène était apparu.
 
 Il réfléchit. « La première naissance documentée remonte à quatre ans. Peut-être cinq. »
@@ -224,7 +228,9 @@ Précisément sept mois avant le jour 465. Le jour 298.
 
 Quelque chose avait commencé ce jour-là. Quelque chose — ou le début d'une accélération, d'une augmentation d'intensité dans quelque chose qui avait commencé avant. Les chevaux agités de Lythar depuis l'automne, les esprits silencieux de Warenthor depuis six mois, les Cauchemars Éveillés de Vytharia depuis sept mois — le calendrier n'était pas le même partout. Il se précisait. Il s'approchait.
 
-Je notai tout cela avec la méticulosité du cartographe qui sent qu'il a trouvé le point central d'une carte et qui en trace les cercles concentriques. Le centre n'était pas géographique. C'était temporel. Une date. Un événement que je ne connaissais pas encore, qui avait eu lieu quelque part — peut-être en dessous.
+Je notai tout cela avec la méticulosité du cartographe qui sent qu'il a trouvé le point central d'une carte et qui en trace les cercles concentriques. Le centre n'était pas géographique. C'était temporel. Une date. Un événement qui avait eu lieu quelque part en dessous, et qui n'attendait que d'être lu.
+
+Je traçai les cercles. Six points convergents, une date pivot, une direction. La carte tenait. C'est la sensation, à mon stade, d'un travail qui aboutit.
 
 ---
 
@@ -293,6 +299,8 @@ Je ne sais pas ce que je trouverai là-bas. Je sais que je dois y aller. Je sais
 Je serai ce quelqu'un, éventuellement. Ou je serai le cartographe qui a eu la Carte et qui n'a pas su la lire assez vite.
 
 La deuxième possibilité me tient éveillé. C'est ce qu'il faut, je crois, pour avancer.
+
+Je note, ce soir, ce que je tiens pour acquis après cinq cent jours de route et de recoupements : le monde peut être compris si on le regarde assez longtemps avec assez de soin. C'est la conviction du cartographe — celle sans laquelle aucune carte ne se trace. Je n'ai pas à la défendre. Elle me porte.
 
 La steppe de Lythar s'étend encore à ma droite, l'herbe ocre sous un ciel qui tient la pluie depuis deux jours sans la lâcher. À ma gauche, la silhouette lointaine des premiers contreforts du nord, le début de la géographie de Celethor. Devant moi, la route droite des plaines, ouverte et sans mensonge comme toutes les routes de Lythar.
 

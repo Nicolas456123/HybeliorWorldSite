@@ -2,7 +2,7 @@
 tags: [lore, chronique]
 type: lore
 status: drafted
-last_review: 2026-05-02
+last_review: 2026-05-06
 needs_review_for: []
 ---
 # Chapitre 38 — Les Routes Rouvrent
@@ -86,11 +86,11 @@ Il me fallait maintenant penser à la distinction Lié/Délié.
 
 C'était le point qui m'avait le plus longtemps résisté — non pas parce que les données manquaient, mais parce que c'était la conclusion la plus difficile à formuler, la plus inconfortable pour quiconque avait grandi dans un monde où cette distinction était une donnée fondamentale, une géographie de l'être considérée comme évidente. Les Liés, ceux qui appartiennent à un lieu, à un peuple, à une identité enracinée. Les Déliés, ceux qui n'appartiennent à rien — marqués à Kharazir par le tissu jaune obligatoire, surveillés dans les ports, tolérés ou rejetés selon les humeurs des administrations.
 
-J'avais mis deux cents jours à voir la chose que je voyais maintenant, et c'était ça : la distinction était artificielle.
+J'avais mis deux cents jours à voir la chose qui me semblait maintenant possible, et c'était ça : selon la lecture qui me venait ce soir-là dans le carré de l'équipage, la distinction était peut-être artificielle.
 
-Pas inventée — les Déliés existaient, leur condition était réelle, leur marginalisation était réelle. Mais le *sens* qu'on lui donnait était une erreur de lecture. On avait lu l'absence de lien ordinaire comme une absence de lien tout court. On avait confondu le fait de ne pas appartenir à un lieu avec le fait de ne pas appartenir au monde.
+Pas inventée — les Déliés existaient, leur condition était réelle, leur marginalisation était réelle. Mais le *sens* qu'on lui donnait pourrait bien être une erreur de lecture, selon ce que mes neuf cents jours me rapportaient. On aurait lu l'absence de lien ordinaire comme une absence de lien tout court. On aurait confondu le fait de ne pas appartenir à un lieu avec le fait de ne pas appartenir au monde.
 
-Les Déliés n'étaient pas sans lien. Ils étaient liés différemment. Comme des ancrages — des points où quelque chose de plus vaste que les nations et les cultures particulières se connectait au monde ordinaire. Chaque Délié que j'avais rencontré en huit cent soixante-dix jours portait en lui quelque chose qui n'avait pas de nom dans les langues courantes — une façon d'être en relation avec des énergies plus profondes que les affiliations de surface, une perméabilité aux couches du monde que les personnes bien ancrées dans leur Lien ne pouvaient pas développer, précisément parce qu'elles étaient ancrées.
+Selon ma lecture — et je précisais *ma* parce que je me défiais maintenant des phrases qui se présentaient sans cette précaution — les Déliés ne seraient peut-être pas sans lien. Ils seraient liés différemment. Comme des ancrages — des points où quelque chose de plus vaste que les nations et les cultures particulières se connectait au monde ordinaire. Chaque Délié que j'avais rencontré en huit cent soixante-dix jours portait en lui quelque chose qui n'avait pas de nom dans les langues courantes — une façon d'être en relation avec des énergies plus profondes que les affiliations de surface, une perméabilité aux couches du monde que les personnes bien ancrées dans leur Lien ne pouvaient pas développer, précisément parce qu'elles étaient ancrées.
 
 La vieille Mirathi, dont le Message portait le nom, était probablement une Déliée. Les Chamanes des Brumes, qui traversaient Cestra sans jamais lui appartenir et qui pouvaient parler aux esprits précisément parce qu'ils ne revendiquaient rien sur eux — des Déliés. Et mon père, qui avait traversé le même itinéraire que moi, qui n'appartenait à aucune ville depuis qu'il avait quitté Kharazir il y a onze ans, et qui était peut-être de l'autre côté d'un portail — un Délié jusqu'au bout, jusqu'au passage.
 

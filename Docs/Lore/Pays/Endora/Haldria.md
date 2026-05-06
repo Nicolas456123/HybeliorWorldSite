@@ -2,13 +2,19 @@
 tags: [lore, pays, endora]
 type: lore
 status: drafted
-last_review: 2026-05-02
+last_review: 2026-05-06
 needs_review_for: []
 ---
 # Haldria — Le Royaume des Étoiles et des Marées
 
 > *« En Haldria, on ne navigue pas à l'aveugle — les étoiles parlent à ceux qui savent écouter, et la mer obéit à ceux qui les comprennent. »*
 > — Capitaine Aldoria, Flotte de la Constellation d'Argent
+
+> *« Nous regardons depuis cinq cents ans le point où Haldros a vu. La constellation, depuis, n'a pas reparu. La table, depuis, ne s'est pas tue. »*
+> — Marge anonyme dans un cahier d'apprenti astronome, archives de l'Observatoire Royal, an 207
+
+> *« Ce que Sylveira a trouvé au-delà des Brumes, le royaume l'attend depuis cinq siècles. Personne n'a pensé à demander si elle était revenue. »*
+> — Carnet d'un cartographe de Tyrolis, jamais publié
 
 ---
 
@@ -230,10 +236,29 @@ Région méridionale et la plus étendue, Ravantis est une côte de plages longu
 
 ---
 
+## Climat intérieur — l'attente comme méthode
+
+À l'écoute longue d'un voyageur attentif, Haldria n'est pas tant un pays *qui scrute le ciel* qu'un pays *qui attend qu'il reparle*. Cette nuance, que les Astrologues de la Couronne refuseraient de formuler en ces termes, rend compte de quelque chose qui structure la nation depuis Sylveira : la conviction profonde que **quelque chose va revenir** — la constellation manquante, la flotte fantôme, la traversée de Sylveira, la table parfaite. Tout l'édifice culturel haldrien — les Tables, le rituel d'observation nocturne, l'orientation de la coupole de Hekorinth, la transmission héréditaire des routes des Brumes — est calibré sur cette attente.
+
+L'attente fait partie de la beauté de Haldria. Elle est aussi sa Loi. Un astronome de la Couronne formé à Hekorinth passe ses vingt premières années de carrière à scruter le point précis où Haldros a vu la constellation inconnue. Il sait, en théorie, que ce point pourrait ne plus jamais s'allumer. Il sait, en pratique, qu'aucun de ses prédécesseurs n'a renoncé à scruter. La discipline transmise est une **fidélité d'attente**. Cesser de scruter serait, dans la culture haldrienne, l'aveu que quelque chose est définitivement perdu — et la perte définitive n'est pas un concept doctrinalement disponible.
+
+Les Astrologues de la Couronne ont noté, depuis quelques décennies, que **certaines constellations paraissent avoir bougé**. La doctrine officielle tient l'observation pour théoriquement impossible. Les théologiens de Rota Mundi sollicités discrètement lisent ces variations comme une signature attendue d'un Souffle long. Les Astrologues préfèrent ne rien rendre public. Le voyageur attentif comprend, à Hekorinth, que **la nation préfère scruter le point fixe que reconnaître que le ciel a bougé**. Cette préférence n'est pas une fraude — c'est une discipline. Elle est, dans le vocabulaire endorien, *la forme la plus haute de la fidélité*.
+
+**Biais culturels à connaître :**
+
+- **Une carte qui n'a pas de blanc est une carte qui ment.** Maxime de Tyrolis, conservée jusqu'aujourd'hui, qui formule explicitement l'aveu d'ignorance — et qui s'applique aux *cartes* mais pas aux *Tables stellaires*. L'asymétrie n'est jamais commentée : une lacune cartographique est honnête ; une lacune astronomique serait une faute.
+- **Les Brumes appartiennent à la Couronne.** Les routes des Brumes sont un secret royal, transmises uniquement à l'aîné de la lignée et à quelques capitaines triés. Cette concentration de savoir est tenue pour *normale*. Le prince Thalorin, qui multiplie les expéditions, est inquiétant non parce qu'il prend des risques, mais parce qu'il pourrait *trouver autre chose que ce que Sylveira a trouvé*. La distinction est doctrinale. Personne ne la formule.
+- **Les marins doutent ; les Astrologues savent.** Hiérarchie épistémique de fait. Les pêcheurs de Ravantis qui rapportent des apparitions de la Flotte Fantôme sont écoutés poliment, jamais consignés officiellement. Les marins de Thyrin qui *appellent* les bancs de poissons en chantant ne sont pas crédités d'une compétence — ils sont décrits comme *« des artisans qui appliquent une tradition »*. La distinction est lourde.
+- **Sylveira reviendra.** Conviction populaire, jamais doctrinale, ineffaçable. La famille royale ne la dément ni ne la confirme. Trois siècles de silence officiel n'ont pas effleuré la conviction.
+
+---
+
 ## Relations extérieures
 
 | Pays | Relation | Détails |
 |------|----------|---------|
+| **Avalor** | Respect distant | Les astronomes haldriens et les druides avaloréens ne se contredisent jamais en public. Ils n'écoutent pas la même voix. Les échanges officiels passent par Perivalis et restent rares. |
+| **Sanvara** | Tension commerciale ancienne | Les Astrologues de la Couronne soupçonnent les Lecteurs de Saison sanvariens de pratiquer une astrologie sans qualification. Les Arbitres des Routes tranchent en faveur du droit de prédire. La controverse est latente depuis trois générations. |
 | **Gryndor** | Alliance intellectuelle | Les astronomes de Haldria et les savants de Gryndor entretiennent une correspondance riche. Les deux nations partagent un amour du savoir et de la méthode. |
 | **Lythar** | Curiosité réciproque | Les marins et les cavaliers se retrouvent aux ports côtiers et s'échangent des récits d'aventure. Un respect mutuel entre voyageurs de la mer et voyageurs de la terre. |
 | **Pyrtara** | Neutralité armée | Chacun respecte la puissance de l'autre sans chercher le conflit. Les routes maritimes de Haldria contournent soigneusement les côtes volcaniques de Pyrtara. |
@@ -301,3 +326,56 @@ Total : **18 villes/villages** réparties sur **4 régions**.
 | Tyrolis | Ravantis | Village |
 | Myrdan | Ravantis | Village |
 
+---
+
+## Cadre interne — Patterns
+
+> Encadré technique réservé aux rédacteurs et agents travaillant le Lore. N'apparaît jamais in-world.
+
+**Piège dominant : L'ESPÉRANCE VIDE.**
+
+Haldria est l'archétype d'une nation organisée autour d'**un retour promis qui n'arrive pas**. Trois attentes structurent la culture, sans qu'aucune ne soit jamais formulée comme telle :
+
+1. **L'attente de la constellation manquante.** Haldros le Navigateur a vu, une nuit, une constellation inconnue qu'il n'a jamais revue. Il a fondé Hekorinth à l'endroit exact d'où il l'avait observée. La coupole du Palais des Constellations est orientée précisément vers ce point. Cinq siècles plus tard, les Astrologues de la Couronne scrutent ce point chaque nuit. La constellation n'est jamais réapparue. **Personne ne propose de cesser**. La discipline d'observation tient parce que la promesse de réapparition est intacte.
+
+2. **L'attente du retour de Sylveira.** La reine Sylveira a traversé les Brumes Éternelles, est revenue avec un secret transmissible uniquement au monarque, et a refondé la marine. Elle est morte de manière connue ; la Flotte Fantôme aperçue par les pêcheurs de Ravantis est composée, selon les chroniqueurs, de navires de la flotte originale de Sylveira *« portée disparue lors de la Traversée »*. Cette dernière formule est curieuse : la flotte est officiellement revenue. Officieusement, certains de ses navires ne sont jamais réapparus. Les apparitions occasionnelles entretiennent l'idée que **quelque chose va finir par revenir**. Le prince Thalorin, qui multiplie les expéditions, agit dans l'angle mort de cette attente : sa quête est lue comme audace, jamais comme preuve que l'attente a peut-être déjà échoué.
+
+3. **L'attente du déchiffrement final.** Les Tables stellaires sont tenues pour *un système presque complet, qui sera complet quand on aura compris les dernières corrélations*. Cette croyance — que le déchiffrement total est *à portée* — anime la communauté astronomique depuis trois siècles. La pratique tient parce que le déchiffrement est promis. Si on cessait d'attendre la complétion, le sens des Tables s'effondrerait.
+
+Les trois attentes se renforcent mutuellement. Aucune n'a de mécanisme officiel d'invalidation. **Si on cessait d'attendre, l'édifice culturel haldrien — observatoire, Tables, transmission royale, syncrétisme Voie Stellaire du Vent — perdrait son sens en quelques décennies.** C'est précisément ce qui maintient la nation vivante. La promesse jamais tenue est la condition de fonctionnement.
+
+**Loi figée en doublure :** l'application des Tables stellaires à la navigation, à la prédiction des récoltes, au choix des constellations de naissance et de mariage est une discipline codifiée qui ne s'interroge plus. Les Astrologues de la Couronne *appliquent* les Tables, ils ne les *interrogent* pas. La méthode héritée de Sylveira (chercher l'amincissement des Brumes en fonction des cycles stellaires) est répétée sans qu'aucun monarque récent n'ait demandé si les cycles eux-mêmes avaient changé. Cette Loi figée est compatible avec l'Espérance Vide : on continue d'appliquer la méthode parce qu'on continue d'attendre qu'elle révèle ce qu'on attend.
+
+**Vertu Cachée affleurante : LE VOILE.**
+
+Haldria est, dans toute son histoire récente, en *risque permanent* d'apprendre le Voile. Trois pratiques en témoignent :
+
+- La **maxime de Tyrolis** (*« une carte qui n'a pas de blanc est une carte qui ment »*) — formulation explicite du Voile cartographique. Les cartographes de Tyrolis ont la discipline. Les Astrologues de la Couronne ne l'appliquent pas à leur propre domaine, et personne ne le leur a demandé.
+- Le **proverbe de Raldir** (*« Hekorinth regarde les étoiles, Raldir fait les comptes »*) — aveu populaire d'une asymétrie épistémique : les marchands savent que les Tables ne suffisent pas, mais ils n'ont aucun pouvoir doctrinal pour le formuler.
+- La **réticence des marins** à publier ce qu'ils observent. Les pêcheurs de Ravantis qui rapportent la Flotte Fantôme, les marins de Thyrin qui appellent les bancs en chantant, les capitaines qui rentrent des Brumes avec des observations atypiques : tous *savent* qu'ils ne savent pas tout. Aucun n'est doctrinalement validé.
+
+Sorin Valthen, en passant à Haldria (Ch. 22 : *Les Étoiles*), reconnaît cette discipline du doute : *« Haldria est la nation où les sages doutent professionnellement. »* Il l'admire — sans encore appliquer la même rigueur à ses propres conclusions. C'est une station du Voile dans son arc, et il ne l'attrape pas.
+
+**Figure-clé : Astronome Veidra de Zaldrin (an 134 — an 198).**
+
+Veidra naît à Zaldrin, l'île à peine cartographiée de l'archipel de Kandaros qui n'apparaît pas sur les cartes de navigation. Sa famille appartient à la lignée des ermites-astronomes du village. Elle est formée à l'observation dès l'enfance, dans les conditions de pollution lumineuse les plus basses du royaume — c'est-à-dire là où les Astrologues de la Couronne se rendent en pèlerinage pour vérifier ce qu'on ne peut pas voir depuis Hekorinth.
+
+À l'âge de vingt-trois ans, Veidra commence à corriger discrètement les Tables stellaires en marge de ses cahiers personnels. Pas pour les renier — pour les *ajuster*. Elle observe, par exemple, qu'une étoile mineure de la constellation du Cavalier ne correspond plus à sa position canonique d'environ un demi-degré. Elle le note. Elle ne publie pas. Les ermites-astronomes de Zaldrin ne publient jamais — c'est un trait de leur retrait.
+
+Vers ses quarante ans, Veidra commence à recevoir, par voie postale, des questions discrètes des Astrologues de la Couronne. Ils ont remarqué eux aussi des décalages. Ils demandent confirmation à Zaldrin, où la qualité d'observation est inégalable. Veidra répond. Elle confirme. Elle propose des révisions des Tables — révisions techniques, polies, exactes. Aucune n'est adoptée. La correspondance, sur trente ans, montre que les Astrologues *reçoivent* les corrections sans jamais les *intégrer*. Il n'y a pas de censure ; il y a une lenteur institutionnelle qui agit comme telle.
+
+À cinquante-cinq ans, Veidra cesse d'envoyer des révisions. Elle continue de répondre aux questions reçues, mais ne propose plus de modifications. Elle commence, dans ses cahiers privés, à écrire une autre forme d'observation — non plus *où sont les étoiles*, mais *comment se tiennent celles qu'on regarde*. Cette pratique, qu'elle appelle dans ses notes *l'écoute du ciel* (en parallèle, sans le savoir, de la pratique avaloréenne d'écoute des esprits et de la pratique cantorienne d'écoute des résonances), est rigoureusement non-publiable : elle ne produit ni Tables ni cartes. Elle produit un cahier annuel, où Veidra consigne ce qu'elle a *vu sans pouvoir le mesurer*.
+
+Veidra meurt à soixante-quatre ans, après avoir tenu trente ans le poste d'observatrice principale de Zaldrin. Elle laisse trente-deux cahiers. Les ermites-astronomes les transmettent à la Couronne, comme le veut l'accord. Les cahiers sont déposés aux archives. Aucun n'est consulté. Il faudra attendre l'an 246, près de cinquante ans après sa mort, pour qu'une jeune apprentie d'Hekorinth, par hasard, en lise un — et constate que Veidra avait noté, en marge d'une observation banale, *« la constellation de Haldros n'est peut-être plus là où il l'a vue. Elle est peut-être ailleurs. Personne ne pense à regarder ailleurs. »*
+
+L'apprentie publie cette note dans un mémoire mineur. Elle n'est ni acclamée ni condamnée. Le mémoire est lu poliment et classé. Personne ne pense à *regarder ailleurs*. La Couronne continue de scruter le point fixe.
+
+**Mort marquante :** Veidra meurt sans cérémonie. Les ermites-astronomes de Zaldrin n'organisent pas de funérailles publiques. Elle est inhumée dans le petit cimetière de l'île, parmi les six tombes des ermites précédents. Sa pierre porte les coordonnées d'observation de Zaldrin, sans nom, comme l'usage local. Personne à Hekorinth ne marque sa mort. La nouvelle ne remonte officiellement que trois ans plus tard, dans un rapport administratif qui mentionne *« le poste de Zaldrin a été repris par sa nièce, Veidra deuxième du nom »*.
+
+**Conflit moteur :** la tension entre **fidélité à la Table** (continuer de scruter le point que Haldros a vu, soutenir l'édifice astronomique haldrien) et **honnêteté de l'observation** (admettre que le ciel a bougé, donc que la Table doit être révisée, donc que l'attente fixée par Haldros est peut-être déplacée). Cette tension, structurellement inavouable à l'échelle institutionnelle, est portée par les ermites-astronomes de Zaldrin, par les cartographes de Tyrolis, par certains capitaines des Brumes — et n'est jamais agrégée en position politique. Le prince Thalorin pourrait être un foyer involontaire de cette tension : ses expéditions risquent de produire une donnée dont la Couronne ne saurait que faire. C'est précisément pour cette raison que les Astrologues de la Couronne s'inquiètent.
+
+**Cohérence avec Cantus Mundi (Calistor) :** Veidra est, par sa trajectoire, un pendant haldrien (et féminin, et insulaire, et silencieux) de Maître Calistor. Tous deux ont *observé / chanté / tenu* avec une rigueur supérieure à la doctrine de leur tradition. Tous deux ont *cessé de fournir les conclusions attendues*. Tous deux ont continué leur pratique sous une forme privée, non-publiable, qui n'a été reconnue qu'après leur mort et de manière marginale. Aucune connexion historique entre Veidra et Calistor n'est attestée — Cantus Mundi est rare à Haldria, et Veidra n'est pas musicienne. La parenté est *structurelle*, encore une fois. **L'École Sourde de Calistor a un cousin haldrien sans nom : ce sont les ermites-astronomes de Zaldrin qui ont cessé d'envoyer des révisions et qui continuent d'observer.**
+
+**Âge moral collectif majoritaire : LA LOI** (estimée à ~80% de la population). La Cour est dans la Loi (héritage royal, Tables, transmission). Le clergé Ordo Caelum est dans la Loi (doctrine officielle, fidélité aux Tables). Les marchands sont en partie dans la Loi (*« Raldir fait les comptes »*) et en partie dans le Désir (les Brumes profitables, les routes lucratives). Les marins sont les plus nuancés — beaucoup pratiquent une forme de Voile sans le formaliser. Le Principe est rare : Veidra, quelques cartographes de Tyrolis, peut-être l'Abbé du temple de Fyndor (le temple sans plafond — cf. *Histoires de Haldria*).
+
+**Tonalité d'écriture :** précision des observations, beauté des Tables, dignité de l'attente. Aucun mépris pour la culture haldrienne — c'est une culture admirable. L'ironie sourde tient dans le contraste entre la *finesse* de l'observation et la *fixité* de l'attente. Les Astrologues de la Couronne ne sont pas des imbéciles — ils sont fidèles à une promesse qui les empêche de regarder ailleurs. C'est précisément ce qui les rend touchants.

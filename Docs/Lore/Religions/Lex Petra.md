@@ -1,8 +1,8 @@
-﻿---
+---
 tags: [religion, lore, cosmologie, refonte-2026-05]
 type: lore
 status: drafted
-last_review: 2026-05-02
+last_review: 2026-05-06
 needs_review_for: [enrichissement-doctrinal-V4, hérésie-vs-orthodoxie]
 nom_latin: Lex Petra
 entites_venerees: [Terranu, Gravitas, Judicar]
@@ -50,83 +50,111 @@ Le nom *Lex Petra* signifie « Loi de Pierre » en langue d'Alkarath ancienne. C
 
 ---
 
-## Doctrine principale
+## Doctrine officielle
 
 La terre est la **fondation de toute chose**. La loi et l'ordre sont des forces naturelles inscrites dans la structure même du monde. Violer la loi, c'est violer la nature.
 
-**Lectures concurrentes :** plusieurs traditions extérieures (notamment Foedus Animae, Vael Kurash et certains Académiciens de Lumasar) soutiennent que Judicar arbitre les **lois cosmiques** — l'équilibre des dettes entre entités, le poids des serments dans la trame du monde — et non les codes légaux des mortels. Selon ces lectures, la fusion opérée par Lex Petra entre équilibre cosmique et codes humains est une extrapolation abusive, et la religion en serait venue à fonctionner autant comme outil de pouvoir que comme foi sincère, en légitimant des systèmes judiciaires qui n'ont de "naturel" que le nom. Les Petrani contestent fermement cette accusation : pour eux, distinguer les "lois cosmiques" des "codes humains" reviendrait à priver Judicar de toute application concrète. Les arguments ne sont pas réconciliables.
+Le Lex Petra repose sur une affirmation centrale : **la loi est un état du réel, pas un choix des hommes**. La pierre tient parce qu'elle obéit ; la rivière coule parce qu'elle obéit ; l'astre revient parce qu'il obéit. Les mortels qui obéissent prennent place dans cet ordre ; ceux qui transgressent en sortent — et ce qu'ils perdent en sortant n'est pas une faveur, mais un *appui*. La pierre ne juge pas par colère, elle juge par poids.
 
-**Pratiques :**
-- Tribunaux sacrés dans des salles taillées dans la roche
-- Serments sur la pierre brute — aucun accord valide sans ce rituel
-- Architecture monumentale comme prière — bâtir grand, c'est honorer Terranu
-- Extraction minière ritualisée — les mines sont des espaces semi-sacrés
+> *« Quiconque jure devant la pierre prête à la pierre la part de son nom qui ne ment pas. Si la parole se brise, c'est l'homme qui se brise — la pierre, elle, ne sait pas faillir. »*
+> — Préambule du Code des Sept Marches d'Altram, gravure souterraine
 
-**Clergé :** Les *Petrani* — prêtres-juristes servant à la fois de guides spirituels et de conseillers légaux.
+Trois principes ordonnent la doctrine :
 
----
+1. **L'antériorité de la Loi.** La Loi précède le législateur. Les codes que les Petrani recopient ne sont pas inventés — ils sont *retrouvés*. Chaque génération de juristes-prêtres affine une compréhension qui ne sera jamais totale, parce que la pierre en sait toujours davantage que ceux qui la consultent.
+2. **L'équivalence du pesant.** Toute injustice est un déséquilibre, et tout déséquilibre se mesure. L'amende, la peine, la réparation — autant de manières de remettre du poids dans le plateau allégé. Cette logique gouverne autant les serments familiaux que les jugements capitaux. Elle est la même.
+3. **L'invocation comme témoin.** Aucun acte juridique n'est valide s'il n'a pas été *posé devant* la pierre. Un mariage prononcé hors d'un sanctuaire de roche est une simple formalité ; un serment proféré sans contact physique avec la pierre brute n'engage rien. Cette exigence donne aux Petrani le contrôle effectif de tous les actes engageants — naissance, alliance, héritage, contrat, jugement.
 
-## Position sur les Liés et Déliés
+> *« Ce qui n'est pas posé devant la pierre n'est pas posé. Tout se rejoue à chaque génération sauf ce qui est gravé. La gravure tient pour soixante générations ; ensuite, la pierre elle-même demande qu'on relise. »*
+> — Sentence du Tribunal de Lithane, an -210 S, citée en exemplum dans tous les manuels d'apprentissage Petrani
 
-Position **strictement légaliste**. La loi est la loi. Un non-Lié et un Lié sont théoriquement égaux devant la pierre. Mais à Altram (nation dominante), une **discrimination dans la noblesse** s'est installée : les non-Liés ne peuvent pas porter de titres nobles. Dans les mines (cœur économique d'Altram), les non-Liés ont l'égalité de fait. À Mosrack, la **Charte de la Mer** (~9 200 ap.A) ferme les guildes navales aux non-Liés — interprétation locale du Lex Petra que d'autres Petrani contestent.
-
-**Position sur les Déliés (sevrés volontaires) :** crime majeur. Couper son Lien est une **violation des lois naturelles** — donc un crime religieux ET civil. Les Catena Fracta sont activement persécutés sur les territoires Lex Petra (Iskara, Altram, Gryndor en mélange).
+La doctrine refuse formellement l'idée de **changement substantiel**. Le Souffle, les ères, les renégociations cosmiques — autant de phénomènes que la doctrine officielle classe comme *perturbations* ou *illusions*. La pierre demeure ; ce qui change est moins réel que ce qui dure. Cette posture donne au Lex Petra une force inhabituelle : il est la seule religion d'Hybelior à *refuser* explicitement le Souffle. Elle lui donne aussi une fragilité particulière — chaque ère qui passe sans qu'il consente à bouger ronge un peu plus son rapport au réel.
 
 ---
 
-## Interprétation du Souffle
+## Vie quotidienne
 
-> Cf. [[Le Souffle]] §"Interprétations religieuses"
+Altram est une ville où l'on parle bas. Les rues sont taillées à hauteur d'écho : un mot prononcé à voix forte revient à l'orateur. Les enfants apprennent tôt à mesurer leur volume — non par crainte d'autrui, mais par respect de la pierre qui *retient* ce qu'on a dit. Une parole trop forte est une parole déjà gravée ; on ne peut plus la reprendre.
 
-**Lex Petra sur le Souffle : Hérésie — la "vraie" Lex Petra rejette le Souffle ; sectes dissidentes l'acceptent.**
+Le **calendrier Petrani** suit un cycle de **trente jours** divisé en trois décades. Chaque décade est un *poids* dans la balance liturgique annuelle. Il n'y a pas de semaine ; il y a des **Marches**. La première Marche de chaque décade est consacrée à la révision des codes de la cité ; la deuxième aux tribunaux ouverts ; la troisième aux serments familiaux. Les rites quotidiens sont sobres : à chaque levée du soleil, le maître de maison pose la main droite sur le seuil de pierre et prononce trois mots — son nom, le nom de la cité, le nom de la pierre. Le geste dure une seconde. On le répète chaque matin pendant toute sa vie.
 
-> [!important] Hérésie vs orthodoxie
-> La **doctrine officielle** du Lex Petra **rejette le Souffle** comme phénomène cosmique. La loi est immuable, donc le Souffle (qui change les choses) ne peut pas être une vérité fondamentale — au mieux, c'est une perturbation à supporter, au pire une illusion.
->
-> Mais des **sectes dissidentes** (les *Petrani du Mouvement*, marginales mais persistantes) **acceptent le Souffle** et tentent de le réconcilier avec la pierre — en l'interprétant comme « la pierre qui s'use lentement, mais reste pierre ». Cette dissidence est tolérée mais non reconnue par le clergé central.
->
-> **Conséquence gameplay :** un Lié de Voie de Tempora et fidèle Lex Petra orthodoxe est dans une **contradiction théologique douloureuse**. C'est un thème narratif riche.
+Quatre grandes cérémonies structurent l'année :
 
-L'**Accord** (cf. [[L'Accord]]) est largement **rejeté** par le Lex Petra orthodoxe — un fidèle ne devrait pas chercher à s'aligner sur l'ère qui change, mais à *rester ferme*. Les sectes dissidentes acceptent l'Accord comme « adaptation tactique sans abandon des principes ».
+- **L'Ouverture des Codes** (équinoxe de printemps) : les Tribunaux de Pierre des grandes cités présentent à la lecture publique les codes en vigueur. Chaque citoyen peut, en théorie, demander qu'un article soit relu. En pratique, seules les guildes et la noblesse ont le temps d'assister à la totalité des sept jours de lecture. Les codes ne sont jamais modifiés en séance — la modification suit une procédure distincte qui prend des décennies.
+- **La Pesée des Serments** (solstice d'été) : les couples nouvellement engagés, les apprentis ayant achevé leur formation, les guildes ayant signé des contrats interrégionaux viennent renouveler leurs serments devant la pierre. La cérémonie est brève par engagement (une dizaine de minutes), mais accumulée sur la journée elle dure de l'aube au crépuscule. L'ambiance est silencieuse, méthodique — pas de chants, pas de musique. Le bruit le plus fort est celui des paumes qui se posent.
+- **Le Procès des Pierres** (équinoxe d'automne) : assemblée annuelle où les Petrani d'une cité débattent entre eux des cas litigieux de l'année — non pour les rejuger, mais pour préciser la doctrine. Les délibérations sont publiques, gravées en transcription sur des plaques de schiste. Les débats les plus tendus durent jusqu'à neuf heures. Aucun étranger n'est admis.
+- **La Veille des Marches** (solstice d'hiver) : nuit pendant laquelle les Petrani ne dorment pas, chacun dans le sanctuaire de sa cité, pour *écouter* la pierre. Officiellement, c'est une veille de méditation. En pratique, beaucoup de Petrani anciens admettent en privé qu'ils n'ont jamais rien entendu. La veille dure jusqu'à l'aube. Au matin, on prononce un serment collectif de fidélité aux codes pour l'année à venir.
 
----
+La **hiérarchie** est rigoureuse, à la fois religieuse et juridique. Les **Petrani-juristes** des tribunaux de quartier s'occupent des affaires courantes (contrats, héritages mineurs, conflits domestiques). Au-dessus, les **Pesants** — Petrani de seconde initiation — siègent dans les tribunaux centraux des grandes cités. Plus haut, les **Lecteurs des Codes**, peu nombreux, ont autorité pour proposer des modifications doctrinales à la **Conclave des Sept Cités** (Altram, Iskara, Mosrack, Gryndor, Valoria, Trinoria, Lithane-en-ruines pour la mémoire). La Conclave se réunit une fois par génération. Sa lenteur est revendiquée comme garantie de fidélité.
 
-## Géographie d'implantation
+Les **tenues** : robe de laine grise, ceinture de cuir épais, anneau de fer brut au pouce droit (gravé du sceau de la cité), bâton de marche court taillé dans la pierre — accessoire à la fois pratique (les Petrani parcourent souvent les souterrains) et liturgique (on l'utilise pour frapper le sol au début d'un jugement). Les Pesants ajoutent un pendentif en plomb à la hauteur du sternum ; les Lecteurs portent un manteau de cuir noir sur la robe.
 
-**Nations dominantes (Sillage) :** Altram, Iskara, Mosrack, Gryndor (mélangé avec Vael Kurash), Valoria, Trinoria (en seconde position).
+Les **gestes** : on ne signe jamais un papier important debout. On s'assied, on pose la paume sur la pierre la plus proche, on signe. On ne traverse jamais le seuil d'un tribunal sans incliner légèrement la tête. On ne prononce jamais le nom complet d'une famille — toujours un seul élément : le prénom seul devant un égal, le nom de famille seul devant un supérieur, jamais les deux ensemble sauf dans un acte juridique formel.
 
-**Présence secondaire :** Caeloria (mélangée à Ordo Caelum), Pyrtara (les Petrani militaires), tribunaux spécialisés dans la plupart des grandes villes.
-
-**Sites sacrés :**
-- **Tribunaux de Pierre d'Altram** — salles taillées dans la roche brute, lieux de jugement sacrés
-- **Cathédrale de Lex Petra à Iskara** — temple-tribunal, le plus grand bâtiment religieux d'Endora
-- **Marches de Sel d'Ulinor** — sites symboliques de la « pierre qui demeure » (cf. [[Traces des Ères]])
-- **Os des Géants d'Ilthara** — squelettes colossaux affleurant, lieux de méditation Petrani avancés
+Le **son** d'une cité Petrani, c'est le contact des paumes sur la pierre — un tapotement régulier, à toute heure du jour, dans toutes les rues. C'est une religion qui ne chante presque jamais ; les seuls chants liturgiques sont les *Litanies des Codes*, récitations rythmées et basses des articles fondamentaux, exécutées par les apprentis pendant leur formation. Un visiteur d'une autre tradition trouve les villes Petrani **ralenties** — démarche posée, voix mesurée, gestes économes. Cette lenteur n'est pas indifférence ; c'est une économie du serment. On parle moins parce que chaque parole engage davantage.
 
 ---
 
-## Relations avec les autres religions
+## Tensions internes
 
-- **Ordo Caelum** : alliance naturelle (ordre, hiérarchie, destin figé)
-- **Foedus Animae** : alliance secondaire — les morts ont des droits inscrits dans la pierre des tombeaux
-- **Vael Kurash** : tension structurelle — la pierre veut codifier ce que la forêt veut écouter
-- **Via Ventus** : conflit philosophique — la pierre et le vent sont deux principes opposés
-- **Ignis Aeternum** : alliance fonctionnelle (la pierre + le feu = la forge), surtout à Altram
-- **Catena Fracta** : ennemi mortel
+L'institution Petrani est massive, lente, structurée. Elle paraît invulnérable. Trois lignes de fracture la traversent pourtant.
+
+**L'orthodoxie des Lecteurs** — majoritaire, dominante — incarne la posture officielle. La Loi est immuable ; les codes sont la trace humaine d'un ordre cosmique antérieur ; toute innovation doctrinale doit être étouffée comme *érosion*. Les Lecteurs orthodoxes contrôlent les Conclaves, les nominations dans les grandes cités, l'enseignement des écoles juridiques. Leur prédication est austère et mobilisatrice : la fidélité aux codes est ce qui maintient le monde dans son équilibre. Une cité qui dévie est une cité qui s'effondre — l'argument est vérifiable, à condition de ne pas remarquer que les cités qui ont dévié *n'ont pas* toutes effondré, et que certaines de celles qui n'ont pas dévié sont mortes quand même.
+
+**Les Petrani du Mouvement** — minoritaires, tolérés à peine — acceptent le Souffle. Leur thèse : la pierre n'est pas immobile, elle s'use *lentement* ; ce qui change à l'échelle d'une vie ne signifie pas que la Loi a faibli, mais que la Loi inclut le mouvement à une autre échelle. Cette position fragile parvient à se maintenir parce qu'elle se présente comme *fidèle* — elle ne renie pas les codes, elle les replace dans une temporalité plus longue. L'orthodoxie la tolère parce que la chasser produirait un schisme ; la combat néanmoins en fermant les portes des grandes Conclaves à ses représentants. Aucun Petrani du Mouvement n'a jamais été nommé Lecteur.
+
+**Les Lithanniens** — clandestins, persécutés — sont les plus rares. Leur nom vient de la cité morte de Lithane, capitale du dernier grand empire de pierre, écroulée pendant la chute des grands empires. Pour eux, l'effondrement de Lithane est la **preuve** que la Loi peut faillir. Pas parce qu'elle est fausse, mais parce que la pierre elle-même *finit*. Ils ne sont pas dissidents par doctrine — ils sont dissidents par mémoire. Ils transmettent de bouche à oreille les noms des cités mortes, les codes oubliés, les serments dont les survivants n'existent plus. Leur pratique est solitaire. Quand on en trouve un, on le bannit dans les territoires Vael Kurash où il finit ses jours.
+
+Au cœur de ces tensions, deux questions que les Petrani ne posent jamais à voix haute. **Pourquoi Judicar ne répond-il plus ?** La doctrine officielle parle d'une *patience* divine ; les Petrani avancés savent que cette explication ne tient pas — Judicar était l'arbitre qui arbitrait, pas un attentif silencieux. Sa désactivation depuis l'Âge du Lien est un trou cosmologique que la liturgie comble en l'invoquant comme s'il répondait. Et **qui décide ce que la pierre dit ?** Les codes ne s'écrivent pas seuls ; les Lecteurs interprètent. La pierre ne contredit jamais le Lecteur, parce que la pierre, justement, ne parle pas. Cette circularité fonde l'autorité de l'institution. Plus elle se sait, moins elle se dit.
+
+L'institution gère son propre vide en accumulant la procédure. Plus Judicar se tait, plus les codes se précisent ; plus les codes se précisent, plus les tribunaux s'ouvrent ; plus les tribunaux s'ouvrent, plus les Petrani sont nécessaires. Le système se nourrit de l'absence qu'il devrait reconnaître. Personne n'écrit cela. Tout le monde, à un certain niveau de la hiérarchie, le sait.
 
 ---
 
-## Évolution doctrinale post-Arrachement
+## Lecture du monde
 
-**Avant l'Arrachement** : Lex Petra puissante, en partenariat avec les grandes structures juridiques de l'Empire de Lithane et de l'Hégémonie d'Aethran. Doctrine mature.
+L'**Arrachement** est, pour le Lex Petra, l'événement que la doctrine officielle a eu le plus de mal à intégrer. Une force assez grande pour fissurer le monde géographique remet en cause l'antériorité de la Loi. Le clergé a réagi par une **doctrine de la non-réaction** : si la pierre n'a pas répondu, c'est qu'elle n'a pas eu à répondre. L'Arrachement serait un *épisode externe à la Loi*, une perturbation qui n'engage rien de fondamental. Cette posture a l'avantage de protéger l'institution ; elle a le coût de la rendre incapable de penser ce qui s'est passé. Les Petrani les plus avancés gèrent ce coût en privé.
 
-**L'Arrachement** : choc profond. Les Tribunaux de Pierre tiennent — la pierre ne tombe pas — mais Judicar **devient inactif** (cf. [[Era 1a - Les Cosmiques]] §Judicar : « inactif depuis l'Âge du Lien »). Les Petrani sont confrontés à un paradoxe : leur Cosmique de la Justice ne répond plus.
+Les **Souffles cycliques** sont rejetés comme *illusion d'ère* ou *durcissement temporaire*. La doctrine officielle ne reconnaît pas qu'une renégociation cosmique puisse modifier les conditions de la Loi. Si quelque chose paraît changer — la chaleur, le rythme des récoltes, l'humeur des fidèles —, c'est l'observateur qui se trompe, pas la pierre. Cette lecture est fonctionnellement utile : elle permet aux Petrani de tenir leur posture pendant que les autres traditions dansent au rythme du Souffle. Elle rend en revanche la religion **aveugle** aux dynamiques cosmiques actuelles, et c'est cette cécité qui donne aux Petrani du Mouvement leur prise critique.
 
-**Pendant le Grand Silence (suite Arrachement)** : durcissement légaliste. La doctrine devient *strictement procédurale* — si Judicar ne répond plus, les Petrani feront son travail à sa place. Cette posture est l'origine de la critique des **Académiciens de Lumasar** : « les Petrani sont devenus des juristes sans dieu ».
+La **Polyphonie** — non nommée comme telle — est lue à travers la métaphore de **la voix gravée**. Chaque cité, chaque code, chaque serment ajoute une ligne au texte cosmique de la Loi. Ce texte n'est pas chanté ; il est *gravé*. Une voix vivante ne compte que si elle se laisse poser dans la pierre. Les voix qui passent sans graver ne comptent pas. Cette lecture privilégie l'écrit sur l'oral, le durable sur le passager, et exclut structurellement les traditions plus orales (Foedus Animae, Vael Kurash) du domaine de la « vraie » polyphonie. C'est arrogant. C'est aussi cohérent.
 
-**Premier Sillage** : émergence des **sectes dissidentes du Mouvement** — qui tentent de réconcilier la pierre avec le Souffle. Persécutées initialement, tolérées ensuite, jamais reconnues.
+Les **Cosmiques retirés** sont gérés par déni partiel. Pour le Lex Petra, Terranu et Gravitas sont *toujours présents* — leur action est constante (la pierre tient, les choses tombent). Judicar, en revanche, est *inactif*, ce que la doctrine officielle reconnaît du bout des lèvres en parlant de *patience*. La fiction d'une présence continue est entretenue par la liturgie : on continue à invoquer Judicar dans chaque jugement, à appeler son arbitrage dans chaque serment, à clore les Conclaves par une formule qui le nomme. Cette pratique a deux effets — elle préserve la dignité de l'institution, et elle empêche les Petrani de penser le silence cosmique comme tel. Le silence est masqué par la formule.
 
-**Sillage actuel (an 251)** : doctrine mature, mais marquée par l'**absence de Judicar**. Les Petrani les plus avancés explorent une **théologie de l'attente** — Judicar reviendra équilibrer toutes les dettes accumulées d'un coup. Cette espérance est terrifiante autant qu'elle est rassurante.
+Le biais central : la cosmologie Petrani ne sait pas penser **ce qui change**. Tout ce qui change est *moins réel* que ce qui dure. Vu du dehors, c'est une fuite organisée hors du temps — une manière de se rassurer en niant la condition de tout vivant. Vu du dedans, c'est la garantie d'un sol sur lequel poser le pied. La force de cette cosmologie est qu'elle *travaille* : on construit beaucoup, on jure solidement, on bâtit pour des siècles. Sa faiblesse est qu'elle ne sait pas vieillir.
+
+---
+
+## Une figure historique — Mère Karelya Vorn-Strigues, dite la Lectrice de Lithane (Sillage 12 — Sillage 79)
+
+Karelya Vorn-Strigues naît à Iskara dans une famille de Pesants de troisième génération. Sa formation est exemplaire : entrée à l'École Juridique de la Cathédrale d'Iskara à six ans, première initiation à treize, deuxième à vingt-deux. Elle se distingue par une mémoire absolue des codes — on raconte qu'elle peut citer, sans hésitation, n'importe quel article du *Code des Sept Marches d'Altram* en ne disposant que du numéro. Sa carrière est rapide : Pesante à vingt-six ans, Lectrice à trente-huit. Elle est la plus jeune Lectrice depuis quatre cents ans.
+
+Pendant les vingt années suivantes, Karelya est une orthodoxe modèle. Ses interprétations sont rigoureuses, ses jugements implacables, sa prédication redoutée. Elle est trois fois rapporteuse à la Conclave des Sept Cités. Elle ferme deux dissidences mineures du Mouvement par voie procédurale — sans procès, par simple non-renouvellement de leurs autorisations. Elle est respectée, peu aimée, jamais contestée.
+
+C'est en l'an 53 qu'elle entreprend sa mission décisive — celle qui changera tout, et qu'elle n'avait pas demandée. La Conclave la mandate pour parcourir, avec une délégation de Pesants, les *Marches mortes* — l'ensemble des cités Petrani qui se sont éteintes depuis l'Arrachement, au nombre de dix-sept connues. La mission est simple : recenser les codes encore lisibles, vérifier qu'aucune dérive doctrinale n'a contaminé les chroniques de fin, rédiger un rapport synthétique pour la Conclave suivante. Elle dure quatre ans.
+
+Le rapport de Karelya, remis en 57, fait soixante-trois pages. Il est techniquement irréprochable. Il est aussi, dans ses dernières dix pages, étrangement calme. Elle y consigne une observation que la délégation a refusé de cosigner : *« La Loi appliquée jusqu'à la fin n'a sauvé aucune des cités que nous avons visitées. Nous avons trouvé des codes intacts dans des bibliothèques sans lecteur, des serments parfaits dans des places sans pas, des tribunaux préservés dans des cités sans plaignant. La pierre tient. Les cités, elles, finissent. Je ne tire pas de conclusion doctrinale ; je consigne. »* Le passage est lu par la Conclave, débattu pendant six heures, et finalement *retiré* du rapport définitif au motif qu'il n'apporte rien aux articles qu'il commente. Karelya ne proteste pas.
+
+Elle n'écrit plus rien d'orthodoxe pendant les vingt-deux années suivantes. Elle continue à siéger comme Lectrice, mais ses interventions se raréfient. Elle prend l'habitude, controversée, de **clore ses jugements en silence** — au lieu d'invoquer Judicar à la fin, elle marque une pause, pose la paume, ne dit rien. Plusieurs collègues s'en plaignent à la Conclave, qui ne la sanctionne pas — son prestige protège son audace. Elle développe en parallèle une correspondance privée avec deux Petrani du Mouvement et un ancien Lithannien repenti, échanges retrouvés après sa mort dans un coffre de pierre scellé. Les lettres sont sobres ; elles ne théorisent rien ; elles posent des questions que Karelya ne pose jamais en public.
+
+Karelya meurt en 79, à soixante-sept ans, après une longue maladie qu'elle endure sans céder à la rhétorique du martyre. Ses funérailles sont nationales. Le panégyrique officiel, prononcé par la Conclave, célèbre son **inflexibilité doctrinale** et sa contribution à la fermeture de deux dissidences. Le rapport sur les Marches mortes n'est pas mentionné. Le passage retiré est, depuis, classé dans les Archives de Iskara sous le code *VS-053-α*, accessible aux Lecteurs sur demande motivée. On le consulte rarement.
+
+Une centaine d'années après sa mort, des Lithanniens clandestins ont commencé à graver, sur des pierres détachées des Marches mortes, sa phrase consignée — *« la pierre tient ; les cités, elles, finissent »* — sans signature ni attribution. La gravure circule. La Conclave a, à plusieurs reprises, demandé qu'on la fasse marteler. Le martelage prend du temps ; les pierres sont nombreuses ; elles continuent d'apparaître.
+
+---
+
+## Cadre interne — Patterns
+
+> [!note] Note de design — non in-world
+> Cette section est une note méta destinée aux rédacteurs et agents travaillant le Lore. Elle n'apparaît pas dans la fiction. Le vocabulaire ci-dessous (Pièges, Vertus, Âges) est une grille d'analyse ; les Petrani n'en ont jamais entendu parler.
+
+- **Piège Institutionnel dominant : L'Âge de la Loi figée.** Lex Petra est *enfoncée* dans ce piège — c'est son nom même. La doctrine officielle interdit l'interrogation des codes ; elle les *applique*. Quand un code ne fonctionne plus, on précise — on n'abroge pas. Quand une réalité contredit un article, on classe la réalité comme *perturbation*. Quand un Cosmique se tait, on continue à l'invoquer. Le mouvement même de la Loi vivante (interroger, reformuler, abroger, recevoir) est explicitement banni. La religion n'a pas lutté contre ce piège ; elle l'a *érigé en principe*. C'est précisément ce qui lui donne sa force — et c'est précisément ce qui la rend incapable de penser sa propre fin.
+
+- **Âge moral collectif majoritaire : La Loi.** Cas extrême et homonymique : les Petrani sont la religion la plus parfaitement représentative de cet âge. Obéir à la règle, défendre le code, transmettre l'ordre reçu sans le retravailler — c'est la définition même du Petrani idéal. L'âge du Désir est sévèrement réprimé (les jeunes apprentis impulsifs sont rappelés à l'ordre dès l'École). L'âge du Principe est presque introuvable ; quand il affleure, comme chez Karelya, il est *contenu* par le prestige institutionnel — on tolère la lucidité d'une grande figure tant qu'elle ne sort pas de la fonction.
+
+- **Vertu Cachée affleurante : Le Sablier.** Vertu rare dans le Lore — l'audit la signalait comme sous-incarnée. Lex Petra l'attire sans en vouloir : la pierre est *par excellence* l'objet qui invite à méditer la finitude (*« la pierre tient, les cités, elles, finissent »*). Les Lithanniens portent cette vertu de manière clandestine. Karelya l'a touchée. Les Petrani du Mouvement la flairent à travers leur acceptation du Souffle. Mais la doctrine officielle s'arrange pour la *recouvrir* par la promesse de durée — la pierre étant durable, on s'en sert pour nier le fait qu'on est, soi, mortel. C'est l'une des plus belles ironies du système : le matériau qui devrait inviter au Sablier est employé pour le refouler.
+
+- **Application narrative :** un PNJ Petrani par défaut est dans la Loi (Pesant rigoriste, juriste de quartier qui applique la procédure, apprenti fier de sa robe grise). Pour 1 figure du Sablier (Lithannien clandestin, vieux Lecteur revenu des Marches mortes, Petrani du Mouvement subtil), prévoir 4-6 figures de l'orthodoxie qui n'ont jamais touché la question de la finitude. Aucun PNJ ne doit énoncer le piège ou la vertu. Le lecteur les voit dans la lenteur des Conclaves, dans le *VS-053-α* classé en archives, dans Judicar invoqué qui ne répond plus, dans les Marches mortes que la doctrine officielle ne nomme presque jamais.
 
 ---
 

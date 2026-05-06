@@ -2,7 +2,7 @@
 tags: [lore, chronique]
 type: lore
 status: drafted
-last_review: 2026-05-02
+last_review: 2026-05-06
 needs_review_for: []
 ---
 # Chapitre 9 — L'Acier Éternel
@@ -253,9 +253,7 @@ Le Fragment Zéro pulse.
 
 Je n'ai pas de cadre de référence satisfaisant pour ce fait. J'ai la vibration de Velathor — l'arbre druide de Trinoria — et maintenant ceci, et ces deux choses ne sont pas la même chose mais elles ne sont pas étrangères l'une à l'autre non plus. Elles appartiennent peut-être au même registre de phénomènes que je ne sais pas encore nommer.
 
-Mon père était allé jusqu'à Thalendris. Sa lettre y mentionnait des tunnels — les mêmes que ceux que j'avais trouvés sous Kharazir. Je ne sais pas ce qu'il avait vu à Thalendris. Je ne sais pas où il est. Mais je commence à penser que les choses que je trouve en chemin ne sont pas des coïncidences de voyage. Elles sont des balises.
-
-Les balises ne sont utiles que si quelqu'un les a posées. Et si quelqu'un les a posées, c'est pour être suivi.
+Mon père était allé jusqu'à Thalendris. Sa lettre y mentionnait des tunnels — les mêmes que ceux que j'avais trouvés sous Kharazir. Je ne sais pas ce qu'il avait vu à Thalendris. Je ne sais pas où il est. Mais je commence à penser que les choses que je trouve en chemin ne sont pas des coïncidences de voyage. Quoi alors — je n'ai pas encore le mot. Je suis tenté d'écrire *balises*, parce que le mot est commode et qu'il permettrait de tracer la suite. Je m'abstiens. *Balises* présuppose un poseur de balises ; un poseur présuppose une intention ; une intention présuppose un destinataire. Trois pas en avant pour un fait observé deux fois — c'est trop, et un cartographe le sait. Je note ce que je vois. Je note la tentation de nommer. Je laisse le nom où il est : non encore mérité.
 
 Je ne sais pas encore si cela me réconforte ou si cela m'inquiète.
 

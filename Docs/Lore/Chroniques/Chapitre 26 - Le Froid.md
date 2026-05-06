@@ -2,7 +2,7 @@
 tags: [lore, chronique]
 type: lore
 status: drafted
-last_review: 2026-05-02
+last_review: 2026-05-06
 needs_review_for: []
 ---
 # Chapitre 26 — Le Froid Éternel
@@ -43,6 +43,12 @@ Ce n'était pas une question.
 Je lui dis que oui, c'était mon habitude depuis longtemps.
 
 Elle dit : « Chez nous, on n'emporte pas les histoires. On les garde. »
+
+Le second soir, à la même auberge, je partageai la table commune avec un homme qui mangeait une soupe noire de tourbe et de viande séchée. Il avait soixante ans peut-être. La cinquantaine durcie. Une oreille gauche absente — pas coupée nettement, retirée en hâte, l'os encore visible à la jonction. Il mangeait à droite, sans lever la tête, avec la lenteur économe des gens qui ont passé l'âge de manger pour le plaisir. Le pommeau de son couteau de table portait l'estampille d'une garnison frontalière dont je ne connaissais pas l'écusson. Sigra l'appela par son prénom — Joren — quand elle vint reprendre l'écuelle. Il leva les yeux. Il ne dit pas merci. Sigra ne le lui demanda pas.
+
+Je m'aventurai à lui demander l'heure — c'était bête, j'avais une horloge dans la salle au-dessus de la cheminée, j'avais besoin de dire quelque chose qui ne fût pas une indiscrétion. Il regarda au-dessus de moi vers cette horloge, puis il dit : *Sept heures et le quart.* Sa voix était bien. Il ajouta, sans que je le lui aie demandé : *Vous êtes du sud.* J'acquiesçai. Il dit : *Bonne route.* Il reprit sa soupe.
+
+Ce fut tout. Je m'attendais — c'est ma maladie d'archiviste — à ce que quelque chose de plus arrive, un récit, une plainte, un avis sur la frontière. Rien. Joren mangea sa soupe, paya sa monnaie cuivre par cuivre, sortit dans le froid qui happait la porte chaque fois qu'elle s'ouvrait. Sigra ramassa la table avec l'efficacité qu'elle mettait à tout. Elle ne dit pas qui il était, et je ne le lui demandai pas. La règle de Lysorn que je commençais à comprendre est qu'on ne raconte pas la guerre des vieux soldats à leur place quand ils ont décidé de la garder. Je le note quand même. Je ne sais pas pourquoi.
 
 ---
 
@@ -102,7 +108,9 @@ Les Elariens ne craignent pas la patience. Ils ont été formés à elle par des
 
 Cette patience, je la sentais aussi dans la façon dont Brynar m'avait parlé des récits. Les Elariens conservent depuis des générations des mémoires de ce que leurs ancêtres ont nommé l'avant-Arrachement, des mémoires sans doute déformées par le passage des bouches, sans exiger que ces mémoires donnent une réponse. Ils les tiennent. Ils les passent. Ils attendent que le contexte du monde soit un jour à nouveau tel que les mémoires aient un sens.
 
-Je me demandai si ce jour-là était proche.
+Je note, en marge, que je ne reverrai probablement pas Mira Dasthen. Le calcul est simple : le voyage dure, mes routes ne reviennent pas, les vies des autres ne s'arrêtent pas pour attendre les miennes. Je l'écris ici pour ne plus avoir à y revenir. Je n'avais pas remarqué que je le savais déjà.
+
+Je me demandai si ce jour-là — celui où les mémoires elariennes auraient un sens — était proche.
 
 Je n'avais pas de réponse. Je notai la question sans en écrire la réponse parce que les questions sans réponse méritent une page entière à elles seules, la place pour que la réponse arrive sans être bousculée.
 

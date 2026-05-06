@@ -2,7 +2,7 @@
 tags: [lore, chronique]
 type: lore
 status: drafted
-last_review: 2026-05-02
+last_review: 2026-05-06
 needs_review_for: []
 ---
 # Chapitre 15 — La Forêt qui Chante
@@ -261,6 +261,8 @@ Je sortis mon carnet et j'écrivis, dans l'obscurité, au jugé : *Quelque chose
 *Il m'a aussi dit, au moment où nous nous séparions, quelque chose que je veux noter exactement tel qu'il l'a formulé : « Vous écoutez d'une façon que je ne savais pas possible pour quelqu'un qui n'a jamais été formé. Ce n'est pas de la technique. Je ne sais pas ce que c'est. Mais ne l'arrêtez pas. »*
 
 *Je ne sais pas non plus ce que c'est. Je suis Délié — dépossédé de la tradition qui aurait dû me former, des cercles qui auraient dû m'initier, de la langue technique que les musiciens de Galdaris ont mis sept ans à apprendre. Je n'ai rien de tout cela. Ce que j'ai, c'est une sensibilité brute dont je n'avais pas conscience avant ce voyage — quelque chose que l'exil, paradoxalement, a rendu visible en me dépouillant de tout le reste.*
+
+*Je relis la phrase précédente. Je m'aperçois qu'elle me flatte — l'exilé qui découvre sa sensibilité supérieure parce qu'il a tout perdu. C'est trop bien tourné pour être vrai. Plus probablement, j'ai cessé d'être occupé pendant quelques semaines, et l'écoute a passé par là. La différence importe. Une sensibilité brute n'est pas un don : c'est une chambre vide. Tout le mérite, s'il y en a un, appartient à la chambre.*
 
 *Les Cantori de Thalmaris enseignent que la musique n'est pas, pour eux, une métaphore de la résonance du monde — qu'elle en serait l'accès direct. C'est leur lecture, et elle n'est pas la seule. Si elle a quelque vérité — si l'on peut entendre ce que cette tradition appelle le Souffle de Cantor par la musique, et ce que d'autres appellent autrement par les arbres, par la roche, par n'importe quel canal qui conduit assez loin dans l'écoute — alors peut-être que le canal importe moins que la disponibilité de celui qui écoute. Mais ce n'est qu'une hypothèse de cartographe qui aligne des points.*
 

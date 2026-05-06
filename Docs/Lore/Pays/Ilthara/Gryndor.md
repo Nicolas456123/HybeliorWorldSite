@@ -1,8 +1,8 @@
 ﻿---
-tags: [lore, pays, ilthara]
-type: lore
-status: drafted
-last_review: 2026-05-02
+tags: [lore, pays, ilthara, gryndor]
+type: nation
+status: canon
+last_review: 2026-05-06
 needs_review_for: []
 ---
 # Gryndor — Le Trône du Savoir Ancien
@@ -161,6 +161,61 @@ Région méridionale plus basse et plus tempérée, Tolvandor est la terre des a
 - **La Bibliothèque Scellée** : Sous les fondations de la Grande Bibliothèque de Holvendar se trouve une salle que le roi Theldryn III fit sceller lors de la Restauration. Les archives de la Restauration mentionnent qu'elle contient des textes « trop dangereux pour être lus et trop précieux pour être détruits ». Personne n'y a accédé depuis, et les rois successifs ont tous respecté l'interdiction — mais Vaelorn V a récemment ordonné un inventaire discret des sceaux. Ils s'affaiblissent.
 - **Le Cristal Pensant** : Les mineurs de Veylorn ont découvert dans les profondeurs un cristal qui émet une lumière pulsante semblant répondre aux questions qu'on lui pose. Le Conseil des Sages l'étudie en secret, partagé entre l'émerveillement et la prudence. Certains penchent pour une conscience emprisonnée — peut-être celle d'un être antérieur, voire contemporain des récits les plus reculés sur les Éternels. D'autres y voient un phénomène acoustique élaboré dont la lecture comme "réponse" relèverait de la pareidolie. Aucune des deux hypothèses n'a été démontrée.
 - **L'Infiltration de la Garde** : Plusieurs membres récents de la Garde Cristalline ont été recrutés avec des références falsifiées. Une enquête discrète suggère qu'un pays voisin — probablement Drakora — infiltre l'ordre militaire pour accéder aux secrets du royaume. Le commandant de la Garde soupçonne un complot mais n'a pas encore identifié tous les agents.
+
+---
+
+## Cadre interne — Patterns
+
+> Encadré technique réservé aux rédacteurs et agents travaillant le Lore. N'apparaît jamais in-world.
+
+**Piège Institutionnel dominant : ÂGE DE LA LOI FIGÉE (variante bibliothécaire).**
+
+Gryndor est l'une des nations d'Hybélior où la Loi figée s'exprime dans sa forme la plus *cohérente*. La nation préserve. La nation classe. La nation transcrit sur pierre ce qui ne doit pas être perdu. Aucun de ces verbes n'est un défaut en soi — le défaut est dans l'absence d'une autre catégorie d'action. Gryndor ne *re-questionne pas*. Le Conseil des Sages a un veto, mais ce veto est utilisé pour préserver la rigueur, jamais pour la fissurer. Le Rite de la Première Connaissance — chaque enfant choisit un domaine à dix ans et présente un travail à un jury de maîtres — produit des Apprentis qui maîtrisent leur discipline et n'en ont jamais discuté la pertinence. Quand un domaine entier de savoir devient obsolète, Gryndor ne le remplace pas : il l'archive, et on continue d'enseigner les anciens textes au cas où.
+
+La spécificité gryndorienne est que la Loi figée s'y présente comme une *vertu*. À Pyrtara, la Loi (militaire) est dure et chacun la sent comme dure. À Gryndor, la Loi (bibliothécaire) est douce et chacun la vit comme un soin. C'est ce qui la rend imperméable à la critique : on ne fait pas de mal aux gens, on les *enseigne*. Un Apprenti gryndorien qui interroge la pertinence de son domaine n'est pas puni — il est *écouté avec patience*, puis re-orienté vers un domaine qui lui conviendra mieux. Personne n'est brisé. Personne n'est non plus libéré.
+
+**Cohérence avec la religion :** Gryndor est la nation où la **Lex Petra** atteint son équilibre interne maximal et son enfermement maximal. La pierre comme support du savoir, l'ancien graveur dans la pierre, les sermons-leçons d'histoire — tout ce dispositif fait de la Lex Petra non plus une religion qui pose une loi, mais un *protocole de conservation indéfini*. La Lecture des Fondations (équinoxe de printemps) — où une pierre gravée ancienne est exhumée et lue à la population — est l'exact symptôme du piège : on fait *parler les morts* à tour de rôle, sans jamais leur permettre d'argumenter contre. La voix des ancêtres est convoquée pour *dire ce qui se disait*, jamais pour contester ce qui se dit.
+
+La Rota Mundi secondaire complète : les historiens-Roteri étudient les cycles de civilisations et cherchent à dégager des tendances. Mais leur travail est *préventif* (préparer les déclins) plutôt que *transformatif* (interroger ce qui se prépare). Aucun Roteri gryndorien ne soutient publiquement que la Restauration a peut-être *aussi* été un déclin déguisé.
+
+**Âge moral collectif majoritaire : La Loi.** L'archi-majorité des Gryndoriens (Apprentis, Maîtres, Archivistes) est dans la Loi savante — leur Loi étant la procédure de classification. Le Désir affleure chez certains inventeurs de Zyrthar (qui *aiment* l'explosion, la nouveauté, le risque — ce qui les rend suspects à Holvendar). Le Principe est rare : il prend la forme d'archivistes qui transmettent l'incomplet sans le compléter (Selvorn — voir ci-dessous), de tailleurs qui acceptent de perdre leur don (Isylrin de Nelthoris, ch. *Histoires*), de mineurs qui descendent dans une mine où personne ne les suivra (Taldric de Veylorn). Aucune de ces figures n'est récompensée. Le savoir gryndorien n'a pas de Forge-Liturgie ; il a un *registre des sortants* — et personne ne consulte le registre des sortants.
+
+**Figure-clé portant la Vertu Cachée :**
+
+**Selvorn de Holvendar** (Maître-Archiviste de la Grande Bibliothèque, vivant). Apparaît au chapitre 17 des Chroniques de Sorin Valthen comme contact-relais — celui qui transmet la phrase de l'enveloppe (*« pas une brisure. Un déplacement »*) sans expliquer ce qu'elle signifie. Selvorn est le porteur gryndorien le plus pur du **Voile** (Vertu #2) : il sait beaucoup, il transmet peu, il refuse de combler les lacunes par des hypothèses. Quand Sorin lui demande pourquoi il ne montre pas les notes du prédécesseur, Selvorn dit *« Non »* — sans plus, sans excuse. C'est un Tranchant léger (Vertu #4) au service du Voile : refuser, c'est protéger l'incertitude. Selvorn n'enseigne pas le Voile à Sorin (il ne l'enseignerait à personne) ; il *l'expose* en silence et laisse Sorin prendre ou non la posture.
+
+Selvorn n'est pas en rupture avec Gryndor. Il fait partie du dispositif. C'est ce qui le rend efficace — et c'est aussi ce qui rend sa vertu *invisible à son propre pays*. Pour les Maîtres-Savants, Selvorn est un archiviste compétent et discret, sans plus. Personne n'imagine qu'il porte autre chose que la procédure. Quand il mourra (vraisemblablement dans la décennie qui vient — il est âgé), il sera enterré sous le pavement de la Grande Bibliothèque comme tous les Maîtres-Archivistes, avec une plaque qui dira *Selvorn, Maître-Archiviste, x à y, fidèle*. Aucun mot ne dira ce qu'il a fait. Aucun mot ne pourra le dire.
+
+**Conflit moteur de la nation :**
+
+**La tension entre la Préservation et la Mort des morts.** Gryndor préserve. Mais préserver, c'est aussi *empêcher de mourir tout à fait*. Les pierres gravées s'accumulent dans les fondations ; les ouvrages de la Grande Bibliothèque dépassent les trois millions ; chaque génération ajoute sans soustraire. Au bout d'un certain temps, la Bibliothèque ne contient plus ce qu'on doit savoir — elle contient *tout ce qui a été su*, sans tri. La conséquence : les Maîtres-Savants passent de plus en plus d'années à *retrouver* ce qu'ils cherchent, et de moins en moins d'années à *penser* ce qu'ils trouvent. La Bibliothèque Scellée des fondations (Theldryn III) est le symbole inversé du conflit : il *fallait* sceller pour préserver, mais sceller, c'est aussi *enterrer*. Le savoir scellé n'est plus un savoir — c'est un mort qu'on n'a pas eu le courage d'enterrer pour de bon.
+
+Le second conflit est entre **Holvendar** (la doctrine pure) et **Zyrthar** (l'expérimentation). Theldryn III a délibérément séparé les deux pour que les explosions de Zyrthar ne menacent pas la capitale. Cette séparation a un coût : Holvendar pense, Zyrthar fait, et les deux se parlent à peine. L'inventeur Maethra (cf. Histoires de Gryndor — *L'Explosion Parfaite*) qui disparaît dans son atelier en y laissant un cristal parfait est l'exact symptôme du conflit : Zyrthar produit ce que Holvendar ne sait pas reconnaître. Le Conseil des Sages confisque, scelle, classifie. Personne ne demande où est passée Maethra.
+
+**Ce qui est *spécifiquement* gryndorien (à ne pas dupliquer ailleurs) :**
+
+- La **Garde Cristalline** comme ordre militaire-érudit (loyauté au savoir avant le roi).
+- La **Lecture des Fondations** (équinoxe de printemps — pierre exhumée et lue) comme rite officiel.
+- Le **Rite de la Première Connaissance** (à dix ans, choix d'un domaine pour un an).
+- La **Bibliothèque Scellée** des fondations de Holvendar (textes *trop dangereux pour être lus et trop précieux pour être détruits*).
+- Le **Trône de Cristal** au plafond transparent (le roi se rappelle qu'il y a plus grand que lui — fiction d'humilité dans un dispositif qui ne questionne pas).
+- Le **Cristal Pensant** de Veylorn (lecture conscience-emprisonnée vs lecture pareidolie acoustique non tranchée par le Conseil).
+- L'**effondrement délibéré** des galeries de Holvendar lors du Déclin (archivistes qui ont sacrifié leur vie pour enterrer les bibliothèques) — récit récemment réinterprété par Vaelorn V.
+- La **technique de taille à la main blessée** de Nelthoris (Isylrin) — une lenteur forcée comme méthode de précision, dont le sens dépasse la technique.
+
+**Cohérence avec ch. 17 de Sorin :**
+
+Le chapitre 17 (Les Bibliothèques — Holvendar) est le **pivot** de l'arc de Sorin. Les règles posées par _arc-sorin §3 et §5.2 sont strictes : **Selvorn ne doit pas être un mentor**. Il doit refuser, transmettre des données brutes, laisser Sorin extraire seul. La phrase de l'enveloppe (*« pas une brisure. Un déplacement »*) est précieuse mais ne doit pas être *expliquée* dans le chapitre — elle reste suspendue. La fiche Gryndor doit donc soutenir cette posture : Selvorn est *intégré au dispositif Loi figée*, et précisément parce qu'il l'est, il peut transmettre l'incomplet sans le surligner. Si Selvorn était un dissident articulé, il serait expulsé ; sa vertu tient à ce qu'il *fait son travail* avec une fidélité supérieure à ce que la fidélité requiert.
+
+Sorin reçoit à Holvendar la phrase qui structurera sa Loi privée (la Carte du Silence, la convergence des six points). Gryndor n'est *pas responsable* de la régression de Sorin — c'est Sorin qui prend la phrase de Selvorn pour une révélation parce qu'il en a besoin. Mais Gryndor en est *l'occasion structurelle* : c'est dans une bibliothèque qui ne questionne plus que Sorin construit une certitude qui ne se questionne plus.
+
+**Cohérence avec ch. 18 (Le Sol — Ordavan) :**
+
+Sorin sort de Holvendar et traverse Ordavan, un village vitrifié en trois minutes (cf. _arc-sorin ch. 18). Il classe Ordavan comme *donnée* et passe à la suite. Gryndor n'a pas commenté Ordavan — c'est dans son territoire et le Conseil des Sages a archivé le fait sans mener d'enquête approfondie. Cette inaction est *cohérente avec le piège* : un événement qui excède le cadre de classification est traité comme une donnée *en attente* d'un cadre — c'est-à-dire, indéfiniment.
+
+**Ratio brisé / relevé pour Gryndor** : pour 1 figure de Principe (Selvorn, Isylrin de Nelthoris, Taldric de Veylorn, Meylara de Holvendar), prévoir 4-6 figures *bonnes mais ordinaires* : Maîtres-Savants compétents qui n'ont jamais discuté leur discipline, Archivistes qui rangent les livres comme on prie, Apprentis qui choisissent leur domaine sans le sentir, Gardes Cristallines qui escortent des textes qu'ils ne liront pas. Et 2-3 figures *de pente* : un Maître qui finit son traité non pas pour transmettre mais pour avoir son nom dans les Fondations, un Archiviste qui cache un texte parce qu'il ne sait plus quoi en faire, un Roteri qui prédit des cycles sans appliquer la prédiction à sa propre école.
+
+Aucun PNJ ne doit énoncer le piège ni la vertu. Le lecteur les verra dans la phrase de Selvorn (*« Non »*), dans la pile de pages qui grossit toute seule (*Le Livre qui Lisait*), dans l'archivage muet d'Ordavan, dans les sceaux de la Bibliothèque qui s'affaiblissent sans qu'on ose les renforcer.
 
 ---
 

@@ -1,139 +1,134 @@
 ---
-tags: [mécanique, économie, monnaie, commerce, monétisation]
-type: mechanic
-status: validated
-last_review: 2026-05-01
-needs_review_for: [bourse-augures-mécanique]
+tags: [économie, monnaie, commerce, marché, narration, mécanique-centrale]
+status: drafted
+last_review: 2026-05-07
+needs_review_for: []
+type: mechanic-narrative
+implementation: "[[Economy System]]"
 ---
 
-# 💰 Économie & Monétisation
+# 💰 L'Économie — le tissu vivant d'Hybelior
 
-## Monnaie — L'Éclat
-
-> [!important] L'Éclat
-> La monnaie d'Hybelior est **l'Éclat** — des fragments d'une matière cosmique dispersée dans le monde lors de sa création. Chaque Éclat contient une infime trace d'énergie primordiale. Impossible à reproduire ou à contrefaire.
+> *« Une bourse pleine, c'est une vie pleine, dit-on. Mais celui qui a tenu mille bourses sait que ce n'est pas la bourse qui pèse — c'est ce qu'on a dû faire pour la remplir, et ce qu'elle saura faire à son tour. »*
 >
-> Les Éclats se trouvent dans les profondeurs du monde : mines, ruines, corps de certaines créatures, récompenses des entités.
-
-**Sous-unités :**
-
-| Unité | Valeur | Description |
-|-------|--------|-------------|
-| **L'Esquille** | 1 | Fragment minuscule, monnaie courante |
-| **L'Éclat** | 100 Esquilles | Unité standard |
-| **Le Grand Éclat** | 100 Éclats | Pour les transactions importantes |
-
-**Sources de revenus :**
-- Vente de ressources, items craftés, équipements
-- Récompenses de quêtes et événements
-- Commerce entre joueurs
-- Extraction dans les mines (Labeur requis)
+> *— Maître Olbric Vandren, trésorier de la guilde des Marchands de Mosrack*
 
 ---
 
-## Hôtel des ventes
+## L'idée de l'économie
 
-Marché centralisé accessible depuis les villes :
+Dans la plupart des mondes de jeu, l'économie est un onglet. On y entre, on échange, on en sort, et le monde reprend, indifférent. C'est une comptabilité posée sur l'aventure — un appendice fonctionnel, parfois élégant, jamais vivant.
 
-```
-Joueur vendeur  →  [Hôtel des ventes]  ←  Joueur acheteur
-                        ↑
-              Prix fixé librement par le vendeur
-              Consultation des prix du marché
-```
+Hybelior refuse cette séparation. Ici, **l'économie est un personnage du monde**. Elle a une humeur, des cycles, des régions, des crises. Elle réagit aux Souffles comme un poumon qui change de rythme à l'approche de l'orage. Elle se contracte quand une guerre déchire un continent, s'épanouit quand une Ère prospère redistribue ses voix. On la consulte comme on consulte un sage : on l'écoute pour comprendre où le monde en est.
 
-> [!important]
-> Les PNJ marchands vendent uniquement les consommables de base.
-> **Les meilleurs items viennent des joueurs artisans.**
+Cette ambition est philosophique avant d'être mécanique. Si Hybelior se prétend monde vivant, alors son économie ne peut pas être un sous-menu : elle doit être un **tissu** qui relie les joueurs entre eux, les régions entre elles, les Ères entre elles. Un tissu qu'on tisse en jouant, qu'on déchire en s'entretuant, qu'on raccommode en s'entraidant. Où chaque pièce échangée laisse une trace, parce qu'elle a circulé entre des mains qui avaient des noms.
 
 ---
 
-## Commerce direct
+## L'or qu'on gagne, le sens qu'il a
 
-Échanges directs entre joueurs (items + monnaie) en complément de l'hôtel des ventes.
+À Hybelior, une pièce d'or n'est pas qu'un nombre. C'est l'**effort condensé** d'une vie d'aventurier. Une bourse pleine n'est pas une réussite arithmétique : c'est une biographie pliée. Chaque Éclat a été extrait d'une mine, arraché à un mob, gagné en quête, échangé en sueur. Chaque Éclat se rappelle d'où il vient — pas littéralement, mais dans la manière dont son propriétaire le tient.
 
----
+C'est pour cette raison qu'à Hybelior, le joueur qui dépense un grand Éclat **sent** qu'il dépense quelque chose. Le système ne distribue pas la monnaie comme on distribue des points dans un tutoriel. Il la fait gagner, perdre, circuler. Et cette circulation a une **densité** qu'aucun nombre, isolé, ne saurait dire.
 
-## Monétisation
+La monnaie d'Hybelior s'appelle **L'Éclat** — fragment d'une matière cosmique dispersée dans le monde lors de sa création. Le nom n'est pas anodin. Un Éclat n'est pas une pièce frappée par une autorité ; c'est un **morceau de monde**. Aucun Éclat ne peut être contrefait. Aucun Éclat ne peut être créé hors du monde. Tout l'argent en circulation a, à un moment donné, été **trouvé** par quelqu'un. Cette ontologie change tout : à Hybelior, il n'y a pas de presse à billets cosmique — il n'y a que des aventuriers, des creuseurs, des artisans, des chasseurs, et la longue chaîne par laquelle un Éclat passe de main en main, jusqu'à ce qu'il revienne, par les sinks du monde, à la matière dont il a été tiré.
 
-| Source | Contenu |
-|--------|---------|
-| 💳 **Abonnement mensuel** | Accès complet au jeu |
-| 🎨 **Cosmétiques** | Apparences, skins, effets visuels, montures cosmétiques |
-
-> [!success] Aucun pay-to-win
-> **Aucun avantage de puissance** à l'achat. Jamais.
+> *« Je n'ai jamais "fabriqué" un Éclat. Personne ne le peut. On en trouve, on en gagne, on en mérite. C'est en cela que ma bourse vaut quelque chose : parce qu'elle ne sort pas de nulle part. »*
+>
+> *— Mira Tessen, prospectrice d'Atravia*
 
 ---
 
-## Anti-inflation — Gold sinks
+## Les œuvres signées
 
-> [!important] Stratégie
-> L'inflation se contrôle en retirant des Éclats de la circulation. Tous les gold sinks sont des **services réels** (pas des taxes punitives) — le joueur paie volontairement pour un bénéfice tangible.
+Un objet anonyme, à Hybelior, vaut son prix d'objet. Un objet **signé**, lui, vaut autre chose — quelque chose qui n'est ni dans son métal ni dans ses statistiques. Il vaut **la trace de celui qui l'a fait**.
 
-### Catégorie 1 — Friction de jeu
+Quand un forgeron-joueur termine une lame magistrale, son nom s'inscrit dans la lame. Pas en lettres tape-à-l'œil — en signature discrète, parfois invisible à l'œil nu, mais que le système reconnaît, et que le marché reconnaît. La lame, dès lors, ne circule plus comme un drop : elle circule comme une **œuvre**. Elle peut changer de main vingt fois ; à la vingt-et-unième, l'acheteur saura toujours qui l'a forgée. Les œuvres signées se vendent plus cher, et tissent un lien entre des inconnus à travers le temps.
 
-| Sink | Coût indicatif | Justification |
-|------|----------------|---------------|
-| **Réparation d'équipement** (forgeron PNJ) | 5–50 Éclats selon rareté | Réparation par joueur forgeron : prix négocié, mais matières premières achetées au PNJ |
-| **Voyage rapide entre villes** | 20–200 Éclats selon distance | Téléportation entre balises débloquées — alternative au trajet manuel |
-| **Téléportation directe** (Voie de Navigor PNJ) | 500+ Éclats | Service rare, instantané, vers n'importe quel point découvert |
-| **Stockage en banque** | 1 Éclat / slot / jour | Loyer de banquier — incite à liquider le surplus |
-| **Coffre privé en auberge** | 100 Éclats / mois | Stockage local sécurisé |
+Un crafteur célèbre devient une **marque incarnée**. Les apprentis font des kilomètres pour se présenter à sa porte. Les guildes lui passent commande à l'avance. Les chroniqueurs notent ses pièces. Et le jour où il cesse de forger — par retrait, par mort de personnage, par fin de Partie — ses dernières œuvres prennent une valeur de relique.
 
-### Catégorie 2 — Flexibilité de build
+> *« Je n'achète pas une lame. J'achète une promesse. Si elle est signée Mehrdan, je sais ce qu'elle promet. Si elle ne l'est pas, je dois deviner. »*
+>
+> *— guildmaster d'une compagnie d'escorte, témoignage recueilli à Mosrack*
 
-> [!info] Pas de respec de stats
-> Les stats brutes (couche 1) montent **par usage** — il n'y a rien à "réinitialiser". Pour orienter sa progression, le joueur change ses **stats Focus** (1 fois/sem, gratuit). Voir [[Personnage]] et [[L'Accord]].
-
-| Sink | Coût indicatif | Justification |
-|------|----------------|---------------|
-| **Reset du Focus hors fenêtre hebdo** | 500 Éclats × Ères Concordées | Force à attendre la fenêtre normale, sauf urgence |
-| **Renomination de personnage** | 5 000 Éclats | Service rare, gold sink premium |
-| **Re-roll d'apparence (barbier)** | 200 Éclats par changement | Coupe, couleur, tatouages |
-| **Réinitialisation maîtrise d'arme** | 3 000 Éclats | Si le joueur veut "purger" une décroissance d'arme inutile |
-
-### Catégorie 3 — Économie d'enchantement
-
-| Sink | Coût indicatif | Justification |
-|------|----------------|---------------|
-| **Maintenance d'enchantement temporaire** | Re-cast périodique = 50% du coût initial | Enchantements expirent → revenu récurrent pour les enchanteurs |
-| **Désenchantement** | 100 Éclats | Récupère une fraction des composants |
-| **Identification d'item rare** | 200–1 000 Éclats | Items mystérieux trouvés dans donjons/ruines |
-
-### Catégorie 4 — Logistique nation/guilde
-
-| Sink | Coût indicatif | Justification |
-|------|----------------|---------------|
-| **Droits de douane entre nations** | 2–10% de la valeur transportée | Caravanes commerciales et passage de frontières |
-| **Maintenance d'un territoire de guilde** | 1 000–10 000 Éclats / semaine selon taille | Force la guilde à rester active économiquement |
-| **Construction de structure de guilde** | Variable, gros sink | Voir [[Guildes]] |
-| **Mercenariat (PNJ contractés)** | 50–500 Éclats / mission | Patrouilles, escortes |
-
-### Catégorie 5 — Prestige et social
-
-| Sink | Coût indicatif | Justification |
-|------|----------------|---------------|
-| **Cosmétiques PNJ exclusifs** | 5 000–50 000 Éclats | Skins de prestige uniquement vendables in-game (pas cash shop) |
-| **Tatouages culturels** | 500–5 000 Éclats | Selon la culture du tatoueur |
-| **Statue commémorative** | 100 000 Éclats | Statue du joueur dans une ville — Héritage permanent (sauf modification au Souffle Cardinal) |
-| **Festival privé / mariage** | 10 000+ Éclats | Événement social organisé via taverne |
-| **Bounty fund** (voir [[PvP]]) | Alimenté par 50% des taxes HV | Paie les chasseurs de primes |
-
-### Catégorie 6 — Hôtel des ventes
-
-| Sink | Valeur |
-|------|--------|
-| **Taxe de mise en vente** | 2% du prix demandé (non remboursé si invendu) |
-| **Taxe de transaction** | 5% retiré au vendeur sur vente effective |
-| **Taxe de listing prolongé** | +1% par jour au-delà de 7 jours |
-
-> [!tip] La taxe HV alimente le bounty fund
-> 50% des taxes hôtel des ventes alimentent les récompenses pour chasseurs de primes → boucle économique propre.
+Cette logique tisse un lien direct avec [[L'Accord]] : un crafteur qui produit des œuvres magistrales qui circulent dans le monde gagne, par cela même, une part de son Accord — son geste artisan **résonne** avec l'Ère parce qu'il l'a peuplée d'objets qui en porteront le souvenir.
 
 ---
 
-*Liens : [[Métiers]] | [[Guildes]] | [[Factions]] | [[L'Accord]] | [[Vision]]*
+## L'économie respire avec le monde
 
-> [!note] Items et Héritage
-> Items : 6 tiers canoniques (Commun → Mythique). La progression ne passe pas par un "niveau global" mais par l'**Accord** (0-100% par ère, voir [[L'Accord]]) et le **Héritage** (titres, recettes signées). Tout l'XP/progression dépend du Souffle/Accord — voir [[Le Souffle]] et [[Les Ères]].
+C'est ici que l'économie d'Hybelior diffère le plus radicalement des économies de jeu habituelles. Elle ne vit pas en parallèle du monde — elle **respire avec lui**. Quand le monde change, elle change. Quand le Souffle vient, elle se reconfigure. Quand une Ère s'achève, ses prix se redistribuent.
+
+Au passage d'un Souffle (voir [[Le Souffle]]), les valeurs ne s'effondrent pas — elles **se déplacent**. Ce qui était précieux dans l'Ère qui s'achève ne devient pas sans valeur ; il devient **autrement précieux**. Une lame magistrale forgée sous une Ère de feu, dans une Ère d'eau, perd un peu de sa résonance native. Mais elle gagne, par cette désynchronisation même, un statut nouveau : celui de **relique**. Les collectionneurs viennent. Les amateurs paient cher pour posséder « une vraie lame de l'Ère du Vent » — non pas pour son tranchant, mais pour ce qu'elle dit du temps.
+
+Là où ailleurs les anciens items deviennent des déchets relégués au fond des banques, à Hybelior ils deviennent **objets de mémoire**. Ils racontent une Ère qui n'est plus. Et le marché reconnaît ce qu'ils racontent. Les vrais marchands — ceux qui ne se contentent pas de revendre — gardent toujours une chambre arrière où dorment les pièces des Ères passées, en attendant qu'un joueur vienne demander : *« Avez-vous quelque chose de l'Ère où le ciel saignait ? »*
+
+> *« Mon comptoir n'est pas un magasin. C'est une mémoire. Je vends ce dont les Ères se souviennent. »*
+>
+> *— Brann l'Ancien, marchand de curiosités à Caelorhin*
+
+L'économie respire aussi à plus court terme. Une Ère de prospérité voit ses prix s'étirer. Une Ère de guerre voit les prix des consommables exploser, ceux du luxe s'effondrer. Une Ère de mystère voit les composants cosmiques devenir précieux, presque sacrés. Lire le marché, à Hybelior, c'est lire une partie de la cosmologie.
+
+---
+
+## Le marché comme conversation
+
+L'**hôtel des ventes** d'Hybelior n'est pas un menu. C'est une **place publique** — l'endroit où les joueurs se parlent sans se voir, où ils négocient sans se rencontrer, où ils font confiance à des inconnus parce qu'un système leur garantit la transaction. C'est, à sa manière, une des plus grandes places d'Hybelior — la plus fréquentée de toutes, certainement la plus polyphonique.
+
+Mais ce n'est pas le seul marché. À Hybelior, **l'économie a une géographie**. Chaque continent a ses prix, ses spécialités, ses pénuries. Acheter à Mosrack et vendre à Cestra peut faire vivre un marchand toute une saison. Les ressources rares de Norvendis n'ont pas la même valeur à Atravia. Les épices de Kharos coûtent une fortune à Cendara, presque rien dans leur région d'origine. Cette **disparité régionale** n'est pas un défaut de balance ; c'est une **invitation au voyage**. Voir [[Géographie]].
+
+Le **métier de marchand** existe à Hybelior comme métier à part entière. Un joueur peut faire de sa monture une caravane, tracer ses routes commerciales, négocier ses droits de douane, esquiver les bandits, gagner sa vie sans tirer une seule épée. Aucun PNJ ne lui dit qu'il est marchand — il le devient parce qu'il a compris que les prix ne sont pas les mêmes ici et là, et qu'entre les deux il y a une route. Les hôtels des ventes des capitales se parlent, mais pas instantanément : cette friction préserve la **personnalité** des marchés régionaux et fait du commerce inter-régional un vrai métier, et pas un clic optimisé.
+
+> *« Mon père disait : "Là où la route se tait, le marchand parle." J'ai compris ce qu'il voulait dire le jour où j'ai réalisé que mes profits venaient des kilomètres, pas des prix. »*
+>
+> *— Telhem Kassar, caravanière de la Route des Trois Cités*
+
+Et puis il y a les **marchands PNJ**. Ils ne vendent pas grand-chose — quelques consommables, quelques ressources de base. Hybelior a fait ce choix délibéré : **les meilleurs items viennent des joueurs**. Les PNJ ne sont pas en concurrence avec les artisans-joueurs ; ils sont leur **socle**. C'est une économie à deux étages : un étage PNJ, stable, prévisible, nécessaire ; et un étage joueur, volatil, créatif, où se joue la vraie partie.
+
+---
+
+## L'économie sociale
+
+L'économie d'Hybelior n'est pas faite que de pièces et d'items. Elle est aussi faite de **relations**. Un crédit accordé à un ami de guilde, une dette d'honneur envers un sauveteur, un contrat passé entre deux factions — tout cela est de l'économie. Tout cela laisse trace.
+
+Les **guildes** (voir [[Guildes]]) sont les plus grandes structures économiques d'Hybelior après les villes elles-mêmes. Elles paient leurs territoires, tiennent leurs banques, signent leurs contrats avec d'autres guildes. Une guilde sans économie n'existe pas longtemps. Les **factions** (voir [[Factions]]) ont elles aussi leurs flux économiques : servir une faction, c'est gagner sa monnaie spécifique, accéder à ses marchands, trahir parfois ses ennemis — une économie politique qui se superpose à l'économie générale comme une carte sur une autre carte.
+
+Et puis il y a la **dette**, qui à Hybelior n'est pas une mécanique punitive mais une **mécanique de lien**. Prêter à un joueur, c'est lui faire confiance. Honorer une dette, c'est inscrire son nom dans la longue chaîne des honnêtes. Trahir une dette, c'est entrer dans la chaîne des autres — celle qui se rappelle, et qui sait se faire rappeler. Le **karma économique** d'un joueur est une donnée que les marchands lisent, que les guildes consultent, que les banques pèsent quand vient le temps d'un prêt.
+
+> *« Je n'ai pas besoin de te connaître pour te faire confiance. J'ai besoin de connaître les six derniers à qui tu as rendu ton dû. »*
+>
+> *— banquier d'Atravia, à un emprunteur novice*
+
+Cette dimension sociale fait que l'économie d'Hybelior n'est jamais purement transactionnelle. Chaque échange est une **petite reconnaissance** — un fil de plus dans le tissu commun. Un joueur peut s'enrichir en jouant solo, mais il s'enrichit autrement, et plus durablement, en jouant en réseau.
+
+---
+
+## La Bourse des Augures
+
+À côté du marché des objets, il existe à Hybelior un marché plus étrange, plus poétique, plus risqué : la **Bourse des Augures**. On n'y vend pas des items. On y mise sur ce qui **va arriver** — le prochain Souffle, la prochaine Ère, les conditions cachées que personne n'a encore remplies, les boss mondiaux qui vont tomber, les royaumes qui vont vaciller.
+
+C'est une bourse de prédiction — un endroit où l'argent se mêle au regard sur le monde. Y miser, c'est dire à voix haute ce qu'on **lit** des signes. Y gagner, c'est avoir lu juste. Y perdre, c'est avoir lu de travers, et apprendre à lire mieux. Elle transforme la **lecture du monde** en geste économique. Les Prophètes y prospèrent — ceux qui ont prédit trois Souffles successifs ne misent plus à l'aveugle. Les naïfs y laissent leur bourse, et leurs Éclats nourrissent ceux qui ont vu plus loin.
+
+Pour le détail philosophique du système prédictif, voir [[Prédiction]].
+
+> *« On ne mise pas sur ce qu'on espère. On mise sur ce qu'on a vu venir. La différence vaut une vie. »*
+>
+> *— attribué à Selene la Voyante, bourse de Cestra*
+
+---
+
+## Synthèse — l'économie comme langue commune
+
+Si l'on devait dire ce qu'est l'économie d'Hybelior en une phrase, on dirait : *c'est la langue par laquelle les joueurs, les régions et les Ères se parlent les uns aux autres*. Une lame qui circule parle d'un forgeron à un acheteur. Un prix qui change parle d'une Ère à une autre. Une dette qui se paie parle d'un joueur à un ami. Une Bourse qui s'agite parle d'un présent à un futur.
+
+Tout, dans cette économie, est **conversation**. Et c'est en cela qu'elle ne ressemble à aucun onglet. C'est en cela qu'elle est **un personnage du monde**. À Hybelior, **tout respire** : le ciel, la magie, les Ères, l'Accord — et l'économie respire avec eux. Quand le Souffle passe, elle se redistribue. Quand un joueur signe une œuvre, elle s'enrichit d'un nom. Quand une dette s'éteint, elle perd un fil et en gagne deux. Elle est, à chaque instant, le **bilan vivant** de ce que le monde fait de lui-même.
+
+> *« On me demande parfois ce que je vends. Je réponds : du temps. Le temps qu'il a fallu pour faire l'objet, le temps qu'il faudra pour le mériter, le temps que vous y trouverez à votre tour. Mes Éclats sont des heures, et chacun en a son cours. »*
+>
+> *— Maître Olbric Vandren, dernière entrée de son grand livre, Mosrack*
+
+---
+
+*Liens narratifs : [[Le Souffle]] | [[L'Accord]] | [[Les Ères]] | [[Géographie]] | [[Guildes]] | [[Factions]] | [[Métiers]] | [[Prédiction]] | [[PvP]]*
+
+*Implémentation technique (chiffres, formules, taxes, taux, specs Unreal) : [[Economy System]]*

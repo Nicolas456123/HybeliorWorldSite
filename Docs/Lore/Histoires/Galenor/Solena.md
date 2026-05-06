@@ -1,13 +1,16 @@
 ﻿---
-tags: [lore, histoire, galenor]
-type: lore
-status: drafted
-last_review: 2026-05-02
+tags: [lore, histoire, galenor, solena]
+type: histoire
+status: canon
+last_review: 2026-05-06
 needs_review_for: []
 ---
 # Histoires de Solena
 
-> *Chaque ville a ses cicatrices. Voici celles qui ne guerissent jamais.*
+> *Chaque ville a ses cicatrices. Voici celles qui ne guérissent jamais.*
+
+> *On ne fait pas de monument aux marins perdus. La mer en fait, à sa manière.*
+> *— Inscription anonyme, quai d'Yltheris, env. an 200.*
 
 ---
 
@@ -86,3 +89,61 @@ Mais ses contrats ne tuaient plus personne.
 Il mourut pauvre par rapport a ce qu'il aurait pu accumuler, et riche par rapport a ce avec quoi il pouvait vivre. Sur sa tombe, sa famille fit graver les trente noms des marins morts.
 
 Pas pour qu'on l'accuse. Pour qu'on se souvienne qu'il se souvenait.
+
+---
+
+## Vyndralith — « Le Capitaine qui Lut la Carte »
+
+Personne, à Solena, n'a accès à la carte d'Etheira la Grande. Le coffre est sous le Palais des Amiraux. Les rares membres de la Guilde des Cartographes qui ont prêté serment de la garder ne l'ont jamais ouverte. La consigne d'Etheira — *« scellée jusqu'à ce qu'on en sache plus »* — a été interprétée littéralement.
+
+Ostren de Vyndralith ne respectait pas les consignes. À trente-sept ans, capitaine d'une corvette personnelle, il avait lu tout ce qu'il pouvait sur Etheira. Les chants. Les chroniques. Les marges. Il avait reconstitué, à partir de témoignages indirects, *où* la carte montrait la terre interdite. Il pensait pouvoir y aller.
+
+Il partit en l'an 234. Trois mois de mer ouest. Il ne dit rien à personne avant de partir, sauf à un vieux cartographe de Myrdris qui haussa les épaules et lui dit *« retournez »* — en croyant lui faire la blague d'usage.
+
+Ostren revint quatorze mois plus tard. Seul. Sa corvette avait sombré ; il avait survécu sur un canot de sauvetage et était rentré à la voile et à la rame, ayant calculé sa route uniquement sur les étoiles.
+
+Il se présenta à la Guilde des Cartographes. Il demanda à voir la carte. On lui demanda pourquoi.
+
+*« Pour vérifier ce que j'ai vu. »*
+
+On lui répondit que la carte était scellée. Il insista. On insista. Il hurla. On le fit sortir avec courtoisie.
+
+Ostren passa les vingt ans suivants à Vyndralith, dans une petite maison au bord du port, à dessiner. Une seule carte, la même, refaite chaque mois — la côte ouest qu'il avait vue, telle qu'il s'en souvenait. Personne ne pouvait la comparer à celle d'Etheira. Personne, en fait, ne s'y intéressait.
+
+Il mourut à cinquante-huit ans. Une voisine trouva les cartes — quatre cents, peut-être plus, toutes presque identiques, mais avec des micro-variations qu'elle ne savait pas interpréter. Elle les vendit au poids à un marchand de papier. Le marchand s'en servit pour emballer du poisson.
+
+La carte d'Etheira est toujours scellée.
+
+---
+
+## Myrathis — « La Criée Silencieuse »
+
+À Myrathis, port de pêche du nord, l'horloge sociale est immuable depuis deux cents ans : départ à deux heures, retour à seize, criée jusqu'à dix-huit, ville endormie à vingt et une. Ce rythme a été établi pour maximiser les prix.
+
+Helma vendait du poisson à la criée depuis trente ans. Sa voix était la plus puissante du port — elle pouvait, sans effort, couvrir cent mètres de bruit de marché. C'était son outil. C'était sa fierté.
+
+L'année où sa fille mourut en mer — un naufrage idiot, par mer calme, jamais expliqué — Helma vint à la criée le lendemain. Elle ne pouvait pas se permettre de manquer une journée. Elle ouvrit la bouche pour héler les acheteurs. Aucun son ne sortit.
+
+Elle resta debout devant ses caisses pendant deux heures. Les acheteurs passaient, s'arrêtaient, voyaient son visage, comprenaient sans qu'elle dise un mot. Ils achetaient. Ils ne marchandaient pas. Ils payaient le prix qu'elle pointait du doigt sur l'ardoise.
+
+Helma vendit tout. Elle ne dit pas un mot de la journée.
+
+Le lendemain, sa voix était revenue. Elle hurla comme avant. Elle marchanda comme avant. La criée reprit son rythme.
+
+Mais à partir de ce jour, chaque fois qu'un pêcheur de Myrathis perdait quelqu'un en mer, ses collègues à la criée passaient une journée silencieuse — pointant les prix sur l'ardoise, refusant de marchander. Cela ne s'enseignait pas. Cela ne s'écrivait pas. Un nouveau venu apprenait en *voyant un jour silencieux*, et comprenait. La pratique a survécu à toutes les réformes du Conseil des Amiraux. Elle est sans doctrine, sans nom, sans rite. Elle est, simplement, ce qui se fait à Myrathis quand quelqu'un meurt en mer.
+
+---
+
+## Falnor — « Les Familles qui Savaient »
+
+Sur l'île de Falnor, la plus petite de Tetramis, six familles vivent depuis des générations. Elles sont *gardiennes* d'un récif corallien dont elles ont cartographié, sur quatre générations, chaque variation. Elles refusent toute mise par écrit.
+
+Ce que les familles de Falnor ne disent à aucun visiteur, c'est qu'elles savent *aussi* autre chose : leur ascendance.
+
+Les six familles descendent, par lignée maternelle continue, des **Tetramor** — la septième famille amirale effacée du Conseil en l'an 130. Les hommes ont changé de nom à chaque génération pour brouiller les pistes ; les femmes ont gardé la mémoire orale du nom originel et l'ont transmis. Les enfants, à dix ans, reçoivent dans une cérémonie privée le nom *Tetramor* qu'ils ne porteront jamais en public.
+
+Cette mémoire est, pour les familles de Falnor, **précieuse et inutile**. Elles ne projettent pas de retour. Elles ne préparent aucune revanche. Elles n'envoient aucun émissaire à Oranthor. Le Conseil des Amiraux les a effacés ; elles ont accepté d'être effacées en surface ; elles ont gardé, en profondeur, le souvenir de qui elles étaient.
+
+Quand un descendant Tetramor de Falnor meurt, sa veille comprend une pratique dont aucune autre famille de Solena n'a connaissance : les enfants disent, à voix basse, *« il est mort Tetramor. Il avait raison. »* Personne ne dit *de quoi* il avait raison. La phrase est rituelle. Elle est aussi, pour ceux qui la prononcent, l'équivalent d'une larme.
+
+Aucun Conseil des Amiraux n'a jamais été informé de cette pratique. Si elle l'apprenait, elle la classerait, sans doute, comme une *« superstition de pêcheurs »*. Les familles de Falnor le savent. Elles préfèrent que ce soit ainsi.

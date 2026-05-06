@@ -2,7 +2,7 @@
 tags: [lore, chronique]
 type: lore
 status: drafted
-last_review: 2026-05-02
+last_review: 2026-05-06
 needs_review_for: []
 ---
 # Chapitre 17 — Les Bibliothèques de Cristal
@@ -27,6 +27,8 @@ Je m'étais arrêté deux jours au sommet d'un col sans nom — la carte que j'a
 La convergence était réelle. J'en étais certain à présent — non pas de la façon dont on est certain d'un fait vérifié, mais de la façon dont on est certain d'une chose que le corps a su avant que l'esprit l'admette. Elle avait la texture d'une évidence retardée.
 
 Je descendis vers Holvendar avec ce poids dans la poitrine qui n'était pas de l'anxiété mais quelque chose d'adjacente : l'état d'un homme qui s'approche d'une réponse et qui sait que la réponse sera plus lourde que la question.
+
+J'écris *certain* et *évidence* et *réponse*. Trois mots que je n'aurais pas employés sans réserve il y a quatre mois. Je les laisse parce que je les ai écrits, et parce qu'on apprend autant de ce qu'on s'autorise à écrire que de ce qu'on s'interdit. Mais je note la dérive lexicale en bas de page. Un cartographe qui commence à se persuader qu'il *sait* — au lieu de *propose une lecture* — devient, lentement, un autre métier. Le sien ne sera plus le mien si je n'y prends pas garde.
 
 ---
 
@@ -291,6 +293,10 @@ Mon père avait dit cela après avoir vu ce qu'Haelthyn lui avait montré. Il av
 Cela ressemblait à un déplacement.
 
 Deux cents personnes. Un village entier. Selon cette lecture, ailleurs dans le temps. Selon une autre, peut-être ailleurs tout court. Aucune des deux n'avait pour elle plus qu'un faisceau d'indices indirects.
+
+Je devrais m'arrêter ici, et je ne m'arrête pas. La phrase de Selvorn est belle, exacte, retenue — et c'est précisément pour ça qu'elle est dangereuse. Une formule qui se laisse manipuler dans tous les sens parce qu'elle ne tranche rien. *Pas une brisure. Un déplacement.* Je peux l'appliquer à Ordavan, à mon père, à moi-même. Trop d'épaules pour une seule phrase. Selvorn a peut-être choisi celle-là précisément parce qu'elle peut tout porter sans rien démontrer. Il m'a donné une clé qui ouvre toutes les portes — ce qui veut dire qu'elle n'en ouvre aucune en particulier.
+
+Je sais cela en l'écrivant. Je sais aussi que je vais tout de même la traiter comme une clé. C'est l'aveu le plus honnête de la soirée.
 
 Je repliai la feuille. La mis dans ma chemise, contre la peau, à côté du Fragment Zéro qui pulsait doucement contre ma poitrine comme un deuxième cœur. Deux pulsations légèrement déphasées dans le noir.
 

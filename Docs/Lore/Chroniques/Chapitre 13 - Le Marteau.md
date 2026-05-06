@@ -2,7 +2,7 @@
 tags: [lore, chronique]
 type: lore
 status: drafted
-last_review: 2026-05-02
+last_review: 2026-05-06
 needs_review_for: []
 ---
 # Chapitre 13 — Le Marteau et l'Ancre
@@ -237,6 +237,8 @@ Il répondit : « Les cartes fausses tuent des hommes. Dans mon métier, dans le
 Je compris que c'était le compliment le plus élevé qu'un Mosrackien pouvait formuler — vous m'avez considéré assez compétent pour que votre incompétence éventuelle représente un risque qu'il valait la peine de prévenir.
 
 Je gardai la liste avec le disque d'acier du clan Teldar dans ma poche droite. Deux formes différentes du même jugement.
+
+Je pensai brièvement aux Archives de Kharazir, où le défaut d'une carte n'était jamais énoncé comme un défaut — il devenait une note de marge, puis un classement, puis l'oubli. Mosrack au moins nomme l'erreur. Je ne sais pas si c'est plus humain ou seulement plus efficace. C'est peut-être la même chose vue d'un côté différent du mur — pour reprendre ce qu'a dit la lieutenant Merra, mais à propos d'autre chose.
 
 ---
 

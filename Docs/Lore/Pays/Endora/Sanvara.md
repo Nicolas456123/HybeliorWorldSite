@@ -2,7 +2,7 @@
 tags: [lore, pays, endora]
 type: lore
 status: drafted
-last_review: 2026-05-02
+last_review: 2026-05-06
 needs_review_for: [datations-précises, démographie-fine, validation-géographie-canonique]
 ---
 
@@ -10,6 +10,12 @@ needs_review_for: [datations-précises, démographie-fine, validation-géographi
 
 > *« À Sanvara, on ne demande pas d'où vous venez. On regarde ce que vous transportez et combien de temps vous restez. »*
 > — Adage des marchés de Sanvara
+
+> *« Trois nuits suffisent à accueillir un homme. Aucun nombre ne suffit à le comprendre. C'est pour ça qu'on s'en tient à trois. »*
+> — Dicton de caravansérail, attribué à Soltarin
+
+> *« On accueille toutes les voix. Celles qui parlent d'à côté, celles qui parlent de loin, celles qui ne parlent plus. À force d'accueillir, on finit par ne plus savoir laquelle dit quelque chose. »*
+> — Marge anonyme dans un cahier d'apprenti Arbitre, Ket-Anvel, an 213
 
 ---
 
@@ -108,12 +114,99 @@ Les Arbitres des Routes sont formés dans une école itinérante qui leur fait p
 > [!info] Liste indicative
 > Les caravansérails majeurs sont au nombre de vingt-trois ; cette section liste les plus connus. Le détail intégral des relais affiliés relève des registres commerciaux du Conseil et n'est pas reproduit ici.
 
-- **Andivar** — Caravansérail de l'ouest, point d'entrée pour les marchandises venant d'Avalor (par Perivalis) et de Galenor maritime.
-- **Khessit** — Caravansérail des oasis nord, spécialisé dans le sel et les épices sèches. Bastion de Vael'Kurash.
-- **Soltarin** — Caravansérail central, lieu de réunion fréquent du Conseil. Population la plus cosmopolite.
-- **Murahal** — Caravansérail oriental, porte d'entrée vers Esperia. Routes dangereuses, tarifs élevés, gardes triés.
-- **Yaderis** — Caravansérail du sud, relais des routes maritimes vers les ports d'Endora. Influence Foedus Animae notable.
-- **Ket-Anvel** — Caravansérail savant, abrite les archives commerciales de la Confédération et l'école des Arbitres.
+### Andivar — Caravansérail de l'Ouest ★
+*Andivar est le point d'entrée commercial pour tout ce qui vient d'Avalor (via Perivalis) et de Galenor maritime. Ses cours pavées sont les plus larges de Sanvara — il faut accueillir simultanément les caravanes lourdes des Sanvariens et les chariots légers, presque scrupuleux, des intendants avaloréens. Les marchés d'Andivar mélangent bois enchanté, herbes rares, étoffes de Thyloria, sel d'Endora, et des marchandises galenoriennes que les Avaloréens ne touchent jamais directement.*
+**Spécificité :** Andivar est le seul caravansérail qui accueille des druides d'Avalor en mission officielle — toujours en silence, toujours brièvement. La cour intérieure n'a pas de musique pendant leur présence. La règle est non-écrite et tenue.
+
+### Khessit — Caravansérail des Oasis ★
+*Bâti autour de quatre puits anciens, Khessit est l'avant-poste sanvarien le plus aride et le plus durable. Le caravansérail est rond, fait de pierre claire et d'argile, surmonté de tours de vigie. C'est ici que se vendent le sel des dunes, les épices sèches, l'ambre du désert nord-occidental, et — discrètement — les manuscrits que personne d'autre ne veut acheter. La population est majoritairement vael'kurashe ; les Lecteurs de Saison de Khessit ont la réputation d'être les plus fiables de la Confédération.*
+**Spécificité :** Khessit est le caravansérail dont le débit des puits diminue. Les Lecteurs de Saison ne formulent pas l'inquiétude en réunion ; les caravaniers le constatent à l'usage. Le Conseil n'a, à ce jour, pris aucune mesure.
+
+### Soltarin — Caravansérail Central ★
+*Au croisement des routes commerciales majeures, Soltarin est le caravansérail le plus cosmopolite de Sanvara. Quatre langues s'y parlent en marché, sept religions y ont un coin de prière, et le Conseil des Caravansérails s'y réunit plus souvent qu'à son tour. Soltarin est la **capitale mobile** de fait — sans le nom, sans l'institution, sans l'admettre. C'est précisément ce qui fait que la Confédération continue de fonctionner.*
+**Spécificité :** Soltarin abrite la seule conférence syncrétique permanente de Sanvara — un cercle informel où prêtres Vael'Kurash, Noctari, Foedus Animae, Ordo Caelum (en visite), et parfois un ou deux Cantori de passage discutent doctrine en buvant du thé. Aucune position commune n'a jamais été produite. Personne ne s'en plaint.
+
+### Murahal — Caravansérail de l'Est ★
+*Porte d'entrée vers la jungle d'Esperia, Murahal est le caravansérail le plus fortifié de Sanvara. Ses murs sont doubles, ses puits intérieurs profonds, ses gardes triés sur volet. Les routes vers Esperia, déjà périlleuses avant le dernier Souffle, sont devenues, depuis, **mortelles par tronçons**. Plusieurs caravanes ne sont pas revenues. Murahal réclame une expédition collective. Le Conseil hésite.*
+**Spécificité :** Murahal est le seul caravansérail à entretenir une force armée propre, dérogeant ainsi à la règle confédérale. Le Conseil a accepté la dérogation sous condition que la force ne quitte jamais le territoire de Murahal. La force n'a jamais quitté Murahal officiellement. Officieusement, plusieurs caravaniers parlent de gardes *« qui suivent jusqu'à la troisième oasis »*.
+
+### Yaderis — Caravansérail du Sud ★
+*Relais entre les routes maritimes haldriennes et l'intérieur sanvarien, Yaderis est un caravansérail de transbordement. Le port voisin (qui n'est pas confédéral) accueille les flottes haldriennes ; les marchandises sont déchargées, contractualisées par les Arbitres locaux, puis distribuées vers les autres caravansérails. La présence de Foedus Animae y est notable — les caravaniers ulinoriens en transit y maintiennent des veillées d'âmes ancestrales avec une régularité que les autres caravansérails respectent sans participer.*
+**Spécificité :** Yaderis a la jurisprudence la plus élaborée de Sanvara sur les **disputes inter-religieuses**. Aucune n'a été tranchée par le fond ; toutes ont été tranchées par procédure, c'est-à-dire en renvoyant les parties à leurs propres autorités religieuses. Les Arbitres de Yaderis disent que c'est *la seule manière de ne perdre personne*. Les théologiens d'Avalor disent que c'est *la seule manière de ne servir personne*. Les deux ont raison.
+
+### Ket-Anvel — Caravansérail Savant ★
+*Le plus discret des grands caravansérails, Ket-Anvel abrite les archives commerciales de la Confédération, l'école des Arbitres des Routes (formation itinérante de dix ans), et les seuls registres jurisprudentiels complets de Sanvara. Ses cours sont calmes ; ses bibliothèques sont silencieuses. Les jeunes Arbitres y reviennent une fois par décennie pour confronter leurs notes à la mémoire commune.*
+**Spécificité :** Ket-Anvel a, depuis une cinquantaine d'années, une bibliothèque parallèle, non officielle, qui rassemble les **disputes que les Arbitres ont préféré ne pas trancher**. Cette bibliothèque s'appelle, en privé, *« le Registre des Renvois »*. Aucun Arbitre vivant n'en a la responsabilité officielle ; tous savent où elle se trouve.
+
+### Caravansérails secondaires majeurs
+
+- **Tarvanis** — au croisement des routes Andivar-Soltarin, spécialisé dans la transhumance des montures et le bétail.
+- **Amerith** — caravansérail oriental modeste, premier relais après Soltarin sur la route de Murahal.
+- **Skerren** — relais nord-ouest, presque exclusivement vael'kurashe, peu fréquenté par les étrangers.
+- **Voldra** — relais frontalier sud, en périphérie immédiate d'une cellule Catena Fracta tolérée.
+- **Hesran** — caravansérail religieusement plurivocal, avec un rituel de bienvenue qui demande à chaque arrivant de **nommer la voix qu'il transporte** (formule rituelle, généralement comprise comme *« quelle est ta religion »* mais non strictement) — coutume locale jamais officialisée.
+
+Les seize autres caravansérails majeurs (Olarin, Kerset, Brassa, Idrenval, Yamoth, Vassir, Tholdir, Anker, Olythes, Maranth, Korvendis, Tabren, Welaris, Aphradan, Senthar, Mordrhin) sont moins documentés ici ; chacun a sa spécialité (sel, soie, manuscrits, montures, contrats, dispute religieuse, route particulière) et sa voix au Conseil.
+
+---
+
+## Cités-clés détaillées (sélection densifiée)
+
+### Soltarin — Cœur cosmopolite
+*Soltarin est moins une ville qu'un grand caravansérail au croisement de tout. Sa population permanente — environ huit à dix mille personnes selon la saison — est doublée presque chaque mois par les caravanes en transit. Les langues s'entrelacent dans les marchés : sanvarien commun, langues d'Avalor (par les marchands de Perivalis), endorien maritime (par Yaderis), dialectes ulinoriens, fragments galenoriens. Les enfants de Soltarin parlent quatre langues avant dix ans. Aucun n'en maîtrise une vraiment.*
+
+L'organisation de la ville est **rotative** : les quartiers tournent leur fonction selon les saisons. Le quartier sud accueille le bétail à la saison sèche et les pèlerins à la saison humide. Le quartier de marché central est ré-aménagé deux fois par an. Aucun bâtiment, à l'exception des sanctuaires religieux, n'a la même fonction d'une décennie à l'autre. Cette rotation est tenue pour **une vertu sanvarienne** — *rien n'est figé, donc rien ne meurt*. Le voyageur attentif comprend qu'aucune mémoire urbaine ne peut s'y déposer non plus.
+
+**Conférence syncrétique permanente** — déjà mentionnée. Tient un cercle ouvert chaque dixième jour, sans ordre du jour, sans procès-verbal. Les théologiens étrangers qui passent à Soltarin la trouvent fascinante au premier abord et frustrante au deuxième : on y discute beaucoup, on n'y conclut jamais.
+
+### Khessit — Bastion vael'kurashe
+*Khessit est l'extrémité nord-ouest sanvarienne, là où la prairie devient désert. Le caravansérail est entouré d'une couronne d'oasis modestes, chacune avec son temple Vael'Kurash, son puits, son verger ou son petit champ. La cohérence de Khessit tient à un fait que les sceptiques contestent et que les habitants vivent : **les puits parlent**. Les Lecteurs de Saison, formés à Khessit, savent reconnaître à l'écoute du débit, au goût de l'eau, à la vibration des parois, ce que la saison promet. Ils prédisent. Souvent juste. Parfois faux. Toujours avec la même retenue.*
+
+La rumeur tenace selon laquelle les puits de Khessit *se taisent depuis trois générations* est répandue à voix basse. Personne ne la formule en réunion. Les Lecteurs de Saison continuent leurs lectures, qui restent fiables, mais qui — selon plusieurs caravaniers attentifs — *contiennent moins de surprises qu'autrefois*. La nuance est lourde et n'est pas commentée.
+
+### Andivar — Porte avaloréenne
+*Andivar est, en termes d'organisation, le caravansérail le plus civil et le plus contraint de Sanvara. La proximité d'Avalor impose une **discipline de silence** que les autres caravansérails trouvent étrange et que les druides d'Avalor jugent encore insuffisante. Les artisans d'Andivar se sont spécialisés dans la fabrication d'outils légers — sans clous, sans clochettes, sans rien qui sonne — destinés au commerce avec les Avaloréens. C'est un savoir-faire unique en Endora et en Galenor.*
+
+L'arrivée annuelle de la délégation avaloréenne (un druide, deux Voix, trois Gardiens des Lisières) est un événement. Andivar prépare ses cours. Le marché central est nettoyé. Les Lecteurs de Saison s'abstiennent de prédictions publiques pendant la durée de la visite. Les druides repartent généralement après deux nuits ; la troisième est rare. Les chroniques sanvariennes notent que *« nous accueillons trois nuits, ils acceptent rarement la troisième »*. La formule est récurrente. L'asymétrie n'est jamais discutée.
+
+### Ket-Anvel — École et archives
+*Le caravansérail savant n'a pas l'opulence de Soltarin ni la fortification de Murahal. Il a quelque chose d'autre : la mémoire. Les bibliothèques de Ket-Anvel conservent les comptes, les contrats, les jurisprudences, les lettres officielles, les rapports d'arbitrage de la Confédération depuis la Charte des Sept Routes. Trois étages souterrains protègent les documents les plus anciens du climat. La salle du Registre des Renvois — la bibliothèque parallèle des disputes non-tranchées — est au quatrième sous-sol, sans gardien officiel, accessible aux Arbitres seuls.*
+
+Les apprentis Arbitres passent à Ket-Anvel deux fois pendant leur formation : à l'admission et à la fin du cycle. Entre les deux, ils parcourent la Confédération. À leur retour, leurs notes de terrain sont confrontées à la mémoire des registres. Aucun apprenti ne devient Arbitre sans cette confrontation. Aucun Arbitre établi n'a jamais été, à la connaissance des chroniqueurs, *contredit par le Registre*. La cohérence de l'arbitrage sanvarien tient à cette boucle.
+
+### Murahal — Garnison orientale
+*Murahal est tendu. Le caravansérail le plus dur de Sanvara est aussi celui où les routes ne reviennent pas toutes. Les chroniques internes mentionnent neuf caravanes disparues depuis le dernier Souffle — neuf en quarante ans, ce qui à l'échelle de Sanvara est beaucoup. Murahal demande au Conseil une expédition de reconnaissance collective. Le Conseil siège, débat, hésite, ajourne. Murahal accumule.*
+
+L'Hôte de Saison de Murahal, lorsque le Conseil s'y réunit, est traditionnellement un délégué jugé *modéré*. Cette tradition a été instaurée pour éviter que la pression de Murahal ne s'exprime trop crûment dans les sessions confédérales. Les chroniqueurs notent que cette modération a peut-être eu pour effet de *retarder* la décision sur Esperia plutôt que de l'éclairer. Personne ne tranche.
+
+### Yaderis — Port d'âmes
+*Yaderis est, des grands caravansérails, le plus religieusement étrange. La présence Foedus Animae — minoritaire mais ancrée — y maintient des veillées ancestrales que les caravaniers ulinoriens en transit perpétuent depuis quatre générations. Les autres caravansérails accueillent les pratiques sans les comprendre ; à Yaderis, certains habitants permanents y participent, sans nécessairement se déclarer animari. Les frontières doctrinales s'effacent.*
+
+C'est aussi à Yaderis que la **Voie Stellaire du Vent** (syncrétisme Ordo Caelum / Via Ventus) a été codifiée par des marins haldriens en relation avec des caravaniers sanvariens. Le syncrétisme n'a pas de statut officiel ; il a une pratique vérifiable, une mémoire transmise, et plusieurs auberges portuaires qui le célèbrent. Les théologiens des deux religions mères regardent la chose avec des sentiments mêlés.
+
+### Hesran — Caravansérail des voix nommées
+*Plus petit que les six grands, Hesran a une coutume locale qui mérite mention : à l'arrivée, chaque voyageur est invité à **nommer la voix qu'il transporte**. La formule rituelle ne précise rien — chacun comprend comme il veut. Certains nomment leur religion (*« Vael'Kurash »*, *« Foedus Animae »*). D'autres nomment leur métier (*« je transporte le contrat »*, *« je transporte la lettre »*). D'autres encore nomment leur histoire (*« je transporte ce qu'on m'a appris à dire »*). La réponse est consignée dans un grand registre que personne ne consulte.*
+
+Ce rituel — que les Sanvariens trouvent charmant et que les Avaloréens trouvent étrange — produit, à la longue, un effet acoustique singulier : Hesran est le seul caravansérail où **les voyageurs se présentent eux-mêmes par leur voix**, et non par leur origine ou leur fonction. La pratique a été adoptée par deux autres caravansérails sans la même rigueur.
+
+---
+
+## Climat intérieur — accueillir toutes les voix
+
+À l'écoute longue d'un voyageur attentif, Sanvara n'est pas tant une confédération *qui arbitre* qu'une confédération *qui n'a pas tranché*. Cette nuance, indélicate à formuler dans une auberge de Soltarin, rend compte de quelque chose qui structure la Confédération depuis la Charte : la conviction profonde que **toutes les voix méritent d'être accueillies, parce qu'aucune n'est définitivement valide**. La neutralité armée entre les Voies n'est pas un compromis tactique — c'est une doctrine implicite. Le voyageur attentif comprend, à Soltarin, que ce qui se présente comme *ouverture* est aussi, par construction, *suspension de jugement*.
+
+L'ouverture sanvarienne tient. Elle a tenu mille ans. Mais elle a aussi un envers que les Sanvariens ne formulent pas : à force d'accueillir toutes les voix, **la voix de Sanvara elle-même n'a plus d'adresse**. Le Conseil siège ailleurs chaque trimestre. La capitale est mobile. Aucune position théologique commune n'est jamais arrêtée. Aucune dispute n'est tranchée par le fond. Les Arbitres renvoient les parties aux autorités compétentes, qui sont ailleurs. La cohérence sanvarienne tient parce que **chaque voix reste à sa place**, ce qui dispense la Confédération de prendre la sienne.
+
+Cette dispense est belle. Elle protège du fanatisme. Elle a aussi pour effet, à très bas bruit, de produire des **caravansérails périphériques où la Catena Fracta s'enracine** sans rencontrer aucune résistance doctrinale. Le Conseil ne peut pas la combattre — il n'a pas de doctrine. Il ne peut pas non plus l'accueillir formellement — la Charte ne le prévoit pas. Il la tolère. La tolérance dure. Elle dure, dure, dure, jusqu'au jour où plus personne ne se rappelle quand ni pourquoi elle a commencé.
+
+**Biais culturels à connaître :**
+
+- **L'hospitalité dispense de la position.** Accueillir trois nuits suffit à honorer l'autre ; comprendre serait un effort supplémentaire qu'on n'exige pas. Cette règle est protectrice. Elle est aussi commode.
+- **Tout litige a une procédure ; aucun n'a de fond.** Les Arbitres tranchent par renvoi. Les disputes religieuses sont renvoyées aux religions, les disputes commerciales aux comptes, les disputes territoriales à la Charte. Personne n'est jamais en charge de juger *si quelqu'un a raison*.
+- **La capitale fixe est dangereuse.** Conviction profonde, jamais argumentée publiquement. Le voyageur étranger qui suggère qu'une capitale fixe simplifierait la diplomatie est traité avec une politesse pédagogique : *« vous ne comprenez pas comment Sanvara tient »*. Personne n'explique. Personne ne sait expliquer.
+- **Le silence est respect.** Beaucoup de Sanvariens préfèrent ne pas répondre à une question plutôt que de mal la trancher. Cette qualité, admirable en arbitrage, devient à grande échelle une **incapacité collective à formuler des positions**.
+
+---
 
 ---
 
@@ -142,6 +235,54 @@ Les Arbitres des Routes sont formés dans une école itinérante qui leur fait p
 
 > [!warning] Statut canonique
 > Sanvara est listée parmi les nations endoriennes dans la [[Chronologie - Index]] (Haldria · Avalor · Sanvara · Endrath) et apparaît dans [[Chapitre 15 - La Forêt qui Chante]] comme première mention narrative. La présente fiche étoffe le stub initial dans le cadre de la refonte V3.4 ; l'identité chiffrée Access n'a pas encore été retrouvée et devra être confirmée par lore-master.
+
+---
+
+## Cadre interne — Patterns
+
+> Encadré technique réservé aux rédacteurs et agents travaillant le Lore. N'apparaît jamais in-world.
+
+**Piège dominant : L'EFFACEMENT DE LA LIMITE.**
+
+Sanvara est l'archétype d'une nation où **tout est accueilli, donc rien ne compte vraiment**. La Charte des Sept Routes, la neutralité armée entre Voies, l'hospitalité codifiée des Trois Nuits, la rotation du Conseil, la pratique de l'arbitrage par renvoi, la tolérance des cellules Catena Fracta périphériques : tous ces dispositifs sont, individuellement, intelligents et fonctionnels. Ensemble, ils produisent une nation qui **n'a pas d'adresse**, et dont la voix collective n'a jamais été formulée.
+
+L'Effacement de la Limite est ici à l'état presque pur, dans sa forme la plus séduisante : ce n'est pas le syncrétisme mou d'un culte qui mélange les dieux ; c'est une discipline politique sophistiquée qui *refuse de trancher*. La Confédération a quasiment fait de l'absence de doctrine sa doctrine. Les Arbitres des Routes ne jugent pas du fond ; ils renvoient. Le Conseil ne formule pas de position théologique ; il accueille. La capitale ne se fixe pas ; elle tourne. C'est admirable. C'est aussi, exactement, l'Effacement de la Limite tel que la théorie le décrit : *« Tout est permis, tout est accueilli, tout est valide. Plus rien ne compte vraiment. »*
+
+**Loi figée jurisprudentielle en doublure :** paradoxalement, l'Effacement sanvarien est protégé par une **Loi figée** très stricte — celle de la procédure d'arbitrage. Les Arbitres des Routes appliquent une jurisprudence d'une finesse remarquable, et c'est précisément cette finesse qui permet le renvoi sans jamais trancher. La procédure est devenue le contenu. La règle a remplacé la position. C'est un Effacement *administré* — peut-être le plus durable possible.
+
+**Espérance Vide diffuse :** la Confédération nourrit une attente confédérale informelle — *« un jour, peut-être, nous formaliserons une voix commune »* — qui revient à chaque crise sans jamais aboutir. La faction de la capitale fixe est l'expression visible de cette attente. Elle revient depuis quatre générations. Elle n'aboutira pas. Personne ne le formule, mais tout le monde le sait. Cette espérance vide entretient la cohésion en l'orientant vers un futur qui ne vient pas — exactement la mécanique théorique du piège.
+
+**Vertu Cachée affleurante : LE TRANCHANT.**
+
+Sanvara *aurait pu* être une nation du Tranchant — c'est-à-dire de l'identité par refus, de la position assumée. La Charte, à sa fondation, avait cette qualité : sept caravansérails ont **dit non** à la guerre des routes, **dit non** à la concurrence destructrice, et tracé une ligne. Cette ligne tient encore. Mais depuis la fondation, **aucune nouvelle ligne n'a été tracée** — alors que les conditions ont changé. La Catena Fracta s'enracine ; le Conseil ne dit pas non. Esperia menace ; le Conseil ne dit pas oui à l'expédition. Le débit des puits de Khessit baisse ; le Conseil ne dit rien. Le Tranchant fondateur s'est figé en *Charte respectée*, et la Confédération a perdu la capacité de tracer de nouvelles lignes.
+
+Le Tranchant affleure néanmoins dans certains caravansérails : Murahal qui réclame l'expédition, Khessit qui demande qu'on regarde les puits, l'Hesran qui exige qu'on nomme la voix qu'on transporte. Aucune de ces voix n'est doctrinalement légitime à parler pour la Confédération. Toutes réclament une décision qui ne vient pas. Le voyageur attentif percevra que la cohésion sanvarienne est précisément ce qui empêche le Tranchant de revenir.
+
+**Figure-clé : Arbitre Khessit-Mar Andival (an 161 — an 224).**
+
+Andival naît à Khessit, dans une famille de Lecteurs de Saison vael'kurashe. Il s'oriente vers la formation des Arbitres des Routes contre la tradition familiale — pour des raisons qu'il n'a jamais explicitées dans ses cahiers. Il entre à Ket-Anvel à dix-neuf ans, voyage les caravansérails pendant dix ans, est admis Arbitre à vingt-neuf. Il sera, pendant trente-cinq ans, l'un des Arbitres les plus respectés de la Confédération.
+
+Andival a une réputation singulière : il **tranche moins que les autres**. Là où ses collègues renvoient les parties aux autorités compétentes, Andival écoute longuement, demande plusieurs séances, et **conclut par un silence prolongé** suivi d'une formule simple : *« je ne tranche pas ; je vous ai entendus tous deux. »* La sentence n'a aucune valeur procédurale. Elle est, étrangement, **respectée** par les parties dans environ deux tiers des cas. Andival est consulté par préférence dans les disputes les plus tendues — c'est-à-dire celles qui ne supportent ni renvoi ni tranchage.
+
+Les chroniques de Ket-Anvel notent que les sentences-silences d'Andival figurent dans le Registre des Renvois — la bibliothèque parallèle des disputes non-tranchées — sous une mention spéciale : *« renvoi à l'écoute »*. Cette catégorie est apparue avec lui. Elle s'éteint avec lui. Aucun Arbitre ultérieur n'a tenté de la reprendre.
+
+À soixante-deux ans, Andival est convoqué par le Conseil en session extraordinaire à Soltarin. Le Conseil débat depuis trois mois de la **demande de Murahal** pour une expédition collective vers Esperia. Six positions se sont formées, contradictoires, irréconciliables. Aucune n'a la majorité des deux tiers. Le Conseil demande à Andival, en raison de sa réputation, de proposer une **lecture** — une formulation qui aiderait à débloquer la situation.
+
+Andival écoute pendant deux jours. Le troisième jour, il prend la parole une seule fois. Sa déclaration est consignée dans plusieurs registres convergents : *« Vous discutez d'une expédition. Mais aucun de vous n'a posé la question préalable : voulons-nous, en tant que Confédération, prendre une position que nous tiendrons ensuite ? Si la réponse est non, l'expédition est inutile, parce qu'elle nous ramènera des données dont nous ne saurons pas quoi faire. Si la réponse est oui, alors nous devons prendre cette position avant l'expédition, pas après. Je ne tranche pas la question. Je vous la rends. »* Il quitte la salle.
+
+Le Conseil ajourne. La question n'est jamais reprise sous cette forme. L'expédition n'est ni décidée ni rejetée — elle est *différée*. Elle est encore différée aujourd'hui, plus de soixante ans après. Andival, dans ses cahiers personnels, écrit cette nuit-là — phrase que les apprentis Arbitres recopient parfois entre eux : *« Une nation qui ne sait pas dire ce qu'elle est ne saura pas non plus dire ce qu'elle veut. La nôtre tient parce que personne ne la pose. Le jour où quelqu'un la posera, nous saurons si nous étions une nation ou un arrangement. »*
+
+Andival termine sa carrière sur deux missions encore, puis demande son retrait à soixante-deux ans. Il revient s'installer à Khessit. Il y meurt en 224, à l'âge de soixante-trois ans, d'une affection respiratoire chronique qu'il avait depuis ses années de voyage. Ses funérailles sont vael'kurashe — il n'a jamais quitté la religion familiale, malgré sa profession. Il est enterré à Khessit. La Confédération n'organise pas de cérémonie centrale ; les Arbitres en formation reçoivent un avis interne, sans prescription. L'avis se conclut par une formule qui n'a pas été ajoutée par le bureau des registres : *« Andival a écouté plus qu'il n'a tranché. C'était son honneur. C'est aussi notre limite. »* L'identité du rédacteur n'a jamais été établie.
+
+**Mort marquante :** Andival meurt sans cérémonie confédérale. Son cahier final, retrouvé chez sa nièce, contient une phrase finale isolée : *« Je n'ai pas su dire à la Confédération qu'elle devait dire quelque chose. J'ai dit qu'elle devait le décider. Ce n'est pas la même chose. Je ne sais pas si j'aurais pu dire l'autre. »* Le cahier n'a pas été remis aux archives officielles. Une copie circule à Ket-Anvel parmi les apprentis.
+
+**Conflit moteur :** la tension entre **fidélité à la Charte** (la Confédération tient parce qu'elle n'impose rien à personne, donc elle ne doit jamais imposer) et **nécessité de prendre position** (les conditions changent, les puits baissent, la Catena Fracta s'enracine, Esperia se ferme — sans position, la Confédération sera dépassée par les événements). Cette tension est **structurellement insoluble** dans le cadre actuel. La Charte ne contient aucun mécanisme pour produire une position commune. Les Arbitres des Routes n'ont pas l'autorité doctrinale. Le Conseil ne peut pas dépasser la majorité des deux tiers requise pour les décisions importantes — majorité que les disputes religieuses ou identitaires ne peuvent atteindre. La Confédération a été conçue pour ne pas trancher. Elle ne tranche pas. Le coût s'accumule.
+
+**Cohérence avec Cantus Mundi (Calistor) :** Andival est, par sa trajectoire, le pendant sanvarien (et juridique, et politique) de Maître Calistor. Tous deux ont *pratiqué leur discipline avec une intégrité supérieure à ce qu'elle exigeait*. Tous deux ont *cessé de produire les conclusions attendues* (Calistor en composant *La Mesure Sourde* sans référence au retour de Cantor ; Andival en rendant la question au Conseil au lieu de la trancher). Tous deux sont morts sans être compris doctrinalement, vénérés par leurs élèves, oubliés par leurs institutions. Aucune connexion historique entre Andival et Calistor n'est attestée — Cantus Mundi est marginale en Sanvara (présence par bardes itinérants à Soltarin et Yaderis seulement). La parenté est, comme toujours, *structurelle*. **L'École Sourde de Calistor a un cousin sanvarien sans nom : ce sont les Arbitres qui rendent la question plutôt que de répondre, et qui meurent en sachant qu'ils n'ont pas posé la question qu'il fallait.**
+
+**Âge moral collectif majoritaire : LA LOI** (estimée à ~75% de la population). Particulièrement marquée chez les Arbitres et les délégués au Conseil, qui appliquent la Charte avec une rigueur héritée. Le Désir affleure chez les marchands en transit et chez les caravaniers ulinoriens (mobilité, négoce immédiat). Le Principe est rare — Andival, quelques Lecteurs de Saison, peut-être un ou deux Hôtes de Saison récents — toujours en marge.
+
+**Tonalité d'écriture :** la légèreté apparente du commerce sanvarien et la rigueur procédurale des Arbitres masquent une mélancolie sourde. Sanvara n'est pas frivole — Sanvara est *exquise*, et son exquisité est précisément ce qui l'empêche de se tenir. L'ironie est dans la beauté des dispositifs et le coût silencieux de leur fonctionnement.
 
 ---
 

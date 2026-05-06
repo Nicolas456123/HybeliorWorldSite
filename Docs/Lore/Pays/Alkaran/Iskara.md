@@ -1,14 +1,20 @@
 ﻿---
-tags: [lore, pays, alkaran]
-type: lore
-status: drafted
-last_review: 2026-05-02
+tags: [lore, pays, alkaran, nation]
+type: nation
+status: canon
+last_review: 2026-05-06
 needs_review_for: []
 ---
 # Iskara — La Porte de Fer
 
 > *« Un mur peut être brisé. Une montagne peut être creusée. Mais la volonté d'Iskara est forgée dans le fer et le feu — elle ne plie jamais. »*
-> — Maréchal Valdrik, Commandant suprême de la Porte de Fer
+> — Maréchal Valdrik, Commandant suprême de la Porte de Fer (parole gravée à l'entrée de l'Académie de Valyria, an 184)
+
+> *« Vous êtes libres de revenir. Nous serons là. »*
+> — Inscription gravée par la reine Yrelda la Forgée à la fin du siège, an 38
+
+> *« Quand on a passé un siècle à attendre un ennemi, on finit par confondre la garde et la vie. »*
+> — Frère Kelryn, moine-juge de Morvalis, propos privé recueilli après son retrait, an 247
 
 ---
 
@@ -46,6 +52,18 @@ Au trois centième jour, les assiégeants se retirèrent, décimés. Yrelda n'or
 ### L'Ère Moderne
 
 Aujourd'hui, Iskara est gouvernée par le roi **Theron IV**, un souverain austère et respecté. Le pays n'a jamais mené de guerre offensive — sa doctrine est purement défensive. Mais cette posture défensive cache une puissance militaire colossale : chaque citoyen iskaran est formé au combat dès l'âge de douze ans, et les forteresses sont maintenues en état de siège permanent, comme si l'ennemi pouvait arriver demain.
+
+### La Garde qui ne dort plus (an 100 environ — encore en cours)
+
+Trois siècles après la Défense de la Porte de Fer, l'ennemi ne revient pas. Plus exactement : il revient *en plus petit*. Les grandes coalitions des premiers siècles se sont dissoutes ; les nations qui avaient porté l'assaut ne sont plus alliées entre elles ; les empires de l'est se sont fragmentés. Les éclaireurs d'Ysolia rapportent, depuis trois générations, des incursions sporadiques (pillards, déserteurs, caravanes armées qui déraillent), mais aucune armée digne du mot.
+
+Le Conseil des Forges n'a *jamais réduit le niveau de garde*. La doctrine, formalisée par décret royal en l'an 87, fixe que le pays est en état de siège permanent — et qu'aucune circonstance, hormis une victoire écrite avec un vainqueur identifié et un traité signé, ne peut faire revenir Iskara à un autre état. Or aucune victoire de ce type n'a été remportée, parce qu'aucun ennemi assez grand pour signer un traité ne s'est présenté. La garde, donc, continue.
+
+L'effet, mesuré sans bruit par les comptables d'Iskara : **environ trente pour cent des hommes valides du pays sont sous les armes en permanence**. Les forges de Glintaris produisent à plein régime un acier qui ne sera presque jamais utilisé en bataille rangée. Les greniers de Mytharis sont rotés (vidés et remplis) tous les sept ans pour qu'ils ne pourrissent pas. Les Gardiens de la Porte s'entraînent contre des assauts qui n'arrivent pas. La caserne d'Helionis a fini par accueillir, à l'intérieur de ses murs, un village entier de civils — parce qu'une garnison qui ne combat jamais a besoin de quelque chose à protéger pour ne pas se déliter.
+
+Personne, à Iskara, ne dit que la garde n'a plus de sens. **Le dire serait insulter Yrelda.** L'argument n'est jamais formulé ainsi ; il n'a pas besoin de l'être. Le siège de la Porte de Fer, accompli en trois cents jours par trois mille soldats, est devenu le mètre-étalon avec lequel chaque mois de garde présent est mesuré et trouvé légitime.
+
+Une rumeur travaille le pays depuis trente ans : Theron IV ne serait pas le vrai roi. Le véritable héritier serait mort enfant et aurait été remplacé par un orphelin choisi par le Conseil des Forges (cf. *Secrets et intrigues* infra). Si la rumeur est vraie — ce que le Conseil dément avec la même rigueur qu'il met à tout dément — la légitimité dynastique se dissout. Mais **la garde, elle, ne se dissoudrait pas**. La garde est plus ancienne que la dynastie.
 
 ---
 
@@ -252,8 +270,56 @@ Région nord, siège de la capitale. Glintar est un immense bassin entouré de m
 ## Secrets et intrigues
 
 - **Les Tunnels Oubliés** : Sous Iskara, un réseau de tunnels bien plus ancien que le royaume serpente dans les profondeurs. Les mineurs de Myrilith ont découvert des salles immenses ornées de symboles inconnus — et certaines sont verrouillées par des portes que même l'acier iskaran ne peut entamer.
-- **La Flamme Immortelle** : La Grande Forge de Glintaris brûle depuis la fondation de la cité. Aucun Iskaran ne sait pourquoi elle ne s'éteint jamais — le charbon qu'on y verse semble superflu. Les prêtres d'[[Ignis Aeternum]] gardent la forge avec une ferveur qui suggère qu'ils connaissent un secret qu'ils ne partagent pas.
+- **La Flamme Immortelle** : La Grande Forge de Glintaris brûle depuis la fondation de la cité. Aucun Iskaran ne sait pourquoi elle ne s'éteint jamais — le charbon qu'on y verse semble superflu. Les prêtres d'[[Ignis Aeternum]] gardent la forge avec une ferveur qui suggère qu'ils connaissent un secret qu'ils ne partagent pas. Des relevés techniques retrouvés dans les archives du Conseil des Forges montrent un système d'alimentation en charbon automatisé conçu par Aldric le Bâtisseur lui-même — ce qui rend l'éternité de la flamme moins miraculeuse qu'ingénieuse. Les prêtres d'Ignis Aeternum préfèrent ne pas le mentionner. Le voyageur **Sorin Valthen**, de passage à Glintaris au chapitre 10 de son journal, note que *« les prêtres entretiennent ce qu'ils ne comprennent pas, et c'est précisément ce qui leur permet d'y croire »*.
 - **Le Roi Fantôme** : On murmure que Theron IV n'est pas le vrai roi. Le véritable héritier serait mort enfant et aurait été remplacé par un orphelin choisi par le Conseil des Forges. Si cette rumeur est vraie, la légitimité de la dynastie entière s'effondre — et certains commandants ambitieux pourraient en profiter.
+- **L'ennemi qui n'arrive plus** : depuis quatre générations, les éclaireurs d'Ysolia rapportent que les routes de l'est se vident. Aucun rapport ne fait état de cette tendance globale — chaque rapport est traité comme une observation locale, donc non-significative. Le Conseil des Forges, à plusieurs reprises, a refusé de commander une *synthèse*. Le greffier qui a osé en proposer une en 232 a été muté à Mytharis pour *« compétences de comptabilité »*. La synthèse, jamais rédigée, dort dans les archives d'Helionis.
+
+---
+
+## Cadre interne — Patterns
+
+> Encadré technique réservé aux rédacteurs et agents travaillant le Lore. N'apparaît jamais in-world.
+
+**Piège Institutionnel dominant : LE DÉNI DU SABLIER** (siège permanent, garde sans fin), doublé d'une **LOI FIGÉE** militaire (doctrine défensive non-révisable).
+
+Iskara est un cas double :
+
+1. **Déni du Sablier iskaran** (piège primaire). Iskara refuse, doctrinalement et matériellement, d'admettre que la situation ayant justifié la Défense de la Porte de Fer est *terminée*. Les coalitions des premiers siècles se sont dissoutes ; les empires de l'est se sont fragmentés ; les ennemis assez grands pour assiéger Iskara n'existent plus. Mais l'admettre reviendrait à dissoudre la doctrine défensive, à libérer trente pour cent des hommes valides, à reconvertir les forges, à reconfigurer le pays. Plutôt que ce démontage — qui exigerait de **regarder le temps écoulé** —, Iskara prolonge. La Porte tient. Les greniers tournent. Les recrues s'entraînent. Le pays est, dans toute sa rigueur, **un siège qui n'a pas trouvé son ennemi**. Le piège n'est pas dans la garde elle-même ; il est dans le refus d'examiner ce que la garde a cessé de garder. Cf. proverbe gravé : *« Vous êtes libres de revenir. Nous serons là. »* — phrase d'Yrelda en l'an 38, qui n'avait pas pour but d'être doctrinale et qui l'est devenue.
+
+2. **Loi figée militaire** (piège secondaire, en passe de devenir primaire). La doctrine défensive d'Iskara, formalisée en 87, n'est plus jamais réinterrogée. Toute proposition de réduction de garde est traitée comme une trahison de la Forgée. Les Forgerons-Juges (qui sont aussi formateurs militaires) appliquent la doctrine avec une compétence réelle ; leur intégrité, dans la majorité des cas, est totale. Ce qui s'est figé, c'est la *fonction* — chaque commandant applique le code parce qu'il est correct, sans plus jamais se demander si le code défend ce qu'il prétend défendre. La force du piège : **personne ne peut être tenu responsable** de la dérive, parce que tout le monde a été correct depuis Yrelda.
+
+**Cohérence avec les religions :**
+
+- **Lex Petra** (religion principale) : la pierre tient, le siège tient. La théologie iskaran fait de la stabilité une vertu cosmique. Cette lecture est *honnête* (les théologiens distinguent invocation et causation, cf. corps du document) — mais elle fournit, sans le vouloir, l'argument métaphysique qui légitime le Déni du Sablier : si la pierre est éternelle, pourquoi la garde aurait-elle un terme ? Les prêtres-juges de Lex Petra n'enseignent pas le Déni ; ils ne le combattent pas non plus. Frère Kelryn de Morvalis, qui se retire en silence après son verdict *« Je ne sais pas »*, est l'un des très rares à pressentir le pli — sans jamais le formuler.
+- **Ignis Aeternum** (religion secondaire) : présence saine. La cosmologie ignéenne *intègre l'extinction* (le feu qui se transmet, qui consume, qui rend) ; elle est, en cela, le contre-courant le plus solide d'Iskara. Mais elle est secondaire. Les prêtres ignéens d'Iskara sont, selon les visiteurs cendari, *« plus pragmatiques que mystiques »* — ce qui est une manière polie de dire qu'ils ne portent pas le débat. La Flamme Immortelle de Glintaris incarne paradoxalement le Déni : un feu *qui ne s'éteint pas* dans une religion *qui sait que le feu s'éteint*. Le compromis tient parce qu'on ne l'examine pas.
+
+**Âge moral collectif majoritaire : LA LOI.** Les Iskaran ordinaires agissent depuis la règle reçue (le code militaire, les Sept Ans d'Académie, le Serment de Pierre, la doctrine défensive). Le Désir est marginal (quelques officiers ambitieux, Brenn Aldor de Valryn qui dit Non sans calcul). Le Principe est rarissime (Lira de Zelrith qui exige la ventilation après la mort de son mari ; Astor Vyn de Galathor qui répond *« la loi est une lame, si elle ne coupe que les faibles, elle est mal forgée »* ; frère Kelryn qui se retire ; Syla la guérisseuse de Falron qui soigne l'enfant ennemi sans le dénoncer).
+
+**Figure-clé portant la Vertu Cachée : SERA VYN, ÉCLAIREUSE DE KALVORN** (env. +210 — disparue env. +245).
+
+Eclaireuse à la grande tour de guet de Kalvorn. Vue exceptionnelle. Voit, à un moment précis, une armée à sept jours de marche, et alerte le commandement. Vérification : rien. Reprimandée, transférée aux cuisines, humiliée. Trois mois passent sans incident. Puis, **un an plus tard, jour pour jour, l'armée arrive** — pas vingt mille hommes, trente mille — exactement où Sera les avait vus. Le siège tient grâce à la préparation, mais coûte des centaines de vies.
+
+Après cette confirmation, Sera n'est jamais félicitée publiquement — le commandement lui présente des excuses privées, ce qui est, en soi, exceptionnel à Iskara, mais *« ne se dit pas »*. Sera reprend son poste. Mais elle a changé. Elle voit désormais des choses qu'elle refuse de décrire — *« des ombres, au-delà de ce que les yeux humains devraient percevoir »*. Elle quitte Kalvorn un matin de brouillard, sans prévenir personne. On ne la revit jamais.
+
+Vertu portée : **LE VOILE** (Vertu #2). Sera incarne le doute *qui ne se résout pas dans le triomphe*. Elle a eu raison. Le commandement a admis, en privé, qu'elle avait eu raison. Mais ce qu'elle continue de voir après — ce qu'elle nomme *les ombres* — ne s'inscrit dans aucun cadre. Elle aurait pu construire une carrière sur sa réussite. Elle a choisi de partir, parce qu'elle savait que sa réussite serait digérée par la doctrine et que ses *ombres* — qui sont peut-être des présences vael'kurashes au-delà du tangible, peut-être des hallucinations, peut-être les deux — seraient, elles, ignorées. Le départ est l'acte de Voile : refuser que sa victoire devienne un argument pour la Loi qui l'avait rejetée. Sa fille Aelra (cf. *Histoires/Iskara — L'Eclaireur qui ne revint pas*) entend, des années plus tard, l'écho — la disparue Nyra, du même métier, qui laisse un cairn et un message *« Ruines. Au-delà. Attention. »*. Aelra et Sera ne se sont jamais croisées. La continuité du Voile, dans la lignée des éclaireuses, n'est tracée par personne.
+
+**Vertu secondaire affleurante : LA CHARGE** chez Lira de Zelrith — qui exige, après la mort de son mari par la poussière noire, qu'un puits de ventilation soit creusé, et revient malgré chaque renvoi des contremaîtres. Elle ne creuse pas elle-même. Elle exige. Et son exigence, sans titre ni autorité, finit par être appliquée. C'est une Charge accomplie *par contrainte morale*. Lira ne devient jamais célèbre hors de Zelrith.
+
+**Conflit moteur de la nation :**
+
+**La tension entre la Porte et le Temps.** Iskara est, par la Défense de la Porte de Fer, fondée sur un siège que les vainqueurs ont gravé dans le fer. Par les trois siècles écoulés depuis, ce siège est devenu son identité même — au point qu'admettre la fin du temps de la Porte serait admettre la fin d'Iskara. La nation choisit, sans le formuler, de continuer le siège plutôt que de se redéfinir. Ce choix est une **gravité**, pas une décision : aucun débat public, aucune ligne de fracture institutionnelle. Juste une lente prolongation dans laquelle des Iskarans *bons* — Theron IV qui règne avec rigueur, le maréchal Valdrik qui commande sans corruption, frère Kelryn qui se tait — se trouvent à choisir entre la mémoire d'Yrelda (qui les a faits ce qu'ils sont) et la lucidité (qui les obligerait à reconnaître que la Porte garde un passage que personne ne franchit plus).
+
+**Ce qui est *spécifiquement* iskaran (à ne pas dupliquer ailleurs) :**
+
+- Le siège permanent comme état institutionnel, sans ennemi identifié.
+- L'Académie des Gardiens de la Porte (sept ans) comme rite de passage social plus qu'utilité tactique.
+- Le Champ de Fer d'Helionis comme cimetière militaire imaginaire (aucune lame ne représente vraiment un soldat tombé, mais personne ne corrige la légende).
+- Les Forgerons-Juges (lame *et* traité juridique) comme classe qui maintient la cohérence Lex Petra / doctrine militaire.
+- La caserne-village de Helionis (civils à l'intérieur de la garnison) comme symptôme : la garnison a fini par produire son propre civil, qu'elle protège pour avoir quoi protéger.
+
+**Cohérence avec Sorin Valthen** : Sorin passe à Iskara au chapitre 10 (*Les Mines*) — observation des galeries (qui sont aussi les galeries de Ferrath ; la frontière n'est pas pure). Selon `_arc-sorin.md`, Sablier tacite (les hommes mourants des poussières) et Espérance Vide minière (*« la grande veine »*). La citation *« les mineurs entendent quelque chose. Sorin leur fait l'honneur de ne pas réinterpréter »* concerne tout autant Iskara que Ferrath. Aucune mention narrative directe de Sorin n'est nécessaire au-delà du *Secrets et intrigues* (Flamme Immortelle).
+
+**Ratio brisé / relevé pour Iskara** : pour chaque figure du Principe (Sera, Lira, Astor, Kelryn, Syla), prévoir 4-6 figures de la Loi correctement appliquée par des gens *bons* : le maréchal Valdrik, les Gardiens de la Porte qui s'entraînent sept ans, Darren Korr qui *tient*, Voss et Keldra et Thorn de Taldaris qui *font ce qu'il fallait*, le commandant Rhyss qui défend le pont, Brenn Aldor qui dit Non au prix de la ruine. Plusieurs de ces figures *« bonnes »* sont elles-mêmes pétries de Loi figée — Darren récite *« tenir, c'est tout »*, sans interroger ce qu'on tient ni pour qui. Le lecteur attentif sentira cette accumulation. Aucun PNJ ne doit énoncer le piège.
 
 ---
 

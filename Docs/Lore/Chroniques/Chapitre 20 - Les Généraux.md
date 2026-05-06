@@ -2,7 +2,7 @@
 tags: [lore, chronique]
 type: lore
 status: drafted
-last_review: 2026-05-02
+last_review: 2026-05-06
 needs_review_for: []
 ---
 # Chapitre 20 — Les Généraux Déliés
@@ -269,6 +269,8 @@ Pas par ordre de Pyrax — par choix de Saven, qui avait décidé que je devais 
 Mais la logique militaire produisait, par voie de conséquence, quelque chose qui ressemblait à ce que les nations plus théoriquement bienveillantes n'arrivaient pas à produire par principes : un endroit où un Délié pouvait manger sans calculer les regards.
 
 Je le notai dans le carnet, simplement : *Pyrtara ne croit pas en l'équité. Pyrtara croit en l'efficacité. L'efficacité produit ici, de façon accidentelle, quelque chose d'approchant l'équité. Je ne sais pas si c'est mieux ou pire que de croire en l'équité directement. Peut-être que la question n'est pas la bonne.*
+
+(Je relis la formule. Elle est élégante. Elle est aussi exactement le genre de raisonnement qu'un homme adopte quand il a besoin que l'endroit où il vient d'arriver soit défendable. Je l'écris quand même. Pyrtara fait des soldats efficaces des Déliés exilés ; Pyrtara fait aussi de ses paysans des ressources, de ses prisonniers des combustibles, de ses citoyens des chiffres dans les colonnes de Vyldor — c'est dans les rapports qui sont dans la salle voisine. La Brigade est un coin lumineux d'un système qui n'est pas lumineux. Je le sais. Je l'écris en marge, parce qu'en marge je peux le savoir sans avoir à le considérer.)
 
 Le quatrième jour, Thyren me trouva dans la salle commune au soir. Elle s'assit en face de moi avec la posture d'une personne qui a quelque chose à dire et qui a décidé de le dire.
 

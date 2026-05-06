@@ -2,12 +2,20 @@
 tags: [lore, histoire, evertia]
 type: lore
 status: drafted
-last_review: 2026-05-02
+last_review: 2026-05-06
 needs_review_for: []
 ---
 # Histoires de Thalmaris
 
 > *Chaque chanson cache une verite. Voici celles que les bardes ne chantent pas.*
+
+---
+
+## Note d'écriture (interne, ne pas afficher in-world)
+
+Ces histoires manifestent, sans la formuler, l'Espérance Vide thalmarienne. Le compositeur sans voix qui *aurait voulu chanter* ; la marchande dont la précision verbale fonde une justice oubliée ; l'accordeur de tempêtes qui entend ce que les autres ne veulent pas entendre ; le barde qui joue entre deux armées et finit la guerre sans en recevoir le crédit ; l'archiviste qui dicte trois ans pour sauver un tiers de sa mémoire ; la maitresse de copie muette qui écoute la pierre vibrer ; le luthiste âgé qui joue une dernière fois pour que le morceau soit *rejoué*. Toutes ces histoires suspendent leur résolution dans une attente qui ne ferme jamais. Aucune n'est récompensée par le monde. Plusieurs sont des figures du Voile (Oryn Vael, Mira, Aldren) qui meurent obscures, ou de Tranchant minuscule (Selna refusant le contrat, Elvar refusant la guerre par la musique).
+
+Le lecteur doit pouvoir entendre la beauté thalmarienne — l'Heure du Chant, le Silence Sacré, les jardins sonores — avant que la friction n'apparaisse : ces gestes d'art ne sauvent personne, et leurs auteurs mêmes meurent dans leur cellule, en cherchant le chant qu'ils n'auront pas trouvé.
 
 ---
 

@@ -1,175 +1,141 @@
 ---
-tags: [monde, frise, chronologie, histoire, événements]
-type: lore
+tags: [monde, frise, chronologie, ères, temps-long, narration]
 status: drafted
-last_review: 2026-05-05
+last_review: 2026-05-07
 needs_review_for: []
+type: lore-narrative
 ---
 
-# ⏳ Frise chronologique d'Hybelior
+# ⏳ La Frise — la carte du temps long d'Hybelior
 
-> *De la Résonance Primordiale au Cœur de Cendra qui s'accélère, voici la chronologie complète des événements globaux d'Hybelior — par Ère.*
-
-Cette frise rassemble les **événements canoniques** affectant le monde entier (cosmiques, civilisationnels, catastrophiques). Pour le détail narratif d'une ère donnée, voir `Lore/Chronologie/Era N - *.md`. Pour les civilisations intermédiaires et empires, voir [[Histoire d'Hybelior]] et [[Lignées]].
-
-**Notation des dates** :
-- `av.A` = avant l'Arrachement (An 0)
-- `ap.A` = après l'Arrachement
-- `du Sillage` = an 0 du Sillage = An 250 ap.A. Référentiel actuel.
+> *« Quand l'enfant me demande quel âge a le monde, je lui réponds qu'il a l'âge de tout ce dont nous nous souvenons, et qu'il est plus vieux encore de tout ce que nous avons oublié. C'est cela, la frise : la part du temps que nous savons encore raconter. »*
+>
+> *— Sœur Velandre, chroniqueuse au Sanctuaire de Caelorhin*
 
 ---
 
-## Les 8 Ères canoniques
+## L'idée d'une frise
 
-| # | Ère | Période | Magnitude |
-|---|---|---|---|
-| 0 | **Le Vide** | ∞ — Avant-Mémoire | Avant-temps |
-| I | **La Genèse** | Avant-Mémoire — ~45 000 av.A | Cosmologique |
-| II | **L'Éveil des Mortels** | ~45 000 — ~20 000 av.A | Démographique |
-| III | **L'Âge du Lien** | ~20 000 av.A — An 0 | Civilisationnel |
-| IV | **L'Arrachement** | An 0 (= -250 du Sillage) | Cataclysmique |
-| V | **La Grande Nuit** | An 0 — ~3 000 ap.A | Effondrement |
-| VI | **L'Ère des Nations** | ~3 000 — ~9 500 ap.A | Reconstruction |
-| VII | **Le Monde Actuel** | ~9 500 — 10 200 ap.A (an 251 du Sillage) | Présent |
+Il y a quelque chose d'étrange à vouloir tracer une frise dans un monde qui [[Le Souffle|respire]]. Le Souffle nous enseigne que le temps n'avance pas comme une rivière qui descend ; il se déploie comme une polyphonie, où certaines voix se taisent pendant que d'autres s'élèvent. Pourquoi, alors, étaler les âges côte à côte sur une ligne, comme si l'on pouvait les compter à la suite ?
 
----
+La réponse des chroniqueurs d'Hybelior est simple : on ne fige pas le temps en le racontant. On lui donne seulement des **repères**, comme on plante des bornes le long d'un chemin pour que le voyageur sache d'où il vient. Une frise n'est pas une cage. C'est une carte — et toute carte ment un peu, mais toute carte permet d'aller plus loin.
 
-## Ère 0 — Le Vide
+Cette page est la lecture rapide. Quand un mortel veut situer un événement, un héros, une ruine — quand il veut savoir si telle légende appartient aux âges anciens ou à la mémoire récente — il consulte la frise. Pour le détail des grands basculements, il ira voir [[Histoire d'Hybelior]]. Pour comprendre ce qu'est une [[Les Ères|Ère]], il ira voir le texte qui en parle. Ici, il trouvera seulement l'**ordre** des âges, et leur atmosphère.
 
-> Avant tout : pas de temps, pas d'espace, pas de matière. Une Résonance traverse le Substrat et fait émerger en cascade les 5 Éternels.
-
-| Événement | Type | Détail |
-|---|---|---|
-| **Résonance Primordiale** | Magie | La première vibration du Substrat. Rien ne précède. Cause non rapportée. |
-| **Émergence des 5 Éternels** | Magie | Celestia (lumière, ordre), Noctis (ombre, profondeur), Tempora (temps, flux), Eldoria (matière, étoiles), Navigor (chemins, connexions). Le Pacte Primordial est noué (termes inconnus). |
+> *« La frise ne te dit pas ce qui s'est passé. Elle te dit dans quel silence l'écouter. »*
+>
+> *— attribué à Maître Veyran d'Astravia*
 
 ---
 
-## Ère I — La Genèse (Avant-Mémoire — ~45 000 av.A)
+## Les Ères dans l'ordre
 
-| Événement | Type | Détail |
-|---|---|---|
-| **Naissance des 12 Cosmiques** | Magie | 4 phases canoniques (D-COSMO-4) : Phase 1 Aquor, Terranu, Aerion · Phase 2 Climata, Gravitas, Vortex · Phase 3 Judicar, Fatum, Spiritus · Phase 4 Stellaris, Aetheron, Etherius. **Enfants du monde**, non créateurs du monde. |
-| **Installation des 45 Éthérés** | Magie | Gelion (Cestra), Ignifex (Cendara), Venturis (Galenor), Coralis (Azoria)… Les Éthérés sont les gardiens locaux des continents. Base de nombreuses religions. |
-| **Fracture du Panghor** | Catastrophe | Le supercontinent unique se divise en 3 phases sur ~10 000 ans, donnant naissance aux **13 continents actuels** séparés par l'Océan Primordial. |
+### Le Vide
 
----
+Avant tout, il n'y avait rien — ni temps, ni espace, ni voix. Les théologiens d'Hybelior répugnent à dire qu'il y eut un *« avant »*, car parler d'avant suppose déjà du temps. Le Vide n'est pas une époque : c'est ce qui précède la possibilité même d'une époque. On l'inscrit pourtant en tête de la frise, par humilité — pour rappeler que tout commence par un silence, et que ce silence est lui-même un fait du monde.
 
-## Ère II — L'Éveil des Mortels (~45 000 — ~20 000 av.A)
+### La Genèse
 
-| An (av.A) | Événement | Type | Détail |
-|---|---|---|---|
-| ~45 000 | **Premiers mortels — 5 Berceaux** | Découverte | Apparition simultanée dans 5 zones : Flamme/Cendara, Pierre/Alkaran, Vent/Galenor, Brume/Celethor, Eau/Azoria. |
-| ~43 000 | **Varak la Brûlante — 1ᵉʳ nom historique** | Découverte | Première personne nommée. Découvre que le métal répond à la voix. Précurseur de la forge et de la magie du son. |
-| ~40 000 | **5 Proto-empires émergent** | Exploration | Ornakh-Vael, Moldra-Garak, Velkoran, Sylvarin, Thalorak. |
-| **~30 000** | **⚠ GRAND GEL — 1ᵉʳᵉ quasi-extinction** | Catastrophe | Climata, la Cosmique du Froid, provoque une glaciation mondiale. **~73 % de la population disparaît**. La quasi-totalité des proto-empires s'effondre. |
-| ~29 000 | **Nadir du Gel — 12 300 âmes survivantes** | Catastrophe | Point le plus bas. 12 300 individus répartis sur 13 continents. Reconstitution prendra 5 000 ans. |
-| ~25 000 | **Reconstruction — premiers peuples hybrides** | Découverte | Ponts de glace, premières grandes migrations inter-continentales. |
+Puis vint la première vibration. Les chroniqueurs disent que **les voix se sont élevées** — d'abord les Éternels, en cascade, comme si le Substrat lui-même avait trouvé sa langue. De cette première parole naquirent les Cosmiques, enfants du monde et non créateurs du monde, et les Éthérés, gardiens locaux dispersés sur ce qui deviendrait les continents. La Genèse n'est pas une histoire de mortels — c'est l'âge où le monde s'apprend à exister. Plus tard, le supercontinent unique se brisa, et les terres prirent leurs visages connus. Aucune mémoire mortelle ne remonte aussi loin ; seules les inscriptions des plus vieux sanctuaires en gardent l'écho déformé.
 
----
+### L'Éveil des Mortels
 
-## Ère III — L'Âge du Lien (~20 000 av.A — An 0)
+Lorsque les voix se furent installées et que les terres eurent trouvé leurs places, les premiers mortels apparurent — non pas ensemble, mais simultanément, dans plusieurs **berceaux** dispersés à travers le monde. Chaque berceau a sa langue première, sa première figure nommée, sa façon propre de découvrir le feu, la pierre, la voix, l'eau. C'est un âge d'émerveillement et de fragilité.
 
-| An | Événement | Type | Détail |
-|---|---|---|---|
-| ~20 000 av.A | **Orvane, Khatun, Ildaran découvrent le Lien** | Magie | Trois individus sur trois continents découvrent simultanément la magie du Lien — énergie cosmique reliant toutes les choses vivantes. |
-| ~18 000 av.A | **3 Écoles du Lien fondées** | Fondation | Clairière des Fils (Celethor), Guilde du Souffle (Cendara), Congrégation (Alkaran). Praticiens = **Liés**. |
-| ~12 000 av.A | **Guerre des Deux Lumières — 40 ans** | Guerre | Pyrevaste vs Celith. Premier grand conflit impliquant le Lien. Arbitrée par la Confédération d'Alkarath. |
-| ~10 000 av.A | **Les 9 Grandes Religions** | Religion | Ignis Aeternum, Vael'Kurash, Rota Mundi, Noctari, Ordo Caelum, Via Ventus, Lex Petra, Somnium Vigil, Foedus Animae. |
-| ~8 000 av.A | **Code de Pierre — 1ᵉʳ droit écrit** | Fondation | Confédération d'Alkarath. 400 articles. Base juridique de référence jusqu'à l'Ère des Nations. |
-| ~6 000 av.A | **Schisme du Lien — 200 ans de rupture** | Religion | Quatre empires s'affrontent sur la définition du Lien : divin, naturel ou outil ? |
-| ~5 000 av.A | **Alliance Endara-Khalifat** | Alliance | Mariage de Lyrana et Khar le Venteux. 50 ans de paix. Bibliothèque d'Endara (40 000 rouleaux). |
-| ~4 000 av.A | **Mort-de-Rêve — chute d'Ithalorn** | Chute | 9 des 13 dirigeants d'Ithalorn meurent dans un cauchemar partagé en une seule nuit. **Nysaria se sépare définitivement**. Origine inconnue. |
-| ~3 000 av.A | **6 Grands Empires dominent le monde** | Exploration | Hégémonie d'Aethran, Dominat de Pyrion, Empire de Lithane, Sanctuaire d'Orivane, Thalassocratie de Navoris, Union des Flammes. |
-| ~2 000 av.A | **Âge d'Or — 120M habitants, 7 cités volantes** | Découverte | 200+ portails actifs, 9 académies du Lien, mortalité infantile 12%, espérance de vie 65-90 ans. **Apogée**. |
-| ~1 500 av.A | ⚡ **Souffle Cardinal de la Fracture** | Magie | Premier Souffle Cardinal observé — annonce l'Arrachement. |
-| ~1 000 av.A | **Verithan — Traité du Vide** | Religion | « Le Lien est une chaîne. » Verithan publie ses 5 thèses et fonde les Verithani. **Premier mouvement anti-Lien organisé**. |
-| ~30 av.A | **L'Étudiant rassemble le Cercle des Huit** | Magie | Héritier intellectuel de Verithan. Réunit 8 disciples (Sera, Drakhan, Mirathis, Vorath, Aelindra, Thessan, Kayara, Iveth) de 5 nations différentes au Mont Cendra. |
+Cet âge connut sa première grande blessure : un long gel, attribué à la Cosmique du Froid, qui faillit éteindre tout ce qui venait à peine de s'allumer. Les survivants se comptèrent sur quelques mains à l'échelle d'un continent. La reconstruction prit des âges entiers, et les peuples qui en sortirent n'étaient plus tout à fait ceux qui y étaient entrés.
 
----
+### L'Âge du Lien
 
-## Ère IV — L'Arrachement (An 0 = -250 du Sillage)
+Vint alors le grand âge de la **résonance retrouvée**. Trois figures, sur trois continents éloignés, découvrirent presque ensemble qu'on pouvait *parler au monde* — qu'une énergie traversait toutes les choses vivantes, et qu'on pouvait s'y inscrire pour en faire un art. On les appela **Liés**, et leur découverte changea tout.
 
-> L'événement pivot d'Hybelior. 6 lectures coexistent du même fait — la Verithane est la plus diffusée, mais aucune n'est canon absolu.
+Des écoles se fondèrent, des religions se cristallisèrent, des empires apprirent à coexister sous le regard d'une grande Confédération qui codifia le premier droit écrit. Les chroniqueurs nomment cette époque l'**Âge d'Or** : on y vit des cités flotter dans les nuages, des bibliothèques rassembler les savoirs de tout un continent, des académies enseigner le Lien à des générations entières. C'est aussi l'âge où l'on cessa de s'étonner du monde — et c'est peut-être pour cela qu'il dut finir.
 
-| An (ap.A) | Événement | Type | Détail |
-|---|---|---|---|
-| **0** | ⚡ **RUPTURE COSMIQUE — An 0** | Catastrophe | **Lecture verithane** : l'Étudiant sectionne son propre Nœud de Lien au sommet du Mont Cendra à l'aube. La rupture se propage en 7 heures à travers tout Hybelior. **5 autres lectures coexistent** (Rota Mundi, Vael'Kurash, Foedus Animae, Catena Fracta…). |
-| 0 | **7 cités volantes s'écrasent en 7 heures** | Catastrophe | Cendal'Horun (800 m), Lithanel Haute (1 200 m), Pyranel, Althanar, Orivane Haute (1 500 m), Endral Flottant, Navoris Céleste. **Centaines de milliers de morts**. |
-| 0 | **Navigor disparaît** | Chute | L'Éternel des passages disparaît. Les chemins entre dimensions se ferment. Les âmes des morts n'ont plus de guide vers l'au-delà — seul Transitum subsiste. |
-| 0 | **Navoria engloutie — 200 000 morts** | Catastrophe | La Thalassocratie de Navoris. En 3 jours, la capitale côtière s'enfonce. 400 000 habitants. Ruines à 40 m sous la mer. |
-| 0 | **Eldoria entre dans le Grand Sommeil** | Magie | L'Éternel de la vie s'endort. Plus aucune étoile nouvelle ne naîtra. Le monde vit désormais sur ses réserves magiques existantes. |
-| 0 | **Tempora blessé — Failles temporelles** | Magie | L'Éternel du temps gravement blessé. Discontinuités temporelles permanentes (les **Failles**). Passé / présent / futur peuvent se mélanger aux abords. |
-| 1-10 | **Famines et épidémies mondiales** | Catastrophe | Première épidémie : ~8M morts. Famines : ~20M morts. Sans le Lien, l'agriculture magique s'effondre. |
+Vers la fin de cet âge, des voix dissidentes commencèrent à s'élever : *« le Lien est une chaîne »*, disait l'un d'eux. Personne ne le crut vraiment. Personne, sauf un disciple, et puis huit autres, qui se rassemblèrent en silence au sommet d'une montagne.
 
----
+### L'Arrachement
 
-## Ère V — La Grande Nuit (An 0 — ~3 000 ap.A)
+Cet âge ne dura qu'un instant — mais il pèse sur tous ceux qui suivirent. C'est l'**heure pivot** d'Hybelior, celle qu'aucun chroniqueur ne raconte exactement de la même manière, et que pourtant tous datent comme l'**An Zéro**.
 
-| An (ap.A) | Événement | Type | Détail |
-|---|---|---|---|
-| 0-50 | **La Grande Nuit — 120M → ~25M survivants** | Chute | Famines, épidémies, effondrements d'infrastructure, guerres tribales. ~90 millions de morts sur 3 000 ans. **75 % de la population mondiale disparaît**. |
-| ~50 | **Seigneurs de Forge — premiers féodaux** | Fondation | Domaines de 5 000 à 20 000 personnes autour d'une forge. La maîtrise du métal remplace la magie comme fondement du pouvoir. |
-| ~400 | **Le Forgon — Pacte des Trois Ports** | Fondation | Familles Forr, Gondal, Navar (côte d'Onara). **Première monnaie interrégionale**. Germe de Mosrack. |
-| ~800 | **Drahk fonde Drahk'Nor** | Fondation | 40 ans de campagnes. Unifie Ilthara et Endora. Possiblement lui-même Tissé — ce qui rendrait sa future persécution des Tissés tragique. |
-| ~1 000 | **Grand Schisme Religieux** | Guerre | Trois camps : les Fidèles (les dieux dorment), les Abandonnés (les dieux sont morts), les Accusateurs (les dieux ont trahi). |
-| ~1 480 | ⚠ **FLÉAU DES FAILLES — 3ᵉ quasi-extinction** | Catastrophe | Phénomène magique ciblant les **Tissés** via les Failles de Tempora. ~150 000 Tissés réduits à ~200-300 survivants en 200 ans. Population mondiale réduite de 40 %. |
-| 1 400-1 600 | **Persécution des Tissés** | Magie | Le Culte des Mangeurs de Temps et les Inspecteurs de Pureté de Drahk'Nor traquent les Tissés. Être né sans Lien devient un crime. |
-| 1 450-1 600 | **Tyrannie des Cendres — Drahk'Nor** | Guerre | Période la plus sombre. Euthanasie systématique des Tissés. Camps, registres, délations. |
-| ~2 400 | **Convention de Gryndor** | Traité | Premier traité inter-empires depuis l'Arrachement. Routes communes, arbitrage frontalier. **Exclut délibérément les Tissés** — bombe à retardement pour l'Ère des Nations. |
+Les uns disent que l'Étudiant trancha son propre nœud de Lien à l'aube, sur le Mont Cendra, et que la rupture se propagea en quelques heures à travers tout le monde. D'autres y voient un Souffle Cardinal trop violent, ou une décision des Éternels, ou la trahison d'un dieu, ou le réveil d'un autre. Six lectures coexistent, et aucune n'a su s'imposer comme la vérité.
+
+Ce que tous reconnaissent, c'est ce qui suivit : les cités volantes s'écrasèrent les unes après les autres ; un Éternel disparut, deux autres tombèrent dans le sommeil ou la blessure ; les routes entre les mondes se fermèrent ; la mer engloutit une thalassocratie entière. L'âge d'or devint, en une journée, un âge de cendres.
+
+> *« Demande à dix vieillards ce qui s'est passé à l'Arrachement. Tu auras dix réponses, et chacune sera vraie. C'est cela qui me terrifie le plus. »*
+>
+> *— Inéa la Sept-fois-Réveillée*
+
+### La Grande Nuit
+
+Après l'Arrachement, le monde s'enfonça dans ce que les chroniqueurs appellent la **longue obscurité**. Les famines, les épidémies, l'effondrement des infrastructures magiques, les guerres tribales — tout se conjura pour que la population fonde comme neige. Trois mortels sur quatre disparurent au fil des siècles.
+
+C'est l'âge des **seigneurs de forge** — petits domaines accrochés à un savoir-faire métallurgique, parce que la magie ne suffisait plus à nourrir un peuple. C'est aussi l'âge où le grand schisme religieux fractura les fidèles en trois camps : ceux qui croyaient les dieux endormis, ceux qui les croyaient morts, ceux qui les croyaient traîtres. Aucun n'a jamais convaincu les autres.
+
+Plus tard dans cette nuit longue advint le **Fléau des Failles** — un phénomène magique qui frappa spécifiquement les Tissés, ces êtres nés sans Lien, à travers les blessures temporelles laissées par Tempora. Et plus tard encore, la tyrannie qui en suivit — les camps, les registres, les délations. La Grande Nuit n'est pas seulement une période de pauvreté ; c'est aussi celle où l'humanité d'Hybelior apprit ce dont elle était capable lorsqu'elle avait peur.
+
+### L'Ère des Nations
+
+Le monde finit pourtant par se relever, et lentement, sur des âges entiers, les peuples se mirent à réinventer la grande échelle. Des routes commerciales relièrent à nouveau les continents. Des monnaies standardisées circulèrent. Des **nations** émergèrent — non plus de vastes empires unifiés comme à l'Âge d'Or, mais une mosaïque de royaumes, de fédérations, de cités-États qui apprirent péniblement à négocier entre eux.
+
+Ce fut un âge de **guerres et de traités** : guerre du Panghor Brisé, guerre des Trois Couronnes, guerre des Détroits, guerre des Cinq Vents — chaque génération eut la sienne. Mais ce fut aussi l'âge où l'on signa un étalon métallique commun, où l'on tint un grand concile, où une seule république véritable osa naître et faire école. La civilisation s'était reconstituée — différente, plus prudente, plus polyphonique. Plus jamais elle n'eut la grandeur naïve de l'Âge du Lien, mais elle apprit à durer.
+
+### Le Monde Actuel
+
+Et puis vint **maintenant** — cet âge dans lequel se déploie la Partie présente. Il s'ouvrit par un grand Traité signé par presque toutes les nations du monde, arbitré par la république qui avait inventé l'imprimerie. On crut un moment que la longue convalescence d'Hybelior était terminée.
+
+Mais les signes se sont multipliés. Le Cœur d'un volcan s'accélère. Des esprits-lieux se sont tus, et le dernier message qu'on ait reçu d'eux était un avertissement. Une sphère de lumière a délivré, en plusieurs langues simultanées, un message obscur sur des routes qui se rouvriraient. Un village entier a disparu en quelques minutes, ne laissant qu'un sol de verre. Et dans l'ombre, des héritiers radicaux du dissident d'autrefois assassinent, méthodiquement, ceux qui défendent le Lien.
+
+Personne ne sait, aujourd'hui, ce qui se prépare. Les augures s'accordent seulement sur une chose : **quelque chose vient**.
 
 ---
 
-## Ère VI — L'Ère des Nations (~3 000 — ~9 500 ap.A)
+## Lire la frise
 
-| An (ap.A) | Événement | Type | Détail |
-|---|---|---|---|
-| ~3 800 | **Routes commerciales continentales** | Commerce | Route de l'Épine (N-S), Route des Quatre Mers (maritime), Voie des Sommets (montagnarde). Première infrastructure économique mondiale depuis l'Arrachement. |
-| ~4 200 | **Premières monnaies standardisées** | Commerce | Altram forge les premières pièces calibrées. Préfigure l'étalon de Lumasar. |
-| ~4 800 | ⚔ **Guerre du Panghor Brisé** | Guerre | Drahk'Nor s'effondre après 4 000 ans. Les Triumvirats de Khorrath et le Voïvodat de Gryndhaar naissent en Ilthara. Les guildes marchandes d'Endora obtiennent leur autonomie. |
-| ~5 200 | ⚔ **Guerre des Trois Couronnes** | Guerre | Galenthis s'effondre. La Ligue Équestre de Galenor et l'Hégémonie de Solkethis émergent. |
-| ~5 700 | ⚔ **Guerre des Détroits** | Guerre | Mosrack vs coalition (Tyndara, Haldria, Caeloria). Premières lois maritimes internationales. |
-| ~5 800 | **Fondation du Drakhal (Empire des Cendres)** | Fondation | Unifie le centre et le sud d'Ilthara après l'effondrement du Voïvodat de Gryndhaar. |
-| ~6 000 | ⚔ **Guerre des Dieux Sourds** | Guerre | Gryndor vs Drakora. Conflit entre gouvernance séculière (Gryndor) et théocratique (Drakora). Sans vainqueur. |
-| ~6 200 | **Chute du Royaume de Varnath** | Chute | Le Royaume de Varnath s'effondre en Alkaran après une guerre civile dynastique. Début de l'Ère des Seigneurs de la Pierre. |
-| ~6 500 | ⚔ **Schismes d'Endora** | Guerre | Guerres religieuses internes à Haldria. Avalor et Sanvara se séparent. |
-| ~6 900 | ⚔ **Guerre des Cinq Vents** | Guerre | Conflit entre les cinq puissances galenoriennes (Kharazir, Ventera, Seraphia, Lumasar, Solena). Aucun vainqueur. |
-| ~7 000 | **Étalon Métallique de Lumasar** | Commerce | 40+ nations adoptent le standard monétaire (l'**arkhen**). Trois emblèmes : La Plume, le Marteau, la Forge. |
-| ~7 050 | **Éruption de Pyrathis — naissance des Cités du Sud** | Catastrophe | L'éruption volcanique qui détruit le Drakhal donne naissance aux Cités-États de Pyrathis. |
-| ~7 200 | ⚔ **Guerre de l'Ombre (ancienne)** | Guerre | Schisme politique dans Gryndor. Naissance de Pyrtara, premier État séculier revendiqué. |
-| ~7 500 | **Révolution des Plumes — Lumasar** | Révolte | Seule véritable révolution républicaine d'Hybélior. Le **Code de Lumasar** fonde les droits des citoyens. Lumasar = seule république formelle. |
-| ~7 800 | **Concile de Veldros** | Chute | Dernier concile de la Confédération Veldrane d'Endora avant absorption par l'Empire Kalvorn. |
-| ~8 800 | ⚔ **Défense de la Porte de Fer — Protectorat des Passes** | Guerre | Le Protectorat des Passes (sous Aldren IV) repousse la coalition Drakora-Gryndor. Frontières d'Alkaran fixées pour les siècles suivants. |
-| ~8 900 | **Révolution des Surfaces — Cendara** | Révolte | Soulèvement contre le Protectorat de la Main Noire (qui gouvernait depuis les souterrains). Naissance de la Ligue des Villes Libres. |
-| ~9 100 | **Rêve Sans Convocation — Nysaria** | Mystère | Un rêve collectif non invoqué traverse Nysaria en une seule nuit, abolissant la Confédération des Rêves Nommés. **Origine inconnue**. |
-| ~9 100 | **Trois fondations simultanées** | Fondation | **Altram** (Traité de Vask), **Kharazir** (Cité-État du Carrefour → fédération), **Drakora** (Marches de Khorrath → Grand-Duché). Trois nations émergent en l'espace d'une génération. |
-| ~9 200 | **Dissolution de la Ligue Équestre de Galenor** | Chute | La Ligue se fragmente après la sécession des Cavaliers Libres. Ventera hérite des plaines centrales et des traditions nomades ancestrales. |
+Un mortel d'Hybelior ne pense pas le temps long comme un fil tendu. Il le pense comme une **suite de respirations** — chaque âge ayant inspiré, retenu son souffle, expiré, avant que le suivant ne commence à inspirer à son tour. Quand on lui demande dans quelle Ère il vit, il ne répond pas par un chiffre ; il dit *« nous sommes dans l'âge où le Cœur s'accélère »*, ou *« nous sommes après le Traité »*, ou simplement *« nous sommes maintenant »*.
+
+Les très vieux — ceux qui ont traversé plusieurs Souffles et dont la mémoire enjambe les Ères — disent qu'on apprend, avec les âges, à reconnaître la **tonalité** d'une époque avant même de pouvoir la nommer. Une Ère se sent. Elle a sa lumière, ses peurs, ses espoirs. Quand on en a vécu plusieurs, on ne se demande plus *« en quelle année sommes-nous »* — on se demande *« dans quelle saison du monde »*.
+
+C'est pour cette raison que la frise est utile. Elle ne donne pas des dates ; elle donne des **noms**. Et un nom, à Hybelior, vaut mille mesures.
 
 ---
 
-## Ère VII — Le Monde Actuel (~9 500 — 10 200 ap.A / an 251 du Sillage)
+## Les Cardinaux qui ont marqué
 
-| An (ap.A) | Événement | Type | Détail |
-|---|---|---|---|
-| ~9 500 | **Traité des Treize Continents** | Traité | 64 nations sur 71 signent. 12 ans de négociation. Le Tribunal de Lumasar arbitre. **Début officiel de l'Ère Actuelle**. |
-| ~9 600 | **Presse à caractères mobiles — Lumasar** | Découverte | Les livres deviennent accessibles au peuple. Bulletins quotidiens. Démocratisation du savoir. |
-| ~9 750 | **Catena Fracta — premiers rapports** | Révolte | « Le Lien est une domination. » Héritiers radicaux de Verithan. Cellules clandestines dans 12 nations. Les assassinats commencent. |
-| ~9 850+ | **Guerre de l'Ombre — assassinats ciblés** | Guerre | 8 figures pro-Lien assassinées. Aucune revendication. Les enquêtes n'aboutissent pas. |
-| ~9 900 | ⚠ **Cœur de Cendra s'accélère** | Mystère | Pulsations 1/saison → 1/semaine. Les Liés dans un rayon de 50 lieues reçoivent des visions. Les animaux fuient. |
-| ~10 000 | **Silence des Esprits d'Evertia** | Mystère | 200 des 300 esprits-lieux d'Evertia cessent de communiquer. Dernier message reçu (~10 130 ap.A) : *« Ils arrivent par le dessous. »* |
-| ~10 064 | **Message de Mirathi — 3 langues** | Mystère | Une sphère de lumière apparaît simultanément à Ulinor, Nysaria et Vytharia. Même message en 3 langues superposées : *« Les routes rouvrent… le guide revient par les marges. »* |
-| ~10 142 | ⚠ **Faille de Gryndor — Ordavan disparaît** | Catastrophe | Le village d'Ordavan (200 habitants) disparaît en 3 minutes. Cercle de sol vitrifié de 40 m de rayon. Faille de Tempora confirmée. **Aucun survivant**. |
-| **~10 200** | **Présent — an 251 du Sillage** | — | Témoins encore vivants : Veyran d'Astravia, Inéa la Sept-fois-Réveillée, La Hêtraie d'Os-Karash. |
+Les plus anciennes inscriptions d'Hybelior parlent de [[Le Souffle|Souffles Cardinaux]] — ces basculements rares qui ne sont pas des transitions ordinaires d'Ère, mais des reconfigurations de la Polyphonie elle-même. La frise canonique n'en reconnaît qu'un petit nombre, et même ceux-là sont disputés.
 
----
+Il y eut, dans la nuit des temps, l'**émergence** elle-même — quand la première vibration devint cinq voix éternelles. C'est le Cardinal des Cardinaux, celui sans lequel rien n'aurait pu être. Aucun mortel n'en a été témoin, et pourtant tous en sont les enfants.
 
-## Civilisations intermédiaires et lignées
+Il y eut, au bout de l'Âge du Lien, ce qu'on appelle le **Souffle Cardinal de la Fracture** — un avertissement cosmique qui, plusieurs générations avant l'Arrachement, fit trembler les augures sans qu'on sache encore lire le signe. Ceux qui l'avaient vu vieillirent en se demandant ce qu'il annonçait. Ils moururent avant de comprendre.
 
-Pour le détail des **130+ civilisations** intermédiaires (empires, royaumes, fédérations qui ont peuplé chaque ère) et leur héritage, voir :
-- [[Lignées]] — les 10 lignées canoniques et leurs nations actuelles
-- [[Histoire d'Hybelior]] — vue narrative
-- `Lore/Chronologie/Era N - *.md` — détails par ère
+Et il y eut l'**Arrachement** lui-même, qui fut peut-être un Cardinal, peut-être un Grand Souffle d'amplitude inhumaine, peut-être autre chose — les théologiens ne s'accordent toujours pas. Ce dont ils s'accordent, c'est qu'après lui, la Polyphonie n'a plus jamais sonné de la même manière.
+
+D'autres Cardinaux, plus anciens encore, sont chuchotés par les chamanes des continents glacés ou inscrits sur des stèles dont la langue s'est perdue. On en parle peu. Quand on en parle, c'est à voix basse, et toujours pour conclure que *« le monde a vu pire, et que le monde s'est tu »*.
+
+> *« Un Cardinal n'arrive pas. Un Cardinal était déjà là, et nous n'avons fait que finir par l'entendre. »*
+>
+> *— inscription effacée, fragments d'Os-Karash*
 
 ---
 
-*Liens : [[02 - Monde/Index|02 - Monde]] · [[Histoire d'Hybelior]] · [[Lignées]] · [[Cosmologie]] · [[Géographie]] · [[Traces des Ères]]*
+## Le présent dans la frise
+
+Si l'on se place sur la frise, on est aujourd'hui dans la dernière colonne — celle qui n'est pas encore close. L'**Ère Actuelle** est ouverte. Ce qui veut dire deux choses : **on ne sait pas ce qui va finir par la nommer**, et **chaque mortel y pèse**.
+
+Quand un chroniqueur futur écrira la suite de cette frise, il choisira un nom pour notre époque. Peut-être l'appellera-t-il *« l'Ère du Cœur Fou »*, ou *« l'âge des routes rouvertes »*, ou *« la veille du second Arrachement »* — nul ne sait. Ce qu'il dira de nous dépend de ce que nous ferons, et de ce que le monde fera autour de nous. C'est pour cela qu'aucune Ère ne peut être pleinement comprise tant qu'elle se déroule. Ce n'est qu'après son Souffle de clôture qu'elle révèle ce qu'elle était vraiment.
+
+Pour le mortel, cette ouverture du présent est à la fois angoissante et libératrice. Angoissante, parce qu'on n'a pas la fin du livre. Libératrice, parce qu'on en écrit encore les pages.
+
+---
+
+## La frise, et ce qu'elle ne dit pas
+
+Cette page est volontairement courte. Une frise doit pouvoir se lire d'un trait, comme on consulte une carte avant de partir. Tout ce qui est détaillé ailleurs n'a pas à être répété ici : la nature d'une Ère est expliquée dans [[Les Ères]] ; la respiration cosmique qui les sépare l'est dans [[Le Souffle]] ; les histoires fines, les civilisations intermédiaires, les figures qui ont marqué chaque âge sont racontées dans [[Histoire d'Hybelior]] et dans [[Lignées]].
+
+Ce que la frise donne, et qu'aucune autre page ne donne avec cette concision, c'est l'**ordre**. Et dans un monde qui respire, l'ordre n'est pas un détail : c'est la première grammaire dont on a besoin pour commencer à comprendre.
+
+> *« Apprends d'abord les noms des âges. Tu apprendras ensuite leurs histoires. Tu finiras peut-être par apprendre leurs silences. »*
+>
+> *— Maître Aldric, à un apprenti chroniqueur*
+
+---
+
+*Liens narratifs : [[Les Ères]] | [[Le Souffle]] | [[Histoire d'Hybelior]] | [[Lignées]] | [[Cosmologie]] | [[Géographie]] | [[Traces des Ères]]*

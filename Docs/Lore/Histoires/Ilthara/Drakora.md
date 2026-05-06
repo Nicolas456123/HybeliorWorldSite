@@ -1,8 +1,8 @@
 ﻿---
-tags: [lore, histoire, ilthara]
-type: lore
-status: drafted
-last_review: 2026-05-02
+tags: [lore, histoire, ilthara, drakora]
+type: histoire
+status: canon
+last_review: 2026-05-06
 needs_review_for: []
 ---
 # Histoires de Drakora

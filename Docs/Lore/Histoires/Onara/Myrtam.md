@@ -2,7 +2,7 @@
 tags: [lore, histoire, onara]
 type: lore
 status: drafted
-last_review: 2026-05-02
+last_review: 2026-05-06
 needs_review_for: []
 ---
 # Histoires de Myrtam

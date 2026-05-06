@@ -1,14 +1,20 @@
 ﻿---
-tags: [lore, pays, alkaran]
-type: lore
-status: drafted
-last_review: 2026-05-02
+tags: [lore, pays, alkaran, nation]
+type: nation
+status: canon
+last_review: 2026-05-06
 needs_review_for: []
 ---
 # Torkam — Les Sables de l'Esprit
 
 > *« Nous n'avons pas de murs parce que nous n'avons pas besoin de murs. Le désert est notre forteresse, et les esprits sont nos sentinelles. »*
-> — Yalka, Grande Chamane de Torkam
+> — Yalka, Grande Chamane de Torkam (env. an 80, parole reprise depuis comme proverbe d'identité par les tribus)
+
+> *« Tant qu'un nom est dit, l'âme tient. Et ce qui tient nourrit ceux qui le tiennent. C'est la chose qu'aucun chaman ne formule, et que toute famille riche sait. »*
+> — Marge anonyme d'un *aide-mémoire* d'Olkanoris, an 224
+
+> *« Recite les noms, pas les histoires. Les histoires changent. Les noms, non. »*
+> — Mirhan, dernier mot consigné par son apprentie Seyda, an 198
 
 ---
 
@@ -45,6 +51,18 @@ Cette lecture, transmise sous le nom du **Grand Pacte**, devint le fondement de 
 ### L'héritage
 
 Le Grand Cham actuel, **Nareth la Sage**, est la septième à porter le titre. C'est une femme d'une soixantaine d'années, révérée pour sa capacité à résoudre les disputes par la parole. Sous son règne, Torkam connaît une paix relative, mais les tensions entre tribus n'ont jamais vraiment disparu — elles couvent sous la surface.
+
+### La Maison qui paie (an 100 environ — encore en cours)
+
+Ce que les chants d'Olkanoris ne racontent pas, et que les Tisseuses de Maison répètent en privé sans l'avoir formulé, est ceci : **les ancêtres coûtent**. L'autel familial demande de l'eau, du pain, de l'encens ; le Feu des Noms exige du bois ; les chaînes médiumniques (rituels les plus complexes) exigent des objets, du temps, des chamans formés. Une famille pauvre tient un autel modeste et récite peu de noms — l'âme de leurs morts *« glisse »*, disent les chants, ce qui est une manière polie de dire qu'elle s'efface plus vite. Une famille riche tient un autel chargé, paie des Tisseuses pour des chaînes annuelles, et garde ses morts *vifs* sur six générations.
+
+Le résultat, jamais dit en ces termes : **les ancêtres des riches durent plus longtemps que les ancêtres des pauvres**. Cette inégalité n'est pas une dérive ; elle est inscrite dans la pratique liturgique depuis aussi loin que la mémoire torkamite remonte. Le clergé Foedus Animae l'admet à mi-voix lors des conseils des Tisseuses, et la formule en privé comme *« le Pacte ne fait pas de quartier »*. Hors des cercles de chamans, elle n'est jamais formulée.
+
+Une dérive plus récente, depuis trois générations : certaines tribus pauvres (notamment des marges nord-ouest, et la branche de la tribu des Pierres qui veille Myrthoris) **transmettent le travail de récitation** de leur ancêtres à des Tisseuses extérieures, en échange de bétail, de cuir, de service. C'est le seul moyen, pour ces familles, de tenir leurs morts. Mais c'est aussi un transfert de loyauté : les Tisseuses qui récitent finissent par se substituer aux familles dans le rapport à l'ancêtre. La Tisseuse devient *l'instance* de la mémoire familiale. Quelques familles, après deux générations de cette pratique, ont oublié les noms qu'elles confiaient — elles les *louent* aux Tisseuses, qui les leur récitent à la demande contre paiement renouvelé. La parenté est devenue contrat.
+
+Aucune voix officielle ne dénonce ce glissement. La Grande Chamane Nareth en est informée. Sa position privée, rapportée par une apprentie, est qu'*« on ne dénonce pas le Pacte par le Pacte »* — formule sibylline qui peut signifier qu'elle ne veut pas, qu'elle ne peut pas, ou qu'elle juge plus dangereux d'éclater le système que de le laisser dériver.
+
+Une figure ancienne, **Veska Drennar** (canonique, cf. *[[Foedus Animae]]*), Tisseuse repentie qui parcourt les villages reculés d'Ulinor et d'Alkaran depuis +78 jusqu'à sa mort, a traversé Torkam à plusieurs reprises pendant ses années d'errance. Ses passages ont laissé peu de trace officielle ; les chamans des Murmures les plus âgés en gardent un souvenir mêlé. Ce qu'elle leur disait, quand elle s'asseyait à leurs autels, n'a jamais été consigné. Quelques Veilleuses des Errants à Olkanoris reconnaissent encore en elle *« une voix qui n'a pas voulu d'écho »*.
 
 ---
 
@@ -237,6 +255,63 @@ Terres frontalières avec Myrtam au sud-est. Zone de tension constante — les f
 - **Le Désert du Silence** cache une entrée vers un réseau de cavernes souterraines où, selon la tribu des Ossements, les âmes des morts errent physiquement. Les chamans qui y sont entrés en ressortent changés — certains ne parlent plus jamais.
 - **La tribu des Ombres** est bien plus qu'un groupe de diplomates. C'est le réseau d'espionnage le plus ancien d'Alkaran, et ses agents opèrent dans tous les pays du continent sans que personne ne les soupçonne.
 - **Un schisme couve** : la tribu des Flammes remet en question l'autorité de la Grande Chamane Nareth, arguant qu'elle favorise la tribu des Murmures. Si le conflit éclate, ce serait la première guerre intertribale depuis l'époque de Zarek.
+- **La Treizième Tribu** : la chronologie officielle parle de douze tribus signataires du Grand Pacte. Les registres oraux les plus anciens — ceux que seules les chamans des Murmures les plus expérimentées récitent — laissent supposer qu'il y avait *treize* tribus au moment où Zarek est arrivé, et que la treizième a été *effacée* — non pas détruite mais retirée des récitations. Aucune chamane vivante ne connaît son nom. Quarante-sept tentes apparaissent chaque année dans la cuvette d'Olkanor, hors saison de Conseil ; elles n'ont jamais été fouillées, et Nareth interdit qu'on s'en approche.
+- **Le vrai nom de Zarek** : à force de réciter le titre (Grand Cham, Unificateur), les chamans ont perdu le nom personnel de Zarek. Mirhan, à la fin de sa vie, a passé ses dernières années à le chercher. Il n'a jamais été retrouvé. Selon l'Interdit de l'Oubli, l'âme de Zarek lui-même *erre*. Aucun chaman ne formule cette implication à voix haute.
+
+---
+
+## Cadre interne — Patterns
+
+> Encadré technique réservé aux rédacteurs et agents travaillant le Lore. N'apparaît jamais in-world.
+
+**Piège Institutionnel dominant : L'INSTRUMENTALISATION** (les ancêtres comme moyens, les Tisseuses comme intermédiaires payés, l'Interdit de l'Oubli comme dette continue), doublée d'une **LOI FIGÉE** (récitation mécanique, chamans qui transmettent sans interroger).
+
+Torkam est, conformément au piège dominant de [[Foedus Animae]] (canonique au Tier A.5a, Instrumentalisation), un cas où la **piété même est devenue la dette**. Le Pacte des Âmes promet que *« tant qu'un nom est dit, l'âme tient »*. Mais qui dit ? Qui paie pour qu'on dise ? Et que se passe-t-il pour les âmes des familles qui n'ont pas les moyens de tenir leurs morts ?
+
+Trois mécanismes :
+
+1. **Les ancêtres comme dette transmissible.** Une famille riche maintient ses morts vifs sur six générations. Une famille pauvre les perd en deux. Cette inégalité est inscrite dans la pratique liturgique. Elle n'est jamais formulée comme *injustice* — elle est lue comme *« le Pacte ne fait pas de quartier »*. Les Tisseuses de Chaînes les plus dévouées (Veska Drennar canonique, le profil de la Tisseuse douce) refusent les chaînes au-delà de neuf participants ou portent une attention particulière aux familles modestes — mais elles ne réforment pas le système, elles le *gèrent*.
+
+2. **Les Tisseuses comme intermédiaires payés.** Le glissement récent (transmission du travail de récitation à des Tisseuses extérieures, transformation de la mémoire familiale en location) est le moment où l'Instrumentalisation cesse d'être latente et devient explicite. Les morts deviennent un *service*, et la fidélité familiale un *contrat*. Foedus Animae à Torkam ne combat pas ce glissement parce que le combattre reviendrait à ré-interroger toute l'économie spirituelle du Pacte.
+
+3. **L'Interdit de l'Oubli comme garde-fou qui devient piège.** *« Oublier le nom d'un ancêtre est le pire péché. »* Cette règle protège la mémoire ; elle produit aussi une culpabilité collective qui rend toute réforme du système impossible. Critiquer l'inégalité Tisseuses-familles reviendrait à *risquer d'oublier* — donc à pécher. Le piège utilise la propre vertu du système (la mémoire) pour empêcher sa réforme.
+
+**Tension secondaire : Loi figée chamanique.** L'éducation chamanique repose sur une mémorisation orale extrêmement rigoureuse — les chamans des Murmures peuvent réciter quatre mille noms dans l'ordre exact de leur mort. Cette rigueur est une vertu (elle garde les morts vifs) ; elle est aussi un piège (elle empêche d'examiner ce qu'on récite). Mirhan le découvre à la fin de sa vie : *« l'oubli ne vient pas du silence. Il vient du bruit. »* — la phrase est consignée, mais sa portée critique n'a jamais été tirée par le clergé.
+
+**Cohérence avec les religions :**
+
+- **Foedus Animae** (religion principale) : piège canonique d'Instrumentalisation établi au Tier A.5a. Torkam est la nation où ce piège opère le plus visiblement. Veska Drennar (canonique) y a passé du temps pendant son errance — sans réformer, sans dénoncer, en *écoutant* simplement. Sa présence laisse des traces, jamais des doctrines.
+- **Vael Kurash** (religion secondaire) : syncrétisme naturel, esprits du désert / ancêtres = mêmes types de présences. Le piège vael'kurash (Déni du Sablier) n'est pas dominant à Torkam — il est en fond, par contagion.
+
+**Âge moral collectif majoritaire : LA LOI.** Les Torkamites ordinaires agissent depuis la règle reçue (Feu des Noms, Offrandes de Cendres, Interdit de l'Oubli, Rite de Passage). Le Désir est marginal (caravaniers de Faldor en quête de richesse, Rahim qui refuse d'accepter l'oasis qui se tarit). Le Principe est rarissime (Nayara qui boit elle-même les poisons inconnus pour ne pas risquer un malade ; Kemil qui invente le sel pour réconcilier son fils avec Zolkoris ; Tarik le forgeur de Valoris qui refuse de choisir un camp ; Alya qui *voit* Torkam d'avant le désert et *garde le silence*).
+
+**Figure-clé portant la Vertu Cachée : ILETH DE VALDARIN** (env. +220 — vivante en +252).
+
+Fille de la tribu des Ossements. À seize ans, lors de son rite de passage, elle touche un os humain ancien et vit, par son don de perception nécromantique, les derniers instants de Zarek l'Unificateur — qui n'est pas mort de vieillesse comme le disent les chants. Il a été **assassiné** (empoisonné) par quelqu'un de sa propre tribu. Ileth rapporte l'os à Valdarin. Son père Horath l'examine en silence, le brise et le jette dans le feu, en lui disant : *« Si les tribus apprennent que Zarek a été trahi, le Grand Pacte s'effondre. Les guerres tribales reprennent. Des milliers meurent. Voilà la vérité qui compte : le Pacte tient encore, sept générations plus tard. »*
+
+Ileth garde le silence. Elle ne quitte jamais Valdarin. Elle devient la plus grande nécromancienne de sa génération — et la plus silencieuse.
+
+Vertu portée : **LE VOILE** (Vertu #2), forme amère. Ileth porte une vérité dont elle sait qu'elle détruirait l'unité fragile qui la dépasse. Son Voile n'est pas le doute classique — c'est le *renoncement à la vérité au profit d'une fonction*. C'est ambigu (la vérité, dans notre cadre, devrait toujours être préférable au mensonge fonctionnel). Mais Ileth n'a pas choisi le mensonge : elle a choisi le silence. La distinction est tout. Elle ne ment à personne ; elle s'abstient de parler. Sa vertu est *portée seule* (Charge implicite) et porte sur ce qu'elle ne dira pas.
+
+**Ambiguïté assumée :** Ileth est aussi, dans le cadre, une figure du *Pris-dans-la-Loi* — elle accepte l'argument de son père sans le retourner. La vertu et le piège, ici, sont presque indistinguables. C'est précisément ce que le cadre nous demande : ne pas trancher trop vite. Le lecteur doit pouvoir lire son histoire comme *vertu sacrificielle* ou *complicité d'un mensonge fondateur*. Les deux lectures sont défendables. Aucune n'est récompensée narrativement.
+
+**Vertu secondaire affleurante : LE TRANCHANT** (Vertu #4) chez Sarya de Frosthar — qui refuse de guider la caravane de Dremon par vent de nord-ouest, sans céder au double prix offert. *« Alors tu n'as pas le temps de vivre. »* Le refus est sans calcul, sans hauteur morale formulée. C'est un Tranchant brut, qui paie : la caravane meurt, et Sarya n'en tire aucun crédit.
+
+**Conflit moteur de la nation :**
+
+**La tension entre le Pacte et le Coût.** Torkam est, par le Grand Pacte de Zarek, fondée sur une cohérence spirituelle de douze tribus qui se reconnaissent mutuellement. Par l'inégalité des Tisseuses-familles, la canonisation des disparus par les riches et l'oubli des pauvres, et la treizième tribu effacée, ce Pacte est un **système de classement spirituel à plusieurs vitesses** que personne ne nomme. Le conflit n'est pas une crise (les tribus ne se font pas la guerre — Zarek les a unies), mais une **gravité** : les fractures sociales sont incarnées dans la liturgie même. Les Torkamites *bons* (Nareth la Sage, Mirhan, Solya la chamane des Eaux, les Veilleuses des Errants) ne formulent pas le piège ; ils l'assouplissent au cas par cas, en silence.
+
+**Ce qui est *spécifiquement* torkamiste (à ne pas dupliquer ailleurs) :**
+
+- L'autel familial comme institution domestique de mémoire ET de paiement (eau, pain, encens chaque jour).
+- Les Tisseuses de Chaînes comme classe spirituelle intermédiaire dont la rétribution n'est jamais discutée publiquement.
+- La treizième tribu effacée (anomalie unique : un *oubli volontaire* dans une religion qui condamne l'oubli comme péché).
+- Le rite de passage à treize ans (trois jours seul dans le désert) qui produit ses *Sans-Tribu* (ceux qui ne reviennent pas, ou reviennent sans objet, ou reviennent changés au point de devoir s'exiler).
+- Veska Drennar (canonique Foedus Animae A.5a) qui *passe* par Torkam mais ne s'y arrête jamais durablement — son refus de prêcher, dans le pays-mère du Pacte, est, en filigrane, une critique muette de ce que le Pacte est devenu.
+
+**Cohérence avec Sorin Valthen** : Sorin ne traverse pas Torkam directement dans l'arc canonique (il passe par Altram et Iskara/Ferrath aux chapitres 9-10). Aucune mention narrative directe de Sorin dans cette fiche n'est nécessaire. Le contact entre Sorin et Torkam est indirect (les caravanes de Tanolies, le commerce frontalier).
+
+**Ratio brisé / relevé pour Torkam** : pour chaque figure du Principe (Nayara, Kemil, Tarik, Alya, Sarya, Ileth — cette dernière en lecture ambiguë), prévoir 4-6 figures de la Loi correctement appliquée par des gens *bons* : Nareth la Sage qui résout les disputes par la parole, les chamans des Murmures qui récitent quatre mille noms, Mirhan qui meurt en pleine récitation, les Tisseuses douces qui refusent les chaînes-au-delà-de-neuf, les Maîtres caravaniers honorables. Et 1-2 figures de l'Instrumentalisation pure : les Tisseuses commerciales qui louent les noms par contrat ; les familles riches qui *gardent* leurs morts pendant six générations sans interroger le coût social. Aucun PNJ ne doit énoncer le piège. Le lecteur le verra dans la *régularité du rituel* qui se poursuit alors que les pauvres oublient et que la treizième tribu n'est jamais nommée.
 
 ---
 

@@ -2,7 +2,7 @@
 tags: [lore, chronique]
 type: lore
 status: drafted
-last_review: 2026-05-02
+last_review: 2026-05-06
 needs_review_for: []
 ---
 # Chapitre 14 — Les Marchands d'Elarath
@@ -295,6 +295,8 @@ J'avais vingt-deux ans quand j'ai remarqué ça pour la première fois. J'avais 
 Je remets toutes ces pièces sur la même surface imaginaire — ma table de cartographe mentale, le lieu où je dispose les informations avant de commencer à les relier —, et j'essaie de voir si une ligne se dessine.
 
 Il est trop tôt pour une ligne. Il y a des points dispersés. Mais les points dispersés sont le début d'une carte, et les cartes se dessinent en commençant par ce qu'on a.
+
+Je me surprends à formuler la phrase avec une assurance que je n'avais pas il y a six mois. Je la note pour la relire plus tard, à froid. Un cartographe qui aime trop sa table de travail finit par y voir des reliefs qui ne sont que des plis du papier.
 
 ---
 

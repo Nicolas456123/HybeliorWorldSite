@@ -2,12 +2,15 @@
 tags: [lore, histoire, endora]
 type: lore
 status: drafted
-last_review: 2026-05-02
+last_review: 2026-05-06
 needs_review_for: []
 ---
 # Histoires d'Avalor
 
 > *Chaque ville a ses cicatrices. Voici celles qui ne guerissent jamais.*
+
+> *Avalor a institué l'écoute. Elle a oublié, en chemin, que les voix qu'on tient depuis cinq siècles ne sont peut-être plus celles qu'on entend.*
+> *— Marge anonyme, archives de Velaris, env. an 215.*
 
 ---
 
@@ -110,6 +113,38 @@ Feylara partit cette nuit-la pour Wildoria. Ce qu'elle y trouva, personne ne le 
 Kael, lui, demanda a etre releve de ses fonctions de Voix. On lui demanda pourquoi. Il repondit : "Parce que j'ai appris que la verite peut etre une arme. Et je ne veux plus la manier."
 
 Il vit aujourd'hui a Velaris, ou il enseigne aux jeunes Voix. Pas comment traduire. Comment survivre a ce qu'on traduit.
+
+---
+
+## Velaris --- "Sylven la Tisserande, qui cessa de traduire"
+
+Sylven naquit à Velaris en l'an 156. Sa famille comptait quatre générations de Voix — sa grand-mère, sa mère, son oncle. Le nom de Sylven lui fut donné par l'aînée du Cercle des Murmures, en mémoire de la fondatrice du village, la sourde-muette qui avait perçu les esprits par les vibrations dans ses pieds.
+
+On la forma dès cinq ans. À treize, elle traduisait déjà sous supervision. À vingt-quatre, elle fut admise comme Voix attitrée du village d'Indelith — la plus jeune affectation depuis trois générations.
+
+Pendant trente-cinq ans, Sylven traduisit. Avec une régularité que toutes les chroniques louèrent. Sans erreur. Sans hésitation. Sans ce flottement qu'on retrouvait chez les Voix moins exercées, ce léger décalage entre ce que l'esprit semblait vouloir et ce que la formule rituelle permettait de transmettre. Sylven traduisait juste. Comme on dit à Velaris, *« elle avait la fidélité du fil »*.
+
+Quand elle eut soixante-cinq ans, lors d'une Veillée Nocturne ordinaire à Indelith, Sylven écouta comme à son habitude. Et le matin, devant le druide qui l'attendait pour la transmission, elle ne dit rien.
+
+Le druide attendit. Sylven s'assit. Elle ne mangea pas. Elle ne but pas. Elle ne parla pas. La séance se termina par le départ silencieux du druide, qui rapporta au Cercle des Murmures que la Voix d'Indelith *« n'avait rien transmis »*.
+
+On comprit d'abord à un malaise passager. Sylven se reposa une saison. Elle reprit ses fonctions. Trois Veillées passèrent — silence à chaque retour. À la quatrième, devant un druide qui insistait, elle dit — ce sont les seuls mots qu'on a d'elle pour cette période, recueillis et consignés par trois témoins distincts dont les versions concordent — : *« La sylve me dit que je traduisais ce qu'elle avait dit hier. Ce qu'elle dit aujourd'hui, je n'ai pas appris à l'entendre. Je ne dirai pas le contraire. »*
+
+Elle se leva. Elle rentra chez elle. Elle ne reprit pas la charge.
+
+Le Cercle des Murmures examina la situation pendant une saison entière. La doctrine ne prévoyait rien d'analogue. Une Voix qui se trompait, on la corrigeait. Une Voix qui mentait, on la déposait. Une Voix qui *cessait d'entendre* — on n'avait pas de catégorie. On finit par décréter que Sylven *« se retirait pour des raisons personnelles »*, formule polie qui désengageait l'institution.
+
+Le poste d'Indelith fut repris par sa nièce. La nièce traduit avec la même régularité que Sylven. Personne, à l'écoute des transmissions de la nièce, ne pourrait deviner qu'autre chose se passait.
+
+Sylven vécut six ans encore, recluse dans la canopée. Elle reçut ses anciens élèves un par un. Elle ne leur enseignait rien. Plusieurs ont raconté qu'elle s'asseyait avec eux des heures sans une parole, et que la séance se terminait quand l'un des deux se levait. Trois élèves, à des intervalles de plusieurs années, ont laissé chacun une note brève dans leur cahier personnel, et ces trois notes disent à peu près la même chose : *« je suis sortie de chez Sylven en sachant que j'avais entendu quelque chose, sans savoir quoi. »*
+
+Sylven mourut en 211 d'une affection ordinaire. À la question rituelle de la *Dernière Voix* (*« quel dernier message veux-tu transmettre aux esprits ? »*), elle répondit : *« Demandez aux esprits ce qu'ils voulaient. Je ne saurais plus le formuler. »*
+
+La phrase fut consignée. Elle n'a jamais été interprétée publiquement.
+
+À chaque génération de jeunes Voix, à Velaris, une rumeur revient : Sylven aurait *cessé d'entendre parce qu'elle s'était mise à entendre vraiment*. La nuance dérange. Personne ne la formule en réunion. La formation continue, exemplaire, et les transmissions de la nièce et de la petite-nièce et maintenant de l'arrière-petite-nièce sont jugées pleinement satisfaisantes.
+
+Le tronc devant la maison de Sylven, une saison après sa mort, produisit deux feuilles supplémentaires par rameau — phénomène qu'on attribue à un sol particulier ou, selon une lecture plus rare, à une présence qui ne se nomme pas. Aucun druide n'a tranché. Personne ne le demande.
 
 ---
 

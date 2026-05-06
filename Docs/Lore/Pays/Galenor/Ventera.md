@@ -1,14 +1,20 @@
 ﻿---
-tags: [lore, pays, galenor]
-type: lore
-status: drafted
-last_review: 2026-05-02
+tags: [lore, pays, galenor, ventera]
+type: nation
+status: canon
+last_review: 2026-05-06
 needs_review_for: []
 ---
 # Ventera — Le Royaume des Cavaliers du Vent
 
 > *« Un Ventérien sans monture est un oiseau sans ailes. Nous ne chevauchons pas pour voyager — nous chevauchons pour vivre. »*
 > — Roi-Cavalier Theron III, lors du Festival des Vents
+
+> *« Le coucher suit le lever. Honorer l'un sans l'autre, c'est honorer la moitié du cycle. »*
+> — Lyrin de Soltharis, lors de sa Première Chevauchée inversée, an 174
+
+> *« Patience. La même patience qu'il m'a fallu pour accepter de ne plus courir. »*
+> — Mira d'Ultharia, à un élève, an 251
 
 ---
 
@@ -49,6 +55,28 @@ Marven III mobilisa une armée de mercenaires étrangers pour écraser la rébel
 La **Révolte des Cavaliers** se termina lorsque Marven III, abandonné par ses mercenaires affamés et démoralisés, fut désarçonné par la cavalière Lyria des Vents — une femme, fait exceptionnel pour l'époque — lors d'un duel à cheval. Lyria refusa la couronne mais imposa deux réformes : la monarchie élective serait inscrite dans la loi, et les femmes auraient un droit de vote et de candidature égal aux hommes.
 
 Le Roi-Cavalier actuel est **Aldren de Plenera**, un homme jovial et populaire, élu pour son charisme et son habileté en selle autant que pour son sens politique. Son mandat est cependant contesté par la cheffe de Rystera, **Dame Nyra**, qui estime qu'Aldren favorise Plenera au détriment des autres régions.
+
+### La Réforme de Lyrin (an 174 — assimilée mais incomplètement comprise)
+
+Trois ans après la Révolte, lors d'une Première Chevauchée à Soltharis, une jeune femme nommée **Lyrin** monta sur son premier cheval et le tourna délibérément vers l'ouest — l'opposé de la tradition qui imposait de partir vers l'est, vers le lever du soleil et le commencement du cycle. Le scandale fut immédiat. L'Abbé du Rota Mundi présent à la cérémonie observa, écouta — et donna raison à Lyrin.
+
+Sa décision, sur le moment, ne fut pas comprise comme un acte théologique majeur. Elle le fut beaucoup plus tard. Lyrin avait posé, par son geste, une question fondamentale au Rota Mundi : *si le cycle est entier (lever et coucher, naissance et mort, départ et retour), pourquoi n'honore-t-on que les commencements ?*
+
+Cette question — qui n'a jamais été formulée comme thèse doctrinale, mais qui circule depuis dans les marges du clergé — est, à l'échelle galenorienne, **ce que le Rota Mundi avait de plus original à offrir**. La fiche religion Rota Mundi documente la suite : la réforme de **Mara Telventh** (postérieure de quelques années) qui doctrinise l'acceptation de la *roue blessée* plutôt que l'attente du retour de la *roue droite*.
+
+Lyrin devint Abbesse du Rota Mundi quarante ans plus tard. Sa première action officielle fut de créer la **Chevauchée du Coucher** — un second rite pour les cavaliers en fin de vie, leur dernier voyage vers l'ouest. Ce rite est aujourd'hui pratiqué dans toute Ventera. Aucun Ventérien moyen ne sait qu'il vient d'une jeune fille qui a tourné son cheval dans le mauvais sens. Aucun n'en sait l'enjeu doctrinal.
+
+C'est en ce sens que Ventera est le pays galenorien qui a *partiellement échappé* à son piège originel : son rite quotidien intègre, depuis 174, une reconnaissance de la finitude. Les cavaliers libèrent leur dernier cheval dans les plaines lors des funérailles. Les feux de la Nuit du Retour guident les ancêtres. Le coucher est honoré.
+
+Cette demi-évasion est la spécificité ventérienne dans Galenor. Elle n'est *pas* totale. La culture des courses, du Festival des Vents, des compétitions équestres reste fondée sur le motif *toujours plus loin, toujours plus vite, toujours le prochain horizon*. C'est l'**Espérance Vide ventérienne** : la prochaine course, la prochaine race de chevaux, la prochaine route vers le sud, la prochaine génération qui réussira ce que la nôtre n'a pas réussi. Le rite du coucher tempère ; il n'élimine pas.
+
+### Les Cairns Marcheurs et le Refus du Sud
+
+Sur les plateaux d'Astralor, des cairns se déplacent la nuit — c'est le fait, documenté depuis trois générations par les gardiens de Myrkis, qu'aucune explication rationnelle n'a éclairci. Les cairns retournent parfois à leur position initiale en une semaine. Aucun témoin ne les voit bouger. Les premières hypothèses (érosion éolienne) ont été abandonnées.
+
+Le Rota Mundi local lit ces cairns comme **les pas des Anciens** — les mouvements lents de quelque chose qui marche dans les plateaux, qu'on ne voit pas, qu'on ne dérange pas. Cette lecture pourrait virer au superstitieux ; elle reste, à Ventera, *fonctionnelle* : les voyageurs prudents ne campent pas trop près d'un cairn déplacé récemment, et les cavaliers de **Kryndor** (le village le plus méridional) suivent une règle absolue, non discutée — ils n'entrent pas dans les terres non cartographiées du sud.
+
+Trois cavaliers, dans l'histoire récente, ont brisé cette règle. Deux ne sont pas revenus. Le troisième est revenu *changé* d'une façon qu'il a refusé de décrire. La règle est, depuis, intangible. Aucun chant ventérien ne la commémore — précisément, peut-être, parce que la mémoriser publiquement serait reconnaître ce que les Ventériens préfèrent laisser au silence : il y a des frontières dans Galenor que la Via Ventus elle-même ne franchit pas.
 
 ---
 
@@ -105,6 +133,14 @@ La cuisine ventérienne est celle des cavaliers : viande séchée au vent (le **
 ### Architecture
 
 Les Ventériens préfèrent les structures légères et ouvertes : tentes de feutre pour les nomades, maisons de pierre basse aux toits plats et aux grandes ouvertures pour les sédentaires. Les villes sont construites en cercles concentriques autour d'un espace central — l'arène — où se tiennent les compétitions et les rassemblements.
+
+### Biais culturels
+
+- **La selle comme citoyenneté.** Réussir la Première Chevauchée à 12 ans fait de l'enfant un *cavalier libre* — citoyen plein. Échouer fait de lui un *Piéton* — non méprisé, juste politiquement invisible. La distinction est moins rigide qu'à Lumasar (Voilés / Initiés) ou à Valoria (Sans-Sang / Guerriers), parce que un Piéton peut *retenter* l'épreuve l'année suivante sans honte explicite. Mais la pression sociale est constante. Les Piétons adultes — ceux qui n'ont pas réussi malgré plusieurs tentatives, ou qui ont perdu leur monture — vivent en marge des fêtes.
+- **L'horloge cyclique.** Les quatre changements de saison structurent la vie ventérienne plus fortement qu'aucun autre calendrier galenorien. Le Conseil du Vent se réunit aux quatre saisons. Les Festivals s'enchaînent saisonnièrement. Les naissances de poulains sont planifiées au printemps. Cette horloge cyclique est, au sens du Rota Mundi, l'incarnation civile la plus pure de la doctrine. Elle est aussi, à long terme, *dévorante* — un Ventérien dont le rythme intérieur ne suit pas les saisons (un rêveur, un mélancolique, un philosophe) est un Ventérien mal à l'aise.
+- **Le respect pour les vieilles juments.** Une jument qui a porté plusieurs poulains, ou qui a accompagné un cavalier toute sa vie, reçoit une retraite dans les pâturages les plus doux. C'est l'une des plus belles pratiques ventériennes — et l'une des manières par lesquelles le pays incarne, sans le formuler, l'acceptation du déclin.
+- **La méfiance pour les sédentaires *trop* sédentaires.** Un Ventérien qui ne voyage pas est suspect. *« Il n'a pas vu assez de plateaux »*, dit-on de quelqu'un qui semble fermé d'esprit. Cette norme produit une nation extraordinairement ouverte aux voyageurs étrangers, et profondément critique envers les Lumasariens qui *« meurent sans avoir vu le coucher de soleil de Tolvenor »*.
+- **Le rapport avec Solena.** La rivalité côtière entre Solena et Ventera est intense — territoires disputés, routes commerciales convoitées. Mais c'est aussi la rivalité de deux peuples *qui se ressemblent* : tous deux honorent le mouvement, tous deux méprisent la sédentarité. Ce qu'ils se reprochent mutuellement est, en filigrane, ce que chacun reproche à sa propre image dans le miroir. Les Ventériens disent des Soléniens : *« ils ne savent pas s'arrêter »*. Les Soléniens disent des Ventériens : *« ils tournent en rond »*. Les deux ont raison. Aucun n'aime l'entendre.
 
 ---
 
@@ -335,3 +371,59 @@ Total : **22 villes/villages** réparties sur **4 régions**.
 | Felmarith | Astralor | Village |
 | Kryndor | Astralor | Village |
 
+---
+
+## Cadre interne — Patterns
+
+> Encadré technique réservé aux rédacteurs et agents travaillant le Lore. N'apparaît jamais in-world.
+
+**Piège Institutionnel dominant : L'Espérance Vide, en lutte interne avec un Tranchant authentique.**
+
+Ventera est, dans Galenor, **le cas le plus intéressant** — la nation qui a *partiellement échappé* à son piège, sans en sortir totalement. Le mécanisme :
+
+1. **Espérance Vide ventérienne** (piège primaire, persistant). La culture des Festivals, des courses, des nouvelles routes commerciales, des nouvelles races de chevaux est fondée sur le motif *toujours plus loin*. La prochaine course validera ce que la précédente n'a pas validé. Le prochain horizon sera celui qu'il fallait. Cette posture maintient le pays en mouvement et nourrit son économie ; elle vide aussi de sens chaque arrivée — *il y aura toujours mieux à venir*.
+
+2. **Tranchant authentique en lutte** (vertu réelle, contrarié). Le Rota Mundi (religion principale, *Espérance Vide partiellement échappée* selon sa fiche) a, par la réforme de Mara Telventh et l'antécédent de Lyrin, intégré doctrinalement la finitude. La Chevauchée du Coucher, les feux de la Nuit du Retour, le respect des vieilles juments — tout cela est, en pratique, une discipline du *non* à l'illusion d'un cycle entièrement positif. C'est un Tranchant authentique au sens du cadre. Il est *en lutte* parce que la culture Festival continue de tirer dans l'autre sens.
+
+**Cohérence avec les religions :**
+- *Rota Mundi* (Espérance Vide partiellement échappée, cf. fiche) : Ventera est le lieu où cette demi-évasion est la plus visible institutionnellement. Les Concliers contemplatifs (post-Mara) ont leurs Cercles à Astralon ; la doctrine du non-monument est respectée à Ventera plus qu'ailleurs (la Pierre de Valtheria a été préservée à Valoria, mais aucune statue de Lyrin n'existe à Soltharis — son nom est connu, son visage est inconnu).
+- *Via Ventus* secondaire (Effacement, cf. fiche) : présente surtout chez les nomades de Darnis, d'Astralor sud. La Querelle de l'Ancrage que la fiche Via Ventus documente affleure à Ventera dans les tensions entre nomades stricts et sédentaires de plus en plus assumés. Les Ventari de la Coupe (Tranchant authentique) sont une minorité respectée ; les Ventari du Souffle Continu (dilution) sont la frange la plus visible aux Festivals.
+
+**Âge moral collectif majoritaire : La Loi en transition vers le Principe.** Cas rare. Les Ventériens ordinaires (cavaliers libres, éleveurs, artisans des plaines) appliquent les rituels saisonniers avec ferveur, mais *plusieurs d'entre eux* commencent à les *vivre comme principes* plutôt que comme règles — ce qui définit la transition vers le Principe. La frange post-Mara du Concile et les vieux Ventari de la Coupe sont les plus avancés ; les jeunes cavaliers du Festival sont, eux, encore largement dans le Désir / la Loi.
+
+**Figure-clé portant la Vertu Cachée :**
+
+**Mira d'Ultharia** (an 191-en cours, environ 60 ans en 252). Cavalière exceptionnelle dans sa jeunesse. Une blessure au genou à 40 ans l'oblige à descendre. *« Trop grande pour ce rôle »* — formation des chevaux, soin des poulains. Pendant vingt ans, elle accepte cette descente sans amertume publique. Ses chevaux deviennent les meilleurs de Ventera — pas les plus rapides, *les plus fiables*. À 60 ans, elle remonte une fois, sur le plus difficile des jeunes chevaux, *non pour concourir*, *pour montrer*.
+
+**Vertu portée :** **La Rouille** (Vertu #3) en pleine maturité. Mira a accepté la perte de maîtrise comme condition d'une compétence supérieure. Son geste à 60 ans n'est pas un retour — c'est la démonstration que ce qu'elle a *appris dans la descente* est plus précieux que ce qu'elle aurait *gagné dans l'ascension*. Sa Vertu est gratuite — elle n'est pas devenue Roi-Cavalier, n'est pas Conseillère du Vent, n'a pas écrit de manuel. Elle a *formé* des chevaux qui ont gagné des courses pour d'autres.
+
+**Mort marquante** : Mira est *vivante* en 252. Elle mourra obscurément — probablement à 75-80 ans, d'épuisement, dans une écurie d'Ultharia, entourée de chevaux qu'elle aura formés. Aucune cérémonie publique. Ses élèves les plus fidèles allumeront un feu dans la plaine la nuit de sa mort — non parce que la tradition l'exige (la tradition veut un cheval libéré, pas un feu), mais parce que c'est ainsi qu'on rend hommage à un cavalier qui, finalement, n'a pas chevauché vers l'ouest officiellement. Le geste sera privé. Personne ne le racontera dans les Festivals.
+
+**Figures-clés secondaires :**
+
+- **Lyrin de Soltharis** (an 156-an 220 environ). La cavalière qui inversa sa Première Chevauchée en 174. Devenue Abbesse à 60 ans (vers 216), instaure la Chevauchée du Coucher. Morte en 220 environ. Sa figure est *partiellement* honorée — son nom est connu, son geste raconté dans les écoles du Rota Mundi. Mais aucune fête ne lui est dédiée. Aucune statue. Sa réforme a été *absorbée* par le pays sans être *attribuée* à elle. C'est, dans le cadre, une Vertu de Tranchant qui a échappé à la trahison institutionnelle (la trahison aurait été de faire d'elle une sainte ; le pays a fait mieux : il a appliqué sa réforme et oublié son nom).
+- **Aldrik Voss de Meldor** (fermier, *Histoires*) — porte **Le Voile** (Vertu #2) dans une variante humble : il a noté pendant vingt ans *par obsession*, sans savoir pourquoi. Sa rigueur d'observation n'est pas un don ; c'est une discipline. Mort à 85 ans dans son champ.
+- **Sela de Nythor** (femme du marchand Reld, *Histoires*) — porte **La Charge** (Vertu #1) en suivant le cheval qui rentre seul. Pas de gloire ; juste un mari sauvé. Le cheval vit ses derniers ans dans la meilleure place de l'écurie.
+
+**Conflit moteur de la nation :**
+
+**La tension entre la Course et la Patience.** Ventera a, par sa demi-évasion doctrinale, deux orientations simultanées : *galoper* (l'Espérance Vide originelle, encore active) et *attendre* (le Tranchant et la Rouille acceptés, encore minoritaires). Le pays oscille. Les Festivals tirent vers la course ; les rituels de fin tirent vers la patience. Aucun des deux ne gagne définitivement, et c'est précisément cette oscillation qui rend Ventera unique en Galenor — c'est le seul pays où la lutte interne est *visible institutionnellement* et tolérée.
+
+La Conspiration de Rystera (Dame Nyra contre le Roi-Cavalier Aldren) n'est pas seulement politique. Elle est, en filigrane, *l'incarnation politique de cette tension* : Nyra représente la dureté nomade originelle (*« le vent ne s'arrête pas »*), Aldren représente une joviale culture des Festivals (*« le galop fait la nation »*). Les deux ont, en pratique, *manqué* la troisième voie — celle de Mira et de Lyrin, celle qui accepte l'arrêt. Ni l'un ni l'autre ne reconnaît cette voie. Le conflit, s'il aboutit à la guerre civile, sera entre deux modalités de l'Espérance Vide.
+
+**Ce qui est *spécifiquement* ventérien (à ne pas dupliquer ailleurs) :**
+
+- La Première Chevauchée à 12 ans comme rite citoyen.
+- La Chevauchée du Coucher (réforme de Lyrin) — rite de fin de vie, *unique* à Ventera dans Galenor.
+- Le Cheval du Dernier Vent (mythe).
+- Les cairns marcheurs de Myrkis et le refus du sud (Kryndor).
+- La libération du dernier cheval lors des funérailles.
+- L'Héritage scellé de Lyria des Vents (*« lorsque le vent cessera de souffler »*).
+
+**Ratio brisé / relevé pour Ventera** : pour chaque figure du Principe (Mira, Lyrin, Aldrik, Sela), prévoir 4-6 figures de la Loi *vivantes et brillantes* (Aldren le Roi-Cavalier jovial, Dame Nyra dure, jeunes cavaliers ambitieux des Festivals, éleveurs d'Arlyndor fiers, Lyria mythique). La culture du galop est *réelle* et *belle* ; le piège n'est pas dans la course mais dans l'incapacité collective à la tempérer.
+
+> **Note pour A.4 / cohérence Sorin** : Sorin traverse Ventera au chapitre 3 (*Le Vent*). Il y rencontre **Dava** (femme qui *« ne demande rien »*). Selon les notes A.4, c'est le moment où Sorin existe *« dans l'entièreté de ce qu'il était »* pour la première fois. Cette posture ventérienne — accueillir un voyageur sans le réduire à ce qu'il fuit — est *spécifiquement* la part ventérienne échappée du piège. Sorin ne la retrouvera presque jamais ailleurs.
+
+---
+
+*Liens : [[Histoires/Galenor/Ventera|Histoires de Ventera]] | [[Religions/Rota Mundi|Rota Mundi]] | [[Religions/Via Ventus|Via Ventus]] | [[Galenor - Continent]]*

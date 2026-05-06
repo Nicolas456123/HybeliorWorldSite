@@ -1,309 +1,156 @@
-﻿---
-tags: [traces, ères, archéologie, lore-gameplay, monde-vivant]
+---
+tags: [traces, ères, archéologie, mémoire, monde-vivant, narration]
 status: drafted
-last_review: 2026-05-01
-needs_review_for: [exemples-supplémentaires]
-type: lore
+last_review: 2026-05-07
+needs_review_for: []
+type: lore-narrative
+implementation: "[[Traces System]]"
 ---
 
-# 🏛️ Traces des Ères — La Mémoire d'Hybelior
+# 🏛️ Traces des Ères — la mémoire géographique du monde
 
-> [!quote]
-> *« Hybelior n'oublie rien. Chaque Souffle gratte la pierre, dépose une couche, change un mot dans une chanson. Et dans dix mille ans, le monde lui-même sera l'archive. »*
-> — Veylis l'Archonice, Bibliothécaire d'Astravia
-
----
-
-## Principe fondamental
-
-Le monde de **Hybelior n'oublie pas**. À chaque **Souffle**, l'ère qui s'achève laisse des marques — la plupart s'effacent au cycle suivant, mais une fraction demeure, gravée à jamais dans la chair du monde.
-
-Ces marques sont les **Traces des Ères** : la mémoire physique, biologique, architecturale, culturelle et matérielle d'Hybelior.
-
-Pour les joueurs, les Traces sont :
-
-- une **matière à archéologie** — explorer, fouiller, déterrer
-- un **réservoir de lore** — chaque trace est un fragment d'histoire à recoller
-- une **ressource unique** — matériaux, reliques, connaissances impossibles à reproduire
-- une **invitation à laisser sa marque** — car chaque Partie peut écrire une nouvelle ligne
-
-Hybelior est un palimpseste vivant. Et les joueurs sont les prochains scribes.
-
----
-
-## La Règle 90/10
-
-> [!important] La règle de la mémoire
-> **90 % cyclique, 10 % permanent.** Voilà le rythme du monde.
-
-- **90 %** des effets d'une ère sont **CYCLIQUES** — au prochain Souffle, le monde retourne à sa ligne de base. Une faune particulière disparaît, une couleur du ciel s'estompe, une ressource cesse d'apparaître.
-- **10 %** des effets deviennent **PERMANENTS** — gravés dans la géographie, l'architecture, la culture ou les objets. Ils s'**accumulent** au fil des Souffles.
-- Chaque ère ajoute donc **sa marque propre** — fine ou massive selon ce qui s'y est passé.
-- Hybelior **évolue lentement** à travers ses Souffles successifs : un continent perd un fleuve sur deux mille ans, gagne une forêt dorée, voit naître un dialecte religieux.
-
-### Critères de "permanence"
-
-Une trace devient permanente seulement si **un seuil narratif** est franchi pendant l'ère :
-
-| Critère | Description | Exemple |
-|---|---|---|
-| **Événement mondial vaincu** | Les joueurs surmontent un boss d'ère ou un cataclysme cosmique | Le Géant de Cendre tombe → cratère permanent dans les Plaines de Mosrack |
-| **Condition cachée 🔒 accomplie** | Une condition inédite est franchie pour la **toute première fois** sur le serveur | La 1ʳᵉ infusion de Voie de Tempora niveau 5 dans un Cristal → faille temporelle stable |
-| **Souffle Cardinal** | Un Cardinal se produit (bouleversement civilisationnel rarissime) | Toujours plusieurs traces majeures gravées |
-| **Action exceptionnelle** | Acte d'un joueur ou d'une guilde reconnu par le système | Tenue d'un siège pendant tout un Souffle → ville baptisée "Forteresse du Souffle" |
-
-Hors de ces seuils : le monde respire et oublie. C'est ce qui permet aux Souffles de rester thématiques sans étouffer le monde sous un poids historique trop lourd.
-
----
-
-## Les 4 types de Traces
-
-### 1. Géologiques / Biologiques (les plus tangibles)
-
-> Le sol, la pierre, la flore, la faune — la chair du monde elle-même garde la trace.
-
-| Trace | Continent / Lieu | Ère d'origine | Effet présent | Ressources uniques |
-|---|---|---|---|---|
-| **Forêt Pétrifiée d'Akmoral** | Alkaran (Ouest) | Ère du Sommeil de Glace, ~800 ans | Bois cristallisé, troncs translucides au lever du jour | **Bois pétrifié** — matière première unique pour Sculpteurs et Luthiers |
-| **Plaines de Glas** | Onara (Nord) | Souffle aigu de Tempora, ~1200 ans | Sol cristallin réfléchissant ; échos sonores anormaux ; spectres translucides | **Éclats de Glas** — composant alchimique, conducteur magique |
-| **Os des Géants** | Ilthara (Centre) | Vestige d'un Cosmique disparu, indatable | Squelettes colossaux affleurant, donjons à l'intérieur des cages thoraciques | **Os exotique**, **moelle ancienne** — armurerie rituelle |
-| **Cratères du Cardinal** | Multi-continents | L'Arrachement, ~250 ans | Zones radiantes de magie résiduelle ; la Voie de Navigor parfois "sentie" sans être maîtrisée | **Pierres-cicatrices** — relique de niveau Cardinal |
-| **Anciens Littoraux** | Côtes intérieures (Galenor, Ulinor) | Ère du Recul des Eaux, ~3000 ans | Coquillages fossiles trouvés en altitude, vestiges marins sous montagnes | **Nacre fossile**, **sel ancien** |
-| **Brèches du Néant** | Multi-continents (rares, mobiles) | Cumul des Cardinaux successifs | Donjons-mondes parallèles, géométrie instable, dangereux | **Filaments du Vide** — composant de Voie d'Umbra |
-| **Forêt d'Argent de Galenor** | Galenor (Est) | Ère du Rêve Lumineux, Eldoria stir | Arbres aux feuilles métalliques irreproductibles ; chant nocturne perçu seulement par les Liés | **Sève d'Argent**, **Feuille-Songe** |
-| **Marais Pourpre de Cestra** | Cestra (Sud-Ouest) | Ère du Crépuscule Pourpre | Eau violette, faune mutée (crapauds-prophètes, libellules-fantômes) | **Encre pourpre**, **toxine d'oracle** |
-| **Champs de Lune Glas** | Cendara (Centre-Sud) | Ère du Sommeil Onirique (Somnix) | Plantes qui ne fleurissent qu'aux yeux des dormeurs ; cueillette en rêve | **Lune-Glas** — pétale qui n'existe que partiellement dans le réel |
-| **Veines de Feu Endormi** | Mosrack, Onara | Ère du Feu Endormi, ~1500 ans | Filons de roche tiède émettant une lueur rouge sourde la nuit | **Braises éternelles** — combustible de forge rituelle |
-| **Falaises Chantantes de Baelor** | Île de Baelor | Ère des Vents Bouleversants | Cavités acoustiques accordées sur des notes anciennes ; les chants y résonnent à l'envers | **Pierre-Voix** — composant de Bardes |
-| **Lacs Suspendus d'Aerion** | Plateaux d'Evertia | Ère du Souffle Élevé (Aerion) | Petites lentilles d'eau flottant dans les vallées, sans cause apparente | **Eau-d'Air** — alchimie de lévitation |
-
-> [!tip] Lecture pour les joueurs
-> Une **Trace géologique majeure** apparaît dans les **cartes officielles** d'Hybelior et donne lieu à des **POI explorables**. Les Cartographes peuvent en relever de nouvelles au fil des Parties.
-
----
-
-### 2. Architecturales (semi-permanentes)
-
-> Chaque ville d'Hybelior porte des **couches** de différentes ères. Comme une coupe géologique : les fondations parlent du passé.
-
-| Vestige | Continent / Ville | Ère d'origine | Particularité |
-|---|---|---|---|
-| **Fortins de Cendres de Mosrack** | Onara — Mosrack | Ère du Feu Endormi | Murs en cendre compactée, encore tièdes par endroits |
-| **Hauts Perchoirs d'Akmoral** | Alkaran — Akmoral | Ère des Vents Bouleversants | Habitations accrochées aux arêtes, escaliers de corde rituels |
-| **Souterrains de Cestra** | Cestra (cités basses) | Ère de la Brume Mortelle | Tout un urbanisme souterrain ; fenêtres qui donnaient sur la rue, désormais pleines de terre |
-| **Tours d'Astravia** | Celethor — Astravia | Ère des Cieux Lus | Tours alignées sur des constellations **disparues** ; un Astronome peut décoder leur orientation |
-| **Cathédrale Engloutie d'Iskara** | Endora — port d'Iskara | Ère des Marées Hautes | Partiellement submergée à marée basse ; vitraux encore intacts sous l'eau |
-| **Citadelle Volante d'Aérion** | Mythique (Evertia ?) | Ère du Souffle Élevé | Mythe ou réalité ? Des fragments tombent parfois du ciel après un Souffle |
-| **Anneau de Pierre de Pyrtara** | Ilthara | Ère des Ondes Profondes | Cercle de mégalithes vibrants ; on dit qu'ils enregistrent les paroles prononcées en leur centre |
-| **Bains Thermaux Effacés** | Cité oubliée d'Ulinor | Ère du Feu Endormi | Mosaïques préservées sous des couches de sable ; eau encore tiède dans certains bassins |
-| **Quartier Doré d'Ophiria** | Galenor — Ophiria | Ère du Rêve Lumineux | Façades dorées non par peinture mais par pétrification dorée ; impossibles à reproduire |
-| **Marches de Sel d'Ulinor** | Ulinor (Sud désertique) | Ère du Recul des Eaux | Anciens quais devenus escaliers de sel cristallisé, à des kilomètres de toute mer |
-| **Crypte des Astres Tournés** | Celethor | Ère des Cieux Lus | Sépulcres dont les couvercles indiquent une étoile précise à une date précise |
-| **Murailles Rouges de Vermilis** | Cestra (frontière) | Ère du Crépuscule Pourpre | Pierre rougie de l'intérieur ; saigne légèrement par temps chaud |
-
-> [!note] Métiers concernés
-> **Architecte**, **Cartographe**, **Historien**, **Astronome**, **Maçon-Restaurateur**, **Antiquaire**.
-> Lire une trace architecturale demande typiquement **plusieurs métiers en collaboration** : un Astronome décode l'orientation, un Historien date la couche, un Cartographe documente.
-
----
-
-### 3. Culturelles (transmises oralement, religieusement)
-
-> Les ères les plus discrètes laissent leurs traces dans **les bouches, les rites, les peurs**. Plus subtiles, plus humaines, et parfois les plus précieuses.
-
-| Trace culturelle | Origine | Pratique actuelle |
-|---|---|---|
-| **Chants funéraires de Cendara** | Ère où les morts marchaient (post-Arrachement, Navigor disparu) | Chantés à voix basse pour "lester" les morts ; un Barde formé peut en restituer la mélodie originelle |
-| **Festivals de la Sève** | Ère du Verdoiement (Galenor) | Trois nuits de printemps où l'on perce les arbres et boit la sève ; rite druidique |
-| **Tabous de Mosrack** | Ère de Noctis Intense | Ne pas siffler la nuit, ne pas nommer son ombre, ne pas dormir face à la lune |
-| **Calendriers Cycliques** | Ère des Cieux Lus | Tablettes circulaires utilisées par les Astronomes ; encore valides pour anticiper certains alignements |
-| **Légendes "vraies"** | Multi-ères | Contes pour enfants qui sont en fait **avertissements codés** ; un Bibliothécaire peut décoder le vrai sens |
-| **Danses de Spiritus** | Ère bénie de Spiritus | Gestes rituels qui consacrent une union, une naissance, une chasse |
-| **Couleurs interdites** | Ère du Crépuscule Pourpre | Le pourpre est tabou à Mosrack ; en porter est un affront mortel |
-| **Comptines de Berceuse de Glas** | Ère du Sommeil de Glace | Berceuses d'Onara dont les paroles décrivent en réalité comment résister au gel onirique |
-| **Litanie des Cinq** | Ère de Foi Pleine | Prière qui nomme les Éternels dans leur ordre ancien — utile pour reconnaître les vieux temples |
-| **Serments du Sel** | Ère des Recul des Eaux | À Ulinor, on jure encore "par le sel" ; un parjure y est socialement mortel |
-| **Recettes Funéraires de Cestra** | Ère de la Brume Mortelle | Plats préparés une fois par an, contenant des herbes qui ne poussent qu'en sous-sol |
-| **Le Mot Manquant** | Toutes ères, mystère | Une syllabe qu'aucun habitant d'un certain village ne prononce jamais — personne ne sait pourquoi |
-
-> [!note] Métiers concernés
-> **Barde**, **Historien**, **Bibliothécaire**, **Prêtre**, **Enseignant**, **Linguiste**.
-> Les traces culturelles ne se "récoltent" pas comme une ressource : elles s'**apprennent**, se **transmettent**, se **décodent**. Un Barde qui maîtrise les Chants funéraires de Cendara peut les chanter en jeu et appliquer un buff de groupe rare.
-
----
-
-### 4. Items et reliques (collectibles)
-
-> Objets nés ou touchés par une ère passée. Les reliques sont rares, irreproductibles, et chacune raconte un fragment.
-
-| Relique | Ère d'origine | Pouvoir actuel | Rareté |
-|---|---|---|---|
-| **Lame de Soleil Mort** | Ère d'Eldoria Active | Brille faiblement ; +dégâts contre Voie de Noctis ; **irreproductible** | Légendaire |
-| **Cristaux de Tempora** | Ères temporelles aiguës | Permettent une condition cachée 🔒 sur la Voie de Tempora | Épique |
-| **Manuscrit du Cinquième Souffle** | Ère de Prédiction | Indices fragmentés sur le **prochain Souffle Cardinal** | Légendaire (unique) |
-| **Cendres Sacrées** | Ère du Feu Endormi | Composant unique pour alchimie d'ère ; consommable rituel | Rare |
-| **Couronne du Crépuscule** | Ère du Crépuscule Pourpre | Donne un **titre de noblesse oubliée** + cosmétique royal en jeu | Légendaire |
-| **Collier de Givre Spectral** | Ère du Sommeil Glacé Onirique | Permet de **percevoir les rêves** des PNJ proches | Épique |
-| **Carte du Premier Cardinal** | Tracée durant l'Arrachement | Encore lisible ; révèle des **Brèches du Néant cachées** | Légendaire |
-| **Plume de Navigor** | Ère pré-Arrachement | Une seule existe ; permet d'**ajouter une étoile** à une carte stellaire personnelle | Mythique (unique-monde) |
-| **Cloche de Spiritus** | Ère bénie de Spiritus | Sonner la cloche apaise un esprit hostile (1 charge / Souffle) | Épique |
-| **Vase d'Aquor Endormi** | Ère des Marées Hautes | Eau qui ne se vide jamais ; soigne légèrement les afflictions de Voie d'Aquor | Rare |
-| **Masque du Sans-Visage** | Ère de la Brume Mortelle | Permet de traverser les zones de brume sans se perdre | Épique |
-| **Œil de Fatum** | Ère de Prédiction | Révèle un échec inéluctable une fois par jour (mécanique narrative) | Légendaire |
-
-> [!note] Métiers concernés
-> **Chasseur de Trésors**, **Antiquaire**, **Bibliothécaire**, **Historien**, **Enchanteur-Restaurateur**.
-> Une relique récupérée peut être : conservée, vendue à un collectionneur PNJ, exposée dans un **musée de guilde**, ou — pour les plus puissantes — utilisée comme catalyseur d'une condition cachée 🔒.
-
----
-
-## Comment les joueurs interagissent avec les Traces
-
-### Activités émergentes
-
-| Activité | Métiers concernés | Récompenses typiques |
-|---|---|---|
-| **Archéologie** | Chasseur de Trésors, Historien, Cartographe | Reliques, fragments de lore, points d'expérience de métier |
-| **Décodage** | Bibliothécaire, Astronome, Linguiste | **Conditions cachées 🔒 révélées**, indices sur boss d'ère |
-| **Récolte d'ère** | Sculpteur, Alchimiste, Forgeron-Rituel | Matières premières uniques (bois pétrifié, sève d'argent, etc.) |
-| **Cartographie temporelle** | Cartographe + Astronome | Cartes vendables à très haut prix ; alignements futurs prédits |
-| **Prédiction** | Oracle, Astronome, Liés | Reconnaissance, **Éclats**, indices sur le prochain Souffle |
-| **Préservation** | Sculpteur, Architecte, Maçon | Construction de **monuments commémoratifs** (cosmétiques permanents) |
-| **Restauration** | Architecte, Bibliothécaire | Réveil partiel d'une trace endormie (donjon rouvert, vitrail relu) |
-| **Collection** | Antiquaire, Joueurs collectionneurs | Sets de reliques → bonus de set, titres, accès cachés |
-
-### Quêtes émergentes (exemples)
-
-- **« Retrouve la Lame du Héros de l'Ère du Crépuscule »** — chaîne archéologique multi-continent
-- **« Décode le Calendrier des Druides de Spiritus »** — coopération Astronome + Prêtre
-- **« Le boss vaincu il y a 3 ères revient — pourquoi ? »** — quête narrative liée à l'instabilité d'une trace
-- **« Cartographie les Brèches du Néant qui apparaissent »** — quête mondiale dynamique
-- **« La Cathédrale d'Iskara émerge — que recèle-t-elle ? »** — événement temporel rare
-- **« Une couleur interdite est portée à Mosrack »** — quête sociale/diplomatique
-- **« La Plume de Navigor change de main »** — événement mondial autour d'une relique unique
-
-### Économie des reliques
-
-- Les **items d'ère** sont **rarissimes** — leur acquisition est un événement de jeu.
-- Les **Hôtels des Ventes** ont une catégorie **"Reliques"** dédiée, avec prix planchers très élevés.
-- Certains **PNJ collectionneurs** (Antiquaires, Bibliothécaires de cité, Lords ruinés) achètent à **prix fort** voire à **prix narratif** (récompenses en titres, accès, faveurs).
-- Les **guildes** peuvent constituer des **collections** dans leur **musée de guilde** — chaque pièce exposée donne un buff passif aux membres présents.
-- **Les reliques uniques-monde** (Plume de Navigor, Manuscrit du Cinquième Souffle…) ont un **propriétaire affiché publiquement** — vol, héritage et trahison deviennent du gameplay.
-
----
-
-## Contributions des joueurs au monde
-
-> [!important] Le joueur fait l'histoire
-> Quand un joueur — ou une guilde — accomplit une **action exceptionnelle** pendant une ère, le monde peut **garder une trace permanente** de cet acte. Pour toujours, à travers les Parties.
-
-### Types de contributions reconnues
-
-| Action | Trace générée |
-|---|---|
-| **Boss d'ère vaincu** | La zone garde une **cicatrice** : anneau d'arbres dorés, cratère de bataille, lac de cendre |
-| **Prédiction parfaite d'un Souffle Cardinal** | Monument à l'oracle (statue + plaque dans la cité de l'oracle) |
-| **Première découverte d'une condition cachée 🔒** | **Nom du joueur inscrit** dans le lore officiel — apparaît dans les manuscrits de toutes les Parties suivantes |
-| **Tenue d'un siège pendant un Souffle entier** | La ville porte la marque **« Forteresse du Souffle de [date] »** ; bonus permanent de défense |
-| **Création d'une œuvre légendaire signée** | L'œuvre **circule dans le monde** (chant, livre, statue) avec attribution permanente |
-| **Pacification d'une faction perdue** | La faction garde la **mémoire du joueur** ; PNJ saluent par son nom dans les Parties suivantes |
-| **Fondation d'une nouvelle institution** | Monument permanent ; l'institution apparaît dans les villes futures |
-| **Survie à un Cardinal en restant à un endroit précis** | Lieu rebaptisé d'après le ou les survivants |
-
-### Effets concrets en jeu
-
-- **Inscription** dans le **calendrier officiel d'Hybelior** (consultable par tous, archivé dans toutes les bibliothèques)
-- **Statue ou monument** dans une ville (cosmétique permanent, visible par tous les joueurs)
-- **Titre rare** : « Concordant éternel », « Veilleur du Souffle », « Mémoire d'Hybelior »
-- **Mémoire transmise à la prochaine Partie** — *cosmétique uniquement*, conformément au principe d'héritage non mécanique
-- **Mention dans les chants de Bardes** — les Bardes peuvent apprendre la chanson dédiée et la chanter dans le monde
-
-> [!warning] Aucun avantage mécanique entre Parties
-> Les contributions persistent en **lore et en cosmétique**. Aucun stat, aucune ressource, aucun pouvoir n'est transféré d'une Partie à l'autre. C'est la **gloire**, pas la puissance, qui survit.
-
----
-
-## Évolution d'Hybelior à travers les Parties
-
-Chaque Partie de 1-2 ans laisse ses **propres traces**. Hybelior **évolue lentement** entre Parties.
-
-Les nouveaux joueurs d'une Partie suivante voient :
-
-- des **monuments** portant les noms de joueurs légendaires des Parties précédentes
-- des **batailles épiques** mentionnées dans les chants des Bardes — ils peuvent demander à un Barde-PNJ d'en raconter la version officielle
-- des **ruines de villes** prises et reprises, dont chaque couche correspond à un siège célèbre
-- des **titres mythiques** rappelant des actes accomplis avant leur arrivée
-- des **traces géologiques** apparues au cours d'une Partie passée — comme un nouveau cratère, une nouvelle forêt dorée
-
-> [!tip] Dimension multi-générationnelle
-> Cela donne à l'expérience une **dimension multi-générationnelle** : ton aïeul-joueur a peut-être marqué le monde avant toi. Et un jour, peut-être, ton nom sera gravé pour les enfants des prochains joueurs.
-
-### Exemple concret de transmission
-
-> *Au cours de la Partie III, la guilde **« Lame d'Astravia »** a fait tomber le Géant Endormi des Plaines de Glas après un siège de 47 jours. Le sol s'est ouvert et a cristallisé sous le coup de grâce.*
+> *« On marche. On ne sait pas qu'on marche sur des Ères. Puis on lève une pierre, et il y a un nom dessous. On la repose, mais on a vu. On ne marche plus jamais comme avant. »*
 >
-> *Aujourd'hui, en Partie V, les joueurs visitent les **« Plaines de Glas Brisé »**. Au centre, une **statue de cristal** porte sept noms et la mention : « Ici tomba le Géant — qu'il y reste. » Les Bardes chantent la **Lamente des 47 Jours**. Personne ne sait plus qui étaient ces sept joueurs, mais on les nomme avec respect.*
+> *— Eldra de Cendara, archéologue itinérante, à la fin de sa première saison de fouilles*
 
 ---
 
-## Conditions cachées 🔒 liées aux Traces
+## L'idée de Trace
 
-> [!important] Les Traces sont aussi des **clés**.
-> Beaucoup de conditions cachées du jeu impliquent une interaction précise avec une trace existante.
+Quand le monde respire — voir [[Le Souffle]] pour comprendre cette respiration — la plupart de ce qui composait l'Ère qui s'achève s'efface. Les couleurs du ciel changent, la faune migre, les ressources thématiques cessent d'affleurer. C'est la condition même pour qu'une nouvelle Ère puisse advenir : il faut que la précédente libère la place.
 
-Exemples (non exhaustifs) :
+Mais une fraction reste. Une fraction n'est pas absorbée par le mouvement. Elle se **dépose**. Elle s'inscrit dans la chair du monde — dans la pierre, dans les os, dans les arbres, dans les murs des cités, dans les bouches des vivants. Cette fraction-là, c'est ce que les habitants d'Hybelior nomment, depuis des temps qu'aucun calendrier ne fixe vraiment, des **Traces**.
 
-- **Visiter les 7 grandes Traces géologiques** d'Hybelior → titre **« Marcheur des Ères »**
-- **Compléter une collection de 10 reliques** de différentes ères → débloque l'accès à un **donjon caché**
-- **Décoder 3 calendriers anciens** → révèle un fragment de **prophétie sur le prochain Cardinal**
-- **Toucher un Cristal de Tempora avec Voie de Tempora niveau 5** → vision personnalisée du **passé du joueur**
-- **Construire un monument permanent** sur un cratère du Cardinal → trace dans **toutes les Parties suivantes**
-- **Chanter les Chants funéraires de Cendara** sur un Os de Géant → apparition d'un PNJ disparu
-- **Lire la Litanie des Cinq** dans la Cathédrale Engloutie d'Iskara à marée basse → vision d'Aquor endormi
-- **Porter la Couronne du Crépuscule** dans Vermilis → réaction des gardes rouges (tension diplomatique)
-- **Apprendre les 4 Danses de Spiritus** → bénédiction unique d'un PNJ Prêtre légendaire
+Une Trace n'est pas un objet. Ce n'est pas non plus un personnage qu'on peut interroger, ni une quête qu'on peut résoudre. Une Trace est un **dépôt** — quelque chose qu'une Ère ancienne a laissé tomber dans la géographie du monde présent, et qui, depuis, persiste sans appartenir à personne. La forêt pétrifiée d'Akmoral est une Trace. Les Os des Géants d'Ilthara sont une Trace. Les chants funéraires que les vieilles femmes de Cendara murmurent sans plus savoir pourquoi sont une Trace. Le mot que personne ne prononce dans tel village est une Trace.
 
-> Ces conditions ne sont **jamais documentées en jeu**. Elles se découvrent par l'observation, le croisement de lore, et la collaboration entre joueurs.
+Toutes partagent cette qualité : elles sont **plus vieilles que ceux qui les habitent**, et elles le resteront quand ceux qui les habitent ne seront plus.
+
+> *« Tu peux ne pas me croire. Tu peux dire que ce ne sont que des cailloux. Mais regarde-les bien. Ils ont vu mourir des dieux. »*
+>
+> *— Hassan le Cendreux, gardien des ruines de Vermilis*
 
 ---
 
-## Production technique
+## Pourquoi des Traces
 
-> [!note] Implémentation côté UE5.4 + OWS.NET
-> Les Traces sont une **couche de données du World State**, distincte des entités gameplay actives.
+Un monde sans mémoire matérielle est un monde sans poids. C'est l'intuition fondatrice de cette dimension d'Hybelior. Si la respiration cosmique effaçait *tout* à chaque cycle, le monde serait neuf à chaque Ère — et un monde toujours neuf, on s'en aperçoit vite, est un monde sans profondeur. Sans cicatrices. Sans histoire. Un décor qu'on ne pourrait que parcourir, jamais habiter.
 
-- **Modèles 3D** créés une fois pour chaque trace majeure (1-2 par grande mise à jour de contenu) ; assets statiques peu coûteux à maintenir.
-- **Items reliques** générés via l'**Item Modifier Generator** avec un flag `ere_specific: true` et un identifiant `ere_origin_id`.
-- **Architecture des villes** : **layers conditionnels** (Sub-levels UE5.4) toggle on/off selon les traces actives sur le serveur. Une ville peut afficher 0 à N couches archéologiques en parallèle.
-- **Multiplayer** : la **liste des Traces actives** vit dans le **World State global** d'OWS.NET, transmis aux clients à la connexion et à chaque mise à jour de Souffle.
-- **Cohérence** : **chaque Trace a un fichier YAML** versionné dans le repo content, qui définit :
-  - `id`, `name`, `continent`, `coordinates`
-  - `era_origin`, `era_year`, `permanence_trigger`
-  - `gameplay_effects` (buffs locaux, ressources spawnables, conditions cachées attachées)
-  - `lore_text` (français + traductions)
-  - `creator_player_id` ou `creator_guild_id` (si trace générée par un acte de joueur)
-- **Auditabilité** : un **Trace Browser** côté outil interne permet aux GM/designers de visualiser toutes les traces d'une Partie et de les réviser.
-- **Extensibilité** : ajouter une nouvelle trace ne nécessite **aucune recompilation** — uniquement un fichier YAML + assets référencés.
+Les Traces sont la **réponse géographique** à la respiration cosmique. Là où le Souffle dit *« le monde change »*, les Traces répondent *« mais quelque chose reste »*. Elles sont le contre-mouvement nécessaire : sans elles, la polyphonie serait amnésique. Avec elles, elle devient **une voix qui se souvient d'avoir parlé autrement**.
+
+Cette dialectique entre cycle et permanence n'est pas un compromis tiède. C'est une déclaration. Hybelior refuse les deux extrêmes : le monde figé qui s'asphyxie sous le poids de son propre passé, et le monde-table-rase qui ne pèse jamais rien parce qu'on l'efface en permanence. Le monde qui respire **et** qui se souvient — voilà ce qu'Hybelior tente d'être. Les Traces sont, dans la matière même du paysage, la preuve que cette tentative est tenue.
+
+Il y a dans cette philosophie une éthique discrète : on ne laisse rien tomber sans raison, mais on ne garde rien sans nécessité. Le monde **trie**. Et ce qu'il garde, il le garde pour toujours.
+
+> *« Le Souffle prend ce qu'il faut prendre. Les Traces gardent ce qu'il faut garder. Entre les deux, il y a juste assez de monde pour qu'on puisse y tenir debout. »*
+>
+> *— Maître Olwen, archiviste de la Bibliothèque d'Astravia*
 
 ---
 
-## Ce que les Traces apportent au design
+## Tiers de Traces
 
-| Apport | Description |
-|---|---|
-| **Profondeur narrative** | Chaque continent gagne en couches au fil des Parties, sans surcharge mécanique |
-| **Émergence** | Les joueurs créent du lore par leurs actes, sans avoir besoin de scénarios écrits |
-| **Persistance saine** | 10 % de permanence évite la stase totale et la table rase totale |
-| **Économie unique** | Reliques irreproductibles → marché vivant, jamais saturé |
-| **Multi-métiers** | Lire une trace exige souvent **plusieurs métiers** → coopération organique |
-| **Communauté inter-Parties** | Les joueurs des Parties suivantes deviennent les **héritiers** de ceux d'avant |
+Toutes les Traces n'ont pas la même portée. Les habitants d'Hybelior, qui les côtoient depuis bien avant qu'aucun savant ne théorise quoi que ce soit, en distinguent intuitivement trois ordres.
+
+### Les Traces mineures
+
+Ce sont les plus nombreuses, et de loin les plus humbles. Une marque sur un mur. Une plante qui ne devrait pas être là. Un mot d'argot dont personne ne sait plus l'origine. Un coin de jardin où rien ne pousse jamais sans qu'on sache pourquoi. Le voyageur distrait passe à côté sans rien voir ; l'œil entraîné s'arrête.
+
+Les Traces mineures ne changent pas le visage d'une région. Elles ne déplacent pas les frontières, ne créent pas de POI sur les cartes officielles. Mais elles sont la **texture** d'Hybelior — ce qui fait qu'aucune ruelle n'est plate, qu'aucune lande n'est tout à fait silencieuse, qu'aucun village n'est exactement comme son voisin. Elles disent au promeneur attentif : *quelque chose s'est passé ici, longtemps avant toi*.
+
+Pour les apprendre à voir, il faut une discipline particulière — patience, lenteur, croisements de sources. Les apprentis archéologues d'Hybelior commencent toujours par les Traces mineures. Celui qui sait les lire est déjà loin sur le chemin.
+
+### Les Traces majeures
+
+À une autre échelle, certaines Traces refaçonnent le paysage lui-même. Une forêt entière qui ne ressemble à aucune autre. Un cratère qui pèse sur l'horizon d'un continent. Un quartier souterrain qu'on creuse pendant des générations sans jamais en atteindre le fond. Une cathédrale qui resurgit à chaque marée basse et se laisse à nouveau engloutir.
+
+Ce sont elles qui dessinent les **points de repère** d'Hybelior — celles que les cartographes inscrivent en lettres rouges, que les pèlerins viennent voir de l'autre bout du monde, autour desquelles se construisent des cités, des rites, des légendes. Une Trace majeure est un événement géographique. Sa simple existence change la manière dont les habitants des environs parlent de leur propre terre.
+
+Elles naissent rarement, ces Traces majeures : seulement quand une Ère a marqué le monde d'un coup particulièrement profond — un boss cosmique tombé, une condition rarissime franchie, un acte collectif que le monde a jugé digne de mémoire. La plupart des Ères en laissent une, parfois deux. Beaucoup d'Ères calmes n'en laissent aucune. Et ce n'est pas grave : une Ère peut être pleinement vécue sans laisser de cicatrice spectaculaire. La discrétion aussi est une forme de présence.
+
+### Les Traces Cardinales
+
+Et puis il y a les Cardinales. Celles dont parlent les vieux moines avec une voix qui change. Celles que les Ères ordinaires n'ont pas le droit d'engendrer.
+
+Une Trace Cardinale ne naît qu'à la suite d'un Souffle Cardinal — ces événements à l'échelle des âges dont la Cosmologie elle-même garde la mémoire. Voir [[Le Souffle]] pour ce qu'est un Cardinal ; ici, ce qui compte, c'est ce que ces Cardinaux **laissent**. Et ce qu'ils laissent est sans commune mesure avec le reste.
+
+Des continents qui changent de visage. Des entités cosmiques dont la disparition imprime au monde une cicatrice radiante qui pulse encore des siècles plus tard. Des zones où la trame du temps elle-même hésite, comme si la couture du monde y avait cédé sur quelques pas. Une Trace Cardinale n'est pas un détail dans le paysage : c'est un **personnage géographique**. On ne la visite pas, on lui rend visite. On en parle avec respect.
+
+> *« Mon grand-père a marché sur un Cratère Cardinal. Il n'a jamais voulu en parler. Mais quand il revenait de là-bas, sa main droite tremblait d'une vibration qu'il n'a plus jamais perdue. Il disait que c'était la main qui se rappelait. »*
+>
+> *— Aïna de Galenor, dans une déposition à la Bibliothèque d'Ophiria*
 
 ---
 
-> [!quote]
-> *« On ne marche pas sur Hybelior. On marche sur dix mille ères empilées. Et chaque pas est une lecture. »*
-> — Inscription anonyme, Marches de Sel d'Ulinor
+## Lire les Traces
+
+Une Trace existe ; mais elle n'est rien tant que personne ne la lit. C'est ici qu'intervient l'**archéologie d'Hybelior** — non comme un loisir d'érudits, mais comme une véritable discipline du monde, croisant des métiers que rien ne destinait à se rencontrer.
+
+Lire une Trace n'est jamais le travail d'un seul. Le Cartographe relève la position, l'orientation, l'extension. L'Historien date la couche, identifie l'Ère probable, croise avec les annales. L'Astronome déchiffre les alignements, les calendriers gravés, les constellations devenues invisibles. Le Bibliothécaire fouille les sources textuelles, recoupe les versions, élimine les inventions. Le Barde mémorise, transmet, chante. Le Linguiste traque les mots qui ont changé de sens. Le Prêtre reconnaît les rites éteints. L'Antiquaire estime la rareté de ce qu'on en a sorti.
+
+Cette **collaboration organique entre métiers** — voir [[Exploration]] pour la dimension plus large de l'aventure — est la marque des grandes découvertes archéologiques d'Hybelior. Aucun joueur, aucun guilde n'a jamais lu une Trace majeure seul. C'est un travail de concert, qui se déploie sur des semaines parfois, et dont la récompense n'est jamais seulement matérielle. Lire une Trace, c'est **rendre la parole** à une Ère qui s'était tue. C'est, pour la durée d'une lecture, ramener à la lumière une voix qui s'était couchée dans la pierre.
+
+> *« Je ne fouille pas les ruines pour ce qu'elles cachent. Je les fouille pour ce qu'elles veulent dire. La différence est petite. Mais elle est tout. »*
+>
+> *— Tomas Vellan, archéologue d'Astravia, dans son carnet de fouilles*
 
 ---
 
-*Liens : [[Le Souffle]] | [[Les Ères]] | [[Histoire d'Hybelior]] | [[Métiers]] | [[Géographie]] | [[Cosmologie]] | [[La Partie]]*
+## Les Failles Temporelles
+
+Parmi tout ce que les Cardinaux laissent derrière eux, il y a une catégorie de phénomènes que rien d'autre n'engendre, et qui méritent un nom à part : les **Failles Temporelles**.
+
+Une Faille Temporelle est un endroit où le présent et le passé se chevauchent sans s'annuler. On y avance dans la zone, et l'on perçoit, en transparence, ce que cette même zone fut sous l'Ère ancienne. Une cité morte y respire à nouveau, le temps qu'on la traverse. Un combat oublié y résonne au ralenti, en filigrane des bruits ordinaires. Le voyageur qui s'aventure dans une Faille décrit toujours la même sensation : *je n'étais pas seul, mais ceux qui m'accompagnaient n'étaient pas là*.
+
+Les Failles sont les **marqueurs irrécusables des Cardinaux**. Là où il y a une Faille, il y a eu un Cardinal — c'est aussi simple, et aussi grave, que cela. Les théologiens en débattent encore : sont-elles des blessures du tissu cosmique, ou bien des grâces, des passages que le monde s'est volontairement laissé pour ne pas tout à fait oublier ? Aucune réponse ne s'est imposée. Les Failles, comme les Cardinaux qui les engendrent, refusent d'être expliquées. Elles veulent seulement être visitées.
+
+Certaines se stabilisent avec le temps, d'autres s'étiolent. Quelques-unes — très rares — peuvent être apaisées par un rite collectif mené par des Liés à la Voie de Tempora. Mais l'apaisement n'efface pas la Faille : il la **rend lisible**, comme un parchemin qu'on aurait enfin déroulé.
+
+---
+
+## Les Cratères du Cardinal et les Brèches du Néant
+
+Il existe deux autres formes que prennent les Traces Cardinales, et qui méritent qu'on les nomme.
+
+Les **Cratères du Cardinal** sont les blessures les plus visibles. Là où un Cardinal a frappé le sol, le monde garde un creux — non pas un cratère ordinaire, qui se comble avec le temps, mais une dépression que le monde, semble-t-il, **refuse de combler**. La magie résiduelle y stagne, parfois pendant des siècles. Les voyageurs sensibles disent y *sentir* une Voie qu'ils ne maîtrisent pas, comme un parfum dans l'air. La faune des environs y est étrange. Les plantes y poussent dans des directions qui ne sont pas celles du soleil. On ne campe pas dans un Cratère du Cardinal. On le traverse en se taisant, et l'on en sort changé.
+
+Les **Brèches du Néant** sont d'une autre nature, et bien plus inquiétantes. Elles n'apparaissent pas après un Cardinal unique — il faut plusieurs Cardinaux successifs pour qu'elles ouvrent. Ce sont des **failles** au sens le plus littéral : des endroits où la trame du monde a cédé, et où l'on peut, si l'on a le courage suffisant, descendre dans ce qui n'est ni Hybelior, ni le rêve, ni la mort. Les rares qui en sont revenus parlent d'une géométrie qui n'obéit pas, de couleurs qui n'existent pas, d'une absence qui pèse. Les Brèches sont **mobiles** : elles se déplacent lentement à travers le monde, comme si elles cherchaient quelque chose. Personne ne sait quoi. Personne ne tient à savoir.
+
+> *« Ne va pas dans une Brèche pour la richesse qu'on en rapporte. Vas-y, si tu y vas, parce que tu acceptes de ne plus tout à fait revenir. »*
+>
+> *— inscription gravée à l'entrée d'une Brèche stabilisée près de Mosrack*
+
+---
+
+## Traces et Ères présentes
+
+Une question revient souvent : que devient une Trace quand l'Ère qui l'a engendrée n'est plus la dominante du monde ? La réponse est plus subtile qu'il n'y paraît.
+
+Une Trace ne s'éteint jamais. Mais sa **résonance** varie selon l'Ère présente. Les Os des Géants d'Ilthara sont visibles en toute Ère ; mais sous une Ère où les Cosmiques disparus se font sentir, on dit qu'on y entend, certaines nuits, comme un souffle. La forêt pétrifiée d'Akmoral est traversable en toute saison ; mais sous une Ère du Sommeil de Glace renaissante, ses troncs translucides chantent au lever du jour. Les chants funéraires de Cendara peuvent être chantés à n'importe quel moment ; mais leurs effets sur les esprits nocturnes ne se manifestent qu'aux Ères où Noctis s'éveille.
+
+Cette **modulation** est l'une des plus belles élégances des Traces. Elles ne sont jamais figées. Elles dorment ou s'éveillent selon ce que le monde présent leur permet de dire. Une Trace endormie sous l'Ère N peut redevenir, sous l'Ère N+3, un foyer d'activité intense. Les archéologues les plus chevronnés tiennent des registres de ces correspondances. Ils savent qu'une visite à telle ruine, sous telle Ère, vaut mille visites sous d'autres.
+
+Cela donne au monde une **densité temporelle** que peu d'autres mondes possèdent. Quand on voyage à Hybelior, on ne voyage pas seulement dans l'espace — on voyage dans la conversation que les Ères passées entretiennent encore avec l'Ère présente. Et l'on apprend à écouter cette conversation comme on apprendrait une langue.
+
+> *« La pierre attend son heure. Les Ères passent, et chaque Ère lui demande quelque chose de différent. Une bonne archéologue n'est pas celle qui force la pierre à parler. C'est celle qui sait quand la pierre, d'elle-même, va consentir. »*
+>
+> *— Sœur Maelin, gardienne du sanctuaire de Caelorhin*
+
+---
+
+## Synthèse — ce que les Traces disent du monde
+
+Les Traces ne sont pas un système annexe d'Hybelior. Elles sont, au sens le plus strict, **la mémoire physique du monde**. Sans elles, la respiration cosmique du Souffle serait une amnésie périodique ; avec elles, elle devient un cycle qui **se sait cyclique**, qui garde des cicatrices de ses propres mouvements, qui ne prétend pas effacer ce qu'il a fait.
+
+Cette mémoire est généreuse, mais elle est aussi exigeante. Elle ne se livre pas à qui passe sans regarder. Elle réclame des métiers, des coopérations, du temps. Elle récompense l'œil patient et punit la cupidité pressée. Elle fait du monde, sous chaque pas, une **archive vivante** que l'on peut, si l'on y consent, apprendre à lire.
+
+Et puis, surtout, elle inscrit une promesse profonde aux joueurs : *vos actes, ici, peuvent peser*. Pas seulement pour la durée d'une saison, pas seulement pour la mémoire d'un guilde — pour le monde lui-même, dans son paysage le plus durable. Une grande victoire peut laisser un cratère que les enfants des enfants visiteront. Une grande prédiction peut laisser une statue dont le nom continuera d'être prononcé. Cette promesse n'a rien d'une mécanique de récompense déguisée. C'est l'**éthique géographique** d'Hybelior : un monde qui garde la trace, parce qu'il considère que ce qui s'y est passé mérite d'être gardé.
+
+> *« On ne marche pas sur Hybelior. On marche sur dix mille Ères empilées. Et chaque pas est une lecture. »*
+>
+> *— inscription anonyme, Marches de Sel d'Ulinor*
+
+---
+
+*Liens narratifs : [[Le Souffle]] | [[Les Ères]] | [[Histoire d'Hybelior]] | [[Cosmologie]] | [[Exploration]] | [[Métiers]] | [[La Partie]]*
+
+*Implémentation technique (chiffres, formules, specs Unreal) : [[Traces System]]*

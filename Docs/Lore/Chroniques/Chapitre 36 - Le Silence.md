@@ -2,7 +2,7 @@
 tags: [lore, chronique]
 type: lore
 status: drafted
-last_review: 2026-05-02
+last_review: 2026-05-06
 needs_review_for: []
 ---
 # Chapitre 36 — Le Silence Sacré
@@ -54,9 +54,9 @@ Ce qui s'imposait, c'était la roche. Les falaises noires dans lesquelles le com
 
 Je longeai les corridors en suivant le moine. Des dizaines d'autres moines passaient — certains en mouvement, transportant quelque chose, certains en position de méditation dans des alcôves ou sur des seuils, certains en entraînement dans les cours intérieures. Aucun ne fit de bruit. Pas de bruissement exagéré, pas de pas étouffés à grand-peine — les moines de Baelor ne faisaient pas de bruit parce qu'ils avaient appris à ne pas en faire, de façon si absolue que le silence n'était plus une contrainte mais une façon d'être. Comme les Lythariens qui ne luttent pas contre le vent — ils se sont ajustés à lui au point que la différence entre résister et ne pas résister a disparu.
 
-Je fus conduit à une cellule d'hôte — modeste, nette, avec une natte et une couverture et une lucarne qui donnait sur la mer. Sur le sol, un bol de riz et d'herbes couvert d'un linge. Je mangeai seul, dans le silence de Baeloris, avec pour seul bruit le vent contre la roche et les vagues au bas des falaises.
+Je fus conduit à une cellule d'hôte. Modeste, nette. Une natte. Une couverture. Une lucarne qui donnait sur la mer. Sur le sol, un bol de riz et d'herbes couvert d'un linge. Je mangeai seul.
 
-C'était le premier repas seul depuis longtemps. Pas désagréable — juste différent. Le silence ici avait quelque chose qui ressemblait à une compagnie, ce paradoxe des lieux assez silencieux pour que les présences non physiques deviennent perceptibles.
+Je n'écrivis pas pendant ce repas. Je remarquai que je n'écrivais pas. Je remarquai que je ne cherchais pas à analyser ce qui m'arrivait. C'était le premier repas seul depuis longtemps. Le riz était chaud. Les herbes avaient un goût d'herbes. Il y avait le vent contre la roche, et les vagues au bas des falaises, et rien qui demandât à être nommé.
 
 L'amulette pulsait. Moins forte qu'à Nysaria, moins discrète qu'en mer. Une pulsation intermédiaire — comme si elle calibrait son intensité à quelque chose que je ne pouvais pas mesurer directement.
 
@@ -242,10 +242,8 @@ Le capitaine barrait vers le nord sans regarder en arrière. Le vent était prop
 
 Je notai dans mon journal, pour la forme, pour la mémoire, pour cette habitude du cartographe qui pose les coordonnées avant d'en comprendre la signification :
 
-*Jour 800. Baelor. Le silence sait quelque chose.*
+*Jour 800. Baelor. Reçu un mot. Posé un mot.*
 
-*Le silence sait tout.*
-
-*Il attend qu'on apprenne à l'entendre.*
+Je relus la note. Elle me parut courte. Je n'y ajoutai rien.
 
 ---

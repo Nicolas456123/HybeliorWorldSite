@@ -2,7 +2,7 @@
 tags: [lore, chronique]
 type: lore
 status: drafted
-last_review: 2026-05-02
+last_review: 2026-05-06
 needs_review_for: []
 ---
 # Chapitre 34 — L'Île aux Masques
@@ -81,6 +81,8 @@ La personne au centre hocha la tête.
 Ce qui suivit — les trois jours à Nysaria — me demande un effort de linéarisation que les événements eux-mêmes ne s'imposaient pas. À Nysaria, le temps n'est pas scandé par les mêmes intervalles qu'ailleurs. Je le notai le premier matin quand je cherchais dans mon journal à quel moment j'avais dormi — et je ne sus pas répondre, parce que la frontière entre la veille et le sommeil à Nysaria avait la même texture que le reste de l'île : une réalité opaque et unique dans laquelle les catégories ordinaires ne prenaient pas pied.
 
 Je vis Nysoris.
+
+Je note ici, avant de décrire la ville, une chose plus discrète et que je n'ai pas envie d'oublier : pendant ces trois jours, je remarquai à plusieurs reprises l'envie de me dissoudre. Pas de mourir — de m'aligner sur le silence qui règne ici, de cesser d'être Sorin et de devenir simplement quelqu'un-qui-passe-à-Nysaria. Ce serait facile. Le masque qu'on me proposerait, je l'accepterais peut-être. Je ne sais pas pourquoi je n'acceptai pas. Quelque chose en moi continua à s'appeler par mon nom, à se souvenir de Mira Dasthen et de la table de mon père et du Kharaz d'Omarin. Je ne dirai pas que c'était une vertu. Je dirai que c'était une habitude. Les habitudes, à force, ressemblent à autre chose.
 
 Je ne pouvais pas ne pas la voir — les chemins y conduisaient avec l'inexorabilité d'une grammaire dont on a accepté les règles. La ville de pierre noire, les tours effilées, les lumières violettes à chaque fenêtre. Ce que les observations depuis la mer n'avaient pas capturé : la densité de la ville, sa profondeur. Nysoris n'est pas grande en surface — elle est grande en dessous. Ce que je vis depuis les rues me donna la certitude immédiate que l'essentiel de la construction était enterré. Des escaliers descendaient depuis chaque place centrale, larges et droits, vers un éclairage qui venait de plus bas. Des sons — ces sons-pas-sons, ces vibrations de roche — montaient depuis ces escaliers avec une régularité qui n'était pas mécanique mais organique.
 

@@ -2,7 +2,7 @@
 tags: [lore, chronique]
 type: lore
 status: drafted
-last_review: 2026-05-02
+last_review: 2026-05-06
 needs_review_for: []
 ---
 # Chapitre 7 — Les Druides de Trinoria
@@ -63,6 +63,8 @@ Et les troncs des arbres les plus anciens. La lumière, le soir, les éclairait 
 J'ai regardé ces visages le premier soir jusqu'à ce que la lumière disparaisse. Je n'ai pas conclu quoi que ce soit.
 
 Un cartographe doit savoir quand il ne sait pas.
+
+J'écris cette phrase. Je la regarde. Elle me paraît juste. Je la note ici dans la marge en me promettant — sans pouvoir tenir la promesse, je le sais déjà, mais c'est l'intention qui compte parfois — de ne jamais l'oublier dans les pays où on me proposera des explications complètes, où la cohérence sera plus simple à obtenir, où la peur de ne pas savoir cherchera quelque part à se déposer.
 
 ---
 

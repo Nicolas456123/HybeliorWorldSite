@@ -2,7 +2,7 @@
 tags: [lore, chronique]
 type: lore
 status: drafted
-last_review: 2026-05-02
+last_review: 2026-05-06
 needs_review_for: []
 ---
 # Chapitre 10 — Les Mines Silencieuses
@@ -294,6 +294,8 @@ La figure qui émergea était incomplète — trop peu de points, trop d'espace 
 Et la vibration dans toutes ces formations — le battement lent, la pulsation du Fragment Zéro, la chaleur sous les mains de Kyra dans la Grande Forge de Glintaris — avaient augmenté. Les gens qui les observaient depuis assez longtemps s'accordaient là-dessus sans coordination entre eux : les sons de Myrilith, plus forts depuis vingt ans. Le Fragment Zéro, qui ne pouvait plus être approché sans conséquences depuis trois ans. La porte de la galerie profonde, qui avait fait taire un homme définitivement.
 
 Quelque chose paraît augmenter — c'est en tout cas ce que les observateurs disent, chacun depuis son angle. S'agit-il d'un phénomène qui s'approche, qui s'éveille, ou simplement de notre attention qui s'aiguise sur ce qui était déjà là ? Je n'ai pas les mots pour trancher autrement.
+
+Il y a une chose que j'aurais voulu noter et que j'ai mal notée. Devant Baret, dans l'auberge du Charbonnier, quand il m'a parlé de la porte et des battements qui venaient de plus proche que d'ordinaire, je n'ai rien fait d'autre qu'écouter. Je n'ai pas comparé. Je n'ai pas relié. Je l'ai laissé dire ce qu'il disait dans les mots qu'il avait. Plus tard, ici, dans la chambre que Hessa me prête, j'ai pris ces mêmes mots et je les ai posés sur ma carte mentale à côté du Fragment Zéro, à côté de l'arbre de Velathor. C'est peut-être juste. C'est peut-être prématuré. Un mineur qui décrit des sons qu'il entend depuis vingt ans n'a pas demandé à devenir un point dans la cartographie d'un étranger. La gratitude que je lui dois consisterait peut-être d'abord à ne pas le réduire à un point. J'écris cela avec la lampe basse et le brouillard qui colle aux carreaux, et je ne suis pas sûr de retenir la leçon.
 
 Le mineur avait dit : *Elle arrive.*
 

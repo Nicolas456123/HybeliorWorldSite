@@ -2,13 +2,19 @@
 tags: [lore, pays, onara]
 type: lore
 status: drafted
-last_review: 2026-05-02
+last_review: 2026-05-06
 needs_review_for: []
 ---
 # Myrtam — La Montagne qui Forge le Monde
 
 > *« L'Acier Éternel ne fut pas forgé par un homme. Il fut forgé par l'ambition de tout un peuple. »*
 > — Inscription sur la Porte de la Grande Forge
+
+> *« Une bénédiction qui abîme les poumons. J'aurais voulu comprendre si ces hommes mouraient plus doucement pour y croire. »*
+> — Sorin Valthen, *Cahier IV, Les Cendres*, Myrtam, jour 132
+
+> *« Le numéro qu'on grave sur une lame ne devrait pas être un poids. Il devrait être une fierté. Tant que les quotas broieront les artisans, les numéros ne seront que des chaînes. »*
+> — Tract du Syndicat des Profondeurs, copie saisie à Lyraxoris, an 248
 
 ---
 
@@ -255,3 +261,65 @@ Total : **12 villes/villages** réparties sur **4 régions**.
 | Zyndor | Lyraxia | Village |
 | Thylaris | Lyraxia | Village |
 
+---
+
+## Cadre interne — Patterns
+
+> Encadré technique réservé aux rédacteurs et agents travaillant le Lore. N'apparaît jamais in-world.
+
+**Piège Institutionnel dominant : L'Instrumentalisation, sous variante laboriste-quotidienne ; doublée d'une Loi figée artisanale et d'un Déni du Sablier.**
+
+1. **Instrumentalisation laboriste-quotidienne** (piège primaire). Myrtam est le pays où le travail *sacralise* la mort qu'il provoque. La maladie respiratoire des mineurs et forgerons — appelée par les prêtres d'Ignis Aeternum *« le souffle d'Eldoria »* — n'est pas reconnue comme une affection professionnelle. Elle est *bénédiction*. Cette conversion linguistique est l'icône myrtamite de l'Instrumentalisation : on ne nie pas que les ouvriers meurent jeunes — on les *honore* en mourant. Le **numéro gravé** sur chaque pièce forgée à Lyraxoris est l'autre dispositif central : il lie l'artisan à son œuvre dans les deux sens. La promesse de fierté (chaque pièce porte ton nom) est une réalité. La promesse de chaîne (chaque défaut te ramène à toi) en est une autre. Le forgeron numéro 7714 (Aldren) est exilé pour un défaut causé par un quota imposé qu'il a lui-même reconnu — *le numéro ne le lie pas à la lame, il le lie au quota*. Cette phrase, prononcée à voix basse par Aldren à Yenna (la mère de l'enfant tué par sa lame), résume l'Instrumentalisation laboriste mieux que n'importe quel traité.
+
+2. **Loi figée artisanale** (piège secondaire). Myrtam est le pays de l'excellence-comme-religion. Aucun forgeron ne *discute* la qualité — il l'incarne. Cette éthique professionnelle est admirable. Elle est aussi un système de pression continue qui transforme la moindre erreur en stigmate, et qui empêche toute *renégociation* des conditions de production. Les Maîtres de Forge se transmettent leurs concessions et leurs méthodes ; le roi nomme et révoque les Intendants ; les Compagnons font carrière dans une grille fixe. Aucune voix ne *conteste* cette structure — sauf le Syndicat des Profondeurs, et il est traqué.
+
+3. **Déni du Sablier** (piège tertiaire, structurel). L'Acier Éternel *existe*. Le roi le voit lors de son couronnement. Il ne raconte rien. Cette posture institutionnelle — *posséder un objet sacré dont on n'examine pas la nature* — est un Déni du Sablier en miniature : Myrtam fonctionne sur l'idée qu'elle a déjà tout produit (l'Œuvre suprême est dans la chambre secrète) et qu'il ne reste qu'à *maintenir*. Or maintenir, c'est refuser que les choses passent. Mythrin, qui *cherche* à reproduire l'Acier Éternel et échoue depuis des générations, est le seul lieu où ce déni est partiellement contesté — non parce que Mythrin doute (Mythrin essaie), mais parce que Mythrin produit en quantité de la *Rouille assumée* (chaque échec encadré).
+
+**Distinction cruciale avec Mosrack** : Mosrack instrumentalise par le **chiffre administratif** (la colonne "Pertes"). Myrtam instrumentalise par le **numéro identifiant** (la signature de l'artisan sur sa pièce, qui devient sa traçabilité, donc sa cage). Mosrack *anonymise* pour broyer ; Myrtam *nomme* pour enchaîner. Les deux variantes coexistent dans le même continent — elles sont les deux faces d'une même Loi du Calcul appliquée à des matières différentes (chair de soldat vs. main d'artisan).
+
+**Cohérence avec les religions :**
+- *Ignis Aeternum* (myrtamite, lecture tellurique-productive) : sacralise la maladie professionnelle. La phrase *"le souffle d'Eldoria"* est l'opérateur central de l'Instrumentalisation — elle *transmute* une donnée médicale en marque sacrée. Les théologiens d'Ordo Caelum d'Azoria, qui partagent l'héritage de la Lumière Primordiale, contestent que le volcanisme soit Eldoria ; pour eux, la Lumière reste céleste. À Myrtam, la dispute est jugée hors-sujet — *la flamme est ici, sous nos pieds*. Falnorath (cratère de crémation) est l'archétype : on *donne au feu* ceux qu'il a déjà tués. Velya, la prêtresse de Falnorath, *casse* ce dispositif en refusant de jeter sa fille au cratère — geste qui restera marginal, mais qui ouvre une ligne de fissure (cf. *Histoires*).
+- *Lex Petra* (secondaire, intellectuelle) : importée par les colons venus d'Altram. Elle survit dans les milieux juridiques et bureaucratiques. Elle équilibre, faiblement, le viscéral d'Ignis Aeternum — sans le contester frontalement.
+- *Foedus Animae* (présence marginale) : suggère qu'à Myr le Fondeur ont pu se transmettre les âmes des forgerons morts dans les éruptions précédentes. Lecture rejetée par les prêtres officiels d'Ignis. Survit dans les chants populaires et les murmures des veuves de mineurs.
+
+**Âge moral collectif majoritaire : La Loi.** Les Myrtamites ordinaires (Compagnons, Mineurs, Portefeu, Cristalliers, Souffleurs de verre) intègrent la Loi de la Forge dès l'enfance et y trouvent une fierté authentique. Les Maîtres de Forge sont des aristocrates respectés — leur position n'est pas vue comme oppression mais comme *aboutissement légitime du métier*. Le **Désir** affleure chez les ouvriers de Cumulgord (qui se plaignent du bruit, parfois) et chez les Portefeu (enfants pas encore disciplinés). Le **Principe** est exceptionnellement rare. Maren à Feyloris, Velya à Falnorath, Aelwyn à Mythrin, Yrsa à Thylaris, Aldren à Lyraxoris (avant son exil), Daren à Zyndor (avant ses brûlures finales) — chacun a porté une figure du Principe à un moment, sans que le pays ne le reconnaisse comme tel.
+
+**Figure-clé portant la Vertu Cachée :**
+
+**Velya, prêtresse de Falnorath** (an 191 — vivante en 251), gardienne du cratère de crémation depuis trente ans. Cf. *Histoires/Onara/Myrtam — Falnorath : « Le Dernier Vol »*. Velya *a perdu la foi* lentement, sans drame — comme un feu qui meurt faute de bois. Elle a continué à officier *par fidélité aux familles endeuillées*, qui avaient besoin de croire. Le jour où on lui apporte le corps de sa fille Kyra (morte à dix-neuf ans de la maladie des poumons à Ardentris), elle *refuse* la crémation volcanique. Elle enterre Kyra dans la terre, comme un paysan, comme une barbare, comme personne ne fait à Myrtam. Elle est bannie du temple. D'autres familles viennent à elle, en secret. Un petit cimetière pousse à l'écart, dans la roche tendre des collines secondaires. Quand les prêtres viennent le détruire, ils trouvent trente familles assises en cercle. Ils repartent sans un mot.
+
+**Vertu portée :** **Le Tranchant** (Vertu #4) sous une forme hérétique. Velya a *refusé* — sans manifeste, sans théologie alternative, sans appel à un autre dieu. Elle a refusé *un geste précis* (jeter au feu la fille que le feu avait tuée), et ce refus a fait trace. Sa Vertu est gratuite (elle n'a rien gagné — perte du sacerdoce, mise à l'écart sociale), coûteuse (ses années de service à Falnorath effacées d'un seul geste), et silencieuse (elle ne prêche pas — elle accueille). *« Les morts ne se soucient pas de la façon dont on les honore. Ce sont les vivants qui en ont besoin »* — phrase qui pourrait sembler iconoclaste, et qui est en fait une exacte expression du Tranchant : refuser ce qui ne sert plus.
+
+**Mort marquante** : Velya n'est pas morte (an 251). La structure narrative attend qu'elle meure dans le petit cimetière qu'elle a fondé, probablement vers 65-70 ans, sans avoir laissé de doctrine. Elle sera enterrée par les familles qu'elle a aidées, dans la terre. Aucune autorité ne sera présente. Sa pierre tombale, *contrairement* à la tradition du cratère, *existera*. C'est ce détail (qu'une pierre marque sa mort, dans un pays qui ne fait pas de tombes) qui en fera une figure du Principe pour ceux qui sauront lire.
+
+**Figures-clés secondaires :**
+
+- **Maren, jardinière de Feyloris** (an 213 — vivante) — a brisé la convention de Feyloris (cultiver des cristaux) pour cultiver des plantes vivantes dans une serre de verre volcanique. Cf. *Histoires/Myrtam — Feyloris : « Les Jardins de Cristal »*. Porte **La Rouille** (Vertu #3) sous forme végétale : a accepté que la rose offerte fanât en trois jours, et a fait de cette acceptation un acte (cultiver ce qui mourra). Sa serre est tolérée à Feyloris parce qu'elle est *minuscule*. Si elle grandissait, elle serait fermée.
+- **Aelwyn de Mythrin** (an 169-249) — directeur des recherches sur l'Acier Éternel pendant quarante ans. N'a jamais réussi. A produit dix-sept alliages secondaires majeurs *en chemin*. Sa formule *« L'Acier Éternel est peut-être impossible. Mais tout ce que nous découvrons en essayant est réel »* est l'expression la plus pure de **La Rouille** (Vertu #3) à Myrtam — il a fait de l'échec une discipline *productive*. Mort dans son atelier sans avoir atteint son but. C'est exactement ce qu'il fallait.
+- **Yrsa de Thylaris** (an 215 — vivante) — paysanne qui a soigné le sol volcanique épuisé après que des Intendants successifs aient échoué. Sa formule *« en écoutant la terre au lieu de lui donner des ordres »* est un Voile (Vertu #2) appliqué à l'agriculture : reconnaître son ignorance pour mieux apprendre. Son nom n'apparaît dans aucun rapport officiel.
+- **Voss l'Intendant** (cf. fiche Mosrack — réf. croisée) — la Loi du Calcul est continentale ; les figures qui la *cassent* sont aussi.
+- **Le Forgeron 7714 (Aldren)** (an 219-?) — exilé pour avoir livré une lame défectueuse, reconnaît à Yenna que le défaut était causé par un quota qu'il avait lui-même accepté. Mi-figure du Principe (avoue), mi-pris dans la Loi (accepte l'exil sans contestation). Le numéro 7714 devient relique du Syndicat des Profondeurs.
+- **Daren le Souffleur de Nuit** (an 199-249), **Seyra "Mains de Fer"** de Zyndrelis (an 211-?) — figures de **Rouille** (Vertu #3) dans le travail de précision : acceptation de la déchéance corporelle comme aiguisage, soit du métier (Daren transmet à sa fille Ivara), soit du sens (Seyra découvre que le cristal "brisé" par sa main tremblante est plus beau que les cristaux parfaits).
+- **Ereven le Pèlerin de Vyndorin** (an 224 — vivant) — a marché 40 jours pour demander *pourquoi* il forgeait. La bergère lui a répondu *« Myr lui-même n'a pas trouvé de réponse. La lame est devenue la réponse »*. Ereven a redescendu sans réponse mais avec **la paix de ne pas en avoir besoin**. Variante d'**Aimer-ce-qui-est** dans un pays qui ne le pratique pas.
+
+**Conflit moteur de la nation :**
+
+**La tension entre la Forge et la Vie.** Myrtam a fait de la Forge sa raison d'être. Cette identité est *belle* (l'excellence du métier, la transmission générationnelle, la fierté collective autour de l'Acier Éternel). Elle est aussi *meurtrière* — la maladie des poumons, les exils pour défaut, les quotas qui tuent, les ouvriers brûlés vifs comme Daren. Les figures du Principe à Myrtam sont, presque toutes, des gens qui ont *cherché à introduire de la vie dans la Forge* : Maren cultive des plantes, Velya enterre dans la terre, Aelwyn fait de l'échec un trésor, Yrsa parle au sol. Le pays les ignore. Ils existent à la marge.
+
+À long terme, ce conflit devrait éclater — soit par effondrement productif (les sols agricoles épuisés, les mineurs qui ne peuvent plus respirer en assez grand nombre), soit par soulèvement organisé (le Syndicat des Profondeurs grandit). En l'an 251, ni l'un ni l'autre ne s'est produit. Le pays *tient*.
+
+**Ce qui est *spécifiquement* myrtamite (à ne pas dupliquer ailleurs) :**
+
+- L'**Acier Éternel** dans la chambre secrète, vu par chaque roi lors du couronnement, jamais décrit publiquement. La phrase de Thorvald VIII *« la lame n'était pas posée. Elle était plantée »* (cf. *Histoires*) est *l'unique* indice canonique que l'Acier Éternel n'est pas seulement une œuvre humaine. Cette donnée doit rester un *filigrane* — jamais explicitée.
+- Le **système de numérotation des armes** (chaque pièce signée et tracée), dispositif unique à Myrtam.
+- **Falnorath comme rite institutionnel de crémation** dans un cratère actif — pratique unique (Mosrack et Tyndara n'ont rien d'équivalent ; les forges d'autres continents ne sacralisent pas le cratère).
+- Le **Syndicat des Profondeurs** comme contre-mouvement souterrain (jumeau d'un mouvement mosrackien plus discret).
+- **Mythrin** comme *village d'échec assumé* — institution unique (aucun autre lieu d'Hybélior ne fait de l'échec sa vocation collective explicite).
+
+**Ratio brisé / relevé pour Myrtam** : pour chaque figure du Principe (Velya, Maren, Aelwyn, Yrsa, Aldren-Yenna, Daren-Ivara, Seyra, Ereven), prévoir 4-6 figures *séduisantes* de la Loi — le roi Thorvald VIII (efficace, juste, traumatisé mais compétent), les Maîtres de Forge inventifs (Ardentris, Lyraxoris), les Intendants qui *fonctionnent* (Xerathoris hors Voss), Jorek le forgeron qui recommence après la chute de sa lame, les artisans de Zyndor dont les vitraux sont *réellement* beaux. La Loi myrtamite **fonctionne** — elle a produit l'Acier Éternel, les caravelles tyndariennes, les armures qui équipent une moitié du continent. Cette efficacité doit être visible. Le piège ne se voit que dans les poumons abîmés et dans les noms gravés sur des pièces que leurs auteurs n'ont pas pu refuser de faire. Ne jamais le dénoncer dans le texte ; le laisser affleurer dans les détails — la toux, le numéro 7714, l'humidité noire sous l'Acier Éternel.
+
+> **Note pour A.4 / cohérence Sorin** : Sorin touche Myrtam au chapitre 11 (*Les Cendres*, Onara/Myrtam), où il observe la maladie des poumons sacralisée. La phrase-clé de l'arc Sorin pour ce chapitre — *« Une bénédiction qui abîme les poumons. J'aurais voulu comprendre si ces hommes mouraient plus doucement pour y croire »* — est l'opérateur du **Voile** dans son arc (Vertu #2). Sorin ne tranche pas. Il pose la question. C'est exactement ça. Pas de scène avec Velya, Aelwyn ou Maren (Sorin passe par les régions industrielles, pas par les marges). Possibilité d'un détail flottant : un forgeron qui tousse à Ardentris, un cristallier aux mains tremblantes à Zyndrelis. Pas de révélation. Le pattern affleure dans la qualité de l'air et dans le silence des veuves.
+
+---
+
+*Liens : [[Histoires/Onara/Myrtam|Histoires de Myrtam]] | [[Religions/Ignis Aeternum|Ignis Aeternum]] | [[Religions/Lex Petra|Lex Petra]] | [[Onara - Continent]]*

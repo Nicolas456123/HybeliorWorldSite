@@ -1,8 +1,8 @@
 ﻿---
-tags: [religion, lore, cosmologie, refonte-2026-05]
+tags: [religion, lore, cosmologie, refonte-2026-05, veines-philo]
 type: lore
 status: drafted
-last_review: 2026-05-02
+last_review: 2026-05-06
 needs_review_for: [enrichissement-doctrinal-V4]
 nom_latin: Vael'Kurash
 entites_venerees: [Spiritus, Arborius]
@@ -125,5 +125,91 @@ L'**Accord** (cf. [[L'Accord]]) est interprété comme la mesure de l'écoute du
 **Sillage actuel (an 251)** : doctrine mature mais fragmentée. Le **Mouvement du Silence Égal** à Gryndor signale qu'une nouvelle réforme se prépare — vers une inclusion explicite des non-Liés dans la communion sacrée.
 
 ---
+
+## Doctrine officielle
+
+Le Vael Kurash n'a pas de livre canonique. Il a des **chants**, des **gestes**, et une suite de **lieux** auxquels on revient. Les Vael'Kari enseignent que *« ce qu'on écrit ne respire plus »* — formule qui justifie la transmission orale et l'absence d'un corpus textuel central. Quelques recueils existent (les *Carnets de Selvara*, les *Voix-de-l'Écoute*) mais ils sont tenus pour des **aide-mémoires**, jamais pour des livres saints.
+
+L'enseignement officiel articule trois affirmations. **D'abord**, le monde naturel est **peuplé d'esprits singuliers** — pas des manifestations dispersées d'une force unique, mais des présences individuelles, chacune avec sa voix, son tempérament, sa mémoire. *« Tu ne pries pas la forêt ; tu pries cet arbre, ce vieux, qui est là, et qui se rappelle de ton grand-père. »* **Ensuite**, le rôle du fidèle est d'**écouter** — verbe central de la doctrine, infiniment plus important que *prier*, *demander*, *espérer* ou *croire*. Un Vael'Kari accompli n'est pas celui qui parle aux esprits ; c'est celui qui les laisse parler. **Enfin**, la **persistance** des esprits ne dépend pas du fidèle : un esprit existe avant les hommes et continuera après eux. Il peut s'affaiblir, mais il ne peut pas mourir au sens où meurent les mortels.
+
+Cette dernière affirmation est devenue, depuis l'Arrachement, le grand point de friction interne. La formule canonique tient :
+
+> *« La pierre dure plus que toi. L'arbre dure plus que ta lignée. La rivière dure plus que ta langue. Tu es passager ; ils sont demeurants. »*
+
+Mais l'observation post-Arrachement contredit la formule. Plusieurs forêts de Selvara ont **cessé de répondre** ; des sources tenues pour vivantes depuis l'Âge du Lien sont devenues muettes ; des sommets entiers d'Alkaran, où les *Cavernes de l'Écoute* permettaient aux initiés de percevoir la pulsation de la roche, donnent désormais sur des silences pleins. Le clergé tient officiellement que ces esprits **se sont retirés**, qu'ils **dorment**, qu'ils **se concentrent**. La doctrine refuse, presque par réflexe, de dire qu'ils **meurent**. Cette discipline du refus est l'un des grands traits structurels du Vael Kurash actuel.
+
+Les sermons publics sont rares. La religion préfère les **veillées** : on s'assoit en cercle au pied d'un arbre, d'une pierre ou d'une source, et on **se tait** pendant un temps qui peut aller d'une heure à trois jours. L'enseignement passe par la durée. Les fidèles apprennent à reconnaître les **changements de tonalité du silence** — ce qu'on appelle, dans la doctrine, *les sept silences* (silence-vide, silence-plein, silence-trompé, silence-d'attente, silence-de-réponse, silence-de-deuil, silence-d'avant). Cette taxinomie du silence est la pratique la plus aboutie du clergé.
+
+---
+
+## Vie quotidienne
+
+Une région Vael Kurash se reconnaît à ce qu'elle **ne construit pas**. Les forêts d'Ulinor n'ont pas de routes pavées ; les sources d'Alkaran n'ont pas de margelles maçonnées ; les sommets de l'Ilthara nord sont parcourus de sentiers qu'aucun Concile ne dessine et que nul ne nomme. Les Vael'Kari tiennent que *« construire sur un esprit, c'est lui demander de partir »*. Cette retenue donne aux territoires Vael Kurash une beauté distinctive — et un coût économique réel, qui pèse sur la fiscalité de Gryndor depuis trois siècles.
+
+Le clergé n'a pas de hiérarchie verticale. Il a des **lignées** — chaque Vael'Kari descend, par initiation, d'un maître ou d'une maîtresse qui descend lui-même d'un autre, et cette généalogie de transmission compte plus que tout grade. Les lignées les plus prestigieuses (Selvara, Caverne, Source-Bleue, Vieille-Terre, Pierre-de-l'Aube) entretiennent des rivalités feutrées sur la *justesse de l'écoute*. Aucun Vael'Kari ne s'autoproclame ; on est reconnu par le silence qu'on tient quand un autre Vael'Kari prie à côté de soi. Les initiations principales — passage des *Cavernes de l'Écoute* — durent vingt-sept jours, dont sept sans nourriture et sept sans parole.
+
+Les fêtes suivent le calendrier solaire-lunaire des **quatre solstices et équinoxes**, augmenté d'un nombre variable de **fêtes locales** liées à un esprit particulier (la fête de la Vieille-Pierre du col de Vethrun ; la fête de la Source qui Ride à Selvara). Les rites principaux : **veillée silencieuse** (1 à 72 heures), **dépose** d'une offrande symbolique (nourriture, sang animal, fil tissé, objet aimé), **tatouage rituel** (chaque année, un nouveau motif inscrit dans la peau, lié à un esprit qu'on s'engage à honorer). Les Vael'Kari les plus âgés portent des dizaines de tatouages superposés ; on dit qu'à la mort, leur peau est *« lisible comme un livre »*.
+
+Détail important : les Vael Kurash **n'enterrent pas non plus leurs morts dans des tombeaux durables**. Le rite est l'**exposition aérienne** dans les forêts (chez les Voix-sous-Bois) ou la **mise sous pierre simple** (chez les Enfants-de-la-Roche d'Alkaran). Aucun monument. Aucun nom inscrit. La doctrine considère que le mort *retourne aux esprits*, et qu'inscrire son nom serait le retenir injustement.
+
+Les enfants Vael Kurash apprennent dès trois ans à **se tenir au pied d'un arbre sans rien faire**. Cet apprentissage, étalé sur plusieurs années, produit une attention particulière à la lenteur — qu'on retrouve dans la diplomatie Vael Kurash, réputée pour son endurance dans les négociations longues. Les délégations d'Ulinor à Lumasar attendent traditionnellement *plusieurs jours* avant de répondre à une proposition. Cette habitude est moquée et respectée à parts égales.
+
+À Gryndor, depuis les **Décrets du Concile** (~9 250 ap.A), la pratique a été codifiée par l'État : calendrier liturgique national, exclusion des non-Liés des rites principaux, examen d'aptitude obligatoire pour les Vael'Kari servant en ville. Cette codification a créé une **division sourde** entre les Vael Kurash de Gryndor (institutionnels, normés, parfois corrompus) et les Vael Kurash des hautes terres d'Alkaran et d'Ulinor (lignée pure, méfiance absolue envers tout texte officiel).
+
+---
+
+## Tensions internes
+
+Trois lignes de friction, étroitement nouées.
+
+**Première ligne : le Silence Égal contre les Décrets du Concile.** Le **Mouvement du Silence Égal** (~10 000 ap.A, encore actif) prêche que l'exclusion des non-Liés est une trahison doctrinale — *« Spiritus n'a jamais demandé d'examen ; les Décrets parlent pour Spiritus, ce qui est la première offense »*. Les Décrétistes répondent que la codification protège la pureté de la pratique, et que le mouvement réformiste ouvrirait les Cavernes à des fidèles non préparés. Les deux camps se partagent à peu près également l'opinion à Gryndor. Aux hautes terres, on considère le débat comme *« une querelle de plaine »* — symptôme du fait que la religion d'État, ce n'est déjà plus la religion.
+
+**Deuxième ligne : le déni des esprits éteints.** C'est la friction la plus profonde et la moins formulée. Une fraction importante du clergé — d'autant plus douloureusement qu'elle est consciencieuse — observe depuis l'Arrachement que **certains esprits ne répondent plus**. La doctrine officielle parle de retrait, de sommeil, de concentration. Quelques Vael'Kari de lignée ancienne — surtout dans les Cavernes de l'Écoute — admettent en cercle restreint que **certains esprits sont morts**, ou *« quelque chose qui ressemble à mourir »*. Ces aveux ne deviennent jamais publics. Quand un Vael'Kari les formule trop nettement, sa lignée le retire de l'enseignement, sans excommunication, par déplacement progressif vers des veillées de moins en moins fréquentées. La religion **refuse** de reconnaître la mort possible d'un esprit, parce que cette reconnaissance dévasterait toute la doctrine de la persistance. Or sans cette doctrine, que reste-t-il à enseigner ?
+
+**Troisième ligne : la dérive vers l'accueil sans seuil.** Aux marges du clergé — surtout chez les Vael'Kari errants d'Ulinor — une posture s'installe : *« tout est esprit, donc tout mérite veillée »*. Certains Vael'Kari finissent par tenir des veillées pour des objets manufacturés, des bâtiments, des outils familiers. La doctrine officielle s'en alarme — *« Spiritus n'est pas dans tout ; il est dans ce qui pousse, ce qui dure, ce qui se souvient »* — mais a du mal à tracer la limite, parce que la religion entière repose sur le refus des hiérarchies entre esprits. À force d'avoir refusé les seuils des autres traditions (ne pas codifier comme Lex Petra, ne pas hiérarchiser comme l'Ordo Caelum, ne pas dominer comme Caeloria), le Vael Kurash découvre que ses propres seuils sont devenus difficiles à tenir. Un fidèle peut désormais *« honorer un esprit »* à peu près n'importe où, et personne dans le clergé n'a la légitimité doctrinale pour dire non.
+
+Plus discrète encore : une frange minoritaire de Vael'Kari, surtout des femmes âgées des Cavernes, prend en charge des **esprits affaiblis** sans le dire. Elles passent des semaines au pied d'une pierre qui ne répond plus, à veiller en silence, à déposer des offrandes, à *porter* la présence comme on porte un mourant. Ce n'est ni doctrinal ni hérétique — c'est une posture personnelle, transmise par exemple. Elles ne forment pas un mouvement. Elles sont peut-être la frange la plus précieuse de la religion. Aucune ne reçoit de titre.
+
+---
+
+## Lecture du monde
+
+Le Vael Kurash lit l'**Arrachement** comme un **affaiblissement collectif** des esprits — pas comme une catastrophe ponctuelle, mais comme un *refroidissement* du monde animé. La formule du clergé : *« Le monde s'est tu. Pas tout d'un coup. Par paliers. Et il continue de se taire. »* Cette lecture est la plus honnête que le clergé puisse formuler sans renier sa doctrine de la persistance. Elle conduit logiquement à la posture de l'**écoute prolongée** post-+142 : si Spiritus se tait, il faut écouter plus longtemps. Mais elle masque, plus qu'elle ne formule, la possibilité que certains esprits ne se taisent pas — qu'ils *cessent simplement d'être*.
+
+Les **Souffles cycliques** sont lus comme des **examens** que les esprits anciens (collectivement nommés Spiritus dans la doctrine officielle) imposent aux vivants. Chaque Souffle est une mesure : as-tu écouté, as-tu pris soin, as-tu honoré ? Cette lecture est la plus moralisante des grandes religions — et elle a pour effet pervers de faire de chaque malheur cosmique une faute des vivants. Le Cardinal de l'Arrachement, dans cette lecture, est *« le Test que tous les anciens ont échoué »* : formulation qui charge les morts d'une responsabilité écrasante, et qui laisse les vivants dans une dette qu'aucun rite ne peut solder.
+
+La **Polyphonie** est admise comme une donnée naturelle : il y a toujours plusieurs voix dans la forêt, plusieurs présences dans la pierre, plusieurs nappes dans la source. La religion ne s'en émeut pas. Elle a, en revanche, du mal à penser la polyphonie *humaine* — quand plusieurs traditions humaines disent des choses différentes des esprits, le clergé tend à considérer que les autres traditions *écoutent moins bien*. Cette posture est vécue par les autres religions comme une condescendance feutrée.
+
+Les **Cosmiques retirés** sont lus comme **présences fatiguées**. Pas en méditation (Caelumite). Pas en convalescence (Roteri). Pas en rêve (Vigili). En fatigue : c'est-à-dire dans une posture qui suppose qu'**ils reviendront** quand ils seront reposés. Cette lecture est, doctrinalement, la plus proche de l'Espérance Vide — sauf qu'elle s'applique aux entités, non aux fidèles. Le clergé n'admet pas qu'il s'agit d'une espérance. Il dit que c'est une *évidence d'écoute*. La distinction est mince. Quelques Vael'Kari des hautes terres, en privé, doutent.
+
+---
+
+## Une figure historique — Veshva des Cavernes (~+187 à +249 du Sillage)
+
+*Veshva-de-la-Lignée-de-la-Source-Bleue*, dite **Veshva des Cavernes**, est une Vael'Kari d'Alkaran morte il y a deux ans. Sa figure est encore controversée — on ne sait pas s'il faut la mémoriser comme une réformatrice, comme une apostate, ou comme une simple femme qui a passé trente ans à veiller les esprits que les autres avaient cessé d'entendre.
+
+Née dans une famille de bergers d'Alkaran, Veshva entre en initiation à treize ans, accomplit son passage des Cavernes de l'Écoute à dix-neuf, et devient une Vael'Kari reconnue à vingt-quatre. Pendant ses quinze premières années, elle pratique de manière exemplaire : veillées dans les sept Cavernes principales, formation d'apprentis, rédaction d'un *Carnet de Selvara* sur les nuances du silence-de-réponse — texte qui circule encore dans les hautes terres.
+
+À trente-neuf ans, elle entreprend ce qui deviendra son **Œuvre Tardive** : aller veiller, **seule et longuement**, les esprits qu'on disait *retirés*. Une source au nord d'Ulinor qu'aucun Vael'Kari ne visitait plus depuis vingt ans. Un sommet d'Alkaran où les Cavernes de l'Écoute donnaient sur des silences pleins. Un arbre de Selvara dont la lignée des veilleurs s'était éteinte. Veshva passe des semaines, parfois des mois, au pied de chaque présence affaiblie. Elle ne demande pas qu'ils répondent. Elle ne prétend pas qu'ils répondront. Elle veille.
+
+Pendant vingt-cinq ans, elle se déplace ainsi, et son enseignement aux apprentis change progressivement. Elle cesse de leur dire que les esprits *durent*. Elle leur enseigne, à voix basse, ce qu'elle appelle *« la veillée du mourant »* : *« on prie un esprit qui s'éteint comme on prie un vieillard sur le chemin — sans demander qu'il revienne, en disant juste que tu es là. »* Cette formulation est doctrinalement trouble : elle suggère que les esprits *s'éteignent*, ce que la doctrine refuse.
+
+Son passage est compliqué. Les lignées d'Alkaran la considèrent comme dangereuse mais ne la rejettent pas, par respect pour la qualité de ses veillées. À Gryndor, le clergé d'État la traite comme *« errante »* — euphémisme administratif pour ne pas avoir à reconnaître une autorité qu'on ne contrôle pas. Le Mouvement du Silence Égal tente une fois de la récupérer ; elle refuse, déclarant que *« le débat sur les fidèles n'est pas le débat important. Le débat important, c'est ce qu'on fait pour ceux qui ne peuvent plus parler. »*
+
+Veshva meurt en +249, à soixante-deux ans, au pied d'une pierre des hautes terres d'Alkaran que personne d'autre n'avait visitée depuis un demi-siècle. Une apprentie de longue date la trouve trois jours plus tard. Le rite d'exposition aérienne est respecté. Aucun nom n'est inscrit. Aucune cérémonie n'est tenue par le clergé d'État.
+
+Depuis sa mort, la *« veillée du mourant »* circule entre les apprenties qu'elle a formées — **sept ou huit femmes**, à peu près, qui ne se réclament pas explicitement de Veshva mais qui pratiquent comme elle a pratiqué. Le clergé officiel n'a pas pris position. La doctrine de la persistance est toujours enseignée. Les esprits, dans plusieurs vallées d'Alkaran, continuent de ne pas répondre. Quelques Vael'Kari y vont quand même.
+
+---
+
+## Cadre interne — Patterns
+
+> Encadré technique réservé aux rédacteurs. Ne jamais affleurer in-world.
+
+- **Piège Institutionnel dominant : Le Déni du Sablier.** Le Vael Kurash refuse doctrinalement la finitude possible des esprits qu'il vénère. La Loi de la persistance (« la pierre dure plus que toi ») est devenue un dogme de protection : elle empêche le clergé d'admettre que certaines présences ne reviendront pas. Le piège est *enraciné* — la doctrine ne lutte pas contre lui, elle le défend. Les Vael'Kari qui formulent l'extinction sont déplacés sans excommunication. La religion préfère continuer d'entendre des silences pleins plutôt que reconnaître des silences vides.
+- **Tension secondaire signalée par le brief : Tranchant → Effacement.** Conformément au cas spécial de la consigne, le Vael Kurash est constitué *par le refus* (refus de la cité, refus de la codification, refus de la hiérarchie entre esprits). Mais à force d'avoir refusé tous les seuils, il a perdu la capacité de tracer ses propres limites — d'où la dérive vers l'accueil sans seuil (veillées pour objets manufacturés, expansion floue de ce qui mérite vénération). Le Tranchant initial est en train de basculer dans l'Effacement par excès. Cette tension affleure dans la troisième ligne de friction interne. Elle reste subordonnée au piège dominant (Déni du Sablier) pour respecter la contrainte de variation entre les quatre religions du batch.
+- **Âge moral collectif majoritaire : La Loi.** Le Vael'Kari standard agit depuis une règle reçue par lignée (ne pas construire sur l'esprit, ne pas inscrire les noms, écouter avant de prier). Les hautes terres tiennent ces règles avec une discipline impressionnante, mais sans plus les interroger. Quelques figures (Veshva des Cavernes, ses apprenties) basculent vers le Principe en assumant la possibilité de l'extinction.
+- **Vertu Cachée affleurante : La Charge.** Ce qui peut être attrapé par un fidèle attentif, c'est la posture de **veiller ce qui ne reviendra peut-être pas**. Pas par espoir de retour, pas par devoir codifié, par capacité à porter ce qui s'éteint. Veshva incarne exactement cette vertu : elle veille des esprits sans demander qu'ils répondent, et meurt obscure. Ses apprenties ne reçoivent pas de titre. La Charge est là, et elle ne paie pas.
+- **Note de friction** : ne jamais transformer Veshva en mentor explicite. Sa formulation (« la veillée du mourant ») est doctrinalement trouble — elle ne fait pas système. Elle se transmet par exemple. Le lecteur doit pressentir, sans qu'on le formule, que la veillée des esprits affaiblis est plus juste que le déni officiel — mais sans aucune validation narrative.
 
 *Liens : [[00 - Système Religieux]] | [[Era 3a - Le Lien et les Empires]] | [[Le Souffle]] | [[Cosmologie]]*

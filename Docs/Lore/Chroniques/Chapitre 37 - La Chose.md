@@ -2,7 +2,7 @@
 tags: [lore, chronique]
 type: lore
 status: drafted
-last_review: 2026-05-02
+last_review: 2026-05-06
 needs_review_for: []
 ---
 # Chapitre 37 — La Chose Sous le Glacier
@@ -146,6 +146,14 @@ Je n'avais pour cela que la mémoire de mon corps : les vibrations que j'avais r
 
 Deux pulsations. Deux lieux. La même cadence — selon mon ressenti seul. Quelle conclusion en tirer, je ne le savais pas. Je pouvais seulement noter la coïncidence et ne pas la trancher.
 
+Je passai la page suivante et j'essayai d'écrire ce que je voyais. Je remplis quinze lignes — un raisonnement complet, du *je formule l'hypothèse* jusqu'au *donc il est probable que*, avec les renvois aux observations précédentes, la rigueur des cahiers de Kharazir, la grammaire d'un cartographe qui pose un système. Je relus ma page. Je pris la plume et je la barrai d'un trait — un trait long, oblique, du haut à gauche au bas à droite, qui couvrait toutes les lignes en les laissant lisibles dessous. Je n'effaçai pas. Je voulais que la barre se voie : que celui qui ouvrirait ce cahier après moi sache qu'il y avait eu là un raisonnement, et qu'il avait été rayé sans être remplacé.
+
+Au-dessous, je n'écrivis qu'une ligne : *La barre vaut mieux que la phrase.*
+
+Puis encore, plus bas : *[barré ce soir, jour 835. Le cadre ne tient pas. Je n'ai pas le mot pour ce qui ne tient pas — je note qu'il manque.]*
+
+Je posai la plume. Je ne récrivis pas le raisonnement. Je laissai la page comme elle était.
+
 ---
 
 Je suis redescendu du surplomb dans l'obscurité presque complète, guidé par la mémoire du chemin et par quelque chose d'autre que je ne nommerai pas, et j'ai marché jusqu'à l'abri de pierre où j'avais dormi la veille. Je n'ai pas allumé de feu — pas pour économiser le combustible, mais parce que la nuit de Cestra avait une qualité particulière que la lumière artificielle aurait détruite.
@@ -172,13 +180,13 @@ J'ai mangé dans l'obscurité — du pain dur et du fromage sec que Borela m'ava
 
 Je pensais à Borela disant *il est peut-être passé à travers*.
 
-Et je pensais à Nysaria, au portail dont j'avais entrevu la forme — quelque chose que je n'avais pas su nommer sur le moment, une ouverture dans l'espace qui n'était pas une porte ordinaire mais que j'avais ressentie comme une possibilité, une invitation, un endroit où le monde acceptait qu'on change de registre. Et au moine de Baelor qui m'avait glissé un papier avec un seul mot.
+Et je pensais à Nysaria, au portail dont j'avais entrevu la forme — quelque chose que je n'avais pas su nommer sur le moment, une ouverture dans l'espace qui n'était pas une porte ordinaire mais que j'avais ressentie comme une possibilité, une invitation, un endroit où le monde acceptait qu'on change de registre. Et au moine de Baelor qui m'avait tendu un parchemin avec un seul mot.
 
-Un mot que je gardais maintenant dans la poche intérieure de mon manteau, contre ma poitrine, depuis des centaines de jours.
+Un mot que je gardais maintenant dans la poche intérieure de mon manteau, contre ma poitrine, depuis trente-cinq jours.
 
-Le mot était : *continue*.
+Le mot était : *Dessous*.
 
-Je l'ai relu dans l'obscurité, de mémoire, sans avoir besoin de sortir le papier. Puis j'ai fermé mon carnet. Puis j'ai posé la main à plat sur la roche du sol, et j'ai senti la pulsation du Mont Jumeau traverser la pierre et remonter dans ma paume comme un pouls.
+Je l'ai relu dans l'obscurité, de mémoire, sans avoir besoin de sortir le parchemin. Puis j'ai fermé mon carnet. Puis j'ai posé la main à plat sur la roche du sol, et j'ai senti la pulsation du Mont Jumeau traverser la pierre et remonter dans ma paume comme un pouls.
 
 J'ai laissé ma main là un long moment.
 
@@ -199,5 +207,7 @@ Il n'y avait que deux lignes.
 Et en dessous, après un espace : *« Si tu lis ceci, tu as fait le même chemin. Tu es prêt. »*
 
 Je suis resté longtemps avec la feuille entre les mains. Borela avait eu la délicatesse de disparaître dans l'atelier.
+
+À un moment, sans que je m'en sois rendu compte tout de suite, le papier était humide à un endroit. Un seul. Je ne notai pas autre chose.
 
 Par la fenêtre, le glacier de Cestra réfléchissait la lumière des étoiles.

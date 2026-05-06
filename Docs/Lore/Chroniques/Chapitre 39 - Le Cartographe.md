@@ -2,7 +2,7 @@
 tags: [lore, chronique]
 type: lore
 status: drafted
-last_review: 2026-05-02
+last_review: 2026-05-06
 needs_review_for: []
 ---
 # Chapitre 39 — Le Cartographe Sans Carte
@@ -83,6 +83,8 @@ Je lui donnai les onze cahiers suivants.
 ---
 
 Elle lut pendant trois jours. Je savais qu'elle lisait parce qu'Ysolde me tenait informé — les deux femmes travaillaient ensemble depuis des années, une confiance de bibliothèque, le genre qui se construit dans les marges et les notes de bas de page plutôt que dans les conversations directes. Je passai ces trois jours à compléter mes notes, à récrire les parties des cahiers qui avaient souffert de la traversée en mer, à dresser un résumé — une synthèse de vingt pages qui rassemblait les quatre mystères, leurs recoupements possibles, l'hypothèse d'une famille d'écritures pré-Arrachement, l'hypothèse d'anciennes constructions reliées, et plusieurs lectures concurrentes du même ensemble de signes — celles que j'avais entendues d'Ulinor, de Cestra, de Lumasar, de Solena, de Baelor — sans que j'en privilégie une seule. J'incluais aussi des notes sur ce que j'avais commencé à comprendre des Déliés, distinctes des thèses doctrinales courantes.
+
+Le travail était, dans son détail, exactement le travail qu'un archiviste de Kharazir aurait fait sept ans plus tôt sur un autre dossier. Vérifier les renvois. Repasser à l'encre les passages effacés. Caler la marge. Numéroter les pages. Tenir une liste des sources concurrentes en tête de chapitre et l'amender quand l'une d'elles devenait fragile. Je faisais ce que j'avais toujours fait depuis ma première année à la Guilde — et je le faisais ces jours-ci avec une tranquillité que je ne me souvenais pas d'avoir eue alors. Je ne cherchai pas la cause de cette tranquillité. Je continuai de numéroter les pages.
 
 La synthèse ressemblait à quelque chose d'impossible à porter seul.
 

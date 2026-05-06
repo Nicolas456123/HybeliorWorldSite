@@ -2,7 +2,7 @@
 tags: [lore, chronique]
 type: lore
 status: drafted
-last_review: 2026-05-02
+last_review: 2026-05-06
 needs_review_for: []
 ---
 # Chapitre 25 — Les Îles Flottantes
@@ -76,6 +76,28 @@ Je sortis mon journal après le repas et notai la phrase sans commentaire. J'y a
 
 ---
 
+Avant Varennis, il y eut Calenne.
+
+Je l'avais croisée dès le second matin, au pied du dernier escalier de cristal qui sépare la ville basse de la halle au sel — une femme assise contre la borne, les jambes pliées sous elle, sans paume tendue. Elle ne demandait pas. Elle était là, c'est tout, dans une posture qui n'admettait ni la mendicité ni son contraire, et les passants qui descendaient des piliers la contournaient avec la précision réflexe qu'on a pour les obstacles connus. Personne ne lui parlait. Elle ne regardait personne. La cinquantaine, peut-être plus — la peau d'Astravia bleuit légèrement sous l'aethérite et brouille les âges. Une robe d'un bleu mat qui avait été belle. Pas de chien, pas d'enfant, pas d'écuelle.
+
+Je la croisai trois fois en quatre jours. Je finis par poser une question, contre ma règle qui veut qu'on ne dérange pas les gens qui ne demandent rien.
+
+Je lui demandai si elle avait été d'en haut.
+
+Elle me regarda — pas avec hostilité, pas avec gratitude, avec la lassitude de quelqu'un qui a vu trois cents fois cette même question dans la bouche de gens différents.
+
+Elle dit : *Mon frère, oui. Il a passé l'épreuve à dix-neuf ans, il est entré au Conseil à vingt-huit. Il a écrit des lettres pendant six ans. Plus depuis. Si je m'assieds ici, c'est pour qu'il me voie passer un jour s'il redescend. Il n'a pas redescendu.*
+
+Je lui demandai si elle avait besoin de quelque chose. La phrase fut maladroite et elle l'entendit comme telle.
+
+Elle dit : *J'ai besoin que vous arrêtiez de poser cette question dans cet ordre.* Puis, sans changer de ton : *Donnez-moi la pièce que vous comptez me donner et passez votre chemin. Vous me ferez moins perdre de temps.*
+
+Je lui donnai la pièce. Elle la prit sans me regarder. Elle dit : *Mon frère a écrit dans sa dernière lettre que les pierres de Galdryn pesaient plus lourd qu'avant. Il l'a écrit en marge, comme quelqu'un qui parle de la pluie. Je ne sais pas pourquoi je vous le dis. Vous n'aimerez pas plus l'écouter parce que ce sera moi qui vous l'ai dit.*
+
+Elle avait raison. Je notai la phrase quand même — parce que j'ai noté plus pauvre que cela, et parce que la marge d'une lettre de Galdryn comptait, pour mes raisons à moi, plus que ce qu'elle compterait jamais pour Calenne. C'est cette logique qui me restait coincée dans la gorge en remontant à l'auberge. Je ne la reverrais pas — la quatrième fois, quelques jours plus tard, je passai par l'escalier voisin pour ne pas avoir à choisir entre m'arrêter et passer. C'est tout ce que j'écris sur ce point.
+
+---
+
 Ce fut Varennis qui vint me chercher.
 
 Non — il serait plus exact de dire que ce fut Varennis qui se laissa trouver par moi, parce que je comprends maintenant, deux jours après notre rencontre, que rien dans ce que j'ai vécu ici n'était tout à fait accidentel. Pas dans le sens d'un complot — je ne crois pas aux complots aussi sophistiqués que ceux que l'adversité parfois dessine après coup. Dans le sens d'une préparation. Quelqu'un avait voulu que je sois là. Et ce quelqu'un m'avait attendu.
@@ -126,7 +148,11 @@ Je ne lui demandai pas comment il le savait. La Carte du Silence n'est pas invis
 
 Je lui dis que je réfléchirais.
 
-Je réfléchis pendant une heure, seul dans ma chambre d'auberge avec la lueur bleue sur les murs. Puis j'écrivis dans mon journal : *Galdryn demain. Le dessous encore.*
+Je réfléchis pendant une heure, seul dans ma chambre d'auberge avec la lueur bleue sur les murs.
+
+Varennis n'avait pas demandé que je vérifie ma carte — il avait demandé que je regarde pour lui. La distinction était nette. Mais ce que j'aurais à faire, en bas, c'était regarder ; et regarder, pour un cartographe qui transporte une carte, ne se sépare pas de la vérification de cette carte. Il le savait. Je le savais. Nous nous servions l'un de l'autre selon des besoins qui n'étaient pas exactement les mêmes, et cela suffisait à nous deux.
+
+J'écrivis dans mon journal : *Galdryn demain. Le dessous encore.*
 
 ---
 

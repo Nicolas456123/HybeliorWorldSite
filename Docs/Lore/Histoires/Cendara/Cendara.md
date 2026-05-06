@@ -1,11 +1,11 @@
 ﻿---
 tags: [lore, histoire, cendara]
-type: lore
-status: drafted
-last_review: 2026-05-02
+type: histoire
+status: canon
+last_review: 2026-05-06
 needs_review_for: []
 ---
-# Histoires de Cendara
+# Histoires de Cendara — Royaume de la Grande Île
 
 > *Chaque ville a ses cicatrices. Voici celles qui ne guérissent jamais.*
 

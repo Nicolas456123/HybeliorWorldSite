@@ -2,7 +2,7 @@
 tags: [lore, chronique]
 type: lore
 status: drafted
-last_review: 2026-05-02
+last_review: 2026-05-06
 needs_review_for: []
 ---
 # Chapitre 40 — Les Murs Tombent
@@ -142,7 +142,7 @@ Puis j'écrivis une dernière note. La dernière note du voyage. Pas une conclus
 
 *Plusieurs voix me disent que ce que le monde oublie, il finit par réapprendre, et que ce qui a été séparé cherche à se rejoindre. Je ne sais pas si elles ont raison. Je sais que des routes anciennes existent encore sous nos pieds — j'en ai vu les marques —, et que plusieurs traditions, chacune à sa façon, leur prêtent une destination. Je ne suis pas le premier à avoir suivi ce chemin, et je ne serai pas le dernier. Ce que j'ai rapporté n'a pas besoin que je le défende seul — il a besoin que je le dépose là où d'autres peuvent le ramasser, le contester, et le compléter.*
 
-*Mon père est peut-être de l'autre côté d'une frontière que je ne suis pas encore prêt à franchir. Peut-être qu'il attend. Peut-être que de l'autre côté, le temps fonctionne différemment et qu'il n'attend pas du tout — qu'il est simplement là, dans un lieu où le avant et l'après n'ont pas la même forme que dans ce journal.*
+*Mon père est peut-être de l'autre côté d'une frontière que je ne suis pas encore prêt à franchir. Peut-être qu'il attend. Peut-être que de l'autre côté, le temps fonctionne différemment et qu'il n'attend pas du tout — qu'il est simplement là, dans un lieu où le avant et l'après n'ont pas la même forme que dans ce journal. Peut-être aussi qu'il est mort d'une pneumonie d'hiver à quarante-deux ans, et que les crochets de ma table à dessin sont la seule chose qu'il m'ait laissée. Les trois lectures tiennent ensemble dans la même page sans se contredire, parce qu'aucune des trois ne peut, depuis la place où je suis, être confirmée ni récusée. Je ne vais pas trancher. Ce n'est pas mon travail de cartographier ce que je ne peux pas voir.*
 
 *Je pose le carnet. Non pas parce que le voyage est fini, mais parce qu'il change de nature. La prochaine étape ne s'écrit pas à l'avance.*
 
@@ -161,3 +161,15 @@ Ce que j'écrivis dans la marge du dix-septième cahier ne fut pas une sentence 
 Et moi, debout dans cette chambre de Kharazir avec mes dix-sept cahiers sur la table et le rythme dans les os et le papier bruni de mon père dans la poche contre ma poitrine, je ne prétendais plus savoir ce qui m'attendait au bout. Je savais, en revanche, vers où je devais marcher pour le rencontrer.
 
 Cela suffisait.
+
+Je rangeai le carnet sur le dessus de la pile. Je ne le rouvris pas ce soir-là. Je ne le rouvris pas non plus le lendemain. La pile resta sur la table pendant les jours qui suivirent, dans la chambre du quartier des Passeurs, à côté des restes du matin et de la lampe que j'oubliais d'éteindre. Je sortais marcher. Je revenais. Je mangeais avec Omarin une fois, et ensuite encore une fois. Je commençai à écrire à Mira Dasthen une lettre que je ne finis pas la première semaine. Je n'écrivis rien dans le carnet — non par décision, juste parce que la main n'allait plus vers lui. Une habitude qui s'éteint sans drame, comme s'éteint une lampe qu'on a oublié d'alimenter.
+
+Le carnet dix-sept restait ouvert à la page de la dernière note. Il restait ensuite, après la dernière note, quatorze pages blanches.
+
+Je laissai les pages blanches.
+
+---
+
+> *Note du copiste — Prismalith, l'année qui suivit le dépôt.*
+>
+> *Cette copie a été établie d'après les dix-sept cahiers déposés par Sorin Valthen aux Archives de l'Académie, sur instruction du Tribunal et avec l'aide de l'archiviste Ysolde. Une seconde copie a été remise à un certain Omarin de Velithis, herboriste à Rukhsar, à la demande de l'auteur. Le présent volume reproduit les cahiers dans leur ordre, avec leurs notes de marge, leurs ratures et leurs hésitations. Les pages blanches du dix-septième cahier ont été reproduites comme blanches, à la demande de l'auteur ; cette demande, transmise par l'archiviste, semblait importante à l'auteur sans qu'il ait jugé utile d'en donner la raison. Nous l'avons respectée. Le copiste n'a rien à ajouter.*

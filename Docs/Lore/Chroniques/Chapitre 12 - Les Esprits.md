@@ -2,7 +2,7 @@
 tags: [lore, chronique]
 type: lore
 status: drafted
-last_review: 2026-05-02
+last_review: 2026-05-06
 needs_review_for: []
 ---
 # Chapitre 12 — Les Esprits des Hautes Plaines
@@ -381,4 +381,4 @@ La Carte du Silence.
 
 *J'ai des points. Des lignes. Une convergence. Et la conviction que la convergence est la forme de quelque chose.*
 
-*Pour un cartographe, c'est suffisant pour partir.*
+*Pour un cartographe, c'est suffisant pour partir. Je note pour mémoire qu'un point convergent dépend toujours du choix du centre. Je n'ai pas encore vérifié si je tiens ce centre par méthode ou par habitude. Cela attendra.*

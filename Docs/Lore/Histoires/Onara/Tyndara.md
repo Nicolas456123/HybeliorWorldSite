@@ -2,7 +2,7 @@
 tags: [lore, histoire, onara]
 type: lore
 status: drafted
-last_review: 2026-05-02
+last_review: 2026-05-06
 needs_review_for: []
 ---
 # Histoires de Tyndara
@@ -114,6 +114,38 @@ Un de ses collegues lui demanda un jour d'ou venait cette habitude du silence. I
 "Et lui, comment avait-il appris ?"
 
 Il ne savait pas. Beln etait mort sans le dire. Mais dans la salle des negociations de la Guilde, une plaque porte maintenant une seule instruction : "Trois secondes."
+
+---
+
+## Eryndoris --- "Le Comptable des Disparus"
+
+Selvas Morn comptait les morts en marge.
+
+Sa fonction officielle, à la Capitainerie d'Eryndoris, était de tenir le registre des cargaisons. Tonnes de poissons salés, ballots de filets, barils de saumure, lots de bois pour les chantiers de Thalorn. Il était bon. Trente-trois ans de service sans une erreur de comptage. La Guilde Maritime le citait en exemple aux apprentis.
+
+Ce qu'il faisait en plus, personne ne le lui avait demandé.
+
+Chaque semaine, quand un capitaine signalait un homme perdu en mer, le registre officiel inscrivait : *"perte humaine — 1"*, dans une colonne à part, et passait à la cargaison. Selvas, lui, demandait le nom. Pas pour la Guilde — pour son carnet. Un carnet ordinaire, relié de cuir brun, qu'il tenait à part de tout. Le nom du marin. Son port d'origine. L'année de naissance, si le capitaine la connaissait. Le nom de sa femme, si elle attendait à Eryndoris. Le nombre d'enfants, si on le savait.
+
+Les capitaines trouvaient cela bizarre au début, puis touchant, puis normal. On finit par lui apporter les noms sans qu'il ait à les demander. *"Pour le carnet de Selvas."* Personne d'autre n'aurait su ce que cela voulait dire.
+
+Il ne montra le carnet à personne. Pas même à sa fille Lirenn, qui supposait que son père tenait ses comptes domestiques avec autant d'application que les comptes de la Capitainerie. Quand on lui demanda, une fois, par curiosité polie, à quoi il occupait ses soirées, il dit : *"Je note ce qui ne s'inscrit pas ailleurs."* On comprit qu'il s'agissait de poésie ou d'une excentricité d'homme âgé. On n'insista pas.
+
+Selvas vécut petitement. Une chambre louée près du port. Un repas chaud au Trois Filets, l'auberge des dockers, où on l'appelait *"l'homme qui écoute"* parce qu'il ne parlait jamais de lui mais retenait ce qu'on disait. Les jeunes comptables de la Capitainerie le trouvaient maniaque — il vérifiait trois fois ce que les autres vérifiaient une — et les anciens le respectaient sans pouvoir dire pourquoi exactement.
+
+Il mourut en l'an 249, d'une bronchite hivernale, dans sa chambre louée, à soixante-six ans. La Guilde Maritime n'envoya pas de représentant à l'enterrement. Trois capitaines vinrent. Ils ne se connaissaient pas entre eux. Ils ne se présentèrent pas non plus. Le pasteur de Via Ventus dit la formule du Retour du Vent et personne n'ajouta un mot.
+
+Lirenn vida la chambre la semaine suivante. Elle trouva les carnets — trente-trois, un par année, alignés sur l'étagère du dessous. Elle ouvrit le premier au hasard. Une page :
+
+*"An 217. Ben Korel, d'Eryndoris. 38 ans. Femme : Tessa. Trois enfants. Disparu au large des Pointes Noires. Le capitaine dit qu'il ne criait pas en tombant — il regardait la mer comme on regarde un visage."*
+
+Elle referma le carnet. Elle pleura debout, une heure, sans s'en rendre compte. Puis elle prit les trente-trois carnets et marcha jusqu'à Celnaris, à la Guilde Maritime, où une comptable qu'on lui avait dit recevoir ce genre de chose tenait ses propres registres.
+
+Mira la regarda, regarda les carnets, ne posa pas de question. Elle dit seulement : *"Votre père a fait du bon travail."* Et elle accepta les carnets.
+
+Les noms de Selvas Morn alimentent encore, sous pseudonyme, les rapports que Mira publie dans la gazette maritime. Aucun marchand de Tyndara ne sait que les statistiques qu'on lui transmet une fois par trimestre — les moyennes de pertes par compagnie, par route, par saison — sont bâties sur trente-trois années de soirées d'un homme qui n'avait pas de mandat.
+
+Sa pierre tombale, à Eryndoris, dit seulement : *"Selvas Morn, comptable. Il a noté."* Lirenn a payé la pierre. Elle n'a pas su quoi écrire d'autre.
 
 ---
 

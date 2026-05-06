@@ -2,7 +2,7 @@
 tags: [lore, chronique]
 type: lore
 status: drafted
-last_review: 2026-05-02
+last_review: 2026-05-06
 needs_review_for: []
 ---
 # Chapitre 16 — Les Yeux Saisonniers
@@ -331,6 +331,8 @@ Lu ensemble — lu d'une traite, depuis le début, avec le recul de trois cents 
 Quelque chose dans la trame du Pacte — ce que la Catena Fracta interprète, à sa façon, comme la preuve qu'on peut s'en délier — semble vibrer autrement depuis environ deux ans, probablement plus longtemps selon des témoins dont la mémoire remonte plus loin que les humains ordinaires. Et personne — pas les bardes de Thalmaris, pas les druides d'Avalor, pas les marchands d'Haldria — personne ne regarde l'ensemble.
 
 Sauf peut-être moi.
+
+Je m'arrête sur ces trois mots et je les regarde. Je les ai écrits sans hésitation. Ils sont précisément le genre de phrase qu'un homme qui voyage trop longtemps seul finit par penser, et que le carnet enregistre sans contrepoids. Je les laisse — barrer ce qui est venu spontanément serait pire que de le laisser. Mais je note, à côté, que la formule contient deux affirmations, et que la première (*personne ne regarde l'ensemble*) n'est pas démontrée, c'est seulement ce que je crois depuis ma position.
 
 Je ne sais pas si ça me qualifie pour quoi que ce soit. Je suis cartographe et exilé — je n'ai ni l'autorité du barde, ni le don du druide, ni la sagesse de l'Archidruide. J'ai un carnet plein de points et l'habitude de trouver les lignes qui les relient.
 

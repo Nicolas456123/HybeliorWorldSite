@@ -1,13 +1,16 @@
 ﻿---
-tags: [lore, histoire, galenor]
-type: lore
-status: drafted
-last_review: 2026-05-02
+tags: [lore, histoire, galenor, seraphia]
+type: histoire
+status: canon
+last_review: 2026-05-06
 needs_review_for: []
 ---
 # Histoires de Seraphia
 
-> *Chaque ville a ses cicatrices. Voici celles qui ne guerissent jamais.*
+> *Chaque ville a ses cicatrices. Voici celles qui ne guérissent jamais.*
+
+> *Sept arts, sept disciplines, sept manières de vénérer. Et, glissés dans les marges, sept silences que personne ne sait classer.*
+> *— Note anonyme, Académie des Sept Arts, Althior, env. an 230.*
 
 ---
 
@@ -108,3 +111,57 @@ Elle entra a l'ecole a trente ans, la plus vieille etudiante de son annee. Elle 
 Les critiques appelaient ca "une profondeur inhabituelle". Lyra, quand on le lui disait, souriait et ne repondait pas.
 
 Elle savait d'ou venait la profondeur.
+
+---
+
+## Otharis — « Les Mains qui ne Lisent Pas »
+
+À Otharis, la règle fondatrice est simple, et personne ne l'a jamais discutée publiquement : les moines-copistes ne lisent pas ce qu'ils copient.
+
+Les visiteurs étrangers — surtout les érudits de Lumasar — trouvent cela absurde. Comment peut-on copier sans comprendre ? Les moines, quand on leur pose la question, répondent qu'au contraire, *comprendre corrompt la main*. Un moine qui *sait* ce qu'il transcrit fait des choix invisibles : il appuie un peu plus là où le texte lui plaît, allège là où il le trouble, embellit là où sa propre dévotion le pousse. La main qui ne lit pas est plus loyale au texte que la main qui lit.
+
+Aspena n'avait jamais lu un de ses manuscrits. Pas par manque de capacité — elle savait lire — par discipline. Pendant trente ans, elle copia, sans rien savoir.
+
+Puis, à cinquante ans, elle reçut commande d'un manuscrit qu'elle reconnut, à mi-page, comme la copie d'un livre que sa propre mère avait écrit avant de mourir. Un livre que sa famille avait perdu. Un livre dont elle avait, enfant, entendu sa mère lire à voix haute des fragments — qu'elle n'avait jamais retrouvés.
+
+Aspena hésita. Continuer la règle, c'était transcrire un livre dont elle reconnaissait *les phrases* sans pouvoir s'y arrêter. Briser la règle, c'était déshonorer trente ans de discipline.
+
+Elle continua. Elle copia jusqu'au bout, sans relire, sans s'arrêter, sans s'attarder. Sa main tremblait à certaines pages — celles qui, elle le devinait, devaient contenir les phrases qu'elle aurait voulu retenir. Elle ne les retint pas. Le manuscrit fut envoyé à un commanditaire de Meridia. Elle n'en fit pas de copie pour elle.
+
+À la fin de sa vie, on lui demanda si elle regrettait. Elle dit non. Puis elle dit : *« Ma main connaît le livre maintenant. C'est suffisant. »* Elle mourut deux ans plus tard, sans avoir relu sa mère.
+
+---
+
+## Velynor — « Ce que Valdren ne Voulut Pas Peindre »
+
+Le Grand Tableau d'Althior a sa partie blanche. Tout Seraphia le sait. Personne ne sait ce que Valdren faisait, dans son atelier de Velynor, après avoir refusé de la finir.
+
+On l'a su trois jours après sa mort, en l'an 238, quand sa logeuse Marisa entra dans la grange voisine où il avait entreposé ses dernières œuvres. Plusieurs centaines de portraits. Tous des paysans de Velynor et des environs. Tous des gens qu'il avait connus, peints, et offerts gratuitement à leurs familles — parfois en échange d'un repas, parfois sans contrepartie.
+
+Sur la dernière toile inachevée — un portrait du fils du forgeron, tué dans un accident l'année précédente — Valdren avait laissé un visage sans yeux. Il avait travaillé tout le tour, le nez, les lèvres, les cheveux, les épaules. Les yeux n'étaient pas peints. Marisa, qui n'était pas peintre, comprit pourquoi : il n'avait pas pu décider quel regard donner à un mort.
+
+Elle posa la toile contre le mur. Elle fit brûler une partie des toiles cet hiver-là, pour le chauffage — elle n'avait pas le bois. Elle conserva celles qu'elle pouvait nourrir. Le portrait inachevé du fils du forgeron, elle le garda. Elle le mit dans sa propre chambre, le visage tourné vers le mur, parce qu'elle ne supportait pas de croiser un regard qui n'était pas peint.
+
+Cinquante ans plus tard, un érudit d'Althior, en visite à Velynor pour étudier la fresque dans une lointaine perspective, trouva le portrait chez la petite-fille de Marisa. Il proposa de l'acheter. Elle refusa. Il proposa une fortune. Elle refusa.
+
+*« Si on le vend, dit-elle, il devient une œuvre. Tant qu'il est ici, il reste un visage. »*
+
+L'érudit ne comprit pas tout de suite. Il revint trois ans plus tard. Il proposa, cette fois, de simplement noter dans ses propres archives qu'un tel portrait existait. Elle accepta. Il l'a fait. La note est dans les marges d'un catalogue universitaire que personne ne consulte.
+
+---
+
+## Esaridia — « Le Marchand qui Pleura sur sa Propre Vente »
+
+Esaridia est la ville où l'art se vend. Le Conclave la condamne publiquement et en perçoit la dîme. Les artistes la méprisent et y exposent. Les collectionneurs s'y arrachent les pièces dont les Tables disent qu'elles ne valent pas grand-chose.
+
+Renoth y vendait les œuvres de sa famille — deux générations de sculpteurs sur bois, son père et son grand-père. Pas un grand artiste lui-même, juste un héritier de talent. Il tenait galerie au Bazar des Éclats, dans la rue qui mène à la place principale. Les sculptures, bien faites mais pas exceptionnelles, partaient à des prix raisonnables.
+
+À cinquante-trois ans, Renoth reçut commande d'un acheteur étranger pour la pièce maîtresse de son grand-père — une statue d'enfant, taillée dans un seul bloc de chêne, que la famille n'avait jamais vendue par scrupule. La somme proposée était colossale. Renoth accepta sans réfléchir. Il avait des dettes.
+
+Le jour où l'acheteur vint chercher la statue, Renoth la lui livra avec un sourire de marchand. L'acheteur paya, fit charger la statue, partit. Renoth referma sa galerie cet après-midi-là, prétextant une migraine, et resta seul au comptoir.
+
+Il pleura jusqu'au soir. Pas d'éclat — un pleur lent, fluide, qui semblait ne pas venir de lui mais d'une réserve qu'il ne savait pas avoir. Il pleura la statue. Il pleura son grand-père qu'il n'avait pas connu. Il pleura son père, mort de trop de bois et trop d'alcool dix ans plus tôt. Il pleura ce qu'il était devenu — un homme qui vendait ce qu'il aurait dû garder.
+
+Le lendemain, il rouvrit la galerie. La somme avait soldé ses dettes et lui restait largement de quoi vivre. Il continua de vendre. Il ne refusa aucun acheteur. Mais à partir de ce jour-là, à chaque vente importante, il fermait la galerie une heure et restait seul au comptoir.
+
+Ses voisins finirent par croire qu'il priait. Renoth ne les détrompa pas. La distinction entre prier et pleurer, à Seraphia, n'est pas toujours claire.

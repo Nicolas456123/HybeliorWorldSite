@@ -1,14 +1,20 @@
 ﻿---
-tags: [lore, pays, alkaran]
-type: lore
-status: drafted
-last_review: 2026-05-02
+tags: [lore, pays, alkaran, nation]
+type: nation
+status: canon
+last_review: 2026-05-06
 needs_review_for: []
 ---
 # Altram — Le Trône de Fer et de Pierre
 
 > *« En Altram, on ne naît pas forgeron — on le devient dans la douleur, le feu et l'acier. »*
-> — Proverbe d'Altram
+> — Proverbe d'Altram, attribution flottante (le maître-forgeron qui prétend l'avoir formulé varie selon l'atelier où l'on demande)
+
+> *« On a renversé Korvath avec un marteau. Voilà pourquoi nous gardons les marteaux. Pas pour les utiliser — pour qu'on n'oublie pas qu'on l'a fait. »*
+> — Theron l'Enclume, fondateur de la Monarchie Éclairée, parole rapportée trois siècles après sa mort par un greffier de Trelios qui n'en garantissait pas la véracité
+
+> *« Le Conseil des Maîtres ne décide rien. Il ratifie ce que les ateliers ont déjà décidé. Et les ateliers ratifient ce que les pères avaient décidé. C'est ce qu'on appelle, ici, l'éclairement. »*
+> — Marge d'un cahier de comptable de Roseltar, an 247
 
 ---
 
@@ -42,11 +48,25 @@ Les mines s'effondrèrent sous la cadence inhumaine. Des villages entiers furent
 
 ### La Rébellion des Forgerons
 
-La révolte ne vint pas des soldats mais des ateliers. Le maître-forgeron Theron l'Enclume organisa une grève silencieuse : plus une seule arme, plus un seul outil ne sortit des forges d'Altram pendant trois lunes. L'armée de Korvath, incapable de réparer ses équipements, s'effondra face à une incursion de pillards de Skaldoria. Le peuple se souleva.
+La révolte ne vint pas des soldats mais des ateliers. Le maître-forgeron Theron l'Enclume organisa une grève silencieuse : plus une seule arme, plus un seul outil ne sortit des forges d'Altram pendant trois lunes. L'armée de Korvath, incapable de réparer ses équipements, s'effondra face à une incursion de pillards venus du nord (les chroniqueurs ultérieurs ont fixé l'origine sur Skaldoria, ce que les chroniqueurs skaldori contestent — mais qu'aucune cour d'Altram n'a jamais voulu réviser). Le peuple se souleva.
 
 Korvath fut renversé non par l'épée, mais par le marteau. Theron refusa la couronne et instaura le principe de la **Monarchie Éclairée** : le roi règne, mais le Conseil des Maîtres-Artisans — composé des plus grands forgerons, mineurs et architectes du royaume — détient un droit de veto sur toute décision touchant au peuple.
 
-Ce système perdure à ce jour.
+Ce système perdure à ce jour. **Trois siècles plus tard, il a un coût qu'Altram ne nomme pas.**
+
+### La Dérive du Code (an 100 environ — encore en cours)
+
+L'histoire que Trelios raconte d'elle-même s'arrête généralement à la Rébellion. Ce qui s'est passé ensuite, sur trois siècles, est moins glorieux et beaucoup moins enseigné.
+
+La Charte initiale de Theron l'Enclume tenait sur dix-sept articles — un par grand métier reconnu (forgeron, mineur, architecte, fondeur, polisseur, etc.). Elle était lisible. Un apprenti pouvait la réciter à la fin de sa septième année.
+
+Très vite, des cas particuliers ont surgi. Que faire quand un fils refuse le métier du père ? Comment arbitrer entre deux ateliers qui revendiquent le même alliage ? Quel statut pour un forgeron étranger qui s'installe à Trelios ? Comment classer une innovation qu'aucun article n'avait prévue ? Le Conseil des Maîtres a tranché — au cas par cas, avec rigueur, dans une fidélité scrupuleuse à *l'esprit du métier*. Chaque décision a été archivée dans le **Livre de Pierre** (registre officiel taillé dans des dalles de granit empilées dans la salle du Conseil de Trelios).
+
+En l'an 100, le Livre de Pierre comptait deux cents dalles. En 200, deux mille. En 251, plus de quatorze mille. Les Maîtres ne décident plus rien sans *« consulter le Livre »* — c'est-à-dire sans envoyer un greffier vérifier qu'aucune décision antérieure ne contredit la décision présente. Quand une contradiction est trouvée, on tranche par hiérarchie d'ancienneté : la dalle la plus ancienne l'emporte.
+
+Le résultat est qu'Altram applique aujourd'hui des décisions prises par des forgerons morts depuis trois siècles, dans des contextes qu'aucun Maître vivant ne se souvient. Les ateliers, eux, ne contestent presque jamais. **Contester reviendrait à insulter l'enclume de Varnok.** L'argument n'est jamais formulé ainsi ; il n'a pas besoin de l'être.
+
+Le prince Brennan, fils du roi actuel Aldric IV, a tenté à deux reprises de proposer une *« relecture »* du Livre. Sa dernière proposition a été enterrée par le Conseil — sans débat, par le procédé classique : on a renvoyé le texte à *« examen approfondi »*, et l'examen approfondi n'a jamais commencé. Brennan, depuis, négocie en secret avec Mosrack pour des machines de guerre qui rendraient le Livre obsolète d'un coup. Son père sait. Son père étouffe. Mais il ne peut pas faire plus — parce que le Conseil ne peut être convaincu *par un argument*, le Conseil ne peut être convaincu que *par une dalle plus ancienne*.
 
 ---
 
@@ -241,9 +261,55 @@ Région méridionale plus tempérée, connue pour ses carrières de pierre préc
 
 ## Secrets et intrigues
 
-- **La Veine Noire** : Sous les mines les plus profondes de Martelios, les mineurs ont découvert un métal inconnu, noir comme la nuit et impossible à fondre avec les techniques actuelles. Le roi a fait sceller la galerie et interdit d'en parler. Les rumeurs des tavernes proposent toutes les lectures possibles — minerai des premiers âges, résidu d'un Souffle ancien, et même, dans une version que les prêtres réprouvent, un fragment cristallisé qu'ils nomment « le sang d'un Éternel », sans que personne n'avance jamais ce que cela voudrait dire.
+- **La Veine Noire** : Sous les mines les plus profondes de Martelios, les mineurs ont découvert un métal inconnu, noir comme la nuit et impossible à fondre avec les techniques actuelles. Le roi a fait sceller la galerie et interdit d'en parler. Les rumeurs des tavernes proposent toutes les lectures possibles — minerai des premiers âges, résidu d'un Souffle ancien, et même, dans une version que les prêtres réprouvent, un fragment cristallisé qu'ils nomment « le sang d'un Éternel », sans que personne n'avance jamais ce que cela voudrait dire. Le voyageur **Sorin Valthen**, de passage à Trelios en l'an 252, a noté dans son cahier que *« le Fragment pulse »* — sans préciser ce qu'il entendait par là, et sans qu'aucun Altramin l'ait pris au sérieux. Ses cahiers ont été classés comme *« observations d'un cartographe étranger »* par les greffiers du Conseil ; ils n'ont jamais été examinés.
 - **Le prince Brennan** entretient secrètement des contacts avec Mosrack, cherchant à moderniser l'armée d'Altram avec des machines de guerre — une idée que le Conseil des Maîtres rejetterait catégoriquement.
 - **La Guilde des Ombres-Forgerons** : Un groupe clandestin de forgerons qui créent des armes maudites pour le plus offrant. Ils suivent une version corrompue des [[Filii Fornacis]] et tiennent pour acquis que Ferros — tel qu'eux le perçoivent — réclamerait des sacrifices de sang pour les plus grandes œuvres. Les prêtres orthodoxes de Filii Fornacis rejettent cette lecture comme une dérive humaine sans fondement liturgique.
+- **Les filons qui s'épuisent** : depuis quarante ans, les Maîtres-Mineurs notent en privé que les veines de fer principales d'Altram donnent chaque année moins. Le rapport annuel adressé au Conseil minimise systématiquement ces chutes — d'abord parce qu'admettre l'épuisement reviendrait à admettre que la fondation économique du royaume est limitée dans le temps, ensuite parce que le Livre de Pierre ne contient aucune dalle indiquant *que faire si les filons se ferment*. Le silence est devenu doctrine.
+
+---
+
+## Cadre interne — Patterns
+
+> Encadré technique réservé aux rédacteurs et agents travaillant le Lore. N'apparaît jamais in-world.
+
+**Piège Institutionnel dominant : LA LOI FIGÉE** (forge / lignée / Livre de Pierre), doublée d'une **ESPÉRANCE VIDE** minière (le *grand acier* qui finira par sauver, l'alliage parfait qui sortira du prochain essai).
+
+Altram est un cas double :
+
+1. **Loi figée altramine** (piège primaire). La Charte de Theron l'Enclume, codifiée en Livre de Pierre, a transformé l'application du métier en un système qui ne s'interroge plus. Chaque Maître applique la décision la plus ancienne qui couvre le cas — par scrupule, par fidélité aux pères, par respect de la Rébellion. Le résultat est qu'Altram répète, sur des questions techniques, économiques et même judiciaires, des arbitrages pris dans des contextes que personne ne reconstitue plus. C'est exactement la définition de la Loi figée à l'échelle institutionnelle. La force du piège : **personne ne peut être tenu responsable**, parce que la décision a été prise par un mort respecté. Le prince Brennan le sent — et tente, par les machines de Mosrack, de *contourner* le Livre plutôt que de le réformer (ce qui n'est pas une voie vers le Principe, mais vers le Désir : il veut puissance, pas justice).
+
+2. **Espérance Vide minière** (piège secondaire, en dérive). L'extension d'Altram repose sur l'idée que *la prochaine veine sauvera*. La Veine Noire, le fer noir, l'acier-frère de Risel-Turam, la larme de la montagne de Tesmian, l'alliage des hameçons d'Altemior — chaque génération produit une *promesse minérale* qui doit compenser l'épuisement perçu des filons traditionnels. Cette promesse, jamais formulée comme telle, est ce qui permet aux Altramins de ne pas voir que les chiffres miniers déclinent. Le piège n'est pas dans les découvertes ; il est dans la conviction qu'il y *en aura toujours une autre*. Sorin Valthen, au chapitre 10 de son journal, observe ce mécanisme à Tesmian sans le nommer.
+
+**Cohérence avec la religion :** Lex Petra (religion principale) à Altram est **moins bureaucratique qu'à Gryndor**, plus *artisanale*. Les prêtres-juges sont des forgerons formés au droit, ou des juristes formés à la forge. Cette double formation n'allège pas le piège — elle le **protège** : le Livre de Pierre est un texte de droit dont les décisions ont la dignité d'œuvres artisanales, et critiquer une dalle reviendrait à critiquer le geste de forge qui l'a inscrite. La Loi figée, ici, est une **piété de métier**.
+
+Filii Fornacis (religion secondaire) flatte les forgerons et leur fournit une cosmologie qui justifie leur centralité. La Guilde des Ombres-Forgerons en est la dérive sombre — une lecture qui ajoute *le sacrifice de sang* à la cosmogonie de Ferros. C'est une corruption tardive, isolée, mais qu'aucune autorité religieuse ne combat sérieusement parce que combattre la Guilde reviendrait à *examiner* Filii Fornacis dans son ensemble.
+
+**Âge moral collectif majoritaire : LA LOI.** Les Altramins ordinaires agissent depuis la règle reçue (la dalle, la Cérémonie de la Première Forge, le rang du Maître-Artisan). Le Désir est marginal (prince Brennan, certains marchands de Sarultam). Le Principe est rarissime (Elara de Tesmian qui scelle les galeries profondes ; Edrin de Turalt qui ne devient pas forgeron mais Maître de la Laine ; Nolan de Liram qui dit *« Non »* — chacun à sa manière, sans titre).
+
+**Figure-clé portant la Vertu Cachée : ELARA DE TESMIAN** (env. +210 — encore vivante en +252).
+
+Mineuse de la vallée de Tesmian. À environ trente-cinq ans, elle remonte des échantillons de roche profonde jusqu'à Roseltar, paie de sa poche un alchimiste pour les analyser, et apprend que la *« larme de la montagne »* libère, en profondeur, une poussière invisible qui ronge les poumons. Elle ne fait pas de rapport au Conseil. Elle *agit* : elle scelle elle-même, de nuit, l'entrée des galeries profondes, avec du mortier volé à la carrière. Le village se divise. Les anciens — déjà malades — la maudissent. Les jeunes la remercient en silence. Son père Jorik meurt l'automne suivant ; elle l'enterre dans le geste pétran, sans plainte.
+
+Vertu portée : **LA CHARGE** (Vertu #1). Elara assume la responsabilité de scellement non par culpabilité, ni par vertu prêchée, ni par autorité reçue — elle ne *peut pas déléguer*. Le prêtre de la Lex Petra a refusé. Le Conseil n'a pas été saisi. Le geste de fermer les galeries est l'unique action qui empêche les autres mineurs de mourir comme son père. Elle le pose. La production de Tesmian chute de moitié. Le village est plus pauvre. Personne ne la fait Maîtresse. Aucun titre. Aucune dalle au Livre de Pierre. Elle vit toujours dans la même maison, avec une lampe de larme de la montagne qui brille dans l'obscurité — la dernière qu'elle a extraite avec son père.
+
+**Vertu secondaire affleurante : LE TRANCHANT** (Vertu #4) chez Nolan de Liram, qui dit *« Non »* sans alliance, sans appui, en sachant que Liram est trop faible pour se défendre. Le Conseil cède en trois jours non parce que l'argument est juste, mais parce que les forges de Martelios s'éteignent. Nolan renvoie le charbon dès la déclaration officielle obtenue — pas par triomphe, par pragmatisme. Il accroche le *parpaing malade* de sa Cérémonie au-dessus de sa porte. Il ne se prend pas pour un héros. C'est précisément ce qui en fait une figure du Principe.
+
+**Conflit moteur de la nation :**
+
+**La tension entre le Livre et la Veine.** Altram est, par la Charte, fondée sur un Code qui se prétend stable. Par les filons qui s'épuisent, ce Code est mis à l'épreuve d'un monde qui change. Chaque génération produit son alternative : un alliage nouveau, un minerai inconnu, une innovation. Et chaque alternative est, à terme, *intégrée au Livre* sous forme de dalle supplémentaire — ce qui ne résout rien. La Loi figée digère les nouveautés sans se réformer.
+
+Le conflit n'est pas une crise frontale. C'est une **gravité**. Le prince Brennan est la formulation la plus visible du désaccord — mais il a tort de la formuler comme désaccord, parce qu'il propose la *machine* (Mosrack) là où il faudrait la *réinterrogation* (réécrire le Livre). Sa solution serait pire que le mal. Personne, à Altram, ne propose de ré-interroger sérieusement. C'est la signature exacte du piège.
+
+**Ce qui est *spécifiquement* altramin (à ne pas dupliquer ailleurs) :**
+
+- Le Livre de Pierre comme codification matérielle (dalles de granit) qui rend la dalle plus ancienne *physiquement plus lourde* à déplacer que la nouvelle.
+- La Cérémonie de la Première Forge comme rite de passage qui produit ses *Sans-Forge* (échec à transformer son lingot de naissance) — exclusion polie, jamais frontale, mais sociale.
+- L'alliage-promesse comme tropisme de l'innovation qui ne réforme rien.
+- Filii Fornacis comme religion mineure qui flatte le métier et que la majorité considère avec une affection vague — c'est une *fierté*, pas une foi.
+
+**Cohérence avec Sorin Valthen** : Sorin passe par Altram au chapitre 9 (*Acier Éternel*) et touche le Fragment Zéro. Selon `_arc-sorin.md`, il *« note »* sans cadre — c'est précieux. Ses observations sur le Fragment ne sont pas reconnues à Trelios ; elles sont *classées* (le verbe est exact). C'est, en miniature, le piège altramin appliqué à un voyageur étranger. Aucune mention narrative directe de Sorin dans la fiche d'Altram n'est nécessaire au-delà de ce qui est déjà ici (Veine Noire). Le lecteur attentif fera le lien.
+
+**Ratio brisé / relevé pour Altram** : pour chaque figure du Principe (Elara, Edrin, Nolan, Lyra Koreth d'Altemior), prévoir 4-6 figures de la Loi correctement appliquée par des gens *bons* : le roi Aldric IV qui étouffe son fils par amour du royaume, les Maîtres du Conseil qui consultent le Livre avec scrupule, les prêtres-juges de Lex Petra qui rendent des verdicts irréprochables, les apprentis qui forgent leur Première Forge avec foi. Aucun PNJ ne doit énoncer le piège. Le lecteur le verra dans la *régularité du Livre* qui se poursuit alors que les filons se ferment.
 
 ---
 

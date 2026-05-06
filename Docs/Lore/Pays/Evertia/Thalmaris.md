@@ -2,13 +2,16 @@
 tags: [lore, pays, evertia]
 type: lore
 status: drafted
-last_review: 2026-05-02
+last_review: 2026-05-06
 needs_review_for: []
 ---
 # Thalmaris — Le Chant des Anciens
 
 > *« Là où d'autres brandissent des épées, nous brandissons des mots. Là où d'autres construisent des murs, nous composons des vers. Car une chanson bien chantée peut abattre un empire — et un récit bien raconté peut en fonder un nouveau. »*
-> — Reine-Barde Elyndra III, Souveraine de Thalmaris
+> — Reine-Barde Elyndra III, Souveraine de Thalmaris (mère et prédécesseuse d'Aelorys IV)
+
+> *« Le Cantus Mundi n'est pas une prière. C'est une conversation avec ce qui ne parle pas en mots. »*
+> — Maître Voix Selendir Vorn, Premier Canteur de Thalmaris (formulation reprise par Voix-de-Pierre lors de la visite de Sorin Valthen, ch. 31)
 
 ---
 
@@ -43,9 +46,13 @@ Valdren chanta pendant trente jours et trente nuits. Il raconta l'histoire de ch
 
 Quand Valdren se tut enfin, les peuples des Terres Muettes s'étaient retrouvés. Ils fondèrent Thalmaris — "Le Lieu du Chant" — et élurent Valdren comme premier Roi-Barde.
 
-### L'Ère Dorée
+### L'Ère Dorée et le règne d'Aelorys IV
 
-Aujourd'hui, Thalmaris est le centre culturel d'Endora. La Reine-Barde **Elyndra III** gouverne avec une voix d'or et un esprit acéré. Sous son règne, Thalmaris est devenu le médiateur attitré des conflits entre nations — car qui oserait refuser l'invitation d'un peuple qui peut transformer votre défaite en chanson immortelle ?
+Aujourd'hui, Thalmaris est l'un des centres culturels d'Hybélior. Pendant trois décennies, la Reine-Barde **Elyndra III** gouverna avec une voix d'or et un esprit acéré. Sous son règne, Thalmaris devint le médiateur attitré des conflits entre nations — car qui oserait refuser l'invitation d'un peuple qui peut transformer votre défaite en chanson immortelle ?
+
+Elyndra III ne dort plus depuis trois ans avant son abdication. Elle reste éveillée nuit après nuit, composant frénétiquement, persuadée qu'un esprit du Somnium Vigil lui envoie des visions d'un cataclysme imminent. Elle abdique officiellement en 250, à 67 ans, en faveur de son fils aîné **Aelorys IV**, qu'elle déclare *« plus apte à entendre que je ne suis encore capable d'écouter »*. La formulation est étrange ; elle est restée. Aelorys IV règne depuis cette date — son titre officiel comporte la mention de **Premier Mécène des Arts**, qu'il porte avant celle de Roi (ce que Sorin Valthen note expressément lors de son passage en 252). Il a renforcé considérablement le financement de l'Académie du Cantus, au point que le budget de l'Académie dépasse aujourd'hui celui de l'armée — situation que Sorin a documentée dans ses notes.
+
+Elyndra III, après abdication, vit retirée à Galdaris dans une cellule de l'Académie. Elle continue de composer. Elle reçoit peu. Selon les rumeurs qui circulent à Ostarith, elle cherche encore *le chant qui pourrait l'empêcher* — sans qu'on sache de quoi.
 
 ---
 
@@ -259,9 +266,11 @@ Région venteuse à l'est, où les éoliennes naturelles — des formations roch
 
 ## Secrets et intrigues
 
-- **Les Archives du Chant** : Sous Ostarith, une bibliothèque souterraine contient les "dernières chansons" de chaque Thalmarien mort depuis la fondation du pays. Les gardiens des Archives affirment que certaines de ces chansons, si elles étaient jouées ensemble, pourraient réveiller les morts — ou détruire le monde.
-- **Le Chant Interdit** : Il existe une mélodie que tous les bardes apprennent à reconnaître mais jamais à jouer. Ce chant, attribué à Valdren lui-même, aurait le pouvoir de contrôler les esprits de ceux qui l'entendent. Le dernier barde qui l'a joué a provoqué une folie collective dans une ville entière.
-- **La Reine-Barde et le Rêve** : Elyndra III ne dort plus depuis trois ans. Elle reste éveillée nuit après nuit, composant frénétiquement. Ses proches murmurent qu'un esprit du Somnium Vigil lui envoie des visions d'un cataclysme imminent — et qu'elle cherche désespérément le chant qui pourrait l'empêcher.
+- **Les Archives du Chant** : Sous Ostarith, une bibliothèque souterraine contient les "dernières chansons" de chaque Thalmarien mort depuis la fondation du pays. Les gardiens des Archives affirment, dans des marges de catalogues que les visiteurs ne lisent jamais, que certaines de ces chansons, si elles étaient jouées ensemble, *pourraient réveiller les morts — ou détruire le monde*. Cette formulation circule depuis trois siècles. Aucun gardien des Archives n'a jamais essayé.
+- **Le Chant Interdit** : Il existe une mélodie que tous les bardes apprennent à reconnaître mais jamais à jouer. Ce chant, attribué à Valdren lui-même selon une lecture, aurait le pouvoir de contrôler les esprits de ceux qui l'entendent. Le dernier barde qui l'a joué a provoqué une folie collective dans une ville entière. Selon une autre lecture (rare, marginale, soutenue par une lignée de Cantori dissidents au XIIᵉ siècle), il n'y a jamais eu de Chant Interdit — ce serait une fiction prophylactique inventée pour discipliner les apprentis. La doctrine officielle ne tranche pas.
+- **La Reine-Barde retirée et le Rêve** : Elyndra III, après abdication, ne dort toujours pas. Elle compose la nuit dans sa cellule à Galdaris. Ses proches murmurent qu'un esprit du Somnium Vigil lui envoie des visions d'un cataclysme imminent — et qu'elle cherche désespérément le chant qui pourrait l'empêcher. Aelorys IV, son fils, lui rend visite une fois par mois et lui apporte des partitions vierges. Il n'a jamais demandé à voir ce qu'elle écrit. Elle ne lui a jamais montré.
+- **La fréquence qui hésite (Cantus actuel).** Depuis dix-huit mois, les Cantori de l'Académie notent en privé des variations subtiles dans les fréquences qu'ils perçoivent lors de leurs sessions. Pas faux — *différent*, comme le formule la Maîtresse Orvenne (cf. Sorin ch. 31). Le phénomène n'a pas été publié. Voix-de-Pierre, le doyen des Cantori, l'a relié à sa propre observation à Sylvara : *la fréquence propre de la terre commence à vibrer*. Cette analyse circule à mots couverts. Aelorys IV n'a pas été informé officiellement — Voix-de-Pierre considère que le roi pourrait *réagir politiquement* à une donnée qui n'est pas encore mûre pour la politique.
+- **Les transcriptions interdites.** Une fraction des Cantori transcrit en cachette des chants qui devraient demeurer non écrits — chants funéraires sylvarains, dernières chansons des défunts thalmariens. Cette pratique, justifiée par leurs auteurs comme un acte de *préservation*, est en violation flagrante de la doctrine du *Silence Sacré* et de la règle d'unicité de la Dernière Chanson. Le Chœur Royal soupçonne. Il n'agit pas. Trois Cantori en ont été déchus en cent ans, ce qui est un nombre ridiculement bas par rapport à la pratique réelle.
 
 ---
 
@@ -282,7 +291,7 @@ Région venteuse à l'est, où les éoliennes naturelles — des formations roch
 | **Description CSV** | Un pays bordé par des montagnes et des lacs scintillants, connu pour ses bardes légendaires et ses récits épiques. |
 
 > [!info] Note V3.4 — nation à cheval
-> CSV Access rattache ce pays au continent **Endora** (N°11). La refonte V3.4 l'a relocalisé vers **Evertia**.
+> CSV Access rattache ce pays au continent **Endora** (N°11). La refonte V3.4 l'a relocalisé vers **Evertia** pour cohérence narrative et géographique : Thalmaris partage avec Evertia et Sylvara une posture commune face à l'écoute (Cantus, Cantus à l'Arbre-Mère, communion druidique), et participe au même tissu de pratiques cousines. Les références *Endora* dans les fichiers anciens sont reconductibles à *Evertia* pour la V3.4.
 
 ### Régions canoniques (source : Region.csv)
 
@@ -315,4 +324,60 @@ Total : **17 villes/villages** réparties sur **5 régions**.
 | Zyldoris | Rylthos | Village |
 | Nythoria | Rylthos | Village |
 | Valorin | Rylthos | Village |
+
+---
+
+## Cadre interne — Patterns
+
+> Encadré technique réservé aux rédacteurs et agents travaillant le Lore. N'apparaît jamais in-world.
+
+**Piège Institutionnel dominant : L'Espérance Vide.**
+
+1. **L'Espérance Vide musicale** (piège primaire, doctrinal). Le Cantus Mundi promet que les choses se *souviennent d'elles-mêmes* tant qu'on les chante — et donc que la pratique du chant a une efficacité ontologique, vérifiable en principe, postulée en pratique. Cette promesse n'est jamais prouvée et ne peut pas l'être. Elle est *toujours différée* — la prochaine composition trouvera le bon registre, le prochain Cantor entendra mieux, la prochaine génération nommera ce qui n'a pas encore de nom. La compositrice rencontrée par Sorin ch. 31 le formule presque explicitement : *« Nos formes débordent. Nos voix ne portent pas assez loin. Nous cherchons de nouveaux registres. »* Cette quête de registre n'a pas de fin — c'est précisément le motif de l'Espérance Vide. Le piège est *enraciné* : la doctrine ne lutte pas contre, elle le défend comme une vertu (la *théologie de l'attente*, cf. fiche Cantus Mundi).
+
+2. **L'Espérance Vide royale** (piège secondaire, intime). Elyndra III a passé trois ans à chercher *le chant qui pourrait empêcher le cataclysme imminent*. Elle a abdiqué sans avoir trouvé. Elle continue. Aelorys IV finance massivement l'Académie en partie parce qu'il sent — sans le formuler — que sa mère est sur la bonne piste, et que la dépense royale est une forme de prière institutionnalisée. La nation entière *espère* qu'une composition réglera la fréquence qui hésite. Cette espérance maintient le pays en activité. Elle n'aboutit pas.
+
+3. **Espérance Vide redoublée par la Loi figée académique.** L'Académie du Cantus a codifié l'enseignement musical à un degré que peu d'institutions atteignent. Sept ans d'études, trois arts à maîtriser, examens publics, hiérarchies de Cantori. Cette codification est elle-même un dispositif de l'Espérance Vide : on forme toujours de meilleurs Cantori, sans jamais admettre que la finalité (entendre Cantor, qui *se tait depuis ~500 ap.A*) n'est pas atteinte et n'est peut-être pas atteignable. La Loi figée maintient la compétence ; elle bloque l'interrogation de la finalité.
+
+**Cohérence avec les religions :**
+- *Cantus Mundi* (théologie de l'attente, cf. fiche) : Thalmaris hérite institutionnellement de cette dérive. La *théologie de l'attente* est *exactement* l'Espérance Vide cultivée comme vertu. La doctrine ne lutte pas contre — elle la justifie en présentant la patience comme une qualité supérieure. Les Cantori ne formulent pas l'Espérance Vide comme un piège. Ils la formulent comme la *posture juste face à un Cantor silencieux*.
+- *Somnium Vigil* (secondaire) : renforce la posture en ajoutant la dimension onirique. Elyndra III cherche un chant qui lui est *envoyé en rêve* — formulation qui combine deux Espérances Vides en une seule. La pratique du Somnium Vigil à Thalmaris est moins corrompue qu'à Lumasar (l'Effacement de la Limite n'est pas le piège dominant ici), mais elle aggrave l'attente.
+
+**Âge moral collectif majoritaire : La Loi.** Les Thalmariens ordinaires (artistes, marchands, pêcheurs-poètes, mineurs-chanteurs) appliquent les rôles que l'Académie et la Cour leur ont attribués. Le Désir affleure chez les bardes-guerriers de Rylthos (l'éclat du combat), chez les saigneurs de résine (la fatigue du métier), chez les apprentis qui rêvent de gloire personnelle. Le Principe est rare — Voix-de-Pierre, Oryn Vael (le compositeur sans voix), Mira l'enlumineuse muette, Aldren Mys au Dernier Concert.
+
+**Figure-clé portant la Vertu Cachée :**
+
+**Voix-de-Pierre** (titre honorifique ; nom personnel **Selendir Vorn**, an 192 — environ 60 ans en 252, vivant). Doyen des Cantori, Premier Canteur de l'Académie. Son titre vient du fait que sa voix a *traversé quarante ans de pratique* et qu'elle a, lors d'une session restée célèbre, fait *résonner les murs de la grande salle* à leur fréquence propre. Il a été le mentor de Sorin Valthen pendant deux jours à Thalmaris (cf. ch. 31). Il accompagne Sorin à Sylvara. Il sourit quand Sorin reconnaît ce qu'il a montré — un sourire *qui n'est pas de satisfaction, qui est de reconnaissance*.
+
+**Vertu portée :** **Le Voile** (Vertu #2), avec une teinte de **Charge** (Vertu #1). Voix-de-Pierre doute. Il dit : *« Ce n'est pas bon ni mauvais comme une action humaine est bonne ou mauvaise. C'est comme demander si un tremblement de terre est bon ou mauvais. La question qui compte n'est pas sa nature morale. C'est ce que vous faites pendant qu'il se produit. »* Cette phrase est l'expression la plus pure d'un Voile mature : il n'a pas la réponse, il a la question juste, et il continue d'agir (de chanter) sans avoir la réponse. Il porte aussi la Charge — il sait que la fréquence propre de la terre commence à vibrer, il sait que les esprits se taisent à Evertia, il sait que la sève change à Sylvara, et il porte cette connaissance *sans la transmettre à Aelorys IV* parce qu'il juge qu'une réaction politique précipitée détruirait plus qu'elle ne sauverait.
+
+**Mort marquante** : Voix-de-Pierre mourra environ huit ans après la visite de Sorin, lors d'une session du Cantus à Sylvara. Il s'effondrera au pied de l'Arbre-Mère, en plein chant, à 68 ans environ. Les Cantori et les Sylvarains présents s'entendront — sans se concerter — pour ne pas interrompre le chant. La session se terminera selon son rythme normal, avec son corps couché à côté de l'arbre. Il sera enterré à Sylvara, dans une pratique mixte (Eilwen aux Mains Vertes encore vivante chantera avec les Cantori), ce qui est une exception culturelle. Aucune Dernière Chanson ne sera composée pour lui — à sa demande explicite, transmise à ses élèves quelques années plus tôt. *« Que ma mort soit ce qu'elle est »*, aurait-il dit. *« On a déjà trop de chansons qui essaient de retenir ce qui passe. »*
+
+**Figure-clé secondaire :**
+
+**Oryn Vael** (figure canon, *Histoires de Thalmaris — Le Barde qui ne pouvait pas chanter*, mort en an ~225 environ, à 90 ans). Compositeur dont la voix était si laide qu'on lui demanda de ne plus chanter, et qui consacra quarante ans à composer pour les autres. Porte **La Charge** dans une variante presque parfaite : il assume la responsabilité de *donner* sa musique sans la performer, ce qui est l'inverse du geste de gloire ordinaire des bardes thalmariens. Sa Vertu est silencieuse, *coûteuse* (toute sa vie en cellule, sans honneurs), et *gratuite* (l'Académie ne le valorise qu'après sa mort, et encore, à mi-voix).
+
+**Conflit moteur de la nation :**
+
+**La tension entre la Composition et l'Écoute.** Thalmaris est, en surface, une nation de la Composition — production massive, hiérarchies de Cantori, Académie qui forme à composer dès cinq ans. En profondeur, sa religion est de l'Écoute — Cantor est *silencieux*, le Silence Sacré précède toute performance, la Veille de la Première Lune écoute la forêt sans jouer. Ces deux postures ne sont pas formellement contradictoires, mais elles sont en tension permanente. La Composition produit. L'Écoute attend. La Composition a besoin de financement, de reconnaissance, de scènes. L'Écoute n'a besoin de rien. La Composition est valorisée. L'Écoute est *présupposée*.
+
+Cette tension structure la situation actuelle. Aelorys IV finance la Composition. Voix-de-Pierre pratique l'Écoute. Les Cantori ordinaires alternent entre les deux selon les opportunités. Elyndra III, retirée à Galdaris, est passée de la Composition royale à une forme désespérée d'Écoute solitaire. La nation, dans son ensemble, ne sait pas qu'elle est en train de basculer — et ne saura pas, probablement, parce que la bascule sera lente et que ses générations seront occupées à autre chose.
+
+Quand un Thalmarien meurt avec lucidité, il dit souvent une variante de cette phrase : *« J'ai composé toute ma vie. J'aurais dû écouter davantage. »* La phrase n'est pas dans les manuels. Elle circule entre vieux Cantori. Elle ne sera jamais inscrite à l'Académie.
+
+**Ce qui est *spécifiquement* thalmarien (à ne pas dupliquer ailleurs) :**
+
+- L'Académie du Cantus comme dispositif religieux-éducatif-économique unifié, dont le budget dépasse celui de l'armée.
+- Les pratiques acoustiques de la roche (Galdaroth, Zylar, Galdaris) comme infrastructure technique liée à la doctrine.
+- Le Cantus à l'Arbre-Mère comme alliance pratique avec Sylvara sans traité formel.
+- Les Pauses Muettes (douze fois par jour, trois minutes) comme dispositif quotidien de Silence Sacré.
+- La Dernière Chanson (unique, jamais transcrite, surveillée par un Cantor) comme rituel spécifique de la finitude.
+- L'Heure du Chant matinale comme acte civique-religieux quotidien.
+- La présence d'Aelorys IV comme *Premier Mécène* avant *Roi* — situation unique d'une monarchie qui se subordonne à son propre art.
+
+**Ratio brisé / relevé pour Thalmaris** : pour chaque figure du Principe (Voix-de-Pierre, Oryn Vael, Mira, Aldren Mys, la compositrice de ch. 31 qui formule sans le savoir), prévoir 4-6 figures de la Loi *séduisantes* : Aelorys IV mécène généreux, Elyndra III tragique-prophétique, la Maîtresse Orvenne professionnelle et empathique, les Cantori de l'Académie compétents, les chroniqueurs lyriques honnêtes, les bardes-guerriers de Rylthos disciplinés, les ingénieurs de Faldorin créatifs. Ne jamais énoncer le piège. Le lecteur doit *aimer* la culture thalmarienne — chanter avec elle — avant de comprendre, par friction, que cette beauté est aussi l'attente d'une réponse qui ne viendra pas.
+
+---
+
+*Liens : [[Evertia - Continent]] | [[Evertia]] | [[Sylvara]] | [[Histoires/Evertia/Thalmaris|Histoires de Thalmaris]] | [[Chroniques/Chapitre 31 - Le Chant]] | [[Cantus Mundi]] | [[Somnium Vigil]]*
 

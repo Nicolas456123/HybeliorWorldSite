@@ -1,6 +1,7 @@
 ﻿---
 tags: [religions, lore, cosmologie, croyances]
-last_review: 2026-05-02
+last_review: 2026-05-06
+cadre_interne_note: "Vue d'ensemble — chaque religion individuelle porte son propre Piège dominant, voir fichiers concernés"
 ---
 
 # 🛐 Système Religieux d'Hybelior
@@ -351,6 +352,43 @@ Plusieurs théologiens d'Ignis Aeternum et de Vael'Kurash — dont Cantus Mundi 
 - *Vael'Kurash* + *Foedus Animae* — vision animiste partagée
 - *Lex Petra* + *Ordo Caelum* — ordre, hiérarchie, destin figé
 - *Via Ventus* + *Somnium Vigil* — liberté, exploration, fluidité
+
+---
+
+## Constantes structurelles
+
+> [!note] Observation ethnographique
+> Cette section consigne ce qu'un observateur attentif d'Hybélior remarque en circulant longtemps entre les temples — sans prétendre à une théorie. Les fidèles eux-mêmes ne formulent pas ces constantes, et si on les leur soumet, ils contestent généralement qu'elles s'appliquent à *leur* religion.
+
+À mesure que l'on compare les onze grandes traditions actuelles, certains motifs reviennent avec une régularité qui finit par étonner.
+
+**Presque toutes promettent un retour.** Sous des formes très différentes — *Rota Mundi* parle de cycle, *Ignis Aeternum* d'embrasement renouvelé, *Foedus Animae* d'un appel des morts, *Ordo Caelum* d'une convergence céleste, *Somnium Vigil* d'un éveil — la quasi-totalité des doctrines majeures place quelque chose d'essentiel **dans l'avenir** : un état perdu à reconquérir, un âge à venir, une réunion à accomplir. La rare exception est *Taciti*, qui ne promet rien : simplement écouter ce qui est. Que cette régularité du retour soit un effet de besoin humain, une trace de l'Arrachement, ou un défaut commun à toute construction religieuse — aucune chronique ne tranche.
+
+**Presque toutes ont une hiérarchie fixe.** Les *Stellari* ordonnés par grade, les *Petrani* par tribunal, les *Ignitari* par épreuve du feu, les *Forgani* par Conseil des Marques, les *Animari* par lignée héréditaire : dans onze traditions sur douze recensées ici, le pouvoir interne se fige dès la troisième ou quatrième génération en degrés que personne ne renégocie plus. Les rares structures plus mobiles — bardes itinérants des *Cantori*, prêtres-marins *Ventari* — paient cette mobilité par une faible présence et un pouvoir politique limité. Une lecture suggère que la hiérarchie figée serait la condition même de la durée institutionnelle ; une autre, plus sombre, qu'elle est le **prix** payé pour cette durée.
+
+**Presque toutes ont un domaine sur lequel elles ne se laissent pas examiner.** Chaque grande religion possède un point doctrinal qu'elle protège du débat — non par interdit explicite, mais par habitudes de transmission, par silence des chroniqueurs, par disparition régulière des manuscrits qui tentent de l'aborder. Les *Roteri* ne discutent jamais le Grand Calendrier, les *Stellari* jamais la qualification des Archi-Stellari, les *Vigili* jamais la composition des Herbes de Somnix. Ce n'est pas du secret organisé : c'est un **point aveugle culturel**, et les religions qui en ont le moins (les *Filii Fornacis*, les *Cantori*) sont aussi celles qui se reproduisent le moins facilement à grande échelle.
+
+**Presque toutes considèrent leur lecture comme la plus complète.** Cette dernière constante est la plus discrète parce qu'elle ne s'énonce pas. Aucune religion d'Hybélior ne se reconnaît partielle ; toutes admettent que les autres voient *quelque chose*, mais aucune ne s'avoue elle-même *un angle parmi d'autres*. Cette posture — paradoxale au regard du « Principe fondamental » consigné en tête de cet article — est ce qui distingue la doctrine vécue de la doctrine décrite par un observateur extérieur.
+
+L'observateur qui aligne ces motifs s'aperçoit qu'il n'a expliqué aucune religion : il a simplement noté que la plupart **partagent une grammaire** dont elles ne sont pas conscientes. Cette grammaire n'est nommée par aucun temple. Quelques traités mineurs en abordent des fragments — *Rota Mundi* parle parfois de « la roue qui tourne en chacun », les *Cantori* d'une « basse continue » sous toutes les liturgies — mais aucune synthèse globale n'a été tentée par un fidèle d'aucune tradition. Les bibliothécaires d'Astravia, qui ont accumulé les données, n'en ont jamais publié de lecture transverse : leur règle interne le leur interdit.
+
+---
+
+## Schismes documentés
+
+L'arbre généalogique des religions d'Hybélior n'est pas un déploiement linéaire : il est ponctué de **cinq grandes ruptures** historiquement attestées. Chacune éclaire les tensions internes que les onze traditions actuelles continuent de porter.
+
+| Schisme | Tradition source | Branches issues |
+|---------|------------------|-----------------|
+| La Séparation des Étoiles | Lumière Ancienne | *Ignis Aeternum* / *Ordo Caelum* |
+| Le Grand Schisme du Vent | Tradition de la Terre | *Vael'Kurash* / *Via Ventus* |
+| La Réforme de la Loi de Pierre | Tradition de la Terre | *Vael'Kurash* / *Lex Petra* |
+| L'Hérésie de Foedus Animae | Pacte Mémorisé | *Rota Mundi* / *Foedus Animae* |
+| L'Embranchement Somnique | Tradition des Choses Cachées | *Noctari* / *Somnium Vigil* |
+
+Le détail des dates, des figures historiques impliquées, des textes contestés et des conséquences politiques est documenté dans [[_Histoire des Religions]]. Cet article-ci se contente de mentionner que **chaque religion vivante porte la trace d'un schisme**, et que ce qui apparaît aujourd'hui comme un dogme stable a, pour la plupart d'entre elles, été le résultat d'une fracture violente que les chroniqueurs ont mis plusieurs siècles à apaiser.
+
+Deux traditions actuelles n'ont pas connu de schisme majeur : *Cantus Mundi* (syncrétisme tardif) et *Taciti* (régionalement isolée). Cette absence de fracture n'est pas tenue par les chroniqueurs comme une preuve de pureté — plutôt comme un effet de **petite taille** et de **stabilité géographique** dont aucune des grandes traditions n'a bénéficié.
 
 ---
 

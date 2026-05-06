@@ -2,7 +2,7 @@
 tags: [lore, chronique]
 type: lore
 status: drafted
-last_review: 2026-05-02
+last_review: 2026-05-06
 needs_review_for: []
 ---
 # Chapitre 30 — L'Île Consciente
@@ -238,7 +238,7 @@ Je lui demandai pourquoi Ulinor.
 
 Elle dit : *Parce que les Anciens d'Ulinor ont gravé leur conscience dans la pierre avant de disparaître. Et les archives de pierre ne se taisent pas comme les esprits. Si quelque chose a déjà eu lieu — si ce cycle a déjà connu une phase de retour — c'est à Ulinor qu'on trouvera la mémoire de ce qui s'est passé.*
 
-Je pris la lettre. Je la pliai avec le soin que méritait une chose qui avait pris des générations à se décider.
+Je pris la lettre. Je la pliai avec le soin que méritait une chose qui avait pris des générations à se décider. Je rangeai mes affaires plus vite que je ne l'aurais fait deux jours plus tôt — la direction était posée, l'itinéraire suivant clair, les questions à ouvrir à Ulinor déjà rédigées dans ma tête. Je notai dans le carnet : *itinéraire prochain : Ulinor, archives de pierre, Anciens, mémoire d'un retour précédent.* Je l'écrivis sans la prudence qui aurait convenu. Je m'en aperçus en le relisant et je laissai la phrase telle quelle, parce que la corriger maintenant aurait été une autre forme de prudence que je ne ressentais pas.
 
 La forêt me laissa partir. Les sentiers s'ouvrirent devant moi d'une façon que je ne saurais pas décrire autrement qu'en disant qu'ils s'ouvrirent — non pas que les obstacles se déplacèrent physiquement, mais que le chemin du retour était là, clair, sans les hésitations de l'aller. Comme si quelque chose avait décidé que j'avais reçu ce que j'étais venu recevoir.
 

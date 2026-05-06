@@ -2,7 +2,7 @@
 tags: [lore, chronique]
 type: lore
 status: drafted
-last_review: 2026-05-02
+last_review: 2026-05-06
 needs_review_for: []
 ---
 # Chapitre 29 — Les Flottes d'Azoral
@@ -116,7 +116,13 @@ Les pêcheurs de Solmaris déposaient des plaintes formelles. Pas sur les droits
 
 L'Assemblée écouta. Elle délibéra. Elle conclut que des enquêtes seraient menées. Les enquêtes de Solmaris étaient réputées sérieuses — ils avaient des naturalists, une tradition de documentation scientifique que les deux autres républiques n'avaient pas poussée aussi loin.
 
-Je demandai à rencontrer l'un d'eux ce soir-là.
+À l'angle du quai où je redescendais ensuite, il y avait une femme assise sur des cordages avec deux enfants — un garçon de six ans peut-être, une fille plus petite, qui ne parlaient pas. La femme ne mendiait pas. Elle attendait. C'est une posture spécifique au port, distincte de la mendicité, et qu'on apprend à reconnaître à voir comment les yeux ne suivent pas les passants mais le bord de l'horizon. J'avais vu cette posture dans tous les ports où j'étais passé depuis Solena ; je n'avais pas eu de mot pour elle avant Solmaris. Une voisine qui passait posa une marmite couverte près de la femme — sans s'arrêter, sans saluer, comme on dépose chez soi quelque chose qu'on a trop cuit. La femme dit *Méra* — un mot court qui voulait dire merci dans le dialecte local — sans relever la tête.
+
+Je demandai à un débardeur, plus loin, qui c'était. Il dit, en haussant l'épaule droite — le geste de Solmaris pour signaler que l'information n'est pas un secret mais qu'elle ne mérite pas de phrase complète : *Femme de Veldis. Le Saint-Marvin a pas reparu en septembre. Treize hommes. Elle a pas voulu qu'on l'inscrive aux registres de veuves du Conseil — ils paient une rente sur deux ans, après c'est fini, et après c'est elle qui a deux enfants. Elle préfère attendre.* Il ajouta, comme une précision : *Elle attend pas son mari. Elle attend que le Conseil change la loi. Ils la changeront pas.*
+
+Je passai. Je ne m'assis pas avec elle. Je n'avais rien à lui apporter qui ne fût déjà venu d'ailleurs ou ne dût passer par la voisine. Le garçon de six ans me regarda — pas avec hostilité, avec la curiosité usagée des enfants des ports qui ont vu plusieurs centaines d'étrangers descendre des passerelles et qui ont appris à les classer en deux catégories, celle qui s'arrête et celle qui ne s'arrête pas. Je relevais d'une catégorie. Cela aussi est un fait. Je le note pour avoir noté.
+
+Je demandai à rencontrer l'un des naturalistes ce soir-là.
 
 ---
 
@@ -133,6 +139,8 @@ C'était petit — de la taille d'une main. Translucide, comme certaines espèce
 Je le regardai dans son bocal. Il était mort depuis quelques jours mais sa translucidité lui donnait encore l'apparence de quelque chose qui observe. Je me dis, et j'inscrivis ce soir dans mon journal avec la précision de celui qui sait que les notes prises sur le moment survivront mieux que la mémoire : que les mers ne sont pas des surfaces. Que sous les mers il y a d'autres profondeurs. Que ce qui remonte n'arrive pas par hasard.
 
 ---
+
+J'observai chez les marins — pendant ces quelques jours de port — quelque chose que je n'avais pas vu nommé ailleurs. Une façon de quitter sans regret : on largue les amarres, on ne se retourne pas vers le quai qu'on aimait deux heures plus tôt, on est déjà ailleurs. Un capitaine de Kethvar me dit, à propos d'un port qu'il avait fréquenté trente ans : *on n'y revient pas, on y repasse. La différence est tout.* Je notai la phrase sans la commenter. Elle décrivait, je crois, quelque chose que je n'avais pas et dont je ne suis pas certain de comprendre encore l'usage.
 
 Mes trois jours à Azoral et deux jours chacun à Kethvar et Solmaris m'avaient offert quelque chose d'inattendu : du répit.
 

@@ -2,7 +2,7 @@
 tags: [lore, chronique]
 type: lore
 status: drafted
-last_review: 2026-05-02
+last_review: 2026-05-06
 needs_review_for: []
 ---
 # Chapitre 22 — Les Étoiles d'Haldria
@@ -138,7 +138,15 @@ Ces nuits ont eu une texture particulière que j'essaie de fixer ici parce que j
 
 La même qualité d'attention. Le même renoncement momentané à soi-même au profit de ce qu'on observe.
 
-Une nuit — la cinquième, ou la sixième — il me laissa utiliser le réflecteur seul pendant qu'il notait dans son carnet, et je passai une heure à regarder les vingt-trois étoiles marquées sur sa carte du ciel, une par une, essayant de voir ce qu'il voyait. Je les voyais toutes clignoter. Pour certaines, le rythme était évident — j'aurais pu le noter sans instrument. Pour d'autres, c'était subtil, à la limite du perceptible, la différence entre un clignotement atmosphérique normal et quelque chose d'autre était de l'ordre du degré, non de la nature.
+Le quatrième matin, en redescendant vers l'auberge, je croisai dans l'escalier un porteur d'eau qui montait. Il s'appelait Brevan, ou Brevin — je n'entendis pas bien, et je ne le lui fis pas répéter. Il avait la quarantaine peut-être, ou trente ans avec la peau usée par cinq ans de la même montée. Il portait deux bidons de cuivre suspendus à un joug de bois posé sur la nuque, et il montait les escaliers d'Hekorinth depuis le port où l'eau de pluie était collectée dans les citernes communes — les terrasses des riches ne faisaient pas tomber leur eau ailleurs que chez elles, m'apprit-il plus tard. Dix-sept volées d'escaliers. Quatre fois par matin. Trois fois après-midi. Je le lui demandai parce que j'avais cessé de respirer normalement après quatre volées la veille, et je voulais savoir.
+
+Il s'arrêta sur ma volée — non pas pour me parler, pour souffler. Le joug s'inclina d'un demi-pouce. Il dit, en galenorien des ports : *Vous logez chez Seldra.* Pas une question — une lecture. Je dis que oui. Il dit : *Trois bidons par jour pour chez elle. Plus s'il y a un voyageur.* Il me regarda comme on regarde un coût supplémentaire que l'arithmétique du dos enregistre sans rancune particulière. Il reprit la montée. Il reprenait la montée.
+
+Je m'effaçai contre la rampe pour le laisser passer. L'épaule droite était plus haute que la gauche d'environ un pouce — la déformation du joug, lue pendant des années par un seul côté. Je notai la mesure parce que c'est ce que je fais. Je n'ai pas su quoi faire d'autre. J'aurais pu lui donner une pièce — j'avais l'argent —, mais une pièce à un homme qui transporte trois bidons de plus à cause de moi aurait été une pièce contre trois bidons, et le calcul ne tenait pas dans aucun sens que je voulusse soutenir. Je ne lui en donnai pas. Je continuai ma descente.
+
+Le soir, je trouvai à l'auberge mes mains lavées, ma chambre humide d'avoir été nettoyée, le bidon plein à côté de la cuvette. Je note cela. Je n'aurais pas tenu trois jours à monter ce que Brevan montait quatre fois par matin. Sept ans à classer des cartes ne forment pas à porter de l'eau. Ce n'est pas une découverte. C'est juste une observation que je devais à Brevan pour avoir dormi à Hekorinth.
+
+Une nuit — la cinquième, ou la sixième — Tiras me laissa utiliser le réflecteur seul pendant qu'il notait dans son carnet, et je passai une heure à regarder les vingt-trois étoiles marquées sur sa carte du ciel, une par une, essayant de voir ce qu'il voyait. Je les voyais toutes clignoter. Pour certaines, le rythme était évident — j'aurais pu le noter sans instrument. Pour d'autres, c'était subtil, à la limite du perceptible, la différence entre un clignotement atmosphérique normal et quelque chose d'autre était de l'ordre du degré, non de la nature.
 
 Je me demandai ce que ces ombres étaient. Des choses. Des corps non lumineux. Mais dans quel sens est-ce qu'un corps céleste pouvait se déplacer ainsi, sans trajectoire prévisible, sans logique orbitale ? Les astres suivent des règles. C'est le fondement d'Ordo Caelum et de toute navigation astronomique — les étoiles obéissent, et c'est pourquoi on peut leur faire confiance.
 
@@ -199,6 +207,8 @@ Ce n'était pas une question. Il me regardait maintenant, depuis au-dessus du r�
 Je répondis honnêtement que je ne savais pas si je voyais une connexion ou si je voulais en voir une, et que la différence m'importait.
 
 Il dit : « C'est exactement ce que dirait un astronome. »
+
+Il ajouta, après un silence qui n'attendait pas de réponse : « Les meilleurs d'entre nous notent ce qu'ils ne savent pas conclure et meurent sans avoir conclu. C'est la condition. Les autres concluent. »
 
 Il sortit de sa poche un feuillet plié — des notes, une page de son carnet détachée avec soin. Il me dit que c'étaient les coordonnées des vingt-trois étoiles, avec leurs mesures d'occlusion comparées sur les cinq dernières années. Il dit que ces données n'étaient pas encore publiques, qu'elles ne deviendraient peut-être jamais publiques si l'Ordo Caelum continuait à les traiter comme une anomalie à surveiller plutôt que comme un phénomène à comprendre. Il dit qu'un cartographe en voyage pouvait transporter des informations d'une façon que les canaux officiels ne permettent pas toujours.
 

@@ -2,7 +2,7 @@
 tags: [lore, chronique]
 type: lore
 status: drafted
-last_review: 2026-05-02
+last_review: 2026-05-06
 needs_review_for: []
 ---
 # Chapitre 3 — Le Vent des Cavaliers
@@ -178,6 +178,8 @@ Ce soir-là, assis dans l'herbe haute avec mon carnet sur les genoux, j'ai essay
 À Kharazir, j'étais Délié. C'est-à-dire : incomplet, inabouti, porteur d'une absence. À Lumasar, j'étais Délié encore — avec plus de délicatesse dans la formulation, mais la même substance derrière. Et ici, dans les plaines de Ventera, j'avais été un piéton. Un marcheur. Un homme avec un carnet et une façon de regarder les cairns.
 
 Ce n'était pas peu. Ce n'était pas rien. C'était, peut-être, le premier endroit depuis longtemps où j'avais existé dans l'entièreté de ce que j'étais — non dans le résidu de ce que je n'étais pas.
+
+J'avais remarqué autre chose, le matin où Dava m'avait regardé dessiner. Mes épaules s'étaient tenues plus droites pendant ces quatre jours qu'elles ne l'avaient fait à Kelanor ou à Rukhsar. Pas par fierté retrouvée — par défaut d'occasion de se courber. On apprend à rentrer la tête dans les villes où la tête est ce qu'on regarde en premier. Ici, personne ne regardait ma tête, et mes épaules s'étaient déliées sans que je m'en rende compte. Le corps note avant que l'esprit nomme. Je n'ai pas su, alors, ce qu'il avait noté.
 
 Je l'écris parce que je veux m'en souvenir. La route va reprendre. Il y aura d'autres portes, d'autres fonctionnaires, d'autres questions posées avec la neutralité feinte de qui connaît déjà la réponse qu'il veut obtenir. Mais les plaines m'auront appris, au moins, qu'il existe des endroits où le vent ne demande pas vos papiers.
 

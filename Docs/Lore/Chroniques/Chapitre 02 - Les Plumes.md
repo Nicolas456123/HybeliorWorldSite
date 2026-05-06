@@ -2,7 +2,7 @@
 tags: [lore, chronique]
 type: lore
 status: drafted
-last_review: 2026-05-02
+last_review: 2026-05-06
 needs_review_for: []
 ---
 # Chapitre II — Les Plumes de Lumasar
@@ -131,6 +131,8 @@ Une pause. Le genre de pause que l'on prend quand le *mais* est trop lourd pour 
 Il y avait dans sa voix quelque chose que je n'aurais pas su qualifier à ce moment-là, mais que je comprends mieux maintenant que je l'ai noté ici : ce n'était pas de la mauvaise foi. Il croyait ce qu'il disait. Il connaissait les textes et il les appliquait. Il était un homme des institutions qui applique les règles de ses institutions avec la conviction sincère que ces règles ont été faites pour de bonnes raisons par des gens plus sages que lui, et que s'y soustraire serait une forme d'arrogance.
 
 C'est peut-être la chose la plus décourageante qui existe : non pas la mauvaise foi, mais la bonne foi au service d'une règle injuste.
+
+J'ai quitté la salle d'entretien en pensant à Verian Soth comme à un type d'homme — l'archiviste qui croit en son institution sans la voir tout à fait. Il m'a fallu attendre la rue, le pavé luisant sous mes semelles et le froid qui revenait sur les épaules, pour que la pensée se présente sous une autre forme : pendant sept ans à Rukhsar, j'avais reçu sans broncher des dossiers que je classais sans poser de questions, sous le regard d'autres jeunes hommes que mon refus aurait peut-être un jour fait sortir dans une autre rue. Je n'ai pas voulu suivre cette pensée. Je l'ai notée et je l'ai rangée. Une note qu'on range est une note qu'on traitera plus tard, ou qu'on aura oubliée.
 
 Je suis reparti sans que les mots formels d'un refus aient jamais été prononcés, parce que les institutions bien huilées n'ont pas besoin de refuser explicitement — elles peuvent simplement ne pas être en mesure de vous aider compte tenu des circonstances actuelles, et vous indiquer les voies de recours théoriquement disponibles tout en sachant que ces voies de recours requièrent des conditions que vous ne remplissez pas.
 

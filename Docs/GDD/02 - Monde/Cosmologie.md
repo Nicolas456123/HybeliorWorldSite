@@ -1,401 +1,176 @@
-﻿---
-tags: [cosmologie, lore, entités, forces, magie, polyphonie]
-status: living-doc
-last_review: 2026-05-02
-needs_review_for: [généalogie-religions-à-intégrer]
-type: lore
+---
+tags: [cosmologie, lore, polyphonie, eternels, cosmiques, celestes, religions, narration]
+status: drafted
+last_review: 2026-05-07
+needs_review_for: []
+type: lore-narrative
+implementation: "[[Cosmology Spec]]"
 ---
 
-# ✨ Cosmologie d'Hybelior
+# La Cosmologie d'Hybelior — la Polyphonie du monde
 
-## Les 5 rangs d'entités
-
-> [!important] Hiérarchie cosmique
-> Le monde d'Hybelior est structuré autour de forces et d'entités conscientes organisées en 5 niveaux. Plus le rang est bas, plus les entités sont nombreuses et proches du monde mortel.
-
-```
-    ┌─────────────┐
-    │   ÉTERNEL   │  ←  5 — Entités primordiales, à la base de la création
-    └──────┬──────┘
-           │
-    ┌──────┴──────┐
-    │   COSMIQUE  │  ← 12 — Forces qui gouvernent l'ordre majeur de l'univers
-    └──────┬──────┘
-           │
-    ┌──────┴──────┐
-    │   CÉLESTE   │  ← 21 — Entités spécialisées à forte influence
-    └──────┬──────┘
-           │
-    ┌──────┴──────┐
-    │    ASTRAL   │  ← 31 — Esprits de soutien, présents dans le monde mortel
-    └──────┬──────┘
-           │
-    ┌──────┴──────┐
-    │   ÉTHÉRÉ    │  ← 45 esprits + 14 sièges vacants (accessibles aux joueurs)
-    └─────────────┘
-```
-
----
-
-## Les Éternels — Forces primordiales *(5)*
-
-> Entités primordiales et universelles, à la base de la création, incarnant des forces intemporelles. Aucune n'agit directement dans le monde physique.
-
-> [!info] Observations & lectures mortelles
-> Le tableau ci-dessous distingue ce qui est **observé** (phénomènes mesurables ou répétés à travers les générations) de la **lecture** que les religions et érudits en font. Les lectures varient selon les sources, et plusieurs traditions coexistent pour expliquer les mêmes observations. Les chroniques anciennes soulignent que ces présences participent à la [[Univers#La Polyphonie cosmique|Polyphonie cosmique]] — leur présence relative dans le dialogue change avec les Ères.
-
-| Nom | Rôle attribué | Observations | Lectures principales |
-|-----|---------------|--------------|----------------------|
-| **Celestia** | Gardienne des cieux — créatrice des constellations, régulatrice des énergies célestes | Les cieux fonctionnent. Les constellations brillent. Aucune réponse à une prière directe n'a été rapportée depuis des siècles. | L'*Ordo Caelum* y voit sagesse silencieuse ; certains érudits parlent d'attention sans réponse ; les Déliés y voient indifférence. Le silence est lui-même devenu un objet d'interprétation. |
-| **Tempora** | Gardien des Éons — régulateur du temps, séquence des événements | Le temps progresse normalement en surface. Des **Failles temporelles** — zones où passé et présent se chevauchent — sont observées dans plusieurs continents. | Le *Rota Mundi* parle de blessure ancienne dont Tempora se rétablit lentement ; d'autres traditions voient les Failles comme une signature naturelle, pas une cicatrice. Plusieurs hypothèses cohabitent. |
-| **Noctis** | Voile des Ténèbres — incarnation des ombres, équilibre de la lumière | Présence forte dans les phénomènes observables : longues nuits dans certains continents, prolifération des secrets, ombres qui s'épaississent en certains lieux. | Le *Noctari* y voit une montée bénéfique du voile ; l'*Ignis Aeternum* y voit un déséquilibre inquiétant. Le débat alimente une partie de la politique cosmique. |
-| **Navigor** | Passeur de mondes — facilitateur entre les mondes, guide des âmes | Les chemins entre les mondes paraissent refermés ou inaccessibles. Quelques âmes errent sans atteindre leur destination (rapporté par les desservants de Transitum). | Les théologiens parlent de retrait ; certains érudits évoquent une présence devenue invisible plutôt qu'absente ; la *Via Ventus* maintient qu'il guide encore, à voix très basse. |
-| **Eldoria** | Tisseuse de la lumière — créatrice des étoiles, lumière dans le Vide | Aucune naissance stellaire visible n'a été observée depuis longtemps. Les étoiles existantes brillent. Des pulsations sont rapportées au Cœur de Cendra, et les volcans en activité dégagent une chaleur que certaines traditions associent à sa présence. | L'*Ignis Aeternum* parle de sommeil dont elle pourrait être réveillée — de là le *Grand Rituel de Réveil* de Cendara et les prophéties du Mont Cendra. D'autres traditions voient une retraite volontaire ou une contemplation intérieure. |
-
----
-
-## Les Cosmiques — Ordre majeur de l'univers *(12)*
-
-> Entités influençant les structures et l'ordre majeur de l'univers, jouant un rôle clé dans l'équilibre cosmique. Nées des interactions entre les Éternels.
-
-| Nom | Domaine |
-|-----|---------|
-| **Aquor** | Gardien des eaux — régule océans, rivières, sources |
-| **Terranu** | Gardien des terres — fertilité, prospérité terrestre |
-| **Aerion** | Maître des vents — atmosphères et vents planétaires |
-| **Climata** | Gardienne des cycles climatiques — stabilité des saisons |
-| **Gravitas** | Gardien de l'attraction — forces gravitationnelles |
-| **Vortex** | Maître des tempêtes cosmiques — courants cosmiques |
-| **Judicar** | Gardien des lois cosmiques — arbitre de l'ordre universel |
-| **Fatum** | Juge des destins — détermine les chemins de vie à l'échelle universelle |
-| **Spiritus** | Druide des esprits — gardien de la conscience collective de la nature |
-| **Stellaris** | Danseur des étoiles — mouvements célestes, navigation |
-| **Aetheron** | Maître de l'éther universel — flux d'énergie invisible à l'échelle cosmique |
-| **Etherius** | Sage de l'éther — influence spirituelle universelle |
-
----
-
-## Les Célestes — Entités spécialisées *(21)*
-
-> Entités de grande importance, spécialisées dans des domaines spécifiques, avec une influence significative sur le monde mortel. Plus accessibles que les Cosmiques — certaines peuvent interagir indirectement avec les mortels.
-
-| Nom | Domaine |
-|-----|---------|
-| **Umbra** | Maître des ombres — secrets, influence invisible |
-| **Umbralis** | Tisseur d'ombres — matière des ombres, vérités cachées |
-| **Aurion** | Maître des énergies éthérées — flux d'énergie accessible |
-| **Somnix** | Marchand de rêves — visions, esprits endormis |
-| **Anima** | Négociant des âmes — médiateur des échanges spirituels |
-| **Arborius** | Sage des arbres antiques — forêts anciennes, sagesse végétale |
-| **Realis** | Échangeur de réalités — dimensions parallèles, voiles entre mondes |
-| **Calor** | Maître du feu sacré — flamme divine, chaleur créatrice |
-| **Glacius** | Maître du froid profond — glaces éternelles, immobilité |
-| **Lumos** | Gardien de la lumière — clarté, révélation, vérité |
-| **Tenebris** | Gardien de l'obscurité — nuit, mystère, repos |
-| **Tempestas** | Esprit des grandes tempêtes — colère des éléments réunis |
-| **Fontis** | Gardien des sources sacrées — eaux vives, oracles |
-| **Sylvanus** | Esprit des forêts mortelles — nature sauvage, frontières du monde |
-| **Morbus** | Esprit de la maladie et de l'épidémie — épreuve et résistance |
-| **Salus** | Esprit de la guérison divine — santé, régénération |
-| **Amoris** | Esprit des liens sacrés — amour profond, serments indestructibles |
-| **Iustitia** | Esprit de la justice divine — équilibre, rétribution |
-| **Bellona** | Esprit de la guerre sacrée — conflits fondateurs, batailles décisives |
-| **Fortuna** | Esprit du destin mortel — hasard, chance, tournants de vie |
-| **Cantor** | Expression de l'acte créateur primordial — résonance d'Eldoria et d'Arborius, musique comme force de création |
-
----
-
-## Les Astraux — Esprits de soutien *(31)*
-
-> Entités ayant un impact notable dans des domaines spécifiques, souvent en soutien aux entités supérieures. Présentes dans le monde mortel, elles peuvent être contactées par des mortels initiés.
-
-| Nom | Domaine |
-|-----|---------|
-| **Sanctus** | Chevalier sacré — défenseur, symbole de protection divine |
-| **Ocultus** | Espion des dieux — gardien des secrets divins |
-| **Murmuris** | Maître des murmures — porteur de vérités chuchotées |
-| **Mentor** | Guide spirituel — accompagnateur des voyages intérieurs |
-| **Crepusculis** | Paladin du crépuscule — gardien des transitions et des passages |
-| **Bellator** | Esprit du guerrier — guide des combattants, présent sur les champs de bataille |
-| **Victrix** | Esprit de la victoire — présent dans les moments de triomphe décisifs |
-| **Transitum** | Passeur des âmes — accompagne les morts vers l'au-delà |
-| **Natalis** | Esprit de la naissance — présent à chaque venue au monde |
-| **Fabricor** | Esprit de l'artisan — guide des forgerons, sculpteurs et créateurs |
-| **Mercatus** | Esprit du commerce — présent dans les transactions importantes |
-| **Pactas** | Esprit des serments — veille sur les promesses et contrats |
-| **Scriptor** | Esprit de l'écriture — gardien de la mémoire consignée |
-| **Inventus** | Esprit de la découverte — présent lors des grandes trouvailles |
-| **Venator** | Esprit de la chasse — guide des chasseurs, juge de la proie |
-| **Messor** | Esprit de la moisson — présent lors des récoltes, jugement de l'abondance |
-| **Igniculus** | Esprit du foyer — flamme domestique, protecteur du foyer familial |
-| **Viator** | Esprit des voyageurs — guide sur les routes, protège les errances |
-| **Limen** | Esprit des seuils — gardien des portes, des entrées et des passages |
-| **Memoria** | Esprit de la mémoire collective — gardien des traditions orales |
-| **Aurora** | Esprit de l'aube — présent à chaque lever du jour, renouveau |
-| **Vesper** | Esprit du soir — présent au coucher du soleil, repos et bilan |
-| **Illusor** | Esprit des illusions — mirages, apparences trompeuses |
-| **Larvatus** | Esprit des masques — identités cachées, faux-semblants |
-| **Timoris** | Esprit de la peur — catalyseur du courage ou de la fuite |
-| **Luctus** | Esprit du deuil — accompagne la peine, guide vers la consolation |
-| **Nutritor** | Esprit de l'abondance — nourriture, générosité, festin |
-| **Peregrinus** | Esprit des exilés — protège ceux qui ont perdu leur foyer |
-| **Momentum** | Esprit des moments décisifs — présent aux carrefours du destin |
-| **Pavor** | Esprit de la terreur sacrée — peur qui révèle, effroi qui purifie |
-| **Ancestralis** | Esprit des lignées et de la mémoire ancestrale — gardien du lien entre les morts et les vivants |
-
----
-
-## Les Éthérés — Esprits locaux *(45)*
-
-> Entités jouant des rôles importants mais localisés, liées à des fonctions très spécifiques ou à des lieux particuliers. Les plus nombreuses et les plus proches des mortels — certaines peuvent être rencontrées sans rituel particulier.
-
-| Nom | Domaine |
-|-----|---------|
-| **Pluvia** | Esprit de la pluie — chaque averse a son éthéré |
-| **Nebula** | Esprit du brouillard — voile entre le visible et l'invisible |
-| **Tonitrus** | Esprit du tonnerre — voix de la colère céleste |
-| **Fulgor** | Esprit de la foudre — châtiment ponctuel, révélation brutale |
-| **Nix** | Esprit de la neige — silence, préservation, oubli |
-| **Aestus** | Esprit de la canicule — épreuve, soif, dépassement |
-| **Ros** | Esprit de la rosée — fragilité, renouveau matinal |
-| **Rivulus** | Esprit des ruisseaux — cours d'eau modestes, chemins de l'eau |
-| **Saxum** | Esprit des pierres — ancienneté, permanence, mémoire minérale |
-| **Spelunca** | Esprit des cavernes — profondeurs, secrets souterrains |
-| **Trivium** | Esprit des carrefours — choix, rencontres, hasards de chemin |
-| **Arbor** | Esprit d'un arbre précis — chaque arbre sacré a le sien |
-| **Flos** | Esprit de la floraison — beauté éphémère, cycle végétal |
-| **Semen** | Esprit des semailles — espoir, patient investissement |
-| **Aranea** | Esprit du tissage — textiles, liens invisibles, patience |
-| **Flamma** | Esprit de la cuisine — feu nourricier, alchimie du quotidien |
-| **Calix** | Esprit des boissons fermentées — ivresse, vérité, festivité |
-| **Piscis** | Esprit de la pêche — chance sur l'eau, générosité des profondeurs |
-| **Grex** | Esprit des troupeaux — protection des animaux domestiques |
-| **Modulus** | Esprit de la chanson populaire — musique du peuple, transmission |
-| **Ludus** | Esprit des jeux — enfance, compétition légère, plaisir |
-| **Somnus** | Esprit du sommeil ordinaire — repos sans rêve, récupération |
-| **Laetitia** | Esprit de la joie — bonheur simple, fêtes de village |
-| **Dolor** | Esprit de la douleur — souffrance physique, avertissement du corps |
-| **Invidia** | Esprit de l'envie — désir de ce qu'on n'a pas |
-| **Superbia** | Esprit de l'orgueil — fierté qui élève ou qui brise |
-| **Pudor** | Esprit de la honte — conscience de la faute, désir de réparation |
-| **Fides** | Esprit de la confiance — loyauté entre individus, foi quotidienne |
-| **Furor** | Esprit de la rage — colère incontrôlable, destruction aveugle |
-| **Pax** | Esprit de la paix locale — accalmie, trêve, réconciliation |
-| **Risus** | Esprit du rire — légèreté, dérision, subversion par l'humour |
-| **Lacrimae** | Esprit des larmes — chagrin libérateur, deuil exprimé |
-| **Infans** | Esprit des nourrissons — vulnérabilité, potentiel inexploité |
-| **Senex** | Esprit des anciens — sagesse accumulée, mémoire vivante |
-| **Iuventus** | Esprit de la jeunesse — fougue, erreur fertile, devenir |
-| **Hospitium** | Esprit de l'hospitalité — accueil de l'étranger, rite du partage |
-| **Domus** | Esprit du foyer familial — maison, appartenance, racines |
-| **Forum** | Esprit des assemblées — débat, décision collective, rumeur |
-| **Sepulcrum** | Esprit des tombeaux — respect des morts, mémoire funèbre |
-| **Cicatrix** | Esprit des blessures guéries — traces du passé, résilience |
-| **Sors** | Esprit du tirage au sort — hasard pur, destin minuscule |
-| **Viaticus** | Esprit des provisions de route — préparation, prudence du voyageur |
-| **Caligo** | Esprit de l'obscurité ordinaire — nuit sans lune, peur de l'inconnu |
-| **Tepor** | Esprit de la tiédeur — confort modeste, entre-deux des extrêmes |
-| **Granum** | Esprit du grain — pain quotidien, subsistance, économie paysanne |
-
----
-
-## Sièges Éthérés — La progression joueur
-
-> [!important] Concept clé
-> Certains Éthérés ne sont pas des esprits permanents mais des **sièges** — des positions dans la hiérarchie cosmique qui peuvent être **vacantes** ou **occupées** par une entité ou un mortel d'exception.
+> *« Le monde n'a pas été créé par un dieu solitaire qui aurait dicté son chant à des serviteurs muets. Le monde est né d'une conversation que personne n'a commencée et que personne ne finira. Ce que nous appelons réel n'est que le moment où plusieurs voix consentent à dire ensemble la même chose. »*
 >
-> **Les joueurs ne peuvent prétendre qu'aux sièges du rang Éthéré** — le seul rang suffisamment proche du monde mortel pour qu'un vivant puisse y accéder.
-
-**Occuper un siège Éthéré = le sommet absolu de la progression d'un joueur dans son domaine.**
-
-| Siège | Domaine | Statut |
-|-------|---------|--------|
-| **Arcana** | Savoir mystique et arcanes | *(à définir)* |
-| **Abyssus** | Exploration sous-marine | *(à définir)* |
-| **Asterion** | Cartographie et navigation | *(à définir)* |
-| **Legatus** | Histoire et transmission du lore | *(à définir)* |
-| **Consilium** | Sagesse et diplomatie | *(à définir)* |
-| **Mythanos** | Élevage et symbiose avec les créatures | *(à définir)* |
-| **Forgion** | Enchantement d'armes | *(à définir)* |
-| **Lingua** | Langues anciennes et dialectes oubliés | *(à définir)* |
-| **Talos** | Talismans et objets de protection | *(à définir)* |
-| **Ferros** | Forge et métal | *(à définir)* |
-| **Luxa** | Runes et écritures sacrées | *(à définir)* |
-| **Cura** | Guérison mystique | *(à définir)* |
-| **Mythica** | Soin des créatures fantastiques | *(à définir)* |
-| **Explorator** | Exploration des lieux inconnus | *(à définir)* |
-
-> [!tip] Règles des sièges
-> - Il ne peut y avoir qu'**un seul détenteur** par siège à la fois — joueur ou entité.
-> - Un siège occupé peut être **défié et arraché** en surpassant le détenteur dans les conditions propres au domaine.
-> - Les conditions de défi sont **propres à chaque siège** — certaines sont cachées.
-> - Les entités des rangs supérieurs ne sont **pas défiais par les joueurs** — elles sont hors d'atteinte des mortels.
+> *— Maître Vorian Caelorin, théologien de l'Ordo Caelum, "Préface aux Cantiques d'Astravia"*
 
 ---
 
-## Liste canonique des entités cosmiques (source : `AccessExport/Legende.csv`)
+## L'idée de la Polyphonie
 
-> [!important] Table canonique des 45 entités nommées (D-COSMO-LEGENDE-CSV-INTEGRATION)
-> Cette table consolide les **45 entités du CSV `Legende.csv`** (NomLegende poétique + NomVeritable + Niveau + Description + Catégorie de métier tutélaire). Elle complète les sections ci-dessus en fournissant : (a) le **libellé poétique** utilisé in-world ; (b) la **catégorie de métier** sur laquelle chaque entité a une influence tutélaire ; (c) le **rang post-reclassement D-COSMO-4** quand le CSV diverge du canon GDD.
+Il existe, dans presque toutes les traditions humaines, deux manières paresseuses de penser le sacré. La première est celle du **dieu unique** — une voix souveraine qui décide, ordonne, juge, et dont toutes les autres ne sont que les échos affaiblis. La seconde est celle du **panthéon classique** — une cour divine où les dieux se partagent les domaines comme des fonctionnaires se partagent les bureaux : l'un règne sur la mer, l'autre sur la guerre, un troisième sur l'amour, et tout cela tient parce qu'un grand père céleste empêche les querelles. Ces deux modèles ont l'avantage d'être lisibles. Ils ont le désavantage d'être faux.
+
+À Hybelior, on a refusé l'un comme l'autre. Non par défi théologique, mais par fidélité à ce que les sages nomment la **Polyphonie cosmique** — l'intuition que le monde n'est pas une voix, ni même une chorale ordonnée, mais une conversation à plusieurs niveaux qui se déploie en permanence et qui *fait* le monde au moment même où elle le dit. Aucune voix n'y règne pour toujours. Aucune voix n'y est éteinte pour toujours. Chaque voix a son timbre, sa prosodie, ses silences. Et la cohérence du monde — si l'on peut encore appeler cohérence une chose aussi fragile — naît de leur composition mouvante, jamais de leur soumission à un chef d'orchestre absent.
+
+Cette intuition change tout. Dans un monde polyphonique, **rien n'est jamais purement bon ni purement mauvais** — chaque chose porte la marque des voix qui l'ont composée, et ces voix ne s'accordent pas toujours. Dans un monde polyphonique, **aucun pouvoir n'est éternel** — ce qui est éloquent aujourd'hui peut se taire demain, non par défaite mais par déplacement de la conversation. Dans un monde polyphonique enfin, **la sagesse n'est jamais l'art de connaître la vérité**, mais celui d'écouter quelle voix domine maintenant et de s'y accorder sans pour autant trahir les autres.
+
+> *« Demande à un fou : "qui est dieu ?" Il te répondra. Demande à un sage : "qui parle, en ce moment, dans le ciel ?" Il écoutera d'abord, et te répondra peut-être."*
 >
-> **Mapping rang CSV → canon :** `Eternel = Éternel`, `Cosmique = Cosmique` (sauf reclassements D-COSMO-4 ci-dessous), `Celeste = Céleste`, `Intermediaire = Astral` (décision par défaut, voir [[Registre des Décisions]] D-COSMO-LEGENDE-CSV-INTEGRATION).
-
-### Éternels (5/5 — match parfait)
-
-| NomVeritable | NomLegende | Catégorie tutélaire | Description (CSV) |
-|--------------|------------|---------------------|--------------------|
-| **Celestia** | Gardienne des cieux | Sécurité | Créatrice des constellations et régulatrice des énergies célestes. |
-| **Tempora** | Gardien des Eons | Sécurité | Régulateur du temps, structurant la séquence des événements dans l'univers. |
-| **Noctis** | Voile des Ténèbres | Mysticisme | Incarnation des ombres et de l'invisibilité, équilibrant la lumière dans l'univers. |
-| **Navigor** | Passeur de mondes | Exploration | Facilitateur entre les mondes, guide des âmes et des esprits. |
-| **Eldoria** | Tisseuse de la lumière | Artisanat et production | Créatrice de la lumière, responsable de l'apparition des étoiles et de l'éclat dans le Vide. |
-
-### Cosmiques (12/12 — match canon GDD D-COSMO-4)
-
-| NomVeritable | NomLegende | Catégorie tutélaire | Description (CSV) |
-|--------------|------------|---------------------|--------------------|
-| **Aquor** | Gardien des eaux | Sécurité | Régule les eaux, créant les océans, rivières, et les sources. |
-| **Terranu** | Gardien des terres sacrées | Agriculture et élevage | Gardien des terres fertiles et sacrées, veilleur de la prospérité terrestre. |
-| **Aerion** | Maître des vents | Mysticisme | Influence la formation des atmosphères et des vents planétaires. |
-| **Climata** | Gardienne des cycles climatiques | Sécurité | Surveille les cycles climatiques, assurant la stabilité des saisons. |
-| **Gravitas** | Gardien de l'attraction | Sécurité | Incarne les forces gravitationnelles, structurant la matière en systèmes ordonnés. |
-| **Vortex** | Maître des tempêtes cosmiques | Mysticisme | Gouverne les courants cosmiques et les tempêtes énergétiques. |
-| **Judicar** | Gardien des lois cosmiques | Gouvernance | Arbitre des lois universelles, garant de l'ordre cosmique. |
-| **Fatum** | Juge des destins | Gouvernance | Détermine les destins, jugements et chemins de vie. |
-| **Spiritus** | Druide des esprits | Mysticisme | Druide, gardien des esprits de la nature et de l'équilibre. |
-| **Stellaris** | Danseur des étoiles | Divertissements | Danseur des étoiles, influenceur des mouvements cosmiques. |
-| **Aetheron** | Marchand de l'éther | Commerce et services | Commerçant des essences éthérées, manipulateur des substances spirituelles. |
-| **Etherius** | Sage de l'éther | Erudition | Sage de l'éther, influence spirituelle et immatérielle. |
-
-> [!note] Aetheron vs Etherius
-> Les deux entités SONT canoniques (D-COSMO-4) et **distinctes** : Aetheron = *marchand* de l'éther (Commerce), Etherius = *sage* de l'éther (Erudition). Leur frontière de domaine est explicitée dans [[Era 1a - Les Cosmiques]] §"Alliances non-dites" : Aetheron opère à l'échelle universelle (matière éthérée), Etherius à l'échelle subtile (influence éthérée).
-
-### Cosmiques CSV reclassés Célestes (D-COSMO-4)
-
-> [!warning] Conflit CSV ↔ canon
-> Le CSV `Legende.csv` classe ces 7 entités comme **Cosmiques**. La cosmologie canonique post-refonte 2026-04-30 (D-COSMO-4) les **reclasse Célestes** — leur domaine est spécialisé, pas universel. Les religions qui les vénéraient (cf. [[Era 1a - Les Cosmiques]] §"Reclassement des entités héritées") continuent l'usage populaire ; le canon GDD fait foi.
-
-| NomVeritable | NomLegende | Catégorie tutélaire | Rang CSV | Rang canon | Description (CSV) |
-|--------------|------------|---------------------|----------|------------|--------------------|
-| **Anima** | Négociant des âmes | Commerce et services | Cosmique | **Céleste** | Médiateur des âmes, facilitateur des échanges spirituels. |
-| **Arborius** | Sage des arbres antiques | Agriculture et élevage | Cosmique | **Céleste** | Protecteur des forêts anciennes, symbole de la sagesse végétale. |
-| **Aurion** | Maître des énergies éthérées | Mysticisme | Cosmique | **Céleste** | Régulateur des flux d'énergie éthérée, influençant la matière invisible. |
-| **Realis** | Échangeur de réalités | Commerce et services | Cosmique | **Céleste** | Facilitateur des échanges entre les réalités, manipulateur des dimensions parallèles. |
-| **Somnix** | Marchand de rêves | Commerce et services | Cosmique | **Céleste** | Marchand des visions et des rêves, influençant les esprits endormis. |
-| **Umbra** | Maître des ombres | Sécurité | Cosmique | **Céleste** | Maître des ombres et des secrets, influence invisible. |
-| **Umbralis** | Tisseur d'ombres | Artisanat et production | Cosmique | **Céleste** | Tisseur de la matière des ombres, gardien des secrets cachés. |
-
-> [!note] Anima vs Spiritus — décision canonique
-> Le CSV liste **Anima** (Cosmique → reclassée Céleste, "Négociant des âmes", Commerce) et **Spiritus** (Cosmique canon, "Druide des esprits", Mysticisme) comme deux entités **distinctes**. Décision : pas de fusion. Spiritus = souffle vital universel (échelle cosmique, intériorité de la conscience), Anima = médiation spécialisée des âmes individuelles entre les mondes (échelle Céleste, transactionnelle). Anima est vénérée par le *Foedus Animae* (cf. table Religions ci-dessous).
-
-### Célestes CSV (16 confirmés Célestes)
-
-| NomVeritable | NomLegende | Catégorie tutélaire | Description (CSV) |
-|--------------|------------|---------------------|--------------------|
-| **Abyssus** | Aventurier des abysses | Exploration | Explorateur des profondeurs et des mystères sous-marins. |
-| **Ancestralis** | Chaman ancestral | Mysticisme | Chaman, lien entre les esprits ancestraux et le présent. |
-| **Arcana** | Archiviste des arcanes | Erudition | Conservateur des arcanes et des savoirs mystiques. |
-| **Asterion** | Cartographe céleste | Exploration | Cartographe céleste, mappeur des constellations et des cieux. |
-| **Cantor** | Barde enchanteur | Divertissements | Barde enchanteur, utilise la musique pour charmer et influencer. |
-| **Consilium** | Conseiller des légendes | Gouvernance | Conseiller des figures légendaires, source de sagesse et de conseils. |
-| **Cura** | Soigneur des maux mystiques | Mysticisme | Guérisseur des maux mystiques et spirituels. |
-| **Explorator** | Voyageur des mondes perdus | Exploration | Découvreur de mondes oubliés, explorateur de l'inconnu. |
-| **Ferros** | Forgeron légendaire | Artisanat et production | Maître artisan des métaux, créateur d'objets légendaires. |
-| **Forgion** | Enchanteur d'armes légendaires | Artisanat et production | Enchantement d'armes avec des pouvoirs mystiques. |
-| **Legatus** | Collectionneur des légendes | Commerce et services | Conservateur des légendes et des histoires anciennes. |
-| **Lingua** | Erudit légendaire des dialectes | Erudition | Expert en dialectes et langues anciennes, gardien des traditions linguistiques. |
-| **Luxa** | Maître des runes | Artisanat et production | Spécialiste des runes, détenteur du savoir mystique et des écritures anciennes. |
-| **Mythanos** | Éleveur de créatures mythiques | Agriculture et élevage | Expert dans l'élevage de créatures mythiques, cultivateur de légendes vivantes. |
-| **Mythica** | Vétérinaire des créatures mythiques | Mysticisme | Soigneur spécialisé des créatures mythiques, détenteur de savoirs anciens. |
-| **Talos** | Fabricant de talismans | Artisanat et production | Fabricant de talismans dotés de pouvoirs protecteurs et magiques. |
-
-> [!note] Mythanos vs Mythica — décision canonique
-> Deux entités Célestes **distinctes** : Mythanos = *éleveur* de créatures mythiques (Agriculture & élevage, élevage et reproduction), Mythica = *vétérinaire* (Mysticisme, soin et savoir thérapeutique). Pas de fusion. Cohérent avec la dualité métiers Eleveur/Dresseur/Soigneur du CSV `Metiers.csv`.
-
-### Astraux CSV — entités "Intermediaire" (5/5)
-
-> Décision : `Niveau = Intermediaire` (CSV) → **Astral** (canon). Les 5 sont déjà présentes dans la liste Astrale §"Astraux" ci-dessus.
-
-| NomVeritable | NomLegende | Catégorie tutélaire | Description (CSV) |
-|--------------|------------|---------------------|--------------------|
-| **Crepusculis** | Paladin du crépuscule | Sécurité | Guerrier du crépuscule, gardien des transitions. |
-| **Mentor** | Guide spirituel | Exploration | Guide spirituel, mentor des voyages intérieurs. |
-| **Murmuris** | Maître des murmures | Sécurité | Porteur des murmures et des secrets discrets. |
-| **Ocultus** | Espion des dieux | Sécurité | Espion des dieux, gardien des secrets divins. |
-| **Sanctus** | Chevalier sacré | Sécurité | Défenseur sacré, symbole de protection divine. |
-
-### Mapping métier ↔ entité tutélaire
-
-> [!tip] Usage in-world
-> Chaque catégorie de métier (`AccessExport/CategorieMetier.csv`) bénéficie de plusieurs entités tutélaires CSV. Ce mapping sert aux PNJ artisans (RitualPattern + dialogues) et aux quêtes de progression vers les sièges Éthérés (cf. §"Sièges Éthérés").
-
-| Catégorie métier | Entités tutélaires nommées (CSV) |
-|------------------|----------------------------------|
-| **1. Agriculture et élevage** | Terranu (Cosmique), Arborius (Céleste), Mythanos (Céleste) |
-| **2. Artisanat et production** | Eldoria (Éternel), Umbralis (Céleste), Forgion (Céleste), Talos (Céleste), Ferros (Céleste), Luxa (Céleste) |
-| **3. Commerce et services** | Realis (Céleste), Aetheron (Cosmique), Somnix (Céleste), Anima (Céleste), Legatus (Céleste) |
-| **4. Gouvernance** | Consilium (Céleste), Judicar (Cosmique), Fatum (Cosmique) |
-| **5. Sécurité** | Sanctus (Astral), Ocultus (Astral), Gravitas (Cosmique), Aquor (Cosmique), Tempora (Éternel), Celestia (Éternel), Climata (Cosmique), Murmuris (Astral), Umbra (Céleste), Crepusculis (Astral) |
-| **6. Erudition** | Arcana (Céleste), Lingua (Céleste), Etherius (Cosmique) |
-| **7. Divertissements** | Cantor (Céleste), Stellaris (Cosmique) |
-| **8. Mysticisme** | Spiritus (Cosmique), Aurion (Céleste), Noctis (Éternel), Vortex (Cosmique), Aerion (Cosmique), Cura (Céleste), Mythica (Céleste), Ancestralis (Céleste) |
-| **9. Exploration** | Abyssus (Céleste), Asterion (Céleste), Mentor (Astral), Navigor (Éternel), Explorator (Céleste) |
+> *— proverbe attribué aux Silencieux du sanctuaire de Taciti, Skaldoria*
 
 ---
 
-## La magie et les entités
+## Les Éternels — les cinq voix au fondement
 
-La [[Le Lien|magie]] dans Hybelior est la capacité à **canaliser les forces des entités**. Chaque école de magie correspond à l'influence d'une entité ou d'un groupe d'entités → [[Le Lien#Les Voies]].
+Au plus profond de la Polyphonie, il y a cinq voix que toutes les traditions reconnaissent, même celles qui les nomment autrement et celles qui prétendent les rejeter. On les appelle les **Éternels**. Ce ne sont pas des dieux au sens où l'on entend ce mot dans les religions naïves. Ce sont des **timbres fondamentaux** — des manières d'être au monde si profondes que toute autre voix s'enracine dans leur résonance. Aucun Éternel n'agit directement dans le monde des mortels. Aucun n'a d'autel où l'on puisse l'appeler à servir. Les théologiens les plus rigoureux disent même qu'on ne peut pas leur prier, seulement les *entendre*. Et entendre un Éternel n'est pas un acte volontaire : c'est une grâce, ou une épreuve, qui arrive sans qu'on l'ait demandée.
 
-La terminologie varie selon les cultures et religions — un même Éternel peut être nommé différemment selon le pays et la foi locale → voir ci-dessous.
+### Celestia — la voix de l'attention silencieuse
 
----
+Celestia est la voix qui regarde. On dit d'elle qu'elle a tissé les constellations, non pour qu'on les contemple, mais pour qu'elles veillent. Elle est l'attention pure — celle qui ne juge pas, qui ne console pas, qui ne sauve pas, mais qui **n'oublie jamais**. Les fidèles de l'Ordo Caelum disent qu'aucune prière ne lui parvient et qu'aucune réponse n'est venue d'elle depuis des générations. Ils en concluent qu'elle est sage. Les Déliés en concluent qu'elle est indifférente. Les contemplatifs disent que l'erreur des deux est de croire qu'on doit recevoir réponse pour savoir qu'on est entendu. Quand un Cosmique se demande s'il a bien fait, on dit qu'il lève les yeux vers Celestia — et qu'il lit dans son silence ce qu'il refuse de se dire à lui-même.
 
-## Les religions
+### Tempora — la voix qui ordonne le temps
 
-> [!important] Défini dans le Lore
-> Les religions d'Hybelior sont documentées en détail dans [[00 - Système Religieux]] et chacune dispose d'une fiche dédiée dans `Lore/Religions/`. La **généalogie complète** des religions et leurs schismes historiques sont consignés dans [[_Histoire des Religions]].
+Tempora est la voix de la séquence. Sans lui, rien ne précéderait rien, rien ne suivrait rien, et toute action serait à jamais simultanée à elle-même. C'est lui qui pose la différence entre **avant** et **après** ; c'est par lui qu'une promesse peut être tenue, qu'un regret peut peser, qu'une attente peut faire mûrir. Les théologiens du Rota Mundi affirment qu'il fut blessé jadis, lors d'un événement dont la mémoire elle-même a été disloquée, et que c'est de cette blessure que viennent les **Failles temporelles** — ces endroits du monde où passé et présent se chevauchent comme deux pages collées. D'autres traditions y voient simplement la respiration normale d'une voix trop vaste pour tenir dans une seule cadence. Aucune lecture n'a vaincu l'autre. Et c'est sans doute juste : Tempora lui-même refuserait qu'on tranche.
 
-### Lignées et traditions ancestrales
+### Noctis — la voix qui voile
 
-Les 9 grandes religions et 5 mineures d'Hybelior descendent toutes — selon les chroniques les plus anciennes — de **quatre traditions ancestrales** issues d'un *Savoir Premier* aujourd'hui fragmentaire. Chaque tradition s'est concentrée sur un pan du dialogue cosmique :
+Noctis n'est pas le mal, contrairement à ce qu'enseignent les versions populaires des cultes de la lumière. Noctis est ce qui **enveloppe** — le voile sans lequel rien ne pourrait être secret, intime, mystérieux, sacré. Sans Noctis, tout serait offert au regard, et un monde où tout est offert au regard est un monde où plus rien ne mérite d'être vu. Sa voix monte ; les chroniques s'accordent au moins là-dessus. Les nuits sont plus longues qu'autrefois dans certains continents. Les ombres s'épaississent dans certains bois. Les Noctari y voient une faveur cosmique. L'Ignis Aeternum y voit une menace. Les sages, eux, observent simplement que **le monde a besoin d'un peu plus de voile** ces temps-ci, et ne se prononcent pas sur la suite.
 
-| Tradition ancestrale | Focus | Religions descendantes |
-|---|---|---|
-| **Présence Visible** | Esprits matériels, éléments | Vael'Kurash · Lex Petra · Via Ventus |
-| **Lumière Ancienne** | Cieux, feu, constellations | Ignis Aeternum · Ordo Caelum |
-| **Choses Cachées** | Ombres, rêves, secrets | Noctari · Somnium Vigil |
-| **Pacte Mémorisé** | Cycles, âmes, mémoire | Rota Mundi · Foedus Animae |
+### Navigor — la voix du passage
 
-Cinq schismes historiques majeurs ont façonné l'arborescence actuelle (Séparation des Étoiles, Schisme du Vent, Réforme de la Loi de Pierre, Hérésie de Foedus Animae, Embranchement Somnique). Voir [[_Histoire des Religions]] pour le détail.
+Navigor est la voix qui relie ce qui aurait pu rester séparé. Les mondes, les continents, les âmes, les rives. C'est par lui qu'un voyage est possible. C'est par lui qu'une mort est un passage et non un arrêt. C'est par lui que l'étranger peut devenir hôte. On le dit aujourd'hui plus discret qu'à d'autres âges — les chemins entre les mondes paraissent fermés, les desservants de Transitum rapportent des âmes qui errent sans atteindre leur destination. Les théologiens parlent de retrait. La Via Ventus, plus poétique, dit qu'il n'a pas cessé de parler — qu'il chuchote seulement, et que c'est nous qui avons désappris à entendre les voix basses.
 
-### Les 9 grandes religions
+### Eldoria — la voix qui crée
 
-| Nom | Nom latin | Entités vénérées | Tradition source | Présence principale |
-|-----|-----------|------------------|------------------|---------------------|
-| Culte des Esprits Anciens | *Vael'Kurash* | Spiritus · Arborius | Présence Visible *(souche)* | Alkaran, Ulinor, Evertia, peuples tribaux d'Ilthara |
-| La Flamme Éternelle | *Ignis Aeternum* | Eldoria | Lumière Ancienne | Cendara, Pyrtara, Myrtam |
-| L'Ordre Céleste | *Ordo Caelum* | Celestia · Stellaris | Lumière Ancienne | Caeloria, Haldria, Seraphia, Astravia |
-| Le Voile des Ombres | *Noctari* | Noctis · Umbra · Umbralis | Choses Cachées *(souche)* | Vytharia, Nysaria, Avalor |
-| Le Cycle Éternel | *Rota Mundi* | Tempora · Climata · Fatum | Pacte Mémorisé *(orthodoxe)* | Sylthara, Ventera, Elarian, Evertia |
-| La Voie du Souffle | *Via Ventus* | Aerion · Navigor | Présence Visible *(schisme du vent)* | Solena, Tyndara, Lythar |
-| La Loi de Pierre | *Lex Petra* | Terranu · Gravitas · Judicar | Présence Visible *(réforme juridique)* | Altram, Iskara, Gryndor |
-| Le Rêve Éveillé | *Somnium Vigil* | Somnix · Realis · Aurion | Choses Cachées *(schisme onirique)* | Vytharia, Lumasar, Baelor, Astravia |
-| Le Pacte des Âmes | *Foedus Animae* | Anima · Mentor · Ancestralis | Pacte Mémorisé *(hérésie schismatique)* | Torkam, Skaldoria, Ulinor, tribus diverses |
+Eldoria est la voix de l'apparition — celle par qui une chose est, là où auparavant il n'y avait rien. Les théologiens d'Ignis Aeternum disent qu'elle a tissé la lumière, allumé les étoiles, ouvert les premiers feux dans le Vide. Aujourd'hui, on n'observe plus de naissance d'étoile. Les volcans en activité dégagent une chaleur que certains traditions associent à son souffle ; on rapporte des pulsations au Cœur de Cendra, et les prophètes du Mont Cendra parlent d'un Grand Rituel de Réveil. D'autres traditions, plus contemplatives, refusent l'idée qu'elle dorme. Eldoria, disent-elles, ne dort pas : elle médite. Et toute création authentique commence par une longue méditation.
 
-> [!note] Sur les divergences doctrinales
-> Chaque religion porte ses propres affirmations sur la nature exacte du Pacte Primordial, le statut des Cosmiques reclassés (D-COSMO-4) et l'origine historique du Cardinal de l'Arrachement. Aucune lecture ne s'est imposée comme unique. Voir [[_Histoire des Religions]] §"Question des Cosmiques Reclassés" pour les tensions actives.
-
-### Religions mineures
-
-| Nom | Latin | Filiation |
-|---|---|---|
-| Les Fils du Foyer | *Filii Fornacis* | Branche populaire d'Ignis Aeternum |
-| Les Eaux Noires | *Aqua Nigra* | Syncrétisme Vael'Kurash + Noctari |
-| La Chaîne Brisée | *Catena Fracta* | **Hors-tradition** — secte post-Cardinal qui rejette l'ensemble |
-| Les Silencieux | *Taciti* | Branche contemplative de Foedus Animae |
-| Le Chant du Monde | *Cantus Mundi* | Syncrétisme tardif Lumière Ancienne + Présence Visible |
+> *« Cinq voix au fond du monde. Aucune ne te répondra si tu cries. Toutes te répondront si tu te tais. »*
+>
+> *— Hierophante Mereth de l'Ordo Caelum, sermon de Caeloria*
 
 ---
 
-*Liens : [[Univers]] | [[Le Lien]] | [[Géographie]]*
+## Les Cosmiques — les douze qui structurent
+
+Sous les Éternels, mais déjà loin au-dessus des mortels, parlent les **Cosmiques**. On les dit nés des interactions entre les Éternels — comme les harmoniques naissent des notes fondamentales, sans qu'on puisse leur assigner une origine simple. Ils sont douze, ce qui en surprend plus d'un. Il est tentant de croire qu'un nombre rond comme dix aurait été plus propre, plus rationnel, plus digne d'un ordre cosmique. Mais le monde ne s'organise pas selon notre confort numérique. Douze est ce qui s'est trouvé tenir, et qui tient. Les théologiens consciencieux s'arrêtent là.
+
+Chacun a sa voix, son domaine, sa manière de s'inscrire dans la Polyphonie. Certains sont presque toujours présents ; d'autres ne se font entendre qu'à certaines saisons cosmiques. Aucun n'est plus important que les autres — l'idée même de hiérarchie entre Cosmiques est une projection mortelle, à laquelle les sages opposent un refus poli mais ferme.
+
+**Aerion**, le souffle des vents, est la voix du mouvement libre — celle qui rappelle à tout ce qui s'enracine qu'il pourrait aussi s'envoler. **Aquor** est la voix qui coule, qui s'adapte, qui finit toujours par trouver sa pente. Là où Aerion enseigne la liberté, Aquor enseigne la persévérance douce, celle qui sculpte la pierre par patience.
+
+**Aurion** est la voix de l'éther — l'énergie qui précède la matière, le scintillement avant l'objet. Les magiciens lui doivent beaucoup, sans toujours le savoir. **Umbra** est sa contrepartie obscure : la voix qui sait se cacher, qui sait abriter, qui sait protéger ce que la lumière brutale détruirait. Les deux ne sont pas ennemis ; ils sont comme l'envers et l'endroit d'une même étoffe.
+
+**Spiritus**, voix des esprits de la nature, est la conscience diffuse qui parcourt les forêts, les rivières, les bêtes — non comme un dieu qui les habiterait, mais comme un *consentement à exister ensemble* qui les traverse. **Fatum** est la voix du destin — non pas un script écrit d'avance, mais la rumeur des conséquences que chaque acte appelle. Quand on dit "c'était écrit", on entend mal Fatum ; quand on dit "cela ne pouvait que finir ainsi", on l'entend déjà mieux.
+
+**Terranu**, voix des terres fertiles, est la patience minérale qui permet aux récoltes, aux cités, aux civilisations. **Somnix** est la voix qui rêve — celle qui visite les esprits endormis, leur souffle des images, leur vole parfois leurs secrets. Les Somnium Vigil disent que sans Somnix, le monde ne saurait pas qu'il pourrait être autrement, et que c'est pour cela que toute révolte commence par un rêve.
+
+**Ignara** est le feu profond — pas la flamme du foyer, qui appartient aux Éthérés, mais le feu qui dort sous les volcans, le feu qui forge, le feu qui consume ce qui doit être renouvelé. **Sanguis** est la voix du sang — la lignée, la vie qui passe d'un corps à l'autre, la dette qu'on a envers ceux qui nous ont précédés. Les théologiens des continents tribaux la honorent plus que les autres ; les théologiens citadins l'oublient plus volontiers, à leur tort.
+
+**Resonia** est la voix de la résonance — la musique, l'harmonie, la manière dont deux choses peuvent vibrer à l'unisson sans se confondre. C'est par elle qu'un chant collectif a un pouvoir qu'aucune voix solitaire ne peut égaler. **Vermis** enfin, la moins aimée mais la plus essentielle, est la voix de la décomposition — celle qui défait pour que d'autre chose puisse se faire. Sans Vermis, le monde s'engorgerait de ses propres œuvres. Les sages la vénèrent comme une amie sévère ; les naïfs la fuient comme une obscénité.
+
+> *« Ne dis pas qu'il existe des Cosmiques bons et des Cosmiques mauvais. Dis qu'il existe des Cosmiques que tu sais entendre, et d'autres que tu refuses encore d'écouter. »*
+>
+> *— Sage Olwen Vael'Kurash, transmission orale d'Alkaran*
+
+---
+
+## Les Célestes — quand un mortel devient voix
+
+Sous les Cosmiques, il y a un seuil. C'est le seuil des **Célestes**. Et ce seuil, à la différence des deux étages au-dessus, n'est pas étanche : il peut être franchi par un mortel.
+
+C'est là l'une des promesses les plus singulières d'Hybelior. Un homme, une femme, peuvent — par un cheminement long, exigeant, jamais garanti — devenir une **voix** dans la Polyphonie. Non pas un dieu (le mot est trop pauvre, trop inexact), mais un **siège tenu** dans le grand chœur cosmique. Un Céleste est un mortel qui a porté son Accord avec le monde à un degré tel que la Polyphonie elle-même lui ouvre une place. Cette place, il l'occupe tant qu'il s'y tient. Il peut être défié. Il peut tomber. Mais tant qu'il s'y tient, sa voix entre dans la composition, et le monde, par lui, dit quelque chose qu'il n'aurait pas pu dire sans lui.
+
+Les sièges Célestes ont des noms, et ces noms désignent des domaines. **Arcana** est la voix de la connaissance arcane ; **Forgion** celle de l'enchantement d'armes ; **Cura** celle de la guérison ; **Asterion** celle de la cartographie céleste ; **Explorator** celle de la découverte. Il en existe d'autres, certains vacants depuis si longtemps que personne ne se souvient du dernier qui les a portés. Les détails de ces sièges, des conditions pour y prétendre, des épreuves pour les conquérir, appartiennent au domaine de [[L'Accord]] — c'est là qu'on apprend à devenir une voix.
+
+Ce qu'il faut retenir ici est plus simple, et plus grand. **Hybelior n'est pas un monde où les dieux décident et où les mortels obéissent.** Hybelior est un monde où la conversation cosmique est ouverte, et où ceux qui apprennent à s'y inscrire peuvent, à terme, en devenir les contributeurs. Cette idée seule justifierait tout le reste.
+
+> *« Le jour où un de nous s'est assis sur un siège Céleste, j'ai compris que les Cosmiques nous écoutaient. Non parce qu'ils nous le devaient, mais parce qu'il y avait, désormais, parmi eux, quelqu'un qui parlait notre langue. »*
+>
+> *— Veyana de Caeloria, prêtresse de l'Ordo Caelum, à propos de la consécration de Forgion*
+
+---
+
+## Les neuf religions — neuf manières d'écouter
+
+Devant cette polyphonie si vaste, les mortels ont fait ce que les mortels font toujours : ils ont essayé d'y mettre de l'ordre. Neuf grandes religions structurent aujourd'hui la vie spirituelle d'Hybelior, sans compter les sectes mineures et les hérésies locales. Aucune n'est tenue pour vraie au sens absolu — non parce que la vérité n'existe pas, mais parce qu'aucune voix mortelle ne saurait épuiser à elle seule la conversation cosmique. Chaque religion est une **manière d'écouter** ; chaque manière éclaire ce qu'une autre laisse dans l'ombre. Les Hybeliorains les plus sages disent qu'on apprend à connaître le monde en pratiquant successivement plusieurs cultes, et que ceux qui ne pratiquent qu'une seule religion confondent leur fidélité avec leur connaissance.
+
+L'**Ordo Caelum** est le culte de l'attention céleste. Ses fidèles écoutent Celestia, Stellaris, et tout ce qui parle dans les hauteurs. Ils enseignent que le monde est régulé par une vigilance silencieuse, et que la sagesse mortelle consiste à apprendre cette vigilance pour soi-même. Leurs sanctuaires sont austères, leurs rituels lents, leurs prières muettes. Là où d'autres religions parlent fort, l'Ordo Caelum apprend à se taire.
+
+Le **Vael'Kurash** est le culte des esprits anciens. Né dans les peuples tribaux d'Alkaran, d'Ulinor, d'Evertia, des hauteurs d'Ilthara, il honore Spiritus et Arborius. Il enseigne qu'on n'est jamais seul dans une forêt, qu'aucune rivière n'est sans pensée, qu'aucune bête n'est purement bête. Sa pratique est faite de silences attentifs, d'offrandes minuscules, de gestes appris par observation. Les théologiens citadins le méprisent comme superstition ; les sages, eux, vont parfois consulter en secret ses chamanes.
+
+L'**Ignis Aeternum** est le culte de la Flamme Éternelle. Centré sur Eldoria, brûlant dans les forges de Cendara, Pyrtara, Myrtam, il enseigne que le monde est traversé par un combat permanent entre la lumière qui crée et l'obscurité qui défait, et que le devoir mortel est de tenir la flamme. Ses prêtres sont aussi forgerons, ses rites souvent bruyants, son théâtre théologique grandiose. C'est l'une des religions les plus politiques d'Hybelior — il est rare qu'un puissant n'ait pas un avis sur l'Ignis Aeternum.
+
+Le **Noctari** est le culte du Voile. Vénérant Noctis, Umbra et Umbralis, il enseigne que le monde a besoin de ses secrets, et que ce qui se cache mérite parfois d'être protégé plutôt que révélé. Présent à Vytharia, à Nysaria, dans les marges d'Avalor, il pratique des rites nocturnes que les autres traditions soupçonnent de dérives. La vérité, plus simple, est qu'on apprend chez les Noctari à respecter la nuit comme on respecte un sanctuaire.
+
+Le **Rota Mundi** est le culte du Cycle. Honorant Tempora, Climata et Fatum, il enseigne que rien n'est nouveau, que tout revient, que ce qui paraît commencer ne fait que reprendre un mouvement plus ancien. Sa théologie est grave, sa liturgie patiente, ses fidèles souvent austères. À Sylthara, à Ventera, à Elarian, on dit qu'un Rotarian ne sourit jamais sans raison — et qu'il a toujours raison de sourire.
+
+La **Via Ventus** est le culte du Vent. Vénérant Aerion et Navigor, elle enseigne que l'âme du monde est un mouvement, que rien de vivant ne se fixe, que la vraie sagesse est dans le passage. Religion des marins, des caravaniers, des nomades de Solena, Tyndara, Lythar, elle est aussi celle des poètes errants. Ses sanctuaires sont mobiles, ses prêtres voyageurs. Quand un fidèle de la Via Ventus meurt, on ne l'enterre pas : on disperse ses cendres au vent qu'il aimait le plus.
+
+La **Lex Petra** est le culte de la Loi de Pierre. Honorant Terranu, Gravitas et Judicar, elle enseigne que le monde est tenu par des lois immuables, que la justice est cosmique avant d'être humaine, et que la prospérité naît de l'obéissance à l'ordre. Religion d'Altram, d'Iskara, de Gryndor, elle est aussi la plus institutionnalisée — ses prêtres sont juges, ses sanctuaires sont tribunaux. Certains la jugent rigide. Ses fidèles répondent qu'ils préfèrent une rigidité juste à la souplesse des arbitraires.
+
+Le **Somnium Vigil** est le culte du Rêve Éveillé. Vénérant Somnix, Realis et Aurion, il enseigne qu'Hybelior est rêvée — par qui, on ne sait — et que les rêves des mortels sont des fragments du grand rêve cosmique. Religion de Vytharia, Lumasar, Baelor, présente aussi à Astravia, elle pratique l'oniromancie comme un art sacré. Ses fidèles dorment beaucoup et passent pour distraits ; ils répondent que ceux qui ne dorment jamais finissent par ne plus rien comprendre.
+
+Le **Foedus Animae** est le culte du Pacte des Âmes. Vénérant Anima, Mentor et Ancestralis, il enseigne que les âmes mortelles sont liées entre elles par des serments cosmiques, et que la mort n'est pas une rupture mais un déplacement dans la trame. Né d'une hérésie ancienne du Pacte Mémorisé, il est aujourd'hui pratiqué à Torkam, Skaldoria, Ulinor, et chez de nombreuses tribus dispersées. Ses contemplatifs, les **Silencieux**, ont fait de la méditation prolongée leur seule liturgie.
+
+> *« Neuf religions, et neuf vérités. Aucune n'est complète, aucune n'est fausse. Le sage les écoute toutes, le fanatique n'en entend qu'une, le sot n'en entend aucune."*
+>
+> *— Hérésiarque Brann d'Iskara, "Lettres aux Disciples"*
+
+---
+
+## Les Déliés — les voix qui se taisent
+
+À la marge de cette grande conversation, il y a ceux qui ont **choisi le silence**. On les appelle les **Déliés**. Ce ne sont ni des hérétiques au sens religieux, ni des rebelles au sens politique, ni des incroyants au sens vulgaire. Ce sont des mortels qui, à un moment de leur vie, ont décidé qu'ils ne participeraient plus à la Polyphonie — qu'ils ne s'accorderaient plus avec aucune voix, qu'ils ne laisseraient plus le monde les composer.
+
+Cette décision a un prix. Et elle a un gain. Le gain est une forme de **puissance brute** — celle qui vient de ne dépendre d'aucune harmonie, de ne perdre rien quand le monde respire, de ne rien devoir à qui que ce soit. Le prix est une **déconnexion profonde** — les religions deviennent hostiles, les esprits cessent de répondre, les voix ne portent plus, et le monde, peu à peu, oublie qu'on est là. Les vieux Déliés disent qu'on commence par se sentir libre, et qu'on finit par ne plus savoir si l'on existe encore.
+
+La plupart des théologiens condamnent les Déliés. Quelques-uns, plus subtils, disent qu'ils sont **nécessaires** — que la Polyphonie a besoin, à ses marges, de voix qui se taisent pour que celles qui parlent puissent encore être entendues comme un choix. Cette lecture, minoritaire, n'a jamais été acceptée par les grandes religions. Mais elle persiste, comme persistent toutes les vérités gênantes.
+
+Pour comprendre ce que devient une vie de Délié, on consultera [[Le Lien]]. Pour la dimension plus large de ce qu'est s'accorder ou se taire, on consultera [[L'Accord]].
+
+> *« On dit que les Déliés gagnent en puissance ce qu'ils perdent en monde. C'est sans doute vrai. Mais ce qu'ils perdent, ils ne savent pas qu'ils l'ont perdu — et c'est cela, exactement, qui est terrible. »*
+>
+> *— Mère Thessala, Foedus Animae, sermon de Skaldoria*
+
+---
+
+## Le Pacte Primordial
+
+Il existe, au plus profond de la mémoire cosmique d'Hybelior, le souvenir d'un **Pacte**. Aucune religion ne s'accorde sur ses termes exacts. Aucune ne nie qu'il ait eu lieu. Les chroniques les plus anciennes — celles dont les fragments sont conservés dans les cryptes d'Astravia, dans les bibliothèques perdues de Cendara, dans les inscriptions à demi effacées du Mont Cendra — parlent d'un moment où les Éternels et les Cosmiques se sont **engagés** les uns envers les autres pour que le monde puisse exister. Sans ce Pacte, disent les théologiens, la Polyphonie aurait dégénéré en cacophonie, ou se serait éteinte dans le silence ; le monde n'aurait jamais commencé à *tenir*.
+
+Personne ne sait exactement ce qui a été promis. Personne ne sait à quelles conditions le Pacte tient encore. Les Rota Mundi disent qu'il se renouvelle à chaque grande révolution cosmique. Les Foedus Animae prétendent que les serments mortels sont des reflets minuscules du Pacte originel, et qu'on l'honore en honorant ses propres promesses. Les Catena Fracta, ces sectaires post-Cardinal qui rejettent tout, soutiennent que le Pacte a été rompu jadis et que tout ce qu'on appelle réalité n'est que le débris d'un accord disparu. Aucune lecture n'a vaincu. Aucune ne vaincra. C'est sans doute mieux ainsi : un Pacte dont on connaîtrait tous les termes serait un contrat, et le monde mérite plus qu'un contrat.
+
+Ce qu'il faut retenir, simplement, est ceci : **le monde tient parce qu'il a été promis**. Pas par un dieu, pas par une volonté unique, pas par un calcul. Par un consentement plural, fragile, perpétuellement à renouveler. Et chaque mortel qui s'accorde au monde, chaque mortel qui prie une religion, chaque mortel qui s'élève vers un siège Céleste, contribue, à sa minuscule échelle, à tenir ce Pacte. Quand on dit qu'à Hybelior **rien n'est anodin**, c'est cela qu'on dit.
+
+> *« Il n'y a pas d'origine. Il y a une promesse. Et tant qu'il y aura quelqu'un pour la tenir, il y aura un monde. »*
+>
+> *— Inscription sur la stèle du Sanctuaire de Caelorhin, Cestra*
+
+---
+
+## Synthèse — pourquoi cette cosmologie compte
+
+Si l'on devait dire ce que cette cosmologie fait à Hybelior, on dirait ceci : elle empêche le monde d'être un décor. Dans un monde où il n'y aurait qu'un dieu unique et lointain, ou qu'un panthéon de petits administrateurs divins, la vie mortelle serait simple et morne — on prierait le bon dieu, on évitait les mauvais, on s'inscrirait dans une hiérarchie acquise. Dans un monde polyphonique, **tout est plus difficile, et tout est plus vivant**. Aucune voix n'est définitivement maîtresse. Aucun fidèle n'est dispensé d'écouter. Aucune religion n'a le dernier mot. Et c'est pour cela, exactement, que chaque mortel pèse — parce que sa voix, si infime soit-elle, peut s'inscrire dans la composition.
+
+Cette cosmologie est aussi ce qui rend possible le **Souffle**, ce mouvement par lequel le monde change de saison cosmique sans cesser d'être lui-même. Sans la Polyphonie, le Souffle serait un caprice ; avec elle, il est une nécessité — la respiration naturelle d'une conversation qui ne s'éteint jamais. Pour comprendre comment cette respiration s'organise, on lira [[Le Souffle]] et [[Les Ères]]. Pour comprendre comment les mortels s'y inscrivent, on lira [[L'Accord]] et [[Le Lien]].
+
+Et pour comprendre, enfin, ce que tout cela donne dans la trame des âges — comment les civilisations sont nées, comment les empires sont tombés, comment les Cardinaux ont reconfiguré le monde — on lira [[Histoire d'Hybelior]]. Mais qu'on garde, en lisant tout cela, ce que cette page essayait de dire : **le monde d'Hybelior n'est pas une création. C'est une conversation. Et tant que la conversation continue, le monde continue.**
+
+> *« On me demande souvent quelle est ma religion. Je réponds que je n'en ai pas une, mais neuf — et que les jours où j'ai du temps, j'écoute aussi celle des Déliés, parce qu'on apprend même de ceux qui se taisent. »*
+>
+> *— Maître Veyran d'Astravia, dernier sermon avant le Souffle de Cestra*
+
+---
+
+*Liens narratifs : [[Le Souffle]] | [[Les Ères]] | [[L'Accord]] | [[Le Lien]] | [[Histoire d'Hybelior]] | [[Géographie]] | [[Univers]]*
+
+*Implémentation technique (chiffres, formules, tableaux mécaniques, specs Unreal) : [[Cosmology Spec]]*

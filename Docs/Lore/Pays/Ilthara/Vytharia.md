@@ -1,8 +1,8 @@
 ﻿---
-tags: [lore, pays, ilthara]
-type: lore
-status: drafted
-last_review: 2026-05-02
+tags: [lore, pays, ilthara, vytharia]
+type: nation
+status: canon
+last_review: 2026-05-06
 needs_review_for: []
 ---
 # Vytharia — Le Royaume au-delà du Voile
@@ -180,6 +180,68 @@ Région méridionale baignée d'une brume perpétuelle, Gelinar est le domaine d
 - **Les Cauchemars Éveillés** : Depuis quelques mois, des habitants de Brystalis se réveillent avec des blessures physiques correspondant à des cauchemars qu'ils ne se souviennent pas avoir faits. Les Veilleurs enquêtent mais ne trouvent aucune explication. La rumeur se répand que le Voile se déchire — non pas en un seul point, mais partout à la fois, comme un tissu qui s'effiloche.
 - **Le Lac des Rêves** : Le Lac des Rêves au centre d'Ilthara serait la source du Voile du Rêve. Une faction au sein de l'Oligarchie veut envoyer une expédition au Lac pour renforcer le Voile de l'intérieur. Une autre faction s'y oppose, craignant que toute manipulation directe ne provoque un effondrement catastrophique. La tension entre les deux factions menace de briser l'unité de l'Oligarchie.
 - **L'Artisan des Cauchemars** : À Zaralith, un Noctari connu sous le nom de « L'Artisan » aurait développé la capacité de créer des cauchemars sur commande et de les injecter dans l'esprit de victimes endormies. Si cette rumeur est vraie, c'est l'arme la plus terrifiante jamais conçue en Vytharia — et quelqu'un, quelque part, l'utilise déjà.
+
+---
+
+## Cadre interne — Patterns
+
+> Encadré technique réservé aux rédacteurs et agents travaillant le Lore. N'apparaît jamais in-world.
+
+**Piège Institutionnel dominant : EFFACEMENT DE LA LIMITE. Doublé d'un DÉNI DU SABLIER en arrière-plan (le Voile comme acquis cosmologique éternel).**
+
+Vytharia est, à l'échelle d'Ilthara, le cas le plus articulé d'Effacement de la Limite. Le Voile du Rêve, salué comme une réussite civilisationnelle, est en réalité un *dispositif d'effacement* : il rend équivalents le rêve et la réalité, l'illusion et la matière, le mensonge esthétique et la vérité crue. Aucun rang social ne se donne pour stable (les bâtiments changent selon l'observateur), aucune profession n'est fixe (un Tisseur de Voile est aussi administrateur, prêtre, juge, artiste), aucun jugement n'est tranchant (les Veilleurs eux-mêmes, censés voir la réalité nue, sont *un statut à part*, ni au-dessus ni en-dessous, soigneusement désintégré de la chaîne d'autorité).
+
+L'Effacement vytharien est *séduisant* — c'est ce qui en fait le piège. Les visiteurs étrangers s'émerveillent. Les diplomates de Gryndor cherchent à comprendre. Les artistes de Sylthara revendent les pigments d'illusion. Personne n'observe que sous les jardins chantants de Nectoria, le sol est mort (cf. Histoires de Vytharia — *Le Jardinier des Mensonges*). Personne ne demande pourquoi les habitants de Zylor ne veulent plus partir. Personne ne calcule combien de Veilleurs se brisent (cf. *Celui qui Voyait Trop*) parce qu'ils ont vu trop clair.
+
+Le **Déni du Sablier** se superpose à l'Effacement : le Voile est traité par l'Oligarchie comme un acquis durable, presque éternel. Aucun Voilé ne pose publiquement la question de *ce qui se passe quand le Voile cessera*. Les Cauchemars Éveillés (rumeur récente) sont la première fissure visible — l'Oligarchie les enquête sans en tirer la conclusion structurelle qu'un dispositif tissé doit, un jour, se découdre.
+
+**Cohérence avec la religion :** Vytharia est la nation où **Somnium Vigil** atteint sa lecture la plus absorbante. Les trois figures du culte (Somnix le rêve, Realis la réalité, Aurion la lumière qui les relie) sont portées par la doctrine vytharienne dans une équivalence qui efface, justement, les distinctions que les autres écoles maintiennent. Pour un Somnium Vigil de Lumasar (Galenor), Realis a une priorité ontologique sur Somnix — le rêve est un mode du réel, pas l'inverse. Pour la doctrine vytharienne, les trois figures sont *équivalentes*, c'est-à-dire *interchangeables*, c'est-à-dire *aucune ne tranche*. Cette absence de tranchant est l'exact symptôme du piège.
+
+La **Noctari** secondaire complète : les Choses Cachées, à Vytharia, sont l'extrême du *plus-cachée-encore*. Les Noctari de Zaralith pratiquent dans l'obscurité totale parce que même le Voile leur paraît trop visible. Cette surenchère mystique est elle-même un Effacement — *si je vais plus loin, je transcende même la limite que les autres respectent*. Le piège se nourrit de sa propre contestation.
+
+**Âge moral collectif majoritaire : La Loi.** L'archi-majorité des Vythariens (Éveillés ordinaires, Rêveurs Lucides, Artisans du Rêve) est dans la Loi onirique — leur Loi étant le protocole d'illusion intériorisé dès la Marque du Rêve à sept ans. Cette Loi est *poreuse* — elle laisse passer beaucoup, elle accueille tout. C'est ce qui la rend particulièrement difficile à déloger : on ne peut pas argumenter contre une Loi qui dit oui à tout. Le Désir affleure chez les Rêveurs Lucides ambitieux qui veulent que leur illusion personnelle prenne le pas sur celles des autres. Le Principe est *rare et fracturé* : il prend la forme de Veilleurs qui voient trop clair et finissent par se briser, de jardiniers qui pleurent une seule marguerite ordinaire, de Tisseurs qui se taisent aux moments où ils devraient parler.
+
+**Figure-clé portant la Vertu Cachée :**
+
+**Aldris le Veilleur** (Velthorin, vivant — apparaît dans les Histoires de Vytharia comme *Celui qui Voyait Trop*, et au début de *La Femme qui se Souvint de Mourir*). Aldris porte **Le Voile** (Vertu #2) sous une forme inversée et tragique : il *voit la réalité nue*, et précisément parce qu'il la voit, il ne *peut pas* douter. Le Voile vytharien (Vertu #2) est la capacité de cultiver le doute envers ses certitudes. Aldris a l'inverse : il ne *peut* plus douter de ce qu'il voit — la pierre grise sous les tours d'argent, la terre morte sous les jardins chantants. Sa tragédie est qu'il a *perdu le Voile au moment où il a percé le Voile*. Cette inversion structurelle est emblématique vytharien : ici, voir clair, c'est se priver de la sagesse.
+
+Aldris ne théorise pas. Il *constate*. Il rapporte sept morts qui ne sont pas des morts dans *La Femme qui se Souvint de Mourir*. Il ne sauve personne. Il ne devient pas un dissident articulé. Il est, dans le dispositif Vythia, *un instrument que le dispositif a brisé*. Cette rupture intérieure est son Voile à lui — pas la sagesse du doute, mais la *lucidité douloureuse* qui ne peut pas se transmettre. Quand il mourra, il sera enterré comme un Veilleur ordinaire. Personne n'aura su.
+
+**Note** : Aldris n'a pas le statut canonique de Mara Telventh. C'est une figure ilthari posée par cette fiche en s'appuyant sur les Histoires existantes. Sa fonction est d'incarner la *vertu impossible* sous le piège — la vertu que l'Effacement de la Limite *empêche* d'opérer. À Vytharia, la lucidité brise plutôt qu'elle ne libère.
+
+**Conflit moteur de la nation :**
+
+**La tension entre la Beauté et la Vérité.** Vytharia produit une beauté que les autres nations envient. Les Tisseurs de Voile sont des artistes au sens fort. Mais cette beauté repose sur l'effacement de la vérité : la marguerite ordinaire est plus belle que tout le jardin (cf. Fenril de Nectoria), mais on a cessé de la cultiver parce que les illusions rapportent davantage. Quand un visiteur étranger pleure devant un palais d'argent qui n'existe pas, l'Oligarchie a réussi son travail. Quand un Veilleur pleure devant une rue de pierre grise qui existe, l'Oligarchie ne sait pas quoi faire de lui. Le second pleur est *plus juste* — c'est ce que la doctrine vytharienne ne peut pas reconnaître sans s'effondrer.
+
+Le second conflit est entre **Brystalis** (la doctrine pure, l'Oligarchie, la Chambre du Voile) et **Velthorin** (les Veilleurs, la lucidité brutale). Cette opposition n'est pas politique — elle est structurelle. Velthorin produit les Veilleurs dont Brystalis a besoin pour fonctionner. Mais chaque Veilleur formé est, par sa fonction même, un témoin que la doctrine ne peut pas honorer publiquement. Les Veilleurs sont *toujours-déjà* des dissidents involontaires.
+
+**Ce qui est *spécifiquement* vytharien (à ne pas dupliquer ailleurs) :**
+
+- L'**Oligarchie des Voilés** à sept membres (sessions oniriques — réunions tenues dans le rêve).
+- Les **Tisseurs de Voile** comme administrateurs-illusionnistes régionaux.
+- Les **Veilleurs** comme statut à part (formés à Velthorin par exposition aux illusions sans aide).
+- La **Marque du Rêve** à sept ans (sommeil rituel guidé qui détermine l'affinité onirique).
+- Les **Cauchemars Éveillés** (rumeur récente — cicatrices physiques après cauchemars oubliés).
+- Les **Trois Dormeurs de Kaloria** (récolteurs de brume tombés dans des sommeils sans réveil — toujours « occupés » dans le rêve selon les Voilés).
+- L'**Artisan des Cauchemars** de Zaralith (rumeur — cauchemars sur commande injectés dans des esprits endormis).
+- La **dépendance du Voile au Lac des Rêves** (faction Oligarchie qui veut renforcer / faction qui craint l'effondrement).
+- Le **Huitième Voilé** (rumeur — un Voilé passé entièrement dans le rêve).
+
+**Cohérence avec ch. 24 de Sorin :**
+
+Vytharia apparaît au chapitre 24 (Les Cavaliers — Lythar, Vytharia, Mirathi). Selon _arc-sorin §3 et §5.3, c'est le **pic de la régression Loi privée** de Sorin. Le rêve du père *inaudible* est canonique : Sorin voit son père qui parle sans son. Il *n'entend pas*. Il interprète le silence comme un message à lui adressé.
+
+La fiche Vytharia doit *favoriser cette projection sans la commenter*. L'Effacement de la Limite vytharien est précisément ce qui permet à Sorin de croire qu'il *entend* sans réellement entendre — Vytharia est une nation où tout est lisible parce que rien ne tranche. Le rêve du père est un Cauchemar Éveillé sans cicatrice — un fragment qui passe à travers le Voile parce que le Voile s'effiloche. Ce n'est pas le père qui parle. C'est le Voile qui *ressemble* à un message. Sorin ne fait pas la distinction.
+
+A.4 ne doit pas faire dire à un Tisseur ou à un Voilé une explication structurelle du rêve. Vytharia ne *théorise pas* ce que vit Sorin — Vytharia *l'autorise*. Le pic de la régression de Sorin est cohérent avec la fonction du piège : un continent où tout est valide laisse entrer en soi sans précaution.
+
+**Cohérence avec ch. 33 de Sorin (Mirathi, frontière Vytharia/Nysaria) :**
+
+Sorin revient à la lisière de Vytharia au chapitre 33 (Le Voile — Mirathi). L'Oracle lui dit *« demandez-vous où nous en sommes »*. La phrase est canonique. Elle vient d'une marche frontalière entre Vytharia et Nysaria — une zone qui partage avec Vytharia un héritage du Voile (Voile du Rêve vs Voiles plus anciens). À ce moment, Sorin commence à reconnaître la troisième langue dans son corps avant son esprit — la rigueur somatique l'emporte sur la rigueur cartographique. La fiche Vytharia n'a pas à intégrer ce développement (qui est nysarien davantage qu'ilthari), mais elle doit *rendre possible* le retour de Sorin par cette lisière sans contredire le ch. 24.
+
+**Ratio brisé / relevé pour Vytharia** : pour 1 figure de Principe brisée (Aldris le Veilleur, Fenril de Nectoria, Théyra qui se souvient de mourir), prévoir 4-6 figures *séduisantes* : Tisseurs de Voile éloquents qui croient sincèrement à leur art, Rêveurs Lucides talentueux qui font des illusions admirables, artisans de Mythoria qui produisent des soies de brume sublimes, jeunes diplomates de Brystalis qui aiment leur ville. Et 2-3 figures *de pente avancée* : Voilés qui ne savent plus distinguer leurs souvenirs réels de leurs souvenirs rêvés, Tisseurs qui mentent à leurs apprentis pour ne pas les décourager, Noctari de Zaralith qui basculent dans la psychose en croyant transcender le Voile.
+
+Aucun PNJ ne doit énoncer le piège ni la vertu. Le lecteur les verra dans la rue de Brystalis qui change selon l'observateur, dans la marguerite seule de Nectoria, dans les Trois Dormeurs de Kaloria que personne n'enterre, dans le silence d'Aldris quand un patriotique vytharien fait l'éloge de la beauté de la capitale.
 
 ---
 

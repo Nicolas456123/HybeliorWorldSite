@@ -2,7 +2,7 @@
 tags: [lore, chronique]
 type: lore
 status: drafted
-last_review: 2026-05-02
+last_review: 2026-05-06
 needs_review_for: []
 ---
 # Chapitre 28 — Les Enfants aux Yeux Blancs
@@ -155,6 +155,12 @@ Elle me regarda avec les yeux d'une mère qui interprète tout, constamment, dep
 ---
 
 Je passai deux jours de plus à Duskoris, à interroger discrètement — dans les couloirs du marché, dans les conversations de hasard sur les terrasses de falaise, dans une conversation longue avec un jeune prêtre des Veilleurs qui ne s'était pas méfié de mes questions parce que je les avais posées dans l'ordre inverse de celui qui aurait éveillé sa prudence — les gens de la ville sur ce qu'ils observaient.
+
+Je note, sans en faire plus, que je comptais les enfants. Leur nombre, leur âge à la naissance documentée, le ratio par quartier, l'évolution sur quatre ans. Ce que je ne fis pas : leur parler longuement, m'asseoir à côté de la mère qui ne montre plus sa fille, demander à la fillette de quatre ans ce qu'elle voyait. Ce sont des questions de cartographe, et je suis cartographe. Une autre forme d'attention aurait été possible. Je ne l'ai pas pratiquée.
+
+Pour la mère, j'essayai pourtant — je note cela en faveur de la rigueur, non en ma faveur. Elle s'appelait Vorenne. Arven m'avait donné l'étage de la falaise et le nom d'une voisine qui pourrait me présenter. Je montai, je frappai. Une porte qui ne s'ouvrit pas. Je redescendis. Je remontai le lendemain à une autre heure. La voisine me dit que Vorenne était sortie avec sa fille dans la grotte aux sources — tout le monde savait que c'était faux, l'enfant n'était plus sortie depuis trois mois, c'est ce qu'on m'avait dit la veille. Je remerciai la voisine. Je redescendis. Je ne remontai pas une troisième fois. J'écrivis dans la marge : *trois tentatives auraient suffi, j'en ai fait deux*. C'était faux aussi. Trois n'auraient pas suffi. Trois auraient été du forçage poli — le genre d'opiniâtreté qui s'autorise des prétextes parce qu'elle a une carte à finir. Je m'en suis tenu à deux et je me suis raconté que c'était une délicatesse. Ce n'était pas une délicatesse. C'était mon emploi du temps.
+
+J'aperçus Vorenne le matin de mon départ, sur la corniche, seule. Elle portait des seaux de neige fondue vers la pièce d'en haut. Elle marchait sans regarder personne. Elle ne pesait rien dans la lumière du matin caélorien — l'os à travers la chemise, le visage qui avait choisi quelque chose et n'en démordait plus. Je ne m'approchai pas. Une femme qui passe ses jours à protéger sa fille de ceux qui pourraient venir la regarder ne devrait pas être abordée par un cartographe étranger qui s'en va dans la même heure. Je me dis cela. C'est exact. Cela ne suffit pas tout à fait à me racheter ce moment-là, mais cela suffit à le justifier dans l'instant — et dans l'instant, c'est ce que ma Loi privée demande.
 
 Le jeune prêtre — Aldran, vingt-cinq ans, fils d'une famille de pêcheurs de Frostlin qui avait rejoint l'Ordo Caelum à seize ans pour des raisons qu'il n'avait pas précisées mais qui, à son ton, relevaient de la vocation réelle plutôt que de la tradition familiale — me parla de ce que les Veilleurs documentaient depuis deux ans.
 

@@ -1,13 +1,60 @@
-﻿---
-tags: [lore, histoire, alkaran]
-type: lore
-status: drafted
-last_review: 2026-05-02
+---
+tags: [lore, histoire, alkaran, nation]
+type: histoires
+status: canon
+last_review: 2026-05-06
 needs_review_for: []
 ---
 # Histoires d'Altram
 
-> *Chaque ville a ses cicatrices. Voici celles qui ne guerissent jamais.*
+> *Chaque ville a ses cicatrices. Voici celles qui ne guérissent jamais.*
+
+---
+
+## Lignes structurantes (vue d'ensemble historique)
+
+Pour les rédacteurs et les voyageurs qui veulent une chronologie d'Altram avant de descendre dans les histoires de villes.
+
+**Ère pré-royale (~ -200 à -1)** — communautés de mineurs et de forgerons disséminées dans les vallées d'Alkaran central, sans pouvoir centralisé. Dialecte technique commun : ce qui s'appelle aujourd'hui *l'altramin classique* (langue de forge) date de cette période et conserve un vocabulaire qui ne se trouve plus dans aucune autre nation alkaranne.
+
+**An 0 — Unification varnokienne.** Varnok le Forgeur unifie les vallées en forgeant pour chaque seigneur local une arme exceptionnelle, en échange d'allégeance. La Première Enclume, à Namyr, marque l'origine mythique du royaume. Varnok meurt vers l'an 30. Ses successeurs établissent la dynastie qui tient encore aujourd'hui (avec une seule rupture, cf. infra).
+
+**An 88-92 — Tyrannie de Korvath III.** Doublement des quotas miniers, confiscation des forges, traitement des artisans en outils. Effondrements de mines, raids skaldori (selon les chroniques d'Altram) ou plus probablement gryndori (selon les chroniques skaldori, qui n'ont jamais été reconnues). Le récit officiel a fixé Skaldoria comme adversaire ; aucune cour d'Altram n'a jamais voulu réviser cette attribution, parce que la réviser obligerait à reconnaître une intervention plus complexe d'Onara — voisinage que la mémoire altramine préfère ne pas réveiller.
+
+**An 92 — Rébellion des Forgerons.** Theron l'Enclume orchestre la grève silencieuse des ateliers. Korvath III tombe en trois mois. Theron refuse la couronne. La Charte initiale (dix-sept articles) est rédigée, et la **Monarchie Éclairée** est instaurée. Theron meurt vers 110, sans héritier biologique direct ; il transmet la *responsabilité* (pas le titre, pas le sang) à un Conseil de quatre Maîtres-Artisans.
+
+**An 100-200 — La Dérive du Code.** Multiplication des cas particuliers, extension du Conseil des Maîtres, naissance du **Livre de Pierre** (registre officiel sur dalles de granit). De dix-sept articles à plus de mille en deux siècles. La Cérémonie de la Première Forge (rite de passage à 15 ans) est codifiée vers l'an 130 ; les *Sans-Forge* (échecs au rite) deviennent une catégorie sociale stable.
+
+**An 200-251 — Stabilité institutionnelle, premières alertes minières.** Les filons de fer principaux donnent moins. Les Maîtres-Mineurs en parlent en privé ; le rapport annuel au Conseil minimise. La Veine Noire est découverte sous Martelios vers 230 ; le roi Aldric II la fait sceller. La rumeur ne s'éteint pas.
+
+**An 251-252 — Affaire du Fragment Zéro.** Le voyageur Sorin Valthen, exilé de Kharazir et de passage à Trelios au chapitre 9 de son journal (*Acier Éternel*), note que *« le Fragment pulse »*. Ses observations sont classées par les greffiers du Conseil. Aucune action. Aucun examen. Le prince Brennan, parallèlement, intensifie ses contacts avec Mosrack — sans que son père Aldric IV puisse l'arrêter autrement qu'en étouffant les preuves.
+
+**Personnages historiques nommés (chroniques) :**
+- **Varnok le Forgeur** — fondateur, an 0 à ~30
+- **Korvath III** — tyran déposé, an 92
+- **Theron l'Enclume** — rebelle, refondateur, ~92 à ~110
+- **Aldric II** — roi-bâtisseur, an 195-218
+- **Aldric IV** — roi actuel, monté sur le trône en 234
+- **Brennan** — prince héritier, ambitieux, contact avec Mosrack
+- **Mirala Veth** — joaillière d'Ulris, créatrice de la couronne fondatrice de la réputation de la cité
+
+**Conflits structurants non résolus :**
+- Conseil des Maîtres / Prince Brennan (sourd, en cours)
+- Forgeurs orthodoxes Filii Fornacis / Guilde des Ombres-Forgerons (clandestin)
+- Lex Petra / Filii Fornacis (théologique mineur, jamais tranché)
+- Rapport au tribut historique avec Ferrath (renoncement implicite, jamais formalisé)
+
+**Monuments :**
+- **Sanctuaire de la Première Enclume** à Namyr — Filii Fornacis
+- **Salle du Livre de Pierre** à Trelios — siège du Conseil des Maîtres
+- **Tombe de Varnok** à Trelios — sous le port, fondations originelles
+- **Champ des Sans-Forge** — terrain communautaire de Trelios où sont enterrés ceux qui ont raté leur Cérémonie. Modeste, peu visité.
+
+**Défaites refoulées :**
+- L'épuisement des filons (admis en privé, jamais en rapport officiel)
+- L'incohérence de l'attribution skaldorienne des raids de la tyrannie
+- L'identité du minéral de la Veine Noire
+- Le sort des Sans-Forge (qui ne sont *officiellement* pas une catégorie d'exclus)
 
 ---
 

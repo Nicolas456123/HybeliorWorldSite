@@ -1,346 +1,138 @@
-﻿---
-tags: [progression, accord, maîtrise, xp-scaling, items]
-status: recently_refactored
-last_review: 2026-05-01
-needs_review_for: [chiffres-playtest, accord-tuning]
-type: mechanic
+---
+tags: [progression, accord, maîtrise, héritage, identité, multi-couches, narration]
+status: drafted
+last_review: 2026-05-07
+needs_review_for: []
+type: mechanic-narrative
+implementation: "[[Progression System]]"
 ---
 
-# 📈 Progression — Le système d'Accord
+# 📈 Progression — Plusieurs vies dans une seule
 
-## Architecture en 5 couches
-
-> [!important] Hybelior n'a PAS de "niveau global classique"
+> *« Demande à un vieux d'Hybelior depuis combien de temps il joue, et il te répondra mal. Demande-lui plutôt combien d'Ères il a traversées, combien de Maîtres il a connus, combien d'œuvres portent encore sa marque dans les rues — et là, il se rappellera tout. La progression n'est pas un chiffre. C'est une mémoire à plusieurs voix. »*
 >
-> La progression repose sur **5 couches distinctes** qui se complètent. Le concept de "niveau global" classique est remplacé par **L'Accord** (alignement à l'ère cosmique en cours).
-
-```
-┌─────────────────────────────────────────────────┐
-│ COUCHE 1 — STATS BRUTES                         │
-│ Vigueur, Vivacité, Acuité, Esprit… 0–150        │
-│ Compressées par chaque Souffle (Vigueur > 50)   │
-│ Voir [[Personnage]]                        │
-└─────────────────────────────────────────────────┘
-
-┌─────────────────────────────────────────────────┐
-│ COUCHE 2 — MAÎTRISES                            │
-│ 5 paliers par activité (Novice → Maître)        │
-│ Préservées, mais "rouille" 1 sem post-Souffle   │
-│ Voir [[Armes et Maîtrise]]                 │
-└─────────────────────────────────────────────────┘
-
-┌─────────────────────────────────────────────────┐
-│ COUCHE 3 — L'ACCORD                             │
-│ 0–100% par ère, reset à chaque Souffle          │
-│ Le cœur de la progression visible               │
-│ Voir [[L'Accord]]                          │
-└─────────────────────────────────────────────────┘
-
-┌─────────────────────────────────────────────────┐
-│ COUCHE 4 — L'HÉRITAGE                           │
-│ Compteurs et titres permanents                  │
-│ "Concordant de 3 Ères", œuvres signées, etc.    │
-└─────────────────────────────────────────────────┘
-
-┌─────────────────────────────────────────────────┐
-│ COUCHE 5 — IDENTITÉ                             │
-│ Cosmétiques, monuments, signatures              │
-│ Visage du joueur dans le monde                  │
-└─────────────────────────────────────────────────┘
-```
+> *— Ilthani Vael, Cendara, « Lettres aux apprentis »*
 
 ---
 
-## La Couche 1 — Stats brutes (rappel)
+## L'idée de progression chez Hybelior
 
-> Voir [[Personnage]] pour le détail complet.
+Tout MMO promet une progression. Presque tous la réduisent à un **niveau global** — un nombre qui monte et finit par signifier l'écart absolu entre celui qui joue depuis longtemps et celui qui vient d'arriver. L'équation est simple ; elle a aussi creusé, partout où on l'a posée, le même fossé : vétérans inaccessibles, nouveaux tétanisés par leur retard, hiérarchie figée que personne ne sait plus défaire.
 
-8 stats brutes (Vigueur, Vivacité, Endurance, Acuité, Esprit, Résonance, Mémoire, Verbe) qui montent **par usage**. Pas d'attribution manuelle. Le système de **Focus** permet de doubler le gain sur 1-3 stats choisies.
+À Hybelior, on a refusé l'équation. Pas par caprice — par **réalisme philosophique**. Aucune vie réelle ne progresse sur une seule échelle. Un homme peut être expert dans son métier et novice en amour, savant dans son art et étranger à sa terre. Pourquoi un personnage de jeu, qui prétend habiter un monde, devrait-il se résumer à un nombre ?
 
-**Échelle 0–150** :
-- 0–20 : Novice
-- 20–40 : Compétent
-- 40–60 : Aguerri
-- 60–80 : Exceptionnel
-- 80–100 : Légendaire
-- 100–150 : Mythique (élite absolue)
+La progression à Hybelior n'est pas une montée. C'est un **tissage** — plusieurs fils, plusieurs cadences, plusieurs registres, croisés dans la même personne sans se confondre. Cinq couches : non parce que cinq est magique, mais parce que cinq sont les **temporalités humaines** qu'un MMO sérieux doit savoir distinguer.
 
----
-
-## La Couche 2 — Maîtrises
-
-> Voir [[Armes et Maîtrise]] pour le détail complet.
-
-| Palier | Nom | % de joueurs estimé pendant une Partie |
-|--------|-----|---------------------------------------|
-| **1** | Novice | 100% (tous commencent là) |
-| **2** | Initié | ~60% |
-| **3** | Adepte | ~30% |
-| **4** | Expert | ~10% |
-| **5** | Maître 🔒 | <2% (condition cachée) |
-
-> [!warning] Décroissance et rouille
-> - **Décroissance** : maîtrises non utilisées descendent lentement (~1 palier perdu par mois sans pratique)
-> - **Rouille** : à chaque Souffle, 1 semaine de performance −15% qui se dissipe par usage
-
----
-
-## La Couche 3 — L'Accord
-
-> Voir [[L'Accord]] pour le détail complet.
-
-Métrique **0-100%** qui mesure l'alignement du joueur avec l'ère cosmique en cours. Reset à chaque Souffle. Le titre permanent "Concordant de l'Ère X" reste si 100% atteint.
-
-### Sources d'Accord
-
-| Type d'objectif | Accord gagné |
-|-----------------|--------------|
-| Découverte de l'ère (zones nouvelles) | +10% |
-| Quêtes d'ère | jusqu'à +20% |
-| Événements mondiaux | jusqu'à +15% |
-| Maîtrise active palier 4+ | +10% par palier 4+ |
-| Conditions cachées 🔒 | +5 à +15% |
-| Contribution sociale | jusqu'à +10% |
-| Voie active maintenue | +5% |
-| Œuvre signée Magistrale ou + | +5% par œuvre |
-
-### Effets par palier
-
-| Accord | Effets concrets |
-|--------|-----------------|
-| **0–25%** | Aucun bonus, accès au contenu de base |
-| **25–50%** | +5% gain XP, accès quêtes secondaires d'ère |
-| **50–75%** | +1 slot d'action, +1 slot Focus, bonus Reconnaissance |
-| **75–100%** | Accès contenus rares, donjons spéciaux, titre temporaire |
-| **100%** | Titre permanent, accès événement de fin d'ère, conditions cachées Mythiques |
-
----
-
-## La Couche 4 — L'Héritage
-
-> Voir [[L'Accord]] pour le détail complet.
-
-L'Héritage est ce qui **s'accumule à vie** sans jamais se perdre. C'est l'identité historique du joueur.
-
-| Élément | Description |
-|---------|-------------|
-| **Ères Concordées** | Compteur d'ères où 100% atteint |
-| **Œuvres signées** | Items légendaires créés et qui circulent |
-| **Titres et exploits** | Tout ce qui se gagne une fois |
-| **Rang social** | Reconnaissance auprès des factions |
-| **Cosmétiques** | Skins, montures, tatouages (inter-Parties) |
-| **Disciples** | PNJ ou joueurs influencés/formés |
-| **Monuments** | Statues/inscriptions à ton nom |
-
----
-
-## XP Scaling — Système de fenêtre
-
-> [!important] Concept central
-> L'XP gagné dépend de l'**écart** entre le niveau de l'activité et le niveau du joueur dans cette compétence. C'est ce qui empêche le farm bas niveau et pousse à explorer du contenu adapté.
-
-### Formule de base
-
-```
-Écart = NiveauActivité − NiveauJoueur
-
-Écart  ≤ −10  →  0% XP    (trivial, on n'apprend rien)
-Écart  −9 à −5 →  25% XP  (encore un peu d'apprentissage)
-Écart  −4 à +5 →  100% XP (zone optimale)
-Écart  +6 à +10 →  130% XP (challenging — récompense le risque)
-Écart  +11 à +20 → 80% XP (limite, mais possible)
-Écart  > +20 →  10% XP + risque d'échec critique
-```
-
-### Exemples concrets
-
-| Situation | Effet |
-|-----------|-------|
-| Forgeron Maîtrise 4 forge des dagues niv 5 | **0% Maîtrise_Forge** — sortie en série mais aucun apprentissage |
-| Forgeron Maîtrise 4 forge des épées Magistrales (niv 65-70) | **130% gain** — challenging, qualité variable, grosse progression |
-| Combattant niv 30 tue des sangliers niv 5 | **0% XP arme et Vigueur** — 100 sangliers : rien |
-| Combattant niv 30 affronte un boss niv 38 | **130% XP** — combat dur mais juteux |
-| Combattant niv 30 essaie un boss niv 60 | **10%** + risque de mort très élevé |
-
-### Pourquoi c'est bon pour le jeu
-
-- **Le marché reste vivant** : les artisans expérimentés peuvent forger des items basiques pour la communauté, mais ils ne progressent **plus** dessus → ils doivent viser plus haut pour leur progression
-- **Force le voyage et l'exploration** : si tu plafonnes ta zone, tu dois bouger
-- **Fait sens narrativement** : on apprend de ce qui nous challenge
-
-### Diminishing returns (anti-farm)
-
-> [!tip] Anti-spam
-> En plus du scaling, **chaque action répétée perd 20% d'XP** sur la même cible/recette dans la même journée :
+> *« Le novice me demande "où en es-tu ?". Il attend un nombre. Je lui réponds par une saison, une lame que j'ai forgée et qui circule, un titre que personne ne peut me reprendre, une ville où mon nom est inscrit, et une stat qui, demain peut-être, retombera. Il s'en va perplexe. Bien. »*
 >
-> - Forger 5 épées identiques : 100% / 80% / 60% / 40% / 20% / puis 10% asymptotique
-> - Tuer 5 fois le même boss spawné : idem
-> - **Reset à 100%** chaque jour réel (lié au cycle Labeur)
+> *— Maître Aldric, forgeron de Mosrack*
+
+---
+
+## Cinq couches, cinq temporalités
+
+Chaque couche de progression d'Hybelior répond à un **temps différent**. Les confondre, c'est ne rien comprendre au monde.
+
+### La chair brute du personnage
+
+Au plus près du corps, il y a les **stats brutes** — ce qu'un personnage *peut* faire physiquement, mentalement, vocalement. La force du bras, la vivacité du geste, la finesse de l'œil, la présence du verbe. Ces qualités montent par l'usage seul : on devient fort en faisant ce qui demande de la force. Aucune attribution, aucun « point de stat à dépenser ». La main qui forge fait le forgeron. La voix qui chante fait le chanteur.
+
+Mais cette chair, à Hybelior, **respire avec le monde**. Les stats les plus hautes se compriment au passage du Souffle — non par punition, mais parce qu'aucun corps réel ne reste à son zénith éternellement. Le très grand reste grand. Il est seulement, à chaque saison, un peu moins inaccessible.
+
+Pour la sémantique des stats et le système de Focus, voir **[[Personnage]]**.
+
+### La pratique qui devient art
+
+Au-dessus de la chair, il y a ce qu'elle a appris à faire avec **précision**. C'est la **Maîtrise** — non plus la qualité brute, mais la science accumulée d'un geste répété jusqu'à l'évidence. Le forgeron qui frappe juste sans regarder. L'épéiste qui devine la parade avant qu'elle vienne.
+
+Les Maîtrises se dressent sur cinq paliers et elles sont **gardées**. Elles survivent au Souffle. Une chose seulement les touche brièvement, à chaque transition d'Ère : une **rouille**, une étrangeté familière qu'on dissipe en quelques jours d'usage. Comme un musicien qui retrouve son instrument après un long voyage et sent, pendant deux ou trois nuits, que la salle a changé sa résonance.
+
+Le palier le plus haut — Maître — n'est pas un seuil d'XP. C'est une **condition cachée**, accordée à ceux qui ont fait œuvre, traversé des Ères, gagné la reconnaissance silencieuse de la communauté. Très peu y parviennent. Et c'est ainsi qu'on veut.
+
+Pour la philosophie complète des Maîtrises et la nature des œuvres signées, voir **[[Armes et Maîtrise]]**.
+
+### La résonance avec le moment cosmique
+
+Et puis vient ce que les autres MMO ne savent pas penser : **L'Accord**. La couche qui dit, à chaque Ère, *combien tu vis avec le monde tel qu'il est maintenant*. Pas combien tu as accumulé. Combien tu **résonnes**.
+
+L'Accord se gagne en faisant ce que l'Ère appelle. Si l'Ère est sombre, on s'accorde en arpentant la nuit. Si elle est verdoyante, en cultivant. À chaque Souffle, l'Accord se rejoue — non pas effacé, mais **dérivé** vers la nouvelle dominante. Ce qui résonnait cesse de résonner ; ce qu'on ignorait se met à faire écho.
+
+L'Accord n'est pas un sous-leveling. C'est la **mesure du présent vécu**. Et c'est ce qui remplace fonctionnellement le concept de « niveau global ». Le grand joueur n'est pas celui qui a accumulé. C'est celui qui, dans l'Ère qu'il habite *maintenant*, s'accorde le mieux.
+
+Pour la philosophie de l'Accord, ses paliers, le statut de Concordant et sa dérive au Souffle, voir **[[L'Accord]]**.
+
+### La trace permanente
+
+Sous l'Accord, qui se rejoue, il y a **l'Héritage** — ce qui, une fois gagné, ne se perd jamais. Le titre de Concordant d'une Ère donnée. L'œuvre Légendaire qu'on a forgée et qui circule encore. Le compteur d'Ères traversées, de Souffles vécus. Les disciples, les monuments.
+
+L'Héritage est la **stratification** d'une vie de joueur. Il ne se compresse pas, ne se rouille pas, ne s'efface pas. Le très vieux joueur d'Hybelior n'est pas un mur de stats : c'est une **bibliothèque**. Ses titres, ses œuvres, ses traces racontent ensemble quelque chose qu'aucun chiffre ne saurait dire.
+
+L'Héritage est traité en détail dans **[[L'Accord]]** — il est la mémoire que l'Accord a laissée derrière lui après chaque Ère.
+
+### Qui tu deviens dans la mémoire collective
+
+Enfin, la couche la plus discrète, et peut-être la plus précieuse : **l'Identité**. Pas ce que tu *as*. Ce que les autres **disent de toi** quand tu n'es pas là.
+
+Cosmétiques qui te rendent reconnaissable au premier regard. Monuments qui portent ton nom. Œuvres signées qu'on identifie à toi sans avoir à te demander. Disciples — joueurs ou PNJ — qui transmettent à leur tour ce qu'ils ont appris de toi.
+
+L'Identité ne se mesure pas. Elle se **constate**. Et elle est la seule progression qui survit au-delà d'une Partie : les cosmétiques, les signatures, les monuments persistent à travers les Parties suivantes. La trace longue d'une vie de jeu — celle qui fera dire un jour, à un joueur qu'on n'a jamais rencontré : *« c'est moi qui ai forgé cette épée que vous avez encore. »*
+
+> *« On meurt deux fois. La première quand on cesse de jouer. La seconde quand le dernier joueur qui te connaissait cesse à son tour. Entre les deux, pour ceux qui ont laissé une marque assez profonde, il y a parfois plusieurs Ères. »*
 >
-> Encourage la **variété** d'activités plutôt que le grind d'une seule.
+> *— inscription anonyme au Sanctuaire des Voyageurs, Cestra*
 
 ---
 
-## Sources d'XP par couche
+## Cinq couches, cinq souffles
 
-| Source d'action | XP Stats brutes | XP Maîtrise | Accord |
-|-----------------|----------------|-------------|--------|
-| Tuer un ennemi | ✅ (Vigueur, Vivacité, Acuité selon arme) | ✅ (arme utilisée) | indirect via Reconnaissance |
-| Terminer une quête | ✅ (selon nature) | — | ✅ (si quête d'ère) |
-| Explorer une zone | ✅ (Endurance, Acuité) | ✅ (Cartographie, Survie) | ✅ (zones d'ère) |
-| Craft d'un item | ✅ (Acuité, Mémoire) | ✅ (métier) | ✅ (si item Magistral+ signé) |
-| Récolte | ✅ (Endurance) | ✅ (métier de récolte) | indirect |
-| Utiliser la magie | ✅ (Esprit, Résonance) | ✅ (Voie) | ✅ (si Voie active maintenue) |
-| Marchander | ✅ (Verbe) | ✅ (Marchandage) | indirect |
-| Performer (barde) | ✅ (Verbe, Présence) | ✅ (Performance) | ✅ (Reconnaissance) |
-| Étudier un grimoire | ✅ (Mémoire) | ✅ (Voie ou métier érudit) | ✅ (si lié à l'ère) |
+Chaque couche réagit différemment à la respiration du monde — et c'est cette **différence** qui rend la progression d'Hybelior fidèle à l'expérience.
 
----
+La **chair brute** se compresse. Ce qui dépasse un certain seuil redescend un peu ; le bas reste intact. Non par effacement, par **rééquilibrage** — promesse tenue d'un monde qui ne laisse pas l'écart se figer.
 
-## Quêtes — Générées dynamiquement et biaisées par l'ère
+La **Maîtrise** se **rouille** brièvement, le temps que le geste retrouve sa nouvelle musique. Quelques jours. Une étrangeté familière, vite dissipée par la pratique.
 
-> [!note] IA de génération de quêtes
-> Les quêtes sont générées par l'IA selon :
-> - La zone dans laquelle se trouve le joueur
-> - Ses capacités actuelles et son niveau
-> - Son historique et ses préférences
-> - La situation en cours (factions, événements)
-> - **L'ère active** ([[Les Ères]])
-> - L'**Accord** du joueur (pour proposer des quêtes adaptées au palier)
+L'**Accord** **dérive** — selon que la nouvelle Ère ressemble à l'ancienne ou s'en éloigne, il glisse sur quelques jours ou semaines vers sa nouvelle valeur naturelle. Le monde laisse le temps de comprendre ce qui a changé.
+
+L'**Héritage** ne bouge pas. Aucun Souffle ne touche un titre gagné, une œuvre signée, un monument érigé. *Ce qui est mémoire reste.*
+
+L'**Identité**, enfin, traverse même les Parties. Rien de ce qui fait de toi *toi* dans la mémoire des autres ne disparaît jamais.
+
+Cette gradation est la **philosophie centrale** d'Hybelior : *plus une chose est mémoire, plus elle est sacrée. Plus elle est puissance brute, plus elle se rejoue.* Pour la respiration du monde elle-même, voir **[[Le Souffle]]**.
+
+> *« Ne demande pas à un homme à quel niveau il est. Demande-lui sur quel fil il avance, et de quel pas. »*
 >
-> Certaines quêtes ont des **conditions cachées 🔒** de déclenchement.
-
-### Pondération par ère
-
-| Ère | Types de quêtes pondérées |
-|-----|---------------------------|
-| **Ombre Longue** (Noctis) | Escorter à travers la nuit, retrouver des disparus, purifier un site corrompu |
-| **Échos Brisés** (Tempora) | Investiguer des anomalies, fixer un événement passé |
-| **Rêve Lumineux** (Eldoria) | Soigner une communauté, retrouver un artefact lumineux |
-| **Verdoiement** (Spiritus) | Récolter des plantes rares, apaiser une faune mutée |
-| **Vents Bouleversants** (Aerion) | Escorter caravanes pendant tempêtes, suivre migrations |
-| **Brume Mortelle** (Noctis+Aquor) | Construire des défenses, explorer dans la brume |
-
-→ Voir [[Les Ères]] pour le catalogue complet d'archétypes.
+> *— proverbe des chroniqueurs de Mosrack*
 
 ---
 
-## Items — Tiers de qualité
+## La progression sans plafond
 
-> Les items s'organisent en **6 tiers qualitatifs** alignés sur les paliers de Maîtrise.
+À Hybelior, la progression **n'a pas de fin**. Pas parce qu'on aurait étiré les chiffres à l'absurde — parce qu'on a refusé l'idée même qu'une progression doive avoir un sommet.
 
-| Niveau d'item | Tier qualitatif | Couleur UI | Source typique |
-|--------------|-----------------|------------|----------------|
-| **1–20** | **Commun** | Gris | Loot bas, marchands PNJ, novices |
-| **21–40** | **Façonné** | Blanc | Initiés, drops zones moyennes |
-| **41–60** | **Œuvré** | Vert | Adeptes, drops zones avancées |
-| **61–80** | **Magistral** | Bleu | Experts, drops zones difficiles |
-| **81–100** | **Légendaire** | Violet | Maîtres, drops boss mondiaux |
-| **101+** | **Mythique** 🔒 | Orange | Conditions cachées extrêmes, artefacts cosmiques |
+Les MMO classiques structurent l'expérience autour d'un cap : on monte, on atteint le maximum, on entre dans le « endgame » — un état stationnaire où l'on consomme du contenu en attendant le prochain patch. Cette logique a ses morts : ceux qui atteignent le cap trop vite et s'ennuient, ceux qui ne l'atteignent jamais et abandonnent, ceux qui le franchissent et découvrent qu'au sommet il n'y a personne.
 
-### Différence concrète entre niveaux d'item
+À Hybelior, il n'y a pas de cap parce qu'il n'y a pas une seule échelle. Il y a **des temporalités** qui continuent indéfiniment. Les stats peuvent tendre vers leur plafond, mais ce plafond se rejoue à chaque Souffle. Les Maîtrises peuvent atteindre Maître, mais d'autres restent à explorer, et le palier le plus haut est une condition cachée qu'on ne *finit* pas — qu'on **mérite**. L'Accord repart à zéro à chaque Ère, comme **renaissance régulière**. L'Héritage et l'Identité continuent à se sédimenter aussi longtemps que l'on joue.
 
-> [!important] Tiers qualitatifs > nombre brut
-> Un item d'un même tier (ex : Magistral 61 vs 80) a des stats progressives mais **dans la même fourchette**. La vraie différence se fait **entre tiers** :
+Un monde digne d'être habité ne propose pas de fin à ceux qui l'habitent. Il propose des saisons, des Ères, des respirations. Et il dit, à chaque palier qu'on croit atteindre : *bon, et maintenant ?*
 
-| Élément | Commun | Façonné | Œuvré | Magistral | Légendaire | Mythique |
-|---------|--------|---------|-------|-----------|------------|----------|
-| Stats numériques | 1× | 1.5× | 2× | 3× | 4.5× | 6×+ |
-| Slot d'enchantement | Non | Non | Optionnel | 1 | 2 | 3+ |
-| Propriété spéciale | Non | Non | Non | 1 | 2-3 | 3+ et unique |
-| Signature du créateur | Non | Optionnelle | Oui | Oui | Oui (visible) | Oui (légende) |
-| Reproduction | Triviale | Standard | Difficile | Rare | Quasi-impossible | Impossible (1 seul exemplaire dans le monde) |
-
-### Qu'est-ce qui rend une œuvre légendaire au-delà du tier
-
-> Au-delà des stats numériques, une œuvre devient **légende** par :
+> *« Le sage qu'on me demande d'être ne sait pas où il va. Il sait seulement qu'il continue. C'est, à la fin, la seule sagesse qu'on m'aura jamais apprise dans ce monde. »*
 >
-> - **Le nom de son créateur** (signature visible, prestige social)
-> - **La circonstance de création** (forgée pendant un événement mondial, l'arrachée d'un Souffle, etc.)
-> - **First discovery** (premier exemplaire d'une recette nouvelle)
-> - **Histoire d'usage** (porté lors d'une bataille célèbre, transmis entre joueurs notables)
-
-→ Voir [[Économie]] pour le rôle économique des items légendaires.
+> *— Maître Veyran d'Astravia*
 
 ---
 
-## Spécialisation naturelle
+## La progression comme manifeste
 
-> Pas d'attribution manuelle. Pas de classe. Mais la spécialisation **émerge naturellement** :
+Le joueur d'Hybelior n'est pas invité à monter — il est invité à **habiter**. Pas à se presser vers un sommet, puisqu'il n'y en a pas. Pas à craindre d'être dépassé, puisque les couches qui le définissent ne se résument pas à une seule échelle. Pas à redouter le Souffle : ce qui est mémoire ne s'efface pas, et ce qui se rejoue, il sait l'apprivoiser.
 
-```
-[Pas d'attribution] →  Pas de "build math-tryhard"
-                  →  Le joueur devient ce qu'il joue
+La progression à Hybelior est une **réconciliation** — entre l'effort et la grâce, la durée et l'instant, ce qu'on accumule et ce qu'on devient. Cinq couches pour une seule personne. Cinq temporalités pour une seule vie de jeu. Et au bout, jamais une fin — toujours une saison de plus, à respirer.
 
-[Labeur limité]   →  Pas de progression infinie en une journée
-                  →  Choix de priorités obligatoire
-
-[Décroissance]    →  Pas de maintien parallèle de toutes maîtrises
-                  →  Élagage naturel
-
-[Souffle]         →  Compression cyclique des stats hautes
-                  →  Réduction des écarts entre joueurs
-
-[Maîtrises]       →  Spécifiques par activité, pas de transfert
-                  →  L'identité de joueur émerge
-
-= IDENTITÉ DE JOUEUR UNIQUE et NATURELLE
-```
-
-→ Voir [[Labeur]] | [[Armes et Maîtrise#Décroissance]] | [[Le Souffle]]
+> *« Ne demande pas combien tu as gagné. Demande qui tu es devenu. La réponse à la première s'oublie ; la réponse à la seconde reste. »*
+>
+> *— Ilthani Vael, dernière lettre*
 
 ---
 
-## Cap d'évolution — durée pour atteindre le sommet
+*Liens narratifs : [[Personnage]] | [[Armes et Maîtrise]] | [[L'Accord]] | [[Le Souffle]] | [[Les Ères]] | [[Labeur]] | [[Le Lien]]*
 
-> [!note] Estimations indicatives, à affiner en playtest
-
-| Étape | Joueur engagé | Joueur casual |
-|-------|---------------|---------------|
-| Stats brutes domaine principal à 60 | 1-2 mois | 3-4 mois |
-| Stats brutes domaine principal à 80 | 3-4 mois | 6-8 mois |
-| Maîtrise palier 4 (Expert) | 4-6 mois | 8-12 mois |
-| Maîtrise palier 5 (Maître) 🔒 | 8-12 mois (avec condition cachée) | 12-18+ mois |
-| Première Ère Concordée (100% Accord) | 1ère ère possible | 2-3 ères pour la première |
-| 3 Ères Concordées | ~12 mois | ~20+ mois |
-
-### Cap d'une stat brute
-
-- **Plafond mou** à **100** (gain marginal asymptotique au-delà)
-- **Plafond dur** à **150** (impossible au-delà — atteint après centaines d'heures)
-- **150 ne sera atteint que par 1-2 joueurs par stat, par Partie.** C'est l'**élite absolue**.
-
----
-
-## Cohérence avec les autres systèmes
-
-| Système | Lien |
-|---------|------|
-| **[[Personnage]]** | Source des stats brutes et fondamentales |
-| **[[Labeur]]** | Limite la vitesse de progression quotidienne |
-| **[[Armes et Maîtrise]]** | Couche 2 (technique acquise) |
-| **[[Le Lien]]** | Voies et leurs Maîtrises |
-| **[[Mort]]** | Perte d'XP à la mort |
-| **[[Métiers]]** | Maîtrises de craft |
-| **[[Le Souffle]]** | Compression cyclique des stats |
-| **[[L'Accord]]** | Couche 3 (alignement à l'ère) |
-| **[[Les Ères]]** | Influence les types de quêtes et XP |
-
----
-
-## Décisions actées
-
-- ✅ **5 couches de progression** : Stats brutes / Maîtrises / Accord / Héritage / Identité
-- ✅ **L'Accord remplace le niveau global**
-- ✅ **Stats par usage uniquement** (pas d'attribution)
-- ✅ **Système de Focus** (1-3 stats focalisées ×2)
-- ✅ **XP scaling fenêtre** : −4 à +5 = 100%, +6 à +10 = 130%, etc.
-- ✅ **Diminishing returns** : −20% par répétition, reset journalier
-- ✅ **6 tiers d'items** (Commun → Mythique) alignés sur les Maîtrises
-- ✅ **Légende au-delà du tier** : créateur + circonstance + first discovery
-- ✅ **Plafond mou 100, dur 150** sur stats brutes
-- ✅ **Quêtes IA biaisées par l'ère**
-
----
-
-*Liens : [[Personnage]] | [[Labeur]] | [[Armes et Maîtrise]] | [[Le Lien]] | [[Métiers]] | [[Le Souffle]] | [[L'Accord]] | [[Les Ères]] | [[Économie]]*
+*Implémentation technique (chiffres, formules, tables, specs Unreal) : [[Progression System]]*

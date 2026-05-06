@@ -1,120 +1,146 @@
-﻿---
-tags: [pvp, combat, zones, karma]
-status: validated
-last_review: 2026-05-01
-needs_review_for: [seuils-karma-playtest]
-type: mechanic
+---
+tags: [pvp, combat, zones, karma, sieges, conflits, narration, rivalité]
+status: drafted
+last_review: 2026-05-07
+needs_review_for: []
+type: mechanic-narrative
+implementation: "[[PvP System]]"
 ---
 
-# ⚔️ PvP
+# ⚔️ PvP — le monde quand il devient dangereux
 
-## Structure des zones
-
-| Zone | PvP | Description |
-|------|-----|-------------|
-| 🏘️ **Zones sûres** (villes) | ❌ Désactivé | Aucune attaque possible |
-| 🌲 **Zones sauvages** | ⚑ Flag optionnel | Le joueur active son flag → devient attaquable |
-| 🏟️ **Arène** | ✅ Structuré | Duels, équipes, tournois |
-| 🏰 **Guerres de factions** | ✅ Organisé | Batailles pour le contrôle de zones |
-
----
-
-## Flag PvP
-
-> [!note] Système de flag volontaire
-> Le joueur **choisit** d'activer son statut PvP.
-> - Flag actif → attaquable par tout joueur ayant son propre flag actif
-> - Activation **immédiate**, désactivation avec **délai de 30 secondes** hors combat
-> - **Récompenses supplémentaires** tant que le flag est actif (risque = récompense)
-
-### Récompenses du flag actif
-
-| Bonus | Valeur |
-|-------|--------|
-| **XP de combat (PvE)** | +10% |
-| **XP de maîtrise** | +10% |
-| **Récolte / Drop de ressources** | +15% en zone sauvage |
-| **Drop de monstres élites** | +5% chance d'item rare |
-| **Découverte d'événements** | +20% de probabilité de déclencher des événements rares dans la zone |
-
-> [!tip] Lecture du choix
-> Le flag est volontaire mais réellement récompensé. Cela évite les zones PvP désertes et donne du sens au risque.
-
----
-
-## Conséquences de la mort en PvP
-
-Identiques au PvE → [[Mort]]
-
-> [!success] Pas de drop d'items — ni en PvP, ni en PvE
-
----
-
-## Arène & Tournois
-
-- ⚔️ Duels 1v1
-- 👥 Combats en équipe
-- 🏆 Tournois avec classements et récompenses cosmétiques uniques
-
----
-
-## Karma — Le Statut Rouge
-
-> [!warning] PKing répété = conséquences croissantes
-> Un joueur qui attaque trop de joueurs **non-consentants** (sans flag) accumule du **karma négatif** et devient progressivement une cible publique.
-
-### Qu'est-ce qu'un kill non-consenti ?
-
-> [!important] Définition stricte
-> Un kill compte comme **non-consenti** uniquement si :
-> - La cible **n'avait pas son flag PvP actif**, ET
-> - L'attaque a été initiée par le tueur (ne pas confondre avec la légitime défense)
-> - Le joueur n'était pas en statut rouge au moment du combat
+> *« On ne combat pas un autre joueur comme on combat une bête. La bête te défend son territoire ; l'autre te défie sur le tien. Le coup que tu lui portes te regardera plus longtemps. »*
 >
-> Tuer un joueur flag-vs-flag, ou tuer un rouge, ne donne **jamais** de karma négatif.
-
-### Paliers de karma
-
-| Palier | Seuil | Effets |
-|--------|-------|--------|
-| **🟢 Neutre** | 0 pt | Aucune marque, comportement normal |
-| **🟡 Suspect** | 1–2 kills NC en 24h | Marque visible jaune, perte légère de Reconnaissance, certains gardes méfiants |
-| **🟠 Hors-la-loi** | 3–5 kills NC en 48h | Marque orange, attaquable sans pénalité, gardes hostiles dans certaines villes, accès aux services réduit |
-| **🔴 Rouge** | 6+ kills NC en 72h *ou* meurtre d'un PNJ majeur | **Attaquable par tous**, banni de toutes les villes majeures, **bounty actif** (voir ci-dessous) |
-| **⚫ Banni** | 15+ kills NC sans rédemption | Toutes les factions hostiles, bounty maximum, accès uniquement aux camps de hors-la-loi |
-
-> [!note] Les seuils décrémentent dans le temps — un joueur peut redescendre naturellement.
-
-### Bounty — Mise à prix
-
-| Statut | Récompense pour le tueur |
-|--------|--------------------------|
-| 🟠 Hors-la-loi | 50 Éclats |
-| 🔴 Rouge | 200 Éclats + cosmétique de chasseur |
-| ⚫ Banni | 1 000 Éclats + titre "Justicier" temporaire |
-
-> [!tip] Bounty progressif et plafonné
-> La récompense est financée par le pot des taxes de l'hôtel des ventes (gold sink → [[Économie#Gold sinks]]). Un même tueur ne peut toucher la prime sur la même victime que **1 fois par 24h**.
-
-### Diminution du karma
-
-| Action | Effet |
-|--------|-------|
-| **Temps sans kill NC** | -1 kill / 12h réelles de jeu actif |
-| **Quête de rédemption** (faction) | -2 kills, requiert une quête longue par faction |
-| **Don à une œuvre** (église / faction) | -1 kill par 500 Éclats donnés (plafonné à 1 par 24h) |
-| **Mort en tant que rouge/banni** | -1 kill (purification par la chair) |
-
-> [!tip] Double lecture
-> Le statut rouge est à la fois une **punition** et une **identité de jeu** pour les joueurs qui choisissent l'outlaw. Le système ne les exclut pas — il les force juste à jouer dans des zones spécifiques (camps de hors-la-loi, frontières).
+> *— Doran Vehlmar, gardien des marches d'Astravia*
 
 ---
 
-> [!success] Décisions prises
-> - ✅ Récompenses du flag PvP actif (+10% XP, +15% récolte, +5% drop rare, +20% events rares)
-> - ✅ Seuils de karma chiffrés (1-2 / 3-5 / 6+ / 15+)
-> - ✅ Bounty progressif (50 / 200 / 1000 Éclats)
+## L'idée du PvP
+
+Le PvP, dans Hybelior, n'est pas un mode séparé. Ce n'est ni une arène qu'on visiterait entre deux quêtes, ni un mini-jeu compétitif. **C'est le monde lui-même, lorsque le risque devient humain** — lorsque la créature qui te fait face n'est plus un script, mais un autre joueur qui désire, calcule, hésite, t'épargne ou t'achève. Quelqu'un qui se rappellera de toi.
+
+Affronter un boss, c'est affronter un défi. Affronter un autre joueur, c'est affronter un *autre* — une présence qui te juge en retour. Hybelior n'a pas voulu d'un PvP cosmétique, encadré jusqu'à l'inoffensif. Il a voulu d'un PvP **qui rende le monde réel par le risque**.
+
+Cela ne signifie pas que tout joueur sera attaquable à tout instant. Cela signifie que **le danger existe**, qu'il a une géographie, qu'il a des règles morales, et qu'il fait partie du tissu du monde au même titre que la pluie ou la nuit. On ne joue pas Hybelior *malgré* le PvP. On le joue *avec*.
 
 ---
 
-*Liens : [[Mort]] | [[Guildes]] | [[Univers]]*
+## Les zones de tension — la géographie comme intensité dramatique
+
+Le monde d'Hybelior n'est pas uniformément dangereux. Ses **zones** dessinent une **carte morale**, un paysage où le voyageur sait, à mesure qu'il s'enfonce, qu'il quitte la sécurité pour entrer dans la possibilité.
+
+Il y a d'abord les **cités, les sanctuaires, les routes consacrées** — les zones sûres. Là, le sang ne coule pas entre joueurs. Non pas parce qu'une force invisible empêche les coups, mais parce que la cité est, par définition, le lieu où l'on a déposé ses armes. Une cité où le PvP serait possible serait une cité morte. Hybelior accorde aux villes ce qu'elles sont depuis l'aube des civilisations : un toit sous lequel l'humain peut se reposer.
+
+Puis viennent les **terres sauvages** — forêts profondes, steppes ouvertes, routes qu'aucune patrouille ne couvre vraiment. Là, le PvP existe, mais il est **conditionnel**. Le voyageur peut choisir de hisser ses couleurs : le monde lui ouvre alors certaines portes — ressources plus généreuses, événements rares qui ne se déclenchent qu'en présence du risque, occasions de gloire qu'aucun joueur prudent ne connaîtra. Ou bien il peut traverser ces terres en simple voyageur, et le monde respectera son choix. Le risque, dans le sauvage, est une **offre**.
+
+Au-delà encore, il y a les **zones contestées** — ruines anciennes, frontières disputées, donjons ouverts dont aucune faction ne tient les clés. Là, on n'entre plus à la légère : quiconque y pose le pied consent, du seul fait de sa présence, à la possibilité du combat. Les trésors y sont les plus rares, et c'est précisément pour cela qu'ils sont gardés non par des serpents mais par d'autres joueurs. Ces zones ne sont pas des pièges — ce sont des **épreuves**. Quiconque y entre sait pourquoi.
+
+> *« Il y a la cité, et le sauvage. Et puis il y a ces lieux où l'on n'entre que si l'on a déjà mesuré ce qu'on était prêt à perdre. »*
+>
+> *— Mira d'Onara, vétérane des Marches Brisées*
+
+Cette graduation — sûr, sauvage, contesté — n'est pas qu'un découpage administratif. C'est une **dramaturgie du paysage**. Le voyageur d'Hybelior apprend, en jouant, à lire l'intensité d'un lieu avant même qu'on lui en explique les règles.
+
+---
+
+## Le karma et le code — quand tuer a une histoire
+
+Hybelior répond par une conviction nette à la question récurrente du PvP : **tuer un joueur n'est pas neutre**. Ce n'est pas un acte qui se range dans la même case qu'abattre une créature. C'est un acte qui laisse une **trace** — morale, sociale, narrative.
+
+Lorsqu'un joueur attaque un autre qui n'avait pas levé ses couleurs, qui ne demandait rien, qui n'était pas sur des terres contestées — alors le monde **s'en souvient**. Pas immédiatement : une fois ne suffit pas à faire de toi un meurtrier ; les choses arrivent. Mais si l'habitude se prend, la trace s'épaissit. Une marque te suit. Les gardes se méfient. Certaines cités te ferment leurs portes. Et au bout de ce chemin, il y a un statut que la communauté connaît bien — celui du **Rouge**, celui qui a quitté la société des hommes pour s'installer dans la marge.
+
+Cette gradation — de l'irréprochable au suspect, du suspect au hors-la-loi, du hors-la-loi au Rouge, et du Rouge au banni — n'est pas une punition arbitraire. C'est un **code**. Hybelior ne t'interdit pas le chemin du sang. Il te dit seulement, comme toute société humaine l'a toujours dit, que ce chemin a un prix — la solitude, la marginalité, la chasse.
+
+> *« Il y a deux raisons de tuer un homme : parce qu'il a fait quelque chose, ou parce qu'on n'arrive plus à se voir comme un homme soi-même. La seconde est plus rare qu'on ne le croit. »*
+>
+> *— Frère Arten, médiateur de l'Ordo Caelum*
+
+Ce chemin n'est pas une impasse. Le monde laisse la **rédemption** ouverte : on peut faire amende, donner aux œuvres, accomplir des quêtes longues, laisser le temps adoucir la marque. Hybelior ne croit pas aux statuts éternels — il croit aux choix qui se rejouent.
+
+Inversement, ceux qui ont fait du Rouge leur identité deviennent à leur tour le **gibier des autres**. Une mise à prix court sur leur tête, financée par les taxes du monde. Des chasseurs s'organisent pour les traquer. Ils ne sont pas exclus du jeu — ils sont **inscrits dans une autre place**, plus dure, plus solitaire. Certains choisissent ce chemin volontairement. Ils sont le folklore vivant des routes mal famées, les ombres dont les voyageurs prudents apprennent à se méfier.
+
+> Pour les seuils précis, les durées de marque, les montants de prime et les règles de rédemption, voir [[PvP System]].
+
+---
+
+## Les sièges — la guerre comme rituel
+
+Au-dessus du combat individuel, il y a un autre ordre du conflit : la **guerre des guildes**. Lorsque ce ne sont plus deux personnes qui s'affrontent mais deux maisons, deux bannières, deux ambitions territoriales, le monde change d'échelle. Hybelior refuse de banaliser l'événement. Une guerre, ici, n'est pas une mêlée spontanée. C'est un **rite**.
+
+Tout siège commence par une **déclaration** : la guilde qui veut s'emparer d'une forteresse doit le dire publiquement, plusieurs jours à l'avance. Les défenseurs sont prévenus, ils s'organisent, ils appellent leurs alliés. La nouvelle court de cité en cité, les paris se prennent, les chroniqueurs prennent leur plume. Au jour dit, à l'heure dite, les armées se rassemblent et la bataille commence.
+
+Cette ritualisation est une **dignité accordée aux conflits**. Une guerre déclenchée par surprise n'est qu'une raclée ; une guerre déclarée, attendue, préparée par les deux camps, devient un **événement** dont on se souvient. Les chroniqueurs gardent les noms des forteresses prises et reprises ; les guildes inscrivent ces dates dans leurs annales.
+
+> *« On a tenu trois jours. Au matin du quatrième, le mur est tombé. Je n'ai pas honte d'avoir perdu — j'ai honte de ne pas avoir mieux placé les archers à l'aube. »*
+>
+> *— Sera Volna, ancienne capitaine de la garde de Vael'Tor*
+
+Le siège n'est pas qu'une question de force. C'est aussi une question de **cœur** — qui se présente, qui tient, qui rompt. Une guilde nombreuse mais désunie tombe ; une guilde réduite mais soudée résiste à des assauts plus larges. Les vétérans parlent souvent de ces moments où la victoire s'est jouée sur un détail — un défenseur qui a refusé de fuir, un commandant qui a su quand renoncer pour sauver le reste.
+
+Pour les règles exactes, voir [[Guildes]] et [[PvP System]]. La forme est rituelle ; le détail est technique.
+
+---
+
+## L'arène — la rivalité encadrée
+
+À côté du sang qui coule sur les routes et des forteresses qu'on prend, il y a un autre PvP — plus court, plus clair, plus sportif. **L'arène**.
+
+L'arène n'est pas une zone du monde : c'est une parenthèse. On y entre par contrat, on y combat selon des règles fixes, on en sort indemne quel que soit le résultat. Les coups n'y laissent ni rouille, ni dette, ni karma. Seul le **classement** s'en souvient.
+
+Cette dimension a sa place, mais une place modeste. Hybelior n'est pas un jeu d'arène — il l'offre à ceux qui veulent mesurer leur technique pure, et honore les meilleurs par des titres et des trophées. Mais l'arène ne **remplace** pas le PvP du monde. Elle le **complète**, comme un sport complète une vie.
+
+> *« L'arène te dit qui tu es face à un égal. Le sauvage te dit qui tu es face à l'inconnu. Les deux sont des miroirs ; aucun n'est complet. »*
+>
+> *— Tessa Vir'Holn, championne du tournoi de la Septième Ère*
+
+---
+
+## PvP et héritage — la réputation comme trésor
+
+On pourrait croire que ce qu'on gagne en PvP, ce sont des objets — le butin du vaincu, les éclats du bounty, le trésor de la forteresse prise. Mais la vraie monnaie du PvP, à Hybelior, est autre. **C'est la réputation**.
+
+Lorsque tu remportes un siège mémorable, ce n'est pas la forteresse qui te suit le plus longtemps — c'est le fait que les chroniqueurs en parlent. Lorsque tu défends un convoi attaqué par des Rouges, ce n'est pas le bounty qui change ta vie — c'est la nouvelle qui se répand. Lorsque tu sauves un voyageur isolé, il s'en souvient. La prochaine fois que vous vous croiserez, ce sera un autre rapport entre vous.
+
+Hybelior fait du PvP un **moteur de réputation** — auprès des factions, des guildes, des autres joueurs. Tes choix s'inscrivent. Le monde sait, à mesure que tu y combats, **qui tu es** : un protecteur des routes, un raider opportuniste, un duelliste loyal, un siégeur impitoyable, un médiateur respecté. Aucun de ces rôles n'est imposé. Tous sont reconnus.
+
+Cette dimension renvoie à [[Factions]] et à [[Réputation et Reconnaissance]] — car ce qui se construit dans le combat se mesure ailleurs. À Hybelior, **on ne joue pas le PvP pour le loot**. On le joue pour devenir quelqu'un que le monde nomme.
+
+> *« On m'a demandé un jour ce que j'avais gagné dans toutes ces guerres. J'ai fait l'inventaire : pas grand-chose en biens. Mais tout en histoire. Quand je rentre dans une auberge, on sait qui je suis avant même que je m'asseye. C'est ça, le butin. »*
+>
+> *— Kael Drovenn, vétéran de sept campagnes*
+
+---
+
+## PvP et Souffle — les Ères qui font et défont la guerre
+
+Hybelior respire — c'est le principe du [[Souffle]]. Et ce qui respire avec le monde, ce n'est pas seulement le climat ou la magie. C'est aussi **l'humeur des conflits**.
+
+Certaines Ères sont **belliqueuses** : les voix dominantes y poussent à la conquête, au choc. Les guildes prennent l'initiative ; les forteresses changent de mains plus vite ; les routes se remplissent d'embuscades. Dans ces saisons, même les voyageurs paisibles finissent par lever leurs couleurs, parce que le monde attend cela d'eux.
+
+D'autres Ères sont **pacifiantes** : les voix dominantes apaisent les tensions, encouragent les pactes, font lever les médiateurs. Les sièges deviennent rares, les Rouges peinent à trouver leur place. Ce ne sont pas des Ères mortes — elles sont riches de diplomatie, de commerce, de constructions communes. Mais le PvP, s'il existe toujours, **se fait plus discret**.
+
+D'autres encore sont **ambivalentes** — elles encouragent les rivalités d'honneur, les duels formels, la guerre ritualisée plutôt que le raid sauvage. Les arènes y connaissent leurs heures de gloire ; les vendettas s'y règlent en duel public plutôt qu'en embuscade nocturne.
+
+> *« On dit qu'à l'Ère du Sang, on ne dort jamais loin de son arme. Et qu'à l'Ère du Pacte, on apprend que l'arme la mieux affûtée ne sert à rien si l'on n'a personne avec qui la lever. »*
+>
+> *— Maître Esren, chroniqueur de Caelorhin*
+
+Cette modulation n'est pas un simple bonus saisonnier. Elle change **la couleur même** du PvP qu'un joueur vit. Lorsqu'un Souffle change la saison, **les conflits eux-mêmes changent de visage** — non parce qu'on a patché les règles, mais parce que le monde, qui respire, n'invite plus aux mêmes gestes. *Rien n'est figé. Le combat lui-même appartient à une saison.*
+
+---
+
+## Synthèse — le PvP comme dimension du monde
+
+Le PvP, dans Hybelior, n'est donc pas un système ajouté. C'est **une dimension du monde** au même titre que le climat, la magie ou la politique. Il a sa géographie — sûr, sauvage, contesté. Il a sa morale — le karma qui fait peser le poids du sang versé. Il a ses rites — les sièges déclarés, les arènes saisonnières. Il a sa mémoire — la réputation qui s'inscrit. Et il a son rythme — celui des Ères qui le portent ou l'apaisent.
+
+Au joueur qui aime le combat, Hybelior offre **un monde où combattre fait sens** — où la victoire se grave, où la défaite se raconte, où le geste de tuer ou d'épargner s'inscrit dans une histoire plus grande que la session du soir. Au joueur qui *n'aime pas* le combat, il offre la **liberté de doser** : la cité est sûre, le sauvage est négociable, le contesté est à sa main. Mais personne ne peut faire comme si la guerre n'existait pas — parce qu'à Hybelior, ne pas connaître la guerre, c'est ne pas connaître le monde.
+
+> *« On juge un monde à la qualité de ses combats. Mais aussi à la qualité de ses paix. À Hybelior, j'ai vu les deux. C'est pourquoi j'y reste. »*
+>
+> *— Aenora Vell, vétérane de cinq Ères*
+
+---
+
+*Liens narratifs : [[Guildes]] | [[Factions]] | [[Réputation et Reconnaissance]] | [[Mort]] | [[Le Souffle]] | [[Univers]]*
+
+*Implémentation technique (chiffres, formules, specs Unreal) : [[PvP System]]*

@@ -1,13 +1,16 @@
 ﻿---
 tags: [lore, histoire, ulinor]
-type: lore
+type: histoire
 status: drafted
-last_review: 2026-05-02
+last_review: 2026-05-06
 needs_review_for: []
 ---
 # Histoires d'Ulinor
 
-> *Chaque ville a ses cicatrices. Voici celles qui ne guerissent jamais.*
+> *Chaque ville a ses cicatrices. Voici celles qui ne guérissent jamais.*
+
+> *« La pierre se souvient. C'est ce que nous disons. C'est aussi pourquoi nous n'apprenons jamais à oublier. »*
+> — formule retrouvée en marge d'un cahier Jentar, attribution refusée
 
 ---
 
@@ -142,4 +145,100 @@ Les charpentiers de Vynthal passerent la saison suivante a apprendre a distingue
 Lyreth ne revint jamais. Les charpentiers de Vynthal ne savent pas ce qu'il devint.
 
 La technique qu'il leur legua entre deux couchers de soleil -- parce qu'il s'arretait pour la nuit et qu'il remarqua quelque chose -- est aujourd'hui ce pour quoi Vynthal est connu dans tout l'archipel.
+
+---
+
+## Xerathis — « Selvane qui Posa sa Pierre »
+
+Selvane fut Écho-Guide jentarienne pendant quarante ans. Apprentie à Xerathis à quatorze ans, elle réussit son Épreuve de l'Écho — c'est-à-dire qu'elle déclara avoir entendu, dans la crevasse où elle avait passé sa nuit d'initiation, une voix qui lui parla *directement*. La déclaration suffit ; les Écho-Guides ne demandent pas qu'on rapporte le contenu de ce qui a été entendu. Elle reçut son Tatouage des Ruines — un glyphe sur la nuque, choisi par sa formatrice, qu'elle porta toute sa vie sans le contester.
+
+Ce qu'elle ne dit à personne pendant trente-neuf ans : elle n'avait rien entendu cette nuit-là. Elle avait passé la nuit dans la crevasse à attendre, à grelotter, à observer le ciel par l'ouverture, à somnoler par moments. Aucun mot. Aucune voix. Aucune phrase. Au matin, on lui avait demandé si elle avait entendu, et elle avait dit oui — non par calcul, mais parce que la question portait l'évidence de sa réponse, et qu'elle ne savait pas, à quatorze ans, comment dire non sans s'effondrer.
+
+Elle apprit. Elle pratiqua. Elle officia. Elle forma des apprentis qui, à leur tour, déclarèrent avoir entendu. Pendant quarante ans, elle traduisit pour les chefs tribaux ce que les ruines auraient dit — toujours en termes prudents, ouverts, susceptibles de plusieurs lectures. Personne ne la prit jamais en défaut. Elle était tenue pour une Écho-Guide *modeste* — un compliment.
+
+En l'an 187, à Xerathis où elle s'était retirée pour l'âge, Selvane convoqua trois apprenties devant le Conseil informel du village. Elle leur déclara, en présence des chefs locaux, qu'elle n'avait jamais entendu *une seule voix* dans le Canyon en quarante ans de pratique. Elle ne formula pas que les autres mentaient. Elle formula simplement son propre cas : elle, Selvane, n'avait pas entendu.
+
+Elle posa sa Pierre de Mémoire — qui portait le nom de cinq générations de sa famille — au bord du Canyon, à l'aube du lendemain. Elle descendit dans la crevasse. Elle y vécut trois mois.
+
+Elle remonta indemne. Le visage maigri, la peau gercée, les vêtements en lambeaux, mais sans blessure et apparemment sereine. À la question de ce qu'elle avait entendu pendant les trois mois, elle répondit : *« je n'ai rien entendu, et c'est suffisant. »*
+
+L'Écho-Guide Suprême de l'époque — un homme dont le nom n'a pas été conservé — convoqua un Conseil élargi pour décider du sort de Selvane. Le débat fut long. Personne ne voulait l'excommunier — l'excommunication impliquait qu'on prenne au sérieux ce qu'elle avait dit, et personne ne voulait ouvrir cette discussion publiquement. Personne ne voulait non plus la *réintégrer* — sa formulation rendait le retour impossible. La solution fut intermédiaire : Selvane fut autorisée à *continuer sa vie* comme citoyenne ordinaire. On ne lui retira pas son Tatouage. On ne déclara pas son glyphe annulé. On la laissa simplement *cesser d'officier*.
+
+Elle s'installa à Vorthar, où elle avait des cousins lointains. Elle vécut huit ans encore. Personne ne lui rendit visite officiellement. Quelques apprenties qu'elle avait formées vinrent en cachette ; elle les renvoya gentiment, sans dire pourquoi. Elle mourut en l'an 195, à 73 ans. Sa tombe — une simple stèle de pierre brute, comme elle l'avait demandé — ne porte pas son glyphe. Elle l'avait fait effacer avant de mourir.
+
+Sa Pierre de Mémoire, qu'elle avait posée au bord du Canyon avant sa descente, fut prise au cours des années suivantes par des passants successifs, déplacée, transmise, finalement déposée dans les ruines de la jungle occidentale parmi les dépôts ordinaires. Personne ne sut qui avait porté la Pierre. Personne ne s'en chargea formellement. Elle se confondit avec les autres.
+
+Les chroniques Jentar mentionnent l'Affaire Selvane en deux lignes : *« Selvane, Écho-Guide jentarienne, abandonna son office en 187 dans des circonstances que les chants ne conservent pas. »* C'est tout. Aucune autre source officielle. Quelques apprentis qu'elle avait formés sont, à ce jour, soit silencieux sur l'épisode, soit ostentatoirement plus pieux que la moyenne. Une apprentie en particulier — Tirenne, jeune femme d'une trentaine d'années qui assiste aujourd'hui Yelthari la Muette à Jentaris — n'a jamais évoqué Selvane publiquement. Elle a, dans ses propres notes (jamais montrées), une page où figure une seule phrase : *« quelque chose s'est terminé en 187 que personne n'a su nommer. Il faudra y revenir un jour. »* La page est datée d'il y a six ans. Tirenne n'y est pas revenue.
+
+---
+
+## Elaris — « La Pierre dans la Poche »
+
+Une potière d'Elaris, dont le nom n'est pas conservé dans les chants publics mais qui a vécu jusqu'à plus de quatre-vingts ans selon les comptes du village, portait sa Pierre de Mémoire dans sa poche depuis l'enfance. Toute sa vie. Comme tout Ulinorien le fait.
+
+À une voyageuse de Solena qui s'arrêta chez elle pour un thé un soir de marée basse en l'an 215, elle confia, sans qu'on l'ait sollicitée et sans préambule, cette phrase : *« Ma Pierre de Mémoire pèse dans ma poche depuis cinquante ans. Je ne la sens plus. J'ai cessé de la sentir vers la trentaine. Je ne sais pas si c'est elle qui s'est allégée, ou moi qui me suis épaissi. »*
+
+La voyageuse — qui consigna le propos dans son journal de bord par habitude professionnelle, sans en mesurer la portée sur le moment — demanda à la potière si elle avait pensé à la déposer. La potière sourit. *« Mes parents seraient déshonorés, et ils sont morts. Mes enfants seraient déshonorés, et ils sont vivants. C'est plus simple de la garder. Elle ne pèse pas. »*
+
+La voyageuse insista doucement : *« mais si elle ne pèse pas, à quoi sert-il de la garder ? »*. La potière prit le temps de répondre. Elle dit : *« je ne la garde pas pour ce qu'elle pèse. Je la garde parce que c'est ce qu'on fait. Je ne sais pas exactement ce qu'on fait quand on la garde. Mais je le fais. »*
+
+La voyageuse n'insista pas. Elle nota la conversation, paya son thé, repartit le lendemain à l'aube.
+
+La potière mourut quelques années plus tard. Sa famille, en préparant ses affaires, trouva sa Pierre de Mémoire dans la poche de son tablier de travail — usée, polie par cinquante ans de frottement contre la cuisse, presque illisible sur certains noms de la lignée. La famille la nettoya avec respect, regrava les noms les plus effacés, et la transmit à la fille aînée, qui la porte aujourd'hui. La fille aînée la sent, parce qu'elle est jeune et que son cerveau n'a pas encore appris à filtrer la sensation. Dans vingt ans, peut-être, elle ne la sentira plus non plus. Elle ne le formulera probablement pas. La transmission continuera.
+
+La voyageuse de Solena a publié son journal de bord trente ans plus tard, à Etheira. Le passage sur la potière d'Elaris occupe un paragraphe perdu entre une description de la pêche aux nacres et un commentaire sur la cuisine ulinorienne. Personne ne l'a remarqué. Aucun chroniqueur ulinorien ne l'a relevé. La phrase de la potière — *« je ne sais pas si c'est elle qui s'est allégée, ou moi qui me suis épaissi »* — circule, par hasard, dans les marges de quelques carnets de voyageurs étrangers, sans jamais avoir trouvé d'écho dans les chants Foedus Animae locaux.
+
+---
+
+## Talvornis — « Ce que Voient les Guetteurs »
+
+Les guetteurs de Talvornis surveillent les *mouvements du Canyon*. C'est leur fonction officielle, attribuée depuis la nuit où le Canyon laissa au matin des empreintes profondes dans la roche que les chamanes Jentar de l'époque ne purent attribuer à aucune créature répertoriée. Depuis cette nuit, par roulement, deux guetteurs assurent une veille permanente, l'un à la tour du nord, l'autre à la tour du sud, surplombant le gouffre.
+
+Ce que les guetteurs voient, ce qu'ils rapportent, et ce qui se trouve dans les registres tenus par leurs successeurs ne se recoupent pas.
+
+Les rapports officiels mentionnent des silhouettes vagues, des ombres mouvantes, des présences qui *pourraient* remonter du gouffre. Le langage est prudent ; il laisse une ouverture. Les guetteurs eux-mêmes, interrogés en privé par des voyageurs curieux, sont moins prudents. Certains affirment voir clairement. D'autres affirment ne voir rien — des heures et des nuits entières à scruter une obscurité où rien ne bouge. La proportion de chaque catégorie n'a jamais été quantifiée. La règle informelle est qu'on rapporte *quelque chose* — un mouvement, une ombre, une vibration — au moins une fois par mois. Si on n'a rien vu, on rapporte ce qu'on a *cru voir*.
+
+Cette règle n'est pas formulée comme telle. Elle est *intériorisée*. Les jeunes guetteurs apprennent par mimétisme. La première fois qu'un jeune dit *« je n'ai rien vu cette nuit »*, son aîné lui demande, avec la patience qu'on accorde aux enfants : *« tu n'as rien vu, ou tu n'as rien vu qui mérite d'être noté ? »*. La distinction est subtile. Elle invite, sans le dire, à *trouver* quelque chose à noter.
+
+Velmar, jeune guetteur en formation à Talvornis en l'an 248, fit cette expérience qu'il consigna dans un cahier privé : pendant trois mois, il tint un registre parallèle où il notait *« rien vu »* chaque fois qu'il n'avait rien vu, sans concession à la règle. Le registre parallèle — quatre-vingt-douze entrées sur trois mois — ne contient aucune observation positive. Le registre officiel qu'il tenait en parallèle, lui, en contient dix-sept.
+
+Velmar ne montra son registre privé à personne. Il le brûla en l'an 250 quand il fut promu guetteur principal. La promotion impliquait une responsabilité accrue, et Velmar comprit que conserver le registre privé deviendrait, à terme, intolérable. Il le brûla sans drame, et continua sa fonction. Il continue, en l'arc Sorin, à rapporter une à deux observations par mois. Aucune ne correspond à ce qu'il a vu — aucune ne correspond non plus à un mensonge, exactement. Il rapporte ce qu'il *aurait pu* voir. Cette nuance est, selon lui, suffisante pour préserver sa conscience.
+
+Quand un voyageur étranger lui demanda, en l'an 251, si les guetteurs voyaient *vraiment* quelque chose, Velmar répondit : *« nous voyons ce qu'il y a à voir, et ce qu'il y a à voir n'est pas toujours ce qui est là. »* La formule est devenue, dans son cercle de pairs, une plaisanterie qu'on cite avec une pointe de gêne. Personne ne sait précisément ce qu'elle signifie. Personne ne le demande à Velmar.
+
+---
+
+## Keldris — « Ceux qui ne Rêvent Pas »
+
+Keldris est, selon ses habitants, le village où l'on ne rêve plus. La pratique de méditation autour des colonnes brisées — les vieux piliers de pierre qui émettent une vibration osseuse continue, perceptible par les os plutôt que par les oreilles — induit, après plusieurs années de séjour, la disparition du rêve nocturne. Les habitants de longue date confirment ; les nouveaux venus la constatent au bout de quelques mois.
+
+Cette disparition est lue par les chamanes de Tressalia comme un *don* aux Anciens : le sommeil cède son énergie onirique aux colonnes, qui la transmettent à *ce qui dort sous la pierre*. Cette lecture est récitée. Elle est crue. Les Keldrissois ne questionnent pas.
+
+Une dissidence existe. Welmar — le forgeron du village, homme de cinquante ans en l'arc Sorin, dont le grand-père et le père avaient été forgerons à Keldris avant lui — n'a *jamais cessé de rêver*. Il rêve même beaucoup, et précisément, et il s'en souvient au matin avec une netteté qui contredit l'expérience commune. Il a tenté, par décence, de cesser. Il a passé des nuits entières à proximité immédiate des colonnes, espérant accélérer le processus. Rien n'a changé. Il continue de rêver.
+
+Welmar n'a parlé de son cas à personne pendant trente ans. Il avait honte. Il pensait qu'il était *imparfaitement absorbé*, que son corps refusait le don, que les Anciens ne l'acceptaient pas. Il en concluait, en silence, qu'il était *moins digne* que ses voisins. Il continuait son travail de forge. Il ne dormait pas mieux ni moins bien que les autres.
+
+À cinquante ans, après la mort de sa femme (qui ne rêvait pas, elle, depuis ses vingt ans), Welmar consigna dans le registre de la forge — entre deux notes sur la commande d'un marteau et la facture d'un client de Tresnor — cette observation : *« je rêve. Tout le monde dit ne pas rêver. Je ne crois plus que tout le monde dise vrai. Si je rêve, c'est que quelqu'un d'autre rêve aussi et n'ose pas le dire. Mais si tout le monde n'ose pas le dire, comment savoir ? »*.
+
+Le registre de la forge ne sera lu par personne avant la mort de Welmar. C'est un détail prosaïque — qui lit les registres de forge ? Ils sont enterrés dans les coffres avec les outils. Welmar le sait. Il n'écrit pas pour être lu. Il écrit pour ne pas devenir fou.
+
+Cette histoire ne figure dans aucun chant. Aucun chamane de Keldris ne la connaît. Welmar est, pour ses voisins, un forgeron compétent et discret — pas un dissident. Il ne réveille personne. Il continue de marteler le métal, de saluer les passants, et de rêver chaque nuit. Au matin, quand on le croise, on lui demande s'il a *bien dormi*. Il répond toujours : *« comme tout le monde »*. La formule est exacte si on l'entend précisément. Personne ne l'entend précisément.
+
+---
+
+## Korindar — « Le Cristal qui ne se Taille pas »
+
+Le cristal trouvé par l'explorateur de Feldrin trois générations plus tôt, dans les grottes profondes interdites, est conservé dans une cavité scellée sous le temple de Feldrin. Sa forme est inhabituelle — pas un prisme classique, mais une géométrie *interne* qui donne l'impression de continuer sous la surface visible. Sa taille est telle qu'aucun artisan de Korindar n'a osé envisager de le tailler ; les fréquences libérées par une telle masse, selon les calculs du cristallier en chef Korven en l'an 198, dépasseraient tout ce que l'oreille humaine peut tolérer, et probablement tout ce que le crâne humain peut contenir intact.
+
+Le cristal est donc *gardé*. Il n'est pas étudié. Il est *là*.
+
+Une fois par génération environ, un cristallier audacieux propose qu'on l'examine. La proposition est invariablement rejetée par le Conseil de Korindar, non par décision votée mais par épuisement de la discussion. Personne ne dit explicitement *non*. On dit *« ce n'est pas le moment »* ; on dit *« il faut consulter les Écho-Guides »* ; on dit *« on en parlera à la prochaine session »* ; et la session suivante n'aborde pas le sujet, et ainsi de suite jusqu'à ce que le cristallier audacieux abandonne.
+
+En l'an 240, une jeune femme de Korindar — Yelvenne, vingt-six ans, cristallière prometteuse, fille d'une lignée respectée — proposa autre chose. Elle ne demanda pas qu'on examine le cristal. Elle demanda qu'on cesse de le garder. Plus exactement, elle proposa qu'on le *rapporte dans la grotte d'origine*, qu'on l'y dépose, qu'on en oublie l'emplacement précis. Elle suggéra que la pratique de garde, sans usage, sans étude, sans liturgie particulière, n'avait aucun sens autre que *l'incapacité à décider*.
+
+Le Conseil de Korindar fut perturbé par la proposition. Aucun des arguments habituels ne fonctionnait — Yelvenne ne demandait pas qu'on prenne un risque, elle demandait qu'on en sorte. La discussion dura trois sessions. Plusieurs cristalliers anciens prirent la parole pour dire que rapporter le cristal serait une *trahison de mémoire* — qu'il avait été *donné* par la grotte au village, qu'il méritait d'être *gardé*. Yelvenne demanda qui exactement l'avait *donné*. Personne ne sut répondre. La discussion s'enlisa dans la généralité.
+
+À la quatrième session, le Conseil rejeta la proposition par épuisement. Aucun vote. Aucune motivation explicite. La proposition fut classée. Yelvenne ne réinsista pas. Elle continua son travail de cristallière. En privé, à une apprentie qu'elle formait, elle dit : *« je ne sais pas pourquoi nous le gardons. Je ne crois plus que les anciens le savaient non plus. Mais nous continuons. C'est ce que nous faisons. »*
+
+Le cristal est toujours dans la cavité scellée. Il est, en l'arc Sorin, parfaitement gardé. La temperature de la cavité est régulée par un système de ventilation entretenu par roulement par les apprentis cristalliers. La règle d'accès est stricte. Personne ne sait précisément ce qu'on garde. Personne ne le demande.
 

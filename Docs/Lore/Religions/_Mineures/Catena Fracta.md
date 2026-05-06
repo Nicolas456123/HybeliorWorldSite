@@ -2,7 +2,7 @@
 tags: [religion, lore, cosmologie, hérésie, refonte-2026-05]
 type: lore
 status: drafted
-last_review: 2026-05-02
+last_review: 2026-05-06
 needs_review_for: [statut-religion-vs-mouvement-Q-LC-014]
 nom_latin: Catena Fracta
 entites_venerees: []
@@ -68,6 +68,22 @@ Le Lien cosmique est une **domination**. Les Éternels et Cosmiques ont créé l
 
 ---
 
+## Vie quotidienne et discipline du Refus
+
+À l'intérieur d'une cellule Catena Fracta, la vie est codifiée par un seul geste : **refuser, encore, et toujours**. Refuser de porter les marques du Lien (médaillons, tatouages, registres). Refuser de prononcer les noms des Éternels et des Cosmiques sans inversion ou raccourci moqueur (Eldoria devient « la Grise », Aerion devient « le Souffleur », Navigor n'est plus prononcé du tout). Refuser, en ville, les saluts, les fêtes, les marchés rythmés par les liturgies dominantes. Refuser le repas partagé avec un Lié non-converti.
+
+Cette discipline du refus s'étend à des détails minuscules. Un Fracta de base de Kharazir refusera systématiquement la première offre, dans un marché, par principe. Il refusera la place qu'on lui propose à table. Il refusera d'apprendre certains mots. La logique : *toute habitude est une chaîne, toute habitude reçue d'un système est la chaîne du système*. Le converti apprend à refuser même ce qu'il aurait choisi spontanément, parce que le geste de refuser est plus important que la chose refusée.
+
+Le rituel d'admission se nomme **la Coupure**. Le postulant, en présence de trois Persuadeurs et d'un Nœud, identifie publiquement une **attache à un Lié de son entourage** — un parent, un amant, un mentor — et la déclare brisée. La déclaration n'est pas symbolique : elle est suivie, dans les semaines qui suivent, par un acte vérifiable (lettre de rupture, déménagement, refus des secours en cas de maladie de l'attaché). Les cellules conservent une mémoire écrite de ces coupures, comptabilité tenue avec rigueur. Un Fracta qui n'aurait coupé personne n'est jamais accepté pleinement.
+
+La conséquence sociologique de cette discipline est implacable : les cellules sont peuplées de personnes **qui ont déjà tout coupé**. Elles n'ont plus de famille, plus d'attaches mondaines, plus de retour possible. Cette absence d'option de retour est, dans la doctrine Persuadeurs, *la preuve même de la libération* — un homme qui pourrait retourner chez lui n'est pas libre. Dans les faits, c'est aussi ce qui rend les converts faciles à manipuler par les Nœuds : ils n'ont nulle part ailleurs où aller.
+
+Les **Coupeurs** ajoutent à cette discipline personnelle un travail collectif : sabotage de registres communaux, défiguration de stèles vibrantes, vol et destruction d'artefacts liés. Ces actes sont préparés sans alcool, sans chant, sans liesse — un travail d'artisan, presque morne. La doctrine veut qu'on ne *fête* jamais une rupture, parce que fêter ce serait déjà l'inscrire dans une nouvelle chaîne.
+
+Les **Fils de l'Abîme** ne sont pas des fanatiques exaltés. Les rares témoignages survivants des assassinats de la Guerre de l'Ombre décrivent des hommes calmes, méticuleux, qui tuent comme on déboulonne une serrure. Cette froideur procédurale est au cœur du recrutement de la faction : on n'y entre pas par colère, on y entre par épuisement.
+
+---
+
 ## Position sur les Liés et Déliés
 
 > [!important] Distinction critique D-COSMO-3
@@ -89,6 +105,16 @@ Le Lien cosmique est une **domination**. Les Éternels et Cosmiques ont créé l
 Catena Fracta **rejette l'idée même du Souffle** comme « manifestation supplémentaire de la domination cosmique ». La compression cyclique des stats est interprétée comme la **preuve** que les Cosmiques limitent volontairement l'autonomie des mortels.
 
 L'Accord est rejeté comme **soumission**.
+
+---
+
+## Tensions internes et raisons de la persistance
+
+La fracture entre Persuadeurs, Coupeurs et Fils de l'Abîme paraît hiérarchique (modérés / radicaux / extrémistes), mais elle est en réalité **doctrinale**. Pour les Persuadeurs, la domination cosmique se brise par l'éveil progressif des consciences — un converti à la fois, un argument à la fois. Pour les Coupeurs, la conscience ne suffit pas tant que les structures matérielles du Lien tiennent debout — il faut casser les artefacts, les registres, les pierres dressées. Pour les Fils de l'Abîme, ni la conscience ni les structures ne tiennent tant que des Liés vivants en transmettent la mémoire — il faut éteindre les corps qui portent encore le Lien.
+
+Cette divergence se rejoue à chaque assassinat : les Persuadeurs tentent de se distancier publiquement et n'y parviennent jamais complètement, parce que le Conseil des Fils refuse toute scission qui priverait le mouvement de sa fraction la plus déterminée. Les Coupeurs servent de tampon — assez radicaux pour ne pas être déconsidérés par les Fils, assez retenus pour ne pas être assimilés à eux par les Persuadeurs. Cette architecture est instable mais tient depuis cinquante ans.
+
+La religion (ou le mouvement) reste **petite en nombre** mais difficile à éradiquer pour une raison structurelle : ses converts ont déjà coupé leurs attaches, ce qui les rend insaisissables — pas de famille à menacer, pas de domicile fixe, pas de patrimoine confiscable. Les nations qui tentent de les réprimer par les méthodes habituelles (saisies, exils, dénonciations) frappent dans le vide. Seules les méthodes brutales fonctionnent, et elles produisent à chaque fois deux nouveaux converts pour un éliminé. C'est l'asymétrie qui inquiète les chancelleries.
 
 ---
 
@@ -118,4 +144,42 @@ L'Accord est rejeté comme **soumission**.
 
 ---
 
-*Liens : [[../00 - Système Religieux]] | [[../_Histoire des Religions]] | [[../../Chronologie/Era 7 - Le Monde Actuel]] | [[../../Chronologie/Era 4 - L'Arrachement]] | [[../../../GDD/22 - Les Ères]]*
+## Figure historique : Halvenor Drask, dit le Refus de Kharazir (an 184 — an 233)
+
+Halvenor Drask est, à ce jour, la seule figure post-Arrachement de Catena Fracta dont le nom soit connu, documenté et cité au sein même du mouvement. Les cellules le mentionnent rarement à voix haute — la doctrine veut qu'aucun fidèle ne soit **figure** — mais son ombre traverse la Guerre de l'Ombre comme un axe.
+
+Halvenor naît à Kharazir en 184, dans la Citadelle des Marqués. Sa mère est une non-Liée, marchande de tissus jaunes ; son père, un Lié mineur de Haldria, qui les abandonne quand Halvenor a sept ans. Il grandit dans un quartier où l'humiliation est quotidienne — le tissu jaune, les contrôles, l'interdiction des rues nobles après le couchant. Adolescent brillant, il intègre une école de scribes par dérogation, devient correspondant pour la guilde des marchands à seize ans, et publie à vingt-trois ans un opuscule remarqué sur l'économie des dettes des non-Liés. Il est cité, à cette époque, comme un possible réformateur modéré. Plusieurs cours de Galenor cherchent à se l'attacher.
+
+Il rejoint Catena Fracta en 211, à vingt-sept ans, après la mort de sa mère. Les cellules de Kharazir le font entrer comme Persuadeur. Il devient Nœud en 218, à trente-quatre ans — promotion exceptionnellement rapide. Il publie, à cette période, sept traités courts sous pseudonyme, dont l'un — **Ce qui se brise quand on cesse de demander** — est aujourd'hui considéré comme le texte philosophique le plus rigoureux du mouvement.
+
+La rupture de 224 est ce qui le rend mémorable. Cette année-là, le Conseil des Fils prépare ce qui deviendra l'**Édit du Sang Coupé** — une décision interne autorisant les Fils de l'Abîme à étendre leurs assassinats aux **enfants Liés des familles ciblées**, sur l'argument que la transmission de la chaîne se fait par éducation précoce et qu'attendre l'âge adulte des cibles condamne le mouvement à une lenteur qui ne tiendra pas un siècle. Le vote du Conseil est documenté dans les archives saisies plus tard à Endrath : neuf voix pour, trois contre, deux abstentions. Halvenor Drask est l'un des trois contre.
+
+Le débat dure trois nuits. Halvenor n'invoque ni pitié, ni morale étrangère, ni argument extérieur — la doctrine lui interdit l'un et l'autre. Il invoque un seul point, formulé selon les minutes de la délibération à peu près ainsi : *« Si nous tuons des enfants pour briser la transmission, nous devenons la transmission. La chaîne se sera reformée dans nos mains, et nous aurons cessé d'être Catena Fracta. Le geste de refuser ne tient que si nous refusons aussi cela. »* L'argument est rejeté. L'Édit est adopté. Halvenor demande qu'on enregistre formellement son refus dans les minutes — geste sans précédent dans le Conseil — puis il quitte la séance.
+
+Dans les jours qui suivent, il refuse les ordres de mission. Il refuse les mesures de discipline. Il refuse de se rétracter publiquement. Il refuse, surtout, de partir — il aurait pu fuir, il avait des contacts en Endrath, il n'en use pas. Il continue à vivre dans son logement de Kharazir, à recevoir des visiteurs, à écrire. Pendant huit mois, le Conseil des Fils hésite à le faire éliminer : sa stature philosophique est telle qu'un assassinat interne provoquerait des défections en cascade. Halvenor le sait, et joue de cette protection précaire pour publier en clandestinité un dernier texte court — **Le Tranchant n'est pas un couteau** — qui circule dans les cellules de Kharazir et de Haldria et qui dénonce, sans nommer ses adversaires, la dérive du mouvement.
+
+L'Édit du Sang Coupé est mis en application en 225. Cinq enfants Liés sont assassinés cette année-là dans le sud de Galenor. Halvenor Drask publie, après chaque assassinat, une lettre publique — non signée mais reconnue de tous — qui désavoue l'acte au nom d'une **fidélité plus profonde au refus**. Les cellules se divisent. Plusieurs Persuadeurs quittent le mouvement. La Guerre de l'Ombre, qui montait en puissance, perd six mois.
+
+Halvenor Drask est retrouvé mort le 14 du Souffle d'Hiver, an 233, dans son logement. Officiellement, mort naturelle — il avait quarante-neuf ans et une affection cardiaque connue. Officieusement, et selon plusieurs sources convergentes que les enquêteurs de Kharazir n'ont jamais pu corroborer, il aurait été empoisonné par un Fils de l'Abîme avec un toxique lent, choisi précisément pour sa ressemblance avec une mort naturelle. La doctrine officielle des Fils est qu'il est mort de son cœur. La doctrine officielle des Persuadeurs survivants est qu'il a été tué pour avoir refusé. Aucun corps n'a pu être autopsié — il avait demandé, dans un testament conservé par un scribe non-Lié de la guilde des marchands, à être brûlé immédiatement. Sa demande a été honorée.
+
+Le nom de Halvenor Drask est aujourd'hui un point de fracture interne de Catena Fracta. Les Persuadeurs le revendiquent comme leur figure morale ; les Fils de l'Abîme l'ignorent ou le qualifient de **rétractation** (terme codé pour désigner ceux qui ont *refusé de refuser jusqu'au bout*) ; les Coupeurs hésitent. Son traité **Ce qui se brise quand on cesse de demander** continue d'être étudié dans les cellules ; sa lettre posthume **Le Tranchant n'est pas un couteau** circule en copies manuscrites, redoutée des Nœuds qui interdisent à leurs Fracta de la lire et qui en interdisent aussi les commentaires.
+
+Le geste de Halvenor — refuser le refus quand le refus devient sa propre négation — est, pour le mouvement, un caillou qu'il ne sait ni avaler ni recracher. Pour les ennemis du mouvement, c'est la preuve qu'il y a, *encore aujourd'hui*, au cœur de Catena Fracta, une lame plus tranchante que la doctrine officielle n'ose la nommer.
+
+---
+
+## Cadre interne — Patterns
+
+> *Notes pour rédacteurs. Grille interne, jamais énoncée par un PNJ ni par le Lore in-world.*
+
+**Piège Institutionnel dominant : L'Âge de la Loi figée — paradoxalement.**
+
+Catena Fracta est l'illustration la plus subtile du piège : un mouvement qui prétend incarner le refus radical et qui, par la mécanique même de sa discipline, est devenu une **Loi figée du refus**. Ses fidèles ne refusent plus en interrogeant — ils refusent par règle, par habitude codifiée, par procédure d'admission. La doctrine du refus s'est durcie en dogme du refus. Les Coupures rituelles, comptabilisées avec rigueur, ne sont plus des gestes d'identité ; ce sont des cases à cocher. Le mouvement applique son propre catéchisme avec autant de mécanique que les religions qu'il combat. C'est précisément ce que Halvenor Drask a perçu en 224 et que sa lettre posthume désigne sans le nommer.
+
+**Âge moral collectif majoritaire : La Loi.**
+
+Les Fracta de base sont presque tous dans la Loi — ils appliquent la discipline du refus parce qu'on la leur a transmise, et leur révolte initiale (qui pouvait relever du Désir) s'est figée en règle. Les Persuadeurs et les Coupeurs varient ; les Fils de l'Abîme sont profondément dans la Loi, leur froideur procédurale étant le signe le plus net qu'ils ne pensent plus le geste qu'ils accomplissent. Halvenor Drask, dans son geste de 224-225, est l'exemple rare d'une bascule vers le Principe : il refuse parce que refuser est, pour lui, une fin en soi, et il refuse même son propre camp quand celui-ci cesse de refuser au sens où il l'entendait. Il en meurt obscur, lentement assassiné ou mort de cœur — la mécanique narrative ne récompense rien.
+
+**Vertu Cachée affleurante : Le Tranchant — sous sa forme la plus pure et la plus tragique.**
+
+Le Tranchant authentique apparaît exactement une fois dans le mouvement, et c'est dans la rupture interne de Halvenor Drask. Refuser le refus quand celui-ci se trahit, c'est l'aboutissement du Tranchant — exclure même ce qui prétend être l'exclusion, pour préserver le geste de séparation lui-même. La religion entière est censée porter cette vertu et la déforme presque uniformément en Loi figée. Halvenor en est la figure incarnée *parce qu'il a refusé jusqu'à refuser sa propre maison*. L'ironie : c'est précisément ce que l'audit demandait. Sa figure pourra être croisée par Sorin (l'agent A.4 s'en saisira). Elle est récente, datée, brûlée avant qu'on puisse l'autopsier — comme il convient à une figure que ni les amis ni les ennemis ne peuvent vraiment honorer sans la trahir.

@@ -2,7 +2,7 @@
 tags: [lore, chronique]
 type: lore
 status: drafted
-last_review: 2026-05-02
+last_review: 2026-05-06
 needs_review_for: []
 ---
 # Chapitre 35 — La Monarchie Lunaire
@@ -108,15 +108,19 @@ Solvanes dit : « La même chose que vous avez vue à Nysaria. Le passage. Mais 
 
 Je demandai comment il savait ce que j'avais vu.
 
-Il dit : « Parce que l'amulette indique que vous avez été en dessous. Pas jusqu'au fond — jusqu'à l'escalier. Votre père n'est allé que jusqu'aux arbres. »
+Il dit : « Parce que l'amulette indique que vous avez été en dessous. Pas jusqu'au fond — jusqu'à l'escalier. Votre père n'est allé que jusqu'aux arbres. Il a vu ce qu'il y avait à voir, et il a reculé. »
 
 Je restai silencieux un moment. Le bruit de l'amphithéâtre venait de l'extérieur — des voix basses, le glissement de sandales sur la pierre blanche, quelqu'un qui chantait quelque chose en lunari d'une voix sans effort, comme on fredonne en faisant autre chose.
 
-Mon père avait eu peur.
+Je posai la question sans la préparer.
 
-Je ne formulai pas cela à voix haute. Mais je le compris de la façon dont on comprend les choses qu'on n'a pas envie de savoir mais qui s'imposent avec la clarté des évidences : mon père, cartographe ou non, voyageur ou non, portait lui aussi une amulette de Nysaria et il était allé jusqu'aux arbres et il était revenu.
+Je demandai à Solvanes si mon père avait reculé parce qu'il avait eu peur.
 
-Je ne lui en tins pas rigueur. Je ne lui en tins pas rigueur du tout. J'avais failli reculer moi-même devant l'escalier — j'avais reculé, d'ailleurs, mais pour des raisons différentes. Il y a une différence entre reculer parce qu'on a peur et reculer parce qu'on comprend que le moment n'est pas venu. Je ne suis pas certain de toujours savoir de quel côté je suis.
+Solvanes ne répondit pas tout de suite. Il prit le temps que les Lunariens prennent quand on leur pose une question dont la réponse changera quelque chose dans la pièce. Puis il dit : « Je ne sais pas pourquoi votre père a reculé. Il ne me l'a pas dit. Il avait l'air d'un homme qui avait pris une décision, pas d'un homme qui avait fui une menace. La différence n'est pas toujours visible de l'extérieur. »
+
+Je notai cette phrase. Je ne la commentai pas — il n'y avait rien à y ajouter qui ne fût pas une lecture. Mon père avait peut-être eu peur. Mon père avait peut-être choisi. Ou les deux à la fois, dans une combinaison dont aucun mot que je connaissais ne portait exactement la forme.
+
+J'avais failli reculer moi-même devant l'escalier de Nysoris. J'avais reculé, d'ailleurs. Je ne savais pas, dans le moment où je m'étais retourné, si c'était parce que j'avais eu peur ou parce que j'avais compris que le moment n'était pas venu. Je n'étais toujours pas certain ce soir-là à Lunaris. Et la possibilité que mon père non plus ne l'eût pas su entièrement — qu'il eût mêlé peur et choix dans le même geste, comme les hommes mêlent toutes leurs raisons aux moments qui comptent — fissura quelque chose dans la lecture que je portais de lui depuis Vytharia.
 
 ---
 
@@ -184,7 +188,7 @@ Il était mort d'une pneumonie d'hiver.
 
 Il y avait là quelque chose que je ne savais pas comment tenir — un sentiment qui n'était pas tout à fait de la tristesse et pas tout à fait de la colère mais quelque chose entre les deux, quelque chose qui ressemblait au vertige qu'on éprouve quand on réalise que ce qu'on cherchait depuis longtemps était plus proche qu'on ne le croyait et que la distance n'était pas géographique.
 
-Il avait tracé le début de la carte. Il me laissait le finir.
+Il avait tracé le début de la carte. Il me laissait le finir — ou il me laissait, comme lui, choisir où m'arrêter. La carte ne disait pas, et n'avait peut-être jamais voulu dire, laquelle des deux choses elle était.
 
 L'amulette pulsait contre ma poitrine.
 
