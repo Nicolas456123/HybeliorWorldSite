@@ -35,8 +35,9 @@ const NavConfig = {
     subtabs: {
         vision: {
             engine: 'md',
-            defaultKey: 'pitch',
+            defaultKey: 'index',
             tabs: [
+                { key: 'index',      label: "Vue d'ensemble", src: 'GDD/01 - Vision/Index.md' },
                 { key: 'pitch',      label: 'Pitch',       src: 'GDD/01 - Vision/Vision.md' },
                 { key: 'univers',    label: "L'Univers",   src: 'GDD/01 - Vision/Univers.md' },
                 { key: 'partie',     label: 'La Partie',   src: 'GDD/01 - Vision/La Partie.md' },
@@ -46,8 +47,9 @@ const NavConfig = {
 
         monde: {
             engine: 'md',
-            defaultKey: 'cosmologie',
+            defaultKey: 'index',
             tabs: [
+                { key: 'index',       label: "Vue d'ensemble", src: 'GDD/02 - Monde/Index.md' },
                 { key: 'cosmologie',  label: 'Cosmologie',     src: 'GDD/02 - Monde/Cosmologie.md' },
                 { key: 'geographie',  label: 'Géographie',     src: 'GDD/02 - Monde/Géographie.md' },
                 { key: 'lignees',     label: 'Lignées',        src: 'GDD/02 - Monde/Lignées.md' },
@@ -61,8 +63,9 @@ const NavConfig = {
 
         mecaniques: {
             engine: 'md',
-            defaultKey: 'souffle',
+            defaultKey: 'index',
             tabs: [
+                { key: 'index',        label: "Vue d'ensemble",  src: 'GDD/03 - Mécaniques/Index.md' },
                 { key: 'souffle',      label: 'Le Souffle',      src: 'GDD/03 - Mécaniques/Le Souffle.md' },
                 { key: 'accord',       label: "L'Accord",        src: "GDD/03 - Mécaniques/L'Accord.md" },
                 { key: 'eres',         label: 'Les Ères',        src: 'GDD/03 - Mécaniques/Les Ères.md' },
@@ -88,8 +91,9 @@ const NavConfig = {
 
         systemes: {
             engine: 'md',
-            defaultKey: 'pnj',
+            defaultKey: 'index',
             tabs: [
+                { key: 'index',         label: "Vue d'ensemble",    src: 'GDD/04 - Systèmes/Index.md' },
                 { key: 'data',          label: 'Architecture Data', src: 'GDD/04 - Systèmes/Architecture Data-Driven.md' },
                 { key: 'pnj',           label: 'PNJ',               src: 'GDD/04 - Systèmes/PNJ.md' },
                 { key: 'bestiaire',     label: 'Bestiaire',         src: 'GDD/04 - Systèmes/Bestiaire/Index.md' },
@@ -99,11 +103,12 @@ const NavConfig = {
 
         implementation: {
             engine: 'md',
-            defaultKey: 'overview',
+            defaultKey: 'index',
             tabs: (function () {
                 const base = 'GDD/05 - Implémentation Unreal/';
                 return [
-                    { key: 'overview',    label: "Vue d'ensemble",            src: base + "Vue d'Ensemble/Index.md" },
+                    { key: 'index',       label: "Vue d'ensemble",            src: base + 'Index.md' },
+                    { key: 'overview',    label: 'Architecture',              src: base + "Vue d'Ensemble/Index.md" },
                     { key: 'combat',      label: 'Combat & Capacités',         src: base + 'Combat et Capacités/Index.md' },
                     { key: 'entities',    label: 'Personnages & Entités',      src: base + 'Personnages et Entités/Index.md' },
                     { key: 'progression', label: 'Progression & Inventaire',   src: base + 'Progression et Inventaire/Index.md' },
