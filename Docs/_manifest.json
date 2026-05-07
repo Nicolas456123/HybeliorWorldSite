@@ -1,6 +1,12 @@
 {
   "GDD/01 - Vision": [
     {
+      "name": "Index",
+      "file": "Index.md",
+      "title": "01 — Vision",
+      "isIndex": true
+    },
+    {
       "name": "La Partie",
       "file": "La Partie.md",
       "title": "🌐 La Partie — l'expérience du joueur"
@@ -43,6 +49,12 @@
       "title": "📜 Histoire d'Hybelior — Chronique d'un monde qui respire"
     },
     {
+      "name": "Index",
+      "file": "Index.md",
+      "title": "02 — Monde",
+      "isIndex": true
+    },
+    {
       "name": "Lignées",
       "file": "Lignées.md",
       "title": "🌳 Les Lignées — manières d'être au monde"
@@ -51,6 +63,118 @@
       "name": "Traces des Ères",
       "file": "Traces des Ères.md",
       "title": "🏛️ Traces des Ères — la mémoire géographique du monde"
+    }
+  ],
+  "GDD/02 - Monde/Continents": [
+    {
+      "name": "Index",
+      "file": "Index.md",
+      "title": "Continents d'Hybelior",
+      "isIndex": true
+    }
+  ],
+  "GDD/02 - Monde/Continents/Alkaran": [
+    {
+      "name": "_Index",
+      "file": "_Index.md",
+      "title": "Alkaran — Le Royaume des Anciens Esprits",
+      "isIndex": true
+    }
+  ],
+  "GDD/02 - Monde/Continents/Azoria": [
+    {
+      "name": "_Index",
+      "file": "_Index.md",
+      "title": "Azoria — le continent qui se maintient",
+      "isIndex": true
+    }
+  ],
+  "GDD/02 - Monde/Continents/Baelor": [
+    {
+      "name": "_Index",
+      "file": "_Index.md",
+      "title": "Baelor — l'Île qui se tait",
+      "isIndex": true
+    }
+  ],
+  "GDD/02 - Monde/Continents/Celethor": [
+    {
+      "name": "_Index",
+      "file": "_Index.md",
+      "title": "Celethor — le Continent des Neiges Éternelles",
+      "isIndex": true
+    }
+  ],
+  "GDD/02 - Monde/Continents/Cendara": [
+    {
+      "name": "_Index",
+      "file": "_Index.md",
+      "title": "🔥 Cendara — l'Île de Feu et de Cendres",
+      "isIndex": true
+    }
+  ],
+  "GDD/02 - Monde/Continents/Cestra": [
+    {
+      "name": "_Index",
+      "file": "_Index.md",
+      "title": "Cestra — Le Bastion du Nord",
+      "isIndex": true
+    }
+  ],
+  "GDD/02 - Monde/Continents/Endora": [
+    {
+      "name": "_Index",
+      "file": "_Index.md",
+      "title": "Endora — Le Continent des Contrastes",
+      "isIndex": true
+    }
+  ],
+  "GDD/02 - Monde/Continents/Evertia": [
+    {
+      "name": "_Index",
+      "file": "_Index.md",
+      "title": "Evertia — L'Île aux Merveilles",
+      "isIndex": true
+    }
+  ],
+  "GDD/02 - Monde/Continents/Galenor": [
+    {
+      "name": "_Index",
+      "file": "_Index.md",
+      "title": "Galenor — Le Jardin des Titans",
+      "isIndex": true
+    }
+  ],
+  "GDD/02 - Monde/Continents/Ilthara": [
+    {
+      "name": "_Index",
+      "file": "_Index.md",
+      "title": "Ilthara — Le Berceau de la Magie",
+      "isIndex": true
+    }
+  ],
+  "GDD/02 - Monde/Continents/Nysaria": [
+    {
+      "name": "_Index",
+      "file": "_Index.md",
+      "title": "Nysaria — la Forêt de l'Éternel Hiver",
+      "isIndex": true
+    }
+  ],
+  "GDD/02 - Monde/Continents/Onara": [
+    {
+      "name": "_Index",
+      "file": "_Index.md",
+      "title": "Onara — Le Royaume des Vents et des Glaces",
+      "isIndex": true
+    }
+  ],
+  "GDD/02 - Monde/Continents/Ulinor": [
+    {
+      "name": "_Index",
+      "file": "_Index.md",
+      "title": "Ulinor — l'Île des Échos",
+      "isIndex": true
     }
   ],
   "GDD/03 - Mécaniques": [
@@ -78,6 +202,12 @@
       "name": "Guildes",
       "file": "Guildes.md",
       "title": "🏰 Les Guildes — la famille élue"
+    },
+    {
+      "name": "Index",
+      "file": "Index.md",
+      "title": "03 — Mécaniques",
+      "isIndex": true
     },
     {
       "name": "Interface",
@@ -152,6 +282,12 @@
       "title": "🗂 Catégories de Constructions — 10 grandes familles"
     },
     {
+      "name": "Index",
+      "file": "Index.md",
+      "title": "🏛️ Architecture — Index",
+      "isIndex": true
+    },
+    {
       "name": "Mapping Métiers de Construction",
       "file": "Mapping Métiers de Construction.md",
       "title": "👷 Mapping Métiers de Construction — Qui construit quoi"
@@ -177,6 +313,12 @@
       "name": "Crafts",
       "file": "Crafts.md",
       "title": "🛠 Crafts — Taxonomie des processus de fabrication"
+    },
+    {
+      "name": "Index",
+      "file": "Index.md",
+      "title": "🎒 Items — Index",
+      "isIndex": true
     },
     {
       "name": "Sources de Ressources",
@@ -786,6 +928,12 @@
       "title": "🥩 Archétype — Viande"
     },
     {
+      "name": "_README",
+      "file": "_README.md",
+      "title": "_Templates — Archive paramétrique",
+      "isIndex": true
+    },
+    {
       "name": "Écaille",
       "file": "Écaille.md",
       "title": "🐉 Écaille — Archétype ressource créature"
@@ -826,6 +974,14 @@
       "title": "🥚 Œuf — Archétype ressource créature"
     }
   ],
+  "GDD/03 - Mécaniques/Métiers": [
+    {
+      "name": "Index",
+      "file": "Index.md",
+      "title": "Métiers — catalogue détaillé",
+      "isIndex": true
+    }
+  ],
   "GDD/03 - Mécaniques/Métiers/Agriculture et Élevage": [
     {
       "name": "Agriculteur",
@@ -846,6 +1002,12 @@
       "name": "Eleveur de créature",
       "file": "Eleveur de créature.md",
       "title": "🐎 Éleveur de créature — Archétype Métier"
+    },
+    {
+      "name": "Index",
+      "file": "Index.md",
+      "title": "Métiers — Agriculture et Élevage",
+      "isIndex": true
     },
     {
       "name": "Meunier",
@@ -910,6 +1072,12 @@
       "title": "🔨 Archétype-Métier — Forgeron"
     },
     {
+      "name": "Index",
+      "file": "Index.md",
+      "title": "Métiers — Artisanat et Production",
+      "isIndex": true
+    },
+    {
       "name": "Lapidaire",
       "file": "Lapidaire.md",
       "title": "💎 Archétype-Métier — Lapidaire"
@@ -967,6 +1135,12 @@
       "title": "🏦 Banquier — Archétype Métier"
     },
     {
+      "name": "Index",
+      "file": "Index.md",
+      "title": "Métiers — Commerce et Services",
+      "isIndex": true
+    },
+    {
       "name": "Marchand",
       "file": "Marchand.md",
       "title": "💰 Marchand — Archétype Métier"
@@ -987,6 +1161,12 @@
       "name": "Barde",
       "file": "Barde.md",
       "title": "📜 Barde — Archétype Métier"
+    },
+    {
+      "name": "Index",
+      "file": "Index.md",
+      "title": "Métiers — Divertissements",
+      "isIndex": true
     },
     {
       "name": "Jongleur",
@@ -1036,6 +1216,12 @@
       "title": "🏛️ Historien — Archétype Métier"
     },
     {
+      "name": "Index",
+      "file": "Index.md",
+      "title": "Métiers — Erudition",
+      "isIndex": true
+    },
+    {
       "name": "Médecin",
       "file": "Médecin.md",
       "title": "🩺 Médecin — Archétype Métier"
@@ -1073,6 +1259,12 @@
       "title": "🧭 Explorateur — Archétype Métier"
     },
     {
+      "name": "Index",
+      "file": "Index.md",
+      "title": "Métiers — Exploration",
+      "isIndex": true
+    },
+    {
       "name": "Mercenaire",
       "file": "Mercenaire.md",
       "title": "⚔️ Mercenaire — Archétype Métier"
@@ -1103,6 +1295,12 @@
       "name": "Conseiller",
       "file": "Conseiller.md",
       "title": "🧠 Conseiller — Archétype-métier"
+    },
+    {
+      "name": "Index",
+      "file": "Index.md",
+      "title": "Métiers — Gouvernance",
+      "isIndex": true
     },
     {
       "name": "Juge",
@@ -1140,6 +1338,12 @@
       "name": "Herboriste",
       "file": "Herboriste.md",
       "title": "🌿 Herboriste — Archétype Métier"
+    },
+    {
+      "name": "Index",
+      "file": "Index.md",
+      "title": "Métiers — Mysticisme",
+      "isIndex": true
     },
     {
       "name": "Mage",
@@ -1189,6 +1393,12 @@
       "title": "🛡️ Garde — Archétype-métier"
     },
     {
+      "name": "Index",
+      "file": "Index.md",
+      "title": "Métiers — Sécurité",
+      "isIndex": true
+    },
+    {
       "name": "Soldat",
       "file": "Soldat.md",
       "title": "⚔️ Soldat — Archétype-métier"
@@ -1196,9 +1406,44 @@
   ],
   "GDD/04 - Systèmes": [
     {
+      "name": "Architecture Data-Driven",
+      "file": "Architecture Data-Driven.md",
+      "title": "Architecture Data-Driven"
+    },
+    {
+      "name": "Index",
+      "file": "Index.md",
+      "title": "04 — Systèmes",
+      "isIndex": true
+    },
+    {
       "name": "PNJ",
       "file": "PNJ.md",
       "title": "🧍 Les PNJ — la présence comme contrat"
+    }
+  ],
+  "GDD/04 - Systèmes/Bestiaire": [
+    {
+      "name": "Index",
+      "file": "Index.md",
+      "title": "Bestiaire",
+      "isIndex": true
+    }
+  ],
+  "GDD/04 - Systèmes/Comportements PNJ": [
+    {
+      "name": "Index",
+      "file": "Index.md",
+      "title": "Comportements PNJ",
+      "isIndex": true
+    }
+  ],
+  "GDD/05 - Implémentation Unreal": [
+    {
+      "name": "Index",
+      "file": "Index.md",
+      "title": "06 — Implémentation Unreal",
+      "isIndex": true
     }
   ],
   "GDD/05 - Implémentation Unreal/Audits": [
@@ -1236,6 +1481,12 @@
       "name": "Index Audits",
       "file": "Index Audits.md",
       "title": "11 — Audits"
+    },
+    {
+      "name": "Index",
+      "file": "Index.md",
+      "title": "Audits",
+      "isIndex": true
     },
     {
       "name": "Network Replication Audit",
@@ -1288,6 +1539,12 @@
       "name": "Index Backend OWS",
       "file": "Index Backend OWS.md",
       "title": "08 — Backend OWS"
+    },
+    {
+      "name": "Index",
+      "file": "Index.md",
+      "title": "Backend OWS",
+      "isIndex": true
     },
     {
       "name": "Instance Launcher Ops",
@@ -1477,6 +1734,12 @@
       "title": "01 — AbilitySystem & Combat"
     },
     {
+      "name": "Index",
+      "file": "Index.md",
+      "title": "Combat et Capacités",
+      "isIndex": true
+    },
+    {
       "name": "Lien System",
       "file": "Lien System.md",
       "title": "Lien System — Implémentation"
@@ -1537,6 +1800,12 @@
       "name": "Index Framework Plugins",
       "file": "Index Framework Plugins.md",
       "title": "07 — Framework & Plugins"
+    },
+    {
+      "name": "Index",
+      "file": "Index.md",
+      "title": "Framework et Plugins",
+      "isIndex": true
     },
     {
       "name": "Initialization Sequence",
@@ -1639,6 +1908,12 @@
       "name": "Index Interaction UI",
       "file": "Index Interaction UI.md",
       "title": "05 — Interaction & UI"
+    },
+    {
+      "name": "Index",
+      "file": "Index.md",
+      "title": "Interaction et UI",
+      "isIndex": true
     },
     {
       "name": "Input Actions",
@@ -1761,6 +2036,12 @@
       "name": "Index Monde Environnement",
       "file": "Index Monde Environnement.md",
       "title": "04 — World & Environment"
+    },
+    {
+      "name": "Index",
+      "file": "Index.md",
+      "title": "Monde et Environnement",
+      "isIndex": true
     },
     {
       "name": "Infinite Ocean",
@@ -1895,6 +2176,12 @@
       "title": "09 — Tools & Automation"
     },
     {
+      "name": "Index",
+      "file": "Index.md",
+      "title": "Outils et Automation",
+      "isIndex": true
+    },
+    {
       "name": "MCP Integration",
       "file": "MCP Integration.md",
       "title": "MCP Integration — Unreal Editor Remote Control"
@@ -2022,6 +2309,12 @@
       "title": "02 — Characters & Entities"
     },
     {
+      "name": "Index",
+      "file": "Index.md",
+      "title": "Personnages et Entités",
+      "isIndex": true
+    },
+    {
       "name": "Lore",
       "file": "Lore.md",
       "title": "Lore"
@@ -2054,9 +2347,23 @@
   ],
   "GDD/05 - Implémentation Unreal/Personnages et Entités/Bestiary": [
     {
+      "name": "Index",
+      "file": "Index.md",
+      "title": "🐉 Bestiaire — Index",
+      "isIndex": true
+    },
+    {
       "name": "Taxonomie des Créatures",
       "file": "Taxonomie des Créatures.md",
       "title": "🧬 Taxonomie des Créatures — 9 axes V2"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Personnages et Entités/Bestiary/Espèces": [
+    {
+      "name": "_Index",
+      "file": "_Index.md",
+      "title": "🐾 Espèces — Index de la taxonomie biologique",
+      "isIndex": true
     }
   ],
   "GDD/05 - Implémentation Unreal/Personnages et Entités/Bestiary/Espèces/Amorphes": [
@@ -2074,6 +2381,20 @@
       "name": "Slime des marais",
       "file": "Slime des marais.md",
       "title": "🟢 Slime des marais"
+    },
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "🟢 Amorphes",
+      "isIndex": true
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Personnages et Entités/Bestiary/Espèces/Arthropodes": [
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "🐝 Arthropodes",
+      "isIndex": true
     }
   ],
   "GDD/05 - Implémentation Unreal/Personnages et Entités/Bestiary/Espèces/Arthropodes/Arachnides": [
@@ -2091,6 +2412,12 @@
       "name": "Veuve cristalline d'Endora",
       "file": "Veuve cristalline d'Endora.md",
       "title": "🕷️ Veuve cristalline d'Endora"
+    },
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "🦂 Arachnides",
+      "isIndex": true
     }
   ],
   "GDD/05 - Implémentation Unreal/Personnages et Entités/Bestiary/Espèces/Arthropodes/Crustacés": [
@@ -2108,6 +2435,12 @@
       "name": "Paboucs",
       "file": "Paboucs.md",
       "title": "🦐 Paboucs"
+    },
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "🦞 Crustacés",
+      "isIndex": true
     }
   ],
   "GDD/05 - Implémentation Unreal/Personnages et Entités/Bestiary/Espèces/Arthropodes/Insectes": [
@@ -2130,6 +2463,20 @@
       "name": "Termites souterrains du Mosrack",
       "file": "Termites souterrains du Mosrack.md",
       "title": "🐜 Termites souterrains du Mosrack"
+    },
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "🐝 Insectes",
+      "isIndex": true
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Personnages et Entités/Bestiary/Espèces/Cosmiques": [
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "🌌 Cosmiques",
+      "isIndex": true
     }
   ],
   "GDD/05 - Implémentation Unreal/Personnages et Entités/Bestiary/Espèces/Cosmiques/Démons": [
@@ -2152,6 +2499,12 @@
       "name": "Démon-marais d'Ilthara",
       "file": "Démon-marais d'Ilthara.md",
       "title": "👹 Démon-marais d'Ilthara"
+    },
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "👹 Démons",
+      "isIndex": true
     }
   ],
   "GDD/05 - Implémentation Unreal/Personnages et Entités/Bestiary/Espèces/Cosmiques/Fractals": [
@@ -2164,6 +2517,12 @@
       "name": "Tisseur du Vide",
       "file": "Tisseur du Vide.md",
       "title": "🕳️ Tisseur du Vide"
+    },
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "💎 Fractals",
+      "isIndex": true
     }
   ],
   "GDD/05 - Implémentation Unreal/Personnages et Entités/Bestiary/Espèces/Cosmiques/Polymorphes": [
@@ -2176,6 +2535,12 @@
       "name": "Métamorphe",
       "file": "Métamorphe.md",
       "title": "🦎 Métamorphe"
+    },
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "🦎 Polymorphes",
+      "isIndex": true
     }
   ],
   "GDD/05 - Implémentation Unreal/Personnages et Entités/Bestiary/Espèces/Cosmiques/Spectres": [
@@ -2188,6 +2553,12 @@
       "name": "Spectre des Ères",
       "file": "Spectre des Ères.md",
       "title": "👻 Spectre des Ères"
+    },
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "👻 Spectres",
+      "isIndex": true
     },
     {
       "name": "Écho du Roi-Sans-Nom",
@@ -2210,6 +2581,12 @@
       "name": "Tentacule abyssal",
       "file": "Tentacule abyssal.md",
       "title": "🐙 Tentacule abyssal"
+    },
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "🐙 Tentaculaires (cosmiques)",
+      "isIndex": true
     }
   ],
   "GDD/05 - Implémentation Unreal/Personnages et Entités/Bestiary/Espèces/Cosmiques/Élémentaires": [
@@ -2227,6 +2604,12 @@
       "name": "Forgeron-Cœur de Myrtam",
       "file": "Forgeron-Cœur de Myrtam.md",
       "title": "🔥 Forgeron-Cœur de Myrtam"
+    },
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "🔥 Élémentaires",
+      "isIndex": true
     },
     {
       "name": "Élémentaire d'air",
@@ -2249,6 +2632,14 @@
       "title": "🪨 Élémentaire de terre"
     }
   ],
+  "GDD/05 - Implémentation Unreal/Personnages et Entités/Bestiary/Espèces/Mammifères": [
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "🦌 Mammifères",
+      "isIndex": true
+    }
+  ],
   "GDD/05 - Implémentation Unreal/Personnages et Entités/Bestiary/Espèces/Mammifères/Bovidés": [
     {
       "name": "Loumatée",
@@ -2264,6 +2655,12 @@
       "name": "Solitaire de Cendre",
       "file": "Solitaire de Cendre.md",
       "title": "🐗 Solitaire de Cendre"
+    },
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "🐗 Bovidés / Suidés",
+      "isIndex": true
     }
   ],
   "GDD/05 - Implémentation Unreal/Personnages et Entités/Bestiary/Espèces/Mammifères/Canidés": [
@@ -2296,6 +2693,12 @@
       "name": "Renard roux",
       "file": "Renard roux.md",
       "title": "🦊 Renard roux"
+    },
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "🐺 Canidés",
+      "isIndex": true
     }
   ],
   "GDD/05 - Implémentation Unreal/Personnages et Entités/Bestiary/Espèces/Mammifères/Cervidés": [
@@ -2318,6 +2721,12 @@
       "name": "Renne mythique de Celethor",
       "file": "Renne mythique de Celethor.md",
       "title": "🦌 Renne mythique de Celethor"
+    },
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "🦌 Cervidés",
+      "isIndex": true
     }
   ],
   "GDD/05 - Implémentation Unreal/Personnages et Entités/Bestiary/Espèces/Mammifères/Géants humanoïdes": [
@@ -2325,6 +2734,12 @@
       "name": "Yéti",
       "file": "Yéti.md",
       "title": "🦍 Yéti"
+    },
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "🦍 Géants humanoïdes",
+      "isIndex": true
     }
   ],
   "GDD/05 - Implémentation Unreal/Personnages et Entités/Bestiary/Espèces/Mammifères/Ursidés": [
@@ -2347,6 +2762,20 @@
       "name": "Ours polaire",
       "file": "Ours polaire.md",
       "title": "🐻‍❄️ Ours polaire"
+    },
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "🐻 Ursidés",
+      "isIndex": true
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Personnages et Entités/Bestiary/Espèces/Oiseaux": [
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "🦅 Oiseaux",
+      "isIndex": true
     }
   ],
   "GDD/05 - Implémentation Unreal/Personnages et Entités/Bestiary/Espèces/Oiseaux/Aigles": [
@@ -2369,6 +2798,12 @@
       "name": "Feopsingale",
       "file": "Feopsingale.md",
       "title": "🦅 Feopsingale"
+    },
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "🦅 Aigles",
+      "isIndex": true
     }
   ],
   "GDD/05 - Implémentation Unreal/Personnages et Entités/Bestiary/Espèces/Oiseaux/Faucons": [
@@ -2386,6 +2821,20 @@
       "name": "Faucon pèlerin",
       "file": "Faucon pèlerin.md",
       "title": "🦅 Faucon pèlerin"
+    },
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "🦅 Faucons",
+      "isIndex": true
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Personnages et Entités/Bestiary/Espèces/Poissons": [
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "🐟 Poissons",
+      "isIndex": true
     }
   ],
   "GDD/05 - Implémentation Unreal/Personnages et Entités/Bestiary/Espèces/Poissons/Abysses": [
@@ -2403,6 +2852,12 @@
       "name": "Requin-cuirassé de Cendara",
       "file": "Requin-cuirassé de Cendara.md",
       "title": "🦈 Requin-cuirassé de Cendara"
+    },
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "🦈 Poissons abyssaux",
+      "isIndex": true
     }
   ],
   "GDD/05 - Implémentation Unreal/Personnages et Entités/Bestiary/Espèces/Poissons/Eaux douces": [
@@ -2425,6 +2880,20 @@
       "name": "Truite mystique",
       "file": "Truite mystique.md",
       "title": "🐟 Truite mystique"
+    },
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "🐟 Poissons d'eau douce",
+      "isIndex": true
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Personnages et Entités/Bestiary/Espèces/Reptiles": [
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "🦎 Reptiles",
+      "isIndex": true
     }
   ],
   "GDD/05 - Implémentation Unreal/Personnages et Entités/Bestiary/Espèces/Reptiles/Sauriens": [
@@ -2437,6 +2906,12 @@
       "name": "Zocshawk",
       "file": "Zocshawk.md",
       "title": "🐉 Zocshawk"
+    },
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "🐉 Sauriens",
+      "isIndex": true
     }
   ],
   "GDD/05 - Implémentation Unreal/Personnages et Entités/Bestiary/Espèces/Reptiles/Serpentidés": [
@@ -2454,6 +2929,12 @@
       "name": "Vipère des marais d'Ilthara",
       "file": "Vipère des marais d'Ilthara.md",
       "title": "🐍 Vipère des marais d'Ilthara"
+    },
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "🐍 Serpentidés",
+      "isIndex": true
     }
   ],
   "GDD/05 - Implémentation Unreal/Personnages et Entités/Bestiary/Espèces/Reptiles/Tortues": [
@@ -2466,6 +2947,20 @@
       "name": "Zastalo",
       "file": "Zastalo.md",
       "title": "🐢 Zastalo"
+    },
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "🐢 Tortues",
+      "isIndex": true
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Personnages et Entités/Bestiary/Espèces/Sapients sauvages": [
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "👹 Sapients sauvages",
+      "isIndex": true
     }
   ],
   "GDD/05 - Implémentation Unreal/Personnages et Entités/Bestiary/Espèces/Sapients sauvages/Autres": [
@@ -2473,6 +2968,12 @@
       "name": "Vermifuge des sables",
       "file": "Vermifuge des sables.md",
       "title": "🪱 Vermifuge des sables"
+    },
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "🪱 Autres",
+      "isIndex": true
     }
   ],
   "GDD/05 - Implémentation Unreal/Personnages et Entités/Bestiary/Espèces/Sapients sauvages/Goblinoïdes": [
@@ -2495,6 +2996,12 @@
       "name": "Orc",
       "file": "Orc.md",
       "title": "👹 Orc"
+    },
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "👹 Goblinoïdes",
+      "isIndex": true
     }
   ],
   "GDD/05 - Implémentation Unreal/Personnages et Entités/Bestiary/_Templates": [
@@ -2634,6 +3141,12 @@
       "title": "🦍 Yéti — Archétype-référence"
     },
     {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "📦 Templates paramétriques — archive de référence",
+      "isIndex": true
+    },
+    {
       "name": "Élémentaire de feu",
       "file": "Élémentaire de feu.md",
       "title": "🔥 Élémentaire de feu — Archétype-référence"
@@ -2726,6 +3239,12 @@
       "name": "Concepts Fondamentaux IA PNJ",
       "file": "Concepts Fondamentaux IA PNJ.md",
       "title": "🧠 Concepts Fondamentaux — IA des PNJ"
+    },
+    {
+      "name": "Index",
+      "file": "Index.md",
+      "title": "🤖 Comportements PNJ — Index",
+      "isIndex": true
     },
     {
       "name": "Modes Sociaux",
@@ -3162,6 +3681,12 @@
       "title": "03 — Progression & Inventory"
     },
     {
+      "name": "Index",
+      "file": "Index.md",
+      "title": "Progression et Inventaire",
+      "isIndex": true
+    },
+    {
       "name": "Inventory Items",
       "file": "Inventory Items.md",
       "title": "InventoryItems"
@@ -3197,6 +3722,22 @@
       "title": "Quest System"
     }
   ],
+  "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog": [
+    {
+      "name": "_Index",
+      "file": "_Index.md",
+      "title": "Catalogue des Items — Index arborescent",
+      "isIndex": true
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Accessoires": [
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "Accessoires — Branche racine",
+      "isIndex": true
+    }
+  ],
   "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Accessoires/Amulettes": [
     {
       "name": "Disque d'effroi",
@@ -3229,6 +3770,12 @@
       "title": "Médaillon en argent"
     },
     {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "Amulettes — Description normative",
+      "isIndex": true
+    },
+    {
       "name": "Éclat prospère",
       "file": "Éclat prospère.md",
       "title": "Éclat prospère"
@@ -3259,6 +3806,12 @@
       "name": "Anneau sigillaire des Sentinelles",
       "file": "Anneau sigillaire des Sentinelles.md",
       "title": "Anneau sigillaire des Sentinelles"
+    },
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "Anneaux — Description normative",
+      "isIndex": true
     }
   ],
   "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Accessoires/Boucles d'oreille": [
@@ -3271,6 +3824,12 @@
       "name": "Boucles d'oreille à éclat de Voie",
       "file": "Boucles d'oreille à éclat de Voie.md",
       "title": "Boucles d'oreille à éclat de Voie"
+    },
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "Boucles d'oreille — Description normative",
+      "isIndex": true
     }
   ],
   "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Accessoires/Bracelets": [
@@ -3283,6 +3842,12 @@
       "name": "Bracelet de mithril",
       "file": "Bracelet de mithril.md",
       "title": "Bracelet de mithril"
+    },
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "Bracelets — Description normative",
+      "isIndex": true
     }
   ],
   "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Accessoires/Broches": [
@@ -3295,6 +3860,12 @@
       "name": "Fibule simple en bronze",
       "file": "Fibule simple en bronze.md",
       "title": "Fibule simple en bronze"
+    },
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "Broches — Description normative",
+      "isIndex": true
     }
   ],
   "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Accessoires/Ceintures-accessoire": [
@@ -3307,6 +3878,28 @@
       "name": "Ceinture à pochettes en cuir",
       "file": "Ceinture à pochettes en cuir.md",
       "title": "Ceinture à pochettes en cuir"
+    },
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "Ceintures-accessoire — Description normative",
+      "isIndex": true
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Armes": [
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "Armes — Branche racine",
+      "isIndex": true
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Armes/Distance": [
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "Distance — Sous-branche",
+      "isIndex": true
     }
   ],
   "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Armes/Distance/Arc": [
@@ -3324,6 +3917,12 @@
       "name": "Arc long en chêne magistral",
       "file": "Arc long en chêne magistral.md",
       "title": "Arc long en chêne magistral"
+    },
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "Arc — Description normative",
+      "isIndex": true
     }
   ],
   "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Armes/Distance/Flèche": [
@@ -3341,6 +3940,20 @@
       "name": "Flèche perforante en acier",
       "file": "Flèche perforante en acier.md",
       "title": "Flèche perforante en acier"
+    },
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "Flèche — Description normative",
+      "isIndex": true
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Armes/Défensif": [
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "Défensif — Sous-branche",
+      "isIndex": true
     }
   ],
   "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Armes/Défensif/Bouclier": [
@@ -3358,6 +3971,20 @@
       "name": "Targe de la Sentinelle",
       "file": "Targe de la Sentinelle.md",
       "title": "Targe de la Sentinelle"
+    },
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "Bouclier — Description normative",
+      "isIndex": true
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Armes/Mêlée 1H": [
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "Mêlée à une main — Sous-branche",
+      "isIndex": true
     }
   ],
   "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Armes/Mêlée 1H/Dague": [
@@ -3375,6 +4002,12 @@
       "name": "Stylet d'assassin en argent",
       "file": "Stylet d'assassin en argent.md",
       "title": "Stylet d'assassin en argent"
+    },
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "Dague — Description normative",
+      "isIndex": true
     }
   ],
   "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Armes/Mêlée 1H/Hache à une main": [
@@ -3392,6 +4025,12 @@
       "name": "Hache rituelle en Acier d'Ivar",
       "file": "Hache rituelle en Acier d'Ivar.md",
       "title": "Hache rituelle en Acier d'Ivar"
+    },
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "Hache à une main — Description normative",
+      "isIndex": true
     }
   ],
   "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Armes/Mêlée 1H/Lame": [
@@ -3409,6 +4048,12 @@
       "name": "Sabre œuvré du désert",
       "file": "Sabre œuvré du désert.md",
       "title": "Sabre œuvré du désert"
+    },
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "Lame — Description normative",
+      "isIndex": true
     }
   ],
   "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Armes/Mêlée 1H/Marteau à une main": [
@@ -3426,6 +4071,12 @@
       "name": "Marteau œuvré en acier inoxydable",
       "file": "Marteau œuvré en acier inoxydable.md",
       "title": "Marteau œuvré en acier inoxydable"
+    },
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "Marteau à une main — Description normative",
+      "isIndex": true
     }
   ],
   "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Armes/Mêlée 1H/Rapière": [
@@ -3438,6 +4089,12 @@
       "name": "Rapière de duel en acier",
       "file": "Rapière de duel en acier.md",
       "title": "Rapière de duel en acier"
+    },
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "Rapière — Description normative",
+      "isIndex": true
     }
   ],
   "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Armes/Mêlée 1H/Sceptre": [
@@ -3455,6 +4112,12 @@
       "name": "Sceptre œuvré d'Anterium",
       "file": "Sceptre œuvré d'Anterium.md",
       "title": "Sceptre œuvré d'Anterium"
+    },
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "Sceptre — Description normative",
+      "isIndex": true
     }
   ],
   "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Armes/Mêlée 1H/Épée à une main": [
@@ -3467,6 +4130,12 @@
       "name": "Ebony - défenseur des échos",
       "file": "Ebony - défenseur des échos.md",
       "title": "Ebony — défenseur des échos"
+    },
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "Épée à une main — Description normative",
+      "isIndex": true
     },
     {
       "name": "Épée commune en fer",
@@ -3487,6 +4156,14 @@
       "name": "Épée œuvrée en acier d'Ivar",
       "file": "Épée œuvrée en acier d'Ivar.md",
       "title": "Épée œuvrée en acier d'Ivar"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Armes/Mêlée 2H": [
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "Mêlée à deux mains — Sous-branche",
+      "isIndex": true
     }
   ],
   "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Armes/Mêlée 2H/Hache à deux mains": [
@@ -3524,6 +4201,12 @@
       "name": "Tourment - croisé du ciel",
       "file": "Tourment - croisé du ciel.md",
       "title": "Tourment — croisé du ciel"
+    },
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "Hache à deux mains — Description normative",
+      "isIndex": true
     }
   ],
   "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Armes/Mêlée 2H/Lance": [
@@ -3541,6 +4224,12 @@
       "name": "Pique de bataillon",
       "file": "Pique de bataillon.md",
       "title": "Pique de bataillon"
+    },
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "Lance — Description normative",
+      "isIndex": true
     }
   ],
   "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Armes/Mêlée 2H/Marteau à deux mains": [
@@ -3575,6 +4264,12 @@
       "title": "Terrefeu — terreur des rêves illuminés"
     },
     {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "Marteau à deux mains — Description normative",
+      "isIndex": true
+    },
+    {
       "name": "Épine",
       "file": "Épine.md",
       "title": "Épine"
@@ -3590,6 +4285,20 @@
       "name": "Espadon de soldat en acier",
       "file": "Espadon de soldat en acier.md",
       "title": "Espadon de soldat en acier"
+    },
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "Épée à deux mains — Description normative",
+      "isIndex": true
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Armures": [
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "Armures — Branche racine",
+      "isIndex": true
     }
   ],
   "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Armures/Bras/Brassards": [
@@ -3602,6 +4311,12 @@
       "name": "Brassards en plate",
       "file": "Brassards en plate.md",
       "title": "Brassards en plate"
+    },
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "Brassards — Description normative",
+      "isIndex": true
     }
   ],
   "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Armures/Jambes/Jambières": [
@@ -3619,6 +4334,12 @@
       "name": "Pantalon en cuir",
       "file": "Pantalon en cuir.md",
       "title": "Pantalon en cuir"
+    },
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "Jambières — Description normative",
+      "isIndex": true
     }
   ],
   "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Armures/Mains/Gantelets": [
@@ -3636,6 +4357,12 @@
       "name": "Mitaines en tissu",
       "file": "Mitaines en tissu.md",
       "title": "Mitaines en tissu"
+    },
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "Gantelets — Description normative",
+      "isIndex": true
     }
   ],
   "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Armures/Pieds/Bottes": [
@@ -3653,6 +4380,12 @@
       "name": "Sandales en tissu",
       "file": "Sandales en tissu.md",
       "title": "Sandales en tissu"
+    },
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "Bottes — Description normative",
+      "isIndex": true
     }
   ],
   "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Armures/Taille/Ceinture armure": [
@@ -3665,6 +4398,12 @@
       "name": "Ceinture en cuir d'éclaireur",
       "file": "Ceinture en cuir d'éclaireur.md",
       "title": "Ceinture en cuir d'éclaireur"
+    },
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "Ceinture (armure) — Description normative",
+      "isIndex": true
     }
   ],
   "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Armures/Torse/Cuirasse": [
@@ -3697,6 +4436,12 @@
       "name": "Tunique d'éclaireur en cuir",
       "file": "Tunique d'éclaireur en cuir.md",
       "title": "Tunique d'éclaireur en cuir"
+    },
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "Cuirasse — Description normative",
+      "isIndex": true
     }
   ],
   "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Armures/Torse/Robe magique": [
@@ -3709,6 +4454,12 @@
       "name": "Voile de la Veuve de Galenor",
       "file": "Voile de la Veuve de Galenor.md",
       "title": "Voile de la Veuve de Galenor"
+    },
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "Robe magique — Description normative",
+      "isIndex": true
     }
   ],
   "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Armures/Tête/Heaume": [
@@ -3731,6 +4482,12 @@
       "name": "Heaume de chevalier en plate",
       "file": "Heaume de chevalier en plate.md",
       "title": "Heaume de chevalier en plate"
+    },
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "Heaume — Description normative",
+      "isIndex": true
     }
   ],
   "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Armures/Épaules/Pauldrons": [
@@ -3745,9 +4502,23 @@
       "title": "Pauldrons en cuir"
     },
     {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "Pauldrons — Description normative",
+      "isIndex": true
+    },
+    {
       "name": "Épaulières de soldat en mailles",
       "file": "Épaulières de soldat en mailles.md",
       "title": "Épaulières de soldat en mailles"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Consommables": [
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "Consommables — Branche racine",
+      "isIndex": true
     }
   ],
   "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Consommables/Aliments bruts": [
@@ -3775,6 +4546,12 @@
       "name": "Truite fumée",
       "file": "Truite fumée.md",
       "title": "Truite fumée"
+    },
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "Aliments bruts — Description normative",
+      "isIndex": true
     }
   ],
   "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Consommables/Boissons": [
@@ -3809,6 +4586,12 @@
       "title": "Tempête démoniaque"
     },
     {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "Boissons — Description normative",
+      "isIndex": true
+    },
+    {
       "name": "Élingue banane",
       "file": "Élingue banane.md",
       "title": "Élingue banane"
@@ -3824,6 +4607,12 @@
       "name": "Champignon de Paris",
       "file": "Champignon de Paris.md",
       "title": "Champignon de Paris"
+    },
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "Champignons — Description normative",
+      "isIndex": true
     }
   ],
   "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Consommables/Cristaux usables": [
@@ -3841,6 +4630,12 @@
       "name": "Cristal de recharge majeur",
       "file": "Cristal de recharge majeur.md",
       "title": "Cristal de recharge majeur"
+    },
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "Cristaux usables — Description normative",
+      "isIndex": true
     }
   ],
   "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Consommables/Gâteaux": [
@@ -3853,6 +4648,12 @@
       "name": "Tarte aux pommes",
       "file": "Tarte aux pommes.md",
       "title": "Tarte aux pommes"
+    },
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "Gâteaux — Description normative",
+      "isIndex": true
     }
   ],
   "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Consommables/Livres-Récipient": [
@@ -3885,6 +4686,12 @@
       "name": "Vautours avec honneur",
       "file": "Vautours avec honneur.md",
       "title": "Vautours avec honneur"
+    },
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "Livres-Récipient — Description normative",
+      "isIndex": true
     }
   ],
   "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Consommables/Modificateurs": [
@@ -3907,6 +4714,12 @@
       "name": "Sel de mer",
       "file": "Sel de mer.md",
       "title": "Sel de mer"
+    },
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "Modificateurs (Épices / Herbes) — Description normative",
+      "isIndex": true
     }
   ],
   "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Consommables/Pains": [
@@ -3934,6 +4747,12 @@
       "name": "Pain rituel d'Aetheron",
       "file": "Pain rituel d'Aetheron.md",
       "title": "Pain rituel d'Aetheron"
+    },
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "Pains — Description normative",
+      "isIndex": true
     }
   ],
   "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Consommables/Parchemins": [
@@ -3951,6 +4770,12 @@
       "name": "Parchemin de Soin de masse",
       "file": "Parchemin de Soin de masse.md",
       "title": "Parchemin de Soin de masse"
+    },
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "Parchemins — Description normative",
+      "isIndex": true
     }
   ],
   "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Consommables/Potions": [
@@ -3975,6 +4800,12 @@
       "title": "Potion de soin mineure"
     },
     {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "Potions — Description normative",
+      "isIndex": true
+    },
+    {
       "name": "Élixir cosmique d'Aetheron",
       "file": "Élixir cosmique d'Aetheron.md",
       "title": "Élixir cosmique d'Aetheron"
@@ -3995,6 +4826,20 @@
       "name": "Gourde en cuir",
       "file": "Gourde en cuir.md",
       "title": "Gourde en cuir"
+    },
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "Récipients — Description normative",
+      "isIndex": true
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Focus magiques": [
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "Focus magiques — Branche racine",
+      "isIndex": true
     }
   ],
   "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Focus magiques/Bandeaux frontaux": [
@@ -4007,6 +4852,12 @@
       "name": "Bandeau de scribe en lin",
       "file": "Bandeau de scribe en lin.md",
       "title": "Bandeau de scribe en lin"
+    },
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "Bandeaux frontaux — Description normative",
+      "isIndex": true
     }
   ],
   "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Focus magiques/Cristaux de Voie": [
@@ -4034,6 +4885,12 @@
       "name": "Cristal de Voie de Tempora",
       "file": "Cristal de Voie de Tempora.md",
       "title": "Cristal de Voie de Tempora"
+    },
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "Cristaux de Voie — Description normative",
+      "isIndex": true
     }
   ],
   "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Focus magiques/Orbes": [
@@ -4046,6 +4903,12 @@
       "name": "Orbe de cristal commun",
       "file": "Orbe de cristal commun.md",
       "title": "Orbe de cristal commun"
+    },
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "Orbes — Description normative",
+      "isIndex": true
     }
   ],
   "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Focus magiques/Talismans": [
@@ -4058,6 +4921,12 @@
       "name": "Talisman des Augures",
       "file": "Talisman des Augures.md",
       "title": "Talisman des Augures"
+    },
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "Talismans — Description normative",
+      "isIndex": true
     }
   ],
   "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Focus magiques/Tomes": [
@@ -4085,6 +4954,20 @@
       "name": "Tome de Tempora",
       "file": "Tome de Tempora.md",
       "title": "Tome de Tempora"
+    },
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "Tomes — Description normative",
+      "isIndex": true
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Outils": [
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "Outils — Branche racine",
+      "isIndex": true
     }
   ],
   "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Outils/Atelier": [
@@ -4107,6 +4990,12 @@
       "name": "Plume et stylet",
       "file": "Plume et stylet.md",
       "title": "Plume et stylet"
+    },
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "Outils d'Atelier — Description normative",
+      "isIndex": true
     }
   ],
   "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Outils/Forge": [
@@ -4119,6 +5008,12 @@
       "name": "Soufflet en cuir",
       "file": "Soufflet en cuir.md",
       "title": "Soufflet en cuir"
+    },
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "Outils de Forge — Description normative",
+      "isIndex": true
     }
   ],
   "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Outils/Récolte": [
@@ -4146,6 +5041,28 @@
       "name": "Pioche de mineur",
       "file": "Pioche de mineur.md",
       "title": "Pioche de mineur"
+    },
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "Outils de Récolte — Description normative",
+      "isIndex": true
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Ressources": [
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "Ressources — Branche racine",
+      "isIndex": true
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Ressources/Fabriqué": [
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "Fabriqué — Sous-branche",
+      "isIndex": true
     }
   ],
   "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Ressources/Fabriqué/Alliages": [
@@ -4193,6 +5110,12 @@
       "name": "Spuelium",
       "file": "Spuelium.md",
       "title": "Spuelium"
+    },
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "Alliages — Description normative",
+      "isIndex": true
     }
   ],
   "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Ressources/Fabriqué/Gemmes taillées": [
@@ -4205,6 +5128,12 @@
       "name": "Saphir taillé",
       "file": "Saphir taillé.md",
       "title": "Saphir taillé"
+    },
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "Gemmes taillées — Description normative",
+      "isIndex": true
     },
     {
       "name": "Émeraude taillée",
@@ -4242,6 +5171,12 @@
       "name": "Lingot de mithril",
       "file": "Lingot de mithril.md",
       "title": "Lingot de mithril"
+    },
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "Lingots — Description normative",
+      "isIndex": true
     }
   ],
   "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Ressources/Fabriqué/Planches": [
@@ -4254,6 +5189,12 @@
       "name": "Planche en frêne",
       "file": "Planche en frêne.md",
       "title": "Planche en frêne"
+    },
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "Planches — Description normative",
+      "isIndex": true
     }
   ],
   "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Ressources/Fabriqué/Tissus": [
@@ -4271,6 +5212,20 @@
       "name": "Soie",
       "file": "Soie.md",
       "title": "Soie"
+    },
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "Tissus — Description normative",
+      "isIndex": true
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Ressources/Récolte Créature": [
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "Récolte Créature — Sous-branche",
+      "isIndex": true
     }
   ],
   "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Ressources/Récolte Créature/Cuir": [
@@ -4298,6 +5253,12 @@
       "name": "Cuir de requin abyssal",
       "file": "Cuir de requin abyssal.md",
       "title": "Cuir de requin abyssal"
+    },
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "Cuir — Description normative",
+      "isIndex": true
     }
   ],
   "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Ressources/Récolte Créature/Os": [
@@ -4350,6 +5311,12 @@
       "name": "Os de loup",
       "file": "Os de loup.md",
       "title": "Os de loup"
+    },
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "Os — Description normative",
+      "isIndex": true
     }
   ],
   "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Ressources/Récolte Créature/Plumes": [
@@ -4367,9 +5334,21 @@
       "name": "Plume de canard",
       "file": "Plume de canard.md",
       "title": "Plume de canard"
+    },
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "Plumes — Description normative",
+      "isIndex": true
     }
   ],
   "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Ressources/Récolte Créature/Écailles": [
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "Écailles — Description normative",
+      "isIndex": true
+    },
     {
       "name": "Écaille de dragon nain",
       "file": "Écaille de dragon nain.md",
@@ -4379,6 +5358,14 @@
       "name": "Écaille de poisson abyssal",
       "file": "Écaille de poisson abyssal.md",
       "title": "Écaille de poisson abyssal"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Ressources/Récolte Nature": [
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "Récolte Nature — Sous-branche",
+      "isIndex": true
     }
   ],
   "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Ressources/Récolte Nature/Bois": [
@@ -4406,6 +5393,12 @@
       "name": "Bois de pin",
       "file": "Bois de pin.md",
       "title": "Bois de pin"
+    },
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "Bois — Description normative",
+      "isIndex": true
     }
   ],
   "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Ressources/Récolte Nature/Fleurs": [
@@ -4413,6 +5406,12 @@
       "name": "Rose des montagnes",
       "file": "Rose des montagnes.md",
       "title": "Rose des montagnes"
+    },
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "Fleurs — Description normative",
+      "isIndex": true
     }
   ],
   "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Ressources/Récolte Nature/Gemmes brutes": [
@@ -4425,6 +5424,12 @@
       "name": "Saphir brut",
       "file": "Saphir brut.md",
       "title": "Saphir brut"
+    },
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "Gemmes brutes — Description normative",
+      "isIndex": true
     },
     {
       "name": "Émeraude brute",
@@ -4457,6 +5462,12 @@
       "name": "Minerai de mithril",
       "file": "Minerai de mithril.md",
       "title": "Minerai de mithril"
+    },
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "Minerai — Description normative",
+      "isIndex": true
     }
   ],
   "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Ressources/Récolte Nature/Plantes": [
@@ -4469,9 +5480,21 @@
       "name": "Sanguinaire",
       "file": "Sanguinaire.md",
       "title": "Sanguinaire"
+    },
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "Plantes — Description normative",
+      "isIndex": true
     }
   ],
   "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Ressources/Récolte Nature/Écorce": [
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "Écorce — Description normative",
+      "isIndex": true
+    },
     {
       "name": "Écorce d'Épicéa",
       "file": "Écorce d'Épicéa.md",
@@ -4503,6 +5526,14 @@
       "title": "Écorce de cèdre rouge"
     }
   ],
+  "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Vêtements": [
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "Vêtements — Branche racine",
+      "isIndex": true
+    }
+  ],
   "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Vêtements/Capes": [
     {
       "name": "Cape de pluie cirée",
@@ -4518,6 +5549,12 @@
       "name": "Cape royale brodée",
       "file": "Cape royale brodée.md",
       "title": "Cape royale brodée"
+    },
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "Capes — Description normative",
+      "isIndex": true
     }
   ],
   "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Vêtements/Capuches civiles": [
@@ -4530,6 +5567,12 @@
       "name": "Capuche en lin gris",
       "file": "Capuche en lin gris.md",
       "title": "Capuche en lin gris"
+    },
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "Capuches civiles — Description normative",
+      "isIndex": true
     }
   ],
   "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Vêtements/Robes civiles": [
@@ -4542,6 +5585,12 @@
       "name": "Robe simple de marchand",
       "file": "Robe simple de marchand.md",
       "title": "Robe simple de marchand"
+    },
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "Robes civiles — Description normative",
+      "isIndex": true
     }
   ],
   "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Vêtements/Sacs à dos": [
@@ -4576,6 +5625,12 @@
       "title": "Sylveflot"
     },
     {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "Sacs à dos — Description normative",
+      "isIndex": true
+    },
+    {
       "name": "Écumevol",
       "file": "Écumevol.md",
       "title": "Écumevol"
@@ -4591,6 +5646,12 @@
       "name": "Tabard de la guilde des marchands",
       "file": "Tabard de la guilde des marchands.md",
       "title": "Tabard de la guilde des marchands"
+    },
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "Tabards — Description normative",
+      "isIndex": true
     }
   ],
   "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/Vêtements/Tuniques civiles": [
@@ -4603,6 +5664,12 @@
       "name": "Tunique paysanne",
       "file": "Tunique paysanne.md",
       "title": "Tunique paysanne"
+    },
+    {
+      "name": "_Description",
+      "file": "_Description.md",
+      "title": "Tuniques civiles — Description normative",
+      "isIndex": true
     }
   ],
   "GDD/05 - Implémentation Unreal/VFX Audio Rendu": [
@@ -4625,6 +5692,12 @@
       "name": "Index VFX Audio",
       "file": "Index VFX Audio.md",
       "title": "06 — VFX, Audio & Rendering"
+    },
+    {
+      "name": "Index",
+      "file": "Index.md",
+      "title": "VFX Audio Rendu",
+      "isIndex": true
     },
     {
       "name": "Master Materials",
@@ -4672,6 +5745,12 @@
       "name": "Index Implémentation",
       "file": "Index Implémentation.md",
       "title": "Index Implémentation Unreal"
+    },
+    {
+      "name": "Index",
+      "file": "Index.md",
+      "title": "Vue d'Ensemble",
+      "isIndex": true
     },
     {
       "name": "Player Sessions Spec",
@@ -4899,6 +5978,12 @@
       "name": "Chapitre 40 - Les Murs Tombent",
       "file": "Chapitre 40 - Les Murs Tombent.md",
       "title": "Chapitre 40 — Les Murs Tombent"
+    },
+    {
+      "name": "_arc-sorin",
+      "file": "_arc-sorin.md",
+      "title": "Arc narratif de Sorin Valthen — référence pour A.4",
+      "isIndex": true
     }
   ],
   "Lore/Chronologie": [
@@ -5630,6 +6715,12 @@
       "name": "Via Ventus",
       "file": "Via Ventus.md",
       "title": "💨 Via Ventus — La Voie du Souffle"
+    },
+    {
+      "name": "_Histoire des Religions",
+      "file": "_Histoire des Religions.md",
+      "title": "🌳 Histoire et Généalogie des Religions d'Hybelior",
+      "isIndex": true
     }
   ],
   "Lore/Religions/_Mineures": [

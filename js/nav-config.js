@@ -77,6 +77,7 @@ const NavConfig = {
                 { key: 'lien',         label: 'Le Lien (magie)', src: 'GDD/03 - Mécaniques/Le Lien.md' },
                 { key: 'mort',         label: 'Mort',            src: 'GDD/03 - Mécaniques/Mort.md' },
                 { key: 'metiers',      label: 'Métiers',         src: 'GDD/03 - Mécaniques/Métiers.md' },
+                { key: 'metiers-cat',  label: 'Métiers — catalogue', src: 'GDD/03 - Mécaniques/Métiers/Index.md' },
                 { key: 'economie',     label: 'Économie',        src: 'GDD/03 - Mécaniques/Économie.md' },
                 { key: 'exploration',  label: 'Exploration',     src: 'GDD/03 - Mécaniques/Exploration.md' },
                 { key: 'items',        label: 'Items',           src: 'GDD/03 - Mécaniques/Items/Index.md' },
