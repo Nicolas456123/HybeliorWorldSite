@@ -222,6 +222,10 @@
     color: var(--text);
     line-height: 1.8;
     font-size: .97rem;
+    text-align: justify;
+    hyphens: auto;
+    -webkit-hyphens: auto;
+    -ms-hyphens: auto;
 }
 .chron-md-content h1, .chron-md-content h2, .chron-md-content h3 {
     font-family: 'Cinzel', serif;
@@ -731,6 +735,21 @@
     border-bottom: 2px solid transparent;
 }
 .chron-highlights-tab.active { color: var(--gold); border-bottom-color: var(--gold); }
+.chron-highlights-syncinfo {
+    padding: 6px 1rem;
+    font-size: 0.74rem;
+    color: var(--text-muted);
+    background: rgba(0, 0, 0, 0.18);
+    border-bottom: 1px solid var(--panel-border);
+    flex-shrink: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 8px;
+}
+.chron-highlights-syncinfo[hidden] { display: none; }
+.chron-highlights-syncinfo.error { color: #d97373; }
+.chron-highlights-syncinfo.success { color: #88c882; }
 .chron-highlights-list {
     flex: 1;
     overflow-y: auto;
@@ -962,6 +981,7 @@
             <div class="chron-highlights-header">
                 <div class="chron-highlights-title">Surlignages</div>
                 <div class="chron-highlights-actions">
+                    <button id="chron-highlights-sync" title="Synchroniser avec le serveur">Sync</button>
                     <button id="chron-highlights-export" title="Exporter en JSON">Export</button>
                     <button id="chron-highlights-close" title="Fermer">×</button>
                 </div>
@@ -970,6 +990,7 @@
                 <button class="chron-highlights-tab active" data-tab="chapter">Ce chapitre</button>
                 <button class="chron-highlights-tab" data-tab="all">Tous</button>
             </div>
+            <div class="chron-highlights-syncinfo" id="chron-highlights-syncinfo" hidden></div>
             <div class="chron-highlights-list" id="chron-highlights-list"></div>
         </aside>
     </div>
@@ -1643,6 +1664,8 @@
 
     // ── Highlights system ────────────────────────────────────
     var STORAGE_KEY_HL = 'hybelior_chroniques_highlights';
+    var STORAGE_KEY_HL_LAST_SYNC = 'hybelior_chroniques_lastsync';
+    var SESSION_KEY_PASSWORD = 'hybelior_editor_password';
     var HL_COLORS = ['yellow', 'red', 'green', 'blue'];
     var DEFAULT_HL_COLOR = 'yellow';
 
@@ -1657,6 +1680,8 @@
     var hlToggleBtn     = document.getElementById('chron-highlights-toggle');
     var hlCloseBtn      = document.getElementById('chron-highlights-close');
     var hlExportBtn     = document.getElementById('chron-highlights-export');
+    var hlSyncBtn       = document.getElementById('chron-highlights-sync');
+    var hlSyncInfo      = document.getElementById('chron-highlights-syncinfo');
     var hlCountSpan     = document.getElementById('chron-highlights-count');
     var hlTabs          = hlPanel ? hlPanel.querySelectorAll('.chron-highlights-tab') : [];
     var noteDialog      = document.getElementById('chron-note-dialog');
@@ -1671,11 +1696,16 @@
     var noteDialogPending = null;      // { start, end, text } | highlightObj
     var hlPanelTab = 'chapter';        // 'chapter' | 'all'
 
+    // loadHighlights renvoie toutes les entrées, y compris tombstones (deleted=true)
     function loadHighlights() {
         try {
             var raw = localStorage.getItem(STORAGE_KEY_HL);
             return raw ? JSON.parse(raw) : [];
         } catch(e) { return []; }
+    }
+    // Vue "active" : exclut les tombstones
+    function loadActiveHighlights() {
+        return loadHighlights().filter(function(h) { return h && !h.deleted; });
     }
     function saveHighlights(arr) {
         try { localStorage.setItem(STORAGE_KEY_HL, JSON.stringify(arr)); } catch(e) {}
@@ -1684,7 +1714,7 @@
         if (currentChapterIdx < 0) return [];
         var ch = allChapters[currentChapterIdx];
         if (!ch) return [];
-        return loadHighlights().filter(function(h) { return h.chapterNum === ch.num; });
+        return loadActiveHighlights().filter(function(h) { return h.chapterNum === ch.num; });
     }
     function getContentEl() {
         return pagesWrapper ? pagesWrapper.querySelector('.chron-md-content') : null;
@@ -1795,6 +1825,7 @@
         if (currentChapterIdx < 0) return null;
         var ch = allChapters[currentChapterIdx];
         if (!ch) return null;
+        var now = Date.now();
         var hl = {
             id: genHlId(),
             chapterNum: ch.num,
@@ -1804,7 +1835,8 @@
             text: text,
             color: color || DEFAULT_HL_COLOR,
             note: note || '',
-            timestamp: Date.now()
+            timestamp: now,
+            updatedAt: now
         };
         var arr = loadHighlights();
         arr.push(hl);
@@ -1818,6 +1850,7 @@
         for (var i = 0; i < arr.length; i++) { if (arr[i].id === id) { idx = i; break; } }
         if (idx === -1) return null;
         for (var k in patch) { if (Object.prototype.hasOwnProperty.call(patch, k)) arr[idx][k] = patch[k]; }
+        arr[idx].updatedAt = Date.now();
         saveHighlights(arr);
         var marks = document.querySelectorAll('mark[data-highlight-id="' + id + '"]');
         marks.forEach(function(m) {
@@ -1831,7 +1864,18 @@
     }
 
     function deleteHighlight(id) {
-        var arr = loadHighlights().filter(function(h) { return h.id !== id; });
+        var arr = loadHighlights();
+        var now = Date.now();
+        var found = false;
+        for (var i = 0; i < arr.length; i++) {
+            if (arr[i].id === id) {
+                // Tombstone : on garde l'id et updatedAt pour la sync, on retire le reste
+                arr[i] = { id: id, deleted: true, updatedAt: now };
+                found = true;
+                break;
+            }
+        }
+        if (!found) arr.push({ id: id, deleted: true, updatedAt: now });
         saveHighlights(arr);
         var marks = document.querySelectorAll('mark[data-highlight-id="' + id + '"]');
         marks.forEach(function(m) {
@@ -2037,6 +2081,7 @@
         if (!hlPanel) return;
         hlPanel.classList.add('open');
         renderHighlightsList();
+        refreshSyncInfo();
     }
     function closeHlPanel() {
         if (hlPanel) hlPanel.classList.remove('open');
@@ -2072,7 +2117,7 @@
 
     function renderHighlightsList() {
         if (!hlList) return;
-        var all = loadHighlights();
+        var all = loadActiveHighlights();
         var items;
         if (hlPanelTab === 'chapter') {
             var ch = allChapters[currentChapterIdx];
@@ -2163,6 +2208,118 @@
             setTimeout(doScroll, 250);
         }
     }
+
+    // ── Sync (Turso backend, password-gated) ──────────────
+    function getStoredPassword() {
+        try { return sessionStorage.getItem(SESSION_KEY_PASSWORD) || ''; } catch(e) { return ''; }
+    }
+    function setStoredPassword(pwd) {
+        try { sessionStorage.setItem(SESSION_KEY_PASSWORD, pwd); } catch(e) {}
+    }
+    function clearStoredPassword() {
+        try { sessionStorage.removeItem(SESSION_KEY_PASSWORD); } catch(e) {}
+    }
+    function showSyncInfo(msg, kind) {
+        if (!hlSyncInfo) return;
+        hlSyncInfo.textContent = msg;
+        hlSyncInfo.classList.remove('error', 'success');
+        if (kind) hlSyncInfo.classList.add(kind);
+        hlSyncInfo.removeAttribute('hidden');
+    }
+    function setLastSync(ts) {
+        try { localStorage.setItem(STORAGE_KEY_HL_LAST_SYNC, String(ts)); } catch(e) {}
+    }
+    function getLastSync() {
+        try {
+            var v = localStorage.getItem(STORAGE_KEY_HL_LAST_SYNC);
+            return v ? parseInt(v, 10) : 0;
+        } catch(e) { return 0; }
+    }
+    function formatRelativeTime(ts) {
+        if (!ts) return 'jamais';
+        var d = Date.now() - ts;
+        if (d < 60000) return 'à l’instant';
+        if (d < 3600000) return Math.floor(d / 60000) + ' min';
+        if (d < 86400000) return Math.floor(d / 3600000) + ' h';
+        return Math.floor(d / 86400000) + ' j';
+    }
+    function refreshSyncInfo() {
+        if (!hlSyncInfo) return;
+        var ts = getLastSync();
+        if (ts) showSyncInfo('Dernière sync : ' + formatRelativeTime(ts), null);
+        else hlSyncInfo.setAttribute('hidden', '');
+    }
+
+    function ensurePassword() {
+        var pwd = getStoredPassword();
+        if (pwd) return Promise.resolve(pwd);
+        var entered = prompt('Mot de passe éditeur :');
+        if (!entered) return Promise.reject(new Error('annulé'));
+        return fetch('/api/auth', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ password: entered })
+        }).then(function(r) {
+            if (!r.ok) throw new Error('Mot de passe incorrect');
+            setStoredPassword(entered);
+            return entered;
+        });
+    }
+
+    function syncHighlights() {
+        if (!hlSyncBtn) return;
+        hlSyncBtn.disabled = true;
+        showSyncInfo('Synchronisation en cours…', null);
+        ensurePassword().then(function(pwd) {
+            var localAll = loadHighlights(); // inclut les tombstones
+            return fetch('/api/highlights', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ password: pwd, entries: localAll })
+            }).then(function(r) {
+                if (r.status === 403) {
+                    clearStoredPassword();
+                    throw new Error('Mot de passe rejeté');
+                }
+                if (!r.ok) throw new Error('HTTP ' + r.status);
+                return r.json();
+            });
+        }).then(function(data) {
+            // Server response = état fusionné non-supprimé
+            var serverList = (data && data.highlights) || [];
+            saveHighlights(serverList);
+            setLastSync(Date.now());
+            // Re-render highlights dans le chapitre courant
+            if (currentChapterIdx >= 0) {
+                var content = getContentEl();
+                if (content) {
+                    // Retire les marks existants (sera réappliqué)
+                    content.querySelectorAll('mark.chron-highlight').forEach(function(m) {
+                        var p = m.parentNode;
+                        while (m.firstChild) p.insertBefore(m.firstChild, m);
+                        p.removeChild(m);
+                        p.normalize();
+                    });
+                    applyAllHighlightsForCurrentChapter();
+                    if (readMode === 'page') rePaginate();
+                }
+            }
+            renderHighlightsList();
+            updateHighlightsCount();
+            showSyncInfo('Synchronisé · ' + serverList.length + ' surlignages', 'success');
+            setTimeout(refreshSyncInfo, 3000);
+        }).catch(function(err) {
+            if (err && err.message === 'annulé') {
+                refreshSyncInfo();
+            } else {
+                showSyncInfo('Erreur : ' + (err && err.message || 'inconnue'), 'error');
+            }
+        }).finally(function() {
+            hlSyncBtn.disabled = false;
+        });
+    }
+
+    if (hlSyncBtn) hlSyncBtn.addEventListener('click', syncHighlights);
 
     if (hlExportBtn) {
         hlExportBtn.addEventListener('click', function() {

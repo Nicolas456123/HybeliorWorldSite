@@ -192,6 +192,56 @@ const server = http.createServer(async (req, res) => {
         }
     }
 
+    // ── API: GET /api/highlights ──────────────────────────────
+    if (pathname === '/api/highlights' && req.method === 'GET') {
+        const url = new URL(req.url, 'http://localhost');
+        const password = url.searchParams.get('password') || req.headers['x-editor-password'];
+        if (password !== EDITOR_PASSWORD) {
+            res.writeHead(403, { 'Content-Type': 'application/json' });
+            return res.end(JSON.stringify({ error: 'Mot de passe requis' }));
+        }
+        const HL_FILE = path.join(__dirname, 'local-highlights.json');
+        let store = {};
+        try { store = JSON.parse(fs.readFileSync(HL_FILE, 'utf8')); } catch {}
+        const highlights = Object.values(store).filter(h => h && !h.deleted);
+        res.writeHead(200, { 'Content-Type': 'application/json' });
+        return res.end(JSON.stringify({ highlights }));
+    }
+
+    // ── API: POST /api/highlights ─────────────────────────────
+    if (pathname === '/api/highlights' && req.method === 'POST') {
+        try {
+            const HL_FILE = path.join(__dirname, 'local-highlights.json');
+            const { password, entries } = await parseBody(req);
+            if (password !== EDITOR_PASSWORD) {
+                res.writeHead(403, { 'Content-Type': 'application/json' });
+                return res.end(JSON.stringify({ error: 'Mot de passe incorrect' }));
+            }
+            if (!Array.isArray(entries)) {
+                res.writeHead(400, { 'Content-Type': 'application/json' });
+                return res.end(JSON.stringify({ error: 'entries (array) attendu' }));
+            }
+            let store = {};
+            try { store = JSON.parse(fs.readFileSync(HL_FILE, 'utf8')); } catch {}
+            const now = Date.now();
+            for (const h of entries) {
+                if (!h || !h.id) continue;
+                const updatedAt = Number(h.updatedAt) || now;
+                const existing = store[h.id];
+                if (!existing || (existing.updatedAt || 0) <= updatedAt) {
+                    store[h.id] = Object.assign({}, h, { updatedAt: updatedAt, deleted: !!h.deleted });
+                }
+            }
+            fs.writeFileSync(HL_FILE, JSON.stringify(store, null, 2));
+            const merged = Object.values(store).filter(h => h && !h.deleted);
+            res.writeHead(200, { 'Content-Type': 'application/json' });
+            return res.end(JSON.stringify({ ok: true, highlights: merged }));
+        } catch (err) {
+            res.writeHead(400, { 'Content-Type': 'application/json' });
+            return res.end(JSON.stringify({ error: err.message }));
+        }
+    }
+
     // ── Static files ──────────────────────────────────────────
     let filePath = path.join(__dirname, pathname === '/' ? 'index.html' : pathname);
     try {

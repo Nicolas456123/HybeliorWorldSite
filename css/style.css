@@ -1643,11 +1643,58 @@ p {
 
 /* ===== Responsive ===== */
 
+/* Sécurité globale : aucun élément ne doit forcer un scroll horizontal de la page */
+html, body { overflow-x: hidden; }
+body { max-width: 100vw; }
+
 @media (max-width: 768px) {
-    .site-nav { padding: 0 18px; }
-    .site-logo { font-size: 13px; margin-right: 24px; letter-spacing: 3px; }
-    .nav-links a { padding: 8px 12px; font-size: 11px; letter-spacing: 1.5px; }
+    /* Empêche tous les enfants de .md-content de dépasser la largeur disponible */
+    .md-content { max-width: 100%; padding: 16px 4px 60px; }
+    .md-content > *,
+    .md-content pre,
+    .md-content blockquote,
+    .md-content .md-callout { max-width: 100%; }
+    /* Tableaux : scroll horizontal autonome avec indicateur subtil à droite */
+    .md-content table {
+        font-size: 13px;
+        display: block;
+        width: 100%;
+        max-width: 100%;
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+        background:
+            linear-gradient(to right, rgba(0,0,0,0) calc(100% - 14px), rgba(0,0,0,0.18) 100%) right center / 14px 100% no-repeat;
+    }
+    .md-content table th,
+    .md-content table td { padding: 6px 8px; font-size: 12.5px; }
+    /* Texte justifié + césure pour éviter les "rivières" sur narrow screens */
+    .md-content p, .md-content li { hyphens: auto; -webkit-hyphens: auto; }
+    /* Page-content : padding horizontal réduit pour gagner de la place */
+    .page-content { padding-left: 14px; padding-right: 14px; }
+    /* Stat strips : wrap proprement */
+    .stat-strip { flex-direction: column; }
+    .stat-item { border-right: none; border-bottom: 1px solid var(--panel-border); }
+    .stat-item:last-child { border-bottom: none; }
+}
+
+@media (max-width: 768px) {
+    .site-nav { padding: 0 14px; gap: 0; }
+    .site-logo { font-size: 13px; margin-right: 14px; letter-spacing: 3px; }
+    .nav-links {
+        flex-wrap: nowrap;
+        overflow-x: auto;
+        scrollbar-width: none;            /* Firefox */
+        -ms-overflow-style: none;          /* IE / old Edge */
+        gap: 0;
+        flex: 1;
+        min-width: 0;
+    }
+    .nav-links::-webkit-scrollbar { display: none; }
+    .nav-links li { flex-shrink: 0; }
+    .nav-links a { padding: 8px 9px; font-size: 11px; letter-spacing: 1.5px; }
     .nav-links a span { display: none; }
+    .nav-links li.has-dropdown > a { padding-right: 9px; }
+    .nav-caret { display: none; }          /* gain de place — dropdown reste accessible au tap */
     .page-content { padding: 36px 18px 60px; }
     h1 { font-size: 24px; letter-spacing: 2px; }
     .md-content { font-size: 15px; padding: 8px 0 40px; }
@@ -3133,6 +3180,13 @@ body.ios-fullscreen .ios-fullscreen-btn { top: env(safe-area-inset-top, 10px); }
     margin: 24px 0 10px;
 }
 .md-content h4 { color: var(--gold); font-size: 16px; margin: 18px 0 6px; }
+.md-content p,
+.md-content li {
+    text-align: justify;
+    hyphens: auto;
+    -webkit-hyphens: auto;
+    -ms-hyphens: auto;
+}
 .md-content p { margin: 0 0 14px; }
 .md-content blockquote {
     border-left: 3px solid var(--gold);

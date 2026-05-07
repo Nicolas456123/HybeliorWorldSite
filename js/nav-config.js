@@ -60,9 +60,9 @@ const NavConfig = {
 
         mecaniques: {
             engine: 'md',
-            defaultKey: 'identite',
+            defaultKey: 'souffle',
             tabs: [
-                { key: 'identite',     label: 'Identité 2026',   src: 'GDD/03 - Mécaniques/Le Souffle.md' },
+                { key: 'souffle',      label: 'Le Souffle',      src: 'GDD/03 - Mécaniques/Le Souffle.md' },
                 { key: 'accord',       label: "L'Accord",        src: "GDD/03 - Mécaniques/L'Accord.md" },
                 { key: 'eres',         label: 'Les Ères',        src: 'GDD/03 - Mécaniques/Les Ères.md' },
                 { key: 'personnage',   label: 'Personnage',      src: 'GDD/03 - Mécaniques/Personnage.md' },
@@ -75,7 +75,7 @@ const NavConfig = {
                 { key: 'metiers',      label: 'Métiers',         src: 'GDD/03 - Mécaniques/Métiers.md' },
                 { key: 'economie',     label: 'Économie',        src: 'GDD/03 - Mécaniques/Économie.md' },
                 { key: 'exploration',  label: 'Exploration',     src: 'GDD/03 - Mécaniques/Exploration.md' },
-                { key: 'items',        label: 'Items',           src: 'GDD/03 - Mécaniques/Items/Catalogue/_Index.md' },
+                { key: 'items',        label: 'Items',           src: 'GDD/03 - Mécaniques/Items/Index.md' },
                 { key: 'architecture', label: 'Architecture',    src: 'GDD/03 - Mécaniques/Architecture/Index.md' },
                 { key: 'guildes',      label: 'Guildes',         src: 'GDD/03 - Mécaniques/Guildes.md' },
                 { key: 'factions',     label: 'Factions',        src: 'GDD/03 - Mécaniques/Factions.md' },
@@ -87,7 +87,7 @@ const NavConfig = {
 
         systemes: {
             engine: 'md',
-            defaultKey: 'data',
+            defaultKey: 'pnj',
             tabs: [
                 { key: 'data',          label: 'Architecture Data', src: 'GDD/04 - Systèmes/Architecture Data-Driven.md' },
                 { key: 'pnj',           label: 'PNJ',               src: 'GDD/04 - Systèmes/PNJ.md' },
