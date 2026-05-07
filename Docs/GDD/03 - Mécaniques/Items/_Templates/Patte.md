@@ -133,4 +133,4 @@ Trois usages canoniques :
 
 ---
 
-*Liens : [[Sources de Ressources]] · [[Crafts]] · [[Cuir]] · [[Os]] · [[Griffe]] · [[Loup forestier]] · [[Ours brun]] · [[Aigle royal]] · [[Bestiaire - Index]]*
+*Liens : [[Sources de Ressources]] · [[Crafts]] · [[Cuir]] · [[Os]] · [[Griffe]] · [[Loup forestier]] · [[Ours brun]] · [[Aigle royal]] · [[Bestiary/Index]]*

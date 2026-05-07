@@ -93,7 +93,7 @@ Le **Berger** est le **gardien mobile** des troupeaux : moutons, chèvres, parfo
 | **Novice** | Conduite de troupeau ≤ 20 · Tonte commune · Traite manuelle · Camp d'1 nuit |
 | **Initié** | Dressage chien de berger · Tonte saisonnière · Préparation peau de mouton · Onguent répulsif basique |
 | **Adepte** | Transhumance courte (1 vallée) · Pâte aux herbes (calmant bêtes) · Sifflement codé (multi-chiens) · Laine teintée nature |
-| **Expert** | Garde de créature rare ([[Bestiaire - Index|cervidé d'ère]]) · Transhumance multi-frontières · Laine variant post-Souffle · Repérage source d'eau cachée |
+| **Expert** | Garde de créature rare ([[Bestiary/Index|cervidé d'ère]]) · Transhumance multi-frontières · Laine variant post-Souffle · Repérage source d'eau cachée |
 | **Maître** | Compagnonnage créature sauvage · Chemin de [[L'Accord|Héritage]] · Laine de Concordant · Pacte avec créatures cosmiques *(Foedus Animae)* |
 
 ---

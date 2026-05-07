@@ -158,4 +158,4 @@ sortie: Pigment Bleu de Voie × 1 pot (T4) — résonance Voie préservée pour 
 
 ---
 
-*Liens : [[Items - Index|← Index Items]] · [[Sources de Ressources]] · [[Crafts]] · [[Métiers]] · [[Tissu]] · [[Parchemin]] · [[Brique]] · [[Plaque de verre]] · [[Poudre fabriqué]]*
+*Liens : [[Items/Index|← Index Items]] · [[Sources de Ressources]] · [[Crafts]] · [[Métiers]] · [[Tissu]] · [[Parchemin]] · [[Brique]] · [[Plaque de verre]] · [[Poudre fabriqué]]*

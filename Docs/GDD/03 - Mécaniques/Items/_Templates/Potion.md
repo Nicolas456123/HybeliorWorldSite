@@ -16,7 +16,7 @@ needs_review_for: [calibration-effets-playtest, équilibrage-cooldown-global, in
 
 # 🧪 Archétype — Potion
 
-> Premier archétype-référence de la **catégorie [[Catégories d'Items|Consommable]]**, sous-catégorie **Potion**. Pose le pattern canonique pour tous les consommables liquides à effet immédiat ou à durée. Voir aussi [[Pain]] (référence consommable nourriture) et [[Items - Index]].
+> Premier archétype-référence de la **catégorie [[Catégories d'Items|Consommable]]**, sous-catégorie **Potion**. Pose le pattern canonique pour tous les consommables liquides à effet immédiat ou à durée. Voir aussi [[Pain]] (référence consommable nourriture) et [[Items/Index]].
 
 ---
 
@@ -292,7 +292,7 @@ Magnitude variable, effet narratif > effet pur. Tier 5-6 uniquement. Détail dan
 - **Brume de Vytharia** (T4, Régen Mana + invisibilité 8s)
   *Distillation noire des Veilari [[Lore/Religions/Noctari|Noctari]]. Bonus narratif : les espions de Vytharia reconnaissent un consommateur — réseau d'informateurs accessible.*
 
-> Les signatures complètes (des dizaines par pays) sont l'objet de la Phase 4 (voir [[Items - Index]] §Signatures / authored).
+> Les signatures complètes (des dizaines par pays) sont l'objet de la Phase 4 (voir [[Items/Index]] §Signatures / authored).
 
 ---
 
@@ -374,4 +374,4 @@ Magnitude variable, effet narratif > effet pur. Tier 5-6 uniquement. Détail dan
 
 ---
 
-*Liens : [[Items - Index|← Index Items]] · [[Catégories d'Items]] · [[Types d'Items]] · [[Sources de Ressources]] · [[Crafts]] · [[Métiers]] · [[Combat]] · [[Personnage]] · [[Le Lien]] · [[Mort]] · [[Les Ères]] · [[L'Accord]] · [[Pain]] (référence consommable nourriture)*
+*Liens : [[Items/Index|← Index Items]] · [[Catégories d'Items]] · [[Types d'Items]] · [[Sources de Ressources]] · [[Crafts]] · [[Métiers]] · [[Combat]] · [[Personnage]] · [[Le Lien]] · [[Mort]] · [[Les Ères]] · [[L'Accord]] · [[Pain]] (référence consommable nourriture)*

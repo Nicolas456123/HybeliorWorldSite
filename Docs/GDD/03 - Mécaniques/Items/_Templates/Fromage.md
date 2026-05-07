@@ -244,4 +244,4 @@ Le **fromage** est fabriqué par le [[Métiers|Fromager]] (voir [[Crafts]] §Cui
 
 ---
 
-*Liens : [[Items - Index|← Index Items]] · [[Catégories d'Items]] · [[Sources de Ressources]] · [[Crafts]] · [[Métiers]] · [[Pain]] · [[Viande]] · [[Lore/Religions/00 - Système Religieux]]*
+*Liens : [[Items/Index|← Index Items]] · [[Catégories d'Items]] · [[Sources de Ressources]] · [[Crafts]] · [[Métiers]] · [[Pain]] · [[Viande]] · [[Lore/Religions/00 - Système Religieux]]*

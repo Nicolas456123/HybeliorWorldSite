@@ -156,4 +156,4 @@ sortie: Cire runique × 1 bloc (T4) — bougies fonctionnent comme focus magique
 
 ---
 
-*Liens : [[Items - Index|← Index Items]] · [[Sources de Ressources]] · [[Crafts]] · [[Métiers]] · [[Résine traitée]] · [[Parchemin]] · [[Tome]] · [[Planche]]*
+*Liens : [[Items/Index|← Index Items]] · [[Sources de Ressources]] · [[Crafts]] · [[Métiers]] · [[Résine traitée]] · [[Parchemin]] · [[Tome]] · [[Planche]]*

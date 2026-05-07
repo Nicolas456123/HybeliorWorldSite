@@ -35,7 +35,7 @@ needs_review_for: [taille-3-15m-canonique, vibrations-déclenchement-mécanique,
 
 > Archétype canonique du **boss régional désertique** d'Hybelior. Pose le pattern **Tentaculaire de petite-moyenne taille** (3-15 m, distinct du [[Tentacule abyssal]] colossal cosmique) et **boss régional non-cosmique** (vs [[Tentacule abyssal]] qui est Avatar). Surgit du sable au déclenchement vibratile. Pattern complémentaire au [[Scorpion géant]] (insectoïde désertique) — ici, **prédateur apex désertique** signature de la chaîne désertique majeure.
 >
-> Voir [[Bestiaire - Index]] · [[Tentacule abyssal]] · [[Scorpion géant]] · [[Yéti]] · [[Taxonomie des Créatures]]
+> Voir [[Bestiary/Index]] · [[Tentacule abyssal]] · [[Scorpion géant]] · [[Yéti]] · [[Taxonomie des Créatures]]
 
 ---
 
@@ -245,7 +245,7 @@ Le Vermifuge **n'a pas de routine horaire**. Il est **sous-sable en permanence**
 - **Ère du Feu Endormi** : Brulé Vermifuge domine en zones volcaniques
 - **Ère des Échos Brisés** : Brisé Vermifuge — combat imprédictible, fuite recommandée
 
-> [!note] Branche [[Comportements PNJ - Index]]
+> [!note] Branche [[NPC Behaviors/Index]]
 > Pattern canonique pour créatures **Apprenantes Solitaires Tentaculaires Embuscade Vibratile**. Hérité par : vers géants des montagnes (Phase 4), serpents-fossoyeurs, créatures abyssales mineures.
 
 ---
@@ -317,4 +317,4 @@ Le Vermifuge **n'a pas de routine horaire**. Il est **sous-sable en permanence**
 
 ---
 
-*Liens : [[Bestiaire - Index|← Index Bestiaire]] · [[Tentacule abyssal]] · [[Scorpion géant]] · [[Yéti]] · [[Sources de Ressources]] · [[Géographie]] · [[Combat]] · [[Le Lien]]*
+*Liens : [[Bestiary/Index|← Index Bestiaire]] · [[Tentacule abyssal]] · [[Scorpion géant]] · [[Yéti]] · [[Sources de Ressources]] · [[Géographie]] · [[Combat]] · [[Le Lien]]*

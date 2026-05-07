@@ -173,4 +173,4 @@ INFJ N forte : "Cette Ère parle à travers les pierres" ; ISTJ S : "Le client p
 
 ---
 
-*Liens : [[Comportements PNJ - Index|← Index]] · [[Concepts Fondamentaux IA PNJ]] · [[Actions Situationnelles]] · [[Bijoutier]] (archétype joueur) · [[Lapidaire]] · [[Enchanteur d'objet]] · [[Forgeron]] · [[Anneau]]*
+*Liens : [[NPC Behaviors/Index|← Index]] · [[Concepts Fondamentaux IA PNJ]] · [[Actions Situationnelles]] · [[Bijoutier]] (archétype joueur) · [[Lapidaire]] · [[Enchanteur d'objet]] · [[Forgeron]] · [[Anneau]]*

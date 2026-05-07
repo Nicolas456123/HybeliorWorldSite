@@ -358,4 +358,4 @@ Récupération ~30-50% du cristal. Le tissu est récupérable (recyclable par Ti
 
 ---
 
-*Liens : [[Items - Index|← Index Items]] · [[Catégories d'Items]] · [[Tome]] · [[Orbe]] · [[Cristal de Voie]] · [[Personnage]] · [[Maîtrises]]*
+*Liens : [[Items/Index|← Index Items]] · [[Catégories d'Items]] · [[Tome]] · [[Orbe]] · [[Cristal de Voie]] · [[Personnage]] · [[Maîtrises]]*

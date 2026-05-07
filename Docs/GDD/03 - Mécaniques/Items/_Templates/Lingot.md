@@ -180,4 +180,4 @@ notes:
 
 ---
 
-*Liens : [[Items - Index|← Index Items]] · [[Sources de Ressources]] · [[Crafts]] · [[Métiers]] · [[Alliage]] · [[Fil métallique]] · [[Épée à une main]] · [[Anneau]] · [[Les Ères]]*
+*Liens : [[Items/Index|← Index Items]] · [[Sources de Ressources]] · [[Crafts]] · [[Métiers]] · [[Alliage]] · [[Fil métallique]] · [[Épée à une main]] · [[Anneau]] · [[Les Ères]]*

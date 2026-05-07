@@ -174,4 +174,4 @@ Synergies émergentes :
 
 ---
 
-*Liens : [[Items - Index\|← Index Items]] · [[Cuirasse]] · [[Catégories d'Items]] · [[Crafts]] · [[Combat]]*
+*Liens : [[Items/Index\|← Index Items]] · [[Cuirasse]] · [[Catégories d'Items]] · [[Crafts]] · [[Combat]]*

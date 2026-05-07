@@ -65,7 +65,7 @@ L'Explorateur est l'**ouvreur de zones** — premier passage dans territoires in
 |------|--------------------|------|
 | **ENTP** | Aventurier charmeur, défie l'inconnu, théoricien | Le défaut canonique (Mosrack, Lumasar) |
 | **ESTP** | Audacieux pragmatique, prend risques, raconteur | Frontalier (Pyrtara, Skaldoria) |
-| **INFP** | Explorateur poète, communion avec paysages, solitaire | Trinoria, [[Lore/Religions/Vael'Kurash]] |
+| **INFP** | Explorateur poète, communion avec paysages, solitaire | Trinoria, [[Vael Kurash]] |
 
 Modulateurs ([[Concepts Fondamentaux IA PNJ]] §6) :
 - **N+T (ENTP)** : forte spéculation cosmique, fasciné par lore
@@ -101,7 +101,7 @@ Modulateurs ([[Concepts Fondamentaux IA PNJ]] §6) :
 | **Dialogue** | Échange avec érudit, joueur, autre explorateur | ENTP/ESTP bavards (récits), INFP réservé mais profond |
 | **Crise** | Climat extrême OU créature OU effondrement | `Combat.Survive` ou `Combat.Flee` (combat seulement si acculé) |
 | **Festivité** | Festival ou retour de grande expédition | ENTP/ESTP raconte avec emphase, INFP poème écrit |
-| **Religieux** | [[Lore/Religions/Via Ventus]] (mouvement obligatoire) ou [[Lore/Religions/Vael'Kurash]] (terre sacrée) | Pèlerinage intégré au voyage |
+| **Religieux** | [[Lore/Religions/Via Ventus]] (mouvement obligatoire) ou [[Vael Kurash]] (terre sacrée) | Pèlerinage intégré au voyage |
 | **Quête** | **Donneur de quête fréquent** (sites découverts) | Continue routine + dialogue narratif riche |
 
 Cascade priorité : Crise > Itinérant > Marchand (en ville) > Routine.
@@ -155,7 +155,7 @@ Cascade priorité : Crise > Itinérant > Marchand (en ville) > Routine.
 
 - **Trigger** : `DangerDetected` créature
 - **Comportement** : **fuite priorisée** (Explorateur n'est pas chasseur — pas équipé pour combat majeur)
-- **Mémoire** : note la créature, espèce, comportement → revend info au [[03 - Mécaniques/Métiers/Exploration/Chasseur de créature|Chasseur de créature]] ou [[Bestiaire - Index]]
+- **Mémoire** : note la créature, espèce, comportement → revend info au [[03 - Mécaniques/Métiers/Exploration/Chasseur de créature|Chasseur de créature]] ou [[Bestiary/Index]]
 
 ---
 
@@ -176,7 +176,7 @@ Cascade priorité : Crise > Itinérant > Marchand (en ville) > Routine.
 | **Mosrack** (libre) | Aventurier indépendant, contrats privés | ENTP | Tous terrains |
 | **Lumasar** (académique) | Explorateur-naturaliste | ENTP | Faune/flore inconnues |
 | **Pyrtara** (frontières) | Audacieux, frontière hors-la-loi | ESTP | [[No man's land]], territoires interdits |
-| **Trinoria** (sylvestre) | Communion forestière, [[Lore/Religions/Vael'Kurash]] | INFP | Forêts conscientes |
+| **Trinoria** (sylvestre) | Communion forestière, [[Vael Kurash]] | INFP | Forêts conscientes |
 | **Skaldoria** (toundra) | Survie hivernale extrême | ESTP | Toundra, désert de glace |
 
 ### Signatures PNJ (Phase 4 stub)
@@ -188,4 +188,4 @@ Cascade priorité : Crise > Itinérant > Marchand (en ville) > Routine.
 
 ---
 
-*Liens : [[Comportements PNJ - Index|← Index]] · [[Routine Quotidienne]] · [[Modes Sociaux]] · [[Concepts Fondamentaux IA PNJ]] · [[Actions Situationnelles]] · [[03 - Mécaniques/Métiers/Exploration/Explorateur|Explorateur (gameplay)]] · [[03 - Mécaniques/Métiers/Exploration/Cartographe|Cartographe]] · [[03 - Mécaniques/Métiers/Exploration/Navigateur|Navigateur]] · [[03 - Mécaniques/Métiers/Exploration/Chasseur de trésors|Chasseur de trésors]] · [[03 - Mécaniques/Métiers/Exploration/Dresseur|Dresseur]] · [[Bibliothécaire]]*
+*Liens : [[NPC Behaviors/Index|← Index]] · [[Routine Quotidienne]] · [[Modes Sociaux]] · [[Concepts Fondamentaux IA PNJ]] · [[Actions Situationnelles]] · [[03 - Mécaniques/Métiers/Exploration/Explorateur|Explorateur (gameplay)]] · [[03 - Mécaniques/Métiers/Exploration/Cartographe|Cartographe]] · [[03 - Mécaniques/Métiers/Exploration/Navigateur|Navigateur]] · [[03 - Mécaniques/Métiers/Exploration/Chasseur de trésors|Chasseur de trésors]] · [[03 - Mécaniques/Métiers/Exploration/Dresseur|Dresseur]] · [[Bibliothécaire]]*

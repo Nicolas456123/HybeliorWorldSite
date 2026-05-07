@@ -58,7 +58,7 @@ needs_review_for: [concepts-fondamentaux, modulation-mbti-routine, paramétrage-
 ### Tâche 3 — Travailler (matin)
 
 - **Trigger** : arrivé au lieu de travail ET horloge ∈ [`work_start`, `lunch_start`]
-- **Action** : boucle de tâches métier (voir [[Métiers - Forgeron]], [[Métiers - Boulanger]], etc.)
+- **Action** : boucle de tâches métier (voir [[Forgeron]], [[Boulanger]], etc.)
 - **Sortie** : `lunch_start` atteint
 
 ### Tâche 4 — Faire la pause du midi
@@ -107,7 +107,7 @@ needs_review_for: [concepts-fondamentaux, modulation-mbti-routine, paramétrage-
 | `workplace_location` | Coord | — | Forge, four, atelier, champ, marché… |
 | `home_location` | Coord | — | Maison du PNJ |
 | `leisure_preference` | Enum | `taverne` | `taverne` · `famille` · `prière` · `lecture` · `social` · `atelier` · `jardinage` · `aucun` |
-| `work_metier` | Enum | — | Pointeur vers fichier métier ([[Métiers - Forgeron]] etc.) |
+| `work_metier` | Enum | — | Pointeur vers fichier métier ([[Forgeron]] etc.) |
 | `weekend_pattern` | Enum | `repos` | `repos` · `marché` · `prière` · `chasse` · `aucun` (pas de week-end) |
 
 ---
@@ -141,7 +141,7 @@ Les ères ([[Les Ères]]) modulent la routine :
 
 - **Behavior Tree principal** : la routine quotidienne est l'arbre racine
 - **Modes superposés** : [[Modes Sociaux]] (file indienne, marchand, dialogue) sont des sous-arbres qui prennent le contrôle quand une condition d'entrée est remplie
-- **Métiers** : la Tâche 3 et 5 délèguent à un sous-arbre métier ([[Métiers - Forgeron]], etc.)
+- **Métiers** : la Tâche 3 et 5 délèguent à un sous-arbre métier ([[Forgeron]], etc.)
 - **Variation entre PNJ** : NPC Generator instancie un PNJ avec ses paramètres (horaires, métier, préférence loisir) ; deux PNJ avec le même métier diffèrent par paramétrage
 
 ---
@@ -154,4 +154,4 @@ Les ères ([[Les Ères]]) modulent la routine :
 
 ---
 
-*Liens : [[Comportements PNJ - Index|← Index]] · [[Modes Sociaux]] · [[Métiers - Forgeron]] · [[Métiers - Boulanger]] · [[Architecture Data-Driven]] · [[Les Ères]]*
+*Liens : [[NPC Behaviors/Index|← Index]] · [[Modes Sociaux]] · [[Forgeron]] · [[Boulanger]] · [[Architecture Data-Driven]] · [[Les Ères]]*

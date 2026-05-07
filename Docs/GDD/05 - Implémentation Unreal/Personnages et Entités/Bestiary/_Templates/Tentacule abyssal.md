@@ -35,7 +35,7 @@ needs_review_for: [vide-élément-canonique, présence-abyssale-mécanique, drag
 
 > Archétype canonique de l'**avatar tentaculaire cosmique** d'Hybelior. Pattern pour krakens, abominations abyssales, êtres planaires du Vide, leviathans cosmiques. Pose le pattern **Tentaculaire** (forme V2 distincte) et **Élément Vide** (canonique — voir Taxonomie axe 7). Hérite de [[Élémentaire de feu]] (planaire, Avatar) et [[Spectre des Ères]] (Sapient, cosmique) mais inverse : **Tentaculaire** + **Vide** + **immortel conditionnel**.
 >
-> Voir [[Bestiaire - Index]] · [[Élémentaire de feu]] · [[Spectre des Ères]] · [[Dragon nain]]
+> Voir [[Bestiary/Index]] · [[Élémentaire de feu]] · [[Spectre des Ères]] · [[Dragon nain]]
 
 ---
 
@@ -263,4 +263,4 @@ Voir §3. HP base 1400 (CR 24). **Mana** très élevée. Stamina haute. Vitesse 
 
 ---
 
-*Liens : [[Bestiaire - Index|← Index Bestiaire]] · [[Élémentaire de feu]] · [[Spectre des Ères]] · [[Dragon nain]] · [[Démon mineur]] · [[Tortue ancestrale]] · [[Combat]] · [[Cosmologie]] · [[Le Lien]] · [[Les Ères]] · [[L'Accord]]*
+*Liens : [[Bestiary/Index|← Index Bestiaire]] · [[Élémentaire de feu]] · [[Spectre des Ères]] · [[Dragon nain]] · [[Démon mineur]] · [[Tortue ancestrale]] · [[Combat]] · [[Cosmologie]] · [[Le Lien]] · [[Les Ères]] · [[L'Accord]]*

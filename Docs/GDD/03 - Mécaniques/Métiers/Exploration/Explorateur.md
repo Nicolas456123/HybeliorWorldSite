@@ -39,7 +39,7 @@ L'**Explorateur** est l'**ouvreur de zones**. Sa mission : **traverser**, le pre
 
 L'Explorateur partage le terrain mais pas la mission avec : le [[Chasseur de trésors]] (fouille les zones connues, ne les ouvre pas), le [[Mineur]] (extrait, n'explore pas en profondeur), le [[Navigateur]] (mer, pas terre — mais branche cousine), le [[Dresseur]] (capture, ne cartographie pas).
 
-Hybelior offre des terrains d'exploration légendaires : **Azoria** (Cités des Anciens enfouies), **Baelor** (île au brouillard), **Cendara** (volcanique, Phénix), forêts conscientes d'**Ilthara**, jungles d'**Esperia** ([[Endora]]).
+Hybelior offre des terrains d'exploration légendaires : **Azoria** (Cités des Anciens enfouies), **Baelor** (île au brouillard), **Cendara** (volcanique, Phénix), forêts conscientes d'**Ilthara**, jungles d'**Esperia** ([[Endora - Continent|Endora]]).
 
 ---
 
@@ -100,7 +100,7 @@ Hybelior offre des terrains d'exploration légendaires : **Azoria** (Cités des 
 | **Initié** | Expéditions 1-2 semaines, biomes hostiles modérés (toundra, désert), survie autonome |
 | **Adepte** | Expéditions longues 3-6 semaines, biomes extrêmes (désert de glace, volcanique), première traversée régionale |
 | **Expert** | **Première mondiale** sur un continent (vrai prestige), traversée de zones magiques (Mystique, Désolation), ouverture d'avant-postes |
-| **Maître** | **Condition cachée 🔒** — Exploration des zones impossibles ([[Baelor]], [[Azoria]]), traversée des Souffles passés (cf. [[Le Souffle]]), capacité à ouvrir une route à travers un événement météo extrême |
+| **Maître** | **Condition cachée 🔒** — Exploration des zones impossibles ([[Baelor - Continent|Baelor]], [[Azoria - Continent|Azoria]]), traversée des Souffles passés (cf. [[Le Souffle]]), capacité à ouvrir une route à travers un événement météo extrême |
 
 > Décroissance : voir [[Armes et Maîtrise]]. Rouille post-[[Le Souffle]] 1 semaine, −15% endurance et survie.
 
@@ -114,7 +114,7 @@ Hybelior offre des terrains d'exploration légendaires : **Azoria** (Cités des 
 | **Initié** | Traversée d'un col montagneux · Repérage de ruine isolée · Échantillon flore inconnue |
 | **Adepte** | Traversée d'un désert · Première carte d'une vallée vierge · Identification d'événement saisonnier · Détection migration ([[Exploration]] §Événements) |
 | **Expert** | Première mondiale sur continent secondaire · Avant-poste fonctionnel · Cartographie d'une zone magique · Découverte de site [[Traces des Ères]] |
-| **Maître** | Pénétration d'[[Azoria]] · Traversée du brouillard de [[Baelor]] · Premier mortel à voir la **Source de l'Éternité** · Découverte d'une zone post-[[Le Souffle]] inédite |
+| **Maître** | Pénétration d'[[Azoria - Continent|Azoria]] · Traversée du brouillard de [[Baelor - Continent|Baelor]] · Premier mortel à voir la **Source de l'Éternité** · Découverte d'une zone post-[[Le Souffle]] inédite |
 
 → Récompenses individuelles : Phase 2.
 
@@ -126,7 +126,7 @@ Hybelior offre des terrains d'exploration légendaires : **Azoria** (Cités des 
 - **Progression** : reconnaissance par une **Société d'Exploration** ([[Lumasar]], **Solena** — "Âge des Grandes Explorations"), contrats publics ou privés
 - **Établissement** : **aventurier permanent**. Pas de lieu fixe. Souvent membre d'une équipe (Explorateur + [[Cartographe]] + [[Chasseur de créature]] + [[Dresseur]] + 1-2 combattants/mages)
 - **Réseau** : [[Cartographe]] (client direct des relevés), [[Navigateur]] (cousin maritime, échanges de techniques d'orientation), [[Astronome]] (calage céleste), [[Botaniste]] / [[Mineur]] (clients d'échantillons), [[Marchand]] (financement contre exclusivité commerciale)
-- **Faction** : Société d'Exploration de **Solena**, Pionniers de [[Galenor]], Cercles de Voyageurs ([[Onara]], "Foires des Vents"), Aventuriers libres
+- **Faction** : Société d'Exploration de **Solena**, Pionniers de [[Galenor - Continent|Galenor]], Cercles de Voyageurs ([[Onara - Continent|Onara]], "Foires des Vents"), Aventuriers libres
 - **Note PvP** : karma vert. Souvent ciblé par **bandits** en zone sauvage — l'expédition doit s'auto-défendre.
 
 ### Sous-spécialisations canoniques (Role.csv)
@@ -162,8 +162,8 @@ Hybelior offre des terrains d'exploration légendaires : **Azoria** (Cités des 
 | **Post-[[Le Souffle]]** | **Le monde change** — zones autrefois inexplorables ouvertes, nouvelles routes nécessaires, **demande explose** |
 | **[[L'Accord]] ≥ 75%** | Capacité de naviguer dans les "anciens" du monde (cf. [[Traces des Ères]]) |
 | **Événements météo extrêmes** ([[Exploration]]) | Risque de mort élevé, mais récompenses uniques |
-| **Continent [[Azoria]]** | Saint Graal — Maître requis |
-| **Continent [[Baelor]]** | Brouillard permanent — orientation classique impossible, [[Le Lien\|Voie]] requise |
+| **Continent [[Azoria - Continent|Azoria]]** | Saint Graal — Maître requis |
+| **Continent [[Baelor - Continent|Baelor]]** | Brouillard permanent — orientation classique impossible, [[Le Lien\|Voie]] requise |
 | **Religion [[Foedus Animae]]** | Pacte avec esprits locaux pour traversée |
 
 ---
@@ -216,9 +216,9 @@ Explorateur (relevé brut) ─→ [[Cartographe]] (Carte) ─→ [[Marchand]] / 
 - **Le solitaire des marges** — vit en avant-poste, mépris des villes, hub de rumeurs précieux
 
 **PNJ célèbres** *(Phase 4)* :
-- *Captaine Aldros* — Solena, premier à avoir traversé la mer du sud d'[[Azoria]]
+- *Captaine Aldros* — Solena, premier à avoir traversé la mer du sud d'[[Azoria - Continent|Azoria]]
 - *Ven la Pionnière* — Galenor, ouverture de la route nord-sud transcontinentale
-- *Frère Iolar* — Spiritus, traversée des brouillards de [[Baelor]]
+- *Frère Iolar* — Spiritus, traversée des brouillards de [[Baelor - Continent|Baelor]]
 
 ---
 

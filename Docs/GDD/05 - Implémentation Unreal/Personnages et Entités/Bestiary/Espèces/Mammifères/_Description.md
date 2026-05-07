@@ -39,4 +39,4 @@ Forêt tempérée, taïga, toundra, plaine, montagne basse, désert de glace, pl
 
 ---
 
-*Liens : [[Espèces/_Index|← Espèces]] · [[Bestiaire - Index]] · [[Géographie]]*
+*Liens : [[Espèces/_Index|← Espèces]] · [[Bestiary/Index]] · [[Géographie]]*

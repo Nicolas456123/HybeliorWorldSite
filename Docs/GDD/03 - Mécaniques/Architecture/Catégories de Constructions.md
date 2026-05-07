@@ -248,4 +248,4 @@ Chaque pays a sa **signature architecturale**. Mention rapide pour 4 cultures em
 
 ---
 
-*Liens : [[Architecture - Index|← Index Architecture]] · [[Échelles et Niveaux]] · [[Matériaux de Construction]] · [[Mapping Métiers de Construction]] · [[Métiers]] · [[Crafts]] · [[Géographie]] · [[Guildes]] · [[Traces des Ères]] · [[AccessExport/TailleVille.csv]] · [[Concepts Fondamentaux IA PNJ]]*
+*Liens : [[Architecture/Index|← Index Architecture]] · [[Échelles et Niveaux]] · [[Matériaux de Construction]] · [[Mapping Métiers de Construction]] · [[Métiers]] · [[Crafts]] · [[Géographie]] · [[Guildes]] · [[Traces des Ères]] · [[AccessExport/TailleVille.csv]] · [[Concepts Fondamentaux IA PNJ]]*

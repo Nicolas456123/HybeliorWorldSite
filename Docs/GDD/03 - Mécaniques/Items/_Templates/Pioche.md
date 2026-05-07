@@ -92,7 +92,7 @@ Le tier de la Pioche **agrandit la zone-cible** et la **fait bouger plus lenteme
 
 | Champ | Valeur |
 |---|---|
-| **Métier** | [[Métiers - Forgeron\|Forgeron]] (lame) + [[Métiers - Menuisier\|Menuisier]] (manche) |
+| **Métier** | [[Forgeron\|Forgeron]] (lame) + [[Menuisier\|Menuisier]] (manche) |
 | **Station** | Forge + Établi |
 | **Intrants** | 2× [[Sources de Ressources#Source 3 — Fabrication\|Lingot]] (acier dur) · 1× [[Sources de Ressources#Source 3 — Fabrication\|Planche]] (chêne) · 1× [[Sources de Ressources#Source 2 — Récolte sur créature\|Cuir]] tanné · 1× Charbon |
 | **Palier requis** | Adepte |
@@ -122,4 +122,4 @@ Le tier de la Pioche **agrandit la zone-cible** et la **fait bouger plus lenteme
 
 ---
 
-*Liens : [[Items - Index\|← Index Items]] · [[Crafts]] · [[Métiers]] · [[Catégories d'Items]] · [[Hache de bûcheron]] · [[Faux]]*
+*Liens : [[Items/Index\|← Index Items]] · [[Crafts]] · [[Métiers]] · [[Catégories d'Items]] · [[Hache de bûcheron]] · [[Faux]]*

@@ -94,7 +94,7 @@ Le Tabard est l'item-marqueur d'allégeance par excellence. Visuellement, c'est 
 
 | Matériau | Métier | Intrants T3 | Maîtrise · Durée · Mini-jeu |
 |---|---|---|---|
-| **Tissu brodé** | [[Métiers - Tisserand\|Tisserand]] + [[Métiers - Brodeur\|Brodeur]] | 3× Tissu · 3× Pigment (couleurs faction) · 2× Fil métallique (broderie armoiries) | Adepte · 70 s · broderie composition motif (armoiries faction) |
+| **Tissu brodé** | [[Tisserand\|Tisserand]] + [[Métiers - Brodeur\|Brodeur]] | 3× Tissu · 3× Pigment (couleurs faction) · 2× Fil métallique (broderie armoiries) | Adepte · 70 s · broderie composition motif (armoiries faction) |
 | **Soie** | Tisserand + Brodeur | 2× Soie · 3× Pigment précieux · 1× Fil d'or | Expert · 90 s · broderie complexe |
 
 > Note : pour qu'un Tabard soit reconnu d'une faction, le **Brodeur** doit avoir accès aux **armoiries officielles** (acquises via réputation, mission, ou achat licence Faction).
@@ -125,4 +125,4 @@ Le Tabard, étant un overlay textile dédié à l'identité visuelle, accepte le
 
 ---
 
-*Liens : [[Items - Index\|← Index Items]] · [[Catégories d'Items]] · [[Crafts]] · [[Cuirasse]] · [[Cape]] · [[Factions]] · [[Religions]]*
+*Liens : [[Items/Index\|← Index Items]] · [[Catégories d'Items]] · [[Crafts]] · [[Cuirasse]] · [[Cape]] · [[Factions]] · [[Religions]]*

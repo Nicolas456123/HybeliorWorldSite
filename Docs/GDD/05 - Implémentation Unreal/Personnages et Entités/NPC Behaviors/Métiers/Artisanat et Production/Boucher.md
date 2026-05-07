@@ -172,4 +172,4 @@ MBTI S/T : peu de spéculation, "le bétail meurt et se découpe pareil sous tou
 
 ---
 
-*Liens : [[Comportements PNJ - Index|← Index]] · [[Concepts Fondamentaux IA PNJ]] · [[Actions Situationnelles]] · [[Boucher]] (archétype joueur) · [[Tanneur]] · [[Cuisinier]] · [[Métiers|Chasseur]] · [[Métiers|Berger]]*
+*Liens : [[NPC Behaviors/Index|← Index]] · [[Concepts Fondamentaux IA PNJ]] · [[Actions Situationnelles]] · [[Boucher]] (archétype joueur) · [[Tanneur]] · [[Cuisinier]] · [[Métiers|Chasseur]] · [[Métiers|Berger]]*

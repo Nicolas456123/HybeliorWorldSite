@@ -198,4 +198,4 @@ Cascade priorité : Crise (explosion/brûlure) > Religieux > Marchand > Routine.
 
 ---
 
-*Liens : [[Comportements PNJ - Index|← Index]] · [[Routine Quotidienne]] · [[Modes Sociaux]] · [[Concepts Fondamentaux IA PNJ]] · [[Actions Situationnelles]] · [[03 - Mécaniques/Métiers/Artisanat et Production/Verrier|Verrier (gameplay)]] · [[Architecte]] · [[Maçon]] · [[Sertisseur]] · [[Apothicaire]] · [[Astronome]] · [[Alchimiste]] · [[Lapidaire]] · [[Architecture/Index]]*
+*Liens : [[NPC Behaviors/Index|← Index]] · [[Routine Quotidienne]] · [[Modes Sociaux]] · [[Concepts Fondamentaux IA PNJ]] · [[Actions Situationnelles]] · [[03 - Mécaniques/Métiers/Artisanat et Production/Verrier|Verrier (gameplay)]] · [[Architecte]] · [[Maçon]] · [[Sertisseur]] · [[Apothicaire]] · [[Astronome]] · [[Alchimiste]] · [[Lapidaire]] · [[Architecture/Index]]*

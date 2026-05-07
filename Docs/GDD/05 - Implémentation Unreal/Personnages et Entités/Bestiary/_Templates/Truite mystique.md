@@ -35,7 +35,7 @@ needs_review_for: [pêche-mécanique, truite-magique-conditions]
 
 > Archétype canonique du **poisson aquatique d'eau douce**. Pattern pour poissons "ordinaires-mais-magiques" (truite, brochet, carpe sage, saumon de Lune). Pose le pattern **aquatique non-prédateur** et la **mécanique de pêche** distincte du combat. Premier archétype "**ressource récurrente non-combat**" du bestiaire.
 >
-> Voir [[Bestiaire - Index]] · [[Loup forestier]] · [[Sources de Ressources]] §Pêche
+> Voir [[Bestiary/Index]] · [[Loup forestier]] · [[Sources de Ressources]] §Pêche
 
 ---
 
@@ -222,4 +222,4 @@ HP base 60 (CR 1). Pas de combat actif — la truite **fuit**. **Pêche** = mini
 
 ---
 
-*Liens : [[Bestiaire - Index|← Index Bestiaire]] · [[Loup forestier]] · [[Sources de Ressources]] · [[Les Ères]]*
+*Liens : [[Bestiary/Index|← Index Bestiaire]] · [[Loup forestier]] · [[Sources de Ressources]] · [[Les Ères]]*

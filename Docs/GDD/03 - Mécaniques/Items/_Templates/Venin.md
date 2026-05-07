@@ -140,4 +140,4 @@ Le **Venin** se distingue de la **Bave** (visqueuse non-toxique) et de la **Séc
 
 ---
 
-*Liens : [[Sources de Ressources]] · [[Crafts]] · [[Bave]] · [[Sécrétion]] · [[Sang]] · [[Serpent géant]] · [[Ruche d'insectes]] · [[Démon mineur]] · [[Bestiaire - Index]]*
+*Liens : [[Sources de Ressources]] · [[Crafts]] · [[Bave]] · [[Sécrétion]] · [[Sang]] · [[Serpent géant]] · [[Ruche d'insectes]] · [[Démon mineur]] · [[Bestiary/Index]]*

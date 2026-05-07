@@ -157,4 +157,4 @@ sortie: Farine rituelle × 2 sacs (T5) — bénédiction Reconnaissance +X relig
 
 ---
 
-*Liens : [[Items - Index|← Index Items]] · [[Sources de Ressources]] · [[Crafts]] · [[Métiers]] · [[Pain]] · [[Gâteaux]] · [[Boisson]]*
+*Liens : [[Items/Index|← Index Items]] · [[Sources de Ressources]] · [[Crafts]] · [[Métiers]] · [[Pain]] · [[Gâteaux]] · [[Boisson]]*

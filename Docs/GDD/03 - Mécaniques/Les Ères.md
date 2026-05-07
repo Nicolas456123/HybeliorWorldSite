@@ -103,7 +103,7 @@ Enfin, chaque Ère a un ou deux continents qui en deviennent le **foyer**. Là o
 
 > *« Six visages, comme un dieu hindou en aurait six bras. Et comme le dieu, l'Ère ne se laisse jamais voir entièrement de face. »*
 >
-> *— Note marginale dans le « Traité des Cycles » de Maître Aldric*
+> *— Note marginale dans le « Traité des Cycles » de Maître Veyran d'Astravia*
 
 ---
 

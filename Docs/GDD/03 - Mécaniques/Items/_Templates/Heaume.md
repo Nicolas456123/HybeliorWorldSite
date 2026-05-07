@@ -137,7 +137,7 @@ Multiplicateurs de classe identiques à Cuirasse (Tissu ×0.5/×1.5 phys/mag, Pl
 
 | Champ | Valeur |
 |---|---|
-| **Métier** | [[Métiers - Tisserand\|Tisserand]] + [[Métiers - Brodeur\|Brodeur]] |
+| **Métier** | [[Tisserand\|Tisserand]] + [[Métiers - Brodeur\|Brodeur]] |
 | **Intrants** | 2× Tissu (laine) · 1× Pigment · 1× Cristal de Voie mineur · 3× Fil métallique |
 | **Maîtrise** | Adepte (palier 3) · 40 s · mini-jeu cadence métier (court) |
 
@@ -145,7 +145,7 @@ Multiplicateurs de classe identiques à Cuirasse (Tissu ×0.5/×1.5 phys/mag, Pl
 
 | Champ | Valeur |
 |---|---|
-| **Métier** | [[Métiers - Tanneur\|Tanneur]] → [[Métiers - Maroquinier\|Maroquinier]] |
+| **Métier** | [[Tanneur\|Tanneur]] → [[Métiers - Maroquinier\|Maroquinier]] |
 | **Intrants** | 3× Cuir tanné T2+ · 1× Fil métallique · 4× Boucle/Clou · 1× Pigment |
 | **Maîtrise** | Adepte · 60 s · mini-jeu coupe précise (1 patron) |
 
@@ -153,7 +153,7 @@ Multiplicateurs de classe identiques à Cuirasse (Tissu ×0.5/×1.5 phys/mag, Pl
 
 | Champ | Valeur |
 |---|---|
-| **Métier** | [[Métiers - Forgeron\|Forgeron]] |
+| **Métier** | [[Forgeron\|Forgeron]] |
 | **Intrants** | 4× Fil métallique · 1× Lingot (calotte) · 1× Cuir (mentonnière) · 1× Charbon |
 | **Maîtrise** | Adepte · 80 s · mini-jeu tressage anneaux (séquence courte ~20 anneaux) |
 
@@ -161,7 +161,7 @@ Multiplicateurs de classe identiques à Cuirasse (Tissu ×0.5/×1.5 phys/mag, Pl
 
 | Champ | Valeur |
 |---|---|
-| **Métier** | [[Métiers - Forgeron\|Forgeron]] + [[Métiers - Armurier\|Armurier]] |
+| **Métier** | [[Forgeron\|Forgeron]] + [[Métiers - Armurier\|Armurier]] |
 | **Intrants** | 3× Lingot · 1× Alliage (visière) · 1× Cuir (intérieur) · 2× Charbon · 1× Eau de trempe |
 | **Maîtrise** | **Expert** (palier 4) · 120 s · mini-jeu **estampage** (4 phases : forge, modelage calotte, ajustement visière, trempe) |
 
@@ -229,4 +229,4 @@ Synergies émergentes locales :
 
 ---
 
-*Liens : [[Items - Index\|← Index Items]] · [[Cuirasse]] · [[Catégories d'Items]] · [[Crafts]] · [[Personnage]] · [[Combat]]*
+*Liens : [[Items/Index\|← Index Items]] · [[Cuirasse]] · [[Catégories d'Items]] · [[Crafts]] · [[Personnage]] · [[Combat]]*

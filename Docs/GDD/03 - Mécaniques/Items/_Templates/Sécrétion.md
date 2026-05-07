@@ -145,4 +145,4 @@ La **Sécrétion** est un fluide **glandulaire ciblé** — chaque glande a sa f
 
 ---
 
-*Liens : [[Sources de Ressources]] · [[Crafts]] · [[Bave]] · [[Venin]] · [[Sang]] · [[Larme]] · [[Loup forestier]] · [[Ours brun]] · [[Ruche d'insectes]] · [[Élémentaire de feu]] · [[Bestiaire - Index]]*
+*Liens : [[Sources de Ressources]] · [[Crafts]] · [[Bave]] · [[Venin]] · [[Sang]] · [[Larme]] · [[Loup forestier]] · [[Ours brun]] · [[Ruche d'insectes]] · [[Élémentaire de feu]] · [[Bestiary/Index]]*

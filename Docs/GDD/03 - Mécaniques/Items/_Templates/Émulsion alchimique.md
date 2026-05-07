@@ -185,4 +185,4 @@ sortie: Émulsion mythique × 1 dose (T6) — devient Héritage ([[L'Accord]]) s
 
 ---
 
-*Liens : [[Items - Index|← Index Items]] · [[Sources de Ressources]] · [[Crafts]] · [[Métiers]] · [[Potion]] · [[Boisson]] · [[Poudre fabriqué]] · [[Cire raffinée]] · [[Champignons]] · [[L'Accord]]*
+*Liens : [[Items/Index|← Index Items]] · [[Sources de Ressources]] · [[Crafts]] · [[Métiers]] · [[Potion]] · [[Boisson]] · [[Poudre fabriqué]] · [[Cire raffinée]] · [[Champignons]] · [[L'Accord]]*

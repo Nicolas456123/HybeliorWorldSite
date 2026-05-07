@@ -17,7 +17,7 @@ needs_review_for: [castor-stub, loutre-stub, brochet-stub, grenouille-stub]
 
 > Écosystème **transverse**, traverse tous les biomes terrestres d'Hybelior. Couvre **rivières**, **lacs**, **étangs**, **cascades**, **sources**. Chaque biome a sa version (rivières d'Astravia, lacs glacés de Cestra, marais lacustres de Pyrtara, etc.). Cet écosystème est traité comme **réseau écologique fluvial** plutôt que régional. Domaine de la **[[Truite mystique]]** et de la **[[Tortue ancestrale]]** lacustre.
 >
-> Voir [[Bestiaire - Index]] · [[Géographie]] · [[Truite mystique]] · [[Tortue ancestrale]] · [[Marais de Pyrtara]] · [[Côte et mer peu profonde]]
+> Voir [[Bestiary/Index]] · [[Géographie]] · [[Truite mystique]] · [[Tortue ancestrale]] · [[Marais de Pyrtara]] · [[Côte et mer peu profonde]]
 
 ---
 
@@ -244,4 +244,4 @@ DÉCOMPOSEURS :
 
 ---
 
-*Liens : [[Bestiaire - Index]] · [[Truite mystique]] · [[Tortue ancestrale]] · [[Côte et mer peu profonde]] · [[Marais de Pyrtara]] · [[Géographie]] · [[Les Ères]] · [[Cosmologie]] · [[Sources de Ressources]]*
+*Liens : [[Bestiary/Index]] · [[Truite mystique]] · [[Tortue ancestrale]] · [[Côte et mer peu profonde]] · [[Marais de Pyrtara]] · [[Géographie]] · [[Les Ères]] · [[Cosmologie]] · [[Sources de Ressources]]*

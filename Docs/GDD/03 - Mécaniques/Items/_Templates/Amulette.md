@@ -339,4 +339,4 @@ Récupération de ~30-50% du cristal, jamais l'essence ni la larme d'Éternel. C
 
 ---
 
-*Liens : [[Items - Index|← Index Items]] · [[Catégories d'Items]] · [[Anneau]] · [[Tome]] · [[Le Lien]] · [[Personnage]] · [[Économie]]*
+*Liens : [[Items/Index|← Index Items]] · [[Catégories d'Items]] · [[Anneau]] · [[Tome]] · [[Le Lien]] · [[Personnage]] · [[Économie]]*

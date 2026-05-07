@@ -134,7 +134,7 @@ Ce que la frise donne, et qu'aucune autre page ne donne avec cette concision, c'
 
 > *« Apprends d'abord les noms des âges. Tu apprendras ensuite leurs histoires. Tu finiras peut-être par apprendre leurs silences. »*
 >
-> *— Maître Aldric, à un apprenti chroniqueur*
+> *— Sœur Velandre, chroniqueuse de Caelorhin, à un apprenti*
 
 ---
 

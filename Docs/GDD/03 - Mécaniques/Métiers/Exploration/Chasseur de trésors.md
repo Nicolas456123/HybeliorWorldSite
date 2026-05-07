@@ -35,7 +35,7 @@ Le **Chasseur de trésors** est le **fouilleur de profondeurs** — pas l'or de 
 
 Distinct de l'[[Explorateur]] (qui ouvre la zone — premier passage) : le Chasseur de trésors **revient** sur les zones connues pour les fouiller en profondeur. Distinct du [[Mineur]] (qui extrait du minerai brut sans contexte historique) : le Chasseur de trésors fouille **dans le contexte d'une civilisation** ou d'une légende. Distinct du [[Bibliothécaire]] / [[Historien]] : il **récupère matériellement**, eux **interprètent**.
 
-Hybelior offre des terrains de chasse exceptionnels : les **Cités des Anciens** ([[Azoria]], enfouies sous la glace), les **Cités des Sables** ([[Endora]], labyrinthes), les **cités perdues** d'Esperia, les **forteresses souterraines** de [[Celethor|Thalendil]], les ruines sacrées d'[[Ulinor]], et les **donjons** ([[Exploration]] §Donjons).
+Hybelior offre des terrains de chasse exceptionnels : les **Cités des Anciens** ([[Azoria - Continent|Azoria]], enfouies sous la glace), les **Cités des Sables** ([[Endora - Continent|Endora]], labyrinthes), les **cités perdues** d'Esperia, les **forteresses souterraines** de [[Celethor - Continent|Thalendil]], les ruines sacrées d'[[Ulinor - Continent|Ulinor]], et les **donjons** ([[Exploration]] §Donjons).
 
 ---
 
@@ -98,7 +98,7 @@ Hybelior offre des terrains de chasse exceptionnels : les **Cités des Anciens**
 | **Initié** | Crochetage avancé, lecture d'indices basiques, ruines partiellement effondrées |
 | **Adepte** | Désamorçage de pièges, langues mortes (1-2), donjons mineurs (cf. [[Exploration]] §Donjons) |
 | **Expert** | Détection de chambres cachées, désamorçage magique, donjons majeurs, sites des [[Traces des Ères]] |
-| **Maître** | **Condition cachée 🔒** — Accès aux **Cités des Anciens** ([[Azoria]]), reliques de tier Mythique, capacité à manipuler les **artefacts maudits** sans contamination grave |
+| **Maître** | **Condition cachée 🔒** — Accès aux **Cités des Anciens** ([[Azoria - Continent|Azoria]]), reliques de tier Mythique, capacité à manipuler les **artefacts maudits** sans contamination grave |
 
 > Décroissance : voir [[Armes et Maîtrise]]. Rouille post-[[Le Souffle]] 1 semaine, −15% taux de désamorçage.
 
@@ -111,8 +111,8 @@ Hybelior offre des terrains de chasse exceptionnels : les **Cités des Anciens**
 | **Novice** | Coffre paysan abandonné · Cache de bandits · Ruines de surface (rendement faible) |
 | **Initié** | Tombe d'un noble mineur · Donjon de niveau 1 · Réseau de caves · Cache de marchand |
 | **Adepte** | Tombe royale · Donjon majeur · Ruine de civilisation effondrée · Sanctuaire abandonné |
-| **Expert** | Cité perdue d'[[Ilthara\|Esperia]] · Forteresse de [[Celethor\|Thalendil]] · Cités des Sables ([[Endora]]) · Site [[Traces des Ères]] |
-| **Maître** | Cité des Anciens ([[Azoria]]) · Sanctuaire des [[Cosmologie\|Cosmiques]] · Reliques mythiques · Coffre du **Souffle Originel** |
+| **Expert** | Cité perdue d'[[Ilthara - Continent\|Esperia]] · Forteresse de [[Celethor - Continent\|Thalendil]] · Cités des Sables ([[Endora - Continent|Endora]]) · Site [[Traces des Ères]] |
+| **Maître** | Cité des Anciens ([[Azoria - Continent|Azoria]]) · Sanctuaire des [[Cosmologie\|Cosmiques]] · Reliques mythiques · Coffre du **Souffle Originel** |
 
 → Loot tables individuelles : Phase 2.
 
@@ -124,7 +124,7 @@ Hybelior offre des terrains de chasse exceptionnels : les **Cités des Anciens**
 - **Progression** : reconnaissance par une **Société d'Exploration** (Lumasar, Solena), contrats privés (collectionneurs)
 - **Établissement** : pas de lieu fixe — **aventurier**. Souvent en équipe (1 Cartographe + 1 Explorateur + 2-3 Chasseurs de trésors + 1 combattant)
 - **Réseau** : [[Explorateur]] (ouvre la zone), [[Cartographe]] (cartes), [[Bibliothécaire]] / [[Historien]] (interprète et achète le lore), [[Marchand]] (revente de butin), [[Identificateur]] (services HV — voir [[Économie]] §Identification 200-1000 Éclats)
-- **Faction** : Société d'Exploration (Lumasar), Confrérie des Pillards de Tombeaux (officieuse, [[Endora]]), Ordre du Voile (gardiens vs pillards — adversaires fréquents)
+- **Faction** : Société d'Exploration (Lumasar), Confrérie des Pillards de Tombeaux (officieuse, [[Endora - Continent|Endora]]), Ordre du Voile (gardiens vs pillards — adversaires fréquents)
 - **Note morale** : certains pays interdisent le pillage de leurs ruines sacrées — peut générer du **karma jaune/orange** dans certaines régions selon les lois locales (voir [[PvP]] §Karma — kill non-consenti exclu, mais réputation entamée)
 
 ---
@@ -135,11 +135,11 @@ Hybelior offre des terrains de chasse exceptionnels : les **Cités des Anciens**
 |----------|-------|
 | **Ère [[Les Ères\|Brume Mortelle]]** | Sites cachés se révèlent — pic de découvertes |
 | **Ère [[Les Ères\|Verdoiement]]** | Végétation envahit les ruines, fouille plus difficile |
-| **Ère [[Les Ères\|Sommeil de Glace]]** | Glaces fondent par endroits — accès à des sites enfouis ([[Azoria]]) |
+| **Ère [[Les Ères\|Sommeil de Glace]]** | Glaces fondent par endroits — accès à des sites enfouis ([[Azoria - Continent|Azoria]]) |
 | **Post-[[Le Souffle]]** | Certaines ruines réapparaissent ou s'effondrent — pic d'activité |
 | **[[L'Accord]] ≥ 75%** | Reliques à condition d'Accord équipables |
 | **Religion [[Veritas]]** | Conflit : interdit de toucher aux sites sacrés sans permission |
-| **Continent [[Azoria]]** | Saint Graal — Cités des Anciens (Maître requis) |
+| **Continent [[Azoria - Continent|Azoria]]** | Saint Graal — Cités des Anciens (Maître requis) |
 | **Donjon avec condition cachée** ([[Exploration]]) | Chasseur de trésors maître = découvre les conditions |
 | **[[Traces des Ères]]** | Sites historiques uniques, lore précieux |
 
@@ -194,10 +194,10 @@ Chasseur de trésors ─→ [[Marchand]] / HV (objets manufacturés)
 - **Le moine-chercheur** — [[Veritas]] / [[Rota Mundi]], fouille rituellement, restitue aux temples
 
 **PNJ célèbres** *(Phase 4)* :
-- *Eldris Vance* — "Le Premier des Sables", fouilleur des Cités d'[[Endora]]
+- *Eldris Vance* — "Le Premier des Sables", fouilleur des Cités d'[[Endora - Continent|Endora]]
 - *Mère Selthar* — Lumasar, Maîtresse de la Société d'Exploration
-- *Korven le Voilé* — pilleur masqué, Mythe vivant des [[Azoria\|Glaces Éternelles]]
+- *Korven le Voilé* — pilleur masqué, Mythe vivant des [[Azoria - Continent\|Glaces Éternelles]]
 
 ---
 
-*Liens : [[Métiers]] · [[Personnage]] · [[Exploration]] · [[Sources de Ressources]] · [[Économie]] · [[Armes et Maîtrise]] · [[L'Accord]] · [[Le Souffle]] · [[Traces des Ères]] · [[Bestiaire - Index]] · [[Chasseur de créature]] · [[Chasseur de primes]] · [[Explorateur]] · [[Cartographe]] · [[Bibliothécaire]] · [[Historien]] · [[Marchand]]*
+*Liens : [[Métiers]] · [[Personnage]] · [[Exploration]] · [[Sources de Ressources]] · [[Économie]] · [[Armes et Maîtrise]] · [[L'Accord]] · [[Le Souffle]] · [[Traces des Ères]] · [[Bestiary/Index]] · [[Chasseur de créature]] · [[Chasseur de primes]] · [[Explorateur]] · [[Cartographe]] · [[Bibliothécaire]] · [[Historien]] · [[Marchand]]*

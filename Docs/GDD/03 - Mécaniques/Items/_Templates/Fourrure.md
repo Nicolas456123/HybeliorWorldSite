@@ -132,4 +132,4 @@ La **Fourrure** est le revêtement isolant qui garde les mammifères des biomes 
 
 ---
 
-*Liens : [[Sources de Ressources]] · [[Crafts]] · [[Cuir]] · [[Laine creature]] · [[Cuirasse]] · [[Bottes]] · [[Loup forestier]] · [[Ours brun]] · [[Bestiaire - Index]]*
+*Liens : [[Sources de Ressources]] · [[Crafts]] · [[Cuir]] · [[Laine creature]] · [[Cuirasse]] · [[Bottes]] · [[Loup forestier]] · [[Ours brun]] · [[Bestiary/Index]]*

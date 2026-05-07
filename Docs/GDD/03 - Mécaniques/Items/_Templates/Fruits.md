@@ -257,4 +257,4 @@ Magnitude variable, effet narratif. Voir §7.
 
 ---
 
-*Liens : [[Items - Index|← Index Items]] · [[Catégories d'Items]] · [[Sources de Ressources]] · [[Crafts]] · [[Métiers]] · [[Pain]] · [[Légumes]] · [[Boisson]]*
+*Liens : [[Items/Index|← Index Items]] · [[Catégories d'Items]] · [[Sources de Ressources]] · [[Crafts]] · [[Métiers]] · [[Pain]] · [[Légumes]] · [[Boisson]]*

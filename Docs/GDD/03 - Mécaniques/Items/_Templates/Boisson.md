@@ -288,4 +288,4 @@ Une **boisson** est un liquide non-thérapeutique fabriqué par [[Métiers|Brass
 
 ---
 
-*Liens : [[Items - Index|← Index Items]] · [[Catégories d'Items]] · [[Crafts]] · [[Métiers]] · [[Combat]] · [[Personnage]] · [[Pain]] · [[Potion]] · [[Les Ères]]*
+*Liens : [[Items/Index|← Index Items]] · [[Catégories d'Items]] · [[Crafts]] · [[Métiers]] · [[Combat]] · [[Personnage]] · [[Pain]] · [[Potion]] · [[Les Ères]]*

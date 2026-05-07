@@ -154,4 +154,4 @@ Modulateurs :
 
 ---
 
-*Liens : [[Comportements PNJ - Index|← Index]] · [[Concepts Fondamentaux IA PNJ]] · [[Actions Situationnelles]] · [[Menuisier]] (archétype joueur) · [[Forgeron]] · [[Architecte]] · [[Charpentier]] · [[Sculpteur]] · [[Arc]]*
+*Liens : [[NPC Behaviors/Index|← Index]] · [[Concepts Fondamentaux IA PNJ]] · [[Actions Situationnelles]] · [[Menuisier]] (archétype joueur) · [[Forgeron]] · [[Architecte]] · [[Charpentier]] · [[Sculpteur]] · [[Arc]]*

@@ -103,15 +103,11 @@ Ce que dit cette politique du basculement, c'est qu'**on ne joue pas avec les fa
 
 ## Factions et Souffle
 
-Les **Ères** modifient les rapports de force entre factions. Quand une voix cosmique devient dominante, **certaines factions se sentent grandir** parce que leurs valeurs résonnent avec ce que le monde, soudain, valorise. D'autres se sentent **piétiner** — comme si la mer s'était retirée et que leur navire reposait, ridicule, sur le sable.
-
-Une Ère où le **Lumen** domine gonfle l'Ordo Caelum et fait briller Seraphia ; dans cette même Ère, Noctari rentre dans les caves. Une Ère de **Terra** porte Lex Petra à son sommet pendant que Via Ventus se sent comme une voix sans écho. Lorsque vient l'**Animae**, Foedus Animae fleurit et Catena Fracta se terre.
+Comme tout ce qui vit à Hybelior, les factions respirent au rythme du [[Le Souffle|Souffle]] et des [[Les Ères]]. Quand une voix cosmique devient dominante, certaines factions se sentent grandir parce que leurs valeurs résonnent avec ce que le monde valorise — Lumen gonfle l'Ordo Caelum, Terra porte la Lex Petra, Animae fait fleurir Foedus Animae. D'autres, dans la même Ère, se sentent piétiner.
 
 Ces déplacements ne sont pas des bonus mécaniques : ce sont des **vérités politiques**. Ceux qui rejoignent une faction au sommet de son Ère croient avoir choisi un destin facile — et beaucoup ne survivent pas, intérieurement, au moment où l'Ère bascule. Ceux qui ont rejoint une faction au creux de sa vague, et l'ont défendue quand il n'y avait rien à y gagner, en deviennent les Piliers quand l'Ère revient à elle. Cette **patience** est une vertu politique éminente. Elle distingue les opportunistes des fidèles.
 
-Plus rare encore, le **Souffle Cardinal** peut dissoudre une faction ou en faire émerger une nouvelle. Aucune faction d'Hybelior ne se croit éternelle. Toutes savent qu'à très longue échelle, elles peuvent disparaître, fusionner, renaître sous un autre nom. Elles savent qu'elles **respirent**.
-
-Pour la cosmologie complète, voir [[Le Souffle]] et [[Les Ères]].
+Plus rare encore, un Souffle Cardinal peut dissoudre une faction ou en faire émerger une nouvelle. Aucune faction d'Hybelior ne se croit éternelle. Toutes savent qu'à très longue échelle, elles peuvent disparaître, fusionner, renaître sous un autre nom. Elles savent qu'elles **respirent**.
 
 ---
 
@@ -121,7 +117,7 @@ Une faction, à Hybelior, est plus qu'une bande d'alliés. Elle est une **pensé
 
 > *« On me demande pourquoi je suis encore Pilier de Trinoria, à mon âge, alors que tant d'amis sont passés à autre chose. Je réponds : parce que je suis Trinorien. Ce n'est pas un titre. C'est ma manière d'être au monde. Quand je serai mort, c'est ce qu'on dira de moi avant tout. Et c'est suffisant. »*
 >
-> *— Maître Olran Vesc, Pilier de Trinoria, à 91 ans*
+> *— Maître Olran Vesc, Pilier de Trinoria, à un âge avancé*
 
 ---
 

@@ -35,7 +35,7 @@ needs_review_for: [perception-intentions-mécanique, forme-rituelle-cible, dialo
 
 > Archétype canonique du **gardien polymorphe spirituel** d'Hybelior. Pose le pattern **Polymorphe + Sapient** (lié à Spiritus), distinct du [[Métamorphe]] (prédateur sauvage Apprenant). L'Esprit ne **chasse pas** — il **juge**. Il prend la forme attendue par l'observateur (rite d'initiation, défi spirituel, archétype culturel). Premier vrai combat de **dialogue + jugement** du bestiaire.
 >
-> Voir [[Bestiaire - Index]] · [[Métamorphe]] · [[Spectre des Ères]] · [[Cosmologie]]
+> Voir [[Bestiary/Index]] · [[Métamorphe]] · [[Spectre des Ères]] · [[Cosmologie]]
 
 ---
 
@@ -239,7 +239,7 @@ L'Esprit **n'erre pas** — il **veille** son sanctuaire 24h/24. Il manifeste sa
 - **Mémoire longue** : reconnaît un joueur qui revient ; peut réviser jugement (positif si quête accomplie, négatif si trahison passée)
 - **Multi-joueur** : prend forme du joueur dominant, jugement collectif
 
-> [!note] Branche [[Comportements PNJ - Index]]
+> [!note] Branche [[NPC Behaviors/Index]]
 > Pattern canonique pour créatures **Sapient Solitaire Polymorphe Gardienne**. Hérité par : Esprits de Source, Avatars de Voie mineurs, Anges-juges (Phase 4).
 
 ---
@@ -300,4 +300,4 @@ L'Esprit **n'erre pas** — il **veille** son sanctuaire 24h/24. Il manifeste sa
 
 ---
 
-*Liens : [[Bestiaire - Index|← Index Bestiaire]] · [[Taxonomie des Créatures]] · [[Métamorphe]] · [[Spectre des Ères]] · [[Élémentaire de feu]] · [[Cosmologie]] · [[Le Lien]] · [[L'Accord]] · [[Combat]]*
+*Liens : [[Bestiary/Index|← Index Bestiaire]] · [[Taxonomie des Créatures]] · [[Métamorphe]] · [[Spectre des Ères]] · [[Élémentaire de feu]] · [[Cosmologie]] · [[Le Lien]] · [[L'Accord]] · [[Combat]]*

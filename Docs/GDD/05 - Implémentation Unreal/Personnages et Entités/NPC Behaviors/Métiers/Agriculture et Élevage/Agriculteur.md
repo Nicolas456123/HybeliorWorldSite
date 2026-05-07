@@ -272,7 +272,7 @@ trigger:
 | **Galenor sud (greniers à blé)** | Paysan métayer (servage léger) ou propriétaire libre | ISTJ / ISFP, hub des doléances |
 | **Aerion (cultures venteuses)** | Paysanne-céréalière mobile, contacts caravaniers | ENFJ rare, voyageuse |
 | **Climata (cultures résistantes)** | Paysan du seigle et du chou, hivers durs | ISTJ taciturne, MBTI J fort |
-| **Cendara (terres rouges)** | Paysan des cendres, cultures spéciales (vignes volcaniques) | ISFP, fier, [[Cendara]] |
+| **Cendara (terres rouges)** | Paysan des cendres, cultures spéciales (vignes volcaniques) | ISFP, fier, [[Cendara - Continent|Cendara]] |
 | **Onara (terroirs sacrés)** | Paysanne-druidique [[Rota Mundi]], lit le ciel | INFJ, prophétique |
 
 **PNJ canoniques nommés** (cohérent fichier source §10) :
@@ -281,4 +281,4 @@ trigger:
 
 ---
 
-*Liens : [[Comportements PNJ - Index]] · [[Routine Quotidienne]] · [[Modes Sociaux]] · [[Actions Situationnelles]] · [[Concepts Fondamentaux IA PNJ]] · [[03 - Mécaniques/Métiers/Agriculture et Élevage/Agriculteur|Agriculteur (gameplay)]] · [[Meunier]] · [[Berger]] · [[Boulanger]] · [[Marchand]] · [[Botaniste]] · [[Rota Mundi]] · [[Les Ères]]*
+*Liens : [[NPC Behaviors/Index]] · [[Routine Quotidienne]] · [[Modes Sociaux]] · [[Actions Situationnelles]] · [[Concepts Fondamentaux IA PNJ]] · [[03 - Mécaniques/Métiers/Agriculture et Élevage/Agriculteur|Agriculteur (gameplay)]] · [[Meunier]] · [[Berger]] · [[Boulanger]] · [[Marchand]] · [[Botaniste]] · [[Rota Mundi]] · [[Les Ères]]*

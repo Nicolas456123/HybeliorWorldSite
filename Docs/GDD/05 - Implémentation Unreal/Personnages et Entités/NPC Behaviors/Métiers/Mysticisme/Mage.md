@@ -231,4 +231,4 @@ Cascade priorité : Crise > Religieux (sabbat strict si Lié) > Deuil > Marchand
 
 ---
 
-*Liens : [[Comportements PNJ - Index|← Index]] · [[Routine Quotidienne]] · [[Modes Sociaux]] · [[Concepts Fondamentaux IA PNJ]] · [[Actions Situationnelles]] · [[03 - Mécaniques/Métiers/Mysticisme/Mage|Mage (archétype joueur)]] · [[Le Lien]] · [[Cosmologie]] · [[Lore/Religions/00 - Système Religieux|Système Religieux]] · [[Tome]] · [[Anneau]]*
+*Liens : [[NPC Behaviors/Index|← Index]] · [[Routine Quotidienne]] · [[Modes Sociaux]] · [[Concepts Fondamentaux IA PNJ]] · [[Actions Situationnelles]] · [[03 - Mécaniques/Métiers/Mysticisme/Mage|Mage (archétype joueur)]] · [[Le Lien]] · [[Cosmologie]] · [[Lore/Religions/00 - Système Religieux|Système Religieux]] · [[Tome]] · [[Anneau]]*

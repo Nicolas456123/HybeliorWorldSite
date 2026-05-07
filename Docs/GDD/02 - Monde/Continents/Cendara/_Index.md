@@ -14,7 +14,7 @@ needs_review_for: []
 
 ---
 
-## 01 — L'âme de Cendara
+## L'âme de Cendara
 
 D'autres continents se racontent par leurs fleuves, leurs cathédrales, ou les traités qu'on y a signés. Cendara, elle, se raconte par sa **respiration souterraine**. Sous les villages, sous les forges, sous les pas des enfants qui jouent dans la cendre tiède, le **Mont Cendra** pulse — non comme un cœur paisible, mais comme une bête qui dort en gardant un œil ouvert. Cette pulsation n'est pas une métaphore : les Cendariens la sentent dans la plante des pieds, dans le tremblement des coupes, dans la manière dont leurs murs craquent la nuit.
 
@@ -30,7 +30,7 @@ De cette double vérité naît la **gravité particulière** des Cendariens. Pas
 
 ---
 
-## 02 — La géographie comme caractère
+## La géographie comme caractère
 
 Cendara n'est pas une terre : c'est un **archipel**, et cette pluralité géologique sépare ses peuples mieux qu'aucune doctrine ne saurait le faire.
 
@@ -46,7 +46,7 @@ Au large, plus loin encore, **Ilnara** — petite île tropicale recouverte de f
 
 ---
 
-## 03 — Les peuples du feu
+## Les peuples du feu
 
 L'archipel se partage entre trois nations qui se ressemblent assez pour partager un panthéon, et diffèrent assez pour ne jamais s'entendre tout à fait sur ce qu'il signifie.
 
@@ -64,7 +64,7 @@ Cette diversité façonne les corps. Le Cendarien royal a la **flamme aux yeux**
 
 ---
 
-## 04 — Religions et croyances
+## Religions et croyances
 
 Une seule religion gouverne officiellement Cendara : l'**Ignis Aeternum**, le feu éternel. Mais cette unité de surface masque un dissentiment de fond. Les Cendariens partagent le même panthéon — la déesse créatrice de la flamme, les Phénix qui en sont les passeurs, les Refondeurs qui veillent sur les sanctuaires — sans s'accorder sur ce que cette flamme *demande*.
 
@@ -112,14 +112,14 @@ Telle est Cendara : une terre prospère qui doute en silence, une religion magni
 
 ---
 
-## 05 — Repères techniques
+## Repères
 
 **Type** : continent insulaire (archipel volcanique).
 **Surnoms** : *L'Île de Feu et de Cendres* (canonique) ; *L'Archipel de Feu* (continental) ; *l'Archipel de cendre froide* (lecture arkhenienne).
-**Composition géographique** : trois ensembles — Grande Île (Cendara-Royaume + Pyrevane), Arkhen (Aïkhar + Archipel des Tessons), Ilnara.
+**Composition géographique** : trois ensembles — Grande Île (Cendara-Royaume et Pyrevane), Arkhen (Aïkhar et Archipel des Tessons), Ilnara.
 **Élément central** : Mont Cendra (volcan-roi, cône tronqué, pulsation continue).
-**Religion dominante** : Ignis Aeternum (quatre lectures concurrentes : royale, liturgique, des Délies, syncrétique d'Ilnara).
-**Lignée principale** : *(voir [[Lignees]])*
+**Religion dominante** : Ignis Aeternum (lectures concurrentes : royale, liturgique, des Délies, syncrétique d'Ilnara).
+**Lignée principale** : Kharavasts — *la flamme qui ne meurt pas* (voir [[Lignées]])
 **Climat philosophique** : Loi eschatologique — *Espérance Vide datée et matérialisée* (cf. fiche Lore détaillée).
 
 ### Nations du continent
@@ -155,4 +155,4 @@ Telle est Cendara : une terre prospère qui doute en silence, une religion magni
 
 *Récit narratif détaillé : voir `Lore/Pays/Cendara/`*
 
-*Liens : [[Continents/Index|Tous les continents]] | [[Géographie]] | [[02 - Monde/Index|02 - Monde]] | [[Lignees]]*
+*Liens : [[Continents/Index|Tous les continents]] | [[Géographie]] | [[02 - Monde/Index|02 - Monde]] | [[Lignées]]*

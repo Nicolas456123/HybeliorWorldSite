@@ -36,4 +36,4 @@ Forêt, marais, caverne, plaine boisée, jungle, eau douce, océan profond, mont
 
 ---
 
-*Liens : [[Espèces/_Index|← Espèces]] · [[Bestiaire - Index]]*
+*Liens : [[Espèces/_Index|← Espèces]] · [[Bestiary/Index]]*

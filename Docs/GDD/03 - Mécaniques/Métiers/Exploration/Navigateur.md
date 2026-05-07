@@ -32,10 +32,10 @@ needs_review_for: [navigation-aérienne-Phase-4]
 
 Le **Navigateur** est l'**orienteur des grandes étendues**. Il pilote (ou seconde le pilote / capitaine) des **bateaux** sur mers, océans, fleuves, lacs ; il **trace la route**, **lit les étoiles**, **calcule la dérive**, **anticipe les courants et les vents**. Métier d'**astronomie pratique** — voir [[Astronome]], métier sœur, plus théorique. Le Navigateur calcule, l'Astronome prédit ; le Navigateur agit, l'Astronome conseille.
 
-Hybelior, monde insulaire et continental, dépend lourdement de la navigation maritime : 13 continents, **archipels** ([[Cendara]], [[Ulinor]]), **mers intérieures**, **routes commerciales** entre **Solena** ("Âge des Grandes Explorations"), **Tyndara** ("Ligue des Marchands"), **Haldria** ("Navigation astrale — Traversée des Brumes"). Sans Navigateur compétent, pas de commerce inter-continental, pas d'expédition océanique, pas de découverte des **Cités des Anciens** englouties d'[[Azoria]].
+Hybelior, monde insulaire et continental, dépend lourdement de la navigation maritime : 13 continents, **archipels** ([[Cendara - Continent|Cendara]], [[Ulinor - Continent|Ulinor]]), **mers intérieures**, **routes commerciales** entre **Solena** ("Âge des Grandes Explorations"), **Tyndara** ("Ligue des Marchands"), **Haldria** ("Navigation astrale — Traversée des Brumes"). Sans Navigateur compétent, pas de commerce inter-continental, pas d'expédition océanique, pas de découverte des **Cités des Anciens** englouties d'[[Azoria - Continent|Azoria]].
 
 > [!note] Navigation aérienne (Phase 4)
-> Le frontmatter prévoit l'extension future à la **navigation aérienne** : pilotage de **dirigeables** (cf. [[Exploration]] §Locomotion §Dirigeable), de **montures aériennes** (Aerion / [[Onara]]), et potentiellement d'**îles volantes** ([[Astravia]]). Cette branche s'ouvrira lorsque les ères et le contenu aérien seront pleinement intégrés. Pour l'instant, l'archétype reste **maritime-dominant**.
+> Le frontmatter prévoit l'extension future à la **navigation aérienne** : pilotage de **dirigeables** (cf. [[Exploration]] §Locomotion §Dirigeable), de **montures aériennes** (Aerion / [[Onara - Continent|Onara]]), et potentiellement d'**îles volantes** ([[Astravia]]). Cette branche s'ouvrira lorsque les ères et le contenu aérien seront pleinement intégrés. Pour l'instant, l'archétype reste **maritime-dominant**.
 
 Distinct du [[Pêcheur]] (qui exploite la mer mais ne la traverse pas longuement). Distinct de l'[[Explorateur]] (qui ouvre la zone à pied — branche cousine, échanges techniques d'orientation). Distinct du [[Cartographe]] (synthèse documentaire — le Navigateur est producteur de relevés maritimes pour le Cartographe, qui les traduit en **cartes des mers**).
 
@@ -100,7 +100,7 @@ Distinct du [[Pêcheur]] (qui exploite la mer mais ne la traverse pas longuement
 | **Initié** | Navigation hauturière courte (24-72h hors de vue), instruments basiques, erreur ~12% |
 | **Adepte** | Traversée régionale (1-2 semaines de mer), navigation astronomique, lecture des courants |
 | **Expert** | Traversée transcontinentale, navigation par tempête, **première mondiale** sur route inconnue |
-| **Maître** | **Condition cachée 🔒** — Traversée des **Brumes de Haldria**, navigation par "instinct cosmique" (post-[[Le Souffle]]), capacité à atteindre [[Azoria]] et [[Baelor]], **Phase 4** : navigation aérienne avancée |
+| **Maître** | **Condition cachée 🔒** — Traversée des **Brumes de Haldria**, navigation par "instinct cosmique" (post-[[Le Souffle]]), capacité à atteindre [[Azoria - Continent|Azoria]] et [[Baelor - Continent|Baelor]], **Phase 4** : navigation aérienne avancée |
 
 > Décroissance : voir [[Armes et Maîtrise]]. Rouille post-[[Le Souffle]] 1 semaine, −15% précision et lecture instruments.
 
@@ -114,7 +114,7 @@ Distinct du [[Pêcheur]] (qui exploite la mer mais ne la traverse pas longuement
 | **Initié** | Traversée d'un détroit · Pilotage caboteur · Cargaison régionale |
 | **Adepte** | Traversée d'une mer intérieure · Première carte de courants régionale · Convoi commercial international |
 | **Expert** | Traversée transcontinentale (Solena → Tyndara) · Découverte d'une île non-cartée · Pilotage de tempête |
-| **Maître** | Traversée des Brumes ([[Haldria]]) · Atteinte de [[Baelor]] · Navigation cosmique post-Souffle · *(Phase 4)* Pilotage de dirigeable transcontinental |
+| **Maître** | Traversée des Brumes ([[Haldria]]) · Atteinte de [[Baelor - Continent|Baelor]] · Navigation cosmique post-Souffle · *(Phase 4)* Pilotage de dirigeable transcontinental |
 
 → Routes individuelles : Phase 2.
 
@@ -139,7 +139,7 @@ Distinct du [[Pêcheur]] (qui exploite la mer mais ne la traverse pas longuement
 | **Ère [[Les Ères\|Sommeil de Glace]] (Climata)** | Routes nordiques bloquées par les glaces, ouverture de routes spéciales |
 | **Ère [[Les Ères\|Brume Mortelle]]** | Brouillards permanents, navigation à l'instinct, danger accru |
 | **Post-[[Le Souffle]]** | Routes maritimes altérées (courants modifiés, îles déplacées) — pic d'activité |
-| **[[L'Accord]] ≥ 75%** | Navigation cosmique débloquée (atteindre [[Baelor]], [[Azoria]]) |
+| **[[L'Accord]] ≥ 75%** | Navigation cosmique débloquée (atteindre [[Baelor - Continent|Baelor]], [[Azoria - Continent|Azoria]]) |
 | **Religion [[Rota Mundi]]** | Calage cyclique (équinoxes, marées) maîtrisé |
 | **Phénomène météo extrême** ([[Exploration]]) | Risque mortel, mais opportunité de raccourci ou découverte |
 | **Migration de créatures marines** | Risque (krakens, léviathans) ou ressource (suivre la migration) |
@@ -195,7 +195,7 @@ Navigateur ─→ [[Cartographe]] (Cartes maritimes)
 - **Le pilote de dirigeable** *(Phase 4)* — moderne, instruments avancés
 
 **PNJ célèbres** *(Phase 4)* :
-- *Captaine Aldros de Solena* — premier à avoir navigué jusqu'à [[Azoria]]
+- *Captaine Aldros de Solena* — premier à avoir navigué jusqu'à [[Azoria - Continent|Azoria]]
 - *Mère Veska* — Tyndara, Ligue des Marchands, route commerciale Tyndara-Galenor
 - *Frère Ioran* — Haldria, traversée rituelle des Brumes
 

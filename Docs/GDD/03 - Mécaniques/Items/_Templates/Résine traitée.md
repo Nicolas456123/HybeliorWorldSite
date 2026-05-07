@@ -156,4 +156,4 @@ sortie: Résine magistrale × 1 cruche (T4) — base d'encens magique focus
 
 ---
 
-*Liens : [[Items - Index|← Index Items]] · [[Sources de Ressources]] · [[Crafts]] · [[Métiers]] · [[Cire raffinée]] · [[Émulsion alchimique]] · [[Parchemin]] · [[Planche]] · [[Arc]]*
+*Liens : [[Items/Index|← Index Items]] · [[Sources de Ressources]] · [[Crafts]] · [[Métiers]] · [[Cire raffinée]] · [[Émulsion alchimique]] · [[Parchemin]] · [[Planche]] · [[Arc]]*

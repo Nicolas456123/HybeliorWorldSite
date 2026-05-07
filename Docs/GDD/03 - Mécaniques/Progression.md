@@ -85,19 +85,11 @@ L'Identité ne se mesure pas. Elle se **constate**. Et elle est la seule progres
 
 ## Cinq couches, cinq souffles
 
-Chaque couche réagit différemment à la respiration du monde — et c'est cette **différence** qui rend la progression d'Hybelior fidèle à l'expérience.
+Chaque couche réagit différemment à la respiration du monde — et c'est cette **différence** qui rend la progression d'Hybelior fidèle à l'expérience. La chair brute se *compresse*, la Maîtrise se *rouille* brièvement, l'Accord *dérive* lentement, l'Héritage ne bouge pas, l'Identité traverse même les Parties.
 
-La **chair brute** se compresse. Ce qui dépasse un certain seuil redescend un peu ; le bas reste intact. Non par effacement, par **rééquilibrage** — promesse tenue d'un monde qui ne laisse pas l'écart se figer.
+Pour la mécanique précise de chacun de ces gestes — compression, rouille, dérive — voir [[Le Souffle]], qui en pose la philosophie générale, et les pages canoniques [[Armes et Maîtrise]] et [[L'Accord]] qui en détaillent l'expérience par couche.
 
-La **Maîtrise** se **rouille** brièvement, le temps que le geste retrouve sa nouvelle musique. Quelques jours. Une étrangeté familière, vite dissipée par la pratique.
-
-L'**Accord** **dérive** — selon que la nouvelle Ère ressemble à l'ancienne ou s'en éloigne, il glisse sur quelques jours ou semaines vers sa nouvelle valeur naturelle. Le monde laisse le temps de comprendre ce qui a changé.
-
-L'**Héritage** ne bouge pas. Aucun Souffle ne touche un titre gagné, une œuvre signée, un monument érigé. *Ce qui est mémoire reste.*
-
-L'**Identité**, enfin, traverse même les Parties. Rien de ce qui fait de toi *toi* dans la mémoire des autres ne disparaît jamais.
-
-Cette gradation est la **philosophie centrale** d'Hybelior : *plus une chose est mémoire, plus elle est sacrée. Plus elle est puissance brute, plus elle se rejoue.* Pour la respiration du monde elle-même, voir **[[Le Souffle]]**.
+Cette gradation est la **philosophie centrale** d'Hybelior : *plus une chose est mémoire, plus elle est sacrée. Plus elle est puissance brute, plus elle se rejoue.*
 
 > *« Ne demande pas à un homme à quel niveau il est. Demande-lui sur quel fil il avance, et de quel pas. »*
 >

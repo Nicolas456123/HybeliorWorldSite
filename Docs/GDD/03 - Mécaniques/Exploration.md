@@ -81,9 +81,7 @@ Ces trois langues **se croisent**. Une orientation stellaire désigne une ruine 
 
 ## Voyager au rythme du monde
 
-L'exploration n'est jamais la même deux Ères de suite. Elle prend la couleur de l'Ère active. En Ère du **Verdoiement**, les forêts gonflent, les chemins se verdissent, les bêtes pacifiées laissent passer ; voyager devient presque pastoral. En Ère de la **Brume Mortelle**, les mêmes forêts deviennent des pièges où l'œil se trompe et les sons mentent ; voyager devient survie. En Ère des **Vents Bouleversants**, les migrations ouvrent et ferment des passages, le ciel charrie des oiseaux qu'on ne voit pas dix ans sur dix.
-
-Cette respiration colore l'exploration de bout en bout. Ce qui était facile la saison passée peut être inaccessible aujourd'hui. Les voyageurs expérimentés ne planifient jamais une expédition sans demander d'abord *quelle Ère est en cours*, et **quelle Ère menace**. Voir [[Le Souffle]] et [[Les Ères]].
+L'exploration n'est jamais la même deux Ères de suite — elle prend la couleur de l'Ère active, telle que [[Les Ères]] la décrivent. Un Verdoiement rend le voyage presque pastoral ; une Brume Mortelle en fait une survie ; des Vents Bouleversants ouvrent et ferment des passages que personne n'avait vus depuis dix ans. Ce qui était facile la saison passée peut être inaccessible aujourd'hui. Les voyageurs expérimentés ne planifient jamais une expédition sans demander d'abord *quelle Ère est en cours*, et **quelle Ère menace** (voir [[Le Souffle]] pour la cinétique).
 
 > *« On ne traverse pas Cestra en Ère du Crépuscule comme on la traverse en Ère du Sommeil de Glace. La carte est la même. Le monde, non. »*
 >

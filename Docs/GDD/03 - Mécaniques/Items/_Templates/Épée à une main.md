@@ -16,7 +16,7 @@ needs_review_for: [calibration-chiffres-playtest, conditions-cachées-Maître, s
 
 # ⚔️ Épée à une main — Archétype-référence
 
-> Premier archétype d'arme livré dans la *Descente des couches concept→artefacts*. Pose les **patterns canoniques** des armes mêlée 1H et — par extension — la grille tier/affixes/recettes que les autres archétypes d'arme suivront. Voir [[Items - Index|Items]] · [[Catégories d'Items]] · [[Types d'Items]] · [[Armes et Maîtrise]] · [[Combat]].
+> Premier archétype d'arme livré dans la *Descente des couches concept→artefacts*. Pose les **patterns canoniques** des armes mêlée 1H et — par extension — la grille tier/affixes/recettes que les autres archétypes d'arme suivront. Voir [[Items/Index|Items]] · [[Catégories d'Items]] · [[Types d'Items]] · [[Armes et Maîtrise]] · [[Combat]].
 
 ---
 
@@ -265,7 +265,7 @@ intrants:
   - Alliage légendaire × 3 (ex. acier + alliage cosmique de l'ère active)
   - Lingot précieux × 2
   - Planche cosmique × 1   # bois d'ère, voir variants
-  - Cœur de creature × 2 (créature haut tier, voir [[Bestiaire - Index]] Phase 4)
+  - Cœur de creature × 2 (créature haut tier, voir [[Bestiary/Index]] Phase 4)
   - Gemme taillé × 2 (l'une = Cristal de Voie)
   - Essence spirituelle × 1
 durée: 1800 s (30 min) — réparti sur plusieurs sessions possibles
@@ -454,10 +454,10 @@ sortie: Épée mythique signée — devient Héritage permanent ([[L'Accord]] §
 
 ### Cross-références à venir
 
-- [[Bestiaire - Index]] (Phase 4) : créatures qui drop *Cœur de creature* / *Essence spirituelle* haut tier pour recettes T4-T6
+- [[Bestiary/Index]] (Phase 4) : créatures qui drop *Cœur de creature* / *Essence spirituelle* haut tier pour recettes T4-T6
 - [[Métiers]] : Forgeron + Armurier (Phase 2 séparée) pour mini-jeux de précision
 - [[Architecture Data-Driven]] : Recipe Generator + ItemModifier Generator paramétreront les variations de cette base
 
 ---
 
-*Liens : [[Items - Index|← Index Items]] · [[Catégories d'Items]] · [[Types d'Items]] · [[Sources de Ressources]] · [[Crafts]] · [[Armes et Maîtrise]] · [[Combat]] · [[Personnage]] · [[L'Accord]] · [[Le Souffle]] · [[Les Ères]] · [[Économie]] · [[Arc]]*
+*Liens : [[Items/Index|← Index Items]] · [[Catégories d'Items]] · [[Types d'Items]] · [[Sources de Ressources]] · [[Crafts]] · [[Armes et Maîtrise]] · [[Combat]] · [[Personnage]] · [[L'Accord]] · [[Le Souffle]] · [[Les Ères]] · [[Économie]] · [[Arc]]*

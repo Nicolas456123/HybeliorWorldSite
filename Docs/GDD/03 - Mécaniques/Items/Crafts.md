@@ -61,7 +61,7 @@ status: drafted
 | **Stations** | Four à fondre · Forge à charbon · Enclume · Bac à trempe · Étau |
 | **Intrants typiques** | Minerai · Lingot · Alliage · Charbon · Bois (manche) · Cuir (poignée) |
 | **Sorties typiques** | Lingots · Alliages · Armes mêlée · Armures (mailles, plate) · Outils métalliques · Bijoux métalliques |
-| **Mini-jeu** | Timing température (forgeron — voir [[Métiers - Forgeron]]) · Précision frappe enclume |
+| **Mini-jeu** | Timing température (forgeron — voir [[Forgeron]]) · Précision frappe enclume |
 
 ### 2. Alchimie (transformation chimique / magique)
 
@@ -153,7 +153,7 @@ Les **stations** sont les lieux/outils physiques requis. Une même station peut 
 
 | Station | Métiers concernés | Notes |
 |---------|------------------|-------|
-| **Forge** *(four+enclume+trempe)* | Forgeron, Armurier, Outils-fabricant | Station triplette — voir [[Métiers - Forgeron]] |
+| **Forge** *(four+enclume+trempe)* | Forgeron, Armurier, Outils-fabricant | Station triplette — voir [[Forgeron]] |
 | **Alambic / Cornue** | Alchimiste, Distillateur, Apothicaire | Station haute température + condensation |
 | **Mortier et pilon** | Apothicaire, Alchimiste, Cuisinier | Station de broyage portable |
 | **Four à pain** | Boulanger, Pâtissier, Cuisinier | Station haute température sèche |
@@ -236,4 +236,4 @@ Ordre suggéré pour produire le catalogue de recettes :
 
 ---
 
-*Liens : [[Items - Index|← Index Items]] · [[Catégories d'Items]] · [[Types d'Items]] · [[Sources de Ressources]] · [[Métiers]] · [[Architecture Data-Driven]] · [[Armes et Maîtrise]] · [[Les Ères]]*
+*Liens : [[Items/Index|← Index Items]] · [[Catégories d'Items]] · [[Types d'Items]] · [[Sources de Ressources]] · [[Métiers]] · [[Architecture Data-Driven]] · [[Armes et Maîtrise]] · [[Les Ères]]*

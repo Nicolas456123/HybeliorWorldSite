@@ -173,4 +173,4 @@ Modulateurs :
 
 ---
 
-*Liens : [[Comportements PNJ - Index|← Index]] · [[Concepts Fondamentaux IA PNJ]] · [[Actions Situationnelles]] · [[Architecte]] (archétype joueur) · [[Maçon]] · [[Charpentier]] · [[Tailleur de pierre]] · [[Verrier]] · [[Lapidaire]] · [[Forgeron]] · [[Sculpteur]]*
+*Liens : [[NPC Behaviors/Index|← Index]] · [[Concepts Fondamentaux IA PNJ]] · [[Actions Situationnelles]] · [[Architecte]] (archétype joueur) · [[Maçon]] · [[Charpentier]] · [[Tailleur de pierre]] · [[Verrier]] · [[Lapidaire]] · [[Forgeron]] · [[Sculpteur]]*

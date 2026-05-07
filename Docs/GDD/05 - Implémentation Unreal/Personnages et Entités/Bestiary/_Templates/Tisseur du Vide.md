@@ -35,7 +35,7 @@ needs_review_for: [vide-élément-canonique, géométrie-hostile-mécanique, map
 
 > Archétype canonique du **fractal hostile planaire** d'Hybelior — l'inversion du [[Cristal vivant]] (sédentaire / Aetheron / Terre) en **mobile / Vide / Vortex**. Boss/Avatar régional ou continental. Pose le pattern **mathématique pure** : créature dont le combat est régi par des règles géométriques que le joueur doit décoder. Affinité **Vortex** + **Etherius** (proposition canonique — entité cosmique du Vide). Pattern complémentaire à [[Tentacule abyssal]] (Vide aussi, mais Tentaculaire) et [[Cristal vivant]] (Fractal aussi, mais Hivemind/Terre).
 >
-> Voir [[Bestiaire - Index]] · [[Cristal vivant]] · [[Tentacule abyssal]] · [[Spectre des Ères]] · [[Cosmologie]]
+> Voir [[Bestiary/Index]] · [[Cristal vivant]] · [[Tentacule abyssal]] · [[Spectre des Ères]] · [[Cosmologie]]
 
 ---
 
@@ -282,7 +282,7 @@ Le Tisseur **n'erre pas** — il **se manifeste** :
 - **Pas de poursuite** au-delà de 100 m de la Brèche / point d'apparition (drainage tue)
 - **Pas de jour/nuit** : actif H24 quand manifesté
 
-> [!note] Branche [[Comportements PNJ - Index]]
+> [!note] Branche [[NPC Behaviors/Index]]
 > Pattern canonique pour créatures **Sapient Solitaire Fractale Planaire Hostile**. Hérité par : Avatars cosmiques du Vide, Mathématiciens du Néant, Géomètres-Liés (Phase 4).
 
 ---
@@ -345,4 +345,4 @@ Le Tisseur **n'erre pas** — il **se manifeste** :
 
 ---
 
-*Liens : [[Bestiaire - Index|← Index Bestiaire]] · [[Taxonomie des Créatures]] · [[Cristal vivant]] · [[Tentacule abyssal]] · [[Spectre des Ères]] · [[Élémentaire de feu]] · [[Cosmologie]] · [[Le Lien]] · [[Combat]] · [[Sources de Ressources]]*
+*Liens : [[Bestiary/Index|← Index Bestiaire]] · [[Taxonomie des Créatures]] · [[Cristal vivant]] · [[Tentacule abyssal]] · [[Spectre des Ères]] · [[Élémentaire de feu]] · [[Cosmologie]] · [[Le Lien]] · [[Combat]] · [[Sources de Ressources]]*

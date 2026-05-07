@@ -166,4 +166,4 @@ ISTJ/ISTP S/T : peu de spéculation, "le cuir est cuir, on tanne pareil."
 
 ---
 
-*Liens : [[Comportements PNJ - Index|← Index]] · [[Concepts Fondamentaux IA PNJ]] · [[Actions Situationnelles]] · [[Tanneur]] (archétype joueur) · [[Boucher]] · [[Cordonnier]] · [[Forgeron]] · [[Tailleur]]*
+*Liens : [[NPC Behaviors/Index|← Index]] · [[Concepts Fondamentaux IA PNJ]] · [[Actions Situationnelles]] · [[Tanneur]] (archétype joueur) · [[Boucher]] · [[Cordonnier]] · [[Forgeron]] · [[Tailleur]]*

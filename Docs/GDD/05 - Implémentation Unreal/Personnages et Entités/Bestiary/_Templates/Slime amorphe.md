@@ -35,7 +35,7 @@ needs_review_for: [division-mort-mécanique, slime-pédagogie-arme]
 
 > Archétype canonique de la **forme Amorphe pure** (sans élément intrinsèque) d'Hybelior. Pattern pour slimes, vases, pulpes, gélatines vivantes. **Pose le pattern Amorphe de base** complémentaire à [[Élémentaire de feu]] (Amorphe + élément) — le Slime est **Amorphe pur**.
 >
-> Voir [[Bestiaire - Index]] · [[Élémentaire de feu]] · [[Tentacule abyssal]]
+> Voir [[Bestiary/Index]] · [[Élémentaire de feu]] · [[Tentacule abyssal]]
 
 ---
 
@@ -225,4 +225,4 @@ Voir §3. HP base 110 (CR 2). **Pas de Stamina, pas de Mana** — pure créature
 
 ---
 
-*Liens : [[Bestiaire - Index|← Index Bestiaire]] · [[Élémentaire de feu]] · [[Tentacule abyssal]] · [[Combat]] · [[Sources de Ressources]] · [[Les Ères]]*
+*Liens : [[Bestiary/Index|← Index Bestiaire]] · [[Élémentaire de feu]] · [[Tentacule abyssal]] · [[Combat]] · [[Sources de Ressources]] · [[Les Ères]]*

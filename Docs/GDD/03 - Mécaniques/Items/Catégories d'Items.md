@@ -171,4 +171,4 @@ Les ressources se subdivisent en **3 sources de production** — voir [[Sources 
 
 ---
 
-*Liens : [[Items - Index|← Index Items]] · [[Types d'Items]] · [[Sources de Ressources]] · [[Économie]] · [[Métiers]] · [[Armes et Maîtrise]]*
+*Liens : [[Items/Index|← Index Items]] · [[Types d'Items]] · [[Sources de Ressources]] · [[Économie]] · [[Métiers]] · [[Armes et Maîtrise]]*

@@ -134,4 +134,4 @@ Trois grandes natures :
 
 ---
 
-*Liens : [[Sources de Ressources]] · [[Crafts]] · [[Cœur de creature]] · [[Sang]] · [[Sécrétion]] · [[Élémentaire de feu]] · [[Dragon nain]] · [[Spectre des Ères]] · [[Tentacule abyssal]] · [[Bestiaire - Index]]*
+*Liens : [[Sources de Ressources]] · [[Crafts]] · [[Cœur de creature]] · [[Sang]] · [[Sécrétion]] · [[Élémentaire de feu]] · [[Dragon nain]] · [[Spectre des Ères]] · [[Tentacule abyssal]] · [[Bestiary/Index]]*

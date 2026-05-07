@@ -116,7 +116,7 @@ Distinct du [[Chasseur de trésors]] (qui fouille avec contexte historique, cibl
 - **Progression** : équipier sur front de taille, puis chef d'équipe, puis exploitant indépendant
 - **Établissement** : la mine est l'**emplacement géographique** clé. Le mineur s'enracine. Beaucoup d'exploitants familiaux. Souvent lié à un **seigneur** (mine seigneuriale, [[Myrtam]] : "Acier Éternel") ou à une **guilde** ([[Altram]] : tradition métallurgique)
 - **Réseau** : [[Forgeron]] (client #1 — minerai → lingot), [[Bijoutier]] / [[Lapidaire]] (gemmes brutes), [[Maçon]] (pierre), [[Verrier]] (sable et minerai sablonneux), [[Apothicaire]] (poudres), [[Marchand]] (export)
-- **Faction** : Guildes minières ([[Altram]], [[Myrtam]], [[Cestra]]), Compagnies métallurgistes, Confréries des Profondeurs ([[Celethor\|Thalendil]] — forteresses souterraines)
+- **Faction** : Guildes minières ([[Altram]], [[Myrtam]], [[Cestra - Continent|Cestra]]), Compagnies métallurgistes, Confréries des Profondeurs ([[Celethor - Continent\|Thalendil]] — forteresses souterraines)
 - **Note** : pivot d'inflation. Un afflux soudain d'Éclats par un Maître peut **dérégler une économie locale**. Surveillance des autorités.
 
 ---
@@ -133,8 +133,8 @@ Distinct du [[Chasseur de trésors]] (qui fouille avec contexte historique, cibl
 | **[[L'Accord]] ≥ 75%** | Veines Cosmiques détectables (Maître seul) |
 | **Religion [[Veritas]]** | Mines bénies (rituels d'entrée, baisse des accidents) |
 | **Continent [[Myrtam]]** | Tradition de l'Acier Éternel, recettes exclusives |
-| **Continent [[Cendara]]** | Volcanique — soufre, obsidienne, pierres de feu |
-| **Continent [[Azoria]]** | Mines des Anciens (Maître + équipe) |
+| **Continent [[Cendara - Continent|Cendara]]** | Volcanique — soufre, obsidienne, pierres de feu |
+| **Continent [[Azoria - Continent|Azoria]]** | Mines des Anciens (Maître + équipe) |
 
 ---
 
@@ -193,7 +193,7 @@ Mineur ─→ [[Forgeron]] / [[Métallurgiste]] (Lingots) ─→ Armes, Armures,
 **PNJ célèbres** *(Phase 4)* :
 - *Maître Vorgrim de [[Myrtam]]* — forge de l'Acier Éternel, signature millénaire
 - *Mère Kadrina d'[[Altram]]* — première Maître à extraire une Veine Cosmique post-Souffle
-- *Le Vieux Vorth* — [[Cestra]], "celui qui a survécu à trois effondrements"
+- *Le Vieux Vorth* — [[Cestra - Continent|Cestra]], "celui qui a survécu à trois effondrements"
 
 ---
 

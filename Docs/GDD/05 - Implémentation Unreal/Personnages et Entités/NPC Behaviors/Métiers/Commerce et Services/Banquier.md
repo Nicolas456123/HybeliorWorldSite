@@ -275,4 +275,4 @@ trigger:
 
 ---
 
-*Liens : [[Comportements PNJ - Index]] · [[Routine Quotidienne]] · [[Modes Sociaux]] · [[Actions Situationnelles]] · [[Concepts Fondamentaux IA PNJ]] · [[03 - Mécaniques/Métiers/Commerce et Services/Banquier|Banquier (gameplay)]] · [[Marchand]] · [[Scribe]] · [[Juge]] · [[Conseiller]] · [[Tavernier]] · [[Foedus Animae]]*
+*Liens : [[NPC Behaviors/Index]] · [[Routine Quotidienne]] · [[Modes Sociaux]] · [[Actions Situationnelles]] · [[Concepts Fondamentaux IA PNJ]] · [[03 - Mécaniques/Métiers/Commerce et Services/Banquier|Banquier (gameplay)]] · [[Marchand]] · [[Scribe]] · [[Juge]] · [[Conseiller]] · [[Tavernier]] · [[Foedus Animae]]*

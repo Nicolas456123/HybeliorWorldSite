@@ -140,4 +140,4 @@ Modulateurs :
 
 ---
 
-*Liens : [[Comportements PNJ - Index|← Index]] · [[Concepts Fondamentaux IA PNJ]] · [[Actions Situationnelles]] · [[Cordonnier]] (archétype joueur) · [[Tanneur]] · [[Forgeron]] · [[Bottes]]*
+*Liens : [[NPC Behaviors/Index|← Index]] · [[Concepts Fondamentaux IA PNJ]] · [[Actions Situationnelles]] · [[Cordonnier]] (archétype joueur) · [[Tanneur]] · [[Forgeron]] · [[Bottes]]*

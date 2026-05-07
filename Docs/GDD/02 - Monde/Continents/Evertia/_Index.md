@@ -118,4 +118,4 @@ Evertia est, peut-être, l'avertissement le plus grave que le monde adresse à c
 
 *Récit narratif détaillé : voir `Lore/Pays/Evertia/` et `Lore/Histoires/Evertia/`*
 
-*Liens : [[Evertia/Evertia|Evertia (nation)]] | [[Evertia/Sylvara|Sylvara]] | [[Evertia/Thalmaris|Thalmaris]] | [[Continents/Index|Tous les continents]] | [[02 - Monde/Index|02 - Monde]] | [[Vael Kurash]] | [[Cantus Mundi]] | [[Lignees]]*
+*Liens : [[Evertia/Evertia|Evertia (nation)]] | [[Evertia/Sylvara|Sylvara]] | [[Evertia/Thalmaris|Thalmaris]] | [[Continents/Index|Tous les continents]] | [[02 - Monde/Index|02 - Monde]] | [[Vael Kurash]] | [[Cantus Mundi]] | [[Lignées]]*

@@ -269,4 +269,4 @@ Chaque archétype peut avoir jusqu'à **10 variants visuels** mappés sur les en
 
 ---
 
-*Liens : [[Bestiaire - Index|← Index Bestiaire]] · [[PNJ]] · [[Les Ères]] · [[Combat]] · [[Architecture Data-Driven]] · [[Sources de Ressources]]*
+*Liens : [[Bestiary/Index|← Index Bestiaire]] · [[PNJ]] · [[Les Ères]] · [[Combat]] · [[Architecture Data-Driven]] · [[Sources de Ressources]]*

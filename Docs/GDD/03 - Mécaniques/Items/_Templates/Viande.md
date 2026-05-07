@@ -253,4 +253,4 @@ La **viande** est récoltée par les [[Métiers|Chasseur]] et [[Métiers|Dépéc
 
 ---
 
-*Liens : [[Items - Index|← Index Items]] · [[Catégories d'Items]] · [[Sources de Ressources]] · [[Crafts]] · [[Métiers]] · [[Pain]] · [[Poisson]] · [[Fromage]]*
+*Liens : [[Items/Index|← Index Items]] · [[Catégories d'Items]] · [[Sources de Ressources]] · [[Crafts]] · [[Métiers]] · [[Pain]] · [[Poisson]] · [[Fromage]]*

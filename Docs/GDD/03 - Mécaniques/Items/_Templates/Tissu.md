@@ -161,4 +161,4 @@ sortie: Tissu de Soie de spectre × 2 m² (T5) — résonance Voie préservée
 
 ---
 
-*Liens : [[Items - Index|← Index Items]] · [[Sources de Ressources]] · [[Crafts]] · [[Métiers]] · [[Fil métallique]] · [[Pigment]] · [[Sceptre]] · [[Tome]] · [[Sac à dos]]*
+*Liens : [[Items/Index|← Index Items]] · [[Sources de Ressources]] · [[Crafts]] · [[Métiers]] · [[Fil métallique]] · [[Pigment]] · [[Sceptre]] · [[Tome]] · [[Sac à dos]]*

@@ -116,4 +116,4 @@ Triple usage canonique : **alchimie** (composant de base nombreuses potions), **
 
 ---
 
-*Liens : [[Items - Index|← Index Items]] · [[Catégories d'Items]] · [[Sources de Ressources]] · [[Crafts]] · [[Métiers]] · [[Les Ères]] · [[Bois]] · [[Écorce]] · [[Liquide]] · [[Miel]]*
+*Liens : [[Items/Index|← Index Items]] · [[Catégories d'Items]] · [[Sources de Ressources]] · [[Crafts]] · [[Métiers]] · [[Les Ères]] · [[Bois]] · [[Écorce]] · [[Liquide]] · [[Miel]]*

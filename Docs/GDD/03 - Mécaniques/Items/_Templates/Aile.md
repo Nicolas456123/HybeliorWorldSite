@@ -131,11 +131,11 @@ L'**Aile** se distingue de la [[Plume creature]] par son caractère **structurel
 ## 8. Décisions ouvertes
 
 - **Aile vs Plume creature** : Aile = structure entière, Plume = unité de revêtement. Drop séparé (un avienne donne **les deux**).
-- **Capes magiques** : faut-il un archétype distinct [[Cape magique]] (équipement) qui consomme Aile en intrant ? **Proposition** : oui, Phase 2 vague équipement non-armure.
+- **Capes magiques** : faut-il un archétype distinct [[Cape]] (équipement) qui consomme Aile en intrant ? **Proposition** : oui, Phase 2 vague équipement non-armure.
 - **Aile démoniaque** : sous-Maîtrise *Dépeçage démoniaque* à formaliser, palier 4+. Karma rouge possible si rituel.
 - **T6 Aile cosmique** : conditions 🔒 — Phase 4.
 - **Aile insectoïde** : très fragile, qualité chute facilement — limiter à T2-T4 ?
 
 ---
 
-*Liens : [[Sources de Ressources]] · [[Crafts]] · [[Plume creature]] · [[Patte]] · [[Queue]] · [[Aigle royal]] · [[Démon mineur]] · [[Dragon nain]] · [[Bestiaire - Index]]*
+*Liens : [[Sources de Ressources]] · [[Crafts]] · [[Plume creature]] · [[Patte]] · [[Queue]] · [[Aigle royal]] · [[Démon mineur]] · [[Dragon nain]] · [[Bestiary/Index]]*

@@ -126,4 +126,4 @@ Marqueur cosmologique fort : pays miniers (Altram et Myrtam en Alkaran, Elarian 
 
 ---
 
-*Liens : [[Items - Index|← Index Items]] · [[Catégories d'Items]] · [[Sources de Ressources]] · [[Crafts]] · [[Métiers]] · [[Les Ères]] · [[Pierre]] · [[Gemme brut]] · [[Poudre naturel]] · [[Cuirasse]]*
+*Liens : [[Items/Index|← Index Items]] · [[Catégories d'Items]] · [[Sources de Ressources]] · [[Crafts]] · [[Métiers]] · [[Les Ères]] · [[Pierre]] · [[Gemme brut]] · [[Poudre naturel]] · [[Cuirasse]]*

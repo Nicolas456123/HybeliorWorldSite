@@ -34,7 +34,7 @@ aliases: [Bestiaire - Index]
 - [[Sources de Ressources]] — les 25 ressources de récolte sur créature et leurs créatures sources
 - [[PNJ]] — les créatures intelligentes (Sapient cognitif) recoupent partiellement les PNJ
 - [[Combat]] — combat contre créatures (CR, attaques, IA combat)
-- [[Géographie]] · [[Lore/Pays/...]] — biomes et régions où chaque créature évolue
+- [[Géographie]] · `Lore/Pays/` — biomes et régions où chaque créature évolue
 
 ## Mapping créature ↔ ressource (rappel)
 

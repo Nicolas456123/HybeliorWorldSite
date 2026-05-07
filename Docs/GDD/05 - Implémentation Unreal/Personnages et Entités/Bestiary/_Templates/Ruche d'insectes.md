@@ -35,7 +35,7 @@ needs_review_for: [hivemind-mécanique-IA, swarm-perfs, reine-encounter]
 
 > Archétype canonique de l'**insectoïde Hivemind** d'Hybelior. Pattern pour ruches d'abeilles géantes, fourmilières-colosses, essaims de guêpes, swarms de scarabées, termitaires à reine. Pose le pattern **Hivemind partagé** (BT collectif), **multi-rôles** (ouvrière/soldat/reine), **rencontre de groupe massive** (50-200 individus).
 >
-> Voir [[Bestiaire - Index]] · [[Élémentaire de feu]] · [[Loup forestier]]
+> Voir [[Bestiary/Index]] · [[Élémentaire de feu]] · [[Loup forestier]]
 
 ---
 
@@ -244,4 +244,4 @@ Voir §3. **HP base double** : 50 individu / 600 ruche complète. Stats **par r�
 
 ---
 
-*Liens : [[Bestiaire - Index|← Index Bestiaire]] · [[Élémentaire de feu]] · [[Loup forestier]] · [[Combat]] · [[Sources de Ressources]] · [[Les Ères]] · [[Architecture Data-Driven]]*
+*Liens : [[Bestiary/Index|← Index Bestiaire]] · [[Élémentaire de feu]] · [[Loup forestier]] · [[Combat]] · [[Sources de Ressources]] · [[Les Ères]] · [[Architecture Data-Driven]]*

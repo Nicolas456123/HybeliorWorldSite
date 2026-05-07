@@ -60,7 +60,7 @@ Récoltée dans le monde via les métiers de récolte (Botaniste, Mineur, Bûche
 
 ## Source 2 — Récolte sur créature (25 types)
 
-Récoltée par dépeçage des créatures abattues. Métier principal : **Dépéceur** (sous-catégorie Maîtrise dépeçage). Voir [[Bestiaire - Index]] pour les créatures et leurs loot tables.
+Récoltée par dépeçage des créatures abattues. Métier principal : **Dépéceur** (sous-catégorie Maîtrise dépeçage). Voir [[Bestiary/Index]] pour les créatures et leurs loot tables.
 
 | Type | Note |
 |------|------|
@@ -150,10 +150,10 @@ Produits par les métiers à partir des deux sources précédentes. Servent d'in
 ## À détailler en Phase 2
 
 - **Spawn tables par biome** : pour chaque ressource nature, où elle apparaît exactement (avec densité par ère cosmique — voir [[Les Ères]] et [[Architecture Data-Driven]] §PlantDecoration Generator)
-- **Loot tables par créature** : pour chaque créature, quels composants tombent — branché sur [[Bestiaire - Taxonomie des Créatures]]
+- **Loot tables par créature** : pour chaque créature, quels composants tombent — branché sur [[Taxonomie des Créatures]]
 - **Recettes complètes** : Recipe Generator paramétrise les recettes de fabrication avec intrants/qualité/palier de Maîtrise requis
 - **Variants par ère** : un Bois récolté pendant l'Ère du Voile peut être un *Bois Spectral* (variant), affectant les items qu'on en tire
 
 ---
 
-*Liens : [[Items - Index|← Index Items]] · [[Catégories d'Items]] · [[Types d'Items]] · [[Métiers]] · [[Architecture Data-Driven]] · [[Bestiaire - Index]]*
+*Liens : [[Items/Index|← Index Items]] · [[Catégories d'Items]] · [[Types d'Items]] · [[Métiers]] · [[Architecture Data-Driven]] · [[Bestiary/Index]]*

@@ -35,7 +35,7 @@ Le **Mercenaire** est le **combattant à la demande**. Il vend son **service mar
 
 Le Mercenaire est aussi un **archétype de joueur** : beaucoup de joueurs combat-orientés trouvent dans le mercenariat un cadre narratif souple — pas d'allégeance forcée, contrats à la carte, voyages constants. Il est par excellence le **métier d'aventure mobile**.
 
-Hybelior connaît plusieurs traditions : les **Compagnies libres** (groupes structurés, contrats officiels — [[Mosrack]], [[Galenor]]), les **mercenaires solitaires** (lances pour louer, [[Onara]] / [[Skaldoria]]), les **bandes mercenaires** (frontière entre guilde et brigandage, [[Pyrtara]]), et les **Mercenaires Concordés** ([[L'Accord]] ≥ 50% — élite militaire de l'ère).
+Hybelior connaît plusieurs traditions : les **Compagnies libres** (groupes structurés, contrats officiels — [[Mosrack]], [[Galenor - Continent|Galenor]]), les **mercenaires solitaires** (lances pour louer, [[Onara - Continent|Onara]] / [[Skaldoria]]), les **bandes mercenaires** (frontière entre guilde et brigandage, [[Pyrtara]]), et les **Mercenaires Concordés** ([[L'Accord]] ≥ 50% — élite militaire de l'ère).
 
 ---
 
@@ -127,7 +127,7 @@ Hybelior connaît plusieurs traditions : les **Compagnies libres** (groupes stru
 - **Établissement** : pas de lieu fixe — **aventurier permanent**. Base éventuelle dans une **taverne de recrutement** d'une ville-frontière
 - **Réseau** : [[Forgeron]] / [[Tanneur]] (équipement), [[Apothicaire]] (potions), [[Cartographe]] (cartes), [[Marchand]] (employeurs récurrents), [[Espion]] (renseignement), autres mercenaires (camaraderie, tension)
 - **Faction** :
-  - **Compagnies libres** organisées : "Les Faucons d'Acier" ([[Galenor]]), "La Lame Brisée" ([[Mosrack]]), "Les Veuves de Skaldoria"
+  - **Compagnies libres** organisées : "Les Faucons d'Acier" ([[Galenor - Continent|Galenor]]), "La Lame Brisée" ([[Mosrack]]), "Les Veuves de Skaldoria"
   - **Solitaires** : pas de faction, contrats à la pièce
   - **Confréries grises** : frontière brigandage / mercenariat ([[Pyrtara]])
 - **Note PvP** : flag PvP **fréquemment actif** par nature du métier. Karma fluctue selon contrats. Un Mercenaire qui accepte trop de contrats criminels glisse en **🟠 Hors-la-loi** ou **🔴 Rouge** (voir [[PvP]]).

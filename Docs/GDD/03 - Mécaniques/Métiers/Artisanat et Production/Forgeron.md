@@ -22,9 +22,9 @@ needs_review_for: [calibration-paliers-playtest, frontière-Forgeron-Armurier-M�
 > [!info] Entités tutélaires canoniques
 > **[[Cosmologie|Ferros]]** (Céleste — *Forgeron légendaire*, maître artisan des métaux) et **[[Cosmologie|Forgion]]** (Céleste — *Enchanteur d'armes légendaires*) — voir [[Cosmologie]] §"Liste canonique des entités cosmiques". Source : `AccessExport/Legende.csv` (D-COSMO-LEGENDE-CSV-INTEGRATION).
 
-> Premier archétype-référence de la **catégorie [[Métiers|Artisanat et Production]]**. Pose les **patterns canoniques** de la forge (chauffe → frappe → trempe → finition) et l'angle **Métier joueur** complémentaire à l'angle **Comportement PNJ** déjà ébauché dans [[Métiers - Forgeron]].
+> Premier archétype-référence de la **catégorie [[Métiers|Artisanat et Production]]**. Pose les **patterns canoniques** de la forge (chauffe → frappe → trempe → finition) et l'angle **Métier joueur** complémentaire à l'angle **Comportement PNJ** déjà ébauché dans [[Forgeron]].
 
-> **Articulation avec l'ébauche PNJ** : [[Métiers - Forgeron]] décrit la *boucle BT/routine quotidienne* d'un PNJ Forgeron (T1 récupérer → T7 poser pièce). Le présent archétype décrit le *métier jouable* : stats, paliers de Maîtrise, recettes débloquées, économie. Les deux fichiers se référencent mutuellement, ne se dupliquent pas.
+> **Articulation avec l'ébauche PNJ** : [[Forgeron]] décrit la *boucle BT/routine quotidienne* d'un PNJ Forgeron (T1 récupérer → T7 poser pièce). Le présent archétype décrit le *métier jouable* : stats, paliers de Maîtrise, recettes débloquées, économie. Les deux fichiers se référencent mutuellement, ne se dupliquent pas.
 
 ---
 
@@ -97,7 +97,7 @@ Le **Forgeron** est l'artisan métal d'Hybelior. Il transforme les [[Lingot|ling
 
 ## 4. Stations + outils
 
-> Cohérent avec [[Crafts]] §1 Forge et station triplette dans [[Métiers - Forgeron]] (PNJ).
+> Cohérent avec [[Crafts]] §1 Forge et station triplette dans [[Forgeron]] (PNJ).
 
 ### Stations principales
 
@@ -266,15 +266,15 @@ Le **Forgeron** est l'artisan métal d'Hybelior. Il transforme les [[Lingot|ling
 
 ## 10. Comportement IA + signatures PNJ
 
-### Lien avec l'ébauche [[Métiers - Forgeron]] (PNJ)
+### Lien avec l'ébauche [[Forgeron]] (PNJ)
 
-> Cet archétype-métier décrit le **versant joueur** ; [[Métiers - Forgeron]] décrit le **versant PNJ** (boucle BT 7 tâches : T1 récup matériel → T7 poser pièce). Les deux fichiers se croisent sur :
+> Cet archétype-métier décrit le **versant joueur** ; [[Forgeron]] décrit le **versant PNJ** (boucle BT 7 tâches : T1 récup matériel → T7 poser pièce). Les deux fichiers se croisent sur :
 
 | Élément partagé | Référence |
 |-----------------|-----------|
-| Stations triplette (four + enclume + trempe) | [[Métiers - Forgeron]] §Boucle de forge |
-| Mini-jeu timing température | [[Métiers - Forgeron]] T3 + présent §6 mini-jeu |
-| Paliers Mastery PNJ | [[Métiers - Forgeron]] §Paramètres `mastery_level` |
+| Stations triplette (four + enclume + trempe) | [[Forgeron]] §Boucle de forge |
+| Mini-jeu timing température | [[Forgeron]] T3 + présent §6 mini-jeu |
+| Paliers Mastery PNJ | [[Forgeron]] §Paramètres `mastery_level` |
 | Modulation par ère | Identique (cohérence stricte) |
 
 ### Signatures PNJ Forgerons par grand pays (stub Phase 4)
@@ -304,4 +304,4 @@ Le **Forgeron** est l'artisan métal d'Hybelior. Il transforme les [[Lingot|ling
 
 ---
 
-*Liens : [[Métiers]] · [[Métiers - Forgeron]] (angle PNJ) · [[Crafts]] · [[Sources de Ressources]] · [[Catégories d'Items]] · [[Personnage]] · [[Armes et Maîtrise]] · [[Le Souffle]] · [[Lingot]] · [[Alliage]] · [[Épée à une main]] · [[Cuirasse]] · [[Économie]] · [[Les Ères]]*
+*Liens : [[Métiers]] · [[Forgeron]] (angle PNJ) · [[Crafts]] · [[Sources de Ressources]] · [[Catégories d'Items]] · [[Personnage]] · [[Armes et Maîtrise]] · [[Le Souffle]] · [[Lingot]] · [[Alliage]] · [[Épée à une main]] · [[Cuirasse]] · [[Économie]] · [[Les Ères]]*

@@ -93,7 +93,7 @@ Tier de la Canne **élargit la zone verte** de la jauge et augmente la résistan
 
 | Champ | Valeur |
 |---|---|
-| **Métier** | [[Métiers - Menuisier\|Menuisier]] (tige) + [[Métiers - Tisserand\|Tisserand]] (fil) + [[Métiers - Forgeron\|Forgeron]] (hameçon) |
+| **Métier** | [[Menuisier\|Menuisier]] (tige) + [[Tisserand\|Tisserand]] (fil) + [[Forgeron\|Forgeron]] (hameçon) |
 | **Station** | Établi de menuiserie + Atelier de couture + Forge |
 | **Intrants** | 2× [[Sources de Ressources#Source 1 — Récolte nature\|Bois]] (bambou ou frêne flexible) · 1× [[Sources de Ressources#Source 3 — Fabrication\|Tissu]] (fil tressé) · 1× [[Sources de Ressources#Source 3 — Fabrication\|Lingot]] (fer pour hameçon) · 1× [[Sources de Ressources#Source 2 — Récolte sur créature\|Cuir]] tanné (poignée) |
 | **Palier requis** | Adepte |
@@ -123,4 +123,4 @@ Tier de la Canne **élargit la zone verte** de la jauge et augmente la résistan
 
 ---
 
-*Liens : [[Items - Index\|← Index Items]] · [[Crafts]] · [[Métiers]] · [[Catégories d'Items]] · [[Poisson]] · [[Faux]]*
+*Liens : [[Items/Index\|← Index Items]] · [[Crafts]] · [[Métiers]] · [[Catégories d'Items]] · [[Poisson]] · [[Faux]]*

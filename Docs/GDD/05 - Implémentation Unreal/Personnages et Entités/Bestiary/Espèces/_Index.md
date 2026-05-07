@@ -43,7 +43,7 @@ last_review: 2026-05-01
 
 ## Liens canoniques
 
-- [[Bestiaire - Index]] — hub bestiaire
+- [[Bestiary/Index]] — hub bestiaire
 - [[Taxonomie des Créatures]] — 9 axes V2 (frontmatter spécialisé)
 - [[Sources de Ressources]] — 25 ressources de récolte créature
 - [[Géographie]] — biomes et régions
@@ -64,4 +64,4 @@ SORT famille ASC, sous_famille ASC
 
 ---
 
-*Liens : [[Bestiaire - Index|← Index Bestiaire]] · [[Taxonomie des Créatures]] · [[PNJ]] · [[Écosystèmes]] · [[Sources de Ressources]]*
+*Liens : [[Bestiary/Index|← Index Bestiaire]] · [[Taxonomie des Créatures]] · [[PNJ]] · [[Écosystèmes]] · [[Sources de Ressources]]*

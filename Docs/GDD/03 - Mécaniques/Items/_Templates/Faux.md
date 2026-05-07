@@ -87,7 +87,7 @@ Le tier de la Faux **élargit la zone verte** (T1 = 0.2 s, T6 = 0.6 s de toléra
 
 | Champ | Valeur |
 |---|---|
-| **Métier** | [[Métiers - Forgeron\|Forgeron]] (lame) + [[Métiers - Menuisier\|Menuisier]] (manche) |
+| **Métier** | [[Forgeron\|Forgeron]] (lame) + [[Menuisier\|Menuisier]] (manche) |
 | **Station** | Forge + Établi de menuiserie |
 | **Intrants** | 1× [[Sources de Ressources#Source 3 — Fabrication\|Lingot]] (acier trempé) · 1× [[Sources de Ressources#Source 3 — Fabrication\|Planche]] (frêne ou bois flexible) · 1× [[Sources de Ressources#Source 2 — Récolte sur créature\|Cuir]] tanné (poignée) · 1× [[Sources de Ressources#Source 3 — Fabrication\|Fil métallique]] |
 | **Palier requis** | Adepte |
@@ -117,4 +117,4 @@ Le tier de la Faux **élargit la zone verte** (T1 = 0.2 s, T6 = 0.6 s de toléra
 
 ---
 
-*Liens : [[Items - Index\|← Index Items]] · [[Crafts]] · [[Métiers]] · [[Catégories d'Items]] · [[Pioche]] · [[Hache de bûcheron]]*
+*Liens : [[Items/Index\|← Index Items]] · [[Crafts]] · [[Métiers]] · [[Catégories d'Items]] · [[Pioche]] · [[Hache de bûcheron]]*

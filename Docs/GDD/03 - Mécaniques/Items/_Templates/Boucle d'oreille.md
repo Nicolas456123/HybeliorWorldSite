@@ -279,4 +279,4 @@ Récupération ~30-50% du cristal.
 
 ---
 
-*Liens : [[Items - Index|← Index Items]] · [[Catégories d'Items]] · [[Anneau]] · [[Personnage]]*
+*Liens : [[Items/Index|← Index Items]] · [[Catégories d'Items]] · [[Anneau]] · [[Personnage]]*

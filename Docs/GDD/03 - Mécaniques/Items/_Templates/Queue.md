@@ -139,4 +139,4 @@ La **Queue** est un drop **variable** : son revêtement définit son usage. Réc
 
 ---
 
-*Liens : [[Sources de Ressources]] · [[Crafts]] · [[Patte]] · [[Cuir]] · [[Écaille]] · [[Loup forestier]] · [[Serpent géant]] · [[Tentacule abyssal]] · [[Dragon nain]] · [[Bestiaire - Index]]*
+*Liens : [[Sources de Ressources]] · [[Crafts]] · [[Patte]] · [[Cuir]] · [[Écaille]] · [[Loup forestier]] · [[Serpent géant]] · [[Tentacule abyssal]] · [[Dragon nain]] · [[Bestiary/Index]]*

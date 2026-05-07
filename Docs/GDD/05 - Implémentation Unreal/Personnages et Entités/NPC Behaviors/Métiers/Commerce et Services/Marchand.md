@@ -281,4 +281,4 @@ trigger:
 
 ---
 
-*Liens : [[Comportements PNJ - Index]] · [[Routine Quotidienne]] · [[Modes Sociaux]] · [[Actions Situationnelles]] · [[Concepts Fondamentaux IA PNJ]] · [[03 - Mécaniques/Métiers/Commerce et Services/Marchand|Marchand (gameplay)]] · [[Banquier]] · [[Tavernier]] · [[Aubergiste]] · [[Cartographe]] · [[Mercenaire]] · [[Hôtel des ventes]]*
+*Liens : [[NPC Behaviors/Index]] · [[Routine Quotidienne]] · [[Modes Sociaux]] · [[Actions Situationnelles]] · [[Concepts Fondamentaux IA PNJ]] · [[03 - Mécaniques/Métiers/Commerce et Services/Marchand|Marchand (gameplay)]] · [[Banquier]] · [[Tavernier]] · [[Aubergiste]] · [[Cartographe]] · [[Mercenaire]] · [[Hôtel des ventes]]*

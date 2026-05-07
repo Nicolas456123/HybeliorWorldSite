@@ -258,7 +258,7 @@ L'**Architecte** conçoit, plane et supervise la construction de bâtiments, for
 
 ### Routine Architecte PNJ (Phase 2 prévue)
 
-> Sera ébauchée comme [[Métiers - Forgeron]] / [[Métiers - Boulanger]]. Profil esquissé :
+> Sera ébauchée comme [[Forgeron]] / [[Boulanger]]. Profil esquissé :
 
 ```
 [Lever 06:00] → [Bureau d'études matin : plans en cours]

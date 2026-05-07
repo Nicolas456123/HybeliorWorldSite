@@ -141,7 +141,7 @@ Cascade priorité : **Crise (effondrement/gaz)** > Religieux > Marchand > Routin
 - **Trigger** : `CavernCreature` (chauve-souris géantes, vers de pierre, créatures abyssales tier élevé)
 - **Branche BT** : `Combat.Flee` (priorité) ou `Combat.Defense` si acculé
 - **Comportement** : pioche en arme contondante (T1), retraite groupée
-- **Lien [[Bestiaire - Index]]** : créatures cavernicoles connues (modulation MBTI **S** → réaction directe, **N** → analyse rapide)
+- **Lien [[Bestiary/Index]]** : créatures cavernicoles connues (modulation MBTI **S** → réaction directe, **N** → analyse rapide)
 
 ### 6.4 Souffle / changement d'Ère
 
@@ -194,4 +194,4 @@ Cascade priorité : **Crise (effondrement/gaz)** > Religieux > Marchand > Routin
 
 ---
 
-*Liens : [[Comportements PNJ - Index|← Index]] · [[Routine Quotidienne]] · [[Modes Sociaux]] · [[Concepts Fondamentaux IA PNJ]] · [[Actions Situationnelles]] · [[03 - Mécaniques/Métiers/Exploration/Mineur|Mineur (gameplay)]] · [[Forgeron]] · [[Maçon]] · [[Verrier]] · [[Lapidaire]] · [[Bijoutier]] · [[Économie]]*
+*Liens : [[NPC Behaviors/Index|← Index]] · [[Routine Quotidienne]] · [[Modes Sociaux]] · [[Concepts Fondamentaux IA PNJ]] · [[Actions Situationnelles]] · [[03 - Mécaniques/Métiers/Exploration/Mineur|Mineur (gameplay)]] · [[Forgeron]] · [[Maçon]] · [[Verrier]] · [[Lapidaire]] · [[Bijoutier]] · [[Économie]]*

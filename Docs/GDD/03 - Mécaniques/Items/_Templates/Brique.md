@@ -162,4 +162,4 @@ sortie: Brique runique × 12 (T4) — résiste +50% aux dégâts de sorts
 
 ---
 
-*Liens : [[Items - Index|← Index Items]] · [[Sources de Ressources]] · [[Crafts]] · [[Métiers]] · [[Architecture Data-Driven]] · [[Pain]] · [[Lingot]] · [[Plaque de verre]]*
+*Liens : [[Items/Index|← Index Items]] · [[Sources de Ressources]] · [[Crafts]] · [[Métiers]] · [[Architecture Data-Driven]] · [[Pain]] · [[Lingot]] · [[Plaque de verre]]*

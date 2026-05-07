@@ -33,4 +33,4 @@ Manche d'armes T3-T4, talismans, alliage Déterium.
 
 Cuir et os d'Antérix sont la signature ressource de **Skaldoria**.
 
-*Liens : [[_Description|Os]] · [[Bestiaire - Index]]*
+*Liens : [[_Description|Os]] · [[Bestiary/Index]]*

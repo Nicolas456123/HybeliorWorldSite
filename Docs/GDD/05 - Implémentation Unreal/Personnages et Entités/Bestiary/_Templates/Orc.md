@@ -35,7 +35,7 @@ needs_review_for: [frontière-pnj-similaire-goblin, clans-orc-canoniques]
 
 > Archétype canonique du **bipède Sapient guerrier en meute** d'Hybelior. Plus grand, plus organisé, plus dangereux que le [[Goblin]]. Pattern pour orcs, ogres-de-guerre, hobgoblins. **Frontière Bestiaire ↔ PNJ** identique au Goblin (cf. §10).
 >
-> Voir [[Bestiaire - Index]] · [[Goblin]] · [[PNJ]]
+> Voir [[Bestiary/Index]] · [[Goblin]] · [[PNJ]]
 
 ---
 
@@ -236,4 +236,4 @@ Voir §3. HP base 320 (CR 8). Stamina haute. Pas de Mana (sauf chamane orc rare)
 
 ---
 
-*Liens : [[Bestiaire - Index|← Index Bestiaire]] · [[Goblin]] · [[Démon mineur]] · [[PNJ]] · [[Combat]] · [[Le Verbe]] · [[Les Ères]]*
+*Liens : [[Bestiary/Index|← Index Bestiaire]] · [[Goblin]] · [[Démon mineur]] · [[PNJ]] · [[Combat]] · [[Le Verbe]] · [[Les Ères]]*

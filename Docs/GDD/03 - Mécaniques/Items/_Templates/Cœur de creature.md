@@ -146,4 +146,4 @@ Drop **rare** (5-25 % standard, 100 % colosse/Avatar), tier élevé (**T3 minimu
 
 ---
 
-*Liens : [[Sources de Ressources]] · [[Crafts]] · [[Sang]] · [[Os]] · [[Élémentaire de feu]] · [[Dragon nain]] · [[Spectre des Ères]] · [[Tentacule abyssal]] · [[Bestiaire - Index]]*
+*Liens : [[Sources de Ressources]] · [[Crafts]] · [[Sang]] · [[Os]] · [[Élémentaire de feu]] · [[Dragon nain]] · [[Spectre des Ères]] · [[Tentacule abyssal]] · [[Bestiary/Index]]*

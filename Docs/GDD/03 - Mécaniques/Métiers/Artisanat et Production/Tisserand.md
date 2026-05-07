@@ -30,7 +30,7 @@ needs_review_for: [frontière-Tisserand-Tailleur-Cordier-Fileur, soie-creature-s
 Le **Tisserand** carde les fibres, file le fil, tisse le tissu, le teint, l'apprête. Il est le **maillon producteur** de la fibre brute au tissu utilisable. Sa production est l'intrant principal du [[Tailleur]] et alimente aussi [[Cordonnier]] (lacets, doublures), [[Métiers|Cordier]] (cordes), [[Métiers|Apothicaire]] (gaze, bandages).
 
 **Place dans la chaîne d'artisanat :**
-- **Amont** : [[Métiers|Botaniste]] (laine plante = coton, lin), [[Métiers|Berger]] (laine animale = mouton, alpaca-like), [[Bestiaire - Index|Bestiaire]] / Chasseur (soie d'arachnides ou similaires, laine de créatures rares), [[Métiers|Pêcheur]] (algue marine pour lin marin), [[Métiers|Apothicaire]] (pigments)
+- **Amont** : [[Métiers|Botaniste]] (laine plante = coton, lin), [[Métiers|Berger]] (laine animale = mouton, alpaca-like), [[Bestiary/Index|Bestiaire]] / Chasseur (soie d'arachnides ou similaires, laine de créatures rares), [[Métiers|Pêcheur]] (algue marine pour lin marin), [[Métiers|Apothicaire]] (pigments)
 - **Aval** :
   - **[[Tailleur]]** (tissu pour vêtements) — débouché principal
   - **[[Cordonnier]]** (lacets, fil cuir)
@@ -274,7 +274,7 @@ Le **Tisserand** carde les fibres, file le fil, tisse le tissu, le teint, l'appr
 ## 11. Décisions ouvertes
 
 - [ ] **Frontière Tisserand / Cordier / Fileur** : 1 racine **Tisserand** + sous-spé Filage palier Initié+ + Cordier comme métier séparé (cordes ≠ tissu, mais matière commune). Validation : Cordier = sous-spé Adepte+ ou métier séparé Phase suivante
-- [ ] **Soie creature** : exact mécanisme (Bestiaire) — quelles créatures produisent de la soie ? Phase 2 [[Bestiaire - Taxonomie des Créatures]]
+- [ ] **Soie creature** : exact mécanisme (Bestiaire) — quelles créatures produisent de la soie ? Phase 2 [[Taxonomie des Créatures]]
 - [ ] **Voilier** *(Phase suivante)* : sous-spé Tisserand-Maître ou métier séparé ?
 - [ ] **Calibration mini-jeu cadence** : exact rythme à playtester
 - [ ] **Tissu rituel par religion** : 9 religions × Tisserand — Phase 4
@@ -282,4 +282,4 @@ Le **Tisserand** carde les fibres, file le fil, tisse le tissu, le teint, l'appr
 
 ---
 
-*Liens : [[Métiers]] · [[Crafts]] · [[Sources de Ressources]] · [[Catégories d'Items]] · [[Personnage]] · [[Tailleur]] · [[Cordonnier]] · [[Métiers|Apothicaire]] · [[Bestiaire - Index]] · [[Économie]] · [[Les Ères]] · [[Lore/Religions/00 - Système Religieux]]*
+*Liens : [[Métiers]] · [[Crafts]] · [[Sources de Ressources]] · [[Catégories d'Items]] · [[Personnage]] · [[Tailleur]] · [[Cordonnier]] · [[Métiers|Apothicaire]] · [[Bestiary/Index]] · [[Économie]] · [[Les Ères]] · [[Lore/Religions/00 - Système Religieux]]*

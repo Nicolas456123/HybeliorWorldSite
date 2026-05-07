@@ -35,4 +35,4 @@ Armes signature T5 (cf. [[../../../../Armes/Mêlée 1H/Lame/Kukri légendaire de
 
 Voir [[../../../../_Templates/Alliage|template Alliage §1]] pour le rôle d'Acier Ivar/Éternel.
 
-*Liens : [[_Description|Os]] · [[Bestiaire - Index]]*
+*Liens : [[_Description|Os]] · [[Bestiary/Index]]*

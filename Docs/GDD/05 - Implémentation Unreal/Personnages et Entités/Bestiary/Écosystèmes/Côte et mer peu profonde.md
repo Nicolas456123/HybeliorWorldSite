@@ -17,7 +17,7 @@ needs_review_for: [phoque-stub, oiseau-marin-stub, dauphin-Phase4]
 
 > Écosystème **transition terre-mer**. Couvre les **côtes** de tous les continents littoraux : **Galenor** (Solena oligarchie maritime, Trinoria), **Onara** (Tyndara République marchande), **Ilthara**, **Cendara archipel**, **Skaldoria fjords** (Alkaran), **Evertia côtes**, **Astravia bordures basses**. Plage, estuaires, récifs, baies. **Premier biome maritime** que rencontre le joueur. Domaine des **crustacés**, **mollusques**, **oiseaux marins**, et juvéniles de [[Krill géant]].
 >
-> Voir [[Bestiaire - Index]] · [[Géographie]] · [[Krill géant]] · [[Eau douce]] · [[Océan abyssal]]
+> Voir [[Bestiary/Index]] · [[Géographie]] · [[Krill géant]] · [[Eau douce]] · [[Océan abyssal]]
 
 ---
 
@@ -252,4 +252,4 @@ CRÉATURES SIGNATURES (variants) :
 
 ---
 
-*Liens : [[Bestiaire - Index]] · [[Krill géant]] · [[Tortue ancestrale]] · [[Aigle royal]] · [[Requin abyssal]] · [[Eau douce]] · [[Océan abyssal]] · [[Marais de Pyrtara]] · [[Géographie]] · [[Les Ères]] · [[Cosmologie]] · [[Sources de Ressources]]*
+*Liens : [[Bestiary/Index]] · [[Krill géant]] · [[Tortue ancestrale]] · [[Aigle royal]] · [[Requin abyssal]] · [[Eau douce]] · [[Océan abyssal]] · [[Marais de Pyrtara]] · [[Géographie]] · [[Les Ères]] · [[Cosmologie]] · [[Sources de Ressources]]*

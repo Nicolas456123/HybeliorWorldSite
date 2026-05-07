@@ -143,4 +143,4 @@ needs_review_for: [concepts-fondamentaux, modulation-mbti-boulanger, recettes-pa
 
 ---
 
-*Liens : [[Comportements PNJ - Index|← Index]] · [[Routine Quotidienne]] · [[Modes Sociaux]] · [[Métiers - Forgeron]] · [[Métiers]] · [[Catégories d'Items]] · [[Sources de Ressources]]*
+*Liens : [[NPC Behaviors/Index|← Index]] · [[Routine Quotidienne]] · [[Modes Sociaux]] · [[Forgeron]] · [[Métiers]] · [[Catégories d'Items]] · [[Sources de Ressources]]*

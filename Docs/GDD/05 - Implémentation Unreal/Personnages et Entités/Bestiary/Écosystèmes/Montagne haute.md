@@ -17,7 +17,7 @@ needs_review_for: [bouquetin-stub, ours-noir-stub, cerfs-altitude-stub, mapping-
 
 > Écosystème **vertical**, royaume de l'altitude. Couvre les **massifs montagneux** d'Hybelior : montagnes de **Voldenor** en Galenor (citadelles anciennes), pics de **Cendara** (Mont Cendra adjacent magmatique), **Thalendil** en Celethor (forteresses souterraines de glace + cristaux), montagnes d'**Alkaran** (Skaldoria fjords adjacents), **Drakora** en Ilthara (dragons apprivoisés — Grande Chasse du Dragon), **Endora pics** (Avalor mystique). Zone de **transition verticale** entre forêt boréale et toundra/glacier. Domaine de l'**[[Aigle royal]]** (Feopsingale) et habitat rare du **[[Yéti]]**.
 >
-> Voir [[Bestiaire - Index]] · [[Géographie]] · [[Aigle royal]] · [[Yéti]] · [[Dragon nain]] · [[Forêt boréale d'Alkaran]] · [[Toundra de Cestra]]
+> Voir [[Bestiary/Index]] · [[Géographie]] · [[Aigle royal]] · [[Yéti]] · [[Dragon nain]] · [[Forêt boréale d'Alkaran]] · [[Toundra de Cestra]]
 
 ---
 
@@ -256,4 +256,4 @@ DÉCOMPOSEURS :
 
 ---
 
-*Liens : [[Bestiaire - Index]] · [[Aigle royal]] · [[Yéti]] · [[Dragon nain]] · [[Ours brun]] · [[Loup arctique]] · [[Faucon]] · [[Forêt boréale d'Alkaran]] · [[Toundra de Cestra]] · [[Caverne profonde d'Ulinor]] · [[Géographie]] · [[Les Ères]] · [[Sources de Ressources]]*
+*Liens : [[Bestiary/Index]] · [[Aigle royal]] · [[Yéti]] · [[Dragon nain]] · [[Ours brun]] · [[Loup arctique]] · [[Faucon]] · [[Forêt boréale d'Alkaran]] · [[Toundra de Cestra]] · [[Caverne profonde d'Ulinor]] · [[Géographie]] · [[Les Ères]] · [[Sources de Ressources]]*

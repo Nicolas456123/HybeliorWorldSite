@@ -96,7 +96,7 @@ Acuité ([[Personnage]]) du joueur est critique. Tier de Pince élargit la marge
 
 | Champ | Valeur |
 |---|---|
-| **Métier** | [[Métiers - Forgeron\|Forgeron]] (lames) + [[Métiers - Bijoutier\|Bijoutier]] (assemblage fin) |
+| **Métier** | [[Forgeron\|Forgeron]] (lames) + [[Bijoutier\|Bijoutier]] (assemblage fin) |
 | **Station** | Forge + Établi de bijoutier |
 | **Intrants** | 2× [[Sources de Ressources#Source 3 — Fabrication\|Lingot]] (mithril ou acier de précision) · 1× [[Sources de Ressources#Source 1 — Récolte nature\|Bois]] (chêne pour manche) · 1× [[Sources de Ressources#Source 3 — Fabrication\|Fil métallique]] · 1× [[Sources de Ressources#Source 1 — Récolte nature\|Gemme brut]] T1 (calibre) |
 | **Palier requis** | Adepte |
@@ -126,4 +126,4 @@ Acuité ([[Personnage]]) du joueur est critique. Tier de Pince élargit la marge
 
 ---
 
-*Liens : [[Items - Index\|← Index Items]] · [[Crafts]] · [[Métiers]] · [[Catégories d'Items]] · [[Anneau]] · [[Amulette]] · [[Cristal de Voie]]*
+*Liens : [[Items/Index\|← Index Items]] · [[Crafts]] · [[Métiers]] · [[Catégories d'Items]] · [[Anneau]] · [[Amulette]] · [[Cristal de Voie]]*

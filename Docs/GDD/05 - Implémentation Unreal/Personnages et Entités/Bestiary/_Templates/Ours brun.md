@@ -35,7 +35,7 @@ needs_review_for: [cr-âge-vétéran, loot-bile-alchimie, mapping-Antérix]
 
 > Archétype canonique du **prédateur apex local solitaire**. Pattern pour tous les grands ursidés et grands fauves quadrupèdes solitaires (ours bruns, ours noirs, glouton géant, sanglier-ours, panthère solitaire). Hérite du squelette [[Loup forestier]] mais inverse trois axes : **socialité solitaire**, **trophicité omnivore**, **fonction écologique apex (régional)**.
 >
-> Voir [[Bestiaire - Index]] · [[Loup forestier]] · [[Taxonomie des Créatures]] · [[Combat]] · [[Sources de Ressources]]
+> Voir [[Bestiary/Index]] · [[Loup forestier]] · [[Taxonomie des Créatures]] · [[Combat]] · [[Sources de Ressources]]
 
 ---
 
@@ -255,4 +255,4 @@ Voir §3. HP base 320 (CR 7 adulte). Pas de Mana. Stamina importante mais drain�
 
 ---
 
-*Liens : [[Bestiaire - Index|← Index Bestiaire]] · [[Loup forestier]] · [[Élémentaire de feu]] · [[Taxonomie des Créatures]] · [[Combat]] · [[Sources de Ressources]] · [[Les Ères]] · [[L'Accord]]*
+*Liens : [[Bestiary/Index|← Index Bestiaire]] · [[Loup forestier]] · [[Élémentaire de feu]] · [[Taxonomie des Créatures]] · [[Combat]] · [[Sources de Ressources]] · [[Les Ères]] · [[L'Accord]]*

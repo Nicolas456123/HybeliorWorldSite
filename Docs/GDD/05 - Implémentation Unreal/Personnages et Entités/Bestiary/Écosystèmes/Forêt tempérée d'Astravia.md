@@ -17,7 +17,7 @@ needs_review_for: [espèces-stub-création, mapping-Antérix-final]
 
 > Écosystème **canon de référence** pour les forêts tempérées d'Hybelior. La forêt tempérée est le **biome de départ** du joueur (cf. [[Géographie]] §Biomes) — c'est aussi l'écosystème où le système de chaîne alimentaire s'enseigne le plus clairement. Couvre les forêts d'Astravia (îles volantes côté Celethor), les lisières de Cestra, les forêts denses d'Evertia (Caëspia, sous-bois fertiles) et certains massifs nord de Galenor.
 >
-> Voir [[Bestiaire - Index]] · [[Géographie]] · [[Loup forestier]] · [[Ours brun]] · [[Cerf majestueux]] · [[Sanglier]]
+> Voir [[Bestiary/Index]] · [[Géographie]] · [[Loup forestier]] · [[Ours brun]] · [[Cerf majestueux]] · [[Sanglier]]
 
 ---
 
@@ -211,4 +211,4 @@ DÉCOMPOSEURS / CHAROGNARDS (transverses) :
 
 ---
 
-*Liens : [[Bestiaire - Index]] · [[Loup forestier]] · [[Cerf majestueux]] · [[Ours brun]] · [[Sanglier]] · [[Aigle royal]] · [[Faucon]] · [[Ruche d'insectes]] · [[Métamorphe]] · [[Géographie]] · [[Les Ères]] · [[Sources de Ressources]]*
+*Liens : [[Bestiary/Index]] · [[Loup forestier]] · [[Cerf majestueux]] · [[Ours brun]] · [[Sanglier]] · [[Aigle royal]] · [[Faucon]] · [[Ruche d'insectes]] · [[Métamorphe]] · [[Géographie]] · [[Les Ères]] · [[Sources de Ressources]]*

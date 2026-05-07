@@ -266,4 +266,4 @@ trigger:
 
 ---
 
-*Liens : [[Comportements PNJ - Index]] · [[Routine Quotidienne]] · [[Modes Sociaux]] · [[Actions Situationnelles]] · [[Concepts Fondamentaux IA PNJ]] · [[03 - Mécaniques/Métiers/Commerce et Services/Tavernier|Tavernier (gameplay)]] · [[Aubergiste]] · [[Brasseur]] · [[Cuisinier]] · [[Marchand]] · [[Barde]] · [[Musicien]] · [[Foedus Animae]]*
+*Liens : [[NPC Behaviors/Index]] · [[Routine Quotidienne]] · [[Modes Sociaux]] · [[Actions Situationnelles]] · [[Concepts Fondamentaux IA PNJ]] · [[03 - Mécaniques/Métiers/Commerce et Services/Tavernier|Tavernier (gameplay)]] · [[Aubergiste]] · [[Brasseur]] · [[Cuisinier]] · [[Marchand]] · [[Barde]] · [[Musicien]] · [[Foedus Animae]]*

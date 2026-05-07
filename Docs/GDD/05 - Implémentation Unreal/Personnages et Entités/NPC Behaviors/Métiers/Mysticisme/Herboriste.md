@@ -208,4 +208,4 @@ Cascade : **Crise (fuite pacifique) > Religieux > Deuil > Marchand > Routine**.
 
 ---
 
-*Liens : [[Comportements PNJ - Index|← Index]] · [[Routine Quotidienne]] · [[Modes Sociaux]] · [[Concepts Fondamentaux IA PNJ]] · [[Actions Situationnelles]] · [[03 - Mécaniques/Métiers/Mysticisme/Herboriste|Herboriste (archétype joueur)]] · [[03 - Mécaniques/Métiers/Mysticisme/Apothicaire|Apothicaire]] · [[Alchimiste]] · [[Prédiction]] · [[Le Lien]] · [[Cosmologie]]*
+*Liens : [[NPC Behaviors/Index|← Index]] · [[Routine Quotidienne]] · [[Modes Sociaux]] · [[Concepts Fondamentaux IA PNJ]] · [[Actions Situationnelles]] · [[03 - Mécaniques/Métiers/Mysticisme/Herboriste|Herboriste (archétype joueur)]] · [[03 - Mécaniques/Métiers/Mysticisme/Apothicaire|Apothicaire]] · [[Alchimiste]] · [[Prédiction]] · [[Le Lien]] · [[Cosmologie]]*

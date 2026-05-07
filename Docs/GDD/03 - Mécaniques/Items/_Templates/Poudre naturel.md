@@ -126,4 +126,4 @@ Marqueur cosmologique : pays volcaniques (Cendara, Pyrtara) en font économie de
 
 ---
 
-*Liens : [[Items - Index|← Index Items]] · [[Catégories d'Items]] · [[Sources de Ressources]] · [[Crafts]] · [[Métiers]] · [[Les Ères]] · [[Minerai]] · [[Pierre]] · [[Pigment]] · [[Le Souffle]]*
+*Liens : [[Items/Index|← Index Items]] · [[Catégories d'Items]] · [[Sources de Ressources]] · [[Crafts]] · [[Métiers]] · [[Les Ères]] · [[Minerai]] · [[Pierre]] · [[Pigment]] · [[Le Souffle]]*

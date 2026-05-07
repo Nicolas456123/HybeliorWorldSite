@@ -134,4 +134,4 @@ La **Laine creature** est la fibre **textile** par excellence d'origine animale.
 
 ---
 
-*Liens : [[Sources de Ressources]] · [[Crafts]] · [[Fourrure]] · [[Cuirasse]] · [[Robe simple]] · [[Tunique]] · [[Métiers]] · [[Bestiaire - Index]]*
+*Liens : [[Sources de Ressources]] · [[Crafts]] · [[Fourrure]] · [[Cuirasse]] · [[Robe simple]] · [[Tunique]] · [[Métiers]] · [[Bestiary/Index]]*

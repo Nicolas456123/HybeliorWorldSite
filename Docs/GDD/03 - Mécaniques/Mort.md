@@ -63,13 +63,9 @@ Cette philosophie a une conséquence importante : à Hybelior, on n'a **jamais �
 
 ## La mort et le monde qui respire
 
-La mort, à Hybelior, n'est pas pensée à part. Elle s'inscrit dans la même cosmologie qui fait que le monde lui-même respire — que ses Ères se succèdent, que ses Souffles le rééquilibrent, que sa puissance brute se redistribue sans que sa mémoire s'efface. La cohérence est la même : **ce qui est mémoire reste, ce qui est élan se rejoue**.
+La mort, à Hybelior, n'est pas pensée à part. Elle pose, à l'échelle du personnage, le geste que [[Le Souffle]] pose à l'échelle du monde : *ce qui est mémoire reste, ce qui est élan se rejoue*. Un Souffle reconfigure le monde sans effacer ceux qui l'ont peuplé ; une mort reconfigure un personnage sans effacer ce qu'il a accompli. Le vétéran qui meurt ne perd pas ses Ères Concordées, comme il ne perd pas ses titres au passage du Souffle.
 
-Un Souffle reconfigure le monde sans effacer ceux qui l'ont peuplé. Une mort reconfigure un personnage sans effacer ce qu'il a accompli. Dans les deux cas, le geste est identique : le monde **retient** ce qui a un sens, et **rend** ce qui ne doit pas se figer. Le vétéran qui meurt ne perd pas ses Ères Concordées, comme il ne perd pas ses titres au passage du Souffle. Le monde a le même geste, à deux échelles différentes.
-
-Cette parenté n'est pas un hasard. Elle dit quelque chose de l'esprit d'Hybelior : ici, **rien n'est jamais immobile**, mais **rien n'est jamais détruit pour rien**. Le mouvement du monde — grande respiration du Souffle ou petite respiration d'une mort — est toujours un mouvement de **retenue mesurée**. C'est cette mesure qui fait que le monde reste **vivable** sur la durée, sans devenir ni un mausolée figé, ni un wipe perpétuel.
-
-> Pour le détail de cette respiration cosmique et de sa logique générale : voir [[Le Souffle]].
+Cette parenté n'est pas un hasard. Elle dit quelque chose de l'esprit d'Hybelior : ici, **rien n'est jamais immobile**, mais **rien n'est jamais détruit pour rien**. Le mouvement du monde, à toutes ses échelles, est un mouvement de **retenue mesurée**.
 
 ---
 

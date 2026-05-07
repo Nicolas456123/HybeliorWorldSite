@@ -105,10 +105,10 @@ La Tunique civile occupe le slot Torse non-armure. Elle est :
 
 | Matériau | Métier | Intrants T3 | Maîtrise · Durée · Mini-jeu |
 |---|---|---|---|
-| **Tissu** | [[Métiers - Tisserand\|Tisserand]] + [[Métiers - Couturier\|Couturier]] | 3× Tissu · 1× Pigment · 1× Fil métallique | Adepte · 50 s · cadence + couture |
+| **Tissu** | [[Tisserand\|Tisserand]] + [[Métiers - Couturier\|Couturier]] | 3× Tissu · 1× Pigment · 1× Fil métallique | Adepte · 50 s · cadence + couture |
 | **Lin** | Tisserand + Couturier | 4× Tissu de lin · 1× Pigment clair · 1× Fil simple | Initié · 45 s · cadence simple |
 | **Laine plante** | Tisserand + Couturier | 4× Laine · 1× Pigment · 1× Fil de laine · 1× Boucle (ceinture) | Initié · 50 s · cadence |
-| **Cuir léger** | [[Métiers - Tanneur\|Tanneur]] → [[Métiers - Maroquinier\|Maroquinier]] | 3× Cuir tanné fin · 1× Pigment · 2× Boucle | Adepte · 60 s · découpe + couture cuir |
+| **Cuir léger** | [[Tanneur\|Tanneur]] → [[Métiers - Maroquinier\|Maroquinier]] | 3× Cuir tanné fin · 1× Pigment · 2× Boucle | Adepte · 60 s · découpe + couture cuir |
 
 > Tunique = recette **plus simple** que Robe (moins d'intrants, moins de durée, palier plus bas). Reflète son rôle accessible.
 
@@ -138,4 +138,4 @@ La Tunique civile occupe le slot Torse non-armure. Elle est :
 
 ---
 
-*Liens : [[Items - Index\|← Index Items]] · [[Catégories d'Items]] · [[Crafts]] · [[Cuirasse]] · [[Robe simple]] · [[Tabard]] · [[Cape]] · [[Capuche seule]]*
+*Liens : [[Items/Index\|← Index Items]] · [[Catégories d'Items]] · [[Crafts]] · [[Cuirasse]] · [[Robe simple]] · [[Tabard]] · [[Cape]] · [[Capuche seule]]*

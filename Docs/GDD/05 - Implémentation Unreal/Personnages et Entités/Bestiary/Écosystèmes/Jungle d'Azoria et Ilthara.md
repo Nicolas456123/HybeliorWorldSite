@@ -17,7 +17,7 @@ needs_review_for: [singe-stub, panthère-stub, reptiles-tropicaux-stubs, mapping
 
 > Écosystème **tropical luxuriant**, royaume de la biodiversité maximale. Couvre la **jungle d'Ilthara** (Warenthor — L'Éveil de la Jungle, Ackerna théocratie druidique forêts denses), la **jungle d'Esperia** d'Endora (cités perdues, glyphes magiques de vie éternelle — cf. [[Géographie]]), la **forêt de cristal de Baelor** (île dissimulée par brouillard argenté, *Vaporae*), les **sous-bois denses paradisiaques d'Evertia** (Caëspia), et le **sud tropical de Galenor** (Khalorins savanes-jungle). Pas exactement Azoria (qui est désert de glace) — mais la note de l'utilisateur réfère au "tropical Azoria" qui n'existe pas canoniquement → ce fichier réinterprète comme **Jungle Ilthara/Endora**.
 >
-> Voir [[Bestiaire - Index]] · [[Géographie]] · [[Serpent géant]] · [[Ruche d'insectes]] · [[Forêt tempérée d'Astravia]]
+> Voir [[Bestiary/Index]] · [[Géographie]] · [[Serpent géant]] · [[Ruche d'insectes]] · [[Forêt tempérée d'Astravia]]
 
 ---
 
@@ -277,4 +277,4 @@ DÉCOMPOSEURS (très actifs) :
 
 ---
 
-*Liens : [[Bestiaire - Index]] · [[Serpent géant]] · [[Ours brun]] · [[Aigle royal]] · [[Ruche d'insectes]] · [[Métamorphe]] · [[Tortue ancestrale]] · [[Forêt tempérée d'Astravia]] · [[Marais de Pyrtara]] · [[Géographie]] · [[Les Ères]] · [[Cosmologie]] · [[Sources de Ressources]]*
+*Liens : [[Bestiary/Index]] · [[Serpent géant]] · [[Ours brun]] · [[Aigle royal]] · [[Ruche d'insectes]] · [[Métamorphe]] · [[Tortue ancestrale]] · [[Forêt tempérée d'Astravia]] · [[Marais de Pyrtara]] · [[Géographie]] · [[Les Ères]] · [[Cosmologie]] · [[Sources de Ressources]]*

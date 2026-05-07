@@ -64,7 +64,7 @@ Leur rapport à la Polyphonie est celui du **passage** : ils entendent les voix 
 
 Les Petravins sont la lignée de la **pierre qui dure**. Massifs, lents à parler, lents à juger, plus lents encore à pardonner, ils descendent des Enfants de la Roche, premiers mortels d'Alkaran. C'est d'eux qu'est venu le Code de Pierre — premier droit écrit d'Hybelior — et il y a, dans leur manière de tenir la parole, quelque chose de la pierre elle-même : ce qui est gravé reste, ce qui n'est pas gravé n'a jamais existé.
 
-Leur rapport à la Polyphonie est celui du **socle** : ils entendent les voix dans ce qui ne change pas. Alkarath fut leur confédération ; Altram, Iskara et Torkam leurs nations.
+Leur rapport à la Polyphonie est celui du **socle** : ils entendent les voix dans ce qui ne change pas. Alkarath fut leur confédération ; Altram, Ferrath, Iskara et Torkam leurs nations.
 
 > *« Quand un Petravin promet, il promet pour ses petits-enfants. C'est pour cela qu'il promet rarement. »*
 >
@@ -78,7 +78,7 @@ Leur rapport à la Polyphonie est celui de la **contemplation** : ils écoutent 
 
 ### Les Kharavasts — Cendara
 
-Les Kharavasts sont la lignée de la **flamme qui ne meurt pas**. Peau cuivrée, cheveux sombres, voix grave, ils descendent des Marcheurs de Cendre, ces premiers mortels qui survécurent aux plaines volcaniques de Cendara en apprenant à danser avec le feu plutôt qu'à le fuir. L'empire de Pyrevaste fut le leur ; aujourd'hui Cendara seule porte encore la lignée pure, là où le Cœur de Cendra bat sous la pierre — pulsations qui, depuis quelques décennies, s'accélèrent.
+Les Kharavasts sont la lignée de la **flamme qui ne meurt pas**. Peau cuivrée, cheveux sombres, voix grave, ils descendent des Marcheurs de Cendre, ces premiers mortels qui survécurent aux plaines volcaniques de Cendara en apprenant à danser avec le feu plutôt qu'à le fuir. L'empire de Pyrevaste fut le leur ; aujourd'hui le continent de Cendara seul porte encore la lignée pure — Cendara-Royaume, Pyrevane et Arkhen en sont les trois nations héritières —, là où le Cœur de Cendra bat sous la pierre, pulsations qui, depuis quelques décennies, s'accélèrent.
 
 > *« Un Kharavast n'éteint pas un feu. Il le laisse s'endormir, et il veille à côté jusqu'à son réveil. »*
 >
@@ -90,7 +90,7 @@ Leur rapport à la Polyphonie est celui de la **brûlure** : dans ce qui chauffe
 
 Les Marevanes sont la lignée du **sel et de la voile**. Sveltes, agiles, le pied sûr sur les ponts mouvants, ils portent la mémoire des trois familles marchandes — Forr, Gondal, Navar — qui scellèrent le Pacte des Trois Ports et donnèrent naissance à l'empire de Forgon. Plus que toute autre lignée, ils ont fait du **commerce** une forme de civilisation : l'art de tenir parole entre étrangers que rien n'unit sinon le contrat.
 
-Leur rapport à la Polyphonie est celui du **flux** : dans les marées, dans les rumeurs qui voyagent plus vite que les navires. Mosrack, Myrtam et Tyndara prolongent cette tradition, et il n'est pas un port d'Hybelior où l'on ne trouve un comptoir marevan.
+Leur rapport à la Polyphonie est celui du **flux** : dans les marées, dans les rumeurs qui voyagent plus vite que les navires. Mosrack, Myrtam, Tyndara et Elarath prolongent cette tradition, et il n'est pas un port d'Hybelior où l'on ne trouve un comptoir marevan.
 
 ### Les Selvarins — Evertia
 
@@ -100,7 +100,7 @@ Les Selvarins sont la lignée de la **terre qui parle**. On les reconnaît à le
 >
 > *— Halinor de Thalmaris, druide des Sources*
 
-Leur rapport à la Polyphonie est celui de la **communion** : ils laissent les voix s'inviter dans leur propre voix, jusqu'à ce qu'on ne sache plus très bien qui parle. Evertia et Thalmaris sont leurs nations.
+Leur rapport à la Polyphonie est celui de la **communion** : ils laissent les voix s'inviter dans leur propre voix, jusqu'à ce qu'on ne sache plus très bien qui parle. Evertia, Sylvara et Thalmaris sont leurs nations.
 
 ### Les Vael'Somnix — Nysaria
 

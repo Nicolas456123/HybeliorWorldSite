@@ -184,4 +184,4 @@ INFP/INTP N : entend "ce que cette Ère veut sculpter" ; ISFP S : "Le marbre est
 
 ---
 
-*Liens : [[Comportements PNJ - Index|← Index]] · [[Concepts Fondamentaux IA PNJ]] · [[Actions Situationnelles]] · [[Sculpteur]] (archétype joueur) · [[Tailleur de pierre]] · [[Menuisier]] · [[Architecte]] · [[Enchanteur d'objet]] (distinction) · [[Le Souffle]] §Héritage*
+*Liens : [[NPC Behaviors/Index|← Index]] · [[Concepts Fondamentaux IA PNJ]] · [[Actions Situationnelles]] · [[Sculpteur]] (archétype joueur) · [[Tailleur de pierre]] · [[Menuisier]] · [[Architecte]] · [[Enchanteur d'objet]] (distinction) · [[Le Souffle]] §Héritage*

@@ -17,7 +17,7 @@ needs_review_for: [reptiles-désertiques-stub, cités-sables-Phase4, vermifuge-z
 
 > Écosystème **extrême aride**. Couvre l'archipel de **Cendara** (île de Feu et de Cendres, hors Mont Cendra magmatique), les **Cités des Sables d'Endora ouest** (Iskara — labyrinthes, esprits de pierre — cf. [[Géographie]]), les bordures sud-ouest de **Galenor** (transition savanne-désert), et les fronts arides de **Pyrtara** (Ilthara — dictature militaire volcanique). Domaine du **[[Scorpion géant]]** et du **[[Vermifuge des sables]]**.
 >
-> Voir [[Bestiaire - Index]] · [[Géographie]] · [[Scorpion géant]] · [[Vermifuge des sables]] · [[Serpent géant]]
+> Voir [[Bestiary/Index]] · [[Géographie]] · [[Scorpion géant]] · [[Vermifuge des sables]] · [[Serpent géant]]
 
 ---
 
@@ -225,4 +225,4 @@ DÉCOMPOSEURS (rares, secs) :
 
 ---
 
-*Liens : [[Bestiaire - Index]] · [[Vermifuge des sables]] · [[Scorpion géant]] · [[Serpent géant]] · [[Aigle royal]] · [[Zones magmatiques du Mont Cendra]] · [[Géographie]] · [[Les Ères]] · [[Sources de Ressources]]*
+*Liens : [[Bestiary/Index]] · [[Vermifuge des sables]] · [[Scorpion géant]] · [[Serpent géant]] · [[Aigle royal]] · [[Zones magmatiques du Mont Cendra]] · [[Géographie]] · [[Les Ères]] · [[Sources de Ressources]]*

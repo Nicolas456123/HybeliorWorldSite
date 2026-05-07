@@ -287,4 +287,4 @@ Un **parchemin** est un support écrit (papier, peau, vellum) sur lequel un [[M�
 
 ---
 
-*Liens : [[Items - Index|← Index Items]] · [[Catégories d'Items]] · [[Crafts]] · [[Métiers]] · [[Combat]] · [[Personnage]] · [[Le Lien]] · [[Tome]] · [[Livre Récipient]] · [[Potion]]*
+*Liens : [[Items/Index|← Index Items]] · [[Catégories d'Items]] · [[Crafts]] · [[Métiers]] · [[Combat]] · [[Personnage]] · [[Le Lien]] · [[Tome]] · [[Livre Récipient]] · [[Potion]]*

@@ -33,7 +33,7 @@ L'**alliage** est l'**aboutissement métallurgique**. Là où le [[Lingot]] est 
 **Ancrage canonique :** les **9 signatures CSV** ([[AccessExport]] type 31) sont la liste fermée des alliages d'Hybelior. Toute autre combinaison crée un alliage **générique** (effets standards) ; les 9 signatures portent **identité narrative + bonus dédiés**.
 
 > [!important] Lien lore avec le Bestiaire
-> L'**Acier Ivar** (T5) est l'ancêtre métallurgique de l'**Acier Éternel** (T6, hors-CSV) qui est forgé à partir de Cœur de [[Bestiaire - Index|Zocshawk]] + Cœur de Cendre Vivante. Ce passage Ivar → Éternel est documenté §7.
+> L'**Acier Ivar** (T5) est l'ancêtre métallurgique de l'**Acier Éternel** (T6, hors-CSV) qui est forgé à partir de Cœur de [[Bestiary/Index|Zocshawk]] + Cœur de Cendre Vivante. Ce passage Ivar → Éternel est documenté §7.
 
 ---
 
@@ -121,7 +121,7 @@ mastery_required: Maître Métallurgie + Expert Forge
 station: Four à fondre haut creuset + Cercle de fusion runique
 intrants:
   - Lingot d'acier × 4 (T3+)
-  - Cœur de creature × 1 (créature T4+ minimum, voir [[Bestiaire - Index]])
+  - Cœur de creature × 1 (créature T4+ minimum, voir [[Bestiary/Index]])
   - Sang × 2 (créature haut tier)
   - Charbon × 12
   - Fondant × 4
@@ -175,7 +175,7 @@ notes:
 - **Acier inoxydable** (T3) — résiste à la corrosion, durabilité +20%, base militaire moderne
 - **Acier au tungstène** (T4) — densité accrue, anti-armure +15%, marteaux et masses
 - **Acier Ivar** (T5) — lignée Ivar, affixe *Stagger renforcé* gratuit, signature des forges nordiques
-- **Acier Éternel** (T6, **hors-CSV**) — fusion Acier Ivar + Cœur de [[Bestiaire - Index|Zocshawk]] + Cœur de Cendre Vivante. Pas dans le CSV car non standardisé : c'est une **œuvre signée unique**, fait Héritage ([[L'Accord]]) du forgeron qui le crée
+- **Acier Éternel** (T6, **hors-CSV**) — fusion Acier Ivar + Cœur de [[Bestiary/Index|Zocshawk]] + Cœur de Cendre Vivante. Pas dans le CSV car non standardisé : c'est une **œuvre signée unique**, fait Héritage ([[L'Accord]]) du forgeron qui le crée
 
 ### Lignée précieuse
 
@@ -202,4 +202,4 @@ notes:
 
 ---
 
-*Liens : [[Items - Index|← Index Items]] · [[Lingot]] · [[Sources de Ressources]] · [[Crafts]] · [[Métiers]] · [[Bestiaire - Index]] · [[Épée à une main]] · [[L'Accord]]*
+*Liens : [[Items/Index|← Index Items]] · [[Lingot]] · [[Sources de Ressources]] · [[Crafts]] · [[Métiers]] · [[Bestiary/Index]] · [[Épée à une main]] · [[L'Accord]]*

@@ -70,4 +70,4 @@ V2 du Bestiaire (correction explicite) : la branche principale est une **vraie t
 
 ---
 
-*Liens : [[Bestiaire - Index|← Index Bestiaire]] · [[Espèces/_Index]] · [[Taxonomie des Créatures]]*
+*Liens : [[Bestiary/Index|← Index Bestiaire]] · [[Espèces/_Index]] · [[Taxonomie des Créatures]]*

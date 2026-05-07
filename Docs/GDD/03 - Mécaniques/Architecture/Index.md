@@ -9,7 +9,7 @@ aliases: [Architecture - Index]
 
 # 🏛️ Architecture — Index
 
-> Hub d'entrée pour tout ce qui concerne les **constructions** d'Hybelior : habitations, lieux de production, fortifications, infrastructure, mobilier, et constructions cosmiques. Branche soeur de [[Items - Index|Items]] dans la *Descente des couches concept→artefacts*.
+> Hub d'entrée pour tout ce qui concerne les **constructions** d'Hybelior : habitations, lieux de production, fortifications, infrastructure, mobilier, et constructions cosmiques. Branche soeur de [[Items/Index|Items]] dans la *Descente des couches concept→artefacts*.
 >
 > Source canonique du cadrage : sprint Phase 1 *Architecture* — 2026-05-01.
 
@@ -42,7 +42,7 @@ L'architecture en Hybelior est une **mécanique de joueur** :
 
 ## Liens canoniques
 
-- [[Items - Index|Items]] — frontière à arbitrer pour le mobilier (D-ARCHITECTURE-03) et les stations de craft (D-ARCHITECTURE-04)
+- [[Items/Index|Items]] — frontière à arbitrer pour le mobilier (D-ARCHITECTURE-03) et les stations de craft (D-ARCHITECTURE-04)
 - [[Crafts]] — §Travail du bois et de la pierre (Forge architecturale, Verrerie, Maçonnerie) ; §Stations
 - [[Sources de Ressources]] — §Fabrication (Brique, Planche, Pierre, Plaque de verre)
 - [[Métiers]] — Architecte (chef de chantier), Menuisier, Sculpteur, Forgeron — corps de métier supports à compléter (D-ARCHITECTURE-02)
@@ -111,7 +111,7 @@ SORT catégorie ASC, file.name ASC
 |------|----------|------|
 | **D-ARCHITECTURE-01** | Placement Mécaniques vs Systèmes | Recommandation : Mécaniques. À valider Nicolas. |
 | **D-ARCHITECTURE-02** | Métiers de construction manquants (Maçon, Charpentier, Couvreur, Vitrier, Tailleur de pierre) — ajouter aux 63 métiers ou les considérer comme sous-spécialisations de Menuisier/Sculpteur ? | À trancher avant Phase 2 |
-| **D-ARCHITECTURE-03** | Mobilier (table, chaise, lit, coffre…) : sous-catégorie Architecture OU famille séparée dans [[Items - Index\|Items]] (équipement utilitaire) ? | Recommandation initiale : **Architecture** (le mobilier "appartient au lieu" plus qu'au joueur). À valider. |
+| **D-ARCHITECTURE-03** | Mobilier (table, chaise, lit, coffre…) : sous-catégorie Architecture OU famille séparée dans [[Items/Index\|Items]] (équipement utilitaire) ? | Recommandation initiale : **Architecture** (le mobilier "appartient au lieu" plus qu'au joueur). À valider. |
 | **D-ARCHITECTURE-04** | Stations de craft (forge, alambic, métier à tisser) : Architecture (lieu de production) OU Items §Outils (équipement) ? Cohérence avec [[Crafts]] §Stations. | Recommandation : **Architecture pour la station fixe**, [[Items]] pour l'outil portable. |
 | **D-ARCHITECTURE-05** | Constructions de Guilde (avant-postes, forts, villes) : pivot vers [[Guildes]] §Construction OU archétypes propres dans Architecture ? | Recommandation : **archétypes Architecture**, [[Guildes]] référence. |
 | **D-ARCHITECTURE-06** | Niveau 6 *Cosmique* : monnaie classique acceptée (10M+) ou strictement non-marchand (rituels, conditions cachées 🔒, traces) ? | Voir [[Échelles et Niveaux]] §Niveau 6 |
@@ -120,4 +120,4 @@ SORT catégorie ASC, file.name ASC
 
 ---
 
-*Liens : [[Items - Index]] · [[Catégories de Constructions]] · [[Échelles et Niveaux]] · [[Matériaux de Construction]] · [[Mapping Métiers de Construction]] · [[Métiers]] · [[Crafts]] · [[Guildes]] · [[Géographie]] · [[Traces des Ères]] · [[Architecture Data-Driven]]*
+*Liens : [[Items/Index]] · [[Catégories de Constructions]] · [[Échelles et Niveaux]] · [[Matériaux de Construction]] · [[Mapping Métiers de Construction]] · [[Métiers]] · [[Crafts]] · [[Guildes]] · [[Géographie]] · [[Traces des Ères]] · [[Architecture Data-Driven]]*

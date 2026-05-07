@@ -35,7 +35,7 @@ needs_review_for: [tortue-dialogue-Sapient, mapping-Zastalo, durée-vie-immortel
 
 > Archétype canonique de la **créature longévive sage**. Pattern pour tortues géantes, lents-géants, élémentaires de Terre vénérables. Pose le pattern **Sapient non-humanoïde** (la tortue **parle** au stade Vénérable — première créature dialogable du bestiaire) et **durée de vie Immortelle non-cosmique**.
 >
-> Voir [[Bestiaire - Index]] · [[Élémentaire de feu]] · [[Cerf majestueux]]
+> Voir [[Bestiary/Index]] · [[Élémentaire de feu]] · [[Cerf majestueux]]
 
 ---
 
@@ -234,4 +234,4 @@ Voir §3. HP base 600 (CR 10). Pas de Mana (sauf variants/vénérable). Vitesse 
 
 ---
 
-*Liens : [[Bestiaire - Index|← Index Bestiaire]] · [[Élémentaire de feu]] · [[Combat]] · [[Sources de Ressources]] · [[Les Ères]] · [[L'Accord]] · [[Le Lien]] · [[Cosmologie]]*
+*Liens : [[Bestiary/Index|← Index Bestiaire]] · [[Élémentaire de feu]] · [[Combat]] · [[Sources de Ressources]] · [[Les Ères]] · [[L'Accord]] · [[Le Lien]] · [[Cosmologie]]*

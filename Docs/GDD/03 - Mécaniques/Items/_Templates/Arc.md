@@ -19,7 +19,7 @@ needs_review_for: [calibration-chiffres-playtest, archétype-Flèche-à-produire
 > Deuxième archétype d'arme livré dans la *Descente des couches concept→artefacts*. Pose les **patterns canoniques** des armes à distance et de la catégorie de craft *Travail du bois*. Cousin direct de [[Épée à une main]] : reprend la même grille de tiers, les mêmes 10 variants cosmiques, et les mêmes 13 affixes baseline (en y ajoutant 4 affixes spécifiques distance).
 
 > [!important] Note transversale — Flèches
-> Les **Flèches** sont une **catégorie d'item munition séparée** ([[Catégories d'Items]] §Munitions). Cet archétype Arc **ne couvre PAS** le détail des flèches : un futur archétype dédié *Flèche* doit être produit (par P2.X — voir [[Items - Index]] §Phase 2). Les renvois explicites *(→ Archétype Flèche)* dans ce document marquent les zones de complément à venir.
+> Les **Flèches** sont une **catégorie d'item munition séparée** ([[Catégories d'Items]] §Munitions). Cet archétype Arc **ne couvre PAS** le détail des flèches : un futur archétype dédié *Flèche* doit être produit (par P2.X — voir [[Items/Index]] §Phase 2). Les renvois explicites *(→ Archétype Flèche)* dans ce document marquent les zones de complément à venir.
 
 ---
 
@@ -256,7 +256,7 @@ intrants:
   - Bois cosmique × 2
   - Cuir tanné fin × 2
   - Corde mythique × 1    # tressage soie + fil cosmique + essence spirituelle
-  - Cœur de creature × 1 (créature haut tier — voir [[Bestiaire - Index]] Phase 4)
+  - Cœur de creature × 1 (créature haut tier — voir [[Bestiary/Index]] Phase 4)
   - Plume cosmique × 2
   - Essence spirituelle × 1
   - Cristal de Voie × 1
@@ -471,9 +471,9 @@ sortie: Arc mythique signé — Héritage permanent ([[L'Accord]])
 - **Archétype Bouclier** (Phase 2) — comparaison défensive
 - **Archétype Sceptre** (Phase 2) — distance magique, complément
 - **Métier Menuisier** (Phase 2) — détaillera le mini-jeu *coupe précise* + *cintrage vapeur*
-- [[Bestiaire - Index]] (Phase 4) — créatures qui drop *Plume cosmique* / *Cœur de creature* haut tier
+- [[Bestiary/Index]] (Phase 4) — créatures qui drop *Plume cosmique* / *Cœur de creature* haut tier
 - [[Architecture Data-Driven]] — Recipe Generator + ItemModifier Generator paramètreront
 
 ---
 
-*Liens : [[Items - Index|← Index Items]] · [[Catégories d'Items]] · [[Types d'Items]] · [[Sources de Ressources]] · [[Crafts]] · [[Armes et Maîtrise]] · [[Combat]] · [[Personnage]] · [[L'Accord]] · [[Le Souffle]] · [[Les Ères]] · [[Économie]] · [[Épée à une main]]*
+*Liens : [[Items/Index|← Index Items]] · [[Catégories d'Items]] · [[Types d'Items]] · [[Sources de Ressources]] · [[Crafts]] · [[Armes et Maîtrise]] · [[Combat]] · [[Personnage]] · [[L'Accord]] · [[Le Souffle]] · [[Les Ères]] · [[Économie]] · [[Épée à une main]]*

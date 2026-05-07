@@ -119,4 +119,4 @@ Composant **rare**, **haut tier (T3+ minimum)**, indispensable aux **potions Mag
 
 ---
 
-*Liens : [[Items - Index|← Index Items]] · [[Catégories d'Items]] · [[Sources de Ressources]] · [[Crafts]] · [[Métiers]] · [[Les Ères]] · [[Plante]] · [[Fleur]] · [[Potion]] · [[Le Lien]]*
+*Liens : [[Items/Index|← Index Items]] · [[Catégories d'Items]] · [[Sources de Ressources]] · [[Crafts]] · [[Métiers]] · [[Les Ères]] · [[Plante]] · [[Fleur]] · [[Potion]] · [[Le Lien]]*

@@ -95,15 +95,13 @@ Pour la mécanique précise des paliers, voir [[Armes et Maîtrise]] — le syst
 
 ## Métiers et Souffle — quand le monde change de main
 
-Le métier n'est pas indépendant du cosmos qui l'entoure. Les Ères du [[Le Souffle|Souffle]] *modifient ce que les métiers savent faire* — non pour punir l'artisan, mais parce que **le monde lui-même répond différemment à ses gestes**.
-
-Pendant une Ère où Ignis chante, le forgeron travaille mieux : main plus sûre, métal plus docile, lames fières. Pendant une Ère humide dominée par Aquor, ce même forgeron lutte — charbon qui prend mal, métal qui s'oxyde, tempéraments moins justes. Il ne devient pas mauvais ; *il rame contre le monde*. Une herboriste vit le Verdoiement comme une bénédiction et la Brume Mortelle comme un effondrement. Cette friction est une promesse tenue : **un monde qui respire ne flatte pas tous les métiers de la même manière au même moment**. Il y a des saisons pour la forge, des saisons pour la culture, des saisons pour l'oracle. Les Maîtres patients **pivotent** — ils gardent leur métier principal mais réveillent un secondaire pendant que le monde leur sourit moins.
+Le métier n'est pas indépendant du cosmos qui l'entoure. À chaque [[Le Souffle|Souffle]], les [[Les Ères|Ères]] *modifient ce que les métiers savent faire* — non pour punir l'artisan, mais parce que **le monde lui-même répond différemment à ses gestes**. Sous une dominante d'Ignis, le forgeron travaille mieux ; sous une dominante d'Aquor, il rame contre le monde sans devenir mauvais. Une herboriste vit le Verdoiement comme une bénédiction et la Brume Mortelle comme un effondrement. Cette friction est une promesse tenue : **un monde qui respire ne flatte pas tous les métiers de la même manière au même moment**. Les Maîtres patients **pivotent** — ils gardent leur métier principal mais réveillent un secondaire pendant que le monde leur sourit moins.
 
 Certaines recettes, d'ailleurs, *n'existent que pendant certaines Ères*. La Soie de Brume ne se tisse qu'en Ère de Brume. Le Lingot de Pierre-Lumière ne se forge qu'en Ère de Lumina. Quand l'Ère passe, la recette se referme — mais les œuvres déjà créées **demeurent**, signées, en circulation, mémoire matérielle d'un moment du monde qui ne reviendra peut-être jamais à l'identique. *Une lame de Lumina ne se confond pas avec une lame de Noctis* : on les reconnaît au regard, comme deux musiques.
 
 > *« Le métal n'a pas la même âme selon l'année. C'est pourquoi on ne forge pas une lame impériale n'importe quand. Il y a des Ères où les épées veulent naître. Il y a des Ères où elles refusent. »*
 >
-> *— Maître Veyran, forgeron-armurier d'Astravia*
+> *— Maître Aldric, forgeron-armurier de Mosrack*
 
 Pour les chiffres exacts (bonus/malus par Ère, recettes éphémères), voir [[Profession System]].
 

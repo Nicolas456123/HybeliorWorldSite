@@ -35,7 +35,7 @@ needs_review_for: [combat-aquatique-mécanique, frenzy-sang-déclencheur]
 
 > Archétype canonique du **prédateur apex marin** d'Hybelior. Pattern pour requins (blanc, marteau, bouledogue), grands prédateurs aquatiques (orque-géante, leviathan-mineur). Pose le pattern **combat aquatique** (joueur en milieu hostile, mécanique de respiration, mouvement 3D limité).
 >
-> Voir [[Bestiaire - Index]] · [[Tortue ancestrale]] · [[Tentacule abyssal]]
+> Voir [[Bestiary/Index]] · [[Tortue ancestrale]] · [[Tentacule abyssal]]
 
 ---
 
@@ -230,4 +230,4 @@ Voir §3. HP base 480 (CR 12). Stamina haute. **Vitesse pointe 14 m/s sous eau**
 
 ---
 
-*Liens : [[Bestiaire - Index|← Index Bestiaire]] · [[Tortue ancestrale]] · [[Tentacule abyssal]] · [[Combat]] · [[Sources de Ressources]] · [[Les Ères]]*
+*Liens : [[Bestiary/Index|← Index Bestiaire]] · [[Tortue ancestrale]] · [[Tentacule abyssal]] · [[Combat]] · [[Sources de Ressources]] · [[Les Ères]]*

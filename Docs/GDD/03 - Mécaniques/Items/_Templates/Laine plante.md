@@ -117,4 +117,4 @@ C'est un **intrant majeur** du tissage textile ([[Crafts]] §4) — alimente la 
 
 ---
 
-*Liens : [[Items - Index|← Index Items]] · [[Catégories d'Items]] · [[Sources de Ressources]] · [[Crafts]] · [[Métiers]] · [[Les Ères]] · [[Graine]] · [[Plante]] · [[Cuirasse]]*
+*Liens : [[Items/Index|← Index Items]] · [[Catégories d'Items]] · [[Sources de Ressources]] · [[Crafts]] · [[Métiers]] · [[Les Ères]] · [[Graine]] · [[Plante]] · [[Cuirasse]]*

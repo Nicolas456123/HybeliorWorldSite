@@ -130,4 +130,4 @@ Le bois porte une dimension culturelle forte : chaque pays a son **bois national
 
 ---
 
-*Liens : [[Items - Index|← Index Items]] · [[Catégories d'Items]] · [[Sources de Ressources]] · [[Crafts]] · [[Métiers]] · [[Les Ères]] · [[Arc]] · [[Écorce]] · [[Sève]]*
+*Liens : [[Items/Index|← Index Items]] · [[Catégories d'Items]] · [[Sources de Ressources]] · [[Crafts]] · [[Métiers]] · [[Les Ères]] · [[Arc]] · [[Écorce]] · [[Sève]]*

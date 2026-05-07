@@ -273,4 +273,4 @@ Quand toutes les pages sont consumées, le livre devient un **livre vierge** (R�
 
 ---
 
-*Liens : [[Items - Index|← Index Items]] · [[Catégories d'Items]] · [[Crafts]] · [[Métiers]] · [[Le Lien]] · [[Tome]] · [[Parchemin]] · [[Potion]]*
+*Liens : [[Items/Index|← Index Items]] · [[Catégories d'Items]] · [[Crafts]] · [[Métiers]] · [[Le Lien]] · [[Tome]] · [[Parchemin]] · [[Potion]]*

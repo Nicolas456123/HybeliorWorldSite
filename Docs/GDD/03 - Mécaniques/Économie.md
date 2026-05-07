@@ -57,9 +57,7 @@ Cette logique tisse un lien direct avec [[L'Accord]] : un crafteur qui produit d
 
 ## L'économie respire avec le monde
 
-C'est ici que l'économie d'Hybelior diffère le plus radicalement des économies de jeu habituelles. Elle ne vit pas en parallèle du monde — elle **respire avec lui**. Quand le monde change, elle change. Quand le Souffle vient, elle se reconfigure. Quand une Ère s'achève, ses prix se redistribuent.
-
-Au passage d'un Souffle (voir [[Le Souffle]]), les valeurs ne s'effondrent pas — elles **se déplacent**. Ce qui était précieux dans l'Ère qui s'achève ne devient pas sans valeur ; il devient **autrement précieux**. Une lame magistrale forgée sous une Ère de feu, dans une Ère d'eau, perd un peu de sa résonance native. Mais elle gagne, par cette désynchronisation même, un statut nouveau : celui de **relique**. Les collectionneurs viennent. Les amateurs paient cher pour posséder « une vraie lame de l'Ère du Vent » — non pas pour son tranchant, mais pour ce qu'elle dit du temps.
+C'est ici que l'économie d'Hybelior diffère le plus radicalement des économies de jeu habituelles. Elle ne vit pas en parallèle du monde — elle **respire avec lui**, au rythme que [[Le Souffle]] impose à tout le reste : quand l'Ère bascule, les prix ne s'effondrent pas, ils **se déplacent**. Ce qui était précieux dans l'Ère qui s'achève devient *autrement* précieux dans la suivante — une lame magistrale forgée sous une Ère de feu gagne, dans une Ère d'eau, le statut de **relique** que les collectionneurs s'arrachent.
 
 Là où ailleurs les anciens items deviennent des déchets relégués au fond des banques, à Hybelior ils deviennent **objets de mémoire**. Ils racontent une Ère qui n'est plus. Et le marché reconnaît ce qu'ils racontent. Les vrais marchands — ceux qui ne se contentent pas de revendre — gardent toujours une chambre arrière où dorment les pièces des Ères passées, en attendant qu'un joueur vienne demander : *« Avez-vous quelque chose de l'Ère où le ciel saignait ? »*
 

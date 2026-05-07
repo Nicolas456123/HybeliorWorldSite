@@ -35,7 +35,7 @@ Le **Chasseur de primes** est le **traqueur de personnes**. Sa cible : **PNJ cri
 
 Métier officiellement **karma vert** : tuer un joueur **rouge** ou un PNJ avec une **prime active** ne génère **jamais de karma négatif** (voir [[PvP]] §Définition stricte). Mais c'est une profession **violente**, et certains chasseurs glissent vers l'illégalité (tuer un suspect non-confirmé, accepter des contrats privés borderline). Le pur Chasseur de primes garde un cadre légal — proche du Soldat (qui sert un État) mais pas affilié à un État ; proche du [[Mercenaire]] (combat à la demande) mais avec une **cible spécifique et nommée**.
 
-Hybelior connaît plusieurs traditions : les **chasseurs de l'Ouest sauvage** (frontières de [[Galenor]] et [[Onara]]), les **traqueurs de Lythar** (cavaliers nomades, [[Ilthara]]), les **rouges qui chassent les rouges** (fait rare mais existant — outlaws auto-régulateurs), et les **bounty-hunters institutionnels** ([[Mosrack]], guilde structurée).
+Hybelior connaît plusieurs traditions : les **chasseurs de l'Ouest sauvage** (frontières de [[Galenor - Continent|Galenor]] et [[Onara - Continent|Onara]]), les **traqueurs de Lythar** (cavaliers nomades, [[Ilthara - Continent|Ilthara]]), les **rouges qui chassent les rouges** (fait rare mais existant — outlaws auto-régulateurs), et les **bounty-hunters institutionnels** ([[Mosrack]], guilde structurée).
 
 ---
 
@@ -124,7 +124,7 @@ Hybelior connaît plusieurs traditions : les **chasseurs de l'Ouest sauvage** (f
 
 - **Démarrage** : auxiliaire de garde, sergent recruteur d'indics, premier bounty mineur
 - **Progression** : enregistrement officiel auprès d'un **Bureau de Bounty** (en ville majeure), réputation par victoires successives
-- **Établissement** : pas de lieu fixe — **aventurier**. Beaucoup dans les **frontières** (zones où les rouges fuient — frontière [[Galenor]] / [[Endora]], [[Onara]] / [[Mosrack]], [[Ilthara]] / [[Pyrtara]])
+- **Établissement** : pas de lieu fixe — **aventurier**. Beaucoup dans les **frontières** (zones où les rouges fuient — frontière [[Galenor - Continent|Galenor]] / [[Endora - Continent|Endora]], [[Onara - Continent|Onara]] / [[Mosrack]], [[Ilthara - Continent|Ilthara]] / [[Pyrtara]])
 - **Réseau** : [[Garde]] / [[Soldat]] / [[Juge]] (employeurs publics), [[Espion]] / [[Tavernier]] (indics), [[Cartographe]] (cartes), [[Forgeron]] (armes), [[Apothicaire]] (composés tranquillisants pour capture vivante)
 - **Faction** : Bureaux de Bounty officiels (Mosrack, Galenor, Lumasar), Confréries privées (parfois borderline), Justiciers solitaires
 - **Note PvP** : profession **karma vert** mais **directement engagée** dans le système PvP. Un Chasseur de primes actif voit son **flag PvP régulièrement actif** sans pénalité (cf. [[PvP]] §Récompenses du flag actif).

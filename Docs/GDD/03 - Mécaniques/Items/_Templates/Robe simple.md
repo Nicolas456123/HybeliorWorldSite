@@ -102,7 +102,7 @@ La Robe simple opère comme **vêtement social** : elle signale **rang**, **prof
 
 | Matériau | Métier | Intrants T3 | Maîtrise · Durée · Mini-jeu |
 |---|---|---|---|
-| **Tissu** | [[Métiers - Tisserand\|Tisserand]] + [[Métiers - Couturier\|Couturier]] | 5× Tissu · 2× Pigment · 2× Fil métallique | Adepte · 70 s · cadence + couture |
+| **Tissu** | [[Tisserand\|Tisserand]] + [[Métiers - Couturier\|Couturier]] | 5× Tissu · 2× Pigment · 2× Fil métallique | Adepte · 70 s · cadence + couture |
 | **Soie** | Tisserand + [[Métiers - Brodeur\|Brodeur]] | 4× Soie · 3× Pigment précieux · 2× Fil d'or | Expert · 90 s · broderie ornée |
 | **Lin** | Tisserand + Couturier | 6× Tissu de lin · 2× Pigment clair · 1× Fil simple | Initié · 60 s · cadence simple |
 | **Laine plante** | Tisserand + Couturier | 5× Laine · 2× Pigment · 1× Fil de laine | Initié · 65 s · cadence |
@@ -132,4 +132,4 @@ La Robe simple opère comme **vêtement social** : elle signale **rang**, **prof
 
 ---
 
-*Liens : [[Items - Index\|← Index Items]] · [[Catégories d'Items]] · [[Crafts]] · [[Cuirasse]] · [[Tunique civile]] · [[Tabard]] · [[Cape]]*
+*Liens : [[Items/Index\|← Index Items]] · [[Catégories d'Items]] · [[Crafts]] · [[Cuirasse]] · [[Tunique civile]] · [[Tabard]] · [[Cape]]*

@@ -122,4 +122,4 @@ Marqueur économique fort : pays agricoles (Sylthara en Ilthara, plaines de Gale
 
 ---
 
-*Liens : [[Items - Index|← Index Items]] · [[Catégories d'Items]] · [[Sources de Ressources]] · [[Crafts]] · [[Métiers]] · [[Les Ères]] · [[Graine]] · [[Pain]] · [[Boisson]] · [[Économie]]*
+*Liens : [[Items/Index|← Index Items]] · [[Catégories d'Items]] · [[Sources de Ressources]] · [[Crafts]] · [[Métiers]] · [[Les Ères]] · [[Graine]] · [[Pain]] · [[Boisson]] · [[Économie]]*

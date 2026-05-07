@@ -92,7 +92,7 @@ Chaque peau a 3-7 zones à traiter. Une fois toutes propres : peau prête pour c
 
 | Champ | Valeur |
 |---|---|
-| **Métier** | [[Métiers - Forgeron\|Forgeron]] (lame) + Tanneur (poignée cuir auto-fait) |
+| **Métier** | [[Forgeron\|Forgeron]] (lame) + Tanneur (poignée cuir auto-fait) |
 | **Station** | Forge + Établi cuir |
 | **Intrants** | 1× [[Sources de Ressources#Source 3 — Fabrication\|Lingot]] (acier tranchant) · 1× [[Sources de Ressources#Source 1 — Récolte nature\|Bois]] (chêne) · 2× [[Sources de Ressources#Source 2 — Récolte sur créature\|Cuir]] tanné (poignée et fourreau) · 1× [[Sources de Ressources#Source 3 — Fabrication\|Fil métallique]] |
 | **Palier requis** | Adepte |
@@ -122,4 +122,4 @@ Chaque peau a 3-7 zones à traiter. Une fois toutes propres : peau prête pour c
 
 ---
 
-*Liens : [[Items - Index\|← Index Items]] · [[Crafts]] · [[Métiers]] · [[Catégories d'Items]] · [[Dague]] · [[Lame]] · [[Cuirasse]]*
+*Liens : [[Items/Index\|← Index Items]] · [[Crafts]] · [[Métiers]] · [[Catégories d'Items]] · [[Dague]] · [[Lame]] · [[Cuirasse]]*

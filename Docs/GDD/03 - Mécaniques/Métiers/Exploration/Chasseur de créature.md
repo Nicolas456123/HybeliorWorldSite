@@ -33,7 +33,7 @@ Le **Chasseur de créature** est le **prédateur professionnel** d'Hybelior. Sa 
 > - **[[Chasseur de trésors]]** — cible = **reliques, ruines, butins enfouis**, gain = trésors et lore
 > - **[[Chasseur de primes]]** — cible = **personnes** (PNJ ou joueurs karma rouge), gain = bounty
 
-Le Chasseur de créature recoupe partiellement le **Dépéceur** (qui dépèce sur place) — beaucoup de chasseurs maîtrisent les deux compétences à un palier minimal, mais un Chasseur professionnel **vend la carcasse entière** ou les pièces clés (cœur, venin), laissant souvent le dépeçage fin à un partenaire spécialisé. Distinct du [[Dresseur]] (qui prend vivant) et de l'[[Éleveur de créature]] (qui élève en captivité).
+Le Chasseur de créature recoupe partiellement le **Dépéceur** (qui dépèce sur place) — beaucoup de chasseurs maîtrisent les deux compétences à un palier minimal, mais un Chasseur professionnel **vend la carcasse entière** ou les pièces clés (cœur, venin), laissant souvent le dépeçage fin à un partenaire spécialisé. Distinct du [[Dresseur]] (qui prend vivant) et de l'[[Eleveur de créature]] (qui élève en captivité).
 
 Hybelior connaît trois traditions principales : le **chasseur des plaines** (Onara, Galenor — arc, cor, meute de chiens), le **traqueur des forêts** (Trinoria — flèches, embuscades), et le **tueur de monstres** ([[Drakora]], frontières du [[No man's land]] — armes lourdes, contrats officiels).
 
@@ -42,7 +42,7 @@ Hybelior connaît trois traditions principales : le **chasseur des plaines** (On
 ## 2. Stats brutes & Maîtrises associées
 
 - **Stat principale** : **Vivacité** — réaction, esquive, frappes rapides, corps-à-corps mobile
-- **Stats secondaires** : **Acuité** (pistage, lecture des traces, viser, critiques), **Vigueur** (frapper assez fort pour percer la peau d'un monstre), **Endurance** (longues traques sur plusieurs jours), **Mémoire** (apprendre les comportements et points faibles de chaque espèce — cf. [[Bestiaire - Index]])
+- **Stats secondaires** : **Acuité** (pistage, lecture des traces, viser, critiques), **Vigueur** (frapper assez fort pour percer la peau d'un monstre), **Endurance** (longues traques sur plusieurs jours), **Mémoire** (apprendre les comportements et points faibles de chaque espèce — cf. [[Bestiary/Index]])
 - **Maîtrises** :
   - `Maîtrise_Pistage` — détection et suivi de traces
   - `Maîtrise_Chasse` — abattage efficace, exploitation des points faibles
@@ -67,7 +67,7 @@ Hybelior connaît trois traditions principales : le **chasseur des plaines** (On
 - **Œil, Cœur de creature, Sang, Venin, Larme, Sécrétion** (composants alchimiques recherchés)
 - **Graisse animale** — cuisson, lubrification
 
-→ Référence [[Sources de Ressources]] §Source 2 Créature et §Mapping créature ↔ ressource. Loot tables Phase 2 [[Bestiaire - Index]].
+→ Référence [[Sources de Ressources]] §Source 2 Créature et §Mapping créature ↔ ressource. Loot tables Phase 2 [[Bestiary/Index]].
 
 ---
 
@@ -96,7 +96,7 @@ Hybelior connaît trois traditions principales : le **chasseur des plaines** (On
 | **Initié** | Gibier moyen (cerf, sanglier, loup solitaire), pistage 5 km, embuscades simples |
 | **Adepte** | Gros gibier (ours, élan, meutes coordonnées), traques sur plusieurs jours, contrats privés |
 | **Expert** | Créatures rares (panthère, aurochs, premières créatures cosmiques), contrats publics rémunérés |
-| **Maître** | **Condition cachée 🔒** — Chasse de créatures **mythiques** (cf. [[Bestiaire - Index]] tier élevé), contrats internationaux, capacité de chasse de **boss mondiaux** rares (cf. [[Exploration]] §Événements) |
+| **Maître** | **Condition cachée 🔒** — Chasse de créatures **mythiques** (cf. [[Bestiary/Index]] tier élevé), contrats internationaux, capacité de chasse de **boss mondiaux** rares (cf. [[Exploration]] §Événements) |
 
 > Décroissance : voir [[Armes et Maîtrise]]. Rouille post-[[Le Souffle]] 1 semaine, −15% précision et pistage.
 
@@ -108,9 +108,9 @@ Hybelior connaît trois traditions principales : le **chasseur des plaines** (On
 |--------|----------------|
 | **Novice** | Lapin · Perdrix · Sanglier juvénile · Renard · Cuir commun |
 | **Initié** | Cerf · Loup solitaire · Élan · Faucon · Cuir robuste · Plumes de chasse |
-| **Adepte** | Ours · Meute de loups · Sanglier-roi · Cerf-fantôme ([[Onara]]) · Carapace de scolopendre · Venin de serpent royal |
-| **Expert** | Panthère · Aurochs · Tigre de [[Ilthara]] · Phénix juvénile ([[Cendara]]) · Cœur de leviathan · Larme de licorne |
-| **Maître** | Dragon mineur ([[Drakora]]) · Léviathan ([[Azoria]]) · Variant post-[[Le Souffle]] · Boss mondial rare · Créature cosmique abattue (avec [[Le Lien]]) |
+| **Adepte** | Ours · Meute de loups · Sanglier-roi · Cerf-fantôme ([[Onara - Continent|Onara]]) · Carapace de scolopendre · Venin de serpent royal |
+| **Expert** | Panthère · Aurochs · Tigre de [[Ilthara - Continent|Ilthara]] · Phénix juvénile ([[Cendara - Continent|Cendara]]) · Cœur de leviathan · Larme de licorne |
+| **Maître** | Dragon mineur ([[Drakora]]) · Léviathan ([[Azoria - Continent|Azoria]]) · Variant post-[[Le Souffle]] · Boss mondial rare · Créature cosmique abattue (avec [[Le Lien]]) |
 
 → Loot tables individuelles : Phase 2 Bestiaire Generator.
 
@@ -122,7 +122,7 @@ Hybelior connaît trois traditions principales : le **chasseur des plaines** (On
 - **Progression** : contrats privés (fourniture de cuir/cornes à un [[Tanneur]] / [[Forgeron]]), inscription à une **Guilde des Chasseurs**
 - **Établissement** : pas de lieu fixe — base éventuelle dans une ville-frontière. Beaucoup d'**aventuriers** issus de ce métier
 - **Réseau** : [[Tanneur]] / [[Boucher]] (clients de matières), [[Apothicaire]] / [[Alchimiste]] (composants alchimiques), [[Forgeron]] (armes, pièges), [[Cartographe]] (cartes de chasse), [[Marchand]] (export)
-- **Faction** : Guildes des Chasseurs ([[Trinoria]], [[Galenor]]), Tueurs de Monstres ([[Drakora]] — chasse aux dragons), Confréries silencieuses ([[Onara]] — Chasseurs de la Glace)
+- **Faction** : Guildes des Chasseurs ([[Trinoria]], [[Galenor - Continent|Galenor]]), Tueurs de Monstres ([[Drakora]] — chasse aux dragons), Confréries silencieuses ([[Onara - Continent|Onara]] — Chasseurs de la Glace)
 - **Note PvP** : un Chasseur de créature ne tue pas de joueurs — karma vert. S'il devait être attaqué, il a la stamina et l'arsenal pour se défendre. **Distinct du [[Chasseur de primes]]** qui chasse des humains.
 
 ---
@@ -194,8 +194,8 @@ Chasseur de créature ─→ [[Boucher]] / [[Tanneur]] (Cuir, Viande)
 **PNJ célèbres** *(Phase 4)* :
 - *Karim de [[Trinoria]]* — Maître chasseur, "L'Œil des Bois"
 - *Vorgan le Tueur* — Chasseur de dragons légendaire de [[Drakora]]
-- *Sœur Aëlia* — [[Foedus Animae]], chasseresse rituelle de [[Ilthara]]
+- *Sœur Aëlia* — [[Foedus Animae]], chasseresse rituelle de [[Ilthara - Continent|Ilthara]]
 
 ---
 
-*Liens : [[Métiers]] · [[Personnage]] · [[Combat]] · [[Bestiaire - Index]] · [[Sources de Ressources]] · [[Économie]] · [[Armes et Maîtrise]] · [[L'Accord]] · [[Le Souffle]] · [[Exploration]] · [[Chasseur de trésors]] · [[Chasseur de primes]] · [[Dresseur]] · [[Tanneur]] · [[Boucher]] · [[Apothicaire]] · [[Forgeron]]*
+*Liens : [[Métiers]] · [[Personnage]] · [[Combat]] · [[Bestiary/Index]] · [[Sources de Ressources]] · [[Économie]] · [[Armes et Maîtrise]] · [[L'Accord]] · [[Le Souffle]] · [[Exploration]] · [[Chasseur de trésors]] · [[Chasseur de primes]] · [[Dresseur]] · [[Tanneur]] · [[Boucher]] · [[Apothicaire]] · [[Forgeron]]*

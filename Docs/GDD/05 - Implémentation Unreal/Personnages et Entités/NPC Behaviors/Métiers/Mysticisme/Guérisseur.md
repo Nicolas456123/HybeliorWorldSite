@@ -213,7 +213,7 @@ Cascade Guérisseur : **Crise (soin priorité absolue) > Religieux > Deuil > Mar
 
 ### RitualPattern compatibles (selon religion)
 
-- **Ignis Aeternum** : prière à l'aube + tabou pluie (cf [[Métiers - Forgeron]] et §8 Prêtre)
+- **Ignis Aeternum** : prière à l'aube + tabou pluie (cf [[Forgeron]] et §8 Prêtre)
 - **Vael'Kurash** : offrande matinale à l'esprit local + visite bois sacré 1×/sem
 - **Foedus Animae** : offrande quotidienne à l'autel familial 19:00 + pacte avec compagnon
 - **Ordo Caelum** : prière midi + nuit (rare, si Guérisseur Voie de Celestia — académique)
@@ -227,4 +227,4 @@ Cascade Guérisseur : **Crise (soin priorité absolue) > Religieux > Deuil > Mar
 
 ---
 
-*Liens : [[Comportements PNJ - Index|← Index]] · [[Routine Quotidienne]] · [[Modes Sociaux]] · [[Concepts Fondamentaux IA PNJ]] · [[Actions Situationnelles]] · [[03 - Mécaniques/Métiers/Mysticisme/Guérisseur|Guérisseur (archétype joueur)]] · [[Mort]] · [[Le Lien]] · [[Cosmologie]] · [[Médecin]]*
+*Liens : [[NPC Behaviors/Index|← Index]] · [[Routine Quotidienne]] · [[Modes Sociaux]] · [[Concepts Fondamentaux IA PNJ]] · [[Actions Situationnelles]] · [[03 - Mécaniques/Métiers/Mysticisme/Guérisseur|Guérisseur (archétype joueur)]] · [[Mort]] · [[Le Lien]] · [[Cosmologie]] · [[Médecin]]*

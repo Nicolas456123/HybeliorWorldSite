@@ -124,4 +124,4 @@ L'**Antenne** est l'organe sensoriel de l'insectoïde et du crustacé : double t
 
 ---
 
-*Liens : [[Sources de Ressources]] · [[Crafts]] · [[Carapace]] · [[Sécrétion]] · [[Œil]] · [[Krill géant]] · [[Ruche d'insectes]] · [[Bestiaire - Index]]*
+*Liens : [[Sources de Ressources]] · [[Crafts]] · [[Carapace]] · [[Sécrétion]] · [[Œil]] · [[Krill géant]] · [[Ruche d'insectes]] · [[Bestiary/Index]]*

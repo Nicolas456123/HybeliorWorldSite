@@ -17,7 +17,7 @@ needs_review_for: [chauves-souris-stub, créatures-aveugles-stub, druides-écho-
 
 > Écosystème **souterrain stable**, royaume du sans-soleil. Couvre principalement **Ulinor** (l'Île des Échos — **Grand Canyon de l'Écho** sacré, **Grottes de Cristal de Serenth** qui amplifient ou détruisent la magie — cf. [[Géographie]]), les **mines de Myrtam** (Alkaran — Acier Éternel, fer, argent), les souterrains d'**Endora-Iskara** (Cités des Sables labyrinthiques), les **sous-sols d'Evertia** (gemmes), et les forteresses souterraines d'**Elarian** (Celethor — glace + cristaux). Domaine du **[[Cristal vivant]]** et du **[[Slime amorphe]]**.
 >
-> Voir [[Bestiaire - Index]] · [[Géographie]] · [[Cristal vivant]] · [[Slime amorphe]] · [[Tisseur du Vide]]
+> Voir [[Bestiary/Index]] · [[Géographie]] · [[Cristal vivant]] · [[Slime amorphe]] · [[Tisseur du Vide]]
 
 ---
 
@@ -240,4 +240,4 @@ DÉCOMPOSEURS :
 
 ---
 
-*Liens : [[Bestiaire - Index]] · [[Cristal vivant]] · [[Slime amorphe]] · [[Tisseur du Vide]] · [[Démon mineur]] · [[Zones magmatiques du Mont Cendra]] · [[Plans cosmiques]] · [[Géographie]] · [[Les Ères]] · [[Cosmologie]] · [[Sources de Ressources]]*
+*Liens : [[Bestiary/Index]] · [[Cristal vivant]] · [[Slime amorphe]] · [[Tisseur du Vide]] · [[Démon mineur]] · [[Zones magmatiques du Mont Cendra]] · [[Plans cosmiques]] · [[Géographie]] · [[Les Ères]] · [[Cosmologie]] · [[Sources de Ressources]]*

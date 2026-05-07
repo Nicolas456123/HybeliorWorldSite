@@ -126,6 +126,6 @@ Les échanges commerciaux existent, mais modestes. Les marchands de Solena et d'
 
 *Récit narratif détaillé : voir [[Lore/Pays/Ulinor/Ulinor - Continent|Lore/Pays/Ulinor/]]*
 
-*Liens narratifs : [[Continents/Index|Tous les continents]] | [[02 - Monde/Index|02 - Monde]] | [[Lignees]] | [[Le Souffle]] | [[Traces des Ères]]*
+*Liens narratifs : [[Continents/Index|Tous les continents]] | [[02 - Monde/Index|02 - Monde]] | [[Lignées]] | [[Le Souffle]] | [[Traces des Ères]]*
 
 *Pour les spécifications techniques (superficie, population, climat chiffré, faune endémique, ressources économiques) : voir fiches nations et `Lore/Pays/Ulinor/`.*

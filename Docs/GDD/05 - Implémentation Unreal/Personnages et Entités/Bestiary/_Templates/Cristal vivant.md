@@ -35,7 +35,7 @@ needs_review_for: [croissance-fractale-mécanique, branches-autonomes-IA, harmon
 
 > Archétype canonique de la **forme V2 Fractal** (1ère implémentation). Pose le pattern **géométrie évolutive** : la créature **change de forme selon sa taille** (croissance fractale — plus elle grandit, plus elle a de branches autonomes). Cognition **Hivemind interne** (les branches partagent un esprit collectif). Pattern complémentaire à [[Tisseur du Vide]] (fractal mobile/hostile/Vide), ici **fractal sédentaire/ancien/Terre**.
 >
-> Voir [[Bestiaire - Index]] · [[Taxonomie des Créatures]] · [[Tisseur du Vide]] · [[Élémentaire de feu]]
+> Voir [[Bestiary/Index]] · [[Taxonomie des Créatures]] · [[Tisseur du Vide]] · [[Élémentaire de feu]]
 
 ---
 
@@ -266,7 +266,7 @@ Le Cristal vivant **n'apparaît pas** — il **est là**, depuis longtemps. Déc
 - **Réseau régional** : profaner un Cristal Cathédrale+ réveille les voisins (multi-combats)
 - **Fuite de la branche-cœur** : pas de "mort" propre — le Cristal **se replante** ailleurs
 
-> [!note] Branche [[Comportements PNJ - Index]]
+> [!note] Branche [[NPC Behaviors/Index]]
 > Pattern canonique pour créatures **Hivemind Émergeante Fractale Fixe**. Hérité par : [[Tisseur du Vide]] (mais mobile + Vide), Coraux conscients, Champignons-réseau (Phase 4).
 
 ---
@@ -329,4 +329,4 @@ Le Cristal vivant **n'apparaît pas** — il **est là**, depuis longtemps. Déc
 
 ---
 
-*Liens : [[Bestiaire - Index|← Index Bestiaire]] · [[Taxonomie des Créatures]] · [[Tisseur du Vide]] · [[Élémentaire de feu]] · [[Spectre des Ères]] · [[Cosmologie]] · [[Le Lien]] · [[Sources de Ressources]] · [[Combat]]*
+*Liens : [[Bestiary/Index|← Index Bestiaire]] · [[Taxonomie des Créatures]] · [[Tisseur du Vide]] · [[Élémentaire de feu]] · [[Spectre des Ères]] · [[Cosmologie]] · [[Le Lien]] · [[Sources de Ressources]] · [[Combat]]*

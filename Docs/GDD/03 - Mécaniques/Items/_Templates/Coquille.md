@@ -124,4 +124,4 @@ Triple usage canonique :
 
 ---
 
-*Liens : [[Items - Index|← Index Items]] · [[Catégories d'Items]] · [[Sources de Ressources]] · [[Crafts]] · [[Métiers]] · [[Les Ères]] · [[Algue]] · [[Pigment]] · [[Anneau]] · [[Amulette]] · [[Poisson]]*
+*Liens : [[Items/Index|← Index Items]] · [[Catégories d'Items]] · [[Sources de Ressources]] · [[Crafts]] · [[Métiers]] · [[Les Ères]] · [[Algue]] · [[Pigment]] · [[Anneau]] · [[Amulette]] · [[Poisson]]*

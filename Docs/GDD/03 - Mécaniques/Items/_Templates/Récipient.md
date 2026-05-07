@@ -268,4 +268,4 @@ Le récipient lui-même n'est pas consommé — c'est son **contenu** qui se boi
 
 ---
 
-*Liens : [[Items - Index|← Index Items]] · [[Catégories d'Items]] · [[Crafts]] · [[Métiers]] · [[Potion]] · [[Boisson]] · [[Sources de Ressources]]*
+*Liens : [[Items/Index|← Index Items]] · [[Catégories d'Items]] · [[Crafts]] · [[Métiers]] · [[Potion]] · [[Boisson]] · [[Sources de Ressources]]*

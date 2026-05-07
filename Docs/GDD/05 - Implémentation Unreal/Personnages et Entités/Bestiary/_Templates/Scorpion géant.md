@@ -35,7 +35,7 @@ needs_review_for: [venin-tier-3-5, embuscade-vibrations-mécanique, déshydratat
 
 > Archétype canonique du **prédateur insectoïde désertique** d'Hybelior. Pose le pattern **insectoïde Solitaire** (vs [[Ruche d'insectes]] Hivemind) et **embuscade enfouie** (vs Embuscade forêt du [[Loup forestier]] ou Embuscade neige du [[Loup arctique]]). Premier archétype clairement **désertique** du bestiaire — pose les patterns Désert (déshydratation, vibrations, chaleur). Pattern **8 pattes + dard** (insectoïde quadrupède partiel).
 >
-> Voir [[Bestiaire - Index]] · [[Ruche d'insectes]] · [[Serpent géant]] · [[Vermifuge des sables]] · [[Taxonomie des Créatures]]
+> Voir [[Bestiary/Index]] · [[Ruche d'insectes]] · [[Serpent géant]] · [[Vermifuge des sables]] · [[Taxonomie des Créatures]]
 
 ---
 
@@ -232,7 +232,7 @@ Voir §3. HP base 280 (CR 8 adulte standard). Stamina propre. Pas de Mana. Vites
 - **Ère du Feu Endormi** : variant Brulé domine, agressivité +30%
 - **Ère de Sommeil de Glace** : Frost Scorpion paradoxe (rare)
 
-> [!note] Branche [[Comportements PNJ - Index]]
+> [!note] Branche [[NPC Behaviors/Index]]
 > Pattern canonique pour créatures **Instinctives Solitaires Embuscade Désertique**. Hérité par : araignées géantes désertiques, scolopendres géants, lézards-pièges.
 
 ---
@@ -296,4 +296,4 @@ Voir §3. HP base 280 (CR 8 adulte standard). Stamina propre. Pas de Mana. Vites
 
 ---
 
-*Liens : [[Bestiaire - Index|← Index Bestiaire]] · [[Ruche d'insectes]] · [[Serpent géant]] · [[Vermifuge des sables]] · [[Sources de Ressources]] · [[Géographie]] · [[Combat]]*
+*Liens : [[Bestiary/Index|← Index Bestiaire]] · [[Ruche d'insectes]] · [[Serpent géant]] · [[Vermifuge des sables]] · [[Sources de Ressources]] · [[Géographie]] · [[Combat]]*

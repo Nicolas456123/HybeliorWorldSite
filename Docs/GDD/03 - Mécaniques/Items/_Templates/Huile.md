@@ -158,4 +158,4 @@ notes:
 
 ---
 
-*Liens : [[Items - Index|← Index Items]] · [[Sources de Ressources]] · [[Crafts]] · [[Métiers]] · [[Potion]] · [[Émulsion alchimique]] · [[Résine traitée]] · [[Fil métallique]]*
+*Liens : [[Items/Index|← Index Items]] · [[Sources de Ressources]] · [[Crafts]] · [[Métiers]] · [[Potion]] · [[Émulsion alchimique]] · [[Résine traitée]] · [[Fil métallique]]*

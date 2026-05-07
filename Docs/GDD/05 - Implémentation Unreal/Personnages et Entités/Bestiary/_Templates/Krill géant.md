@@ -35,7 +35,7 @@ needs_review_for: [krill-swarm-gestion, mapping-Paboucs, filtration-mécanique]
 
 > Archétype canonique du **crustacé colossal aquatique** d'Hybelior. Pattern pour krills géants, crabes-titans, homards-monstres, scolopendres aquatiques. Hybride entre [[Ruche d'insectes]] (Insectoïde, Spores) et [[Requin abyssal]] (aquatique). Pose le pattern **Insectoïde aquatique** — distinct de la ruche terrestre.
 >
-> Voir [[Bestiaire - Index]] · [[Ruche d'insectes]] · [[Requin abyssal]]
+> Voir [[Bestiary/Index]] · [[Ruche d'insectes]] · [[Requin abyssal]]
 
 ---
 
@@ -233,4 +233,4 @@ Voir §3. HP base 200 (CR 6). Stamina basse. Vitesse 5 m/s nage.
 
 ---
 
-*Liens : [[Bestiaire - Index|← Index Bestiaire]] · [[Ruche d'insectes]] · [[Requin abyssal]] · [[Tentacule abyssal]] · [[Combat]] · [[Sources de Ressources]] · [[Les Ères]]*
+*Liens : [[Bestiary/Index|← Index Bestiaire]] · [[Ruche d'insectes]] · [[Requin abyssal]] · [[Tentacule abyssal]] · [[Combat]] · [[Sources de Ressources]] · [[Les Ères]]*

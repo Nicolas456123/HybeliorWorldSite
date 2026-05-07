@@ -118,4 +118,4 @@ Une écorce mal levée tue l'arbre ; un Bûcheron Adepte+ la récolte de manièr
 
 ---
 
-*Liens : [[Items - Index|← Index Items]] · [[Catégories d'Items]] · [[Sources de Ressources]] · [[Crafts]] · [[Métiers]] · [[Les Ères]] · [[Bois]] · [[Sève]] · [[Pigment]]*
+*Liens : [[Items/Index|← Index Items]] · [[Catégories d'Items]] · [[Sources de Ressources]] · [[Crafts]] · [[Métiers]] · [[Les Ères]] · [[Bois]] · [[Sève]] · [[Pigment]]*

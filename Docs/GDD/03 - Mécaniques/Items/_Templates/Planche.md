@@ -160,4 +160,4 @@ sortie: Planche d'If × 5 (T4) — élasticité préservée pour [[Arc]] long
 
 ---
 
-*Liens : [[Items - Index|← Index Items]] · [[Sources de Ressources]] · [[Crafts]] · [[Métiers]] · [[Arc]] · [[Sceptre]] · [[Épée à une main]] · [[Tome]] · [[Bouclier]]*
+*Liens : [[Items/Index|← Index Items]] · [[Sources de Ressources]] · [[Crafts]] · [[Métiers]] · [[Arc]] · [[Sceptre]] · [[Épée à une main]] · [[Tome]] · [[Bouclier]]*

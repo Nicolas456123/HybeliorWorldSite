@@ -117,4 +117,4 @@ Pattern unique : **identification difficile** (mini-jeu mycologue) — un champi
 
 ---
 
-*Liens : [[Items - Index|← Index Items]] · [[Catégories d'Items]] · [[Sources de Ressources]] · [[Crafts]] · [[Métiers]] · [[Les Ères]] · [[Champignons]] · [[Plante]] · [[Cœur de plante]]*
+*Liens : [[Items/Index|← Index Items]] · [[Catégories d'Items]] · [[Sources de Ressources]] · [[Crafts]] · [[Métiers]] · [[Les Ères]] · [[Champignons]] · [[Plante]] · [[Cœur de plante]]*

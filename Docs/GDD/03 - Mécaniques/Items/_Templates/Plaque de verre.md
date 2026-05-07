@@ -156,4 +156,4 @@ sortie: Plaque de Voie × 1 (T4) — résonne avec la Voie du forgeron
 
 ---
 
-*Liens : [[Items - Index|← Index Items]] · [[Sources de Ressources]] · [[Crafts]] · [[Métiers]] · [[Récipient]] · [[Brique]] · [[Cristal de Voie]]*
+*Liens : [[Items/Index|← Index Items]] · [[Sources de Ressources]] · [[Crafts]] · [[Métiers]] · [[Récipient]] · [[Brique]] · [[Cristal de Voie]]*

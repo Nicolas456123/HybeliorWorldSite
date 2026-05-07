@@ -125,4 +125,4 @@ Pattern unique : pas de tier "matériau" classique, mais un **axe de pureté** (
 
 ---
 
-*Liens : [[Items - Index|← Index Items]] · [[Catégories d'Items]] · [[Sources de Ressources]] · [[Crafts]] · [[Métiers]] · [[Les Ères]] · [[Sève]] · [[Récipient]] · [[Potion]] · [[Boisson]]*
+*Liens : [[Items/Index|← Index Items]] · [[Catégories d'Items]] · [[Sources de Ressources]] · [[Crafts]] · [[Métiers]] · [[Les Ères]] · [[Sève]] · [[Récipient]] · [[Potion]] · [[Boisson]]*

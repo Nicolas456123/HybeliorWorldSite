@@ -107,16 +107,13 @@ Onara exporte du fer, de l'acier, des cargaisons, des contrats, des assurances m
 
 ---
 
-## Specs
+## Repères
 
-| Champ | Valeur |
-|---|---|
-| **Numéro continent** (canon Access) | 14 |
-| **Nom canonique** | Onara — Le Royaume des Vents et des Glaces |
-| **Lignée principale** | voir [[Lignees]] |
-| **Nombre de nations** | 4 |
-| **Stade dominant** | La Loi (variante : Loi du Calcul) |
-| **Religion principale** | Lex Petra (Mosrack), Ignis Aeternum (Myrtam), Via Ventus (Tyndara), mosaïque (Elarath) |
+- **Nom canonique** : Onara — Le Royaume des Vents et des Glaces
+- **Lignée principale** : Marevanes — *le sel et la voile* (voir [[Lignées]])
+- **Nations** : Mosrack, Tyndara, Myrtam, Elarath
+- **Stade dominant** : La Loi (variante : Loi du Calcul)
+- **Religions** : Lex Petra (Mosrack), Ignis Aeternum (Myrtam), Via Ventus (Tyndara), mosaïque (Elarath)
 
 ### Géographie principale
 
@@ -144,14 +141,14 @@ Taïga clairsemée (nord), prairie ouverte (centre), zone humide (Fugnord), mont
 | [[Onara/Myrtam\|Myrtam]] | Monarchie industrielle des forges, Acier Éternel, mineurs et cristalliers |
 | [[Onara/Elarath\|Elarath]] | Cité-État libre, philosophie de la petitesse, héritière de la Fédération de Morveth |
 
-> [!info] Note V3.4 — Myrtam
-> La base Access rattache Myrtam au continent Alkaran. La refonte V3.4 l'a relocalisée vers Onara pour cohérence narrative (industrie minière et forge à proximité du couple Mosrack/Tyndara).
+> [!info] Note canonique — Myrtam
+> La base ancienne rattachait Myrtam au continent Alkaran. La refonte canonique l'a relocalisée vers Onara pour cohérence narrative (industrie minière et forge à proximité du couple Mosrack/Tyndara).
 
 ### Événements historiques majeurs
 
 - **Guerre des Cent-Jours** — conflit fondateur de la suprématie mosrackienne, victoire décisive grâce aux machines de guerre de Volkar le Marteau.
 - **Fondation de la Ligue des Marchands** — fédération de cités-comptoirs tyndaréennes, base de la puissance commerciale du continent.
-- **Fragmentation de la Fédération de Morveth** — dissolution du Conseil des Quais en l'an 47, dont Elarath est l'héritière dispersée.
+- **Fragmentation de la Fédération de Morveth** — dissolution du Conseil des Quais peu après le tournant de l'Ère, dont Elarath est l'héritière dispersée.
 
 ### Tonalité narrative
 
@@ -166,4 +163,4 @@ Registre à mi-chemin entre **chronique commerciale** (les routes, les volumes, 
 
 *Récit narratif détaillé : voir [[Lore/Pays/Onara/Onara - Continent]] et `Lore/Pays/Onara/`*
 
-*Liens : [[Continents/Index|Tous les continents]] | [[02 - Monde/Index|02 - Monde]] | [[Lignees]] | [[Onara/Mosrack|Mosrack]] | [[Onara/Tyndara|Tyndara]] | [[Onara/Myrtam|Myrtam]] | [[Onara/Elarath|Elarath]]*
+*Liens : [[Continents/Index|Tous les continents]] | [[02 - Monde/Index|02 - Monde]] | [[Lignées]] | [[Onara/Mosrack|Mosrack]] | [[Onara/Tyndara|Tyndara]] | [[Onara/Myrtam|Myrtam]] | [[Onara/Elarath|Elarath]]*

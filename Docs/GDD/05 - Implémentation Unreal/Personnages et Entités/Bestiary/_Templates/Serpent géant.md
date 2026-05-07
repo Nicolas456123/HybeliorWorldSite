@@ -35,7 +35,7 @@ needs_review_for: [venin-tier-alchimie, mapping-Sparutor, constriction-mécaniqu
 
 > Archétype canonique du **reptile prédateur d'embuscade** d'Hybelior. Pattern pour serpents géants, anacondas, vipères-colosses, lamies-base. Premier archétype **reptile** du bestiaire — pose le pattern **infrarouge / venin / constriction**, et la **patience d'embuscade** (alternative à l'endurance de poursuite du Loup).
 >
-> Voir [[Bestiaire - Index]] · [[Tortue ancestrale]] · [[Loup forestier]]
+> Voir [[Bestiary/Index]] · [[Tortue ancestrale]] · [[Loup forestier]]
 
 ---
 
@@ -233,4 +233,4 @@ Voir §3. HP base 230 (CR 6). Stamina basse mais régen rapide hors combat. **Vi
 
 ---
 
-*Liens : [[Bestiaire - Index|← Index Bestiaire]] · [[Tortue ancestrale]] · [[Loup forestier]] · [[Combat]] · [[Sources de Ressources]] · [[Les Ères]]*
+*Liens : [[Bestiary/Index|← Index Bestiaire]] · [[Tortue ancestrale]] · [[Loup forestier]] · [[Combat]] · [[Sources de Ressources]] · [[Les Ères]]*

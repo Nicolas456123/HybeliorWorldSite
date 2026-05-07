@@ -28,7 +28,7 @@ needs_review_for: [frontière-Boucher-Tanneur-Cuisinier, sang-organes-pour-Apoth
 Le **Boucher** découpe les carcasses, sépare les morceaux, conserve la viande (saumure, fumage, séchage) et redistribue les sous-produits aux métiers concernés. Il est le **maillon manquant** entre la chasse/élevage et la cuisine.
 
 **Place dans la chaîne d'artisanat :**
-- **Amont** : [[Métiers|Chasseur]] (gibier sauvage), [[Métiers|Berger]] (élevage), [[Métiers|Dépéceur]] (dépeçage technique des grandes créatures du [[Bestiaire - Index|Bestiaire]])
+- **Amont** : [[Métiers|Chasseur]] (gibier sauvage), [[Métiers|Berger]] (élevage), [[Métiers|Dépéceur]] (dépeçage technique des grandes créatures du [[Bestiary/Index|Bestiaire]])
 - **Aval** :
   - **[[Cuisinier]]** consomme les viandes prêtes
   - **[[Tanneur]]** consomme cuir/peau si pas pré-traité par le Dépéceur
@@ -266,4 +266,4 @@ Le **Boucher** découpe les carcasses, sépare les morceaux, conserve la viande 
 
 ---
 
-*Liens : [[Métiers]] · [[Crafts]] · [[Sources de Ressources]] · [[Catégories d'Items]] · [[Personnage]] · [[Viande]] · [[Os]] · [[Cuisinier]] · [[Tanneur]] · [[Apothicaire]] · [[Bestiaire - Index]] · [[Économie]] · [[Les Ères]] · [[Lore/Religions/Vael Kurash]]*
+*Liens : [[Métiers]] · [[Crafts]] · [[Sources de Ressources]] · [[Catégories d'Items]] · [[Personnage]] · [[Viande]] · [[Os]] · [[Cuisinier]] · [[Tanneur]] · [[Apothicaire]] · [[Bestiary/Index]] · [[Économie]] · [[Les Ères]] · [[Lore/Religions/Vael Kurash]]*

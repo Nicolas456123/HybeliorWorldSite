@@ -104,11 +104,11 @@ La Cape n'apporte pas de défense physique/magique, mais influence des **stats s
 
 | Matériau | Métier | Intrants T3 | Maîtrise · Durée · Mini-jeu |
 |---|---|---|---|
-| **Tissu** | [[Métiers - Tisserand\|Tisserand]] + [[Métiers - Couturier\|Couturier]] | 4× Tissu · 2× Pigment · 1× Fil métallique | Adepte · 60 s · cadence métier à tisser |
-| **Cuir** | [[Métiers - Tanneur\|Tanneur]] → [[Métiers - Maroquinier\|Maroquinier]] | 3× Cuir tanné · 2× Fil de cuir · 1× Boucle | Adepte · 70 s · découpe + couture |
+| **Tissu** | [[Tisserand\|Tisserand]] + [[Métiers - Couturier\|Couturier]] | 4× Tissu · 2× Pigment · 1× Fil métallique | Adepte · 60 s · cadence métier à tisser |
+| **Cuir** | [[Tanneur\|Tanneur]] → [[Métiers - Maroquinier\|Maroquinier]] | 3× Cuir tanné · 2× Fil de cuir · 1× Boucle | Adepte · 70 s · découpe + couture |
 | **Fourrure** | Tanneur + Maroquinier | 4× Fourrure · 1× Cuir tanné (doublure) · 2× Boucle | Adepte · 80 s · couture lourde |
 | **Soie** | Tisserand + [[Métiers - Brodeur\|Brodeur]] | 3× Soie · 2× Pigment précieux · 1× Fil d'or | Expert · 90 s · broderie complexe |
-| **Spécial-magique** | Tisserand + [[Métiers - Enchanteur\|Enchanteur]] | 3× Tissu T3 · 1× Cristal de Voie · 1× Essence spirituelle | **Maître** 🔒 · 150 s · rituel |
+| **Spécial-magique** | Tisserand + [[Enchanteur\|Enchanteur]] | 3× Tissu T3 · 1× Cristal de Voie · 1× Essence spirituelle | **Maître** 🔒 · 150 s · rituel |
 
 ---
 
@@ -138,4 +138,4 @@ Contrairement aux outils, les **Capes acceptent les 10 variants cosmiques** (à 
 
 ---
 
-*Liens : [[Items - Index\|← Index Items]] · [[Catégories d'Items]] · [[Crafts]] · [[Sac à dos]] · [[Tabard]] · [[Capuche seule]] · [[Cuirasse]]*
+*Liens : [[Items/Index\|← Index Items]] · [[Catégories d'Items]] · [[Crafts]] · [[Sac à dos]] · [[Tabard]] · [[Capuche seule]] · [[Cuirasse]]*

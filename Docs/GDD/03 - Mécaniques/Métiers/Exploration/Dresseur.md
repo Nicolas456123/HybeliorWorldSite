@@ -32,7 +32,7 @@ Le **Dresseur** est le **rabatteur de l'inconnu** : il part **dans la nature sau
 > [!warning] **REFONTE-NEEDED — vérifier doublon avec [[Dresseur de créature]] (M2 Artisanat #3)**
 > Deux métiers nommés "Dresseur" existent dans la base canonique :
 > - **Dresseur** (M6 Exploration #56) — *ce fichier* — apprivoisement **sauvage en exploration** (rencontre, capture, formation initiale)
-> - **Dresseur de créature** (M2 Artisanat #3) — élevage/dressage **en captivité** (formation avancée, breeding pour PNJ riches, recoupe partiellement [[Éleveur de créature]])
+> - **Dresseur de créature** (M2 Artisanat #3) — élevage/dressage **en captivité** (formation avancée, breeding pour PNJ riches, recoupe partiellement [[Eleveur de créature]])
 >
 > **Frontière proposée** (à valider sprint suivant) :
 > - **M6 Dresseur** = travail **dans la nature** : pister, approcher, capturer, premier lien — métier mobile, dangereux, statut d'aventurier
@@ -40,7 +40,7 @@ Le **Dresseur** est le **rabatteur de l'inconnu** : il part **dans la nature sau
 > - L'un **fournit** la créature vivante apprivoisée (M6) ; l'autre **la conditionne** pour son rôle final (M2)
 > - Si playtest démontre redondance, fusionner en gardant la mention "branche exploration / branche atelier" dans les sous-spécialités
 
-Le Dresseur est distinct du [[Chasseur de créature]] (qui **abat** pour le loot) et de l'[[Éleveur de créature]] (qui **reproduit** depuis la naissance). Il est le **fournisseur de spécimens vivants** pour ces deux derniers ainsi que pour les arènes, les armées (montures), et les nobles excentriques.
+Le Dresseur est distinct du [[Chasseur de créature]] (qui **abat** pour le loot) et de l'[[Eleveur de créature]] (qui **reproduit** depuis la naissance). Il est le **fournisseur de spécimens vivants** pour ces deux derniers ainsi que pour les arènes, les armées (montures), et les nobles excentriques.
 
 ---
 
@@ -63,14 +63,14 @@ Le Dresseur est distinct du [[Chasseur de créature]] (qui **abat** pour le loot
 - **Filet, lasso, piège non-létal** ([[Tisserand]], [[Forgeron]], [[Menuisier]])
 
 **Produit (sortie principale)** :
-- **Créatures vivantes apprivoisées** — passées en relais à l'[[Éleveur de créature]] ou au [[Dresseur de créature]] (M2), ou directement vendues comme **monture**, **animal de compagnie**, **animal de combat de bas tier**
+- **Créatures vivantes apprivoisées** — passées en relais à l'[[Eleveur de créature]] ou au [[Dresseur de créature]] (M2), ou directement vendues comme **monture**, **animal de compagnie**, **animal de combat de bas tier**
 
 **Produit secondaire (ressources)** :
 - **Sécrétion** (collectée passivement sur la créature apprivoisée — glandes domptées) — alchimie
 - **Plume / Fourrure / Œuf** — produits réguliers d'une créature vivante
 - **Sang récolté ponctuellement** — composant alchimique (sans abattage)
 
-→ Référence [[Sources de Ressources]] §Source 2 Créature et [[Bestiaire - Index]].
+→ Référence [[Sources de Ressources]] §Source 2 Créature et [[Bestiary/Index]].
 
 ---
 
@@ -99,7 +99,7 @@ Le Dresseur est distinct du [[Chasseur de créature]] (qui **abat** pour le loot
 | **Initié** | Animaux moyens (loups solitaires, cerfs, faucons), capture vivante 60% de réussite |
 | **Adepte** | Apprivoisement de **montures** terrestres communes ([[Exploration]] §Capture), créatures de chasse, taux 75% |
 | **Expert** | Créatures rares (aurochs, panthère, aigle géant), montures aériennes basses, taux 85% |
-| **Maître** | **Condition cachée 🔒** — Apprivoisement de **créatures mythiques** (cf. [[Bestiaire - Index]] tier élevé), variants post-[[Le Souffle]], certaines créatures cosmiques (sous condition [[Le Lien\|Voie de Spiritus]]) |
+| **Maître** | **Condition cachée 🔒** — Apprivoisement de **créatures mythiques** (cf. [[Bestiary/Index]] tier élevé), variants post-[[Le Souffle]], certaines créatures cosmiques (sous condition [[Le Lien\|Voie de Spiritus]]) |
 
 > Décroissance : voir [[Armes et Maîtrise]]. Rouille post-[[Le Souffle]] 1 semaine, −15% chance de capture. Une créature en cours d'apprivoisement peut s'enfuir si la rouille frappe en plein milieu.
 
@@ -112,8 +112,8 @@ Le Dresseur est distinct du [[Chasseur de créature]] (qui **abat** pour le loot
 | **Novice** | Capture chien sauvage · Apprivoisement chèvre des montagnes · Faucon juvénile |
 | **Initié** | Loup gris · Cerf de plaine · Faucon adulte · Renard arctique |
 | **Adepte** | Cheval sauvage des plaines (monture commune) · Aurochs · Sanglier de bataille · Lynx |
-| **Expert** | Aigle géant · Panthère noire · Cerf-fantôme ([[Onara]]) · Cervidé d'ère ([[Bestiaire - Index]]) · Tigre de jungle ([[Ilthara]]) |
-| **Maître** | Dragon mineur (apprivoisable, [[Drakora]]) · Phénix de Cendres ([[Cendara]]) · Variant post-[[Le Souffle]] · Léviathan apprivoisé ([[Le Lien]] requis) |
+| **Expert** | Aigle géant · Panthère noire · Cerf-fantôme ([[Onara - Continent|Onara]]) · Cervidé d'ère ([[Bestiary/Index]]) · Tigre de jungle ([[Ilthara - Continent|Ilthara]]) |
+| **Maître** | Dragon mineur (apprivoisable, [[Drakora]]) · Phénix de Cendres ([[Cendara - Continent|Cendara]]) · Variant post-[[Le Souffle]] · Léviathan apprivoisé ([[Le Lien]] requis) |
 
 → Recettes individuelles : Phase 2 Recipe Generator.
 
@@ -124,8 +124,8 @@ Le Dresseur est distinct du [[Chasseur de créature]] (qui **abat** pour le loot
 - **Démarrage** : assistant d'un dresseur établi, courses en forêt, observation
 - **Progression** : reconnaissance par les guildes de chasse / les écuries seigneuriales, contrats de capture
 - **Établissement** : pas d'établissement fixe — **homme de terrain**. Base éventuelle dans une ville-frontière (Galenor sud, Drakora, Onara)
-- **Réseau** : [[Chasseur de créature]] (concurrents et alliés), [[Éleveur de créature]] (clients premiers), [[Dresseur de créature]] (M2, suite du processus), [[Explorateur]] (cartes des biomes-source), [[Apothicaire]] (composés d'apaisement)
-- **Faction** : Confréries de Dresseurs ([[Drakora]], [[Lythar]]), Cavaliers du Vent ([[Aerion]] / [[Onara]]), Cercles de Spiritus
+- **Réseau** : [[Chasseur de créature]] (concurrents et alliés), [[Eleveur de créature]] (clients premiers), [[Dresseur de créature]] (M2, suite du processus), [[Explorateur]] (cartes des biomes-source), [[Apothicaire]] (composés d'apaisement)
+- **Faction** : Confréries de Dresseurs ([[Drakora]], [[Lythar]]), Cavaliers du Vent ([[Aerion]] / [[Onara - Continent|Onara]]), Cercles de Spiritus
 - **Branche [[Le Lien\|Voie de Spiritus]]** : Dresseur-Lié peut tisser un **lien de symbiose** réel avec une créature (distinct de la monture-objet — voir [[Exploration]] §note)
 
 ---
@@ -142,7 +142,7 @@ Le Dresseur est distinct du [[Chasseur de créature]] (qui **abat** pour le loot
 | **[[L'Accord]] ≥ 75%** | Apprivoisement de créatures cosmiques mineures débloqué |
 | **Religion [[Foedus Animae]]** | Pacte renforcé avec le vivant, +25% taux de capture |
 | **Continent [[Drakora]]** | Apprivoisement de dragons (école locale) |
-| **Continent [[Baelor]]** | Apprivoisement des *Vaporae* (créatures de brume, Maître requis) |
+| **Continent [[Baelor - Continent|Baelor]]** | Apprivoisement des *Vaporae* (créatures de brume, Maître requis) |
 
 ---
 
@@ -165,7 +165,7 @@ Le Dresseur est distinct du [[Chasseur de créature]] (qui **abat** pour le loot
 
 **Chaîne économique** :
 ```
-Dresseur (capture) ─→ [[Éleveur de créature]] (lignée) ─→ Marché monture
+Dresseur (capture) ─→ [[Eleveur de créature]] (lignée) ─→ Marché monture
                   ─→ [[Dresseur de créature]] (M2) (formation arène/combat)
                   ─→ [[Apothicaire]] (composants vivants : Sécrétion, Plume, etc.)
                   ─→ Joueur direct (monture personnelle, animal de combat)
@@ -205,4 +205,4 @@ Dresseur (capture) ─→ [[Éleveur de créature]] (lignée) ─→ Marché mon
 
 ---
 
-*Liens : [[Métiers]] · [[Personnage]] · [[Exploration]] · [[Crafts]] · [[Sources de Ressources]] · [[Économie]] · [[Armes et Maîtrise]] · [[L'Accord]] · [[Le Souffle]] · [[Bestiaire - Index]] · [[Chasseur de créature]] · [[Éleveur de créature]] · [[Dresseur de créature]] · [[Explorateur]] · [[Apothicaire]] · [[Le Lien]]*
+*Liens : [[Métiers]] · [[Personnage]] · [[Exploration]] · [[Crafts]] · [[Sources de Ressources]] · [[Économie]] · [[Armes et Maîtrise]] · [[L'Accord]] · [[Le Souffle]] · [[Bestiary/Index]] · [[Chasseur de créature]] · [[Eleveur de créature]] · [[Dresseur de créature]] · [[Explorateur]] · [[Apothicaire]] · [[Le Lien]]*

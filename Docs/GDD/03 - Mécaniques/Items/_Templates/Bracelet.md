@@ -285,4 +285,4 @@ Les **breloques** sont des mini-objets enchantés (chaque breloque = 1 mini-affi
 
 ---
 
-*Liens : [[Items - Index|← Index Items]] · [[Catégories d'Items]] · [[Anneau]] · [[Amulette]] · [[Personnage]]*
+*Liens : [[Items/Index|← Index Items]] · [[Catégories d'Items]] · [[Anneau]] · [[Amulette]] · [[Personnage]]*

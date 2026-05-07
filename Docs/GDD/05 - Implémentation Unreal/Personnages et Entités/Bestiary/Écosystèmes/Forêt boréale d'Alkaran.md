@@ -17,7 +17,7 @@ needs_review_for: [élan-archétype-stub, hibou-stub, lynx-stub]
 
 > Écosystème de **transition entre forêt tempérée et toundra**. La taïga d'Alkaran couvre les grands espaces du **nord d'Alkaran** (Skaldoria, Myrtam mines), le **sud de Celethor** (Astravia frontières, Elarian forge de glace), le **nord d'Onara** (taïga des Chasseurs de la Glace) et les lisières de **Nysaria**. Couvert de conifères denses (pins, épicéas, mélèzes), hivernal 6-8 mois.
 >
-> Voir [[Bestiaire - Index]] · [[Géographie]] · [[Loup arctique]] · [[Ours brun]] · [[Forêt tempérée d'Astravia]]
+> Voir [[Bestiary/Index]] · [[Géographie]] · [[Loup arctique]] · [[Ours brun]] · [[Forêt tempérée d'Astravia]]
 
 ---
 
@@ -205,4 +205,4 @@ DÉCOMPOSEURS (ralentis par le froid) :
 
 ---
 
-*Liens : [[Bestiaire - Index]] · [[Loup arctique]] · [[Ours brun]] · [[Aigle royal]] · [[Forêt tempérée d'Astravia]] · [[Toundra de Cestra]] · [[Géographie]] · [[Les Ères]] · [[Sources de Ressources]]*
+*Liens : [[Bestiary/Index]] · [[Loup arctique]] · [[Ours brun]] · [[Aigle royal]] · [[Forêt tempérée d'Astravia]] · [[Toundra de Cestra]] · [[Géographie]] · [[Les Ères]] · [[Sources de Ressources]]*

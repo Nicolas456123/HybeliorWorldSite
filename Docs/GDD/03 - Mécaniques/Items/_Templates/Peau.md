@@ -137,4 +137,4 @@ Plus **fragile** que le Cuir (résistance physique réduite), mais **plus souple
 
 ---
 
-*Liens : [[Sources de Ressources]] · [[Crafts]] · [[Cuir]] · [[Écaille]] · [[Plume]] · [[Parchemin]] · [[Bestiaire - Index]] · [[Aigle royal]] · [[Faucon]] · [[Serpent géant]]*
+*Liens : [[Sources de Ressources]] · [[Crafts]] · [[Cuir]] · [[Écaille]] · [[Plume]] · [[Parchemin]] · [[Bestiary/Index]] · [[Aigle royal]] · [[Faucon]] · [[Serpent géant]]*

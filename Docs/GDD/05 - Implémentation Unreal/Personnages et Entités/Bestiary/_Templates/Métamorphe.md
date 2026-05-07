@@ -35,7 +35,7 @@ needs_review_for: [mécanique-transformation, cap-taille-canonique, détection-A
 
 > Archétype canonique du **polymorphe sauvage** d'Hybelior. Pose le pattern **forme V2 Polymorphe** (1ère implémentation) : transformation morphologique d'imitation, traque par confiance, révélation par paliers d'Acuité ou Voie de Tempora. Pattern complémentaire à [[Esprit changeforme]] (gardien rituel) — ici, prédateur opportuniste.
 >
-> Voir [[Bestiaire - Index]] · [[Taxonomie des Créatures]] · [[Loup forestier]] · [[Esprit changeforme]]
+> Voir [[Bestiary/Index]] · [[Taxonomie des Créatures]] · [[Loup forestier]] · [[Esprit changeforme]]
 
 ---
 
@@ -255,7 +255,7 @@ Voir §3. HP base 280 (CR 8 standard adulte). Stamina propre, pas de Mana mais u
 
 Le Métamorphe est **opportuniste opportun** — actif dès qu'une cible isolée se présente. Pas de routine fixe. **Chasse plus en zones de transit** (routes, lisières, ruines).
 
-> [!note] Branche [[Comportements PNJ - Index]]
+> [!note] Branche [[NPC Behaviors/Index]]
 > Pattern canonique pour créatures **Apprenantes Solitaires Polymorphes**. Hérité par : [[Esprit changeforme]] (mais Sapient + gardien), Doppelgängers (Phase 4), Imitateurs marins.
 
 ---
@@ -310,4 +310,4 @@ Le Métamorphe est **opportuniste opportun** — actif dès qu'une cible isolée
 
 ---
 
-*Liens : [[Bestiaire - Index|← Index Bestiaire]] · [[Taxonomie des Créatures]] · [[Esprit changeforme]] · [[Loup forestier]] · [[Élémentaire de feu]] · [[Combat]] · [[Sources de Ressources]] · [[Personnage]] · [[Le Lien]]*
+*Liens : [[Bestiary/Index|← Index Bestiaire]] · [[Taxonomie des Créatures]] · [[Esprit changeforme]] · [[Loup forestier]] · [[Élémentaire de feu]] · [[Combat]] · [[Sources de Ressources]] · [[Personnage]] · [[Le Lien]]*

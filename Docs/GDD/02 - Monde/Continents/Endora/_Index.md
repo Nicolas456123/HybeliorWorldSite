@@ -76,7 +76,7 @@ Les trois nations se considèrent comme complémentaires. Le voyageur qui les fr
 
 Endora n'a pas de religion unifiée, et la chose, ici, ne scandalise personne. Le continent vit sous la lumière croisée de plusieurs voix cosmiques, et chacune de ses nations en a privilégié certaines selon ses inclinations.
 
-Les druides d'Avalor sont proches des **Vael'Kurash** — ils écoutent les présences sylvestres et tiennent que les ancêtres jugent les vivants à la qualité de leur silence. Les astronomes de Haldria penchent vers l'**Ordo Caelum**, où Celestia régule depuis sa retraite ; leurs marins, plus pragmatiques, fréquentent volontiers la **Via Ventus**, qui voit dans le vent l'expiration cosmique sans cause ni but. Les Sanvariens accueillent toutes les voix sans en proclamer aucune ; on trouve dans leurs caravansérails des autels dédiés à cinq religions différentes, parfois sur le même mur.
+À Avalor, le **Noctari** s'enracine dans le voile sylvestre — Le Voile des Ombres y est tenu par les Vaelori comme la grammaire dominante de la forêt — tandis que le **Vael'Kurash** y est secondaire, pratiqué par certains druides qui écoutent les présences ancestrales et tiennent que les morts jugent les vivants à la qualité de leur silence. Les astronomes de Haldria penchent vers l'**Ordo Caelum**, où Celestia régule depuis sa retraite ; leurs marins, plus pragmatiques, fréquentent volontiers la **Via Ventus**, qui voit dans le vent l'expiration cosmique sans cause ni but. Les Sanvariens accueillent toutes les voix sans en proclamer aucune ; on trouve dans leurs caravansérails des autels dédiés à cinq religions différentes, parfois sur le même mur.
 
 Au-dessus de ces lectures coexiste une mythologie commune, celle des **Voix Tenues** — présences ou principes qui, dit-on, auraient *« tenu »* le monde quand il était jeune, chacune à sa langue, sans qu'aucune n'efface les autres. Les Avaloréens y voient les esprits originels de la sylve. Les Haldriens y voient des constellations qui parlent. Les Sanvariens, plus prosaïques, y voient des **clauses** d'un contrat plus vieux que la mémoire. Aucune des trois lectures n'a jamais convaincu les deux autres ; toutes coexistent dans les marges des bibliothèques et les sermons d'auberge.
 
@@ -118,4 +118,4 @@ Endora exporte sa **diversité** plus que ses produits. Le continent ne pèse pa
 
 *Récit narratif détaillé : voir `Lore/Pays/Endora/`*
 
-*Liens : [[Endora/Avalor|Avalor]] | [[Endora/Haldria|Haldria]] | [[Endora/Sanvara|Sanvara]] | [[Continents/Index|Tous les continents]] | [[02 - Monde/Index|02 - Monde]] | [[Lignees]]*
+*Liens : [[Endora/Avalor|Avalor]] | [[Endora/Haldria|Haldria]] | [[Endora/Sanvara|Sanvara]] | [[Continents/Index|Tous les continents]] | [[02 - Monde/Index|02 - Monde]] | [[Lignées]]*

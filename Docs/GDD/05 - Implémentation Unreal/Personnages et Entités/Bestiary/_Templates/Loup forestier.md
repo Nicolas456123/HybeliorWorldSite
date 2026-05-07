@@ -35,7 +35,7 @@ needs_review_for: [cr-system-canonique, loot-rates-playtest, variants-équilibra
 
 > Archétype canonique du **prédateur quadrupède social** d'Hybelior. Sert de pattern pour toutes les créatures de type *mammifère prédateur en meute* (loups, lycans, panthères de meute, hyènes spectrales, chiens d'Umbra, etc.). Premier archétype du sprint pilote bestiaire — il établit la **convention CR** et la **forme canonique** des fiches.
 >
-> Voir [[Bestiaire - Index]] · [[Taxonomie des Créatures]] · [[Combat]] · [[Sources de Ressources]]
+> Voir [[Bestiary/Index]] · [[Taxonomie des Créatures]] · [[Combat]] · [[Sources de Ressources]]
 
 ---
 
@@ -242,7 +242,7 @@ Une fois Stamina à 0, le loup **passe en mode "boucle d'esquive"** (il fuit 5-1
 > - Les autres : selon ère dominante (cf. [[Les Ères]] §Variants actifs)
 
 > [!warning] CHANTIER
-> Le mapping `Variant ↔ Entité` reste à valider (voir [[Bestiaire - Index]] §Décisions ouvertes). Les 8 mappings principaux sont stables, les 2 derniers (Onirique=Somnix, Vénérable=Fatum) sont **proposés** ici comme convention canonique.
+> Le mapping `Variant ↔ Entité` reste à valider (voir [[Bestiary/Index]] §Décisions ouvertes). Les 8 mappings principaux sont stables, les 2 derniers (Onirique=Somnix, Vénérable=Fatum) sont **proposés** ici comme convention canonique.
 
 ---
 
@@ -287,7 +287,7 @@ Une fois Stamina à 0, le loup **passe en mode "boucle d'esquive"** (il fuit 5-1
 - **Ère du Rêve Lumineux** : pacifié, **fuit le combat** (Doré Wolf devient l'archétype dominant)
 - **Ère du Verdoiement** : agressif uniquement si territoire menacé
 
-> [!note] Branche [[Comportements PNJ - Index]]
+> [!note] Branche [[NPC Behaviors/Index]]
 > Le pattern canonique pour les créatures **Apprenantes en Meute** est posé ici. Les autres archétypes meute (panthères, hyènes, lycans) **héritent de ce pattern** et le spécialisent.
 
 ---
@@ -340,7 +340,7 @@ Une fois Stamina à 0, le loup **passe en mode "boucle d'esquive"** (il fuit 5-1
 
 ### Listes complètes de variants à valider
 
-- **Mapping Variant ↔ Entité cosmique** : 8 stables, 2 proposés (Onirique=Somnix, Vénérable=Fatum). Voir [[Bestiaire - Index]] §Décisions ouvertes
+- **Mapping Variant ↔ Entité cosmique** : 8 stables, 2 proposés (Onirique=Somnix, Vénérable=Fatum). Voir [[Bestiary/Index]] §Décisions ouvertes
 - **Variants combinables** : un Frost Shadow Wolf est-il possible (super-rare, ère cardinaire) ? → Proposition : OUI, mais uniquement aux Ères Cardinales (cf. [[Les Ères]]), avec stats cumulées plafonnées à +50% du base
 - **Variants par archétype** : tous les archétypes ont-ils 10 variants ? Probablement non (un Insectoïde Hivemind aura sans doute 5-6 variants pertinents). À cadrer.
 
@@ -368,4 +368,4 @@ Une fois Stamina à 0, le loup **passe en mode "boucle d'esquive"** (il fuit 5-1
 
 ---
 
-*Liens : [[Bestiaire - Index|← Index Bestiaire]] · [[Taxonomie des Créatures]] · [[Élémentaire de feu]] · [[Combat]] · [[Sources de Ressources]] · [[Les Ères]] · [[L'Accord]] · [[Personnage]] · [[Architecture Data-Driven]]*
+*Liens : [[Bestiary/Index|← Index Bestiaire]] · [[Taxonomie des Créatures]] · [[Élémentaire de feu]] · [[Combat]] · [[Sources de Ressources]] · [[Les Ères]] · [[L'Accord]] · [[Personnage]] · [[Architecture Data-Driven]]*

@@ -206,7 +206,7 @@ Devenir un Lié, c'est, à Hybelior, **prendre place dans une conversation qui d
 
 > *« Je suis Liée à Eldoria. Cela veut dire que la lumière passe par moi. Cela ne veut pas dire qu'elle est à moi. Le jour où je l'aurai oublié, je cesserai d'être Liée. Et je ne le saurai même pas tout de suite. »*
 >
-> *— Sœur Lyrienne d'Aldenor, derniers mots avant son ascension*
+> *— Sœur Iliane de l'Ordo Caelum, derniers mots avant son ascension, Astravia*
 
 ---
 

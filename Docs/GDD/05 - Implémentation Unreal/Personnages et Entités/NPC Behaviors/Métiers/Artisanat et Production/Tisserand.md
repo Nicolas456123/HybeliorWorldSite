@@ -156,4 +156,4 @@ Modulateurs :
 
 ---
 
-*Liens : [[Comportements PNJ - Index|← Index]] · [[Concepts Fondamentaux IA PNJ]] · [[Actions Situationnelles]] · [[Tisserand]] (archétype joueur) · [[Tailleur]] · [[Cordonnier]]*
+*Liens : [[NPC Behaviors/Index|← Index]] · [[Concepts Fondamentaux IA PNJ]] · [[Actions Situationnelles]] · [[Tisserand]] (archétype joueur) · [[Tailleur]] · [[Cordonnier]]*

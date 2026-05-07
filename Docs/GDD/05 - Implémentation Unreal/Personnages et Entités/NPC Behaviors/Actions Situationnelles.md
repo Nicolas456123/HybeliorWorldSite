@@ -856,7 +856,7 @@ Concept → où ce fichier l'utilise :
 
 ### 8.3 Variantes culturelles par pays
 
-> Cohérent §6 (distribution MBTI par pays — biais culturels) et [[Lore/Pays/]]. À spécifier Phase 4 :
+> Cohérent §6 (distribution MBTI par pays — biais culturels) et `Lore/Pays/`. À spécifier Phase 4 :
 
 - **Alkaran** (peuples tribaux, Vael'Kurash dominant) : densité E+F (sensibles, naturalistes), routines plus collectives
 - **Cendara / Pyrtara** (Ignis Aeternum) : E+T+J (action, autorité), ouverts aux festivités du feu
@@ -929,4 +929,4 @@ Chaque sous-spécialisation peut hériter de modulations spécifiques sur cette 
 
 ---
 
-*Liens : [[Comportements PNJ - Index|← Index]] · [[Concepts Fondamentaux IA PNJ]] · [[Routine Quotidienne]] · [[Modes Sociaux]] · [[Métiers - Forgeron]] · [[Métiers - Boulanger]] · [[Combat]] · [[PvP]] · [[Le Souffle]] · [[Les Ères]] · [[L'Accord]] · [[Lore/Religions/00 - Système Religieux|Système Religieux]] · [[Architecture Data-Driven]] · [[Registre des Décisions]]*
+*Liens : [[NPC Behaviors/Index|← Index]] · [[Concepts Fondamentaux IA PNJ]] · [[Routine Quotidienne]] · [[Modes Sociaux]] · [[Forgeron]] · [[Boulanger]] · [[Combat]] · [[PvP]] · [[Le Souffle]] · [[Les Ères]] · [[L'Accord]] · [[Lore/Religions/00 - Système Religieux|Système Religieux]] · [[Architecture Data-Driven]] · [[Registre des Décisions]]*

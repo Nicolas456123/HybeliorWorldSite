@@ -143,4 +143,4 @@ Le **Sang** est l'une des ressources créature **les plus polyvalentes** :
 
 ---
 
-*Liens : [[Sources de Ressources]] · [[Crafts]] · [[Cœur de creature]] · [[Œil]] · [[Organe]] · [[Venin]] · [[Sécrétion]] · [[Bestiaire - Index]]*
+*Liens : [[Sources de Ressources]] · [[Crafts]] · [[Cœur de creature]] · [[Œil]] · [[Organe]] · [[Venin]] · [[Sécrétion]] · [[Bestiary/Index]]*

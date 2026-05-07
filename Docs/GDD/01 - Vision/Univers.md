@@ -42,11 +42,9 @@ Cette structure a une conséquence immédiate, et elle est tout sauf décorative
 
 ## Le temps qui respire
 
-À Hybelior, le temps n'est pas une ligne. C'est une **respiration**. Le monde inspire, expire, se reconfigure. Ce mouvement intrinsèque — le **Souffle** — n'est pas un événement qui arrive de l'extérieur ; c'est ce que fait, sans cesse, un cosmos polyphonique qui se redistribue. Des **Ères** s'ouvrent, vivent leur tonalité, puis cèdent la place à d'autres. Ce qui était dominant se fait silencieux ; ce qui dormait se réveille. La lumière change. Les créatures changent. Les pratiques qui résonnaient hier font écho dans le vide aujourd'hui — et inversement.
+À Hybelior, le temps n'est pas une ligne. C'est une **respiration** — ce que [[Le Souffle]] décrit en propre, et que [[Les Ères]] détaillent saison par saison. À hauteur de monde, ce qu'il faut retenir tient en une phrase : **Hybelior n'est jamais le même deux saisons de suite, et c'est cela qui le rend habitable**. Un monde qui ne respire pas est un monde qui meurt — figé dans une domination qui s'est imposée et n'a plus de contradicteur. Hybelior a refusé cette équation, non par humanisme abstrait, mais par **réalisme cosmologique**. Aucun ciel vivant n'a la même couleur deux saisons de suite.
 
-Pour le détail de cette respiration, voir [[Le Souffle]]. Pour la chronologie des Ères passées et leurs visages, voir [[Les Ères]]. Pour ce que l'Histoire en a retenu, voir [[Histoire d'Hybelior]].
-
-À hauteur de monde, ce qu'il faut comprendre tient en une phrase : **Hybelior n'est jamais le même deux saisons de suite, et c'est cela qui le rend habitable**. Un monde qui ne respire pas est un monde qui meurt — figé dans une domination qui s'est imposée et n'a plus de contradicteur. Hybelior a refusé cette équation, non par humanisme abstrait, mais par **réalisme cosmologique**. Aucun ciel vivant n'a la même couleur deux saisons de suite.
+Pour la mémoire que cette respiration laisse au monde, voir [[Histoire d'Hybelior]] et [[Traces des Ères]].
 
 > *« Le monde respire. Et toi, qui te crois ancré, tu apprends à chaque Souffle que tu n'étais qu'invité. »*
 >

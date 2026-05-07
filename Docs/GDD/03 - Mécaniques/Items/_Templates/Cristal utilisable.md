@@ -298,4 +298,4 @@ Un **cristal utilisable** est une gemme ou un cristal taillé contenant une **ch
 
 ---
 
-*Liens : [[Items - Index|← Index Items]] · [[Catégories d'Items]] · [[Crafts]] · [[Métiers]] · [[Le Lien]] · [[Tome]] · [[Potion]] · [[Parchemin]]*
+*Liens : [[Items/Index|← Index Items]] · [[Catégories d'Items]] · [[Crafts]] · [[Métiers]] · [[Le Lien]] · [[Tome]] · [[Potion]] · [[Parchemin]]*

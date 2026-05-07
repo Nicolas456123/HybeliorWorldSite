@@ -27,27 +27,27 @@ SORT file.name ASC
 
 ## Pivots canoniques
 
-- [[Cosmologie]] — 5 rangs (Éternels / Cosmiques / Célestes / Astraux / Éthérés), 9 religions
-- [[Géographie]] — 13 continents, 37 pays (vue synthèse)
-- [[Histoire d'Hybelior]] — calendrier officiel des 5 grandes ères + Souffles Cardinaux
-- [[Traces des Ères]] — règle 90/10, mémoire physique du monde
-- [[Frise]] — chronologie complète par Ère (événements globaux + cosmiques + civilisationnels)
-- [[Lignées]] — les 10 lignées canoniques des civilisations + 5 Berceaux + 7 empires fondateurs
+- [[Cosmologie]] — la Polyphonie, ses rangs et ses religions
+- [[Géographie]] — vue synthèse des continents et de leurs nations
+- [[Histoire d'Hybelior]] — calendrier officiel des grandes ères et Souffles Cardinaux
+- [[Traces des Ères]] — mémoire physique du monde
+- [[Frise]] — chronologie complète par Ère (événements globaux, cosmiques, civilisationnels)
+- [[Lignées]] — les lignées canoniques des civilisations, Berceaux et empires fondateurs
 
 ## Fiches techniques par continent et nation
 
-- [[Continents/Index|Continents/]] — fiches détaillées des 13 continents et 50 nations (géographie, politique, cultures, religions, économie, etc.)
+- [[Continents/Index|Continents/]] — fiches détaillées des continents et nations (géographie, politique, cultures, religions, économie, etc.)
   - Couche **technique/factuelle** du monde (à compléter manuellement). Le récit narratif reste dans `Lore/Pays/` et `Lore/Histoires/`.
 
 ---
 
 ## Renvois Lore narratif
 
-- [[Chronologie - Index]] — 8 Eras Lore + calendrier hybride (Sillage 250 ans + Mémoire d'Astravie)
-- [[00 - Système Religieux]] — vue d'ensemble + 9 fiches religions principales + 5 mineures
+- [[Chronologie - Index]] — Eras Lore et calendrier hybride (Sillage et Mémoire d'Astravie)
+- [[00 - Système Religieux]] — vue d'ensemble des religions principales et mineures
 - `Lore/Pays/` — détail par continent et pays
 - `Lore/Histoires/` — récits par cité/nation
-- `Lore/Chroniques/` — 40 chapitres narratifs
+- `Lore/Chroniques/` — chapitres narratifs
 
 ---
 

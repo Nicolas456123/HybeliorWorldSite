@@ -176,4 +176,4 @@ ENFJ N : "Cette Ère demande des saveurs nouvelles" ; ESFJ S : "Mon plat reste m
 
 ---
 
-*Liens : [[Comportements PNJ - Index|← Index]] · [[Concepts Fondamentaux IA PNJ]] · [[Actions Situationnelles]] · [[Cuisinier]] (archétype joueur) · [[Boulanger]] · [[Boucher]] · [[Métiers|Tavernier]] · [[Métiers|Aubergiste]]*
+*Liens : [[NPC Behaviors/Index|← Index]] · [[Concepts Fondamentaux IA PNJ]] · [[Actions Situationnelles]] · [[Cuisinier]] (archétype joueur) · [[Boulanger]] · [[Boucher]] · [[Métiers|Tavernier]] · [[Métiers|Aubergiste]]*

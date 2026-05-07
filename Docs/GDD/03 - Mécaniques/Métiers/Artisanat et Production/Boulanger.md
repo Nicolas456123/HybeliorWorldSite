@@ -19,9 +19,9 @@ needs_review_for: [calibration-paliers-playtest, frontière-Boulanger-Cuisinier-
 
 # 🥖 Archétype-Métier — Boulanger
 
-> Métier **central de la consommation quotidienne**. Le Boulanger produit les **pains, gâteaux et pâtisseries** — denrée fondamentale d'Hybelior. Cet archétype-métier est l'**angle Métier joueur** complémentaire de l'angle **Comportement PNJ** déjà ébauché dans [[Métiers - Boulanger]].
+> Métier **central de la consommation quotidienne**. Le Boulanger produit les **pains, gâteaux et pâtisseries** — denrée fondamentale d'Hybelior. Cet archétype-métier est l'**angle Métier joueur** complémentaire de l'angle **Comportement PNJ** déjà ébauché dans [[Boulanger]].
 
-> **Articulation avec l'ébauche PNJ** : [[Métiers - Boulanger]] décrit la *boucle BT/routine quotidienne* d'un PNJ Boulanger (cycle inversé 03:00-14:00, T1 préparation pré-aube → T5 livraisons). Le présent archétype décrit le *métier jouable* : stats, paliers de Maîtrise, recettes débloquées, économie. Les deux fichiers se référencent mutuellement, ne se dupliquent pas.
+> **Articulation avec l'ébauche PNJ** : [[Boulanger]] décrit la *boucle BT/routine quotidienne* d'un PNJ Boulanger (cycle inversé 03:00-14:00, T1 préparation pré-aube → T5 livraisons). Le présent archétype décrit le *métier jouable* : stats, paliers de Maîtrise, recettes débloquées, économie. Les deux fichiers se référencent mutuellement, ne se dupliquent pas.
 
 > **Articulation avec [[Pain]]** : l'archétype-item [[Pain]] détaille les recettes T1-T6, les buffs, la conservation. Cet archétype-métier détaille **qui apprend ces recettes, comment, et avec quels paliers**.
 
@@ -38,8 +38,8 @@ Le **Boulanger** mélange farine, eau, sel et levain ; pétrit, façonne, cuit. 
 **Identité gameplay :**
 - Métier **précis-routinier** — `Acuité` (dosage, timing cuisson), `Endurance` (lever pré-aube, sessions intenses), `Verbe` (vente quotidienne, mode Marchand), `Mémoire` (recettes régionales, signatures)
 - Métier **rotation très rapide** : pains se vendent en heures, périssent en jours
-- Métier **cycle inversé** : lever 03:00, ferme 14:00 (cf. [[Métiers - Boulanger]])
-- Métier **point d'information sociale** : la boulangerie est le carrefour des rumeurs (cf. [[Métiers - Boulanger]] §Lien social)
+- Métier **cycle inversé** : lever 03:00, ferme 14:00 (cf. [[Boulanger]])
+- Métier **point d'information sociale** : la boulangerie est le carrefour des rumeurs (cf. [[Boulanger]] §Lien social)
 
 **Frontière canonique :**
 - **Boulanger ≠ Cuisinier** : Boulanger = pains/gâteaux/pâtisseries (cuisson sèche au four à pain) ; Cuisinier = plats préparés (cuisson humide / grillade). Cuisinier peut faire pain T1-T4 mais pas T5+ (cf. [[Pain]] §6).
@@ -98,7 +98,7 @@ Le **Boulanger** mélange farine, eau, sel et levain ; pétrit, façonne, cuit. 
 
 ## 4. Stations + outils
 
-> Voir [[Métiers - Boulanger]] §Paramètres pour la station PNJ équivalente.
+> Voir [[Boulanger]] §Paramètres pour la station PNJ équivalente.
 
 | Station | Rôle | Tier débloqué |
 |---------|------|---------------|
@@ -228,7 +228,7 @@ Le **Boulanger** mélange farine, eau, sel et levain ; pétrit, façonne, cuit. 
 
 ### Par ère ([[Les Ères]])
 
-> Cohérent avec [[Métiers - Boulanger]] §Modulations et [[Pain]] §7.
+> Cohérent avec [[Boulanger]] §Modulations et [[Pain]] §7.
 
 | Ère | Effet |
 |-----|-------|
@@ -242,7 +242,7 @@ Le **Boulanger** mélange farine, eau, sel et levain ; pétrit, façonne, cuit. 
 
 ### Par contexte
 
-- **Festival** — pains spéciaux gâteaux, prix x1.5, ouverture prolongée (cf. [[Métiers - Boulanger]] §Modulations)
+- **Festival** — pains spéciaux gâteaux, prix x1.5, ouverture prolongée (cf. [[Boulanger]] §Modulations)
 - **Pénurie de farine** — stock réduit, prix augmentés
 - **Famine** — pic demande, commande de la couronne
 - **Religion dominante** ([[Lore/Religions/00 - Système Religieux]]) : 9 pains rituels canoniques
@@ -264,7 +264,7 @@ Le **Boulanger** mélange farine, eau, sel et levain ; pétrit, façonne, cuit. 
 
 - Le Boulanger a une **rotation très rapide** : ses produits se vendent en heures, périssent en jours
 - Pas de stockage long terme (sauf pains de conservation T3+ Alkaran)
-- Pic de revenu matinal (07:00-12:00 — cf. [[Métiers - Boulanger]])
+- Pic de revenu matinal (07:00-12:00 — cf. [[Boulanger]])
 
 ### Gold sinks contribués
 
@@ -276,15 +276,15 @@ Le **Boulanger** mélange farine, eau, sel et levain ; pétrit, façonne, cuit. 
 
 ## 10. Comportement IA + signatures PNJ
 
-### Lien avec l'ébauche [[Métiers - Boulanger]] (PNJ)
+### Lien avec l'ébauche [[Boulanger]] (PNJ)
 
-> Cet archétype-métier décrit le **versant joueur** ; [[Métiers - Boulanger]] décrit le **versant PNJ** (cycle inversé 03:00-14:00, T1 préparation pré-aube → T5 livraisons). Les deux fichiers se croisent sur :
+> Cet archétype-métier décrit le **versant joueur** ; [[Boulanger]] décrit le **versant PNJ** (cycle inversé 03:00-14:00, T1 préparation pré-aube → T5 livraisons). Les deux fichiers se croisent sur :
 
 | Élément partagé | Référence |
 |-----------------|-----------|
-| Cycle inversé 03:00-14:00 | [[Métiers - Boulanger]] §Cycle quotidien |
-| Stations (Pétrin + Four à pain) | [[Métiers - Boulanger]] §Paramètres + présent §4 |
-| Stock initial typique | [[Métiers - Boulanger]] §Stock + [[Pain]] §2 |
+| Cycle inversé 03:00-14:00 | [[Boulanger]] §Cycle quotidien |
+| Stations (Pétrin + Four à pain) | [[Boulanger]] §Paramètres + présent §4 |
+| Stock initial typique | [[Boulanger]] §Stock + [[Pain]] §2 |
 | Modulation par ère | Identique (cohérence stricte) |
 | Variantes régionales | [[Pain]] §8 (signatures pays) |
 
@@ -300,7 +300,7 @@ Le **Boulanger** mélange farine, eau, sel et levain ; pétrit, façonne, cuit. 
 
 ### Apprentis et école
 
-- Boulanger-Maître peut former des apprentis (cf. [[Métiers - Boulanger]] §Hooks Phase 2)
+- Boulanger-Maître peut former des apprentis (cf. [[Boulanger]] §Hooks Phase 2)
 - Apprenti = sous-PNJ qui prépare la pâte, monte en mastery progressivement
 
 ---
@@ -316,4 +316,4 @@ Le **Boulanger** mélange farine, eau, sel et levain ; pétrit, façonne, cuit. 
 
 ---
 
-*Liens : [[Métiers]] · [[Métiers - Boulanger]] (angle PNJ) · [[Crafts]] · [[Sources de Ressources]] · [[Catégories d'Items]] · [[Personnage]] · [[Pain]] · [[Gâteaux]] · [[Cuisinier]] · [[Économie]] · [[Les Ères]] · [[Le Souffle]] · [[Lore/Religions/00 - Système Religieux]]*
+*Liens : [[Métiers]] · [[Boulanger]] (angle PNJ) · [[Crafts]] · [[Sources de Ressources]] · [[Catégories d'Items]] · [[Personnage]] · [[Pain]] · [[Gâteaux]] · [[Cuisinier]] · [[Économie]] · [[Les Ères]] · [[Le Souffle]] · [[Lore/Religions/00 - Système Religieux]]*

@@ -156,4 +156,4 @@ sortie: Poudre de Voie × 1 sachet (T4) — composant alchimie magique haut tier
 
 ---
 
-*Liens : [[Items - Index|← Index Items]] · [[Sources de Ressources]] · [[Crafts]] · [[Métiers]] · [[Émulsion alchimique]] · [[Pigment]] · [[Lingot]] · [[Résine traitée]]*
+*Liens : [[Items/Index|← Index Items]] · [[Sources de Ressources]] · [[Crafts]] · [[Métiers]] · [[Émulsion alchimique]] · [[Pigment]] · [[Lingot]] · [[Résine traitée]]*

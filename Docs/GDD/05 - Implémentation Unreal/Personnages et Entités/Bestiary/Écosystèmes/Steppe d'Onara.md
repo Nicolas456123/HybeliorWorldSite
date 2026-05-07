@@ -17,7 +17,7 @@ needs_review_for: [cerfs-fantômes-canon-Onara, orbes-ouragan-mécanique]
 
 > Écosystème **ouvert et venteux**, royaume des migrations animales. Couvre les **plaines fertiles d'Onara** (Clans de la Plaine, Foires des Vents — cf. [[Géographie]] §Onara), les **Pics des Vents Hurlants** (légende des Orbes d'Ouragan), les **plaines de Valmera** d'Endora (Chevaucheurs des Vents), et les territoires nomades de **Lythar** (Ilthara, équestre). Beaucoup moins cultivé que la Plaine de Galenor — ici, c'est le **vent** qui règne.
 >
-> Voir [[Bestiaire - Index]] · [[Géographie]] · [[Plaine cultivée de Galenor]] · [[Cerf majestueux]] · [[Aigle royal]]
+> Voir [[Bestiary/Index]] · [[Géographie]] · [[Plaine cultivée de Galenor]] · [[Cerf majestueux]] · [[Aigle royal]]
 
 ---
 
@@ -229,4 +229,4 @@ DÉCOMPOSEURS :
 
 ---
 
-*Liens : [[Bestiaire - Index]] · [[Cerf majestueux]] · [[Aigle royal]] · [[Faucon]] · [[Loup forestier]] · [[Plaine cultivée de Galenor]] · [[Toundra de Cestra]] · [[Géographie]] · [[Les Ères]] · [[Cosmologie]]*
+*Liens : [[Bestiary/Index]] · [[Cerf majestueux]] · [[Aigle royal]] · [[Faucon]] · [[Loup forestier]] · [[Plaine cultivée de Galenor]] · [[Toundra de Cestra]] · [[Géographie]] · [[Les Ères]] · [[Cosmologie]]*

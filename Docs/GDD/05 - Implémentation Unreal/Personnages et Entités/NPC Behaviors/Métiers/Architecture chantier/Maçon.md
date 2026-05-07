@@ -198,4 +198,4 @@ Cascade priorité : **Crise (effondrement)** > Religieux > Festivité (inaugurat
 
 ---
 
-*Liens : [[Comportements PNJ - Index|← Index]] · [[Routine Quotidienne]] · [[Modes Sociaux]] · [[Concepts Fondamentaux IA PNJ]] · [[Actions Situationnelles]] · [[03 - Mécaniques/Métiers/Artisanat et Production/Maçon|Maçon (gameplay)]] · [[Architecte]] · [[Tailleur de pierre]] · [[Charpentier]] · [[Couvreur]] · [[03 - Mécaniques/Métiers/Exploration/Mineur|Mineur]] · [[Forgeron]] · [[Architecture/Index]] · [[Mapping Métiers de Construction]]*
+*Liens : [[NPC Behaviors/Index|← Index]] · [[Routine Quotidienne]] · [[Modes Sociaux]] · [[Concepts Fondamentaux IA PNJ]] · [[Actions Situationnelles]] · [[03 - Mécaniques/Métiers/Artisanat et Production/Maçon|Maçon (gameplay)]] · [[Architecte]] · [[Tailleur de pierre]] · [[Charpentier]] · [[Couvreur]] · [[03 - Mécaniques/Métiers/Exploration/Mineur|Mineur]] · [[Forgeron]] · [[Architecture/Index]] · [[Mapping Métiers de Construction]]*

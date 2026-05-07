@@ -117,4 +117,4 @@ Source secondaire de **féculents** (cuisine quotidienne : pommes de terre, pana
 
 ---
 
-*Liens : [[Items - Index|← Index Items]] · [[Catégories d'Items]] · [[Sources de Ressources]] · [[Crafts]] · [[Métiers]] · [[Les Ères]] · [[Plante]] · [[Feuille]] · [[Fleur]] · [[Légumes]] · [[Pigment]]*
+*Liens : [[Items/Index|← Index Items]] · [[Catégories d'Items]] · [[Sources de Ressources]] · [[Crafts]] · [[Métiers]] · [[Les Ères]] · [[Plante]] · [[Feuille]] · [[Fleur]] · [[Légumes]] · [[Pigment]]*

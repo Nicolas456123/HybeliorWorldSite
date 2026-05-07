@@ -234,4 +234,4 @@ Cascade : **Crise (plague intensifié, raid pacifique fuite) > Religieux > Deuil
 
 ---
 
-*Liens : [[Comportements PNJ - Index|← Index]] · [[Routine Quotidienne]] · [[Modes Sociaux]] · [[Concepts Fondamentaux IA PNJ]] · [[Actions Situationnelles]] · [[03 - Mécaniques/Métiers/Mysticisme/Apothicaire|Apothicaire (archétype joueur)]] · [[03 - Mécaniques/Métiers/Mysticisme/Herboriste|Herboriste]] · [[Alchimiste]] · [[Médecin]] · [[03 - Mécaniques/Métiers/Mysticisme/Guérisseur|Guérisseur]] · [[Potion]]*
+*Liens : [[NPC Behaviors/Index|← Index]] · [[Routine Quotidienne]] · [[Modes Sociaux]] · [[Concepts Fondamentaux IA PNJ]] · [[Actions Situationnelles]] · [[03 - Mécaniques/Métiers/Mysticisme/Apothicaire|Apothicaire (archétype joueur)]] · [[03 - Mécaniques/Métiers/Mysticisme/Herboriste|Herboriste]] · [[Alchimiste]] · [[Médecin]] · [[03 - Mécaniques/Métiers/Mysticisme/Guérisseur|Guérisseur]] · [[Potion]]*

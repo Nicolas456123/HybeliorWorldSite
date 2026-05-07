@@ -35,7 +35,7 @@ needs_review_for: [variant-Frost-paradoxe-inverse, isolement-vs-meute, loot-spé
 
 > Cousin direct du [[Loup forestier]], adapté aux **biomes froids extrêmes**. Pose le pattern **variant naturel** (forme physique différenciée par biome) et **Frost natif vs paradoxe inverse** (la version Frost ici est la nature, le variant cosmique Frost devient *brûlant* — inversion canonique). **Socialité Couple** (et non Meute) : différenciation forte du Loup forestier — l'isolement est forcé par la rareté des proies.
 >
-> Voir [[Bestiaire - Index]] · [[Loup forestier]] · [[Yéti]] · [[Taxonomie des Créatures]]
+> Voir [[Bestiary/Index]] · [[Loup forestier]] · [[Yéti]] · [[Taxonomie des Créatures]]
 
 ---
 
@@ -236,7 +236,7 @@ En arctique, **jour/nuit perdent leur sens** (nuit polaire / jour polaire selon 
 - **Ère du Sommeil de Glace** : population x3, comportement standard ; territoire compressé
 - **Ère de l'Ombre Longue** : variant Shadow domine, hyper-agressif
 
-> [!note] Branche [[Comportements PNJ - Index]]
+> [!note] Branche [[NPC Behaviors/Index]]
 > Pattern canonique pour créatures **Apprenantes Couple** posé ici. Hérité par : grands fauves en couple (panthères des neiges), aigles royaux en couple, lynx isolé.
 
 ---
@@ -293,4 +293,4 @@ En arctique, **jour/nuit perdent leur sens** (nuit polaire / jour polaire selon 
 
 ---
 
-*Liens : [[Bestiaire - Index|← Index Bestiaire]] · [[Loup forestier]] · [[Yéti]] · [[Ours brun]] · [[Sources de Ressources]] · [[Géographie]] · [[Combat]] · [[Personnage]]*
+*Liens : [[Bestiary/Index|← Index Bestiaire]] · [[Loup forestier]] · [[Yéti]] · [[Ours brun]] · [[Sources de Ressources]] · [[Géographie]] · [[Combat]] · [[Personnage]]*

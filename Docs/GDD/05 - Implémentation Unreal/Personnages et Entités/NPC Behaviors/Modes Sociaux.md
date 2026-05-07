@@ -135,4 +135,4 @@ Tableau de compatibilité (ce qui peut tourner en parallèle) :
 
 ---
 
-*Liens : [[Comportements PNJ - Index|← Index]] · [[Routine Quotidienne]] · [[Métiers - Forgeron]] · [[Métiers - Boulanger]] · [[Interface]] · [[Combat]]*
+*Liens : [[NPC Behaviors/Index|← Index]] · [[Routine Quotidienne]] · [[Forgeron]] · [[Boulanger]] · [[Interface]] · [[Combat]]*

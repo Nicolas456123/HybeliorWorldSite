@@ -139,10 +139,10 @@ Spécial-magique T6 (−40 %) : un inventaire pesant nominalement 200 kg pèse 1
 
 | Matériau | Métier | Intrants T3 | Maîtrise · Durée · Mini-jeu |
 |---|---|---|---|
-| **Cuir** | [[Métiers - Tanneur\|Tanneur]] → [[Métiers - Maroquinier\|Maroquinier]] | 5× Cuir tanné · 4× Fil de cuir · 2× Boucle · 1× Sangle de toile | Adepte · 80 s · découpe + couture sangles |
-| **Tissu** | [[Métiers - Tisserand\|Tisserand]] + [[Métiers - Couturier\|Couturier]] | 4× Tissu (toile robuste) · 2× Fil métallique · 1× Pigment · 2× Boucle | Adepte · 70 s · cadence métier à tisser + couture |
-| **Cuir renforcé** | Tanneur → Maroquinier + [[Métiers - Forgeron\|Forgeron]] (renforts) | 6× Cuir tanné · 1× Lingot (renforts cadre) · 4× Fil métallique · 3× Boucle · 1× Sangle | **Expert** (palier 4) · 110 s · découpe + assemblage cadre métallique + couture |
-| **Spécial-magique** | [[Métiers - Maroquinier\|Maroquinier]] + [[Métiers - Enchanteur\|Enchanteur]] (rituel) | 4× Cuir tanné T3+ · 1× Cristal de Voie (Tempora ou autre) · 2× Fil métallique · 1× Essence spirituelle | **Maître** 🔒 · 180 s · rituel d'enchantement (séquence glyphes + audio-pattern) |
+| **Cuir** | [[Tanneur\|Tanneur]] → [[Métiers - Maroquinier\|Maroquinier]] | 5× Cuir tanné · 4× Fil de cuir · 2× Boucle · 1× Sangle de toile | Adepte · 80 s · découpe + couture sangles |
+| **Tissu** | [[Tisserand\|Tisserand]] + [[Métiers - Couturier\|Couturier]] | 4× Tissu (toile robuste) · 2× Fil métallique · 1× Pigment · 2× Boucle | Adepte · 70 s · cadence métier à tisser + couture |
+| **Cuir renforcé** | Tanneur → Maroquinier + [[Forgeron\|Forgeron]] (renforts) | 6× Cuir tanné · 1× Lingot (renforts cadre) · 4× Fil métallique · 3× Boucle · 1× Sangle | **Expert** (palier 4) · 110 s · découpe + assemblage cadre métallique + couture |
+| **Spécial-magique** | [[Métiers - Maroquinier\|Maroquinier]] + [[Enchanteur\|Enchanteur]] (rituel) | 4× Cuir tanné T3+ · 1× Cristal de Voie (Tempora ou autre) · 2× Fil métallique · 1× Essence spirituelle | **Maître** 🔒 · 180 s · rituel d'enchantement (séquence glyphes + audio-pattern) |
 
 ---
 
@@ -214,4 +214,4 @@ Toutes nécessitent **Maître 🔒** + condition cachée (ère active, item-clé
 
 ---
 
-*Liens : [[Items - Index\|← Index Items]] · [[Cuirasse]] · [[Catégories d'Items]] · [[Crafts]] · [[Sources de Ressources]] · [[Personnage]] · [[Inventaire]]*
+*Liens : [[Items/Index\|← Index Items]] · [[Cuirasse]] · [[Catégories d'Items]] · [[Crafts]] · [[Sources de Ressources]] · [[Personnage]] · [[Inventaire]]*

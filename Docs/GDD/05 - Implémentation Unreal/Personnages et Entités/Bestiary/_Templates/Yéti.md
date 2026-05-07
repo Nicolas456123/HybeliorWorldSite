@@ -35,7 +35,7 @@ needs_review_for: [sapient-tendance-développement, langage-primitif-mécanique,
 
 > Archétype canonique du **mammifère colossal légendaire** d'Hybelior. Pose le pattern **bipède Apprenant tendant vers Sapient** : créature dont la cognition **évolue** au fil des rencontres soutenues (peut développer un langage primitif). Légende vivante : peu d'individus existent, chaque chaîne de montagne abrite **un seul** Yéti (signature canonique). Hérite de [[Loup arctique]] (biome, résistance Froid) et [[Ours brun]] (taille, force) avec spécialisation **bipède + intelligence émergente**.
 >
-> Voir [[Bestiaire - Index]] · [[Loup arctique]] · [[Ours brun]] · [[Esprit changeforme]] · [[Taxonomie des Créatures]]
+> Voir [[Bestiary/Index]] · [[Loup arctique]] · [[Ours brun]] · [[Esprit changeforme]] · [[Taxonomie des Créatures]]
 
 ---
 
@@ -247,7 +247,7 @@ Voir §3. HP base 620 (CR 14 standard adulte). Stamina propre, **régénération
 - **Mort = chaîne vide** : malus régional permanent jusqu'à naissance d'un nouveau Yéti (50-200 ans IRL — plusieurs décennies de session)
 - **Communication régionale** : Hurlement de chaîne porte sur 5-15 km, perçu par autres apex et par autres Yétis (très rare — 1 par chaîne)
 
-> [!note] Branche [[Comportements PNJ - Index]]
+> [!note] Branche [[NPC Behaviors/Index]]
 > Pattern canonique pour créatures **Apprenantes Solitaires Légendaires** (signature unique par lieu). Hérité par : Créatures de quête uniques, Avatars cosmiques mineurs.
 
 ---
@@ -308,4 +308,4 @@ Voir §3. HP base 620 (CR 14 standard adulte). Stamina propre, **régénération
 
 ---
 
-*Liens : [[Bestiaire - Index|← Index Bestiaire]] · [[Loup arctique]] · [[Ours brun]] · [[Esprit changeforme]] · [[Sources de Ressources]] · [[Géographie]] · [[Combat]] · [[Personnage]] · [[Le Lien]]*
+*Liens : [[Bestiary/Index|← Index Bestiaire]] · [[Loup arctique]] · [[Ours brun]] · [[Esprit changeforme]] · [[Sources de Ressources]] · [[Géographie]] · [[Combat]] · [[Personnage]] · [[Le Lien]]*

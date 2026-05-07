@@ -112,4 +112,4 @@ Pour les voyageurs des Souffles, Cestra est ce continent vers lequel on ne va pa
 
 *Récit narratif détaillé : voir `Lore/Pays/Cestra/`*
 
-*Liens : [[Cestra - Continent|Cestra — Continent (lore)]] · [[Noravia]] · [[No Man's Land Cestra]] · [[Continents/Index|Tous les continents]] · [[02 - Monde/Index|02 - Monde]] · [[Lignees]]*
+*Liens : [[Cestra - Continent|Cestra — Continent (lore)]] · [[Noravia]] · [[No Man's Land Cestra]] · [[Continents/Index|Tous les continents]] · [[02 - Monde/Index|02 - Monde]] · [[Lignées]]*

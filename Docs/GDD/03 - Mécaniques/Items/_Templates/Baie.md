@@ -122,4 +122,4 @@ Quelques baies sont **toxiques** : composant alchimie obscure / poisons. Cueille
 
 ---
 
-*Liens : [[Items - Index|← Index Items]] · [[Catégories d'Items]] · [[Sources de Ressources]] · [[Crafts]] · [[Métiers]] · [[Les Ères]] · [[Plante]] · [[Fruits]] · [[Pigment]] · [[Boisson]]*
+*Liens : [[Items/Index|← Index Items]] · [[Catégories d'Items]] · [[Sources de Ressources]] · [[Crafts]] · [[Métiers]] · [[Les Ères]] · [[Plante]] · [[Fruits]] · [[Pigment]] · [[Boisson]]*

@@ -38,4 +38,4 @@ Voir le frontmatter type — chaque item porte `parent_archetype` qui pointe ver
 
 ## Liens canoniques
 
-[[Items - Index]] · [[Catégories d'Items]] · [[Types d'Items]] · [[Sources de Ressources]] · [[Crafts]] · [[L'Accord]] · [[Le Souffle]] · [[Économie]] · [[Métiers]]
+[[Items/Index]] · [[Catégories d'Items]] · [[Types d'Items]] · [[Sources de Ressources]] · [[Crafts]] · [[L'Accord]] · [[Le Souffle]] · [[Économie]] · [[Métiers]]

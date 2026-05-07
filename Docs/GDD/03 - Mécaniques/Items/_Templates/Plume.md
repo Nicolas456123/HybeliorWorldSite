@@ -98,7 +98,7 @@ Pour les **enchantements** : séquence de glyphes à tracer dans l'ordre + dans 
 
 | Champ | Valeur |
 |---|---|
-| **Métier** | [[Métiers - Forgeron\|Forgeron]] (pointe métal, stylet) OU plume taillée (auto-fabrication par Scribe) |
+| **Métier** | [[Forgeron\|Forgeron]] (pointe métal, stylet) OU plume taillée (auto-fabrication par Scribe) |
 | **Station** | Pupitre de scribe + Atelier de précision |
 | **Intrants** | 1× [[Sources de Ressources#Source 2 — Récolte sur créature\|Plume]] (cygne, aigle, etc.) OU 1× [[Sources de Ressources#Source 3 — Fabrication\|Lingot]] (mithril ou acier fin) · 1× [[Sources de Ressources#Source 3 — Fabrication\|Pigment]] · 1× [[Sources de Ressources#Source 1 — Récolte nature\|Bois]] (manche fin) |
 | **Palier requis** | Adepte |
@@ -128,4 +128,4 @@ Pour les **enchantements** : séquence de glyphes à tracer dans l'ordre + dans 
 
 ---
 
-*Liens : [[Items - Index\|← Index Items]] · [[Crafts]] · [[Métiers]] · [[Catégories d'Items]] · [[Parchemin]] · [[Tome]] · [[Bandeau frontal]]*
+*Liens : [[Items/Index\|← Index Items]] · [[Crafts]] · [[Métiers]] · [[Catégories d'Items]] · [[Parchemin]] · [[Tome]] · [[Bandeau frontal]]*

@@ -20,7 +20,7 @@ needs_review_for: [drop-rates-playtest, tanin-recipe-pipeline, cuir-vs-peau-dist
 
 > Revêtement externe rigide ou semi-rigide des mammifères, reptiles et certains démoniaques. Récolte la **plus commune** du dépéceur (chaque mammifère en porte). Sert d'intrant à toute une **classe d'armure** ([[Cuirasse]] cuir, [[Bottes]] cuir) et à la maroquinerie (sacs, ceintures, reliures). **Distinct de la [[Peau]]** : Cuir = tannable et durable, Peau = plus fine, plus fragile.
 >
-> Voir [[Sources de Ressources]] §Récolte créature · [[Crafts]] §Travail du cuir · [[Bestiaire - Index]]
+> Voir [[Sources de Ressources]] §Récolte créature · [[Crafts]] §Travail du cuir · [[Bestiary/Index]]
 
 ---
 
@@ -140,4 +140,4 @@ Chaque grand Pays a son **cuir signature** lié à une créature emblématique :
 
 ---
 
-*Liens : [[Sources de Ressources]] · [[Crafts]] · [[Bestiaire - Index]] · [[Peau]] · [[Fourrure]] · [[Cuirasse]] · [[Bottes]] · [[Sac à dos]] · [[Loup forestier]] · [[Ours brun]]*
+*Liens : [[Sources de Ressources]] · [[Crafts]] · [[Bestiary/Index]] · [[Peau]] · [[Fourrure]] · [[Cuirasse]] · [[Bottes]] · [[Sac à dos]] · [[Loup forestier]] · [[Ours brun]]*

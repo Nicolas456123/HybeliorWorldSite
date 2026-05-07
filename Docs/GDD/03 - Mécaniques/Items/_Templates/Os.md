@@ -20,7 +20,7 @@ needs_review_for: [drop-rates-playtest, signatures-9-csv-mapping, os-zocshawk-ac
 
 > Structure rigide interne des créatures vertébrées. Récolté par dépeçage osseux après prélèvement chair/cuir. **Le squelette est la couche dure** : moins polyvalent que le cuir, mais **plus durable** et **dense en signature** (chaque créature laisse un os reconnaissable). Sert de manche, de focus, de composant alchimique, de matériau de construction et — pour les os signatures — d'**intrant de forge légendaire** (cf. *Os de Zocshawk* → Acier Éternel).
 >
-> Voir [[Sources de Ressources]] §Récolte créature · [[Bestiaire - Index]] · [[Crafts]] §Forge §Joaillerie §Travail du bois et de la pierre
+> Voir [[Sources de Ressources]] §Récolte créature · [[Bestiary/Index]] · [[Crafts]] §Forge §Joaillerie §Travail du bois et de la pierre
 
 ---
 
@@ -161,4 +161,4 @@ Chaque variant Bestiaire produit un **Os signé** :
 
 ---
 
-*Liens : [[Sources de Ressources]] · [[Crafts]] · [[Bestiaire - Index]] · [[Loup forestier]] · [[Ours brun]] · [[Dragon nain]] · [[Élémentaire de feu]] · [[Griffe]] · [[Corne]] · [[Cuir]]*
+*Liens : [[Sources de Ressources]] · [[Crafts]] · [[Bestiary/Index]] · [[Loup forestier]] · [[Ours brun]] · [[Dragon nain]] · [[Élémentaire de feu]] · [[Griffe]] · [[Corne]] · [[Cuir]]*

@@ -206,4 +206,4 @@ Cascade priorité : Crise (vol) > Religieux (taille rituelle) > Quête > Marchan
 
 ---
 
-*Liens : [[Comportements PNJ - Index|← Index]] · [[Routine Quotidienne]] · [[Modes Sociaux]] · [[Concepts Fondamentaux IA PNJ]] · [[Actions Situationnelles]] · [[03 - Mécaniques/Métiers/Artisanat et Production/Lapidaire|Lapidaire (gameplay)]] · [[Bijoutier]] · [[Sertisseur]] · [[03 - Mécaniques/Métiers/Exploration/Mineur|Mineur]] · [[Verrier]] · [[Forgeron]] · [[Enchanteur d'objet]] · [[Astronome]] · [[Architecte]] · [[Architecture/Index]]*
+*Liens : [[NPC Behaviors/Index|← Index]] · [[Routine Quotidienne]] · [[Modes Sociaux]] · [[Concepts Fondamentaux IA PNJ]] · [[Actions Situationnelles]] · [[03 - Mécaniques/Métiers/Artisanat et Production/Lapidaire|Lapidaire (gameplay)]] · [[Bijoutier]] · [[Sertisseur]] · [[03 - Mécaniques/Métiers/Exploration/Mineur|Mineur]] · [[Verrier]] · [[Forgeron]] · [[Enchanteur d'objet]] · [[Astronome]] · [[Architecte]] · [[Architecture/Index]]*

@@ -65,11 +65,9 @@ Pour le détail des stats, leurs valeurs, leurs formules de progression et leurs
 
 Il y a une chose qu'Hybelior refuse : qu'un être devienne un **dieu inaccessible** par seule accumulation. Aucun mortel, dans ce monde, n'a vocation à dépasser durablement la mesure des autres. Cette mesure a un seuil — *la hauteur d'humain*, comme disent les anciens — et au-delà de ce seuil, le monde, périodiquement, te ramène à lui.
 
-La **compression** n'est pas une punition. C'est le geste par lequel le cosmos rappelle qu'aucune statue ne tient debout éternellement, qu'aucun corps n'est fait pour rester surhumain saison après saison. À chaque [[Le Souffle|Souffle]], les puissances brutes accumulées au-delà du seuil sont partiellement rendues. Tes savoirs restent. Tes œuvres restent. Tes liens restent. Mais ta capacité à **dominer** la prochaine saison, elle, redescend vers la mesure commune.
+C'est le geste que pose le [[Le Souffle|Souffle]] sur la chair brute du personnage : *ce qui est mémoire reste, ce qui est puissance brute se rejoue*. Pour la philosophie complète de cette respiration — ce qu'elle préserve, ce qu'elle rend — voir [[Le Souffle]]. Ce qu'il importe ici de comprendre, à hauteur de personnage, c'est qu'aucune statue ne tient debout éternellement à Hybelior : le vétéran ne devient jamais un mur infranchissable pour le nouveau, et le nouveau ne décroche jamais devant un écart impossible à combler.
 
-Ce mécanisme dit, à voix basse, l'une des promesses les plus profondes d'Hybelior : *tu n'es pas grand parce que tu es ancien. Tu es grand parce que tu t'accordes au monde tel qu'il est.* Le vétéran ne devient jamais un mur infranchissable pour le nouveau. Le nouveau ne décroche jamais devant un écart impossible à combler.
-
-Pour la philosophie complète du Souffle — pourquoi le monde respire, ce que la respiration préserve et ce qu'elle rend — voir [[Le Souffle]]. Pour les chiffres exacts de la compression : voir [[Souffle System]].
+Pour les chiffres exacts de la compression : voir [[Souffle System]].
 
 > *« On reconnaît les vieux d'Hybelior à ce qu'ils ne se plaignent jamais d'avoir été ramenés à hauteur. Ils savent que c'est la condition pour que le monde reste un monde. »*
 >

@@ -35,7 +35,7 @@ needs_review_for: [cerf-magique-conditions, mapping-Ceapeecu, brame-mécanique]
 
 > Archétype canonique de l'**herbivore noble fuyard** d'Hybelior. Pattern pour cervidés (cerf, biche, chevreuil, élan, renne géant) et certains ongulés gracieux. Premier archétype "**proie**" du bestiaire — il **enseigne la chasse furtive** au joueur. Variants magiques notables (Cerf de Lune, Cerf de Songe — voir §7).
 >
-> Voir [[Bestiaire - Index]] · [[Loup forestier]] · [[Sanglier]]
+> Voir [[Bestiary/Index]] · [[Loup forestier]] · [[Sanglier]]
 
 ---
 
@@ -250,4 +250,4 @@ Voir §3. HP base 90 (CR 2). Stamina haute (course longue). Pas de Mana (sauf va
 
 ---
 
-*Liens : [[Bestiaire - Index|← Index Bestiaire]] · [[Loup forestier]] · [[Combat]] · [[Sources de Ressources]] · [[Les Ères]]*
+*Liens : [[Bestiary/Index|← Index Bestiaire]] · [[Loup forestier]] · [[Combat]] · [[Sources de Ressources]] · [[Les Ères]]*

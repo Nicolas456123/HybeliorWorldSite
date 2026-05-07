@@ -17,7 +17,7 @@ needs_review_for: [salamandre-stub, phénix-Phase4, mapping-Zocshawk-Cendara]
 
 > Écosystème **extrême chaud-actif**, royaume du feu. Couvre principalement le **Mont Cendra** (Cendara — éruption fréquente, **Forgerons du Feu**) et **l'Île Ilnara** (Cendara — Phénix de Feu, **Temple des Flammes Éternelles**), avec **Pyrtara** (Ilthara — dictature militaire volcanique, Grande Éruption). Pas de saisons cycliques — les **cycles d'éruption** dominent. Domaine de l'**[[Élémentaire de feu]]**.
 >
-> Voir [[Bestiaire - Index]] · [[Géographie]] · [[Élémentaire de feu]] · [[Dragon nain]] · [[Désert chaud de Cendara]]
+> Voir [[Bestiary/Index]] · [[Géographie]] · [[Élémentaire de feu]] · [[Dragon nain]] · [[Désert chaud de Cendara]]
 
 ---
 
@@ -227,4 +227,4 @@ DÉCOMPOSEURS :
 
 ---
 
-*Liens : [[Bestiaire - Index]] · [[Élémentaire de feu]] · [[Dragon nain]] · [[Démon mineur]] · [[Désert chaud de Cendara]] · [[Plans cosmiques]] · [[Géographie]] · [[Les Ères]] · [[Cosmologie]] · [[Sources de Ressources]]*
+*Liens : [[Bestiary/Index]] · [[Élémentaire de feu]] · [[Dragon nain]] · [[Démon mineur]] · [[Désert chaud de Cendara]] · [[Plans cosmiques]] · [[Géographie]] · [[Les Ères]] · [[Cosmologie]] · [[Sources de Ressources]]*

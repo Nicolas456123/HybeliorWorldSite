@@ -159,4 +159,4 @@ Modulateurs :
 
 ---
 
-*Liens : [[Comportements PNJ - Index|← Index]] · [[Concepts Fondamentaux IA PNJ]] · [[Actions Situationnelles]] · [[Tailleur]] (archétype joueur) · [[Tisserand]] · [[Forgeron]] · [[Bijoutier]] · [[Enchanteur d'objet]]*
+*Liens : [[NPC Behaviors/Index|← Index]] · [[Concepts Fondamentaux IA PNJ]] · [[Actions Situationnelles]] · [[Tailleur]] (archétype joueur) · [[Tisserand]] · [[Forgeron]] · [[Bijoutier]] · [[Enchanteur d'objet]]*

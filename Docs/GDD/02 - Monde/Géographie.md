@@ -95,13 +95,9 @@ Pour le détail des lignées et de leur ancrage, voir [[Lignées]]. Pour la fich
 
 ## Une géographie qui respire
 
-Une chose distingue radicalement Hybelior des mondes figés : sa géographie elle-même **respire**. Pas seulement le climat, pas seulement les saisons — la **forme** du monde change. Lentement, à l'échelle des âges, mais elle change.
+Une chose distingue radicalement Hybelior des mondes figés : sa géographie elle-même **respire**. Pas seulement le climat, pas seulement les saisons — la **forme** du monde change, lentement, à l'échelle des âges. Aux passages des Souffles Cardinaux (voir [[Le Souffle]]), des continents ont disparu, d'autres ont émergé ; des îles ont sombré avec leurs peuples, ne laissant derrière que des chants et quelques cartes illisibles. Cette plasticité est, en soi, une déclaration : **rien n'est définitivement acquis**. Aucun atlas n'est éternel.
 
-Aux passages des **Souffles Cardinaux**, des continents ont disparu. D'autres ont émergé. Des îles ont sombré, et leurs peuples avec elles, ne laissant derrière que des chants et quelques cartes que personne n'arrive plus à lire. Inversement, des terres autrefois cachées par des brouillards permanents ont vu un jour ces brouillards se lever, révélant des civilisations qu'on croyait légendaires. Cette plasticité est, en soi, une déclaration : **rien n'est définitivement acquis**. Aucun atlas n'est éternel. Aucun voyage n'est garanti par le précédent.
-
-À une échelle plus modeste, les Petits et Grands Souffles laissent eux aussi leurs traces sur la terre. Une **Faille Temporelle** apparue lors d'un Souffle peut figer une vallée pendant des décennies — la pluie y tombe au ralenti, les feuilles tournent à l'envers, et celui qui y entre n'est jamais sûr de savoir quand il en ressortira. Une **Brèche du Néant** ouverte par un combat cosmique laisse un vide actif — ni un trou ni un lieu, mais une **absence qui consomme**, et qu'aucune carte ne sait représenter sans mentir. Les **Sanctuaires Cosmiques**, à l'inverse, sont des points de présence accrue d'une voix Éternelle ou Cosmique — des lieux où le monde est, localement, **plus lui-même qu'ailleurs**.
-
-Tout cela compose ce que les chroniqueurs appellent la **géographie augmentée d'Hybelior** — la couche que les Souffles ont déposée par-dessus la géographie physique, et qu'on ne peut comprendre qu'en lisant ensemble la carte du monde et la chronique des âges. Pour le détail de ces traces et de ce qu'elles signifient, voir [[Traces des Ères]].
+Au-dessus de la géographie physique, les Souffles déposent une couche que les chroniqueurs appellent la **géographie augmentée** — Failles Temporelles, Brèches du Néant, Sanctuaires Cosmiques, autant de marques que les Ères passées ont laissées sur la carte présente, et qu'on ne peut comprendre qu'en lisant ensemble le sol et la chronique des âges. Pour le détail de ce que ces traces sont et de ce qu'elles signifient, voir [[Traces des Ères]].
 
 > *« Une carte vraie d'Hybelior aurait deux pages superposées : celle des terres, et celle des Souffles. Aucun cartographe sérieux n'a jamais publié les deux ensemble. Trop de vide entre les couches. »*
 >

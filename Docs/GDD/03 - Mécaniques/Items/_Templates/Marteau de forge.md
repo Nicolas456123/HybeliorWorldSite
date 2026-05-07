@@ -17,7 +17,7 @@ needs_review_for: [calibration-bonus-craft, frontiere-arme-vs-outil]
 
 # 🔨 Marteau de forge — Outil-pivot du Forgeron
 
-> Outil signature du [[Métiers - Forgeron|Forgeron]] : un marteau dédié au **martelage à l'enclume**, distinct du **Marteau à une main** (arme de mêlée). C'est l'outil qui transforme le lingot chauffé en lame, plate, anneau de mailles. Sans Marteau de forge, **aucune recette de Forge** n'est exécutable.
+> Outil signature du [[Forgeron|Forgeron]] : un marteau dédié au **martelage à l'enclume**, distinct du **Marteau à une main** (arme de mêlée). C'est l'outil qui transforme le lingot chauffé en lame, plate, anneau de mailles. Sans Marteau de forge, **aucune recette de Forge** n'est exécutable.
 
 ---
 
@@ -100,7 +100,7 @@ Le Forgeron utilise le Marteau de forge dans le triplet **four → enclume → t
 
 | Champ | Valeur |
 |---|---|
-| **Métier** | [[Métiers - Forgeron\|Forgeron]] (auto-fabrication possible) |
+| **Métier** | [[Forgeron\|Forgeron]] (auto-fabrication possible) |
 | **Station** | Forge à charbon + Établi |
 | **Intrants** | 2× [[Sources de Ressources#Source 3 — Fabrication\|Lingot]] (acier ou fer dur) · 1× [[Sources de Ressources#Source 1 — Récolte nature\|Bois]] (manche, frêne ou chêne) · 1× [[Sources de Ressources#Source 2 — Récolte sur créature\|Cuir]] tanné (poignée) · 1× [[Sources de Ressources#Source 3 — Fabrication\|Fil métallique]] (rivetage) |
 | **Palier requis** | Adepte |
@@ -134,4 +134,4 @@ Comme [[Sac à dos]], les outils ne portent pas les 10 variants combat purs. Mai
 
 ---
 
-*Liens : [[Items - Index\|← Index Items]] · [[Catégories d'Items]] · [[Crafts]] · [[Métiers]] · [[Marteau à une main]] · [[Soufflet]]*
+*Liens : [[Items/Index\|← Index Items]] · [[Catégories d'Items]] · [[Crafts]] · [[Métiers]] · [[Marteau à une main]] · [[Soufflet]]*

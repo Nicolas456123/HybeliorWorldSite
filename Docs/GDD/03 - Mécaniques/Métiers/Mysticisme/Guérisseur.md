@@ -131,7 +131,7 @@ Le Guérisseur s'appuie sur **2 Voies principales** (mono-Voie obligatoire) avec
 - **Anneau d'Eldoria** ou **Anneau de Spiritus** — bonus passif Voie (cf. [[Anneau]] §5)
 - **Talisman de soin** — amulette portant un sort encapsulé de soin léger à charges illimitées
 
-→ Référence [[Tome]] §5, [[Anneau]] §5, [[Items - Index]] §Focus magiques.
+→ Référence [[Tome]] §5, [[Anneau]] §5, [[Items/Index]] §Focus magiques.
 
 ---
 

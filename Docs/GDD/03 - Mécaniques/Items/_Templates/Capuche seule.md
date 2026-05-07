@@ -95,9 +95,9 @@ La Capuche seule occupe le slot Tête en mode **non-armure**. Elle :
 
 | Matériau | Métier | Intrants T3 | Maîtrise · Durée · Mini-jeu |
 |---|---|---|---|
-| **Tissu** | [[Métiers - Tisserand\|Tisserand]] + [[Métiers - Couturier\|Couturier]] | 2× Tissu · 1× Pigment (sombre) · 1× Fil métallique (cordon) | Adepte · 40 s · cadence + couture |
+| **Tissu** | [[Tisserand\|Tisserand]] + [[Métiers - Couturier\|Couturier]] | 2× Tissu · 1× Pigment (sombre) · 1× Fil métallique (cordon) | Adepte · 40 s · cadence + couture |
 | **Soie** | Tisserand + [[Métiers - Brodeur\|Brodeur]] | 2× Soie · 1× Pigment précieux · 1× Fil d'or (cordon) | Expert · 60 s · couture fine |
-| **Cuir léger** | [[Métiers - Tanneur\|Tanneur]] → [[Métiers - Maroquinier\|Maroquinier]] | 2× Cuir tanné fin · 1× Pigment · 1× Boucle | Adepte · 50 s · découpe + couture cuir |
+| **Cuir léger** | [[Tanneur\|Tanneur]] → [[Métiers - Maroquinier\|Maroquinier]] | 2× Cuir tanné fin · 1× Pigment · 1× Boucle | Adepte · 50 s · découpe + couture cuir |
 
 ---
 
@@ -123,4 +123,4 @@ La Capuche seule occupe le slot Tête en mode **non-armure**. Elle :
 
 ---
 
-*Liens : [[Items - Index\|← Index Items]] · [[Catégories d'Items]] · [[Crafts]] · [[Heaume]] · [[Cape]] · [[Cuirasse]] · [[PvP]]*
+*Liens : [[Items/Index\|← Index Items]] · [[Catégories d'Items]] · [[Crafts]] · [[Heaume]] · [[Cape]] · [[Cuirasse]] · [[PvP]]*

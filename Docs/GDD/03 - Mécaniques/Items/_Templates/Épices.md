@@ -264,4 +264,4 @@ Les **épices** sont des intrants **modificateurs** : graines, écorces, racines
 
 ---
 
-*Liens : [[Items - Index|← Index Items]] · [[Catégories d'Items]] · [[Sources de Ressources]] · [[Crafts]] · [[Métiers]] · [[Pain]] · [[Potion]] · [[Herbes]]*
+*Liens : [[Items/Index|← Index Items]] · [[Catégories d'Items]] · [[Sources de Ressources]] · [[Crafts]] · [[Métiers]] · [[Pain]] · [[Potion]] · [[Herbes]]*

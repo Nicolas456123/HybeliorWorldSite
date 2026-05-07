@@ -340,4 +340,4 @@ Un Maître Enchanteur peut **dissocier** le Talisman du pacte (rite de purgation
 
 ---
 
-*Liens : [[Items - Index|← Index Items]] · [[Catégories d'Items]] · [[Tome]] · [[Orbe]] · [[Amulette]] · [[Le Lien]] · [[Personnage]]*
+*Liens : [[Items/Index|← Index Items]] · [[Catégories d'Items]] · [[Tome]] · [[Orbe]] · [[Amulette]] · [[Le Lien]] · [[Personnage]]*

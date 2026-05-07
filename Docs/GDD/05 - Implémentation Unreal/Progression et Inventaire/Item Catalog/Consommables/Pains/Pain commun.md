@@ -36,4 +36,4 @@ sortie: 4 miches
 
 Prix : 1-2 Éclats.
 
-*Liens : [[_Description|Pains]] · [[Métiers - Boulanger]]*
+*Liens : [[_Description|Pains]] · [[Boulanger]]*

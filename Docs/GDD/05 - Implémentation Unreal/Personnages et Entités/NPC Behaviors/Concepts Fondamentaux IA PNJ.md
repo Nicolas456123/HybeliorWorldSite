@@ -8,7 +8,7 @@ needs_review_for: [tous-les-20-concepts]
 
 # 🧠 Concepts Fondamentaux — IA des PNJ
 
-> **Document socle.** Toutes les ébauches de [[Routine Quotidienne]], [[Modes Sociaux]], [[Métiers - Forgeron]], [[Métiers - Boulanger]] présupposent un modèle d'IA, de cognition, de mémoire, de personnalité et de simulation qui n'est **pas encore tranché**.
+> **Document socle.** Toutes les ébauches de [[Routine Quotidienne]], [[Modes Sociaux]], [[Forgeron]], [[Boulanger]] présupposent un modèle d'IA, de cognition, de mémoire, de personnalité et de simulation qui n'est **pas encore tranché**.
 >
 > Ce fichier liste les **20 concepts à arbitrer** avant de produire les archétypes Phase 2. Chaque concept = 1 question, plusieurs options, considérations, recommandation initiale légère.
 >
@@ -1946,4 +1946,4 @@ Une fois les 20 concepts tranchés, **Phase 2 archétypes** peut démarrer avec 
 
 ---
 
-*Liens : [[Comportements PNJ - Index|← Index]] · [[Routine Quotidienne]] · [[Modes Sociaux]] · [[Métiers - Forgeron]] · [[Métiers - Boulanger]] · [[PNJ]] · [[Architecture Data-Driven]] · [[Registre des Décisions]]*
+*Liens : [[NPC Behaviors/Index|← Index]] · [[Routine Quotidienne]] · [[Modes Sociaux]] · [[Forgeron]] · [[Boulanger]] · [[PNJ]] · [[Architecture Data-Driven]] · [[Registre des Décisions]]*

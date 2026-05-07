@@ -126,4 +126,4 @@ Pour l'observateur extérieur, Ilthara peut sembler fragmentée, divisée, en pe
 
 *Nations : [[Ilthara/Ackerna|Ackerna]] | [[Ilthara/Drakora|Drakora]] | [[Ilthara/Gryndor|Gryndor]] | [[Ilthara/Lythar|Lythar]] | [[Ilthara/Pyrtara|Pyrtara]] | [[Ilthara/Sylthara|Sylthara]] | [[Ilthara/Vytharia|Vytharia]] | [[Ilthara/Warenthor|Warenthor]]*
 
-*Liens : [[Continents/Index|Tous les continents]] | [[02 - Monde/Index|02 - Monde]] | [[Lignees]] | [[Le Souffle]]*
+*Liens : [[Continents/Index|Tous les continents]] | [[02 - Monde/Index|02 - Monde]] | [[Lignées]] | [[Le Souffle]]*

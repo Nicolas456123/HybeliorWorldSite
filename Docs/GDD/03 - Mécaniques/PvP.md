@@ -113,13 +113,7 @@ Cette dimension renvoie à [[Factions]] et à [[Réputation et Reconnaissance]] 
 
 ## PvP et Souffle — les Ères qui font et défont la guerre
 
-Hybelior respire — c'est le principe du [[Souffle]]. Et ce qui respire avec le monde, ce n'est pas seulement le climat ou la magie. C'est aussi **l'humeur des conflits**.
-
-Certaines Ères sont **belliqueuses** : les voix dominantes y poussent à la conquête, au choc. Les guildes prennent l'initiative ; les forteresses changent de mains plus vite ; les routes se remplissent d'embuscades. Dans ces saisons, même les voyageurs paisibles finissent par lever leurs couleurs, parce que le monde attend cela d'eux.
-
-D'autres Ères sont **pacifiantes** : les voix dominantes apaisent les tensions, encouragent les pactes, font lever les médiateurs. Les sièges deviennent rares, les Rouges peinent à trouver leur place. Ce ne sont pas des Ères mortes — elles sont riches de diplomatie, de commerce, de constructions communes. Mais le PvP, s'il existe toujours, **se fait plus discret**.
-
-D'autres encore sont **ambivalentes** — elles encouragent les rivalités d'honneur, les duels formels, la guerre ritualisée plutôt que le raid sauvage. Les arènes y connaissent leurs heures de gloire ; les vendettas s'y règlent en duel public plutôt qu'en embuscade nocturne.
+Comme le décrit [[Le Souffle]], Hybelior respire — et ce qui respire avec le monde, ce n'est pas seulement le climat ou la magie. C'est aussi **l'humeur des conflits**. Certaines [[Les Ères|Ères]] sont belliqueuses : les voix dominantes y poussent à la conquête, les forteresses changent de mains plus vite, les routes se remplissent d'embuscades. D'autres sont pacifiantes : sièges rares, médiateurs écoutés, Rouges marginalisés. D'autres encore favorisent l'honneur formel — duels publics, vendettas ritualisées — plutôt que le raid sauvage.
 
 > *« On dit qu'à l'Ère du Sang, on ne dort jamais loin de son arme. Et qu'à l'Ère du Pacte, on apprend que l'arme la mieux affûtée ne sert à rien si l'on n'a personne avec qui la lever. »*
 >

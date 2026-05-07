@@ -262,4 +262,4 @@ Les **champignons** sont récoltés par le [[Métiers|Mycologue]] et le [[Métie
 
 ---
 
-*Liens : [[Items - Index|← Index Items]] · [[Catégories d'Items]] · [[Sources de Ressources]] · [[Crafts]] · [[Métiers]] · [[Potion]] · [[Pain]] · [[Herbes]]*
+*Liens : [[Items/Index|← Index Items]] · [[Catégories d'Items]] · [[Sources de Ressources]] · [[Crafts]] · [[Métiers]] · [[Potion]] · [[Pain]] · [[Herbes]]*

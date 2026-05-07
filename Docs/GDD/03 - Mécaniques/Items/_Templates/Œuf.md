@@ -142,4 +142,4 @@ L'**Œuf** est l'une des rares ressources créature **non-prédatrice** : récol
 
 ---
 
-*Liens : [[Sources de Ressources]] · [[Crafts]] · [[Cuisine]] · [[Gâteaux]] · [[Catégories d'Items]] · [[Aigle royal]] · [[Serpent géant]] · [[Tortue ancestrale]] · [[Dragon nain]] · [[Bestiaire - Index]]*
+*Liens : [[Sources de Ressources]] · [[Crafts]] · [[Cuisine]] · [[Gâteaux]] · [[Catégories d'Items]] · [[Aigle royal]] · [[Serpent géant]] · [[Tortue ancestrale]] · [[Dragon nain]] · [[Bestiary/Index]]*

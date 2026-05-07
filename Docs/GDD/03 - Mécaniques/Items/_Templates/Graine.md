@@ -122,4 +122,4 @@ La **Graine** est récoltée sur plante mature ou via décortication de fruits/c
 
 ---
 
-*Liens : [[Items - Index|← Index Items]] · [[Catégories d'Items]] · [[Sources de Ressources]] · [[Crafts]] · [[Métiers]] · [[Les Ères]] · [[Céréale]] · [[Fleur]] · [[Plante]] · [[Épices]]*
+*Liens : [[Items/Index|← Index Items]] · [[Catégories d'Items]] · [[Sources de Ressources]] · [[Crafts]] · [[Métiers]] · [[Les Ères]] · [[Céréale]] · [[Fleur]] · [[Plante]] · [[Épices]]*

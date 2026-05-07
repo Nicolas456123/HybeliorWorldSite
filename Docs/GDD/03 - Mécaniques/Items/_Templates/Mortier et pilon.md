@@ -92,7 +92,7 @@ Sur les substances rares ou dangereuses (venins), le mini-jeu inclut une **jauge
 
 | Champ | Valeur |
 |---|---|
-| **Métier** | [[Métiers - Tailleur de pierre\|Tailleur de pierre]] (mortier) OU [[Métiers - Forgeron\|Forgeron]] (mortier métallique) + [[Métiers - Menuisier\|Menuisier]] (pilon) |
+| **Métier** | [[Tailleur de pierre\|Tailleur de pierre]] (mortier) OU [[Forgeron\|Forgeron]] (mortier métallique) + [[Menuisier\|Menuisier]] (pilon) |
 | **Station** | Atelier de taille / Forge + Établi |
 | **Intrants** | 2× [[Sources de Ressources#Source 1 — Récolte nature\|Pierre]] dense (granit, basalte) OU 1× Lingot bronze · 1× [[Sources de Ressources#Source 1 — Récolte nature\|Bois]] (frêne ou ébène pour pilon) · 1× [[Sources de Ressources#Source 3 — Fabrication\|Pigment]] (gravures) |
 | **Palier requis** | Adepte |
@@ -122,4 +122,4 @@ Sur les substances rares ou dangereuses (venins), le mini-jeu inclut une **jauge
 
 ---
 
-*Liens : [[Items - Index\|← Index Items]] · [[Crafts]] · [[Métiers]] · [[Catégories d'Items]] · [[Potion]] · [[Herbes]] · [[Épices]]*
+*Liens : [[Items/Index\|← Index Items]] · [[Crafts]] · [[Métiers]] · [[Catégories d'Items]] · [[Potion]] · [[Herbes]] · [[Épices]]*

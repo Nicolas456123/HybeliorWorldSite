@@ -17,7 +17,7 @@ needs_review_for: [bœuf-musqué-stub, ours-polaire-stub, phoque-stub, mapping-Y
 
 > Écosystème **extrême** des hautes latitudes d'Hybelior. Couvre la toundra de **Cestra** (Bastion du Nord, Gardiens de Givre, Chamanes des Brumes), l'extrême nord d'**Alkaran** (Skaldoria-fjords), **Nysaria** (Île du Cœur de Givre), le **No man's land de Celethor**, et les approches d'**Azoria**. Pas d'arbres — végétation rase, lichens, mousses gelées. **Domaine du [[Yéti]]**.
 >
-> Voir [[Bestiaire - Index]] · [[Géographie]] · [[Yéti]] · [[Loup arctique]] · [[Forêt boréale d'Alkaran]]
+> Voir [[Bestiary/Index]] · [[Géographie]] · [[Yéti]] · [[Loup arctique]] · [[Forêt boréale d'Alkaran]]
 
 ---
 
@@ -223,4 +223,4 @@ DÉCOMPOSEURS (quasi-absents par le froid) :
 
 ---
 
-*Liens : [[Bestiaire - Index]] · [[Yéti]] · [[Loup arctique]] · [[Ours brun]] · [[Forêt boréale d'Alkaran]] · [[Géographie]] · [[Les Ères]] · [[Cosmologie]] · [[Sources de Ressources]]*
+*Liens : [[Bestiary/Index]] · [[Yéti]] · [[Loup arctique]] · [[Ours brun]] · [[Forêt boréale d'Alkaran]] · [[Géographie]] · [[Les Ères]] · [[Cosmologie]] · [[Sources de Ressources]]*

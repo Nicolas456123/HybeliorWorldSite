@@ -85,7 +85,7 @@ Une interface qui se veut transparente doit l'être pour **tous les regards**. H
 
 Cette inclusivité n'est pas une couche ajoutée à la fin. C'est une **dimension du design dès l'origine**. Une menace n'est jamais signalée par sa seule couleur — toujours par une forme, un mouvement, un son qui la double. Un combo n'a jamais une fenêtre temporelle si serrée qu'elle exclut les mains lentes. Un dialogue est lisible sans audio.
 
-Hybelior considère qu'un monde qui prétend être un foyer commun doit l'être pour tout le monde, pas seulement pour ceux dont les sens et les réflexes correspondent à la moyenne. Cette exigence rejoint celle, plus large, du [[Souffle]] : un monde qui respire avec ceux qui le peuplent ne peut pas commencer par en exclure une partie.
+Hybelior considère qu'un monde qui prétend être un foyer commun doit l'être pour tout le monde, pas seulement pour ceux dont les sens et les réflexes correspondent à la moyenne. Cette exigence rejoint celle, plus large, du [[Le Souffle]] : un monde qui respire avec ceux qui le peuplent ne peut pas commencer par en exclure une partie.
 
 > *« L'accessibilité, ce n'est pas un mode pour les autres. C'est le test de sincérité d'un design qui prétend penser au joueur. »*
 >

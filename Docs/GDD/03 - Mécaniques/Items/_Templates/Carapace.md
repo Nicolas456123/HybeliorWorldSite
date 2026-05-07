@@ -133,4 +133,4 @@ Trois grandes origines :
 
 ---
 
-*Liens : [[Sources de Ressources]] · [[Crafts]] · [[Catégories d'Items]] · [[Écaille]] · [[Antenne]] · [[Cuirasse]] · [[Bouclier]] · [[Krill géant]] · [[Ruche d'insectes]] · [[Tortue ancestrale]] · [[Bestiaire - Index]]*
+*Liens : [[Sources de Ressources]] · [[Crafts]] · [[Catégories d'Items]] · [[Écaille]] · [[Antenne]] · [[Cuirasse]] · [[Bouclier]] · [[Krill géant]] · [[Ruche d'insectes]] · [[Tortue ancestrale]] · [[Bestiary/Index]]*

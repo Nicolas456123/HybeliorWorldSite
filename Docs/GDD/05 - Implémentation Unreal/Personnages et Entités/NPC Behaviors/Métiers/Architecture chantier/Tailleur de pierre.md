@@ -196,4 +196,4 @@ Cascade priorité : Crise > Religieux > Marchand > Routine.
 
 ---
 
-*Liens : [[Comportements PNJ - Index|← Index]] · [[Routine Quotidienne]] · [[Modes Sociaux]] · [[Concepts Fondamentaux IA PNJ]] · [[Actions Situationnelles]] · [[03 - Mécaniques/Métiers/Artisanat et Production/Tailleur de pierre|Tailleur de pierre (gameplay)]] · [[Maçon]] · [[Architecte]] · [[Sculpteur]] · [[03 - Mécaniques/Métiers/Exploration/Mineur|Mineur]] · [[Lapidaire]] · [[Forgeron]] · [[Architecture/Index]]*
+*Liens : [[NPC Behaviors/Index|← Index]] · [[Routine Quotidienne]] · [[Modes Sociaux]] · [[Concepts Fondamentaux IA PNJ]] · [[Actions Situationnelles]] · [[03 - Mécaniques/Métiers/Artisanat et Production/Tailleur de pierre|Tailleur de pierre (gameplay)]] · [[Maçon]] · [[Architecte]] · [[Sculpteur]] · [[03 - Mécaniques/Métiers/Exploration/Mineur|Mineur]] · [[Lapidaire]] · [[Forgeron]] · [[Architecture/Index]]*

@@ -97,7 +97,7 @@ Tier de la Hache élargit la zone-cible et augmente la durée d'affichage.
 
 | Champ | Valeur |
 |---|---|
-| **Métier** | [[Métiers - Forgeron\|Forgeron]] (lame) + [[Métiers - Menuisier\|Menuisier]] (manche) |
+| **Métier** | [[Forgeron\|Forgeron]] (lame) + [[Menuisier\|Menuisier]] (manche) |
 | **Station** | Forge + Établi |
 | **Intrants** | 2× [[Sources de Ressources#Source 3 — Fabrication\|Lingot]] (acier) · 1× [[Sources de Ressources#Source 3 — Fabrication\|Planche]] (frêne) · 1× [[Sources de Ressources#Source 2 — Récolte sur créature\|Cuir]] tanné (poignée) · 1× Charbon |
 | **Palier requis** | Adepte |
@@ -127,4 +127,4 @@ Tier de la Hache élargit la zone-cible et augmente la durée d'affichage.
 
 ---
 
-*Liens : [[Items - Index\|← Index Items]] · [[Crafts]] · [[Métiers]] · [[Catégories d'Items]] · [[Hache à une main]] · [[Hache à deux mains]] · [[Pioche]]*
+*Liens : [[Items/Index\|← Index Items]] · [[Crafts]] · [[Métiers]] · [[Catégories d'Items]] · [[Hache à une main]] · [[Hache à deux mains]] · [[Pioche]]*

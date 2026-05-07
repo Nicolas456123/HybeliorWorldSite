@@ -184,4 +184,4 @@ sortie: Gemme mythique × 1 (T6) — devient Héritage ([[L'Accord]]) du joueur
 
 ---
 
-*Liens : [[Items - Index|← Index Items]] · [[Sources de Ressources]] · [[Crafts]] · [[Métiers]] · [[Anneau]] · [[Épée à une main]] · [[Sceptre]] · [[Orbe]] · [[Cristal de Voie]] · [[Plaque de verre]] · [[L'Accord]]*
+*Liens : [[Items/Index|← Index Items]] · [[Sources de Ressources]] · [[Crafts]] · [[Métiers]] · [[Anneau]] · [[Épée à une main]] · [[Sceptre]] · [[Orbe]] · [[Cristal de Voie]] · [[Plaque de verre]] · [[L'Accord]]*

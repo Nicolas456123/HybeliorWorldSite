@@ -283,4 +283,4 @@ Récupération ~30-50% du cristal. La gravure héraldique est **destructive** : 
 
 ---
 
-*Liens : [[Items - Index|← Index Items]] · [[Catégories d'Items]] · [[Anneau]] · [[Amulette]] · [[Personnage]] · [[Économie]]*
+*Liens : [[Items/Index|← Index Items]] · [[Catégories d'Items]] · [[Anneau]] · [[Amulette]] · [[Personnage]] · [[Économie]]*

@@ -35,7 +35,7 @@ needs_review_for: [combat-aérien-mécanique, mapping-Feopsingale, plume-rareté
 
 > Archétype canonique du **prédateur aérien apex** d'Hybelior. Pattern pour aviens chasseurs (aigle, aigle-condor, gyrfalcon géant, vautour-roi). Pose le pattern **Bipède avien** distinct du Bipède humanoïde, et la **mécanique de combat aérien** (joueur au sol vs créature en vol — première vraie occurrence dans le bestiaire).
 >
-> Voir [[Bestiaire - Index]] · [[Loup forestier]] · [[Faucon]]
+> Voir [[Bestiary/Index]] · [[Loup forestier]] · [[Faucon]]
 
 ---
 
@@ -251,4 +251,4 @@ Voir §3. HP base 200 (CR 7). Stamina pour planages prolongés. Pas de Mana. **V
 
 ---
 
-*Liens : [[Bestiaire - Index|← Index Bestiaire]] · [[Loup forestier]] · [[Faucon]] · [[Combat]] · [[Sources de Ressources]] · [[Les Ères]]*
+*Liens : [[Bestiary/Index|← Index Bestiaire]] · [[Loup forestier]] · [[Faucon]] · [[Combat]] · [[Sources de Ressources]] · [[Les Ères]]*

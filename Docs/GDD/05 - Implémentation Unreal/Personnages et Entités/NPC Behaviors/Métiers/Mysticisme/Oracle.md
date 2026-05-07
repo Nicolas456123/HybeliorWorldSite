@@ -246,4 +246,4 @@ Cascade : **Crise > Religieux > Deuil > Marchand > Routine**.
 
 ---
 
-*Liens : [[Comportements PNJ - Index|← Index]] · [[Routine Quotidienne]] · [[Modes Sociaux]] · [[Concepts Fondamentaux IA PNJ]] · [[Actions Situationnelles]] · [[03 - Mécaniques/Métiers/Mysticisme/Oracle|Oracle (archétype joueur)]] · [[Prédiction]] · [[Le Lien]] · [[Cosmologie]] · [[Le Souffle]] · [[Les Ères]] · [[Lore/Religions/Foedus Animae|Foedus Animae]] · [[Lore/Religions/Rota Mundi|Rota Mundi]]*
+*Liens : [[NPC Behaviors/Index|← Index]] · [[Routine Quotidienne]] · [[Modes Sociaux]] · [[Concepts Fondamentaux IA PNJ]] · [[Actions Situationnelles]] · [[03 - Mécaniques/Métiers/Mysticisme/Oracle|Oracle (archétype joueur)]] · [[Prédiction]] · [[Le Lien]] · [[Cosmologie]] · [[Le Souffle]] · [[Les Ères]] · [[Lore/Religions/Foedus Animae|Foedus Animae]] · [[Lore/Religions/Rota Mundi|Rota Mundi]]*

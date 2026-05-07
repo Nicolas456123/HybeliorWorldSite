@@ -27,7 +27,7 @@ aliases: [Comportements PNJ - Index]
 |--------|---------|----------|
 | **Concepts fondamentaux** *(20 D-PNJ-* tranchées 2026-05-01)* | 20 décisions architecturales (modèle IA, cognition, mémoire, social, MBTI, etc.) | [[Concepts Fondamentaux IA PNJ]] ✅ |
 | **Actions situationnelles** *(Phase 2 — fichier maître)* | Matrice contexte×action, 8 modes superposables, 18+ triggers, 8 catégories de réactions canoniques, modulation MBTI exhaustive | [[Actions Situationnelles]] ✅ |
-| **Cadrage narratif** | Routine quotidienne générique + modes sociaux + métiers de base (ébauches) | [[Routine Quotidienne]] · [[Modes Sociaux]] · [[Métiers - Forgeron]] ⚠️ · [[Métiers - Boulanger]] ⚠️ |
+| **Cadrage narratif** | Routine quotidienne générique + modes sociaux + métiers de base (ébauches) | [[Routine Quotidienne]] · [[Modes Sociaux]] · [[Forgeron]] ⚠️ · [[Boulanger]] ⚠️ |
 | **Templates métier** *(Phase 3 — à mettre à jour selon Actions Situationnelles)* | 1 fichier par métier de PNJ (mapping vers les 63 [[Métiers]]). Les ébauches Forgeron/Boulanger sont à réécrire en branchant sur ce fichier maître. | À créer / réécrire |
 | **Templates rôle social** *(Phase 3)* | Garde, Marchand itinérant, Enfant, Vagabond, Notable, Religieux, Sentinelle | À créer |
 | **Templates événement** *(Phase 3)* | Réaction à l'attaque, à la fête, au Souffle, à la guerre | À créer |
@@ -48,7 +48,7 @@ Tout comportement PNJ est un **arbre de tâches séquentielles ou parallèles**,
 - [[Actions Situationnelles]] — **fichier maître Phase 2** (matrice contexte×action, 8 modes, MBTI transverse)
 - [[PNJ]] — concept général des PNJ d'Hybelior
 - [[Architecture Data-Driven]] — NPC Generator + Behavior Generator (12 générateurs)
-- [[Bestiaire - Index]] — recouvrement avec créatures Sapient
+- [[Bestiary/Index]] — recouvrement avec créatures Sapient
 - [[Métiers]] — 63 métiers couverts par PNJ artisans
 - [[Le Souffle]] — les comportements PNJ peuvent changer selon l'ère active
 
@@ -70,4 +70,4 @@ SORT file.name ASC
 
 ---
 
-*Liens : [[Routine Quotidienne]] · [[Modes Sociaux]] · [[Métiers - Forgeron]] · [[Métiers - Boulanger]] · [[PNJ]] · [[Architecture Data-Driven]]*
+*Liens : [[Routine Quotidienne]] · [[Modes Sociaux]] · [[Forgeron]] · [[Boulanger]] · [[PNJ]] · [[Architecture Data-Driven]]*

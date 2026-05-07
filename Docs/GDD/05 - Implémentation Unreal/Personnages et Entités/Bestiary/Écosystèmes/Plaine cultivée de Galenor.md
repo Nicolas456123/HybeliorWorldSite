@@ -17,7 +17,7 @@ needs_review_for: [renard-stub, lapin-stub, herbes-dorées-canon-Galenor]
 
 > Écosystème **agropastoral**, le plus modifié par l'humain d'Hybelior. Couvre les **plaines aux herbes dorées curatives** du centre de Galenor (cf. [[Géographie]] §Galenor), les domaines de **Trinoria** (Bataille des Mille Flèches), **Ventera** (Révolte des Cavaliers), **Lumasar** (académies), **Tyndara** sud d'Onara (République marchande), et les plaines centrales d'**Endora** (Valmera, Chevaucheurs des Vents).
 >
-> Voir [[Bestiaire - Index]] · [[Géographie]] · [[Sanglier]] · [[Faucon]] · [[Forêt tempérée d'Astravia]]
+> Voir [[Bestiary/Index]] · [[Géographie]] · [[Sanglier]] · [[Faucon]] · [[Forêt tempérée d'Astravia]]
 
 ---
 
@@ -234,4 +234,4 @@ DÉCOMPOSEURS :
 
 ---
 
-*Liens : [[Bestiaire - Index]] · [[Sanglier]] · [[Faucon]] · [[Cerf majestueux]] · [[Aigle royal]] · [[Forêt tempérée d'Astravia]] · [[Steppe d'Onara]] · [[Géographie]] · [[Les Ères]] · [[Sources de Ressources]]*
+*Liens : [[Bestiary/Index]] · [[Sanglier]] · [[Faucon]] · [[Cerf majestueux]] · [[Aigle royal]] · [[Forêt tempérée d'Astravia]] · [[Steppe d'Onara]] · [[Géographie]] · [[Les Ères]] · [[Sources de Ressources]]*

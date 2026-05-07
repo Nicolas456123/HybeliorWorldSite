@@ -119,4 +119,4 @@ Distinction canonique : si la recette demande "Plante" sans préciser, n'importe
 
 ---
 
-*Liens : [[Items - Index|← Index Items]] · [[Catégories d'Items]] · [[Sources de Ressources]] · [[Crafts]] · [[Métiers]] · [[Les Ères]] · [[Feuille]] · [[Racine]] · [[Fleur]] · [[Cœur de plante]] · [[Herbes]]*
+*Liens : [[Items/Index|← Index Items]] · [[Catégories d'Items]] · [[Sources de Ressources]] · [[Crafts]] · [[Métiers]] · [[Les Ères]] · [[Feuille]] · [[Racine]] · [[Fleur]] · [[Cœur de plante]] · [[Herbes]]*

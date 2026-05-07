@@ -217,4 +217,4 @@ Cascade : **Crise (compagnon priorité) > Religieux > Deuil > Marchand > Routine
 
 ---
 
-*Liens : [[Comportements PNJ - Index|← Index]] · [[Routine Quotidienne]] · [[Modes Sociaux]] · [[Concepts Fondamentaux IA PNJ]] · [[Actions Situationnelles]] · [[03 - Mécaniques/Métiers/Mysticisme/Enchanteur du vivant|Enchanteur du vivant (archétype joueur)]] · [[Enchanteur d'objet]] · [[Le Lien]] · [[Cosmologie]] · [[Bestiaire]] · [[Dresseur de créature]]*
+*Liens : [[NPC Behaviors/Index|← Index]] · [[Routine Quotidienne]] · [[Modes Sociaux]] · [[Concepts Fondamentaux IA PNJ]] · [[Actions Situationnelles]] · [[03 - Mécaniques/Métiers/Mysticisme/Enchanteur du vivant|Enchanteur du vivant (archétype joueur)]] · [[Enchanteur d'objet]] · [[Le Lien]] · [[Cosmologie]] · [[Bestiaire]] · [[Dresseur de créature]]*

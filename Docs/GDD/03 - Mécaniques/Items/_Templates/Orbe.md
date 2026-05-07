@@ -348,4 +348,4 @@ Un Enchanteur Expert+ peut **dissocier** l'Orbe de sa Voie (rite de purgation, ~
 
 ---
 
-*Liens : [[Items - Index|← Index Items]] · [[Catégories d'Items]] · [[Tome]] · [[Cristal de Voie]] · [[Le Lien]] · [[Personnage]]*
+*Liens : [[Items/Index|← Index Items]] · [[Catégories d'Items]] · [[Tome]] · [[Cristal de Voie]] · [[Le Lien]] · [[Personnage]]*

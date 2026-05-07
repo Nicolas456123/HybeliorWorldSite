@@ -93,7 +93,7 @@ En **mode actif**, le joueur peut **pomper** le Soufflet en rythme pendant le mi
 
 | Champ | Valeur |
 |---|---|
-| **Métier** | [[Métiers - Tanneur\|Tanneur]] (cuir-poumon) + [[Métiers - Menuisier\|Menuisier]] (cadre bois) + [[Métiers - Forgeron\|Forgeron]] (buse métal) |
+| **Métier** | [[Tanneur\|Tanneur]] (cuir-poumon) + [[Menuisier\|Menuisier]] (cadre bois) + [[Forgeron\|Forgeron]] (buse métal) |
 | **Station** | Établi (multi) |
 | **Intrants** | 2× [[Sources de Ressources#Source 2 — Récolte sur créature\|Cuir]] tanné épais (poumon) · 1× [[Sources de Ressources#Source 3 — Fabrication\|Planche]] (cadre) · 1× [[Sources de Ressources#Source 3 — Fabrication\|Lingot]] (buse) · 2× [[Sources de Ressources#Source 3 — Fabrication\|Fil métallique]] (sangles) |
 | **Palier requis** | Adepte |
@@ -123,4 +123,4 @@ En **mode actif**, le joueur peut **pomper** le Soufflet en rythme pendant le mi
 
 ---
 
-*Liens : [[Items - Index\|← Index Items]] · [[Crafts]] · [[Métiers]] · [[Catégories d'Items]] · [[Marteau de forge]]*
+*Liens : [[Items/Index\|← Index Items]] · [[Crafts]] · [[Métiers]] · [[Catégories d'Items]] · [[Marteau de forge]]*

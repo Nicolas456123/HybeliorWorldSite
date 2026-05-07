@@ -25,8 +25,8 @@ Le Dresseur est le **rabatteur de l'inconnu** : il part dans la nature, approche
 
 - **Identité comportementale** : empathe animal, patient, douceur ferme, peu hiérarchique
 - **Position sociale** : aventurier respecté mais marginal (pas tout à fait artisan, pas tout à fait combattant)
-- **Slot Mode Marchand** : ponctuel, à l'arrivée d'un spécimen apprivoisé (vente directe à [[Éleveur de créature]] ou noble)
-- **Lien chaîne** : amont [[Apothicaire]] (phéromones), [[Forgeron]] (filets, lassos) · aval [[Éleveur de créature]], [[Dresseur de créature]] (M2 Artisanat — atelier), arènes, montures pour aventuriers
+- **Slot Mode Marchand** : ponctuel, à l'arrivée d'un spécimen apprivoisé (vente directe à [[Eleveur de créature]] ou noble)
+- **Lien chaîne** : amont [[Apothicaire]] (phéromones), [[Forgeron]] (filets, lassos) · aval [[Eleveur de créature]], [[Dresseur de créature]] (M2 Artisanat — atelier), arènes, montures pour aventuriers
 
 ### 1.bis Frontière Dresseur (M6) vs Dresseur de créature (M2 Artisanat)
 
@@ -100,11 +100,11 @@ Modulateurs ([[Concepts Fondamentaux IA PNJ]] §6) :
 |------|-----------|--------------------------|
 | **Routine** *(défaut)* | Camp ou approche | Observation, soin compagnons |
 | **Itinérant** | Expédition apprivoisement | Voyage, campement, observation longue |
-| **Marchand** | Spécimen apprivoisé prêt à vendre | Présente animal à acheteur ([[Éleveur de créature]], noble, joueur) |
+| **Marchand** | Spécimen apprivoisé prêt à vendre | Présente animal à acheteur ([[Eleveur de créature]], noble, joueur) |
 | **Dialogue** | Échange avec collègue ou client | Bavard sur les bêtes (ENFP), silencieux (INFP/ISFP) |
 | **Crise** | ThreatLevel ≥ 50 | Fuit avec compagnons ; combat défensif si MBTI **F** protège animal |
 | **Festivité** | Festival local | Présente animaux dressés (parade), ENFP brille |
-| **Religieux** | [[Lore/Religions/Vael'Kurash]] / [[Lore/Religions/Foedus Animae]] (pacte animal) | Rituel d'offrande à l'esprit local, bénédiction des bêtes |
+| **Religieux** | [[Vael Kurash]] / [[Lore/Religions/Foedus Animae]] (pacte animal) | Rituel d'offrande à l'esprit local, bénédiction des bêtes |
 | **Deuil** | Mort d'un compagnon animal | Forte affliction (-30 mood 7j), cérémonie de sépulture animale |
 
 Cascade priorité : Crise > Religieux > Itinérant > Marchand > Routine.
@@ -172,7 +172,7 @@ Cascade priorité : Crise > Religieux > Itinérant > Marchand > Routine.
 
 | Nation | Style | MBTI dominant | Spécialité |
 |--------|-------|---------------|------------|
-| **Trinoria** (sylvestre) | Communion forestière, [[Lore/Religions/Vael'Kurash]] | INFP | Apprivoisement loups, cervidés, oiseaux forestiers |
+| **Trinoria** (sylvestre) | Communion forestière, [[Vael Kurash]] | INFP | Apprivoisement loups, cervidés, oiseaux forestiers |
 | **Onara** (plaines) | Cavalier-dresseur, équidés sauvages | ENFP | Chevaux de plaine, faucons |
 | **Cendara** (volcanique) | Apprivoiseur de bêtes ignées | ISFP | Salamandres, créatures de feu |
 | **Aerion** (vents) | Fauconnier des hauteurs, [[Lore/Religions/Via Ventus]] | ENFP | Aviens, montures volantes Phase 4 |
@@ -187,4 +187,4 @@ Cascade priorité : Crise > Religieux > Itinérant > Marchand > Routine.
 
 ---
 
-*Liens : [[Comportements PNJ - Index|← Index]] · [[Routine Quotidienne]] · [[Modes Sociaux]] · [[Concepts Fondamentaux IA PNJ]] · [[Actions Situationnelles]] · [[03 - Mécaniques/Métiers/Exploration/Dresseur|Dresseur (gameplay)]] · [[Dresseur de créature]] (M2 Artisanat) · [[Éleveur de créature]] · [[03 - Mécaniques/Métiers/Exploration/Chasseur de créature|Chasseur de créature]] · [[Apothicaire]] · [[Bestiaire - Index]]*
+*Liens : [[NPC Behaviors/Index|← Index]] · [[Routine Quotidienne]] · [[Modes Sociaux]] · [[Concepts Fondamentaux IA PNJ]] · [[Actions Situationnelles]] · [[03 - Mécaniques/Métiers/Exploration/Dresseur|Dresseur (gameplay)]] · [[Dresseur de créature]] (M2 Artisanat) · [[Eleveur de créature]] · [[03 - Mécaniques/Métiers/Exploration/Chasseur de créature|Chasseur de créature]] · [[Apothicaire]] · [[Bestiary/Index]]*

@@ -148,4 +148,4 @@ needs_review_for: [concepts-fondamentaux, modulation-mbti-forgeron, animations-u
 
 ---
 
-*Liens : [[Comportements PNJ - Index|← Index]] · [[Routine Quotidienne]] · [[Modes Sociaux]] · [[Métiers - Boulanger]] · [[Métiers]] · [[Armes et Maîtrise]] · [[Sources de Ressources]]*
+*Liens : [[NPC Behaviors/Index|← Index]] · [[Routine Quotidienne]] · [[Modes Sociaux]] · [[Boulanger]] · [[Métiers]] · [[Armes et Maîtrise]] · [[Sources de Ressources]]*

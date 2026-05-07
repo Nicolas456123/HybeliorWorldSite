@@ -35,7 +35,7 @@ needs_review_for: [phasage-cooldown, mécanique-perception-temporelle, mapping-T
 
 > Archétype canonique du **spectre temporel cosmique** d'Hybelior. Pattern pour spectres, fantômes, échos d'Ères, créatures de Tempora. Pose le pattern **incorporel** (immunité physique 80%) et **manipulation temporelle légère** distincte de l'élémentaire (qui manipule la matière). Hérite de [[Élémentaire de feu]] (planar/cosmique) mais inverse : **Sapient** (au lieu d'Instinctif) et **Temps** (au lieu de Feu).
 >
-> Voir [[Bestiaire - Index]] · [[Élémentaire de feu]] · [[Cosmologie]]
+> Voir [[Bestiary/Index]] · [[Élémentaire de feu]] · [[Cosmologie]]
 
 ---
 
@@ -251,4 +251,4 @@ Voir §3. HP base 460 (CR 14). **Mana propre** élevée. Vitesse 5 m/s lévitati
 
 ---
 
-*Liens : [[Bestiaire - Index|← Index Bestiaire]] · [[Élémentaire de feu]] · [[Tortue ancestrale]] · [[Tentacule abyssal]] · [[Combat]] · [[Cosmologie]] · [[Le Lien]] · [[Les Ères]]*
+*Liens : [[Bestiary/Index|← Index Bestiaire]] · [[Élémentaire de feu]] · [[Tortue ancestrale]] · [[Tentacule abyssal]] · [[Combat]] · [[Cosmologie]] · [[Le Lien]] · [[Les Ères]]*

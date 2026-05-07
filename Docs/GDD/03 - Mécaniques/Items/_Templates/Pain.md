@@ -22,7 +22,7 @@ needs_review_for: [calibration-buff-stamina-playtest, action-lente-en-combat, pa
 
 ## 1. Vue d'ensemble
 
-Le **pain** est l'aliment fondamental d'Hybelior — produit en quantité par les [[Métiers - Boulanger|boulangers PNJ]] et par les joueurs ayant le métier [[Métiers|Boulanger]] ou [[Métiers|Cuisinier]] (voir [[Crafts]] §Cuisine). Sa fonction gameplay : **buff Stamina prolongé** + **effets secondaires culturels** (résistance, social, rituel).
+Le **pain** est l'aliment fondamental d'Hybelior — produit en quantité par les [[Boulanger|boulangers PNJ]] et par les joueurs ayant le métier [[Métiers|Boulanger]] ou [[Métiers|Cuisinier]] (voir [[Crafts]] §Cuisine). Sa fonction gameplay : **buff Stamina prolongé** + **effets secondaires culturels** (résistance, social, rituel).
 
 **Ancrage gameplay :**
 - Réponse économique de masse (pain = denrée commune, peu chère, partout)
@@ -32,7 +32,7 @@ Le **pain** est l'aliment fondamental d'Hybelior — produit en quantité par le
 
 **Ancrage culturel :** chaque grande nation a son pain. Le pain est porteur d'identité — un Galenorien reconnaît le pain de Galenor, un Cendarien refuse le pain noir d'Alkaran. Voir §8 (signatures pays).
 
-**Cohérence avec [[Métiers - Boulanger]]** : ce fichier détaille les pains référencés dans le stock-type d'un PNJ Boulanger (Pain commun, Pain de campagne, Brioche, Pain noir/aux céréales rares, Pain rituel).
+**Cohérence avec [[Boulanger]]** : ce fichier détaille les pains référencés dans le stock-type d'un PNJ Boulanger (Pain commun, Pain de campagne, Brioche, Pain noir/aux céréales rares, Pain rituel).
 
 ---
 
@@ -173,7 +173,7 @@ Le **pain** est l'aliment fondamental d'Hybelior — produit en quantité par le
 | **Station** | Pétrin + Four à pain |
 | **Intrants** | Farine × 2 ([[Sources de Ressources]] §Fabriqué), Liquide × 1 (Eau), Sel pincée × 1 |
 | **Sortie** | 4× Miche commune |
-| **Durée gameplay** | 60s (en simulation : 4h pour PNJ Boulanger — voir [[Métiers - Boulanger]]) |
+| **Durée gameplay** | 60s (en simulation : 4h pour PNJ Boulanger — voir [[Boulanger]]) |
 | **Mini-jeu** | Dosage simple (1 jauge eau/farine) + timing cuisson (1 jauge thermique) |
 
 ### 6.2 Recette T2 — Pain de campagne (Façonné)
@@ -392,4 +392,4 @@ Le **pain** est l'aliment fondamental d'Hybelior — produit en quantité par le
 
 ---
 
-*Liens : [[Items - Index|← Index Items]] · [[Catégories d'Items]] · [[Types d'Items]] · [[Sources de Ressources]] · [[Crafts]] · [[Métiers]] · [[Métiers - Boulanger]] · [[Combat]] · [[Personnage]] · [[Le Lien]] · [[Mort]] · [[Les Ères]] · [[L'Accord]] · [[Lore/Religions/00 - Système Religieux]] · [[Potion]] (référence consommable liquide)*
+*Liens : [[Items/Index|← Index Items]] · [[Catégories d'Items]] · [[Types d'Items]] · [[Sources de Ressources]] · [[Crafts]] · [[Métiers]] · [[Boulanger]] · [[Combat]] · [[Personnage]] · [[Le Lien]] · [[Mort]] · [[Les Ères]] · [[L'Accord]] · [[Lore/Religions/00 - Système Religieux]] · [[Potion]] (référence consommable liquide)*

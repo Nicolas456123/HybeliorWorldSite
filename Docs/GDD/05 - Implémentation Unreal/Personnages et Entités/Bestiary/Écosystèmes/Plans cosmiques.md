@@ -17,7 +17,7 @@ needs_review_for: [cratères-cardinal-canon, brèches-néant-mécanique, mapping
 
 > Écosystème **non-terrestre**, **non-aquatique** — c'est l'**ailleurs**. Ne désigne pas un lieu fixe sur la carte d'Hybelior mais des **manifestations** : **Brèches du Néant** (jonctions vers le Vide), **Cratères du Cardinal** (sites où le Cardinal a frappé — cf. [[Le Souffle]]), **Failles de Tempora corrompues**, **Zones d'effondrement magique**. Domaine des entités cosmiques pures : [[Spectre des Ères]], [[Tisseur du Vide]], [[Démon mineur]], [[Esprit changeforme]], [[Élémentaire de feu]].
 >
-> Voir [[Bestiaire - Index]] · [[Cosmologie]] · [[Le Souffle]] · [[Spectre des Ères]] · [[Tisseur du Vide]] · [[Démon mineur]] · [[Esprit changeforme]]
+> Voir [[Bestiary/Index]] · [[Cosmologie]] · [[Le Souffle]] · [[Spectre des Ères]] · [[Tisseur du Vide]] · [[Démon mineur]] · [[Esprit changeforme]]
 
 ---
 
@@ -246,4 +246,4 @@ PAS DE DÉCOMPOSEURS classiques :
 
 ---
 
-*Liens : [[Bestiaire - Index]] · [[Spectre des Ères]] · [[Tisseur du Vide]] · [[Démon mineur]] · [[Esprit changeforme]] · [[Élémentaire de feu]] · [[Tentacule abyssal]] · [[Métamorphe]] · [[Cosmologie]] · [[Le Souffle]] · [[Les Ères]] · [[Géographie]] · [[Sources de Ressources]]*
+*Liens : [[Bestiary/Index]] · [[Spectre des Ères]] · [[Tisseur du Vide]] · [[Démon mineur]] · [[Esprit changeforme]] · [[Élémentaire de feu]] · [[Tentacule abyssal]] · [[Métamorphe]] · [[Cosmologie]] · [[Le Souffle]] · [[Les Ères]] · [[Géographie]] · [[Sources de Ressources]]*

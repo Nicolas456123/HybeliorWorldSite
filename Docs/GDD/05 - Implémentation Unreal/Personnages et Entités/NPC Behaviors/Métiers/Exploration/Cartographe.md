@@ -187,4 +187,4 @@ Cascade priorité : Crise > Religieux > Itinérant > Marchand > Routine.
 
 ---
 
-*Liens : [[Comportements PNJ - Index|← Index]] · [[Routine Quotidienne]] · [[Modes Sociaux]] · [[Concepts Fondamentaux IA PNJ]] · [[Actions Situationnelles]] · [[03 - Mécaniques/Métiers/Exploration/Cartographe|Cartographe (gameplay)]] · [[03 - Mécaniques/Métiers/Exploration/Explorateur|Explorateur]] · [[03 - Mécaniques/Métiers/Exploration/Navigateur|Navigateur]] · [[Bibliothécaire]] · [[Astronome]]*
+*Liens : [[NPC Behaviors/Index|← Index]] · [[Routine Quotidienne]] · [[Modes Sociaux]] · [[Concepts Fondamentaux IA PNJ]] · [[Actions Situationnelles]] · [[03 - Mécaniques/Métiers/Exploration/Cartographe|Cartographe (gameplay)]] · [[03 - Mécaniques/Métiers/Exploration/Explorateur|Explorateur]] · [[03 - Mécaniques/Métiers/Exploration/Navigateur|Navigateur]] · [[Bibliothécaire]] · [[Astronome]]*

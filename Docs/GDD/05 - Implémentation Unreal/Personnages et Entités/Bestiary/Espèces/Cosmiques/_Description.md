@@ -36,4 +36,4 @@ last_review: 2026-05-01
 
 ---
 
-*Liens : [[Espèces/_Index|← Espèces]] · [[Bestiaire - Index]] · [[Les Ères]] · [[Cosmologie]]*
+*Liens : [[Espèces/_Index|← Espèces]] · [[Bestiary/Index]] · [[Les Ères]] · [[Cosmologie]]*

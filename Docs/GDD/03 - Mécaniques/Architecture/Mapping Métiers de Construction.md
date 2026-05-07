@@ -241,4 +241,4 @@ Distinct des métiers **constructeurs**, les métiers **occupants** définissent
 
 ---
 
-*Liens : [[Architecture - Index|← Index Architecture]] · [[Catégories de Constructions]] · [[Échelles et Niveaux]] · [[Matériaux de Construction]] · [[Métiers]] · [[Crafts]] · [[Sources de Ressources]] · [[Armes et Maîtrise]]*
+*Liens : [[Architecture/Index|← Index Architecture]] · [[Catégories de Constructions]] · [[Échelles et Niveaux]] · [[Matériaux de Construction]] · [[Métiers]] · [[Crafts]] · [[Sources de Ressources]] · [[Armes et Maîtrise]]*

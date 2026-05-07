@@ -13,7 +13,7 @@ needs_review_for: [calibration-mbti-playtest, distinction-Dépeçeur, mode-Crise
 
 # 🏹 Template PNJ — Chasseur de créature
 
-> Comportement situationnel d'un PNJ Chasseur de créature. Hérite de [[Routine Quotidienne]] et applique [[Actions Situationnelles]]. Métier de **traque/abattage** ; cycle alterné observation-poursuite-mise à mort. Métier joueur : [[03 - Mécaniques/Métiers/Exploration/Chasseur de créature|Chasseur de créature]]. Branche [[Bestiaire - Index|Bestiaire]].
+> Comportement situationnel d'un PNJ Chasseur de créature. Hérite de [[Routine Quotidienne]] et applique [[Actions Situationnelles]]. Métier de **traque/abattage** ; cycle alterné observation-poursuite-mise à mort. Métier joueur : [[03 - Mécaniques/Métiers/Exploration/Chasseur de créature|Chasseur de créature]]. Branche [[Bestiary/Index|Bestiaire]].
 
 ---
 
@@ -25,7 +25,7 @@ Le Chasseur de créature est le **prédateur professionnel** d'Hybelior. Cible :
 - **Position sociale** : aventurier respecté, fournisseur de matières rares (cuir, corne, venin)
 - **Slot Mode Marchand** : vente directe au [[Tanneur]], [[Apothicaire]], [[Boucher]] — ponctuel à chaque retour
 - **Lien chaîne** : amont [[Forgeron]] (munitions, pièges) · aval [[Tanneur]], [[Apothicaire]], [[Boucher]], joueurs aventuriers (fourniture matières)
-- **Karma vert** par défaut — sauf chasse illégale (espèces protégées en territoire [[Lore/Religions/Vael'Kurash]] → Karma gris/rouge)
+- **Karma vert** par défaut — sauf chasse illégale (espèces protégées en territoire [[Vael Kurash]] → Karma gris/rouge)
 
 ---
 
@@ -96,7 +96,7 @@ Modulateurs ([[Concepts Fondamentaux IA PNJ]] §6) :
 | **Dialogue** | Échange technique (autre chasseur, client) | Bref, factuel ; ESTP raconte exploits |
 | **Crise** | **= combat créature actif** | **Performance** — `Combat.Tactical`, exploite faiblesses (Mémoire bestiaire) |
 | **Festivité** | Festival de chasse local | Présente prises rares, parade trophée (ESTP brille) |
-| **Religieux** | [[Lore/Religions/Vael'Kurash]] (ritual avant chasse) ou [[Lore/Religions/Foedus Animae]] (offrande à la prise) | Prière brève, offrande à l'esprit de la bête |
+| **Religieux** | [[Vael Kurash]] (ritual avant chasse) ou [[Lore/Religions/Foedus Animae]] (offrande à la prise) | Prière brève, offrande à l'esprit de la bête |
 | **Deuil** | Animal compagnon tué | -20 mood 5j (moins long que Dresseur — relation fonctionnelle) |
 
 Cascade priorité : Crise (combat créature) > Religieux > Itinérant > Marchand > Routine.
@@ -126,7 +126,7 @@ Cascade priorité : Crise (combat créature) > Religieux > Itinérant > Marchand
   - **ESTP** : audacieux, prend risques, contre-attaque agressive
   - **INTP** : analyse rapide, cible point critique selon Bestiaire mémorisé
 - **Mood** : `Colere +20`, `Peur +5` (faible — c'est leur métier)
-- **Branche [[Bestiaire - Index]]** : utilise faiblesses connues (feu sur loup-garou, argent sur certaines créatures)
+- **Branche [[Bestiary/Index]]** : utilise faiblesses connues (feu sur loup-garou, argent sur certaines créatures)
 
 ### 6.3 Souffle / changement d'Ère
 
@@ -137,7 +137,7 @@ Cascade priorité : Crise (combat créature) > Religieux > Itinérant > Marchand
 
 ### 6.4 Chasse illégale (Karma)
 
-- **Trigger** : tir sur espèce protégée (territoire [[Lore/Religions/Vael'Kurash]])
+- **Trigger** : tir sur espèce protégée (territoire [[Vael Kurash]])
 - **Effets** : -30 Reconnaissance faction Vael'Kurash ; karma gris si vu, rouge si répété
 - **MBTI T** (commun) : peu de remord moral ; rationalise par profit
 
@@ -177,4 +177,4 @@ Cascade priorité : Crise (combat créature) > Religieux > Itinérant > Marchand
 
 ---
 
-*Liens : [[Comportements PNJ - Index|← Index]] · [[Routine Quotidienne]] · [[Modes Sociaux]] · [[Concepts Fondamentaux IA PNJ]] · [[Actions Situationnelles]] · [[03 - Mécaniques/Métiers/Exploration/Chasseur de créature|Chasseur de créature (gameplay)]] · [[Bestiaire - Index]] · [[03 - Mécaniques/Métiers/Exploration/Dresseur|Dresseur]] · [[Tanneur]] · [[Apothicaire]] · [[Boucher]] · [[03 - Mécaniques/Métiers/Exploration/Chasseur de trésors|Chasseur de trésors]] · [[03 - Mécaniques/Métiers/Exploration/Chasseur de primes|Chasseur de primes]]*
+*Liens : [[NPC Behaviors/Index|← Index]] · [[Routine Quotidienne]] · [[Modes Sociaux]] · [[Concepts Fondamentaux IA PNJ]] · [[Actions Situationnelles]] · [[03 - Mécaniques/Métiers/Exploration/Chasseur de créature|Chasseur de créature (gameplay)]] · [[Bestiary/Index]] · [[03 - Mécaniques/Métiers/Exploration/Dresseur|Dresseur]] · [[Tanneur]] · [[Apothicaire]] · [[Boucher]] · [[03 - Mécaniques/Métiers/Exploration/Chasseur de trésors|Chasseur de trésors]] · [[03 - Mécaniques/Métiers/Exploration/Chasseur de primes|Chasseur de primes]]*

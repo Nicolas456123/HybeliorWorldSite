@@ -58,7 +58,7 @@ Hybelior **rejette le modèle WoW** où Cuir < Mailles < Plate dans une hiérarc
 |---|---|
 | **Profil joueur cible** | Mage / Lié — pratiquant de [[Le Lien]], focus magique pur |
 | **Matériaux primaires** | [[Sources de Ressources#Source 3 — Fabrication|Tissu]] (laine plante / laine creature / soie) + [[Sources de Ressources#Source 3 — Fabrication|Pigment]] + [[Sources de Ressources#Source 3 — Fabrication|Fil métallique]] (broderie) + [[Cristal de Voie]] (cousu) |
-| **Métiers principaux** | [[Métiers - Tisserand|Tisserand]] · [[Métiers - Couturier|Couturier]] · [[Métiers - Brodeur|Brodeur]] · [[Métiers - Enchanteur|Enchanteur]] (post-craft) |
+| **Métiers principaux** | [[Tisserand|Tisserand]] · [[Métiers - Couturier|Couturier]] · [[Métiers - Brodeur|Brodeur]] · [[Enchanteur|Enchanteur]] (post-craft) |
 | **Stats brutes mises en valeur** | **Esprit** (+puissance Voie), **Résonance** (+intensité), **Mémoire** (+identification, +qualité enchantements) |
 | **Bonus magiques natifs** | +Mana max · +Régen Mana · −Coût mana (selon tier) · Conduit magique amplifié |
 | **Trade-offs** | **+30 % Mana max** ; **−60 % Défense physique** vs Plate équivalente ; pas de pénalité de mouvement ; **+5-10 % bonus Stamina** (légèreté) |
@@ -74,7 +74,7 @@ Hybelior **rejette le modèle WoW** où Cuir < Mailles < Plate dans une hiérarc
 |---|---|
 | **Profil joueur cible** | Éclaireur / Voleur / Archer / Assassin — agilité + furtivité |
 | **Matériaux primaires** | [[Sources de Ressources#Source 2 — Récolte sur créature|Cuir]] tanné · Peau · Fourrure (selon biome) · Boucles métalliques · Fil de cuir |
-| **Métiers principaux** | [[Métiers - Tanneur|Tanneur]] · [[Métiers - Maroquinier|Maroquinier]] · [[Métiers - Sellier|Sellier]] |
+| **Métiers principaux** | [[Tanneur|Tanneur]] · [[Métiers - Maroquinier|Maroquinier]] · [[Métiers - Sellier|Sellier]] |
 | **Stats brutes mises en valeur** | **Vivacité** (+esquive, +vitesse attaque), **Acuité** (+critique, +détection), **Endurance** (Stamina prolongée) |
 | **Bonus natifs** | +Vitesse mouvement · +Stamina max · −Bruit de pas · Bonus à l'esquive |
 | **Trade-offs** | **Pas de pénalité mouvement** ; **+15 % IFrames esquive** ; **−40 % Défense physique** vs Plate ; faible défense magique |
@@ -87,7 +87,7 @@ Hybelior **rejette le modèle WoW** où Cuir < Mailles < Plate dans une hiérarc
 |---|---|
 | **Profil joueur cible** | Soldat / Combattant polyvalent / Guerrier-mage hybride |
 | **Matériaux primaires** | [[Sources de Ressources#Source 3 — Fabrication|Fil métallique]] tressé en anneaux · [[Sources de Ressources#Source 3 — Fabrication|Lingot]] (renforts) · Cuir tanné (sangles) |
-| **Métiers principaux** | [[Métiers - Forgeron|Forgeron]] · [[Métiers - Métallurgiste|Métallurgiste]] · [[Métiers - Armurier|Armurier]] |
+| **Métiers principaux** | [[Forgeron|Forgeron]] · [[Métiers - Métallurgiste|Métallurgiste]] · [[Métiers - Armurier|Armurier]] |
 | **Stats brutes mises en valeur** | **Vigueur** (+HP, +défense), **Endurance** (+Stamina, +parade tenue) |
 | **Bonus natifs** | +HP · +Défense physique · Résistance correcte aux trois types (tranchant/perforant/contondant) |
 | **Trade-offs** | **Équilibre central** ; pénalité mouvement légère (−5 %) ; pas de bonus mana mais pas d'antagonisme magique fort |
@@ -100,7 +100,7 @@ Hybelior **rejette le modèle WoW** où Cuir < Mailles < Plate dans une hiérarc
 |---|---|
 | **Profil joueur cible** | Tank / Chevalier / Encaisseur de boss |
 | **Matériaux primaires** | [[Sources de Ressources#Source 3 — Fabrication|Lingot]] (acier, mithril, etc.) · [[Sources de Ressources#Source 3 — Fabrication|Alliage]] · Cuir tanné (sangles internes) · Pigment (heraldique) |
-| **Métiers principaux** | [[Métiers - Forgeron|Forgeron]] · [[Métiers - Armurier|Armurier]] · [[Métiers - Métallurgiste|Métallurgiste]] |
+| **Métiers principaux** | [[Forgeron|Forgeron]] · [[Métiers - Armurier|Armurier]] · [[Métiers - Métallurgiste|Métallurgiste]] |
 | **Stats brutes mises en valeur** | **Vigueur** (+HP, +défense, +stagger résistance) |
 | **Bonus natifs** | +Défense physique max · +Résistance stagger · +Capacité de port · −Dégâts critiques reçus |
 | **Trade-offs** | **+100 % Défense physique** vs Cuir équivalent ; **−15 à −20 % vitesse mouvement** ; **−10 à −20 % Stamina max** (lourdeur) ; régen Stamina réduite ; **−25 % efficacité Voie** (interférence métallique forte) |
@@ -113,7 +113,7 @@ Hybelior **rejette le modèle WoW** où Cuir < Mailles < Plate dans une hiérarc
 |---|---|
 | **Profil joueur cible** | Build atypique · Endgame · Récompense post-Souffle · Set boss-loot |
 | **Matériaux primaires** | [[Sources de Ressources#Source 2 — Récolte sur créature|Écaille]] · [[Sources de Ressources#Source 2 — Récolte sur créature|Carapace]] · [[Sources de Ressources#Source 2 — Récolte sur créature|Os]] · [[Sources de Ressources#Source 2 — Récolte sur créature|Essence spirituelle]] · Biométal (rare) · Cristaux énergétiques |
-| **Métiers principaux** | [[Métiers - Joaillier|Joaillier]] · [[Métiers - Lapidaire|Lapidaire]] · [[Métiers - Enchanteur|Enchanteur]] · [[Métiers - Sertisseur|Sertisseur]] (et combinaison de 2-3 métiers selon recette) |
+| **Métiers principaux** | [[Métiers - Joaillier|Joaillier]] · [[Lapidaire|Lapidaire]] · [[Enchanteur|Enchanteur]] · [[Métiers - Sertisseur|Sertisseur]] (et combinaison de 2-3 métiers selon recette) |
 | **Stats brutes mises en valeur** | **Variable selon matériau** — Écaille de dragon = Vigueur, Carapace insectoïde = Endurance, Os de cosmique = Esprit/Résonance, Biométal = Acuité |
 | **Bonus natifs** | **Affixe créature unique** systématique (résistance élémentaire, regen rare, proc spécial lié à la créature source) |
 | **Trade-offs** | Stats brutes **comparables au Tier équivalent** mais **+1 affixe rare garanti** ; matériaux extrêmement rares (drop boss, événement post-Souffle, condition cachée 🔒) |
@@ -329,7 +329,7 @@ Tissu T3 même attaque (Défense phys 67) → `14 × (1 − 67/167) = 14 × 0.59
 
 | Champ | Valeur |
 |---|---|
-| **Métier** | [[Métiers - Tisserand|Tisserand]] (principal) + [[Métiers - Brodeur|Brodeur]] (finition) |
+| **Métier** | [[Tisserand|Tisserand]] (principal) + [[Métiers - Brodeur|Brodeur]] (finition) |
 | **Station** | Métier à tisser + Atelier de couture |
 | **Intrants** | 4× [[Sources de Ressources#Source 3 — Fabrication\|Tissu]] (laine plante T2+) · 2× [[Sources de Ressources#Source 3 — Fabrication\|Pigment]] (couleur signature) · 1× [[Cristal de Voie]] (cousu en focus) · 6× [[Sources de Ressources#Source 3 — Fabrication\|Fil métallique]] (broderie protectrice) |
 | **Palier de Maîtrise requis** | Adepte (palier 3) |
@@ -342,7 +342,7 @@ Tissu T3 même attaque (Défense phys 67) → `14 × (1 − 67/167) = 14 × 0.59
 
 | Champ | Valeur |
 |---|---|
-| **Métier** | [[Métiers - Tanneur|Tanneur]] (cuir tanné) → [[Métiers - Maroquinier|Maroquinier]] (assemblage) |
+| **Métier** | [[Tanneur|Tanneur]] (cuir tanné) → [[Métiers - Maroquinier|Maroquinier]] (assemblage) |
 | **Station** | Cuve de tannage (préparation) → Établi cuir |
 | **Intrants** | 6× [[Sources de Ressources#Source 2 — Récolte sur créature\|Cuir]] tanné T2+ · 2× [[Sources de Ressources#Source 3 — Fabrication\|Fil métallique]] (renforts internes) · 1× Boucle de fer · 2× [[Sources de Ressources#Source 3 — Fabrication\|Pigment]] (camouflage biome) |
 | **Palier de Maîtrise requis** | Adepte |
@@ -355,7 +355,7 @@ Tissu T3 même attaque (Défense phys 67) → `14 × (1 − 67/167) = 14 × 0.59
 
 | Champ | Valeur |
 |---|---|
-| **Métier** | [[Métiers - Forgeron|Forgeron]] / [[Métiers - Métallurgiste|Métallurgiste]] |
+| **Métier** | [[Forgeron|Forgeron]] / [[Métiers - Métallurgiste|Métallurgiste]] |
 | **Station** | Forge à charbon + Étau (anneaux) |
 | **Intrants** | 8× [[Sources de Ressources#Source 3 — Fabrication\|Fil métallique]] (anneaux) · 2× [[Sources de Ressources#Source 3 — Fabrication\|Lingot]] (renforts plaques) · 1× [[Sources de Ressources#Source 2 — Récolte sur créature\|Cuir]] tanné (sangles) · 1× Charbon |
 | **Palier de Maîtrise requis** | Adepte |
@@ -368,7 +368,7 @@ Tissu T3 même attaque (Défense phys 67) → `14 × (1 − 67/167) = 14 × 0.59
 
 | Champ | Valeur |
 |---|---|
-| **Métier** | [[Métiers - Forgeron|Forgeron]] (martelage) + [[Métiers - Armurier|Armurier]] (assemblage) |
+| **Métier** | [[Forgeron|Forgeron]] (martelage) + [[Métiers - Armurier|Armurier]] (assemblage) |
 | **Station** | Forge à charbon → Enclume → Bac à trempe → Établi armurier |
 | **Intrants** | 6× [[Sources de Ressources#Source 3 — Fabrication\|Lingot]] (acier ou supérieur) · 2× [[Sources de Ressources#Source 3 — Fabrication\|Alliage]] (renforts critiques) · 1× [[Sources de Ressources#Source 2 — Récolte sur créature\|Cuir]] tanné (sangles internes) · 4× Charbon · 1× Eau de trempe |
 | **Palier de Maîtrise requis** | **Expert** (palier 4) — Plate exigeant techniquement |
@@ -438,21 +438,21 @@ Tissu T3 même attaque (Défense phys 67) → `14 × (1 − 67/167) = 14 × 0.59
 - **Plastron de la Sentinelle d'Astravia** (Mailles T5) — *« Forgé pour les gardes de la Tour-Mère ; chaque anneau porte un mot d'oraison. »* Bonus narratif : aggro forcé sur le porteur dans 10 m (les ennemis le reconnaissent comme menace prioritaire).
 - **Cuirasse du Premier Veilleur** (Plate T6 Mythique) — *« Portée par le héros qui tint la passe pendant l'Arrachement. Inscriptions illisibles depuis 250 ans. »* Affixe signature : +30 % défense magique (jusque-là une Plate ne dépasse jamais 36 mag — celle-ci atteint ~47).
 
-### Galenor (continent — voir [[Galenor]])
+### Galenor (continent — voir [[Galenor - Continent|Galenor]])
 
 - **Voile de la Veuve de Galenor** (Tissu T5 Doré) — *« La Veuve traversa la Brume Mortelle vêtue de blanc et en sortit indemne. Le voile a gardé sa lumière. »* Affixe : immunité totale aux dégâts Ombre 5 s par combat.
 - **Tunique du Maître-Fauconnier** (Cuir T4) — *« Bordée des plumes du dernier Aigle d'Or. »* Bonus : monture aviaire +20 % vitesse · familier (si Voie de Spiritus) +1 niveau effectif.
 
-### Cendara (continent — voir [[Cendara]])
+### Cendara (continent — voir [[Cendara - Continent|Cendara]])
 
 - **Carapace de l'Insecte-Roi** (Spécial-Exotique T6) — *« Récoltée sur la dépouille du Roi-Larve qui terrorisait Cendara depuis trois ères. »* Affixe signature : régen 5 HP/s constants · vulnérabilité +20 % aux dégâts Feu.
 - **Plastron de la Légion Cendrée** (Mailles T4) — *« Les soldats qui marchèrent sur les volcans portaient ces mailles. Elles ont fondu sept fois. »* Affixe : +25 % résistance Feu · proc immunité brûlure 3 s.
 
-### Onara (continent — voir [[Onara]])
+### Onara (continent — voir [[Onara - Continent|Onara]])
 
 - **Robe du Premier Lié à Aquor** (Tissu T6 Frost) — *« Tissée de fil de glace pérenne. La porter, c'est respirer sous l'eau. »* Affixe signature : respiration aquatique + nage +50 %.
 
-### Ilthara (continent — voir [[Ilthara]])
+### Ilthara (continent — voir [[Ilthara - Continent|Ilthara]])
 
 - **Tunique d'Ombre du Marcheur** (Cuir T5 Shadow) — *« Les chamans des steppes savent rendre le cuir invisible. Personne ne sait comment. »* Affixe : invisibilité 3 s lors du sprint (cooldown 60 s).
 
@@ -607,4 +607,4 @@ Indépendamment de la décision set : certaines synergies **émergentes** existe
 
 ---
 
-*Liens : [[Items - Index|← Index Items]] · [[Catégories d'Items]] · [[Types d'Items]] · [[Crafts]] · [[Sources de Ressources]] · [[Personnage]] · [[Combat]] · [[Le Lien]] · [[Le Souffle]] · [[Les Ères]] · [[Architecture Data-Driven]]*
+*Liens : [[Items/Index|← Index Items]] · [[Catégories d'Items]] · [[Types d'Items]] · [[Crafts]] · [[Sources de Ressources]] · [[Personnage]] · [[Combat]] · [[Le Lien]] · [[Le Souffle]] · [[Les Ères]] · [[Architecture Data-Driven]]*

@@ -123,7 +123,7 @@ Le Mage est défini par **sa Voie active** — c'est l'axe identitaire central d
 - **Anneau runique** — bonus passif sur Voie ([[Anneau]] §5)
 - **Bandeau frontal** — focus discret, +Mémoire, −10% temps incantation
 
-→ Référence [[Tome]], [[Anneau]], [[Items - Index]] §Focus magiques.
+→ Référence [[Tome]], [[Anneau]], [[Items/Index]] §Focus magiques.
 
 ---
 

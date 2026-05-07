@@ -196,4 +196,4 @@ Cascade priorité : Crise (combat) > Itinérant > Routine.
 
 ---
 
-*Liens : [[Comportements PNJ - Index|← Index]] · [[Routine Quotidienne]] · [[Modes Sociaux]] · [[Concepts Fondamentaux IA PNJ]] · [[Actions Situationnelles]] · [[03 - Mécaniques/Métiers/Exploration/Mercenaire|Mercenaire (gameplay)]] · [[03 - Mécaniques/Métiers/Sécurité/Soldat|Soldat]] · [[03 - Mécaniques/Métiers/Sécurité/Chevalier|Chevalier]] · [[03 - Mécaniques/Métiers/Sécurité/Garde|Garde]] · [[03 - Mécaniques/Métiers/Exploration/Chasseur de primes|Chasseur de primes]] · [[03 - Mécaniques/Métiers/Sécurité/Espion|Espion]] · [[PvP]]*
+*Liens : [[NPC Behaviors/Index|← Index]] · [[Routine Quotidienne]] · [[Modes Sociaux]] · [[Concepts Fondamentaux IA PNJ]] · [[Actions Situationnelles]] · [[03 - Mécaniques/Métiers/Exploration/Mercenaire|Mercenaire (gameplay)]] · [[03 - Mécaniques/Métiers/Sécurité/Soldat|Soldat]] · [[03 - Mécaniques/Métiers/Sécurité/Chevalier|Chevalier]] · [[03 - Mécaniques/Métiers/Sécurité/Garde|Garde]] · [[03 - Mécaniques/Métiers/Exploration/Chasseur de primes|Chasseur de primes]] · [[03 - Mécaniques/Métiers/Sécurité/Espion|Espion]] · [[PvP]]*

@@ -145,4 +145,4 @@ L'**Œil** est un **organe optique** porteur de **mémoire visuelle** dans sa r�
 
 ---
 
-*Liens : [[Sources de Ressources]] · [[Crafts]] · [[Cœur de creature]] · [[Sang]] · [[Aigle royal]] · [[Spectre des Ères]] · [[Tentacule abyssal]] · [[Bestiaire - Index]]*
+*Liens : [[Sources de Ressources]] · [[Crafts]] · [[Cœur de creature]] · [[Sang]] · [[Aigle royal]] · [[Spectre des Ères]] · [[Tentacule abyssal]] · [[Bestiary/Index]]*

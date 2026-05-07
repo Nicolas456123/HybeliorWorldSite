@@ -292,4 +292,4 @@ Cascade priorité Prêtre : **Religieux (sabbat strict) > Crise (sauf défense l
 
 ---
 
-*Liens : [[Comportements PNJ - Index|← Index]] · [[Routine Quotidienne]] · [[Modes Sociaux]] · [[Concepts Fondamentaux IA PNJ]] · [[Actions Situationnelles]] · [[03 - Mécaniques/Métiers/Mysticisme/Prêtre|Prêtre (archétype joueur)]] · [[Lore/Religions/00 - Système Religieux|Système Religieux]] · [[Prédiction]] · [[Cosmologie]] · [[Le Souffle]] · [[Les Ères]]*
+*Liens : [[NPC Behaviors/Index|← Index]] · [[Routine Quotidienne]] · [[Modes Sociaux]] · [[Concepts Fondamentaux IA PNJ]] · [[Actions Situationnelles]] · [[03 - Mécaniques/Métiers/Mysticisme/Prêtre|Prêtre (archétype joueur)]] · [[Lore/Religions/00 - Système Religieux|Système Religieux]] · [[Prédiction]] · [[Cosmologie]] · [[Le Souffle]] · [[Les Ères]]*

@@ -254,4 +254,4 @@ trigger:
 
 ---
 
-*Liens : [[Comportements PNJ - Index]] · [[Routine Quotidienne]] · [[Modes Sociaux]] · [[Actions Situationnelles]] · [[Concepts Fondamentaux IA PNJ]] · [[03 - Mécaniques/Métiers/Agriculture et Élevage/Bûcheron|Bûcheron (gameplay)]] · [[Menuisier]] · [[Architecte]] · [[Forgeron]] · [[Botaniste]] · [[Rota Mundi]] · [[Le Lien]]*
+*Liens : [[NPC Behaviors/Index]] · [[Routine Quotidienne]] · [[Modes Sociaux]] · [[Actions Situationnelles]] · [[Concepts Fondamentaux IA PNJ]] · [[03 - Mécaniques/Métiers/Agriculture et Élevage/Bûcheron|Bûcheron (gameplay)]] · [[Menuisier]] · [[Architecte]] · [[Forgeron]] · [[Botaniste]] · [[Rota Mundi]] · [[Le Lien]]*

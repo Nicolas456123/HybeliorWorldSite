@@ -372,4 +372,4 @@ Un non-Lié peut **porter** un Cristal de Voie en signature (esthétique, +5% ch
 
 ---
 
-*Liens : [[Items - Index|← Index Items]] · [[Catégories d'Items]] · [[Tome]] · [[Orbe]] · [[Talisman]] · [[Anneau]] · [[Le Lien]] · [[Économie]] · [[Sources de Ressources]]*
+*Liens : [[Items/Index|← Index Items]] · [[Catégories d'Items]] · [[Tome]] · [[Orbe]] · [[Talisman]] · [[Anneau]] · [[Le Lien]] · [[Économie]] · [[Sources de Ressources]]*

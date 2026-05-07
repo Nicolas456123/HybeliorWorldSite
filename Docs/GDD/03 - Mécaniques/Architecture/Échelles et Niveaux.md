@@ -255,4 +255,4 @@ Les **Traces** [[Traces des Ères]] §Architecturales sont l'inverse — certain
 
 ---
 
-*Liens : [[Architecture - Index|← Index Architecture]] · [[Catégories de Constructions]] · [[Matériaux de Construction]] · [[Mapping Métiers de Construction]] · [[Économie]] · [[Le Souffle]] · [[Les Ères]] · [[Traces des Ères]] · [[AccessExport/TailleVille.csv]] · [[Concepts Fondamentaux IA PNJ]]*
+*Liens : [[Architecture/Index|← Index Architecture]] · [[Catégories de Constructions]] · [[Matériaux de Construction]] · [[Mapping Métiers de Construction]] · [[Économie]] · [[Le Souffle]] · [[Les Ères]] · [[Traces des Ères]] · [[AccessExport/TailleVille.csv]] · [[Concepts Fondamentaux IA PNJ]]*

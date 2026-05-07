@@ -71,15 +71,9 @@ Cette voie demande des pèlerinages. On ne lit pas le temps depuis sa chambre �
 
 ## Les signes du monde
 
-Avant tout discours, avant toute lunette, avant toute carte tirée, il y a les **signes**. Ils ne sont la propriété d'aucune discipline. Ils sont la rumeur du monde lui-même, et tous ceux qui vivent à Hybelior peuvent, à leur manière, les sentir.
+Avant tout discours, avant toute lunette, avant toute carte tirée, il y a les **signes** — cette rumeur du monde que [[Le Souffle]] §"Vivre un Souffle" décrit comme la phénoménologie même d'un Souffle qui s'annonce. Les signes faibles d'abord (un rêve, une migration à contre-saison, une étoile qui semble trembler), puis les signes forts qui suspendent toute la communauté dans l'attente. Ils ne sont la propriété d'aucune discipline ; ils sont ce que tout prédicteur apprend à *traduire* dans la grammaire de son art.
 
-Les premiers signes — les **signes faibles** — passent presque inaperçus. Un PNJ croisé sur une route raconte un rêve qu'il ne comprend pas. Un chasseur remarque que les troupeaux migrent à contre-saison, alors qu'aucun hiver n'a poussé. Un astronome de routine, en relevant ses constellations habituelles, croit voir une étoile **trembler** — pas longtemps, juste assez pour douter de ses yeux, et puis tout reprend l'air d'être en place. Une floraison de jasmin pâle ouvre ses fleurs trois semaines avant la saison normale. Un soir, dans une forêt qu'on traverse souvent, le silence devient soudain trop épais — comme si les prédateurs avaient cessé de chasser ensemble.
-
-Aucun de ces signes ne crie *Souffle*. Ils chuchotent seulement *quelque chose se prépare*. Ceux qui savent les lire — et c'est tout l'art du prédicteur — commencent à se tendre. Les autres passent à côté, et c'est très bien ainsi : un monde où chacun verrait tous les signes serait un monde où plus personne n'écouterait.
-
-Puis, plus tard — bien plus tard parfois, ou très vite — viennent les **signes forts**. Là, il n'est plus question de doute. Un événement traverse le ciel et tout le continent l'a vu. Les oracles parlent ouvertement, sortent de leurs retraites, publient leurs lectures sans plus se cacher. La Bourse des Augures s'agite, les guildes organisent des veillées, les temples allument leurs feux d'attente. Le monde tout entier suspend son geste habituel et se met à **attendre**.
-
-Cette phase de suspension est l'un des moments les plus intenses qu'Hybelior offre à ses joueurs. Quelque chose va arriver. On ne sait pas exactement quoi, on ne sait pas exactement quand — mais on sait que c'est imminent, et cette certitude partagée transforme la communauté entière. Pour le détail mécanique de ces phases — comment les signes émergent, comment le Souffle s'ensuit — voir [[Le Souffle]] §"Vivre un Souffle".
+Cette phase de suspension est l'un des moments les plus intenses qu'Hybelior offre à ses joueurs. Quelque chose va arriver. On ne sait pas exactement quoi, on ne sait pas exactement quand — mais on sait que c'est imminent, et cette certitude partagée transforme la communauté entière en un seul corps tendu vers ce qui vient.
 
 > *« Tout le monde vit la même chose : ce moment où l'on sait que ça vient sans savoir quand. C'est dans cette attente partagée que la communauté redevient une communauté. Le reste du temps, on est juste des gens qui jouent ensemble. »*
 >

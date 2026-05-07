@@ -125,4 +125,4 @@ Marqueur lore : pays riches en gemmes (Evertia avec son sous-sol, Galenor avec V
 
 ---
 
-*Liens : [[Items - Index|← Index Items]] · [[Catégories d'Items]] · [[Sources de Ressources]] · [[Crafts]] · [[Métiers]] · [[Les Ères]] · [[Minerai]] · [[Pierre]] · [[Cristal de Voie]] · [[Anneau]] · [[Amulette]]*
+*Liens : [[Items/Index|← Index Items]] · [[Catégories d'Items]] · [[Sources de Ressources]] · [[Crafts]] · [[Métiers]] · [[Les Ères]] · [[Minerai]] · [[Pierre]] · [[Cristal de Voie]] · [[Anneau]] · [[Amulette]]*

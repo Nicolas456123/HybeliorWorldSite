@@ -64,6 +64,6 @@ mini_jeu: chaîne complète + condition cachée 🔒 (forger pendant nuit étoil
 > *« Le ciel tombe une fois par siècle ; un loup chante une fois par vie ; cette lame retient les deux. »*
 > — Inscription rituelle de la lignée Vorshyn
 
-L'arme **résonne** quand un loup-créature meurt à moins de 100m — court bonus narratif et +5% dégâts pendant 60s. Voir [[Bestiaire - Index]] (Phase 4) pour les liens créatures.
+L'arme **résonne** quand un loup-créature meurt à moins de 100m — court bonus narratif et +5% dégâts pendant 60s. Voir [[Bestiary/Index]] (Phase 4) pour les liens créatures.
 
 *Liens : [[_Description|Épée à une main]] · [[../../../Ressources/Fabriqué/Alliages/Bliysium]] · [[L'Accord]] · [[Les Ères]]*

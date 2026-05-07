@@ -136,4 +136,4 @@ Toutes partagent la propriété **pointe pénétrante** : utilisable comme **arm
 
 ---
 
-*Liens : [[Sources de Ressources]] · [[Crafts]] · [[Os]] · [[Patte]] · [[Dague]] · [[Flèche]] · [[Loup forestier]] · [[Ours brun]] · [[Aigle royal]] · [[Bestiaire - Index]]*
+*Liens : [[Sources de Ressources]] · [[Crafts]] · [[Os]] · [[Patte]] · [[Dague]] · [[Flèche]] · [[Loup forestier]] · [[Ours brun]] · [[Aigle royal]] · [[Bestiary/Index]]*

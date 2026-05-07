@@ -99,7 +99,7 @@ Le **Tavernier** est le **maître du soir** d'Hybelior — vendeur de **boissons
 | **Novice** | Bière commune · Hydromel basique · Ragoût rural · Pain et fromage · Vin de table |
 | **Initié** | Bière artisanale · Eau-de-vie · Brochettes · Soupe d'ail · Cidre · Soirée musicale simple |
 | **Adepte** | Bière régionale signée · Vin millésimé · Plats de gibier · Soirée concert ([[Barde]] notable) · Réseau d'informateurs |
-| **Expert** | Cuvée d'ère ([[Les Ères|Verdoiement]] = miellée riche) · Spiritueux rares ([[Cendara]]) · Banquet privé · Soirée diplomatique |
+| **Expert** | Cuvée d'ère ([[Les Ères|Verdoiement]] = miellée riche) · Spiritueux rares ([[Cendara - Continent|Cendara]]) · Banquet privé · Soirée diplomatique |
 | **Maître** | Cuvée signée Concordant · Recette signature unique · Festival privé (mariage / négociation de paix) · Accueil cosmique |
 
 ---

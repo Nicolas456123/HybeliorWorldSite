@@ -102,7 +102,7 @@ L'anneau **complète** l'armure et l'amulette : il n'est jamais le porteur de l'
 
 ### Rouille post-Souffle
 
-Conformément à [[Le Souffle]] et [[Items - Index]], les anneaux **Magistral, Légendaire et Mythique** subissent une perte de stats temporaire d'environ **−10% sur 2 semaines** post-Souffle. Les anneaux Commun à Œuvré sont insensibles.
+Conformément à [[Le Souffle]] et [[Items/Index]], les anneaux **Magistral, Légendaire et Mythique** subissent une perte de stats temporaire d'environ **−10% sur 2 semaines** post-Souffle. Les anneaux Commun à Œuvré sont insensibles.
 
 ---
 
@@ -387,4 +387,4 @@ Un Enchanteur Expert+ peut **dissoudre** un affixe d'un anneau pour récupérer 
 
 ---
 
-*Liens : [[Items - Index|← Index Items]] · [[Catégories d'Items]] · [[Crafts]] · [[Le Lien]] · [[Personnage]] · [[Économie]] · [[Tome]]*
+*Liens : [[Items/Index|← Index Items]] · [[Catégories d'Items]] · [[Crafts]] · [[Le Lien]] · [[Personnage]] · [[Économie]] · [[Tome]]*

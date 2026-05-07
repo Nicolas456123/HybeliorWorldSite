@@ -35,7 +35,7 @@ needs_review_for: [pacte-démoniaque-Phase4, voie-infernale-canonique]
 
 > Archétype canonique du **bipède malveillant planaire** d'Hybelior. Pattern pour démons mineurs, diables, esprits infernaux humanoïdes. Hérite de [[Élémentaire de feu]] (planar/Feu) mais inverse : **Bipède** + **Sapient** + **élément moral** (tentateur). Pose le pattern **Pacte démoniaque** — différent du Pacte de Feu (Élémentaire = neutre énergétique, Démon = volonté hostile).
 >
-> Voir [[Bestiaire - Index]] · [[Élémentaire de feu]] · [[Spectre des Ères]]
+> Voir [[Bestiary/Index]] · [[Élémentaire de feu]] · [[Spectre des Ères]]
 
 ---
 
@@ -253,4 +253,4 @@ Voir §3. HP base 380 (CR 10). **Mana** propre. Stamina haute. Vitesse 8 m/s, 5 
 
 ---
 
-*Liens : [[Bestiaire - Index|← Index Bestiaire]] · [[Élémentaire de feu]] · [[Spectre des Ères]] · [[Combat]] · [[Cosmologie]] · [[Le Lien]] · [[Les Ères]] · [[L'Accord]]*
+*Liens : [[Bestiary/Index|← Index Bestiaire]] · [[Élémentaire de feu]] · [[Spectre des Ères]] · [[Combat]] · [[Cosmologie]] · [[Le Lien]] · [[Les Ères]] · [[L'Accord]]*

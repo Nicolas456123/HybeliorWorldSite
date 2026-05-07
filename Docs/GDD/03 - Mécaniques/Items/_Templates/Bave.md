@@ -139,4 +139,4 @@ Usages canoniques :
 
 ---
 
-*Liens : [[Sources de Ressources]] · [[Crafts]] · [[Sécrétion]] · [[Venin]] · [[Sang]] · [[Slime amorphe]] · [[Dragon nain]] · [[Tentacule abyssal]] · [[Bestiaire - Index]]*
+*Liens : [[Sources de Ressources]] · [[Crafts]] · [[Sécrétion]] · [[Venin]] · [[Sang]] · [[Slime amorphe]] · [[Dragon nain]] · [[Tentacule abyssal]] · [[Bestiary/Index]]*

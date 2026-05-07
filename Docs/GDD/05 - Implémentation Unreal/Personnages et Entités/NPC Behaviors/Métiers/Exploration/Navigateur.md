@@ -208,4 +208,4 @@ Cascade priorité : Crise (tempête/récif/pirates) > Religieux (rituel céleste
 
 ---
 
-*Liens : [[Comportements PNJ - Index|← Index]] · [[Routine Quotidienne]] · [[Modes Sociaux]] · [[Concepts Fondamentaux IA PNJ]] · [[Actions Situationnelles]] · [[03 - Mécaniques/Métiers/Exploration/Navigateur|Navigateur (gameplay)]] · [[Astronome]] · [[03 - Mécaniques/Métiers/Exploration/Cartographe|Cartographe]] · [[03 - Mécaniques/Métiers/Exploration/Explorateur|Explorateur]] · [[Marchand]] · [[Charpentier]] · [[Verrier]]*
+*Liens : [[NPC Behaviors/Index|← Index]] · [[Routine Quotidienne]] · [[Modes Sociaux]] · [[Concepts Fondamentaux IA PNJ]] · [[Actions Situationnelles]] · [[03 - Mécaniques/Métiers/Exploration/Navigateur|Navigateur (gameplay)]] · [[Astronome]] · [[03 - Mécaniques/Métiers/Exploration/Cartographe|Cartographe]] · [[03 - Mécaniques/Métiers/Exploration/Explorateur|Explorateur]] · [[Marchand]] · [[Charpentier]] · [[Verrier]]*

@@ -118,4 +118,4 @@ Pattern unique : la récolte **profonde** demande **équipement de plongée** (o
 
 ---
 
-*Liens : [[Items - Index|← Index Items]] · [[Catégories d'Items]] · [[Sources de Ressources]] · [[Crafts]] · [[Métiers]] · [[Les Ères]] · [[Coquille]] · [[Liquide]] · [[Pigment]] · [[Le Lien]]*
+*Liens : [[Items/Index|← Index Items]] · [[Catégories d'Items]] · [[Sources de Ressources]] · [[Crafts]] · [[Métiers]] · [[Les Ères]] · [[Coquille]] · [[Liquide]] · [[Pigment]] · [[Le Lien]]*

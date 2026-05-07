@@ -160,4 +160,4 @@ sortie: Fil de Bliysium × 7 m (T4) — préserve résonance Voie pour broderie 
 
 ---
 
-*Liens : [[Items - Index|← Index Items]] · [[Lingot]] · [[Alliage]] · [[Sources de Ressources]] · [[Crafts]] · [[Métiers]] · [[Anneau]] · [[Tissu]]*
+*Liens : [[Items/Index|← Index Items]] · [[Lingot]] · [[Alliage]] · [[Sources de Ressources]] · [[Crafts]] · [[Métiers]] · [[Anneau]] · [[Tissu]]*

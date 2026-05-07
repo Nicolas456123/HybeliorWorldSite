@@ -400,4 +400,4 @@ Un Enchanteur Expert+ peut **effacer** un sort d'un Tome (rite de purgation, con
 
 ---
 
-*Liens : [[Items - Index|← Index Items]] · [[Catégories d'Items]] · [[Crafts]] · [[Le Lien]] · [[Combat]] · [[Personnage]] · [[Cosmologie]] · [[Anneau]]*
+*Liens : [[Items/Index|← Index Items]] · [[Catégories d'Items]] · [[Crafts]] · [[Le Lien]] · [[Combat]] · [[Personnage]] · [[Cosmologie]] · [[Anneau]]*

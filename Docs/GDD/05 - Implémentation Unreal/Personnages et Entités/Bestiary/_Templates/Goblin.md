@@ -35,7 +35,7 @@ needs_review_for: [frontière-pnj-mbti, clan-vs-individu, hostilité-canonique]
 
 > Archétype canonique du **bipède Sapient bas niveau social pillard** d'Hybelior. **Frontière avec [[PNJ]]** : un Goblin **sauvage** (clan agressif en milieu hostile) appartient au Bestiaire ; un Goblin **domestiqué / clan amical / mercenaire** appartient au PNJ système (avec MBTI, dialogue full, quêtes). Voir §10 pour la convention canonique.
 >
-> Voir [[Bestiaire - Index]] · [[Orc]] · [[PNJ]] · [[Concepts Fondamentaux IA PNJ]]
+> Voir [[Bestiary/Index]] · [[Orc]] · [[PNJ]] · [[Concepts Fondamentaux IA PNJ]]
 
 ---
 
@@ -234,4 +234,4 @@ Voir §3. HP base 80 (CR 2). Stamina moyenne. Pas de Mana (sauf Goblin chamane P
 
 ---
 
-*Liens : [[Bestiaire - Index|← Index Bestiaire]] · [[Orc]] · [[PNJ]] · [[Concepts Fondamentaux IA PNJ]] · [[Combat]] · [[Le Verbe]] · [[Les Ères]]*
+*Liens : [[Bestiary/Index|← Index Bestiaire]] · [[Orc]] · [[PNJ]] · [[Concepts Fondamentaux IA PNJ]] · [[Combat]] · [[Le Verbe]] · [[Les Ères]]*

@@ -46,7 +46,7 @@ Gemme brut            ─→      Gemme taillé (Lapidaire)    ─→   Décor c
 | **Métal (charpente)** | [[Sources de Ressources#Source 3 — Fabrication\|Lingot]] / [[Sources de Ressources#Source 3 — Fabrication\|Alliage]] | [[Crafts#1. Forge\|Forge architecturale]] | Forgeron architectural *(variant à proposer — D-ARCHITECTURE-02)* | **3-5** | Fortifications, Charpentes lourdes, Ponts, Herses |
 | **Métal précieux (Or)** | Lingot d'or (variant) | Forge précieuse + Orfèvrerie | [[Métiers#Bijoutier\|Bijoutier]] / Orfèvre | **5-6** | Coupoles, Ornements, Mobilier impérial |
 | **Métal précieux (Argent)** | Lingot d'argent (variant) | Forge précieuse | Orfèvre | **4-6** | Lustres, Pieds de mobilier, Reliquaires |
-| **Métal précieux (Mithril ?)** | Lingot exotique (à confirmer comme métal canonique — voir [[Items - Index]] §Décisions ouvertes) | Forge maître + Enchantement | Forgeron Maître + Enchanteur | **5-6** | Citadelles légendaires, Armures architecturales mythiques |
+| **Métal précieux (Mithril ?)** | Lingot exotique (à confirmer comme métal canonique — voir [[Items/Index]] §Décisions ouvertes) | Forge maître + Enchantement | Forgeron Maître + Enchanteur | **5-6** | Citadelles légendaires, Armures architecturales mythiques |
 | **Verre simple** | [[Sources de Ressources#Source 3 — Fabrication\|Plaque de verre]] | [[Crafts#7. Travail du bois et de la pierre\|Verrerie]] | [[Métiers#Verrier\|Verrier]] / Vitrier *(D-ARCHITECTURE-02)* | **3-5** | Fenêtres, Vitrages d'atelier, Lampadaires |
 | **Vitrail** | Plaque de verre + Pigment + Plomb | Verrerie maître + Sertissage | Verrier Expert + Sertisseur | **4-6** | Cathédrales, Académies, Palais |
 | **Verre cosmique** | Variants exotiques (Verre d'Astravia, Verre noir de Cendara) | Verrerie + Enchantement | Verrier Maître + Enchanteur | **6** | Constructions cosmiques, Niveau 6 exclusif |
@@ -132,10 +132,10 @@ Certains matériaux n'existent que **post-Trace** ([[Traces des Ères]]) — Boi
 |------|----------|----------------|
 | **D-MATÉRIAUX-01** | Cuir tanné comme ressource fabriquée canonique | Confirmer en Phase 2 (cohérent avec [[Sources de Ressources]]) |
 | **D-MATÉRIAUX-02** | Chaume / Paille / Sable / Charbon : ressources canoniques distinctes ou variants ? | À arbitrer |
-| **D-MATÉRIAUX-03** | Mithril : matériau canonique ou réservé Trace/Légendaire ? | Cohérent avec [[Items - Index]] §Décisions |
+| **D-MATÉRIAUX-03** | Mithril : matériau canonique ou réservé Trace/Légendaire ? | Cohérent avec [[Items/Index]] §Décisions |
 | **D-MATÉRIAUX-04** | Variants régionaux (Bois précieux par pays) : générés par Material Generator ([[Architecture Data-Driven]]) ou archétypés à la main ? | Phase 3 |
 | **D-MATÉRIAUX-05** | Niveau 6 strictement non-marchand vs achetable à coût exotique (cohérent D-ARCHITECTURE-06) | À aligner |
 
 ---
 
-*Liens : [[Architecture - Index|← Index Architecture]] · [[Catégories de Constructions]] · [[Échelles et Niveaux]] · [[Mapping Métiers de Construction]] · [[Sources de Ressources]] · [[Crafts]] · [[Métiers]] · [[Traces des Ères]] · [[Architecture Data-Driven]]*
+*Liens : [[Architecture/Index|← Index Architecture]] · [[Catégories de Constructions]] · [[Échelles et Niveaux]] · [[Mapping Métiers de Construction]] · [[Sources de Ressources]] · [[Crafts]] · [[Métiers]] · [[Traces des Ères]] · [[Architecture Data-Driven]]*

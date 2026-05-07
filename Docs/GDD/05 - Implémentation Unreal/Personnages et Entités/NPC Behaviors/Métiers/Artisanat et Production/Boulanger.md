@@ -201,4 +201,4 @@ Cascade : Crise > Religieux (sabbat) > Deuil > Marchand > Festivité > Routine.
 
 ---
 
-*Liens : [[Comportements PNJ - Index|← Index]] · [[Routine Quotidienne]] · [[Modes Sociaux]] · [[Concepts Fondamentaux IA PNJ]] · [[Actions Situationnelles]] · [[Boulanger]] (archétype joueur) · [[Pain]] · [[Métiers|Meunier]] · [[Cuisinier]]*
+*Liens : [[NPC Behaviors/Index|← Index]] · [[Routine Quotidienne]] · [[Modes Sociaux]] · [[Concepts Fondamentaux IA PNJ]] · [[Actions Situationnelles]] · [[Boulanger]] (archétype joueur) · [[Pain]] · [[Métiers|Meunier]] · [[Cuisinier]]*

@@ -35,7 +35,7 @@ needs_review_for: [cr-charge-knockdown, mapping-Loumatée, harde-bonus]
 
 > Archétype canonique de l'**herbivore agressif charge-prédateur** d'Hybelior. Pattern pour les ongulés agressifs (sanglier, taureau sauvage, gnou de plaine, rhinocéros nain). Hérite du Loup pour la base mammifère mais inverse : **Omnivore (herbi-charrogne)**, charge **plutôt qu'embuscade**, **paire** plutôt que meute.
 >
-> Voir [[Bestiaire - Index]] · [[Loup forestier]] · [[Ours brun]]
+> Voir [[Bestiary/Index]] · [[Loup forestier]] · [[Ours brun]]
 
 ---
 
@@ -240,4 +240,4 @@ Voir §3. HP base 160. Stamina à drainer rapide (2 charges = essoufflé). **Mé
 
 ---
 
-*Liens : [[Bestiaire - Index|← Index Bestiaire]] · [[Loup forestier]] · [[Ours brun]] · [[Combat]] · [[Sources de Ressources]] · [[Les Ères]]*
+*Liens : [[Bestiary/Index|← Index Bestiaire]] · [[Loup forestier]] · [[Ours brun]] · [[Combat]] · [[Sources de Ressources]] · [[Les Ères]]*

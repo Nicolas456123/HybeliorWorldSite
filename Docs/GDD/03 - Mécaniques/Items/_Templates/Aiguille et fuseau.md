@@ -93,7 +93,7 @@ Outils signatures pour la fabrication des **vêtements non-armure** ([[Robe simp
 
 | Champ | Valeur |
 |---|---|
-| **Métier** | [[Métiers - Forgeron\|Forgeron]] (aiguille acier) OU [[Métiers - Menuisier\|Menuisier]] (fuseau bois) |
+| **Métier** | [[Forgeron\|Forgeron]] (aiguille acier) OU [[Menuisier\|Menuisier]] (fuseau bois) |
 | **Station** | Forge + Établi |
 | **Intrants** | 1× [[Sources de Ressources#Source 3 — Fabrication\|Lingot]] (mithril fin) OU 1× [[Sources de Ressources#Source 1 — Récolte nature\|Bois]] (frêne) · 1× [[Sources de Ressources#Source 3 — Fabrication\|Pigment]] (mardre) · 1× [[Sources de Ressources#Source 2 — Récolte sur créature\|Cuir]] tanné (étui) |
 | **Palier requis** | Adepte |
@@ -123,4 +123,4 @@ Outils signatures pour la fabrication des **vêtements non-armure** ([[Robe simp
 
 ---
 
-*Liens : [[Items - Index\|← Index Items]] · [[Crafts]] · [[Métiers]] · [[Catégories d'Items]] · [[Robe simple]] · [[Tunique civile]] · [[Cape]] · [[Tabard]] · [[Cuirasse]]*
+*Liens : [[Items/Index\|← Index Items]] · [[Crafts]] · [[Métiers]] · [[Catégories d'Items]] · [[Robe simple]] · [[Tunique civile]] · [[Cape]] · [[Tabard]] · [[Cuirasse]]*

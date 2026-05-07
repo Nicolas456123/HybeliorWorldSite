@@ -138,8 +138,8 @@ L'**Essence spirituelle** est la **ressource cosmique signature** de la récolte
 - **Fiole rituelle** : recette Apothicaire palier 4+ — à formaliser. Coût élevé, indispensable pour récolte.
 - **Dispersion cosmique** : timer 3 s post-mort. Faut-il un timer plus long pour donner une chance à un Dépéceur palier 4+ peu réactif ? **Proposition** : palier 5+ allonge à 5 s.
 - **Essence + Larme + Cœur** : combinaison ultime → recette Mythique Phase 2 (probablement le pipeline Acier Éternel ou équivalent).
-- **Mapping Variant ↔ Entité** : voir [[Bestiaire - Index]] §Décisions ouvertes. 8 mappings stables, 2 (Onirique=Somnix, Vénérable=Fatum) proposés ici comme canonique.
+- **Mapping Variant ↔ Entité** : voir [[Bestiary/Index]] §Décisions ouvertes. 8 mappings stables, 2 (Onirique=Somnix, Vénérable=Fatum) proposés ici comme canonique.
 
 ---
 
-*Liens : [[Sources de Ressources]] · [[Crafts]] · [[Cœur de creature]] · [[Larme]] · [[Sang]] · [[Spectre des Ères]] · [[Élémentaire de feu]] · [[Tentacule abyssal]] · [[Démon mineur]] · [[Cristal de Voie]] · [[Bestiaire - Index]] · [[Le Lien]]*
+*Liens : [[Sources de Ressources]] · [[Crafts]] · [[Cœur de creature]] · [[Larme]] · [[Sang]] · [[Spectre des Ères]] · [[Élémentaire de feu]] · [[Tentacule abyssal]] · [[Démon mineur]] · [[Cristal de Voie]] · [[Bestiary/Index]] · [[Le Lien]]*

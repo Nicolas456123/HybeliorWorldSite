@@ -172,4 +172,4 @@ Modulateurs :
 
 ---
 
-*Liens : [[Comportements PNJ - Index|← Index]] · [[Concepts Fondamentaux IA PNJ]] · [[Actions Situationnelles]] · [[Enchanteur d'objet]] (archétype joueur) · [[Le Lien]] · [[Bijoutier]] · [[Sculpteur]] (distinction)*
+*Liens : [[NPC Behaviors/Index|← Index]] · [[Concepts Fondamentaux IA PNJ]] · [[Actions Situationnelles]] · [[Enchanteur d'objet]] (archétype joueur) · [[Le Lien]] · [[Bijoutier]] · [[Sculpteur]] (distinction)*

@@ -27,20 +27,20 @@ SORT file.name ASC
 
 ## Contenu
 
-- [[Architecture Data-Driven]] — 12 générateurs paramétriques (Era, Variant, Material, Recipe, Quest, NPC, Loot, Event, Trace, ItemModifier, PlantDecoration, Behavior)
+- [[Architecture Data-Driven]] — générateurs paramétriques (Era, Variant, Material, Recipe, Quest, NPC, Loot, Event, Trace, ItemModifier, PlantDecoration, Behavior)
 - [[PNJ]] — système et archétypes
 
 ## Sous-dossiers
 
-- [[Bestiaire - Index|Bestiaire]] — créatures d'Hybelior (V2 — taxonomie biologique Catégorie → Famille → Sous-famille → Espèce + Écosystèmes)
-  - [[Taxonomie des Créatures]] (cadrage 9 axes)
-  - Espèces concrètes (branche principale V2)
+- [[Bestiary/Index|Bestiaire]] — créatures d'Hybelior (taxonomie biologique Catégorie → Famille → Sous-famille → Espèce, Écosystèmes)
+  - [[Taxonomie des Créatures]] (cadrage des axes)
+  - Espèces concrètes (branche principale)
   - Écosystèmes par biome (branche parallèle)
-  - Templates paramétriques de référence (28 archétypes archive)
-- [[Comportements PNJ - Index|Comportements PNJ]] — Phase 1 + Phase 2 livrées 2026-05-01
-  - [[Concepts Fondamentaux IA PNJ]] — 20 décisions D-PNJ-* tranchées (Phase 1)
-  - [[Actions Situationnelles]] — matrice contexte×action, 8 modes superposables, modulation MBTI (Phase 2 maître)
-  - Ébauches narratives à réécrire en Phase 3 : [[Routine Quotidienne]] · [[Modes Sociaux]] · [[Métiers - Forgeron]] · [[Métiers - Boulanger]]
+  - Templates paramétriques de référence (archétypes archive)
+- [[NPC Behaviors/Index|Comportements PNJ]] — phases livrées progressivement
+  - [[Concepts Fondamentaux IA PNJ]] — décisions D-PNJ-* tranchées
+  - [[Actions Situationnelles]] — matrice contexte × action, modes superposables, modulation MBTI
+  - Ébauches narratives à réécrire en phase ultérieure : [[Routine Quotidienne]] · [[Modes Sociaux]] · [[Forgeron]] · [[Boulanger]]
 
 ---
 

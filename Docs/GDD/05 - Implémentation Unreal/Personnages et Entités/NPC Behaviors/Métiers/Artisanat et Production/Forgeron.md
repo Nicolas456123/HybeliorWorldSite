@@ -201,4 +201,4 @@ Cascade priorité : Crise > Religieux (sabbat strict) > Deuil > Marchand > Routi
 
 ---
 
-*Liens : [[Comportements PNJ - Index|← Index]] · [[Routine Quotidienne]] · [[Modes Sociaux]] · [[Concepts Fondamentaux IA PNJ]] · [[Actions Situationnelles]] · [[Forgeron]] (archétype joueur) · [[Mineur]] · [[Tanneur]] · [[Bijoutier]] · [[Architecte]] · [[Armes et Maîtrise]]*
+*Liens : [[NPC Behaviors/Index|← Index]] · [[Routine Quotidienne]] · [[Modes Sociaux]] · [[Concepts Fondamentaux IA PNJ]] · [[Actions Situationnelles]] · [[Forgeron]] (archétype joueur) · [[Mineur]] · [[Tanneur]] · [[Bijoutier]] · [[Architecte]] · [[Armes et Maîtrise]]*

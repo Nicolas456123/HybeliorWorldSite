@@ -35,7 +35,7 @@ needs_review_for: [dragons-majeurs-Phase4, clans-élémentaires-canoniques, mapp
 
 > Archétype canonique du **dragon de signature haute** d'Hybelior. **"Nain"** ne signifie pas "petit dragon" mais **"dragon-jeune-stable"** — la forme **adulte** des dragons d'Hybelior, avant l'ascension au stade **Dragon majeur** (signature continentale Phase 4) ou **Dragon ancien** (mythique). Pose le pattern **dragon canonique** : Sapient + Vol + Souffle élémentaire + Magie mineure. Variant régional canonique : **Zocshawk** (cf. §9).
 >
-> Voir [[Bestiaire - Index]] · [[Aigle royal]] · [[Tortue ancestrale]] · [[Élémentaire de feu]]
+> Voir [[Bestiary/Index]] · [[Aigle royal]] · [[Tortue ancestrale]] · [[Élémentaire de feu]]
 
 ---
 
@@ -252,4 +252,4 @@ Voir §3. HP base 850 (CR 18). **Mana** élevée. Stamina haute. Vitesse 35 m/s 
 
 ---
 
-*Liens : [[Bestiaire - Index|← Index Bestiaire]] · [[Élémentaire de feu]] · [[Tortue ancestrale]] · [[Aigle royal]] · [[Combat]] · [[Sources de Ressources]] · [[Cosmologie]] · [[Le Verbe]] · [[Les Ères]] · [[L'Accord]]*
+*Liens : [[Bestiary/Index|← Index Bestiaire]] · [[Élémentaire de feu]] · [[Tortue ancestrale]] · [[Aigle royal]] · [[Combat]] · [[Sources de Ressources]] · [[Cosmologie]] · [[Le Verbe]] · [[Les Ères]] · [[L'Accord]]*

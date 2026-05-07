@@ -313,4 +313,4 @@ Récupération ~30-50% du cristal. Le cuir/tissu se recycle séparément (Tanneu
 
 ---
 
-*Liens : [[Items - Index|← Index Items]] · [[Catégories d'Items]] · [[Anneau]] · [[Amulette]] · [[Personnage]] · [[Crafts]]*
+*Liens : [[Items/Index|← Index Items]] · [[Catégories d'Items]] · [[Anneau]] · [[Amulette]] · [[Personnage]] · [[Crafts]]*

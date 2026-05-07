@@ -416,7 +416,7 @@ Voir [[Le Souffle]] §Souffle Cardinal.
 Les **9 religions majeures + 6 mineures** sont chacune une faction. Voir :
 - [[Cosmologie]] pour la théologie
 - [[Le Lien]] pour la mécanique magique de Voie
-- [[Lore/Religions/]] pour les fiches canoniques détaillées
+- `Lore/Religions/` pour les fiches canoniques détaillées
 
 **Règle exclusivité religieuse** :
 ```
@@ -547,4 +547,4 @@ Replication : `OwnerOnly`. Diplomatie globale stockée serveur, diffusée via `F
 
 *Liens narratifs : [[Factions]] | [[Guildes]] | [[Cosmologie]] | [[Le Lien]] | [[Univers]]*
 *Liens techniques : [[OWS Architecture]] | [[Quest System]] | [[Migration Accord]] | [[Souffle System]] | [[PvP]]*
-*Liens monde : [[Continents/Index]] | [[Géographie]] | [[Lore/Religions/]]*
+*Liens monde : [[Continents/Index]] | [[Géographie]] | `Lore/Religions/`*

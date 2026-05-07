@@ -13,13 +13,13 @@ needs_review_for: [calibration-mbti-créatures, lien-Présence-stat, frontière-
 
 # 🐺 Template PNJ — Dresseur de créature
 
-> Comportement situationnel d'un PNJ Dresseur. Métier **transversal** ([[Bestiaire - Index|Bestiaire]] / [[Exploration]] / Artisanat). Cycle long (jours réels par dressage). Forte interaction avec créatures vivantes — comportement adapté autour de l'enclos. Métier joueur : [[Dresseur de créature]].
+> Comportement situationnel d'un PNJ Dresseur. Métier **transversal** ([[Bestiary/Index|Bestiaire]] / [[Exploration]] / Artisanat). Cycle long (jours réels par dressage). Forte interaction avec créatures vivantes — comportement adapté autour de l'enclos. Métier joueur : [[Dresseur de créature]].
 
 ---
 
 ## 1. Vue d'ensemble
 
-Le Dresseur travaille à l'**enclos de dressage** ou à la **carrière**. Sessions terrain longues, lien comportemental fort avec les animaux. Il vend des montures/compagnons dressés à des prix élevés (dressage = jours réels). Souvent en plein air, accès direct au [[Bestiaire - Index|Bestiaire]].
+Le Dresseur travaille à l'**enclos de dressage** ou à la **carrière**. Sessions terrain longues, lien comportemental fort avec les animaux. Il vend des montures/compagnons dressés à des prix élevés (dressage = jours réels). Souvent en plein air, accès direct au [[Bestiary/Index|Bestiaire]].
 
 - **Identité comportementale** : charismatique animal, observation patiente, voix calme et autoritaire
 - **Lien chaîne** : amont [[Métiers|Chasseur]] (capture vivante), [[Métiers|Éleveur de créature]], [[Métiers|Berger]] · aval joueurs (montures), [[Cordonnier]] §Sellier (selles), [[Factions]] cavalerie
@@ -177,4 +177,4 @@ INFJ N : entend "le chant des bêtes" différemment selon Ère ; ESFP S : "Le ch
 
 ---
 
-*Liens : [[Comportements PNJ - Index|← Index]] · [[Concepts Fondamentaux IA PNJ]] · [[Actions Situationnelles]] · [[Dresseur de créature]] (archétype joueur) · [[Bestiaire - Index]] · [[Métiers|Chasseur]] · [[Cordonnier]] · [[Foedus Animae]]*
+*Liens : [[NPC Behaviors/Index|← Index]] · [[Concepts Fondamentaux IA PNJ]] · [[Actions Situationnelles]] · [[Dresseur de créature]] (archétype joueur) · [[Bestiary/Index]] · [[Métiers|Chasseur]] · [[Cordonnier]] · [[Foedus Animae]]*

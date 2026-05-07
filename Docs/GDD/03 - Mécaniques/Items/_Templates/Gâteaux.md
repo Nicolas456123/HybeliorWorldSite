@@ -247,4 +247,4 @@ Les **gâteaux** sont fabriqués par le [[Métiers|Pâtissier]] et le [[Métiers
 
 ---
 
-*Liens : [[Items - Index|← Index Items]] · [[Catégories d'Items]] · [[Crafts]] · [[Métiers]] · [[Pain]] · [[Lore/Religions/00 - Système Religieux]]*
+*Liens : [[Items/Index|← Index Items]] · [[Catégories d'Items]] · [[Crafts]] · [[Métiers]] · [[Pain]] · [[Lore/Religions/00 - Système Religieux]]*

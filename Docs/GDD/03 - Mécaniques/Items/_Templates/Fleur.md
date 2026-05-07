@@ -123,4 +123,4 @@ Marqueur culturel fort : Seraphia, Sylthara, Lythar, et les jardins-temples imp�
 
 ---
 
-*Liens : [[Items - Index|← Index Items]] · [[Catégories d'Items]] · [[Sources de Ressources]] · [[Crafts]] · [[Métiers]] · [[Les Ères]] · [[Plante]] · [[Feuille]] · [[Cœur de plante]] · [[Pigment]] · [[Miel]]*
+*Liens : [[Items/Index|← Index Items]] · [[Catégories d'Items]] · [[Sources de Ressources]] · [[Crafts]] · [[Métiers]] · [[Les Ères]] · [[Plante]] · [[Feuille]] · [[Cœur de plante]] · [[Pigment]] · [[Miel]]*

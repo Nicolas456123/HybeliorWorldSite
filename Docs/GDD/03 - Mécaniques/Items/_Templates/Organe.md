@@ -137,4 +137,4 @@ L'**Organe** regroupe les viscères **autres que le cœur** :
 
 ---
 
-*Liens : [[Sources de Ressources]] · [[Crafts]] · [[Cœur de creature]] · [[Sang]] · [[Sécrétion]] · [[Loup forestier]] · [[Ours brun]] · [[Bestiaire - Index]]*
+*Liens : [[Sources de Ressources]] · [[Crafts]] · [[Cœur de creature]] · [[Sang]] · [[Sécrétion]] · [[Loup forestier]] · [[Ours brun]] · [[Bestiary/Index]]*

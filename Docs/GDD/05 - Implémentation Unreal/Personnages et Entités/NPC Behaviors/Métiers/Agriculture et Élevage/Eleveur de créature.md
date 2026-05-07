@@ -20,7 +20,7 @@ needs_review_for: [calibration-playtest, branche-créatures-rares-post-Souffle]
 
 ## 1. Vue d'ensemble
 
-L'Éleveur-PNJ est un **patient de lignées** : il pense en générations, pas en journées. Profil psychologique dominant : **calme, observateur, lié émotionnellement aux créatures, transmetteur de savoir**. Branche [[Bestiaire - Index|Bestiaire]] forte : double pratique entre **bétail standard** (équidés, bovidés, aviens) et **créatures rares post-Souffle** (variants, créatures cosmiques apprivoisables — cf. [[Le Lien]]).
+L'Éleveur-PNJ est un **patient de lignées** : il pense en générations, pas en journées. Profil psychologique dominant : **calme, observateur, lié émotionnellement aux créatures, transmetteur de savoir**. Branche [[Bestiary/Index|Bestiaire]] forte : double pratique entre **bétail standard** (équidés, bovidés, aviens) et **créatures rares post-Souffle** (variants, créatures cosmiques apprivoisables — cf. [[Le Lien]]).
 
 Modèle d'IA : §1 BT racine + Utility AI (cf. [[Concepts Fondamentaux IA PNJ]] §1). Mode dominant **Routine** + interactions intenses NPC↔créature (extension §19). Combat défavorable (peu armé sauf lasso/aiguillon), mais peut **lancer ses créatures** en défense passive.
 
@@ -249,4 +249,4 @@ trigger:
 
 ---
 
-*Liens : [[Comportements PNJ - Index]] · [[Routine Quotidienne]] · [[Modes Sociaux]] · [[Actions Situationnelles]] · [[Concepts Fondamentaux IA PNJ]] · [[03 - Mécaniques/Métiers/Agriculture et Élevage/Eleveur de créature|Éleveur (gameplay)]] · [[Berger]] · [[Bestiaire - Index]] · [[Le Lien]] · [[Foedus Animae]]*
+*Liens : [[NPC Behaviors/Index]] · [[Routine Quotidienne]] · [[Modes Sociaux]] · [[Actions Situationnelles]] · [[Concepts Fondamentaux IA PNJ]] · [[03 - Mécaniques/Métiers/Agriculture et Élevage/Eleveur de créature|Éleveur (gameplay)]] · [[Berger]] · [[Bestiary/Index]] · [[Le Lien]] · [[Foedus Animae]]*

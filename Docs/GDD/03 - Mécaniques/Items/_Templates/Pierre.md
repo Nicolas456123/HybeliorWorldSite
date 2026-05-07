@@ -124,4 +124,4 @@ Marqueur cosmologique : pays de pierre (Iskara avec sa Porte de Fer, citadelles 
 
 ---
 
-*Liens : [[Items - Index|← Index Items]] · [[Catégories d'Items]] · [[Sources de Ressources]] · [[Crafts]] · [[Métiers]] · [[Les Ères]] · [[Minerai]] · [[Gemme brut]] · [[Poudre naturel]]*
+*Liens : [[Items/Index|← Index Items]] · [[Catégories d'Items]] · [[Sources de Ressources]] · [[Crafts]] · [[Métiers]] · [[Les Ères]] · [[Minerai]] · [[Gemme brut]] · [[Poudre naturel]]*

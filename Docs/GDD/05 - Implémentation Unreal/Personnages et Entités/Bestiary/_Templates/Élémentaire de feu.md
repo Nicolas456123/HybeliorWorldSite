@@ -35,7 +35,7 @@ needs_review_for: [cr-system-canonique, paradoxes-élémentaires-variants, plana
 
 > Archétype canonique de l'**élémentaire planaire** d'Hybelior. Sert de pattern pour toutes les créatures **élémentaires / cosmiques / planaires** : Élémentaire d'eau, Élémentaire de terre, Élémentaire d'air, Spectre temporel, Avatar de Vortex, etc. Deuxième archétype du sprint pilote bestiaire — il établit le **pattern exotique** complémentaire au [[Loup forestier]] (créature classique).
 >
-> Voir [[Bestiaire - Index]] · [[Taxonomie des Créatures]] · [[Combat]] · [[Cosmologie]] · [[Le Lien]]
+> Voir [[Bestiary/Index]] · [[Taxonomie des Créatures]] · [[Combat]] · [[Cosmologie]] · [[Le Lien]]
 
 ---
 
@@ -323,7 +323,7 @@ L'Élémentaire **n'erre pas** comme une créature classique. Il **apparaît** :
 - **Grand** : **2 noyaux orbitaux** = double point faible, double frappe possible
 - **Avatar** : **conscience émergente — il parle** (lignes scriptées par scénario, lien narratif avec Cosmologie). Peut **proposer un pacte** au joueur Lié de Feu palier 4+ au lieu de combattre (Phase 4 — quête de Voie de Feu)
 
-> [!note] Branche [[Comportements PNJ - Index]]
+> [!note] Branche [[NPC Behaviors/Index]]
 > Pattern canonique pour créatures **Instinctives Solitaires Planaires** posé ici. Autres archétypes hériteront : Élémentaires d'eau/terre/air, Spectres temporels, Avatars de Voie.
 
 ---
@@ -407,4 +407,4 @@ L'Élémentaire **n'erre pas** comme une créature classique. Il **apparaît** :
 
 ---
 
-*Liens : [[Bestiaire - Index|← Index Bestiaire]] · [[Taxonomie des Créatures]] · [[Loup forestier]] · [[Combat]] · [[Sources de Ressources]] · [[Les Ères]] · [[L'Accord]] · [[Cosmologie]] · [[Le Lien]] · [[Personnage]] · [[Architecture Data-Driven]]*
+*Liens : [[Bestiary/Index|← Index Bestiaire]] · [[Taxonomie des Créatures]] · [[Loup forestier]] · [[Combat]] · [[Sources de Ressources]] · [[Les Ères]] · [[L'Accord]] · [[Cosmologie]] · [[Le Lien]] · [[Personnage]] · [[Architecture Data-Driven]]*

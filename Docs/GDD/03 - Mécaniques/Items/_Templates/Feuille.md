@@ -117,4 +117,4 @@ Pattern unique : la feuille tombe naturellement à l'automne — récolte gratui
 
 ---
 
-*Liens : [[Items - Index|← Index Items]] · [[Catégories d'Items]] · [[Sources de Ressources]] · [[Crafts]] · [[Métiers]] · [[Les Ères]] · [[Plante]] · [[Fleur]] · [[Racine]] · [[Herbes]] · [[Pigment]]*
+*Liens : [[Items/Index|← Index Items]] · [[Catégories d'Items]] · [[Sources de Ressources]] · [[Crafts]] · [[Métiers]] · [[Les Ères]] · [[Plante]] · [[Fleur]] · [[Racine]] · [[Herbes]] · [[Pigment]]*

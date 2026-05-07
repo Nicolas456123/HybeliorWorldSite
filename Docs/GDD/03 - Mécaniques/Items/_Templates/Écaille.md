@@ -135,4 +135,4 @@ L'**Écaille** combine deux propriétés rares : **dureté** (comparable à plat
 
 ---
 
-*Liens : [[Sources de Ressources]] · [[Crafts]] · [[Catégories d'Items]] · [[Carapace]] · [[Cuir]] · [[Cuirasse]] · [[Bouclier]] · [[Dragon nain]] · [[Serpent géant]] · [[Requin abyssal]] · [[Bestiaire - Index]]*
+*Liens : [[Sources de Ressources]] · [[Crafts]] · [[Catégories d'Items]] · [[Carapace]] · [[Cuir]] · [[Cuirasse]] · [[Bouclier]] · [[Dragon nain]] · [[Serpent géant]] · [[Requin abyssal]] · [[Bestiary/Index]]*

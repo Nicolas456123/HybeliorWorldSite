@@ -101,17 +101,13 @@ Mais la décroissance, à Hybelior, est **bienveillante**. Elle ne révoque jama
 
 ## Maîtrise et Souffle
 
-À chaque [[Le Souffle|Souffle]], le monde change. Et avec lui, ta relation à ce que tu pratiques. Pendant les premiers jours d'une nouvelle Ère, tes outils familiers te sembleront étrangers — non parce qu'ils ont changé, mais parce que **toi**, désormais, vis dans un monde qui les valorise différemment. La Maîtrise subit ce qu'on appelle, en termes presque artisanaux, la **rouille**.
+À chaque [[Le Souffle|Souffle]], le monde change — et la Maîtrise traverse alors ce que [[Le Souffle]] décrit comme la **rouille** : cette étrangeté familière que la main retrouve dans la première semaine d'une nouvelle Ère, quand l'épée semble trop lourde, quand le combo hésite à la troisième frappe.
+
+Ce qu'il importe de noter ici, pour la pratique d'une arme : la rouille n'est pas une décroissance, elle ne grignote pas l'XP. Elle est une **friction d'adaptation** brève qui se dissipe par l'usage. Le Maître qui sort d'un Souffle n'est pas moins Maître ; il est seulement, pendant quelques jours, un Maître qui réapprend ses gestes dans un monde qui a respiré.
 
 > *« Le Souffle ne nous prend rien. Il nous demande seulement de nous rappeler que nos outils ne sont pas nous. »*
 >
 > *— Maître Aldric, forgeron de Mosrack, à un apprenti désorienté lendemain de Souffle*
-
-Ce qui se passe est presque cérémoniel. La main qui tenait l'épée hier la trouve, au matin de la nouvelle Ère, un peu trop lourde. La pointe ne tombe plus exactement où elle devrait. Le combo qu'on enchaînait sans y penser hésite, à la troisième frappe. Rien de catastrophique. Juste cette **étrangeté familière** qu'on connaît quand on rentre chez soi après un long voyage.
-
-La rouille n'est pas une décroissance. Elle ne grignote pas ton XP. Elle est une **friction d'adaptation** au nouveau monde — et elle se dissipe, naturellement, par l'usage. Quelques entraînements, quelques combats, et la main retrouve ses repères. C'est un **rite de passage** : on franchit le Souffle, on tâtonne, on retrouve son aisance, et la nouvelle Ère est entrée en soi. Le Maître qui sort d'un Souffle n'est pas moins Maître. Il est seulement, pendant quelques jours, un Maître qui **réapprend** sa pratique dans un monde qui a respiré.
-
-Pour les modalités exactes du Souffle, voir [[Le Souffle]].
 
 ---
 

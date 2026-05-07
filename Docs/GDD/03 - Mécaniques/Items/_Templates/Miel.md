@@ -127,4 +127,4 @@ Marqueur culturel : pays forestiers (Trinoria, Alkaran, Sylthara) en font une fi
 
 ---
 
-*Liens : [[Items - Index|← Index Items]] · [[Catégories d'Items]] · [[Sources de Ressources]] · [[Crafts]] · [[Métiers]] · [[Les Ères]] · [[Fleur]] · [[Sève]] · [[Boisson]] · [[Potion]]*
+*Liens : [[Items/Index|← Index Items]] · [[Catégories d'Items]] · [[Sources de Ressources]] · [[Crafts]] · [[Métiers]] · [[Les Ères]] · [[Fleur]] · [[Sève]] · [[Boisson]] · [[Potion]]*

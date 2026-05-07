@@ -166,7 +166,7 @@ Forêt → Bûcheron (Bois, Écorce, Sève, Charbon) → [[Menuisier]] (Planches
 **Signatures de PNJ archétypaux** :
 - **Le bûcheron solitaire** — cabane en forêt, peu de paroles, force impressionnante, parfois suspect
 - **Le chef d'équipe** — gère 5-10 hommes, négocie avec seigneurs, rude mais juste
-- **La bûcheronne** *(rare et notable)* — preuve qu'aucun métier n'est interdit, souvent renommée, [[Aerion]] ou [[Cendara]]
+- **La bûcheronne** *(rare et notable)* — preuve qu'aucun métier n'est interdit, souvent renommée, [[Aerion]] ou [[Cendara - Continent|Cendara]]
 - **Le bûcheron druidique** — [[Rota Mundi]], coupe rituelle, replante, cycles respectés
 
 **PNJ célèbres** *(Phase 4)* :

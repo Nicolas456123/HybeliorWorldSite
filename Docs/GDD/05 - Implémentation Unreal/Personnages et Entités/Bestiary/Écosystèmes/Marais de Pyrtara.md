@@ -17,7 +17,7 @@ needs_review_for: [sparutor-stub, crocodilien-archétype-stub, mapping-Sparutor-
 
 > Écosystème **humide chaud / tempéré**. Couvre **Pyrtara** (Ilthara — dictature militaire, Grande Éruption — adjacence volcanique-marais), les **Marécages de Noyrath** (Ilthara — voile mince entre les mondes, cf. [[Géographie]]), les zones humides d'**Onara sud** (lacs des cosmiques), et les marais oniriques de **Vytharia** (Ilthara — illusionnistes, rêve/réalité). Domaine du **[[Serpent géant]]** et du **Sparutor** (crocodilien CSV).
 >
-> Voir [[Bestiaire - Index]] · [[Géographie]] · [[Serpent géant]] · [[Krill géant]] · [[Ruche d'insectes]]
+> Voir [[Bestiary/Index]] · [[Géographie]] · [[Serpent géant]] · [[Krill géant]] · [[Ruche d'insectes]]
 
 ---
 
@@ -240,4 +240,4 @@ CRÉATURES SIGNATURES PLANAIRES (Vytharia / Noyrath) :
 
 ---
 
-*Liens : [[Bestiaire - Index]] · [[Serpent géant]] · [[Krill géant]] · [[Métamorphe]] · [[Slime amorphe]] · [[Ruche d'insectes]] · [[Tortue ancestrale]] · [[Eau douce]] · [[Plans cosmiques]] · [[Géographie]] · [[Les Ères]] · [[Cosmologie]]*
+*Liens : [[Bestiary/Index]] · [[Serpent géant]] · [[Krill géant]] · [[Métamorphe]] · [[Slime amorphe]] · [[Ruche d'insectes]] · [[Tortue ancestrale]] · [[Eau douce]] · [[Plans cosmiques]] · [[Géographie]] · [[Les Ères]] · [[Cosmologie]]*

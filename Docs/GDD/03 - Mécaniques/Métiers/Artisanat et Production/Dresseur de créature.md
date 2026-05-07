@@ -19,7 +19,7 @@ needs_review_for: [frontière-Dresseur-Eleveur-Berger-Vétérinaire, créatures-
 
 # 🐺 Archétype-Métier — Dresseur de créature
 
-> Métier **transversal** au croisement [[Bestiaire - Index|Bestiaire]] / [[Exploration]] / Artisanat. Le Dresseur transforme une **créature sauvage** (capturée vivante par lui-même ou un Chasseur) en **monture, animal de combat, animal de travail ou animal domestique** dressé.
+> Métier **transversal** au croisement [[Bestiary/Index|Bestiaire]] / [[Exploration]] / Artisanat. Le Dresseur transforme une **créature sauvage** (capturée vivante par lui-même ou un Chasseur) en **monture, animal de combat, animal de travail ou animal domestique** dressé.
 
 > **Frontière canonique avec [[Métiers|Éleveur de créature]] (M1)** : l'**Éleveur** se concentre sur la **reproduction et l'élevage en captivité** (cycles de reproduction, lignées, naissance, alimentation des juvéniles). Le **Dresseur** se concentre sur l'**apprivoisement et l'entraînement comportemental** d'une créature spécifique. Les deux métiers sont **complémentaires** (un Éleveur produit le poulain, le Dresseur le forme), pas concurrents.
 
@@ -38,7 +38,7 @@ Le **Dresseur de créature** apprivoise et entraîne des créatures pour qu'elle
 **Identité gameplay :**
 - Métier **socio-comportemental** — `Verbe` (commandes, lien vocal), `Présence` (autorité naturelle, charisme animal), `Mémoire` (espèces, comportements, signaux), `Endurance` (sessions longues sur le terrain)
 - Métier **temps long** : un dressage T3+ prend des **jours réels** (cycle d'apprivoisement)
-- Métier **transversal** : pivot entre [[Bestiaire - Index|Bestiaire]] (créatures), [[Exploration]] (montures), [[Combat]] (compagnons combattants), [[Économie]] (commerce de créatures dressées)
+- Métier **transversal** : pivot entre [[Bestiary/Index|Bestiaire]] (créatures), [[Exploration]] (montures), [[Combat]] (compagnons combattants), [[Économie]] (commerce de créatures dressées)
 
 **Ancrage culturel :** Galenor (cavaliers impériaux), Alkaran (chiens de meute, cerfs nordiques), Cendara (créatures volcaniques exotiques), Onara (faucons sacrés Foedus Animae), Cestra (créatures marines), Endora (compagnons exotiques de cour).
 
@@ -71,7 +71,7 @@ Le **Dresseur de créature** apprivoise et entraîne des créatures pour qu'elle
 
 | Intrant | Source | Notes |
 |---------|--------|-------|
-| **Créature sauvage capturée vivante** | Chasseur (capture non-létale) | Voir [[Bestiaire - Index]] |
+| **Créature sauvage capturée vivante** | Chasseur (capture non-létale) | Voir [[Bestiary/Index]] |
 | **Juvénile d'élevage** | Éleveur de créature (M1) | Plus docile, dressage plus rapide |
 | **Animal d'élevage standard** | Berger | Chien, mouton-monture, cheval commun |
 | **Friandise / appât** | Boucher (viande), Boulanger (pain), Apothicaire (apaisant) | Récompense apprivoisement |
@@ -257,4 +257,4 @@ Le **Dresseur de créature** apprivoise et entraîne des créatures pour qu'elle
 
 ---
 
-*Liens : [[Métiers]] · [[Bestiaire - Index]] · [[Exploration]] · [[Combat]] · [[Crafts]] · [[Personnage]] · [[Sources de Ressources]] · [[Le Lien]] · [[Économie]] · [[Les Ères]] · [[Cordonnier]] · [[Lore/Religions/Foedus Animae]]*
+*Liens : [[Métiers]] · [[Bestiary/Index]] · [[Exploration]] · [[Combat]] · [[Crafts]] · [[Personnage]] · [[Sources de Ressources]] · [[Le Lien]] · [[Économie]] · [[Les Ères]] · [[Cordonnier]] · [[Lore/Religions/Foedus Animae]]*

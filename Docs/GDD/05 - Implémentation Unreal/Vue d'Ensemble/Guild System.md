@@ -313,7 +313,7 @@ Score = (kills × 1) + (objectifs capturés × 50) + (sièges remportés × 200)
 | Changement d'alignement | Cooldown 60 jours, coût doublé |
 | Conflit avec religion adverse | +10% gains de guerre contre guildes alignées à la religion antagoniste |
 
-**Religions antagonistes (matrice canonique)** : voir [[Religions]] pour la matrice complète. Exemples : Ordo Caelum ↔ Noctari, Ignis Aeternum ↔ Via Ventus, etc.
+**Religions antagonistes (matrice canonique)** : voir [[00 - Système Religieux]] pour la matrice complète. Exemples : Ordo Caelum ↔ Noctari, Ignis Aeternum ↔ Via Ventus, etc.
 
 ---
 

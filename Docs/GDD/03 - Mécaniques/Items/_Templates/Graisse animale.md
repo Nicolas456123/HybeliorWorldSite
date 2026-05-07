@@ -129,4 +129,4 @@ La **Graisse animale** est le tissu adipeux sous le cuir des mammifères et cert
 
 ---
 
-*Liens : [[Sources de Ressources]] · [[Crafts]] · [[Cuir]] · [[Catégories d'Items]] · [[Loup forestier]] · [[Ours brun]] · [[Sanglier]] · [[Requin abyssal]] · [[Bestiaire - Index]]*
+*Liens : [[Sources de Ressources]] · [[Crafts]] · [[Cuir]] · [[Catégories d'Items]] · [[Loup forestier]] · [[Ours brun]] · [[Sanglier]] · [[Requin abyssal]] · [[Bestiary/Index]]*

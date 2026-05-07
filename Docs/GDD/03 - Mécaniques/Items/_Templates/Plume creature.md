@@ -143,4 +143,4 @@ Trois usages canoniques :
 
 ---
 
-*Liens : [[Sources de Ressources]] · [[Crafts]] · [[Plume]] (outil) · [[Flèche]] · [[Aile]] · [[Aigle royal]] · [[Faucon]] · [[Dragon nain]] · [[Bestiaire - Index]]*
+*Liens : [[Sources de Ressources]] · [[Crafts]] · [[Plume]] (outil) · [[Flèche]] · [[Aile]] · [[Aigle royal]] · [[Faucon]] · [[Dragon nain]] · [[Bestiary/Index]]*

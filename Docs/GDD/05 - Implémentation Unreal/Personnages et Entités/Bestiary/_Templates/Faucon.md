@@ -35,7 +35,7 @@ needs_review_for: [apprivoisement-fauconnerie-Phase4, mapping-Fallilla]
 
 > Archétype canonique de l'**avien chasseur léger rapide**. Pattern pour faucons (pèlerin, gerfaut, hobereau), milans, petits rapaces. Distinct de l'[[Aigle royal]] : **plus petit, plus rapide, plus apprivoisable**. Pose le pattern **fauconnerie** (apprivoisement Phase 4) pour le bestiaire avien.
 >
-> Voir [[Bestiaire - Index]] · [[Aigle royal]] · [[Loup forestier]]
+> Voir [[Bestiary/Index]] · [[Aigle royal]] · [[Loup forestier]]
 
 ---
 
@@ -242,4 +242,4 @@ Voir §3. HP base 110 (CR 4). Stamina pour piqué long. **Vitesse pointe 90 m/s*
 
 ---
 
-*Liens : [[Bestiaire - Index|← Index Bestiaire]] · [[Aigle royal]] · [[Loup forestier]] · [[Combat]] · [[Sources de Ressources]] · [[Les Ères]] · [[Le Lien]]*
+*Liens : [[Bestiary/Index|← Index Bestiaire]] · [[Aigle royal]] · [[Loup forestier]] · [[Combat]] · [[Sources de Ressources]] · [[Les Ères]] · [[Le Lien]]*

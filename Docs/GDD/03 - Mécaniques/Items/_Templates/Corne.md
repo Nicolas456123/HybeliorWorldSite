@@ -135,4 +135,4 @@ La **Corne** est une excroissance **dure et structurée**, dense et facile à ta
 
 ---
 
-*Liens : [[Sources de Ressources]] · [[Crafts]] · [[Os]] · [[Talisman]] · [[Sceptre]] · [[Cerf majestueux]] · [[Démon mineur]] · [[Dragon nain]] · [[Bestiaire - Index]]*
+*Liens : [[Sources de Ressources]] · [[Crafts]] · [[Os]] · [[Talisman]] · [[Sceptre]] · [[Cerf majestueux]] · [[Démon mineur]] · [[Dragon nain]] · [[Bestiary/Index]]*

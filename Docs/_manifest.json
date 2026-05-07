@@ -8,7 +8,7 @@
     {
       "name": "Production",
       "file": "Production.md",
-      "title": "🎬 Production d'Hybelior — Stratégie et Roadmap"
+      "title": "🎬 Produire Hybelior — la philosophie d'un monde modulaire"
     },
     {
       "name": "Univers",
@@ -4682,6 +4682,11 @@
       "name": "Prediction System",
       "file": "Prediction System.md",
       "title": "Prediction System — Implémentation"
+    },
+    {
+      "name": "Production Spec",
+      "file": "Production Spec.md",
+      "title": "Production Spec — Tiers de coût, banque d'assets, roadmap, équipe"
     },
     {
       "name": "Synthèse Projet",

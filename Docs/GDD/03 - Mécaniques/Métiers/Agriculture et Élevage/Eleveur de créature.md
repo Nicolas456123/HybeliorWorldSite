@@ -28,7 +28,7 @@ needs_review_for: [calibration-progression-playtest, branche-créatures-rares-po
 
 ## 1. Vue d'ensemble
 
-L'**Éleveur de créature** sélectionne, reproduit et élève le bétail, les **montures** et les **créatures rares** d'Hybelior. Métier de **patience et de lignées** — un éleveur célèbre est connu pour la souche qu'il maintient sur 3-5 générations. Il se distingue du [[Berger]] (garde au quotidien, troupeaux mobiles) par son **focus reproduction et sélection** ; et du [[Dresseur de créature]] (apprivoisement de spécimens sauvages adultes) par son travail **dès la naissance**. Branche fortement [[Bestiaire - Index|Bestiaire]] : **équidés** (cavalerie, courrier), **bovidés** (lait, viande, traction), **aviens** (œufs, plumes, courrier rapide), **créatures rares post-[[Le Souffle|Souffle]]** (montures variants, créatures cosmiques apprivoisables).
+L'**Éleveur de créature** sélectionne, reproduit et élève le bétail, les **montures** et les **créatures rares** d'Hybelior. Métier de **patience et de lignées** — un éleveur célèbre est connu pour la souche qu'il maintient sur 3-5 générations. Il se distingue du [[Berger]] (garde au quotidien, troupeaux mobiles) par son **focus reproduction et sélection** ; et du [[Dresseur de créature]] (apprivoisement de spécimens sauvages adultes) par son travail **dès la naissance**. Branche fortement [[Bestiary/Index|Bestiaire]] : **équidés** (cavalerie, courrier), **bovidés** (lait, viande, traction), **aviens** (œufs, plumes, courrier rapide), **créatures rares post-[[Le Souffle|Souffle]]** (montures variants, créatures cosmiques apprivoisables).
 
 ---
 
@@ -101,7 +101,7 @@ L'**Éleveur de créature** sélectionne, reproduit et élève le bétail, les *
 | **Novice** | Élevage poule pondeuse · Élevage chèvre laitière · Mangeoire de base |
 | **Initié** | Élevage canard · Croisement vache laitière + viande · Régime hivernal · Couvoir tempéré |
 | **Adepte** | Cheval de selle (Façonné) · Bœuf de trait · Faucon de chasse · Régime "haute lactation" · Lignée stabilisée |
-| **Expert** | Cheval de course (Œuvré+) · Chien de garde de race · Aigle messager · Bovin de prestige · Créature rare ([[Bestiaire - Index|cervidé d'ère]]) |
+| **Expert** | Cheval de course (Œuvré+) · Chien de garde de race · Aigle messager · Bovin de prestige · Créature rare ([[Bestiary/Index|cervidé d'ère]]) |
 | **Maître** | Monture variant post-[[Le Souffle|Souffle]] · Lignée Concordée · Créature cosmique apprivoisable (cf. [[Le Lien]]) · Cheval éclair (signature) |
 
 ---
@@ -203,4 +203,4 @@ L'**Éleveur de créature** sélectionne, reproduit et élève le bétail, les *
 
 ---
 
-*Liens : [[Métiers]] · [[Personnage]] · [[Crafts]] · [[Sources de Ressources]] · [[Économie]] · [[Armes et Maîtrise]] · [[L'Accord]] · [[Le Souffle]] · [[Bestiaire - Index]] · [[Berger]] · [[Boucher]] · [[Apothicaire]] · [[Marchand]] · [[Le Lien]]*
+*Liens : [[Métiers]] · [[Personnage]] · [[Crafts]] · [[Sources de Ressources]] · [[Économie]] · [[Armes et Maîtrise]] · [[L'Accord]] · [[Le Souffle]] · [[Bestiary/Index]] · [[Berger]] · [[Boucher]] · [[Apothicaire]] · [[Marchand]] · [[Le Lien]]*

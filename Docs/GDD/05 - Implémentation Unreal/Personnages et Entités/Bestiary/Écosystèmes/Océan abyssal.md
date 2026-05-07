@@ -17,7 +17,7 @@ needs_review_for: [léviathan-abysses-Phase4, créatures-bioluminescentes-stub, 
 
 > Écosystème **extrême profondeur**, royaume du Vide-pression. **Pas de soleil**, pression colossale, vie chemosynthétique aux sources hydrothermales. Couvre les **profondeurs océaniques** sous tous les continents, mais notamment la **mer du sud d'Azoria** (Léviathans des Abysses — cf. [[Géographie]]), les **Failles abyssales** où apparaissent [[Tentacule abyssal]] et **ruines englouties** (cités d'ères passées). Domaine du [[Tentacule abyssal]] et du [[Requin abyssal]].
 >
-> Voir [[Bestiaire - Index]] · [[Géographie]] · [[Tentacule abyssal]] · [[Requin abyssal]] · [[Krill géant]] · [[Côte et mer peu profonde]]
+> Voir [[Bestiary/Index]] · [[Géographie]] · [[Tentacule abyssal]] · [[Requin abyssal]] · [[Krill géant]] · [[Côte et mer peu profonde]]
 
 ---
 
@@ -236,4 +236,4 @@ DÉCOMPOSEURS :
 
 ---
 
-*Liens : [[Bestiaire - Index]] · [[Tentacule abyssal]] · [[Requin abyssal]] · [[Krill géant]] · [[Côte et mer peu profonde]] · [[Plans cosmiques]] · [[Géographie]] · [[Les Ères]] · [[Cosmologie]] · [[Sources de Ressources]]*
+*Liens : [[Bestiary/Index]] · [[Tentacule abyssal]] · [[Requin abyssal]] · [[Krill géant]] · [[Côte et mer peu profonde]] · [[Plans cosmiques]] · [[Géographie]] · [[Les Ères]] · [[Cosmologie]] · [[Sources de Ressources]]*
