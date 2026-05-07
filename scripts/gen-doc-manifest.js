@@ -55,14 +55,19 @@ function walkDir(dir) {
 
     if (mdFiles.length > 0) {
         const relDir = path.relative(DOCS, dir).split(path.sep).join('/');
-        const list = mdFiles
-            .filter(name => name !== 'Index.md' && !name.startsWith('_')) // exclut Index.md et _Files
-            .map(name => {
-                const full = path.join(dir, name);
-                const baseName = name.replace(/\.md$/i, '');
-                const title = extractTitle(full) || baseName;
-                return { name: baseName, file: name, title };
-            });
+        // On inclut Index.md / _Index.md / _* dans le manifeste avec isIndex=true
+        // pour que les wikilinks [[Folder/Index]] se résolvent. Le rendu dataview
+        // les filtre ensuite via le flag.
+        const list = mdFiles.map(name => {
+            const full = path.join(dir, name);
+            const baseName = name.replace(/\.md$/i, '');
+            const title = extractTitle(full) || baseName;
+            const entry = { name: baseName, file: name, title };
+            if (name === 'Index.md' || name === '_Index.md' || name.startsWith('_')) {
+                entry.isIndex = true;
+            }
+            return entry;
+        });
         if (list.length > 0) out[relDir] = list;
     }
 

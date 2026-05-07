@@ -154,10 +154,11 @@
                 return;
             }
 
-            // Construit la grille
+            // Construit la grille — exclut les entrées Index/_Index (le manifeste
+            // les inclut pour la résolution wikilink mais on ne les liste pas).
             const grid = document.createElement('div');
             grid.className = 'md-dataview-grid';
-            entries.forEach(entry => {
+            entries.filter(e => !e.isIndex).forEach(entry => {
                 const card = document.createElement('a');
                 card.className = 'md-dataview-card';
                 // Lien : on encode le chemin complet du .md pour le router md/
@@ -249,7 +250,20 @@
         const filePart = hashIdx === -1 ? target : target.slice(0, hashIdx);
         const baseName = filePart.split('/').pop();
 
-        // Recherche : match sur entry.name (sans .md)
+        // 1. Path-aware match : folder + entry.name doit se terminer par filePart.
+        //    Évite l'ambiguïté quand plusieurs dossiers ont un fichier "Index".
+        if (filePart.includes('/')) {
+            for (const folder in manifest) {
+                for (const entry of manifest[folder]) {
+                    const fullPath = folder + '/' + entry.name;
+                    if (fullPath === filePart || fullPath.endsWith('/' + filePart)) {
+                        return folder + '/' + entry.file;
+                    }
+                }
+            }
+        }
+
+        // 2. Fallback : match sur entry.name seul (basename)
         for (const folder in manifest) {
             for (const entry of manifest[folder]) {
                 if (entry.name === baseName || entry.name === filePart) {
