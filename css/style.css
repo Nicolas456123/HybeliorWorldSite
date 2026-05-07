@@ -3382,6 +3382,13 @@ body.ios-fullscreen .ios-fullscreen-btn { top: env(safe-area-inset-top, 10px); }
     transform: translateY(-1px);
 }
 
+/* Carte "dossier" : style légèrement différent pour distinguer un sous-Index */
+.md-dataview-card-folder {
+    background: rgba(178, 148, 96, 0.18);
+    border-left-color: rgba(120, 78, 18, 0.85);
+}
+.md-dataview-card-folder:hover { background: rgba(178, 148, 96, 0.32); }
+
 .md-dataview-card-title {
     font-family: 'Cinzel', serif;
     font-size: 14px;
