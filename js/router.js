@@ -86,6 +86,10 @@ const Router = {
                 this.cache[route] = await resp.text();
             }
 
+            // Détache le surlignage de la page précédente (sera réattaché si la
+            // nouvelle page rend du markdown via MdRenderer).
+            if (window.Highlights) Highlights.detach();
+
             this.container.className = 'page-container page-' + route;
             this.container.innerHTML = `<div class="page-content">${this.cache[route]}</div>`;
             this.currentRoute = route;
