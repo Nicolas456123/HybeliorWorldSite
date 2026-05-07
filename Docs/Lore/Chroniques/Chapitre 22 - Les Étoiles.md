@@ -10,7 +10,7 @@ needs_review_for: []
 > *« En Haldria, on ne navigue pas à l'aveugle — les étoiles parlent à ceux qui savent écouter, et la mer obéit à ceux qui les comprennent. »*
 > — Capitaine Aldoria, Flotte de la Constellation d'Argent
 
-**Ilthara — Haldria, Hekorinth — Jour 415**
+**Endora — Haldria, Hekorinth — Jour 415**
 
 ---
 
@@ -22,7 +22,7 @@ Le deuxième son fut la mer.
 
 Pas le fracas des vagues — nous étions encore trop loin pour cela. Un fond sonore, continu et bas, de la nature des sons qui ne commencent pas et ne finissent pas mais sont simplement là, de la même façon qu'un fond de couleur est là dans un tableau sans que personne ait décidé de le peindre. La mer comme bruit de fond de la civilisation haldrienne. Je compris pourquoi ces gens se tournaient vers les étoiles : quand le fond sonore de votre existence est une chose aussi ancienne et aussi indifférente que l'océan, on cherche naturellement quelque chose qui soit au-dessus de cette indifférence. Quelque chose de stable. Les étoiles.
 
-Pardine et moi avons monté la route qui longe la falaise vers Hekorinth, et la ville nous est apparue par fragments — une tour d'abord, blanche et fine comme une bougie verticale, puis un toit, puis une rue en terrasse descendant vers le port, puis finalement l'ensemble, posé sur son promontoire calcaire comme une couronne, la grande coupole de verre du Palais des Constellations étincelant sous le soleil de l'après-midi d'une façon qui rendait difficile de la regarder directement. Autour de la coupole, les terrasses plates des maisons formaient une géographie horizontale que j'avais n'avais vue dans aucune autre ville d'Ilthara — des toits habités, des toits peuplés d'instruments que je ne reconnaissais pas encore mais dont je devinai la fonction, des toits tournés vers le haut avec une intention délibérée, comme si la ville regardait.
+Pardine et moi avons monté la route qui longe la falaise vers Hekorinth, et la ville nous est apparue par fragments — une tour d'abord, blanche et fine comme une bougie verticale, puis un toit, puis une rue en terrasse descendant vers le port, puis finalement l'ensemble, posé sur son promontoire calcaire comme une couronne, la grande coupole de verre du Palais des Constellations étincelant sous le soleil de l'après-midi d'une façon qui rendait difficile de la regarder directement. Autour de la coupole, les terrasses plates des maisons formaient une géographie horizontale que je n'avais vue dans aucune autre ville auparavant — des toits habités, des toits peuplés d'instruments que je ne reconnaissais pas encore mais dont je devinai la fonction, des toits tournés vers le haut avec une intention délibérée, comme si la ville regardait.
 
 Hekorinth regarde le ciel.
 
@@ -44,17 +44,17 @@ Je répondis que je cherchais d'abord une auberge, et que le port était seconda
 
 Il dit : « Descendre toujours à gauche, ne jamais prendre les passages couverts. »
 
-Je lui remerciai. Je regardai son carnet sans le vouloir vraiment, par réflexe professionnel — les carnets des gens sont des topographies de leur esprit, et ma formation de cartographe m'a donné une curiosité des représentations graphiques que je ne parviens pas à éteindre. Il s'en aperçut, avec la lucidité des gens qui observent les gens avec autant de soin qu'ils observent le ciel.
+Je le remerciai. Je regardai son carnet sans le vouloir vraiment, par réflexe professionnel — les carnets des gens sont des topographies de leur esprit, et ma formation de cartographe m'a donné une curiosité des représentations graphiques que je ne parviens pas à éteindre. Il s'en aperçut, avec la lucidité des gens qui observent les gens avec autant de soin qu'ils observent le ciel.
 
-Il dit : « Vous lisez les angles. »
+« Vous lisez les angles, » fit-il.
 
 Je répondis que j'essayais.
 
-Il dit : « Vous êtes astronome ? »
+« Vous êtes astronome ? »
 
 Je répondis : cartographe. Ancien cartographe, en voyage depuis quatre cent quinze jours. Je m'attendais au silence poli que cette précision provoque généralement — les gens entendent quatre cents jours et ne savent pas quoi en faire, c'est une durée qui n'entre dans aucune catégorie connue.
 
-Il dit : « Haldros lui-même fut cartographe avant d'être navigateur. Ce n'est pas anodin. »
+Il hocha la tête. « Haldros lui-même fut cartographe avant d'être navigateur. Ce n'est pas anodin. »
 
 Il s'appelait Tiras. Astronome au Second Observatoire de Haldria, attaché à l'Ordo Caelum depuis dix-huit ans. Son domaine était les étoiles fixes — ce que les astronomes haldriens appelaient les « étoiles de fond », par opposition aux planètes qui se déplacent : les constellations, les points stables du firmament que la navigation utilise comme repères parce qu'ils ne bougent pas.
 
@@ -82,17 +82,17 @@ L'instrument qu'il sortit de la remise attenante était ce que les astronomes ha
 
 Le ciel d'Haldria est exceptionnel. Je n'avais pas les mots pour cela avant d'être sur cette terrasse, face à l'est, au-dessus de la mer noire, sans aucune colline entre moi et l'horizon pour bloquer le regard. Les étoiles à cet endroit — ce soir-là, ce mois-là — étaient d'une densité que je n'avais pas perçue depuis les nuits du désert de Lythar, mais d'un type différent : plus froides, plus nettes, avec ce léger scintillement de l'air marin qui donne aux étoiles côtières une vie supplémentaire, une façon de clignoter légèrement sans perdre leur position.
 
-Tiras me laissa regarder un moment sans rien dire. Puis il pointa le réflecteur vers un point précis du ciel — je ne reconnaissais pas les constellations haldrienness dans leur totalité, mais je retrouvais les étoiles brillantes qui servent de repères dans toute la cartographie céleste que j'avais apprise à Gryndor.
+Tiras me laissa regarder un moment sans rien dire. Puis il pointa le réflecteur vers un point précis du ciel — je ne reconnaissais pas les constellations haldriennes dans leur totalité, mais je retrouvais les étoiles brillantes qui servent de repères dans toute la cartographie céleste que j'avais apprise à Gryndor.
 
-Il me dit : « Regardez cette étoile. »
+Il me fit signe. « Regardez cette étoile. »
 
 Je regardai dans le réflecteur. Une étoile blanche, légèrement bleutée, d'une magnitude ordinaire — ni la plus brillante ni la moins.
 
-Il dit : « Elle clignote. »
+« Elle clignote, » dit-il.
 
-Je regardai. Elle clignotait. Mais toutes les étoiles clignotent légèrement vu de la Terre, par l'effet de l'atmosphère — c'est pourquoi les astronomes préfèrent les nuits sans vent et les hauts plateaux où l'air est rare. Je dis cela.
+Je regardai. Elle clignotait. Mais toutes les étoiles clignotent légèrement vues du sol, par l'effet de l'atmosphère — c'est pourquoi les astronomes préfèrent les nuits sans vent et les hauts plateaux où l'air est rare. Je dis cela.
 
-Il dit : « Pas comme ça. »
+Il sourit à peine. « Pas comme ça. »
 
 Il prit le réflecteur, ajusta quelque chose sur l'échelle d'angles, puis me le rendit. À travers l'instrument maintenant calibré différemment, je vis ce qu'il voulait dire. La scintillation de cette étoile particulière n'était pas le frémissement continu de l'atmosphère — elle avait un rythme. Une variation périodique, lente, comme si la lumière passait et disparaissait avec une régularité que le hasard atmosphérique ne produit pas.
 
@@ -102,7 +102,7 @@ Quelque chose passait devant cette étoile.
 
 ---
 
-Tiras s'assit sur la balustrade de la terrasse. La mer était noire en dessous, le vent portait le sel et le froid. Il parla pendant une heure, ou peut-être deux — le temps que les astronomes comptent est le temps des constellations, non des horloges, et je perdis la mesure ordinaire.
+Tiras s'assit sur la balustrade de la terrasse. La mer était noire en dessous, le vent portait le sel et le froid. Il parla pendant une heure, ou peut-être deux — le temps que les astronomes comptent est le temps des constellations, non des horloges. Je perdis la mesure ordinaire.
 
 Il me dit que les astronomes d'Ordo Caelum avaient noté ces occlusions pour la première fois cinq ans auparavant. Une seule étoile, puis deux, puis sept. Des points différents du ciel, sans logique de position apparente. Les prêtres de l'Ordre avaient cherché des explications dans les textes anciens — des passages de planètes non cataloguées, des nuages de matière diffuse. Aucune de ces explications ne tenait face aux mesures. Les planètes ont des trajectoires prévisibles. Ces occlusions n'en avaient pas.
 
@@ -112,7 +112,7 @@ Il hésita avant de répondre. Pas par réticence — par précision. Il voulait
 
 Il dit : « Vingt-trois. Que nous ayons confirmées. »
 
-Je pensai à quelque chose qu'il m'avait dit plus tôt dans la soirée — que le ciel d'Haldria était, selon la lecture qu'en faisait l'Ordo Caelum, le ciel d'un monde qui avait perdu une lumière. Eldoria, qu'ils nommaient « la Mère du Ciel », est portée par leurs hymnes comme une présence qui n'éclaire plus le firmament telle qu'autrefois — une absence que les chroniques d'Haldria gardent comme un deuil fondateur sous le nom d'Arrachement. Selon les annales du Premier Observatoire, depuis cet événement, aucune nouvelle étoile n'a été cataloguée dans la constellation où les anciens situaient le foyer d'Eldoria. Le ciel y est lu comme fixe, fermé, stable dans son deuil — la lecture d'un peuple, pas une vérité qu'aucun mortel pourrait certifier.
+Je pensai à quelque chose qu'il m'avait dit plus tôt dans la soirée. Le ciel d'Haldria, selon la lecture qu'en faisait l'Ordo Caelum, était le ciel d'un monde qui avait perdu une lumière. Eldoria, qu'ils nommaient « la Mère du Ciel », est portée par leurs hymnes comme une présence qui n'éclaire plus le firmament comme autrefois — une absence que les chroniques d'Haldria gardent comme un deuil fondateur sous le nom d'Arrachement. Selon les annales du Premier Observatoire, depuis cet événement, aucune nouvelle étoile n'a été cataloguée dans la constellation où les anciens situaient le foyer d'Eldoria. Le ciel y est lu comme fixe, fermé, stable dans son deuil — la lecture d'un peuple, pas une vérité qu'aucun mortel ne pourrait certifier.
 
 Mais quelque chose y bougeait.
 
@@ -172,7 +172,7 @@ Non pas le plus haut ni le plus récent — le Premier, celui de Haldros, le fon
 
 À l'intérieur, le plafond de la salle principale était percé d'ouvertures étroites orientées avec une précision qui, au moment du solstice d'hiver, laissait entrer exactement un filet de lumière sur un point précis du sol — une dalle de marbre blanc au centre de la pièce, marquée d'un point gravé. Haldros avait passé des années à calculer cet alignement. Le jour le plus court de l'année, la lumière touchait ce point et uniquement ce point.
 
-Mais l'un des canaux d'observation était différent. Tiras me le montra — une ouverture dans le plafond orientée vers un point du ciel qui ne correspondait à aucune étoile cataloguée dans les cartes actuelles. Il me dit que c'était le point d'où venait la constellation inconnue que Haldros avait observée une seule nuit avant de ne plus jamais la revoir. La constellation dont la réapparition attendue avait motivé le choix de l'emplacement d'Hekorinth elle-même, et que les Astrologues de la Couronne scrutaient encore chaque nuit depuis les siècles.
+Mais l'un des canaux d'observation était différent. Tiras me le montra — une ouverture dans le plafond orientée vers un point du ciel qui ne correspondait à aucune étoile cataloguée dans les cartes actuelles. Il me dit que c'était le point d'où venait la constellation inconnue que Haldros avait observée une seule nuit avant de ne plus jamais la revoir. La constellation dont la réapparition attendue avait motivé le choix de l'emplacement d'Hekorinth elle-même, et que les Astrologues de la Couronne scrutaient encore chaque nuit depuis des siècles.
 
 Le canal d'observation était orienté exactement là.
 
@@ -180,7 +180,7 @@ Je regardai par le canal. Le ciel était encore bleu — nous étions en fin de 
 
 Mais quelque chose dans cet angle de ciel me parut familier.
 
-Je sortis ma carte céleste — une copie simplifiée de la Grande Carte de Gryndor, établie avec la précision des savants de cette nation — et je cherchais à localiser la zone vers laquelle le canal pointait. Après quelques minutes, je trouvai le point. Je le regardai sur la carte.
+Je sortis ma carte céleste — une copie simplifiée de la Grande Carte de Gryndor, établie avec la précision des savants de cette nation — et je cherchai à localiser la zone vers laquelle le canal pointait. Après quelques minutes, je trouvai le point. Je le regardai sur la carte.
 
 C'était là que se trouvaient cinq des vingt-trois étoiles qui clignotaient.
 
@@ -222,7 +222,7 @@ Il dit : « Si vous rencontrez quelqu'un qui comprend les étoiles et n'a pas pe
 
 Je suis descendu d'Hekorinth vers le port dans la lumière de l'aube. Pardine attendait, reposé, de mauvaise humeur comme toujours au moment de reprendre la route mais résigné à la nécessité. Les rues étaient presque vides — quelques pêcheurs vers le quai, une femme qui ouvrait les volets d'une échoppe de conserves marines. L'air était froid et salé, le vent venait du nord-est, les phares au loin continuaient leur langage régulier et indifférent.
 
-Le feuillet de Tiras est dans mon carnet, plié entre les pages du jour 408 et du jour 409. J'ai regardé les chiffres plusieurs fois depuis. Vingt-trois étoiles. Cinq dans le secteur que Haldros guettait depuis sa tour. Des occlusions rythmiques, non atmosphériques, non planétaires.
+Le feuillet de Tiras est dans mon carnet, plié entre deux pages. J'ai regardé les chiffres plusieurs fois depuis. Vingt-trois étoiles. Cinq dans le secteur que Haldros guettait depuis sa tour. Des occlusions rythmiques, non atmosphériques, non planétaires.
 
 Et cette chose que je ne sais pas encore nommer — ce mouvement dans le ciel que les astronomes de Zaldrin ont confirmé et que le roi sait et que l'Ordo Caelum garde.
 

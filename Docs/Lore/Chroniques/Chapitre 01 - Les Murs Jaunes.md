@@ -7,7 +7,7 @@ needs_review_for: []
 ---
 # Chapitre I — Les Murs Jaunes de Kharazir
 
-> *"Ils ont pris mes cartes mais pas mon œil. Ils ont volé mes accréditations mais pas ma mémoire. Ce qu'ils n'ont pas compris — ce que les institutions ne comprennent jamais — c'est que l'on ne cartographie pas les lieux avec les mains. On les cartographie avec la peur qu'on a eue de les perdre."*
+> *"Ils ont pris mes cartes mais pas mon œil. Ils ont volé mes accréditations mais pas ma mémoire. Ce qu'ils n'ont pas compris — ce que les institutions ne comprennent jamais — c'est que l'on ne cartographie pas les lieux avec les mains. On les cartographie avec les heures qu'on y a passées à regarder."*
 
 **Galenor — Kharazir, région de Hiliara**
 **Jour 1 du voyage**
@@ -16,7 +16,7 @@ needs_review_for: []
 
 Ce matin-là, la ville sentait l'herbe brûlée et la coriandre.
 
-Quelqu'un, dans la ruelle derrière l'atelier du fondeur, faisait cuire de la viande sur des braises mal éteintes. L'odeur montait par la fenêtre de ce qui était encore, pour quelques heures, ma chambre — une chambre de location, certes, depuis que l'on m'avait retiré le logement de fonction attaché aux Bibliothèques, mais une chambre qui portait encore la forme de moi-même dans le creux du matelas, dans l'encre séchée sur les lattes du parquet, dans la marque d'humidité en demi-lune laissée par ma carafe depuis sept ans. L'odeur de la viande grillée et des épices se mêlait à celle, plus froide, des feuilles de mes dernières cartes que j'avais laissées s'entasser dans un coin, n'ayant plus les accréditations nécessaires pour les remettre aux Archives.
+Quelqu'un, dans la ruelle derrière l'atelier du fondeur, faisait cuire de la viande sur des braises mal éteintes. L'odeur montait par la fenêtre de ce qui était encore, pour quelques heures, ma chambre — une chambre de location, certes, depuis que l'on m'avait retiré le logement de fonction attaché aux Bibliothèques, mais une chambre qui gardait encore mon empreinte dans le creux du matelas, dans l'encre séchée sur les lattes du parquet, dans la marque d'humidité en demi-lune laissée par ma carafe depuis sept ans. L'odeur de la viande grillée et des épices se mêlait à celle, plus froide, des feuilles de mes dernières cartes que j'avais laissées s'entasser dans un coin, n'ayant plus les accréditations nécessaires pour les remettre aux Archives.
 
 Ces cartes, ils sont venus les chercher à l'aube.
 
@@ -92,7 +92,7 @@ Elle est repartie dans la nuit. Je ne sais pas si je la reverrai. J'espère, pou
 
 ---
 
-L'autre personne que j'ai vue, ce dernier jour, sans lui parler — je ne pouvais pas lui parler, les circonstances ne le permettaient pas — était un homme que je connais de vue depuis trois ans et dont j'ignorais jusqu'à ce soir le nom exact.
+L'autre personne que j'ai vue, ce dernier jour, sans lui parler — je ne pouvais pas, les circonstances ne le permettaient pas — était un homme que je connais de vue depuis trois ans et dont j'ignorais jusqu'à ce soir le nom exact.
 
 Je l'avais aperçu pour la première fois dans une taverne du quartier des Caravaniers, discutant avec deux femmes dont le tissu jaune était cousu sur la manche droite au lieu de la gauche — une façon de le porter qui, je le savais vaguement, avait une signification que je n'avais jamais cherché à approfondir. Il était grand, d'une maigreur qui ressemblait moins à la privation qu'à une constitution naturelle, avec des mains qui semblaient trop grandes pour son corps et des yeux d'un brun très sombre dans un visage qui souriait très peu et observait beaucoup. Depuis, je l'avais croisé dans des endroits que l'on ne fréquente pas par hasard : la bibliothèque des Errants, dans le quartier nord, qui n'est pas une vraie bibliothèque mais une arrière-salle de taverne où certains textes circulent sans laisser de trace dans les registres officiels. L'escalier de derrière des Salles de Médiation, là où les porteurs de tissu jaune qui souhaitent porter plainte à la Cour de l'Équité sont généralement dirigés vers une antichambre d'attente indéfinie.
 

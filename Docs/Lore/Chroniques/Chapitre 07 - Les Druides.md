@@ -40,7 +40,7 @@ Il a hoché la tête comme si c'était une information qui confirmait quelque ch
 
 C'est ainsi que j'ai rencontré celui qui allait être mon guide, mon hôte et mon interlocuteur le plus déstabilisant depuis le début de ce voyage.
 
-Orvhel était druide du Vael'Kurash — « grand-druide », précisèrent-il plus tard avec une modestie qui ressemblait davantage à de la précision qu'à de la fausse humilité, il était le plus ancien de la clairière sacrée de Velathor, celle où les novices viennent recevoir leur premier tatouage, celle dont on dit que les arbres portent des visages. Il m'a proposé de l'accompagner jusqu'à sa clairière — « tu logeras dans la maison de ceux qui passent » — avec la même neutralité qu'il aurait proposé à la pluie de tomber là où il n'y avait rien.
+Orvhel était druide du Vael'Kurash — « grand-druide », précisa-t-il plus tard avec une modestie qui ressemblait davantage à de la précision qu'à de la fausse humilité. Il était le plus ancien de la clairière sacrée de Velathor, celle où les novices viennent recevoir leur premier tatouage, celle dont on dit que les arbres portent des visages. Il m'a proposé de l'accompagner jusqu'à sa clairière — « tu logeras dans la maison de ceux qui passent » — avec la même neutralité qu'il aurait proposé à la pluie de tomber là où il n'y avait rien.
 
 J'ai accepté. Je n'avais pas de raison de refuser, et beaucoup de raisons cartographiques de dire oui.
 
@@ -54,7 +54,7 @@ Sorcellerie ? Naïveté ? Je me suis posé la question sans pouvoir la trancher 
 
 Velathor. Il faut que j'essaie de décrire Velathor.
 
-Imaginez une clairière de trente pas de diamètre environ, mais la clairière n'est pas vide — elle est habitée par des arbres si anciens que leurs troncs, larges comme des maisons rondes, ont cessé de ressembler à des troncs et ressemblent davantage à des colonnes naturelles d'une cathédrale que nul architecte n'a conçue. La canopée au-dessus laisse passer la lumière en faisceaux obliques, et à l'heure où nous sommes arrivés — milieu d'après-midi, le soleil bas sur l'horizon forestier —, ces faisceaux traversaient la brume du sous-bois et faisaient de l'air quelque chose d'épaisseur presque liquide, dorée, trop belle pour être ordinaire.
+Imaginez une clairière de trente pas de diamètre environ, mais la clairière n'est pas vide — elle est habitée par des arbres si anciens que leurs troncs, larges comme des maisons rondes, ont cessé de ressembler à des troncs et ressemblent davantage à des colonnes naturelles d'une cathédrale que nul architecte n'a conçue. La canopée au-dessus laisse passer la lumière en faisceaux obliques, et à l'heure où nous sommes arrivés — milieu d'après-midi, le soleil bas sur l'horizon forestier —, ces faisceaux traversaient la brume du sous-bois et faisaient de l'air une matière d'une épaisseur presque liquide, dorée, trop belle pour être ordinaire.
 
 Les maisons — cinq ou six, difficile à compter parce que certaines étaient intégrées dans les troncs mêmes — étaient construites en bois sombre, pas coupé mais travaillé, courbé, assemblé selon une logique qui respectait la forme naturelle des matériaux plutôt que d'en imposer une. Les toits étaient couverts de mousse vivante. Devant chaque seuil, des pierres plates portaient des offrandes — baies séchées, brins d'herbe tressés, petits objets en bois sculptés — dont la disposition semblait obéir à une règle que je ne pouvais pas encore lire.
 
@@ -64,7 +64,7 @@ J'ai regardé ces visages le premier soir jusqu'à ce que la lumière disparaiss
 
 Un cartographe doit savoir quand il ne sait pas.
 
-J'écris cette phrase. Je la regarde. Elle me paraît juste. Je la note ici dans la marge en me promettant — sans pouvoir tenir la promesse, je le sais déjà, mais c'est l'intention qui compte parfois — de ne jamais l'oublier dans les pays où on me proposera des explications complètes, où la cohérence sera plus simple à obtenir, où la peur de ne pas savoir cherchera quelque part à se déposer.
+J'écris cette phrase. Je la regarde. Elle me paraît juste. Je la note ici dans la marge en me promettant — sans pouvoir tenir la promesse, je le sais déjà, mais c'est l'intention qui compte parfois — de ne jamais l'oublier dans les pays où on me proposera des explications complètes, où la cohérence sera plus simple à obtenir, où la peur de ne pas savoir cherchera un endroit où se déposer.
 
 ---
 
@@ -90,7 +90,7 @@ J'ai passé huit jours à Velathor.
 
 Orvhel m'a permis d'observer les activités quotidiennes des druides, à condition que je ne prenne pas de notes pendant les rituels eux-mêmes — je pouvais écrire après, de mémoire. Cette règle m'a forcé à une attention différente, une présence sans l'écran du papier entre moi et ce que je voyais. C'était inconfortable. C'était aussi, je dois l'admettre, plus efficace.
 
-Le Vael'Kurash, tel que je l'ai observé, n'est pas une religion de temples et de prêtres. C'est une pratique quotidienne, tissée dans chaque geste ordinaire. Orvhel saluait l'arbre à la lisière de la clairière chaque matin en posant sa main à plat sur l'écorce — pas une prière, pas un murmure, juste un geste de contact. Les novices nettoyaient le sentier qui menait à la source en replaçant les pierres qui avaient bougé, non pas pour l'ordre esthétique mais parce que les pierres, m'expliqua Keth, ont leurs habitudes, et les déplacer sans raison trouble l'esprit qui y réside. Quand l'un des druides coupait du bois pour le feu, il demandait d'abord — une phrase brève, murmuré, dont je ne comprenais pas les mots mais dont le ton ressemblait à celui d'une question posée à quelqu'un de respecté.
+Le Vael'Kurash, tel que je l'ai observé, n'est pas une religion de temples et de prêtres. C'est une pratique quotidienne, tissée dans chaque geste ordinaire. Orvhel saluait l'arbre à la lisière de la clairière chaque matin en posant sa main à plat sur l'écorce — pas une prière, pas un murmure, juste un geste de contact. Les novices nettoyaient le sentier qui menait à la source en replaçant les pierres qui avaient bougé, non pas pour l'ordre esthétique mais parce que les pierres, m'expliqua Keth, ont leurs habitudes, et les déplacer sans raison trouble l'esprit qui y réside. Quand l'un des druides coupait du bois pour le feu, il demandait d'abord — une phrase brève, murmurée, dont je ne comprenais pas les mots mais dont le ton ressemblait à celui d'une question posée à quelqu'un de respecté.
 
 Est-ce que cela fonctionnait ? Est-ce que les esprits répondaient, vraiment ?
 
@@ -143,6 +143,8 @@ Je l'ai mise dans la poche gauche de ma veste, là où je porte mon compas depui
 J'ai quitté Trinoria par le sud, en direction de Valoria, en me demandant si les arbres de Velathor me regardaient partir. Puis, plus honnêtement, en me demandant si je me souciais de la réponse — et découvrant, avec une légère surprise, que oui.
 
 Cela aussi, c'est nouveau.
+
+J'ai dormi la dernière nuit avant la frontière dans une grotte basse, en lisière du dernier bois trinorien — un abri de chasseur que Keth m'avait indiqué, avec un foyer noirci par cent feux antérieurs et une odeur particulière que je n'ai pas su nommer, à mi-chemin entre la résine et le champignon humide, une odeur qui restait dans la laine de la couverture et que je retrouverais sur mes vêtements pendant plusieurs jours après. Je note la grotte parce qu'elle existe, et parce que les abris qu'on emprunte sans payer comptent dans la cartographie d'un voyage autant que les villes où l'on s'arrête.
 
 ---
 

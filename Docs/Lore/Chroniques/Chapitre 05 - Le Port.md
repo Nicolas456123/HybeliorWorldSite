@@ -14,19 +14,19 @@ needs_review_for: []
 
 ---
 
-Il y a une odeur que l'on ne reconnaît qu'une fois, et qui ne vous quitte plus jamais. L'odeur de la mer au petit matin, lorsque le sel se mêle au goudron chaud des coques, lorsque les cordages mouillés fument dans la première lumière et que le vent, encore froid, apporte avec lui quelque chose d'indéfinissable — une promesse, ou peut-être une menace, les deux étant si souvent la même chose. Ce matin-là, au port de Vyndralith, j'ai compris que je n'avais pas encore su ce que signifiait partir. Non pas fuir, comme je l'avais fait à Kharazir ; non pas être rejeté, comme à Lumasar ; non pas trouver refuge provisoire, comme chez les cavaliers de Ventera ; non pas être bouleversé, comme par les artisans de Seraphia. Partir, vraiment partir — c'est tout autre chose. C'est poser ses mains à plat sur la rambarde d'un navire et sentir le bois vibrer sous les vagues à venir, et savoir que la terre que l'on quitte ne sera plus jamais la même quand on reviendra, parce que c'est soi qui aura changé, pas elle.
+Il y a une odeur que je ne saurais plus oublier maintenant que je l'ai sentie une fois. L'odeur de la mer au petit matin, lorsque le sel se mêle au goudron chaud des coques, lorsque les cordages mouillés fument dans la première lumière et que le vent, encore froid, apporte avec lui quelque chose que je ne sais pas nommer. Ce matin-là, au port de Vyndralith, j'ai compris que je n'avais pas encore su ce que signifiait partir. Non pas fuir, comme je l'avais fait à Kharazir ; non pas être rejeté, comme à Lumasar ; non pas trouver refuge provisoire, comme chez les cavaliers de Ventera ; non pas être bouleversé, comme par les artisans de Seraphia. Partir, vraiment partir — c'est tout autre chose. C'est poser ses mains à plat sur la rambarde d'un navire à quai et sentir le bois vibrer sous le ressac, et savoir que la terre que l'on quitte ne sera plus jamais la même quand on reviendra, parce que c'est soi qui aura changé, pas elle.
 
 Je n'ai pas dormi. Ce n'était pas l'insomnie de l'anxiété — celle que je connaissais bien, celle qui me rongeait à Kharazir lorsque mon exil n'était encore que rumeur. C'était quelque chose de plus propre, de plus vaste. Une veille de soldat avant la bataille, peut-être, si j'avais su ce qu'est une bataille.
 
-J'ai passé la nuit sur le quai nord de Vyndralith, assis sur un bollard de fer rouillé, à regarder les lanternes se balancer à la proue des navires amarrés. Il y en avait sept. Sept coques sombres sur l'eau noire, sept lumières jaunes qui oscillaient au rythme de la marée, et derrière elles, au bout du bras de terre que l'on appelle la Pointe des Explorateurs, le phare. Haut, blanc dans l'obscurité, sa lumière tournante balayant la mer toutes les trente secondes avec la régularité d'un coeur de pierre. Ce phare était un temple, m'avait-on dit. Un temple de la Via Ventus — la Voie du Souffle, la religion maritime qui gouverne les âmes des gens de Solena aussi sûrement que les Capitaines de Port gouvernent leurs corps. L'autel se trouvait au sommet, ouvert aux quatre vents, et le gardien du phare était autant prêtre que technicien.
+J'ai passé la nuit sur le quai nord de Vyndralith, assis sur un bollard de fer rouillé, à regarder les lanternes se balancer à la proue des navires amarrés. Il y en avait sept. Sept coques sombres sur l'eau noire, sept lumières jaunes qui oscillaient au rythme de la marée, et derrière elles, au bout du bras de terre que l'on appelle la Pointe des Explorateurs, le phare. Haut, blanc dans l'obscurité, sa lumière tournante balayant la mer toutes les trente secondes avec une régularité que rien ne paraissait pouvoir interrompre. Ce phare était un temple, m'avait-on dit. Un temple de la Via Ventus — la Voie du Souffle, la religion maritime qui gouverne les âmes des gens de Solena aussi sûrement que les Capitaines de Port gouvernent leurs corps. L'autel se trouvait au sommet, ouvert aux quatre vents, et le gardien du phare était autant prêtre que technicien.
 
 J'ai rencontré ce gardien la veille au soir.
 
-Son nom était Thelorn. Vieux, très vieux, avec une peau tannée comme du cuir naval et des yeux d'un bleu si pâle qu'ils semblaient presque transparents — le bleu des eaux profondes, pas celui des plages. Il montait ses marches en colimaçon avec une lenteur méthodique, une main sur la rampe de corde, l'autre portant sa lampe à huile, et il s'arrêtait à chaque palier non par essoufflement mais, compris-je, par habitude — pour regarder par chaque fenêtre étroite, pour jauger le ciel, pour lire quelque chose dans l'obscurité que je ne savais pas lire.
+Son nom était Thelorn. Vieux, très vieux, avec une peau tannée par des décennies de sel et de soleil, et des yeux d'un bleu si pâle qu'ils semblaient presque transparents. Il montait ses marches en colimaçon avec une lenteur méthodique, une main sur la rampe de corde, l'autre portant sa lampe à huile, et il s'arrêtait à chaque palier non par essoufflement mais, compris-je, par habitude — pour regarder par chaque fenêtre étroite, pour jauger le ciel, pour lire quelque chose dans l'obscurité que je ne savais pas lire.
 
 Je l'avais suivi. Personne ne m'en avait empêché ; les phares de la Via Ventus, m'avait expliqué une femme dans la taverne, sont ouverts à quiconque veut monter. La lumière appartient à tous.
 
-En haut, le vent était cinglant. La plateforme circulaire entourait la lanterne — un mécanisme d'horlogerie huilé, des miroirs polis qui multipliaient la flamme en un faisceau tranchant comme une lame. Thelorn avait vérifié les miroirs avec la minutie d'un cartographe vérifiant ses relevés, passant un chiffon sur chaque surface, ajustant un angle, reculant pour apprécier le résultat. Puis il s'était tourné vers la mer et avait dit, sans me regarder, comme s'il continuait une conversation entamée bien avant mon arrivée :
+En haut, le vent était cinglant. La plateforme circulaire entourait la lanterne — un mécanisme d'horlogerie huilé, des miroirs polis qui multipliaient la flamme en un faisceau étroit dont je suivais le tracé sur l'eau. Thelorn avait vérifié les miroirs avec la minutie d'un cartographe vérifiant ses relevés, passant un chiffon sur chaque surface, ajustant un angle, reculant pour apprécier le résultat. Puis il s'était tourné vers la mer et avait dit, sans me regarder, comme s'il continuait une conversation entamée bien avant mon arrivée :
 
 — Vous traversez demain.
 
@@ -66,7 +66,7 @@ Elle avait levé les yeux. Évalué. Regardé mon sac, ma cape, mes mains qui n'
 
 Elle avait légèrement souri à ce mot, *ancien*, comme s'il lui disait plus que je n'avais voulu en révéler.
 
-— Je pars dans deux jours, avait-elle dit. Pour Tyndara d'abord, puis au-delà si les vents sont bons. Je prends des passagers si ils ne prennent pas de place, ne mangent pas plus que leur part et ne font pas de catastrophe sur le pont.
+— Je pars dans deux jours, avait-elle dit. Pour Tyndara d'abord, puis au-delà si les vents sont bons. Je prends des passagers s'ils ne prennent pas de place, ne mangent pas plus que leur part et ne font pas de catastrophe sur le pont.
 
 — Je sais me tenir sur un pont.
 
@@ -96,7 +96,7 @@ Elle avait haussé les épaules.
 
 Aldren, le plus âgé, avait traduit cela plus précisément : une cinquantaine de brasses, parfois plus. Assez profond pour que la lumière devienne verte, puis bleue, puis pour que l'on commence à voir des choses que la lumière normale n'éclaire pas.
 
-Je les avais regardés plonger. La barque était ancrée à deux cents toises du quai, sur une zone qu'ils connaissaient. Calysse avait saisit sa masse de plomb, pris une longue inspiration — si longue que je l'avais vue gonfler visiblement, ses côtes s'écarter sous sa chemise légère — et elle était descendue verticalement, vite, sans un mot, sans un regard en arrière. La corde avait filé entre les mains d'Ormith, qui la tenait avec la décontraction de quelqu'un qui fait la même chose depuis si longtemps que son corps la fait seul.
+Je les avais regardés plonger. La barque était ancrée à deux cents toises du quai, sur une zone qu'ils connaissaient. Calysse avait saisi sa masse de plomb, pris une longue inspiration — si longue que je l'avais vue gonfler visiblement, ses côtes s'écarter sous sa chemise légère — et elle était descendue verticalement, vite, sans un mot, sans un regard en arrière. La corde avait filé entre les mains d'Ormith, qui la tenait avec la décontraction de quelqu'un qui fait la même chose depuis si longtemps que son corps la fait seul.
 
 Il y avait eu deux minutes de silence. L'eau se refermait sur elle, verte et opaque. Puis un tirage sur la corde, et ils l'avaient remontée — elle tenait dans sa main gauche quelque chose de sombre, de corallien, qui avait la forme d'un disque brisé.
 
@@ -136,13 +136,13 @@ Elle était repartie vers la cuisine, et j'avais réfléchi à cette phrase plus
 
 Le matin du Jour 62, j'étais sur le quai deux heures avant l'heure fixée par Vela Morn. Non par excès de zèle, mais parce que je ne dormais pas. Je voulais voir la ville s'éveiller, voir le port reprendre vie, entendre les sons du matin que je n'entendrais plus de cette manière, depuis ce point, avec ces gens.
 
-La ville s'était réveillée exactement comme je le savais — à grand bruit, à grande odeur, avec une énergie presque brutale. Les premières lumières aux fenêtres, les premières silhouettes sur les quais, les premières voix qui se croisaient dans l'obscurité finissante. Un garçon d'à peine douze ans courait avec un message entre les dents — rouleau de parchemin serré comme un os. Deux femmes portaient des paniers de filets à réparer. Un homme dormait encore contre un bollard, enroulé dans un manteau de grosse laine, insensible au bruit.
+La ville s'était réveillée exactement comme je le savais — à grand bruit, à grande odeur, avec une énergie presque brutale. Les premières lumières aux fenêtres, les premières silhouettes sur les quais, les premières voix qui se croisaient dans l'obscurité finissante. Un garçon d'à peine douze ans courait avec un message entre les dents — un rouleau de parchemin lié d'une ficelle. Deux femmes portaient des paniers de filets à réparer. Un homme dormait encore contre un bollard, enroulé dans un manteau de grosse laine, insensible au bruit.
 
 À l'est, très lentement, la nuit se dissolvait en rose sale. Les nuages bas de la côte prenaient des couleurs que je n'avais vues nulle part ailleurs — ce mélange de gris-vert et d'or pâle qui est la signature des levers de soleil marins, quand la lumière traverse l'humidité de l'air et se brise en teintes douces.
 
 J'avais sorti mon carnet. Non pour dessiner — je n'avais plus de raison professionnelle de dessiner — mais pour noter ce que je voyais, dans mes mots, pour le retrouver plus tard. Le phare à ma gauche qui finissait son travail de nuit, sa lumière moins urgente dans le jour naissant. Les navires qui oscillaient. L'odeur du café qui filtrait d'une échoppe encore fermée.
 
-Et ce sentiment — difficile à nommer, difficile à placer dans une case — ce sentiment de tenir un instant entre deux temps. Sorin Valthen exilé de Kharazir avait traversé Galenor du nord au sud, du désert de Kharazir aux routes terrestres, des collines de Lumasar aux plaines de Ventera, jusqu'aux forges muettes de Seraphia, jusqu'ici, jusqu'à cette mer. Derrière moi : un continent entier dont j'avais appris le poids et la diversité. Devant moi : le reste du monde, dont j'ignorais encore tout.
+Et ce sentiment — difficile à nommer, difficile à placer dans une case — ce sentiment de tenir un instant entre deux temps. Sorin Valthen exilé de Kharazir avait traversé Galenor du nord au sud, du désert de Kharazir aux routes terrestres, des collines de Lumasar aux plaines de Ventera, jusqu'aux cathédrales de Seraphia, jusqu'ici, jusqu'à cette mer. Derrière moi : un continent entier dont j'avais appris le poids et la diversité. Devant moi : le reste du monde, dont j'ignorais encore tout.
 
 Vela Morn était arrivée exactement à l'heure dite. Précise comme ses calculs de vent, j'allais l'apprendre. Elle portait sa veste de capitaine — cuir épais, col haut — et un sac qu'elle avait lancé à un de ses hommes sans même regarder s'il était là pour l'attraper. Il l'avait attrapé. Les équipages de bons capitaines développent des réflexes.
 
@@ -158,11 +158,9 @@ Elle avait disparu à bord, et j'étais resté sur le quai.
 
 ---
 
-Ce fut là, dans cette attente, que Thelorn m'avait retrouvé. Le vieux gardien du phare descendait de sa tour, sa nuit finie, marchant vers le port avec la régularité d'un homme dont les habitudes ont été taillées dans la roche. Il m'avait vu depuis la distance, avait légèrement modifié sa trajectoire pour passer à côté de moi. Il n'avait rien dit de particulier. Il avait juste posé une main sur mon épaule — brève, ferme, la pression de quelqu'un qui comprend ce que représente un départ sans avoir besoin qu'on l'explique — et il avait continué son chemin.
+Ce fut là, dans cette attente, que Thelorn m'avait retrouvé. Le vieux gardien du phare descendait de sa tour, sa nuit finie, marchant vers le port avec la régularité d'un homme qui a fait le même trajet chaque matin depuis trente ans. Il m'avait vu depuis la distance, avait légèrement modifié sa trajectoire pour passer à côté de moi. Il n'avait rien dit de particulier. Il avait juste posé une main sur mon épaule — brève, ferme, la pression de quelqu'un qui comprend ce que représente un départ sans avoir besoin qu'on l'explique — et il avait continué son chemin.
 
-Ce geste muet valait plus que n'importe quel discours.
-
-La Via Ventus enseigne que voyager est une forme de prière. Je ne suis pas homme de religion — ma formation de cartographe m'a donné le goût de ce qui se mesure et le scepticisme envers ce qui ne se mesure pas. Mais debout sur ce quai, regardant la proue du *Souffle d'Etheira* pointer vers l'est dans l'aube rose et grise, j'avais compris quelque chose que mes instruments n'auraient jamais pu me donner. Le voyage lui-même est la prière. Non pas la destination, non pas le retour, mais le mouvement — le fait de se lever et de marcher vers ce que l'on ne connaît pas encore.
+La Via Ventus enseigne que voyager est une forme de prière. Je ne suis pas homme de religion — ma formation de cartographe m'a donné le goût de ce qui se mesure et le scepticisme envers ce qui ne se mesure pas. Mais debout sur ce quai, regardant la proue du *Souffle d'Etheira* pointer vers l'est dans l'aube rose et grise, j'avais entrevu quelque chose que mes instruments n'auraient jamais pu me donner. Pour eux, peut-être, le voyage lui-même tient lieu de prière — non pas la destination, non pas le retour, mais le mouvement, le fait de se lever et de marcher vers ce que l'on ne connaît pas encore. Je note cela comme on rapporte une formule entendue, sans encore décider si je la fais mienne.
 
 Soixante-deux jours depuis Kharazir. Soixante-deux jours depuis la nuit de l'exil, depuis la porte fermée et les papiers arrachés de mes mains et les mots que je ne veux pas répéter ici, qui brûlaient encore il y a un mois et qui brûlent moins maintenant — pas parce que la blessure a guéri, mais parce que d'autres choses ont grandi autour d'elle, comme du bois autour d'une épine. Elle est toujours là. Elle fait moins de place dans la journée.
 
@@ -170,11 +168,11 @@ Quand les voiles du *Souffle d'Etheira* se sont gonflées — d'un blanc ébloui
 
 Je m'attendais à quelque chose de dramatique. Une émotion tranchante, peut-être des larmes, certainement une pensée profonde sur ce que je laissais.
 
-Ce que j'avais resenti était plus simple et plus étrange à la fois. Une curiosité. Une légèreté. Comme si la mer, en prenant le navire, prenait aussi une part du poids que je portais depuis soixante-deux jours, et que ce poids s'en allait dans l'eau verte sous la coque.
+Ce que j'avais ressenti était plus simple et plus étrange à la fois. Une curiosité. Une légèreté. Comme si la mer, en prenant le navire, prenait aussi une part du poids que je portais depuis soixante-deux jours, et que ce poids s'en allait dans l'eau verte sous la coque.
 
 La côte de Galenor — mes deux mois, mes routes, mes visages, la lumière particulière de ses matins, le goût de son vin et l'odeur de ses ports — la côte de Galenor s'est rétrécie, s'est aplatie, est devenue une ligne. Puis une ombre. Puis rien.
 
-Derrière chaque horizon se cache un autre horizon.
+À l'est, il y avait une autre ligne, déjà — pas Tyndara encore, juste l'arête d'un nuage qui ressemblait à une côte.
 
 ---
 

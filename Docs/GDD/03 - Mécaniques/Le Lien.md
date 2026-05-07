@@ -11,7 +11,7 @@ implementation: "[[Lien System]]"
 
 > *« Je n'ai pas pris ma Voie. Elle m'a entendu. Toute ma vie j'ai cru qu'apprendre la magie, c'était apprendre à ordonner. J'ai compris, le jour de mon premier Lien, que c'était apprendre à se taire assez longtemps pour qu'une voix passe à travers moi. »*
 >
-> *— Sœur Lyrienne d'Aldenor, Liée à Spiritus, journal*
+> *— Sœur Lyrienne de Trinoria, Liée à Spiritus, journal*
 
 ---
 

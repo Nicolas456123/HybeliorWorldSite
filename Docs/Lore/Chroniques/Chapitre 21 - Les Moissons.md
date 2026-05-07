@@ -18,7 +18,7 @@ L'odeur est venue avant le paysage.
 
 J'avais quitté Pyrtara depuis seize jours — seize jours de descente depuis les plateaux volcaniques, de gorges de tuf rouge qui s'ouvraient peu à peu sur quelque chose de plus doux, de plus horizontal, de moins agité. L'air de Pyrtara est chargé, compact, il pèse sur la poitrine comme une main bienveillante mais ferme ; l'air d'Ilthara centrale est différent, il arrive par vagues, il porte. Ce matin-là, deux heures avant d'apercevoir les premiers champs, j'ai su que j'entrais dans Sylthara par le seul moyen de mon nez : une odeur de pain, de terre humide, d'herbe coupée et, quelque chose que j'ai mis un moment à identifier, une note sucrée et légèrement fermentée que je reconnus finalement comme du moût de raisin en début de travail. Des cuveries ouvertes quelque part, de l'autre côté d'une ligne de collines que je ne voyais pas encore. La fermentation agricole comme signal d'arrivée.
 
-Pardine marchait d'un pas différent. Il y a des nuances dans l'allure d'un âne que j'ai appris à lire avec la même attention que les lignes d'un tracé topographique — une façon de poser le sabot qui indique la confiance dans le sol, l'angle des oreilles qui signale la teneur de l'air. Depuis le matin, les oreilles de Pardine étaient détendues et légèrement écartées, ce qui est, dans son vocabulaire corporel, l'équivalent d'un sourire. Il sentait l'herbe. Il sentait l'eau douce. Il sentait quelque chose de comestible et d'abondant, et son corps répondait à cette information avant que mon esprit y accède.
+Pardine marchait d'un pas différent. Il y a des nuances dans l'allure d'une mule que j'ai appris à lire avec la même attention que les lignes d'un tracé topographique — une façon de poser le sabot qui indique la confiance dans le sol, l'angle des oreilles qui signale la teneur de l'air. Depuis le matin, les oreilles de Pardine étaient détendues et légèrement écartées, ce qui est, dans son vocabulaire corporel, l'équivalent d'un sourire. Elle sentait l'herbe. Elle sentait l'eau douce. Elle sentait quelque chose de comestible et d'abondant, et son corps répondait à cette information avant que mon esprit y accède.
 
 Nous avons franchi la ligne de crête, et Amaroth s'est ouverte devant nous.
 
@@ -32,7 +32,7 @@ Entre les vignes, des vergers. Des pommiers, des poiriers, des noisetiers dont l
 
 Le premier village que j'atteignis était Ydralis — un village de vergers perché sur une colline d'Amaroth, connu, m'avait-on dit à la dernière auberge pyrtarienne, pour ses pommes d'une douceur inhabituelle dont la peau brille légèrement au soleil. Je m'en étais souvenu avec le scepticisme habituel que j'apporte aux légendes locales sur la qualité exceptionnelle des productions locales. Chaque endroit de ce monde produit quelque chose d'exceptionnel, si l'on en croit ses habitants.
 
-Mais les pommes d'Ydralis brillaient effectivement. Pas d'un éclat miraculeux, pas d'une façon qui exigerait une explication surnaturelle — d'une façon légèrement différente de la façon dont les autres pommes brillent, une réflexion qui avait quelque chose de nacré, comme si la peau avait retenu un peu de l'aube et la redistribuait dans la lumière du matin. Un détail. Mais un détail précis, et les détails précis méritent attention.
+Mais les pommes d'Ydralis brillaient effectivement. Pas d'un éclat miraculeux, pas d'une façon qui exigerait une explication surnaturelle — d'une façon légèrement différente de la façon dont les autres pommes brillent, une réflexion qui avait quelque chose de nacré, due sans doute à un dépôt de cire fine sur la peau plus dense qu'à l'ordinaire. Un détail. Mais un détail précis, et les détails précis méritent attention.
 
 ---
 
@@ -80,11 +80,11 @@ Puis il marqua un silence, et quelque chose dans ce silence était différent de
 
 Je levai les yeux.
 
-Il dit que les Anciens du village en parlaient entre eux depuis trois saisons. Que les récoltes restaient bonnes — Rota Mundi était toujours là, le cycle continuait —, mais que quelque chose dans la façon dont la terre répondait à la graine avait légèrement changé. Pas beaucoup. Pas assez pour que les registres du Conseil des Moissons le notent comme un problème. Mais les gens qui connaissent le sol depuis soixante ans le sentent. La germination qui prenait sept jours en prenait maintenant neuf ou dix. Les semis du seigle d'automne, qui sortaient de terre avec une régularité d'horloge, avaient cette année émergé irrégulièrement — certains plants en avance, d'autres en retard de deux semaines, comme si quelque chose dans la signalisation interne du sol avait été légèrement brouillée.
+Il dit que les Anciens du village en parlaient entre eux depuis trois saisons. Que les récoltes restaient bonnes — Rota Mundi était toujours là, le cycle continuait —, mais que quelque chose dans la façon dont la terre répondait à la graine avait légèrement changé. Pas beaucoup. Pas assez pour que les registres du Conseil des Moissons le notent comme un problème. Mais les gens qui connaissent le sol depuis soixante ans le sentent. La germination qui prenait sept jours en prenait maintenant neuf ou dix. Les semis du seigle d'automne, qui sortaient de terre avec une régularité d'horloge, avaient cette année émergé irrégulièrement — certains plants en avance, d'autres en retard de deux semaines, comme si la cadence par laquelle le sol appelle la graine à lever s'était légèrement déréglée.
 
 Il retourna la poignée de terre dans sa paume, la regarda encore. Il dit : « La terre hésite. Comme quelqu'un qui entend un bruit au loin et ne sait pas encore d'où il vient. »
 
-Je pensai à Ordavan. Au sol vitrifié, à cette lumière noire et froide qui montait des profondeurs comme une radiographie d'un corps malade. Je pensai aux Déliés de Pyrtara, au doute qui grondait sous leur espoir. Je pensai aux mystères qui s'accumulaient depuis le début de ce voyage comme des notes dans un carnet que je remplissais sans encore en avoir la clé.
+Je pensai à Ordavan. Au sol vitrifié, à cette lumière noire et froide qui montait des profondeurs et révélait par transparence quelque chose de malade en dessous. Je pensai aux Déliés de Pyrtara, au doute qui grondait sous leur espoir. Je pensai aux mystères qui s'accumulaient depuis le début de ce voyage comme des notes dans un carnet que je remplissais sans encore en avoir la clé.
 
 Je ne dis rien à Talvind. Ce n'était pas sa charge de porter ces connexions, et elles n'étaient peut-être pas des connexions du tout. Peut-être que la terre d'Amaroth hésitait simplement parce que les saisons changeaient, parce que le monde agricole connaissait ses propres cycles d'incertitude indépendants de tout ce que j'avais vu depuis le jour 1. Peut-être.
 
@@ -128,4 +128,4 @@ Je notai ces observations avec soin dans mon carnet, en essayant de ne pas leur 
 
 Les connexions, en ce trois cent quatre-vingt-quinzième jour, commençaient à ressembler à quelque chose. Je ne savais pas encore quoi. Mais le dessin prenait forme, comme prend forme une carte que l'on n'a pas encore regardée depuis assez loin pour en voir la cohérence.
 
-J'ai mangé la dernière pomme d'Ydralis ce soir-là, assis contre une haie à mi-chemin entre Sylthara et Haldria. Elle avait le goût de trois jours de paix, et d'une question qui n'était pas encore prête d'être posée.
+J'ai mangé la dernière pomme d'Ydralis ce soir-là, assis contre une haie à mi-chemin entre Sylthara et Haldria. Elle avait le goût de trois jours de paix, et d'une question qui n'était pas encore près d'être posée.

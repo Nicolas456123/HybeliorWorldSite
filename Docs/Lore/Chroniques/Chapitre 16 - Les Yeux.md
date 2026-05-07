@@ -16,13 +16,13 @@ needs_review_for: []
 
 Le premier matin d'Avalor, je ne vis rien.
 
-Pas par absence — par présence de quelque chose de trop dense pour permettre la vue. La brume s'était installée sur la forêt au cours de la nuit avec la patience des choses qui ne se pressent pas, et à l'aube elle couvrait tout : les cimes, les chemins, l'espace entre les troncs. Je me réveillai dans la grange de Fandor — le village-sas, le poste de transit pour les étrangers autorisés à entrer, l'endroit où Avalor vous évalue avant de vous laisser avancer —, et par la fenêtre basse, je ne voyais que du blanc. Un blanc épais, habité, pas le blanc de l'absence mais celui de la présence maximale. La forêt cachée mais pas absente. Davantage là que si elle avait été visible.
+Pas par absence — par présence de quelque chose de trop dense pour permettre la vue. La brume s'était installée sur la forêt au cours de la nuit avec la patience des choses qui ne se pressent pas, et à l'aube elle couvrait tout : les cimes, les chemins, l'espace entre les troncs. Je me réveillai dans la grange de Fandor — le village-sas, le poste de transit pour les étrangers autorisés à entrer, l'endroit où Avalor vous évalue avant de vous laisser avancer —, et par la fenêtre basse, je ne voyais que du blanc. Un blanc épais, habité. La forêt cachée mais pas absente.
 
 J'attendis que la brume se lève. Elle ne se leva pas.
 
 La femme qui m'avait accordé l'hébergement la veille — Varel, l'une des habitantes de Fandor que le lore d'Avalor entraîne à comprendre l'étranger, et qui parlait cinq langues avec l'accent de quelqu'un pour qui la langue n'est jamais une fin mais toujours un outil — frappa à ma porte et m'apporta une infusion dans un bol de terre cuite encore chaud. Elle dit, en galenorien, avec l'efficacité de quelqu'un qui a dit la même chose à de nombreux voyageurs avant moi : « La brume n'est pas météorologique. Elle vous évalue. Quand la forêt sera prête, elle se lèvera. »
 
-Je bus l'infusion. Elle avait un fond âcre que je ne reconnus pas — quelque chose de végétal et d'amer, avec un arrière-goût qui persistait sur la langue comme une question.
+Je bus l'infusion. Elle avait un fond âcre que je ne reconnus pas — quelque chose de végétal et d'amer, avec un arrière-goût qui persistait sur la langue plus longtemps qu'il n'aurait dû.
 
 Je demandai à Varel ce que c'était.
 
@@ -36,7 +36,7 @@ La brume se leva deux heures plus tard. Pas graduellement — d'un coup, comme s
 
 Il n'y a pas de langue adéquate pour l'Indelite.
 
-Je veux dire ceci de façon précise, pas comme une flatterie ou un aveu de défaite littéraire : l'Indelite est un lieu dont la réalité dépasse les instruments de description que j'utilise. Je suis cartographe — j'ai l'habitude de réduire la réalité physique à des symboles, à des lignes, à des mesures. Ma formation m'a appris à regarder un territoire et à en extraire l'essentiel, à comprendre ce que la carte doit dire et à sacrifier ce qui encombre. Dans l'Indelite, je ne savais pas ce que la carte devrait sacrifier, parce que tout semblait essentiel — pas comme un luxe, pas comme un ornement, mais comme une information.
+Je veux dire ceci de façon précise, pas comme une flatterie ou un aveu de défaite littéraire : l'Indelite est un lieu dont la réalité dépasse les instruments de description que j'utilise. Je suis cartographe — j'ai l'habitude de réduire la réalité physique à des symboles, à des lignes, à des mesures. Ma formation m'a appris à regarder un territoire et à en extraire l'essentiel, à comprendre ce que la carte doit dire et à sacrifier ce qui encombre. Dans l'Indelite, je ne savais pas ce que la carte devrait sacrifier. Tout semblait essentiel — pas comme un luxe, pas comme un ornement, mais comme une information.
 
 Les arbres : des chênes dont les troncs mesuraient dix mètres de circonférence, des hêtres dont les racines affleuraient au sol et formaient des architectures que l'on aurait prises pour de la construction intentionnelle si l'on n'avait pas su qu'elles poussaient ainsi depuis des siècles. Mais ce n'était pas leur taille qui m'arrêtait — la taille est mesurable, la taille entre dans la carte. C'était autre chose.
 
@@ -90,7 +90,7 @@ Elle dit : « Nous l'appelons autrement. Mais oui. » Elle regarda ses propres m
 
 Elle leva les yeux vers moi. En mars, la couleur de ses iris était un vert si profond qu'il semblait avoir de la densité — quelque chose qu'on aurait pu plonger la main dans. Elle dit : « Theron — mon prédécesseur — m'a dit, avant de se taire pour de bon, que la dernière fois que les esprits avaient été ainsi, c'était avant ce que les druides appellent le Silence de Wildoria, il y a quatre cents ans. Trois générations d'esprits qui cessèrent de parler. Selon les chroniques druidiques, la mémoire de la cause s'est dispersée à mesure que les générations se sont succédé. Mais les racines de Zorathis, elles, en gardent l'empreinte. »
 
-Je notai cela dans mon carnet, les mains légèrement tremblantes que je maîtrisai, parce que c'était la confirmation la plus directe que j'avais eue depuis le début du voyage. Pas une allusion. Pas une impression. Une Archidruide qui me disait que les esprits anciens murmuraient quelque chose de nouveau depuis l'automne.
+Je notai cela dans mon carnet, les mains légèrement tremblantes, parce que c'était la confirmation la plus directe que j'avais eue depuis le début du voyage. Pas une allusion. Pas une impression. Une Archidruide qui me disait que les esprits anciens murmuraient quelque chose de nouveau depuis l'automne.
 
 Le même automne où les vibrations d'Alkaran s'étaient intensifiées, selon ce que les mineurs m'avaient rapporté.
 
@@ -208,9 +208,11 @@ Mais le sentiment d'être observé se modifia légèrement — moins de neutrali
 
 Haldria commençait là où la forêt s'arrêtait — brusquement, sans transition, avec la netteté des frontières politiquement administrées. D'un côté, l'arbre. De l'autre, la route de pierre.
 
-L'aristocratie marchande d'Haldria avait construit ses routes avec la précision d'un peuple qui mesure la valeur en temps de transit. Les pavés étaient larges, bien entretenus, avec des bornes tous les deux kilomètres indiquant les distances jusqu'aux principales villes. Après les chemins forestiers d'Avalor — les chemins non tracés, les directions communiquées par les Voix et les Gardiens, les sols de mousse qui gardaient la mémoire de vos pas mais ne l'exposaient pas —, la route d'Haldria me parut presque choquante dans son explicite. Voici où vous êtes. Voici où vous allez. Voici le temps que ça prend.
+L'aristocratie marchande d'Haldria avait construit ses routes avec la précision d'un peuple qui mesure la valeur en temps de transit. Les pavés étaient larges, bien entretenus, avec des bornes tous les deux kilomètres indiquant les distances jusqu'aux principales villes. Après les chemins forestiers d'Avalor — les chemins non tracés, les directions communiquées par les Voix et les Gardiens, les sols de mousse qui gardaient la mémoire de vos pas mais ne l'exposaient pas —, la route d'Haldria me parut presque choquante dans son caractère explicite. Voici où vous êtes. Voici où vous allez. Voici le temps que ça prend.
 
 Je m'arrêtai sur la première borne et lus : *Haltheria, 23 lieues.*
+
+Vingt-trois lieues, et au bout de la route, un nom que j'avais relevé deux fois dans mes lectures préparatoires sans avoir encore vu le visage qui allait avec : Feraldir, astronome de la Maison des Étoiles d'Haltheria, attaché à l'Ordo Caelum, à qui l'on attribuait les premières mesures publiées sur les anomalies stellaires de l'année écoulée. Si l'on m'accordait un entretien, ce serait par lui. Brennan, dans sa lettre, avait inscrit le nom en haut d'une marge — sans plus de cérémonie qu'un repère.
 
 Haltheria — la capitale d'Haldria, le centre de l'alliance commerciale entre Haldria et Ilthara, le point nodal depuis lequel les marchandises d'Endora rayonnaient vers le nord et le commerce d'Ilthara entrait dans le continent. Un pays gouverné par une aristocratie dont le titre le plus respecté n'était pas « duc » ou « comte » mais « Grand Négociant » — une noblesse de factures et de lettres de change.
 
@@ -244,7 +246,7 @@ Il dit : « Les esprits de Wildoria deviennent incontrôlables. Elle passe la mo
 
 Il vit mon expression et dit, avec l'humour sec d'un homme qui n'attend pas qu'on partage ses priorités : « Je sais. Pour vous, c'est secondaire. Pour moi, c'est la réalité du monde. Les esprits se comportent mal et ça fait augmenter les prix. C'est la même chaîne de causes, simplement vue depuis un autre bout. »
 
-Il avait tort sur un point : ce n'était pas secondaire pour moi. C'était exactement le même phénomène. Les esprits de Wildoria devenaient incontrôlables — Feylara l'avait mentionné, leur nombre croissant. Des esprits d'arbres morts de manière violente, consumés par la rage, dont le nombre augmentait. Depuis quand ? Depuis environ deux ans, selon ce que j'avais compris de la chronologie.
+Il avait tort sur un point : ce n'était pas secondaire pour moi. Il me semblait que c'était le même phénomène, vu depuis un autre bout. Les esprits de Wildoria devenaient incontrôlables — Feylara l'avait mentionné, leur nombre croissant. Des esprits d'arbres morts de manière violente, consumés par la rage, dont le nombre augmentait. Depuis quand ? Depuis environ deux ans, selon ce que j'avais compris de la chronologie.
 
 Je demandai à Vardec depuis combien de temps le cours du bois enchanté avait commencé à augmenter à cause de cette tension.
 
@@ -354,4 +356,4 @@ Ilthara demain. Un nouveau continent. De nouveaux instruments pour percevoir ce 
 
 *Je pars pour Ilthara. Le continent du commerce et de la politique, selon ce que j'en sais. Mais sous le commerce et la politique, les mêmes profondeurs qu'ailleurs. Le même monde, perçu depuis d'autres instruments.*
 
-*Pardine va traverser une mer. Il ne sera pas content. Mais il s'adapte depuis trois cents jours, et je lui dois au moins la réciprocité.*
+*Pardine va traverser une mer. Elle ne sera pas contente. Mais elle s'adapte depuis trois cents jours, et je lui dois au moins la réciprocité.*

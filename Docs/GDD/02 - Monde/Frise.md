@@ -50,7 +50,7 @@ Vint alors le grand âge de la **résonance retrouvée**. Trois figures, sur tro
 
 Des écoles se fondèrent, des religions se cristallisèrent, des empires apprirent à coexister sous le regard d'une grande Confédération qui codifia le premier droit écrit. Les chroniqueurs nomment cette époque l'**Âge d'Or** : on y vit des cités flotter dans les nuages, des bibliothèques rassembler les savoirs de tout un continent, des académies enseigner le Lien à des générations entières. C'est aussi l'âge où l'on cessa de s'étonner du monde — et c'est peut-être pour cela qu'il dut finir.
 
-Vers la fin de cet âge, des voix dissidentes commencèrent à s'élever : *« le Lien est une chaîne »*, disait l'un d'eux. Personne ne le crut vraiment. Personne, sauf un disciple, et puis huit autres, qui se rassemblèrent en silence au sommet d'une montagne.
+Vers la fin de cet âge, des voix dissidentes commencèrent à s'élever : *« le Lien est une chaîne »*, disait l'une d'elles. Personne ne le crut vraiment. Personne, sauf un disciple, et puis huit autres, qui se rassemblèrent en silence au sommet d'une montagne.
 
 ### L'Arrachement
 
@@ -70,7 +70,7 @@ Après l'Arrachement, le monde s'enfonça dans ce que les chroniqueurs appellent
 
 C'est l'âge des **seigneurs de forge** — petits domaines accrochés à un savoir-faire métallurgique, parce que la magie ne suffisait plus à nourrir un peuple. C'est aussi l'âge où le grand schisme religieux fractura les fidèles en trois camps : ceux qui croyaient les dieux endormis, ceux qui les croyaient morts, ceux qui les croyaient traîtres. Aucun n'a jamais convaincu les autres.
 
-Plus tard dans cette nuit longue advint le **Fléau des Failles** — un phénomène magique qui frappa spécifiquement les Tissés, ces êtres nés sans Lien, à travers les blessures temporelles laissées par Tempora. Et plus tard encore, la tyrannie qui en suivit — les camps, les registres, les délations. La Grande Nuit n'est pas seulement une période de pauvreté ; c'est aussi celle où l'humanité d'Hybelior apprit ce dont elle était capable lorsqu'elle avait peur.
+Plus tard dans cette nuit longue advint le **Fléau des Failles** — un phénomène magique qui frappa spécifiquement les Tissés, ces êtres nés sans Lien, à travers les blessures temporelles laissées par Tempora. Et plus tard encore, la tyrannie qui s'ensuivit — les camps, les registres, les délations. La Grande Nuit n'est pas seulement une période de pauvreté ; c'est aussi celle où l'humanité d'Hybelior apprit ce dont elle était capable lorsqu'elle avait peur.
 
 ### L'Ère des Nations
 

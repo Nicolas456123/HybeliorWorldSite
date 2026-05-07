@@ -9,7 +9,7 @@ last_review: 2026-05-07
 
 > *« On ne vient pas en Alkaran. On y consent. La pierre, le froid, les morts qui n'en finissent pas — tout cela ne vous accueille pas. Tout cela vous regarde s'installer. »*
 >
-> *— Sorin Valthen, marge d'un cahier de voyage, à l'entrée des massifs d'Altram*
+> *— Sorin Valthen, cartographe kharazirien en exil, marge d'un cahier de voyage, à l'entrée des massifs d'Altram*
 
 ---
 

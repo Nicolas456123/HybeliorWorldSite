@@ -11,7 +11,7 @@ implementation: "[[Vision Rules]]"
 
 > *« Un monde ne vaut pas par ce qu'il offre au premier jour, mais par ce qu'il continue d'offrir au mille-et-unième. Bâtissez-le pour celui qui restera, non pour celui qui passe. »*
 >
-> *— Maître Orhan d'Alkaran, fondateur de l'École des Cycles*
+> *— Maître Veyran d'Astravia, fondateur de l'École des Cycles*
 
 ---
 
@@ -19,7 +19,9 @@ implementation: "[[Vision Rules]]"
 
 Hybelior est né d'un refus. Le refus d'un genre — le MMO — qui s'est laissé enfermer dans deux postures opposées et également stériles : d'un côté les mondes-vitrines où le joueur consomme du contenu calibré jusqu'à l'épuisement, de l'autre les bacs à sable indifférents où rien ne fait sens parce que rien n'a de poids. Entre ces deux écueils, il existe un autre chemin — plus exigeant, moins balisé, mais le seul qui rende justice à ce qu'un monde peut être quand on accepte d'y croire vraiment.
 
-Ce chemin commence par une décision simple : **un monde mérite la même rigueur qu'on accorde à un personnage**. On ne fabrique pas un personnage en posant des features les unes à côté des autres ; on lui donne une voix, une histoire, des contradictions, un destin qui le dépasse. Pourquoi un monde de jeu, qui prétend accueillir des milliers de vies, devrait-il être traité avec moins d'attention qu'une figure de roman ? Hybelior part de là. Il n'est pas une plateforme à habiter ; il est un **personnage qu'on rencontre** — un cosmos qui respire, qui se souvient, qui change, et qui demande, en retour, qu'on le prenne au sérieux.
+Ce chemin commence par une décision simple : **un monde mérite la même rigueur qu'on accorde à un personnage**. On ne fabrique pas un personnage en posant des features les unes à côté des autres. On lui donne une voix, une histoire, des contradictions, un destin qui le dépasse. Pourquoi un monde de jeu, qui prétend accueillir des milliers de vies, devrait-il être traité avec moins d'attention qu'une figure de roman ?
+
+Hybelior part de là. Il n'est pas une plateforme à habiter ; il est un **personnage qu'on rencontre** — un cosmos qui respire, qui se souvient, qui change, et qui demande, en retour, qu'on le prenne au sérieux.
 
 De cette intuition découle tout le reste. La cosmologie n'est pas un fond d'écran : elle pèse sur le quotidien. La progression n'est pas une courbe : elle est une pratique. Le hasard n'est pas un pis-aller ergonomique : il est une condition de la surprise. Et le secret — ce qu'on n'a pas vu, ce qu'on n'a pas encore compris — n'est pas un défaut de communication : c'est la part irréductible d'un monde qui mérite d'être appelé monde.
 
@@ -47,11 +49,13 @@ La première promesse est celle d'une progression qui pèse. Dans Hybelior, le t
 
 ### Survie et tension — le risque rend la victoire vraie
 
-La deuxième promesse est plus rude. Hybelior assume que **la mort doit avoir du poids**. Pas un poids punitif — pas un retour en arrière humiliant qui dégoûte de jouer — mais le poids minimal sans lequel rien d'autre ne tient debout. Une victoire qui ne risque rien n'est pas une victoire, c'est une formalité. Une exploration qui ne menace de rien n'est pas une exploration, c'est un trajet. À Hybelior, chaque sortie hors des cités garde sa part d'incertitude ; chaque combat contient sa possibilité d'échec ; chaque montée en altitude, chaque descente en profondeur, chaque traversée d'un continent inconnu, demande au joueur de **consentir à un enjeu**. Sans ce consentement, le monde ne réponderait à rien. C'est dans la friction du danger que la beauté du paysage se révèle — et c'est dans la possibilité de tout perdre que la fierté de tout regagner devient légitime.
+La deuxième promesse est plus rude. Hybelior assume que **la mort doit avoir du poids**. Pas un poids punitif — pas un retour en arrière humiliant qui dégoûte de jouer — mais le poids minimal sans lequel rien d'autre ne tient debout. Une victoire qui ne risque rien n'est pas une victoire, c'est une formalité. Une exploration qui ne menace de rien n'est pas une exploration, c'est un trajet. À Hybelior, chaque sortie hors des cités garde sa part d'incertitude ; chaque combat contient sa possibilité d'échec ; chaque montée en altitude, chaque descente en profondeur, chaque traversée d'un continent inconnu, demande au joueur de **consentir à un enjeu**. Sans ce consentement, le monde ne répondrait à rien. C'est dans la friction du danger que la beauté du paysage se révèle — et c'est dans la possibilité de tout perdre que la fierté de tout regagner devient légitime.
 
 ### Liberté et découverte — le monde n'a pas de plafond
 
-La troisième promesse est celle d'un monde qui ne se laisse pas épuiser. Hybelior ne propose pas un menu de contenus ordonnés ; il propose un **cosmos à arpenter**. Aucun couloir ne dit où aller en premier. Aucune cinématique imposée ne tire le joueur par la manche pour lui dire quoi penser. Les histoires existent, mais elles attendent d'être trouvées — gravées dans la pierre d'une ruine d'Alkaran, murmurées par un PNJ d'Ulinor qui ne parlera qu'à ceux qui savent écouter, inscrites dans la migration d'une faune qu'aucun calendrier ne prédit. Le joueur écrit sa propre légende parce qu'il est seul à choisir où il pose ses pas. Et ce choix, parce qu'il est *libre*, devient *sien*. Personne d'autre, dans aucune autre Partie, n'aura exactement le même chemin. Cette unicité — discrète, jamais soulignée — est la signature d'Hybelior.
+La troisième promesse est celle d'un monde qui ne se laisse pas épuiser. Hybelior ne propose pas un menu de contenus ordonnés ; il propose un **cosmos à arpenter**. Aucun couloir ne dit où aller en premier. Aucune cinématique imposée ne tire le joueur par la manche pour lui dire quoi penser.
+
+Les histoires existent, mais elles attendent d'être trouvées : gravées dans la pierre d'une ruine d'Alkaran, murmurées par un PNJ d'Ulinor qui ne parlera qu'à ceux qui savent écouter, inscrites dans la migration d'une faune qu'aucun calendrier ne prédit. Le joueur écrit sa propre légende parce qu'il est seul à choisir où il pose ses pas. Et ce choix, parce qu'il est *libre*, devient *sien*. Personne d'autre, dans aucune autre Partie, n'aura exactement le même chemin. Cette unicité — discrète, jamais soulignée — est la signature d'Hybelior.
 
 > *« Demande à dix voyageurs ce qu'ils ont vu de Galenor. Tu obtiendras dix continents. »*
 >
@@ -63,7 +67,9 @@ La troisième promesse est celle d'un monde qui ne se laisse pas épuiser. Hybel
 
 Hybelior n'est pas pour tout le monde, et nous l'assumons. Nous ne cherchons pas le plus grand dénominateur commun ; nous cherchons les joueurs **pour qui un monde compte**. Ceux qui aiment s'immerger dans une cosmologie sans réclamer qu'on leur en explique chaque détail. Ceux qui incarnent un personnage et le voient grandir d'Ère en Ère. Ceux qui construisent leur légende non en optimisant un build, mais en accumulant des souvenirs — la première fois qu'ils ont vu le ciel se fendre lors d'un Souffle, le combat impossible qu'ils ont pourtant gagné un soir à Onara, la rencontre fortuite avec une condition cachée qu'ils n'ont jamais pu reproduire et qui, pour cette raison même, est devenue leur trace.
 
-Cette audience existe. Elle est patiente, exigeante, fidèle. Elle a, pour la plupart, été déçue par les MMO récents qui sacrifient la profondeur sur l'autel de l'accessibilité immédiate. Hybelior s'adresse d'abord à elle. Mais il s'adresse aussi, en arrière-plan, à ceux qui ne savent pas encore qu'ils sont de cette audience — ceux qui n'ont jamais essayé un MMO parce qu'aucun ne les a respectés, et qui pourraient découvrir, à Hybelior, qu'un monde de jeu peut être autre chose qu'une boucle de farm.
+Cette audience existe. Elle est patiente, exigeante, fidèle. Elle a, pour la plupart, été déçue par les MMO récents qui sacrifient la profondeur sur l'autel de l'accessibilité immédiate. Hybelior s'adresse d'abord à elle.
+
+Mais il s'adresse aussi, en arrière-plan, à ceux qui ne savent pas encore qu'ils sont de cette audience. À ceux qui n'ont jamais essayé un MMO parce qu'aucun ne les a respectés, et qui pourraient découvrir, à Hybelior, qu'un monde de jeu peut être autre chose qu'une boucle de farm.
 
 À tous, nous tenons cette ligne : **la profondeur récompense l'investissement sans punir ceux qui jouent moins**. Le joueur de deux heures par semaine ne sera pas humilié par celui de quarante. Il avancera moins vite, oui ; mais le monde ne lui claquera pas la porte au nez. C'est l'un des équilibres les plus difficiles à tenir dans un MMO. Hybelior s'y tient — et le tiendra.
 
@@ -95,7 +101,9 @@ Il y a, à Hybelior, une décision qui mérite d'être expliquée à part : **l'
 
 Parce qu'**un monde sans secret n'est pas un monde**. Quand tout est listé, tout est consommable ; et quand tout est consommable, le joueur n'est plus un explorateur, il est un comptable. Le secret restitue à Hybelior une dimension que les MMO modernes ont, pour la plupart, abandonnée : la possibilité de la **surprise réelle**. Découvrir une condition cachée, à Hybelior, ce n'est pas dévoiler un palier de progression ; c'est rencontrer quelque chose dont on ignorait jusqu'à l'existence. Et ces rencontres, parce qu'elles sont rares, deviennent des souvenirs.
 
-Mais — et c'est ici que la pensée se précise — **tout cacher serait aussi absurde que tout montrer**. Un monde dont chaque pas serait un secret deviendrait illisible ; le joueur, ne sachant jamais où il va, finirait par ne plus aller nulle part. C'est pourquoi Hybelior fait coexister trois régimes de visibilité, chacun avec sa fonction. Une grande partie du jeu est **transparente** : on voit la condition, on voit la progression, on avance — c'est la vie ordinaire d'un personnage, et elle a sa dignité. Une part plus rare est **indicée** : un signe discret signale qu'une condition existe, sans la révéler, et le joueur sait alors qu'il est devant une porte fermée dont il devra trouver la clé. Et puis, plus rare encore, il y a la part **totalement cachée** : pas de signe, pas d'indice, juste la possibilité — pour qui aura fait *exactement* ce qu'il fallait — d'une découverte que personne n'avait annoncée.
+Mais — et c'est ici que la pensée se précise — **tout cacher serait aussi absurde que tout montrer**. Un monde dont chaque pas serait un secret deviendrait illisible ; le joueur, ne sachant jamais où il va, finirait par ne plus aller nulle part. C'est pourquoi Hybelior fait coexister trois régimes de visibilité, chacun avec sa fonction.
+
+Une grande partie du jeu est **transparente** : on voit la condition, on voit la progression, on avance. C'est la vie ordinaire d'un personnage, et elle a sa dignité. Une part plus rare est **indicée** : un signe discret signale qu'une condition existe, sans la révéler, et le joueur sait alors qu'il est devant une porte fermée dont il devra trouver la clé. Et puis, plus rare encore, il y a la part **totalement cachée** : pas de signe, pas d'indice, juste la possibilité — pour qui aura fait *exactement* ce qu'il fallait — d'une découverte que personne n'avait annoncée.
 
 Cette hiérarchie n'est pas une astuce. Elle est une éthique de la révélation. Elle dit : *nous montrons ce qui mérite d'être montré, nous suggérons ce qui mérite d'être deviné, nous gardons silencieux ce qui mérite d'être trouvé seul*. Aucun de ces trois régimes n'est, en soi, supérieur ; c'est leur **équilibre** qui fait Hybelior. Une part du contenu reste sous le seuil du dicible — non pas par mystification, mais parce qu'un monde digne de ce nom contient toujours plus que ce que ses propres habitants en savent.
 
@@ -115,7 +123,7 @@ Hybelior, à la fin, n'est pas un produit. C'est une invitation — adressée à
 
 > *« Reviens dans dix Ères. Si le monde est encore vivant, tu sauras que nous avons tenu parole. »*
 >
-> *— Maître Orhan d'Alkaran, dernière conférence*
+> *— Maître Veyran d'Astravia, dernière conférence à l'École des Cycles*
 
 ---
 

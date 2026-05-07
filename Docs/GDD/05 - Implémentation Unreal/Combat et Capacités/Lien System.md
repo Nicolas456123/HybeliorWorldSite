@@ -394,7 +394,7 @@ L'Accord renforce la résonance entre le Lié et son Ère — pas la Voie en ell
 | Aerion | Ascension du Mont Veyl (escalade, sans monture) |
 | Aurion | Bibliothèque arcanique de Galenor (quête niv 15) |
 | Umbra | Guilde des ombres (faction, réputation 1500+) |
-| Spiritus | Druide Sylvenne (forêt d'Aldenor, quête naturelle) |
+| Spiritus | Druide Sylvenne (forêt de Trinoria, quête naturelle) |
 | Fatum | Oracle de Verra (donation 100 éclats + énigme) |
 | Terranu | Forgeron-mage Brunhilda (Mosrack, quête sociale) |
 | Somnix | Onirique du temple endormi (condition cachée 🔒 dormir 8h réelles in-game) |

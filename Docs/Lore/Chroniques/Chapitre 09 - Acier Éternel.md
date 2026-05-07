@@ -2,7 +2,7 @@
 tags: [lore, chronique]
 type: lore
 status: drafted
-last_review: 2026-05-06
+last_review: 2026-05-07
 needs_review_for: []
 ---
 # Chapitre 9 — L'Acier Éternel
@@ -23,7 +23,7 @@ Je suis arrivé à Yaltar avec un estomac vide, des genoux faibles et la certitu
 
 Galenor est derrière moi. Mon premier continent est derrière moi.
 
-Je ne savais pas que ce serait aussi étrange comme pensée. J'avais quitté Kharazir sans regarder en arrière — ou plutôt en regardant en arrière mais en prétendant le contraire, ce qui est une façon différente et plus coûteuse de faire la même chose. J'avais traversé sept nations, dormi dans des lits inconfortables, des fenaisons, une grotte trinoirenne odorante, et le pont d'un navire dont les cordages chantaient dans le vent des lamentations de chanvre mouillé. Et maintenant, debout sur le quai de pierre du port de Yaltar, avec sous les pieds une roche qui ne bougeait pas et qui était, pour cette simple raison, la chose la plus merveilleuse que j'eusse jamais sentie, je pensais : un continent étranger.
+Je ne savais pas que ce serait aussi étrange comme pensée. J'avais quitté Kharazir sans regarder en arrière — ou plutôt en regardant en arrière mais en prétendant le contraire, ce qui est une façon différente et plus coûteuse de faire la même chose. J'avais traversé sept nations, dormi dans des lits inconfortables, des fenaisons, une grotte trinorienne odorante, et le pont d'un navire dont les cordages chantaient dans le vent des lamentations de chanvre mouillé. Et maintenant, debout sur le quai de pierre du port de Yaltar — sous les pieds une roche qui ne bougeait pas, et qui était, pour cette simple raison, la chose la plus merveilleuse que j'eusse jamais sentie —, je pensais : un continent étranger.
 
 Alkaran.
 
@@ -59,7 +59,7 @@ Dans la taverne de Sarultam — une salle basse dont le sol était la roche nue,
 
 C'était de la nourriture faite dans des forges, par des gens qui passent leur vie entre le feu et le métal, et qui ne séparent pas leur cuisine de leur métier. Je trouvai cela profondément cohérent.
 
-La cohérence est la chose que j'admire le plus dans les cultures où je n'appartiens pas.
+La cohérence est la chose que j'admire le plus dans les cultures auxquelles je n'appartiens pas.
 
 ---
 
@@ -101,11 +101,11 @@ Je n'avais pas demandé de précision. Certaines coïncidences méritent d'être
 
 Le troisième jour, Corven m'emmena aux Archives.
 
-Les Archives d'Altram ne sont pas une bibliothèque comme je l'entendais à Kharazir ou à Lumasar — un espace de lumière filtrée, de rayonnages en bois et de silence studieux. Ce sont des salles creusées dans la roche vive du promontoire, accessible par un escalier taillé à même la falaise, l'air intérieur frais et légèrement humide avec le goût du soufre et du métal froid. Les documents sont conservés non seulement sur parchemin mais gravés dans des plaques de métal — une technique propre à Altram, plus pérenne mais d'une lisibilité qui suppose des yeux habitués et une lampe proche. Les gardiens des Archives portent des loupes suspendues à leurs ceintures comme d'autres portent des couteaux.
+Les Archives d'Altram ne sont pas une bibliothèque comme je l'entendais à Kharazir ou à Lumasar — un espace de lumière filtrée, de rayonnages en bois et de silence studieux. Ce sont des salles creusées dans la roche vive du promontoire, accessibles par un escalier taillé à même la falaise, l'air intérieur frais et légèrement humide avec le goût du soufre et du métal froid. Les documents sont conservés non seulement sur parchemin mais gravés dans des plaques de métal — une technique propre à Altram, plus pérenne mais d'une lisibilité qui suppose des yeux habitués et une lampe proche. Les gardiens des Archives portent des loupes suspendues à leurs ceintures comme d'autres portent des couteaux.
 
 C'est dans les Archives que j'ai rencontré Lisel.
 
-Lisel Morvaine, prêtresse-juriste de la Lex Petra, responsable de la conservation des plaques métalliques du sous-niveau trois — c'est-à-dire des archives antérieures à la Rébellion des Forgerons. Une femme de quarante ans peut-être, petite et précise dans ses gestes, avec les yeux de quelqu'un qui a passé des années dans des pièces peu éclairées et s'est adaptée en conséquence : un regard qui va directement à l'essentiel, sans les détours courtois que l'on apprend dans les pièces larges. Elle portait le collier de pierre polie des juges-prêtres — trois pierres enfilées sur un cordon de cuir, chacune représentant un des trois piliers de la Lex Petra : l'ordre, la mémoire, l'impartialité.
+Lisel Morvaine, prêtresse-juriste de la Lex Petra, responsable de la conservation des plaques métalliques du sous-niveau trois — c'est-à-dire des archives antérieures à la Rébellion des Forgerons. Une femme de quarante ans peut-être, petite et précise dans ses gestes, avec les yeux de quelqu'un qui a passé des années dans des pièces peu éclairées et s'y est adapté en conséquence : un regard qui va directement à l'essentiel, sans les détours courtois que l'on apprend dans les pièces larges. Elle portait le collier de pierre polie des juges-prêtres — trois pierres enfilées sur un cordon de cuir, chacune représentant un des trois piliers de la Lex Petra : l'ordre, la mémoire, l'impartialité.
 
 Elle m'accueillit avec la neutralité méticuleuse propre aux fonctionnaires des archives du monde entier — ni hostile ni chaleureuse, simplement professionnelle —, et elle demanda, en regardant mon laissez-passer de Corven : « Vous cherchez quoi exactement ? »
 
@@ -125,11 +125,11 @@ C'est elle qui m'avait indiqué, au quatrième jour, le couloir de gauche.
 
 Le couloir de gauche débouchait sur une antichambre fermée par une porte de fer forgé, massive, portant le sceau du Conseil des Maîtres en relief. La porte était ouverte — non pas déverrouillée mais simplement entrouverte, comme si quelqu'un avait oublié de la refermer ou, plus troublant, comme si elle refusait de se fermer complètement. L'antichambre de l'autre côté était petite, taillée à même la roche, et au centre, sur un présentoir de pierre brute, il y avait quelque chose sous une cloche de verre épais.
 
-Un fragment de métal. Pas plus grand que ma main. De couleur indéfinissable — ni tout à fait gris, ni tout à fait noir, avec des reflets que la lumière de ma lampe traitait différemment selon l'angle : bleuté d'un côté, presque doré de l'autre, avec par endroits une iridescence que je n'aurais pas su décrire si on me l'avait demandé autrement qu'en disant que le métal semblait contenir une profondeur, comme si la surface n'était pas sa vraie surface mais une première couche en dessous de laquelle quelque chose d'autre commençait.
+Un fragment de métal. Pas plus grand que ma main. De couleur indéfinissable — ni tout à fait gris, ni tout à fait noir, avec des reflets que la lumière de ma lampe traitait différemment selon l'angle : bleuté d'un côté, presque doré de l'autre. Par endroits, une iridescence que je n'aurais pas su décrire autrement qu'en disant que le métal semblait contenir une profondeur — comme si la surface n'était pas sa vraie surface, mais une première couche en dessous de laquelle quelque chose d'autre commençait.
 
 Et il pulsait.
 
-Pas visiblement. Pas d'une façon que l'on pouvait montrer à quelqu'un d'autre en disant : regardez, ça bouge. Mais il y avait dans la pièce quelque chose qui n'était pas là dans les autres salles des Archives, quelque chose que je percevais non pas par les yeux ou les oreilles mais par un organe que je n'avais pas de nom pour désigner — la même chose peut-être que ce que j'avais senti en touchant l'arbre ancien à Velathor, la même vibration sourde que l'on capte avec les os plutôt qu'avec la peau. Une pulsation régulière, très lente. Comme le battement d'un cœur endormi depuis longtemps.
+Pas visiblement. Pas d'une façon que l'on pouvait montrer à quelqu'un d'autre en disant : regardez, ça bouge. Mais il y avait dans la pièce quelque chose qui n'était pas là dans les autres salles des Archives, quelque chose que je percevais non pas par les yeux ou les oreilles mais par un organe pour lequel je n'avais pas de nom — la même chose peut-être que ce que j'avais senti en touchant l'arbre ancien à Velathor, la même vibration sourde que l'on capte avec les os plutôt qu'avec la peau. Une pulsation régulière, très lente. Comme le battement d'un cœur endormi depuis longtemps.
 
 Je n'entrai pas dans l'antichambre. Je restai sur le seuil pendant — je ne sais pas combien de temps. Assez longtemps pour que Lisel vienne me rejoindre depuis le couloir.
 
@@ -153,7 +153,7 @@ Ce n'était pas la même chose. Mais ce n'était pas entièrement différent non
 
 ---
 
-Je passai la soirée suivante dans la taverne de Trelios que Corven fréquentait — L'Enclume Froide, une salle de pierre au sol dallé irrégulier, les murs couverts d'étain gravé de scènes de forge, l'air chargé de l'odeur de la bière épaisse et du lard fumé dans les forges. Corven s'était joint à moi après son travail, les mains lavées mais les ongles encore marqués de noirs indélébiles, et il avait commandé pour nous deux sans me demander mon avis — en Altram, quand quelqu'un vous invite, il choisit. C'est une forme de respect, pas de condescendance.
+Je passai la soirée suivante dans la taverne de Trelios que Corven fréquentait — L'Enclume Froide, une salle de pierre au sol dallé irrégulier, les murs couverts d'étain gravé de scènes de forge, l'air chargé de l'odeur de la bière épaisse et du lard fumé dans les forges. Corven s'était joint à moi après son travail, les mains lavées mais les ongles encore marqués d'un noir indélébile, et il avait commandé pour nous deux sans me demander mon avis — en Altram, quand quelqu'un vous invite, il choisit. C'est une forme de respect, pas de condescendance.
 
 Nous mangeâmes du mouton forge-fumé avec des oignons confits dans la chaleur résiduelle des fours, et du pain noir qui craqua sous la dent avec ce goût amer qui me plaisait maintenant, et nous bûmes la bière de montagne qui ressemble à un paysage. Corven mangea avec la concentration d'un homme qui fait de chaque repas quelque chose d'utile plutôt que d'agréable, et je l'imitai sans effort — après des semaines de voyage, j'ai désappris la prétention de savourer et je mange surtout pour continuer.
 
@@ -253,10 +253,10 @@ Le Fragment Zéro pulse.
 
 Je n'ai pas de cadre de référence satisfaisant pour ce fait. J'ai la vibration de Velathor — l'arbre druide de Trinoria — et maintenant ceci, et ces deux choses ne sont pas la même chose mais elles ne sont pas étrangères l'une à l'autre non plus. Elles appartiennent peut-être au même registre de phénomènes que je ne sais pas encore nommer.
 
-Mon père était allé jusqu'à Thalendris. Sa lettre y mentionnait des tunnels — les mêmes que ceux que j'avais trouvés sous Kharazir. Je ne sais pas ce qu'il avait vu à Thalendris. Je ne sais pas où il est. Mais je commence à penser que les choses que je trouve en chemin ne sont pas des coïncidences de voyage. Quoi alors — je n'ai pas encore le mot. Je suis tenté d'écrire *balises*, parce que le mot est commode et qu'il permettrait de tracer la suite. Je m'abstiens. *Balises* présuppose un poseur de balises ; un poseur présuppose une intention ; une intention présuppose un destinataire. Trois pas en avant pour un fait observé deux fois — c'est trop, et un cartographe le sait. Je note ce que je vois. Je note la tentation de nommer. Je laisse le nom où il est : non encore mérité.
+Mon père avait suivi quelque chose, je ne sais toujours pas vers où. Sa lettre — celle qui lui était parvenue avant sa disparition — mentionnait des tunnels semblables à ceux que j'avais trouvés sous Kharazir. Je ne sais pas où il est. Mais je commence à penser que les choses que je trouve en chemin ne sont pas, peut-être, de simples coïncidences de voyage. Quoi alors — je n'ai pas encore le mot. Je suis tenté d'écrire *balises*, parce que le mot est commode et qu'il permettrait de tracer la suite. Je m'abstiens. *Balises* présuppose un poseur de balises ; un poseur présuppose une intention ; une intention présuppose un destinataire. Trois pas en avant pour un fait observé deux fois — c'est trop, et un cartographe le sait. Je note ce que je vois. Je note la tentation de nommer. Je laisse le nom où il est : non encore mérité.
 
 Je ne sais pas encore si cela me réconforte ou si cela m'inquiète.
 
-Peut-être les deux. Le voyage est ainsi fait.
+Peut-être les deux.
 
 ---

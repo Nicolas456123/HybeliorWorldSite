@@ -7,7 +7,7 @@ needs_review_for: []
 ---
 # Chapitre 29 — Les Flottes d'Azoral
 
-> *« Le marchand d'Azorial vend deux fois : une fois la marchandise, et une fois la certitude que tu en as besoin. »*
+> *« Le marchand d'Azoral vend deux fois : une fois la marchandise, et une fois la certitude que tu en as besoin. »*
 > — Proverbe de Kethvar
 
 **Azoria — Azoral, Kethvar, Solmaris — Jour 600**
@@ -20,7 +20,7 @@ Je ne savais pas que je l'avais perdu — c'est la nature de certaines pertes, d
 
 La mer, elle, ne veut rien.
 
-Elle est indifférente d'une façon qui n'est pas froide — qui est simplement plus grande que l'humaine intention. Elle bouge pour ses propres raisons, ses courants obéissent à des géographies profondes que les cartes de surface ne saisissent pas, et ce qu'elle fait au voyage humain n'est pas une chose qu'elle décide. Je suis sur le pont du navire marchand depuis quatre jours et j'ai l'impression que mon corps, pour la première fois depuis Cendara, n'est en train d'écouter personne. Il n'écoute que le bois sous mes pieds et l'eau sous le bois et les variations de vent qui viennent de l'ouest avec une régularité que le capitaine dit inhabituelle — inhabituelle dans le sens bienveillant, dit-il, le sens où la mer coopère, mais inhabituelle quand même.
+Elle est indifférente d'une façon qui n'est pas froide — qui est simplement plus grande que l'humaine intention. Elle bouge pour ses propres raisons, ses courants obéissent à des géographies profondes que les cartes de surface ne saisissent pas, et ce qu'elle fait au voyage humain n'est pas une chose qu'elle décide. Je suis sur le pont du navire marchand depuis quatre jours et j'ai l'impression que mon corps, pour la première fois depuis Cendara, n'écoute personne. Il n'écoute que le bois sous mes pieds et l'eau sous le bois et les variations de vent qui viennent de l'ouest avec une régularité que le capitaine dit inhabituelle — inhabituelle dans le sens bienveillant, dit-il, le sens où la mer coopère, mais inhabituelle quand même.
 
 J'ai noté l'adverbe dans mon journal.
 
@@ -36,11 +36,11 @@ Le capitaine du navire — un homme de Kethvar nommé Orrath, la cinquantaine la
 
 Je lui demandai ce qu'il voulait dire.
 
-Il hésita — non pas parce qu'il ne savait pas, mais parce qu'il pesait ce qu'il voulait dire à un étranger dont il ne connaissait pas encore les allégeances commerciales. Il me dit : *Les courants changent. Les routes marchandes d'Azorial passent depuis soixante ans par le couloir de Narvheth — le même couloir, les mêmes vents porteurs, les mêmes courants profonds qui permettent de traverser en huit jours plutôt que douze. Depuis cet automne, le couloir de Narvheth ne se comporte plus comme avant.*
+Il hésita — non pas parce qu'il ne savait pas, mais parce qu'il pesait ce qu'il voulait dire à un étranger dont il ne connaissait pas encore les allégeances commerciales. Il me dit : *Les courants changent. Les routes marchandes d'Azoral passent depuis soixante ans par le couloir de Narvheth — le même couloir, les mêmes vents porteurs, les mêmes courants profonds qui permettent de traverser en huit jours plutôt que douze. Depuis cet automne, le couloir de Narvheth ne se comporte plus comme avant.*
 
 Je lui demandai dans quel sens.
 
-*Les courants sont là. Mais ils hésitent. Deux jours normaux, puis un jour où ils poussent dans la mauvaise direction sans raison de vent. Les pilotes vieux disent qu'ils n'ont jamais vu ça. Mais les pilotes vieux disent beaucoup de choses.*
+*Les courants sont là. Mais ils hésitent. Deux jours normaux, puis un jour où ils poussent dans la mauvaise direction sans raison de vent. Les vieux pilotes disent qu'ils n'ont jamais vu ça. Mais les vieux pilotes disent beaucoup de choses.*
 
 Il retourna à ses affaires de capitaine. Je retournai à mes notes. J'écrivis : *courants marins, Narvheth, hésitation sans cause de vent — à vérifier*.
 
@@ -60,7 +60,7 @@ Je dis : *Cartographe.*
 
 Il dit : *C'est ce que dirait un espion.*
 
-Puis il commanda du vin et me parla, avec l'aisance des gens de mer pour qui l'échange d'information est une monnaie aussi courante que l'argent, des choses qu'il avait vues depuis quatre mois sur les routes d'Azorial et de Kethvar.
+Puis il commanda du vin et me parla, avec l'aisance des gens de mer pour qui l'échange d'information est une monnaie aussi courante que l'argent, des choses qu'il avait vues depuis quatre mois sur les routes d'Azoral et de Kethvar.
 
 ---
 
@@ -68,17 +68,17 @@ Les poissons des profondeurs.
 
 Voilà ce que Tirven avait à dire, et ce qu'il dit prit le temps nécessaire — d'abord les faits, puis les interprétations, puis le silence de quelqu'un qui a vu quelque chose et qui ne sait pas encore si le voir lui donne le droit de le nommer.
 
-Les filets des pêcheurs d'Azorial remontent depuis cet automne des espèces que personne ne reconnaît. Non pas des espèces inconnues dans le sens de la nouveauté taxonomique — des créatures que les vieux manuels de biologie marine des académies de Kethvar ont cataloguées. Des créatures que les biologistes connaissent de nom, par des spécimens conservés, par des descriptions d'époque remontant à deux ou trois siècles. Des espèces qui ne vivent normalement qu'à des profondeurs où les filets ordinaires ne descendent pas. Deux cents, trois cents brasses. Des eaux froides et sans lumière où la pression écrase la pierre.
+Les filets des pêcheurs d'Azoral remontent depuis cet automne des espèces que personne ne reconnaît. Non pas des espèces inconnues dans le sens de la nouveauté taxonomique — des créatures que les vieux manuels de biologie marine des académies de Kethvar ont cataloguées. Des créatures que les biologistes connaissent de nom, par des spécimens conservés, par des descriptions d'époque remontant à deux ou trois siècles. Des espèces qui ne vivent normalement qu'à des profondeurs où les filets ordinaires ne descendent pas. Deux cents, trois cents brasses. Des eaux froides et sans lumière où la pression écrase la pierre.
 
 Ces espèces-là remontent.
 
-Les filets des pêcheurs d'Azorial les capturent à trente, quarante brasses. En pleine zone de pêche ordinaire. Des poissons aux yeux dilatés qui ne supportent pas la lumière du soleil et qui meurent en quelques minutes une fois hors de l'eau, mais qui sont là, dans les filets, où ils n'auraient aucune raison d'être.
+Les filets des pêcheurs d'Azoral les capturent à trente, quarante brasses. En pleine zone de pêche ordinaire. Des poissons aux yeux dilatés qui ne supportent pas la lumière du soleil et qui meurent en quelques minutes une fois hors de l'eau, mais qui sont là, dans les filets, où ils n'auraient aucune raison d'être.
 
 *Les vieux disent que ça arrive parfois*, dit Tirven. *Des perturbations saisonnières, des changements de températures qui poussent certaines espèces vers le haut. Possible.*
 
 *Mais vous ne le croyez pas*, dis-je.
 
-Il me regarda avec l'expression de quelqu'un qui préfère ne pas croire ce qu'il pense. *Je crois que ça s'accélère. Les premiers signalements venaient de Kethvar — les pêcheurs du banc de Yelnar. Il y a six mois. Depuis, les remontées sont plus fréquentes. Plus larges. Les filets d'Azorial, de Solmaris. La semaine dernière, un matelot du port intérieur d'Azoral m'a dit qu'il avait vu quelque chose depuis le môle — quelque chose dans l'eau du port lui-même, pas dans la mer ouverte. Dans l'eau du port. Une ombre. Large. Trop lente pour un dauphin.*
+Il me regarda avec l'expression de quelqu'un qui préfère ne pas croire ce qu'il pense. *Je crois que ça s'accélère. Les premiers signalements venaient de Kethvar — les pêcheurs du banc de Yelnar. Il y a six mois. Depuis, les remontées sont plus fréquentes. Plus larges. Les filets d'Azoral, de Solmaris. La semaine dernière, un matelot du port intérieur d'Azoral m'a dit qu'il avait vu quelque chose depuis le môle — quelque chose dans l'eau du port lui-même, pas dans la mer ouverte. Dans l'eau du port. Une ombre. Large. Trop lente pour un dauphin.*
 
 Je notai tout. J'écrivis : *profondeurs — remontée — même direction que le reste*.
 
@@ -92,7 +92,7 @@ Nous parlâmes d'abord du négoce — la politesse des marchands est de parler a
 
 Puis il me parla des courants.
 
-Pas la même chose que ce qu'Orrath m'avait dit — les courants, oui, mais vus d'en bas plutôt que d'en haut. Les marchands de Kethvar ne naviguent pas eux-mêmes pour la plupart — ils affrètent, ils envoient, ils reçoivent — mais ils savent compter, et ce qu'ils comptaient depuis cet automne était préoccupant. Les délais de livraison augmentaient. Non pas en raison des tempêtes — la saison avait été clémente. Non pas en raison des équipages — les marins d'Azorial étaient les meilleurs des mers du nord. En raison des routes elles-mêmes, qui devenaient imprévisibles dans des zones qui auraient dû être stables.
+Pas la même chose que ce qu'Orrath m'avait dit — les courants, oui, mais lus dans les registres plutôt que vécus à la barre. Les marchands de Kethvar ne naviguent pas eux-mêmes pour la plupart — ils affrètent, ils envoient, ils reçoivent — mais ils savent compter, et ce qu'ils comptaient depuis cet automne était préoccupant. Les délais de livraison augmentaient. Non pas en raison des tempêtes — la saison avait été clémente. Non pas en raison des équipages — les marins d'Azoral étaient les meilleurs des mers du nord. En raison des routes elles-mêmes, qui devenaient imprévisibles dans des zones qui auraient dû être stables.
 
 *Les assureurs marins*, dit Valdris, avec le ton d'un homme qui calcule, *ont augmenté leurs primes de seize pour cent depuis l'automne. Les assureurs marins sont des gens conservateurs qui ne bougent leurs prix que lorsqu'ils voient des données. Je regarde toujours ce que font les assureurs.*
 
@@ -110,11 +110,11 @@ Sept mois. Encore.
 
 Solmaris est différente des deux autres républiques d'une façon qui n'est pas d'ordre commercial mais d'ordre géographique, et la géographie fait la culture. Là où Azoral est sur ses îlots et Kethvar sur sa côte plate et marchande, Solmaris est bâtie dans une baie profonde que des falaises de calcaire blanc enserrent de trois côtés — un amphithéâtre naturel qui a donné à ses habitants le sens de l'acoustique et, par extension, une culture de la parole publique que les deux autres républiques n'ont pas développée de la même façon. À Solmaris, on délibère. Pas toujours pour arriver à quelque chose, mais parce que la délibération elle-même est une valeur.
 
-L'Assemblée des Douze Voiles — le conseil de gouvernance de Solmaris — tenait justement session pendant les deux jours de ma présence, et la ville entière l'en savait parce que les portes de la grande salle étaient ouvertes et que les voix des orateurs portaient jusqu'aux quais par l'acoustique naturelle de la baie. Je m'assis sur les marches d'un bâtiment voisin et écoutai pendant une heure sans comprendre entièrement le sujet — il s'agissait d'un débat sur les droits de pêche dans les eaux disputées entre Solmaris et Kethvar, une question ancienne et complexe. Mais à travers les arguments légaux et les références aux traités antérieurs, j'entendis quelque chose d'autre.
+L'Assemblée des Douze Voiles — le conseil de gouvernance de Solmaris — tenait justement session pendant les deux jours de ma présence, et la ville entière le savait parce que les portes de la grande salle étaient ouvertes et que les voix des orateurs portaient jusqu'aux quais par l'acoustique naturelle de la baie. Je m'assis sur les marches d'un bâtiment voisin et écoutai pendant une heure sans comprendre entièrement le sujet — il s'agissait d'un débat sur les droits de pêche dans les eaux disputées entre Solmaris et Kethvar, une question ancienne et complexe. Mais à travers les arguments légaux et les références aux traités antérieurs, j'entendis quelque chose d'autre.
 
 Les pêcheurs de Solmaris déposaient des plaintes formelles. Pas sur les droits de pêche — sur les prises. Sur ce que les filets ramenaient. Sur des espèces qui n'auraient pas dû être là, sur des comportements de bancs de poissons qui ne correspondaient plus aux routes attendues, sur une chose — et le mot fut prononcé par un pêcheur à la voix éraillée qui s'appelait, appris-je, Marevath — une chose qui n'était pas nommée mais décrite : quelque chose qui suivait les filets depuis les profondeurs sans jamais se laisser prendre, quelque chose de grand, patient, régulier, qui n'avait pas de nom dans le répertoire des créatures marines que les pêcheurs de Solmaris connaissaient depuis trois générations.
 
-L'Assemblée écouta. Elle délibéra. Elle conclut que des enquêtes seraient menées. Les enquêtes de Solmaris étaient réputées sérieuses — ils avaient des naturalists, une tradition de documentation scientifique que les deux autres républiques n'avaient pas poussée aussi loin.
+L'Assemblée écouta. Elle délibéra. Elle conclut que des enquêtes seraient menées. Les enquêtes de Solmaris étaient réputées sérieuses — ils avaient des naturalistes, une tradition de documentation scientifique que les deux autres républiques n'avaient pas poussée aussi loin.
 
 À l'angle du quai où je redescendais ensuite, il y avait une femme assise sur des cordages avec deux enfants — un garçon de six ans peut-être, une fille plus petite, qui ne parlaient pas. La femme ne mendiait pas. Elle attendait. C'est une posture spécifique au port, distincte de la mendicité, et qu'on apprend à reconnaître à voir comment les yeux ne suivent pas les passants mais le bord de l'horizon. J'avais vu cette posture dans tous les ports où j'étais passé depuis Solena ; je n'avais pas eu de mot pour elle avant Solmaris. Une voisine qui passait posa une marmite couverte près de la femme — sans s'arrêter, sans saluer, comme on dépose chez soi quelque chose qu'on a trop cuit. La femme dit *Méra* — un mot court qui voulait dire merci dans le dialecte local — sans relever la tête.
 
@@ -144,7 +144,7 @@ J'observai chez les marins — pendant ces quelques jours de port — quelque ch
 
 Mes trois jours à Azoral et deux jours chacun à Kethvar et Solmaris m'avaient offert quelque chose d'inattendu : du répit.
 
-Je sais que ce mot est étrange dans ce contexte, avec les poissons des abysses dans les filets et les courants qui hésitent et la chose que Marevath avait suivie depuis les profondeurs. Mais par rapport à Cendara — à la pulsation du Mont Cendra dans ma poitrine, à l'enfant aux yeux blancs qui m'avait regardé dans la ruelle de Mylaris avec cette expression que je n'arrive toujours pas à nommer autrement qu'en disant qu'il savait quelque chose et qu'il savait que je le savais, et qu'il a dit — il a dit quelque chose, et ce quelque chose m'accompagne —, par rapport à tout cela, les républiques marchandes d'Azorial avaient quelque chose de presque ordinaire. Pas normal — mais ordinaire. La façon dont les marchands parlent des anomalies comme de problèmes à résoudre. La façon dont les assureurs ajustent leurs primes. La façon dont les naturalistes préservent les spécimens.
+Je sais que ce mot est étrange dans ce contexte, avec les poissons des abysses dans les filets et les courants qui hésitent et la chose que Marevath avait suivie depuis les profondeurs. Mais par rapport à Cendara — à la pulsation du Mont Cendra dans ma poitrine, à l'enfant aux yeux blancs qui m'avait regardé dans la ruelle de Mylaris avec cette expression que je n'arrive toujours pas à nommer autrement qu'en disant qu'il savait quelque chose et qu'il savait que je le savais, et qu'il a dit — il a dit quelque chose, et ce quelque chose m'accompagne —, par rapport à tout cela, les républiques marchandes d'Azoral avaient quelque chose de presque ordinaire. Pas normal — mais ordinaire. La façon dont les marchands parlent des anomalies comme de problèmes à résoudre. La façon dont les assureurs ajustent leurs primes. La façon dont les naturalistes préservent les spécimens.
 
 Le monde humain continue de fonctionner. Il s'adapte. Il documente, il ajuste, il délibère.
 
@@ -156,7 +156,7 @@ Le dernier soir à Solmaris, je m'assis seul dans la baie, sur une pierre plate 
 
 Je regardai la mer.
 
-Je pensai à l'enfant de Mylaris. Il ne devrait pas m'occuper autant que je le laisse m'occuper. Il était dans la ruelle au pied des vignobles de Solarith — huit, neuf ans peut-être — avec les yeux d'un blanc laiteux que j'avais déjà vus documentés dans les rapports de Caeloria, dans les notes d'Orrath, dans les rumeurs de Kethvar. Un Enfant aux Yeux Blancs, loin de Caeloria, dans les rues volcaniques de Cendara. Il m'avait regardé s'arrêter net, comme si ma présence était quelque chose de notable, quelque chose qui l'avait fait se lever de là où il était assis. Et il m'avait regardé — pas comme on regarde un étranger, pas comme on regarde une curiosité — comme on reconnaît quelque chose.
+Je pensai à l'enfant de Mylaris. Il ne devrait pas m'occuper autant que je le laisse m'occuper. Il était dans la ruelle au pied des vignobles de Solarith — huit, neuf ans peut-être — avec les yeux d'un blanc laiteux que j'avais déjà vus documentés dans les rapports de Caeloria, dans les rumeurs de Kethvar. Un Enfant aux Yeux Blancs, loin de Caeloria, dans les rues volcaniques de Cendara. Il m'avait regardé s'arrêter net, comme si ma présence était quelque chose de notable, quelque chose qui l'avait fait se lever de là où il était assis. Et il m'avait regardé — pas comme on regarde un étranger, pas comme on regarde une curiosité — comme on reconnaît quelque chose.
 
 Il a dit — je l'ai transcrit mot pour mot dans mon journal, dans la peur de le mal retenir —, il a dit : *Ce que tu portes ne t'appartient pas encore.*
 

@@ -18,7 +18,7 @@ Ulinor sent le soufre et le sel.
 
 Je ne m'y attendais pas. L'archipel que j'avais imaginé depuis les descriptions que j'en avais lues — dans les journaux commerciaux de Solena, dans les comptes-rendus d'expédition des oracles de Caeloria — était celui d'une île tropicale, verte, humide, avec la densité végétale des côtes chaudes. Et cette île existe : je la vis depuis le pont du navire à l'aube du troisième jour de traversée, la ligne de côte basse et foncée surmontée d'une canopée épaisse qui fumait légèrement dans la brume matinale comme si la forêt respirait.
 
-Mais le vent de terre portait autre chose que l'humidité végétale que j'attendais. Il portait une note minérale, acide, presque médicale — quelque chose entre la forge et la mer morte. Le capitaine, qui avait fait cette route six fois, m'expliqua que c'était la pierre. Les failles du Grand Canyon de l'Écho exhalaient des gaz naturels par leurs fissures, et certains de ces gaz avaient une odeur de soufre qui se mêlait à l'iode marin dans un mélange qui était à Ulinor ce que la fumée de tourbe est à d'autres pays : son signe de reconnaissance olfactif, sa signature dans le vent. On sait qu'on approche d'Ulinor, dit-il, quand l'air commence à avoir ce goût.
+Mais le vent de terre portait autre chose que l'humidité végétale que j'attendais. Il portait une note minérale, acide, presque médicale — quelque chose entre la forge et la mer morte. Le capitaine, qui avait fait cette route six fois, m'expliqua que c'était la pierre. Les failles du Grand Canyon de l'Écho exhalaient des gaz naturels, et certains de ces gaz avaient une odeur de soufre qui se mêlait à l'iode marin pour donner à Ulinor ce que la fumée de tourbe donne à d'autres pays : son signe de reconnaissance olfactif, sa signature dans le vent. On sait qu'on approche d'Ulinor, dit-il, quand l'air commence à avoir ce goût.
 
 Je notai cela dans mon cahier pendant que la côte grossissait. Il y a quelque chose d'utile à noter le premier goût d'un lieu — il revient dans la mémoire plus fiablement que les images, et souvent plus honnêtement. Les images d'Ulinor que j'avais formées à partir des descriptions d'autrui étaient celles d'un paysage. L'odeur qui frappait mes narines était celle d'une profondeur.
 
@@ -58,7 +58,7 @@ C'était une distinction intéressante. Sentir sans traduire. Percevoir sans int
 
 Nous atteignîmes Dhalvoria au soir du deuxième jour.
 
-Dhalvoria n'est pas un nom qui apparaît dans les cartographies officielles. Les marchands de Solena ne le connaissent pas. Les comptes-rendus des oracles de Caeloria ne le mentionnent qu'en note de bas de page, comme un "établissement secondaire de la tribu Folinor, peu d'intérêt commercial". Ce qu'ils manquaient en disant cela était considérable.
+Dhalvoria n'est pas un nom qui apparaît dans les cartographies officielles. Les marchands de Solena ne le connaissent pas. Les comptes-rendus des oracles de Caeloria ne le mentionnent qu'en note de bas de page, comme un "établissement secondaire de la tribu Folinor, peu d'intérêt commercial". Ce que cette description omettait était considérable.
 
 Dhalvoria est une principauté des vallées — le terme est impropre, il n'y a pas de prince, c'est une désignation que les Folinor eux-mêmes utilisent par ironie légère pour désigner une autorité fondée sur quelque chose de plus ancien que la noblesse. C'est le siège des Archives Orales de Yurrak.
 
@@ -74,7 +74,7 @@ Le repas à Dhalvoria est une affaire communautaire.
 
 Dans la maison des Gardiens — une longue bâtisse basse à ossature de bois et murs de terre cuite rouge, qui utilisait les deux éperons rocheux comme parois naturelles à ses extrémités — on disposait chaque soir une table unique, longue d'un bout de la pièce à l'autre, et on mangeait tous ensemble, Gardiens, apprentis, visiteurs, sans séparation de rang ni de tribu d'origine. Orryn s'assit parmi les Folinor avec la facilité de quelqu'un qui connaissait la maison. On me fit place à côté de Mekh, ce que je compris plus tard comme un signe plutôt que comme un hasard logistique.
 
-On servit un ragoût de viande de chèvre des montagnes mijoté aux herbes de la vallée — des plantes que je ne reconnus pas, dont l'une donnait un parfum légèrement fumé que je cherchai à identifier sans y parvenir, et dont une autre donnait une amertume en fond qui n'était pas déplaisante mais qui persistait longtemps après la bouchée, comme une note tenue. Du pain plat cuit sur pierre. Du vin d'une plante locale, un fermenté amber servi dans des coupes de bois qui avaient l'odeur des récits — l'odeur du bois vieilli qui a absorbé la cire et la poussière et la chaleur des mains.
+On servit un ragoût de viande de chèvre des montagnes mijoté aux herbes de la vallée — des plantes que je ne reconnus pas, dont l'une donnait un parfum légèrement fumé que je cherchai à identifier sans y parvenir, et dont une autre donnait une amertume en fond qui n'était pas déplaisante mais qui persistait longtemps après la bouchée, comme une note tenue. Du pain plat cuit sur pierre. Du vin d'une plante locale, un fermenté ambré servi dans des coupes de bois qui avaient l'odeur des récits — l'odeur du bois vieilli qui a absorbé la cire et la poussière et la chaleur des mains.
 
 Mekh mangea en silence pendant un moment. Puis il dit, sans préambule, comme si nous étions en plein milieu d'une conversation que lui seul avait déjà commencée dans sa tête :
 
@@ -128,7 +128,7 @@ Ceux d'Avant-le-Nom n'avaient pas été emportés par une guerre, ni par une cat
 
 Les Anciens avaient vécu après eux. Ils avaient trouvé un monde transformé et ils avaient appris à y vivre. Ils avaient trouvé les traces de Ceux d'Avant-le-Nom et ils avaient essayé de comprendre. Et dans les dernières mémoires que les ruines des Anciens transmettaient — les mémoires gravées au moment de leur propre extinction, ce que les Écho-Guides appellaient les Pierres du Crépuscule —, il y avait cette phrase que Mekh récita en fermant les yeux plus fort, comme si les mots lui coûtaient physiquement :
 
-*Le cycle recommence. Nous sentons les Profonds sous nos pieds. Nous avons appris leur nom trop tard. Que ceux qui viennent après nous apprennent-le à temps.*
+*Le cycle recommence. Nous sentons les Profonds sous nos pieds. Nous avons appris leur nom trop tard. Que ceux qui viennent après nous l'apprennent à temps.*
 
 ---
 
@@ -182,7 +182,7 @@ Elle n'était pas aveugle. Elle me regardait.
 
 Orryn me dit à voix basse : *Elle ne parle pas. Jamais parlé. Vous le savez déjà. Elle communique par les mains, par les sons qu'elle produit — pas des mots, des fréquences. Les Écho-Guides qui l'entourent traduisent.*
 
-Il y avait deux femmes plus jeunes debout de chaque côté de Yelthari. L'une d'elles s'appelait Tirenne, une femme d'une trentaine d'années au tatouage de glyphe sur la tempe gauche. C'est elle qui parla après que Yelthari eut produit une série de sons — des consonances graves, modulées, qui évoquaient plus le chant d'un instrument à vent que la parole humaine, mais qui portaient une structure mélodique reconnaissable comme intention.
+Deux femmes plus jeunes se tenaient debout, une de chaque côté de Yelthari. L'une d'elles s'appelait Tirenne, une femme d'une trentaine d'années au tatouage de glyphe sur la tempe gauche. C'est elle qui parla après que Yelthari eut produit une série de sons — des consonances graves, modulées, qui évoquaient plus le chant d'un instrument à vent que la parole humaine, mais qui portaient une structure mélodique reconnaissable comme intention.
 
 *Elle dit*, traduisit Tirenne, *que vous sentez les Profonds depuis longtemps.*
 
@@ -208,11 +208,11 @@ Mirathi Voix-d'Ambre me reçut seul, sans Orryn, sans Tirenne, dans une chambre 
 
 C'était une femme d'une soixantaine d'années au regard perçant, à la peau marquée par le soleil et le vent des hauteurs, au tatouage de glyphe sur le front — pas une spirale, pas une ligne, un symbole que je mis un moment à reconnaître parce que je ne m'attendais pas à le trouver là : quelque chose de très proche, structurellement, des inscriptions que j'avais relevées dans les tunnels frontières. Pas identique. La même langue, peut-être.
 
-Elle parla sans préambule, dans un ulinorien lent et délibéré que j'entendais dans une langue que je ne connaissais pas et qui, étrangement, me parvenait avec un sens. Cela n'était pas normal. Je ne l'interprétai pas comme surnaturel — je l'interprétai comme Délié. Un an et demi de marche à travers les anomalies du monde avait peut-être ouvert quelque chose dans ma perception. Ou peut-être que Mirathi parlait d'une façon qui portait le sens dans les fréquences plutôt que dans les mots.
+Elle parla sans préambule, dans un ulinorien lent et délibéré — une langue que je ne connaissais pas et qui, étrangement, me parvenait avec un sens. Cela n'était pas normal. Je ne l'interprétai pas comme surnaturel — je l'interprétai comme Délié. Un an et demi de marche à travers les anomalies du monde avait peut-être ouvert quelque chose dans ma perception. Ou peut-être que Mirathi parlait d'une façon qui portait le sens dans les fréquences plutôt que dans les mots.
 
 Elle me dit, *selon sa propre lecture du Canyon*, que le Message qu'elle avait reçu n'était pas un avertissement ordinaire. Pour elle, les Anciens ne prédisaient pas — leurs mémoires gravées dans la pierre étaient des mémoires, pas des prophéties. Ce qu'elle entendait n'était pas une voix qui disait *ceci va arriver* mais une voix qui disait *ceci est arrivé*. La nuance, en ulinorien, était la différence entre une prédiction et une description. Et ce que la voix dans le Canyon décrivait — avec des détails qui, dans son interprétation, recoupaient ce que les Fragments de Yurrak mentionnaient et ce que les Pierres du Crépuscule des Anciens avaient gravé — Mirathi le nommait *le Retour*. Pas une répétition, pas une imitation, disait-elle : le même motif. Je consignai cette lecture comme la sienne, en gardant à l'esprit que Mirathi parlait depuis un cadre — celui des Écho-Guides — qui ne distinguait pas entre la fidélité d'un témoin et la cohérence d'un récit transmis sur deux extinctions.
 
-Elle me dit que les signes préliminaires que le témoignage des Anciens décrivait étaient : premièrement, le silence progressif des entités spirituelles qui habitaient le monde — les esprits de la nature se retirant vers leur source avant l'arrivée de quelque chose de plus fondamental. Deuxièmement, les changements dans les eaux profondes — les courants altérés, les créatures de l'abîsse remontant vers la surface. Troisièmement, les altérations des fréquences naturelles de la roche et des arbres, perçues par les sensitifs. Quatrièmement, les êtres nés différemment — les Anciens avaient noté dans leurs dernières archives qu'un certain nombre d'enfants naissaient avec une perception altérée, des yeux clairs, une sensibilité aux fréquences profondes qui n'était pas naturelle dans la population ordinaire.
+Elle me dit que les signes préliminaires que le témoignage des Anciens décrivait étaient : premièrement, le silence progressif des entités spirituelles qui habitaient le monde — les esprits de la nature se retirant vers leur source avant l'arrivée de quelque chose de plus fondamental. Deuxièmement, les changements dans les eaux profondes — les courants altérés, les créatures de l'abysse remontant vers la surface. Troisièmement, les altérations des fréquences naturelles de la roche et des arbres, perçues par les sensitifs. Quatrièmement, les êtres nés différemment — les Anciens avaient noté dans leurs dernières archives qu'un certain nombre d'enfants naissaient avec une perception altérée, des yeux clairs, une sensibilité aux fréquences profondes qui n'était pas naturelle dans la population ordinaire.
 
 Je n'eus pas besoin de confirmer que tous ces signes correspondaient à ce que j'avais observé depuis six cent quatre-vingt-cinq jours. Elle le savait. Mekh le lui avait dit, et Yelthari le lui avait dit avant Mekh, et les Anciens le lui avaient dit avant Yelthari.
 
@@ -230,7 +230,7 @@ Le Canyon de l'Écho la nuit est une expérience que je n'aurais pas pu anticipe
 
 Mirathi m'avait accordé la permission de m'asseoir seul au bord, dans la position que les Jentar appellent la Position d'Écoute — les jambes croisées, les mains à plat sur la roche, le dos droit. Pas de torche. La lune était à son premier quartier, suffisante pour ne pas tomber dans le gouffre. Insuffisante pour voir quoi que ce fût en dessous.
 
-La voix descendante du Canyon — l'empilement des résonnances accumulées depuis des siècles, des générations de noms jetés dans le gouffre, des générations de mots prononcés au bord, des sons qui ne s'étaient jamais éteints mais s'étaient simplement posés dans les couches de l'écho comme des sédiments se posent dans les strates —, cette voix était une chose que je n'avais pas de vocabulaire adéquat pour décrire. Pas une voix humaine. Pas plusieurs voix humaines. Quelque chose de plus vieux et de plus large, qui portait en lui des fréquences individuelles que je ne distinguais pas mais dont je percevais la multiplicité de la même façon qu'on perçoit la multiplicité d'une forêt sans en compter les arbres.
+La voix descendante du Canyon — l'empilement des résonances accumulées depuis des siècles, des générations de noms jetés dans le gouffre, des générations de mots prononcés au bord, des sons qui ne s'étaient jamais éteints mais s'étaient simplement posés dans les couches de l'écho comme des sédiments se posent dans les strates —, cette voix était une chose que je n'avais pas de vocabulaire adéquat pour décrire. Pas une voix humaine. Pas plusieurs voix humaines. Quelque chose de plus vieux et de plus large, qui portait en lui des fréquences individuelles que je ne distinguais pas mais dont je percevais la multiplicité de la même façon qu'on perçoit la multiplicité d'une forêt sans en compter les arbres.
 
 Et dans cette multiplicité, quelque chose que je reconnus.
 
@@ -238,7 +238,7 @@ Non pas un son. Non pas une fréquence. Une structure. Une structure linguistiqu
 
 C'était la même langue.
 
-La même langue que les inscriptions des tunnels frontières. La même langue que le Message de Mirathi, dans sa structure profonde. Pas l'ulinorien. Pas le vieux thalmari. Pas aucune langue que les cartographes linguistiques de Solena avaient jamais cataloguée. Quelque chose d'avant. Quelque chose que les Anciens avaient utilisé parce qu'ils avaient hérité de Ceux d'Avant-le-Nom, et que Ceux d'Avant-le-Nom avaient peut-être eux-mêmes hérité de quelque chose de plus ancien encore.
+La même langue que les inscriptions des tunnels frontières. La même langue que le Message de Mirathi, dans sa structure profonde. Pas l'ulinorien. Pas le vieux thalmari. Aucune langue que les cartographes linguistiques de Solena avaient jamais cataloguée. Quelque chose d'avant. Quelque chose que les Anciens avaient utilisé parce qu'ils avaient hérité de Ceux d'Avant-le-Nom, et que Ceux d'Avant-le-Nom avaient peut-être eux-mêmes hérité de quelque chose de plus ancien encore.
 
 La langue des Profonds, peut-être.
 
@@ -274,7 +274,7 @@ Je ne le savais pas. Je ne pouvais pas le savoir depuis les données disponibles
 
 Ce que je savais était ceci : les signes avaient commencé à s'accélérer depuis environ dix-huit mois dans le monde entier. Ce n'était pas mon imagination — j'avais des témoignages indépendants de Thalmaris, d'Evertia, d'Ulinor, de Cendra, qui convergeaient tous vers la même période d'initiation. Dix-huit mois. Quelque chose qui avait commencé avant même que je parte, quelque chose que mon départ avait peut-être été conçu — par mon père, par les gens qui le savaient et qui m'avaient orienté vers ce voyage — pour documenter pendant qu'il était encore possible de le documenter.
 
-*Ton père avait peur.*
+*Votre père avait peur.*
 
 Il avait peur parce qu'il avait vu. Il était venu ici et il avait entendu les Fragments de Yurrak et il avait reconnu la structure de la langue dans le Canyon, et il était parti trop vite parce que ce qu'il avait compris était trop grand pour être regardé en face d'une seule fois.
 
@@ -292,7 +292,7 @@ Nous y allâmes seules toutes les deux. Elle se plaça au bord avec la familiari
 
 Elle émit un son. Long, grave, une seule fréquence tenue avec une régularité que j'aurais crue impossible pour un corps humain — sans reprendre haleine, sans vacillement, pendant ce qui me parut être plusieurs minutes. Et le Canyon répondit.
 
-Non pas métaphoriquement. Non pas dans le sens où les chamanes disaient que le Canyon répondait toujours. Quelque chose changea dans le fond sonore — le bruit de fond continuel qui caractérisait Jentaris se modifia pendant la durée où Yelthari tint sa note, comme si la note qu'elle produisait trouvait son homologue dans les profondeurs et le tirait vers la surface, une vibration appelant une vibration correspondante.
+Non pas métaphoriquement. Non pas dans le sens où les chamanes disaient que le Canyon répondait toujours. Quelque chose changea dans le fond sonore — le bruit de fond continu qui caractérisait Jentaris se modifia pendant la durée où Yelthari tint sa note, comme si la note qu'elle produisait trouvait son homologue dans les profondeurs et le tirait vers la surface, une vibration appelant une vibration correspondante.
 
 Puis elle se tut.
 
@@ -300,7 +300,7 @@ Elle se retourna vers moi. Ses yeux gris-blanc me regardèrent pendant un moment
 
 Ses mains bougèrent. Tirenne n'était pas là pour traduire. Mais quelque chose — la même chose qui m'avait permis de comprendre les mots de Mirathi la veille, la même résonance qui avait peut-être toujours été là mais que six cent quatre-vingt-cinq jours de marche à travers les anomalies du monde avaient débloquée — quelque chose me donna le sens du geste.
 
-*Continue de descendre*, voulait-il dire. *La réponse est plus bas.*
+*Continue de descendre*, voulait-elle dire. *La réponse est plus bas.*
 
 ---
 
@@ -336,7 +336,7 @@ Ils avaient tout gravé. Tout confié à la pierre parce que la pierre garde mie
 
 Mon père était venu ici et il avait eu peur et il était parti.
 
-Je ne savais pas encore si j'étais plus courageux que lui ou simplement moins conscient de ce qui m'attendait. Peut-être les deux. Peut-être que la différence entre le courage et l'inconscience n'est pas une différence de nature mais une différence de savoir : on est courageux avant de voir ce qu'on va affronter, et après, soit on a changé de nom, soit on n'est plus là pour le porter.
+Je ne savais pas encore si j'étais plus courageux que lui ou simplement moins conscient de ce qui m'attendait. Peut-être les deux. Peut-être que la différence entre le courage et l'inconscience n'est pas une différence de nature mais une différence de savoir.
 
 La Carte du Silence indiquait toujours Evertia. Mais ce n'était plus Evertia que je regardais.
 

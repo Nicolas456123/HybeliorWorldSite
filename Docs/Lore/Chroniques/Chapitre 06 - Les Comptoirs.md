@@ -14,15 +14,15 @@ needs_review_for: []
 
 ---
 
-Le premier sens qui fut touché, en arrivant à Portharis, ce ne fut pas la vue. Ce fut l'ouïe.
+À l'arrivée à Portharis, ce n'était pas la vue qui m'avait frappé en premier. C'était l'ouïe.
 
 Seize jours de mer m'avaient habitué à un monde sonore réduit à l'essentiel : le vent dans les voiles, l'eau contre la coque, les voix de l'équipage du *Souffle d'Etheira* — une quinzaine d'hommes et de femmes dont j'avais appris les noms, les rires distincts et les façons de tenir une barre. Une bulle de sons connus, réguliers, presque rassurants. Et soudain, lorsque la ligne sombre de la côte d'Onara s'était transformée en port, puis en ville, puis en cet enchevêtrement de quais, de mâts, d'entrepôts et d'humanité que l'on appelle Portharis — soudain, tout avait déferlé d'un coup.
 
 Le bruit de Portharis est indescriptible. Je vais pourtant essayer, parce que ma plume est ma seule façon de tenir le monde à une distance respectable.
 
-C'est d'abord un rugissement de fond, comme si la mer elle-même se faisait ville — permanent, sourd, constitué de milliers de sons distincts que l'oreille refuse d'individualiser et fond en une masse. Dessus, des voix. Des dizaines de langues, dont beaucoup que je ne reconnais pas, dont certaines que j'identifie — le kharaziri dur et roulant que je parle, le solénien chantant que j'ai appris en marchant à travers Galenor, quelque chose qui ressemble à du venterien, d'autres inflexions que je n'ai pas encore de nom pour placer. Des cris de marchands, des ordres lancés à des débardeurs, des négociations menées fort comme si le volume était une tactique commerciale, des rires brefs, des disputes réglées en quinze secondes avec l'efficacité de peuples habitués à ne pas perdre de temps.
+C'est d'abord un rugissement de fond, comme si la mer elle-même se faisait ville — permanent, sourd, constitué de milliers de sons distincts que l'oreille refuse d'individualiser et qu'elle fond en une masse unique. Dessus, des voix. Des dizaines de langues, dont beaucoup que je ne reconnais pas, dont certaines que j'identifie — le kharaziri dur et roulant que je parle, le solénien chantant que j'ai appris en marchant à travers Galenor, quelque chose qui ressemble à du venterien, d'autres inflexions auxquelles je ne sais pas encore mettre un nom. Des cris de marchands, des ordres lancés à des débardeurs, des négociations menées fort comme si le volume était une tactique commerciale, des rires brefs, des disputes réglées en quinze secondes avec l'efficacité de peuples habitués à ne pas perdre de temps.
 
-Puis les odeurs — et là encore, la quantité écrase la qualité. Les épices d'abord, une muraille olfactive de cannelle et de poivre et de quelque chose de floral que je ne connais pas, puis sous les épices l'odeur de goudron et de sel qui ne quitte aucun port du monde, puis quelque chose d'animal — cuir, sueur, crottin de cheval venu des docks de chargement intérieurs — et par-dessus tout cela, intermittent, l'odeur du pain qui cuit quelque part où quelqu'un a la sagesse de maintenir une boulangerie ouverte quand tout le reste de la ville ne pense qu'à vendre.
+Puis les odeurs — et là encore, la quantité écrase la qualité. Les épices d'abord, une muraille olfactive de cannelle et de poivre et de quelque chose de floral que je ne connais pas. Sous les épices, l'odeur de goudron et de sel qui ne quitte aucun port du monde. Puis quelque chose d'animal — cuir, sueur, crottin de cheval venu des docks de chargement intérieurs. Et par-dessus tout cela, intermittent, le pain qui cuit quelque part où quelqu'un a la sagesse de maintenir une boulangerie ouverte quand tout le reste de la ville ne pense qu'à vendre.
 
 Vela Morn m'avait regardé depuis le pont alors que je prenais tout cela, immobile à la rambarde comme un homme qui ne sait pas encore si ce qu'il voit est beau ou menaçant.
 
@@ -30,7 +30,7 @@ Vela Morn m'avait regardé depuis le pont alors que je prenais tout cela, immobi
 
 — Est-ce que ça se voit autant pour tout le monde ?
 
-— Pour tous ceux qui viennent de continents où les ports ont encore de l'espace entre les bateaux. Ici, il n'y a pas d'espace. Ici, il n'y a que du monde.
+— Pour tous ceux qui viennent de continents où les ports ont encore de l'espace entre les bateaux. Ici, il n'y a pas d'espace. Ici, il n'y a que des gens.
 
 Elle avait dit cela avec la fierté étrange d'une femme qui n'est pas de Tyndara mais qui a assez navigué vers Tyndara pour avoir adopté quelque chose de son admiration.
 
@@ -64,7 +64,7 @@ Ce fut Maldrix qui commença à me les montrer.
 
 Maldrix tenait un comptoir de cartographie en bas de la rue du Sel, à l'angle d'un passage couvert où les marchands de quatrième catégorie exposaient des produits de qualité moyenne avec des arguments de première catégorie. Son comptoir à lui était différent : pas d'exposition en vitrine, juste une enseigne sobre sur laquelle était peint un compas ouvert, et à l'intérieur, des rangées de tubes de cuir qui contenaient des rouleaux de parchemin.
 
-Il était entrée dans sa vie comme une coïncidence, le genre de coïncidence dont j'ai appris à reconnaître qu'elles ne le sont jamais tout à fait. J'avais vu l'enseigne le premier jour, m'en étais approché le deuxième, et le troisième, cédant à une curiosité professionnelle que je croyais assoupie, j'avais poussé la porte.
+Il était entré dans ma vie comme une coïncidence, le genre de coïncidence dont j'ai appris à reconnaître qu'elles ne le sont jamais tout à fait. J'avais vu l'enseigne le premier jour, m'en étais approché le deuxième, et le troisième, cédant à une curiosité professionnelle que je croyais assoupie, j'avais poussé la porte.
 
 Maldrix Thoen avait cinquante-cinq ans et les yeux d'un homme qui passe beaucoup de temps à comparer ce qu'on lui dit avec ce qu'il voit. Il était de Vyndris, le hameau de cartographes d'Eryndor — et quand il avait appris que j'avais été formé à la Guilde des Cartographes de Kharazir, il avait eu un moment de silence évaluatif, suivi d'une question précise sur la méthode de triangulation du golfe de Kharazir. Une question de professionnel qui teste un autre professionnel.
 
@@ -86,7 +86,7 @@ C'est lui qui avait mentionné la Catena Fracta, le Jour 74.
 
 La conversation avait commencé sur les routes commerciales — sur la façon dont les nouvelles routes que les flottes tyndariennes ouvraient vers des continents encore peu connus modifiaient l'équilibre du commerce. Maldrix avait une façon de parler du commerce comme d'un organisme vivant, qui respire et se contracte et qui peut mourir. Il avait dit que certaines choses perturbaient le commerce d'une façon qui n'était pas normale — pas les tempêtes, pas les guerres déclarées, mais quelque chose de plus discret.
 
-— Il y a des routes qui faiblissent, avait-il dit, en choisissant ses mots avec une précision qui indiquait qu'il les avait choisis à l'avance. Des routes stables depuis des générations. Des navires qui s'en vont et reviennent moins souvent qu'avant. Pas dans les proportions d'une catastrophe — juste assez pour que les statisticiens remarquent sans que les politiques puissent agir.
+— Il y a des routes qui faiblissent, avait-il dit, en choisissant ses mots avec une précision qui indiquait qu'il les avait choisis à l'avance. Des routes stables depuis des générations. Des navires qui s'en vont et reviennent moins souvent qu'avant. Pas dans les proportions d'une catastrophe — juste assez pour que les statisticiens le notent sans que les politiques puissent agir.
 
 — Des pirates ? avais-je suggéré.
 
@@ -134,7 +134,7 @@ Je ne pouvais pas lire leurs documents. Je pouvais observer leurs visages. Deux 
 
 La transaction avait pris dix minutes. Ils étaient repartis, dans des directions différentes. L'un d'eux avait laissé sur la table un petit objet plat — et la serveuse, sans la moindre surprise, l'avait ramassé et mis dans sa poche. Un pourboire, peut-être. Ou quelque chose de plus complexe.
 
-J'avais commandé un vin blanc de Celnaris — ici il coûtait trois fois son prix à Vyndralith, ce que je trouvai à la fois logique et légèrement outrageant — et j'avais continué à observer.
+J'avais commandé un vin blanc de Celnaris — ici il coûtait trois fois son prix à Vyndralith, ce que je trouvais à la fois logique et légèrement outrageant — et j'avais continué à observer.
 
 ---
 
@@ -190,13 +190,13 @@ Veln avait souri — d'un sourire qui n'atteignait pas ses yeux.
 
 — Je parle de beaucoup de choses, avait-elle dit. Il est prudent, à Portharis, de ne pas rétrécir trop vite ce dont on parle. La Catena Fracta est une bonne image pour beaucoup de choses différentes ; c'est ça, son problème. À force de servir à tout, elle finit par ne plus expliquer rien. Quand je parle de territoires d'information, je parle de territoires d'information. Si l'un d'eux croise une cellule de la Chaîne Brisée à un moment donné, c'est intéressant, mais ce n'est pas la trame.
 
-La conversation avait pris un autre chemin, et j'avais eu l'intelligence de la laisser prendre ce chemin. Ce qui m'était resté de l'échange, ce n'était pas la confirmation que j'avais d'abord cru entendre dans le silence de Maldrix. C'était plutôt l'inverse : une mise en garde douce contre ma propre tendance à accrocher un nom sur une vacance d'explication. À Kharazir, on m'avait collé l'étiquette de sympathisant Catena Fracta sans que mes pratiques ne ressemblent en rien à un sevrage des Voies — l'étiquette servait à autre chose qu'à décrire. Ici, à Portharis, le même nom servait à autre chose qu'à décrire des navires perdus. Le nom, peut-être, était de ces objets dont on apprend plus en regardant ce qu'on en fait qu'en cherchant ce qu'il désigne.
+La conversation avait pris un autre chemin, et j'avais eu l'intelligence de la laisser prendre ce chemin. Ce qui m'était resté de l'échange, ce n'était pas la confirmation que j'avais d'abord cru entendre dans le silence de Maldrix. C'était plutôt l'inverse : une mise en garde douce contre ma propre tendance à accrocher un nom sur une vacance d'explication. À Kharazir, on m'avait collé l'étiquette de sympathisant Catena Fracta sans que mes pratiques ressemblent en rien à un sevrage des Voies — l'étiquette servait à autre chose qu'à décrire. Ici, à Portharis, le même nom servait à autre chose qu'à décrire des navires perdus. Le nom, peut-être, était de ces objets dont on apprend plus en regardant ce qu'on en fait qu'en cherchant ce qu'il désigne.
 
 ---
 
 Le Jour 78 — aujourd'hui — j'ai marché jusqu'aux docks extérieurs, les plus éloignés du centre commercial, là où les navires de moindre importance amarrent et où la population des quais est plus diverse, moins guindée.
 
-Il y avait là un enfant de dix ans qui vendait des nouvelles. Pas des journaux — à Portharis il n'y a pas encore de presse régulière, seulement des afficheurs et des lecteurs publics — mais des nouvelles orales, racontées rapidement, au prix d'une pièce de cuivre par information. Ce système, m'avait expliqué Maldrix, avait existé depuis les premières années de la Ligue : l'information est une marchandise comme une autre.
+Il y avait là un enfant de dix ans qui vendait des nouvelles. Pas des journaux — à Portharis il n'y a pas encore de presse régulière, seulement des afficheurs et des lecteurs publics — mais des nouvelles orales, racontées rapidement, au prix d'une pièce de cuivre par information. Ce système, m'avait expliqué Maldrix, existait depuis les premières années de la Ligue : l'information est une marchandise comme une autre.
 
 L'enfant s'appelait Dris. Il avait une façon de regarder son interlocuteur en attendant sa pièce qui était plus vieille que son âge — le regard de quelqu'un qui a appris très jeune que rien ne vient sans transaction.
 
@@ -226,15 +226,13 @@ Je pense à Maldrix et à ses cartes. À Veln et à ses treize langues. À Dris 
 
 Je pense au nom que j'ai entendu : Catena Fracta.
 
-Il n'est pas dans mes cartes, évidemment. Les cartographes de Kharazir dessinaient les routes, les ports, les frontières, les reliefs. Ils ne dessinaient pas ce qui se passe dans les intervalles — les accords informels, les flux invisibles, les chaînes de décisions qui relient un incendie à Portharis à un navire vide au large de Ralmeria. Ce territoire-là n'a pas de cartographe.
+Il n'est pas dans mes cartes, évidemment. Les cartographes de Kharazir dessinaient les routes, les ports, les frontières, les reliefs. Ils ne dessinaient pas ce qui se passe dans les intervalles — les accords informels, les flux invisibles, les chaînes de décisions qui relient un entrepôt brûlé dans le quartier des épices à un navire retrouvé vide au large de Ralmeria. Ce territoire-là n'a pas de cartographe.
 
 Ou peut-être que si. Peut-être que c'est précisément le territoire dont je devrais apprendre à faire les cartes. Non pas avec des instruments de mesure et des compas d'arpentage — avec des yeux ouverts et une plume et la patience d'un homme qui n'a plus rien à perdre d'autre que sa naïveté.
 
-Mon exil m'a pris ma certitude. La route me redonne quelque chose d'autre à la place — pas la certitude, qui est toujours un mensonge, mais une capacité d'attention que je n'avais pas à Kharazir. Quand on dessine des cartes pour une institution, on voit ce que l'institution a besoin de voir. Quand on est un exilé qui marche dans des villes étrangères sans mandat ni salaire, on commence à voir le reste.
+Mon exil m'a pris ma certitude. La route me redonne quelque chose d'autre à la place — pas une autre certitude, plutôt une capacité d'attention que je n'avais pas à Kharazir. Quand on dessine des cartes pour une institution, on voit ce que l'institution a besoin de voir. Quand on est un exilé qui marche dans des villes étrangères sans mandat ni salaire, on commence à voir le reste.
 
 Le reste est vaste.
-
-Le reste est, peut-être, ce qu'il y a de plus intéressant.
 
 ---
 

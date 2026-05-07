@@ -15,7 +15,7 @@ needs_review_for: []
 
 ---
 
-La première chose que j'ai entendue, avant même d'avoir vu les murs d'Althior, c'est la musique. Pas une mélodie précise — plutôt une présence sonore, comme si l'air lui-même avait une texture différente, comme si les molécules entre ma bouche et l'horizon vibraient à une fréquence qu'on ne pouvait pas tout à fait nommer. Un bourdonnement continu, harmonieux, venu de partout et de nulle part, qui précédait la ville comme une aura précède un orage.
+La première chose que j'ai entendue, avant même d'avoir vu les murs d'Althior, c'est la musique. Pas une mélodie précise — plutôt une présence sonore, comme si l'air lui-même avait une texture différente, comme si la matière même de l'air entre ma bouche et l'horizon vibrait à une fréquence qu'on ne pouvait pas tout à fait nommer. Un bourdonnement continu, harmonieux, venu de partout et de nulle part, qui précédait la ville comme une rumeur basse précède la foule qui marche derrière elle.
 
 Puis j'ai vu les flèches. De loin, dans la lumière de fin d'après-midi, elles ressemblaient à des aiguilles de cristal plantées dans la montagne — blanches, impossiblement minces, s'élevant depuis la vallée de Caverana avec une légèreté que la pierre n'aurait pas dû autoriser. Le soleil les frappait obliquement et elles renvoyaient la lumière en fragments irisés, comme si chaque flèche était aussi un prisme, un instrument de transformation plutôt qu'un simple ornement architectural.
 
@@ -53,13 +53,13 @@ Je n'ai pas compris les mots. Mais j'ai compris que quelqu'un croyait profondém
 
 ---
 
-Je dois m'arrêter ici sur la question de la beauté, parce que si je ne l'affronte pas maintenant elle va continuer à me ronger comme un calcaire que le courant creuse imperceptiblement.
+Je dois m'arrêter ici sur la question de la beauté, parce que si je ne l'affronte pas maintenant elle va continuer à me ronger comme l'eau ronge le calcaire — sans bruit, et sans qu'on voie la perte avant des années.
 
 Althior est belle. C'est un fait aussi indiscutable que la taille des flèches ou la résonance des cloches — une beauté qui n'est pas de l'ordre de l'opinion mais de l'ordre de la structure, de la proportion, de la lumière transformée en langage. La Cathédrale des Lumières, que j'ai vue le lendemain matin dans la clarté directe du soleil de montagne, était quelque chose pour lequel je n'avais pas de mot adéquat. Mon vocabulaire de cartographe — élévation, superficie, orientation, matériaux — s'effondrait devant elle. Ma langue entière s'effondrait.
 
 Les vitraux étaient en verre de Ylthros, d'une transparence qui rendait les couleurs non pas opaques mais profondes — comme si la lumière ne traversait pas simplement le verre mais y séjournait, s'y transformait, en ressortait changée. La nef était un espace dans lequel le corps lui-même se sentait différent : plus léger, ou peut-être plus dense, ou peut-être simplement plus conscient d'être là.
 
-À dix heures du matin, quand le soleil atteignait l'angle calculé par les sept architectes fondateurs, les vitraux centraux composaient ce que j'ai entendu appeler, par une pèlerine à ma gauche, "la symphonie de couleurs" — une phrase que j'avais lue dans des descriptions mais que j'avais mentalement classée dans la catégorie des hyperboles dévotes. Elle ne l'était pas. La lumière colorée projetait sur les murs de pierre blanche des motifs qui changeaient d'une minute à l'autre, comme un manuscrit enluminé qui se réécrirait en temps réel, dont chaque page serait différente de la précédente, et chacune parfaite.
+À dix heures du matin, quand le soleil atteignait l'angle calculé par les sept architectes fondateurs, les vitraux centraux composaient ce que j'ai entendu appeler, par une pèlerine à ma gauche, "la symphonie de couleurs". J'avais lu cette phrase dans des descriptions et l'avais mentalement classée dans la catégorie des hyperboles dévotes. Elle ne l'était pas. La lumière colorée projetait sur les murs de pierre blanche des motifs qui changeaient d'une minute à l'autre — comme un manuscrit enluminé dont les pages se redessineraient sous l'œil du lecteur, chacune différente de la précédente, et chacune parfaite.
 
 J'ai regardé ça longtemps. Très longtemps.
 
@@ -69,7 +69,7 @@ Je n'ai pas pu. Pas parce que mes mains refusaient — elles ont tracé des lign
 
 C'est là que la beauté d'Althior m'a fait mal pour la première fois.
 
-J'ai refermé le carnet sur cette ébauche que je n'ai pas arrachée — c'est important, je l'ai laissée là, dans le carnet, comme on laisse une faute d'orthographe dans une lettre quand l'arrachement coûterait plus cher que la faute elle-même. À Kharazir, j'aurais arraché. La précision exigeait l'élimination de l'imparfait. Ici, dans la nef, sous cette lumière qui se réécrivait à chaque minute, l'imparfait avait l'air de la seule chose que je pouvais honnêtement produire. Cela m'a coûté. Pas beaucoup. Juste assez pour que je le note.
+J'ai refermé le carnet sur cette ébauche que je n'ai pas arrachée — c'est important, je l'ai laissée là, dans le carnet, comme on laisse une rature dans une lettre déjà écrite, quand recommencer coûterait plus cher que de garder le défaut. À Kharazir, j'aurais arraché. La précision exigeait l'élimination de l'imparfait. Ici, dans la nef, sous cette lumière qui se réécrivait à chaque minute, l'imparfait avait l'air de la seule chose que je pouvais honnêtement produire. Cela m'a coûté. Pas beaucoup. Juste assez pour que je le note.
 
 ---
 
@@ -121,7 +121,7 @@ Nous l'avons rencontré dans son appartement au dernier étage d'une tour contig
 
 La cartographie de la lumière. Je n'avais jamais pensé à cela dans ces termes. Mais c'était exactement ça : des cartes de quelque chose d'immatériel, de mouvant, d'éphémère.
 
-Il m'a regardé avec l'intérêt vif et légèrement égaré d'un homme dont le cerveau fonctionne toujours plus vite que ses yeux — comme si la moitié de son attention était déjà sur la question suivante avant que la précédente ait été résolue. Il m'a demandé, avec une directness désarçonnante pour un homme d'Église, si j'avais de l'expérience en topographie souterraine.
+Il m'a regardé avec l'intérêt vif et légèrement égaré d'un homme dont le cerveau fonctionne toujours plus vite que ses yeux — comme si la moitié de son attention était déjà sur la question suivante avant que la précédente ait été résolue. Il m'a demandé, avec une franchise désarçonnante pour un homme d'Église, si j'avais de l'expérience en topographie souterraine.
 
 J'ai répondu oui, prudemment.
 
@@ -195,7 +195,9 @@ Parce que la roche parlait. Pas métaphoriquement — je n'ai pas de dons que je
 
 Et j'ai trouvé quelque chose. Quelque chose que je ne développerai pas entièrement ici parce que je ne suis pas encore certain de sa nature et que l'incertitude mérite le temps nécessaire à se résoudre. Mais au fond de la galerie des Voix Anciennes, là où Frère Soleth m'a dit de ne pas avancer plus loin parce que le sol devenait instable, j'ai vu dans la paroi une configuration de strates — une séquence d'inclinaisons et de compositions minérales — qui ressemblait à ce que j'avais cartographié sous Kharazir. Pas identique. Semblable. Comme deux phrases dans deux langues différentes qui traduisent la même idée.
 
-Je n'ai rien dit à Frère Soleth. J'ai noté. Et j'ai recommencé à marcher.
+Pour la précision : trois bandes de calcaire blanchâtre interrompues par une veine de basalte sombre d'environ deux pouces, inclinée à un angle d'environ trente degrés vers le sud-ouest, et au creux de cette veine une rainure régulière — une ligne droite, pas une fracture naturelle — qui courait sur trois pas avant de disparaître dans la roche. La rainure n'était pas profonde, mais sa rectitude excluait l'érosion ordinaire. Sous Kharazir, j'avais relevé une ligne de même apparence dans la galerie ouest, à un endroit où la maçonnerie ancienne s'arrêtait pour céder la place à la roche brute. Je n'avais pas su, à l'époque, ce qu'elle indiquait. Je ne le sais toujours pas. Mais je note que les deux lignes existent, dans deux pays séparés par six cents lieues, et que l'idée de coïncidence — pour un cartographe qui mesure depuis dix ans — devient à un certain point une explication paresseuse.
+
+Je n'ai rien dit à Frère Soleth. J'ai noté dans la marge — l'angle, la profondeur, l'orientation, et le mot *à comparer* en abrégé. Et j'ai recommencé à marcher.
 
 ---
 

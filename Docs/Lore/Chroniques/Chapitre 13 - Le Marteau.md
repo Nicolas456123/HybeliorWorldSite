@@ -24,11 +24,11 @@ Je m'attendais à des falaises, à la silhouette habituelle des pays maritimes �
 
 Velithar.
 
-Le port militaire de Mosrack. J'en avais entendu parler par deux marchands tyndariens pendant la traversée — avec ce mélange de crainte et de mépris que les gens de mer réservent aux ports qui ne sont pas faits pour eux. Velithar n'est pas un port de commerce. C'est un arsenal portuaire, une machoire de pierre et de fer ouverte sur la mer, et les navires qui y sont amarrés ne transportent pas d'épices.
+Le port militaire de Mosrack. J'en avais entendu parler par deux marchands tyndariens pendant la traversée — avec ce mélange de crainte et de mépris que les gens de mer réservent aux ports qui ne sont pas faits pour eux. Velithar n'est pas un port de commerce. C'est un arsenal portuaire, une mâchoire de pierre et de fer ouverte sur la mer, et les navires qui y sont amarrés ne transportent pas d'épices.
 
 ---
 
-Nous avons accosté dans la section marchande — separée du chantier naval militaire par une chaîne de bouées et la présence permanente de deux patrouilleurs de la flotte, dont les canons étaient visibles depuis le pont et dont les équipages nous regardaient avec l'attention de gens dont l'attention est le métier. Le capitaine de notre bâtiment — un tyndorien du nord, grisonnant et économe de ses paroles — a manœuvré avec la précision de quelqu'un qui a fait ce trajet trop souvent pour se laisser impressionner, mais dont les mains sur la barre restaient légèrement plus serrées que nécessaire.
+Nous avons accosté dans la section marchande — séparée du chantier naval militaire par une chaîne de bouées et la présence permanente de deux patrouilleurs de la flotte, dont les canons étaient visibles depuis le pont et dont les équipages nous regardaient avec l'attention de gens dont l'attention est le métier. Le capitaine de notre bâtiment — un tyndarien du nord, grisonnant et économe de ses paroles — a manœuvré avec la précision de quelqu'un qui a fait ce trajet trop souvent pour se laisser impressionner, mais dont les mains sur la barre restaient légèrement plus serrées que nécessaire.
 
 Pardine a refusé de débarquer.
 
@@ -42,7 +42,7 @@ J'aurais voulu partager sa conviction.
 
 Le bureau des douanes de Velithar occupait un bâtiment de pierre noire au bord du quai, carré et massif comme tout le reste ici, sans enseigne ni ornement sauf le symbole de Mosrack gravé profondément dans le linteau — un marteau croisé sur une enclume, taillé avec la précision d'un homme qui savait ce qu'il faisait et qui voulait que ça dure. Il y avait une queue. Des marchands étrangers pour la plupart, quelques ingénieurs d'aspect, une délégation de je ne savais quoi en vêtements d'une qualité que la poussière de voyage n'arrivait pas tout à fait à dissimuler.
 
-L'officier de douane était une femme d'une quarantaine d'années, la charpente épaisse des gens de Mosrack — j'apprendrais que presque tout le monde ici a cette charpente, comme si le pays lui-même forgeait ses habitants selon le même moule — portant l'uniforme de la garde de Velithar avec l'aisance de quelqu'un qui l'a mis chaque matin depuis si longtemps qu'il est devenu une seconde peau. Elle s'appelait, selon le plaque à son bureau, Commandante Orryn. Elle ne s'est pas présentée. Elle m'a simplement demandé mon nom, ma provenance, mon métier, ma destination, et la durée prévue de mon séjour.
+L'officier de douane était une femme d'une quarantaine d'années, la charpente épaisse des gens de Mosrack — j'apprendrais que presque tout le monde ici a cette charpente, comme si le pays lui-même forgeait ses habitants selon le même moule — portant l'uniforme de la garde de Velithar avec l'aisance de quelqu'un qui l'a mis chaque matin depuis si longtemps qu'il est devenu une seconde peau. Elle s'appelait, selon la plaque à son bureau, Commandante Orryn. Elle ne s'est pas présentée. Elle m'a simplement demandé mon nom, ma provenance, mon métier, ma destination, et la durée prévue de mon séjour.
 
 Cartographe. Origine : Kharazir, exil actif. Destination : Folgrad, pour observer. Durée : indéterminée.
 
@@ -68,7 +68,7 @@ Les auberges de Velithar servent ce que j'apprendrais à connaître comme la cui
 
 Ce n'est pas mauvais. C'est honnête d'une façon que la cuisine de Fablioris, avec ses entrelacs de saveurs et ses présentations savantes, ne pouvait pas revendiquer. La nourriture de Mosrack ne cherche pas à vous convaincre de quoi que ce soit. Elle nourrit. C'est tout ce qu'elle fait, et elle le fait bien.
 
-À ma table ce soir-là, un homme que j'avais remarqué dans la queue des douanes — un ingénieur à en juger par ses instruments et sa façon de regarder les charpentes du bâtiment avec cet œil professionnel qui ne se repose jamais. Il se présenta comme Gorven, de la région de Camord, ingénieur de forge en déplacement pour une consultation à Velithar. Je lui demandai pour quoi. Il dit — avec la directness qui semblait être ici une politesse et non pas une incivilité : « Je ne vous le dirai pas. »
+À ma table ce soir-là, un homme que j'avais remarqué dans la queue des douanes — un ingénieur à en juger par ses instruments et sa façon de regarder les charpentes du bâtiment avec cet œil professionnel qui ne se repose jamais. Il se présenta comme Gorven, de la région de Camord, ingénieur de forge en déplacement pour une consultation à Velithar. Je lui demandai pour quoi. Il dit — avec la franchise qui semblait être ici une politesse et non pas une incivilité : « Je ne vous le dirai pas. »
 
 J'appréciai la franchise. Nous bûmes en silence pendant un moment, et puis il demanda d'où je venais et ce que je faisais.
 
@@ -78,13 +78,13 @@ Il n'avait pas tort. La métaphore était juste. Je relève le terrain d'un mond
 
 ---
 
-Le convoi de marchands qui montait vers Folgrad était composé de sept chariots, deux gardes à cheval et une dizaine de voyageurs à statuts variés. Je pris place sur le deuxième chariot, Pardine attachée à l'arrière et me reprochant silencieusement de ne pas marcher moi-même comme un homme normal. La route vers Folgrad traversait la région de Velithar — la côte, d'abord, avec ses installations militaires visibles depuis les hauteurs et ses garnisons tous les dix lieues — puis montait dans l'intérieur du pays par des routes pavées de mâchefer compacté que les chariots prenaient bien mais dont la couleur grise-noire était la même que tout le reste.
+Le convoi de marchands qui montait vers Folgrad était composé de sept chariots, deux gardes à cheval et une dizaine de voyageurs à statuts variés. Je pris place sur le deuxième chariot, Pardine attachée à l'arrière et me reprochant silencieusement de ne pas marcher moi-même comme un homme normal. La route vers Folgrad traversait la région de Velithar — la côte, d'abord, avec ses installations militaires visibles depuis les hauteurs et ses garnisons toutes les dix lieues — puis montait dans l'intérieur du pays par des routes pavées de mâchefer compacté que les chariots prenaient bien mais dont la couleur gris-noir était la même que tout le reste.
 
 Le premier village que nous traversâmes s'appelait — selon un panneau en fer forgé cloué sur un poteau — Vrond. Il n'avait pas d'auberge. Il avait une forge, une caserne de garnison, et des maisons de brique grise dont les habitants nous regardèrent passer depuis leurs fenêtres sans changer d'expression. Pas d'hostilité. Pas de curiosité. Simplement un regard qui enregistrait notre passage comme un fait parmi les faits de la journée.
 
 C'est au deuxième jour que j'ai vu les forges de Camord.
 
-On les voit de loin. On les sent d'abord — l'odeur que j'avais captée en mer, mais multipliée, concentrée, jusqu'à ce qu'elle remplisse l'air d'une façon qui n'est plus une odeur mais presque une texture. On les entend ensuite — un battement régulier, profond, qui n'est pas du bruit de tambour mais qui résonne dans la même fréquence que le cœur, comme si le pays avait son propre pouls et qu'il était fait de métal frappé. Et puis on les voit : les cheminées de Camord, des dizaines, peut-être une centaine, crachant des colonnes de fumée blanche et grise et parfois noire qui montaient et fusionnaient en une couverture d'air sale suspendue à hauteur de nuage.
+On les sent d'abord — l'odeur que j'avais captée en mer, mais multipliée, concentrée, jusqu'à remplir l'air d'une façon qui n'est plus une odeur mais presque une texture. On les entend ensuite — un battement régulier, profond, qui n'est pas du bruit de tambour mais qui résonne dans la même fréquence que le cœur, comme si le pays avait son propre pouls et qu'il était fait de métal frappé. Et puis on les voit : les cheminées de Camord, des dizaines, peut-être une centaine, crachant des colonnes de fumée blanche et grise et parfois noire qui montaient et fusionnaient en une couverture d'air sale suspendue à hauteur de nuage.
 
 Le voyageur assis à côté de moi sur le chariot — une femme d'affaires de Tyndara, petite et précise dans ses mouvements, qui transportait des contrats à signer à Folgrad — désigna les cheminées avec le geste de quelqu'un qui fait une démonstration. Elle dit : « Mosrack exporte des armes dans soixante-trois pays. Soixante-trois. J'en connais le chiffre exact parce que ma guilde les achète pour trente d'entre eux. »
 
@@ -132,13 +132,13 @@ Je lui demandai comment il le savait.
 
 « Je les ai construits, » dit-il simplement.
 
-Il s'appelait Thedek, Commandant de Forge du district nord — un titre qui, j'appris plus tard, correspondait à une fonction administrative autant qu'industrielle, les Commandants de Forge étant les véritables administrateurs des régions industrielles, avec une autorité que même les officiers militaires locaux ne remettaient pas en question dans leurs périmètres. Il n'était pas particulièrement bavard — personne ne l'était, à Folgrad, la bavarderie était presque une impolitesse ici —, mais il avait cet intérêt pragmatique pour les compétences d'autrui qui est la version mosrackienne de la curiosité intellectuelle.
+Il s'appelait Thedek, Commandant de Forge du district nord — un titre qui, j'appris plus tard, correspondait à une fonction administrative autant qu'industrielle, les Commandants de Forge étant les véritables administrateurs des régions industrielles, avec une autorité que même les officiers militaires locaux ne remettaient pas en question dans leurs périmètres. Il n'était pas particulièrement bavard — personne ne l'était, à Folgrad, le bavardage était presque une impolitesse ici —, mais il avait cet intérêt pragmatique pour les compétences d'autrui qui est la version mosrackienne de la curiosité intellectuelle.
 
 Il me proposa de me montrer l'intérieur du fourneau en construction. Je n'hésitai pas une seconde.
 
 ---
 
-L'intérieur d'un haut fourneau en cours d'assemblage est un espace qui défie l'habitude. Les hauts fourneaux que j'avais vus à Myrtam — je noterai pour la continuité de ce journal que Myrtam, en Alkaran, m'avait déjà montré ce que l'industrie fait à un paysage et à des hommes — étaient impressionnants par leur dimension. Celui-ci, plus petit, était impressionnant par son détail. Chaque brique était choisie, chaque joint calculé pour résister à des températures que je ne pouvais pas tout à fait imaginer malgré les explications de Thedek. La chambre centrale, encore froide, ressemblait à une cathédrale cylindrique construite pour un dieu qui n'appréciait pas la lumière — les parois courbes, le sol en pente douce vers le drain de la coulée, le dôme au-dessus qui serait invisible quand les fumées l'empliraient.
+L'intérieur d'un haut fourneau en cours d'assemblage est un espace qui défie l'habitude. Les hauts fourneaux que j'avais vus à Myrtam — je noterai pour la continuité de ce journal que Myrtam, en Onara, m'avait déjà montré ce que l'industrie fait à un paysage et à des hommes — étaient impressionnants par leur dimension. Celui-ci, plus petit, était impressionnant par son détail. Chaque brique était choisie, chaque joint calculé pour résister à des températures que je ne pouvais pas tout à fait imaginer malgré les explications de Thedek. La chambre centrale, encore froide, ressemblait à une cathédrale cylindrique construite pour un dieu qui n'appréciait pas la lumière — les parois courbes, le sol en pente douce vers le drain de la coulée, le dôme au-dessus qui serait invisible quand les fumées l'empliraient.
 
 Thedek m'expliqua le processus avec la patience d'un homme qui aimait son sujet suffisamment pour accepter de le traduire pour un ignorant. Le minerai de Nosford, chargé par le haut. Le charbon qui alimentait la chambre de combustion. L'air insufflé par des soufflets mécaniques — un dispositif ingénieux qu'il me montra, un système de leviers et de cuir et d'engrenages de bois —, car l'air ordinaire ne suffisait pas, il fallait forcer l'air dans le feu pour atteindre les températures nécessaires. Et puis la coulée — le métal en fusion qui s'écoulait par le bas, dans les moules, refroidissait, devenait acier ou fer selon la composition du minerai et du charbon.
 
@@ -234,11 +234,11 @@ Je pris la liste. Je lui demandai pourquoi.
 
 Il répondit : « Les cartes fausses tuent des hommes. Dans mon métier, dans le vôtre, c'est la même chose. »
 
-Je compris que c'était le compliment le plus élevé qu'un Mosrackien pouvait formuler — vous m'avez considéré assez compétent pour que votre incompétence éventuelle représente un risque qu'il valait la peine de prévenir.
+Je compris que c'était le compliment le plus élevé qu'un Mosrackien pouvait formuler — il m'avait considéré assez compétent pour que mon incompétence éventuelle représente un risque qu'il valait la peine de prévenir.
 
 Je gardai la liste avec le disque d'acier du clan Teldar dans ma poche droite. Deux formes différentes du même jugement.
 
-Je pensai brièvement aux Archives de Kharazir, où le défaut d'une carte n'était jamais énoncé comme un défaut — il devenait une note de marge, puis un classement, puis l'oubli. Mosrack au moins nomme l'erreur. Je ne sais pas si c'est plus humain ou seulement plus efficace. C'est peut-être la même chose vue d'un côté différent du mur — pour reprendre ce qu'a dit la lieutenant Merra, mais à propos d'autre chose.
+Je pensai brièvement aux Archives de Kharazir, où le défaut d'une carte n'était jamais énoncé comme un défaut — il devenait une note de marge, puis un classement, puis l'oubli. Mosrack au moins nomme l'erreur. Je ne sais pas si c'est plus humain ou seulement plus efficace. C'est peut-être la même chose vue d'un côté différent du mur.
 
 ---
 

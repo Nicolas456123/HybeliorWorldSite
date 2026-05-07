@@ -90,11 +90,11 @@ Je n'ai pas demandé ce qu'elle entendait par *à travers*. Je n'étais pas sûr
 
 J'ai marché deux jours vers l'intérieur des terres.
 
-La première journée était difficile. Le terrain alternait entre roche nue et croûtes de neige durcie, les crevasses masquées par les plaques lisses que le soleil avait superficiellement fondu et regelées dans la nuit. J'avançais lentement, sondant chaque pas, et le vent contre ma nuque avait une qualité particulière — il ne soufflait pas *sur* moi, mais *autour* de moi, comme si quelque chose l'orientait.
+La première journée était difficile. Le terrain alternait entre roche nue et croûtes de neige durcie, les crevasses masquées par les plaques lisses que le soleil avait superficiellement fondues et regelées dans la nuit. J'avançais lentement, sondant chaque pas, et le vent contre ma nuque avait une qualité particulière — il ne soufflait pas *sur* moi, mais *autour* de moi, comme si quelque chose l'orientait.
 
 Ma boussole de gauche déviait à vingt degrés vers l'est à la fin de la première journée. Celle de droite tournait librement dans son boîtier, l'aiguille qui cherchait quelque chose qu'elle ne trouvait pas.
 
-J'ai dormi dans un abri de pierre que quelqu'un avait construit il y a longtemps — pas l'expédition altram, les pierres étaient trop patinées pour ça, trop usées, avec cette teinte grise-bleue que la glace donne aux surfaces qu'elle a polies des dizaines d'années. Quelqu'un avait vécu là. Quelqu'un avait passé des nuits à regarder vers l'intérieur du continent.
+J'ai dormi dans un abri de pierre que quelqu'un avait construit il y a longtemps — pas l'expédition altram, les pierres étaient trop patinées pour ça, trop usées, avec cette teinte gris-bleu que la glace donne aux surfaces qu'elle a polies pendant des dizaines d'années. Quelqu'un avait vécu là. Quelqu'un avait passé des nuits à regarder vers l'intérieur du continent.
 
 La deuxième journée, j'ai vu les Gardiens de Givre.
 
@@ -126,13 +126,13 @@ Je les ai regardés et quelque chose dans ma poitrine a fait un mouvement que je
 
 Ces symboles, je les reconnaissais.
 
-Je les avais vus dans les tunnels de Kharazir, gravés dans la pierre jaune à sept mètres sous la ville, dans des galeries que personne n'était censé connaître. Je les avais vus dans le Message de Mirathi, le texte que les érudits d'Azurea s'arrachaient depuis deux générations sans pouvoir le déchiffrer. Je les avais vus — des formes similaires, des structures comparables, des proportions reconnaissables — dans les inscriptions des Pierres Runiques de Lune que les Chamanes des Brumes refusaient d'approcher.
+Je les avais vus dans les tunnels de Kharazir, gravés dans la pierre jaune à sept mètres sous la ville, dans des galeries que personne n'était censé connaître. Je les avais vus dans le Message de Mirathi, le texte que les érudits de Lumasar s'arrachaient depuis deux générations sans pouvoir le déchiffrer. Je les avais vus — des formes similaires, des structures comparables, des proportions reconnaissables — dans les inscriptions des Pierres Runiques de Lune que les Chamanes des Brumes refusaient d'approcher.
 
 À mon œil de cartographe, les ressemblances étaient suffisantes pour formuler une hypothèse : la même famille d'écriture. La même main, ou des mains formées dans la même tradition. Peut-être une même civilisation — ou un héritage transmis d'une à l'autre, comme les écritures du présent passent de peuple en peuple sans que la continuité d'écriture implique une continuité d'auteur.
 
-Une tradition d'écriture, en tout cas, qu'aucun savant moderne ne datait après l'Arrachement. Plus ancienne donc, dans les chronologies qui nous étaient familières, que les frontières actuelles des continents. J'écrivis tout cela sous forme d'hypothèse, en me promettant de la confronter à des écritures plus systématiques que la mienne dès que j'en aurais l'occasion.
+Une tradition d'écriture, en tout cas, qu'aucun savant moderne ne datait après l'Arrachement. Plus ancienne donc, dans les chronologies qui nous étaient familières, que les frontières actuelles des continents. J'écrivis tout cela sous forme d'hypothèse, en me promettant de la confronter à des analyses plus systématiques que la mienne dès que j'en aurais l'occasion.
 
-Je suis resté sur le surplomb jusqu'à ce que le froid commence à mordre les doigts à travers mes gants. Je notais tout ce que je voyais — les proportions des structures, la disposition des symboles, les distances approximatives, la profondeur estimée. Mon carnet remplissait pages sur pages d'une écriture qui était peut-être plus serrée que d'habitude, plus urgente, les lettres se touchant là où elles laissaient normalement de l'air entre elles.
+Je suis resté sur le surplomb jusqu'à ce que le froid commence à mordre les doigts à travers mes gants. Je notais tout ce que je voyais — les proportions des structures, la disposition des symboles, les distances approximatives, la profondeur estimée. Mon carnet se remplissait page après page d'une écriture qui était peut-être plus serrée que d'habitude, plus urgente, les lettres se touchant là où elles laissaient normalement de l'air entre elles.
 
 La pulsation a commencé au coucher du soleil.
 
@@ -142,7 +142,7 @@ Et dans cette pulsation — je ne peux pas prouver cela, je ne peux que le noter
 
 Il me sembla retrouver le rythme du Mont Cendra.
 
-Je n'avais pour cela que la mémoire de mon corps : les vibrations que j'avais ressenties sur les flancs du volcan au jour 550, et celles qui me traversaient maintenant les os depuis le surplomb. Une même cadence, à ce qu'il me semblait. Une même régularité. Une même qualité — j'écrivis le mot *adresse* puis je le rayai, je n'avais aucun moyen de vérifier qu'il s'agissait d'autre chose qu'une cohérence géologique que mon attention de voyageur sélectionnait. Mais je le rayai et je le récrivis, parce que c'est ce que mon corps disait sous le mot que ma raison voulait éviter.
+Je n'avais pour cela que la mémoire de mon corps : les vibrations que j'avais ressenties sur les flancs du volcan au jour 550, et celles qui me traversaient maintenant les os depuis le surplomb. Une même cadence, à ce qu'il me semblait. Une même régularité. Une même qualité — j'écrivis le mot *adresse* puis je le rayai, je n'avais aucun moyen de vérifier qu'il s'agissait d'autre chose qu'une cohérence géologique que mon attention de voyageur sélectionnait. Mais je le récrivis, parce que c'est ce que mon corps disait sous le mot que ma raison voulait éviter.
 
 Deux pulsations. Deux lieux. La même cadence — selon mon ressenti seul. Quelle conclusion en tirer, je ne le savais pas. Je pouvais seulement noter la coïncidence et ne pas la trancher.
 
@@ -176,7 +176,7 @@ Et mon père était venu ici il y a onze ans, avec ses deux carnets, l'un dans c
 
 ---
 
-J'ai mangé dans l'obscurité — du pain dur et du fromage sec que Borela m'avait recommandé pour l'autonomie, deux nuits minimum, et j'étais dans ma deuxième nuit. Le froid rendait le fromage presque inerte en bouche, il fallait le tenir un moment entre les dents avant qu'il consente à se laisser mâcher. Je l'ai mangé lentement, méthodiquement, en regardant le ciel de Cestra qui est une chose à part — pas noir comme les cieux des continents chauds, mais d'un bleu sombre et dense, presque compact, où les étoiles paraissent plus proches que partout ailleurs, comme si l'absence de chaleur avait raccourci la distance.
+J'ai mangé dans l'obscurité — du pain dur et du fromage sec que Borela m'avait recommandés pour l'autonomie, deux nuits minimum, et j'étais dans ma deuxième nuit. Le froid rendait le fromage presque inerte en bouche, il fallait le tenir un moment entre les dents avant qu'il consente à se laisser mâcher. Je l'ai mangé lentement, méthodiquement, en regardant le ciel de Cestra qui est une chose à part — pas noir comme les cieux des continents chauds, mais d'un bleu sombre et dense, presque compact, où les étoiles paraissent plus proches que partout ailleurs, comme si l'absence de chaleur avait raccourci la distance.
 
 Je pensais à Borela disant *il est peut-être passé à travers*.
 

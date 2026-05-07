@@ -99,7 +99,7 @@ Au-dessus de tout cela plane **la tension** — cette pression qui se devine san
 
 ### Le continent qui se concentre
 
-Enfin, chaque Ère a un ou deux continents qui en deviennent le **foyer**. Là où le monde se concentre, là où l'Ère se vit avec le plus d'intensité. Une Ère de l'Ombre Longue trouve son foyer naturel à Onara ; une Ère du Verdoiement à Galenor central ; une Ère des Vents Bouleversants sur les côtes de Cestra. Cela ne veut pas dire que les autres continents ne la vivent pas — mais qu'ils la vivent en écho, comme une pièce qu'on entend à travers un mur. C'est sur le continent emphase qu'on vient pour comprendre l'Ère ; c'est partout ailleurs qu'on apprend ce qu'elle a fait.
+Enfin, chaque Ère a un ou deux continents qui en deviennent le **foyer**. Là où le monde se concentre, là où l'Ère se vit avec le plus d'intensité. Une Ère de l'Ombre Longue trouve son foyer naturel à Onara ; une Ère du Verdoiement à Galenor central ; une Ère des Vents Bouleversants sur les côtes de Cestra. Cela ne veut pas dire que les autres continents ne la vivent pas — mais qu'ils la vivent en écho, comme une pièce qu'on entend à travers un mur. C'est sur le continent foyer qu'on vient pour comprendre l'Ère ; c'est partout ailleurs qu'on apprend ce qu'elle a fait.
 
 > *« Six visages, comme un dieu hindou en aurait six bras. Et comme le dieu, l'Ère ne se laisse jamais voir entièrement de face. »*
 >

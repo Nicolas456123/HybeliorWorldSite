@@ -16,7 +16,7 @@ needs_review_for: []
 
 L'île nous vit avant que nous la voyions.
 
-Je ne dis pas cela comme une métaphore. Je le dis comme une observation empirique, la même façon dont je note les courants et les températures et les formations géologiques — parce que ce qui arriva sur le pont du navire quand Evertia apparut à l'horizon était empiriquement observable. Les oiseaux changèrent de comportement. Ils n'étaient pas nombreux — quelques fous de Bassan qui nous suivaient depuis Solmaris, habitués à la sillage des navires pour les poissons qu'il remonte —, et à une certaine distance de la côte d'Evertia, ils s'arrêtèrent. Ils continuèrent de voler, de planer, mais leurs trajectoires changèrent — ils cessèrent de suivre le navire et se mirent à orbiter à la même distance, comme si une ligne invisible les empêchait d'aller plus loin.
+Je ne dis pas cela comme une métaphore. Je le dis comme une observation empirique, de la même façon dont je note les courants et les températures et les formations géologiques — parce que ce qui arriva sur le pont du navire quand Evertia apparut à l'horizon était empiriquement observable. Les oiseaux changèrent de comportement. Ils n'étaient pas nombreux — quelques fous de Bassan qui nous suivaient depuis Solmaris, habitués au sillage des navires pour les poissons qu'il fait remonter —, et à une certaine distance de la côte d'Evertia, ils s'arrêtèrent. Ils continuèrent de voler, de planer, mais leurs trajectoires changèrent — ils cessèrent de suivre le navire et se mirent à orbiter à la même distance, comme si une ligne invisible les empêchait d'aller plus loin.
 
 Le capitaine de ce navire — un marin de Kethvar plus taciturne qu'Orrath, du genre qui parle peu et observe tout — m'avait prévenu, avant l'embarquement, de certaines réalités pratiques de l'approche d'Evertia. Ne pas tenter de débarquer ailleurs qu'à Valmora. Ne pas approcher la côte brumale du nord. Ne pas faire de gestes brusques lors de l'inspection des Gardiens. Et — il l'avait dit avec la spécificité d'un homme qui a vu quelque chose et qui ne veut pas que vous le voyiez aussi — ne pas regarder trop longtemps la forêt depuis le pont.
 
@@ -66,7 +66,7 @@ Les arbres. Je n'avais pas de termes assez ordinaires pour les décrire sans tom
 
 Et les sons.
 
-La forêt d'Evertia n'est pas silencieuse — mais ses sons ne viennent pas des endroits attendus. Les oiseaux chantent, mais leurs chants arrivent depuis des hauteurs qui déforment la provenance. Les insectes bourdonnent, mais à des fréquences qui semblent plus basses que d'habitude. Et en dessous de tout cela, un son que je mit du temps à identifier parce qu'il était trop constant pour que mon cerveau le sépare du fond, trop régulier pour sembler produit — une vibration, grave, qui venait du sol plutôt que de l'air.
+La forêt d'Evertia n'est pas silencieuse — mais ses sons ne viennent pas des endroits attendus. Les oiseaux chantent, mais leurs chants arrivent depuis des hauteurs qui déforment la provenance. Les insectes bourdonnent, mais à des fréquences qui semblent plus basses que d'habitude. Et en dessous de tout cela, un son que je mis du temps à identifier parce qu'il était trop constant pour que mon cerveau le sépare du fond, trop régulier pour sembler produit — une vibration, grave, qui venait du sol plutôt que de l'air.
 
 Je posai la main sur un tronc. Je la sentis dans le bois.
 
@@ -82,9 +82,9 @@ Il eut un mouvement qui n'était pas tout à fait un geste — la façon dont un
 
 Thalenvir était, dans mes lectures, une académie druidique. Dans la réalité, c'était un organisme.
 
-Non pas métaphoriquement — structurellement. Les bâtiments dont les murs poussaient encore, selon la description que j'avais lue, n'étaient pas une exagération de voyageur. Les murs de Thalenvir étaient de bois vivant. Les parois des salles d'étude étaient des rangées d'arbres dont les troncs avaient été guidés pendant des générations pour croître en alignements droits, leurs branches s'entrelacant à la hauteur des plafonds pour former des voûtes que personne n'avait architecturées. On avait simplement orienté la croissance. La croissance avait fait le reste.
+Non pas métaphoriquement — structurellement. Les bâtiments dont les murs poussaient encore, selon la description que j'avais lue, n'étaient pas une exagération de voyageur. Les murs de Thalenvir étaient de bois vivant. Les parois des salles d'étude étaient des rangées d'arbres dont les troncs avaient été guidés pendant des générations pour croître en alignements droits, leurs branches s'entrelaçant à la hauteur des plafonds pour former des voûtes que personne n'avait architecturées. On avait simplement orienté la croissance. La croissance avait fait le reste.
 
-Le Cercle des Archidruides n'était pas au complet — trois des treize seulement acceptèrent de me recevoir. Deux femmes et un homme, tous d'un âge que je n'aurais pas su estimer, avec cette façon que les vieux druides ont de ne pas sembler appartenir tout à fait à une génération particulière — comme si le temps qu'ils passaient en communion avec quelque chose plus lent que les saisons humaines avait affecté leur façon de se tenir dans le temps.
+Le Cercle des Archidruides n'était pas au complet — trois des treize seulement acceptèrent de me recevoir. Deux femmes et un homme, tous d'un âge que je n'aurais pas su estimer, avec cette façon que les vieux druides ont de ne pas sembler appartenir tout à fait à une génération particulière — comme si le temps qu'ils passaient en communion avec quelque chose de plus lent que les saisons humaines avait affecté leur façon de se tenir dans le temps.
 
 La salle où ils me reçurent avait un sol de terre battue et aucun meuble hormis des bancs de bois noueux. La lumière tombait d'une ouverture dans la voûte d'arbres au-dessus. Une odeur de résine et d'herbe froide et de quelque chose d'autre — une odeur que je ne sus pas identifier, quelque chose entre la terre humide et l'air avant l'orage.
 
@@ -126,7 +126,7 @@ Le silence qui suivit n'était pas le Silence des Esprits — c'était un silenc
 
 Ce qui vint ensuite fut moins une conversation qu'un inventaire partagé.
 
-Je leur dis ce que j'avais vu. Pas tout, pas dans l'ordre — je leur donnai les points de convergence : les esprits de Warenthor en Ilthara, muets depuis six mois. Les chevaux de Lythar qui refusaient de traverser les dépressions de terrain. Les racines du Bosquet Primordial d'Ackerna qui saignaient. Les mines d'Ordavan et le Fragment Zéro. La pulsation du Mont Cendra que j'avais sentie moi-même — moi, Délié — dans ma poitrine sur le premier plateau. L'enfant aux yeux blancs de Mylaris et ses mots.
+Je leur dis ce que j'avais vu. Pas tout, pas dans l'ordre — je leur donnai les points de convergence : les esprits de Warenthor en Ilthara, muets depuis six mois. Les chevaux de Lythar qui refusaient de traverser les dépressions de terrain. Les racines du Bosquet Primordial d'Ackerna qui saignaient. Le sol vitrifié d'Ordavan. Le Fragment Zéro des Archives d'Altram. La pulsation du Mont Cendra que j'avais sentie moi-même — moi, Délié — dans ma poitrine sur le premier plateau. L'enfant aux yeux blancs de Mylaris et ses mots.
 
 Ils m'écoutèrent. La seconde femme, qui n'avait pas encore parlé, prenait des notes sur une plaque de bois avec un poinçon. Je remarquai que sa façon d'écrire ne ressemblait pas aux systèmes alphabétiques que je connaissais — des symboles fluides, courbes, peut-être les glyphes druidiques que les textes mentionnaient mais que personne d'extérieur ne lisait.
 
@@ -204,7 +204,7 @@ Elle dit : *Il y a une chose, parmi beaucoup d'autres, que les textes disent à 
 
 Je digérai cela lentement.
 
-Ce que j'avais ressenti depuis Cendara, dans la lecture de l'Aînée, ne serait pas le début d'une connexion. Ce serait l'apparition d'une connexion qu'aurait toujours été là, masquée par la présence des esprits. Les esprits se tairaient. Ce qu'ils auraient tenu à distance — la communication directe avec quelque chose de plus profond — ne serait plus atténué. Lecture, encore. Mais elle rend compte de mon expérience d'une façon que les autres lectures que j'avais en magasin ne faisaient pas.
+Ce que j'avais ressenti depuis Cendara, dans la lecture de l'Aînée, ne serait pas le début d'une connexion. Ce serait l'apparition d'une connexion qui aurait toujours été là, masquée par la présence des esprits. Les esprits se tairaient. Ce qu'ils auraient tenu à distance — la communication directe avec quelque chose de plus profond — ne serait plus atténué. Lecture, encore. Mais elle rend compte de mon expérience d'une façon que les autres lectures que j'avais en magasin ne faisaient pas.
 
 *Ce que je porte ne m'appartient pas encore*, dis-je, plus pour moi-même que pour l'Aînée.
 
@@ -222,7 +222,7 @@ Je la regardai.
 
 Je passai encore quatre jours à Thalenvir.
 
-La seconde femme du Cercle — celle qui prenait des notes en glyphes — m'introduisit aux archives de l'académie, où je passai deux journées à lire des textes dont je ne comprenais que les parties rédigées en galenorien classique et dont les parties en evertien me restaient opaques, mais dont j'extrais suffisamment pour savoir que la théorie des Ancrages n'était pas une innovation — elle apparaissait dans des textes que les druides dataient de la période précédant le Grand Éveil, ce qui la plaçait avant la fondation de l'île elle-même.
+La seconde femme du Cercle — celle qui prenait des notes en glyphes — m'introduisit aux archives de l'académie, où je passai deux journées à lire des textes dont je ne comprenais que les parties rédigées en galenorien classique et dont les parties en evertien me restaient opaques, mais dont j'extrayais suffisamment pour savoir que la théorie des Ancrages n'était pas une innovation — elle apparaissait dans des textes que les druides dataient de la période précédant le Grand Éveil, ce qui la plaçait avant la fondation de l'île elle-même.
 
 Et le druide qui m'avait guidé depuis Valmora — son nom était Aerith, je l'appris au troisième jour — m'accompagna dans la forêt deux fois, pour ce qu'il appela des marches d'écoute. Il ne m'expliqua rien. Il marchait et j'observais. Ce que j'observai : les zones autour des esprits actifs avaient une qualité particulière de l'air, presque comme une pression légère, un champ que je reconnus tardivement comme semblable à ce que j'avais senti en posant la main sur le basalte du Mont Cendra. Et les zones où des esprits s'étaient tus avaient autre chose — pas une absence, mais une qualité différente de présence. Quelque chose qui restait là où l'esprit s'était retiré. Quelque chose qui montait à travers l'espace laissé vide.
 

@@ -30,7 +30,7 @@ Dhorvan m'attendait à l'entrée du canyon. Au matin, quand j'en ressortis avec 
 
 Je lui dis : « Je dois aller à Pyrtara. »
 
-Il dit : « Je t'accompagne jusqu'à la frontière. »
+Il acquiesça. « Je t'accompagne jusqu'à la frontière. »
 
 Ce fut tout. Nous reprîmes la route vers le nord.
 
@@ -44,7 +44,7 @@ Dhorvan s'arrêta à la borne de pierre qui marquait la limite administrative. I
 
 Il me tendit, avant de repartir, un objet que je n'avais pas vu venir : un petit rouleau de cuir fermé par un cordon de métal, avec un sceau en cire noire que je reconnus comme celui du Conseil des Liés.
 
-Il dit : « De Thareth. Pour le cas où tu aurais besoin de crédibilité à Pyrtara. »
+« De Thareth, » fit-il. « Pour le cas où tu aurais besoin de crédibilité à Pyrtara. »
 
 Je pris le rouleau. Je le regardai. Je demandai ce qu'il contenait.
 
@@ -54,7 +54,7 @@ Je crus qu'il disait la vérité. Je rangeai le rouleau.
 
 Il dit, avant de repartir : « Ton père est reparti de la même frontière. Il avait l'air d'un homme qui sait où il va mais qui ne sait pas si c'est une bonne idée. »
 
-Il repartit vers Drakora sans ajouter un mot. Il ne retourna pas. Les Brûlés ne retournent pas.
+Il repartit vers Drakora sans ajouter un mot. Il ne se retourna pas. Les Brûlés ne se retournent pas.
 
 ---
 
@@ -74,7 +74,7 @@ Elle dit : « Délié. »
 
 Ce n'était pas une question.
 
-Je confirmai. Je m'attendais à ce que suive, de façon réflexe, quelque chose de désagréable — l'habitude de dix-huit mois de voyage dans des pays où le statut de Délié me précédait comme une odeur déplaisante. Gryndor. Kharazir. Même dans des nations plus tempérées, une légère hésitation, un recalibrage invisible dans le regard de l'interlocuteur.
+Je confirmai. Je m'attendais à ce que suive, de façon réflexe, quelque chose de désagréable — l'habitude de douze mois de voyage dans des pays où le statut de Délié me précédait comme une odeur déplaisante. Gryndor. Kharazir. Même dans des nations plus tempérées, une légère hésitation, un recalibrage invisible dans le regard de l'interlocuteur.
 
 Il ne se passa rien de tel.
 
@@ -98,7 +98,7 @@ Je regardai où je posais les pieds. J'y pensai plus que d'habitude.
 
 La pulsation que j'avais sentie à Lunaris — je continuais à la percevoir ici, légèrement, comme un arrière-goût. Pas à travers le sol directement ; pas comme à Ordavan ou dans le canyon. Mais dans les fissures. Quand je me baissais pour écouter le souffle chaud qui montait des profondeurs, la chaleur qui en émanait avait cette qualité rythmique que j'avais appris à reconnaître. Régulière. Trop régulière pour être géologique au sens ordinaire du terme.
 
-Je me demandai si les Guetteurs de Feu de Vyldor l'avaient noté. Selon ce que j'avais lu sur eux, ces spécialistes de l'activité volcanique capables de prédire les éruptions avec plusieurs jours d'avance — si quelqu'un à Pyrtara avait les instruments pour détecter ce que je percevais à l'oreille et aux paumes, c'était eux.
+Je me demandai si les Guetteurs de Feu de Vyldor l'avaient noté. Selon ce que j'avais lu sur eux, c'étaient des spécialistes de l'activité volcanique capables de prédire les éruptions avec plusieurs jours d'avance — si quelqu'un à Pyrtara avait les instruments pour détecter ce que je percevais à l'oreille et aux paumes, c'était eux.
 
 J'ajoutai Vyldor à la liste des lieux où j'aurais des questions à poser. La liste s'allongeait.
 
@@ -106,7 +106,7 @@ J'ajoutai Vyldor à la liste des lieux où j'aurais des questions à poser. La l
 
 Keldros était exactement ce que les descriptions en faisaient : un complexe militaire posé au milieu du terrain le plus hostile d'Eleris avec la désinvolture d'une institution qui n'a aucun doute sur son droit d'exister là où elle est.
 
-Les baraquements étaient spartanes, oui. La nourriture était minimale, oui — du pain noir, de la viande séchée, des tubercules de feu que j'appris à apprécier pour ce qu'ils étaient : une alimentation sans prétention conçue pour entretenir un corps qui travaille, pas pour satisfaire un palais. Mais ce n'était pas l'austerité de Keldros qui frappa en premier.
+Les baraquements étaient spartanes, oui. La nourriture était minimale, oui — du pain noir, de la viande séchée, des tubercules de feu que j'appris à apprécier pour ce qu'ils étaient : une alimentation sans prétention conçue pour entretenir un corps qui travaille, pas pour satisfaire un palais. Mais ce n'était pas l'austérité de Keldros qui frappa en premier.
 
 C'était le bruit.
 
@@ -118,13 +118,13 @@ Ce que je vis dans les premières minutes : des unités d'entraînement sur le t
 
 Des Déliés.
 
-Des Déliés qui commandaient. Des Déliés en position d'autorité dans une armée, avec le grade visible, avec la déférence des subordonnés, avec l'espace d'un instructeur qui n'est pas en train de justifier sa présence mais de faire son travail.
+Des Déliés qui commandaient. Des Déliés en position d'autorité dans une armée, avec le grade visible, avec la déférence des subordonnés, avec l'aisance d'un instructeur qui n'est pas en train de justifier sa présence mais de faire son travail.
 
 Je restai à regarder plus longtemps que nécessaire.
 
 ---
 
-La personne vers laquelle on me dirigea — après l'accueil standard d'un poste d'entrée où l'on m'évalua, cette fois, non seulement comme individu mais comme Délié dont on vérifiait tacitement si le statut correspondait à ce que les documents déclaraient — s'appelait Mara.
+La personne vers laquelle on me dirigea — après l'accueil standard d'un poste d'entrée où l'on m'évalua, cette fois, non seulement comme individu mais comme Délié dont on vérifiait tacitement que le statut correspondait à ce que les documents déclaraient — s'appelait Mara.
 
 Elle était capitaine de la Brigade — le titre pyrtarien équivalent au grade intermédiaire entre officier de compagnie et commandant de corps —, Déliée, originaire de Kharazir selon l'accent qu'elle avait gardé et que je reconnus immédiatement avec un petit choc, cette façon d'appuyer les syllabes initiales qui était spécifiquement kharazirienne du nord.
 
@@ -132,7 +132,7 @@ Elle m'accueillit dans une salle de réunion dépouillée — pierre basaltique,
 
 Elle dit, en galenorien mais avec la prononciation kharazirienne : « Assieds-toi. Tu as l'air d'avoir marché depuis un bout de temps. »
 
-Je m'assis. Le banc était de basalte poli, pas de rembourrure. Correct.
+Je m'assis. Le banc était de basalte poli, pas de rembourrage. Correct.
 
 Elle dit : « Kharazir. »
 
@@ -154,7 +154,7 @@ On m'installa à une longue table commune, dans une salle basse et chaude où pl
 
 Mais c'était la qualité de la table qui comptait plus que la nourriture.
 
-Le Délié à ma droite s'appelait Saven. Kharazir, comme Mara, éjecté de la Guilde des Apothicaires deux ans avant moi pour une raison qu'il formulait avec l'économie de quelqu'un qui a raconté l'histoire assez de fois pour ne plus en avoir besoin des détails : « Ils ont changé les règles. Les règles me changeaient moi. J'ai préféré partir. » Il était sergent de la Brigade depuis dix-huit mois. Il me regardait avec le regard reconnaissant de quelqu'un qui identifie une expérience partagée et n'en fait pas une cérémonie.
+Le Délié à ma droite s'appelait Saven. Kharazir, comme Mara, éjecté de la Guilde des Apothicaires deux ans avant moi pour une raison qu'il formulait avec l'économie de quelqu'un qui a raconté l'histoire assez de fois pour ne plus en avoir besoin des détails : « Ils ont changé les règles. Les règles me changeaient moi. J'ai préféré partir. » Il était sergent de la Brigade depuis dix-huit mois. Il me regardait avec le regard de quelqu'un qui reconnaît une expérience partagée et n'en fait pas une cérémonie.
 
 À ma gauche, une femme de Gryndor — Thyren, infirmière militaire, partie six mois plus tôt après que son accès aux archives médicales avait été révoqué sur la base d'une circulaire récente interdisant aux Déliés les postes à « responsabilité documentaire ». Elle était en colère encore, mais d'une façon contenue et utile, la colère d'une personne qui a converti l'émotion en énergie de travail.
 
@@ -218,11 +218,11 @@ Il me laissa regarder. Les gens qui travaillent avec des cartes reconnaissent ce
 
 Je dis, après une minute : « Les relevés de Vyldor. »
 
-Il dit : « Tu en as vu. »
+Il leva les yeux. « Tu en as vu. »
 
 Je dis que non — mais que j'avais vu les phénomènes sur le terrain que ces relevés documentaient, et que la façon dont ils étaient compilés ici correspondait exactement à ce que j'avais observé.
 
-Il dit : « Assieds-toi. »
+« Assieds-toi. »
 
 Je m'assis.
 
@@ -244,7 +244,7 @@ Il écouta sans interrompre. Il prit des notes, mais peu — le genre de notes d
 
 Il sortit un graphique de sous la pile de cartes. Une courbe tracée sur du papier de basalte, régulière puis légèrement ascendante à partir d'un point marqué « automne dernier ».
 
-Je regardai le graphique. Je sortis mon carnet. Je l'ouvris à la page des relevés d'Ordavan que j'avais reconstitués de mémoire après avoir arrachée les pages originales.
+Je regardai le graphique. Je sortis mon carnet. Je l'ouvris à la page des relevés d'Ordavan que j'avais reconstitués de mémoire après avoir arraché les pages originales.
 
 Nous posâmes les deux documents côte à côte sur la table.
 
@@ -280,7 +280,7 @@ Je confirmai.
 
 Elle dit : « J'ai une question. » Et sa voix changea légèrement — pas beaucoup, juste assez pour que j'entende que ce n'était plus la voix professionnelle mais quelque chose de plus proche. « Est-ce que le village de Mareth existe encore ? »
 
-Mareth. Je cherchai dans mes souvenirs de Gryndor — les cartes que j'avais mémorisées, les noms que j'avais notés. Un village de l'est de Gryndor, pas loin de la frontière avec la Plaine des Héritages. Un village qui avait, selon les rapports des Guetteurs compilés dans les dossiers de Pyrax, été évacué six semaines avant Ordavan.
+Mareth. Je cherchai dans mes souvenirs de Gryndor — les cartes que j'avais mémorisées, les noms que j'avais notés. Un village de l'est de Gryndor, pas loin de la frontière avec la Plaine des Héritages. Un village qui figurait, selon les rapports des Guetteurs compilés dans les dossiers de Pyrax, parmi les évacuations récentes du Syndrome — l'une des dernières en date, quelques semaines seulement avant que je ne passe par Ordavan moi-même.
 
 Je lui dis ce que je savais. Que Mareth était dans les relevés du Syndrome d'Ordavan. Que les habitants étaient partis. Que personne, à ma connaissance, n'y était revenu.
 
@@ -312,7 +312,7 @@ Je dis : « Le Fragment Zéro. »
 
 Il tourna la tête vers moi.
 
-Je lui expliquai le terme — la façon dont je l'avais commencé à utiliser dans le carnet à partir d'Avalor, pour désigner ce qui était là avant la mémoire, avant les premières traces, avant les premiers enregistrements. Ce que les racines de Zorathis touchaient quand elles descendaient assez profond. Ce que Vey'thar dormait peut-être par-dessus.
+Je lui expliquai le terme — la façon dont j'avais commencé à l'utiliser dans le carnet à partir d'Avalor, pour désigner ce qui était là avant la mémoire, avant les premières traces, avant les premiers enregistrements. Ce que les racines de Zorathis touchaient quand elles descendaient assez profond. Ce que Vey'thar dormait peut-être par-dessus.
 
 Pyrax m'écouta. Puis il dit, avec la précision d'un homme qui reformule ce qu'il entend pour s'assurer qu'il l'a compris : « Tu dis que la source de la pulsation n'est pas le volcan, ni les dragons, ni les esprits. Que c'est quelque chose d'antérieur à tout ça. »
 
@@ -330,11 +330,11 @@ Ce n'était pas une réponse à ma question. Ou plutôt c'était la réponse pyr
 
 Je passai sept jours à Keldros en tout.
 
-Sept jours est peu. Mais sept jours à Keldros avaient une densité différente de sept jours ailleurs — une densité d'information, de contact, de choses à noter. J'avais vu comment fonctionnait une armée qui avait décidé que la valeur était la valeur indépendamment de l'origine. J'avais vu Saven instruire une unité de recrues pyrtariens avec une autorité que personne ne contestait. J'avais vu Mara signer des ordres que des officiers de rang inférieur exécutaient sans regarder la marque à son poignet. J'avais vu Drev enseigner aux recrues à sentir les variations de chaleur souterraine — utiliser sa propre particularité de Délié comme instrument pédagogique, dans une armée qui avait décidé que les instruments méritaient d'être utilisés plutôt que cachés.
+Sept jours est peu. Mais sept jours à Keldros avaient une densité différente de sept jours ailleurs — une densité d'information, de contact, de choses à noter. J'avais vu comment fonctionnait une armée qui avait décidé que la valeur était la valeur indépendamment de l'origine. J'avais vu Saven instruire une unité de recrues pyrtariennes avec une autorité que personne ne contestait. J'avais vu Mara signer des ordres que des officiers de rang inférieur exécutaient sans regarder la marque à son poignet. J'avais vu Drev enseigner aux recrues à sentir les variations de chaleur souterraine — utiliser sa propre particularité de Délié comme instrument pédagogique, dans une armée qui avait décidé que les instruments méritaient d'être utilisés plutôt que cachés.
 
 Ce n'était pas une utopie. Keldros était dur, la nourriture était minimale, les exigences étaient absolues, et les gens qui n'y survivaient pas partaient. Mais les raisons pour lesquelles on ne survivait pas à Keldros n'incluaient pas le fait d'être Délié.
 
-Distinction qui, après dix-huit mois de voyage, me semblait encore mériter d'être notée.
+Distinction qui, après douze mois de voyage, me semblait encore mériter d'être notée.
 
 Le dernier soir, Saven vint me trouver dans la salle commune. Il s'assit. Il dit : « Reste. On a besoin de cartographes. »
 
@@ -348,16 +348,8 @@ Je pensai à mon père, qui avait fait ce même chemin vingt ans avant moi — D
 
 Je comprenais maintenant ce que Dhorvan avait voulu dire.
 
-Les réponses ne ferment pas les questions. Elles ouvrent des questions plus grandes. Et les questions plus grandes ont des implications que les réponses ne peuvent pas effacer.
-
 Ce que mon père avait trouvé — je ne le savais pas encore. Mais je me rapprochais du point où je pourrais le savoir. Et dans le vent d'Eleris qui entrait sous la porte et la lumière jaune et constante des lampes de Keldros, j'écrivis dans le carnet, lentement, avec la certitude des choses qu'on sait avant de les comprendre :
 
 *Il y a quelque chose sous Ilthara. Sous toutes les pierres et tous les volcans et tous les dragons et tous les esprits. Quelque chose de vivant qui s'éveille depuis cet automne avec une régularité calculable. Je ne sais pas encore ce que c'est. Mais il s'éveille. Et il m'a semblé, cette nuit dans le canyon de Lunaris, que cela faisait très longtemps qu'il dormait et qu'il était fatigué de dormir.*
 
-*Mon père a trouvé cette réponse avant moi. Il est reparti vers le nord.*
-
-*Je vais vers le nord moi aussi.*
-
-*Vyldor d'abord. Puis, selon ce qu'on y trouve, plus loin.*
-
-*La carte s'étend.*
+*Mon père a trouvé cette réponse avant moi. Il est reparti vers le nord. Je vais vers le nord moi aussi — Vyldor d'abord, puis selon ce qu'on y trouve.*

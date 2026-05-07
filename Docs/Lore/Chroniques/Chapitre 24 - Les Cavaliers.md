@@ -46,7 +46,7 @@ Elle réfléchit une seconde — ou peut-être ne réfléchit-elle pas du tout, 
 
 Le repas à Lytharil fut le plus chaotique et le plus joyeux depuis le début de mon voyage.
 
-Je ne suis pas particulièrement sensible aux fêtes — j'ai passé trop de Nuits de l'Éveil à Evertia dans le bruit de la foule pour pouvoir croire que le bruit collectif est en soi une forme de vérité —, mais le Grand Rassemblement d'été de Lytharil a quelque chose que les fêtes des nations sédentaires n'ont pas : il est sincère. Pas organisé pour être sincère — simplement sincère, parce que les Lythariens n'ont pas développé les infrastructures de la festivité artificielle. Leurs fêtes ne sont pas dédiées à quelqu'un qui observe depuis l'extérieur. Elles sont faites par eux et pour eux, dans le Champ du Rassemblement au centre de Lytharil où aucun bâtiment ne s'élève, où il n'y a que la plaine et les yourtes et les feux.
+Je ne suis pas particulièrement sensible aux fêtes — la Nuit de l'Éveil à Warenthor m'a suffi à comprendre que le bruit collectif n'est pas, en soi, une forme de vérité —, mais le Grand Rassemblement d'été de Lytharil a quelque chose que les fêtes des nations sédentaires n'ont pas : il est sincère. Pas organisé pour être sincère — simplement sincère, parce que les Lythariens n'ont pas développé les infrastructures de la festivité artificielle. Leurs fêtes ne sont pas dédiées à quelqu'un qui observe depuis l'extérieur. Elles sont faites par eux et pour eux, dans le Champ du Rassemblement au centre de Lytharil où aucun bâtiment ne s'élève, où il n'y a que la plaine et les yourtes et les feux.
 
 On m'installa dans un coin où l'on me servit un mouton entier sorti d'une fosse de terre creusée le matin même, de la graisse fondue qui avait infusé dans des racines de steppe, du koumiss — le lait fermenté de jument qui n'a rien du vin mais a tout de la conviction — et du pain plat cuit sur des pierres plates chauffées au rouge. Je mangeai avec les mains, comme tout le monde. Je regardai les cavaliers autour des feux qui racontaient des histoires que je ne comprenais pas mais dont le rythme était celui de toutes les histoires du monde : quelqu'un est parti, quelque chose est arrivé, quelqu'un est revenu changé ou n'est pas revenu du tout.
 
@@ -78,13 +78,13 @@ Mais depuis combien de temps les chevaux les évitaient-ils ? Depuis l'automne, 
 
 Le même calendrier. Encore.
 
-Je ne suis pas le genre d'homme qui croit aux coïncidences. Je suis cartographe — je crois aux corrélations, et je crois que les corrélations méritent d'être lues, même si la lecture qu'on en fait reste la sienne propre. La direction qui se dégageait dans mes notes était constante : vers le bas. Selon les témoignages que j'avais recueillis, vers quelque chose sous la steppe, sous la jungle, sous les racines du Bosquet Primordial qui saignaient, sous les mines d'Ordavan où l'on disait que le Fragment Zéro attendait qu'on le trouve.
+Je ne suis pas le genre d'homme qui croit aux coïncidences. Je suis cartographe — je crois aux corrélations, et je crois que les corrélations méritent d'être lues, même si la lecture qu'on en fait reste la sienne propre. La direction qui se dégageait dans mes notes était constante : vers le bas. Selon les témoignages que j'avais recueillis, vers quelque chose sous la steppe, sous la jungle, sous les racines du Bosquet Primordial qui saignaient, sous les mines d'Altram où le Fragment Zéro pulse.
 
 ---
 
 Le cinquième matin, je quittai Lytharil pour Vytharia.
 
-Ryvan me donna, en partant, une outres de koumiss et quelque chose qu'elle appela un « talisman de route » — une mèche de crin de cheval tressé avec du cuir rouge, le genre que les Lythariens portent au poignet en souvenir d'un ancêtre. Je lui demandai si elle était sûre de vouloir me le donner, car c'était le genre de chose qu'on garde.
+Ryvan me donna, en partant, une outre de koumiss et quelque chose qu'elle appela un « talisman de route » — une mèche de crin de cheval tressé avec du cuir rouge, le genre que les Lythariens portent au poignet en souvenir d'un ancêtre. Je lui demandai si elle était sûre de vouloir me le donner, car c'était le genre de chose qu'on garde.
 
 Elle dit : « Vous en avez besoin plus que moi. Mes ancêtres chevauchent avec moi. Les vôtres, où sont-ils ? »
 
@@ -100,7 +100,7 @@ Je veux dire par là qu'elle n'est pas invisible — elle est perceptible, très
 
 Elle devient légèrement incorrecte.
 
-Pas fausse — incorrecte. Comme quand une note de musique est à une demi-fréquence trop haut et que vous ne pouvez pas dire si c'est la note qui est fausse ou votre oreille qui s'est recalibrée. En Vytharia, la lumière arrive sous un angle que vous ne reconnaissez pas, et elle éclaire les choses avec une légère différence que vous ne pouvez pas localiser. L'ombre est là où elle devrait être, la réfraction est correcte, mais quelque chose — quelque chose — vous dit que ce que vous voyez n'est pas exactement ce qui est là.
+Pas fausse — incorrecte. Comme quand une note de musique est d'un demi-ton trop haut et que vous ne pouvez pas dire si c'est la note qui est fausse ou votre oreille qui s'est recalibrée. En Vytharia, la lumière arrive sous un angle que vous ne reconnaissez pas, et elle éclaire les choses avec une légère différence que vous ne pouvez pas localiser. L'ombre est là où elle devrait être, la réfraction est correcte, mais quelque chose — quelque chose — vous dit que ce que vous voyez n'est pas exactement ce qui est là.
 
 J'en fus conscient avant de comprendre ce que c'était. Je m'arrêtai sur la route et regardai autour de moi. La steppe avait laissé place à une vallée — le début des Nectaris, les jardins orientaux de Vytharia, réputés les plus accueillants pour les étrangers. Les fleurs à mes pieds changeaient de couleur entre deux clignements d'yeux. Pas de façon dramatique — subtilement, comme la teinte d'une même couleur qui se déclinerait légèrement vers le rouge, puis vers le bleu, sans jamais cesser d'être la même couleur. Je posai une main sur l'une d'elles. Sous mes doigts, elle était ferme et réelle. Elle sentait comme une fleur. Elle n'avait rien de fantomatique.
 
@@ -122,19 +122,19 @@ Il me parla de ses routes commerciales. De Vytharia vers les nations du nord. De
 
 « Les Enfants aux Yeux Blancs, » dit-il, avec la façon particulière qu'avaient les marchands vythariens de prononcer des noms inquiétants avec une neutralité commerciale. « Vous avez entendu parler. »
 
-J'avais entendu parler. À Evertia, déjà — des rumeurs, des bruits de voyage. Des enfants en Caeloria qui naissaient depuis quelques années avec les pupilles effacées, entièrement blanches, comme si la pigmentation avait été retirée. Pas aveugles — ils voyaient, et certains disaient qu'ils voyaient mieux que les autres, qu'ils voyaient des choses que les autres ne voyaient pas. Les médecins de Caeloria n'avaient pas d'explication. Les prêtres en avaient trop.
+J'avais entendu parler. À Tyndara, déjà — des rumeurs, des bruits de voyage. Des enfants en Caeloria qui naissaient depuis quelques années avec les pupilles effacées, entièrement blanches, comme si la pigmentation avait été retirée. Pas aveugles — ils voyaient, et certains disaient qu'ils voyaient mieux que les autres, qu'ils voyaient des choses que les autres ne voyaient pas. Les médecins de Caeloria n'avaient pas d'explication. Les prêtres en avaient trop.
 
 Le marchand dit : « Ils sont de plus en plus nombreux. J'ai vu des données — je ne dirai pas comment je les ai obtenues. Il y a trois ans, on en comptait une dizaine à Caeloria. L'année dernière, ils étaient peut-être soixante. »
 
 Le serviteur qui remit le vin à ce moment-là portait au cou un anneau de cuir rouge, mince, qui n'était pas un ornement. Je l'avais vu déjà à Nectoria sans m'arrêter dessus — sur deux femmes au marché du matin, sur un porteur dans la cour de l'auberge, sur l'homme qui balayait le couloir à mon arrivée. Je l'avais classé, dans la première heure, comme un signe de confrérie ou de quartier. La deuxième heure, j'avais compris ce que c'était. Je ne l'avais pas écrit. Le marchand me servit une rasade comme s'il ne voyait pas l'anneau du serviteur. Le serviteur posa la cruche et se retira sans qu'aucun de nous deux le remerciât. Le mot pour ces gens, à Vytharia, est *liés-au-foyer* ; le mot que les marchands étrangers utilisent entre eux, sans se vanter de le savoir, est plus court. Trois maisons sur dix à Nectoria les emploient sans contrat parce que l'anneau est le contrat. La République des Plumes a publié, il y a vingt ans selon mes lectures, un avis disant que la pratique était *en voie d'extinction*. Mes yeux disent autre chose. Mes yeux ne sont pas un avis publié.
 
-Je n'ai rien dit au marchand. Je n'ai pas demandé à voir le bureau qui régule les contrats de service. Je n'ai pas pris note du nom du serviteur — et je ne le pouvais pas, je ne le lui avais pas demandé. Ma Loi privée règle cela proprement : je suis ici pour cartographier ce qui se passe sous le sol, pas ce qui se passe au-dessus ; je ne peux pas tout porter ; mes faibles forces seraient mieux employées à comprendre ce qui menace cinq nations qu'à intervenir contre une coutume vyétharienne dont la République finira bien par s'occuper. Cela tient. Cela tient bien. C'est ce qui m'inquiète à présent, dans cette manière dont cela tient — la facilité avec laquelle on s'en arrange, la fluidité avec laquelle un anneau de cuir rouge entre dans le décor d'une cour d'auberge où un cartographe en voyage a besoin de manger et de dormir. J'écris la note dans la marge intérieure et je la laisse. Je ne reviens pas dessus.
+Je n'ai rien dit au marchand. Je n'ai pas demandé à voir le bureau qui régule les contrats de service. Je n'ai pas pris note du nom du serviteur — et je ne le pouvais pas, je ne le lui avais pas demandé. La règle que je me suis donnée règle cela proprement : je suis ici pour cartographier ce qui se passe sous le sol, pas ce qui se passe au-dessus ; je ne peux pas tout porter ; mes faibles forces seraient mieux employées à comprendre ce qui menace cinq nations qu'à intervenir contre une coutume vytharienne dont la République finira bien par s'occuper. Cela tient. Cela tient bien. C'est ce qui m'inquiète à présent, dans cette manière dont cela tient — la facilité avec laquelle on s'en arrange, la fluidité avec laquelle un anneau de cuir rouge entre dans le décor d'une cour d'auberge où un cartographe en voyage a besoin de manger et de dormir. J'écris la note dans la marge intérieure et je la laisse. Je ne reviens pas dessus.
 
 Je lui demandai depuis combien de temps le phénomène était apparu.
 
 Il réfléchit. « La première naissance documentée remonte à quatre ans. Peut-être cinq. »
 
-Quatre ou cinq ans. Avant Evertia — ou en même temps, selon la date exacte. La même fenêtre temporelle que tout le reste.
+Quatre ou cinq ans. La même fenêtre temporelle que tout le reste.
 
 Je demandai : « Qu'est-ce qu'ils voient ? »
 
@@ -156,9 +156,9 @@ Je sus que c'était un rêve — mais d'une façon différente de la conscience 
 
 Mon père était là.
 
-Aldric Valthen. Je n'ai pas de grande littérature autour de ce nom — mon père était un homme ordinaire et bon, un forgeron de quartier à Evertia qui sentait le métal chaud et qui avait des mains larges et des explications courtes pour tout. Il est mort quand j'avais dix-sept ans, d'une pneumonie d'hiver comme beaucoup de gens meurent à Evertia d'une pneumonie d'hiver. Je ne lui ai pas tenu la main à la fin parce que j'étais en apprentissage à l'autre bout de la ville et que le message est arrivé trop tard.
+Aldric Valthen. Je n'ai pas de grande littérature autour de ce nom — mon père était un homme ordinaire et bon, un berger de Valthorn qui sentait l'herbe d'altitude et la laine humide, qui avait des mains larges et des explications courtes pour tout. Il a disparu quand j'avais dix-sept ans, parti un matin pour les pâturages d'altitude et jamais revenu. Personne n'a su dire si l'altitude l'avait pris, ou s'il avait choisi de partir.
 
-Il était assis en face de moi dans le rêve, dans cet espace sans murs précis que les Tisseurs de Voile de Vytharia appellent le Somnium — l'espace intérieur où la frontière a disparu. Il était comme je me souvenais de lui à quarante ans, pas comme il était à la fin. Il me regardait avec cette façon qu'il avait de regarder les choses qu'il ne comprenait pas entièrement mais qu'il respectait — la façon dont il regardait mes premières cartes, à onze ans, avec une attention sérieuse que je n'avais pas encore méritée.
+Il était assis en face de moi dans le rêve, dans cet espace sans murs précis que les Tisseurs de Voile de Vytharia appellent le Somnium — l'espace intérieur où la frontière a disparu. Il était comme je me souvenais de lui à quarante ans, pas comme il était la dernière fois que je l'ai vu. Il me regardait avec cette façon qu'il avait de regarder les choses qu'il ne comprenait pas entièrement mais qu'il respectait — la façon dont il regardait mes premières cartes, à onze ans, avec une attention sérieuse que je n'avais pas encore méritée.
 
 Il parla.
 
@@ -168,7 +168,7 @@ Je veux dire que ses lèvres bougeaient — je voyais ses lèvres bouger, et je 
 
 Je me réveillai dans le lit de l'auberge avec la lumière incorrecte du Voile qui entrait par la fenêtre et les mains posées à plat sur le matelas, comme si j'avais essayé de tenir quelque chose.
 
-Mon père était mort depuis vingt ans. Ce que j'avais vu n'était pas mon père. Je le sais — ou je le crois — ou je sais et crois à la fois, et la distinction à Vytharia n'a pas la même clarté qu'ailleurs.
+Mon père avait disparu depuis dix-sept ans. Ce que j'avais vu n'était pas mon père — ou si c'était lui, c'était une projection que ma propre mémoire avait habillée d'une présence. Je le sais, ou je le crois, ou je sais et crois à la fois, et la distinction à Vytharia n'a pas la même clarté qu'ailleurs.
 
 Ce que je sais avec plus de certitude est ceci : l'expression de son visage ne m'est pas inconnue. C'est l'expression qu'il avait quand il m'expliquait quelque chose que je n'étais pas encore assez vieux pour comprendre, et qu'il savait que je ne comprendrais pas, et qu'il expliquait quand même parce que les mots posés dans un esprit trop jeune restent là et germent plus tard. L'expression de quelqu'un qui plante.
 
@@ -178,11 +178,11 @@ Je ne sais pas ce qu'il plantait. Je ne l'ai pas entendu.
 
 Le lendemain matin, je marchai jusqu'à Brystalis.
 
-Je n'avais pas l'intention d'y aller — la capitale de Vytharia, le cœur du Voile, n'était pas dans mon itinéraire raisonnable. Mais je me retrouvai sur la route qui y menait sans avoir clairement décidé d'y être, et dans ce pays particulier où la décision et le rêve ont un contour flou, je laissai la route choisir.
+Je n'avais pas l'intention d'y aller — la capitale de Vytharia, le cœur du Voile, n'était pas dans mon itinéraire raisonnable. Mais je me retrouvai sur la route qui y menait sans avoir clairement décidé d'y aller, et dans ce pays particulier où la décision et le rêve ont un contour flou, je laissai la route choisir.
 
-Brystalis est une ville de pierre grise que les illusions habillent en permanence. Les Veilleurs — les seuls habitants capables de la voir telle qu'elle est — patrouillent avec les yeux de ceux qui ont appris à ne faire confiance à aucune perception. Pour tout le monde d'autre, la ville est un fait variable : une tour d'argent pour l'un, un jardin pour l'autre. Pour moi, ce matin-là, la ville ressemblait à Evertia.
+Brystalis est une ville de pierre grise que les illusions habillent en permanence. Les Veilleurs — les seuls habitants capables de la voir telle qu'elle est — patrouillent avec les yeux de ceux qui ont appris à ne faire confiance à aucune perception. Pour tout le monde d'autre, la ville est un fait variable : une tour d'argent pour l'un, un jardin pour l'autre. Pour moi, ce matin-là, la ville ressemblait à Rukhsar.
 
-Non pas Evertia la ville réelle — Evertia telle qu'elle était dans mon souvenir d'avant le voyage, avant les anomalies, avant le Fragment Zéro et la Carte du Silence. Les fontaines qui fonctionnaient. Les rues que je connaissais. Cette familiarité douce et sans menace que les lieux d'enfance ont quand on les retrouve en imagination.
+Non pas Rukhsar la ville réelle — Rukhsar telle qu'elle était dans mon souvenir d'avant le voyage, avant les anomalies, avant le Fragment Zéro et la Carte du Silence. Les fontaines du fond du canyon qui chantaient encore. Les rues que je connaissais par cœur. Cette familiarité douce et sans menace que les lieux d'enfance ont quand on les retrouve en imagination.
 
 Je sus que c'était le Voile. Je sus que ma propre mémoire alimentait ce que je voyais. Cette conscience ne rendit pas la vision moins nette — juste différente. Juste vraie d'une autre façon.
 
@@ -206,7 +206,7 @@ Elle s'arrêta de marcher une seconde. Pas de surprise — de précision, le ré
 
 Elle réfléchit — vraiment réfléchit, pas comme une personne qui prépare une réponse mais comme une personne qui cherche réellement. Elle dit : « Parfois ce qu'on ne peut pas entendre dans un rêve, on peut le lire ailleurs. Cherchez où votre père a laissé une trace. »
 
-Je ne sus pas quoi répondre. Mon père ne laissait pas de traces — il était forgeron, il faisait des choses qui durent mais qui n'ont pas de signatures, des ferrures et des crochets et des grilles de fenêtre. Rien qui ressemble à un message.
+Je ne sus pas quoi répondre. Mon père ne laissait pas de traces — il était berger, il faisait à ses heures des choses qui durent mais qui n'ont pas de signatures, des ferrures et des crochets et des grilles de fenêtre que les bergers de Valthorn fabriquent eux-mêmes. Rien qui ressemble à un message.
 
 Mais la question resta avec moi.
 
@@ -246,7 +246,7 @@ Je la regardai sans l'ouvrir — je la regardai juste repliée dans sa toile cir
 
 Ou qui savait que quelqu'un la trouverait.
 
-Je pensai à mon père. Je pensai à ses lèvres qui bougeaient dans le rêve de Vytharia, à l'expression de quelqu'un qui plante. Je pensai à ce que la Tisseuse de Voile avait dit : *Cherchez où votre père a laissé une trace.* Mon père ne laissait pas de traces. Mon père était forgeron. Il faisait des ferrures et des crochets et —
+Je pensai à mon père. Je pensai à ses lèvres qui bougeaient dans le rêve de Vytharia, à l'expression de quelqu'un qui plante. Je pensai à ce que la Tisseuse de Voile avait dit : *Cherchez où votre père a laissé une trace.* Mon père ne laissait pas de traces. Mon père était berger. Il faisait, à ses heures, des ferrures et des crochets et —
 
 Il avait fait les crochets de ma première table à dessin.
 
@@ -268,7 +268,7 @@ Au matin du jour 468, je pris la route vers le nord.
 
 Celethor est à dix jours de marche depuis la frontière de Vytharia si les chemins sont praticables — et à cette saison ils le sont, le printemps ayant séché les boues de l'hiver sans encore durcir les ornières en pierre. Je marcherais. Je n'avais plus envie de chariots ni de compagnons ni de haltes dans les villes moyennes dont les auberges se ressemblent toutes après quatre cent soixante-huit jours.
 
-Je marcherais et je penserai. C'est ce que j'ai fait depuis le début — marcher et penser — et je n'ai pas de raison d'en changer.
+Je marcherais et je penserais. C'est ce que j'ai fait depuis le début — marcher et penser — et je n'ai pas de raison d'en changer.
 
 Ce que je crois pouvoir noter à ce stade, avec la prudence du cartographe qui sait qu'une lecture en vaut une autre tant que rien ne l'a réfutée, avant d'entrer dans Celethor qui est la dernière nation avant le départ pour Evertia :
 
@@ -280,7 +280,7 @@ Ce que je crois pouvoir noter à ce stade, avec la prudence du cartographe qui s
 
 *Les étoiles, selon les mesures de Haldria, se déplacent.* D'une fraction infime. Régulièrement. Depuis le jour 298.
 
-Et sous tout cela — sous les steppes de Lythar, sous les racines d'Ackerna, sous la jungle de Warenthor, sous le Voile de Vytharia, sous les pierres d'Evertia où j'ai commencé ce voyage sans savoir ce que je cherchais — il y a la Carte du Silence qui pointe.
+Et sous tout cela — sous les steppes de Lythar, sous les racines d'Ackerna, sous la jungle de Warenthor, sous le Voile de Vytharia, sous les pierres de Kharazir où j'ai commencé ce voyage sans savoir ce que je cherchais — il y a la Carte du Silence qui pointe.
 
 La Carte pointe vers Evertia.
 
@@ -288,19 +288,19 @@ Evertia est derrière moi depuis quatre cent soixante-huit jours. Mais peut-êtr
 
 Ce que je n'ai pas encore : le nom de ce qui arrive. Ce qui se passe par le dessous. Ce que les esprits ont fui. Ce que les chevaux sentent dans les creux de la steppe.
 
-Celethor peut avoir cette réponse. Ou non. Mais Celethor est la dernière chose que je peux apprendre en Ilthara, et après Celethor il n'y a que la mer et de l'autre côté de la mer il y a là où ça a commencé.
+Celethor peut avoir cette réponse. Ou non. Mais Celethor est la dernière chose que je peux apprendre avant la mer, et après Celethor il n'y a que la mer et de l'autre côté de la mer il y a là où ça a commencé.
 
 Je serai à Celethor dans dix jours.
 
 Je serai à Evertia dans moins d'un mois.
 
-Je ne sais pas ce que je trouverai là-bas. Je sais que je dois y aller. Je sais que la Carte me conduit et que la Carte a été tracée par quelqu'un qui savait où les lignes allaient — quelqu'un qui connaissait la forme du problème avant que le problème ait un nom.
+Je ne sais pas ce que je trouverai là-bas. Je sais que je dois y aller. Je sais que la Carte que je dresse, à mesure que mes points convergent, semble dessiner une figure qu'un autre — peut-être mon père, peut-être personne — aurait pu connaître avant moi. *Selon une lecture* : la forme du problème serait apparue avant que le problème ait un nom. Je ne tranche pas. Je trace.
 
-Je serai ce quelqu'un, éventuellement. Ou je serai le cartographe qui a eu la Carte et qui n'a pas su la lire assez vite.
+Je serai ce quelqu'un, peut-être. Ou je serai le cartographe qui a eu la Carte et qui n'a pas su la lire assez vite.
 
 La deuxième possibilité me tient éveillé. C'est ce qu'il faut, je crois, pour avancer.
 
-Je note, ce soir, ce que je tiens pour acquis après cinq cent jours de route et de recoupements : le monde peut être compris si on le regarde assez longtemps avec assez de soin. C'est la conviction du cartographe — celle sans laquelle aucune carte ne se trace. Je n'ai pas à la défendre. Elle me porte.
+Je note, ce soir, ce que je tiens pour acquis après près de cinq cents jours de route et de recoupements : le monde peut être compris si on le regarde assez longtemps avec assez de soin. C'est la conviction du cartographe — celle sans laquelle aucune carte ne se trace. Je n'ai pas à la défendre. Elle me porte.
 
 La steppe de Lythar s'étend encore à ma droite, l'herbe ocre sous un ciel qui tient la pluie depuis deux jours sans la lâcher. À ma gauche, la silhouette lointaine des premiers contreforts du nord, le début de la géographie de Celethor. Devant moi, la route droite des plaines, ouverte et sans mensonge comme toutes les routes de Lythar.
 

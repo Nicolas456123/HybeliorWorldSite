@@ -64,7 +64,7 @@ Elle m'examina un moment sans rien dire, puis regarda mes cahiers.
 
 *« Non. »* Elle secoua légèrement la tête. *« Les cartographes représentent ce qui est. Ce que vous avez fait, c'est représenter ce qui relie. Ce n'est pas la même chose. »*
 
-Je m'assis. Elle ne m'y avait pas invité non plus, mais ce n'était pas le genre d'espace où les invitations avaient cours. Elle prit le premier de mes cahiers — j'avais une façon de les présenter depuis que j'avais commencé à comprendre que je devrais partager ça, une progression pensée depuis les observations les plus simples vers les conclusions les plus lourdes — et elle l'ouvrit à la première page.
+Je m'assis. Elle ne m'y avait pas invité non plus, mais ce n'était pas le genre d'espace où les invitations avaient cours. Elle prit le premier de mes cahiers — j'avais une façon de les présenter depuis que j'avais commencé à comprendre que je devrais partager ça, une progression construite des observations les plus simples vers les conclusions les plus lourdes — et elle l'ouvrit à la première page.
 
 Elle lut pendant vingt minutes sans rien dire. Je bus le thé qu'Ysolde avait apporté sans s'annoncer — une infusion aux herbes que je ne reconnaissais pas, légèrement amère, avec une note de quelque chose de chaud et de durable qui s'installait dans la gorge.
 
@@ -74,7 +74,7 @@ Quand Selendris releva les yeux, son expression n'avait pas changé de surface, 
 
 Je lui demandai doucement si elles correspondaient aux abords du Mont Jumeau.
 
-Un silence. La qualité particulière du silence des gens qui viennent de voir quelque chose se connecter qu'ils n'avaient pas relié depuis très longtemps.
+Un silence. La qualité particulière du silence des gens qui viennent de voir se rejoindre quelque chose qu'ils tenaient séparé depuis très longtemps.
 
 *« Oui. »*
 
@@ -94,9 +94,9 @@ Le quatrième jour, Selendris m'envoya un mot par Ysolde : elle voulait me prés
 
 ---
 
-Le Tribunal de Lumasar n'était pas un tribunal judiciaire mais une institution d'arbitrage académique — une cour de sept érudits, dont deux Recteurs et le Grand Recteur Thalendris Prismor lui-même, qui avait le pouvoir de valider ou d'invalider les travaux de recherche susceptibles d'avoir des implications au-delà de la seule académie. Une institution austère, dont les décisions étaient lentes et les procédures épuisantes, mais dont le poids institutionnel était réel : ce que le Tribunal de Lumasar reconnaissait comme valide circulait dans les académies du monde entier.
+Le Tribunal de Lumasar n'était pas un tribunal judiciaire mais une institution d'arbitrage académique — une cour de sept érudits, dont deux Recteurs et le Grand Recteur Thalendris Prismor lui-même, qui avait le pouvoir de valider ou d'invalider les travaux de recherche susceptibles d'avoir des implications au-delà de la seule académie. Une institution austère, dont les décisions étaient lentes et les procédures épuisantes, mais dont le poids académique était réel : ce que le Tribunal de Lumasar reconnaissait comme valide circulait dans les académies du monde entier.
 
-Je me présentai dans la salle haute de Prismalith — une chambre octogonale au plafond de cristal translucide à travers lequel le ciel filtrait en nuances, changeant la couleur de la lumière selon l'heure — avec mes dix-sept cahiers dans un sac et ma synthèse de vingt pages dans la main. Sept personnes m'attendaient autour d'une table de pierre pale.
+Je me présentai dans la salle haute de Prismalith — une chambre octogonale au plafond de cristal translucide à travers lequel le ciel filtrait en nuances, changeant la couleur de la lumière selon l'heure — avec mes dix-sept cahiers dans un sac et ma synthèse de vingt pages dans la main. Sept personnes m'attendaient autour d'une table de pierre pâle.
 
 Je connaissais Thalendris de réputation — un homme âgé d'une lucidité effrayante, disaient ceux qui l'avaient rencontré, qui affirmait avoir vu dans ses rêves la fin de Lumasar. Son visage confirmait les descriptions : fin, attentif, avec des yeux qui avaient l'habitude de regarder des choses qu'ils ne pouvaient pas nommer. Il prit ma synthèse sans un mot et la lut dans le silence de la salle pendant que les six autres membres du Tribunal attendaient avec la patience entraînée des gens habitués aux délibérations longues.
 
@@ -104,7 +104,7 @@ Quand il eut fini, il posa la synthèse sur la table et me regarda.
 
 *« Vous avez vu les structures sous le glacier. »*
 
-Je confirmais.
+Je confirmai.
 
 *« Et la pulsation. »*
 
@@ -114,7 +114,7 @@ Je confirmais.
 
 *« Oui. »*
 
-Il se tourna vers les autres membres du Tribunal. Un murmure s'établit — pas une discussion mais une vérification, chacun feuilletant les parties de la synthèse qui relevaient de sa spécialité. La géomancienne faisait courir son doigt sur les données des anomalies magnétiques. L'historien spécialiste des textes anciens avait sorti un volume de sa propre bibliothèque personnelle et comparait des passages. L'expert en civilisations pré-Arrachement ne bougeait pas — il lisait ma synthèse avec une immobilité qui signifiait soit l'incrédulité soit une reconnaissance si totale qu'elle paralysait.
+Il se tourna vers les autres membres du Tribunal. Un murmure s'établit — pas une discussion mais une vérification, chacun feuilletant les parties de la synthèse qui relevaient de sa spécialité. La géomancienne faisait courir son doigt sur les données des anomalies magnétiques. L'historien spécialiste des textes anciens avait sorti un volume de sa bibliothèque personnelle et comparait des passages. L'expert en civilisations pré-Arrachement ne bougeait pas — il lisait ma synthèse avec une immobilité qui signifiait soit l'incrédulité soit une reconnaissance si totale qu'elle paralysait.
 
 Thalendris reprit la parole.
 
@@ -188,12 +188,12 @@ Elle prit mes mains — un geste inattendu, bref, de quelqu'un qui exprime quelq
 
 Je passai une dernière nuit à Prismalith dans la chambre de l'auberge des Voiles. La fenêtre donnait sur les tours de l'Académie, dont les cristaux ne reflétaient plus rien dans l'obscurité mais gardaient une lueur interne — froide, persistante, la lueur particulière des choses qui stockent la lumière pour la restituer plus tard.
 
-Je mangeai seul — du pain aux cristaux que l'aubergiste servait avec une confiture de fruits de haute saison, et un morceau de fromage de Kharazir qu'un marchand avait vendu à la cuisine, reconnaissable à sa croûte safranée. Le goût du Kharazir que je n'avais pas mangé depuis huit cent quatre-vingt-cinq jours — dense, légèrement piquant, avec cette note terreuse des herbes des plaines de Solandra. Je mangeai lentement, en notant dans le cahier dix-sept les dernières choses qui me venaient à l'esprit sur Lumasar, sur Selendris, sur le Tribunal, sur ce que j'avais déposé là et ce que ça voulait dire.
+Je mangeai seul — du pain aux cristaux que l'aubergiste servait avec une confiture de fruits de haute saison, et un morceau de fromage de Kharazir qu'un marchand avait vendu à la cuisine, reconnaissable à sa croûte safranée. Le goût du Kharazir que je n'avais pas mangé depuis huit cent quatre-vingt-quinze jours — dense, légèrement piquant, avec cette note terreuse des herbes des plaines de Solandra. Je mangeai lentement, en notant dans le cahier dix-sept les dernières choses qui me venaient à l'esprit sur Lumasar, sur Selendris, sur le Tribunal, sur ce que j'avais déposé là et ce que ça voulait dire.
 
 Une thèse qu'on dépose dans une institution n'est pas perdue. Elle est simplement lente. Elle travaille à la vitesse des institutions — à la vitesse des commissions de recherche et des archives copiées et des étudiants qui liront les copies vingt ans plus tard et qui feront eux-mêmes des connexions, en validant certaines pages et en démolissant les autres. C'est plus lent que le monde qui change. Mais c'est plus durable que la mémoire d'un seul homme — et plus rigoureux, aussi, que ce qu'un seul homme peut soutenir contre lui-même.
 
 Et j'avais d'autres dépôts à faire. Des dépôts plus urgents, dans des endroits où la lenteur institutionnelle n'était pas le bon outil.
 
-Je fermais le cahier dix-sept. Je regardais la lueur des tours de cristal.
+Je fermai le cahier dix-sept. Je regardai la lueur des tours de cristal.
 
 Le lendemain matin, je prenais la route de Kharazir.

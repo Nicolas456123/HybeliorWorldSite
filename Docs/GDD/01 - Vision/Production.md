@@ -29,7 +29,13 @@ La conséquence philosophique est claire : la sensation de *« monde qui change 
 
 ## Trois tiers de coût, une seule discipline
 
-L'équipe d'Hybelior pense la production en **tiers de coût**. Le premier tier rassemble tout ce qui peut être configuré sans création d'asset — ciel, lumière, post-process, particules ambiantes, audio mix, tables de spawn, courbes jour/nuit, densité de foliage, palettes. C'est le **gros** de la sensation d'ère ; et c'est presque gratuit. Le deuxième tier rassemble ce qui se réutilise par traitement codé — reskin de créature par shader cosmique, variant matériau de terrain, aura Niagara attachée, variante de comportement IA, recette éphémère, filtre audio. C'est le **goût** distinct d'une ère, ce qui fait qu'un loup d'Ombre n'est pas un loup tinté en violet mais une présence singulière. Le troisième tier, enfin, rassemble la **création coûteuse** — nouveau modèle 3D complet, nouvelle zone modélisée, trace géologique permanente, cinématique unique, boss avec son set d'animations. Ce tier est rare, réservé aux moments mémorables, et discipliné par un refus catégorique d'y tomber par paresse.
+L'équipe d'Hybelior pense la production en **tiers de coût**.
+
+Le **premier tier** rassemble tout ce qui peut être configuré sans création d'asset : ciel, lumière, post-process, particules ambiantes, audio mix, tables de spawn, courbes jour/nuit, densité de foliage, palettes. C'est le **gros** de la sensation d'ère, et c'est presque gratuit.
+
+Le **deuxième tier** rassemble ce qui se réutilise par traitement codé : reskin de créature par shader cosmique, variant matériau de terrain, aura Niagara attachée, variante de comportement IA, recette éphémère, filtre audio. C'est le **goût** distinct d'une ère — ce qui fait qu'un loup d'Ombre n'est pas un loup tinté en violet, mais une présence singulière.
+
+Le **troisième tier**, enfin, rassemble la **création coûteuse** : nouveau modèle 3D complet, nouvelle zone modélisée, trace géologique permanente, cinématique unique, boss avec son set d'animations. Ce tier est rare, réservé aux moments mémorables, et discipliné par un refus catégorique d'y tomber par paresse.
 
 Cette discipline tient à une seule conviction : un monde habité par des joueurs adultes, qui changent à chaque saison cosmique, ne peut pas être produit à coup d'assets uniques. Il doit être produit comme un **instrument** — quelques bons matériaux, un outillage solide, et une vie infinie de combinaisons.
 
@@ -59,7 +65,11 @@ Pour la maquette d'interface, les fonctionnalités détaillées et les règles d
 
 ## Une roadmap par phases
 
-La réalisation se déploie en phases. La **fondation** vise un système d'ère paramétrique fonctionnel, restreint au seul tier le moins coûteux, avec une banque minimale et une démo interne. La **variation** ouvre les variants visuels complets, applique le système à un premier archétype d'ère pleinement thématique, et livre une démo externe. La **library** étend le catalogue à plusieurs archétypes d'ère, ajoute les générateurs de quêtes et de PNJ, et propose un cycle d'ères jouable. La **pré-alpha publique** ouvre toutes les disciplines de prédiction, la Bourse des Augures, plusieurs archétypes d'ère, et une première Partie publique. Et au-delà, l'enrichissement devient **continu** — un ou deux assets signature par grande ère, de nouveaux archétypes ajoutés au catalogue, des conditions cachées qui s'éveillent.
+La réalisation se déploie en phases.
+
+La **fondation** vise un système d'ère paramétrique fonctionnel, restreint au seul tier le moins coûteux, avec une banque minimale et une démo interne. La **variation** ouvre les variants visuels complets, applique le système à un premier archétype d'ère pleinement thématique, et livre une démo externe. La **library** étend le catalogue à plusieurs archétypes d'ère, ajoute les générateurs de quêtes et de PNJ, et propose un cycle d'ères jouable. La **pré-alpha publique** ouvre toutes les disciplines de prédiction, la Bourse des Augures, plusieurs archétypes d'ère, et une première Partie publique.
+
+Au-delà, l'enrichissement devient **continu** : un ou deux assets signature par grande ère, de nouveaux archétypes ajoutés au catalogue, des conditions cachées qui s'éveillent.
 
 L'esprit de cette roadmap n'est pas un calendrier figé. C'est une **discipline d'étapes** — on ne passe à la suivante que quand la précédente tient. Une banque incomplète, une dette technique non réglée, un outil non adopté par les designers : autant de raisons de ne pas avancer. La règle est simple — on ne prétend pas livrer ce qu'on n'a pas validé.
 
@@ -79,7 +89,9 @@ Pour le détail des profils, missions et niveaux de criticité, voir [[Productio
 
 ## Risques et discipline
 
-Toute production d'envergure connaît ses risques, et il vaut la peine de les nommer. Le **dérapage de scope** sur les variants — vouloir en ajouter encore et encore — peut tuer le pipeline ; il se contre par une liste fermée et un refus discipliné. L'**équilibrage désordonné** des Ères se contre par l'éditeur lui-même, qui permet tests rapides et métriques. La **cohérence narrative** entre Ères se contre par un arc planifié à grandes mailles et une revue obligatoire avant publication. L'**explosion combinatoire** des recettes se contre par la matérialisation paresseuse — on ne génère que ce qu'un joueur utilise vraiment. La **dette de banque initiale** se contre par le verrouillage des phases.
+Toute production d'envergure connaît ses risques, et il vaut la peine de les nommer.
+
+Le **dérapage de scope** sur les variants — vouloir en ajouter encore et encore — peut tuer le pipeline ; il se contre par une liste fermée et un refus discipliné. L'**équilibrage désordonné** des Ères se contre par l'éditeur lui-même, qui permet tests rapides et métriques. La **cohérence narrative** entre Ères se contre par un arc planifié à grandes mailles et une revue obligatoire avant publication. L'**explosion combinatoire** des recettes se contre par la matérialisation paresseuse — on ne génère que ce qu'un joueur utilise vraiment. La **dette de banque initiale** se contre par le verrouillage des phases.
 
 Le risque le plus pernicieux, et le plus probable à long terme, est la **dérive vers le tier le plus coûteux**. C'est la tentation perpétuelle des productions MMO : créer plutôt que recombiner. Y céder, c'est perdre la stratégie. Une revue régulière du ratio entre tiers, et une alerte au moindre déséquilibre, est la discipline qui maintient l'édifice.
 

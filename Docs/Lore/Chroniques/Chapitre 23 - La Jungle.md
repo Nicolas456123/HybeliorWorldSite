@@ -16,11 +16,11 @@ needs_review_for: []
 
 L'air change avant la frontière.
 
-Je ne l'avais pas anticipé — j'avais traversé assez de pays, franchi assez de lisières pour croire que je savais ce que traverser une frontière signifiait. Un paysage qui se modifie, une architecture qui évolue, la langue qui glisse sur d'autres syllabes. Mais ici, à l'approche de Warenthor, c'est l'air lui-même qui change de nature, comme si la jungle avait étendu sa juridiction au-delà de ses arbres. À cinq lieues de la lisière, l'humidité est déjà différente — pas l'humidité morte des villes à l'aube, pas l'humidité propre de la montagne sous la pluie, mais quelque chose de chargé, de respiré, une vapeur qui vient du vivant et qui retourne au vivant, une eau qui n'a jamais voulu être eau et qui est en train de redevenir feuille. L'odeur me frappa ensuite. Pas l'odeur d'une forêt ordinaire — la pourriture douce de l'humus, le vert âcre des résines, les parfums sucrés de fleurs dont je ne connaissais pas les noms et auxquels je ne trouverais peut-être pas de noms, parce que certaines choses dans le sud d'Ilthara n'ont pas encore été nommées dans ma langue.
+Je ne l'avais pas anticipé — j'avais traversé assez de pays, franchi assez de lisières pour croire que je savais ce que traverser une frontière signifiait. Un paysage qui se modifie, une architecture qui évolue, la langue qui glisse sur d'autres syllabes. Mais ici, à l'approche de Warenthor, c'est l'air lui-même qui change de nature, comme si la jungle avait étendu sa juridiction au-delà de ses arbres. À cinq lieues de la lisière, l'humidité est déjà différente — pas l'humidité morte des villes à l'aube, pas l'humidité propre de la montagne sous la pluie, mais quelque chose de chargé, de respiré, une vapeur qui vient du vivant et qui retourne au vivant, une eau qui s'apprête à redevenir feuille. L'odeur me frappa ensuite. Pas l'odeur d'une forêt ordinaire — la pourriture douce de l'humus, le vert âcre des résines, les parfums sucrés de fleurs dont je ne connaissais pas les noms et auxquels je ne trouverais peut-être pas de noms, parce que certaines choses dans le sud d'Ilthara n'ont pas encore été nommées dans ma langue.
 
-Je notai la date. Jour 440 depuis Evertia. Depuis le début.
+Je notai la date. Jour 440 depuis Kharazir. Depuis le début.
 
-Il y a un an et quelque mois, je cartographiais des rues. Je cherchais une anomalie qui devait être une erreur de calcul. Maintenant je suis sur la route de Wyndor avec deux sandales qui prennent l'eau et une Carte du Silence pliée sept fois dans mon sac, à l'encre devenue si vive qu'elle éclaire légèrement la nuit comme une braise qui refuse d'éteindre. J'ai accumulé : le Fragment Zéro que Dravesh m'a confié aux mines d'Ordavan, la liste des anomalies stellaires relevées par les astronomes de Pyrtara, les rapports des saisons décalées à Gryndor et Sylthara, les esprits agités — partout, partout, les esprits agités. Chaque morceau de la preuve s'est posé dans ma besace comme un caillou dans un sac qu'on finit par ne plus pouvoir porter debout.
+Il y a un peu plus d'un an, je cartographiais des tunnels sous Kharazir. Je cherchais une anomalie qui aurait pu n'être qu'une erreur de calcul. Maintenant je suis sur la route de Wyndor avec deux sandales qui prennent l'eau et la Carte du Silence dans la tête, dépliée d'observations en observations depuis des mois. J'ai accumulé : la mémoire du Fragment Zéro entrevu dans les Archives d'Altram, la liste des anomalies stellaires relevées par les astronomes d'Haldria, les rapports des saisons décalées à Gryndor et Sylthara, les esprits agités — partout, partout, les esprits agités. Chaque morceau de la preuve s'est posé dans ma besace comme un caillou dans un sac qu'on finit par ne plus pouvoir porter debout.
 
 Ce que j'ignorais, c'est que le dernier morceau m'attendait ici.
 
@@ -130,11 +130,13 @@ J'ai un carnet de cartographe et un carnet de journal. Je tiens les deux depuis 
 
 Cette nuit-là, j'essayai de mettre en relation les points.
 
-Evertia : les esprits silencieux, les fontaines taries, les prêtres qui officiaient dans une cathédrale sans écho.
+Kharazir : les inscriptions des tunnels, les Déliés gardiens, ce que la Guilde avait classé pour qu'il n'existe plus.
 
-Les mines d'Ordavan : le Fragment Zéro, trouvé à une profondeur où rien ne devrait exister, une profondeur en dessous des couches de roche normales, comme si quelqu'un l'avait déposé là depuis le bas.
+Les Archives d'Altram : le Fragment Zéro, gardé sous cloche dans une chambre dont la porte ne se fermait plus, dont les archivistes affirmaient qu'il précédait l'Arrachement.
 
-Les anomalies stellaires relevées par les astronomes de Pyrtara : les étoiles qui bougent de quelques secondes d'arc de trop — pas une erreur de mesure, un déplacement réel, trop régulier pour être aléatoire.
+Ordavan, en Gryndor : un village vitrifié en trois minutes par quelque chose dont les Sages préféraient ne pas nommer la cause.
+
+Les anomalies stellaires relevées par les astronomes d'Haldria : les étoiles qui bougent de quelques secondes d'arc de trop — pas une erreur de mesure, un déplacement réel, trop régulier pour être aléatoire.
 
 Les saisons décalées dans les plaines de Gryndor et Sylthara : le printemps qui arrive une semaine trop tôt, puis deux, puis sans prévenir du tout.
 
@@ -150,7 +152,7 @@ La frontière avec Ackerna n'est pas une ligne sur une carte — c'est un change
 
 Warenthor est jungle tropicale : dense, humide, sombre de sa propre ombre, verticale comme une cathédrale dont on ne verrait pas le plafond. Ackerna est forêt tempérée : plus claire, plus organisée, avec des sous-bois où la lumière arrive jusqu'au sol et des arbres qui semblent moins pressés d'occuper l'espace. Si la jungle de Warenthor vous regarde, la forêt d'Ackerna vous observe. C'est la même chose avec des intentions différentes.
 
-Les druides d'Ackerna ont à Bybias, ville frontière, un marché qui ouvre trois fois par semaine pour les étrangers. Je m'y arrêtai une nuit. La règle est simple : on ne va pas plus loin que les glycines géantes qui délimitent la zone autorisée sans une escorte druidique. J'aurais pu en obtenir une — la lettre de recommandation de Brennan d'Evertia ouvrait des portes dans tout Ilthara, et Ackerna ne fait pas exception —, mais je n'avais plus beaucoup de temps.
+Les druides d'Ackerna ont à Bybias, ville frontière, un marché qui ouvre trois fois par semaine pour les étrangers. Je m'y arrêtai une nuit. La règle est simple : on ne va pas plus loin que les glycines géantes qui délimitent la zone autorisée sans une escorte druidique. J'aurais pu en obtenir une — la lettre de recommandation de Brennan de Thalmaris ouvrait des portes dans tout Ilthara, et Ackerna ne fait pas exception —, mais je n'avais plus beaucoup de temps.
 
 La date du départ vers Celethor s'approchait. Je le sentais moins dans le calendrier que dans quelque chose d'autre — une urgence qui n'avait pas de nom précis, une impression que chaque jour supplémentaire passé en Ilthara était un jour de retard sur quelque chose qui n'attendrait pas.
 
@@ -190,13 +192,13 @@ Je continuai de marcher.
 
 *Ils arrivent par le dessous.*
 
-Je sais que les esprits de Warenthor, quand ils ont parlé pour la dernière fois avant de se taire, ont choisi cette phrase précisément. *Ils* — j'enregistre le pluriel sans antécédent, c'est la formule telle qu'elle a été reçue, je n'ai pas à l'arranger. Je sais que la Carte du Silence que je transporte a été tracée par quelqu'un qui savait des choses sur la forme du monde que les cartes ordinaires ne montrent pas.
+Je sais que les esprits de Warenthor, quand ils ont parlé pour la dernière fois avant de se taire, ont choisi cette phrase précisément. *Ils* — j'enregistre le pluriel sans antécédent, c'est la formule telle qu'elle a été reçue, je n'ai pas à l'arranger. Je sais que la Carte du Silence que je trace dans mon carnet, point après point, depuis Skaldoria, suit une logique qui m'échappe encore — comme si je dessinais en pointillé une figure dont le contour appartenait à quelqu'un d'autre.
 
 Et je sais que Celethor est de l'autre côté. Que c'est là-bas que les lignes convergent.
 
 Celethor, et Evertia derrière Celethor comme une ombre sur une ombre.
 
-Je note ceci pour moi-même, le soir, à la lumière de la Carte qui éclaire à peine le papier — juste assez pour voir mes propres mots, pas assez pour voir ce qui est au-delà : je suis fatigué d'une façon que le sommeil ne répare plus. Je suis fatigué de la façon dont on est fatigué quand on commence à comprendre quelque chose, parce que comprendre quelque chose ôte le confort de ne pas savoir. J'aurais pu continuer de cartographier des rues à Evertia. J'aurais pu décider que les anomalies étaient des erreurs de mesure et en rester là.
+Je note ceci pour moi-même, le soir, à la lumière qui éclaire à peine le papier — juste assez pour voir mes propres mots, pas assez pour voir ce qui est au-delà : je suis fatigué d'une façon que le sommeil ne répare plus. Je suis fatigué de la façon dont on est fatigué quand on commence à comprendre quelque chose, parce que comprendre quelque chose ôte le confort de ne pas savoir. J'aurais pu continuer de cartographier des rues à Kharazir. J'aurais pu décider que les anomalies étaient des erreurs de mesure et en rester là.
 
 Je ne pouvais pas. J'ai essayé. Ce n'était pas possible.
 

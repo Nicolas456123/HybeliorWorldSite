@@ -15,7 +15,7 @@ needs_review_for: []
 
 ---
 
-L'odeur m'a précédé de plusieurs lieues avant que la vision ne suive : une odeur de terre mouillée, d'herbe haute et de crottin chaud, portée par un vent qui n'avait rencontré aucun obstacle depuis l'horizon. Rien. Pas une colline, pas un mur, pas un arbre de taille suffisante pour qu'on le remarquât depuis la route. Seulement le ciel, immense au-dessus, et en dessous l'herbe — verte, ocre, dorée selon l'inclinaison du soleil — qui ondulait comme une mer que le vent aurait apprivoisée.
+L'odeur m'a précédé de plusieurs lieues avant que la vision ne suive : une odeur de terre mouillée, d'herbe haute et de crottin chaud, portée par un vent qui n'avait rencontré aucun obstacle depuis l'horizon. Rien. Pas une colline, pas un mur, pas un arbre de taille suffisante pour qu'on le remarquât depuis la route. Seulement le ciel, immense au-dessus, et en dessous l'herbe — verte, ocre, dorée selon l'inclinaison du soleil — qui ondulait à perte de vue sous le passage du vent.
 
 J'ai posé mon pied sur la frontière de Ventera sans barrière, sans garde, sans la moindre formalité. Il y avait un cairn de pierre grise dressé dans l'herbe, à hauteur d'épaule, sans inscription ni emblème — un simple monticule que les mains humaines avaient empilé là pour dire : ici commence quelque chose. Je me suis arrêté devant lui un long moment, les yeux fixés sur ces pierres brutes, et j'ai pensé à tous les postes de contrôle que j'avais traversés depuis Kharazir. Les fonctionnaires qui parcouraient mes papiers d'un doigt suspicieux. Les tampons qu'on apposait ou refusait d'apposer. Les questions posées d'une voix qui était déjà une accusation. Et là : un cairn. Pas de soldat. Pas de document requis. Juste la frontière et le vent.
 
@@ -25,7 +25,7 @@ J'ai marché vers les plaines.
 
 ---
 
-La caravane m'a trouvé — ou peut-être est-ce moi qui l'ai trouvée, la distinction importe peu. En tout cas, ce n'est pas moi qui ai fait les premiers pas. Je marchais depuis deux heures sur une piste que les herbes avaient à moitié effacée, portant mon sac et ma fatigue, quand j'ai entendu le bruit : d'abord le bruit de la terre elle-même, ce grondement sourd et continu que produisent plusieurs dizaines de sabots en mouvement, puis les voix — claires, hautes, portées par le vent comme des cerfs-volants — et enfin la poussière, cette colonne de poussière blonde que soulevait la caravane dans son sillage et qui s'étirait vers le ciel comme une bannière.
+La caravane m'a trouvé — ou peut-être est-ce moi qui l'ai trouvée, la distinction importe peu. En tout cas, ce n'est pas moi qui ai fait les premiers pas. Je marchais depuis deux heures sur une piste que les herbes avaient à moitié effacée, portant mon sac et ma fatigue, quand j'ai entendu le bruit : d'abord le bruit de la terre elle-même, ce grondement sourd et continu que produisent plusieurs dizaines de sabots en mouvement, puis les voix — claires, hautes, qui me parvenaient avant le reste parce que le vent les portait — et enfin la poussière, cette colonne de poussière blonde que soulevait la caravane dans son sillage et qui s'étirait vers le ciel.
 
 Ils m'ont aperçu. Quelqu'un a crié quelque chose que le vent a tordu avant qu'il ne m'atteigne. La caravane a continué d'avancer — elle ne s'est pas arrêtée pour moi, mais elle a ralenti, imperceptiblement, juste assez pour qu'une femme à cheval puisse se détacher du groupe et venir à ma hauteur au petit trot.
 
@@ -57,7 +57,7 @@ C'est là que j'ai rencontré Orren.
 
 Il était assis à l'écart du groupe principal, à la limite de la lumière du feu, en train de coudre quelque chose — un morceau de harnais, me suis-je dit d'abord, avant de voir qu'il s'agissait d'un dessin brodé sur de la toile, représentant ce que j'ai reconnu comme la roue à huit rayons du Rota Mundi. Il avait les mains d'un artisan mais les yeux d'un vieil homme qui aurait renoncé à être surpris par quoi que ce fût — des yeux gris et attentifs qui m'ont pesé, jaugé, puis accepté sans que son expression change.
 
-Orren était le Gardien du Cycle qui accompagnait la caravane. Pas un prêtre au sens que j'aurais donné à ce mot dans d'autres pays — il ne portait pas de robes liturgiques, ne psalmodiait pas, ne bénissait pas les départs d'une main levée. Il était là. Il observait. Quand quelqu'un avait une question — sur un pressentiment de tempête, sur la direction à prendre, sur la signification d'une mort survenue dans la nuit —, les cavaliers venaient le voir et il répondait avec la même économie de mots que s'il avait lu la réponse quelque part dans le vent.
+Orren était le Gardien du Cycle qui accompagnait la caravane. Pas un prêtre au sens que j'aurais donné à ce mot dans d'autres pays — il ne portait pas de robes liturgiques, ne psalmodiait pas, ne bénissait pas les départs d'une main levée. Il était là. Il observait. Quand quelqu'un avait une question — sur un pressentiment de tempête, sur la direction à prendre, sur la signification d'une mort survenue dans la nuit —, les cavaliers venaient le voir et il répondait avec une économie de mots qui faisait paraître la réponse plus brève que la question.
 
 Il m'a demandé ce que je faisais sur les plaines. Pas avec méfiance — avec cette curiosité tranquille des gens qui posent les questions pour le plaisir d'entendre les histoires plutôt que pour les juger.
 
@@ -77,7 +77,7 @@ On avait disposé sur une toile étalée au sol — un festin nomade, sans table
 
 Personne ne m'a regardé manger. C'est à dire que plusieurs personnes ont regardé en ma direction, mais pas avec l'intensité de qui observe un étranger — plutôt avec le regard distrait de qui partage un espace sans en faire un événement. J'ai mangé lentement, consciencieusement, pour faire durer ce sentiment.
 
-Après le repas, quelqu'un a commencé à jouer d'un instrument que je n'avais pas encore vu — une sorte de crécelle à lames de métal de différentes longueurs, qui produisait un son entre la clochette et le xylophone. Pas une musique savante, pas une démonstration de technique, juste un motif répété qui s'accordait au vent pour créer quelque chose de plus grand que lui-même. Un jeune cavalier a commencé à frapper du pied. Puis un autre. La mélodie a continué.
+Après le repas, quelqu'un a commencé à jouer d'un instrument que je n'avais pas encore vu — une sorte de crécelle à lames de métal de différentes longueurs, qui produisait un son entre la clochette et le xylophone. Pas une musique savante, pas une démonstration de technique, juste un motif répété qui se laissait porter par le vent et qu'on entendait à peine décrocher du fond sonore des plaines. Un jeune cavalier a commencé à frapper du pied. Puis un autre. La mélodie a continué.
 
 Dava, assise à ma gauche, m'a dit sans me regarder que c'était une invocation à la Rota Mundi. Pas une prière formelle — il n'y avait pas de prêtre qui officierait, pas de formule récitée — mais un rappel adressé au cycle : nous sommes là, nous passons, nous continuerons.
 
@@ -125,7 +125,7 @@ La seconde lecture ne se transmettait pas. Elle se pratiquait, se cultivait, s'a
 
 Et pourtant — et ceci m'a troublé longtemps après que la caravane eut repris sa route — c'est la seconde lecture que j'avais pratiquée dans les tunnels sous Kharazir. C'est cette lecture qui m'avait valu mon exil. La capacité de voir dans les pierres ce que les pierres avaient vu — non pas leur composition minérale, mais leur histoire, leur usage, la mémoire inscrite dans leur configuration.
 
-L'académie avait appelé ça de la "supposition non documentée". Un cavalier de Rystera l'aurait peut-être appelée tout autrement.
+L'académie avait appelé ça de la « supposition non documentée ». Un cavalier de Rystera l'aurait peut-être appelée tout autrement.
 
 ---
 
@@ -151,11 +151,11 @@ Orren a marché en silence un long moment. Nous dépassions alors un cairn parti
 
 Le cinquième jour dans les plaines a été celui que j'aurais voulu arrêter, contenir, tenir entre mes mains comme on tient une flamme pour se réchauffer sans se brûler.
 
-Nous traversions une étendue que Dava appelait simplement "la grande herbe" — il n'y avait pas de nom cartographique, ou si jamais j'en avais rencontré un dans mes études il ne correspondait à rien de ce que je voyais, parce que les cartes que j'avais étudiées de Ventera avaient été faites de loin, par des cartographes qui n'y avaient jamais mis les pieds et s'étaient contentés de noter "plaines" sur trois quarts de la surface.
+Nous traversions une étendue que Dava appelait simplement « la grande herbe » — il n'y avait pas de nom cartographique, ou si jamais j'en avais rencontré un dans mes études il ne correspondait à rien de ce que je voyais, parce que les cartes que j'avais étudiées de Ventera avaient été faites de loin, par des cartographes qui n'y avaient jamais mis les pieds et s'étaient contentés de noter "plaines" sur trois quarts de la surface.
 
 Le vent était dans le dos. Le soleil à notre droite, déclinant vers l'après-midi. Les chevaux avançaient à un trot léger, les oreilles mobiles, comme si eux aussi savouraient quelque chose dans cette lumière particulière. J'avais rangé mon carnet et je marchais simplement, les bras ballants, la tête relevée.
 
-J'ai compris, à ce moment précis, quelque chose que j'aurais dû savoir plus tôt et que je n'aurais peut-être jamais su sans ces plaines et ce vent : que depuis vingt-huit jours, je vivais contracté. Que j'avais répondu à la peur, à l'injustice, à l'humiliation de Kharazir, à l'indifférence polie de Lumasar, en me rétractant — en réduisant l'espace que j'occupais dans le monde, en m'aplattissant pour passer sous les portes qui se fermaient. Et que cela avait fonctionné, dans le sens où je m'étais rendu moins visible, moins accrochant, moins susceptible d'être arrêté. Mais que cela m'avait aussi rendu moins présent à moi-même.
+J'ai compris, à ce moment précis, quelque chose que j'aurais dû savoir plus tôt et que je n'aurais peut-être jamais su sans ces plaines et ce vent : depuis vingt-huit jours, je vivais contracté. J'avais répondu à la peur, à l'injustice, à l'humiliation de Kharazir, à l'indifférence polie de Lumasar, en me rétractant — en réduisant l'espace que j'occupais dans le monde, en m'aplatissant pour passer sous les portes qui se fermaient. Et cela avait fonctionné : je m'étais rendu moins visible, moins accrochant, moins susceptible d'être arrêté. Mais cela m'avait aussi rendu moins présent à moi-même.
 
 Les plaines ne permettaient pas cela. Il n'y avait pas de mur contre lequel s'aplatir. Il n'y avait que le vent, qui soufflait également sur tous.
 
@@ -171,7 +171,7 @@ Je me suis retourné une fois après avoir repris la route. La caravane était d
 
 Il y a une liberté dans ce genre d'adieu : aucun des deux ne prétend que le lien était autre que ce qu'il était — un passage partagé, bref, sans promesse de suite. Le cycle avait fait se croiser deux routes, puis les avait défaites. C'était complet en soi.
 
-Pendant deux jours j'ai marché seul à travers les plaines de l'est, en direction des collines qui marquaient, m'avait dit Orren, le commencement des terres séraphiennes. Le vent de Ventera m'accompagnait encore — il m'a semblé qu'il me poussait légèrement, comme si les plaines voulaient s'assurer que je partais vers quelque chose plutôt que de quelque chose.
+Pendant deux jours j'ai marché seul à travers les plaines de l'est, en direction des collines qui marquaient, m'avait dit Orren, le commencement des terres séraphiennes. Le vent de Ventera était encore dans mon dos — c'est un détail technique, une affaire de direction et de saison, mais je préfère le noter ainsi : il était dans mon dos, et marcher était plus facile que la veille.
 
 Ce soir-là, assis dans l'herbe haute avec mon carnet sur les genoux, j'ai essayé de mettre en mots ce que Ventera m'avait offert. Non pas les plaines, non pas la caravane, non pas même Orren et Dava — mais le fait simple, fondamental, de n'avoir pas été défini par ce que je n'étais pas.
 

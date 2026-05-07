@@ -10,7 +10,7 @@ needs_review_for: []
 > *« Nous n'avons pas de murs parce que nous n'avons pas besoin de murs. Le désert est notre forteresse, et les esprits sont nos sentinelles. »*
 > — Yalka, Grande Chamane de Torkam
 
-**Alkaran — Torkam puis Skaldoria, régions d'Olkanir et du Grand Fjord — Jours 200 à 215**
+**Alkaran — Torkam, puis Ulinor — Skaldoria, régions d'Olkanir et du Grand Fjord — Jours 200 à 215**
 
 ---
 
@@ -28,13 +28,13 @@ Pardine changea d'allure. Je ne lui demandai rien — il accéléra de lui-même
 
 Le premier campement torkamite que je croisai était de la tribu des Dunes.
 
-Je le sus à l'emblème brodé sur les tentes — un scorpion sur fond ocre, stylisé avec la précision d'une calligraphie —, aux chameaux attachés aux lignes extérieures, et à la façon dont les deux gardes en bordure du campement m'aperçurent depuis une distance que je n'aurais pas su estimer et dont je compris, à la qualité de leur immobilité, qu'ils m'avaient évalué, classé et considéré comme non-menaçant avant même que je sois assez proche pour distinguer leur visage.
+Je le sus à l'emblème brodé sur les tentes — un scorpion sur fond ocre, stylisé avec la précision d'une calligraphie —, aux chameaux attachés aux lignes extérieures, et à la façon dont les deux gardes en bordure du campement m'aperçurent depuis une distance que je n'aurais pas su estimer et dont je compris, à la qualité de leur immobilité, qu'ils m'avaient évalué, classé et considéré comme non-menaçant avant même que je sois assez proche pour distinguer leurs visages.
 
-La tribu des Dunes est celle des commerçants et des caravaniers. Ce sont des gens qui ont vu beaucoup d'étrangers et qui savent à quoi ressemble un voyageur solitaire sans intention militaire : ses sacoches sont trop chargées de matériel d'observation pour contenir autre chose, son cheval est fatigué mais pas surmené, et il regarde autour de lui avec une curiosité qui n'a pas le caractère appliqué du reconnaissance militaire.
+La tribu des Dunes est celle des commerçants et des caravaniers. Ce sont des gens qui ont vu beaucoup d'étrangers et qui savent à quoi ressemble un voyageur solitaire sans intention militaire : ses sacoches sont trop chargées de matériel d'observation pour contenir autre chose, son cheval est fatigué mais pas surmené, et il regarde autour de lui avec une curiosité qui n'a pas le caractère appliqué de la reconnaissance militaire.
 
 Ils m'accueillirent avec le pragmatisme des commerçants : ni méfiance ni chaleur excessive, mais une hospitalité transactionnelle dans laquelle les deux parties connaissaient le code. On me donna de l'eau — l'hospitalité fondamentale, que refuser était inconcevable dans le désert —, on m'indiqua un espace pour planter mon bivouac à distance respectable du campement, et le chef du groupe de transit, un homme d'une quarantaine d'années qui s'appelait Yalnis et parlait un galenorien commun fluide avec un accent des régions caravanières, vint me voir en fin d'après-midi.
 
-Yalnis était le type du Dune dans le sens le plus accompli : vêtements de plusieurs couches légères qui respiraient et protégeaient du soleil simultanément, un cuir de chèvre tanné d'une finesse que je n'avais jamais vu sur aucun animal de forêt, et ces yeux plissés de quelqu'un dont le regard a appris à traverser les miroirs de chaleur du désert sans s'y laisser prendre. Il avait sa caravane — douze bêtes de charge, six hommes, une marchandise qu'il ne précisa pas et que je ne demandai pas — en route vers Faldor, le carrefour commercial de la région d'Olkanir.
+Yalnis était le type du Dune dans le sens le plus accompli : vêtements de plusieurs couches légères qui respiraient et protégeaient du soleil simultanément, un cuir de chèvre tanné d'une finesse que je n'avais jamais vue sur aucun animal de forêt, et ces yeux plissés de quelqu'un dont le regard a appris à traverser les miroirs de chaleur du désert sans s'y laisser prendre. Il avait sa caravane — douze bêtes de charge, six hommes, une marchandise qu'il ne précisa pas et que je ne demandai pas — en route vers Faldor, le carrefour commercial de la région d'Olkanir.
 
 Je lui demandai si je pouvais accompagner la caravane jusqu'à Faldor.
 
@@ -56,11 +56,11 @@ Non pas que Yalnis fût plus loquace — il ne l'était pas, et les hommes de sa
 
 Le soir, autour du feu — un petit feu, économe en bois dans ce désert où le bois n'existait pas, alimenté par des crottes de chameau séchées qui brûlaient d'une façon propre et régulière —, les hommes de la caravane pratiquaient le Feu des Noms.
 
-Je n'avais pas encore vu ce rituel. Je le reconnus à la description que j'avais eue de la religion du Foedus Animae depuis les marchés de Altram et les notes du géographe d'Endora : chaque soir, avant le repas, on nomme les morts. Pas en grand cérémonie — les Dunes faisaient ça avec la décontraction des gens pour qui la mort fait partie du paysage aussi naturellement que les dunes elles-mêmes. Chacun prononçait à voix basse, presque pour lui-même, deux ou trois noms. Son père. Sa mère. Un frère. Une femme morte l'hiver dernier d'une morsure de serpent des sables. Les noms étaient dits au feu, pas à la compagnie — le feu recevait, gardait, transmettait.
+Je n'avais pas encore vu ce rituel. Je le reconnus à la description que j'avais eue de la religion du Foedus Animae depuis les marchés d'Altram et les notes du géographe d'Endora : chaque soir, avant le repas, on nomme les morts. Pas en grande cérémonie — les Dunes faisaient ça avec la décontraction des gens pour qui la mort fait partie du paysage aussi naturellement que les dunes elles-mêmes. Chacun prononçait à voix basse, presque pour lui-même, deux ou trois noms. Son père. Sa mère. Un frère. Une femme morte l'hiver dernier d'une morsure de serpent des sables. Les noms étaient dits au feu, pas à la compagnie — le feu recevait, gardait, transmettait.
 
 Yalnis me regarda observer le rituel sans y participer. Il ne dit rien le premier soir. Le deuxième soir, il me dit — sans pression, comme une information : « Tu peux nommer tes morts si tu en as. Ici, tous les morts ont le droit au feu. »
 
-Je n'ai pas de morts proches. J'avais des collègues à Kharazir qui sont morts depuis mon départ — pas de ma faute, simplement de leurs vies. Et j'avais, dans un sens qui n'était pas exactement de la mort mais qui y ressemblait — une version de moi-même que l'exil avait rendu obsolète. L'homme que j'étais à Kharazir, avec ses cartes officielles et ses fonctions de cartographe de la couronne et sa certitude d'avoir une place définie dans le monde. Cet homme-là était mort le jour où on m'avait délié.
+Je n'ai pas de morts proches. J'avais des collègues à Kharazir qui sont morts depuis mon départ — pas de ma faute, simplement de leurs vies. Et j'avais, dans un sens qui n'était pas exactement de la mort mais qui y ressemblait, une version de moi-même que l'exil avait rendue obsolète. L'homme que j'étais à Kharazir, avec ses cartes officielles et ses fonctions de cartographe de la couronne et sa certitude d'avoir une place définie dans le monde. Cet homme-là était mort le jour où on m'avait délié.
 
 Je dis son nom au feu, silencieusement. Je me sentis légèrement ridicule, puis moins ridicule qu'avant.
 
@@ -76,7 +76,7 @@ Le sacré et le commercial, tissés ensemble sans hiérarchie visible. Ni l'un n
 
 Yalnis me présenta à quelqu'un au marché de Faldor : Kemsha, une femme de la tribu des Murmures qui transitait par Faldor en route vers Olkanoris pour un rendez-vous avec la Grande Chamane Nareth. Kemsha était chamane — une chamane de milieu de carrière, aux alentours de quarante ans, à en juger par l'assurance de ses gestes et la façon dont le reste du marché s'écartait légèrement sur son passage, avec ce mouvement naturel des foules qui reconnaissent l'autorité sans la nommer.
 
-Elle avait des yeux particuliers. Je ne saurais pas mieux dire — des yeux qui regardaient d'une façon légèrement décalée de ce qu'on attendait, comme si une partie de son attention était toujours dirigée vers quelque chose que les autres ne voyaient pas. Je compris plus tard que c'est la façon dont on reconnaît les chamanes des Murmures : leur regard a deux foci simultanés, le visible et ce qui ne l'est pas.
+Elle avait des yeux particuliers. Je ne saurais pas mieux dire — des yeux qui regardaient d'une façon légèrement décalée de ce qu'on attendait, comme si une partie de son attention était toujours dirigée vers quelque chose que les autres ne voyaient pas. Je compris plus tard que c'est la façon dont on reconnaît les chamanes des Murmures : leur regard a deux foyers simultanés, le visible et ce qui ne l'est pas.
 
 Elle parlait galenorien — Yalnis me l'avait précisé. Pas couramment, mais suffisamment. Elle m'examina avec cette attention dédoublée et dit : « Tu portes quelque chose avec toi. »
 
@@ -94,7 +94,7 @@ Kemsha hocha la tête comme si j'avais confirmé. « Viens avec moi à Olkanoris
 
 La route vers Olkanoris prit trois jours depuis Faldor.
 
-Le paysage se transforma progressivement — la plaine semi-aride du centre de Torkam laissant place à une région de collines de grès rouge, les mesas qui entouraient Olkanor, le lieu de rassemblement sacré. Je vis le site de loin avant d'en comprendre la nature : une cuvette naturelle entre des plateaux de roche ocre, à l'intérieur de laquelle, même depuis la distance d'une demi-journée de marche, on distinguait des structures légères, des feux, des silhouettes. Ce n'était pas la saison des grands rassemblements — le Grand Conseil se tient deux fois par an, aux équinoxes. Mais des chamanes résidaient en permanence à Olkanor, gardiens du lieu et de ce qu'il portait.
+Le paysage se transforma progressivement — la plaine semi-aride du centre de Torkam laissant place à une région de collines de grès rouge, aux mesas qui entouraient Olkanor, le lieu de rassemblement sacré. Je vis le site de loin avant d'en comprendre la nature : une cuvette naturelle entre des plateaux de roche ocre, à l'intérieur de laquelle, même depuis la distance d'une demi-journée de marche, on distinguait des structures légères, des feux, des silhouettes. Ce n'était pas la saison des grands rassemblements — le Grand Conseil se tient deux fois par an, aux équinoxes. Mais des chamanes résidaient en permanence à Olkanor, gardiens du lieu et de ce qu'il portait.
 
 Kemsha me fit entrer dans la cuvette sans cérémonie. Les chamanes qui se trouvaient là nous regardèrent passer, quelques regards sur moi — pas hostiles, plutôt évaluatifs, ce regard que j'avais appris à identifier comme la façon dont les Torkamites calculent où vous vous situez sur l'échelle de ce qu'ils considèrent comme réel et sérieux. Un étranger avec un regard attentif et des instruments de mesure : probablement dans les catégories acceptables.
 
@@ -118,7 +118,7 @@ Ce n'était pas tout à fait inexact.
 
 Le repas chez Nareth fut le plus silencieux que j'eus dans tout Torkam — et dans tout Torkam, les repas sont déjà assez silencieux.
 
-Kemsha, deux chamanes plus jeunes, et moi, autour d'une table basse en bois de tamarisk importé de la côte, avec des plats posés au centre selon la façon torkamite : pas de service individuel, chacun prend ce dont il a besoin. Du riz à l'eau de source — dense, parfumé d'herbes que je ne reconnus pas —, de la viande de chameau séchée et braisée dans un fond de dattes, un pain de millet plat et souple qui servait d'ustensile autant que d'aliment, et du thé d'herbes du désert dans des petits verres sans anse que la chaleur de la boisson rendait difficiles à tenir.
+Kemsha, deux chamanes plus jeunes, et moi, autour d'une table basse en bois de tamaris importé de la côte, avec des plats posés au centre selon la façon torkamite : pas de service individuel, chacun prend ce dont il a besoin. Du riz à l'eau de source — dense, parfumé d'herbes que je ne reconnus pas —, de la viande de chameau séchée et braisée dans un fond de dattes, un pain de millet plat et souple qui servait d'ustensile autant que d'aliment, et du thé d'herbes du désert dans des petits verres sans anse que la chaleur de la boisson rendait difficiles à tenir.
 
 Les plats de l'autre côté de la table, devant les places vides, étaient pleins.
 
@@ -162,7 +162,7 @@ La tribu des Ossements habite Valdarin, dans le désert profond de Qythros — u
 
 Kemsha ne vint pas jusqu'à Valdarin — elle avait ses raisons, qu'elle ne détailla pas, et je n'insistai pas. Elle me guida jusqu'à la lisière de Qythros et m'indiqua la direction des pierres. « Dis-leur que tu viens de ma part. Dis-leur que tu portes quelque chose qui t'a remarqué. Ils comprendront. »
 
-Je leur dis ces deux choses en arrivant. Le chamane qui m'accueillit — un homme d'une trentaine d'années aux vêtements sombres couverts d'os gravés accrochés comme des amulettes sur chaque surface de tissu disponible, avec ce cliquet particulier de sa démarche, ce froissement d'os qui était sa présence sonore — me regarda assez longtemps pour me mettre mal à l'aise, puis dit en un galenorien appris mais précis : « Montre-moi ce qui t'a remarqué. »
+Je leur dis ces deux choses en arrivant. Le chamane qui m'accueillit — un homme d'une trentaine d'années aux vêtements sombres couverts d'os gravés accrochés comme des amulettes sur chaque surface de tissu disponible, avec ce cliquetis particulier de sa démarche, ce froissement d'os qui était sa présence sonore — me regarda assez longtemps pour me mettre mal à l'aise, puis dit en un galenorien appris mais précis : « Montre-moi ce qui t'a remarqué. »
 
 Je sortis la pierre de Keth de ma poche gauche.
 
@@ -178,17 +178,17 @@ Il rangea sa pierre, me rendit la mienne. « Entre. »
 
 Valdarin est l'endroit le plus étrange que j'aie traversé dans tout ce voyage.
 
-Ce n'est pas la strangeness des choses visuellement extraordinaires — le désert de Qythros est géologiquement monotone, et Valdarin est un campement de quelques dizaines de personnes sans rien qui frappe l'œil. Ce n'est pas non plus la strangeness de l'hostilité ou du danger. La tribu des Ossements est parfaitement aimable — d'une façon d'autant plus déconcertante que leur activité principale est la nécromance rituelle.
+Ce n'est pas l'étrangeté des choses visuellement extraordinaires — le désert de Qythros est géologiquement monotone, et Valdarin est un campement de quelques dizaines de personnes sans rien qui frappe l'œil. Ce n'est pas non plus l'étrangeté de l'hostilité ou du danger. La tribu des Ossements est parfaitement aimable — d'une façon d'autant plus déconcertante que leur activité principale est la nécromance rituelle.
 
-La strangeness de Valdarin vient de son son.
+L'étrangeté de Valdarin vient de son acoustique.
 
-Le chamane me l'avait prévenu avant d'entrer : « L'air ici répète les sons légèrement décalés. Certains visiteurs entendent des voix. Ce sont leurs propres voix, modifiées. Ou les voix des attendants. Selon ce que tu crois. »
+Le chamane m'en avait prévenu avant d'entrer : « L'air ici répète les sons légèrement décalés. Certains visiteurs entendent des voix. Ce sont leurs propres voix, modifiées. Ou les voix des attendants. Selon ce que tu crois. »
 
 Il m'avait donné le choix de l'interprétation. Je le respectai pour ça.
 
-En marchant dans le campement, je compris ce qu'il voulait dire. Un son que je produisais — un pas, un mot, le claquement de mes sacoches — arrivait à mes oreilles avec un retard infime et légèrement transformé. Pas un écho, parce qu'un écho rebondit depuis une surface et revient de la même direction. Ça venait de partout, ou de nulle part, ou de l'air lui-même. Comme si l'atmosphère de Valdarin enregistrait les sons et les restituait avec une infime altération.
+En marchant dans le campement, je compris ce qu'il voulait dire. Un son que je produisais — un pas, un mot, le claquement de mes sacoches — arrivait à mes oreilles avec un retard infime et légèrement transformé. Pas un écho, parce qu'un écho rebondit sur une surface et revient de la même direction. Ça venait de partout, ou de nulle part, ou de l'air lui-même. Comme si l'atmosphère de Valdarin enregistrait les sons et les restituait avec une infime altération.
 
-Ce phénomène me fascina plus que tout le reste. J'essayai d'en trouver une explication physique — résonance de la couche géologique, composition particulière de l'air sec dans cette dépression précise, refraction acoustique dans le sable fin. Je n'en trouvai pas de satisfaisante. Pas parce qu'il n'y en avait peut-être pas une, mais parce que mes instruments de cartographe ne mesuraient pas le son.
+Ce phénomène me fascina plus que tout le reste. J'essayai d'en trouver une explication physique — résonance de la couche géologique, composition particulière de l'air sec dans cette dépression précise, réfraction acoustique dans le sable fin. Je n'en trouvai pas de satisfaisante. Pas parce qu'il n'y en avait peut-être pas une, mais parce que mes instruments de cartographe ne mesuraient pas le son.
 
 Ce que je pouvais noter : le phénomène existait, il était reproductible, et les gens qui y vivaient depuis des générations l'avaient intégré dans leur système de croyances comme la preuve physique de ce qu'ils affirmaient — les morts restent présents, leurs voix continuent de circuler dans l'air, décalées mais réelles. Je n'avais pas les moyens de confirmer ou d'infirmer. Mais je notai soigneusement la géographie de l'endroit : la dépression naturelle, l'orientation du vent, la composition apparente du sous-sol.
 
@@ -196,7 +196,7 @@ Le chamane — qui s'appelait Orvash, j'appris son nom au second repas — me pa
 
 ---
 
-Ce que Orvash m'apprit dépassa tout ce que j'avais entendu à Myrtam.
+Ce qu'Orvash m'apprit dépassa tout ce que j'avais entendu à Myrtam.
 
 Il me dit — en prenant son temps, avec la rigueur d'un homme habitué à décrire des phénomènes difficiles à des gens qui n'ont pas ses catégories conceptuelles — que les chamanes des Ossements pratiquent ce qu'il appela le Passage du Murmure : une méditation profonde, assistée par des préparations d'herbes spécifiques, dans laquelle le chamane descend à travers les couches de conscience jusqu'à un niveau où les frontières entre vivants et morts deviennent perméables. Pas la mort — quelque chose de plus proche d'une écoute amplifiée.
 
@@ -208,9 +208,9 @@ Pas les voix des ancêtres — celles-là, ils les reconnaissaient, les distingu
 
 Je lui demandai si les chamanes avaient une interprétation.
 
-Orvash s'arrêta. « Le Foedus Animae dit que les morts restent protecteurs tant qu'on les nourrit. Ce mouvement dans les profondeurs — ce n'est pas l'agitation de morts mal nourris. Selon la doctrine des Ossements, ce serait quelque chose de plus ancien que le Pacte — quelque chose qui prédaterait leur façon de comprendre. »
+Orvash s'arrêta. « Le Foedus Animae dit que les morts restent protecteurs tant qu'on les nourrit. Ce mouvement dans les profondeurs — ce n'est pas l'agitation de morts mal nourris. Selon la doctrine des Ossements, ce serait quelque chose de plus ancien que le Pacte — quelque chose qui précéderait leur façon de comprendre. »
 
-Ce prédate notre façon de comprendre. J'avais entendu quelque chose de proche à Trinoria, dans la forêt — les druides qui disaient que la forêt s'éveillait à quelque chose de plus ancien qu'elle-même. À Myrtam, Oryn le prêtre qui disait qu'Eldoria écoutait peut-être quelque chose plutôt qu'elle ne parlait. Et maintenant les chamanes des Ossements qui entendaient un bruit de fond dans les couches les plus profondes de leur méditation.
+Cela précède notre façon de comprendre. J'avais entendu quelque chose de proche à Trinoria, dans la forêt — les druides qui disaient que la forêt s'éveillait à quelque chose de plus ancien qu'elle-même. À Myrtam, Oryn le prêtre qui disait qu'Eldoria écoutait peut-être quelque chose plutôt qu'elle ne parlait. Et maintenant les chamanes des Ossements qui entendaient un bruit de fond dans les couches les plus profondes de leur méditation.
 
 Un bruit de fond qui cherche sa fréquence.
 
@@ -242,7 +242,7 @@ Je lui remis la lettre de Kemsha — la chamane torkamite m'avait fourni une let
 
 Les réseaux des chamanes fonctionnent plus vite que les routes. Je ne savais pas comment, et je n'allai pas le demander.
 
-Brynja me conduisit au foyer principal du campement — une longue salle basse de pierre et de tourbe où un feu brûlait dans une cheminée centrale, les murs couverts de peaux tendues et d'os gravés, disposés selon un ordre que je ne comprenais pas mais qui n'était pas aléatoire. Elle me donna à manger — de la viande de renne séchée, du pain d'avoine compact, de l'eau froide de la source de toundra — avec la directness des gens du nord qui ne s'embarrassent pas de cérémonie autour de la nécessité.
+Brynja me conduisit au foyer principal du campement — une longue salle basse de pierre et de tourbe où un feu brûlait dans une cheminée centrale, les murs couverts de peaux tendues et d'os gravés, disposés selon un ordre que je ne comprenais pas mais qui n'était pas aléatoire. Elle me donna à manger — de la viande de renne séchée, du pain d'avoine compact, de l'eau froide de la source de toundra — avec la franchise des gens du nord qui ne s'embarrassent pas de cérémonie autour de la nécessité.
 
 Et elle me parla.
 
@@ -254,7 +254,7 @@ Les chamanes du Givre tiennent des registres. Pas des registres écrits — Skal
 
 Dans ces registres : les comportements inhabituels du sol de Sylthor.
 
-Le sol de Sylthor vibre en permanence, depuis toujours — c'est ce qui a fait de cet endroit un lieu sacré, ce que les chamanes interprètent comme la respiration des morts incorporés dans la montagne. Mais depuis quatre ou cinq ans — Brynja fut précise : elle dita la saison et l'année selon le calendrier clanique —, la vibration avait changé de caractère.
+Le sol de Sylthor vibre en permanence, depuis toujours — c'est ce qui a fait de cet endroit un lieu sacré, ce que les chamanes interprètent comme la respiration des morts incorporés dans la montagne. Mais depuis quatre ou cinq ans — Brynja fut précise : elle nomma la saison et l'année selon le calendrier clanique —, la vibration avait changé de caractère.
 
 Non pas disparu. Non pas augmenté. Changé.
 
@@ -280,7 +280,7 @@ Brynja m'expliqua — avec une précision que je ne m'attendais pas à trouver d
 
 Depuis quatre ans, à Sylthor, les ancêtres ne répondent plus.
 
-Les chambres des morts incorporés dans la montagne — les vieux chamanes qui avaient choisi Sylthor pour leur dernier lieu — restaient là, présents selon tous les critères ordinaires. Les Cairns portaient encore leurs noms. On leur parlait. On leur offrait de la nourriture.
+Les morts incorporés dans la montagne — les vieux chamanes qui avaient choisi Sylthor pour leur dernier lieu — restaient là, présents selon tous les critères ordinaires. Les Cairns portaient encore leurs noms. On leur parlait. On leur offrait de la nourriture.
 
 Mais il n'y avait plus de réponse.
 
@@ -292,7 +292,7 @@ Vers le sud. Vers Evertia.
 
 Le Silence d'Evertia.
 
-Je ne dis pas le nom à voix haute. Mais il occupa toute la place dans mon crâne, pendant que le feu de Sylthor brûlait et que la vibration du sol montait dans mes os avec son nouveau rythme légèrement altéré — plus d'uniformité, plus de variations, quelque chose qui ne dormait plus tout à fait.
+Je ne dis pas le nom à voix haute. Mais il occupa toute la place dans mon crâne, pendant que le feu de Sylthor brûlait et que la vibration du sol montait dans mes os avec son nouveau rythme légèrement altéré — moins d'uniformité, plus de variations, quelque chose qui ne dormait plus tout à fait.
 
 ---
 
@@ -302,7 +302,7 @@ Je ne dormis pas vraiment — ou peut-être que je dormis mais d'un sommeil si p
 
 La vibration du sol montait dans le bois de la couchette.
 
-À un moment — dans la nuit, impossible de dire à quelle heure, la nuit du nord en cette saison était presque totale mais pas tout à fait, une ligne de lumière grise à l'horizon perpétuel — j'eus une perception qui n'était pas un rêve et pas un éveil.
+À un moment — dans la nuit, impossible de dire à quelle heure, la nuit du nord en cette saison était presque totale mais pas tout à fait, une ligne perpétuelle de lumière grise à l'horizon — j'eus une perception qui n'était pas un rêve et pas un éveil.
 
 Pas une vision. Je me méfie des visions. Pas une voix. Je me méfie des voix. Quelque chose de plus proche de ce que j'appelle cartographiquement une impression de convergence — ce moment où l'on a pris assez de relevés depuis assez d'angles différents pour que la forme générale du territoire commence à se dessiner même si les détails manquent encore. Ce moment où les points séparés commencent à être une ligne.
 
@@ -340,7 +340,7 @@ J'essayai de voir ce qu'ils voyaient.
 
 Je ne vis que la toundra, l'horizon gris, le ciel qui s'éclaircissait.
 
-Mais je notai la direction dans mon carnet. Direction sud-ouest depuis Sylthor. Un vecteur. Une ligne que je ne savais pas encore où elle finissait.
+Mais je notai la direction dans mon carnet. Direction sud-ouest depuis Sylthor. Un vecteur. Une ligne dont je ne savais pas encore où elle finissait.
 
 ---
 

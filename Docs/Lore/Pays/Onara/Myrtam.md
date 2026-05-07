@@ -11,7 +11,7 @@ needs_review_for: []
 > — Inscription sur la Porte de la Grande Forge
 
 > *« Une bénédiction qui abîme les poumons. J'aurais voulu comprendre si ces hommes mouraient plus doucement pour y croire. »*
-> — Sorin Valthen, *Cahier IV, Les Cendres*, Myrtam, jour 132
+> — Sorin Valthen, *Cahier IV, Les Cendres*, Myrtam, jour 188
 
 > *« Le numéro qu'on grave sur une lame ne devrait pas être un poids. Il devrait être une fierté. Tant que les quotas broieront les artisans, les numéros ne seront que des chaînes. »*
 > — Tract du Syndicat des Profondeurs, copie saisie à Lyraxoris, an 248

@@ -26,7 +26,7 @@ Ce n'était pas par choix de confort. C'était par nécessité intellectuelle, p
 
 Je sortis mon carnet. La moitié des dernières pages avaient été arrachées à Gryndor, avant la fuite, parce que certaines choses qu'on écrit ne doivent pas tomber entre n'importe quelles mains. Les souches des pages restaient, rugueuses sous les doigts, comme des cicatrices de papier.
 
-Ce que je savais, au jour 355 : quelque chose montait de sous la terre. Pas en un point. En plusieurs. Alkaran, les mines et leurs vibrations inexplicables. La forêt d'Elyndor que j'apprendrais plus tard, et la pulsation sous les racines que je n'avais pas encore imaginée mais que quelque chose en moi presssentait déjà. Ordavan, le sol qui brûle par en dessous jusqu'à se vitrifier, les habitants disparus, une ville entière évacuée comme si elle avait senti venir ce que personne d'autre ne voulait voir. Et les visions, à moi, dans le silence de cette ville vide — des images que je n'avais pas les mots pour transcrire fidèlement, des images de profondeur et de chaleur et de quelque chose qui pulsait à intervalles réguliers sous la croûte de calcaire et de basalte, comme un cœur dont on ignorait l'existence jusqu'au moment où on pose la main sur la terre et qu'on le sent battre.
+Ce que je savais, au jour 355 : quelque chose montait de sous la terre. Pas en un point. En plusieurs. Alkaran, les mines et leurs vibrations inexplicables. La forêt d'Elyndor que j'apprendrais plus tard, et la pulsation sous les racines que je n'avais pas encore imaginée mais que quelque chose en moi pressentait déjà. Ordavan, le sol qui brûle par en dessous jusqu'à se vitrifier, les habitants disparus, une ville entière évacuée comme si elle avait senti venir ce que personne d'autre ne voulait voir. Et les visions, à moi, dans le silence de cette ville vide — des images que je n'avais pas les mots pour transcrire fidèlement, des images de profondeur et de chaleur et de quelque chose qui pulsait à intervalles réguliers sous la croûte de calcaire et de basalte, comme un cœur dont on ignorait l'existence jusqu'au moment où on pose la main sur la terre et qu'on le sent battre.
 
 Je notai, dans la marge d'une page épargnée : *Drakora. Le feu est religion ici. Peut-être le feu sait-il des choses que les hommes ignorent.*
 
@@ -36,13 +36,13 @@ C'était naïf. Je l'écrivis quand même.
 
 L'aube à Drakora n'est pas une chose qu'on décide d'observer ou non. Elle s'impose.
 
-Le soleil montait sur le flanc oriental du Pic de l'Aube — j'apprendrais son nom plus tard, mais à cet instant je le voyais simplement comme la montagne la plus haute de ce côté de l'horizon, couronnée d'une architecture verticale que la lumière naissante transformait en silhouette d'une précision presque abstraite — et au moment précis où les premiers rayons touchèrent les plateaux sommitaux, quelque chose se produisit qui m'immobilisa sur mon rocher.
+Le soleil montait sur le flanc oriental du Pic de l'Aube — j'apprendrais son nom plus tard, mais à cet instant je le voyais simplement comme la montagne la plus haute de ce côté de l'horizon, couronnée d'une architecture verticale que la lumière naissante détachait en silhouette nette contre le ciel — et au moment précis où les premiers rayons touchèrent les plateaux sommitaux, quelque chose se produisit qui m'immobilisa sur mon rocher.
 
 Un cri. Pas un cri d'animal au sens ordinaire du terme. Un son qui commençait dans les fréquences graves et montait jusqu'au registre de la douleur, un son qui faisait résonner les os avant que les oreilles l'identifient, un son que le corps reconnaît d'instinct comme appartenant à une catégorie différente de celle des créatures qui marchent, nagent ou rampent. Un son qui venait du ciel.
 
 Je levai la tête.
 
-Il y en avait deux. À hauteur du sommet, dans la lumière encore rasante qui les dorair d'un côté et les laissait sombres de l'autre, deux silhouettes en vol — des envergures qui rendaient les aigles absurdes, des corps dont je ne comprenais pas les proportions avant plusieurs secondes, une façon de tenir l'air qui n'était pas le battement d'une aile d'oiseau mais quelque chose de plus lent, de plus délibéré, quelque chose qui donnait l'impression que l'air lui-même consentait au vol plutôt que de le subir. Les écailles du plus grand captèrent la lumière et la renvoyèrent en un éclair d'or fondu qui dura le temps d'un battement de cœur.
+Il y en avait deux. À hauteur du sommet, dans la lumière encore rasante qui les dorait d'un côté et les laissait sombres de l'autre, deux silhouettes en vol — des envergures qui rendaient les aigles absurdes, des corps dont je ne comprenais pas les proportions avant plusieurs secondes, une façon de tenir l'air qui n'était pas le battement d'une aile d'oiseau mais quelque chose de plus lent, de plus délibéré, quelque chose qui donnait l'impression que l'air lui-même consentait au vol plutôt que de le subir. Les écailles du plus grand captèrent la lumière et la renvoyèrent en un éclair d'or fondu qui dura le temps d'un battement de cœur.
 
 Des dragons.
 
@@ -78,7 +78,7 @@ Elle s'appelait Rethyn. Elle était ce que les Drakoriens nomment une Brûlée �
 
 Elle me prépara à manger, et ce repas — dont je noterais les détails non par souci de description mais parce que les détails matériels sont les seules choses vraiment sûres dans une journée dont tout le reste vacille — fut le suivant : de la viande de wyverne, grillée sur un feu qui n'était pas ordinaire. Je le vis à la façon dont les braises brûlaient — d'un orange plus profond que le bois, avec une chaleur qui rayonnait de façon différente, plus concentrée, et qui donnait à la viande une croûte sombre et une fumée d'une odeur particulière, légèrement ambrée, que je n'arrivai pas à comparer à quoi que ce soit que j'avais mangé avant. Des racines grillées dans les cendres de ce même feu. Et le breuvage national — le Souffle d'Aube, que Rethyn versa dans un bol épais en me regardant avec l'expression de quelqu'un qui attend de voir si l'étranger survivra à la première gorgée.
 
-Je bus. La chaleur descendit dans la gorge comme un glissement de terrain — pas désagréable, en réalité, mais impossible à ignorer. Elle s'installa dans l'estomac et irradie vers le torse, et pendant plusieurs secondes je sus avec précision exactement comment le feu se propage dans un matériau organique.
+Je bus. La chaleur descendit dans la gorge comme un glissement de terrain — pas désagréable, en réalité, mais impossible à ignorer. Elle s'installa dans l'estomac et irradia vers le torse, et pendant plusieurs secondes je sus avec précision exactement comment le feu se propage dans un matériau organique.
 
 Rethyn, qui m'observait, eut quelque chose aux lèvres qui pouvait être satisfaction ou moquerie — les deux n'étaient probablement pas séparables.
 
@@ -96,13 +96,13 @@ Rethyn me laissa dormir dans une pièce au fond de la maison, petite et sans fen
 
 Je me réveillai dans l'après-midi avec l'impression, familière depuis les visions d'Ordavan, que quelque chose avait continué à se passer pendant que je dormais — pas un rêve précis, pas des images que je pouvais retenir, mais une sensation résiduelle de chaleur profonde et de pulsation, comme si le sol sous la maison avait battu pendant mon sommeil et que mon corps en gardait la fréquence.
 
-J'écrivis dans le carnet : *Le feu de Drakora n'est pas le même feu qu'Ordavan. Mais la chaleur dans ma poitrine au réveil ressemble à ce que j'ai senti en posant la main sur le sol vitrifié. Est-ce une ressemblance réelle ou l'obsession d'un homme qui cherche des patterns dans des coïncidences ?*
+J'écrivis dans le carnet : *Le feu de Drakora n'est pas le même feu qu'Ordavan. Mais la chaleur dans ma poitrine au réveil ressemble à ce que j'ai senti en posant la main sur le sol vitrifié. Est-ce une ressemblance réelle ou l'obsession d'un homme qui cherche des récurrences dans des coïncidences ?*
 
 Je laissai la question ouverte. Les questions ouvertes sont les seules honnêtes.
 
 ---
 
-Ce fut Rethyn qui me prévint. Le soir du premier jour, quand elle m'apporta à nouveau de quoi manger — les mêmes racines, de la viande différente, moins bonne, et le même breuvage auquel je m'étais légèrement adapté —, elle s'assit en face de moi avec la posture d'une personne qui a quelque chose à dire et qui le dira de façon directe parce que l'indirection lui coûte physiquement.
+Ce fut Rethyn qui me prévint. Le soir du premier jour, quand elle m'apporta à nouveau de quoi manger — les mêmes racines, de la viande différente, moins bonne, et le même breuvage auquel je m'étais légèrement adapté —, elle s'assit en face de moi avec la posture d'une personne qui a quelque chose à dire et qui le dira de façon directe parce que tout détour lui coûte physiquement.
 
 Elle dit : « À Myrthorin, on sait que tu es là. »
 
@@ -172,7 +172,7 @@ La route vers Myrthorin était une montée permanente.
 
 La pierre volcanique noire sous les sabots des montures — ils m'avaient fourni une bête, une jument courte et robuste au tempérament indifférent qui rappelait Pardine par sa façon d'avancer sans opinion particulière sur le trajet — absorbait le son des pas et donnait à la progression une qualité silencieuse que j'aurais trouvée apaisante en d'autres circonstances. Les deux Brûlés ne parlèrent pas pendant les premières heures. Pas d'hostilité dans ce silence — juste l'économie de parole de gens dont l'habitat quotidien est l'altitude et le vent.
 
-Le massif s'appelait Dhorvan. Je l'appris à la mi-journée, quand il me tendit de la viande séchée et du pain de cendre sans explication et que je le remerciai en l'appelant quelque chose, et qu'il corrigea avec l'automatisme de quelqu'un qui a l'habitude de se nommer parce que les gens ne retiennent pas son nom du premier coup. Le plus jeune ne se présenta pas. J'aurais pu lui demander. Je ne le fis pas — à Drakora, le silence avait l'air d'une monnaie d'échange raisonnable.
+Le massif s'appelait Dhorvan. Je l'appris à la mi-journée, quand il me tendit de la viande séchée et du pain de cendre sans explication et que je le remerciai en l'appelant je ne sais quoi, et qu'il corrigea avec l'automatisme de quelqu'un qui a l'habitude de se nommer parce que les gens ne retiennent pas son nom du premier coup. Le plus jeune ne se présenta pas. J'aurais pu lui demander. Je ne le fis pas — à Drakora, le silence avait l'air d'une monnaie d'échange raisonnable.
 
 Je mangeai. La viande séchée avait ce goût fumé particulier que je commençais à associer à la présence du feu draconique — pas de la fumée ordinaire, quelque chose de plus complexe, une fumée qui avait une profondeur en bouche comme si la bête avait été fumée non pas sur quelques heures mais sur des siècles. Ce qui était, dans un sens métaphorique, peut-être vrai : si les braises des dragons circulent à travers les foyers de Drakora depuis des générations, alors la viande fumée ici portait en elle plusieurs générations de souffle.
 
@@ -212,7 +212,7 @@ Le Nid Royal. Et dans le Nid Royal, quelque chose d'or qui se déplaçait.
 
 Je m'arrêtai sur le chemin d'accès et regardai pendant plusieurs secondes. Dhorvan, à côté de moi, ne dit rien. Le jeune Brûlé non plus. Ils avaient l'habitude de cet arrêt — ils l'avaient probablement vu chez tous les étrangers qui arrivaient à Myrthorin pour la première fois.
 
-Voldrax était vieux, je l'apprendrais. La Reine Syraeth était liée à lui depuis quarante ans et il vieillissait avec elle — une usure partagée, une diminution en miroir. Mais depuis le bas du chemin d'accès, à cette distance, dans cette lumière, la silhouette dorée qui se mouvait dans le Nid Royal était encore la chose la plus grande et la plus vivante que j'avais vue dans tous mes trois cent cinquante-cinq jours de voyage. La taille qui empêche la comparaison. La façon de bouger qui redéfinit ce que bouger signifie.
+Veldrax était vieux, je l'apprendrais. La Reine Syraeth était liée à lui depuis quarante ans et il vieillissait avec elle — une usure partagée, une diminution en miroir. Mais depuis le bas du chemin d'accès, à cette distance, dans cette lumière, la silhouette dorée qui se mouvait dans le Nid Royal était encore la chose la plus grande et la plus vivante que j'avais vue dans tous mes trois cent cinquante-cinq jours de voyage. La taille qui empêche la comparaison. La façon de bouger qui redéfinit ce que bouger signifie.
 
 Je pensai à la vitrification d'Ordavan. Je pensai à la chaleur qui monte.
 
@@ -222,7 +222,7 @@ Je ne savais pas encore. Mais j'avais une raison de poser la question ici que je
 
 ---
 
-L'audience avec le représentant du Conseil des Liés — la Reine elle-même était retirée, m'avait-on dit, en raison de l'état de Voldrax — se tint dans une salle à mi-hauteur de la cité, ouverte sur deux côtés, avec le vent qui passait librement et la lumière du soir qui entrait obliquement et faisait des ombres longues sur la pierre noire.
+L'audience avec le représentant du Conseil des Liés — la Reine elle-même était retirée, m'avait-on dit, en raison de l'état de Veldrax — se tint dans une salle à mi-hauteur de la cité, ouverte sur deux côtés, avec le vent qui passait librement et la lumière du soir qui entrait obliquement et faisait des ombres longues sur la pierre noire.
 
 Le représentant était un homme d'une cinquantaine d'années, Lié à un dragon brun que je ne vis pas mais dont je perçus la présence — un son grave, intermittent, qui venait d'un niveau supérieur et qui résonnait dans le sol sous mes pieds avec une régularité qui ressemblait, de façon dérangeante, à la pulsation que j'avais sentie à Ordavan. Je le notai mentalement. J'essayai de ne pas laisser voir que je le notais.
 
@@ -238,7 +238,7 @@ Il écouta sans m'interrompre. À la fin, il dit : « Les Guetteurs de Gryndor o
 
 Je lui demandai si Drakora avait observé des phénomènes similaires.
 
-Il ne répondit pas immédiatement. Il regarda par l'ouverture de la salle vers le Pic de l'Aube, vers le Nid Royal dont la silhouette dorée était encore visible dans la lumière déclinante. Puis il dit, avec une franchise que je n'avais pas anticipée : « Voldrax est agité depuis l'automne. La Reine dit qu'il sent quelque chose dans la montagne. Quelque chose qui l'inquiète. »
+Il ne répondit pas immédiatement. Il regarda par l'ouverture de la salle vers le Pic de l'Aube, vers le Nid Royal dont la silhouette dorée était encore visible dans la lumière déclinante. Puis il dit, avec une franchise que je n'avais pas anticipée : « Veldrax est agité depuis l'automne. La Reine dit qu'il sent quelque chose dans la montagne. Quelque chose qui l'inquiète. »
 
 Il me regarda. « Un vieux dragon qui sent quelque chose dans la montagne et qui le dit à la seule personne à qui il peut le dire — c'est une information, pour nous. Pas une preuve. Une information. »
 
@@ -248,7 +248,7 @@ Il dit : « Pour l'instant, on écoute. Et on évalue qui d'autre l'écoute. »
 
 Dans ce dernier mot, un regard bref, précis, vers moi.
 
-Voilà ce que j'étais, dans cette pièce : une information que Drakora évaluait. Un ex-cartographe fugitif de Gryndor porteur de données que Gryndor avait choisi de taire. Une pièce de quelque chose dont je ne voyais pas encore la totalité du tableau.
+Voilà ce que j'étais, dans cette pièce : une information que Drakora évaluait. Un ex-cartographe fugitif de Gryndor porteur de données que Gryndor avait choisi de taire. Une pièce de quelque chose dont je ne voyais pas encore la totalité.
 
 La question que je ne posai pas à Thareth ce soir-là, la question que je gardai pour le carnet fermé dans ma sacoche : qu'est-ce que mon père avait dit, dans cette même pièce ou une pièce semblable, il y a vingt ans ? Et avait-il dit la vérité complète, ou avait-il aussi, lui, calibré ce qu'il montrait ?
 
@@ -264,7 +264,7 @@ Il s'appelait Foryen. Soixante ans, sec, avec les mains d'un copiste et les yeux
 
 Il me parla de Vey'thar.
 
-Le Dragon Dormant. Celui qui dort dans le canyon de Lunaris depuis des temps immémoriaux — avant les humains, peut-être avant les premiers dragons liés, peut-être depuis une époque dont les archives les plus anciennes du temple ne gardent qu'une trace oblique, une référence dans la marge d'un texte qui traite d'autre chose, une note de bas de page que personne n'avait souligné depuis deux siècles jusqu'à ce que Foryen la retrouve.
+Le Dragon Dormant. Celui qui dort dans le canyon de Lunaris depuis des temps immémoriaux — avant les humains, peut-être avant les premiers dragons liés, peut-être depuis une époque dont les archives les plus anciennes du temple ne gardent qu'une trace oblique, une référence dans la marge d'un texte qui traite d'autre chose, une note de bas de page que personne n'avait soulignée depuis deux siècles jusqu'à ce que Foryen la retrouve.
 
 La note disait — il me la traduisit du vieux drakorien avec la précision d'un homme qui a vérifié sa traduction trois fois avant de la présenter — : *Le Dormant sent ce que les autres ne sentent plus. Sa prison est la profondeur même. Quand la profondeur change, le Dormant s'agite. Quand le Dormant s'agite, il vaut mieux écouter la montagne avant qu'elle parle d'elle-même.*
 

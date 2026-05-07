@@ -10,7 +10,7 @@ needs_review_for: []
 > *« Le feu ne ment pas. Il consume et il révèle. Ce qui reste après lui, c'est la vérité. Ce qui disparaît, c'est ce qui méritait de disparaître. »*
 > — Prêtre de l'Ignis Aeternum, Temple d'Haliandris
 
-**Alkaran — Myrtam, région d'Haliandra puis d'Ardentia — Jours 175 à 188**
+**Onara — Myrtam, région d'Haliandra puis d'Ardentia — Jours 175 à 188**
 
 ---
 
@@ -112,7 +112,7 @@ Ce n'est pas quelque chose que j'avais prévu de voir, ni voulu voir, et je n'ai
 
 Et à Iskara-Ferrath, dans les mines dont les mineurs entendent des sons dans les galeries les plus profondes — des sons que personne n'a pu localiser ni identifier, des sons qui n'existent que dans les sections les plus basses des galeries, là où la roche est la plus ancienne.
 
-Je me tenais maintenant dans la ville qui repose sur un réseau de failles volcaniques actives. Dans la ville dont on me disait que sous la Grande Forge, dans une chambre secrète, une lame parfaite plantait dans quelque chose qui saigne depuis des siècles — une créature ancienne, disait l'histoire rapportée à voix basse, qui respire toujours.
+Je me tenais maintenant dans la ville qui repose sur un réseau de failles volcaniques actives. Dans la ville dont on me disait que sous la Grande Forge, dans une chambre secrète, une lame parfaite plantée dans quelque chose qui saigne depuis des siècles — une créature ancienne, disait l'histoire rapportée à voix basse, qui respire toujours.
 
 Je n'avais pas les autorisations pour descendre. Mais j'avais la vibration dans les semelles de mes bottes, la nuit, quand tout le bruit de surface se taisait et que la Grande Forge ralentissait à son rythme de veille. Et cette vibration-là — lente, profonde, rythmique — ressemblait à ce que j'avais senti à Trinoria dans les profondeurs de la Forêt des Druides, quand le sol lui-même semblait avoir un pouls.
 
@@ -168,7 +168,7 @@ Il s'arrêta.
 
 « Et maintenant ? » demandai-je.
 
-« Depuis quelques années, » dit-il — lentement, avec le ton d'un homme qui choisit chaque mot comme on trempe une lame, avec précision —, « les failles ont une irrégularité. Une micro-irrégularité dans leur pulsation — pas visible à l'œil, mais les vieux forgerons qui tremperont leurs lames depuis trente ans la sentent. La lave descend et monte dans ses conduits selon un rythme qui s'est légèrement décalé. » Il posa sa main sur la grille centrale. « Pas de beaucoup. Comme si ce que les forgerons perçoivent comme la respiration d'Eldoria était subtilement différent. »
+« Depuis quelques années, » dit-il — lentement, avec le ton d'un homme qui choisit chaque mot comme on trempe une lame, avec précision —, « les failles ont une irrégularité. Une micro-irrégularité dans leur pulsation — pas visible à l'œil, mais les vieux forgerons qui trempent leurs lames depuis trente ans la sentent. La lave descend et monte dans ses conduits selon un rythme qui s'est légèrement décalé. » Il posa sa main sur la grille centrale. « Pas de beaucoup. Comme si ce que les forgerons perçoivent comme la respiration d'Eldoria était subtilement différent. »
 
 Je n'aurais pas su quoi faire avec cette information si je n'en avais pas eu d'autres. Avec ce que je savais du Fragment Zéro pulsant à Altram, avec ce que j'avais entendu des mines d'Iskara-Ferrath, avec la vibration de Trinoria — avec tout ça dans la mémoire, cette phrase d'Oryn s'emboîta avec une netteté qui me donna un moment de vertige.
 
@@ -204,7 +204,7 @@ Je posai la question. Oryn réfléchit longtemps avant de répondre. Ferrath int
 
 La nuit avant mon départ d'Ardentris, je dormis mal.
 
-L'air était lourd, le foulard de soie autour du visage, Pardine dans l'écurie de l'auberge qui soufflait les vapeurs sulfureuses d'une façon qui me prouvait qu'il dormait aussi mal que moi. Le sol vibrait de son rythme de fond, légèrement décalé — maintenant que j'avais une conscience de ce décalage, que le prêtre me l'avait nommé, je ne pouvais plus ne pas l'entendre. Pas beaucoup. Comme quelqu'un qui boite à peine, et à qui on n'aurait rien remarqué si on n'avait pas su regarder le bon pied.
+L'air était lourd, le foulard de soie autour du visage, Pardine dans l'écurie de l'auberge qui soufflait les vapeurs sulfureuses d'une façon qui me prouvait qu'il dormait aussi mal que moi. Le sol vibrait de son rythme de fond, légèrement décalé — maintenant que j'avais une conscience de ce décalage, que le prêtre me l'avait nommé, je ne pouvais plus ne pas l'entendre. Pas beaucoup. Comme quelqu'un qui boite à peine, et chez qui on n'aurait rien remarqué si on n'avait pas su regarder le bon pied.
 
 Je rouvris mon journal et repassai en ordre ce que je savais.
 

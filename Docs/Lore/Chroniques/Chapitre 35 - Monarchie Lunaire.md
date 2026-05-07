@@ -22,11 +22,11 @@ Je n'avais plus de catégories de ce type depuis longtemps.
 
 Lunasar occupe le coin nord-ouest du continent de Nysaria, séparé de l'île elle-même par un bras de mer qui porte un nom que les navigateurs ont du mal à prononcer dans sa version originale. J'y arrivai depuis la côte, deux semaines après avoir quitté Nysaria, après un transit par Nectoria où je ne m'arrêtai que le temps de changer de navire. Mon corps portait encore le décalage temporel de l'île — cette façon qu'avait Nysaria de dissoudre les frontières entre veille et sommeil, qui persistait pendant les jours suivant le départ comme une image rémanente après avoir regardé une lumière trop vive.
 
-L'amulette de pierre noire était à mon cou. Elle avait cessé de pulser pendant la traversée vers Nectoria — ou plutôt sa pulsation s'était faite plus discrète, moins perceptible, comme un son qui s'éloigne et ne disparaît pas mais cesse d'être au premier plan. Je la gardai. Je la garderai jusqu'à ce que je comprenne ce qu'elle signifie de la tenir.
+L'amulette de pierre noire était à mon cou. Elle avait cessé de pulser pendant la traversée vers Nectoria — ou plutôt sa pulsation s'était faite plus discrète, moins perceptible, comme un son qui s'éloigne et ne disparaît pas mais cesse d'être au premier plan. Je la gardai. Je la garderai jusqu'à ce que je comprenne ce que cela signifie, de la porter.
 
 ---
 
-La capitale de Lunasar — si le terme *capitale* peut s'appliquer à une ville dont la centralité est modulée selon les mois — s'appelle Lunaris. Elle est construite autour d'un amphithéâtre ouvert dont la voûte est le ciel lui-même, avec des gradins de pierre blanche qui descendent vers une scène centrale où les délibérations politiques ont lieu selon un protocole que j'eusse mis des semaines à comprendre entièrement si je n'avais pas eu un guide.
+La capitale de Lunasar — si le terme *capitale* peut s'appliquer à une ville dont la centralité est modulée selon les mois — s'appelle Lunaris. Elle est construite autour d'un amphithéâtre ouvert dont la voûte est le ciel lui-même, avec des gradins de pierre blanche qui descendent vers une scène centrale où les délibérations politiques ont lieu selon un protocole que j'aurais mis des semaines à comprendre entièrement si je n'avais pas eu un guide.
 
 Le guide me fut assigné à mon arrivée au port — une femme d'une trentaine d'années prénommée Sera, dont la fonction officielle était traductrice mais dont la compétence réelle était plus difficile à caractériser. Elle interprétait. Non pas les langues — son galenorien était excellent —, mais les situations. Elle lisait ce qui se passait dans les espaces entre les choses dites et le disait en termes que quelqu'un d'extérieur pouvait comprendre.
 
@@ -42,13 +42,13 @@ Ce n'était pas de la rigidité — c'était de la discipline dans l'anticipatio
 
 Le repas du deuxième soir eut lieu chez un notable de Lunaris dont la maison donnait sur l'amphithéâtre.
 
-On m'avait invité — Sera avait communiqué mon arrivée avec la rapidité que les petites communautés ont pour l'information et un voyageur qui arrive depuis Nysaria, même sans annoncer clairement la destination, est une information d'un type particulier. La maison était blanche à l'extérieur et d'une chaleur inattendue à l'intérieur : des tapis d'une laine dense couleur terre, des lumières de résine qui brûlaient dans des coupes basses sans projeter d'ombre dure, une odeur de lavande marine et de bois de pin brûlé qui persistait dans tous les angles de la pièce.
+On m'avait invité — Sera avait communiqué mon arrivée avec la rapidité que les petites communautés ont pour l'information, et un voyageur arrivé depuis Nysaria, même sans annoncer clairement sa destination, est une information d'un type particulier. La maison était blanche à l'extérieur et d'une chaleur inattendue à l'intérieur : des tapis d'une laine dense couleur terre, des lumières de résine qui brûlaient dans des coupes basses sans projeter d'ombre dure, une odeur de lavande marine et de bois de pin brûlé qui persistait dans tous les angles de la pièce.
 
 Nous étions cinq à table — le notable et son épouse, Sera, moi, et un vieillard que le notable appela simplement *le Maître* sans autre préambule, comme si un préambule était superflu.
 
 Je remarquai le vieillard avant qu'on me le présente — c'est-à-dire que je remarquai son regard avant toute chose, parce que son regard avait la qualité des gens qui ont regardé beaucoup de choses depuis longtemps et qui ont décidé de regarder ce qui est devant eux avec la même attention qu'ils ont mise sur tout le reste. Il me regarda de la façon dont le vieil Ancien de Warenthor m'avait regardé — en évaluant le poids, non pas le poids physique mais quelque chose d'autre, quelque chose que je n'aurais pas su nommer avant ce voyage et que je ne nommais toujours pas clairement mais que je reconnaissais à présent.
 
-On servit une soupe de poisson aux herbes locales — des herbes dont Sera me donna les noms en lunari et que je notai phonétiquement sans être certain de la retranscription. Du pain plat cuit à la pierre. Des fruits secs confits dans une liqueur de miel qui avait la douceur des choses fermentées longtemps. Le notable parla de politique, de la lune prochaine, d'une décision en cours concernant les droits de pêche dans les eaux du bras nord. Son épouse écoutait avec l'attention de quelqu'un qui a déjà formé son opinion mais qui sait que le moment de l'exprimer n'est pas encore venu — la pleine lune dans huit jours, me calculs-je.
+On servit une soupe de poisson aux herbes locales — des herbes dont Sera me donna les noms en lunari et que je notai phonétiquement sans être certain de la retranscription. Du pain plat cuit à la pierre. Des fruits secs confits dans une liqueur de miel qui avait la douceur des choses fermentées longtemps. Le notable parla de politique, de la lune prochaine, d'une décision en cours concernant les droits de pêche dans les eaux du bras nord. Son épouse écoutait avec l'attention de quelqu'un qui a déjà formé son opinion mais qui sait que le moment de l'exprimer n'est pas encore venu — la pleine lune dans huit jours, calculai-je.
 
 Le vieillard ne parla pas pendant le repas.
 
@@ -70,7 +70,7 @@ Il s'appelait Solvanes. Il avait, selon Sera qui me le dit plus tard, nonante-de
 
 Il me parla d'Aldric.
 
-Mon père. Aldric Valthen. Ce nom dans la bouche d'un vieillard de Lunasar, prononcé avec le naturel de quelqu'un qui l'a utilisé avant, plusieurs fois, le reconnu assez pour ne pas avoir à le situer — ce nom là, dans cette bouche, dans cette salle blanche aux lumières basses, me prit quelque part dans la poitrine avec une précision que je n'avais pas prévue.
+Mon père. Aldric Valthen. Ce nom dans la bouche d'un vieillard de Lunasar, prononcé avec le naturel de quelqu'un qui l'a utilisé avant, plusieurs fois, qui le reconnaissait assez pour ne pas avoir à le situer — ce nom-là, dans cette bouche, dans cette salle blanche aux lumières basses, me prit quelque part dans la poitrine avec une précision que je n'avais pas prévue.
 
 Solvanes dit que mon père était venu à Lunasar. Il ne précisa pas l'année avec exactitude — il précisa la phase lunaire, ce qui dans son système était plus précis mais dans le mien ne me donnait pas de date. Il dit qu'Aldric était arrivé depuis le sud, depuis la direction de Nysaria, et qu'il portait quelque chose qui avait attiré l'attention des Veilleurs de lune — les observateurs que Lunasar postait sur les routes pour surveiller les arrivants pendant la période de pleine lune.
 
@@ -86,7 +86,7 @@ Il dit : « Que vous suivez la même route. »
 
 Je demandai si cela était une coïncidence.
 
-Il me regarda avec l'expression d'un homme à qui on vient de dire que le soleil pourrait peut-être se lever à l'est. Pas moqueur — patient. Le patient des gens qui ont vu trop de choses pour être surpris par l'incompréhension des autres, mais qui savent que l'incompréhension est une étape et non un état final.
+Il me regarda avec l'expression d'un homme à qui on vient de dire que le soleil pourrait peut-être se lever à l'est. Pas moqueur — patient. La patience des gens qui ont vu trop de choses pour être surpris par l'incompréhension des autres, mais qui savent que l'incompréhension est une étape et non un état final.
 
 ---
 
@@ -154,7 +154,7 @@ Il dit que personne n'était venu pendant trente ans. Puis il me tendit un roule
 
 Je le tins dans mes mains sans l'ouvrir immédiatement.
 
-Trente ans. Mon père était mort quand j'avais dix-sept ans. Il était venu ici — combien d'années avant sa mort ? Quand avait-il fait ce voyage ? Pourquoi ne m'en avait-il jamais parlé ? L'homme aux mains larges et aux explications courtes, le forgeron d'Evertia qui avait fabriqué les crochets de ma première table à dessin — cet homme avait traversé la mer, atteint Nysaria, porté une amulette de pierre noire, et laissé une carte dans une cité gouvernée par la lune pour un successeur qu'il savait viendrait mais qu'il ne nommait pas.
+Trente ans. Mon père avait disparu quand j'avais dix-sept ans. Il était venu ici — combien d'années avant sa disparition ? Quand avait-il fait ce voyage ? Pourquoi ne m'en avait-il jamais parlé ? L'homme aux mains larges et aux explications courtes, le berger de Valthorn qui avait fabriqué les crochets de ma première table à dessin — cet homme avait traversé la mer, atteint Nysaria, porté une amulette de pierre noire, et laissé une carte dans une cité gouvernée par la lune pour un successeur dont il savait qu'il viendrait, mais qu'il ne nommait pas.
 
 Il ne m'avait pas nommé. Il avait dit : *quelqu'un avec la même amulette*.
 
@@ -182,11 +182,11 @@ Je m'assis au bord du quai pendant un long moment.
 
 La mer de Lunasar était bleue d'un bleu net et froid, sans les ambiguïtés de la mer de Nysaria ou les lumières incorrectes de la mer de Vytharia. Une mer ordinaire, fonctionnelle, traversée par des navires de pêche avec leur bruit ordinaire de bois et de cordage. Solvanes était reparti sans attendre ma réaction — avec la délicatesse des très vieux, qui savent que les révélations importantes ont besoin de temps vide autour d'elles.
 
-Mon père était allé à Nysaria. Il avait vu le passage — depuis l'extérieur, depuis les arbres. Il était revenu. Il avait laissé une carte. Il était rentré à Evertia. Il avait fabriqué les crochets de ma table à dessin. Il m'avait appris, indirectement, à regarder le monde comme quelque chose qui peut être compris si on le regarde assez longtemps avec assez de soin.
+Mon père, selon ce que Solvanes me disait, était allé à Nysaria. Il avait vu le passage — depuis l'extérieur, depuis les arbres. Il était revenu. Il avait laissé une carte. Il était rentré chez lui. Il avait fabriqué les crochets de ma table à dessin. Il m'avait appris, indirectement, à regarder le monde comme quelque chose qui peut être compris si on le regarde assez longtemps avec assez de soin.
 
-Il était mort d'une pneumonie d'hiver.
+Selon la lecture lunarienne, il serait mort d'une pneumonie d'hiver. Selon ce que ma propre mémoire d'enfance gardait, il avait disparu un matin dans les pâturages de Valthorn et personne n'avait retrouvé son corps. Les deux récits, posés l'un à côté de l'autre, ne s'accordaient pas — et je ne savais pas, ce soir-là, lequel des deux je portais à tort.
 
-Il y avait là quelque chose que je ne savais pas comment tenir — un sentiment qui n'était pas tout à fait de la tristesse et pas tout à fait de la colère mais quelque chose entre les deux, quelque chose qui ressemblait au vertige qu'on éprouve quand on réalise que ce qu'on cherchait depuis longtemps était plus proche qu'on ne le croyait et que la distance n'était pas géographique.
+Il y avait là quelque chose que je ne savais pas comment tenir — un sentiment qui n'était pas tout à fait de la tristesse et pas tout à fait de la colère mais quelque chose entre les deux, quelque chose qui ressemblait au vertige qu'on éprouve quand on s'aperçoit que ce qu'on cherchait depuis longtemps était plus proche qu'on ne le croyait et que la distance n'était pas géographique.
 
 Il avait tracé le début de la carte. Il me laissait le finir — ou il me laissait, comme lui, choisir où m'arrêter. La carte ne disait pas, et n'avait peut-être jamais voulu dire, laquelle des deux choses elle était.
 

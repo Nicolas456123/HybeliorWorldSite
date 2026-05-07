@@ -34,9 +34,9 @@ Thalmaris est une monarchie qui s'est donné les manières d'une académie, ou u
 
 Ce n'est pas que Thalmaris n'a pas d'armée. Elle en a une. Mais le budget de l'armée est inférieur à celui de l'Académie du Cantus.
 
-Je compris cela dès la première heure dans les rues de la capitale — une ville de quatre-vingts mille âmes qui avait une architecture étrange, les bâtiments administratifs et les bâtiments culturels entremêlés sans hiérarchie visible, les théâtres en pierre aussi impostants que les palais. Et les musiciens partout — pas dans le sens des bateleurs des marchés d'autres villes, mais dans celui des praticiens qui font leur travail dans les espaces publics comme les artisans travaillent dans leurs ateliers, visibles, sérieux, occupés.
+Je compris cela dès la première heure dans les rues de la capitale — une ville de quatre-vingts mille âmes qui avait une architecture étrange, les bâtiments administratifs et les bâtiments culturels entremêlés sans hiérarchie visible, les théâtres en pierre aussi imposants que les palais. Et les musiciens partout — pas dans le sens des bateleurs des marchés d'autres villes, mais dans celui des praticiens qui font leur travail dans les espaces publics comme les artisans travaillent dans leurs ateliers, visibles, sérieux, occupés.
 
-J'avais obtenu, par la recommandation d'un marchand de Valmora qui avait des relations dans les deux nations, une audience avec la Maîtresse des Archives Musicales de l'Académie. Son nom était Orvenne — une femme de quarante ans à la voix particulièrement grave pour une femme de sa stature physique, ce qui dans le contexte de Thalmaris était moins une caractéristique qu'une qualification professionnelle. Elle me reçut dans une salle aux murs couverts de partitions enluminées encadrées — des compositions anciennes, je les reconnus à la densité de leur notation.
+J'avais obtenu, par la recommandation d'un marchand de Valmora qui avait des relations dans les deux nations, une audience avec la Maîtresse des Archives Musicales de l'Académie. Son nom était Orvenne — une femme de quarante ans à la voix particulièrement grave pour sa stature, ce qui dans le contexte de Thalmaris était moins une caractéristique qu'une qualification professionnelle. Elle me reçut dans une salle aux murs couverts de partitions enluminées encadrées — des compositions anciennes, je les reconnus à la densité de leur notation.
 
 Elle me demanda pourquoi un cartographe s'intéressait au Cantus Mundi.
 
@@ -72,7 +72,7 @@ Le second fil, qui surgit ensuite, était plus concret et plus troublant : les C
 
 Le lendemain matin, je demandai à voir Sylvara.
 
-Ce n'était pas dans mon plan initial. Sylvara — l'Arbre-Mère du Pacte — est un lieu que les Thalmariens protègent avec la même combinaison de ferveur et de discrétion pratique que les Evertiens protègent leur forêt intérieure. Il n'est pas interdit aux étrangers, mais on ne s'y rend pas sans invitation, et l'invitation se mérite par une forme de sérieux que les curiosités touristiques ne méritent pas.
+Ce n'était pas dans mon plan initial. Sylvara — l'Arbre-Mère du Pacte — est un lieu que les Thalmariens protègent avec la même combinaison de ferveur et de discrétion pratique que les Evertiens protègent leur forêt intérieure. Il n'est pas interdit aux étrangers, mais on ne s'y rend pas sans invitation, et l'invitation se mérite par une forme de sérieux que les curiosités de passage ne méritent pas.
 
 Voix-de-Pierre m'accompagna. Je ne sus pas pourquoi il fit ce choix et je ne posai pas la question — j'avais appris à Evertia et à Thalenvir que les druides et les Canteurs ont des raisons d'agir qui ne sont pas toujours accessibles à la question directe et qui se révèlent plus clairement dans l'observation de ce qui se passe ensuite.
 
@@ -118,7 +118,7 @@ Je lui demandai pourquoi me dire cela.
 
 Il dit : *Parce que vous êtes étranger. Aux gens d'ici, on a déjà dit. Les gens d'ici trouvent que la sève est sacrée et que ce qui touche au sacré ne se compte pas. Aux étrangers qui notent, on a moins dit.*
 
-Il y avait une part de calcul dans la phrase et il ne s'en cachait pas. Je le notai. Je lui demandai depuis combien de temps la sève avait l'amer-là.
+Il y avait une part de calcul dans la phrase et il ne s'en cachait pas. Je le notai. Je lui demandai depuis combien de temps la sève avait cet amer.
 
 Il dit : *Un an. Plus. Ça change le rendement — on tire plus mais ça donne moins de propriétés. La guilde a baissé le prix qu'elle nous achète au baril, parce que les guérisseurs payent moins cher pour de l'amer. Mais ils nous demandent toujours autant de barils. Donc on saigne plus d'arbres. Le Maître Voix dit que l'arbre change.* Il haussa l'épaule. *L'arbre change peut-être. Nous, on saigne plus.*
 
@@ -130,7 +130,7 @@ Je lui dis que oui. Je ne lui demandai pas s'il croyait à ce que disait Voix-de
 
 Je ne suis pas druide. Je n'ai pas de pratique du Cantus. Je n'avais aucune raison théorique de percevoir quoi que ce soit que le contact ordinaire d'une main sur de l'écorce ne transmettrait pas. C'est ce que je me dis en posant la main — une précaution mentale, une façon de rester cartographe.
 
-Puis je fermai les yeux, parce que c'est ce que font les druides et les Canteurs et peut-être parce que la lumière filtrée de la forêt était plus confortable fermée qu'ouverte.
+Puis je fermai les yeux, parce que c'est ce que font les druides et les Canteurs et peut-être parce que la lumière filtrée de la forêt se laissait mieux porter les yeux clos.
 
 La vibration était là.
 
@@ -220,9 +220,7 @@ Ce qui me manquait : le passé. Ce qui avait eu lieu avant. Si Vael'Ur se révei
 
 L'Aînée m'avait envoyé à Ulinor avec une piste possible. Les archives de pierre des Anciens, selon ce que les Ulinoriens en disaient. Une mémoire gravée dans la roche, qui ne se taisait pas — c'était au moins ce qu'on me promettait à l'arrivée.
 
-Je regardai la mer. Quelque part sous cette eau grise et douce, des profondeurs que personne ne cartographiait. Des courants qui hésitaient depuis l'automne. Des créatures de l'abîsse qui remontaient vers la surface.
-
-La surface n'est jamais que la surface de quelque chose d'autre.
+Je regardai la mer. Quelque part sous cette eau grise et douce, des profondeurs que personne ne cartographiait. Des courants qui hésitaient depuis l'automne. Des créatures de l'abysse qui remontaient vers la surface.
 
 Je refermai mon cahier et regardai l'horizon jusqu'à ce qu'Ulinor apparaisse.
 

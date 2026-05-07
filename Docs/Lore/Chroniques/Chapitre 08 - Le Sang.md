@@ -22,7 +22,7 @@ J'avais passé la nuit au bord de la route dans mon sac de couchage, sous un cie
 
 La frontière entre Trinoria et Valoria n'est pas marquée sur mes trois cartes discordantes avec la même ligne. Sur la première, elle suit une rivière. Sur la deuxième, une ligne de crêtes. Sur la troisième — produite, je le soupçonne, par quelqu'un qui n'y avait jamais mis les pieds —, elle suit une ligne droite qui ne correspond à rien de physique. En réalité, la frontière suit les arbres : jusqu'ici, chênes et hêtres millénaires. Au-delà, brusquement, les arbres se raréfient, les rochers affleurent, l'herbe devient dure et jaune, et l'horizon s'élargit d'un coup comme si la forêt avait rendu la terre à elle-même.
 
-C'est beau, d'une façon qui n'a rien à voir avec la beauté de Trinoria. Là-bas, la beauté était verticale et secrète, pliée dans les profondeurs du vert. Ici, elle est horizontale et franche — des lieues de lande et de roc sous un ciel d'une clarté sèche, et au fond, les premières murailles de la ville d'Astraneth qui se découpaient contre la lumière du matin comme une argumen tation en pierre.
+C'est beau, d'une façon qui n'a rien à voir avec la beauté de Trinoria. Là-bas, la beauté était verticale et secrète, pliée dans les profondeurs du vert. Ici, elle est horizontale et franche — des lieues de lande et de roc sous un ciel d'une clarté sèche, et au fond, les premières murailles de la ville d'Astraneth qui se découpaient contre la lumière du matin comme une argumentation en pierre.
 
 ---
 
@@ -70,9 +70,9 @@ Je suis allé à Valtheria.
 
 Non pas par bravoure — que personne ne s'y trompe. Par calcul. Un cartographe qui se cache dans un pays méfiant envers les cartographes sera retrouvé. Un cartographe qui se présente ouvertement avec ses outils et sa raison d'être est simplement un problème que personne ne sait encore comment classer. Je préférais être un problème ouvert.
 
-La route vers Valtheria longe des crêtes rocailleuses d'où l'on voit, dans les vallées, les forteresses des clans — des bâtisses de pierre massive, carrées, sans ornement, dont la seule décoration sont les crânes d'animaux et parfois d'autres choses, accrochés aux linteaux et aux poteaux d'entrée. L'architecture valoriane est une déclaration de principe : nous construisons pour la guerre et pour l'éternité, et si vous voyez nos maisons, sachez que nous serions les mêmes si les murs s'effondrait.
+La route vers Valtheria longe des crêtes rocailleuses d'où l'on voit, dans les vallées, les forteresses des clans — des bâtisses de pierre massive, carrées, sans ornement, dont la seule décoration sont les crânes d'animaux et parfois d'autres choses, accrochés aux linteaux et aux poteaux d'entrée. L'architecture valoriane est une déclaration de principe : nous construisons pour la guerre et pour l'éternité, et si vous voyez nos maisons, sachez que nous serions les mêmes si les murs s'effondraient.
 
-J'ai aimé cette honnêteté, d'une façon strange. Il n'y a rien à deviner dans une forteresse valoriane. Elle dit exactement ce qu'elle est.
+J'ai aimé cette honnêteté, d'une façon étrange. Il n'y a rien à deviner dans une forteresse valoriane. Elle dit exactement ce qu'elle est.
 
 ---
 
@@ -118,13 +118,13 @@ Elle a répondu — avec ce qui ressemblait à de l'humour, chez une Valoriane :
 
 Je suis sorti — en trois jours — avec une carte que je considère comme l'un de mes meilleurs travaux, et qui n'aurait pu être produite qu'ici, dans ces conditions, avec cette pression.
 
-Les trois jours de terrain dans la région disputée furent physiquement épuisants et intellectuellement intenses. J'avais un escorte — Drev lui-même, que Lysa avait visiblement chargé de me surveiller et qui s'acquitta de cette tâche avec une conscience scrupuleuse. Il ne parlait pas beaucoup, ce qui m'arrangeait. Il portait mes matériaux quand le terrain était difficile, ce que je n'avais pas demandé et qui me toucha plus que je ne l'aurais prédit.
+Les trois jours de terrain dans la région disputée furent physiquement épuisants et intellectuellement intenses. J'avais une escorte — Drev lui-même, que Lysa avait visiblement chargé de me surveiller et qui s'acquitta de cette tâche avec une conscience scrupuleuse. Il ne parlait pas beaucoup, ce qui m'arrangeait. Il portait mes matériaux quand le terrain était difficile, ce que je n'avais pas demandé et qui me toucha plus que je ne l'aurais prédit.
 
 Il est difficile de mépriser quelqu'un qui porte vos affaires dans une montée de roche.
 
 J'ai fait mes relevés : courbes de niveau, cours d'eau, positions des bornes ancestrales dont les familles des deux villages se disputaient l'emplacement exact, végétation, chemins. J'ai travaillé vite et avec toute la précision que trois jours de terrain permettent — pas parfait, mais honnête. Une carte honnête vaut mieux qu'une carte parfaite qui ne peut pas être produite.
 
-Le soir du deuxième jour, campés sur une crête depuis laquelle on voyait les deux villages — leurs lumières minuscules dans la vallée obscure, aussi frêles que des bougies dans le vent —, Drev m'a demandé comment je savais que ma carte était juste.
+Le soir du deuxième jour, campés sur une crête depuis laquelle on voyait les deux villages — leurs lumières minuscules dans la vallée obscure, à peine plus grosses qu'un grain d'orge —, Drev m'a demandé comment je savais que ma carte était juste.
 
 J'ai réfléchi à la façon d'expliquer la triangulation à quelqu'un qui n'a probablement jamais ouvert un livre de géométrie, et j'ai décidé de commencer par les étoiles. J'avais mon octant, j'ai montré comment il permettait de mesurer la hauteur d'une étoile au-dessus de l'horizon, comment cette mesure donnait une position sur la surface de la terre, comment trois positions donnaient un triangle dans lequel n'importe quel point pouvait être localisé.
 
@@ -164,7 +164,7 @@ Horvath a dit : « Ici, tu sais à quoi croire. »
 
 Il a tapé la table du poing — pas avec violence, juste pour indiquer la solidité. « La pierre. Ce qui est gravé. Ce qui a été dit devant témoins. Le reste est du vent. »
 
-Je n'ai pas répondu sur le fond. J'ai bu ma bière et j'ai réfléchi à ce que c'était que de vivre dans un monde où la vérité est ce qui peut être gravé dans la roche, pas ce qui peut être effacé et réécrit selon les intérêts du plus puissant. À Kharazir, on m'avait effacé. Les pierres de Valoria ne m'auraient pas laissé effacer aussi facilement.
+Je n'ai pas répondu sur le fond. J'ai bu ma bière et j'ai réfléchi à ce que c'était que de vivre dans un monde où la vérité est ce qui peut être gravé dans la roche, pas ce qui peut être effacé et réécrit selon les intérêts du plus puissant. À Kharazir, on m'avait effacé. Sous la Lex Petra, on ne m'aurait pas effacé aussi facilement.
 
 Il y a quelque chose d'enviable là-dedans. Même si la rudesse du reste donne de quoi discuter.
 
@@ -174,7 +174,7 @@ J'ai voulu, en sortant de la salle de Forgal, mettre des mots précis sur ma hâ
 
 Drev est venu me trouver le lendemain matin avant que je commence à préparer mes affaires.
 
-Il avait quelque chose dans les mains — une pièce de métal, un disque aplati de la taille d'une pièce de monnaie mais plus épais, portant sur une face le symbole du clan Teldar, gravé à même l'acier avec cette précision que les forgerons de Selvorn mettent dans leur travail. Au dos, une ligne en valoiren que je ne lus pas tout de suite.
+Il avait quelque chose dans les mains — une pièce de métal, un disque aplati de la taille d'une pièce de monnaie mais plus épais, portant sur une face le symbole du clan Teldar, gravé à même l'acier avec cette précision que les forgerons de Selvorn mettent dans leur travail. Au dos, une ligne en valorien que je ne lus pas tout de suite.
 
 Il me l'a tendue sans discours. Je l'ai prise.
 
@@ -192,6 +192,10 @@ J'ai retourné la pièce et lu l'inscription au dos. J'ai demandé la traduction
 
 Je ne suis pas certain de mériter ce jugement. Mais j'en suis fier d'une façon que je n'avais pas attendue.
 
+Lysa m'a remis, en plus du disque, une lettre cachetée. Une feuille pliée trois fois, sans cérémonie. Elle m'a dit que je traverserais Alkaran selon mes propres routes mais que je passerais probablement par Trelios, et qu'à Trelios il y avait un maître-artisan nommé Corven Asheld auprès duquel le clan Teldar avait une dette ancienne — une dette d'acier et de mots, dont elle ne précisa rien d'autre. La lettre lui était adressée. Elle m'a dit de la remettre si l'occasion se présentait, et de la garder si elle ne se présentait pas — la dette du clan Teldar n'avait pas d'horloge.
+
+J'ai glissé la lettre dans la sacoche intérieure, à côté du disque. Je n'avais pas demandé. Le clan Teldar n'expliquait pas tout ce qu'il donnait.
+
 ---
 
 Je quitte Galenor demain.
@@ -202,7 +206,7 @@ Je compte : Kharazir, Lumasar, Ventera, Seraphia, Solena, Tyndara, et maintenant
 
 Ce soir, j'essaie de faire le bilan de l'Acte I, comme j'appelle cette première partie du voyage dans mon journal — le temps avant de traverser le Grand Détroit vers Alkaran.
 
-Ce que j'ai appris : que chaque pays est un argument sur ce que la vie devrait être. Kharazir argüait que la vie est administration et pluralisme. Lumasar qu'elle est connaissance et méthode. Ventera qu'elle est mouvement et liberté. Seraphia qu'elle est beauté et sacré, mais d'une beauté qui exclut ceux qui n'y participent pas. Solena qu'elle est mer et départ. Tyndara qu'elle est or et corruption. Et Galenor — Trinoria et Valoria — m'a dit deux choses contradictoires en même temps : que la vie est une forêt pleine d'esprits conscients, et que la vie est une loi gravée dans la roche.
+Ce que j'ai appris : que chaque pays est un argument sur ce que la vie devrait être. Kharazir arguait que la vie est administration et pluralisme. Lumasar qu'elle est connaissance et méthode. Ventera qu'elle est mouvement et liberté. Seraphia qu'elle est beauté et sacré, mais d'une beauté qui exclut ceux qui n'y participent pas. Solena qu'elle est mer et départ. Tyndara qu'elle est or et corruption. Et Galenor — Trinoria et Valoria — m'a dit deux choses contradictoires en même temps : que la vie est une forêt pleine d'esprits conscients, et que la vie est une loi gravée dans la roche.
 
 Je n'arrive pas à décider laquelle des deux versions je préfère. Ce qui m'intéresse, c'est que je continue à poser la question.
 
@@ -214,7 +218,7 @@ C'est déjà quelque chose. Pour un cartographe, c'est même beaucoup.
 
 Le port de Velros est à deux jours au sud de Valtheria. J'y embarquerai pour Alkaran — selon les marins qui connaissent ces routes, neuf jours de mer si les vents sont favorables, quinze s'ils ne le sont pas. Je n'ai jamais aimé la mer. Mais j'ai traversé Solena et j'ai appris que la mer et moi avons un accord minimal : elle me porte quand j'en ai besoin, et je ne lui demande pas plus que ça.
 
-Pardine déteste les bateaux. Nous nous dispunerons de ça à Velros.
+Pardine déteste les bateaux. Nous nous arrangerons de ça à Velros.
 
 Dans ma poche gauche : la pierre de Keth, le signe du frêne, qui représente un esprit qui m'a remarqué dans une forêt que je ne reverrai probablement jamais. Dans ma poche droite : le disque d'acier du clan Teldar, l'inscription *Utile à la pierre*, le jugement d'un peuple qui évalue les gens selon ce qu'ils produisent de durable. Mon compas à la ceinture, mes cartes dans les sacoches, mon carnet à l'encre dans la main.
 
@@ -227,7 +231,7 @@ C'est bien. La meilleure carte est celle d'un pays qu'on n'a pas encore dessiné
 *Note cartographique, jour 110 — Valtheria, région de Teldar, Valoria :*
 *J'ai remis à Lysa une copie de mes relevés de la région disputée, accompagnée d'une note méthodologique expliquant comment les bornes ancestrales peuvent être triangulées à partir de trois points fixes. Elle l'a lue. Elle m'a dit que c'était « utilisable ». Venant d'une Ancienne du clan Teldar, je considère que c'est l'équivalent d'un éloge.*
 
-*Mes relevés de Valoria, région de Teldar et d'Ethrion, sont les plus précis que j'aie produits depuis le début du voyage. Cela tient en partie à la qualité du terrain — rocheux, lisible, sans l'ambiguïté de la forêt trinorien — et en partie à la pression des trois jours de Jugement. On travaille bien sous la pression, à condition que la pression soit juste.*
+*Mes relevés de Valoria, région de Teldar et d'Ethrion, sont les plus précis que j'aie produits depuis le début du voyage. Cela tient en partie à la qualité du terrain — rocheux, lisible, sans l'ambiguïté de la forêt trinorienne — et en partie à la pression des trois jours de Jugement. On travaille bien sous la pression, à condition que la pression soit juste.*
 
 *J'ai finalement accordé à la Lex Petra, cette loi gravée dans la roche, quelque chose qui n'est pas de la sympathie mais du respect fonctionnel : un système où ce qui est dit et prouvé ne peut plus être retiré est un système dans lequel les cartes ne peuvent pas être falsifiées après coup. À Kharazir, on a effacé ma cartographie de certaines régions parce qu'elle dérangeait les intérêts d'une administration. À Valtheria, sous la Lex Petra, personne n'aurait eu le droit d'effacer ce qui avait été gravé devant témoins.*
 

@@ -21,7 +21,7 @@ On les voit depuis trois jours de route, permanentes sur l'horizon, immuables, e
 
 J'avais quitté Roseltar vingt-trois jours plus tôt. Vingt-trois jours par les routes intérieures d'Alkaran — des routes qui ne ressemblent pas aux routes de Galenor, pas aux chemins de sable de Ventera ni aux pavés soignés de Lumasar ni même aux voies militaires de Valoria. Les routes d'Alkaran sont des routes de métal et de pierre, larges, basses sur le terrain, avec des bornes de fer tous les deux kilomètres environ qui portent gravés le nom du village le plus proche et la distance en heures de marche. Utiles. Laconiques. Sans aucune prétention à autre chose que l'utilité — ce qui, en cartographie, est la plus haute qualité possible.
 
-Pardine allait bien. Elle avait retrouvé l'appétit depuis la traversée maritime et s'était adaptée au sol d'Alkaran avec une philosophie que j'enviais : chaque sol est du sol, il suffit de le fouler. Elle avait mangé l'herbe rase des plateaux de Torian sans se plaindre et regardé les montagnes grossir sur l'horizon avec la même indifférence qu'elle regardait tout le reste. Je ne sais pas si j'aime véritablement Pardine, mais je suis certain que je lui dois une forme de reconnaissance que je ne saurais pas formuler.
+Pardine allait bien. Elle avait retrouvé l'appétit depuis la traversée maritime et s'était adaptée au sol d'Alkaran avec une philosophie que j'enviais : chaque sol est du sol, il suffit de le fouler. Elle avait mangé l'herbe rase des plateaux de Torian sans se plaindre. Elle regardait les montagnes grossir sur l'horizon avec la même indifférence qu'elle regardait tout le reste. Je ne sais pas si j'aime véritablement Pardine, mais je suis certain que je lui dois une forme de reconnaissance que je ne saurais pas formuler.
 
 Le col que j'empruntais depuis la route basse du plateau — un col signalé sur ma carte par une ligne pointillée et la mention incertaine « praticable en toute saison sauf hiver rigoureux » — débouchait, selon un marchand de Tanolies que j'avais croisé la semaine précédente, directement dans la vallée de Glintar. Puis Iskara. Puis les mines de Myrilith, si l'on avait les autorisations. Puis, par la passe nord-est, les hauts plateaux qui forment la frontière naturelle avec ce que les gens d'ici appellent Ferrath — un pays ou plutôt une confédération, selon les sources, la terminologie variant selon l'angle politique de qui répond.
 
@@ -37,7 +37,7 @@ Je vais essayer d'être précis, parce que la précision est la seule façon hon
 
 La Porte de Fer est un passage naturel entre deux falaises de basalte noir, large d'une quarantaine de pas environ en son point le plus étroit. Les parois s'élèvent à une hauteur que je ne pouvais pas mesurer convenablement de là où j'étais — cent mètres peut-être, peut-être plus, avec la brume du matin qui en cachait les sommets. Dans cet étranglement de roche, des murs ont été construits au fil des siècles par-dessus la géologie naturelle, si bien que la distinction entre la falaise et la fortification est devenue illisible. La pierre est la même — du basalte noir tiré des roches locales. Le mortier utilisé a la même couleur que la roche naturelle. Le tout forme un ensemble continu que l'œil reçoit comme un phénomène géologique, pas architectural.
 
-C'est une illusion volontaire. On ne veut pas que la Porte ait l'air construit. On veut qu'elle ait l'air inévitable.
+C'est une illusion volontaire. On ne veut pas que la Porte ait l'air construite. On veut qu'elle ait l'air inévitable.
 
 Sur le fer de la porte principale — une porte de métal noir si large qu'il fallait plusieurs chaînes de treuils pour la déplacer — des mots gravés que je lus lentement en approchant : *Vous êtes libres de revenir. Nous serons là.* La reine Yrelda la Forgée, après la Défense de la Porte de Fer. Trois siècles et la rouille n'avait pas entamé la profondeur des lettres.
 
@@ -87,7 +87,7 @@ Ce n'était pas une question. Je lui demandai comment il le savait.
 
 Il dit cela sans ostentation, avec une précision factuelle qui était clairement de la culture professionnelle plutôt que du bavardage. Baret Sorn savait ce qu'il savait parce que c'était son travail de le savoir, et il le disait parce que c'était pertinent, pas pour impressionner.
 
-Nous mangeâmes ensemble — ou plutôt nous mangeâmes à la même table, ce qui en Iskara revient à manger ensemble. On nous servit un plat que j'avais déjà croisé à l'auberge de Glintar la veille : viande séchée dans les courants d'air des tunnels, dure, saline, d'un goût intense et économique, accompagnée de pain noir et d'un fromage pressé sous des blocs de pierre qui avait la densité de quelque chose qui avait refusé d'être mou sous la pression et avait eu raison. La bière de Galdar — le vin de montagne de l'armée iskaran que les civils buvaient aussi, mélangé à l'eau des puits pour la purifier selon une habitude si ancienne qu'elle était devenue coutume gastronomique.
+Nous mangeâmes ensemble — ou plutôt nous mangeâmes à la même table, ce qui en Iskara revient à manger ensemble. On nous servit un plat que j'avais déjà croisé en chemin : viande séchée dans les courants d'air des tunnels, dure, saline, d'un goût intense et économique, accompagnée de pain noir et d'un fromage pressé sous des blocs de pierre qui avait la densité de quelque chose qui avait refusé d'être mou sous la pression et avait eu raison. La bière de Galdar — le vin de montagne de l'armée iskaran que les civils buvaient aussi, mélangé à l'eau des puits pour la purifier selon une habitude si ancienne qu'elle était devenue coutume gastronomique.
 
 Baret parla peu pendant le repas. Mais après la bière, il parla davantage — non pas sous l'effet de la bière, les Iskarans ne s'enivrent pas au point de perdre la mesure de leurs mots, mais parce que quelque chose dans ma façon d'écouter lui sembla digne de confiance. C'est quelque chose que j'ai appris dans ce voyage : les gens parlent non pas quand vous les interrogez mais quand ils décident que vous méritez ce qu'ils savent. Forcer l'interrogatoire donne des réponses de surface. La patience donne les profondeurs.
 
@@ -97,13 +97,17 @@ Je lui dis que c'était mon intention.
 
 Il réfléchit. « Peut-être. Tout dépend du commandant Reval. Et de ce qu'il pense de ce que vous voulez y trouver. »
 
-Il vida son gobelet. Puis, en le reposant sur la pierre de la table, doucement mais avec une précision de quelqu'un qui pose soigneusement quelque chose de fragile : « Les niveaux inférieurs de Myrilith — en dessous de trois cent cinquante mètres — ont été partiellement fermés. Il y a trois ans. »
+Il vida son gobelet. Puis, en le reposant sur la pierre de la table, doucement mais avec la précision de quelqu'un qui pose soigneusement quelque chose de fragile : « Les niveaux inférieurs de Myrilith — en dessous de trois cent cinquante mètres — ont été partiellement fermés. Il y a trois ans. »
 
 Je lui demandai pourquoi.
 
 Un silence. Pas de la réticence — de la formulation. Baret cherchait les mots exacts, les mots qui diraient ce qu'il voulait dire sans dire ce qu'il ne voulait pas dire.
 
 « Parce que les mineurs ont commencé à entendre des choses. »
+
+Il ajouta, après un autre silence — non pas sur ma demande, mais parce que le nom appartenait à ce qu'il venait de dire et qu'il ne voulait pas le laisser pour plus tard : « Il y avait Jessen. Mineur de Myrilith, comme moi. Pas plus jeune, pas plus vieux. Il a forcé une barricade, en bas. Il a posé les mains à plat sur quelque chose qu'il n'aurait pas dû toucher. Il est remonté. Il a parlé à sa femme — Mira. Trois mots, dans une voix qui n'était pas la sienne : *Elle arrive.* » Il regarda le fond de son gobelet. « Il est mort le lendemain. On a fermé la galerie la semaine d'après. »
+
+Je notai. Je n'ai pas demandé qui *elle* désignait. Baret n'aurait pas répondu et la question, à ce stade, n'aurait été qu'une façon de combler l'espace que ces trois mots avaient ouvert.
 
 ---
 
@@ -129,7 +133,7 @@ Le garde qui m'accompagna aux mines s'appelait Lorn. Vingt-cinq ans, silencieux,
 
 Les mines de Myrilith.
 
-Il faut que j'essaie de les décrire honnêtement, sans la romantisation que le voyage peut faire peser sur les perceptions. Un cartographe qui romanticise ses relevés produit de mauvaises cartes.
+Il faut que j'essaie de les décrire honnêtement, sans la romantisation que le voyage peut faire peser sur les perceptions. Un cartographe qui romance ses relevés produit de mauvaises cartes.
 
 Les mines de Myrilith descendent. C'est la première chose. Elles descendent d'une façon que les mines que j'avais visitées à Kharazir ou documentées en Galenor n'avaient pas — pas graduellement, pas en spirale confortable autour d'un axe central, mais directement, en puits verticaux suivis de couloirs inclinés suivis de nouveaux puits, comme si la roche avait été creusée par quelqu'un qui voulait aller vers le bas aussi vite que possible, sans se soucier du confort de l'architecte.
 
@@ -137,9 +141,9 @@ Les niveaux un et deux : ordinaires par les standards miniers de ce que j'avais 
 
 Les niveaux trois et quatre : plus sombre, l'air plus dense, les galeries plus étroites. On commence à voir le fer noir — le minerai rare de Myrilith, cette pierre d'une dureté anormale qui teint les mains des mineurs d'une nuance bleutée pendant des jours après contact. Les mineurs à ces niveaux travaillent plus lentement, avec des gestes plus précis, moins d'énergie dans le pic et plus d'attention dans le choix du point de frappe. Le fer noir ne cède pas à la force. Il cède à la précision.
 
-Les niveaux cinq à huit : là, Lorn prit ma lampe de la main et me dit qu'il marche devant.
+Les niveaux cinq à huit : là, Lorn me prit la lampe des mains et me dit qu'il marcherait devant.
 
-Ce n'était pas de l'autoritarisme. C'était de la géographie — les galeries à ces niveaux sont moins régulières, creusées à la suite du fer noir là où il allait, ce qui signifie des coudes inattendus, des passages bas, des bifurcations sans signalisation visible. Sans quelqu'un qui connaît le chemin, on se perd. Et se perdre à cinq cents mètres sous la surface, dans des galeries où le charbon de vos lampes est votre seule ressource de lumière, est une façon très efficace de finir d'exister.
+Ce n'était pas de l'autoritarisme. C'était de la géographie — les galeries à ces niveaux sont moins régulières, creusées à la suite du fer noir là où il allait, ce qui signifie des coudes inattendus, des passages bas, des bifurcations sans signalisation visible. Sans quelqu'un qui connaît le chemin, on se perd. Et se perdre à cinq cents mètres sous la surface, dans des galeries où l'huile de vos lampes est votre seule ressource de lumière, est une façon très efficace de finir d'exister.
 
 Je marchais derrière Lorn, mes instruments de mesure à la ceinture — le compas, le fil à plomb, la règle de métal pliante, le carnet gainé de cuir qui résiste à l'humidité —, en prenant mes relevés d'une main et en essayant de ne pas me cogner la tête aux étais de l'autre. Les galeries à ces niveaux ont un plafond conçu pour des mineurs iskarans qui savent instinctivement se courber aux bons endroits. Je n'ai pas cet instinct. J'ai des ecchymoses.
 
@@ -189,7 +193,7 @@ Une porte.
 
 Pas une porte de mine — pas une herse ou un panneau de sécurité. Une porte dans la roche elle-même, taillée, encadrée d'un jambage que la roche avait accepté comme si on la lui avait proposée plutôt qu'imposée. Un métal que je ne reconnus pas — ni le fer commun de Myrilith, ni le fer noir, ni l'Acier Éternel d'Altram. Sa surface était froide au regard, froide à distance, avec la même iridescence subtile que le Fragment Zéro des Archives de Trelios, ce bleu très faible qui disparaissait quand on cherchait à le fixer et revenait dans la vision périphérique.
 
-Je ne l'avais pas touchée.
+Je ne la touchai pas.
 
 Je voulais la toucher. C'est une réaction que je notai avec une certaine inquiétude — non pas la curiosité normale d'un cartographe face à un phénomène non documenté, mais quelque chose de plus immédiat, de plus physique, comme l'attraction d'un bord de précipice. On ne saute pas parce que l'on veut mourir. On est attiré parce que quelque chose dans la géographie de l'endroit exerce une pression sur la volonté.
 
@@ -273,7 +277,7 @@ J'avais un pic à portée. Je frappai le fragment sur l'enclume.
 
 Il se fendit en trois parties nettes. Elle ramassa les trois morceaux, les examina. « La fracture suit les strates de formation. Chaque couche est un moment de l'histoire de cette roche. Chaleur, pression, refroidissement. Des millions d'années. » Elle reposa les fragments. « Les galeries profondes, quand les mineurs creusent à ces profondeurs, ils creusent à travers du temps. Pas de l'espace. Du temps. »
 
-C'était une façon poétique de formuler quelque chose que les géologues expriment en termes de stratigraphie, et je pensai d'abord que c'était de la philosophie de forge — ce mélange de mysticisme artisanal et de pragmatisme que j'avais rencontré dans les Filii Fornacis d'Altram.
+C'était une façon poétique de formuler quelque chose que les géologues expriment en termes de stratigraphie, et je pensai d'abord que c'était de la philosophie de forge — ce mélange de mysticisme artisanal et de pragmatisme que j'avais rencontré dans les écrits des Filii Fornacis d'Altram, cette confrérie de maîtres-artisans dont les traités, lus dans les Archives de Trelios, mêlaient données métallurgiques et formules quasi-religieuses sans paraître ressentir la contradiction.
 
 Mais elle ajouta, en me regardant avec les yeux précis d'une femme qui a passé quarante ans à lire la roche : « Et parfois, dans le temps que vous creusez, il y a des choses qui ne sont pas encore passées. »
 
@@ -285,13 +289,13 @@ La nuit dans la maison de Verthal que Hessa me prêta — une chambre de pierre 
 
 Points de repère. Kharazir, les tunnels souterrains. Velathor en Trinoria, l'arbre du Vael'Kurash et la vibration dans l'écorce. Trelios en Altram, le Fragment Zéro des Archives, dont les archivistes affirment qu'il précède ce qu'ils nomment l'Arrachement, et qui pulse. Myrilith en Iskara, la porte de métal inconnu dans la galerie profonde du niveau huit. Les battements de la montagne entendus depuis vingt ans dans les parois. Le mineur Jessen, mort les mains à plat sur une porte similaire, avec les derniers mots : *Elle arrive.*
 
-Et mon père — Aldric Valthen, cartographe comme moi, qui avait trouvé les mêmes tunnels sous Kharazir vingt ans plus tôt. Qui avait disparu après une lettre de Thalendris. Qui avait commencé ce chemin avant moi sans que je le sache.
+Et mon père — Aldric Valthen, qui avait trouvé les mêmes tunnels sous Kharazir vingt ans plus tôt. Qui avait disparu après une lettre du Recteur. Qui avait commencé ce chemin avant moi sans que je le sache.
 
 Je traçai des lignes entre les points. Pas des lignes cartographiques — des lignes de sens, des lignes hypothétiques. Ce genre de travail est risqué pour un cartographe, parce qu'une carte qui trace des connexions non vérifiées devient une fiction qui ressemble à une carte, ce qui est pire qu'une fiction qui sait l'être. Mais parfois, avant de vérifier, il faut tracer. Sinon on ne sait pas ce qu'il faut aller vérifier.
 
 La figure qui émergea était incomplète — trop peu de points, trop d'espace entre les lignes. Mais il y avait une cohérence directionnelle que je ne pouvais pas nier : les phénomènes que je documentais se situaient tous, sans exception, dans ou sous des formations géologiques antiques. Des roches plus vieilles que les nations qui les habitaient. Des strates que Hessa appellerait du temps plutôt que de l'espace.
 
-Et la vibration dans toutes ces formations — le battement lent, la pulsation du Fragment Zéro, la chaleur sous les mains de Kyra dans la Grande Forge de Glintaris — avaient augmenté. Les gens qui les observaient depuis assez longtemps s'accordaient là-dessus sans coordination entre eux : les sons de Myrilith, plus forts depuis vingt ans. Le Fragment Zéro, qui ne pouvait plus être approché sans conséquences depuis trois ans. La porte de la galerie profonde, qui avait fait taire un homme définitivement.
+Et la vibration dans toutes ces formations — le battement lent, la pulsation du Fragment Zéro, la chaleur sous les mains des forgerons dans la Grande Forge de Glintaris — avaient augmenté. Les gens qui les observaient depuis assez longtemps s'accordaient là-dessus sans coordination entre eux : les sons de Myrilith, plus forts depuis vingt ans. Le Fragment Zéro, qui ne pouvait plus être approché sans conséquences depuis trois ans. La porte de la galerie profonde, qui avait fait taire un homme définitivement.
 
 Quelque chose paraît augmenter — c'est en tout cas ce que les observateurs disent, chacun depuis son angle. S'agit-il d'un phénomène qui s'approche, qui s'éveille, ou simplement de notre attention qui s'aiguise sur ce qui était déjà là ? Je n'ai pas les mots pour trancher autrement.
 
@@ -301,13 +305,13 @@ Le mineur avait dit : *Elle arrive.*
 
 Je ne veux pas savoir ce que *elle* désigne. Et en même temps, je suis ici, dans les montagnes d'un continent étranger, en train d'écrire ces mots à la lueur d'une lampe à huile iskaran, avec les outils du cartographe et la curiosité de l'exilé, et cette curiosité est plus forte que la prudence que les mots de Jessen me suggèrent d'avoir.
 
-Mon père avait cette même curiosité. Il avait suivi quelque chose jusqu'à Thalendris. Sa lettre disait : *les tunnels descendent plus profondément qu'aucune carte ne l'indique.* Puis il avait disparu.
+Mon père avait cette même curiosité. Il avait suivi quelque chose qui le menait — vers où, je ne le sais pas encore. Sa lettre disait : *les tunnels descendent plus profondément qu'aucune carte ne l'indique.* Puis il avait disparu.
 
 Je ne suis pas mon père. Je suis plus prudent. Je me suis fait exiler pour avoir tracé des cartes honnêtes, pas pour avoir ouvert des portes que personne ne voulait ouvrir.
 
 Mais les portes que l'on trouve en chemin sans les chercher — celles qui s'entrouvrent d'elles-mêmes, comme l'antichambre du Fragment Zéro à Trelios — celles-là sont peut-être différentes. Peut-être qu'elles cherchent à être trouvées.
 
-Je reposerai la question à Thalendris.
+Je reposerai la question, ailleurs, plus tard.
 
 Il me faut d'abord y arriver.
 
@@ -333,6 +337,6 @@ Et peut-être de ce qui attend d'être suivi.
 
 Dans la brume du plateau, Pardine souffla lourdement et baissa la tête vers le chemin. Elle avait raison. Il y avait de la route devant.
 
-Thalendris, à l'est.
+Vers l'est.
 
 ---

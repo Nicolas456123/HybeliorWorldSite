@@ -22,7 +22,7 @@ La mer entre Celtaris et Nectoria fut calme de cette façon que les marins haldr
 
 J'avais changé.
 
-Je n'emploie pas cela dans le sens sentimental de la chose. Je l'emploie comme un cartographe emploierait le terme : je n'occupais plus le même point sur la carte. Sept cent vingt jours depuis Evertia, et le Sorin Valthen qui avait quitté sa table à dessin pour chercher une anomalie dans le tracé des rues était aussi lointain que n'importe quel autre souvenir d'enfance — précis dans ses détails, inexact dans ce qu'il avait compris du monde. Cet homme-là ignorait que Mont Cendra pulsait. Il ignorait ce que signifiait être Délié. Il ignorait que son père avait fait ce voyage avant lui.
+Je n'emploie pas cela dans le sens sentimental de la chose. Je l'emploie comme un cartographe emploierait le terme : je n'occupais plus le même point sur la carte. Sept cent vingt jours depuis Evertia. Le Sorin Valthen qui avait quitté sa table à dessin pour chercher une anomalie dans le tracé des rues était aussi lointain que n'importe quel autre souvenir d'enfance — précis dans ses détails, inexact dans ce qu'il avait compris du monde. Cet homme-là ignorait que Mont Cendra pulsait. Il ignorait ce que signifiait être Délié. Il ignorait que son père avait fait ce voyage avant lui.
 
 Je ne savais toujours pas ce que signifiait que mon père l'ait fait avant moi.
 
@@ -104,7 +104,7 @@ Je notai cette reconnaissance et je notai aussi ma méfiance envers elle. Un car
 
 Je les avais vus dans les tunnels de Kharazir.
 
-Je m'assis. Je ne sais pas à quel moment je m'assis — je me trouvai simplement assis, avec le parchemin devant moi et la certitude qui se déposait dans ma poitrine comme un sédiment lourd. Kharazir : les mines, les galeries creusées avant que l'histoire commence, les parois que les géologues d'Ordavan dataient d'avant l'Arrachement. Des symboles sur la roche que tout le monde avait attribués à une culture perdue, à une décoration sans signification, à une trace d'ouvriers anciens.
+Je m'assis. Je ne sais pas à quel moment je m'assis — je me trouvai simplement assis, avec le parchemin devant moi et la certitude qui se déposait dans ma poitrine comme un sédiment lourd. Kharazir : les mines, les galeries creusées avant que l'histoire commence, les parois que les géologues de Gryndor dataient d'avant l'Arrachement. Des symboles sur la roche que tout le monde avait attribués à une culture perdue, à une décoration sans signification, à une trace d'ouvriers anciens.
 
 Pas une décoration. Un texte.
 
@@ -114,7 +114,7 @@ Orneth me regarda avec l'expression d'un homme qui voit enfin quelqu'un voir ce 
 
 Je lui dis que je ne pouvais pas la lire non plus.
 
-Je lui dis que je la reconnaissais. Que je l'avais vue gravée dans la roche à neuf cents pieds sous le sol d'Ordavan, dans des galeries qui n'avaient pas vu la lumière depuis un temps que personne n'avait pu mesurer.
+Je lui dis que je la reconnaissais. Que je l'avais vue gravée dans la roche à neuf cents pieds sous le sol de Rukhsar, dans des galeries qui n'avaient pas vu la lumière depuis un temps que personne n'avait pu mesurer.
 
 Orneth prit une longue inspiration et la laissa sortir très lentement, comme quelqu'un qui dépose une charge qu'il porte depuis trop longtemps. Il dit : « Alors la troisième langue est plus ancienne que nous le pensions. »
 
@@ -146,7 +146,7 @@ Pas tout à fait.
 
 La nuit avant d'embarquer, je m'assis sur le quai de Nectoria et je regardai la mer.
 
-Je suis Délié — c'est une définition, c'est une réalité, c'est quelque chose qui s'est passé à un moment de mon voyage que je ne saurais pas dater précisément parce que ça ne s'est pas passé en un moment mais en une accumulation de moments, chacun un millimètre de distance supplémentaire entre moi et le tissu éthéré qui relie les uns aux autres. Être Délié signifie ne pas sentir ce tissu. Significa — passé — parce que Mont Cendra avait pulsé et que je l'avais senti.
+Je suis Délié — c'est une définition, c'est une réalité, c'est quelque chose qui s'est passé à un moment de mon voyage que je ne saurais pas dater précisément parce que ça ne s'est pas passé en un moment mais en une accumulation de moments, chacun un millimètre de distance supplémentaire entre moi et le tissu éthéré qui relie les uns aux autres. Être Délié signifie ne pas sentir ce tissu. Signifiait — au passé — parce que Mont Cendra avait pulsé et que je l'avais senti.
 
 Ce que j'essayai ce soir-là sur le quai de Nectoria était simple : j'essayai de sentir.
 
@@ -164,7 +164,7 @@ Le talisman de Ryvan était à mon poignet gauche. Il avait pris la patine du vo
 
 Je pensai à mon père. Je pensai à Aldric Valthen qui avait fait ce voyage avant moi — qui avait peut-être aussi regardé cette mer depuis ce quai ou un quai similaire, qui avait peut-être aussi copié quelque chose qu'il ne pouvait pas lire entièrement, qui avait peut-être aussi senti quelque chose le noter depuis les profondeurs.
 
-Il était mort d'une pneumonie d'hiver à quarante-deux ans, un forgeron d'Evertia avec des mains larges et des explications courtes pour tout.
+Il avait disparu un matin dans les pâturages de Valthorn, berger d'altitude aux mains larges et aux explications courtes. Une lecture parmi d'autres dirait qu'il est mort là-haut. Une autre que les chroniques de Lunasar, peut-être, viendraient bientôt corriger.
 
 Qu'avait-il compris que je ne comprends pas encore ? Et — la question qui me vint après, et que je m'imposai d'écrire dans la même page sans lui chercher de cadre — qu'avait-il vu, peut-être, que j'avais cru voir et qui n'était pas tout à fait ce que je croyais ?
 

@@ -24,11 +24,11 @@ Le silence de Baelor, je l'entendis dès que le navire approcha des falaises noi
 
 Je n'avais pas prévu d'entendre cela depuis la mer.
 
-Je commençais à comprendre que je n'avais pas prévu beaucoup des choses qui s'avèrent les plus importantes.
+Je commençais à comprendre que je n'avais pas prévu la plupart des choses qui s'avèrent les plus importantes.
 
 ---
 
-Le port de Baelor — un port minuscule, quelques amarrages dans une crique protégée du vent par une falaise en surplomb — était gardé par deux moines. Pas par des gardes armés dans le sens où d'autres ports arment leurs gardes — par deux hommes en robes sombres dont la posture seule communiquait qu'ils avaient la capacité d'être ce qu'on voulait et ce qu'il fallait selon ce que la situation demandait.
+Le port de Baelor — un port minuscule, quelques amarrages dans une crique protégée du vent par une falaise en surplomb — était gardé par deux moines. Pas des gardes armés au sens où d'autres ports arment leurs gardes — deux hommes en robes sombres dont la posture seule indiquait qu'ils sauraient être ce que la situation demanderait, le moment venu.
 
 Ils ne dirent rien quand le navire s'amarra. Ils observèrent. L'un d'entre eux fit un geste — bref, précis, contenu — à l'intention du capitaine, qui hocha la tête et répondit par un geste que je reconnus comme la demande d'une permission d'accoster. La réponse fut donnée par le même biais : deux doigts inclinés vers le sol. Permission accordée.
 
@@ -64,7 +64,7 @@ L'amulette pulsait. Moins forte qu'à Nysaria, moins discrète qu'en mer. Une pu
 
 Le lendemain, un moine différent vint me chercher.
 
-Plus âgé — les cheveux entièrement blancs, rasés de frais, une façon de se déplacer qui avait l'économie absolue des gens dont chaque geste a été épuré de tout ce qui ne lui était pas nécessaire. Il me conduisit par des escaliers descendants que je ne m'étais pas attendu à trouver — le complexe de Baeloris allait en profondeur autant qu'en hauteur, et les niveaux inférieurs avaient une qualité différente : plus froide, plus silencieuse encore, avec cette lumière des espaces souterrains où la roche elle-même semble légèrement phosphorescente, comme si la pierre retenait un peu de toute la lumière que des générations de bougies lui avaient donnée.
+Plus âgé — le crâne rasé de frais, blanc dessous, une façon de se déplacer qui avait l'économie absolue des gens dont chaque geste a été épuré de tout ce qui ne lui était pas nécessaire. Il me conduisit par des escaliers descendants que je ne m'étais pas attendu à trouver — le complexe de Baeloris allait en profondeur autant qu'en hauteur, et les niveaux inférieurs avaient une qualité différente : plus froide, plus silencieuse encore, avec cette lumière des espaces souterrains où la roche elle-même semble légèrement phosphorescente, comme si la pierre retenait un peu de toute la lumière que des générations de bougies lui avaient donnée.
 
 Il me conduisit à une salle de méditation — circulaire, assez grande pour vingt personnes, actuellement vide. Des coussins disposés en cercle sur le sol de roche noire. Au centre, rien. Un espace.
 
@@ -72,7 +72,7 @@ J'attendis.
 
 Une dizaine de moines entrèrent et s'assirent sur les coussins en cercle. Je restai debout un moment — puis le vieux moine fit un geste vers un coussin à sa gauche, et je m'assis.
 
-Ce qui suivit durait, selon mon estimation, trois heures. Je n'en suis pas certain — à Baelor, le temps sans sons est un temps différent, plus long ou plus court selon ce qu'on y met, et la méditation commune des moines — ce Rêve Partagé dont les textes de Somnium Vigil faisaient le cœur de la pratique — avait modifié ma perception de la durée d'une façon que je ne sus pas tout à fait corriger après.
+Ce qui suivit dura, selon mon estimation, trois heures. Je n'en suis pas certain — à Baelor, le temps sans sons est un temps différent, plus long ou plus court selon ce qu'on y met, et la méditation commune des moines — ce Rêve Partagé dont les textes de Somnium Vigil faisaient le cœur de la pratique — avait modifié ma perception de la durée d'une façon que je ne sus pas tout à fait corriger après.
 
 Je ne méditai pas. Je ne suis pas doué pour la méditation au sens formel — je suis cartographe, j'ai besoin de mes mains et de mes yeux. Mais je restai assis, et le silence du cercle me fit quelque chose que le silence de ma cellule n'avait pas fait : il me rendit perméable. Pas vulnérable — perméable. Comme une membrane qui laisse passer ce qu'elle reconnaît.
 
@@ -90,15 +90,15 @@ Baelor sans Éthéré. L'unique continent d'Hybelior où l'éther ne circule pas
 
 ---
 
-L'Abbé Suprême Kethron VI ne reçut pas les visiteurs ordinaires.
+L'Abbé Suprême Kethron VI ne recevait pas les visiteurs ordinaires.
 
-Je n'étais pas un visiteur ordinaire — ni par l'amulette, que les moines regardaient avec une attention que je ne sus pas tout à fait interpréter, ni par la direction d'où je venais, ni par la durée de mon séjour qui commençait à dépasser ce que les hôtes habituels accordaient à un étranger de passage. Le troisième jour, le vieux moine aux cheveux blancs me fit signe de le suivre à une heure que je situai, par la lumière de la lucarne, comme le milieu de la matinée.
+Je n'étais pas un visiteur ordinaire — ni par l'amulette, que les moines regardaient avec une attention que je ne sus pas tout à fait interpréter, ni par la direction d'où je venais, ni par la durée de mon séjour qui commençait à dépasser ce que les hôtes habituels accordaient à un étranger de passage. Le troisième jour, le vieux moine au crâne blanc me fit signe de le suivre à une heure que je situai, par la lumière de la lucarne, comme le milieu de la matinée.
 
 Les escaliers montaient cette fois — vers les niveaux supérieurs du complexe, vers des espaces dont la roche semblait plus fine, plus récente, creusée avec moins de profondeur que les niveaux où vivaient les moines ordinaires. Vers le sommet : la Salle du Silence, l'espace circulaire ouvert au ciel que les textes décrivaient comme le lieu de rassemblement pour les rituels les plus importants.
 
 Elle était ouverte sur le ciel avec une netteté qui contrastait avec l'enfouissement du reste — un cercle de ciel bleu-gris de la couleur de la mer par temps couvert, délimité par les bords de roche noire, sans toit ni protection. Au centre, l'Abbé Suprême Kethron VI.
 
-Il avait quatre-vingts ans ou quatre-vingts ans plus quelque chose que les ans ordinaires ne comptent pas. Un corps que le temps avait rendu compact plutôt que diminué — le genre de vieillesse qui n'est pas une réduction mais une distillation, qui garde ce qui était essentiel et laisse tomber tout le reste. Il était assis sur le sol nu, les jambes croisées, les paumes posées sur les genoux avec les doigts légèrement incurvés vers le bas. Il n'avait pas prononcé un mot depuis sa jeunesse — Sera me l'avait dit, et Sera tenait cela d'un texte de Lunasar qui l'avait reçu une fois en délégation.
+Il avait quatre-vingts ans ou quatre-vingts ans plus quelque chose que les ans ordinaires ne comptent pas. Un corps que le temps avait rendu compact plutôt que diminué — le genre de vieillesse qui n'est pas une réduction mais une distillation, qui garde ce qui était essentiel et laisse tomber tout le reste. Il était assis sur le sol nu, les jambes croisées, les paumes posées sur les genoux avec les doigts légèrement incurvés vers le bas. Il n'avait pas prononcé un mot depuis sa jeunesse — Sera me l'avait dit, et Sera tenait cela d'un texte de Lunasar, dont la cour l'avait reçu une fois en délégation.
 
 Il m'attendait.
 
@@ -108,7 +108,7 @@ Je m'assis en face de lui, en tailleur, les mains sur les genoux dans une imitat
 
 Il me regarda. Je le regardai.
 
-Ce regard-là. Je l'avais cherché dans ma mémoire depuis que les histoires de Baelor me l'avaient signalé comme une présence à laquelle les visiteurs n'étaient pas préparés : le regard de quelqu'un qui n'a pas parlé depuis si longtemps que son regard a dû compenser, qui a développé dans l'œil une articulación que la voix habituellement prend en charge. Ses yeux avaient l'étendue d'un horizon dégagé.
+Ce regard-là. Je l'avais cherché dans ma mémoire depuis que les histoires de Baelor me l'avaient signalé comme une présence à laquelle les visiteurs n'étaient pas préparés : le regard de quelqu'un qui n'a pas parlé depuis si longtemps que son regard a dû compenser, qui a développé dans l'œil une articulation que la voix habituellement prend en charge. Ses yeux avaient l'étendue d'un horizon dégagé.
 
 Nous restâmes ainsi — dix minutes, vingt, je ne sus pas — dans le silence de la Salle du Silence avec le ciel gris au-dessus et la mer au bas des falaises.
 
@@ -120,7 +120,7 @@ Un parchemin.
 
 Petit, carré, d'une blancheur que je reconnus comme celle des parchemins enluminés de Baelor — leur seule forme d'art autorisée, leur seule écriture abondante. Vide encore.
 
-Il prit un pinceau de sa robe — un pinceau très fin, le type dont les enlumineurs utilisent pour les détails les plus minutieux, pour les traits qu'on ne voit qu'en s'approchant. Il le trempa dans un petit encrier que le vieux moine tenait maintenant à sa hauteur.
+Il prit un pinceau de sa robe — un pinceau très fin, le type que les enlumineurs utilisent pour les détails les plus minutieux, pour les traits qu'on ne voit qu'en s'approchant. Il le trempa dans un petit encrier que le vieux moine tenait maintenant à sa hauteur.
 
 Il écrivit.
 
@@ -128,7 +128,7 @@ Un seul mot.
 
 Il posa le pinceau. Il replia le parchemin. Il me le tendit avec le soin dont on tend quelque chose qui ne doit pas être abîmé.
 
-Je le pris. Je le déroulai.
+Je le pris. Je le dépliai.
 
 Le mot était en galenorien — l'Abbé avait choisi de ne pas me forcer à déchiffrer une langue que je n'aurais peut-être pas sue lire, et ce choix me dit quelque chose sur le soin mis dans ce geste. Un seul mot. Écrit d'une main qui n'avait peut-être pas tenu de plume depuis des années mais dont la précision n'avait pas souffert de l'absence.
 
@@ -142,15 +142,15 @@ Le vieux moine resta — pas par surveillance, par présence. Il s'assit dans l'
 
 *Dessous.*
 
-Un seul mot. Le seul mot que Kethron VI avait choisi d'écrire — dans cette vie où il n'écrivait pas les mots pour rien, où chaque inscription dans un journal enluminé coûtait des mois et était choisie avec une économie absolue. Ce mot pour moi. Ce mot maintenant.
+Un seul mot. Le seul mot que Kethron VI avait choisi d'écrire pour moi — dans cette vie où il n'écrivait pas les mots pour rien, où chaque inscription dans un journal enluminé coûtait des mois et était choisie avec une économie absolue. Ce mot pour moi. Ce mot maintenant.
 
 Baelor sans Éthéré — l'anomalie que les théologiens notaient et ne pouvaient pas expliquer. Pourquoi ce continent, uniquement ce continent, était-il exempt de la circulation éthérée qui reliait les autres ? Les théories allaient de la composition minérale particulière de la roche au caractère des habitants — les moines n'utilisent pas l'éther, peut-être l'ont-ils épuisé ? Peut-être l'ont-ils refusé ?
 
 *Dessous.* Ce n'était pas le sol de Baelor qui était différent. C'était ce qui était dessous.
 
-Le réseau que j'avais commencé à percevoir — la fréquence commune entre l'amulette de Nysaria et Mont Cendra, la vibration dans la roche de Baeloris que le cercle de méditation m'avait rendu perceptible, les tunnels de Kharazir avec leurs symboles en troisième langue — n'était pas un réseau de surface. C'était un réseau souterrain. Quelque chose d'enfoui qui courait sous les continents, sous les mers, sous les fondations des villes que les humains avaient construites sans savoir ce qui était en dessous.
+Le réseau que j'avais commencé à percevoir — la fréquence commune entre l'amulette de Nysaria et Mont Cendra, la vibration dans la roche de Baeloris que le cercle de méditation m'avait rendue perceptible, les tunnels de Kharazir avec leurs symboles en troisième langue — n'était pas un réseau de surface. C'était un réseau souterrain. Quelque chose d'enfoui qui courait sous les continents, sous les mers, sous les fondations des villes que les humains avaient construites sans savoir ce qui était en dessous.
 
-Et Baelor était le seul endroit où la couche de surface — l'éther — n'existait pas. Le seul endroit où la couche de surface n'avait jamais existé ou avait été retirée, ne sait-on quand, par une volonté ou un mécanisme que je ne connaissais pas encore.
+Et Baelor était le seul endroit où la couche de surface — l'éther — n'existait pas. Le seul endroit où la couche de surface n'avait jamais existé ou avait été retirée — on ne sait quand — par une volonté ou un mécanisme que je ne connaissais pas encore.
 
 Le seul endroit où on entendait directement ce qui était dessous.
 
@@ -188,7 +188,7 @@ Le cycle pré-Arrachement. Les ancêtres d'Ulinor en parlaient comme d'un fait, 
 
 Une autre lecture possible était que ce qui s'était passé ne s'arrêtait jamais tout à fait — que *se continue* serait plus juste que *se repasse*. Peut-être que l'Arrachement n'avait pas tout à fait interrompu ce qui était en cours — qu'il l'avait seulement ralenti, comme on ralentit quelque chose de lourd lancé en mouvement : ça ne s'arrête pas, ça prend plus de temps.
 
-Sept cent quatre-vingt-dix-neuf jours depuis Evertia, et je découvrais une lecture qui pourrait expliquer pourquoi j'étais parti.
+Sept cent quatre-vingt-dix-neuf jours depuis Rukhsar, et je découvrais une lecture qui pourrait expliquer pourquoi j'étais parti.
 
 Non pas pour chercher une anomalie dans le tracé des rues. Pour terminer ce que quelqu'un — mon père, ou quelqu'un avant mon père, ou Navigor lui-même dans cette métaphore très ancienne que je ne savais plus si je devais appeler métaphore — avait commencé.
 
@@ -206,19 +206,19 @@ J'avais appris assez de la gestuelle baelorienne pendant ces cinq jours pour en 
 
 Je ne saurais pas formuler comment ce geste disait cela avec un tel niveau de précision. Mais il le disait.
 
-Je hocha la tête.
+Je hochai la tête.
 
 Il fit un dernier geste — bref, conclusif, le geste que les moines utilisent pour ponctuer quelque chose qui n'appelle pas de réponse — et m'indiqua le chemin du quai.
 
 ---
 
-Le navire qui m'attendait était le même que pour l'aller — le capitaine haldrien qui posait peu de questions et calculait le risque en temps réel avait accepté de m'attendre contre un prix que je n'avais pas négocié. Il vit la façon dont je montai à bord et ne dit rien.
+Le navire qui m'attendait était le même que pour l'aller — le capitaine haldrien qui posait peu de questions et calculait le risque au fur et à mesure avait accepté de m'attendre contre un prix que je n'avais pas négocié. Il vit la façon dont je montai à bord et ne dit rien.
 
 Nous prîmes la mer vers le nord.
 
-Je m'assis à l'arrière du navire, face à Baelor qui s'éloignait — les falaises noires dans la lumière du matin, le complexe de Baeloris invisible depuis la mer mais présent dans la roche, dans le silence qui continuait de porter quelque chose que les mots n'avaient pas le vocabulaire d'atteindre directement.
+Je m'assis à l'arrière du navire, face à Baelor qui s'éloignait — les falaises noires dans la lumière du matin, le complexe de Baeloris invisible depuis la mer mais présent dans la roche, dans le silence qui continuait de porter quelque chose que les mots n'avaient pas les moyens d'atteindre directement.
 
-Huit cents jours depuis Evertia.
+Huit cents jours depuis Rukhsar.
 
 Je sortis la carte de mon père et la déroulai sur mes genoux, tenant les bords avec les pouces contre le vent.
 
@@ -228,7 +228,7 @@ Je sortis le fragment du Message d'Orneth. *Les routes rouvrent. Le guide revien
 
 Je sortis l'amulette de Nysaria — non, je la laissai contre ma poitrine. Je la sentis pulser.
 
-Je compris, dans la lumière du matin sur la mer entre Baelor et le reste du monde, que la prochaine étape n'était pas une destination nouvelle. La prochaine étape était un retour. Evertia — là où j'avais commencé, là où mon père avait commencé, là où la carte pointait. Là où la troisième langue attendait d'être lue par quelqu'un qui aurait fait la séquence entière des marges et qui porterait, au terme de cette séquence, assez de ce qui est dessous pour comprendre ce qui est écrit depuis en dessous.
+Je compris, dans la lumière du matin sur la mer entre Baelor et le reste du monde, que la prochaine étape n'était pas une destination nouvelle. La prochaine étape était un retour. Evertia — là où mon père avait commencé, là où la carte pointait, là où la première lecture m'avait été donnée. Là où la troisième langue attendait d'être lue par quelqu'un qui aurait fait la séquence entière des marges et qui porterait, au terme de cette séquence, assez de ce qui est dessous pour comprendre ce qui est écrit depuis en dessous.
 
 Je ne savais pas si j'étais ce quelqu'un.
 

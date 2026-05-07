@@ -54,7 +54,7 @@ Kessa versa le vin. Je payai. Je m'assis sur une caisse de basalte à côté de 
 
 Je lui demandai si elle était de la région.
 
-*Mylaris*, dit-elle. *Sur les flancs du Mont Cendra. Je suis venue à Arkhen il y a sept ans après la dernière coulée mineures — pas pour fuir, pour vendre. La coulée avait découpé un nouveau chemin dans la roche qui ouvrait vers les vignobles de Solarith, et les transporteurs avaient besoin de quelqu'un qui connaisse le terrain.*
+*Mylaris*, dit-elle. *Sur les flancs du Mont Cendra. Je suis venue à Arkhen il y a sept ans après la dernière coulée mineure — pas pour fuir, pour vendre. La coulée avait découpé un nouveau chemin dans la roche qui ouvrait vers les vignobles de Solarith, et les transporteurs avaient besoin de quelqu'un qui connaisse le terrain.*
 
 Elle connaissait le terrain. Elle connaissait le Mont Cendra. Et quand je lui demandai, prudemment, si les pulsations avaient changé — cette chose dont on parlait à Diamoris, dans les tavernes des ports, avec le ton de ceux qui savent quelque chose mais préfèrent ne pas savoir —, elle posa sa coupe et me regarda d'une façon différente.
 
@@ -62,7 +62,7 @@ Elle connaissait le terrain. Elle connaissait le Mont Cendra. Et quand je lui de
 
 *Et ça va ?*
 
-Elle répondit longtemps après, en servant un autre client qu'elle servit d'une main tandis que l'autre tenait sa propre coupe, les yeux fixés sur quelque chose à l'horizon que je ne voyais pas encore.
+Elle répondit longtemps après, en servant un autre client d'une main tandis que l'autre tenait sa propre coupe, les yeux fixés sur quelque chose à l'horizon que je ne voyais pas encore.
 
 *Ça va de moins en moins. Et ça s'accélère.*
 
@@ -72,7 +72,7 @@ Le repas que Kessa partagea avec moi ce soir-là — dans une taverne basse d'Ar
 
 Je lui parlai de Vaelorin. De Celethor et des mesures de l'archimage sur les perturbations. Elle m'écouta sans interrompre — une qualité que j'avais appris à valoriser, dans un voyage où la plupart des gens interrompaient par réflexe défensif ou par enthousiasme, rarement par calcul.
 
-Quand j'eus fini, elle dit : *À Mylaris, les chevres s'agitent depuis deux saisons. Les gens qui lisent les bêtes disent que c'est plus fort qu'avant les grandes coulées. Plus profond dans le ventre.*
+Quand j'eus fini, elle dit : *À Mylaris, les chèvres s'agitent depuis deux saisons. Les gens qui lisent les bêtes disent que c'est plus fort qu'avant les grandes coulées. Plus profond dans le ventre.*
 
 J'avais connu cela. Les chevaux de Lythar. Les esprits de Warenthor. La même langue animale pour dire la même chose dans des idiomes différents.
 
@@ -186,9 +186,15 @@ Il me regarda avec les yeux d'un homme qui reconnaît quelque chose qu'il cherch
 
 Je notai tout. Je repartis l'après-midi vers Arkhen, avec la pulsation du Mont Cendra dans la mémoire de ma poitrine et la certitude que quelque chose venait de changer dans ma compréhension de ce que je suis — ou de ce que je ne suis pas.
 
+En descendant du temple par la ruelle qui longeait le mur de pierre d'un vignoble de Solarith, je m'arrêtai net. Un enfant était assis sur une marche, huit ou neuf ans peut-être, les genoux remontés sous le menton. Ses yeux étaient blancs — pas opaques, pas aveugles, blancs comme l'ivoire poli. J'avais entendu parler des Enfants aux Yeux Blancs à Vytharia, par un marchand qui les disait nés de plus en plus nombreux à Caeloria. Je n'en avais pas encore vu. Et il y en avait un, là, dans une ruelle volcanique de Cendara, à un demi-continent de l'endroit où on les disait apparaître.
+
+Il leva la tête en m'entendant. Il me regarda — pas comme on regarde un étranger, comme on reconnaît quelque chose. Il dit, dans un galenorien d'enfant qui apprend la langue d'un commerce voisin : *Ce que tu portes ne t'appartient pas encore.*
+
+Puis il se leva et entra dans la maison. Je n'ai pas cherché à le suivre. Je transcris la phrase mot pour mot — je l'ai répétée intérieurement tout le chemin de retour vers Arkhen pour ne pas la déformer. Le *encore* implique un devenir. Ce n'est pas un refus, c'est une condition. Je n'ai pas de cadre pour cela. J'attends d'en avoir un.
+
 ---
 
-Ce soir, les fumées du Mont Cendra sont visibles depuis la fenêtre de ma chambre à Mylaris. La nuit est claire, l'air de Cendara chargé de son humidité volcanique particulière qui fait briller les étoiles avec moins de netteté qu'en Caeloria mais avec plus de chaleur, comme si elles aussi retenaient quelque chose.
+Ce soir, les fumées du Mont Cendra sont visibles depuis la fenêtre de ma chambre à Mylaris. La nuit est claire, l'air de Cendara chargé de son humidité volcanique particulière qui fait briller les étoiles avec moins de netteté qu'à Haldria mais avec plus de chaleur, comme si elles aussi retenaient quelque chose.
 
 Je suis Délié. Je l'ai toujours été. Et ce soir, pour la première fois depuis cinq cent cinquante jours de route, je ne sais plus exactement ce que cela signifie — ou plutôt, je découvre que l'évidence avec laquelle je le savais reposait sur des prémisses que je n'avais jamais éprouvées.
 

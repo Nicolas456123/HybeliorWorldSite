@@ -116,7 +116,7 @@ Ce Cardinal n'a pas de date. Il a un effet : il est ce qui fait que vous lisez c
 
 L'événement qui clôt l'Ère de l'Alliance. **L'Éternel du Temps se blesse.** L'événement est universellement reconnu, son origine universellement disputée : les uns soutiennent qu'il fut attaqué par une présence venue d'au-delà des Cieux — une figure que certains nomment l'**Étranger des Heures** ; d'autres affirment qu'il se sacrifia volontairement pour soutenir un effondrement qui aurait sinon englouti des continents entiers ; d'autres encore murmurent qu'il fut **trahi par un autre Éternel**, sans préciser lequel — doctrine secrète qui a causé maints schismes internes. Les traditions orales d'Alkaran disent simplement, sans cause attribuée : *« le jour où l'horloge du monde s'est tordue »*.
 
-Les conséquences, elles, sont indiscutables. Depuis la Fracture, **le tissu temporel ondule** sur certaines régions — zones où l'on vieillit plus vite, d'autres où l'on stagne. L'Éternel blessé se retira en lui-même, ne marche plus parmi les mortels, et n'apparaît qu'à de très rares Liés, très purs ou très vieux.
+Les conséquences, elles, sont indiscutables. Depuis la Fracture, **le tissu temporel ondule** sur certaines régions — zones où l'on vieillit plus vite, d'autres où l'on stagne. L'Éternel blessé s'est retiré en lui-même. Il ne marche plus parmi les mortels, et n'apparaît qu'à de très rares Liés, très purs ou très vieux.
 
 > *« On apprend aux enfants d'Iskara à reconnaître les jours qui durent trop. On leur apprend à rentrer chez eux quand l'ombre ne bouge plus. On ne leur explique pas pourquoi. Ils l'apprendront en grandissant. »*
 >

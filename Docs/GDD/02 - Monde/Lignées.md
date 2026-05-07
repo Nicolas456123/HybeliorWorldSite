@@ -110,7 +110,7 @@ Les Vael'Somnix sont la lignée du **voile**. Pâles, presque translucides selon
 >
 > *— sage anonyme de Nysaria*
 
-Leur rapport à la Polyphonie est celui du **seuil** : dans l'entre-deux, dans le moment où le rêve devient veille. Depuis le Rêve Sans Convocation qui dissolut leur Confédération, leur présence s'est faite plus rare et plus énigmatique.
+Leur rapport à la Polyphonie est celui du **seuil** : dans l'entre-deux, dans le moment où le rêve devient veille. Depuis le Rêve Sans Convocation qui dissout leur Confédération, leur présence s'est faite plus rare et plus énigmatique.
 
 ### Les Panghoris — hors arbre commun
 
@@ -162,7 +162,7 @@ L'**exil**, lui, ne change pas la lignée. Un Vael'Somnix exilé reste Vael'Somn
 
 > *« J'ai épousé un Petravin. L'aîné a choisi sa langue ; le cadet n'a pas encore choisi ; la troisième dit qu'elle n'a pas à choisir, et c'est peut-être elle qui a raison. »*
 >
-> *— Velia, voyageuse, recueilli à Iskara*
+> *— Velia, voyageuse, recueillie à Iskara*
 
 ---
 

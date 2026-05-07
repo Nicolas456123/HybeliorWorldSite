@@ -20,7 +20,7 @@ Il arrive comme une décision — ferme, sans hostilité, mais sans compromis no
 
 Le navire avait amarré à Frostlin — un village de pêcheurs accroché à une corniche de glace qui surplombait la mer encore libre à cette saison. La tour de vigie du village se découpait contre un ciel de nuages bas, gris pâle avec la promesse d'une neige que les habitants lisaient dans la texture du vent et qui, me dit la femme qui gérait le débarcadère, arriverait dans deux jours. Elle me dit cela avec la neutralité factuelle d'une personne qui consulte une horloge. À Caeloria, la météo est une information, pas un sujet de conversation.
 
-Je restai une nuit à Frostlin, dans une chambre taillée à même la falaise de calcaire — les maisons du village sont des extensions des grottes naturelles, creusées et aménagées, les parois lisses sous la main, la roche froide malgré les braseros. Le lendemain matin, je pris la route côtière vers Duskoris, marchant dans un vent qui venait de la mer avec une régularité de soufflet, régulier et patient comme tout ce qui appartient à l'Azoria.
+Je restai une nuit à Frostlin, dans une chambre taillée à même la falaise de calcaire — les maisons du village sont des extensions des grottes naturelles, creusées et aménagées, les parois lisses sous la main, la roche froide malgré les braseros. Le lendemain matin, je pris la route côtière vers Duskoris, marchant dans un vent qui venait de la mer avec une régularité de soufflet, patient comme tout ce qui appartient à l'Azoria.
 
 ---
 
@@ -44,17 +44,17 @@ Lysse avait les yeux blancs.
 
 Je ne l'avais pas tout de suite remarqué.
 
-Dans la lumière de la Grotte Thermale, dans la vapeur et la lueur bleue des forges, les distinctions de couleur et de texture se brouillent. Lysse était assise à la table du repas que Seldra avait servi ce premier soir — un bouillon de poisson des abysses avec des racines blanches de la serre, du pain de seigle noir cuit au four communal de la falaise, des morceaux de fromage blanc d'un goût de glace et de sel que je n'aurais su décrire à personne de Evertia sans les confronter à l'expérience —, et Lysse était assise à sa place habituelle, mangeant avec la concentration appliquée des petits enfants qui ont appris les bonnes manières et les exécutent encore consciemment.
+Dans la lumière de la Grotte Thermale, dans la vapeur et la lueur bleue des forges, les distinctions de couleur et de texture se brouillent. Lysse était assise à la table du repas que Seldra avait servi ce premier soir : un bouillon de poisson des abysses avec des racines blanches des serres, du pain de seigle noir cuit au four communal de la falaise, des morceaux de fromage blanc d'un goût de glace et de sel que je n'aurais su décrire à personne d'Evertia sans le confronter à l'expérience. Lysse était à sa place habituelle, mangeant avec la concentration appliquée des petits enfants qui ont appris les bonnes manières et les exécutent encore consciemment.
 
 C'est quand elle leva les yeux vers moi, pour la première fois, que je vis.
 
 Les iris n'avaient pas de couleur. Pas le blanc laiteux d'une cécité — c'était différent, je connaissais la cécité, j'avais rencontré des aveugles à Evertia et dans les nations traversées. Les yeux aveugles ont une fixité, une façon de s'orienter vers le son plutôt que vers l'image, une absence de suivi des mouvements. Lysse regardait. Elle me regardait — elle suivit le mouvement de ma main quand je posai ma cuillère, elle tourna la tête quand Mervyn parla depuis l'autre côté de la table. Ses yeux fonctionnaient.
 
-Ils étaient blancs comme de l'ivoire, comme de la neige compactée, comme la surface intérieure de la glace éternelle de Silvarenth que j'avais vue en illustration dans un document haldrienne — une blancheur qui n'était pas absence de couleur mais présence d'une autre lumière.
+Ils étaient blancs comme de l'ivoire, comme de la neige compactée, comme la surface intérieure de la glace éternelle de Silvarenth que j'avais vue en illustration dans un document haldrien — une blancheur qui n'était pas absence de couleur mais présence d'une autre lumière.
 
 Arven vit que je les regardais. Il dit, avec la simplicité d'un homme qui a appris à anticiper cette réaction : *Lysse est une Bénie des Cieux. Le Conclave l'a confirmé à sa naissance.*
 
-Seldra ajouta quelque chose de plus doux, en regardant sa fille avec l'expression des mères qui ont traduit leur terreur initiale en quelque chose qu'elles peuvent vivre avec : *Elle voit très bien. Elle voit mieux que nous, en un sens.*
+Seldra ajouta quelque chose de plus doux, en regardant sa fille avec l'expression des mères qui ont traduit leur terreur initiale en quelque chose avec quoi elles peuvent vivre : *Elle voit très bien. Elle voit mieux que nous, en un sens.*
 
 Mervyn, le frère, ne dit rien. Il regardait son bouillon.
 
@@ -92,7 +92,7 @@ Sous le milieu. La formulation d'un enfant pour une localisation dans le corps �
 
 Je lui demandai ce qu'elle voyait.
 
-Elle réfléchit avec la sérieux absolu des enfants qui prennent les questions des adultes plus au sérieux que les adultes ne le font eux-mêmes. *Quelque chose qui tient*, dit-elle finalement. *Comme quand on tient une corde et que la corde tire. Vous la tenez depuis longtemps.*
+Elle réfléchit avec le sérieux absolu des enfants qui prennent les questions des adultes plus au sérieux que les adultes ne le font eux-mêmes. *Quelque chose qui tient*, dit-elle finalement. *Comme quand on tient une corde et que la corde tire. Vous la tenez depuis longtemps.*
 
 Je restai silencieux un moment.
 
@@ -116,9 +116,9 @@ Et elle avait dit que la corde changeait de direction.
 
 Je sortis mon cahier. Je traçai, comme je le faisais souvent dans les moments où la pensée dépasse la langue, une carte approximative — non pas géographique mais temporelle. Une chronologie des anomalies depuis le début du voyage. Les esprits de Warenthor qui se retirent. Les chevaux de Lythar qui refusent les creux de terrain. Les racines du Bosquet Primordial d'Ackerna qui saignent. Les Cauchemars Éveillés de Vytharia. Les naissances des Enfants aux Yeux Blancs de Caeloria, de plus en plus nombreuses. La pulsation du Mont Cendra qui s'accélère. Et maintenant : un Délié qui sent les pulsations. Un ancrage qui perçoit.
 
-La chronologie convergait. Pas vers un point géographique — vers un moment. Vers quelque chose qui approchait depuis toujours et qui n'avait pas encore de nom.
+La chronologie convergait. Pas vers un point géographique — vers un moment. Vers quelque chose qui approchait et qui n'avait pas encore de nom.
 
-On dit des Enfants aux Yeux Blancs qu'ils voient à travers la terre. Depuis les premières descriptions que j'avais entendues à Vytharia, en passant par les données du marchand sur leur nombre croissant, jusqu'à Lysse qui déplaçait ses pierres en cercles et qui décrivait, avec la matter-of-fact d'une enfant qui dit la couleur du ciel, ce qu'elle nommait *épaisseur*. Ils diraient voir ce qui monte. Ce qui — selon eux — viendrait par le dessous.
+On dit des Enfants aux Yeux Blancs qu'ils voient à travers la terre. Depuis les premières descriptions que j'avais entendues à Vytharia, en passant par les données du marchand sur leur nombre croissant, jusqu'à Lysse qui déplaçait ses pierres en cercles et qui décrivait, avec le naturel d'une enfant qui dit la couleur du ciel, ce qu'elle nommait *épaisseur*. Ils disent voir ce qui monte. Ce qui — selon eux — viendrait par le dessous.
 
 Si leur description est ce qu'elle paraît être, et si la lecture de Kharazir vaut quelque chose, alors les deux se recoupent : ce qu'ils voient et ce que d'autres commenceraient à sentir s'inscriraient dans la même direction. C'est l'hypothèse que je formule. Elle reste une hypothèse.
 
@@ -132,7 +132,7 @@ Il y en avait trois dans la ville — Lysse, un garçon de neuf ans du nom de To
 
 *S'intéresser comment ?* demandai-je.
 
-Arven tilla la stellarite quelques secondes avant de répondre. Il dit : *Le Conclave les présente comme des bénis. Mais les bénis ont des obligations. Ils sont... suivis. Des Veilleurs passent parfois pour les observer. Certaines familles trouvent cela rassurant.*
+Arven tailla la stellarite quelques secondes avant de répondre. Il dit : *Le Conclave les présente comme des bénis. Mais les bénis ont des obligations. Ils sont... suivis. Des Veilleurs passent parfois pour les observer. Certaines familles trouvent cela rassurant.*
 
 *Et d'autres non.*
 
@@ -160,7 +160,7 @@ Je note, sans en faire plus, que je comptais les enfants. Leur nombre, leur âge
 
 Pour la mère, j'essayai pourtant — je note cela en faveur de la rigueur, non en ma faveur. Elle s'appelait Vorenne. Arven m'avait donné l'étage de la falaise et le nom d'une voisine qui pourrait me présenter. Je montai, je frappai. Une porte qui ne s'ouvrit pas. Je redescendis. Je remontai le lendemain à une autre heure. La voisine me dit que Vorenne était sortie avec sa fille dans la grotte aux sources — tout le monde savait que c'était faux, l'enfant n'était plus sortie depuis trois mois, c'est ce qu'on m'avait dit la veille. Je remerciai la voisine. Je redescendis. Je ne remontai pas une troisième fois. J'écrivis dans la marge : *trois tentatives auraient suffi, j'en ai fait deux*. C'était faux aussi. Trois n'auraient pas suffi. Trois auraient été du forçage poli — le genre d'opiniâtreté qui s'autorise des prétextes parce qu'elle a une carte à finir. Je m'en suis tenu à deux et je me suis raconté que c'était une délicatesse. Ce n'était pas une délicatesse. C'était mon emploi du temps.
 
-J'aperçus Vorenne le matin de mon départ, sur la corniche, seule. Elle portait des seaux de neige fondue vers la pièce d'en haut. Elle marchait sans regarder personne. Elle ne pesait rien dans la lumière du matin caélorien — l'os à travers la chemise, le visage qui avait choisi quelque chose et n'en démordait plus. Je ne m'approchai pas. Une femme qui passe ses jours à protéger sa fille de ceux qui pourraient venir la regarder ne devrait pas être abordée par un cartographe étranger qui s'en va dans la même heure. Je me dis cela. C'est exact. Cela ne suffit pas tout à fait à me racheter ce moment-là, mais cela suffit à le justifier dans l'instant — et dans l'instant, c'est ce que ma Loi privée demande.
+J'aperçus Vorenne le matin de mon départ, sur la corniche, seule. Elle portait des seaux de neige fondue vers la pièce d'en haut. Elle marchait sans regarder personne. Elle ne pesait rien dans la lumière du matin caélorien — l'os à travers la chemise, le visage qui avait choisi quelque chose et n'en démordait plus. Je ne m'approchai pas. Une femme qui passe ses jours à protéger sa fille de ceux qui pourraient venir la regarder ne devrait pas être abordée par un cartographe étranger qui s'en va dans la même heure. Je me dis cela. C'est exact. Cela ne suffit pas tout à fait à me racheter ce moment-là, mais cela suffit à le justifier dans l'instant — et dans l'instant, c'est ce que ma méthode demande.
 
 Le jeune prêtre — Aldran, vingt-cinq ans, fils d'une famille de pêcheurs de Frostlin qui avait rejoint l'Ordo Caelum à seize ans pour des raisons qu'il n'avait pas précisées mais qui, à son ton, relevaient de la vocation réelle plutôt que de la tradition familiale — me parla de ce que les Veilleurs documentaient depuis deux ans.
 
@@ -194,9 +194,9 @@ Je m'assis seul dans ma chambre de falaise, sans allumer de chandelle supplémen
 
 J'étais seul.
 
-La solitude de ce voyage n'est pas toujours une même chose. Il y a la solitude du marcheur entre deux villes, celle des auberges où l'on n'est rien pour personne et où cela est reposant, celle de la nuit après une conversation importante où l'on reste avec ce qui a été dit et avec ce qu'on n'a pas su répondre. Cette nuit-là, c'était la troisième sorte.
+La solitude de ce voyage n'est pas toujours la même chose. Il y a la solitude du marcheur entre deux villes, celle des auberges où l'on n'est rien pour personne et où cela est reposant, celle de la nuit après une conversation importante où l'on reste avec ce qui a été dit et avec ce à quoi on n'a pas su répondre. Cette nuit-là, c'était la troisième sorte.
 
-J'avais cinq cent quatre-vingts jours de route dans le corps. J'avais traversé plus de nations que je n'aurais su en nommer il y a deux ans, quand j'avais quitté Evertia avec l'idée naïve d'un inventaire — un cartographe qui ferait la liste des anomalies, les mesurerait, les classerait, et pourrait peut-être en produire quelque chose d'utile pour les institutions qui disposaient des moyens de les traiter. Un cartographe humble et modeste qui saurait sa place dans la chaîne de la connaissance.
+J'avais cinq cent quatre-vingts jours de route dans le corps. J'avais traversé plus de nations que je n'aurais su en nommer il y a deux ans, quand j'avais quitté Kharazir avec l'idée naïve d'un inventaire — un cartographe qui ferait la liste des anomalies, les mesurerait, les classerait, et pourrait peut-être en produire quelque chose d'utile pour les institutions qui disposaient des moyens de les traiter. Un cartographe humble et modeste qui saurait sa place dans la chaîne de la connaissance.
 
 Ce que je croyais maintenant était plus lourd que l'inventaire.
 
@@ -232,7 +232,7 @@ Je pris la route du port.
 
 La neige couvrait Duskoris en silence. Les forges de stellarite brûlaient dans les profondeurs de la falaise, leur lueur bleue filtrant par les ouvertures comme des yeux dans la roche. La Grande Grotte Thermale exhalait sa vapeur dans le froid du matin, et ce nuage blanc montait depuis la falaise vers le ciel gris comme une question posée à des dieux qui lisent les étoiles.
 
-Je ne suis pas à Evertia. Il me reste des mois de route peut-être. Mais la route converge — je le sens maintenant comme je n'ai jamais senti les choses, avec quelque chose sous le sternum qui ne s'était pas réveillé avant le Mont Cendra et qui, depuis, ne s'est plus rendormi.
+Je ne suis pas arrivé. Il me reste des mois de route peut-être. Mais la route converge — je le sens maintenant comme je n'ai jamais senti les choses, avec quelque chose sous le sternum qui ne s'était pas réveillé avant le Mont Cendra et qui, depuis, ne s'est plus rendormi.
 
 La corde tire vers le bas.
 

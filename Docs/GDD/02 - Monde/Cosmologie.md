@@ -19,11 +19,13 @@ implementation: "[[Cosmology Spec]]"
 
 Il existe, dans presque toutes les traditions humaines, deux manières paresseuses de penser le sacré. La première est celle du **dieu unique** — une voix souveraine qui décide, ordonne, juge, et dont toutes les autres ne sont que les échos affaiblis. La seconde est celle du **panthéon classique** — une cour divine où les dieux se partagent les domaines comme des fonctionnaires se partagent les bureaux : l'un règne sur la mer, l'autre sur la guerre, un troisième sur l'amour, et tout cela tient parce qu'un grand père céleste empêche les querelles. Ces deux modèles ont l'avantage d'être lisibles. Ils ont le désavantage d'être faux.
 
-À Hybelior, on a refusé l'un comme l'autre. Non par défi théologique, mais par fidélité à ce que les sages nomment la **Polyphonie cosmique** — l'intuition que le monde n'est pas une voix, ni même une chorale ordonnée, mais une conversation à plusieurs niveaux qui se déploie en permanence et qui *fait* le monde au moment même où elle le dit. Aucune voix n'y règne pour toujours. Aucune voix n'y est éteinte pour toujours. Chaque voix a son timbre, sa prosodie, ses silences. Et la cohérence du monde — si l'on peut encore appeler cohérence une chose aussi fragile — naît de leur composition mouvante, jamais de leur soumission à un chef d'orchestre absent.
+À Hybelior, on a refusé l'un comme l'autre. Non par défi théologique, mais par fidélité à ce que les sages nomment la **Polyphonie cosmique**. C'est l'intuition que le monde n'est pas une voix, ni même une chorale ordonnée, mais une conversation à plusieurs niveaux qui se déploie en permanence et *fait* le monde au moment même où elle le dit.
+
+Aucune voix n'y règne pour toujours. Aucune voix n'y est éteinte pour toujours. Chaque voix a son timbre, sa prosodie, ses silences. Et la cohérence du monde — si l'on peut encore appeler cohérence une chose aussi fragile — naît de leur composition mouvante, jamais de leur soumission à un chef d'orchestre absent.
 
 Cette intuition change tout. Dans un monde polyphonique, **rien n'est jamais purement bon ni purement mauvais** — chaque chose porte la marque des voix qui l'ont composée, et ces voix ne s'accordent pas toujours. Dans un monde polyphonique, **aucun pouvoir n'est éternel** — ce qui est éloquent aujourd'hui peut se taire demain, non par défaite mais par déplacement de la conversation. Dans un monde polyphonique enfin, **la sagesse n'est jamais l'art de connaître la vérité**, mais celui d'écouter quelle voix domine maintenant et de s'y accorder sans pour autant trahir les autres.
 
-> *« Demande à un fou : "qui est dieu ?" Il te répondra. Demande à un sage : "qui parle, en ce moment, dans le ciel ?" Il écoutera d'abord, et te répondra peut-être."*
+> *« Demande à un fou : "qui est dieu ?" Il te répondra. Demande à un sage : "qui parle, en ce moment, dans le ciel ?" Il écoutera d'abord, et te répondra peut-être. »*
 >
 > *— proverbe attribué aux Silencieux du sanctuaire de Taciti, Skaldoria*
 
@@ -31,7 +33,11 @@ Cette intuition change tout. Dans un monde polyphonique, **rien n'est jamais pur
 
 ## Les Éternels — les cinq voix au fondement
 
-Au plus profond de la Polyphonie, il y a cinq voix que toutes les traditions reconnaissent, même celles qui les nomment autrement et celles qui prétendent les rejeter. On les appelle les **Éternels**. Ce ne sont pas des dieux au sens où l'on entend ce mot dans les religions naïves. Ce sont des **timbres fondamentaux** — des manières d'être au monde si profondes que toute autre voix s'enracine dans leur résonance. Aucun Éternel n'agit directement dans le monde des mortels. Aucun n'a d'autel où l'on puisse l'appeler à servir. Les théologiens les plus rigoureux disent même qu'on ne peut pas leur prier, seulement les *entendre*. Et entendre un Éternel n'est pas un acte volontaire : c'est une grâce, ou une épreuve, qui arrive sans qu'on l'ait demandée.
+Au plus profond de la Polyphonie, il y a cinq voix que toutes les traditions reconnaissent — même celles qui les nomment autrement, même celles qui prétendent les rejeter. On les appelle les **Éternels**.
+
+Ce ne sont pas des dieux au sens où l'entendent les religions naïves. Ce sont des **timbres fondamentaux** — des manières d'être au monde si profondes que toute autre voix s'enracine dans leur résonance. Aucun Éternel n'agit directement dans le monde des mortels. Aucun n'a d'autel où l'on puisse l'appeler à servir.
+
+Les théologiens les plus rigoureux disent même qu'on ne peut pas leur prier, seulement les *entendre*. Et entendre un Éternel n'est pas un acte volontaire : c'est une grâce, ou une épreuve, qui arrive sans qu'on l'ait demandée.
 
 ### Celestia — la voix de l'attention silencieuse
 
@@ -39,7 +45,9 @@ Celestia est la voix qui regarde. On dit d'elle qu'elle a tissé les constellati
 
 ### Tempora — la voix qui ordonne le temps
 
-Tempora est la voix de la séquence. Sans lui, rien ne précéderait rien, rien ne suivrait rien, et toute action serait à jamais simultanée à elle-même. C'est lui qui pose la différence entre **avant** et **après** ; c'est par lui qu'une promesse peut être tenue, qu'un regret peut peser, qu'une attente peut faire mûrir. Les théologiens du Rota Mundi affirment qu'il fut blessé jadis, lors d'un événement dont la mémoire elle-même a été disloquée, et que c'est de cette blessure que viennent les **Failles temporelles** — ces endroits du monde où passé et présent se chevauchent comme deux pages collées. D'autres traditions y voient simplement la respiration normale d'une voix trop vaste pour tenir dans une seule cadence. Aucune lecture n'a vaincu l'autre. Et c'est sans doute juste : Tempora lui-même refuserait qu'on tranche.
+Tempora est la voix de la séquence. Sans lui, rien ne précéderait rien, rien ne suivrait rien, et toute action serait à jamais simultanée à elle-même. C'est lui qui pose la différence entre **avant** et **après** ; c'est par lui qu'une promesse peut être tenue, qu'un regret peut peser, qu'une attente peut faire mûrir.
+
+Les théologiens du Rota Mundi affirment qu'il fut blessé jadis, lors d'un événement dont la mémoire elle-même a été disloquée. C'est de cette blessure que viendraient les **Failles temporelles** — ces endroits du monde où passé et présent se chevauchent comme deux pages collées. D'autres traditions y voient simplement la respiration normale d'une voix trop vaste pour tenir dans une seule cadence. Aucune lecture n'a vaincu l'autre. Et c'est sans doute juste : Tempora lui-même refuserait qu'on tranche.
 
 ### Noctis — la voix qui voile
 
@@ -47,11 +55,15 @@ Noctis n'est pas le mal, contrairement à ce qu'enseignent les versions populair
 
 ### Navigor — la voix du passage
 
-Navigor est la voix qui relie ce qui aurait pu rester séparé. Les mondes, les continents, les âmes, les rives. C'est par lui qu'un voyage est possible. C'est par lui qu'une mort est un passage et non un arrêt. C'est par lui que l'étranger peut devenir hôte. On le dit aujourd'hui plus discret qu'à d'autres âges — les chemins entre les mondes paraissent fermés, les desservants de Transitum rapportent des âmes qui errent sans atteindre leur destination. Les théologiens parlent de retrait. La Via Ventus, plus poétique, dit qu'il n'a pas cessé de parler — qu'il chuchote seulement, et que c'est nous qui avons désappris à entendre les voix basses.
+Navigor est la voix qui relie ce qui aurait pu rester séparé : les mondes, les continents, les âmes, les rives. C'est par lui qu'un voyage est possible. C'est par lui qu'une mort est un passage et non un arrêt. C'est par lui que l'étranger peut devenir hôte.
+
+On le dit aujourd'hui plus discret qu'à d'autres âges. Les chemins entre les mondes paraissent fermés ; les desservants de Transitum rapportent des âmes qui errent sans atteindre leur destination. Les théologiens parlent de retrait. La Via Ventus, plus poétique, dit qu'il n'a pas cessé de parler — qu'il chuchote seulement, et que c'est nous qui avons désappris à entendre les voix basses.
 
 ### Eldoria — la voix qui crée
 
-Eldoria est la voix de l'apparition — celle par qui une chose est, là où auparavant il n'y avait rien. Les théologiens d'Ignis Aeternum disent qu'elle a tissé la lumière, allumé les étoiles, ouvert les premiers feux dans le Vide. Aujourd'hui, on n'observe plus de naissance d'étoile. Les volcans en activité dégagent une chaleur que certains traditions associent à son souffle ; on rapporte des pulsations au Cœur de Cendra, et les prophètes du Mont Cendra parlent d'un Grand Rituel de Réveil. D'autres traditions, plus contemplatives, refusent l'idée qu'elle dorme. Eldoria, disent-elles, ne dort pas : elle médite. Et toute création authentique commence par une longue méditation.
+Eldoria est la voix de l'apparition — celle par qui une chose *est*, là où auparavant il n'y avait rien. Les théologiens d'Ignis Aeternum disent qu'elle a tissé la lumière, allumé les étoiles, ouvert les premiers feux dans le Vide.
+
+Aujourd'hui, on n'observe plus de naissance d'étoile. Les volcans en activité dégagent une chaleur que certaines traditions associent à son souffle ; on rapporte des pulsations au Cœur de Cendra, et les prophètes du Mont Cendra parlent d'un Grand Rituel de Réveil. D'autres traditions, plus contemplatives, refusent l'idée qu'elle dorme. Eldoria, disent-elles, ne dort pas : elle médite. Et toute création authentique commence par une longue méditation.
 
 > *« Cinq voix au fond du monde. Aucune ne te répondra si tu cries. Toutes te répondront si tu te tais. »*
 >
@@ -73,7 +85,7 @@ Chacun a sa voix, son domaine, sa manière de s'inscrire dans la Polyphonie. Cer
 
 **Terranu**, voix des terres fertiles, est la patience minérale qui permet aux récoltes, aux cités, aux civilisations. **Somnix** est la voix qui rêve — celle qui visite les esprits endormis, leur souffle des images, leur vole parfois leurs secrets. Les Somnium Vigil disent que sans Somnix, le monde ne saurait pas qu'il pourrait être autrement, et que c'est pour cela que toute révolte commence par un rêve.
 
-**Ignara** est le feu profond — pas la flamme du foyer, qui appartient aux Éthérés, mais le feu qui dort sous les volcans, le feu qui forge, le feu qui consume ce qui doit être renouvelé. **Sanguis** est la voix du sang — la lignée, la vie qui passe d'un corps à l'autre, la dette qu'on a envers ceux qui nous ont précédés. Les théologiens des continents tribaux la honorent plus que les autres ; les théologiens citadins l'oublient plus volontiers, à leur tort.
+**Ignara** est le feu profond — pas la flamme du foyer, qui appartient aux Éthérés, mais le feu qui dort sous les volcans, le feu qui forge, le feu qui consume ce qui doit être renouvelé. **Sanguis** est la voix du sang — la lignée, la vie qui passe d'un corps à l'autre, la dette qu'on a envers ceux qui nous ont précédés. Les théologiens des continents tribaux la honorent plus que les autres ; les théologiens citadins l'oublient plus volontiers, à tort.
 
 **Resonia** est la voix de la résonance — la musique, l'harmonie, la manière dont deux choses peuvent vibrer à l'unisson sans se confondre. C'est par elle qu'un chant collectif a un pouvoir qu'aucune voix solitaire ne peut égaler. **Vermis** enfin, la moins aimée mais la plus essentielle, est la voix de la décomposition — celle qui défait pour que d'autre chose puisse se faire. Sans Vermis, le monde s'engorgerait de ses propres œuvres. Les sages la vénèrent comme une amie sévère ; les naïfs la fuient comme une obscénité.
 
@@ -121,7 +133,7 @@ Le **Somnium Vigil** est le culte du Rêve Éveillé. Vénérant Somnix, Realis 
 
 Le **Foedus Animae** est le culte du Pacte des Âmes. Vénérant Anima, Mentor et Ancestralis, il enseigne que les âmes mortelles sont liées entre elles par des serments cosmiques, et que la mort n'est pas une rupture mais un déplacement dans la trame. Né d'une hérésie ancienne du Pacte Mémorisé, il est aujourd'hui pratiqué à Torkam, Skaldoria, Ulinor, et chez de nombreuses tribus dispersées. Ses contemplatifs, les **Silencieux**, ont fait de la méditation prolongée leur seule liturgie.
 
-> *« Neuf religions, et neuf vérités. Aucune n'est complète, aucune n'est fausse. Le sage les écoute toutes, le fanatique n'en entend qu'une, le sot n'en entend aucune."*
+> *« Neuf religions, et neuf vérités. Aucune n'est complète, aucune n'est fausse. Le sage les écoute toutes, le fanatique n'en entend qu'une, le sot n'en entend aucune. »*
 >
 > *— Hérésiarque Brann d'Iskara, "Lettres aux Disciples"*
 

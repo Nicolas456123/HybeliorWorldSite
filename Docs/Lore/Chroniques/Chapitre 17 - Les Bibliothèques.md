@@ -2,7 +2,7 @@
 tags: [lore, chronique]
 type: lore
 status: drafted
-last_review: 2026-05-06
+last_review: 2026-05-07
 needs_review_for: []
 ---
 # Chapitre 17 — Les Bibliothèques de Cristal
@@ -16,7 +16,7 @@ needs_review_for: []
 
 L'odeur d'Holvendar arrive avant la ville.
 
-Je veux dire ceci de façon précise, pas comme une métaphore : l'air se transforme à mesure qu'on s'approche, de quelque chose d'indéfinissable, d'une qualité presque métallique et froide qui n'appartient pas à la montagne elle-même mais aux montagnes telles que les Gryndoriens les ont travaillées. La roche cristalline émet une légère vibration dans l'atmosphère — j'apprendrai plus tard que c'est la lumière qui se réfracte en permanence à travers les veines de quartz affleurantes, qui échauffe légèrement l'air à des fréquences que les narines perçoivent sans que les yeux les voient. Un archiviste du nom de Belthran me l'expliquera le troisième jour, avec la précision satisfaite de quelqu'un qui a enfin trouvé quelqu'un à qui transmettre une information inutile. Je notai la chose. En Gryndor, aucune information n'est inutile — c'est la doctrine fondatrice, et elle infuse jusqu'à la façon dont l'air sent.
+Je veux dire ceci de façon précise, pas comme une métaphore : l'air se transforme à mesure qu'on s'approche, prend quelque chose d'indéfinissable, une qualité presque métallique et froide qui n'appartient pas à la montagne elle-même mais aux montagnes telles que les Gryndoriens les ont travaillées. La roche cristalline émet une très légère poussière minérale dans l'atmosphère — j'apprendrai plus tard que c'est l'usinage permanent des veines de quartz affleurantes par les outils des tailleurs, qui charge l'air d'une suspension trop fine pour être visible mais que les narines reconnaissent comme une signature. Un archiviste du nom de Belthran me l'expliquera le troisième jour, avec la précision satisfaite de quelqu'un qui a enfin trouvé quelqu'un à qui transmettre une information inutile. Je notai la chose. En Gryndor, aucune information n'est inutile — c'est la doctrine fondatrice, et elle infuse jusqu'à la façon dont l'air sent.
 
 J'arrivai par le col du Sud-Ouest au cinquante-huitième jour depuis que j'avais quitté Haldria, après seize jours de traversée en solitaire dans les hauts plateaux qui séparent les deux royaumes — une traversée dont je n'ai pas grand-chose à dire sinon qu'elle fut froide, longue, et utile à la façon dont les silences prolongés sont utiles : elle me laissa seul avec ce que j'avais accumulé depuis les mines d'Alkaran, depuis la porte de métal, depuis le Fragment qui pulse, depuis tout ce à quoi je n'avais pas encore eu le temps de faire face dans le mouvement incessant du voyage.
 
@@ -26,7 +26,7 @@ Je m'étais arrêté deux jours au sommet d'un col sans nom — la carte que j'a
 
 La convergence était réelle. J'en étais certain à présent — non pas de la façon dont on est certain d'un fait vérifié, mais de la façon dont on est certain d'une chose que le corps a su avant que l'esprit l'admette. Elle avait la texture d'une évidence retardée.
 
-Je descendis vers Holvendar avec ce poids dans la poitrine qui n'était pas de l'anxiété mais quelque chose d'adjacente : l'état d'un homme qui s'approche d'une réponse et qui sait que la réponse sera plus lourde que la question.
+Je descendis vers Holvendar avec ce poids dans la poitrine qui n'était pas de l'anxiété mais quelque chose d'adjacent : l'état d'un homme qui s'approche d'une réponse et qui sait que la réponse sera plus lourde que la question.
 
 J'écris *certain* et *évidence* et *réponse*. Trois mots que je n'aurais pas employés sans réserve il y a quatre mois. Je les laisse parce que je les ai écrits, et parce qu'on apprend autant de ce qu'on s'autorise à écrire que de ce qu'on s'interdit. Mais je note la dérive lexicale en bas de page. Un cartographe qui commence à se persuader qu'il *sait* — au lieu de *propose une lecture* — devient, lentement, un autre métier. Le sien ne sera plus le mien si je n'y prends pas garde.
 
@@ -34,7 +34,7 @@ J'écris *certain* et *évidence* et *réponse*. Trois mots que je n'aurais pas 
 
 Holvendar dépasse les descriptions qu'on en fait.
 
-Je l'avais lue — deux textes d'explorateurs alkraniens et un compte rendu diplomatique d'un négociateur haldriens —, et les descriptions étaient honnêtes dans leurs faits et incomplètes dans leur effet. Elles disaient : une ville taillée dans la montagne cristalline, des galeries voûtées éclairées par des cristaux luminescents, des rues qui sont des couloirs, des plafonds qui sont des cieux artificiels. Elles ne disaient pas ce que cela fait au corps d'entrer dans un espace où l'échelle a été repensée de fond en comble.
+Je l'avais lue — deux textes d'explorateurs alkaraniens et un compte rendu diplomatique d'un négociateur haldrien —, et les descriptions étaient honnêtes dans leurs faits et incomplètes dans leur effet. Elles disaient : une ville taillée dans la montagne cristalline, des galeries voûtées éclairées par des cristaux luminescents, des rues qui sont des couloirs, des plafonds qui sont des cieux artificiels. Elles ne disaient pas ce que cela fait au corps d'entrer dans un espace où l'échelle a été repensée de fond en comble.
 
 Parce que c'est ça, avant tout, la sensation d'Holvendar : une recalibration de l'échelle. Les galeries principales font vingt mètres de haut. La lumière cristalline — blanche, légèrement bleue, sans chaleur mais sans froideur non plus, une lumière qui se comporte comme si elle avait appris comment se comporter — arrive de partout et de nulle part, reflétée et réfractée depuis des cristaux enchâssés dans les voûtes si régulièrement qu'aucune ombre ne se forme au sol. On marche sans ombre dans les galeries d'Holvendar. J'y fis attention la première heure, cherchant la mienne instinctivement et ne la trouvant pas, avant de comprendre que c'était intentionnel — que les ingénieurs de la Restauration avaient calculé l'angle et la densité des cristaux précisément pour cela. Theldryn III avait voulu une ville sans zones d'obscurité. Pas par esthétique. Par philosophie.
 
@@ -44,7 +44,7 @@ Les Gryndoriens ne font pas la différence entre les deux.
 
 Le poste de contrôle des visiteurs étrangers se trouve à l'entrée occidentale de la ville, dans une galerie légèrement moins haute que les autres, meublée de tables de pierre sur lesquelles des fonctionnaires aux manches impeccables examinent les papiers avec l'attention méticuleuse de gens qui croient sincèrement que les papiers disent quelque chose d'essentiel.
 
-Je leur présentai mes lettres d'introduction — celles de Feylara, toujours, et celles que le consul haldriens de Lindarys m'avait accordées après que j'eus passé deux semaines à l'Académie des Astronomes à cartographier les relevés de leur télescope principal. Les lettres haldriennes pesaient plus lourd ici : Gryndor et Haldria entretiennent une correspondance intellectuelle séculaire, et la recommandation d'un astronome de Lindarys ouvre des portes qu'aucune autre clé ne touche.
+Je leur présentai mes lettres d'introduction — celles de Feylara, toujours, et celles que le consul haldrien de Lindarys m'avait accordées après que j'eus passé deux semaines à l'Académie des Astronomes à cartographier les relevés de leur télescope principal. Les lettres haldriennes pesaient plus lourd ici : Gryndor et Haldria entretiennent une correspondance intellectuelle séculaire, et la recommandation d'un astronome de Lindarys ouvre des portes qu'aucune autre clé ne touche.
 
 Le fonctionnaire qui m'examina — un homme d'âge mûr aux doigts tachés d'encre bleue, avec la posture de quelqu'un qui passe sa vie à regarder vers le bas puis vers le haut pour comparer — me demanda ma profession.
 
@@ -68,7 +68,7 @@ Il y avait sept niveaux. Je l'apprendrais plus tard.
 
 Les quartiers des Apprentis non affiliés occupent une galerie latérale de la cité, à mi-hauteur dans le flanc de la montagne, et les cellules qui les composent sont à la fois plus étroites et mieux conçues que tout hébergement que j'avais trouvé depuis Kharazir. Les murs sont couverts d'une couche de cristal poli qui régule la température avec une précision remarquable — ni chaud ni froid, exactement à la limite confortable, toute l'année. Le lit est étroit mais le bureau est vaste. La lampe cristalline s'ajuste à la pression du doigt. Il y a une étagère pour les livres et une encoche dans le mur à hauteur de la main droite qui, me dit mon voisin de chambre le lendemain, est calibrée pour tenir un carnet ouvert pendant qu'on dort, au cas où on se réveille avec une pensée.
 
-Mon voisin était un homme d'une cinquantaine d'années du nom de Thalvin Orsett, géologue de formation et de passion, venu de Pyrendor pour un séjour d'étude de six mois dans les collections de la Grande Bibliothèque. Il avait la silhouette de quelqu'un qui passe plus de temps dans des galeries souterraines que dans des pièces habitées — légèrement courbé, les yeux habitués à évaluer la profondeur dans des espaces exigus, les mains avec une callositié particulière aux doigts qui ne vient ni du travail agricole ni du travail militaire mais de quelque chose d'intermédiaire, du travail minutieux et répété dans la roche. Il me demanda, le premier soir au réfectoire commun où nous partageâmes un bol de soupe des fondations — un bouillon épais qui avait la saveur exacte de ce que la montagne doit sentir de l'intérieur, champignons de caverne et racines et quelque chose d'indéfinissable qui était soit un minéral soluble soit une technique de cuisson que je n'avais pas vue ailleurs —, quel était mon objet d'étude ici.
+Mon voisin était un homme d'une cinquantaine d'années du nom de Thalvin Orsett, géologue de formation et de passion, venu de Pyrendor pour un séjour d'étude de six mois dans les collections de la Grande Bibliothèque. Il avait la silhouette de quelqu'un qui passe plus de temps dans des galeries souterraines que dans des pièces habitées — légèrement courbé, les yeux habitués à évaluer la profondeur dans des espaces exigus, les mains avec une callosité particulière aux doigts qui ne vient ni du travail agricole ni du travail militaire mais de quelque chose d'intermédiaire, du travail minutieux et répété dans la roche. Il me demanda, le premier soir au réfectoire commun où nous partageâmes un bol de soupe des fondations — un bouillon épais qui avait la saveur exacte de ce que la montagne doit sentir de l'intérieur, champignons de caverne et racines et quelque chose d'indéfinissable qui était soit un minéral soluble soit une technique de cuisson que je n'avais pas vue ailleurs —, quel était mon objet d'étude ici.
 
 Je répondis que je cherchais à comprendre la géographie de certains phénomènes récents, des manifestations que plusieurs pays d'Ilthara avaient enregistrées et dont je tentais de cartographier la distribution.
 
@@ -94,7 +94,7 @@ Trois jours qui ne furent pas perdus — rien, en Gryndor, n'est jamais perdu po
 
 C'était l'intitulé exact de la catégorie : sujet d'étonnement. Gryndoriens.
 
-Je passai le premier jour dans la section cartographie, à comparer mes propres relevés avec les archives officielles — cherchant des discordances, des zones d'Ilthara que les cartes officielles représentaient différemment selon les époques, des lieux qui avaient glissé de position d'une carte à l'autre non pas parce que la géographie avait changé mais parce que quelque chose rendait leur localisation difficile à maintenir stable. Je trouvai sept telles zones. Je les marquai dans mon carnet avec ma propre notation.
+Je passai le premier jour dans la section cartographie, à comparer mes propres relevés avec les archives officielles — cherchant des discordances, des zones d'Ilthara que les cartes officielles représentaient différemment selon les époques, des lieux qui avaient glissé de position d'une carte à l'autre non pas parce que la géographie avait changé mais parce que quelque chose rendait leur localisation difficile à maintenir stable. Je trouvai sept zones de cette sorte. Je les marquai dans mon carnet avec ma propre notation.
 
 L'une d'entre elles était dans la région de Tolvandor, à quarante kilomètres au sud-est d'une ville nommée Zyrthar. Elle portait une annotation sur la carte de 10 075 après l'Aube — il y a deux siècles — et sur les cartes suivantes, plus rien. L'annotation de 10 075 disait simplement : *Ordavan. Village. 200 âmes environ.*
 
@@ -120,7 +120,7 @@ Elle dit, sans me regarder, à voix extrêmement basse et avec la précision de 
 
 Selvorn m'accorda une audience le matin du troisième jour, dans une salle qui n'était pas sa bibliothèque principale mais une petite pièce latérale où il recevait les visiteurs — une pièce sans livres apparents, ce qui en Gryndor signifie soit une pièce de transit, soit une pièce de danger. Deux chaises de pierre. Une table basse. Pas de fenêtre, mais deux sources de lumière cristalline dans les angles qui maintenaient l'espace dans une clarté blanche et constante.
 
-Selvorn était un homme grand, maigre d'une maigreur qui n'était pas pathologique mais fonctionnelle — le corps d'un homme qui mange exactement ce dont il a besoin et rien de plus, qui dort exactement le nombre d'heures requis, qui a optimisé sa propre physiologie comme on optimise un instrument. Il avait des cheveux gris coiffés avec la régularité d'une courbe tracée à l'équerre, et des yeux d'un brun doré qui regardaient avec la qualité d'attention que j'associe non pas aux hommes intelligents mais aux hommes capables — deux choses distinctes que j'avais appris à distinguer sur les routes.
+Selvorn était un homme grand, maigre d'une maigreur qui n'était pas pathologique mais fonctionnelle — le corps d'un homme qui mange exactement ce dont il a besoin et rien de plus, qui dort exactement le nombre d'heures requis, qui a optimisé sa propre physiologie comme on optimise un instrument. Il avait des cheveux gris coiffés avec la régularité d'une ligne tracée à l'équerre, et des yeux d'un brun doré qui regardaient avec la qualité d'attention que j'associe non pas aux hommes intelligents mais aux hommes capables — deux choses distinctes que j'avais appris à distinguer sur les routes.
 
 Il m'accueillit en disant mon nom et mon statut Vael'Kurash sans consulter aucun document, ce qui signifiait qu'il avait préparé cette audience. Il dit : « Un cartographe exilé de Kharazir, porteur de lettres haldriennes et avaloréennes, qui demande à parler de la Faille de Tempora. » Une pause. « C'est inhabituellement convergent. »
 
@@ -138,7 +138,7 @@ Ce n'était pas une question. Je répondis oui.
 
 Il dit : « Il est venu ici aussi. » Un silence. « Il y a vingt-deux ans. »
 
-Le chiffre différait légèrement de ce que je savais — j'avais estimé vingt ans d'après la lettre de Thalendris, mais les lettres ne sont jamais datées avec précision. Vingt-deux ans. Mon père avait trente ans à l'époque. Il n'était pas encore cartographe — ou plutôt il venait d'obtenir sa certification, la même année que celle qu'on me révoqua quarante ans plus tôt.
+Le chiffre différait légèrement de ce que je savais — j'avais estimé vingt ans d'après la lettre de Thalendris, mais les lettres ne sont jamais datées avec précision. Vingt-deux ans. Mon père avait trente ans à l'époque. Il venait d'obtenir sa propre certification de cartographe — celle dont on me dépouillerait, moi, deux décennies plus tard.
 
 Je demandai à Selvorn si mon père lui avait parlé.
 
@@ -180,7 +180,7 @@ En trois minutes. Ce fut Selvorn qui me dit cela, ensuite, presque malgré lui �
 
 ---
 
-Le témoin s'appelait Ardyn Thell. Il avait dix-sept ans à l'époque — il en avait soixante-quinze à présent —, et il était berger dans les collines à trois kilomètres au nord d'Ordavan, poussant ses bêtes vers un pâturage de haute altitude quand il vit la chose se produire.
+Le témoin s'appelait Ardyn Thell. Il avait dix-sept ans à l'époque — il en avait soixante-quinze à présent —, et il était berger dans les collines à trois lieues au nord d'Ordavan, poussant ses bêtes vers un pâturage de haute altitude quand il vit la chose se produire.
 
 Je ne pus pas lui parler directement. Selvorn me l'interdit, et me donna une raison qui n'était pas la vraie raison : qu'Ardyn Thell était un vieil homme en mauvaise santé et que les Maîtres-Archivistes avaient décidé de le protéger des visiteurs qui lui ravivaient des mémoires traumatiques. La vraie raison — je la sus grâce à Thalvin Orsett, le géologue de Pyrendor, à qui des collègues de Tolvandor avaient confié des choses que les archivistes n'avaient pas dites — était qu'Ardyn Thell avait été officiellement classifié comme témoin de niveau cinq par le Conseil des Sages, ce qui signifiait que toute consultation de sa déposition nécessitait une autorisation signée par trois membres du Conseil, et que quiconque demandait cette autorisation était automatiquement signalé à la Garde Cristalline.
 
@@ -298,7 +298,7 @@ Je devrais m'arrêter ici, et je ne m'arrête pas. La phrase de Selvorn est bell
 
 Je sais cela en l'écrivant. Je sais aussi que je vais tout de même la traiter comme une clé. C'est l'aveu le plus honnête de la soirée.
 
-Je repliai la feuille. La mis dans ma chemise, contre la peau, à côté du Fragment Zéro qui pulsait doucement contre ma poitrine comme un deuxième cœur. Deux pulsations légèrement déphasées dans le noir.
+Je repliai la feuille. La mis dans ma chemise, contre la peau. La mémoire du Fragment Zéro — sa pulsation dans la roche d'Altram, le rythme que mes paumes en avaient gardé — battait toujours quelque part en moi, comme un deuxième cœur que la distance n'avait pas éteint. Deux choses légèrement déphasées dans le noir.
 
 Je partis pour Ordavan le lendemain à l'aube.
 

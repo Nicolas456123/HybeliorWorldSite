@@ -16,13 +16,13 @@ needs_review_for: []
 
 Le premier son de Thalmaris fut une voix humaine.
 
-Pas un instrument, pas le vent dans des formations rocheuses — une voix, une seule, montant d'une colline en avant de moi comme une fumée verticale dans l'air immobile du matin. Je m'étais réveillé dans la grange d'un fermier endorien dont le nom m'avait résisté à force de syllabes, après avoir traversé depuis deux jours un couloir de plaines agricoles que les cartes appellent « territoire frontalier non administré » et que les habitants appellent simplement « entre les deux ». Entre Cendara et Thalmaris, entre une nation et une autre, dans cet espace que les géographes aiment parce qu'il admet l'incertitude.
+Pas un instrument, pas le vent dans des formations rocheuses — une voix, une seule, montant d'une colline en avant de moi comme une fumée verticale dans l'air immobile du matin. Je m'étais réveillé dans la grange d'un fermier endorien dont je n'étais jamais parvenu à retenir le nom, après avoir traversé depuis deux jours un couloir de plaines agricoles que les cartes appellent « territoire frontalier non administré » et que les habitants appellent simplement « entre les deux ». Entre Cendara et Thalmaris, entre une nation et une autre, dans cet espace que les géographes aiment parce qu'il admet l'incertitude.
 
 La voix chantait quelque chose que je ne compris pas — thalmarien, que je parlais à peine, une langue construite autour des voyelles longues et des consonnes qui portent, une langue faite pour être entendue de loin. Mais l'ignorance du sens ne m'empêchait pas d'entendre l'architecture du chant : une montée en trois paliers, une suspension au troisième qui s'étirait comme si la note attendait une permission, puis une descente non pas vers le point de départ mais vers un endroit voisin, légèrement différent, comme si la voix avait voyagé pendant la suspension et n'était pas revenue tout à fait au même endroit.
 
 J'ai pensé à mes cartes. Ce mouvement me rappelait quelque chose que je dessinais quand le terrain offrait une ligne de crête que le regard suit jusqu'à un point de bascule, et depuis lequel la pente descend vers une autre vallée que celle d'où l'on est monté. La voix faisait la même chose : elle montait et basculait, et ce qu'elle découvrait de l'autre côté n'était pas ce qu'elle avait laissé.
 
-Pardine était à côté de moi, oreilles dressées. Mon âne entendait mieux que moi et connaissait depuis l'Alkaran cette façon de signaler quelque chose d'inhabituel sans pour autant s'en alarmer — les oreilles debout, le corps immobile, l'attention complète mais calme. Le chant ne le perturbait pas. Il le regardait comme on regarde une chose qu'on ne comprend pas encore mais qu'on reconnaîtra dans un instant.
+Pardine était à côté de moi, oreilles dressées. Ma mule entendait mieux que moi et connaissait depuis l'Alkaran cette façon de signaler quelque chose d'inhabituel sans pour autant s'en alarmer — les oreilles debout, le corps immobile, l'attention complète mais calme. Le chant ne la perturbait pas. Elle le regardait comme on regarde une chose qu'on ne comprend pas encore mais qu'on reconnaîtra dans un instant.
 
 Je suis monté vers la colline pour trouver d'où venait la voix.
 
@@ -44,13 +44,13 @@ Je répondis que oui — c'était presque toujours vrai, à ce stade du voyage.
 
 ---
 
-Brennan avait un sac derrière la souche, et dans ce sac, avec la désinvolture des gens qui voyagent souvent et savent exactement où tout est rangé, il produisit du pain plat aux herbes, un fromage de brebis encore tendre, deux poires et une petite gourde de vin blanc que je reconnus à la première gorgée comme étant d'Azuralis — légèrement minéral, avec cette pointe de salinité que les côtes thalmarienne donnent aux vignes proches de la mer. Nous mangeâmes assis sur la souche et sur le sol de bouleaux, Pardine qui broutait derrière nous, et Brennan qui reprit son luth et joua doucement pendant que nous mangions — non pas pour moi, j'en eus l'impression, mais pour lui-même, comme on fredonne quelque chose qu'on a en tête et dont on a besoin de vérifier que c'est encore là.
+Brennan avait un sac derrière la souche, et dans ce sac, avec la désinvolture des gens qui voyagent souvent et savent exactement où tout est rangé, il produisit du pain plat aux herbes, un fromage de brebis encore tendre, deux poires et une petite gourde de vin blanc que je reconnus à la première gorgée comme étant d'Azuralis — légèrement minéral, avec cette pointe de salinité que les côtes thalmariennes donnent aux vignes proches de la mer. Nous mangeâmes assis sur la souche et sur le sol de bouleaux, Pardine qui broutait derrière nous, et Brennan qui reprit son luth et joua doucement pendant que nous mangions — non pas pour moi, j'en eus l'impression, mais pour lui-même, comme on fredonne quelque chose qu'on a en tête et dont on a besoin de vérifier que c'est encore là.
 
 Je lui demandai ce qu'il avait chanté en montant depuis la plaine.
 
 Il répondit sans lever les yeux du luth : « Une histoire que j'essaie de finir depuis six mois. » Puis, avec le sourire de quelqu'un qui fait un aveu légèrement honteux : « Je n'arrive pas à trouver la note finale. Elle devrait aller quelque part que je n'ai pas encore entendu. »
 
-Il y avait dans ces mots une façon de parler du travail de création que je n'avais rencontré nulle part auparavant — non pas comme un problème à résoudre, mais comme un lieu à atteindre. La note finale était quelque part. Elle existait déjà. Il s'agissait seulement d'y arriver.
+Il y avait dans ces mots une façon de parler du travail de création que je n'avais rencontrée nulle part auparavant — non pas comme un problème à résoudre, mais comme un lieu à atteindre. La note finale était quelque part. Elle existait déjà. Il s'agissait seulement d'y arriver.
 
 Je lui demandai — peut-être maladroitement, peut-être par la fascination précise de quelqu'un dont le métier consiste à représenter des espaces inconnus — comment on pouvait chercher un endroit qu'on n'avait pas encore visité dans sa propre musique.
 
@@ -70,7 +70,7 @@ Il dit : « C'est exactement ce que je fais. »
 
 J'ai marché avec Brennan les deux jours suivants jusqu'à Ostarith, la capitale. Il avait sa propre monture — un mulet gris d'âge indéterminable, qu'il appelait Sombre avec le sérieux d'une plaisanterie qui a fini par devenir vraie. Sombre et Pardine se regardèrent avec la méfiance réservée des animaux qui reconnaissent une appartenance commune et préfèrent néanmoins ignorer ses implications.
 
-Brennan parlait peu, chantait souvent — pas toujours de façon audible, parfois juste les lèvres qui bougeaient, les doigts qui faisaient sur les flancs de la bête les gestes de jouer un accord. Je l'observais du coin de l'œil, avec la fascination d'entomologiste que m'ont appris les années à regarder les différents peuples que je traversais. Un barde thalmarien en route ne s'ennuie jamais et ne s'arrête jamais vraiment de travailler. La route elle-même est une matière.
+Brennan parlait peu, chantait souvent — pas toujours de façon audible, parfois juste les lèvres qui bougeaient, les doigts qui faisaient sur les flancs de la bête les gestes de jouer un accord. Je l'observais du coin de l'œil, avec la fascination d'entomologiste que m'avaient apprise les années passées à regarder les différents peuples que je traversais. Un barde thalmarien en route ne s'ennuie jamais et ne s'arrête jamais vraiment de travailler. La route elle-même est une matière.
 
 Le second jour, il me demanda si je connaissais le Cantus Mundi.
 
@@ -122,7 +122,7 @@ Je relevai les yeux.
 
 Il dit : « C'est ainsi que les Cantori l'appellent — la résonance qu'ils prêtent à Cantor, et qu'ils disent courir sous la roche, sous la musique, sous le silence. Certains affirment l'entendre dans les mines. D'autres dans les forêts. D'autres dans les grandes harmoniques des chœurs. On rapporte de Valdren — le fondateur de Thalmaris — qu'il disait que son instrument résonnait seul quand il approchait des endroits où la voix de Cantor passe près de la surface. Tous les bardes ne donnent pas le même nom à ce qu'ils perçoivent ; certains préfèrent dire « le fond du monde », d'autres « la note tenue ». Aucune de ces lectures ne s'est jamais imposée comme la seule. »
 
-Il s'arrêta. Puis, d'un ton légèrement différent — plus prudent, moins professorel : « Vous n'êtes pas musicien, et pourtant vous l'entendez. »
+Il s'arrêta. Puis, d'un ton légèrement différent — plus prudent, moins professoral : « Vous n'êtes pas musicien, et pourtant vous l'entendez. »
 
 Je ne répondis pas tout de suite. Je regardais Ostarith qui s'étendait devant nous dans la lumière du matin, et j'essayais de comprendre ce que cela voulait dire — ce que je portais en moi depuis les mines d'Alkaran, depuis les arbres de Trinoria dont j'avais senti les vibrations dans les semelles de mes bottes, depuis les nuits de Cendara où quelque chose dans l'air des laboratoires m'avait donné une sensation d'écoute que je n'avais pas su nommer.
 
@@ -134,7 +134,7 @@ Brennan dit : « Peut-être. Ou peut-être que "entendre" n'est qu'un mot parmi 
 
 Ostarith méritait ses légendes.
 
-Le Palais du Chant — je le vis de loin avant d'y mettre les pieds, et cette vision valait à elle seule la traversée d'Endora. Marbre blanc et cristal de résonance, les toitures conçues comme des cloches inversées, les rues en dessous taillées pour canaliser le vent en mélodies que je ne comprenais pas mais que mon corps reconnaissait comme belles avec une certitude plus physique qu'intellectuelle. J'ai passé ma vie à dessiner des espaces sur le papier. Ostarith était un espace dessiné pour l'oreille, avec le même soin qu'un architecte met dans les proportions visuelles. Il y avait une intelligence dans la disposition des places, dans les angles des facades, dans la largeur des ruelles — une intelligence qui n'était pas décorative mais fonctionnelle, qui visait à produire non pas l'effet de la beauté mais la beauté elle-même, par accumulation de causes acoustiques.
+Le Palais du Chant — je le vis de loin avant d'y mettre les pieds, et cette vision valait à elle seule la traversée d'Endora. Marbre blanc et cristal de résonance, les toitures conçues comme des cloches inversées, les rues en dessous taillées pour canaliser le vent en mélodies que je ne comprenais pas mais que mon corps reconnaissait comme belles avec une certitude plus physique qu'intellectuelle. J'ai passé ma vie à dessiner des espaces sur le papier. Ostarith était un espace dessiné pour l'oreille, avec le même soin qu'un architecte met dans les proportions visuelles. Il y avait une intelligence dans la disposition des places, dans les angles des façades, dans la largeur des ruelles — une intelligence qui n'était pas décorative mais fonctionnelle, qui visait à produire non pas l'effet de la beauté mais la beauté elle-même, par accumulation de causes acoustiques.
 
 Brennan m'installa chez un boulanger de sa connaissance, une femme nommée Sydra dont le four à pain était adjacent à une auberge dont elle occupait aussi la moitié. Sydra était petite, rapide, d'une bonne humeur professionnelle — le genre de bonne humeur qui n'a pas besoin d'être entretenue, qui existe dans les mains, dans la façon de poser les choses, dans l'attention routinière à ce qui doit être fait. Elle m'accueillit en galenorien approximatif, me montra une chambre au premier étage d'où l'on voyait une ruelle qui donnait sur une place assez large pour que des musiciens s'y installent — ce qu'ils faisaient, à toute heure, en rotation, comme si la place était une scène dont personne ne se souciait d'administrer le programme.
 
@@ -186,7 +186,7 @@ Brennan dit lentement : « Vous pensez que ce que nous appelons le Souffle de Ca
 
 Je répondis que je ne savais pas. Que je collectais des observations. Que je n'avais pas encore assez de points de mesure pour dessiner une ligne.
 
-Il dit : « Un cartographe. » Et il y avait dans son ton quelque chose que je n'arrivai pas à identifier immédiatement — pas de la moquerie, pas non plus de la simple approbation. Plutôt la reconnaissance d'une approche qu'il n'aurait pas eue lui-même et dont la légitimité ne lui paraissait pas évidente mais dont l'utilité lui apparaissait.
+Il dit : « Un cartographe. » Et il y avait dans son ton quelque chose que je n'arrivai pas à identifier immédiatement — pas de la moquerie, pas non plus de la simple approbation. Plutôt la reconnaissance d'une approche qu'il n'aurait pas eue lui-même, dont la légitimité ne lui paraissait pas évidente, mais dont l'utilité ne lui échappait pas.
 
 ---
 
@@ -266,4 +266,4 @@ Je sortis mon carnet et j'écrivis, dans l'obscurité, au jugé : *Quelque chose
 
 *Les Cantori de Thalmaris enseignent que la musique n'est pas, pour eux, une métaphore de la résonance du monde — qu'elle en serait l'accès direct. C'est leur lecture, et elle n'est pas la seule. Si elle a quelque vérité — si l'on peut entendre ce que cette tradition appelle le Souffle de Cantor par la musique, et ce que d'autres appellent autrement par les arbres, par la roche, par n'importe quel canal qui conduit assez loin dans l'écoute — alors peut-être que le canal importe moins que la disponibilité de celui qui écoute. Mais ce n'est qu'une hypothèse de cartographe qui aligne des points.*
 
-*Je pars pour Avalor demain. Je suis, dit-on, le seul continent où les esprits des arbres sont sujets de droit. Je suis curieux de ce que ça change dans la façon d'entendre.*
+*Je pars pour Avalor demain. C'est, dit-on, le seul pays où les esprits des arbres sont sujets de droit. Je suis curieux de ce que ça change dans la façon d'entendre.*

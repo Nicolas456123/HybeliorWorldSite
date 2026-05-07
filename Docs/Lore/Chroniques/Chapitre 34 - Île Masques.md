@@ -24,15 +24,15 @@ Cette distinction est peut-être la plus importante que j'aie eu à poser depuis
 
 La traversée prit sept jours depuis Nectoria.
 
-Sept jours sur un navire de pêche dont le capitaine — un homme de Haldria reconverti dans des routes commerciales que tout le monde considérait comme trop risquées — ne me posa jamais de question sur ma destination mais haussa le prix à chaque journée supplémentaire vers le sud-ouest, avec la précision arithmétique d'un homme qui calcule le risque en temps réel. Au quatrième jour, quand je lui indiquai la direction finale, il haussa le prix encore une fois, dit trois mots en haldr que je ne sus pas traduire exactement mais dont le sens était approximativement *c'est votre problème désormais*, et continua à tenir la barre.
+Sept jours sur un navire de pêche dont le capitaine — un homme de Haldria reconverti dans des routes commerciales que tout le monde considérait comme trop risquées — ne me posa jamais de question sur ma destination mais haussa le prix à chaque journée supplémentaire vers le sud-ouest, avec la précision arithmétique d'un homme qui calcule le risque à mesure qu'il l'encourt. Au quatrième jour, quand je lui indiquai la direction finale, il haussa le prix encore une fois, dit trois mots en haldr que je ne sus pas traduire exactement mais dont le sens était approximativement *c'est votre problème désormais*, et continua à tenir la barre.
 
 Les brumes commencèrent au cinquième jour.
 
-Non pas les brumes ordinaires d'une mer froide — pas l'opacité grise de l'humidité accumulée au-dessus de l'eau froide. Une brume d'une texture particulière, légèrement dense, qui n'avait pas la transparence habituelle de l'eau en suspension mais quelque chose de plus — une présence dans l'épaisseur, une façon d'absorber le son et la lumière qui ne correspondait pas à la physique normale de la brume marine. Elle n'était pas noire — les récits d'Aldren parlent d'une brume noire et je veux être précis : celle que nous traversâmes était blanche, presque blanche, d'un blanc très légèrement violacé que la lumière du matin rendait difficile à définir. Comme regarder à travers un verre qui n'est pas tout à fait transparent.
+Non pas les brumes ordinaires d'une mer froide — pas l'opacité grise de l'humidité accumulée au-dessus de l'eau froide. Une brume d'une texture particulière, légèrement dense, qui n'avait pas la transparence habituelle de l'eau en suspension mais quelque chose de plus — une présence dans l'épaisseur, une façon d'absorber le son et la lumière qui ne correspondait pas à la physique normale de la brume marine. Elle n'était pas noire — les récits d'Aldren parlent d'une brume noire et je veux être précis : celle que nous traversâmes était presque blanche, d'un blanc très légèrement violacé que la lumière du matin rendait difficile à définir. Comme regarder à travers un verre qui n'est pas tout à fait transparent.
 
 Le compas cessa de fonctionner au sixième jour.
 
-Je ne notai pas cela avec l'effroi que les récits de navigateurs y associent. Je le notai comme une donnée. Le capitaine le nota aussi, avec le stoïcisme de quelqu'un qui l'attendait. Il navigua à l'estime — par le ressenti du vent, par des méthodes que les marins haldriens développent pour les situations où les instruments abandonnent. Je m'aperçus que lui aussi faisait confiance à quelque chose d'autre qu'un calcul. Il regardait l'eau. La façon dont elle bougeait, dont les vagues petites et serrées se formaient dans une direction particulière. Il suivit cette direction.
+Je ne notai pas cela avec l'effroi que les récits de navigateurs y associent. Je le notai comme une donnée. Le capitaine le nota aussi, avec le stoïcisme de quelqu'un qui l'attendait. Il navigua à l'estime — par le ressenti du vent, par des méthodes que les marins haldriens développent pour les situations où les instruments abandonnent. Je m'aperçus qu'il faisait confiance à quelque chose d'autre qu'un calcul. Il regardait l'eau. La façon dont elle bougeait, dont les vagues petites et serrées se formaient dans une direction particulière. Il suivit cette direction.
 
 Au septième matin, les falaises noires de Nysaria se dressèrent dans la brume.
 
@@ -54,15 +54,15 @@ J'entrai dans la forêt.
 
 ---
 
-Ce qui se passa dans la forêt de Nysaria pendant les premières heures, je le note avec prudence, parce que je ne suis pas certain que la catégorie des événements auxquels j'ai coutume s'applique.
+Ce qui se passa dans la forêt de Nysaria pendant les premières heures, je le note avec prudence, parce que je ne suis pas certain que la catégorie d'événements à laquelle j'ai coutume de me référer s'applique.
 
 La forêt était traversée par des chemins. Pas des chemins accidentels, pas des traces de gibier — des chemins intentionnels, soignés, entretenus. Des chemins pavés de pierre noire polie, légèrement incurvés à intervalles réguliers, comme si leur tracé avait suivi une logique que je comprendrais plus tard ou pas du tout. Des lumières violettes aux intervalles de vingt pas — pas des torches, pas des lanternes, quelque chose de fixé dans la roche elle-même, un éclat permanent sans combustion visible.
 
 Je suivis un chemin sans avoir décidé lequel. Ou le chemin me suivit. La distinction à Nysaria avait ce même flou qu'à Vytharia, mais d'un type différent — le Voile de Vytharia offre à la perception des alternatives. Nysaria ne propose pas d'alternatives. Elle propose une seule réalité, précise et opaque, qui n'a pas besoin de vous convaincre.
 
-Je passai près d'une structure — une tour effilée de pierre noire, exactement comme les observateurs l'avaient décrit depuis la mer. Elle était plus grande de près. Beaucoup plus grande. L'architecture n'avait aucun équivalent que mes onze mois de voyage m'avaient appris à reconnaître — pas le calcul rationnel de Galenor, pas l'organique de Warenthor, pas le symbolique de Celethor. Des formes angulaires qui se répétaient à des échelles différentes, la même forme dans la disposition des pierres du chemin et dans la disposition des tours visibles au-dessus de la canopée, comme si un seul schéma avait généré tout le reste.
+Je passai près d'une structure — une tour effilée de pierre noire, exactement comme les observateurs l'avaient décrit depuis la mer. Elle était plus grande de près. Beaucoup plus grande. L'architecture n'avait aucun équivalent que mes deux années de voyage m'avaient appris à reconnaître — pas le calcul rationnel de Galenor, pas l'organique de Warenthor, pas le symbolique de Celethor. Des formes angulaires qui se répétaient à des échelles différentes, la même forme dans la disposition des pierres du chemin et dans la disposition des tours visibles au-dessus de la canopée, comme si un seul schéma avait généré tout le reste.
 
-J'entendis — non. Je perçus. Je ne suis pas sûr que le son soit le bon registre. Quelque chose qui ressemblait à un son comme une vibration ressemble à une note de musique — la même fréquence, pas le même médium. Depuis la roche. Depuis le sol. Depuis le dessous du sol. Le même quelque chose qui avait noté ma présence sur le quai de Nectoria, mais ici amplifié, ici proche, ici d'une clarté que je ne savais pas nommer mais que mon corps reconnut.
+J'entendis — non. Je perçus. Je ne suis pas sûr que le son soit le bon registre. Quelque chose qui ressemblait à un son sans en être un, comme une vibration que l'oreille n'aurait su reconnaître. Depuis la roche. Depuis le sol. Depuis le dessous du sol. Le même quelque chose qui avait noté ma présence sur le quai de Nectoria, mais ici amplifié, ici proche, ici d'une clarté que je ne savais pas nommer mais que mon corps reconnut.
 
 Puis quelqu'un sortit des arbres.
 
@@ -140,7 +140,7 @@ La vibration montait plus fort ici — la respiration de ce qui était en dessou
 
 Je reculai.
 
-Je pensai aux ancêtres d'Ulinor qui m'avaient parlé du cycle pré-Arrachement — de quelque chose qui se répète, qui s'était passé avant et qui se repasse, une amplitude de temps si grande que les civilisations humaines n'en voient qu'un moment. Je pensai à la troisième langue du Message, à ces symboles de Kharazir que mon corps reconnaissait sans que mon esprit puisse les lire. Je pensai à mon père — Aldric, qui avait fait ce voyage avant moi, qui avait peut-être aussi été laissé entrer, qui avait peut-être aussi reculé devant un escalier et choisi de revenir.
+Je pensai aux ancêtres d'Ulinor qui m'avaient parlé du cycle pré-Arrachement — de quelque chose qui se répète, qui s'était passé avant et qui se repasse, une amplitude de temps si grande que les civilisations humaines n'en voient qu'un moment. Je pensai à la troisième langue du Message, à ces symboles de Kharazir que mon corps reconnaissait sans que mon esprit puisse les lire. Je pensai à mon père — Aldric, qui avait fait une partie de ce voyage avant moi, et dont je n'avais aucun moyen de savoir s'il était passé par ici, ni ce qu'il y aurait fait.
 
 L'homme au masque violet — le seul du Cercle dont la couleur m'avait frappé — m'accompagna jusqu'à la plage de galets noirs.
 
@@ -162,7 +162,7 @@ Le monde a des passages que l'Arrachement a fermés mais pas supprimés. Ces pas
 
 Je ne suis pas le guide dont parle le Message.
 
-Ou je le suis, mais pas de la façon que j'aurais imaginée. Le guide ne s'annonce pas. Il revient par les marges — il arrive depuis les bords, depuis les endroits impossibles, depuis les îles que les cartes disent inexistantes.
+Ou je le suis, mais pas de la façon que j'aurais imaginée. Selon une lecture qui m'est venue cette nuit, et que je note ici en sachant qu'elle est mienne : le guide ne s'annoncerait pas. Il reviendrait par les marges — depuis les bords, depuis les endroits impossibles, depuis les îles que les cartes disent inexistantes.
 
 Par les marges, j'ai trouvé ce que je ne cherchais pas. Il me reste à comprendre ce que cela signifie d'avoir trouvé.
 

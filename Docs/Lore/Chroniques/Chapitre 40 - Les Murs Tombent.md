@@ -26,7 +26,7 @@ Je les vis de loin. Trois personnes assises à l'ombre du porche de la Porte d'A
 
 Je passai devant eux en entrant. Deux femmes et un homme, d'âges différents, qui me regardèrent avec le regard particulier des gens habitués à être regardés — un regard qui avait renoncé depuis longtemps à l'attente et qui s'était installé dans quelque chose de plus durable et de plus difficile à nommer. Je les saluai de la tête. Ils me rendirent le salut.
 
-Je portais dans mon sac les dix-sept cahiers et la synthèse, dont j'avais gardé la copie que Ysolde m'avait rendue. Je portais aussi, dans la poche intérieure de mon manteau contre ma poitrine, la feuille de papier bruni de mon père et le papier du moine de Baelor. Deux mots pour neuf cent dix jours. *Tu es prêt.* *Continue.*
+Je portais dans mon sac les dix-sept cahiers et la synthèse, dont j'avais gardé la copie qu'Ysolde m'avait rendue. Je portais aussi, dans la poche intérieure de mon manteau contre ma poitrine, la feuille de papier bruni de mon père et le parchemin du moine de Baelor. Deux phrases pour neuf cent dix jours. *Tu es prêt.* *Dessous.*
 
 ---
 
@@ -56,7 +56,7 @@ La cuisine d'Omarin était derrière son atelier — une pièce basse et chaude 
 
 Il prépara un Kharaz.
 
-J'observai le rituel avec une attention que je n'aurais pas eu neuf cent dix jours plus tôt — le plat communautaire de Kharazir, où chaque convive ajoute un ingrédient de sa propre tradition. Omarin apporta les bases : un bouillon de légumes racines avec les herbes dorées de Solandra, une couche de pois chiches de Nomadaro, des tranches d'oignon caramélisé. Puis il posa sur la table des petits bols et il me regarda.
+J'observai le rituel avec une attention que je n'aurais pas eue neuf cent dix jours plus tôt — le plat communautaire de Kharazir, où chaque convive ajoute un ingrédient de sa propre tradition. Omarin apporta les bases : un bouillon de légumes racines avec les herbes dorées de Solandra, une couche de pois chiches de Nomadaro, des tranches d'oignon caramélisé. Puis il posa sur la table des petits bols et il me regarda.
 
 *« Tu arrives de loin. »*
 
@@ -108,7 +108,7 @@ Je restai accroupi là un long moment, la main sur la dalle, à écouter ce que 
 
 Le même rythme, me semblait-il, qu'à Cendra. Le même rythme qu'au Jumeau. Trois lieux, à mon ressenti, partageant une cadence — ce qui suffisait à formuler une hypothèse de réseau, pas à la prouver. Une hypothèse qu'il faudrait soumettre à des oreilles plus rigoureuses que les miennes, à des géomètres et à des sourciers, à toutes les méthodes qu'une seule paume sur une dalle ne pouvait remplacer.
 
-Quelque chose approchait — c'est ainsi que je le notai, et c'est ainsi que je le tiens. Pas dans le sens d'une menace identifiée, plutôt dans le sens d'une attente que plusieurs traditions, à Solena, à Lumasar, dans les Plaines de Mirondal, dans les couvents oniriques de Vytharia, formulaient chacune avec ses figures propres. Là où certains voyaient un retour, d'autres voyaient un seuil, d'autres encore une simple inflexion d'un cycle qu'ils nommaient autrement. Aucune de ces lectures ne s'imposait à moi seule, et je n'avais ni l'autorité ni les éléments pour en départager.
+Quelque chose approchait — c'est ainsi que je le notai, et c'est ainsi que je le tiens. Pas dans le sens d'une menace identifiée, plutôt dans le sens d'une attente que plusieurs traditions, à Solena, à Lumasar, dans les Plaines de Mirondal, dans les couvents oniriques de Vytharia, formulaient chacune avec ses figures propres. Là où certains voyaient un retour, d'autres voyaient un seuil, d'autres encore une simple inflexion d'un cycle qu'ils nommaient autrement. Aucune de ces lectures ne s'imposait à moi seul, et je n'avais ni l'autorité ni les éléments pour en départager.
 
 Les murs de Kharazir étaient toujours là. Le tissu jaune était toujours imposé aux Déliés aux portes de la ville. L'inscription sous la place centrale brillait d'une lueur bleue que les gardes refusaient de regarder. Le Tribunal de Lumasar délibérait. Les routes de haute mer se rouvraient dans la mémoire des vieux capitaines. Selendris tenait la main de son père endormi en sachant maintenant, grâce à mes cahiers, à quelle profondeur il avait plongé et vers quel endroit ses lèvres murmuraient des coordonnées depuis quarante-sept ans.
 
@@ -126,7 +126,7 @@ Je les regardai un moment.
 
 Neuf cent dix jours de vie comprimés dans dix-sept rectangles de cuir et de papier. Une carte qui n'était pas une carte des terres. Un cartographe qui avait tenté de relever des recoupements — entre les mystères, entre les langues mortes et les langues vivantes, entre les Liés et les Déliés, entre ce que mes notes appelaient *le dessous* et ce que mes notes appelaient *la surface*, entre un père et un fils qui avaient suivi le même itinéraire à une génération d'écart.
 
-Je ne savais pas si mon père était vivant ou mort. Je ne savais pas ce qui se trouvait sous le Mont Jumeau ni quel mot — *portail*, *seuil*, *mémoire*, *rien* — recouvrirait le mieux ce que d'autres iraient peut-être y voir un jour. Je ne savais pas si la lecture qu'Omarin et certains érudits faisaient d'un retour de Navigor était la bonne, ni si la lecture qu'à Lumasar des cercles oniriques en faisaient autrement était plus juste. Je ne savais pas si une autre Ère était en train de se former et, si oui, sous quelle figure elle se présenterait à ceux qui la nommeraient.
+Je ne savais pas si mon père était vivant ou mort. Je ne savais pas ce qui se trouvait sous le Mont Jumeau ni quel mot — *portail*, *seuil*, *mémoire*, *rien* — recouvrirait le mieux ce que d'autres iraient peut-être y voir un jour. Je ne savais pas si la lecture qu'Omarin et certains érudits faisaient d'un retour de Navigor était la bonne, ni si la lecture qu'en faisaient autrement, à Lumasar, certains cercles oniriques était plus juste. Je ne savais pas si une autre Ère était en train de se former et, si oui, sous quelle figure elle se présenterait à ceux qui la nommeraient.
 
 Ce que je tenais, ce n'étaient pas des certitudes. C'étaient des observations, des recoupements, des récits transmis et leurs lectures concurrentes — assez pour qu'un travail collectif s'en saisisse. Ce qui était dans les dix-sept cahiers, dans la synthèse qu'Omarin gardait maintenant sous son manteau, dans les copies qu'Ysolde avait faites, dans les questions que le Tribunal de Lumasar allait devoir poser, dans le regard de Selendris quand elle avait reconnu les coordonnées de son père endormi.
 
@@ -142,7 +142,7 @@ Puis j'écrivis une dernière note. La dernière note du voyage. Pas une conclus
 
 *Plusieurs voix me disent que ce que le monde oublie, il finit par réapprendre, et que ce qui a été séparé cherche à se rejoindre. Je ne sais pas si elles ont raison. Je sais que des routes anciennes existent encore sous nos pieds — j'en ai vu les marques —, et que plusieurs traditions, chacune à sa façon, leur prêtent une destination. Je ne suis pas le premier à avoir suivi ce chemin, et je ne serai pas le dernier. Ce que j'ai rapporté n'a pas besoin que je le défende seul — il a besoin que je le dépose là où d'autres peuvent le ramasser, le contester, et le compléter.*
 
-*Mon père est peut-être de l'autre côté d'une frontière que je ne suis pas encore prêt à franchir. Peut-être qu'il attend. Peut-être que de l'autre côté, le temps fonctionne différemment et qu'il n'attend pas du tout — qu'il est simplement là, dans un lieu où le avant et l'après n'ont pas la même forme que dans ce journal. Peut-être aussi qu'il est mort d'une pneumonie d'hiver à quarante-deux ans, et que les crochets de ma table à dessin sont la seule chose qu'il m'ait laissée. Les trois lectures tiennent ensemble dans la même page sans se contredire, parce qu'aucune des trois ne peut, depuis la place où je suis, être confirmée ni récusée. Je ne vais pas trancher. Ce n'est pas mon travail de cartographier ce que je ne peux pas voir.*
+*Mon père est peut-être de l'autre côté d'une frontière que je ne suis pas encore prêt à franchir. Peut-être qu'il attend. Peut-être que de l'autre côté, le temps fonctionne différemment et qu'il n'attend pas du tout — qu'il est simplement là, dans un lieu où l'avant et l'après n'ont pas la même forme que dans ce journal. Peut-être aussi qu'il est mort d'une pneumonie d'hiver à quarante-deux ans, et que les crochets de ma table à dessin sont la seule chose qu'il m'ait laissée. Les trois lectures tiennent ensemble dans la même page sans se contredire, parce qu'aucune des trois ne peut, depuis la place où je suis, être confirmée ni récusée. Je ne vais pas trancher. Ce n'est pas mon travail de cartographier ce que je ne peux pas voir.*
 
 *Je pose le carnet. Non pas parce que le voyage est fini, mais parce qu'il change de nature. La prochaine étape ne s'écrit pas à l'avance.*
 

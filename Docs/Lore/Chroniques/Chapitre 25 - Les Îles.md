@@ -66,7 +66,7 @@ J'avais trouvé une taverne dans le quartier des non-mages — un endroit sans p
 
 À ma gauche, une famille. Un homme, deux femmes, quatre enfants à des âges variés — deux des enfants montrant déjà les premières lueurs d'aptitude magique dans la façon dont les objets autour d'eux avaient tendance à bouger légèrement sans cause visible, un phénomène que les Astraviens appellent l'éveil précoce et qui dans les familles non-mages est reçu avec un mélange de fierté et de deuil que j'avais du mal à démêler. Fierté parce que l'enfant aura accès à la ville haute. Deuil parce qu'il partira.
 
-À ma droite, deux hommes en vêtements de voyage, avec le cuir durci des gens qui bougent souvent. Ils parlaient bas, en galenorien teinté d'un accent celetorien que je reconnaissais maintenant, et je n'essayai pas d'écouter — mais certains mots arrivaient quand même, pas voulus, le résultat de l'acoustique d'une salle basse plutôt que d'une indiscrétion. Des mots comme *filon*, et *Galdryn*, et *avant le Conseil*, et quelque chose que je ne sus d'abord pas interpréter : *le dernier*.
+À ma droite, deux hommes en vêtements de voyage, avec le cuir durci des gens qui bougent souvent. Ils parlaient bas, en galenorien teinté d'un accent celethorien que je reconnaissais maintenant, et je n'essayai pas d'écouter — mais certains mots arrivaient quand même, pas voulus, le résultat de l'acoustique d'une salle basse plutôt que d'une indiscrétion. Des mots comme *filon*, et *Galdryn*, et *avant le Conseil*, et quelque chose que je ne sus d'abord pas interpréter : *le dernier*.
 
 Je mangeai lentement.
 
@@ -86,7 +86,7 @@ Je lui demandai si elle avait été d'en haut.
 
 Elle me regarda — pas avec hostilité, pas avec gratitude, avec la lassitude de quelqu'un qui a vu trois cents fois cette même question dans la bouche de gens différents.
 
-Elle dit : *Mon frère, oui. Il a passé l'épreuve à dix-neuf ans, il est entré au Conseil à vingt-huit. Il a écrit des lettres pendant six ans. Plus depuis. Si je m'assieds ici, c'est pour qu'il me voie passer un jour s'il redescend. Il n'a pas redescendu.*
+Elle dit : *Mon frère, oui. Il a passé l'épreuve à dix-neuf ans, il est entré au Conseil à vingt-huit. Il a écrit des lettres pendant six ans. Plus depuis. Si je m'assieds ici, c'est pour qu'il me voie passer un jour s'il redescend. Il n'est pas redescendu.*
 
 Je lui demandai si elle avait besoin de quelque chose. La phrase fut maladroite et elle l'entendit comme telle.
 
@@ -110,7 +110,7 @@ Il dit, en s'asseyant sans demander : « On m'a dit qu'il y avait un homme dans 
 
 Je lui demandai qui lui avait dit cela.
 
-Il sourit — pas le sourire de quelqu'un qui garde un secret, le sourire de quelqu'un qui n'a pas besoin de s'expliquer parce que la réponse est évidente. Une ville aussi petite que la vie de ses secrets. Je compris : l'aubergiste. Peut-être d'autres.
+Il sourit — pas le sourire de quelqu'un qui garde un secret, le sourire de quelqu'un qui n'a pas besoin de s'expliquer parce que la réponse est évidente. Je compris : l'aubergiste. Peut-être d'autres.
 
 Je dis que j'avais observé les prix et certaines absences sur les étals. Que j'étais cartographe de formation. Que les absences, en cartographie, disent parfois plus que les présences.
 
@@ -128,7 +128,7 @@ Il dit : « Les tunnels souterrains de Galdryn. Vous les connaissez ? »
 
 ---
 
-Je ne les connaissais pas, mais je les avais étudiés. Dans les archives des cartographes d'Evertia, avant le voyage, j'avais relevé des mentions des réseaux souterrains d'Astravia — non pas dans les documents officiels, mais dans les marges des cartes géologiques du continent, ces griffonnages en petite écriture que les cartographes ajoutent quand ils savent quelque chose qui n'appartient pas à la carte officielle mais qui appartient à la vérité. Un réseau de tunnels sous Galdryn et sous la vallée d'Inverna. Des tunnels naturels en partie, élargis et cartographiés en partie, dont l'accès était strictement réglementé par les mineurs-archivistes de la cité. Et plus loin dans les marges, une note d'une écriture différente — une écriture plus ancienne que le reste de la carte — mentionnant des tunnels qui s'enfonçaient plus loin que les mines d'aethérite, dans des niveaux que les mineurs n'avaient pas voulu explorer, dans des directions que les boussoles magiques refusaient d'indiquer.
+Je ne les connaissais pas, mais je les avais étudiés. Dans les archives des cartographes d'Evertia, j'avais relevé des mentions des réseaux souterrains d'Astravia — non pas dans les documents officiels, mais dans les marges des cartes géologiques du continent, ces griffonnages en petite écriture que les cartographes ajoutent quand ils savent quelque chose qui n'appartient pas à la carte officielle mais qui appartient à la vérité. Un réseau de tunnels sous Galdryn et sous la vallée d'Inverna. Des tunnels naturels en partie, élargis et cartographiés en partie, dont l'accès était strictement réglementé par les mineurs-archivistes de la cité. Et plus loin dans les marges, une note d'une écriture différente — une écriture plus ancienne que le reste de la carte — mentionnant des tunnels qui s'enfonçaient plus loin que les mines d'aethérite, dans des niveaux que les mineurs n'avaient pas voulu explorer, dans des directions que les boussoles magiques refusaient d'indiquer.
 
 J'avais noté cela. Je note tout. Et maintenant Varennis me parlait de Galdryn.
 
@@ -156,7 +156,7 @@ J'écrivis dans mon journal : *Galdryn demain. Le dessous encore.*
 
 ---
 
-La route de Galdryn prend une demi-journée depuis Invernis — une demi-journée à travers les gorges de la vallée d'Inverna, le long de la rivière qui descend des mines vers la ville basse et qui, au printemps, charrie des particules d'aethérite si fines qu'elles ne sont visibles que dans la lumière directe du matin, une poussière bleue suspendue dans le courant comme une promesse. Je marchai seul. Varennis avait ses raisons pour ne pas m'accompagner jusqu'à la cité minière — l'archimage dissident n'était pas le bienvenu à Galdryn, dont les mineurs-archivistes répondaient directement au Conseil plutôt qu'aux académiciens. Il m'avait donné un mot de passe pour le poste d'entrée, un nom que je devais mentionner, et ses instructions étaient brèves : je trouvai l'accès aux niveaux inférieurs passé la troisième salle d'extraction, là où les chariots s'arrêtaient et où une porte de métal sans serrure attendait depuis au moins un siècle sans avoir été ouverte de mémoire vivante.
+La route de Galdryn prend une demi-journée depuis Invernis — une demi-journée à travers les gorges de la vallée d'Inverna, le long de la rivière qui descend des mines vers la ville basse et qui, au printemps, charrie des particules d'aethérite si fines qu'elles ne sont visibles que dans la lumière directe du matin, une poussière bleue suspendue dans le courant comme une promesse. Je marchai seul. Varennis avait ses raisons pour ne pas m'accompagner jusqu'à la cité minière — l'archimage dissident n'était pas le bienvenu à Galdryn, dont les mineurs-archivistes répondaient directement au Conseil plutôt qu'aux académiciens. Il m'avait donné un mot de passe pour le poste d'entrée, un nom que je devais mentionner, et ses instructions étaient brèves. Je trouvai l'accès aux niveaux inférieurs passé la troisième salle d'extraction, là où les chariots s'arrêtaient et où une porte de métal sans serrure attendait depuis au moins un siècle sans avoir été ouverte de mémoire vivante.
 
 La porte n'avait pas de serrure parce qu'une serrure n'était pas ce qui la retenait fermée.
 
@@ -198,7 +198,7 @@ Elle n'était pas une ouverture. Ce n'était pas un trou dans la roche. C'était
 
 Je sortis mon journal. Je dessinai ce que je voyais avec la précision du cartographe — proportions, angles, disposition des cristaux autour. Je pris le temps qu'il fallait. Ma main ne tremblait pas. Je note cela parce que je m'attendais à ce qu'elle tremble et qu'elle ne trembla pas — une information sur mon état que je ne sais pas encore comment interpréter.
 
-La marque ne ressemblait à rien que j'aie vu en vingt-cinq chapitres de voyage, en cinq cent vingt jours d'accumulation de signes et de données.
+La marque ne ressemblait à rien que j'aie vu depuis le début du voyage, en près de cinq cents jours d'accumulation de signes et de données.
 
 Sauf une chose.
 
@@ -226,19 +226,19 @@ Je n'avais pas dit où j'allais. Il n'avait pas demandé. La Carte du Silence é
 
 ---
 
-La nuit avant mon départ d'Astravia, je m'assis seul sur les hauteurs de la ville basse d'Invernis — un toit d'entrepôt dont l'escalier extérieur n'était pas fermé à clé, une négligence qui m'offrit ce que les hauteurs m'offrent toujours : la perspective. La vue sur les îles flottantes dans la nuit. La lueur bleue de l'aethérite qui éclairait les dessous des îles, cette lumière que les gens d'en bas ne voient presque plus à force d'en bas.
+La nuit avant mon départ d'Astravia, je m'assis seul sur les hauteurs de la ville basse d'Invernis — un toit d'entrepôt dont l'escalier extérieur n'était pas fermé à clé, une négligence qui m'offrit ce que les hauteurs m'offrent toujours : la perspective. La vue sur les îles flottantes dans la nuit. La lueur bleue de l'aethérite qui éclairait les dessous des îles, cette lumière que les gens d'en bas ne voient presque plus à force d'y vivre.
 
 Les Astraviens savent quelque chose.
 
 Ce n'est pas une déduction — c'est une évidence construite sur cinq jours d'observations. Pas le Conseil seulement, dont le silence calculé est une politique. Les gens ordinaires, les Ancrés de la ville basse avec leurs chandelles à la place des lampes à cristal — eux aussi savent quelque chose, d'une façon différente, d'une façon qui passe par le corps plutôt que par la politique. La façon dont l'aubergiste avait prononcé *les lampes sont en réparation* n'était pas le mensonge de quelqu'un qui croit ce qu'il dit. C'était quelque chose d'autre : le mensonge de quelqu'un qui préfère s'en tenir à une explication insuffisante parce que l'explication suffisante serait insupportable.
 
-L'aethérite est en train de s'épuiser. Ce n'est pas une rumeur — c'est visible dans les prix, dans les absences sur les étals, dans les chandelles sur les comptoirs de la ville haute où les lampes à cristal devraient être. La magie d'Astravia repose sur une ressource qui se finit. Et sous les mines où on l'extrait, il y a quelque chose — une marque, une présence, une chose qui pulse comme un cœur — que les mages ne peuvent pas atteindre et que le Conseil a décidé de ne pas nommer.
+L'aethérite est en train de s'épuiser. Ce n'est pas une rumeur — c'est visible dans les prix, dans les absences sur les étals, dans les chandelles sur les comptoirs de la ville basse où les lampes à cristal devraient être. La magie d'Astravia repose sur une ressource qui se finit. Et sous les mines où on l'extrait, il y a quelque chose — une marque, une présence, une chose qui pulse comme un cœur — que les mages ne peuvent pas atteindre et que le Conseil a décidé de ne pas nommer.
 
 *Ils arrivent par le dessous*, disait-on. Kael avait répété la formule à Warenthor, les yeux mobiles d'une bête dans une cage. C'est ce que prétendaient les chamanes, c'est ce qu'on lisait dans les chevaux de Lythar qui évitaient les creux, dans les racines du Bosquet Primordial qui saignaient. Quatre interprétations différentes, peut-être de la même chose, peut-être pas.
 
 Et à Astravia, sous les mines, j'avais vu une marque dans la roche dont l'allure m'avait rappelé celle de la Carte que je porte.
 
-Mon père Aldric Valthen — dont le nom je dois continuer de ne pas mettre dans ces pages sans prendre le temps de mesurer ce que ce nom y fait depuis qu'il est apparu dans le rêve de Vytharia — mon père est passé dans des mines. Je le sais par les notes que j'ai trouvées à Evertia avant de partir, les notes éparses qu'il avait laissées dans des endroits qui ressemblaient à des accidents et que je comprends maintenant comme une traçabilité délibérée — des miettes pour le suivant. Il est passé par des mines. Il est passé par Galdryn, ou par quelque chose qui ressemblait à Galdryn, ou par quelque chose qui était Galdryn avant que Galdryn en soit la surface.
+Mon père Aldric Valthen — dont je dois continuer de ne pas mettre le nom dans ces pages sans prendre le temps de mesurer ce que ce nom y fait depuis qu'il est apparu dans le rêve de Vytharia — mon père est passé dans des mines. Je le sais — ou je le crois, la nuance compte — par certaines pages de son carnet que je relis depuis Vytharia avec d'autres yeux : des observations éparses qui mentionnaient des galeries, des entrées scellées, des roches « qui retiennent ». Lues chacune pour elle-même, ce ne sont que des notes de berger qui cartographie ses pâturages. Lues ensemble, après un an et demi de route, elles dessinent quelque chose d'autre — ou ma propre lecture impose à des pages anodines la figure que mon voyage a fini par produire. Je ne saurais pas trancher.
 
 Je ne sais pas ce qu'il a vu. Je sais ce que j'ai vu. Je sais que ce que j'ai vu pointait vers Evertia.
 
@@ -246,7 +246,7 @@ Je regardai les îles flottantes dans la nuit astravienne — cette civilisation
 
 Le ciel, ici, est une décision de ne pas regarder autre chose.
 
-Je comprends cela. Je ne l'aurais pas compris au début du voyage. Au début du voyage, je voyais une civilisation de mages orgueilleux et prudents et je pensais que l'orgueil et la prudence étaient contradictoires. Je comprends maintenant qu'ils sont la même chose vue depuis deux époques différentes — l'avant-Chute et l'après-Chute. L'orgueil est la prudence avant le désastre. La prudence est l'orgueil après.
+Je comprends cela. Je ne l'aurais pas compris au début du voyage. Au début du voyage, je voyais une civilisation de mages orgueilleux et prudents et je pensais que l'orgueil et la prudence étaient contradictoires. Je comprends maintenant qu'ils sont la même chose vue depuis deux époques différentes — l'avant-Chute et l'après-Chute.
 
 ---
 
@@ -256,7 +256,7 @@ Vingt-cinq jours de marche à travers la géographie de Celethor, du paysage d'a
 
 Varennis ne vint pas me voir partir. Je ne l'avais pas prévenu de mon heure de départ. Ce n'était pas un oubli.
 
-Ce que je note à la fin de ce chapitre-ci, pour moi-même, avec la précision du cartographe qui croit aux listes plus qu'aux intuitions — étant entendu que la liste reste la mienne, et que d'autres lectures auraient été possibles :
+Ce que je note à la fin de cette étape, pour moi-même, avec la précision du cartographe qui croit aux listes plus qu'aux intuitions — étant entendu que la liste reste la mienne, et que d'autres lectures auraient été possibles :
 
 *Sous Galdryn : une marque dans la roche, d'origine que je ne sais pas dater, dont l'orientation, telle que je la lis, pourrait pointer vers Evertia.*
 
