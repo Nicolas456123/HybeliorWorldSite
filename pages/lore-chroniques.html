@@ -933,6 +933,15 @@
 }
 .chron-highlights-toggle:hover { background: var(--gold-dim); color: var(--gold); border-color: var(--gold); }
 .chron-highlights-toggle.has-items { color: var(--gold); border-color: var(--gold); }
+.chron-highlights-toggle.syncing { animation: chron-sync-pulse 1.4s ease-in-out infinite; }
+.chron-highlights-toggle.sync-error {
+    border-color: rgba(217, 115, 115, 0.85);
+    box-shadow: 0 0 0 1px rgba(217, 115, 115, 0.45);
+}
+@keyframes chron-sync-pulse {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.55; }
+}
 
 @media (max-width: 768px) {
     .chron-highlights-toggle { font-size: 0.7rem; padding: 0.3rem 0.4rem; }
@@ -1159,6 +1168,10 @@
         document.body.style.overflow = 'hidden';
         currentChapterIdx = idx;
         showChapter();
+        // Auto-pull silencieux si l'utilisateur est authentifié — reste local sinon
+        if (typeof getStoredPassword === 'function' && getStoredPassword()) {
+            try { doAutoPull(); } catch(e) {}
+        }
     }
 
     function showChapter() {
@@ -1841,6 +1854,7 @@
         var arr = loadHighlights();
         arr.push(hl);
         saveHighlights(arr);
+        scheduleAutoPush();
         return hl;
     }
 
@@ -1860,6 +1874,7 @@
             else m.removeAttribute('data-has-note');
         });
         if (hlPanel && hlPanel.classList.contains('open')) renderHighlightsList();
+        scheduleAutoPush();
         return arr[idx];
     }
 
@@ -1887,6 +1902,7 @@
         updateHighlightsCount();
         if (hlPanel && hlPanel.classList.contains('open')) renderHighlightsList();
         if (readMode === 'page') rePaginate();
+        scheduleAutoPush();
     }
 
     function updateHighlightsCount() {
@@ -2082,6 +2098,9 @@
         hlPanel.classList.add('open');
         renderHighlightsList();
         refreshSyncInfo();
+        if (typeof getStoredPassword === 'function' && getStoredPassword()) {
+            try { doAutoPull(); } catch(e) {}
+        }
     }
     function closeHlPanel() {
         if (hlPanel) hlPanel.classList.remove('open');
@@ -2250,9 +2269,10 @@
         else hlSyncInfo.setAttribute('hidden', '');
     }
 
-    function ensurePassword() {
+    function ensurePassword(silent) {
         var pwd = getStoredPassword();
         if (pwd) return Promise.resolve(pwd);
+        if (silent) return Promise.reject(new Error('no-pwd'));
         var entered = prompt('Mot de passe éditeur :');
         if (!entered) return Promise.reject(new Error('annulé'));
         return fetch('/api/auth', {
@@ -2266,54 +2286,151 @@
         });
     }
 
-    function syncHighlights() {
-        if (!hlSyncBtn) return;
-        hlSyncBtn.disabled = true;
-        showSyncInfo('Synchronisation en cours…', null);
-        ensurePassword().then(function(pwd) {
-            var localAll = loadHighlights(); // inclut les tombstones
-            return fetch('/api/highlights', {
-                method: 'POST',
-                headers: { 'Content-Type': 'application/json' },
-                body: JSON.stringify({ password: pwd, entries: localAll })
-            }).then(function(r) {
-                if (r.status === 403) {
-                    clearStoredPassword();
-                    throw new Error('Mot de passe rejeté');
-                }
-                if (!r.ok) throw new Error('HTTP ' + r.status);
-                return r.json();
-            });
+    function reapplyHighlightsToCurrentChapter() {
+        if (currentChapterIdx < 0) return;
+        var content = getContentEl();
+        if (!content) return;
+        content.querySelectorAll('mark.chron-highlight').forEach(function(m) {
+            var p = m.parentNode;
+            while (m.firstChild) p.insertBefore(m.firstChild, m);
+            p.removeChild(m);
+            p.normalize();
+        });
+        applyAllHighlightsForCurrentChapter();
+        if (readMode === 'page') rePaginate();
+    }
+
+    // ── Auto-sync : push debounced / pull silent ──────────────
+    var SYNC_DEBOUNCE_MS = 800;
+    var autoSyncTimer = null;
+    var autoSyncInflight = false;
+    var autoSyncPending = false;
+
+    function setSyncState(state, msg) {
+        // states: 'idle' | 'syncing' | 'synced' | 'error' | 'auth'
+        if (hlToggleBtn) {
+            hlToggleBtn.classList.remove('syncing', 'sync-error');
+            if (state === 'syncing') hlToggleBtn.classList.add('syncing');
+            if (state === 'error' || state === 'auth') hlToggleBtn.classList.add('sync-error');
+        }
+        if (state === 'syncing') showSyncInfo(msg || 'Synchronisation…', null);
+        else if (state === 'synced') showSyncInfo(msg || ('Synchronisé · ' + formatRelativeTime(getLastSync())), 'success');
+        else if (state === 'error') showSyncInfo(msg || 'Erreur de synchronisation', 'error');
+        else if (state === 'auth') showSyncInfo(msg || 'Cliquer "Sync" pour activer la synchronisation', 'error');
+        else refreshSyncInfo();
+    }
+
+    function pushHighlightsAPI(pwd) {
+        var localAll = loadHighlights(); // inclut les tombstones
+        return fetch('/api/highlights', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ password: pwd, entries: localAll })
+        }).then(function(r) {
+            if (r.status === 403) {
+                clearStoredPassword();
+                var e = new Error('Mot de passe rejeté'); e.code = 'auth'; throw e;
+            }
+            if (!r.ok) throw new Error('HTTP ' + r.status);
+            return r.json();
         }).then(function(data) {
-            // Server response = état fusionné non-supprimé
             var serverList = (data && data.highlights) || [];
             saveHighlights(serverList);
             setLastSync(Date.now());
-            // Re-render highlights dans le chapitre courant
-            if (currentChapterIdx >= 0) {
-                var content = getContentEl();
-                if (content) {
-                    // Retire les marks existants (sera réappliqué)
-                    content.querySelectorAll('mark.chron-highlight').forEach(function(m) {
-                        var p = m.parentNode;
-                        while (m.firstChild) p.insertBefore(m.firstChild, m);
-                        p.removeChild(m);
-                        p.normalize();
-                    });
-                    applyAllHighlightsForCurrentChapter();
-                    if (readMode === 'page') rePaginate();
+            return serverList;
+        });
+    }
+
+    function pullHighlightsAPI(pwd) {
+        return fetch('/api/highlights?password=' + encodeURIComponent(pwd))
+            .then(function(r) {
+                if (r.status === 403) {
+                    clearStoredPassword();
+                    var e = new Error('Mot de passe rejeté'); e.code = 'auth'; throw e;
                 }
-            }
+                if (!r.ok) throw new Error('HTTP ' + r.status);
+                return r.json();
+            }).then(function(data) {
+                var serverList = (data && data.highlights) || [];
+                // Merge server + local (par id, latest updatedAt gagne)
+                var local = loadHighlights();
+                var byId = {};
+                serverList.forEach(function(h) { byId[h.id] = h; });
+                local.forEach(function(h) {
+                    if (!byId[h.id] || (h.updatedAt || 0) > (byId[h.id].updatedAt || 0)) {
+                        byId[h.id] = h;
+                    }
+                });
+                var merged = [];
+                for (var k in byId) merged.push(byId[k]);
+                saveHighlights(merged);
+                setLastSync(Date.now());
+                return merged;
+            });
+    }
+
+    function scheduleAutoPush() {
+        if (!getStoredPassword()) return;
+        if (autoSyncTimer) clearTimeout(autoSyncTimer);
+        autoSyncTimer = setTimeout(doAutoPush, SYNC_DEBOUNCE_MS);
+    }
+
+    function doAutoPush() {
+        if (autoSyncInflight) { autoSyncPending = true; return; }
+        var pwd = getStoredPassword();
+        if (!pwd) return;
+        autoSyncInflight = true;
+        setSyncState('syncing');
+        pushHighlightsAPI(pwd).then(function() {
+            setSyncState('synced');
             renderHighlightsList();
             updateHighlightsCount();
-            showSyncInfo('Synchronisé · ' + serverList.length + ' surlignages', 'success');
-            setTimeout(refreshSyncInfo, 3000);
+            // Re-applique les highlights (server peut avoir résolu des conflits)
+            reapplyHighlightsToCurrentChapter();
         }).catch(function(err) {
-            if (err && err.message === 'annulé') {
-                refreshSyncInfo();
-            } else {
-                showSyncInfo('Erreur : ' + (err && err.message || 'inconnue'), 'error');
-            }
+            setSyncState(err.code === 'auth' ? 'auth' : 'error', err.code === 'auth' ? null : ('Erreur : ' + err.message));
+        }).finally(function() {
+            autoSyncInflight = false;
+            if (autoSyncPending) { autoSyncPending = false; scheduleAutoPush(); }
+        });
+    }
+
+    function doAutoPull() {
+        var pwd = getStoredPassword();
+        if (!pwd) return;
+        if (autoSyncInflight) { autoSyncPending = true; return; }
+        autoSyncInflight = true;
+        setSyncState('syncing', 'Récupération depuis le serveur…');
+        pullHighlightsAPI(pwd).then(function() {
+            setSyncState('synced');
+            updateHighlightsCount();
+            reapplyHighlightsToCurrentChapter();
+            // Si le merge a généré du local plus récent que le serveur, repousser
+            scheduleAutoPush();
+        }).catch(function(err) {
+            setSyncState(err.code === 'auth' ? 'auth' : 'error', err.code === 'auth' ? null : ('Erreur : ' + err.message));
+        }).finally(function() {
+            autoSyncInflight = false;
+            if (autoSyncPending) { autoSyncPending = false; scheduleAutoPush(); }
+        });
+    }
+
+    function syncHighlights() {
+        // Manual sync : prompt password si nécessaire, push complet
+        if (!hlSyncBtn) return;
+        hlSyncBtn.disabled = true;
+        setSyncState('syncing');
+        ensurePassword(false).then(function(pwd) {
+            return pushHighlightsAPI(pwd);
+        }).then(function(serverList) {
+            renderHighlightsList();
+            updateHighlightsCount();
+            reapplyHighlightsToCurrentChapter();
+            setSyncState('synced', 'Synchronisé · ' + serverList.length + ' surlignages');
+            setTimeout(function() { setSyncState('idle'); }, 3000);
+        }).catch(function(err) {
+            if (err && err.message === 'annulé') { setSyncState('idle'); }
+            else { setSyncState(err.code === 'auth' ? 'auth' : 'error', err.code === 'auth' ? null : ('Erreur : ' + (err.message || 'inconnue'))); }
         }).finally(function() {
             hlSyncBtn.disabled = false;
         });
