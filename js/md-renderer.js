@@ -311,6 +311,7 @@
             });
         }
 
+        const htmlCache = {};
         let current = null;
         const activate = async (key) => {
             if (key === current) return;
@@ -322,6 +323,28 @@
             }
             const tab = tabs.find(t => t.key === key);
             if (!tab) return;
+            // Engine 'html' : fetch + inject (avec exécution des scripts inline)
+            if (tab.engine === 'html') {
+                if (!htmlCache[key]) {
+                    area.innerHTML = '<div class="subtab-loading">Chargement…</div>';
+                    try {
+                        const resp = await fetch(tab.src);
+                        if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
+                        htmlCache[key] = await resp.text();
+                    } catch (e) {
+                        area.innerHTML = `<div class="subtab-error">Erreur de chargement : ${e.message}</div>`;
+                        return;
+                    }
+                }
+                area.innerHTML = htmlCache[key];
+                area.querySelectorAll('script').forEach(old => {
+                    const s = document.createElement('script');
+                    s.textContent = old.textContent;
+                    old.replaceWith(s);
+                });
+                window.scrollTo({ top: 0, behavior: 'instant' });
+                return;
+            }
             await render(area, tab.src);
         };
 
