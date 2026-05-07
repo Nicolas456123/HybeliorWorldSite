@@ -156,7 +156,7 @@ Elle me regarda avec les yeux d'une mère qui interprète tout, constamment, dep
 
 Je passai deux jours de plus à Duskoris, à interroger discrètement — dans les couloirs du marché, dans les conversations de hasard sur les terrasses de falaise, dans une conversation longue avec un jeune prêtre des Veilleurs qui ne s'était pas méfié de mes questions parce que je les avais posées dans l'ordre inverse de celui qui aurait éveillé sa prudence — les gens de la ville sur ce qu'ils observaient.
 
-Je note, sans en faire plus, que je comptais les enfants. Leur nombre, leur âge à la naissance documentée, le ratio par quartier, l'évolution sur quatre ans. Ce que je ne fis pas : leur parler longuement, m'asseoir à côté de la mère qui ne montre plus sa fille, demander à la fillette de quatre ans ce qu'elle voyait. Ce sont des questions de cartographe, et je suis cartographe. Une autre forme d'attention aurait été possible. Je ne l'ai pas pratiquée.
+Je note, sans en faire plus, que je comptais les enfants. Leur nombre, leur âge à la naissance documentée, la proportion par quartier, l'évolution sur quatre ans. Ce que je ne fis pas : leur parler longuement, m'asseoir à côté de la mère qui ne montre plus sa fille, demander à la fillette de quatre ans ce qu'elle voyait. Ce sont des questions de cartographe, et je suis cartographe. Une autre forme d'attention aurait été possible. Je ne l'ai pas pratiquée.
 
 Pour la mère, j'essayai pourtant — je note cela en faveur de la rigueur, non en ma faveur. Elle s'appelait Vorenne. Arven m'avait donné l'étage de la falaise et le nom d'une voisine qui pourrait me présenter. Je montai, je frappai. Une porte qui ne s'ouvrit pas. Je redescendis. Je remontai le lendemain à une autre heure. La voisine me dit que Vorenne était sortie avec sa fille dans la grotte aux sources — tout le monde savait que c'était faux, l'enfant n'était plus sortie depuis trois mois, c'est ce qu'on m'avait dit la veille. Je remerciai la voisine. Je redescendis. Je ne remontai pas une troisième fois. J'écrivis dans la marge : *trois tentatives auraient suffi, j'en ai fait deux*. C'était faux aussi. Trois n'auraient pas suffi. Trois auraient été du forçage poli — le genre d'opiniâtreté qui s'autorise des prétextes parce qu'elle a une carte à finir. Je m'en suis tenu à deux et je me suis raconté que c'était une délicatesse. Ce n'était pas une délicatesse. C'était mon emploi du temps.
 
@@ -170,17 +170,17 @@ Les Enfants aux Yeux Blancs naissaient dans toute Caeloria — pas seulement à 
 
 *Mais ?*
 
-Il hésita. Il était jeune. Il avait la prudence des gens qui ont encore beaucoup à perdre. Puis il dit : *Les anomalies stellaires que nous mesurons depuis six ans ne sont pas localisées au-dessus de Caeloria. Elles sont globales. Nous le savons parce que nous échangeons des données avec Haldria. Les étoiles bougent partout — pas seulement dans nos constellations.*
+Il hésita. Il était jeune. Il avait la prudence des gens qui ont encore beaucoup à perdre. Puis il dit : *Les anomalies stellaires que nous mesurons depuis six ans ne sont pas localisées au-dessus de Caeloria. Elles s'étendent à tout le ciel connu. Nous le savons parce que nous échangeons des relevés avec Haldria. Les étoiles bougent partout — pas seulement dans nos constellations.*
 
 Ce que j'avais appris à Hekorinth, confirmé.
 
 *Et les naissances ?*
 
-Il baissa la voix. Dans la vapeur de la Grande Grotte Thermale, parmi les bruits du marché et l'odeur de stellarite chauffée, il dit quelque chose que j'écrivis textuellement dans mon carnet dès que je fus seul : *Il y a un médecin à Silvaris — un érudit des Cités des Anciens, quelqu'un qui étudie les artefacts ramenés des tunnels. Il a examiné plusieurs de ces enfants avec l'autorisation des familles. Il dit qu'ils partagent tous une particularité anatomique. Pas dans les yeux — dans quelque chose derrière les yeux. Dans la façon dont le nerf optique est connecté. Comme si quelqu'un — ou quelque chose — avait modifié la connexion.*
+Il baissa la voix. Dans la vapeur de la Grande Grotte Thermale, parmi les bruits du marché et l'odeur de stellarite chauffée, il dit quelque chose que j'écrivis textuellement dans mon carnet dès que je fus seul : *Il y a un médecin à Silvaris — un érudit des Cités des Anciens, quelqu'un qui étudie les artefacts ramenés des tunnels. Il a examiné plusieurs de ces enfants avec l'autorisation des familles. Il dit qu'ils partagent tous une particularité anatomique. Pas dans les yeux — dans quelque chose derrière les yeux. Dans la façon dont le nerf optique se rattache. Comme si quelqu'un — ou quelque chose — avait modifié l'attache.*
 
 *Modifié comment ?*
 
-*Pour permettre une autre perception, c'est l'hypothèse du médecin. Pas une perception magique. Quelque chose de plus proche d'un sens physique.* Il hésita. *Comme si la connexion s'était formée pour autre chose. Le médecin se garde de dire qui ou quoi en serait à l'origine. Il décrit ce qu'il voit dans les nerfs, pas ce qu'il en conclut.*
+*Pour permettre une autre perception, c'est l'hypothèse du médecin. Pas une perception magique. Quelque chose de plus proche d'un sens physique.* Il hésita. *Comme si l'attache s'était formée pour autre chose. Le médecin se garde de dire qui ou quoi en serait à l'origine. Il décrit ce qu'il voit dans les nerfs, pas ce qu'il en conclut.*
 
 Je ne répondis pas. Je regardai la vapeur monter des sources thermales au fond de la Grande Grotte. Je pensai à Lysse qui voyait ce qu'elle nommait *épaisseur*. Je pensai à Torven qui percevait la chaleur sous la ville. Je pensai aux inscriptions de Kharazir et à la distinction qu'elles tracent entre voir et tenir.
 

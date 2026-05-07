@@ -32,7 +32,7 @@ Entre les vignes, des vergers. Des pommiers, des poiriers, des noisetiers dont l
 
 Le premier village que j'atteignis était Ydralis — un village de vergers perché sur une colline d'Amaroth, connu, m'avait-on dit à la dernière auberge pyrtarienne, pour ses pommes d'une douceur inhabituelle dont la peau brille légèrement au soleil. Je m'en étais souvenu avec le scepticisme habituel que j'apporte aux légendes locales sur la qualité exceptionnelle des productions locales. Chaque endroit de ce monde produit quelque chose d'exceptionnel, si l'on en croit ses habitants.
 
-Mais les pommes d'Ydralis brillaient effectivement. Pas d'un éclat miraculeux, pas d'une façon qui exigerait une explication surnaturelle — d'une façon légèrement différente de la façon dont les autres pommes brillent, une réflexion qui avait quelque chose de nacré, due sans doute à un dépôt de cire fine sur la peau plus dense qu'à l'ordinaire. Un détail. Mais un détail précis, et les détails précis méritent attention.
+Mais les pommes d'Ydralis brillaient effectivement. Pas d'un éclat miraculeux, pas d'une façon qui exigerait une explication surnaturelle — d'une façon légèrement différente de la façon dont les autres pommes brillent, un reflet qui avait quelque chose de nacré, dû sans doute à un dépôt de cire fine sur la peau plus dense qu'à l'ordinaire. Un détail. Mais un détail précis, et les détails précis méritent attention.
 
 ---
 

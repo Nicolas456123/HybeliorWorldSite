@@ -70,7 +70,7 @@ Il dit : « Les récits disent que ce que nos pères ont nommé l'Arrachement av
 
 Je demandai ce qu'il voulait dire par l'Arrachement.
 
-Il me regarda avec ce qui ressemblait à de la surprise — la surprise de quelqu'un qui vient de réaliser que l'évidence pour lui n'est pas l'évidence pour tout le monde. Il dit : « L'Arrachement, dans nos récits, c'est le nom que les hommes d'autrefois ont donné à quelque chose qu'ils ont vu passer dans le ciel et dans la terre. Depuis Hrothgar l'Ancien on raconte que le froid d'avant n'était pas le même que celui d'après. Que les hommes ont nommé ce qu'ils ne pouvaient pas comprendre — c'est la coutume. »
+Il me regarda avec ce qui ressemblait à de la surprise — la surprise de quelqu'un qui vient de s'apercevoir que l'évidence pour lui n'est pas l'évidence pour tout le monde. Il dit : « L'Arrachement, dans nos récits, c'est le nom que les hommes d'autrefois ont donné à quelque chose qu'ils ont vu passer dans le ciel et dans la terre. Depuis Hrothgar l'Ancien on raconte que le froid d'avant n'était pas le même que celui d'après. Que les hommes ont nommé ce qu'ils ne pouvaient pas comprendre — c'est la coutume. »
 
 ---
 
@@ -150,11 +150,11 @@ J'appris son nom le lendemain. Myrla.
 
 ---
 
-Le Cercle des Guérisseurs de Ryldaris m'accorda une audience le troisième jour — non pas une audience officielle avec le Grand Chaman Thyros, dont l'état de santé était, m'expliqua-t-on avec une délicatesse soigneuse, tel qu'il ne recevait plus que les urgences. Une audience avec trois membres du Cercle, deux femmes et un homme dont les spécialités combinées couvraient ce que le Cercle appelle l'équilibre — l'interface entre la santé des corps et la santé du territoire dans lequel ces corps vivent.
+Le Cercle des Guérisseurs de Ryldaris m'accorda une audience le troisième jour — non pas une audience officielle avec le Grand Chaman Thyros, dont l'état de santé était, m'expliqua-t-on avec une délicatesse soigneuse, tel qu'il ne recevait plus que les urgences. Une audience avec trois membres du Cercle, deux femmes et un homme dont les spécialités combinées couvraient ce que le Cercle appelle l'équilibre — la jointure entre la santé des corps et la santé du territoire dans lequel ces corps vivent.
 
-L'interface entre la santé des corps et la santé du territoire.
+La jointure entre la santé des corps et la santé du territoire.
 
-Je répète cette phrase parce qu'elle contenait quelque chose que je n'avais pas encore formulé de cette façon, bien que je l'aie approché depuis des semaines. Depuis Warenthor et les esprits silencieux. Depuis les plantes de Bybias qui avaient perdu leurs propriétés sans avoir changé d'aspect. Depuis les racines du Bosquet Primordial d'Ackerna qui saignaient. Il y avait une connexion entre ce qui se passait sous la terre et ce qui se passait dans les êtres vivants à sa surface — une connexion que les guérisseurs de Ryldor, avec leur philosophie holistique héritée de Ryldara, appelaient l'interface.
+Je répète cette phrase parce qu'elle contenait quelque chose que je n'avais pas encore formulé de cette façon, bien que je l'aie approché depuis des semaines. Depuis Warenthor et les esprits silencieux. Depuis les plantes de Bybias qui avaient perdu leurs propriétés sans avoir changé d'aspect. Depuis les racines du Bosquet Primordial d'Ackerna qui saignaient. Il y avait un lien entre ce qui se passait sous la terre et ce qui se passait dans les êtres vivants à sa surface — un lien que les guérisseurs de Ryldor, avec leur philosophie holistique héritée de Ryldara, appelaient la jointure.
 
 Je leur posai la question directement : est-ce que les plantes de Ryldor avaient montré des changements inhabituels ces derniers mois ?
 

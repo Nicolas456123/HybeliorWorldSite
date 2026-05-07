@@ -186,7 +186,7 @@ Elle prit mes mains — un geste inattendu, bref, de quelqu'un qui exprime quelq
 
 ---
 
-Je passai une dernière nuit à Prismalith dans la chambre de l'auberge des Voiles. La fenêtre donnait sur les tours de l'Académie, dont les cristaux ne reflétaient plus rien dans l'obscurité mais gardaient une lueur interne — froide, persistante, la lueur particulière des choses qui stockent la lumière pour la restituer plus tard.
+Je passai une dernière nuit à Prismalith dans la chambre de l'auberge des Voiles. La fenêtre donnait sur les tours de l'Académie, dont les cristaux ne reflétaient plus rien dans l'obscurité mais gardaient une lueur interne — froide, persistante, la lueur particulière des choses qui emmagasinent la lumière pour la restituer plus tard.
 
 Je mangeai seul — du pain aux cristaux que l'aubergiste servait avec une confiture de fruits de haute saison, et un morceau de fromage de Kharazir qu'un marchand avait vendu à la cuisine, reconnaissable à sa croûte safranée. Le goût du Kharazir que je n'avais pas mangé depuis huit cent quatre-vingt-quinze jours — dense, légèrement piquant, avec cette note terreuse des herbes des plaines de Solandra. Je mangeai lentement, en notant dans le cahier dix-sept les dernières choses qui me venaient à l'esprit sur Lumasar, sur Selendris, sur le Tribunal, sur ce que j'avais déposé là et ce que ça voulait dire.
 

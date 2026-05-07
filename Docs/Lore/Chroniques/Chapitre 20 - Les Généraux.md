@@ -124,11 +124,11 @@ Je restai à regarder plus longtemps que nécessaire.
 
 ---
 
-La personne vers laquelle on me dirigea — après l'accueil standard d'un poste d'entrée où l'on m'évalua, cette fois, non seulement comme individu mais comme Délié dont on vérifiait tacitement que le statut correspondait à ce que les documents déclaraient — s'appelait Mara.
+La personne vers laquelle on me dirigea — après l'accueil habituel d'un poste d'entrée où l'on m'évalua, cette fois, non seulement comme individu mais comme Délié dont on vérifiait tacitement que le statut correspondait à ce que les documents déclaraient — s'appelait Mara.
 
 Elle était capitaine de la Brigade — le titre pyrtarien équivalent au grade intermédiaire entre officier de compagnie et commandant de corps —, Déliée, originaire de Kharazir selon l'accent qu'elle avait gardé et que je reconnus immédiatement avec un petit choc, cette façon d'appuyer les syllabes initiales qui était spécifiquement kharazirienne du nord.
 
-Elle m'accueillit dans une salle de réunion dépouillée — pierre basaltique, une table, des bancs, une lampe à huile volcanique qui donnait une lumière jaune et stable. Elle me regarda avec le regard pyrtarien standard, l'évaluation rapide, puis ajouta quelque chose que le regard pyrtarien standard n'avait pas : une reconnaissance. Pas de moi précisément. De ce que j'étais.
+Elle m'accueillit dans une salle de réunion dépouillée — pierre basaltique, une table, des bancs, une lampe à huile volcanique qui donnait une lumière jaune et stable. Elle me regarda avec le regard pyrtarien habituel, l'évaluation rapide, puis ajouta quelque chose que le regard pyrtarien habituel n'avait pas : une reconnaissance. Pas de moi précisément. De ce que j'étais.
 
 Elle dit, en galenorien mais avec la prononciation kharazirienne : « Assieds-toi. Tu as l'air d'avoir marché depuis un bout de temps. »
 
@@ -158,7 +158,7 @@ Le Délié à ma droite s'appelait Saven. Kharazir, comme Mara, éjecté de la G
 
 À ma gauche, une femme de Gryndor — Thyren, infirmière militaire, partie six mois plus tôt après que son accès aux archives médicales avait été révoqué sur la base d'une circulaire récente interdisant aux Déliés les postes à « responsabilité documentaire ». Elle était en colère encore, mais d'une façon contenue et utile, la colère d'une personne qui a converti l'émotion en énergie de travail.
 
-En face de moi, un Pyrtarien de naissance — Drev, dont le statut de Délié m'étonna avant que je comprenne que Pyrtara produisait ses propres Déliés comme tous les autres pays, simplement sans les traiter différemment dans la vie civile ou militaire. Drev était Lié à quelque chose que les Pyrtariens n'appelaient pas « don » mais « particularité » — une capacité à sentir les variations de chaleur souterraine, un don géothermique qui lui servait dans l'entraînement en terrain volcanique. Il était instructeur à Keldros depuis sept ans.
+En face de moi, un Pyrtarien de naissance — Drev, dont le statut de Délié m'étonna avant que je comprenne que Pyrtara produisait ses propres Déliés comme tous les autres pays, simplement sans les traiter différemment dans la vie civile ou militaire. Drev était Lié à quelque chose que les Pyrtariens n'appelaient pas « don » mais « particularité » — une capacité à sentir les variations de chaleur souterraine, un don des profondeurs qui lui servait dans l'entraînement en terrain volcanique. Il était instructeur à Keldros depuis sept ans.
 
 Drev me posa la question directement, entre deux bouchées de tubercule : « Kharazir. Tu viens pour rester ou tu passes ? »
 
@@ -186,7 +186,7 @@ Il dit : « Depuis cet automne. Quand les premiers rapports de villages abandonn
 
 Le Syndrome d'Ordavan. Villages abandonnés par peur. Le sol qui monte en chaleur sans raison connue. Les habitants qui partent avant que la catastrophe se produise, avec une intuition collective que les autorités gryndoriennes avaient d'abord démentie et puis ignorée. Ordavan était le cas emblématique. Mais il n'était pas le seul.
 
-Saven dit : « Il y en a trois autres dans les relevés de Vyldor. Deux en Gryndor, un en Kharazir. Des petits villages, des endroits sans importance politique ou économique, donc personne n'a cru utile d'en faire un événement public. Mais les relevés sismiques sont là. Et la progression est... » Il chercha le mot. « Cohérente. »
+Saven dit : « Il y en a trois autres dans les relevés de Vyldor. Deux en Gryndor, un en Kharazir. Des petits villages, des endroits sans importance politique ou économique, donc personne n'a cru utile d'en faire un événement public. Mais les relevés des tremblements de sol sont là. Et la progression est... » Il chercha le mot. « Cohérente. »
 
 Je lui demandai si le Commandant Pyrax était au courant.
 

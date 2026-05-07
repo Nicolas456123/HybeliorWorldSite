@@ -66,7 +66,7 @@ Les arbres. Je n'avais pas de termes assez ordinaires pour les décrire sans tom
 
 Et les sons.
 
-La forêt d'Evertia n'est pas silencieuse — mais ses sons ne viennent pas des endroits attendus. Les oiseaux chantent, mais leurs chants arrivent depuis des hauteurs qui déforment la provenance. Les insectes bourdonnent, mais à des fréquences qui semblent plus basses que d'habitude. Et en dessous de tout cela, un son que je mis du temps à identifier parce qu'il était trop constant pour que mon cerveau le sépare du fond, trop régulier pour sembler produit — une vibration, grave, qui venait du sol plutôt que de l'air.
+La forêt d'Evertia n'est pas silencieuse — mais ses sons ne viennent pas des endroits attendus. Les oiseaux chantent, mais leurs chants arrivent depuis des hauteurs qui déforment la provenance. Les insectes bourdonnent, mais sur des notes qui semblent plus graves que d'habitude. Et en dessous de tout cela, un son que je mis du temps à identifier parce qu'il était trop constant pour que mon cerveau le sépare du fond, trop régulier pour sembler produit — une vibration, grave, qui venait du sol plutôt que de l'air.
 
 Je posai la main sur un tronc. Je la sentis dans le bois.
 

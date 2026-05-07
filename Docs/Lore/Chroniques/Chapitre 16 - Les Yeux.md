@@ -66,7 +66,7 @@ Feylara.
 
 Je l'avais imaginée — on imagine toujours les gens dont on a lu la description avant de les voir, et l'imagination est presque toujours insuffisante. La description disait : une femme d'une quarantaine d'années aux yeux qui changent de couleur selon les saisons. Ce que la description ne disait pas : que l'effet de ces yeux était non pas étrange mais extraordinairement lucide — les iris d'un vert profond en ce début de printemps, le vert de la végétation nouvelle après la pluie, une couleur si saturée qu'elle semblait émise plutôt que réfléchie — et que la façon dont elle regardait les gens donnait l'impression d'être regardé non pas par quelqu'un qui évalue mais par quelqu'un qui a déjà compris et qui attend simplement que vous le rattrapiez.
 
-Elle me reçut dans une salle circulaire du séquoia, éclairée par des fenêtres d'ambre qui donnaient à la lumière une qualité dorée et immobile. Pas d'autre mobilier qu'un cercle de pierres basses sur lesquelles on pouvait s'asseoir. Pas d'apparat, pas de garde présent dans la pièce. Elle était assise sur l'une des pierres quand j'entrai, les mains dans les genoux, dans la posture que j'avais vue aux élèves de Galdaris — pas une pose, pas une performance, simplement quelqu'un en train d'écouter quelque chose que je n'entendais pas encore.
+Elle me reçut dans une salle circulaire du séquoia, éclairée par des fenêtres d'ambre qui donnaient à la lumière une qualité dorée et immobile. Pas d'autre mobilier qu'un cercle de pierres basses sur lesquelles on pouvait s'asseoir. Pas d'apparat, pas de garde présent dans la pièce. Elle était assise sur l'une des pierres quand j'entrai, les mains dans les genoux, dans la posture que j'avais vue aux élèves de Galdaris — pas une pose, pas une mise en scène, simplement quelqu'un en train d'écouter quelque chose que je n'entendais pas encore.
 
 Elle m'accueillit en galenorien — la langue de la neutralité, encore. Elle dit : « Brennan m'écrit que vous avez posé la main sur un chêne de Sanvara et entendu le centre de la confédération. »
 
@@ -142,9 +142,9 @@ Je dis : « Les mineurs d'Alkaran ont commencé à signaler des sons inhabituels
 
 Feylara me regardait.
 
-Je dis : « Ce n'est pas le même phénomène partout. Mais le timing... »
+Je dis : « Ce n'est pas le même phénomène partout. Mais la concordance des dates... »
 
-Elle dit : « Le timing est le même. »
+Elle dit : « La concordance est la même. »
 
 Silence. La lumière oblique dans le jardin des racines. Quelque part dans la forêt, un oiseau qu'on entendait mais qu'on ne voyait pas.
 

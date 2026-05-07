@@ -176,7 +176,7 @@ Les parois du couloir inférieur n'étaient pas creusées par des hommes — ou 
 
 Du bas.
 
-Je m'arrêtai à cet endroit et posai ma main sur la paroi lisse. Elle était tiède. Non pas la tiédeur de la roche profonde, qui est une tiédeur uniforme et ancienne. Une tiédeur légèrement variable — plus chaude en certains points, comme si quelque chose pulsait derrière la pierre. Comme le vortex de Valtheron, dont j'avais lu la description dans les notes de voyage d'un archiviste de Ryndorin : *une pulsation régulière, à la fréquence du cœur humain au repos.*
+Je m'arrêtai à cet endroit et posai ma main sur la paroi lisse. Elle était tiède. Non pas la tiédeur de la roche profonde, qui est une tiédeur uniforme et ancienne. Une tiédeur légèrement variable — plus chaude en certains points, comme si quelque chose pulsait derrière la pierre. Comme le vortex de Valtheron, dont j'avais lu la description dans les notes de voyage d'un archiviste de Ryndorin : *une pulsation régulière, au rythme du cœur humain au repos.*
 
 Le rythme ici était différent. Plus lent. Beaucoup plus lent.
 

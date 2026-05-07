@@ -149,6 +149,6 @@ J'ai dormi la dernière nuit avant la frontière dans une grotte basse, en lisi�
 ---
 
 *Note cartographique, jour 95 — région de Nalithos, Trinoria :*
-*La forêt de Nalithos résiste à la cartographie conventionnelle non par complexité géographique — les rivières sont stables, les reliefs lisibles — mais par une propriété plus étrange : certains lieux semblent avoir bougé entre deux visites. Non pas de façon dramatique. Un sentier légèrement dévié. Un arbre dans une position légèrement différente de celle que j'avais notée la veille. Je ne sais pas si c'est ma mémoire ou la forêt. Je suspecte que les druides considèrent cette question comme mal posée.*
+*La forêt de Nalithos résiste à la cartographie ordinaire non par complexité géographique — les rivières sont stables, les reliefs lisibles — mais par une propriété plus étrange : certains lieux semblent avoir bougé entre deux visites. Non pas de façon dramatique. Un sentier légèrement dévié. Un arbre dans une position légèrement différente de celle que j'avais notée la veille. Je ne sais pas si c'est ma mémoire ou la forêt. Je suspecte que les druides considèrent cette question comme mal posée.*
 
 *J'ai produit trois feuilles de relevés du secteur nord de Nalithos. Je les considère provisoires.*

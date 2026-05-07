@@ -156,7 +156,7 @@ Je posai le réflecteur et regardai Tiras qui écrivait. Il n'avait pas levé le
 
 Il continua d'écrire quelques secondes. Puis il dit, sans lever les yeux : « Oui. »
 
-Il dit que les chercheurs de Zaldrin — l'île secrète de l'archipel de Kandaros, les ermites-astronomes dont les observations étaient les plus précises de Haldria — avaient communiqué à l'Ordo Caelum, par les canaux habituels, une série de mesures qui excluaient les explications conventionnelles. Que ces mesures avaient été reçues, classées, et n'avaient pas circulé au-delà du Conseil des Amiraux et du roi Vaeldros III.
+Il dit que les chercheurs de Zaldrin — l'île secrète de l'archipel de Kandaros, les ermites-astronomes dont les observations étaient les plus précises de Haldria — avaient communiqué à l'Ordo Caelum, par les canaux habituels, une série de mesures qui excluaient les explications admises. Que ces mesures avaient été reçues, classées, et n'avaient pas circulé au-delà du Conseil des Amiraux et du roi Vaeldros III.
 
 Je lui demandai ce qu'en pensait le roi.
 

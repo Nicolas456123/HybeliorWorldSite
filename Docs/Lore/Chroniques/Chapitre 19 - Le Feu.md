@@ -260,7 +260,7 @@ Ils ne me mirent pas en prison. Ils ne me mirent pas en liberté totale non plus
 
 Ce qui me fut donné à la place : du temps, une pièce correcte, de la nourriture régulière — dont ce pain de cendre qui avait un goût que j'aurais jugé imbuvable quinze jours plus tôt et qui me semblait maintenant parfaitement raisonnable, ce qui dit quelque chose sur l'adaptabilité humaine —, et l'accès à un bibliothécaire du temple d'Ignis Aeternum qui était, lui, une mine.
 
-Il s'appelait Foryen. Soixante ans, sec, avec les mains d'un copiste et les yeux de quelqu'un qui a passé plus d'heures dans les archives qu'au soleil. Il n'avait pas d'opinion sur ma présence à Myrthorin — ou plutôt, son opinion était que ma présence lui permettait de parler de sujets qui n'intéressaient généralement personne, et c'était une opportunité à ne pas gâcher.
+Il s'appelait Foryen. Soixante ans, sec, avec les mains d'un copiste et les yeux de quelqu'un qui a passé plus d'heures dans les archives qu'au soleil. Il n'avait pas d'opinion sur ma présence à Myrthorin — ou plutôt, son opinion était que ma présence lui permettait de parler de sujets qui n'intéressaient généralement personne, et c'était une occasion à ne pas gâcher.
 
 Il me parla de Vey'thar.
 

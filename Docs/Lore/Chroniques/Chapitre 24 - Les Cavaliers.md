@@ -138,7 +138,7 @@ Quatre ou cinq ans. La même fenêtre temporelle que tout le reste.
 
 Je demandai : « Qu'est-ce qu'ils voient ? »
 
-Le marchand me regarda avec, pour la première fois de la soirée, quelque chose de non-commercial dans les yeux. « Ils disent que le sol est transparent pour eux. Qu'ils voient à travers la terre. »
+Le marchand me regarda avec, pour la première fois de la soirée, quelque chose qui n'avait plus rien de marchand dans les yeux. « Ils disent que le sol est transparent pour eux. Qu'ils voient à travers la terre. »
 
 Je posai mon verre.
 
@@ -252,7 +252,7 @@ Il avait fait les crochets de ma première table à dessin.
 
 Je m'arrêtai sur cette pensée comme on s'arrête sur un pied qui vient de trouver quelque chose d'inattendu sous la neige.
 
-Ma première table à dessin était celle où j'avais appris la cartographie. Celle où j'avais dessiné mes premières cartes à onze ans, puis à quinze, puis à vingt. C'était une table que mon père avait construite et ajustée pour ma taille, et les crochets qui maintenaient le panneau incliné étaient de sa fabrication. Il y avait mis du soin — ce soin inutile des artisans qui font bien même ce qu'on ne verra pas. Mais ce que je ne savais pas à l'époque, et que je réalisai cette nuit sur les marches de Nectoria, c'est que cette table avait été la première chose que j'avais possédée en propre. Avant les livres, avant les instruments. La table.
+Ma première table à dessin était celle où j'avais appris la cartographie. Celle où j'avais dessiné mes premières cartes à onze ans, puis à quinze, puis à vingt. C'était une table que mon père avait construite et ajustée pour ma taille, et les crochets qui maintenaient le panneau incliné étaient de sa fabrication. Il y avait mis du soin — ce soin inutile des artisans qui font bien même ce qu'on ne verra pas. Mais ce que je ne savais pas à l'époque, et que je compris cette nuit sur les marches de Nectoria, c'est que cette table avait été la première chose que j'avais possédée en propre. Avant les livres, avant les instruments. La table.
 
 Il m'avait donné une surface pour dessiner des cartes.
 

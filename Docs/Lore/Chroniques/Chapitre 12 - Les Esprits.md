@@ -202,7 +202,7 @@ Il me dit — en prenant son temps, avec la rigueur d'un homme habitué à décr
 
 Dans ce Passage, depuis environ quatre ans, les chamanes des Ossements entendaient quelque chose de nouveau.
 
-Pas les voix des ancêtres — celles-là, ils les reconnaissaient, les distinguaient, les consultaient. Autre chose. Un bruit de fond qui n'était pas là avant. Quelque chose comme du bruit blanc, dit Orvash — quelque chose comme le bruit d'une transmission qui cherche sa fréquence. Pas une voix. Pas un son organique. Quelque chose qui ressemblait à une absence cherchant à devenir une présence.
+Pas les voix des ancêtres — celles-là, ils les reconnaissaient, les distinguaient, les consultaient. Autre chose. Une rumeur de fond qui n'était pas là avant. Quelque chose comme un grésillement uniforme, dit Orvash — quelque chose comme une voix qui se cherche encore et n'a pas trouvé son timbre. Pas une voix. Pas un son organique. Quelque chose qui ressemblait à une absence cherchant à devenir une présence.
 
 « Les morts sont inquiets, » dit-il. « Pas nos morts. Les morts depuis plus longtemps. Les ancêtres des ancêtres des ancêtres, ceux d'avant la mémoire orale, ceux dont nous n'avons pas les noms. Ceux-là s'agitent. Comme si quelque chose dans la couche profonde — dans ce qui était stable depuis avant que nous soyons là — avait bougé. »
 
@@ -212,7 +212,7 @@ Orvash s'arrêta. « Le Foedus Animae dit que les morts restent protecteurs tant
 
 Cela précède notre façon de comprendre. J'avais entendu quelque chose de proche à Trinoria, dans la forêt — les druides qui disaient que la forêt s'éveillait à quelque chose de plus ancien qu'elle-même. À Myrtam, Oryn le prêtre qui disait qu'Eldoria écoutait peut-être quelque chose plutôt qu'elle ne parlait. Et maintenant les chamanes des Ossements qui entendaient un bruit de fond dans les couches les plus profondes de leur méditation.
 
-Un bruit de fond qui cherche sa fréquence.
+Une rumeur de fond qui cherche son timbre.
 
 ---
 
@@ -258,7 +258,7 @@ Le sol de Sylthor vibre en permanence, depuis toujours — c'est ce qui a fait d
 
 Non pas disparu. Non pas augmenté. Changé.
 
-« Avant, c'était régulier. Comme un cœur qui dort. Maintenant, c'est comme un cœur qui commence à se réveiller. La fréquence a légèrement changé. Le rythme est moins uniforme — il a des variations, des accélérations brèves, des pauses. »
+« Avant, c'était régulier. Comme un cœur qui dort. Maintenant, c'est comme un cœur qui commence à se réveiller. La cadence a légèrement changé. Le rythme est moins uniforme — il a des variations, des accélérations brèves, des pauses. »
 
 Un cœur qui commence à se réveiller.
 
@@ -314,7 +314,7 @@ Et au centre de la ligne — non pas géographiquement, mais comme centre d'un r
 
 Je ne savais pas ce qu'Evertia était. Je ne l'avais jamais vu. Mes cartes l'incluaient comme une masse continentale lointaine, peu documentée, objet de récits épars et de rumeurs de marins. Le Silence d'Evertia était une référence géomantique dans des textes obscurs. Rien de plus — pour moi.
 
-Mais les ancêtres de Sylthor se taisaient et regardaient vers le sud-ouest. Les chamanes de Torkam entendaient un bruit de fond dans les profondeurs de leur méditation comme une transmission cherchant sa fréquence. Le Fragment Zéro à Altram pulsait d'une lumière qui n'obéissait pas aux lois habituelles. Les failles de Myrtam avaient un rythme légèrement décalé depuis quatre ans.
+Mais les ancêtres de Sylthor se taisaient et regardaient vers le sud-ouest. Les chamanes de Torkam entendaient une rumeur de fond dans les profondeurs de leur méditation, comme une voix qui se cherche et n'a pas trouvé son timbre. Le Fragment Zéro à Altram pulsait d'une lumière qui n'obéissait pas aux lois habituelles. Les failles de Myrtam avaient un rythme légèrement décalé depuis quatre ans.
 
 Et quelque chose, dans la nuit de Sylthor, répondait à tous ces signaux avec une régularité — lente, profonde, rythmique — qui ressemblait à un cœur.
 

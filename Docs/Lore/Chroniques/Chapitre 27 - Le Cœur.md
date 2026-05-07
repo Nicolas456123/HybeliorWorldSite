@@ -200,7 +200,7 @@ Je suis Délié. Je l'ai toujours été. Et ce soir, pour la première fois depu
 
 Si l'inscription de Kharazir dit vrai, le monde que j'ancrerais tremblerait. Si.
 
-Le battement du Mont Cendra continue — je le sens encore, plus diffus, atténué par la distance et par les murs de la chambre, mais là. Présent comme une évidence que je n'avais pas les mots pour formuler avant d'en faire l'expérience. Une fréquence que mon corps connaît sans que mon esprit l'ait jamais apprise.
+Le battement du Mont Cendra continue — je le sens encore, plus diffus, atténué par la distance et par les murs de la chambre, mais là. Présent comme une évidence que je n'avais pas les mots pour formuler avant d'en faire l'expérience. Un rythme que mon corps connaît sans que mon esprit l'ait jamais appris.
 
 Ancrages du monde. Ce que le monde tient — selon la lecture des inscriptions.
 

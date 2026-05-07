@@ -48,7 +48,7 @@ Aldris Vane l'avait trouvé. Ou plutôt — elle avait trouvé ce qui dépassait
 
 Elle avait aussi noté autre chose.
 
-*« Les instruments magnétiques sont inutilisables à moins de quarante minutes de marche de la formation. Pas la déviation ordinaire que nous observions depuis deux jours — une oscillation complète, les aiguilles tournant en cercles continus comme si plusieurs pôles magnétiques existaient simultanément dans la même zone. Le Dr Arven suggère une anomalie géologique. Je note sa suggestion. Je note aussi que cette explication ne satisfait pas les données de gradient thermique, qui indiquent une remontée de chaleur depuis des profondeurs impossibles pour une source géothermique conventionnelle. Quelque chose chauffe la base du glacier depuis l'intérieur. *»*
+*« Les instruments magnétiques sont inutilisables à moins de quarante minutes de marche de la formation. Pas la déviation ordinaire que nous observions depuis deux jours — une oscillation complète, les aiguilles tournant en cercles continus comme si plusieurs pôles magnétiques existaient simultanément dans la même zone. Le Dr Arven suggère une anomalie géologique. Je note sa suggestion. Je note aussi que cette explication ne satisfait pas les données de gradient thermique, qui indiquent une remontée de chaleur depuis des profondeurs impossibles pour une source géothermique ordinaire. Quelque chose chauffe la base du glacier depuis l'intérieur. *»*
 
 La note suivante était plus courte : *« Nous avons entendu la pulsation cette nuit. Pas tous — Arven dit n'avoir rien entendu. Mais cinq d'entre nous l'ont sentie plutôt qu'entendue, dans les os, dans les dents. Un rythme régulier. Lent. »*
 

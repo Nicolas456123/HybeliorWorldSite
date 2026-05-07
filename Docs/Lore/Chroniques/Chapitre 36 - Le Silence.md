@@ -82,7 +82,7 @@ Faible. Presque imperceptible. Mais là — montant du sol, depuis la roche, dep
 
 Baelor était sur le même réseau.
 
-Je ne pus pas développer cette pensée davantage à ce moment-là — la méditation collective ne laissait pas d'espace à la pensée narrative, elle occupait un type d'attention différent que mes outils habituels ne savaient pas partager. Mais la sensation s'imprima suffisamment pour que je la retrouve ensuite, dans ma cellule, et que je l'examine.
+Je ne pus pas approfondir cette pensée davantage à ce moment-là — la méditation collective ne laissait pas d'espace à la pensée narrative, elle occupait un type d'attention différent que mes outils habituels ne savaient pas partager. Mais la sensation s'imprima suffisamment pour que je la retrouve ensuite, dans ma cellule, et que je l'examine.
 
 Baelor sans Éthéré. L'unique continent d'Hybelior où l'éther ne circule pas — ou ne circule plus, la distinction étant peut-être plus importante que les textes académiques ne l'admettaient. Pas parce que la terre serait stérile ou que les moines l'auraient refusé — mais peut-être parce que quelque chose d'autre circule ici à la place. Quelque chose de plus profond que l'éther, quelque chose que l'éther recouvre ailleurs comme une couche de surface recouvre ce qui est dessous.
 
@@ -204,7 +204,7 @@ J'avais appris assez de la gestuelle baelorienne pendant ces cinq jours pour en 
 
 *Revenez quand vous aurez lu la troisième langue.*
 
-Je ne saurais pas formuler comment ce geste disait cela avec un tel niveau de précision. Mais il le disait.
+Je ne saurais pas formuler comment ce geste disait cela avec autant de précision. Mais il le disait.
 
 Je hochai la tête.
 

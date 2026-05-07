@@ -70,7 +70,7 @@ Je mangeai lentement, ce que je ne faisais presque jamais en voyage. Je mangeai 
 
 Retto vint s'asseoir à ma table à la fin du service — une pratique qui m'avait surpris à Tyndara et qui était apparemment naturelle dans les ports du sud d'Onara, les taverniers qui finissent leur travail en bavardant avec les voyageurs comme si c'était la partie la plus importante de la soirée. Il apporta un pichet de vin blanc — le vin de Celnaris, de Tyndara, que je reconnus à sa sécheresse fruitée — et deux gobelets sans me demander si j'en voulais, ce qui était présomptueux et juste à la fois.
 
-Il me demanda d'où je venais. Je commençai à répondre par Kharazir, comme d'habitude, et puis je réalisai — pour la première fois depuis le début de ce voyage — que je ne venais plus tout à fait de Kharazir. Je venais du voyage. Je venais d'avoir traversé Galenor et Alkaran et la moitié d'Onara, et Kharazir était une origine mais n'était plus une provenance.
+Il me demanda d'où je venais. Je commençai à répondre par Kharazir, comme d'habitude, et puis je m'aperçus — pour la première fois depuis le début de ce voyage — que je ne venais plus tout à fait de Kharazir. Je venais du voyage. Je venais d'avoir traversé Galenor et Alkaran et la moitié d'Onara, et Kharazir était une origine mais n'était plus une provenance.
 
 Je dis : « Je suis cartographe. Je viens du nord. »
 

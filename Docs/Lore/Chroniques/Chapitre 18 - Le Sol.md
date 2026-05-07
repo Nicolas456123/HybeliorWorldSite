@@ -72,7 +72,7 @@ Je ne dormis pas beaucoup. Ce n'était pas de l'anxiété. C'était de l'attenti
 
 Le sol changea avant que le terrain change.
 
-Je le remarquai d'abord comme une modification de texture sous mes semelles, à travers le cuir des bottes — quelque chose de légèrement différent, une rigidité accrue qui pouvait passer pour de la roche compacte mais qui était trop régulière pour être de la roche naturelle. Puis la couleur : la terre et la mousse et la végétation typique des plateaux de Tolvandor cédèrent la place, progressivement, à quelque chose de plus pâle. Plus lisse. Comme si la surface avait subi une transformation qui ne permettait plus à la végétation de prendre racine — pas par toxicité, pas par sécheresse, mais par une modification de la structure moléculaire du sol lui-même qui le rendait impénétrable pour les racines.
+Je le remarquai d'abord comme une modification de texture sous mes semelles, à travers le cuir des bottes — quelque chose de légèrement différent, une rigidité accrue qui pouvait passer pour de la roche compacte mais qui était trop régulière pour être de la roche naturelle. Puis la couleur : la terre et la mousse et la végétation typique des plateaux de Tolvandor cédèrent la place, progressivement, à quelque chose de plus pâle. Plus lisse. Comme si la surface avait subi une transformation qui ne permettait plus à la végétation de prendre racine — pas par toxicité, pas par sécheresse, mais par une modification de la nature même du sol qui le rendait impénétrable pour les racines.
 
 Sol vitrifié.
 
@@ -170,7 +170,7 @@ Ils arrivèrent par le nord, cinq hommes en armure légère de cristal dépoli �
 
 Ils m'attendaient à la limite du cercle de verre quand je sortis.
 
-Le Surveillant en charge — une femme d'une quarantaine d'années avec l'expression de quelqu'un qui a reçu des instructions précises et compte les respecter précisément — me dit, sans agressivité mais sans marge de négociation audible : « Vous êtes en zone restreinte. »
+Le Surveillant qui les commandait — une femme d'une quarantaine d'années avec l'expression de quelqu'un qui a reçu des instructions précises et compte les respecter précisément — me dit, sans agressivité mais sans marge de négociation audible : « Vous êtes en zone restreinte. »
 
 Je dis que je le savais.
 

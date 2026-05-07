@@ -44,7 +44,7 @@ Ce qui monte est plus grand qu'eux. Ce qui monte est ce pour quoi le réseau sou
 
 Tempora ne pouvait pas intervenir directement — je ne sais pas pourquoi, je n'ai pas les moyens de le savoir, mais c'est une constante dans toutes les traditions mystiques que les entités du temps ne modifient pas le présent, seulement ses marges. Mais Tempora pouvait choisir les endroits où la frontière entre les temps était déjà mince — les anciennes structures, les failles qui n'étaient pas naturelles mais construites — et y laisser des traces. Des messages dans une langue que quelqu'un, quelque jour, aurait apprise à lire.
 
-J'ai lu les messages assez tôt pour savoir que j'étais sur la bonne voie. Assez tard pour me demander si le timing était accidentel ou non.
+J'ai lu les messages assez tôt pour savoir que j'étais sur la bonne voie. Assez tard pour me demander si la concordance était accidentelle ou non.
 
 *Sixième et dernier point. Navigor revient.* Le Message de Mirathi est un texte de vingt-trois colonnes gravé dans la pierre d'un monument que personne ne sait dater avec précision. Les érudits qui en ont déchiffré des fragments — par analogie avec des systèmes d'écriture connus, par déduction structurelle, par les quelques mots dont le sens semble stable à travers les comparaisons — s'accordent sur ceci : quelque chose qui était parti reviendra. Quelque chose de vaste. Quelque chose dont le départ avait changé le monde et dont le retour le changera de nouveau.
 

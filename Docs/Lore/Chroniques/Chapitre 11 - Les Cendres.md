@@ -212,7 +212,7 @@ Trinoria — vibrations dans le sol des forêts profondes, depuis environ cinq a
 
 Fragment Zéro à Altram — pulsation lumineuse dans un objet d'origine inconnue, gardé par la Guilde depuis des générations. Caractère : régulier, lent. Interprétation des gardiens : anomalie stable, sans danger. Mais les gardiens m'avaient semblé moins sûrs d'eux qu'ils ne le prétendaient.
 
-Mines d'Iskara-Ferrath — sons dans les galeries les plus profondes que personne ne peut identifier ni localiser. Caractère : intermittents, basses fréquences. Interprétation des mineurs : superstition, gaz, déformation de roche. Mais les mineurs qui en parlaient avaient dans la voix quelque chose qui n'était pas de la superstition.
+Mines d'Iskara-Ferrath — sons dans les galeries les plus profondes que personne ne peut identifier ni localiser. Caractère : intermittents, tonalités graves. Interprétation des mineurs : superstition, gaz, déformation de roche. Mais les mineurs qui en parlaient avaient dans la voix quelque chose qui n'était pas de la superstition.
 
 Ardentris — pulsation légèrement décalée des failles volcaniques depuis quatre ou cinq ans. Caractère : rythme modifié, imperceptible sans référence de long terme. Interprétation des prêtres de l'Ignis Aeternum : Eldoria respire différemment. Écoute quelque chose.
 
