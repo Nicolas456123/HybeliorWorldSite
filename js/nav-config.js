@@ -52,6 +52,7 @@ const NavConfig = {
                 { key: 'index',       label: "Vue d'ensemble", src: 'GDD/02 - Monde/Index.md' },
                 { key: 'cosmologie',  label: 'Cosmologie',     src: 'GDD/02 - Monde/Cosmologie.md' },
                 { key: 'geographie',  label: 'Géographie',     src: 'GDD/02 - Monde/Géographie.md' },
+                { key: 'continents',  label: 'Continents',     src: 'GDD/02 - Monde/Continents/Index.md' },
                 { key: 'lignees',     label: 'Lignées',        src: 'GDD/02 - Monde/Lignées.md' },
                 { key: 'histoire',    label: 'Histoire',       src: "GDD/02 - Monde/Histoire d'Hybelior.md" },
                 { key: 'chronologie', label: 'Chronologie',    src: '/pages/lore-chronologie.html', engine: 'html' },

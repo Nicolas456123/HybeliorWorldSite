@@ -139,25 +139,60 @@
 
             // Tenter de résoudre la clé du manifeste : on essaie le from tel quel,
             // puis avec préfixes "GDD/" et "Lore/" (les deux racines courantes).
+            // On accepte aussi un dossier qui n'a que des sous-dossiers (pas de .md
+            // direct dans le manifeste) — ils seront listés comme cartes "dossier".
             const candidates = [from, 'GDD/' + from, 'Lore/' + from];
             let entries = null, resolvedKey = null;
             for (const k of candidates) {
-                if (manifest[k] && manifest[k].length) {
+                if (manifest[k]) {                       // existe (peut être vide)
                     entries = manifest[k];
                     resolvedKey = k;
                     break;
                 }
+                // Folder may have no direct files but exist via subdirs
+                for (const mk in manifest) {
+                    if (mk.startsWith(k + '/')) { resolvedKey = k; entries = []; break; }
+                }
+                if (resolvedKey) break;
             }
 
-            if (!entries) {
+            if (!resolvedKey) {
                 block.innerHTML = `<div class="md-dataview-empty">Aucun fichier trouvé pour <code>${from}</code></div>`;
                 return;
             }
+            if (!entries) entries = [];
+
+            // Sous-dossiers (enfants directs) qui ont un Index.md/_Index.md.
+            // On les liste comme cartes "dossier" pour permettre la navigation
+            // arborescente automatique depuis n'importe quel Index.
+            const subdirs = [];
+            for (const k in manifest) {
+                if (!k.startsWith(resolvedKey + '/')) continue;
+                const rel = k.slice(resolvedKey.length + 1);
+                if (rel.includes('/')) continue;   // enfant direct uniquement
+                const idx = manifest[k].find(e => e.isIndex && (e.name === 'Index' || e.name === '_Index'));
+                if (idx) subdirs.push({ folder: k, name: rel, title: idx.title, file: idx.file });
+            }
+            subdirs.sort((a, b) => a.name.localeCompare(b.name, 'fr'));
 
             // Construit la grille — exclut les entrées Index/_Index (le manifeste
             // les inclut pour la résolution wikilink mais on ne les liste pas).
             const grid = document.createElement('div');
             grid.className = 'md-dataview-grid';
+            // 1. Sous-dossiers (avec une icône) en premier
+            subdirs.forEach(sd => {
+                const card = document.createElement('a');
+                card.className = 'md-dataview-card md-dataview-card-folder';
+                const fullPath = sd.folder + '/' + sd.file;
+                card.href = '#md/' + encodeURIComponent(fullPath);
+                card.dataset.mdTarget = fullPath;
+                card.innerHTML = `
+                    <div class="md-dataview-card-title">📁 ${escHtml(sd.title || sd.name)}</div>
+                    <div class="md-dataview-card-name">${escHtml(sd.name)}/</div>
+                `;
+                grid.appendChild(card);
+            });
+            // 2. Fichiers .md du dossier (hors Index)
             entries.filter(e => !e.isIndex).forEach(entry => {
                 const card = document.createElement('a');
                 card.className = 'md-dataview-card';
