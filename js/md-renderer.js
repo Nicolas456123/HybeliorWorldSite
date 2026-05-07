@@ -268,6 +268,15 @@
                 setTimeout(() => SidebarTOC.build(sidebar, targetEl), 50);
             }
 
+            // Activer le surlignage sur le contenu rendu (pageKey = chemin .md)
+            if (window.Highlights) {
+                const contentEl = targetEl.querySelector('.md-content') || targetEl;
+                const titleEl = contentEl.querySelector('h1');
+                window.Highlights.attach(contentEl, mdPath, {
+                    title: (titleEl && titleEl.textContent.trim()) || mdPath
+                });
+            }
+
             window.scrollTo({ top: 0, behavior: 'instant' });
         } catch (e) {
             targetEl.innerHTML = `<div class="subtab-error">Erreur de chargement : ${e.message}</div>`;
