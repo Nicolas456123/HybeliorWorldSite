@@ -1,0 +1,26 @@
+{
+  "name": "Hybélior — World of Dark Fantasy",
+  "short_name": "Hybélior",
+  "description": "13 continents, 37 nations, 114+ entités cosmiques. Explorez le monde d'Hybélior.",
+  "lang": "fr",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#e8dcc4",
+  "theme_color": "#7a4c0a",
+  "icons": [
+    {
+      "src": "/icons/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/apple-touch-icon.png",
+      "type": "image/png",
+      "sizes": "180x180",
+      "purpose": "any"
+    }
+  ]
+}

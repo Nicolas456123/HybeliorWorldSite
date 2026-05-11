@@ -9,11 +9,15 @@
     <link rel="icon" type="image/png" sizes="16x16" href="/icons/favicon-16.png">
     <link rel="icon" type="image/svg+xml" href="/icons/favicon.svg">
     <link rel="stylesheet" href="/css/style.css">
+    <link rel="manifest" href="/manifest.webmanifest">
     <meta name="description" content="Hybélior — Explorez un monde dark fantasy avec 13 continents, 37 nations, une cosmologie profonde et un gameplay innovant.">
     <meta property="og:title" content="Hybélior — World of Dark Fantasy">
     <meta property="og:description" content="13 continents, 37 nations, 114+ entités cosmiques. Explorez le monde d'Hybélior.">
     <meta property="og:type" content="website">
     <meta name="theme-color" content="#7a4c0a">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="Hybélior">
 </head>
 <body>
 
@@ -122,5 +126,14 @@
 <script src="/js/lore-reader.js"></script>
 <script src="/js/lore-search.js"></script>
 <script src="/js/highlights.js"></script>
+<script>
+  if ('serviceWorker' in navigator) {
+    window.addEventListener('load', function () {
+      navigator.serviceWorker.register('/sw.js').catch(function (err) {
+        console.warn('[PWA] Service worker registration failed:', err);
+      });
+    });
+  }
+</script>
 </body>
 </html>
