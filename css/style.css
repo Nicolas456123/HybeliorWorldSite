@@ -4116,3 +4116,94 @@ select:focus-visible,
     .hl-toggle { right: 12px; bottom: 12px; padding: 8px 12px; font-size: 13px; }
     .hl-panel { width: 100%; max-width: 100%; }
 }
+
+/* ============================================================
+   MOBILE READABILITY — fix tableaux qui s'écrasent, blocs <pre>
+   sans indicateur de scroll, modal trop padding, marges trop
+   serrées. Bloc final pour overrider proprement les règles
+   précédentes (cf. lignes 1650, 1680, 3287, 1719).
+   ============================================================ */
+
+@media (max-width: 768px) {
+    /* ── md-content : marges latérales plus généreuses ── */
+    .md-content { padding: 16px 10px 60px; }
+    .page-content { padding-left: 12px; padding-right: 12px; }
+
+    /* ── Tableaux : forcer le débordement + scroll horizontal lisible ──
+       Problème avant : `word-break: break-word` (règle desktop ligne 3299)
+       écrasait les cellules à ~48 px chacune au lieu de déclencher
+       `overflow-x: auto`. Fix : min-width 96 px par cellule, mots qui
+       respirent normalement, longs URLs cassés via overflow-wrap. */
+    .md-content table {
+        display: block;
+        width: 100%;
+        max-width: 100%;
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+        position: relative;
+        /* Indicateur de scroll : ombre à droite tant qu'il y a du contenu caché */
+        background:
+            linear-gradient(to right, var(--bg-mid, #ddd0b4) 0, transparent 8px),
+            linear-gradient(to left, var(--bg-mid, #ddd0b4) 0, transparent 8px),
+            linear-gradient(to right, rgba(0,0,0,0) calc(100% - 18px), rgba(120,78,18,0.28) 100%);
+        background-attachment: local, local, scroll;
+        background-repeat: no-repeat;
+    }
+    .md-content table th,
+    .md-content table td {
+        white-space: normal;
+        word-break: normal;
+        overflow-wrap: anywhere;
+        min-width: 96px;
+        padding: 7px 10px;
+        font-size: 13.5px;
+        line-height: 1.45;
+    }
+    /* Cellules de tête : éviter wrap inutile sur les libellés courts */
+    .md-content table th { white-space: nowrap; min-width: 88px; }
+
+    /* ── Blocs <pre> (code + diagrammes ASCII) : police plus dense
+       + indicateur de scroll horizontal ── */
+    .md-content pre {
+        font-size: 11.5px;
+        line-height: 1.4;
+        padding: 10px 12px;
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+        position: relative;
+        background-image:
+            linear-gradient(to right, rgba(0,0,0,0) calc(100% - 18px), rgba(120,78,18,0.28) 100%);
+        background-repeat: no-repeat;
+        background-attachment: scroll;
+    }
+    .md-content pre code { font-size: inherit; }
+    /* Code inline (pas un bloc) : on garde lisible mais on laisse wrap */
+    .md-content :not(pre) > code { word-break: break-word; }
+
+    /* ── Modal lore : padding allégé pour gagner de la place utile ── */
+    .lore-modal-body { padding: 14px 12px 24px; }
+    .lore-modal-header { padding: 12px 14px 10px; }
+    .lore-modal-title { font-size: 16px; letter-spacing: 1px; }
+    .lore-tab { padding: 4px 10px; font-size: 11px; }
+
+    /* ── Liens internes Obsidian très longs : ne pas faire déborder ── */
+    .md-content a { overflow-wrap: anywhere; }
+
+    /* ── Callouts : padding réduit pour bonus de largeur ── */
+    .md-content .md-callout { padding: 10px 12px; margin: 14px 0; }
+}
+
+/* Modal lore en plein écran sur petits téléphones — gagne ~38 px
+   de chaque côté et supprime le bord arrondi sur l'overlay. */
+@media (max-width: 480px) {
+    .lore-modal { padding: 0; align-items: stretch; }
+    .lore-modal-panel {
+        max-width: 100vw;
+        max-height: 100vh;
+        height: 100vh;
+        border-radius: 0;
+        border-left: none;
+        border-right: none;
+    }
+    .lore-modal-body { padding: 14px 10px 28px; }
+}
