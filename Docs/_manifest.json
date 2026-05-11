@@ -189,6 +189,11 @@
       "title": "⚔️ Le Combat — le dialogue qui peut tuer"
     },
     {
+      "name": "Dialogue et Interactions",
+      "file": "Dialogue et Interactions.md",
+      "title": "💬 Dialogue et Interactions — la parole comme acte"
+    },
+    {
       "name": "Exploration",
       "file": "Exploration.md",
       "title": "🗺️ Exploration — entrer en relation avec un monde"
@@ -213,6 +218,11 @@
       "name": "Interface",
       "file": "Interface.md",
       "title": "🖥️ Interface — la transparence du regard"
+    },
+    {
+      "name": "Inventaire",
+      "file": "Inventaire.md",
+      "title": "🎒 Inventaire — la bourse du voyageur"
     },
     {
       "name": "L'Accord",
@@ -270,9 +280,19 @@
       "title": "⚔️ PvP — le monde quand il devient dangereux"
     },
     {
+      "name": "Réactions Élémentaires",
+      "file": "Réactions Élémentaires.md",
+      "title": "🜂 Les Réactions Élémentaires — la chimie cosmique des voix"
+    },
+    {
       "name": "Économie",
       "file": "Économie.md",
       "title": "💰 L'Économie — le tissu vivant d'Hybelior"
+    },
+    {
+      "name": "Équipement et Armures",
+      "file": "Équipement et Armures.md",
+      "title": "🛡️ Équipement et Armures — la seconde peau du voyageur"
     }
   ],
   "GDD/03 - Mécaniques/Architecture": [
@@ -1408,7 +1428,7 @@
     {
       "name": "Architecture Data-Driven",
       "file": "Architecture Data-Driven.md",
-      "title": "Architecture Data-Driven"
+      "title": "🏗️ Architecture Data-Driven — un monde qui se recompose"
     },
     {
       "name": "Index",
@@ -1426,7 +1446,7 @@
     {
       "name": "Index",
       "file": "Index.md",
-      "title": "Bestiaire",
+      "title": "🐾 Le Bestiaire — recensement du vivant",
       "isIndex": true
     }
   ],
@@ -1434,7 +1454,7 @@
     {
       "name": "Index",
       "file": "Index.md",
-      "title": "Comportements PNJ",
+      "title": "Comportements PNJ — vivre sa journée, pas attendre le joueur",
       "isIndex": true
     }
   ],

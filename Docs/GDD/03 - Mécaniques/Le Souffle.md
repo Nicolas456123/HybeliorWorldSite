@@ -63,6 +63,76 @@ Et puis il y a les Cardinaux. Ceux dont parlent les vieux moines, les chamanes d
 
 ---
 
+## Le cycle court — jour et nuit
+
+> *« Le Souffle est la phrase que le monde se murmure à lui-même sur des semaines. Le jour et la nuit sont la cadence d'une respiration, à l'intérieur de cette phrase. L'un porte le sens, l'autre porte la voix. »*
+>
+> *— Sœur Ilvèze, observatrice de l'Ordo Caelum, Astravia*
+
+Si le Souffle est la **respiration longue** du cosmos, le cycle jour-nuit en est la **pulsation cardiaque**. Une cadence plus courte, mécaniquement légère, qui ne rebat pas les cartes — qui les *colore*. Aucune Ère ne se joue de la même manière à l'aube et à minuit ; aucune route n'a la même densité au crépuscule qu'en plein soleil. Ce que le Souffle dit des saisons cosmiques, le jour-nuit le dit des heures vécues. Tous deux respirent. Mais l'un parle de **monde**, et l'autre, de **présence**.
+
+C'est volontaire que la pulsation soit modeste. Si chaque cycle court bouleversait le gameplay, le joueur s'épuiserait — chaque jour serait une nouvelle saison miniature, et la grande respiration du Souffle perdrait sa solennité. À l'inverse, si rien ne changeait, le ciel d'Hybelior ne serait qu'un décor mobile. Le cycle court occupe exactement la place intermédiaire qu'il faut : il *teinte*, il *suggère*, il *invite* — sans imposer.
+
+### Le métronome cosmique mineur
+
+Hybelior tourne sur son axe à un rythme qui lui est propre. Un jour complet dure environ **soixante minutes de temps réel** — une heure mortelle pour une journée du monde, soit un **facteur 36** par rapport à notre temps. Cette compression n'est pas arbitraire : elle est la cadence qu'il faut pour qu'une session moyenne traverse plusieurs phases — assez pour qu'on vive un coucher de soleil pendant qu'on chasse, qu'on attende l'aube assis près d'un feu, qu'on rentre en ville à la nuit tombée. Le joueur connecté deux heures vit *deux jours* d'Hybelior. C'est suffisant pour que le ciel raconte quelque chose ; c'est court pour qu'aucun moment ne dure trop.
+
+Les astronomes du monde — ceux de l'observatoire d'Astravia, les chamanes des continents glacés, les moines compteurs de l'Ordo Caelum — ont mesuré le ciel avec précision. La déclinaison du soleil, sa course inclinée selon la latitude, la lune et ses **vingt-neuf jours et demi** de cycle synodique, ses huit phases nommées par toutes les traditions du monde : tout cela existe, tout cela tourne, tout cela influence. Pour les chiffres exacts — angles, périodes, calculs astronomiques —, voir [[Time Of Day]].
+
+### Les quatre tonalités du jour
+
+À l'intérieur de cette pulsation, quatre **tonalités narratives** se distinguent. Les hommes les nomment depuis si longtemps que personne ne se rappelle qui les a nommées le premier.
+
+**L'aube** est l'heure du seuil. Le monde sort lentement de sa nuit, la lumière est encore bleue, l'air retient le froid. C'est l'heure des départs — pèlerinages qui prennent la route, chasseurs qui partent relever leurs pièges, oracles qui sortent de méditation. La tonalité est celle d'une **promesse** qui n'a pas encore été tenue. Tout est possible parce que rien n'est encore fait. Ceux qui marchent à l'aube portent souvent dans leur cœur une question qu'ils n'oseraient pas formuler en plein jour.
+
+**Le jour** est l'heure de la matière. La lumière franche tombe sur les choses, et les choses sont ce qu'elles sont. C'est l'heure du travail, des marchés ouverts, des combats francs, des conversations où l'on se regarde dans les yeux. Hybelior est un monde dark fantasy, mais son jour n'est pas sombre — il est **lucide**. On y voit ce qu'il faut faire, et l'on fait. Les religions solaires, l'Ordo Caelum en tête, considèrent que le jour est le moment où Celestia ouvre les yeux ; mais même ceux qui ne croient à rien sentent que les heures de plein soleil pèsent autrement.
+
+**Le crépuscule** est l'heure de la bascule. Entre la **golden hour** où tout se dore et la **blue hour** où tout devient indigo, le monde se prépare à changer de visage. Les astronomes distinguent trois crépuscules — civil, nautique, astronomique — selon l'angle du soleil sous l'horizon ; les poètes n'en distinguent qu'un seul, et l'appellent **le moment où l'on n'est plus tout à fait soi**. Les villes ferment leurs portes. Les sentinelles relèvent leur tour de garde. Les voyageurs cherchent une auberge ou pressent le pas. Le crépuscule est l'heure des **décisions** : on choisit alors ce qu'on sera pour la nuit qui vient.
+
+**La nuit profonde** est l'heure des voix qui n'ont pas droit de cité le jour. Le soleil est sous l'horizon de plus de dix-huit degrés ; les étoiles règnent sans contradiction. C'est l'heure de la lune et de ses phases, des rituels Noctari, des secrets, des chasses prudentes, des amours qui n'osent pas. Beaucoup de choses dorment ; beaucoup d'autres s'éveillent. Le monde n'y est pas plus dangereux qu'au jour — il y est *différemment* dangereux, et cette différence est précieuse.
+
+> *« La nuit n'est pas l'opposé du jour. La nuit est ce que le jour ne sait pas voir. »*
+>
+> *— proverbe attribué aux marcheurs d'Onara*
+
+### Ce que la pulsation change, ce qu'elle laisse intact
+
+Le cycle court ne touche pas aux fondations. Tes Maîtrises, ton Accord, tes statistiques, ta puissance brute — tout cela ne dépend pas de l'heure. Un guerrier reste un guerrier à minuit comme à midi. Une Voie ne se tarit pas parce que le soleil se couche.
+
+Mais autour de cette colonne stable, **tout vibre légèrement**. La **visibilité** d'abord : la nuit profonde porte des distances plus courtes, des silhouettes incertaines, une dépendance accrue aux torches et aux yeux entraînés. Les rangers et les Liés aux Voies nocturnes y voient mieux que les autres ; les guerriers en armure lourde y sont plus vulnérables aux embuscades. Le **comportement des PNJ** ensuite : les marchands ferment boutique au crépuscule, certains ouvrent à nuit close, les patrouilles changent de tour, les ivrognes sortent, les enfants rentrent. Les **prix au marché** suivent — certains biens (huile de lampe, fruits frais, herbes nocturnes) varient de quelques pour cent selon l'heure, ce qui ne change pas une fortune mais récompense ceux qui observent. Les **créatures** enfin : certaines bêtes dorment quand d'autres s'éveillent, certaines régions sont fréquentables le jour et hostiles la nuit, certains événements rares ne se déclenchent qu'à une phase précise.
+
+Rien de tout cela ne brise une session. Tout cela la **colore**.
+
+### Les voix Éternelles et leurs heures
+
+Toutes les voix de la Polyphonie ne respirent pas au même rythme. Certaines, par tempérament, sont plus éloquentes le jour ; d'autres, la nuit. Cette préférence n'est pas une hiérarchie — elle est une **vocation**.
+
+Les voix associées à la lumière franche, à la lucidité, à la communauté visible, parlent plus fort entre l'aube et le crépuscule. Les fidèles de l'Ordo Caelum savent que leurs rituels de plein jour portent une autorité particulière ; les Concordants des Ères solaires sentent leur Accord vibrer plus net sous le soleil haut. À l'inverse, les voix associées au caché, à l'intériorité, au seuil entre mondes, parlent plus aisément après le coucher. Les Noctari le savent depuis toujours — c'est le fondement même de leur tradition. Les Liés aux Voies que la nuit favorise éprouvent, à minuit, une fluidité qu'ils ne retrouvent pas en plein jour.
+
+Cette modulation est **discrète**. Elle ne fait pas qu'un pratiquant diurne devienne impuissant la nuit, ni l'inverse. Elle dit seulement, dans le grain fin de l'expérience, que **toutes les heures ne sont pas identiques pour tous**. Un Lié sage apprend à connaître les heures qui le portent, et celles qu'il doit traverser. La sagesse, à Hybelior, commence souvent par cette attention-là.
+
+> *« Demande à un Noctari à quelle heure il prie. Il te répondra : à toutes. Mais demande-lui à quelle heure il est exaucé. Là, il sourira. »*
+>
+> *— Maître Ostren, théologien comparatiste, Cestra*
+
+### Pulsation courte, respiration longue
+
+Il y a, entre le cycle jour-nuit et le Souffle, une **tension d'échelles** qui fait toute la richesse du tissu temporel d'Hybelior. La pulsation court — soixante minutes — répète, jour après jour, la même alternance. La respiration longue — semaines, mois — change la nature de ce qui se répète. Et les deux **interagissent**.
+
+Une même nuit n'a pas la même tonalité selon l'Ère qui la porte. Sous une Ère où les voix nocturnes dominent la Polyphonie, chaque nuit est un événement — un moment où le monde, déjà accordé à l'obscurité, redouble d'intensité au coucher du soleil. Sous une Ère solaire, la même nuit reste belle, mais elle est traversée, vécue, attendue plutôt qu'habitée. À l'inverse, un même jour n'a pas la même clarté selon que le Souffle vient de passer ou qu'on s'en approche : la lumière de l'aube qui suit un Souffle Cardinal a une qualité que personne n'oublie, même si physiquement elle est calculée par les mêmes équations qu'hier.
+
+Cette imbrication n'est pas dite explicitement au joueur. Elle se vit. Au bout de quelques Ères, on apprend qu'on **attend différemment la nuit** selon ce que le monde respire. C'est l'un des plaisirs discrets d'Hybelior — un plaisir qu'on ne peut ni acheter, ni accélérer, ni résumer en infobulle.
+
+### Saisons, météo, et le tissu
+
+Le cycle court ne respire pas seul. Il se compose avec les **Saisons** — qui font varier la durée du jour selon la latitude et l'inclinaison axiale — et avec la **Météo** — qui voile, accentue, contredit parfois la tonalité de l'heure. Une aube d'hiver à Cestra n'est pas une aube d'été à Onara. Un crépuscule sous pluie battante à Astravia n'est pas le même crépuscule qu'à ciel pur. Ces trois cadences — heure, saison, météo — tissent ensemble la **trame fine** sur laquelle le Souffle imprime sa figure longue.
+
+Les détails de cette composition appartiennent aux pages dédiées : voir [[Seasons]] pour le rythme saisonnier et l'inclinaison du monde, [[Sky Surface Renderer]] pour la traduction visuelle des heures et des phases lunaires, [[HW Environment Manager]] pour l'orchestration générale.
+
+> Pour les paramètres exacts du cycle court — RealSecondsPerGameHour, calcul des sept périodes (Night, AstronomicalTwilight, NauticalTwilight, CivilTwilight, BlueHour, GoldenHour, Day), cycle synodique lunaire, équation du temps — voir [[Time Of Day]].
+
+---
+
 ## Ce que le Souffle préserve, ce qu'il rend
 
 À chaque passage, le Souffle pose deux gestes simultanés. Il **préserve** tout ce qui est mémoire et identité ; il **rend** ce qui est puissance brute. Cette distinction est, en soi, une déclaration philosophique.

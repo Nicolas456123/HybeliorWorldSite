@@ -125,6 +125,125 @@ Le combat, ici, n'est pas une parenthèse dans la vie du joueur. C'est l'un des 
 
 ---
 
-*Liens narratifs : [[Mort]] | [[Armes et Maîtrise]] | [[Le Lien]] | [[L'Accord]] | [[Le Souffle]] | [[Les Ères]] | [[Personnage]]*
+## Le flux des combos
+
+> *« Un combat n'est pas un alphabet. C'est une phrase. Et l'alphabet ne dit rien tant qu'il n'est pas tenu par le rythme. »*
+>
+> *— Maître Veska Korlann, salle d'armes de Mosrack*
+
+Voici ce qu'on apprend, dans les salles d'armes d'Hybelior, le jour où l'on cesse d'être un débutant : un combat n'est pas une succession de coups, c'est une **phrase**. Et les coups, à l'intérieur de cette phrase, ne sont que les mots dont la prosodie — le rythme, les pauses, les enchaînements — porte presque tout le sens. Frapper, à Hybelior, c'est apprendre à **parler une langue qu'on ne sait pas encore lire**. Les combos sont la grammaire qui fait que les frappes tiennent ensemble.
+
+### La frappe et la fenêtre
+
+Un combo n'existe pas en lui-même. Il **se déclenche**, et puis il **s'ouvre**. Quand un combattant porte sa première frappe, le monde — à travers l'arme, à travers le corps, à travers la résonance que l'instant a inscrite dans la chair — lui accorde une **brève fenêtre** pendant laquelle la frappe suivante peut s'enchaîner. Cette fenêtre n'est pas un timer arbitraire. C'est la trace du **mouvement précédent** qui n'a pas encore fini de se dissiper. Tant qu'elle dure, tu peux poursuivre la phrase ; quand elle se referme, il faut recommencer à parler depuis le silence.
+
+Cette fenêtre est volontairement étroite. Pas si étroite qu'elle exige de compter les frames — Hybelior n'a jamais voulu réduire le combat à un puzzle de timing. Mais pas si large qu'elle te permette de chaîner indéfiniment sans avoir à sentir le rythme. Quelque chose entre les deux : un **espace habitable** où le combattant attentif reconnaît, sans avoir à compter, le moment exact où la frappe suivante doit s'inscrire pour que la phrase tienne.
+
+### Continuer ou rompre
+
+Dans cette fenêtre, le combattant a un choix qu'il porte sans toujours en avoir conscience : **continuer** la phrase qu'il a commencée, ou **rompre** pour en commencer une autre. Continuer, c'est enchaîner avec la même cadence — légère sur légère, lourde sur lourde — et laisser la phrase se déployer jusqu'à son finisher naturel. Rompre, c'est changer de cadence en cours de phrase — passer du léger au lourd, du lourd au léger — et accepter que ce changement remette le compteur à zéro. Aucune de ces deux options n'est meilleure dans l'absolu. Elles servent des intentions différentes, des adversaires différents, des moments différents du combat.
+
+Cette dualité est volontaire. Elle dit que **maîtriser un combo n'est pas réciter une séquence parfaite**. C'est savoir, à chaque instant, si la phrase qu'on a commencée mérite d'être finie, ou s'il faut couper court pour répondre à ce que l'adversaire vient de proposer. Un combattant qui enchaîne toujours sa séquence complète sans regarder ce qui se passe en face n'est pas un bon combattant — c'est un automate. Un combattant qui interrompt sans cesse ses phrases sans en finir aucune n'est pas un bon combattant non plus — c'est un bavard. La maîtrise tient dans **l'oscillation** entre les deux : finir quand finir est juste, rompre quand rompre est nécessaire.
+
+### Le finisher — la dernière syllabe
+
+Au bout d'une chaîne tenue jusqu'au bout, il y a le **finisher** — la dernière syllabe de la phrase. Ce n'est pas une frappe ordinaire. C'est le coup qui **conclut**, qui scelle ce qui a précédé, qui transforme la succession en un acte fini. Frapper sans finisher, c'est laisser sa phrase en suspens ; frapper avec finisher, c'est mettre le point à la fin de ce qu'on avait à dire.
+
+Le finisher se gagne. Il ne se déclenche pas en appuyant sur un bouton spécial — il **émerge** quand la chaîne précédente a été tenue avec assez de constance pour que le monde le permette. Cette exigence est volontaire. Hybelior refuse l'idée qu'on puisse accéder aux coups les plus signifiants sans avoir traversé la phrase qui les précède. Un finisher arraché sans contexte serait un mot sans grammaire — il ne dirait rien.
+
+> *« On ne porte pas le coup final. On le mérite par tout ce qu'on a porté avant lui. »*
+>
+> *— Maître Aldric, forgeron de Mosrack, regardant son fils s'entraîner*
+
+### La cadence par l'arme
+
+Chaque arme impose sa propre **cadence**. C'est l'un des grands enseignements de la [[Armes et Maîtrise|maîtrise]] : on ne combat pas à l'épée comme à la lance, ni à la dague comme à la hache. La fenêtre de combo n'a pas la même largeur, le finisher n'a pas la même charge, la rupture n'a pas la même conséquence. Chaque arme est une **langue distincte**, avec ses tournures propres, ses pauses caractéristiques, ses cadences que seul l'usage prolongé fait entrer dans le corps.
+
+Cette diversité n'est pas un détail technique. C'est une promesse : que les heures consacrées à une arme se transforment, peu à peu, en une **intimité de phrase** que le combattant ne peut retrouver en changeant d'arme. Le maître d'épée qui prend une hache redevient apprenti — pas parce qu'il a oublié quoi que ce soit, mais parce que la cadence de la hache n'est pas celle de l'épée, et qu'il faut l'apprendre **dans le corps** avant de pouvoir y parler couramment.
+
+### Les conditions cachées
+
+Certaines phrases du combat ne s'ouvrent que dans des conditions précises. Un combo dont le finisher ne se révèle que sous une [[Les Ères|Ère]] particulière. Un enchaînement qui exige qu'on ait esquivé juste avant. Une variation qui n'apparaît que pour les combattants qui ont déjà atteint un certain palier de maîtrise. Ces **conditions cachées** sont des promesses faites aux joueurs patients : *si tu pratiques assez, si tu lis ce que le monde te dit, des phrases s'ouvriront à toi que les autres ne soupçonnent pas*.
+
+Hybelior assume cette opacité. On ne te dit pas, dans un menu, ce qui débloquera la suite. On te laisse **trouver** — par l'usage, par l'écoute, par les indices que les vieux maîtres glissent dans leurs leçons. C'est l'une des rares récompenses qu'aucun guide ne saurait t'épargner complètement, parce qu'elle est faite, précisément, du chemin que tu auras parcouru pour la mériter.
+
+> [!important]
+> Le détail technique des fenêtres (durée exacte de la fenêtre de combo, coûts de stamina, multiplicateurs de dégâts, conditions cachées par moveset) se trouve dans [[Combat System]], [[Combo System]] et [[Movesets]].
+
+### Le rythme comme récompense
+
+Au fond, ce que le système des combos récompense, ce n'est pas la vitesse — c'est le **rythme**. Un combattant qui frappe vite mais sans rythme n'enchaîne rien ; ses coups se télescopent, ses fenêtres se ratent, ses finishers ne sortent pas. Un combattant qui frappe lentement mais **dans le rythme** voit ses phrases se tenir, ses finishers s'ouvrir, ses adversaires reculer devant la cadence de ce qu'il prononce. Le rythme n'est pas une vitesse ; c'est une **présence au temps qui passe**.
+
+Cette philosophie est une réponse directe à ce qu'Hybelior refuse : le combat-button-mashing, où l'on appuie au plus vite sans penser à ce qu'on enchaîne. Ici, la vitesse seule ne paie pas. Ce qui paie, c'est l'attention au **moment juste** — ce moment où la frappe précédente n'a pas encore fini de résonner et où la suivante peut s'inscrire dans son écho. C'est un combat plus lent, en un sens, qu'un mash effréné. C'est aussi un combat **plus dense**, où chaque coup compte parce qu'il est porté à son instant.
+
+> *« Le débutant frappe vite. Le compétent frappe juste. Le maître frappe à l'instant où le monde, autour de lui, attendait qu'il frappât. »*
+>
+> *— proverbe de Cestra, attribué aux maîtres de l'École Grise*
+
+---
+
+## Ciblage et focus
+
+> *« Choisir qui regarder, c'est choisir qui ne plus voir. La cible n'est pas seulement ce qu'on désigne — c'est ce qu'on accepte de négliger pour la regarder. »*
+>
+> *— Iltheia, prêtresse-guerrière de l'Ignis Aeternum*
+
+Tout combattant d'Hybelior, à un moment ou un autre, fait l'expérience suivante : il se concentre sur un adversaire, il **verrouille son attention** sur lui — et il reçoit, dans le dos, la frappe d'un autre qu'il n'avait pas vu venir. Cette expérience n'est pas un accident du système ; c'est, exactement, ce que le ciblage cherche à enseigner. Choisir une cible, à Hybelior, c'est faire un **choix éthique du regard** — c'est dire *je te vois, toi, et j'accepte ce que je vais cesser de voir autour de toi pour mieux te regarder*.
+
+### Le verrouillage — l'attention dirigée
+
+Le verrouillage sur une cible — ce que les salles d'armes appellent le **focus** — n'est pas une simple aide au combat. C'est une **intensification de l'attention**. Quand un combattant verrouille un ennemi, son corps tout entier s'oriente vers cet ennemi : la caméra, la posture, les frappes, les esquives. Il devient, en quelques secondes, **un être tendu** vers une seule présence. Tout ce qui s'éloigne de cette présence s'estompe, devient flou, glisse hors du champ d'attention.
+
+Cette intensification a un prix. Ce qui est mis au point central perd de sa périphérie. La conscience de l'arrière, des côtés, des autres présences qui se déplacent autour, **diminue**. Pas par défaut technique — par nature même de l'attention humaine. On ne peut pas regarder une chose et tout le reste en même temps. Le focus dit cette vérité au combattant : *te concentrer, c'est te déposséder, brièvement, d'une partie de ce que tu pouvais voir*.
+
+### La tension entre focus et conscience périphérique
+
+Voici ce que les vieux maîtres d'Hybelior enseignent aux apprentis : **on ne combat pas bien en verrouillant tout le temps, et on ne combat pas bien en ne verrouillant jamais**. La bonne pratique tient dans une **oscillation** — verrouiller quand l'enjeu se concentre, relâcher quand le danger se distribue. Cette oscillation n'est pas une mécanique. C'est une **discipline du regard** que chaque combattant doit apprendre à pratiquer pour lui-même.
+
+Verrouille en duel, quand l'adversaire est unique et que la danse doit être étroite. Verrouille face à un boss, quand la lecture des mouvements exige une attention totale. Verrouille pendant un instant de cascade élémentaire (voir [[Réactions Élémentaires]]), quand tu prépares une phrase chimique sur un corps précis. Mais **relâche** dès que la mêlée devient ambiguë, dès que d'autres présences s'approchent, dès que le tissu du combat exige que tu sentes plusieurs voix à la fois plutôt qu'une seule très clairement.
+
+Cette tension entre **focus** et **conscience périphérique** est l'une des grandes leçons que le combat à Hybelior cherche à transmettre. Elle dit quelque chose de plus large que la simple technique : *toute attention est un choix, et tout choix d'attention est un renoncement*. Le combattant apprend, par le ciblage, à habiter consciemment ce paradoxe — et ce qu'il apprend là dépasse, parfois, le combat lui-même.
+
+> *« Tu sauras que tu vieillis le jour où tu cesseras de tout verrouiller. Le jeunot fixe ; le vieux sent. Apprends à sentir avant que la lame de derrière ne t'apprenne à le faire trop tard. »*
+>
+> *— vétéran anonyme, fortifications de Vael'Kurash*
+
+### Changer de cible — le geste du regard
+
+Au cours d'un combat à plusieurs adversaires, le combattant change parfois de cible. Ce geste — passer de l'ennemi qui tombe à celui qui s'approche — n'est pas anodin. C'est une **redirection complète de l'attention**, un instant où le focus se défait pour se refaire ailleurs. Pendant cet instant, brièvement, **personne n'est verrouillé**. Le combattant est dans un état flottant, sans appui visuel précis, ouvert à toutes les directions à la fois.
+
+Cet instant est, à la fois, le **plus vulnérable** et le **plus lucide**. Vulnérable, parce que rien n'est encore solidement repris en main. Lucide, parce que le combattant voit, le temps de cette respiration, *l'ensemble du combat* dans son tissu — les positions, les distances, les voix qui circulent. Les vieux maîtres disent qu'on apprend beaucoup en regardant ce qui se passe entre deux verrouillages. C'est dans ces transitions qu'on lit, mieux que pendant le focus, **ce que le combat est vraiment en train de devenir**.
+
+### La cible et le nameplate
+
+Quand un ennemi est verrouillé, le monde le **désigne** pour le combattant. Son nameplate s'étend, son contour s'illumine subtilement, sa barre de vie devient lisible avec une précision que les autres entités n'ont pas. Cette désignation n'est pas un simple confort d'interface. C'est la **traduction visuelle** du fait que ce corps est, pour un instant, *l'interlocuteur privilégié* de la conversation que le combattant tient avec le monde.
+
+À l'inverse, les autres présences ne disparaissent pas — elles **se font plus discrètes**. Leurs nameplates restent visibles mais moins envahissants, leurs contours moins marqués. C'est exactement la traduction visuelle de ce qui se passe dans l'attention du combattant : ces autres présences sont **là**, le combattant les **sait là**, mais elles ne sont plus, pour l'instant, ce qu'il regarde. C'est l'éthique du regard rendue palpable.
+
+> [!abstract]
+> Le ciblage n'est pas une aide au confort de jeu. C'est la **traduction mécanique** d'une idée philosophique : qu'on ne peut pas tout regarder, et que tout choix de regard est une responsabilité. Hybelior assume cette gravité jusque dans son interface.
+
+### Quand ne pas verrouiller
+
+Il y a des combats, à Hybelior, où le verrouillage est plus une **erreur** qu'une aide. Les combats contre plusieurs ennemis mobiles, où le focus sur un seul te ferait rater les déplacements des autres. Les combats dans des espaces étroits, où la rotation imposée par le verrouillage te ferait perdre la lecture de l'environnement. Les combats où l'ennemi se déplace de manière imprévisible, et où le verrouillage de la caméra crée plus de désorientation qu'il n'en supprime.
+
+Apprendre à **ne pas verrouiller** est aussi un apprentissage. Beaucoup de joueurs, en arrivant dans Hybelior, croient que le focus est toujours préférable — qu'il rend le combat plus précis, plus lisible, plus efficace. Ils apprennent, à mesure qu'ils traversent les Ères et les types d'adversaires, que c'est faux. Le focus est un outil. Comme tout outil, il est utile quand il est employé au bon moment, et nuisible quand il devient une habitude.
+
+> [!important]
+> Le détail technique du ciblage (rayon de la sphère de détection, comportement de la rotation de caméra, transitions entre cibles, bindings d'input) se trouve dans [[Targeting System]] et [[HW GAS Player Character]].
+
+### Le focus comme acte de respect
+
+Pour finir, une chose qu'on dit rarement, mais qui mérite d'être dite : verrouiller un adversaire est, à Hybelior, un **acte de respect**. C'est dire *je te vois, toi, je te considère assez pour te regarder pleinement, je ne te traite pas comme une statistique épuisable parmi d'autres*. Cette gravité du focus est cohérente avec la gravité du combat lui-même — qui n'est, on l'a dit, jamais une formalité.
+
+Quand un combattant verrouille un adversaire digne, il **engage** sa propre attention dans ce qui va se jouer. Et l'adversaire, s'il est doué d'une intelligence quelconque, **le sait** — il sent que ce combattant-là le regarde, qu'il ne va pas le négliger, que la lame qui vient sera portée avec l'attention qu'il mérite. Cette reconnaissance mutuelle est, à Hybelior, l'une des plus belles dimensions du combat. Elle n'est pas mécanique. Elle naît de l'éthique du regard que le ciblage cherche à transmettre.
+
+> *« Quand tu verrouilles, regarde vraiment. Tu donnes à cet adversaire ton attention entière — c'est plus que ce que la plupart des vivants accordent à leurs amis. Honore-le, et il honorera ta lame en retour. »*
+>
+> *— inscription au seuil de l'École Grise, Cestra*
+
+---
+
+*Liens narratifs : [[Mort]] | [[Armes et Maîtrise]] | [[Le Lien]] | [[L'Accord]] | [[Le Souffle]] | [[Les Ères]] | [[Personnage]] | [[Réactions Élémentaires]]*
 
 *Implémentation technique (chiffres, formules, fenêtres de timing, coûts, cooldowns) : [[Combat System]]*
