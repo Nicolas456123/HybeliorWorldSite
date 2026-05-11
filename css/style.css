@@ -4163,11 +4163,12 @@ select:focus-visible,
     .md-content h3 { font-size: 15px; }
     .md-content h4 { font-size: 14px; }
 
-    /* ── Paragraphes & listes : pas de justify sur mobile (sinon les
-       mots non-coupés débordent ; on force le wrap doux) ── */
+    /* ── Paragraphes & listes : on garde la justification typographique
+       (mise en page demandée). Le débordement des mots longs est géré
+       par hyphens:auto + overflow-wrap:break-word. ── */
     .md-content p,
     .md-content li {
-        text-align: left;
+        text-align: justify;
         overflow-wrap: break-word;
         word-wrap: break-word;
         hyphens: auto;
