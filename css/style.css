@@ -4125,6 +4125,25 @@ select:focus-visible,
    ============================================================ */
 
 @media (max-width: 768px) {
+    /* ── CRITICAL — contraindre la largeur du page-container.
+       Sans ça, en flex-column sur mobile, .site-layout {align-items:
+       flex-start} laisse le page-container prendre la largeur de son
+       contenu (~700+px) au lieu du viewport. Body a overflow-x:hidden
+       qui masque mais tout déborde en interne (titres coupés). ── */
+    .site-layout { align-items: stretch; }
+    .page-container {
+        width: 100% !important;
+        max-width: 100%;
+        min-width: 0;
+    }
+    .page-content {
+        max-width: 100%;
+        min-width: 0;
+    }
+    .md-subtabs-wrapper,
+    .subtab-content,
+    .md-content { max-width: 100%; min-width: 0; }
+
     /* ── md-content : marges latérales plus généreuses ── */
     .md-content { padding: 16px 10px 60px; }
     .page-content { padding-left: 12px; padding-right: 12px; }
