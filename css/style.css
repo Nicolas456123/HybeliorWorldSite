@@ -4129,6 +4129,35 @@ select:focus-visible,
     .md-content { padding: 16px 10px 60px; }
     .page-content { padding-left: 12px; padding-right: 12px; }
 
+    /* ── Titres : les règles desktop (lignes 3160-3182) sont placées
+       APRÈS l'ancien bloc mobile (ligne 1701) et gagnent par source
+       order. On les ré-override ici en fin de fichier pour que les
+       titres ne débordent pas sur petits écrans. ── */
+    h1 { font-size: 22px; letter-spacing: 2px; line-height: 1.2; }
+    .md-content h1 {
+        font-size: 22px;
+        letter-spacing: 0.5px;
+        line-height: 1.2;
+        overflow-wrap: anywhere;
+    }
+    .md-content h2 { font-size: 18px; margin-top: 28px; }
+    .md-content h3 { font-size: 15px; }
+    .md-content h4 { font-size: 14px; }
+
+    /* ── Paragraphes & listes : pas de justify sur mobile (sinon les
+       mots non-coupés débordent ; on force le wrap doux) ── */
+    .md-content p,
+    .md-content li {
+        text-align: left;
+        overflow-wrap: break-word;
+        word-wrap: break-word;
+        hyphens: auto;
+        -webkit-hyphens: auto;
+    }
+
+    /* ── Blockquote : padding réduit pour gagner de la place ── */
+    .md-content blockquote { padding: 10px 14px; margin: 12px 0; }
+
     /* ── Tableaux : forcer le débordement + scroll horizontal lisible ──
        Problème avant : `word-break: break-word` (règle desktop ligne 3299)
        écrasait les cellules à ~48 px chacune au lieu de déclencher
@@ -4177,8 +4206,17 @@ select:focus-visible,
         background-attachment: scroll;
     }
     .md-content pre code { font-size: inherit; }
-    /* Code inline (pas un bloc) : on garde lisible mais on laisse wrap */
-    .md-content :not(pre) > code { word-break: break-word; }
+    /* Code inline (pas un bloc) : casser n'importe où pour éviter
+       le débordement des chemins type `Mécaniques\Architecture\` */
+    .md-content :not(pre) > code,
+    .md-content p code,
+    .md-content li code,
+    .md-content blockquote code,
+    .md-callout code {
+        overflow-wrap: anywhere;
+        word-break: break-word;
+        white-space: normal;
+    }
 
     /* ── Modal lore : padding allégé pour gagner de la place utile ── */
     .lore-modal-body { padding: 14px 12px 24px; }
