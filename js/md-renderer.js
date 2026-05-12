@@ -149,8 +149,7 @@
 
         // Récupère les entrées du manifest pour ce dossier
         const manifest = await getManifest();
-        const entries = manifest[folderPath];
-        if (!Array.isArray(entries) || entries.length < 2) return;
+        const entries = Array.isArray(manifest[folderPath]) ? manifest[folderPath] : [];
 
         // Liste les frères (hors le fichier courant lui-même et hors fichiers
         // techniques _Description / _Index dupliqués)
@@ -159,7 +158,6 @@
             !e.file.toLowerCase().endsWith('_description.md') &&
             !e.file.toLowerCase().endsWith('_index.md')
         );
-        if (siblings.length < 1) return;
 
         // Vérifie aussi les sous-dossiers : un hub peut avoir des enfants
         // qui sont des dossiers (chacun avec son propre Index.md). On les
