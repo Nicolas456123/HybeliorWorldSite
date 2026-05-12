@@ -20,16 +20,16 @@
 const NavConfig = {
     /** Routes principales (ordre = ordre dans la nav du haut) */
     mainNav: [
-        { route: 'accueil',        label: 'Accueil',       icon: 'home' },
-        { route: 'vision',         label: 'Vision',        icon: 'eye' },
-        { route: 'monde',          label: 'Monde',         icon: 'globe' },
-        { route: 'mecaniques',     label: 'Mécaniques',    icon: 'cog' },
-        { route: 'systemes',       label: 'Systèmes',      icon: 'grid' },
+        { route: 'accueil',        label: 'Accueil',        icon: 'home' },
+        { route: 'lore',           label: 'Lore',           icon: 'book' },
         { route: 'implementation', label: 'Implémentation', icon: 'code' },
-        { route: 'lore',           label: 'Histoires',     icon: 'book' },
-        { route: 'carte',          label: 'Carte',         icon: 'map' },
-        { route: 'frise',          label: 'Frise',         icon: 'clock' },
+        { route: 'carte',          label: 'Carte',          icon: 'map' },
+        { route: 'frise',          label: 'Frise',          icon: 'clock' },
     ],
+
+    /** Routes internes accessibles via deep-link (pas dans le top nav).
+        Quand on navigue vers ces routes, le top-nav highlight 'lore'. */
+    loreSubroutes: ['vision', 'monde', 'mecaniques', 'systemes', 'histoires'],
 
     /** Sous-onglets par route. Une route absente ici => pas de dropdown. */
     subtabs: {
@@ -129,7 +129,7 @@ const NavConfig = {
             })(),
         },
 
-        lore: {
+        histoires: {
             engine: 'html',
             defaultKey: 'chroniques',
             tabs: [
@@ -144,9 +144,10 @@ const NavConfig = {
         return !!this.subtabs[route] && Array.isArray(this.subtabs[route].tabs);
     },
 
-    /** Récupère la liste des routes valides */
+    /** Récupère la liste de TOUTES les routes valides (top nav + sous-routes lore).
+        Le router s'en sert pour distinguer route vs ancre. */
     routes() {
-        return this.mainNav.map(n => n.route);
+        return this.mainNav.map(n => n.route).concat(this.loreSubroutes || []);
     },
 
     /** Récupère le label d'une route */

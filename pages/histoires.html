@@ -1,0 +1,26 @@
+<h1>Histoires</h1>
+<p class="page-subtitle">Le récit de Sorin Valthen et les histoires des nations d'Hybélior</p>
+<div class="divider"><div class="divider-gem"></div></div>
+
+<div class="subtab-content" id="histoires-subtab-content"></div>
+
+<script>
+(function () {
+    var cfg = window.NavConfig && NavConfig.subtabs.histoires;
+    if (!cfg || !window.SubTabs) return;
+    SubTabs.init(
+        'histoires',
+        '',
+        '#histoires-subtab-content',
+        cfg.tabs,
+        cfg.defaultKey,
+        function (html, key) {
+            var sidebar = document.getElementById('site-sidebar');
+            var content = document.getElementById('histoires-subtab-content');
+            if (sidebar && content && window.SidebarTOC) {
+                SidebarTOC.build(sidebar, content);
+            }
+        }
+    );
+})();
+</script>

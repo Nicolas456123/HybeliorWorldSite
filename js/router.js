@@ -57,10 +57,15 @@ const Router = {
         const route = parsed.route || this.defaultRoute;
         const subkey = parsed.subkey;
 
-        // Update nav active state (lien principal)
+        // Update nav active state (lien principal).
+        // Quand on navigue vers une sous-route lore (vision, monde, mecaniques,
+        // systemes, histoires), c'est l'onglet "Lore" qui doit rester actif.
+        const loreSubroutes = (window.NavConfig && window.NavConfig.loreSubroutes) || [];
         document.querySelectorAll('.nav-links > li > a').forEach(a => {
             const linkRoute = (a.getAttribute('href') || '').replace(/^#/, '').split('/')[0];
-            a.classList.toggle('active', linkRoute === route);
+            const isActive = linkRoute === route ||
+                             (linkRoute === 'lore' && loreSubroutes.includes(route));
+            a.classList.toggle('active', isActive);
         });
 
         // Sync dropdown active state
