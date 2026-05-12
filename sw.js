@@ -1,6 +1,6 @@
 // Hybélior PWA service worker.
 // Bumping VERSION invalidates all caches on next visit, forcing a refresh.
-const VERSION = '2026-05-12-7';
+const VERSION = '2026-05-13-1';
 const PRECACHE = `hybelior-precache-${VERSION}`;
 const RUNTIME  = `hybelior-runtime-${VERSION}`;
 
@@ -21,6 +21,8 @@ const PRECACHE_URLS = [
   '/js/nav-config.js',
   '/js/nav-dropdowns.js',
   '/js/router.js',
+  '/js/sidebar-lore-nav.js',
+  '/js/site-search.js',
   '/js/subtabs.js',
   '/js/timeline-data.js',
   '/openseadragon-bin-5.0.0/openseadragon.min.js',

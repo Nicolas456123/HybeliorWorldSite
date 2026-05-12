@@ -31,15 +31,22 @@ const Router = {
     /** Parse `#route/subkey` → { route, subkey } */
     parseHash() {
         const raw = window.location.hash.slice(1);
-        if (!raw) return { route: this.defaultRoute, subkey: null, anchor: null };
+        if (!raw) return { route: this.defaultRoute, subkey: null, anchor: null, mdPath: null };
+
+        // Route spéciale `#md/{path/to/file.md}` : rendu direct d'un .md
+        // arbitraire (utilisée notamment par la recherche globale pour atteindre
+        // les fiches catalogues qui ne sont pas dans nav-config).
+        if (raw.startsWith('md/')) {
+            return { route: 'md', subkey: null, anchor: null, mdPath: decodeURIComponent(raw.slice(3)) };
+        }
 
         const [first, ...rest] = raw.split('/');
         const known = this.routes();
         if (known.includes(first)) {
-            return { route: first, subkey: rest.length ? rest.join('/') : null, anchor: null };
+            return { route: first, subkey: rest.length ? rest.join('/') : null, anchor: null, mdPath: null };
         }
         // Pas une route connue → traité comme ancre dans la page courante
-        return { route: null, subkey: null, anchor: raw };
+        return { route: null, subkey: null, anchor: raw, mdPath: null };
     },
 
     async navigate() {
@@ -52,6 +59,24 @@ const Router = {
                 el.scrollIntoView({ behavior: 'smooth', block: 'start' });
                 return;
             }
+        }
+
+        // Cas spécial : rendu direct d'un .md via #md/path
+        if (parsed.mdPath && window.MdRenderer) {
+            this.container.className = 'page-container page-md';
+            this.container.innerHTML = '<div class="page-content"><div class="md-content"></div></div>';
+            const mdContainer = this.container.querySelector('.md-content');
+            await MdRenderer.render(mdContainer, parsed.mdPath);
+            this.currentRoute = 'md';
+            this.currentSubkey = parsed.mdPath;
+            window.scrollTo({ top: 0, behavior: 'instant' });
+
+            // Highlight Lore en top-nav (les .md sont du lore au sens large)
+            document.querySelectorAll('.nav-links > li > a').forEach(a => {
+                const linkRoute = (a.getAttribute('href') || '').replace(/^#/, '').split('/')[0];
+                a.classList.toggle('active', linkRoute === 'lore');
+            });
+            return;
         }
 
         const route = parsed.route || this.defaultRoute;

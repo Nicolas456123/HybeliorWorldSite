@@ -31,6 +31,133 @@ const NavConfig = {
         Quand on navigue vers ces routes, le top-nav highlight 'lore'. */
     loreSubroutes: ['vision', 'monde', 'mecaniques', 'systemes', 'histoires'],
 
+    /** Les 8 catégories de la landing Lore. Source unique consommée par :
+        - pages/lore.html (les 8 cartes thématiques)
+        - js/sidebar-lore-nav.js (quick-nav du sidebar, switch rapide entre cats)
+        Pour chaque catégorie : icon, label, intro courte, et liste de liens. */
+    loreCategories: [
+        {
+            key: 'souffle',
+            icon: '🌬️',
+            label: 'Le souffle du monde',
+            intro: "La respiration cosmique d'Hybélior. Le monde change parce qu'il vit.",
+            links: [
+                { label: 'Le Souffle',           href: '#mecaniques/souffle' },
+                { label: "L'Accord",             href: '#mecaniques/accord' },
+                { label: 'Les Ères',             href: '#mecaniques/eres' },
+                { label: 'Le Lien',              href: '#mecaniques/lien' },
+            ],
+        },
+        {
+            key: 'monde',
+            icon: '🌍',
+            label: 'Le monde et son histoire',
+            intro: "Continents, cosmologie, lignées, dépôts d'Ères passées.",
+            links: [
+                { label: 'Cosmologie',           href: '#monde/cosmologie' },
+                { label: 'Géographie',           href: '#monde/geographie' },
+                { label: 'Continents',           href: '#monde/continents' },
+                { label: "Histoire d'Hybélior",  href: '#monde/histoire' },
+                { label: 'Lignées',              href: '#monde/lignees' },
+                { label: 'Frise',                href: '#monde/frise' },
+                { label: 'Traces des Ères',      href: '#monde/traces' },
+            ],
+        },
+        {
+            key: 'vivre',
+            icon: '🏛️',
+            label: 'Vivre dans Hybélior',
+            intro: "Ce que c'est qu'être un voyageur d'Hybélior, traverser ses heures.",
+            links: [
+                { label: 'Vision',               href: '#vision/pitch' },
+                { label: "L'Univers",            href: '#vision/univers' },
+                { label: 'La Partie',            href: '#vision/partie' },
+                { label: 'Personnage',           href: '#mecaniques/personnage' },
+                { label: 'Mort',                 href: '#mecaniques/mort' },
+                { label: 'Exploration',          href: '#mecaniques/exploration' },
+                { label: 'Dialogue & Interactions', href: '#mecaniques/dialogue' },
+            ],
+        },
+        {
+            key: 'combat',
+            icon: '⚔️',
+            label: 'Combat et magie',
+            intro: "L'art du combat, les Voies du Lien, la chimie cosmique des éléments.",
+            links: [
+                { label: 'Combat',               href: '#mecaniques/combat' },
+                { label: 'Armes et Maîtrise',    href: '#mecaniques/armes' },
+                { label: 'Réactions Élémentaires', href: '#mecaniques/reactions' },
+                { label: 'PvP',                  href: '#mecaniques/pvp' },
+            ],
+        },
+        {
+            key: 'faire',
+            icon: '🔨',
+            label: 'Faire, troquer, bâtir',
+            intro: "Les mains qui façonnent le monde. Métiers, marchés, ateliers, constructions.",
+            links: [
+                { label: 'Métiers',              href: '#mecaniques/metiers' },
+                { label: 'Économie',             href: '#mecaniques/economie' },
+                { label: 'Items',                href: '#mecaniques/items' },
+                { label: 'Architecture',         href: '#mecaniques/architecture' },
+                { label: 'Équipement et Armures', href: '#mecaniques/equipement' },
+                { label: 'Inventaire',           href: '#mecaniques/inventaire' },
+                { label: 'Labeur',               href: '#mecaniques/labeur' },
+                { label: 'Progression',          href: '#mecaniques/progression' },
+            ],
+        },
+        {
+            key: 'presences',
+            icon: '👥',
+            label: 'Présences et entités',
+            intro: "Les habitants, les bêtes, les esprits, les cosmiques qui peuplent le monde.",
+            links: [
+                { label: 'PNJ — présence et identité', href: '#systemes/pnj' },
+                { label: 'Bestiaire',            href: '#systemes/bestiaire' },
+                { label: 'Comportements PNJ',    href: '#systemes/comportements' },
+            ],
+        },
+        {
+            key: 'liens',
+            icon: '🤝',
+            label: 'Liens et alliances',
+            intro: "Comment les voyageurs se rassemblent, se promettent, se déchirent.",
+            links: [
+                { label: 'Factions',             href: '#mecaniques/factions' },
+                { label: 'Guildes',              href: '#mecaniques/guildes' },
+            ],
+        },
+        {
+            key: 'chroniques',
+            icon: '📜',
+            label: 'Chroniques et lecture du monde',
+            intro: "Les récits de voyageurs, les religions, la chronologie, les augures.",
+            links: [
+                { label: 'Chroniques de Sorin Valthen', href: '#histoires/chroniques' },
+                { label: 'Nations',              href: '#histoires/histoires' },
+                { label: 'Religions',            href: '#monde/religions' },
+                { label: 'Chronologie',          href: '#monde/chronologie' },
+                { label: 'Prédiction',           href: '#mecaniques/prediction' },
+            ],
+        },
+    ],
+
+    /** Étant donné une route (ex: 'mecaniques') + subkey (ex: 'souffle'),
+        retourne la catégorie Lore correspondante, ou null. */
+    findLoreCategory(route, subkey) {
+        if (!route) return null;
+        const hash = '#' + route + (subkey ? '/' + subkey : '');
+        const cats = this.loreCategories || [];
+        for (const cat of cats) {
+            if (cat.links.some(l => l.href === hash)) return cat;
+        }
+        // Fallback : match juste le route si pas de subkey exact
+        for (const cat of cats) {
+            if (cat.links.some(l => l.href.startsWith('#' + route + '/'))) return cat;
+        }
+        return null;
+    },
+
     /** Sous-onglets par route. Une route absente ici => pas de dropdown. */
     subtabs: {
         vision: {
