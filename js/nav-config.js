@@ -125,6 +125,8 @@ const NavConfig = {
                     { key: 'backend',     label: 'Backend OWS',                src: base + 'Backend OWS/Index.md' },
                     { key: 'tools',       label: 'Outils & Automation',        src: base + 'Outils et Automation/Index.md' },
                     { key: 'audits',      label: 'Audits',                     src: base + 'Audits/Index.md' },
+                    { key: 'items-cat',   label: "Catalogue d'Items",          src: base + 'Progression et Inventaire/Item Catalog/_Index.md' },
+                    { key: 'metiers-cat', label: 'Catalogue Métiers',          src: base + 'Métiers Catalog/Index.md' },
                 ];
             })(),
         },

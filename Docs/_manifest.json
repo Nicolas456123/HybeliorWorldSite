@@ -1013,649 +1013,6 @@
       "title": "UI Specifications — Implémentation"
     }
   ],
-  "GDD/05 - Implémentation Unreal/Items Catalog": [
-    {
-      "name": "Aiguille et fuseau",
-      "file": "Aiguille et fuseau.md",
-      "title": "🪡 Aiguille / Fuseau — Outil-pivot du textile"
-    },
-    {
-      "name": "Aile",
-      "file": "Aile.md",
-      "title": "🪽 Aile — Archétype ressource créature"
-    },
-    {
-      "name": "Algue",
-      "file": "Algue.md",
-      "title": "🌊 Archétype — Algue"
-    },
-    {
-      "name": "Alliage",
-      "file": "Alliage.md",
-      "title": "🧬 Archétype — Alliage"
-    },
-    {
-      "name": "Amulette",
-      "file": "Amulette.md",
-      "title": "🪬 Amulette — Accessoire majeur"
-    },
-    {
-      "name": "Anneau",
-      "file": "Anneau.md",
-      "title": "💍 Anneau — Archétype-référence Accessoires"
-    },
-    {
-      "name": "Antenne",
-      "file": "Antenne.md",
-      "title": "🦗 Antenne — Archétype ressource créature"
-    },
-    {
-      "name": "Arc",
-      "file": "Arc.md",
-      "title": "🏹 Arc — Archétype-référence"
-    },
-    {
-      "name": "Baie",
-      "file": "Baie.md",
-      "title": "🫐 Archétype — Baie"
-    },
-    {
-      "name": "Bandeau frontal",
-      "file": "Bandeau frontal.md",
-      "title": "🎗 Bandeau frontal / Reliure — Focus magique discret"
-    },
-    {
-      "name": "Bave",
-      "file": "Bave.md",
-      "title": "💧 Bave — Archétype ressource créature"
-    },
-    {
-      "name": "Bois",
-      "file": "Bois.md",
-      "title": "🪵 Archétype — Bois"
-    },
-    {
-      "name": "Boisson",
-      "file": "Boisson.md",
-      "title": "🍺 Archétype — Boisson"
-    },
-    {
-      "name": "Bottes",
-      "file": "Bottes.md",
-      "title": "👢 Bottes — Archétype slot Pieds"
-    },
-    {
-      "name": "Boucle d'oreille",
-      "file": "Boucle d'oreille.md",
-      "title": "💎 Boucle d'oreille — Accessoire mineur"
-    },
-    {
-      "name": "Bouclier",
-      "file": "Bouclier.md",
-      "title": "🛡️ Bouclier — Archétype"
-    },
-    {
-      "name": "Bracelet",
-      "file": "Bracelet.md",
-      "title": "📿 Bracelet — Accessoire à procs actifs"
-    },
-    {
-      "name": "Brassards",
-      "file": "Brassards.md",
-      "title": "🦾 Brassards — Archétype slot Bras (avant-bras)"
-    },
-    {
-      "name": "Brique",
-      "file": "Brique.md",
-      "title": "🧱 Archétype — Brique"
-    },
-    {
-      "name": "Broche",
-      "file": "Broche.md",
-      "title": "🪶 Broche / Fibule — Accessoire de signature sociale"
-    },
-    {
-      "name": "Canne à pêche",
-      "file": "Canne à pêche.md",
-      "title": "🎣 Canne à pêche — Outil aquatique du Pêcheur"
-    },
-    {
-      "name": "Cape",
-      "file": "Cape.md",
-      "title": "🧥 Cape — Vêtement dorsal situationnel"
-    },
-    {
-      "name": "Capuche seule",
-      "file": "Capuche seule.md",
-      "title": "🥷 Capuche seule — Vêtement de tête civil et d'infiltration"
-    },
-    {
-      "name": "Carapace",
-      "file": "Carapace.md",
-      "title": "🦂 Carapace — Archétype ressource créature"
-    },
-    {
-      "name": "Ceinture (armure)",
-      "file": "Ceinture (armure).md",
-      "title": "🪢 Ceinture (armure) — Archétype slot Taille"
-    },
-    {
-      "name": "Ceinture-accessoire",
-      "file": "Ceinture-accessoire.md",
-      "title": "👝 Ceinture-accessoire — Accessoire utilitaire"
-    },
-    {
-      "name": "Champignon",
-      "file": "Champignon.md",
-      "title": "🍄 Archétype — Champignon (Récolte)"
-    },
-    {
-      "name": "Champignons",
-      "file": "Champignons.md",
-      "title": "🍄 Archétype — Champignons"
-    },
-    {
-      "name": "Cire raffinée",
-      "file": "Cire raffinée.md",
-      "title": "🕯 Archétype — Cire raffinée"
-    },
-    {
-      "name": "Coquille",
-      "file": "Coquille.md",
-      "title": "🐚 Archétype — Coquille"
-    },
-    {
-      "name": "Corne",
-      "file": "Corne.md",
-      "title": "🦌 Corne — Archétype ressource créature"
-    },
-    {
-      "name": "Couteau de tanneur",
-      "file": "Couteau de tanneur.md",
-      "title": "🔪 Couteau de tanneur — Outil de préparation du cuir"
-    },
-    {
-      "name": "Cristal de Voie",
-      "file": "Cristal de Voie.md",
-      "title": "💠 Cristal de Voie — Focus magique double-usage"
-    },
-    {
-      "name": "Cristal utilisable",
-      "file": "Cristal utilisable.md",
-      "title": "💎 Archétype — Cristal utilisable"
-    },
-    {
-      "name": "Cuir",
-      "file": "Cuir.md",
-      "title": "🟫 Cuir — Archétype ressource créature"
-    },
-    {
-      "name": "Cuirasse",
-      "file": "Cuirasse.md",
-      "title": "🛡 Cuirasse — Archétype-référence du slot Torse"
-    },
-    {
-      "name": "Céréale",
-      "file": "Céréale.md",
-      "title": "🌾 Archétype — Céréale"
-    },
-    {
-      "name": "Cœur de creature",
-      "file": "Cœur de creature.md",
-      "title": "💖 Cœur de creature — Archétype ressource créature"
-    },
-    {
-      "name": "Cœur de plante",
-      "file": "Cœur de plante.md",
-      "title": "🌸 Archétype — Cœur de plante"
-    },
-    {
-      "name": "Dague",
-      "file": "Dague.md",
-      "title": "🗡️ Dague — Archétype"
-    },
-    {
-      "name": "Essence spirituelle",
-      "file": "Essence spirituelle.md",
-      "title": "👻 Essence spirituelle — Archétype ressource créature"
-    },
-    {
-      "name": "Farine",
-      "file": "Farine.md",
-      "title": "🌾 Archétype — Farine"
-    },
-    {
-      "name": "Faux",
-      "file": "Faux.md",
-      "title": "🌾 Faux — Outil de récolte céréalière et herboriste"
-    },
-    {
-      "name": "Feuille",
-      "file": "Feuille.md",
-      "title": "🍃 Archétype — Feuille"
-    },
-    {
-      "name": "Fil métallique",
-      "file": "Fil métallique.md",
-      "title": "🧵 Archétype — Fil métallique"
-    },
-    {
-      "name": "Fleur",
-      "file": "Fleur.md",
-      "title": "🌷 Archétype — Fleur"
-    },
-    {
-      "name": "Flèche",
-      "file": "Flèche.md",
-      "title": "🏹 Flèche — Archétype (munition)"
-    },
-    {
-      "name": "Fourrure",
-      "file": "Fourrure.md",
-      "title": "🟫 Fourrure — Archétype ressource créature"
-    },
-    {
-      "name": "Fromage",
-      "file": "Fromage.md",
-      "title": "🧀 Archétype — Fromage"
-    },
-    {
-      "name": "Fruits",
-      "file": "Fruits.md",
-      "title": "🍎 Archétype — Fruits"
-    },
-    {
-      "name": "Gantelets",
-      "file": "Gantelets.md",
-      "title": "✊ Gantelets — Archétype slot Mains"
-    },
-    {
-      "name": "Gemme brut",
-      "file": "Gemme brut.md",
-      "title": "💎 Archétype — Gemme brut"
-    },
-    {
-      "name": "Gemme taillé",
-      "file": "Gemme taillé.md",
-      "title": "💎 Archétype — Gemme taillé"
-    },
-    {
-      "name": "Graine",
-      "file": "Graine.md",
-      "title": "🌾 Archétype — Graine"
-    },
-    {
-      "name": "Graisse animale",
-      "file": "Graisse animale.md",
-      "title": "🟡 Graisse animale — Archétype ressource créature"
-    },
-    {
-      "name": "Griffe",
-      "file": "Griffe.md",
-      "title": "🦅 Griffe — Archétype ressource créature"
-    },
-    {
-      "name": "Gâteaux",
-      "file": "Gâteaux.md",
-      "title": "🍰 Archétype — Gâteaux"
-    },
-    {
-      "name": "Hache de bûcheron",
-      "file": "Hache de bûcheron.md",
-      "title": "🪓 Hache de bûcheron — Outil de récolte du bois"
-    },
-    {
-      "name": "Hache à deux mains",
-      "file": "Hache à deux mains.md",
-      "title": "🪓 Hache à deux mains — Archétype"
-    },
-    {
-      "name": "Hache à une main",
-      "file": "Hache à une main.md",
-      "title": "🪓 Hache à une main — Archétype"
-    },
-    {
-      "name": "Heaume",
-      "file": "Heaume.md",
-      "title": "🪖 Heaume — Archétype slot Tête"
-    },
-    {
-      "name": "Herbes",
-      "file": "Herbes.md",
-      "title": "🌿 Archétype — Herbes"
-    },
-    {
-      "name": "Huile",
-      "file": "Huile.md",
-      "title": "🛢 Archétype — Huile"
-    },
-    {
-      "name": "Jambières",
-      "file": "Jambières.md",
-      "title": "🦵 Jambières — Archétype slot Jambes"
-    },
-    {
-      "name": "Laine creature",
-      "file": "Laine creature.md",
-      "title": "🧶 Laine creature — Archétype ressource créature"
-    },
-    {
-      "name": "Laine plante",
-      "file": "Laine plante.md",
-      "title": "🌾 Archétype — Laine plante"
-    },
-    {
-      "name": "Lame",
-      "file": "Lame.md",
-      "title": "🔪 Lame — Archétype"
-    },
-    {
-      "name": "Lance",
-      "file": "Lance.md",
-      "title": "🔱 Lance — Archétype"
-    },
-    {
-      "name": "Larme",
-      "file": "Larme.md",
-      "title": "💧 Larme — Archétype ressource créature"
-    },
-    {
-      "name": "Lingot",
-      "file": "Lingot.md",
-      "title": "🧱 Archétype — Lingot"
-    },
-    {
-      "name": "Liquide",
-      "file": "Liquide.md",
-      "title": "💧 Archétype — Liquide"
-    },
-    {
-      "name": "Livre Récipient",
-      "file": "Livre Récipient.md",
-      "title": "📚 Archétype — Livre Récipient"
-    },
-    {
-      "name": "Légumes",
-      "file": "Légumes.md",
-      "title": "🥕 Archétype — Légumes"
-    },
-    {
-      "name": "Marteau de forge",
-      "file": "Marteau de forge.md",
-      "title": "🔨 Marteau de forge — Outil-pivot du Forgeron"
-    },
-    {
-      "name": "Marteau à deux mains",
-      "file": "Marteau à deux mains.md",
-      "title": "⚒️ Marteau à deux mains — Archétype"
-    },
-    {
-      "name": "Marteau à une main",
-      "file": "Marteau à une main.md",
-      "title": "🔨 Marteau à une main — Archétype"
-    },
-    {
-      "name": "Miel",
-      "file": "Miel.md",
-      "title": "🍯 Archétype — Miel"
-    },
-    {
-      "name": "Minerai",
-      "file": "Minerai.md",
-      "title": "⛏ Archétype — Minerai"
-    },
-    {
-      "name": "Mortier et pilon",
-      "file": "Mortier et pilon.md",
-      "title": "🥣 Mortier et pilon — Outil de broyage portable"
-    },
-    {
-      "name": "Orbe",
-      "file": "Orbe.md",
-      "title": "🔮 Orbe — Focus magique amplificateur"
-    },
-    {
-      "name": "Organe",
-      "file": "Organe.md",
-      "title": "🥩 Organe — Archétype ressource créature"
-    },
-    {
-      "name": "Os",
-      "file": "Os.md",
-      "title": "🦴 Os — Archétype ressource créature"
-    },
-    {
-      "name": "Pain",
-      "file": "Pain.md",
-      "title": "🥖 Archétype — Pain"
-    },
-    {
-      "name": "Parchemin",
-      "file": "Parchemin.md",
-      "title": "📜 Archétype — Parchemin"
-    },
-    {
-      "name": "Patte",
-      "file": "Patte.md",
-      "title": "🐾 Patte — Archétype ressource créature"
-    },
-    {
-      "name": "Pauldrons",
-      "file": "Pauldrons.md",
-      "title": "🪶 Pauldrons — Archétype slot Épaules"
-    },
-    {
-      "name": "Peau",
-      "file": "Peau.md",
-      "title": "🟦 Peau — Archétype ressource créature"
-    },
-    {
-      "name": "Pierre",
-      "file": "Pierre.md",
-      "title": "🪨 Archétype — Pierre"
-    },
-    {
-      "name": "Pigment",
-      "file": "Pigment.md",
-      "title": "🎨 Archétype — Pigment"
-    },
-    {
-      "name": "Pince et burin",
-      "file": "Pince et burin.md",
-      "title": "💎 Pince et burin — Outil-couple du Lapidaire"
-    },
-    {
-      "name": "Pioche",
-      "file": "Pioche.md",
-      "title": "⛏ Pioche — Outil-roi du Mineur"
-    },
-    {
-      "name": "Planche",
-      "file": "Planche.md",
-      "title": "🪵 Archétype — Planche"
-    },
-    {
-      "name": "Plante",
-      "file": "Plante.md",
-      "title": "🌿 Archétype — Plante"
-    },
-    {
-      "name": "Plaque de verre",
-      "file": "Plaque de verre.md",
-      "title": "🪟 Archétype — Plaque de verre"
-    },
-    {
-      "name": "Plume creature",
-      "file": "Plume creature.md",
-      "title": "🪶 Plume creature — Archétype ressource créature"
-    },
-    {
-      "name": "Plume",
-      "file": "Plume.md",
-      "title": "🪶 Plume / Stylet — Outil de précision du Scriptorium"
-    },
-    {
-      "name": "Poisson",
-      "file": "Poisson.md",
-      "title": "🐟 Archétype — Poisson"
-    },
-    {
-      "name": "Potion",
-      "file": "Potion.md",
-      "title": "🧪 Archétype — Potion"
-    },
-    {
-      "name": "Poudre fabriqué",
-      "file": "Poudre fabriqué.md",
-      "title": "🟫 Archétype — Poudre fabriqué"
-    },
-    {
-      "name": "Poudre naturel",
-      "file": "Poudre naturel.md",
-      "title": "🌋 Archétype — Poudre naturel"
-    },
-    {
-      "name": "Queue",
-      "file": "Queue.md",
-      "title": "〰️ Queue — Archétype ressource créature"
-    },
-    {
-      "name": "Racine",
-      "file": "Racine.md",
-      "title": "🌱 Archétype — Racine"
-    },
-    {
-      "name": "Rapière",
-      "file": "Rapière.md",
-      "title": "🤺 Rapière — Archétype"
-    },
-    {
-      "name": "Robe simple",
-      "file": "Robe simple.md",
-      "title": "👘 Robe simple — Vêtement civil de torse"
-    },
-    {
-      "name": "Récipient",
-      "file": "Récipient.md",
-      "title": "🍶 Archétype — Récipient"
-    },
-    {
-      "name": "Résine traitée",
-      "file": "Résine traitée.md",
-      "title": "🟤 Archétype — Résine traitée"
-    },
-    {
-      "name": "Sac à dos",
-      "file": "Sac à dos.md",
-      "title": "🎒 Sac à dos — Archétype slot dorsal utilitaire"
-    },
-    {
-      "name": "Sang",
-      "file": "Sang.md",
-      "title": "🩸 Sang — Archétype ressource créature"
-    },
-    {
-      "name": "Sceptre",
-      "file": "Sceptre.md",
-      "title": "🪄 Sceptre — Archétype"
-    },
-    {
-      "name": "Soufflet",
-      "file": "Soufflet.md",
-      "title": "🌬 Soufflet — Outil de support thermique"
-    },
-    {
-      "name": "Sève",
-      "file": "Sève.md",
-      "title": "🍯 Archétype — Sève"
-    },
-    {
-      "name": "Sécrétion",
-      "file": "Sécrétion.md",
-      "title": "🧪 Sécrétion — Archétype ressource créature"
-    },
-    {
-      "name": "Tabard",
-      "file": "Tabard.md",
-      "title": "🟦 Tabard — Couche d'allégeance par-dessus l'armure"
-    },
-    {
-      "name": "Talisman",
-      "file": "Talisman.md",
-      "title": "🦴 Talisman — Focus magique de pacte"
-    },
-    {
-      "name": "Tissu",
-      "file": "Tissu.md",
-      "title": "🧶 Archétype — Tissu"
-    },
-    {
-      "name": "Tome",
-      "file": "Tome.md",
-      "title": "📖 Tome — Archétype-référence Focus magiques"
-    },
-    {
-      "name": "Tunique civile",
-      "file": "Tunique civile.md",
-      "title": "👕 Tunique civile — Vêtement de tous les jours"
-    },
-    {
-      "name": "Venin",
-      "file": "Venin.md",
-      "title": "🐍 Venin — Archétype ressource créature"
-    },
-    {
-      "name": "Viande",
-      "file": "Viande.md",
-      "title": "🥩 Archétype — Viande"
-    },
-    {
-      "name": "_README",
-      "file": "_README.md",
-      "title": "_Templates — Archive paramétrique",
-      "isIndex": true
-    },
-    {
-      "name": "Écaille",
-      "file": "Écaille.md",
-      "title": "🐉 Écaille — Archétype ressource créature"
-    },
-    {
-      "name": "Écorce",
-      "file": "Écorce.md",
-      "title": "🌳 Archétype — Écorce"
-    },
-    {
-      "name": "Émulsion alchimique",
-      "file": "Émulsion alchimique.md",
-      "title": "🧪 Archétype — Émulsion alchimique"
-    },
-    {
-      "name": "Épices",
-      "file": "Épices.md",
-      "title": "🌶️ Archétype — Épices"
-    },
-    {
-      "name": "Épée à deux mains",
-      "file": "Épée à deux mains.md",
-      "title": "🗡️ Épée à deux mains — Archétype"
-    },
-    {
-      "name": "Épée à une main",
-      "file": "Épée à une main.md",
-      "title": "⚔️ Épée à une main — Archétype-référence"
-    },
-    {
-      "name": "Œil",
-      "file": "Œil.md",
-      "title": "👁 Œil — Archétype ressource créature"
-    },
-    {
-      "name": "Œuf",
-      "file": "Œuf.md",
-      "title": "🥚 Œuf — Archétype ressource créature"
-    }
-  ],
   "GDD/05 - Implémentation Unreal/Monde et Environnement": [
     {
       "name": "Biome System",
@@ -1812,6 +1169,14 @@
       "name": "Weather System",
       "file": "Weather System.md",
       "title": "Weather System"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Métiers Catalog": [
+    {
+      "name": "Index",
+      "file": "Index.md",
+      "title": "Métiers Catalog — Index technique",
+      "isIndex": true
     }
   ],
   "GDD/05 - Implémentation Unreal/Métiers Catalog/Agriculture et Élevage": [
@@ -5708,6 +5073,643 @@
       "file": "_Description.md",
       "title": "Tuniques civiles — Description normative",
       "isIndex": true
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Progression et Inventaire/Item Catalog/_Templates": [
+    {
+      "name": "Aiguille et fuseau",
+      "file": "Aiguille et fuseau.md",
+      "title": "🪡 Aiguille / Fuseau — Outil-pivot du textile"
+    },
+    {
+      "name": "Aile",
+      "file": "Aile.md",
+      "title": "🪽 Aile — Archétype ressource créature"
+    },
+    {
+      "name": "Algue",
+      "file": "Algue.md",
+      "title": "🌊 Archétype — Algue"
+    },
+    {
+      "name": "Alliage",
+      "file": "Alliage.md",
+      "title": "🧬 Archétype — Alliage"
+    },
+    {
+      "name": "Amulette",
+      "file": "Amulette.md",
+      "title": "🪬 Amulette — Accessoire majeur"
+    },
+    {
+      "name": "Anneau",
+      "file": "Anneau.md",
+      "title": "💍 Anneau — Archétype-référence Accessoires"
+    },
+    {
+      "name": "Antenne",
+      "file": "Antenne.md",
+      "title": "🦗 Antenne — Archétype ressource créature"
+    },
+    {
+      "name": "Arc",
+      "file": "Arc.md",
+      "title": "🏹 Arc — Archétype-référence"
+    },
+    {
+      "name": "Baie",
+      "file": "Baie.md",
+      "title": "🫐 Archétype — Baie"
+    },
+    {
+      "name": "Bandeau frontal",
+      "file": "Bandeau frontal.md",
+      "title": "🎗 Bandeau frontal / Reliure — Focus magique discret"
+    },
+    {
+      "name": "Bave",
+      "file": "Bave.md",
+      "title": "💧 Bave — Archétype ressource créature"
+    },
+    {
+      "name": "Bois",
+      "file": "Bois.md",
+      "title": "🪵 Archétype — Bois"
+    },
+    {
+      "name": "Boisson",
+      "file": "Boisson.md",
+      "title": "🍺 Archétype — Boisson"
+    },
+    {
+      "name": "Bottes",
+      "file": "Bottes.md",
+      "title": "👢 Bottes — Archétype slot Pieds"
+    },
+    {
+      "name": "Boucle d'oreille",
+      "file": "Boucle d'oreille.md",
+      "title": "💎 Boucle d'oreille — Accessoire mineur"
+    },
+    {
+      "name": "Bouclier",
+      "file": "Bouclier.md",
+      "title": "🛡️ Bouclier — Archétype"
+    },
+    {
+      "name": "Bracelet",
+      "file": "Bracelet.md",
+      "title": "📿 Bracelet — Accessoire à procs actifs"
+    },
+    {
+      "name": "Brassards",
+      "file": "Brassards.md",
+      "title": "🦾 Brassards — Archétype slot Bras (avant-bras)"
+    },
+    {
+      "name": "Brique",
+      "file": "Brique.md",
+      "title": "🧱 Archétype — Brique"
+    },
+    {
+      "name": "Broche",
+      "file": "Broche.md",
+      "title": "🪶 Broche / Fibule — Accessoire de signature sociale"
+    },
+    {
+      "name": "Canne à pêche",
+      "file": "Canne à pêche.md",
+      "title": "🎣 Canne à pêche — Outil aquatique du Pêcheur"
+    },
+    {
+      "name": "Cape",
+      "file": "Cape.md",
+      "title": "🧥 Cape — Vêtement dorsal situationnel"
+    },
+    {
+      "name": "Capuche seule",
+      "file": "Capuche seule.md",
+      "title": "🥷 Capuche seule — Vêtement de tête civil et d'infiltration"
+    },
+    {
+      "name": "Carapace",
+      "file": "Carapace.md",
+      "title": "🦂 Carapace — Archétype ressource créature"
+    },
+    {
+      "name": "Ceinture (armure)",
+      "file": "Ceinture (armure).md",
+      "title": "🪢 Ceinture (armure) — Archétype slot Taille"
+    },
+    {
+      "name": "Ceinture-accessoire",
+      "file": "Ceinture-accessoire.md",
+      "title": "👝 Ceinture-accessoire — Accessoire utilitaire"
+    },
+    {
+      "name": "Champignon",
+      "file": "Champignon.md",
+      "title": "🍄 Archétype — Champignon (Récolte)"
+    },
+    {
+      "name": "Champignons",
+      "file": "Champignons.md",
+      "title": "🍄 Archétype — Champignons"
+    },
+    {
+      "name": "Cire raffinée",
+      "file": "Cire raffinée.md",
+      "title": "🕯 Archétype — Cire raffinée"
+    },
+    {
+      "name": "Coquille",
+      "file": "Coquille.md",
+      "title": "🐚 Archétype — Coquille"
+    },
+    {
+      "name": "Corne",
+      "file": "Corne.md",
+      "title": "🦌 Corne — Archétype ressource créature"
+    },
+    {
+      "name": "Couteau de tanneur",
+      "file": "Couteau de tanneur.md",
+      "title": "🔪 Couteau de tanneur — Outil de préparation du cuir"
+    },
+    {
+      "name": "Cristal de Voie",
+      "file": "Cristal de Voie.md",
+      "title": "💠 Cristal de Voie — Focus magique double-usage"
+    },
+    {
+      "name": "Cristal utilisable",
+      "file": "Cristal utilisable.md",
+      "title": "💎 Archétype — Cristal utilisable"
+    },
+    {
+      "name": "Cuir",
+      "file": "Cuir.md",
+      "title": "🟫 Cuir — Archétype ressource créature"
+    },
+    {
+      "name": "Cuirasse",
+      "file": "Cuirasse.md",
+      "title": "🛡 Cuirasse — Archétype-référence du slot Torse"
+    },
+    {
+      "name": "Céréale",
+      "file": "Céréale.md",
+      "title": "🌾 Archétype — Céréale"
+    },
+    {
+      "name": "Cœur de creature",
+      "file": "Cœur de creature.md",
+      "title": "💖 Cœur de creature — Archétype ressource créature"
+    },
+    {
+      "name": "Cœur de plante",
+      "file": "Cœur de plante.md",
+      "title": "🌸 Archétype — Cœur de plante"
+    },
+    {
+      "name": "Dague",
+      "file": "Dague.md",
+      "title": "🗡️ Dague — Archétype"
+    },
+    {
+      "name": "Essence spirituelle",
+      "file": "Essence spirituelle.md",
+      "title": "👻 Essence spirituelle — Archétype ressource créature"
+    },
+    {
+      "name": "Farine",
+      "file": "Farine.md",
+      "title": "🌾 Archétype — Farine"
+    },
+    {
+      "name": "Faux",
+      "file": "Faux.md",
+      "title": "🌾 Faux — Outil de récolte céréalière et herboriste"
+    },
+    {
+      "name": "Feuille",
+      "file": "Feuille.md",
+      "title": "🍃 Archétype — Feuille"
+    },
+    {
+      "name": "Fil métallique",
+      "file": "Fil métallique.md",
+      "title": "🧵 Archétype — Fil métallique"
+    },
+    {
+      "name": "Fleur",
+      "file": "Fleur.md",
+      "title": "🌷 Archétype — Fleur"
+    },
+    {
+      "name": "Flèche",
+      "file": "Flèche.md",
+      "title": "🏹 Flèche — Archétype (munition)"
+    },
+    {
+      "name": "Fourrure",
+      "file": "Fourrure.md",
+      "title": "🟫 Fourrure — Archétype ressource créature"
+    },
+    {
+      "name": "Fromage",
+      "file": "Fromage.md",
+      "title": "🧀 Archétype — Fromage"
+    },
+    {
+      "name": "Fruits",
+      "file": "Fruits.md",
+      "title": "🍎 Archétype — Fruits"
+    },
+    {
+      "name": "Gantelets",
+      "file": "Gantelets.md",
+      "title": "✊ Gantelets — Archétype slot Mains"
+    },
+    {
+      "name": "Gemme brut",
+      "file": "Gemme brut.md",
+      "title": "💎 Archétype — Gemme brut"
+    },
+    {
+      "name": "Gemme taillé",
+      "file": "Gemme taillé.md",
+      "title": "💎 Archétype — Gemme taillé"
+    },
+    {
+      "name": "Graine",
+      "file": "Graine.md",
+      "title": "🌾 Archétype — Graine"
+    },
+    {
+      "name": "Graisse animale",
+      "file": "Graisse animale.md",
+      "title": "🟡 Graisse animale — Archétype ressource créature"
+    },
+    {
+      "name": "Griffe",
+      "file": "Griffe.md",
+      "title": "🦅 Griffe — Archétype ressource créature"
+    },
+    {
+      "name": "Gâteaux",
+      "file": "Gâteaux.md",
+      "title": "🍰 Archétype — Gâteaux"
+    },
+    {
+      "name": "Hache de bûcheron",
+      "file": "Hache de bûcheron.md",
+      "title": "🪓 Hache de bûcheron — Outil de récolte du bois"
+    },
+    {
+      "name": "Hache à deux mains",
+      "file": "Hache à deux mains.md",
+      "title": "🪓 Hache à deux mains — Archétype"
+    },
+    {
+      "name": "Hache à une main",
+      "file": "Hache à une main.md",
+      "title": "🪓 Hache à une main — Archétype"
+    },
+    {
+      "name": "Heaume",
+      "file": "Heaume.md",
+      "title": "🪖 Heaume — Archétype slot Tête"
+    },
+    {
+      "name": "Herbes",
+      "file": "Herbes.md",
+      "title": "🌿 Archétype — Herbes"
+    },
+    {
+      "name": "Huile",
+      "file": "Huile.md",
+      "title": "🛢 Archétype — Huile"
+    },
+    {
+      "name": "Jambières",
+      "file": "Jambières.md",
+      "title": "🦵 Jambières — Archétype slot Jambes"
+    },
+    {
+      "name": "Laine creature",
+      "file": "Laine creature.md",
+      "title": "🧶 Laine creature — Archétype ressource créature"
+    },
+    {
+      "name": "Laine plante",
+      "file": "Laine plante.md",
+      "title": "🌾 Archétype — Laine plante"
+    },
+    {
+      "name": "Lame",
+      "file": "Lame.md",
+      "title": "🔪 Lame — Archétype"
+    },
+    {
+      "name": "Lance",
+      "file": "Lance.md",
+      "title": "🔱 Lance — Archétype"
+    },
+    {
+      "name": "Larme",
+      "file": "Larme.md",
+      "title": "💧 Larme — Archétype ressource créature"
+    },
+    {
+      "name": "Lingot",
+      "file": "Lingot.md",
+      "title": "🧱 Archétype — Lingot"
+    },
+    {
+      "name": "Liquide",
+      "file": "Liquide.md",
+      "title": "💧 Archétype — Liquide"
+    },
+    {
+      "name": "Livre Récipient",
+      "file": "Livre Récipient.md",
+      "title": "📚 Archétype — Livre Récipient"
+    },
+    {
+      "name": "Légumes",
+      "file": "Légumes.md",
+      "title": "🥕 Archétype — Légumes"
+    },
+    {
+      "name": "Marteau de forge",
+      "file": "Marteau de forge.md",
+      "title": "🔨 Marteau de forge — Outil-pivot du Forgeron"
+    },
+    {
+      "name": "Marteau à deux mains",
+      "file": "Marteau à deux mains.md",
+      "title": "⚒️ Marteau à deux mains — Archétype"
+    },
+    {
+      "name": "Marteau à une main",
+      "file": "Marteau à une main.md",
+      "title": "🔨 Marteau à une main — Archétype"
+    },
+    {
+      "name": "Miel",
+      "file": "Miel.md",
+      "title": "🍯 Archétype — Miel"
+    },
+    {
+      "name": "Minerai",
+      "file": "Minerai.md",
+      "title": "⛏ Archétype — Minerai"
+    },
+    {
+      "name": "Mortier et pilon",
+      "file": "Mortier et pilon.md",
+      "title": "🥣 Mortier et pilon — Outil de broyage portable"
+    },
+    {
+      "name": "Orbe",
+      "file": "Orbe.md",
+      "title": "🔮 Orbe — Focus magique amplificateur"
+    },
+    {
+      "name": "Organe",
+      "file": "Organe.md",
+      "title": "🥩 Organe — Archétype ressource créature"
+    },
+    {
+      "name": "Os",
+      "file": "Os.md",
+      "title": "🦴 Os — Archétype ressource créature"
+    },
+    {
+      "name": "Pain",
+      "file": "Pain.md",
+      "title": "🥖 Archétype — Pain"
+    },
+    {
+      "name": "Parchemin",
+      "file": "Parchemin.md",
+      "title": "📜 Archétype — Parchemin"
+    },
+    {
+      "name": "Patte",
+      "file": "Patte.md",
+      "title": "🐾 Patte — Archétype ressource créature"
+    },
+    {
+      "name": "Pauldrons",
+      "file": "Pauldrons.md",
+      "title": "🪶 Pauldrons — Archétype slot Épaules"
+    },
+    {
+      "name": "Peau",
+      "file": "Peau.md",
+      "title": "🟦 Peau — Archétype ressource créature"
+    },
+    {
+      "name": "Pierre",
+      "file": "Pierre.md",
+      "title": "🪨 Archétype — Pierre"
+    },
+    {
+      "name": "Pigment",
+      "file": "Pigment.md",
+      "title": "🎨 Archétype — Pigment"
+    },
+    {
+      "name": "Pince et burin",
+      "file": "Pince et burin.md",
+      "title": "💎 Pince et burin — Outil-couple du Lapidaire"
+    },
+    {
+      "name": "Pioche",
+      "file": "Pioche.md",
+      "title": "⛏ Pioche — Outil-roi du Mineur"
+    },
+    {
+      "name": "Planche",
+      "file": "Planche.md",
+      "title": "🪵 Archétype — Planche"
+    },
+    {
+      "name": "Plante",
+      "file": "Plante.md",
+      "title": "🌿 Archétype — Plante"
+    },
+    {
+      "name": "Plaque de verre",
+      "file": "Plaque de verre.md",
+      "title": "🪟 Archétype — Plaque de verre"
+    },
+    {
+      "name": "Plume creature",
+      "file": "Plume creature.md",
+      "title": "🪶 Plume creature — Archétype ressource créature"
+    },
+    {
+      "name": "Plume",
+      "file": "Plume.md",
+      "title": "🪶 Plume / Stylet — Outil de précision du Scriptorium"
+    },
+    {
+      "name": "Poisson",
+      "file": "Poisson.md",
+      "title": "🐟 Archétype — Poisson"
+    },
+    {
+      "name": "Potion",
+      "file": "Potion.md",
+      "title": "🧪 Archétype — Potion"
+    },
+    {
+      "name": "Poudre fabriqué",
+      "file": "Poudre fabriqué.md",
+      "title": "🟫 Archétype — Poudre fabriqué"
+    },
+    {
+      "name": "Poudre naturel",
+      "file": "Poudre naturel.md",
+      "title": "🌋 Archétype — Poudre naturel"
+    },
+    {
+      "name": "Queue",
+      "file": "Queue.md",
+      "title": "〰️ Queue — Archétype ressource créature"
+    },
+    {
+      "name": "Racine",
+      "file": "Racine.md",
+      "title": "🌱 Archétype — Racine"
+    },
+    {
+      "name": "Rapière",
+      "file": "Rapière.md",
+      "title": "🤺 Rapière — Archétype"
+    },
+    {
+      "name": "Robe simple",
+      "file": "Robe simple.md",
+      "title": "👘 Robe simple — Vêtement civil de torse"
+    },
+    {
+      "name": "Récipient",
+      "file": "Récipient.md",
+      "title": "🍶 Archétype — Récipient"
+    },
+    {
+      "name": "Résine traitée",
+      "file": "Résine traitée.md",
+      "title": "🟤 Archétype — Résine traitée"
+    },
+    {
+      "name": "Sac à dos",
+      "file": "Sac à dos.md",
+      "title": "🎒 Sac à dos — Archétype slot dorsal utilitaire"
+    },
+    {
+      "name": "Sang",
+      "file": "Sang.md",
+      "title": "🩸 Sang — Archétype ressource créature"
+    },
+    {
+      "name": "Sceptre",
+      "file": "Sceptre.md",
+      "title": "🪄 Sceptre — Archétype"
+    },
+    {
+      "name": "Soufflet",
+      "file": "Soufflet.md",
+      "title": "🌬 Soufflet — Outil de support thermique"
+    },
+    {
+      "name": "Sève",
+      "file": "Sève.md",
+      "title": "🍯 Archétype — Sève"
+    },
+    {
+      "name": "Sécrétion",
+      "file": "Sécrétion.md",
+      "title": "🧪 Sécrétion — Archétype ressource créature"
+    },
+    {
+      "name": "Tabard",
+      "file": "Tabard.md",
+      "title": "🟦 Tabard — Couche d'allégeance par-dessus l'armure"
+    },
+    {
+      "name": "Talisman",
+      "file": "Talisman.md",
+      "title": "🦴 Talisman — Focus magique de pacte"
+    },
+    {
+      "name": "Tissu",
+      "file": "Tissu.md",
+      "title": "🧶 Archétype — Tissu"
+    },
+    {
+      "name": "Tome",
+      "file": "Tome.md",
+      "title": "📖 Tome — Archétype-référence Focus magiques"
+    },
+    {
+      "name": "Tunique civile",
+      "file": "Tunique civile.md",
+      "title": "👕 Tunique civile — Vêtement de tous les jours"
+    },
+    {
+      "name": "Venin",
+      "file": "Venin.md",
+      "title": "🐍 Venin — Archétype ressource créature"
+    },
+    {
+      "name": "Viande",
+      "file": "Viande.md",
+      "title": "🥩 Archétype — Viande"
+    },
+    {
+      "name": "Écaille",
+      "file": "Écaille.md",
+      "title": "🐉 Écaille — Archétype ressource créature"
+    },
+    {
+      "name": "Écorce",
+      "file": "Écorce.md",
+      "title": "🌳 Archétype — Écorce"
+    },
+    {
+      "name": "Émulsion alchimique",
+      "file": "Émulsion alchimique.md",
+      "title": "🧪 Archétype — Émulsion alchimique"
+    },
+    {
+      "name": "Épices",
+      "file": "Épices.md",
+      "title": "🌶️ Archétype — Épices"
+    },
+    {
+      "name": "Épée à deux mains",
+      "file": "Épée à deux mains.md",
+      "title": "🗡️ Épée à deux mains — Archétype"
+    },
+    {
+      "name": "Épée à une main",
+      "file": "Épée à une main.md",
+      "title": "⚔️ Épée à une main — Archétype-référence"
+    },
+    {
+      "name": "Œil",
+      "file": "Œil.md",
+      "title": "👁 Œil — Archétype ressource créature"
+    },
+    {
+      "name": "Œuf",
+      "file": "Œuf.md",
+      "title": "🥚 Œuf — Archétype ressource créature"
     }
   ],
   "GDD/05 - Implémentation Unreal/VFX Audio Rendu": [

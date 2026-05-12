@@ -28,7 +28,7 @@ last_review: 2026-05-01
 
 ## Origine du contenu
 
-- **Templates archivés** : `_Templates/` contient les 70+ archétypes paramétriques originaux. Référence normative pour la grille tier × multiplicateurs × affixes.
+- **Templates archétypaux** : `_Templates/` contient 127 archétypes paramétriques d'items (toutes catégories confondues, migrés depuis 03 - Mécaniques). Référence normative pour la grille tier × multiplicateurs × affixes.
 - **Signatures CSV** : ~65 items nommés dans `AccessExport/Objets.csv` intégrés en items concrets T2-T6 selon leur type.
 - **Items canoniques nouveaux** : items T1-T3 standards inventés pour combler les baselines manquantes (ex. *Épée commune en fer*, *Lingot de cuivre*).
 
