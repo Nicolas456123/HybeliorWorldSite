@@ -2,17 +2,16 @@
 tags: [métiers, index, navigation]
 type: index
 status: living-doc
+last_review: 2026-05-12
 ---
 
-# Métiers — catalogue détaillé
+# Les neuf grandes voies des métiers d'Hybélior
 
-> Cette page liste les **métiers d'Hybélior**, regroupés par grande catégorie.
-> Pour la philosophie générale du système (vocation, identité, polyphonie),
-> voir [[Métiers]].
+> *Cette page rassemble les neuf grandes catégories de métiers — telles que les habitants les nomment dans leur quotidien. Pour la philosophie du métier comme vocation et comme tissu social, voir [[Métiers]].*
 
 ---
 
-## Catégories
+## Les neuf voies
 
 - [[Métiers/Agriculture et Élevage/Index|Agriculture et Élevage]] — paysans, bergers, bûcherons
 - [[Métiers/Artisanat et Production/Index|Artisanat et Production]] — forgerons, tisserands, maçons
@@ -24,6 +23,11 @@ status: living-doc
 - [[Métiers/Mysticisme/Index|Mysticisme]] — prêtres, oracles, druides
 - [[Métiers/Sécurité/Index|Sécurité]] — gardes, mercenaires, traqueurs
 
+Chaque catégorie ouvre une chambre où l'on raconte les métiers qu'elle réunit — leur sens, leurs lieux, leurs maîtres, leurs apprentissages.
+
 ---
 
-> Chaque catégorie ouvre la liste détaillée des métiers qu'elle contient.
+## Voir aussi
+
+- [[Métiers]] — la philosophie du métier comme vocation et présence sociale.
+- Pour les fiches détaillées de chaque métier (stats, paliers, recettes débloquées, économie) : [[Métiers Catalog]] dans `05 - Implémentation Unreal`.

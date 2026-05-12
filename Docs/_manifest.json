@@ -351,7 +351,669 @@
       "title": "Les natures des objets"
     }
   ],
-  "GDD/03 - Mécaniques/Items/_Templates": [
+  "GDD/03 - Mécaniques/Métiers": [
+    {
+      "name": "Index",
+      "file": "Index.md",
+      "title": "Les neuf grandes voies des métiers d'Hybélior",
+      "isIndex": true
+    }
+  ],
+  "GDD/03 - Mécaniques/Métiers/Agriculture et Élevage": [
+    {
+      "name": "Index",
+      "file": "Index.md",
+      "title": "Métiers — Agriculture et Élevage",
+      "isIndex": true
+    }
+  ],
+  "GDD/03 - Mécaniques/Métiers/Artisanat et Production": [
+    {
+      "name": "Index",
+      "file": "Index.md",
+      "title": "Métiers — Artisanat et Production",
+      "isIndex": true
+    }
+  ],
+  "GDD/03 - Mécaniques/Métiers/Commerce et Services": [
+    {
+      "name": "Index",
+      "file": "Index.md",
+      "title": "Métiers — Commerce et Services",
+      "isIndex": true
+    }
+  ],
+  "GDD/03 - Mécaniques/Métiers/Divertissements": [
+    {
+      "name": "Index",
+      "file": "Index.md",
+      "title": "Métiers — Divertissements",
+      "isIndex": true
+    }
+  ],
+  "GDD/03 - Mécaniques/Métiers/Erudition": [
+    {
+      "name": "Index",
+      "file": "Index.md",
+      "title": "Métiers — Erudition",
+      "isIndex": true
+    }
+  ],
+  "GDD/03 - Mécaniques/Métiers/Exploration": [
+    {
+      "name": "Index",
+      "file": "Index.md",
+      "title": "Métiers — Exploration",
+      "isIndex": true
+    }
+  ],
+  "GDD/03 - Mécaniques/Métiers/Gouvernance": [
+    {
+      "name": "Index",
+      "file": "Index.md",
+      "title": "Métiers — Gouvernance",
+      "isIndex": true
+    }
+  ],
+  "GDD/03 - Mécaniques/Métiers/Mysticisme": [
+    {
+      "name": "Index",
+      "file": "Index.md",
+      "title": "Métiers — Mysticisme",
+      "isIndex": true
+    }
+  ],
+  "GDD/03 - Mécaniques/Métiers/Sécurité": [
+    {
+      "name": "Index",
+      "file": "Index.md",
+      "title": "Métiers — Sécurité",
+      "isIndex": true
+    }
+  ],
+  "GDD/04 - Systèmes": [
+    {
+      "name": "Architecture Data-Driven",
+      "file": "Architecture Data-Driven.md",
+      "title": "🏗️ Architecture Data-Driven — un monde qui se recompose"
+    },
+    {
+      "name": "Index",
+      "file": "Index.md",
+      "title": "04 — Systèmes",
+      "isIndex": true
+    },
+    {
+      "name": "PNJ",
+      "file": "PNJ.md",
+      "title": "🧍 Les PNJ — la présence comme contrat"
+    }
+  ],
+  "GDD/04 - Systèmes/Bestiaire": [
+    {
+      "name": "Index",
+      "file": "Index.md",
+      "title": "🐾 Le Bestiaire — recensement du vivant",
+      "isIndex": true
+    }
+  ],
+  "GDD/04 - Systèmes/Comportements PNJ": [
+    {
+      "name": "Index",
+      "file": "Index.md",
+      "title": "Comportements PNJ — vivre sa journée, pas attendre celui qui passe",
+      "isIndex": true
+    }
+  ],
+  "GDD/05 - Implémentation Unreal": [
+    {
+      "name": "Index",
+      "file": "Index.md",
+      "title": "06 — Implémentation Unreal",
+      "isIndex": true
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Audits": [
+    {
+      "name": "Cross System Character Inventory",
+      "file": "Cross System Character Inventory.md",
+      "title": "Cross-System — Character & Inventory"
+    },
+    {
+      "name": "Cross System Circular Deps",
+      "file": "Cross System Circular Deps.md",
+      "title": "Cross-System — Dépendances Circulaires & Manques d'Intégration"
+    },
+    {
+      "name": "Cross System Framework World",
+      "file": "Cross System Framework World.md",
+      "title": "Cross-System — GameFramework, Environment & Terrain"
+    },
+    {
+      "name": "Cross System GAS Combat",
+      "file": "Cross System GAS Combat.md",
+      "title": "Cross-System — GAS & Combat"
+    },
+    {
+      "name": "Cross System Overview",
+      "file": "Cross System Overview.md",
+      "title": "Cross-System Integration — Overview"
+    },
+    {
+      "name": "Cross System Progression Quest",
+      "file": "Cross System Progression Quest.md",
+      "title": "Cross-System — Progression, Quest & Entity/Dialogue"
+    },
+    {
+      "name": "Index Audits",
+      "file": "Index Audits.md",
+      "title": "11 — Audits"
+    },
+    {
+      "name": "Index",
+      "file": "Index.md",
+      "title": "Audits",
+      "isIndex": true
+    },
+    {
+      "name": "Network Replication Audit",
+      "file": "Network Replication Audit.md",
+      "title": "D01 — Audit Réseau : Réplication HybeliorWorld"
+    },
+    {
+      "name": "Performance Analysis",
+      "file": "Performance Analysis.md",
+      "title": "D02 — Analyse de Performance : HybeliorWorld"
+    },
+    {
+      "name": "Security Audit",
+      "file": "Security Audit.md",
+      "title": "D03 — Audit de Sécurité HybeliorWorld"
+    },
+    {
+      "name": "Technical Debt Active",
+      "file": "Technical Debt Active.md",
+      "title": "Technical Debt Active"
+    },
+    {
+      "name": "Technical Debt Resolved",
+      "file": "Technical Debt Resolved.md",
+      "title": "Technical Debt Resolved"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Backend OWS": [
+    {
+      "name": "CI CD",
+      "file": "CI CD.md",
+      "title": "CICD"
+    },
+    {
+      "name": "Docker",
+      "file": "Docker.md",
+      "title": "Docker"
+    },
+    {
+      "name": "Global Data Replication",
+      "file": "Global Data Replication.md",
+      "title": "GlobalDataReplication"
+    },
+    {
+      "name": "Global Data Service",
+      "file": "Global Data Service.md",
+      "title": "Global Data Service"
+    },
+    {
+      "name": "Index Backend OWS",
+      "file": "Index Backend OWS.md",
+      "title": "08 — Backend OWS"
+    },
+    {
+      "name": "Index",
+      "file": "Index.md",
+      "title": "Backend OWS",
+      "isIndex": true
+    },
+    {
+      "name": "Instance Launcher Ops",
+      "file": "Instance Launcher Ops.md",
+      "title": "InstanceLauncherOps"
+    },
+    {
+      "name": "Instance Launcher",
+      "file": "Instance Launcher.md",
+      "title": "InstanceLauncher"
+    },
+    {
+      "name": "Kubernetes",
+      "file": "Kubernetes.md",
+      "title": "Kubernetes"
+    },
+    {
+      "name": "Login Epic",
+      "file": "Login Epic.md",
+      "title": "LoginEpic"
+    },
+    {
+      "name": "Login OAuth",
+      "file": "Login OAuth.md",
+      "title": "LoginOAuth"
+    },
+    {
+      "name": "Login Xsolla Stub",
+      "file": "Login Xsolla Stub.md",
+      "title": "LoginSteam"
+    },
+    {
+      "name": "Migration Accord",
+      "file": "Migration Accord.md",
+      "title": "Migration Accord"
+    },
+    {
+      "name": "OWS Architecture",
+      "file": "OWS Architecture.md",
+      "title": "OWSArchitecture"
+    },
+    {
+      "name": "OWS Benchmarks",
+      "file": "OWS Benchmarks.md",
+      "title": "OWSBenchmarks"
+    },
+    {
+      "name": "OWS Login Subsystem",
+      "file": "OWS Login Subsystem.md",
+      "title": "OWS Login Subsystem"
+    },
+    {
+      "name": "OWS Network Replication",
+      "file": "OWS Network Replication.md",
+      "title": "OWS Network Replication"
+    },
+    {
+      "name": "OWS Player Controller Component",
+      "file": "OWS Player Controller Component.md",
+      "title": "OWS Player Controller Component"
+    },
+    {
+      "name": "OWS Tests",
+      "file": "OWS Tests.md",
+      "title": "OWSTests"
+    },
+    {
+      "name": "SQL Abilities",
+      "file": "SQL Abilities.md",
+      "title": "SQL Abilities"
+    },
+    {
+      "name": "SQL Bootstrap",
+      "file": "SQL Bootstrap.md",
+      "title": "SQL Bootstrap"
+    },
+    {
+      "name": "SQL Characters",
+      "file": "SQL Characters.md",
+      "title": "SQL Characters"
+    },
+    {
+      "name": "SQL Global Data",
+      "file": "SQL Global Data.md",
+      "title": "SQL Global Data"
+    },
+    {
+      "name": "SQL Inventory",
+      "file": "SQL Inventory.md",
+      "title": "SQL Inventory"
+    },
+    {
+      "name": "SQL Maps Social",
+      "file": "SQL Maps Social.md",
+      "title": "SQL_Maps_Social"
+    },
+    {
+      "name": "SQL Users",
+      "file": "SQL Users.md",
+      "title": "SQL_Users"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Combat et Capacités": [
+    {
+      "name": "Abilities Combat",
+      "file": "Abilities Combat.md",
+      "title": "Documentation des Gameplay Abilities de Combat — HybeliorWorld"
+    },
+    {
+      "name": "Abilities Locomotion",
+      "file": "Abilities Locomotion.md",
+      "title": "Documentation : Gameplay Abilities de Locomotion"
+    },
+    {
+      "name": "Ability System Component",
+      "file": "Ability System Component.md",
+      "title": "AbilitySystemComponent"
+    },
+    {
+      "name": "Ability Tag Relationship Mapping",
+      "file": "Ability Tag Relationship Mapping.md",
+      "title": "AbilityTagRelationshipMapping"
+    },
+    {
+      "name": "Ability Tasks",
+      "file": "Ability Tasks.md",
+      "title": "AbilityTasks"
+    },
+    {
+      "name": "Combat Attribute Set",
+      "file": "Combat Attribute Set.md",
+      "title": "Combat Attribute Set"
+    },
+    {
+      "name": "Combat System",
+      "file": "Combat System.md",
+      "title": "Combat System — Implémentation"
+    },
+    {
+      "name": "Combo System",
+      "file": "Combo System.md",
+      "title": "ComboSystem"
+    },
+    {
+      "name": "Effects Combat",
+      "file": "Effects Combat.md",
+      "title": "MCP_GE_Combat — Documentation des GameplayEffects de Combat"
+    },
+    {
+      "name": "Effects Elemental States",
+      "file": "Effects Elemental States.md",
+      "title": "Gameplay Effects — États et Élémentaires (HybeliorWorld GAS)"
+    },
+    {
+      "name": "Elemental Reactions",
+      "file": "Elemental Reactions.md",
+      "title": "ElementalReactions"
+    },
+    {
+      "name": "GAS Data Assets",
+      "file": "GAS Data Assets.md",
+      "title": "MCP AbilitySystem — Documentation des DataTables et Assets GAS"
+    },
+    {
+      "name": "Gameplay Ability",
+      "file": "Gameplay Ability.md",
+      "title": "GameplayAbility"
+    },
+    {
+      "name": "Gameplay Effect",
+      "file": "Gameplay Effect.md",
+      "title": "GameplayEffect"
+    },
+    {
+      "name": "Gameplay Tags",
+      "file": "Gameplay Tags.md",
+      "title": "GameplayTags"
+    },
+    {
+      "name": "Hit Boxes",
+      "file": "Hit Boxes.md",
+      "title": "HitBoxes"
+    },
+    {
+      "name": "Index Combat",
+      "file": "Index Combat.md",
+      "title": "01 — AbilitySystem & Combat"
+    },
+    {
+      "name": "Index",
+      "file": "Index.md",
+      "title": "Combat et Capacités",
+      "isIndex": true
+    },
+    {
+      "name": "Lien System",
+      "file": "Lien System.md",
+      "title": "Lien System — Implémentation"
+    },
+    {
+      "name": "Mastery System",
+      "file": "Mastery System.md",
+      "title": "Mastery System — Implémentation"
+    },
+    {
+      "name": "Movesets",
+      "file": "Movesets.md",
+      "title": "Movesets"
+    },
+    {
+      "name": "PvP System",
+      "file": "PvP System.md",
+      "title": "PvP System — Implémentation"
+    },
+    {
+      "name": "Reactions Integration",
+      "file": "Reactions Integration.md",
+      "title": "ReactionsIntegration"
+    },
+    {
+      "name": "Weapon Mastery",
+      "file": "Weapon Mastery.md",
+      "title": "Weapon Mastery"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Framework et Plugins": [
+    {
+      "name": "Asset Manager",
+      "file": "Asset Manager.md",
+      "title": "AssetManager"
+    },
+    {
+      "name": "Config Files",
+      "file": "Config Files.md",
+      "title": "Fichiers de configuration (.ini)"
+    },
+    {
+      "name": "Core Redirects",
+      "file": "Core Redirects.md",
+      "title": "CoreRedirects"
+    },
+    {
+      "name": "Game Mode Blueprints",
+      "file": "Game Mode Blueprints.md",
+      "title": "Game Mode Blueprints"
+    },
+    {
+      "name": "Game Mode",
+      "file": "Game Mode.md",
+      "title": "GameMode & GameState"
+    },
+    {
+      "name": "Index Framework Plugins",
+      "file": "Index Framework Plugins.md",
+      "title": "07 — Framework & Plugins"
+    },
+    {
+      "name": "Index",
+      "file": "Index.md",
+      "title": "Framework et Plugins",
+      "isIndex": true
+    },
+    {
+      "name": "Initialization Sequence",
+      "file": "Initialization Sequence.md",
+      "title": "Séquence d'initialisation (AHWPlayerController)"
+    },
+    {
+      "name": "Input System",
+      "file": "Input System.md",
+      "title": "InputSystem (Enhanced Input)"
+    },
+    {
+      "name": "Login Flow",
+      "file": "Login Flow.md",
+      "title": "Flow Login → Jeu"
+    },
+    {
+      "name": "Persistence Flow",
+      "file": "Persistence Flow.md",
+      "title": "Persistance — Flux Save/Load"
+    },
+    {
+      "name": "Player Controller Blueprints",
+      "file": "Player Controller Blueprints.md",
+      "title": "Player Controller Blueprints"
+    },
+    {
+      "name": "Player Controllers",
+      "file": "Player Controllers.md",
+      "title": "PlayerControllers"
+    },
+    {
+      "name": "Plugins",
+      "file": "Plugins.md",
+      "title": "Plugins"
+    },
+    {
+      "name": "Serialization Format",
+      "file": "Serialization Format.md",
+      "title": "FHWJsonSerializer — Sérialisation JSON"
+    },
+    {
+      "name": "Settings System",
+      "file": "Settings System.md",
+      "title": "UHWSettingsLocal — Paramètres locaux"
+    },
+    {
+      "name": "Tools Blueprints",
+      "file": "Tools Blueprints.md",
+      "title": "Tools Blueprints"
+    },
+    {
+      "name": "World Blueprints",
+      "file": "World Blueprints.md",
+      "title": "World Blueprints"
+    },
+    {
+      "name": "Zone Travel",
+      "file": "Zone Travel.md",
+      "title": "Zone Travel"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Interaction et UI": [
+    {
+      "name": "Architecture Assets",
+      "file": "Architecture Assets.md",
+      "title": "ArchitectureAssets"
+    },
+    {
+      "name": "Containers",
+      "file": "Containers.md",
+      "title": "Containers"
+    },
+    {
+      "name": "Dialogue UI",
+      "file": "Dialogue UI.md",
+      "title": "DialogueUI"
+    },
+    {
+      "name": "Doors",
+      "file": "Doors.md",
+      "title": "Doors"
+    },
+    {
+      "name": "Dynamic Content Manager",
+      "file": "Dynamic Content Manager.md",
+      "title": "DynamicContentManager"
+    },
+    {
+      "name": "HUD Widgets",
+      "file": "HUD Widgets.md",
+      "title": "Documentation des Widget Blueprints du HUD — HybeliorWorld"
+    },
+    {
+      "name": "HUD",
+      "file": "HUD.md",
+      "title": "HUD"
+    },
+    {
+      "name": "Index Interaction UI",
+      "file": "Index Interaction UI.md",
+      "title": "05 — Interaction & UI"
+    },
+    {
+      "name": "Index",
+      "file": "Index.md",
+      "title": "Interaction et UI",
+      "isIndex": true
+    },
+    {
+      "name": "Input Actions",
+      "file": "Input Actions.md",
+      "title": "InputActions_Assets"
+    },
+    {
+      "name": "Input Component",
+      "file": "Input Component.md",
+      "title": "InputComponent"
+    },
+    {
+      "name": "Interactable Blueprints",
+      "file": "Interactable Blueprints.md",
+      "title": "Documentation MCP — Portails et Interactables (Blueprints)"
+    },
+    {
+      "name": "Interactable Framework",
+      "file": "Interactable Framework.md",
+      "title": "InteractableFramework"
+    },
+    {
+      "name": "Inventory UI",
+      "file": "Inventory UI.md",
+      "title": "InventoryUI"
+    },
+    {
+      "name": "Login UI",
+      "file": "Login UI.md",
+      "title": "LoginUI"
+    },
+    {
+      "name": "Map UI",
+      "file": "Map UI.md",
+      "title": "MapUI"
+    },
+    {
+      "name": "Nameplate UI",
+      "file": "Nameplate UI.md",
+      "title": "NameplateUI"
+    },
+    {
+      "name": "Portals",
+      "file": "Portals.md",
+      "title": "Portals"
+    },
+    {
+      "name": "Quest Tracker UI",
+      "file": "Quest Tracker UI.md",
+      "title": "QuestTrackerUI"
+    },
+    {
+      "name": "Skill Bar UI",
+      "file": "Skill Bar UI.md",
+      "title": "SkillBarUI"
+    },
+    {
+      "name": "Supply Pods",
+      "file": "Supply Pods.md",
+      "title": "SupplyPods"
+    },
+    {
+      "name": "UI Other Widgets",
+      "file": "UI Other Widgets.md",
+      "title": "Documentation MCP — Widget Blueprints UI (HybeliorWorld UE5.4)"
+    },
+    {
+      "name": "UI Specifications",
+      "file": "UI Specifications.md",
+      "title": "UI Specifications — Implémentation"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Items Catalog": [
     {
       "name": "Aiguille et fuseau",
       "file": "Aiguille et fuseau.md",
@@ -994,1018 +1656,6 @@
       "title": "🥚 Œuf — Archétype ressource créature"
     }
   ],
-  "GDD/03 - Mécaniques/Métiers": [
-    {
-      "name": "Index",
-      "file": "Index.md",
-      "title": "Métiers — catalogue détaillé",
-      "isIndex": true
-    }
-  ],
-  "GDD/03 - Mécaniques/Métiers/Agriculture et Élevage": [
-    {
-      "name": "Agriculteur",
-      "file": "Agriculteur.md",
-      "title": "🌾 Agriculteur — Archétype Métier"
-    },
-    {
-      "name": "Berger",
-      "file": "Berger.md",
-      "title": "🐑 Berger — Archétype Métier"
-    },
-    {
-      "name": "Bûcheron",
-      "file": "Bûcheron.md",
-      "title": "🪵 Bûcheron — Archétype Métier"
-    },
-    {
-      "name": "Eleveur de créature",
-      "file": "Eleveur de créature.md",
-      "title": "🐎 Éleveur de créature — Archétype Métier"
-    },
-    {
-      "name": "Index",
-      "file": "Index.md",
-      "title": "Métiers — Agriculture et Élevage",
-      "isIndex": true
-    },
-    {
-      "name": "Meunier",
-      "file": "Meunier.md",
-      "title": "🌾 Meunier — Archétype Métier"
-    }
-  ],
-  "GDD/03 - Mécaniques/Métiers/Artisanat et Production": [
-    {
-      "name": "Architecte",
-      "file": "Architecte.md",
-      "title": "🏛 Archétype-Métier — Architecte"
-    },
-    {
-      "name": "Bijoutier",
-      "file": "Bijoutier.md",
-      "title": "💎 Archétype-Métier — Bijoutier"
-    },
-    {
-      "name": "Boucher",
-      "file": "Boucher.md",
-      "title": "🥩 Archétype-Métier — Boucher"
-    },
-    {
-      "name": "Boulanger",
-      "file": "Boulanger.md",
-      "title": "🥖 Archétype-Métier — Boulanger"
-    },
-    {
-      "name": "Charpentier",
-      "file": "Charpentier.md",
-      "title": "🪵 Archétype-Métier — Charpentier"
-    },
-    {
-      "name": "Cordonnier",
-      "file": "Cordonnier.md",
-      "title": "👢 Archétype-Métier — Cordonnier"
-    },
-    {
-      "name": "Cuisinier",
-      "file": "Cuisinier.md",
-      "title": "🍲 Archétype-Métier — Cuisinier"
-    },
-    {
-      "name": "Dresseur de créature",
-      "file": "Dresseur de créature.md",
-      "title": "🐺 Archétype-Métier — Dresseur de créature"
-    },
-    {
-      "name": "Enchanteur d'objet",
-      "file": "Enchanteur d'objet.md",
-      "title": "🔮 Archétype-Métier — Enchanteur d'objet"
-    },
-    {
-      "name": "Enchanteur",
-      "file": "Enchanteur.md",
-      "title": "🔮 Enchanteur — *(synonyme de [[Enchanteur d'objet]])*"
-    },
-    {
-      "name": "Forgeron",
-      "file": "Forgeron.md",
-      "title": "🔨 Archétype-Métier — Forgeron"
-    },
-    {
-      "name": "Index",
-      "file": "Index.md",
-      "title": "Métiers — Artisanat et Production",
-      "isIndex": true
-    },
-    {
-      "name": "Lapidaire",
-      "file": "Lapidaire.md",
-      "title": "💎 Archétype-Métier — Lapidaire"
-    },
-    {
-      "name": "Maçon",
-      "file": "Maçon.md",
-      "title": "🧱 Archétype-Métier — Maçon"
-    },
-    {
-      "name": "Menuisier",
-      "file": "Menuisier.md",
-      "title": "🪵 Archétype-Métier — Menuisier"
-    },
-    {
-      "name": "Sculpteur",
-      "file": "Sculpteur.md",
-      "title": "🗿 Archétype-Métier — Sculpteur"
-    },
-    {
-      "name": "Tailleur de pierre",
-      "file": "Tailleur de pierre.md",
-      "title": "⛏️ Archétype-Métier — Tailleur de pierre"
-    },
-    {
-      "name": "Tailleur",
-      "file": "Tailleur.md",
-      "title": "👗 Archétype-Métier — Tailleur"
-    },
-    {
-      "name": "Tanneur",
-      "file": "Tanneur.md",
-      "title": "🥩 Tanneur"
-    },
-    {
-      "name": "Tisserand",
-      "file": "Tisserand.md",
-      "title": "🧵 Archétype-Métier — Tisserand"
-    },
-    {
-      "name": "Verrier",
-      "file": "Verrier.md",
-      "title": "🔮 Archétype-Métier — Verrier"
-    }
-  ],
-  "GDD/03 - Mécaniques/Métiers/Commerce et Services": [
-    {
-      "name": "Aubergiste",
-      "file": "Aubergiste.md",
-      "title": "🛏️ Aubergiste — Archétype Métier"
-    },
-    {
-      "name": "Banquier",
-      "file": "Banquier.md",
-      "title": "🏦 Banquier — Archétype Métier"
-    },
-    {
-      "name": "Index",
-      "file": "Index.md",
-      "title": "Métiers — Commerce et Services",
-      "isIndex": true
-    },
-    {
-      "name": "Marchand",
-      "file": "Marchand.md",
-      "title": "💰 Marchand — Archétype Métier"
-    },
-    {
-      "name": "Tavernier",
-      "file": "Tavernier.md",
-      "title": "🍺 Tavernier — Archétype Métier"
-    }
-  ],
-  "GDD/03 - Mécaniques/Métiers/Divertissements": [
-    {
-      "name": "Acteur",
-      "file": "Acteur.md",
-      "title": "🎭 Acteur — Archétype Métier"
-    },
-    {
-      "name": "Barde",
-      "file": "Barde.md",
-      "title": "📜 Barde — Archétype Métier"
-    },
-    {
-      "name": "Index",
-      "file": "Index.md",
-      "title": "Métiers — Divertissements",
-      "isIndex": true
-    },
-    {
-      "name": "Jongleur",
-      "file": "Jongleur.md",
-      "title": "🤹 Jongleur — Archétype Métier"
-    },
-    {
-      "name": "Musicien",
-      "file": "Musicien.md",
-      "title": "🎵 Musicien — Archétype Métier"
-    },
-    {
-      "name": "Peintre",
-      "file": "Peintre.md",
-      "title": "🎨 Peintre — Archétype Métier"
-    }
-  ],
-  "GDD/03 - Mécaniques/Métiers/Erudition": [
-    {
-      "name": "Alchimiste",
-      "file": "Alchimiste.md",
-      "title": "🧪 Alchimiste — Archétype Métier"
-    },
-    {
-      "name": "Astronome",
-      "file": "Astronome.md",
-      "title": "🌌 Astronome — Archétype Métier"
-    },
-    {
-      "name": "Bibliothécaire",
-      "file": "Bibliothécaire.md",
-      "title": "📚 Bibliothécaire — Archétype Métier"
-    },
-    {
-      "name": "Chercheur",
-      "file": "Chercheur.md",
-      "title": "🔬 Chercheur — Archétype Métier"
-    },
-    {
-      "name": "Enseignant",
-      "file": "Enseignant.md",
-      "title": "🏫 Enseignant — Archétype Métier"
-    },
-    {
-      "name": "Historien",
-      "file": "Historien.md",
-      "title": "🏛️ Historien — Archétype Métier"
-    },
-    {
-      "name": "Index",
-      "file": "Index.md",
-      "title": "Métiers — Erudition",
-      "isIndex": true
-    },
-    {
-      "name": "Médecin",
-      "file": "Médecin.md",
-      "title": "🩺 Médecin — Archétype Métier"
-    }
-  ],
-  "GDD/03 - Mécaniques/Métiers/Exploration": [
-    {
-      "name": "Cartographe",
-      "file": "Cartographe.md",
-      "title": "🗺️ Cartographe — Archétype Métier"
-    },
-    {
-      "name": "Chasseur de créature",
-      "file": "Chasseur de créature.md",
-      "title": "🏹 Chasseur de créature — Archétype Métier"
-    },
-    {
-      "name": "Chasseur de primes",
-      "file": "Chasseur de primes.md",
-      "title": "🎯 Chasseur de primes — Archétype Métier"
-    },
-    {
-      "name": "Chasseur de trésors",
-      "file": "Chasseur de trésors.md",
-      "title": "💰 Chasseur de trésors — Archétype Métier"
-    },
-    {
-      "name": "Dresseur",
-      "file": "Dresseur.md",
-      "title": "🦅 Dresseur — Archétype Métier"
-    },
-    {
-      "name": "Explorateur",
-      "file": "Explorateur.md",
-      "title": "🧭 Explorateur — Archétype Métier"
-    },
-    {
-      "name": "Index",
-      "file": "Index.md",
-      "title": "Métiers — Exploration",
-      "isIndex": true
-    },
-    {
-      "name": "Mercenaire",
-      "file": "Mercenaire.md",
-      "title": "⚔️ Mercenaire — Archétype Métier"
-    },
-    {
-      "name": "Mineur",
-      "file": "Mineur.md",
-      "title": "⛏️ Mineur — Archétype Métier"
-    },
-    {
-      "name": "Navigateur",
-      "file": "Navigateur.md",
-      "title": "⛵ Navigateur — Archétype Métier"
-    }
-  ],
-  "GDD/03 - Mécaniques/Métiers/Gouvernance": [
-    {
-      "name": "Ambassadeur",
-      "file": "Ambassadeur.md",
-      "title": "🕊️ Ambassadeur — Archétype-métier"
-    },
-    {
-      "name": "Avocat",
-      "file": "Avocat.md",
-      "title": "📚 Avocat — Archétype-métier"
-    },
-    {
-      "name": "Conseiller",
-      "file": "Conseiller.md",
-      "title": "🧠 Conseiller — Archétype-métier"
-    },
-    {
-      "name": "Index",
-      "file": "Index.md",
-      "title": "Métiers — Gouvernance",
-      "isIndex": true
-    },
-    {
-      "name": "Juge",
-      "file": "Juge.md",
-      "title": "⚖️ Juge — Archétype-métier"
-    },
-    {
-      "name": "Roi (titre)",
-      "file": "Roi (titre).md",
-      "title": "👑 Roi — Titre social (pas un métier)"
-    },
-    {
-      "name": "Scribe",
-      "file": "Scribe.md",
-      "title": "📜 Scribe — Archétype-métier"
-    }
-  ],
-  "GDD/03 - Mécaniques/Métiers/Mysticisme": [
-    {
-      "name": "Apothicaire",
-      "file": "Apothicaire.md",
-      "title": "💊 Apothicaire — Archétype Métier"
-    },
-    {
-      "name": "Enchanteur du vivant",
-      "file": "Enchanteur du vivant.md",
-      "title": "🌿 Enchanteur du vivant — Archétype Métier"
-    },
-    {
-      "name": "Guérisseur",
-      "file": "Guérisseur.md",
-      "title": "💚 Guérisseur — Archétype Métier"
-    },
-    {
-      "name": "Herboriste",
-      "file": "Herboriste.md",
-      "title": "🌿 Herboriste — Archétype Métier"
-    },
-    {
-      "name": "Index",
-      "file": "Index.md",
-      "title": "Métiers — Mysticisme",
-      "isIndex": true
-    },
-    {
-      "name": "Mage",
-      "file": "Mage.md",
-      "title": "🔮 Mage — Archétype Métier"
-    },
-    {
-      "name": "Nécromancien",
-      "file": "Nécromancien.md",
-      "title": "💀 Nécromancien — Archétype Métier"
-    },
-    {
-      "name": "Oracle",
-      "file": "Oracle.md",
-      "title": "🎴 Oracle — Archétype Métier"
-    },
-    {
-      "name": "Prêtre",
-      "file": "Prêtre.md",
-      "title": "🛐 Prêtre — Archétype Métier"
-    }
-  ],
-  "GDD/03 - Mécaniques/Métiers/Sécurité": [
-    {
-      "name": "Archer",
-      "file": "Archer.md",
-      "title": "🏹 Archer — Archétype-métier"
-    },
-    {
-      "name": "Assassin",
-      "file": "Assassin.md",
-      "title": "🗡️ Assassin — Archétype-métier"
-    },
-    {
-      "name": "Chevalier",
-      "file": "Chevalier.md",
-      "title": "🛡️ Chevalier — Archétype-métier"
-    },
-    {
-      "name": "Espion",
-      "file": "Espion.md",
-      "title": "👁️ Espion — Archétype-métier"
-    },
-    {
-      "name": "Garde",
-      "file": "Garde.md",
-      "title": "🛡️ Garde — Archétype-métier"
-    },
-    {
-      "name": "Index",
-      "file": "Index.md",
-      "title": "Métiers — Sécurité",
-      "isIndex": true
-    },
-    {
-      "name": "Soldat",
-      "file": "Soldat.md",
-      "title": "⚔️ Soldat — Archétype-métier"
-    }
-  ],
-  "GDD/04 - Systèmes": [
-    {
-      "name": "Architecture Data-Driven",
-      "file": "Architecture Data-Driven.md",
-      "title": "🏗️ Architecture Data-Driven — un monde qui se recompose"
-    },
-    {
-      "name": "Index",
-      "file": "Index.md",
-      "title": "04 — Systèmes",
-      "isIndex": true
-    },
-    {
-      "name": "PNJ",
-      "file": "PNJ.md",
-      "title": "🧍 Les PNJ — la présence comme contrat"
-    }
-  ],
-  "GDD/04 - Systèmes/Bestiaire": [
-    {
-      "name": "Index",
-      "file": "Index.md",
-      "title": "🐾 Le Bestiaire — recensement du vivant",
-      "isIndex": true
-    }
-  ],
-  "GDD/04 - Systèmes/Comportements PNJ": [
-    {
-      "name": "Index",
-      "file": "Index.md",
-      "title": "Comportements PNJ — vivre sa journée, pas attendre celui qui passe",
-      "isIndex": true
-    }
-  ],
-  "GDD/05 - Implémentation Unreal": [
-    {
-      "name": "Index",
-      "file": "Index.md",
-      "title": "06 — Implémentation Unreal",
-      "isIndex": true
-    }
-  ],
-  "GDD/05 - Implémentation Unreal/Audits": [
-    {
-      "name": "Cross System Character Inventory",
-      "file": "Cross System Character Inventory.md",
-      "title": "Cross-System — Character & Inventory"
-    },
-    {
-      "name": "Cross System Circular Deps",
-      "file": "Cross System Circular Deps.md",
-      "title": "Cross-System — Dépendances Circulaires & Manques d'Intégration"
-    },
-    {
-      "name": "Cross System Framework World",
-      "file": "Cross System Framework World.md",
-      "title": "Cross-System — GameFramework, Environment & Terrain"
-    },
-    {
-      "name": "Cross System GAS Combat",
-      "file": "Cross System GAS Combat.md",
-      "title": "Cross-System — GAS & Combat"
-    },
-    {
-      "name": "Cross System Overview",
-      "file": "Cross System Overview.md",
-      "title": "Cross-System Integration — Overview"
-    },
-    {
-      "name": "Cross System Progression Quest",
-      "file": "Cross System Progression Quest.md",
-      "title": "Cross-System — Progression, Quest & Entity/Dialogue"
-    },
-    {
-      "name": "Index Audits",
-      "file": "Index Audits.md",
-      "title": "11 — Audits"
-    },
-    {
-      "name": "Index",
-      "file": "Index.md",
-      "title": "Audits",
-      "isIndex": true
-    },
-    {
-      "name": "Network Replication Audit",
-      "file": "Network Replication Audit.md",
-      "title": "D01 — Audit Réseau : Réplication HybeliorWorld"
-    },
-    {
-      "name": "Performance Analysis",
-      "file": "Performance Analysis.md",
-      "title": "D02 — Analyse de Performance : HybeliorWorld"
-    },
-    {
-      "name": "Security Audit",
-      "file": "Security Audit.md",
-      "title": "D03 — Audit de Sécurité HybeliorWorld"
-    },
-    {
-      "name": "Technical Debt Active",
-      "file": "Technical Debt Active.md",
-      "title": "Technical Debt Active"
-    },
-    {
-      "name": "Technical Debt Resolved",
-      "file": "Technical Debt Resolved.md",
-      "title": "Technical Debt Resolved"
-    }
-  ],
-  "GDD/05 - Implémentation Unreal/Backend OWS": [
-    {
-      "name": "CI CD",
-      "file": "CI CD.md",
-      "title": "CICD"
-    },
-    {
-      "name": "Docker",
-      "file": "Docker.md",
-      "title": "Docker"
-    },
-    {
-      "name": "Global Data Replication",
-      "file": "Global Data Replication.md",
-      "title": "GlobalDataReplication"
-    },
-    {
-      "name": "Global Data Service",
-      "file": "Global Data Service.md",
-      "title": "Global Data Service"
-    },
-    {
-      "name": "Index Backend OWS",
-      "file": "Index Backend OWS.md",
-      "title": "08 — Backend OWS"
-    },
-    {
-      "name": "Index",
-      "file": "Index.md",
-      "title": "Backend OWS",
-      "isIndex": true
-    },
-    {
-      "name": "Instance Launcher Ops",
-      "file": "Instance Launcher Ops.md",
-      "title": "InstanceLauncherOps"
-    },
-    {
-      "name": "Instance Launcher",
-      "file": "Instance Launcher.md",
-      "title": "InstanceLauncher"
-    },
-    {
-      "name": "Kubernetes",
-      "file": "Kubernetes.md",
-      "title": "Kubernetes"
-    },
-    {
-      "name": "Login Epic",
-      "file": "Login Epic.md",
-      "title": "LoginEpic"
-    },
-    {
-      "name": "Login OAuth",
-      "file": "Login OAuth.md",
-      "title": "LoginOAuth"
-    },
-    {
-      "name": "Login Xsolla Stub",
-      "file": "Login Xsolla Stub.md",
-      "title": "LoginSteam"
-    },
-    {
-      "name": "Migration Accord",
-      "file": "Migration Accord.md",
-      "title": "Migration Accord"
-    },
-    {
-      "name": "OWS Architecture",
-      "file": "OWS Architecture.md",
-      "title": "OWSArchitecture"
-    },
-    {
-      "name": "OWS Benchmarks",
-      "file": "OWS Benchmarks.md",
-      "title": "OWSBenchmarks"
-    },
-    {
-      "name": "OWS Login Subsystem",
-      "file": "OWS Login Subsystem.md",
-      "title": "OWS Login Subsystem"
-    },
-    {
-      "name": "OWS Network Replication",
-      "file": "OWS Network Replication.md",
-      "title": "OWS Network Replication"
-    },
-    {
-      "name": "OWS Player Controller Component",
-      "file": "OWS Player Controller Component.md",
-      "title": "OWS Player Controller Component"
-    },
-    {
-      "name": "OWS Tests",
-      "file": "OWS Tests.md",
-      "title": "OWSTests"
-    },
-    {
-      "name": "SQL Abilities",
-      "file": "SQL Abilities.md",
-      "title": "SQL Abilities"
-    },
-    {
-      "name": "SQL Bootstrap",
-      "file": "SQL Bootstrap.md",
-      "title": "SQL Bootstrap"
-    },
-    {
-      "name": "SQL Characters",
-      "file": "SQL Characters.md",
-      "title": "SQL Characters"
-    },
-    {
-      "name": "SQL Global Data",
-      "file": "SQL Global Data.md",
-      "title": "SQL Global Data"
-    },
-    {
-      "name": "SQL Inventory",
-      "file": "SQL Inventory.md",
-      "title": "SQL Inventory"
-    },
-    {
-      "name": "SQL Maps Social",
-      "file": "SQL Maps Social.md",
-      "title": "SQL_Maps_Social"
-    },
-    {
-      "name": "SQL Users",
-      "file": "SQL Users.md",
-      "title": "SQL_Users"
-    }
-  ],
-  "GDD/05 - Implémentation Unreal/Combat et Capacités": [
-    {
-      "name": "Abilities Combat",
-      "file": "Abilities Combat.md",
-      "title": "Documentation des Gameplay Abilities de Combat — HybeliorWorld"
-    },
-    {
-      "name": "Abilities Locomotion",
-      "file": "Abilities Locomotion.md",
-      "title": "Documentation : Gameplay Abilities de Locomotion"
-    },
-    {
-      "name": "Ability System Component",
-      "file": "Ability System Component.md",
-      "title": "AbilitySystemComponent"
-    },
-    {
-      "name": "Ability Tag Relationship Mapping",
-      "file": "Ability Tag Relationship Mapping.md",
-      "title": "AbilityTagRelationshipMapping"
-    },
-    {
-      "name": "Ability Tasks",
-      "file": "Ability Tasks.md",
-      "title": "AbilityTasks"
-    },
-    {
-      "name": "Combat Attribute Set",
-      "file": "Combat Attribute Set.md",
-      "title": "Combat Attribute Set"
-    },
-    {
-      "name": "Combat System",
-      "file": "Combat System.md",
-      "title": "Combat System — Implémentation"
-    },
-    {
-      "name": "Combo System",
-      "file": "Combo System.md",
-      "title": "ComboSystem"
-    },
-    {
-      "name": "Effects Combat",
-      "file": "Effects Combat.md",
-      "title": "MCP_GE_Combat — Documentation des GameplayEffects de Combat"
-    },
-    {
-      "name": "Effects Elemental States",
-      "file": "Effects Elemental States.md",
-      "title": "Gameplay Effects — États et Élémentaires (HybeliorWorld GAS)"
-    },
-    {
-      "name": "Elemental Reactions",
-      "file": "Elemental Reactions.md",
-      "title": "ElementalReactions"
-    },
-    {
-      "name": "GAS Data Assets",
-      "file": "GAS Data Assets.md",
-      "title": "MCP AbilitySystem — Documentation des DataTables et Assets GAS"
-    },
-    {
-      "name": "Gameplay Ability",
-      "file": "Gameplay Ability.md",
-      "title": "GameplayAbility"
-    },
-    {
-      "name": "Gameplay Effect",
-      "file": "Gameplay Effect.md",
-      "title": "GameplayEffect"
-    },
-    {
-      "name": "Gameplay Tags",
-      "file": "Gameplay Tags.md",
-      "title": "GameplayTags"
-    },
-    {
-      "name": "Hit Boxes",
-      "file": "Hit Boxes.md",
-      "title": "HitBoxes"
-    },
-    {
-      "name": "Index Combat",
-      "file": "Index Combat.md",
-      "title": "01 — AbilitySystem & Combat"
-    },
-    {
-      "name": "Index",
-      "file": "Index.md",
-      "title": "Combat et Capacités",
-      "isIndex": true
-    },
-    {
-      "name": "Lien System",
-      "file": "Lien System.md",
-      "title": "Lien System — Implémentation"
-    },
-    {
-      "name": "Mastery System",
-      "file": "Mastery System.md",
-      "title": "Mastery System — Implémentation"
-    },
-    {
-      "name": "Movesets",
-      "file": "Movesets.md",
-      "title": "Movesets"
-    },
-    {
-      "name": "PvP System",
-      "file": "PvP System.md",
-      "title": "PvP System — Implémentation"
-    },
-    {
-      "name": "Reactions Integration",
-      "file": "Reactions Integration.md",
-      "title": "ReactionsIntegration"
-    },
-    {
-      "name": "Weapon Mastery",
-      "file": "Weapon Mastery.md",
-      "title": "Weapon Mastery"
-    }
-  ],
-  "GDD/05 - Implémentation Unreal/Framework et Plugins": [
-    {
-      "name": "Asset Manager",
-      "file": "Asset Manager.md",
-      "title": "AssetManager"
-    },
-    {
-      "name": "Config Files",
-      "file": "Config Files.md",
-      "title": "Fichiers de configuration (.ini)"
-    },
-    {
-      "name": "Core Redirects",
-      "file": "Core Redirects.md",
-      "title": "CoreRedirects"
-    },
-    {
-      "name": "Game Mode Blueprints",
-      "file": "Game Mode Blueprints.md",
-      "title": "Game Mode Blueprints"
-    },
-    {
-      "name": "Game Mode",
-      "file": "Game Mode.md",
-      "title": "GameMode & GameState"
-    },
-    {
-      "name": "Index Framework Plugins",
-      "file": "Index Framework Plugins.md",
-      "title": "07 — Framework & Plugins"
-    },
-    {
-      "name": "Index",
-      "file": "Index.md",
-      "title": "Framework et Plugins",
-      "isIndex": true
-    },
-    {
-      "name": "Initialization Sequence",
-      "file": "Initialization Sequence.md",
-      "title": "Séquence d'initialisation (AHWPlayerController)"
-    },
-    {
-      "name": "Input System",
-      "file": "Input System.md",
-      "title": "InputSystem (Enhanced Input)"
-    },
-    {
-      "name": "Login Flow",
-      "file": "Login Flow.md",
-      "title": "Flow Login → Jeu"
-    },
-    {
-      "name": "Persistence Flow",
-      "file": "Persistence Flow.md",
-      "title": "Persistance — Flux Save/Load"
-    },
-    {
-      "name": "Player Controller Blueprints",
-      "file": "Player Controller Blueprints.md",
-      "title": "Player Controller Blueprints"
-    },
-    {
-      "name": "Player Controllers",
-      "file": "Player Controllers.md",
-      "title": "PlayerControllers"
-    },
-    {
-      "name": "Plugins",
-      "file": "Plugins.md",
-      "title": "Plugins"
-    },
-    {
-      "name": "Serialization Format",
-      "file": "Serialization Format.md",
-      "title": "FHWJsonSerializer — Sérialisation JSON"
-    },
-    {
-      "name": "Settings System",
-      "file": "Settings System.md",
-      "title": "UHWSettingsLocal — Paramètres locaux"
-    },
-    {
-      "name": "Tools Blueprints",
-      "file": "Tools Blueprints.md",
-      "title": "Tools Blueprints"
-    },
-    {
-      "name": "World Blueprints",
-      "file": "World Blueprints.md",
-      "title": "World Blueprints"
-    },
-    {
-      "name": "Zone Travel",
-      "file": "Zone Travel.md",
-      "title": "Zone Travel"
-    }
-  ],
-  "GDD/05 - Implémentation Unreal/Interaction et UI": [
-    {
-      "name": "Architecture Assets",
-      "file": "Architecture Assets.md",
-      "title": "ArchitectureAssets"
-    },
-    {
-      "name": "Containers",
-      "file": "Containers.md",
-      "title": "Containers"
-    },
-    {
-      "name": "Dialogue UI",
-      "file": "Dialogue UI.md",
-      "title": "DialogueUI"
-    },
-    {
-      "name": "Doors",
-      "file": "Doors.md",
-      "title": "Doors"
-    },
-    {
-      "name": "Dynamic Content Manager",
-      "file": "Dynamic Content Manager.md",
-      "title": "DynamicContentManager"
-    },
-    {
-      "name": "HUD Widgets",
-      "file": "HUD Widgets.md",
-      "title": "Documentation des Widget Blueprints du HUD — HybeliorWorld"
-    },
-    {
-      "name": "HUD",
-      "file": "HUD.md",
-      "title": "HUD"
-    },
-    {
-      "name": "Index Interaction UI",
-      "file": "Index Interaction UI.md",
-      "title": "05 — Interaction & UI"
-    },
-    {
-      "name": "Index",
-      "file": "Index.md",
-      "title": "Interaction et UI",
-      "isIndex": true
-    },
-    {
-      "name": "Input Actions",
-      "file": "Input Actions.md",
-      "title": "InputActions_Assets"
-    },
-    {
-      "name": "Input Component",
-      "file": "Input Component.md",
-      "title": "InputComponent"
-    },
-    {
-      "name": "Interactable Blueprints",
-      "file": "Interactable Blueprints.md",
-      "title": "Documentation MCP — Portails et Interactables (Blueprints)"
-    },
-    {
-      "name": "Interactable Framework",
-      "file": "Interactable Framework.md",
-      "title": "InteractableFramework"
-    },
-    {
-      "name": "Inventory UI",
-      "file": "Inventory UI.md",
-      "title": "InventoryUI"
-    },
-    {
-      "name": "Login UI",
-      "file": "Login UI.md",
-      "title": "LoginUI"
-    },
-    {
-      "name": "Map UI",
-      "file": "Map UI.md",
-      "title": "MapUI"
-    },
-    {
-      "name": "Nameplate UI",
-      "file": "Nameplate UI.md",
-      "title": "NameplateUI"
-    },
-    {
-      "name": "Portals",
-      "file": "Portals.md",
-      "title": "Portals"
-    },
-    {
-      "name": "Quest Tracker UI",
-      "file": "Quest Tracker UI.md",
-      "title": "QuestTrackerUI"
-    },
-    {
-      "name": "Skill Bar UI",
-      "file": "Skill Bar UI.md",
-      "title": "SkillBarUI"
-    },
-    {
-      "name": "Supply Pods",
-      "file": "Supply Pods.md",
-      "title": "SupplyPods"
-    },
-    {
-      "name": "UI Other Widgets",
-      "file": "UI Other Widgets.md",
-      "title": "Documentation MCP — Widget Blueprints UI (HybeliorWorld UE5.4)"
-    },
-    {
-      "name": "UI Specifications",
-      "file": "UI Specifications.md",
-      "title": "UI Specifications — Implémentation"
-    }
-  ],
   "GDD/05 - Implémentation Unreal/Monde et Environnement": [
     {
       "name": "Biome System",
@@ -2162,6 +1812,374 @@
       "name": "Weather System",
       "file": "Weather System.md",
       "title": "Weather System"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Métiers Catalog/Agriculture et Élevage": [
+    {
+      "name": "Agriculteur",
+      "file": "Agriculteur.md",
+      "title": "🌾 Agriculteur — Archétype Métier"
+    },
+    {
+      "name": "Berger",
+      "file": "Berger.md",
+      "title": "🐑 Berger — Archétype Métier"
+    },
+    {
+      "name": "Bûcheron",
+      "file": "Bûcheron.md",
+      "title": "🪵 Bûcheron — Archétype Métier"
+    },
+    {
+      "name": "Eleveur de créature",
+      "file": "Eleveur de créature.md",
+      "title": "🐎 Éleveur de créature — Archétype Métier"
+    },
+    {
+      "name": "Meunier",
+      "file": "Meunier.md",
+      "title": "🌾 Meunier — Archétype Métier"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Métiers Catalog/Artisanat et Production": [
+    {
+      "name": "Architecte",
+      "file": "Architecte.md",
+      "title": "🏛 Archétype-Métier — Architecte"
+    },
+    {
+      "name": "Bijoutier",
+      "file": "Bijoutier.md",
+      "title": "💎 Archétype-Métier — Bijoutier"
+    },
+    {
+      "name": "Boucher",
+      "file": "Boucher.md",
+      "title": "🥩 Archétype-Métier — Boucher"
+    },
+    {
+      "name": "Boulanger",
+      "file": "Boulanger.md",
+      "title": "🥖 Archétype-Métier — Boulanger"
+    },
+    {
+      "name": "Charpentier",
+      "file": "Charpentier.md",
+      "title": "🪵 Archétype-Métier — Charpentier"
+    },
+    {
+      "name": "Cordonnier",
+      "file": "Cordonnier.md",
+      "title": "👢 Archétype-Métier — Cordonnier"
+    },
+    {
+      "name": "Cuisinier",
+      "file": "Cuisinier.md",
+      "title": "🍲 Archétype-Métier — Cuisinier"
+    },
+    {
+      "name": "Dresseur de créature",
+      "file": "Dresseur de créature.md",
+      "title": "🐺 Archétype-Métier — Dresseur de créature"
+    },
+    {
+      "name": "Enchanteur d'objet",
+      "file": "Enchanteur d'objet.md",
+      "title": "🔮 Archétype-Métier — Enchanteur d'objet"
+    },
+    {
+      "name": "Enchanteur",
+      "file": "Enchanteur.md",
+      "title": "🔮 Enchanteur — *(synonyme de [[Enchanteur d'objet]])*"
+    },
+    {
+      "name": "Forgeron",
+      "file": "Forgeron.md",
+      "title": "🔨 Archétype-Métier — Forgeron"
+    },
+    {
+      "name": "Lapidaire",
+      "file": "Lapidaire.md",
+      "title": "💎 Archétype-Métier — Lapidaire"
+    },
+    {
+      "name": "Maçon",
+      "file": "Maçon.md",
+      "title": "🧱 Archétype-Métier — Maçon"
+    },
+    {
+      "name": "Menuisier",
+      "file": "Menuisier.md",
+      "title": "🪵 Archétype-Métier — Menuisier"
+    },
+    {
+      "name": "Sculpteur",
+      "file": "Sculpteur.md",
+      "title": "🗿 Archétype-Métier — Sculpteur"
+    },
+    {
+      "name": "Tailleur de pierre",
+      "file": "Tailleur de pierre.md",
+      "title": "⛏️ Archétype-Métier — Tailleur de pierre"
+    },
+    {
+      "name": "Tailleur",
+      "file": "Tailleur.md",
+      "title": "👗 Archétype-Métier — Tailleur"
+    },
+    {
+      "name": "Tanneur",
+      "file": "Tanneur.md",
+      "title": "🥩 Tanneur"
+    },
+    {
+      "name": "Tisserand",
+      "file": "Tisserand.md",
+      "title": "🧵 Archétype-Métier — Tisserand"
+    },
+    {
+      "name": "Verrier",
+      "file": "Verrier.md",
+      "title": "🔮 Archétype-Métier — Verrier"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Métiers Catalog/Commerce et Services": [
+    {
+      "name": "Aubergiste",
+      "file": "Aubergiste.md",
+      "title": "🛏️ Aubergiste — Archétype Métier"
+    },
+    {
+      "name": "Banquier",
+      "file": "Banquier.md",
+      "title": "🏦 Banquier — Archétype Métier"
+    },
+    {
+      "name": "Marchand",
+      "file": "Marchand.md",
+      "title": "💰 Marchand — Archétype Métier"
+    },
+    {
+      "name": "Tavernier",
+      "file": "Tavernier.md",
+      "title": "🍺 Tavernier — Archétype Métier"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Métiers Catalog/Divertissements": [
+    {
+      "name": "Acteur",
+      "file": "Acteur.md",
+      "title": "🎭 Acteur — Archétype Métier"
+    },
+    {
+      "name": "Barde",
+      "file": "Barde.md",
+      "title": "📜 Barde — Archétype Métier"
+    },
+    {
+      "name": "Jongleur",
+      "file": "Jongleur.md",
+      "title": "🤹 Jongleur — Archétype Métier"
+    },
+    {
+      "name": "Musicien",
+      "file": "Musicien.md",
+      "title": "🎵 Musicien — Archétype Métier"
+    },
+    {
+      "name": "Peintre",
+      "file": "Peintre.md",
+      "title": "🎨 Peintre — Archétype Métier"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Métiers Catalog/Erudition": [
+    {
+      "name": "Alchimiste",
+      "file": "Alchimiste.md",
+      "title": "🧪 Alchimiste — Archétype Métier"
+    },
+    {
+      "name": "Astronome",
+      "file": "Astronome.md",
+      "title": "🌌 Astronome — Archétype Métier"
+    },
+    {
+      "name": "Bibliothécaire",
+      "file": "Bibliothécaire.md",
+      "title": "📚 Bibliothécaire — Archétype Métier"
+    },
+    {
+      "name": "Chercheur",
+      "file": "Chercheur.md",
+      "title": "🔬 Chercheur — Archétype Métier"
+    },
+    {
+      "name": "Enseignant",
+      "file": "Enseignant.md",
+      "title": "🏫 Enseignant — Archétype Métier"
+    },
+    {
+      "name": "Historien",
+      "file": "Historien.md",
+      "title": "🏛️ Historien — Archétype Métier"
+    },
+    {
+      "name": "Médecin",
+      "file": "Médecin.md",
+      "title": "🩺 Médecin — Archétype Métier"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Métiers Catalog/Exploration": [
+    {
+      "name": "Cartographe",
+      "file": "Cartographe.md",
+      "title": "🗺️ Cartographe — Archétype Métier"
+    },
+    {
+      "name": "Chasseur de créature",
+      "file": "Chasseur de créature.md",
+      "title": "🏹 Chasseur de créature — Archétype Métier"
+    },
+    {
+      "name": "Chasseur de primes",
+      "file": "Chasseur de primes.md",
+      "title": "🎯 Chasseur de primes — Archétype Métier"
+    },
+    {
+      "name": "Chasseur de trésors",
+      "file": "Chasseur de trésors.md",
+      "title": "💰 Chasseur de trésors — Archétype Métier"
+    },
+    {
+      "name": "Dresseur",
+      "file": "Dresseur.md",
+      "title": "🦅 Dresseur — Archétype Métier"
+    },
+    {
+      "name": "Explorateur",
+      "file": "Explorateur.md",
+      "title": "🧭 Explorateur — Archétype Métier"
+    },
+    {
+      "name": "Mercenaire",
+      "file": "Mercenaire.md",
+      "title": "⚔️ Mercenaire — Archétype Métier"
+    },
+    {
+      "name": "Mineur",
+      "file": "Mineur.md",
+      "title": "⛏️ Mineur — Archétype Métier"
+    },
+    {
+      "name": "Navigateur",
+      "file": "Navigateur.md",
+      "title": "⛵ Navigateur — Archétype Métier"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Métiers Catalog/Gouvernance": [
+    {
+      "name": "Ambassadeur",
+      "file": "Ambassadeur.md",
+      "title": "🕊️ Ambassadeur — Archétype-métier"
+    },
+    {
+      "name": "Avocat",
+      "file": "Avocat.md",
+      "title": "📚 Avocat — Archétype-métier"
+    },
+    {
+      "name": "Conseiller",
+      "file": "Conseiller.md",
+      "title": "🧠 Conseiller — Archétype-métier"
+    },
+    {
+      "name": "Juge",
+      "file": "Juge.md",
+      "title": "⚖️ Juge — Archétype-métier"
+    },
+    {
+      "name": "Roi (titre)",
+      "file": "Roi (titre).md",
+      "title": "👑 Roi — Titre social (pas un métier)"
+    },
+    {
+      "name": "Scribe",
+      "file": "Scribe.md",
+      "title": "📜 Scribe — Archétype-métier"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Métiers Catalog/Mysticisme": [
+    {
+      "name": "Apothicaire",
+      "file": "Apothicaire.md",
+      "title": "💊 Apothicaire — Archétype Métier"
+    },
+    {
+      "name": "Enchanteur du vivant",
+      "file": "Enchanteur du vivant.md",
+      "title": "🌿 Enchanteur du vivant — Archétype Métier"
+    },
+    {
+      "name": "Guérisseur",
+      "file": "Guérisseur.md",
+      "title": "💚 Guérisseur — Archétype Métier"
+    },
+    {
+      "name": "Herboriste",
+      "file": "Herboriste.md",
+      "title": "🌿 Herboriste — Archétype Métier"
+    },
+    {
+      "name": "Mage",
+      "file": "Mage.md",
+      "title": "🔮 Mage — Archétype Métier"
+    },
+    {
+      "name": "Nécromancien",
+      "file": "Nécromancien.md",
+      "title": "💀 Nécromancien — Archétype Métier"
+    },
+    {
+      "name": "Oracle",
+      "file": "Oracle.md",
+      "title": "🎴 Oracle — Archétype Métier"
+    },
+    {
+      "name": "Prêtre",
+      "file": "Prêtre.md",
+      "title": "🛐 Prêtre — Archétype Métier"
+    }
+  ],
+  "GDD/05 - Implémentation Unreal/Métiers Catalog/Sécurité": [
+    {
+      "name": "Archer",
+      "file": "Archer.md",
+      "title": "🏹 Archer — Archétype-métier"
+    },
+    {
+      "name": "Assassin",
+      "file": "Assassin.md",
+      "title": "🗡️ Assassin — Archétype-métier"
+    },
+    {
+      "name": "Chevalier",
+      "file": "Chevalier.md",
+      "title": "🛡️ Chevalier — Archétype-métier"
+    },
+    {
+      "name": "Espion",
+      "file": "Espion.md",
+      "title": "👁️ Espion — Archétype-métier"
+    },
+    {
+      "name": "Garde",
+      "file": "Garde.md",
+      "title": "🛡️ Garde — Archétype-métier"
+    },
+    {
+      "name": "Soldat",
+      "file": "Soldat.md",
+      "title": "⚔️ Soldat — Archétype-métier"
     }
   ],
   "GDD/05 - Implémentation Unreal/Outils et Automation": [

@@ -86,6 +86,7 @@ Les objets ne tiennent pas seuls. Ils sont pris dans des liens — économiques,
 - [[Métiers]] — qui fabrique, qui récolte, qui transmet.
 - [[Économie]] — la circulation des choses entre les mains.
 - [[Bestiaire]] — d'où viennent les matières qu'on arrache au vivant.
+- Pour les fiches détaillées de chaque archétype d'objet (stats, slots, synergies) : [[Items Catalog]] dans `05 - Implémentation Unreal`.
 - Pour la spécification technique des objets et des recettes : [[Inventory Items]], [[Data Tables Items]].
 
 ---
