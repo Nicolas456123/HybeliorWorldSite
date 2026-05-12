@@ -1,205 +1,204 @@
 ---
-tags: [items, types, taxonomie, catalogue, mécanique]
+tags: [items, types, taxonomie, mécanique]
 type: mechanic
 status: drafted
-last_review: 2026-05-01
-needs_review_for: [archétypes-par-type-phase-2]
+last_review: 2026-05-12
 ---
 
-# 📋 Types d'Items — Catalogue master
+# Les natures des objets
 
-> Catalogue exhaustif des **types d'items** identifiés au cadrage. Chaque type est rattaché à exactement UNE [[Catégories d'Items|catégorie]] et — pour les Récoltes — à UNE [[Sources de Ressources|source]]. Phase 2 produira un fichier d'archétype par type majeur.
+> *« Donne à un enfant le nom d'un objet, et tu lui auras montré une chose. Apprends-lui pourquoi cet objet est ce qu'il est, et tu lui auras montré le monde. »*
+>
+> *— Maréa l'herboriste, jardins d'Astravia*
 
 ---
 
-## Catalogue par catégorie
+## Pourquoi nommer
 
-### Consommable
+Les habitants d'Hybélior ont, depuis longtemps, un goût des noms exacts. Un pommier n'est pas un poirier ; une cuirasse n'est pas un plastron ; une rapière, malgré son apparente parenté, n'est pas une épée. Cette précision n'est pas une coquetterie d'érudit — c'est l'**habitude** d'un monde où le détail engage. Acheter une fiole au lieu d'un flacon, à Mosrack, peut coûter deux pièces de moins ; demander une hache de bûcheron au lieu d'une hache d'armes peut épargner un quiproquo dont aucun marchand n'a envie.
 
-| Type | Sous-fonction | Phase 2 archétype |
-|------|--------------|-------------------|
-| Boisson | Buff temporaire | ✅ |
-| Potion | Soin / mana / dispel | ✅ |
-| Parchemin | Sort encapsulé | ✅ |
-| Fruits | Nourriture rapide | ✅ |
-| Légumes | Nourriture | ✅ |
-| Poisson | Nourriture | ✅ |
-| Viande | Nourriture | ✅ |
-| Fromage | Nourriture longue conservation | ✅ |
-| Champignons | Nourriture / alchimique | ✅ |
-| Gâteaux | Nourriture festive (buff stamina) | ✅ |
-| Épices | Modificateur de cuisine | À grouper en archétype "Aromates" ? |
-| Herbes | Modificateur d'alchimie | À grouper en archétype "Aromates" ? |
-| Cristal | Énergétique / rituel | ✅ (pont avec [[Le Lien]]) |
-| Récipient | Contenant | ✅ |
-| Livre Récipient | Contenant magique | ✅ |
-| Divers consommables | À scinder | ⚠️ catégorie fourre-tout |
+Ce document détaille la nature de chaque objet, famille par famille, type par type. Il n'invente rien : il met en ordre ce que les gens du monde savent déjà.
 
-### Équipement
+---
 
-#### Armures (8 slots × 5 classes = combinatoire générée)
+## Natures des consommables
 
-| Slot | Type canonique | Variations par classe |
-|------|---------------|----------------------|
-| Tête | Casque / Heaume / Capuche | Heaume de plate, Casque de mailles, Capuche de cuir, Capuche de tissu |
-| Torse | Cuirasse / Plastron / Tunique / Robe | Cuirasse de plate, Plastron de mailles, Tunique de cuir, Robe de tissu |
-| Épaules | Pauldrons / Épaulières | Idem 4 classes |
-| Bras | Brassards / Manches | Idem |
-| Mains | Gantelets / Gants / Mitaines | Idem |
-| Taille | Ceinture (armure) | Idem |
-| Jambes | Jambières / Cuissardes / Pantalon | Idem |
-| Pieds | Bottes / Sandales / Chausses | Idem |
+Les consommables se laissent grouper en quelques grands gestes : ce qu'on boit, ce qu'on mange, ce qu'on ouvre pour libérer une vertu, et ce qu'on porte pour contenir l'un ou l'autre.
 
-**5 classes** : Tissu / Cuir / Mailles / Plate / Spécial-Exotique (Écaille, Os, Carapace, Biométal, Cristaux)
+| Type | Geste habituel | Présence dans le monde |
+|------|----------------|------------------------|
+| **Boisson** | Boire | Soutien passager du corps, infusion ou ferment ; sa vertu se dissipe après quelques heures |
+| **Potion** | Boire | Soin, antidote, dissipation des emprises magiques |
+| **Parchemin** | Déchirer | Un sort capturé, libéré dans l'usage |
+| **Fruits** | Croquer | La nourriture rapide du voyageur |
+| **Légumes** | Cuisiner | La base du repas, à toute table |
+| **Poisson** | Cuire ou sécher | Frais sur la côte, salé pour les terres |
+| **Viande** | Cuire | Le luxe occasionnel ou la chasse rapportée |
+| **Fromage** | Tailler | Longue conservation, accompagnement noble du pain |
+| **Champignons** | Faire revenir, sécher | Nourriture commune, parfois remède, parfois autre chose |
+| **Gâteaux** | Partager | Nourriture des fêtes, des mariages, des veillées |
+| **Épices** | Doser | Modificateur de cuisine, parfois rare, parfois précieux |
+| **Herbes** | Doser, infuser | Modificateur alchimique ou culinaire |
+| **Cristal** | Consumer dans un rituel | Présence énergétique, pont avec [[Le Lien]] |
+| **Récipient** | Ouvrir, remplir | Bouteille, fiole, gourde — contient un liquide |
+| **Livre récipient** | Ouvrir, lire à voix haute | Livre-objet qui n'est pas seulement lu mais activé |
 
-> Phase 2 : 1 archétype **par slot × classe** = 8 × 5 = 40 archétypes d'armure (suffisant pour la combinatoire générée par Material Generator). Plus 5-10 sets signature par pays.
+---
 
-#### Vêtements non-armure
+## Natures des équipements
 
-| Type | Sous-fonction | Phase 2 archétype |
-|------|--------------|-------------------|
-| Cape | Slot dorsal, situationnel | ✅ |
-| Tabard | Couche cosmétique faction/guilde | ✅ |
-| Capuche (seule) | Tissu, anonymat | ⚠️ parfois fusionné avec Capuche-armure |
-| Robe simple (civile) | Vêtement civil | ✅ |
-| Tunique (civile) | Vêtement civil | ✅ |
+L'équipement se subdivise en cinq sous-familles. Chacune obéit à sa propre logique, et la maîtrise de l'une n'enseigne rien de la maîtrise des autres.
 
-#### Accessoires
+### Les pièces d'armure
 
-| Type | Slots équipables | Phase 2 archétype |
-|------|------------------|-------------------|
-| Anneau | 2 (mains gauche/droite) | ✅ |
-| Amulette / Collier | 1 (cou) | ✅ |
-| Broche / Fibule | 1 (épaule) | ✅ |
-| Bracelet | 2 (poignets) | ✅ |
-| Boucle d'oreille | 1-2 | ✅ |
-| Ceinture-accessoire | 1 (taille, sur ceinture-armure) | ✅ |
+Une armure complète, à Hybélior, se compose de huit pièces, chacune protégeant un endroit du corps. Selon l'étoffe employée — tissu, cuir, mailles, plate, ou matière exotique — la pièce prend un nom différent et confère une vocation différente.
 
-#### Focus magiques (non-armes)
+| Endroit | Nom canonique | Variations selon l'étoffe |
+|---------|---------------|---------------------------|
+| Tête | Casque, heaume, capuche | Heaume de plate, casque de mailles, capuche de cuir, capuche de tissu |
+| Torse | Cuirasse, plastron, tunique, robe | Cuirasse de plate, plastron de mailles, tunique de cuir, robe de tissu |
+| Épaules | Pauldrons, épaulières | Selon les quatre étoffes |
+| Bras | Brassards, manches | Selon les quatre étoffes |
+| Mains | Gantelets, gants, mitaines | Selon les quatre étoffes |
+| Taille | Ceinture d'armure | Selon les étoffes |
+| Jambes | Jambières, cuissardes, pantalon | Selon les quatre étoffes |
+| Pieds | Bottes, sandales, chausses | Selon les quatre étoffes |
 
-| Type | Voie principale d'usage | Phase 2 archétype |
-|------|------------------------|-------------------|
-| Orbe | Polyvalent (toutes Voies) | ✅ |
-| Talisman | Pacte / Ancre rituelle | ✅ |
-| Tome / Grimoire | Sorts encapsulés | ✅ (recoupe Livre Récipient) |
-| Cristal de Voie | Signature d'une Voie | ✅ — 13 variants (5 Éternels + 8 Cosmiques) |
-| Reliure / Bandeau frontal | Focus discret | ✅ |
+Les cinq étoffes — tissu, cuir, mailles, plate, exotique — racontent à elles seules cinq vocations. Le tissu pour ceux qui parlent aux Voies. Le cuir pour ceux qui marchent et chassent. Les mailles pour ceux qui tiennent le rang. La plate pour ceux qui prennent les coups que les autres ne sauraient prendre. L'exotique — écaille, os, carapace, cristal — pour ceux qui ont vaincu une bête rare ou recueilli ce que le Souffle a laissé.
 
-> ⚠️ **Sceptre** = arme (catégorie Arme, classe magique 1H), pas focus.
+### Les vêtements civils
 
-#### Outils (par métier)
+| Type | Présence dans le monde |
+|------|------------------------|
+| **Cape** | Dorsale, contre le froid, contre le regard |
+| **Tabard** | Sur la cuirasse, dit la guilde ou la faction |
+| **Capuche** *(seule)* | L'anonymat du voyageur |
+| **Robe civile** | Vêtement de cérémonie, d'étude, d'autorité |
+| **Tunique** | Tous les jours, partout |
 
-| Type | Métier | Phase 2 archétype |
-|------|--------|-------------------|
-| Marteau de forge | Forgeron | ✅ |
-| Faux | Fermier / Cueilleur | ✅ |
-| Pioche | Mineur | ✅ |
-| Hache de bûcheron | Bûcheron | ✅ |
-| Canne à pêche | Pêcheur | ✅ |
-| Plume / Stylet | Scribe / Enchanteur | ✅ |
-| Mortier et pilon | Apothicaire / Alchimiste | ✅ |
-| Aiguille / Fuseau | Tisserand / Couturier | ✅ |
-| Soufflet | Forgeron / Verrier | ✅ |
-| Pince et burin | Lapidaire / Bijoutier | ✅ |
-| Couteau de tanneur | Tanneur | ✅ |
-| (... 63 métiers total) | Voir [[Métiers]] | À étoffer Phase 2 |
+### Les accessoires
 
-### Récolte (40+ types — voir [[Sources de Ressources]] pour le détail)
+| Type | Où il se porte |
+|------|----------------|
+| **Anneau** | Aux mains, deux par voyageur |
+| **Amulette, collier, pendentif** | Au cou, un seul à la fois |
+| **Broche, fibule** | À l'épaule, sur le manteau |
+| **Bracelet** | Aux poignets, deux possibles |
+| **Boucle d'oreille** | Aux oreilles |
+| **Ceinture-accessoire** | À la taille, sur la ceinture d'armure |
 
-#### Nature (21)
+### Les conduits magiques
 
-Bois, Écorce, Sève, Cœur de plante, Plante, Feuille, Fleur, Racine, Graine, Baie, Champignon, Algue, Céréale, Laine plante, Liquide, Miel, Minerai, Pierre, Gemme brut, Coquille, Poudre naturel
+Pour ceux qui pratiquent une Voie du [[Le Lien|Lien]], certains objets servent de conduit dédié — sans être des armes pour autant. Le sceptre, lui, est rangé parmi les armes, parce qu'on s'en sert pour frapper autant que pour conduire.
 
-#### Créature (25)
+| Type | Sa fonction première |
+|------|----------------------|
+| **Orbe** | Sphère cristalline tenue en main libre, amplifie une Voie |
+| **Talisman** | Petit objet porté à la ceinture ou au cou, souvent ancre rituelle |
+| **Tome, grimoire** | Livre-objet contenant sorts ou rituels |
+| **Cristal de Voie** | Cristal taillé attaché à l'équipement, signature de la Voie pratiquée |
+| **Reliure, bandeau frontal** | Tissu enchanté autour du front, focus discret |
 
-Os, Cuir, Peau, Fourrure, Plume, Écaille, Carapace, Antenne, Aile, Patte, Queue, Corne, Griffe, Œil, Cœur de creature, Organe, Sang, Bave, Venin, Larme, Sécrétion, Œuf, Graisse animale, Laine creature, Essence spirituelle
+### Les outils de métier
 
-#### Fabriqué (15 — intermédiaires)
+Chaque métier d'Hybélior a son outil ou ses outils. Voici les plus reconnaissables ; la liste complète des outils des soixante-trois métiers est tenue dans [[Métiers]].
 
-Lingot, Alliage, Fil métallique, Plaque de verre, Brique, Planche, Tissu, Farine, Huile, Cire raffinée, Résine traitée, Pigment, Poudre fabriqué, Émulsion alchimique, Gemme taillé
+| Outil | Métier | Geste |
+|-------|--------|-------|
+| **Marteau de forge** | Forgeron | Frapper l'enclume |
+| **Faux** | Fermier, cueilleur | Trancher la tige |
+| **Pioche** | Mineur | Briser la roche |
+| **Hache de bûcheron** | Bûcheron | Faire tomber l'arbre |
+| **Canne à pêche** | Pêcheur | Attendre |
+| **Plume, stylet** | Scribe, enchanteur | Tracer |
+| **Mortier et pilon** | Apothicaire, alchimiste | Broyer |
+| **Aiguille, fuseau** | Tisserand, couturier | Tisser, recoudre |
+| **Soufflet** | Forgeron, verrier | Attiser |
+| **Pince et burin** | Lapidaire, bijoutier | Tailler |
+| **Couteau de tanneur** | Tanneur | Préparer la peau |
 
-### Arme
+---
 
-#### Mêlée à une main
+## Natures des récoltes
 
-| Type | Style | Maîtrise dédiée |
+Les récoltes se groupent selon leur origine. Le détail appartient à [[Sources de Ressources]] ; voici la vue d'ensemble, type par type.
+
+### Ce que la nature donne (vingt et un types)
+
+Bois, écorce, sève, cœur de plante, plante, feuille, fleur, racine, graine, baie, champignon, algue, céréale, fibre végétale, eau de source, miel, minerai, pierre, gemme brute, coquillage, poudre minérale.
+
+Chacune de ces matières a sa saison, son biome, son métier. Le bois de hêtre n'est pas le bois de chêne, et le mineur d'Astravia ne creuse pas le même minerai que celui des montagnes de Cestra.
+
+### Ce que les créatures laissent (vingt-cinq types)
+
+Os, cuir, peau, fourrure, plume, écaille, carapace, antennes, aile, patte, queue, corne, griffe, œil, cœur de créature, organe, sang, bave, venin, larme, sécrétion, œuf, graisse animale, laine, essence spirituelle.
+
+Pour le détail des créatures et de ce que chacune laisse derrière elle, voir [[Bestiaire]].
+
+### Ce que la première transformation produit (quinze types)
+
+Lingot, alliage, fil métallique, plaque de verre, brique, planche, tissu, farine, huile, cire raffinée, résine traitée, pigment, poudre fabriquée, émulsion alchimique, gemme taillée.
+
+Ces matières ne se trouvent jamais à l'état brut : elles sont déjà l'œuvre d'une première main. Le lingot suppose le fondeur, la planche le menuisier, le pigment le teinturier.
+
+---
+
+## Natures des armes
+
+Les armes se classent selon le nombre de mains qui les tiennent, et selon la distance à laquelle elles agissent.
+
+### Mêlée, à une main
+
+| Type | Geste | Maîtrise dédiée |
 |------|-------|----------------|
-| Épée à une main | Polyvalent | [[Armes et Maîtrise#Épée 1H]] |
-| Lame | Coupante générique (sabre, scimitar, couteau) | [[Armes et Maîtrise#Lame]] |
-| Marteau à une main | Stagger / armor break | [[Armes et Maîtrise#Marteau 1H]] |
-| Hache à une main | Saignement | [[Armes et Maîtrise#Hache 1H]] |
-| Rapière | Précision, parade | [[Armes et Maîtrise#Rapière]] |
-| Dague | Stealth, critique | [[Armes et Maîtrise#Dague]] |
-| Sceptre | Focus magique | [[Armes et Maîtrise#Sceptre]] · [[Le Lien]] |
+| **Épée à une main** | Couper, parer | [[Armes et Maîtrise#Épée 1H]] |
+| **Lame** | Couper court | [[Armes et Maîtrise#Lame]] |
+| **Marteau à une main** | Briser, étourdir | [[Armes et Maîtrise#Marteau 1H]] |
+| **Hache à une main** | Trancher profond | [[Armes et Maîtrise#Hache 1H]] |
+| **Rapière** | Pointer | [[Armes et Maîtrise#Rapière]] |
+| **Dague** | Frapper de près | [[Armes et Maîtrise#Dague]] |
+| **Sceptre** | Conduire et frapper | [[Armes et Maîtrise#Sceptre]] · [[Le Lien]] |
 
-#### Mêlée à deux mains
+### Mêlée, à deux mains
 
-| Type | Style | Maîtrise dédiée |
+| Type | Geste | Maîtrise dédiée |
 |------|-------|----------------|
-| Épée à deux mains | DPS lourd | [[Armes et Maîtrise#Épée 2H]] |
-| Marteau à deux mains | Stagger lourd, anti-armure | [[Armes et Maîtrise#Marteau 2H]] |
-| Hache à deux mains | DPS lourd, anti-bouclier | [[Armes et Maîtrise#Hache 2H]] |
-| Lance | Allonge, anti-charge | [[Armes et Maîtrise#Lance]] |
+| **Épée à deux mains** | Trancher d'amplitude | [[Armes et Maîtrise#Épée 2H]] |
+| **Marteau à deux mains** | Écraser | [[Armes et Maîtrise#Marteau 2H]] |
+| **Hache à deux mains** | Briser bouclier | [[Armes et Maîtrise#Hache 2H]] |
+| **Lance** | Tenir à distance | [[Armes et Maîtrise#Lance]] |
 
-#### Distance
+### Distance
 
-| Type | Style | Maîtrise dédiée | Munition |
+| Type | Geste | Maîtrise dédiée | Munition |
 |------|-------|----------------|----------|
-| Arc | Distance | [[Armes et Maîtrise#Arc]] | Flèche |
+| **Arc** | Tendre et lâcher | [[Armes et Maîtrise#Arc]] | Flèche |
 
-#### Défensif
+### Défense
 
-| Type | Style | Maîtrise dédiée |
+| Type | Geste | Maîtrise dédiée |
 |------|-------|----------------|
-| Bouclier | Block, parade passive | [[Armes et Maîtrise#Bouclier]] |
+| **Bouclier** | Tenir, dévier | [[Armes et Maîtrise#Bouclier]] |
 
-#### Munitions
+### Munitions
 
 | Type | Compagne |
 |------|----------|
-| Flèche | Arc — variants par tier/matériau/effet (incendiaire, perçante, traceuse, etc.) |
+| **Flèche** | Pour l'arc ; varie selon la qualité et l'usage (incendiaire, perçante, traçante) |
 
 ---
 
-## Vue Dataview consolidée *(à activer après création des archétypes Phase 2)*
+## Voir aussi
 
-```dataview
-TABLE category, source, tier_max, mastery, status
-FROM "03 - Mécaniques/Items/Archétypes"
-SORT category, type
-```
-
----
-
-## Notes pour la Phase 2 (archétypes)
-
-Pour chaque type majeur, créer un fichier `Archétypes/<Nom>.md` avec :
-
-```yaml
----
-tags: [item, archétype, <catégorie>, <source>]
-type: archetype
-category: Consommable | Équipement | Récolte | Arme
-source: Nature | Créature | Fabriqué | -
-tier_min: 1
-tier_max: 6
-mastery: <Maîtrise associée>
-era_availability: [toutes | <liste ères>]
-status: drafted
-last_review: 2026-XX-XX
----
-```
-
-**Sections type d'un archétype** :
-1. Vue d'ensemble (1-2 lignes)
-2. Catégorie / Source / Tier
-3. Variations (sous-types : ex. Épée à 1H → Épée courte / Épée longue / Sabre noble / Cimeterre)
-4. Recettes (si fabriqué/cuisiné)
-5. Effets gameplay (stats, buff, durée)
-6. Variants par ère (Spectral, Brulé, Onirique, etc.)
-7. Items signatures connus (pointeurs vers Phase 4)
-8. Décisions ouvertes / chantiers de profondeur
+- [[Items/Index|Hub des objets]]
+- [[Catégories d'Items]] — les quatre grandes familles
+- [[Sources de Ressources]] — d'où viennent les matières premières
+- [[Crafts]] — l'art du faire
+- [[Armes et Maîtrise]] — la pratique des armes, des paliers, et leurs conditions cachées
+- [[Métiers]] — qui produit quoi
+- Pour la spécification technique des objets : [[Inventory Items]], [[Data Tables Items]].
 
 ---
 
-*Liens : [[Items/Index|← Index Items]] · [[Catégories d'Items]] · [[Sources de Ressources]]*
+*« Nomme ce que tu portes. Et si tu ne sais pas le nommer, demande à quelqu'un qui le sait. C'est ainsi qu'on devient un homme du monde. »*
+*— Veslan le tonnelier, atelier des quais de Mosrack*

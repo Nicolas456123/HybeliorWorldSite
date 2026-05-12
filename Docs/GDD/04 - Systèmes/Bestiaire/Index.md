@@ -17,7 +17,7 @@ implementation: "[[Bestiary]]"
 
 ## L'idée du Bestiaire
 
-Dans la plupart des mondes qui se prétendent peuplés, le bestiaire est un **catalogue d'ennemis**. On y trouve, par ordre de difficulté croissante, la liste des choses qu'on pourra frapper, de la facile à la légendaire. Chaque entrée porte un nombre — la "menace", le "tier", la "récompense" — et chaque créature n'existe, dans l'économie du jeu, que pour être affrontée, vaincue, dépouillée. Le reste du temps, elle ne vit pas. Elle attend. Elle est, comme les PNJ d'un MMO classique, une **fonction** plus qu'une présence.
+Dans la plupart des mondes qui se prétendent peuplés, le bestiaire est un **catalogue d'ennemis**. On y trouve, par ordre de difficulté croissante, la liste des choses qu'on pourra frapper, de la facile à la légendaire. Chaque entrée porte un nombre — la "menace", le "rang", la "récompense" — et chaque créature n'existe, dans l'économie de ces mondes, que pour être affrontée, vaincue, dépouillée. Le reste du temps, elle ne vit pas. Elle attend. Elle est, comme les habitants d'un monde partagé bâclé, une **fonction** plus qu'une présence.
 
 Hybelior refuse cette équation. Pas par sentimentalisme — par **cohérence cosmologique**. Si le monde est polyphonie, si la Polyphonie ne distingue pas a priori la voix de l'homme, celle du loup et celle du vent, alors le bestiaire ne peut pas être ce que les autres mondes en font. Il doit être un **recensement du vivant** — un inventaire patient, presque humble, des présences qui peuplent Hybelior aux côtés des mortels.
 
@@ -63,7 +63,7 @@ Le monde n'est pas peuplé d'**ennemis** et de **non-ennemis**. Il est peuplé d
 >
 > *— Verlan Skel, à un colloque de chasseurs, Lurmoria*
 
-Cette polyphonie n'est pas une métaphore décorative. Elle a une **traduction pratique** dans chaque dimension du jeu. Quand le Souffle change, les voix du bestiaire se redistribuent comme se redistribuent les voix Éternelles. Quand l'Accord d'un personnage monte ou descend, sa propre voix s'accorde ou se désaccorde à celle des bêtes qui l'entourent. Quand un PNJ raconte une rumeur, c'est souvent qu'une bête, quelque part, lui a appris quelque chose qu'il prolonge à sa façon. Et quand un joueur défait une créature, il **retire une voix** de la trame — pour quelques heures, quelques jours, parfois quelques Ères selon ce qu'il a tué. Le silence qui suit cette retraite n'est pas anodin. Il est, lui aussi, une parole — celle d'un monde qui a un peu moins à dire qu'avant.
+Cette polyphonie n'est pas une métaphore décorative. Elle a une **traduction pratique** dans chaque dimension du monde. Quand le Souffle change, les voix du bestiaire se redistribuent comme se redistribuent les voix Éternelles. Quand l'Accord d'un voyageur monte ou descend, sa propre voix s'accorde ou se désaccorde à celle des bêtes qui l'entourent. Quand un habitant raconte une rumeur, c'est souvent qu'une bête, quelque part, lui a appris quelque chose qu'il prolonge à sa façon. Et quand un chasseur défait une créature, il **retire une voix** de la trame — pour quelques heures, quelques jours, parfois quelques Ères selon ce qu'il a tué. Le silence qui suit cette retraite n'est pas anodin. Il est, lui aussi, une parole — celle d'un monde qui a un peu moins à dire qu'avant.
 
 Cette manière de penser la faune n'est pas un ornement. Elle a des conséquences pratiques. Elle change ce qu'est, à Hybelior, **rencontrer une créature** — la première chose qu'on observe n'est pas son niveau, mais sa **posture**. Est-elle au repos ? En chasse ? En migration ? En deuil ? Le loup qui passe son chemin en t'ignorant n'est pas un PNJ "neutre" qui attendrait une commande pour s'animer. C'est un animal qui a ses propres affaires, dans lesquelles tu n'as, pour l'instant, aucune place. Et c'est précisément cela qui rend la rencontre **réelle**.
 
@@ -135,7 +135,7 @@ Les chroniqueurs distinguent trois manières d'être Reliquat. La **persistance*
 
 ## Tableau des règnes
 
-| Règne | Nature | Loot dominant | Frontière typique |
+| Règne | Nature | Ce qu'on récolte | Frontière typique |
 |---|---|---|---|
 | **Bêtes** | Biologique indigène | Cuir, os, fourrure, viande | Vivipare/ovipare, biome précis |
 | **Esprits** | Subtil, lié à un lieu | Souffle d'offrande, marque, faveur | Rarement matérialisé en combat |
@@ -166,13 +166,13 @@ La créature ne t'attaque pas, mais elle ne s'intéresse pas non plus à toi. El
 
 Plus rare, plus précieux. La créature **s'intéresse à toi** sans être agressive. Elle s'approche, observe, hume, repart. Certaines tortues ancestrales, certains renards, certains esprits changeformes adoptent ce statut. Le curieux est souvent le **seuil** d'une autre relation — alliance, sanctuaire, parfois trahison. Il faut le respecter sans le forcer.
 
-Le curieux est un statut **fragile**. Un geste brusque et il bascule en fuyard ; un geste tendre, mais maladroit, et il bascule en hostile. Beaucoup de joueurs apprennent à immobiliser leur personnage quand une créature curieuse approche — c'est, à Hybelior, l'un des rares moments où **ne rien faire** est la meilleure action possible.
+Le curieux est un statut **fragile**. Un geste brusque et il bascule en fuyard ; un geste tendre, mais maladroit, et il bascule en hostile. Beaucoup de voyageurs apprennent à se figer quand une créature curieuse approche — c'est, à Hybelior, l'un des rares moments où **ne rien faire** est la meilleure action possible.
 
 ### Allié
 
 La créature te reconnaît comme partenaire. Elle vient à toi, accepte ta présence, parfois te suit ou te combat à tes côtés. L'alliance se gagne — par offrandes, par services, par patience, par hasard. Un loup blessé qu'on a soigné peut, à l'Ère suivante, te ramener une proie. Un esprit du seuil qu'on a salué dix fois peut un jour t'avertir d'un danger. L'alliance avec une créature est rarement totale et jamais éternelle. Mais elle est, à Hybelior, l'une des plus profondes formes de relation que le monde puisse offrir.
 
-Le statut d'allié ne se confond pas avec la **domestication**. On ne possède pas une créature alliée ; on l'**accompagne**. Si elle décide, un jour, de reprendre sa route, on ne l'en empêche pas. Si elle disparaît à un Souffle, on ne la cherche pas. L'alliance respecte la **liberté** de la créature comme la liberté d'un PNJ qui aurait choisi, lui aussi, de te tenir compagnie un temps. Voir [[Compagnons]] (Phase 4) pour le cas particulier des compagnons animaux liés au personnage sur le long terme — toujours par accord mutuel, jamais par capture.
+Le statut d'allié ne se confond pas avec la **domestication**. On ne possède pas une créature alliée ; on l'**accompagne**. Si elle décide, un jour, de reprendre sa route, on ne l'en empêche pas. Si elle disparaît à un Souffle, on ne la cherche pas. L'alliance respecte la **liberté** de la créature comme la liberté d'un habitant qui aurait choisi, lui aussi, de te tenir compagnie un temps.
 
 ### Sanctuaire
 
@@ -194,13 +194,13 @@ Inversement, si tu te lies à un Esprit, si tu remplis une condition cachée aup
 
 ### Le Souffle
 
-L'[[Le Souffle|Ère]] change ce que les créatures sont disposées à faire. Un loup pacifique sous une Ère verdoyante peut devenir agressif sous une Ère Brulée. Une tortue indifférente sous une Ère neutre peut devenir oraculaire sous une Ère Brumeuse. Le statut comportemental dérive avec la dominante cosmique — non pas par caprice de programmation, mais parce que la **trame entière** redistribue les humeurs. Ce que le joueur ressent intuitivement, le monde le vit avec lui.
+L'[[Le Souffle|Ère]] change ce que les créatures sont disposées à faire. Un loup pacifique sous une Ère verdoyante peut devenir agressif sous une Ère Brulée. Une tortue indifférente sous une Ère neutre peut devenir oraculaire sous une Ère Brumeuse. Le statut comportemental dérive avec la dominante cosmique — non pas par caprice d'horloge, mais parce que la **trame entière** redistribue les humeurs. Ce que le voyageur ressent intuitivement, le monde le vit avec lui.
 
 Certains animaux **disparaissent** à certaines Ères. D'autres **apparaissent** seulement à certaines (Cendre Vivante n'existe qu'en Ères Brulées de Cendara, le Cerf de Lune ne se montre qu'en Ères de pleine clarté lunaire). Voir *Le rôle du Souffle*.
 
 ### L'Accord
 
-C'est, peut-être, le levier le plus subtil. Un personnage haut Accord — voir [[L'Accord]] — apaise les créatures alentour, même hostiles, dans un rayon discret mais réel. Sa résonance avec le monde se transmet à ce qui en fait partie. Inversement, un personnage bas Accord — un Délié, un joueur qui s'est éloigné du Souffle — provoque les créatures sans même le vouloir. Sa dissonance les agite. Les ermites d'Hybelior savent reconnaître un Accord à la manière dont les oiseaux se taisent ou chantent à l'approche du voyageur.
+C'est, peut-être, le levier le plus subtil. Un voyageur haut Accord — voir [[L'Accord]] — apaise les créatures alentour, même hostiles, dans un rayon discret mais réel. Sa résonance avec le monde se transmet à ce qui en fait partie. Inversement, un voyageur bas Accord — un Délié qui s'est éloigné du Souffle — provoque les créatures sans même le vouloir. Sa dissonance les agite. Les ermites d'Hybelior savent reconnaître un Accord à la manière dont les oiseaux se taisent ou chantent à l'approche de celui qui passe.
 
 > *« L'animal sent l'âme avant les pas. Si tu marches comme un cri dans le monde, ne t'étonne pas que le bois te réponde par des crocs. »*
 >
@@ -214,7 +214,7 @@ Une créature n'existe pas isolée. Elle existe **dans** un écosystème — un 
 
 ### La forêt primale
 
-Le règne tempéré classique — chênes, hêtres, mousses, sous-bois épais. Astravia, Onara, Galenor, Lurmoria. Cervidés en troupeau qui broutent les clairières ; sangliers solitaires dans les fourrés ; loups en meute qui les régulent ; ours bruns qui dominent les pentes ; renards roux dans l'herbe haute ; aigles royaux qui surveillent depuis les cimes. Quelques Esprits du seuil aux sources. C'est l'écosystème **archétypal** d'Hybelior — celui qu'un nouveau joueur traverse en premier, et qui contient déjà presque tous les types de relation possibles entre un homme et une bête.
+Le règne tempéré classique — chênes, hêtres, mousses, sous-bois épais. Astravia, Onara, Galenor, Lurmoria. Cervidés en troupeau qui broutent les clairières ; sangliers solitaires dans les fourrés ; loups en meute qui les régulent ; ours bruns qui dominent les pentes ; renards roux dans l'herbe haute ; aigles royaux qui surveillent depuis les cimes. Quelques Esprits du seuil aux sources. C'est l'écosystème **archétypal** d'Hybelior — celui qu'un nouveau venu traverse en premier, et qui contient déjà presque tous les types de relation possibles entre un homme et une bête.
 
 La forêt primale enseigne ce que toute autre écologie modulera : la prédation, la fuite, la veille, la régulation. Un loup ne tue pas un cerf par malice ; il le tue parce que sans cela, le cerf finirait par dévaster les jeunes pousses, et la forêt elle-même disparaîtrait. Un ours ne charge pas un voyageur par cruauté ; il le charge parce qu'à dix pas, il a senti les odeurs d'un nouveau-né qu'il devait protéger. Chaque agression a sa raison. Et le voyageur qui apprend à lire ces raisons cesse, peu à peu, d'avoir peur de la forêt.
 
@@ -341,7 +341,7 @@ Certains de ces variants sont des **paradoxes inverses** : une espèce déjà ad
 | **Brume** | Souffle Brumeux | Contours flous, glisse | Furtif, dérouter et fuir |
 | **Pleinement-Lunaire** | Pleine Clarté | Pelage pâle, yeux brillants | Apparitions rituelles, sacrées |
 
-Ces variants ne sont pas seulement esthétiques. Chaque variant **redistribue** les statistiques, les attaques, les loots et le statut comportemental de l'espèce-souche. Un loup gris adulte n'a pas du tout le même comportement qu'un loup de cendre — au point que les chasseurs expérimentés les traitent comme deux espèces différentes, même si la taxonomie biologique les rapproche.
+Ces variants ne sont pas seulement esthétiques. Chaque variant **redistribue** les qualités, les attaques, les dépouilles et le statut comportemental de l'espèce-souche. Un loup gris adulte n'a pas du tout le même comportement qu'un loup de cendre — au point que les chasseurs expérimentés les traitent comme deux espèces différentes, même si la taxonomie biologique les rapproche.
 
 ### Créatures qui dorment
 
@@ -369,13 +369,13 @@ Un personnage profondément accordé à l'Ère présente émet, sans le vouloir,
 
 Certains rituels — voir [[Souffle System]] §conditions cachées — récompensent un haut Accord par des **alliances saisonnières** : un loup blessé qui te suit pendant une Ère, un oiseau qui revient se poser sur ton épaule en chaque village. Ces présences ne sont pas des compagnons mécaniques. Ce sont des **témoignages** que le monde te rend.
 
-Le haut Accord ne fait pas d'un joueur un pacificateur universel. Une bête affamée reste affamée, un démon pacté reste pacté. Mais la marge — cet espace fragile où l'agression pourrait ne pas avoir lieu — s'élargit. Et dans le bestiaire d'Hybelior, cette marge fait souvent la différence entre une expédition tranquille et un drame.
+Le haut Accord ne fait pas d'un voyageur un pacificateur universel. Une bête affamée reste affamée, un démon pacté reste pacté. Mais la marge — cet espace fragile où l'agression pourrait ne pas avoir lieu — s'élargit. Et dans le bestiaire d'Hybelior, cette marge fait souvent la différence entre une expédition tranquille et un drame.
 
 ### Bas Accord — la dissonance provocante
 
-À l'inverse, un personnage en désaccord profond avec l'Ère — un Délié, un joueur qui a refusé de s'adapter — émet une **dissonance** que les créatures ressentent. Les charges arrivent plus vite. Les statuts neutres basculent plus facilement en hostile. Certaines créatures, qui n'auraient jamais attaqué un Concordant, attaquent un Délié à vue.
+À l'inverse, un voyageur en désaccord profond avec l'Ère — un Délié, qui a refusé de s'adapter — émet une **dissonance** que les créatures ressentent. Les charges arrivent plus vite. Les statuts neutres basculent plus facilement en hostile. Certaines créatures, qui n'auraient jamais attaqué un Concordant, attaquent un Délié à vue.
 
-Les Déliés, qui ne respirent plus avec le monde, en paient ici l'un des prix les plus tangibles. Le monde, à travers son bestiaire, leur dit ce que les PNJ leur disent ailleurs : *« tu n'es plus tout à fait des nôtres »*.
+Les Déliés, qui ne respirent plus avec le monde, en paient ici l'un des prix les plus tangibles. Le monde, à travers son bestiaire, leur dit ce que les habitants leur disent ailleurs : *« tu n'es plus tout à fait des nôtres »*.
 
 > *« Une bête sent un Délié avant qu'il ait posé le pied dans sa vallée. Et elle ne le sent pas comme un homme. Elle le sent comme une fausse note. »*
 >
@@ -409,11 +409,11 @@ Et puis il y a les **silences**. Le silence soudain d'une forêt qui chantait �
 
 ## Le bestiaire et la solitude
 
-Il y a, dans la pratique du bestiaire, un rapport singulier à la **solitude**. Le bestiaire ne se chasse pas vraiment en groupe — ou plus exactement, le chasser en groupe en change profondément la nature. Un loup que cinq joueurs encerclent n'est plus le même loup ; un cerf qu'une compagnie poursuit ne déploie plus la même stratégie de fuite ; une tortue ancestrale ne s'éveille pas devant un parti d'arme.
+Il y a, dans la pratique du bestiaire, un rapport singulier à la **solitude**. Le bestiaire ne se chasse pas vraiment en groupe — ou plus exactement, le chasser en groupe en change profondément la nature. Un loup que cinq voyageurs encerclent n'est plus le même loup ; un cerf qu'une compagnie poursuit ne déploie plus la même stratégie de fuite ; une tortue ancestrale ne s'éveille pas devant un parti d'arme.
 
-Le bestiaire récompense, à Hybelior, ceux qui acceptent de **s'y rendre seuls**, ou en très petit nombre. Pas par valorisation du solo — Hybelior n'est pas un MMO solitaire — mais parce que la **rencontre profonde** avec une créature demande, presque toujours, une certaine pauvreté de moyens. On n'apprend pas un loup à six. On l'apprend, accroupi derrière un buisson, en compagnie d'un autre voyageur silencieux ou de soi-même.
+Le bestiaire récompense, à Hybelior, ceux qui acceptent de **s'y rendre seuls**, ou en très petit nombre. Pas par mépris des compagnies — Hybelior reste un monde partagé — mais parce que la **rencontre profonde** avec une créature demande, presque toujours, une certaine pauvreté de moyens. On n'apprend pas un loup à six. On l'apprend, accroupi derrière un buisson, en compagnie d'un autre voyageur silencieux ou de soi-même.
 
-Cette dimension change la manière dont les guildes pensent leurs expéditions. Certaines, à Hybelior, séparent volontairement leurs membres pour qu'ils observent en parallèle plutôt qu'ensemble, puis se retrouvent le soir pour partager. D'autres organisent des **veilles silencieuses** — plusieurs joueurs présents dans un même lieu, sans interagir, à observer simplement ce que la bête y fait. Ces pratiques ne donnent pas de bonus mécaniques marqués. Elles donnent quelque chose de plus subtil : une **épaisseur de monde** que la chasse en troupe rend impossible.
+Cette dimension change la manière dont les compagnies pensent leurs expéditions. Certaines, à Hybelior, séparent volontairement leurs membres pour qu'ils observent en parallèle plutôt qu'ensemble, puis se retrouvent le soir pour partager. D'autres organisent des **veilles silencieuses** — plusieurs présences dans un même lieu, sans rien échanger, à observer simplement ce que la bête y fait. Ces pratiques ne donnent rien qui se compte. Elles donnent quelque chose de plus subtil : une **épaisseur de monde** que la chasse en troupe rend impossible.
 
 > *« Le bestiaire est une question qu'on pose au monde. Une question qu'on pose à six, ce n'est plus une question — c'est une assemblée. Et le monde, devant l'assemblée, se tait. »*
 >
@@ -427,7 +427,7 @@ Dans les villages d'Hybelior, le bestiaire commence à s'apprendre **dans l'enfa
 
 Ces savoirs enfantins ne sont pas seulement folkloriques. Ils contiennent, parfois, des indications très précises sur les comportements canoniques — des chasseurs d'Astravia ont reconnu, dans des comptines de leurs grands-mères, des descriptions exactes du **dialogue corporel** que tiennent les meutes de loups. Une comptine, à Hybelior, peut être une fiche d'espèce qui s'ignore.
 
-Les PNJ enfants — quand on les croise dans les hameaux — partagent volontiers ces savoirs avec les voyageurs qui prennent le temps de les écouter. C'est l'une des manières les plus discrètes, et l'une des plus précieuses, d'apprendre le bestiaire d'une région : non par les livres, mais par les **mots des plus jeunes**, qui sont aussi, sans qu'ils le sachent, les transmetteurs les plus fidèles d'une mémoire qui les dépasse.
+Les enfants des hameaux partagent volontiers ces savoirs avec les voyageurs qui prennent le temps de les écouter. C'est l'une des manières les plus discrètes, et l'une des plus précieuses, d'apprendre le bestiaire d'une région : non par les livres, mais par les **mots des plus jeunes**, qui sont aussi, sans qu'ils le sachent, les transmetteurs les plus fidèles d'une mémoire qui les dépasse.
 
 > *« Mon grand-père m'a dit : ne marche pas trois fois autour du même érable. Je n'ai jamais su pourquoi. Mais je n'ai jamais essayé non plus. »*
 >
@@ -451,27 +451,27 @@ La transmission de cet art ne passe pas par les livres. Elle passe par l'**appre
 
 ---
 
-## Loot et économie écologique
+## Ce que les bêtes laissent
 
-Ce que les créatures laissent derrière elles n'est pas un simple butin. À Hybelior, le **loot** est une **trace** — quelque chose qui dit ce que la créature a été, et qui inscrit dans l'économie du monde la mémoire de son passage.
+Ce que les créatures laissent derrière elles n'est jamais un simple butin. À Hybelior, ce qu'on récolte d'une dépouille est une **trace** — quelque chose qui dit ce que la créature a été, et qui inscrit dans l'économie du monde la mémoire de son passage.
 
-### Trois grandes familles de loot
+### Quatre grandes familles de dépouilles
 
-**Le loot biologique.** Cuir, fourrure, os, crocs, griffes, viande, graisse, sang, cœur, organes. C'est la matière du vivant — celle des Bêtes. Elle alimente tanneries, forges, ateliers d'apothicaire, cuisines, lainages. Voir [[Économie]] §Sources de Ressources.
+**La dépouille biologique.** Cuir, fourrure, os, crocs, griffes, viande, graisse, sang, cœur, organes. C'est la matière du vivant — celle des Bêtes. Elle alimente tanneries, forges, ateliers d'apothicaire, cuisines, lainages. Voir [[Économie]] §Sources de Ressources.
 
-**Le loot artificiel.** Outils pillés, pièces, armes, trophées, tissus, métaux retravaillés. C'est le loot signature des **Sapients sauvages** (Goblins, Orcs) et de l'Engeance qui pille les voyageurs. Il rappelle qu'on ne combat pas seulement des bêtes — on combat parfois ce que d'autres ont fabriqué et perdu.
+**Ce qu'on retrouve dans la besace.** Outils pillés, pièces, armes, trophées, tissus, métaux retravaillés. C'est la signature des **Sapients sauvages** (Goblins, Orcs) et de l'Engeance qui pille les voyageurs. Il rappelle qu'on ne combat pas seulement des bêtes — on combat parfois ce que d'autres ont fabriqué et perdu.
 
-**Le loot cosmique.** Essence spirituelle, larmes cristallines, éclats de Vide, cœurs de flamme, fragments de Voie. C'est ce que laissent les Cosmiques, les Fractals, les Spectres, les Élémentaires. Magie pure, condensée, qu'on intègre à des sortilèges, des cristallisations, des reliques. Voir [[Items]] §Reliques cosmiques.
+**L'éclat cosmique.** Essence spirituelle, larmes cristallines, éclats de Vide, cœurs de flamme, fragments de Voie. C'est ce que laissent les Cosmiques, les Fractals, les Spectres, les Élémentaires. Magie pure, condensée, qu'on intègre à des sortilèges, des cristallisations, des reliques. Voir [[Items]] §Reliques cosmiques.
 
-**Le loot mémoriel.** Plus rare, plus précieux, plus dur à reconnaître. Certaines créatures — Spectres, Échos, Reliquats — ne laissent pas une matière, mais une **trace narrative** : un fragment de chant, un nom oublié, une date inscrite dans la chair du voyageur. Ces traces ne se vendent pas. Elles se **conservent**, et alimentent des arcs de quêtes longs, parfois inter-Ères. Voir [[Traces des Ères]] et [[Mémoire collective]].
+**La trace mémorielle.** Plus rare, plus précieuse, plus dure à reconnaître. Certaines créatures — Spectres, Échos, Reliquats — ne laissent pas une matière, mais une **trace narrative** : un fragment de chant, un nom oublié, une date inscrite dans la chair du voyageur. Ces traces ne se vendent pas. Elles se **conservent**, et alimentent des arcs de quêtes longs, parfois inter-Ères. Voir [[Traces des Ères]] et [[Mémoire collective]].
 
-### La trace
+### Le sens des dépouilles
 
-Au-delà de la valeur matérielle, chaque loot porte une **trace** — un marqueur narratif qui inscrit, dans l'objet, la provenance précise de ce qui l'a produit. Un cuir de loup gris d'Astravia ne se confond pas avec un cuir de loup de cendre. Un cristal éclaté d'un Tisseur du Vide en Cestra ne se confond pas avec un cristal d'Aetheron en Endora. Ces traces alimentent la dimension **mémorielle** de l'économie : on peut, en collectionnant les traces, raconter ses chasses sans avoir à le dire.
+Au-delà de la valeur matérielle, chaque dépouille porte une **trace** — un marqueur narratif qui inscrit, dans l'objet, la provenance précise de ce qui l'a produit. Un cuir de loup gris d'Astravia ne se confond pas avec un cuir de loup de cendre. Un cristal éclaté d'un Tisseur du Vide en Cestra ne se confond pas avec un cristal d'Aetheron en Endora. Ces traces alimentent la dimension **mémorielle** de l'économie : on peut, en collectionnant les traces, raconter ses chasses sans avoir à le dire.
 
 Voir [[Traces des Ères]] pour la lecture détaillée des traces saisonnières, et [[Items]] pour leur usage dans les recettes signature.
 
-Les marchands d'Hybelior connaissent les traces et les valorisent. Un cuir tracé "Loup gris, Forêt d'Astravia, Ère du Verdoiement" se vendra plus cher qu'un cuir non tracé, parce qu'il porte avec lui la promesse d'une **histoire** vérifiable. Cette particularité fait que la chasse à Hybelior n'est jamais anonyme. Chaque dépouille porte ton nom — au sens littéral pour les œuvres signées, au sens narratif pour le loot ordinaire. Et le monde, à la longue, te connaît par les traces que tu as laissées circuler dans son économie.
+Les marchands d'Hybelior connaissent les traces et les valorisent. Un cuir tracé "Loup gris, Forêt d'Astravia, Ère du Verdoiement" se vendra plus cher qu'un cuir non tracé, parce qu'il porte avec lui la promesse d'une **histoire** vérifiable. Cette particularité fait que la chasse à Hybelior n'est jamais anonyme. Chaque dépouille porte ton nom — au sens littéral pour les œuvres signées, au sens narratif pour ce qu'on récolte ordinairement. Et le monde, à la longue, te connaît par les traces que tu as laissées circuler dans son économie.
 
 ### L'éthique du prélèvement
 
@@ -482,9 +482,9 @@ Les marchands d'Hybelior connaissent les traces et les valorisent. Un cuir trac�
 3. Ne tue pas en sanctuaire, jamais.
 4. Salue ce que tu tues, même si tu es seul.
 
-Ces règles ne sont pas mécaniquement appliquées par le système. Mais les villages les transmettent, les chasseurs s'en réclament, et les PNJ (voir [[PNJ]]) y sont sensibles dans leur évaluation discrète du voyageur. Un personnage qui chasse sans mesure, à la longue, voit ses statuts dériver — moins de cuirs cédés au juste prix, plus de défiance des notables, et parfois un refus poli des herboristes à lui vendre certaines plantes.
+Aucune règle écrite ne les fait respecter. Mais les villages les transmettent, les chasseurs s'en réclament, et les habitants (voir [[PNJ]]) y sont sensibles dans leur évaluation discrète du voyageur. Qui chasse sans mesure, à la longue, voit ses relations dériver — moins de cuirs cédés au juste prix, plus de défiance des notables, et parfois un refus poli des herboristes à lui vendre certaines plantes.
 
-Cette éthique n'est pas universelle. Certaines guildes de chasseurs — voir [[Métiers]] §Chasseur — la cultivent plus que d'autres. Certains continents la pratiquent à leur manière propre. Mais le monde, dans sa polyphonie, **récompense** ceux qui la respectent, sans punir ouvertement ceux qui s'en écartent. La punition, quand elle vient, vient toujours par les **conséquences** — un appauvrissement écologique, un froid social, un Accord qui dérive. Jamais par un message rouge à l'écran.
+Cette éthique n'est pas universelle. Certaines compagnies de chasseurs — voir [[Métiers]] §Chasseur — la cultivent plus que d'autres. Certains continents la pratiquent à leur manière propre. Mais le monde, dans sa polyphonie, **récompense** ceux qui la respectent, sans punir ouvertement ceux qui s'en écartent. La punition, quand elle vient, vient toujours par les **conséquences** — un appauvrissement écologique, un froid social, un Accord qui dérive. Jamais par une accusation criée.
 
 ---
 
@@ -506,9 +506,9 @@ Chacune de ces figures a son éthique propre, son outillage, sa relation au best
 
 Si le chasseur prélève, le **naturaliste** consigne. Ce métier — plus rare, plus discret — est l'un des piliers du bestiaire d'Hybelior. Le naturaliste passe des semaines, parfois des mois, dans un même biome, à observer sans intervenir. Il dessine, il note, il compare avec les archives. Il interroge les chasseurs locaux, les ermites, les bergers. Il construit, page après page, ce qu'on appelle dans certaines traditions un **livre vivant** — un livre qui ne se contente pas de lister les espèces, mais qui raconte **comment elles se comportent**, dans **quel lieu**, à **quelle Ère**, avec **quelles autres** créatures.
 
-Le naturaliste n'est pas un savant déconnecté. Sa parole compte pour les chasseurs, pour les villages, pour les guildes économiques. C'est par lui qu'on apprend qu'une espèce migre ; c'est par lui qu'on découvre un nouveau variant après un Souffle ; c'est par lui qu'on comprend pourquoi une vallée s'appauvrit. À Hybelior, la naturaliste itinérante Aldina Vesh — citée plusieurs fois dans cet Index — est l'archétype d'une figure que beaucoup de joueurs croiseront en quête, et que certains choisiront même d'incarner.
+Le naturaliste n'est pas un savant déconnecté. Sa parole compte pour les chasseurs, pour les villages, pour les compagnies économiques. C'est par lui qu'on apprend qu'une espèce migre ; c'est par lui qu'on découvre un nouveau variant après un Souffle ; c'est par lui qu'on comprend pourquoi une vallée s'appauvrit. À Hybelior, la naturaliste itinérante Aldina Vesh — citée plusieurs fois dans cet Index — est l'archétype d'une figure que beaucoup de voyageurs croiseront en chemin, et que certains choisiront même d'incarner.
 
-Le métier de naturaliste — voir [[Métiers]] §Naturaliste — propose une voie de jeu qui ne passe pas par le combat. On y progresse par **observation** : remplir des fiches d'espèces, consigner des variants rares, valider des hypothèses sur les écosystèmes. Les récompenses sont moins matérielles que **réputationnelles** : un naturaliste reconnu a accès à des bibliothèques fermées, à des conversations qu'on refuse aux autres, à des PNJ rares. Et ses observations, agrégées par la communauté, **enrichissent** le bestiaire commun — chaque joueur naturaliste contribue, par ses fiches, à ce que les autres voient et savent.
+Le métier de naturaliste — voir [[Métiers]] §Naturaliste — propose une voie qui ne passe pas par le combat. On y progresse par **observation** : remplir des fiches d'espèces, consigner des variants rares, valider des hypothèses sur les écosystèmes. Les récompenses sont moins matérielles que **réputationnelles** : un naturaliste reconnu a accès à des bibliothèques fermées, à des conversations qu'on refuse aux autres, à des habitants rares. Et ses observations, agrégées par la communauté, **enrichissent** le bestiaire commun — chaque naturaliste contribue, par ses fiches, à ce que les autres voient et savent.
 
 Il existe, à Hybelior, plusieurs **écoles de naturalisme**. L'école **descriptive** d'Astravia, qui tient à la précision anatomique et au dessin fidèle. L'école **comportementale** d'Onara, qui s'intéresse moins aux corps qu'aux dialogues qu'ils entretiennent. L'école **cosmologique** de Cestra, qui lie chaque espèce à sa Voie et cherche dans la trame ce que les autres écoles cherchent dans la chair. L'école **populaire** d'Endora, qui consigne les croyances paysannes au même titre que les observations scientifiques, parce qu'elle considère que la sagesse collective des villages contient autant de vérité que les traités. Aucune n'a raison contre les autres. Toutes contribuent, ensemble, à un bestiaire d'Hybelior qui ne se résume jamais à une seule voix.
 
@@ -524,11 +524,11 @@ Il existe, à Hybelior, plusieurs **écoles de naturalisme**. L'école **descrip
 
 Cela vient, en partie, de la cosmologie polyphonique. Chaque vie qui s'éteint à Hybelior **retire une voix** de la trame. La trame le sait — pas avec une mémoire absolue, mais avec une persistance discrète. Une vallée d'où l'on a tiré trop de cerfs sera plus silencieuse, plus pauvre en signes, plus difficile à lire pour les chasseurs suivants. Une forêt qu'on a vidée de ses prédateurs devient une forêt malade — les herbivores y prolifèrent, les pousses disparaissent, le sol s'appauvrit, et au bout de deux Ères, c'est tout le canton qui en paie le prix.
 
-Cela vient aussi, en partie, de la **manière** dont la mort se vit dans le jeu. Lorsqu'on défait une créature, le **rituel d'écorchage** — voir [[Maîtrise#Dépeçage]] — n'est pas une cinématique de loot rapide. C'est un geste qu'on accomplit, et que le système rend visible. On dépouille la bête comme on rendrait honneur à un compagnon mort. Certains joueurs en ont fait, à force, une **pratique réflexive** : ils prennent quelques secondes, en silence, avant de récolter. D'autres passent leur chemin, et c'est leur droit. Mais le monde, quelque part, en garde la trace.
+Cela vient aussi, en partie, de la **manière** dont la mort se vit. Lorsqu'on défait une créature, le **rituel d'écorchage** — voir [[Maîtrise#Dépeçage]] — n'est pas un geste expédié. C'est un acte qu'on accomplit, et qui se voit. On dépouille la bête comme on rendrait honneur à un compagnon mort. Certains voyageurs en ont fait, à force, une **pratique réflexive** : ils prennent quelques secondes, en silence, avant de récolter. D'autres passent leur chemin, et c'est leur droit. Mais le monde, quelque part, en garde la trace.
 
 À Hybelior, on apprend aussi à distinguer la **bonne mort** de la mauvaise. Une bonne mort est rapide, donnée à juste distance, qui laisse à la bête sa dignité. Une mauvaise mort est traînante, donnée à coups répétés, qui dégrade la dépouille et alourdit l'âme du chasseur. Les maîtres-chasseurs enseignent à leurs apprentis cette différence — non par sentimentalisme, mais par **efficacité éthique** : une bonne mort donne aussi de meilleurs cuirs, des viandes plus tendres, des os plus solides. Le respect, ici, coïncide avec la qualité. Les vieux disent qu'à Hybelior, **la bête te paie ce que tu lui as donné**. Si tu l'as tuée vite et droit, elle te rend tout ce qu'elle peut. Si tu l'as fait souffrir, elle se retire à demi en mourant.
 
-Il existe aussi des **rituels de chasse** propres à certaines régions. À Skaldoria, on murmure le nom de Vael'Kurash sur la dépouille du grand loup arctique. À Astravia, on enterre la première dent du sanglier sous l'arbre où il est tombé. À Lurmoria, on partage la chair du cerf majestueux avec la maisonnée avant de la commercialiser. Ces rituels ne sont pas obligatoires. Ils ne donnent aucun bonus mécanique. Ils existent **parce que le monde les contient**, et un joueur qui les apprend, à la longue, gagne une autre profondeur dans son rapport au bestiaire.
+Il existe aussi des **rituels de chasse** propres à certaines régions. À Skaldoria, on murmure le nom de Vael'Kurash sur la dépouille du grand loup arctique. À Astravia, on enterre la première dent du sanglier sous l'arbre où il est tombé. À Lurmoria, on partage la chair du cerf majestueux avec la maisonnée avant de la commercialiser. Ces rituels ne sont pas obligatoires. Aucune faveur comptée ne s'y rattache. Ils existent **parce que le monde les contient**, et celui qui les apprend, à la longue, gagne une autre profondeur dans son rapport au bestiaire.
 
 > *« Tuer une bête, c'est emprunter à un livre qu'on ne rendra jamais. Rends-en au moins la lecture, en consignant ce que tu lui dois. »*
 >
@@ -599,7 +599,7 @@ Cette table est un **point d'entrée**, pas un canon exhaustif. Le bestiaire dé
 
 À Hybelior, **un PNJ peut parler**. Pas une bête. Et c'est précisément cette différence qui rend la rencontre d'une bête si singulière.
 
-Une bête ne te dit rien. Elle ne te raconte pas sa vie. Elle ne te dit pas qu'elle a faim, qu'elle a peur, qu'elle protège ses petits. Tu dois le **déduire** — par sa posture, son grognement, sa fuite, son immobilité. C'est une autre forme de dialogue, plus exigeante peut-être que celui avec un PNJ, parce qu'elle ne te donne rien gratuitement. Tu dois apporter ton attention. Tu dois lire ce que le silence de la bête te dit.
+Une bête ne te dit rien. Elle ne te raconte pas sa vie. Elle ne te dit pas qu'elle a faim, qu'elle a peur, qu'elle protège ses petits. Tu dois le **déduire** — par sa posture, son grognement, sa fuite, son immobilité. C'est une autre forme de dialogue, plus exigeante peut-être que celui avec un habitant, parce qu'elle ne te donne rien gratuitement. Tu dois apporter ton attention. Tu dois lire ce que le silence de la bête te dit.
 
 Cette **parole muette** est, en soi, une mécanique narrative à part entière. Une fiche d'espèce du bestiaire, à Hybelior, ne se résume pas à des chiffres : elle décrit **ce que la bête dit sans parler**. Un loup qui plisse les babines dit *« je négocie »*. Un loup qui baisse la tête dit *« je vais charger »*. Un loup qui hurle, queue dressée, dit *« je convoque la meute »*. Un loup qui s'éloigne en regardant en arrière dit *« je marque mon territoire, prends note »*. Ce vocabulaire postural est, dans la pratique du jeu, un savoir qu'on accumule au fil des Ères — et qui sépare un chasseur ordinaire d'un chasseur **profond**.
 
@@ -611,45 +611,26 @@ Pour les Cosmiques et les Esprits, la parole muette prend une autre forme. Un Sp
 
 ---
 
-## Template de fiche d'espèce
+## La fiche d'espèce, telle qu'on la consigne
 
-À titre d'exemple — et pour fixer le **format** qu'auront les fiches détaillées dans les sous-dossiers à venir — voici la silhouette d'une fiche d'espèce telle qu'Hybelior la consigne. Cette fiche ne décrit pas une créature précise ; elle décrit **ce qu'on s'attend à trouver** dans n'importe quelle fiche du bestiaire.
+Quand un naturaliste d'Hybelior ouvre son carnet pour consigner une espèce, il ne se contente pas d'aligner des chiffres. Une fiche bien tenue note typiquement le **nom** qu'on donne à la bête, son **règne** (Bête, Esprit, Cosmique, Aberration, Engeance ou Reliquat), la **famille** dont elle descend, le **biome** où elle vit, le **statut habituel** qu'on lui prête, **ce qu'elle laisse en mourant**, les **variants** qu'on lui a vus sous d'autres Ères, et un **fragment de lore** transmis par les villages alentour.
 
-```yaml
----
-tags: [créature, espèce, bestiaire, <règne>, <sous-famille>, <biome>]
-type: espece
-règne: Bêtes | Esprits | Cosmiques | Aberrations | Engeance | Reliquats
-famille: <Mammifères | Reptiles | Oiseaux | ...>
-sous_famille: <Canidés | Ursidés | Élémentaires | ...>
-nom_scientifique: <latin fictif>
-biomes: [Forêt tempérée, Plaine boisée, ...]
-régions_typiques: [Astravia, Onara, ...]
-statut_par_défaut: hostile | neutre | curieux | allié | sanctuaire
-cr_range: <plage de défi>
-loot_principaux: [Cuir, Os, Cœur de creature, ...]
-variants_cosmiques: [Brulé, Pourpre, Frost, ...]
-status: drafted
-last_review: 2026-05-12
----
-```
-
-Le corps de la fiche déploie ensuite, en sections numérotées :
+Au-delà de ces marqueurs, le corps de la fiche déploie une description épaisse :
 
 1. **Description physique** — silhouette, taille, pelage, signaux distinctifs
-2. **Habitat & territoire** — biomes, régions, périmètre vital
+2. **Habitat et territoire** — biomes, régions, périmètre vital
 3. **Cycle de vie** — reproduction, stades, durée de vie
-4. **Régime alimentaire & rôle écologique** — guilde trophique, espèces régulées, prédateurs naturels
-5. **Comportement & socialité** — structure sociale, communication, territorialité
-6. **Stats de combat & attaques** — table CR par stade, attaques canoniques, fenêtres de telegraph
-7. **Loot & exploitation** — drops, maîtrise d'écorchage minimale, usages artisanaux
-8. **Lore régional & signatures** — totem, légende locale, individus signature
+4. **Régime alimentaire et rôle écologique** — guilde trophique, espèces régulées, prédateurs naturels
+5. **Comportement et socialité** — structure sociale, communication, territorialité
+6. **Trempe et frappes au combat** — table de difficulté par stade, attaques canoniques, signes annonciateurs
+7. **Ce qu'elle laisse et son usage** — dépouilles, maîtrise d'écorchage minimale, usages artisanaux
+8. **Lore régional et signatures** — totem, légende locale, individus signature
 9. **Variants cosmiques** — déclinaisons par Ère, paradoxes inverses
 10. **Liens** — frontières taxonomiques, espèces parentes, écosystèmes associés
 
 Ce gabarit n'est pas un carcan — certaines créatures (Esprits, Reliquats) demandent des sections supplémentaires ou allégées. Mais il fixe une **promesse** : que toute fiche du bestiaire d'Hybelior porte ce niveau d'épaisseur, et ne se contente jamais d'aligner des chiffres.
 
-Voir [[Bestiary]] §Templates pour les patrons paramétriques de production, et les sous-dossiers `Espèces/` pour les fiches concrètes déjà rédigées (Loup gris, Élémentaire de feu, Spectre des Ères, Sanglier commun, Tortue ancestrale, et plus de quatre-vingts autres).
+Les sous-dossiers `Espèces/` contiennent les fiches concrètes déjà rédigées (Loup gris, Élémentaire de feu, Spectre des Ères, Sanglier commun, Tortue ancestrale, et plus de quatre-vingts autres).
 
 ---
 
@@ -691,15 +672,15 @@ Apprendre à distinguer ces trois peurs est, en soi, l'une des compétences d'un
 
 À Hybelior, le bestiaire est aussi une **éducation**. Pas une éducation forcée — une éducation qui se propose, à qui veut bien la suivre.
 
-Un joueur peut traverser Hybelior en ignorant complètement le bestiaire. Il tuera ce qu'il croisera, prendra ce qu'on lui laissera, et passera son chemin. Le monde ne lui en voudra pas — ou pas beaucoup. C'est une manière de jouer, et elle est légitime. Hybelior tient à cette légitimité : on ne force pas un joueur à devenir naturaliste, on ne le punit pas de chasser sans subtilité. La profondeur est une **offre**, pas une obligation.
+Un voyageur peut traverser Hybelior en ignorant complètement le bestiaire. Il tuera ce qu'il croisera, prendra ce qu'on lui laissera, et passera son chemin. Le monde ne lui en voudra pas — ou pas beaucoup. C'est une manière d'arpenter, et elle est légitime. Hybelior tient à cette légitimité : on ne force personne à devenir naturaliste, on ne punit personne de chasser sans subtilité. La profondeur est une **offre**, pas une obligation.
 
-Mais un joueur qui choisit de **lire** le bestiaire — qui apprend à reconnaître une espèce à sa silhouette, qui consigne les variants qu'il rencontre, qui se met à fréquenter les naturalistes et les chasseurs — accède à une autre couche du monde. Cette couche n'est pas réservée aux "complétionnistes" ; elle est ouverte à quiconque accepte de prêter attention. Et elle paie ses dividendes en **profondeur**, pas en bonus mécaniques.
+Mais qui choisit de **lire** le bestiaire — qui apprend à reconnaître une espèce à sa silhouette, qui consigne les variants qu'il rencontre, qui se met à fréquenter les naturalistes et les chasseurs — accède à une autre couche du monde. Cette couche n'est pas réservée à quelques zélateurs ; elle est ouverte à quiconque accepte de prêter attention. Et elle paie ses dividendes en **profondeur**, pas en faveurs comptées.
 
-Les villages d'Hybelior valorisent cette pratique. À Astravia, à Onara, à Skaldoria, dans certaines tribus de Lurmoria, on tient des **livres de chasse** collectifs où sont consignées les espèces rencontrées, leurs comportements, leurs traces. Ces livres sont un trésor commun. Un joueur qui contribue à un livre de chasse — en y ajoutant une observation rare, un variant non encore consigné, un comportement inhabituel — y inscrit son nom de manière durable. Et le monde, à Hybelior, n'oublie pas ceux qui consignent.
+Les villages d'Hybelior valorisent cette pratique. À Astravia, à Onara, à Skaldoria, dans certaines tribus de Lurmoria, on tient des **livres de chasse** collectifs où sont consignées les espèces rencontrées, leurs comportements, leurs traces. Ces livres sont un trésor commun. Un voyageur qui contribue à un livre de chasse — en y ajoutant une observation rare, un variant non encore consigné, un comportement inhabituel — y inscrit son nom de manière durable. Et le monde, à Hybelior, n'oublie pas ceux qui consignent.
 
-Il y a aussi, dans cette pratique, une **discipline du regard** qui dépasse le bestiaire stricto sensu. Apprendre à observer une bête, c'est apprendre à observer **tout court**. Beaucoup de joueurs qui se mettent au naturalisme finissent par regarder différemment les villes, les paysages, les PNJ — comme si la patience qu'ils ont apprise dans les bois s'était transférée à toutes leurs autres rencontres. Le bestiaire, à Hybelior, est ainsi une **école d'attention**. Et cette école-là profite à tout le reste du jeu.
+Il y a aussi, dans cette pratique, une **discipline du regard** qui dépasse le bestiaire stricto sensu. Apprendre à observer une bête, c'est apprendre à observer **tout court**. Beaucoup de ceux qui se mettent au naturalisme finissent par regarder différemment les villes, les paysages, les habitants — comme si la patience qu'ils ont apprise dans les bois s'était transférée à toutes leurs autres rencontres. Le bestiaire, à Hybelior, est ainsi une **école d'attention**. Et cette école-là profite à tout le reste de la vie d'un arpenteur.
 
-Voir [[Métiers]] §Naturaliste et §Chasseur pour les implications professionnelles, et [[Compagnons]] (Phase 4) pour la possibilité, ouverte à très haut Accord avec certaines espèces, de **lier** un animal sauvage à soi sur le mode du compagnon — pas un familier, pas un PNJ, mais un partenaire dont la présence accompagne sans servir.
+Voir [[Métiers]] §Naturaliste et §Chasseur pour les implications professionnelles.
 
 > *« Le chasseur tue. Le naturaliste consigne. Le maître chasseur tue ce qu'il a consigné, et consigne ce qu'il n'a pas eu à tuer. »*
 >
@@ -711,9 +692,9 @@ Voir [[Métiers]] §Naturaliste et §Chasseur pour les implications professionne
 
 Si l'on devait, en une image, dire ce qu'est le bestiaire d'Hybelior dans son ambition la plus haute, on dirait ceci : **c'est une bibliothèque vivante**. Pas une bibliothèque de livres — une bibliothèque de **présences**. Chaque créature en est un volume ; chaque variant un chapitre ; chaque rencontre une page qui s'ouvre.
 
-Une bibliothèque vit de ses lecteurs. Sans lecteurs, elle s'empoussière et perd, peu à peu, le sens même de son existence. Le bestiaire d'Hybelior fonctionne pareil. Si personne ne le lit, il devient un décor — une suite de "spawns" à la difficulté croissante, sans plus de réalité que les ennemis numérotés d'un MMO ordinaire. Si beaucoup le lisent, il **devient** ce qu'il prétend être : un recensement du vivant qui mérite son nom.
+Une bibliothèque vit de ses lecteurs. Sans lecteurs, elle s'empoussière et perd, peu à peu, le sens même de son existence. Le bestiaire d'Hybelior fonctionne pareil. Si personne ne le lit, il devient un décor — une suite d'apparitions à la difficulté croissante, sans plus de réalité que les ennemis numérotés d'un monde partagé bâclé. Si beaucoup le lisent, il **devient** ce qu'il prétend être : un recensement du vivant qui mérite son nom.
 
-C'est pour cela que la communauté de joueurs, à Hybelior, est invitée à **contribuer** au bestiaire. Pas seulement à le subir. Les fiches d'espèces s'enrichissent par les observations des chasseurs et des naturalistes ; les livres de chasse villageois s'épaississent par les apports des voyageurs ; les chants des bardes intègrent les rencontres remarquables dont les héros leur ont fait le récit. Cette participation n'est pas une mécanique — c'est une **éthique** de la communauté. Elle dit que le bestiaire n'appartient à personne. Il appartient à tous, et il ne vaut que ce que ses lecteurs ensemble en font.
+C'est pour cela que la communauté des voyageurs d'Hybelior est invitée à **contribuer** au bestiaire. Pas seulement à le subir. Les fiches d'espèces s'enrichissent par les observations des chasseurs et des naturalistes ; les livres de chasse villageois s'épaississent par les apports des voyageurs ; les chants des bardes intègrent les rencontres remarquables dont les héros leur ont fait le récit. Cette participation n'est rien qu'on dicte — c'est une **éthique** de la communauté. Elle dit que le bestiaire n'appartient à personne. Il appartient à tous, et il ne vaut que ce que ses lecteurs ensemble en font.
 
 Voir [[Mémoire collective]] pour les outils de contribution communautaire, et [[Économie]] §Naturaliste pour la valorisation des observations rares.
 
@@ -723,9 +704,9 @@ Voir [[Mémoire collective]] pour les outils de contribution communautaire, et [
 
 ---
 
-## Trois trajectoires de joueurs
+## Trois trajectoires de voyageurs
 
-Pour comprendre comment le bestiaire se vit selon les joueurs, regardons trois figures différentes — trois manières d'habiter Hybelior et d'y croiser, à son rythme, la faune et les esprits.
+Pour comprendre comment le bestiaire se vit selon les voyageurs, regardons trois figures différentes — trois manières d'habiter Hybelior et d'y croiser, à son rythme, la faune et les esprits.
 
 ### Tomar, chasseur de subsistance
 
@@ -733,7 +714,7 @@ Tomar joue deux heures par soir. Il a installé son personnage à Astravia, et c
 
 ### Aldina, naturaliste itinérante
 
-Aldina parcourt les continents. Elle n'est pas combattante. Elle observe, dessine, consigne. Son cahier compte trois cents pages, dont une douzaine d'observations rares qu'aucun autre joueur n'a vues. Elle est invitée dans les bibliothèques fermées, écoutée des conseils de guildes. Elle ne tue presque jamais — quand elle le fait, c'est pour vérifier un détail anatomique. Son Accord est solide, parce que l'observation patiente est, à elle seule, une forme de Concordance.
+Aldina parcourt les continents. Elle n'est pas combattante. Elle observe, dessine, consigne. Son cahier compte trois cents pages, dont une douzaine d'observations rares qu'aucun autre voyageur n'a vues. Elle est invitée dans les bibliothèques fermées, écoutée des conseils de compagnies. Elle ne tue presque jamais — quand elle le fait, c'est pour vérifier un détail anatomique. Son Accord est solide, parce que l'observation patiente est, à elle seule, une forme de Concordance.
 
 ### Skel, chasseur cosmique
 
@@ -787,7 +768,7 @@ Le bestiaire n'est donc pas un module — c'est un **fil** qui traverse tout. Il
 
 C'est cette **interdépendance** qui fait qu'à Hybelior, on ne joue pas seulement *contre* des créatures. On joue **avec** elles — au sens large, au sens où l'on joue avec un partenaire de danse qu'on respecte, qu'on chasse parfois, qu'on épargne souvent, et dont on apprend, lentement, à reconnaître les pas.
 
-Il y a, dans cette ambition, une humilité revendiquée et une exigence claire. L'humilité : aucune créature n'existe pour le joueur ; toutes existent **avec lui** ou **à côté de lui**. L'exigence : on ne pratique pas le bestiaire d'Hybelior en superficie ; il faut, à un moment ou un autre, accepter de **regarder** une bête avant de la frapper, de **lire** un biome avant de le traverser, de **consigner** une rencontre avant de l'oublier. C'est un contrat plus juste que celui des bestiaires ordinaires — et plus vivant.
+Il y a, dans cette ambition, une humilité revendiquée et une exigence claire. L'humilité : aucune créature n'existe pour le voyageur ; toutes existent **avec lui** ou **à côté de lui**. L'exigence : on ne pratique pas le bestiaire d'Hybelior en superficie ; il faut, à un moment ou un autre, accepter de **regarder** une bête avant de la frapper, de **lire** un biome avant de le traverser, de **consigner** une rencontre avant de l'oublier. C'est un contrat plus juste que celui des bestiaires ordinaires — et plus vivant.
 
 Une promesse en une phrase, qui résume tout : *« Tu n'es pas l'unique vivant d'Hybelior. Et le monde te le dira par chaque oreille qui se dresse à ton passage. »*
 
@@ -799,6 +780,26 @@ Une promesse en une phrase, qui résume tout : *« Tu n'es pas l'unique vivant d
 
 ## Voir aussi
 
-*Liens narratifs : [[PNJ]] | [[Comportements PNJ]] | [[L'Accord]] | [[Le Souffle]] | [[Les Ères]] | [[Métiers]] | [[Économie]] | [[Items]] | [[Traces des Ères]] | [[Le Lien]] | [[Cosmologie]] | [[Univers]]*
+**Liens narratifs**
 
-*Implémentation technique (taxonomie complète, fiches d'espèces, templates paramétriques, tables CR, loot tables, AI Controller, pools d'entités) : [[Bestiary]] | [[NPC System]] | [[Entity Pool Manager]] | [[Entity Spawner]] | [[Loot System]] | [[AI Controller]]*
+- [[PNJ]] — les habitants du monde
+- [[Comportements PNJ]] — comment les habitants se tiennent dans la trame
+- [[L'Accord]] — la résonance qui module les rencontres avec la faune
+- [[Le Souffle]] — le rythme cosmique qui redistribue les espèces
+- [[Les Ères]] — les saisons qui amènent ou retirent des présences
+- [[Métiers]] — Chasseur, Naturaliste et autres voies professionnelles
+- [[Économie]] — comment les dépouilles circulent
+- [[Items]] — les usages artisanaux et reliques cosmiques
+- [[Traces des Ères]] — la mémoire matérielle déposée par les saisons
+- [[Le Lien]] — les Voies qui colorent les créatures cosmiques
+- [[Cosmologie]] — la trame d'où viennent les présences
+- [[Univers]] — le grand récit qui contient tout cela
+
+**Liens d'implémentation**
+
+- [[Bestiary]] — le moteur du bestiaire et ses patrons de production
+- [[NPC System]] — couche commune avec les habitants
+- [[Entity Pool Manager]] — la gestion technique des présences
+- [[Entity Spawner]] — l'apparition technique
+- [[Loot System]] — la trame technique des dépouilles
+- [[AI Controller]] — la perception et le comportement technique

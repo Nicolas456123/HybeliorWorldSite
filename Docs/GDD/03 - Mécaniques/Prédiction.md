@@ -1,7 +1,7 @@
 ---
-tags: [prédiction, oracle, astronomie, tempora, bourse-augures, méta-gameplay, narration]
+tags: [prédiction, oracle, astronomie, tempora, bourse-augures, narration]
 status: drafted
-last_review: 2026-05-07
+last_review: 2026-05-12
 needs_review_for: []
 type: mechanic-narrative
 implementation: "[[Prediction System]]"
@@ -73,7 +73,7 @@ Cette voie demande des pèlerinages. On ne lit pas le temps depuis sa chambre �
 
 Avant tout discours, avant toute lunette, avant toute carte tirée, il y a les **signes** — cette rumeur du monde que [[Le Souffle]] §"Vivre un Souffle" décrit comme la phénoménologie même d'un Souffle qui s'annonce. Les signes faibles d'abord (un rêve, une migration à contre-saison, une étoile qui semble trembler), puis les signes forts qui suspendent toute la communauté dans l'attente. Ils ne sont la propriété d'aucune discipline ; ils sont ce que tout prédicteur apprend à *traduire* dans la grammaire de son art.
 
-Cette phase de suspension est l'un des moments les plus intenses qu'Hybelior offre à ses joueurs. Quelque chose va arriver. On ne sait pas exactement quoi, on ne sait pas exactement quand — mais on sait que c'est imminent, et cette certitude partagée transforme la communauté entière en un seul corps tendu vers ce qui vient.
+Cette phase de suspension est l'un des moments les plus intenses qu'Hybelior offre à ceux qui l'habitent. Quelque chose va arriver. On ne sait pas exactement quoi, on ne sait pas exactement quand — mais on sait que c'est imminent, et cette certitude partagée transforme la communauté entière en un seul corps tendu vers ce qui vient.
 
 > *« Tout le monde vit la même chose : ce moment où l'on sait que ça vient sans savoir quand. C'est dans cette attente partagée que la communauté redevient une communauté. Le reste du temps, on est juste des gens qui jouent ensemble. »*
 >
@@ -89,7 +89,7 @@ C'est, à proprement parler, un marché. On y mise. On y parie sur la nature de 
 
 À la première lecture, cela peut sembler vulgaire. Parier sur le Souffle ? Sur cet événement cosmique qui touche aux Éternels eux-mêmes ? Mais la philosophie de la Bourse est plus subtile qu'il n'y paraît. Elle **transforme l'attente en jeu social**. Au lieu de subir l'incertitude des signes forts dans un mutisme craintif, la communauté la **monnaye**, la **discute**, la **collectivise**. Chacun met sa petite mise — souvent symbolique — non pas tant pour gagner que pour **dire** sa lecture, l'inscrire publiquement, l'engager.
 
-C'est aussi un instrument de mémoire. Les misages publics laissent une trace : on sait, après chaque Souffle, qui avait vu juste, qui s'était trompé, qui avait misé contre la cote dominante et eu raison contre tous. Les Concordants, ces joueurs en pleine résonance avec l'Ère qui s'achève, y bénéficient d'un avantage particulier — non parce qu'ils savent mieux, mais parce que leur Accord avec le monde leur donne une **proximité** que la Bourse, dans sa sagesse rituelle, choisit d'honorer.
+C'est aussi un instrument de mémoire. Les misages publics laissent une trace : on sait, après chaque Souffle, qui avait vu juste, qui s'était trompé, qui avait misé contre la cote dominante et eu raison contre tous. Les Concordants, ces mortels en pleine résonance avec l'Ère qui s'achève, y bénéficient d'un avantage particulier — non parce qu'ils savent mieux, mais parce que leur Accord avec le monde leur donne une **proximité** que la Bourse, dans sa sagesse rituelle, choisit d'honorer.
 
 Il y a des gagnants. Il y a aussi, et c'est là le sel, des **faux prophètes** qui s'y ruinent. Quelqu'un avait tellement publié sa certitude qu'il avait misé tout son trésor — et l'Ère est venue autrement. La Bourse, alors, devient une école de modestie. On y apprend, à ses dépens, que la conviction n'est pas la connaissance.
 
@@ -101,11 +101,11 @@ Il y a des gagnants. Il y a aussi, et c'est là le sel, des **faux prophètes** 
 
 ## Le Prophète
 
-Au sommet de cet édifice, il y a une figure rare. Pas un titre qu'un PNJ donne. Pas une récompense qu'on coche sur une liste. Une **réputation** — gagnée auprès de la communauté, lentement, à force de prédictions vérifiées.
+Au sommet de cet édifice, il y a une figure rare. Pas un titre qu'un [[PNJ]] donne. Pas une récompense qu'on coche sur une liste. Une **réputation** — gagnée auprès de la communauté, lentement, à force de prédictions vérifiées.
 
-Le Prophète est celui qui a annoncé, **publiquement et avant les signes forts**, trois Souffles successifs avec justesse. Trois fois, il a misé sa parole sur le futur du monde. Trois fois, le monde lui a donné raison. À ce moment-là, il devient autre chose qu'un joueur : il devient une **voix** qu'on cite, qu'on consulte, qu'on suit ou qu'on conteste — mais qu'on ne peut plus ignorer.
+Le Prophète est celui qui a annoncé, **publiquement et avant les signes forts**, trois Souffles successifs avec justesse. Trois fois, il a misé sa parole sur le futur du monde. Trois fois, le monde lui a donné raison. À ce moment-là, il devient autre chose qu'un mortel ordinaire : il devient une **voix** qu'on cite, qu'on consulte, qu'on suit ou qu'on conteste — mais qu'on ne peut plus ignorer.
 
-Le statut a son ironie. Le Prophète n'est pas plus puissant qu'avant. Il ne combat pas mieux. Il n'a pas accès à des sorts secrets. Sa magie est ailleurs : il est **écouté**. Les guildes paient pour ses lectures privées. Les rois PNJ le consultent. Le Conseil des Augures lui ouvre ses portes. Il devient, malgré lui parfois, un personnage de la chronique du monde.
+Le statut a son ironie. Le Prophète n'est pas plus puissant qu'avant. Il ne combat pas mieux. Il n'a pas accès à des sorts secrets. Sa magie est ailleurs : il est **écouté**. Les guildes paient pour ses lectures privées. Les rois consultent ses paroles. Le Conseil des Augures lui ouvre ses portes. Il devient, malgré lui parfois, un personnage de la chronique du monde.
 
 Et ce statut peut se perdre. Une chute aussi spectaculaire que l'ascension : trois prédictions ratées d'affilée après le titre, et l'on sombre dans le statut bien plus humiliant de **Faux Prophète** — exclu temporairement de la Bourse, dont la cote s'effondre, et dont la parole ne vaut plus grand-chose. Hybelior, ici comme ailleurs, ne donne rien définitivement. La réputation est un capital qu'il faut entretenir, et le Prophète qui dort sur ses lauriers se réveillera, un jour, ridicule.
 
@@ -133,17 +133,17 @@ Les neuf grandes religions d'Hybelior n'ont pas la même attitude face au futur.
 | **Somnium Vigil** | Tout signe est un fragment de rêve. Le Souffle est le rêveur qui change de songe. Leurs prédictions sont oniriques, parfois absurdes — et d'une justesse troublante quand on les relit après coup. |
 | **Foedus Animae** | Les signes sont des serments en cours de renouvellement. Lire, c'est écouter les pactes cosmiques se reformer. Avec les Noctari, ce sont les prédicteurs les plus prudents — et les plus respectés des marchands. |
 
-Cette polyphonie d'interprétations n'est pas un défaut. C'est, comme partout à Hybelior, une **richesse**. Un même signe — disons une éclipse double-lune accompagnée d'une crue — sera compris comme une grâce par l'Ordo Caelum, comme un défi par les Vael'Kurash, comme une purification annoncée par les Ignis Aeternum, comme un songe par les Somnium Vigil. Le joueur qui consulte plusieurs temples ne reçoit pas une vérité plus précise — il reçoit une **vérité plus complète**. Apprendre à composer avec ces grammaires multiples est, en soi, une discipline.
+Cette polyphonie d'interprétations n'est pas un défaut. C'est, comme partout à Hybelior, une **richesse**. Un même signe — disons une éclipse double-lune accompagnée d'une crue — sera compris comme une grâce par l'Ordo Caelum, comme un défi par les Vael'Kurash, comme une purification annoncée par les Ignis Aeternum, comme un songe par les Somnium Vigil. Le visiteur qui consulte plusieurs temples ne reçoit pas une vérité plus précise — il reçoit une **vérité plus complète**. Apprendre à composer avec ces grammaires multiples est, en soi, une discipline.
 
 ---
 
 ## La prédiction comme fil de la communauté
 
-Si l'on regarde la prédiction d'assez haut, on voit qu'elle ne sert pas à *anticiper*. Elle sert à **rassembler**. Elle est le grand fil qui, à travers les Ères, relie les joueurs entre eux : autour des observatoires, autour des oracles, autour des Lieux d'Échos, autour de la Bourse, autour des temples. Elle crée des **cabinets** mixtes où l'astronome, l'oracle et le berger croisent leurs lectures. Elle alimente des **almanachs collectifs** où des dizaines de joueurs cosignent leurs observations. Elle nourrit une **économie du savoir** où l'information rare a sa valeur, où les caravanes paient pour des fenêtres temporelles, où les guildes s'arrachent les prédicteurs réputés.
+Si l'on regarde la prédiction d'assez haut, on voit qu'elle ne sert pas à *anticiper*. Elle sert à **rassembler**. Elle est le grand fil qui, à travers les Ères, relie les voyageurs entre eux : autour des observatoires, autour des oracles, autour des Lieux d'Échos, autour de la Bourse, autour des temples. Elle crée des **cabinets** mixtes où l'astronome, l'oracle et le berger croisent leurs lectures. Elle alimente des **almanachs collectifs** où des dizaines d'observateurs cosignent leurs notes. Elle nourrit une **économie du savoir** où l'information rare a sa valeur, où les caravanes paient pour des fenêtres temporelles, où les guildes s'arrachent les prédicteurs réputés.
 
-Et surtout, elle donne sa forme à l'attente. Sans la prédiction, le Souffle serait un événement subi, qui tomberait sur les joueurs sans qu'ils aient pu le préparer. Avec elle, le Souffle devient un **horizon** vers lequel tend la communauté entière, chacun à sa façon — l'astronome dans sa lunette, l'oracle dans ses cartes, le berger dans ses bêtes, le parieur à la Bourse, le prêtre dans son temple. Le Souffle n'est plus une chute : c'est une **convergence**.
+Et surtout, elle donne sa forme à l'attente. Sans la prédiction, le Souffle serait un événement subi, qui tomberait sur les mortels sans qu'ils aient pu le préparer. Avec elle, le Souffle devient un **horizon** vers lequel tend la communauté entière, chacun à sa façon — l'astronome dans sa lunette, l'oracle dans ses cartes, le berger dans ses bêtes, le parieur à la Bourse, le prêtre dans son temple. Le Souffle n'est plus une chute : c'est une **convergence**.
 
-C'est pour cela que la prédiction est l'un des piliers du Pilier de Liberté et Découverte d'Hybelior (voir [[Vision]]). Elle propose un mode de jeu entier, qui ne brandit jamais une arme, et qui peut occuper un joueur des centaines d'heures à devenir le prédicteur le plus respecté de son continent. Ce mode de jeu n'est pas une option marginale. Il est, à plusieurs égards, la **conscience du monde** que se donne la communauté.
+C'est pour cela que la prédiction est l'un des piliers du Pilier de Liberté et Découverte d'Hybelior (voir [[Vision]]). Elle propose une voie entière, qui ne brandit jamais une arme, et qui peut occuper un voyageur des centaines d'heures à devenir le prédicteur le plus respecté de son continent. Cette voie n'est pas une option marginale. Elle est, à plusieurs égards, la **conscience du monde** que se donne la communauté.
 
 > *« J'ai cru, longtemps, que prédire c'était voir avant les autres. Aujourd'hui, je sais que c'est seulement écouter mieux. Et que ce mieux, on l'apprend en écoutant **avec** les autres. »*
 >
@@ -155,7 +155,7 @@ C'est pour cela que la prédiction est l'un des piliers du Pilier de Liberté et
 
 La Prédiction n'est pas une mécanique de devinette. C'est la **discipline de l'attente**, dans un monde qui respire. Elle apprend à lire les signes faibles, à supporter les signes forts, à miser ce qu'on croit savoir, à perdre quand on s'est trompé, à recommencer. Elle fait du futur, non pas un mystère qu'on arracherait au cosmos, mais une **conversation** que la communauté entretient avec son monde.
 
-Les trois disciplines — astronomie, oracle, Voie de Tempora — sont les trois grandes oreilles qu'Hybelior tend vers le futur. La Bourse des Augures est l'agora où ces oreilles confrontent leurs lectures. Le Prophète est la voix rare qu'on a fini par écouter parce qu'elle a tenu, trois fois de suite, ses paris contre l'incertain. Les religions sont les grammaires qui colorent les signes. Tout cela ensemble fait de la Prédiction non pas un mini-jeu, mais une **dimension entière** de l'expérience d'Hybelior — une dimension où l'on ne combat pas, où l'on n'amasse pas d'éclats, où l'on **écoute**, et où, à force d'écouter, on devient quelqu'un que le monde reconnaît.
+Les trois disciplines — astronomie, oracle, Voie de Tempora — sont les trois grandes oreilles qu'Hybelior tend vers le futur. La Bourse des Augures est l'agora où ces oreilles confrontent leurs lectures. Le Prophète est la voix rare qu'on a fini par écouter parce qu'elle a tenu, trois fois de suite, ses paris contre l'incertain. Les religions sont les grammaires qui colorent les signes. Tout cela ensemble fait de la Prédiction non pas une distraction, mais une **dimension entière** de l'expérience d'Hybelior — une dimension où l'on ne combat pas, où l'on n'amasse pas d'éclats, où l'on **écoute**, et où, à force d'écouter, on devient quelqu'un que le monde reconnaît.
 
 > *« Le Souffle viendra. Il vient toujours. La seule question qu'il nous laisse, c'est de savoir si nous l'aurons attendu **ensemble**, ou seuls dans nos coins. La prédiction est notre manière, à Hybelior, de l'attendre ensemble. »*
 >

@@ -1,258 +1,184 @@
 ---
-tags: [architecture, échelles, opulence, urbanisme, taxonomie, mécanique]
-type: mechanic
+tags: [architecture, opulence, degrés, urbanisme, narration]
+type: mechanic-narrative
 status: drafted
-last_review: 2026-05-01
-needs_review_for: [coûts-éclats-playtest, niveau-6-cosmique-monnaie-vs-non-marchand, alignement-tiers-items, cas-hybrides-urbanisme]
+last_review: 2026-05-12
 ---
 
-# 📐 Échelles et Niveaux — Opulence + Urbanisme
+# 📐 Les degrés de l'opulence — six rangs du bâti, cinq tailles de peuplement
 
-> Toute construction d'Hybelior se classe sur une **échelle d'opulence à 6 niveaux**, transversale aux 10 [[Catégories de Constructions|catégories]]. Cette échelle est **alignée** sur les **6 tiers d'items** ([[Catégories d'Items#Tiers de rareté|Commun → Mythique]]) pour assurer la cohérence du jeu : un Manoir niveau 4 héberge typiquement des Items tier 4 *Magistral*.
+> *« Une cabane vaut sa cabane, un palais vaut son palais. Celui qui mesure l'un à l'aune de l'autre ne connaît ni la pauvreté ni la richesse. »*
 >
-> Une **seconde dimension orthogonale** classe les **peuplements** (et non les bâtiments individuels) sur une **échelle d'urbanisme à 5 paliers** (source [[AccessExport/TailleVille.csv]]) : Maison isolée → Hameau → Village → Ville → Grande Ville. Voir §Échelles d'urbanisme ci-dessous.
+> *— inscription au seuil de la Maison des Bâtisseurs, Lumasar*
 
 ---
 
-## Principe
+## Comment les habitants nomment ce qui se tient debout
 
-| Catégorie *(le rôle)* | × | Niveau *(l'opulence)* | = | Archétype concret |
-|-----------------------|---|----------------------|---|-------------------|
-| Habitation | × | Niveau 1 *Modeste* | = | Hutte / Cabane |
-| Habitation | × | Niveau 5 *Magnifique* | = | Manoir / Demeure noble |
-| Lieu de production (Forge) | × | Niveau 1 *Modeste* | = | Forge de campagne |
-| Lieu de production (Forge) | × | Niveau 5 *Magnifique* | = | Forge-cathédrale d'Altram |
-| Lieu religieux | × | Niveau 1 | = | Sanctuaire de bord de route |
-| Lieu religieux | × | Niveau 6 *Cosmique* | = | Cathédrale Engloutie d'Iskara |
+Les bâtisseurs d'Hybélior ont, depuis longtemps, l'habitude de distinguer **six rangs** dans la qualité d'une construction. Ces rangs ne disent pas seulement la richesse — ils disent aussi la fonction sociale, la durée de chantier, le nombre de mains mobilisées, la rareté des matières, la signature du Maître qui a tenu le plan.
 
-> **Toute la combinatoire 10 × 6 n'est pas peuplée** : certaines combinaisons sont marginales (Infrastructure rurale niveau 6 est exceptionnelle ; Mobilier portable niveau 6 = relique). Le tableau de peuplement sera produit Phase 2.
+Du plus humble au plus prodigieux, on compte : **Modeste**, **Honnête**, **Aisé**, **Distingué**, **Magnifique**, **Cosmique**. Chacun de ces noms n'est pas une étiquette de marchand — c'est une **dignité propre**, qu'aucun rang voisin ne devrait écraser. Le Modeste a sa beauté tranquille, le Cosmique a son vertige ; entre les deux, chaque degré tient son rôle.
+
+À côté de cette échelle d'opulence, qui parle de chaque bâtiment individuellement, court une autre échelle — celle des **peuplements**. Les habitants d'Hybélior distinguent cinq tailles de lieux habités : **Maison isolée**, **Hameau**, **Village**, **Ville**, **Grande Ville**. Ces deux échelles sont indépendantes. Une Grande Ville abrite des taudis du rang Modeste comme des palais du rang Cosmique ; un Hameau perdu peut héberger un manoir distingué, refuge d'été d'un seigneur lointain. La densité humaine et la qualité du bâti ne se confondent jamais.
+
+Cette page est une lecture de ces deux échelles, par scènes plutôt que par chiffres.
 
 ---
 
-## Les 6 niveaux
+## Modeste — le premier rang
 
-| Niveau | Nom | Pop. occupants | Matériaux principaux | Coût indicatif (Éclats) | Tier item équivalent |
-|--------|-----|----------------|---------------------|------------------------|----------------------|
-| **1** | **Modeste** | 1-2 | Bois brut, [[Pierre]] simple, chaume, argile, torchis | **100 - 500** | Tier 1 *Commun* |
-| **2** | **Honnête** | 3-5 | [[Planche|Planches]] standard, Pierre taillée, tuile, [[Brique]] basique | **1 000 - 5 000** | Tier 2 *Façonné* |
-| **3** | **Aisé** | 5-10 | Bois ouvragé, Pierre ornée, [[Plaque de verre|vitrage]] simple, briques réfractaires | **10 000 - 50 000** | Tier 3 *Œuvré* |
-| **4** | **Distingué** | 8-15 | Bois précieux, Pierre fine, métal ouvragé, vitraux peints, marbre régional | **100 000 - 500 000** | Tier 4 *Magistral* |
-| **5** | **Magnifique** | 15-50 | Marbre, métal précieux (Or, Argent, [[Mithril]]?), gemmes serties, bois exotiques | **1 000 000 - 5 000 000** | Tier 5 *Légendaire* |
-| **6** | **Cosmique** | Variable / unique | Matériaux exotiques (Bliysium, Acier Éternel, Spuelium, Cristaux cosmiques) | **10 000 000+ ou non-marchand** | Tier 6 *Mythique* |
-
-> ⚠️ **Coûts indicatifs (D-COÛTS-PLAYTEST)** : ces fourchettes sont posées par cohérence avec [[Économie]] (joueur-driven). Elles seront calibrées en playtest. Le coût réel d'une construction = coût matériaux + coût main-d'œuvre (Labeur des artisans) + marge marchand.
-
----
-
-## Détail par niveau
-
-### Niveau 1 — Modeste
-
-**Identité** : *« Tout le monde commence ici. La construction de subsistance. »*
-
-| Aspect | Détail |
-|--------|--------|
-| **Habitations** | Hutte · Abri de fortune · Maisonnette de pêcheur · Cabane de bûcheron |
-| **Production** | Forge de campagne · Atelier en plein air · Bergerie · Petit moulin manuel |
-| **Social** | Buvette de bord de route · Tabernacle de carrefour |
-| **Religieux** | Sanctuaire de bord de route · Pierre dressée consacrée · Niche votive |
-| **Fortif.** | Palissade · Tour de bois |
-| **Rural** | Étable de subsistance · Poulailler · Petite serre |
-| **Mobilier fixe** | Foyer rudimentaire · Lit-paille · Étagère cheville |
-| **Cosmique** | *(non applicable — niveau 6 exclusivement)* |
-| **Construction** | Auto-construite par le joueur ou un PNJ artisan Novice. Pas de plan. |
-| **Maîtrise requise** | Novice (Architecte n'est pas requis ; Charpentier débutant suffit) |
-| **Durée de chantier** | Quelques jours à 2 semaines (jeu) |
-
-### Niveau 2 — Honnête
-
-**Identité** : *« La maison du villageois. Le standard du peuple stable. »*
-
-| Aspect | Détail |
-|--------|--------|
-| **Habitations** | Maison de village · Logis du paysan moyen |
-| **Production** | Forge de village · Atelier de tisserand · Boulangerie communale · Brasserie |
-| **Social** | Taverne de village · Auberge modeste · Place pavée centrale |
-| **Religieux** | Chapelle · Sanctuaire couvert · Petit oratoire |
-| **Fortif.** | Tour de guet · Avant-poste · Mur d'enceinte simple |
-| **Rural** | Grange · Étable solide · Verger clos · Moulin à eau communal |
-| **Mobilier fixe** | Foyer en pierre · Lit à cadre · Bibliothèque encastrée simple |
-| **Construction** | Architecte Initié + Charpentier/Maçon Initié. Plans simples. |
-| **Maîtrise requise** | Initié (palier 2 sur 5) |
-| **Durée de chantier** | 2 semaines à 2 mois |
-
-### Niveau 3 — Aisé
-
-**Identité** : *« La maison du marchand prospère. La fierté de la corporation. »*
-
-| Aspect | Détail |
-|--------|--------|
-| **Habitations** | Maison de ville à étage · Demeure de marchand · Logis du capitaine |
-| **Production** | Forge maîtresse · Atelier de bijoutier · Verrerie · Distillerie · Scriptorium professionnel |
-| **Social** | Auberge réputée · Théâtre populaire · Hôtel des ventes · Bains publics |
-| **Religieux** | Temple · Monastère · Cercle druidique consacré |
-| **Fortif.** | Bastion · Caserne · Châtelet de péage |
-| **Rural** | Domaine viticole · Vaste rucher · Pressoir collectif |
-| **Mobilier fixe** | Foyer ornementé · Lit à baldaquin (simple) · Bibliothèque encastrée multi-rangs · Bain en pierre |
-| **Construction** | Architecte Adepte + équipe de 5-10 ouvriers. Plans détaillés, contrats écrits. |
-| **Maîtrise requise** | Adepte (palier 3 sur 5) |
-| **Durée de chantier** | 3 mois à 1 an |
-
-### Niveau 4 — Distingué
-
-**Identité** : *« La résidence du noble. La cathédrale provinciale. Héritage reconnu d'une nation. »*
-
-| Aspect | Détail |
-|--------|--------|
-| **Habitations** | Manoir · Hôtel particulier · Tour de sorcier (cf. [[AccessExport/Batiment.csv]]) |
-| **Production** | Manufacture royale · Atelier de Maître renommé · Verrerie de cathédrale |
-| **Social** | Théâtre national · Grande Halle de marchands · Hôtel des ventes capital |
-| **Religieux** | Basilique · Cathédrale provinciale · Reliquaire de relique reconnue |
-| **Savoir** | Bibliothèque royale · Académie · Observatoire majeur |
-| **Fortif.** | Fort · Citadelle · Donjon (tour-maîtresse) |
-| **Rural** | Domaine impérial · Domaine viticole d'exception |
-| **Mobilier fixe** | Foyer monumental sculpté · Lit à baldaquin orné · Bibliothèque-mur · Forge domestique haut tier |
-| **Construction** | Architecte Expert + 20-50 ouvriers + corps de métiers spécialisés. Permis royal souvent requis. |
-| **Maîtrise requise** | Expert (palier 4 sur 5) |
-| **Durée de chantier** | 1 an à 5 ans |
-
-### Niveau 5 — Magnifique
-
-**Identité** : *« Le palais. La cathédrale capitale. La forteresse du roi. La cité-fortifiée d'une guilde dominante. »*
-
-| Aspect | Détail |
-|--------|--------|
-| **Habitations** | Palais royal · Cour impériale · Demeure-château |
-| **Production** | Forge-cathédrale (Altram, mythique) · Manufacture impériale (Evertia) |
-| **Social** | Théâtre impérial · Place royale pavée de marbre |
-| **Religieux** | Cathédrale capitale · Sanctuaire d'une religion majeure · Temple central |
-| **Savoir** | Université d'État · Grande Bibliothèque · Observatoire des constellations |
-| **Fortif.** | Forteresse capitale · Citadelle · Cité fortifiée |
-| **Rural** | *(rare ; domaine impérial d'Evertia, pôle d'élevage de créatures rares)* |
-| **Mobilier fixe** | Trône · Foyer-chambre rituel · Bibliothèque-cathédrale · Bains thermaux ornementés |
-| **Cosmique** | *(rare ici ; chevauche avec niveau 6)* |
-| **Construction** | Architecte Maître + plusieurs centaines d'ouvriers + Sculpteur Maître + Enchanteur. Décennies de chantier possibles. Héritage de civilisation. |
-| **Maîtrise requise** | Maître (palier 5 sur 5) |
-| **Durée de chantier** | 5 à 50 ans (constructions transgénérationnelles) |
-
-### Niveau 6 — Cosmique
-
-**Identité** : *« L'inhumain. Les Cratères du Cardinal. Les Brèches du Néant. Caëspia. La Citadelle Volante d'Aerion (mythique). »*
-
-> ⚠️ **Décision critique D-ARCHITECTURE-06** : le niveau 6 est-il :
-> - (a) **achetable** à 10M+ Éclats (un palais cosmique pour les ultra-riches),
-> - (b) **strictement non-marchand** (uniquement gagné par condition cachée 🔒, événement d'ère, Trace permanente, Souffle Cardinal),
-> - (c) **mixte** (certaines accessibles via Éclats à coût astronomique, d'autres uniquement par accomplissement) ?
+> *« On apprend dans une cabane ce qu'on n'apprend dans aucun palais : qu'un toit suffit. »*
 >
-> **Recommandation initiale : (b) ou (c)**. Le niveau 6 est **par nature** lié au cosmique ; le réduire à de l'argent dilue son sens. Mais on peut imaginer qu'une guilde puisse *commander* un monument niveau 6 si elle réunit les ressources rituelles, la Maîtrise des artisans, et un siège Éthéré pertinent ([[Cosmologie]] §Sièges Éthérés).
+> *— proverbe des marcheurs d'Onara*
 
-| Aspect | Détail |
-|--------|--------|
-| **Habitations** | Caëspia (Evertia) · Palais flottant d'Astravia · Trône de Spiritus (mythique) |
-| **Production** | *(extrêmement rare — atelier de Forgion, siège Éthéré de la Forge)* |
-| **Social** | *(extrêmement rare — théâtre cosmique, lieu d'Eldoria endormie)* |
-| **Religieux** | Cathédrale Engloutie d'Iskara · Temple des Flammes Éternelles de Cendara · Sanctuaire principal d'un Cosmique vénéré |
-| **Savoir** | Tours d'Astravia · Bibliothèque de Lumasar (unique-monde) · Observatoire des Constellations Disparues |
-| **Fortif.** | Citadelle Volante d'Aerion (mythique) |
-| **Rural** | *(non applicable — sauf cas signature comme Champs de Lune Glas qui ne se cultivent qu'en rêve)* |
-| **Mobilier fixe** | *(extrêmement rare — Trône d'un siège Éthéré, Foyer d'Igniculus consacré)* |
-| **Cosmique** | Cratères du Cardinal · Brèches du Néant · Porte de Voyage de Navigor (disparues) · Anneau de Pierre de Pyrtara · Falaises Chantantes de Baelor |
-| **Construction** | **Conditions cachées 🔒**. Architecte Maître + Maîtrise d'une Voie de [[Le Lien|magie]]. Siège Éthéré pertinent souvent requis (Forgion, Talos, Luxa…). Souvent *lieu* plutôt que *bâtiment construit*. |
-| **Maîtrise requise** | Maître + Conditions exceptionnelles |
-| **Durée** | Une vie de joueur, ou inscrite par Trace permanente sans construction littérale |
+C'est le rang où **chacun commence**, ou bien où chacun finit s'il refuse de mentir sur ce qu'il est. La hutte du bûcheron au bord de la forêt ; la maisonnette du pêcheur au pied d'une falaise ; la cabane du chasseur en lisière de toundra ; l'abri de fortune d'un voyageur qui s'est arrêté pour l'hiver. Le rang Modeste rassemble tout ce qui se bâtit à une ou deux paires de mains, en quelques jours, avec ce que la terre du voisinage veut bien donner.
+
+Les matières sont brutes : bois fendu plutôt que scié, pierre ramassée plutôt que taillée, chaume bottelé du champ d'à côté, parfois argile et torchis pour les murs, parfois simplement poteaux et toiles. Le sol est de terre battue ; le toit, de chaume ou de planches grossières ; les ouvertures, des trous fermés par des volets de bois ou des peaux tendues. Un seul foyer, central, sert à la fois pour le feu, la cuisine et la lumière. Le mobilier se compte sur les doigts d'une main : une paillasse, une table fruste, un coffre, parfois un banc adossé au mur. Tout ce qui peut être fabriqué à la main par l'habitant lui-même l'est ; tout ce qui ne peut l'être est acheté avec parcimonie au marchand de passage.
+
+Cette pauvreté n'est pas une faute. Dans la plupart des cultures d'Hybélior, vivre Modeste est un état **respectable**, parfois même choisi. Les ermites, les chasseurs solitaires, les bûcherons de longue forêt, les pêcheurs des côtes isolées habitent ce rang sans honte. On y trouve même, par endroits, une certaine **fierté** — celle de n'avoir pas besoin de plus que ce que la main donne.
+
+Le bâti Modeste se lève en quelques jours. Pas de plan tracé sur parchemin ; pas d'Architecte ; pas de chantier coordonné. Un menuisier novice et un maçon novice suffisent souvent ; parfois c'est l'habitant lui-même qui dresse son toit, aidé d'un voisin et de quelques journées de labeur partagé.
 
 ---
 
-## Échelles d'urbanisme (source : [[AccessExport/TailleVille.csv]])
+## Honnête — le rang du peuple stable
 
-> **Distincte de l'échelle d'opulence** (qui décrit la qualité du bâti d'une construction individuelle). L'échelle d'urbanisme décrit la **densité humaine** d'un peuplement entier. Les deux dimensions sont **orthogonales** et se croisent : une Grande Ville peut héberger des huttes d'opulence 1 (quartier misérable) ; un hameau peut abriter un manoir d'opulence 5 (fief du seigneur local).
+C'est le rang où **vit le plus grand nombre**, dans les villages et les bourgs d'Hybélior. La maison de village du paysan moyen ; le logis du tâcheron du bourg ; la maison de pêcheur d'un port modeste. Au rang Honnête, on a quitté la subsistance ; on tient debout, on transmet quelque chose à ses enfants, on peut recevoir un voisin sans avoir honte de ses murs.
+
+Les matières gagnent en travail. Le bois est scié en planches régulières ; la pierre est taillée à la mesure ; le toit reçoit tuile ou ardoise plutôt que chaume ; les murs s'élèvent en briques bien sèches, ou en pierres assemblées au mortier ; les ouvertures se ferment de volets de bois bien charnés et, parfois, de petites pièces de verre épais quand le verrier passe. Le sol est dallé ou planché. Les pièces se distinguent : un coin pour la cuisine, un autre pour le sommeil, parfois une pièce séparée pour l'atelier ou l'étable attenante. Le foyer prend la forme d'une cheminée en pierre, avec un manteau et une crémaillère. Le mobilier s'étoffe : un lit à cadre plutôt qu'une paillasse, une table avec des bancs, des étagères murales, un coffre fermant à clef.
+
+On bâtit Honnête à partir d'un **plan simple** tracé par un Architecte initié, ou parfois par le doyen du village qui sait lire les vieux modèles. Le chantier mobilise un maçon, un charpentier, un couvreur, un menuisier — chacun pour quelques jours ou quelques semaines. L'ouvrage entier prend de deux semaines à deux mois selon la saison et la main-d'œuvre disponible. C'est, dans la plupart des cultures, le rang qu'un jeune ménage espère atteindre après quelques années d'épargne.
+
+---
+
+## Aisé — le rang du marchand prospère
+
+Au rang Aisé, **le bâti commence à se faire remarquer**. La maison de ville à étage du marchand qui a réussi ; la demeure de capitaine de port ; le logis du Maître artisan que sa corporation a reconnu ; la grande ferme de domaine qui nourrit plusieurs hameaux alentour. Aisé, c'est le rang où l'on commence à signer ses murs — à choisir une pierre de façade, à demander un ornement de sculpture, à orienter sa demeure pour qu'elle se voie depuis la rue principale.
+
+Les matières montent en gamme. Bois ouvragé, parfois bois précieux dans les pièces nobles ; pierre ornée plutôt que simplement taillée ; vitres simples aux fenêtres, parfois deux ou trois colorées par fantaisie ; briques réfractaires pour la cheminée monumentale ; planchers vernis ; portes lourdes garnies de ferronnerie. Les pièces se multiplient : on distingue la pièce de réception, la chambre des maîtres, les chambres des enfants, la cuisine séparée, l'office, parfois un cabinet d'écriture pour le marchand qui tient ses comptes. Le mobilier s'enrichit de pièces signées — un buffet sculpté, une bibliothèque encastrée avec quelques livres, un lit à baldaquin simple, un bain de pierre dans un coin réservé.
+
+Bâtir Aisé demande un **Architecte adepte** et une équipe coordonnée de cinq à dix ouvriers — maçon, tailleur de pierre, charpentier, couvreur, menuisier, verrier, parfois sculpteur. Les plans sont détaillés, les contrats signés devant témoins, le chantier dure de trois mois à un an. C'est aussi à ce rang que les **corporations** se manifestent franchement : on choisit son Architecte au sein d'une guilde reconnue, on achète sa pierre à un fournisseur attitré, on signe ses contrats avec les corps de métier de la cité.
+
+---
+
+## Distingué — le rang de la noblesse provinciale
+
+> *« Une demeure distinguée est celle où l'on entre en s'inclinant — pas devant son propriétaire, devant son architecte. »*
 >
-> 5 paliers canoniques tirés de `TailleVille.csv` : `Maison Isolée` · `Hameau` · `Village` · `Ville` · `Grande Ville`.
+> *— Eslin Vael, célébrante du Concordat, Cendara*
 
-| Échelle | Population estimée | Infrastructure typique | Gouvernement |
-|---------|-------------------|------------------------|--------------|
-| **Maison isolée** | 1-10 (1 famille étendue, ermite, ferme isolée) | Aucune voirie ; éventuellement puits, étable, cellier | Aucun, parfois lien vassalique à un seigneur |
-| **Hameau** | 10-50 (3-10 familles) | 1-2 bâtiments communs (puits, four banal, sanctuaire de carrefour) | Chef de hameau / aïeul / patriarche |
-| **Village** | 50-500 | Place + temple/chapelle + auberge + ateliers basiques (forge de village, moulin, boulangerie) | Maire ou conseil de village |
-| **Ville** | 500-10 000 | Remparts ou enceinte, places multiples, temples, ateliers spécialisés, garde permanente, marché couvert, échoppes | Bourgmestre, conseil bourgeois, parfois seigneur résident |
-| **Grande Ville** | 10 000+ (capitales incluses) | Quartiers spécialisés, palais, cathédrales, hôtel des monnaies, garde armée, université, théâtre, port ou hôtel de commerce majeur | Maire/seigneur, parfois capitale royale ou impériale |
+Le rang Distingué est celui des **demeures qui survivent à leurs propriétaires**. Manoir du seigneur de province, hôtel particulier d'un grand marchand de capitale, tour signature d'un Mage de renom, basilique d'un évêque local, cathédrale provinciale dans une ville moyenne, fort de frontière. À ce rang, le bâtiment n'est plus seulement un toit ; il est une **inscription dans la pierre** d'une lignée, d'une autorité, d'une histoire.
 
-> 💡 **Attribution depuis `Ville.csv`** : la colonne `DescriptionVille` (≈250 entrées) utilise principalement trois libellés : `Capitale`, `Ville`, `Village`. Mapping recommandé :
+Les matières atteignent un véritable raffinement. Bois précieux pour les charpentes nobles et les boiseries intérieures ; pierre fine, parfois marbre régional pour les façades et les sols de pièces de réception ; métal ouvragé pour les ferronneries, balustrades, lustres ; vitraux peints aux fenêtres principales — souvent un blason, une scène religieuse, un motif emblématique de la famille. Les pièces se déploient en enfilades, avec une logique de cérémonie : on traverse plusieurs salles avant d'atteindre les pièces privées. Les hauts plafonds dégagent la verticalité ; les escaliers se sculptent et deviennent eux-mêmes des œuvres ; les jardins, quand le bâti en autorise, prolongent la demeure dans le paysage.
+
+Bâtir Distingué demande un **Architecte expert** et une équipe d'**au moins vingt ouvriers**, parfois cinquante, accompagnés de corps de métier spécialisés — sculpteurs ornementistes, vitriers maîtres, forgerons architecturaux pour les ferronneries d'art, peintres pour les fresques intérieures. Le chantier dure d'**un à cinq ans**. Souvent, un permis royal ou seigneurial est nécessaire — on ne bâtit pas Distingué dans une province sans que les autorités locales en aient acté l'opportunité.
+
+---
+
+## Magnifique — l'orgueil des capitales
+
+Le rang Magnifique appartient aux **capitales** et à ceux qui peuvent rivaliser avec elles. Palais royal d'Astravia, cour impériale d'Evertia, cathédrale capitale d'Iskara avant son engloutissement, Forteresse de Mosrack qui surplombe la baie, Université d'État de Lumasar, Grande Bibliothèque d'Eldoria, théâtre impérial d'Evertia, cité-fortifiée d'une guilde dominante. À ce rang, le bâtiment n'est plus seulement un objet de prestige ; il est une **déclaration politique**. Sa construction engage la nation entière, et son entretien continue d'engager les générations suivantes.
+
+Les matières atteignent la rareté. Marbre par cargaisons entières — blanc de Lumasar pour les colonnes, rose impérial d'Evertia pour les sols, noir veiné de Cendara pour les contreforts. Métaux précieux — or pour les coupoles et les dorures, argent pour les lustres et les ornements de mobilier. Soies des grandes manufactures pour les tentures monumentales. Gemmes serties dans la pierre pour les sanctuaires et les autels. Verres rares — vitraux historiés grands comme une maison ; lentilles d'observatoire taillées à un seul exemplaire ; verres soufflés dont on ne connaît plus la recette dans aucun atelier ordinaire. Bois exotiques importés des continents lointains, parfois transportés sur plusieurs mers.
+
+Bâtir Magnifique mobilise un **Maître Architecte** et **plusieurs centaines d'ouvriers**, parfois plusieurs milliers, sur des chantiers qui s'étendent sur **cinq à cinquante ans**. Certaines cathédrales sont entamées par un Maître Architecte qui ne les verra pas finir ; son apprenti les achèvera, et l'apprenti de son apprenti consacrera la dernière pierre. On parle alors de **constructions transgénérationnelles** — ouvrages dont chaque génération hérite, à charge pour elle de les transmettre achevés ou augmentés. Ces chantiers deviennent eux-mêmes une part de l'identité d'une cité ; les habitants y travaillent par tour, et certains métiers entiers se transmettent autour d'eux.
+
+---
+
+## Cosmique — le rang où la main mortelle ne suffit plus
+
+> *« Tout ce qui se tient debout n'a pas été levé. Tout ce qui a été levé ne se tient pas debout. Il existe, entre les deux, un seuil qu'aucun outil ne franchit seul. »*
 >
-> - `Capitale` → **Grande Ville** (obligatoire — c'est le siège politique d'un pays)
-> - `Ville` → **Ville** (par défaut ; promouvoir en Grande Ville si la ville est explicitement décrite comme métropole/capitale économique majeure)
-> - `Village` → **Village** (par défaut ; déclasser en Hameau si lore mentionne population <50)
-> - Aucune entrée actuelle pour `Hameau` ou `Maison isolée` dans `Ville.csv` — ces deux paliers seront posés via les fichiers Lore/Pays au cas par cas (toponymes secondaires, fermes nommées).
+> *— Maître Veyran d'Astravia, dernière page de ses « Notes »*
 
-### Croisement Urbanisme × Opulence (modes typiques)
+Le rang Cosmique se distingue des cinq autres par une rupture qualitative. Aux cinq premiers rangs, le bâti se mesure par sa main-d'œuvre, ses matières, sa durée — il appartient à ce que les mortels savent faire. Au rang Cosmique, le mortel **n'agit plus seul**. Ce qui se tient debout ici l'est parce que les Ères elles-mêmes ont consenti, parce qu'un Souffle est passé et a laissé son sceau, parce qu'une Voie de magie a ouvert ce que la pierre seule ne saurait porter.
 
-> ⚠️ Ces correspondances sont des **modes statistiques**, pas des contraintes. Une grande ville peut posséder des taudis d'opulence 1 (quartier des cendres) ; un hameau peut héberger un palais signature d'opulence 5 (refuge royal d'été). Le tableau indique le **bâti dominant attendu**.
+Ce rang abrite, d'une part, les **sanctuaires que seuls les Ères touchent** : Caëspia, la cité signature d'Evertia dont aucune chronique ne sait dater la fondation ; la Cathédrale Engloutie d'Iskara, dont la flèche affleure à marée basse et dont nul ne sait si son engloutissement fut une catastrophe ou une consécration ; les Tours d'Astravia, alignées sur des constellations qui n'existent plus dans le ciel actuel et qui ont donc dû être bâties sous d'autres Ères ; la Bibliothèque de Lumasar, dont les pièces les plus anciennes ne se laissent pas dater par les méthodes ordinaires ; le Trône de Spiritus, dont les chants parlent mais qu'aucun voyageur récent ne dit avoir vu de ses yeux.
 
-| Échelle d'urbanisme | Opulence dominante | Opulence rare mais possible |
-|---------------------|--------------------|-----------------------------|
-| **Maison isolée** | 1 *Modeste* — 2 *Honnête* | 5 *Magnifique* (refuge noble), 6 *Cosmique* (ermitage signature, ex. tour d'Astravia isolée) |
-| **Hameau** | 1 *Modeste* — 2 *Honnête* | 5 *Magnifique* (manoir du seigneur), 6 *Cosmique* (sanctuaire signature) |
-| **Village** | 2 *Honnête* — 3 *Aisé* | 4 *Distingué* (chapelle exceptionnelle, manoir local) |
-| **Ville** | 3 *Aisé* — 4 *Distingué* | 1-2 (taudis péri-urbains), 5 *Magnifique* (cathédrale, hôtel de ville signature) |
-| **Grande Ville** | 4 *Distingué* — 5 *Magnifique* | 1-2 (bidonvilles), 6 *Cosmique* (capitale impériale d'Evertia, Cathédrale Engloutie d'Iskara, Caëspia) |
-| **Capitale / métropole signature** | 5 *Magnifique* — 6 *Cosmique* | 1-2 sur une fraction délibérément populaire ou ruinée |
+Il abrite, d'autre part, les **monuments laissés par les Souffles** : Cratères du Cardinal, où l'Arrachement a marqué la croûte du monde il y a plus de deux siècles ; Brèches du Néant, ouvertes à des coutures du tissu cosmique ; Anneau de Pierre de Pyrtara, dressé par on ne sait qui — il était déjà là quand les premiers peuples sont arrivés dans la région ; Falaises Chantantes de Baelor, qui résonnent quand certains vents les traversent et qu'aucune chronique ne sait dire si elles sont entièrement naturelles ; Forêt Pétrifiée d'Akmoral, témoignage minéral d'une Ère du Sommeil de Glace que personne n'a vue.
 
-> Une **capitale** est toujours classée **Grande Ville** sur l'échelle d'urbanisme, mais peut atteindre l'**opulence 6 *Cosmique*** sur ses monuments signature (palais, cathédrale principale, observatoire majeur). Voir §Niveau 6 pour la décision D-ARCHITECTURE-06.
+Élever, soi-même, un bâti qui entre dans ce rang, est l'aspiration la plus haute qu'une vie de bâtisseur puisse nourrir. Très peu y parviennent. Il y faut un **Maître Architecte au sommet de son art**, des matériaux exotiques qu'aucune carrière ordinaire ne fournit, l'accord d'un siège Éthéré ou d'un Cosmique, parfois la coopération de plusieurs Liés à des Voies différentes. Et il faut, surtout, **un consentement du monde** — un moment où la respiration cosmique laisse, pour quelques années, l'œuvre se lever sans s'effondrer.
 
-### Cas hybrides à arbitrer
-
-| Cas | Tension | Recommandation initiale |
-|-----|---------|--------------------------|
-| **Métropole-port-citadelle** (ex. Hekorinth si elle était à la fois capitale, port majeur, citadelle militaire) | Cumul rôles → urbanisme = Grande Ville, mais opulence dominée par fortifications niveau 5 ? | Échelle d'urbanisme = **Grande Ville** ; opulence = **5** dominante avec quartiers militaires de niveau 6 (citadelle authored signature). Pas de palier supplémentaire à créer. |
-| **Cité-monastère reculée** (village de moines, population 100, mais cathédrale niveau 5) | Petit peuplement + opulence très haute | Échelle d'urbanisme = **Village** (la population décide) ; le monument signature est un cas authored qui dépasse les modes du tableau. Tag culturel propre. |
-| **Camp temporaire / forteresse de garnison sans civils** (population 300 soldats, pas de foyers familiaux) | Densité humaine élevée mais pas un peuplement civil | Hors échelle d'urbanisme — relève de la **catégorie Fortifications** ([[Catégories de Constructions]] §6) ; ne pas instancier comme Ville. |
-| **Cité fantôme / ruines habitées par <10 personnes** | Ancienne Grande Ville, maintenant Maison isolée ? | Échelle d'urbanisme = **Maison isolée** (la population présente prime) ; flag `state: ruined` côté archétype. La trace historique reste classée à son échelle d'origine dans [[Traces des Ères]]. |
-| **Caëspia (Evertia)** | Construction-monde unique, pas un peuplement humain standard | Hors échelle d'urbanisme — c'est une **construction cosmique** ([[Catégories de Constructions]] §10) niveau 6. Non instanciable comme ville. |
+La plupart des constructions Cosmiques d'Hybélior ne se vendent pas, ne s'achètent pas, et parfois ne se visitent même pas. Ce sont des **lieux** plus que des bâtiments — au sens où ils existent au croisement du minéral et du cosmique, et que cette dualité fait d'eux des seuils plutôt que des contenants.
 
 ---
 
-## Modulation par ère
+## Les cinq tailles de peuplement
 
-> Voir [[Le Souffle]] §Phases et [[Les Ères]] pour le détail des ères.
+Aux six rangs du bâti répond une autre échelle, indépendante : celle des **peuplements**. Combien d'âmes vivent ensemble en un même lieu, et comment leur regroupement s'organise.
 
-L'ère active module l'efficacité de construction et l'apparence des bâtiments :
+### La maison isolée
 
-| Ère type | Effet sur l'architecture |
-|----------|-------------------------|
-| **Verdoiement (Terranu)** | Constructions végétales / vivantes possibles ; les bois "poussent" dans les charpentes |
-| **Sommeil de Glace (Climata)** | Constructions ralentissent (-30% chantiers en cours) ; charpentes givrées (cosmétique) |
-| **Feu Endormi (Eldoria)** | Forges architecturales +20% qualité ; briques réfractaires renforcées ; lave intégrable |
-| **Brume Mortelle** | Constructions ouvertes (théâtres, places) déconseillées ; bâtiments fermés bonifiés |
-| **Ombre Longue (Noctis)** | Architecture nocturne valorisée ; vitraux sombres, façades à reflets ; fortifications +10% |
-| **Vents (Aerion)** | Toits ailés, charpentes hautes, lévitation locale possible (niveau 6) |
-| **Cieux Lus (Stellaris)** | Tours et observatoires +25% qualité ; alignements astraux opèrent |
+C'est le degré le plus bas de la densité humaine — **une seule famille** étendue, parfois moins. Un ermite, un bûcheron, une famille de fermiers, un Lié reclus, un gardien de phare. Pas de voirie, pas d'institution, pas de vie collective au sens propre. Au plus un puits, une étable, un cellier, un sanctuaire personnel. La maison isolée existe dans toutes les terres d'Hybélior, mais elle est la marque des grandes étendues — toundras d'Onara, déserts d'Iskara, hauts pâturages de Cestra, profondes forêts de Trinoria.
 
----
+### Le hameau
 
-## Modulation par Souffle
+Le hameau rassemble **trois à dix familles** — entre dix et cinquante âmes. C'est le plus petit regroupement qui justifie quelques bâtiments communs : un puits collectif, un four banal, parfois un sanctuaire de carrefour, parfois une auberge minuscule à la croisée des chemins. Le hameau n'a pas de gouvernement formel — il a un **aïeul** ou un patriarche reconnu, dont l'autorité tient à l'âge et à la mémoire des lignées plutôt qu'à une charge officielle. Les hameaux constellent les campagnes d'Hybélior comme des grains semés à la main.
 
-À chaque [[Le Souffle|Petit Souffle]], les constructions subissent une **rouille architecturale temporaire** modeste :
+### Le village
 
-- **Niveaux 1-2** : aucun effet visible
-- **Niveaux 3-4** : -5% bonus de production / repos pendant 2 semaines (équivalent rouille items haut tier)
-- **Niveaux 5-6** : -10% bonus pendant 2 semaines, +effet cosmétique (lumière atténuée, pierre légèrement ternie)
+Le village rassemble **cinquante à cinq cents âmes**. C'est le seuil où apparaissent les **institutions** : une place centrale, un sanctuaire ou une chapelle, une auberge, un ou plusieurs ateliers — forge de village, moulin, boulangerie, parfois tannerie ou brasserie. Le village a un maire ou un conseil d'anciens, parfois un seigneur qui y a son fief. C'est là que se tient le marché hebdomadaire ; là que l'on enterre les morts dans un cimetière commun ; là que se croisent les routes des hameaux alentour. Le village est la plus petite unité de la vie collective au sens fort.
 
-Une construction **inhabitée** post-Souffle se dégrade plus vite : flag `decay_rate` modulé par occupation.
+### La ville
 
-Les **Traces** [[Traces des Ères]] §Architecturales sont l'inverse — certaines constructions **gagnent** en pouvoir post-Souffle si elles ont survécu à un événement d'ère majeur.
+La ville rassemble **cinq cents à dix mille âmes**. Elle se distingue du village par sa **complexité fonctionnelle** : remparts ou enceinte de pierre, plusieurs places, plusieurs temples ou un grand sanctuaire central, ateliers spécialisés organisés en quartiers, garde permanente, marché couvert, hôtel de monnaie, parfois un évêché ou un siège seigneurial. La ville héberge des métiers que le village ne soutient pas — sculpteurs maîtres, verriers maîtres, scribes, médecins, juristes. Elle attire les paysans des villages alentour pour leurs ventes et leurs grandes occasions ; elle envoie ses artisans porter leurs ouvrages dans les grandes villes voisines.
 
----
+### La grande ville
 
-## Décisions ouvertes
+> *« Une grande ville n'est pas une ville qui a grandi. C'est une autre forme de vie. »*
+>
+> *— Maître Ostren, marginalia*
 
-| Code | Décision | Recommandation |
-|------|----------|----------------|
-| **D-ARCHITECTURE-06** | Niveau 6 marchand vs strictement non-marchand vs mixte | (b) ou (c) — non-marchand ou mixte |
-| **D-COÛTS-01** | Fourchettes Éclats à calibrer en playtest | Coûts posés ici sont indicatifs |
-| **D-DUREE-01** | Mécanique de durée de chantier — temps réel ou Labeur cumulé ? | Cohérence avec [[Labeur]] : à arbitrer Phase 2 |
-| **D-DECAY-01** | Décroissance des bâtiments inhabités — paramètre par niveau ? | À tester en playtest |
-| **D-ARCHITECTURE-ÉCHELLES-URBANISME** | 5 paliers d'urbanisme intégrés depuis [[AccessExport/TailleVille.csv]] (Maison isolée → Grande Ville). Croisement avec opulence en modes typiques. Cas hybrides (métropole-port-citadelle, cité fantôme, Caëspia) arbitrés. | **Acté 2026-05-01.** Voir [[Registre des Décisions]] §Sprint pilote. |
+La grande ville rassemble **dix mille âmes et plus**. Elle inclut les capitales royales et les capitales impériales d'Hybélior. Elle se distingue de la ville par sa **diversité interne** : quartiers spécialisés (marchand, artisan, religieux, populaire, noble, étranger), palais, cathédrales, hôtel des monnaies, université ou académie, théâtre, port ou hôtel de commerce majeur, parfois plusieurs garnisons. Le pouvoir y est multiple — maire, seigneur, évêque, doyens de corporation, parfois capitaine de port — et leur équilibre fragile fait toute la vie politique de la cité.
+
+Une capitale est toujours, sur cette échelle, une grande ville. Mais toutes les grandes villes ne sont pas des capitales. Solena, Tyndara, Lumasar ont la taille de capitales sans en avoir le titre — ce sont des **métropoles** au sens propre, dont le rayonnement dépasse la nation qui les abrite.
 
 ---
 
-*Liens : [[Architecture/Index|← Index Architecture]] · [[Catégories de Constructions]] · [[Matériaux de Construction]] · [[Mapping Métiers de Construction]] · [[Économie]] · [[Le Souffle]] · [[Les Ères]] · [[Traces des Ères]] · [[AccessExport/TailleVille.csv]] · [[Concepts Fondamentaux IA PNJ]]*
+## Quand l'opulence rencontre la taille
+
+Les six rangs du bâti et les cinq tailles de peuplement ne se confondent jamais — mais ils se croisent, et ce croisement raconte beaucoup.
+
+Une **maison isolée** abrite le plus souvent un bâti Modeste ou Honnête. Rare cas d'exception : le refuge noble en pleine campagne, une tour de Mage retirée du monde, l'ermitage d'un astronome accompli — ces lieux peuvent atteindre les rangs Magnifique ou Cosmique, mais ce sont des cas signature.
+
+Un **hameau** abrite essentiellement du Modeste et de l'Honnête. Là encore, l'exception existe : le manoir du seigneur de la vallée peut s'y dresser au rang Distingué ou Magnifique, et certains hameaux sont nés autour d'un sanctuaire Cosmique qu'ils continuent de garder sans qu'on sache plus pourquoi.
+
+Un **village** rassemble surtout de l'Honnête et de l'Aisé, avec ici ou là une chapelle exceptionnelle ou un manoir local d'envergure Distinguée.
+
+Une **ville** abrite ses quartiers d'Aisé et de Distingué — c'est sa marque ordinaire. Elle conserve cependant ses taudis péri-urbains au rang Modeste, et peut s'enorgueillir d'un monument Magnifique : cathédrale, hôtel de ville signature, fortification capitale.
+
+Une **grande ville** est dominée par le Distingué et le Magnifique. Elle abrite à la fois ses bidonvilles Modestes (à Evertia, le Quartier des Cendres ; à Mosrack, les Berges Basses) et ses sommets Cosmiques (Caëspia à Evertia, la Cathédrale Engloutie à Iskara, les Tours à Astravia).
+
+Cette diversité interne est, en elle-même, le signe distinctif des grandes cités. Ce qui fait une grande ville, ce n'est pas qu'elle soit uniformément riche — c'est qu'elle puisse contenir, en un seul tracé de remparts, toute la gamme de ce qu'un peuple bâtit.
+
+---
+
+## Quelques cas qui hésitent
+
+La vie ne se range jamais parfaitement, et la pratique des bâtisseurs connaît ses exceptions.
+
+Une **métropole portuaire fortifiée** — port d'envergure, citadelle militaire, capitale civile — reste sur l'échelle d'urbanisme une grande ville, mais peut afficher une opulence dominante au rang Magnifique avec des quartiers militaires de rang Cosmique. C'est le cas, en chant, de la mythique Hekorinth d'avant l'Arrachement.
+
+Une **cité-monastère reculée** — un village de moines de cent âmes vivant autour d'une cathédrale de rang Magnifique — reste un village sur l'échelle d'urbanisme (la population décide), mais son monument signature dépasse les modes attendus. Galenor en compte plusieurs, dans ses hauts massifs.
+
+Un **camp temporaire ou une forteresse de garnison** — trois cents soldats logés sans famille — ne relève pas de l'échelle d'urbanisme, qui mesure la vie civile. C'est un bâti de la famille des fortifications, à lire seul.
+
+Une **cité fantôme** — ancienne grande ville réduite à dix habitants — redescend à l'échelle de la maison isolée si la population présente prime ; son histoire reste pourtant inscrite à son rang d'origine dans la mémoire des chroniqueurs.
+
+**Caëspia**, dans Evertia, échappe à l'échelle d'urbanisme. Ce n'est pas un peuplement humain au sens ordinaire — c'est une construction-monde unique, qu'on ne range pas dans les villes. Elle existe à part, comme certaines autres œuvres Cosmiques d'Hybélior.
+
+---
+
+## Voir aussi
+
+- [[Architecture/Index|← Index Architecture]]
+- [[Catégories de Constructions]] — les dix familles fonctionnelles du bâti
+- [[Matériaux de Construction]] — les matières qui distinguent les rangs
+- [[Mapping Métiers de Construction]] — la durée et la composition des chantiers par rang
+- [[Métiers]] — les paliers de maîtrise des bâtisseurs
+- [[Le Souffle]] — ce que les Souffles font aux constructions debout
+- [[Les Ères]] — comment l'Ère active module l'apparence et la qualité du bâti
+- [[Traces des Ères]] — les bâtis Cosmiques laissés par les Souffles passés
+- [[Économie]] — le marché du bâti et la circulation des biens immobiliers
+
+*Implémentation technique (paliers chiffrés, paramètres de génération, données structurées) : [[Architecture Data-Driven]]*

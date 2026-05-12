@@ -2,7 +2,7 @@
 tags: [vision, univers, monde, lore, polyphonie, liés, déliés, narration]
 type: vision
 status: drafted
-last_review: 2026-05-07
+last_review: 2026-05-12
 needs_review_for: []
 ---
 
@@ -56,7 +56,7 @@ Pour la mémoire que cette respiration laisse au monde, voir [[Histoire d'Hybeli
 
 Sur ce cosmos vit une humanité diverse. Hybelior n'a pas une seule origine — il a eu **cinq Berceaux**, cinq foyers où sont apparus, presque simultanément, les premiers mortels conscients. De ces Berceaux et de leurs migrations sont nées **dix lignées** : les Ombrils des Songes d'Ilthara, les Syltharans à la grâce arcane, les Ventori du vent et des routes, les Petravins de la pierre et de la loi, les Nébulaïrs des étoiles, les Kharavasts de la flamme inextinguible, les Marevanes des routes maritimes, les Selvarins des esprits-lieux, les Vael'Somnix du voile entre les mondes, et les Panghoris auto-fondés hors arbre commun. Pour le détail des filiations, voir [[Lignées]] ; pour la géographie où ces peuples vivent aujourd'hui, voir [[Continents/Index]].
 
-Ce qui doit s'entendre ici, c'est que **personne, à Hybelior, n'arrive seul dans un monde vide**. Chaque mortel hérite d'une lignée, d'une langue, d'une mémoire collective qui le dépasse — une manière de regarder le ciel, de nommer les morts, de comprendre les Ères. Le joueur qui arrive ne crée pas son personnage *contre* un décor : il l'inscrit dans une **continuité**.
+Ce qui doit s'entendre ici, c'est que **personne, à Hybelior, n'arrive seul dans un monde vide**. Chaque mortel hérite d'une lignée, d'une langue, d'une mémoire collective qui le dépasse — une manière de regarder le ciel, de nommer les morts, de comprendre les Ères. Le voyageur qui arrive ne crée pas son personnage *contre* un décor : il l'inscrit dans une **continuité**.
 
 ---
 
@@ -88,9 +88,9 @@ Ce qui mérite d'être posé ici, c'est que la **géographie d'Hybelior n'est pa
 
 ## Vivre dans Hybelior
 
-Hybelior ne demande pas d'être un héros. Il propose un monde dont le rythme dépasse le joueur au début, et plusieurs niveaux d'engagement. On peut apprendre à le lire — par les divinations, la Bourse des Augures, l'art de la [[Prédiction]]. On peut s'y aligner — devenir [[L'Accord|Concordant]], incarner une expertise sur les cycles, gagner les titres rares qui suivent un mortel à travers les Ères. On peut s'en arracher — rejoindre la Catena Fracta, contester le Pacte, payer le prix de la déconnexion. On peut, aussi, simplement vivre — exercer un métier, fonder une guilde, traverser les Ères comme on traverse les saisons, sans grande théorie.
+Hybelior ne demande pas d'être un héros. Il propose un monde dont le rythme dépasse le mortel à son arrivée, et plusieurs degrés d'engagement. On peut apprendre à le lire — par les divinations, la Bourse des Augures, l'art de la [[Prédiction]]. On peut s'y aligner — devenir [[L'Accord|Concordant]], incarner une expertise sur les cycles, gagner les titres rares qui suivent un mortel à travers les Ères. On peut s'en arracher — rejoindre la Catena Fracta, contester le Pacte, payer le prix de la déconnexion. On peut, aussi, simplement vivre — exercer un métier, fonder une guilde, traverser les Ères comme on traverse les saisons, sans grande théorie.
 
-Aucune posture n'est obligatoire, aucune n'est neutre. Chacune fait du joueur **quelqu'un de différent dans la chronique commune** d'Hybelior — et cette chronique, à la fin, est ce qui restera quand les Souffles se seront enchaînés. C'est, peut-être, ce que ce monde a de plus précieux : non une histoire qu'on subit, mais une histoire à laquelle on ajoute. Hybelior ne se raconte pas tout seul. Il **se raconte avec ceux qui l'habitent**.
+Aucune posture n'est obligatoire, aucune n'est neutre. Chacune fait de l'arpenteur **quelqu'un de différent dans la chronique commune** d'Hybelior — et cette chronique, à la fin, est ce qui restera quand les Souffles se seront enchaînés. C'est, peut-être, ce que ce monde a de plus précieux : non une histoire qu'on subit, mais une histoire à laquelle on ajoute. Hybelior ne se raconte pas tout seul. Il **se raconte avec ceux qui l'habitent**.
 
 > *« On ne demande pas à un monde pourquoi il existe. On lui demande seulement de durer assez pour qu'on s'y accorde. Hybelior dure. C'est déjà beaucoup. »*
 >

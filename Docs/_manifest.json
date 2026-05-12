@@ -9,7 +9,7 @@
     {
       "name": "La Partie",
       "file": "La Partie.md",
-      "title": "🌐 La Partie — l'expérience du joueur"
+      "title": "🌐 La Partie — l'expérience du voyageur"
     },
     {
       "name": "Production",
@@ -299,56 +299,56 @@
     {
       "name": "Catégories de Constructions",
       "file": "Catégories de Constructions.md",
-      "title": "🗂 Catégories de Constructions — 10 grandes familles"
+      "title": "🗂 Les familles du bâti — traité des constructions d'Hybélior"
     },
     {
       "name": "Index",
       "file": "Index.md",
-      "title": "🏛️ Architecture — Index",
+      "title": "🏛️ Architecture — le bâti d'Hybélior",
       "isIndex": true
     },
     {
       "name": "Mapping Métiers de Construction",
       "file": "Mapping Métiers de Construction.md",
-      "title": "👷 Mapping Métiers de Construction — Qui construit quoi"
+      "title": "👷 Le chantier et ses ouvriers — qui bâtit Hybélior"
     },
     {
       "name": "Matériaux de Construction",
       "file": "Matériaux de Construction.md",
-      "title": "🧱 Matériaux de Construction — Mapping vers les ressources"
+      "title": "🧱 Les matières du bâti — ce avec quoi Hybélior s'élève"
     },
     {
       "name": "Échelles et Niveaux",
       "file": "Échelles et Niveaux.md",
-      "title": "📐 Échelles et Niveaux — Opulence + Urbanisme"
+      "title": "📐 Les degrés de l'opulence — six rangs du bâti, cinq tailles de peuplement"
     }
   ],
   "GDD/03 - Mécaniques/Items": [
     {
       "name": "Catégories d'Items",
       "file": "Catégories d'Items.md",
-      "title": "🗂 Catégories d'Items — 4 grandes familles"
+      "title": "Les familles d'objets d'Hybélior"
     },
     {
       "name": "Crafts",
       "file": "Crafts.md",
-      "title": "🛠 Crafts — Taxonomie des processus de fabrication"
+      "title": "L'art du faire à Hybélior"
     },
     {
       "name": "Index",
       "file": "Index.md",
-      "title": "🎒 Items — Index",
+      "title": "Des choses qu'on porte, qu'on troque, qu'on offre",
       "isIndex": true
     },
     {
       "name": "Sources de Ressources",
       "file": "Sources de Ressources.md",
-      "title": "🌾 Sources de Ressources — d'où viennent les matériaux"
+      "title": "D'où viennent les choses"
     },
     {
       "name": "Types d'Items",
       "file": "Types d'Items.md",
-      "title": "📋 Types d'Items — Catalogue master"
+      "title": "Les natures des objets"
     }
   ],
   "GDD/03 - Mécaniques/Items/_Templates": [
@@ -1454,7 +1454,7 @@
     {
       "name": "Index",
       "file": "Index.md",
-      "title": "Comportements PNJ — vivre sa journée, pas attendre le joueur",
+      "title": "Comportements PNJ — vivre sa journée, pas attendre celui qui passe",
       "isIndex": true
     }
   ],

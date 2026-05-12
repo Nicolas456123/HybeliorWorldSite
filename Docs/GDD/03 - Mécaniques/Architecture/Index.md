@@ -1,123 +1,133 @@
 ---
-tags: [index, architecture, constructions, mécanique]
-type: index
+tags: [architecture, constructions, bâti, mécanique-narrative]
+type: mechanic-narrative
 status: drafted
-last_review: 2026-05-02
-needs_review_for: [placement-mécaniques-vs-systèmes, métiers-construction-manquants, frontière-mobilier-items, archétypes-individuels]
+last_review: 2026-05-12
 aliases: [Architecture - Index]
 ---
 
-# 🏛️ Architecture — Index
+# 🏛️ Architecture — le bâti d'Hybélior
 
-> Hub d'entrée pour tout ce qui concerne les **constructions** d'Hybelior : habitations, lieux de production, fortifications, infrastructure, mobilier, et constructions cosmiques. Branche soeur de [[Items/Index|Items]] dans la *Descente des couches concept→artefacts*.
+> *« Une maison n'est pas un toit posé sur des murs. C'est une promesse qu'un lieu nous gardera. Quand le voyageur entre, il ne voit pas la charpente — il sent si la promesse a été tenue. »*
 >
-> Source canonique du cadrage : sprint Phase 1 *Architecture* — 2026-05-01.
+> *— attribué à Maître Veyran d'Astravia, « Notes sur l'art de bâtir »*
 
 ---
 
-## Ancrage gameplay
+## Ce que les mortels élèvent
 
-L'architecture en Hybelior est une **mécanique de joueur** :
+Il y a, dans Hybélior, deux mémoires qui se répondent. Celle des chants, qu'on transmet de bouche à bouche, et qui s'efface aussitôt qu'un peuple cesse de la dire. Et celle de la pierre — qui tient debout sans qu'on s'en occupe, qui survit aux générations, qui finit par devenir, pour ceux qui passent, la seule preuve qu'un monde a été habité avant eux. Une cabane de bûcheron, un sanctuaire au bord d'une route, une cathédrale émergée d'un marais : toutes disent la même chose, à voix basse ou tonnante. *Quelqu'un est venu. Quelqu'un a voulu rester.*
 
-- Le joueur **construit** (via le métier [[Métiers#Architecte|Architecte]] et ses corps de métier supports)
-- Le joueur **achète / loue / hérite** des constructions (économie joueur-driven, voir [[Économie]])
-- Le joueur **possède** des biens immobiliers (habitations, ateliers, terres de guilde)
-- Les **guildes** débloquent des structures par progression (voir [[Guildes]] §Construction)
-- Les constructions sont **cibles d'archéologie** post-Souffle (voir [[Traces des Ères]] §Architecturales)
+Bâtir, à Hybélior, n'a jamais été un geste solitaire. C'est un **acte social** au sens fort — un moment où une communauté décide, par sa main collective, qu'elle va creuser une fondation dans le sol vivant et y poser un poids qu'elle n'enlèvera plus. On ne construit pas seul, et même quand on le fait, on construit avec ce que les autres ont taillé, abattu, cuit, fondu. La cabane la plus modeste demande déjà la pierre d'un mineur, la planche d'un menuisier, la tuile d'un maçon. Le palais le plus prestigieux n'est, au fond, que ce même geste répété à très grande échelle, et soutenu par des nations entières.
 
-> ⚠️ **Décision de placement à valider (D-ARCHITECTURE-01)** : ce dossier est posé en `03 - Mécaniques\Architecture\` par cohérence avec `Items\` (mécanique gameplay du joueur). Une alternative serait `04 - Systèmes\Architecture\` si on considère que l'architecture est une couche transversale de génération de monde plutôt qu'une mécanique. Recommandation actuelle : **rester en Mécaniques** — la construction est un acte joueur, le rendu visuel et la génération procédurale relèvent de [[Architecture Data-Driven]] (déjà en Systèmes).
+Cette page n'est pas un atlas du bâti. Elle est une porte d'entrée — une réflexion sur ce qu'on entend, à Hybélior, par *construire*, et sur les pages où ces gestes se déploient en détail.
 
 ---
 
-## Architecture en couches
+## Le sol et la pierre — ce que les terres donnent
 
-| Couche | Contenu | Fichiers |
-|--------|---------|----------|
-| **Cadrage** *(Phase 1 — ce sprint)* | 10 catégories canoniques, 6 niveaux d'opulence, mapping matériaux et métiers | [[Catégories de Constructions]] · [[Échelles et Niveaux]] · [[Matériaux de Construction]] · [[Mapping Métiers de Construction]] |
-| **Archétypes** *(Phase 2)* | 1 fichier par type majeur de construction (Maison, Forge, Taverne, Temple, Tour, Pont, Moulin, Coffre, Lit, Forteresse…) — ~130-180 archétypes en 3-4 sous-vagues | À créer après validation Nicolas |
-| **Templates paramétriques** *(Phase 3)* | Variations branchées sur générateurs : `BuildingTemplate`, `RoomLayout`, `FurnitureSet`, `OrnamentPack` — voir [[Architecture Data-Driven]] | À brancher |
-| **Signatures / authored** *(Phase 4)* | Constructions uniques narratives par pays/biome/époque (Caëspia d'Evertia, Cathédrale Engloutie d'Iskara, Tours d'Astravia…) | Étalé long terme |
+Aucun continent d'Hybélior ne se bâtit comme un autre. La géographie y voit à cela : elle donne ce qu'elle a sous la main, et reprend ce qu'on ne sait pas employer. Les terres rigoureuses du Nord enseignent l'économie ; les jungles du Sud enseignent la profusion ; les plaines tempérées enseignent l'équilibre.
 
----
+À **Astravia**, où les nuits sont longues et les ciels lus, les tours s'alignent sur les constellations et le verre teinte les étoiles. À **Onara**, on travaille l'ébène sombre et le bois patient — la lumière y est rare, alors on lui fait de la place. À **Cendara**, on bâtit dans la pierre noire et le basalte ; les forges naissent au flanc des volcans, et l'on dit que les lames qu'on y trempe se souviennent de la lave. À **Galenor**, sept nations en sept climats : marbre blanc des académies de Lumasar, charpentes de bois clair des hauts-perchoirs forestiers, briques peintes des ports cosmopolites. À **Iskara**, on bâtit ce que la mer reprendra ; la Cathédrale Engloutie reste, sur ses fondations sous-marines, le rappel le plus dur du monde. À **Trinoria**, on monte dans les arbres parce que les sols sont incertains, et l'on apprend que la verticalité a son économie propre.
 
-## Liens canoniques
+Cette diversité n'est pas un caprice de bâtisseurs. Elle est la **traduction architecturale de la Polyphonie cosmique** : là où une voix domine, le bâti prend une forme ; là où plusieurs se mêlent, il en prend une autre. Voir [[Géographie]] pour la lecture longue de ces correspondances entre terre et tonalité.
 
-- [[Items/Index|Items]] — frontière à arbitrer pour le mobilier (D-ARCHITECTURE-03) et les stations de craft (D-ARCHITECTURE-04)
-- [[Crafts]] — §Travail du bois et de la pierre (Forge architecturale, Verrerie, Maçonnerie) ; §Stations
-- [[Sources de Ressources]] — §Fabrication (Brique, Planche, Pierre, Plaque de verre)
-- [[Métiers]] — Architecte (chef de chantier), Menuisier, Sculpteur, Forgeron — corps de métier supports à compléter (D-ARCHITECTURE-02)
-- [[Géographie]] — biomes et 13 cultures de pays modulent les variants régionaux
-- [[Cosmologie]] — sanctuaires des 9 religions, monuments cosmiques (Cratères du Cardinal, Brèches du Néant)
-- [[Guildes]] — §Construction & développement des structures (avant-postes, forts, villes de guilde)
-- [[Le Souffle]] — §Traces 90/10 (10% des constructions deviennent permanentes via événement)
-- [[Traces des Ères]] — §Architecturales (Cathédrale Engloutie, Tours d'Astravia, Murailles Rouges de Vermilis…)
-- [[Architecture Data-Driven]] — générateurs `BuildingGenerator`, `OrnamentGenerator` à brancher Phase 3
-- [[Économie]] — marché immobilier joueur, baux, achats
+> *« On reconnaît un peuple à ses toits avant de connaître ses dieux. »*
+>
+> *— proverbe attribué aux marcheurs d'Onara*
 
 ---
 
-## Frontmatter Phase 2 (archétype de construction)
+## Le chantier — un acte qui rassemble
 
-```yaml
----
-tags: [archetype, architecture, <catégorie>]
-type: building_archetype
-catégorie: Habitation | Production | Social | Religieux | ...
-échelle_min: 1   # Modeste
-échelle_max: 5   # Magnifique (échelle 6 réservée Cosmique)
-matériaux_principaux: [Pierre simple, Planche, Tuile]
-métiers_principaux: [Architecte, Maçon, Charpentier]
-station_de_craft: false   # true si la construction sert de station (forge, alambic intégré)
-emprise_au_sol_m2: [20, 80]   # plage selon niveau
-occupants_typiques: [1, 5]
-coût_éclats: [100, 50000]
-biomes_typiques: [tempéré, plaine]
-cultures_variant: [Altram, Trinoria, Lythar]   # variants régionaux
-era_modulation: false   # true si une ère module l'apparence (ex. ruines bleuies sous Crépuscule Pourpre)
-status: drafted
----
-```
+À Hybélior, le chantier est l'un des rares moments où la société s'organise visiblement autour d'un même geste. Un Architecte trace le plan. Des maçons creusent. Des charpentiers lèvent la charpente. Des couvreurs ferment le toit. Des verriers posent les fenêtres. Des sculpteurs taillent les ornements. Personne ne fait à la place de personne, et personne ne finit la maison seul.
+
+Cette polyphonie des métiers est elle-même une école de vie. Ceux qui ont travaillé sur un grand chantier disent souvent que c'est là qu'ils ont compris ce qu'était un peuple — un assemblage de mains complémentaires, où chacune sait que l'autre fera ce qu'elle ne sait pas faire. Les corporations d'Hybélior — la Guilde des Bâtisseurs d'Evertia, les Fraternités de la Pierre d'Altram, la Société de la Charpente Haute de Trinoria — naissent toutes de cette évidence : *on ne bâtit pas seul, alors on s'organise pour bâtir ensemble*.
+
+Voir [[Mapping Métiers de Construction]] pour le détail des métiers du chantier, de leur hiérarchie, et de la manière dont ils s'articulent par niveau d'ouvrage.
 
 ---
 
-## Catalogue dynamique *(à activer après Phase 2)*
+## L'Architecte — celui qui tient le plan
 
-```dataview
-TABLE catégorie, échelle_min + "-" + échelle_max AS échelle, métiers_principaux, status
-FROM "03 - Mécaniques/Architecture/Archétypes"
-WHERE type = "building_archetype"
-SORT catégorie ASC, file.name ASC
-```
+Parmi tous les métiers du bâti, l'**Architecte** occupe une place à part. Il n'est ni maçon ni charpentier ; il ne pose ni pierre ni planche. Et pourtant, sans lui, rien ne se lève d'envergure. Son geste est celui du **plan** — la conception qui anticipe ce que les mains réaliseront, l'œil qui voit l'ensemble quand chacun ne voit que sa tâche, la signature qui répondra de l'œuvre quand elle sera debout.
 
----
+Un Architecte à Hybélior n'est pas un dessinateur. C'est un **garant** : il garantit que le bâtiment tiendra, qu'il abritera, qu'il vieillira bien. Sa réputation se forge sur des décennies, et se perd en une effondrement. Les grandes nations ont leurs Maîtres Architectes inscrits dans la mémoire des chroniqueurs : ceux qui ont conçu la Place royale d'Evertia, la cathédrale d'Iskara avant qu'elle ne sombre, les Tours astronomiques d'Astravia. Leur nom suit l'ouvrage aussi longtemps que l'ouvrage tient.
 
-## Volumétrie estimée Phase 2
-
-| Sous-vague | Cible | Volume |
-|------------|-------|--------|
-| 2.1 | Habitations + Mobilier de base | ~35-45 archétypes |
-| 2.2 | Lieux de production + Stations + Infrastructure rurale | ~35-45 |
-| 2.3 | Lieux sociaux + religieux + savoir + Fortifications | ~40-50 |
-| 2.4 | Infrastructure urbaine + Constructions cosmiques + Signatures | ~20-40 |
-| **Total** | | **~130-180 archétypes** |
-
-À multiplier ensuite par variants culturels (13 pays signature) et par ère de Trace (Phase 4 long terme).
+Voir [[Métiers]] pour la fiche complète de l'Architecte et de ses paliers de maîtrise.
 
 ---
 
-## Décisions ouvertes
+## Les degrés du bâti
 
-| Code | Décision | État |
-|------|----------|------|
-| **D-ARCHITECTURE-01** | Placement Mécaniques vs Systèmes | Recommandation : Mécaniques. À valider Nicolas. |
-| **D-ARCHITECTURE-02** | Métiers de construction manquants (Maçon, Charpentier, Couvreur, Vitrier, Tailleur de pierre) — ajouter aux 63 métiers ou les considérer comme sous-spécialisations de Menuisier/Sculpteur ? | À trancher avant Phase 2 |
-| **D-ARCHITECTURE-03** | Mobilier (table, chaise, lit, coffre…) : sous-catégorie Architecture OU famille séparée dans [[Items/Index\|Items]] (équipement utilitaire) ? | Recommandation initiale : **Architecture** (le mobilier "appartient au lieu" plus qu'au joueur). À valider. |
-| **D-ARCHITECTURE-04** | Stations de craft (forge, alambic, métier à tisser) : Architecture (lieu de production) OU Items §Outils (équipement) ? Cohérence avec [[Crafts]] §Stations. | Recommandation : **Architecture pour la station fixe**, [[Items]] pour l'outil portable. |
-| **D-ARCHITECTURE-05** | Constructions de Guilde (avant-postes, forts, villes) : pivot vers [[Guildes]] §Construction OU archétypes propres dans Architecture ? | Recommandation : **archétypes Architecture**, [[Guildes]] référence. |
-| **D-ARCHITECTURE-06** | Niveau 6 *Cosmique* : monnaie classique acceptée (10M+) ou strictement non-marchand (rituels, conditions cachées 🔒, traces) ? | Voir [[Échelles et Niveaux]] §Niveau 6 |
-| **D-ARCHITECTURE-07** | Variants culturels par pays — combien de pays signature pour Phase 4 ? Les 13 cultures ou un sous-ensemble prioritaire (Altram, Trinoria, Lythar, Astravia) ? | Long terme |
-| **D-ARCHITECTURE-08** | Frontmatter spécialisé `building_archetype` — champs définitifs à formaliser après validation des 5 fichiers de cadrage | Phase 2 |
+Tous les bâtiments d'Hybélior ne se valent pas, et personne, dans le monde, ne prétend l'inverse. Une hutte de bûcheron n'est pas un palais ; un sanctuaire de bord de route n'est pas une cathédrale capitale. Cette différence n'est pas une honte — c'est une **dignité** propre à chaque rang. Les habitants d'Hybélior reconnaissent six degrés d'opulence dans le bâti, du Modeste au Cosmique, et chacun a sa raison d'être.
+
+Le Modeste enseigne la suffisance. L'Honnête, la stabilité du peuple. L'Aisé, la prospérité du marchand. Le Distingué, la responsabilité de la noblesse. Le Magnifique, l'orgueil mesuré des capitales. Et le Cosmique — le bâti où la main mortelle ne suffit plus, où il faut que les Ères elles-mêmes consentent à laisser quelque chose debout.
+
+Voir [[Échelles et Niveaux]] pour la lecture longue de chacun de ces rangs, et pour les seuils d'urbanisme qui distinguent une maison isolée d'une grande ville.
 
 ---
 
-*Liens : [[Items/Index]] · [[Catégories de Constructions]] · [[Échelles et Niveaux]] · [[Matériaux de Construction]] · [[Mapping Métiers de Construction]] · [[Métiers]] · [[Crafts]] · [[Guildes]] · [[Géographie]] · [[Traces des Ères]] · [[Architecture Data-Driven]]*
+## Les familles de bâtiments
+
+Ce qu'on construit à Hybélior se range, dans l'usage courant des bâtisseurs, en grandes **familles fonctionnelles**. Les habitations, qui abritent les vies privées. Les lieux de production, où s'exercent les métiers d'artisanat. Les lieux sociaux, où l'on se rencontre, marchande, raconte. Les lieux religieux, consacrés à l'une des grandes traditions du monde. Les lieux de savoir, où l'érudition se conserve et se transmet. Les fortifications, qui défendent un territoire ou un seuil. L'infrastructure des villes et des campagnes, qui rend la vie quotidienne praticable. Le mobilier intérieur, qui meuble ce qu'on a bâti. Et, enfin, les constructions cosmiques — celles qui dépassent la fonction et entrent dans le mythe.
+
+Voir [[Catégories de Constructions]] pour la lecture longue de chacune de ces familles, avec leurs exemples typiques par culture.
+
+---
+
+## Les matières du monde
+
+Bâtir, c'est d'abord choisir une matière, et toute matière, à Hybélior, raconte d'où elle vient. La pierre se taille à la carrière, sous le ciseau d'un tailleur. Le bois descend de la forêt avec le bûcheron qui l'a abattu. La tuile cuit dans le four du tuilier. La brique sèche au soleil avant qu'on ne la pose. Le verre se souffle dans l'atelier du verrier. Le métal sort du minerai par le feu et le marteau.
+
+Chaque culture privilégie ses matières — l'Altram aime le fer apparent et la pierre noire, l'Astravia le verre teinté, la Cendara le basalte volcanique, l'Evertia le marbre. Et au-dessus de tout cela, il existe quelques matériaux rares, presque légendaires, qu'on n'emploie qu'aux plus hauts rangs : le bois pétrifié des forêts du Sommeil de Glace, la sève d'argent des arbres de Galenor, les pierres-cicatrices laissées par l'Arrachement, les écailles cosmiques qu'on trouve au fond des Brèches du Néant.
+
+Voir [[Matériaux de Construction]] pour le détail des matières, de leur origine, des métiers qui les travaillent, et des cultures qui les ont portées à leur sommet.
+
+---
+
+## Le bâti laissé par les Ères
+
+Au-dessus de tout ce qui se construit aujourd'hui, il existe à Hybélior un autre bâti — celui que les mortels n'ont pas levé, ou n'ont pas levé seuls. Les **constructions cosmiques** : sanctuaires que les Ères passées ont posés sur la croûte du monde, monuments laissés par les Souffles, ruines dont personne ne se rappelle plus l'origine.
+
+Caëspia, la cité signature d'Evertia. La Cathédrale Engloutie d'Iskara, dont la flèche affleure encore à marée basse. Les Tours d'Astravia, alignées sur des constellations qui n'existent plus. L'Anneau de Pierre de Pyrtara, dont aucune chronique ne dit qui l'a dressé. Les Falaises Chantantes de Baelor, qui résonnent quand le vent du Souffle les traverse. Les Cratères du Cardinal, cicatrices laissées par l'événement le plus violent que la mémoire du monde retienne.
+
+Ces bâtis-là ne se construisent plus — ils se **gardent**. Les peuples qui vivent à leurs pieds en ont la charge ; les pèlerins qui viennent les voir ont le devoir de les laisser intacts. Pour la lecture longue de ces traces et de ce qu'elles disent, voir [[Traces des Ères]].
+
+---
+
+## Le bâti et l'économie
+
+À Hybélior, une maison ne sort pas de nulle part. Elle coûte la matière, elle coûte la main-d'œuvre, elle coûte le temps du chantier. Les éclats — la monnaie courante du monde — passent par les mains du commanditaire, du chef de chantier, des artisans, des fournisseurs. Et les bâtiments, une fois debout, deviennent eux-mêmes des objets d'économie : on les achète, on les loue, on les hérite, on les revend.
+
+Le marché immobilier d'Hybélior est porté par les habitants. Aucune autorité centrale ne fixe les prix ; ce sont les villes, les corporations, les voyageurs qui les négocient. Voir [[Économie]] pour la lecture longue des flux qui irriguent le bâti, et pour le rôle particulier des grandes nations dans la circulation des biens immobiliers.
+
+---
+
+## Une mémoire de pierre
+
+Au bout du compte, ce qu'Hybélior dit par son architecture, c'est ceci : *un monde se reconnaît à ce qu'il laisse debout*. Les chants s'effacent, les voyageurs partent, les Ères tournent — mais la pierre reste, le bois patient reste, et chaque génération hérite d'un bâti qu'elle n'a pas levé, qu'elle vient simplement habiter.
+
+Habiter une construction à Hybélior, c'est donc accepter une **dette discrète** envers ceux qui l'ont bâtie. Et bâtir à son tour, c'est rendre la pareille à ceux qui viendront. Ce contrat silencieux, transgénérationnel, est peut-être ce que l'architecture du monde enseigne de plus profond. Plus profond, en tout cas, qu'aucun plan ne saurait le dire.
+
+> *« On ne construit pas pour soi. On construit pour ceux qui viendront s'asseoir là où l'on n'aura plus d'âge. »*
+>
+> *— inscription au seuil de la Maison des Bâtisseurs, Lumasar*
+
+---
+
+## Voir aussi
+
+- [[Catégories de Constructions]] — les grandes familles fonctionnelles du bâti
+- [[Échelles et Niveaux]] — les six degrés d'opulence et les paliers d'urbanisme
+- [[Matériaux de Construction]] — les matières du monde et leurs cultures
+- [[Mapping Métiers de Construction]] — le chantier, ses ouvriers, ses corporations
+- [[Métiers]] — les fiches détaillées de l'Architecte et des corps de métier
+- [[Sources de Ressources]] — d'où viennent les matières premières
+- [[Économie]] — le marché immobilier porté par les habitants
+- [[Géographie]] — comment les terres modèlent ce qu'on y bâtit
+- [[Traces des Ères]] — les bâtis cosmiques laissés par les Souffles passés
+- [[Cosmologie]] — les sanctuaires des grandes traditions religieuses
+- [[Guildes]] — les corporations bâtisseuses et les édifices collectifs
+
+*Implémentation technique (générateurs, templates paramétriques, données structurées) : [[Architecture Data-Driven]]*

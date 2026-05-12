@@ -1,251 +1,200 @@
 ---
-tags: [architecture, catégories, taxonomie, mécanique]
-type: mechanic
+tags: [architecture, bâti, traité, familles, narration]
+type: mechanic-narrative
 status: drafted
-last_review: 2026-05-01
-needs_review_for: [arbitrage-mobilier-vs-items, arbitrage-stations-vs-items, validation-10-catégories]
+last_review: 2026-05-12
 ---
 
-# 🗂 Catégories de Constructions — 10 grandes familles
+# 🗂 Les familles du bâti — traité des constructions d'Hybélior
 
-> Toute construction d'Hybelior se classe en **10 catégories** canoniques. Cette taxonomie est la première couche du système Architecture : tout archétype de construction appartient à exactement UNE catégorie principale (avec possibilité de tag secondaire pour les cas hybrides — taverne+auberge, forge+atelier).
+> *« Demande à un voyageur ce qu'il a vu dans une ville, il te citera son auberge et sa cathédrale. Demande à un bâtisseur, il te citera ses fondations et ses charpentes. L'un te raconte les hommes ; l'autre te raconte ce qui les abrite. Les deux disent la même chose, et pourtant ils ne se croisent jamais. »*
 >
-> Les **catégories** définissent le rôle gameplay et la fonction sociale ; les [[Échelles et Niveaux|niveaux d'opulence]] (1-6) sont **transversaux** à toutes les catégories.
+> *— Maître Veyran d'Astravia, marginalia d'un traité d'architecture*
 
 ---
 
-## Les 10 catégories
+## Pourquoi classer ce qu'on bâtit
 
-| # | Catégorie | Définition courte | Échelle dominante |
-|---|-----------|-------------------|-------------------|
-| 1 | **Habitations** | Lieux de vie privés (du sans-abri à la cour royale) | Personnel → Élite |
-| 2 | **Lieux de production** | Ateliers et stations productives des métiers d'artisanat | Économique |
-| 3 | **Lieux sociaux** | Rassemblement public, commerce, divertissement | Communautaire |
-| 4 | **Lieux religieux** | Pratique spirituelle des 9 religions + cultes locaux | Sacré |
-| 5 | **Lieux de savoir** | Érudition, archives, transmission des connaissances | Intellectuel |
-| 6 | **Fortifications** | Défense militaire, contrôle territorial | Stratégique |
-| 7 | **Infrastructure urbaine** | Aménagements collectifs civiques | Civique |
-| 8 | **Infrastructure rurale** | Production agricole et élevage | Subsistance |
-| 9 | **Mobilier et aménagement** | À l'intérieur des bâtiments (frontière à arbitrer — voir D-ARCHITECTURE-03) | Intérieur |
-| 10 | **Constructions cosmiques** | Lieux uniques liés au cosmique, traces, monuments signature | Mythique |
+Les bâtisseurs d'Hybélior ont, depuis longtemps, l'habitude de ranger les constructions par familles. Non pas pour la pédanterie d'un classement — mais parce qu'**un bâtiment ne se conçoit pas comme un autre selon ce qu'on lui demande**. Une maison s'élève pour abriter une vie privée ; une taverne pour rassembler des inconnus ; un temple pour accueillir une voix qui dépasse les vivants. Ces trois ouvrages partagent la pierre et le bois, mais leur âme n'a rien de commun.
+
+Cette page n'est pas un inventaire exhaustif. C'est une **lecture par fonctions sociales** — la manière dont les anciens architectes d'Astravia, les corporations d'Altram, les Maîtres de Lumasar ont, chacun à leur manière, distingué les grandes familles du bâti. Dix familles s'en dégagent. Aucune n'épuise le monde ; toutes ensemble en racontent l'ossature.
 
 ---
 
-## 1. Habitations
+## Les habitations — où l'on dort
 
-> Lieux de vie privés. Du sans-abri à la cour royale. **L'échelle module entièrement** : niveau 1 = hutte rurale, niveau 5 = palais.
-
-| Aspect | Détail |
-|--------|--------|
-| **Description** | Hébergement privé, propriété individuelle ou familiale. Peut héberger 1 à plusieurs dizaines d'occupants selon niveau. |
-| **Exemples typiques** | Abri de fortune · Hutte · Maisonnette · Maison de ville · Manoir · Demeure noble · Palais |
-| **Échelles d'opulence couvertes** | 1-6 (toutes) |
-| **Métiers principaux** | [[Métiers#Architecte\|Architecte]], Charpentier *(D-ARCHITECTURE-02)*, [[Métiers#Menuisier\|Menuisier]], Maçon *(D-ARCHITECTURE-02)*, Couvreur *(D-ARCHITECTURE-02)* |
-| **Matériaux typiques** | Bois, [[Brique]], [[Pierre]], [[Planche]], [[Tissu]] (tentures), [[Plaque de verre]] (niveaux ≥3) |
-| **Particularités** | Peuvent héberger un ou plusieurs **Foyers** (Igniculus, Éthéré du foyer — voir [[Cosmologie]]). Module économique [[Économie]] : achat / location / héritage. |
-
----
-
-## 2. Lieux de production
-
-> Ateliers de métiers d'artisanat. Une **construction-atelier** héberge ses **stations de craft** (forge, métier à tisser, alambic — voir [[Crafts]] §Stations) et son artisan/PNJ.
-
-| Aspect | Détail |
-|--------|--------|
-| **Description** | Lieu où un métier d'artisanat est exercé, abritant ses stations dédiées. Le bâtiment est l'enveloppe ; les stations sont les outils intégrés (D-ARCHITECTURE-04). |
-| **Exemples typiques** | Forge · Atelier de tisserand · Tannerie · Échoppe d'apothicaire · Boulangerie · Brasserie · Atelier de menuiserie · Bijouterie · Verrerie · Scriptorium · Moulin (à eau / à vent) |
-| **Échelles d'opulence couvertes** | 1-5 (le 6 est exceptionnel — atelier-cathédrale d'un Maître absolu) |
-| **Métiers principaux pour la *construire*** | Architecte, Maçon, Charpentier (charpente lourde si four), Forgeron architectural (D-ARCHITECTURE-02 : variant spécialisé du Forgeron pour pièces de structure métalliques) |
-| **Métier qui *l'occupe*** | Le métier productif (Forgeron, Tisserand, Apothicaire…) — voir [[Crafts]] |
-| **Matériaux typiques** | Pierre + Brique réfractaire (forges, fours), Planche + Bois ouvragé (ateliers bois), Cuivre/Bronze (alambics) |
-| **Particularités** | **Frontière à arbitrer** : le bâtiment-atelier est Architecture ; les **outils portables** (marteau de forge, mortier, plume) restent en [[Items]] §Outils. La station fixe (forge complète, four à pain, métier à tisser monumental) est en Architecture. |
-
-> Cf. [[AccessExport/TypeLieu.csv]] §Catégorie 8 *(Artisanal)* : Mine · Carrière · Forge · Fonderie · Scierie · Tannerie · Filature · Boulangerie · Brasserie · Atelier d'alchimie · Atelier de calligraphie · Marché · Banque · Ferme · Verger · Moulin à vent · Moulin à eau · Écurie · Élevage · Serre. **Confirme la pertinence des catégories 2 et 8 du présent système.**
-
----
-
-## 3. Lieux sociaux
-
-> Rassemblement public. Commerce, divertissement, hospitalité. Cœur de la vie communautaire et de la rencontre PNJ/joueurs.
-
-| Aspect | Détail |
-|--------|--------|
-| **Description** | Espaces de socialisation et de transit. Souvent ouverts au public, parfois payants ou réservés à une faction. |
-| **Exemples typiques** | Taverne · Auberge · Place publique · Marché couvert · Halle · Théâtre · Arène · Bains publics · Hôtel des ventes · Échoppe de marchand · Maison de jeu |
-| **Échelles d'opulence couvertes** | 2-5 (le niveau 1 *Modeste* est marginal — un appentis-buvette ; le 6 est exceptionnel — théâtre impérial d'Evertia) |
-| **Métiers principaux pour la *construire*** | Architecte, Maçon, Charpentier, Sculpteur (ornement) |
-| **Métier qui *l'occupe*** | [[Métiers#Tavernier\|Tavernier]], [[Métiers#Aubergiste\|Aubergiste]], [[Métiers#Marchand\|Marchand]], Acteur, Musicien, Banquier |
-| **Matériaux typiques** | Bois + Pierre (tavernes), Pierre noble + Marbre (théâtres haut tier), Tissu (tentures, scènes) |
-| **Particularités** | Souvent **lieu d'événements émergents** (rencontres PNJ, quêtes, rumeurs, Bourse des Augures). L'échelle module la qualité du buff de repos ([[Métiers#Aubergiste\|Aubergiste]] : régénération Labeur accélérée). |
-
----
-
-## 4. Lieux religieux
-
-> Pratique spirituelle des 9 religions canoniques + cultes locaux (5 mineures + cultes ancestraux). Voir [[Cosmologie]] §Religions.
-
-| Aspect | Détail |
-|--------|--------|
-| **Description** | Édifice consacré au culte d'une ou plusieurs entités cosmiques. Peut être public (temple, cathédrale) ou caché (sanctuaire, reliquaire). |
-| **Exemples typiques** | Sanctuaire (niveau 1-2) · Chapelle · Temple · Basilique · Cathédrale (niveau 5) · Reliquaire · Crypte · Cercle druidique · Monastère · Oratoire de pèlerin |
-| **Échelles d'opulence couvertes** | 1-6 (le 6 est réservé aux édifices liés à un Cosmique ou Éternel — Temple des Flammes Éternelles de Cendara, Cathédrale Engloutie d'Iskara) |
-| **Métiers principaux** | Architecte, Maçon, Sculpteur (statues d'entités), Verrier (vitraux), Enchanteur (rituels d'inauguration), Prêtre (consécration) |
-| **Matériaux typiques** | Pierre noble (Marbre), Plaque de verre teintée (vitraux), Bois précieux (autels), Métal précieux (ornements), Cristal (cathédrales du Lien) |
-| **Particularités** | Chaque religion a sa **signature architecturale** (D-ARCHITECTURE-07). Variants par culture — un temple de [[Lex Petra]] à Altram diffère d'un temple de [[Lex Petra]] à Lumasar. Lien direct avec [[Métiers#Prêtre\|Prêtre]] et [[Prédiction]] §Maîtrise_Foi. |
-
----
-
-## 5. Lieux de savoir
-
-> Érudition et archives. Transmission de connaissances. Souvent liés aux sièges Éthérés *Legatus, Lingua, Luxa* ([[Cosmologie]] §Sièges Éthérés).
-
-| Aspect | Détail |
-|--------|--------|
-| **Description** | Lieu de conservation, d'étude et de transmission du savoir. |
-| **Exemples typiques** | Bibliothèque · Scriptorium · Observatoire astronomique · École · Académie · Université · Salle de cartes · Salle de prédiction · Cabinet de curiosités |
-| **Échelles d'opulence couvertes** | 2-6 (rares en niveau 1 — un scriptorium minimal ; les Académies de Lumasar atteignent 5-6) |
-| **Métiers principaux** | Architecte, Maçon, Menuisier (étagères, pupitres), Verrier (lentilles d'observatoire), Vitrier (D-ARCHITECTURE-02) |
-| **Métier qui *l'occupe*** | [[Métiers#Bibliothécaire\|Bibliothécaire]], [[Métiers#Astronome\|Astronome]], [[Métiers#Scribe\|Scribe]], [[Métiers#Cartographe\|Cartographe]], [[Métiers#Historien\|Historien]], [[Métiers#Enseignant\|Enseignant]] |
-| **Matériaux typiques** | Bois ouvragé + Bois précieux (étagères, pupitres), Pierre fine, Plaque de verre (lentilles, fenêtres), Pigment (cartes), Parchemin (contenu) |
-| **Particularités** | **Cibles d'archéologie privilégiées** ([[Traces des Ères]] §Architecturales — Tours d'Astravia alignées sur constellations disparues). |
-
----
-
-## 6. Fortifications
-
-> Défense militaire et contrôle territorial. Couvre les structures **purement défensives**, les **structures mixtes habitation+défense** (château) et les **éléments défensifs urbains** (murs, portes).
-
-| Aspect | Détail |
-|--------|--------|
-| **Description** | Structures conçues pour résister à un siège ou contrôler un point stratégique. Échelle majeure du gameplay [[Guildes]] §Sièges. |
-| **Exemples typiques** | Tour de guet · Avant-poste · Bastion · Mur d'enceinte · Porte fortifiée · Caserne · Fort · Citadelle · Forteresse · Donjon (au sens médiéval : tour-maîtresse) · Châtelet |
-| **Échelles d'opulence couvertes** | 2-6 (niveau 1 marginal — palissade de bois ; niveau 6 : Citadelle Volante mythique d'Aerion) |
-| **Métiers principaux** | Architecte (chef de chantier militaire), Maçon (murs porteurs), Tailleur de pierre, Forgeron architectural (herses, ponts-levis), Charpentier (échafaudages, machines de siège) |
-| **Métier qui *l'occupe*** | [[Métiers#Soldat\|Soldat]], [[Métiers#Garde\|Garde]], [[Métiers#Chevalier\|Chevalier]] |
-| **Matériaux typiques** | Pierre simple + Pierre taillée (murs), Brique réfractaire (intérieur), Métal (herses, charnières, machines), Bois lourd (charpentes, machines de siège) |
-| **Particularités** | **Pivot fort** vers [[Guildes]] §Construction & développement (D-ARCHITECTURE-05). Les forts/forteresses de guilde sont des archétypes d'Architecture instanciés selon le niveau de guilde. Cibles privilégiées des [[Guildes]] §Sièges. |
-
-> Cf. [[AccessExport/TypeLieu.csv]] §Catégorie 2 *(Militaire)* : Forteresse · Château · Bastion · Avant-poste · Rempart · Camp militaire · Prison · Tour de guet. **Liste à intégrer en Phase 2.**
-
----
-
-## 7. Infrastructure urbaine
-
-> Aménagements collectifs civiques. Ce qui rend une ville **vivable et belle** au-delà des bâtiments individuels.
-
-| Aspect | Détail |
-|--------|--------|
-| **Description** | Éléments de la voirie, du réseau et du paysage urbain. Souvent gérés par la municipalité ou la guilde occupante. |
-| **Exemples typiques** | Pont · Route pavée · Fontaine · Aqueduc · Égouts · Lampadaire · Banc public · Statue commémorative · Place pavée · Quai · Phare · Horloge publique |
-| **Échelles d'opulence couvertes** | 1-5 (le niveau 6 est rare — Pont des Astres, Phare de Solena enchanté) |
-| **Métiers principaux** | Architecte, Maçon (ponts, aqueducs), Tailleur de pierre, Sculpteur (statues), Verrier (lampadaires haut tier), Forgeron architectural (charpentes métalliques de pont) |
-| **Matériaux typiques** | Pierre simple + Pierre taillée (ponts, routes), Métal (lampadaires, horloges), Plaque de verre (phares, lampes) |
-| **Particularités** | **Module la perception de richesse d'une ville** — une ville niveau 4 a des routes pavées et des fontaines ; une ville niveau 1 a des sentiers de terre. Lien direct avec [[Économie]] et la grille [[AccessExport/TailleVille.csv]]. |
-
----
-
-## 8. Infrastructure rurale
-
-> Production agricole et élevage. **Distincte des Lieux de production** (artisanat) car elle exploite la **terre vivante**.
-
-| Aspect | Détail |
-|--------|--------|
-| **Description** | Constructions liées à l'agriculture, l'élevage, et la transformation primaire végétale/animale. |
-| **Exemples typiques** | Grange · Étable · Écurie · Bergerie · Poulailler · Verger (clos planté) · Champ cultivé · Vigne · Rucher · Serre · Moulin (à eau / à vent) · Pressoir · Cellier |
-| **Échelles d'opulence couvertes** | 1-4 (le niveau 5 est rare — domaine viticole impérial d'Evertia) |
-| **Métiers principaux pour la *construire*** | Architecte, Charpentier, Couvreur (chaume), Maçon (cellier en pierre) |
-| **Métier qui *l'occupe*** | [[Métiers#Agriculteur\|Agriculteur]], [[Métiers#Berger\|Berger]], [[Métiers#Apiculteur\|Apiculteur]], [[Métiers#Éleveur de créature\|Éleveur de créature]], [[Métiers#Meunier\|Meunier]] |
-| **Matériaux typiques** | Bois + Chaume (granges, étables), Pierre simple (celliers, fondations), Argile / Torchis (constructions populaires) |
-| **Particularités** | **Pivot vers [[Sources de Ressources]]** — c'est ici que sont récoltés/produits les intrants alimentaires (Céréale, Miel, Œuf, Laine creature, Lait). Le Verger et le Champ cultivé sont à mi-chemin entre construction et zone de récolte (à arbitrer Phase 2). |
-
-> Cf. [[AccessExport/TypeLieu.csv]] §Catégorie 8 (mélange Artisanal+Rural) : Ferme · Verger · Moulin à vent · Moulin à eau · Écurie · Élevage · Serre. **Question à arbitrer (D-ARCHITECTURE-09)** : la catégorie 8 du CSV mélange artisanal et rural — recommander un split en Phase 2.
-
----
-
-## 9. Mobilier et aménagement
-
-> ⚠️ **Frontière à arbitrer (D-ARCHITECTURE-03)** : le mobilier appartient-il à Architecture (sous-catégorie "ce qui est *à l'intérieur* d'une construction") ou à [[Items]] §Équipement utilitaire (objet possédé par le joueur, déplaçable) ?
+> *« Une maison est l'unique endroit du monde où l'on peut fermer la porte sans qu'on vous le reproche. »*
 >
-> **Recommandation initiale** : Architecture pour le mobilier **fixe / lié au lieu** (foyer, four à pain intégré, lit-cabane, étagère murale), [[Items]] pour le mobilier **portable / personnel** (tabouret, coffre de voyage, malle, escabeau). Critère pratique : *« peut-on le ranger dans un sac à dos ? »* → Items. *« Est-il scellé/encombrant ? »* → Architecture.
+> *— proverbe de Mosrack*
 
-| Aspect | Détail |
-|--------|--------|
-| **Description** | Éléments d'aménagement intérieur des bâtiments. Module la fonctionnalité (lit = repos, foyer = cuisine domestique) et l'opulence perçue. |
-| **Exemples typiques (fixes — Architecture)** | Foyer · Cheminée · Four à pain (domestique) · Lit-cabane · Lit à baldaquin · Étagère murale · Pupitre fixe · Bibliothèque encastrée · Bain (cuve scellée) · Forge domestique miniature · Autel domestique · Coffre encastré |
-| **Exemples typiques (portables — [[Items]])** | Tabouret · Chaise simple · Petite table · Coffre de voyage · Malle · Escabeau · Paravent · Lit pliant |
-| **Échelles d'opulence couvertes** | 1-6 (le mobilier suit l'échelle de la construction qui l'héberge) |
-| **Métiers principaux** | [[Métiers#Menuisier\|Menuisier]] (l'essentiel), Sculpteur (ornements), Tisserand (tentures, baldaquins), Forgeron (ferronnerie, serrures), Tapissier *(à proposer ?)* |
-| **Matériaux typiques** | Bois + Bois ouvragé (l'essentiel), Tissu (tentures, sièges), Pierre (foyers, bains), Métal (charnières, serrures), Cuir tanné (sièges haut tier) |
-| **Particularités** | Une **construction se livre nue ou meublée** ; le mobilier (au sens Architecture) est inclus dans le coût d'achat. Le joueur peut ajouter du mobilier portable (Items) par-dessus. |
+C'est la première famille, parce que c'est la plus universelle. On ne trouve pas de peuple à Hybélior qui n'élève pas d'habitations — même les nomades du Lythar, qui démontent leurs tentes-lourdes chaque saison, considèrent que ces toiles de cuir tendues sur leurs structures osseuses sont des maisons à part entière.
+
+Une habitation peut tenir dans une seule pièce — la cabane du bûcheron, l'abri du pêcheur — ou s'étendre sur des ailes entières — la demeure noble, le palais royal. Ce qui distingue l'une de l'autre n'est pas la fonction, mais le rang : l'opulence du bâti, le nombre des occupants, la qualité des matières. Du taudis à la cour impériale d'Evertia, c'est la **même intention** qui se déploie — celle de tenir, sous un toit qu'on a soi-même choisi ou hérité, ce qu'on appelle sa vie privée.
+
+À Hybélior, chaque culture a sa manière d'habiter. Les **Altrami** vivent autour du foyer ; le feu n'est jamais loin, et les maisons s'organisent en cercles concentriques autour de l'âtre central. Les **Astraviens** privilégient les hauteurs ; leurs maisons ont souvent une terrasse d'observation, parfois plus large que le logis lui-même. Les **Trinoriens** bâtissent dans les arbres ou sur pilotis, parce que le sol forestier est traître. Les **Iskariens** des côtes savent bâtir bas et solide, contre les tempêtes qui montent de l'océan. Les **Cendarens** des terres volcaniques creusent dans la pierre noire, parce que la pierre noire abrite mieux du feu intérieur du monde que toute charpente.
+
+Une habitation héberge presque toujours un **foyer** — au sens propre du feu domestique, et au sens lointain de la présence d'un Igniculus, ce petit éternel des flammes utiles, dont les anciens disent qu'il choisit son lieu et ne le quitte plus. Là où il y a foyer, il y a maison. C'est, dans toutes les traditions, le seuil minimal.
 
 ---
 
-## 10. Constructions cosmiques
+## Les lieux de production — où l'on transforme
 
-> Lieux uniques liés au cosmique. Sortent du cadre marchand standard. Souvent **uniques-monde**, **traces permanentes** (voir [[Traces des Ères]]).
+Si les habitations sont les lieux où l'on est, les lieux de production sont les lieux où l'on **fait**. Ateliers, forges, tanneries, brasseries, boulangeries, scriptoria, verreries — toutes les constructions où une matière brute devient autre chose entrent dans cette famille.
 
-| Aspect | Détail |
-|--------|--------|
-| **Description** | Constructions exceptionnelles soit liées à un Éternel/Cosmique, soit générées par un Souffle Cardinal, soit signature joueur reconnue par le monde. **Hors barème de prix standard.** |
-| **Exemples typiques (lore canonique)** | Porte de Voyage de [[Cosmologie\|Navigor]] (disparues) · Brèche du Néant · Cratère du Cardinal · Monument signature joueur · Citadelle Volante d'Aerion · Cathédrale Engloutie d'Iskara · Tours d'Astravia · Anneau de Pierre de Pyrtara · Falaises Chantantes de Baelor · Phare des Astres |
-| **Exemples typiques (générés)** | Statue commémorative d'un boss vaincu · Forteresse "du Souffle de [date]" baptisée par tenue de siège · Monument inscrit dans toutes les Parties suivantes |
-| **Échelles d'opulence couvertes** | 6 *(Cosmique, voir [[Échelles et Niveaux]])* exclusivement |
-| **Métiers principaux** | Architecte (Maître), Sculpteur (Maître), Enchanteur (consécration), parfois plusieurs métiers en collaboration rituelle. **Conditions cachées 🔒** souvent requises. |
-| **Matériaux typiques** | Matériaux exotiques uniquement : Bliysium (légendaire de Myrtam), Acier Éternel, Spuelium, Cristaux cosmiques, Filaments du Vide, Pierres-cicatrices, Sève d'Argent, Bois pétrifié — voir [[Matériaux de Construction]] §Niveau 6 |
-| **Particularités** | Souvent **non-marchandes** (D-ARCHITECTURE-06) : se gagnent par condition cachée, accomplissement d'ère, ou Trace permanente. Sont des **POIs explorables** ([[Traces des Ères]] §1 Géologiques + §2 Architecturales). |
+Un atelier n'est jamais un simple toit. C'est un **outillage en pierre et en bois** : la forge n'existe pas sans son four en briques réfractaires, sa cheminée d'évacuation, son enclume scellée dans son socle, sa cuve d'eau pour la trempe. La verrerie n'existe pas sans son grand four à très haute température, ses tables de roulage, ses bancs de soufflage. La brasserie n'existe pas sans ses cuves, sa chaudière, ses caves de fermentation. Le bâtiment et son outillage forment un même corps — on ne les pense pas séparément.
+
+Cette famille est celle qu'**occupent les métiers d'artisanat**. Un Forgeron habite sa forge, un Tisserand son atelier, un Apothicaire son laboratoire, un Scribe son scriptorium. Le lieu et le métier finissent souvent par se confondre : on dit *« la forge de Maître Aldric »* avant de dire *« la maison de Maître Aldric »*, parce que c'est là qu'il vit le plus de ses heures.
+
+Les villages d'Hybélior tournent autour de leurs ateliers. Un hameau aura sa forge de carrefour ; un village, sa forge plus son moulin plus sa tannerie ; une ville, ses corporations entières organisées en quartiers. Cette densité productive est, à elle seule, un indicateur de la vitalité d'un peuplement.
 
 ---
 
-## Échelle d'urbanisme typique par catégorie
+## Les lieux sociaux — où l'on se rencontre
 
-> Croise les 10 catégories avec les 5 paliers d'urbanisme ([[Échelles et Niveaux]] §Échelles d'urbanisme, source [[AccessExport/TailleVille.csv]]). Indique pour chaque catégorie l'**échelle d'urbanisme minimum** où elle apparaît typiquement, et l'**échelle maximum** où elle s'épanouit. Ce n'est pas une contrainte dure — un mécène peut faire bâtir une cathédrale à un hameau — mais c'est le **mode statistique** attendu pour la génération procédurale et le peuplement des localités.
+> *« Une taverne est la cathédrale des bavards. Et les bavards, c'est ce qui reste du monde quand on enlève les chants. »*
+>
+> *— inscription gravée à l'entrée du Tonneau Brisé, Mosrack*
 
-| # | Catégorie | Échelle min | Échelle max | Notes |
-|---|-----------|-------------|-------------|-------|
-| 1 | **Habitations** | Maison isolée | Grande Ville | Toutes échelles ; l'opulence varie du taudis au palais. |
-| 2 | **Lieux de production** | Hameau (atelier rural, forge de carrefour) | Grande Ville (manufactures impériales) | Le niveau 1 *Modeste* peut apparaître en Maison isolée (forge personnelle d'ermite-forgeron) mais c'est marginal. |
-| 3 | **Lieux sociaux** | Village (taverne, place, auberge modeste) | Grande Ville (théâtre impérial, halle marchande) | Le niveau 1 *Modeste* (buvette de bord de route) existe en Hameau ou même Maison isolée (relais), mais la fonction sociale véritable commence au Village. |
-| 4 | **Lieux religieux** | Hameau (sanctuaire, oratoire de carrefour) | Grande Ville (cathédrale capitale) | Niveau 1 (pierre dressée consacrée, niche votive) possible en Maison isolée. |
-| 5 | **Lieux de savoir** | Village (école, scriptorium minimal) | Grande Ville (académie, université, observatoire majeur) | Rares en Hameau sauf cas signature (ermitage d'astronome). |
-| 6 | **Fortifications** | Ville (remparts, garde permanente) | Grande Ville (citadelle, forteresse capitale) | Tour de guet isolée possible hors urbanisme civil (sur route, frontière) — relève alors de l'infrastructure militaire pure. |
-| 7 | **Infrastructure urbaine** | Village (place pavée, fontaine, pont communal) | Grande Ville (aqueduc, égouts, phare, horloge) | La présence et qualité de l'infrastructure urbaine **est l'indicateur direct de l'échelle d'urbanisme** (Village = sentiers + 1 fontaine ; Grande Ville = pavage + aqueduc + lampadaires). |
-| 8 | **Infrastructure rurale** | Maison isolée | Village (au-delà l'agriculture est péri-urbaine, hors enceinte) | Présente jusqu'en Grande Ville en péri-urbain (vergers attenants, pressoirs collectifs), mais le **cœur** de la catégorie reste Maison isolée → Village. |
-| 9 | **Mobilier et aménagement** | Maison isolée | Grande Ville | Suit l'échelle de la construction qui l'héberge ; pas de seuil propre. |
-| 10 | **Constructions cosmiques** | Variable (peut être totalement isolée) | Variable (souvent dans/près d'une Grande Ville) | Les Cratères du Cardinal, Brèches du Néant, Anneau de Pierre de Pyrtara peuvent apparaître en pleine campagne (donc Maison isolée par défaut sur l'échelle d'urbanisme) ; Caëspia est attachée à une Grande Ville signature. **Hors barème standard.** |
+Les lieux sociaux sont ceux où **les inconnus se rencontrent**. La taverne du soir, l'auberge où l'on dort une nuit avant de repartir, la place du marché où la rumeur circule, la halle couverte où les marchands étalent leurs comptoirs, le théâtre où la ville entière vient écouter une histoire, les bains publics où l'on se lave en parlant fort.
 
-> Croisement avec densité PNJ : voir [[Concepts Fondamentaux IA PNJ#9. Population — spawn, density, lifecycle|Concepts Fondamentaux IA PNJ §9 Population]] qui chiffre le nombre de PNJ persistants/transients par échelle d'urbanisme.
+Ces bâtiments sont les **poumons d'une ville**. Sans eux, une cité n'est qu'un alignement de maisons closes ; avec eux, elle commence à respirer. Les voyageurs y débarquent leurs nouvelles ; les marchands y dénouent leurs affaires ; les jeunes y trouvent des rencontres ; les vieux y rabâchent leurs guerres. Plus une ville est grande, plus ses lieux sociaux se spécialisent — une auberge pour les marchands, une autre pour les pèlerins, un théâtre pour le peuple, un autre pour les nobles, des bains pour les hommes et d'autres pour les femmes.
+
+Chaque culture porte ses lieux sociaux à sa manière. À **Mosrack**, la taverne est l'institution centrale ; on dit qu'on y règle plus d'affaires que dans tous les tribunaux du continent. À **Evertia**, les théâtres impériaux peuvent contenir des milliers de spectateurs, et la ville s'arrête lorsque s'y joue une grande pièce. À **Onara**, les bains-rituels remplacent la taverne pour la rumeur sociale ; on s'y connaît dans la chaleur de la vapeur. À **Tyndara**, les ports tiennent lieu de places centrales — c'est sur les quais, entre deux navires, qu'on apprend ce que le monde a fait pendant qu'on dormait.
 
 ---
 
-## Cas hybrides à arbitrer (Phase 2)
+## Les lieux religieux — où l'on s'incline
 
-| Cas | Tension | Recommandation initiale |
-|-----|---------|--------------------------|
-| **Auberge** | Habitation (chambres) + Social (taverne au rez) ? | Tag principal = Social, secondaire = Habitation. Une auberge **héberge des PNJ/joueurs de passage**, c'est sa fonction première. |
-| **Château** | Habitation noble + Fortification ? | Tag principal = Fortification, secondaire = Habitation. Un château est *avant tout* un édifice défensif. |
-| **Manoir** | Habitation + parfois Domaine rural ? | Habitation. Si attaché à des infrastructures rurales (étables, vergers), celles-ci sont des constructions distinctes. |
-| **Maison du forgeron** *(cf. [[AccessExport/Batiment.csv]])* | Habitation + Lieu de production ? | Si la forge est intégrée au logis : tag principal = Lieu de production, secondaire = Habitation. Cas fréquent dans les villages. |
-| **Tour de sorcier** *(cf. [[AccessExport/Batiment.csv]])* | Habitation + Lieu de savoir + Lieu religieux ? | Tag principal = Habitation, secondaires = Savoir + parfois Religieux. Variant signature pour [[Métiers#Mage\|Mages]]. |
-| **Marché du parchemin** *(cf. [[AccessExport/Batiment.csv]])* | Social (commerce) + Savoir (parchemins = savoir) ? | Tag principal = Social, secondaire = Savoir. |
-| **Ruines / Temple abandonné / Tombeau / Catacombes** *(cf. [[AccessExport/TypeLieu.csv]] §4 Non-habité)* | État dégradé d'autres catégories ? | **Pas une catégorie distincte** — ce sont des **états** d'autres catégories (Religieux abandonné, Habitation effondrée). Modélisation Phase 2 : flag `state: ruined / restored / active`. |
+À Hybélior, neuf grandes traditions religieuses partagent le monde, et chacune élève ses propres édifices. L'Ordo Caelum dresse ses cathédrales lumineuses, ouvertes au plein soleil. Les Vael'Kurash bâtissent leurs cryptes ancestrales, où l'on descend pour parler aux morts. Les Ignis Aeternum nourrissent leurs temples de flammes éternelles, qu'aucun fidèle ne laisse jamais s'éteindre. Les Noctari taillent leurs sanctuaires dans la pierre, sans fenêtres, pour que la nuit y règne même en plein jour. Les Rota Mundi gravent leurs roues dans la pierre dressée, en cercles dont aucun n'est plus important qu'un autre. Les Via Ventus ne bâtissent presque pas — leurs lieux sacrés sont des cols, des falaises, des sommets ; ils y posent au plus une pierre ou un fil noué. Les Lex Petra édifient des monolithes massifs, qu'aucune génération ne devrait pouvoir déplacer. Les Somnium Vigil installent leurs reposoirs sous les arbres, là où les rêveurs peuvent rêver à voix haute. Les Foedus Animae signent leurs serments dans des sanctuaires petits, intimes, où l'on entre seul.
+
+Cette famille connaît tous les rangs. Le sanctuaire de bord de route — une niche votive, une pierre dressée, parfois une simple croix de bois — appartient au Modeste ; il signale qu'un dieu, ici, est censé entendre. La chapelle de village est un édifice public ouvert chaque jour pour le culte ordinaire. Le temple est l'édifice central d'une communauté de fidèles, parfois servi par un ou plusieurs prêtres résidents. La cathédrale, la basilique, le grand sanctuaire sont les vaisseaux de pierre où viennent prier les capitales entières. Et, au sommet, les **édifices liés directement à un Cosmique** — la Cathédrale Engloutie d'Iskara, le Temple des Flammes Éternelles de Cendara, le sanctuaire principal d'un Éternel — entrent dans la dernière famille de cette page, celle des constructions cosmiques.
+
+Chaque religion porte sa **signature architecturale**. On reconnaît un temple de Lex Petra à sa massivité ; un sanctuaire Noctari à son absence d'ouvertures ; une cathédrale de l'Ordo Caelum à ses vitraux dorés. Le voyageur cultivé apprend à lire ces signatures, et peut nommer la religion d'un édifice avant même d'en franchir le seuil.
 
 ---
 
-## Variants culturels (Phase 4 long terme)
+## Les lieux de savoir — où l'on conserve
 
-Chaque pays a sa **signature architecturale**. Mention rapide pour 4 cultures emblématiques (les autres seront cadrées Phase 4) :
+> *« Une bibliothèque est l'endroit où les morts continuent de parler. Si tu y entres en silence, c'est parce qu'ils ont beaucoup à dire. »*
+>
+> *— Maître Ostren, théologien comparatiste, Cestra*
 
-| Pays | Signature |
-|------|-----------|
-| **Altram** ([[Lore/Pays/Alkaran/Altram\|Altram]]) | Forge omniprésente, pierre noire, fer apparent, foyers monumentaux |
-| **Trinoria** | Hauts-perchoirs forestiers, charpentes en bois clair, palissades dynamiques |
-| **Lythar** | Architecture nomade — tentes-lourdes, structures démontables, ornements cuir/os |
-| **Astravia** | Tours alignées sur constellations, vitraux astronomiques, îles flottantes (lore) |
-| **Lumasar** | Académies de pierre blanche, dômes de verre, observatoires |
-| **Mosrack** | Murailles rougies, fortins de cendre compactée, industrialisation prudente |
-| **Cendara** | Volcanique — pierre noire, basalte, intégration au flux de lave |
-| **Evertia** | Impérial — marbre, cascades architecturales, Caëspia signature |
+Les lieux de savoir sont ceux où **l'on garde ce que les générations ne veulent pas perdre**. Bibliothèques, scriptoria, observatoires, écoles, académies, universités, cabinets de cartes, salles de prédiction, cabinets de curiosités — tous ces bâtiments sont des **mémoires bâties**.
+
+Cette famille est particulièrement développée à **Lumasar**, à **Astravia** et dans certaines cités d'Evertia, là où les traditions érudites se sont fixées en institutions. L'Académie de Lumasar, par exemple, occupe plus de pierre que certains palais royaux ; ses salles sont conçues pour la lecture, le calcul, l'observation des étoiles, et chaque corps de bâtiment correspond à une discipline du savoir. Les Tours d'Astravia, elles, sont des édifices doubles — observatoires astronomiques et lieux d'archive — alignés sur des constellations qui, parfois, ne sont plus visibles dans le ciel actuel. Cela seul suffit à dire qu'elles ont été bâties sous d'autres Ères.
+
+Les lieux de savoir sont **cibles privilégiées des chroniqueurs et des fouilleurs**. Beaucoup ont survécu aux Souffles ; beaucoup gardent, dans leurs cryptes ou leurs réserves, des écrits qui n'ont jamais été recopiés. C'est dans ces bâtiments-là que se trouvent les fragments les plus précieux de l'histoire d'Hybélior — ceux qu'aucun chant n'a jamais su tenir.
 
 ---
 
-*Liens : [[Architecture/Index|← Index Architecture]] · [[Échelles et Niveaux]] · [[Matériaux de Construction]] · [[Mapping Métiers de Construction]] · [[Métiers]] · [[Crafts]] · [[Géographie]] · [[Guildes]] · [[Traces des Ères]] · [[AccessExport/TailleVille.csv]] · [[Concepts Fondamentaux IA PNJ]]*
+## Les fortifications — où l'on tient
+
+Toute société qui dure finit par bâtir pour se défendre. Cette évidence amère est gravée dans les remparts d'Hybélior comme dans ceux de tout monde habité. Tour de guet, avant-poste, bastion, mur d'enceinte, porte fortifiée, caserne, fort, citadelle, forteresse, donjon (au sens médiéval du terme — la tour-maîtresse qui domine le château) : toutes ces constructions appartiennent à la même famille, celle qui apprend à **tenir un seuil** contre un ennemi qu'on espère ne jamais voir, mais dont on sait qu'il viendra.
+
+Les fortifications d'Hybélior portent souvent la signature de leur peuple. Les **Murailles Rouges de Vermilis** (Cestra) sont en pierre de Vermilis, cette pierre rouge dont on dit qu'elle se teinte du sang des batailles qu'elle a vues. Les **forteresses d'Altram** intègrent la forge à la défense — les herses sont métalliques, les portes blindées, les chemins de ronde équipés de braseros qui chauffent l'huile à verser. Les **bastions de Mosrack** sont bâtis en briques de cendre compactée, qui résistent au feu mais cèdent à l'eau ; les Mosracois disent que c'est un choix philosophique. Les **citadelles d'Iskara**, posées sur leurs caps côtiers, regardent la mer plus que la terre — c'est de là qu'ils attendent les invasions.
+
+Au-dessus de toutes ces structures, il y a, dans la légende, la **Citadelle Volante d'Aerion** — qu'aucun chroniqueur récent n'a vue, mais dont les chants soutiennent qu'elle existe, suspendue dans les courants supérieurs au-dessus du continent du même nom. Personne ne sait si elle a été bâtie par des mortels ou par les vents eux-mêmes. Les Aerioniens disent que cela revient au même.
+
+---
+
+## L'infrastructure urbaine — ce qui rend la ville vivable
+
+Une ville n'est pas seulement la somme de ses bâtiments individuels. Elle est aussi ce qui les **relie** — les ponts qui traversent ses rivières, les routes pavées qui mènent à ses places, les aqueducs qui amènent l'eau, les égouts qui l'évacuent, les fontaines qui rythment ses quartiers, les lampadaires qui éclairent ses nuits, les statues qui commémorent ses morts, les phares qui guident ses navires.
+
+Cette famille est souvent **invisible aux voyageurs**, et pourtant elle décide, plus que les monuments, de la qualité d'une cité. Une ville qui a des routes pavées et des fontaines vives est une ville où la peste ne s'installe pas. Une ville qui a un phare est une ville qui ne perd pas ses bateaux la nuit. Une ville qui a des égouts est une ville où les rues, après la pluie, redeviennent praticables.
+
+À Hybélior, les grandes capitales rivalisent en infrastructure plus encore qu'en bâtiments signature. **Evertia** est célèbre pour son réseau d'aqueducs, qui amène l'eau pure des montagnes à toutes ses fontaines publiques. **Lumasar** a son réseau de canaux navigables, qui font de la cité un labyrinthe doublement praticable. **Solena**, port méridional de Galenor, a fait du Phare des Astres l'un des plus hauts édifices habités du monde — sa lumière, dit-on, se voit à trois jours de mer.
+
+---
+
+## L'infrastructure rurale — ce qui nourrit
+
+À distance des villes, mais aussi nombreuse qu'elles, vit l'autre infrastructure d'Hybélior : celle de la terre cultivée. Granges, étables, écuries, bergeries, poulaillers, vergers clos, champs cultivés, vignes, ruchers, serres, moulins à eau et à vent, pressoirs, celliers. Ces bâtiments ne se distinguent pas par leur splendeur — ils se distinguent par leur **utilité absolue**. Sans eux, aucune ville ne mangerait au lendemain.
+
+Le bâti rural d'Hybélior est massivement modeste — bois et chaume, pierre simple, torchis, argile. Cela ne veut pas dire qu'il est négligé. Une grange bien charpentée tient un siècle ; un moulin à eau bien entretenu nourrit huit générations. Les paysans d'Hybélior savent que leurs ouvrages sont aussi indispensables que les cathédrales, et certains les bâtissent avec le même soin.
+
+Cette famille rassemble aussi les zones intermédiaires entre construction et nature cultivée — les vergers clos, les champs cultivés, les vignes en terrasses, les ruchers exposés au sud. On ne les appelle pas vraiment des bâtiments, mais ils sont **bâtis** au sens où ils résultent d'un travail humain qui a façonné la terre.
+
+---
+
+## Le mobilier — les objets-souvenirs
+
+> *« Une maison sans meubles n'est pas habitée. Elle est seulement promise. »*
+>
+> *— Maître Ostren, marginalia*
+
+Sous chaque toit, à l'intérieur de chaque construction, vit une autre famille — celle des **objets qui meublent**. Foyers, cheminées, fours à pain domestiques, lits-cabanes ou à baldaquin, tables, chaises, étagères, pupitres, bibliothèques encastrées, bains, coffres, autels domestiques. Ces objets ne sont pas exactement des bâtiments — ils sont *l'intérieur* d'un bâtiment, ce qui transforme un toit en habitation véritable.
+
+Le mobilier est, dans toutes les cultures d'Hybélior, le **support de la mémoire familiale**. Le coffre où l'aïeule a gardé ses lettres ; le lit où trois générations sont nées ; la table où la famille se réunit chaque soir ; le foyer devant lequel les enfants ont écouté les contes d'hiver. Ces objets traversent les vies. Quand on hérite d'une maison, on hérite aussi des meubles qui la rendent vivable. Et c'est souvent dans ces meubles, plus que dans les murs, que survit la trace de ceux qui ont vécu là.
+
+Les **menuisiers** sont les artisans princes de cette famille. Mais ils ne travaillent pas seuls : les sculpteurs ornent les façades de coffres et les pieds de lits ; les tisserands fournissent tentures et baldaquins ; les forgerons forgent les serrures, les charnières, les ferronneries de coffre ; les tanneurs garnissent les sièges hauts de cuir doublé. Le mobilier d'un palais peut mobiliser autant d'artisans qu'une cathédrale modeste. Ce n'est pas un détail décoratif — c'est, à Hybélior, un véritable **art** à part entière.
+
+---
+
+## Les constructions cosmiques — ce qui dépasse la main
+
+Et puis il y a la dernière famille. Celle où le mortel ne suffit pas. Où ce qui se tient debout n'a pas été élevé par des outils humains seuls, ou bien a été élevé par eux mais a reçu, en retour, une consécration qui dépasse leur portée.
+
+Caëspia, la cité signature d'Evertia, dont aucun chroniqueur ne parvient à dater la fondation. La Cathédrale Engloutie d'Iskara, dont on sait qu'elle fut bâtie par des mains, mais dont l'engloutissement même semble avoir été voulu — comme si le monde, à un certain Souffle, avait décidé que ce sanctuaire-là valait mieux sous la mer qu'à l'air. Les Tours d'Astravia, alignées sur des étoiles disparues, et donc bâties à une époque où ces étoiles étaient encore là. L'Anneau de Pierre de Pyrtara, dont aucune chronique ne dit qui l'a dressé. Les Falaises Chantantes de Baelor, qui résonnent quand certains vents les traversent — bâti naturel, ou bâti que les Ères ont fini par considérer comme leur ouvrage. Les Cratères du Cardinal, cicatrices d'un événement cosmique unique, dont nul ne sait s'ils sont des constructions ou des effondrements.
+
+Ces ouvrages ne se vendent pas. Ne s'achètent pas. Parfois ne se visitent même pas — il y a des sanctuaires d'Hybélior qu'on ne touche que par condition rituelle, par accomplissement long, par grâce des Ères qui veulent bien laisser le seuil s'ouvrir.
+
+Élever, soi-même, un bâti qui entre dans cette famille, est l'une des aspirations les plus hautes qu'un Architecte puisse nourrir. Très peu y parviennent. Les conditions s'accumulent : maîtrise absolue, ressources rares, accord d'un siège Éthéré ou d'un Cosmique, parfois la coopération de plusieurs Liés aux Voies. La plupart du temps, ces œuvres-là ne se construisent pas — elles **arrivent**, comme on dit dans les corporations, *« quand le monde consent »*. Et un monde qui consent est un monde rare.
+
+Voir [[Traces des Ères]] pour la lecture longue de ces ouvrages, et de ce qu'ils disent du temps long d'Hybélior.
+
+---
+
+## Quelques bâtis hybrides
+
+La vie ne se range jamais parfaitement dans des familles. Hybélior connaît, comme partout, ses cas qui hésitent.
+
+L'**auberge** est-elle habitation ou lieu social ? Les deux — elle abrite des dormeurs et rassemble des inconnus. La pratique courante la classe comme sociale, parce que sa fonction première est d'accueillir des passages plutôt que des demeures.
+
+Le **château** est-il habitation ou fortification ? Un château habité est avant tout un édifice défensif — l'habitation n'y est qu'un usage second. Mais certains châteaux, après plusieurs générations de paix, ont si bien oublié leur vocation militaire qu'ils sont devenus de purs manoirs. La frontière y est mouvante.
+
+La **maison du forgeron**, dans les villages, mélange souvent l'habitation et la forge — la famille vit au-dessus de l'atelier. C'est, à la fois, lieu de production et logis. La pratique courante la classe selon ce qui pèse le plus — souvent la forge, parce qu'on définit l'artisan par son ouvrage avant son toit.
+
+La **tour de sorcier**, signature d'Astravia et de quelques mages itinérants, mélange logis, savoir et parfois religieux. C'est avant tout une habitation, mais une habitation **savante** — où vit un Lié qui pratique ses arts dans ses propres murs.
+
+Et puis il y a les **ruines** — ces bâtis qui ont été quelque chose et qui n'en sont plus que la mémoire. On ne les classe pas dans une famille distincte ; on les classe dans leur famille d'origine, en notant simplement qu'elles sont devenues silencieuses. Une cathédrale en ruine reste une cathédrale, jusqu'à ce qu'elle s'effondre tout à fait.
+
+---
+
+## Les signatures par culture
+
+Aucune famille du bâti n'est neutre culturellement. Chaque grande nation d'Hybélior porte ses gestes, ses matières, ses ornements qui font qu'on reconnaît, en quelques pierres, d'où vient un bâtiment.
+
+| Culture | Signature |
+|---|---|
+| **Altram** | Forges omniprésentes, pierre noire d'Alkaran, fer apparent, foyers monumentaux qui structurent l'habitation |
+| **Trinoria** | Hauts-perchoirs forestiers, charpentes en bois clair, palissades qui se laissent traverser par les chemins |
+| **Lythar** | Architecture nomade, tentes-lourdes démontables, structures osseuses et tendues, ornements en cuir et os |
+| **Astravia** | Tours alignées sur les constellations, vitraux astronomiques, observatoires intégrés aux logis nobles |
+| **Lumasar** (Galenor) | Académies de pierre blanche, dômes de verre, colonnades ouvertes au plein soleil |
+| **Mosrack** (Onara) | Murailles rougies, fortins de cendre compactée, industrialisation prudente du fer |
+| **Cendara** | Pierre noire et basalte volcanique, intégration des coulées de lave, forges à flanc de volcan |
+| **Evertia** | Marbre impérial, cascades architecturales en terrasses, ornements sculptés à toute échelle |
+| **Iskara** | Bâti côtier bas et solide, sanctuaires partiellement submergés, fortifications maritimes |
+| **Onara** | Bois patients (ébène, if), maisons basses fermées au nord, bains-rituels collectifs |
+| **Cestra** | Pierre rouge de Vermilis, murailles teintées, citadelles de haute altitude |
+| **Pyrtara** (Ilthara) | Pierre vibrante, anneaux et cercles rituels, intégration de la magie diffuse au bâti |
+| **Tyndara** | Ports cosmopolites, comptoirs mêlant cinq cultures, hôtels de commerce en double étage |
+
+Cette liste n'est pas un catalogue exhaustif. Elle dit seulement qu'**aucune construction d'Hybélior ne pousse hors de quelque part**. Bâtir, c'est toujours bâtir *d'un lieu*, *pour un lieu*, *avec ce qu'un lieu donne*. Et c'est pourquoi l'architecture du monde, prise dans son ensemble, raconte aussi bien la diversité des peuples que ne le ferait n'importe quelle chronique.
+
+---
+
+## Voir aussi
+
+- [[Architecture/Index|← Index Architecture]]
+- [[Échelles et Niveaux]] — les six degrés d'opulence qui traversent toutes les familles
+- [[Matériaux de Construction]] — les matières par culture et par rang
+- [[Mapping Métiers de Construction]] — qui bâtit quoi, et comment les corps de métiers s'organisent
+- [[Métiers]] — fiches détaillées des bâtisseurs et des occupants
+- [[Géographie]] — comment les terres modèlent ce qu'on y bâtit
+- [[Guildes]] — les corporations bâtisseuses
+- [[Traces des Ères]] — les bâtis cosmiques laissés par les Souffles passés
+- [[Cosmologie]] — les religions qui ont leurs sanctuaires propres
+
+*Implémentation technique (taxonomie structurée, données par catégorie) : [[Architecture Data-Driven]]*

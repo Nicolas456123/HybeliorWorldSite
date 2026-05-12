@@ -1,5 +1,5 @@
 ---
-tags: [équipement, armure, couches, matériaux, identité, tiers, narration]
+tags: [équipement, armure, couches, matériaux, identité, degrés, narration]
 status: drafted
 last_review: 2026-05-12
 needs_review_for: []
@@ -35,9 +35,9 @@ S'envelopper, ce n'est pas seulement ajouter une couche. C'est **modifier sa sil
 
 L'armure, à Hybelior, **change le corps**. Elle ajoute une masse, freine un geste, soutient une posture, élargit une silhouette. Elle promet une protection, mais elle réclame en échange une **adaptation**. C'est cette tension — protection contre mobilité, soutien contre liberté — qui rend le geste de s'équiper si singulier. On ne *prend* pas une armure ; on **entre** en elle, et il faut le temps qu'il faut pour que la seconde peau cesse d'être étrangère.
 
-Cette idée a une conséquence mécanique simple : à Hybelior, toute armure a un **prix corporel**. Une cuirasse de plates ne se porte pas sans Vigueur. Une tunique d'éclaireur ne se porte pas sans Vivacité. Une robe de Lié ne se porte pas sans Résonance. Ce ne sont pas des prérequis arbitraires posés pour bloquer le joueur — ce sont des **conditions de vérité**. Tu ne portes que ce que ton corps a déjà appris à porter.
+Cette idée a une conséquence mécanique simple : à Hybelior, toute armure a un **prix corporel**. Une cuirasse de plates ne se porte pas sans Vigueur. Une tunique d'éclaireur ne se porte pas sans Vivacité. Une robe de Lié ne se porte pas sans Résonance. Ce ne sont pas des prérequis arbitraires posés pour bloquer le voyageur — ce sont des **conditions de vérité**. Tu ne portes que ce que ton corps a déjà appris à porter.
 
-> Pour le détail des prérequis chiffrés (seuils de stats par tier et par catégorie) : voir [[Armor System]].
+> Pour le détail des prérequis chiffrés (seuils de qualités par rang et par catégorie) : voir [[Armor System]].
 
 ---
 
@@ -65,7 +65,7 @@ C'est la couche que personne ne voit, et que tout le monde a. Une chemise simple
 
 Au-dessus, la tunique. Ou la robe, pour ceux qui s'en accommodent. Ou la chemise, pour les climats chauds. Cette couche est la première qu'on voit, et donc la première qui **témoigne** — sa coupe, sa couleur, sa qualité de tissu disent l'origine sociale, le métier, l'attachement à une Voie. À Mosrack, on porte la tunique courte, fendue sur le côté, pour ne pas gêner la main qui tient le marteau. À Cendara, on la veut plus longue, plus stricte, ornée d'un liseré sobre. Aux marges d'Onara, elle est plus large, plus brute, faite pour résister à la sève des forêts.
 
-Mécaniquement, la tunique offre peu de protection — c'est volontaire. Elle ouvre des **slots de signature** : couleurs, motifs, broderies que l'artisanat de Hybelior permet de personnaliser sans incidence sur la défense. C'est, littéralement, la couche où l'on **s'écrit**.
+Dans l'usage, la tunique offre peu de protection — c'est volontaire. Elle ouvre des **places de signature** : couleurs, motifs, broderies que l'artisanat d'Hybelior permet de personnaliser sans incidence sur la défense. C'est, littéralement, la couche où l'on **s'écrit**.
 
 ### L'armure intermédiaire — la peau qui prend
 
@@ -114,7 +114,7 @@ Hybelior connaît dix-sept emplacements d'équipement, traversant tout le corps 
 | Bottes | Intermédiaire / plate | Sol, climat, endurance de marche |
 | Cristal | Accessoire-Voie | Réservé aux Liés, canalise la résonance |
 
-> Pour le mapping technique des slots vers `EEquipmentSlot` (17 valeurs) : voir [[HW Inventory Component]].
+> Pour la correspondance technique des emplacements (17 valeurs) : voir [[HW Inventory Component]].
 
 Cette grille n'est pas une cage. Tous les slots ne se remplissent pas systématiquement, et la **manière** de les laisser vides est, elle aussi, une signature. Un éclaireur qui marche sans casque le fait pour entendre mieux. Un Lié qui ne porte pas de gants le fait pour sentir mieux. Une duelliste qui laisse sa main droite nue le fait pour que sa rapière la reconnaisse. L'armure de Hybelior se lit aussi dans ses **absences**.
 
@@ -156,22 +156,22 @@ Une armure faite d'exotiques est une **œuvre signée** au sens fort. Elle porte
 
 ---
 
-## Les six tiers de rareté — la place dans le récit
+## Les six degrés de rareté — la place dans le récit
 
-Comme tous les objets d'Hybelior, les armures se distribuent sur une échelle de **six tiers de rareté**. Cette échelle n'est pas une simple hiérarchie de puissance ; c'est une **place dans le récit du monde**. Chaque tier raconte une histoire différente sur la provenance, la circulation, et la mémoire de l'objet.
+Comme tous les objets d'Hybelior, les armures se distribuent sur une échelle de **six degrés de rareté**. Cette échelle n'est pas une simple hiérarchie de puissance ; c'est une **place dans le récit du monde**. Chaque degré raconte une histoire différente sur la provenance, la circulation, et la mémoire de l'objet.
 
-| Tier | Nom | Couleur HUD | Place narrative |
+| Degré | Nom | Teinte | Place narrative |
 |---|---|---|---|
 | 1 | Commun | gris | L'armure du quotidien. Fabriquée en série par les artisans locaux. Aucun nom propre, aucune histoire — sinon celle de qui la porte. |
 | 2 | Inhabituel | vert | L'armure soignée. Quelques détails personnalisés, une trempe meilleure, un cuir mieux choisi. Souvent commandée plutôt qu'achetée sur étal. |
-| 3 | Rare | bleu | L'armure d'atelier réputé. Porte la marque de son artisan. Apparaît dans les inventaires des marchands de niveau supérieur, dans les coffres d'expédition. |
+| 3 | Rare | bleu | L'armure d'atelier réputé. Porte la marque de son artisan. Apparaît dans les inventaires des marchands les plus considérés, dans les coffres d'expédition. |
 | 4 | Épique | violet | L'armure signée. Le nom du forgeron est connu ; l'œuvre circule entre quelques propriétaires. Souvent associée à un événement (commande pour une guerre, présent à un Concordant). |
 | 5 | Légendaire | orange | L'armure dont on parle dans les chants. Une pièce que les bardes mentionnent, dont les vieux maîtres savent dire la provenance. Quelques exemplaires existent à Hybelior, pas davantage. |
 | 6 | Mythique | rouge / doré | L'armure des Éternels. Faite de matériaux qu'aucun mortel ne sait reproduire. Souvent unique. Sa simple présence dans une scène la change. |
 
-> Les tiers visuels (T1 à T7) du système d'assets sont une dimension orthogonale au gameplay — voir [[Armor System]] §"Tiers et raretés".
+> Les degrés visuels (Modeste à Magnifique) sont une dimension propre, qui ne se confond pas avec la défense — voir [[Armor System]] §"Degrés et raretés".
 
-Hybelior tient à cette distinction. Un objet **Mythique** n'est pas seulement plus puissant ; il est **plus rare dans le récit**. On ne l'achète pas dans une boutique. On le hérite, on le trouve, on l'extorque à un boss mondial. Sa puissance brute est bornée — comme celle de tout objet, elle est compressée par le Souffle — mais sa **présence narrative** est éternelle.
+Hybelior tient à cette distinction. Un objet **Mythique** n'est pas seulement plus puissant ; il est **plus rare dans le récit**. On ne l'achète pas dans une boutique. On l'hérite, on le trouve, on l'arrache à une bête redoutable. Sa puissance brute est bornée — comme celle de tout objet, elle est compressée par le Souffle — mais sa **présence narrative** est éternelle.
 
 ---
 
@@ -195,7 +195,7 @@ Aucun équipement complet, à Hybelior, ne maximise les trois en même temps. Ce
 
 ## L'armure et le Souffle — la rouille des pièces
 
-Comme tout ce qui compose la **puissance brute** d'un personnage, les armures sont touchées par le [[Le Souffle|Souffle]]. Pas dans leur existence — elles ne disparaissent jamais, elles restent en inventaire, elles gardent leur nom, leur signature, leur histoire — mais dans leur **éclat actuel**. Au passage d'un Souffle, les pièces de plus haut tier subissent une compression temporaire : leurs vertus deviennent un peu moins éloquentes, leurs bonus un peu moins tranchants, le temps que le monde ait fini de recomposer sa polyphonie.
+Comme tout ce qui compose la **puissance brute** d'un personnage, les armures sont touchées par le [[Le Souffle|Souffle]]. Pas dans leur existence — elles ne disparaissent jamais, elles restent en inventaire, elles gardent leur nom, leur signature, leur histoire — mais dans leur **éclat actuel**. Au passage d'un Souffle, les pièces de plus haut degré subissent une compression temporaire : leurs vertus deviennent un peu moins éloquentes, leurs faveurs un peu moins tranchantes, le temps que le monde ait fini de recomposer sa polyphonie.
 
 Cette atténuation se vit, dans le corps du personnage, comme une **rouille**. Le coup d'épée qui glissait sur la cuirasse pendant l'Ère précédente trouve, sur quelques jours, une faille qu'il n'avait pas l'habitude de trouver. Le casque qui semblait léger soudain pèse. La cape qui drapait avec grâce traîne. Rien de catastrophique — la rouille des armures, comme celle des Maîtrises, **se dissipe par l'usage**. Il suffit de porter sa cuirasse, de la frapper et de se faire frapper, pour qu'elle retrouve progressivement sa pleine vertu dans la nouvelle Ère.
 
@@ -209,11 +209,11 @@ Les matériaux **rares** — écailles cosmiques, exotiques, fragments des Voies
 
 Une cuirasse d'écailles de Spiritus portée pendant une Ère dominée par Spiritus n'est plus simplement une cuirasse — elle devient un **amplificateur**. Ses bonus se déploient pleinement, ses effets passifs gagnent en intensité, et le porteur sent, en la mettant, qu'elle pèse moins qu'elle ne le devrait. La même pièce, pendant une Ère qui résonne d'une Voie opposée, devient plus inerte : elle protège toujours, mais elle ne **chante** plus.
 
-Cette dépendance n'est pas un piège tendu au joueur. C'est une **fidélité au monde**. Hybelior tient à ce que ses objets les plus prestigieux soient des objets *vivants*, qui réagissent à la respiration du cosmos. Un joueur qui s'accorde à l'Ère présente et qui porte une pièce résonante vit, à chaque combat, le double avantage de la résonance — celle de l'Accord et celle du matériau qui répond.
+Cette dépendance n'est pas un piège tendu au voyageur. C'est une **fidélité au monde**. Hybelior tient à ce que ses objets les plus prestigieux soient des objets *vivants*, qui réagissent à la respiration du cosmos. Un mortel qui s'accorde à l'Ère présente et qui porte une pièce résonante vit, à chaque combat, le double avantage de la résonance — celle de l'Accord et celle du matériau qui répond.
 
 Les Liés sont, comme partout, les plus sensibles à cette dimension. Un Lié à une Voie cherchera toujours, dans la mesure du possible, à porter au moins une pièce qui résonne avec sa Voie — un brassard, une cape, un anneau. Cette pièce devient sa **boussole** : elle lui dit, par sa chaleur ou sa froideur, où en est la composition cosmique.
 
-> Pour les chiffres exacts de la résonance par Voie et par tier : voir [[Armor System]] et [[Accord System]].
+> Pour les chiffres exacts de la résonance par Voie et par degré : voir [[Armor System]] et [[Accord System]].
 
 ---
 
@@ -233,9 +233,9 @@ Un voyageur qui croise un porteur d'armure ancienne sait, sans qu'on le lui dise
 
 ## L'armure et l'artisanat — la voie de l'Armurier
 
-Aucune armure d'Hybelior ne tombe du ciel. Tout ce qui se porte — du gambison du paysan à la cuirasse mythique du chevalier — a été **fabriqué** par quelqu'un. Et ce quelqu'un, à Hybelior, n'est pas un simple PNJ : c'est, le plus souvent, un **joueur** qui a passé des semaines, des mois, parfois des Ères entières à pratiquer le métier d'Armurier.
+Aucune armure d'Hybelior ne tombe du ciel. Tout ce qui se porte — du gambison du paysan à la cuirasse mythique du chevalier — a été **fabriqué** par quelqu'un. Et ce quelqu'un, à Hybelior, n'est pas une figure anonyme du décor : c'est, le plus souvent, un **voyageur** qui a passé des semaines, des mois, parfois des Ères entières à pratiquer le métier d'Armurier.
 
-L'Armurier n'est pas un sous-rôle de l'aventurier. C'est une **discipline à part entière**, dont la maîtrise complète demande autant d'investissement que celle d'une arme. On y apprend à choisir le cuir selon la bête dont il vient, à fondre l'acier en alliages précis, à marteler la plate sur des heures sans la fendre, à tisser la maille anneau par anneau. Les Maîtres-Armuriers de Hybelior ont leurs ateliers nommés, leurs apprentis cités, leurs marques personnelles inscrites sur chaque œuvre qui sort de leurs portes.
+L'Armurier n'est pas un sous-rôle de l'aventurier. C'est une **discipline à part entière**, dont la maîtrise complète demande autant d'investissement que celle d'une arme. On y apprend à choisir le cuir selon la bête dont il vient, à fondre l'acier en alliages précis, à marteler la plate sur des heures sans la fendre, à tisser la maille anneau par anneau. Les Maîtres-Armuriers d'Hybelior ont leurs ateliers nommés, leurs apprentis cités, leurs marques personnelles inscrites sur chaque œuvre qui sort de leurs portes.
 
 Cette dimension fait de l'armure un **objet relationnel**. La cuirasse que tu portes a presque toujours une histoire qui ne se limite pas à toi. Quelqu'un l'a faite ; quelqu'un l'a peut-être déjà portée ; quelqu'un, demain, l'achètera quand tu en changeras. Cette circulation est sacrée à Hybelior. Une œuvre signée par un grand Armurier reste signée même après la mort de son auteur — son nom continue de circuler, et les futures générations savent qui a forgé la pièce qu'elles portent.
 
@@ -243,11 +243,11 @@ Pour la philosophie complète du travail manuel et de la maîtrise des arts : vo
 
 ---
 
-## Tableau de référence — slots, couches, statistiques
+## Tableau de référence — emplacements, couches, qualités
 
-Pour les architectes du système et pour les joueurs qui aiment lire les chiffres, voici la grille de référence des armures par catégorie. Elle est volontairement simplifiée — les chiffres exacts vivent dans l'implémentation.
+Pour les esprits curieux qui aiment compter, voici la grille de référence des armures par catégorie. Elle est volontairement simplifiée — les chiffres exacts vivent dans l'implémentation.
 
-| Catégorie | Couche | Stat exigée | Mobilité | Protection | Identité dominante |
+| Catégorie | Couche | Qualité exigée | Mobilité | Protection | Identité dominante |
 |---|---|---|---|---|---|
 | Léger (cuir, tissu) | Tunique + intermédiaire | Vivacité | élevée | faible | éclaireur, voyageur, Lié-mobile |
 | Moyen (cuir clouté, maille partielle) | Intermédiaire | Vigueur, Vivacité | moyenne | moyenne | combattant polyvalent |
@@ -257,7 +257,7 @@ Pour les architectes du système et pour les joueurs qui aiment lire les chiffre
 | Robes (tissu noble) | Tunique | Résonance, Esprit | élevée | très faible | Lié, érudit, prêtre |
 | Tenues d'apparat | Tunique signée | aucune | très élevée | aucune | noblesse, cérémonies |
 
-Les stats utilisées ici (Vigueur, Vivacité, Endurance, Esprit, Résonance) sont définies dans [[Personnage]] §"Les stats comme reflets". Pour leur progression par usage : voir [[Stats System]].
+Les qualités utilisées ici (Vigueur, Vivacité, Endurance, Esprit, Résonance) sont définies dans [[Personnage]] §"Les qualités comme reflets". Pour leur progression par usage : voir [[Stats System]].
 
 ---
 
@@ -283,7 +283,7 @@ Aucune de ces silhouettes n'est plus *correcte* qu'une autre. Toutes trois racon
 
 ## Les traditions régionales — comment chaque continent s'habille
 
-L'armure d'Hybelior n'est jamais hors-sol. Chaque grand territoire a sa **manière** de protéger ses corps, et cette manière dit quelque chose de l'histoire, du climat, de la cosmologie locale. Un voyageur expérimenté reconnaît, à la coupe d'une cuirasse, la nation qui l'a forgée — et souvent l'atelier précis. Cette lisibilité régionale est l'une des couches les plus discrètes du système, et l'une des plus aimées par les joueurs qui prennent le temps de s'y attacher.
+L'armure d'Hybelior n'est jamais hors-sol. Chaque grand territoire a sa **manière** de protéger ses corps, et cette manière dit quelque chose de l'histoire, du climat, de la cosmologie locale. Un voyageur expérimenté reconnaît, à la coupe d'une cuirasse, la nation qui l'a forgée — et souvent l'atelier précis. Cette lisibilité régionale est l'une des couches les plus discrètes du tissu du monde, et l'une des plus aimées par les habitants qui prennent le temps de s'y attacher.
 
 ### Mosrack et la côte d'Onara — le cuir et la coupe pratique
 
@@ -313,7 +313,7 @@ Et puis, aux marges du monde connu — au Nord glacé, dans les déserts du gran
 
 Cette catégorie n'est pas un caprice. Elle est l'une des manières par lesquelles le **statut social** s'inscrit dans le monde matériel. Un Concordant qui se présente à une cérémonie d'Ère vêtu de sa cuirasse de combat fait une faute ; on l'attend en tenue de Concordant, qui est une tenue propre, signée, reconnue. Un noble de Cendara qui dîne à la cour en armure légère est presque insultant. Un Lié de haut rang qui canalise un rituel public sans sa robe rituelle ne sera pas pris au sérieux.
 
-Les tenues d'apparat se trouvent rarement en butin. Elles se **commandent**, se confectionnent, se transmettent. Elles ont leurs propres tiers de rareté — du costume simple du citoyen propre aux atours mythiques portés par les figures historiques d'Hybelior. Et elles ont une **valeur de revente** qui surprend souvent les novices : une bonne tenue d'apparat peut coûter, en éclats, davantage qu'une armure de combat équivalente.
+Les tenues d'apparat se trouvent rarement comme dépouille. Elles se **commandent**, se confectionnent, se transmettent. Elles ont leurs propres degrés de rareté — du costume simple du citoyen propre aux atours mythiques portés par les figures historiques d'Hybelior. Et elles ont une **valeur de revente** qui surprend souvent les novices : une bonne tenue d'apparat peut coûter, en éclats, davantage qu'une armure de combat équivalente.
 
 ### L'enchâssement et la teinture — personnaliser sans transgresser
 
@@ -331,9 +331,9 @@ L'**enchâssement** ensuite — plus rare, plus précieux. Une pièce d'armure d
 
 Une dernière chose, qu'aucun manuel mécanique ne raconte vraiment mais qui fait pourtant partie de la vie matérielle d'un personnage d'Hybelior : **le rituel d'habillage**. Avant chaque expédition importante, avant chaque combat majeur, avant chaque cérémonie, un voyageur prend le temps de choisir ce qu'il porte. Ce temps n'est pas vide. Il est un moment où **l'on se décide** — par les pièces qu'on enfile et par celles qu'on laisse au coffre.
 
-À Hybelior, on ne change pas son équipement complet en plein combat. Le système le permettrait techniquement — on pourrait, dans le chaos d'une bagarre, jongler entre cinq cuirasses — mais la culture du jeu et la mécanique elle-même y opposent une **friction**. L'équipement se choisit avant. Et ce *avant* est sacré.
+À Hybelior, on ne change pas son équipement complet en plein combat. La chose serait possible — on pourrait, dans le chaos d'une bagarre, jongler entre cinq cuirasses — mais la culture du monde et la matière elle-même y opposent une **friction**. L'équipement se choisit avant. Et ce *avant* est sacré.
 
-Beaucoup de joueurs vétérans développent leur propre rituel. Karzal d'Onara, par exemple, ne s'équipe jamais sans avoir d'abord regardé par la fenêtre — il dit que le ciel lui parle de l'Ère, et qu'on s'habille pour l'Ère qu'il fait. Iola de Cendara revêt sa cuirasse dans un ordre précis, toujours le même, et termine par le collier de Spiritus qu'elle embrasse avant de fermer le fermoir. Vehna l'herboriste ne s'équipe pas — elle ajuste sa robe, vérifie son anneau, et part. Trois manières de **se rendre prêt**, trois rituels qu'aucun système n'a écrit mais que le système permet.
+Beaucoup de voyageurs vétérans développent leur propre rituel. Karzal d'Onara, par exemple, ne s'équipe jamais sans avoir d'abord regardé par la fenêtre — il dit que le ciel lui parle de l'Ère, et qu'on s'habille pour l'Ère qu'il fait. Iola de Cendara revêt sa cuirasse dans un ordre précis, toujours le même, et termine par le collier de Spiritus qu'elle embrasse avant de fermer le fermoir. Vehna l'herboriste ne s'équipe pas — elle ajuste sa robe, vérifie son anneau, et part. Trois manières de **se rendre prêt**, trois rituels que personne n'a prescrits, mais que le monde permet.
 
 Cette dimension rituelle de l'habillage est ce qui transforme l'inventaire en **antichambre**. Le sac n'est pas seulement un sac — c'est un lieu où l'on prépare sa silhouette avant de la donner au monde. Et chaque pièce qu'on en sort, chaque pièce qu'on y remet, est un **petit acte de définition**.
 
@@ -347,7 +347,7 @@ Cette dimension rituelle de l'habillage est ce qui transforme l'inventaire en **
 
 Les armures, comme tous les biens matériels, **survivent au Souffle**. C'est l'un des engagements les plus fermes d'Hybelior — voir [[L'Accord]] §"Préserver et rendre". Tes pièces restent dans ta banque, dans ton inventaire, sur ton dos, à travers toutes les Ères que tu traverseras. Aucune compression cosmique ne te volera ce que tu portes.
 
-Mais elles peuvent se **perdre** autrement. Une mort en zone hostile peut faire tomber une pièce. Un pillage PvP, dans les territoires qui l'autorisent, peut prélever une part de ton équipement. Une corrosion exceptionnelle — face à certaines créatures de l'Astrasiltis qui dévorent le métal lui-même — peut détruire une pièce sans recours. Ces pertes sont rares, et c'est tant mieux. Mais elles existent, et elles font partie du **prix** d'une vie d'aventurier.
+Mais elles peuvent se **perdre** autrement. Une mort en zone hostile peut faire tomber une pièce. Un pillage en lutte ouverte, dans les territoires qui l'autorisent, peut prélever une part de ton équipement. Une corrosion exceptionnelle — face à certaines créatures de l'Astrasiltis qui dévorent le métal lui-même — peut détruire une pièce sans recours. Ces pertes sont rares, et c'est tant mieux. Mais elles existent, et elles font partie du **prix** d'une vie d'aventurier.
 
 Pour les règles exactes de chute et de pillage : voir [[Mort]] et [[PvP]]. Pour le stockage, la banque, et la gestion de l'inventaire : voir [[Inventaire]].
 
@@ -355,9 +355,9 @@ Pour les règles exactes de chute et de pillage : voir [[Mort]] et [[PvP]]. Pour
 
 ## Pourquoi l'armure est une voix
 
-Si l'on devait dire, en une phrase, ce que l'armure cherche à être à Hybelior, ce serait peut-être ceci : **une voix de plus** dans la polyphonie qu'est un personnage. Pas un chiffre. Pas un score. Pas un slot à remplir. Une voix — qui parle au combat, qui parle à la foule, qui parle au temps qui passe, qui parle même quand son porteur se tait.
+Si l'on devait dire, en une phrase, ce que l'armure cherche à être à Hybelior, ce serait peut-être ceci : **une voix de plus** dans la polyphonie qu'est un personnage. Pas un chiffre. Pas un score. Pas une case à remplir. Une voix — qui parle au combat, qui parle à la foule, qui parle au temps qui passe, qui parle même quand son porteur se tait.
 
-Cette ambition est exigeante. Elle suppose qu'un joueur ait envie de **choisir** sa silhouette plutôt que de l'optimiser. Elle suppose que la communauté apprenne à **lire** les vêtements des autres. Elle suppose que les artisans-Armuriers prennent leur métier au sérieux, comme une discipline littéraire. Elle suppose, surtout, que le monde lui-même **réponde** — que les PNJ saluent différemment selon ce qu'on porte, que les marchands ajustent leurs prix, que les portes s'ouvrent ou se ferment.
+Cette ambition est exigeante. Elle suppose qu'un voyageur ait envie de **choisir** sa silhouette plutôt que de l'optimiser. Elle suppose que les habitants apprennent à **lire** les vêtements des autres. Elle suppose que les artisans-Armuriers prennent leur métier au sérieux, comme une discipline littéraire. Elle suppose, surtout, que le monde lui-même **réponde** — que les passants saluent différemment selon ce qu'on porte, que les marchands ajustent leurs prix, que les portes s'ouvrent ou se ferment.
 
 À Hybelior, l'armure n'est jamais innocente. Elle parle. Et quand on apprend à l'écouter — la sienne et celle des autres — on s'aperçoit qu'on est entré dans un monde où les **silhouettes sont déjà des phrases**.
 
@@ -371,4 +371,4 @@ Cette ambition est exigeante. Elle suppose qu'un joueur ait envie de **choisir**
 
 *Liens narratifs : [[Personnage]] | [[Le Souffle]] | [[L'Accord]] | [[Les Ères]] | [[Armes et Maîtrise]] | [[Métiers]] | [[Labeur]] | [[Inventaire]] | [[Mort]] | [[PvP]] | [[Le Lien]]*
 
-*Implémentation technique (slots, tiers, assets, formules) : [[Armor System]] | [[Character Appearance]] | [[HW Inventory Component]]*
+*Implémentation technique (emplacements, degrés, assets, formules) : [[Armor System]] | [[Character Appearance]] | [[HW Inventory Component]]*

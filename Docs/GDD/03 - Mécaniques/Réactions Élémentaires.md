@@ -33,7 +33,7 @@ C'est cette troisième chose qu'on appelle, dans le langage des salles d'armes e
 
 La question, à Hybelior, n'est pas *« pourquoi avoir des réactions élémentaires ? »*. C'est *« pourquoi tant de mondes les ont privés de toute parole ? »*. Dans un cosmos polyphonique, isoler les éléments serait une trahison du tissu même qu'on prétend tisser. Voici pourquoi nous tenons à cette chimie.
 
-D'abord, parce que les **Voies du Lien** elles-mêmes se reconnaissent ou se repoussent. Un Lié d'Aquor et un Lié d'Aerion forment ensemble une tempête qu'aucun des deux n'aurait su faire venir. Un Lié d'Eldoria et un Lié de Noctis annulent leurs voix dans un drainage que les vieux livres appellent *le silence des voix*. Si cette polyphonie magique est vraie pour les Liés, elle doit être vraie aussi pour les éléments qu'ils invoquent — sinon, le monde dirait deux choses, et le joueur sentirait ce mensonge.
+D'abord, parce que les **Voies du Lien** elles-mêmes se reconnaissent ou se repoussent. Un Lié d'Aquor et un Lié d'Aerion forment ensemble une tempête qu'aucun des deux n'aurait su faire venir. Un Lié d'Eldoria et un Lié de Noctis annulent leurs voix dans un drainage que les vieux livres appellent *le silence des voix*. Si cette polyphonie magique est vraie pour les Liés, elle doit être vraie aussi pour les éléments qu'ils invoquent — sinon, le monde dirait deux choses, et le voyageur sentirait ce mensonge.
 
 Ensuite, parce que les **Éternels et les Cosmiques** ne sont pas des entités cloisonnées. Aquor et Ignara ne sont pas deux divinités enfermées chacune dans son temple ; ce sont deux **voix d'une même conversation cosmique**. Quand un sort d'eau et un sort de feu se rencontrent sur un corps, ce qui se produit là est une **résonance** entre ces deux voix — exactement comme une corde tendue résonne quand on en pince une autre à côté. La réaction n'est pas une mécanique greffée sur la cosmologie : elle **est** la cosmologie, à l'échelle d'un coup.
 
@@ -190,7 +190,7 @@ Certaines cascades, à force d'être pratiquées, ont reçu un nom. Les vieux ma
 | **La Trinité Brûlante** | Feu → Eau → Foudre | Enflammé, puis Vaporisation, puis Électrocharge sur le résidu mouillé |
 | **Le Long Hiver** | Givre → Eau → Givre | Froid, puis Gel par mouillure, puis brisure latente |
 
-Ces noms ne sont pas des prescriptions techniques. Ce sont des **manières de penser** la cascade — comme une calligraphie qui se transmet de maître à apprenti. Le joueur qui les connaît n'est pas obligé de les exécuter ; il a seulement appris, à travers elles, comment les voix s'enchaînent.
+Ces noms ne sont rien qu'on dicte. Ce sont des **manières de penser** la cascade — comme une calligraphie qui se transmet de maître à apprenti. Celui qui les connaît n'est pas obligé de les exécuter ; il a seulement appris, à travers elles, comment les voix s'enchaînent.
 
 > *« Une cascade n'est pas un combo. C'est une conversation à plusieurs voix où tu choisis dans quel ordre les voix entrent en scène. »*
 >
@@ -244,7 +244,7 @@ Un Lié d'Ignara n'a pas besoin de boire un élixir pour lancer une flamme : sa 
 
 Quand un Lié est pleinement [[L'Accord|Accordé]] à son Ère, et que sa Voie est dominante dans cette Ère, il vit ce que les Maîtres appellent la **double résonance** : sa magie passe à travers lui, et l'Ère elle-même prête sa voix à cette magie. Les réactions élémentaires qu'il déclenche s'amplifient alors d'une manière particulière — non parce qu'un multiplicateur s'ajoute, mais parce que **le monde répond plus fort** à ce qu'il prononce.
 
-C'est rare. C'est précieux. C'est ce qui fait qu'un Lié de premier rang, dans une Ère qui chante sa Voie, peut produire des cascades qu'aucun joueur d'une autre saison ne saurait reproduire. Cette dignité n'est pas tirée d'un cap de niveau, mais d'une **place dans la conversation cosmique**.
+C'est rare. C'est précieux. C'est ce qui fait qu'un Lié de premier rang, dans une Ère qui chante sa Voie, peut produire des cascades qu'aucun combattant d'une autre saison ne saurait reproduire. Cette dignité n'est pas tirée d'un degré durement gagné, mais d'une **place dans la conversation cosmique**.
 
 ### Quand deux Liés combinent leurs Voies
 
@@ -274,7 +274,7 @@ La chimie élémentaire, comme tout fait cosmique à Hybelior, est aussi un **ob
 | **Somnium Vigil** | Hybelior rêve les réactions différemment à chaque Ère. Ce que tu vois est ce que le rêveur a choisi de voir. |
 | **Lex Petra** | Hérésie. Aucun élément ne devrait se confondre. Les sectes dissidentes l'acceptent en cachette. |
 
-Aucune de ces lectures n'est la "vraie". Le joueur peut choisir celle qui colore son expérience, ou n'en choisir aucune et s'en tenir à la chimie pure. Le monde se permet d'avoir plusieurs voix qui interprètent un même phénomène — c'est ce qui le rend habitable.
+Aucune de ces lectures n'est la "vraie". Le voyageur peut choisir celle qui colore son expérience, ou n'en choisir aucune et s'en tenir à la chimie pure. Le monde se permet d'avoir plusieurs voix qui interprètent un même phénomène — c'est ce qui le rend habitable.
 
 ---
 
@@ -314,7 +314,7 @@ Une dimension qu'on oublie parfois, en parlant des réactions, c'est qu'elles ne
 
 Une lame enchantée par un forgeron d'Ulinor peut porter, à chaque coup, une trace de la voix d'Ignara — un peu de feu qui s'inscrit sur la cible et y dépose l'état Enflammé. Ce n'est pas la même chose qu'un sort lancé par un Lié — la voix passe par un objet, et non par un corps qui a juré. Mais le résultat, dans la chimie, est **identique** : la cible porte l'empreinte, et la voix suivante pourra y réagir.
 
-Cette mécanique permet à tous les joueurs, qu'ils soient ou non magiques, de participer à la chimie élémentaire. Hybelior assume cette ouverture. La promesse de la conversation cosmique ne saurait être réservée aux seuls Liés — elle doit être ouverte à tous ceux qui prennent le temps d'apprendre ses tours et ses détours. Les armes élémentaires sont la voie par laquelle un guerrier peut, sans rompre son serment de non-magie, **prêter sa frappe à une voix**.
+Cette pratique permet à tout combattant, qu'il soit ou non magique, de participer à la chimie élémentaire. Hybelior assume cette ouverture. La promesse de la conversation cosmique ne saurait être réservée aux seuls Liés — elle doit être ouverte à tous ceux qui prennent le temps d'apprendre ses tours et ses détours. Les armes élémentaires sont la voie par laquelle un guerrier peut, sans rompre son serment de non-magie, **prêter sa frappe à une voix**.
 
 ### Les élixirs et les onguents
 
@@ -354,7 +354,7 @@ Les boss les plus retors d'Hybelior, d'ailleurs, manipulent le décor eux-mêmes
 
 Selon l'Ère qu'on traverse, le décor d'Hybelior change de voix dominante. Sous une Ère d'Aquor, les pluies sont fréquentes — les corps mouillés deviennent monnaie courante, et les cascades qui en dépendent (Vaporisation, Gel, Électrocharge) s'enchaînent presque d'elles-mêmes. Sous une Ère d'Ignara, les feux du décor sont plus vifs, les sols sont plus secs, les eaux disponibles plus rares. Sous une Ère de Climata, le froid ambiant est partout — il dépose lentement l'état Froid sur quiconque reste immobile trop longtemps.
 
-Cette modulation du décor par l'Ère n'est pas un effet visuel. C'est une **transformation profonde des conditions chimiques** dans lesquelles les combats se déroulent. Le combattant qui s'adapte aux Ères n'apprend pas seulement à modifier ses sorts — il apprend à **lire un décor qui change de voix**. C'est l'un des grands plaisirs qu'Hybelior offre aux joueurs qui traversent plusieurs Souffles : sentir, à mesure qu'on passe d'une Ère à l'autre, que le monde lui-même **parle autrement**.
+Cette modulation du décor par l'Ère n'est pas un effet visuel. C'est une **transformation profonde des conditions chimiques** dans lesquelles les combats se déroulent. Le combattant qui s'adapte aux Ères n'apprend pas seulement à modifier ses sorts — il apprend à **lire un décor qui change de voix**. C'est l'un des grands plaisirs qu'Hybelior offre aux voyageurs qui traversent plusieurs Souffles : sentir, à mesure qu'on passe d'une Ère à l'autre, que le monde lui-même **parle autrement**.
 
 > *« Combattre sous l'Ère d'Aquor, c'est combattre dans une voix qui mouille tout. Sous l'Ère d'Ignara, c'est combattre dans une voix qui brûle tout. Apprends à habiter ces voix avant de prétendre les utiliser. »*
 >
@@ -374,9 +374,9 @@ Cette dualité — **amplification de certaines réactions, immunité à d'autre
 
 ### Les résistances et les vulnérabilités
 
-À l'inverse, certaines créatures sont **résistantes** à une voix — non pas immunisées, mais émoussées. Les coups de feu sur elles déposent l'état Enflammé plus difficilement, les Vaporisations sont moins dévastatrices, les Embrasements peinent à se déclencher. Cette résistance n'est pas une faiblesse pour le joueur — c'est une **invitation** à utiliser d'autres voix. Une créature résistante au feu est souvent vulnérable à autre chose : à la glace, à la foudre, à un coup physique pur.
+À l'inverse, certaines créatures sont **résistantes** à une voix — non pas immunisées, mais émoussées. Les coups de feu sur elles déposent l'état Enflammé plus difficilement, les Vaporisations sont moins dévastatrices, les Embrasements peinent à se déclencher. Cette résistance n'est pas une faiblesse pour le combattant — c'est une **invitation** à utiliser d'autres voix. Une créature résistante au feu porte presque toujours une **affinité contraire** ailleurs : à la glace, à la foudre, à un coup physique pur.
 
-Identifier la **vulnérabilité** d'une créature est l'un des grands plaisirs de l'exploration combat à Hybelior. Aucune créature n'est invulnérable à tout. Toutes ont une voix qui les **traverse** mieux que les autres. Trouver cette voix, c'est trouver la phrase qui dira à cet ennemi *je sais comment tu es fait*. Et une fois la voix trouvée, la chimie élémentaire devient un **outil de domination** — pas brutale, mais ajustée. C'est la différence entre frapper et **parler dans la langue de l'autre**.
+Identifier l'**affinité contraire** d'une créature est l'un des grands plaisirs de l'exploration combattante à Hybelior. Aucune créature n'est inattaquable par toutes les voix. Toutes ont une voix qui les **traverse** mieux que les autres. Trouver cette voix, c'est trouver la phrase qui dira à cet ennemi *je sais comment tu es fait*. Et une fois la voix trouvée, la chimie élémentaire devient un **outil de domination** — pas brutale, mais ajustée. C'est la différence entre frapper et **parler dans la langue de l'autre**.
 
 ### Les créatures qui réagissent à leur propre élément
 
@@ -420,15 +420,15 @@ Combattre seul, c'est faire chanter une voix. Combattre à plusieurs, c'est **di
 
 ### La répartition des voix
 
-Dans une équipe expérimentée, les voix élémentaires **se répartissent** naturellement entre les combattants. Tel joueur, équipé d'armes de feu, prend en charge l'inscription de l'état Enflammé. Tel autre, Lié à Aquor ou armé de projectiles d'eau, prend en charge le Mouillé. Tel troisième, archer à flèches élémentaires, sert de **chef de cascade** — celui qui dépose la dernière voix sur les corps préparés par les autres.
+Dans une équipe expérimentée, les voix élémentaires **se répartissent** naturellement entre les combattants. Tel compagnon, équipé d'armes de feu, prend en charge l'inscription de l'état Enflammé. Tel autre, Lié à Aquor ou armé de projectiles d'eau, prend en charge le Mouillé. Tel troisième, archer à flèches élémentaires, sert de **chef de cascade** — celui qui dépose la dernière voix sur les corps préparés par les autres.
 
-Cette répartition n'est pas imposée par le système. Comme tout à Hybelior, elle **émerge** du jeu lui-même. Une équipe qui découvre qu'elle compte deux Liés d'Aquor et aucun de feu s'organise différemment d'une équipe qui compte deux Liés d'Ignara et aucun d'eau. Elle apprend, par l'usage, quelles cascades elle peut tenter et lesquelles lui sont inaccessibles. Et parfois, elle **invente** — découvre une combinaison que les vieux maîtres n'avaient pas formellement enseignée, et qui s'avère redoutable dans une situation particulière.
+Cette répartition n'est jamais imposée. Comme tout à Hybelior, elle **émerge** de la pratique elle-même. Une équipe qui découvre qu'elle compte deux Liés d'Aquor et aucun de feu s'organise différemment d'une équipe qui compte deux Liés d'Ignara et aucun d'eau. Elle apprend, par l'usage, quelles cascades elle peut tenter et lesquelles lui sont inaccessibles. Et parfois, elle **invente** — découvre une combinaison que les vieux maîtres n'avaient pas formellement enseignée, et qui s'avère redoutable dans une situation particulière.
 
 ### Le langage non-verbal de la cascade
 
-Une cascade à plusieurs joueurs ne se prépare pas seulement par la parole. Elle se **vit**, dans le tissu du combat, à travers des **signaux non-verbaux** que les vétérans apprennent à émettre et à recevoir : un coup léger de feu pour marquer une cible qu'on s'apprête à enflammer, un geste de la main pour indiquer la prochaine voix, une position du corps qui dit *je m'écarte, c'est à toi*. Ce langage du combat est, pour les équipes soudées, **plus efficace que toute parole** — parce qu'il opère dans le temps même du combat, sans la latence d'une explication.
+Une cascade à plusieurs compagnons ne se prépare pas seulement par la parole. Elle se **vit**, dans le tissu du combat, à travers des **signaux non-verbaux** que les vétérans apprennent à émettre et à recevoir : un coup léger de feu pour marquer une cible qu'on s'apprête à enflammer, un geste de la main pour indiquer la prochaine voix, une position du corps qui dit *je m'écarte, c'est à toi*. Ce langage du combat est, pour les équipes soudées, **plus efficace que toute parole** — parce qu'il opère dans le temps même du combat, sans la latence d'une explication.
 
-Hybelior chérit ce langage. Il fait partie des plaisirs rares qu'un MMO peut offrir. Quand une équipe trouve son rythme chimique — quand chaque membre **sent** ce que les autres préparent, et y répond sans qu'on ait à se le dire — quelque chose advient qui dépasse la somme des joueurs. C'est ce que les vieux maîtres appellent l'**accord d'orchestre** : un moment où plusieurs voix humaines s'accordent à plusieurs voix cosmiques, et où le combat devient, pour quelques minutes, **une symphonie tenue**.
+Hybelior chérit ce langage. Il fait partie des plaisirs rares de tout monde partagé. Quand une équipe trouve son rythme chimique — quand chaque membre **sent** ce que les autres préparent, et y répond sans qu'on ait à se le dire — quelque chose advient qui dépasse la somme des combattants. C'est ce que les vieux maîtres appellent l'**accord d'orchestre** : un moment où plusieurs voix humaines s'accordent à plusieurs voix cosmiques, et où le combat devient, pour quelques minutes, **une symphonie tenue**.
 
 ### Les dangers du combat de groupe
 
@@ -440,7 +440,7 @@ Cette risque n'est pas un défaut du système. C'est une **conséquence assumée
 
 Cette gravité chimique impose, aux groupes qui veulent combattre ensemble, une **discipline** qu'on n'a pas dans le combat solo. Apprendre à ne pas frapper son propre coéquipier d'un sort qui le mettrait en danger. Apprendre à **annoncer** ses cascades avant de les déclencher. Apprendre à **lire** ce que les autres préparent, pour ne pas couper leur phrase par maladresse. Apprendre à **renoncer** à une cascade soi-même quand un compagnon a déjà commencé la sienne.
 
-Cette discipline, beaucoup de joueurs la trouvent **plus profonde** que ce qu'ils avaient connu dans d'autres jeux. Elle exige une attention soutenue, une communication continue, une humilité qui n'est pas spontanée dans le contexte d'un combat. Mais elle offre, en retour, ce que les jeux moins exigeants ne savent pas offrir : des moments où une équipe entière produit, en quinze secondes, une **œuvre chimique complète** dont personne, individuellement, ne serait l'auteur. Le combat devient alors une **forme d'art** — collective, fugace, mémorable.
+Cette discipline, beaucoup de combattants la trouvent **plus profonde** que ce qu'ils avaient connu ailleurs. Elle exige une attention soutenue, une communication continue, une humilité qui n'est pas spontanée dans le contexte d'un combat. Mais elle offre, en retour, ce que les arts moins exigeants ne savent pas offrir : des moments où une équipe entière produit, en quinze secondes, une **œuvre chimique complète** dont personne, individuellement, ne serait l'auteur. Le combat devient alors une **forme d'art** — collective, fugace, mémorable.
 
 > *« Tu sauras que ton équipe est devenue grande le jour où vous cesserez d'avoir besoin de vous parler. Pas parce que vous serez devenus muets — mais parce que la chimie aura pris le relais. »*
 >
@@ -448,31 +448,31 @@ Cette discipline, beaucoup de joueurs la trouvent **plus profonde** que ce qu'il
 
 ---
 
-## La chimie en PvP — combattre un cerveau qui répond
+## La chimie en duel — combattre un cerveau qui répond
 
-Combattre un monstre, c'est combattre un schéma. Combattre un autre joueur, c'est combattre un **cerveau** — quelqu'un qui te lit autant que tu le lis, qui anticipe autant que tu anticipes, qui peut **te retourner** ta propre phrase chimique. Cette dimension change profondément ce que la chimie élémentaire signifie. Elle devient un **jeu de prédiction** autant qu'un jeu d'exécution.
+Combattre un monstre, c'est combattre un schéma. Combattre un autre combattant en duel ou en lutte ouverte, c'est combattre un **cerveau** — quelqu'un qui te lit autant que tu le lis, qui anticipe autant que tu anticipes, qui peut **te retourner** ta propre phrase chimique. Cette dimension change profondément ce que la chimie élémentaire signifie. Elle devient une **prédiction** autant qu'une exécution.
 
 ### Le retournement de phrase
 
-Le cas le plus délicat du PvP élémentaire est ce qu'on appelle le **retournement**. Tu prépares une cascade — tu mouilles ton adversaire, tu t'apprêtes à le foudroyer — et lui, lisant ta préparation, **utilise lui-même** la mouillure que tu viens de poser pour t'imposer une Électrocharge avant que tu n'aies eu le temps de finir ta phrase. Tu t'es fait **retourner** ta propre phrase. La voix que tu avais déposée a été reprise par celui-là même que tu visais, et elle s'est mise à parler **dans l'autre sens**.
+Le cas le plus délicat du duel élémentaire est ce qu'on appelle le **retournement**. Tu prépares une cascade — tu mouilles ton adversaire, tu t'apprêtes à le foudroyer — et lui, lisant ta préparation, **utilise lui-même** la mouillure que tu viens de poser pour t'imposer une Électrocharge avant que tu n'aies eu le temps de finir ta phrase. Tu t'es fait **retourner** ta propre phrase. La voix que tu avais déposée a été reprise par celui-là même que tu visais, et elle s'est mise à parler **dans l'autre sens**.
 
 Cette possibilité existe parce que la chimie élémentaire, à Hybelior, n'appartient à personne. Une fois qu'une voix est inscrite sur un corps, **n'importe qui** peut la faire réagir. Si tu mouilles un ennemi, tu lui *ouvres* littéralement une porte que ses alliés pourront aussi exploiter. Et si l'ennemi en question est habile, il pourra parfois **se servir de ton coup** contre toi.
 
-Cette dimension est volontaire. Hybelior refuse l'idée que la chimie soit une mécanique unilatérale, où le lanceur garderait toujours la main. Le combat est une **conversation à deux** — et dans toute conversation, les mots qu'on prononce peuvent être repris par l'autre. Apprendre à combattre en PvP, à Hybelior, c'est apprendre que **chaque empreinte qu'on inscrit est une promesse à double tranchant**.
+Cette dimension est volontaire. Hybelior refuse l'idée que la chimie soit une affaire unilatérale, où le lanceur garderait toujours la main. Le combat est une **conversation à deux** — et dans toute conversation, les mots qu'on prononce peuvent être repris par l'autre. Apprendre à combattre dans le duel et la lutte ouverte, à Hybelior, c'est apprendre que **chaque empreinte qu'on inscrit est une promesse à double tranchant**.
 
 ### L'art de la non-empreinte
 
-Une stratégie avancée du PvP, à Hybelior, est ce qu'on appelle l'**art de la non-empreinte**. Plutôt que de chercher à inscrire des états sur l'adversaire — qui pourrait les retourner —, certains combattants préfèrent **frapper sec**, sans laisser de trace exploitable. Une frappe physique pure. Un sort qui ne dépose aucun état. Une voix qui agit et s'efface. Cette stratégie est moins spectaculaire que les cascades — mais elle ne donne **aucune prise** à l'adversaire.
+Une stratégie avancée du duel, à Hybelior, est ce qu'on appelle l'**art de la non-empreinte**. Plutôt que de chercher à inscrire des états sur l'adversaire — qui pourrait les retourner —, certains combattants préfèrent **frapper sec**, sans laisser de trace exploitable. Une frappe physique pure. Un sort qui ne dépose aucun état. Une voix qui agit et s'efface. Cette stratégie est moins spectaculaire que les cascades — mais elle ne donne **aucune prise** à l'adversaire.
 
-Choisir entre la cascade et la non-empreinte est, en PvP, une décision continue. Contre un débutant, la cascade paie — il ne saura pas retourner ce qu'on lui inscrit. Contre un vétéran, la non-empreinte est souvent plus sûre — chaque empreinte qu'on lui pose risque de devenir une arme contre soi. Et entre ces deux pôles, il y a tout un art **subtil** que les combattants PvP apprennent par les défaites successives.
+Choisir entre la cascade et la non-empreinte est, en duel, une décision continue. Contre un débutant, la cascade paie — il ne saura pas retourner ce qu'on lui inscrit. Contre un vétéran, la non-empreinte est souvent plus sûre — chaque empreinte qu'on lui pose risque de devenir une arme contre soi. Et entre ces deux pôles, il y a tout un art **subtil** que les duellistes apprennent par les défaites successives.
 
 ### La feinte chimique
 
 Plus subtile encore : la **feinte chimique**. Le combattant lance un sort qui *semble* préparer une cascade — il mouille son adversaire, par exemple — mais sans intention réelle de la finir. L'adversaire, lisant la mouillure, anticipe le coup de feu ou de foudre qui devrait suivre, et **se positionne** pour le contrer ou pour le retourner. Pendant qu'il fait cela, le combattant change de phrase et le frappe d'une voix toute différente — une voix physique, par exemple — qui prend l'adversaire à contre-pied.
 
-La feinte chimique est l'une des formes les plus raffinées du PvP. Elle exige du combattant qu'il soit **un acteur** autant qu'un combattant — qu'il prépare une phrase pour amener l'adversaire à anticiper, puis qu'il en prononce une autre au dernier moment. Et elle exige de l'adversaire la sagesse de **ne pas se précipiter** quand il voit une préparation qui semble évidente. Les vieux maîtres PvP disent qu'on reconnaît un grand combattant à ce qu'il *attend l'instant juste*, même quand on lui sert ce qui ressemble à une opportunité.
+La feinte chimique est l'une des formes les plus raffinées du duel. Elle exige du combattant qu'il soit **un acteur** autant qu'un combattant — qu'il prépare une phrase pour amener l'adversaire à anticiper, puis qu'il en prononce une autre au dernier moment. Et elle exige de l'adversaire la sagesse de **ne pas se précipiter** quand il voit une préparation qui semble évidente. Les vieux maîtres de duel disent qu'on reconnaît un grand combattant à ce qu'il *attend l'instant juste*, même quand on lui sert ce qui ressemble à une opportunité.
 
-> *« En PvP, l'empreinte que tu poses est un cadeau. Demande-toi à qui tu fais ce cadeau. À toi-même ? Ou à celui qui te fait face ? »*
+> *« En duel, l'empreinte que tu poses est un cadeau. Demande-toi à qui tu fais ce cadeau. À toi-même ? Ou à celui qui te fait face ? »*
 >
 > *— Iltheia, prêtresse-guerrière de l'Ignis Aeternum*
 
@@ -480,13 +480,13 @@ La feinte chimique est l'une des formes les plus raffinées du PvP. Elle exige d
 
 ## L'économie de la chimie
 
-La chimie élémentaire n'est pas gratuite. Toute frappe qui inscrit un état coûte quelque chose — de la stamina, du mana, une charge d'élixir, une flèche élémentaire, une pièce de l'arme enchantée qui s'use. Cette **économie chimique** est l'un des aspects les moins glamour du système, mais elle est l'un des plus structurants pour l'expérience de jeu.
+La chimie élémentaire n'est jamais gratuite. Toute frappe qui inscrit un état coûte quelque chose — du **souffle** consumé dans le geste, de l'**élan** qui s'épuise, de la **ferveur** prélevée à la voix qui passe, une flèche élémentaire, une pièce de l'arme enchantée qui s'use. Cette **économie chimique** est l'un des aspects les moins flamboyants de la pratique, et l'un des plus structurants.
 
 ### Le coût des sorts
 
-Un Lié qui lance un sort élémentaire paie en **mana** — la ressource cosmique qui canalise sa Voie. Ce coût n'est pas symbolique : il limite le nombre de phrases chimiques qu'un Lié peut tenir dans un combat avant de devoir se reposer. Cette limitation est volontaire. Hybelior refuse l'idée qu'un Lié puisse **spammer** ses sorts sans contrainte — ce serait dévaloriser la voix qui passe par lui, la réduire à une statistique inépuisable. Le mana dit, au contraire, que **toute parole cosmique a un poids**, et qu'on ne peut pas la prononcer indéfiniment.
+Un Lié qui lance un sort élémentaire paie en **ferveur** — l'ardeur intérieure qui canalise sa Voie. Ce coût n'est pas symbolique : il limite le nombre de phrases chimiques qu'un Lié peut tenir dans un combat avant de devoir se reposer. Cette limitation est volontaire. Hybelior refuse l'idée qu'un Lié puisse répéter ses sorts sans contrainte — ce serait dévaloriser la voix qui passe par lui, la réduire à un puits sans fond. La ferveur dit, au contraire, que **toute parole cosmique a un poids**, et qu'on ne peut pas la prononcer indéfiniment.
 
-Cette économie change la manière dont on prépare un combat. Un Lié sage **réserve** son mana pour les cascades qui comptent — pas celles qu'on tente par paresse, mais celles qu'on prépare avec intention. Et un Lié qui a épuisé son mana en début de combat se retrouve, le reste du combat, dans une position de **vulnérabilité chimique** que l'adversaire saura exploiter.
+Cette économie change la manière dont on prépare un combat. Un Lié sage **réserve** sa ferveur pour les cascades qui comptent — pas celles qu'on tente par paresse, mais celles qu'on prépare avec intention. Et un Lié qui a épuisé sa ferveur en début de combat se retrouve, le reste du combat, dans une position de **résonance brisée** que l'adversaire saura exploiter.
 
 ### Le coût des consommables
 
@@ -542,11 +542,11 @@ Plus théorique que pratique, l'École de la Foudre s'intéresse aux **propriét
 
 ### L'École du Brouillard, à Onara
 
-La plus secrète. L'École du Brouillard enseigne une chimie **trompeuse**, fondée sur les feintes et les retournements. Ses maîtres sont les meilleurs joueurs PvP du monde, mais ils n'enseignent qu'à un petit nombre d'élèves choisis. Leur philosophie tient en une idée : la vraie chimie n'est pas dans ce qu'on déclenche, mais dans ce qu'on **laisse croire qu'on va déclencher**. Les combattants formés par cette école sont, paradoxalement, ceux qui inscrivent **le moins d'états sur leurs adversaires** — et qui en exploitent le plus.
+La plus secrète. L'École du Brouillard enseigne une chimie **trompeuse**, fondée sur les feintes et les retournements. Ses maîtres sont les plus redoutables duellistes du monde, mais ils n'enseignent qu'à un petit nombre d'élèves choisis. Leur philosophie tient en une idée : la vraie chimie n'est pas dans ce qu'on déclenche, mais dans ce qu'on **laisse croire qu'on va déclencher**. Les combattants formés par cette école sont, paradoxalement, ceux qui inscrivent **le moins d'états sur leurs adversaires** — et qui en exploitent le plus.
 
 ### Les écoles régionales
 
-À côté de ces grandes écoles, chaque continent et presque chaque grande cité d'Hybelior cultive ses **traditions chimiques** propres. Les maîtres-archers de Cendara enseignent une chimie de la flèche élémentaire qui n'a pas son équivalent ailleurs. Les chamanes de Climata pratiquent une chimie animiste où les voix élémentaires sont vues comme des **esprits** à invoquer plutôt que comme des forces à manipuler. Les artisans de l'Ordo Caelum développent des chimies sacrées qu'aucun manuel profane ne décrit. Cette polyphonie d'écoles enrichit le monde — elle assure qu'il n'y aura **jamais une seule manière** de pratiquer la chimie, et qu'un joueur qui voyage de continent en continent rencontrera toujours de nouvelles façons d'aborder ce qu'il croyait connaître.
+À côté de ces grandes écoles, chaque continent et presque chaque grande cité d'Hybelior cultive ses **traditions chimiques** propres. Les maîtres-archers de Cendara enseignent une chimie de la flèche élémentaire qui n'a pas son équivalent ailleurs. Les chamanes de Climata pratiquent une chimie animiste où les voix élémentaires sont vues comme des **esprits** à invoquer plutôt que comme des forces à manipuler. Les artisans de l'Ordo Caelum développent des chimies sacrées qu'aucun manuel profane ne décrit. Cette polyphonie d'écoles enrichit le monde — elle assure qu'il n'y aura **jamais une seule manière** de pratiquer la chimie, et qu'un voyageur qui passe de continent en continent rencontrera toujours de nouvelles façons d'aborder ce qu'il croyait connaître.
 
 > *« Combien d'écoles enseignent la chimie ? Autant qu'il y a de manières de vivre. Et chaque manière a sa vérité. »*
 >
@@ -566,7 +566,7 @@ Cette pratique du journal est encouragée par les écoles. Pas comme une obligat
 
 ### La transmission
 
-Au sein d'une équipe stable, des **transmissions chimiques** se font entre joueurs. Un vétéran montre à un nouveau comment préparer une cascade qu'il a maîtrisée depuis longtemps. Le nouveau, en retour, apporte des intuitions fraîches que le vétéran avait perdues à force de routine. Cette circulation entre générations — y compris au sein de la même équipe — est l'une des dimensions sociales les plus précieuses du système.
+Au sein d'une équipe stable, des **transmissions chimiques** se font entre compagnons. Un vétéran montre à un nouveau venu comment préparer une cascade qu'il a maîtrisée depuis longtemps. Le nouveau venu, en retour, apporte des intuitions fraîches que le vétéran avait perdues à force de routine. Cette circulation entre générations — y compris au sein de la même équipe — est l'une des dimensions sociales les plus précieuses de la pratique.
 
 Hybelior n'a pas voulu faire de la chimie élémentaire un **savoir solitaire**. C'est, au contraire, un savoir qui s'échange — qui passe de bouche en bouche, de combat en combat, de génération en génération. Et c'est cette circulation qui fait que le monde **vit** chimiquement, plutôt que de se figer dans des recettes établies une fois pour toutes.
 
@@ -586,7 +586,7 @@ Cette **philosophie du miroir** colore profondément l'apprentissage du combat �
 
 Et puis il y a, parfois, l'expérience inverse — celle du **silence des voix intérieures**. Un combattant qui ne parvient pas à composer ses propres voix, qui se sent tiraillé entre des fragments contradictoires, qui ne sait plus quelle voix écouter en lui. Hybelior n'a pas honte de dire que cette expérience aussi existe. Et que **le combat peut être, pour ces personnes-là, un chemin** — non pas la solution, mais une discipline qui, en exigeant qu'on écoute les voix extérieures, peut, à terme, aider à écouter les voix intérieures.
 
-Cette dimension n'est jamais imposée. Aucun joueur n'est obligé d'y voir une métaphore de sa propre vie. Mais elle est **là**, en filigrane, pour ceux qui veulent l'y voir. Et c'est, peut-être, la dimension la plus profonde du système chimique d'Hybelior : non pas qu'il enseigne à mieux combattre, mais qu'il enseigne, à ceux qui prennent le temps de l'écouter, à **mieux se composer soi-même**.
+Cette dimension n'est jamais imposée. Aucun voyageur n'est obligé d'y voir une métaphore de sa propre vie. Mais elle est **là**, en filigrane, pour ceux qui veulent l'y voir. Et c'est, peut-être, la dimension la plus profonde de la chimie d'Hybelior : non pas qu'elle enseigne à mieux combattre, mais qu'elle enseigne, à ceux qui prennent le temps de l'écouter, à **mieux se composer soi-même**.
 
 > *« Quand tu fais dialoguer le feu et l'eau, demande-toi ce qui en toi est feu et ce qui en toi est eau. Et demande-toi si tu sais les faire dialoguer aussi. »*
 >
@@ -646,13 +646,13 @@ Comme toute chose qui tient une place centrale dans la vie d'un monde, la chimie
 
 Faut-il, pour bien combattre chimiquement, **se spécialiser** dans une ou deux voix qu'on maîtrise à fond, ou **rester généraliste** pour pouvoir s'adapter à toutes les situations ? Les écoles s'opposent sur ce point depuis des décennies. L'École Grise tend vers le généralisme — elle forme des combattants polyvalents capables de basculer d'une chimie à l'autre selon l'adversaire. L'École de la Vapeur, à l'inverse, défend la spécialisation extrême — un maître vaporisateur ne combat presque qu'eau-feu, et atteint dans ce domaine une virtuosité qu'aucun généraliste ne saurait égaler.
 
-Aucune des deux positions n'a tort. Les deux produisent des combattants redoutables. Mais elles produisent des **types** de combattants différents — et les joueurs, en se rangeant d'un côté ou de l'autre, font, à leur manière, un choix philosophique sur ce qu'ils veulent être au combat.
+Aucune des deux positions n'a tort. Les deux produisent des combattants redoutables. Mais elles produisent des **types** de combattants différents — et chacun, en se rangeant d'un côté ou de l'autre, fait à sa manière un choix philosophique sur ce qu'il veut être au combat.
 
-### La question du PvP
+### La question du duel et de la lutte ouverte
 
-Une autre controverse, plus brûlante : la chimie élémentaire **doit-elle** être présente en PvP au même niveau qu'en PvE, ou faut-il l'atténuer pour les combats entre joueurs ? Les défenseurs de l'égalité totale disent que rien ne distingue, dans la cosmologie, un coup porté à un monstre d'un coup porté à un joueur — les voix ne lisent pas les intentions, elles réagissent. Les partisans de l'atténuation arguent que le PvP est, par nature, plus volatile, et qu'une chimie aussi dévastatrice qu'en PvE rendrait les combats trop courts, trop décisifs, trop frustrants.
+Une autre controverse, plus brûlante : la chimie élémentaire **doit-elle** opérer à pleine force contre une bête sauvage **et** contre un autre mortel, ou faut-il l'atténuer pour les duels et les luttes ouvertes ? Les défenseurs de l'égalité totale disent que rien ne distingue, dans la cosmologie, un coup porté à une créature d'un coup porté à un homme — les voix ne lisent pas les intentions, elles réagissent. Les partisans de l'atténuation arguent que la lutte ouverte entre mortels est, par nature, plus volatile, et qu'une chimie aussi dévastatrice qu'en chasse rendrait les combats trop courts, trop décisifs, trop frustrants.
 
-Hybelior, sur cette question, a tranché en faveur de **l'égalité avec nuances** : la chimie opère pleinement en PvP, mais certaines réactions extrêmes (comme l'Embrasement) sont modulées par des coefficients qui les empêchent de raser une équipe entière en une seule cascade. Cette décision reste contestée. Certaines guildes la trouvent trop molle, d'autres trop dure. Le débat continue — et c'est tant mieux. Un monde où l'on ne débat plus de ses propres mécaniques est un monde qui s'est figé.
+Hybelior, sur cette question, a tranché en faveur de **l'égalité avec nuances** : la chimie opère pleinement entre mortels, mais certaines réactions extrêmes (comme l'Embrasement) sont modulées pour les empêcher de raser une équipe entière en une seule cascade. Cette décision reste contestée. Certaines compagnies la trouvent trop molle, d'autres trop dure. Le débat continue — et c'est tant mieux. Un monde où l'on ne débat plus de ses propres règles est un monde qui s'est figé.
 
 ### Les chimies interdites
 
@@ -694,9 +694,18 @@ Il y a dans cette mécanique une exigence et une promesse. L'exigence : on ne co
 
 ## Voir aussi
 
-*Liens narratifs : [[Combat]] | [[Le Lien]] | [[Le Souffle]] | [[Les Ères]] | [[L'Accord]] | [[Cosmologie]] | [[Armes et Maîtrise]]*
+**Liens narratifs**
 
-*Implémentation technique (matrice exacte, multiplicateurs, durées, tags GAS) :*
-- [[Elemental Reactions]] — le moteur statique `UHWElementalReactionSystem` et sa matrice de réactions
-- [[Effects Elemental States]] — les Gameplay Effects qui posent les états élémentaires (Burning, Wet, Cold, Frozen, Electrified, Charged)
+- [[Combat]] — le combat comme conversation
+- [[Le Lien]] — les Voies et leurs synergies
+- [[Le Souffle]] — le rythme cosmique qui amplifie ou étouffe les réactions
+- [[Les Ères]] — la dominante saisonnière du monde
+- [[L'Accord]] — la résonance personnelle qui colore les phrases chimiques
+- [[Cosmologie]] — d'où viennent les voix qui se mêlent
+- [[Armes et Maîtrise]] — la pratique armée et ses conditions cachées
+
+**Liens d'implémentation**
+
+- [[Elemental Reactions]] — matrice exacte, multiplicateurs, durées
+- [[Effects Elemental States]] — déclinaison technique des états élémentaires (Burning, Wet, Cold, Frozen, Electrified, Charged)
 - [[Reactions Integration]] — le pipeline complet combo → moveset → ExecutionCalc → AttributeSet → réaction

@@ -2,7 +2,7 @@
 tags: [index, vision, navigation]
 type: index
 status: living-doc
-last_review: 2026-05-01
+last_review: 2026-05-12
 needs_review_for: []
 ---
 
@@ -14,23 +14,21 @@ needs_review_for: []
 
 ---
 
-## Fichiers du dossier
-
+<!--
 ```dataview
 TABLE status, last_review
 FROM "01 - Vision"
 WHERE file.name != "Index"
 SORT file.name ASC
 ```
-
----
+-->
 
 ## Lecture conseillée
 
-- [[Vision]] — pitch, audience, ce qui différencie le jeu
+- [[Vision]] — pitch, audience, ce qui distingue Hybélior
 - [[Univers]] — toile de fond, ambiance, narration ambiante
-- [[La Partie]] — expérience continue du joueur ; le monde traverse des Ères (pas de wipe)
-- [[Production]] — philosophie de production, recombinaison, équipe
+- [[La Partie]] — l'expérience continue du voyageur ; le monde traverse des Ères, sans rupture
+- [[Production]] — philosophie de production, recombinaison, atelier
 
 ---
 

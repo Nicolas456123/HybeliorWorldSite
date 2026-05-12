@@ -2,26 +2,15 @@
 tags: [index, mécaniques, navigation]
 type: index
 status: living-doc
-last_review: 2026-05-01
+last_review: 2026-05-12
 needs_review_for: []
 ---
 
 # 03 — Mécaniques
 
-> Le cœur gameplay. Tout ce qui chiffre, règle, déclenche, récompense. Le **comment** d'HybeliorWorld.
+> Le cœur vivant d'Hybélior. Tout ce qui chiffre, règle, déclenche, récompense. Le **comment** d'HybeliorWorld.
 >
-> ⭐ Trois fichiers en tête forment le pilier d'identité gameplay post-refonte : **[[Le Souffle]]**, **[[L'Accord]]**, **[[Les Ères]]**.
-
----
-
-## Fichiers du dossier
-
-```dataview
-TABLE status, last_review, needs_review_for
-FROM "03 - Mécaniques"
-WHERE file.name != "Index"
-SORT file.name ASC
-```
+> ⭐ Trois fichiers en tête forment le pilier d'identité du monde post-refonte : **[[Le Souffle]]**, **[[L'Accord]]**, **[[Les Ères]]**.
 
 ---
 
@@ -47,7 +36,7 @@ SORT file.name ASC
 
 - [[Mort]] — perte d'Accord et de Reconnaissance, résurrection par Voie d'Eldoria
 - [[PvP]] — flag optionnel, karma à plusieurs paliers
-- [[Guildes]] — structures joueurs (paliers et sièges)
+- [[Guildes]] — structures fondées par les voyageurs (paliers et sièges)
 - [[Factions]] — organisations lore prédéfinies
 
 ## Vivre et explorer
@@ -56,12 +45,12 @@ SORT file.name ASC
 - [[Métiers]] — éventail des métiers, mini-jeux, recettes éphémères
 - [[Économie]] — Éclats, Hôtel des ventes, gold sinks
 
-## Méta-gameplay et UI
+## Méta-récit et lecture du monde
 
 - [[Prédiction]] — disciplines de lecture du monde, Bourse des Augures
 - [[Interface]] — HUD, fiche personnage, contrôles
 
-## Items et ressources *(branche en cours — sprint pilote descente des couches)*
+## Items et ressources *(branche en cours)*
 
 - [[Items/Index|Items]] — sous-dossier dédié : catégories, types, sources de production, catégories de craft
   - [[Catégories d'Items]]

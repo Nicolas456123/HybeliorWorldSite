@@ -2,7 +2,7 @@
 tags: [index, systèmes, navigation]
 type: index
 status: living-doc
-last_review: 2026-05-02
+last_review: 2026-05-12
 needs_review_for: []
 ---
 
@@ -14,21 +14,19 @@ needs_review_for: []
 
 ---
 
-## Fichiers du dossier
-
+<!--
 ```dataview
 TABLE status, last_review
 FROM "04 - Systèmes"
 WHERE file.name != "Index"
 SORT file.name ASC
 ```
-
----
+-->
 
 ## Contenu
 
-- [[Architecture Data-Driven]] — générateurs paramétriques (Era, Variant, Material, Recipe, Quest, NPC, Loot, Event, Trace, ItemModifier, PlantDecoration, Behavior)
-- [[PNJ]] — système et archétypes
+- [[Architecture Data-Driven]] — les douze grandes voix qui régissent le monde paramétrique
+- [[PNJ]] — présence, archétypes, mémoire des habitants
 
 ## Sous-dossiers
 

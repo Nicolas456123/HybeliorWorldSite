@@ -1,7 +1,7 @@
 ---
 tags: [pnj, présence, monde-vivant, philosophie, narration]
 status: drafted
-last_review: 2026-05-07
+last_review: 2026-05-12
 needs_review_for: []
 type: system-narrative
 implementation: "[[NPC Spec]]"
@@ -17,7 +17,7 @@ implementation: "[[NPC Spec]]"
 
 ## L'idée du PNJ
 
-Dans la plupart des mondes qui se prétendent peuplés, les PNJ sont des **stands**. On reconnaît leur fonction à un point d'exclamation flottant au-dessus de leur tête, à leur posture figée derrière un comptoir, à la phrase unique qu'ils répètent quand on les croise sans les solliciter. Ils ne dorment pas, ils ne mangent pas, ils ne discutent pas entre eux. Ils existent **pour le joueur** — pour lui donner une quête, lui vendre une potion, lui rappeler une mécanique. Le reste du temps, ils ne sont rien.
+Dans la plupart des mondes qui se prétendent peuplés, les PNJ sont des **stands**. On reconnaît leur fonction à un point d'exclamation flottant au-dessus de leur tête, à leur posture figée derrière un comptoir, à la phrase unique qu'ils répètent quand on les croise sans les solliciter. Ils ne dorment pas, ils ne mangent pas, ils ne discutent pas entre eux. Ils existent **pour le voyageur** — pour lui donner une quête, lui vendre une potion, lui rappeler une règle. Le reste du temps, ils ne sont rien.
 
 Hybelior refuse cette équation. Pas par préciosité ; par **cohérence**. Si l'on veut un monde vivant, on ne peut pas le peupler de figures qui ne vivent qu'au moment où on les regarde. Un PNJ ici n'est pas un service. C'est **une présence**. Quelqu'un qui était là avant que tu arrives, qui sera là après ton départ, et dont la vie n'attend pas la tienne pour avoir lieu.
 
@@ -31,7 +31,7 @@ Cette intuition simple a des conséquences profondes. Elle change la façon dont
 
 ## La présence comme contrat
 
-Ce que nous appelons **la présence** est le contrat qu'un PNJ d'Hybelior passe avec le monde — et avec le joueur qui le rencontre. Trois choses au moins doivent en découler.
+Ce que nous appelons **la présence** est le contrat qu'un PNJ d'Hybelior passe avec le monde — et avec celui qui le rencontre. Trois choses au moins doivent en découler.
 
 **Un nom.** Pas "Forgeron du village" ni "Marchand". Un nom propre, qu'on apprend, qu'on retient, qu'on oublie peut-être, mais qui était là avant nous. Vellran, Maréa, Sennar le Vieux, l'Aïeule des Sources — chaque PNJ porte un nom comme on porte une histoire. Le nom dit : *je ne suis pas une fonction interchangeable.*
 
@@ -63,7 +63,7 @@ On distingue, dans la trame humaine d'Hybelior, plusieurs **manières d'habiter 
 
 **Le notable** tient un rang. Maire, intendant, capitaine, propriétaire. Il a des intérêts, des alliances, des dettes. On ne lui parle pas comme à un égal, sauf si l'on est notable soi-même. Il pèse sur les décisions de sa cité, et ses décisions pèsent sur la vie des autres.
 
-**Le garde**, **le soldat**, **le voyageur**, **le conteur** — il y aurait d'autres figures à nommer, et Hybelior en accueille beaucoup. L'important n'est pas la liste. L'important est ceci : **chaque archétype est une manière d'être au monde**, pas un rôle dans la machine du jeu. Quand un joueur croise un ermite, il ne croise pas un "type d'objet" ; il croise quelqu'un qui a choisi le silence, et dont le silence dit quelque chose.
+**Le garde**, **le soldat**, **le voyageur**, **le conteur** — il y aurait d'autres figures à nommer, et Hybelior en accueille beaucoup. L'important n'est pas la liste. L'important est ceci : **chaque archétype est une manière d'être au monde**, pas un rôle dans une machine. Quand un voyageur croise un ermite, il ne croise pas un "type d'objet" ; il croise quelqu'un qui a choisi le silence, et dont le silence dit quelque chose.
 
 > *« Les ermites ne te diront pas ce qu'ils savent. Ils te laisseront seulement le découvrir devant eux. »*
 >
@@ -75,7 +75,7 @@ On distingue, dans la trame humaine d'Hybelior, plusieurs **manières d'habiter 
 
 Et puis il y a ceux qui ne parlent pas. Pas parce qu'on a oublié de leur écrire des lignes — parce que **leur silence est leur présence**. La vieille femme qui balaie le seuil d'une maison ; l'enfant qui regarde passer les voyageurs depuis le rebord d'un puits ; le veilleur qui, à la nuit tombée, allume les lampes d'une ruelle sans dire un mot. Ces présences muettes sont **fondamentales**. Elles disent que le monde n'est pas un théâtre dont chaque figurant attend sa réplique.
 
-Un monde où **tout** PNJ parle est un monde épuisant — un monde qui n'arrête pas de te solliciter. Le silence d'une partie du peuplement est ce qui rend la parole des autres précieuse. Quand un mendiant te tire par la manche au coin d'une rue, après que tu as croisé trente présences muettes, tu sais qu'il a quelque chose à dire.
+Un monde où **tout** PNJ parle est un monde épuisant — un monde qui n'arrête pas de solliciter celui qui le traverse. Le silence d'une partie du peuplement est ce qui rend la parole des autres précieuse. Quand un mendiant te tire par la manche au coin d'une rue, après que tu as croisé trente présences muettes, tu sais qu'il a quelque chose à dire.
 
 > *« Je n'ai jamais entendu sa voix. Mais je connais sa figure mieux que celle de mon frère — elle est devant la chapelle chaque jour de marché depuis dix ans. »*
 >
@@ -85,13 +85,13 @@ Un monde où **tout** PNJ parle est un monde épuisant — un monde qui n'arrêt
 
 ## PNJ et Souffle
 
-Les PNJ d'Hybelior **vivent les Ères**. Quand le Souffle passe — voir [[Le Souffle]] — ils ne reçoivent pas une mise à jour silencieuse de leurs paramètres. Ils ressentent la nouvelle Ère comme leurs joueurs la ressentent : avec étrangeté, espoir, crainte, parfois soulagement.
+Les PNJ d'Hybelior **vivent les Ères**. Quand le Souffle passe — voir [[Le Souffle]] — ils ne reçoivent pas une mise à jour silencieuse de leurs paramètres. Ils ressentent la nouvelle Ère comme les voyageurs la ressentent : avec étrangeté, espoir, crainte, parfois soulagement.
 
 Le marchand ajuste ses étalages, parce que le monde demande désormais d'autres marchandises. L'artisan tâtonne dans une recette qu'il croyait maîtriser. Le pèlerin reprend la route vers un sanctuaire qui, hier encore, ne l'appelait pas. Le scribe s'enferme pour consigner ce qu'il a vu. Le mendiant rêve plus fort. L'ermite, dans son silence, sourit ou serre les dents — lui seul saura, et il ne le dira pas.
 
-Avant même le Souffle, les **signes faibles** passent par eux. Un voyageur qui parle d'une migration étrange. Un pèlerin qui dit avoir vu un trembling dans la constellation. Un conteur qui glisse, dans un récit ancien, une phrase qu'il n'avait jamais dite. Ce sont les PNJ qui portent ces signes — et ce sont eux qui rendent la prédiction du prochain Souffle (voir [[Prédiction]]) **possible** dans le monde plutôt que dans une interface.
+Avant même le Souffle, les **signes faibles** passent par eux. Un voyageur qui parle d'une migration étrange. Un pèlerin qui dit avoir vu un tremblement dans la constellation. Un conteur qui glisse, dans un récit ancien, une phrase qu'il n'avait jamais dite. Ce sont les PNJ qui portent ces signes — et ce sont eux qui rendent la prédiction du prochain Souffle (voir [[Prédiction]]) **possible** dans le monde plutôt que dans une interface.
 
-Cette synchronie change tout. Elle dit au joueur : *tu n'es pas seul à vivre les Ères. Tout le monde les vit. Et le monde te le montre.*
+Cette synchronie change tout. Elle dit à l'arpenteur : *tu n'es pas seul à vivre les Ères. Tout le monde les vit. Et le monde te le montre.*
 
 > *« Hier mon père m'a dit qu'il avait rêvé d'une grande aile noire au-dessus du fleuve. Aucun de nous n'a osé en rire. Trois jours plus tard, l'Ère a basculé. »*
 >
@@ -107,7 +107,7 @@ Cette mémoire n'est pas un tableau de bord. Elle apparaît dans la **manière**
 
 Et inversement : si tu lui as fait du mal, le PNJ s'en souvient longtemps. Pas indéfiniment — la vie continue, l'oubli est un soin — mais assez pour que la honte, ou la satisfaction, soit réelle. Cette mémoire alimente ce qu'Hybelior appelle ta **Reconnaissance** dans le monde, et qui est l'un des fils tissés par [[L'Accord]]. Tu n'es pas un avatar anonyme. Tu es **quelqu'un qu'on a vu passer**.
 
-C'est, peut-être, la dimension la plus précieuse du système. Dans un MMO classique, les PNJ ne te connaissent pas — ils ne peuvent pas, ils ne sont pas faits pour. À Hybelior, ils te reconnaissent. Et cette reconnaissance, au fil des Ères, devient une **histoire commune** entre toi et le monde.
+C'est, peut-être, la dimension la plus précieuse de cette présence. Dans les grands mondes partagés classiques, les PNJ ne te connaissent pas — ils ne peuvent pas, ils ne sont pas faits pour. À Hybelior, ils te reconnaissent. Et cette reconnaissance, au fil des Ères, devient une **histoire commune** entre toi et le monde.
 
 > *« Le scribe Kaldris s'est levé quand je suis entré. Il ne se lève jamais. J'ai compris que mon nom voulait dire quelque chose, désormais, dans cette ville. »*
 >
@@ -119,7 +119,7 @@ C'est, peut-être, la dimension la plus précieuse du système. Dans un MMO clas
 
 À Hybelior, la parole d'un PNJ est une matière. Elle n'est pas un menu. Elle a un poids, un grain, une variabilité.
 
-Certains PNJ parlent peu. Ils répondent quand on les sollicite, mais leurs phrases sont brèves, leur regard rare. Ce ne sont pas de mauvais PNJ — ce sont des PNJ pour qui la parole **coûte**. Le joueur apprend, à force, à respecter cette économie.
+Certains PNJ parlent peu. Ils répondent quand on les sollicite, mais leurs phrases sont brèves, leur regard rare. Ce ne sont pas de mauvais PNJ — ce sont des PNJ pour qui la parole **coûte**. Le voyageur apprend, à force, à respecter cette économie.
 
 D'autres parlent beaucoup. Le conteur dans la taverne ne s'arrête jamais ; le marchand bavard te raconte sa famille avant de te vendre du sel ; le pèlerin sur la route déroule, pendant des heures, le récit de ses sanctuaires visités. Ces voix abondantes sont la chair sonore d'Hybelior. Elles colorent les villes, donnent leur identité aux régions, font qu'on rentre dans une auberge et qu'on **sent** où l'on est.
 
@@ -133,13 +133,13 @@ La parole générée — celle que l'IA peut produire, biaisée par l'Ère, par 
 
 ---
 
-## Le PNJ comme miroir du joueur
+## Le PNJ comme miroir du voyageur
 
-Si l'on veut comprendre, en une formule, pourquoi les PNJ d'Hybelior comptent autant, on dira ceci : **un PNJ est un miroir**. Il renvoie au joueur ce que le joueur **est** dans le monde.
+Si l'on veut comprendre, en une formule, pourquoi les PNJ d'Hybelior comptent autant, on dira ceci : **un PNJ est un miroir**. Il renvoie au voyageur ce qu'il **est** dans le monde.
 
 Quand un PNJ te reconnaît, c'est ta **trace** dans Hybelior qui te revient. Quand un PNJ te tend une faveur, c'est ton **réseau** qui se tisse. Quand un PNJ te chasse de sa boutique, c'est ta **réputation** qui parle. Quand un PNJ te raconte un rêve, c'est l'**Ère** qui te parle à travers lui. Quand un PNJ se tait, c'est le **monde** qui te demande de te taire avec lui.
 
-Le joueur, à force de PNJ rencontrés, comprend qui il est en train de devenir. Pas par un score affiché — par les visages qui se tournent vers lui dans une rue de capitale, par les mains qui se referment ou s'ouvrent à son approche, par les noms qu'on prononce derrière son dos quand il a quitté la pièce.
+L'arpenteur, à force de PNJ rencontrés, comprend qui il est en train de devenir. Pas par un score affiché — par les visages qui se tournent vers lui dans une rue de capitale, par les mains qui se referment ou s'ouvrent à son approche, par les noms qu'on prononce derrière son dos quand il a quitté la pièce.
 
 C'est cela, un PNJ d'Hybelior. Pas un distributeur. Pas un service. **Un autre habitant du monde**, dont la vie croise la tienne, et qui — peut-être — se souviendra de toi à la prochaine Ère.
 

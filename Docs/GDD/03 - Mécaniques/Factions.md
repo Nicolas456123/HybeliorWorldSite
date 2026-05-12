@@ -1,7 +1,7 @@
 ---
 tags: [factions, lore, social, politique, idéologie, narration, philosophie]
 status: drafted
-last_review: 2026-05-07
+last_review: 2026-05-12
 needs_review_for: []
 type: mechanic-narrative
 implementation: "[[Faction System]]"
@@ -21,7 +21,7 @@ Une faction, à Hybelior, n'est ni un cosmétique qu'on enfile, ni un grade qu'o
 
 Une faction est donc une **famille politique**, une **communauté d'imagination**, un **engagement** qui dit qui l'on est en disant à qui l'on est lié. Elle a son histoire, ses morts vénérés, ses pages honteuses, ses rituels. Elle a, surtout, un **horizon** — une idée de ce que le monde devrait devenir si elle avait toute liberté de l'orienter. Et c'est cet horizon, plus que n'importe quelle bannière, qui attache un mortel à elle.
 
-Les Guildes, à côté, sont autre chose : l'assemblée que les joueurs se donnent pour partager des moments, qui se crée et se défait au fil des Souffles. Une faction, elle, **précède** le joueur. Elle existait avant lui ; elle existera après. Quand on la rejoint, on n'invente pas — on **adhère**.
+Les Guildes, à côté, sont autre chose : l'assemblée que les voyageurs se donnent pour partager des moments, qui se crée et se défait au fil des Souffles. Une faction, elle, **précède** celui qui arrive. Elle existait avant lui ; elle existera après. Quand on la rejoint, on n'invente pas — on **adhère**.
 
 ---
 

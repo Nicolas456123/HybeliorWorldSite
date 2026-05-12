@@ -1,7 +1,7 @@
 ---
 tags: [exploration, monde-ouvert, decouverte, vision, narration, pilier]
 status: drafted
-last_review: 2026-05-07
+last_review: 2026-05-12
 needs_review_for: []
 type: mechanic-narrative
 implementation: "[[Exploration System]]"
@@ -17,7 +17,7 @@ implementation: "[[Exploration System]]"
 
 ## L'idée d'exploration
 
-À Hybelior, explorer n'est pas remplir une carte. C'est entrer en relation avec un monde qui a son secret — qui n'attend pas le joueur pour exister, qui ne se déroule pas autour de lui comme une scène, qui ne se livre que si on prend la peine de le rencontrer. La carte se remplit, oui, à mesure que les pas s'inscrivent ; mais ce n'est qu'une trace. Le geste réel se joue entre le voyageur et le terrain : la lenteur d'une approche, la surprise d'un détour, le moment où l'œil reconnaît qu'**ici, quelque chose veut être vu**.
+À Hybelior, explorer n'est pas remplir une carte. C'est entrer en relation avec un monde qui a son secret — qui n'attend pas le voyageur pour exister, qui ne se déroule pas autour de lui comme une scène, qui ne se livre que si on prend la peine de le rencontrer. La carte se remplit, oui, à mesure que les pas s'inscrivent ; mais ce n'est qu'une trace. Le geste réel se joue entre le voyageur et le terrain : la lenteur d'une approche, la surprise d'un détour, le moment où l'œil reconnaît qu'**ici, quelque chose veut être vu**.
 
 C'est le cœur du pilier "Liberté et découverte". Beaucoup de mondes ouverts confondent exploration et inventaire — ils dressent des listes de marqueurs et appellent "exploration" l'acte d'aller cocher chaque case. À Hybelior, on a pris l'autre route. Le monde se présente comme **un interlocuteur**, pas comme une liste à compléter. Tu peux t'en approcher, l'écouter ; tu peux aussi le traverser sans rien voir. Aucune flèche ne te ramènera dans le rang. Cette liberté donne son poids à ce que tu finis par découvrir.
 
@@ -51,7 +51,7 @@ Il y a d'abord ce qui est **visible** : ce que le monde offre sans détour, ce q
 
 Il y a ensuite l'**indicé** — le 🔒 du monde. Quelque chose existe ici, le voyageur le pressent, mais le monde ne dit pas quoi. Une silhouette dans la brume, un fragment de chant qui répète une syllabe sans nom, un PNJ qui parle d'un cousin qu'il n'a pas vu depuis trop longtemps. L'indicé est un appel discret : *si tu veux, tu peux chercher*. Ceux qui l'ignorent ne perdent rien ; ceux qui le suivent gagnent un fil à tirer.
 
-Il y a enfin le **caché tout court** — le secret qu'aucun signe n'annonce, qui ne se livre qu'à l'œil aigu, à la persistance, parfois à la chance, plus souvent à la collaboration. Ces secrets sont rares. Hybelior les protège : ils ne sont jamais documentés, ils se découvrent par croisement de lore, par observation patiente. Quand l'un d'eux se révèle pour la première fois, le nom du joueur peut s'inscrire dans la mémoire du monde — non comme récompense, mais comme **trace** que d'autres, des Parties plus tard, retrouveront.
+Il y a enfin le **caché tout court** — le secret qu'aucun signe n'annonce, qui ne se livre qu'à l'œil aigu, à la persistance, parfois à la chance, plus souvent à la collaboration. Ces secrets sont rares. Hybelior les protège : ils ne sont jamais documentés, ils se découvrent par croisement de lore, par observation patiente. Quand l'un d'eux se révèle pour la première fois, le nom de l'arpenteur peut s'inscrire dans la mémoire du monde — non comme récompense, mais comme **trace** que d'autres, des Parties plus tard, retrouveront.
 
 Pour le détail des trois régimes et leur balance, voir [[Vision Rules]].
 
@@ -97,7 +97,7 @@ Il y a aussi des **fenêtres** — des moments précis, dans une Ère donnée, o
 
 Ce que tu trouves devient ta signature. À Hybelior, l'exploration n'est pas une accumulation muette ; c'est une manière de **s'inscrire** dans le monde. Le voyageur qui trouve le premier une condition cachée laisse son nom dans le lore officiel. Le cartographe qui établit une carte précieuse la voit circuler, créditée de son nom. Le découvreur d'une Brèche stable, l'architecte du premier monument élevé sur un cratère, le premier à traverser un certain Vent — chacun devient un fil dans le tissu narratif d'Hybelior.
 
-Cette inscription n'est pas une récompense de puissance. Aucun stat ne se transfère, aucune avance mécanique ne s'achète au mérite explorateur. Ce qui survit, c'est la **gloire** — le fait que le monde se rappelle. Cette gloire est précieuse parce qu'elle est rare. Elle dit : *quelqu'un est venu ici avant toi, et il a fait quelque chose qui mérite d'être nommé.*
+Cette inscription n'est pas une récompense de puissance. Aucune qualité ne se transfère, aucune avance mécanique ne s'achète au mérite explorateur. Ce qui survit, c'est la **gloire** — le fait que le monde se rappelle. Cette gloire est précieuse parce qu'elle est rare. Elle dit : *quelqu'un est venu ici avant toi, et il a fait quelque chose qui mérite d'être nommé.*
 
 L'exploration ainsi vécue devient une dimension de l'**Accord**. S'accorder au monde présent, ce n'est pas seulement cultiver les pratiques que l'Ère valorise ; c'est aussi **être présent** à ce que le monde, en cette saison, donne à voir. Voir [[L'Accord]].
 

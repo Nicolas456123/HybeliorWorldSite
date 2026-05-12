@@ -19,7 +19,7 @@ implementation: "[[HW Inventory Component]]"
 
 Dans la plupart des mondes, l'inventaire est un **sac magique**. Un espace abstrait, presque infini, où l'on jette tout ce qu'on trouve sans peser, sans choisir, sans regretter. On peut traîner cent armures, mille fioles, des forêts entières de bois coupé — rien ne pèse, rien n'encombre, rien ne décide pour toi. Cette commodité a un nom : elle s'appelle **l'abstraction**, et elle vide le voyage de la moitié de son sens.
 
-Hybelior a refusé ce sac magique. Pas pour punir le joueur, pas par souci de réalisme tatillon, mais parce que **ce qu'on porte raconte ce qu'on est prêt à perdre**. Un voyageur qui peut tout emporter ne choisit rien. Un voyageur qui doit choisir entre la deuxième potion et le troisième morceau de minerai **commence à exister**.
+Hybelior a refusé ce sac magique. Pas pour punir le voyageur, pas par souci de réalisme tatillon, mais parce que **ce qu'on porte raconte ce qu'on est prêt à perdre**. Un voyageur qui peut tout emporter ne choisit rien. Un voyageur qui doit choisir entre la deuxième potion et le troisième morceau de minerai **commence à exister**.
 
 L'inventaire, ici, est une **bourse** — pas un coffre. Une bourse a une taille. Une bourse pèse à la ceinture. Une bourse force la main à trancher. Et c'est de ces tranchements répétés, mille fois par semaine, que se forme la silhouette d'un aventurier. Tu emportes ce que tu emportes — et le monde, ce faisant, te demande ce à quoi tu tiens.
 
@@ -61,7 +61,7 @@ Cette dimension est invisible dans la grille, et c'est précisément ce qui la r
 
 Et puis, plus discrète, la troisième mesure : le **volume**. Certains objets, peu lourds mais encombrants, occupent plus d'emplacements qu'ils ne le devraient. Une cape pliée occupe deux cases. Un casque ne se met pas dans une case d'anneau. Cette dimension est moins critique que les deux premières — elle se gère par sens commun, sans calcul mental — mais elle existe, et c'est ce qui donne à l'inventaire de Hybelior sa **sensation tactile**.
 
-> Pour les chiffres exacts (capacité de base, formules de progression, paliers de pénalité de poids) : voir [[HW Inventory Component]].
+> Pour les nombres exacts (capacité de base, paliers de progression, paliers de pénalité de poids) : voir [[HW Inventory Component]].
 
 ---
 
@@ -133,7 +133,7 @@ La monture, à Hybelior, est aussi un **compagnon**. Elle a son nom, sa robe, pa
 
 ## La conservation au Souffle — tout reste
 
-Voici l'engagement le plus ferme qu'Hybelior tient envers l'inventaire de ses joueurs : **rien ne disparaît au passage d'un Souffle**. Pas une pièce d'armure, pas une potion, pas un éclat, pas un fragment de lore. Tout ce qui était dans ton sac, dans ta banque, dans tes coffres de zone, sur ta monture, le sera encore après que le ciel se sera fendu et que la nouvelle Ère se sera installée.
+Voici l'engagement le plus ferme qu'Hybelior tient envers l'inventaire de ses habitants : **rien ne disparaît au passage d'un Souffle**. Pas une pièce d'armure, pas une potion, pas un éclat, pas un fragment de lore. Tout ce qui était dans ton sac, dans ta banque, dans tes coffres de zone, sur ta monture, le sera encore après que le ciel se sera fendu et que la nouvelle Ère se sera installée.
 
 Cette promesse est l'inverse exact de ce que le Souffle fait aux Maîtrises — qui, elles, subissent une **rouille** temporaire. Les biens matériels, à Hybelior, sont du côté de la **mémoire** ; et la mémoire, le Souffle la respecte. Pour la philosophie complète de ce partage : voir [[Le Souffle]] §"Ce que le Souffle préserve, ce qu'il rend".
 
@@ -155,11 +155,11 @@ Mourir, à Hybelior, n'est pas anodin. Selon la zone, le contexte, et le type de
 
 Mais dans certaines zones plus dangereuses — les marges sauvages, les sanctuaires anciens, les profondeurs de l'Astrasiltis — la mort devient plus coûteuse. Une part plus large du sac peut tomber. Cette friction est volontaire : elle est ce qui rend l'expédition vraiment **risquée**, et donc vraiment **mémorable**. Pour les règles exactes : voir [[Mort]].
 
-### Le pillage PvP
+### Le pillage en lutte ouverte
 
-Dans les territoires qui autorisent le combat entre joueurs — voir [[PvP]] — vaincre un adversaire peut donner droit à **prélever** une part de son sac. Cette mécanique est strictement encadrée : elle ne s'applique qu'à des zones explicitement marquées, elle ne touche jamais les biens essentiels d'un personnage, et elle est toujours **réversible** dans une certaine mesure — les bourses de mort restent accessibles à leur propriétaire pendant un certain temps avant que les pillards ne puissent les vider.
+Dans les territoires qui autorisent le duel entre voyageurs — voir [[PvP]] — vaincre un adversaire peut donner droit à **prélever** une part de son sac. Cette pratique est strictement encadrée : elle ne s'applique qu'à des zones explicitement marquées, elle ne touche jamais les biens essentiels d'un personnage, et elle est toujours **réversible** dans une certaine mesure — les bourses de mort restent accessibles à leur propriétaire pendant un certain temps avant que les pillards ne puissent les vider.
 
-Le pillage n'est pas une cruauté ; c'est une **dimension du risque**. Un voyageur qui traverse une zone PvP avec sa cuirasse mythique sait qu'il met cette pièce en jeu. C'est ce qui rend les territoires hostiles intéressants. Et c'est aussi ce qui pousse les sages à **laisser leur précieux à la banque** avant de s'aventurer dans ces marges.
+Le pillage n'est pas une cruauté ; c'est une **dimension du risque**. Un voyageur qui traverse une zone de lutte ouverte avec sa cuirasse mythique sait qu'il met cette pièce en jeu. C'est ce qui rend les territoires hostiles intéressants. Et c'est aussi ce qui pousse les sages à **laisser leur précieux à la banque** avant de s'aventurer dans ces marges.
 
 ### L'usure et la corrosion
 
@@ -173,15 +173,15 @@ Et puis, plus rare encore, la **corrosion exceptionnelle**. Certaines créatures
 
 Une bourse pleine, à Hybelior, n'est pas une bourse en désordre. Les vieux voyageurs développent, à force d'expéditions, des **manières de ranger** — chacun la sienne, chacune cohérente. Les uns rangent par catégorie : potions à gauche, ressources à droite, lore au fond. D'autres rangent par **fréquence d'usage** : ce qu'on saisit souvent près de la main, ce qu'on garde rarement au fond. D'autres encore rangent par **rituel** : un emplacement précis pour chaque chose, comme un musicien qui pose toujours ses instruments au même endroit avant un concert.
 
-Cette dimension n'a pas d'effet mécanique direct. Mais elle a un effet **vécu**. Un sac bien rangé est un sac qu'on **lit** d'un regard ; un sac en désordre est un sac qu'on fouille en panique. Au moment où une potion peut sauver la vie, savoir où elle est dans le sac change tout. Cette pratique du rangement est, à Hybelior, l'une des disciplines silencieuses qu'on apprend en jouant — sans qu'aucun PNJ vous l'enseigne, parce qu'elle ne s'enseigne pas. Elle se sédimente.
+Cette dimension n'a pas d'effet mécanique direct. Mais elle a un effet **vécu**. Un sac bien rangé est un sac qu'on **lit** d'un regard ; un sac en désordre est un sac qu'on fouille en panique. Au moment où une potion peut sauver la vie, savoir où elle est dans le sac change tout. Cette pratique du rangement est, à Hybelior, l'une des disciplines silencieuses qu'on apprend en vivant — sans qu'aucun maître ne vous l'enseigne, parce qu'elle ne s'enseigne pas. Elle se sédimente.
 
-L'interface d'Hybelior facilite cette pratique sans la dicter. Tu peux glisser, trier, regrouper. Tu peux **épingler** certains objets pour les retrouver d'un coup d'œil. Tu peux marquer une potion en **favori** pour qu'un raccourci la rende immédiate. Mais tout cela reste **optionnel**. Le sac désorganisé du débutant a sa dignité, et c'est par l'usage qu'il deviendra peut-être, un jour, un sac de Maître.
+Le sac d'Hybelior facilite cette pratique sans la dicter. Tu peux glisser, trier, regrouper. Tu peux **épingler** certains objets pour les retrouver d'un coup d'œil. Tu peux marquer une potion en **favori** pour qu'un geste la rende immédiate. Mais tout cela reste **optionnel**. Le sac désorganisé du débutant a sa dignité, et c'est par l'usage qu'il deviendra peut-être, un jour, un sac de Maître.
 
 ---
 
 ## Le poids de ce qu'on n'utilise pas
 
-Une réflexion mérite d'être posée — parce qu'elle revient dans toutes les conversations entre joueurs et qu'elle est, en réalité, la plus profonde du système d'inventaire à Hybelior. Pourquoi limiter, au fond ? Pourquoi ne pas tout laisser garder ?
+Une réflexion mérite d'être posée — parce qu'elle revient dans toutes les conversations entre voyageurs et qu'elle est, en réalité, la plus profonde de la vie matérielle à Hybelior. Pourquoi limiter, au fond ? Pourquoi ne pas tout laisser garder ?
 
 La réponse tient en une phrase : **le poids de ce qu'on n'utilise pas est ce qui donne sa valeur à ce qu'on utilise**.
 
@@ -197,7 +197,7 @@ Hybelior tient à ces moments. Ils sont, dans la vie d'un voyageur, ce que la re
 
 ## Tableau de référence — capacités initiales et progression
 
-Pour les architectes du système et pour les joueurs qui aiment les chiffres, voici la grille indicative des capacités d'inventaire à Hybelior. Les valeurs exactes vivent dans l'implémentation et sont susceptibles d'ajustement.
+Pour les esprits curieux qui aiment compter, voici la grille indicative des capacités d'inventaire à Hybelior. Les valeurs exactes vivent dans l'implémentation et sont susceptibles d'ajustement.
 
 | Étape | Emplacements sac | Charge max (indicatif) | Banque | Coffres de zone |
 |---|---|---|---|---|
@@ -207,7 +207,7 @@ Pour les architectes du système et pour les joueurs qui aiment les chiffres, vo
 | Vétéran | important (sac + sacoches + monture) | élevée + extension monture | banque large | réseau de coffres |
 | Concordant / Maître | maximum atteignable | maximale (mais jamais infinie) | banque la plus large | réseau étendu |
 
-> Les chiffres exacts, les formules de progression et les paliers de pénalité de poids vivent dans : voir [[HW Inventory Component]] §"Architecture" et §"Slots d'équipement".
+> Les chiffres exacts, les paliers de progression et les paliers de pénalité de poids vivent dans : voir [[HW Inventory Component]] §"Architecture" et §"Emplacements d'équipement".
 
 Cette progression n'est pas une course. La plupart des aventuriers atteignent la capacité de **voyageur confirmé** assez vite, et y restent — parce que c'est assez pour vivre. Au-delà, on étend pour des raisons précises : un artisan veut transporter plus de ressources, un explorateur veut tenir plus longtemps sur le terrain, un commerçant veut transporter sa propre boutique itinérante. Mais aucun chemin n'oblige à viser le maximum. Il y a, à Hybelior, des aventuriers qui voyagent toute leur vie avec le sac de base — et qui le font très bien.
 
@@ -225,9 +225,9 @@ Karzal porte un sac à dos de cuir patiné, deux sacoches de ceinture, une besac
 
 Iola porte peu. Une sacoche de cuir noir, fermée par une boucle d'argent. À l'intérieur — trois potions, mais d'une rareté qui justifie qu'elle n'en ait pas davantage, un parchemin scellé d'un sceau qu'aucun marchand ordinaire ne saurait reconnaître, sa propre bourse de monnaies (modeste, parce qu'à Cendara on lui fait crédit), un fragment de Spiritus pétrifié enveloppé dans un linge, et une lame courte qu'elle a fait forger pour son seul usage. Iola ne s'encombre pas. Sa banque, à Cendara, déborde de ce qu'elle ne porte pas. Mais sur le terrain, elle voyage **léger**.
 
-### La bourse de Théo, casual fidèle
+### La bourse de Théo, voyageur tranquille
 
-Théo porte un sac de capacité moyenne, parce qu'il n'en a jamais eu besoin de plus. À l'intérieur — deux potions de soin (oubliées depuis la semaine dernière), un quartier de fromage, une lettre de sa guilde, quelques éclats, un anneau qu'il n'a jamais réussi à équiper parce qu'il n'a pas la stat requise (mais qu'il garde, on ne sait jamais), et un livret de chants qu'il aime relire le soir. Théo n'a pas de banque pleine, parce qu'il ne s'en occupe pas. Il vit de ce qu'il porte, et c'est précisément ce qu'il voulait. Le monde le **laisse**, et c'est très bien ainsi.
+Théo porte un sac de capacité moyenne, parce qu'il n'en a jamais eu besoin de plus. À l'intérieur — deux potions de soin (oubliées depuis la semaine dernière), un quartier de fromage, une lettre de sa compagnie, quelques éclats, un anneau qu'il n'a jamais réussi à équiper parce qu'il n'en a pas la trempe (mais qu'il garde, on ne sait jamais), et un livret de chants qu'il aime relire le soir. Théo n'a pas de banque pleine, parce qu'il ne s'en occupe pas. Il vit de ce qu'il porte, et c'est précisément ce qu'il voulait. Le monde le **laisse**, et c'est très bien ainsi.
 
 Aucune de ces bourses n'est *meilleure* qu'une autre. Toutes trois racontent une **manière de vivre**. C'est exactement ce que le système cherche à permettre.
 
@@ -237,7 +237,7 @@ Aucune de ces bourses n'est *meilleure* qu'une autre. Toutes trois racontent une
 
 Une bourse, à Hybelior, n'est pas seulement une affaire personnelle. C'est aussi un **organe d'échange**. À tout moment, deux aventuriers peuvent ouvrir leurs sacs face à face, déposer ce qu'ils veulent céder, prendre ce qui leur revient. Ce geste — l'**échange** — est l'un des plus quotidiens du monde, et il a sa propre dignité.
 
-Hybelior tient à ce que l'échange entre joueurs reste **direct**. Pas d'enchères automatiques abstraites, pas de marché global sans visage où l'on dépose un objet et où il disparaît dans une grande machine économique. Quand tu vends ton épée à Karzal, tu regardes Karzal ; tu vois sa silhouette ; tu lis ce qu'il porte ; tu comprends à qui tu confies ton arme. Et Karzal, en retour, te regarde. Cette **vis-à-vis** transforme l'échange en relation — pas en transaction.
+Hybelior tient à ce que l'échange entre voyageurs reste **direct**. Pas d'enchères automatiques abstraites, pas de marché global sans visage où l'on dépose un objet et où il disparaît dans une grande machine économique. Quand tu vends ton épée à Karzal, tu regardes Karzal ; tu vois sa silhouette ; tu lis ce qu'il porte ; tu comprends à qui tu confies ton arme. Et Karzal, en retour, te regarde. Cette **vis-à-vis** transforme l'échange en relation — pas en transaction.
 
 Les grands marchés de Mosrack, de Cendara, de Galenor ne sont pas pour autant des chaos. Des maisons de commerce structurent les flux, des courtiers facilitent les rencontres, des registres tiennent compte des transactions importantes. Mais au moment précis de l'échange, ce sont toujours **deux sacs** qui s'ouvrent l'un à l'autre. Cette permanence du geste manuel est l'une des manières dont Hybelior empêche son économie de devenir abstraite.
 
@@ -253,13 +253,13 @@ Aucune de ces formes n'est plus noble qu'une autre. Une vente bien faite peut ê
 
 ## La friction de l'organisation — ce que le sac apprend
 
-Une chose mérite d'être dite, qu'on apprend en jouant à Hybelior et qu'aucun didacticiel ne formule : **le sac t'apprend à devenir qui tu es**. Et il l'apprend par sa friction même.
+Une chose mérite d'être dite, qu'on apprend en vivant à Hybelior et qu'aucun manuel ne formule : **le sac t'apprend à devenir qui tu es**. Et il l'apprend par sa friction même.
 
 Tu commences avec un sac modeste. Très vite, il déborde. Tu n'arrives plus à trouver tes potions parce qu'elles sont mélangées aux fleurs que tu as cueillies. Tu te perds entre trois épées que tu n'utilises plus. Tu jures que tu trieras *plus tard*, et plus tard tu ne tries pas. Et un jour, dans un combat important, tu ne trouves pas la potion à temps. Tu meurs, ou tu perds une partie de ton équipement, ou tu fuis humilié. Ce moment — qui revient, immanquablement, à tous les voyageurs — est un **moment fondateur**.
 
-Après ce moment, on commence à ranger. On apprend à dire **non**. On apprend à jeter, à vendre, à laisser au coffre. On apprend que tenir un sac, c'est moins une question de capacité que de **discipline du choix**. Et au bout de quelques mois de jeu, le sac d'un joueur ressemble à sa silhouette : structuré, lisible, **fidèle à un projet**.
+Après ce moment, on commence à ranger. On apprend à dire **non**. On apprend à jeter, à vendre, à laisser au coffre. On apprend que tenir un sac, c'est moins une question de capacité que de **discipline du choix**. Et au bout de quelques mois, le sac d'un voyageur ressemble à sa silhouette : structuré, lisible, **fidèle à un projet**.
 
-Cette pédagogie silencieuse n'est inscrite dans aucune ligne de code explicite. Elle émerge de la simple présence des limites. C'est ce que la friction du sac, à Hybelior, **enseigne** — sans avoir l'air d'enseigner.
+Cette pédagogie silencieuse n'est inscrite nulle part en toutes lettres. Elle émerge de la simple présence des limites. C'est ce que la friction du sac, à Hybelior, **enseigne** — sans avoir l'air d'enseigner.
 
 > *« Donne à un débutant un sac infini, et tu fais de lui un accumulateur. Donne-lui un sac borné, et tu lui apprends à choisir. La différence, c'est toute la pédagogie qu'un monde peut offrir. »*
 >
@@ -269,11 +269,11 @@ Cette pédagogie silencieuse n'est inscrite dans aucune ligne de code explicite.
 
 ## L'inventaire et l'Accord — résonance subtile
 
-Une dimension plus discrète, dont la plupart des joueurs ne prennent conscience qu'après plusieurs Ères. Le contenu de ton sac n'est pas neutre vis-à-vis de l'**Accord**. Pas au sens où il modifierait la jauge d'Accord directement — l'Accord se cultive par les pratiques, pas par l'accumulation matérielle. Mais au sens où ce que tu portes habituellement **dit** au monde quelle est ton orientation, et le monde, à sa manière, en tient compte.
+Une dimension plus discrète, dont la plupart des voyageurs ne prennent conscience qu'après plusieurs Ères. Le contenu de ton sac n'est pas neutre vis-à-vis de l'**Accord**. Pas au sens où il modifierait directement la résonance d'Accord — l'Accord se cultive par les pratiques, pas par l'accumulation matérielle. Mais au sens où ce que tu portes habituellement **dit** au monde quelle est ton orientation, et le monde, à sa manière, en tient compte.
 
-Un joueur dont le sac est plein de fragments d'Ignis pétrifiés, de potions élémentaires, de parchemins liés à la Voie du feu, **paraît** lié à Ignis. Les PNJ qui partagent cette affinité le reconnaissent ; ceux qui s'y opposent le tiennent à distance. Et lors des transitions cosmiques, lors d'une Ère qui valorise Ignis, ce joueur sent — de manière subtile, jamais brutale — que le monde le reconnaît un peu mieux.
+Un voyageur dont le sac est plein de fragments d'Ignis pétrifiés, de potions élémentaires, de parchemins liés à la Voie du feu, **paraît** lié à Ignis. Ceux qui partagent cette affinité le reconnaissent ; ceux qui s'y opposent le tiennent à distance. Et lors des transitions cosmiques, lors d'une Ère qui valorise Ignis, ce mortel sent — de manière subtile, jamais brutale — que le monde le reconnaît un peu mieux.
 
-Cette résonance n'est pas une mécanique d'optimisation. Elle est trop ténue pour qu'on la **vise**. Mais elle existe, et elle fait que ton sac, à Hybelior, n'est jamais seulement un sac — c'est aussi un **portrait** que le monde lit en filigrane.
+Cette résonance n'est pas une affaire d'optimisation. Elle est trop ténue pour qu'on la **vise**. Mais elle existe, et elle fait que ton sac, à Hybelior, n'est jamais seulement un sac — c'est aussi un **portrait** que le monde lit en filigrane.
 
 Pour la philosophie complète de l'Accord : voir [[L'Accord]]. Pour les conditions cachées qui peuvent récompenser certaines collections : voir [[L'Accord]] §"Les Titres Célestes" et [[Le Souffle]] §"Pour ceux qui le comprennent".
 
@@ -281,7 +281,7 @@ Pour la philosophie complète de l'Accord : voir [[L'Accord]]. Pour les conditio
 
 ## L'inventaire et l'artisanat — la matière qui vit
 
-Pour tous les joueurs qui pratiquent un métier, l'inventaire prend une dimension supplémentaire : il devient l'**antichambre de l'atelier**. Un artisan qui forge a, dans son sac et dans sa banque, les ressources de ce qu'il forgera demain. Un alchimiste a ses herbes, ses fioles, ses poudres. Un tailleur a ses tissus, ses fils, ses teintures. Cette **densité matérielle** de la vie d'artisan transforme la relation au sac.
+Pour tous les voyageurs qui pratiquent un métier, l'inventaire prend une dimension supplémentaire : il devient l'**antichambre de l'atelier**. Un artisan qui forge a, dans son sac et dans sa banque, les ressources de ce qu'il forgera demain. Un alchimiste a ses herbes, ses fioles, ses poudres. Un tailleur a ses tissus, ses fils, ses teintures. Cette **densité matérielle** de la vie d'artisan transforme la relation au sac.
 
 Les ressources d'artisanat occupent souvent la plus grande partie du sac et de la banque d'un artisan sérieux. Ce sont elles qui pèsent, qui encombrent, qui demandent à être organisées avec rigueur. Un artisan expérimenté tient sa banque comme un cuisinier tient son garde-manger : par catégories, par fraîcheur, par rotation. Il sait, sans regarder, combien il a de minerai brut, combien d'alloyage en cours, combien d'objets finis prêts à la vente.
 

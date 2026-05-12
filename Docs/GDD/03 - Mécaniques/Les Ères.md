@@ -1,7 +1,7 @@
 ---
 tags: [ères, saisons-cosmiques, monde, polyphonie, narration, cosmologie]
 status: drafted
-last_review: 2026-05-07
+last_review: 2026-05-12
 needs_review_for: []
 type: mechanic-narrative
 implementation: "[[Era System]]"
@@ -17,7 +17,7 @@ implementation: "[[Era System]]"
 
 ## L'idée d'Ère
 
-Une **Ère** n'est pas un patch. Ce n'est pas un thème de saison qu'on plaque sur le monde pour faire passer le temps. Ce n'est pas non plus un événement scripté qui s'ouvre et se ferme à date fixe. Une Ère est une **saison cosmique** — un long mouvement intérieur d'Hybelior, un état durable de la Polyphonie, qui colore tout ce qui s'y vit.
+Une **Ère** n'est pas un décor qu'on change. Ce n'est pas un thème de saison qu'on plaque sur le monde pour faire passer le temps. Ce n'est pas non plus un événement programmé qui s'ouvre et se ferme à date fixe. Une Ère est une **saison cosmique** — un long mouvement intérieur d'Hybelior, un état durable de la Polyphonie, qui colore tout ce qui s'y vit.
 
 Vue de l'intérieur, une Ère, c'est ce qui fait que la lumière du matin n'a pas la même couleur qu'il y a un an. C'est ce qui fait que les créatures qu'on rencontrait sur le chemin de la fontaine ont disparu, et que d'autres, qu'on n'avait jamais vues, sont là maintenant. C'est ce qui fait que les chants des temples ont changé, sans qu'aucun ordre ne soit venu de leur autorité. C'est, surtout, ce qui fait que ce qu'on faisait hier — porter cette épée, soigner avec cette herbe, prier ce dieu plutôt qu'un autre — n'a plus tout à fait le même sens aujourd'hui.
 
@@ -181,11 +181,11 @@ Pour le détail théologique de chaque culte, voir [[Cosmologie]]. Pour ce que l
 
 À Hybelior, **on ne vit pas une Ère ; on en traverse plusieurs**. Et c'est ce qui fait, peut-être, la plus grande beauté du monde.
 
-Un joueur qui arrive aujourd'hui découvre une Ère. Il l'apprend. Il en devient familier. Il en aime certains aspects, en redoute d'autres. Puis vient un Souffle, et l'Ère cède. Il en perd les repères. Il en gagne de nouveaux. Il s'y attache. Et puis vient un autre Souffle. Et un autre. Et un jour, sans qu'il sache exactement quand, il se rend compte qu'il a vécu cinq, sept, dix Ères. Qu'il en parle aux nouveaux comme un vieux qui a vu des choses. Qu'il les compare entre elles. Qu'il a, dans le ventre, **une bibliothèque d'Ères vécues** — chacune avec sa lumière particulière, sa faune mémorable, ses pratiques apprises et oubliées, ses morts et ses joies.
+Celui qui arrive aujourd'hui découvre une Ère. Il l'apprend. Il en devient familier. Il en aime certains aspects, en redoute d'autres. Puis vient un Souffle, et l'Ère cède. Il en perd les repères. Il en gagne de nouveaux. Il s'y attache. Et puis vient un autre Souffle. Et un autre. Et un jour, sans qu'il sache exactement quand, il se rend compte qu'il a vécu cinq, sept, dix Ères. Qu'il en parle aux nouveaux comme un vieux qui a vu des choses. Qu'il les compare entre elles. Qu'il a, dans le ventre, **une bibliothèque d'Ères vécues** — chacune avec sa lumière particulière, sa faune mémorable, ses pratiques apprises et oubliées, ses morts et ses joies.
 
 C'est cette **épaisseur** que les Ères donnent à Hybelior. Elles font que le temps n'y est pas un fil tendu vers la fin, mais un **mille-feuilles d'expériences** qui s'accumulent en s'enrichissant. Les chroniqueurs disent qu'on reconnaît un vétéran d'Hybelior à la façon qu'il a de sourire quand on lui demande ce qu'il a préféré : il ne sait pas. Il a tout aimé. Il a tout traversé. Et c'est cela, peut-être, qui s'appelle vivre.
 
-Les Ères ne sont pas un système. Ce sont des **chapitres** d'une histoire qu'on écrit avec ses pieds, en marchant dans le monde. Chacune est unique. Chacune est mémorable. Et chacune, au moment où elle s'efface, laisse derrière elle ceux qui l'ont vécue — eux, eux seuls — capables de dire : *« j'y étais »*.
+Les Ères ne sont pas un dispositif. Ce sont des **chapitres** d'une histoire qu'on écrit avec ses pieds, en marchant dans le monde. Chacune est unique. Chacune est mémorable. Et chacune, au moment où elle s'efface, laisse derrière elle ceux qui l'ont vécue — eux, eux seuls — capables de dire : *« j'y étais »*.
 
 > *« Ne demande pas combien d'Ères tu auras vécues. Demande ce que tu te rappelleras d'elles, quand tu seras vieux. Et si ce dont tu te rappelles t'a rendu meilleur, alors tu auras bien traversé. »*
 >

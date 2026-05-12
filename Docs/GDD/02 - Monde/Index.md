@@ -2,7 +2,7 @@
 tags: [index, monde, navigation]
 type: index
 status: living-doc
-last_review: 2026-05-01
+last_review: 2026-05-12
 needs_review_for: []
 ---
 
@@ -14,16 +14,16 @@ needs_review_for: []
 
 ---
 
-## Fichiers du dossier
-
+<!--
 ```dataview
 TABLE status, last_review
 FROM "02 - Monde"
 WHERE file.name != "Index"
 SORT file.name ASC
 ```
+-->
 
----
+
 
 ## Pivots canoniques
 

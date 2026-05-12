@@ -1,7 +1,7 @@
 ---
 tags: [métiers, artisanat, identité, vocation, narration, philosophie, mécanique-centrale]
 status: drafted
-last_review: 2026-05-07
+last_review: 2026-05-12
 needs_review_for: []
 type: mechanic-narrative
 implementation: "[[Profession System]]"
@@ -33,7 +33,7 @@ C'est cela, un métier dans Hybelior. Une **paire de lunettes** qu'on porte asse
 
 Hybelior compte **soixante-trois métiers**. Le chiffre n'est pas anodin. Il est le résultat d'un parti pris : *aucune facette de la vie quotidienne d'un monde habité ne devait rester muette*. Pour que des PNJ aient une vraie société, des relations économiques crédibles, des funérailles qui sentent vrai — il fallait que **chaque tâche que ferait un homme dans un monde réel ait son artisan**. Pas un PNJ générique qui "tient une boutique" : un *boucher* avec son couteau, un *tanneur* avec ses cuves, un *meunier* dont la roue tourne.
 
-Soixante-trois manières, donc. De celui qui fait pousser le grain à celui qui interprète les rêves. De celui qui frappe le métal à celui qui consigne dans un registre. De celui qui chante à celui qui se tait pour écouter le ciel. C'est, au fond, un **inventaire patient** des rôles humains — la liste de ce qu'il faut pour qu'un monde fonctionne sans avoir l'air d'attendre les joueurs pour vivre.
+Soixante-trois manières, donc. De celui qui fait pousser le grain à celui qui interprète les rêves. De celui qui frappe le métal à celui qui consigne dans un registre. De celui qui chante à celui qui se tait pour écouter le ciel. C'est, au fond, un **inventaire patient** des rôles humains — la liste de ce qu'il faut pour qu'un monde fonctionne sans avoir l'air d'attendre les voyageurs pour vivre.
 
 Cette diversité a un effet direct : **personne, à Hybelior, ne peut tout faire**. Il faut un Mineur pour qu'un Forgeron existe. Il faut un Tanneur pour qu'un Cordonnier travaille. Il faut un Herboriste pour qu'un Apothicaire prépare. La société d'Hybelior est **tissée d'interdépendances**. On y survit seul ; on n'y vit qu'ensemble. Le monde est trop riche pour qu'un homme l'épuise — et c'est cette richesse qui force la rencontre.
 
@@ -113,7 +113,7 @@ Il y a une chose qui semble simple et qui change tout : **à partir d'un certain
 
 Cela change l'économie d'Hybelior. Tu n'achètes pas seulement une épée : tu achètes *une épée de Maître Aldric*. Et le nom de Maître Aldric pèse — parce qu'il est rare, parce que d'autres lames de lui sont passées en de bonnes mains, parce qu'on raconte une bataille où l'une d'elles a tenu. Le crafter cesse d'être un robot anonyme : il devient une **figure**, dont les œuvres composent une biographie matérielle.
 
-Cette mécanique a des effets en cascade. Les Maîtres deviennent **célèbres** dans leur métier, leur Ère. Les apprentis cherchent à les approcher. Les commandes affluent — mais un Maître ne peut pas tout faire ; il doit choisir, refuser. Cette rareté crée un **prestige social** que ni l'argent ni le niveau ne peuvent acheter. Et quand un joueur cesse de pratiquer, par accident ou lassitude, ses œuvres restantes deviennent **précieuses différemment** : ce sont les dernières. Le monde vit avec elles comme on vit avec les œuvres d'un peintre disparu.
+Cette mécanique a des effets en cascade. Les Maîtres deviennent **célèbres** dans leur métier, leur Ère. Les apprentis cherchent à les approcher. Les commandes affluent — mais un Maître ne peut pas tout faire ; il doit choisir, refuser. Cette rareté crée un **prestige social** que ni l'argent ni le niveau ne peuvent acheter. Et quand un artisan cesse de pratiquer, par accident ou lassitude, ses œuvres restantes deviennent **précieuses différemment** : ce sont les dernières. Le monde vit avec elles comme on vit avec les œuvres d'un peintre disparu.
 
 > *« J'ai porté onze Ères une cape signée Lyseth Vael. Je l'ai donnée à mon fils. Il l'a perdue dans une crue. Quand on l'a retrouvée, dix ans plus tard, chez un brocanteur de Mosrack, j'ai pleuré. Lyseth était morte depuis trois Ères. Elle n'en saura jamais rien. Mais sa cape est revenue. »*
 >
@@ -125,7 +125,7 @@ Pour les flux économiques précis (signature, prestige, prix de vente), voir [[
 
 ## Pourquoi les métiers sont au cœur d'Hybelior
 
-Au-delà du craft, les métiers donnent au joueur une **manière d'être quelqu'un** qui ne dépend ni de son niveau, ni de son arme, ni de ses victoires. Le forgeron est forgeron *même quand il dort*. L'oracle est oracle *même quand il se tait*. Le métier ancre une identité **persistante** qui survit aux Ères, aux Souffles, aux modes — et c'est par cette interdépendance des soixante-trois métiers qu'Hybelior tient sa promesse de monde tissé : un monde où chacun pourrait tout faire serait un monde de solitudes.
+Au-delà du craft, les métiers donnent au voyageur une **manière d'être quelqu'un** qui ne dépend ni de son rang, ni de son arme, ni de ses victoires. Le forgeron est forgeron *même quand il dort*. L'oracle est oracle *même quand il se tait*. Le métier ancre une identité **persistante** qui survit aux Ères, aux Souffles, aux modes — et c'est par cette interdépendance des soixante-trois métiers qu'Hybelior tient sa promesse de monde tissé : un monde où chacun pourrait tout faire serait un monde de solitudes.
 
 Soixante-trois manières d'habiter le monde. Soixante-trois façons d'avoir un nom qui reste — gravé sur une lame, cousu dans un pli, inscrit au bas d'une page. À un moment, presque tout le monde finit par en aimer un — et c'est ce métier-là, plus que n'importe quel exploit de combat, qui finit par dire qui l'on est dans Hybelior.
 

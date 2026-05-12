@@ -1,7 +1,7 @@
 ---
 tags: [guilde, social, territoire, narration, mécanique-narrative]
 status: drafted
-last_review: 2026-05-07
+last_review: 2026-05-12
 needs_review_for: []
 type: mechanic-narrative
 implementation: "[[Guild System]]"
@@ -21,7 +21,7 @@ Hybelior connaît deux mots pour l'appartenance, qu'il ne faut pas confondre. Il
 
 La guilde est l'unique chose qui soit **entièrement nôtre**. Le monde respire, les Ères passent — tout cela nous dépasse. La guilde, elle, est ce que nous avons décidé de bâtir au milieu de cette respiration. Notre affirmation, notre signature, notre manière de dire au cosmos polyphonique : *« Nous aussi, nous chantons. »*
 
-Une guilde n'est donc pas un canal Discord avec un tag de couleur, ni une commodité organisationnelle pour faire du raid plus efficacement. C'est une **présence collective** — un être qui dépasse chacun de ses membres, qui traverse les Souffles, qui se rappelle plus longtemps que n'importe lequel d'entre nous. Le Maître mourra ; la guilde survivra. Les fondateurs s'éloigneront ; la guilde tiendra. Les Ères passeront ; la guilde, parfois, traversera.
+Une guilde n'est donc pas une enseigne commune, ni une commodité d'organisation pour mener les grandes expéditions plus efficacement. C'est une **présence collective** — un être qui dépasse chacun de ses membres, qui traverse les Souffles, qui se rappelle plus longtemps que n'importe lequel d'entre nous. Le Maître mourra ; la guilde survivra. Les fondateurs s'éloigneront ; la guilde tiendra. Les Ères passeront ; la guilde, parfois, traversera.
 
 > *« On ne fonde pas une guilde pour soi. On la fonde pour ceux qui ne sont pas encore arrivés. »*
 >
@@ -85,7 +85,7 @@ Pour les règles fines, voir [[PvP]]. La philosophie tient en peu de mots : la g
 
 Le Souffle (voir [[Le Souffle]]) traverse tout. Les guildes n'y échappent pas — et c'est ce qui les rend, à leur manière, glorieuses.
 
-Une guilde est l'**unité sociale** la plus capable de traverser un Souffle sans s'effondrer. Le joueur seul subit la rouille, dérive de son Accord, se réapprend dans la nouvelle Ère. La guilde, elle, **continue**. Son tag tient. Son serment tient. Son hall tient. Ses morts restent gravés. Pendant que chaque membre se réajuste, la guilde offre un point fixe — une mémoire qui dépasse l'individu.
+Une guilde est l'**unité sociale** la plus capable de traverser un Souffle sans s'effondrer. Le voyageur seul subit la rouille, dérive de son Accord, se réapprend dans la nouvelle Ère. La guilde, elle, **continue**. Son tag tient. Son serment tient. Son hall tient. Ses morts restent gravés. Pendant que chaque membre se réajuste, la guilde offre un point fixe — une mémoire qui dépasse l'individu.
 
 Et pourtant, le Souffle la touche aussi. Il rééquilibre les avantages qu'elle avait accumulés. Il met surtout en jeu une part de ses **territoires** — pas tous, jamais tous, mais une fraction. Comme si, à chaque transition d'Ère, le monde demandait : *« Ce que tu tenais, le tiens-tu encore vraiment ? »* Certaines marches, certains avant-postes mal défendus, glissent et redeviennent disponibles à d'autres mains. C'est rude, c'est juste, c'est le monde qui respire à travers les frontières.
 
@@ -135,7 +135,7 @@ Les Voies (voir [[Le Lien]]) suivent une logique parallèle. Certaines guildes s
 
 En une formule : **la guilde est ce qui dure entre nous, quand nous-mêmes nous ne durons pas**.
 
-Le joueur passe, prend une pause, revient, s'éloigne. Le monde respire et change. Les Ères se succèdent. Et la guilde, pendant tout cela, **reste là**. Elle tient les murs du Hall, le serment qu'on y prête, la mémoire des morts, les monuments. Elle tient parfois des territoires, et sait à d'autres moments accepter d'en perdre.
+L'habitant passe, prend une pause, revient, s'éloigne. Le monde respire et change. Les Ères se succèdent. Et la guilde, pendant tout cela, **reste là**. Elle tient les murs du Hall, le serment qu'on y prête, la mémoire des morts, les monuments. Elle tient parfois des territoires, et sait à d'autres moments accepter d'en perdre.
 
 Ce qu'elle tient surtout, c'est la possibilité d'un **« nous »** qui dépasse l'individu. Dans un monde polyphonique, où chacun est seul à sentir le Souffle dans ses propres os, la guilde est la seule structure intime qui permette de dire : *« Nous, ensemble, traversons cette Ère. Nous, ensemble, en avons traversé d'autres. Nous, ensemble, en traverserons encore. »*
 

@@ -1,7 +1,7 @@
 ---
 tags: [mort, mécanique-centrale, narration, philosophie, rédemption, dignité, religions]
 status: drafted
-last_review: 2026-05-07
+last_review: 2026-05-12
 needs_review_for: []
 type: mechanic-narrative
 implementation: "[[Death System]]"
@@ -17,9 +17,9 @@ implementation: "[[Death System]]"
 
 ## L'idée de la mort
 
-À Hybelior, mourir est un **événement signifiant**. Ce n'est pas un game over qui efface ; ce n'est pas non plus une simple téléportation qui n'apprend rien. C'est une **rupture** — une coupure dans l'expérience à laquelle on apprend, peu à peu, à donner sa juste place.
+À Hybelior, mourir est un **événement signifiant**. Ce n'est pas un effacement sans retour ; ce n'est pas non plus une simple téléportation qui n'apprend rien. C'est une **rupture** — une coupure dans l'expérience à laquelle on apprend, peu à peu, à donner sa juste place.
 
-La plupart des MMO ont fait, sur ce sujet, un choix qu'ils n'ont jamais voulu assumer : ils ont choisi que mourir ne coûte rien. Une animation, un respawn, et l'on repart comme si rien n'avait eu lieu. Le combat perdu n'a pas eu lieu ; le risque pris n'a pas existé ; la prudence n'a aucune valeur. À ce jeu-là, le monde finit par perdre tout enjeu — non parce qu'il est trop facile, mais parce que **plus rien, en lui, ne pèse vraiment**.
+La plupart des mondes ont fait, sur ce sujet, un choix qu'ils n'ont jamais voulu assumer : ils ont décrété que mourir ne coûte rien. Une chute brève, un retour, et l'on repart comme si rien n'avait eu lieu. Le combat perdu n'a pas eu lieu ; le risque pris n'a pas existé ; la prudence n'a aucune valeur. À ce régime-là, le monde finit par perdre tout enjeu — non parce qu'il est trop facile, mais parce que **plus rien, en lui, ne pèse vraiment**.
 
 Hybelior refuse cet effacement. Pas pour punir, pas par nostalgie d'une dureté ancienne, mais par fidélité à une intuition simple : **un monde qui se prétend vivant doit savoir faire respecter ses morts**. Pas les rendre traumatisantes ; pas les rendre définitives non plus. Mais leur donner ce poids minimal sans lequel aucune décision n'a de saveur. C'est la possibilité de tout perdre — un peu — qui donne, à chaque aventure, sa **valeur**.
 
@@ -49,9 +49,9 @@ Ce que la mort prend, à Hybelior, n'est jamais ce qui est **mémoire**. Les Hé
 
 Il faut le dire clairement, parce que le malentendu serait facile : à Hybelior, **mourir ne supprime pas**. Aucun objet ne se perd à la mort, ni en PvE, ni en PvP. Le sac à dos reste plein. La banque reste intacte. Les armes équipées suivent le personnage dans son nouveau souffle. Les amis qu'on avait sont toujours là quand on revient.
 
-Cette retenue est un choix philosophique. Hybelior aurait pu, comme certains mondes l'ont fait, instaurer un *full-loot* qui transforme chaque mort en catastrophe matérielle. Le monde a refusé. Pas parce que la sévérité serait honteuse, mais parce qu'elle inverserait la nature de la peur : on ne craindrait plus de mourir, on craindrait de **se connecter**. Et un monde où l'on a peur d'entrer n'est pas un monde, c'est un piège.
+Cette retenue est un choix philosophique. Hybélior aurait pu, comme certains mondes l'ont fait, instaurer un *dépouillement complet* qui transforme chaque mort en catastrophe matérielle. Le monde a refusé. Pas parce que la sévérité serait honteuse, mais parce qu'elle inverserait la nature de la peur : on ne craindrait plus de mourir, on craindrait de **se connecter**. Et un monde où l'on a peur d'entrer n'est pas un monde, c'est un piège.
 
-Le parti pris d'Hybelior est plus subtil, et plus exigeant. Mourir doit faire **mal sans détruire**. La perte doit être **assez réelle pour qu'on la sente**, **assez juste pour qu'on accepte de l'encaisser**, **assez circonscrite pour qu'on revienne**. C'est l'équilibre d'une **rédemption possible** : la mort comme jalon, pas comme effacement. Le joueur qui meurt est renvoyé à lui-même, allégé de quelques certitudes, et invité à reprendre la route avec un peu plus d'humilité.
+Le parti pris d'Hybelior est plus subtil, et plus exigeant. Mourir doit faire **mal sans détruire**. La perte doit être **assez réelle pour qu'on la sente**, **assez juste pour qu'on accepte de l'encaisser**, **assez circonscrite pour qu'on revienne**. C'est l'équilibre d'une **rédemption possible** : la mort comme jalon, pas comme effacement. Le voyageur qui meurt est renvoyé à lui-même, allégé de quelques certitudes, et invité à reprendre la route avec un peu plus d'humilité.
 
 Cette philosophie a une conséquence importante : à Hybelior, on n'a **jamais à craindre de jouer**. On peut craindre de mourir — c'est sain. On ne craint pas l'écran de connexion. Ce que le monde retient, à la mort, est mesuré : le poids minimal pour que les choix aient un sens. Pas un gramme de plus.
 
@@ -85,7 +85,7 @@ Comme le Souffle, la mort est un fait du monde, mais aussi un **objet d'interpr�
 | **Somnium Vigil** | Le réveil bref. Mourir, c'est se réveiller un instant du rêve, avant d'y replonger. Ce qu'on a perdu, on l'a oublié au passage. C'est pour cela qu'on revient plus léger. |
 | **Foedus Animae** | La renégociation. À chaque mort, l'âme du mortel renégocie son serment avec les puissances cosmiques. Ce qu'on perd est ce qu'on rend ; ce qu'on garde est ce qu'on a su tenir. |
 
-Aucune de ces lectures n'est imposée au joueur. Chacun colore son expérience de la mort comme il l'entend — ou ne la colore pas. Mais leur coexistence dit, à elle seule, ce que la mort est dans Hybelior : **un événement assez profond pour que plusieurs voix essaient encore de l'expliquer**.
+Aucune de ces lectures n'est imposée au voyageur. Chacun colore son expérience de la mort comme il l'entend — ou ne la colore pas. Mais leur coexistence dit, à elle seule, ce que la mort est dans Hybelior : **un événement assez profond pour que plusieurs voix essaient encore de l'expliquer**.
 
 > *« Demande à dix sages ce que devient l'âme du mort. Tu auras douze réponses, et aucune ne sera mensongère. »*
 >
@@ -93,13 +93,13 @@ Aucune de ces lectures n'est imposée au joueur. Chacun colore son expérience d
 
 ---
 
-## Mourir entre joueurs
+## Mourir de la main d'un autre
 
-La mort entre joueurs — celle qu'on subit de la main d'un autre — n'a pas le même goût qu'une mort face à un boss. Elle engage l'humain en face, et tout ce que l'humain peut porter de cruauté ou de loyauté.
+La mort entre mortels — celle qu'on subit de la main d'un autre — n'a pas le même goût qu'une mort face à un boss. Elle engage l'humain en face, et tout ce que l'humain peut porter de cruauté ou de loyauté.
 
-Hybelior reconnaît la légitimité du PvP — duel consenti, guerre de guildes déclarée, Zones Sauvages où l'on entre en sachant ce qu'on y risque. Dans ces espaces, la mort suit ses règles ordinaires ; elle peut même être **glorieuse**, parce qu'elle s'inscrit dans une économie d'honneur et de défi qui donne au combat son sens.
+Hybelior reconnaît la légitimité du [[PvP]] — duel consenti, guerre de guildes déclarée, Zones Sauvages où l'on entre en sachant ce qu'on y risque. Dans ces espaces, la mort suit ses règles ordinaires ; elle peut même être **glorieuse**, parce qu'elle s'inscrit dans une économie d'honneur et de défi qui donne au combat son sens.
 
-Mais le **PKing non consenti** est traité à part. La victime qui tombe sous la lame d'un agresseur non sollicité ne paie pas le prix qu'elle paierait face à un boss : le monde la **protège**. Et l'agresseur, lui, hérite d'une **trace** — le **Karma Rouge**, qui le marque aux yeux de tous comme celui qui a refusé l'éthique commune. Cette asymétrie est une promesse : *on peut désirer le PvP, on peut aussi le refuser sans être puni pour ce refus*.
+Mais le **meurtre non consenti** est traité à part. La victime qui tombe sous la lame d'un agresseur non sollicité ne paie pas le prix qu'elle paierait face à un boss : le monde la **protège**. Et l'agresseur, lui, hérite d'une **trace** — le **Karma Rouge**, qui le marque aux yeux de tous comme celui qui a refusé l'éthique commune. Cette asymétrie est une promesse : *on peut désirer la lutte ouverte, on peut aussi la refuser sans être puni pour ce refus*.
 
 > Pour le détail des zones, du karma, des règles de duel et de la guerre de guildes : voir [[PvP]].
 

@@ -1,7 +1,7 @@
 ---
 tags: [magie, lien, voies, cosmologie, mécanique-centrale, résonance, narration]
 status: drafted
-last_review: 2026-05-07
+last_review: 2026-05-12
 needs_review_for: []
 type: mechanic-narrative
 implementation: "[[Lien System]]"
@@ -133,7 +133,7 @@ Cette intensité particulière fait des Liés des **acteurs majeurs des transiti
 
 ## L'Accord et le Lien
 
-L'[[L'Accord|Accord]] est la résonance personnelle du joueur avec l'Ère présente — sa manière d'**être avec le monde tel qu'il est maintenant**. Pour un non-Lié, l'Accord modifie la couleur générale de l'expérience : un Concordant accède à des dialogues, à des opportunités, à des respects qui resteraient fermés à un Étranger.
+L'[[L'Accord|Accord]] est la résonance personnelle du mortel avec l'Ère présente — sa manière d'**être avec le monde tel qu'il est maintenant**. Pour un non-Lié, l'Accord modifie la couleur générale de l'expérience : un Concordant accède à des dialogues, à des opportunités, à des respects qui resteraient fermés à un Étranger.
 
 Pour un Lié, l'Accord va plus loin. Il **renforce** la résonance que sa Voie a déjà avec le monde. Un Lié pleinement accordé à son Ère devient un **double canal** : sa Voie passe par lui, et à travers cette Voie, c'est l'Ère elle-même qui se met à parler. Les Maîtres appellent cela la **double résonance** — un état rare, recherché, qui transforme un Lié en acteur véritable de la Polyphonie de sa saison.
 
@@ -153,7 +153,7 @@ Quand deux Liés œuvrent ensemble, leurs Voies n'ignorent pas l'une l'autre. El
 
 C'est l'un des aspects les plus poétiques du système magique d'Hybelior — et l'un des plus profondément sociaux. Un Lié seul est puissant ; deux Liés affinés ne sont pas *deux fois* plus puissants : ils sont **autre chose**. Une Voie d'Aquor et une Voie d'Aerion forment ensemble une tempête qu'aucune des deux n'aurait su faire venir. Une Voie de Tempora et une Voie de Fatum, conjuguées, ralentissent un destin tout entier. Une Voie de Celestia et une Voie d'Eldoria, prononcées au même instant, font monter sur le champ de bataille une **aube** — au sens le plus littéral, lumière qui révèle, lumière qui guérit, lumière qui interdit aux ombres de s'attarder.
 
-Ces synergies ne sont pas un *bonus de stats*. Elles sont la **rencontre de deux résonances** qui se complètent — comme deux voix humaines qui, en chantant, trouvent un harmonique qu'aucune ne possède seule. Les Liés expérimentés s'écoutent les uns les autres avant de combattre, parce qu'ils savent que leur efficacité collective dépend d'une accordance préalable.
+Ces synergies ne sont pas un *surcroît chiffré*. Elles sont la **rencontre de deux résonances** qui se complètent — comme deux voix humaines qui, en chantant, trouvent un harmonique qu'aucune ne possède seule. Les Liés expérimentés s'écoutent les uns les autres avant de combattre, parce qu'ils savent que leur efficacité collective dépend d'une accordance préalable.
 
 À l'inverse, certaines Voies **s'annulent**. Quand un Lié d'Eldoria et un Lié de Noctis lancent leurs sorts au même instant sur la même cible, rien ne se passe — ou plutôt : leurs forces se neutralisent dans le tissu cosmique, et tous deux sentent dans leur poitrine ce drainage particulier qu'on appelle, dans les vieux livres, **le silence des voix**. Cela fait mal. Pas physiquement. Mais comme on a mal quand quelque chose qu'on a dit avec sincérité ne rencontre que le néant.
 
@@ -188,7 +188,7 @@ Et cela marche. Il faut le dire honnêtement : les Déliés deviennent puissants
 
 Mais ce qu'ils gagnent en puissance, ils le paient en **présence**. Le monde, peu à peu, cesse de les reconnaître. Les PNJ religieux les évitent. Les Concordants ne les voient plus. Les Souffles passent sur eux sans les toucher — ce qu'ils prennent pour une force est en réalité un signe que **la Polyphonie ne les inclut plus**. Les vieux Maîtres disent qu'à terme, un Délié ancien finit par disparaître non pas en mourant, mais en *devenant inaudible*. Le monde continue, et lui ne fait plus partie de sa conversation.
 
-Cette voie antagoniste est parfaitement jouable. Ce n'est ni un piège ni une pénalité : c'est un **chemin philosophique alternatif**. Hybelior y croit autant qu'aux autres, parce qu'il y a des joueurs qui rejettent, intimement, l'idée d'être un canal pour quoi que ce soit. À eux, le monde dit : *« très bien. Voici ta force. Garde-la. Elle est à toi seul. »* Et c'est ce *toi seul* qui est, à la fois, la victoire et la perte du Délié.
+Cette voie antagoniste est parfaitement ouverte. Ce n'est ni un piège ni une pénalité : c'est un **chemin philosophique alternatif**. Hybelior y croit autant qu'aux autres, parce qu'il y a des mortels qui rejettent, intimement, l'idée d'être un canal pour quoi que ce soit. À eux, le monde dit : *« très bien. Voici ta force. Garde-la. Elle est à toi seul. »* Et c'est ce *toi seul* qui est, à la fois, la victoire et la perte du Délié.
 
 > *« Le Délié est libre. C'est exactement pour cela qu'il est seul. »*
 >

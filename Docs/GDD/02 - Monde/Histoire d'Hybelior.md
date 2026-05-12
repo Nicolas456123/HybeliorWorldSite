@@ -1,7 +1,7 @@
 ---
 tags: [histoire, lore, chronique, ères-passées, cardinaux, narration]
 status: drafted
-last_review: 2026-05-07
+last_review: 2026-05-12
 needs_review_for: []
 type: lore-narrative
 ---
@@ -20,7 +20,7 @@ Une histoire d'Hybelior n'est pas une chronologie. Ceux qui l'abordent comme une
 
 Raconter Hybelior, c'est tenir le fil d'un monde dont les chapitres sont des **Ères**, et dont les changements de chapitre sont des **Souffles** (voir [[Le Souffle]] pour ce que ces Souffles font, et [[Les Ères]] pour ce qui distingue un chapitre d'un autre). Chaque Ère a sa lumière, ses peurs, ses prières, ses récoltes — et lorsqu'elle s'achève, elle laisse derrière elle une trace : un mot dans une langue, un mur encore debout, une coutume incongrue qu'on accomplit sans plus savoir pourquoi. L'histoire d'Hybelior, c'est l'addition lente de ces traces.
 
-Les chroniqueurs ont coutume de dire qu'on ne lit pas le passé d'Hybelior, on l'**écoute**. Les Pierres-Mères vibrent quand un Lié les frôle. Les bardes chantent à demi-voix des refrains dont ils ignorent l'origine. Les vieux moines, entre deux silences, glissent une phrase qui éclaire mieux trois siècles que dix volumes savants. Ce que ce document tente n'est donc pas une vérité totale — elle n'existe pas — mais une **mise en récit** : un fil narratif assez tenu pour que le joueur, en arrivant dans le présent, sache d'où ce présent vient, et assez lâche pour qu'il reste, partout, de la place pour l'inconnu.
+Les chroniqueurs ont coutume de dire qu'on ne lit pas le passé d'Hybelior, on l'**écoute**. Les Pierres-Mères vibrent quand un Lié les frôle. Les bardes chantent à demi-voix des refrains dont ils ignorent l'origine. Les vieux moines, entre deux silences, glissent une phrase qui éclaire mieux trois siècles que dix volumes savants. Ce que ce document tente n'est donc pas une vérité totale — elle n'existe pas — mais une **mise en récit** : un fil narratif assez tenu pour que celui qui arrive dans le présent sache d'où ce présent vient, et assez lâche pour qu'il reste, partout, de la place pour l'inconnu.
 
 ---
 
@@ -124,7 +124,7 @@ Les conséquences, elles, sont indiscutables. Depuis la Fracture, **le tissu tem
 
 ### Le Cardinal de l'Arrachement
 
-C'est l'événement-pivot du présent, le plus récent des Cardinaux dont les traces sont encore fraîches. Il clôt l'Ère du Grand Silence et inaugure ce que les Astraviens appellent le **Sillage** — le présent dans lequel le joueur arrive.
+C'est l'événement-pivot du présent, le plus récent des Cardinaux dont les traces sont encore fraîches. Il clôt l'Ère du Grand Silence et inaugure ce que les Astraviens appellent le **Sillage** — le présent où arrivent les mortels.
 
 L'Arrachement fut un Souffle d'amplitude exceptionnelle, vécu en peu de jours. Le terme est une désignation mortelle : il dit ce qui fut **ressenti** — un déchirement — sans préjuger de la cause. Plusieurs phénomènes lui sont rattachés. L'**Éternel des Passages** cessa d'être atteignable : les portails entre les mondes parurent se refermer, les morts cessèrent d'être guidés, et des âmes restèrent bloquées — ce sont les **Errants**, ces présences qui hantent encore certaines régions et n'ont jamais atteint leur destination. La présence de l'Éternel de la Nuit, dans le même temps, s'**accrut** : les ténèbres prirent une qualité active dans plusieurs continents, et certaines ombres parurent se mouvoir seules.
 
@@ -142,7 +142,7 @@ Sur la cause, aucune lecture ne s'est imposée. Les uns y voient un rééquilibr
 
 ## L'Ère présente — le Sillage
 
-Le joueur arrive dans le **Sillage** : la longue trace qui suit l'Arrachement, et qui se lit toujours dans la pierre, le ciel et les mémoires. Les Liés sont rares mais pas éteints — on en trouve encore, précieux, surveillés, parfois recrutés de force, parfois cachés par leurs familles. Les religions ont nuancé leurs doctrines après les rigueurs du Grand Silence : la peur a cédé à une humilité prudente, faite de gestes mesurés et de prières plus brèves.
+Le voyageur arrive dans le **Sillage** : la longue trace qui suit l'Arrachement, et qui se lit toujours dans la pierre, le ciel et les mémoires. Les Liés sont rares mais pas éteints — on en trouve encore, précieux, surveillés, parfois recrutés de force, parfois cachés par leurs familles. Les religions ont nuancé leurs doctrines après les rigueurs du Grand Silence : la peur a cédé à une humilité prudente, faite de gestes mesurés et de prières plus brèves.
 
 Les Déliés s'affirment. Marginaux au lendemain de l'Arrachement, ils sont aujourd'hui une présence qui inquiète plusieurs autorités — sans qu'aucune les reconnaisse officiellement, la doctrine dominante voulant qu'*on ne nomme pas ce qui veut être oublié*. Les rumeurs courent. Des cellules ont été démantelées dans les grandes cités. Plusieurs hypothèses circulent sur ce qu'ils nourrissent ; aucune n'est exclue.
 
@@ -150,7 +150,7 @@ Les Souffles continuent. Ils rythment la vie des cités, des marchés, des oracl
 
 Et pourtant, sous cette routine apparente, une **tension diffuse** traverse toute la société. Le prochain Cardinal approche-t-il ? Certains oracles le pressentent. D'autres rejettent l'idée comme alarmisme. Les rois renforcent leurs garnisons sans dire pourquoi. Les religions accumulent des réserves. Les Bibliothécaires accélèrent la copie des textes anciens, comme s'il fallait sauver ce qui peut l'être avant que. Avant que quoi ? Personne ne le formule. Mais tout le monde le sent.
 
-C'est dans cette Ère que le joueur arrive : au seuil de quelque chose qu'il ne connaît pas, dans un monde qui se prépare sans savoir à quoi, parmi des peuples qui se rappellent assez du passé pour le craindre et trop peu pour s'en protéger. C'est la place réservée aux mortels — et celle que les Concordants, les Voyageurs des Souffles et tous ceux qui apprendront à respirer avec ce monde transformeront en histoire.
+C'est dans cette Ère qu'arrivent les mortels : au seuil de quelque chose qu'ils ne connaissent pas, dans un monde qui se prépare sans savoir à quoi, parmi des peuples qui se rappellent assez du passé pour le craindre et trop peu pour s'en protéger. C'est leur place — et celle que les Concordants, les Voyageurs des Souffles et tous ceux qui apprendront à respirer avec ce monde transformeront en histoire.
 
 > *« Nous vivons dans le sillage de quelque chose. Nous ne savons pas si ce qui nous suit est le calme après l'orage, ou le silence avant le suivant. C'est pour cela que nous allumons les lampes plus tôt qu'autrefois. »*
 >
@@ -162,7 +162,7 @@ C'est dans cette Ère que le joueur arrive : au seuil de quelque chose qu'il ne 
 
 L'histoire d'Hybelior, telle qu'elle est tenue par ses chroniqueurs, n'est pas une ligne. C'est une **respiration**. Le Vide, puis l'éveil ; le Pacte, puis l'Ère Primordiale ; l'Alliance lumineuse, puis la Fracture qui la ferme ; les Trois Royaumes qui codifient, puis le Grand Silence qui replie ; l'Arrachement qui déchire, et le Sillage où nous sommes. À chaque inspiration, le monde s'ouvre ; à chaque expiration, il s'allège ; entre les deux, des Cardinaux marquent les passages que les mortels ne maîtrisent pas.
 
-Ce que cette chronique ne dit pas — et ne pourra jamais dire — c'est ce qui vient ensuite. Personne ne sait quand le prochain Cardinal soufflera, ni quelle Ère il inaugurera. Personne ne sait si ce sera le joueur qui le déclenchera, ou s'il y assistera depuis le coin d'une auberge en serrant son verre. C'est le pari d'Hybelior : faire de chaque présent un **chapitre vivant**, dont la fin n'est pas écrite et dont l'écriture, quand elle viendra, intégrera ce que les mortels y auront fait.
+Ce que cette chronique ne dit pas — et ne pourra jamais dire — c'est ce qui vient ensuite. Personne ne sait quand le prochain Cardinal soufflera, ni quelle Ère il inaugurera. Personne ne sait si ce sera un voyageur qui le déclenchera, ou s'il y assistera depuis le coin d'une auberge en serrant son verre. C'est le pari d'Hybelior : faire de chaque présent un **chapitre vivant**, dont la fin n'est pas écrite et dont l'écriture, quand elle viendra, intégrera ce que les mortels y auront fait.
 
 > *« On ne lit pas l'histoire d'Hybelior. On l'écoute respirer. Et si l'on écoute assez longtemps, on comprend qu'elle nous attend. »*
 >

@@ -1,7 +1,7 @@
 ---
 tags: [géographie, monde, philosophie, polyphonie, narration]
 status: drafted
-last_review: 2026-05-07
+last_review: 2026-05-12
 needs_review_for: []
 type: lore-narrative
 implementation: "[[Geography Tables]]"
@@ -21,7 +21,7 @@ implementation: "[[Geography Tables]]"
 
 Là où une voix domine, le monde prend une forme. Là où plusieurs s'entremêlent, il en prend une autre. Là où elles se taisent, restent les déserts de glace, les Brèches, les zones où la carte cesse de mentir et avoue qu'elle ne sait pas. La géographie d'Hybelior est ainsi la **première leçon de cosmologie** que reçoit qui voyage : *le monde n'est pas uniforme parce qu'il n'est pas dit d'une seule voix*.
 
-Cette intuition change tout. Un joueur qui traverse Hybelior n'est pas en train de cocher des biomes sur une checklist d'exploration. Il est en train de **lire** le monde. Le passage d'une plaine à un volcan, d'une jungle conscience à un glacier muet, n'est pas un changement de skin. C'est une bascule de tonalité cosmique. Et celui qui apprend à le sentir apprend, en même temps, à habiter Hybelior.
+Cette intuition change tout. Un voyageur qui traverse Hybelior n'est pas en train de cocher des biomes sur une liste à compléter. Il est en train de **lire** le monde. Le passage d'une plaine à un volcan, d'une jungle conscience à un glacier muet, n'est pas un changement de skin. C'est une bascule de tonalité cosmique. Et celui qui apprend à le sentir apprend, en même temps, à habiter Hybelior.
 
 > *« Voyager, c'est apprendre à entendre les voix qu'on ne parle pas. »*
 >
@@ -35,7 +35,7 @@ Pourquoi treize ? La question revient souvent, et aucune réponse n'a fait taire
 
 Ce qui compte n'est pas le nombre, mais la **différence**. Chaque continent est, dans le langage des géographes d'Hybelior, une **dimension du monde** — pas un lieu parmi d'autres, mais une **manière qu'a le monde d'être**. L'un dit la rigueur du froid et la patience des esprits anciens. L'un dit le feu, la transformation, l'instabilité fertile. L'un dit la magie qui pense par elle-même, l'autre la magie qui se cache. L'un dit la mer, l'un dit la pierre, l'un dit le rêve.
 
-Aucun de ces visages n'épuise Hybelior. Ils s'**additionnent** sans se totaliser. Et c'est précisément cette incomplétude qui fait du voyage, dans Hybelior, autre chose qu'un parcours : une **enquête sur ce qu'est un monde**. Un joueur qui n'a connu que son continent natal n'a pas connu Hybelior. Il a connu une voix. Il en reste douze.
+Aucun de ces visages n'épuise Hybelior. Ils s'**additionnent** sans se totaliser. Et c'est précisément cette incomplétude qui fait du voyage, dans Hybelior, autre chose qu'un parcours : une **enquête sur ce qu'est un monde**. Celui qui n'a connu que son continent natal n'a pas connu Hybelior. Il a connu une voix. Il en reste douze.
 
 Pour l'inventaire détaillé — qui est nation, qui est île, qui est No Man's Land, et quelle lignée habite quoi — voir [[Continents/Index]]. Cette page n'est pas un atlas. Elle est une réflexion sur ce qu'un atlas, à Hybelior, ne peut pas dire.
 
@@ -69,7 +69,7 @@ Le **volcanique** est la transformation par le feu. Là, le monde se rappelle qu
 
 Et puis il y a la **désolation** — ces zones où le tissu du monde s'est usé, où une voix s'est tue trop brutalement et a laissé derrière elle une absence active. Ce ne sont pas des biomes ; ce sont des **cicatrices**. On y entre rarement par choix. On en sort rarement intact.
 
-Pour la grille technique des biomes — leurs effets de gameplay, leurs bonus, leurs dégâts environnementaux — voir [[Geography Tables]]. Cette section ne décrit pas ce qu'un biome **fait** au joueur. Elle décrit ce qu'il **est** dans le monde.
+Pour la grille technique des biomes — leur grammaire technique, ce qu'un biome **inflige** ou **donne** — voir [[Geography Tables]] (voir aussi). Cette section ne décrit pas ce qu'un biome **fait** à celui qui le traverse. Elle décrit ce qu'il **est** dans le monde.
 
 > *« Le biome n'est pas un climat. C'est une humeur du cosmos. Apprends à reconnaître celle qui t'habite, et tu sauras où aller. »*
 >
@@ -123,7 +123,7 @@ Pour le détail des grandes routes commerciales, des ports majeurs et des flux �
 
 ## Habiter une géographie polyphonique
 
-Au bout du compte, ce que la géographie d'Hybelior demande à ses habitants — joueurs compris — c'est une certaine **disposition d'esprit**. Pas la curiosité touristique du checklist d'exploration. Pas non plus l'attachement exclusif à un seul lieu. Quelque chose entre les deux : la **disponibilité polyphonique**.
+Au bout du compte, ce que la géographie d'Hybelior demande à ses habitants — voyageurs compris — c'est une certaine **disposition d'esprit**. Pas la curiosité touristique de la liste à compléter. Pas non plus l'attachement exclusif à un seul lieu. Quelque chose entre les deux : la **disponibilité polyphonique**.
 
 Habiter Hybelior bien, c'est avoir une terre où l'on revient — un continent natal, une ville d'enfance, un port d'attache — et c'est aussi avoir entendu, au moins une fois, plusieurs des autres voix du monde. Avoir vu un désert de glace au moins une fois. Avoir traversé une jungle consciente au moins une fois. Avoir touché la cendre encore tiède d'un volcan au moins une fois. Pas pour les collectionner. Pour **les avoir entendues**, et pouvoir, à son retour, mieux entendre la sienne.
 
@@ -137,4 +137,4 @@ La géographie d'Hybelior n'enseigne pas que tout se vaut. Elle enseigne que **t
 
 *Liens narratifs : [[Continents/Index]] | [[Lignées]] | [[Cosmologie]] | [[Univers]] | [[Traces des Ères]] | [[Économie]] | [[Le Souffle]]*
 
-*Implémentation technique (tables, surfaces, biomes gameplay, mappings) : [[Geography Tables]]*
+*Implémentation technique (tables, surfaces, grille technique des biomes, mappings) : [[Geography Tables]]*
