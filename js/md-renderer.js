@@ -120,6 +120,120 @@
     }
 
     /**
+     * Détecte si la page courante est un hub (un Index.md d'un dossier qui
+     * contient d'autres .md). Si oui, injecte une bandelette de sous-onglets
+     * sous le H1 pour accès rapide aux pages-enfants.
+     *
+     * Hub heuristique : nom de fichier = "Index.md", "_Index.md" ou commence
+     * par "_" (description/template), ET le dossier contient ≥2 .md.
+     */
+    async function postProcessHubTabs(rootEl, mdPath) {
+        const md = rootEl.querySelector('.md-content');
+        if (!md) return;
+
+        // Détecte le segment de chemin et le nom de fichier
+        const cleanPath = mdPath.replace(/^\/?(Docs\/)?/, '');
+        const lastSlash = cleanPath.lastIndexOf('/');
+        if (lastSlash === -1) return; // racine, pas de hub
+        const folderPath = cleanPath.slice(0, lastSlash);
+        const fileName = cleanPath.slice(lastSlash + 1);
+        const baseName = fileName.replace(/\.md$/i, '');
+
+        const isHubFile = (
+            baseName === 'Index' ||
+            baseName === '_Index' ||
+            baseName === '_Description' ||
+            baseName.startsWith('_')
+        );
+        if (!isHubFile) return;
+
+        // Récupère les entrées du manifest pour ce dossier
+        const manifest = await getManifest();
+        const entries = manifest[folderPath];
+        if (!Array.isArray(entries) || entries.length < 2) return;
+
+        // Liste les frères (hors le fichier courant lui-même et hors fichiers
+        // techniques _Description / _Index dupliqués)
+        const siblings = entries.filter(e =>
+            e.file !== fileName &&
+            !e.file.toLowerCase().endsWith('_description.md') &&
+            !e.file.toLowerCase().endsWith('_index.md')
+        );
+        if (siblings.length < 1) return;
+
+        // Vérifie aussi les sous-dossiers : un hub peut avoir des enfants
+        // qui sont des dossiers (chacun avec son propre Index.md). On les
+        // détecte en cherchant des entrées de manifest dont le path
+        // commence par folderPath + '/'.
+        const subFolders = [];
+        const prefix = folderPath + '/';
+        for (const key of Object.keys(manifest)) {
+            if (key.startsWith(prefix) && key !== folderPath) {
+                // Ne garder que les enfants directs (un seul segment de plus)
+                const tail = key.slice(prefix.length);
+                if (!tail.includes('/')) {
+                    const idxEntry = manifest[key].find(e =>
+                        e.file === 'Index.md' || e.file === '_Index.md' || e.file === '_Description.md'
+                    );
+                    if (idxEntry) {
+                        subFolders.push({
+                            name: tail,
+                            title: idxEntry.title || tail,
+                            folder: key,
+                            file: idxEntry.file,
+                        });
+                    }
+                }
+            }
+        }
+
+        // Si rien à montrer, abandonner
+        if (siblings.length === 0 && subFolders.length === 0) return;
+
+        // Construit le HTML de la bandelette
+        const tabs = [];
+        for (const sf of subFolders) {
+            tabs.push({
+                label: sf.title,
+                href: '#md/' + encodeURIComponent(sf.folder + '/' + sf.file),
+            });
+        }
+        for (const s of siblings) {
+            tabs.push({
+                label: s.title || s.name,
+                href: '#md/' + encodeURIComponent(folderPath + '/' + s.file),
+            });
+        }
+
+        // Trie : sous-dossiers d'abord (plus haut niveau), puis siblings
+        // Cap à 20 entrées max pour ne pas exploser l'UI
+        const capped = tabs.slice(0, 20);
+
+        const stripHtml = [
+            '<nav class="md-hub-tabs" aria-label="Sous-pages de ce hub">',
+            '  <div class="md-hub-tabs-label">Dans cette branche</div>',
+            '  <ul class="md-hub-tabs-list">',
+            ...capped.map(t =>
+                `<li><a href="${t.href}">${escHtml(t.label)}</a></li>`
+            ),
+            '  </ul>',
+            '</nav>',
+        ].join('');
+
+        // Insère après le H1 (si présent), sinon en début de md
+        const h1 = md.querySelector('h1');
+        if (h1 && h1.nextSibling) {
+            const wrapper = document.createElement('div');
+            wrapper.innerHTML = stripHtml;
+            h1.parentNode.insertBefore(wrapper.firstChild, h1.nextSibling);
+        } else {
+            const wrapper = document.createElement('div');
+            wrapper.innerHTML = stripHtml;
+            md.insertBefore(wrapper.firstChild, md.firstChild);
+        }
+    }
+
+    /**
      * Construit la grille de cartes pour un bloc dataview.
      * `from` est le chemin Obsidian (ex: "05 - Implémentation Unreal/Combat et Capacités")
      * → on tente plusieurs préfixes de manifest pour le résoudre.
@@ -261,6 +375,11 @@
             postProcessObsidianLinks(targetEl, mdPath);
             // Coloration syntaxique des blocs code (highlight.js)
             postProcessHighlight(targetEl);
+
+            // Si la page est un hub (Index.md d'un dossier qui contient
+            // d'autres fichiers .md), injecter une bandelette de sous-onglets
+            // sous le H1 pour accès rapide aux pages enfants.
+            await postProcessHubTabs(targetEl, mdPath);
 
             // Construire le TOC sidebar
             const sidebar = document.getElementById('site-sidebar');
