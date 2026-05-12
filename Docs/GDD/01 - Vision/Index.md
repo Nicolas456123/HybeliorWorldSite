@@ -28,7 +28,6 @@ SORT file.name ASC
 - [[Vision]] — pitch, audience, ce qui distingue Hybélior
 - [[Univers]] — toile de fond, ambiance, narration ambiante
 - [[La Partie]] — l'expérience continue du voyageur ; le monde traverse des Ères, sans rupture
-- [[Production]] — philosophie de production, recombinaison, atelier
 
 ---
 

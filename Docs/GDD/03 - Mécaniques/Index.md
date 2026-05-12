@@ -45,10 +45,9 @@ needs_review_for: []
 - [[Métiers]] — éventail des métiers, mini-jeux, recettes éphémères
 - [[Économie]] — Éclats, Hôtel des ventes, gold sinks
 
-## Méta-récit et lecture du monde
+## Lecture du monde
 
 - [[Prédiction]] — disciplines de lecture du monde, Bourse des Augures
-- [[Interface]] — HUD, fiche personnage, contrôles
 
 ## Items et ressources *(branche en cours)*
 

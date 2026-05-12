@@ -91,7 +91,6 @@ const NavConfig = {
                 { key: 'factions',     label: 'Factions',        src: 'GDD/03 - Mécaniques/Factions.md' },
                 { key: 'pvp',          label: 'PvP',             src: 'GDD/03 - Mécaniques/PvP.md' },
                 { key: 'prediction',   label: 'Prédiction',      src: 'GDD/03 - Mécaniques/Prédiction.md' },
-                { key: 'interface',    label: 'Interface',       src: 'GDD/03 - Mécaniques/Interface.md' },
             ],
         },
 
@@ -100,7 +99,6 @@ const NavConfig = {
             defaultKey: 'index',
             tabs: [
                 { key: 'index',         label: "Vue d'ensemble",    src: 'GDD/04 - Systèmes/Index.md' },
-                { key: 'data',          label: 'Architecture Data', src: 'GDD/04 - Systèmes/Architecture Data-Driven.md' },
                 { key: 'pnj',           label: 'PNJ',               src: 'GDD/04 - Systèmes/PNJ.md' },
                 { key: 'bestiaire',     label: 'Bestiaire',         src: 'GDD/04 - Systèmes/Bestiaire/Index.md' },
                 { key: 'comportements', label: 'Comportements PNJ', src: 'GDD/04 - Systèmes/Comportements PNJ/Index.md' },

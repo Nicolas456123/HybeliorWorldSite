@@ -25,20 +25,9 @@ SORT file.name ASC
 
 ## Contenu
 
-- [[Architecture Data-Driven]] — les douze grandes voix qui régissent le monde paramétrique
 - [[PNJ]] — présence, archétypes, mémoire des habitants
-
-## Sous-dossiers
-
-- [[Bestiary/Index|Bestiaire]] — créatures d'Hybelior (taxonomie biologique Catégorie → Famille → Sous-famille → Espèce, Écosystèmes)
-  - [[Taxonomie des Créatures]] (cadrage des axes)
-  - Espèces concrètes (branche principale)
-  - Écosystèmes par biome (branche parallèle)
-  - Templates paramétriques de référence (archétypes archive)
-- [[NPC Behaviors/Index|Comportements PNJ]] — phases livrées progressivement
-  - [[Concepts Fondamentaux IA PNJ]] — décisions D-PNJ-* tranchées
-  - [[Actions Situationnelles]] — matrice contexte × action, modes superposables, modulation MBTI
-  - Ébauches narratives à réécrire en phase ultérieure : [[Routine Quotidienne]] · [[Modes Sociaux]] · [[Forgeron]] · [[Boulanger]]
+- [[Bestiaire/Index|Bestiaire]] — taxonomie du vivant d'Hybélior, écosystèmes, statuts
+- [[Comportements PNJ/Index|Comportements PNJ]] — la décision d'un habitant, ses routines, ses humeurs
 
 ---
 

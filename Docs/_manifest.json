@@ -12,11 +12,6 @@
       "title": "🌐 La Partie — l'expérience du voyageur"
     },
     {
-      "name": "Production",
-      "file": "Production.md",
-      "title": "🎬 Produire Hybelior — la philosophie d'un monde modulaire"
-    },
-    {
       "name": "Univers",
       "file": "Univers.md",
       "title": "🌍 Univers — Hybelior"
@@ -213,11 +208,6 @@
       "file": "Index.md",
       "title": "03 — Mécaniques",
       "isIndex": true
-    },
-    {
-      "name": "Interface",
-      "file": "Interface.md",
-      "title": "🖥️ Interface — la transparence du regard"
     },
     {
       "name": "Inventaire",
@@ -432,11 +422,6 @@
     }
   ],
   "GDD/04 - Systèmes": [
-    {
-      "name": "Architecture Data-Driven",
-      "file": "Architecture Data-Driven.md",
-      "title": "🏗️ Architecture Data-Driven — un monde qui se recompose"
-    },
     {
       "name": "Index",
       "file": "Index.md",
