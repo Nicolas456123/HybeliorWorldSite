@@ -4332,6 +4332,89 @@ select:focus-visible,
 }
 
 /* ============================================================
+   NATION PAGE — page dédiée par nation (#nation/<slug>)
+   ============================================================ */
+
+.nation-page {
+    max-width: 980px;
+    margin: 0 auto;
+}
+.nation-page-crumbs {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 12px;
+    color: var(--text-muted, #6a5438);
+    margin-bottom: 12px;
+}
+.nation-page-back {
+    color: var(--gold, #7a4c0a);
+    text-decoration: none;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+    border-bottom: 1px solid transparent;
+    transition: color 0.15s, border-color 0.15s;
+}
+.nation-page-back:hover {
+    color: var(--gold-bright, #a86c1c);
+    border-bottom-color: currentColor;
+}
+.nation-page-crumbs-sep { opacity: 0.5; }
+.nation-page-continent {
+    font-family: var(--font-title, 'Cinzel', serif);
+    text-transform: uppercase;
+    letter-spacing: 1.4px;
+    font-size: 11px;
+    color: var(--text-muted, #6a5438);
+}
+.nation-page-title {
+    font-family: var(--font-title, 'Cinzel', serif);
+    color: var(--gold, #7a4c0a);
+    font-size: 32px;
+    letter-spacing: 2px;
+    margin: 0 0 18px;
+    border: none;
+    padding: 0;
+}
+.nation-page-tabs {
+    display: flex;
+    gap: 0;
+    border-bottom: 1px solid rgba(120, 78, 18, 0.22);
+    margin-bottom: 24px;
+}
+.nation-page-tab {
+    font-family: 'Raleway', sans-serif;
+    font-size: 12.5px;
+    font-weight: 600;
+    letter-spacing: 1.4px;
+    text-transform: uppercase;
+    padding: 10px 18px;
+    border: none;
+    border-bottom: 2px solid transparent;
+    background: transparent;
+    color: var(--text-muted, #6a5438);
+    cursor: pointer;
+    transition: color 0.15s, border-color 0.15s;
+    margin-bottom: -1px;
+}
+.nation-page-tab:hover { color: var(--gold, #7a4c0a); }
+.nation-page-tab.active {
+    color: var(--gold, #7a4c0a);
+    border-bottom-color: var(--gold, #7a4c0a);
+}
+.nation-page-body {
+    padding-top: 8px;
+}
+.nation-page-loading,
+.nation-page-error {
+    padding: 24px;
+    text-align: center;
+    color: var(--text-muted, #6a5438);
+    font-style: italic;
+}
+.nation-page-error { color: #884030; }
+
+/* ============================================================
    MD HUB TABS — bandelette de sous-pages pour les pages-hubs
    ============================================================ */
 

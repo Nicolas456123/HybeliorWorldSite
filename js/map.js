@@ -2721,7 +2721,18 @@ function initMap() {
         if (!btn) return;
         const hasLore = window.LoreReader && window.LoreReader.NATIONS && window.LoreReader.NATIONS[name];
         btn.style.display = hasLore ? 'block' : 'none';
-        if (hasLore) btn.onclick = () => window.LoreReader.open(name, 'histoires');
+        if (!hasLore) return;
+        btn.onclick = () => {
+            // Si la nation a une page dédiée, on y navigue ; sinon fallback modal.
+            if (window.NavConfig && typeof window.NavConfig.slugifyNation === 'function') {
+                const slug = window.NavConfig.slugifyNation(name);
+                if (window.NavConfig.findNationBySlug(slug)) {
+                    window.location.hash = 'nation/' + slug;
+                    return;
+                }
+            }
+            window.LoreReader.open(name, 'histoires');
+        };
     }
 
     function showFallbackCSV(infoEl, subtitleEl, item) {

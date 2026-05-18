@@ -1,4 +1,4 @@
-<!-- ===== Histoires par Nation ===== -->
+<!-- ===== Histoires par Nation — landing groupée par continent ===== -->
 <div class="section-header" id="histoires">
     <h2>Histoires par Nation</h2>
     <span class="section-count">13 continents · 37 nations</span>
@@ -8,146 +8,49 @@
     <div class="codex-label">Naviguer dans les histoires</div>
     <p style="margin-bottom:0;">
         Chaque nation d'Hybélior possède ses propres chroniques, légendes et récits fondateurs.
-        Sélectionnez un continent pour explorer les histoires de ses nations.
+        Sélectionnez une nation pour ouvrir sa page dédiée.
     </p>
 </div>
 
-<!-- Vue grille continents -->
-<div class="hist-continent-grid" id="hist-continent-grid">
-
-    <div class="hist-continent-card" data-continent="Alkaran">
-        <div class="hist-continent-name">Alkaran</div>
-        <div class="hist-continent-count">3 nations</div>
-    </div>
-
-    <div class="hist-continent-card" data-continent="Azoria">
-        <div class="hist-continent-name">Azoria</div>
-        <div class="hist-continent-count">2 nations</div>
-    </div>
-
-    <div class="hist-continent-card" data-continent="Baelor">
-        <div class="hist-continent-name">Baelor</div>
-        <div class="hist-continent-count">1 nation</div>
-    </div>
-
-    <div class="hist-continent-card" data-continent="Celethor">
-        <div class="hist-continent-name">Celethor</div>
-        <div class="hist-continent-count">4 nations</div>
-    </div>
-
-    <div class="hist-continent-card" data-continent="Cendara">
-        <div class="hist-continent-name">Cendara</div>
-        <div class="hist-continent-count">1 nation</div>
-    </div>
-
-    <div class="hist-continent-card" data-continent="Cestra">
-        <div class="hist-continent-name">Cestra</div>
-        <div class="hist-continent-count">1 territoire</div>
-    </div>
-
-    <div class="hist-continent-card" data-continent="Endora">
-        <div class="hist-continent-name">Endora</div>
-        <div class="hist-continent-count">2 nations</div>
-    </div>
-
-    <div class="hist-continent-card" data-continent="Evertia">
-        <div class="hist-continent-name">Evertia</div>
-        <div class="hist-continent-count">2 nations</div>
-    </div>
-
-    <div class="hist-continent-card" data-continent="Galenor">
-        <div class="hist-continent-name">Galenor</div>
-        <div class="hist-continent-count">7 nations</div>
-    </div>
-
-    <div class="hist-continent-card" data-continent="Ilthara">
-        <div class="hist-continent-name">Ilthara</div>
-        <div class="hist-continent-count">8 nations</div>
-    </div>
-
-    <div class="hist-continent-card" data-continent="Nysaria">
-        <div class="hist-continent-name">Nysaria</div>
-        <div class="hist-continent-count">1 nation</div>
-    </div>
-
-    <div class="hist-continent-card" data-continent="Onara">
-        <div class="hist-continent-name">Onara</div>
-        <div class="hist-continent-count">3 nations</div>
-    </div>
-
-    <div class="hist-continent-card" data-continent="Ulinor">
-        <div class="hist-continent-name">Ulinor</div>
-        <div class="hist-continent-count">2 nations</div>
-    </div>
-
-</div>
-
-<!-- Vue nations (cachée par défaut) -->
-<div class="hist-nations-view" id="hist-nations-view" style="display:none;">
-    <button class="hist-back-btn" id="hist-back-btn">← Continents</button>
-    <div class="hist-continent-title" id="hist-continent-title"></div>
-    <div class="hist-nation-list" id="hist-nation-list"></div>
-</div>
+<div class="lore-landing nation-landing" id="nation-landing-container"></div>
 
 <script>
-(function() {
-    // Mapping continent → nations (canon D-LORE-NATIONS-CHEVAL post-2026).
-    // Reflète les fichiers présents dans Docs/Lore/Histoires/<continent>/.
-    // Nations sans fichier Histoires/ (Ferrath, Sanvara, Sylvara, Lunasar, Mirathi,
-    // Arkhen, Pyrevane, Noravia, Azoral, Kethvar, Solmaris, Elarath, Dhalvoria) ne
-    // sont pas listées ici — elles apparaissent uniquement dans lore-geo.html / lore.html.
-    var data = {
-        'Alkaran':  ['Altram', 'Iskara', 'Torkam'],
-        'Azoria':   ['Caeloria', "No Man's Land Azoria"],
-        'Baelor':   ['Baelor'],
-        'Celethor': ['Astravia', 'Elarian', 'Ryldor', "No Man's Land Celethor"],
-        'Cendara':  ['Cendara'],
-        'Cestra':   ['Cestra'],
-        'Endora':   ['Avalor', 'Haldria'],
-        'Evertia':  ['Evertia', 'Thalmaris'],
-        'Galenor':  ['Kharazir', 'Lumasar', 'Seraphia', 'Solena', 'Trinoria', 'Valoria', 'Ventera'],
-        'Ilthara':  ['Ackerna', 'Drakora', 'Gryndor', 'Lythar', 'Pyrtara', 'Sylthara', 'Vytharia', 'Warenthor'],
-        'Nysaria':  ['Nysaria'],
-        'Onara':    ['Mosrack', 'Myrtam', 'Tyndara'],
-        'Ulinor':   ['Skaldoria', 'Ulinor']
-    };
+(function () {
+    var container = document.getElementById('nation-landing-container');
+    if (!container || !window.NavConfig || !Array.isArray(NavConfig.nationContinents)) return;
 
-    var grid     = document.getElementById('hist-continent-grid');
-    var view     = document.getElementById('hist-nations-view');
-    var backBtn  = document.getElementById('hist-back-btn');
-    var titleEl  = document.getElementById('hist-continent-title');
-    var listEl   = document.getElementById('hist-nation-list');
+    function escapeHtml(s) {
+        var d = document.createElement('div');
+        d.textContent = s == null ? '' : String(s);
+        return d.innerHTML;
+    }
 
-    // Clic sur une card continent
-    grid.addEventListener('click', function(e) {
-        var card = e.target.closest('.hist-continent-card');
-        if (!card) return;
-        var continent = card.dataset.continent;
-        var nations = data[continent] || [];
-
-        titleEl.textContent = continent;
-        listEl.innerHTML = '';
-        nations.forEach(function(nation) {
-            var btn = document.createElement('button');
-            btn.className = 'hist-nation-btn';
-            btn.dataset.nation = nation;
-            btn.textContent = nation;
-            btn.addEventListener('click', function() {
-                if (window.LoreReader && window.LoreReader.open) {
-                    window.LoreReader.open(nation, 'histoires');
-                }
-            });
-            listEl.appendChild(btn);
+    var html = '';
+    NavConfig.nationContinents.forEach(function (cont) {
+        var firstSlug = cont.nations[0] ? NavConfig.slugifyNation(cont.nations[0]) : '';
+        var firstHref = firstSlug ? '#nation/' + firstSlug : '#histoires/histoires';
+        html += '<div class="lore-card" data-href="' + escapeHtml(firstHref) + '">';
+        html += '  <h2 class="lore-card-title"><a href="' + escapeHtml(firstHref) + '">' +
+                escapeHtml(cont.label) + '</a></h2>';
+        html += '  <p class="lore-card-intro">' + escapeHtml(cont.intro) + '</p>';
+        html += '  <ul class="lore-card-links">';
+        cont.nations.forEach(function (nation) {
+            var slug = NavConfig.slugifyNation(nation);
+            html += '<li><a href="#nation/' + escapeHtml(slug) + '">' +
+                    escapeHtml(nation) + '</a></li>';
         });
-
-        grid.style.display = 'none';
-        view.style.display = 'block';
+        html += '  </ul>';
+        html += '</div>';
     });
+    container.innerHTML = html;
 
-    // Bouton retour
-    backBtn.addEventListener('click', function() {
-        view.style.display = 'none';
-        grid.style.display = 'grid';
+    container.querySelectorAll('.lore-card[data-href]').forEach(function (card) {
+        card.style.cursor = 'pointer';
+        card.addEventListener('click', function (e) {
+            if (e.target.closest('a')) return;
+            var href = card.getAttribute('data-href');
+            if (href) window.location.hash = href.replace(/^#/, '');
+        });
     });
 })();
 </script>

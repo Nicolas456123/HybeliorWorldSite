@@ -44,21 +44,35 @@ var LoreSearch = (function() {
     }
 
     function openNation(loreIndexName) {
+        // Résout vers un nom de nation canonique connu de NATIONS, puis navigue
+        // vers la page dédiée #nation/<slug>.
+        var resolved = null;
         if (window.LoreReader && window.LoreReader.NATIONS) {
-            // Direct match
             if (window.LoreReader.NATIONS[loreIndexName]) {
-                window.LoreReader.open(loreIndexName);
-                return;
-            }
-            // Fuzzy: lore-index names may differ from NATIONS keys
-            var keys = Object.keys(window.LoreReader.NATIONS);
-            for (var i = 0; i < keys.length; i++) {
-                if (loreIndexName.toLowerCase().indexOf(keys[i].toLowerCase()) !== -1 ||
-                    keys[i].toLowerCase().indexOf(loreIndexName.toLowerCase()) !== -1) {
-                    window.LoreReader.open(keys[i]);
-                    return;
+                resolved = loreIndexName;
+            } else {
+                var keys = Object.keys(window.LoreReader.NATIONS);
+                for (var i = 0; i < keys.length; i++) {
+                    if (loreIndexName.toLowerCase().indexOf(keys[i].toLowerCase()) !== -1 ||
+                        keys[i].toLowerCase().indexOf(loreIndexName.toLowerCase()) !== -1) {
+                        resolved = keys[i];
+                        break;
+                    }
                 }
             }
+        }
+        if (!resolved) resolved = loreIndexName;
+
+        // Si la nation a une page dédiée (slug connu), on navigue. Sinon fallback modal.
+        if (window.NavConfig && typeof NavConfig.slugifyNation === 'function') {
+            var slug = NavConfig.slugifyNation(resolved);
+            if (NavConfig.findNationBySlug(slug)) {
+                window.location.hash = 'nation/' + slug;
+                return;
+            }
+        }
+        if (window.LoreReader && window.LoreReader.open) {
+            window.LoreReader.open(resolved);
         }
     }
 
