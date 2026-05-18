@@ -83,6 +83,38 @@ const NavConfig = {
         return null;
     },
 
+    /** Religions — source unique pour le sidebar et la page de hub. */
+    religions: [
+        { key: 'systeme',  label: 'Système religieux',   md: 'Lore/Religions/00 - Système Religieux.md',     special: true },
+        { key: 'histoire', label: 'Histoire & schismes', md: 'Lore/Religions/_Histoire des Religions.md',    special: true },
+        { key: 'foedus',   label: 'Foedus Animae',       md: 'Lore/Religions/Foedus Animae.md' },
+        { key: 'ignis',    label: 'Ignis Aeternum',      md: 'Lore/Religions/Ignis Aeternum.md' },
+        { key: 'lex',      label: 'Lex Petra',           md: 'Lore/Religions/Lex Petra.md' },
+        { key: 'noctari',  label: 'Noctari',             md: 'Lore/Religions/Noctari.md' },
+        { key: 'ordo',     label: 'Ordo Caelum',         md: 'Lore/Religions/Ordo Caelum.md' },
+        { key: 'rota',     label: 'Rota Mundi',          md: 'Lore/Religions/Rota Mundi.md' },
+        { key: 'somnium',  label: 'Somnium Vigil',       md: 'Lore/Religions/Somnium Vigil.md' },
+        { key: 'vael',     label: 'Vael Kurash',         md: 'Lore/Religions/Vael Kurash.md' },
+        { key: 'via',      label: 'Via Ventus',          md: 'Lore/Religions/Via Ventus.md' },
+        { key: 'aqua',     label: 'Aqua Nigra',          md: 'Lore/Religions/_Mineures/Aqua Nigra.md',     mineure: true },
+        { key: 'cantus',   label: 'Cantus Mundi',        md: 'Lore/Religions/_Mineures/Cantus Mundi.md',   mineure: true },
+        { key: 'catena',   label: 'Catena Fracta',       md: 'Lore/Religions/_Mineures/Catena Fracta.md',  mineure: true },
+        { key: 'filii',    label: 'Filii Fornacis',      md: 'Lore/Religions/_Mineures/Filii Fornacis.md', mineure: true },
+        { key: 'taciti',   label: 'Taciti',              md: 'Lore/Religions/_Mineures/Taciti.md',         mineure: true },
+    ],
+
+    /** URL hash pour ouvrir une religion en page-md autonome. */
+    religionMdHref(md) {
+        return '#md/' + encodeURIComponent(md);
+    },
+
+    /** Retrouve la religion correspondant à un chemin md (subkey du route 'md'). */
+    findReligionByMdPath(path) {
+        if (!path) return null;
+        const norm = decodeURIComponent(path);
+        return (this.religions || []).find(r => r.md === norm) || null;
+    },
+
     /** Les 8 catégories de la landing Lore. Source unique consommée par :
         - pages/lore.html (les 8 cartes thématiques)
         - js/sidebar-lore-nav.js (quick-nav du sidebar, switch rapide entre cats)
@@ -198,6 +230,20 @@ const NavConfig = {
         retourne la catégorie Lore correspondante, ou null. */
     findLoreCategory(route, subkey) {
         if (!route) return null;
+
+        // Routes spéciales sans entrée directe dans loreCategories :
+        //   - #nation/<slug>             → catégorie Chroniques (sous le lien "Nations")
+        //   - #md/Lore/Religions/*       → catégorie Chroniques (sous le lien "Religions")
+        if (route === 'nation') {
+            return (this.loreCategories || []).find(c => c.key === 'chroniques') || null;
+        }
+        if (route === 'md' && subkey) {
+            const path = decodeURIComponent(subkey);
+            if (path.startsWith('Lore/Religions/')) {
+                return (this.loreCategories || []).find(c => c.key === 'chroniques') || null;
+            }
+        }
+
         const hash = '#' + route + (subkey ? '/' + subkey : '');
         const cats = this.loreCategories || [];
         for (const cat of cats) {

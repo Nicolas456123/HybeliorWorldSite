@@ -243,7 +243,13 @@ const server = http.createServer(async (req, res) => {
     }
 
     // ── Static files ──────────────────────────────────────────
-    let filePath = path.join(__dirname, pathname === '/' ? 'index.html' : pathname);
+    let decodedPath;
+    try { decodedPath = decodeURIComponent(pathname); }
+    catch { decodedPath = pathname; }
+    if (decodedPath.includes('..') || decodedPath.includes('\0')) {
+        res.writeHead(400); return res.end('Bad request');
+    }
+    let filePath = path.join(__dirname, decodedPath === '/' ? 'index.html' : decodedPath);
     try {
         const stat = fs.statSync(filePath);
         if (stat.isDirectory()) filePath = path.join(filePath, 'index.html');
