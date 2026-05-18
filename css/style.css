@@ -3728,14 +3728,18 @@ select:focus-visible,
 
     /* Bouton hamburger flottant — visible quand le sidebar est utile */
     .sidebar-toggle {
-        display: flex;
+        display: inline-flex;
         align-items: center;
         gap: 7px;
         position: fixed;
         top: calc(var(--nav-height) + 8px);
         left: 10px;
+        right: auto;
+        width: auto;
+        max-width: max-content;
         z-index: 25;
         padding: 7px 12px 7px 10px;
+        margin: 0;
         background: rgba(232, 222, 200, 0.95);
         border: 1px solid rgba(120, 78, 18, 0.30);
         border-radius: 20px;
@@ -3759,9 +3763,9 @@ select:focus-visible,
     }
     body.sidebar-open .sidebar-toggle { display: none; }
 
-    /* Bouton fermer dans la sidebar */
+    /* Bouton fermer dans la sidebar — visible uniquement quand le drawer est ouvert */
     .sidebar-close {
-        display: block;
+        display: none;
         position: absolute;
         top: 6px;
         right: 6px;
@@ -3775,6 +3779,7 @@ select:focus-visible,
         color: var(--gold, #7a4c0a);
         cursor: pointer;
     }
+    body.sidebar-open .sidebar-close { display: block; }
 
     /* Subtab-nav reste vertical dans le drawer */
     .site-sidebar .subtab-nav {
