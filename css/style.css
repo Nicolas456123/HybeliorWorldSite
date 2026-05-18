@@ -361,8 +361,11 @@ body {
     min-width: 0;
 }
 
-/* Carte : pleine largeur, sidebar masquée */
-.site-layout:has(.page-carte) .site-sidebar { display: none; }
+/* Carte : pleine largeur, sidebar masquée (et son toggle mobile aussi) */
+.site-layout:has(.page-carte) .site-sidebar,
+.site-layout:has(.page-carte) ~ * .sidebar-toggle,
+.site-layout:has(.page-carte) .sidebar-toggle,
+.site-layout:has(.page-carte) .sidebar-backdrop { display: none; }
 .page-container.page-carte { display: flex; align-items: stretch; }
 .page-container.page-carte .page-content {
     max-width: none;
@@ -3675,31 +3678,115 @@ select:focus-visible,
     }
 }
 
+/* ── Sidebar drawer (mobile) — bouton toggle + backdrop, masqués en desktop ── */
+.sidebar-toggle,
+.sidebar-close,
+.sidebar-backdrop { display: none; }
+
 /* ── Responsive ── */
 @media (max-width: 768px) {
-    /* Sidebar globale — bascule en horizontal en haut */
+    /* Sidebar globale — bascule en drawer latéral coulissant */
     .site-layout { flex-direction: column; }
+
     .site-sidebar {
-        width: 100%;
-        position: static;
-        height: auto;
-        max-height: 220px;
-        border-right: none;
-        border-bottom: 1px solid rgba(120, 78, 18, 0.18);
-        padding: 12px 16px;
-        overflow-y: hidden;
-        overflow-x: auto;
-    }
-    .site-sidebar .subtab-nav {
-        flex-direction: row;
-        flex-wrap: nowrap;
-        overflow-x: auto;
-        gap: 4px;
-        padding-bottom: 0;
+        position: fixed;
+        top: var(--nav-height);
+        left: 0;
+        width: min(86vw, 320px);
+        height: calc(100vh - var(--nav-height));
+        max-height: none;
+        padding: 50px 16px 32px;
+        border-right: 1px solid rgba(120, 78, 18, 0.28);
         border-bottom: none;
-        margin-bottom: 0;
+        overflow-y: auto;
+        overflow-x: hidden;
+        z-index: 30;
+        transform: translateX(-100%);
+        transition: transform 0.22s ease;
+        background: rgba(232, 222, 200, 0.98);
     }
-    .site-sidebar .subtab-btn { white-space: nowrap; }
+    body.sidebar-open .site-sidebar {
+        transform: translateX(0);
+        box-shadow: 6px 0 24px rgba(40, 24, 4, 0.25);
+    }
+
+    /* Backdrop pour fermeture au tap */
+    .sidebar-backdrop {
+        display: block;
+        position: fixed;
+        inset: var(--nav-height) 0 0 0;
+        background: rgba(20, 12, 4, 0.45);
+        z-index: 20;
+        opacity: 0;
+        pointer-events: none;
+        transition: opacity 0.18s ease;
+    }
+    body.sidebar-open .sidebar-backdrop {
+        opacity: 1;
+        pointer-events: auto;
+    }
+
+    /* Bouton hamburger flottant — visible quand le sidebar est utile */
+    .sidebar-toggle {
+        display: flex;
+        align-items: center;
+        gap: 7px;
+        position: fixed;
+        top: calc(var(--nav-height) + 8px);
+        left: 10px;
+        z-index: 25;
+        padding: 7px 12px 7px 10px;
+        background: rgba(232, 222, 200, 0.95);
+        border: 1px solid rgba(120, 78, 18, 0.30);
+        border-radius: 20px;
+        color: var(--gold, #7a4c0a);
+        font-family: 'Cinzel', serif;
+        font-size: 11px;
+        font-weight: 600;
+        letter-spacing: 1.4px;
+        text-transform: uppercase;
+        cursor: pointer;
+        box-shadow: 0 2px 10px rgba(40, 24, 4, 0.18);
+    }
+    .sidebar-toggle-icon {
+        display: inline-block;
+        width: 14px;
+        height: 10px;
+        background:
+            linear-gradient(currentColor, currentColor) 0 0/100% 2px no-repeat,
+            linear-gradient(currentColor, currentColor) 0 50%/100% 2px no-repeat,
+            linear-gradient(currentColor, currentColor) 0 100%/100% 2px no-repeat;
+    }
+    body.sidebar-open .sidebar-toggle { display: none; }
+
+    /* Bouton fermer dans la sidebar */
+    .sidebar-close {
+        display: block;
+        position: absolute;
+        top: 6px;
+        right: 6px;
+        width: 32px;
+        height: 32px;
+        font-size: 22px;
+        line-height: 28px;
+        background: transparent;
+        border: 1px solid rgba(120, 78, 18, 0.25);
+        border-radius: 50%;
+        color: var(--gold, #7a4c0a);
+        cursor: pointer;
+    }
+
+    /* Subtab-nav reste vertical dans le drawer */
+    .site-sidebar .subtab-nav {
+        flex-direction: column;
+        gap: 3px;
+        padding-bottom: 12px;
+        margin-bottom: 12px;
+        border-bottom: 1px solid rgba(120, 78, 18, 0.18);
+    }
+    .site-sidebar .subtab-btn { text-align: left; white-space: normal; }
+
+    /* TOC reste cachée sur mobile pour ne pas alourdir le drawer */
     .site-sidebar .toc-list,
     .site-sidebar .toc-progress,
     .site-sidebar .toc-title { display: none; }
@@ -3716,6 +3803,10 @@ select:focus-visible,
     .toc-list, .toc-progress, .toc-progress-label, .toc-title { display: none; }
     .subtab-content { padding-left: 0; border-left: none; }
     .hist-continent-grid { grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); }
+
+    /* Le quick-nav lore est utile en mobile pour accéder aux nations — on
+       l'affiche normalement dans le drawer. */
+    .sidebar-lore-nav { display: block; }
 }
 
 /* ===== Footer ===== */
@@ -4324,11 +4415,10 @@ select:focus-visible,
 }
 
 @media (max-width: 768px) {
-    /* Sur mobile, le sidebar bascule en bandeau horizontal (cf. règle existante).
-       Le quick-nav prend trop de place dans ce mode — on le cache et on garde
-       le subtab-nav existant. L'utilisateur peut toujours retourner à la page
-       Lore landing via le top-nav. */
-    .sidebar-lore-nav { display: none; }
+    /* Sur mobile, le sidebar devient un drawer coulissant (cf. règles plus haut).
+       Le quick-nav y reste visible — c'est même son intérêt principal en mobile
+       puisque les nations/continents ne sont accessibles que par là. */
+    .sidebar-lore-nav { display: block; }
 }
 
 /* ============================================================

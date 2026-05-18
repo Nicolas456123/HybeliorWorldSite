@@ -201,7 +201,51 @@ const Router = {
     },
 };
 
+// ── Mobile sidebar drawer ────────────────────────────────────────────────
+// Sur mobile, le sidebar est masqué par défaut. Un bouton hamburger l'ouvre,
+// un backdrop semi-transparent le ferme. Toute navigation referme aussi.
+const SidebarDrawer = {
+    init() {
+        const toggle   = document.getElementById('sidebar-toggle');
+        const close    = document.getElementById('sidebar-close');
+        const backdrop = document.getElementById('sidebar-backdrop');
+        if (!toggle) return;
+
+        const open = () => {
+            document.body.classList.add('sidebar-open');
+            toggle.setAttribute('aria-expanded', 'true');
+        };
+        const dismiss = () => {
+            document.body.classList.remove('sidebar-open');
+            toggle.setAttribute('aria-expanded', 'false');
+        };
+
+        toggle.addEventListener('click', open);
+        if (close)    close.addEventListener('click', dismiss);
+        if (backdrop) backdrop.addEventListener('click', dismiss);
+
+        // Fermer quand on clique un lien à l'intérieur du sidebar (sauf header/cards
+        // qui ne mènent pas ailleurs).
+        const sidebar = document.getElementById('site-sidebar');
+        if (sidebar) {
+            sidebar.addEventListener('click', e => {
+                const a = e.target.closest('a[href^="#"]');
+                if (a) dismiss();
+            });
+        }
+
+        // Fermer aussi à chaque hashchange (navigation top-nav, deep links, etc.)
+        window.addEventListener('hashchange', dismiss);
+
+        // Escape ferme le drawer
+        document.addEventListener('keydown', e => {
+            if (e.key === 'Escape' && document.body.classList.contains('sidebar-open')) dismiss();
+        });
+    },
+};
+
 document.addEventListener('DOMContentLoaded', () => {
     if (window.NavDropdowns) NavDropdowns.init();
+    SidebarDrawer.init();
     Router.init();
 });
