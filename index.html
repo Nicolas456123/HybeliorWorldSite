@@ -53,7 +53,13 @@
 </nav>
 
 <div class="site-layout">
+    <button id="sidebar-toggle" class="sidebar-toggle" aria-label="Ouvrir le menu latéral" aria-expanded="false" aria-controls="site-sidebar">
+        <span class="sidebar-toggle-icon" aria-hidden="true"></span>
+        <span class="sidebar-toggle-label">Menu</span>
+    </button>
+    <div id="sidebar-backdrop" class="sidebar-backdrop"></div>
     <aside id="site-sidebar" class="site-sidebar">
+        <button class="sidebar-close" id="sidebar-close" aria-label="Fermer le menu">&times;</button>
         <div id="lore-search-wrapper" class="lore-search-wrapper" style="display:none;">
             <input type="text" id="lore-search-input" class="lore-search-input" placeholder="Rechercher nation, ville…" autocomplete="off">
             <div id="lore-search-results" class="lore-search-results"></div>

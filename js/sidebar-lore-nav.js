@@ -55,6 +55,51 @@
             return { route: parts[0], subkey: parts.slice(1).join('/') || null };
         },
 
+        /** Rendu spécifique aux routes nation/histoires : continents groupant les nations. */
+        _renderNationNav(route, subkey) {
+            if (!Array.isArray(NavConfig.nationContinents)) return '';
+
+            // Continent actif : déduit de la nation courante si on est sur #nation/<slug>,
+            // ou null si on est sur la landing #histoires/histoires.
+            let activeContinentKey = null;
+            let activeNation = null;
+            if (route === 'nation' && subkey) {
+                const meta = NavConfig.findNationBySlug(subkey);
+                if (meta) {
+                    activeContinentKey = meta.continentKey;
+                    activeNation = meta.nation;
+                }
+            }
+
+            let html = '<div class="sidebar-lore-nav-title">Nations et régions</div>';
+            html += '<ul class="sidebar-lore-nav-list">';
+            for (const cont of NavConfig.nationContinents) {
+                const isActive = activeContinentKey === cont.key;
+                const firstSlug = cont.nations[0]
+                    ? NavConfig.slugifyNation(cont.nations[0])
+                    : null;
+                const headHref = firstSlug ? '#nation/' + firstSlug : '#histoires/histoires';
+                html += '<li class="sidebar-lore-nav-item' + (isActive ? ' active' : '') + '">';
+                html += '  <a class="sidebar-lore-nav-head" href="' + headHref + '">';
+                html += '    <span class="sidebar-lore-nav-label">' + this._escape(cont.label) + '</span>';
+                html += '  </a>';
+                if (isActive) {
+                    html += '  <ul class="sidebar-lore-nav-sublinks">';
+                    for (const nation of cont.nations) {
+                        const slug = NavConfig.slugifyNation(nation);
+                        const linkActive = nation === activeNation;
+                        html += '    <li><a href="#nation/' + slug + '"' +
+                                (linkActive ? ' class="active"' : '') + '>' +
+                                this._escape(nation) + '</a></li>';
+                    }
+                    html += '  </ul>';
+                }
+                html += '</li>';
+            }
+            html += '</ul>';
+            return html;
+        },
+
         render() {
             const { route, subkey } = this._currentRouteAndSubkey();
             if (!this._shouldShow(route)) {
@@ -63,6 +108,16 @@
                 return;
             }
             this._container.hidden = false;
+
+            // Routes nation/* et histoires/histoires (la landing Nations) : on
+            // affiche la quick-nav par continent. Sur histoires/chroniques, on
+            // retombe sur la quick-nav lore classique.
+            const isNationRoute = route === 'nation';
+            const isNationLanding = route === 'histoires' && subkey === 'histoires';
+            if (isNationRoute || isNationLanding) {
+                this._container.innerHTML = this._renderNationNav(route, subkey);
+                return;
+            }
 
             const activeCat = NavConfig.findLoreCategory(route, subkey);
             const activeHash = '#' + route + (subkey ? '/' + subkey : '');

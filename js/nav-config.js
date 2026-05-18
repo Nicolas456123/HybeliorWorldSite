@@ -29,7 +29,59 @@ const NavConfig = {
 
     /** Routes internes accessibles via deep-link (pas dans le top nav).
         Quand on navigue vers ces routes, le top-nav highlight 'lore'. */
-    loreSubroutes: ['vision', 'monde', 'mecaniques', 'systemes', 'histoires'],
+    loreSubroutes: ['vision', 'monde', 'mecaniques', 'systemes', 'histoires', 'nation'],
+
+    /** Continents et nations — source unique pour :
+        - la landing lore-histoires (cartes par continent)
+        - la quick-nav latérale sur les routes histoires/nation
+        - la résolution slug → nom de nation pour la page nation.html
+        Ne liste que les nations qui ont au moins un fichier dans Histoires/. */
+    nationContinents: [
+        { key: 'alkaran',  label: 'Alkaran',  intro: '3 nations',    nations: ['Altram', 'Iskara', 'Torkam'] },
+        { key: 'azoria',   label: 'Azoria',   intro: '2 nations',    nations: ['Caeloria', "No Man's Land Azoria"] },
+        { key: 'baelor',   label: 'Baelor',   intro: '1 nation',     nations: ['Baelor'] },
+        { key: 'celethor', label: 'Celethor', intro: '4 nations',    nations: ['Astravia', 'Elarian', 'Ryldor', "No Man's Land Celethor"] },
+        { key: 'cendara',  label: 'Cendara',  intro: '1 nation',     nations: ['Cendara'] },
+        { key: 'cestra',   label: 'Cestra',   intro: '1 territoire', nations: ['Cestra'] },
+        { key: 'endora',   label: 'Endora',   intro: '2 nations',    nations: ['Avalor', 'Haldria'] },
+        { key: 'evertia',  label: 'Evertia',  intro: '2 nations',    nations: ['Evertia', 'Thalmaris'] },
+        { key: 'galenor',  label: 'Galenor',  intro: '7 nations',    nations: ['Kharazir', 'Lumasar', 'Seraphia', 'Solena', 'Trinoria', 'Valoria', 'Ventera'] },
+        { key: 'ilthara',  label: 'Ilthara',  intro: '8 nations',    nations: ['Ackerna', 'Drakora', 'Gryndor', 'Lythar', 'Pyrtara', 'Sylthara', 'Vytharia', 'Warenthor'] },
+        { key: 'nysaria',  label: 'Nysaria',  intro: '1 nation',     nations: ['Nysaria'] },
+        { key: 'onara',    label: 'Onara',    intro: '3 nations',    nations: ['Mosrack', 'Myrtam', 'Tyndara'] },
+        { key: 'ulinor',   label: 'Ulinor',   intro: '2 nations',    nations: ['Skaldoria', 'Ulinor'] },
+    ],
+
+    /** Slug URL-safe à partir d'un nom de nation. Inverse via findNationBySlug. */
+    slugifyNation(name) {
+        return String(name).toLowerCase()
+            .normalize('NFD').replace(/[\u0300-\u036f]/g, '')
+            .replace(/[^a-z0-9]+/g, '-')
+            .replace(/^-+|-+$/g, '');
+    },
+
+    /** Retrouve { nation, continent, continentKey } depuis un slug, ou null. */
+    findNationBySlug(slug) {
+        if (!slug) return null;
+        const conts = this.nationContinents || [];
+        for (const cont of conts) {
+            for (const nation of cont.nations) {
+                if (this.slugifyNation(nation) === slug) {
+                    return { nation, continent: cont.label, continentKey: cont.key };
+                }
+            }
+        }
+        return null;
+    },
+
+    /** Continent qui contient une nation donnée (par nom), ou null. */
+    findContinentForNation(name) {
+        const conts = this.nationContinents || [];
+        for (const cont of conts) {
+            if (cont.nations.includes(name)) return cont;
+        }
+        return null;
+    },
 
     /** Les 8 catégories de la landing Lore. Source unique consommée par :
         - pages/lore.html (les 8 cartes thématiques)

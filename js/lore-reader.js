@@ -173,11 +173,20 @@ function renderMarkdown(container, text) {
 
 // ── Event delegation ──────────────────────────────────────────
 document.addEventListener('click', e => {
-    // Nation links (delegated — lore.html may not be loaded yet)
+    // Nation links (delegated — lore.html may not be loaded yet).
+    // Si la nation a une page dédiée (#nation/<slug>), on navigue ; sinon modal.
     const nationLink = e.target.closest('.nation-link');
     if (nationLink) {
         e.preventDefault();
-        openLoreModal(nationLink.dataset.nation);
+        const name = nationLink.dataset.nation;
+        if (window.NavConfig && typeof NavConfig.slugifyNation === 'function') {
+            const slug = NavConfig.slugifyNation(name);
+            if (NavConfig.findNationBySlug(slug)) {
+                window.location.hash = 'nation/' + slug;
+                return;
+            }
+        }
+        openLoreModal(name);
         return;
     }
 
