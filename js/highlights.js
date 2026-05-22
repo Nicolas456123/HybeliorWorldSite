@@ -682,7 +682,8 @@
         });
     }
     function pullAPI(pwd) {
-        return fetch('/api/highlights?password=' + encodeURIComponent(pwd))
+        // Editor password as header (never query string — URLs leak via logs/referrers).
+        return fetch('/api/highlights', { headers: { 'X-Editor-Password': pwd } })
             .then(function (r) {
                 if (r.status === 403) { clearStoredPassword(); var e = new Error('Mot de passe rejeté'); e.code = 'auth'; throw e; }
                 if (!r.ok) throw new Error('HTTP ' + r.status);

@@ -61,9 +61,12 @@ export default async function handler(req, res) {
     await ensureTable();
 
     if (req.method === 'GET') {
-      const password = (req.query && req.query.password) || req.headers['x-editor-password'];
-      if (password !== process.env.EDITOR_PASSWORD) {
-        return res.status(403).json({ error: 'Mot de passe requis' });
+      // Editor password must travel as a header — never a query string. URLs land in
+      // server access logs, browser history, and Referer headers on outbound clicks,
+      // any of which would leak the secret across the audit boundary.
+      const password = req.headers['x-editor-password'];
+      if (!password || password !== process.env.EDITOR_PASSWORD) {
+        return res.status(403).json({ error: 'Mot de passe requis (header X-Editor-Password)' });
       }
       const rows = await tursoExecute(
         'SELECT id, data, updated_at, deleted FROM chronicle_highlights WHERE deleted = 0'

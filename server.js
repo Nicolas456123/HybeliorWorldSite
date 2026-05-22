@@ -194,11 +194,11 @@ const server = http.createServer(async (req, res) => {
 
     // ── API: GET /api/highlights ──────────────────────────────
     if (pathname === '/api/highlights' && req.method === 'GET') {
-        const url = new URL(req.url, 'http://localhost');
-        const password = url.searchParams.get('password') || req.headers['x-editor-password'];
-        if (password !== EDITOR_PASSWORD) {
+        // Header only — query string passwords leak via access logs and Referer.
+        const password = req.headers['x-editor-password'];
+        if (!password || password !== EDITOR_PASSWORD) {
             res.writeHead(403, { 'Content-Type': 'application/json' });
-            return res.end(JSON.stringify({ error: 'Mot de passe requis' }));
+            return res.end(JSON.stringify({ error: 'Mot de passe requis (header X-Editor-Password)' }));
         }
         const HL_FILE = path.join(__dirname, 'local-highlights.json');
         let store = {};
