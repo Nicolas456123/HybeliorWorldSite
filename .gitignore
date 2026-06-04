@@ -14,4 +14,15 @@ LaunchPythonServer.bat
 # Source de verite locale, upload via rclone vers R2 bucket "hybelior-tiles".
 HybeliorFull/
 
+# Secrets & déploiement — ne jamais committer
+.env
+.env.*
+.vercel/
+
+# Données générées localement par server.js (régénérées au démarrage)
 local-db.json
+local-borders.json
+local-highlights.json
+
+# Config éditeur Obsidian — ne doit pas être servie publiquement
+Docs/Lore/.obsidian/

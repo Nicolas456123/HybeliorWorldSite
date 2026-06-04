@@ -1,5 +1,16 @@
 {
+  "name": "hybelior-world-site",
+  "private": true,
+  "description": "Site interactif de l'univers d'Hybélior (SPA vanilla JS).",
+  "scripts": {
+    "dev": "node server.js",
+    "lint": "eslint .",
+    "format": "prettier --write \"**/*.{js,json,css}\"",
+    "format:check": "prettier --check \"**/*.{js,json,css}\""
+  },
   "devDependencies": {
+    "eslint": "^9.15.0",
+    "prettier": "^3.4.1",
     "sharp": "^0.34.5"
   }
 }

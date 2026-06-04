@@ -1,0 +1,9 @@
+node_modules/
+openseadragon-bin-5.0.0/
+Docs/
+Data/
+HybeliorFull/
+**/*.min.js
+local-db.json
+local-borders.json
+local-highlights.json

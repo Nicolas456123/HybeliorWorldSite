@@ -53,10 +53,12 @@
     }
 
     function renderMarkdown(text) {
-        var clean = text.replace(/\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/g,
+        var src = (window.LoreContent ? LoreContent.stripInternalSections(text) : text);
+        var clean = src.replace(/\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/g,
             function (_, file, display) { return display || file; });
         if (typeof marked !== 'undefined') {
-            return marked.parse(clean, { breaks: true });
+            var html = marked.parse(clean, { breaks: true });
+            return window.LoreContent ? LoreContent.sanitizeHtml(html) : html;
         }
         return '<pre>' + clean.replace(/[<>&]/g, function (c) {
             return ({'<':'&lt;','>':'&gt;','&':'&amp;'})[c];
