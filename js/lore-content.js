@@ -27,7 +27,10 @@
 
     /** Retire les sections internes (de leur titre h2 jusqu'au prochain h2 ou EOF). */
     function stripInternalSections(md) {
-        if (!md || md.indexOf('##') === -1) return md;
+        if (!md) return md;
+        // Retire le frontmatter YAML en tête (--- ... ---) pour qu'il ne s'affiche pas au lecteur.
+        md = md.replace(/^﻿?---\r?\n[\s\S]*?\r?\n---\r?\n?/, '');
+        if (md.indexOf('##') === -1) return md;
         var lines = md.split('\n');
         var out = [];
         var skipping = false;
