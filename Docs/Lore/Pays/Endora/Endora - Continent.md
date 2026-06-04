@@ -163,15 +163,3 @@ Trois pièges (Loi figée, Espérance Vide, Effacement de la Limite) se partagen
 Aucune de ces phrases n'est jamais commentée par celui qui la prononce. Toutes sont, en filigrane, des Vertus Cachées en germe (Voile, Tranchant) ou des Pièges en train de s'avouer (Loi figée, Espérance Vide, Effacement).
 
 **Cohérence avec l'arc Sorin :** Sorin traverse Avalor (Ch. 16 : *Les Yeux*, observatoire de Feraldir) et Haldria (Ch. 22 : *Les Étoiles*, "les sages doutent professionnellement"), et passe par Caeloria (Ch. 28 : *Les Enfants*) — Endora est, dans son arc, une station du Voile (*« les sages doutent professionnellement »*) qu'il admire sans appliquer à ses propres conclusions. La Loi endorienne lui apparaît comme une vertu — *parce qu'elle est une vertu*, partiellement, et qu'elle est tenue avec rigueur. Sa propre dérive vers la Loi privée (Ch. 17, Bibliothèques) est déjà entamée à ce moment. Il ne voit pas, en quittant Endora, qu'il a entendu la note juste sans la prendre.
-
----
-
-## Description canonique (source : Access)
-
-> Texte importé verbatim depuis `AccessExport/Continent.csv` (N°11 — Endora).
-
-Endora, surnommé **Le Continent des Contrastes**, est une terre où les extrêmes se côtoient, offrant une diversité à la fois fascinante et dangereuse. À l'ouest, les vastes déserts de sable et de roche forment une mer aride, où les tempêtes de sable sont si puissantes qu'elles sculptent des dunes mouvantes qui cachent les **Cités des Sables**, des oasis fortifiées bâties par une ancienne civilisation qui vénérait le soleil. Ces cités sont réputées pour leurs labyrinthes souterrains, où des trésors inestimables sont gardés par des esprits de pierre.
-
-Au centre du continent, les plaines verdoyantes de **Valmera** s'étendent à perte de vue, où les **Chevaucheurs des Vents**, une tribu nomade, élèvent des montures ailées pour parcourir ces étendues infinies. Ces plaines, bien qu'apaisantes à première vue, sont aussi le terrain de jeu des **Kholorns**, des géants de pierre qui émergent des montagnes environnantes pour protéger les secrets enfouis sous la terre.
-
-À l'est, la jungle tropicale d'**Esperia** déploie son manteau de verdure, abritant une faune et une flore aussi belles que dangereuses. Cette région est traversée par des rivières sinueuses, où les anciennes cités perdues d'Endora, maintenant envahies par la végétation, racontent l'histoire d'une civilisation qui maîtrisait l'art des glyphes magiques gravés sur les arbres. Ces glyphes, selon les rumeurs, seraient la clé pour comprendre la langue des arbres et découvrir les secrets de la vie éternelle.
