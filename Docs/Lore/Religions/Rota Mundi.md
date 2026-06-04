@@ -84,7 +84,7 @@ L'**Accord** (cf. [[L'Accord]]) est interprété comme la mesure de la fluidité
 **Présence secondaire :** Ryldor, Tyndara (en mélange avec Via Ventus), partout dans les grandes villes via les calendriers liturgiques.
 
 **Sites sacrés :**
-- **Tours-Cadran d'Othen-Cael** (Iskara, Endora) — encore debout depuis la Fracture, sonnent à des heures imprévisibles
+- **Tours-Cadran d'Othen-Cael** (Iskara, Alkaran) — encore debout depuis la Fracture, sonnent à des heures imprévisibles
 - **Cercle des Saisons d'Evertia** — anneau de mégalithes vibrants
 - **Calendrier Cyclique de Sylthara** — temple-horloge encore fonctionnel
 - **Anneau de Pierre de Pyrtara** (Ilthara) — site rituel partagé avec Lex Petra

@@ -49,8 +49,8 @@ Plusieurs cités d'envergure subissent des transformations massives. Les listes 
 Les estimations consignées varient. Les bibliothécaires d'Astravia rapportent la trajectoire suivante :
 
 - **Choc immédiat (An 0 → ~An 10)** : ~120 millions → ~90 millions. Chute rapide attribuée selon les sources au choc cosmique direct, aux famines, aux guerres immédiates, aux premières Failles, ou à un faisceau de causes.
-- **Stabilisation post-choc (~An 50)** : la population se stabilise vers ~60-70 millions au cours de l'Ère V précoce, après les vagues de réfugiés, les épidémies de transit et les guerres successorales. Cette phase est documentée dans [[Era 5 - Reconstruction]] et ne relève pas du présent document.
-- **Rechute du Fléau (~1 400-1 600 ap.A)** : descente jusqu'à ~18 millions au pic du Fléau des Failles, lue par le Rota Mundi comme la 3e phase du phénomène (cf. note ci-dessus). Voir [[Era 5 - Reconstruction]] et [[Era 6 - Crépuscule]] pour le détail.
+- **Stabilisation post-choc (~An 50)** : la population se stabilise vers ~60-70 millions au cours de l'Ère V précoce, après les vagues de réfugiés, les épidémies de transit et les guerres successorales. Cette phase est documentée dans [[Era 5 - La Grande Nuit]] et ne relève pas du présent document.
+- **Rechute du Fléau (~1 400-1 600 ap.A)** : descente jusqu'à ~18 millions au pic du Fléau des Failles, lue par le Rota Mundi comme la 3e phase du phénomène (cf. note ci-dessus). Voir [[Era 5 - La Grande Nuit]] et [[Era 6 - L'Ère des Nations]] pour le détail.
 
 Les estimations de "rupture du Lien" pour la majorité de la population (~99,7 %, ~0,3 % gardant une connexion partielle — appelés **Tisses**) figurent dans les corpus verithanis et sont reprises par les Sécharchies modernes ; d'autres traditions les contestent.
 

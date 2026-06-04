@@ -26,7 +26,7 @@ needs_review_for: []
 
 ### Les Premiers Bastions
 
-Iskara n'a pas été fondée — elle a été fortifiée. Aux temps anciens, les vallées profondes d'Endora étaient des couloirs d'invasion empruntés par des hordes venues de l'est. Les premiers habitants de ces vallées étaient des bergers et des mineurs qui, lassés de fuir, décidèrent de se battre. Ils taillèrent la roche, dressèrent des murs et transformèrent chaque défilé en piège mortel.
+Iskara n'a pas été fondée — elle a été fortifiée. Aux temps anciens, les vallées profondes d'Alkaran étaient des couloirs d'invasion empruntés par des hordes venues de l'est. Les premiers habitants de ces vallées étaient des bergers et des mineurs qui, lassés de fuir, décidèrent de se battre. Ils taillèrent la roche, dressèrent des murs et transformèrent chaque défilé en piège mortel.
 
 Le premier roi d'Iskara, **Aldric le Bâtisseur**, n'était pas un guerrier mais un maçon. Il comprit que la géographie était la meilleure arme : en verrouillant les vallées, il pouvait rendre son peuple invincible. En une génération, les vallées d'Iskara devinrent un réseau de forteresses reliées par des tunnels, des ponts fortifiés et des routes de montagne invisibles depuis les plaines.
 

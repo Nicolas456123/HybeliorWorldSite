@@ -207,4 +207,4 @@ Sethiran mourra à Noravia, à une date que les archives ne précisent pas. Sans
 
 ---
 
-*Liens : [[Cestra|Histoires/Cestra]] · [[../../Pays/Cestra/Noravia]] · [[../../Pays/Cestra/No Man's Land Cestra]] · [[../../Pays/Cestra/Cestra - Continent]] · [[../../Chroniques/_arc-sorin|Arc Sorin]] (ch. 37)*
+*Liens : [[Cestra|Histoires/Cestra]] · [[../../Pays/Cestra/Noravia]] · [[../../Pays/Cestra/No Man's Land Cestra]] · [[../../Pays/Cestra/Cestra - Continent]]*

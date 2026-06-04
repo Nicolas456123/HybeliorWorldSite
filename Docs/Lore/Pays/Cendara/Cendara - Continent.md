@@ -100,7 +100,7 @@ Aucune de ces lectures n'est officielle pour l'archipel entier. Aucune n'admet, 
 
 - **Le marteau comme horloge** — à Cendara comme à Pyrevane, on se réveille au bruit du marteau. Pas une cloche, pas une prière chantée : un marteau frappant en cadence à l'ouverture d'une forge. Cette sonorité quotidienne est l'horloge religieuse. Une ville qui ne frappe pas a un mort à honorer, un péché à expier, ou — plus inquiétant — une foi qui flanche.
 
-- **La posture face au Mont** — Cendara honore. Pyrevane officie. Arkhen écoute. Aucune des trois ne *regarde simplement*. Cette lacune — l'absence d'un rapport profane au Mont, c'est-à-dire d'un rapport qui ne soit ni rituel ni pieux — est le trou dans le tissu cendarien. C'est par ce trou que des étrangers comme Sorin Valthen, en l'an 252 (cf. *arc-sorin*, ch. 27), peuvent *sentir* la pulsation alors qu'ils sont théologiquement désarmés : ils n'ont rien à projeter sur le Mont, donc ils reçoivent.
+- **La posture face au Mont** — Cendara honore. Pyrevane officie. Arkhen écoute. Aucune des trois ne *regarde simplement*. Cette lacune — l'absence d'un rapport profane au Mont, c'est-à-dire d'un rapport qui ne soit ni rituel ni pieux — est le trou dans le tissu cendarien. C'est par ce trou que des étrangers comme Sorin Valthen, en l'an 252 (cf. ch. 27), peuvent *sentir* la pulsation alors qu'ils sont théologiquement désarmés : ils n'ont rien à projeter sur le Mont, donc ils reçoivent.
 
 ---
 

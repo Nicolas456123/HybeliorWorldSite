@@ -85,7 +85,7 @@ L'**Accord** (cf. [[L'Accord]]) est interprété comme l'alignement personnel du
 **Sites sacrés :**
 - **Tours d'Astravia** (Celethor) — alignées sur des constellations désormais disparues
 - **Crypte des Astres Tournés** (Celethor) — sépulcres orientés selon des étoiles précises à des dates précises
-- **Archives de l'Ordo Caelum** (Iskara, Endora) — biais doctrinal mais richesse documentaire inégalée
+- **Archives de l'Ordo Caelum** (Iskara, Alkaran) — biais doctrinal mais richesse documentaire inégalée
 - **Observatoire de Caeloria** (Endora) — siège théologique central en Sillage
 
 ---
