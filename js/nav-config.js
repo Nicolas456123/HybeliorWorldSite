@@ -35,21 +35,23 @@ const NavConfig = {
         - la landing lore-histoires (cartes par continent)
         - la quick-nav latérale sur les routes histoires/nation
         - la résolution slug → nom de nation pour la page nation.html
-        Ne liste que les nations qui ont au moins un fichier dans Histoires/. */
+        Liste TOUTES les nations qui ont une fiche (Pays/ et/ou Histoires/).
+        Les nations sans fichier Histoires/ ouvrent quand même leur fiche Pays
+        (l'onglet « Histoires » est masqué automatiquement par lore-reader.js). */
     nationContinents: [
-        { key: 'alkaran',  label: 'Alkaran',  intro: '3 nations',    nations: ['Altram', 'Iskara', 'Torkam'] },
-        { key: 'azoria',   label: 'Azoria',   intro: '2 nations',    nations: ['Caeloria', "No Man's Land Azoria"] },
+        { key: 'alkaran',  label: 'Alkaran',  intro: '4 nations',    nations: ['Altram', 'Iskara', 'Torkam', 'Ferrath'] },
+        { key: 'azoria',   label: 'Azoria',   intro: '4 nations',    nations: ['Caeloria', 'Azoral', 'Kethvar', 'Solmaris', "No Man's Land Azoria"] },
         { key: 'baelor',   label: 'Baelor',   intro: '1 nation',     nations: ['Baelor'] },
         { key: 'celethor', label: 'Celethor', intro: '4 nations',    nations: ['Astravia', 'Elarian', 'Ryldor', "No Man's Land Celethor"] },
-        { key: 'cendara',  label: 'Cendara',  intro: '1 nation',     nations: ['Cendara'] },
-        { key: 'cestra',   label: 'Cestra',   intro: '1 territoire', nations: ['Cestra'] },
-        { key: 'endora',   label: 'Endora',   intro: '2 nations',    nations: ['Avalor', 'Haldria'] },
-        { key: 'evertia',  label: 'Evertia',  intro: '2 nations',    nations: ['Evertia', 'Thalmaris'] },
+        { key: 'cendara',  label: 'Cendara',  intro: '3 nations',    nations: ['Cendara', 'Arkhen', 'Pyrevane'] },
+        { key: 'cestra',   label: 'Cestra',   intro: '2 nations',    nations: ['Cestra', 'Noravia', "No Man's Land Cestra"] },
+        { key: 'endora',   label: 'Endora',   intro: '3 nations',    nations: ['Avalor', 'Haldria', 'Sanvara'] },
+        { key: 'evertia',  label: 'Evertia',  intro: '3 nations',    nations: ['Evertia', 'Thalmaris', 'Sylvara'] },
         { key: 'galenor',  label: 'Galenor',  intro: '7 nations',    nations: ['Kharazir', 'Lumasar', 'Seraphia', 'Solena', 'Trinoria', 'Valoria', 'Ventera'] },
         { key: 'ilthara',  label: 'Ilthara',  intro: '8 nations',    nations: ['Ackerna', 'Drakora', 'Gryndor', 'Lythar', 'Pyrtara', 'Sylthara', 'Vytharia', 'Warenthor'] },
-        { key: 'nysaria',  label: 'Nysaria',  intro: '1 nation',     nations: ['Nysaria'] },
-        { key: 'onara',    label: 'Onara',    intro: '3 nations',    nations: ['Mosrack', 'Myrtam', 'Tyndara'] },
-        { key: 'ulinor',   label: 'Ulinor',   intro: '2 nations',    nations: ['Skaldoria', 'Ulinor'] },
+        { key: 'nysaria',  label: 'Nysaria',  intro: '3 nations',    nations: ['Nysaria', 'Lunasar', 'Mirathi'] },
+        { key: 'onara',    label: 'Onara',    intro: '4 nations',    nations: ['Mosrack', 'Myrtam', 'Tyndara', 'Elarath'] },
+        { key: 'ulinor',   label: 'Ulinor',   intro: '3 nations',    nations: ['Skaldoria', 'Ulinor', 'Dhalvoria'] },
     ],
 
     /** Slug URL-safe à partir d'un nom de nation. Inverse via findNationBySlug. */
