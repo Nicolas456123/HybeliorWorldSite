@@ -21,12 +21,12 @@ presence_principale: [Solena, Tyndara, Lythar, Haldria]
 
 **Tradition source :** Présence Visible — l'une des quatre traditions ancestrales issues du Savoir Premier.
 
-**Position dans l'arbre :** **schisme du vent**, séparation de la souche [[Vael Kurash]]. Les anciens Vael'Kurash considéraient Navigor comme un esprit de migration parmi les autres présences naturelles ; une faction grandissante, marquée par l'expérience des grands voyages maritimes et des traversées de cols, a conclu que Navigor relevait d'un autre rang — une figure d'un guide cosmique méritant un culte propre. Via Ventus est née de cette élévation.
+**Position dans l'arbre :** **schisme du vent**, séparation de la souche [[Vael'Kurash]]. Les anciens Vael'Kurash considéraient Navigor comme un esprit de migration parmi les autres présences naturelles ; une faction grandissante, marquée par l'expérience des grands voyages maritimes et des traversées de cols, a conclu que Navigor relevait d'un autre rang — une figure d'un guide cosmique méritant un culte propre. Via Ventus est née de cette élévation.
 
 **Date estimée :** ~-800 du Sillage pour la cristallisation du schisme. Les racines du mouvement remontent plus haut, aux peuples nomades d'Azoria (~8 000 av.A) et au Khalifat de Solvenar (~10 000 av.A) qui formalise les pratiques nomades.
 
 **Religions sœurs / cousines (même tradition) :**
-- [[Vael Kurash]] — souche dont Via Ventus s'est séparée par schisme
+- [[Vael'Kurash]] — souche dont Via Ventus s'est séparée par schisme
 - [[Lex Petra]] — autre branche de la souche, par réforme cette fois (~-500 S)
 
 **Schismes auxquels la religion est liée :**

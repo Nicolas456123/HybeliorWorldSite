@@ -79,7 +79,7 @@ Sept Maîtres, un par Forge-Temple. Mandats viagers ; succession par cooptation 
 - Doctrine : interprétation des Forge-Liturgies, validation des nouvelles formules rituelles, réponses aux Vigilants des cratères.
 - Ordination : tout Ignitari de la Cendara entière reçoit son Sceau du Conseil — ce qui donne à Pyrevane un levier diplomatique considérable sur les Forge-Temples cendariens-royaume et arkheniennes.
 - Discipline : excommunications (rares), interdictions de forge (plus fréquentes), démissions imposées (presque jamais — voir Tessar).
-- Diplomatie religieuse : relations avec les autres traditions d'Hybélior (Ordo Caelum, Vael Kurash, Foedus Animae), généralement courtoises, parfois tendues (Caeloria de l'Ordo, Catena Fracta minoritaire).
+- Diplomatie religieuse : relations avec les autres traditions d'Hybélior (Ordo Caelum, Vael'Kurash, Foedus Animae), généralement courtoises, parfois tendues (Caeloria de l'Ordo, Catena Fracta minoritaire).
 
 Le Conseil ne légifère pas dans le domaine civil. Pyrevane *n'a pas de gouvernement civil distinct* — c'est sa singularité parmi les théocraties d'Hybélior. Les questions civiles sont gérées au niveau des **Forges-Quartiers** (échelon paroissial), des **Maîtrises** (corporations de métiers liées à chaque Forge-Temple), et des **Conseils de Caldera** (assemblées locales). Cette architecture polycentrique fonctionne parce que la population pyrevanienne est petite (environ trente mille habitants) et homogène culturellement. Elle ne fonctionnerait pas à Cendara-Royaume. Elle est une des raisons pour lesquelles Pyrevane n'a pas absorbé Cendara — elle ne saurait pas gouverner un peuple qui ne soit pas déjà entièrement Ignitari.
 

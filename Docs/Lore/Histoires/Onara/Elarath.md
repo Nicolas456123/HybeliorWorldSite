@@ -145,11 +145,11 @@ Le pairage tient à Ostrabis depuis quatre-vingts ans. Aucun saunier de Tyndara 
 
 ## Pélandre — « Les Pêcheurs et le Druide »
 
-Trois fois par an, un druide Vael Kurash venait de Trinoria pour célébrer les rites du large à Pélandre. C'était un arrangement vieux de cent ans, jamais formalisé, jamais discuté — un druide arrivait, on l'hébergeait, il faisait ce qu'il avait à faire au promontoire, il repartait. Le druide changeait avec les générations. Le rite ne changeait pas.
+Trois fois par an, un druide Vael'Kurash venait de Trinoria pour célébrer les rites du large à Pélandre. C'était un arrangement vieux de cent ans, jamais formalisé, jamais discuté — un druide arrivait, on l'hébergeait, il faisait ce qu'il avait à faire au promontoire, il repartait. Le druide changeait avec les générations. Le rite ne changeait pas.
 
 Le druide Yrath-d'Aval — descendant lointain d'un autre Yrath plus connu — vint pour la première fois en l'an 248, à trente ans. Il était jeune, doctrinaire, formé dans l'orthodoxie stricte des forêts de Trinoria. Il pensait, en venant à Pélandre, qu'il allait redresser un rite qui s'était sûrement *vulgarisé* avec le temps.
 
-Il fut accueilli par Brena, une vieille pêcheuse hauturière dont les mains étaient rongées par le sel et l'âge. Elle lui montra le promontoire, l'autel — une simple plaque de pierre noire, sans gravure, posée à l'endroit où la falaise tombe à pic. Yrath remarqua immédiatement que l'autel était mal orienté selon les principes Vael Kurash de Trinoria : il aurait dû faire face au nord ; ici il faisait face au sud-ouest, vers le large.
+Il fut accueilli par Brena, une vieille pêcheuse hauturière dont les mains étaient rongées par le sel et l'âge. Elle lui montra le promontoire, l'autel — une simple plaque de pierre noire, sans gravure, posée à l'endroit où la falaise tombe à pic. Yrath remarqua immédiatement que l'autel était mal orienté selon les principes Vael'Kurash de Trinoria : il aurait dû faire face au nord ; ici il faisait face au sud-ouest, vers le large.
 
 Il dit cela à Brena. Brena le regarda longtemps.
 
@@ -163,7 +163,7 @@ Yrath regarda l'autel. Il regarda le large. Il pensa au texte qu'il avait étudi
 
 Il célébra le rite face au sud-ouest.
 
-Il rentra à Trinoria. Il n'écrivit pas dans son rapport ce qu'il avait fait — il écrivit que *« le rite tient, à la manière locale »*. Personne ne posa de question. La mention *« à la manière locale »* dans les rapports de circulation Vael Kurash était un signe que les druides plus anciens reconnaissaient sans avoir à expliquer aux plus jeunes.
+Il rentra à Trinoria. Il n'écrivit pas dans son rapport ce qu'il avait fait — il écrivit que *« le rite tient, à la manière locale »*. Personne ne posa de question. La mention *« à la manière locale »* dans les rapports de circulation Vael'Kurash était un signe que les druides plus anciens reconnaissaient sans avoir à expliquer aux plus jeunes.
 
 Yrath revint à Pélandre quatre fois en quinze ans. Il ne discuta plus jamais l'orientation. Il vieillit. Brena mourut. Sa fille Lirenn prit la place de matrone des rites. Yrath, qui avait à présent les cheveux gris, lui apporta — la dernière fois qu'il vint — une petite branche de chêne séchée, tirée des forêts de Velathor.
 

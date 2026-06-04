@@ -96,7 +96,7 @@ const NavConfig = {
         { key: 'ordo',     label: 'Ordo Caelum',         md: 'Lore/Religions/Ordo Caelum.md' },
         { key: 'rota',     label: 'Rota Mundi',          md: 'Lore/Religions/Rota Mundi.md' },
         { key: 'somnium',  label: 'Somnium Vigil',       md: 'Lore/Religions/Somnium Vigil.md' },
-        { key: 'vael',     label: 'Vael Kurash',         md: 'Lore/Religions/Vael Kurash.md' },
+        { key: 'vael',     label: "Vael'Kurash",         md: "Lore/Religions/Vael'Kurash.md" },
         { key: 'via',      label: 'Via Ventus',          md: 'Lore/Religions/Via Ventus.md' },
         { key: 'aqua',     label: 'Aqua Nigra',          md: 'Lore/Religions/_Mineures/Aqua Nigra.md',     mineure: true },
         { key: 'cantus',   label: 'Cantus Mundi',        md: 'Lore/Religions/_Mineures/Cantus Mundi.md',   mineure: true },

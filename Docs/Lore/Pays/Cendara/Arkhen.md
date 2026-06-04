@@ -14,7 +14,7 @@ needs_review_for: []
 | **Continent** | Cendara |
 | **Gouvernement** | Confédération maritime — Assemblée des Quais (organe consultatif sans pouvoir exécutif) |
 | **Religion principale** | Ignis Aeternum (lecture arkhenienne — *cendre*) ; Délies de la Flamme tolérés à demi-mot |
-| **Religion secondaire** | Vael Kurash (sur Ilnara, syncrétisme avec l'Ignis local) ; Foedus Animae (présence ancienne, post-Arrachement, dans deux ports d'Aïkhar) |
+| **Religion secondaire** | Vael'Kurash (sur Ilnara, syncrétisme avec l'Ignis local) ; Foedus Animae (présence ancienne, post-Arrachement, dans deux ports d'Aïkhar) |
 | **Culture dominante** | Forge silencieuse, pêche au long cours, cendre comme matière, économie de l'humilité |
 | **Histoire marquante** | La Filiation de Cendre (lente arrivée d'exilés ignitariens, sur huit siècles, formant la population actuelle) |
 | **Ressources clés** | Cendre triée et bonifiée (la **stephe**), poissons fumés naturellement, plumes et résines d'Ilnara, navires de petit tonnage, bois ignifuge transporté |
@@ -120,11 +120,11 @@ Les pratiques Délies à Arkhen :
 - **Cendre déposée** — geste muet sur le seuil d'une Forge-Temple, sur la pierre où Tessar a parlé (à Pyrevane), sur les pas d'un Maître orthodoxe (rare et risqué).
 - **Pas de prosélytisme**. Les Délies ne convertissent pas. On *vient* à eux. C'est une caractéristique structurelle.
 
-### Vael Kurash sur Ilnara, et au-delà
+### Vael'Kurash sur Ilnara, et au-delà
 
-Ilnara, juridiquement arkhenienne, abrite le **Temple des Flammes Éternelles** (cf. fiche *Cendara*) qui pratique un syncrétisme Ignis-Vael Kurash ancien et stable. La mainmise administrative arkhenienne sur Ilnara est nominale ; en pratique, les prêtres de Lorenthia gèrent l'île. L'Assemblée des Quais l'accepte sans difficulté — Ilnara ne demande rien, Arkhen ne donne rien.
+Ilnara, juridiquement arkhenienne, abrite le **Temple des Flammes Éternelles** (cf. fiche *Cendara*) qui pratique un syncrétisme Ignis-Vael'Kurash ancien et stable. La mainmise administrative arkhenienne sur Ilnara est nominale ; en pratique, les prêtres de Lorenthia gèrent l'île. L'Assemblée des Quais l'accepte sans difficulté — Ilnara ne demande rien, Arkhen ne donne rien.
 
-Sur Aïkhar même, quelques communautés d'altitude pratiquent un Vael Kurash mineur, sans temple — vénération des sources, des fumerolles, des animaux endémiques (chèvres-de-cendre, oiseaux à plumes grises). Cette pratique, jamais formalisée, est tolérée par les Forge-Temples locales, qui la considèrent comme une survivance pré-Dominat plutôt que comme une religion concurrente. Cette tolérance est arkhenienne — elle serait impensable à Pyrevane.
+Sur Aïkhar même, quelques communautés d'altitude pratiquent un Vael'Kurash mineur, sans temple — vénération des sources, des fumerolles, des animaux endémiques (chèvres-de-cendre, oiseaux à plumes grises). Cette pratique, jamais formalisée, est tolérée par les Forge-Temples locales, qui la considèrent comme une survivance pré-Dominat plutôt que comme une religion concurrente. Cette tolérance est arkhenienne — elle serait impensable à Pyrevane.
 
 ### Foedus Animae, les deux ports
 
@@ -201,10 +201,10 @@ Falaises battues, ports difficiles, brouillard sulfureux récurrent. C'est par c
 
 ### Aïmar — Ville portuaire (Aïkhar est)
 *Port de pêche au long cours, accroché à une côte de falaises rouges. Aïmar arme les plus grands bateaux d'Arkhen — barques de cendre étendues, capables de quinze jours de mer. Les pêcheurs aïmariens vont jusqu'aux confins d'Onara pour les bancs de poisson-lampe (créature des grandes profondeurs, chair phosphorescente, prisée des alchimistes pyrevaniens).*
-**Histoire :** Aïmar est plus ancien que Khoram (peut-être ~14 000 av.A) mais moins peuplé. La ville n'a jamais cherché la centralité ; elle s'est concentrée sur le métier. La filiation est mixte — pré-Dominat pour une moitié, exilés ignitariens pour l'autre. Le syncrétisme local est notable : on y trouve des forgerons-Sceau, des Délies, et quelques familles qui pratiquent une religiosité Vael Kurash mineure (sans temple, sans liturgie articulée).
+**Histoire :** Aïmar est plus ancien que Khoram (peut-être ~14 000 av.A) mais moins peuplé. La ville n'a jamais cherché la centralité ; elle s'est concentrée sur le métier. La filiation est mixte — pré-Dominat pour une moitié, exilés ignitariens pour l'autre. Le syncrétisme local est notable : on y trouve des forgerons-Sceau, des Délies, et quelques familles qui pratiquent une religiosité Vael'Kurash mineure (sans temple, sans liturgie articulée).
 - Population : Ville (environ 2 800)
 - Région : Aïkhar est
-- Particularités : Flotte de pêche au long cours, atelier syncrétique de Vael Kurash mineur.
+- Particularités : Flotte de pêche au long cours, atelier syncrétique de Vael'Kurash mineur.
 
 ### Vorsalt — Ville portuaire (Aïkhar nord-est)
 *Port modeste, deux quais, une auberge. Vorsalt est connue pour ses **autels familiaux** Foedus Animae — trois familles tisseuses survivantes y pratiquent les rites des Tisseurs de Chaînes, dans la stricte intimité, sans tenter de prosélytisme. Cette présence est l'unique trait qui distingue Vorsalt des autres petits ports.*
@@ -236,10 +236,10 @@ Falaises battues, ports difficiles, brouillard sulfureux récurrent. C'est par c
 
 ### Stephar — Hameau d'altitude (Aïkhar central)
 *Hameau de bergers de cendre sur un haut plateau au centre d'Aïkhar. Stephar exploite la **stephe** — croûte de cendre durcie — comme amendement, et élève des chèvres-de-cendre pour leur lait. La vie y est totalement déconnectée des ports : on monte à pied trois jours, on redescend une fois par an pour vendre la stephe et acheter du sel.*
-**Histoire :** Le hameau est très ancien (pré-Dominat probablement), avec une religiosité Vael Kurash mineure (sources, fumerolles, oiseaux à plumes grises) qui n'a jamais été perturbée par les Forge-Liturgies. Les Anciens d'Altitude y sont presque tous des descendants des fondateurs ; les six familles principales se reconnaissent encore par filiation directe sur quinze ou vingt générations.
+**Histoire :** Le hameau est très ancien (pré-Dominat probablement), avec une religiosité Vael'Kurash mineure (sources, fumerolles, oiseaux à plumes grises) qui n'a jamais été perturbée par les Forge-Liturgies. Les Anciens d'Altitude y sont presque tous des descendants des fondateurs ; les six familles principales se reconnaissent encore par filiation directe sur quinze ou vingt générations.
 - Population : Hameau (environ 90)
 - Région : Plateaux d'Altitude
-- Particularités : Production de stephe, élevage de chèvres-de-cendre, Vael Kurash mineur.
+- Particularités : Production de stephe, élevage de chèvres-de-cendre, Vael'Kurash mineur.
 
 ### Caldegris — Hameau de la Caldera Grise (Aïkhar sud)
 *Hameau au pied de la Caldera Grise, volcan dormant depuis l'Arrachement. Une dizaine de familles y vivent, exploitant les sources chaudes pour le lavage de la laine et la cuisson du pain noir. L'atmosphère est étrange — la caldera fume sans entrer en éruption, depuis deux mille ans.*

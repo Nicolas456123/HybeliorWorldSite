@@ -95,7 +95,7 @@ L'**Accord** (cf. [[L'Accord]]) est interprété comme la mesure de la fluidité
 
 - **Ordo Caelum** : conflit philosophique (« Débat du Destin » — étoiles ou cycles ?)
 - **Foedus Animae** : conflit fondamental (« La Question des Morts » — réincarnation ou négociation des âmes ?)
-- **Vael Kurash** : alliance secondaire — les cycles naturels sont reconnus par les deux
+- **Vael'Kurash** : alliance secondaire — les cycles naturels sont reconnus par les deux
 - **Catena Fracta** : ennemi doctrinal — les Briseurs nient la roue elle-même
 - **Lex Petra** : tension faible — la pierre veut l'immuable, la roue veut le mouvement
 

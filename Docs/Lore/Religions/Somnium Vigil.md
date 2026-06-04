@@ -98,7 +98,7 @@ L'**Accord** (cf. [[L'Accord]]) est interprété comme la mesure d'**éveil** du
 - **Via Ventus** : alliance naturelle (liberté, exploration, fluidité)
 - **Noctari** : alliance fonctionnelle — les rêves et les ombres partagent un domaine ; cohabitent à Vytharia
 - **Ordo Caelum** : relation complexe — coexistent à Astravia, mais leurs lectures du ciel divergent
-- **Vael Kurash** : tension faible — les esprits naturels et les rêves se ressemblent mais divergent
+- **Vael'Kurash** : tension faible — les esprits naturels et les rêves se ressemblent mais divergent
 - **Cantus Mundi** *(régionale)* : alliance — les chants et les rêves sont des modes d'accès à la vérité
 - **Catena Fracta** : tentative de dialogue, pas de persécution
 

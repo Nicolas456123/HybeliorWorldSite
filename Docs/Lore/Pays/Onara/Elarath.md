@@ -14,7 +14,7 @@ needs_review_for: []
 | **Continent** | Onara |
 | **Numéro** | non recensé dans le CSV Access (cité-État libre, hors structure des Pays canoniques) |
 | **Gouvernement** | Cité-État libre, conseil tournant des Neuf Guildes |
-| **Religion principale** | aucune — pluralité tolérée (Via Ventus côtière dominante, Foedus Animae portuaire, Lex Petra des changeurs, Vael Kurash hauturier, fragments d'Ignis Aeternum) |
+| **Religion principale** | aucune — pluralité tolérée (Via Ventus côtière dominante, Foedus Animae portuaire, Lex Petra des changeurs, Vael'Kurash hauturier, fragments d'Ignis Aeternum) |
 | **Religion secondaire** | non applicable |
 | **Culture dominante** | Maritime, marchande, multilingue, attachée à l'autonomie locale et à la modestie territoriale |
 | **Histoire marquante** | La Fragmentation de la Fédération de Morveth (an 47) et le choix institutionnel de la « petitesse » |
@@ -107,7 +107,7 @@ Elarath n'a pas de religion officielle. La Charte des Voisinages garantit la lib
 - **Via Ventus** (vague côtière, dominante chez les marins) : sans clergé local fort. Les marins prient le vent comme leurs collègues tyndariens, mais sans la structure des Temples du Souffle. Le rite du *Retour du Vent* (fenêtres ouvertes trois jours pour le marin disparu en mer) est universel à Elarath.
 - **Foedus Animae** (présence portuaire) : la communauté Animari d'Elarath est l'une des rares à fonctionner *sans* tension avec les autorités locales — elle est hébergée dans le Quartier des Trois Lampes, sans temple visible mais avec un autel collectif que tout le monde sait localiser. Apporte un Voile populaire constant.
 - **Lex Petra** (chez les changeurs) : les changeurs d'Elarath jurent leurs contrats sur une pierre noire conservée dans la Maison de Change — pratique adaptée du Serment-Témoin altrami, débarrassée de sa solennité doctrinale et réduite à un rite professionnel.
-- **Vael Kurash** (chez les pêcheurs hauturiers) : la communauté de pêcheurs au thon des îles du Cordon entretient des liens avec les ordres trinoriens. Trois fois par an, un druide Vael Kurash visite Pélandre pour les rites du large.
+- **Vael'Kurash** (chez les pêcheurs hauturiers) : la communauté de pêcheurs au thon des îles du Cordon entretient des liens avec les ordres trinoriens. Trois fois par an, un druide Vael'Kurash visite Pélandre pour les rites du large.
 - **Fragments d'Ignis Aeternum** (chez les forgerons d'origine myrtamite) : une douzaine de familles installées au Quartier de la Pierre Brûlée maintiennent la veillée de la flamme. Pas de prêtre. Pas de temple. Une tradition transmise.
 
 Cette pluralité a un effet structurel important : *aucune religion ne porte la communauté entière*. C'est, à long terme, une fragilité (cf. Cadre interne ci-dessous).
@@ -160,7 +160,7 @@ La cuisine d'Elarath est l'une des grandes cuisines du sud d'Onara. Pas par luxe
 
 - **Velmara** — la plus grande des trois îles. Pêche, vignobles modestes, atelier de réparation navale. ~1 200 habitants.
 - **Ostrabis** — île intermédiaire. Salines, élevage caprin. ~700 habitants.
-- **Pélandre** — île la plus éloignée. Pêcheurs hauturiers, communauté Vael Kurash. ~600 habitants.
+- **Pélandre** — île la plus éloignée. Pêcheurs hauturiers, communauté Vael'Kurash. ~600 habitants.
 
 ---
 
@@ -181,7 +181,7 @@ La cuisine d'Elarath est l'une des grandes cuisines du sud d'Onara. Pas par luxe
 **Histoire :** Les salines d'Ostrabis sont opérées en commun depuis l'an 88 — un modèle de propriété collective qu'aucune autre saline d'Onara n'a réussi à reproduire (la Guilde du Sel tyndarienne a essayé pendant trente ans, abandonné). La clé tient en une coutume : les sauniers d'Ostrabis ne se transmettent pas leur savoir par lignage mais par *pairage* — chaque saunier expérimenté forme un apprenti de famille différente. Cette circulation transversale empêche la concentration du savoir et donc de la richesse.
 
 ### Pélandre
-*Île la plus éloignée du Cordon, exposée à la houle. Communauté de pêcheurs hauturiers et seule présence Vael Kurash significative d'Elarath. Trois fois par an, un druide vient des forêts de Trinoria (Galenor) pour célébrer les rites du large. Le village (un seul, le reste de l'île étant en garrigue battue par le vent) compte une trentaine de maisons en pierre sèche.*
+*Île la plus éloignée du Cordon, exposée à la houle. Communauté de pêcheurs hauturiers et seule présence Vael'Kurash significative d'Elarath. Trois fois par an, un druide vient des forêts de Trinoria (Galenor) pour célébrer les rites du large. Le village (un seul, le reste de l'île étant en garrigue battue par le vent) compte une trentaine de maisons en pierre sèche.*
 **Histoire :** Pélandre fut occupée tardivement (vers l'an 130), par des familles qui avaient fui les obligations de service militaire mosrackiennes et qui cherchaient un lieu où les autorités ne viendraient pas les chercher. Elles l'ont trouvé. L'arrangement avec Elarath est tacite : Pélandre paye une redevance symbolique en poissons séchés, et Elarath ne demande pas de comptes sur les origines de ses habitants. Cette clémence administrative est une des grandes coutumes de la cité — *on ne fouille pas les généalogies à Elarath*.
 
 ### Hameau du Sirdal

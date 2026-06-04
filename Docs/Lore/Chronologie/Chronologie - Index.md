@@ -286,7 +286,7 @@ Entités issues des interactions entre Cosmiques. Liste canonique GDD/17 (Pluvia
 
 | Religion | Entité(s) vénérée(s) | Présence principale (Sillage) |
 |----------|----------------------|-------------------------------|
-| **Vael Kurash** | Spiritus · Arborius | Alkaran, Ilthara, Ulinor, Evertia |
+| **Vael'Kurash** | Spiritus · Arborius | Alkaran, Ilthara, Ulinor, Evertia |
 | **Ignis Aeternum** | Eldoria (Flamara comme rumeur populaire cendarienne) | Cendara, Pyrtara, Myrtam |
 | **Ordo Caelum** | Celestia · Stellaris | Caeloria, Haldria, Seraphia, Astravia *(branche stellaire)* |
 | **Noctari** | Noctis · Umbra · Umbralis | Vytharia, Nysaria, Avalor |
@@ -360,7 +360,7 @@ Cendara · Onara · Endora · Evertia · Cestra · Baelor · Nysaria · Ulinor �
 
 - Ce document est l'**index principal** — les détails sont dans les fichiers Era voisins.
 - La frise (`pages/frise.html`) est générée depuis ces données.
-- Les religions sont détaillées dans [[../Religions/00 - Système Religieux]] et les fiches dédiées (Vael Kurash, Ignis Aeternum, etc.). La généalogie complète est dans [[../Religions/_Histoire des Religions]].
+- Les religions sont détaillées dans [[../Religions/00 - Système Religieux]] et les fiches dédiées (Vael'Kurash, Ignis Aeternum, etc.). La généalogie complète est dans [[../Religions/_Histoire des Religions]].
 - Les noms de pays changent au fil des conquêtes, régimes, dynasties.
 - "Lumasar" désigne à la fois une cité académique ancienne (Ère III) et une nation moderne (fondée ~7 500 ap.A).
 - Les noms du Cercle des Huit (Sera, Drakhan, Mirathis, Vorath, Aelindra, Thessan, Kayara, Iveth) sont **transmis par tradition Verithane** (cf. [[Era 3b - Religions Verithan et la Chute]]) — ils relèvent de la mémoire vive verithane, **non d'un registre d'état civil universel vérifié in-world**. Les autres traditions ne nomment ni Cercle ni rituel.

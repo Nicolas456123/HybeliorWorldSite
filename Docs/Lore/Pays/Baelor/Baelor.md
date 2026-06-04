@@ -109,7 +109,7 @@ La fiche de [[Taciti]] documente la doctrine en détail. Pour Baelor, retenir :
 
 - **Le Silence Partagé du Mourant** est universel à Baelor. Un moine mourant reçoit la visite de tous les frères de son cloître, qui s'assoient autour de lui sans rien faire. Il meurt entouré, sans qu'aucun mot ne soit prononcé, sans qu'aucune main ne le touche. Les visiteurs repartent dans l'ordre exact où ils sont arrivés.
 
-Les autres traditions religieuses (Foedus Animae, Ordo Caelum, Vael Kurash, etc.) ne sont **pas pratiquées** à Baelor. Quelques familles côtières gardent peut-être un autel ancestral — la chronique baelorienne ne s'en occupe pas.
+Les autres traditions religieuses (Foedus Animae, Ordo Caelum, Vael'Kurash, etc.) ne sont **pas pratiquées** à Baelor. Quelques familles côtières gardent peut-être un autel ancestral — la chronique baelorienne ne s'en occupe pas.
 
 ---
 

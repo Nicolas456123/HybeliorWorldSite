@@ -44,7 +44,7 @@ Au nord, séparée de la grande île par le Détroit de Suie. Une grande île ce
 
 - **Aïkhar** : reliefs adoucis, hauts plateaux herbeux, sources chaudes, fumerolles dans les vallées. Quelques caldeiras secondaires (la **Caldera Grise**, la **Caldera Sourde**) qui n'ont pas connu d'éruption majeure depuis l'Arrachement. La cendre y *vieillit*, s'accumule, durcit en une croûte friable que les Arkheniens appellent la **stephe** et qu'ils considèrent comme un sol — pas comme un déchet.
 - **L'Archipel des Tessons** : éclats d'îles, certains à peine plus grands qu'un navire, peuplés d'ermites, de Délies en retrait, de petits ports de pêche. Le **Tesson de Khoram** est le plus grand — une île ronde de quelques lieues, ancien comptoir corsaire reconverti en simple village.
-- **Ilnara** : forêt tropicale, isolement extrême, faune endémique, **Phénix de Feu** (en déclin documenté depuis trente ans). Le Temple des Flammes Éternelles s'y tient sur une flamme naturelle. La région est syncrétique (Ignis + Vael Kurash) ; cela suffit à la rendre suspecte aux puristes de Brumaris.
+- **Ilnara** : forêt tropicale, isolement extrême, faune endémique, **Phénix de Feu** (en déclin documenté depuis trente ans). Le Temple des Flammes Éternelles s'y tient sur une flamme naturelle. La région est syncrétique (Ignis + Vael'Kurash) ; cela suffit à la rendre suspecte aux puristes de Brumaris.
 
 ### Hydrographie et climat
 

@@ -83,7 +83,7 @@ Focus sur la mémoire des cycles, le passage du temps, les âmes ancestrales, le
    └────┬────┘       └────┬────┘     └────┬────┘       └────┬────┘
         │                 │               │                 │
   ┌─────┴─────┐      ┌────┴────┐      ┌───┴───┐      ┌──────┴──────┐
-  │Vael Kurash│      │  Ignis  │      │       │      │             │
+  │Vael'Kurash│      │  Ignis  │      │       │      │             │
   │ (souche)  │      │Aeternum │      │Noctari│      │ Rota Mundi  │
   └─┬───────┬─┘      └─────────┘      │       │      │ (orthodoxe) │
     │       │                         └───┬───┘      └──────┬──────┘
@@ -222,4 +222,4 @@ Ces fragments alimentent la suspicion mutuelle entre traditions et ont nourri pl
 
 ---
 
-*Liens : [[00 - Système Religieux]] · [[Cosmologie]] · [[Univers]] · [[Histoire d'Hybelior]] · [[Vael Kurash]] · [[Ignis Aeternum]] · [[Ordo Caelum]] · [[Noctari]] · [[Rota Mundi]] · [[Via Ventus]] · [[Lex Petra]] · [[Somnium Vigil]] · [[Foedus Animae]] · [[Catena Fracta]] · [[Filii Fornacis]] · [[Aqua Nigra]] · [[Taciti]] · [[Cantus Mundi]]*
+*Liens : [[00 - Système Religieux]] · [[Cosmologie]] · [[Univers]] · [[Histoire d'Hybelior]] · [[Vael'Kurash]] · [[Ignis Aeternum]] · [[Ordo Caelum]] · [[Noctari]] · [[Rota Mundi]] · [[Via Ventus]] · [[Lex Petra]] · [[Somnium Vigil]] · [[Foedus Animae]] · [[Catena Fracta]] · [[Filii Fornacis]] · [[Aqua Nigra]] · [[Taciti]] · [[Cantus Mundi]]*

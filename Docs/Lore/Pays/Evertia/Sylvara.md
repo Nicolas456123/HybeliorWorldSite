@@ -13,7 +13,7 @@ needs_review_for: []
 |---|---|
 | **Continent** | Evertia |
 | **Gouvernement** | Gardiennat diffus, autorité tournante des Mains Vertes |
-| **Religion principale** | [[Vael Kurash]] (sous une forme spécifique au Pacte de l'Arbre-Mère) |
+| **Religion principale** | [[Vael'Kurash]] (sous une forme spécifique au Pacte de l'Arbre-Mère) |
 | **Religion secondaire** | [[Cantus Mundi]] (par contact thalmarien, présence partielle) |
 | **Culture dominante** | Forêt-monde, écoute végétale, chant accompagnateur, pratique sans doctrine |
 | **Histoire marquante** | Le Pacte de l'Arbre-Mère, conclu il y a sept générations |
@@ -77,9 +77,9 @@ L'absence de gouvernement central n'est pas un *retard* dans la lecture sylvarai
 
 ## Religion
 
-### Vael Kurash — sous une forme particulière
+### Vael'Kurash — sous une forme particulière
 
-Sylvara pratique le [[Vael Kurash]] dans une variante locale qui diffère sensiblement de la pratique evertienne. Là où le Vael Kurash evertien est codifié par le Cercle des Archidruides (rituels précis, transes collectives, hiérarchie de communion), le Vael Kurash sylvarain est *pratique sans doctrine*. Les Sylvarains ne parlent pas des esprits. Ils marchent autour des arbres. Ils chantent quand ils saignent. Ils déposent des écorces taillées au pied des troncs majeurs. Ils ne prient pas, au sens d'une formulation de demande — ils *accompagnent*, geste qu'aucun théologien evertien n'a réussi à reformuler en doctrine.
+Sylvara pratique le [[Vael'Kurash]] dans une variante locale qui diffère sensiblement de la pratique evertienne. Là où le Vael'Kurash evertien est codifié par le Cercle des Archidruides (rituels précis, transes collectives, hiérarchie de communion), le Vael'Kurash sylvarain est *pratique sans doctrine*. Les Sylvarains ne parlent pas des esprits. Ils marchent autour des arbres. Ils chantent quand ils saignent. Ils déposent des écorces taillées au pied des troncs majeurs. Ils ne prient pas, au sens d'une formulation de demande — ils *accompagnent*, geste qu'aucun théologien evertien n'a réussi à reformuler en doctrine.
 
 **Pratiques :**
 
@@ -93,7 +93,7 @@ Sylvara pratique le [[Vael Kurash]] dans une variante locale qui diffère sensib
 
 ### Cantus Mundi — par influence
 
-Le contact ancien avec Thalmaris a introduit à Sylvara une pratique partielle du [[Cantus Mundi]]. Les sessions du Cantus à l'Arbre-Mère, conduites par les Cantori thalmariens deux fois par lunaison, sont l'élément le plus visible. Les Sylvarains y participent comme *auditeurs*, jamais comme exécutants — distinction qu'ils tiennent pour importante. *Chanter pour la forêt* (Cantus Mundi) et *chanter avec la forêt* (Vael Kurash sylvarain) sont, pour eux, des actes différents qu'on ne confond pas. Cette nuance échappe à la plupart des Cantori.
+Le contact ancien avec Thalmaris a introduit à Sylvara une pratique partielle du [[Cantus Mundi]]. Les sessions du Cantus à l'Arbre-Mère, conduites par les Cantori thalmariens deux fois par lunaison, sont l'élément le plus visible. Les Sylvarains y participent comme *auditeurs*, jamais comme exécutants — distinction qu'ils tiennent pour importante. *Chanter pour la forêt* (Cantus Mundi) et *chanter avec la forêt* (Vael'Kurash sylvarain) sont, pour eux, des actes différents qu'on ne confond pas. Cette nuance échappe à la plupart des Cantori.
 
 Quelques familles sylvaraines de la frontière thalmarienne pratiquent le Cantus Mundi comme religion principale. Elles vont aux Heures du Chant à Ostarith quand elles peuvent, achètent des partitions à Galdaris, se font enterrer avec une Dernière Chanson. Ces familles sont environ trois cents en tout, et elles sont vues sans hostilité par leurs voisins — *la lecture de chacun*, comme on dirait à Thalenvir.
 
@@ -208,7 +208,7 @@ Sylvara n'a pas de capitale. Le centre symbolique est l'**Arbre-Mère**, qui n'e
 ### Vellinor
 
 *Hameau de la Marge Thalmarienne, mixte sylvarain-thalmarien. Les habitations alternent entre arbres creusés (style sylvarain) et maisons à toits de tuiles (style thalmarien). On y parle un mélange des deux langues que les linguistes étiquettent *vellinari*, et qui n'a pas de tradition écrite.*
-**Histoire :** Vellinor fut fondé par un mariage — celui d'une Main Verte sylvaraine et d'un Cantori thalmarien, environ cinq générations après le Pacte. Le couple refusa de choisir entre les deux pays et s'installa exactement sur la frontière (qui n'est pas balisée mais que les deux peuples reconnaissent). Leurs descendants formèrent le hameau. La pratique religieuse est mixte : Vael Kurash sylvarain et Cantus Mundi thalmarien sont pratiqués en alternance par les mêmes personnes, ce qui choque légèrement les puristes des deux côtés et n'a jamais empêché Vellinor d'être prospère.
+**Histoire :** Vellinor fut fondé par un mariage — celui d'une Main Verte sylvaraine et d'un Cantori thalmarien, environ cinq générations après le Pacte. Le couple refusa de choisir entre les deux pays et s'installa exactement sur la frontière (qui n'est pas balisée mais que les deux peuples reconnaissent). Leurs descendants formèrent le hameau. La pratique religieuse est mixte : Vael'Kurash sylvarain et Cantus Mundi thalmarien sont pratiqués en alternance par les mêmes personnes, ce qui choque légèrement les puristes des deux côtés et n'a jamais empêché Vellinor d'être prospère.
 - Population : Hameau (≈ 400 habitants)
 - Région : Marge Thalmarienne
 - Particularités : Pratique religieuse mixte, langue *vellinari*, point de passage des Cantori vers l'Arbre-Mère.

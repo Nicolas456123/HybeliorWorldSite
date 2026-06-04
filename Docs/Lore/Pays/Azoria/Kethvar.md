@@ -14,7 +14,7 @@ needs_review_for: []
 | **Continent** | Azoria — Continent des Glaces Éternelles |
 | **Gouvernement** | Confédération de guildes (Conclave des Sept Anneaux) |
 | **Religion principale** | Lex Petra (La Loi de Pierre) — branche froide |
-| **Religion secondaire** | Vael Kurash (rite des malgers, marges intérieures) |
+| **Religion secondaire** | Vael'Kurash (rite des malgers, marges intérieures) |
 | **Culture dominante** | Forge, métallurgie, droit serment, hiérarchie d'apprentissage |
 | **Histoire marquante** | La Réforme Givrée ; la Codification des Sept Anneaux |
 | **Ressources clés** | Stellarite forgée, fer-de-glace, instruments de précision, lames de cérémonie, contrats internationaux |
@@ -89,9 +89,9 @@ La Lex Petra kethvarienne se distingue de sa sœur d'Altram-Iskara par deux trai
 - **Le Tribunal de Pierre** : tribunal local, présidé par un Pesant, où sont jugées toutes les affaires juridiques de la cité. Les verdicts sont gravés dans la pierre du sanctuaire à perpétuité. Aucun verdict n'a jamais été *effacé* à Kethvar.
 - **La Veille des Marches** (Lex Petra commune) : nuit du solstice d'hiver, les Petrani veillent dans leur sanctuaire, *pour écouter la pierre*. À Kethvar, comme partout, beaucoup admettent en privé qu'ils n'ont jamais rien entendu. La veille tient malgré tout.
 
-### Vael Kurash (secondaire — rite des malgers, marges intérieures)
+### Vael'Kurash (secondaire — rite des malgers, marges intérieures)
 
-Les *malgers* — mammifères tractés à six pattes, élevés exclusivement à Kethvar et utilisés pour les caravanes inter-continentales — ont leur propre tradition rituelle, transmise oralement par les **Conducteurs**, descendants probables d'une migration ancienne issue d'Onara. Ce rite — *Vael Korr* en langue kethvarienne — combine éléments Vael Kurash (apaisement des esprits animaux) et pratiques propres (chants de gîte, marquage des cols par cairns rituels). La Lex Petra le tolère — un Conducteur ne peut pas non plus être Pesant, mais il peut être Compagnon avec serment double. Les chapitres Vael Kurash de Kethvar sont peu nombreux (quelques centaines de fidèles) et très spécialisés.
+Les *malgers* — mammifères tractés à six pattes, élevés exclusivement à Kethvar et utilisés pour les caravanes inter-continentales — ont leur propre tradition rituelle, transmise oralement par les **Conducteurs**, descendants probables d'une migration ancienne issue d'Onara. Ce rite — *Vael Korr* en langue kethvarienne — combine éléments Vael'Kurash (apaisement des esprits animaux) et pratiques propres (chants de gîte, marquage des cols par cairns rituels). La Lex Petra le tolère — un Conducteur ne peut pas non plus être Pesant, mais il peut être Compagnon avec serment double. Les chapitres Vael'Kurash de Kethvar sont peu nombreux (quelques centaines de fidèles) et très spécialisés.
 
 ---
 
@@ -197,7 +197,7 @@ Région ouest, frontalière avec Azoral. Plateaux secs et venteux. Spécialité 
 
 ### Volgvar — Village
 *Bourg pastoral des Conducteurs de malgers. Volgvar est dispersée sur plusieurs hameaux d'altitude reliés par des sentiers. Les malgers — mammifères tractés à six pattes, robe brun-noir, poids cinq cents à sept cents kilos — sont élevés ici depuis des temps immémoriaux. Les Conducteurs y vivent une part de l'année à terre, le reste sur les caravanes.*
-**Histoire :** L'élevage du malger à Volgvar précède la Lex Petra — les paléographes datent les premières domesticités locales d'au moins quatre mille ans avant le Sillage. Les Conducteurs sont, parmi les guildes kethvariennes, ceux qui tiennent le plus à leurs racines vael'kurashes. La Guilde de Voie a accepté en l'an +68 du Sillage un compromis : les Conducteurs prêtent serment Petrani *et* serment Vael Korr (Vael Kurash adapté). C'est la seule double-allégeance officielle de Kethvar.
+**Histoire :** L'élevage du malger à Volgvar précède la Lex Petra — les paléographes datent les premières domesticités locales d'au moins quatre mille ans avant le Sillage. Les Conducteurs sont, parmi les guildes kethvariennes, ceux qui tiennent le plus à leurs racines vael'kurashes. La Guilde de Voie a accepté en l'an +68 du Sillage un compromis : les Conducteurs prêtent serment Petrani *et* serment Vael Korr (Vael'Kurash adapté). C'est la seule double-allégeance officielle de Kethvar.
 - Population : Village
 - Région : Volgvaria
 - Particularités : Élevage de malgers, traditions Vael Korr, caravanes inter-continentales.

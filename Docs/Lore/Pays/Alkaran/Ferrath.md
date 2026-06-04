@@ -14,7 +14,7 @@ needs_review_for: []
 | **Continent** | Alkaran |
 | **Numéro** | (non rattaché à un N° Pays.csv ; n'apparaît dans la base canonique Access que par mention indirecte dans la Chronologie) |
 | **Gouvernement** | République des Profondeurs (assemblée des chefs de mine + Concile des Vael'Kari) |
-| **Religion principale** | [[Vael Kurash]] (Voix-des-Anciens, lignée des *Enfants-de-la-Roche*) |
+| **Religion principale** | [[Vael'Kurash]] (Voix-des-Anciens, lignée des *Enfants-de-la-Roche*) |
 | **Religion secondaire** | [[Lex Petra]] (La Loi de la Pierre), localement nuancée par les Vael'Kari |
 | **Culture dominante** | Mineurs, ouvriers de profondeur, veilleurs de présences ; sobriété, parole rare, rapport quotidien à ce qui ne répond plus |
 | **Histoire marquante** | La Sécession des Mineurs ; la mort de Veshva des Cavernes (+249) |
@@ -50,7 +50,7 @@ Cette structure légère fonctionne depuis cinq siècles. Elle a produit peu de 
 
 ### La mort de Veshva (+249) et ses suites
 
-Le seul événement récent qui a réellement remué Ferrath est la mort de **Veshva des Cavernes** (Vael'Kari de la lignée Source-Bleue, morte en +249 à soixante-deux ans, au pied d'une pierre des hautes terres que personne d'autre n'avait visitée depuis un demi-siècle). Veshva est canonique au Tier A.5a (cf. *[[Vael Kurash]]*).
+Le seul événement récent qui a réellement remué Ferrath est la mort de **Veshva des Cavernes** (Vael'Kari de la lignée Source-Bleue, morte en +249 à soixante-deux ans, au pied d'une pierre des hautes terres que personne d'autre n'avait visitée depuis un demi-siècle). Veshva est canonique au Tier A.5a (cf. *[[Vael'Kurash]]*).
 
 Sa pratique — la *« veillée du mourant »*, c'est-à-dire la veille longue d'esprits qui ne répondent plus, sans demander qu'ils répondent, sans prétendre qu'ils répondront — est ambiguë doctrinalement. Le Concile des Vael'Kari de Ferrath n'a pris aucune position publique. Sept ou huit apprenties (toutes des femmes) pratiquent comme elle a pratiqué, sans titre, sans coordination, dans des vallées différentes. Elles ne se réclament pas explicitement de Veshva.
 
@@ -74,23 +74,23 @@ Le système est **lent**, **redondant**, et **peu intelligible aux étrangers**.
 
 ## Religion
 
-### [[Vael Kurash]] — Voix-des-Anciens (religion dominante)
+### [[Vael'Kurash]] — Voix-des-Anciens (religion dominante)
 
-Ferrath est, parmi les nations alkaranes, celle où le Vael Kurash est le plus profondément enraciné. La lignée dominante est celle des **Enfants-de-la-Roche** (variante alkaranne de la souche commune Voix-sous-Bois / Enfants-de-la-Roche, cf. *[[Vael Kurash]]*). Les Vael'Kari ferrathins veillent les présences *minérales* : esprits de filons, de cavernes, de sources profondes, parfois d'outils minéraux particulièrement anciens (un piolet centenaire, par exemple, peut devenir objet de veille).
+Ferrath est, parmi les nations alkaranes, celle où le Vael'Kurash est le plus profondément enraciné. La lignée dominante est celle des **Enfants-de-la-Roche** (variante alkaranne de la souche commune Voix-sous-Bois / Enfants-de-la-Roche, cf. *[[Vael'Kurash]]*). Les Vael'Kari ferrathins veillent les présences *minérales* : esprits de filons, de cavernes, de sources profondes, parfois d'outils minéraux particulièrement anciens (un piolet centenaire, par exemple, peut devenir objet de veille).
 
 **Particularité ferrathine :** la doctrine officielle de la persistance (*« la pierre dure plus que toi »*) est tenue avec une rigueur formelle, **mais pratiquement contredite** par la pratique des *« veillées du mourant »* initiée par Veshva des Cavernes. Ces veillées ne sont ni hérétiques ni doctrinales — elles sont *tolérées*, ce qui est, en pratique, une admission silencieuse que la doctrine n'épuise pas le réel.
 
-**Les Cavernes de l'Écoute** principales d'Alkaran (initiations Vael'Kari, vingt-sept jours dont sept sans nourriture et sept sans parole) sont presque toutes situées en Ferrath — six sur les sept. Cette concentration fait de Ferrath le centre de gravité spirituel du Vael Kurash continental, sans que la nation en tire de pouvoir politique (les lignées ne s'autoproclament pas ; on est reconnu par le silence qu'on tient).
+**Les Cavernes de l'Écoute** principales d'Alkaran (initiations Vael'Kari, vingt-sept jours dont sept sans nourriture et sept sans parole) sont presque toutes situées en Ferrath — six sur les sept. Cette concentration fait de Ferrath le centre de gravité spirituel du Vael'Kurash continental, sans que la nation en tire de pouvoir politique (les lignées ne s'autoproclament pas ; on est reconnu par le silence qu'on tient).
 
 **Pratiques centrales :**
 - **L'Écoute** : passage rituel d'un apprenti dans une Caverne. Vingt-sept jours. Sept sans nourriture, sept sans parole.
 - **La Veillée** : présence prolongée d'un Vael'Kari au pied d'une présence connue. Peut durer des semaines. La veillée ne demande pas, n'exige pas — elle est.
 - **L'Exposition aérienne (mineurs)** ou **mise sous pierre simple (Vael'Kari)** des morts. Aucun monument. Aucun nom inscrit.
-- **Tension interne** entre Décrétistes (codifiés à Gryndor depuis ~9 250 ap.A) et tenants du **Silence Égal** (cf. *[[Vael Kurash]]*). À Ferrath, le débat est moins vif qu'à Gryndor — *« une querelle de plaine »*, disent les Vael'Kari des hautes terres.
+- **Tension interne** entre Décrétistes (codifiés à Gryndor depuis ~9 250 ap.A) et tenants du **Silence Égal** (cf. *[[Vael'Kurash]]*). À Ferrath, le débat est moins vif qu'à Gryndor — *« une querelle de plaine »*, disent les Vael'Kari des hautes terres.
 
 ### [[Lex Petra]] — La Loi de la Pierre (religion secondaire)
 
-Présence pétrane historique, héritée d'Altram et nuancée par le contact avec le Vael Kurash. Les prêtres-juges Lex Petra de Ferrath sont moins juristes que ceux d'Altram et moins militaires que ceux d'Iskara — ils sont avant tout *arbitres techniques* entre mines pour des questions de partage de filon, de paternité d'innovation, de responsabilité d'éboulement. Leur autorité est réelle mais limitée à ces matières. Les Médiateurs Itinérants (cf. supra) recrutent souvent parmi eux.
+Présence pétrane historique, héritée d'Altram et nuancée par le contact avec le Vael'Kurash. Les prêtres-juges Lex Petra de Ferrath sont moins juristes que ceux d'Altram et moins militaires que ceux d'Iskara — ils sont avant tout *arbitres techniques* entre mines pour des questions de partage de filon, de paternité d'innovation, de responsabilité d'éboulement. Leur autorité est réelle mais limitée à ces matières. Les Médiateurs Itinérants (cf. supra) recrutent souvent parmi eux.
 
 Le **Serment de Pierre** ferrathin est plus court qu'en Iskara : *« La pierre tient. »* — trois mots, prononcés en posant la main sur un bloc de granit. C'est tout. Aucun Ferrathin ne ressent le besoin d'allonger.
 
@@ -225,7 +225,7 @@ Région lacustre partagée avec Altram. Pêche, sel, transport fluvial. Le lac b
 | **Altram** | Partenariat commercial discret | Le métal ferrathin alimente les forges de Trelios. Altram a renoncé à toute prétention de vassalité depuis la Sécession de l'an 60. La relation est cordiale dans les faits, glaciale dans les protocoles. |
 | **Iskara** | Neutralité armée | Iskara aimerait un traité formel ; Ferrath ne signe rien. La frontière des Hautes-Pierres est gardée par Selthar (Ferrath, 100 hommes) et plusieurs garnisons iskaran (Helionar, Glintar). Aucun incident majeur depuis trois générations. |
 | **Torkam** | Échanges minimaux | Pas de frontière commune significative. Quelques caravanes torkamites passent par le Sourd-Bois ; les Ferrathins les laissent passer sans formalités. |
-| **Gryndor** (Endora) | Lien religieux tendu | Le Vael Kurash gryndori (Décrétiste) considère les Vael'Kari ferrathins comme *« insuffisamment formés »*. Les Vael'Kari ferrathins considèrent les Décrétistes comme *« administratifs »*. Les Cavernes de l'Écoute de Ferrath sont, malgré ce désaccord, le lieu d'initiation reconnu par les deux courants — ce qui est un compromis muet. |
+| **Gryndor** (Endora) | Lien religieux tendu | Le Vael'Kurash gryndori (Décrétiste) considère les Vael'Kari ferrathins comme *« insuffisamment formés »*. Les Vael'Kari ferrathins considèrent les Décrétistes comme *« administratifs »*. Les Cavernes de l'Écoute de Ferrath sont, malgré ce désaccord, le lieu d'initiation reconnu par les deux courants — ce qui est un compromis muet. |
 
 ---
 

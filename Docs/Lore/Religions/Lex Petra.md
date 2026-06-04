@@ -21,16 +21,16 @@ presence_principale: [Altram, Iskara, Mosrack, Gryndor, Valoria, Trinoria]
 
 **Tradition source :** Présence Visible — l'une des quatre traditions ancestrales issues du Savoir Premier.
 
-**Position dans l'arbre :** **réforme juridique** de la souche [[Vael Kurash]]. Lex Petra n'est pas un schisme conflictuel mais une **codification structurée** : elle reprend le rapport Vael Kurash aux esprits naturels et y introduit une dimension juridique — les esprits ne sont plus seulement à apaiser, ils sont à invoquer comme témoins dans les serments, les jugements et les contrats. Le centre de gravité passe ainsi de Spiritus et Arborius vers Terranu, Gravitas et Judicar. Aujourd'hui acceptée comme branche autonome.
+**Position dans l'arbre :** **réforme juridique** de la souche [[Vael'Kurash]]. Lex Petra n'est pas un schisme conflictuel mais une **codification structurée** : elle reprend le rapport Vael'Kurash aux esprits naturels et y introduit une dimension juridique — les esprits ne sont plus seulement à apaiser, ils sont à invoquer comme témoins dans les serments, les jugements et les contrats. Le centre de gravité passe ainsi de Spiritus et Arborius vers Terranu, Gravitas et Judicar. Aujourd'hui acceptée comme branche autonome.
 
 **Date estimée :** ~-500 du Sillage pour la cristallisation doctrinale (la **Réforme de la Loi de Pierre**), apportée par les peuples migrants des grandes plaines vers l'ouest. Les pratiques juridico-religieuses elles-mêmes remontent plus haut, à la formalisation des cités souterraines d'Alkaran (~7 000 av.A) et au travail des juristes-prêtres d'Altram-pré-Lithane (~6 800 av.A).
 
 **Religions sœurs / cousines (même tradition) :**
-- [[Vael Kurash]] — souche dont Lex Petra dérive par réforme
+- [[Vael'Kurash]] — souche dont Lex Petra dérive par réforme
 - [[Via Ventus]] — autre branche de la souche, par schisme cette fois (~-800 S)
 
 **Schismes auxquels la religion est liée :**
-- La **Réforme de la Loi de Pierre** elle-même, processus pacifique mais décisif : aucun conflit ouvert avec Vael Kurash, mais un glissement durable du centre de gravité doctrinal qui a produit deux pratiques cohabitantes plutôt qu'une rupture.
+- La **Réforme de la Loi de Pierre** elle-même, processus pacifique mais décisif : aucun conflit ouvert avec Vael'Kurash, mais un glissement durable du centre de gravité doctrinal qui a produit deux pratiques cohabitantes plutôt qu'une rupture.
 - Au sein du Lex Petra contemporain, la dissidence des **Petrani du Mouvement** (sectes acceptant le Souffle, cf. plus bas) constitue une fracture interne marginale mais persistante.
 
 **Tensions doctrinales actives :**
@@ -44,7 +44,7 @@ presence_principale: [Altram, Iskara, Mosrack, Gryndor, Valoria, Trinoria]
 
 Lex Petra naît en **Alkaran** (~7 000 av.A) — la plus jeune des 9 grandes religions à voir le jour. Elle se formalise dans les **cités souterraines d'Alkaran** — peuples des Enfants de la Roche qui codifient progressivement leurs pratiques juridiques et leurs traités collectifs en système religieux unifié. Le passage du droit civil traditionnel au droit sacré est l'œuvre des juristes-prêtres d'**Altram-pré-Lithane** (~6 800 av.A).
 
-Le nom *Lex Petra* signifie « Loi de Pierre » en langue d'Alkarath ancienne. C'est l'une des religions les plus **structurellement institutionnelles** d'Hybelior — sa doctrine est codifiée dans des codes écrits, contrairement aux traditions plus orales de Vael Kurash ou Foedus Animae.
+Le nom *Lex Petra* signifie « Loi de Pierre » en langue d'Alkarath ancienne. C'est l'une des religions les plus **structurellement institutionnelles** d'Hybelior — sa doctrine est codifiée dans des codes écrits, contrairement aux traditions plus orales de Vael'Kurash ou Foedus Animae.
 
 ---
 
@@ -101,7 +101,7 @@ L'institution Petrani est massive, lente, structurée. Elle paraît invulnérabl
 
 **Les Petrani du Mouvement** — minoritaires, tolérés à peine — acceptent le Souffle. Leur thèse : la pierre n'est pas immobile, elle s'use *lentement* ; ce qui change à l'échelle d'une vie ne signifie pas que la Loi a faibli, mais que la Loi inclut le mouvement à une autre échelle. Cette position fragile parvient à se maintenir parce qu'elle se présente comme *fidèle* — elle ne renie pas les codes, elle les replace dans une temporalité plus longue. L'orthodoxie la tolère parce que la chasser produirait un schisme ; la combat néanmoins en fermant les portes des grandes Conclaves à ses représentants. Aucun Petrani du Mouvement n'a jamais été nommé Lecteur.
 
-**Les Lithanniens** — clandestins, persécutés — sont les plus rares. Leur nom vient de la cité morte de Lithane, capitale du dernier grand empire de pierre, écroulée pendant la chute des grands empires. Pour eux, l'effondrement de Lithane est la **preuve** que la Loi peut faillir. Pas parce qu'elle est fausse, mais parce que la pierre elle-même *finit*. Ils ne sont pas dissidents par doctrine — ils sont dissidents par mémoire. Ils transmettent de bouche à oreille les noms des cités mortes, les codes oubliés, les serments dont les survivants n'existent plus. Leur pratique est solitaire. Quand on en trouve un, on le bannit dans les territoires Vael Kurash où il finit ses jours.
+**Les Lithanniens** — clandestins, persécutés — sont les plus rares. Leur nom vient de la cité morte de Lithane, capitale du dernier grand empire de pierre, écroulée pendant la chute des grands empires. Pour eux, l'effondrement de Lithane est la **preuve** que la Loi peut faillir. Pas parce qu'elle est fausse, mais parce que la pierre elle-même *finit*. Ils ne sont pas dissidents par doctrine — ils sont dissidents par mémoire. Ils transmettent de bouche à oreille les noms des cités mortes, les codes oubliés, les serments dont les survivants n'existent plus. Leur pratique est solitaire. Quand on en trouve un, on le bannit dans les territoires Vael'Kurash où il finit ses jours.
 
 Au cœur de ces tensions, deux questions que les Petrani ne posent jamais à voix haute. **Pourquoi Judicar ne répond-il plus ?** La doctrine officielle parle d'une *patience* divine ; les Petrani avancés savent que cette explication ne tient pas — Judicar était l'arbitre qui arbitrait, pas un attentif silencieux. Sa désactivation depuis l'Âge du Lien est un trou cosmologique que la liturgie comble en l'invoquant comme s'il répondait. Et **qui décide ce que la pierre dit ?** Les codes ne s'écrivent pas seuls ; les Lecteurs interprètent. La pierre ne contredit jamais le Lecteur, parce que la pierre, justement, ne parle pas. Cette circularité fonde l'autorité de l'institution. Plus elle se sait, moins elle se dit.
 
@@ -115,7 +115,7 @@ L'**Arrachement** est, pour le Lex Petra, l'événement que la doctrine officiel
 
 Les **Souffles cycliques** sont rejetés comme *illusion d'ère* ou *durcissement temporaire*. La doctrine officielle ne reconnaît pas qu'une renégociation cosmique puisse modifier les conditions de la Loi. Si quelque chose paraît changer — la chaleur, le rythme des récoltes, l'humeur des fidèles —, c'est l'observateur qui se trompe, pas la pierre. Cette lecture est fonctionnellement utile : elle permet aux Petrani de tenir leur posture pendant que les autres traditions dansent au rythme du Souffle. Elle rend en revanche la religion **aveugle** aux dynamiques cosmiques actuelles, et c'est cette cécité qui donne aux Petrani du Mouvement leur prise critique.
 
-La **Polyphonie** — non nommée comme telle — est lue à travers la métaphore de **la voix gravée**. Chaque cité, chaque code, chaque serment ajoute une ligne au texte cosmique de la Loi. Ce texte n'est pas chanté ; il est *gravé*. Une voix vivante ne compte que si elle se laisse poser dans la pierre. Les voix qui passent sans graver ne comptent pas. Cette lecture privilégie l'écrit sur l'oral, le durable sur le passager, et exclut structurellement les traditions plus orales (Foedus Animae, Vael Kurash) du domaine de la « vraie » polyphonie. C'est arrogant. C'est aussi cohérent.
+La **Polyphonie** — non nommée comme telle — est lue à travers la métaphore de **la voix gravée**. Chaque cité, chaque code, chaque serment ajoute une ligne au texte cosmique de la Loi. Ce texte n'est pas chanté ; il est *gravé*. Une voix vivante ne compte que si elle se laisse poser dans la pierre. Les voix qui passent sans graver ne comptent pas. Cette lecture privilégie l'écrit sur l'oral, le durable sur le passager, et exclut structurellement les traditions plus orales (Foedus Animae, Vael'Kurash) du domaine de la « vraie » polyphonie. C'est arrogant. C'est aussi cohérent.
 
 Les **Cosmiques retirés** sont gérés par déni partiel. Pour le Lex Petra, Terranu et Gravitas sont *toujours présents* — leur action est constante (la pierre tient, les choses tombent). Judicar, en revanche, est *inactif*, ce que la doctrine officielle reconnaît du bout des lèvres en parlant de *patience*. La fiction d'une présence continue est entretenue par la liturgie : on continue à invoquer Judicar dans chaque jugement, à appeler son arbitrage dans chaque serment, à clore les Conclaves par une formule qui le nomme. Cette pratique a deux effets — elle préserve la dignité de l'institution, et elle empêche les Petrani de penser le silence cosmique comme tel. Le silence est masqué par la formule.
 
