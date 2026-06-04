@@ -34,6 +34,22 @@
       ]
     },
     {
+      "source": "/js/(.*)",
+      "headers": [ { "key": "Cache-Control", "value": "public, max-age=0, must-revalidate" } ]
+    },
+    {
+      "source": "/css/(.*)",
+      "headers": [ { "key": "Cache-Control", "value": "public, max-age=0, must-revalidate" } ]
+    },
+    {
+      "source": "/lore/(.*)",
+      "headers": [ { "key": "Cache-Control", "value": "public, max-age=0, must-revalidate" } ]
+    },
+    {
+      "source": "/Docs/(.*)",
+      "headers": [ { "key": "Cache-Control", "value": "public, max-age=0, must-revalidate" } ]
+    },
+    {
       "source": "/.git/(.*)",
       "headers": [
         { "key": "X-Robots-Tag", "value": "noindex, nofollow" }
