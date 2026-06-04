@@ -420,10 +420,7 @@ L'événement est universellement reconnu, son origine et sa nature universellem
 >
 > D'autres traditions lisent ces trois moments différemment : pour les *Vael'Kurash* et certains *Foedus Animae*, ce sont trois manifestations distinctes d'une même propriété naturelle du tissu temporel, révélée par étapes ; pour les *Noctari*, le lien causal entre Fracture, Arrachement et Fléau reste à démontrer. Le canon GDD enregistre la lecture *Rota Mundi* comme dominante mais ne la déclare pas exclusive.
 >
-> Voir [[Era 4 - L'Arrachement]] pour le second événement et [[Era 5 - La Reconstruction et les Failles]] pour le Fléau.
-
-> [!warning] REFONTE-NEEDED — Cohérence Lore antérieur
-> Le Lore antérieur faisait blesser Tempora *uniquement* à l'Arrachement. Cette section a été ajoutée en V3.1 pour rendre cohérent le canon avec GDD/24. Les références à "Tempora blessé" dans Era 0 / Era 1a / Era 4 doivent être relues à la lumière de cette double blessure : la Fracture est l'origine de la blessure, l'Arrachement la rouvre et l'amplifie.
+> Voir [[Era 4 - L'Arrachement]] pour le second événement et [[Era 5 - La Grande Nuit]] pour le Fléau.
 
 ---
 
