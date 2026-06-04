@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /lore/_Analyse/

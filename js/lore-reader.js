@@ -164,9 +164,12 @@ async function loadTab(tab) {
 }
 
 function renderMarkdown(container, text) {
+    // Retire les sections éditoriales internes avant tout traitement.
+    let src = (window.LoreContent ? LoreContent.stripInternalSections(text) : text);
     // Strip Obsidian wiki links: [[File|Display]] → Display, [[File]] → File
-    const clean = text.replace(/\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/g, (_, file, display) => display || file);
-    const html = marked.parse(clean, { breaks: true });
+    const clean = src.replace(/\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/g, (_, file, display) => display || file);
+    let html = marked.parse(clean, { breaks: true });
+    if (window.LoreContent) html = LoreContent.sanitizeHtml(html);
     container.innerHTML = `<div class="lore-md-content">${html}</div>`;
     container.scrollTop = 0;
 }

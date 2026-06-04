@@ -89,7 +89,9 @@
         rootEl.querySelectorAll('.md-callout-body[data-md]').forEach(el => {
             const md = decodeURIComponent(el.dataset.md);
             const inner = transformObsidianLinks(md);
-            el.innerHTML = (typeof marked !== 'undefined') ? marked.parse(inner) : inner;
+            let html = (typeof marked !== 'undefined') ? marked.parse(inner) : inner;
+            if (window.LoreContent) html = LoreContent.sanitizeHtml(html);
+            el.innerHTML = html;
             el.removeAttribute('data-md');
         });
     }
@@ -99,6 +101,7 @@
         // Ordre : strip frontmatter → dataview (avant marked qui rendrait en code) →
         //         callouts (avant les liens car contiennent du md inline) → liens Obsidian
         let body = stripFrontmatter(md);
+        if (window.LoreContent) body = LoreContent.stripInternalSections(body);
         body = transformObsidianDataview(body);
         body = transformObsidianCallouts(body);
         body = transformObsidianLinks(body);
@@ -106,7 +109,7 @@
             return `<pre>${body.replace(/[<>&]/g, c => ({'<':'&lt;','>':'&gt;','&':'&amp;'}[c]))}</pre>`;
         }
         marked.setOptions({ breaks: false, gfm: true, headerIds: true, mangle: false });
-        return marked.parse(body);
+        return window.LoreContent ? LoreContent.sanitizeHtml(marked.parse(body)) : marked.parse(body);
     }
 
     /** Cache du manifeste des fichiers de doc */

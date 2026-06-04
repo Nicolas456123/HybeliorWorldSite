@@ -1289,11 +1289,14 @@
             var end = body.indexOf('\n---', 3);
             if (end !== -1) body = body.slice(end + 4).replace(/^\n+/, '');
         }
+        // Retire les sections éditoriales internes
+        if (window.LoreContent) body = LoreContent.stripInternalSections(body);
         // Strip Obsidian wiki links
         var clean = body.replace(/\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/g, function(_, file, display) {
             return display || file;
         });
         var html = marked.parse(clean, { breaks: true });
+        if (window.LoreContent) html = LoreContent.sanitizeHtml(html);
 
         // Inject audio player en tete si le chapitre a une piste audio
         var audioHtml = '';

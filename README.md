@@ -57,6 +57,10 @@ Font/ & fonts/          – Polices personnalisées
 ### Lore
 - Lecteur modal avec support Markdown (marked.js)
 - Sous-sections : chronologie, cosmogonie, géographie, religions, histoires
+- Préparation centralisée du contenu via `js/lore-content.js` :
+  - retrait des sections **éditoriales internes** (`## Cadre interne — Patterns`,
+    `## Données canoniques`) qui ne doivent jamais être servies au lecteur ;
+  - sanitization du HTML rendu via [DOMPurify](https://github.com/cure53/DOMPurify).
 
 ### Gameplay
 - Documentation du système de jeu : combat, magie, métiers, progression, monde
@@ -88,8 +92,19 @@ Alternativement, ouvrir `index.html` directement dans un navigateur fonctionne p
 
 Le site est déployé sur **Vercel** avec des fonctions serverless pour les routes `/api/*`. La base de données **Turso** stocke les frontières et les données de timeline.
 
+## Qualité & CI
+
+- **Lint** : `npm run lint` (ESLint, config plate `eslint.config.js`). Les règles
+  « attrape-bug » sont en avertissement le temps de nettoyer la base existante.
+- **Format** : `npm run format` / `npm run format:check` (Prettier).
+- **CI** (`.github/workflows/ci.yml`) à chaque push/PR :
+  - vérification de syntaxe Node sur le JS (`node --check`),
+  - validation de tous les JSON suivis (`scripts/validate-json.js`),
+  - ESLint (informatif).
+
 ## Dépendances
 
 - [OpenSeadragon](https://openseadragon.github.io/) – Zoom et navigation sur la carte
 - [marked.js](https://marked.js.org/) – Rendu Markdown pour le contenu lore
+- [DOMPurify](https://github.com/cure53/DOMPurify) – Sanitization du HTML rendu
 - [Turso](https://turso.tech/) (libSQL) – Base de données en production

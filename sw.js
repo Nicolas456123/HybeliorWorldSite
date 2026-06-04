@@ -1,6 +1,6 @@
 // Hybélior PWA service worker.
 // Bumping VERSION invalidates all caches on next visit, forcing a refresh.
-const VERSION = '2026-05-18-mobile-drawer';
+const VERSION = '2026-06-04-lore-content';
 const PRECACHE = `hybelior-precache-${VERSION}`;
 const RUNTIME  = `hybelior-runtime-${VERSION}`;
 
@@ -14,6 +14,7 @@ const PRECACHE_URLS = [
   '/icons/favicon-32.png',
   '/icons/apple-touch-icon.png',
   '/js/highlights.js',
+  '/js/lore-content.js',
   '/js/lore-reader.js',
   '/js/lore-search.js',
   '/js/map.js',
