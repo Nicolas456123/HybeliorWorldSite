@@ -21,7 +21,7 @@
     // Le corps de ces fichiers indique explicitement : « Encadré technique
     // réservé aux rédacteurs et agents travaillant le Lore. N'apparaît jamais
     // in-world. »
-    var INTERNAL_HEADING_RE = /^##\s+(Cadre interne|Données canoniques)\b/i;
+    var INTERNAL_HEADING_RE = /^##\s+(Cadre interne|Données canoniques|Description canonique)\b/i;
     var H2_RE = /^##\s+/;       // h2 uniquement (### ne matche pas : ## suivi de #)
     var HR_TAIL_RE = /(?:\n\s*-{3,}\s*)+\s*$/; // séparateurs --- résiduels en fin
 
