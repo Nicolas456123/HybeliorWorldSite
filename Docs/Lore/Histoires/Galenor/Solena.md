@@ -7,13 +7,6 @@ needs_review_for: []
 ---
 # Histoires de Solena
 
-> *Chaque ville a ses cicatrices. Voici celles qui ne guérissent jamais.*
-
-> *On ne fait pas de monument aux marins perdus. La mer en fait, à sa manière.*
-> *— Inscription anonyme, quai d'Yltheris, env. an 200.*
-
----
-
 ## Oranthor --- "La Capitaine qui Ne Revenait Plus"
 
 On attendit Elva Morn pendant trois ans. Son navire etait parti explorer les routes commerciales du sud profond, au-dela des cartes connues. Les archives de la Ligue des Explorateurs portaient son nom. La Chambre de Commerce avait investi dans l'expedition.

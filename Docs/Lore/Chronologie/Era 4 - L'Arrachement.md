@@ -8,27 +8,6 @@ needs_review_for: [validation-narrative-V5, cohérence-déliés-non-Liés, harmo
 
 # Ère IV — Le Cardinal de l'Arrachement
 
-> [!important] Cadre canonique (refonte 2026-05-02)
-> L'**Arrachement** est le **nom mortel** donné par les chroniqueurs à un **Souffle Cardinal d'amplitude exceptionnelle** observé dans la mémoire vive du présent. Le terme désigne ce qui a été *ressenti* (un déchirement) sans préjuger de ses causes. Le présent document recense les phénomènes rattachés à ce Cardinal par les bibliothécaires et les traditions, ainsi que les **lectures** qu'en ont produites les chroniqueurs — Verithani, Caelumites, Vael'Kurash, Noctari et autres. Aucune lecture n'a produit de preuve qui rallie les autres.
->
-> Le cadre cosmologique est celui du **Pacte Primordial** entre les 5 Éternels et de la **Polyphonie cosmique émergente** ([[Univers#Le Pacte Primordial]] · [[Le Souffle]]). Aucun acte mortel n'a, dans ce cadre, causé d'événement cosmique majeur. Les récits qui personnalisent l'Arrachement (l'Étudiant, le Cercle des Huit, le rituel du Mont Cendra) sont des **traditions** que des historiens ont reliées à ce Cardinal observé — riches narrativement, contestées historiquement.
-
-> [!important] Calendrier hybride (D-COSMO-1)
-> "An 0 ap.A" (Lore) ↔ "-250 du Sillage" (GDD) ↔ "An 0 du Sillage" — même Cardinal observé, deux référentiels. Le calendrier interne au Lore qui datait l'Arrachement à 10 200 ans avant le présent est désormais traité comme **Mémoire d'Astravie mythifiée** : valable pour l'histoire profonde du monde, mais le **Sillage = 250 ans vécus humains** est le référentiel canon pour le présent jouable.
-
-> [!important] Décision D-COSMO-3 — terminologie "Délié"
-> Dans cette ère et toutes les suivantes, **"Délié" désigne uniquement le sevré volontaire** (mortels qui choisissent activement de couper leur Lien — antagoniste scripté gameplay). La catégorie démographique large — la majorité non-magique de la population (~70%) — est désignée par **"non-Lié"** (avec tiret), jamais "Délié". Le **Délié Primordial** est une **figure tutélaire** invoquée par les Déliés comme récit fondateur ; la majorité des historiens y voit un récit de légitimation, et non un acteur cosmique.
-
-> [!important] Lecture Rota Mundi — Arrachement = 2e phase d'un phénomène en trois temps
-> Le *Rota Mundi*, et plusieurs traditions érudites altramites qui s'y rattachent, lisent l'Arrachement comme la **2e phase** d'un même phénomène cosmique long, articulé en trois temps :
-> - **Phase 1 — La Fracture de Tempora** (~-1500 av.A, Ère III) : première blessure ouverte dans la voix de Tempora (cf. Failles temporelles primaires).
-> - **Phase 2 — L'Arrachement** (An 0 ap.A, présente Ère IV) : la blessure se rouvre avec une amplitude exceptionnelle, accompagnée du retrait de Navigor et du silence d'Eldoria. Cratères du Cardinal et Brèches du Néant matérialisent les traces.
-> - **Phase 3 — Le Fléau des Failles** (~1 400-1 600 ap.A, Ère V tardive) : prolifération de Failles mobiles et épidémie ; lue comme la cicatrisation imparfaite (ou la rechute) de la même blessure.
->
-> Cette **lecture en trois phases est dominante chez les bibliothécaires Rota Mundi et chez plusieurs cercles d'Altram**, mais elle n'est pas universelle : les Vael'Kurash y voient trois reconfigurations distinctes de la Polyphonie sans lien causal nécessaire ; les Caelumites les rattachent à des agressions séparées de l'Étranger des Heures (§3.2) ; les Noctari attribuent chaque phase à des trahisons internes différentes ; les Déliés y lisent trois manifestations distinctes d'une même prison qui se fissure ; les Verithani Endeuillés (§3.6) refusent toute lecture unifiante. Aucune lecture n'a fait consensus.
-
----
-
 ## 1. Le Cardinal — phénomènes rattachés
 
 Plusieurs traditions s'accordent sur les **phénomènes observés** dans la période rattachée à l'Arrachement, tout en divergeant sur leurs lectures. Ce qui suit consigne les phénomènes ; les lectures sont rapportées en §3.

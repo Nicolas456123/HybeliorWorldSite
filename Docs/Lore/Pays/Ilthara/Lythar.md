@@ -7,11 +7,6 @@ needs_review_for: []
 ---
 # Lythar — L'Empire des Vents Nomades
 
-> *« Un Lytharien sans cheval est un oiseau sans ailes. Un Lytharien sans route est un mort qui ne le sait pas encore. »*
-> — Dicton de la tribu du Vent-Rouge
-
----
-
 ## Informations générales
 
 | | |

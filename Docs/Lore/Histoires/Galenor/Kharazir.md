@@ -7,13 +7,6 @@ needs_review_for: []
 ---
 # Histoires de Kharazir
 
-> *Chaque ville a ses cicatrices. Voici celles qui ne guérissent jamais.*
-
-> *Naïm le balayeur, le 14 du mois Vanir 251, a perdu sa cabane une nuit, le sommeil un autre. Sorin Valthen, le 14 du mois Vanir 251, a perdu sa charge, sa carte, et sept ans de marges méticuleuses. Les Sept Piliers de Rukhsar n'ont rien remarqué.*
-> *— Inscription de marge, anonyme, retrouvée dans une auberge de Solandra, an 252.*
-
----
-
 ## Rukhsar — « Le Huitième Pilier »
 
 Naïm avait passé trente ans de sa vie à balayer la place des Sept Piliers. Trente ans à connaître chaque fissure, chaque inscription, chaque ombre que projetaient les colonnes sacrées au fil des heures. Personne ne connaissait mieux les Piliers que lui. Personne ne s'en souciait moins que les Voix du Conseil qui passaient devant lui chaque matin sans le voir.

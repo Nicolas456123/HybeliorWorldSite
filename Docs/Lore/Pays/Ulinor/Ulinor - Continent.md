@@ -7,17 +7,6 @@ needs_review_for: []
 ---
 # Ulinor — L'Île des Échos
 
-> *« Les Anciens, selon ce que les chamanes nous transmettent, n'ont pas quitté les pierres. Pose ton oreille contre la roche — ce que tu y entendras, à toi de le nommer. »*
-> — adage transmis par les Écho-Guides Jentar
-
-> *« Une pierre qui parle ne meurt pas. Une pierre qui ne parle plus n'est jamais morte non plus — elle attend qu'on la fasse parler. »*
-> — proverbe rapporté à Jentaris, attribution incertaine
-
-> *« Mes ancêtres pèsent dans ma poche. Je ne les sens plus. C'est ce que je leur dois. »*
-> — confidence d'un pêcheur d'Elaris à un voyageur de Solena, retranscrite en marge d'un journal de bord, env. an 215
-
----
-
 ## Vue d'ensemble
 
 Ulinor est un archipel où, selon ce que rapportent ses tribus, le passé continue d'occuper la pierre. Sous les jungles, les plaines arides et les fjords des îles, les chroniques tribales transmettent que reposent les traces d'une civilisation que les Ulinoriens nomment **les Anciens** — entités dont la mémoire, telle que les chamanes l'enseignent, aurait été inscrite dans la roche avant que ces êtres ne disparaissent de l'archipel sous une forme et pour une raison qu'aucune source ne précise.

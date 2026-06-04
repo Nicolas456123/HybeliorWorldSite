@@ -7,17 +7,6 @@ needs_review_for: []
 ---
 # No Man's Land — Cestra, Le Bastion du Nord
 
-> *« Cestra ne tue pas les imprudents. Elle les garde. »*
-> — Dernier journal retrouvé de l'expédition Valkren
-
-> *« Tous les hommes que j'ai vus partir au-delà du périmètre disaient la même chose en revenant — quand ils revenaient. *Je ne pensais pas que ce serait comme cela.* Ils ne précisent jamais comme quoi. »*
-> — Borela, cartographe à Noravia, conversation rapportée par un voyageur de passage, an 226 du Sillage
-
-> *« On les retrouve parfois. La glace les rend, dix ans plus tard, vingt ans plus tard. Ils ont l'air de dormir. C'est aux yeux qu'on voit qu'ils ne dorment pas. »*
-> — Seld, Chamane d'Alkaran installé temporairement à Cestra, an 219
-
----
-
 ## Informations générales
 
 | | |

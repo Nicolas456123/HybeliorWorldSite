@@ -7,13 +7,6 @@ needs_review_for: []
 ---
 # Histoires d'Ulinor
 
-> *Chaque ville a ses cicatrices. Voici celles qui ne guérissent jamais.*
-
-> *« La pierre se souvient. C'est ce que nous disons. C'est aussi pourquoi nous n'apprenons jamais à oublier. »*
-> — formule retrouvée en marge d'un cahier Jentar, attribution refusée
-
----
-
 ## Jentaris --- "Yelthari la Muette"
 
 Yelthari naquit sans voix. Pas sourde -- elle entendait tout. Mais les cordes vocales qui auraient du produire des mots n'en produisaient pas. Elle communiquait par gestes, par expressions, par la pression de sa main sur le bras de quelqu'un.

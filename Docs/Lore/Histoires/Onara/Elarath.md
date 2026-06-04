@@ -7,12 +7,6 @@ needs_review_for: []
 ---
 # Histoires d'Elarath
 
-> *Une cité qui choisit de rester petite ne raconte pas ses victoires. Elle raconte ce qu'elle a refusé de devenir.*
-
-> *Aucune des histoires qui suivent n'est célébrée à Elarath. Toutes sont connues. La différence entre célébrer et connaître est une des coutumes les mieux gardées de la cité.*
-
----
-
 ## Quartier des Trois Lampes — « Le Changeur et la Petitesse »
 
 Havrel Tassen tenait la boutique du milieu, rue des Guildes. Trois marches en contrebas, une porte basse, un comptoir de chêne usé que son grand-père avait poncé à la main. Sur le comptoir, deux balances, trois casiers, un boulier et un petit sablier qu'il retournait avant chaque conversation longue — non pour mesurer le temps, mais pour signaler aux clients qu'ils pouvaient parler.

@@ -7,17 +7,6 @@ needs_review_for: []
 ---
 # No Man's Land de Celethor — Les Terres Brisées
 
-> *« Aucun roi ne règne ici. Aucun dieu n'est prié. Les Terres Brisées n'appartiennent qu'au vent, à la glace et à ceux qui n'ont plus rien à perdre. »*
-> — Inscription gravée sur un cairn à l'entrée des Terres Brisées, datée approximativement de l'an 80
-
-> *« Demande aux enfants de Frostheim. »*
-> — Sergent Valdris, à son lieutenant, peu avant sa mort, an 222
-
-> *« Bienvenue à Fenorith. »*
-> — L'archimage Yeldris, accueillant un jeune aventurier revenu trois ans après son départ, an 240
-
----
-
 ## Informations générales
 
 | | |

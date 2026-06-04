@@ -7,11 +7,6 @@ needs_review_for: []
 ---
 # Histoires de Sylvara
 
-> *On ne raconte pas la forêt. On marche dedans, et au retour on a moins de mots qu'au départ.*
-> — Phrase attribuée à Eilenne aux Mains Brunes (réfutée par les linguistes thalmariens, qui la datent de trois générations plus tard ; les Sylvarains l'attribuent à Eilenne quand même).
-
----
-
 ## Note d'écriture (interne, ne pas afficher in-world)
 
 Sylvara n'a pas de chroniques. Ce qui suit est ce que des Sylvarains transmettent oralement, ce que des Cantori thalmariens en visite ont consigné en cachette dans leurs marges, ce qu'un cartographe étranger (Sorin Valthen, ch. 31) a noté lors de son passage. Les Histoires de Sylvara, contrairement à celles d'Evertia ou de Thalmaris, ne s'organisent pas autour de cités — elles s'organisent autour d'arbres, de saisons, de gestes répétés. La densité dramatique y est plus basse. C'est intentionnel. Sylvara est une nation où *peu se passe en surface*, et où l'événement est presque toujours intérieur, lent, à peine articulé. Ne pas durcir.

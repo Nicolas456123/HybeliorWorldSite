@@ -7,20 +7,6 @@ needs_review_for: []
 ---
 # Astravia — La Cité des Tables
 
-> *« Nous avons touché le ciel — et le ciel nous a laissés tomber. Mais même brisés, nous regardons toujours vers le haut. Car un peuple qui cesse de rêver d'altitude est un peuple qui a déjà touché le fond. »*
-> — Archimage Celyndra, Magistère Suprême d'Astravia, an 248
-
-> *« Une étoile nouvelle est toujours une étoile mal lue. »*
-> — Quatrième Précepte du Tribunal des Lectures, Tour-Mère d'Invernis
-
-> *« Je crois que nous lisons une langue dont le dictionnaire a brûlé. Nous tenons les mots ; nous avons perdu ce qu'ils voulaient dire. Et personne, ici, ne supporterait que je le dise tout haut. »*
-> — Lethanis Vor-Ostrun, Première Lectrice d'Astravia, lettre à Calmara Sept-Murs, +192 du Sillage (lettre privée, jamais enseignée)
-
-> *« Quelqu'un, ou quelque chose, paraît cartographier en dessous — c'est en tout cas ce que ma propre cartographie m'incline à croire. »*
-> — Sorin Valthen, carnet de voyage, Astravia, ch. 25, an 251
-
----
-
 ## Informations générales
 
 | | |

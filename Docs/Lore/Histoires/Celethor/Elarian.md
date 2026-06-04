@@ -7,10 +7,6 @@ needs_review_for: []
 ---
 # Histoires d'Elarian
 
-> *Dans le nord, les histoires ne meurent pas. Elles se gèlent et attendent le dégel. Et certaines — les Effacées — attendent qu'on les redécouvre dans la marge d'une Tablette qu'aucun fonctionnaire n'a regardée depuis cent ans.*
-
----
-
 ## Tundralis — « Ce que Hrothgar n'a jamais dit »
 
 Tout le monde connaît l'histoire officielle : Hrothgar l'Ancien choisit Tundralis parce que la cuvette protégeait des vents du nord, parce que le sol gelait deux mètres moins profond qu'ailleurs, parce que c'était stratégiquement défensible.

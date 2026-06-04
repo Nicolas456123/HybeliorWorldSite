@@ -7,10 +7,6 @@ needs_review_for: []
 ---
 # Histoires d'Iskara
 
-> *Chaque ville a ses cicatrices. Voici celles qui ne guérissent jamais.*
-
----
-
 ## Lignes structurantes (vue d'ensemble historique)
 
 **Ère pré-fondatrice (~ -300 à -1)** — vallées encaissées d'Alkaran central, peuplées de bergers et de mineurs qui subissent les incursions de hordes venues de l'est. La géographie a déjà fait l'essentiel : seuls les défilés permettent l'accès, et les défilés se défendent.

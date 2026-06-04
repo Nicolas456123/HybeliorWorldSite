@@ -11,8 +11,6 @@ presence_principale: [Altram, Iskara, Mosrack, Gryndor, Valoria, Trinoria]
 
 # ⚖️ Lex Petra — La Loi de Pierre
 
-> *« La loi n'est pas une invention des hommes. Elle est gravée dans la pierre depuis avant eux. »*
-
 **Entités vénérées :** Terranu *(Cosmique)* · Gravitas *(Cosmique)* · Judicar *(Cosmique)*
 
 ---

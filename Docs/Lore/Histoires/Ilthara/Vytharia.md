@@ -7,10 +7,6 @@ needs_review_for: []
 ---
 # Histoires de Vytharia
 
-> *Chaque ville a ses cicatrices. Voici celles qui ne guerissent jamais.*
-
----
-
 ## Brystalis -- "La Femme qui se Souvint de Mourir"
 
 Theyra se reveilla un matin avec une cicatrice qu'elle n'avait pas la veille. Un trait blanc, net, en travers de la gorge, comme si quelqu'un avait dessine une ligne de mort sur sa peau pendant son sommeil.

@@ -7,17 +7,6 @@ needs_review_for: []
 ---
 # Seraphia — Le Sanctuaire des Arts et de la Lumière
 
-> *« Chaque note chantée est une prière, chaque couleur posée sur la toile est un acte de foi. À Seraphia, créer, c'est vénérer. »*
-> — Haute-Prêtresse Ilynara, Cathédrale des Lumières d'Althior
-
-> *« On ne refuse pas un Festival. C'est ainsi qu'à force de tout accueillir, on accueille n'importe quoi. »*
-> — Marge anonyme retrouvée dans un cahier de chant à Ryndoria, env. an 230
-
-> *« La partie qu'il n'a pas peinte est la plus regardée. »*
-> — À propos du Grand Tableau d'Althior et du peintre Valdren Ayle (cf. *Histoires*)
-
----
-
 ## Informations générales
 
 | | |

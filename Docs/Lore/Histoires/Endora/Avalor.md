@@ -7,13 +7,6 @@ needs_review_for: []
 ---
 # Histoires d'Avalor
 
-> *Chaque ville a ses cicatrices. Voici celles qui ne guerissent jamais.*
-
-> *Avalor a institué l'écoute. Elle a oublié, en chemin, que les voix qu'on tient depuis cinq siècles ne sont peut-être plus celles qu'on entend.*
-> *— Marge anonyme, archives de Velaris, env. an 215.*
-
----
-
 ## Crestalis --- "L'Archidruide qui perdit la voix"
 
 Avant Feylara, il y eut Theron. Archidruide pendant trente ans, Theron parlait aux esprits comme d'autres parlent a leurs enfants --- avec tendresse, autorite, patience. Sa voix etait le lien entre deux mondes. Sans lui, Avalor aurait sombre dans le silence.

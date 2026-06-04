@@ -7,13 +7,6 @@ needs_review_for: []
 ---
 # Histoires de Mirathi
 
-> *Chaque ville a ses cicatrices. Voici celles qui ne guérissent jamais.*
-
-> *« Au plateau, il vaut mieux ne pas chercher de leçon. Les leçons que le plateau donne ressemblent à des jours de marche : on en sort plus las que plus savant, et l'utilité ne se voit qu'après. »*
-> — Marge anonyme d'un cahier de copiste, Mirathi-village, an 247
-
----
-
 ## Mirathi-village — « L'Oracle qui ne Rêva Plus »
 
 La Voix de la Lacune fut vacante pendant huit ans, vers la fin du siècle précédent. Le fait est mentionné dans plusieurs chroniques marginales, sans plus d'explication. La présente histoire — recueillie auprès d'une vieille bergère du hameau de Sorek qui l'avait entendue de sa mère, qui l'avait entendue d'une cousine d'Oracle — n'est ni canonique ni publiée. Elle est notée pour le dossier comme *probablement vraie en gros, peut-être inexacte dans les détails*.

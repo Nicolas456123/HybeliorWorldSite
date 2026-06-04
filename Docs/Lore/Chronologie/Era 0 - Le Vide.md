@@ -8,12 +8,6 @@ needs_review_for: [validation-narrative-V4]
 
 # Ère 0 — Le Vide
 
-> [!info] Cadre temporel — Avant-Mémoire
-> Cette Ère relève de l'**Avant-Mémoire** (cf. [[Histoire d'Hybelior]] §"Ère Primordiale"). Aucune datation n'est fiable — les bibliothécaires d'Astravia parlent ici de "temps mythique, indatable". Le calendrier officiel du jeu (Sillage = 250 ans) ne s'applique pas à cette Ère. Tout ce que cette fiche rapporte sur l'Ère 0 est **lecture mortelle reconstituée** — fragments du Savoir Premier, traditions orales, intuitions des médiums du Lien — et non témoignage direct. Aucun mortel ne se souvient du Vide.
-
-> [!note] Statut du « Sixième Éternel » (Q-LC-008)
-> Cette Ère évoque en plusieurs endroits un possible « Sixième Éternel » (Vacuus, l'Innommé, le Résidu). **Le canon GDD/17 reconnaît 5 Éternels** (Celestia, Tempora, Noctis, Navigor, Eldoria). Le « Sixième Éternel » circule comme **rumeur in-world** — certains textes fragmentaires de l'Ère II tardive l'évoquent, certains cercles théologiques marginaux le défendent — mais aucune chronique majeure ne le confirme. À traiter comme un mystère ouvert qui alimente le débat, jamais comme un fait acquis. Cohérent avec la rumeur du « 8e Éternel » qui circule dans d'autres Chroniques. Voir aussi GDD/24 §"Conditions cachées 🔒 — Que nourrissent les Déliés ?" qui liste cette hypothèse parmi d'autres.
-
 ## ERE 0 — LE VIDE
 
 > *Tout ce qui suit relève des lectures que les mortels font de cette Ère depuis les fragments qui leur en sont parvenus. Aucune affirmation ne devrait être prise comme fait cosmologique absolu — seulement comme la trame que les théologiens, les médiums et les chroniqueurs ont tissée pour rendre l'Avant-Mémoire pensable.*

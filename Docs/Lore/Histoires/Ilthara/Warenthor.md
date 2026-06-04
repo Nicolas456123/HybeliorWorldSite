@@ -7,10 +7,6 @@ needs_review_for: []
 ---
 # Histoires de Warenthor
 
-> *Chaque ville a ses cicatrices. Voici celles qui ne guerissent jamais.*
-
----
-
 ## Wyndor --- "Ce que la Jungle Enseigne"
 
 Les enfants de Wyndor apprennent a marcher dans la jungle avant d'apprendre a parler. Ce n'est pas une exageration. Les familles emmenant les nourrissons dans la foret, les portant contre leur peau, les exposant aux odeurs et aux sons. La jungle est leur premier langage.

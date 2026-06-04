@@ -7,12 +7,6 @@ needs_review_for: []
 ---
 # Histoires d'Arkhen — La Confédération de la Cendre Froide
 
-> *À Arkhen, on ne raconte pas les histoires. On les laisse traîner. Quelqu'un les ramassera.*
-
-> *Ces histoires sont brèves, parce qu'à Arkhen on parle peu. Elles sont nombreuses, parce qu'à Arkhen il y a beaucoup de choses qui n'arrivent pas tout à fait. Et elles sont, presque toutes, des histoires d'objets ou de gestes — pas d'événements. C'est la manière du pays.*
-
----
-
 ## Khoram — « L'Atelier de Khessa »
 
 L'atelier est sur le quai sud, troisième porte à partir de la passerelle des pêcheurs. Pierre noire. Toit d'ardoise. Une seule fenêtre, sur la mer. Une cheminée qui ne fume plus depuis vingt ans. À l'intérieur, conservés tels que **Khessa-aux-Mains-Calmes** les a laissés en mourant le matin du 14 du mois Vaden 232 : son enclume, son marteau, sept tabliers de cuir patiné, deux coffres de fer brut, et — sur l'étagère du fond — une petite poignée de cendre froide dans un pot d'argile, toujours là.

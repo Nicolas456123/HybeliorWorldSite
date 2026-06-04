@@ -7,13 +7,6 @@ needs_review_for: []
 ---
 # Histoires de Valoria
 
-> *Chaque ville a ses cicatrices. Voici celles qui ne guérissent jamais.*
-
-> *« La pierre tient, les bâtisseurs finissent. »*
-> *— Inscription clandestine, gravée sur des éclats détachés des Marches mortes (cf. Lex Petra), apparaissant régulièrement à Valoria malgré les ordres de martelage. Anonyme.*
-
----
-
 ## Valtheria --- "Le Juge et l'Accusation Impossible"
 
 Aldra Vorn etait juge a Valtheria depuis trente ans. Elle avait rendu des milliers de verdicts. Sa reputation etait celle d'une femme qui ne cede a rien --- pas a la pression des clans puissants, pas aux pleurs des misereables, pas a sa propre compassion.

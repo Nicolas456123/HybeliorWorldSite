@@ -7,17 +7,6 @@ needs_review_for: []
 ---
 # Caeloria — Le Royaume des Cieux Gelés
 
-> *« Les étoiles ne mentent pas. Mais elles ne disent pas tout non plus — c'est pourquoi il faut des oracles. »*
-> — Haute-Prêtresse Velmira, Temple de l'Aube Givrée
-
-> *« On ne dispute pas une Table avec un compas. »*
-> — Dicton attribué aux Veilleurs de Vyntheris ; sert à clore une conversation devenue gênante.
-
-> *« L'Édit a fait la paix. Et la paix, depuis, fait l'Édit. »*
-> — Annotation marginale d'un manuscrit administratif, Duskoris, an 224, auteur inconnu
-
----
-
 ## Informations générales
 
 | | |

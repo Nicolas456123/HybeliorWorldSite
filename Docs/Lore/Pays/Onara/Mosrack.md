@@ -7,17 +7,6 @@ needs_review_for: []
 ---
 # Mosrack — La Guerre des Cent-Jours
 
-> *« La paix est un luxe que seuls les faibles s'offrent. La guerre est une nécessité que seuls les forts comprennent. Mosrack ne cherche pas la guerre — Mosrack EST la guerre. »*
-> — Grand Stratège Volkar, Chef du Directoire Militaire
-
-> *« On nous demande combien de tonnes de fer sortent des mines. On ne nous demande pas combien d'hommes sont restés en bas. La différence est de l'administration. »*
-> — Intendant Voss, lettre au Directoire avant sa destitution, an 247
-
-> *« Mosrack ne fait pas la guerre depuis trente ans. Mais ses forges n'ont pas ralenti. Demandez-vous où va l'acier que personne n'utilise. »*
-> — Marge d'un rapport tyndarien sur les flux commerciaux, an 248
-
----
-
 ## Informations générales
 
 | | |

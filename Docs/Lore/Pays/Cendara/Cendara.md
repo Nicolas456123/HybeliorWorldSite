@@ -7,17 +7,6 @@ needs_review_for: []
 ---
 # Cendara — L'Île de Feu et de Cendres
 
-> *« Le Mont Cendra respire. Quand il expirera pour la dernière fois, le monde verra ce que nous avons toujours su : le feu ne détruit pas — il révèle. »*
-> — Grand Pyromancien Ashavar, *Chroniques de la Flamme*, copie tardive
-
-> *« Nous sommes la nation qui attend le mieux. Voilà notre fierté. Voilà notre honte. Voilà — peut-être — notre santé. »*
-> — Marge anonyme, *Forge-Liturgie* royale, an 224
-
-> *« On ne dirige pas Cendara. On la *contient*. »*
-> — Conseiller Draevin, attribué (refusé par lui)
-
----
-
 ## Informations générales
 
 | | |

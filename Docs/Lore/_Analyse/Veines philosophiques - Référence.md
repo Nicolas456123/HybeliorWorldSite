@@ -9,12 +9,6 @@ audience: agents et rédacteurs travaillant sur le Lore d'Hybélior
 
 # 🌿 Veines Philosophiques d'Hybélior — Référence d'écriture
 
-> **Document autonome.** Pièce-jointe-contexte pour toute personne (humaine ou agent) qui rédige, enrichit ou densifie un fichier du Lore d'Hybélior. Il pose le **principe directeur**, le **lexique interne**, les **trois niveaux d'application** et les **pièges à éviter**.
-
-> ⚠️ **Règle d'or.** Tout le vocabulaire ci-dessous est **natif d'Hybélior**. Aucune source extérieure, aucun auteur, aucun nom de livre n'est cité — ni dans le Lore in-world, ni dans les notes d'écriture. Ce sont les concepts qu'on utilise, pas leurs origines.
-
----
-
 ## 1. Principe directeur — La submersion par défaut
 
 > ⚠️ **C'est LA règle d'écriture. Si une seule règle doit être retenue, c'est celle-ci.**

@@ -7,10 +7,6 @@ needs_review_for: []
 ---
 # Histoires de Gryndor
 
-> *Chaque ville a ses cicatrices. Voici celles qui ne guerissent jamais.*
-
----
-
 ## Holvendar -- "Le Livre qui Lisait"
 
 La Grande Bibliotheque de Holvendar contenait trois millions sept cent quarante-deux mille ouvrages. L'archiviste Meylara les avait comptes. Pas parce qu'on le lui avait demande -- personne ne demandait a Meylara quoi que ce soit. Elle etait l'archiviste la plus discrete de la Bibliotheque, une femme pale qui se deplacait entre les rayonnages comme une ombre, remettant les livres a leur place avec une devotion silencieuse.

@@ -7,10 +7,6 @@ needs_review_for: []
 ---
 # Histoires de Lythar
 
-> *Chaque ville a ses cicatrices. Voici celles qui ne guerissent jamais.*
-
----
-
 ## Raenoris --- "Le Premier Campement"
 
 La tradition de Lythar veut qu'une fois par generation, chaque famille fasse le Grand Parcours --- le tour complet des territoires que leurs ancetres nomades traversaient avant la sedentarisation. Trois mois. A pied ou a cheval. Sans maison.

@@ -7,17 +7,6 @@ needs_review_for: []
 ---
 # Ferrath — La République des Profondeurs
 
-> *« Le filon ne meurt pas. Il s'endort. »*
-> — Dicton de mineur, transmis dans toutes les vallées de Ferrath, attribué à personne en particulier
-
-> *« Veiller, ce n'est pas attendre. Veiller, c'est savoir qu'on n'attend rien. »*
-> — Veshva des Cavernes, fragment d'un *Carnet de Selvara* recopié par une apprentie sans titre, an 247
-
-> *« Ferrath ne signe rien. Ferrath descend. »*
-> — Réponse de la Concile des Profondeurs à une délégation diplomatique d'Iskara, an 218
-
----
-
 ## Informations générales
 
 | | |

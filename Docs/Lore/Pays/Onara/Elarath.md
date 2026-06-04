@@ -7,17 +7,6 @@ needs_review_for: []
 ---
 # Elarath — La Cité-État qui a Choisi de Rester Petite
 
-> *« Tout le monde vient de quelque part d'autre, à Elarath. C'est pour ça qu'on est là. »*
-> — Retto, aubergiste du Poisson Doré, à Sorin Valthen, an 251
-
-> *« Un grand port attire les convoitises. Un port de taille moyenne, entretenant ses voisinages, devient indispensable sans devenir une cible. Nous avons choisi la modestie ; non par défaut d'ambition, mais parce que c'est l'ambition la plus intelligente. »*
-> — Havrel Tassen, changeur de la rue des Guildes, transcrit par Sorin Valthen, an 251
-
-> *« Les Deniers de Mer ne sont la monnaie de personne. C'est pour ça qu'ils sont la monnaie de tous. »*
-> — Proverbe elarathin, attribution incertaine
-
----
-
 ## Informations générales
 
 | | |

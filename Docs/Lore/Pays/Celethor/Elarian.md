@@ -7,17 +7,6 @@ needs_review_for: []
 ---
 # Elarian — La Confédération des Tablettes
 
-> *« Le froid ne tue pas — il enseigne. Il t'apprend à te serrer contre tes frères, à partager ta flamme, à économiser tes forces. Un peuple qui survit à l'hiver peut survivre à tout. »*
-> — Jarl Hrothgar VII, Chef de la Confédération d'Elarian, allocution du Thing de l'an 245
-
-> *« Chez nous, on n'emporte pas les histoires. On les garde. »*
-> — Sigra de Lysorn, aubergiste, à Sorin Valthen, an 251
-
-> *« Ce qu'on a effacé n'est pas oublié. C'est rangé sous une autre forme. Les Forgerons-Thanes le savent. Ils ne l'expliquent jamais. »*
-> — Marge anonyme, Troisième Tablette de Thaldris, gravure tardive datée an 198
-
----
-
 ## Informations générales
 
 | | |

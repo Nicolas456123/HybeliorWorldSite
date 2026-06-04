@@ -8,22 +8,6 @@ needs_review_for: [scission-religions-V4]
 
 # Ère III — Religions, Verithan et la Chute
 
-> [!info] Cadre — Mémoire d'Astravie + chronologie GDD/24
-> La fin de cette Ère recoupe le **Souffle Cardinal de l'Arrachement** (~An 0 du Sillage), Cardinal observé qui clôt l'Âge du Lien et ouvre la Grande Nuit (cf. [[Histoire d'Hybelior]]). Le présent fichier **rassemble la matière narrative Verithane** sur cette période — c'est l'une des six lectures principales coexistantes, pas un récit canonique cosmologique.
-
-> [!warning] Statut canonique du récit Verithan (cadre Polyphonie)
-> Conformément au cadre canonique général d'Hybelior — *Pacte Primordial / Polyphonie émergente / vision erronée universelle* —, **aucune lecture mortelle d'un Cardinal observé n'est tenue pour cause prouvée**. L'**Arrachement** est le **nom mortel** d'un Cardinal documenté ; il décrit un effet (la rupture observable du Lien) sans en attester la cause.
->
-> Six grandes lectures concurrentes du Cardinal coexistent in-world :
-> - **Lecture Verithane** — l'Étudiant et le Cercle des Huit (ce fichier)
-> - **Lecture Caelumite (Ordo Caelum)** — alignement défavorable des Cardinaux célestes
-> - **Lecture Vael'Kurashe** — retrait d'Arborius / esprits offensés par la saturation du Lien
-> - **Lecture Noctarie** — saturation du Voile, l'invisible débordant le visible
-> - **Lecture Déliée (Catena Fracta proto-)** — chaîne consentie qui s'est libérée d'elle-même
-> - **Scission interne (Verithani schismatiques + lectures orales d'Alkaran)** — convergence de causes sans agent unique
->
-> L'**Étudiant** est ici présenté comme **figure tutélaire / fiction fondatrice Verithane** plutôt que comme acteur historique cosmiquement attesté. Son rituel est un *récit* qui circule dans les corpus Verithani, pas une opération causale documentée par les autres traditions. Le **Cercle des Huit** est de la **matière narrative Verithane non-canonique cosmologiquement** : ces huit profils sont la mémoire que les Verithani transmettent, non un registre d'état civil universel. Les lectures concurrentes ne nomment ni Cercle ni rituel.
-
 ### Les 6 Grands Empires juste avant l'Arrachement (~1 000 → An 0)
 
 | Empire | Territoire | Capitale (ruine aujourd'hui) |
@@ -69,8 +53,6 @@ Elle dirige une pirogue de commerce inter-iles depuis ses 20 ans. A 40 ans, son 
 
 ### Les Grandes Religions
 
-> **Reference complete :** voir [00_Systeme_Religieux.md](Religions/00_Systeme_Religieux.md)
-
 **9 grandes religions :**
 
 | Religion | Origine | Entite(s) veneree(s) | Presence principale |
@@ -91,18 +73,6 @@ Elle dirige une pirogue de commerce inter-iles depuis ses 20 ans. A 40 ans, son 
 |----------|---------|----------------|---------------------|
 | **Les Silencieux** *(Taciti)* | Baelor (~5 000 av.A) | Le Silence (rejet du Lien) | Baelor, Nysaria |
 | **Cantus Mundi** | Evertia (~6 000 av.A) | Cantor | Thalmaris, Seraphia |
-
-> **Note :** La colonne "Entite(s)" inclut des Eternels (Celestia, Noctis, Navigor) et des Cosmiques — les mortels ne distinguent pas ces rangs dans leur culte. Les **Catena Fracta** (Briseurs de Chaines) ne sont pas une religion mais un mouvement politico-philosophique (voir Ere VII).
-
-> [!info] Cohérence avec les schismes religieux documentés
-> Les dates "Origine" du tableau ci-dessus correspondent aux fondations de **traditions ancestrales** (cf. [[_Histoire des Religions]] — Présence Visible, Lumière Ancienne, Choses Cachées, Pacte Mémorisé). Les **schismes formels** documentés à l'approche et après l'An 0 sont les suivants, et tous sont compatibles avec l'état religieux décrit ici :
-> - **Séparation des Étoiles** (~ -1200 S) — *Ignis Aeternum* ↔ *Ordo Caelum* (déjà séparés en Ère III tardive ; cohabitation pacifique attestée)
-> - **Schisme du Vent** (~ -800 S) — *Vael'Kurash* → *Via Ventus* (deux traditions distinctes en Ère III tardive ; tensions résiduelles à Lythar)
-> - **Réforme Loi de Pierre** (~ -500 S) — *Vael'Kurash* → *Lex Petra* (en cours de stabilisation à l'Ère III tardive ; Judicar émerge comme entité juridique)
-> - **Hérésie Foedus Animae** (~ -300 S) — *Rota Mundi* → *Foedus Animae* (tensions actives au moment de l'Arrachement ; reconnaissance partielle suit le Cardinal)
-> - **Embranchement Somnique** (~ -200 S) — *Noctari* → *Somnium Vigil* (séparation amicale en cours au moment de l'Arrachement)
->
-> La présence de toutes ces traditions stabilisées (ou en voie de stabilisation) en Ère III tardive est cohérente avec la généalogie canonique des religions.
 
 #### Portraits des grandes religions en Ere III tardive (~500 av.A)
 
@@ -131,9 +101,6 @@ La Lex Petra venere le Judicar comme l'entite cosmique de la justice et de la lo
 ---
 
 ### Le Premier Delie — Graines de la Chute (~1 100 av.A → An 0)
-
-> [!warning] Récit Verithan
-> La section qui suit présente la **lecture Verithane** de la période Verithan→Étudiant→Cercle des Huit. C'est l'une des six lectures concurrentes du Cardinal de l'Arrachement (cf. cadre canonique en tête de fichier). Les autres traditions ne nomment ni Verithan, ni l'Étudiant, ni le Cercle ; elles décrivent la même rupture observable du Lien à l'An 0 par d'autres causalités. Lue littéralement, cette section est de la **mémoire vive verithane**, pas un compte-rendu cosmologique attesté.
 
 Selon la transmission Verithane, la rupture du Lien aurait pour racine deux figures séparées par un millénaire :
 
@@ -197,18 +164,12 @@ Thyara n'apparait pas dans le Traite du Vide. Elle est mentionnee trois fois dan
 
 **L'Étudiant, l'Exécutant (~120 av.A → An 0)** *(figure tutélaire / fiction fondatrice Verithane)*
 
-> Dans la tradition Verithane, l'Étudiant occupe le rôle de Premier Délié — celui qui aurait accompli ce que Verithan avait écrit. Aucune autre tradition ne le nomme, ne le mentionne, ni ne lui attribue le rituel. Les corpus Verithani le décrivent ainsi :
-
 - Nom réel perdu ; aurait été né à Galenor, Lié de puissance modérée
 - Hérite des textes des Verithani, les prend pour ce qu'ils sont : un plan possible
 - Aurait étudié à l'Académie d'Aethranor et y aurait décrit le concept de **Nœud** (point de connexion sectionnable de l'âme)
 - **~60 av.A** : Banni de l'Académie quand ses recherches sont découvertes *(selon les archives Verithanes ; les registres officiels d'Aethranor sont muets sur ce point)*
 - **~30 av.A** : Forme le Cercle des Huit — récit Verithan transmis sans corroboration externe
 - **An 0** : Aurait accompli le rituel au **Mont Cendra** (Premier Ancrage du monde — la Trame y est la plus dense), sectionnant volontairement son propre Nœud. La vibration se serait propagée à toute la Trame.
-
-> [!note] Ce qui est observable, ce qui est récit
-> **Observable (toutes traditions confondues)** : à l'An 0, le Lien cesse d'opérer simultanément à l'échelle mondiale ; les cités volantes chutent ; les portails se taisent ; les Liés perdent leur connexion. C'est cet effet conjoint qui est nommé *l'Arrachement*.
-> **Récit Verithan (cette section)** : un homme aurait délibérément déclenché cette rupture par un rituel au Mont Cendra. Le Mont Cendra est effectivement entré en éruption à l'An 0 — fait observable —, mais la causation rituel→éruption→rupture relève de la lecture Verithane, pas d'un fait cosmologique établi.
 
 #### L'Etudiant — portrait plus complet
 
@@ -226,9 +187,6 @@ Sa vision de Verithan : il ne partageait pas l'ambivalence du Philosophe. Il ava
 ---
 
 #### Le Cercle des Huit — profils des disciples *(matière narrative Verithane)*
-
-> [!warning] Matière narrative Verithane
-> Le Cercle des Huit est un **élément central de la mémoire Verithane** — pas un registre attesté hors de leurs corpus. Les noms, profils et trajectoires ci-dessous sont **les seuls canoniques pour les usages narratifs Verithani** (cohérence entre récits internes), mais ne valent pas comme fait historique cosmologique. Les autres traditions ne reconnaissent ni ces personnages, ni leur réunion, ni leur rôle.
 
 Selon la transmission Verithane, les 8 disciples auraient été choisis par l'Étudiant pour couvrir l'ensemble des traditions du Lien — chacun pouvant expliquer comment le rituel affecterait sa propre tradition. Le récit insiste sur ce que le Cercle n'est pas : pas des fanatiques, mais des philosophes ayant lu Verithan et conclu qu'il avait raison.
 
@@ -312,9 +270,6 @@ Malgre leurs origines radicalement differentes, les huit membres du Cercle parta
 
 #### Le Jour de l'Arrachement — An 0
 
-> [!info] Reconstruction Verithane des 7 heures
-> La chronologie ci-dessous est la **reconstruction Verithane** d'une journée que toutes les traditions reconnaissent comme charnière. Les **effets observables** (chute des cités volantes, fermeture simultanée des portails, perte du Lien) sont attestés par toutes les chroniques. Le **lien causal** entre le rituel au Mont Cendra et ces effets est, lui, propre à la lecture Verithane. Les autres traditions situent les mêmes faits autrement (alignement céleste pour les Caelumites ; retrait des esprits pour les Vael'Kurashe ; saturation du Voile pour les Noctari ; etc.).
-
 **Les 7 heures, telles que les Verithani les transmettent :**
 À l'aube de l'An 0, l'Étudiant aurait sectionné son Nœud au sommet du Mont Cendra. La vibration aurait commencé à se propager — c'est ainsi que le récit Verithan ouvre la journée.
 
@@ -324,9 +279,6 @@ Malgre leurs origines radicalement differentes, les huit membres du Cercle parta
 - **H3 → H5 :** L'effet atteint tous les continents. Les Liés du monde entier perdent leur connexion — immédiatement pour les plus intégrés au Lien, progressivement pour les moins dépendants. Panique mondiale. Les cités volantes restantes commencent leur chute.
 - **H5 → H7 :** Derniers portails fermés. Derniers Liés déconnectés. Navoria, cité maritime structurée autour du Lien pour ses systèmes hydrauliques, commence à couler. La Thalassocratie de Navoris est engloutie en environ 40 minutes.
 - **H7 :** Le Lien tel qu'il était pratiqué cesse d'opérer. *Observations attestées :* les invocations de **Navigor** ne reçoivent plus de réponse perceptible (les théologies divergent ensuite sur ce que ce silence signifie — retrait, sommeil, redéploiement, ou dissolution dans la Polyphonie). Le culte d'**Eldoria** entre dans une période de silence prolongée que la tradition Ignis Aeternum lit comme un *sommeil* (lecture liturgique, non fait cosmologique). Les rituels de **Tempora** (Rota Mundi) signalent des *anomalies temporelles localisées* dans certaines zones — interprétées par les Rota Mundi comme une *blessure*, par les Caelumites comme une *réadaptation des Cardinaux*, par les Verithani comme une *destabilisation de la Trame*.
-
-> [!note] Sur l'agentivité des Éternels
-> Aucune des affirmations « tel Éternel s'endort / est blessé / disparaît » ne constitue un fait cosmologique attesté. Ce sont des **lectures liturgiques** par des traditions qui interprètent leurs propres observations rituelles. L'**État Éternel** au sens canonique reste celui d'observations + lectures, jamais de causation directe documentée.
 
 **Les chiffres de l'Arrachement :**
 - Population mondiale avant : ~120 millions
@@ -346,9 +298,6 @@ Et quelque part au-dessus du Mont Cendra, une epaisse fumee noire monte vers un 
 
 ### Les six lectures de l'Arrachement
 
-> [!important] Polyphonie des lectures
-> L'Arrachement, comme tout Cardinal observé, donne lieu à plusieurs lectures concurrentes — aucune ne dispose d'une autorité cosmologique supérieure aux autres. Ces lectures se nourrissent les unes des autres, se contestent, et nourrissent les drames religieux et politiques de la Grande Nuit. Aucune ne « ignore délibérément » les autres : chacune **est** sa tradition, lue depuis sa propre cosmologie.
-
 **Lecture Ignis Aeternum (Union des Flammes et héritières) :**
 L'Arrachement est lu comme un *sacrilège* — un acte mortel ayant frappé le cœur du monde. Le silence prolongé d'**Eldoria** est lu liturgiquement comme un *sommeil*. Le Mont Cendra devient un site à *purifier*. La figure de l'Étudiant — quand elle est reconnue, ce qui est rare hors des cercles érudits — est désignée comme criminelle ; les Verithani sont qualifiés de terroristes. Cette lecture domine les territoires de Cendara jusqu'en Ère VII et se concentre sur la dimension liturgique (offense au feu fondateur), laissant à d'autres traditions l'analyse des causes sociales.
 
@@ -367,5 +316,3 @@ L'Arrachement est lu comme la *libération* d'une chaîne consentie. Le Pacte Pr
 **Lecture Verithane et scission interne :**
 La lecture Verithane principale (corpus officiel) maintient que l'Arrachement s'est produit exactement comme Verithan l'avait écrit, et que l'Étudiant en a été l'agent. Une **scission interne** au mouvement Verithan — convergence avec les **traditions orales d'Alkaran** — défend que la rupture aurait eu lieu *avec ou sans l'Étudiant* : la Trame étant arrivée à un point de saturation, n'importe quel acte de rupture suffisamment précis l'aurait déclenchée. Dans cette lecture schismatique, l'Étudiant est un *catalyseur opportun*, pas une cause exclusive — proche de la position que tiendrait Verithan lui-même selon les Verithani de la branche Mirathis.
 
-> [!note] Aucune lecture n'est plus précise qu'une autre
-> Conformément au cadre canonique, ces six lectures coexistent sans hiérarchie de vérité théologique. Elles se distinguent par leurs présupposés cosmologiques (causalité mortelle, causalité céleste, causalité de la Trame, dénouement immanent), pas par leur exactitude descriptive — toutes décrivent les mêmes effets observables.

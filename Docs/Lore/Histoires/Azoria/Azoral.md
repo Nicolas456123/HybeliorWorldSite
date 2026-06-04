@@ -7,13 +7,6 @@ needs_review_for: []
 ---
 # Histoires d'Azoral
 
-> *Chaque port a ses Décomptes. Voici ceux qui ne se publient pas.*
-
-> *Compter, c'est ne pas oublier.*
-> *— Inscription gravée à l'entrée de la salle du Conseil de Bord, Korval, attribuée à Inga Skra-Korval.*
-
----
-
 ## Korval — « La Première Commandait »
 
 Inga Skra-Korval avait perdu trois fils en mer.

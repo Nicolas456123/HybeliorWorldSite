@@ -7,17 +7,6 @@ needs_review_for: []
 ---
 # Celethor — Le Continent des Lectures
 
-> *« Celethor récompense l'audace et enterre les prudents. Seuls ceux qui poussent jusqu'à la limite — de la magie, du froid, de la mer — y trouvent quelque chose qui vaut la peine d'être trouvé. »*
-> — Adage commerçant attribué à un caravanier de Lysorn, an 198
-
-> *« Sur ce continent, on a toutes les méthodes pour savoir, et l'on en a la plus grande peine à apprendre. »*
-> — Marge d'un Veilleur d'Heure d'Astravia, datée +211 du Sillage, archivée à Endora
-
-> *« Quatre nations, quatre raisons d'avoir froid. La cinquième n'a pas de nation, et elle a froid de toutes les manières à la fois. »*
-> — Proverbe de cabaret recueilli à Frostmir, an 233
-
----
-
 ## Vue d'ensemble
 
 Celethor est un continent de **conditions extrêmes** où chaque peuple a, depuis longtemps, développé sa propre **manière de tenir**. Le froid plus durable d'Hybélior, les gisements arcanistiques d'Inverna, les fjords de Kryostra, les vallées-jardins de Ryldor et la longue cicatrice non bornée des Terres Brisées : un même continent porte des paysages qui ailleurs auraient suffi à fonder des continents entiers.

@@ -7,17 +7,6 @@ needs_review_for: []
 ---
 # Pays libres de Kharazir — Le Carrefour des Peuples
 
-> *« Ici, nul dieu ne prime sur l'autre, nulle voix ne s'éteint sans être entendue. Kharazir est la preuve vivante que la liberté se forge dans la diversité. »*
-> — Inscription sur la Porte d'Azur, Rukhsar
-
-> *« On ne déplace pas une armée contre un cartographe. On envoie des hommes de bureau avec des formulaires et un air d'excuse professionnelle. »*
-> — Sorin Valthen, *Cahier I, Murs Jaunes*, an 251
-
-> *« La Charte est sacrée. Les commentaires de la Charte le sont aussi. Les commentaires des commentaires le deviennent en trois générations. »*
-> — Proverbe d'archiviste, Bibliothèques de Kharazir
-
----
-
 ## Informations générales
 
 | | |

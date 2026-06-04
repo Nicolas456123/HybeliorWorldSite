@@ -11,8 +11,6 @@ presence_principale: [Sylthara, Ventera, Elarian, Evertia]
 
 # ⏳ Rota Mundi — Le Cycle Éternel
 
-> *« Rien ne meurt vraiment. Tout attend son tour pour renaître. »*
-
 **Entités vénérées :** Tempora *(Éternel)* · Climata *(Cosmique)* · Fatum *(Cosmique)*
 
 ---

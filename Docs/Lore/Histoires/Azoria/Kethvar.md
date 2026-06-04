@@ -7,13 +7,6 @@ needs_review_for: []
 ---
 # Histoires de Kethvar
 
-> *Chaque guilde a ses anneaux. Voici ceux qui n'ont pas été déposés.*
-
-> *La pierre tient. Les anneaux finissent.*
-> *— Annotation marginale d'un manuel d'apprenti, Vraskvar, an 198.*
-
----
-
 ## Kethdar — « La Fissure aux Anneaux »
 
 Sous le Sanctuaire Central de Kethdar s'ouvre une fissure dans le schiste sacré. La fissure est étroite — pas plus de deux paumes à son embouchure — et profonde au-delà de ce que les paléographes savent mesurer. Elle descend, croit-on, dans des couches géologiques anciennes que la roche-mère du plateau recouvre sans qu'on en sache la limite.

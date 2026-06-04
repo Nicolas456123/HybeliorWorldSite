@@ -7,17 +7,6 @@ needs_review_for: []
 ---
 # Baelor — La Nation du Silence
 
-> *« Le silence est notre prière. Le poing est notre réponse. Nous ne parlons pas parce que les mots sont faibles — nous agissons parce que les actes sont éternels. »*
-> — Inscription gravée à l'entrée du Monastère de Kethros (attribuée au Premier Abbé)
-
-> *« Nous écoutons. Ce que nous entendons ne nous appartient pas. »*
-> — Maître de Discipline anonyme à un novice, formule transmise oralement
-
-> *« Une lamelle scellée est un mot qu'on n'a pas su tuer. »*
-> — Proverbe contesté, attribué tantôt à Hesvar de Tholmë, tantôt à un anonyme du IIe siècle
-
----
-
 ## Informations générales
 
 | | |

@@ -7,10 +7,6 @@ needs_review_for: []
 ---
 # Histoires de Nysaria
 
-> *Chaque ville a ses cicatrices. Voici celles qui ne guérissent jamais.*
-
----
-
 ## Nysoris — « La Bouteille du Capitaine Aldren »
 
 Personne ne croit les morts. C'est la première erreur.

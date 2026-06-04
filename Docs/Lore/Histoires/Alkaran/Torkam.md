@@ -7,10 +7,6 @@ needs_review_for: []
 ---
 # Histoires de Torkam
 
-> *Chaque ville a ses cicatrices. Voici celles qui ne guérissent jamais.*
-
----
-
 ## Lignes structurantes (vue d'ensemble historique)
 
 **Ère pré-unificatrice (~ -500 à -1)** — *Sables Rouges*. Tribus nomades en guerre permanente pour les oasis, les pâturages et les routes caravanières. Treize tribus dans certaines récitations très anciennes ; douze dans toutes les récitations qui suivent l'Unification. La treizième tribu a été *effacée* — non détruite mais retirée de la mémoire orale. Aucune chamane vivante ne connaît son nom.

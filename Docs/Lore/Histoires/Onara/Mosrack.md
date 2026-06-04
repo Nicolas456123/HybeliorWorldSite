@@ -7,10 +7,6 @@ needs_review_for: []
 ---
 # Histoires de Mosrack
 
-> *Mosrack ne batit pas de temples. Il batit des murs. La difference est plus mince qu'on ne le croit.*
-
----
-
 ## Folgrad --- "Le Poids de la Colline"
 
 On raconte que Volkar le Marteau construisit la colline artificielle de Folgrad de ses propres mains, a partir des scories des forges des clans vaincus. Ce n'est pas tout a fait vrai.

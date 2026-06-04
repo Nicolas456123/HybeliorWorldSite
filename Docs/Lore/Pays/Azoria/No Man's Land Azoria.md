@@ -7,17 +7,6 @@ needs_review_for: []
 ---
 # No Man's Land d'Azoria — L'Archipel des Naufragés
 
-> *« Il n'y a pas de loi sur Azoria. Il n'y a pas de roi, pas de dieu, pas d'espoir. Il n'y a que le récif, la faim et le choix : se battre ou mourir. La plupart font les deux. »*
-> — Graffiti gravé sur un rocher du port de Tarnora, daté approximativement de l'an 130
-
-> *« Le récif ne fait pas la différence. »*
-> — Inscription anonyme retrouvée sur les murs d'au moins douze villages de l'archipel ; jamais signée, jamais effacée.
-
-> *« Quand tu n'as plus de loi, tu en inventes une petite. C'est la seule chose que les hommes savent faire avec leurs mains. »*
-> — Maître-charpentier Ervek d'Eldorath, an 218 — phrase reproduite à la marge du livre de bord du village
-
----
-
 ## Informations générales
 
 | | |

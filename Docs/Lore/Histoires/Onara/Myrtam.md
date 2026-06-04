@@ -7,10 +7,6 @@ needs_review_for: []
 ---
 # Histoires de Myrtam
 
-> *Chaque ville a ses cicatrices. Voici celles qui ne guerissent jamais.*
-
----
-
 ## Haliandris — « Ce que le Roi a Vu »
 
 Le jour de son couronnement, Thorvald VIII descendit dans la chambre secrete ou reposait l'Acier Eternel. C'etait le rite — chaque roi de Myrtam devait contempler l'oeuvre de Myr le Fondeur, la lame invincible, le coeur du royaume.

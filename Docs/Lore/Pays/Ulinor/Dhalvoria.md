@@ -8,17 +8,6 @@ needs_review_for: []
 
 # Dhalvoria — Les Vallées en Attente
 
-> *« On ne quitte pas une Veille. On la passe. »*
-> — formule des veilleurs vallons, transmise sans auteur
-
-> *« Mes parents ont veillé. Mes grands-parents ont veillé. Mes arrière-grands-parents ont veillé. Quand je veille, je continue. Quand mes enfants veilleront, ils continueront. À un moment, quelqu'un saura pourquoi. Ce n'est peut-être pas mon tour de le savoir. »*
-> — Therwen de Dhalvora, propos rapportés par un voyageur de Folinor, an 219
-
-> *« La pierre attend. La vallée attend. Les vivants attendent. Les Anciens, eux, ne nous attendent pas. C'est cela, la difficulté. »*
-> — fragment d'un chant dissident, attribué à Welna la Brève, copiste itinérante de Yltarkhen
-
----
-
 ## Vue d'ensemble
 
 Dhalvoria est l'ensemble des **vallées intérieures** qui s'étendent à l'ouest du continent ulinorien, entre les hauts cols qui les séparent de Folinor et la côte rocheuse, peu accessible, qui ferme l'extrémité occidentale de l'archipel principal. Le pays n'est pas une nation au sens où l'entendent les chancelleries du reste d'Hybélior — il n'a pas de capitale unique, pas d'armée, pas de représentation diplomatique extérieure. Il est un **réseau de vallées habitées** unies par une pratique cultuelle commune, **les Veilles**, et par un mythe partagé : les Anciens *dorment* dans les vallées et reviendront.

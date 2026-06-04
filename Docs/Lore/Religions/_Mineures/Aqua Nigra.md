@@ -11,8 +11,6 @@ presence_principale: [côtes Cestra, Azoria abysses]
 
 # 🌊 Aqua Nigra — Le Culte de l'Eau Noire
 
-> *« Aquor sourit. Mais ce qu'il y a sous Aquor ne sourit pas. »*
-
 **Entité vénérée :** Aquor *sous une forme corrompue* — les abysses cachent le « vrai » dieu, qui n'est pas l'Aquor public
 
 ---

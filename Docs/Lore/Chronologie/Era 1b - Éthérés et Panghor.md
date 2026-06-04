@@ -7,24 +7,9 @@ last_review: 2026-05-02
 
 # Ère I — Éthérés, Monts et Panghor
 
-> [!info] Cadre temporel — Avant-Mémoire
-> Cette Ère relève de l'**Avant-Mémoire** (cf. [[Histoire d'Hybelior]] §"Ère Primordiale"). La Fracture du Panghor est l'événement géographique fondateur du monde habitable.
-
-> [!note] Sur les noms d'Éthérés employés dans cette Ère
-> Le canon GDD ([[Cosmologie]] §"Les Éthérés") établit **45 Éthérés** identifiés par leurs noms latins (*Pluvia*, *Nebula*, *Tonitrus*, *Saxum*, *Spelunca*, *Arbor*, *Flos*, *Aranea*…). Les noms employés dans la présente chronique (*Glacien*, *Embrasur*, *Tempestal*, *Marevane*, *Silthor*, *Coralix*, *Selvara*, *Mireille*, *Harmonex*…) sont des **dénominations régionales et anciennes** transmises par les traditions orales de l'Avant-Mémoire — réinscrites par les chroniqueurs des Ères tardives à partir de fragments mythiques. Elles peuvent recouvrir, en partie, des Éthérés canoniques (par exemple, *Glacien* recoupe vraisemblablement *Nix* dans son emprise polaire). Aucun mapping complet n'est tenté ici : la dualité des noms est *normale* dans un monde où les esprits locaux sont nommés différemment selon les peuples, les époques et les langues.
-
-> [!note] Mont Jumeau — statut narratif
-> Le Mont Jumeau est **un élément des traditions orales de Cestra** (notamment la *Légende du Frère Froid*) plus qu'un fait géologique attesté par le canon GDD. Aucune carte vérifiable, aucune expédition documentée n'a confirmé son existence. La présente section traite ce mythe comme une **matière narrative riche** — en cohérence avec le statut de Cestra (*No Man's Land* peuplé de récits divergents) — sans en faire une entité physique canon. Les passages qui semblent affirmer son existence comme fait sont à lire comme **la lecture cosmologique des traditions cestariennes**, et non comme une vérité observée.
-
 ### Le Mont Originel et le Mont Jumeau
 
 Le premier point d'ancrage physique du monde, dans les chroniques les plus anciennes, est le **Mont Originel** — pic de roche pure émergeant du chaos primordial. Selon la lecture cosmologique dominante (issue des cercles érudits de Cendara et reprise par l'*Ignis Aeternum*), il se serait formé *parce qu'Eldoria existe* : la matière cosmique se serait concentrée aux endroits où la résonance des Éternels était la plus forte. Le Mont Originel est aujourd'hui identifié au **Mont Cendra** — le seul des deux monts dont l'existence est attestée et observable.
-
-> [!info] Lecture vs observation
-> Le Mont Cendra est observé : pic volcanique majeur, pulsations rapportées (~10 000-10 200 ap.A, Ère VII). L'identification *Mont Cendra = Mont Originel d'Eldoria* est une **lecture cendarienne** ancienne, partagée mais non démontrée. D'autres traditions y voient un volcan particulièrement puissant sans charge cosmologique singulière.
-
-> [!note] Flamara — figure rumorale
-> **Flamara** est une figure récurrente des récits cendariens et des prophéties de l'*Ignis Aeternum*, présentée comme une présence ardente associée au Mont Cendra. Elle **n'apparaît pas dans le canon des entités d'Hybelior** ([[Cosmologie]] : 5 Éternels, 12 Cosmiques, 21 Célestes, 31 Astraux, 45 Éthérés). Les passages ci-dessous qui décrivent ses actions reflètent la **lecture cendarienne** de phénomènes observés (volcanisme du Mont Cendra, pulsations). Plusieurs interprétations sont possibles : pour les fidèles d'*Ignis Aeternum*, Flamara est une manifestation locale d'Eldoria ou une émanation héritée d'un Cosmique du feu ; pour les observateurs sceptiques (érudits de Lumasar, Déliés), c'est une personnification mythique des forces volcaniques. Ce qui suit est rapporté *comme on raconte un récit fondateur*, non comme un fait cosmologique avéré.
 
 Un second pic, le **Mont Jumeau**, est mentionné dans les traditions orales de Cestra comme le *Frère Froid* — pôle énergétique opposé du Mont Originel, situé de l'autre côté du futur Panghor. Aucune carte vérifiable, aucune observation directe ne le confirme : c'est un **objet de récit**, repris ici parce que sa cohérence symbolique structure une partie de la cosmologie populaire. Selon ces récits :
 
@@ -60,9 +45,6 @@ La stratigraphie du Mont Cendra est documentée par les forages, les éruptions 
 - *Pour l'Étudiant (Ère III-IV) :* Il choisit le Mont Cendra pour l'Arrachement précisément parce que, dans la lecture qu'il en fait, couper la Trame *ici* c'est couper à la source. Son acte est calculé jusque dans le lieu choisi.
 
 **Le Mont Jumeau — un mythe structurant**
-
-> [!info] Statut narratif
-> Le Mont Jumeau est un objet de **récit**, non d'observation. Aucune carte vérifiée, aucune expédition documentée n'en a confirmé l'existence. Les éléments qui suivent rapportent **ce que les traditions disent** du Mont Jumeau, et non ce qui a été vu.
 
 - Selon les traditions de Cestra, le Mont Jumeau aurait émergé bien après le Mont Originel — non par une volonté divine, mais par une réaction géologique : la concentration d'énergie au Mont Originel aurait créé une *tension* dans la croûte du Panghor, trouvant son exutoire à l'opposé géographique du continent.
 - Symétrie symbolique : si le Mont Originel concentrerait le feu (Flamara, dans la lecture cendarienne) et la matière dense (Eldoria), le Mont Jumeau concentrerait le froid et la profondeur. *Glacien* et *Abyssus* (selon les nomenclatures régionales) y seraient associés. Les récits décrivent une roche blanche, presque translucide, comme de la glace minérale — description **purement narrative**, jamais confrontée à un échantillon.
@@ -107,8 +89,6 @@ Les Etheres sont souvent decrits comme des "dieux mineurs" dans les traditions r
 
 #### Liste des 45 Etheres (25 detailles)
 
-> Les noms en *italique* suivis de `[?]` sont mentionnes mais non encore developpes dans le lore.
-
 | # | Nom | Parents | Domaine precis | Lieu d'installation sur le Panghor |
 |---|-----|---------|----------------|-------------------------------------|
 | 1 | **Glacien** | Climata x Aquor | Glaces permanentes, glaciers | Region polaire nord du Panghor (futur Cestra) |
@@ -138,16 +118,6 @@ Les Etheres sont souvent decrits comme des "dieux mineurs" dans les traditions r
 | 25 | **Harmonex** | Cantor x Aerion | Sons du vent, musiques naturelles, resonances | Gorges, canyons, vallees (futur Nysaria) |
 
 ---
-
-> **Note — Les 45 Éthérés et les 20 non détaillés**
-> Les sources anciennes évoquent environ 45 Éthérés au total. Les 20 non détaillés ici sont des entités mineures, nées des unions secondaires entre Cosmiques, dont l'influence sur le monde mortel est restée négligeable. Certains n'ont peut-être existé que brièvement avant de se fondre dans les flux élémentaires de leurs parents.
->
-> Parmi ces entités mineures se trouvent notamment :
-> - **Verdis** *(domaine probable : végétation basse, mousses, lichens — lien avec Arborius)* — présence diffuse sur les terres tempérées, aucune interaction mortelle documentée
-> - **Sanavir** *(domaine probable : eaux guérisseuses, sources minérales — lien avec Aquor)* — certaines sources thermales d'Evertia lui sont peut-être attribuables, mais Geysar en revendique la plupart
-> - **Pathis** *(domaine probable : chemins, routes naturelles, cols de montagne — lien avec Terranu et Aerion)* — son influence expliquerait pourquoi certains cols montagneux "s'ouvrent" intuitivement aux voyageurs
-> - **Memoria** *(domaine probable : échos, résonances du passé — lien avec Somnix et Terranu)* — les grottes qui "parlent" du passé à ceux qui y méditent sont peut-être son œuvre plutôt que celle de Selvara
-> - **Obscuris** *(domaine probable : ombres, zones de pénombre permanente — lien avec Noctis et Terranu)* — distinct d'Abyssus (qui est lié aux fonds marins) ; Obscuris serait l'entité des ombres terrestres et des forêts sans lumière
 
 ---
 
@@ -357,13 +327,10 @@ Les 45 Éthérés, en s'installant chacun dans leur zone, créent des tensions g
 #### Ce que les mortels croient sur la Fracture — Mythes et recits fondateurs
 
 **La Legende du Bris (tradition orale des Marcheurs de Cendre, Ere II, reconstituee Ere V)**
-> Au commencement il y avait une seule terre. Tous les etres vivaient ensemble et ne savaient pas que les autres etaient differents. Puis les dieux du feu et les dieux de la pierre se disputerent. La dispute fut si grande que la terre se fendit. Les etres qui etaient proches du feu allerent d'un cote. Les etres qui aimaient la pierre allerent de l'autre. Et la mer s'installa entre eux pour que la dispute cesse. Mais ils continuerent a se souvenir l'un de l'autre, et c'est pourquoi les peuples du feu et les peuples de la pierre se combattirent pendant des millenaires quand ils se retrouverent — parce que la dispute n'avait jamais vraiment pris fin.
 
 **La Theorie des Ponts (texte academique de Lumasar, Ere III)**
-> Les geologues de l'Ere III, en reconstituant la Fracture du Panghor a partir de l'analyse des formations rocheuses des 13 continents, deduisent l'existence d'au moins 14 "ponts terrestres" qui reliaient les masses avant la Fracture. Ces ponts sont aujourd'hui sous l'ocean — mais a certains endroits (entre Alkaran et Galenor, entre Ulinor et Onara), le fond marin est suffisamment peu profond pour que les recifs coraliens et les hauts-fonds indiquent encore la presence de l'ancienne route. Des expeditions de l'Ere VI tentent de suivre ces routes sous-marines et trouvent des formations rocheuses travaillees par des entites non-mortelles — peut-etre des Etheres, peut-etre quelque chose de plus ancien.
 
 **Les Ruines Panghoriques (enjeu actif en Ere VII)**
-> L'idee que des ruines du Panghor (anterieures a toute presence mortelle) existent sous les oceans et sous les formations geologiques des 13 continents est connue depuis l'Ere III. Ce qui est debattu : ces "ruines" sont-elles des formations naturelles (comme les cristaux de Luminarc dans les cavernes d'Alkaran) ou des structures deliberees creees par les Etheres eux-memes ? Plusieurs Delies de l'Ere VII affirment que les Etheres *ont construit* des structures sur le Panghor — des ancres energetiques, des relais de la Trame du Lien — et que ces structures existent encore, parsemees dans les sous-sols et les fonds oceaniques. Retrouver ces ancres pourrait etre une cle pour retendre la Trame sans avoir a retrouver Navigor. C'est l'un des programmes de recherche les plus secrets (et les plus finances) de l'Ere VII.
 
 ---
 

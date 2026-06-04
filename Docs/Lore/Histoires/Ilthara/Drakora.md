@@ -7,10 +7,6 @@ needs_review_for: []
 ---
 # Histoires de Drakora
 
-> *Chaque ville a ses cicatrices. Voici celles qui ne guerissent jamais.*
-
----
-
 ## Myrthorin -- "Le Deuil de la Reine"
 
 La Reine Syraeth ne pleurait jamais. C'etait un fait connu de tout Drakora -- une femme de fer et de flamme, Liee a Voldrax depuis l'age de seize ans, invaincue en duel aerien, inflexible dans son autorite. Les rochers des montagnes de Myrtheria avaient plus de chance de verser des larmes que Syraeth.

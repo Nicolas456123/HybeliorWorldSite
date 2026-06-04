@@ -7,11 +7,6 @@ needs_review_for: []
 ---
 # Warenthor — Le Royaume de la Jungle Éveillée
 
-> *« En Warenthor, la jungle ne dort jamais. Chaque liane observe, chaque racine écoute, et les esprits jugent ceux qui osent marcher sous leur canopée. »*
-> — Chant des Marcheurs de Warenthor
-
----
-
 ## Informations générales
 
 | | |

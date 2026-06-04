@@ -7,14 +7,6 @@ needs_review_for: []
 ---
 # Nysaria — Le Continent des Voiles
 
-> *« Sur Nysaria, on n'écrit pas trois langues parce qu'on a trois peuples. On en écrit trois parce qu'on a trois manières de ne pas tout dire. »*
-> — Marge anonyme d'un portulan thalmarien, copié à Nectoria, daté approximatif
-
-> *« Une nation se reconnaît à ce qu'elle voile. Trois nations dans un même horizon — trois voiles différents, et le problème commence quand l'un croit lire l'autre. »*
-> — Erud Valyrian, *Notes de marge sur les nations cousines*, fragment conservé à Thalmaris
-
----
-
 ## Vue d'ensemble
 
 Le continent que les cartographes appellent **Nysaria** ne se réduit pas, dans les portulans à jour, à l'île éponyme. Le terme désigne, selon l'usage thalmarien adopté par la plupart des cartographies modernes, l'archipel septentrional composé de **trois nations cousines mais non confédérées** — **Vytharia** au nord-est, **Lunasar** au nord-ouest, **Mirathi** au centre des hauts plateaux — auxquelles s'ajoute, séparément et en marge, l'**île de Nysaria** elle-même, dont le statut administratif demeure, dans les chroniqueries continentales, irréductible à toute classification ordinaire.

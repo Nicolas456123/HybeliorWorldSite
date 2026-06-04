@@ -7,17 +7,6 @@ needs_review_for: []
 ---
 # Solena — L'Empire des Horizons
 
-> *« La mer ne nous appartient pas. Nous lui appartenons. Et elle nous a appris que derrière chaque horizon se cache un autre horizon. »*
-> — Amiral Etheira la Grande, fondatrice de la flotte de Solena
-
-> *« Retournez. »*
-> — Annotation finale de la carte interdite d'Etheira la Grande, Guilde des Cartographes, Oranthor
-
-> *« Ceux qui font les voiles ne sont pas ceux qui naviguent. »*
-> — Oswin de Thalnor (qui n'est pas solénien — mais dont la phrase a été reprise par les ouvriers d'Yltheris contre les familles amirales)
-
----
-
 ## Informations générales
 
 | | |

@@ -7,17 +7,6 @@ needs_review_for: []
 ---
 # Altram — Le Trône de Fer et de Pierre
 
-> *« En Altram, on ne naît pas forgeron — on le devient dans la douleur, le feu et l'acier. »*
-> — Proverbe d'Altram, attribution flottante (le maître-forgeron qui prétend l'avoir formulé varie selon l'atelier où l'on demande)
-
-> *« On a renversé Korvath avec un marteau. Voilà pourquoi nous gardons les marteaux. Pas pour les utiliser — pour qu'on n'oublie pas qu'on l'a fait. »*
-> — Theron l'Enclume, fondateur de la Monarchie Éclairée, parole rapportée trois siècles après sa mort par un greffier de Trelios qui n'en garantissait pas la véracité
-
-> *« Le Conseil des Maîtres ne décide rien. Il ratifie ce que les ateliers ont déjà décidé. Et les ateliers ratifient ce que les pères avaient décidé. C'est ce qu'on appelle, ici, l'éclairement. »*
-> — Marge d'un cahier de comptable de Roseltar, an 247
-
----
-
 ## Informations générales
 
 | | |

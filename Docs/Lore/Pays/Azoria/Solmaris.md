@@ -7,17 +7,6 @@ needs_review_for: []
 ---
 # Solmaris — L'Archipel du Soleil Court
 
-> *« Le soleil revient. Ça ne veut pas dire qu'il revient pour toi. »*
-> — Salutation des Veilleurs solaires de Solnir, encore en usage en l'an 251
-
-> *« Quatre mois pour vivre, huit pour attendre. C'est un calcul. »*
-> — Adage des îles, attribué à un capitaine d'estive, Velmaris, an 178
-
-> *« Le Retour est sûr. C'est nous qui ne le sommes pas. »*
-> — Liturgie de la Veillée du Premier Rayon, Temple du Cycle d'Astralis
-
----
-
 ## Informations générales
 
 | | |

@@ -7,10 +7,6 @@ needs_review_for: []
 ---
 # Histoires d'Altram
 
-> *Chaque ville a ses cicatrices. Voici celles qui ne guérissent jamais.*
-
----
-
 ## Lignes structurantes (vue d'ensemble historique)
 
 Pour les rédacteurs et les voyageurs qui veulent une chronologie d'Altram avant de descendre dans les histoires de villes.

@@ -7,17 +7,6 @@ needs_review_for: []
 ---
 # UlinorPays — L'Archipel des Voix Oubliées
 
-> *« Pose ton oreille contre la roche, étranger. Ce que tu y entendras — ou ce que tu n'entendras pas — les Écho-Guides sauront le lire. Selon eux, le chant est une acceptation. Le silence, dans leur lecture, demande prudence. »*
-> — proverbe tribal de Jentar, transmis par les Écho-Guides
-
-> *« Ma Pierre de Mémoire pèse dans ma poche depuis cinquante ans. Je ne la sens plus. J'ai cessé de la sentir vers la trentaine. Je ne sais pas si c'est elle qui s'est allégée, ou moi qui me suis épaissi. »*
-> — confidence d'une potière de Nylorin à un voyageur, transcrite dans une marge
-
-> *« Ce que les Anciens ont gravé, nous l'écoutons. Ce qu'ils n'ont pas gravé, nous l'inventons en disant que nous l'écoutons. La différence ne se voit pas, sauf chez celui qui le fait. »*
-> — fragment d'une note d'Écho-Guide retrouvée à Xerathis, attribution refusée par sa tribu
-
----
-
 ## Informations générales
 
 | | |

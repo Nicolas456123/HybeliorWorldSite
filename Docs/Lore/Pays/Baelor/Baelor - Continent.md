@@ -7,14 +7,6 @@ needs_review_for: []
 ---
 # Baelor — L'Île du Silence
 
-> *« Ceux qui cherchent le bruit n'y trouvent que le vent et la mer. Ceux qui cherchent le silence y trouvent tout le reste. »*
-> — Inscription sur la falaise nord, datée d'avant la fondation de Baeloris
-
-> *« Nous n'avons pas choisi de nous taire. Nous avons obéi à ce que nous avions entendu. »*
-> — Marge anonyme d'un parchemin enluminé du cloître de Velkadra, ~ an 200
-
----
-
 ## Vue d'ensemble
 
 Baelor est un continent d'une seule nation, et c'est là sa première étrangeté. Là où Galenor entasse sept peuples, là où Endora superpose des nations qui s'observent et se contredisent, Baelor n'a qu'un seul peuple, une seule langue, une seule règle, une seule réponse à la même question. Le reste du monde le décrit volontiers comme une *anomalie* — une terre qui n'aurait pas suivi les règles ordinaires de la fragmentation politique. Les habitants n'utilisent pas ce mot. Pour eux, l'unité de l'île n'est ni un choix ni un exploit : c'est ce que la géographie et l'écoute imposent à qui vit ici.

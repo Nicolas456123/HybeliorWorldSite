@@ -7,10 +7,6 @@ needs_review_for: []
 ---
 # Ilthara — Le Grand Continent
 
-> *« Ilthara n'est pas un monde — c'est plusieurs mondes posés l'un contre l'autre, qui ont appris, tant bien que mal, à coexister. »*
-
----
-
 ## Vue d'ensemble
 
 Ilthara est le plus grand continent d'Hybelior. À lui seul, il réunit huit nations aux identités aussi radicalement différentes qu'une jungle tropicale et une chaîne de montagnes cristallines peuvent l'être. Des jungles éveillées de Warenthor aux plaines de rêve de Vytharia, des bibliothèques de cristal de Gryndor aux steppes infinies de Lythar, Ilthara est un concentré du monde.

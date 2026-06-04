@@ -7,17 +7,6 @@ needs_review_for: []
 ---
 # Ryldor — La Vallée Surveillée
 
-> *« La maladie n'est pas un ennemi — c'est un message. Le corps souffre quand l'esprit s'égare, et l'esprit s'égare quand l'âme oublie ses racines. Guérir, c'est se souvenir de qui l'on est. »*
-> — Grand Chaman Thyros, Patriarche de Ryldor, an 248
-
-> *« La paix est une condition médicale. Faldoris la produit. Nous ne savons pas comment. »*
-> — Aldren, Grand Chaman, archives du Cercle, daté an 192
-
-> *« Ryldara avait raison d'être là. Elle avait tort de se taire. Je ne sais toujours pas quoi faire de cette information. Puisses-tu trouver mieux. »*
-> — Thyros, carnet personnel, daté an 246, adressé à son successeur encore non identifié
-
----
-
 ## Informations générales
 
 | | |

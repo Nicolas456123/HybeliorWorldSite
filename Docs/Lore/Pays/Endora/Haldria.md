@@ -7,17 +7,6 @@ needs_review_for: []
 ---
 # Haldria — Le Royaume des Étoiles et des Marées
 
-> *« En Haldria, on ne navigue pas à l'aveugle — les étoiles parlent à ceux qui savent écouter, et la mer obéit à ceux qui les comprennent. »*
-> — Capitaine Aldoria, Flotte de la Constellation d'Argent
-
-> *« Nous regardons depuis cinq cents ans le point où Haldros a vu. La constellation, depuis, n'a pas reparu. La table, depuis, ne s'est pas tue. »*
-> — Marge anonyme dans un cahier d'apprenti astronome, archives de l'Observatoire Royal, an 207
-
-> *« Ce que Sylveira a trouvé au-delà des Brumes, le royaume l'attend depuis cinq siècles. Personne n'a pensé à demander si elle était revenue. »*
-> — Carnet d'un cartographe de Tyrolis, jamais publié
-
----
-
 ## Informations générales
 
 | | |

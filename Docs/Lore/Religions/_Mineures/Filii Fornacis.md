@@ -11,12 +11,7 @@ presence_principale: [Altram, Iskara, Mosrack]
 
 # 🔨 Filii Fornacis — Les Enfants de la Forge
 
-> *« Avant les dieux, il y avait le métal. Avant le métal, il y avait celui qui le travaille. »*
-
 **Entité vénérée :** **Ferros** *(siège Éthéré — forge et métal — cf. [[../../../GDD/17 - Cosmologie]] §"Sièges Éthérés")*
-
-> [!important] Ferros est un siège Éthéré
-> Ferros est un **siège Éthéré** dans le canon GDD/17 — domaine "forge et métal". Statut "à définir" (siège vacant ou occupé). Les Filii Fornacis vénèrent un **siège**, pas un Cosmique. C'est une distinction importante : leur dieu est par nature **accessible aux mortels d'exception** (puisque les sièges Éthérés peuvent être occupés par un mortel).
 
 ---
 

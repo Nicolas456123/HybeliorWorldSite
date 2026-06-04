@@ -7,13 +7,6 @@ needs_review_for: []
 ---
 # Histoires de Lumasar
 
-> *Chaque ville a ses cicatrices. Voici celles qui ne guérissent jamais.*
-
-> *Lumasar a institué le voir au-delà. Elle a oublié, en chemin, que regarder ce qu'on voit déjà est un travail aussi.*
-> *— Marge anonyme, archives de Drethorn, env. an 240.*
-
----
-
 ## Prismalith — « L'Archimage qui Dort »
 
 Quarante-sept ans. C'est le temps que Selendris passait chaque jour auprès du corps immobile de son père.

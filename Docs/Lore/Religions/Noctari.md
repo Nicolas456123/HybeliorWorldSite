@@ -11,8 +11,6 @@ presence_principale: [Vytharia, Nysaria, Avalor]
 
 # 🌑 Noctari — Le Voile des Ombres
 
-> *« La lumière montre ce que l'on veut voir. L'ombre révèle ce qui est vraiment là. »*
-
 **Entités vénérées :** Noctis *(Éternel)* · Umbra *(Céleste)* · Umbralis *(Céleste)*
 
 ---

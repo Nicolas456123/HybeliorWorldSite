@@ -11,8 +11,6 @@ presence_principale: [Cendara, Pyrtara, Myrtam]
 
 # 🔥 Ignis Aeternum — La Flamme Éternelle
 
-> *« Avant le monde, il y avait la flamme. Après le monde, il y aura la flamme. »*
-
 **Entité vénérée :** Eldoria *(Éternelle)* — vénérée localement sous le nom de **Flamara**, qui est en réalité une rumeur populaire et non un Cosmique canonique (cf. D-COSMO-4, [[Era 1a - Les Cosmiques]] §"Reclassement des entités héritées").
 
 ---

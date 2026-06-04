@@ -6,23 +6,6 @@ cadre_interne_note: "Vue d'ensemble — chaque religion individuelle porte son p
 
 # 🛐 Système Religieux d'Hybelior
 
-> *« Chaque peuple a nommé les mêmes forces autrement. Aucun n'a tout à fait tort. Aucun n'a tout à fait raison. »*
-> — Arcana, Archiviste des Arcanes
-
-> [!info] Pour la généalogie complète
-> Cet article décrit les religions **telles qu'elles se vivent aujourd'hui** : doctrines, pratiques, lieux, clergés. Pour la **généalogie** des traditions ancestrales, les schismes documentés, les filiations entre religions et la cartographie des quatre traditions sources, voir [[_Histoire des Religions]].
-
----
-
-> [!important] Principe fondamental
-> Les religions d'Hybelior sont des **interprétations culturelles** de forces cosmiques que personne — ni les fidèles, ni les sceptiques — ne saisit dans son intégralité.
-> Les mortels ont perçu des forces qui les dépassent et les ont nommées, ritualisées, adorées — chaque tradition selon ses outils, ses biais, son histoire.
->
-> **Aucune religion ne détient la vérité complète, et il n'y a pas de hiérarchie absolue de justesse.** Chaque tradition voit le monde depuis un angle ; aucune ne voit tout. Là où les doctrines se contredisent, ce sont rarement des erreurs simples, plutôt des **lectures concurrentes** d'un même phénomène.
-> Le joueur découvre progressivement les lectures multiples à travers le lore ambiant — sans qu'aucune voix narrative ne lui dise « voici la bonne ».
-
----
-
 ## Vue d'ensemble
 
 ### 9 grandes religions

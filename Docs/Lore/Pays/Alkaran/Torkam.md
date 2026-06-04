@@ -7,17 +7,6 @@ needs_review_for: []
 ---
 # Torkam — Les Sables de l'Esprit
 
-> *« Nous n'avons pas de murs parce que nous n'avons pas besoin de murs. Le désert est notre forteresse, et les esprits sont nos sentinelles. »*
-> — Yalka, Grande Chamane de Torkam (env. an 80, parole reprise depuis comme proverbe d'identité par les tribus)
-
-> *« Tant qu'un nom est dit, l'âme tient. Et ce qui tient nourrit ceux qui le tiennent. C'est la chose qu'aucun chaman ne formule, et que toute famille riche sait. »*
-> — Marge anonyme d'un *aide-mémoire* d'Olkanoris, an 224
-
-> *« Recite les noms, pas les histoires. Les histoires changent. Les noms, non. »*
-> — Mirhan, dernier mot consigné par son apprentie Seyda, an 198
-
----
-
 ## Informations générales
 
 | | |

@@ -8,9 +8,6 @@ needs_review_for: [validation-narrative-V4]
 
 # Ère III — Le Lien et les Empires
 
-> [!info] Cadre temporel — calendrier hybride (D-COSMO-1)
-> Cette Ère couvre l'Âge du Lien (~20 000 → An 0). Sa première moitié relève de la **Mémoire d'Astravie** (datations mythifiées). Sa fin (~3000 → An 0) recoupe la chronologie GDD/24 (« Ère de l'Alliance » + « Ère des Trois Royaumes » + « Ère du Grand Silence »). Les **3 royaumes canoniques GDD** (Veshrim, Othen-Cael, Seraïth) émergent vers ~-3000 du Sillage et coexistent avec les empires Lore antérieurs en se superposant à eux selon les régions.
-
 ## ERE III — L'AGE DU LIEN (~20 000 → An 0)
 
 ### La Decouverte du Lien (~20 000 av.A)

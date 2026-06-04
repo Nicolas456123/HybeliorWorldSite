@@ -7,14 +7,6 @@ needs_review_for: []
 ---
 # Mirathi — Le Sanctuaire des Oracles
 
-> *« Ne demandez pas combien de temps dure le cycle. Demandez plutôt où nous en sommes. »*
-> — Voix du Haut-Fond, à un visiteur de Galenor, an 252
-
-> *« Mirathi n'est pas une ville. C'est un village qui a fini par se mettre au service de quelque chose. La différence se voit dans les voisins — pas dans le bâti. »*
-> — Marge anonyme d'un cahier de cartographe, déposée à Lunaris
-
----
-
 ## Informations générales
 
 | | |

@@ -7,17 +7,6 @@ needs_review_for: []
 ---
 # Azoria — Le Continent des Glaces Éternelles
 
-> *« On ne s'établit pas en Azoria. On s'y maintient. La nuance est tout. »*
-> — Marge d'un journal de bord récupéré sur une épave échouée à Tarnora, an 184
-
-> *« Sous la glace dorment des cités. Au-dessus de la glace, nous dormons aussi. La différence, c'est que les cités, elles, ne se réveillent plus. »*
-> — Sermon mineur d'un prêtre de l'Ordo Caelum, recopié dans les marges d'un Recensement de Duskoris, env. an 217
-
-> *« En Azoria, le silence n'est pas une absence. C'est la voix du monde entre deux mots. »*
-> — Proverbe attribué tantôt à Caeloria, tantôt à Azoral, sans qu'aucun des deux ne le revendique formellement.
-
----
-
 ## Vue d'ensemble
 
 Azoria est le continent austère par excellence d'Hybélior. Cinq nations se le partagent — l'une organisée à l'extrême (Caeloria), trois maritimes et rivales (Azoral, Kethvar, Solmaris), une cinquième qui n'en est pas une (le No Man's Land, archipel d'épaves vivantes). Ces cinq présences cohabitent sans qu'aucun cadre supranational n'ait jamais émergé : ici, ce qui unit est moins fort que ce qui sépare, et ce qui sépare — la calotte centrale, les vents catabatiques, la nuit qui dure des semaines — n'a pas demandé l'avis des hommes pour s'imposer.

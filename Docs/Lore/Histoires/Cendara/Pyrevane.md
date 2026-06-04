@@ -7,12 +7,6 @@ needs_review_for: []
 ---
 # Histoires de Pyrevane — La Théocratie des Sept Feux
 
-> *Frapper bien. Frapper longtemps. Frapper en silence quand on n'a plus rien à dire.*
-
-> *Ces histoires ont en commun un trait que les Forge-Liturgies ne mentionnent pas : aucune ne se termine en Réveil. Elles se terminent en cendre, en compromis, en dilution ou en fuite. Ce sont les histoires que Pyrevane raconte à ses enfants sous la voix basse, après que les apprentis sont couchés.*
-
----
-
 ## Pyrevane-Mère — « La Pierre où Tessar a parlé »
 
 La pierre est en plein milieu de la nef de la Forge-Temple Centrale. Une dalle rectangulaire de basalte, légèrement plus large que les autres, gravée d'une étoile à sept branches usée par sept mille ans de pas. C'est sur cette pierre qu'on se tient pour officier — c'est la place du prêcheur. Tous les Maîtres y sont passés. Tous les Ignitari ordonnés y sont passés au moins une fois dans leur vie, le jour de leur Sceau.

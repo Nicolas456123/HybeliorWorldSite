@@ -8,9 +8,6 @@ needs_review_for: [validation-narrative-V4]
 
 # Ère II — Le Grand Gel et la Reconstruction
 
-> [!info] Cadre temporel — Mémoire d'Astravie
-> Cette Ère relève de la **Mémoire d'Astravie** (cf. [[Histoire d'Hybelior]]). Le Grand Gel est observé comme un cycle long de refroidissement planétaire ; les chroniques d'Astravie l'associent à la voie de Climata (cf. [[Era 1a - Les Cosmiques]] §Climata) sans en faire une cause directe — d'autres traditions y lisent un mouvement naturel du monde, une transition de Polyphonie cosmique, ou une épreuve attribuée selon les religions à différentes voix éternelles.
-
 ### LE GRAND GEL — 1ere quasi-extinction (~30 000 av.A)
 
 Le monde entre dans un cycle long de refroidissement. Selon le *Rota Mundi*, c'est un mouvement où la voie de **Climata** prédomine dans la Polyphonie ; selon les *Vael'Kurash*, c'est un retournement naturel des saisons longues qui ne demande pas d'interprétation théologique ; selon une part des survivants des Voix-sous-Bois, c'est un *deuil du monde* dont la cause exacte échappe. Les chroniques s'accordent sur les phénomènes observés ; elles divergent sur ce qu'il convient d'en lire.

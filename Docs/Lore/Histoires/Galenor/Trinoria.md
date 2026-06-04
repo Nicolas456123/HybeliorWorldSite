@@ -7,13 +7,6 @@ needs_review_for: []
 ---
 # Histoires de Trinoria
 
-> *Chaque ville a ses cicatrices. Voici celles qui ne guérissent jamais.*
-
-> *« Les esprits ne meurent pas. C'est ce que nous disons. C'est aussi pourquoi nous n'apprenons jamais à les pleurer. »*
-> *— Marge anonyme, atelier de Talvoria, env. an 200.*
-
----
-
 ## Gyndor --- "La Chasse qui N'eut Pas Lieu"
 
 Le seigneur Mael avait organise la Grande Chasse de Gyndor depuis quarante ans, chaque printemps. Une tradition. Un rite. Le cerf blanc de la foret de Nalithos etait la proie symbolique --- jamais vraiment traque, jamais vraiment tue, juste presente pour que la chasse ait un objectif.

@@ -7,13 +7,6 @@ needs_review_for: []
 ---
 # Histoires de Lunasar
 
-> *Chaque ville a ses cicatrices. Voici celles qui ne guérissent jamais.*
-
-> *« Les Lunariens ne pleurent pas leurs morts à l'enterrement. Ils les pleurent à la nouvelle lune suivante, quand on ne peut rien décider de neuf. À ce moment-là, la perte n'est plus une tâche à laquelle on s'arrache — c'est une eau qu'on laisse couler. »*
-> — Marge anonyme d'un cahier d'auberge, Sondaris, an 248
-
----
-
 ## Lunaris — « Les Tables qui Ne Disent Rien »
 
 Solvanes n'avait pas toujours été Solvanes. À soixante ans, après trente années de service comme Veilleur de lune, il avait pris l'habitude qu'on ait pour lui — l'habitude qu'on a pour les vieux d'une nation qui mesure le temps en cycles plutôt qu'en années. Mais à cinquante ans, il avait porté une autre habitude.

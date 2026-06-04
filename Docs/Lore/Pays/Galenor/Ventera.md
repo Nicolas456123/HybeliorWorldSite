@@ -7,17 +7,6 @@ needs_review_for: []
 ---
 # Ventera — Le Royaume des Cavaliers du Vent
 
-> *« Un Ventérien sans monture est un oiseau sans ailes. Nous ne chevauchons pas pour voyager — nous chevauchons pour vivre. »*
-> — Roi-Cavalier Theron III, lors du Festival des Vents
-
-> *« Le coucher suit le lever. Honorer l'un sans l'autre, c'est honorer la moitié du cycle. »*
-> — Lyrin de Soltharis, lors de sa Première Chevauchée inversée, an 174
-
-> *« Patience. La même patience qu'il m'a fallu pour accepter de ne plus courir. »*
-> — Mira d'Ultharia, à un élève, an 251
-
----
-
 ## Informations générales
 
 | | |

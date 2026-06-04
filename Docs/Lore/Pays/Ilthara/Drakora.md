@@ -7,11 +7,6 @@ needs_review_for: []
 ---
 # Drakora — Le Trône des Flammes Draconiques
 
-> *« En Drakora, les faibles servent. Les forts commandent. Et les dragons jugent. »*
-> — Serment du Lien, prononcé par chaque aspirant draconique
-
----
-
 ## Informations générales
 
 | | |

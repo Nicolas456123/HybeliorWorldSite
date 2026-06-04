@@ -7,10 +7,6 @@ needs_review_for: []
 ---
 # Histoires d'Ackerna
 
-> *Chaque ville a ses cicatrices. Voici celles qui ne guerissent jamais.*
-
----
-
 ## AckernaVille -- "L'Enfant Sans Arbre"
 
 Ils planterent sept graines. Sept fois, la terre les recracha.

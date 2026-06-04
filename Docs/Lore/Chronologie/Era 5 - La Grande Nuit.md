@@ -8,40 +8,6 @@ needs_review_for: [scission-V4, souffles-passés-Q-LC-003]
 
 # Ère V — La Grande Nuit
 
-> [!important] Cadre canonique (refonte 2026-05-02)
-> La **Grande Nuit** est le nom mortel donné à l'Ère qui suit immédiatement le Cardinal de l'Arrachement (cf. [[Era 4 - L'Arrachement]]). Le terme désigne ce qui a été *vécu et rapporté* par les survivants et leurs descendants — un long obscurcissement, une raréfaction des présences Éternelles, des décennies puis des siècles de recomposition — sans préjuger des causes cosmiques.
->
-> Le présent document recense les phénomènes observés et les lectures qu'en ont produites les chroniqueurs des traditions concernées (Verithani, Caelumites, Vael'Kurash, Noctari, Déliés, scissions internes). Aucun acte mortel n'a, dans ce cadre, causé d'événement cosmique majeur. Les récits qui personnalisent l'Ère ou qui attribuent des intentions causales aux Éternels (silence-trahison, sommeil-blessure, etc.) sont des **lectures théologiques** rapportées comme telles, jamais comme faits canoniques.
->
-> Le cadre cosmologique reste celui du **Pacte Primordial** entre les 5 Éternels et de la **Polyphonie cosmique émergente** ([[Univers#Le Pacte Primordial]] · [[Le Souffle]]).
-
-> [!info] Calendrier hybride (D-COSMO-1)
-> Cette Ère couvre les ~3 000 ans qui suivent l'Arrachement dans la **Mémoire d'Astravie**. Dans le calendrier GDD/24, ces 3 000 ans s'inscrivent dans la longue durée historique entre l'Arrachement (-250 du Sillage / fin Ère du Grand Silence) et le présent (an 251 du Sillage) — la majeure partie de cette durée n'est pas vécue par les Témoins actuels et relève d'une histoire profonde que les civilisations actuelles n'ont pas conservée. Vue depuis le Sillage, l'Ère V Lore est une **strate géologique de civilisation** plutôt qu'une mémoire historique.
-
-> [!important] Trajectoire démographique de l'Ère V — quatre phases
-> L'Ère V n'est pas un long déclin linéaire ; les chroniques croisées font émerger **quatre phases démographiques distinctes** que ce document détaille en sections séparées (Premières Décennies, Royaumes Intermédiaires, Fléau des Failles, Transition vers l'Ère VI) :
->
-> 1. **Phase 1 — Choc immédiat (An 0 → ~50 ap.A)** : effondrement post-Arrachement de **~90M → ~70M** (famines, épidémies, guerres de prédation) — détaillé en *Premières Décennies*.
-> 2. **Phase 2 — Stabilisation longue (~50 → ~1 400 ap.A)** : population maintenue autour de **~60-70M**, légère contraction tendancielle (érosion lente plutôt que crise aiguë). Période d'émergence des royaumes intermédiaires.
-> 3. **Phase 3 — Quasi-extinction par le Fléau (~1 400 → ~1 600 ap.A)** : passage de **~30M → ~18M** (mortalité estimée à ~40% sur deux siècles), Tisses spécifiquement décimés (~150 000 → ~200-300 survivants). La chute de 70M à 30M sur la période ~200-1 400 ap.A traduit l'érosion cumulative de la phase 2 et n'est pas attribuable à un événement unique — détaillé en *Fléau des Failles*.
-> 4. **Phase 4 — Recovery lente (~1 600 → ~3 000 ap.A)** : remontée timide vers ~18M à la transition Ère VI, consolidation des royaumes intermédiaires et amorce d'une économie interrégionale.
->
-> Les chiffres sont des estimations de chroniques croisées (Tharnok, Gryndor, Verithani Endeuilles), avec marges d'erreur significatives. La trajectoire d'ensemble — pas les chiffres exacts — est consensuelle entre traditions.
-
-> [!note] Le « Fléau des Failles » comme troisième phase d'un même phénomène
-> Plusieurs traditions (Rota Mundi notamment) lisent le Fléau des Failles comme la **troisième phase** d'un même phénomène temporel s'étirant sur près de trois Ères. Dans cette lecture en trois phases :
-> - **Phase 1 — Fracture de Tempora** (~-1 500 av.A, Ère III tardive) : première blessure observée du flux temporel local, observatoires astravins consignent des anomalies isolées.
-> - **Phase 2 — Arrachement** (An 0, Ère IV) : intensification cardinale, ouverture massive de Failles statiques, perte du Lien tel qu'on le connaissait.
-> - **Phase 3 — Fléau des Failles** (~1 400-1 600 ap.A, Ère V) : les Failles deviennent **mobiles** et **létales**, frappant spécifiquement les Tisses.
->
-> Cette lecture en trois phases est dominante chez Rota Mundi et largement reprise par les ordres verithanis. **Les autres traditions divergent** : Vael'Kurash voit trois modulations distinctes d'une même voix recomposée (sans hiérarchie de gravité) ; Caelumites lisent une trace continue de l'**Étranger des Heures** plutôt que trois événements ; Foedus Animae parle d'une *résonance des âmes* dont les Failles ne seraient qu'un symptôme local ; Déliés y voient trois manifestations d'une même fissure de la prison consentie. Aucune lecture ne fait autorité ; la classification en « phases » est elle-même une construction interprétative.
-
-> [!warning] Scission recommandée pour V4
-> Ce fichier couvre plusieurs sujets thématiques distincts : Premières décennies / Vie quotidienne / Fléau des Failles / Royaumes intermédiaires (Tharnok, Forgon, Drahk'Nor) / Faune-flore / Cultes / Seigneuries / Transition. V4 devrait scinder en `Era 5 - La Grande Nuit/` (sous-dossier) avec un fichier de TOC à la racine.
-
-> [!note] Souffles passés (Q-LC-003) à intégrer en V4
-> GDD/24 cite plusieurs **Petits Souffles emblématiques** survenus dans cette période ou avant — ils ne sont pas encore documentés dans l'Era 5 actuel. À ajouter en V4 : Souffle des Cendres Tièdes (-47 du Sillage / fin Grand Silence) — pluies de cendres tièdes pendant 6 mois, naissance de l'agriculture cendarienne moderne. Voir GDD/24 §"Détail des Petits Souffles marquants".
-
 ## ERE V — LA GRANDE NUIT (An 0 → ~3 000 ap.A)
 
 ### Les Premieres Decennies (An 0 → ~200 ap.A)

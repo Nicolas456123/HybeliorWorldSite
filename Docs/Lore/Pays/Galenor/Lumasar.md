@@ -7,17 +7,6 @@ needs_review_for: []
 ---
 # Lumasar — Le Royaume des Rêves Éveillés
 
-> *« La réalité n'est qu'un voile. À Lumasar, nous apprenons à regarder au travers. »*
-> — Archimage Velestrin, Recteur de l'Académie de Prismalith
-
-> *« Nous étions, voyez-vous, parfaitement disposés à publier votre rapport. La règle, malheureusement, était claire. »*
-> — Verian Soth, Premier Lecteur, à Sorin Valthen, Académie d'Invorial, an 251
-
-> *« Ce qu'on cherche dans le rêve s'éloigne. Ce qui s'approche, on n'a pas pensé à le chercher. »*
-> — Marge d'un cahier de candidat recalé, archives de Drethorn, anonyme
-
----
-
 ## Informations générales
 
 | | |

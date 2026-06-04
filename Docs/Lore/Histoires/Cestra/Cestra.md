@@ -7,12 +7,6 @@ needs_review_for: []
 ---
 # Histoires de Cestra
 
-> *Chaque ville a ses cicatrices. Voici celles qui ne guérissent jamais.*
-
-> *Cestra n'a pas de villes. Elle a des passages, des disparitions, et quelques noms que les cartographes inscrivent au registre minimal du Conseil de Noravia. Les histoires qui suivent ne se déroulent pas à Cestra ; elles se déroulent au seuil. Au-delà, il n'y a plus de témoin pour raconter.*
-
----
-
 ## L'Expédition Valkren — *« Ce que Garde le Froid »*
 
 Le dernier journal retrouvé de l'expédition Valkren comprend dix-sept feuillets. Les quatorze premiers sont des notes de terrain ordinaires : températures, distances, observations géologiques. Le quinzième est illisible. Le seizième est une seule phrase répétée soixante fois.

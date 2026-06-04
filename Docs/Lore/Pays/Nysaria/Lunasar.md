@@ -7,14 +7,6 @@ needs_review_for: []
 ---
 # Lunasar — La Monarchie Lunaire
 
-> *« Rien ne presse autant que la lune. Si quelque chose presse davantage, c'est que quelque chose a mal été anticipé. »*
-> — Réponse traditionnelle d'un Veilleur de lune à un visiteur étranger
-
-> *« Trois siècles de tableaux, et nous n'avons toujours pas trouvé la cause. Mais nous avons cessé de la chercher comme s'il s'agissait d'une chose à trouver. »*
-> — Solvanes, dans une lettre à un correspondant haldrien, an 247
-
----
-
 ## Informations générales
 
 | | |

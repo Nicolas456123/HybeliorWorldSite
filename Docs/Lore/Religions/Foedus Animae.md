@@ -11,8 +11,6 @@ presence_principale: [Torkam, Skaldoria, Alkaran, Ulinor]
 
 # 💀 Foedus Animae — Le Pacte des Âmes
 
-> *« Les morts ne partent pas. Ils attendent que tu les appelles. »*
-
 **Entités vénérées :** Anima *(Céleste)* · Mentor *(Astral)* · Ancestralis *(Astral)*
 
 ---

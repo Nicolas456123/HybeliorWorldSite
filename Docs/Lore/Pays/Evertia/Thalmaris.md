@@ -7,14 +7,6 @@ needs_review_for: []
 ---
 # Thalmaris — Le Chant des Anciens
 
-> *« Là où d'autres brandissent des épées, nous brandissons des mots. Là où d'autres construisent des murs, nous composons des vers. Car une chanson bien chantée peut abattre un empire — et un récit bien raconté peut en fonder un nouveau. »*
-> — Reine-Barde Elyndra III, Souveraine de Thalmaris (mère et prédécesseuse d'Aelorys IV)
-
-> *« Le Cantus Mundi n'est pas une prière. C'est une conversation avec ce qui ne parle pas en mots. »*
-> — Maître Voix Selendir Vorn, Premier Canteur de Thalmaris (formulation reprise par Voix-de-Pierre lors de la visite de Sorin Valthen, ch. 31)
-
----
-
 ## Informations générales
 
 | | |

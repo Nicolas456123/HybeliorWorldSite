@@ -7,17 +7,6 @@ needs_review_for: []
 ---
 # Skaldoria — Les Fjords de Sang et de Givre
 
-> *« Un Skaldorien ne meurt pas. Il rejoint la tempête. »*
-> — chant funéraire clanique
-
-> *« Crie leur nom plus fort. Ils dorment plus loin. »*
-> — dicton du Clan du Loup, transmis aux jeunes guerriers avant la première bataille
-
-> *« J'ai entendu mon père quand je l'ai appelé. Mon grand-père aussi. Mon arrière-grand-père, je ne sais plus si je l'entends ou si je l'invente. Je continue à crier son nom. »*
-> — Vidar Trois-Hivers, du Clan de l'Ours, propos rapporté par un Skald de passage à Skaldris
-
----
-
 ## Informations générales
 
 | | |

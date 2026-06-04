@@ -7,10 +7,6 @@ needs_review_for: []
 ---
 # Histoires de Noravia
 
-> *Une colonie qui tient quatre siècles dans un lieu où personne ne tient. Voici les gestes brefs qui l'ont permis.*
-
----
-
 ## La Fondation — *« Nous prévoyions d'y mourir tranquilles »*
 
 Le récit fondateur de Noravia, tel qu'il est transmis oralement dans la colonie depuis quatre siècles, ne fait pas l'objet d'un livre. Il est dit aux veillées, en partie par les Foedus minoritaires (qui en consignent les morts), en partie par les non-Liés (qui en consignent les outils). Le récit complet n'existe nulle part par écrit. Ce qui suit est la version la plus stable, recoupée par les rares voyageurs lettrés ayant séjourné assez longtemps pour la recueillir.

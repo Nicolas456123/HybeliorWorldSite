@@ -7,17 +7,6 @@ needs_review_for: []
 ---
 # Alkaran — Le Royaume des Anciens Esprits
 
-> *« Alkaran ne nourrit pas ses enfants. Il les forge. »*
-> — Proverbe attribué aux mineurs d'Altram, et que les Torkamites tiennent pour une absurdité de sédentaires.
-
-> *« Tout ce qui dure assez longtemps se confond avec l'éternel. C'est ce qui rend les esprits si patients. C'est ce qui rend les hommes si imprudents. »*
-> — Marge d'un *Carnet de Selvara* recopié dans une lignée Vael'Kari des hautes terres, an 248
-
-> *« Quatre rois, et pas un qui sache ce que fait son voisin. C'est, à ce qu'on dit, l'unité d'Alkaran. »*
-> — Sorin Valthen, *Cahier II, Acier Éternel*, an 252
-
----
-
 ## Vue d'ensemble
 
 Alkaran est un continent de contrastes violents : volcans encore actifs au sud-ouest crachant cendres et lave, chaînes glaciales au nord-est balayées par des vents qui hurlent des semaines entières, vallées de roche noire entre les deux où des peuples ont appris à survivre par le métier, le serment et l'écoute des morts. La douceur n'y est pas absente — elle s'y mérite. Personne, en dehors d'Alkaran, ne dit que les Alkarans sont *gentils*. Personne, en dehors d'Alkaran, ne comprend non plus pourquoi ils tiennent, génération après génération, dans des lieux que les voyageurs trouvent invivables.

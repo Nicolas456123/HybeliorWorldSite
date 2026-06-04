@@ -7,10 +7,6 @@ needs_review_for: []
 ---
 # Histoires de Ferrath
 
-> *Chaque ville a ses cicatrices. Voici celles qui ne guérissent jamais. Et celles qui se sont tues — qui sont, à Ferrath, plus nombreuses que les autres.*
-
----
-
 ## Lignes structurantes (vue d'ensemble historique)
 
 **Ère pré-sécessionniste (~ -1500 à +60)** — vallées d'Alkaran central peuplées par des communautés de mineurs. Vassalité notionnelle envers Altram. Les chefs de mine paient le tribut, vaguement, et continuent leur travail.

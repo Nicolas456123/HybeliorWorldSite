@@ -7,10 +7,6 @@ needs_review_for: []
 ---
 # Histoires de Ryldor
 
-> *Chaque ville a ses cicatrices. Voici celles qui ne guérissent jamais. Et celles que le Cercle des Guérisseurs surveille deux fois par an, en silence, dans une cave que personne d'autre ne descend visiter.*
-
----
-
 ## Ryldaris — « Ce que Ryldara Ne Dit Pas »
 
 Les archives de Ryldaris racontent comment Ryldara choisit l'emplacement de la capitale. Elles expliquent la cartographie du Fléau, les zones de moindre virulence, la logique médicale qui guidait chaque décision.

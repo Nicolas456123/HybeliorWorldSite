@@ -7,13 +7,6 @@ needs_review_for: []
 ---
 # Histoires de Sanvara
 
-> *Chaque caravansérail a ses cicatrices. Voici celles qui ne se trouvent pas dans les registres officiels.*
-
-> *Sanvara a institué l'arbitrage. Elle a oublié, en chemin, qu'arbitrer toujours par renvoi finit par revenir à n'avoir jamais tranché.*
-> *— Marge anonyme, archives de Ket-Anvel, env. an 226.*
-
----
-
 ## Soltarin — « Andival, qui rendit la question »
 
 Andival naquit à Khessit en l'an 161, dans une famille de Lecteurs de Saison vael'kurashe. Sa mère lisait les puits ; son père lisait les saisons ; sa grand-mère avait formé trois générations de Lecteurs. Andival aurait dû reprendre le flambeau familial. Il choisit autre chose.

@@ -7,10 +7,6 @@ needs_review_for: []
 ---
 # Histoires d'Astravia
 
-> *Chaque ville a ses cicatrices. Voici celles qui ne guérissent jamais. Et celles que la Bibliothèque-Mère a soigneusement classées pour qu'elles n'aient pas l'air d'en être.*
-
----
-
 ## Invernis — « La Ville qui Grandit vers le Bas »
 
 Quand les premiers mages arrivèrent dans la vallée d'Inverna, Invernis existait déjà. Des marchands, des artisans, des fermiers. Une ville ordinaire qui avait choisi cet endroit pour la même raison que toutes les villes ordinaires choisissent leurs emplacements : les montagnes protégeaient du vent.

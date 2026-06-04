@@ -7,10 +7,6 @@ needs_review_for: []
 ---
 # Histoires d'Evertia
 
-> *Chaque ville a ses cicatrices. Voici celles qui ne guérissent jamais.*
-
----
-
 ## Note d'écriture (interne, ne pas afficher in-world)
 
 Les histoires qui suivent forment, ensemble, un portrait du paradis qui *consomme l'invisible*. Aucune ne formule le pattern. Toutes le manifestent par leurs conséquences : Vaelyndra qui ne sait plus distinguer son corps du système qui la maintient, Lorien qui refuse plutôt que de dire, Sylas qui descend pour rien, Ysma qui pleure de peur, Thalwen bannie pour avoir cessé de mentir, Nohla qui sait sans pouvoir parler, Verdhen qui doute mais obéit, Yrel qui a sauvé le village au prix de son frère, Mahel qui consigne sans publier, Andar qui veille la Cloche qui commence à vibrer seule, Miriel qui voit son reflet ne plus correspondre, Flamis qui regarde mourir les Phénix, Ellara qui rapporte des coraux qui parlent, Theron qui ne peut plus écrire le nom d'Iven, Yssen qui voit les cerfs pleurer, Lyssara qui tisse un message qu'elle n'a pas choisi.

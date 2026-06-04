@@ -7,14 +7,6 @@ needs_review_for: []
 ---
 # Galenor — Le Jardin des Titans
 
-> *« Sept nations, sept certitudes. Aucune ne se tait. Aucune ne s'écoute. C'est, dit-on, l'équilibre. »*
-> — Marge d'un carnet de voyage anonyme, retrouvé à Rukhsar, an 224
-
-> *« On dit que les Titans sont tombés ici parce qu'ils s'étaient eux-mêmes pétrifiés. Nous, leurs descendants, n'avons retenu que la pétrification. »*
-> — Sermon mineur d'un prêtre Roteri à Astralon, env. an 200
-
----
-
 ## Vue d'ensemble
 
 Galenor est le continent le plus hétérogène d'Hybélior. Ses territoires s'étendent des côtes venteuses du nord aux forêts méridionales, des cités marchandes aux villages de montagne isolés. Aucun empire n'a jamais réussi à unifier Galenor — et les Galenoriens semblent s'en accommoder, sinon s'en glorifier.

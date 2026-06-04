@@ -8,9 +8,6 @@ needs_review_for: [validation-narrative-V4]
 
 # Ère II — Les Cinq Berceaux
 
-> [!info] Cadre temporel — Mémoire d'Astravie
-> Cette Ère relève de la **Mémoire d'Astravie** (cf. [[Histoire d'Hybelior]]). Datations mythifiées — les Astraviens situent le Premier Don autour de cette période, mais les autres traditions ont leurs propres calendriers.
-
 ## ERE II — L'EVEIL DES MORTELS (~45 000 → ~20 000 av.A)
 
 ### Les premieres ames (~45 000 av.A)

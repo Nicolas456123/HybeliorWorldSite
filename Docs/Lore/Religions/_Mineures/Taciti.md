@@ -11,8 +11,6 @@ presence_principale: [Baelor, Nysaria]
 
 # 🤫 Taciti — Les Silencieux
 
-> *« La voix du divin ne peut être entendue que dans le silence absolu. Parler, c'est s'aveugler. »*
-
 **Entité vénérée :** Aucune divinité nommée — le Silence lui-même est sacré
 
 ---

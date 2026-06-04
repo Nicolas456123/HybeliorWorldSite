@@ -7,10 +7,6 @@ needs_review_for: []
 ---
 # Histoires de Pyrtara
 
-> *Chaque ville a ses cicatrices. Voici celles qui ne guerissent jamais.*
-
----
-
 ## Ilyndar -- "L'Areniere"
 
 On ne connait pas le vrai nom de la femme qui changea la succession de Pyrtara. On l'appelle simplement l'Areniere, car l'Arene des Cendres fut le seul endroit ou elle vecut vraiment.

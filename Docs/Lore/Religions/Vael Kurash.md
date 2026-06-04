@@ -11,8 +11,6 @@ presence_principale: [Alkaran, Ilthara, Ulinor]
 
 # 🌿 Vael Kurash — Le Culte des Esprits Anciens
 
-> *« La montagne respire. La rivière pense. La forêt se souvient. »*
-
 **Entités vénérées :** Spiritus (Cosmique de Phase 3) · Arborius (Céleste depuis D-COSMO-4 ; auparavant classé Cosmique dans le Lore antérieur)
 
 ---

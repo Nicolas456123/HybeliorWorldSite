@@ -11,22 +11,6 @@ presence_principale: [Kharazir, Haldria, Endrath, Altram, Drakora]
 
 # 🚫 Catena Fracta — Les Briseurs de Chaînes
 
-> *« La chaîne est la chose. Briser la chaîne, c'est libérer le monde. »*
-
-> [!note] Statut ambigu (Q-LC-014)
-> Catena Fracta est techniquement classée comme « religion mineure / hérésie » dans GDD/20 §religions, mais sa nature est plus proche d'un **mouvement politico-philosophique** que d'une religion structurée. Elle se réclame de l'héritage de Verithan (cf. [[../../Chronologie/Era 3a - Le Lien et les Empires]]) — donc d'une **philosophie**, pas d'un culte. Elle ne vénère **aucune entité cosmique** — au contraire, elle les **dénonce comme oppresseurs**. Décision de classement à arbitrer en V4.
-
-> [!important] Portée non-cosmique du mouvement
-> Malgré sa rhétorique anti-cosmique virulente, Catena Fracta est un **acteur politique et idéologique** — pas un acteur cosmique. Le mouvement ne dispose d'aucune capacité à blesser, contraindre ou affecter un Éternel ou un Cosmique. La menace qu'il représente est **mortelle** (assassinats, sabotages, conversions) mais **terrestre**.
->
-> - Le **sevrage** prêché par les Persuadeurs et Coupeurs est un **rituel personnel et psychologique** ; il s'accompagne de quelques effets magiques mineurs, souvent auto-destructeurs, mais ne confère aucun pouvoir cosmique réel.
-> - Le **« Délié Primordial »** parfois invoqué dans les chants de cellule est une **figure tutélaire / fiction fondatrice** — pas un acteur historique attesté. Les chroniqueurs des temples le considèrent comme une figuration mythologique de Verithan radicalisé, pas comme une entité ayant existé.
-
-> [!warning] Antagonistes scriptés gameplay
-> Les Catena Fracta sont les **antagonistes principaux** du jeu. Cf. [[../../../GDD/20 - Le Souffle]] pour le canon gameplay sur les Déliés.
-
----
-
 ## Origine et lignée
 
 > [!warning] Position hors-tradition

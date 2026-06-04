@@ -7,14 +7,6 @@ needs_review_for: []
 ---
 # Sylvara — La Forêt qui Tient
 
-> *« Nous ne gouvernons pas la forêt. Nous nous tenons droits dedans, et c'est notre métier. »*
-> — Eilenne aux Mains Brunes, attribuée à la fondation du Pacte (sept générations avant 252)
-
-> *« Le Maître Voix dit que l'arbre change. Nous, on saigne plus. »*
-> — Marvet, saigneur de la rive sud, à Sorin Valthen (Sorin ch. 31)
-
----
-
 ## Informations générales
 
 | | |

@@ -7,10 +7,6 @@ needs_review_for: []
 ---
 # Histoires de Tyndara
 
-> *La mer prend tout et rend tout. Les marchands de Tyndara ont appris a negocier avec elle.*
-
----
-
 ## Fablioris --- "L'Ile et le Roi qui ne dormait plus"
 
 On ne raconte pas souvent cette histoire parce qu'elle dit quelque chose d'inconfortable sur le pouvoir.

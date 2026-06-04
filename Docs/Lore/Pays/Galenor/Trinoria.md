@@ -7,17 +7,6 @@ needs_review_for: []
 ---
 # Trinoria — Le Royaume des Mille Flèches
 
-> *« Un Trinorien ne vise jamais deux fois. La première flèche porte le jugement, la seconde ne serait que gaspillage. »*
-> — Maître-Archer Gyndaris, commandant de la Garde Sylvestre
-
-> *« Un cartographe doit savoir quand il ne sait pas. »*
-> — Yrath-le-Vieux-Père, druide de Velathor, à Sorin Valthen, an 251
-
-> *« Les esprits ne meurent pas. C'est ce que nous disons. C'est aussi pourquoi nous n'apprenons jamais à les pleurer. »*
-> — Marge anonyme, atelier de Talvoria, env. an 200
-
----
-
 ## Informations générales
 
 | | |

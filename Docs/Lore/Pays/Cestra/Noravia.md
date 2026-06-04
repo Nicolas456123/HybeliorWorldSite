@@ -8,17 +8,6 @@ needs_review_for: [datations-précises, démographie-fine]
 
 # Noravia — La Colonie qui Tient
 
-> *« On ne s'établit pas à Noravia. On s'y maintient. C'est différent. »*
-> — Adage de la communauté
-
-> *« Trois hivers. Pas pour vous éprouver. Pour que vous ayez le temps de vouloir partir, et le temps d'avoir échoué à partir. Après cela, vous comprenez où vous êtes. »*
-> — Hesgarn la Sage, lors d'un entretien avec un cartographe non identifié, an 230 du Sillage
-
-> *« Ce n'est pas que nous refusions. C'est que nous ne pouvons pas. La distinction compte beaucoup, ici. »*
-> — formule recurrente du Conseil de Maintien aux émissaires extérieurs
-
----
-
 ## Vue d'ensemble
 
 Noravia est, selon les chroniques disponibles, la **seule colonie stable** de [[Cestra - Continent|Cestra]]. Fondée vers ~8 100 ap.A en bordure du Bastion du Nord, elle occupe une bande côtière étroite que les vents et les courants permettent d'accoster une partie de l'année. Sa population reste modeste — on parle de quelques centaines d'habitants au total — et ses bâtiments combinent pierre côtière, bois de pin nordique et os de grandes créatures marines.

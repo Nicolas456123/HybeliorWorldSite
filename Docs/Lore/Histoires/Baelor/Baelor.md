@@ -7,10 +7,6 @@ needs_review_for: []
 ---
 # Histoires de Baelor
 
-> *Chaque cloître a ses cicatrices. Les nôtres sont scellées dans des lamelles que personne n'ouvre.*
-
----
-
 ## Baeloris — « Le Murmure du Traître »
 
 Frère Ossian avait prononcé son dernier mot le jour de ses sept ans. Sa mère, en pleurs, l'avait confié aux moines de Baeloris en suppliant qu'ils prennent soin de lui. Ossian n'avait pas regardé en arrière. Il avait rejoint le silence comme on rejoint la mer — avec une certitude absolue.

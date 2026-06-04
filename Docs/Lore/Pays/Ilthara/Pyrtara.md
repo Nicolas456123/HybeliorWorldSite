@@ -7,11 +7,6 @@ needs_review_for: []
 ---
 # Pyrtara — Le Royaume des Cendres Ardentes
 
-> *« À Pyrtara, on ne craint pas le volcan — on le respecte. Celui qui oublie la différence finit en cendres. »*
-> — Commandant Velkris, Première Légion de Pyrtara
-
----
-
 ## Informations générales
 
 | | |

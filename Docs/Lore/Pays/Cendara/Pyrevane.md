@@ -7,17 +7,6 @@ needs_review_for: []
 ---
 # Pyrevane — La Théocratie des Sept Feux
 
-> *« Ce qui n'a pas brûlé n'a pas encore été. Ce qui n'a pas refondu n'a pas encore servi. La flamme attend ce qui hésite. Elle reprendra ce que tu lui rendras. »*
-> — Forge-Liturgie de Pyrevane, refrain du sixième feu
-
-> *« Il y a sept calderas. Il y a sept Feux. Il y a sept manières de tenir. Toutes les sept obéissent à la même main, qui est la flamme. »*
-> — Inscription sur la porte du Conseil des Sept Feux, Pyrevane-Mère
-
-> *« Frères, j'ai écouté soixante-trois pulsations là-dessous. Je ne sais plus si elles annoncent un réveil ou si elles disent : voici comment je dors. »*
-> — Tessar Veynd, dit le Cendreux, *Discours de la Cendre Patiente*, an Sillage 121, sermon non copié dans les recueils officiels
-
----
-
 ## Informations générales
 
 | | |

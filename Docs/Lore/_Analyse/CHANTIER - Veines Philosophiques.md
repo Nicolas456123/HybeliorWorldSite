@@ -8,12 +8,6 @@ tags: [chantier, lore, philosophie, narration, patterns, infusion]
 
 # 🌿 CHANTIER — Veines Philosophiques d'Hybélior
 
-> **Document-maître.** Plan de travail complet pour infuser une philosophie morale exigeante dans la trame du Lore Hybélior, sans jamais que cette philosophie soit explicitée in-world ni in-doc. Conçu pour pouvoir être repris d'une session de travail à l'autre, ou par une autre instance d'assistance.
-
-> ⚠️ **Règle d'or** : aucune source extérieure, aucun auteur, aucun nom de livre n'est cité dans le lore ni dans la doc. Toute la philosophie est présentée comme un système narratif **interne à Hybélior**, avec son lexique propre. Le chantier lui-même n'expose pas ses sources : on travaille avec les concepts, pas avec leurs origines.
-
----
-
 ## 1. Pourquoi ce chantier
 
 Hybélior est déjà un monde travaillé. Mais ses récits actuels — chroniques de Sorin, religions, histoires de nations — sont **descriptifs** : ils racontent ce qui se passe. Le chantier ajoute une couche **morale et structurelle** invisible : chaque destin individuel et chaque trajectoire collective porte une **veine philosophique** précise, qui se révèle à la longue lecture sans jamais être prêchée.

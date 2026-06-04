@@ -7,17 +7,6 @@ needs_review_for: []
 ---
 # Kethvar — La Confédération des Guildes Givrées
 
-> *« Ce qui se grave dans la glace ne se relit pas — sauf par le froid. »*
-> — Sentence anonyme, Tribunal de Pierre de Kethdar, an 178
-
-> *« Un anneau ne s'enlève qu'à la main qui meurt. Et encore — pas toujours. »*
-> — Proverbe d'apprenti, forges de Vraskvar
-
-> *« La Conclave a délibéré une nuit. Le Code dit qu'elle a délibéré une lune. La pierre, elle, sait combien de temps elle a attendu. »*
-> — Annotation marginale d'un manuel d'apprentissage Petrani, copie de l'an 224
-
----
-
 ## Informations générales
 
 | | |

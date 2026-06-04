@@ -7,11 +7,6 @@ needs_review_for: []
 ---
 # Sylthara — Le Grenier d'Or d'Ilthara
 
-> *« En Sylthara, on ne conquiert pas la terre — on la remercie. Et la terre, en retour, ne nous trahit jamais. »*
-> — Proverbe des Semeurs de Sylthara
-
----
-
 ## Informations générales
 
 | | |

@@ -7,13 +7,6 @@ needs_review_for: []
 ---
 # Histoires de Solmaris
 
-> *Chaque île a ses Cahiers. Voici ceux qui se comparent en silence.*
-
-> *Le soleil revient. Ça ne veut pas dire qu'il revient pour toi.*
-> *— Salutation des Veilleurs solaires de Solnir, encore en usage en l'an 251.*
-
----
-
 ## Astralis — « La Première Veillée »
 
 L'an 0 du Sillage actuel s'achevait. Le Grand Silence qui avait suivi l'Arrachement était entré dans sa vingtième année. Sur les îles solmariennes — qui ne s'appelaient pas encore Solmaris —, les pêcheurs des tièdes avaient passé l'hiver précédent dans une angoisse particulière : les Cahiers de Saisons (alors tenus oralement, par certaines familles) indiquaient que le Premier Rayon de l'année à venir devrait revenir à l'heure prévue par les calendriers anciens — *si l'Arrachement n'avait pas tout brisé*.

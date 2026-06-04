@@ -7,17 +7,6 @@ needs_review_for: []
 ---
 # Iskara — La Porte de Fer
 
-> *« Un mur peut être brisé. Une montagne peut être creusée. Mais la volonté d'Iskara est forgée dans le fer et le feu — elle ne plie jamais. »*
-> — Maréchal Valdrik, Commandant suprême de la Porte de Fer (parole gravée à l'entrée de l'Académie de Valyria, an 184)
-
-> *« Vous êtes libres de revenir. Nous serons là. »*
-> — Inscription gravée par la reine Yrelda la Forgée à la fin du siège, an 38
-
-> *« Quand on a passé un siècle à attendre un ennemi, on finit par confondre la garde et la vie. »*
-> — Frère Kelryn, moine-juge de Morvalis, propos privé recueilli après son retrait, an 247
-
----
-
 ## Informations générales
 
 | | |

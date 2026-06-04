@@ -7,17 +7,6 @@ needs_review_for: []
 ---
 # Arkhen — La Confédération de la Cendre Froide
 
-> *« La flamme dort. La cendre veille. »*
-> — Proverbe arkhenien, attesté dans tous les ports d'Aïkhar
-
-> *« Nous ne sommes pas la nation qui frappe. Nous sommes celle qui balaye. C'est aussi un métier. »*
-> — Khessa-aux-Mains-Calmes, forgeronne de Khoram, an 218
-
-> *« Tu rends la cendre où tu as pris la flamme. »*
-> — Parole funéraire commune, jamais récitée par un Refondeur
-
----
-
 ## Informations générales
 
 | | |

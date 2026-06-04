@@ -7,13 +7,6 @@ needs_review_for: []
 ---
 # Histoires du No Man's Land d'Azoria
 
-> *Chaque ville a ses cicatrices. Voici celles qui ne guérissent jamais.*
-
-> *Le récif ne fait pas la différence.*
-> *— Inscription anonyme retrouvée sur les murs d'au moins douze villages de l'archipel.*
-
----
-
 ## Tarnora — « La Lassitude du Capitaine »
 
 Le capitaine Vorn ne cherchait pas à fonder une ville.

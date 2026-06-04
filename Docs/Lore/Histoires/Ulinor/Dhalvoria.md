@@ -7,13 +7,6 @@ needs_review_for: []
 ---
 # Histoires de Dhalvoria
 
-> *Chaque vallée a ses cicatrices. Voici celles qui ne guérissent pas — non parce qu'elles saignent encore, mais parce que personne, ici, n'a jamais admis qu'elles étaient des cicatrices.*
-
-> *« Une Veille n'a pas de fin. Elle a une suite. »*
-> — formule attribuée à Therwen de Dhalvora, transmise sans contexte précis
-
----
-
 ## Dhalvora — « La Place où Personne ne Regarde »
 
 La Place des Stèles compte vingt-trois plaques gravées sur moins d'un hectare. C'est, selon les chants, la plus haute densité de pierres parlantes de toutes les vallées. Aucune fenêtre des maisons de Dhalvora ne donne directement sur la Place. La règle n'est écrite nulle part. Elle tient.

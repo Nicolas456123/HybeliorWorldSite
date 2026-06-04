@@ -8,11 +8,6 @@ needs_review_for: [validation-narrative-V4]
 
 # Ère I — Les 12 Cosmiques
 
-> [!info] Référence canonique
-> Ce fichier est aligné sur la liste canonique des 12 Cosmiques définie par [[Cosmologie]] (GDD). Les entités citées en Lore antérieurement (Flamara, Arborius, Cantor, Somnix, Transitum) ont été reclassées : voir §"Reclassement des entités héritées" en bas de page.
-
----
-
 ## Cadre temporel — Mémoire d'Astravie
 
 > [!note] D-COSMO-1 (calendrier hybride)

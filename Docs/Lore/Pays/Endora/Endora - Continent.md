@@ -7,17 +7,6 @@ needs_review_for: []
 ---
 # Endora — Le Continent des Voix Tenues
 
-> *« Sur Endora, on ne se demande pas si la voix dit vrai. On se demande si elle se tient. C'est presque la même question, mais pas tout à fait. »*
-> — Marge d'un cahier d'Arbitre des Routes, recopié à Soltarin, an 219
-
-> *« Trois nations, trois manières de tenir une note. Aucune ne se rend compte que la note a déjà bougé. »*
-> — Carnet anonyme retrouvé à Perivalis, sans date
-
-> *« On dit que la forêt d'Avalor écoute mieux qu'aucun de nous. C'est faux. Elle écoute différemment, et l'on a fini par appeler cela mieux. »*
-> — Reprise dans un sermon mineur Cantus Mundi, citée à Hekorinth
-
----
-
 ## Vue d'ensemble
 
 Endora est un continent de **cultures profondes et tenues**, où les traditions ne sont pas des reliques mais des disciplines actives — souvent des disciplines d'**écoute** et de **voix**. Ses trois nations, très différentes en expression, partagent une même habitude profonde : elles tiennent une voix. Avalor tient celle de la forêt et de ses présences ; Haldria tient celle des étoiles et des marées ; Sanvara tient celle des routes, des contrats et des langues qui se croisent. Aucune des trois ne formule sa discipline en ces termes — un Avaloréen dirait *« nous écoutons »*, un Haldrien *« nous lisons »*, un Sanvarien *« nous arbitrons »*. Le voyageur attentif qui passe de l'une à l'autre s'aperçoit que **le geste est apparenté** : une oreille tendue vers une polyphonie que personne ne maîtrise, et qu'on tâche de ne pas perdre.

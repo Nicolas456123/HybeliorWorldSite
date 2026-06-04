@@ -7,13 +7,6 @@ needs_review_for: []
 ---
 # Histoires de Skaldoria
 
-> *Chaque ville a ses cicatrices. Voici celles qui ne guérissent jamais.*
-
-> *« Crie leur nom plus fort. Ils dorment plus loin. »*
-> — dicton du Clan du Loup, transmis aux jeunes guerriers avant la première bataille
-
----
-
 ## Skaldris --- "Les Mains qui Tremblent"
 
 Trois expeditions sont parties de Skaldris vers le nord. Deux ne sont jamais revenues. La troisieme est revenue avec des marins dont les mains tremblaient et ne s'arretaient plus.

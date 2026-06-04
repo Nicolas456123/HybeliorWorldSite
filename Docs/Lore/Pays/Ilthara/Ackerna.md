@@ -7,11 +7,6 @@ needs_review_for: []
 ---
 # Ackerna — Le Sanctuaire des Saisons Éternelles
 
-> *« En Ackerna, chaque feuille qui tombe est une prière, chaque bourgeon qui éclot est une bénédiction. »*
-> — Sagesse druidique d'Ackerna
-
----
-
 ## Informations générales
 
 | | |

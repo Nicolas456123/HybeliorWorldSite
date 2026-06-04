@@ -7,10 +7,6 @@ needs_review_for: []
 ---
 # Histoires des Terres Brisées de Celethor
 
-> *Ici, personne ne te demandera d'où tu viens. Parce que la réponse est toujours la même : d'un endroit pire. Et parce que la deuxième règle des Terres Brisées, qu'on ne formule jamais à voix haute, est qu'on n'effraie pas les nouveaux arrivants en posant des questions.*
-
----
-
 ## Nomiris — « La Fontaine qui se souvient »
 
 Kaelith n'avait plus de nom quand elle arriva à Nomiris. Elle en avait abandonné trois — celui de naissance, celui de mariage, celui de fuite. La fontaine des ruines coulait encore, comme elle coulait depuis des siècles, et Kaelith s'agenouilla pour boire.

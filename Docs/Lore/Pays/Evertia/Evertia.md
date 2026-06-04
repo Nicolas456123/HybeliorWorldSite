@@ -7,11 +7,6 @@ needs_review_for: []
 ---
 # EvertiaPays — L'Île aux Merveilles
 
-> *« Ceux qui foulent nos rivages sans y être invités ne repartent jamais. Ceux qui y sont conviés ne veulent jamais repartir. »*
-> — Impératrice Vaelyndra III, lors du Conseil des Couronnes
-
----
-
 ## Informations générales
 
 | | |

@@ -8,11 +8,6 @@ needs_review_for: [datations-schismes-précises, arbre-validation-finale]
 
 # 🌳 Histoire et Généalogie des Religions d'Hybelior
 
-> *« Aucune foi n'est apparue d'elle-même. Chaque chant des temples a été appris d'un autre, modifié, transmis, parfois rejeté pour fonder un autre chant. Suivre les voix anciennes, c'est suivre les pas d'un même peuple qui s'est dispersé. »*
-> — Memoria, Esprit de la mémoire collective
-
----
-
 ## Vue d'ensemble
 
 Les 9 grandes religions et les 5 mineures d'Hybelior ne sont pas apparues séparément. Les chroniques les plus anciennes — celles que les *Foedus Animae* prétendent transmettre oralement, celles que les *Rota Mundi* gravent dans leurs cycles, celles que les *Vael'Kurash* tatouent sur la peau de leurs anciens — convergent sur un point : il existait, jadis, un **Savoir Premier**.

@@ -7,13 +7,6 @@ needs_review_for: []
 ---
 # Histoires de Ventera
 
-> *Chaque ville a ses cicatrices. Voici celles qui ne guérissent jamais.*
-
-> *« Le coucher suit le lever. Honorer l'un sans l'autre, c'est honorer la moitié du cycle. »*
-> *— Lyrin de Soltharis, an 174 (citée plus souvent qu'attribuée).*
-
----
-
 ## Soltharis --- "La Premiere Chevauchee Inversee"
 
 La tradition de Ventera veut que le premier voyage d'un cavalier soit vers l'est --- vers le lever du soleil, vers le commencement du cycle. Cette tradition date de la fondation de la cite.

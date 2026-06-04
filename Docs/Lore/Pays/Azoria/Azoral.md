@@ -7,17 +7,6 @@ needs_review_for: []
 ---
 # Azoral — La Thalassocratie Brise-glace
 
-> *« On ne possède pas la mer du nord. On la traverse. Et on recommence. »*
-> — Devise des chantiers de Korval, gravée à l'entrée de la cale-mère
-
-> *« Le brise-glace casse jusqu'à ce qu'il casse. »*
-> — Formule des Capitaines de Brise-glace, recopiée dans les manifestes de bord depuis l'an 134
-
-> *« Compte. Recompte. Tais-toi. »*
-> — Devise des registres internes des Capitaineries de Korval
-
----
-
 ## Informations générales
 
 | | |

@@ -7,10 +7,6 @@ needs_review_for: []
 ---
 # Histoires de Sylthara
 
-> *Chaque ville a ses cicatrices. Voici celles qui ne guerissent jamais.*
-
----
-
 ## Amarendis --- "La Grande Moisson et la Graine Gardee"
 
 La Grande Famine de Sylthara, il y a trois generations, fut surmontee grace a un choix que l'histoire a peu retenu.

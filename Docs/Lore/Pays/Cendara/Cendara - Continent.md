@@ -7,17 +7,6 @@ needs_review_for: []
 ---
 # Cendara — L'Archipel de Feu
 
-> *« Le feu ne détruit pas. Il révèle ce qui était caché sous la surface. C'est pourquoi nous le vénérons. »*
-> — Inscription gravée sur le linteau de la Forge-Temple Centrale, Pyrevane
-
-> *« Patience. La flamme revient toujours. Si elle a tardé sept générations, c'est qu'elle prépare un retour qui en réveillera soixante-dix. »*
-> — Sermon traditionnel, attribué à un Ignitari du second Sillage
-
-> *« Nous attendons depuis si longtemps que nous avons oublié ce que nous attendons. C'est peut-être ça, la fidélité. C'est peut-être ça, la fatigue. »*
-> — Marge anonyme, copie tardive d'une Forge-Liturgie, retrouvée à Mosrack (Arkhen), an 244
-
----
-
 ## Vue d'ensemble
 
 Cendara est un archipel volcanique né de l'océan dans des éruptions cataclysmiques que les chroniques les plus anciennes datent de l'Effondrement Premier. Trois îles, trois nations, un seul volcan-roi : le **Mont Cendra**, qui domine l'horizon depuis n'importe quel point de l'archipel et dont la silhouette tronquée — dont les Ignitari disent que Flamara *« cassa son propre sommet »* lors de l'Arrachement pour ne pas frapper les humains — règle, sans en avoir l'air, l'humeur de chacun des quatre-vingt-dix mille habitants de l'archipel.

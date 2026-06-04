@@ -8,20 +8,6 @@ needs_review_for: [scission-V4, déliés-non-Liés-passe-complète, témoins-viv
 
 # Ère VII — Le Monde Actuel (Sillage, an 251 / ~10 200 ap.A)
 
-> [!info] Calendrier hybride (D-COSMO-1)
-> Le présent jouable se mesure officiellement en **années du Sillage** (an 251) — référence canon GDD/24. Le calendrier interne au Lore (~9 500 → 10 200 ap.A) est conservé pour la **Mémoire d'Astravie** : les bibliothécaires d'Astravia situent le présent à 10 200 ans après l'Arrachement, en comptant le temps profond du monde, là où GDD/24 ne compte que les 250 ans vécus humains depuis l'Arrachement. Les deux référentiels coexistent comme deux lectures complémentaires.
-
-> [!important] Cadre géographique — îlots de civilisation
-> Comme tout au long de l'Ère VI, le présent jouable est un **monde d'îlots**. Les 38 nations recensées par les chancelleries n'occupent qu'une **fraction** de leurs continents respectifs — couloirs côtiers, vallées habitables, bassins miniers, deltas fertiles, axes commerciaux tenus. **Plus de la moitié du monde reste sauvage** : Failles résiduelles concentrées (en particulier Plaine de Gryndor, delta sud d'Onara, forêts de Nysaria, vallées d'Alkaran, côtes de Celethor), créatures cosmiques résiduelles, climats extrêmes (banquises permanentes d'Ulinor et de Cestra, déserts brûlants de Cendara, marécages toxiques de Nysaria), zones tabou religieuses, ruines dangereuses (Cités des Anciens, Civilisation Effacée, Sixième Tour), distances et coûts prohibitifs, reprises cycliques de la nature après chaque Souffle ou Cardinal, frontières naturelles infranchissables (Voile de Nysaria, glaces permanentes de Cestra, massifs jamais cartographiés). Quand cette chronique parle d'une nation, d'une route ou d'un bloc, il faut entendre : un réseau de territoires tenus, entouré et traversé de zones libres, contestées ou hostiles, reliées entre elles par des routes commerciales **rares et précieuses**. Aucune entité de l'Ère VII ne couvre intégralement son continent, et **aucune instance supranationale** ne régit l'ensemble — la diplomatie est un travail constant, jamais un acquis.
-
-> [!warning] Scission recommandée pour V4 (V3.3 ajoute la refonte 2026-05-03)
-> Ce fichier fait ~900 lignes — il devrait être scindé en sous-dossier `Era 7/` thématique (Cadre diplomatique, Clivage Social, Catena Fracta, Guerre de l'Ombre, Mystères Actuels, Anomalies Tardives, Vie quotidienne, Personnages, Factions politiques, Synthèse). V3.3 (refonte 2026-05-03) supprime intégralement le « Traité des Treize Continents » au profit d'un **cadre diplomatique fragmenté** (relations bilatérales et multilatérales ad hoc, pactes régionaux fragmentaires, Tribunal de Lumasar conservé comme institution municipale sans pouvoir contraignant). V3.2 (refonte 2026-05) avait intégré les directives narratives wildlands + état du monde non-pacifié + section Anomalies Tardives + reformulation Navigor multi-lectures + nuances lifespans témoins. La scission complète est une tâche V4.
-
-> [!tip] Témoins encore vivants (Q-LC-010)
-> Six **Témoins encore vivants** sont canonisés dans GDD/24 §"Témoins encore vivants" : **Veyran d'Astravia** (Lié de Tempora, ~340 ans, Bibliothécaire — lifespan plausible pour un Lié survivant de l'Ère VI), **La Hêtraie d'Os-Karash** (esprit-arbre primordial), **Inéa la Sept-fois-Réveillée** (fondatrice de Somnium Vigil — figure dont la tradition prétend qu'elle survit en sommeil prolongé dans une cellule onirique de Nysaria ; aucune source canonique n'atteste qu'elle ait été vue éveillée depuis plusieurs générations, son statut « vivante » est tenu pour vrai par la tradition Somnium Vigil mais reste invérifiable par les autres écoles), **Les Errants des Côtes Cassées** (fantômes coincés depuis l'Arrachement), **Le Vieux Karth** (dragon de Terranu), **Yelana la Persistante** (rumeur médicale). À intégrer dans la section Personnages de cette Era — V4.
-
----
-
 ## Sommaire
 
 1. [Cadre diplomatique fragmenté](#cadre-diplomatique-fragmenté)

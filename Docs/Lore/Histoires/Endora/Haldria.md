@@ -7,13 +7,6 @@ needs_review_for: []
 ---
 # Histoires de Haldria
 
-> *Chaque ville a ses cicatrices. Voici celles qui ne guerissent jamais.*
-
-> *Haldria a institué l'observation. Elle a oublié, en chemin, que regarder le même point pendant cinq siècles ne dit pas que le ciel n'a pas bougé.*
-> *— Marge anonyme, archives de Tyrolis, env. an 230.*
-
----
-
 ## Hekorinth --- "L'Astre qui Manquait"
 
 Les astronomes de Hekorinth cartographient les constellations depuis la fondation de la cite. Chaque etoile a un nom, une position, une signification dans les tables de navigation et de prophecie de l'Ordo Caelum.

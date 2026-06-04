@@ -8,17 +8,6 @@ needs_review_for: [datations-précises, démographie-fine, validation-géographi
 
 # Sanvara — La Confédération des Caravansérails
 
-> *« À Sanvara, on ne demande pas d'où vous venez. On regarde ce que vous transportez et combien de temps vous restez. »*
-> — Adage des marchés de Sanvara
-
-> *« Trois nuits suffisent à accueillir un homme. Aucun nombre ne suffit à le comprendre. C'est pour ça qu'on s'en tient à trois. »*
-> — Dicton de caravansérail, attribué à Soltarin
-
-> *« On accueille toutes les voix. Celles qui parlent d'à côté, celles qui parlent de loin, celles qui ne parlent plus. À force d'accueillir, on finit par ne plus savoir laquelle dit quelque chose. »*
-> — Marge anonyme dans un cahier d'apprenti Arbitre, Ket-Anvel, an 213
-
----
-
 ## Vue d'ensemble
 
 Sanvara est une **confédération marchande** située dans les terres centrales et orientales d'[[Endora - Continent|Endora]], à l'articulation des plaines de Valmera et de la lisière sud de la jungle d'Esperia. Les chroniques contemporaines la décrivent comme un réseau de cités-caravansérails reliées par des routes commerciales conventionnées, plutôt que comme un État unifié au sens classique.

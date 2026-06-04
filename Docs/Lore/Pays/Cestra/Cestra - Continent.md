@@ -7,17 +7,6 @@ needs_review_for: []
 ---
 # Cestra — Le Bastion du Nord
 
-> *« Cestra ne tue pas les imprudents. Elle les garde. »*
-> — proverbe rapporté par les marins de Haldria, attribution incertaine
-
-> *« On ne peut pas rentrer d'un endroit qui ne vous a pas accepté. On peut seulement en sortir. La nuance compte. »*
-> — Hesgarn la Sage, Conseil de Maintien de Noravia
-
-> *« Le froid n'est pas un adversaire. C'est une réponse à une question qu'on a oublié d'avoir posée. »*
-> — fragment d'un carnet retrouvé dans le sac d'un cartographe non identifié, exposé à Noravia
-
----
-
 ## Vue d'ensemble
 
 Cestra est un continent que le monde a renoncé à conquérir. Vaste tundra glacée, glaciers millénaires dont la glace a pris une teinte bleue-noire, montagnes de givre quasiment infranchissables — et, selon les rares récits de retour, quelque chose d'autre sous la glace, dont la nature varie d'un témoignage à l'autre. Plusieurs expéditions ont tenté de cartographier l'intérieur du continent. Les chroniques notent qu'aucune n'est revenue complète.

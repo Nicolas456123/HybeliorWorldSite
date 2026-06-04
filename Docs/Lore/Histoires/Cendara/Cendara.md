@@ -7,10 +7,6 @@ needs_review_for: []
 ---
 # Histoires de Cendara — Royaume de la Grande Île
 
-> *Chaque ville a ses cicatrices. Voici celles qui ne guérissent jamais.*
-
----
-
 ## Brumaris — « Le Coeur qui Fond »
 
 Le roi Pyranthus IV avait l'habitude de descendre seul dans la Chambre du Coeur. Chaque nuit, sans gardes, sans flammarques, sans temoins. Il posait sa main sur la porte scellee, murmurait les mots anciens, et entrait.

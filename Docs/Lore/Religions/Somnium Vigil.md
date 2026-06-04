@@ -11,12 +11,7 @@ presence_principale: [Vytharia, Lumasar, Baelor, Thalmaris, Astravia]
 
 # 🌙 Somnium Vigil — Le Rêve Éveillé
 
-> *« Ce que tu vois éveillé n'est qu'une des vérités du monde. »*
-
 **Entités vénérées :** Somnix *(Céleste depuis D-COSMO-4 ; auparavant classé Cosmique dans le Lore antérieur)* · Realis *(Céleste)* · Aurion *(Céleste)*
-
-> [!important] Note canon — D-COSMO-4
-> Somnix est canoniquement un **Céleste** dans GDD/17, **non un Cosmique**. Le Lore antérieur l'élevait au rang Cosmique — usage à corriger progressivement. Pour les Vigili (clergé Somnium Vigil), cette distinction est largement indifférente : Somnix reste leur entité tutélaire principale, et son rang exact dans la hiérarchie cosmique n'affecte pas la pratique cultuelle.
 
 ---
 

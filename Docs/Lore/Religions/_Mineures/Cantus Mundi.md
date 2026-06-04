@@ -11,12 +11,7 @@ presence_principale: [Thalmaris, Seraphia]
 
 # 🎵 Cantus Mundi — Le Chant du Monde
 
-> *« Avant toute chose, il y eut une vibration. Cette vibration était un chant. Ce chant était Cantor. Et Cantor chanta le monde. »*
-
 **Entité vénérée :** Cantor *(Céleste depuis D-COSMO-4 ; auparavant classé Cosmique dans le Lore antérieur)* — vibration primordiale, pas une entité personnifiée mais une résonance cosmique
-
-> [!important] Note canon — D-COSMO-4
-> Cantor est canoniquement un **Céleste** dans GDD/17, **non un Cosmique**. Le Lore antérieur l'élevait au rang Cosmique de Phase 3. Pour les Cantori (clergé Cantus Mundi), cette distinction est importante doctrinalement — leur révision théologique post-refonte est en cours.
 
 ---
 

@@ -7,17 +7,6 @@ needs_review_for: []
 ---
 # Valoria — La Confédération du Sang et de l'Acier
 
-> *« Nous ne prions pas les dieux à genoux. Nous les honorons debout, l'arme au poing et le nom de nos ancêtres sur les lèvres. »*
-> — Seigneur de Guerre Kaeldar, Thane du clan Teldar
-
-> *« Nous nous tuons pour les mêmes choses depuis deux cents ans. Nous n'avons rien appris. »*
-> — Neld de Thalindor, *Archives du Sang*, an 248
-
-> *« La pierre tient, les bâtisseurs finissent. »*
-> — Inscription anonyme gravée sur des éclats des Marches Mortes (Lex Petra), interdite à Valoria, copiée néanmoins
-
----
-
 ## Informations générales
 
 | | |

@@ -7,14 +7,6 @@ needs_review_for: []
 ---
 # Onara — Le Continent du Fer et de l'Or
 
-> *« Deux visions du monde se disputent Onara depuis des siècles : celle qui croit que la puissance s'obtient par les armes, et celle qui croit qu'elle s'obtient par l'or. Jusqu'à présent, aucune n'a définitivement raison. »*
-> — Marge d'un registre douanier de Portharis, copie d'un original perdu, an 198
-
-> *« Tout se monnaye à Tyndara. Tout se compte à Mosrack. Tout se forge à Myrtam. Et à Elarath, on a inventé un quatrième verbe que les trois autres ne reconnaissent pas. »*
-> — Proverbe attribué à un caravanier de la route du sud, recueilli par un archiviste de Lumasar
-
----
-
 ## Vue d'ensemble
 
 Onara est le continent où l'on apprend, plus vite que partout ailleurs, qu'un nom écrit sur un registre vaut plus qu'un visage croisé sur un quai. C'est aussi le continent qui conteste cette leçon depuis qu'il existe — par ses chants de marin, par les histoires que les vieux racontent en coupant le pain, par les cités qui refusent obstinément de grandir.

@@ -7,14 +7,6 @@ needs_review_for: []
 ---
 # Nysaria — L'Île aux Masques
 
-> *« Nysaria n'existe pas, disent-ils. Nysaria, ai-je entendu, est un mirage, un rêve, une rumeur portée par le vent. Et pourtant — ceux qui s'en approchent, j'en ai vu trop pour douter, ne reviennent pas. »*
-> — Capitaine Aldren, dernier survivant rapporté de l'Expédition Tyndarienne
-
-> *« Je ne suis pas censé être ici. Je veux commencer par cela. »*
-> — Première phrase d'un cahier de cartographe, an 252, copie déposée à Prismalith
-
----
-
 ## Informations générales
 
 | | |

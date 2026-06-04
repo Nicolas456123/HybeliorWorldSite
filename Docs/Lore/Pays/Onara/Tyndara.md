@@ -7,17 +7,6 @@ needs_review_for: []
 ---
 # Tyndara — La Ligue des Marchands
 
-> *« L'or ne ment pas. L'or ne trahit pas. L'or ne se souvient pas des offenses et ne porte pas de rancune. C'est pourquoi l'or est le meilleur diplomate du monde. »*
-> — Archonte Selyra, Premier Marchand de Tyndara
-
-> *« Tout se monnaye, à Tyndara. Si vous savez quelque chose que je ne sais pas, ça vaut. Si vous voulez savoir quelque chose que vous ne savez pas encore, ça coûte. »*
-> — Maldrix Thoen, cartographe de comptoir, à Sorin Valthen, an 251
-
-> *« Trois secondes. »*
-> — Plaque dans la salle des négociations de la Guilde de Zyndris
-
----
-
 ## Informations générales
 
 | | |

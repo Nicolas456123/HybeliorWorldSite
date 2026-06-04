@@ -11,8 +11,6 @@ presence_principale: [Solena, Tyndara, Lythar, Haldria]
 
 # 💨 Via Ventus — La Voie du Souffle
 
-> *« Celui qui ne bouge pas est déjà mort. »*
-
 **Entités vénérées :** Aerion *(Cosmique)* · Navigor *(Éternel)*
 
 ---

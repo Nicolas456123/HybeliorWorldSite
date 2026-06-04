@@ -7,17 +7,6 @@ needs_review_for: []
 ---
 # Avalor — Le Pacte des Sylves
 
-> *« Vous voyez une forêt. Nous voyons un peuple — chaque arbre est un ancêtre, chaque feuille un murmure, chaque racine un serment. Blesser la sylve, c'est blesser Avalor. »*
-> — Archidruide Feylara, Gardienne du Pacte
-
-> *« Le Pacte tient. Tient-il parce que la sylve y consent, ou parce que nous le récitons mieux qu'autrefois ? La question n'est pas posée chez nous. C'est une question d'étrangers. »*
-> — Voix Sylven d'Indelite, devant un visiteur de Soltarin, an 218
-
-> *« Une partition tenue sur cinq cents ans, c'est presque le silence. Presque. »*
-> — Marge anonyme retrouvée dans un cahier d'apprentie Voix de Velaris, sans date
-
----
-
 ## Informations générales
 
 | | |

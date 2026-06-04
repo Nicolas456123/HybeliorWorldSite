@@ -8,23 +8,6 @@ needs_review_for: [scission-V4, souffles-passés-Q-LC-003, cohérence-aval-Era-7
 
 # Ère VI — L'Ère des Nations (~3 000 → ~9 500 ap.A)
 
-> [!info] Calendrier hybride (D-COSMO-1)
-> Cette Ère relève principalement de la **Mémoire d'Astravie**. Les civilisations actuelles n'ont conscience que des 250 dernières années (Sillage GDD/24). Les 6 500 ans de l'Ère VI Lore sont des **strates de civilisation** que les bibliothécaires d'Astravia ont préservées par croisement de sources — pour les autres nations, ce sont des « contes anciens » plus que de l'histoire vécue.
-
-> [!important] Cadre géographique — îlots de civilisation
-> L'Ère des Nations est l'âge des **frontières tracées**, mais ces frontières ne couvrent qu'une **fraction** de chaque continent. Les nations qui se forment au cours de cette Ère sont des **îlots de civilisation** : des couloirs côtiers, des vallées habitables, des bassins miniers, des deltas fertiles — agencés autour de routes que l'on peut tenir. Au-delà, **plus de la moitié du monde reste sauvage** : Failles concentrées (zones temporellement instables, héritières du Fléau), créatures cosmiques résiduelles, climats extrêmes (banquises d'Ulinor, déserts brûlants de Cendara, marécages de Nysaria), ruines tabou des Cités des Anciens et de la Civilisation Effacée, distances et coûts prohibitifs, reprises cycliques de la nature après chaque Cardinal ou Souffle, frontières naturelles infranchissables. Quand cette chronique parle d'une « nation » ou d'un « empire », il faut entendre : un réseau de cités et de territoires tenus, entouré et traversé de zones libres, contestées ou dangereuses. Aucune entité de l'Ère VI ne couvre intégralement son continent — la prétention même n'a de sens que dans les chartes diplomatiques, jamais sur le terrain.
-
-> [!warning] Scission recommandée pour V4
-> Ce fichier (~711 lignes après refonte 2026-05) doit être scindé en sous-dossier thématique : Guerres / Civilisations intermédiaires / Économie et routes / Guildes transnationales / Fragmentation diplomatique / Cristallisation / Wildlands. V3.1 ajoute uniquement le frontmatter ; V3.2 (refonte 2026-05) intègre les directives narratives wildlands + insertions Fragment/Carte/Inscription. V3.3 (refonte 2026-05-03) supprime toute mention du « Traité des Treize Continents » : aucun cadre supranational n'a abouti à l'Ère VI ; la cohabitation entre nations repose sur des relations bilatérales et des accords régionaux ad-hoc, pas sur un instrument unique.
-
-> [!note] Souffles passés (Q-LC-003) à intégrer en V4
-> Plusieurs Petits Souffles canoniques GDD/24 surviennent dans la fenêtre temporelle de cette Ère ou la chevauchent (Souffle Glacé +14 Sillage, Souffle des Voix Doubles +67, Souffle Hâte +119, Souffle Sans Reflet +168, Souffle des Pierres Mémorielles +201, Souffle des Yeux Ouverts +234). En calendrier hybride, ils tombent dans les ~250 dernières années et doivent être référencés en Era 7 ou en transition Era 6/7. Référence : GDD/24 §"Détail des Petits Souffles marquants".
-
-> [!note] Failles — phase intermédiaire (audit α1/α2)
-> Entre la formation initiale rattachée à l'Arrachement (cf. [[Era 4 - L'Arrachement]]) et la grande crise du Fléau (~1 400-1 600 ap.A, cf. [[Era 5 - La Grande Nuit]]), la deuxième phase des Failles s'étire pendant toute l'Ère VI sous une forme amoindrie : les Failles mobiles ont disparu, mais des **Failles stables résiduelles** subsistent en plusieurs continents — zones de quelques hectares à quelques km², généralement contournées par les caravanes, parfois sanctuarisées comme tabou local. Elles concentrent une part significative des wildlands évoqués ci-dessus, en particulier dans la Plaine de Gryndor (Ilthara), le delta sud d'Onara, les forêts de Nysaria, plusieurs vallées d'Alkaran et certaines côtes de Celethor. Leur cartographie partielle est l'un des chantiers permanents des Cartographes de Baelor (~6 000 ap.A → présent).
-
----
-
 ## Sommaire
 
 1. [Les 7 Guerres Majeures — Détail](#les-7-guerres-majeures--détail)

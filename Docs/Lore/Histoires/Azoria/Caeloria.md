@@ -7,13 +7,6 @@ needs_review_for: []
 ---
 # Histoires de Caeloria
 
-> *Chaque ville a ses cicatrices. Voici celles qui ne guérissent jamais.*
-
-> *On ne dispute pas une Table avec un compas.*
-> *— Inscription anonyme à l'entrée du Palais des Sept Tours, Duskoris, env. an 220.*
-
----
-
 ## Duskoris — « La Première Grotte »
 
 Les nomades qui trouvèrent Duskoris n'étaient plus en état de chercher quoi que ce soit. Vingt-trois survivants d'un groupe qui en avait compté soixante-dix. Quatre mois de banquise. La tempête qui les avait presque tués venait de se dissiper quand ils virent la côte.

@@ -7,14 +7,6 @@ needs_review_for: []
 ---
 # Evertia — L'Île aux Lectures
 
-> *« Evertia est vivante. Pas comme le sont les arbres ou les animaux — comme l'est une pensée. Elle observe. Elle décide. Et elle agit. »*
-> — Inscription au fronton de l'Académie des Druides, Thalenvir
-
-> *« Selon les textes. Le mot* selon *vaut pour tout ce que je vous transmets. »*
-> — Aînée du Cercle des Archidruides, formulation rituelle d'ouverture des entretiens (consignée par les chroniqueurs autorisés)
-
----
-
 ## Vue d'ensemble
 
 Evertia n'est pas un continent au sens habituel. C'est un archipel-continent tourné autour de lui-même, défendu par des falaises, des brumes, des labyrinthes et — selon une lecture interne très ancienne — par l'île elle-même. Trois nations s'y partagent la terre dans une géographie qui n'invite pas au passage : **Evertia** au centre, île-paradis et théocratie druidique, qui a transformé son isolement en politique d'État ; **Thalmaris** au sud-ouest, monarchie bardique fondée sur la lecture musicale du monde, dépendante des forêts qui la jouxtent ; **Sylvara** à l'ouest, forêt-nation à peine politique, organisée autour du Pacte de l'Arbre-Mère.

@@ -7,11 +7,6 @@ needs_review_for: []
 ---
 # Vytharia — Le Royaume au-delà du Voile
 
-> *« À Vytharia, ne crois jamais ce que tu vois. Crois ce que tu rêves. »*
-> — Conseil d'un Tisseur de Voile à un voyageur égaré
-
----
-
 ## Informations générales
 
 | | |

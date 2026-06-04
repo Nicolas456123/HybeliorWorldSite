@@ -8,18 +8,6 @@ needs_review_for: [validation-V4-cohérence-finale]
 
 # Chronologie d'Hybelior — Index
 
-> Document de référence pour la frise chronologique. Tout le worldbuilding temporel est consigné ici.
-> La frise (`pages/frise.html`) est construite depuis ces données.
-> **Les détails de chaque ère sont dans les fichiers Era voisins de ce dossier.**
-
-> [!important] Posture canonique de cet index
-> Les datations, "effets" et "statuts" listés ci-dessous reflètent la **lecture dominante de la Mémoire d'Astravie**, croisée avec les chroniques régionales survivantes. Aucune n'est un fait causal établi. Le cadre ontologique est posé dans [[Univers]] : *Pacte Primordial* (termes inconnus), *Polyphonie émergente* (les voix Éternelles ne se relayent pas selon un calendrier), et *vision erronée universelle* (chaque tradition lit le cosmos depuis son angle). Les Cardinaux sont des **Souffles observés** que les mortels ont nommés ; les "blessures", "disparitions" et "endormissements" des Éternels sont des **lectures théologiques**, pas des événements documentables. Cet Index est le résumé exécutif — pour toute lecture causale détaillée, se référer au fichier Era concerné, qui consigne systématiquement les **lectures concurrentes**.
-
-> [!important] Réalité géographique structurelle (refonte 2026-05)
-> Hybelior n'est **pas** un monde uniformément peuplé. Depuis la Reconstruction post-Grand Gel (Ère II) et plus encore depuis l'Arrachement, les sociétés humaines vivent dans des **îlots de civilisation** — couloirs côtiers, vallées habitables, bassins miniers, deltas fertiles, axes commerciaux tenus. **Plus de la moitié du monde reste sauvage** : Failles résiduelles concentrées, créatures cosmiques résiduelles, climats extrêmes (banquises d'Ulinor et de Cestra, déserts brûlants de Cendara, marécages de Nysaria), zones tabou religieuses, ruines des Civilisations Effacées, frontières naturelles infranchissables. Quand cet Index parle de « 38 nations », d'« empires » ou de « pactes régionaux », il faut entendre : un réseau de territoires tenus, entouré et traversé de **wildlands** libres, contestés ou hostiles. Aucune entité de la chronologie d'Hybelior ne couvre intégralement son continent, et aucun cadre supranational n'a jamais émergé pour les relier.
-
----
-
 ## Calendrier hybride — D-COSMO-1 (refonte 2026-04-30)
 
 > [!important] Deux référentiels coexistent

@@ -7,13 +7,6 @@ needs_review_for: []
 ---
 # Histoires de Seraphia
 
-> *Chaque ville a ses cicatrices. Voici celles qui ne guérissent jamais.*
-
-> *Sept arts, sept disciplines, sept manières de vénérer. Et, glissés dans les marges, sept silences que personne ne sait classer.*
-> *— Note anonyme, Académie des Sept Arts, Althior, env. an 230.*
-
----
-
 ## Althior --- "Le Tableau que Personne N'acheva"
 
 Valdren Ayle prit la commande du Grand Tableau d'Althior a quarante ans. Le Conseil des Patrons voulait une oeuvre commemorant les trois cents ans de la cite --- une fresque couvrant tout le plafond de la Salle des Etoiles.

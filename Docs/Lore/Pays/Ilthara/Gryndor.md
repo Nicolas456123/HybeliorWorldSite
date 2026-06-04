@@ -7,11 +7,6 @@ needs_review_for: []
 ---
 # Gryndor — Le Trône du Savoir Ancien
 
-> *« En Gryndor, une bibliothèque vaut plus qu'un château, et un livre plus qu'une épée. »*
-> — Inscription gravée au fronton de l'Académie de Holvendar
-
----
-
 ## Informations générales
 
 | | |

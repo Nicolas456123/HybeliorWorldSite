@@ -11,8 +11,6 @@ presence_principale: [Caeloria, Haldria, Astravia, Seraphia, Solena]
 
 # ⭐ Ordo Caelum — L'Ordre Céleste
 
-> *« Lève les yeux. Ton destin est écrit au-dessus de toi depuis ta naissance. »*
-
 **Entités vénérées :** Celestia *(Éternelle)* · Stellaris *(Cosmique de Phase 4)*
 
 ---
