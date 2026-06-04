@@ -95,7 +95,7 @@
                 ? NavConfig.findReligionByMdPath(subkey)
                 : null;
 
-            let html = '<div class="sidebar-lore-nav-title">Parcourir le lore</div>';
+            let html = '<a class="sidebar-lore-nav-title" href="#lore">Parcourir le lore</a>';
             html += '<ul class="sidebar-lore-nav-list">';
 
             for (const cat of NavConfig.loreCategories) {

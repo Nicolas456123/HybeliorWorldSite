@@ -131,6 +131,10 @@
      * par "_" (description/template), ET le dossier contient ≥2 .md.
      */
     async function postProcessHubTabs(rootEl, mdPath) {
+        // Nettoie la bandelette "Dans cette branche" précédente du panneau gauche
+        // (reconstruite ci-dessous si la page est un hub).
+        const _prevHub = document.getElementById('sidebar-hub-tabs');
+        if (_prevHub) _prevHub.remove();
         const md = rootEl.querySelector('.md-content');
         if (!md) return;
 
@@ -210,10 +214,10 @@
         // Cap à 20 entrées max pour ne pas exploser l'UI
         const capped = tabs.slice(0, 20);
 
-        const stripHtml = [
-            '<nav class="md-hub-tabs" aria-label="Sous-pages de ce hub">',
-            '  <div class="md-hub-tabs-label">Dans cette branche</div>',
-            '  <ul class="md-hub-tabs-list">',
+        const navHtml = [
+            '<nav id="sidebar-hub-tabs" class="sidebar-hub-tabs" aria-label="Dans cette branche">',
+            '  <div class="sidebar-hub-tabs-label">Dans cette branche</div>',
+            '  <ul>',
             ...capped.map(t =>
                 `<li><a href="${t.href}">${escHtml(t.label)}</a></li>`
             ),
@@ -221,18 +225,24 @@
             '</nav>',
         ].join('');
 
-        // Insère après le H1 (si présent), sinon en début de md
-        const h1 = md.querySelector('h1');
-        if (h1 && h1.nextSibling) {
-            const wrapper = document.createElement('div');
-            wrapper.innerHTML = stripHtml;
-            h1.parentNode.insertBefore(wrapper.firstChild, h1.nextSibling);
-        } else {
-            const wrapper = document.createElement('div');
-            wrapper.innerHTML = stripHtml;
-            md.insertBefore(wrapper.firstChild, md.firstChild);
-        }
+        // Injecte la liste dans le panneau GAUCHE (#site-sidebar), pas dans le contenu.
+        const sidebar = document.getElementById('site-sidebar');
+        if (!sidebar) return;
+        const wrapper = document.createElement('div');
+        wrapper.innerHTML = navHtml;
+        const navEl = wrapper.firstChild;
+        const subtab = sidebar.querySelector('.subtab-nav');
+        if (subtab && subtab.nextSibling) sidebar.insertBefore(navEl, subtab.nextSibling);
+        else if (subtab) sidebar.appendChild(navEl);
+        else sidebar.insertBefore(navEl, sidebar.firstChild);
     }
+
+    // Retire la bandelette "Dans cette branche" du sidebar à chaque navigation
+    // (réinjectée par postProcessHubTabs si la nouvelle page est un hub).
+    window.addEventListener('hashchange', function () {
+        const h = document.getElementById('sidebar-hub-tabs');
+        if (h) h.remove();
+    });
 
     /**
      * Construit la grille de cartes pour un bloc dataview.

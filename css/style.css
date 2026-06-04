@@ -1655,6 +1655,13 @@ body { max-width: 100vw; }
 /* G — la recherche du panneau gauche est redondante avec celle en haut à droite : masquée. */
 #lore-search-wrapper { display: none; }
 
+/* C — bandelette « Dans cette branche » déplacée dans le panneau gauche */
+.sidebar-hub-tabs { margin: 4px 0 16px; }
+.sidebar-hub-tabs-label { font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--panel-border, #8a6a2a); opacity: 0.85; margin-bottom: 6px; padding-left: 2px; }
+.sidebar-hub-tabs ul { list-style: none; margin: 0; padding: 0; }
+.sidebar-hub-tabs a { display: block; padding: 4px 8px; border-radius: 4px; font-size: 0.86rem; color: inherit; text-decoration: none; }
+.sidebar-hub-tabs a:hover { background: rgba(120, 78, 18, 0.10); }
+
 @media (max-width: 768px) {
     /* Empêche tous les enfants de .md-content de dépasser la largeur disponible */
     .md-content { max-width: 100%; padding: 16px 4px 60px; }
