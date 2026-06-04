@@ -1,6 +1,6 @@
 // Hybélior PWA service worker.
 // Bumping VERSION invalidates all caches on next visit, forcing a refresh.
-const VERSION = '2026-06-04-lore-content';
+const VERSION = '2026-06-05-network-first';
 const PRECACHE = `hybelior-precache-${VERSION}`;
 const RUNTIME  = `hybelior-runtime-${VERSION}`;
 
@@ -72,14 +72,10 @@ self.addEventListener('fetch', (event) => {
   if (url.origin === self.location.origin &&
       NETWORK_ONLY_PATHS.some((p) => url.pathname.startsWith(p))) return;
 
-  const accept = req.headers.get('accept') || '';
-  const isNavigation = req.mode === 'navigate' || accept.includes('text/html');
-
-  if (isNavigation) {
-    event.respondWith(networkFirst(req));
-  } else {
-    event.respondWith(staleWhileRevalidate(req));
-  }
+  // Network-first pour TOUT (HTML, JS, CSS, .md) : on sert toujours la dernière
+  // version en ligne, avec repli sur le cache uniquement hors-ligne. L'ancien
+  // staleWhileRevalidate servait du contenu périmé même après un hard-refresh.
+  event.respondWith(networkFirst(req));
 });
 
 async function networkFirst(req) {
