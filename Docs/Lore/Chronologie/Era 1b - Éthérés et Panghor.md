@@ -346,5 +346,3 @@ Les 45 Éthérés, en s'installant chacun dans leur zone, créent des tensions g
 | Fracture 3B (Exil de Cestra) | ~500 000 ans | Cestra derive vers le pole nord, Mont Jumeau recouvert |
 | Fracture 3C (Azoria) | ~1 million d'annees | Archipel d'Azoria completement fragmente |
 | Stabilisation | jusqu'a ~45 000 av.A | 13 continents stables — l'Ere des Mortels peut commencer |
-
----

@@ -203,5 +203,3 @@ Je me levai du quai et marchai vers l'auberge.
 La lune était déjà en décroissance — le temps de l'application, le temps d'exécuter ce qui avait été décidé à la pleine lune. Dans huit jours, la nouvelle lune, et le silence, et rien qui ne presse autant que le ciel.
 
 Je trouvais cela juste.
-
----

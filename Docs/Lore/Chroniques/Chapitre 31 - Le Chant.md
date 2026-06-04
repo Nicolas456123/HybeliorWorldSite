@@ -223,5 +223,3 @@ L'Aînée m'avait envoyé à Ulinor avec une piste possible. Les archives de pie
 Je regardai la mer. Quelque part sous cette eau grise et douce, des profondeurs que personne ne cartographiait. Des courants qui hésitaient depuis l'automne. Des créatures de l'abysse qui remontaient vers la surface.
 
 Je refermai mon cahier et regardai l'horizon jusqu'à ce qu'Ulinor apparaisse.
-
----

@@ -171,5 +171,3 @@ Le capitaine haldrien barra vers le nord. La mer était de nouveau ordinaire, av
 Elle pulsait.
 
 Faiblement. Régulièrement. Avec exactement la même fréquence que Mont Cendra.
-
----

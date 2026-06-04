@@ -127,26 +127,3 @@ Les vingt années suivantes, Veska parcourt seule les villages reculés d'Ulinor
 En l'an 102, elle s'installe à demeure dans la Forêt des Ombres-Marchantes, où elle vit sept ans encore, en compagnie d'une dizaine d'Errants devenus familiers. Elle ne pratique aucun rituel pour les faire passer. Elle apprend leurs noms, qu'elle transcrit sur des écorces. À sa mort, en 109, on retrouve trois cents écorces gravées dans sa hutte. Aucune n'est signée. Aucune ne porte d'incantation. Ce sont seulement des noms, alignés.
 
 L'Église animari de Torkam la canonise en 134, vingt-cinq ans après sa mort, comme « **Veska de la Patience** ». Les sermons officiels la présentent comme un modèle de **Tisseuse retirée par humilité** — version qui escamote son refus du conseil, sa rupture avec la chaîne. Les écorces de la Forêt des Ombres-Marchantes sont récupérées par les Veilleurs des Errants, qui les conservent encore aujourd'hui dans un coffre bas, à même la terre. Les visiteurs y sont admis ; il leur est seulement demandé de lire à voix basse, sans incantation, le plus de noms qu'ils peuvent. Beaucoup ressortent avec l'impression d'avoir entendu, dans leur propre voix, autre chose qu'eux-mêmes. Aucun ne saurait préciser quoi.
-
----
-
-## Cadre interne — Patterns
-
-> [!note] Note de design — non in-world
-> Cette section est une note méta destinée aux rédacteurs et agents travaillant le Lore. Elle n'apparaît pas dans la fiction. Le vocabulaire ci-dessous (Pièges, Vertus, Âges) est une grille d'analyse ; les Foedus Animae n'en ont jamais entendu parler.
-
-- **Piège Institutionnel dominant : L'Instrumentalisation.** Foedus Animae est *enfoncée* dans ce piège, malgré sa douceur apparente. Trois mécanismes :
-  1. Les morts sont traités comme **moyens** de soutenir les vivants (protection, conseil, gratification émotionnelle), alors que le Pacte voudrait qu'ils soient destinataires.
-  2. Les vivants pauvres sont traités comme **moyens** de tenir un Pacte qu'ils n'ont pas négocié — apprentis broyés dans les chaînes, familles dépouillées de leur voix par défaut de paiement.
-  3. La doctrine elle-même utilise le sentiment filial comme **levier** pour maintenir l'institution : on n'oublie pas ses morts par amour, certes ; mais ce qui prospère n'est pas l'amour, c'est la Maison des Ancêtres et son tarif annuel.
-  La religion n'a *pas* lutté contre ce piège — elle l'a habillé de tendresse. C'est précisément ce qui la rend séduisante : la violation de la Loi de la Fin se vit comme une piété.
-
-- **Âge moral collectif majoritaire : La Loi.** L'écrasante majorité des Animari obéit aux rites parce qu'ils ont été reçus, pas parce qu'ils ont été interrogés. L'âge du Désir affleure chez les jeunes apprentis (vénération naïve des morts, peur de l'oubli) ; l'âge du Principe est rare et invariablement marginal (Veillleurs, Endeuilleurs).
-
-- **Vertu Cachée affleurante : Le Voile.** La doctrine refuse formellement le doute ; mais le doute est *constitutif* de la pratique — un médium qui n'a jamais douté de ce qu'il entend ment. Les Veilleurs des Errants portent cette vertu organiquement, parfois en la nommant *« on ne sait plus »* — phrase quasi-hérétique mais que la marge tolère. Veska Drennar incarne cette voie : elle a quitté la chaîne à l'instant où elle a cessé de pouvoir prétendre savoir ce qu'elle escortait.
-
-- **Application narrative :** un PNJ animari par défaut est dans la Loi (Tisseur conscient de sa fonction sociale, médium de village qui répète les rites de sa mère). Pour 1 figure du Voile (Veilleur, Endeuilleur, médium qui doute publiquement), prévoir 4-6 figures qui pratiquent l'instrumentalisation sans la voir : Tisseurs riches, familles dévouées qui ne se demandent jamais qui paie le rite. Aucun PNJ ne doit énoncer le piège. Le lecteur le voit dans la comptabilité des Maisons, dans les apprentis disparus, dans les noms de familles pauvres qui glissent.
-
----
-
-*Liens : [[00 - Système Religieux]] | [[Era 4 - L'Arrachement]] | [[Le Souffle]] | [[Cosmologie]] | [[Histoire d'Hybelior]]*

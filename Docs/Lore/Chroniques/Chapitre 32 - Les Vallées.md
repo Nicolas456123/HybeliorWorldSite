@@ -343,5 +343,3 @@ La Carte du Silence indiquait toujours Evertia. Mais ce n'était plus Evertia qu
 Je regardais vers le bas.
 
 La surface de la mer, sous le bateau, grise et douce et vaste comme tout ce qu'elle cache.
-
----

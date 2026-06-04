@@ -177,5 +177,3 @@ Une lecture possible — la mienne — s'imposait : quelque chose remonterait. U
 De là où je vais — Evertia —, il me semblait entendre la même question posée d'une façon différente. Non pas *quelque chose remonte* mais peut-être *quelque chose est déjà venu, une fois ou plusieurs, et reviendrait*. Lecture, encore.
 
 Je repartis vers le port. Le navire pour Evertia partait à l'aube.
-
----

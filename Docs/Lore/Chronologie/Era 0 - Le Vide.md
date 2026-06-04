@@ -341,5 +341,3 @@ La question est : ce que Navigor reviendrait retisser
 ressemblerait-il encore à ce que les chroniques attribuent aux Éternels dans l'Ère 0 ?
 
 Ou serait-ce quelque chose d'entièrement nouveau ?
-
----

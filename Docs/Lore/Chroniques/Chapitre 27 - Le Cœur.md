@@ -207,5 +207,3 @@ Ancrages du monde. Ce que le monde tient — selon la lecture des inscriptions.
 Si les pulsations s'accélèrent — d'une fois par saison à une fois par semaine, et peut-être vers quelque chose de plus rapide encore — et si la lecture de Kharazir vaut quelque chose, alors la question que je me pose en cartographe n'est plus seulement ce qu'un homme sent. C'est ce que ceux qui auraient cette fonction — si fonction il y a — pourraient ou devraient faire si la trame qu'on les dit tenir commençait à se déchirer.
 
 Je n'ai pas de réponse. J'ai le battement dans la poitrine. Et j'ai cinq cents lieues encore avant Caeloria.
-
----

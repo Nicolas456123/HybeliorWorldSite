@@ -258,5 +258,3 @@ Mon père avait suivi quelque chose, je ne sais toujours pas vers où. Sa lettre
 Je ne sais pas encore si cela me réconforte ou si cela m'inquiète.
 
 Peut-être les deux.
-
----

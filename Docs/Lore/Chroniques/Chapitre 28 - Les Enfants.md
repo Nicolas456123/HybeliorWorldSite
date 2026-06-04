@@ -237,5 +237,3 @@ Je ne suis pas arrivé. Il me reste des mois de route peut-être. Mais la route 
 La corde tire vers le bas.
 
 Et moi, qui tiens la corde depuis le début sans le savoir, je commence à sentir ce qu'il y a à l'autre bout.
-
----

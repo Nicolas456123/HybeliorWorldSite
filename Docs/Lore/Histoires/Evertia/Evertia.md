@@ -522,5 +522,3 @@ Lyssara refusa de detruire le tissu. Les druides vinrent l'examiner. L'un d'entr
 Le tissu fut confisque et envoye a Caespia. Lyssara ne sut jamais ce qu'il devint.
 
 Mais certaines nuits, a Ventsylve, quand le vent souffle dans la bonne direction, les tisserands entendent encore la melodie. Et leurs mains, malgre eux, commencent a tisser des motifs qu'ils ne reconnaissent pas.
-
----

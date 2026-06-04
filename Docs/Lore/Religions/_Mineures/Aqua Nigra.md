@@ -100,21 +100,3 @@ La chronique qu'elle laisse — un cahier de comptes saisi par les enquêteurs d
 Vellune meurt en 219 lors d'une descente de la guilde sur la Crique Basse. La version officielle parle d'une noyade pendant la fuite ; les Nigri marécageux soutiennent qu'elle s'est lestée elle-même, refusant que le rite reste inachevé : ayant tout offert sauf elle-même, elle aurait mené à terme l'Évidement.
 
 Sa figure est rare parce qu'elle **résume la trajectoire de la religion sans la trahir**. Elle est entrée par le deuil, elle est restée par la discipline, elle est sortie par l'épuisement complet de ce qu'elle avait à offrir. Sa cellule s'est dispersée après sa mort. Aucune relique n'est conservée — la doctrine l'interdit, et ses propres affaires avaient été offertes avant qu'elle ne meure. Elle survit dans le cahier de comptes, qui est aujourd'hui scellé dans les archives judiciaires de Mosrack et que personne ne lit.
-
----
-
-## Cadre interne — Patterns
-
-> *Notes pour rédacteurs. Grille interne, jamais énoncée par un PNJ ni par le Lore in-world.*
-
-**Piège Institutionnel dominant : L'Instrumentalisation, enfoncée.**
-
-Aqua Nigra est une religion qui **traite ses fidèles comme des combustibles** sous couvert de pureté. La doctrine du sacrifice irréversible exige que chaque fidèle se vide progressivement — le rite est le but, le fidèle est le moyen. Le vrai Aquor est posé comme destinataire absolu ; le fidèle est posé comme **canal**. La Loi de la Fin est violée à chaque rite : aucune âme n'est destinataire dans cette religion, toutes sont moyens d'apaiser une chose. Le piège est enfoncé, sans résistance interne — les rares fidèles qui s'en aperçoivent quittent ou meurent, et la religion ne garde que ceux qui ne posent pas la question.
-
-**Âge moral collectif majoritaire : Le Désir.**
-
-Contrairement à ce qu'on pourrait croire d'une religion austère, Aqua Nigra n'est pas une religion de la Loi. Ses fidèles entrent presque tous par **fuite de douleur** — deuil, peur de l'engloutissement, terreur du destin de Navoria projetée sur leur propre vie. Ils sacrifient pour apaiser une terreur, pas pour appliquer une règle. La discipline rituelle camoufle ce moteur primitif sans le transformer. Vellune elle-même, malgré sa rigueur comptable, n'agit jamais que pour ne pas re-sentir la perte de son mari : elle s'évide pour qu'il n'y ait plus rien en elle qui puisse encore être perdu. C'est l'enfance morale poussée jusqu'à sa limite logique.
-
-**Vertu Cachée affleurante : Le Sablier — perversément.**
-
-La méditation de la finitude est constitutive du culte : chaque rite est un memento mori, chaque offrande est une coupure définitive, chaque fidèle avancé apprend à se penser comme déjà-vide. Mais cette méditation est *toxiquée* — elle ne sert pas à aimer-ce-qui-est, elle sert à hâter la disparition. Le Sablier ici n'éclaire pas la vie ; il l'évacue. La vertu affleure dans son ombre : un lecteur attentif peut percevoir ce que la finitude bien méditée *aurait pu* être en voyant ce qu'elle est devenue ici, c'est-à-dire un dispositif d'auto-effacement masqué en sainteté. Vellune est l'icône négative du Sablier : la femme qui a médité sa fin avec tant d'application qu'elle s'est consumée avant son heure, sans avoir habité le temps qui lui restait.

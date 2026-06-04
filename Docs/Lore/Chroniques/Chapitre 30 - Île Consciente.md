@@ -255,5 +255,3 @@ Cette nuit-là, dans l'auberge de Valmora, j'ouvris mon cahier à la page du jou
 Je refermai le cahier.
 
 Je regardai le plafond de la chambre d'auberge jusqu'à ce que la lumière s'éteigne.
-
----

@@ -975,5 +975,3 @@ Les diplomates de Kharazir s'intéressent de façon inhabituelle aux expédition
 | **Tendance démographique** | Proportion de Liés en baisse depuis 3 siècles selon les relevés de Caeloria |
 | **Ressource en déclin** | Savoir du Lien (praticiens rares, connaissances se perdent) |
 | **Rumeurs Cardinal** | Prédictions concordantes mais non unanimes ; agitation des cours, sans coter |
-
----

@@ -762,5 +762,3 @@ La Cristallisation n'est pas une paix imposée mais une lassitude institutionnal
 > Cette stabilité est fragile, contestée, et chaque crise (Souffle, Faille majeure, succession dynastique) menace de la rompre. Les diplomates de Lumasar continuent de proposer des cadres communs ; aucun n'a abouti, et la plupart des chancelleries en ont pris leur parti — ce qui ne se négocie pas en commun se règle au cas par cas.
 
 La fin de l'Ère VI (~9 500 ap.A) ne se laisse pas dater par une signature. Elle est conventionnellement fixée par les chroniqueurs autour de la dernière des grandes conférences manquées — celle de Lumasar (~9 470) — et de la transition vers l'Ère VII, qui s'ouvre sur un paysage politique fragmenté, sans clore les conflits, les schismes, ni résoudre l'asymétrie d'accès aux ressources qui continueront d'alimenter les tensions actuelles.
-
----

@@ -309,5 +309,3 @@ Je marche.
 Le talisman de Ryvan est à mon poignet gauche. Le crin de cheval et le cuir rouge sont encore frais — il n'a pas eu le temps de prendre la patine du voyage.
 
 Il aura le temps.
-
----

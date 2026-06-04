@@ -684,5 +684,3 @@ Mais chaque soir, elle laissait un bol de miel sauvage à la lisière des arbres
 ---
 
 ## Osaria (Quinthor déjà couvert) — Région couverte par Quinthor, Mylnor et Felithar ci-dessus.
-
----

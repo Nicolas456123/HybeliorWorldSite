@@ -400,5 +400,3 @@ Les premiers germes percerent au sixieme mois. L'Intendant en place, incredule, 
 Thylaris produit a nouveau. Moins qu'avant — la terre garde ses cicatrices. Mais les quotas ont ete reduits, et quelque part dans les bureaux de Haliandris, un rapport recommande de "consulter les fermiers avant de modifier les cycles agricoles".
 
 Le nom d'Yrsa n'apparait pas dans le rapport. Mais chaque grain de ble noir qui pousse a Thylaris le porte en silence.
-
----

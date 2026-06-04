@@ -220,5 +220,3 @@ Mais Aldwin a continué à noter la brume. Le registre, à l'heure actuelle, dé
 Quand Aldwin mourra — il a soixante-douze ans —, la boîte sera héritée par son fils, qui ne lit pas. Le registre sera oublié dans un grenier. Il y restera. La brume continuera de stagner. Le Détroit de Suie deviendra, dans cent ans peut-être, infranchissable.
 
 Personne ne saura que quelqu'un avait essayé de prévenir.
-
----

@@ -177,5 +177,3 @@ Je dois y aller. Je ne suis pas certain de pouvoir expliquer pourquoi d'une faç
 Les routes rouvrent.
 
 Je dois vérifier si cela est vrai.
-
----

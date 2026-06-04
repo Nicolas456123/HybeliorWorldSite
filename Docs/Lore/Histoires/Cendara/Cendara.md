@@ -532,5 +532,3 @@ Il s'agenouilla. Pour la premiere fois de sa vie, il pria non pas avec devotion,
 Au-dessus de lui, le dernier Phenix de la generation vola en cercle au-dessus du temple. Son feu etait faible. Ses ailes tremblaient. Mais il volait encore.
 
 Pour combien de temps, Ashael ne voulait pas y penser.
-
----

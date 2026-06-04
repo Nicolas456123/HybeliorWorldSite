@@ -509,5 +509,3 @@ Eryk resta encore un jour. Puis il repartit. Pas vers Myrtam — vers Namyr meme
 Il ne crea jamais de chef-d'oeuvre. Mais il forgea des clous, des gonds, des outils pour les douze maisons de Namyr. Des choses utiles, simples, necessaires. Et chaque matin, avant de commencer, il posait la main sur la pierre du sanctuaire — non pour prier, mais pour se rappeler que le premier coup de marteau de Varnok n'avait rien de parfait.
 
 Il vecut a Namyr jusqu'a sa mort. Le village avait desormais treize maisons.
-
----

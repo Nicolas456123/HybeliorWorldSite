@@ -540,5 +540,3 @@ Alya se reveilla a l'aube, allongee sur le sol de la grotte, des larmes sechees 
 Elle ne raconta a personne ce qu'elle avait vu. Pas parce que c'etait un secret — mais parce qu'aucun mot ne pouvait decrire le chagrin d'une terre qui avait choisi de devenir desert plutot que de se souvenir.
 
 Alya retourna a la tribu des Murmures. Elle devint la chamane la plus silencieuse de sa generation — et la plus respectee. Et chaque annee, elle revenait a Kelosar, seule, s'asseoir devant les peintures sans macher la racine. Juste pour regarder. Juste pour se souvenir de ce que la terre avait oublie.
-
----

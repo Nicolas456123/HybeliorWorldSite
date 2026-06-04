@@ -98,5 +98,3 @@ Ce que les chroniqueurs tirent de cette pièce : la flotte savait. Aldren savait
 Le pourquoi reste opaque. La discipline militaire de Tyndara à l'époque (sévère mais pas tyrannique) ne suffit pas à expliquer huit mille hommes qui partent en sachant. Une lecture serait que personne ne *savait* avec assez de certitude pour déserter — ils *redoutaient*, ce qui est une autre catégorie. Une autre serait qu'ils espéraient. La plupart des chroniqueurs concluent : on ne sait pas pourquoi des hommes raisonnables font des voyages qu'ils savent peut-être mortels. C'est une question qui n'a peut-être pas de réponse de l'extérieur.
 
 Les Lunariens, quand ils ont entendu cette histoire (par voie d'un Lecteur de rêve qui l'avait lue à Tyndara), l'ont notée dans leurs Tables des Conséquences sous la rubrique *décisions prises pendant la nouvelle lune*. La nuit de l'attaque sur Nysaria était bien une nouvelle lune. La précision n'a pas changé le résultat — mais les Veilleurs en ont tiré un usage : depuis, on ne lance pas d'expédition militaire pendant la nouvelle lune, à Lunasar. La règle n'est inscrite nulle part. Elle est tenue.
-
----

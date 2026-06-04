@@ -125,22 +125,3 @@ Le Conseil des Sept Feux ne le démet pas. Démettre une Voix discréditerait la
 Tessar meurt en l'an 137, à quarante-neuf ans, d'une affection respiratoire qu'on attribue à ses descentes répétées. La Cendara entière assiste aux funérailles. Le Conseil des Sept Feux prononce un éloge orthodoxe — le *Discours de la Cendre Patiente* est qualifié de « moment d'éprouve » que la foi de Tessar aurait surmonté ensuite. Le sermon lui-même n'est pas copié dans les recueils officiels. On en trouve des versions partielles dans les marges de plusieurs Forge-Liturgies de seconde main, à Cendara, et une copie complète à Mosrack — chez un forgeron sans appartenance déclarée, qui la garde pliée dans son tablier.
 
 Quarante ans après sa mort, des Délies de la Flamme ont commencé à laisser, sur le seuil de la troisième forge-temple du sud où il avait débuté, des poignées de cendre froide. Le geste est silencieux. Les Refondeurs balayent. La cendre revient.
-
----
-
-## Cadre interne — Patterns
-
-> [!note] Note de design — non in-world
-> Cette section est une note méta destinée aux rédacteurs et agents travaillant le Lore. Elle n'apparaît pas dans la fiction. Le vocabulaire ci-dessous (Pièges, Vertus, Âges) est une grille d'analyse ; les Ignitari n'en ont jamais entendu parler.
-
-- **Piège Institutionnel dominant : L'Espérance Vide.** Ignis Aeternum est *enfoncée* dans ce piège — c'est sa colonne vertébrale doctrinale. La promesse du réveil d'Eldoria/Flamara structure toute la liturgie, toute la mobilisation, toute la dette de cendre. Plus le réveil tarde, plus la promesse se durcit ; plus la promesse se durcit, plus les fidèles sont maintenus dans un manque permanent qu'aucune forge n'apaise. L'institution prospère **grâce à** ce manque, pas malgré lui. Une religion qui obtiendrait son réveil cesserait d'être l'Ignis Aeternum ; elle deviendrait autre chose. Donc, structurellement, elle ne peut pas l'obtenir.
-
-- **Âge moral collectif majoritaire : La Loi.** Les Refondeurs incarnent la posture par défaut : appliquer la liturgie, prêcher la patience, transmettre les rites sans plus jamais demander pourquoi le réveil tarde. L'âge du Désir affleure chez les jeunes apprentis (peur de la marque, fierté du Sceau) ; l'âge du Principe est presque introuvable, sauf chez quelques Délies et chez certains Vigilants en fin de carrière.
-
-- **Vertu Cachée affleurante : La Rouille.** L'audit suggère cette vertu, et c'est juste — mais elle affleure *malgré* la doctrine, pas grâce à elle. La doctrine officielle nie la perte définitive (tout brûle pour renaître). Or la pratique de la forge enseigne autre chose : la rouille est ce qu'il faut accepter pour aiguiser. Les Délies de la Flamme ont compris cela ; ils l'ont retourné en théologie clandestine. Tessar Veynd l'a touché du doigt sans pouvoir le formuler. Les Vigilants des cratères le vivent dans leur corps. La vertu affleure dans la matière elle-même — c'est elle qui résiste à la doctrine.
-
-- **Application narrative :** un PNJ Ignitari par défaut est dans la Loi (Refondeur convaincu, apprenti au Sceau frais, soldat-prêtre Pyrtarien). Pour 1 figure de la Rouille (Voix sous les Cendres revenue murmurante, Délie clandestin, vieux forgeron qui ne prêche plus), prévoir 4-6 figures qui prêchent le réveil avec une ferveur intacte. Aucun PNJ ne doit énoncer le piège ni la vertu. Le lecteur les voit dans le contraste entre les Veillées triomphales et la cendre qui s'accumule, entre la promesse de la Refonte et les apprentis arrachés à leurs familles, entre le Mont qui s'atténue et les rapports officiels qui parlent de respiration profonde.
-
----
-
-*Liens : [[00 - Système Religieux]] | [[Era 1a - Les Cosmiques]] | [[Era 4 - L'Arrachement]] | [[Le Souffle]] | [[Cosmologie]]*

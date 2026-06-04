@@ -168,5 +168,3 @@ La jeune fille vécut, se maria, eut des enfants. Elle continua à dormir la nui
 L'histoire est rapportée comme une *anecdote*. Aucune leçon n'en est tirée. Aucun chant ne la fixe. Elle est, peut-être, la chose la plus dhalvorienne qu'on puisse raconter — une exception qui ne se formule pas comme exception, qui ne se résout pas, qui n'inspire personne, et qui pourtant existe et a vécu son cours sans être ni reprise ni effacée.
 
 Les Vallois orthodoxes, quand on leur rapporte cette histoire, sourient parfois. Ils ne disent rien. Ils retournent à leur Veille du soir.
-
----

@@ -234,4 +234,3 @@ Le Conseil de Korindar fut perturbé par la proposition. Aucun des arguments hab
 À la quatrième session, le Conseil rejeta la proposition par épuisement. Aucun vote. Aucune motivation explicite. La proposition fut classée. Yelvenne ne réinsista pas. Elle continua son travail de cristallière. En privé, à une apprentie qu'elle formait, elle dit : *« je ne sais pas pourquoi nous le gardons. Je ne crois plus que les anciens le savaient non plus. Mais nous continuons. C'est ce que nous faisons. »*
 
 Le cristal est toujours dans la cavité scellée. Il est, en l'arc Sorin, parfaitement gardé. La temperature de la cavité est régulée par un système de ventilation entretenu par roulement par les apprentis cristalliers. La règle d'accès est stricte. Personne ne sait précisément ce qu'on garde. Personne ne le demande.
-

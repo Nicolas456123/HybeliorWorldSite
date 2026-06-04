@@ -309,4 +309,3 @@ Mais avant Thalendris, il y a Drakora. Et à Drakora, il y a des archivistes qui
 *Pour l'instant, je note ce que je tiens : Tempora a laissé un signal. Selon ma lecture, deux cents personnes vivraient dans un instant arrêté, quelque part dans les couches du temps — pas mortes, déplacées. Si Tempora peut déplacer, Tempora peut peut-être replacer. Mais seulement si Tempora est entier, et Tempora est blessé.*
 
 *Je n'ai ni magie ni légitimité divine. J'ai une carte qui se précise, et la certitude que quelqu'un d'autre a fait ce chemin avant moi et a choisi de continuer. C'est suffisant pour avancer.*
-

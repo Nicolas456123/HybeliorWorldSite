@@ -313,5 +313,3 @@ Mais j'économise mes forces depuis cinq cent vingt jours. Et je n'en ai plus be
 La route est devant. Evertia est derrière — et devant aussi, parce que certaines destinations ne sont pas dans une direction mais dans toutes, parce que le point central d'une carte est là où toutes les lignes arrivent depuis n'importe quelle direction.
 
 Je marche.
-
----

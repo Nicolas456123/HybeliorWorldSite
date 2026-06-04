@@ -307,4 +307,3 @@ Je partis pour Ordavan le lendemain à l'aube.
 *Jour 320. Ce que j'ai appris à Holvendar : les bibliothèques ne sont pas des tombeaux. Elles sont des chambres de vivants qu'on a décidé de ne pas encore réveiller. La différence entre le savoir caché et le savoir mort est la même qu'entre un livre dans une alvéole de cristal et un livre brûlé : l'un attend, l'autre n'existe plus. Gryndor cache le savoir parce qu'il croit au savoir suffisamment pour avoir peur de lui. C'est, à sa manière, une forme de foi.*
 
 *Mon père avait compris. Maintenant je dois voir.*
-

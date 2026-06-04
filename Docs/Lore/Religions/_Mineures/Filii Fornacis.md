@@ -99,20 +99,3 @@ Ces tensions, loin d'être périphériques, sont la raison principale pour laque
 Le Conseil la suspendit pendant onze ans pour « dilution rituelle ». Elle continua de forger, sans titre et sans temple, dans une cabane des faubourgs. Réintégrée à soixante ans après la mort de ses opposants, elle refusa de reprendre ses fonctions et brûla publiquement le registre des marques de sa lignée. Ses outils furent refondus à sa mort, conformément au rite ; aucune de ses pièces ne survit dans les collections officielles d'Altram, ce qui n'a pas empêché les apprentis Refondeurs d'adopter discrètement, depuis trois générations, le **trait creux** comme signature provisoire de leur première année de Pièce Seule.
 
 Halmar n'est pas vénérée. Aucun temple ne porte son nom. Quelques Forgani de Mosrack racontent l'histoire ; la plupart ne la connaissent pas.
-
----
-
-## Cadre interne — Patterns
-
-> [!note] Note d'analyse (hors-doctrine)
-> *Cet encadré est une lecture analytique externe des patterns que la religion incarne. Il n'est pas un dogme in-world ni un vocabulaire utilisé par les fidèles.*
-
-**Piège Institutionnel dominant — L'Âge de la Loi figée.** Le cycle d'apprentissage de quatorze ans, le Conseil des Marques, le calendrier rituel des Repassages : Filii Fornacis applique des règles qui ne sont plus interrogées depuis sept à neuf siècles. La précision rituelle est tenue pour preuve de fidélité ; toute innovation est suspecte (cf. le sort de Halmar Fenoska). La religion paraît stable parce qu'elle n'évolue plus.
-
-**Âge moral collectif majoritaire — La Loi.** L'écrasante majorité des Forgani agit depuis une règle reçue (la pureté du geste, la justesse de la marque) sans plus en chercher le sens. Le rite est sa propre fin. Cette inertie n'est pas perçue comme un défaut par les fidèles — au contraire, elle est revendiquée comme **rigueur**.
-
-**Vertu Cachée affleurante — La Rouille.** Paradoxalement, la matière même que les Filii travaillent les ramène constamment vers une vertu que leur dogme n'énonce pas. Le métal s'use, le maître se refond, la pièce devient autre chose. Les Refondeurs vivent dans une acceptation quotidienne de la dégradation qui dépasse de loin tout ce que la doctrine dit explicitement. Cette Rouille affleurante est le négatif lumineux d'un dogme par ailleurs figé : la pratique enseigne ce que la liturgie ne sait plus dire. Halmar Fenoska, en refusant la marque permanente, en a été la figure aiguë — et la religion l'a recouverte de silence, comme elle recouvre toutes les pièces qu'elle refond.
-
----
-
-*Liens : [[../00 - Système Religieux]] | [[../_Histoire des Religions]] | [[../Ignis Aeternum]] | [[../../../GDD/17 - Cosmologie]]*

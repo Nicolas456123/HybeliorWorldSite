@@ -135,23 +135,3 @@ En 211, il publie une œuvre liturgique de quatre heures, *La Mesure Sourde*, qu
 Il meurt en 226 d'une affection pulmonaire qui l'avait privé du chant six ans plus tôt. Sa Dernière Chanson, composée par ses élèves clandestins, n'a pas été assistée par un Cantor officiel — geste à la limite de l'hérésie. Le récit qu'en font ses élèves est sec : *« Nous l'avons chantée, et elle s'est éteinte. C'est ce qu'il avait toujours dit qu'une chanson devait faire. »*
 
 Calistor est aujourd'hui un point sensible dans Cantus Mundi. Les écoles officielles l'ignorent ou le mentionnent comme un musicien talentueux à la doctrine confuse. Les Sourds le revendiquent comme leur véritable fondateur, sans l'avoir jamais entendu lui-même se réclamer de leur école — le mot n'existait pas encore. Sa partition de *La Mesure Sourde* circule en copies manuscrites ; certains exemplaires ont été brûlés à Thalmaris, certains conservés à Seraphia. Aucune édition imprimée n'existe. Le silence qu'il a habité de son vivant continue à se déposer autour de son nom.
-
----
-
-## Cadre interne — Patterns
-
-> *Notes pour rédacteurs. Grille interne, jamais énoncée par un PNJ ni par le Lore in-world.*
-
-**Piège Institutionnel dominant : L'Espérance Vide, enfoncée mais combattue par les Sourds.**
-
-Cantus Mundi est l'archétype d'une religion organisée autour d'un **retour promis qui n'arrive pas**. La théologie de l'attente — majoritaire — entretient les fidèles dans un manque permanent : on chante pour préparer l'oreille du monde, on transmet pour ne pas perdre la possibilité, on espère pour ne pas désespérer. La promesse jamais tenue (Cantor reviendra) est précisément ce qui maintient la religion vivante. Si on cessait d'attendre, le sens s'effondrerait. C'est l'Espérance Vide presque à l'état pur.
-
-L'École Sourde, autour de Calistor, propose une sortie : chanter pour la justesse, indépendamment du retour. C'est une libération possible du piège — exactement ce que la théorie prévoit (sortir de l'Espérance Vide par l'aimer-ce-qui-est, c'est-à-dire par l'acceptation du silence sans projection). Mais cette voie est ostracisée, et reste minoritaire. La religion préfère le piège à la liberté qu'il faudrait pour s'en sortir.
-
-**Âge moral collectif majoritaire : La Loi.**
-
-Les fidèles ordinaires de Cantus Mundi appliquent une discipline sophistiquée — les Heures du Chant, le Silence Sacré, la Dernière Chanson — sans interroger la promesse qui la sous-tend. Ils chantent parce qu'on chante. La Loi est ici particulièrement esthétisée : elle prend la forme d'une discipline musicale longue, d'une éducation patiente, d'une beauté collective. C'est une Loi belle, ce qui la rend particulièrement difficile à interroger.
-
-**Vertu Cachée affleurante : Le Voile.**
-
-Cantus Mundi serait, *si elle savait s'écouter elle-même*, une religion du Voile — du doute fertile, de l'incertitude habitée. La pratique de l'écoute, le silence sacré, la disparition immédiate de la Dernière Chanson, l'attention aux résonances : tout est outillage pour aimer-ce-qui-est sans réclamer de certitude. Mais la doctrine officielle a transformé ce Voile potentiel en attente d'un dévoilement futur. La vertu affleure dans les pratiques, même quand le dogme la trahit. Les Sourds — et Calistor en particulier — sont les rares qui ont *cru à la pratique sans croire à la promesse*. Le lecteur attentif percevra que c'est précisément cette attitude — chanter sans attendre — qui aurait été la sortie. Mais la sortie n'a pas été prise. Calistor est mort obscur, ostracisé, et sa Dernière Chanson s'est éteinte comme toutes les autres.

@@ -338,5 +338,3 @@ Et peut-être de ce qui attend d'être suivi.
 Dans la brume du plateau, Pardine souffla lourdement et baissa la tête vers le chemin. Elle avait raison. Il y avait de la route devant.
 
 Vers l'est.
-
----

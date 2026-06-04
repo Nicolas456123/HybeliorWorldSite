@@ -187,16 +187,3 @@ Ce que les chroniques officielles taisent : à partir de +185, Lethanis cesse pr
 Lethanis meurt en +193, d'une fièvre lente, dans la tour-cellule réservée aux Premiers Lecteurs sortants. Son successeur, *Drevan Sept-Étoiles*, fait bûler ses carnets personnels — par respect, dit-il, *« pour la grandeur de la maison »*. Il reste les lettres à Calmara, qu'il ignorait. La Méthode des Recalibrations porte toujours son nom. La phrase sur le dictionnaire brûlé n'a jamais été enseignée. Quelques apprentis astravians, qui pratiquent ce qu'on appelle aujourd'hui le **Petit Office**, citent une version simplifiée de cette phrase à voix basse, sans toujours savoir d'où elle vient.
 
 Sa tombe, dans la Crypte des Astres Tournés, porte l'inscription officielle : *« Lethanis Vor-Ostrun, qui a lu droit. »* Elle est régulièrement fleurie. Aucun fidèle ne sait qu'elle a passé sept ans à douter.
-
----
-
-## Cadre interne — Patterns
-
-> Encadré technique réservé aux rédacteurs. Ne jamais affleurer in-world.
-
-- **Piège Institutionnel dominant : L'Âge de la Loi figée.** L'Ordo Caelum a transformé une discipline d'observation en système de validation circulaire. Les Tables ne se discutent plus, elles se recopient. Les promotions se font par fidélité de lecture, jamais par interrogation. La méthode des Recalibrations elle-même est un dispositif pour absorber le réel sans avoir à le penser. Le clergé est **enfoncé** dans le piège, pas en lutte contre lui : les fissures (Veilleurs, réformistes, Petit Office) sont marginales et seront étouffées avant de devenir une voie.
-- **Âge moral collectif majoritaire : La Loi.** Le Stellaris standard agit depuis une règle reçue (les Tables) qu'il défend avec une certitude bénéfique d'apparence (la patience caelumite, la cascade des gongs, l'éclipse silencieuse). Très peu basculent vers le Désir (Veilleurs en angoisse), encore moins vers le Principe.
-- **Vertu Cachée affleurante : Le Voile.** Ce qui peut être attrapé par un fidèle attentif, c'est l'aveu d'ignorance — la possibilité que les Tables ne disent plus ce qu'elles ont dit. Elle affleure dans le *Petit Office*, dans les lettres de Lethanis, dans le « peut-être » du Premier Lecteur. Elle ne sera jamais doctrine.
-- **Note de friction** : la posture caelumite est *séduisante* — elle promet ordre, lecture, place pour chacun. Le piège ne se voit que sur deux ou trois générations. Ne jamais le dénoncer dans le texte ; le laisser affleurer.
-
-*Liens : [[00 - Système Religieux]] | [[Era 3a - Le Lien et les Empires]] | [[Le Souffle]] | [[Cosmologie]] | [[Histoire d'Hybelior]]*

@@ -204,5 +204,3 @@ Kethron III, dont le règne dura encore dix-huit ans après l'ajournement, ne re
 Cette phrase est aujourd'hui citée par les deux écoles, qui la lisent dans des sens opposés. Les orthodoxes y voient la confirmation que la doctrine — par sa résistance même au tranchement — est plus sage que ses serviteurs. Les Premier-Voile y voient l'aveu d'un homme qui a regardé en face le **silence-règle** et qui n'a pas su, au bout du compte, le distinguer du **silence-écoute**.
 
 Aucune des deux lectures n'est sûrement juste. Le conclave, lui, ne se tint jamais.
-
----

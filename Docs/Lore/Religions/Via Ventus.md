@@ -168,25 +168,3 @@ L'ironie posthume : Iskaer, qui a refusé la prêtrise toute sa vie, est aujourd
 **Premier Sillage (50-150 ap.A)** : reconstruction. Les Ventari acceptent progressivement de bâtir des temples de pierre, mais toujours adossés à des routes ou des ports — jamais isolés. La doctrine intègre l'idée que **le vent souffle même quand le passeur est parti**.
 
 **Sillage actuel (an 251)** : doctrine mature mais fissurée par la Querelle de l'Ancrage. Les Ventari restent les principaux **traducteurs entre les religions** — leur ouverture culturelle (héritée du voyage) leur permet de dialoguer avec presque toutes les autres traditions. Le **Message de Mirathi** (cf. Era 7) — fragments en trois langues dont une inconnue — est interprété par certains Ventari comme un signal de Navigor qui *reviendrait*. Cette lecture est minoritaire mais persistante. Les Ventari du Souffle Continu y voient surtout une opportunité de mouvement renouvelé ; les Ventari de la Coupe demeurent prudents.
-
----
-
-## Cadre interne — Patterns
-
-> *Notes pour rédacteurs. Grille interne, jamais énoncée par un PNJ ni par le Lore in-world.*
-
-**Piège Institutionnel dominant : Effacement de la Limite, en lutte interne contre une vraie discipline du refus.**
-
-Via Ventus est l'exemple-clé d'une institution qui porte une vertu authentique (Le Tranchant) mais où la fraction dominante en train d'émerger — les Ventari du Souffle Continu — est en train de **glisser** dans le piège opposé. Quand refuser tout devient l'expression de soi, le geste cesse d'être un tranchant et devient une dilution masquée en pureté. La fluidité totale n'exclut plus rien, donc ne définit plus rien. Le piège se présente sous l'apparence de la fidélité doctrinale ; c'est précisément ce qui le rend coriace.
-
-La Querelle de l'Ancrage est le théâtre où ce glissement s'observe. Les Ventari de la Coupe (minoritaires, vieillissants) tiennent encore une discipline de Tranchant authentique, où exclure est constitutif d'identité. Les Ventari du Souffle Continu (majoritaires, jeunes) prennent le mot mais en évident le geste.
-
-Aucun PNJ ne formule cela. Le glissement se voit dans les conséquences : temples qui se vident sans que personne ne s'en alarme, fidèles qui changent de ville chaque année et perdent leurs amitiés sans peine, Hiérophantes qui meurent sans héritiers parce qu'aucun jeune ne supporte la charge. La dilution s'expose dans ses fruits, pas dans son énoncé.
-
-**Âge moral collectif majoritaire : La Loi.**
-
-La majorité des Ventari ordinaires sont dans la Loi — ils appliquent la discipline du seuil, le rite du Geste de la Voile, le Premier Vent, sans plus interroger ce que ces gestes signifient. Le voyage est devenu obligation comme la prière en pays sédentaire. Les Ventari de la Coupe maintiennent une exigence qui pourrait être de l'ordre du Principe, mais elle est en voie de fossilisation chez beaucoup de leurs représentants : ils défendent la discipline parce qu'elle est ancienne, plus que parce qu'ils la vivent.
-
-**Vertu Cachée affleurante : Le Tranchant — sous sa forme authentique (Coupe) et sous sa forme pervertie (Souffle Continu).**
-
-C'est la religion-laboratoire pour cette vertu. Iskaer en est l'incarnation rare et tardive : un homme qui a fait du refus une **identité par exclusion** sans le dire, sans le théoriser, sans laisser de disciple. Sa figure est inconfortable parce qu'elle ne paie pas — il meurt obscur, sur un navire dont le nom est perdu, et son geste est posthumement récupéré par les deux camps qui le déforment chacun à leur manière. Le lecteur attentif percevra qu'**Iskaer aurait refusé d'être saint** comme il a refusé tout le reste — et que cette dernière ironie est précisément ce que la religion ne sait pas honorer.

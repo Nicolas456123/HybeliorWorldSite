@@ -205,5 +205,3 @@ Je ne pouvais pas. J'ai essayé. Ce n'était pas possible.
 Alors je marche. Et demain Lythar, et le vent des steppes, et encore une autre vérité à recevoir.
 
 Le dessous de la terre n'a pas de carte. Je vais en faire une.
-
----

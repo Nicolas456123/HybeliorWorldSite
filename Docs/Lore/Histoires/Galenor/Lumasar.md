@@ -642,5 +642,3 @@ L'inspecteur resta silencieux longtemps. Puis il dit : « C'est le don le plus c
 Andren haussa les épaules. « On ne choisit pas ses dons. On choisit ce qu'on en fait. »
 
 Il est toujours à Drethorn. Ses élèves réussissent toujours. Et lui, chaque nuit, entre dans des rêves magnifiques qu'il ne peut jamais garder pour lui-même.
-
----

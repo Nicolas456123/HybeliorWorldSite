@@ -149,21 +149,3 @@ Halvenor Drask est retrouvé mort le 14 du Souffle d'Hiver, an 233, dans son log
 Le nom de Halvenor Drask est aujourd'hui un point de fracture interne de Catena Fracta. Les Persuadeurs le revendiquent comme leur figure morale ; les Fils de l'Abîme l'ignorent ou le qualifient de **rétractation** (terme codé pour désigner ceux qui ont *refusé de refuser jusqu'au bout*) ; les Coupeurs hésitent. Son traité **Ce qui se brise quand on cesse de demander** continue d'être étudié dans les cellules ; sa lettre posthume **Le Tranchant n'est pas un couteau** circule en copies manuscrites, redoutée des Nœuds qui interdisent à leurs Fracta de la lire et qui en interdisent aussi les commentaires.
 
 Le geste de Halvenor — refuser le refus quand le refus devient sa propre négation — est, pour le mouvement, un caillou qu'il ne sait ni avaler ni recracher. Pour les ennemis du mouvement, c'est la preuve qu'il y a, *encore aujourd'hui*, au cœur de Catena Fracta, une lame plus tranchante que la doctrine officielle n'ose la nommer.
-
----
-
-## Cadre interne — Patterns
-
-> *Notes pour rédacteurs. Grille interne, jamais énoncée par un PNJ ni par le Lore in-world.*
-
-**Piège Institutionnel dominant : L'Âge de la Loi figée — paradoxalement.**
-
-Catena Fracta est l'illustration la plus subtile du piège : un mouvement qui prétend incarner le refus radical et qui, par la mécanique même de sa discipline, est devenu une **Loi figée du refus**. Ses fidèles ne refusent plus en interrogeant — ils refusent par règle, par habitude codifiée, par procédure d'admission. La doctrine du refus s'est durcie en dogme du refus. Les Coupures rituelles, comptabilisées avec rigueur, ne sont plus des gestes d'identité ; ce sont des cases à cocher. Le mouvement applique son propre catéchisme avec autant de mécanique que les religions qu'il combat. C'est précisément ce que Halvenor Drask a perçu en 224 et que sa lettre posthume désigne sans le nommer.
-
-**Âge moral collectif majoritaire : La Loi.**
-
-Les Fracta de base sont presque tous dans la Loi — ils appliquent la discipline du refus parce qu'on la leur a transmise, et leur révolte initiale (qui pouvait relever du Désir) s'est figée en règle. Les Persuadeurs et les Coupeurs varient ; les Fils de l'Abîme sont profondément dans la Loi, leur froideur procédurale étant le signe le plus net qu'ils ne pensent plus le geste qu'ils accomplissent. Halvenor Drask, dans son geste de 224-225, est l'exemple rare d'une bascule vers le Principe : il refuse parce que refuser est, pour lui, une fin en soi, et il refuse même son propre camp quand celui-ci cesse de refuser au sens où il l'entendait. Il en meurt obscur, lentement assassiné ou mort de cœur — la mécanique narrative ne récompense rien.
-
-**Vertu Cachée affleurante : Le Tranchant — sous sa forme la plus pure et la plus tragique.**
-
-Le Tranchant authentique apparaît exactement une fois dans le mouvement, et c'est dans la rupture interne de Halvenor Drask. Refuser le refus quand celui-ci se trahit, c'est l'aboutissement du Tranchant — exclure même ce qui prétend être l'exclusion, pour préserver le geste de séparation lui-même. La religion entière est censée porter cette vertu et la déforme presque uniformément en Loi figée. Halvenor en est la figure incarnée *parce qu'il a refusé jusqu'à refuser sa propre maison*. L'ironie : c'est précisément ce que l'audit demandait. Sa figure pourra être croisée par Sorin (l'agent A.4 s'en saisira). Elle est récente, datée, brûlée avant qu'on puisse l'autopsier — comme il convient à une figure que ni les amis ni les ennemis ne peuvent vraiment honorer sans la trahir.

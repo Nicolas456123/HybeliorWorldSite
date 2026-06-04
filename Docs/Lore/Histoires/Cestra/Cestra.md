@@ -168,5 +168,3 @@ Borela conserva la lettre. Elle ne l'ouvrit pas. Elle ne demanda à personne ce 
 Onze ans passèrent.
 
 Sorin Valthen, fils d'Aldric, arriva à Noravia en l'an 231 du Sillage. Il n'est pas venu *pour* la lettre. Il ne savait pas qu'elle existait. Il vint pour comprendre ce que son père avait pu chercher en allant si loin. Voir la suite dans [[Noravia|Histoires/Cestra/Noravia]].
-
----

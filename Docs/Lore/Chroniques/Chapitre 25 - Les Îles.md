@@ -269,5 +269,3 @@ Ce que je note à la fin de cette étape, pour moi-même, avec la précision du 
 *Cette parenté me rapproche de la Carte du Silence. C'est mon œil qui les rapproche. Je le note.*
 
 *Quelqu'un, ou quelque chose, paraît cartographier en dessous — c'est en tout cas ce que ma propre cartographie m'incline à croire.*
-
----

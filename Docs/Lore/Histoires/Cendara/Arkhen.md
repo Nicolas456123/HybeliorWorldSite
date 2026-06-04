@@ -254,5 +254,3 @@ Mevren n'a jamais relié l'observation à la pratique délienne. Mais quand elle
 La chaîne existe. Personne ne la trace. Aucun document ne la consigne. Si elle se rompait demain, personne ne pourrait la reconstituer. Et pourtant la marque continue d'être posée, le cercle de cendre continue d'apparaître autour des Phénix mourants, et deux pratiques séparées par cinq cents lieues de mer continuent de respirer ensemble, sans le savoir.
 
 C'est, à Arkhen, la forme normale de la transmission spirituelle.
-
----

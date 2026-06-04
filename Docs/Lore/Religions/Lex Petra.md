@@ -138,22 +138,3 @@ Elle n'écrit plus rien d'orthodoxe pendant les vingt-deux années suivantes. El
 Karelya meurt en 79, à soixante-sept ans, après une longue maladie qu'elle endure sans céder à la rhétorique du martyre. Ses funérailles sont nationales. Le panégyrique officiel, prononcé par la Conclave, célèbre son **inflexibilité doctrinale** et sa contribution à la fermeture de deux dissidences. Le rapport sur les Marches mortes n'est pas mentionné. Le passage retiré est, depuis, classé dans les Archives de Iskara sous le code *VS-053-α*, accessible aux Lecteurs sur demande motivée. On le consulte rarement.
 
 Une centaine d'années après sa mort, des Lithanniens clandestins ont commencé à graver, sur des pierres détachées des Marches mortes, sa phrase consignée — *« la pierre tient ; les cités, elles, finissent »* — sans signature ni attribution. La gravure circule. La Conclave a, à plusieurs reprises, demandé qu'on la fasse marteler. Le martelage prend du temps ; les pierres sont nombreuses ; elles continuent d'apparaître.
-
----
-
-## Cadre interne — Patterns
-
-> [!note] Note de design — non in-world
-> Cette section est une note méta destinée aux rédacteurs et agents travaillant le Lore. Elle n'apparaît pas dans la fiction. Le vocabulaire ci-dessous (Pièges, Vertus, Âges) est une grille d'analyse ; les Petrani n'en ont jamais entendu parler.
-
-- **Piège Institutionnel dominant : L'Âge de la Loi figée.** Lex Petra est *enfoncée* dans ce piège — c'est son nom même. La doctrine officielle interdit l'interrogation des codes ; elle les *applique*. Quand un code ne fonctionne plus, on précise — on n'abroge pas. Quand une réalité contredit un article, on classe la réalité comme *perturbation*. Quand un Cosmique se tait, on continue à l'invoquer. Le mouvement même de la Loi vivante (interroger, reformuler, abroger, recevoir) est explicitement banni. La religion n'a pas lutté contre ce piège ; elle l'a *érigé en principe*. C'est précisément ce qui lui donne sa force — et c'est précisément ce qui la rend incapable de penser sa propre fin.
-
-- **Âge moral collectif majoritaire : La Loi.** Cas extrême et homonymique : les Petrani sont la religion la plus parfaitement représentative de cet âge. Obéir à la règle, défendre le code, transmettre l'ordre reçu sans le retravailler — c'est la définition même du Petrani idéal. L'âge du Désir est sévèrement réprimé (les jeunes apprentis impulsifs sont rappelés à l'ordre dès l'École). L'âge du Principe est presque introuvable ; quand il affleure, comme chez Karelya, il est *contenu* par le prestige institutionnel — on tolère la lucidité d'une grande figure tant qu'elle ne sort pas de la fonction.
-
-- **Vertu Cachée affleurante : Le Sablier.** Vertu rare dans le Lore — l'audit la signalait comme sous-incarnée. Lex Petra l'attire sans en vouloir : la pierre est *par excellence* l'objet qui invite à méditer la finitude (*« la pierre tient, les cités, elles, finissent »*). Les Lithanniens portent cette vertu de manière clandestine. Karelya l'a touchée. Les Petrani du Mouvement la flairent à travers leur acceptation du Souffle. Mais la doctrine officielle s'arrange pour la *recouvrir* par la promesse de durée — la pierre étant durable, on s'en sert pour nier le fait qu'on est, soi, mortel. C'est l'une des plus belles ironies du système : le matériau qui devrait inviter au Sablier est employé pour le refouler.
-
-- **Application narrative :** un PNJ Petrani par défaut est dans la Loi (Pesant rigoriste, juriste de quartier qui applique la procédure, apprenti fier de sa robe grise). Pour 1 figure du Sablier (Lithannien clandestin, vieux Lecteur revenu des Marches mortes, Petrani du Mouvement subtil), prévoir 4-6 figures de l'orthodoxie qui n'ont jamais touché la question de la finitude. Aucun PNJ ne doit énoncer le piège ou la vertu. Le lecteur les voit dans la lenteur des Conclaves, dans le *VS-053-α* classé en archives, dans Judicar invoqué qui ne répond plus, dans les Marches mortes que la doctrine officielle ne nomme presque jamais.
-
----
-
-*Liens : [[00 - Système Religieux]] | [[Era 1a - Les Cosmiques]] | [[Le Souffle]] | [[Cosmologie]] | [[Traces des Ères]]*

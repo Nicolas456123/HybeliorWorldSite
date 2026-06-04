@@ -245,5 +245,3 @@ Je notai dans mon journal, pour la forme, pour la mémoire, pour cette habitude 
 *Jour 800. Baelor. Reçu un mot. Posé un mot.*
 
 Je relus la note. Elle me parut courte. Je n'y ajoutai rien.
-
----
