@@ -1,0 +1,19 @@
+# .vercelignore — fichiers à NE JAMAIS déployer (ni servis en statique, ni via la
+# réécriture /lore/:path*). Le but : empêcher la fuite des matériaux éditoriaux
+# internes, qui restaient lisibles en accès direct malgré le strip côté client.
+#
+# IMPORTANT : ces fichiers ne sont référencés par aucun code du site (vérifié).
+# Les retirer du déploiement les rend 404 partout, sans casser la navigation.
+
+# Notes de rédacteur / chantiers / analyses méta (hors-monde)
+Docs/Lore/_Analyse/
+
+# Méta-arc du protagoniste (révèle le dispositif narratif — jamais in-world)
+Docs/Lore/Chroniques/_arc-sorin.md
+
+# Annexes audio internes
+Docs/Lore/_Audio/
+
+# Config éditeur Obsidian (ne doit jamais être servie)
+.obsidian/
+**/.obsidian/
