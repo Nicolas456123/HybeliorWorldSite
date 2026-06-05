@@ -32,7 +32,7 @@ const NavConfig = {
         - #continent/<key> : fiche continent (factuel)
         - #nation/<slug>   : fiche Description d'une nation (factuel)
         - #histoire/<slug> : récit (Histoire) d'une nation (Chroniques) */
-    loreSubroutes: ['vision', 'monde', 'mecaniques', 'systemes', 'histoires', 'nation', 'continent', 'histoire'],
+    loreSubroutes: ['vision', 'monde', 'mecaniques', 'systemes', 'histoires', 'nation', 'continent', 'histoire', 'religion'],
 
     /** Continents et nations — source unique pour :
         - la landing lore-histoires (cartes par continent)
@@ -101,6 +101,8 @@ const NavConfig = {
         if (this.findNationBySlug(slug)) return '#nation/' + slug;
         const cont = (this.nationContinents || []).find(c => c.label === name || c.key === slug);
         if (cont) return '#continent/' + cont.key;
+        const rel = (this.religions || []).find(r => r.label === name);
+        if (rel) return '#religion/' + rel.key;
         return null;
     },
 
@@ -124,7 +126,18 @@ const NavConfig = {
         { key: 'taciti',   label: 'Taciti',              md: 'Lore/Religions/_Mineures/Taciti.md',         mineure: true },
     ],
 
-    /** URL hash pour ouvrir une religion en page-md autonome. */
+    /** Route PROPRE pour une religion : #religion/<key>. */
+    religionHref(key) {
+        return '#religion/' + key;
+    },
+
+    /** Retrouve une religion par sa clé. */
+    findReligionByKey(key) {
+        if (!key) return null;
+        return (this.religions || []).find(r => r.key === key) || null;
+    },
+
+    /** URL hash pour ouvrir une religion en page-md autonome (legacy / fallback). */
     religionMdHref(md) {
         return '#md/' + encodeURIComponent(md);
     },
@@ -259,8 +272,8 @@ const NavConfig = {
         if (route === 'nation' || route === 'continent') {
             return (this.loreCategories || []).find(c => c.key === 'monde') || null;
         }
-        // Côté CHRONIQUES : récit (Histoire) d'une nation (#histoire/)
-        if (route === 'histoire') {
+        // Côté CHRONIQUES : récit (Histoire) d'une nation (#histoire/) et religions (#religion/)
+        if (route === 'histoire' || route === 'religion') {
             return (this.loreCategories || []).find(c => c.key === 'chroniques') || null;
         }
         if (route === 'md' && subkey) {

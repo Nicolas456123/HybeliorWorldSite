@@ -324,6 +324,24 @@ function slugify(s) {
         .replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '');
 }
 
+// Map chemin md d'une religion → sa clé (depuis NavConfig.religions), pour la route propre.
+let RELIGION_MAP = {};
+function buildReligionMap() {
+    const map = {};
+    if (!fs.existsSync(NAV_CONFIG_PATH)) return map;
+    const raw = fs.readFileSync(NAV_CONFIG_PATH, 'utf8');
+    const block = /religions\s*:\s*\[([\s\S]*?)\n\s*\],/m.exec(raw);
+    if (!block) return map;
+    const re = /\{\s*key\s*:\s*['"]([^'"]+)['"][\s\S]*?md\s*:\s*(?:'([^']*)'|"([^"]*)")/g;
+    let m;
+    while ((m = re.exec(block[1])) !== null) {
+        const key = m[1];
+        const md  = m[2] != null ? m[2] : m[3];
+        if (md) map[md] = key;
+    }
+    return map;
+}
+
 function computeRoute(relPath, routeMap) {
     const normRel = relPath.replace(/\\/g, '/');
     if (routeMap[normRel]) return routeMap[normRel];
@@ -339,7 +357,8 @@ function computeRoute(relPath, routeMap) {
     m = /^Lore\/Histoires\/[^/]+\/(.+)\.md$/.exec(normRel);
     if (m) return '#histoire/' + slugify(m[1]);
 
-    // Religions, Chronologie : routes composites
+    // Religions : route propre #religion/<key> (sinon repli sur le hub)
+    if (RELIGION_MAP[normRel]) return '#religion/' + RELIGION_MAP[normRel];
     if (normRel.startsWith('Lore/Religions/')) return '#monde/religions';
     if (normRel.startsWith('Lore/Chronologie/')) return '#monde/chronologie';
 
@@ -387,7 +406,8 @@ function main() {
     console.log('Scan de', DOCS);
 
     const routeMap = buildRouteMap();
-    console.log(`Mapping de routes depuis nav-config.js : ${Object.keys(routeMap).length} entrées`);
+    RELIGION_MAP = buildReligionMap();
+    console.log(`Mapping de routes depuis nav-config.js : ${Object.keys(routeMap).length} entrées, ${Object.keys(RELIGION_MAP).length} religions`);
 
     const files = [];
     walkDir(DOCS, files);

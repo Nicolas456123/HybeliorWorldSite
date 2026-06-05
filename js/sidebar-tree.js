@@ -31,7 +31,7 @@
     // Les 5 grands onglets. `routes` = routes qui appartiennent à la section.
     const SECTIONS = [
         { key: 'accueil',        label: 'Accueil',        href: '#accueil',        routes: ['accueil'] },
-        { key: 'lore',           label: 'Lore',           href: '#lore',           routes: ['lore', 'vision', 'monde', 'mecaniques', 'systemes', 'histoires', 'nation', 'continent', 'histoire'], kind: 'lore' },
+        { key: 'lore',           label: 'Lore',           href: '#lore',           routes: ['lore', 'vision', 'monde', 'mecaniques', 'systemes', 'histoires', 'nation', 'continent', 'histoire', 'religion'], kind: 'lore' },
         { key: 'implementation', label: 'Implémentation', href: '#implementation', routes: ['implementation'], kind: 'subtabs' },
         { key: 'carte',          label: 'Carte',          href: '#carte',          routes: ['carte'] },
         { key: 'frise',          label: 'Frise',          href: '#frise',          routes: ['frise'] },
@@ -157,13 +157,9 @@
             }
 
             const isOnReligionsHub = route === 'monde' && subkey === 'religions';
-            let isOnMdReligion = false;
-            if (route === 'md' && subkey) {
-                try { isOnMdReligion = decodeURIComponent(subkey).startsWith('Lore/Religions/'); }
-                catch (_) { isOnMdReligion = false; }
-            }
-            const isOnReligions  = isOnReligionsHub || isOnMdReligion;
-            const activeReligion = isOnMdReligion ? NavConfig.findReligionByMdPath(subkey) : null;
+            const onReligionRoute  = route === 'religion' && !!subkey;
+            const isOnReligions    = isOnReligionsHub || onReligionRoute;
+            const activeReligion   = onReligionRoute ? NavConfig.findReligionByKey(subkey) : null;
 
             let html = '<ul class="sidebar-lore-nav-list sidebar-tree-sublist">';
             for (const cat of NavConfig.loreCategories) {
@@ -278,7 +274,7 @@
             let html = '<ul class="sidebar-lore-nav-subtree">';
             for (const rel of NavConfig.religions) {
                 const linkActive = activeReligion && activeReligion.key === rel.key;
-                const href       = NavConfig.religionMdHref(rel.md);
+                const href       = NavConfig.religionHref(rel.key);
                 const classes    = 'sidebar-lore-nav-subhead' +
                                    (rel.mineure ? ' mineure' : '') +
                                    (rel.special ? ' special' : '') +

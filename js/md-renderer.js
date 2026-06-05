@@ -484,6 +484,13 @@
         return cont ? cont.key : null;
     }
 
+    /** Si `resolved` est une fiche de religion, renvoie sa clé (#religion/<key>). */
+    function religionKeyForResolved(resolved) {
+        if (!window.NavConfig || typeof NavConfig.findReligionByMdPath !== 'function') return null;
+        const rel = NavConfig.findReligionByMdPath(resolved);
+        return rel ? rel.key : null;
+    }
+
     async function postProcessObsidianLinks(rootEl, currentMdPath) {
         const links = rootEl.querySelectorAll('a.md-link[data-md-target]');
         if (links.length === 0) return;
@@ -505,6 +512,13 @@
             if (contKey) {
                 link.href = '#continent/' + contKey;
                 link.classList.add('md-link-continent');
+                return;
+            }
+            // Fiche de religion → route propre #religion/<key>.
+            const relKey = religionKeyForResolved(resolved);
+            if (relKey) {
+                link.href = '#religion/' + relKey;
+                link.classList.add('md-link-religion');
                 return;
             }
             // Fiche/histoire de nation → fiche Description #nation/<slug> (factuel).
