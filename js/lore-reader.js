@@ -31,6 +31,8 @@ const NATIONS = {
     'Elarian':                 { continent: 'Celethor', pays: 'Pays/Celethor/Elarian.md',               histoires: 'Histoires/Celethor/Elarian.md' },
     'Ryldor':                  { continent: 'Celethor', pays: 'Pays/Celethor/Ryldor.md',                histoires: 'Histoires/Celethor/Ryldor.md' },
     'No Man\'s Land Celethor': { continent: 'Celethor', pays: 'Pays/Celethor/No Man\'s Land Celethor.md', histoires: 'Histoires/Celethor/No Man\'s Land Celethor.md' },
+    // Nysaria : petite île au large de la côte est de Celethor (anciennement faux continent).
+    'Nysaria':                 { continent: 'Celethor', pays: 'Pays/Celethor/Nysaria.md',                histoires: 'Histoires/Celethor/Nysaria.md' },
 
     // Cendara
     'Cendara':  { continent: 'Cendara', pays: 'Pays/Cendara/Cendara.md',  histoires: 'Histoires/Cendara/Cendara.md' },
@@ -70,11 +72,10 @@ const NATIONS = {
     'Sylthara':  { continent: 'Ilthara', pays: 'Pays/Ilthara/Sylthara.md',  histoires: 'Histoires/Ilthara/Sylthara.md' },
     'Vytharia':  { continent: 'Ilthara', pays: 'Pays/Ilthara/Vytharia.md',  histoires: 'Histoires/Ilthara/Vytharia.md' },
     'Warenthor': { continent: 'Ilthara', pays: 'Pays/Ilthara/Warenthor.md', histoires: 'Histoires/Ilthara/Warenthor.md' },
-
-    // Nysaria
-    'Nysaria': { continent: 'Nysaria', pays: 'Pays/Nysaria/Nysaria.md', histoires: 'Histoires/Nysaria/Nysaria.md' },
-    'Lunasar': { continent: 'Nysaria', pays: 'Pays/Nysaria/Lunasar.md', histoires: null },
-    'Mirathi': { continent: 'Nysaria', pays: 'Pays/Nysaria/Mirathi.md', histoires: null },
+    // Lunasar (Monarchie Lunaire) et Mirathi (port-sanctuaire des Oracles) :
+    // provinces historiques de Vytharia, rapatriées en Ilthara (ex-faux continent Nysaria).
+    'Lunasar':   { continent: 'Ilthara', pays: 'Pays/Ilthara/Lunasar.md',   histoires: 'Histoires/Ilthara/Lunasar.md' },
+    'Mirathi':   { continent: 'Ilthara', pays: 'Pays/Ilthara/Mirathi.md',   histoires: 'Histoires/Ilthara/Mirathi.md' },
 
     // Onara
     'Mosrack': { continent: 'Onara', pays: 'Pays/Onara/Mosrack.md', histoires: 'Histoires/Onara/Mosrack.md' },
