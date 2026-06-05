@@ -22,28 +22,6 @@ needs_review_for: []
 
 ---
 
-## Histoire
-
-### L'Ère des Pirates
-
-Avant Tyndara, la côte d'Onara était un repaire de pirates. Des dizaines de capitaines indépendants contrôlaient chacun un port, une crique ou un archipel, et pillaient les navires marchands qui osaient s'aventurer dans leurs eaux. Le commerce maritime était si dangereux que la plupart des nations préféraient le commerce terrestre — plus lent mais moins mortel.
-
-Les pirates n'étaient pas tous des brutes. Certains étaient des navigateurs brillants, des cartographes, des ingénieurs navals. Mais leur anarchie les empêchait de construire quoi que ce soit de durable.
-
-### La Ligue des Marchands
-
-Le tournant vint d'une femme : **Selyra la Calculatrice**, fille d'un pirate et d'une marchande étrangère. Éduquée dans les deux mondes, elle comprit que le pillage était moins rentable que le commerce — à condition de contrôler les routes maritimes.
-
-Selyra proposa aux capitaines pirates un marché : ils cesseraient le pillage et deviendraient des marchands légitimes. En échange, elle leur garantirait des monopoles commerciaux sur des routes spécifiques. Ceux qui refuseraient seraient chassés par tous les autres réunis.
-
-La majorité accepta. Les récalcitrants furent éliminés en moins d'un an. Selyra fonda la **Ligue des Marchands** — une alliance commerciale qui devint rapidement le gouvernement de facto de la côte. La Ligue devint Tyndara — du nom du vent dominant qui pousse les navires vers le port.
-
-### L'Ère de la Prospérité
-
-L'Archonte actuel, **Valdris III**, est un homme affable et rusé. Sous sa direction, Tyndara est devenue la plaque tournante du commerce mondial. Les navires tyndariens relient tous les continents, et les guildes commerciales tyndariennes ont des comptoirs dans chaque port d'Hybelior. L'argent coule à flots — mais la corruption aussi.
-
----
-
 ## Gouvernement — La République Marchande
 
 Le pouvoir à Tyndara appartient à l'argent :

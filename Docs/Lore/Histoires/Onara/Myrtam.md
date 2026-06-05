@@ -7,6 +7,16 @@ needs_review_for: []
 ---
 # Histoires de Myrtam
 
+## Origines — « La Montagne qui Forge »
+
+Myrtam est né d'un cataclysme. Il y a des siècles, une chaîne d'éruptions volcaniques souterraines fractura les montagnes du sud d'Alkaran, créant un réseau de cavernes incandescentes où le magma affleure à quelques mètres sous la surface. Les premiers colons — des réfugiés d'Altram poussés par la surpopulation — découvrirent que cette chaleur naturelle permettait de fondre des métaux à des températures impossibles à atteindre ailleurs. Ce qui commença comme un camp de fortune devint une industrie, puis un royaume. Aujourd'hui, Myrtam est le plus grand producteur de métaux rares d'Alkaran.
+
+L'événement fondateur fut la création de l'Acier Éternel — une arme (une épée à double tranchant, selon la légende) d'une qualité si extraordinaire qu'elle est tenue pour invincible. Elle fut forgée par **Myr le Fondeur**, le premier roi de Myrtam, qui aurait passé sept années dans les profondeurs de la Grande Forge sans jamais remonter à la surface. L'Acier Éternel est conservé au cœur de la montagne ; seul le roi régnant le contemple, le jour de son couronnement.
+
+Aucune lecture ne fait consensus sur Myr le Fondeur : génie singulier, dépositaire d'une aide surnaturelle, héritier d'un savoir métallurgique perdu — chaque tradition propose la sienne. Les prêtres de l'Ignis Aeternum affirment qu'Eldoria elle-même a guidé sa main. Les sceptiques d'Altram et de Mosrack y voient une accumulation de techniques que Myr aurait simplement refusé de partager. Les Foedus Animae, présents en marge à Myrtam, suggèrent que les âmes des forgerons morts dans les éruptions précédentes s'étaient transmises à lui — lecture que les prêtres d'Ignis rejettent.
+
+---
+
 ## Haliandris — « Ce que le Roi a Vu »
 
 Le jour de son couronnement, Thorvald VIII descendit dans la chambre secrete ou reposait l'Acier Eternel. C'etait le rite — chaque roi de Myrtam devait contempler l'oeuvre de Myr le Fondeur, la lame invincible, le coeur du royaume.

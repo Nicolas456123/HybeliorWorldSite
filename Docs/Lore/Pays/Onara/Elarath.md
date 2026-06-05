@@ -47,46 +47,6 @@ Elarath occupe une demi-baie naturellement abritée du sud-ouest d'Onara, à env
 
 ---
 
-## Histoire
-
-### Les origines — La Fédération de Morveth (an -180 environ jusqu'à l'an 47)
-
-Avant Elarath, il y avait Morveth — une confédération de douze villes portuaires du sud-ouest d'Onara, organisée pendant deux siècles autour d'un Conseil des Quais qui se réunissait alternativement dans chaque cité-membre. Morveth tenait par un *équilibre des intérêts* maritimes : aucune ville-membre n'imposait sa volonté aux autres, les routes commerciales étaient partagées par roulement, les disputes étaient arbitrées par tirage au sort entre les Conseillers des cités non concernées.
-
-Cet équilibre est resté stable pendant deux siècles. Il s'est effondré par *succès* : la Ligue des Marchands de Tyndara, à mesure qu'elle grandissait, a commencé à offrir des contrats préférentiels aux ports de Morveth pris individuellement. Les villes les plus ambitieuses ont accepté — Vornaeth (aujourd'hui absorbée par Tyndara), Drelmais (aujourd'hui comptoir tyndarien), Halfras (port-marionnette). En une génération, la moitié des cités-membres avaient quitté la Fédération pour des arrangements bilatéraux avec Tyndara.
-
-La Fragmentation officielle est datée de l'an 47, quand le Conseil des Quais s'est réuni pour la dernière fois et n'a pu réunir le quorum de neuf cités sur douze. Les membres restants ont *dissous* la Fédération plutôt que de continuer avec une légitimité minée.
-
-### La Fondation d'Elarath (an 47-49)
-
-Elarath n'a *pas* rejoint Tyndara. Cette décision — prise par un Conseil restreint d'environ quarante personnes, dont les noms sont conservés sur la **Pierre des Quarante** (placée dans la cour de l'Hôtel des Guildes, an 49) — a été motivée non par hostilité à Tyndara mais par une lecture lucide de ce que devenir un port absorbé impliquait : *la fin de la décision locale*.
-
-Les Quarante ont rédigé en quelques semaines la **Charte de la Petitesse** (formellement appelée *Charte des Voisinages*, mais l'autre titre est resté), qui pose trois principes opérationnels :
-
-1. **Aucune croissance non-nécessaire** : la cité-État refuse les extensions territoriales, les annexions de villages voisins, les fusions avec d'autres ports. Elle accepte seulement les restitutions volontaires (cas hypothétique, jamais survenu).
-2. **Aucune monnaie propre** : Elarath n'émet pas. Elle utilise et fait circuler les **Deniers de Mer** (alliage particulier de cuivre et d'argent dont la formule est réputée connue de tous et copiée par personne — la rumeur dit qu'elle l'est, en fait, en plusieurs lieux, mais aucun État n'a intérêt à imposer une concurrence).
-3. **Aucune armée permanente** : seule une milice tournante, formée par les marins eux-mêmes, est autorisée. Pas d'académie militaire. Pas de garnisons. Pas de fortifications dépassant ce qui est requis pour la défense portuaire d'urgence.
-
-Ces trois principes ont tenu pendant deux cents ans. Ils sont contestés en interne (certains marchands jeunes plaident pour une croissance maîtrisée, certains officiers de milice pour une force navale embryonnaire), mais aucune motion n'a réussi à modifier la Charte.
-
-### Les Crises (an 102, an 178, an 224)
-
-Trois moments de crise ont éprouvé la Petitesse :
-
-- **An 102 — La Tentation de Vornaeth** : la cité voisine de Vornaeth, en difficulté économique sous tutelle tyndarienne, propose de revenir dans le giron d'Elarath. Le Conseil refuse, après deux mois de débats, au motif que cette annexion ferait basculer Elarath dans une autre catégorie politique. Vornaeth est définitivement absorbée par Tyndara. Le refus est resté contesté pendant deux générations.
-
-- **An 178 — La Guerre Économique des Sels** : Mosrack, en pleine industrialisation, tente de monopoliser la production de sel en achetant les Pointes Salées par intermédiaires. La Guilde du Sel d'Elarath découvre la manœuvre et bloque les ventes. Mosrack menace de représailles commerciales. Tyndara intervient discrètement (l'absorption d'Elarath par Mosrack lui ferait perdre un de ses meilleurs comptoirs neutres). La crise se résout par un *accord à trois* qui établit Elarath comme zone de change neutre — accord toujours en vigueur, et qui constitue la base de la position internationale actuelle de la cité.
-
-- **An 224 — Les Émeutes du Pain** : une mauvaise récolte couplée à une suspension temporaire des importations tyndariennes provoque une famine partielle. Les pêcheurs des îles du Cordon, qui ont du poisson, refusent d'augmenter leurs prix. Cet acte collectif (jamais formellement organisé) calme les émeutes en quelques jours. Une Guilde de la Solidarité Maritime, créée *a posteriori*, en garde le souvenir mais ne la formalise pas — *la solidarité ne se contractualise pas, elle s'observe*.
-
-### L'Elarath actuel (an 251)
-
-L'Archonte tournant en titre est **Selina Marrest**, ancienne capitaine de caravelle, élue par les Neuf Guildes pour un mandat de cinq ans (non renouvelable). Sa fonction est essentiellement représentative — elle ne gouverne pas, elle préside les Conseils. La gestion quotidienne est aux mains des Maîtres de Guilde, et plus encore aux mains des **Quartiers** (les unités de voisinage qui élisent leurs propres conseillers et règlent la majorité des litiges sans recours à la cité).
-
-Elarath compte aujourd'hui environ 50 000 habitants permanents (cité, arrière-pays, îles inclus) et autant en transit selon la saison.
-
----
-
 ## Gouvernement — La Cité-État Tournante
 
 Le pouvoir à Elarath est *distribué* d'une façon qui a peu d'équivalents à Onara :

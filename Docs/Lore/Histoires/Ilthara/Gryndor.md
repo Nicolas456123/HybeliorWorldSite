@@ -7,6 +7,24 @@ needs_review_for: []
 ---
 # Histoires de Gryndor
 
+## Chronologie
+
+### Les origines — L'Âge des Chroniqueurs
+
+Gryndor ne fut pas fondé par un guerrier ou un prêtre, mais par un archiviste. Dans les premiers âges d'Ilthara, alors que les peuples du continent se déchiraient pour des territoires, un groupe de savants, d'artisans et de chroniqueurs se retira dans les montagnes cristallines du centre d'Ilthara pour y préserver le savoir des civilisations naissantes.
+
+Le premier Chroniqueur, **Aldwyn le Sage**, établit le principe fondateur : tout ce qui existe mérite d'être consigné, compris et préservé. Sous sa direction, les montagnes furent creusées pour y aménager des bibliothèques souterraines, des ateliers et des salles d'étude. Les réfugiés affluèrent — non des guerriers fuyant le combat, mais des penseurs fuyant l'ignorance. Aldwyn refusa le titre de roi ; ses descendants furent moins modestes, et la monarchie s'installa, portée par le respect voué à la lignée du fondateur.
+
+### Le Déclin et la Ruine
+
+Gryndor connut des siècles de prospérité intellectuelle, devenant la référence du savoir dans tout Ilthara. Mais le savoir attire la convoitise. Une coalition de seigneurs de guerre des nations voisines — dont des ancêtres de Drakora — désireux de s'emparer des cristaux magiques des montagnes, envahit le royaume. La guerre fut brève et dévastatrice : Gryndor, peuple de savants et non de soldats, fut submergé. Les bibliothèques furent pillées, les ateliers saccagés, les cristaux arrachés avec une brutalité qui provoqua des effondrements catastrophiques. Le royaume fut réduit à des ruines, et les envahisseurs repartirent avec leur butin.
+
+### La Restauration de Gryndor
+
+Le roi **Theldryn III**, survivant du massacre, rassembla les savants dispersés et lança la Restauration : pendant un siècle, les Gryndoriens reconstruisirent leur royaume pierre par pierre, livre par livre. Ce fut aussi une renaissance philosophique — Theldryn comprit que le savoir sans la capacité de le défendre est un trésor offert au premier pillard. Il créa la **Garde Cristalline**, ordre de savants-guerriers maîtrisant la lame autant que le grimoire, et forgea des alliances diplomatiques rendant Gryndor indispensable par son expertise plutôt que vulnérable par ses richesses. La Restauration est célébrée chaque année comme la renaissance du royaume, et le peuple porte dans sa mémoire collective la cicatrice du Déclin — un rappel que le savoir doit être protégé autant que cultivé.
+
+---
+
 ## Holvendar -- "Le Livre qui Lisait"
 
 La Grande Bibliotheque de Holvendar contenait trois millions sept cent quarante-deux mille ouvrages. L'archiviste Meylara les avait comptes. Pas parce qu'on le lui avait demande -- personne ne demandait a Meylara quoi que ce soit. Elle etait l'archiviste la plus discrete de la Bibliotheque, une femme pale qui se deplacait entre les rayonnages comme une ombre, remettant les livres a leur place avec une devotion silencieuse.

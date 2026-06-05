@@ -7,6 +7,22 @@ needs_review_for: []
 ---
 # Histoires de Mirathi
 
+## Repères — Fondation et chronologie du plateau
+
+Le plateau de Vrenith est habité depuis longtemps : les hameaux de bergers attestent une présence pastorale qu'aucune chronique ne date avec précision. Aucune ruine pré-Arrachement n'y a été identifiée — ce qui distingue Mirathi des autres établissements vythariens. Dans la mesure où on le sait, le plateau *n'a pas eu d'avant*.
+
+La **fondation du Sanctuaire** est placée vers l'**an 4 200 ap.A** (lecture admise, d'après les chroniques internes consultables avec autorisation). Un groupe de **rêveurs vythariens dissidents** quitta Vytharia-cité au début du cinquième millénaire pour s'établir sur le plateau. La dissidence était double : refus de l'institutionnalisation noctarienne du rêve (jugée trop politique) et refus de la séparation somnique (jugée trop doctrinale) ; ils cherchaient *un endroit où le rêve serait reçu sans être interprété*. Selon une autre formulation interne, le plateau leur fut indiqué *par un rêve commun* — indication jamais corroborée. Les fondateurs bâtirent le Sanctuaire en deux générations, sans plan extérieur, avec l'aide des bergers locaux.
+
+La **Brèche du Néant** (ou Brèche de Mirathi) est datée approximativement entre l'**an 4 100 et l'an 4 300 ap.A**, comme événement cosmologique mineur — lecture contestée. Selon une version, ce fut un trou dans le tissu du monde qui s'ouvrit puis se referma sur le plateau, laissant des traces sensibles aux rêveurs ; selon une autre, la Brèche n'eut jamais lieu et n'est qu'une rationalisation tardive de phénomènes oniriques convergents, eux attestés. Le Sanctuaire ne se prononce pas.
+
+Les **Taciti** (école du Premier Voile, branche minoritaire baelorienne) s'implantèrent vers l'**an 4 800 ap.A** : Tholmë-en-haut fut fondé au début du cinquième millénaire, Vrenith un siècle plus tard. Les chroniques internes des ermitages ne précisent pas leurs motifs — possiblement la qualité du silence local, possiblement une proximité doctrinale avec la pratique mirathienne du non-nom. La déférence de voisinage entre Sanctuaire et ermitages dure depuis huit siècles.
+
+La **pratique oraculaire** s'établit progressivement au cours des cinquième et sixième millénaires. La règle clef — *l'Oracle n'a pas de nom personnel ; il a une fonction* — émergea dans les premiers siècles et fut formalisée vers l'**an 5 800 ap.A** par un texte court, la **Première Lettre de Mirathi**, dont une copie est conservée à Thalmaris.
+
+Le **Message** et la résidence d'**Orneth de Thalmaris** (à partir de l'an 250, voir plus bas) marquent l'époque récente : pour la première fois depuis longtemps, un étranger habite Mirathi sans participer à la fonction oraculaire.
+
+---
+
 ## Mirathi-village — « L'Oracle qui ne Rêva Plus »
 
 La Voix de la Lacune fut vacante pendant huit ans, vers la fin du siècle précédent. Le fait est mentionné dans plusieurs chroniques marginales, sans plus d'explication. La présente histoire — recueillie auprès d'une vieille bergère du hameau de Sorek qui l'avait entendue de sa mère, qui l'avait entendue d'une cousine d'Oracle — n'est ni canonique ni publiée. Elle est notée pour le dossier comme *probablement vraie en gros, peut-être inexacte dans les détails*.

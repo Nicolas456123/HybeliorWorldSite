@@ -22,28 +22,6 @@ needs_review_for: []
 
 ---
 
-## Histoire
-
-### L'Ère des Esprits Sauvages
-
-Avant Avalor, les forêts d'Endora étaient considérées par les peuples voisins comme un territoire interdit. Les présences qui y résidaient étaient imprévisibles selon les chroniques — des voyageurs disparaissaient, des villages en lisière étaient engloutis par une végétation soudaine, des chasseurs revenaient désorientés, parlant de visages dans les arbres et de voix dans le vent.
-
-Les peuples voisins évitaient les forêts. Mais un peuple, les **Vaelori**, y entra volontairement. Descendants d'ermites et de mystiques bannis pour hérésie par les royaumes voisins, les Vaelori n'avaient nulle part où aller. Ils s'enfoncèrent dans la forêt, prêts à mourir — et constatèrent, génération après génération, que ceux qui venaient sans armes en revenaient parfois.
-
-### Le Pacte des Sylves
-
-La fondatrice légendaire d'Avalor, **Nyméra la Muette**, était une femme qui avait perdu la parole après un traumatisme. Incapable de crier ou de menacer, elle communiquait par gestes — et, selon la tradition vaelori, les présences de la forêt finirent par lui répondre.
-
-Selon cette tradition, Nyméra passa sept années seule dans la forêt profonde, apprenant ce qu'elle décrivait elle-même comme « le langage des esprits ». Sa lecture, transmise par les premières générations d'Avalor : la forêt avait été éprouvée par une civilisation ancienne qui avait exploité la sylve sans retenue, et certaines présences gardaient mémoire de cette époque. Leur hostilité, selon Nyméra, était une **forme de mémoire** plutôt qu'une volonté de nuire — lecture à laquelle des théologiens d'autres traditions opposent encore aujourd'hui des hypothèses différentes (cycles climatiques, frontières d'Ères, simple territorialité animale).
-
-Nyméra fonda le **Pacte des Sylves** : les Vaelori protégeraient la forêt et ne prendraient que ce qu'elle offrirait. En contrepartie, selon la lecture vaelori, les présences de la forêt protégeraient les Vaelori et partageraient leur savoir. Ce pacte, renouvelé chaque siècle par l'Archidruide régnant, est le fondement d'Avalor — qu'il s'agisse, comme l'affirme la tradition, d'un accord effectif entre humains et esprits, ou, comme le suggèrent certains observateurs extérieurs, d'une discipline communautaire dont la rigueur a simplement permis d'apprendre l'écosystème.
-
-### L'Avalor d'aujourd'hui
-
-Le pays est gouverné par l'Archidruide **Feylara**, une femme d'une quarantaine d'années aux yeux dont la couleur, selon les chroniques avaloréennes, varie avec les saisons. Sous sa guidance, Avalor connaît une période de prospérité, mais des tensions grandissent : les jeunes générations questionnent les restrictions du Pacte, et selon les Voix de plusieurs villages, les demandes attribuées aux esprits paraissent plus exigeantes ces dernières années — lecture qui peut, selon les théologiens étrangers, refléter autant un changement effectif qu'une plus grande nervosité du Cercle des Murmures.
-
----
-
 ## Gouvernement — La Théocratie Mystique
 
 Le pouvoir en Avalor est indissociable du spirituel :

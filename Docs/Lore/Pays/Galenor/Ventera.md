@@ -21,54 +21,6 @@ needs_review_for: []
 
 ---
 
-## Histoire
-
-### Les origines — Les Premiers Cavaliers
-
-Les plaines de Ventera, vastes et balayées par des vents constants, n'attirèrent jamais les bâtisseurs de cités ni les cultivateurs sédentaires. Ce sont les cavaliers qui les conquirent — non par la force, mais par la mobilité. Les premiers peuples de Ventera étaient des nomades montés sur des chevaux des plaines, des bêtes endurantes et rapides que nul autre peuple de Galenor ne savait dompter.
-
-Ces cavaliers vivaient en bandes mobiles, suivant les troupeaux sauvages, campant où le vent les portait. La notion de propriété terrienne leur était étrangère — la terre appartenait au vent, et le vent n'appartenait à personne.
-
-### La Sédentarisation et les Premiers Rois
-
-Le changement vint lorsque les peuples voisins — Trinoria à l'est, Solena au sud — commencèrent à empiéter sur les plaines. Les cavaliers, habitués à fuir plutôt qu'à combattre, se retrouvèrent acculés. Un chef de bande nommé Soltharis le Vif proposa une solution radicale : unir les bandes, fonder des villes-relais permanentes et élire un roi parmi les chefs.
-
-Soltharis fut le premier Roi-Cavalier de Ventera. Il fonda la ville qui porte son nom — Soltharis — et instaura le principe de la **monarchie élective** : le roi est élu par les chefs des quatre régions, et son mandat dure jusqu'à sa mort ou jusqu'à ce qu'il soit jugé inapte à monter en selle. Un roi qui ne peut plus chevaucher ne peut plus régner.
-
-### La Révolte des Cavaliers
-
-L'événement qui forgea l'identité ventérienne survint trois générations après Soltharis, lorsque le roi Marven III tenta d'imposer un système d'hérédité — son fils, médiocre cavalier mais fin politicien, devait lui succéder sans élection. Les chefs des quatre régions refusèrent.
-
-Marven III mobilisa une armée de mercenaires étrangers pour écraser la rébellion. Les cavaliers de Ventera, dispersés et moins nombreux, auraient dû perdre — mais leur mobilité était leur arme. Pendant six mois, ils harcelèrent l'armée mercenaire sans jamais livrer bataille rangée, frappant ses lignes d'approvisionnement, épuisant ses chevaux, l'attirant dans des embuscades dans les plaines herbeuses.
-
-La **Révolte des Cavaliers** se termina lorsque Marven III, abandonné par ses mercenaires affamés et démoralisés, fut désarçonné par la cavalière Lyria des Vents — une femme, fait exceptionnel pour l'époque — lors d'un duel à cheval. Lyria refusa la couronne mais imposa deux réformes : la monarchie élective serait inscrite dans la loi, et les femmes auraient un droit de vote et de candidature égal aux hommes.
-
-Le Roi-Cavalier actuel est **Aldren de Plenera**, un homme jovial et populaire, élu pour son charisme et son habileté en selle autant que pour son sens politique. Son mandat est cependant contesté par la cheffe de Rystera, **Dame Nyra**, qui estime qu'Aldren favorise Plenera au détriment des autres régions.
-
-### La Réforme de Lyrin (an 174 — assimilée mais incomplètement comprise)
-
-Trois ans après la Révolte, lors d'une Première Chevauchée à Soltharis, une jeune femme nommée **Lyrin** monta sur son premier cheval et le tourna délibérément vers l'ouest — l'opposé de la tradition qui imposait de partir vers l'est, vers le lever du soleil et le commencement du cycle. Le scandale fut immédiat. L'Abbé du Rota Mundi présent à la cérémonie observa, écouta — et donna raison à Lyrin.
-
-Sa décision, sur le moment, ne fut pas comprise comme un acte théologique majeur. Elle le fut beaucoup plus tard. Lyrin avait posé, par son geste, une question fondamentale au Rota Mundi : *si le cycle est entier (lever et coucher, naissance et mort, départ et retour), pourquoi n'honore-t-on que les commencements ?*
-
-Cette question — qui n'a jamais été formulée comme thèse doctrinale, mais qui circule depuis dans les marges du clergé — est, à l'échelle galenorienne, **ce que le Rota Mundi avait de plus original à offrir**. La fiche religion Rota Mundi documente la suite : la réforme de **Mara Telventh** (postérieure de quelques années) qui doctrinise l'acceptation de la *roue blessée* plutôt que l'attente du retour de la *roue droite*.
-
-Lyrin devint Abbesse du Rota Mundi quarante ans plus tard. Sa première action officielle fut de créer la **Chevauchée du Coucher** — un second rite pour les cavaliers en fin de vie, leur dernier voyage vers l'ouest. Ce rite est aujourd'hui pratiqué dans toute Ventera. Aucun Ventérien moyen ne sait qu'il vient d'une jeune fille qui a tourné son cheval dans le mauvais sens. Aucun n'en sait l'enjeu doctrinal.
-
-C'est en ce sens que Ventera est le pays galenorien qui a *partiellement échappé* à son piège originel : son rite quotidien intègre, depuis 174, une reconnaissance de la finitude. Les cavaliers libèrent leur dernier cheval dans les plaines lors des funérailles. Les feux de la Nuit du Retour guident les ancêtres. Le coucher est honoré.
-
-Cette demi-évasion est la spécificité ventérienne dans Galenor. Elle n'est *pas* totale. La culture des courses, du Festival des Vents, des compétitions équestres reste fondée sur le motif *toujours plus loin, toujours plus vite, toujours le prochain horizon*. C'est l'**Espérance Vide ventérienne** : la prochaine course, la prochaine race de chevaux, la prochaine route vers le sud, la prochaine génération qui réussira ce que la nôtre n'a pas réussi. Le rite du coucher tempère ; il n'élimine pas.
-
-### Les Cairns Marcheurs et le Refus du Sud
-
-Sur les plateaux d'Astralor, des cairns se déplacent la nuit — c'est le fait, documenté depuis trois générations par les gardiens de Myrkis, qu'aucune explication rationnelle n'a éclairci. Les cairns retournent parfois à leur position initiale en une semaine. Aucun témoin ne les voit bouger. Les premières hypothèses (érosion éolienne) ont été abandonnées.
-
-Le Rota Mundi local lit ces cairns comme **les pas des Anciens** — les mouvements lents de quelque chose qui marche dans les plateaux, qu'on ne voit pas, qu'on ne dérange pas. Cette lecture pourrait virer au superstitieux ; elle reste, à Ventera, *fonctionnelle* : les voyageurs prudents ne campent pas trop près d'un cairn déplacé récemment, et les cavaliers de **Kryndor** (le village le plus méridional) suivent une règle absolue, non discutée — ils n'entrent pas dans les terres non cartographiées du sud.
-
-Trois cavaliers, dans l'histoire récente, ont brisé cette règle. Deux ne sont pas revenus. Le troisième est revenu *changé* d'une façon qu'il a refusé de décrire. La règle est, depuis, intangible. Aucun chant ventérien ne la commémore — précisément, peut-être, parce que la mémoriser publiquement serait reconnaître ce que les Ventériens préfèrent laisser au silence : il y a des frontières dans Galenor que la Via Ventus elle-même ne franchit pas.
-
----
-
 ## Gouvernement — La Monarchie Élective
 
 Le système politique de Ventera est unique à Galenor :

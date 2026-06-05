@@ -7,6 +7,22 @@ needs_review_for: []
 ---
 # Histoires d'Azoral
 
+## Les origines — Les Coureurs des Vents
+
+Avant qu'Azoral n'existe en tant que nation, ses côtes étaient parcourues par des bandes nomades, les *Coureurs des Vents*, qui survivaient sur la banquise saisonnière du sud-ouest azorien. Selon les chroniques de la Via Ventus, ces Coureurs descendent directement des nomades du Berceau des Vents qui, après s'être croisés avec les Gens de l'Eau, formèrent les premières communautés ventari (~8 000 av.A). Azoral est, en termes religieux, la matrice originelle de Via Ventus — la nation qui a vu naître la doctrine du mouvement perpétuel.
+
+Pendant les premiers siècles, les Coureurs ne se fixaient nulle part : ils suivaient les hardes de phoques cendrés, les bancs de poissons d'hiver, les chenaux que la banquise libérait selon des rythmes qu'eux seuls savaient lire. Quand les premiers navires ventari vinrent du sud — du Khalifat de Solvenar, ~10 000 av.A —, les Coureurs leur enseignèrent la lecture des vents catabatiques en échange d'une chose qui leur manquait : la pierre. Les premiers ports de Korval, Velkar et Brisivar furent construits dans des baies que les Coureurs avaient *pointées* à des marins solvenariens, parce qu'eux-mêmes ne savaient pas tailler la pierre.
+
+---
+
+## La Course du Givre
+
+L'événement fondateur d'Azoral en tant que nation maritime n'est pas une fondation : c'est une *course*. À la fin du Grand Silence post-Arrachement (Sillage : ~+30 à +130), les flottes des trois principaux ports azoraliens — Korval, Velkar, Brisivar — entrèrent en compétition pour les chenaux nouvellement ouverts par la déstabilisation climatique. Pendant un siècle, les capitaines naviguèrent plus loin, plus vite, plus longtemps, à la recherche de Léviathans, de hardes, de routes commerciales avec Mosrack et Ulinor au sud-ouest.
+
+La Course du Givre n'a jamais été décrétée terminée. Elle l'est encore. La doctrine Ventari de la Coupe — héritée des Coureurs des Vents — s'y est cristallisée comme une discipline du Tranchant : refuser de s'attacher à un port, de garder un navire au-delà de son utile, de revenir sans une nouvelle route. *« La Course continue »* devint la formule de salut entre marins : on ne s'arrête pas, on ne s'enracine pas, on ne s'attache pas. C'est, à l'échelle azorienne, l'incarnation la plus pure de Via Ventus. C'est aussi — l'écriture du temps long le révèle — le piège qui se construit sous la doctrine.
+
+---
+
 ## Korval — « La Première Commandait »
 
 Inga Skra-Korval avait perdu trois fils en mer.
@@ -33,7 +49,11 @@ Quand on lui demandait pourquoi, elle disait que c'était pour ne pas oublier. Q
 
 Inga mourut en l'an 156, à 78 ans, pneumonie d'hiver. Sa tombe est dans le petit cimetière des Capitaines de Bord, face à la Baie-Mère. La phrase *« Compter, c'est ne pas oublier »* y est gravée. Aucune autre.
 
-Ses successeurs ont continué le Décompte. Le ratio de retour décline depuis l'an 134. Aucun n'a publié les chiffres. Aucun ne les a niés. Les trois fils d'Inga sont, par construction, les premières entrées du Décompte dans son ordre rétrospectif. Ils sont nommés dans le registre principal, par les soins d'Inga elle-même, à la première page : *Skra-Korval Velnir, Skra-Korval Tor, Skra-Korval Ven*. La formule qui suit leurs noms — *« perdus avant le Décompte »* — est ironique. Elle est aussi la seule fois où Inga a écrit quelque chose de personnel dans le registre.
+Ses successeurs ont continué le Décompte. Le ratio de retour décline depuis l'an 134 — une perte de quatre points en cent dix-sept ans. Le déclin n'est pas uniforme : les jeunes équipages, ceux qui suivent les *« nouvelles routes »* prônées par les Ventari du Souffle Continu, perdent davantage ; les vieilles routes, encadrées par les Ventari de la Coupe, perdent moins. Aucun Capitaine de Bord n'a publié ces données. Aucun ne les a niées. La doctrine continue d'enseigner que la Course est l'office d'un Ventari ; le Décompte, derrière, sait autre chose. Cette dissociation administrative — la doctrine et les chiffres ne se parlant pas — est le trait le plus structurellement azoralien.
+
+Le treizième Premier Capitaine de Bord depuis le Décompte, Olvar Ven-Korval (élu en l'an 246, capitaine de la *Brise du Long Hiver*, quarante-deux ans de mer), hérite de ce silence. Sa formule officielle est *« La Course continue. »* Sa formule privée — recueillie par un secrétaire d'archive, jamais publiée — est : *« Il faudra finir, un jour. »*
+
+Les trois fils d'Inga sont, par construction, les premières entrées du Décompte dans son ordre rétrospectif. Ils sont nommés dans le registre principal, par les soins d'Inga elle-même, à la première page : *Skra-Korval Velnir, Skra-Korval Tor, Skra-Korval Ven*. La formule qui suit leurs noms — *« perdus avant le Décompte »* — est ironique. Elle est aussi la seule fois où Inga a écrit quelque chose de personnel dans le registre.
 
 Ils sont, dans la mémoire administrative d'Azoral, les trois marins dont la perte a fondé une institution.
 

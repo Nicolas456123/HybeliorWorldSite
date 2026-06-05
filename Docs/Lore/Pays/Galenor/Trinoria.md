@@ -21,58 +21,6 @@ needs_review_for: []
 
 ---
 
-## Histoire
-
-### Les origines — Les Enfants de la Forêt
-
-Trinoria naquit dans les forêts denses qui couvrent le centre-ouest de Galenor, là où la canopée est si épaisse que le sol ne voit jamais le soleil directement. Les premiers Trinoriens étaient des chasseurs-cueilleurs qui développèrent un lien symbiotique avec la forêt, apprenant à se déplacer sans bruit, à lire les signes de la nature et à tirer avec une précision que les autres peuples jugeaient surnaturelle.
-
-Ils croyaient — et croient encore — que chaque arbre, chaque rivière, chaque rocher abrite un esprit ancien qu'il faut respecter. Cette croyance devint le fondement du Vael'Kurash, le Culte des Esprits Anciens, qui guida la société trinorienne bien avant l'apparition d'une monarchie structurée.
-
-### La Période des Seigneurs-Chasseurs
-
-Pendant des siècles, Trinoria fut gouvernée par des seigneurs-chasseurs — des chefs de clans forestiers dont l'autorité reposait sur leur habileté à l'arc et leur connaissance de la forêt. Ces seigneurs se disputaient le contrôle des territoires de chasse les plus giboyeux, dans des guerres ritualisées où le sang humain était rarement versé : les conflits se réglaient par des tournois de tir à l'arc.
-
-Le système féodal actuel émergea lorsque le seigneur-chasseur Valren de Nalithos unifia les clans forestiers en proposant un pacte : chaque seigneur conserverait son domaine, mais prêterait serment au plus habile tireur — celui qui remporterait le Grand Tournoi tenu tous les sept ans. Valren remporta les trois premiers tournois consécutifs, établissant sa lignée sur le trône.
-
-### La Bataille des Mille Flèches
-
-L'événement fondateur de l'identité trinorienne survint lorsqu'une armée de Valoria — des guerriers claniques avides de conquête — envahit les forêts orientales. Les clans valoriens, habitués aux batailles en terrain ouvert, s'enfoncèrent dans la forêt avec confiance — et n'en ressortirent jamais.
-
-Les archers de Trinoria, invisibles dans la canopée, décochèrent des milliers de flèches en une seule nuit. On raconte que le ciel forestier devint si dense de projectiles que pas un rayon de lune ne touchait le sol. L'armée valorienne fut décimée sans avoir aperçu un seul adversaire. Depuis cette bataille, Trinoria est redoutée par toutes les nations de Galenor, et l'expression « entrer dans la forêt des Trinoriens » est synonyme de marcher vers sa mort.
-
-Le roi actuel, **Orlan IV de Nalithos**, perpétue la tradition du Grand Tournoi mais a modernisé la monarchie en instaurant un conseil de vassaux qui participent aux décisions importantes. C'est un tireur d'exception et un chasseur respecté, mais certains seigneurs estiment qu'il accorde trop d'importance à la diplomatie au détriment des traditions guerrières.
-
-### La Codification du Vael'Kurash (an 90 — encore en cours)
-
-L'histoire que Trinoria raconte volontiers d'elle-même — celle des seigneurs-chasseurs et de la Bataille des Mille Flèches — masque une transformation moins glorieuse de sa religion principale. Le **Vael'Kurash**, à l'origine, était une *pratique* — un dialogue d'esprit à esprit entre les peuples forestiers et les présences animiques de la canopée. Chaque vallée avait ses propres rituels. Chaque chamane lisait ses propres signes. La diversité était constitutive.
-
-Vers l'an 90, le druide-chef Eltheran de Velathor entreprit ce qu'il appelait *« l'unification respectueuse »* des pratiques. L'objectif déclaré : empêcher que des chamanes mal formés blessent par ignorance des esprits qu'ils prétendaient honorer. L'objectif réel : faire de Velathor le centre incontesté de l'autorité druidique. Eltheran y est parvenu. Les rituels furent codifiés. Les tatouages reçurent des grammaires. Les cérémonies saisonnières (Réveil des Racines, Grande Chasse Silencieuse) furent fixées dans leurs gestes.
-
-Cent soixante ans plus tard, le Vael'Kurash est une **religion d'application** : on suit le rituel parce qu'il est rituel, on porte les tatouages parce qu'on les porte, on consulte les druides parce qu'on consulte les druides. Les chamanes hétérodoxes des vallées éloignées (sud-Fyrilith, nord-Ithralis) sont *tolérés* mais classés comme *« praticiens locaux »* — étiquette qui les rend pittoresques sans leur donner d'autorité.
-
-L'effet de cette codification est que **les esprits, en pratique, répondent moins**. C'est un fait empirique que les druides expérimentés admettent en privé sans le proclamer. La doctrine officielle l'explique par diverses causes (les esprits *« reposent »*, la nation *« n'écoute pas assez »*, certains lieux ont été *« pollués »* par l'industrie kharazirienne ou la magie lumasarienne). Aucune lecture officielle n'envisage la possibilité simple : *les esprits, codifiés, n'ont plus rien à dire qu'on ne leur ait déjà fait dire*.
-
-### Le Cerf Blanc et la Doctrine de la Persistance
-
-Le **Cerf Blanc Immortel** des forêts de Nalithos est le symbole central du Vael'Kurash trinorien. Selon la doctrine officielle, c'est *toujours le même* — un être aussi ancien que la forêt elle-même, qui apparaît parfois aux chasseurs respectueux et qui *ne mourra jamais*. Cette croyance est centrale parce qu'elle fonde toute la lecture trinorienne du monde naturel : *les esprits ne s'éteignent pas*.
-
-Une réalité moins flatteuse est documentée par les archives chamaniques de Velathor (consultables sur autorisation, donc rarement consultées) : il y a eu, sur deux mille ans, *au moins onze* Cerfs Blancs. Onze cerfs distincts, observés à différentes époques, dont chacun a vieilli, et est mort. Les druides successifs ont *transmis* l'identité — quand un Cerf Blanc mourait, on cherchait son successeur, et quand on le trouvait, on déclarait que *c'était toujours lui*.
-
-L'épisode raconté dans les *Histoires de Trinoria* (« La Chasse qui N'eut Pas Lieu » sous le seigneur Mael) est un cas où un Cerf Blanc a effectivement vieilli et est mort *naturellement* — son corps retrouvé dans la neige, enterré avec les honneurs des guerriers. Ce que Mael a fait — refuser de le tuer pour préserver la *raison* de la chasse — est une vertu authentique. Mais il a aussi, sans le vouloir, rejoué la doctrine officielle : *les esprits ne meurent pas, ils sont transmis*.
-
-Le druide **Kessa de Velathor** (cf. *Histoires* — *Le Chamane et l'Arbre Mort*), dans une vallée isolée, a, elle, fait quelque chose de différent : elle a *accompagné* la mort d'un esprit (l'arbre mort dont la graine donnait naissance à son successeur), et reconnu publiquement que *l'ancien était parti*. Sa pratique est marginale, non doctrinale, et Velathor préfère ne pas la commenter.
-
-### La Forêt qui Garde
-
-Ce que les Trinoriens disent peu, mais que les voisins observent : **la forêt elle-même semble protéger Trinoria**. La clairière évitée près de Falorin (cf. *Histoires* — *Ce que la Forêt Garde*) est l'un des incidents documentés ; il y en a d'autres. Des incursions étrangères qui se perdent. Des éclaireurs qui reviennent confus. Des bruits dans les arbres, des présences entrevues, des choses qui aident sans qu'on sache *qui*.
-
-La doctrine officielle attribue ces phénomènes aux **Gardiens Sylvestres** — entités géantes de bois et de pierre dont les peuples du nord (Brynthor, frange Ysundara) rapportent l'existence. Les Gardiens Sylvestres sont, à Trinoria, vénérés à distance — on ne les invoque pas, on ne les sculpte pas, on ne les nomme pas trop fort. Ils sont, dans la cosmologie trinorienne, *ce qui justifie* le refus de codifier le nord. Tant que les Gardiens veillent, Trinoria n'a pas besoin de murs.
-
-Cette croyance est partiellement vraie. Elle est aussi extrêmement commode : elle permet à Trinoria de *ne pas regarder* la possibilité que la forêt elle-même soit un être qu'il faudrait pleurer un jour.
-
----
-
 ## Gouvernement — La Monarchie Féodale
 
 Le pouvoir à Trinoria suit une structure féodale classique, tempérée par les traditions de chasse :

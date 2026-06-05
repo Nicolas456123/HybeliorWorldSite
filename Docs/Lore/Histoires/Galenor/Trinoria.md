@@ -7,6 +7,24 @@ needs_review_for: []
 ---
 # Histoires de Trinoria
 
+## Repères — fondation et grandes dates
+
+**Les origines.** Les premiers Trinoriens étaient des chasseurs-cueilleurs des forêts denses du centre-ouest de Galenor. De leur lien avec la forêt — et de la croyance que chaque arbre, rivière et rocher abrite un esprit ancien — naquit le Vael'Kurash, qui guida la société bien avant toute monarchie.
+
+**Les seigneurs-chasseurs et la fondation de la monarchie.** Pendant des siècles, Trinoria fut gouvernée par des seigneurs-chasseurs, chefs de clans forestiers dont l'autorité reposait sur l'habileté à l'arc. Leurs conflits se réglaient par des tournois de tir plutôt que par le sang. Le système féodal naquit quand **Valren de Nalithos** unifia les clans par un pacte : chaque seigneur garderait son domaine mais prêterait serment au vainqueur du Grand Tournoi, tenu tous les sept ans. Valren remporta les trois premiers tournois consécutifs et établit sa lignée sur le trône. Son arc est conservé dans un sanctuaire secret de Nalithos.
+
+**La Bataille des Mille Flèches.** Une armée de Valoria envahit les forêts orientales. Habitués au terrain ouvert, les guerriers valoriens s'enfoncèrent dans la forêt et furent décimés en une nuit par les archers trinoriens, invisibles dans la canopée, sans jamais apercevoir un adversaire. L'événement fonde l'identité trinorienne et l'hostilité ancestrale envers Valoria ; la ville-sentinelle de Gorthorn (Grendor) s'élève sur les ruines du dernier camp valorien.
+
+**Le règne d'Orlan IV.** Le roi actuel, **Orlan IV de Nalithos**, perpétue le Grand Tournoi mais a modernisé la monarchie en instaurant un conseil de vassaux associé aux décisions importantes. Tireur d'exception et chasseur respecté, il est critiqué par certains seigneurs qui jugent qu'il privilégie la diplomatie au détriment des traditions guerrières.
+
+**La codification du Vael'Kurash (à partir de l'an 90).** Le Vael'Kurash fut d'abord une pratique diverse, propre à chaque vallée et chaque chamane. Vers l'an 90, le druide-chef **Eltheran de Velathor** entreprit l'« unification respectueuse » des pratiques : officiellement pour protéger les esprits de chamanes mal formés, en réalité pour faire de Velathor le centre incontesté de l'autorité druidique. Les rituels furent codifiés, les tatouages dotés de grammaires, les cérémonies saisonnières fixées. Cent soixante ans plus tard, le culte est devenu une religion d'application, et les druides expérimentés admettent en privé que les esprits, codifiés, répondent moins. Les chamanes hétérodoxes des vallées éloignées (sud-Fyrilith, nord-Ithralis) sont tolérés mais classés comme « praticiens locaux », sans autorité.
+
+**La doctrine de la persistance et les Cerfs Blancs.** Le Cerf Blanc Immortel des forêts de Nalithos est le symbole central du Vael'Kurash : la doctrine officielle le tient pour toujours le même, preuve que les esprits ne s'éteignent pas. Les archives chamaniques de Velathor documentent pourtant qu'il y eut, sur deux mille ans, au moins onze Cerfs Blancs distincts, chacun ayant vieilli et étant mort ; les druides successifs transmettaient l'identité d'un cerf à son successeur et déclaraient que « c'était toujours lui ».
+
+**Les Gardiens Sylvestres.** La doctrine attribue la protection apparente de la forêt — incursions étrangères qui se perdent, éclaireurs qui reviennent confus — aux Gardiens Sylvestres, entités géantes de bois et de pierre dont les peuples du nord (Brynthor, frange Ysundara) rapportent l'existence. À Trinoria ils sont vénérés à distance : on ne les invoque ni ne les sculpte. Ils justifient le refus de codifier le nord — tant qu'ils veillent, Trinoria estime n'avoir besoin d'aucun mur.
+
+---
+
 ## Gyndor --- "La Chasse qui N'eut Pas Lieu"
 
 Le seigneur Mael avait organise la Grande Chasse de Gyndor depuis quarante ans, chaque printemps. Une tradition. Un rite. Le cerf blanc de la foret de Nalithos etait la proie symbolique --- jamais vraiment traque, jamais vraiment tue, juste presente pour que la chasse ait un objectif.

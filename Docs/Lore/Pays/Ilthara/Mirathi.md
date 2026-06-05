@@ -35,23 +35,15 @@ Aux marges : quelques **hameaux de bergers** (cinq ou six au plus) qui fournisse
 
 ---
 
-## Histoire
+## Gouvernement — Le Sanctuaire et le Conseil
 
-### Avant le Sanctuaire
+### Le collège des Oracles
 
-Le plateau de Vrenith est habité depuis longtemps — les hameaux de bergers attestent une présence pastorale qu'aucune chronique ne date avec précision. Aucune ruine pré-Arrachement n'a été identifiée, ce qui distingue Mirathi des autres établissements vythariens. Le plateau, dans la mesure où on le sait, n'a *pas eu d'avant*.
+Sept Oracles vivants à tout moment, en moyenne. Pas d'élection, pas de nomination publique. Les Oracles entrent en fonction par un mécanisme que les chroniques internes appellent *la reconnaissance du rêve commun* — une procédure dont les visiteurs n'ont jamais reçu de description complète. Ce qui est connu : un candidat est *rêvé* par les autres Oracles avant de l'être par le Sanctuaire ; sa prise de fonction n'est annoncée à personne (y compris à lui-même, à ce qu'on dit) avant que le rêve ne soit collectivement reconnu.
 
-### La fondation du Sanctuaire (~an 4 200 ap.A, lecture admise)
+L'Oracle perd son nom personnel à la prise de fonction. Sa famille le sait. Le village le sait. Personne, au-delà du cercle privé, ne l'appelle plus par son nom. Les chroniqueurs thalmariens trouvent ce détail troublant et le notent presque toujours dans leurs marges.
 
-Selon les chroniques internes au Sanctuaire (consultables avec autorisation), un groupe de **rêveurs vythariens dissidents** quitta Vytharia-cité au début du cinquième millénaire pour s'établir sur le plateau. La dissidence était double : ils n'acceptaient ni l'institutionnalisation noctarienne du rêve (jugée trop politique), ni la séparation somnique (jugée trop doctrinale). Ils cherchaient, dans la formulation que la chronique interne reprend, *un endroit où le rêve serait reçu sans être interprété*.
-
-Le plateau leur fut indiqué, selon une autre formulation, *par un rêve commun*. Cette indication n'a jamais été corroborée. Les fondateurs construisirent le Sanctuaire en deux générations, sans plan extérieur, en s'aidant des bergers locaux.
-
-### L'établissement de la fonction (5e-6e millénaire)
-
-La pratique oraculaire telle qu'on la connaît aujourd'hui s'établit progressivement au cours des deux millénaires suivants. La règle clef — **l'Oracle n'a pas de nom personnel ; il a une fonction** — émergea dans les premiers siècles et fut formalisée vers l'an 5 800 ap.A par un texte court (la *Première Lettre de Mirathi*, dont une copie est conservée à Thalmaris).
-
-La structure des fonctions s'est diversifiée. Aujourd'hui, le Sanctuaire reconnaît **sept fonctions oraculaires** :
+Le Sanctuaire reconnaît **sept fonctions oraculaires**, distribuées sans hiérarchie. Un Oracle peut occuper successivement plusieurs fonctions au cours de sa vie, ou la même pendant trente ans ; la répartition entre vivants n'est pas publique.
 
 | Fonction | Spécialité (selon la chronique interne) |
 |---|---|
@@ -62,36 +54,6 @@ La structure des fonctions s'est diversifiée. Aujourd'hui, le Sanctuaire reconn
 | Voix du Trajet | Rêves des routes (lieux qui se déplacent) |
 | Voix du Sel | Rêves du corps |
 | Voix du Souffle | Rêves de fin |
-
-La distribution des fonctions n'est pas hiérarchique. Un Oracle peut occuper successivement plusieurs fonctions au cours de sa vie, ou la même pendant trente ans. La répartition entre vivants n'est pas publique.
-
-### L'arrivée des Taciti (~an 4 800 ap.A)
-
-L'école du Premier Voile, branche minoritaire des Taciti baeloriens, fonda Tholmë-en-haut au début du cinquième millénaire. Vrenith fut établi un siècle plus tard. Les frères silencieux s'implantèrent sur le plateau pour des raisons que les chroniques internes des deux ermitages ne précisent pas — possiblement la qualité du silence local, possiblement une proximité doctrinale avec la pratique mirathienne du non-nom.
-
-Les relations entre le Sanctuaire et les ermitages sont, depuis huit siècles, une **déférence de voisinage** que les chroniqueurs locaux peinent à interpréter. Aucune liturgie commune. Aucun échange de personnel. Mais : les Oracles, lorsqu'ils traversent la mort, sont parfois portés en cercueil ouvert au-delà du seuil des cloîtres pendant un quart d'heure, et puis ramenés. La pratique n'a pas de nom. Personne ne l'explique.
-
-### La Brèche du Néant (lecture contestée)
-
-Plusieurs chroniques continentales mentionnent une **Brèche de Mirathi** comme événement cosmologique mineur, daté approximativement entre l'an 4 100 et l'an 4 300 ap.A. Selon une lecture, la Brèche aurait été un *trou dans le tissu du monde* qui s'est rouvert puis refermé sur le plateau, laissant des traces sensibles aux rêveurs. Selon une autre, la Brèche n'aurait jamais eu lieu — l'événement serait une rationalisation tardive de phénomènes oniriques convergents qui, eux, sont attestés.
-
-Le Sanctuaire ne se prononce pas. Les Oracles, interrogés à ce sujet, répondent par des reformulations de la question (« demandez-vous plutôt si quelque chose s'est ouvert ; demandez-vous plutôt si quelque chose s'est fermé ; demandez-vous où nous en sommes »). Les visiteurs en concluent ce qu'ils veulent.
-
-### Le Message et la résidence d'Orneth (an 250-252)
-
-L'arrivée à Mirathi de l'érudit thalmarien **Orneth**, en résidence longue depuis l'an 250, marque un tournant discret. Orneth a apporté avec lui une **copie incomplète du Message** (texte trilingue dont la troisième colonne est en *troisième langue* non déchiffrée). Sa résidence au Sanctuaire dure depuis deux ans et n'a pas de terme annoncé.
-
-Ce que sa présence change, dans l'équilibre du Sanctuaire : pour la première fois depuis longtemps, **un étranger habite Mirathi sans participer à la fonction oraculaire**. Il copie. Il étudie. Il sollicite parfois une consultation auprès des Oracles ; on ne lui en refuse aucune mais on ne lui en accorde aucune non plus rapidement. La cohabitation est paisible. Le scandale interne — celui des frères Taciti orthodoxes des cloîtres voisins — est plus discret : Orneth *écrit*, et l'écrit est, selon une lecture, une parole simplement ralentie. Aucune décision n'a été prise. La pratique se poursuit.
-
----
-
-## Gouvernement — Le Sanctuaire et le Conseil
-
-### Le collège des Oracles
-
-Sept Oracles vivants à tout moment, en moyenne. Pas d'élection, pas de nomination publique. Les Oracles entrent en fonction par un mécanisme que les chroniques internes appellent *la reconnaissance du rêve commun* — une procédure dont les visiteurs n'ont jamais reçu de description complète. Ce qui est connu : un candidat est *rêvé* par les autres Oracles avant de l'être par le Sanctuaire ; sa prise de fonction n'est annoncée à personne (y compris à lui-même, à ce qu'on dit) avant que le rêve ne soit collectivement reconnu.
-
-L'Oracle perd son nom personnel à la prise de fonction. Sa famille le sait. Le village le sait. Personne, au-delà du cercle privé, ne l'appelle plus par son nom. Les chroniqueurs thalmariens trouvent ce détail troublant et le notent presque toujours dans leurs marges.
 
 ### Le conseil civil
 

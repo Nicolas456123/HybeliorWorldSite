@@ -21,30 +21,6 @@ needs_review_for: []
 
 ---
 
-## Histoire
-
-### La Naissance dans le Feu
-
-Myrtam est né d'un cataclysme. Il y a des siècles, une chaîne d'éruptions volcaniques souterraines a fracturé les montagnes du sud d'Alkaran, créant un réseau de cavernes incandescentes où le magma affleure à quelques mètres sous la surface. Les premiers colons — des réfugiés d'Altram poussés par la surpopulation — découvrirent que cette chaleur naturelle permettait de fondre des métaux à des températures impossibles à atteindre ailleurs.
-
-Ce qui commença comme un camp de fortune devint une industrie, puis un royaume.
-
-### L'Acier Éternel
-
-L'événement fondateur de Myrtam est la création de l'Acier Éternel — une arme (une épée à double tranchant, selon la légende) d'une qualité si extraordinaire qu'elle est considérée comme invincible. L'arme fut forgée par **Myr le Fondeur**, le premier roi de Myrtam, qui aurait passé sept années dans les profondeurs de la Grande Forge sans jamais remonter à la surface.
-
-L'Acier Éternel existe toujours, conservé dans le cœur de la montagne. Personne ne l'a jamais vu — sauf le roi régnant, qui descend dans la chambre secrète le jour de son couronnement. Ceux qui en reviennent décrivent toujours la même chose : une lame si parfaite qu'elle semble vivante.
-
-Aucune lecture ne fait consensus sur Myr le Fondeur : génie singulier, dépositaire d'une aide surnaturelle, héritier d'un savoir métallurgique perdu — chaque tradition propose la sienne. Les prêtres de l'Ignis Aeternum affirment qu'Eldoria elle-même a guidé sa main. Les sceptiques d'Altram et de Mosrack y voient une accumulation de techniques que Myr aurait simplement refusé de partager. Les Foedus Animae, présents en marge à Myrtam, suggèrent que les âmes des forgerons morts dans les éruptions précédentes s'étaient transmises à lui — lecture que les prêtres d'Ignis rejettent.
-
-### Le Myrtam moderne
-
-Aujourd'hui, Myrtam est le plus grand producteur de métaux rares d'Alkaran. Son économie est entièrement tournée vers l'extraction et la transformation. Le roi **Thorvald VIII** gouverne avec l'efficacité d'un directeur d'usine — chaque mine a ses quotas, chaque forge ses standards, chaque ouvrier sa place dans la machine.
-
-C'est un pays prospère, mais où l'individu est souvent broyé par le système industriel.
-
----
-
 ## Gouvernement — La Monarchie Industrielle
 
 Le pouvoir à Myrtam est centralisé et vertical :

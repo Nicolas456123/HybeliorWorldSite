@@ -63,28 +63,6 @@ L'attitude générale, codifiée dans la Charte, est la **neutralité armée** e
 
 ---
 
-## Histoire
-
-### Avant la Charte
-Avant l'unification, le territoire actuel de Sanvara était une mosaïque de relais indépendants en concurrence permanente. Les guerres de routes étaient fréquentes et chères. Plusieurs caravansérails majeurs furent détruits par leurs voisins en l'espace d'un siècle, et la sécurité des caravanes était précaire.
-
-### La Charte des Sept Routes (~6 800 ap.A)
-Sept caravansérails majeurs se réunirent à un croisement neutre — un puits sec aujourd'hui appelé le **Trône Vide** — et y signèrent une charte de coopération commerciale. La Charte des Sept Routes établissait :
-- la libre circulation des caravanes contractuelles entre signataires
-- un protocole d'arbitrage des litiges (premier embryon des Arbitres des Routes)
-- un engagement mutuel de défense en cas d'agression d'un signataire
-- un partage des relevés de routes et des cartes commerciales
-
-La Charte fut, selon les chroniqueurs sanvariens, **moins idéaliste qu'utilitaire** — chaque signataire avait calculé qu'il gagnait plus à coopérer qu'à se battre. C'est la durabilité de cette analyse partagée qui fonde l'identité politique de Sanvara.
-
-### L'élargissement
-Au fil des siècles, d'autres caravansérails rejoignirent la Charte, qui fut amendée plusieurs fois. La Confédération compte aujourd'hui vingt-trois caravansérails majeurs et plusieurs dizaines de relais affiliés sans droit de vote.
-
-### Aujourd'hui
-Sanvara est connue pour son **stable instable** : aucune institution n'est durable, mais le système global persiste depuis plus d'un millénaire. Les tensions actuelles tournent autour de la pression commerciale d'Endrath, de la gestion des routes vers Esperia (de plus en plus dangereuses depuis le dernier Souffle), et de la question — récurrente — d'établir une capitale fixe.
-
----
-
 ## Culture et société
 
 ### L'hospitalité codifiée

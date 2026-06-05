@@ -7,6 +7,22 @@ needs_review_for: []
 ---
 # Histoires de Pyrtara
 
+## Les origines -- Korvash le Brule
+
+Pyrtara fut bati sur un archipel de volcans actifs relies par des ponts de lave solidifiee, une terre jugee inhabitable par les autres peuples d'Ilthara. Les premiers a s'y installer furent des proscrits, des exiles et des aventuriers, attires par les richesses minerales que recrachaient les volcans. Sans loi, sans roi, sans dieu : les plus forts commandaient, les plus faibles servaient ou mouraient. Cette brutalite originelle forgea l'identite du pays, ou la force n'est pas une vertu mais une condition de survie.
+
+Le premier semblant d'organisation vint d'un ancien soldat mercenaire, Korvash le Brule, qui rassembla les clans disperses sous une banniere unique -- un poing serrant une flamme. Il imposa une discipline militaire stricte : chaque homme et chaque femme devait savoir se battre, construire un abri et survivre seul une semaine dans les terres de cendres.
+
+---
+
+## La Grande Eruption -- le general Thaldris
+
+Trois generations apres Korvash, le Mont Pyralis -- le plus grand volcan du territoire -- entra en eruption avec une violence telle que le ciel d'Ilthara entier s'assombrit pendant des semaines. Des rivieres de lave engloutirent la moitie des etablissements et des milliers de personnes perirent.
+
+Le general Thaldris, commandant de la garnison survivante, organisa l'evacuation puis la reconstruction avec une efficacite militaire impitoyable : civils organises en unites, ressources rationnees, ordres executes sans discussion. Ceux qui paniquaient etaient mis au pas, ceux qui refusaient d'obeir etaient abandonnes. En six mois, Pyrtara etait rebati -- non comme avant, mais mieux. Thaldris se proclama Premier Commandant et instaura la dictature militaire qui perdure encore. Depuis, chaque eruption est geree comme une operation militaire, et les Pyrtariens y voient un entrainement permanent plutot qu'une malediction. Le pays n'a jamais ete conquis -- moins par invincibilite que parce que nul ne veut d'une terre qui tente activement de tuer ses habitants.
+
+---
+
 ## Ilyndar -- "L'Areniere"
 
 On ne connait pas le vrai nom de la femme qui changea la succession de Pyrtara. On l'appelle simplement l'Areniere, car l'Arene des Cendres fut le seul endroit ou elle vecut vraiment.

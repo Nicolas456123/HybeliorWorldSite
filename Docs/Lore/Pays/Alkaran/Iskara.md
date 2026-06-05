@@ -22,40 +22,6 @@ needs_review_for: []
 
 ---
 
-## Histoire
-
-### Les Premiers Bastions
-
-Iskara n'a pas été fondée — elle a été fortifiée. Aux temps anciens, les vallées profondes d'Alkaran étaient des couloirs d'invasion empruntés par des hordes venues de l'est. Les premiers habitants de ces vallées étaient des bergers et des mineurs qui, lassés de fuir, décidèrent de se battre. Ils taillèrent la roche, dressèrent des murs et transformèrent chaque défilé en piège mortel.
-
-Le premier roi d'Iskara, **Aldric le Bâtisseur**, n'était pas un guerrier mais un maçon. Il comprit que la géographie était la meilleure arme : en verrouillant les vallées, il pouvait rendre son peuple invincible. En une génération, les vallées d'Iskara devinrent un réseau de forteresses reliées par des tunnels, des ponts fortifiés et des routes de montagne invisibles depuis les plaines.
-
-### La Défense de la Porte de Fer
-
-L'événement fondateur d'Iskara est la **Défense de la Porte de Fer** — un siège qui dura trois cent jours. Une coalition venue des territoires voisins, convaincue que les richesses minières d'Iskara étaient faciles à prendre, lança une armée de quarante mille hommes contre le défilé principal.
-
-La Porte de Fer — un passage naturel entre deux falaises, renforcé par des murs de vingt mètres d'épaisseur — tint bon. Commandée par la reine **Yrelda la Forgée**, la garnison de trois mille soldats repoussa assaut après assaut grâce à un système ingénieux de pièges, de meurtrières et de canaux de lave artificielle alimentés par des forges souterraines.
-
-Au trois centième jour, les assiégeants se retirèrent, décimés. Yrelda n'ordonna aucune poursuite. Elle fit simplement graver dans le fer de la porte : *« Vous êtes libres de revenir. Nous serons là. »*
-
-### L'Ère Moderne
-
-Aujourd'hui, Iskara est gouvernée par le roi **Theron IV**, un souverain austère et respecté. Le pays n'a jamais mené de guerre offensive — sa doctrine est purement défensive. Mais cette posture défensive cache une puissance militaire colossale : chaque citoyen iskaran est formé au combat dès l'âge de douze ans, et les forteresses sont maintenues en état de siège permanent, comme si l'ennemi pouvait arriver demain.
-
-### La Garde qui ne dort plus (an 100 environ — encore en cours)
-
-Trois siècles après la Défense de la Porte de Fer, l'ennemi ne revient pas. Plus exactement : il revient *en plus petit*. Les grandes coalitions des premiers siècles se sont dissoutes ; les nations qui avaient porté l'assaut ne sont plus alliées entre elles ; les empires de l'est se sont fragmentés. Les éclaireurs d'Ysolia rapportent, depuis trois générations, des incursions sporadiques (pillards, déserteurs, caravanes armées qui déraillent), mais aucune armée digne du mot.
-
-Le Conseil des Forges n'a *jamais réduit le niveau de garde*. La doctrine, formalisée par décret royal en l'an 87, fixe que le pays est en état de siège permanent — et qu'aucune circonstance, hormis une victoire écrite avec un vainqueur identifié et un traité signé, ne peut faire revenir Iskara à un autre état. Or aucune victoire de ce type n'a été remportée, parce qu'aucun ennemi assez grand pour signer un traité ne s'est présenté. La garde, donc, continue.
-
-L'effet, mesuré sans bruit par les comptables d'Iskara : **environ trente pour cent des hommes valides du pays sont sous les armes en permanence**. Les forges de Glintaris produisent à plein régime un acier qui ne sera presque jamais utilisé en bataille rangée. Les greniers de Mytharis sont rotés (vidés et remplis) tous les sept ans pour qu'ils ne pourrissent pas. Les Gardiens de la Porte s'entraînent contre des assauts qui n'arrivent pas. La caserne d'Helionis a fini par accueillir, à l'intérieur de ses murs, un village entier de civils — parce qu'une garnison qui ne combat jamais a besoin de quelque chose à protéger pour ne pas se déliter.
-
-Personne, à Iskara, ne dit que la garde n'a plus de sens. **Le dire serait insulter Yrelda.** L'argument n'est jamais formulé ainsi ; il n'a pas besoin de l'être. Le siège de la Porte de Fer, accompli en trois cents jours par trois mille soldats, est devenu le mètre-étalon avec lequel chaque mois de garde présent est mesuré et trouvé légitime.
-
-Une rumeur travaille le pays depuis trente ans : Theron IV ne serait pas le vrai roi. Le véritable héritier serait mort enfant et aurait été remplacé par un orphelin choisi par le Conseil des Forges (cf. *Secrets et intrigues* infra). Si la rumeur est vraie — ce que le Conseil dément avec la même rigueur qu'il met à tout dément — la légitimité dynastique se dissout. Mais **la garde, elle, ne se dissoudrait pas**. La garde est plus ancienne que la dynastie.
-
----
-
 ## Gouvernement — La Monarchie Militaire
 
 Le système politique d'Iskara fusionne pouvoir royal et commandement militaire :

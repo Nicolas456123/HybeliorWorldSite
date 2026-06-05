@@ -7,6 +7,14 @@ needs_review_for: []
 ---
 # Histoires de Solena
 
+## Les fondations — de la pêche à l'oligarchie
+
+Solena fut d'abord une confédération de communautés de pêcheurs, vivant de côtes découpées et d'eaux poissonneuses bien avant qu'on parle de « nation ». Ce qui la transforma en puissance maritime fut l'**Âge des Grandes Explorations** — deux siècles durant lesquels les navigateurs soléniens cartographièrent les côtes de Galenor, découvrirent des îles inconnues et ouvrirent les routes commerciales. L'expédition la plus célèbre fut menée par l'Amiral **Etheira la Grande**, dont le nom fut donné à la région orientale : un voyage de trois ans qui circumnavigua le continent. Les familles de navigateurs qui avaient financé les expéditions devinrent les plus puissantes du pays et formèrent l'oligarchie qui gouverne encore.
+
+Le pouvoir attisa la convoitise. Trois familles maritimes — les **Oranthor**, les **Vyndral** et les **Myrathis** — se disputèrent le contrôle des routes commerciales dans un conflit naval de cinq ans, la **Guerre des Marées**, qui détruisit plus de navires qu'aucun ennemi étranger ne l'avait jamais fait. La paix vint d'un partage pragmatique des routes et de la fondation du **Conseil des Amiraux**, gouvernement collégial où chaque grande famille dispose d'un siège. Élargi par la suite à sept familles, le Conseil persiste à ce jour — mais les rivalités sous-jacentes n'ont jamais disparu.
+
+---
+
 ## Oranthor --- "La Capitaine qui Ne Revenait Plus"
 
 On attendit Elva Morn pendant trois ans. Son navire etait parti explorer les routes commerciales du sud profond, au-dela des cartes connues. Les archives de la Ligue des Explorateurs portaient son nom. La Chambre de Commerce avait investi dans l'expedition.
@@ -87,7 +95,9 @@ Pas pour qu'on l'accuse. Pour qu'on se souvienne qu'il se souvenait.
 
 ## Vyndralith — « Le Capitaine qui Lut la Carte »
 
-Personne, à Solena, n'a accès à la carte d'Etheira la Grande. Le coffre est sous le Palais des Amiraux. Les rares membres de la Guilde des Cartographes qui ont prêté serment de la garder ne l'ont jamais ouverte. La consigne d'Etheira — *« scellée jusqu'à ce qu'on en sache plus »* — a été interprétée littéralement.
+Etheira la Grande — fondatrice mythique de Solena, navigatrice qui circumnavigua le continent et dont les expéditions enrichirent les familles fondatrices de l'oligarchie — entreprit un dernier voyage à soixante-sept ans, en l'an 174. Elle revint quinze mois plus tard, seule sur un canot, son navire et son équipage perdus. Elle se présenta directement à la Guilde des Cartographes, y déposa une carte dessinée pendant le voyage de retour — une terre au-delà des océans connus, à l'ouest de Vesperilia, annotée d'un seul mot de sa main : *« Retournez. »* — et demanda qu'elle soit scellée. Elle mourut trois semaines plus tard d'une infirmité que les soigneurs n'identifièrent pas.
+
+Personne, à Solena, n'a accès à la carte d'Etheira la Grande. Le coffre est scellé sous le Palais des Amiraux. Les rares membres de la Guilde des Cartographes qui ont prêté serment de la garder ne l'ont jamais ouverte. La consigne d'Etheira — *« scellée jusqu'à ce qu'on en sache plus »* — a été interprétée littéralement. C'est le seul cas connu où Solena a accepté de ne pas partir.
 
 Ostren de Vyndralith ne respectait pas les consignes. À trente-sept ans, capitaine d'une corvette personnelle, il avait lu tout ce qu'il pouvait sur Etheira. Les chants. Les chroniques. Les marges. Il avait reconstitué, à partir de témoignages indirects, *où* la carte montrait la terre interdite. Il pensait pouvoir y aller.
 
@@ -133,7 +143,9 @@ Sur l'île de Falnor, la plus petite de Tetramis, six familles vivent depuis des
 
 Ce que les familles de Falnor ne disent à aucun visiteur, c'est qu'elles savent *aussi* autre chose : leur ascendance.
 
-Les six familles descendent, par lignée maternelle continue, des **Tetramor** — la septième famille amirale effacée du Conseil en l'an 130. Les hommes ont changé de nom à chaque génération pour brouiller les pistes ; les femmes ont gardé la mémoire orale du nom originel et l'ont transmis. Les enfants, à dix ans, reçoivent dans une cérémonie privée le nom *Tetramor* qu'ils ne porteront jamais en public.
+Les six familles descendent, par lignée maternelle continue, des **Tetramor** — la septième famille amirale effacée du Conseil en l'an 130. Lorsque le Conseil des Amiraux s'élargit de trois à sept familles, sept *autres* familles étaient candidates ; six furent admises, la septième — Tetramor — fut expulsée, son siège ré-attribué, ses biens confisqués, son nom gratté des registres officiels. La cause n'apparaît dans aucune archive accessible, mais les indices recoupés — notamment par un cartographe étranger nommé **Sorin Valthen**, de passage à Oranthor en l'an 251 — suggèrent que les Tetramor avaient rendu accessibles à des marins ordinaires des relevés cartographiques que les six autres familles voulaient garder en secret commercial. Leur crime n'était pas la concurrence ; c'était la transparence. La région insulaire de **Tetramis** porte encore leur nom : l'unique trace officielle qui ait survécu.
+
+Les hommes ont changé de nom à chaque génération pour brouiller les pistes ; les femmes ont gardé la mémoire orale du nom originel et l'ont transmis. Les enfants, à dix ans, reçoivent dans une cérémonie privée le nom *Tetramor* qu'ils ne porteront jamais en public. Les plongeurs de Falnor murmurent que des familles du village voisin de **Nydris** *« savent »* elles aussi, depuis cinq générations, sans plus rien revendiquer.
 
 Cette mémoire est, pour les familles de Falnor, **précieuse et inutile**. Elles ne projettent pas de retour. Elles ne préparent aucune revanche. Elles n'envoient aucun émissaire à Oranthor. Le Conseil des Amiraux les a effacés ; elles ont accepté d'être effacées en surface ; elles ont gardé, en profondeur, le souvenir de qui elles étaient.
 

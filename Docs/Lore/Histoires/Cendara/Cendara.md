@@ -7,6 +7,18 @@ needs_review_for: []
 ---
 # Histoires de Cendara — Royaume de la Grande Île
 
+## Les Origines — « Des Naufragés aux Forgerons du Feu »
+
+Cendara n'est pas née : elle a surgi. L'archipel volcanique émergea des profondeurs de l'océan lors d'une série d'éruptions cataclysmiques qui, selon les chroniques les plus anciennes, durèrent un siècle. Le Mont Cendra, qui domine l'île principale, est le volcan le plus actif et le plus massif de tout Hybelior.
+
+Les premiers habitants furent des naufragés — des marins d'origines diverses dont les navires s'étaient brisés sur les récifs de sable noir. Piégés sur une île hostile, ils apprirent à vivre avec le feu : la chaleur volcanique canalisée en forges naturelles travaillait les métaux à des températures impossibles ailleurs, les cendres rendaient la terre prodigieusement fertile, et les cavernes de lave refroidie offraient des abris indestructibles. De survivants, ils devinrent les **Forgerons du Feu** — un peuple qui ne craint pas les flammes mais les vénère.
+
+L'événement fondateur du royaume est le **Grand Rituel de Réveil**, mené par le premier roi-pyromancien, **Ashgrim le Calciné**. Selon la tradition, Ashgrim monta seul dans le cratère du Mont Cendra pendant une éruption, armé d'un bâton de fer et d'une prière. Il en redescendit trois jours plus tard, le corps couvert de brûlures mais vivant, portant une pierre incandescente qu'il appela le **Cœur de Cendra** — un fragment de magma cristallisé que les chroniqueurs successifs rapportent n'avoir jamais vu refroidir, malgré les siècles. Ashgrim fit du Cœur le centre de son pouvoir et entreprit le Palais des Cendres de Brumaris ; il mourut avant son achèvement et sa dépouille fut jetée dans le cratère.
+
+Les sceptiques rappellent qu'Ashgrim était aussi un alchimiste brillant : le Cœur de Cendra pourrait être une création artificielle, un chef-d'œuvre d'alchimie présenté comme un miracle pour asseoir le pouvoir royal. Personne n'ose le dire à voix haute. (Les Colonnes de Mémoire de Thaldor en gardent, dit-on, une version dissidente — cf. « La Colonne qui Parle ».)
+
+---
+
 ## Brumaris — « Le Coeur qui Fond »
 
 Le roi Pyranthus IV avait l'habitude de descendre seul dans la Chambre du Coeur. Chaque nuit, sans gardes, sans flammarques, sans temoins. Il posait sa main sur la porte scellee, murmurait les mots anciens, et entrait.

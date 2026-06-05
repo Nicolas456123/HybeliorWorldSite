@@ -7,6 +7,16 @@ needs_review_for: []
 ---
 # Histoires d'Ackerna
 
+## Les Origines -- Du Chene-Mere au Pacte Sylvestre
+
+Les premiers habitants des forets d'Ackerna furent des ermites et des mystiques venus des quatre coins d'Ilthara, attires par des voix dans le vent et des visions dans la rosee. Ils se rassemblerent autour des arbres les plus anciens, dont les racines plongeaient assez profond pour toucher, disait-on, les veines magiques d'Ilthara elle-meme. Le premier cercle druidique, celui du Chene-Mere, fut fonde par une femme dont le nom fut volontairement efface de l'histoire -- car en Ackerna, les fondateurs ne sont pas des heros mais des serviteurs de la foret. Ce cercle posa les principes qui regissent encore le pays : la terre ne s'appartient pas, elle se partage ; les saisons ne se subissent pas, elles se celebrent ; et aucun arbre ne tombe sans qu'un autre soit plante.
+
+Pendant des siecles, Ackerna vecut en harmonie. Puis vint l'Hiver Noir : la foret tomba malade, les arbres perdirent leurs feuilles en plein ete, les sources se tarirent, et ce que les druides nommaient la voix des esprits se brouilla. La cause fut decouverte trop tard. Un cercle dissident, fascine par ce qui filtrait des Marecages de Noyrath au sud, avait pratique des rites juges transgressifs pour puiser une magie plus puissante. Les druides de l'epoque attribuerent la degradation de la foret a ces rites -- coincidence ou consequence, les theologiens en debattent encore -- et la confiance entre eux et les esprits s'effondra.
+
+Face a l'agonie de la foret, l'Archidruide Faelorn convoqua un rituel sans precedent. Pendant sept jours et sept nuits, les druides fideles se reunirent au coeur du Bosquet Primordial et offrirent une part de leur essence vitale a la terre. La reponse qu'ils percurent prit la forme d'une condition : desormais les druides gouverneraient non comme des chefs, mais comme des gardiens lies par serment a la foret. Quiconque trahirait ce pacte verrait son lien avec la nature s'etioler -- une menace recitee encore aux intronisations, jamais testee publiquement. Ce fut le Pacte Sylvestre, qui transforma Ackerna en theocratie ou la foret elle-meme, dans la lecture des druides, est la plus haute autorite. Les druides dissidents furent bannis dans les Marecages de Noyrath -- leurs descendants, dit-on, y errent encore sous le nom des Enfants de l'Hiver Noir.
+
+---
+
 ## AckernaVille -- "L'Enfant Sans Arbre"
 
 Ils planterent sept graines. Sept fois, la terre les recracha.

@@ -22,32 +22,6 @@ needs_review_for: []
 
 ---
 
-## Histoire
-
-### Les Origines du Vide
-
-Les Terres Brisées de Celethor n'ont pas toujours été un no man's land. Des vestiges architecturaux indiquent qu'une civilisation y prospérait autrefois — fondations de pierre d'une qualité que personne ne sait plus reproduire, routes pavées envahies par la végétation, puits asséchés, marquages quasi-illisibles dans la roche. De cette civilisation, **les chroniques actuelles ne conservent aucun nom unanime** ; les rares appellations qui circulent dans les fragments locaux ne se recoupent pas.
-
-Les théories abondent : guerre d'extermination, catastrophe magique, épidémie, migration massive. Les mages d'Astravia ont tenté des divinations, dont les résultats restent contradictoires — au point que plusieurs lecteurs y voient le signe d'une histoire que **quelque chose a tenté de soustraire à la mémoire**. Cette lecture est, parmi celles qui circulent, la plus dérangeante. Elle est aussi celle que les prospecteurs de Zarnith, qui passent leurs jours à fouiller les ruines, finissent par adopter — non comme conviction théologique, mais comme hypothèse de travail.
-
-Une **inscription** récurrente a été identifiée sur trois sites différents, dans une langue inconnue. Elle a été reproduite, comparée, datée. Les Stellari d'Astravia qui l'ont étudiée pensent qu'elle dit *« nous avons décidé de partir »*. Les chamans de Ryldor lisent *« nous avons décidé de nous taire »*. Les mineurs de Galdryn lisent *« nous avons décidé »*, sans plus. Aucune lecture n'est tranchée. Toutes les trois pourraient être justes simultanément.
-
-### Un Refuge pour les Déshérités
-
-Aujourd'hui, les Terres Brisées sont un refuge pour ceux que les nations organisées ont rejetés : criminels en fuite, déserteurs, hérétiques, parias politiques, aventuriers sans attaches. Aucune loi ne s'y applique, aucune autorité n'y a cours. C'est un territoire où la seule règle est la survie — et, pour ceux qui y vivent depuis longtemps, une seconde règle qu'ils ne formulent pas mais respectent : **on n'effraie pas les nouveaux arrivants en posant des questions**.
-
-Cette règle est à elle seule remarquable. Elle est l'une des rares choses qui distinguent les Terres Brisées d'un simple chaos. Personne ne demande d'où l'on vient. Personne ne demande pourquoi. Cette discrétion est plus protectrice que n'importe quelle muraille : elle permet à un Effacé d'Elarian, à un Voilé d'Astravia, à un chaman exilé de Ryldor de coexister sans que leurs anciens pays exercent sur eux la pression de la reconnaissance.
-
-### L'Équilibre Précaire
-
-Malgré l'absence de gouvernement, une forme d'ordre émerge. Les communautés les plus stables sont celles qui se sont organisées autour de principes simples : défense mutuelle, partage des ressources, justice expéditive. Les plus faibles ne survivent pas — et les plus cruels finissent par se faire des ennemis de tous.
-
-Cet ordre a un point central, qu'aucune carte officielle n'admet : **Eridorn**. La Tisseuse d'Eridorn (cf. fiche ville) tient les fils. Pas par autorité — par **connexions**. Elle sait qui a besoin de quoi, qui peut fournir quoi, qui ment. Elle introduit. Elle laisse vivre. Quand elle décide qu'une personne ne mérite plus d'être connectée, cette personne meurt seule — pas de sa main, mais de la solitude que sa décision lui impose. Aucune autorité officielle ne reconnaît la Tisseuse. Aucune n'a réussi à la déposer. Trois fonctionnaires corrompus dans chacun des trois pays voisins protègent son existence parce qu'elle leur fournit ce que les voies officielles ne leur fourniraient pas.
-
-L'ordre des Terres Brisées est donc un **ordre informel** que les nations voisines feignent d'ignorer. Cet ordre, paradoxalement, est plus stable que celui de plusieurs pays déclarés.
-
----
-
 ## Gouvernement — Néant officiel, réseaux informels
 
 Il n'y a pas de gouvernement dans les Terres Brisées. Chaque communauté, chaque campement, chaque individu est son propre maître. Des alliances temporaires se forment et se défont au gré des circonstances. Les chefs émergent par la force, le charisme ou la compétence — et disparaissent tout aussi vite.

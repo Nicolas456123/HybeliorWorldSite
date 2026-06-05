@@ -7,6 +7,32 @@ needs_review_for: []
 ---
 # Histoires de Drakora
 
+## Les origines -- Le Temps des Flammes Sauvages
+
+Avant l'arrivee des humains, les terres montagneuses et volcaniques de Drakora etaient le territoire exclusif des Dragons d'Aube, dont les nids couronnaient chaque sommet. Les premiers humains a s'y aventurer n'etaient ni conquerants ni explorateurs, mais des exiles d'autres nations fuyant guerres et famines. Ils s'attendaient a mourir sous les flammes ; au lieu de cela, ils decouvrirent que les dragons ne tuaient pas systematiquement -- certains se montraient indifferents, d'autres curieux, et quelques-uns, les plus rares, choisissaient un humain parmi les nouveaux venus et l'epargnaient.
+
+Ces elus furent les premiers Lies -- des humains ayant forme un lien inexplicable avec un dragon, lien conferant force, longevite et connexion psychique avec la creature. Les Lies devinrent naturellement les chefs de la communaute naissante, et Drakora fut fonde sur un principe simple : celui qui est digne d'un dragon est digne de commander.
+
+---
+
+## La Grande Chasse du Dragon
+
+Il y a plusieurs siecles, alors que le nombre de dragons diminuait et que les liens devenaient plus rares, le roi Draegon III lanca la Grande Chasse -- une expedition massive visant a capturer de force des dragons sauvages pour multiplier les liens et renforcer l'armee.
+
+La Chasse fut un desastre. Les dragons sauvages, furieux d'etre traques, se dechainerent : des vallees entieres furent calcinees, des centaines de chasseurs perirent. Pire, les dragons deja Lies ressentirent la detresse de leurs congeneres et rompirent leurs liens, plongeant leurs cavaliers dans la folie ou la mort.
+
+Ce fut la reine Myrthin, epouse de Draegon III et seule Liee dont le dragon ne rompit pas le lien, qui mit fin a la catastrophe. Elle chevaucha sa monture au-dessus des flammes et negocia une treve avec le patriarche des dragons sauvages. Les termes furent clairs : jamais plus un dragon ne serait chasse ; le lien ne peut etre que choisi, par le dragon autant que par l'humain. En echange, les dragons accepterent de rester sur les terres de Drakora et de continuer a choisir des Lies parmi les dignes. C'est le Pacte de la Grande Chasse.
+
+Myrthin deposa son mari et instaura la monarchie guerriere actuelle, ou le souverain doit toujours etre un Lie.
+
+---
+
+## L'Ere du Lien
+
+Depuis la Grande Chasse, Drakora vit dans un equilibre fragile. Les dragons sont peu nombreux -- peut-etre quelques dizaines -- et les Lies plus rares encore. Mais chaque Lie est une force de la nature, et Drakora compense son faible nombre par la puissance brute de ses guerriers draconiques.
+
+---
+
 ## Myrthorin -- "Le Deuil de la Reine"
 
 La Reine Syraeth ne pleurait jamais. C'etait un fait connu de tout Drakora -- une femme de fer et de flamme, Liee a Voldrax depuis l'age de seize ans, invaincue en duel aerien, inflexible dans son autorite. Les rochers des montagnes de Myrtheria avaient plus de chance de verser des larmes que Syraeth.

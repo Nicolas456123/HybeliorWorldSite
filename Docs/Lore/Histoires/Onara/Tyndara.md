@@ -7,6 +7,16 @@ needs_review_for: []
 ---
 # Histoires de Tyndara
 
+## Aux origines de la Ligue
+
+Avant Tyndara, la côte d'Onara était un repaire de pirates : des dizaines de capitaines indépendants tenaient chacun un port, une crique ou un archipel, et pillaient les navires marchands. Le commerce maritime y était si dangereux que la plupart des nations lui préféraient le commerce terrestre. Tous ces pirates n'étaient pas des brutes — certains étaient d'excellents navigateurs, cartographes ou ingénieurs navals — mais leur anarchie les empêchait de bâtir quoi que ce soit de durable.
+
+Le tournant vint de **Selyra la Calculatrice**, fille d'un pirate et d'une marchande étrangère. Éduquée dans les deux mondes, elle comprit que le pillage rapportait moins que le commerce, à condition de contrôler les routes maritimes. Elle proposa aux capitaines un marché : cesser le pillage et devenir marchands légitimes contre la garantie de monopoles commerciaux sur des routes précises ; les récalcitrants seraient chassés par tous les autres réunis. La majorité accepta, et les derniers opposants furent éliminés en moins d'un an. Selyra fonda alors la **Ligue des Marchands**, qui devint vite le gouvernement de fait de la côte, puis Tyndara — du nom du vent dominant qui pousse les navires vers le port.
+
+L'Archonte actuel, **Valdris III**, homme affable et rusé, a fait de Tyndara la plaque tournante du commerce mondial : ses navires relient tous les continents et ses guildes tiennent des comptoirs dans chaque port d'Hybelior. L'argent y coule à flots — la corruption aussi.
+
+---
+
 ## Fablioris --- "L'Ile et le Roi qui ne dormait plus"
 
 On ne raconte pas souvent cette histoire parce qu'elle dit quelque chose d'inconfortable sur le pouvoir.

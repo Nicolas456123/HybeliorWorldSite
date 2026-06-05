@@ -7,6 +7,24 @@ needs_review_for: []
 ---
 # Histoires de Vytharia
 
+## Origines — Les Premiers Rêveurs
+
+Avant Vytharia, les vallées brumeuses de cette région d'Ilthara étaient évitées : les voyageurs y rapportaient des visions de disparus, des paysages changeants et des conversations avec des êtres inexistants. La plupart fuyaient ; les visionnaires, les marginaux et les fous restèrent. Ces premiers habitants découvrirent que la frontière entre le rêve et la réalité y était exceptionnellement mince — vraisemblablement à cause de la proximité du **Lac des Rêves**, au cœur d'Ilthara — et apprirent à la naviguer plutôt qu'à la craindre, développant une maîtrise unique des illusions et de la perception.
+
+La première communauté organisée fut fondée par **Vytha**, une illusionniste dont les créations prenaient vie au sens littéral. Ses disciples l'élevèrent au rang de prophétesse et bâtirent autour d'elle une société où la perception comptait plus que la matière. C'est d'elle que le pays tire son nom.
+
+Sous cette aube se trouve une strate plus ancienne : la lignée **Vael'Somnix** et les civilisations oniriques des **Rêves Nommés** — la Synarchie des Voiles, les Principautés de l'Éveil Interdit, l'Empire Somnambule de Keth-Anur et la Confédération des Rêves Nommés. C'est de cet héritage que descendent les traditions des **Noctari** et du **Somnium Vigil**, et ce sont ses ruines et ses rites légués qui courent sous toute l'histoire de Vytharia.
+
+## L'Ère de l'Illusion Libre
+
+Pendant des siècles, Vytharia fut un lieu de liberté absolue : chacun pouvait façonner sa propre réalité, et les illusionnistes les plus puissants vivaient dans des palais de rêve que seuls les initiés pouvaient voir. Cette liberté engendra le chaos. Des guerres d'illusions éclatèrent — des quartiers entiers piégés dans des cauchemars rivaux — et la folie se répandit, les habitants ne distinguant plus le réel de l'imaginaire.
+
+## Le Voile du Rêve
+
+Face à l'effondrement, les **sept illusionnistes** les plus puissants se réunirent et tissèrent le **Voile du Rêve** : une barrière semi-perméable entre le monde éveillé et le monde onirique. Le Voile ne supprima pas les illusions mais les régula, faisant coexister rêve et réalité de façon contrôlée. Ces sept devinrent les premiers membres de l'**Oligarchie des Voilés**, gouvernement de mystiques chargé de maintenir le Voile et d'empêcher le retour du chaos.
+
+---
+
 ## Brystalis -- "La Femme qui se Souvint de Mourir"
 
 Theyra se reveilla un matin avec une cicatrice qu'elle n'avait pas la veille. Un trait blanc, net, en travers de la gorge, comme si quelqu'un avait dessine une ligne de mort sur sa peau pendant son sommeil.

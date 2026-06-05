@@ -7,6 +7,40 @@ needs_review_for: []
 ---
 # Histoires de Caeloria
 
+## Caeloria — « L'Ouverture du Ciel »
+
+Selon la tradition caélorienne, Caeloria ne fut pas fondée mais *révélée*. Les premiers habitants d'Azoria étaient des nomades errant sur la banquise, sans foyer ni destination, que le froid tuait lentement.
+
+Un soir de solstice d'hiver, alors qu'une tempête menaçait d'anéantir un dernier groupe de survivants, les chroniques sacrées racontent ce qu'elles nomment *l'Ouverture du Ciel* : les nuages s'écartèrent au-dessus d'une côte rocheuse, et les étoiles parurent former un motif que les anciens lurent comme une flèche pointant vers la terre. Que le motif ait existé objectivement ou que le regard désespéré des survivants l'ait composé, les chroniques ne tranchent pas.
+
+Ils suivirent le signe. Sur la côte, ils trouvèrent les falaises percées de grottes thermales. Ils nommèrent l'endroit Caeloria — *« le don du ciel »*.
+
+---
+
+## Caeloria — « Aldren le Juste et l'Intervention Divine »
+
+Trois générations après l'Ouverture du Ciel, Caeloria était devenue un royaume naissant — prospère par les standards d'Azoria, ce qui signifiait que ses habitants ne mouraient plus de froid. Mais la prospérité attira des hordes de pillards venus des terres intérieures — des nomades restés sauvages — qui déferlèrent sur la côte.
+
+Le roi **Aldren le Juste** rassembla ses guerriers, en infériorité écrasante. La nuit précédant l'assaut, il monta seul au sommet de la plus haute falaise de Caeloria. Selon les chroniques sacrées, il ne supplia pas — il s'adressa au ciel comme à un débiteur :
+
+> *« Vous nous avez guidés ici. Vous avez ouvert le ciel pour nous montrer le chemin. Si nous mourons demain, votre don n'aura servi à rien. Alors faites quelque chose — ou admettez que les étoiles ne sont que des cailloux lumineux. »*
+
+À l'aube, une tempête d'une violence inouïe se leva sur le campement des envahisseurs ; les Caéloriens, à quelques lieues, ne ressentirent qu'une brise. Quand elle se dissipa, des pillards il ne restait que du givre et du silence. Que la coïncidence ait été météorologique, l'effet d'une voix entendue par-dessus le Pacte, ou autre chose encore — les chroniques ne distinguent pas. La zone où les pillards périrent demeure stérile, couverte d'un givre qui ne fond pas ; le Conclave en fait la preuve d'une faveur céleste.
+
+Cet événement — **l'Intervention Divine** — transforma le royaume. Le peuple bascula dans une ferveur absolue. Les prêtres, jusque-là simples conseillers, devinrent les véritables dirigeants. La lignée royale ne disparut pas : elle se soumit volontairement au clergé, et le roi devint le **Bras des Cieux**, exécutant militaire au service de la volonté divine telle qu'interprétée par les oracles. Le titre se transmet depuis dans la lignée descendant d'Aldren.
+
+---
+
+## Caeloria — « L'Édit de Celestia »
+
+L'événement qui donna à Caeloria sa structure profonde n'est pas l'Intervention Divine — c'est l'Édit. Sept siècles après la fondation, vers l'an 9 350 ap.A (sept siècles avant le Sillage actuel), le **Premier Conclave** statua qu'aucun emploi public, aucune charge cérémonielle, aucune concession minière ne serait accordée à un sujet **non-Lié à Celestia ou à Stellaris**. La justification doctrinale tenait en une phrase : *« Le bien commun se lit. Qui ne lit pas le bien commun ne peut le défendre. »*
+
+L'Édit fut promulgué en cinquante-huit articles, gravés dans la stellarite et fixés à l'entrée des cinq observatoires sacrés. Il n'a jamais été abrogé, mais il a été **précisé** dix-sept fois en sept cents ans, toujours dans le sens d'une extension : la liste des emplois réservés s'allongea, le seuil de Lien se durcit, la procédure d'examen s'étoffa. Aujourd'hui, un non-Lié peut être pêcheur, mineur ou artisan ordinaire, mais ne peut tenir un registre, instruire un enfant, siéger à un tribunal, transporter de la stellarite, ni officier dans le Bras des Cieux. La discrimination est *douce* (aucun châtiment positif) et *systémique* (toute la vie publique fermée). La doctrine y voit une **élévation** des Liés ; les non-Liés l'éprouvent comme une assignation.
+
+L'Édit fut contesté à l'international (Lumasar, Pyrtara) et défendu doctrinalement à chaque fois. À Caeloria même, aucune contestation interne n'aboutit jamais — sur les pétitions effacées, cf. ci-dessous *« Les Pétitions Effacées »*.
+
+---
+
 ## Duskoris — « La Première Grotte »
 
 Les nomades qui trouvèrent Duskoris n'étaient plus en état de chercher quoi que ce soit. Vingt-trois survivants d'un groupe qui en avait compté soixante-dix. Quatre mois de banquise. La tempête qui les avait presque tués venait de se dissiper quand ils virent la côte.

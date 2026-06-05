@@ -21,58 +21,6 @@ needs_review_for: []
 
 ---
 
-## Histoire
-
-### Les origines — Les Clans Premiers
-
-Valoria n'a jamais été fondée — elle a toujours existé, du moins selon les Valoriens eux-mêmes. Les clans qui peuplent les terres rocailleuses et montagneuses du nord-est de Galenor revendiquent une lignée ininterrompue remontant aux premiers habitants du continent. Chaque clan tire son nom d'un ancêtre fondateur dont les exploits sont chantés lors des veillées guerrières.
-
-La vie clanique est dure : les terres de Valoria sont ingrates, les hivers impitoyables, et les ressources toujours disputées. Cette rudesse a forgé un peuple de guerriers pour qui la force physique, le courage au combat et la loyauté au clan sont les vertus suprêmes. Un Valorien qui ne peut pas se battre ne peut pas vivre — c'est un principe qui, bien que tempéré par le temps, imprègne encore la culture.
-
-### La Période des Guerres Claniques
-
-Pendant des siècles, les clans de Valoria se firent la guerre sans relâche. Pas de conquête permanente, pas d'empire — juste un cycle interminable de raids, de vendettas et de batailles rituelles qui maintenaient les clans dans un état de guerre perpétuelle. Les plus faibles étaient absorbés par les plus forts, puis les forts se fragmentaient à la mort de leur chef, et le cycle recommençait.
-
-Cette époque forgea les traditions martiales de Valoria : le **Duel de Sang** pour régler les conflits d'honneur, le **Raid de Gloire** comme rite de passage des jeunes guerriers, et le **Serment de Pierre** comme engagement indéfectible entre alliés. Mais elle faillit aussi détruire les clans — épuisés par des siècles de guerre interne, ils devinrent vulnérables aux menaces extérieures.
-
-### L'Alliance des Clans
-
-La menace vint de l'extérieur. Une horde de créatures descendues des montagnes de Voldenor — des bêtes de pierre animées par une force inconnue — déferla sur les terres claniques, détruisant tout sur son passage. Aucun clan seul ne pouvait résister.
-
-C'est alors que **Valtheria la Forgée** — une guerrière du clan Teldar, réputée pour avoir tué un ours des montagnes à mains nues — proposa l'impensable : une alliance entre tous les clans. Elle parcourut Valoria en un mois, défiant chaque chef de clan en duel singulier. Elle ne les tua pas — elle les vainquit, puis leur tendit la main. Tous acceptèrent l'alliance.
-
-L'armée unifiée repoussa la horde dans les montagnes lors de la **Bataille du Col de Fer**, une victoire sanglante qui coûta la vie à un tiers des guerriers valoriens. Valtheria, blessée mais vivante, fonda la **Confédération des Clans** : chaque clan conserverait son autonomie, mais un **Conseil des Thanes** se réunirait pour faire face aux menaces communes.
-
-Valtheria fonda la capitale qui porte son nom — Valtheria — et son clan, les Teldar, fut reconnu comme le premier parmi les égaux. Cette prééminence, contestée mais jamais renversée, perdure aujourd'hui.
-
-### La Codification du Sang (an 50 — encore en cours)
-
-Ce que les chants valoriens ne célèbrent pas, c'est ce que la Confédération a *fait des codes martiaux* après Valtheria. Les premiers Thanes héritiers ont entrepris de **fixer** les règles du Holmgang (duel rituel), du Raid de Gloire, du Serment de Pierre, des successions claniques, des dépouilles partagées, des veuves, des enfants illégitimes, des esclaves de guerre, des prisonniers, des otages, des messagers, des fêtes de clan, des deuils, des mariages mixtes inter-clans, des reniements, des excommunications, des bannissements.
-
-Le **Code des Thanes** — qui n'est pas un texte unique mais un corpus oral transmis par les *Gardiens de la Mémoire* (prêtres du Foedus Animae) — a fini par couvrir, à l'an 251, près de mille cinq cents articles. Aucun n'est écrit. Tous sont mémorisés. Les Gardiens connaissent le Code mieux que les Thanes ; les Gardiens *sont*, en pratique, les régulateurs réels du pays. Ils ne décident pas — ils *récitent*. Mais ce qui est récité fait loi, et ce qui n'est pas récité n'existe pas.
-
-Cette codification a été fonctionnelle : elle a permis à Valoria de tenir près de deux mille ans sans guerre civile généralisée (les conflits inter-claniques restent des affaires locales). Elle a aussi *figé* le pays. Le Holmgang fixe la résolution des conflits ; les Holmgang se répètent ; les *raisons* des Holmgang se répètent. Le pays se duelle pour les mêmes choses depuis des siècles, et appelle cela *tradition*.
-
-L'historien **Neld de Thalindor** (an 196-251) a, en l'an 248, publié une analyse compilant deux cents ans d'archives de duels (les Holmgang étant, par exception, *consignés* dans des registres de pierre tenus par les Gardiens locaux). Sa conclusion : *« Nous nous tuons pour les mêmes choses depuis deux cents ans. Nous n'avons rien appris. »* La publication a circulé dans toutes les familles de Valoria. Elle n'a rien changé doctrinalement — la tradition du Holmgang est trop enracinée pour être abrogée. Mais le nombre de duels à Thalindor, depuis dix ans, a baissé de quarante pour cent. Pas parce que les Valoriens sont devenus plus sages ; parce que beaucoup d'entre eux ont *honte* de répéter ce que leurs ancêtres ont déjà fait. C'est, à l'échelle valorienne, une révolution silencieuse.
-
-### L'Instrumentalisation Clanique
-
-Ce qui rend Valoria difficile à voir clairement — y compris pour ses habitants — c'est que **le clan, en tant qu'institution, traite chaque membre comme un instrument du clan**. Cette instrumentalisation est entièrement *gentille* dans la plupart des cas : on aime les siens, on les défend, on les nomme, on les enterre. Mais le but final n'est jamais le sien. C'est le clan.
-
-Un guerrier de Teldar qui voudrait s'établir à Kharazir, épouser une Kharaziri, élever ses enfants hors du clan — *peut* le faire. Personne ne l'arrêtera. Mais il sera *renié*. Pas hai — renié. Effacé du Foedus Animae local. Privé de sa part d'os ancestral. Son nom rayé des litanies. Cette excommunication clanique est, dans l'expérience valorienne, plus terrible que la mort, parce qu'elle empêche la persistance dans le Pacte des Âmes (cf. religion *Foedus Animae* — Instrumentalisation enfoncée selon sa fiche).
-
-Le clan promet : *« si tu sers, nous te garderons après ta mort »*. Si tu ne sers pas, nous *t'oublions*. Le mécanisme est élégant ; il est aussi exactement l'instrumentalisation au sens du cadre — l'âme est un *moyen* de continuité du clan, jamais une *fin* en elle-même.
-
-Les **Sans-Sang** (ceux qui ont fui l'Épreuve du Sang à 14 ans) sont l'incarnation visible de cette instrumentalisation. Ils ne sont pas tués ; ils sont *réduits* (tâches serviles, mariage interdit, vie courte par épuisement). Le pays a besoin d'eux pour les corvées qu'aucun guerrier n'accepterait. Personne ne le formule ainsi. La doctrine officielle dit que les Sans-Sang sont *« déchus »* — ils ont choisi leur sort. La pratique économique dit que sans Sans-Sang, Valoria ne tient pas.
-
-### La Pierre Noire de Valtheria
-
-Sous la Pierre de Valtheria — bloc sacré sur lequel la fondatrice prêta le premier serment — une **autre pierre** est enterrée. Noire, lisse, froide même en été. Les Gardiens de la Mémoire les plus anciens connaissent son existence. Ils jurent que Valtheria la Forgée elle-même l'a placée là en ordonnant qu'on ne la déterre *« que lorsque la dernière guerre commencera »*.
-
-Aucun Gardien ne sait ce que cela signifie. Aucun Thane ne souhaite le découvrir. La Pierre Noire est, à l'échelle de la nation, l'équivalent de la carte d'Etheira à Solena : *quelque chose de fondateur dont l'avertissement est gardé scellé*. Les deux nations partagent, sans le savoir, une posture identique — *notre fondatrice savait quelque chose de plus grand que nous, et nous avons préféré ne pas l'écouter*.
-
----
-
 ## Gouvernement — La Confédération Clanique
 
 Le pouvoir à Valoria est fragmenté et brutal :

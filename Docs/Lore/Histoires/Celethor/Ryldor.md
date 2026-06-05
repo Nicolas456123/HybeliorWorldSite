@@ -7,6 +7,18 @@ needs_review_for: []
 ---
 # Histoires de Ryldor
 
+## Les origines — « Le Temps des Fièvres »
+
+Le territoire qui deviendrait Ryldor fut d'abord une terre maudite, frappée par un **Fléau** mystérieux qui pourrissait les plantes, rendait les animaux fous et consumait les humains de l'intérieur. Les peuples voisins l'évitaient ; les rares habitants y survivaient dans la misère. Les guérisseurs de toutes les nations vinrent tenter leur chance et échouèrent : le Fléau résistait à la magie, à la science et à la prière.
+
+Ce fut **Ryldara**, simple herboriste sans pouvoir magique, qui trouva l'issue. Elle observa que certaines plantes résistaient au Fléau — non en le combattant, mais en vivant avec lui — et comprit que le Fléau n'était pas une maladie mais un **déséquilibre** : la terre elle-même était malade, et tout le reste en découlait.
+
+Elle passa sa vie à développer une méthode holistique : traiter la terre pour guérir les plantes, traiter les plantes pour guérir les animaux, traiter les animaux pour guérir les humains. Elle cultiva des jardins médicinaux, créa des potions à partir des champignons qui se nourrissaient du Fléau, et enseigna ses techniques à qui voulait apprendre. En trois générations, le Fléau **recula**. Il ne disparut jamais.
+
+Ce que Ryldara ne dit jamais publiquement — et que ses carnets, déposés à sa mort dans les archives secrètes du Cercle des Guérisseurs, révèlent — c'est que sa méthode ne **guérissait** pas le Fléau. Elle le **contenait**. Elle l'endormait sous la terre, surveillé par les rituels qu'elle institua et encadré par les jardins qu'elle planta. Elle tut cette vérité parce qu'elle pensait que la connaître ferait fuir son peuple.
+
+---
+
 ## Ryldaris — « Ce que Ryldara Ne Dit Pas »
 
 Les archives de Ryldaris racontent comment Ryldara choisit l'emplacement de la capitale. Elles expliquent la cartographie du Fléau, les zones de moindre virulence, la logique médicale qui guidait chaque décision.
@@ -126,6 +138,16 @@ Aucun document n'évoque cette épreuve. Elle n'a pas de nom officiel. Les appre
 Trois fois en l'histoire du Cercle, un candidat a, après avoir lu les carnets, **refusé à la fois d'abandonner et d'hériter**. Ces trois cas ont créé une pression sur le Grand Chaman de l'époque que les archives décrivent simplement comme *« une difficulté »*. Aucun document n'explique comment la difficulté s'est résolue. Une lecture parmi d'autres : ces trois candidats sont devenus, à leur manière, des Marcheurs hétérodoxes — leurs noms réapparaissent dans les marges de carnets de Marcheurs des décennies suivantes, jamais dans les annuaires officiels. Une autre lecture, plus sombre, circule à mots couverts entre apprentis.
 
 Thyros ne tranche pas, dans ses propres carnets, entre les deux lectures. Il écrit seulement : *« je ne sais pas ce qui leur est arrivé. j'aurais voulu savoir. »*
+
+---
+
+## Myralor — « L'Affaire Veldris » (an 230)
+
+Le chaman **Veldris** fut banni du Cercle des Guérisseurs en l'an 230, vingt et un ans avant le passage de Sorin. Le motif officiel : *« expérimentation non éthique »*. Il administrait des doses de champignons de Zelthar que le Cercle jugeait mortelles, et obtenait huit guérisons sur dix sur des patients que Ryldor avait abandonnés — mais aussi deux morts sur dix.
+
+Le Cercle ne le bannit pas pour incompétence : il guérissait des cas désespérés. Il le bannit pour avoir soigné selon ses propres règles. Veldris s'installa à Myralor, dans les Terres Brisées, et continua. Le Cercle ne le poursuivit pas.
+
+L'affaire est, à l'échelle ryldorienne, l'illustration la plus nette du piège d'une **loi figée bienveillante** : un Cercle qui bannit *poliment* les méthodes hétérodoxes tout en continuant à les utiliser quand elles l'arrangent. Aucun chaman ne le formule. Quatre ans plus tard, le Cercle commençait à envoyer des Marcheurs à Myralor.
 
 ---
 

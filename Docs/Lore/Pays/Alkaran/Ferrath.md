@@ -22,42 +22,6 @@ needs_review_for: []
 
 ---
 
-## Histoire
-
-### Les origines — Sous la roche avant le royaume
-
-Ferrath n'a pas été fondée. Ferrath a été *creusée*. Les premières communautés sédentaires d'Alkaran central s'y sont installées il y a un millénaire et demi pour exploiter les filons que les vallées du nord ne donnaient plus. Mineurs, charbonniers, fondeurs, polisseurs : un peuple de *gens qui descendent*, organisés autour de leurs galeries plutôt que de leurs villages. Les villages eux-mêmes étaient bâtis *au-dessus* des mines — non par utilité, mais parce que le travail dictait l'habitat.
-
-Pendant les premiers siècles, Ferrath n'existait pas comme entité distincte. Ses vallées étaient nominalement vassales d'Altram, qui réclamait une part du métal extrait. Les Maîtres de Trelios envoyaient des collecteurs ; les chefs de mine ferrathins payaient ce qu'on leur demandait, sans plus, et continuaient leur travail sans plus s'en soucier. La vassalité était notionnelle.
-
-### La Sécession des Mineurs (env. an 60)
-
-L'événement fondateur de la nation est la **Sécession des Mineurs** — une rupture sourde, sans bataille, sans déclaration, sans manifeste.
-
-En l'an 58, le roi d'Altram (Korvath II, oncle du futur tyran Korvath III) doubla les quotas de tribut sur Ferrath pour financer une campagne militaire contre des pillards skaldori. Les chefs de mine de Ferrath se réunirent au fond d'une galerie de la mine de Vythos, sans témoins, et prirent une décision : ils ne refuseraient pas le tribut — ils l'**ignoreraient**. Quand les collecteurs altrami arriveraient, les mines seraient *fermées pour entretien*. Les fonderies seraient *en repos rituel*. Les charbonniers seraient *partis chercher du bois lointain*.
-
-Pendant trois ans, Ferrath fut administrativement absente. Les collecteurs revenaient à Trelios les mains vides, à chaque fois pour des raisons techniques irréprochables. Le roi Korvath II, qui n'avait pas l'intelligence stratégique de son père, finit par envoyer une garnison.
-
-La garnison entra dans la première vallée et trouva une cinquantaine de villages déserts. Les mineurs étaient partis dans les profondeurs — *vraiment* partis, dans des galeries que personne d'extérieur ne savait localiser. La garnison campa trois semaines sans trouver un homme adulte à interroger. Quand elle se replia, le quartier-maître altrami écrivit un rapport qui devint célèbre dans les archives de Trelios : *« Nous n'avons pas été combattus. Nous avons été ignorés. »*
-
-Le tribut ne fut jamais rétabli. Aucun traité ne fut signé. Aucune frontière ne fut tracée. Ferrath devint indépendante par le geste minéral de *ne pas être trouvable*. C'est une indépendance qui n'a pas été reconnue parce qu'elle n'a jamais été demandée.
-
-### La République des Profondeurs (an 60 — encore en vigueur)
-
-Après la Sécession, les chefs de mine se réunirent à nouveau et décidèrent d'un fonctionnement collectif minimal. Pas de roi, pas de monarchie, pas même de capitale fixe. Une **assemblée tournante** se réunit deux fois par an dans une mine différente — la mine d'accueil offrant la salle, la nourriture, et un médiateur pour la session.
-
-Cette structure légère fonctionne depuis cinq siècles. Elle a produit peu de grandes décisions et beaucoup de petites — ce qui est, selon les Ferrathins, exactement ce qu'on attend d'un gouvernement.
-
-### La mort de Veshva (+249) et ses suites
-
-Le seul événement récent qui a réellement remué Ferrath est la mort de **Veshva des Cavernes** (Vael'Kari de la lignée Source-Bleue, morte en +249 à soixante-deux ans, au pied d'une pierre des hautes terres que personne d'autre n'avait visitée depuis un demi-siècle). Veshva est canonique au Tier A.5a (cf. *[[Vael'Kurash]]*).
-
-Sa pratique — la *« veillée du mourant »*, c'est-à-dire la veille longue d'esprits qui ne répondent plus, sans demander qu'ils répondent, sans prétendre qu'ils répondront — est ambiguë doctrinalement. Le Concile des Vael'Kari de Ferrath n'a pris aucune position publique. Sept ou huit apprenties (toutes des femmes) pratiquent comme elle a pratiqué, sans titre, sans coordination, dans des vallées différentes. Elles ne se réclament pas explicitement de Veshva.
-
-Les chefs de mine, eux, ont un rapport plus direct au phénomène : depuis trois générations, *certaines galeries ne donnent plus rien*. Les Vael'Kari attribuent cela au *retrait des esprits-de-roche*. Les chefs de mine n'argumentent pas avec eux ; ils ferment les galeries, ouvrent ailleurs, et continuent. C'est dans ce silence partagé entre les Vael'Kari (qui ne disent pas *extinction*) et les chefs de mine (qui ne disent pas *épuisement*) que Ferrath fonctionne aujourd'hui.
-
----
-
 ## Gouvernement — La République des Profondeurs
 
 Le pouvoir à Ferrath est distribué entre trois instances qui se chevauchent sans hiérarchie claire :

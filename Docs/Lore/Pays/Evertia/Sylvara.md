@@ -21,44 +21,6 @@ needs_review_for: []
 
 ---
 
-## Histoire
-
-### Avant le Pacte
-
-Il a existé, à Sylvara, une période *avant l'Arbre-Mère* — ou plus exactement, avant que l'Arbre-Mère ne soit reconnu comme tel. Les chroniques sont fragmentaires, parce que Sylvara n'a jamais eu d'archives au sens des Académies thalmariennes ou des Cercles evertiens. Ce qu'on sait tient en quelques phrases gravées sur de l'écorce, transmises de Main Verte en Main Verte, et qui ne s'écrivent pas par convention.
-
-Avant le Pacte, la région était habitée par des familles dispersées qui pratiquaient l'extraction de sève, le ramassage d'écorces médicinales et la chasse limitée. Pas de villes. Pas de prêtres. Pas de gouvernement. Une vie de forêt avec ses conflits ordinaires : disputes de terrains, vols de récolte, vendettas longues. Plusieurs des hameaux de la périphérie actuelle (Belindre, Vorenhal, Caraline) datent de cette période et conservent dans leur nom des racines pré-Pacte que les linguistes thalmariens trouvent fascinantes.
-
-Le passage du *avant* au *après* n'est pas daté avec précision. Les Mains Vertes le situent *à sept générations*, mais cette mesure se renouvelle — sept générations en l'an 200 et sept générations en l'an 252 désignent le même événement, glissant doucement vers le passé. Les Cantori thalmariens, qui ont essayé de dater l'événement par recoupement avec leurs propres chroniques, le placent autour de l'an −80 du Sillage, ce qui ferait du Pacte une institution d'environ trois cent trente ans, beaucoup plus jeune que les Sylvarains ne le présentent. Les Sylvarains ne contestent pas la datation thalmarienne. Ils ne la confirment pas non plus. *Sept générations* est une formule qui dit ce qu'elle a à dire.
-
-### Le Pacte de l'Arbre-Mère
-
-L'événement fondateur de Sylvara, dans la lecture qui circule, est la veille d'**Eilenne aux Mains Brunes** au pied de l'Arbre-Mère.
-
-Eilenne était une saigneuse de résine, comme l'étaient ses parents et leurs parents. Elle vivait dans un hameau dont le nom n'est plus transmis. La tradition dit qu'à la suite d'un conflit avec une autre famille de saigneurs concernant l'accès aux meilleurs arbres, Eilenne refusa de continuer à saigner. Elle marcha trois jours dans la forêt sans direction précise. Elle arriva au pied du plus grand arbre qu'elle eût jamais vu — l'Arbre-Mère, qu'aucune des familles de saigneurs n'osait approcher parce que sa taille seule semblait dire *non*.
-
-Elle se tint debout au pied de l'arbre pendant trois jours et trois nuits. Elle ne mangea pas. Elle ne dormit pas. Elle ne posa pas la main sur l'écorce. À la fin du troisième jour, l'arbre — selon ce qu'Eilenne en transmit ensuite — lui *répondit*.
-
-La réponse, telle qu'Eilenne la rapporta, fut un accord :
-
-- Les humains *chanteraient* pour la forêt — non pas chez eux, mais en se déplaçant à intervalles réguliers vers les zones où la forêt avait besoin de chant. La nature exacte du *besoin* ne fut jamais formalisée.
-- La forêt *entretiendrait la paix* sur ses marges — protection contre les bêtes hostiles, contre les épidémies, contre les famines majeures. Cette protection ne fut jamais formalisée non plus.
-- Aucune écriture du Pacte. Aucune clause. Aucune pénalité. Aucune procédure d'arbitrage. Aucun calendrier précis. Eilenne insista sur ce point quand on lui demanda d'écrire l'accord : *« Si on l'écrit, on commencera à le compter. Et on ne compte pas avec la forêt. »*
-
-Eilenne ne fonda pas de cité. Elle retourna à son hameau, transmit le Pacte à ses voisines, et reprit son métier de saigneuse — *avec une réserve qu'elle n'expliqua jamais*, disent les chroniques. Elle saignait moins d'arbres qu'avant. Elle attendait plus longtemps entre les saignées. Elle ne saigna jamais l'Arbre-Mère.
-
-Ses voisines firent pareil. Leurs filles aussi. Le Pacte se transmit ainsi, par geste imité plutôt que par doctrine, sur sept générations. Les hameaux s'organisèrent autour de cette pratique sans constituer un État. Quand les Cantori de Thalmaris commencèrent à venir chanter à l'Arbre-Mère, environ deux générations après Eilenne, ils trouvèrent une population qui les accueillit sans cérémonie, comme on accueille des cousins qui viennent aider à un travail ordinaire.
-
-### Sylvara aujourd'hui
-
-Sylvara est, en 252, la nation la moins peuplée du continent — environ vingt-deux mille habitants répartis sur un territoire qui est presque entièrement forêt. Pas de capitale. Pas d'armée. Pas de structure fiscale. Pas de monnaie propre — on troque, on échange, on accepte les pièces thalmariennes pour les biens qu'on doit acheter à l'étranger.
-
-L'autorité, dans la mesure où il y en a une, est portée par les **Mains Vertes** — femmes (très rarement hommes) qui ont passé une initiation longue auprès de l'Arbre-Mère et qui sont reconnues, par cooptation tacite, comme aptes à *parler pour la forêt* lorsqu'une décision doit être prise. Il y a, en 252, trente-sept Mains Vertes en activité. Elles ne se réunissent jamais en assemblée formelle. Elles communiquent par messagères et par gestes, et leurs décisions sont des recommandations que les hameaux suivent ou ne suivent pas selon leur propre jugement. Le système fonctionne parce qu'il repose sur une homogénéité culturelle profonde — les Sylvarains pensent à peu près tous la même chose, et donc les Mains Vertes n'ont jamais à imposer.
-
-Cette homogénéité est mise à l'épreuve depuis un an et demi par le **changement de la sève**. La sève de l'Arbre-Mère a un goût amer qu'elle n'avait pas avant. Les guérisseurs thalmariens qui l'utilisent disent qu'elle conserve ses propriétés mais demande des doses plus élevées. Les saigneurs des hameaux périphériques saignent plus d'arbres pour compenser le rendement, ce qui est une violation tacite du Pacte sans que personne n'ose l'énoncer. Les Mains Vertes — particulièrement **Eilwen aux Mains Vertes**, la plus âgée des trente-sept — ont commencé à se rendre régulièrement à l'Arbre-Mère pour *écouter*, sans rapporter publiquement ce qu'elles entendent.
-
----
-
 ## Gouvernement — Le Gardiennat diffus
 
 Sylvara n'a pas de gouvernement au sens habituel. Ce qui existe est un dispositif de **Gardiennat diffus** que les chroniqueurs thalmariens trouvent fascinant et que les diplomates evertiens trouvent insaisissable.

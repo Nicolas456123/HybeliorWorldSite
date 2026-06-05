@@ -22,28 +22,6 @@ needs_review_for: []
 
 ---
 
-## Histoire
-
-### Les Forges de la Colère
-
-Mosrack est né dans le feu — littéralement. Le territoire qui deviendrait ce pays était une région volcanique riche en minerais, habitée par des clans de forgerons-guerriers. Ces clans ne connaissaient qu'un mode d'existence : la production d'armes et leur utilisation. La paix n'existait pas — il n'y avait que des intervalles entre les guerres.
-
-Le premier à unifier les clans fut **Volkar le Marteau**, un forgeron d'une taille et d'une force surhumaines. Sa méthode était simple : il marchait jusqu'au camp d'un clan rival, défiait son chef en combat singulier, le tuait, et absorbait ses forgerons. En dix ans, Volkar avait unifié vingt-trois clans sous une seule bannière — le marteau croisé sur une enclume, l'emblème de Mosrack.
-
-### La Guerre des Cent-Jours
-
-L'événement fondateur de Mosrack est la **Guerre des Cent-Jours** — un conflit dévastateur contre une coalition de nations voisines qui tentèrent de détruire la puissance naissante de Mosrack avant qu'elle ne devienne incontrôlable.
-
-La coalition sous-estima Mosrack. Volkar avait non seulement forgé une armée mais inventé des **machines de guerre** — des engins de siège, des catapultes à répétition, des chariots blindés tirés par des bœufs de guerre. En cent jours, Mosrack brisa la coalition, captura trois villes ennemies et s'empara de territoires qui doublèrent sa superficie.
-
-La victoire fut complète mais le coût terrible. Volkar mourut le dernier jour de la guerre, une flèche dans la gorge. Ses derniers mots furent : *« Construisez. »*
-
-### L'Ère du Directoire
-
-Aujourd'hui, Mosrack est gouverné par le **Directoire Militaire** — un conseil de cinq généraux qui se partagent le pouvoir. Le Grand Stratège actuel, **Volkar IX** (qui porte le nom du fondateur comme titre honorifique), est un tacticien froid et calculateur. Sous sa direction, Mosrack a cessé les guerres ouvertes pour se concentrer sur l'expansion industrielle et l'intimidation diplomatique. Mais les forges ne se sont jamais éteintes, et les arsenaux débordent.
-
----
-
 ## Gouvernement — L'Oligarchie Militaire
 
 Le système politique de Mosrack est brutal et efficace :

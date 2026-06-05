@@ -21,32 +21,6 @@ needs_review_for: []
 
 ---
 
-## Histoire
-
-### Les origines — Les Premiers Feux
-
-Pyrtara a toujours été une terre hostile. Bâti sur un archipel de volcans actifs reliés par des ponts de lave solidifiée, le territoire était considéré comme inhabitable par les autres peuples d'Ilthara. Pourtant, des communautés de proscrits, d'exilés et d'aventuriers s'y installèrent, attirés par les richesses minérales extraordinaires que recrachaient les volcans.
-
-Ces premiers colons étaient des survivants avant tout. Sans loi, sans roi, sans dieu — uniquement guidés par la nécessité. Les plus forts commandaient, les plus faibles servaient ou mouraient. Cette brutalité originelle façonna l'identité de Pyrtara : un pays où la force n'est pas une vertu mais une condition de survie.
-
-Le premier semblant d'organisation émergea lorsqu'un ancien soldat mercenaire nommé Korvash le Brûlé rassembla les clans dispersés sous une bannière unique — un poing serrant une flamme. Il imposa une discipline militaire stricte : chaque homme et chaque femme devait savoir se battre, construire un abri et survivre seul pendant une semaine dans les terres de cendres.
-
-### La Grande Éruption
-
-L'événement qui définit Pyrtara survint trois générations après Korvash. Le Mont Pyralis, le plus grand volcan du territoire, entra en éruption avec une violence telle que le ciel d'Ilthara tout entier s'assombrit pendant des semaines. Des rivières de lave engloutirent la moitié des établissements. Des milliers périrent.
-
-Mais ce qui aurait dû anéantir Pyrtara le rendit plus fort. Le général Thaldris, commandant de la garnison survivante, organisa une évacuation et une reconstruction d'une efficacité militaire impitoyable. Les civils furent organisés en unités, les ressources rationnées, les ordres exécutés sans discussion. Ceux qui paniquaient étaient mis au pas. Ceux qui refusaient d'obéir étaient abandonnés.
-
-En six mois, Pyrtara était reconstruit — non pas comme avant, mais mieux. Thaldris avait prouvé que seule la discipline militaire pouvait permettre à un peuple de survivre sur ces terres de feu. Il se proclama Premier Commandant et instaura la dictature militaire qui perdure à ce jour.
-
-### L'Ère de Fer et de Feu
-
-Depuis la Grande Éruption, Pyrtara s'est développé selon un modèle militaire absolu. Chaque citoyen est un soldat potentiel, chaque ville est une forteresse, chaque route est une ligne de repli stratégique. Le pays n'a jamais été conquis — non parce qu'il est invincible, mais parce que personne ne veut d'une terre qui essaie activement de tuer ses habitants.
-
-Les volcans continuent d'entrer en éruption régulièrement, et chaque éruption est gérée comme une opération militaire. Les Pyrtariens considèrent cela non pas comme une malédiction mais comme un entraînement permanent.
-
----
-
 ## Gouvernement — La Dictature Militaire
 
 Pyrtara est gouverné d'une main de fer, au sens propre :

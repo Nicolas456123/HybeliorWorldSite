@@ -12,6 +12,8 @@ Continent: Celethor
 
 Personne ne croit les morts. C'est la première erreur.
 
+L'Invasion Avortée est le seul événement historique massif documenté concernant Nysaria. Selon les chroniques tyndariennes et mosrackiennes croisées, une flotte conjointe de quarante navires de guerre tenta, il y a trois siècles, d'aborder l'île, motivée par des rumeurs de trésors. La flotte atteignit les côtes par une nuit sans lune. En une nuit, quarante navires et huit mille hommes furent perdus. Le seul survivant rapporté fut le capitaine Aldren, retrouvé dérivant sur une planche à trois jours de navigation. Selon son récit, la mer parut bouillir, une brume sombre engloutit la flotte, des formes rampèrent sur les coques, les canons tiraient sans atteindre et les lames tranchaient la brume sans la rencontrer. Depuis, aucune nation continentale n'a tenté de nouvelle expédition d'invasion.
+
 Le capitaine Aldren mourut trois jours après son sauvetage, le visage tordu dans une grimace que le croque-mort n'arriva jamais à effacer. On l'enterra à Tyndara dans une fosse commune réservée aux fous, car c'est ce qu'il était devenu aux yeux de tous — un fou qui racontait que la mer avait bouilli et que des ombres avaient dévoré huit mille hommes.
 
 Mais Aldren avait eu trois jours. Et pendant ces trois jours, entre les crises de terreur qui le faisaient hurler au point de s'arracher la voix, il avait écrit.
@@ -63,6 +65,14 @@ Cette histoire ne figure dans aucune chronique officielle. On la lit dans une ma
 L'auteur de la note quitta Nysaria sans clarifier le passage. Le cahier circule à Prismalith depuis. Aucune autre source ne mentionne une telle figure. Si elle existe, elle n'est pas reconnue. Si elle n'existe pas, elle a été *vue* — ce qui dans la grammaire mirathienne et nysarienne ne change pas grand-chose.
 
 Les copistes thalmariens qui ont collationné le cahier ont noté en marge, eux-mêmes : *À ne pas étoffer.* La note est tenue pour sage.
+
+---
+
+## Nysoris — « Les arrivées sans flotte »
+
+Là où l'Invasion Avortée a englouti une flotte entière, une donnée plus discrète court dans les marges des journaux portuaires de Nectoria, de Sondaris et de Tyndara : tous les vingt à quarante ans environ, un voyageur isolé atteint Nysaria et en revient. Aucun n'a publié de récit ni sollicité de reconnaissance. Plusieurs sont morts dans l'année qui a suivi, de causes ordinaires — pneumonie, accident, fièvre. Quelques-uns ont vécu longtemps.
+
+Ce que les marges donnent à lire, sans en tirer de théorie : ces voyageurs ne sont pas *entrés* à Nysaria au sens habituel du terme. Ils ont été *laissés entrer*. La distinction, selon une formulation que les capitaineries reprennent sans en revendiquer la paternité, n'est pas la même chose. Trois des cas les plus récents sont tenus pour avérés : le cartographe galenorien Aldric Valthen (an 222 env.), un cartographe ulinorien anonyme (an 244) et le cartographe galenorien Sorin Valthen (an 252). Trois cartographes en trente ans — une régularité que les capitaineries classent, faute de mieux, dans les coïncidences que la nature du métier favorise.
 
 ---
 

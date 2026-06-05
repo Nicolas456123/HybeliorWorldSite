@@ -21,44 +21,6 @@ needs_review_for: []
 
 ---
 
-## Histoire
-
-### Les origines — Les Forgerons de la Crête
-
-Kethvar n'a pas été fondée par des nomades. Elle a été fondée par des **forgerons** — descendants d'une migration ancienne venue des plateaux d'Alkaran (cf. fiche Lex Petra : Alkaran est le berceau de la Loi de Pierre). Ces migrants apportaient deux choses : la maîtrise de la forge, et la **Loi**. Pendant deux mille ans, ils s'établirent sur les versants orientaux d'Azoria — vallées encaissées, cols abrités, sources thermales rares mais utilisables —, et y reproduisirent ce qu'ils savaient faire : extraire, fondre, forger, jurer.
-
-Les premiers Codes kethvariens sont gravés sur des plaques de schiste local, datées par les paléographes pétranes du début du Sillage actuel mais probablement antérieurs (les Codes les plus anciens consignés à la Conclave de Kethdar font référence à des pratiques dont les chroniqueurs reconnaissent qu'elles précédaient la rédaction). Pendant tout l'Âge du Lien, Kethvar fut une des trois nations satellites de la Réforme de la Loi de Pierre — avec Altram et Iskara, sur le continent voisin (Galenor et Onara), elle tient le quatrième siège *régional* dans l'imaginaire pétrane des Sept Cités, bien que la Conclave officielle ne le compte pas (pour des raisons doctrinales que personne ne tient à clarifier).
-
-### La Réforme Givrée (~+30 du Sillage)
-
-À la suite de l'Arrachement, Kethvar fut l'une des nations les plus durement touchées par les ruptures climatiques : les routes commerciales avec Alkaran continental se fermèrent (les portails Navigor disparus), les forges perdirent leur approvisionnement en métaux exotiques, plusieurs guildes anciennes périclitèrent. La nation se trouva sur le point de se replier en clans isolés — exactement ce que la Lex Petra refuse en doctrine.
-
-Une **Conclave d'urgence** fut tenue à Kethdar en l'an 28 du Sillage. La proposition centrale, portée par la juriste-prêtre **Mara Threv-Kethdar** (à ne pas confondre avec Mara Telventh, la réformatrice Roteri de Galenor — coïncidence de prénoms qui a alimenté plusieurs siècles d'études comparatives sans trancher), fut : **réduire les Codes à sept anneaux** — sept *corpus* essentiels chacun gardé par une guilde spécialisée, plutôt que de tenter de maintenir la totalité du Code ancien dans toutes les cités.
-
-Cette Réforme Givrée — *« givrée »* parce qu'elle fixait la doctrine pour pouvoir la transmettre dans le contexte de pénurie post-Arrachement — sauva la Lex Petra kethvarienne. Elle l'a aussi *figée* : depuis l'an 30 du Sillage, aucun nouveau Code n'a été admis dans le corpus des Sept Anneaux. La doctrine officielle considère que cette stabilité est une *preuve de la Loi*. Quelques juristes-prêtres dissidents, marginalisés, soutiennent que c'est une preuve de l'incapacité du Conclave à adapter le Code au monde post-Arrachement.
-
-### La Codification des Sept Anneaux (an 30 du Sillage — toujours en vigueur)
-
-Les Sept Anneaux sont les Codes-corpus de la Lex Petra kethvarienne. Chacun est conservé par une **guilde** :
-
-1. **Anneau de Fonte** (Guilde des Fondeurs) — Code des minerais et de la fusion.
-2. **Anneau de Lame** (Guilde des Forgerons) — Code des outils tranchants et des armes rituelles.
-3. **Anneau de Sceau** (Guilde des Graveurs) — Code des signatures, marques, contrats.
-4. **Anneau de Mesure** (Guilde des Calculateurs) — Code des poids, dimensions, balances commerciales.
-5. **Anneau de Voie** (Guilde des Conducteurs de Malgers) — Code des routes, caravanes, transports.
-6. **Anneau de Pierre** (Guilde des Maîtres-Pétranes) — Code juridique général, héritages, mariages.
-7. **Anneau de Voile** (Guilde des Marins-Forgeurs) — Code des navires de commerce, ancrage et déchargement.
-
-Chaque guilde **possède** son anneau. La guilde principale détient un anneau-pierre (objet physique, taillé dans le schiste sacré de Kethdar) qui circule entre ses chapitres. Les guildes mineures détiennent des copies — la doctrine veut que les copies *soient* l'anneau, pas qu'elles le *représentent*. Le Conclave des Sept Anneaux se réunit à chaque équinoxe, sept guildes, sept anneaux posés ensemble sur la **Table de Kethdar**. Pendant la durée de la Conclave, aucune décision ne peut être prise hors la Table.
-
-### Kethvar aujourd'hui
-
-Kethvar est une nation prospère par discipline. Ses forges produisent les meilleures lames cérémonielles d'Azoria (les *kethari*), les instruments astronomiques de Caeloria (commandes officielles du Conclave), les outils de précision exportés à Mosrack et Iskara, et la stellarite raffinée qui alimente le commerce de luxe extra-continental. La hiérarchie d'apprentissage y est sévère : un apprenti commence à six ans, fait serment à douze, prête anneau à dix-huit, devient compagnon à vingt-cinq, maître à quarante au plus tôt.
-
-Le **Premier Maître-Pétrane** actuel est **Vorin Threv-Kethdar** (an 184 — ), quatorzième descendant direct (en ligne juridique, non biologique) de Mara Threv. Il est, en pratique, le chef de l'État — bien que la doctrine soutienne que la Conclave ne *gouverne* pas, mais *enregistre*. La fiction tient parce qu'elle est utile : elle permet à Kethvar de prétendre n'avoir pas de gouvernement central, ce qui simplifie ses relations avec Caeloria (théocratie qui n'aime pas dialoguer avec des États rivaux).
-
----
-
 ## Gouvernement — La Confédération des Sept Anneaux
 
 - **Le Conclave des Sept Anneaux** : sept guildes représentées par leur Maître. Réunion à chaque équinoxe à Kethdar. Décisions à l'unanimité sur les *Codes* ; à la majorité sur les *Règles* (catégorie inférieure).

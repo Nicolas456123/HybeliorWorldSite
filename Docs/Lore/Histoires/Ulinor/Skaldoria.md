@@ -7,6 +7,42 @@ needs_review_for: []
 ---
 # Histoires de Skaldoria
 
+## La Bataille du Fjord Gelé — « Ralthyn »
+
+Selon les Skalds, Skaldoria n'a pas de fondation que la mémoire orale puisse situer : les chants la décrivent comme ayant toujours été là, peuplée de clans de guerriers, de pêcheurs et de chasseurs, chacun avec ses lois, ses rites et ses querelles propres. La violence entre clans y est lue comme une part de l'ordre naturel — les faibles mouraient, les forts survivaient, les morts rejoignaient les ancêtres pour veiller.
+
+La Confédération naquit, paradoxalement, d'une invasion extérieure. Une flotte venue d'un continent lointain — les historiens débattent encore de son origine, certains disant Endora, d'autres Cestra — tenta de débarquer dans le Grand Fjord, le point névralgique de Skaldoria. Les envahisseurs comptaient sur la division des clans pour en faire des proies faciles.
+
+**Brenna Croc-de-Glace**, cheffe du clan du Loup, envoya des messagers à tous les clans avec un seul mot : *Ralthyn* — un ancien terme signifiant « le moment où les prédateurs chassent ensemble ». En trois jours, sept clans normalement en guerre se rassemblèrent sur les falaises du fjord. Les Skaldoriens, qui connaissaient chaque courant, chaque rocher et chaque passage caché, attirèrent la flotte ennemie dans un étranglement glacé où les navires s'échouèrent sur des icebergs dissimulés, puis descendirent des falaises. Aucun envahisseur ne survécut.
+
+Après la victoire, Brenna proposa un accord sans précédent : les clans resteraient indépendants, mais en cas de menace extérieure, le **Ralthyn** serait invoqué et tous combattraient ensemble. Cet accord est le fondement de la Confédération clanique. C'est à Brennvar, sur le rebord du Grand Fjord et à l'emplacement où Brenna délivra son discours de fédération, que le village du Clan du Loup fut bâti après la bataille — le berceau officiel de la Confédération.
+
+---
+
+## Le Clan du Kraken — « Le Village Vide »
+
+Il existait autrefois un huitième clan majeur : le **Clan du Kraken**. Vers l'an 4 320 ap.A, par une nuit d'hiver, il disparut. Le village fut retrouvé vide, pas un corps. Les Skalds refusent d'en parler en assemblée, et aucun Cairn n'est tenu pour les morts du Kraken — personne ne crie leur nom.
+
+Plusieurs lectures circulent à voix basse. La lecture *politique*, tenue pour la plus probable par les chroniqueurs alkarans qui en eurent vent par recoupement : une trahison vengée par les sept autres clans en une nuit de Holmgang collectif. La lecture *cosmique*, la plus durable : un enlèvement par ce que les pêcheurs du Clan du Serpent de Mer nomment les *Enfants du Kraken* — des silhouettes humaines qu'ils jurent avoir vues nageant sous les eaux glacées du fjord, trop profond et trop froid pour être humaines, et dont les chamans du Givre refusent de parler. La lecture *sceptique*, la moins commentée : une fuite organisée du clan vers Cestra ou plus loin. Les Skalds officiels n'ont pas de position.
+
+---
+
+## La Bataille des Trois Cris
+
+Vers l'an 4 580 ap.A, le **Clan du Loup** et le **Clan de la Hache** s'affrontèrent dans un combat fratricide où chaque guerrier cria les noms de ses ancêtres — y compris ceux qui étaient communs aux deux clans, car les deux lignées descendent en partie d'un fondateur partagé. Le Skald de l'Ours qui assista à la bataille rapporta, dans un chant qu'on n'a pas conservé, que *« les ancêtres ont entendu deux fois leur nom, et n'ont su quel bras tenir »*. Le combat se solda par un massacre indécis.
+
+Depuis, les deux clans ne crient plus en commun les noms partagés : chacun a élagué sa lignée pour éviter le doublon. Cette élagation rituelle est tenue pour normale ; aucun Skald moderne n'admet qu'elle soit le résultat d'un traumatisme. C'est aussi cette bataille qui poussa Aaslund, au Clan de la Hache, à bâtir son Cairn collectif où chaque nom n'est inscrit qu'une fois.
+
+---
+
+## Skaldria aujourd'hui
+
+La Confédération tient depuis des générations, mais elle reste fragile. Les clans continuent de se quereller pour les territoires de chasse, les droits de pêche et les insultes d'honneur. Le **Cercle des Jarls** se réunit rarement, et ses discussions dégénèrent souvent en duels.
+
+L'actuelle Jarl suprême est **Sigrid Brise-Tempête**, du Clan de l'Ours. Elle est respectée pour sa brutalité au combat mais critiquée pour ses tentatives de moderniser les traditions — notamment son projet d'ouvrir des routes commerciales avec Altram, que les clans les plus isolationnistes considèrent comme une trahison. Sigrid a par ailleurs secrètement invoqué un demi-Ralthyn, rassemblant trois clans non contre des envahisseurs mais contre des pirates de Solena qui interceptaient les routes commerciales. Si les autres Jarls l'apprenaient, ce serait un scandale majeur : le Ralthyn est sacré et ne doit servir que pour la défense.
+
+---
+
 ## Skaldris --- "Les Mains qui Tremblent"
 
 Trois expeditions sont parties de Skaldris vers le nord. Deux ne sont jamais revenues. La troisieme est revenue avec des marins dont les mains tremblaient et ne s'arretaient plus.
@@ -72,6 +108,8 @@ Les chamans du Givre refusent d'expliquer ce qui s'est passe a Eyrik cette nuit-
 ---
 
 ## Brennvar — « Le Cri qui se Raccourcit »
+
+C'est à Brennvar, après la victoire du Fjord Gelé, que le Cri du Cairn fut raccourci pour la première fois. Avant Brenna Croc-de-Glace, on criait jusqu'à dix-sept générations d'ancêtres avant un combat — un Cri qui pouvait durer une demi-heure. Vers l'an 4 240 ap.A, Brenna réduisit le rituel à *trois noms* : son père, son grand-père, le fondateur du clan. La réduction est officiellement attribuée à la nécessité tactique, un Cri trop long retardant l'engagement. Une lecture marginale, qu'aucun Skald n'a consigné par écrit, veut que Brenna ait *cessé d'entendre* les ancêtres au-delà de la troisième génération et qu'elle ait codifié son propre déficit en règle universelle. Génération après génération, les Cris ont encore raccourci sans être renommés ; certains jeunes guerriers du Clan du Cerf ne crient plus aujourd'hui qu'un seul nom — celui d'un grand-père qu'ils ont connu vivant.
 
 Brenna Croc-de-Glace mourut à Brennvar en l'an 4 285 ap.A, dans son sommeil, par un matin d'hiver sans bataille. Sa requête était inhabituelle : qu'elle ne soit pas brûlée comme un guerrier, ni confiée à la mer comme une marine, mais *exposée au sommet du fjord*, au-dessus de Brennvar, pratique normalement réservée aux chamanes. Sa famille respecta la requête.
 

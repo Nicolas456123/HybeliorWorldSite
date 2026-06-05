@@ -7,6 +7,18 @@ needs_review_for: []
 ---
 # Histoires de Kethvar
 
+## Les Origines et la Réforme Givrée
+
+Kethvar ne fut pas fondée par des nomades, mais par des **forgerons** — descendants d'une migration ancienne venue des plateaux d'Alkaran, berceau de la Loi de Pierre. Ces migrants apportaient deux choses : la maîtrise de la forge et la **Loi**. Pendant près de deux mille ans, ils s'établirent sur les versants orientaux d'Azoria — vallées encaissées, cols abrités, sources thermales rares —, et y reproduisirent ce qu'ils savaient faire : extraire, fondre, forger, jurer. Les premiers Codes kethvariens furent gravés sur des plaques de schiste local. Pendant tout l'Âge du Lien, Kethvar fut l'une des trois nations satellites de la Réforme de la Loi de Pierre — avec Altram et Iskara — et tient, dans l'imaginaire pétrane des Sept Cités, un quatrième siège *régional* que la Conclave officielle ne compte pas, pour des raisons doctrinales que personne ne tient à clarifier.
+
+L'**Arrachement** frappa durement Kethvar : les portails Navigor disparurent, les routes commerciales avec l'Alkaran continental se fermèrent, les forges perdirent leur approvisionnement en métaux exotiques, plusieurs guildes anciennes périclitèrent. La nation faillit se replier en clans isolés — exactement ce que la Lex Petra refuse en doctrine.
+
+Une **Conclave d'urgence** fut tenue à Kethdar en l'an 28 du Sillage. La proposition centrale fut portée par la juriste-prêtre **Mara Threv-Kethdar** — à ne pas confondre avec Mara Telventh, la réformatrice Roteri de Galenor, coïncidence de prénoms qui a alimenté des siècles d'études comparatives sans trancher. Elle proposa de **réduire les Codes à sept anneaux** : sept *corpus* essentiels, chacun gardé par une guilde spécialisée, plutôt que de maintenir la totalité du Code ancien dans toutes les cités. Cette **Réforme Givrée** — *« givrée »* parce qu'elle fixait la doctrine pour la transmettre dans la pénurie post-Arrachement — sauva la Lex Petra kethvarienne. Elle la *figea* aussi : depuis l'an 30 du Sillage, aucun nouveau Code n'a été admis dans le corpus des Sept Anneaux. La doctrine officielle y voit une *preuve de la Loi* ; quelques juristes-prêtres dissidents, marginalisés, y voient une incapacité de la Conclave à adapter le Code au monde post-Arrachement.
+
+Mara Threv-Kethdar fut la première Première Maître-Pétrane. Elle est enterrée à l'entrée du Sanctuaire Central de Kethdar, sa tombe gravée seulement de son nom et de la formule *« A pesé. »* Le **Premier Maître-Pétrane** actuel, **Vorin Threv-Kethdar** (an 184 — ), est son quatorzième descendant direct en ligne juridique (non biologique). Il est en pratique le chef de l'État, bien que la doctrine soutienne que la Conclave ne *gouverne* pas mais *enregistre* — fiction utile, qui permet à Kethvar de prétendre n'avoir pas de gouvernement central et de simplifier ses relations avec Caeloria.
+
+---
+
 ## Kethdar — « La Fissure aux Anneaux »
 
 Sous le Sanctuaire Central de Kethdar s'ouvre une fissure dans le schiste sacré. La fissure est étroite — pas plus de deux paumes à son embouchure — et profonde au-delà de ce que les paléographes savent mesurer. Elle descend, croit-on, dans des couches géologiques anciennes que la roche-mère du plateau recouvre sans qu'on en sache la limite.

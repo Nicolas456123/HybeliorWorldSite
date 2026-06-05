@@ -7,6 +7,18 @@ needs_review_for: []
 ---
 # Histoires d'Astravia
 
+## Caelum Prima — « La Chute »
+
+Astravia fut fondée par des mages qui refusèrent les limites du sol. En concentrant l'aethérite, ils arrachèrent des blocs de montagne et les élevèrent dans les airs — les premières îles célestes, reliées par des ponts de lumière, flottant au-dessus des nuages.
+
+La plus grande de ces îles, **Caelum Prima**, abritait le Conseil des Archimages et les plus importantes réserves d'aethérite. Ivres de puissance, les mages voulurent l'élever plus haut encore — au-delà de l'atmosphère, vers les étoiles.
+
+Le rituel échoua. L'aethérite se fissura, la magie s'inversa, et Caelum Prima chuta. L'impact détruisit une vallée entière et tua des milliers de personnes, mages et civils confondus. C'est la catastrophe que les Astraviens appellent simplement **la Chute** — leur traumatisme fondateur.
+
+Depuis, on reconstruit avec prudence : les îles volantes existent toujours, plus petites et plus basses qu'avant. Le cratère de Caelum Prima est devenu un sanctuaire où l'on médite sur les dangers de l'hubris. Le Magistère **Celyndra**, archimage d'une prudence presque excessive, soumet chaque expérience à un conseil d'éthique ; ses détracteurs lui reprochent de laisser Astravia stagner, mais elle se souvient de la Chute et refuse que l'histoire se répète.
+
+---
+
 ## Invernis — « La Ville qui Grandit vers le Bas »
 
 Quand les premiers mages arrivèrent dans la vallée d'Inverna, Invernis existait déjà. Des marchands, des artisans, des fermiers. Une ville ordinaire qui avait choisi cet endroit pour la même raison que toutes les villes ordinaires choisissent leurs emplacements : les montagnes protégeaient du vent.
@@ -105,6 +117,16 @@ Le Magistère ne parle jamais de Nythorin.
 
 ---
 
+## La Tour-Mère — « Lethanis qui Cessa de Dire Je Lis »
+
+**Lethanis Vor-Ostrun** occupa la chaire de Première Lectrice de la Tour-Mère d'Invernis de +172 à +189 du Sillage. L'Ordo Caelum la cite comme *« Stellaris exemplaire »*. Sa **Méthode des Recalibrations** — un dispositif technique permettant aux Tables d'absorber le déplacement post-Arrachement des constellations sans qu'on modifie les volumes canoniques — est encore aujourd'hui le socle du clergé.
+
+Ce que les chroniques officielles taisent : à partir de +185, Lethanis cessa peu à peu de prononcer ses propres lectures. Elle présidait, validait, signait. Elle ne disait plus *« je lis »* mais *« le Tribunal lit »*. Sa correspondance avec une Vigili lumasarienne, **Calmara Sept-Murs** — retrouvée trois siècles après sa mort dans une chemise de cuir non répertoriée —, montre qu'elle passa ses sept dernières années à comparer les Tables avec un corpus onirique : non pour les contredire, mais pour mesurer ce qui leur *manquait*.
+
+Elle mourut en +193 d'une fièvre lente, dans la tour-cellule des Premiers Lecteurs sortants. Son successeur, **Drevan Sept-Étoiles**, fit brûler ses carnets personnels — par respect, dit-il, *« pour la grandeur de la maison »*. Sa tombe, dans la Crypte des Astres Tournés à Galdryn, porte l'inscription officielle : *« Lethanis Vor-Ostrun, qui a lu droit. »* Elle est régulièrement fleurie. Aucun fidèle ne sait qu'elle passa sept ans à douter.
+
+---
+
 ## Galdryn — « La Crypte et le Petit Office »
 
 Vorastes était Veilleur d'Heure de Galdryn depuis dix-huit ans. Sa charge consistait à descendre dans la Crypte des Astres Tournés une fois par mois, mesurer l'orientation des sépulcres, et signer le rapport.
@@ -196,6 +218,20 @@ Soren sait. Il ne dit pas. Il signe les fiches d'inventaire de l'Aile Sixième. 
 Soren mourra dans dix ans, peut-être quinze. Avant de mourir, il déposera un mot dans le carton VII-B/184 — un mot qui dira simplement, dans son écriture appliquée : *« j'ai lu. j'ai laissé. à quiconque arrivera ici après moi : tu as le droit de lire aussi. »*
 
 Le mot ne sera trouvé que par le successeur que les bibliothécaires lui choisiront. Aucune Table ne notera la transmission. C'est, dans la doctrine, ainsi que ça doit être.
+
+---
+
+## La Bibliothèque-Mère — « Pirandel et les Trois Âges »
+
+Vers l'an 187, une bibliothécaire d'Astravia, **Pirandel Sept-Lieues**, dirigea un groupe de sept élèves qui, travaillant à partir des fonds onirologiques de Lysoria, élaborèrent ce que les manuscrits internes nomment *La Lecture Triadique de l'Âme* : trois âges qu'une âme traverse selon la maturation de sa volonté — le Désir, la Loi, le Principe. L'œuvre, conservée sous forme de soixante-trois feuillets in-quarto à la Bibliothèque-Mère d'Invernis, est l'une des contributions intellectuelles les plus citées d'Astravia.
+
+Pirandel et ses élèves voulaient un **outil de pensée** que chaque âme manie pour elle-même. Selon leurs feuillets autographes — encore consultables —, c'était l'exact inverse de ce que les Stellari en firent.
+
+Deux générations plus tard, le Tribunal des Lectures reprit la triade comme **grille de classement**. Les Tables l'absorbèrent : telle constellation correspondrait au Désir, telle autre à la Loi, telle troisième au Principe. Les thèmes nataux longs des héritiers nobles portent désormais, dès la première page, un *« âge dominant prévu »* — qui devient, dès l'enfance, un destin. L'enfant pour qui la Table annonce *« reste à l'âge du Désir »* est élevé sans qu'on attende qu'il en sorte ; celui pour qui elle annonce *« atteint le Principe »* est forgé pour le rang qu'on lui prépare.
+
+Personne ne brûla les feuillets de Pirandel. Personne n'en interdit la lecture. Ils sont consultables — mais on ne les enseigne plus que comme *historique de la doctrine*. Les Stellari modernes croient, sincèrement, que les Trois Âges *sont* ce que la Table en a fait. Les deux ou trois bibliothécaires qui, par génération, relisent les feuillets autographes referment le carton et n'en parlent à personne. Aucun n'a, à ce jour, publié de réfutation : tous savent qu'ils n'en auraient ni le grade, ni les protections, ni le temps.
+
+La cité où l'on a formulé l'outil qui aurait permis de sortir du piège l'a rangé dans le piège.
 
 ---
 

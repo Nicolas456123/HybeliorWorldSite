@@ -13,6 +13,24 @@ Sylvara n'a pas de chroniques. Ce qui suit est ce que des Sylvarains transmetten
 
 ---
 
+## Le Pacte — *« Eilenne aux Mains Brunes »*
+
+Avant le Pacte, la région qui deviendra Sylvara était habitée par des familles dispersées : extraction de sève, ramassage d'écorces médicinales, chasse limitée. Pas de villes, pas de prêtres, pas de gouvernement — une vie de forêt avec ses conflits ordinaires (disputes de terrains, vols de récolte, vendettas longues). Plusieurs hameaux actuels (Belindre, Vorenhal, Caraline) datent de cette période et conservent dans leur nom des racines pré-Pacte que les linguistes thalmariens trouvent fascinantes.
+
+Le passage du *avant* au *après* n'est pas daté avec précision. Les Mains Vertes le situent *à sept générations* — formule qui se renouvelle, glissant doucement vers le passé (sept générations en l'an 200 et en l'an 252 désignent le même événement). Les Cantori thalmariens, par recoupement avec leurs chroniques, le placent autour de l'an −80 du Sillage, ce qui ferait du Pacte une institution d'environ trois cent trente ans, beaucoup plus jeune que les Sylvarains ne le présentent. Les Sylvarains ne contestent pas la datation thalmarienne. Ils ne la confirment pas non plus.
+
+L'événement fondateur, dans la lecture qui circule, est la veille d'**Eilenne aux Mains Brunes** au pied de l'Arbre-Mère. Eilenne était une saigneuse de résine, comme ses parents avant elle. À la suite d'un conflit avec une autre famille de saigneurs concernant l'accès aux meilleurs arbres, elle refusa de continuer à saigner et marcha trois jours dans la forêt sans direction. Elle arriva au pied du plus grand arbre qu'elle eût jamais vu — l'Arbre-Mère, qu'aucune des familles de saigneurs n'osait approcher. Elle se tint debout au pied de l'arbre pendant trois jours et trois nuits, sans manger, sans dormir, sans poser la main sur l'écorce. À la fin du troisième jour, l'arbre — selon ce qu'Eilenne en transmit ensuite — lui *répondit*.
+
+La réponse, telle qu'Eilenne la rapporta, fut un accord :
+
+- Les humains *chanteraient* pour la forêt — en se déplaçant à intervalles réguliers vers les zones où elle avait besoin de chant. La nature exacte du *besoin* ne fut jamais formalisée.
+- La forêt *entretiendrait la paix* sur ses marges — protection contre les bêtes hostiles, les épidémies, les famines majeures. Cette protection ne fut jamais formalisée non plus.
+- Aucune écriture du Pacte. Aucune clause, aucune pénalité, aucune procédure d'arbitrage, aucun calendrier. Eilenne insista quand on lui demanda d'écrire l'accord : *« Si on l'écrit, on commencera à le compter. Et on ne compte pas avec la forêt. »*
+
+Eilenne ne fonda pas de cité. Elle retourna à son hameau, transmit le Pacte à ses voisines, et reprit son métier de saigneuse — mais elle saignait moins d'arbres qu'avant, attendait plus longtemps entre les saignées, et ne saigna jamais l'Arbre-Mère. Ses voisines firent pareil, leurs filles aussi. Le Pacte se transmit ainsi, par geste imité plutôt que par doctrine, sur sept générations, sans constituer un État. Quand les Cantori de Thalmaris commencèrent à venir chanter à l'Arbre-Mère, environ deux générations après Eilenne, ils trouvèrent une population qui les accueillit sans cérémonie, comme on accueille des cousins venus aider à un travail ordinaire.
+
+---
+
 ## L'Arbre-Mère — *« La Sève qui Bredouille »*
 
 Eilwen avait quatre-vingt-quatre ans quand elle se mit à comprendre que la sève bredouillait.

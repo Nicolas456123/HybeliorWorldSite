@@ -7,6 +7,12 @@ needs_review_for: []
 ---
 # Histoires des Terres Brisées de Celethor
 
+## L'inscription des trois sites
+
+Une même inscription, dans une langue inconnue, a été identifiée sur trois sites différents des ruines de l'ancienne civilisation. Elle a été reproduite, comparée et datée. Sa lecture n'est jamais tranchée, et chaque école la traduit autrement : les Stellari d'Astravia lisent *« nous avons décidé de partir »*, les chamans de Ryldor lisent *« nous avons décidé de nous taire »*, et les mineurs de Galdryn lisent seulement *« nous avons décidé »*, sans plus. Aucune lecture n'a été retenue contre les autres ; toutes trois pourraient être justes en même temps. C'est sur ce fragment que repose l'hypothèse, adoptée comme hypothèse de travail par les prospecteurs de Zarnith, d'une civilisation qui ne s'est pas éteinte mais qui a choisi de s'effacer.
+
+---
+
 ## Nomiris — « La Fontaine qui se souvient »
 
 Kaelith n'avait plus de nom quand elle arriva à Nomiris. Elle en avait abandonné trois — celui de naissance, celui de mariage, celui de fuite. La fontaine des ruines coulait encore, comme elle coulait depuis des siècles, et Kaelith s'agenouilla pour boire.

@@ -21,55 +21,6 @@ needs_review_for: []
 
 ---
 
-## Histoire
-
-### Les origines — La lignée de la Forge
-
-Pyrevane n'a jamais été *fondée*. Elle est sortie du Dominat de Pyrevaste. Quand le Dominat se fragmente vers ~14 500 av.A, les Forge-Temples de l'ouest de la grande île — qui formaient l'autorité doctrinale du Dominat — refusent de reconnaître la prééminence des forgerons-rois du sud-est (futurs Cendara-Royaume). Plutôt qu'une conquête, c'est une **désobéissance ritualisée** : les Forge-Temples cessent d'envoyer leurs forge-liturgies vers la cour du sud. Sept générations plus tard, la frontière liturgique est devenue politique. Pyrevane existe sans avoir été instituée.
-
-Cette **antériorité doctrinale** est, depuis, l'argument profond des Pyrevaniens : ils n'ont pas *créé* l'Ignis Aeternum, ils en *sont* le foyer continu. Leurs Forge-Temples descendent en ligne directe des sanctuaires du Dominat. Cendara-Royaume, à leurs yeux, est une **dérivation politique** qui a ajouté une couronne à ce qui n'en avait pas besoin. La cour de Brumaris n'aime pas qu'on lui rappelle cela. On le lui rappelle, à demi-mot, à chaque cérémonie d'investiture royale — que le Conseil des Sept Feux *valide* sans s'incliner.
-
-### L'Établissement des Sept Feux (~7 000 av.A)
-
-La forme institutionnelle actuelle de Pyrevane date d'un **événement géologique** : une éruption secondaire qui ouvre, en quelques décennies, sept calderas distinctes sur les versants ouest du Mont Cendra. Chaque caldera, en se refroidissant, expose des veines de magma accessibles à des températures stables. Sept Forge-Temples sont édifiées, chacune dans l'une des calderas — Pyrevane-Mère, **Mosrack**, **Vesthrim**, **Caldethor**, **Verre-Fondu**, **Ashenor**, **Cinderhold**. Le **Conseil des Sept Feux**, qui réunit le Maître de chaque Forge-Temple, devient l'organe doctrinal continental de l'Ignis Aeternum.
-
-Les Sept Feux ne sont pas hiérarchisés sur le papier. En pratique, **Pyrevane-Mère** (la plus ancienne caldera, la plus centrale, celle qui alimente la cité-capitale) a un *primus inter pares* permanent : son Maître convoque le Conseil, fixe l'ordre du jour, signe les sceaux communs. Les six autres Maîtres l'acceptent avec une crispation que rien ne dissipe. Plusieurs schismes ont eu lieu sur l'ordre des prises de parole. Aucun n'a abouti. Le Conseil se tient depuis sept mille ans dans la même salle, sous la même voûte de basalte, autour de la même cuve de braise renouvelée chaque équinoxe.
-
-### L'Arrachement et la Lecture de Miséricorde
-
-L'Arrachement (Ère IV) frappe Pyrevane comme la grande île entière. Le Mont Cendra entre en éruption au moment exact où l'Étudiant sectionne son Nœud à Onara. Trois Forge-Temples (Verre-Fondu, Ashenor, Cinderhold) sont gravement endommagées. Plusieurs centaines d'Ignitari périssent dans les coulées. Le Conseil des Sept Feux, qui se réunit en urgence trois jours après dans la salle de Pyrevane-Mère encore tremblante, doit produire **une lecture** — sous peine de voir la religion s'effondrer avec les Forge-Temples.
-
-Le Maître Khalor de Pyrevane-Mère propose la **Lecture de Miséricorde** : Flamara aurait *cassé son propre sommet* pour ne pas frapper les humains, démontrant à la fois sa puissance et sa miséricorde. Cette lecture est admirable de cohérence et a sauvé la religion. Elle a aussi installé, dans la doctrine, une promesse implicite — *si Flamara s'est tant retenue, c'est qu'elle reviendra avec d'autant plus de force*. Le Réveil, à partir de l'Arrachement, n'est plus une espérance abstraite ; c'est une attente *datée*. *Bientôt.*
-
-Khalor de Pyrevane-Mère est mort en l'an 47 du Sillage. Sa Lecture est, depuis, la colonne vertébrale doctrinale de l'Ignis Aeternum continental. Aucun Maître des Sept Feux n'a osé la réinterroger. Personne ne pourrait, sans dissoudre la fonction même de Maître. Le piège fondamental de Pyrevane est là, dans cette dépendance institutionnelle à une lecture posée par un homme mort il y a deux mille ans.
-
-### La Schismature des Forges (Sillage 121-137)
-
-L'événement le plus important de l'histoire récente de Pyrevane n'est pas une bataille, c'est un sermon.
-
-En l'an 121, **Tessar Veynd**, dit le Cendreux — Voix sous les Cendres, ascension fulgurante, descente dans le Mont Cendra de quatorze jours, retour avec un compagnon mort —, prononce lors de la Veillée Lunaire de l'équinoxe d'automne un sermon resté connu sous le nom de *Discours de la Cendre Patiente*. Il ne renie rien des Forge-Liturgies. Il dit seulement, à un moment, ceci :
-
-> *« Frères, j'ai écouté soixante-trois pulsations là-dessous. Je ne sais plus si elles annoncent un réveil ou si elles disent : voici comment je dors. »*
-
-L'effet, dans la salle, est immédiat. Cinq cents Ignitari présents. Aucun n'interrompt. Tessar achève son sermon par les formules d'usage. Il quitte la chapelle. Il rentre chez lui. Il se couche. Il est âgé de quarante-six ans.
-
-Le Conseil des Sept Feux se réunit le lendemain. Le débat dure trois jours. Trois positions s'affrontent : **démettre Tessar** (proposée par le Maître de Cinderhold — minoritaire, jugée trop violente, démettre une Voix discrédite la fonction) ; **condamner le sermon** (proposée par le Maître de Mosrack — majoritaire au début, abandonnée parce qu'aucun terme n'a été techniquement hérétique) ; **diluer** (proposée par le Maître de Pyrevane-Mère, Karendis IV — adoptée à l'unanimité au troisième jour). La dilution consiste à : *ne pas copier le sermon dans les recueils officiels*, *raréfier les convocations de Tessar*, *qualifier l'épisode de « moment d'éprouve » que la foi de Tessar surmontera ensuite*. La stratégie est efficace au-delà de toute attente. Tessar continue à officier seize ans, mais sans plus descendre dans le Mont. Ses sermons se font plus brefs, plus pratiques. Il meurt en l'an 137. Le Conseil prononce un éloge orthodoxe.
-
-**La Schismature** ne s'appelle pas ainsi avant un siècle. Le mot apparaît en marge d'une copie tardive d'une Forge-Liturgie de Mosrack, vers l'an 230, sous une plume anonyme. Il désigne, avec retard, ce que la dilution a manqué : la **fissure** ouverte dans la doctrine du Réveil, qui ne s'est jamais refermée mais que personne n'a réparée. Les Délies de la Flamme — apparus dans les décennies qui ont suivi la mort de Tessar, sans qu'il soit possible de prouver une filiation directe — sont les héritiers tacites de cette fissure. Ils ne se réclament pas de Tessar. Ils ne le citent pas. Mais ils savent.
-
-### Le Pyrevane moderne
-
-Pyrevane, aujourd'hui, est une nation **stable, prestigieuse et silencieusement angoissée**. Le Conseil des Sept Feux délibère, légifère, sanctifie. Les Forge-Liturgies sont scrupuleusement entretenues. Les Veillées Lunaires emplissent les Forge-Temples. L'apprentissage des Ignitari produit, chaque année, plusieurs centaines de nouveaux clercs ordonnés.
-
-Et, en sous-sol :
-
-- Les rapports de la Voix sous les Cendres se font moins fréquents. Trois Voix actives dans le monde ; deux d'entre elles sont retirées dans des ermitages. La fonction n'est presque plus exercée que sous forme rituelle.
-- Les Vigilants des cratères, sur les Sept Calderas, ne descendent plus aussi profond que leurs prédécesseurs. Officiellement : *« raisons de sécurité »*. Officieusement : *« on ne veut plus voir ce qu'on verrait »*.
-- Les Délies à Pyrevane sont *activement* persécutés — bien plus qu'à Cendara-Royaume. La marque de cendre froide au pli du coude, si elle est repérée, conduit à une *interdiction d'exercer la forge*, peine cendarienne plus lourde qu'une amende et plus douce qu'un emprisonnement, mais qui prive le forgeron de son seul moyen de subsistance.
-- Le Maître actuel de Pyrevane-Mère, **Karendis IX**, vieil homme de soixante-treize ans, est connu pour sa fermeté doctrinale. Ses proches savent qu'il dort mal, qu'il reçoit chaque matin les rapports des Vigilants sans les lire, et qu'il a, dans le tiroir gauche de son bureau, **une copie du *Discours de la Cendre Patiente*** retrouvée à Mosrack et achetée discrètement il y a trente ans. Il ne l'a jamais montrée à personne. Il ne l'a probablement pas relue depuis qu'il l'a acquise. Il sait qu'elle est là. C'est une posture qu'on retrouve, en variante, chez plusieurs Maîtres successifs — chacun cache sa copie, chacun fait semblant qu'elle n'existe pas, chacun la transmet à son successeur à mots couverts.
-
----
-
 ## Gouvernement — La Théocratie collégiale
 
 ### Le Conseil des Sept Feux

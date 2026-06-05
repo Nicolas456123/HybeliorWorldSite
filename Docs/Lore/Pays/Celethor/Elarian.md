@@ -22,50 +22,6 @@ needs_review_for: []
 
 ---
 
-## Histoire
-
-### Les Clans Divisés
-
-Avant la Grande Alliance, Elarian n'existait pas. Le nord de Celethor était un patchwork de clans rivaux, chacun contrôlant une vallée, un fjord ou un plateau glaciaire. Les guerres de clans étaient saisonnières — en été, les clans se battaient pour les pâturages ; en hiver, ils se battaient pour la survie.
-
-Les plus puissants de ces clans étaient les **Givrés** — des guerriers qui avaient appris à forger le fer dans un froid extrême, produisant un acier bleuté appelé **fer glaciaire**, plus résistant que l'acier conventionnel. Mais même les Givrés ne pouvaient survivre seuls aux hivers les plus rudes.
-
-### La Grande Alliance Glaciale
-
-L'hiver le plus meurtrier de l'histoire de Celethor — appelé la **Longue Nuit** — dura trois ans. Les températures chutèrent si bas que les rivières gelèrent jusqu'au fond, les forêts moururent de froid et les troupeaux périrent par milliers. Les clans, affaiblis par des décennies de guerre, faisaient face à l'extinction.
-
-C'est alors que le chef des Givrés, **Hrothgar l'Ancien**, proposa l'impensable : une alliance. Non pas une trêve temporaire, mais une union permanente. Les clans partageraient leurs ressources, leurs territoires et leurs savoirs. En échange, ils abandonneraient leurs querelles.
-
-La négociation fut brutale — trois chefs refusèrent et tentèrent de prendre le pouvoir par la force. Hrothgar les vainquit au combat singulier, un après l'autre, sans les tuer. Il leur offrit le choix : rejoindre l'Alliance ou mourir de froid seuls. Tous choisirent l'Alliance.
-
-### L'invention de l'Effacement
-
-Ce que les chroniques officielles racontent moins, c'est ce qui se passa **dix ans après** la Grande Alliance. Un Jarl du clan d'Aetharion — qu'aucune Tablette ne nomme aujourd'hui — trahit l'Alliance en négociant secrètement avec un clan resté hors-confédération. Hrothgar découvrit la trahison. Il aurait pu le tuer, comme on tuait les traîtres avant l'Alliance.
-
-Il fit autre chose. Il convoqua le Thing, exposa la trahison, et prononça la peine pour la première fois : **l'Effacement**. Le nom du Jarl serait retiré des registres. Sa famille le renierait. Il serait banni dans la toundra sans provisions. Mais surtout — et c'était la nouveauté — son nom ne serait plus prononcé. Sa lignée serait inscrite dans les Tablettes comme *« lignée éteinte par hiver »*, formule administrative qui niait la trahison en niant le traître.
-
-L'Effacement fut, à l'époque, présenté comme une justice plus humaine que l'exécution. Il est devenu, au fil des siècles, **la peine la plus redoutée d'Elarian** — bien plus que la mort. Aucun récit n'est conservé sur le destin du premier Effacé. Sa fille, restée dans son clan d'origine sous un nom de mariage, n'a appris ce qu'avait fait son père qu'à quatre-vingts ans, par un Forgeron-Thane qui l'avait reconnue à un trait du visage. Elle a écrit, dans la marge d'une Tablette dont la copie est aujourd'hui à Thaldris : *« Je ne savais pas. J'aurais voulu savoir. Je ne sais pas si j'aurais voulu savoir. »*
-
-L'Effacement est, aux termes de notre cadre interne, l'une des Instrumentalisations les mieux dissimulées d'Hybélior — la Confédération utilise les nommables comme matière de sa propre stabilité, en s'autorisant à les *défaire* lorsqu'ils menacent la cohésion. Aucun Elarien n'admettrait jamais cette lecture. Aucun ne l'a écrite.
-
-### L'Elarian moderne
-
-La Confédération d'Elarian est gouvernée par le **Jarl Suprême Hrothgar VII**, descendant direct du fondateur. Le pays est rude, froid et austère, mais ses habitants sont parmi les plus résilients d'Hybelior. Les forges de glace produisent le meilleur acier de Celethor, et les guerriers elariens sont redoutés pour leur endurance surhumaine.
-
-Hrothgar VII, au passage de Sorin Valthen en l'an 251, est un homme dans la cinquantaine, marqué par les hivers, lent à parler et prompt à écouter. Sa phrase **« nous ne nous plaignons pas du froid »** — adressée à Sorin lorsque ce dernier l'interrogea sur les anomalies climatiques observées — est l'une des plus citées du règne. Elle a, dans les Tablettes de Thaldris où on l'a gravée, trois lectures distinctes (austérité, refus, déni). Aucune n'est officielle.
-
-### L'Affaire Frostheim et la naissance de Valdris (an 213)
-
-Trente-huit ans avant le passage de Sorin, le Jarl **Krenneth** de Kryostra émit l'ordre de brûler le village de **Frostheim** — village qui refusait de payer la taxe de guerre finançant son ambition personnelle. Le sergent **Valdris** et vingt-six de ses soldats refusèrent. Vingt-six dirent *« non »*. Le vingt-septième hésita puis suivit.
-
-Ils marchèrent vers les Terres Brisées. Ils y bâtirent un campement (le futur **Valdris**, cf. fiche *No Man's Land*). Le Conseil des Jarls **effaça** Valdris et ses vingt-six suivants : noms retirés des registres, familles ordonnées de les renier, ration funéraire calculée comme s'ils étaient morts.
-
-Dix ans plus tard, Krenneth fut renversé par son propre fils, qui le jugeait *« déshonorant pour le clan »*. Le fils, **Krenneth-le-Jeune**, demanda au Conseil des Jarls que le nom de Valdris soit *réinscrit*. Le Conseil refusa. La règle de l'Effacement, lui fit-on observer, était sans recours possible. Krenneth-le-Jeune, qui n'était plus tout à fait le fils de son père, accepta cette réponse — non par soumission, mais parce qu'il avait compris, le jour de son refus, que la règle qui avait maintenu Elarian un siècle ne devait pas être pliée par lui.
-
-Cette acceptation est tenue, dans certains cercles de Forgerons-Thanes, pour la décision la plus mature qu'un Jarl ait prise depuis Hrothgar l'Ancien. Aux termes de notre cadre interne, elle est exactement l'inverse : c'est la décision la plus *Loi figée* qu'on puisse prendre — refuser de réviser une règle même quand on a vu qu'elle a tué la chose juste qu'elle prétendait protéger. La nuance est invisible aux Elariens. Elle est, dans les Tablettes de Thaldris, gravée sans commentaire.
-
----
-
 ## Gouvernement — La Confédération Féodale
 
 Le système politique d'Elarian est un équilibre entre tradition clanique et coopération :

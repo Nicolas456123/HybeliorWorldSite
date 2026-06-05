@@ -21,38 +21,6 @@ needs_review_for: []
 
 ---
 
-## Histoire
-
-### Les origines — Les Coureurs des Vents
-
-Avant qu'Azoral n'existe en tant que nation, ses côtes étaient parcourues par des bandes nomades — des *Coureurs des Vents* — qui survivaient sur la banquise saisonnière du sud-ouest azorien. Selon les chroniques de la Via Ventus, ces Coureurs sont les **descendants directs** des nomades du Berceau des Vents qui, après s'être croisés avec les Gens de l'Eau, formèrent les premières communautés ventari (~8 000 av.A). Azoral est, en termes religieux, *la matrice originelle* de Via Ventus — la nation qui a vu naître la doctrine du mouvement perpétuel.
-
-Pendant les premiers siècles, les Coureurs ne se fixaient nulle part. Ils suivaient les hardes de phoques cendrés, les bancs de poissons d'hiver, les chenaux que la banquise libérait selon des rythmes que personne, sauf eux, ne savait lire. Quand les premiers navires ventari vinrent du sud (du Khalifat de Solvenar, ~10 000 av.A), les Coureurs leur enseignèrent la lecture des vents catabatiques en échange d'une chose qui leur manquait : la pierre. Les premiers ports de Korval, Velkar et Brisivar furent construits dans des baies que les Coureurs avaient *pointées* à des marins solvenariens, parce qu'eux-mêmes ne savaient pas tailler la pierre.
-
-### La Course du Givre (Sillage actuel : ~+30 à +130)
-
-L'événement fondateur d'Azoral en tant que nation maritime n'est pas une fondation, c'est une **course**. À la fin du Grand Silence post-Arrachement, les flottes des trois principaux ports azoraliens — Korval, Velkar, Brisivar — se trouvèrent en compétition pour les chenaux nouvellement ouverts par la déstabilisation climatique post-Arrachement. Pendant un siècle, les capitaines naviguèrent plus loin, plus vite, plus longtemps — à la recherche de Léviathans, de hardes, de routes commerciales avec Mosrack et Ulinor au sud-ouest.
-
-La Course du Givre n'a jamais été décrétée *terminée*. Elle l'est encore. La doctrine Ventari de la Coupe — héritée des Coureurs des Vents — s'y est cristallisée comme une discipline du Tranchant : refuser de s'attacher à un port, refuser de garder un navire au-delà de son utile, refuser de revenir sans une nouvelle route. À Azoral, *« la Course continue »* est une formule de salut entre marins. Elle signifie : on ne s'arrête pas, on ne s'enracine pas, on ne s'attache pas.
-
-C'est, à l'échelle azorienne, l'incarnation la plus pure de Via Ventus. C'est aussi — l'écriture du temps long le révèle — le piège qui se construit sous la doctrine.
-
-### Le Décompte de Korval (~an 134 — toujours tenu)
-
-En l'an 134, la Capitainerie de Korval institua un **Décompte** : un registre tenu en triple exemplaire (un à Korval, un à Velkar, un à Brisivar) consignant pour chaque campagne maritime le nombre d'hommes embarqués, le nombre revenus, et le ratio. Le Décompte n'est pas affiché publiquement. Il est consultable par les seuls Capitaines de Bord, sur demande motivée.
-
-Le Décompte révèle, depuis sa tenue, deux faits que la doctrine officielle ne reprend pas. D'abord, le ratio de retour décline lentement — une perte de quatre points en cent dix-sept ans. Ensuite, les pertes ne se distribuent pas également : ce sont les jeunes équipages, ceux qui suivent les *« nouvelles routes »* prônées par les Ventari du Souffle Continu, qui perdent le plus. Les vieilles routes, encadrées par les Ventari de la Coupe, perdent moins.
-
-Aucun Capitaine de Bord n'a publié ces données. Aucun ne les a niées. La doctrine continue d'enseigner que la Course est l'office d'un Ventari ; le Décompte, derrière, sait autre chose. Cette **dissociation administrative** est le trait le plus structurellement azoralien.
-
-### Azoral aujourd'hui
-
-Azoral est, en tonnage, la première puissance navale du nord d'Hybélior. Sa flotte brise-glace (cent quatre-vingt-douze navires de premier rang en l'an 251, six cent et quelques de second rang) est inégalée. Elle entretient les chenaux entre la mer de glace et les eaux libres du sud-ouest, exploite les routes commerciales avec Mosrack et Ulinor, chasse le Léviathan dans les eaux du nord. La nation prospère — au sens où elle nourrit ses ports et fournit la moitié de l'huile et de l'ivoire vendus sur le continent voisin.
-
-L'actuel **Premier Capitaine de Bord** est **Olvar Ven-Korval** (an 197 — ), capitaine de la *Brise du Long Hiver*, qui a quarante-deux ans de mer et dirige le Conseil depuis l'an 246. Sa réputation : froide, méthodique, *« sait ce que disent les chiffres »*. Sa formule officielle est : *« La Course continue. »* Sa formule privée — recueillie par un secrétaire d'archive et jamais publiée — est : *« Il faudra finir, un jour. »*
-
----
-
 ## Gouvernement — La Thalassocratie de Capitaineries
 
 - **Le Conseil de Bord** : Sept Capitaineries siègent en Conseil — Korval (capitale), Velkar, Brisivar, Hjorvik, Sterevor, Skraal, Tamarvik. Chaque Capitainerie envoie un Capitaine de Bord élu par les capitaines de port et les capitaines de navire de premier rang. Le Conseil se réunit deux fois par an (équinoxes), traditionnellement à Korval. Les décisions se prennent à la majorité simple.

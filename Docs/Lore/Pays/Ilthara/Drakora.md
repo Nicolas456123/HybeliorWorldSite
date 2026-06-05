@@ -21,32 +21,6 @@ needs_review_for: []
 
 ---
 
-## Histoire
-
-### Les origines — Le Temps des Flammes Sauvages
-
-Drakora est le domaine des Dragons d'Aube — les créatures les plus vénérées et les plus redoutées d'Ilthara. Avant l'arrivée des humains, ces terres montagneuses et volcanoïdes étaient le territoire exclusif des dragons, dont les nids couronnaient chaque sommet et dont le souffle embrasait les vallées.
-
-Les premiers humains qui s'aventurèrent dans ces montagnes n'étaient ni des conquérants ni des explorateurs, mais des désespérés — des exilés d'autres nations fuyant guerres et famines. Ils s'attendaient à mourir sous les flammes. Au lieu de cela, ils découvrirent que les dragons ne tuaient pas systématiquement. Certains se montraient indifférents ; d'autres, curieux. Quelques-uns — les plus rares — semblaient choisir un humain parmi les nouveaux venus et l'épargnaient.
-
-Ces élus furent les premiers Liés — des humains ayant formé un lien inexplicable avec un dragon. Ce lien conférait force, longévité et une connexion psychique avec la créature. Les Liés devinrent naturellement les chefs de la communauté naissante, et Drakora fut fondé sur un principe simple : celui qui est digne d'un dragon est digne de commander.
-
-### La Grande Chasse du Dragon
-
-L'événement fondateur de Drakora est aussi sa plus grande honte et sa plus grande fierté. Il y a plusieurs siècles, alors que le nombre de dragons diminuait et que les liens devenaient plus rares, le roi Draegon III lança la Grande Chasse — une expédition massive visant à capturer de force des dragons sauvages pour multiplier les liens et renforcer l'armée.
-
-La Chasse fut un désastre. Les dragons sauvages, furieux d'être traqués, se déchaînèrent. Des vallées entières furent calcinées. Des centaines de chasseurs périrent. Pire encore, les dragons déjà liés ressentirent la détresse de leurs congénères et rompirent leurs liens, plongeant leurs cavaliers dans la folie ou la mort.
-
-C'est la reine Myrthin, épouse de Draegon III, qui mit fin à la catastrophe. Seule Liée dont le dragon ne rompit pas le lien, elle chevaucha sa monture au-dessus des flammes et négocia une trêve avec le patriarche des dragons sauvages. Les termes furent clairs : jamais plus un dragon ne serait chassé. Le lien ne peut être que choisi — par le dragon autant que par l'humain. En échange, les dragons acceptèrent de rester sur les terres de Drakora et de continuer à choisir des Liés parmi les dignes.
-
-Myrthin déposa son mari et instaura la monarchie guerrière actuelle, où le souverain doit toujours être un Lié.
-
-### L'Ère du Lien
-
-Depuis la Grande Chasse, Drakora vit dans un équilibre fragile. Les dragons sont peu nombreux — peut-être quelques dizaines — et les Liés sont plus rares encore. Mais chaque Lié est une force de la nature, et Drakora compense son faible nombre par la puissance brute de ses guerriers draconiques.
-
----
-
 ## Gouvernement — La Monarchie Guerrière
 
 Le gouvernement de Drakora est fondé sur la force et le lien draconique :

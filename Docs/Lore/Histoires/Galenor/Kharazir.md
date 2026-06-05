@@ -7,6 +7,34 @@ needs_review_for: []
 ---
 # Histoires de Kharazir
 
+## Chronologie fondatrice
+
+### Les origines — Le Creuset des Exilés
+
+Avant d'être une nation, Kharazir était un carrefour naturel au cœur de Galenor, traversé par les rivières d'or liquide venues des plaines centrales. Des réfugiés de tous horizons s'y installèrent au fil des siècles — dissidents religieux de Seraphia, nomades chassés des savanes du sud, érudits bannis de Lumasar, guerriers claniques exilés de Valoria —, formant un patchwork de communautés indépendantes. Le sol, riche et généreux, offrait assez pour tous ceux qui acceptaient de partager : c'est cette abondance qui rendit possible une coexistence pacifique entre des peuples que tout opposait.
+
+### L'Ère des Querelles
+
+Pendant deux siècles, les communautés vécurent dans une anarchie relative, chacune gouvernant son territoire selon ses lois : les marchands d'Azuris imposaient des droits de passage, les cavaliers de Nomadaro contrôlaient les routes caravanières, les pêcheurs d'Umarisar régnaient sur les affluents. Les conflits étaient fréquents mais localisés — jusqu'à la **Querelle des Plaines Dorées**, quand trois communautés revendiquèrent simultanément le contrôle d'un gisement d'herbes dorées curatives. La querelle fit plus de morts en un mois que toutes les escarmouches des cinquante années précédentes, et convainquit les anciens qu'un cadre commun était indispensable à leur survie.
+
+### La Charte de Kharazir
+
+La solution vint de **Mirael Azurin**, fille d'un marchand d'Azuris et d'une prêtresse nomade de [[Rota Mundi]], élevée entre deux cultures. Elle réunit les représentants de toutes les communautés dans le Grand Canyon de Rukhsar — terrain neutre que les rivières d'or liquide rendaient sacré pour les peuples fluviaux comme pour les nomades des plateaux — et proposa la **Charte de Kharazir** : un document fondateur garantissant la liberté religieuse, l'autonomie régionale et un système fédéral où chaque communauté élit ses représentants au Conseil des Voix. La Charte fut gravée sur sept piliers de pierre — un par région — érigés au fond du canyon, là où les eaux se rejoignent, au cœur de la capitale naissante. Mirael refusa tout titre, déclarant que « celui qui gouverne tous les peuples ne peut appartenir à aucun ». Elle est vénérée comme la **Mère de la Charte**, et son anniversaire est un jour férié national.
+
+### La Dérive Lettrée (à partir de l'an 80 — encore en cours)
+
+La Charte tenait d'abord sur sept piliers et trente-sept articles, assez simples pour qu'un enfant les récite par cœur — c'est ce qui en faisait la force. Mais les cas particuliers surgirent vite : communautés nées après la signature, articles se contredisant en pratique, voyageurs résidant plus de six mois, prières blessant les fidèles d'une autre foi. Le Conseil des Voix commenta, puis commenta ses commentaires, puis institua une **Cour de l'Équité** dont les décisions furent archivées et indexées. En l'an 100, les *Trente-Sept Articles* étaient devenus *Cent Quatre-Vingts Cas* ; en 150, *Onze Cents Précédents* ; en 200, une bibliothèque entière ; en 251, sept.
+
+Les **Bibliothèques de Kharazir**, instituées formellement en l'an 137 sous le Médiateur Suprême **Daëlin Voras** pour « consigner et préserver l'esprit de la Charte », devinrent en deux siècles le véritable centre de gravité du pays : elles emploient plus de personnes que l'armée, forment plus de carrières que toute autre institution, et produisent plus de textes que n'importe quelle instance de Galenor — Académies de Lumasar comprises, leurs premières clientes. Elles ne dirigent pas Kharazir ; elles le **classifient**. La nation la plus libre du continent en théorie est ainsi la plus minutieusement administrée en pratique. Comme le résuma le cartographe Sorin Valthen, exilé en 251 : *« On ne déplace pas une armée contre un cartographe. »*
+
+### L'Affaire Valthen (an 251 — discrète, encore vive en 252)
+
+L'exil du cartographe **Sorin Valthen** des Bibliothèques de Rukhsar, en l'an 251, ne fut pas un événement national : aucun journal n'en parla, le Conseil n'en débattit pas, et la Médiatrice **Selvina Hiliaris** signa sa révocation en marge d'un autre dossier, sans la lire. Sorin avait découvert, lors de fouilles routinières sous le **Quartier des Tunnels** de Rukhsar, des inscriptions antérieures à la Charte — antérieures, peut-être, à la fondation même de la cité. Son rapport fut classé puis disparut. Une semaine plus tard, sa carte — œuvre de sept ans — était saisie pour « réévaluation » ; la suivante, sa charge de cartographe accrédité révoquée pour « manquements administratifs » ; la suivante encore, son acte de démission enregistré comme signé en son absence. Aucun archiviste n'avait été insincère : chaque procédure avait été correctement appliquée. C'est exactement ce qui rend la chose remarquable.
+
+Sorin quitta Rukhsar le 14 du mois Vanir 251, à pied, sans escorte, avec quatre carnets et un peu d'argent fourni par sa logeuse **Mira Dasthen** — rare voix à lui dire, à mi-mot, que ce qui lui arrivait n'était pas juste. Son voyage le mena trois ans durant à travers Galenor, Onara, Alkaran, Ilthara, Endora, Cestra, Baelor, Nysaria, Evertia et Ulinor, sans aucun statut officiel : pour les registres de Kharazir, il n'était qu'un Délié en transit administratif. À son retour à Rukhsar, fin 253 ou début 254, il déposa un dossier au **Tribunal des Plumes de Lumasar** (les Bibliothèques ayant refusé d'enregistrer son retour) et une copie chez son ami **Omarin**, au Bazar de Rukhsar. Le dossier ne fut jamais examiné. Il ne disparut pas non plus : il fut *classé* — la forme la plus aboutie de réponse que Kharazir sait donner à ce qui la dérange.
+
+---
+
 ## Rukhsar — « Le Huitième Pilier »
 
 Naïm avait passé trente ans de sa vie à balayer la place des Sept Piliers. Trente ans à connaître chaque fissure, chaque inscription, chaque ombre que projetaient les colonnes sacrées au fil des heures. Personne ne connaissait mieux les Piliers que lui. Personne ne s'en souciait moins que les Voix du Conseil qui passaient devant lui chaque matin sans le voir.

@@ -7,6 +7,20 @@ needs_review_for: []
 ---
 # Histoires de Sylthara
 
+## Sylthara --- "Les Premiers Semeurs et la Confederation"
+
+Les plaines de Sylthara furent les premieres terres cultivees d'Ilthara. La ou d'autres peuples batissaient des forteresses ou creusaient des mines, les premiers colons --- des agriculteurs venus de tous horizons --- plantaient, attires par un sol noir et riche, irrigue de rivieres douces et rechauffe par un climat rare en Ilthara. Aucun roi ne fut necessaire : les anciens de chaque village se concertaient pour gerer les ressources communes, et le calendrier agricole tenait lieu de calendrier social.
+
+Cette prosperite attira la convoitise. Des armees etrangeres envahirent les plaines, requisitionnant les recoltes et reduisant les paysans au servage. Pendant trois generations, des seigneurs de guerre traiterent le grenier d'Ilthara comme leur garde-manger personnel.
+
+La resistance vint de la terre elle-meme. Incapables de combattre les armees, les paysans cesserent de cultiver. Sans violence ni declaration, les champs resterent en friche. Les occupants, habitues a vivre des recoltes syltharies, furent frappes par la famine qu'ils avaient imposee. Un a un, les seigneurs de guerre partirent, incapables de nourrir leurs armees sur une terre volontairement sterile.
+
+Apres le depart du dernier occupant, la matriarche Amaryl, doyenne des Semeurs, convoqua toutes les communautes pour la premiere plantation collective. Chaque village envoya ses meilleurs semeurs ; pendant un jour et une nuit, les plaines furent ensemencees dans un effort coordonne sans precedent. La recolte qui suivit fut la plus abondante de l'histoire de Sylthara --- si abondante que les greniers deborderent et que le surplus fut offert gratuitement aux nations voisines. Cette Grande Moisson devint le symbole de Sylthara : la terre recompense ceux qui la respectent et punit ceux qui l'exploitent.
+
+Amaryl refusa tout titre de reine et instaura la Confederation Agricole --- un gouvernement de fermiers, par des fermiers, pour des fermiers. Ce systeme perdure, et Sylthara reste la nation la plus pacifique d'Ilthara.
+
+---
+
 ## Amarendis --- "La Grande Moisson et la Graine Gardee"
 
 La Grande Famine de Sylthara, il y a trois generations, fut surmontee grace a un choix que l'histoire a peu retenu.

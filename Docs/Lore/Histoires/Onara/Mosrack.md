@@ -7,6 +7,18 @@ needs_review_for: []
 ---
 # Histoires de Mosrack
 
+## La Fondation --- Volkar le Marteau et la Guerre des Cent-Jours
+
+Le territoire de Mosrack etait une region volcanique riche en minerais, habitee par des clans de forgerons-guerriers pour qui la paix n'etait qu'un intervalle entre deux guerres. Le premier a les unifier fut **Volkar le Marteau**, forgeron d'une taille et d'une force surhumaines. Sa methode etait simple : il marchait jusqu'au camp d'un clan rival, defiait son chef en combat singulier, le tuait et absorbait ses forgerons. En dix ans, il avait reuni **vingt-trois clans** sous une seule banniere --- le marteau croise sur une enclume, l'embleme de Mosrack.
+
+L'evenement fondateur du pays est la **Guerre des Cent-Jours**, conflit contre une coalition de nations voisines qui voulaient detruire Mosrack avant qu'il ne devienne incontrolable. La coalition le sous-estima : Volkar avait non seulement forge une armee mais invente des **machines de guerre** --- engins de siege, catapultes a repetition, chariots blindes tires par des boeufs de guerre. En cent jours, Mosrack brisa la coalition, captura trois villes ennemies et s'empara de territoires qui doublerent sa superficie.
+
+La victoire fut complete mais le cout terrible. Volkar mourut le dernier jour de la guerre, une fleche dans la gorge. Ses derniers mots furent : *« Construisez. »*
+
+Mosrack est aujourd'hui gouverne par le **Directoire Militaire**, un conseil de cinq generaux. Le Grand Stratege actuel, **Volkar IX**, porte le nom du fondateur comme titre honorifique : tacticien froid, il a delaisse les guerres ouvertes pour l'expansion industrielle et l'intimidation diplomatique, sans jamais laisser s'eteindre les forges.
+
+---
+
 ## Folgrad --- "Le Poids de la Colline"
 
 On raconte que Volkar le Marteau construisit la colline artificielle de Folgrad de ses propres mains, a partir des scories des forges des clans vaincus. Ce n'est pas tout a fait vrai.

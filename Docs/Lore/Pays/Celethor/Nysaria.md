@@ -23,38 +23,6 @@ Continent: Celethor
 
 ---
 
-## Histoire
-
-### Le Mystère Originel
-
-La date de fondation de Nysaria n'est consignée dans aucune des chroniques disponibles aux érudits du continent. L'identité de ses habitants, l'aspect de son intérieur, la nature exacte de son organisation — tout cela appartient, selon les chroniqueurs, au registre de ce qui n'a pas été observé. Ce que les sources extérieures rapportent tient en quelques constats de navigation et en une accumulation de récits.
-
-L'île figure sur les cartes anciennes, toujours au même emplacement et avec une silhouette comparable d'un fonds cartographique à l'autre. Les navigateurs qui s'en approchent rapportent ce qu'ils décrivent comme des brumes soudaines, des compas qui ne tiennent plus, des sons qu'ils ne savent pas attribuer, des visions qu'ils peinent à raconter. La plupart, selon les capitaineries, font demi-tour. Ceux qui insistent ne reviennent pas — à de rares exceptions documentées.
-
-### L'Invasion Avortée
-
-Le seul événement historique massif documenté concernant Nysaria est l'**Invasion Avortée**. Selon les chroniques tyndariennes et mosrackiennes croisées, une flotte conjointe de quarante navires de guerre tenta, il y a trois siècles, d'aborder l'île, motivée par des rumeurs de trésors.
-
-La flotte atteignit les côtes par une nuit sans lune. Ce qui se passa ensuite n'est connu que par le récit du seul survivant rapporté — le capitaine Aldren, retrouvé dérivant sur une planche à trois jours de navigation.
-
-Selon le récit d'Aldren, la mer autour de l'île parut bouillir. Une brume sombre, dans sa lecture, engloutit la flotte. Il décrivit ce qu'il perçut comme des formes rampant sur les coques des navires, et l'arrachement de ses compagnons un par un dans ce qu'il rapporta comme un silence. Les canons, dit-il, tiraient sans atteindre. Les lames tranchaient la brume sans la rencontrer. En une nuit, selon ce témoignage, quarante navires et huit mille hommes furent perdus.
-
-Aldren mourut trois jours après avoir livré son récit, le visage figé. Depuis, aucune nation continentale n'a tenté de monter une nouvelle expédition d'invasion.
-
-### Les arrivées sans flotte
-
-Une donnée plus discrète, qui ne figure pas dans les chroniques officielles mais que les ports de Nectoria, de Sondaris et de Tyndara conservent en marges et en feuilles volantes : tous les vingt à quarante ans environ, **un voyageur isolé** atteint Nysaria et en revient. Aucun de ces voyageurs n'a publié de récit ; aucun n'a sollicité de reconnaissance. Plusieurs sont morts dans l'année qui a suivi, de causes ordinaires (pneumonie, accident, fièvre). Quelques-uns ont vécu longtemps. Aucun n'a été interrogé en profondeur, parce qu'aucun n'a accepté de l'être.
-
-Ce que les marges des journaux portuaires donnent à lire, sans en tirer de théorie : ces voyageurs ne sont **pas entrés** à Nysaria au sens habituel du terme. Ils ont été *laissés entrer*. La distinction, selon une formulation que les capitaineries reprennent sans en revendiquer la paternité, *n'est pas la même chose*.
-
-Le cas du cartographe galenorien Aldric Valthen (an 222, env.), du cartographe ulinorien anonyme (an 244), et du cartographe galenorien Sorin Valthen (an 252) sont les trois plus récents que les ports tiennent pour avérés. Trois cartographes en trente ans. Aucune des capitaineries ne sait quoi faire de cette régularité — la plupart la classent dans les coïncidences professionnelles que la nature du métier favorise.
-
-### L'Île Aujourd'hui
-
-Nysaria reste, dans les sources accessibles aux érudits, un objet d'observation incomplète. Les mages d'Astravia, à l'aide de cristaux de vision, rapportent ce qu'ils perçoivent comme des tours sombres, des jardins aux tracés géométriques, des silhouettes qui se déplacent avec lenteur. Les détails, selon leurs propres notes, ne se laissent pas fixer — ce que certains lisent comme un effet propre à l'île, et d'autres comme une limite des instruments employés.
-
----
-
 ## Gouvernement — La Monarchie Sans Voix
 
 Les sources extérieures au sujet du gouvernement de Nysaria sont fragmentaires. Les principaux indices proviennent de messages trouvés dans des bouteilles échouées sur les côtes continentales — messages composés dans une langue ancienne que les érudits de Thalmaris ont, selon leurs propres travaux, partiellement déchiffrée — ainsi que des marges des rares journaux de cartographes ayant atteint l'île.

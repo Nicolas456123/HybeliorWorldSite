@@ -21,28 +21,6 @@ needs_review_for: []
 
 ---
 
-## Histoire
-
-### Les origines — L'Éveil des Bosquets
-
-Bien avant que les nations d'Ilthara ne tracent leurs frontières, les forêts d'Ackerna étaient déjà considérées comme vivantes — non pas au sens métaphorique, mais au sens littéral. Les premiers habitants de ces terres étaient des ermites et des mystiques venus des quatre coins du continent, attirés par des voix dans le vent et des visions dans la rosée du matin. Ces vagabonds se rassemblèrent autour des arbres les plus anciens, ceux dont les racines plongeaient si profondément qu'elles touchaient, dit-on, les veines magiques d'Ilthara elle-même.
-
-Le premier cercle druidique, celui du Chêne-Mère, fut fondé par une femme dont le nom a été volontairement effacé de l'histoire — car en Ackerna, les fondateurs ne sont pas des héros individuels mais des serviteurs de la forêt. Ce cercle établit les principes fondamentaux qui régissent encore le pays : la terre ne s'appartient pas, elle se partage ; les saisons ne se subissent pas, elles se célèbrent ; et aucun arbre ne tombe sans qu'un autre soit planté.
-
-### La Corruption de l'Hiver Noir
-
-Pendant des siècles, Ackerna vécut en harmonie. Mais un hiver, la forêt tomba malade. Les arbres perdirent leurs feuilles en plein été, les sources se tarirent, et ce que les druides interprétaient comme la voix bienveillante des esprits sembla se brouiller, se faire erratique. Les druides nommèrent cette période l'Hiver Noir.
-
-Selon la chronique druidique, la cause fut découverte trop tard : un cercle dissident, fasciné par ce qui filtrait des Marécages de Noyrath au sud d'Ilthara, avait pratiqué des rites jugés transgressifs pour puiser une magie plus puissante. Coïncidence ou conséquence — les théologiens d'autres traditions en débattent encore — la dégradation de la forêt fut attribuée à ces rites par les druides de l'époque, et la confiance entre eux et ce qu'ils nommaient "esprits" s'effondra.
-
-### Le Pacte Sylvestre
-
-Face à l'agonie de la forêt, l'Archidruide Faelorn convoqua un rituel sans précédent. Pendant sept jours et sept nuits, les druides fidèles se réunirent au cœur du Bosquet Primordial et offrirent ce que leur tradition nomme une part de leur essence vitale à la terre. À l'issue du rituel, ce que les druides perçurent comme une réponse des esprits prit la forme d'une condition : désormais, les druides gouverneraient Ackerna non pas comme des chefs, mais comme des gardiens liés par serment à la forêt. Selon les Vael'Kurash d'Ackerna, quiconque trahirait ce pacte verrait son lien avec la nature s'étioler — une menace que les druides récitent encore lors des intronisations, sans que les modalités exactes en aient jamais été testées publiquement.
-
-Le Pacte Sylvestre transforma Ackerna d'une communauté druidique en une véritable théocratie où la forêt elle-même, dans la lecture des druides, est la plus haute autorité. Les druides dissidents furent bannis dans les Marécages de Noyrath, où leurs descendants — dit-on — errent encore.
-
----
-
 ## Gouvernement — La Théocratie Druidique
 
 Le gouvernement d'Ackerna n'est pas une institution humaine mais un prolongement de la forêt :

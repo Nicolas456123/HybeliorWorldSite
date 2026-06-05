@@ -11,6 +11,8 @@ needs_review_for: []
 
 L'an 0 du Sillage actuel s'achevait. Le Grand Silence qui avait suivi l'Arrachement était entré dans sa vingtième année. Sur les îles solmariennes — qui ne s'appelaient pas encore Solmaris —, les pêcheurs des tièdes avaient passé l'hiver précédent dans une angoisse particulière : les Cahiers de Saisons (alors tenus oralement, par certaines familles) indiquaient que le Premier Rayon de l'année à venir devrait revenir à l'heure prévue par les calendriers anciens — *si l'Arrachement n'avait pas tout brisé*.
 
+Les pêcheurs des tièdes habitaient ces volcans anciens depuis des millénaires, en communautés saisonnières sans nation ni religion ; l'apport doctrinal — la lecture du Cycle — leur était venu d'Onara au début de l'Âge du Lien, par des prêtres Roteri remontés par la côte sud-est. C'est aussi la géologie qui les sauva : l'Arrachement avait modifié les flux géothermiques sur tout le continent, mais les volcans solmariens, plus anciens et plus profonds, avaient absorbé le choc et conservé leurs sources thermales actives — l'une des rares zones d'Azoria dans ce cas.
+
 Personne n'en était sûr.
 
 Au matin du solstice d'été — le jour exact où, selon les calculs des Roteri d'Onara qui passaient parmi les pêcheurs, le Premier Rayon devait apparaître à l'horizon nord-est —, les habitants des îles principales se rassemblèrent sur leurs caldera de prédilection. Pas par doctrine — il n'y avait pas encore de doctrine. Par espoir.
@@ -26,6 +28,8 @@ Dans les semaines qui suivirent, les pêcheurs et les Roteri d'Onara — qui se 
 La fondation de Solmaris est cette gratitude-là, formalisée. Le Conclave des Douze Lumières fut institué en l'an 12 du Sillage, regroupant les Veilleurs (formés par les Roteri d'Onara) des douze îles principales. Le premier Premier Veilleur du Cycle, **Vellanar Astr-Astralis**, prononça lors de son investiture la phrase qui résume tout : *« Nous remercions ce qui revient. C'est cela, et seulement cela, que nous savons faire. »*
 
 Cette phrase est gravée à l'entrée du Temple du Cycle d'Astralis. Elle est lue par chaque enfant à l'âge de sept ans, quand il accompagne pour la première fois ses parents à la Veillée. Elle est belle. Elle est aussi, à l'analyse fine, l'aveu d'une posture *passive* qu'aucun Premier Veilleur n'a jamais voulu remettre en cause : *nous remercions, et seulement cela*.
+
+De Vellanar à Larem Solnir-Astralis — le quatorzième Premier Veilleur, de la lignée des Veilleurs solaires d'Astralis —, aucun titulaire n'a jamais été destitué : tous sont morts en charge ou ont *renoncé* par le rite de retrait honorable.
 
 ---
 

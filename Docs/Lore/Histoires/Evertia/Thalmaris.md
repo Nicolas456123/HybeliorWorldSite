@@ -15,6 +15,32 @@ Le lecteur doit pouvoir entendre la beauté thalmarienne — l'Heure du Chant, l
 
 ---
 
+## L'Ère du Silence
+
+Avant Thalmaris, la région était connue sous le nom de **Terres Muettes** — non pas faute de bruit, mais parce que les peuples qui y vivaient avaient oublié leurs histoires. Des guerres incessantes avaient détruit les bibliothèques, tué les aînés et dispersé les familles ; une génération entière grandit sans connaître son passé. Ce vide culturel engendra une crise existentielle collective : sans histoires, pas d'identité ; sans identité, pas de raison de coopérer. Ce ne fut pas la guerre qui s'installa, mais l'apathie, le repli, l'indifférence.
+
+---
+
+## Le Chant des Anciens — la fondation
+
+Un voyageur aveugle nommé **Valdren le Trouvère** arriva dans les Terres Muettes, portant une harpe étrange dont les cordes vibraient seules. Installé sur une colline, il se mit à chanter non des chansons mais des **histoires** — l'histoire de chaque clan, de chaque famille, de chaque héros oublié, avec une vivacité telle que les auditeurs pleuraient, riaient et se souvenaient de choses qu'ils n'avaient jamais vécues. Il chanta trente jours et trente nuits.
+
+Aucune source ne s'accorde sur la manière dont il connaissait ces récits : les prêtres de Cantus Mundi affirment que la musique elle-même les lui dictait, que le monde chante sa propre histoire à qui sait écouter ; les chroniqueurs étrangers proposent qu'il avait collecté ces récits durant des décennies de voyage ; les Foedus Animae de la région y voient une transmission des âmes ancestrales par la voix d'un médium aveugle.
+
+Quand Valdren se tut, les peuples des Terres Muettes s'étaient retrouvés. Ils fondèrent **Thalmaris** — « Le Lieu du Chant » — et élurent Valdren comme premier **Roi-Barde**.
+
+---
+
+## L'Ère Dorée et le règne d'Aelorys IV
+
+Pendant trois décennies, la Reine-Barde **Elyndra III** gouverna avec une voix d'or et un esprit acéré, faisant de Thalmaris le médiateur attitré des conflits entre nations. Durant les trois années précédant son abdication, elle cessa de dormir, composant frénétiquement, persuadée qu'un esprit du Somnium Vigil lui envoyait des visions d'un cataclysme imminent.
+
+Elle abdique en **250**, à 67 ans, en faveur de son fils aîné **Aelorys IV**, qu'elle déclare *« plus apte à entendre que je ne suis encore capable d'écouter »* — formulation étrange, restée célèbre. Aelorys IV règne depuis cette date ; son titre officiel porte la mention de **Premier Mécène des Arts** avant celle de Roi (ce que **Sorin Valthen** note expressément lors de son passage en **252**). Il a tant renforcé le financement de l'Académie du Cantus que le budget de celle-ci dépasse désormais celui de l'armée — situation documentée par Sorin.
+
+Après son abdication, Elyndra III vit retirée à Galdaris, dans une cellule de l'Académie. Elle continue de composer, ne dort toujours pas et reçoit peu. Selon les rumeurs d'Ostarith, elle cherche encore *le chant qui pourrait l'empêcher* — sans qu'on sache de quoi.
+
+---
+
 ## Ostarith --- "Le Barde qui ne pouvait pas chanter"
 
 Oryn Vael avait tout pour etre un grand barde. L'oreille parfaite. La memoire des textes. La comprehension des formes et des harmoniques que les maitres enseignaient pendant des decennies. Quand il jouait du luth, les autres etudiants s'arretaient de travailler pour l'ecouter.

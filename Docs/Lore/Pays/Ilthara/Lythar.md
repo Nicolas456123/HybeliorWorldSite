@@ -21,30 +21,6 @@ needs_review_for: []
 
 ---
 
-## Histoire
-
-### Les origines — Les Peuples du Vent
-
-Lythar n'a jamais été fondé — il a toujours existé, du moins selon les Lythariens eux-mêmes. Avant que les autres peuples d'Ilthara ne tracent des frontières et ne bâtissent des murs, les tribus nomades parcouraient déjà les vastes steppes et les plaines ondulantes qui forment aujourd'hui le territoire de Lythar. Ces tribus ne possédaient pas la terre ; elles se déplaçaient avec elle, suivant les troupeaux, les saisons et les vents.
-
-Chaque tribu était indépendante, guidée par un chef choisi pour sa sagesse et son habileté à cheval. Les conflits entre tribus étaient fréquents mais rarement mortels — des courses, des joutes équestres et des concours de tir à l'arc remplaçaient les batailles rangées. La terre était assez vaste pour tout le monde, et les nomades n'avaient aucune raison de se massacrer pour un lopin de terre qu'ils quitteraient de toute façon à la prochaine lune.
-
-### La Grande Sédentarisation
-
-L'harmonie nomade fut menacée lorsque les nations sédentaires voisines commencèrent à revendiquer les plaines de Lythar. Gryndor au nord, Pyrtara à l'ouest et Drakora au sud — tous grignotaient les terres de pâturage. Les tribus, divisées et sans coordination, perdaient du terrain saison après saison.
-
-Certains chefs proposèrent de se sédentariser, de bâtir des villes et de défendre des frontières comme les autres nations. Cette idée provoqua une guerre civile entre les partisans de la sédentarisation et les traditionalistes nomades. Les villes naissantes furent attaquées, les troupeaux dispersés, et les tribus se déchirèrent.
-
-### La Grande Migration
-
-C'est dans ce chaos que la légendaire cavalière Lythana, cheffe de la tribu du Vent-Blanc, accomplit l'impossible. En une seule saison, elle chevaucha d'un bout à l'autre du territoire, visitant chaque tribu, défiant chaque chef en duel équestre et les battant tous. Non pour les soumettre, mais pour prouver que l'unité dans le mouvement était possible.
-
-Lythana proposa un compromis : les tribus resteraient nomades, mais elles se confédéreraient. Un Grand Conseil se réunirait à chaque solstice d'été dans un lieu différent, et les décisions communes seraient prises collectivement. Les quelques villes existantes seraient maintenues comme points de ravitaillement et de commerce, mais aucun Lytharien ne serait jamais forcé de s'y installer.
-
-La Grande Migration — le rassemblement de toutes les tribus en une seule cavalcade traversant le territoire d'est en ouest — fut le symbole fondateur de cette confédération. Elle est rejouée chaque année, et c'est le plus grand événement culturel de Lythar.
-
----
-
 ## Gouvernement — La Confédération Tribale
 
 Le gouvernement de Lythar est mobile comme son peuple :

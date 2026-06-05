@@ -7,6 +7,34 @@ needs_review_for: []
 ---
 # Histoires de Valoria
 
+## Les origines et l'Alliance des Clans
+
+Valoria n'a jamais été fondée : selon les Valoriens, elle a toujours existé. Les clans des terres rocailleuses du nord-est de Galenor revendiquent une lignée ininterrompue remontant aux premiers habitants du continent. La rudesse du pays — terres ingrates, hivers impitoyables, ressources disputées — a forgé un peuple pour qui la force, le courage au combat et la loyauté au clan sont les vertus suprêmes.
+
+Durant des siècles, les clans se firent la guerre sans relâche : raids, vendettas et batailles rituelles, sans empire ni conquête durable. Les faibles étaient absorbés, les forts se fragmentaient à la mort de leur chef, et le cycle recommençait. Cette époque forgea les traditions martiales de Valoria — le **Duel de Sang** pour les conflits d'honneur, le **Raid de Gloire** comme rite de passage, le **Serment de Pierre** comme engagement entre alliés — mais elle épuisa aussi les clans.
+
+La menace vint de l'extérieur : une horde de bêtes de pierre descendues des montagnes de Voldenor déferla sur les terres claniques. Aucun clan seul ne put résister. **Valtheria la Forgée**, guerrière du clan Teldar réputée pour avoir tué un ours des montagnes à mains nues, proposa l'alliance de tous les clans. En un mois, elle défia chaque chef en duel singulier : elle ne les tua pas, elle les vainquit, puis leur tendit la main. Tous acceptèrent. L'armée unifiée repoussa la horde lors de la **Bataille du Col de Fer**, victoire qui coûta la vie à un tiers des guerriers valoriens.
+
+Valtheria fonda la **Confédération des Clans** : chaque clan garderait son autonomie, mais un **Conseil des Thanes** ferait face aux menaces communes. Elle fonda la capitale qui porte son nom et son clan, les Teldar, fut reconnu premier parmi les égaux — prééminence contestée mais jamais renversée. Sous la Pierre de Valtheria, le bloc sacré du premier serment, elle fit enterrer une **autre pierre**, noire et froide même en été, avec l'ordre de ne la déterrer *« que lorsque la dernière guerre commencera »*. Nul Gardien ne sait ce que cela signifie ; nul Thane ne souhaite le découvrir.
+
+---
+
+## La Codification du Sang (depuis l'an 50)
+
+Après Valtheria, les premiers Thanes héritiers entreprirent de *fixer* les règles du Holmgang, du Raid de Gloire, du Serment de Pierre, des successions, des dépouilles, des prisonniers, des bannissements. Ce **Code des Thanes** n'est pas un texte écrit mais un corpus oral transmis par les *Gardiens de la Mémoire* (prêtres du Foedus Animae) ; à l'an 251 il couvrait près de mille cinq cents articles, tous mémorisés. Les Gardiens connaissent le Code mieux que les Thanes : ils ne décident pas, ils *récitent* — mais ce qui est récité fait loi, et ce qui n'est pas récité n'existe pas.
+
+Cette codification permit à Valoria de tenir près de deux mille ans sans guerre civile généralisée. Elle figea aussi le pays : le Holmgang fixe la résolution des conflits, les Holmgang se répètent, les *raisons* des Holmgang se répètent. C'est ce que l'historien **Neld de Thalindor** (an 196-251) documenta dans son analyse de l'an 248, compilant deux cents ans de registres de duels.
+
+---
+
+## L'instrumentalisation clanique
+
+Le clan, en tant qu'institution, traite chaque membre comme un instrument du clan — instrumentalisation le plus souvent *gentille* (on aime les siens, on les défend, on les enterre), mais dont le but final reste le clan, jamais le membre. Un Valorien qui voudrait s'établir hors du clan *peut* le faire, mais il sera **renié** : effacé du Foedus Animae local, privé de sa part d'os ancestral, son nom rayé des litanies. Cette excommunication est, dans l'expérience valorienne, plus terrible que la mort, car elle interdit la persistance dans le Pacte des Âmes.
+
+Les **Sans-Sang** — ceux qui ont fui l'Épreuve du Sang à quatorze ans — incarnent cette logique. On ne les tue pas ; on les *réduit* aux tâches serviles, mariage interdit, vie courte par épuisement. La doctrine officielle les dit *« déchus »*, ayant choisi leur sort ; la pratique économique reconnaît que sans eux, Valoria ne tient pas.
+
+---
+
 ## Valtheria --- "Le Juge et l'Accusation Impossible"
 
 Aldra Vorn etait juge a Valtheria depuis trente ans. Elle avait rendu des milliers de verdicts. Sa reputation etait celle d'une femme qui ne cede a rien --- pas a la pression des clans puissants, pas aux pleurs des misereables, pas a sa propre compassion.

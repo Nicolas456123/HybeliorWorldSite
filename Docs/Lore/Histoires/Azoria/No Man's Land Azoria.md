@@ -153,6 +153,20 @@ Elle n'a pas de tombe individuelle ; les habitants de Thylaria enterrent leurs m
 
 ---
 
+## L'Archipel — « La Bataille des Gelées Éternelles »
+
+*Note : c'est le seul événement du No Man's Land qui figure dans les chroniques des nations voisines. Aucune chronique locale n'a jamais été tenue ; tout ce qui suit vient des archives d'Azoral et de Solmaris, recoupées à Tarnora.*
+
+Entre l'an 80 et l'an 130 du Sillage — la date exacte n'est pas fixée — plusieurs flottes s'affrontèrent dans les eaux centrales du No Man's Land pour le contrôle d'un mouillage stratégique. Selon la version qui circule à Tarnora et qui figure dans les chroniques officielles d'Azoral et de Solmaris, l'une des flottes était azoralienne, l'autre solmarienne, et une troisième — peut-être mosrackoise — y prit peut-être part.
+
+La bataille fut surprise par une tempête de glace inattendue. Aucune flotte n'en réchappa en tant que formation militaire. Les survivants individuels furent absorbés par les villages locaux, comme tous les naufragés avant eux.
+
+Les paléographes des nations voisines tiennent cette version pour *probablement vraie en grande partie*. Les habitants du No Man's Land la tiennent pour *certainement fausse en certains détails* : selon eux les pertes furent moindres, des survivants tentèrent de rentrer, certains rentrèrent. Faute de chronique locale, la divergence ne peut être tranchée.
+
+Ce qui est sûr, c'est la conséquence. L'événement renforça la mauvaise réputation de l'archipel auprès des nations organisées — et cette réputation, paradoxalement, *protégea* le No Man's Land : depuis lors, aucune tentative sérieuse de colonisation n'a été engagée. C'est la « histoire marquante » que les chroniques officielles retiennent du No Man's Land, à défaut de toute autre.
+
+---
+
 ## Velkmis-Refuge (continent Solmaris) — « Le Nom Qui Ne Se Prononce Pas »
 
 *Note : cette histoire concerne un village solmarien à proximité du No Man's Land, et figure ici parce que sa transmission s'est faite par les pêcheurs de Tarnora et de Fyloria autant que par les Veilleurs solaires.*

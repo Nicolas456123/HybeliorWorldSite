@@ -23,48 +23,6 @@ needs_review_for: []
 
 ---
 
-## Histoire
-
-### L'arrivée — Les Naufragés du Silence
-
-Baelor fut découverte par des moines en exil — des mystiques chassés de leurs terres d'origine pour avoir pratiqué un culte jugé hérétique : le **silence sacré**. La date exacte n'est pas conservée. Les chroniques internes les plus anciennes la situent quelque cinq mille ans avant l'an actuel, ce qui en fait l'une des fondations religieuses les plus anciennes d'Hybélior — antérieure à l'Arrachement, antérieure à la plupart des nations modernes.
-
-Ils croyaient que la parole corrompait la pensée, que le langage déformait la vérité, et que seul le silence absolu permettait d'entendre ce qui se disait *en dessous* du bruit du monde. Cette doctrine leur valut, dans leur contrée d'origine que la chronique baelorienne ne nomme plus, la persécution. Ils s'enfuirent par mer. Leur navire fit naufrage dans la seule crique abritée de toute la côte nord de Baelor. Ils accostèrent vivants — sept hommes, quatre femmes, trois enfants. Ils n'avaient ni outils, ni matériaux, ni provisions au-delà de quelques jours.
-
-Ce qui suivit leur arrivée est l'objet du seul mythe fondateur que Baelor entretient — et il existe en plusieurs versions concurrentes (cf. [[Baelor - Continent#Mythes communs]]). Toutes s'accordent sur un point : ils **entendirent quelque chose** depuis les falaises de basalte, dans une langue qu'ils ne comprirent pas, et qui leur signifia (par la cadence, par le ton, par ce qu'ils nommaient *l'enseignement de la roche*) que **le silence était ce qu'il fallait** ici. Ils obéirent. Ils n'ont jamais cessé d'obéir.
-
-Pendant huit générations, ils sculptèrent à mains nues les premières cellules dans la falaise. Quand ils purent enfin se procurer des outils — par le commerce limité qui s'établit progressivement avec Tyndara —, ils les **refusèrent**. La lenteur du travail leur avait appris quelque chose que la vitesse ne pouvait pas. Chaque cellule fut creusée par celui qui l'habiterait, et cette pratique perdure : un Silentii contemporain creuse encore sa cellule à la main, sur une décennie, dans la roche que sept de ses prédécesseurs ont déjà façonnée.
-
-### La Défense du Monastère de Kethros
-
-L'événement fondateur de l'identité de Baelor — celui que les chroniques externes retiennent volontiers — est la **Défense du Monastère de Kethros**, datée de l'an 287 du Sillage actuel. Une flotte pirate de quarante navires, menée par le célèbre capitaine **Draven le Sanguinaire**, attaqua l'île pour s'emparer de ses trésors — car les rumeurs des marchés de Lumasar parlaient d'or caché dans les monastères, d'enluminures de cinquante mille couronnes, de reliques cosmiques.
-
-Les pirates ne trouvèrent pas d'or (il n'y en a pas à Baelor). Ils trouvèrent des moines. Trois cents moines-guerriers, silencieux comme des ombres et mortels comme des lames, défendirent le monastère de Kethros pendant **sept jours**. Les pirates, habitués à des victimes terrifiées, furent déstabilisés par des combattants qui ne criaient pas, ne suppliaient pas, ne parlaient pas — qui frappaient dans un silence absolu et mouraient dans le même silence. L'effet psychologique sur les pirates dépassa de loin l'effet militaire : les Bealoriens étaient *moins* nombreux et *moins* armés. Ce qu'ils avaient en plus était l'absence de bruit.
-
-Au septième jour, Draven se retira avec ce qui restait de sa flotte — onze navires sur quarante. Il jura, dit-on, de ne jamais revenir. Les moines ne célébrèrent pas leur victoire. Ils enterrèrent les morts des deux camps avec le même respect, dans des tombes anonymes creusées dans la falaise sud, puis reprirent leur méditation. Le bilan exact — moines tombés, civils côtiers tués, pirates abattus — n'a jamais été tenu : compter des morts, dans la doctrine, c'est leur ajouter du bruit.
-
-### Thyldris — la veille permanente
-
-Le second monastère de l'île, **Thyldris**, fut bâti l'année suivante sur le promontoire est. Sa fondation est intéressante en ce qu'elle est née non d'une crainte mais d'un constat : Draven avait pu approcher des côtes sans être repéré suffisamment tôt parce que **personne ne surveillait la mer de façon systématique**. Les moines méditaient ; ils n'observaient pas. L'Abbé de l'époque (Kethron II, le quatrième de la lignée) décida que **l'observation permanente était aussi une forme de méditation** — peut-être la plus exigeante. Thyldris fut le résultat : un monastère dont la pratique spirituelle est précisément l'attention portée à l'horizon.
-
-Quatre siècles plus tard, les Veilleurs de Thyldris ont développé leur propre lecture du monde, qui ne coïncide plus tout à fait avec celle de Baeloris (cf. *Tensions internes*). Ils n'ont jamais rien dit à voix haute. Personne, à Baeloris, ne leur a jamais demandé de le faire.
-
-### L'Ère Contemplative — l'enracinement de la règle
-
-Entre l'an 290 et l'an 200 environ — soit pendant plus de quatre siècles — Baelor entra dans ce que les chroniques internes appellent **l'Ère Contemplative**. La règle se densifia. Les paliers de silence se codifièrent. Les **deux Voiles** (Premier et Second) se cristallisèrent comme deux écoles distinctes (cf. *Tensions internes*). L'art martial du **Poing Silencieux** atteignit la précision qu'il a aujourd'hui. Les ateliers d'enluminure de Tholmë et de Velkadra produisirent leur premier âge d'or. La nation prospéra dans l'austérité, ce qui est rare à formuler mais exact à observer.
-
-Cette ère est aussi celle où la règle **cessa d'être interrogée**. Les premiers Bealoriens débattaient — par lamelle, par geste, par retrait dans une grotte — des bonnes formes du silence. Leurs successeurs, à partir d'un certain point que personne ne peut dater, ont **transmis** ces formes au lieu de les questionner. La doctrine se rigidifia ; elle continua de paraître humble parce que sa forme était humble ; elle devint l'une des Lois les plus figées du continent connu.
-
-### Le Sillage actuel — Kethron VI et l'amulette
-
-Aujourd'hui, Baelor est gouvernée par l'**Abbé Suprême Kethron VI**, dont le règne s'étend sur près de soixante ans. Il n'a pas prononcé un mot depuis sa jeunesse — Sera, l'interprète qui accompagne Sorin Valthen au chapitre 36 de ses chroniques, le tient d'un texte de Lunasar. Son corps est devenu, avec l'âge, ce que les Maîtres de Discipline appellent *distillé* : la vieillesse non comme réduction, mais comme épuration. Il vit dans les niveaux supérieurs de Baeloris, dans une cellule que personne ne décrit, et ne reçoit que les visiteurs que les moines de l'accueil ont jugés nécessaires.
-
-Pendant les neuf années précédant l'an 251, plusieurs visiteurs — un cartographe altram, un érudit de Mirathi, un délégué d'Astravia — sont arrivés à Baelor avec sur eux des **objets que les moines regardaient avec attention**. Petits objets de pierre noire, parfois portés en amulette, parfois enchâssés dans des étuis de cuir. Les moines les regardent comme on regarde un animal connu qui n'aurait pas dû se trouver là. Ils ne posent jamais de questions. Ils notent, dans leur journal enluminé, la fréquence à laquelle l'amulette pulse pendant la durée du séjour. Ces notes vont rejoindre la bibliothèque de Baeloris et ne sont consultables ni par les visiteurs ni, en pratique, par personne d'autre que les Maîtres.
-
-En l'an 251, Sorin Valthen débarqua à Baelor avec, autour du cou, l'amulette qu'il avait reçue de Vytharia. L'Abbé Kethron VI le reçut dans la Salle du Silence et lui écrivit, au pinceau, sur un parchemin enluminé, **un seul mot** : *Dessous*. Sorin reçut le parchemin. Il ne réclama pas plus. Cinq jours plus tard, il quitta Baelor en direction de Cestra. C'est l'un des seuls moments documentés du règne de Kethron VI où l'Abbé a écrit. Aucun moine de l'île n'a, à ce jour, demandé pourquoi.
-
----
-
 ## Gouvernement — La Théocratie Monastique
 
 Le pouvoir à Baelor est exercé par les moines, dans une structure qui n'a pas changé depuis quatre siècles.

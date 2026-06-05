@@ -21,44 +21,6 @@ needs_review_for: []
 
 ---
 
-## Histoire
-
-### Les origines — Le Règne de Fer
-
-Altram est né de la montagne. Avant même que les premiers clans ne se fédèrent, les vallées profondes d'Altram abritaient des communautés de mineurs et de forgerons qui tiraient leur subsistance des veines de fer et d'argent courant sous la roche. Ces communautés étaient rudes, pragmatiques, et profondément attachées à l'idée que la valeur d'un homme se mesure à ce qu'il forge de ses propres mains.
-
-Le premier roi d'Altram, Varnok le Forgeur, était un maître-artisan qui unifia les vallées non par la conquête, mais en forgeant pour chaque seigneur local une arme d'une qualité si exceptionnelle qu'ils jurèrent allégeance en échange de son savoir. Cette tradition de respect envers l'artisanat plutôt que la force brute a marqué la culture d'Altram pour les siècles à venir.
-
-### La Tyrannie de Korvath
-
-Plusieurs générations après Varnok, le roi Korvath III monta sur le trône avec une vision différente. Obsédé par la puissance militaire, il doubla les quotas des mines, réduisit les forgerons au statut de serviteurs de la couronne et interdit la vente d'armes hors du royaume. Les artisans, autrefois honorés, furent traités comme des outils.
-
-Les mines s'effondrèrent sous la cadence inhumaine. Des villages entiers furent ensevelis. Les forgerons, descendants de ceux qui avaient fondé le royaume, virent leur héritage souillé.
-
-### La Rébellion des Forgerons
-
-La révolte ne vint pas des soldats mais des ateliers. Le maître-forgeron Theron l'Enclume organisa une grève silencieuse : plus une seule arme, plus un seul outil ne sortit des forges d'Altram pendant trois lunes. L'armée de Korvath, incapable de réparer ses équipements, s'effondra face à une incursion de pillards venus du nord (les chroniqueurs ultérieurs ont fixé l'origine sur Skaldoria, ce que les chroniqueurs skaldori contestent — mais qu'aucune cour d'Altram n'a jamais voulu réviser). Le peuple se souleva.
-
-Korvath fut renversé non par l'épée, mais par le marteau. Theron refusa la couronne et instaura le principe de la **Monarchie Éclairée** : le roi règne, mais le Conseil des Maîtres-Artisans — composé des plus grands forgerons, mineurs et architectes du royaume — détient un droit de veto sur toute décision touchant au peuple.
-
-Ce système perdure à ce jour. **Trois siècles plus tard, il a un coût qu'Altram ne nomme pas.**
-
-### La Dérive du Code (an 100 environ — encore en cours)
-
-L'histoire que Trelios raconte d'elle-même s'arrête généralement à la Rébellion. Ce qui s'est passé ensuite, sur trois siècles, est moins glorieux et beaucoup moins enseigné.
-
-La Charte initiale de Theron l'Enclume tenait sur dix-sept articles — un par grand métier reconnu (forgeron, mineur, architecte, fondeur, polisseur, etc.). Elle était lisible. Un apprenti pouvait la réciter à la fin de sa septième année.
-
-Très vite, des cas particuliers ont surgi. Que faire quand un fils refuse le métier du père ? Comment arbitrer entre deux ateliers qui revendiquent le même alliage ? Quel statut pour un forgeron étranger qui s'installe à Trelios ? Comment classer une innovation qu'aucun article n'avait prévue ? Le Conseil des Maîtres a tranché — au cas par cas, avec rigueur, dans une fidélité scrupuleuse à *l'esprit du métier*. Chaque décision a été archivée dans le **Livre de Pierre** (registre officiel taillé dans des dalles de granit empilées dans la salle du Conseil de Trelios).
-
-En l'an 100, le Livre de Pierre comptait deux cents dalles. En 200, deux mille. En 251, plus de quatorze mille. Les Maîtres ne décident plus rien sans *« consulter le Livre »* — c'est-à-dire sans envoyer un greffier vérifier qu'aucune décision antérieure ne contredit la décision présente. Quand une contradiction est trouvée, on tranche par hiérarchie d'ancienneté : la dalle la plus ancienne l'emporte.
-
-Le résultat est qu'Altram applique aujourd'hui des décisions prises par des forgerons morts depuis trois siècles, dans des contextes qu'aucun Maître vivant ne se souvient. Les ateliers, eux, ne contestent presque jamais. **Contester reviendrait à insulter l'enclume de Varnok.** L'argument n'est jamais formulé ainsi ; il n'a pas besoin de l'être.
-
-Le prince Brennan, fils du roi actuel Aldric IV, a tenté à deux reprises de proposer une *« relecture »* du Livre. Sa dernière proposition a été enterrée par le Conseil — sans débat, par le procédé classique : on a renvoyé le texte à *« examen approfondi »*, et l'examen approfondi n'a jamais commencé. Brennan, depuis, négocie en secret avec Mosrack pour des machines de guerre qui rendraient le Livre obsolète d'un coup. Son père sait. Son père étouffe. Mais il ne peut pas faire plus — parce que le Conseil ne peut être convaincu *par un argument*, le Conseil ne peut être convaincu que *par une dalle plus ancienne*.
-
----
-
 ## Gouvernement — La Monarchie Éclairée
 
 Le roi d'Altram règne depuis la forteresse de **Trelios**, port fortifié de la côte nord taillé dans la roche vive. Son pouvoir est réel mais encadré :

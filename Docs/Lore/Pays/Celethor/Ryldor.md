@@ -22,42 +22,6 @@ needs_review_for: []
 
 ---
 
-## Histoire
-
-### Le Temps des Fièvres
-
-Ryldor est né de la souffrance. Le territoire qui deviendrait ce pays était autrefois une terre maudite — frappée par un **Fléau** mystérieux qui pourrissait les plantes, rendait les animaux fous et consumait les humains de l'intérieur. Les peuples voisins évitaient ces terres comme la peste, et les rares habitants survivaient dans une misère indicible.
-
-Les guérisseurs de toutes les nations vinrent tenter leur chance. Aucun ne réussit. Le Fléau résistait à la magie, à la science et à la prière.
-
-### La Guérison du Fléau (et son ambiguïté)
-
-C'est une femme nommée **Ryldara** qui trouva la solution. Simple herboriste sans pouvoir magique, elle observa que certaines plantes résistaient au Fléau — non pas en le combattant, mais en vivant avec lui. Elle comprit que le Fléau n'était pas une maladie mais un **déséquilibre** — la terre elle-même était malade, et tout le reste en découlait.
-
-Ryldara passa sa vie à développer une méthode de guérison holistique : traiter la terre pour guérir les plantes, traiter les plantes pour guérir les animaux, traiter les animaux pour guérir les humains. Elle cultiva des jardins médicinaux, créa des potions à partir de champignons qui se nourrissaient du Fléau, et enseigna ses techniques à tous ceux qui voulaient apprendre.
-
-En trois générations, le Fléau **recula**. Il n'a jamais complètement disparu. Ce que Ryldara n'a jamais dit publiquement — et que ses carnets, déposés à la mort dans les archives secrètes du Cercle des Guérisseurs, révèlent — c'est que sa méthode ne **guérissait** pas le Fléau. Elle le **contenait**. Elle l'endormait. Elle le poussait sous la terre, où il continuait d'exister, surveillé par les rituels qu'elle institua, encadré par les jardins qu'elle planta. Le Sanctuaire de Ryldaris fut bâti **directement au-dessus de la plus grande poche de Fléau dormant** — non pas en dépit du fait, à cause du fait. Ryldara voulait surveiller le Fléau de l'intérieur.
-
-Elle tut cette vérité parce qu'elle pensait que la connaître ferait fuir son peuple. La transmission s'est faite, génération après génération, dans les archives secrètes des Grands Chamans — chaque successeur découvrant à sa prise de fonction qu'il hériterait non d'un pays guéri mais d'un pays qui *contient* sa propre maladie. Cette découverte est l'un des rituels d'admission les plus brutaux d'Hybélior : on devient Grand Chaman de Ryldor en apprenant que ce qu'on a juré de défendre est plus fragile qu'on ne l'imaginait.
-
-### L'Ère de la Surveillance
-
-Le Grand Chaman actuel, **Thyros**, est un vieil homme vénéré pour sa sagesse et sa compassion. Il occupe la chaire depuis quarante ans. Il a appris la vérité du Fléau le jour de sa nomination, comme tous ses prédécesseurs. Il l'a portée silencieusement.
-
-Sous sa direction, Ryldor accueille les malades de tout Celethor — et même d'au-delà. Le pays est petit, pauvre en ressources conventionnelles, mais riche d'un savoir médical inégalé. Ce que Thyros sait, et qu'il a écrit dans ses carnets personnels — qui ne brûleront pas, parce que Thyros, lui, a appris d'Astravia ce que les successeurs font des carnets brûlés —, c'est que **la pulsation du Fléau dormant s'accélère**. Pas vite. Pas encore dangereusement. Mais régulièrement, mesurablement. Il prend les mesures chaque matin dans les fondations du Sanctuaire. Il les note. Il les transmettra.
-
-Cette surveillance est l'une des plus rigoureuses d'Hybélior. Elle a aussi pour fonction — non avouée — de **maintenir le pays dans une forme d'Espérance Vide** : la promesse que la prochaine génération de Marcheurs, le prochain remède, le prochain chaman exceptionnel pourra peut-être *guérir* ce qui n'a jamais été que contenu. Cette promesse n'est jamais énoncée. Elle structure l'éducation chamanique. Elle est précisément ce que Thyros, dans son carnet, identifie comme la chose à transmettre autrement à son successeur. Il n'a pas encore trouvé comment.
-
-### L'Affaire Veldris (an 230)
-
-Vingt et un ans avant le passage de Sorin, le chaman **Veldris** fut banni du Cercle pour des méthodes hétérodoxes : doses de champignons de Zelthar que le Cercle considérait mortelles, taux de réussite de huit guérisons sur dix patients abandonnés par Ryldor — mais aussi deux morts sur dix. Le Cercle le bannit non pour incompétence (il guérissait des cas désespérés), mais pour ce qu'il appela *« expérimentation non éthique »*.
-
-Veldris s'installa à Myralor, dans les Terres Brisées, et continua. Le Cercle ne le poursuivit pas. Plus discrètement, le Cercle envoie depuis vingt ans des Marcheurs à Myralor — pour *« évaluer les résultats »*, dit la formule officielle. La formule cache la vérité : les Marcheurs envoient à Myralor les patients que le Cercle ne veut pas perdre mais ne veut pas non plus traiter dans les mêmes conditions. Veldris le sait. Il les soigne quand même. Personne ne formule le pacte ainsi.
-
-L'affaire Veldris est, à l'échelle ryldorienne, l'illustration la plus nette du piège **Loi figée bienveillante** : un Cercle qui surveille les méthodes hétérodoxes en les bannissant *poliment*, tout en continuant à les utiliser quand elles conviennent. Aucun chaman ne formule cela. Aucun. Cf. *Histoires de Ryldor* et *Histoires des Terres Brisées de Celethor — Myralor*.
-
----
-
 ## Gouvernement — La Théocratie Chamanique
 
 Le pouvoir à Ryldor est exercé par les guérisseurs :

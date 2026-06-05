@@ -7,6 +7,25 @@ needs_review_for: []
 ---
 # Histoires de Lunasar
 
+## Repères — De la Fondation à la Codification
+
+**La Fondation par les Trois Cents (~an 3 970 ap.A).** Les chroniques lunariennes datent la fondation au **14e jour du 9e cycle après la Grande Convergence** — précision qui tient à ce que les fondateurs comptaient déjà en cycles lunaires. Trois cents **dissidents vythariens**, refusant à la fois le rite Noctari et le schisme somnique en cours, quittèrent l'intérieur vytharien pour la côte orientale. Ils s'établirent sur le replat où s'élève aujourd'hui Lunaris, choisi pour la qualité de la nuit (ciel dégagé, horizon marin dégagé) et la régularité des marées du détroit, qui permettait des mesures stables. Ils ne se présentaient pas comme des religieux mais comme *des observateurs* : ils voulaient vérifier si les décisions prises à certains moments du cycle lunaire avaient des effets différents de celles prises à d'autres.
+
+**L'établissement du calendrier (~3 970 – 4 200).** Pendant deux siècles, la communauté collecta des données, tenant registre des décisions et de leurs conséquences sur cinq, dix, vingt ans. De cet entêtement naquirent les **Tables des Conséquences**, registre maintenu sans interruption depuis trois siècles. Ce qu'ils crurent trouver : les décisions prises à pleine lune résistaient statistiquement mieux aux conséquences imprévues — fondement empirique du calendrier politique lunarien (corrélation que les Lunariens tiennent pour observable, non pour prouvée).
+
+**L'âge des Veilleurs (~4 200 – 5 500).** Les **Veilleurs de lune** — observateurs permanents postés sur routes et côtes, chargés de surveiller les arrivants pendant la pleine lune et de noter tout phénomène inhabituel — furent institués à la fin du quatrième millénaire. Non armés, sans pouvoir de coercition, ils sont des *yeux*. Leurs registres forment l'archive la plus continue du pays ; c'est dans leurs marges que vivent les affaires sensibles (voir les amulettes ci-dessous).
+
+**La Codification des Cycles (~5 500 – 6 000).** Le système politique se codifia complètement : la lune croissante devint période des **questions** (on délibère, on ne tranche rien), la pleine lune période des **décisions** (l'Assemblée vote sous le ciel ouvert), la lune décroissante période d'**application** (on n'y revient pas), la nouvelle lune **silence** (aucune décision, marchés et tribunaux fermés).
+
+**Les visiteurs aux amulettes (an 222, 244, 252).** Trois cas consignés dans les seules marges du registre des Veilleurs, jamais dans les registres officiels :
+- **Aldric Valthen** (~an 222) — cartographe galenorien d'Evertia, arrivé par la mer, porteur d'une **amulette de pierre noire**. Resté quatre nuits, rencontra Solvanes, laissa un parchemin scellé avant de repartir vers le nord. Le Veilleur de lune qui le repéra prévint Solvanes.
+- **Cartographe ulinorien anonyme** (an 244) — arrivé par la mer, amulette comparable, resté trois nuits, aucun document laissé, traces perdues vers la haute-Vytharia.
+- **Sorin Valthen** (an 252) — fils d'Aldric, cartographe galenorien revenu par la côte vytharienne, même amulette, resté cinq nuits. Reçut de Solvanes le parchemin laissé par son père trente ans plus tôt (carte partielle, symbole en troisième langue marquant un point en Evertia), puis repartit vers Baelor.
+
+Solvanes, Veilleur de lune retraité resté influent, est le **dépositaire de mémoire** de cette série. Les Veilleurs actuels n'en tiennent aucun registre, et aucune institution lunarienne ne traite officiellement le sujet ; à sa mort, ce dépôt se dispersera.
+
+---
+
 ## Lunaris — « Les Tables qui Ne Disent Rien »
 
 Solvanes n'avait pas toujours été Solvanes. À soixante ans, après trente années de service comme Veilleur de lune, il avait pris l'habitude qu'on ait pour lui — l'habitude qu'on a pour les vieux d'une nation qui mesure le temps en cycles plutôt qu'en années. Mais à cinquante ans, il avait porté une autre habitude.

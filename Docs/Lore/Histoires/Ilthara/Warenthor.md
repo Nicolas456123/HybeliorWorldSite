@@ -7,6 +7,18 @@ needs_review_for: []
 ---
 # Histoires de Warenthor
 
+## Les Origines --- "L'Éveil de la Jungle"
+
+Les premiers Warenthoriens ne furent pas des conquerants mais des nomades, refugies dans la jungle la plus dense et la plus ancienne d'Ilthara pour fuir les guerres et les famines du continent. La jungle ne les tua pas immediatement --- ce qui, en Warenthor, passe pour de l'hospitalite. Les survivants apprirent a vivre avec la foret plutot que contre elle, et a ecouter ce qu'ils nommerent les esprits.
+
+Longtemps, Warenthor ne fut pas un pays mais un ensemble de tribus independantes, chacune occupant un secteur de jungle, chacune liee aux esprits de son territoire --- les uns ceux des arbres, les autres ceux des rivieres, d'autres ceux des animaux. La jungle etait si dense qu'aller d'une tribu a l'autre prenait des semaines ; les contacts etaient rares et souvent hostiles, et les territoires spirituels qui se chevauchaient engendraient des conflits.
+
+Puis, selon la tradition orale, la jungle entiere s'eveilla sans avertissement : les arbres se mirent a bouger, les rivieres a rugir, les animaux a agir de concert, et les esprits se manifesterent avec une intensite ecrasante. La lecture warenthorienne tient cet Eveil non pour une attaque mais pour un appel : un mal inconnu venu des profondeurs --- que certains lient aux Marecages de Noyrath --- eprouvait les esprits, et les tribus divisees ne pouvaient s'accorder pour repondre d'une seule voix.
+
+Le chaman Warenthos, de la tribu du Serpent-Vert, marcha seul a travers la jungle eveillee, apaisant chaque arbre et chaque esprit, et convainquit les autres tribus de le suivre. Sous sa guidance, les tribus se confedererent en un seul peuple. Le mal souterrain fut repousse --- les details sont volontairement gardes vagues dans la tradition --- et les esprits scellerent un pacte avec les humains de Warenthor. Warenthos fut proclame premier Roi-Chaman, et la monarchie tribale fut fondee sur un principe tenu pour sacre : le roi sert la jungle, et la jungle sert le roi.
+
+---
+
 ## Wyndor --- "Ce que la Jungle Enseigne"
 
 Les enfants de Wyndor apprennent a marcher dans la jungle avant d'apprendre a parler. Ce n'est pas une exageration. Les familles emmenant les nourrissons dans la foret, les portant contre leur peau, les exposant aux odeurs et aux sons. La jungle est leur premier langage.

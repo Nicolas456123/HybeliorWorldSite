@@ -21,46 +21,6 @@ needs_review_for: []
 
 ---
 
-## Histoire
-
-### Les Premiers Clans
-
-Selon les Skalds, Skaldoria n'a pas connu de fondation que la mémoire orale puisse situer — les chants tribaux la décrivent comme ayant toujours été là. Aussi loin que la transmission des Skalds remonte, les fjords glacés du nord d'Alkaran ont abrité des clans de guerriers, de pêcheurs et de chasseurs vivant au rythme dur des saisons. Chaque clan, dans la lecture qu'il fait de lui-même, est un monde propre : lois propres, rites propres, querelles propres.
-
-Dans la tradition skaldorienne, la violence entre clans est lue comme une part de l'ordre naturel plutôt que comme un mal à conjurer. Les faibles mouraient, selon les chants, les forts survivaient, et les morts, selon les Foedus Animae locaux, rejoignaient les ancêtres pour veiller — *selon ce que les Skalds nous en transmettent*.
-
-### La Bataille du Fjord Gelé
-
-L'événement qui donna naissance à la Confédération fut paradoxalement une invasion extérieure. Une flotte venue d'un continent lointain (les historiens débattent encore de son origine — certains disent Endora, d'autres Cestra) tenta de débarquer dans le Grand Fjord, le point névralgique de Skaldoria.
-
-Les envahisseurs pensaient que les clans divisés seraient des proies faciles. Ils avaient tort.
-
-**Brenna Croc-de-Glace**, cheffe du clan du Loup, envoya des messagers à tous les clans avec un seul mot : *Ralthyn* — un ancien terme signifiant "le moment où les prédateurs chassent ensemble". En trois jours, sept clans normalement en guerre les uns contre les autres se rassemblèrent sur les falaises du fjord.
-
-La bataille fut brève et sanglante. Les Skaldoriens connaissaient chaque courant, chaque rocher, chaque passage caché. Ils attirèrent la flotte ennemie dans un étranglement glacé où les navires s'échouèrent sur des icebergs dissimulés. Puis ils descendirent des falaises.
-
-Aucun envahisseur ne survécut.
-
-Après la victoire, Brenna proposa un accord sans précédent : les clans resteraient indépendants, mais en cas de menace extérieure, le **Ralthyn** serait invoqué et tous combattraient ensemble. Cet accord est le fondement de la Confédération.
-
-### Skaldoria aujourd'hui
-
-La Confédération tient depuis des générations, mais elle reste fragile. Les clans continuent de se quereller pour les territoires de chasse, les droits de pêche et les insultes d'honneur. Le **Cercle des Jarls** (les chefs de clan) se réunit rarement — et quand il le fait, les discussions dégénèrent souvent en duels.
-
-L'actuelle Jarl suprême est **Sigrid Brise-Tempête**, du clan de l'Ours. Elle est respectée pour sa brutalité au combat mais critiquée pour ses tentatives de moderniser les traditions — notamment son projet d'ouvrir des routes commerciales avec Altram, que les clans les plus isolationnistes considèrent comme une trahison.
-
-### Tournants historiques refoulés
-
-Trois épisodes que les Skalds ne chantent pas en assemblée mais qui circulent entre eux à voix basse :
-
-- **La Disparition du Clan du Kraken** (env. an 4 320 ap.A) : huitième clan majeur, disparu une nuit d'hiver — village vide, pas un corps. Les Skalds refusent d'en parler. Plusieurs lectures circulent : trahison vengée par les sept autres clans dans une nuit de Holmgang collectif (lecture *politique* — la plus probable selon les chroniqueurs alkarans qui en ont eu vent par recoupement) ; *enlèvement* par ce que les pêcheurs nomment les *Enfants du Kraken* (lecture *cosmique* — la plus durable) ; *fuite* organisée du clan vers Cestra ou plus loin (lecture *sceptique* — la moins commentée). Les Skalds officiels n'ont pas de position. Aucun Cairn n'est tenu pour les morts du Kraken. Personne ne crie leur nom.
-
-- **La Bataille des Trois Cris** (env. an 4 580 ap.A) : combat fratricide entre le Clan du Loup et le Clan de la Hache, où chaque guerrier cria les noms de ses ancêtres — y compris ceux qui étaient communs aux deux clans (les deux lignées descendent en partie d'un fondateur partagé). Le Skald de l'Ours qui assista à la bataille rapporta dans un chant qu'on n'a pas conservé : *« les ancêtres ont entendu deux fois leur nom, et n'ont su quel bras tenir »*. Le combat se solda par un massacre indécis. Les deux clans, depuis, ne crient plus en commun les noms partagés — chacun a élagué sa lignée pour éviter le doublon. Cette élagation rituelle est tenue pour normale ; aucun Skald moderne n'admet qu'elle soit le résultat d'un traumatisme.
-
-- **Le Cri Court de Brenna** (an 4 240 ap.A, soit après la Bataille du Fjord Gelé) : selon les chants les plus anciens, Brenna Croc-de-Glace, après la victoire du Fjord Gelé, *raccourcit* le Cri du Cairn. Avant elle, on criait jusqu'à dix-sept générations d'ancêtres avant un combat — un Cri qui pouvait durer une demi-heure. Brenna réduisit le rituel à *trois noms* : son père, son grand-père, le fondateur du clan. Cette réduction est officiellement attribuée à la nécessité tactique (un Cri trop long retarde l'engagement). Une lecture marginale, qu'aucun Skald n'a consigné par écrit, voudrait que Brenna ait *cessé d'entendre* les ancêtres au-delà de la troisième génération et qu'elle ait codifié son propre déficit en règle universelle. Le Cri actuel est, dans cette lecture, le résidu d'une perte non avouée. Génération après génération, les Cris se sont encore raccourcis sans être renommés ; certains jeunes guerriers du Clan du Cerf, aujourd'hui, ne crient qu'un seul nom — celui d'un grand-père qu'ils ont connu vivant.
-
----
-
 ## Gouvernement — La Confédération Clanique
 
 - **Les Jarls** : Chaque clan a son Jarl, choisi par le combat, l'acclamation ou l'héritage selon les coutumes de chaque clan.

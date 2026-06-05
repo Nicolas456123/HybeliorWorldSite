@@ -21,30 +21,6 @@ needs_review_for: []
 
 ---
 
-## Histoire
-
-### Les origines — Les Premiers Semeurs
-
-Les plaines fertiles de Sylthara furent les premières terres cultivées d'Ilthara. Là où d'autres peuples bâtissaient des forteresses ou creusaient des mines, les Syltharis plantaient. Les premiers colons étaient des agriculteurs venus de tous horizons, attirés par une terre d'une fertilité prodigieuse — un sol noir et riche, irrigué par un réseau de rivières douces et réchauffé par un climat d'une douceur rare en Ilthara.
-
-Ces communautés paysannes s'organisèrent naturellement autour des saisons. Le calendrier agricole devint le calendrier social : les fêtes de semailles au printemps, les travaux d'été, les récoltes d'automne et le repos hivernal rythmaient la vie de chaque hameau. Aucun roi ne fut nécessaire — les anciens de chaque village se concertaient pour gérer les ressources communes, et les conflits se réglaient autour d'un repas partagé plutôt que par les armes.
-
-### L'Ère de la Famine
-
-La prospérité de Sylthara attira la convoitise. Des armées étrangères envahirent les plaines, réquisitionnant les récoltes et réduisant les paysans au servage. Pendant trois générations, Sylthara fut pillée par des seigneurs de guerre qui traitaient le grenier d'Ilthara comme leur garde-manger personnel.
-
-La résistance vint d'une manière inattendue. Les paysans, incapables de combattre les armées, utilisèrent la seule arme qu'ils maîtrisaient : la terre. Ils cessèrent de cultiver. En silence, sans violence, sans déclaration de guerre, les champs de Sylthara restèrent en friche. Les occupants, habitués à vivre des récoltes syltharies, furent frappés par la famine qu'ils avaient eux-mêmes imposée. Un à un, les seigneurs de guerre partirent, incapables de nourrir leurs armées sur une terre volontairement stérile.
-
-### La Grande Moisson
-
-La libération de Sylthara fut scellée par un événement quasi-miraculeux. Après le départ du dernier occupant, la matriarche Amaryl, doyenne des Semeurs, convoqua toutes les communautés pour la première plantation collective. Chaque village envoya ses meilleurs semeurs, et pendant un jour et une nuit, les plaines furent ensemencées dans un effort coordonné sans précédent.
-
-La récolte qui suivit fut la plus abondante de l'histoire de Sylthara — si abondante que les greniers débordèrent et que le surplus fut offert gratuitement aux nations voisines. Cette Grande Moisson devint le symbole de Sylthara : la terre récompense ceux qui la respectent, et punit ceux qui l'exploitent.
-
-Amaryl refusa tout titre de reine et instaura la Confédération Agricole — un gouvernement de fermiers, par des fermiers, pour des fermiers. Ce système perdure, et Sylthara reste la nation la plus pacifique d'Ilthara.
-
----
-
 ## Gouvernement — La Confédération Agricole
 
 Le gouvernement de Sylthara est aussi simple et robuste que sa culture :

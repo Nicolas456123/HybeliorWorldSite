@@ -21,30 +21,6 @@ needs_review_for: []
 
 ---
 
-## Histoire
-
-### Les origines — Les Premiers Rêveurs
-
-La région qui allait devenir Vytharia était autrefois un lieu que les peuples d'Ilthara évitaient. Les voyageurs qui s'aventuraient dans ces vallées brumeuses rapportaient des expériences troublantes : des visions de personnes disparues, des paysages qui changeaient entre deux clignements d'yeux, des conversations avec des êtres qui n'existaient pas. La plupart fuyaient, terrifiés. Mais certains — les visionnaires, les marginaux, les fous — y restèrent.
-
-Ces premiers habitants découvrirent que la frontière entre le rêve et la réalité était exceptionnellement mince dans cette région, probablement en raison de la proximité du Lac des Rêves au cœur d'Ilthara. En apprenant à naviguer cette frontière plutôt qu'à la craindre, ils développèrent une maîtrise unique des illusions et de la perception.
-
-La première communauté organisée fut fondée par une femme nommée Vytha, une illusionniste d'un talent si extraordinaire que ses créations prenaient vie — littéralement. Ses disciples l'élevèrent au rang de prophétesse et bâtirent autour d'elle une société où la perception comptait plus que la matière.
-
-Les annales vythariennes situent ici l'aube la plus profonde du pays : la lignée **Vael'Somnix** et les civilisations oniriques des **Rêves Nommés** — la Synarchie des Voiles, les Principautés de l'Éveil Interdit, l'Empire Somnambule de Keth-Anur et la Confédération des Rêves Nommés — dont les ruines et les rites légués courent sous toute l'histoire de Vytharia. C'est de cette strate ancienne que descendent les traditions des **Noctari** et du **Somnium Vigil**.
-
-### L'Ère de l'Illusion Libre
-
-Pendant des siècles, Vytharia fut un lieu de liberté absolue — chacun pouvait façonner sa propre réalité. Les illusionnistes les plus puissants vivaient dans des palais de rêve qui n'existaient que pour ceux qui savaient les voir. Mais cette liberté engendra le chaos. Des guerres d'illusions éclatèrent, où des quartiers entiers étaient piégés dans des cauchemars rivaux. La folie se répandit, car les habitants ne parvenaient plus à distinguer le réel de l'imaginaire.
-
-### Le Voile du Rêve
-
-Face à l'effondrement de la société, les sept illusionnistes les plus puissants de Vytharia se réunirent et accomplirent un acte de magie sans précédent : ils tissèrent le Voile du Rêve — une barrière semi-perméable entre le monde éveillé et le monde onirique. Le Voile ne supprima pas les illusions mais les régula, créant un cadre où le rêve et la réalité coexistent harmonieusement.
-
-Les sept illusionnistes devinrent les premiers membres de l'Oligarchie des Voilés — un gouvernement de mystiques chargé de maintenir le Voile et d'empêcher le chaos de revenir. Depuis ce jour, Vytharia est, selon ses habitants, un lieu où le rêve a force de réalité tout en restant contrôlé ; où les illusions sont partout, mais ordonnées ; et où la frontière entre ce qui est et ce qui semble être est, comme aiment à le dire les Voilés, une question de perspective.
-
----
-
 ## Gouvernement — L'Oligarchie Mystique
 
 Le gouvernement de Vytharia est aussi insaisissable que le pays lui-même :

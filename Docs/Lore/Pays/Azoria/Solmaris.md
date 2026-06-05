@@ -21,36 +21,6 @@ needs_review_for: []
 
 ---
 
-## Histoire
-
-### Les origines — Les Pêcheurs des Tièdes
-
-Solmaris n'a pas été fondée — elle a été *réveillée*. L'archipel sud-est d'Azoria est une chaîne de volcans anciens, dont une douzaine sont encore tièdes (sources thermales actives, sols chauffés par voie géothermique). Pendant des millénaires, ces îles furent habitées par des **pêcheurs des tièdes** — communautés saisonnières qui hivernaient dans les criques chaudes et migraient en été vers les bancs de poissons. Aucune nation, aucune religion, juste des familles élargies.
-
-L'apport doctrinal vint d'**Onara** au début de l'Âge du Lien, quand des pêcheurs et des prêtres Roteri remontèrent par la côte sud-est en cherchant à comprendre pourquoi les saisons étaient si tranchées dans cette zone. Ils trouvèrent les pêcheurs des tièdes. Ils leur enseignèrent à *lire* le cycle — quatre mois de soleil franc, huit mois d'hivernage gris-bleu, retour annuel garanti et redouté. Les pêcheurs apprirent. Ils gardèrent leur autonomie.
-
-### Le Premier Retour (an 0 du Sillage actuel)
-
-L'événement fondateur de Solmaris en tant que nation n'est pas une bataille ni une fondation — c'est un *retour*. À la fin de l'Arrachement (an 0 du Sillage), les îles solmariennes furent l'une des rares zones d'Azoria à conserver leurs sources thermales actives — la déstabilisation cosmologique avait modifié les flux géothermiques sur le continent, mais les volcans solmariens, plus anciens et plus profonds, avaient absorbé le choc. Le **Premier Retour** désigne la saison estivale qui suivit immédiatement l'Arrachement : pour la première fois depuis vingt ans (durée du Grand Silence post-Arrachement), le soleil revint au solstice d'été à l'heure prévue par les calendriers anciens.
-
-Les pêcheurs des tièdes, témoins, comprirent que **le Cycle continuait** — que le grand traumatisme cosmologique n'avait pas brisé le Retour. Ils choisirent ce moment pour fonder, avec les Roteri d'Onara, une nation : non pour défendre un territoire, mais pour *honorer le Retour*. La doctrine du Cycle, qui jusque-là était apport étranger, devint identité collective.
-
-Cette fondation par gratitude est, à l'échelle d'Hybélior, une exception : la plupart des nations se fondent par fuite, par conquête, ou par accord de circonstance. Solmaris s'est fondée parce qu'**elle voulait remercier**. Cette posture initiale a coloré toute son histoire ultérieure — pour le meilleur (douceur des mœurs, hospitalité), et pour le pire (refus presque systémique de penser ce qui pourrait *empêcher* le prochain Retour).
-
-### Les Cendres de Velkmis (an +89 du Sillage)
-
-L'événement qui a révélé la fragilité de la nation est l'**éruption de Velkmis** en l'an +89. L'île de Velkmis — l'une des plus peuplées de l'archipel, neuf cents habitants au moment des faits — connut une éruption volcanique majeure et imprévue. Les Veilleurs solaires (clergé Roteri) avaient manqué les signes ; les pêcheurs locaux les avaient vus, sans savoir comment les transmettre à temps. L'île fut détruite. Six cent quatre-vingt-deux morts. Trois cents survivants évacués vers les îles voisines.
-
-Le Conclave qui suivit fut dominé par une question : **pouvait-on encore parler de Cycle quand certains Retours apportaient la mort** ? La réponse doctrinale, élaborée pendant trois ans de débats, fut : *oui, le Cycle continue — Velkmis est un *« cycle local »* qui s'est *fermé*, à distinguer du Cycle général qui se maintient*. Cette réponse a été acceptée doctrinalement. Elle a aussi été le commencement, pour Solmaris, d'une longue série de **rationalisations** qui permettent à la doctrine de tenir face à des événements qui devraient la mettre en cause.
-
-### Solmaris aujourd'hui
-
-Solmaris est une confédération d'**archipels** (chaque archipel regroupe trois à cinq îles habitées) reliés par la mer pendant l'estive et isolés en hivernage. La nation prospère modestement : ses exports principaux sont le sel rouge volcanique (utilisé dans les conserves d'Azoral et de Mosrack), le soufre (utilisé en pharmacie à Lumasar et Iskara), et les plantes thermales (recherchées par les médecins du continent voisin). Sa monnaie est faible mais sa balance commerciale est positive en estive.
-
-Le **Premier Veilleur du Cycle** actuel est **Larem Solnir-Astralis** (an 188 — ), prêtre Roteri de la lignée des Veilleurs solaires d'Astralis. Il préside le Conclave des Douze Lumières et orchestre les **Veillées du Premier Rayon** annuelles. Sa réputation : doux, méthodique, *« croit »*. Il est le quatorzième Premier Veilleur depuis la fondation. Aucun Premier Veilleur n'a jamais été destitué ; tous sont morts en charge ou ont *renoncé* (rite de retrait honorable). Larem n'a pas renoncé. Il vieillit.
-
----
-
 ## Gouvernement — La Confédération des Douze Lumières
 
 - **Le Conclave des Douze Lumières** : douze Veilleurs représentant les douze îles principales (chaque île principale parle pour son archipel local). Réunion à chaque équinoxe — au printemps à Astralis (avant l'estive), à l'automne à Solnir (avant l'hivernage). Décisions par *consensus* — formule prudente : pas d'unanimité ni de majorité, mais accord *« tel que le Cycle ne sera pas perturbé »*. Les votes contestés sont reportés au prochain équinoxe.

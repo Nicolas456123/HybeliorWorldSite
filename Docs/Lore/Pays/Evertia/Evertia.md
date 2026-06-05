@@ -21,32 +21,6 @@ needs_review_for: []
 
 ---
 
-## Histoire
-
-### L'Île Primordiale
-
-Evertia est un paradis, et comme tout paradis, elle cache ses griffes. L'île émergea des eaux il y a des millénaires, portée — selon les druides — par le souffle conjoint de Spiritus et Arborius. La terre était si fertile que les premiers arbres atteignirent des hauteurs colossales en quelques générations, formant des canopées si denses que le soleil ne touchait jamais le sol en certains endroits.
-
-Les premiers habitants étaient des druides nomades venus du continent voisin, attirés par une énergie spirituelle d'une intensité sans pareille. Ils découvrirent que chaque pierre, chaque ruisseau, chaque racine semblait murmurer. Les esprits de la nature, disaient-ils, étaient plus proches ici qu'en aucun autre lieu du monde.
-
-### Le Rituel du Grand Éveil
-
-L'événement fondateur d'Evertia est le Rituel du Grand Éveil — une cérémonie colossale menée par les treize Archidruides originels, qui durèrent sept jours et sept nuits sans interruption. Leur but était d'éveiller la conscience de l'île elle-même, de la transformer en entité vivante et protectrice.
-
-Le septième jour, la terre trembla. Les racines des arbres géants s'entrelacèrent pour former un labyrinthe naturel autour du cœur de l'île. Les rivières changèrent de cours pour créer des barrières infranchissables. Et au centre, une cascade immense jaillit du sommet d'une falaise de cristal — là où serait bâtie Caëspia.
-
-Selon la doctrine druidique, le Rituel a véritablement éveillé l'île ; selon des chroniqueurs étrangers de Mosrack et de Tyndara, les druides ont simplement catalysé des forces naturelles qu'ils ne comprenaient pas entièrement. Aucune lecture ne fait consensus hors d'Evertia. Ce que l'on observe en revanche, c'est qu'à partir de ce jour les sentiers se referment derrière les intrus, les brumes se lèvent sans prévenir, et les créatures de la forêt agissent comme des sentinelles coordonnées — ce que les druides lisent comme la volonté de l'île, et ce que d'autres lisent comme une coïncidence remarquable d'écosystèmes singuliers.
-
-### L'Evertia moderne
-
-Aujourd'hui, Evertia est gouvernée par l'impératrice **Vaelyndra III**, une femme à la fois adorée par son peuple et redoutée par les nations étrangères. Son époux, le roi-consort **Thaëlor**, est un stratège militaire discret mais redoutablement efficace. Ensemble, ils ont trois enfants : **Aelric** (15 ans), héritier du trône, déjà initié aux premiers rites druidiques, et les jumelles **Lysennia** et **Coralyne** (8 ans), qui montrent des affinités naturelles avec les créatures de l'île.
-
-La qualité de vie à Evertia est exceptionnelle. Les arbres fruitiers croissent en abondance, les animaux sont élevés en plein air dans des prairies immenses, et la médecine — fondée sur les plantes médicinales et le sang de créatures fantastiques — est la plus avancée du monde connu. Mais cette prospérité a un prix : le sang des créatures d'Evertia est convoité par des braconniers et des trafiquants du monde entier, et l'île doit se défendre en permanence.
-
-La méthode de défense est brutale. Les étrangers qui débarquent sans invitation sont capturés par les Gardiens du Labyrinthe et enfermés dans les dédales souterrains sous l'île. Ils n'en ressortent jamais. Certains deviennent des esclaves au service des mines de gemmes. D'autres — les plus récalcitrants — sont livrés aux bêtes sauvages des arènes souterraines.
-
----
-
 ## Gouvernement — La Monarchie Druidique
 
 Le pouvoir à Evertia repose sur deux piliers indissociables :

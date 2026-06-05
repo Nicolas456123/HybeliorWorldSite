@@ -22,32 +22,6 @@ needs_review_for: []
 
 ---
 
-## Histoire
-
-### L'Archipel Maudit
-
-Azoria — au sens du *No Man's Land*, à distinguer du continent qui porte le même nom — est un archipel de récifs, d'îlots et d'atolls situé dans une zone maritime notoirement dangereuse. Les courants y sont traîtres, les tempêtes fréquentes et les récifs de corail invisibles ont envoyé des centaines de navires par le fond au fil des siècles.
-
-L'archipel n'a jamais été colonisé volontairement. Ses habitants sont les descendants de naufragés — des marins, des marchands, des soldats et des prisonniers dont les navires se sont brisés sur les récifs. Génération après génération, ces survivants ont formé des communautés précaires, vivant de pêche, de pillage d'épaves et de commerce avec les rares navires qui s'aventurent dans leurs eaux.
-
-### L'Équilibre du Désespoir
-
-Sans gouvernement, sans ressources abondantes et sans espoir de secours, les communautés d'Azoria survivent par un équilibre fragile. Les villages les plus forts protègent les plus faibles en échange de tributs. Les chefs émergent par la force ou le charisme, mais rarement pour longtemps. La violence est courante mais rarement gratuite — chaque conflit a un enjeu concret : de l'eau douce, un site de pêche, une épave riche.
-
-### La Bataille des Gelées Éternelles (chronologie incertaine — entre an 80 et an 130 du Sillage)
-
-Selon la version qui circule à Tarnora et qui figure dans les chroniques officielles d'Azoral et Solmaris, plusieurs flottes — l'une azoralienne, l'une solmarienne, peut-être une troisième mosrackoise — se seraient affrontées dans les eaux centrales du No Man's Land pour le contrôle d'un mouillage stratégique. La bataille aurait été prise dans une tempête de glace inattendue ; aucune flotte n'aurait survécu en tant que formation militaire. Les survivants individuels auraient été absorbés par les villages locaux.
-
-Cette version est, selon les paléographes des nations voisines, *probablement vraie en grande partie*. Selon les habitants du No Man's Land, elle est *certainement fausse en certains détails* — les pertes furent moindres, des survivants tentèrent de rentrer, certains rentrèrent. Comme aucune chronique locale n'a jamais été tenue, la divergence ne peut pas être tranchée. Ce qui est sûr, c'est que **l'événement a renforcé la mauvaise réputation** de l'archipel auprès des nations organisées — réputation qui a, paradoxalement, *protégé* le No Man's Land de toute tentative sérieuse de colonisation depuis lors.
-
-### L'archipel aujourd'hui
-
-Le No Man's Land compte, en l'an 251, environ douze à quinze mille habitants répartis sur une quarantaine d'îlots habités. Treize villages atteignent une taille significative. Aucun des villages ne reconnaît l'autorité d'un autre. Des **alliances commerciales** se forment et se défont — Tarnora—Thylaria, Fyloria—Thylandor, Kelrith—Raventh — sans qu'aucune se durcisse en structure politique.
-
-L'archipel exporte (par contrebande pour l'essentiel) le sel rouge volcanique récupéré sur les épaves, le corail sculpté de Draknor, les perles dorées de Galvoria, les remèdes marins de Thylandor. Il importe (par contrebande pour l'essentiel) le grain, le métal travaillé, les tissus, les médicaments des continents.
-
----
-
 ## Gouvernement — Néant (mais pas tout à fait)
 
 Il n'y a aucune autorité centrale à Azoria-archipel. Chaque village est autonome, dirigé par quiconque a la force ou la ruse de s'imposer. Des alliances temporaires se forment contre les menaces communes — tempêtes, pirates extérieurs, famine — mais se dissolvent dès que le danger passe.

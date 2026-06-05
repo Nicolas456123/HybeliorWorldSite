@@ -7,6 +7,16 @@ needs_review_for: []
 ---
 # Histoires d'Ulinor
 
+## Les Premiers Échos --- l'arrivée et les Anciens
+
+Selon la tradition orale transmise par les chants Foedus Animae, les premiers habitants d'Ulinor furent des navigateurs venus d'un continent dont la mémoire ne conserve plus le nom. Ils perçurent en approchant des côtes un son grave et continu, rapporté comme émanant de la terre. Certains virèrent de bord. Les autres accostèrent.
+
+Ils découvrirent le Grand Canyon de l'Écho — une faille titanesque qui traverse l'île principale du nord au sud. Les sons qui y pénètrent y paraissent ne pas s'éteindre : un mot crié depuis le bord résonne pendant des jours, des semaines, parfois des mois. Le récit fondateur veut que les premiers habitants y aient entendu des voix qui n'étaient pas les leurs, dans une langue qu'ils affirmèrent comprendre sans l'avoir apprise. La lecture qui s'imposa fut qu'ils n'étaient pas les premiers : ce que les chamanes nomment les Anciens avait habité l'archipel auparavant, et avait laissé dans la pierre ce que les Écho-Guides perçoivent comme des paroles.
+
+Après la révélation de Yelthari (voir plus bas), les ruines furent lues comme des archives : chaque glyphe porterait un fragment de mémoire d'êtres ayant occupé l'archipel des millénaires plus tôt, gravant dans la pierre leur conscience en prévision de leur disparition. Dans la lecture Foedus Animae jentarienne, les Anciens sont à écouter avant d'être nommés ; les chants les distinguent à la fois des Éternels et des esprits naturels, et tiennent ce statut pour propre à Ulinor — un statut que les autres traditions du monde rapportent sans toujours s'y rallier. Les six tribus, régulièrement en conflit sur les territoires de chasse, se reconnurent dès lors un objectif commun : préserver et déchiffrer les archives des Anciens, ciment culturel que les querelles territoriales n'ont jamais défait.
+
+---
+
 ## Jentaris --- "Yelthari la Muette"
 
 Yelthari naquit sans voix. Pas sourde -- elle entendait tout. Mais les cordes vocales qui auraient du produire des mots n'en produisaient pas. Elle communiquait par gestes, par expressions, par la pression de sa main sur le bras de quelqu'un.
@@ -234,3 +244,27 @@ Le Conseil de Korindar fut perturbé par la proposition. Aucun des arguments hab
 À la quatrième session, le Conseil rejeta la proposition par épuisement. Aucun vote. Aucune motivation explicite. La proposition fut classée. Yelvenne ne réinsista pas. Elle continua son travail de cristallière. En privé, à une apprentie qu'elle formait, elle dit : *« je ne sais pas pourquoi nous le gardons. Je ne crois plus que les anciens le savaient non plus. Mais nous continuons. C'est ce que nous faisons. »*
 
 Le cristal est toujours dans la cavité scellée. Il est, en l'arc Sorin, parfaitement gardé. La temperature de la cavité est régulée par un système de ventilation entretenu par roulement par les apprentis cristalliers. La règle d'accès est stricte. Personne ne sait précisément ce qu'on garde. Personne ne le demande.
+
+---
+
+## Le Schisme de la Septième Tribu
+
+Les fragments les plus anciens des chants Folinor mentionnent, à voix basse, une septième tribu majeure dont le nom n'est jamais prononcé. À un moment situé entre l'établissement des Écho-Guides et la formation du Conseil des Six, cette tribu refusa de continuer à écouter les ruines. Elle aurait formulé que les Anciens étaient morts, simplement, et que les sons du Canyon n'étaient que sons de roche.
+
+Elle disparut. Les versions divergent : elle quitta l'archipel selon une lecture, fut absorbée selon une autre, se dispersa selon une troisième. Aucun Écho-Guide actuel ne s'en réclame. Les six tribus d'aujourd'hui sont, dans cette lecture, celles qui sont restées en parlant aux pierres. Aucun chant public n'inscrit l'épisode ; il ne survit que dans les fragments.
+
+---
+
+## La Sécheresse de la Voix
+
+Vers l'an 4 100 ap.A, selon les chroniques de Korrinor, les ruines ne résonnèrent presque plus pendant trois générations. Les Écho-Guides parvenaient encore à entendre, mais les autres pratiquants — apprentis, pèlerins, sensitifs en formation — ne percevaient plus rien. La période est rapportée comme une crise spirituelle majeure ; la Confédération hésita à se dissoudre.
+
+Vers la quatrième génération, la formulation officielle veut que les voix soient revenues. La lecture marginale que les Korrinor de la haute mine ont transmise à leurs apprentis sans la consigner dit autre chose : les voix ne revinrent pas, mais une nouvelle génération d'Écho-Guides apprit à les ajouter au silence. La sécheresse, dans cette lecture, n'a jamais cessé ; elle est seulement devenue invisible.
+
+---
+
+## Mirathi Voix-d'Ambre --- "Le Message qu'elle ne livre pas"
+
+Mirathi Voix-d'Ambre, Écho-Guide suprême de la tribu Jentar et cheffe en titre de la Confédération en l'arc Sorin, est une sexagénaire au regard perçant. Elle affirme avoir reçu un message complet des Anciens dans le Canyon — qu'elle qualifie d'avertissement — et refuse d'en livrer le contenu au Conseil des Six. Le silence alimente les tensions avec les autres chefs tribaux.
+
+Les lectures divergent : certains y voient de la prudence, d'autres une manœuvre. Une troisième lecture, marginale et que Mirathi ne dément pas explicitement, voudrait que le message n'existe pas, qu'elle l'ait inventé pour consolider sa position face à l'érosion de l'autorité Jentar — une érosion lente que les chroniques de Folindor et de Korindar enregistrent depuis trois générations sans jamais la nommer.

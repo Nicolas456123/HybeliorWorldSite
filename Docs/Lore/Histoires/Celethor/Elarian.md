@@ -25,6 +25,32 @@ C'est vrai. Mais pas ceux qu'ils imaginent.
 
 ---
 
+## La Grande Alliance — « La Longue Nuit »
+
+Avant la Grande Alliance, Elarian n'existait pas. Le nord de Celethor était un patchwork de clans rivaux, chacun tenant une vallée, un fjord ou un plateau glaciaire. En été, les clans se battaient pour les pâturages ; en hiver, pour la survie. Les plus puissants étaient les Givrés — des guerriers qui avaient appris à forger le fer dans un froid extrême, produisant l'acier bleuté qu'on appelle fer glaciaire. Mais même les Givrés ne survivaient pas seuls aux pires hivers.
+
+Le plus meurtrier de ces hivers — la Longue Nuit — dura trois ans. Les rivières gelèrent jusqu'au fond, les forêts moururent, les troupeaux périrent par milliers. Les clans, affaiblis par des décennies de guerre, faisaient face à l'extinction.
+
+C'est alors que le chef des Givrés, Hrothgar l'Ancien, proposa l'impensable : non une trêve, mais une union permanente. Les clans partageraient ressources, territoires et savoirs ; en échange, ils abandonneraient leurs querelles.
+
+La négociation fut brutale. Trois chefs refusèrent et tentèrent de prendre le pouvoir par la force. Hrothgar les vainquit en combat singulier, l'un après l'autre, sans les tuer. Il leur offrit le choix : rejoindre l'Alliance, ou mourir de froid seuls. Tous choisirent l'Alliance.
+
+---
+
+## Thaldris — « Le premier Effacement »
+
+Ce que les chroniques officielles racontent moins, c'est ce qui se passa dix ans après la Grande Alliance.
+
+Un Jarl du clan d'Aetharion — qu'aucune Tablette ne nomme aujourd'hui — trahit l'Alliance en négociant secrètement avec un clan resté hors de la Confédération. Hrothgar découvrit la trahison. Il aurait pu le tuer, comme on tuait les traîtres avant l'Alliance.
+
+Il fit autre chose. Il convoqua le Thing, exposa la trahison, et prononça la peine pour la première fois : l'Effacement. Le nom du Jarl serait retiré des registres. Sa famille le renierait. Il serait banni dans la toundra sans provisions. Mais surtout — et c'était la nouveauté — son nom ne serait plus prononcé. Sa lignée serait inscrite dans les Tablettes comme « lignée éteinte par hiver », formule administrative qui niait la trahison en niant le traître.
+
+Présenté à l'époque comme une justice plus humaine que l'exécution, l'Effacement est devenu, au fil des siècles, la peine la plus redoutée d'Elarian — bien plus que la mort. Aucun récit n'est conservé sur le destin du premier Effacé.
+
+Sa fille, restée dans son clan d'origine sous un nom de mariage, n'apprit ce qu'avait fait son père qu'à quatre-vingts ans, par un Forgeron-Thane qui l'avait reconnue à un trait du visage. Elle écrivit, dans la marge d'une Tablette dont la copie est aujourd'hui à Thaldris : « Je ne savais pas. J'aurais voulu savoir. Je ne sais pas si j'aurais voulu savoir. »
+
+---
+
 ## Frostmir — « L'Armurière et la lame brisée »
 
 Kendra forgeait à Frostmir depuis l'âge de douze ans. À quarante, elle était la meilleure armurière du clan. Ses lames ne se brisaient pas. C'était sa réputation, son identité, sa fierté.
@@ -163,6 +189,18 @@ C'est ainsi, à Elarian, qu'on transmet ce qu'on n'a pas le droit de dire : par 
 
 ---
 
+## Frostheim — « L'ordre, le refus, la règle sans recours »
+
+En l'an 213, le Jarl Krenneth de Kryostra émit l'ordre de brûler le village de Frostheim — qui refusait de payer la taxe de guerre finançant son ambition personnelle. Le sergent Valdris et vingt-six de ses soldats refusèrent. Vingt-six dirent « non ». Le vingt-septième hésita puis suivit.
+
+Ils marchèrent vers les Terres Brisées et y bâtirent un campement — le futur Valdris. Le Conseil des Jarls les effaça tous : noms retirés des registres, familles ordonnées de les renier, ration funéraire calculée comme s'ils étaient morts.
+
+Dix ans plus tard, Krenneth fut renversé par son propre fils, qui le jugeait « déshonorant pour le clan ». Le fils, Krenneth-le-Jeune, demanda au Conseil des Jarls que le nom de Valdris soit réinscrit. Le Conseil refusa : la règle de l'Effacement, lui fit-on observer, était sans recours possible. Krenneth-le-Jeune accepta cette réponse — non par soumission, mais parce qu'il avait compris, le jour de son refus, que la règle qui avait maintenu Elarian un siècle ne devait pas être pliée par lui.
+
+Certains cercles de Forgerons-Thanes tiennent cette acceptation pour la décision la plus mature qu'un Jarl ait prise depuis Hrothgar l'Ancien. Aux termes du cadre interne, elle est l'inverse : refuser de réviser une règle même après l'avoir vue tuer la chose juste qu'elle prétendait protéger. La nuance est invisible aux Elariens. Elle est gravée à Thaldris sans commentaire.
+
+---
+
 ## Frosthal — « Le Thing qui n'a pas voté »
 
 L'Effacement de Valdris fut prononcé au Thing de Frosthal en l'an 213. Mille deux cents Elariens y assistèrent. Le vote fut unanime, comme tous les votes d'Effacement — la règle veut qu'il n'y ait pas d'Effacement contesté.
@@ -188,3 +226,11 @@ Elle dit : *« Je pense que je ne savais pas pourquoi je le faisais. Je pense qu
 Le petit-fils ne comprit pas. Elle ne l'aida pas à comprendre. C'est, à Elarian, ainsi qu'on transmet ce qu'on a peut-être appris : par non-explication.
 
 Ingrid mourra en l'an 263. Sa main levée au Thing de 213 ne déclenchera jamais l'enquête. Le seuil de cinq ne sera jamais atteint. Vingt-six soldats resteront Effacés. C'est, dans la perfection juridique d'Elarian, le piège exact.
+
+---
+
+## Thaldris (an 251) — « Nous ne nous plaignons pas du froid »
+
+À l'époque du passage de Sorin Valthen, en l'an 251, la Confédération était gouvernée par le Jarl Suprême Hrothgar VII, descendant direct du fondateur. Un homme dans la cinquantaine, marqué par les hivers, lent à parler et prompt à écouter.
+
+Quand Sorin l'interrogea sur les anomalies climatiques qu'il avait observées, Hrothgar VII répondit : « nous ne nous plaignons pas du froid. » La phrase est l'une des plus citées de son règne. Gravée dans les Tablettes de Thaldris, elle s'y lit de trois manières — austérité, refus, déni. Aucune des trois n'est officielle.

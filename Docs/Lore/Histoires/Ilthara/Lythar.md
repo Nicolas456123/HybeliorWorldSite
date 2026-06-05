@@ -7,6 +7,18 @@ needs_review_for: []
 ---
 # Histoires de Lythar
 
+## Lythana --- "La Grande Migration"
+
+Lythar ne fut jamais fonde. Avant que les autres peuples d'Ilthara ne tracent des frontieres, les tribus nomades parcouraient deja les steppes et les plaines qui forment aujourd'hui son territoire. Elles ne possedaient pas la terre ; elles se deplacaient avec elle, suivant les troupeaux, les saisons et les vents. Chaque tribu etait independante, guidee par un chef choisi pour sa sagesse et son habilete a cheval. Les conflits entre tribus etaient frequents mais rarement mortels --- des courses, des joutes equestres et des concours de tir a l'arc remplacaient les batailles rangees.
+
+L'harmonie nomade se brisa quand les nations sedentaires voisines revendiquerent les plaines : Gryndor au nord, Pyrtara a l'ouest, Drakora au sud, tous grignotant les terres de paturage. Divisees, les tribus perdaient du terrain saison apres saison. Certains chefs proposerent de se sedentariser, de batir des villes et de defendre des frontieres. L'idee provoqua une guerre civile entre partisans de la sedentarisation et traditionalistes nomades : les villes naissantes furent attaquees, les troupeaux disperses, les tribus dechirees.
+
+C'est dans ce chaos que **Lythana**, cheffe de la tribu du Vent-Blanc, accomplit l'impossible. En une seule saison, elle chevaucha d'un bout a l'autre du territoire, visitant chaque tribu, defiant chaque chef en duel equestre et les battant tous --- non pour les soumettre, mais pour prouver que l'unite dans le mouvement etait possible. Elle proposa un compromis : les tribus resteraient nomades, mais se confedereraient. Un Grand Conseil se reunirait a chaque solstice d'ete dans un lieu different, et les decisions communes seraient prises collectivement. Les quelques villes existantes seraient maintenues comme points de ravitaillement et de commerce, mais aucun Lytharien ne serait jamais force de s'y installer.
+
+La Grande Migration --- le rassemblement de toutes les tribus en une seule cavalcade traversant le territoire d'est en ouest --- fut le symbole fondateur de cette confederation. Elle est rejouee chaque annee, et reste le plus grand evenement culturel de Lythar.
+
+---
+
 ## Raenoris --- "Le Premier Campement"
 
 La tradition de Lythar veut qu'une fois par generation, chaque famille fasse le Grand Parcours --- le tour complet des territoires que leurs ancetres nomades traversaient avant la sedentarisation. Trois mois. A pied ou a cheval. Sans maison.

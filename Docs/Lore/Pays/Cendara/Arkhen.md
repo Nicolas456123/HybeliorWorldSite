@@ -21,58 +21,6 @@ needs_review_for: []
 
 ---
 
-## Histoire
-
-### Avant Arkhen — Les Premiers Habitants
-
-Aïkhar et l'Archipel des Tessons n'ont jamais été *vides*. Avant le Dominat de Pyrevaste, la grande île septentrionale était peuplée de chasseurs-pêcheurs et de bergers de cendre — populations clairsemées, sans organisation politique articulée, qui pratiquaient une religiosité du feu peu structurée. Les sources de magma étaient honorées sans liturgie centrale ; la cendre était considérée comme un sol et non comme un déchet ; la pulsation d'un Mont distant n'avait pas, dans cette culture, de signification cosmologique forte.
-
-Quand le Dominat de Pyrevaste se constitue (~18 000 av.A) et étend sa souveraineté nominale sur Aïkhar, les populations locales paient un tribut symbolique en cendre triée — pratique qui survit jusqu'au présent dans certains villages d'altitude, sous forme de *paniers de cendre* envoyés annuellement aux Forge-Temples pyrevaniennes. Le tribut a perdu sa fonction politique ; il est devenu une coutume.
-
-### La Filiation de Cendre (huit siècles)
-
-Le trait le plus important de l'histoire arkhenienne n'est pas un événement, c'est un **flux**. Sur huit cents ans environ, depuis l'an Sillage 100 jusqu'à nos jours, Aïkhar et l'Archipel des Tessons ont reçu, par dizaines, par centaines, par milliers, des **exilés ignitariens** :
-
-- Forgerons en disgrâce, dépouillés de leur Sceau pour faute liturgique.
-- Voix sous les Cendres revenues *trop transformées* du Mont, retirées dans des ermitages arkheniens parce qu'aucune Forge-Temple ne savait les tenir.
-- Refondeurs hérétiques chassés de Pyrevane après querelles doctrinales mineures.
-- Apprentis ratant l'Épreuve du Feu et préférant l'exil à la honte.
-- Marins épuisés des routes royales-pyrevaniennes, atterrissant à Khoram et n'ayant plus le cœur de repartir.
-- À partir du second Sillage, des Délies de la Flamme déjà constitués comme courant, fuyant les persécutions cinderholdiennes.
-
-Cette **filiation marginale** est la fondation profonde d'Arkhen. La nation n'a pas de mythe d'origine héroïque : elle a un récit d'**accumulation des fatigues**. Quand un Arkhenien parle de ses ancêtres, il parle, sept fois sur dix, d'un homme ou d'une femme qui a *quitté quelque part* parce qu'il ou elle ne pouvait plus y rester. Cette mémoire collective de l'exil donne à Arkhen sa tonalité particulière : sobre, accueillante, peu encline à la fierté, méfiante des grands gestes.
-
-### La Constitution de l'Assemblée des Quais (Sillage 110-160)
-
-Les villages côtiers d'Aïkhar et de l'Archipel des Tessons vivent en autonomie tribale jusqu'au début du Sillage. La pression ne vient pas de Pyrevane (qui n'administre pas réellement) ni de Cendara-Royaume (qui ignore Arkhen) ; elle vient des **pirates du Détroit de Suie**, qui pillent régulièrement les navires d'Aïkhar et les ports peu défendus de l'Archipel. Pour répondre, les capitaines de port et les notables de quartier commencent, vers l'an 110, à se réunir une fois par an à **Khoram** (le Tesson le plus grand) pour mutualiser leurs défenses maritimes. La réunion s'institutionnalise progressivement.
-
-À l'an 160, l'**Assemblée des Quais** est devenue l'organe de référence de la confédération arkhenienne. Elle réunit, chaque solstice d'hiver, les représentants de chaque port et de chaque village d'altitude — environ cent vingt sièges aujourd'hui. Elle délibère sur :
-
-- La défense maritime (organisation des patrouilles, compensation des armateurs en cas de raid).
-- Les litiges interportuaires (taxes, droits de mouillage, prises de pêche).
-- La représentation diplomatique commune face à Pyrevane et Cendara-Royaume.
-- Les flux migratoires (acceptation ou refus d'arrivants en provenance de la grande île — décision rare et largement consultative).
-
-L'Assemblée n'a **aucun pouvoir exécutif**. Ses délibérations sont consignées, transmises aux ports, *appliquées si on veut*. Cette absence d'autorité contraignante est une singularité institutionnelle : Arkhen est probablement la seule nation d'Hybélior dont l'organe représentatif n'a pas le pouvoir d'imposer ses propres décisions. Cela fonctionne. Mal, parfois ; suffisamment, le plus souvent. Les ports qui refusent une décision la subissent en réputation : ils sont *« ports d'Assemblée tournée »* pendant quelques années, ce qui réduit leur trafic. Cette sanction informelle est plus efficace, à l'échelle d'une génération, qu'une force de coercition.
-
-### Khessa-aux-Mains-Calmes (an 168 - 232)
-
-La figure marquante du Sillage moyen pour Arkhen est **Khessa**, forgeronne de Khoram. Née en 168, formée à la forge par sa mère et son oncle (forgerons exilés de Pyrevane à la suite d'une querelle de procession dont les détails ont été perdus), Khessa apprend très jeune à frapper en silence — sa mère, déjà, refusait d'incanter les Forge-Liturgies. Khessa ne s'en réclame pas, ne le théorise pas, ne forme pas d'école.
-
-Son atelier, sur le quai sud de Khoram, devient connu pour la qualité de ses lames et de ses outils. Ses clients viennent d'Aïkhar entière, parfois de Pyrevane (en cachette), parfois même de Mosrack (commande discrète). On dit qu'une lame de Khessa *« tient le silence »* — qu'elle ne *résonne* pas comme les lames pyrevaniennes, qu'elle a une voix mate, profonde, sans élan. Ce trait technique — qui est probablement lié à un alliage particulier qu'elle ne révèle à personne — devient identitaire. *Tenir le silence*, à Arkhen, devient un compliment qu'on adresse à n'importe quelle œuvre — un mur, un livre, une enfant — qui *« n'a pas besoin de parler »*.
-
-Khessa est aussi, vraisemblablement, l'inventrice de la **marque de cendre froide au pli du coude**, signe distinctif des Délies de la Flamme. La marque est attestée à Khoram une génération avant qu'elle se répande dans les autres ports ; trois apprentis successifs de Khessa la portent, eux-mêmes ou leurs enfants. Khessa n'a jamais reconnu l'invention. Elle n'a jamais nié non plus. C'était sa manière.
-
-Elle meurt en 232, à soixante-quatre ans, dans son atelier, le marteau dans la main, sans Forge-Liturgie. Aucune Forge-Temple ne l'a accompagnée. Elle a été brûlée sur un bûcher de bois flotté, sur le quai même de son atelier, par sa fille adoptive et trois apprentis. La cérémonie a duré sept heures. Aucun chant. Aucune incantation. Juste le bruit du marteau, frappé une fois par minute pendant les sept heures, *par l'apprentie la plus jeune*. Cette pratique — frapper en mémoire — est devenue funéraire à Khoram pour les Délies, et de là s'est diffusée dans plusieurs ports d'Aïkhar.
-
-### L'Arkhen moderne
-
-Arkhen, aujourd'hui, est une nation **pauvre, fière de l'être, et silencieusement libre**. Sa population est d'environ vingt-cinq mille habitants sur Aïkhar, six à sept mille répartis sur l'Archipel des Tessons, et quelques centaines à Ilnara (Lorenthia et alentours). L'économie est principalement maritime — pêche, petit commerce, transport. La forge arkhenienne, peu nombreuse, a une réputation technique forte sans avoir aucune autorité doctrinale.
-
-Le gouvernement ne gouverne pas. La religion ne contraint pas. Les Délies sont presque majoritaires dans certains ports (Khoram surtout). L'Ignis Aeternum continental est *présent* sous forme de Forge-Temples mineures, dont les Maîtres locaux sont, pour beaucoup, eux-mêmes des Délies dissimulés. Cette **double appartenance** — afficher l'orthodoxie, pratiquer la dissidence — est l'une des compétences sociales les plus partagées d'Arkhen. Un visiteur orthodoxe de Pyrevane, en visite à Khoram, ne *verra* presque rien — la marque est cachée, les Forge-Liturgies sont récitées correctement, les Sceaux sont portés. C'est dans la qualité du silence, dans la longueur des saluts, dans la composition de la cendre déposée sur les seuils, que la dissidence circule. Les agents de Cinderhold qui viennent de loin en loin enquêter à Khoram repartent avec des rapports vides. *« Pas de Délies attestés. »*
-
----
-
 ## Gouvernement — La Confédération sans pouvoir
 
 ### L'Assemblée des Quais

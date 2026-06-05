@@ -7,6 +7,25 @@ needs_review_for: []
 ---
 # Histoires de Seraphia
 
+## Chronologie — Origines et dérives
+
+### Les origines — La Première Note
+Selon la tradition séraphienne, le pays fut fondé lorsqu'un moine errant nommé **Altheus** entendit, dans une grotte des montagnes de Caverana, un son si pur qu'il y reconnut l'écho de Cantor — la divinité qui, selon le Cantus Mundi, chanta le monde en existence. Altheus resta un an dans la grotte à tenter de reproduire ce son ; il en ressortit porteur d'une musique qui faisait pleurer ceux qui l'entendaient. Il attira des disciples — musiciens, peintres, sculpteurs — convaincus que l'art était le langage par lequel les mortels répondaient aux Célestes. Ils bâtirent un monastère, puis un temple, puis une ville : **Althior**, qui devint la capitale de Seraphia.
+
+### L'Ère des Cathédrales
+Pendant trois siècles, Seraphia connut un âge d'or architectural et artistique. Les théocrates — prêtres-artistes élus autant pour leur talent que pour leur piété — commandèrent la construction de cathédrales accordées pour résonner en harmonie les unes avec les autres. Les artistes affluèrent de tout Galenor, attirés par le mécénat religieux, faisant de Seraphia le cœur culturel du continent, exportateur de styles, de techniques et d'une philosophie esthétique.
+
+### Le premier Festival des Lumières et l'incendie de la troisième édition
+Le premier **Festival des Lumières** célébra l'achèvement de la Cathédrale des Lumières d'Althior, dont les vitraux composent une symphonie de couleurs changeant d'heure en heure. Sept jours et sept nuits durant, les artistes de toutes les nations de Galenor y présentèrent leurs œuvres ; l'événement devint annuel et consacra Seraphia comme capitale des arts. Lors de la **troisième édition**, un artiste tenta de « peindre avec la lumière divine elle-même » et un incendie d'origine non élucidée détruisit un quartier entier d'Althior. Les chroniqueurs séraphiens y lisent une transgression mystique ; des ingénieurs de Lumasar invoqués plus tard l'attribuèrent à des pigments expérimentaux. Depuis, chaque Festival est surveillé par les **Gardiens de la Flamme Sacrée**, ordre religieux né de cet incendie pour veiller à ce que l'art ne nuise jamais à la cité.
+
+### La Codification de la Beauté (an 110 — encore en cours)
+Vers l'an 110, sous l'influence du **Primat Calthor de Caverana**, les *Tables stellaires* de l'Ordo Caelum — jusque-là interprétées librement par les Lecteurs lors de sessions ouvertes du Concile des Étoiles — furent *fixées*. Les lectures dérogatoires furent reléguées au rang de *« Lectures Mineures »*, autorisées en privé mais interdites en chaire ; les Stellaris (prêtres-astronomes) reçurent mandat de recopier plutôt que d'interroger. Un siècle plus tard, en l'an 210, les Tables n'avaient pas changé alors que les constellations avaient bougé d'environ deux degrés de précession — assez pour décaler l'ensemble des prescriptions liturgiques. Naquit alors la **Recalibration Tacite** : chaque génération de Stellaris ajuste en silence les Tables au moment de leur recopie, sans jamais consigner l'ajustement, de sorte que les Tables semblent immuables tandis que les compétents savent qu'elles bougent. Par mimétisme, le **Cantus Mundi** codifia ses hymnes officiels et jugea suspecte toute innovation harmonique — sort qui frappa Lyra d'Yvondor (cf. *La Cantatrice et l'Écho*).
+
+### L'Ouverture par Lassitude (an 200 — depuis)
+Depuis l'an 200 environ, les **Conclaves d'évaluation** du Festival ont cessé d'écarter quoi que ce soit. La justification officielle est généreuse (« tout art est offrande ») ; l'officieuse est prosaïque : écarter un artiste, c'est risquer de le voir partir, avec ses commanditaires, vers Lumasar, Esaridia ou Kharazir, et laisser Esaridia devenir le centre de gravité culturel de Galenor. En l'an 252, à Althior, tout est admis — d'où des proverbes de marge : *« On ne refuse pas un Festival. »*, *« Le Conclave a deux yeux et n'en utilise plus qu'un. »* (cuisine d'Althior), *« Tout vaut tout, donc rien ne vaut plus. »* (école d'Otharis). Le **Schisme du Cantus** — les Chanteurs de l'Absence qui recherchent la Note Inverse, une note qui *défait*, donc qui *trie* — est la réponse symétrique à cet effacement : le retour du tranchant exclu.
+
+---
+
 ## Althior --- "Le Tableau que Personne N'acheva"
 
 Valdren Ayle prit la commande du Grand Tableau d'Althior a quarante ans. Le Conseil des Patrons voulait une oeuvre commemorant les trois cents ans de la cite --- une fresque couvrant tout le plafond de la Salle des Etoiles.

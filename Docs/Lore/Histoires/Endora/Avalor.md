@@ -7,6 +7,20 @@ needs_review_for: []
 ---
 # Histoires d'Avalor
 
+## Les origines --- "Le Pacte des Sylves"
+
+Avant Avalor, les forêts d'Endora passaient pour un territoire interdit aux yeux des peuples voisins. Les présences qui y résidaient étaient imprévisibles selon les chroniques : des voyageurs disparaissaient, des villages de lisière étaient engloutis par une végétation soudaine, des chasseurs revenaient désorientés, parlant de visages dans les arbres et de voix dans le vent. Les peuples voisins évitaient ces forêts.
+
+Un seul peuple y entra volontairement : les **Vaelori**, descendants d'ermites et de mystiques bannis pour hérésie par les royaumes voisins. N'ayant nulle part où aller, ils s'enfoncèrent dans la forêt, prêts à mourir --- et constatèrent, génération après génération, que ceux qui venaient sans armes en revenaient parfois.
+
+La fondatrice légendaire d'Avalor fut **Nyméra la Muette**, une femme qui avait perdu la parole après un traumatisme. Incapable de crier ou de menacer, elle communiquait par gestes --- et, selon la tradition vaelori, les présences de la forêt finirent par lui répondre. Nyméra passa sept années seule dans la forêt profonde, apprenant ce qu'elle décrivait comme « le langage des esprits ». Sa lecture, transmise par les premières générations : la forêt avait été éprouvée par une civilisation ancienne qui avait exploité la sylve sans retenue, et certaines présences gardaient mémoire de cette époque ; leur hostilité était une **forme de mémoire** plutôt qu'une volonté de nuire --- lecture à laquelle des théologiens d'autres traditions opposent encore aujourd'hui d'autres hypothèses (cycles climatiques, frontières d'Ères, simple territorialité animale).
+
+Nyméra fonda le **Pacte des Sylves** : les Vaelori protégeraient la forêt et ne prendraient que ce qu'elle offrirait ; en contrepartie, selon la lecture vaelori, les présences de la forêt protégeraient les Vaelori et partageraient leur savoir. Ce pacte, renouvelé chaque siècle par l'Archidruide régnant, est le fondement d'Avalor --- qu'il s'agisse, comme l'affirme la tradition, d'un accord effectif entre humains et esprits, ou, comme le suggèrent certains observateurs extérieurs, d'une discipline communautaire dont la rigueur a simplement permis d'apprendre l'écosystème.
+
+Des siècles plus tard, sous l'Archidruide **Feylara** --- une femme d'une quarantaine d'années aux yeux dont la couleur varie avec les saisons selon les chroniques --- Avalor connaît une période de prospérité traversée de tensions : les jeunes générations questionnent les restrictions du Pacte, et selon les Voix de plusieurs villages, les demandes attribuées aux esprits paraissent plus exigeantes ces dernières années --- lecture qui peut, selon les théologiens étrangers, refléter autant un changement effectif qu'une plus grande nervosité du Cercle des Murmures.
+
+---
+
 ## Crestalis --- "L'Archidruide qui perdit la voix"
 
 Avant Feylara, il y eut Theron. Archidruide pendant trente ans, Theron parlait aux esprits comme d'autres parlent a leurs enfants --- avec tendresse, autorite, patience. Sa voix etait le lien entre deux mondes. Sans lui, Avalor aurait sombre dans le silence.

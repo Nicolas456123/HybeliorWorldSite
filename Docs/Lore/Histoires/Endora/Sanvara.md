@@ -7,6 +7,16 @@ needs_review_for: []
 ---
 # Histoires de Sanvara
 
+## Aux origines — La Charte des Sept Routes
+
+Avant l'unification, le territoire de Sanvara était une mosaïque de relais indépendants en concurrence permanente. Les guerres de routes étaient fréquentes et coûteuses : plusieurs caravansérails majeurs furent détruits par leurs voisins en l'espace d'un siècle, et la sécurité des caravanes restait précaire.
+
+Vers l'an ~6 800 ap.A, sept caravansérails majeurs se réunirent à un croisement neutre — un puits sec aujourd'hui appelé le **Trône Vide** — et y signèrent la **Charte des Sept Routes**. Elle établissait quatre engagements : la libre circulation des caravanes contractuelles entre signataires ; un protocole d'arbitrage des litiges (premier embryon des Arbitres des Routes) ; une défense mutuelle en cas d'agression d'un signataire ; et le partage des relevés de routes et des cartes commerciales. Les chroniqueurs sanvariens la jugent **moins idéaliste qu'utilitaire** — chaque signataire avait calculé qu'il gagnait plus à coopérer qu'à se battre, et c'est la durabilité de ce calcul partagé qui fonde l'identité politique de Sanvara.
+
+Au fil des siècles, d'autres caravansérails rejoignirent la Charte, plusieurs fois amendée. La Confédération compte aujourd'hui vingt-trois caravansérails majeurs et plusieurs dizaines de relais affiliés sans droit de vote. Le système n'a aucune institution durable, mais il persiste depuis plus d'un millénaire — un *stable instable* dont les Sanvariens font une vertu.
+
+---
+
 ## Soltarin — « Andival, qui rendit la question »
 
 Andival naquit à Khessit en l'an 161, dans une famille de Lecteurs de Saison vael'kurashe. Sa mère lisait les puits ; son père lisait les saisons ; sa grand-mère avait formé trois générations de Lecteurs. Andival aurait dû reprendre le flambeau familial. Il choisit autre chose.

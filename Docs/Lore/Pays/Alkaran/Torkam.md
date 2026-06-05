@@ -21,40 +21,6 @@ needs_review_for: []
 
 ---
 
-## Histoire
-
-### Les Âges de Sang
-
-Avant l'unification, Torkam n'était pas un pays mais un champ de bataille. Des dizaines de tribus nomades se disputaient les oasis, les pâturages et les routes caravanières. Les guerres tribales étaient si fréquentes qu'elles avaient un nom : les **Sables Rouges** — car le désert semblait teinté du sang versé.
-
-Chaque tribu vénérait son propre esprit ancestral, et les conflits étaient souvent religieux autant que territoriaux. La tribu des Vents croyait que les esprits du ciel dominaient tous les autres. La tribu des Pierres jurait que seuls les ancêtres enterrés dans la terre avaient un pouvoir réel. La tribu des Flammes brûlait les morts et accusait les autres de blasphème.
-
-### Le Grand Cham — Zarek l'Unificateur
-
-Zarek naquit aveugle dans la plus petite tribu de Torkam — la tribu des Murmures, méprisée par tous car ses membres prétendaient entendre les voix des morts. Aveugle mais doté d'une perception surnaturelle, Zarek traversa seul le Désert du Silence — un exploit que personne n'avait jamais accompli.
-
-À son retour, il rapporta ce qu'il décrivit comme une révélation : selon ce que Zarek perçut, les esprits ancestraux des différentes tribus n'étaient pas rivaux, mais des facettes d'une même résonance ; honorer un esprit en méprisant un autre revenait, à ses yeux, à déchirer le tissu même du monde.
-
-Cette lecture, transmise sous le nom du **Grand Pacte**, devint le fondement de l'unification. Zarek ne conquit aucune tribu — il les convainquit une par une, guérissant les malades, prédisant les pluies et résolvant des conflits vieux de décennies. Il devint le premier **Grand Cham** — littéralement "Celui qui entend toutes les voix". Les chamans actuels gardent une prudence mesurée : la révélation de Zarek est tenue pour fondatrice, mais ils n'avancent pas qu'elle livre la structure du Pacte Primordial — seulement la manière dont Torkam s'accorde à ce qu'il en perçoit.
-
-### L'héritage
-
-Le Grand Cham actuel, **Nareth la Sage**, est la septième à porter le titre. C'est une femme d'une soixantaine d'années, révérée pour sa capacité à résoudre les disputes par la parole. Sous son règne, Torkam connaît une paix relative, mais les tensions entre tribus n'ont jamais vraiment disparu — elles couvent sous la surface.
-
-### La Maison qui paie (an 100 environ — encore en cours)
-
-Ce que les chants d'Olkanoris ne racontent pas, et que les Tisseuses de Maison répètent en privé sans l'avoir formulé, est ceci : **les ancêtres coûtent**. L'autel familial demande de l'eau, du pain, de l'encens ; le Feu des Noms exige du bois ; les chaînes médiumniques (rituels les plus complexes) exigent des objets, du temps, des chamans formés. Une famille pauvre tient un autel modeste et récite peu de noms — l'âme de leurs morts *« glisse »*, disent les chants, ce qui est une manière polie de dire qu'elle s'efface plus vite. Une famille riche tient un autel chargé, paie des Tisseuses pour des chaînes annuelles, et garde ses morts *vifs* sur six générations.
-
-Le résultat, jamais dit en ces termes : **les ancêtres des riches durent plus longtemps que les ancêtres des pauvres**. Cette inégalité n'est pas une dérive ; elle est inscrite dans la pratique liturgique depuis aussi loin que la mémoire torkamite remonte. Le clergé Foedus Animae l'admet à mi-voix lors des conseils des Tisseuses, et la formule en privé comme *« le Pacte ne fait pas de quartier »*. Hors des cercles de chamans, elle n'est jamais formulée.
-
-Une dérive plus récente, depuis trois générations : certaines tribus pauvres (notamment des marges nord-ouest, et la branche de la tribu des Pierres qui veille Myrthoris) **transmettent le travail de récitation** de leur ancêtres à des Tisseuses extérieures, en échange de bétail, de cuir, de service. C'est le seul moyen, pour ces familles, de tenir leurs morts. Mais c'est aussi un transfert de loyauté : les Tisseuses qui récitent finissent par se substituer aux familles dans le rapport à l'ancêtre. La Tisseuse devient *l'instance* de la mémoire familiale. Quelques familles, après deux générations de cette pratique, ont oublié les noms qu'elles confiaient — elles les *louent* aux Tisseuses, qui les leur récitent à la demande contre paiement renouvelé. La parenté est devenue contrat.
-
-Aucune voix officielle ne dénonce ce glissement. La Grande Chamane Nareth en est informée. Sa position privée, rapportée par une apprentie, est qu'*« on ne dénonce pas le Pacte par le Pacte »* — formule sibylline qui peut signifier qu'elle ne veut pas, qu'elle ne peut pas, ou qu'elle juge plus dangereux d'éclater le système que de le laisser dériver.
-
-Une figure ancienne, **Veska Drennar** (canonique, cf. *[[Foedus Animae]]*), Tisseuse repentie qui parcourt les villages reculés d'Ulinor et d'Alkaran depuis +78 jusqu'à sa mort, a traversé Torkam à plusieurs reprises pendant ses années d'errance. Ses passages ont laissé peu de trace officielle ; les chamans des Murmures les plus âgés en gardent un souvenir mêlé. Ce qu'elle leur disait, quand elle s'asseyait à leurs autels, n'a jamais été consigné. Quelques Veilleuses des Errants à Olkanoris reconnaissent encore en elle *« une voix qui n'a pas voulu d'écho »*.
-
----
-
 ## Gouvernement — La Théocratie Tribale
 
 Le pouvoir à Torkam est un équilibre entre le spirituel et le tribal :

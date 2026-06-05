@@ -7,11 +7,33 @@ needs_review_for: []
 ---
 # Histoires de Ventera
 
+## Soltharis --- « Le Premier Roi-Cavalier »
+
+Les premiers peuples de Ventera étaient des nomades montés, suivant les troupeaux sauvages à travers les plaines balayées par le vent. La propriété terrienne leur était étrangère : la terre appartenait au vent, et le vent à personne.
+
+Le changement vint quand les peuples voisins — Trinoria à l'est, Solena au sud — empiétèrent sur les plaines. Acculés, habitués à fuir plutôt qu'à combattre, les cavaliers trouvèrent un chef en **Soltharis le Vif**, qui proposa une solution radicale : unir les bandes, fonder des villes-relais permanentes et élire un roi parmi les chefs.
+
+Soltharis fut le premier Roi-Cavalier. Il fonda la ville qui porte son nom et instaura la **monarchie élective** : le roi est élu par les chefs des quatre régions, et son mandat dure jusqu'à sa mort ou jusqu'à ce qu'il soit jugé inapte à monter en selle. Un roi qui ne peut plus chevaucher ne peut plus régner.
+
+---
+
+## La Révolte des Cavaliers --- « Lyria des Vents »
+
+Trois générations après Soltharis, le roi **Marven III** tenta d'imposer l'hérédité : son fils, médiocre cavalier mais fin politicien, devait lui succéder sans élection. Les chefs des quatre régions refusèrent.
+
+Marven III mobilisa une armée de mercenaires étrangers pour écraser la rébellion. Dispersés et moins nombreux, les cavaliers de Ventera auraient dû perdre — mais leur mobilité était leur arme. Pendant six mois, ils harcelèrent l'armée sans jamais livrer bataille rangée, frappant ses lignes d'approvisionnement, épuisant ses chevaux, l'attirant dans des embuscades dans les plaines herbeuses.
+
+La révolte s'acheva quand Marven III, abandonné par ses mercenaires affamés et démoralisés, fut désarçonné en duel à cheval par la cavalière **Lyria des Vents** — une femme, fait exceptionnel pour l'époque. Lyria refusa la couronne mais imposa deux réformes : la monarchie élective serait inscrite dans la loi, et les femmes auraient un droit de vote et de candidature égal aux hommes.
+
+C'est l'épisode fondateur de l'identité ventérienne. Le Roi-Cavalier actuel, **Aldren de Plenera**, élu pour son charisme et son habileté en selle autant que pour son sens politique, voit son mandat contesté par la cheffe de Rystera, **Dame Nyra**, qui l'accuse de favoriser Plenera au détriment des autres régions.
+
+---
+
 ## Soltharis --- "La Premiere Chevauchee Inversee"
 
 La tradition de Ventera veut que le premier voyage d'un cavalier soit vers l'est --- vers le lever du soleil, vers le commencement du cycle. Cette tradition date de la fondation de la cite.
 
-Lyrin avait dix-sept ans quand elle monta sur son premier cheval. Le matin de la Premiere Chevauchee, elle fit tourner sa monture vers l'ouest.
+Trois ans après la Révolte des Cavaliers, en l'an 174, Lyrin avait dix-sept ans quand elle monta sur son premier cheval. Le matin de la Premiere Chevauchee, elle fit tourner sa monture vers l'ouest.
 
 Son instructeur cria. Les anciens se leverent. Sa famille se couvrit le visage.
 

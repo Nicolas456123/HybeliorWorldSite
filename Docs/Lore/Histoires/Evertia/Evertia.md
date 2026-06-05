@@ -15,6 +15,16 @@ Aucune n'est récompensée pour sa lucidité. Plusieurs paient. Quelques-unes so
 
 ---
 
+## Repères canoniques
+
+**Origines.** Evertia émergea des eaux il y a des millénaires, portée — selon les druides — par le souffle conjoint de Spiritus et d'Arborius. Ses premiers habitants furent des druides nomades venus du continent voisin, attirés par une énergie spirituelle d'une intensité sans pareille.
+
+**Le Rituel du Grand Éveil.** Cérémonie fondatrice menée par les treize Archidruides originels, sept jours et sept nuits sans interruption, dans le but d'éveiller la conscience de l'île et d'en faire une entité vivante et protectrice. Le septième jour : la terre trembla, les racines des arbres géants s'entrelacèrent en labyrinthe, les rivières changèrent de cours, et la cascade de Caëspia jaillit. La doctrine druidique y lit l'éveil de l'île ; des chroniqueurs étrangers de Mosrack et de Tyndara y lisent plutôt des forces naturelles catalysées sans être comprises. Aucune lecture ne fait consensus hors d'Evertia.
+
+**Famille impériale (présent).** L'impératrice **Vaelyndra III** détient le pouvoir temporel. Son époux, le roi-consort **Thaëlor**, est un stratège militaire discret mais redoutablement efficace. Leurs trois enfants : **Aelric** (15 ans), héritier déjà initié aux premiers rites druidiques, et les jumelles **Lysennia** et **Coralyne** (8 ans), qui montrent des affinités naturelles avec les créatures de l'île.
+
+---
+
 ## Caespia — « La Chute de la Cascade »
 
 L'imperatrice Vaelyndra III avait toujours su que le paradis exigeait du sang. Ce qu'elle n'avait pas prevu, c'est que ce serait le sien.

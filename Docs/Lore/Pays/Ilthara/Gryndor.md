@@ -21,32 +21,6 @@ needs_review_for: []
 
 ---
 
-## Histoire
-
-### Les origines — L'Âge des Chroniqueurs
-
-Gryndor ne fut pas fondé par un guerrier ou un prêtre, mais par un archiviste. Dans les premiers âges d'Ilthara, alors que les peuples du continent se déchiraient pour des territoires, un groupe de savants, d'artisans et de chroniqueurs se retira dans les montagnes cristallines du centre d'Ilthara pour y préserver le savoir accumulé par les civilisations naissantes.
-
-Le premier Chroniqueur, Aldwyn le Sage, établit un principe fondateur : tout ce qui existe mérite d'être consigné, compris et préservé. Sous sa direction, les montagnes furent creusées pour y aménager des bibliothèques souterraines, des ateliers d'artisanat et des salles d'étude. Les réfugiés affluèrent — non pas des guerriers fuyant le combat, mais des penseurs fuyant l'ignorance.
-
-Au fil des générations, cette communauté de savants devint un royaume. Aldwyn refusa de prendre le titre de roi, mais ses descendants furent moins modestes. La monarchie s'installa naturellement, portée par le respect que les habitants vouaient à la lignée du fondateur.
-
-### Le Déclin et la Ruine
-
-Gryndor connut des siècles de prospérité intellectuelle, devenant la référence en matière de savoir dans tout Ilthara. Mais le savoir attire la convoitise. Une coalition de seigneurs de guerre des nations voisines, désireux de s'emparer des cristaux magiques des montagnes de Gryndor, envahit le royaume.
-
-La guerre fut brève et dévastatrice. Gryndor, peuple de savants et non de soldats, fut submergé. Les bibliothèques furent pillées, les ateliers saccagés, les cristaux arrachés des montagnes avec une brutalité qui provoqua des effondrements catastrophiques. Le royaume fut réduit à des ruines fumantes, et les envahisseurs repartirent avec leur butin, laissant derrière eux un peuple brisé.
-
-### La Restauration de Gryndor
-
-Mais Gryndor ne mourut pas. Le roi Theldryn III, survivant du massacre, rassembla les savants dispersés et lança un projet titanesque : la Restauration. Pendant un siècle, les Gryndoriens reconstruisirent patiemment leur royaume, pierre par pierre, livre par livre.
-
-La Restauration ne fut pas qu'une reconstruction physique — ce fut une renaissance philosophique. Theldryn comprit que le savoir sans la capacité de le défendre est un trésor offert au premier pillard venu. Il créa la Garde Cristalline, un ordre militaire composé de savants-guerriers maîtrisant aussi bien la lame que le grimoire. Il forgea des alliances diplomatiques avec les nations voisines, rendant Gryndor indispensable par son expertise plutôt que vulnérable par ses richesses.
-
-La Restauration est célébrée chaque année comme la renaissance du royaume, et le peuple de Gryndor porte dans sa mémoire collective la cicatrice du Déclin — un rappel constant que le savoir doit être protégé autant que cultivé.
-
----
-
 ## Gouvernement — La Monarchie Traditionnelle
 
 Le gouvernement de Gryndor est un mélange de tradition monarchique et de méritocratie savante :

@@ -642,3 +642,15 @@ L'inspecteur resta silencieux longtemps. Puis il dit : « C'est le don le plus c
 Andren haussa les épaules. « On ne choisit pas ses dons. On choisit ce qu'on en fait. »
 
 Il est toujours à Drethorn. Ses élèves réussissent toujours. Et lui, chaque nuit, entre dans des rêves magnifiques qu'il ne peut jamais garder pour lui-même.
+
+---
+
+## Invorial — « La Bonne Foi au Service d'une Règle Injuste » (an 251–252)
+
+En l'an 251, un cartographe étranger nommé Sorin Valthen, tout juste banni des Bibliothèques de Kharazir, se présenta à l'Académie d'Invorial. Il voulait que la République des Plumes — l'organe éditorial de Lumasar — publie une cartographie sur laquelle il avait travaillé sept ans. Il fut reçu par le Premier Lecteur Verian Soth.
+
+L'entretien dura deux heures. Verian écouta avec une attention réelle, prit des notes, posa des questions précises, reconnut in petto la qualité du travail. Puis il expliqua, avec une politesse qui ne pouvait pas être feinte, que la règle de Lumasar voulait qu'aucune publication étrangère ne soit examinée par la République des Plumes sans lettre de créance d'une Bibliothèque accréditée. Sorin avait été révoqué ; sa lettre de créance était caduque. Verian ne pouvait pas déroger.
+
+Sorin écrivit plus tard : « Le décourageant, ce n'est pas la mauvaise foi. C'est la bonne foi mise au service d'une règle injuste. » La phrase circula sous le manteau dans certains cercles érudits, sans être attribuée. C'est l'un des résumés les plus dangereux qu'un visiteur ait jamais faits du pays.
+
+En l'an 252, Verian Soth est toujours Premier Lecteur. Il a refusé depuis deux autres dossiers similaires, appliquant la règle correctement à chaque fois. Il a vieilli. On dit, parmi ses subordonnés, qu'il dort moins. On ne dit rien d'autre.

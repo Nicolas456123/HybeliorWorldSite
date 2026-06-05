@@ -35,6 +35,16 @@ Hesgarn la Première mourut au quinzième hiver. Aucune cérémonie. Son nom est
 
 ---
 
+## Les vagues d'expéditions — *« Ils passent, ils ne reviennent pas »*
+
+À partir du IIIe siècle du Sillage, Noravia cesse d'être seule. Une série d'expéditions venues prospecter Cestra fait escale dans la crique, sans jamais s'y établir. Le Conseil tient un registre minimal de tous les passages ; il ne tient pas de registre des morts, *« car les morts ne reviennent pas à Noravia »*.
+
+La première de ces vagues est liée à la **Guerre du Sable** (chronologie incertaine, milieu du IIIe siècle), à laquelle se trouva mêlée une école arcanistique dont le contact avec Noravia ne survécut pas à sa dissolution. Suivirent, vers la fin du IIIe siècle, les **expéditions Valkren** et leurs analogues — celles dont Sorin Valthen, plus tard, viendrait consulter les chemises. Puis vinrent, au IVe siècle, les **cartographes individuels** qui marquent la mémoire récente de la colonie : Aldric Valthen (an 220) et son fils Sorin (an 231).
+
+Le Conseil n'intervient dans aucune de ces entreprises. Il délivre des permis temporaires, encaisse les taxes en denrées, consigne les départs — et laisse une page vierge pour les retours qui n'ont pas lieu.
+
+---
+
 ## Le Registre de Maintien — *« Pages arrachées »*
 
 Le **Registre de Maintien** est un cahier non relié, dont les pages sont ajoutées chaque année. Sa première page date d'environ l'an 8 280 ap.A — soit cent quatre-vingts ans après la fondation, quand le Conseil décida qu'il fallait *« commencer à consigner »*. Tout ce qui précède est tradition orale.

@@ -21,32 +21,6 @@ needs_review_for: []
 
 ---
 
-## Histoire
-
-### Les origines — Les Fils de la Côte
-
-Haldria est née de la mer. Les premiers habitants de cette côte découpée et brumeuse étaient des pêcheurs et des marins qui tiraient leur subsistance des eaux capricieuses d'Ilthara. La côte haldrienne est traîtresse — des falaises abruptes, des récifs cachés, des brumes soudaines — et seuls les navigateurs les plus habiles survivaient.
-
-Très tôt, ces marins se tournèrent vers les étoiles. Dans un monde où la brume pouvait envelopper un navire en quelques minutes, les constellations étaient le seul repère fiable. Les pêcheurs devinrent des astronomes par nécessité, et les connaissances stellaires se transmirent de génération en génération, devenant le fondement d'une culture unique.
-
-Le premier roi de Haldria, Haldros le Navigateur, unifia les communautés côtières en cartographiant les étoiles avec une précision sans précédent. Sa Grande Carte Stellaire — gravée sur des plaques de métal poli — devint le trésor le plus précieux du royaume et le symbole de l'autorité royale.
-
-### L'Âge des Brumes
-
-Pendant des siècles, les marins de Haldria se contentèrent de longer les côtes d'Ilthara. Mais au-delà des eaux côtières s'étendait un phénomène inexplicable : les Brumes Éternelles — une barrière de brouillard si dense et si permanente qu'aucun navire ne pouvait la traverser. Les marins qui s'y aventuraient perdaient tout repère, tournaient en rond pendant des jours et revenaient épuisés — quand ils revenaient.
-
-Les Brumes coupaient Ilthara du reste du monde maritime, limitant le commerce et l'exploration. Elles furent reçues, selon les époques, comme une malédiction divine, et les prêtres d'Ordo Caelum y lisaient une barrière qu'ils attribuaient à Celestia pour protéger Ilthara du monde extérieur. D'autres traditions, notamment Via Ventus, lisaient ces mêmes Brumes comme un phénomène d'Aerion — épreuve réservée à ceux qui ne savaient pas écouter le vent.
-
-### La Traversée des Brumes
-
-La reine Sylveira, souveraine ambitieuse et astronome brillante, refusa cette fatalité. En étudiant les mouvements des étoiles pendant des années, elle découvrit un motif que personne n'avait vu : les Brumes n'étaient pas uniformes. Elles s'amincissaient en des points précis, à des moments précis, suivant un cycle lié aux constellations.
-
-Sylveira assembla une flotte et, guidée par ses calculs stellaires, lança la Traversée des Brumes. Pendant sept jours, la flotte navigua dans un brouillard si épais que les marins ne voyaient pas leurs propres mains. Sylveira ne quitta jamais le pont, les yeux rivés sur les rares étoiles visibles à travers les déchirures du brouillard.
-
-La flotte émergea de l'autre côté — la première à le faire dans l'histoire connue. Ce qu'elle trouva au-delà reste un secret jalousement gardé par la famille royale, mais Sylveira revint transformée. Elle renforça la monarchie, développa la marine et fit de Haldria la puissance maritime incontestée d'Ilthara. Les routes à travers les Brumes — connues uniquement de la famille royale et de quelques capitaines triés sur le volet — sont le secret stratégique le plus précieux de Haldria.
-
----
-
 ## Gouvernement — La Monarchie Héréditaire
 
 Le gouvernement de Haldria est stable et structuré :

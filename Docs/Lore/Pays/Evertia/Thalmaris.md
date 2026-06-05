@@ -22,32 +22,6 @@ needs_review_for: []
 
 ---
 
-## Histoire
-
-### L'Ère du Silence
-
-Avant Thalmaris, la région était connue sous le nom de **Terres Muettes** — non pas parce qu'il n'y avait pas de bruit, mais parce que les peuples qui y vivaient avaient oublié leurs histoires. Des guerres incessantes avaient détruit les bibliothèques, tué les aînés et dispersé les familles. Une génération entière grandit sans connaître son passé.
-
-Ce vide culturel engendra une crise existentielle collective. Sans histoires, les peuples n'avaient pas d'identité. Sans identité, ils n'avaient pas de raison de coopérer. Le chaos s'installa — non pas la guerre, mais l'apathie, le repli, l'indifférence.
-
-### Le Chant des Anciens
-
-La légende raconte qu'un voyageur aveugle nommé **Valdren le Trouvère** arriva dans les Terres Muettes portant un instrument étrange — une harpe dont les cordes vibraient seules. Valdren s'installa sur une colline et commença à chanter. Pas des chansons — des **histoires**. Des récits si vivants, si détaillés, si émouvants que les auditeurs pleuraient, riaient et se souvenaient de choses qu'ils n'avaient jamais vécues.
-
-Valdren chanta pendant trente jours et trente nuits. Il raconta l'histoire de chaque clan, de chaque famille, de chaque héros oublié. Aucune source ne s'accorde sur la manière dont il connaissait ces histoires — les prêtres de Cantus Mundi affirment que la musique elle-même les lui dictait, que le monde chante sa propre histoire à ceux qui savent écouter ; les chroniqueurs étrangers proposent qu'il avait collecté ces récits durant des décennies de voyage avant d'arriver dans les Terres Muettes ; les Foedus Animae présents dans la région à l'époque y voient une transmission des âmes ancestrales par la voix d'un médium aveugle.
-
-Quand Valdren se tut enfin, les peuples des Terres Muettes s'étaient retrouvés. Ils fondèrent Thalmaris — "Le Lieu du Chant" — et élurent Valdren comme premier Roi-Barde.
-
-### L'Ère Dorée et le règne d'Aelorys IV
-
-Aujourd'hui, Thalmaris est l'un des centres culturels d'Hybélior. Pendant trois décennies, la Reine-Barde **Elyndra III** gouverna avec une voix d'or et un esprit acéré. Sous son règne, Thalmaris devint le médiateur attitré des conflits entre nations — car qui oserait refuser l'invitation d'un peuple qui peut transformer votre défaite en chanson immortelle ?
-
-Elyndra III ne dort plus depuis trois ans avant son abdication. Elle reste éveillée nuit après nuit, composant frénétiquement, persuadée qu'un esprit du Somnium Vigil lui envoie des visions d'un cataclysme imminent. Elle abdique officiellement en 250, à 67 ans, en faveur de son fils aîné **Aelorys IV**, qu'elle déclare *« plus apte à entendre que je ne suis encore capable d'écouter »*. La formulation est étrange ; elle est restée. Aelorys IV règne depuis cette date — son titre officiel comporte la mention de **Premier Mécène des Arts**, qu'il porte avant celle de Roi (ce que Sorin Valthen note expressément lors de son passage en 252). Il a renforcé considérablement le financement de l'Académie du Cantus, au point que le budget de l'Académie dépasse aujourd'hui celui de l'armée — situation que Sorin a documentée dans ses notes.
-
-Elyndra III, après abdication, vit retirée à Galdaris dans une cellule de l'Académie. Elle continue de composer. Elle reçoit peu. Selon les rumeurs qui circulent à Ostarith, elle cherche encore *le chant qui pourrait l'empêcher* — sans qu'on sache de quoi.
-
----
-
 ## Gouvernement — La Monarchie Bardique
 
 Le pouvoir à Thalmaris repose sur la parole et le talent :

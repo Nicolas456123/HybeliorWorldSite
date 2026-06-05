@@ -21,48 +21,6 @@ needs_review_for: []
 
 ---
 
-## Histoire
-
-### Les origines — Les Pêcheurs du Rivage
-
-Solena fut d'abord une terre de pêcheurs. Ses côtes découpées, ses criques profondes et ses eaux poissonneuses attirèrent des communautés qui vivaient de la mer bien avant que le mot « nation » n'ait un sens. Ces pêcheurs, pragmatiques et endurants, développèrent des embarcations de plus en plus perfectionnées, passant du radeau au canot, du canot à la barque, de la barque au navire.
-
-La mer forgea leur caractère : les Soléniens sont patients mais opportunistes, prudents mais audacieux quand le vent tourne. Ils ne craignent pas l'inconnu — ils le cherchent.
-
-### L'Âge des Grandes Explorations
-
-L'événement qui transforma Solena de confédération de pêcheurs en puissance maritime fut l'**Âge des Grandes Explorations** — une période de deux siècles durant laquelle les navigateurs soléniens cartographièrent les côtes de Galenor, découvrirent des îles inconnues, établirent des routes commerciales maritimes et repoussèrent les limites du monde connu.
-
-L'Amiral Etheira la Grande, dont le nom fut donné à la région orientale, mena la plus célèbre de ces expéditions : un voyage de trois ans qui circumnavigua le continent tout entier. Elle revint avec des cartes, des spécimens de plantes et d'animaux inconnus, et la conviction que le monde était bien plus vaste que quiconque ne l'imaginait.
-
-L'Âge des Explorations enrichit prodigieusement Solena. Les familles de navigateurs qui avaient financé les expéditions devinrent les plus puissantes du pays, formant l'oligarchie qui gouverne encore aujourd'hui.
-
-### La Guerre des Marées
-
-Le pouvoir attire la convoitise, et l'oligarchie solénienne ne fut pas épargnée. Trois familles maritimes — les Oranthor, les Vyndral et les Myrathis — se disputèrent le contrôle des routes commerciales dans un conflit naval connu comme la **Guerre des Marées**. Pendant cinq ans, les flottes soléniennes s'entre-déchirèrent, détruisant plus de navires qu'aucun ennemi étranger ne l'avait jamais fait.
-
-La paix vint d'un accord pragmatique : les trois familles se partagèrent les routes commerciales et fondèrent le **Conseil des Amiraux**, un gouvernement collégial où chaque grande famille dispose d'un siège. Le Conseil des Amiraux persiste à ce jour, élargi à sept familles, mais les rivalités sous-jacentes n'ont jamais disparu.
-
-### L'Expulsion Tetramor (an 130, effacée des registres)
-
-L'élargissement du Conseil de trois à sept familles a une histoire que Solena préfère ne pas raconter. Sept *autres* familles — au nombre desquelles **les Tetramor** — étaient candidates. Six furent admises. La septième — Tetramor — fut **expulsée**, leur siège ré-attribué, leurs biens confisqués, leur nom gratté des registres officiels. La cause précise n'apparaît dans aucune archive accessible. Les indices recoupés (par les rares érudits qui s'en sont préoccupés, dont un cartographe étranger nommé Sorin Valthen lors de son passage à Oranthor en l'an 251) suggèrent que les Tetramor avaient *publié* — au sens d'avoir rendu accessibles à des marins ordinaires — des relevés cartographiques que les six autres familles voulaient garder en secret commercial. Le crime des Tetramor n'était pas la concurrence ; c'était la *transparence*.
-
-Les descendants des Tetramor vivent encore, croit-on, dans l'archipel de Tetramis (qui porte leur nom — c'est l'unique trace officielle qui ait survécu). Le village de **Nydris** abrite, selon les rumeurs des plongeurs de **Falnor**, des familles qui *« savent »* depuis cinq générations sans plus prétendre revendiquer quoi que ce soit. Aucune action politique ; aucune menace pour le Conseil. Juste une mémoire entretenue dans des langues que personne d'autre ne parle.
-
-C'est, à l'échelle solénienne, l'incarnation de ce qu'est le Conseil aujourd'hui : *un dispositif qui a effacé les voix qui menaçaient son monopole sur l'horizon, et qui prétend ensuite que l'horizon est libre*.
-
-### La Carte Interdite d'Etheira (an 174 — toujours scellée)
-
-L'Amiral Etheira la Grande — fondatrice mythique du pays, navigatrice qui circumnavigua le continent — entreprit un dernier voyage à 67 ans, en l'an 174. Elle revint quinze mois plus tard, seule sur un canot, son navire et son équipage perdus. Elle se présenta directement à la Guilde des Cartographes, déposa une carte qu'elle avait dessinée pendant le voyage de retour, demanda qu'elle soit **scellée**, et mourut trois semaines plus tard d'une infirmité que les soigneurs n'identifièrent pas.
-
-La carte montre une terre au-delà des océans connus, à l'ouest de Vesperilia, aux confins des courants permanents. Elle est annotée d'un seul mot, écrit de la main même d'Etheira : *« Retournez. »*
-
-La Guilde a respecté son vœu. La carte est dans un coffre scellé sous le Palais des Amiraux. Aucun copiste n'y a accédé. Aucune expédition n'a été envoyée vérifier. C'est, à Oranthor, **le seul cas connu où Solena a accepté de ne pas partir**.
-
-Cette acceptation est, à l'échelle de la culture solénienne, philosophiquement énorme. Elle est, en pratique, contournée chaque jour : les jeunes capitaines de Vyndralith continuent de partir vers l'ouest, ignorant ou méprisant l'avertissement, et certains ne reviennent pas. Le Conseil des Amiraux, lorsqu'on lui demande pourquoi il ne publie pas la carte d'Etheira, répond invariablement que *« la fondatrice a demandé qu'elle reste scellée »*. Ce qui est vrai. Et qui dispense de la question : *pourquoi a-t-elle écrit Retournez ?*
-
----
-
 ## Gouvernement — L'Oligarchie Maritime
 
 Le pouvoir à Solena appartient à ceux qui possèdent les navires :

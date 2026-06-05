@@ -7,6 +7,24 @@ needs_review_for: []
 ---
 # Histoires d'Elarath
 
+## Repères chronologiques — De Morveth à la Cité-État
+
+Avant Elarath, il y avait **Morveth** : une confédération de douze villes portuaires du sud-ouest d'Onara, organisée pendant près de deux siècles (de l'an -180 environ jusqu'à l'an 47) autour d'un **Conseil des Quais** qui se réunissait alternativement dans chaque cité-membre. Aucune ville n'imposait sa volonté aux autres ; les routes commerciales étaient partagées par roulement et les disputes arbitrées par tirage au sort entre Conseillers des cités non concernées.
+
+L'équilibre s'effondra par succès : la **Ligue des Marchands de Tyndara**, en grandissant, offrit des contrats préférentiels aux ports de Morveth pris individuellement. En une génération, la moitié des cités-membres quittèrent la Fédération pour des arrangements bilatéraux — **Vornaeth** (aujourd'hui absorbée par Tyndara, intégrée à la zone de Portharis), **Drelmais** (basculée dès l'an 41, six ans avant la Fragmentation, devenue comptoir tyndarien), **Halfras** (port-marionnette). La **Fragmentation officielle** est datée de l'**an 47** : le Conseil des Quais se réunit pour la dernière fois, ne put réunir le quorum de neuf cités sur douze, et les membres restants *dissolurent* la Fédération plutôt que de continuer avec une légitimité minée.
+
+**Elarath ne rejoignit pas Tyndara.** La décision fut prise par un Conseil restreint d'environ quarante personnes, dont les noms furent gravés sur la **Pierre des Quarante**, placée dans la cour de l'Hôtel des Guildes en l'**an 49**. Les Quarante rédigèrent la **Charte de la Petitesse** (formellement la *Charte des Voisinages*), qui pose trois principes : **aucune croissance non-nécessaire** (pas d'annexion, pas de fusion), **aucune monnaie propre** (la cité utilise les Deniers de Mer, alliage de cuivre et d'argent, plutôt que de frapper la sienne), **aucune armée permanente** (seule une milice tournante de marins est autorisée, sans académie ni garnison). Ces trois principes ont tenu deux cents ans, contestés en interne mais jamais modifiés.
+
+Trois crises ont éprouvé la Petitesse :
+
+- **An 102 — La Tentation de Vornaeth** : la cité voisine, en difficulté sous tutelle tyndarienne, proposa de revenir dans le giron d'Elarath. Le Conseil refusa après deux mois de débats, au motif que cette annexion ferait basculer Elarath dans une autre catégorie politique. Vornaeth fut définitivement absorbée par Tyndara ; le refus resta contesté pendant deux générations.
+- **An 178 — La Guerre Économique des Sels** : Mosrack, en pleine industrialisation, tenta de monopoliser le sel en achetant les Pointes Salées par intermédiaires. La Guilde du Sel découvrit la manœuvre et bloqua les ventes ; Tyndara intervint discrètement, ne voulant pas perdre un comptoir neutre. La crise se résolut par un **accord à trois** (Mosrack, Tyndara, Elarath) établissant Elarath comme **zone de change neutre** — base de sa position internationale actuelle, garantie par un traité réécrit tous les vingt ans.
+- **An 224 — Les Émeutes du Pain** : une mauvaise récolte couplée à une suspension temporaire des importations tyndariennes provoqua une famine partielle. Les pêcheurs des îles du Cordon, qui avaient du poisson, **refusèrent d'augmenter leurs prix** ; cet acte collectif jamais formellement organisé calma les émeutes en quelques jours. Une **Guilde de la Solidarité Maritime**, créée *a posteriori*, en garde le souvenir sans le formaliser.
+
+En l'an 251, l'Archonte tournant en titre est **Selina Marrest**, élue par les Neuf Guildes pour cinq ans non renouvelables (voir « L'Archonte qui ne voulait pas l'être »). La cité compte alors environ 50 000 habitants permanents.
+
+---
+
 ## Quartier des Trois Lampes — « Le Changeur et la Petitesse »
 
 Havrel Tassen tenait la boutique du milieu, rue des Guildes. Trois marches en contrebas, une porte basse, un comptoir de chêne usé que son grand-père avait poncé à la main. Sur le comptoir, deux balances, trois casiers, un boulier et un petit sablier qu'il retournait avant chaque conversation longue — non pour mesurer le temps, mais pour signaler aux clients qu'ils pouvaient parler.

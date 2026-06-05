@@ -7,6 +7,18 @@ needs_review_for: []
 ---
 # Histoires de Haldria
 
+## Les fondations — Haldros, les Brumes et la Traversée
+
+Haldria est née de la mer : ses premiers habitants étaient les pêcheurs et marins de la côte découpée et brumeuse d'Ilthara, devenus astronomes par nécessité — dans la brume, les constellations étaient le seul repère fiable, et le savoir stellaire se transmit de génération en génération.
+
+Le premier roi, **Haldros le Navigateur**, unifia les communautés côtières en cartographiant les étoiles avec une précision sans précédent. Sa **Grande Carte Stellaire**, gravée sur des plaques de métal poli, devint le trésor le plus précieux du royaume et le symbole de l'autorité royale.
+
+Pendant des siècles, les marins se contentèrent de longer les côtes : au-delà s'étendaient les **Brumes Éternelles**, une barrière de brouillard permanente qui coupait Ilthara du reste du monde maritime, limitant commerce et exploration. Les prêtres d'Ordo Caelum y lisaient une barrière dressée par Celestia pour protéger Ilthara ; Via Ventus y lisait une épreuve d'Aerion réservée à ceux qui ne savaient pas écouter le vent.
+
+La reine **Sylveira**, souveraine ambitieuse et astronome, refusa cette fatalité. En étudiant les mouvements des étoiles pendant des années, elle découvrit que les Brumes n'étaient pas uniformes : elles s'amincissaient en des points et à des moments précis, suivant un cycle lié aux constellations. Elle assembla une flotte et, guidée par ses calculs stellaires, lança **la Traversée des Brumes** — sept jours dans un brouillard total. Sa flotte fut la première de l'histoire connue à émerger de l'autre côté. Sylveira revint transformée, renforça la monarchie et la marine, et fit de Haldria la puissance maritime incontestée d'Ilthara. Les **routes à travers les Brumes**, connues uniquement de la famille royale et de quelques capitaines triés, restent le secret stratégique le plus précieux du royaume.
+
+---
+
 ## Hekorinth --- "L'Astre qui Manquait"
 
 Les astronomes de Hekorinth cartographient les constellations depuis la fondation de la cite. Chaque etoile a un nom, une position, une signification dans les tables de navigation et de prophecie de l'Ordo Caelum.

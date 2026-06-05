@@ -21,48 +21,6 @@ needs_review_for: []
 
 ---
 
-## Histoire
-
-### Les Premiers Échos
-
-Selon ce que transmettent les chants Foedus Animae locaux, avant même que les tribus n'aient porté de nom, il y avait les voix. Les premiers habitants d'Ulinor — selon la tradition orale, des navigateurs venus d'un continent dont la mémoire ne conserve plus le nom — perçurent le chant en approchant des côtes. Un son grave, continu, que leur lecture rapporte comme émanant de la terre. Certains virèrent de bord. Les autres accostèrent, guidés, dit la tradition, par une curiosité plus forte que la peur.
-
-Les premiers arrivants découvrirent le **Grand Canyon de l'Écho** — une faille titanesque qui traverse l'île principale du nord au sud. Selon les voyageurs et les Écho-Guides qui y ont passé du temps, les sons qui y pénètrent y *paraissent ne pas s'éteindre* : un mot crié depuis le bord résonne pendant des jours, des semaines, parfois des mois. Selon le récit fondateur, les premiers habitants y entendirent des voix qui n'étaient pas les leurs — des mots dans une langue dont aucun vivant ne se rappelait l'usage, mais que ceux qui les recevaient affirment avoir comprises sans les apprendre.
-
-La lecture qui s'est imposée parmi les tribus est qu'ils n'étaient pas les premiers. Selon cette lecture, ce que les chamans nomment **les Anciens** avait habité l'archipel auparavant — et avait laissé, dans la pierre, ce que les Écho-Guides perçoivent aujourd'hui comme des paroles.
-
-### La Révélation des Anciens
-
-Pendant des générations, selon les chroniques tribales, les tribus se sont contentées d'écouter. Puis vint **Yelthari la Muette**, une chamane que les chants décrivent comme née sans voix. Incapable de parler, elle développa, selon les sources Jentar, une sensibilité aux sons que ses contemporains tenaient pour exceptionnelle. Là où les autres percevaient des murmures confus dans le Canyon, les chants disent que Yelthari distinguait des phrases, des instructions, des avertissements.
-
-Elle guida sa tribu — les Jentar — vers une ruine enfouie sous la jungle occidentale. À l'intérieur, des murs couverts de glyphes que les sources rapportent comme vibrant au toucher et émettant ce qui était entendu comme des notes musicales. Yelthari posa ses mains sur chaque glyphe, un par un, et les ruines, selon le récit Jentar, s'illuminèrent.
-
-Ce que Yelthari rapporta changea, dans la lecture ulinorienne, le rapport des tribus à leur archipel : les ruines, selon les Écho-Guides depuis lors, sont à entendre comme des **archives**. Chaque glyphe, dans cette tradition, est lu comme porteur d'un fragment de mémoire — des souvenirs attribués à des êtres qui auraient occupé l'archipel des millénaires auparavant, et qui auraient gravé dans la pierre ce que les chamans nomment leur conscience, en prévision de leur propre disparition.
-
-Selon la lecture Foedus Animae transmise par les Écho-Guides Jentar, les Anciens sont à *écouter* avant d'être nommés ; les chants tribaux les distinguent à la fois du registre des Éternels et de celui des esprits naturels, et tiennent leur statut pour propre à Ulinor — un statut que les autres traditions du monde rapportent et discutent sans toujours s'y rallier. Selon cette lecture, leur sagesse continue de résonner.
-
-Yelthari devint la première **Écho-Guide**, c'est-à-dire, dans le vocabulaire local, la première chamane à lire les ruines comme mémoire transmissible. Chaque tribu envoya ses sensitifs dans les ruines, et la tradition des Écho-Guides s'établit. Les tribus, dont les chroniques rapportent qu'elles étaient en conflit régulier sur les territoires de chasse, se reconnurent un objectif commun : préserver et déchiffrer ce que les Écho-Guides nomment les archives des Anciens.
-
-### Ulinor aujourd'hui
-
-La Confédération tribale, selon les observateurs continentaux, tient mieux qu'on l'attendrait d'une structure aussi diffuse. Le rapport partagé aux ruines des Anciens, dans la lecture des Écho-Guides, sert de ciment culturel que les querelles territoriales n'ont pas, jusqu'à présent, défait. Six tribus majeures contrôlent les six régions de l'archipel, chacune ayant en charge un ensemble de ruines.
-
-La cheffe actuelle de la Confédération, dans la lecture Jentar, est **Mirathi Voix-d'Ambre**, Écho-Guide suprême de la tribu Jentar. Sexagénaire au regard perçant, elle affirme avoir reçu un message complet des Anciens — qu'elle qualifie d'avertissement. Elle refuse, à ce stade, d'en livrer le contenu, ce qui alimente les tensions avec les autres chefs tribaux. Selon les versions, certains lisent ce silence comme prudence, d'autres comme manœuvre. Une troisième lecture, marginale et que Mirathi ne dément pas explicitement, voudrait que le « message » n'existe pas et qu'elle l'ait inventé pour consolider sa position face à la lente érosion de l'autorité Jentar — érosion que les chroniques de Folindor et de Korindar enregistrent depuis trois générations sans la nommer.
-
-Les deux îles satellites — Nylor au nord et Serenth au sud — ajoutent à la culture ulinorienne des registres distincts. Nylor abrite les Druides de l'Écho, mystiques que la tradition locale rattache à un usage cultivé de la résonance sonore. Serenth, sauvage et tenue par les tribus pour dangereuse, est lue comme terre d'épreuve : peu y mettent les pieds.
-
-### Tournants historiques refoulés
-
-Trois épisodes que les chroniques tribales mentionnent à voix basse mais qu'aucun Écho-Guide officiel n'a inscrit dans les chants publics :
-
-- **Le Schisme de la Septième Tribu (an inconnu, antérieur à la Confédération moderne)** : il existait, selon les fragments des chants Folinor les plus anciens, une septième tribu majeure dont le nom n'est jamais prononcé. Selon ces fragments, la tribu refusa, à un moment situé entre l'établissement des Écho-Guides et la formation du Conseil des Six, de continuer à *écouter* les ruines. Elle aurait formulé que les Anciens étaient morts, simplement, et que les sons du Canyon étaient sons de roche. Elle disparut — *quitta l'archipel*, selon une lecture ; *fut absorbée*, selon une autre ; *se dispersa* selon une troisième. Aucun Écho-Guide actuel ne s'en réclame. Les six tribus actuelles sont, selon cette lecture, *celles qui sont restées en parlant aux pierres*.
-
-- **La Sécheresse de la Voix (env. 4 100 ap.A)** : pendant trois générations, selon les chroniques de Korrinor, les ruines *ne résonnèrent presque plus*. Les Écho-Guides parvenaient encore à entendre, mais les autres pratiquants — apprentis, pèlerins, sensitifs en formation — ne percevaient plus rien. Cette période est rapportée comme une crise spirituelle majeure ; la Confédération hésita à se dissoudre. Puis, vers la quatrième génération, *les voix revinrent* — formulation officielle. La lecture marginale que les Korrinor de la haute mine ont transmise à leurs apprentis sans la consigner : les voix ne revinrent pas, mais une nouvelle génération d'Écho-Guides apprit à *les ajouter* au silence. La sécheresse, dans cette lecture, n'a jamais cessé. Elle est seulement devenue invisible.
-
-- **L'Affaire Selvane (an 187)** : Selvane, Écho-Guide jentarienne, déclara publiquement à Xerathis qu'elle n'avait jamais entendu une seule voix dans le Canyon en quarante ans de pratique. Elle posa sa Pierre de Mémoire au bord du gouffre et descendit y vivre trois mois. Elle remonta indemne, sereine, en disant simplement : *« je n'ai rien entendu, et c'est suffisant »*. L'affaire fut classée comme *crise de foi tardive*. Selvane fut écartée sans cérémonie, autorisée à continuer sa vie comme citoyenne ordinaire. Elle mourut huit ans plus tard à Vorthar, sans être ré-intégrée. Les apprentis qu'elle avait formés sont, à ce jour, soit silencieux sur l'épisode, soit ostentatoirement plus pieux que la moyenne.
-
----
-
 ## Gouvernement — La Confédération Tribale
 
 - **Les Chefs de Tribu** : Chaque tribu choisit son chef selon ses propres traditions — combat rituel, consensus des anciens, ou héritage matrilinéaire selon les cas.

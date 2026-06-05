@@ -149,32 +149,6 @@ Une remarque que les voyageurs lettrés notent souvent dans leurs carnets : Nora
 
 ---
 
-## Histoire
-
-### La fondation (~8 100 ap.A)
-
-Noravia fut fondée par un petit groupe d'expatriés en majorité torkamites et skaldoriens — quelques familles, un capitaine, deux Foedus Animae itinérants — qui cherchaient un endroit où se mettre à l'abri d'une crise politique sur leur continent d'origine. Leur choix de Cestra fut, selon la tradition de la colonie, **délibérément pessimiste** : un endroit où personne ne viendrait les déranger. Ils prévoyaient d'y mourir tranquilles, et ils sont restés.
-
-Voir [[../../Histoires/Cestra/Noravia|Histoires/Cestra/Noravia]] pour le récit détaillé de la fondation.
-
-### Les premiers hivers
-
-Les trois premiers hivers furent décrits comme *« les seuls qui aient compté »* dans les chroniques noviennes. Une partie significative du groupe initial mourut. Les survivants, peu nombreux, codifièrent les règles qui régissent encore la colonie aujourd'hui : la règle des trois hivers, l'économie de retenue, la politique d'accueil sans intégration forcée.
-
-### Les vagues d'expéditions (Êra VII)
-
-À partir du IIIe siècle du Sillage, Noravia voit passer une série d'expéditions venues prospecter Cestra : la Guerre du Sable (chronologie incertaine, milieu du IIIe siècle), les expéditions Valkren et leurs analogues (fin du IIIe siècle), les cartographes individuels du IVe siècle, dont **Aldric Valthen** (an 220) et **Sorin Valthen** (an 231 — voir arc Sorin ch. 37). Le Conseil tient un registre minimal de tous les passages. Il ne tient pas de registre des morts — les morts ne reviennent pas à Noravia.
-
-### Les pressions des chancelleries
-
-Chaque génération voit des **propositions** des chancelleries voisines — Endora, Alkaran, occasionnellement Lumasar — pour étendre les permis miniers, établir des protectorats, relâcher la politique de retenue. Le Conseil refuse. Les refus sont brefs, non argumentés, et formulés en termes de *capacité*. Les chancelleries persistent ; le Conseil persiste à refuser. Cette routine est maintenant ancienne ; aucune des deux parties ne s'en surprend plus.
-
-### Aujourd'hui
-
-La colonie s'est légèrement étendue mais reste sous le millier d'habitants. Elle accueille épisodiquement des expéditions scientifiques, des chamanes en transit, des marchands qui négocient des permis temporaires de prospection. Le Conseil de Maintien actuel est dirigé de fait par Hesgarn la Sage, troisième mandat, qui veille à ce que les politiques d'accueil ne fluctuent pas avec l'envie du moment.
-
----
-
 ## Relations extérieures
 
 | Pays / Région | Relation |

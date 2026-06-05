@@ -21,34 +21,6 @@ needs_review_for: []
 
 ---
 
-## Histoire
-
-### Les origines — Les Enfants de la Canopée
-
-Warenthor occupe la jungle la plus dense et la plus ancienne d'Ilthara — une forêt tropicale si vaste et si épaisse que la lumière du soleil n'atteint jamais le sol en certains endroits. Les premiers habitants de cette jungle n'étaient pas des conquérants venus s'installer, mais des nomades qui s'y réfugièrent pour échapper aux guerres et aux famines du continent.
-
-La jungle les accueillit — ou plutôt, elle ne les tua pas immédiatement, ce qui, en Warenthor, est une forme d'hospitalité. Les survivants apprirent à vivre avec la forêt plutôt que contre elle. Ils étudièrent les plantes comestibles, les animaux dangereux, les cours d'eau cachés et, surtout, ce qu'ils nommèrent les esprits.
-
-Car en Warenthor, ce que les habitants nomment "esprits" n'est pas une croyance abstraite : on rapporte des manifestations. Selon les chroniques warenthoriennes, des arbres semblent bouger la nuit, des rivières changent de cours sans raison apparente, et des voix murmurent dans le vent humide. Les premiers Warenthoriens apprirent à écouter ces voix et à y répondre, développant ce qu'ils décrivent comme une relation symbiotique avec la jungle elle-même. Les naturalistes étrangers proposent diverses lectures de ces phénomènes, sans qu'aucune ne fasse consensus.
-
-### L'Ère des Tribus Séparées
-
-Pendant longtemps, Warenthor n'était pas un pays mais un ensemble de tribus indépendantes, chacune occupant un secteur de la jungle et vivant selon ses propres coutumes. Les tribus se connaissaient à peine — la jungle était si dense que voyager d'une communauté à l'autre prenait des semaines — et les contacts étaient rares et souvent hostiles.
-
-Chaque tribu avait sa propre relation avec les esprits de son territoire. Certaines tribus vénéraient les esprits des arbres, d'autres ceux des rivières, d'autres encore ceux des animaux. Cette diversité engendrait des conflits lorsque les territoires spirituels se chevauchaient.
-
-### L'Éveil de la Jungle
-
-L'événement qui unifia Warenthor est rapporté par la tradition orale comme aussi terrifiant que fondateur. Selon les récits warenthoriens, un jour, sans avertissement, la jungle entière s'éveilla : des arbres se mirent à bouger, des rivières à rugir, des animaux à agir de concert. Les esprits, jusque-là discrets selon la lecture locale, se manifestèrent avec une intensité que les chroniques décrivent comme écrasante — silhouettes de lumière verte entre les troncs, visages dans l'écorce, yeux dans l'eau.
-
-Selon la lecture warenthorienne, cet Éveil n'était pas une attaque mais un appel : ce que les chamanes perçurent comme les esprits aurait été éprouvé par un mal inconnu venant des profondeurs — peut-être lié aux Marécages de Noyrath. Les chamanes rapportent qu'une seule voix humaine pouvait répondre, et que les tribus divisées étaient incapables de s'accorder.
-
-Le chaman Warenthos, de la tribu du Serpent-Vert, marcha seul à travers la jungle éveillée — selon ce qu'on raconte, parlant à chaque esprit, apaisant chaque arbre — et convainquit les autres tribus de le suivre. Sous sa guidance, les tribus se confédérèrent en un seul peuple et répondirent à ce que les chamanes nomment l'appel de la jungle. Le mal souterrain fut repoussé — les détails sont volontairement gardés vagues dans la tradition orale — et selon la chronique, les esprits scellèrent un pacte avec les humains de Warenthor.
-
-Warenthos fut proclamé premier Roi-Chaman, et la monarchie tribale fut fondée sur un principe que les fidèles tiennent pour sacré : le roi sert la jungle, et la jungle sert le roi.
-
----
-
 ## Gouvernement — La Monarchie Tribale
 
 Le gouvernement de Warenthor est un mélange de pouvoir monarchique et de tradition tribale :

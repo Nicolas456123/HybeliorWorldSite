@@ -21,46 +21,6 @@ needs_review_for: []
 
 ---
 
-## Histoire
-
-### Les Fondations dans la Glace
-
-Selon la tradition caélorienne, Caeloria n'a pas été fondée comme on fonde une ville — elle a été révélée. Les chroniques racontent que les premiers habitants d'Azoria étaient des nomades errant sur la banquise, survivant à peine dans un monde de blanc et de silence. Ils n'avaient pas de foyer, pas de destination. Le froid les tuait lentement.
-
-Un soir de solstice d'hiver, alors qu'une tempête de neige menaçait d'anéantir un dernier groupe de survivants, ce que les chroniques sacrées appellent *l'Ouverture du Ciel* se produisit : les nuages s'écartèrent au-dessus d'une côte rocheuse que les nomades n'avaient pas remarquée jusqu'alors, et les étoiles parurent former un motif — ce que les anciens lurent comme une flèche pointant vers la côte. Que le motif ait existé objectivement ou que le regard désespéré des survivants l'ait composé, les chroniques ne tranchent pas.
-
-Ils suivirent le signe. Sur la côte, ils trouvèrent des falaises percées de grottes naturelles, chauffées par des sources thermales souterraines. Un refuge au milieu de l'étendue glacée. Les nomades s'y installèrent et nommèrent l'endroit Caeloria — *« le don du ciel »*.
-
-### L'Intervention Divine
-
-Trois générations plus tard, Caeloria était devenue un royaume naissant — prospère par les standards d'Azoria, ce qui signifiait simplement que ses habitants ne mouraient pas de froid. Mais la prospérité attira l'attention. Des hordes de pillards venus des terres intérieures — des nomades restés sauvages — déferlèrent sur la côte caélorienne.
-
-Le roi **Aldren le Juste** rassembla ses guerriers, mais ils étaient en infériorité écrasante. La bataille semblait perdue d'avance. La nuit précédant l'assaut, Aldren monta seul au sommet de la plus haute falaise de Caeloria. Selon les chroniques sacrées, il ne pria pas en suppliant — il s'adressa au ciel comme à un débiteur :
-
-> *« Vous nous avez guidés ici. Vous avez ouvert le ciel pour nous montrer le chemin. Si nous mourons demain, votre don n'aura servi à rien. Alors faites quelque chose — ou admettez que les étoiles ne sont que des cailloux lumineux. »*
-
-À l'aube, une tempête d'une violence inouïe se leva sur le campement des envahisseurs ; les Caéloriens, à quelques lieues de distance, ne ressentirent qu'une brise légère. Quand la tempête se dissipa, des pillards il ne restait que du givre et du silence. Que la coïncidence ait été météorologique, qu'elle ait été l'effet d'une voix entendue par-dessus le Pacte, ou qu'elle relève d'autre chose encore — les chroniques de Caeloria ne distinguent pas, et leur tradition n'a pas besoin de la distinction.
-
-Cet événement — que les Caéloriens nomment **l'Intervention Divine** — transforma le royaume. Le peuple, déjà pieux, bascula dans une ferveur religieuse absolue. Les prêtres, qui n'étaient jusqu'alors que des conseillers, devinrent les véritables dirigeants. La lignée royale ne disparut pas, mais elle se soumit volontairement au clergé. Le roi devint le **Bras des Cieux** — un exécutant militaire au service de la volonté divine telle qu'interprétée par les oracles.
-
-### L'Édit de Celestia (~9 350 ap.A — sept siècles avant le Sillage actuel)
-
-L'événement qui a donné à Caeloria sa structure profonde n'est pas l'Intervention Divine — c'est l'Édit. Sept siècles après la fondation, le **Premier Conclave** statua qu'aucun emploi public, aucune charge cérémonielle, aucune concession minière ne serait accordée à un sujet **non-Lié à Celestia ou à Stellaris**. La justification doctrinale tenait en une phrase : *« Le bien commun se lit. Qui ne lit pas le bien commun ne peut le défendre. »*
-
-L'Édit fut promulgué en cinquante-huit articles, gravés dans la stellarite et fixés à l'entrée des cinq observatoires sacrés. Il n'a jamais été abrogé. Il a été **précisé** dix-sept fois en sept cents ans, toujours dans le sens d'une extension : la liste des emplois réservés s'est allongée, le seuil de Lien exigé s'est durci, la procédure d'examen s'est étoffée. Aujourd'hui, à Caeloria, un non-Lié peut être pêcheur, mineur, artisan ordinaire, mais il ne peut pas tenir un registre de quartier, ni instruire un enfant, ni siéger à un tribunal, ni transporter de la stellarite, ni officier dans le Bras des Cieux. La discrimination est *douce* (aucun châtiment positif n'est prévu pour les non-Liés) et *systémique* (toute la vie publique leur est fermée). La doctrine officielle considère cette politique comme une **élévation** des Liés, non une oppression des non-Liés. Les non-Liés, eux, l'éprouvent comme une assignation.
-
-L'Édit a été contesté à l'international (Lumasar, Pyrtara) et défendu doctrinalement à chaque contestation. À Caeloria même, aucune contestation interne n'a jamais abouti. Trois pétitions retrouvées dans les archives — dont une portant trois cent quarante-deux signatures de pêcheurs de Frostlin, an 9 712 — n'ont reçu aucune réponse écrite.
-
-### Caeloria aujourd'hui
-
-La théocratie caélorienne est l'un des gouvernements les plus stables d'Hybélior — et l'un des plus rigides. Le Haut-Conclave des Oracles dirige tous les aspects de la vie publique, des lois commerciales aux rites de mariage. La société est stratifiée selon la proximité avec le divin : les oracles au sommet, les prêtres ensuite, les guerriers-gardiens, puis le peuple Lié, puis le peuple non-Lié.
-
-L'actuelle **Haute-Prêtresse Velmira** (an 209 — ) est une femme d'une quarantaine d'années aux yeux d'un bleu presque blanc — les Caéloriens considèrent cette couleur comme un signe de faveur céleste. Elle dirige le Conclave avec une intelligence politique redoutable, masquée derrière une piété apparente. Sous son règne, Caeloria a étendu son influence commerciale le long de la côte d'Azoria, échangeant du sel de glacier et de la stellarite contre des denrées impossibles à cultiver dans la glace.
-
-Le **Bras des Cieux** actuel est le général **Thandric Coeur-de-Givre**, un vétéran de soixante ans qui a repoussé trois incursions de pillards et une attaque de Léviathan des Abysses. Sa loyauté envers le Conclave est totale — du moins en apparence (cf. *Secrets et intrigues* : l'artefact rapporté de Galdrith).
-
----
-
 ## Gouvernement — La Théocratie Astrale
 
 - **Le Haut-Conclave des Oracles** : Sept oracles choisis pour leur capacité à lire les étoiles et les présages. Ils prennent toutes les décisions majeures — politiques, militaires, économiques — en interprétant les signes célestes. Les sessions du Conclave sont secrètes ; les décisions sont publiées sous forme de *Verdicts*, sans exposé des motifs.

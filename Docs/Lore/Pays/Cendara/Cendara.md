@@ -21,32 +21,6 @@ needs_review_for: []
 
 ---
 
-## Histoire
-
-### La Naissance dans les Cendres
-
-Cendara n'est pas née — elle a surgi. L'archipel volcanique émergea des profondeurs de l'océan dans une série d'éruptions cataclysmiques qui, selon les chroniques les plus anciennes, durèrent un siècle entier. Le Mont Cendra, volcan colossal qui domine l'île principale, est le plus actif et le plus massif de tout Hybelior. Ses éruptions régulières recouvrent le paysage de cendres fertiles, sculptent de nouvelles formations de basalte et ouvrent des cavernes de lave où le magma refroidit en cristaux d'une beauté mortelle.
-
-Les premiers habitants furent des naufragés — des marins d'origines diverses dont les navires s'étaient brisés sur les récifs de sable noir. Piégés sur une île hostile, ils n'eurent d'autre choix que d'apprendre à vivre avec le feu. Ils découvrirent que la chaleur volcanique, canalisée dans des forges naturelles, permettait de travailler les métaux à des températures impossibles ailleurs. Que les cendres nourrissaient une terre d'une fertilité stupéfiante. Que les cavernes de lave, une fois refroidies, offraient des abris indestructibles.
-
-De survivants, ils devinrent les **Forgerons du Feu** — un peuple qui ne craint pas les flammes mais les vénère.
-
-### Le Grand Rituel de Réveil
-
-L'événement fondateur de Cendara est le Grand Rituel de Réveil — une cérémonie menée par le premier roi-pyromancien, **Ashgrim le Calciné**, au sommet même du Mont Cendra. Selon la tradition, Ashgrim monta seul dans le cratère pendant une éruption, armé d'un bâton de fer et d'une prière. Il en redescendit trois jours plus tard, le corps couvert de brûlures mais vivant, portant dans ses mains une pierre incandescente qu'il appela le **Cœur de Cendra** — un fragment de magma cristallisé dont les chroniqueurs successifs rapportent qu'il n'a jamais été observé refroidi, malgré les siècles écoulés.
-
-Le Cœur de Cendra est conservé dans le palais de Brumaris, dans une chambre scellée que seul le monarque peut ouvrir. Les gardiens du palais consignent une activité pulsée régulière, que les pyromanciens lisent comme un battement vivant et que d'autres décrivent en termes plus prudents comme une oscillation thermique stable. Sa chaleur alimente, selon la tradition royale, les forges du palais depuis la fondation.
-
-Les sceptiques notent qu'Ashgrim était aussi un alchimiste brillant. Le Cœur de Cendra pourrait être une création artificielle — un chef-d'œuvre d'alchimie présenté comme un miracle pour asseoir le pouvoir royal. Mais personne n'ose le dire à voix haute.
-
-### Le Cendara moderne
-
-Aujourd'hui, Cendara est gouvernée par le roi **Pyranthus IV**, un monarque mystique qui passe autant de temps dans son laboratoire d'alchimie que sur son trône. Son règne est marqué par une intensification des éruptions du Mont Cendra — plus fréquentes, plus violentes — que les prêtres de l'Ignis Aeternum interprètent comme le signe de la Grande Prophétie : quand le Mont Cendra connaîtra son éruption suprême, l'île se transformera et des secrets anciens seront révélés.
-
-Les Forgerons du Feu continuent de produire des armes et des objets d'une qualité exceptionnelle, forgés dans la chaleur volcanique directe. L'alchimie cendarienne est réputée dans le monde entier — potions, élixirs, métaux enchantés, cristaux de pouvoir. Mais le commerce est difficile : l'archipel est isolé, les mers environnantes sont dangereuses, et le Mont Cendra rend la vie imprévisible.
-
----
-
 ## Gouvernement — La Monarchie Ésotérique
 
 Le pouvoir à Cendara est un mélange unique d'autorité royale et de savoir mystique :
