@@ -2,7 +2,7 @@
 tags: [lore, pays, galenor, valoria]
 type: nation
 status: canon
-last_review: 2026-05-06
+last_review: 2026-06-05
 needs_review_for: []
 ---
 # Valoria — La Confédération du Sang et de l'Acier
@@ -23,14 +23,16 @@ needs_review_for: []
 
 ## Gouvernement — La Confédération Clanique
 
-Le pouvoir à Valoria est fragmenté et brutal :
+Pouvoir fragmenté entre les clans.
 
-- **Le Conseil des Thanes** rassemble les quatre chefs de clan (un par région). Il se réunit deux fois par an dans la Grande Salle de Valtheria pour traiter les affaires communes : défense, diplomatie, partage des ressources. Les décisions sont prises à l'unanimité — une règle qui paralyse souvent le Conseil.
-- **Le Haut-Thane** est un titre honorifique donné au chef du clan Teldar, reconnu comme premier parmi les égaux mais sans autorité directe sur les autres clans. Le Haut-Thane préside le Conseil et commande l'armée confédérée en temps de guerre.
-- **Les Thanes** gouvernent leurs clans avec un pouvoir quasi absolu, tempéré uniquement par la tradition et la menace de rébellion. Un Thane faible est remplacé — souvent par la force.
-- **Les Anciens**, vétérans respectés de chaque clan, forment un conseil consultatif qui préserve les traditions et arbitre les conflits internes.
+- **Conseil des Thanes** : rassemble les quatre chefs de clan (un par région). Se réunit deux fois par an dans la Grande Salle de Valtheria (affaires communes : défense, diplomatie, partage des ressources). Décisions à l'unanimité — règle qui paralyse souvent le Conseil.
+- **Haut-Thane** : titre honorifique attribué au chef du clan Teldar, premier parmi les égaux, sans autorité directe sur les autres clans. Préside le Conseil et commande l'armée confédérée en temps de guerre.
+- **Thanes** : gouvernent leur clan avec un pouvoir quasi absolu, tempéré par la tradition et la menace de rébellion. Un Thane faible est remplacé, souvent par la force.
+- **Anciens** : vétérans respectés de chaque clan ; conseil consultatif qui préserve les traditions et arbitre les conflits internes.
 
-Le Haut-Thane actuel est **Kaeldar de Teldar**, un guerrier massif et taciturne dont la force physique est légendaire mais dont les capacités diplomatiques sont limitées. Son fils, **Theron**, est plus subtil et plus ambitieux — certains voient en lui le futur unificateur de Valoria, d'autres un traître à la tradition clanique.
+**Dirigeants actuels :**
+- **Kaeldar de Teldar** — Haut-Thane actuel ; force physique légendaire, capacités diplomatiques limitées.
+- **Theron** — fils de Kaeldar ; plus subtil et ambitieux. Vu par certains comme futur unificateur de Valoria, par d'autres comme un traître à la tradition clanique.
 
 ---
 
@@ -38,19 +40,21 @@ Le Haut-Thane actuel est **Kaeldar de Teldar**, un guerrier massif et taciturne 
 
 ### Lex Petra — La Loi de Pierre (religion principale)
 
-La Lex Petra, qui enseigne que la pierre est le fondement de toute loi et de tout ordre, résonne profondément avec la mentalité valorienne. Pour les Valoriens, la Loi de Pierre n'est pas un système juridique abstrait — c'est un code de conduite gravé dans la roche, aussi immuable que les montagnes elles-mêmes.
-
-Les serments sont prêtés sur des blocs de pierre brute. Les jugements sont rendus dans des cercles de pierres dressées. Les criminels sont « rendus à la pierre » — exilés dans les montagnes avec pour seule compagnie la roche et le vent.
+- Enseigne que la pierre est le fondement de toute loi et de tout ordre. Conçue comme un code de conduite gravé dans la roche, immuable comme les montagnes (non comme un système juridique abstrait).
+- Serments prêtés sur des blocs de pierre brute.
+- Jugements rendus dans des cercles de pierres dressées.
+- Criminels « rendus à la pierre » : exilés dans les montagnes.
 
 **Fêtes religieuses :**
-- **Le Jour du Serment** (solstice d'hiver) — Chaque guerrier renouvelle son serment de loyauté envers son clan en posant sa main sur la Pierre Ancestrale — un monolithe ancien conservé dans chaque forteresse clanique.
-- **Le Jugement de Pierre** (équinoxe d'automne) — Les conflits non résolus de l'année sont tranchés lors d'un tribunal rituel où les accusations et les défenses sont gravées dans la pierre par les prêtres. Ce qui est gravé ne peut être effacé — comme la justice elle-même.
+- **Le Jour du Serment** (solstice d'hiver) — Chaque guerrier renouvelle son serment de loyauté envers son clan en posant la main sur la **Pierre Ancestrale**, monolithe ancien conservé dans chaque forteresse clanique.
+- **Le Jugement de Pierre** (équinoxe d'automne) — Tribunal rituel tranchant les conflits non résolus de l'année ; accusations et défenses gravées dans la pierre par les prêtres. Ce qui est gravé ne peut être effacé.
 
 ### Foedus Animae — Le Pacte des Âmes (religion secondaire)
 
-Le Foedus Animae, le culte des ancêtres, est profondément enraciné à Valoria. Les Valoriens croient que les morts ne disparaissent pas — ils persistent dans la pierre, dans le sang, dans la mémoire. Chaque clan entretient un **Ossuaire Sacré** où les ossements des ancêtres sont conservés et vénérés. Les guerriers portent souvent un fragment d'os ancestral comme talisman, et avant chaque bataille, ils invoquent les noms de leurs aïeux tombés au combat.
-
-Les prêtres du Foedus Animae, les **Gardiens de la Mémoire**, sont les historiens oraux des clans. Ils connaissent par cœur chaque lignée, chaque bataille, chaque exploit — et chaque honte. Leur pouvoir est celui de la mémoire : nul ne souhaite être mal rememoré.
+- Culte des ancêtres, profondément enraciné à Valoria. Croyance : les morts ne disparaissent pas mais persistent dans la pierre, le sang, la mémoire.
+- Chaque clan entretient un **Ossuaire Sacré** où les ossements des ancêtres sont conservés et vénérés.
+- Les guerriers portent souvent un fragment d'os ancestral comme talisman ; avant chaque bataille, ils invoquent les noms de leurs aïeux tombés au combat.
+- **Gardiens de la Mémoire** : prêtres du Foedus Animae, historiens oraux des clans. Connaissent par cœur chaque lignée, bataille, exploit et honte.
 
 ---
 
@@ -58,136 +62,131 @@ Les prêtres du Foedus Animae, les **Gardiens de la Mémoire**, sont les histori
 
 ### L'Épreuve du Sang
 
-À l'âge de quatorze ans, chaque jeune Valorien — garçon ou fille — doit affronter l'**Épreuve du Sang** : un combat singulier contre un guerrier adulte du clan. Le but n'est pas de vaincre — c'est de résister assez longtemps pour prouver son courage. Ceux qui fuient sont bannis. Ceux qui se battent, même vaincus, deviennent des guerriers à part entière.
+- À 14 ans, chaque jeune Valorien (garçon ou fille) affronte l'**Épreuve du Sang** : combat singulier contre un guerrier adulte du clan.
+- But : résister assez longtemps pour prouver son courage, non vaincre.
+- Ceux qui fuient sont bannis (deviennent Sans-Sang). Ceux qui se battent, même vaincus, deviennent guerriers à part entière.
 
 ### Hiérarchie sociale
 
-1. **Le Thane** — Chef de clan, autorité suprême dans son domaine
-2. **Les Champions** — Les meilleurs guerriers du clan, garde rapprochée du Thane
-3. **Les Guerriers** — Tout Valorien ayant réussi l'Épreuve du Sang
-4. **Les Forgerons de Guerre** — Artisans respectés qui fabriquent les armes et les armures
-5. **Les Anciens** — Guerriers retraités dont la sagesse est révérée
-6. **Les Sans-Sang** — Ceux qui ont fui l'Épreuve. Parias, condamnés aux tâches serviles.
+1. **Le Thane** — Chef de clan, autorité suprême dans son domaine.
+2. **Les Champions** — Meilleurs guerriers du clan, garde rapprochée du Thane.
+3. **Les Guerriers** — Tout Valorien ayant réussi l'Épreuve du Sang.
+4. **Les Forgerons de Guerre** — Artisans respectés fabriquant armes et armures.
+5. **Les Anciens** — Guerriers retraités dont la sagesse est révérée.
+6. **Les Sans-Sang** — Ceux qui ont fui l'Épreuve ; parias, condamnés aux tâches serviles.
 
 ### Gastronomie
 
-La cuisine valorienne est fruste et nourrissante : viande de gibier rôtie sur feu ouvert, ragoûts de racines et de tubercules montagnards, pain noir compact, bière épaisse brassée avec de l'orge de montagne. Le festin de clan, le **Forgal**, est une tradition où un animal entier est rôti pendant une journée et partagé entre tous les membres du clan — y compris les plus humbles.
+- Cuisine fruste et nourrissante : gibier rôti sur feu ouvert, ragoûts de racines et tubercules montagnards, pain noir compact, bière épaisse brassée à l'orge de montagne.
+- **Forgal** : festin de clan où un animal entier est rôti une journée durant et partagé entre tous les membres du clan, y compris les plus humbles.
 
 ### Architecture
 
-Les Valoriens construisent pour la guerre et l'éternité : forteresses de pierre massive, murailles cyclopéennes, tours de guet austères. Pas d'ornement, pas de beauté superflue — chaque pierre a une fonction. Les maisons des guerriers sont des bâtisses carrées et trapues, conçues pour résister aux assauts et aux hivers. Les seules décorations sont les crânes d'animaux et d'ennemis vaincus accrochés aux linteaux des portes.
+- Construction pour la guerre et l'éternité : forteresses de pierre massive, murailles cyclopéennes, tours de guet austères ; chaque pierre a une fonction, sans ornement.
+- Maisons des guerriers : bâtisses carrées et trapues, conçues pour résister aux assauts et aux hivers.
+- Seules décorations : crânes d'animaux et d'ennemis vaincus accrochés aux linteaux des portes.
 
 ### Biais culturels
 
-- **Le Holmgang comme conversation.** Pour un Valorien, *être défié en duel* est une marque de respect ; *ne jamais l'être* est une marque d'invisibilité. La pression sociale pousse les jeunes guerriers à *provoquer* — les anciens, à *accepter*. Ce mécanisme entretient la violence et la dignité simultanément. C'est très exactement ce que Neld de Thalindor a documenté.
-- **L'oubli sélectif.** Les *bons* guerriers sont chantés. Les *bons* duels sont consignés. Les fuyards, les Sans-Sang, les femmes non-guerrières mortes en couches, les enfants morts d'épuisement aux mines de Thyndrel — n'apparaissent pas dans les registres oraux des Gardiens. Ils sont *oubliés à voix haute*. C'est une politique de la mémoire, pas un accident.
-- **L'honneur du serment.** Un Valorien tient parole comme une roche tient un mur. Cette qualité est réelle, et elle fait la force du pays dans les négociations diplomatiques où d'autres parjurent allègrement. Elle est aussi une cage : un Valorien qui s'est lié par serment ne peut plus changer d'avis sans déshonneur, même si les circonstances changent. La promesse, à Valoria, ne s'adapte pas — c'est elle qu'on adapte à ses dépens.
-- **Le rapport à Trinoria.** La Bataille des Mille Flèches est, à Valoria, une humiliation entretenue. Les jeunes guerriers s'entraînent *contre Trinoria*. Les vieux racontent les mille flèches comme on raconte une morsure jamais guérie. Cette rancœur est culturellement utile — elle donne un *Tranchant* fonctionnel au pays. Elle l'empêche aussi de regarder ses propres blessures internes.
-- **Le mépris militaire pour Lumasar et Seraphia.** *« Des chanteurs, des rêveurs, des dessinateurs. »* Cette caractérisation, partagée à Valoria, dispense de prendre au sérieux ce qu'il pourrait y avoir à apprendre des deux nations. Le respect mutuel avec Ventera (*« cavaliers et guerriers se reconnaissent »*) compense partiellement ce mépris.
-- **L'ouverture d'Astraneth.** La forteresse d'Ethrion est *l'exception structurelle* de Valoria : portes ouvertes le jour, marché étranger, Thane diplomate. Cette exception ne change pas le pays — elle le ventile. Astraneth est, de fait, le poumon par lequel Valoria respire ce qu'elle ne peut pas dire ailleurs. Veldris l'Ancien, son Thane, le sait.
+- **Le Holmgang comme conversation.** Être défié en duel est une marque de respect ; ne jamais l'être, une marque d'invisibilité. La pression sociale pousse les jeunes à provoquer, les anciens à accepter — mécanisme entretenant violence et dignité. Documenté par Neld de Thalindor.
+- **L'oubli sélectif.** Bons guerriers et bons duels sont consignés ; fuyards, Sans-Sang, femmes non-guerrières mortes en couches, enfants morts d'épuisement aux mines de Thyndrel n'apparaissent pas dans les registres oraux des Gardiens. Politique de la mémoire délibérée, non accident.
+- **L'honneur du serment.** Un Valorien tient parole : force dans les négociations diplomatiques, mais aussi cage — il ne peut changer d'avis sans déshonneur, même si les circonstances changent.
+- **Le rapport à Trinoria.** La Bataille des Mille Flèches est une humiliation entretenue ; les jeunes guerriers s'entraînent contre Trinoria. Rancœur culturellement utile (donne un « Tranchant » fonctionnel) mais empêchant le pays de regarder ses blessures internes.
+- **Le mépris militaire pour Lumasar et Seraphia.** Caractérisées comme « des chanteurs, des rêveurs, des dessinateurs », ce qui dispense de prendre au sérieux ce qu'on pourrait en apprendre. Le respect mutuel avec Ventera (« cavaliers et guerriers se reconnaissent ») compense partiellement ce mépris.
+- **L'ouverture d'Astraneth.** Forteresse d'Ethrion, exception structurelle de Valoria (portes ouvertes le jour, marché étranger, Thane diplomate) ; ventile le pays sans le changer. Son Thane Veldris l'Ancien en est conscient.
 
 ---
 
 ## Régions
 
 ### Caelith
-Région nord-ouest de plateaux rocheux et de landes balayées par les vents. Caelith est la plus petite des quatre régions, mais son clan est réputé pour sa férocité au combat et sa loyauté inflexible envers la Confédération.
+- **Situation :** nord-ouest ; plateaux rocheux et landes balayées par les vents.
+- **Particularités :** la plus petite des quatre régions ; clan réputé pour sa férocité au combat et sa loyauté inflexible envers la Confédération.
 
 ### Mytzar
-Région septentrionale de montagnes escarpées et de vallées sombres, frontalière avec les montagnes de Voldenor. Mytzar est la région la plus dangereuse de Valoria, où les créatures de pierre descendent parfois des sommets.
+- **Situation :** septentrion ; montagnes escarpées et vallées sombres, frontalière des montagnes de Voldenor.
+- **Particularités :** région la plus dangereuse de Valoria ; les créatures de pierre descendent parfois des sommets.
 
 ### Teldar
-Région centrale et cœur historique de Valoria, Teldar abrite la capitale Valtheria et le clan fondateur de la Confédération. C'est la région la plus peuplée et la plus influente politiquement.
+- **Situation :** centre ; cœur historique de Valoria.
+- **Particularités :** abrite la capitale Valtheria et le clan fondateur de la Confédération. Région la plus peuplée et la plus influente politiquement.
 
 ### Ethrion
-Région orientale de collines et de forêts clairsemées, Ethrion est la plus tempérée de Valoria. Son clan entretient les relations les plus développées avec les nations voisines, et certains le considèrent comme le plus « civilisé » — un compliment que les Ethrioniens acceptent sans enthousiasme.
+- **Situation :** est ; collines et forêts clairsemées ; la plus tempérée de Valoria.
+- **Particularités :** clan aux relations extérieures les plus développées ; considéré comme le plus « civilisé », qualificatif accepté sans enthousiasme par les Ethrioniens.
 
 ---
 
 ## Villes et villages
 
 ### Valtheria — Capitale ★
-*Forteresse colossale bâtie sur un promontoire rocheux dominant la vallée centrale de Teldar, Valtheria est un monument à la puissance brute. Ses murailles, épaisses de quatre mètres, n'ont jamais été percées. La Grande Salle, où se réunit le Conseil des Thanes, peut accueillir mille guerriers assis à de longues tables de chêne massif. Au centre de la salle, la Pierre de Valtheria — le bloc sur lequel la fondatrice prêta le premier serment de la Confédération — est vénérée comme une relique sacrée.*
-**Histoire :** Valtheria la Forgée choisit ce promontoire non pour sa défense mais pour sa visibilité — elle voulait que chaque guerrier dans la vallée puisse voir le moment où la Confédération naissait. Elle prêta son serment debout sur le bord de la falaise, les bras en croix, visible à des lieues à la ronde. Les murs furent construits après, par ses successeurs. Elle avait dit qu'un peuple fort n'en avait pas besoin ; ses successeurs ne la crurent qu'à moitié.
+- Forteresse colossale sur un promontoire rocheux dominant la vallée centrale de Teldar ; murailles de quatre mètres d'épaisseur, jamais percées. Fondée par **Valtheria la Forgée**, qui choisit le promontoire pour sa visibilité et y prêta le premier serment de la Confédération ; les murs furent ajoutés par ses successeurs. La Grande Salle (siège du Conseil des Thanes) accueille mille guerriers ; la **Pierre de Valtheria** (bloc du premier serment) y est vénérée comme relique sacrée.
 - Population : Capitale
 - Région : Teldar
 - Particularités : Siège du Haut-Thane, Grande Salle du Conseil, Pierre de Valtheria, Arène de Jugement.
 
 ### Selvorn — Village
-*Village de forgerons de guerre niché dans une gorge où le vent naturel alimente des forges à ciel ouvert. Les armes de Selvorn sont réputées dans toute Valoria — robustes, sans fioriture, mortellement efficaces. Chaque lame porte la marque du forgeron et l'empreinte du guerrier qui l'a commandée.*
-**Histoire :** La double marque — forgeron et guerrier commanditaire — fut instituée après qu'une arme servit dans un meurtre et que deux familles se disputèrent la responsabilité pendant une génération. L'enregistrement simultané de l'artisan et du propriétaire résolut d'un coup le problème de traçabilité légale. Les Gardiens de la Mémoire archivèrent la pratique dans leurs récits oraux comme exemple de solution élégante.
+- Village de forgerons de guerre dans une gorge où le vent naturel alimente des forges à ciel ouvert ; armes réputées dans toute Valoria. Chaque lame porte une **double marque** — forgeron + guerrier commanditaire — instituée pour la traçabilité légale après un meurtre où la responsabilité d'une arme fut disputée une génération durant ; archivée par les Gardiens de la Mémoire comme solution exemplaire.
 - Population : Village
 - Région : Teldar
 
 ### Erynor — Village
-*Village de bûcherons et de charbonniers qui fournissent le combustible des forges de Teldar. La vie à Erynor est rude et peu glorieuse, mais les villageois sont fiers de leur rôle essentiel dans la chaîne de guerre du clan.*
-**Histoire :** Le charbon d'Erynor a une qualité spécifique liée à l'espèce locale de chêne dur qui brûle à une température optimale pour la forge d'armes lourdes. Des forgerons qui ont tenté d'utiliser d'autres charbon rapportent une acier légèrement différent — moins prévisible. Erynor n'a jamais eu besoin de se vanter de son rôle ; les forgerons en parlent à leur place.
+- Village de bûcherons et de charbonniers fournissant le combustible des forges de Teldar. Son charbon, issu d'un chêne dur local, brûle à une température optimale pour la forge d'armes lourdes (d'autres charbons donnent un acier moins prévisible).
 - Population : Village
 - Région : Teldar
 
 ### Kaeldor — Village
-*Hameau de bergers qui élèvent les moutons de montagne dont la laine épaisse sert à confectionner les manteaux de guerre valoriens — des vêtements si résistants qu'ils arrêtent parfois les flèches. Les bergers de Kaeldor sont des guerriers à temps partiel, toujours prêts à troquer la houlette contre la hache.*
-**Histoire :** La résistance aux flèches des manteaux de Kaeldor fut découverte lors d'une escarmouche frontalière où un berger rejoignit ses compagnons en portant son manteau de travail plutôt que d'aller chercher son armure. Une flèche le toucha dans le dos et rebondit sans le blesser. L'incident fut rapporté au Thane, qui examina le manteau et commanda cent exemplaires sur le champ. Les bergers reçurent leur première prime de guerre.
+- Hameau de bergers élevant les moutons de montagne dont la laine épaisse sert aux manteaux de guerre valoriens, assez résistants pour arrêter parfois les flèches (résistance découverte lors d'une escarmouche frontalière, un manteau de travail ayant dévié une flèche dans le dos d'un berger). Les bergers sont des guerriers à temps partiel.
 - Population : Village
 - Région : Teldar
 
 ### Aldora — Village
-*Village agricole dans une rare vallée fertile de Teldar. Les fermes d'Aldora nourrissent la capitale et ses garnisons. Les fermiers, bien que considérés comme inférieurs aux guerriers, sont protégés par une loi ancienne qui interdit de les enrôler de force — même en temps de guerre, car affamer le clan est un crime plus grave que perdre une bataille.*
-**Histoire :** La loi protégeant les fermiers fut écrite par un Thane qui venait de remporter un siège de trois mois par la force militaire, pour trouver en entrant que tout avait déjà été consommé. Il avait gagné la forteresse et perdu le contenu. La loi fut rédigée le lendemain, sur un ton inhabituel pour un document légal valorien : "Voilà ce qu'on n'a pas le droit de faire de nouveau."
+- Village agricole dans une rare vallée fertile de Teldar ; nourrit la capitale et ses garnisons. Les fermiers, bien que jugés inférieurs aux guerriers, sont protégés par une loi ancienne interdisant l'enrôlement forcé, même en guerre (affamer le clan = crime plus grave que perdre une bataille) — loi rédigée par un Thane ayant pris une forteresse après un siège de trois mois pour la trouver vidée de ses vivres.
 - Population : Village
 - Région : Teldar
 
 ### Bryndor — Village
-*Avant-poste fortifié gardant le col sud de Teldar, Bryndor est en état d'alerte permanent. Sa garnison, composée de jeunes guerriers accomplissant leur premier service, surveille les mouvements des clans voisins et des créatures de montagne. C'est un lieu d'épreuve — les guerriers qui survivent à un hiver à Bryndor sont respectés pour le reste de leur vie.*
-**Histoire :** Le service à Bryndor est techniquement volontaire ; en pratique, le refuser équivaut à échouer une seconde Épreuve du Sang. Les guerriers qui terminent un hiver au col reçoivent un tatouage de marque spécifique qui ouvre les portes des postes de Champion. Ceux qui demandent à partir avant la fin de l'hiver peuvent partir — mais ils ne reviennent généralement jamais à Valtheria.
+- Avant-poste fortifié gardant le col sud de Teldar, en alerte permanente ; garnison de jeunes guerriers à leur premier service surveillant clans voisins et créatures de montagne. Lieu d'épreuve : le service est techniquement volontaire (le refuser équivaut à échouer une seconde Épreuve du Sang) ; survivre à un hiver au col donne un tatouage ouvrant les postes de Champion.
 - Population : Village
 - Région : Teldar
 
 ### Thalindor — Village
-*Village de chasseurs de Caelith, Thalindor est perché sur un plateau battu par les vents où seuls les plus endurants survivent. Ses habitants chassent les bêtes de lande — des créatures rapides et rusées — et leurs techniques de traque sont parmi les meilleures de Valoria.*
-**Histoire :** Les techniques de Thalindor sont supérieures à celles des chasseurs forestiers parce que le plateau ouvert interdit tout abri : un chasseur doit se rendre invisible dans un terrain où il n'y a rien pour le cacher. Les méthodes développées ici — immobilité absolue, patience de plusieurs heures, lecture des comportements animaux à distance — sont enseignées dans d'autres clans comme discipline de scout avancé.
+- Village de chasseurs de Caelith, sur un plateau battu par les vents ; chasse les bêtes de lande. Ses techniques de traque (immobilité absolue, patience de plusieurs heures, lecture des comportements animaux à distance) comptent parmi les meilleures de Valoria et sont enseignées ailleurs comme discipline de scout avancé.
 - Population : Village
 - Région : Caelith
 
 ### Felmaris — Ville
-*Forteresse du clan de Caelith, Felmaris est un bastion de pierre grise qui domine les landes environnantes. Sa Thane, **Dame Brynhild**, est une guerrière redoutée dont la loyauté envers la Confédération est sans faille — peut-être la seule à ne jamais remettre en question l'autorité du Haut-Thane.*
-**Histoire :** Les murs de Felmaris sont construits en strates alternées — une couche dure, une couche souple, une couche dure — qui absorbent et redirigent l'énergie des projectiles au lieu de les recevoir de plein fouet. La méthode fut développée par un maçon retraité de l'armée qui avait observé comment les ricochets tuaient plus de soldats que les impacts directs. Les murs de Felmaris n'ont jamais été percés.
+- Forteresse du clan de Caelith, bastion de pierre grise dominant les landes. Murs en strates alternées (dure / souple / dure) qui absorbent et redirigent l'énergie des projectiles ; jamais percés. Thane : **Dame Brynhild**, guerrière redoutée d'une loyauté sans faille envers la Confédération, peut-être la seule à ne jamais contester l'autorité du Haut-Thane.
 - Population : Ville
 - Région : Caelith
 
 ### Lyntheria — Ville
-*Forteresse du clan de Mytzar, Lyntheria est bâtie dans une vallée encaissée entre deux pics montagneux. Ses murs sont renforcés par des éboulis contrôlés — des avalanches de pierre que les défenseurs peuvent déclencher sur les assaillants. Le Thane de Mytzar, **Gronthar le Silencieux**, est un homme de peu de mots mais d'une brutalité terrifiante au combat.*
-**Histoire :** Le système d'avalanches contrôlées de Lyntheria fut conçu par son fondateur après qu'il passa un hiver à étudier le comportement de la neige et de la roche suite à une avalanche naturelle qui tua trente de ses guerriers. Il détermina que le déclenchement pouvait être maîtrisé par point d'application et timing. Le système n'a jamais raté depuis son installation — et n'a jamais servi deux fois sur le même assaillant.
+- Forteresse du clan de Mytzar, dans une vallée encaissée entre deux pics. Défendue par des avalanches de pierre contrôlées (éboulis déclenchables sur les assaillants), système conçu par son fondateur après une avalanche naturelle ayant tué trente de ses guerriers ; jamais raté depuis son installation. Thane : **Gronthar le Silencieux**, homme de peu de mots, d'une brutalité terrifiante au combat.
 - Population : Ville
 - Région : Mytzar
 
 ### Ravynor — Village
-*Village de guetteurs des montagnes, Ravynor surveille les passes de Voldenor d'où descendent parfois les créatures de pierre. Ses habitants vivent dans une tension permanente, et les enfants apprennent à distinguer le grondement d'un éboulement naturel de celui d'une bête de pierre en mouvement.*
-**Histoire :** La distinction entre éboulement naturel et déplacement de créature s'apprend à Ravynor au son, non à la vue. Les chutes naturelles sont arythmiques ; le mouvement de créature a un pattern régulier. Les enfants du village apprennent à identifier ce rythme dès cinq ans — leurs avertissements nocturnes ont sauvé le village trois fois dans les archives orales locales.
+- Village de guetteurs surveillant les passes de Voldenor d'où descendent parfois les créatures de pierre. Les habitants distinguent au son l'éboulement naturel (arythmique) du déplacement de créature (rythme régulier) ; les enfants l'apprennent dès cinq ans, et leurs avertissements nocturnes ont sauvé le village trois fois selon les archives orales locales.
 - Population : Village
 - Région : Mytzar
 
 ### Thyndrel — Village
-*Hameau de mineurs qui extraient le fer des veines de montagne avec des méthodes ancestrales. Le minerai de Thyndrel est d'une qualité brute que les forgerons apprécient pour sa dureté. La vie dans les mines est dangereuse, et les éboulements emportent régulièrement des travailleurs — un sacrifice que le clan accepte comme le prix de la force.*
-**Histoire :** Les méthodes de Thyndrel n'ont pas été modernisées délibérément. Les mineurs croient que leurs ancêtres ont laissé les veines dans des configurations qui ne se révèlent qu'à ceux qui travaillent sans changer les angles d'attaque. Un ingénieur de Myrtam qui tenta d'introduire des techniques nouvelles repartit trois jours plus tard avec ses outils intacts — les mineurs avaient simplement refusé de les utiliser. Poliment.
+- Hameau de mineurs extrayant le fer des veines de montagne par des méthodes ancestrales (volontairement non modernisées : un ingénieur de Myrtam venu introduire des techniques nouvelles repartit sans succès, les mineurs refusant de les utiliser). Minerai d'une qualité brute appréciée des forgerons pour sa dureté. Mines dangereuses : les éboulements emportent régulièrement des travailleurs.
 - Population : Village
 - Région : Mytzar
 
 ### Zalnor — Village
-*Village de trappeurs spécialisés dans la capture de bêtes de montagne vivantes. Les fourrures de Zalnor sont les plus chaudes de Valoria, et certaines bêtes capturées sont dressées comme animaux de guerre — une pratique controversée même au sein des clans.*
-**Histoire :** Le programme d'animaux de guerre fut officiellement sanctionné par la Confédération après qu'un ours des montagnes dressé à Zalnor dévia seul une attaque de flanc qui aurait coûté cent guerriers. Le débat sur l'éthique de la pratique continua; le programme aussi. Zalnor reçoit encore des commandes régulières des quatre clans — et refuse régulièrement les demandes qu'il juge déraisonnables.
+- Village de trappeurs spécialisés dans la capture de bêtes de montagne vivantes ; fourrures les plus chaudes de Valoria. Certaines bêtes sont dressées comme animaux de guerre (pratique controversée) ; ce programme fut officiellement sanctionné par la Confédération après qu'un ours dressé à Zalnor dévia seul une attaque de flanc qui aurait coûté cent guerriers. Zalnor honore des commandes des quatre clans et refuse celles qu'il juge déraisonnables.
 - Population : Village
 - Région : Mytzar
 
 ### Astraneth — Ville
-*Forteresse du clan d'Ethrion, Astraneth est la plus « ouverte » des places fortes valoriennes — ses portes ne sont fermées que la nuit, et un petit marché y accueille des marchands étrangers. Le Thane d'Ethrion, **Veldris l'Ancien**, est un vétéran qui prône la diplomatie autant que la guerre, une position qui lui vaut à la fois l'admiration et le mépris de ses pairs.*
-**Histoire :** La politique des portes ouvertes d'Astraneth fut établie par le grand-père de Veldris l'Ancien, un guerrier qui avait passé deux ans prisonnier à Kharazir et en était revenu convaincu que les murs étaient pour ceux qui craignaient leurs voisins. Ses warriors s'y opposèrent ; il remporta le débat en Épreuve. Depuis, Astraneth est la seule forteresse valorienne où un marchand étranger peut entrer sans escorte armée.
+- Forteresse du clan d'Ethrion, la plus « ouverte » des places fortes valoriennes : portes fermées seulement la nuit, petit marché accueillant des marchands étrangers, seule forteresse où un marchand étranger peut entrer sans escorte armée. Politique des portes ouvertes établie par le grand-père de Veldris l'Ancien, ancien prisonnier deux ans à Kharazir, qui imposa la mesure en remportant le débat en Épreuve. Thane : **Veldris l'Ancien**, vétéran prônant la diplomatie autant que la guerre — position qui lui vaut admiration et mépris de ses pairs.
 - Population : Ville
 - Région : Ethrion
 
 ### Vyrndel — Village
-*Village frontalier d'Ethrion, Vyrndel est le point de contact le plus courant entre Valoria et ses voisins. Les marchands de Kharazir et les émissaires de Trinoria y passent régulièrement, et les habitants de Vyrndel ont acquis une compétence diplomatique inhabituelle pour des Valoriens — ils savent négocier avant de frapper.*
-**Histoire :** Vyrndel occupe exactement le point d'intersection de trois routes commerciales nationales — une de Kharazir, une de Trinoria, une de la côte de Solena. Chaque génération a dû renégocier sa neutralité avec ses trois voisins pour continuer à exister. Cette nécessité répétée a produit des diplomatiques qui pensent en termes de "quelle offre satisfait trois parties simultanément" — une perspective rare à Valoria.
+- Village frontalier d'Ethrion, principal point de contact entre Valoria et ses voisins ; situé à l'intersection de trois routes commerciales (Kharazir, Trinoria, côte de Solena), par lesquelles passent régulièrement marchands de Kharazir et émissaires de Trinoria. La renégociation de sa neutralité à chaque génération a produit des habitants à la compétence diplomatique inhabituelle pour des Valoriens.
 - Population : Village
 - Région : Ethrion
 
@@ -208,7 +207,7 @@ Région orientale de collines et de forêts clairsemées, Ethrion est la plus te
 
 ## Secrets et intrigues
 
-- **Le Retour des Bêtes de Pierre** : Les créatures qui motivèrent l'Alliance des Clans n'ont jamais été éliminées — seulement repoussées dans les profondeurs de Voldenor. Les guetteurs de Ravynor rapportent une activité croissante dans les passes montagneuses, et le Haut-Thane Kaeldar a doublé les patrouilles sans en informer les autres Thanes. Si les bêtes reviennent en force, la Confédération sera-t-elle encore capable de s'unir ?
-- **L'Ambition de Theron** : Le fils du Haut-Thane rêve d'une Valoria unifiée sous un seul roi — lui-même. Il entretient secrètement des contacts avec Dame Nyra de Ventera et certains marchands de Kharazir, cherchant des alliés extérieurs pour contrebalancer le pouvoir des autres clans. Son père, s'il l'apprenait, devrait choisir entre son fils et son honneur.
-- **L'Ossuaire Interdit de Mytzar** : Le clan Mytzar garde un ossuaire scellé dont l'accès est interdit même aux Anciens. Le Thane Gronthar est le seul à y entrer, et il n'en parle jamais. Les rumeurs prétendent que l'ossuaire ne contient pas des os humains mais les restes d'une créature — ou d'un être — qui précéda les clans sur ces terres.
-- **La Pierre Noire de Valtheria** : Sous la Pierre de Valtheria — le bloc sacré de la fondation — une autre pierre est enterrée. Noire, lisse, et froide même en été. Les Gardiens de la Mémoire les plus anciens connaissent son existence mais jurent que Valtheria la Forgée elle-même l'y a placée en ordonnant qu'on ne la déterre « que lorsque la dernière guerre commencera ». Nul ne sait ce que cela signifie — mais nul ne souhaite le découvrir.
+- **Le Retour des Bêtes de Pierre** : Les créatures qui motivèrent l'Alliance des Clans ne furent jamais éliminées, seulement repoussées dans les profondeurs de Voldenor. Les guetteurs de Ravynor rapportent une activité croissante dans les passes ; le Haut-Thane Kaeldar a doublé les patrouilles sans en informer les autres Thanes.
+- **L'Ambition de Theron** : Le fils du Haut-Thane vise une Valoria unifiée sous un seul roi (lui-même). Il entretient secrètement des contacts avec Dame Nyra de Ventera et certains marchands de Kharazir pour trouver des alliés extérieurs contrebalançant le pouvoir des autres clans.
+- **L'Ossuaire Interdit de Mytzar** : Le clan Mytzar garde un ossuaire scellé, interdit même aux Anciens ; seul le Thane Gronthar y entre et n'en parle jamais. Selon les rumeurs, il contiendrait non des os humains mais les restes d'une créature (ou d'un être) ayant précédé les clans sur ces terres.
+- **La Pierre Noire de Valtheria** : Sous la Pierre de Valtheria est enterrée une autre pierre, noire, lisse et froide même en été. Les plus anciens Gardiens de la Mémoire en connaissent l'existence et affirment que Valtheria la Forgée elle-même l'y plaça, ordonnant qu'on ne la déterre « que lorsque la dernière guerre commencera ». Sa signification est inconnue.

@@ -2,7 +2,7 @@
 tags: [lore, pays, baelor]
 type: nation
 status: canon
-last_review: 2026-05-06
+last_review: 2026-06-05
 needs_review_for: []
 ---
 # Baelor — La Nation du Silence
@@ -25,19 +25,17 @@ needs_review_for: []
 
 ## Gouvernement — La Théocratie Monastique
 
-Le pouvoir à Baelor est exercé par les moines, dans une structure qui n'a pas changé depuis quatre siècles.
+Structure inchangée depuis quatre siècles.
 
-- **L'Abbé Suprême** (actuellement Kethron VI) est le chef spirituel et temporel. Il est choisi par les abbés des cloîtres lors d'un **conclave silencieux** — un processus qui peut durer des semaines, voire des mois, et qui ne s'achève que quand un consensus gestuel s'est imposé sans qu'il ait fallu le formuler. L'Abbé Suprême ne détient pas de pouvoir exécutif au sens des autres nations : il **arbitre** les rares désaccords qui parviennent jusqu'à lui, par des gestes brefs dont la précision est telle que les Maîtres mettent parfois des semaines à les interpréter complètement.
+- **L'Abbé Suprême** (actuellement Kethron VI) : chef spirituel et temporel. Choisi par les abbés des cloîtres lors d'un **conclave silencieux** (consensus gestuel, durée de plusieurs semaines à plusieurs mois). Ne détient pas de pouvoir exécutif : il **arbitre** les rares désaccords par gestes brefs.
+- **Le Conseil des Abbés** : six abbés, plus l'Abbé Suprême qui préside sans intervenir.
+  - Cloîtres représentés : Baeloris (siège), Thyldris (côte est), Tholmë (côte sud), Velkadra (dorsale ouest), Sarun (côte ouest), Olfra (hauteurs centrales).
+  - Décisions par **consensus gestuel** ; un seul désaccord persistant suffit à reporter la décision. Le report indéfini est doctrinalement préférable à l'imposition.
+- **Les Maîtres de Discipline** : supervisent l'entraînement martial des moines-guerriers et la formation gestuelle des novices. Autorité limitée à leur propre cloître.
+- **Les Veilleurs** : moines de Thyldris chargés de la surveillance côtière. Officiellement subordonnés à l'abbé de Thyldris, mais discipline propre en pratique.
+- **Les Tisseurs d'Académie** (terme emprunté à Somnium Vigil, présent à Baeloris) : Silentii spécialisés dans l'interprétation des **rêves partagés** des Cercles de Sommeil ; tiennent les bibliothèques de Lectures. Rôle académique, non politique.
 
-- **Le Conseil des Abbés** regroupe les abbés des principaux cloîtres : Baeloris (siège), Thyldris (côte est), Tholmë (côte sud), Velkadra (dorsale ouest), Sarun (côte ouest), Olfra (hauteurs centrales). Six abbés au total, plus l'Abbé Suprême qui préside sans intervenir. Les décisions sont prises par **consensus gestuel** ; un seul désaccord persistant suffit à reporter la décision. Beaucoup de décisions sont reportées indéfiniment, ce qui est tenu, dans la doctrine, pour préférable à l'imposition.
-
-- **Les Maîtres de Discipline** supervisent l'entraînement martial des moines-guerriers et la formation gestuelle des novices. Leur autorité est immédiate dans le cloître où ils enseignent, mais ils n'ont aucune juridiction au-delà.
-
-- **Les Veilleurs** sont les moines spécialisés de Thyldris, chargés de la surveillance côtière. Leur statut est ambigu : officiellement subordonnés à l'abbé de Thyldris, ils développent en pratique une discipline propre que les autres cloîtres respectent sans contrôler.
-
-- **Les Tisseurs d'Académie** (terminologie empruntée à Somnium Vigil, présente à Baeloris) sont les Silentii spécialisés dans l'interprétation des **rêves partagés** des Cercles de Sommeil. Ils tiennent les bibliothèques de Lectures, et leur rôle est plus académique que politique.
-
-Toute communication officielle se fait en **langage gestuel baelorien** — un système complexe que les étrangers mettent dix à quinze ans à maîtriser correctement. Les rares négociations diplomatiques avec Caeloria, Tyndara ou Lunasar passent par des **traducteurs baeloriens** — des moines qui ont accepté, par dérogation explicite et révocable, de pratiquer la parole orale dans des contextes définis. Ces traducteurs sont rares, leur fonction est tenue pour une concession nécessaire au monde extérieur, et leur statut interne est légèrement diminué (ils ne participent jamais aux conclaves).
+**Communication officielle :** **langage gestuel baelorien** (10 à 15 ans pour qu'un étranger le maîtrise). Diplomatie avec Caeloria, Tyndara ou Lunasar via des **traducteurs baeloriens** — moines autorisés par dérogation explicite et révocable à pratiquer la parole orale. Rares, statut interne légèrement diminué, jamais admis aux conclaves.
 
 ---
 
@@ -45,185 +43,142 @@ Toute communication officielle se fait en **langage gestuel baelorien** — un s
 
 ### [[Somnium Vigil]] — La Veille des Rêves (religion principale)
 
-Les moines de Baelor pratiquent une variante austère du Somnium Vigil, plus ascétique que celle de Lumasar et plus disciplinée que celle de Vytharia. Les Vigili baeloriens sont les **Rêveurs de Falaise** : ils méditent en silence pendant des semaines, parfois des mois, jusqu'à entrer dans des transes sans substance. Ils ne consomment pas, ou très peu, les **Herbes de Somnix** que la doctrine de Lumasar a banalisées — la pratique baelorienne tient que la transe induite chimiquement est *« un rêve qu'on n'a pas su appeler »*, formule sévère qui circule dans les correspondances internes.
+Variante austère, plus ascétique que celle de Lumasar, plus disciplinée que celle de Vytharia. Les Vigili baeloriens sont les **Rêveurs de Falaise** : méditation silencieuse de plusieurs semaines à plusieurs mois jusqu'à des transes sans substance. Usage nul ou minime des **Herbes de Somnix** (banalisées à Lumasar) ; doctrine baelorienne : la transe induite chimiquement est « un rêve qu'on n'a pas su appeler ».
 
 **Pratiques centrales à Baelor :**
-- **La Veille** : Les moines dorment quatre heures par nuit, parfois moins. Le reste est consacré à la méditation, à l'entraînement martial, au travail manuel et à l'écriture des journaux enluminés. La frontière veille-sommeil est tenue pour le **lieu d'écoute**.
-- **Le Rêve Partagé** : Lors de Cercles de Sommeil, les moines (sept à treize, selon la formule de Vytharia) entrent en méditation collective. Les rêves convergents sont notés dans les Journaux Enluminés. Les divergents, plus nombreux, font l'objet de Lectures longues et patientes.
-- **Le Journal Enluminé** : Chaque moine consigne ses rêves et ses observations dans un journal enluminé personnel. Ce journal est sa seule forme d'écriture *abondante* — par opposition aux lamelles scellées des Taciti, qui sont rares et brèves. Le journal d'un moine est ouvert à la consultation des Maîtres de son cloître ; il devient propriété du cloître à sa mort.
-- **Les Veilleurs Permanents** : héritage du **Souffle des Yeux Ouverts** (an 234). Les moines incapables de dormir plus de deux heures par nuit trouvent à Baelor — plus qu'à Vytharia ou Lumasar — un cadre où leur état est tenu pour sacré sans être trop romantisé. Quelques-uns, malgré tout, meurent jeunes, épuisés. La doctrine ne le formule pas. Quelques Maîtres en privé en doutent. (cf. [[Somnium Vigil]] §"Tensions internes")
+- **La Veille** : sommeil de quatre heures par nuit (parfois moins). Reste du temps : méditation, entraînement martial, travail manuel, écriture des journaux enluminés. La frontière veille-sommeil est tenue pour le **lieu d'écoute**.
+- **Le Rêve Partagé** : Cercles de Sommeil de sept à treize moines (formule de Vytharia) en méditation collective. Rêves convergents notés dans les Journaux Enluminés ; rêves divergents (plus nombreux) traités en Lectures.
+- **Le Journal Enluminé** : journal personnel de rêves et observations ; seule forme d'écriture *abondante* (par opposition aux lamelles scellées des Taciti, rares et brèves). Consultable par les Maîtres du cloître ; devient propriété du cloître à la mort du moine.
+- **Les Veilleurs Permanents** : héritage du **Souffle des Yeux Ouverts** (an 234). Moines incapables de dormir plus de deux heures par nuit ; leur état est tenu pour sacré. Certains meurent jeunes, épuisés ; la doctrine ne le formule pas, quelques Maîtres en doutent en privé. (cf. [[Somnium Vigil]] §"Tensions internes")
 
 ### [[Taciti]] — Les Silencieux (religion secondaire, indissociable du quotidien)
 
-Le culte du silence absolu — **Taciti** — est la marque distinctive de Baelor. Officiellement *secondaire* dans la classification académique, il est en pratique **plus pratiqué** que Somnium Vigil au quotidien : tout moine baelorien est Silentii avant d'être Vigili. La distinction entre les deux religions, claire ailleurs, est ici floue : les pratiques se superposent, les Maîtres enseignent les deux, les cloîtres ne se distinguent pas selon la religion mais selon le **palier de silence** qu'ils tiennent.
+Culte du silence absolu, marque distinctive de Baelor. Classé *secondaire*, mais en pratique **plus pratiqué** que Somnium Vigil au quotidien : tout moine baelorien est Silentii avant d'être Vigili. Distinction floue entre les deux religions : pratiques superposées, Maîtres enseignant les deux, cloîtres distingués par **palier de silence** et non par religion. Doctrine détaillée : voir [[Taciti]].
 
-La fiche de [[Taciti]] documente la doctrine en détail. Pour Baelor, retenir :
+Points essentiels pour Baelor :
+- **Les deux Voiles** :
+  - **Premier Voile** : six mois de silence partiel, écriture admise (palier d'entrée).
+  - **Second Voile** : silence total, geste seul, lamelles scellées (orthodoxie de Baeloris et de la majorité des cloîtres).
+  - **Premier Voile permanent** : position doctrinale de la côte ouest et de certains cloîtres de la dorsale ; toléré sans être approuvé par l'orthodoxie.
+- **L'Heure Vide** : pratique matinale universelle, avant l'aube dans l'obscurité, jusqu'à ce que la lumière atteigne la troisième pierre du seuil.
+- **L'Échange des Lamelles** : réduit à quelques paires (Baeloris ↔ Thyldris ; Tholmë ↔ Velkadra). Les autres cloîtres l'ont cessé depuis quatre siècles, sans synode formel.
+- **Le Silence Partagé du Mourant** (universel à Baelor) : un moine mourant reçoit tous les frères de son cloître, assis autour de lui en silence, sans contact. Il meurt entouré, sans mot ni main posée. Les visiteurs repartent dans l'ordre exact de leur arrivée.
 
-- **Les deux Voiles** structurent la pratique. Le **Premier Voile** (six mois de silence partiel, écriture admise) est le palier d'entrée. Le **Second Voile** (silence total, geste seul, lamelles scellées) est l'orthodoxie de Baeloris et de la majorité des cloîtres. Les cloîtres de la côte ouest et certains de la dorsale pratiquent le **Premier Voile permanent** comme position doctrinale — ce que l'orthodoxie tolère sans approuver.
-
-- **L'Heure Vide** matinale (avant l'aube, dans l'obscurité, jusqu'à ce que la lumière atteigne la troisième pierre du seuil) est universelle.
-
-- **L'Échange des Lamelles** entre cloîtres est réduit à quelques paires (Baeloris ↔ Thyldris ; Tholmë ↔ Velkadra). Les autres ont cessé l'échange depuis quatre siècles, sans qu'aucun synode ait jamais formalisé l'arrêt. On a simplement *cessé*. C'est, disent certains Premier-Voile, *« la chose la plus parlante que la doctrine ait produite »*.
-
-- **Le Silence Partagé du Mourant** est universel à Baelor. Un moine mourant reçoit la visite de tous les frères de son cloître, qui s'assoient autour de lui sans rien faire. Il meurt entouré, sans qu'aucun mot ne soit prononcé, sans qu'aucune main ne le touche. Les visiteurs repartent dans l'ordre exact où ils sont arrivés.
-
-Les autres traditions religieuses (Foedus Animae, Ordo Caelum, Vael'Kurash, etc.) ne sont **pas pratiquées** à Baelor. Quelques familles côtières gardent peut-être un autel ancestral — la chronique baelorienne ne s'en occupe pas.
+**Autres traditions** (Foedus Animae, Ordo Caelum, Vael'Kurash, etc.) : **non pratiquées** à Baelor. Quelques familles côtières conservent peut-être un autel ancestral, non documenté par la chronique baelorienne.
 
 ---
 
 ## Culture et société
 
-### La vie monastique (et la vie tout court)
+### Vie monastique et quotidienne
+- Tout s'organise autour du cloître. Journées réglées par la **lumière sur les murs intérieurs** (pas de cloche : ce serait du bruit).
+- Rythme : méditation à l'aube (Heure Vide), entraînement martial et travail le matin, repas en silence le midi, étude et enluminure l'après-midi, méditation du soir, sommeil bref.
+- Nourriture simple : riz importé de Tyndara, légumes des potagers de cloître, poisson séché, herbes des hauteurs.
+- Possessions personnelles limitées : un bol, une natte, un stylet d'enluminure, parfois une arme.
+- **Familles côtières** (pêcheurs de la côte ouest, salines de Tholmë) : silence atténué — parole à voix basse en famille, silence dans l'espace public. Vers quinze ans, entrée au cloître pour ceux qui le souhaitent ou que les Maîtres recrutent. Le passage au cloître n'est pas valorisé comme supérieur : on dit que le moine a « changé d'écoute ».
 
-Tout à Baelor tourne autour du cloître. Les journées sont réglées par la **lumière sur les murs intérieurs** — on ne sonne pas de cloche, ce serait du bruit. Méditation à l'aube (Heure Vide), entraînement martial et travail le matin, repas en silence le midi, étude et enluminure l'après-midi, méditation du soir, sommeil bref. La nourriture est simple — riz importé de Tyndara, légumes des potagers de cloître, poisson séché, herbes des hauteurs — et les possessions personnelles sont limitées à un bol, une natte, un stylet d'enluminure, et parfois une arme.
+### Art martial — La Voie du Poing Silencieux
+- Art martial des moines-guerriers exploitant le silence comme arme psychologique : ni cri, ni souffle audible, ni froissement de tissu ; effet dévastateur sur un adversaire non préparé.
+- Illustration historique : la **Défense du Monastère de Kethros** ; depuis, aucune nouvelle attaque ennemie. La fonction principale de l'art est devenue dissuasive (exister pour ne plus avoir à servir).
+- Pédagogie par démonstration silencieuse ; correction par geste ou coup léger. Durée : 7 à 10 ans pour la maîtrise basique, 20 à 30 ans pour la maîtrise avancée. Principe : **la patience est la plus grande arme**.
 
-Les **familles côtières** (pêcheurs de la côte ouest, salines de Tholmë) vivent un silence atténué. On parle dans la maison, en famille, à voix basse ; on se tait dans la rue, sur le quai, partout où la communauté est visible. Les enfants apprennent à moduler. Vers quinze ans, ceux qui le souhaitent — ou que les Maîtres viennent chercher — entrent au cloître. Les autres restent. Le passage n'est pas valorisé : on ne dit pas qu'un moine est *plus* qu'un pêcheur. On dit qu'il a *changé d'écoute*.
+### Enluminure
+- **Seule forme d'expression artistique abondante** autorisée. Manuscrits enluminés : journaux personnels, Lectures de rêve, archives des cloîtres ; jusqu'à plusieurs mois par page.
+- Pigments fabriqués sur place : minéraux des falaises (bleu profond de Baeloris tiré d'un schiste broyé pendant des semaines), plantes des hauteurs, poissons côtiers.
+- Quelques manuscrits ont quitté l'île, **offerts** à des visiteurs jugés dignes ; aucun **vendu**. Les copies atteignent des prix élevés sur les marchés de Lumasar.
 
-### L'art martial du silence — La Voie du Poing Silencieux
-
-Les moines-guerriers de Baelor pratiquent la **Voie du Poing Silencieux** — un art martial qui exploite le silence comme arme psychologique. Combattre un moine de Baelor, c'est combattre une ombre qui ne fait aucun bruit — pas de cri, pas de souffle audible, pas même le froissement du tissu. L'effet sur un adversaire non préparé est dévastateur. La **Défense du Monastère de Kethros** en est l'illustration historique ; depuis, aucun ennemi n'a jamais retenté l'attaque, ce qui est devenu, en pratique, la principale fonction de l'art martial : exister suffisamment pour ne plus avoir à servir.
-
-Les Maîtres de Discipline enseignent par démonstration silencieuse. Le novice imite, échoue, recommence. La correction passe par geste, parfois par un coup léger sur l'épaule ou la nuque. La pédagogie est lente — il faut sept à dix ans pour atteindre la maîtrise basique, vingt à trente pour la maîtrise avancée. Les Maîtres considèrent que **la patience est la plus grande arme** ; la précision suit naturellement.
-
-### Les enluminures
-
-L'enluminure est la **seule forme d'expression artistique abondante** autorisée à Baelor. Les manuscrits enluminés — journaux personnels, Lectures de rêve, archives des cloîtres — sont des chefs-d'œuvre. Chaque page peut prendre des mois à réaliser. Les pigments sont fabriqués sur place à partir de minéraux des falaises (le bleu profond de Baeloris vient d'un schiste qu'on broie pendant des semaines), de plantes des hauteurs, de poissons côtiers. Quelques manuscrits ont quitté l'île, offerts à des visiteurs jugés dignes. Aucun n'a été *vendu*. Sur les marchés de Lumasar, les copies — quand on en trouve — atteignent des prix tels que les Bealoriens, s'ils en avaient l'idée, pourraient s'enrichir considérablement. Ils n'en ont pas l'idée. C'est précisément ce qui rend les manuscrits authentiques.
-
-### Le langage gestuel baelorien
-
-Le **langage gestuel baelorien** est l'une des langues les plus riches d'Hybélior. Codifié par les premiers Maîtres, transmis par démonstration sur des décennies, il distingue **environ huit cents signes principaux** (mots de base) et **plusieurs milliers de combinaisons** (locutions, nuances, modulations). Les inflexions du regard, les positions de la main relativement au corps, la lenteur du geste — tout est porteur de sens. Un Silentii avancé peut tenir une conversation philosophique d'une heure sans que le moindre mot soit prononcé, et peut transmettre une nuance que la parole n'atteindrait qu'au prix de longues phrases.
-
-Le langage compte trois **niveaux de formalité** :
-- **Geste de cellule** (intime, entre frères du même cloître) — bref, contracté, parfois proche du mouvement involontaire.
-- **Geste de cour** (collectif, formel) — précis, ample, lent.
-- **Geste de seuil** (avec étrangers ou novices) — codifié, lent, pédagogique.
-
-Les visiteurs étrangers reçoivent toujours du Geste de seuil. Le Geste de cellule reste interne. Le Geste de cour est observé sans être enseigné. Cette stratification protège la communauté et explique pourquoi les visiteurs, même longs, repartent avec l'impression d'avoir vu Baelor *de loin* — ce qu'ils ont effectivement vu.
+### Langage gestuel baelorien
+- L'une des langues les plus riches d'Hybélior. Codifié par les premiers Maîtres, transmis par démonstration sur des décennies.
+- **~800 signes principaux** (mots de base) et **plusieurs milliers de combinaisons** (locutions, nuances, modulations).
+- Porteurs de sens : inflexions du regard, position de la main par rapport au corps, lenteur du geste. Un Silentii avancé peut tenir une conversation d'une heure sans un mot.
+- Trois **niveaux de formalité** :
+  - **Geste de cellule** (intime, entre frères du même cloître) : bref, contracté.
+  - **Geste de cour** (collectif, formel) : précis, ample, lent.
+  - **Geste de seuil** (étrangers, novices) : codifié, lent, pédagogique.
+- Les étrangers ne reçoivent que le Geste de seuil ; le Geste de cellule reste interne ; le Geste de cour est observé sans être enseigné.
 
 ### Hiérarchie sociale
-
 1. **L'Abbé Suprême et le Conseil des Abbés** — autorité spirituelle et temporelle, sans pouvoir exécutif au sens commun.
-2. **Les Maîtres de Discipline et les Tisseurs d'Académie** — chargés de la formation et de l'interprétation des rêves.
-3. **Les Silentii confirmés** (Second Voile, vingt années de silence accomplies) — colonne vertébrale de la doctrine.
-4. **Les Veilleurs de Thyldris** — statut équivalent aux Silentii confirmés, avec une autonomie particulière.
-5. **Les Apprentis des deux Voiles** — novices en formation, six mois à vingt ans selon le palier.
-6. **Les familles côtières et les bergers des hauteurs** — non-moines, silence atténué, intégrés à la nation sans être Silentii.
+2. **Les Maîtres de Discipline et les Tisseurs d'Académie** — formation et interprétation des rêves.
+3. **Les Silentii confirmés** (Second Voile, vingt ans de silence accomplis) — colonne vertébrale de la doctrine.
+4. **Les Veilleurs de Thyldris** — statut équivalent aux Silentii confirmés, avec autonomie particulière.
+5. **Les Apprentis des deux Voiles** — novices en formation (six mois à vingt ans selon le palier).
+6. **Les familles côtières et bergers des hauteurs** — non-moines, silence atténué, intégrés sans être Silentii.
 
-Aucun rang n'est célébré. Aucun titre ne se porte. Un Maître de Discipline peut, après vingt ans, redescendre au statut de Silentii confirmé sans que cela soit une dégradation — c'est une **circulation**, comme dans Somnium Vigil. La hiérarchie horizontale est revendiquée doctrinalement, et c'est précisément l'un des pièges (cf. *Cadre interne*).
+- Aucun rang n'est célébré, aucun titre ne se porte. Un Maître de Discipline peut redescendre au statut de Silentii confirmé sans dégradation (**circulation**, comme dans Somnium Vigil). Hiérarchie horizontale revendiquée doctrinalement.
 
 ### Gastronomie
-
-La cuisine baelorienne est austère mais soignée. Riz importé, poisson séché, légumes des potagers de cloître (chou, navet, carotte des sables côtiers), herbes des hauteurs (thym sauvage, sarriette, une variété locale de menthe forte), pain dense au seigle. Le repas-cérémonie (rare, deux ou trois fois l'an) est le **Bol des Sept** : un bouillon de poisson long-mijoté avec sept herbes différentes, servi dans un bol de roche noire taillé pour l'occasion et brisé après. Le bris du bol est ritualisé — on le fait dans la cour, en silence, et les éclats sont réintégrés à la roche du cloître. Le geste est tenu pour l'une des plus belles rencontres entre la Rouille (acceptation de la perte) et le Sablier (méditation de la finitude) que la culture baelorienne sache produire — bien qu'aucun moine ne le formule jamais ainsi.
+- Cuisine austère : riz importé, poisson séché, légumes des potagers (chou, navet, carotte des sables côtiers), herbes des hauteurs (thym sauvage, sarriette, menthe forte locale), pain dense au seigle.
+- Repas-cérémonie rare (deux ou trois fois l'an) : le **Bol des Sept** — bouillon de poisson long-mijoté à sept herbes, servi dans un bol de roche noire taillé pour l'occasion puis brisé. Le bris est ritualisé (dans la cour, en silence, éclats réintégrés à la roche du cloître). Geste tenu pour une rencontre entre la **Rouille** (acceptation de la perte) et le **Sablier** (méditation de la finitude).
 
 ### Architecture
-
-Les cloîtres sont **creusés dans la roche**, jamais bâtis dessus. Cette pratique — héritée de la pauvreté radicale des premiers naufragés — est devenue identitaire. Chaque cellule est creusée par celui qui l'habitera, sur une décennie environ. Les corridors, les salles communes, les bibliothèques sont creusées collectivement, lentement, par les générations successives. Le plus ancien complexe, **Baeloris**, descend sous le niveau de la mer en plusieurs paliers — les niveaux les plus profonds sont d'une qualité de silence et de fraîcheur que les visiteurs ne savent pas décrire.
-
-L'architecture extérieure se limite à des **escaliers taillés** dans les falaises et des **ponts suspendus** au-dessus des criques. Aucun bâtiment ne dépasse l'horizon naturel. Aucun toit ne brille. La Salle du Silence — au sommet de Baeloris — est la seule pièce **ouverte au ciel** ; c'est là que l'Abbé Suprême reçoit les rares visiteurs.
+- Cloîtres **creusés dans la roche**, jamais bâtis dessus (héritage de la pauvreté radicale des premiers naufragés, devenu identitaire). Chaque cellule est creusée par son futur habitant, sur ~une décennie ; corridors, salles communes et bibliothèques creusés collectivement sur plusieurs générations.
+- **Baeloris** (plus ancien complexe) descend sous le niveau de la mer en plusieurs paliers ; niveaux profonds réputés pour leur silence et leur fraîcheur.
+- Architecture extérieure limitée à des **escaliers taillés** dans les falaises et des **ponts suspendus** au-dessus des criques ; aucun bâtiment ne dépasse l'horizon naturel.
+- **La Salle du Silence** (sommet de Baeloris) : seule pièce **ouverte au ciel** ; lieu où l'Abbé Suprême reçoit les rares visiteurs.
 
 ### Biais culturels
-
-- **L'écoute comme seule mesure de l'humain.** Un Bealorien évalue un visiteur, un novice, un compagnon, par sa **capacité à écouter sans répondre**. La parole est tolérée, jamais valorisée. Cette norme produit une nation extraordinairement perceptive et profondément clivée entre ceux qui *écoutent vrai* et ceux qui *écoutent en attendant de parler*. Personne n'en discute. C'est la première qualité qu'on lit chez l'autre.
-
-- **Le mépris doux pour les bavards.** Les Bealoriens ne méprisent pas les peuples bavards (Solena, Vytharia, Trinoria) — ils les **plaignent**, comme on plaint quelqu'un qui n'a pas appris à entendre. Cette pitié est polie, presque tendre, et entièrement insupportable pour ceux qui en sont l'objet. Les visiteurs solenens s'en plaignent dans leurs carnets de voyage. Les Bealoriens ne lisent pas les carnets de voyage.
-
-- **L'inversion de la pédagogie.** Là où toutes les autres cultures enseignent à parler avant d'enseigner à écouter, Baelor enseigne à écouter avant d'enseigner à se taire, et à se taire avant d'enseigner à parler. Cette priorité produit, à l'âge adulte, une retenue qui paraît froide aux étrangers et juste aux Bealoriens.
-
-- **L'évitement du nom.** Dans la conversation gestuelle, on évite de nommer trop précisément les choses. Les pronoms gestuels (équivalents de *« cela »*, *« quelque chose »*, *« ce qui... »*) sont fréquents et tenus pour plus exacts que les substantifs. Les substantifs trop précis sont considérés comme **prétentieux** : ils prétendent saisir, alors qu'on ne saisit jamais que partiellement. Cette norme rend la doctrine baelorienne **non transmissible par traduction** — les voisins qui ont essayé de la résumer se sont retrouvés avec quelque chose de plus dur, plus catégorique, plus dogmatique que ce que les Bealoriens pratiquent.
-
-- **L'acceptation des disparus.** Les novices qui se perdent dans le **Voile bas** (le brouillard du plateau central) ne sont pas systématiquement recherchés. Si l'on ne les retrouve pas dans la journée, on cesse de chercher. *« La brume choisit »*, dit-on, *« et nous la respectons. »* Cette norme paraît cruelle à l'étranger ; elle est, à l'interne, une expression sobre d'**Aimer-ce-qui-est** — la meilleure que la culture baelorienne sache produire collectivement, et celle dont elle est le moins fière.
+- **L'écoute comme seule mesure de l'humain** : un Bealorien évalue autrui par sa **capacité à écouter sans répondre**. La parole est tolérée, jamais valorisée.
+- **Le mépris doux pour les bavards** : les peuples bavards (Solena, Vytharia, Trinoria) ne sont pas méprisés mais **plaints**, avec une pitié polie ressentie comme insupportable par les intéressés.
+- **L'inversion de la pédagogie** : Baelor enseigne à écouter avant d'enseigner à se taire, et à se taire avant d'enseigner à parler.
+- **L'évitement du nom** : dans la conversation gestuelle, les pronoms gestuels (« cela », « quelque chose », « ce qui... ») sont fréquents et tenus pour plus exacts que les substantifs ; les substantifs trop précis sont jugés prétentieux. La doctrine baelorienne en devient **non transmissible par traduction**.
+- **L'acceptation des disparus** : les novices perdus dans le **Voile bas** (brouillard du plateau central) ne sont pas systématiquement recherchés ; après une journée, on cesse de chercher (« La brume choisit »). Expression d'**Aimer-ce-qui-est**.
 
 ---
 
 ## Régions
 
-L'île n'est administrativement pas divisée — Baelor est une seule **région** au sens des registres officiels (BaelorRegion, R140). Les Bealoriens distinguent cependant cinq **secteurs** par usage :
+L'île n'est pas divisée administrativement : Baelor est une seule **région** au registre officiel (BaelorRegion, R140). Les Bealoriens distinguent toutefois plusieurs **secteurs** par usage.
 
-### Baeloris-et-Falaise
-Le secteur nord, organisé autour du complexe monastique de Baeloris et de la crique d'accostage. C'est ici que vivent les deux tiers des moines. Le secteur n'a pas de villes : il a Baeloris, et c'est tout. Quelques familles de pêcheurs résident dans la crique, en service d'amarrage et de menus échanges.
-
-### Thyldris-et-Promontoire
-Le secteur est, organisé autour du monastère de Thyldris. Les Veilleurs y vivent en discipline particulière. Aucune famille civile n'y réside ; le promontoire est strictement monastique.
-
-### Tholmë-et-Marais
-Le secteur sud, le plus *peuplé* de l'île si l'on compte les civils. La ville de Tholmë (la seule de Baelor à mériter à peu près ce nom) abrite un cloître, un atelier d'enluminure renommé, et la plus grande communauté de pêcheurs et de saliniers de l'île.
-
-### Velkadra-et-Dorsale
-Le secteur centre-ouest, dans les replis de la dorsale. Plusieurs cloîtres mineurs y sont dispersés, dont Velkadra (chef-lieu doctrinal du Premier Voile permanent). Quelques bergers de chèvres rocheuses parcourent les hauteurs.
-
-### Sarun-et-Côte-Ouest
-Le secteur ouest, le plus discret. Le cloître de Sarun est petit (une trentaine de Silentii), tourné vers l'écoute des grottes marines. C'est dans ce secteur — quelque part dans une grotte de la côte ouest — que **Hesvar de Tholmë** vécut treize ans dans son retrait. La grotte n'a jamais été identifiée. Personne ne la cherche.
-
-### Olfra-et-Hauteurs
-Le secteur central, le plus inhabité. Le cloître d'Olfra est le plus haut de l'île, construit dans un repli de la dorsale qu'on n'atteint que par un sentier que la brume cache trois jours sur quatre. Les bergers du plateau central y déposent parfois du fromage, du sel, des herbes — et repartent sans avoir vu personne. Les moines d'Olfra pratiquent une variante extrême du Second Voile, où même le geste est minimisé.
+- **Baeloris-et-Falaise** (nord) : autour du complexe monastique de Baeloris et de la crique d'accostage ; deux tiers des moines y vivent. Pas de villes (seulement Baeloris). Quelques familles de pêcheurs dans la crique, en service d'amarrage et de menus échanges.
+- **Thyldris-et-Promontoire** (est) : autour du monastère de Thyldris ; les Veilleurs y vivent en discipline particulière. Aucune famille civile ; promontoire strictement monastique.
+- **Tholmë-et-Marais** (sud) : secteur le plus peuplé en civils. La ville de Tholmë (seule à mériter ce nom) abrite un cloître, un atelier d'enluminure renommé, et la plus grande communauté de pêcheurs et saliniers de l'île.
+- **Velkadra-et-Dorsale** (centre-ouest) : replis de la dorsale ; plusieurs cloîtres mineurs dispersés, dont Velkadra (chef-lieu doctrinal du Premier Voile permanent). Quelques bergers de chèvres rocheuses.
+- **Sarun-et-Côte-Ouest** (ouest) : le plus discret. Cloître de Sarun (~30 Silentii), tourné vers l'écoute des grottes marines. C'est dans ce secteur, dans une grotte non identifiée de la côte ouest, que **Hesvar de Tholmë** vécut treize ans de retrait.
+- **Olfra-et-Hauteurs** (central) : le plus inhabité. Cloître d'Olfra, le plus haut de l'île, dans un repli de la dorsale atteint par un sentier que la brume cache trois jours sur quatre. Variante extrême du Second Voile (geste minimisé) ; ravitaillé en fromage, sel et herbes par les bergers du plateau, qui repartent sans voir personne.
 
 ---
 
 ## Villes, cloîtres et lieux
 
-### Baeloris — Complexe monastique principal (Village au sens du registre, en réalité ville monastique de ~3 500 âmes)
-
-*Le principal établissement de l'île — non pas une ville, mais un complexe monastique qui s'étend sur tout le flanc d'une falaise et descend en plusieurs niveaux sous la mer. Baeloris est un labyrinthe de cellules, de salles de méditation, de cours d'entraînement et de bibliothèques, reliées par des passages taillés dans la roche noire. Au sommet, la **Salle du Silence** — un espace circulaire ouvert au ciel — sert de lieu de rassemblement pour les rituels les plus importants. L'Abbé Suprême y réside.*
-
-**Histoire :** Les premiers moines en exil arrivèrent à Baelor sans outils ni matériaux — ils avaient fui précipitamment. Ils sculptèrent Baeloris à mains nues dans la falaise de roche noire, lentement, sur plusieurs générations, refusant tout commerce avec l'extérieur pour obtenir des instruments de construction. Ce choix de pauvreté radicale n'était pas idéologique au départ : ils n'avaient simplement rien. Mais quand ils purent enfin se procurer des outils, ils les refusèrent — la lenteur du travail leur avait appris quelque chose que la vitesse ne pouvait pas. Chaque cellule de Baeloris fut creusée par le moine qui l'habiterait, et chaque moine vit dans l'espace qu'il a lui-même façonné.
-
-- Population : 3 500 environ (Silentii confirmés ~1 800, novices et apprentis ~1 200, familles côtières de la crique ~500)
+### Baeloris — Complexe monastique principal
+Complexe monastique sur tout le flanc d'une falaise, descendant en plusieurs niveaux sous la mer : labyrinthe de cellules, salles de méditation, cours d'entraînement et bibliothèques reliés par des passages taillés dans la roche noire. Au sommet, la **Salle du Silence** (espace circulaire ouvert au ciel) sert aux rituels les plus importants ; l'Abbé Suprême y réside. Fondé à mains nues par les premiers moines en exil (arrivés sans outils ni matériaux), sculpté sur plusieurs générations ; refus du commerce extérieur puis refus des outils une fois disponibles (la lenteur du travail tenue pour formatrice). Chaque cellule creusée par son habitant.
+- Population : ~3 500 (Silentii confirmés ~1 800, novices et apprentis ~1 200, familles côtières de la crique ~500)
 - Région : BaelorRegion
 - Particularités : Salle du Silence ouverte au ciel · Bibliothèque centrale (la plus vaste de l'île) · **Salle Scellée** (cf. *Secrets et intrigues*) · Source Sourde (alimentation en eau, jamais tarie)
 
-### Thyldris — Monastère côtier (Village au sens du registre, ~600 âmes monastiques)
-
-*Second monastère de l'île, construit sur un promontoire face à la mer. Thyldris est le bastion des Veilleurs — les moines chargés de la défense côtière. Des postes d'observation sont répartis sur toute la falaise, et les Veilleurs communiquent par un système de drapeaux et de miroirs. C'est ici que les moines-guerriers les plus talentueux perfectionnent leur art.*
-
-**Histoire :** Thyldris fut bâti après la Défense du Monastère de Kethros, non pas dans la crainte d'une seconde attaque mais dans la compréhension qu'elle aurait pu être évitée. Draven le Sanguinaire avait pu approcher des côtes de Baelor sans être repéré suffisamment tôt parce que personne ne surveillait la mer de façon systématique — les moines méditaient, pas n'observaient. L'Abbé de l'époque décida que l'observation permanente était aussi une forme de méditation. Thyldris fut le résultat : un monastère dont la pratique spirituelle est précisément l'attention portée à l'horizon, l'attente silencieuse de ce qui vient.
-
+### Thyldris — Monastère côtier
+Second monastère, sur un promontoire face à la mer ; bastion des Veilleurs (défense côtière). Postes d'observation répartis sur la falaise, communication par drapeaux et miroirs ; les moines-guerriers les plus talentueux y perfectionnent leur art. Bâti après la Défense du Monastère de Kethros, l'attaque de Draven le Sanguinaire ayant pu approcher faute de surveillance maritime systématique ; l'Abbé de l'époque érigea l'observation permanente en forme de méditation.
 - Population : ~600 (Veilleurs ~400, apprentis ~200, aucune famille civile)
 - Région : BaelorRegion
 - Particularités : Postes d'observation sur 7 lieues de côte · Bibliothèque des Veilleurs (séparée de Baeloris depuis trois siècles) · Cellule de Sœur Kael, conservée intacte depuis sa disparition
 
-### Tholmë — Ville côtière et cloître (la seule "ville" au sens commun, ~4 200 âmes)
-
-*Le seul établissement non strictement monastique de l'île qui ressemble à une ville. Tholmë s'étend sur la côte sud, entre les marais salants et le cloître creusé dans la falaise basse. Les ateliers d'enluminure y sont les plus réputés de Baelor. La communauté civile (pêcheurs, saliniers, quelques tailleurs) y est plus large qu'ailleurs.*
-
-**Histoire :** Tholmë fut fondée environ deux siècles après Baeloris, quand le commerce limité avec Tyndara nécessita un point de contact moins strictement monastique que la crique nord. Le cloître y développa rapidement une pratique distincte, plus orientée vers l'écriture et l'enluminure que vers le combat. C'est aussi à Tholmë que l'**école du Premier Voile** trouva ses meilleurs partisans aux IIe et IIIe siècles, et c'est de Tholmë que **Hesvar** partit pour sa retraite de treize ans dans une grotte de la côte ouest.
-
+### Tholmë — Ville côtière et cloître
+Seul établissement non strictement monastique ressemblant à une ville ; sur la côte sud, entre marais salants et cloître creusé dans la falaise basse. Ateliers d'enluminure les plus réputés de Baelor ; communauté civile (pêcheurs, saliniers, tailleurs) plus large qu'ailleurs. Fondée ~deux siècles après Baeloris pour servir de point de contact commercial avec Tyndara, moins strictement monastique que la crique nord ; pratique orientée vers l'écriture et l'enluminure. Foyer de l'**école du Premier Voile** aux IIe et IIIe siècles, et point de départ de la retraite de treize ans d'**Hesvar** (grotte de la côte ouest).
 - Population : ~4 200 (Silentii ~800, apprentis ~400, civils ~3 000)
 - Région : BaelorRegion
 - Particularités : Plus grand atelier d'enluminure de l'île · Marais salants · Bibliothèque centrale du Premier Voile (officieuse) · Niche conservant la **lamelle non scellée d'Hesvar**
 
-### Velkadra — Cloître de la dorsale ouest (~250 âmes monastiques)
-
-*Cloître creusé dans le flanc oriental de la dorsale, à l'abri du brouillard permanent. Velkadra est l'un des deux centres doctrinaux du Premier Voile permanent. Sa bibliothèque conserve les correspondances entre cloîtres minoritaires des quatre derniers siècles — un corpus que ni Baeloris ni Tholmë ne possèdent en entier.*
-
-**Histoire :** Velkadra fut fondé par un groupe de Silentii qui, au tournant du IIe siècle du Sillage, refusèrent collectivement de prendre le Second Voile. Ils descendirent de Baeloris en silence, traversèrent l'île en cinq jours, s'installèrent dans le repli oriental de la dorsale, et n'envoyèrent aucune lettre d'explication. Quatre siècles plus tard, leurs successeurs pratiquent toujours le Premier Voile permanent, par fidélité et par doute.
-
+### Velkadra — Cloître de la dorsale ouest
+Cloître creusé dans le flanc oriental de la dorsale, à l'abri du brouillard permanent ; l'un des deux centres doctrinaux du Premier Voile permanent. Sa bibliothèque conserve les correspondances entre cloîtres minoritaires des quatre derniers siècles (corpus que ni Baeloris ni Tholmë ne possèdent en entier). Fondé au tournant du IIe siècle du Sillage par des Silentii ayant refusé collectivement le Second Voile ; leurs successeurs pratiquent toujours le Premier Voile permanent.
 - Population : ~250 (Silentii ~180, apprentis ~70)
 - Région : BaelorRegion
 - Particularités : Bibliothèque des correspondances minoritaires · Atelier d'enluminure spécialisé dans les textes brefs · Pratique du Premier Voile permanent
 
-### Sarun — Cloître de la côte ouest (~80 âmes monastiques)
-
-*Petit cloître sur la côte ouest, au-dessus d'une grotte marine longue et profonde. Les Silentii de Sarun pratiquent une discipline particulière : l'écoute des grottes au moment de la marée descendante, quand l'air qui s'échappe des cavités produit des sons que personne d'autre n'entend ailleurs. Les Maîtres de Sarun tiennent que ces sons sont la **voix la moins déformée** que les falaises de Baelor produisent — opinion que Baeloris ne contredit pas mais ne valide pas non plus.*
-
-**Histoire :** Sarun fut fondé environ trois siècles après Baeloris, par un Veilleur de Thyldris qui avait quitté son cloître après avoir entendu, depuis la mer, un son qu'il ne sut pas nommer et qu'il vint chercher sur la côte ouest. Il vécut seul une décennie, puis fut rejoint par d'autres. La pratique d'écoute des grottes vient de lui ; son nom n'a pas été conservé.
-
+### Sarun — Cloître de la côte ouest
+Petit cloître sur la côte ouest, au-dessus d'une grotte marine longue et profonde. Discipline particulière : l'écoute des grottes à marée descendante (sons produits par l'air s'échappant des cavités), tenus pour la **voix la moins déformée** des falaises de Baelor (opinion ni contredite ni validée par Baeloris). Fondé ~trois siècles après Baeloris par un Veilleur de Thyldris venu chercher sur la côte ouest un son entendu depuis la mer ; à l'origine de la pratique d'écoute des grottes (son nom n'a pas été conservé).
 - Population : ~80 (Silentii ~60, apprentis ~20)
 - Région : BaelorRegion
 - Particularités : Grotte de la Marée Sourde · Pratique d'écoute marine · Plus haute proportion de Veilleurs Permanents de l'île (~15 %)
 
-### Olfra — Cloître des hauteurs (~50 âmes monastiques)
-
-*Le cloître le plus haut, le plus reculé, le plus discret de l'île. Construit dans un repli de la dorsale qu'on n'atteint que par un sentier de bruyère que la brume cache trois jours sur quatre, Olfra pratique une variante extrême du Second Voile où même le geste est minimisé. Les visiteurs y sont reçus par regard seul — aucune main ne se lève.*
-
-**Histoire :** Olfra fut fondé par sept Silentii qui, au IVe siècle du Sillage, considérèrent que **le geste lui-même était devenu une parole**. Ils montèrent dans les hauteurs sans rien dire. Quatre siècles plus tard, le cloître subsiste à effectifs réduits, alimenté en sel et fromage par les bergers du plateau qui déposent et repartent sans avoir vu personne.
-
+### Olfra — Cloître des hauteurs
+Cloître le plus haut, le plus reculé et le plus discret de l'île ; dans un repli de la dorsale atteint par un sentier de bruyère que la brume cache trois jours sur quatre. Variante extrême du Second Voile où même le geste est minimisé ; visiteurs reçus par regard seul. Fondé au IVe siècle du Sillage par sept Silentii considérant que **le geste lui-même était devenu une parole** ; subsiste à effectifs réduits, ravitaillé en sel et fromage par les bergers du plateau.
 - Population : ~50 (Silentii ~45, apprentis ~5)
 - Région : BaelorRegion
-- Particularités : Geste minimal · Aucun visiteur étranger jamais accepté · Bibliothèque inexistante (la pratique tient que l'écriture est un geste différé)
+- Particularités : Geste minimal · Aucun visiteur étranger jamais accepté · Bibliothèque inexistante (l'écriture y est tenue pour un geste différé)
 
 ### Hameaux côtiers (10 à 12 hameaux non répertoriés au CSV)
-
-Le long de la côte ouest et de la côte sud, une douzaine de hameaux de pêcheurs et de saliniers comptent entre 50 et 300 habitants chacun. Aucun n'a de cloître attaché. Tous suivent le silence atténué de la culture côtière. Aucun n'a de nom retenu par les chroniques externes ; les Bealoriens ont des noms internes que les visiteurs n'apprennent pas.
+Le long des côtes ouest et sud : une douzaine de hameaux de pêcheurs et saliniers de 50 à 300 habitants chacun. Aucun cloître attaché ; tous suivent le silence atténué de la culture côtière. Aucun nom retenu par les chroniques externes (noms internes non transmis aux visiteurs).
 
 ---
 
@@ -231,47 +186,45 @@ Le long de la côte ouest et de la côte sud, une douzaine de hameaux de pêcheu
 
 | Pays | Relation | Détails |
 |------|----------|---------|
-| **Tyndara** | Non-agression tacite et commerce limité | Les navires tyndariens respectent les eaux de Baelor. Le commerce de sel, de riz et de fer passe par Tholmë. Aucune tension significative depuis trois siècles. |
-| **Caeloria (Lunasar)** | Reconnaissance silencieuse | Les oracles de Caeloria reconnaissent une parenté lointaine entre la pratique des Enfants aux Yeux Blancs et l'écoute baelorienne. Échanges de manuscrits enluminés (offerts, jamais vendus) deux fois l'an environ. Aucun contact officiel. |
-| **Nysaria** | Curiosité réciproque, discrète | Les deux îles mystérieuses partagent un intérêt pour le silence et l'écoute. Aucun contact officiel. Des rumeurs persistantes de passages secrets de moines entre Baelor et Vytharia, jamais confirmées. La fréquence ressentie par Sorin à Baeloris (cf. ch. 36) suggère que les deux îles **partagent quelque chose d'antérieur aux moines** que personne n'a formulé. |
-| **Ulinor** | Indifférence | Aucun contact significatif. Les tribus d'Ulinor ignorent l'existence de Baelor, et les moines s'en accommodent parfaitement. |
-| **Solena, Lumasar, Astravia, Vytharia** | Tolérance des retraites payantes | Quelques nobles fortunés viennent passer des "retraites de silence" payantes dans certains cloîtres de Tholmë et de Velkadra. La pratique est tolérée et scandaleuse selon le point de vue. (cf. *Tensions internes*) |
-| **Cestra** | Aucun contact | Le froid au nord, les routes maritimes nord ne passent pas par Baelor. |
+| **Tyndara** | Non-agression tacite et commerce limité | Les navires tyndariens respectent les eaux de Baelor. Commerce de sel, riz et fer via Tholmë. Aucune tension significative depuis trois siècles. |
+| **Caeloria (Lunasar)** | Reconnaissance silencieuse | Les oracles de Caeloria reconnaissent une parenté lointaine entre la pratique des Enfants aux Yeux Blancs et l'écoute baelorienne. Échanges de manuscrits enluminés (offerts, jamais vendus) ~deux fois l'an. Aucun contact officiel. |
+| **Nysaria** | Curiosité réciproque, discrète | Intérêt partagé pour le silence et l'écoute. Aucun contact officiel. Rumeurs persistantes de passages secrets de moines entre Baelor et Vytharia, jamais confirmées. La fréquence ressentie par Sorin à Baeloris (cf. ch. 36) suggère que les deux îles partagent quelque chose d'antérieur aux moines. |
+| **Ulinor** | Indifférence | Aucun contact significatif. Les tribus d'Ulinor ignorent l'existence de Baelor. |
+| **Solena, Lumasar, Astravia, Vytharia** | Tolérance des retraites payantes | Quelques nobles fortunés font des "retraites de silence" payantes dans certains cloîtres de Tholmë et Velkadra. Pratique tolérée et controversée. (cf. *Tensions internes*) |
+| **Cestra** | Aucun contact | Froid au nord ; les routes maritimes nord ne passent pas par Baelor. |
 
 ---
 
 ## Tensions internes
 
-(Les trois lignes de fracture sont également documentées à [[Baelor - Continent#Tensions internes]] ; on les détaille ici sous l'angle des cloîtres.)
+(Également documentées à [[Baelor - Continent#Tensions internes]] ; détaillées ici sous l'angle des cloîtres.)
 
 ### La querelle des Voiles (Premier vs Second)
-
-L'orthodoxie de **Baeloris**, **Thyldris**, **Sarun** et **Olfra** pratique le **Second Voile** — silence total après une initiation de six mois. Les Silentii de **Tholmë** sont mixtes (les deux Voiles cohabitent dans le même cloître depuis sa fondation, ce qui est une singularité). **Velkadra** pratique le **Premier Voile permanent** comme position doctrinale. Les deux écoles ne pratiquent plus l'**Échange des Lamelles** entre elles depuis quatre siècles. Aucun synode n'a tranché. Aucun ne tranchera.
-
-Les Premier-Voile reprochent au Second sa **rigidification muette** : à force de tout taire, on cesse de douter, et la doctrine devient une certitude qui se croit humble. Les Second-Voile reprochent au Premier sa **concession au bruit** : à force d'admettre l'écriture, on rouvre la porte par laquelle la parole se réinstalle. Les deux ont raison, et ce sont leurs raisons mêmes qui empêchent toute synthèse.
+- Orthodoxie **Second Voile** (silence total après six mois d'initiation) : **Baeloris**, **Thyldris**, **Sarun**, **Olfra**.
+- **Tholmë** : mixte (les deux Voiles cohabitent dans le même cloître depuis sa fondation — singularité).
+- **Velkadra** : **Premier Voile permanent** comme position doctrinale.
+- Les deux écoles ne pratiquent plus l'**Échange des Lamelles** entre elles depuis quatre siècles. Aucun synode n'a tranché.
+- Grief Premier-Voile contre le Second : **rigidification muette** (la doctrine devient certitude qui se croit humble).
+- Grief Second-Voile contre le Premier : **concession au bruit** (l'écriture rouvre la porte à la parole).
 
 ### Le scandale des Visiteurs payants
-
-Depuis environ deux siècles, des nobles de **Vytharia, Lumasar, Astravia, Solena** viennent acheter des "retraites de silence" dans les cloîtres de **Tholmë** et de **Velkadra**, plus rarement à Sarun. Le tarif est élevé. Les revenus permettent l'entretien des bibliothèques d'enluminure et l'achat des matériaux rares (pigments, papiers, encres importés). L'orthodoxie de **Baeloris** ne pratique pas l'accueil payant et regarde poliment ailleurs. Une fraction du clergé, des deux Voiles, y voit la **corruption fondamentale** de la doctrine : un silence acheté n'est plus un silence, c'est un loisir aristocratique. Le sujet ne s'exprime jamais publiquement. Quelques correspondances privées de Maîtres de Tholmë évoquent prudemment la question. Aucune décision collective n'a été prise.
+- Depuis ~deux siècles, des nobles de **Vytharia, Lumasar, Astravia, Solena** achètent des "retraites de silence" à **Tholmë** et **Velkadra**, plus rarement à Sarun. Tarif élevé.
+- Revenus affectés à l'entretien des bibliothèques d'enluminure et à l'achat de matériaux rares (pigments, papiers, encres importés).
+- **Baeloris** ne pratique pas l'accueil payant. Une fraction du clergé (des deux Voiles) y voit la **corruption fondamentale** de la doctrine (un silence acheté n'est plus un silence). Aucune décision collective prise.
 
 ### Thyldris et la dérive des Veilleurs
-
-**Thyldris** est officiellement orthodoxe. En pratique, les Veilleurs développent depuis quatre siècles une discipline non écrite, fondée sur l'idée que ce qu'ils voient à l'horizon n'est pas une menace mais **un retour**. Cette lecture inquiète Baeloris sans que les orthodoxes osent l'interdire (les Veilleurs ont sauvé l'île une fois, et leur statut historique est intouchable). Quelques Veilleurs ont basculé dans ce que les Maîtres appellent **l'écoute saturée** — la confusion entre ce qu'on observe et ce qu'on projette. Le cas de **Sœur Kael** (cf. *Histoires de Baelor — Les Yeux de la Sentinelle*) est l'exemple le plus connu, et l'objet d'une gêne diffuse à Thyldris depuis sa disparition.
-
-L'Abbé Suprême Kethron VI n'a jamais visité Thyldris. Aucun de ses prédécesseurs depuis trois siècles ne l'a fait non plus. Personne ne sait s'il s'agit d'un refus, d'une politesse, ou d'une décision si ancienne qu'elle est devenue invisible.
+- **Thyldris** est officiellement orthodoxe, mais les Veilleurs développent depuis quatre siècles une discipline non écrite : ce qu'ils voient à l'horizon serait non une menace mais **un retour**.
+- Baeloris s'en inquiète sans oser l'interdire (statut historique intouchable des Veilleurs, qui ont sauvé l'île une fois).
+- Quelques Veilleurs basculent dans l'**écoute saturée** (confusion entre observation et projection) ; cas le plus connu : **Sœur Kael** (cf. *Histoires de Baelor — Les Yeux de la Sentinelle*).
+- L'Abbé Suprême Kethron VI n'a jamais visité Thyldris ; aucun de ses prédécesseurs depuis trois siècles non plus (refus, politesse ou décision devenue invisible : inconnu).
 
 ---
 
 ## Secrets et intrigues
 
-- **La Salle Scellée**. Sous le monastère de Baeloris, à un niveau inférieur que peu de moines connaissent, une salle est scellée depuis la fondation de l'île. Les abbés se transmettent la connaissance de son existence mais personne ne l'a jamais ouverte. La tradition orthodoxe dit qu'elle contient *« la voix de Somnix lui-même »* — un son si pur qu'il rendrait fou quiconque n'est pas préparé. La tradition minoritaire (Premier Voile, Velkadra) dit qu'elle ne contient rien — qu'on a scellé une salle vide pour ritualiser l'idée qu'il y a quelque chose. Les deux traditions s'accordent sur un point : on ne l'ouvrira pas. La curiosité ne suffit pas. Le seuil ne s'est jamais présenté.
-
-- **La Lamelle d'Hesvar**. Dans la bibliothèque de Tholmë, dans une niche que personne n'ouvre, repose la **lamelle non scellée gravée par Hesvar de Tholmë** à sa mort. Le mot qui y est inscrit est contesté : selon les sources qu'on consulte, il s'agit de *« peut-être »*, de *« encore »*, ou — pour quelques manuscrits — d'un signe qu'aucun Silentii vivant ne sait plus lire. La niche est ouverte tous les sept ans pour vérifier l'état de la lamelle. Elle est ensuite refermée. Personne ne lit le mot — on regarde simplement que la lamelle est là.
-
-- **La Carte des Cairns**. Sur le plateau central, dans le Voile bas, une trentaine de cairns marquent des passages anciens. Personne ne sait qui les a posés. Les bergers les entretiennent — chacun reprend la pierre qui est tombée pendant l'année écoulée — sans en discuter avec quiconque. Une carte précise des cairns existerait, dressée par un berger de la fin du IIe siècle, et conservée dans une cache de la dorsale. Personne ne l'a jamais consultée publiquement. Quelques moines d'Olfra la tiendraient pour eux, sans en parler.
-
-- **Le Moine Parlant**. À Baeloris, depuis plus d'un siècle, la rumeur dit que **l'un des moines brise secrètement son vœu de silence**. Chaque nuit, dans les profondeurs du monastère, il murmurerait des prières dans une langue inconnue. Les autres moines le suspectent mais ne l'ont pas identifié. L'**Histoire de Frère Ossian** (cf. *Histoires de Baelor — Le Murmure du Traître*) en est le récit le plus complet. Certains pensent qu'Ossian était possédé. D'autres qu'il était prophète. L'Abbé Kethron VI a refusé qu'on l'amène devant la Salle Scellée. Personne ne sait pourquoi.
-
-- **L'Arme Ultime**. Les Maîtres de Discipline enseignent un art martial secret aux seuls moines de rang supérieur — une technique capable de tuer **par l'absence de son**. En créant un vide acoustique parfait autour de la tête d'un adversaire, le moine provoque une désorientation fatale. Cette technique n'a été utilisée que trois fois dans l'histoire de Baelor (deux pendant la Défense du Monastère de Kethros, une dans une circonstance que les chroniques ne rapportent pas). La transmission est strictement orale-gestuelle ; aucun manuscrit ne la décrit.
-
-- **Le Vieux Moine Aux Cheveux Blancs**. Le moine qui accompagne Sorin Valthen pendant ses cinq jours à Baeloris (cf. ch. 36 des Chroniques) n'est nommé dans aucune source. Sera, l'interprète, ne le connaît pas non plus. Les bibliothèques de Baeloris ne tiennent pas de registre des accompagnateurs de visiteurs. Quelques chroniqueurs externes spéculent qu'il s'agirait d'un Silentii très ancien, peut-être l'aîné survivant des **Veilleurs Permanents** issus du Souffle des Yeux Ouverts (an 234) — ce qui en ferait un homme proche des cent vingt ans. Aucun moine ne confirmera ni n'infirmera. Le geste qu'il fit à Sorin sur le chemin du quai (*« Revenez quand vous aurez lu la troisième langue »*) reste, pour les rares observateurs externes qui en eurent connaissance, **le geste le plus précis qu'un Silentii ait jamais offert à un étranger**.
+- **La Salle Scellée** : sous Baeloris, à un niveau inférieur connu de peu de moines, scellée depuis la fondation de l'île. Les abbés se transmettent la connaissance de son existence ; jamais ouverte. Tradition orthodoxe : elle contiendrait « la voix de Somnix lui-même » (son si pur qu'il rendrait fou). Tradition minoritaire (Premier Voile, Velkadra) : elle ne contiendrait rien (salle vide scellée pour ritualiser l'idée). Accord des deux traditions : on ne l'ouvrira pas.
+- **La Lamelle d'Hesvar** : dans une niche de la bibliothèque de Tholmë, **lamelle non scellée gravée par Hesvar de Tholmë** à sa mort. Mot inscrit contesté selon les sources : « peut-être », « encore », ou un signe qu'aucun Silentii vivant ne sait plus lire. Niche ouverte tous les sept ans pour vérifier l'état de la lamelle, puis refermée ; le mot n'est pas lu.
+- **La Carte des Cairns** : sur le plateau central (Voile bas), une trentaine de cairns marquent des passages anciens d'origine inconnue. Entretenus par les bergers (chacun replace la pierre tombée dans l'année), sans discussion. Une carte précise dressée par un berger de la fin du IIe siècle existerait, conservée dans une cache de la dorsale ; jamais consultée publiquement. Quelques moines d'Olfra la détiendraient.
+- **Le Moine Parlant** : à Baeloris, depuis plus d'un siècle, rumeur selon laquelle **un moine brise secrètement son vœu de silence**, murmurant chaque nuit des prières dans une langue inconnue. Récit le plus complet : **Histoire de Frère Ossian** (cf. *Histoires de Baelor — Le Murmure du Traître*). Possédé ou prophète selon les avis. L'Abbé Kethron VI a refusé qu'on l'amène devant la Salle Scellée (raison inconnue).
+- **L'Arme Ultime** : art martial secret enseigné aux seuls moines de rang supérieur — tuer **par l'absence de son** (vide acoustique parfait autour de la tête de l'adversaire, désorientation fatale). Utilisée trois fois dans l'histoire de Baelor (deux pendant la Défense du Monastère de Kethros, une dans une circonstance non rapportée). Transmission strictement orale-gestuelle, aucun manuscrit.
+- **Le Vieux Moine Aux Cheveux Blancs** : accompagnateur de Sorin Valthen lors de ses cinq jours à Baeloris (cf. ch. 36 des Chroniques) ; nommé dans aucune source, inconnu même de l'interprète Sera. Spéculation externe : Silentii très ancien, peut-être l'aîné survivant des **Veilleurs Permanents** du Souffle des Yeux Ouverts (an 234), ce qui en ferait un homme proche de 120 ans. Geste fait à Sorin sur le chemin du quai : « Revenez quand vous aurez lu la troisième langue ».

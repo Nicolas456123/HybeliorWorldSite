@@ -2,7 +2,7 @@
 tags: [lore, pays, azoria, solmaris]
 type: nation
 status: drafted
-last_review: 2026-05-06
+last_review: 2026-06-05
 needs_review_for: []
 ---
 # Solmaris — L'Archipel du Soleil Court
@@ -30,7 +30,7 @@ needs_review_for: []
 - **Les Doyens d'Hivernage** : président les communautés pendant les huit mois d'hivernage. Souvent les mêmes individus que les Capitaines de Saison, mais avec une autre fonction (et une autre légitimité : on ne les élit pas, ils s'imposent par sagesse reconnue).
 - **Les Veilleurs Stellari** (Ordo Caelum) : minoritaires, présence locale, lecture des étoiles d'hivernage. Toléré en *complément* de Rota Mundi, pas en concurrence.
 
-Le système fonctionne par **alternance saisonnière** : l'estive est gouvernée par le mouvement (Capitaines de Saison, prises de décision rapides, navigation), l'hivernage par la patience (Doyens, contemplation, planification du Retour). Ce dédoublement des fonctions évite les conflits de pouvoir — chaque type de personne a sa saison.
+- **Principe d'alternance saisonnière** : estive gouvernée par le mouvement (Capitaines de Saison, décisions rapides, navigation), hivernage par la patience (Doyens, contemplation, planification du Retour). Ce dédoublement des fonctions évite les conflits de pouvoir.
 
 ---
 
@@ -38,35 +38,45 @@ Le système fonctionne par **alternance saisonnière** : l'estive est gouvernée
 
 ### Rota Mundi — Le Cycle Éternel (religion principale, branche solaire)
 
-Solmaris est la nation Rota Mundi la plus *cyclique* dans son rapport au temps : la brièveté de la saison solaire, la régularité du Retour, la prévisibilité des grands Cycles cosmologiques (ères, Souffles) — tout impose la lecture cyclique. La doctrine solmarienne se distingue de Rota Mundi galenorien (Mara Telventh, Ventera) par deux traits :
-
-- **La Veillée du Premier Rayon** (rite central solmarien). Chaque solstice d'été, à l'heure exacte du lever de soleil le plus précoce de l'année, une veillée collective est tenue dans tous les villages — silence absolu pendant les sept minutes qui précèdent et suivent le lever. Cette veillée est *obligatoire* en pratique (toute activité commerciale est interdite) et *traditionnelle* en doctrine (rien n'oblige à la tenir en théorie). Elle commémore le Premier Retour de l'an 0.
-- **Les Cendres de Velkmis** (rite annuel d'hivernage). Chaque équinoxe d'automne, une cérémonie est tenue à Astralis pour honorer les morts de l'éruption de Velkmis (an +89). On y mélange une pincée de cendres volcaniques (importées de l'île désormais inhabitée) à l'eau du Temple du Cycle, et l'eau est utilisée pour bénir les enfants nés dans l'année. La cérémonie est belle. Elle est aussi le rite par lequel la doctrine *digère* l'événement de Velkmis sans le penser : les enfants bénis aujourd'hui ne savent pas que les cendres viennent d'un Retour qui n'a pas tenu.
+- Branche **solaire** de Rota Mundi ; nation Rota Mundi la plus cyclique dans son rapport au temps (brièveté de la saison solaire, régularité du Retour, prévisibilité des grands Cycles cosmologiques : ères, Souffles).
+- Se distingue du Rota Mundi galenorien ([[Mara Telventh]], [[Ventera]]) par deux rites propres :
+- **La Veillée du Premier Rayon** (rite central) : chaque solstice d'été, à l'heure exacte du lever de soleil le plus précoce de l'année, veillée collective dans tous les villages, silence absolu pendant les sept minutes encadrant le lever. Obligatoire en pratique (toute activité commerciale interdite), traditionnelle en doctrine. Commémore le Premier Retour de l'an 0.
+- **Les Cendres de [[Velkmis]]** (rite annuel d'hivernage) : chaque équinoxe d'automne, cérémonie à [[Astralis]] pour honorer les morts de l'éruption de Velkmis (an +89). Une pincée de cendres volcaniques (importées de l'île désormais inhabitée) est mélangée à l'eau du Temple du Cycle ; cette eau bénit les enfants nés dans l'année. Fonction doctrinale : digérer l'événement de Velkmis (un Retour qui n'a pas tenu) sans le penser.
 
 **Particularités solmariennes :**
 
-- **Le Cahier des Saisons** : tenu par chaque famille, il consigne pour chaque année les dates exactes du Premier Rayon, du Dernier Rayon, des éruptions mineures, des migrations de bancs de poissons. Les Cahiers les plus anciens remontent au Sillage 50. Ils sont précieux. Ils sont aussi, depuis l'an 200, *non lus* — la doctrine officielle considère que ce qui s'écrit dans les Cahiers se *régularise par le Cycle* sans qu'il soit nécessaire de comparer les années entre elles. Quelques particuliers (cf. *Histoires*) ont commencé à comparer en privé.
-- **Le Cycle Personnel** : chaque Solmarien est censé avoir, dans sa vie, **trois Retours-clé** — naissance (qu'il ne se souvient pas), maturité (autour de vingt-cinq ans, lors d'une Veillée du Premier Rayon spécialement célébrée), mort (qui doit, idéalement, advenir lors d'un Premier Rayon — les *« morts au Rayon »* sont considérés comme bénis). En pratique, les Solmariens meurent de toutes les façons. La doctrine considère que *« le Cycle de chacun trouve son Rayon »*, formule qui couvre toutes les circonstances.
+- **Le Cahier des Saisons** : tenu par chaque famille ; consigne chaque année les dates exactes du Premier Rayon, du Dernier Rayon, les éruptions mineures, les migrations de bancs de poissons. Cahiers les plus anciens : Sillage 50. Depuis l'an 200, doctrinalement *non lus* (la doctrine officielle tient que leur contenu se régularise par le Cycle, sans comparaison entre années). Quelques particuliers comparent en privé (cf. Secrets et intrigues).
+- **Le Cycle Personnel** : chaque Solmarien est censé connaître trois Retours-clé — naissance (non remémorée), maturité (vers 25 ans, lors d'une Veillée du Premier Rayon spécialement célébrée), mort (idéalement lors d'un Premier Rayon ; les *« morts au Rayon »* sont tenus pour bénis). Formule doctrinale couvrant toutes circonstances réelles : *« le Cycle de chacun trouve son Rayon »*.
 
 ### Ordo Caelum (secondaire — lectures stellaires d'hivernage)
 
-Pendant l'hivernage, quand le soleil ne se lève que quelques heures par jour, les Solmariens regardent les étoiles. Une petite communauté Stellari s'est implantée au Sillage 50 et tient depuis quatre observatoires modestes — deux à Astralis, un à Solnir, un à Velmaris. Les Veilleurs Stellari sont *complémentaires* aux Veilleurs Roteri : ils lisent les étoiles d'hiver pour confirmer ce que les Roteri attendent du Retour. Aucune tension doctrinale active — Solmaris a négocié dès le départ une *coexistence subordonnée* (l'Ordo Caelum y est en seconde place définitive, sans aucun pouvoir politique).
+- Pratiquée pendant l'hivernage (soleil levé seulement quelques heures par jour) : lecture des étoiles.
+- Communauté Stellari implantée au Sillage 50 ; tient quatre observatoires modestes — deux à [[Astralis]], un à [[Solnir]], un à [[Velmaris]].
+- Veilleurs Stellari complémentaires des Veilleurs Roteri : lisent les étoiles d'hiver pour confirmer ce que les Roteri attendent du Retour.
+- Aucune tension doctrinale active. Coexistence subordonnée négociée dès le départ : seconde place définitive, aucun pouvoir politique.
 
 ### Foedus Animae (locale)
 
-Quelques familles solmariennes — notamment à Velkmis-Refuge (l'île la plus proche de l'ancien Velkmis) — entretiennent des autels familiaux Foedus Animae depuis l'éruption de l'an +89. La présence est tolérée par les Veilleurs Roteri tant qu'elle reste familiale et n'organise pas de cérémonie publique.
+- Autels familiaux Foedus Animae entretenus par quelques familles, notamment à [[Velkmis-Refuge]] (île la plus proche de l'ancienne Velkmis), depuis l'éruption de l'an +89.
+- Tolérée par les Veilleurs Roteri tant qu'elle reste familiale et n'organise pas de cérémonie publique.
 
 ---
 
 ## Culture et société
 
-### L'estive comme festival
+### L'estive (mai à août, 4 mois)
 
-Pendant les quatre mois d'estive (mai à août), Solmaris vit en état de **festival permanent**. Marchés en plein air, courses de bateaux, échanges entre îles, mariages massifs (la quasi-totalité des mariages se célèbrent en estive), naissances assistées (les médecins se déplacent d'île en île), commerce intense avec les nations voisines (la Route Solaire vers Endora, le commerce mineur avec Brisivar). Pendant ces quatre mois, l'archipel est lumineux, sonore, mobile.
+- État de festival permanent : marchés en plein air, courses de bateaux, échanges entre îles.
+- Mariages massifs (quasi-totalité des mariages célébrés en estive).
+- Naissances assistées (médecins se déplaçant d'île en île).
+- Commerce intense avec les nations voisines : Route Solaire vers [[Endora]], commerce mineur avec [[Brisivar]].
 
-### L'hivernage comme contemplation
+### L'hivernage (septembre à avril, 8 mois)
 
-Pendant les huit mois d'hivernage (septembre à avril), tout ralentit. Les bateaux sont remisés, les îles s'isolent, les communautés se replient autour des sources thermales. La pêche continue — sous la banquise pour les îles nordiques, en eaux libres mais glaciales pour les îles méridionales — mais à un rythme réduit. La principale activité d'hivernage est la **lecture des Cahiers de Saisons**, la préparation des outils, la couture, le tissage, et — pour les Veilleurs — la lecture des étoiles. Les conversations sont longues. Les *strok* du sud (variante solmarienne du strok kethvarien, à base de poisson plutôt que de viande) sont la base de l'alimentation hivernale.
+- Ralentissement général : bateaux remisés, îles isolées, communautés repliées autour des sources thermales.
+- Pêche continuée à rythme réduit : sous la banquise pour les îles nordiques, en eaux libres mais glaciales pour les îles méridionales.
+- Activités principales : lecture des Cahiers de Saisons, préparation des outils, couture, tissage, lecture des étoiles (Veilleurs).
+- Base de l'alimentation hivernale : les *strok* du sud (variante solmarienne du strok kethvarien, à base de poisson plutôt que de viande).
 
 ### Hiérarchie sociale
 
@@ -84,107 +94,127 @@ Pendant les huit mois d'hivernage (septembre à avril), tout ralentit. Les batea
 
 ### Gastronomie
 
-La cuisine solmarienne est duale : la cuisine d'estive est lumineuse, ouverte, festive (poissons grillés, salades de plantes thermales, fruits des jardins volcaniques, vins doux importés d'Endora), la cuisine d'hivernage est dense, conservée, lente (poissons fumés au soufre — qui leur donne un goût caractéristique —, conserves au sel rouge, bouillons longs). Le plat emblématique est le **rakshmir** — un poisson cuit sur une pierre volcanique chaude, badigeonné d'huile de plantes thermales, mangé directement à la main pendant l'estive. C'est aussi un aliment de Veillée du Premier Rayon : à l'aube du solstice d'été, dans tous les villages, des dizaines de pierres volcaniques chaudes attendent les poissons que les pêcheurs viennent d'apporter.
+- Cuisine duale.
+- **Estive** : poissons grillés, salades de plantes thermales, fruits des jardins volcaniques, vins doux importés d'[[Endora]].
+- **Hivernage** : poissons fumés au soufre (goût caractéristique), conserves au sel rouge, bouillons longs.
+- Plat emblématique : le **rakshmir** — poisson cuit sur pierre volcanique chaude, badigeonné d'huile de plantes thermales, mangé à la main en estive. Aussi aliment de Veillée du Premier Rayon (poissons cuits à l'aube du solstice d'été sur les pierres volcaniques de chaque village).
 
 ### Architecture
 
-Les villages solmariens sont **doubles** : une partie estivale (légère, en bois et toiles), une partie hivernale (en pierre volcanique, semi-enterrée près des sources thermales). Pendant l'estive, on vit dehors ou dans la partie estivale ; pendant l'hivernage, on se replie dans la partie hivernale. Les Temples du Cycle sont les seules constructions permanentes — pierre noire volcanique, plan circulaire, ouverture orientée plein est pour le Premier Rayon. Les couleurs dominantes : noir des pierres volcaniques, rouge profond des sels et des étoffes traditionnelles, bleu pâle des étoffes d'estive.
+- Villages **doubles** : partie estivale (légère, bois et toiles) ; partie hivernale (pierre volcanique, semi-enterrée près des sources thermales). On vit dans la partie estivale ou dehors en estive, dans la partie hivernale en hivernage.
+- Seules constructions permanentes : les Temples du Cycle — pierre noire volcanique, plan circulaire, ouverture orientée plein est pour le Premier Rayon.
+- Couleurs dominantes : noir (pierres volcaniques), rouge profond (sels et étoffes traditionnelles), bleu pâle (étoffes d'estive).
 
 ### Biais culturels
 
-- **Le Retour comme valeur cardinale.** Pour un Solmarien, *attendre* est plus noble que *partir* ; *préparer le Retour* est plus prestigieux qu'agir ; *honorer le Cycle* prévaut sur toute initiative individuelle. Cette norme produit une douceur, une hospitalité et une patience exceptionnelles. Elle produit aussi une **passivité fonctionnelle** : peu d'innovation, peu d'initiative individuelle hors les saisons rituelles, peu de tolérance pour les ruptures.
-- **La rationalisation comme méthode.** Quand un événement contredit la doctrine du Cycle (Velkmis, mais aussi des éruptions mineures, des saisons décalées, des bancs de poissons disparus), la doctrine *intègre* l'événement comme *« cycle local »* qui ne perturbe pas le *« Cycle général »*. Cette méthode est étonnamment robuste. Elle empêche la nation de penser ses propres signaux faibles.
-- **Le silence en hivernage.** Les Solmariens parlent peu pendant les huit mois d'hivernage — non par discipline (comme à Caeloria), mais par épuisement saisonnier. Les conversations sont longues mais rares. Les conflits sont reportés à l'estive (où ils se résolvent généralement par exposition à la lumière et par fatigue collective). Cette gestion temporelle des conflits est efficace en moyenne, désastreuse dans les cas exceptionnels.
-- **La compulsion festive en estive.** À l'inverse, l'estive est *compulsive* : on travaille jour et nuit, on célèbre jour et nuit, on commerce jour et nuit. Les morts par épuisement estival sont une catégorie reconnue (*« mort à la Lumière »*) et glorifiée. La doctrine officielle interprète ces morts comme des *« Cycles personnels achevés au sommet »*. Les médecins solmariens, eux, voient des arrêts cardiaques dus au surmenage.
-- **L'admiration polie pour Caeloria, l'animosité fraternelle avec Azoral, l'indifférence avec Kethvar.** Les Solmariens trouvent les Caéloriens *justes* (lire le ciel, c'est noble) mais *trop sérieux* (l'Édit, le Recensement, l'Heure Sans Bruit — beaucoup d'austérité pour si peu de retours). Avec Azoral, c'est l'animosité maritime habituelle (les Azoraliens sont *grands*, les Solmariens *fiers*). Avec Kethvar, on ne se voit guère — les Kethvariens sont *trop continentaux* (formule qu'on entend partout en Solmaris).
+- **Le Retour comme valeur cardinale** : attendre prime sur partir ; préparer le Retour prime sur agir ; honorer le Cycle prévaut sur l'initiative individuelle. Effets : douceur, hospitalité, patience exceptionnelles, mais aussi passivité fonctionnelle (peu d'innovation, peu d'initiative individuelle hors saisons rituelles, peu de tolérance aux ruptures).
+- **La rationalisation comme méthode** : tout événement contredisant la doctrine du Cycle ([[Velkmis]], éruptions mineures, saisons décalées, bancs de poissons disparus) est intégré comme *« cycle local »* ne perturbant pas le *« Cycle général »*. Méthode robuste ; empêche la nation de penser ses propres signaux faibles.
+- **Le silence en hivernage** : peu de paroles pendant les 8 mois d'hivernage, par épuisement saisonnier (et non par discipline comme à [[Caeloria]]). Conflits reportés à l'estive, où ils se résolvent par exposition à la lumière et fatigue collective. Efficace en moyenne, défaillant dans les cas exceptionnels.
+- **La compulsion festive en estive** : travail, célébration et commerce jour et nuit. Les morts par épuisement estival forment une catégorie reconnue (*« mort à la Lumière »*), glorifiée et interprétée doctrinalement comme *« Cycles personnels achevés au sommet »* ; cause médicale réelle : arrêts cardiaques par surmenage.
+- **Perceptions des voisins** :
+  - [[Caeloria]] : admiration polie. Caéloriens jugés justes (lire le ciel = noble) mais trop sérieux (l'Édit, le Recensement, l'Heure Sans Bruit).
+  - [[Azoral]] : animosité fraternelle, rivalité maritime (Azoraliens *grands*, Solmariens *fiers*).
+  - [[Kethvar]] : indifférence ; Kethvariens jugés *trop continentaux* (formule courante en Solmaris).
 
 ---
 
 ## Régions
 
 ### Astralia
-Région centrale, portant la cité-mère d'Astralis. C'est l'île principale du grand archipel central, et le siège du Conclave. Volcanique, tiède en hivernage, fertile en estive. Astralia abrite le Temple du Cycle principal et l'Observatoire Stellari principal. Population la plus dense.
+- Région centrale ; île principale du grand archipel central, siège du Conclave. Porte la cité-mère [[Astralis]].
+- Volcanique, tiède en hivernage, fertile en estive. Population la plus dense.
+- Abrite le Temple du Cycle principal et l'Observatoire Stellari principal.
 
 ### Solniria
-Région nord, portant la ville de Solnir. Archipel de cinq îles habitées, plus exposé aux vents catabatiques venus du continent. Spécialité : sel rouge, conserves de poisson, fonderies mineures. Frontière maritime indirecte avec Caeloria.
+- Région nord. Porte la ville de [[Solnir]]. Archipel de cinq îles habitées, exposé aux vents catabatiques venus du continent.
+- Spécialité : sel rouge, conserves de poisson, fonderies mineures.
+- Frontière maritime indirecte avec [[Caeloria]].
 
 ### Velmaria
-Région ouest, portant la ville de Velmaris. Archipel de quatre îles, dont l'une est l'ancienne Velkmis (aujourd'hui inhabitée et lieu de pèlerinage). Spécialité : soufre, plantes thermales, médecine traditionnelle.
+- Région ouest. Porte la ville de [[Velmaris]]. Archipel de quatre îles, dont l'ancienne [[Velkmis]] (inhabitée, lieu de pèlerinage).
+- Spécialité : soufre, plantes thermales, médecine traditionnelle.
 
 ### Krasvaria
-Région sud, portant le village de Krasvar. Archipel de trois îles, le plus chaud de Solmaris (volcans encore actifs). Spécialité : agriculture sur sol volcanique (pommes de terre, raves, fruits qui ne poussent pas ailleurs en Azoria), exportation à Endora.
+- Région sud. Porte le village de [[Krasvar]]. Archipel de trois îles, le plus chaud de Solmaris (volcans encore actifs).
+- Spécialité : agriculture sur sol volcanique (pommes de terre, raves, fruits qui ne poussent pas ailleurs en Azoria) ; exportation à [[Endora]].
 
 ### Velkmis-Refuge
-Région à part — île unique, située à proximité de l'ancienne Velkmis. Refuge des descendants des survivants de l'éruption. Présence Foedus Animae notable. Population faible, économie de subsistance.
+- Région à part — île unique, proche de l'ancienne [[Velkmis]]. Refuge des descendants des survivants de l'éruption.
+- Présence Foedus Animae notable. Population faible, économie de subsistance.
 
 ---
 
 ## Villes et villages
 
 ### Astralis — Capitale ★
-*Cité-mère de Solmaris, Astralis est bâtie en demi-cercle autour d'une caldera ancienne dont le fond, comblé de cendres et de terre, est devenu un jardin sacré chauffé par les sources thermales. Le Temple du Cycle principal y siège ; à l'aube du solstice d'été, le Premier Rayon traverse l'ouverture orientale du temple et frappe l'autel exactement au centre — un alignement architectural calculé au quart de degré. La ville d'estive est lumineuse : maisons en bois peint de bleu et de rouge, places ouvertes, marchés. La ville d'hivernage est enterrée : couloirs de pierre volcanique reliant les habitations aux sources, lumière de lampes à huile de plantes thermales.*
-**Histoire :** Astralis fut fondée à l'emplacement d'un ancien comptoir Roteri d'Onara. La caldera, dont l'éruption ultime remonterait selon les paléographes à plus de cent mille ans, offre une géométrie naturelle exceptionnelle pour l'observation solaire. Le Temple du Cycle fut bâti par les premiers prêtres Roteri solmariens en l'an 0 du Sillage, sur des plans dérivés de modèles d'Onara. Le Conclave des Douze Lumières s'y réunit deux fois par an depuis le Sillage 12. Le Premier Veilleur Larem Solnir-Astralis y réside la moitié de l'année.
+- Cité-mère de Solmaris, bâtie en demi-cercle autour d'une caldera ancienne (dernière éruption datée par les paléographes à plus de cent mille ans) dont le fond comblé de cendres et de terre forme un jardin sacré chauffé par les sources thermales. Ville d'estive en bois peint bleu et rouge ; ville d'hivernage enterrée (couloirs de pierre volcanique vers les sources).
+- Fondée à l'emplacement d'un ancien comptoir Roteri d'[[Onara]].
+- Temple du Cycle principal bâti en l'an 0 du Sillage par les premiers prêtres Roteri solmariens, sur plans dérivés de modèles d'Onara ; à l'aube du solstice d'été, le Premier Rayon traverse l'ouverture orientale et frappe l'autel au centre (alignement calculé au quart de degré).
+- Siège du Conclave des Douze Lumières, réuni deux fois par an depuis le Sillage 12. Résidence du Premier Veilleur Larem Solnir-Astralis la moitié de l'année.
 - Population : Capitale
 - Région : Astralia
 - Particularités : Temple du Cycle principal, Conclave des Douze Lumières, Observatoire Stellari principal, jardin de la caldera.
 
 ### Solnir — Ville
-*Port nord. Solnir est plus rude qu'Astralis, plus exposée. Ses sources thermales sont moins puissantes, son hivernage plus sombre. La ville s'est spécialisée dans le sel rouge — récolté dans les marais salants chauffés par voie géothermique aux abords de la ville — et dans les conserves longues. Les fumeries de Solnir produisent un poisson fumé au soufre qui se vend bien à Mosrack continental.*
-**Histoire :** Solnir fut fondée comme avant-poste de pêche par des familles d'Astralia trouvant l'archipel central trop peuplé. La spécialisation en sel rouge vint d'une découverte fortuite : un pêcheur observa que le sel évaporé près d'une certaine source thermale prenait une teinte rouge caractéristique due à la présence de fer dissous. La récolte s'organisa. Le sel rouge est aujourd'hui un produit identitaire de Solnir, vendu plus cher que le sel ordinaire malgré une utilité culinaire identique.
+- Port nord, plus rude et exposé qu'Astralis (sources thermales moins puissantes, hivernage plus sombre). Fondée comme avant-poste de pêche par des familles d'Astralia.
+- Spécialités : sel rouge (récolté dans des marais salants chauffés par géothermie ; teinte rouge due au fer dissous d'une source thermale ; vendu plus cher que le sel ordinaire malgré une utilité culinaire identique), conserves longues, poisson fumé au soufre (exporté vers [[Mosrack]] continental).
 - Population : Ville
 - Région : Solniria
 
 ### Velmaris — Ville
-*Port ouest. Velmaris est la cité du soufre et des plantes thermales. Ses ateliers de pharmacie sont fréquentés par des médecins venus d'Endora et de Lumasar pour s'approvisionner. La ville exhale une odeur caractéristique — sulfureuse, herbacée — qui colle aux vêtements et que les Solmariens disent reconnaître à des lieues sous le vent. Velmaris est aussi le port d'embarquement pour les pèlerinages à l'ancienne Velkmis.*
-**Histoire :** Velmaris fut fondée comme comptoir de soufre. Pendant cinquante ans, ce fut son unique activité. La spécialisation pharmaceutique vint d'une migration tardive (Sillage 138) de médecins solmariens d'Astralis qui trouvaient le climat de Velmaris plus propice à la culture des plantes thermales. La cohabitation entre soufriers et médecins fut tendue pendant deux générations — chacun trouvant l'autre *« nuisible »* — avant que les deux corporations ne comprennent qu'elles travaillaient sur les mêmes substances.
+- Port ouest, cité du soufre et des plantes thermales (odeur sulfureuse et herbacée caractéristique). Fondée comme comptoir de soufre (unique activité pendant cinquante ans).
+- Ateliers de pharmacie fréquentés par des médecins venus d'[[Endora]] et de [[Lumasar]] pour s'approvisionner. Spécialisation pharmaceutique née d'une migration de médecins d'Astralis au Sillage 138 (climat plus propice aux plantes thermales).
+- Port d'embarquement des pèlerinages à l'ancienne [[Velkmis]].
 - Population : Ville
 - Région : Velmaria
 
 ### Krasvar — Village
-*Bourg agricole sur l'île la plus chaude de Solmaris. Krasvar est le seul lieu d'Azoria où l'on cultive des fruits charnus en plein sol — abricots, pêches naines, prunes acides. Les jardins de Krasvar sont chauffés par voie géothermique en hivernage, ce qui permet une saison de croissance prolongée. La ville exporte presque toute sa production à Endora.*
-**Histoire :** Krasvar fut fondée comme dépendance agricole d'Astralis. La découverte que les sols volcaniques de l'archipel sud permettaient de cultiver des fruits que rien d'autre ne permettait en Azoria fut faite progressivement. La spécialisation s'imposa. Krasvar est un bourg modeste mais riche par habitant — ce qui crée une certaine tension avec les villages plus pauvres des autres archipels.
+- Bourg agricole sur l'île la plus chaude de Solmaris ; fondé comme dépendance agricole d'Astralis. Modeste mais riche par habitant (source de tension avec les villages plus pauvres des autres archipels).
+- Seul lieu d'Azoria cultivant des fruits charnus en plein sol (abricots, pêches naines, prunes acides) ; jardins chauffés par géothermie en hivernage (saison de croissance prolongée). Production presque entièrement exportée à [[Endora]].
 - Population : Village
 - Région : Krasvaria
 
 ### Velkmis-Refuge — Village
-*Île de mémoire. Velkmis-Refuge a été fondée par les trois cents survivants de l'éruption de l'an +89, sur l'île voisine de l'ancienne Velkmis. Le village est petit, sobre, replié. Les autels Foedus Animae sont visibles dans la majorité des maisons. Les enfants apprennent dès leur plus jeune âge l'histoire de l'éruption. Une fois par an, à l'équinoxe d'automne, les habitants traversent les huit lieues qui les séparent de l'ancienne Velkmis pour y recueillir une pincée de cendres — les mêmes cendres qui sont ensuite utilisées dans la cérémonie d'Astralis.*
-**Histoire :** Les survivants de Velkmis refusèrent de se disperser dans les autres archipels — ils insistèrent pour rester ensemble, à proximité de leur île morte. Le Conclave de l'époque accepta, à condition que la nouvelle communauté reconnaisse formellement la doctrine du *« cycle local »* (Velkmis comme cycle fermé, distinct du Cycle général). Les habitants de Velkmis-Refuge ont accepté cette formule, mais ils l'enseignent à leurs enfants avec un soin particulier — comme s'ils n'étaient pas sûrs que la formule tienne.
+- Fondé par les trois cents survivants de l'éruption de l'an +89, sur l'île voisine de l'ancienne [[Velkmis]] ; les survivants refusèrent la dispersion et obtinrent du Conclave de rester ensemble près de leur île morte, à condition de reconnaître formellement la doctrine du *« cycle local »* (Velkmis comme cycle fermé, distinct du Cycle général).
+- Village petit, sobre, replié. Autels Foedus Animae dans la majorité des maisons ; histoire de l'éruption enseignée aux enfants.
+- Chaque équinoxe d'automne, les habitants traversent les huit lieues vers l'ancienne Velkmis pour recueillir la pincée de cendres utilisée ensuite dans la cérémonie d'Astralis.
 - Population : Village
 - Région : Velkmis-Refuge
 
 ### Astralis-Bas — Village
-*Hameau enterré sous Astralis, accessible uniquement par les couloirs de pierre volcanique. Astralis-Bas est le quartier hivernal des Veilleurs et des Doyens — c'est ici qu'ils résident pendant les huit mois d'hivernage, en contemplation et en préparation.*
-**Histoire :** Astralis-Bas n'est pas une ville à proprement parler — c'est l'extension hivernale d'Astralis. Sa nomination administrative date du Sillage 175, quand la Conclave reconnut la nécessité de distinguer la fonction administrative d'Astralis (été) et la fonction contemplative d'Astralis-Bas (hiver). Les budgets sont distincts.
+- Hameau enterré sous Astralis, accessible uniquement par les couloirs de pierre volcanique ; extension hivernale d'Astralis. Quartier hivernal des Veilleurs et Doyens (résidence durant les huit mois d'hivernage, contemplation et préparation).
+- Reconnu administrativement au Sillage 175, pour distinguer la fonction administrative d'Astralis (été) et la fonction contemplative d'Astralis-Bas (hiver). Budgets distincts.
 - Population : Village
 - Région : Astralia
 
 ### Krasmar — Village
-*Hameau du sud-est, dernier point habité avant les eaux de Mosrack continental. Krasmar abrite une petite communauté de pêcheurs spécialisés en pêche profonde — ils plongent dans les eaux les plus chaudes de l'archipel sud à la recherche de poissons rares qui ne se trouvent nulle part ailleurs.*
-**Histoire :** La pêche profonde de Krasmar est une tradition récente, dérivée d'une technique apprise par un Solmarien naufragé sur les côtes de Mosrack et qui revint l'enseigner. Le poisson le plus rare est le *karm-rouge*, qui ne survit que dans les eaux à plus de quatorze degrés — donc nulle part en Azoria sauf ici. Le karm-rouge est exporté en conserve à Lumasar pour des banquets.
+- Hameau du sud-est, dernier point habité avant les eaux de [[Mosrack]] continental. Petite communauté de pêcheurs spécialisés en pêche profonde (eaux les plus chaudes de l'archipel sud, poissons rares).
+- Pêche profonde : tradition récente issue d'une technique apprise par un Solmarien naufragé sur les côtes de Mosrack, revenu l'enseigner. Poisson le plus rare : le *karm-rouge*, ne survivant que dans les eaux à plus de quatorze degrés (nulle part ailleurs en Azoria) ; exporté en conserve à [[Lumasar]] pour des banquets.
 - Population : Village
 - Région : Krasvaria
 
 ### Solnir-Vyk — Village
-*Bourg de fumeries au nord de Solnir. Solnir-Vyk produit le poisson fumé au soufre — spécialité solmarienne — en quantités industrielles.*
-**Histoire :** Solnir-Vyk fut un avant-poste de fumage qui devint village quand les fumeries devinrent rentables. La technique du fumage au soufre fut découverte fortuitement quand une fumerie de bois ordinaire s'effondra sur une fumeuse à plantes thermales — le poisson récupéré dans le mélange avait une saveur particulière qui se vendit mieux que les standards. Le hasard fut reproduit. La technique se transmit.
+- Bourg de fumeries au nord de Solnir ; ancien avant-poste de fumage devenu village avec la rentabilité des fumeries. Produit le poisson fumé au soufre (spécialité solmarienne) en quantités industrielles.
+- Technique du fumage au soufre découverte fortuitement (effondrement d'une fumerie de bois sur une fumeuse à plantes thermales ; saveur particulière reproduite puis transmise).
 - Population : Village
 - Région : Solniria
 
 ### Velmaris-Haut — Village
-*Hameau perché sur les flancs d'un volcan tiède, dédié à la culture des plantes thermales rares. Velmaris-Haut fournit la pharmacopée la plus précieuse de la Confédération.*
-**Histoire :** Velmaris-Haut fut fondé après que les médecins de Velmaris constatèrent que certaines plantes ne poussaient bien qu'à des altitudes spécifiques sur les flancs des volcans tièdes. Une expérimentation systématique fut conduite au Sillage 155-180 pour cartographier les microclimats utilisés. Les résultats sont conservés dans un *Cahier des Plantes* qui est, avec le Cahier des Léviathans d'Eltrassa (Azoral) et le Cahier des Saisons familial, l'un des trois grands corpus d'observation empirique d'Azoria.
+- Hameau perché sur les flancs d'un volcan tiède, dédié à la culture des plantes thermales rares ; fournit la pharmacopée la plus précieuse de la Confédération.
+- Fondé après constat que certaines plantes ne poussent qu'à des altitudes spécifiques sur les volcans tièdes ; microclimats cartographiés par expérimentation systématique au Sillage 155-180.
+- Résultats consignés dans un *Cahier des Plantes* : l'un des trois grands corpus d'observation empirique d'Azoria, avec le Cahier des Léviathans d'[[Eltrassa]] ([[Azoral]]) et le Cahier des Saisons familial.
 - Population : Village
 - Région : Velmaria
 
 ### Astralis-Marin — Village
-*Quartier portuaire d'Astralis, accolé à la ville mais administré séparément. Astralis-Marin abrite les Capitaines de Saison et leurs équipages, ainsi que les comptoirs commerciaux étrangers.*
-**Histoire :** Astralis-Marin fut détaché administrativement d'Astralis au Sillage 167 quand la concentration de comptoirs étrangers (Endora, Brisivar) imposa une structure juridique distincte. Le maire d'Astralis-Marin est élu par les capitaines, non par les habitants — anomalie démocratique tolérée parce que personne d'autre ne veut le poste.
+- Quartier portuaire d'Astralis, accolé à la ville mais administré séparément. Abrite les Capitaines de Saison, leurs équipages et les comptoirs commerciaux étrangers.
+- Détaché administrativement d'Astralis au Sillage 167 (concentration de comptoirs étrangers d'[[Endora]] et [[Brisivar]] imposant une structure juridique distincte). Maire élu par les capitaines, non par les habitants.
 - Population : Village
 - Région : Astralia
 
 ### Solnir-Brume — Village
-*Hameau de pêcheurs à la frontière nord, presque dans les eaux caéloriennes. Solnir-Brume est isolée, brumeuse, silencieuse. Ses habitants ont l'oreille particulièrement fine — la doctrine veut qu'ils entendent venir le Premier Rayon avant les autres, parce que la brume porte le son différemment.*
-**Histoire :** Solnir-Brume fut fondée par une famille élargie qui voulait s'éloigner du Conclave — non par dissidence, par préférence pour le silence. La famille s'est étendue sur quatre générations. Les Solnir-Brume sont aujourd'hui une trentaine de familles qui se considèrent comme un seul foyer.
+- Hameau de pêcheurs à la frontière nord, presque dans les eaux caéloriennes ; isolé, brumeux, silencieux. Selon la doctrine, ses habitants entendent venir le Premier Rayon avant les autres (la brume porte le son différemment).
+- Fondé par une famille élargie cherchant à s'éloigner du Conclave par préférence pour le silence (non par dissidence) ; étendue sur quatre générations, aujourd'hui une trentaine de familles se considérant comme un seul foyer.
 - Population : Village
 - Région : Solniria
 
@@ -205,8 +235,8 @@ Région à part — île unique, située à proximité de l'ancienne Velkmis. Re
 
 ## Secrets et intrigues
 
-- **Le Cahier qui se compare** : depuis l'an 220 environ, plusieurs Solmariens — surtout à Astralis-Bas et à Velmaris — ont commencé à comparer leurs Cahiers de Saisons familiaux entre eux. Le résultat les inquiète : les dates du Premier Rayon ne sont pas strictement régulières — elles fluctuent de quelques minutes en plus ou en moins, et la fluctuation augmente. La doctrine officielle ne prend pas en compte ces données. Une **assemblée informelle de comparateurs** s'est formée — quelques dizaines de personnes seulement, jamais nommée, jamais reconnue. Le Premier Veilleur Larem en a été informé. Il a recommandé *« le silence patient »*.
-- **L'Île qui Brûle Encore** : selon les pêcheurs de Velkmis-Refuge, l'ancienne Velkmis n'est pas tout à fait morte — son cratère central abrite encore une chaleur que les pèlerins annuels confirment quand ils s'en approchent. La doctrine officielle considère que l'île est *éteinte*. Si l'éruption de l'an +89 n'a pas soldé le cycle local, alors une seconde éruption est possible — possibilité que personne ne formule.
-- **Le Refus du Renoncement** : Larem Solnir-Astralis (Premier Veilleur du Cycle, 63 ans en l'an 251) montre des signes de fatigue. La doctrine prévoit le *renoncement honorable* (un Premier Veilleur peut, à partir de soixante ans, demander à se retirer). Larem n'a pas demandé. Plusieurs Veilleurs du Conclave en discutent en privé. Le successeur le plus probable, **Esmar Velm-Solnir** (an 209), est connu pour ses positions doctrinales plus *ouvertes* — c'est-à-dire qu'il a déjà laissé entendre qu'il consulterait les Cahiers comparés. Larem refuse de renoncer en partie pour lui éviter le siège. Cette intrigue n'est pas dramatique ; elle est lente.
-- **Les Trois Saisons Volées** : trois saisons d'estive — celles de l'an 198, 213, et 244 — ont été *« trop courtes »* selon les Cahiers. Le Premier Rayon est arrivé à l'heure ; le Dernier Rayon est arrivé en avance, raccourcissant l'estive de huit, dix, et onze jours respectivement. La doctrine officielle considère ces écarts comme *« cycles de l'année »*, classification doctrinalement inoffensive. Les comparateurs y voient une dérive du Cycle général. Aucune publication.
-- **Le Sermon Manqué** : en l'an 247, Larem a interrompu son sermon de Veillée du Premier Rayon avant la fin — la première fois depuis l'an 0 qu'un Premier Veilleur ne va pas au bout de l'office. Il a invoqué une douleur soudaine. Aucun témoin médical. Le Conclave a accepté l'explication. Plusieurs Veilleurs locaux gardent en mémoire que Larem, à ce moment-là, regardait l'horizon nord — vers l'ancienne Velkmis.
+- **Le Cahier qui se compare** : depuis l'an 220 environ, plusieurs Solmariens (surtout à Astralis-Bas et Velmaris) comparent leurs Cahiers de Saisons familiaux. Constat : les dates du Premier Rayon fluctuent de quelques minutes, et la fluctuation augmente. Doctrine officielle : ignore ces données. Une assemblée informelle de comparateurs (quelques dizaines de personnes, jamais nommée ni reconnue) s'est formée. Le Premier Veilleur Larem, informé, a recommandé *« le silence patient »*.
+- **L'Île qui Brûle Encore** : selon les pêcheurs de Velkmis-Refuge, le cratère central de l'ancienne [[Velkmis]] abrite encore une chaleur confirmée par les pèlerins annuels. Doctrine officielle : île *éteinte*. Implication non formulée : si l'éruption de l'an +89 n'a pas soldé le cycle local, une seconde éruption est possible.
+- **Le Refus du Renoncement** : Larem Solnir-Astralis (Premier Veilleur du Cycle, 63 ans en l'an 251) montre des signes de fatigue. La doctrine permet le *renoncement honorable* dès 60 ans ; Larem ne l'a pas demandé. Successeur le plus probable : Esmar Velm-Solnir (né en l'an 209), aux positions doctrinales plus *ouvertes* (a laissé entendre qu'il consulterait les Cahiers comparés). Larem refuse de renoncer en partie pour lui éviter le siège.
+- **Les Trois Saisons Volées** : trois estives (an 198, 213, 244) jugées *« trop courtes »* selon les Cahiers ; Premier Rayon à l'heure, Dernier Rayon en avance, estive raccourcie de 8, 10 et 11 jours respectivement. Doctrine officielle : *« cycles de l'année »* (classification inoffensive). Lecture des comparateurs : dérive du Cycle général. Aucune publication.
+- **Le Sermon Manqué** : en l'an 247, Larem a interrompu son sermon de Veillée du Premier Rayon avant la fin — première fois depuis l'an 0 qu'un Premier Veilleur n'achève pas l'office. Cause invoquée : douleur soudaine (aucun témoin médical) ; explication acceptée par le Conclave. Plusieurs Veilleurs locaux notent que Larem regardait alors l'horizon nord, vers l'ancienne Velkmis.

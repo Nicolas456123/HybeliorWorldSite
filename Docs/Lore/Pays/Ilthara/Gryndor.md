@@ -2,7 +2,7 @@
 tags: [lore, pays, ilthara, gryndor]
 type: nation
 status: canon
-last_review: 2026-05-06
+last_review: 2026-06-05
 needs_review_for: []
 ---
 # Gryndor — Le Trône du Savoir Ancien
@@ -23,13 +23,15 @@ needs_review_for: []
 
 ## Gouvernement — La Monarchie Traditionnelle
 
-Le gouvernement de Gryndor est un mélange de tradition monarchique et de méritocratie savante :
+Régime : monarchie traditionnelle combinée à une méritocratie savante.
 
-- **Le Roi (ou la Reine)** règne depuis le Trône de Cristal à Holvendar. Le pouvoir est héréditaire, mais le monarque doit avoir prouvé sa compétence intellectuelle avant de régner — un héritier jugé inapte par le Conseil des Sages peut être écarté au profit d'un cadet.
-- **Le Conseil des Sages** est composé de douze maîtres représentant les grandes disciplines du savoir : histoire, magie, ingénierie, médecine, astronomie, alchimie, linguistique, architecture, métallurgie, botanique, géologie et philosophie. Ils conseillent le roi et peuvent opposer un veto collectif à toute décision jugée contraire aux intérêts du savoir.
-- **La Garde Cristalline** est l'ordre militaire fondé lors de la Restauration. Ses membres sont à la fois soldats et érudits, et leur loyauté va au savoir avant le roi — une distinction subtile mais importante.
+- **Le Roi (ou la Reine)** : règne depuis le Trône de Cristal à Holvendar. Pouvoir héréditaire, mais le monarque doit avoir prouvé sa compétence intellectuelle avant de régner ; un héritier jugé inapte par le Conseil des Sages peut être écarté au profit d'un cadet.
+- **Le Conseil des Sages** : douze maîtres représentant les grandes disciplines du savoir — histoire, magie, ingénierie, médecine, astronomie, alchimie, linguistique, architecture, métallurgie, botanique, géologie, philosophie. Conseillent le roi ; disposent d'un veto collectif sur toute décision contraire aux intérêts du savoir.
+- **La Garde Cristalline** : ordre militaire fondé lors de la Restauration. Membres à la fois soldats et érudits ; loyauté au savoir avant le roi.
 
-Le roi actuel est **Vaelorn V**, un monarque méthodique et patient dont la passion est la restauration des textes anciens perdus lors du Déclin. Son règne est marqué par la stabilité et un programme ambitieux de fouilles archéologiques dans les ruines des anciennes bibliothèques.
+Monarque actuel : **Vaelorn V**.
+- Profil : méthodique, patient ; passion pour la restauration des textes anciens perdus lors du Déclin.
+- Règne : marqué par la stabilité ; programme de fouilles archéologiques dans les ruines des anciennes bibliothèques.
 
 ---
 
@@ -37,24 +39,27 @@ Le roi actuel est **Vaelorn V**, un monarque méthodique et patient dont la pass
 
 ### [[Lex Petra]] — La Loi de Pierre (religion officielle)
 
-En Gryndor, la Lex Petra prend une dimension particulière. La pierre n'est pas seulement le symbole de la loi — elle est le support physique du savoir. Les Gryndoriens gravent leurs textes les plus importants dans la pierre, car le parchemin brûle et l'encre s'efface, mais la pierre perdure.
-
-Les temples de la Lex Petra à Gryndor sont des salles d'étude autant que des lieux de culte. Les prêtres-juristes sont aussi des archivistes, et les sermons prennent la forme de leçons d'histoire et de droit naturel.
+- La pierre est ici à la fois symbole de la loi et support physique du savoir : les textes les plus importants sont gravés dans la pierre (le parchemin brûle et l'encre s'efface, la pierre perdure).
+- Les temples sont des salles d'étude autant que des lieux de culte ; les prêtres-juristes sont aussi des archivistes, et les sermons prennent la forme de leçons d'histoire et de droit naturel.
 
 **Fêtes religieuses :**
-- **Le Jour de la Pierre Gravée** (solstice d'hiver) — Chaque famille grave dans un bloc de pierre un fait marquant de l'année écoulée. Ces pierres sont déposées dans les fondations des nouveaux bâtiments, créant une mémoire collective littéralement inscrite dans les murs du royaume.
-- **La Lecture des Fondations** (équinoxe de printemps) — Les prêtres exhument une pierre gravée ancienne, choisie au hasard dans les fondations d'un vieux bâtiment, et en lisent le contenu à la population. C'est une façon de faire revivre la voix des ancêtres.
+- **Le Jour de la Pierre Gravée** (solstice d'hiver) — chaque famille grave dans un bloc de pierre un fait marquant de l'année écoulée ; ces pierres sont déposées dans les fondations des nouveaux bâtiments (mémoire collective inscrite dans les murs du royaume).
+- **La Lecture des Fondations** (équinoxe de printemps) — les prêtres exhument une pierre gravée ancienne, choisie au hasard dans les fondations d'un vieux bâtiment, et en lisent le contenu à la population.
 
 ### [[Rota Mundi]] — Le Cycle du Monde (religion secondaire)
 
-La lecture [[Rota Mundi]] est populaire parmi les historiens de Gryndor. L'idée que tout est cyclique — que les civilisations naissent, prospèrent, déclinent et renaissent — résonne profondément avec l'expérience du Déclin et de la Restauration. Les adeptes de Rota Mundi étudient les cycles historiques avec une rigueur scientifique, cherchant à dégager des tendances pour mieux préparer les déclins éventuels. Leur lecture marquée de la réincarnation, dont les Foedus Animae proposent une compréhension différente, motive une vénération des ancêtres et un soin particulier apporté aux archives généalogiques.
+- Populaire parmi les historiens de Gryndor ; le principe cyclique (les civilisations naissent, prospèrent, déclinent et renaissent) résonne avec l'expérience du Déclin et de la Restauration.
+- Les adeptes étudient les cycles historiques avec rigueur scientifique, cherchant des tendances pour mieux préparer les déclins éventuels.
+- Lecture marquée de la réincarnation (les Foedus Animae en proposent une compréhension différente), motivant une vénération des ancêtres et un soin particulier porté aux archives généalogiques.
 
 ---
 
 ## Culture et société
 
 ### Le Rite de la Première Connaissance
-À l'âge de dix ans, chaque enfant de Gryndor doit choisir un domaine de savoir et y consacrer un an d'étude. À l'issue de cette année, il présente devant un jury de maîtres un travail original — une découverte, un objet artisanal, une théorie. Ce travail est conservé dans les archives du royaume pour l'éternité.
+- À l'âge de dix ans, chaque enfant choisit un domaine de savoir et y consacre un an d'étude.
+- À l'issue de l'année, il présente devant un jury de maîtres un travail original (découverte, objet artisanal, théorie).
+- Ce travail est conservé à perpétuité dans les archives du royaume.
 
 ### Hiérarchie sociale
 1. **Les Maîtres-Savants** — Érudits au sommet de leur discipline, voix au Conseil des Sages
@@ -64,52 +69,58 @@ La lecture [[Rota Mundi]] est populaire parmi les historiens de Gryndor. L'idée
 5. **Les Apprentis** — Quiconque étudie, quel que soit son âge, est un apprenti et bénéficie d'un statut protégé
 
 ### Gastronomie
-La cuisine de Gryndor est raffinée et méthodique. Les recettes sont traitées comme des formules — mesurées avec précision, chronométrées avec soin, et consignées dans des ouvrages culinaires qui sont de véritables œuvres d'art. Les plats emblématiques incluent le cristal de miel (un dessert translucide aux herbes de montagne), la soupe des fondations (un bouillon épais aux racines et aux champignons de caverne) et le pain de savoir (un pain aux graines dont la composition change à chaque saison selon les principes de Rota Mundi).
+- Cuisine raffinée et méthodique : recettes traitées comme des formules (mesurées, chronométrées, consignées dans des ouvrages culinaires soignés).
+- Plats emblématiques :
+  - **Cristal de miel** — dessert translucide aux herbes de montagne.
+  - **Soupe des fondations** — bouillon épais aux racines et champignons de caverne.
+  - **Pain de savoir** — pain aux graines dont la composition change à chaque saison selon les principes de Rota Mundi.
 
 ### Architecture
-Les bâtiments de Gryndor sont des chefs-d'œuvre d'ingénierie. Taillés dans la pierre cristalline des montagnes, ils combinent solidité et beauté avec une précision mathématique. Les murs sont gravés de frises historiques, les plafonds incrustés de cristaux qui reflètent la lumière du jour jusque dans les salles les plus profondes, et chaque bâtiment public intègre une bibliothèque.
+- Bâtiments taillés dans la pierre cristalline des montagnes ; précision d'ingénierie.
+- Murs gravés de frises historiques ; plafonds incrustés de cristaux réfléchissant la lumière du jour jusque dans les salles les plus profondes.
+- Chaque bâtiment public intègre une bibliothèque.
 
 ---
 
 ## Régions
 
 ### Holvandor
-Région centrale et cœur du royaume, Holvandor abrite la capitale Holvendar et les montagnes cristallines les plus riches. C'est le centre politique, intellectuel et spirituel de Gryndor. Les plus grandes bibliothèques et les ateliers les plus prestigieux s'y trouvent, protégés par la Garde Cristalline.
+Région centrale, cœur du royaume. Abrite la capitale Holvendar et les montagnes cristallines les plus riches. Centre politique, intellectuel et spirituel ; plus grandes bibliothèques et ateliers les plus prestigieux, protégés par la Garde Cristalline.
 
 ### Pyrendor
-Région montagneuse du nord, Pyrendor est le domaine des mineurs de cristaux et des géologues. Ses mines creusent profondément dans les veines cristallines, et les cristaux extraits alimentent aussi bien les ateliers que les recherches magiques du royaume. Le terrain est rude mais spectaculaire — des falaises de quartz scintillent au soleil comme des murs de diamants.
+Région montagneuse du nord. Domaine des mineurs de cristaux et des géologues ; mines creusées profondément dans les veines cristallines. Les cristaux extraits alimentent les ateliers et les recherches magiques du royaume. Terrain rude (falaises de quartz).
 
 ### Tolvandor
-Région méridionale plus basse et plus tempérée, Tolvandor est la terre des artisans et des expérimentateurs. C'est ici que les théories élaborées à Holvendar sont mises en pratique — nouveaux alliages, nouvelles techniques de construction, nouvelles applications des cristaux magiques. Tolvandor est le laboratoire vivant de Gryndor.
+Région méridionale, plus basse et tempérée. Terre des artisans et des expérimentateurs ; mise en pratique des théories de Holvendar (nouveaux alliages, techniques de construction, applications des cristaux magiques).
 
 ---
 
 ## Villes et villages
 
 ### Holvendar — Capitale ★
-*Taillée dans le flanc d'une montagne de cristal blanc, Holvendar scintille sous le soleil comme une couronne de diamants. Ses rues sont des galeries voûtées éclairées par des cristaux luminescents, et chaque mur est une page d'histoire gravée dans la pierre. Le Trône de Cristal se trouve au sommet de la cité, dans une salle dont le plafond transparent offre une vue sur les étoiles — car à Gryndor, même le roi doit se souvenir qu'il existe des choses plus grandes que lui.*
-**Histoire :** Lors du Déclin, les envahisseurs mirent Holvendar à sac pendant quatre jours. Le cinquième jour, les galeries souterraines s'effondrèrent sur eux, tuant plus de pillards que la résistance elle-même. Ce fut présenté comme un miracle de la Lex Petra ; les ingénieurs qui reconstruisirent la ville après la Restauration découvrirent que l'effondrement n'était pas accidentel — les archivistes avaient sacrifié leur vie pour faire sauter les soutènements délibérément, choisissant d'enterrer les bibliothèques plutôt que de les laisser piller. Vaelorn V a trouvé les noms de ces archivistes dans des archives récemment déchiffrées. Il n'a pas encore décidé de les révéler au public.
+- Descripteur : capitale taillée dans le flanc d'une montagne de cristal blanc ; rues en galeries voûtées éclairées par des cristaux luminescents, murs gravés d'histoire. Trône de Cristal au sommet de la cité, dans une salle au plafond transparent.
 - Population : Grande ville
 - Région : Holvandor
-- Particularités : Siège du roi et du Conseil des Sages. Grande Bibliothèque de Gryndor (la plus vaste d'Ilthara). Académie des Douze Savoirs.
+- Particularités : siège du roi et du Conseil des Sages. Grande Bibliothèque de Gryndor (la plus vaste d'Ilthara). Académie des Douze Savoirs.
+- Fait historique : lors du Déclin, mise à sac quatre jours par les envahisseurs ; le cinquième jour, les galeries souterraines s'effondrèrent sur les pillards. L'effondrement, longtemps présenté comme un miracle de la Lex Petra, fut en réalité provoqué : les archivistes firent sauter les soutènements pour enterrer les bibliothèques plutôt que les laisser piller. Vaelorn V a retrouvé leurs noms dans des archives récemment déchiffrées (non encore révélés au public).
 
 ### Veylorn — Ville
-*Ville minière prospère nichée dans une vallée cristalline, Veylorn est le principal fournisseur de cristaux bruts du royaume. Ses mines sont célèbres pour leur organisation : chaque galerie est cartographiée, numérotée et documentée avec une précision obsessionnelle. Les mineurs de Veylorn ne sont pas de simples ouvriers — ce sont des géologues formés qui traitent chaque extraction comme une opération chirurgicale, veillant à ne pas endommager les veines adjacentes.*
-**Histoire :** Les mines de Veylorn furent les premières reconstruites après la Restauration — avant même le palais royal. Theldryn III comprit que sans cristaux, la reconstruction de Gryndor était impossible ; les cristaux étaient à la fois la matière première des instruments scientifiques et la source de revenus du commerce extérieur. Les mineurs de la première génération post-Déclin travaillèrent dix-huit heures par jour pendant sept ans. En mémoire de cet effort, les mineurs actuels s'accordent exactement sept jours de repos par an — ni plus, ni moins. Ce chiffre est considéré sacré à Veylorn.
+- Descripteur : ville minière de vallée cristalline, principal fournisseur de cristaux bruts du royaume ; mines à l'organisation rigoureuse (chaque galerie cartographiée, numérotée, documentée), mineurs formés comme géologues préservant les veines adjacentes.
 - Population : Ville
 - Région : Pyrendor
+- Fait historique : premières mines reconstruites après la Restauration, avant le palais royal, sous Theldryn III (cristaux = matière première des instruments scientifiques et source de revenus du commerce extérieur). En mémoire des sept années de labeur de la première génération post-Déclin, les mineurs s'accordent exactement sept jours de repos par an, chiffre considéré sacré.
 
 ### Zyrthar — Ville
-*Ville-laboratoire de Tolvandor, Zyrthar est un lieu d'expérimentation permanente. Ses rues sont bordées d'ateliers où l'on entend le grincement des engrenages, le sifflement des alambics et les exclamations des inventeurs. Chaque quartier est dédié à une discipline — métallurgie, optique, alchimie, mécanique — et les explosions accidentelles sont si fréquentes qu'elles ne surprennent plus personne.*
-**Histoire :** Zyrthar n'existait pas avant la Restauration — Theldryn III créa délibérément une ville séparée de la capitale pour y concentrer les expérimentations les plus dangereuses. Il avait vu trop de bibliothèques brûler dans des accidents de laboratoire ; Zyrthar devait être une ville sacrifiable si nécessaire, où les échecs pouvaient brûler sans menacer Holvendar. Les habitants de Zyrthar, informés de cette logique dès le départ, l'acceptèrent avec un enthousiasme qui surprit tout le monde. Un inventeur qui refuse le risque, disent-ils, n'est pas un inventeur.
+- Descripteur : ville-laboratoire de Tolvandor, lieu d'expérimentation permanente ; quartiers dédiés chacun à une discipline (métallurgie, optique, alchimie, mécanique), explosions accidentelles fréquentes.
 - Population : Ville
 - Région : Tolvandor
+- Fait historique : fondée par Theldryn III après la Restauration, délibérément séparée de la capitale pour concentrer les expérimentations les plus dangereuses — ville « sacrifiable » où les échecs pouvaient brûler sans menacer Holvendar.
 
 ### Nelthoris — Village
-*Village d'artisans spécialisés dans la taille de cristaux de précision, Nelthoris fournit les composants les plus délicats des instruments scientifiques et magiques de Gryndor. Les tailleurs de Nelthoris travaillent avec des loupes enchantées et des outils si fins qu'ils sont invisibles à l'œil nu. Un cristal taillé à Nelthoris est un gage de qualité dans tout Ilthara.*
-**Histoire :** La technique de taille de précision de Nelthoris fut mise au point par une artisane qui avait perdu la mobilité de ses mains droite dans un accident et appris à tailler avec sa main gauche, beaucoup plus lente et prudente. Les résultats de sa main blessée surpassèrent ceux de sa main saine — la lenteur forcée avait produit une précision inégalée. Elle enseigna ensuite à ses élèves à tailler délibérément comme si leur main dominante était blessée. La technique est inconfortable et épuisante, mais les instruments de Nelthoris n'ont pas d'égal dans tout Ilthara.
+- Descripteur : village d'artisans spécialisés dans la taille de cristaux de précision ; fournit les composants les plus délicats des instruments scientifiques et magiques de Gryndor (loupes enchantées, outils invisibles à l'œil nu). Un cristal taillé à Nelthoris est un gage de qualité dans tout Ilthara.
 - Population : Village
 - Région : Tolvandor
+- Fait historique : technique de taille de précision mise au point par une artisane qui, ayant perdu la mobilité de sa main droite, apprit à tailler de la main gauche (plus lente) ; la lenteur forcée produisit une précision inégalée. Ses élèves taillent depuis comme si leur main dominante était blessée.
 
 ---
 
@@ -127,6 +138,6 @@ Région méridionale plus basse et plus tempérée, Tolvandor est la terre des a
 
 ## Secrets et intrigues
 
-- **La Bibliothèque Scellée** : Sous les fondations de la Grande Bibliothèque de Holvendar se trouve une salle que le roi Theldryn III fit sceller lors de la Restauration. Les archives de la Restauration mentionnent qu'elle contient des textes « trop dangereux pour être lus et trop précieux pour être détruits ». Personne n'y a accédé depuis, et les rois successifs ont tous respecté l'interdiction — mais Vaelorn V a récemment ordonné un inventaire discret des sceaux. Ils s'affaiblissent.
-- **Le Cristal Pensant** : Les mineurs de Veylorn ont découvert dans les profondeurs un cristal qui émet une lumière pulsante semblant répondre aux questions qu'on lui pose. Le Conseil des Sages l'étudie en secret, partagé entre l'émerveillement et la prudence. Certains penchent pour une conscience emprisonnée — peut-être celle d'un être antérieur, voire contemporain des récits les plus reculés sur les Éternels. D'autres y voient un phénomène acoustique élaboré dont la lecture comme "réponse" relèverait de la pareidolie. Aucune des deux hypothèses n'a été démontrée.
-- **L'Infiltration de la Garde** : Plusieurs membres récents de la Garde Cristalline ont été recrutés avec des références falsifiées. Une enquête discrète suggère qu'un pays voisin — probablement Drakora — infiltre l'ordre militaire pour accéder aux secrets du royaume. Le commandant de la Garde soupçonne un complot mais n'a pas encore identifié tous les agents.
+- **La Bibliothèque Scellée** : salle scellée par Theldryn III lors de la Restauration, sous les fondations de la Grande Bibliothèque de Holvendar. Les archives de la Restauration la décrivent comme contenant des textes « trop dangereux pour être lus et trop précieux pour être détruits ». Interdiction d'accès respectée par tous les rois successifs ; Vaelorn V a ordonné un inventaire discret des sceaux, qui s'affaiblissent.
+- **Le Cristal Pensant** : cristal découvert dans les profondeurs des mines de Veylorn, émettant une lumière pulsante semblant répondre aux questions posées. Étudié en secret par le Conseil des Sages. Deux hypothèses, aucune démontrée : conscience emprisonnée (peut-être d'un être antérieur ou contemporain des récits les plus reculés sur les Éternels) ; ou phénomène acoustique élaboré relevant de la pareidolie.
+- **L'Infiltration de la Garde** : plusieurs membres récents de la Garde Cristalline recrutés avec des références falsifiées. Une enquête discrète suggère l'infiltration de l'ordre militaire par un pays voisin (probablement Drakora) pour accéder aux secrets du royaume. Le commandant de la Garde soupçonne un complot sans avoir identifié tous les agents.

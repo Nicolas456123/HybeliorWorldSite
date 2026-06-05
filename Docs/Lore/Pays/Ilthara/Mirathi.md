@@ -2,7 +2,7 @@
 tags: [lore, pays, ilthara, vytharia, mirathi]
 type: lore
 status: drafted
-last_review: 2026-05-06
+last_review: 2026-06-05
 needs_review_for: []
 ---
 # Mirathi — Le Sanctuaire des Oracles
@@ -23,15 +23,21 @@ needs_review_for: []
 
 ## Géographie et démographie
 
-Mirathi occupe le **plateau de Vrenith**, hauts pâturages calcaires de l'arrière-pays vytharien, replat d'altitude au sein de [[Vytharia]] (continent [[Ilthara - Continent|Ilthara]]), séparé de la steppe vytharienne par l'arête vytharo-mirathienne — trait interne au relief de Vytharia. Climat sec et venteux, étés courts, hivers tempérés mais rudes, neige rare mais durable. La pierre du plateau est un calcaire très blanc qui prend le rose à l'aube et le gris au crépuscule — qualité que les rares peintres mirathiens (issus du milieu Taciti) ont peinte sans pouvoir la reproduire ailleurs.
+- **Site** : plateau de Vrenith — hauts pâturages calcaires de l'arrière-pays vytharien, replat d'altitude au sein de [[Vytharia]] (continent [[Ilthara - Continent|Ilthara]]).
+- **Séparation** : l'arête vytharo-mirathienne (trait interne au relief de Vytharia) sépare le plateau de la steppe vytharienne.
+- **Climat** : sec et venteux ; étés courts ; hivers tempérés mais rudes ; neige rare mais durable.
+- **Pierre** : calcaire très blanc, rose à l'aube, gris au crépuscule — qualité non reproductible ailleurs selon les rares peintres mirathiens (issus du milieu Taciti).
+- **Population totale du plateau** : moins de 4 000 âmes (recensement thalmarien le plus récent).
 
-Trois établissements seulement :
+### Établissements (trois seulement)
 
-- **Mirathi-village** — le sanctuaire, environ neuf cents habitants. Construit en pierre grise sur un replat, toits plats décorés de symboles vytharo-anciens. Au centre, le **Sanctuaire des Oracles**, construction circulaire sans fenêtres, porte unique de métal noir polie en miroir. Maisons d'hôte autour — sept à neuf, selon les visites, dont la dernière mention thalmarienne signale qu'une nouvelle a ouvert près de la porte ouest.
-- **Tholmë-en-haut** — ermitage Taciti (école du Premier Voile), à trois lieues au nord-est du village. Une trentaine de frères silencieux. Cloîtres en pierre blanche, jardin clos, bibliothèque modeste.
-- **Vrenith** — second ermitage Taciti, à six lieues au sud-est. Une douzaine de frères. Plus austère, sans bibliothèque ; correspond au strict Second Voile.
+| Établissement | Type | Position | Population | Traits factuels |
+|---|---|---|---|---|
+| **Mirathi-village** | Sanctuaire | Replat central | ~900 hab. | Pierre grise ; toits plats à symboles vytharo-anciens. Au centre, le **Sanctuaire des Oracles** : construction circulaire sans fenêtres, porte unique en métal noir polie en miroir. 7 à 9 maisons d'hôte (la dernière mention thalmarienne signale une nouvelle ouverte près de la porte ouest). |
+| **Tholmë-en-haut** | Ermitage Taciti (école du Premier Voile) | 3 lieues au NE du village | ~30 frères silencieux | Cloîtres en pierre blanche, jardin clos, bibliothèque modeste. |
+| **Vrenith** | Second ermitage Taciti | 6 lieues au SE | ~12 frères | Plus austère, sans bibliothèque ; strict Second Voile. |
 
-Aux marges : quelques **hameaux de bergers** (cinq ou six au plus) qui fournissent les laines et les fromages au village-sanctuaire et aux ermitages, sans participer aux pratiques oraculaires ni au silence rituel. Population totale du plateau : moins de quatre mille âmes selon le recensement thalmarien le plus récent.
+- **Hameaux de bergers** (5 ou 6 au plus, en marge) : fournissent laines et fromages au village-sanctuaire et aux ermitages ; ne participent ni aux pratiques oraculaires ni au silence rituel.
 
 ---
 
@@ -39,11 +45,10 @@ Aux marges : quelques **hameaux de bergers** (cinq ou six au plus) qui fournisse
 
 ### Le collège des Oracles
 
-Sept Oracles vivants à tout moment, en moyenne. Pas d'élection, pas de nomination publique. Les Oracles entrent en fonction par un mécanisme que les chroniques internes appellent *la reconnaissance du rêve commun* — une procédure dont les visiteurs n'ont jamais reçu de description complète. Ce qui est connu : un candidat est *rêvé* par les autres Oracles avant de l'être par le Sanctuaire ; sa prise de fonction n'est annoncée à personne (y compris à lui-même, à ce qu'on dit) avant que le rêve ne soit collectivement reconnu.
-
-L'Oracle perd son nom personnel à la prise de fonction. Sa famille le sait. Le village le sait. Personne, au-delà du cercle privé, ne l'appelle plus par son nom. Les chroniqueurs thalmariens trouvent ce détail troublant et le notent presque toujours dans leurs marges.
-
-Le Sanctuaire reconnaît **sept fonctions oraculaires**, distribuées sans hiérarchie. Un Oracle peut occuper successivement plusieurs fonctions au cours de sa vie, ou la même pendant trente ans ; la répartition entre vivants n'est pas publique.
+- **Effectif** : sept Oracles vivants à tout moment, en moyenne.
+- **Accession** : pas d'élection ni de nomination publique. Entrée en fonction par *la reconnaissance du rêve commun* (procédure jamais décrite complètement aux visiteurs). Connu : un candidat est *rêvé* par les autres Oracles avant de l'être par le Sanctuaire ; sa prise de fonction n'est annoncée à personne (y compris à lui-même) avant reconnaissance collective du rêve.
+- **Perte du nom** : l'Oracle perd son nom personnel à la prise de fonction. Famille et village le savent ; au-delà du cercle privé, plus personne ne l'appelle par son nom. Détail régulièrement noté dans les marges des chroniqueurs thalmariens.
+- **Fonctions** : sept fonctions oraculaires reconnues, distribuées sans hiérarchie. Un Oracle peut occuper successivement plusieurs fonctions, ou la même durant trente ans ; la répartition entre vivants n'est pas publique.
 
 | Fonction | Spécialité (selon la chronique interne) |
 |---|---|
@@ -57,13 +62,17 @@ Le Sanctuaire reconnaît **sept fonctions oraculaires**, distribuées sans hiér
 
 ### Le conseil civil
 
-Pour les affaires ordinaires (différends de pâturage, entretien des routes, accueil des résidents), un **conseil de neuf personnes** se réunit chaque mois — bergers, artisans, aubergistes, deux Oracles désignés à tour de rôle (les Oracles ne refusent pas mais participent peu). Les décisions sont prises par consensus de huit-sur-neuf ; en cas de partage, on attend le mois suivant. La procédure paraît lente — elle l'est. Le plateau ne presse pas.
+- **Composition** : conseil de neuf personnes (bergers, artisans, aubergistes, deux Oracles désignés à tour de rôle — les Oracles ne refusent pas mais participent peu).
+- **Compétence** : affaires ordinaires (différends de pâturage, entretien des routes, accueil des résidents).
+- **Réunion** : mensuelle.
+- **Décision** : consensus de huit-sur-neuf ; en cas de partage, report au mois suivant.
 
 ### Le statut des résidents étrangers
 
-Mirathi pratique une **résidence prolongée** très spécifique. Un visiteur peut s'y installer pour plusieurs mois ou plusieurs années en payant un loyer modeste à l'auberge ou en logeant dans une cellule du Sanctuaire (avec permission). Pas de droit de citoyenneté — les étrangers ne participent pas au conseil civil — mais une intégration culturelle progressive, ouverte. Les résidences les plus longues documentées atteignent dix-sept ans (un musicien d'Astravia, retourné chez lui à la fin) et vingt-trois ans (Orneth est en passe de devenir le second).
-
-Cette pratique fait de Mirathi un **lieu de séjour** pour les érudits indépendants, plus que de visite. Le village vit en partie de ces résidences — loyers, achats quotidiens, copies commandées.
+- **Résidence prolongée** : un visiteur peut s'installer plusieurs mois ou années contre un loyer modeste à l'auberge, ou en logeant dans une cellule du Sanctuaire (sur permission).
+- **Droits** : pas de citoyenneté — les étrangers ne participent pas au conseil civil ; intégration culturelle progressive et ouverte.
+- **Records documentés** : 17 ans (un musicien d'Astravia, rentré chez lui à la fin) ; 23 ans (Orneth est en passe de devenir le second).
+- **Effet économique** : le village vit en partie de ces résidences (loyers, achats quotidiens, copies commandées) ; Mirathi est un lieu de séjour pour érudits indépendants plus que de visite.
 
 ---
 
@@ -71,34 +80,39 @@ Cette pratique fait de Mirathi un **lieu de séjour** pour les érudits indépen
 
 ### La pratique oraculaire mirathienne
 
-Sans nom propre dans la doctrine interne, parfois rattachée par les chroniqueurs continentaux au Somnium Vigil ou à une variante locale du Noctari. Les Oracles ne se reconnaissent dans aucune de ces classifications. Leur position, dans la mesure où on l'a recueillie : *« Nous rêvons. Le rêve est ce qu'il est. Nous ne le baptisons pas. »*
+- Sans nom propre dans la doctrine interne ; parfois rattachée par les chroniqueurs continentaux au Somnium Vigil ou à une variante locale du Noctari. Les Oracles ne se reconnaissent dans aucune de ces classifications.
+- Position recueillie : *« Nous rêvons. Le rêve est ce qu'il est. Nous ne le baptisons pas. »*
 
 Trois traits structurants :
 
-- **L'Oracle ne prédit pas l'avenir.** Selon une formule reprise dans les Chroniques (ch. 33) : *« Les Oracles de Mirathi ne prédisent pas l'avenir. Ils vous montrent l'endroit de votre propre mémoire où l'avenir est déjà inscrit. »* La nuance est doctrinalement essentielle, et les visiteurs commerciaux qui viennent chercher des prédictions tradables s'en vont déçus.
-- **L'Oracle a besoin d'avoir rêvé le consultant.** Aucun consultant n'est reçu *à la demande*. Il faut que l'Oracle l'ait rêvé d'abord. La période d'attente entre l'arrivée et la consultation oscille entre trois jours et quatre mois — d'où, partiellement, la pratique de la résidence prolongée.
-- **L'Oracle parle peu, et reformule.** L'Oracle répond rarement à la question posée. Il déplace la question vers une formulation qu'il juge meilleure. Cette pratique est tenue pour le cœur de l'art oraculaire ; les visiteurs qui en ressortent frustrés sont jugés, sans cruauté, *prématurés*.
+- **L'Oracle ne prédit pas l'avenir.** Formule des Chroniques (ch. 33) : *« Les Oracles de Mirathi ne prédisent pas l'avenir. Ils vous montrent l'endroit de votre propre mémoire où l'avenir est déjà inscrit. »* Les visiteurs commerciaux venus chercher des prédictions repartent déçus.
+- **L'Oracle doit avoir rêvé le consultant.** Aucun consultant reçu *à la demande* ; l'Oracle doit l'avoir rêvé d'abord. Délai entre arrivée et consultation : de trois jours à quatre mois (d'où, en partie, la résidence prolongée).
+- **L'Oracle parle peu et reformule.** Il répond rarement à la question posée et la déplace vers une formulation qu'il juge meilleure — tenu pour le cœur de l'art oraculaire. Les visiteurs frustrés sont jugés *prématurés*.
 
 ### L'école du Premier Voile (Taciti)
 
-Voir [[../../Religions/_Mineures/Taciti]]. Présence ancienne (huit siècles) à Tholmë-en-haut et Vrenith. Les frères silencieux pratiquent un **silence partiel** assorti d'une écriture parcimonieuse — au contraire des orthodoxes du Second Voile (silence total) restés à Baelor.
+Voir [[../../Religions/_Mineures/Taciti]].
 
-L'école du Premier Voile cultive le **doute envers le silence lui-même** : si le silence absolu glisse en certitude muette, alors la pratique juste est celle qui *préserve la possibilité de douter de sa propre pratique*. Cette posture est, dans tout l'arrière-pays vytharien, la respiration du Voile-vertu (terme du cadre, voir encadré final) la plus claire. Elle survit à Mirathi grâce à la cohabitation paisible avec le Sanctuaire — qui pratique sa propre forme de doute (l'Oracle qui reformule plutôt que de trancher) et n'a donc pas d'intérêt à pousser les frères à choisir.
-
-Un trait notable : les frères du Premier Voile, lorsqu'ils meurent, sont **enterrés sans lamelle**. Leur dernier mot écrit, s'il existait, est brûlé. Cette pratique, contraire à l'orthodoxie baelorienne (qui conserve les lamelles dans la bibliothèque centrale de Tholmë-cloître à Baelor), traduit dans le geste la position doctrinale : ne pas absolutiser même son propre silence.
+- **Présence** : ancienne (huit siècles) à Tholmë-en-haut et Vrenith.
+- **Pratique** : silence partiel assorti d'une écriture parcimonieuse, par opposition aux orthodoxes du Second Voile (silence total) restés à Baelor.
+- **Doctrine** : doute envers le silence lui-même — si le silence absolu glisse en certitude muette, la pratique juste est celle qui préserve la possibilité de douter de sa propre pratique. Posture présentée comme la respiration du Voile-vertu (terme du cadre) la plus claire de l'arrière-pays vytharien.
+- **Cohabitation** : elle survit grâce à la coexistence paisible avec le Sanctuaire, qui pratique sa propre forme de doute (l'Oracle qui reformule plutôt que de trancher) et n'a pas d'intérêt à pousser les frères à choisir.
+- **Funérailles** : frères du Premier Voile **enterrés sans lamelle** ; leur dernier mot écrit, s'il existait, est brûlé. Pratique contraire à l'orthodoxie baelorienne (qui conserve les lamelles dans la bibliothèque centrale de Tholmë-cloître à Baelor) ; traduit la position doctrinale de ne pas absolutiser même son propre silence.
 
 ### Les rites du plateau
 
-- **L'attente avant consultation.** Pour les visiteurs qui sollicitent un Oracle. Hébergement à l'une des maisons d'hôtes, repas pris en commun avec les Mirathiens, promenade libre dans les rues, sommeil. Aucune autre obligation. Les visiteurs y restent en moyenne trois semaines.
-- **Le Repas du Souvenir.** Quatre fois l'an, à des dates qui ne sont pas annoncées plus de deux jours à l'avance, le Sanctuaire ouvre sa porte de métal noir et un repas est servi sur le seuil. Pas dans la cour — sur le seuil. Les villageois, les frères des deux ermitages, et tout résident étranger en cours peuvent y participer. On ne parle pas. On mange du pain, des sels d'herbes du plateau, une soupe qui change selon les Oracles qui l'ont rêvée.
-- **Le Passage des Cercueils.** Lorsqu'un Oracle meurt, son cercueil ouvert traverse les deux ermitages Taciti, où il s'arrête un quart d'heure dans chaque cour intérieure, sans cérémonie. Aucun mot n'est prononcé. Aucun document n'explique la pratique.
-- **L'Arrachement aux Noms.** Lorsqu'une nouvelle Oracle entre en fonction, la famille qu'elle quitte tient un repas sans elle, en disant pour la dernière fois son nom personnel à voix haute, et brûle le pain. Ce repas se fait sans clergé, dans la maison familiale.
+- **L'attente avant consultation.** Pour les visiteurs sollicitant un Oracle : hébergement en maison d'hôtes, repas en commun avec les Mirathiens, promenade libre, sommeil ; aucune autre obligation. Durée moyenne : trois semaines.
+- **Le Repas du Souvenir.** Quatre fois l'an, à des dates annoncées au plus deux jours à l'avance : le Sanctuaire ouvre sa porte de métal noir et un repas est servi sur le seuil (pas dans la cour). Ouvert aux villageois, aux frères des deux ermitages et à tout résident étranger en cours. Sans parole. Au menu : pain, sels d'herbes du plateau, soupe variable selon les Oracles qui l'ont rêvée.
+- **Le Passage des Cercueils.** À la mort d'un Oracle, son cercueil ouvert traverse les deux ermitages Taciti, s'arrêtant un quart d'heure dans chaque cour intérieure, sans cérémonie ni parole. Aucun document n'explique la pratique.
+- **L'Arrachement aux Noms.** À l'entrée en fonction d'une nouvelle Oracle, la famille qu'elle quitte tient un repas sans elle, dit pour la dernière fois son nom personnel à voix haute, et brûle le pain. Sans clergé, dans la maison familiale.
 
 ### La langue et l'écriture
 
-La langue parlée à Mirathi est un **dialecte vytharo-ancien** assoupli, parsemé de mots lunariens (introduits par les marchands de Sondaris), de mots galenoriens (introduits par les résidents thalmariens) et d'une dizaine de mots qui ne sont rattachés à aucune langue connue et qu'on entend uniquement dans le périmètre du Sanctuaire.
-
-La **troisième langue** — celle du Message, celle des fragments épigraphiques — est attestée à Mirathi sous deux formes : sur la pierre de seuil du Sanctuaire (deux symboles, illisibles) et dans les **transcriptions mirathiennes du Message** (la copie d'Orneth n'est pas la seule ; il y aurait au moins trois autres copies dans le village, dans des collections privées). Aucun Mirathien ne prétend lire la troisième langue. Plusieurs prétendent la *reconnaître* — mais lorsque les copistes thalmariens leur demandent de transcrire ce qu'ils reconnaissent, ils ne produisent rien.
+- **Langue parlée** : dialecte vytharo-ancien assoupli, parsemé de mots lunariens (apportés par les marchands de Sondaris), de mots galenoriens (apportés par les résidents thalmariens), et d'une dizaine de mots rattachés à aucune langue connue, entendus uniquement dans le périmètre du Sanctuaire.
+- **Troisième langue** (celle du Message, des fragments épigraphiques) attestée à Mirathi sous deux formes :
+  - sur la pierre de seuil du Sanctuaire (deux symboles, illisibles) ;
+  - dans les transcriptions mirathiennes du Message (la copie d'Orneth n'est pas la seule ; au moins trois autres copies dans le village, en collections privées).
+- Aucun Mirathien ne prétend lire la troisième langue ; plusieurs prétendent la *reconnaître*, mais ne produisent rien quand les copistes thalmariens leur demandent de transcrire.
 
 ---
 
@@ -119,29 +133,27 @@ La **troisième langue** — celle du Message, celle des fragments épigraphique
 
 ### La Voix du Haut-Fond (an 252)
 
-Femme d'environ cinquante ans. Visage impassible. Yeux légèrement trop larges. Reçoit les visiteurs sans les nommer.
-
-A reçu Sorin Valthen le 720e jour de son voyage et lui a transmis trois phrases, dont la dernière est aujourd'hui passée dans les marges des chroniqueurs continentaux : *« Demandez-vous plutôt où nous en sommes. »*
-
-Aucun nom personnel ne lui est associé dans les sources externes. Sa famille, qui vit dans le hameau de Sorek (deux lieues au sud-ouest), continue de la mentionner quand on lui pose la question, mais ne dit son nom qu'à voix basse — et jamais devant un Oracle.
+- Femme d'environ cinquante ans ; visage impassible ; yeux légèrement trop larges ; reçoit les visiteurs sans les nommer.
+- A reçu Sorin Valthen le 720e jour de son voyage et lui a transmis trois phrases ; la dernière est passée dans les marges des chroniqueurs continentaux : *« Demandez-vous plutôt où nous en sommes. »*
+- Aucun nom personnel associé dans les sources externes. Sa famille vit au hameau de Sorek (deux lieues au sud-ouest) ; elle ne dit son nom qu'à voix basse, jamais devant un Oracle.
 
 ### Orneth de Thalmaris (en résidence depuis l'an 250)
 
-Vieux érudit thalmarien, sec et précis. Spécialiste de l'épigraphie ancienne. Réside au Sanctuaire avec l'autorisation des Oracles. Possède une **copie incomplète du Message** (deux colonnes lisibles, troisième en troisième langue qu'il *reconnaît* sans pouvoir lire).
-
-Sa résidence à Mirathi, qui dure depuis deux ans, n'a pas de terme annoncé. Il a un assistant, jeune homme d'une vingtaine d'années dont le nom n'est pas non plus consigné systématiquement, et que les visiteurs récents décrivent comme *au regard trop attentif pour son âge*.
-
-Orneth a reçu Sorin Valthen au cours de la visite de ce dernier (an 252) et lui a montré la copie sans préambule. Le récit de cette rencontre figure dans les Chroniques (ch. 33). Il porte l'expression d'un homme *qui dépose une charge* en partageant son obsession avec quelqu'un capable d'en reconnaître une part.
+- Vieux érudit thalmarien, spécialiste de l'épigraphie ancienne ; réside au Sanctuaire avec l'autorisation des Oracles.
+- Possède une **copie incomplète du Message** : deux colonnes lisibles, troisième en troisième langue qu'il *reconnaît* sans pouvoir lire.
+- Résidence sans terme annoncé (deux ans à ce jour). A un assistant (jeune homme d'une vingtaine d'années, nom non consigné systématiquement).
+- A reçu Sorin Valthen lors de la visite de ce dernier (an 252) et lui a montré la copie sans préambule. Rencontre rapportée dans les Chroniques (ch. 33).
 
 ### L'Oracle de la Voix de la Lacune (anonyme, période flottante)
 
-Mentionnée dans plusieurs chroniques marginales comme la *seule fonction oraculaire qui a connu une vacance prolongée* — environ huit ans, dans le siècle précédent. Pendant cette vacance, le Sanctuaire n'a produit aucun rêve sur les absences. La fonction a été pourvue à nouveau, sans cérémonie. Les villageois disent que la fonction *attendait*. Aucun Oracle n'a corroboré cette lecture.
+- Seule fonction oraculaire à avoir connu une vacance prolongée (~8 ans, au siècle précédent), selon plusieurs chroniques marginales.
+- Pendant la vacance, le Sanctuaire n'a produit aucun rêve sur les absences. La fonction a été pourvue à nouveau, sans cérémonie. Lecture villageoise (« la fonction attendait ») non corroborée par aucun Oracle.
 
 ---
 
 ## Secrets et intrigues
 
-- **Les copies du Message au village.** Au moins trois autres copies de la copie d'Orneth circuleraient dans des collections privées de Mirathi. Aucune n'a été cataloguée. Leur intégrité respective est inconnue. Les chroniqueurs thalmariens qui ont essayé de les recenser sont rentrés sans liste.
-- **Le rêve commun.** La pratique de la *reconnaissance du rêve commun* qui investit un Oracle est, depuis huit siècles, l'objet de spéculations érudites. Aucun témoignage de l'intérieur n'est documenté. Une lecture spéculative thalmarienne propose qu'il s'agisse d'une coordination par la **troisième langue** — hypothèse jamais étayée mais souvent reprise.
-- **L'écart entre les deux ermitages.** Les frères de Tholmë-en-haut et de Vrenith ne se rendent pas visite. Cette absence d'échange, contraire à l'usage Taciti, n'est expliquée par aucune chronique. Les villageois disent que *la chose s'est faite, on ne sait plus quand*.
-- **Le rocher au seuil.** À la porte du Sanctuaire, intégré dans le pavé, un rocher gris légèrement plus sombre que les autres porte deux symboles en troisième langue. Personne ne marche dessus. Personne ne dit pourquoi. Les visiteurs récents rapportent que le contournement est *naturel* — on ne se l'explique pas, on contourne.
+- **Les copies du Message au village.** Au moins trois autres copies de la copie d'Orneth circuleraient dans des collections privées de Mirathi ; aucune cataloguée, intégrité inconnue. Les chroniqueurs thalmariens n'ont pu en dresser de liste.
+- **Le rêve commun.** La *reconnaissance du rêve commun* qui investit un Oracle fait l'objet de spéculations érudites depuis huit siècles ; aucun témoignage de l'intérieur n'est documenté. Hypothèse thalmarienne (jamais étayée mais souvent reprise) : une coordination par la **troisième langue**.
+- **L'écart entre les deux ermitages.** Les frères de Tholmë-en-haut et de Vrenith ne se rendent pas visite — absence d'échange contraire à l'usage Taciti, expliquée par aucune chronique.
+- **Le rocher au seuil.** À la porte du Sanctuaire, intégré au pavé, un rocher gris légèrement plus sombre porte deux symboles en troisième langue. Personne ne marche dessus ni n'en explique la raison ; le contournement est rapporté comme « naturel ».

@@ -2,74 +2,75 @@
 tags: [lore, pays, baelor, continent]
 type: continent
 status: canon
-last_review: 2026-05-06
+last_review: 2026-06-05
 needs_review_for: []
 ---
 # Baelor — L'Île du Silence
 
 ## Vue d'ensemble
 
-Baelor est un continent d'une seule nation, et c'est là sa première étrangeté. Là où Galenor entasse sept peuples, là où Endora superpose des nations qui s'observent et se contredisent, Baelor n'a qu'un seul peuple, une seule langue, une seule règle, une seule réponse à la même question. Le reste du monde le décrit volontiers comme une *anomalie* — une terre qui n'aurait pas suivi les règles ordinaires de la fragmentation politique. Les habitants n'utilisent pas ce mot. Pour eux, l'unité de l'île n'est ni un choix ni un exploit : c'est ce que la géographie et l'écoute imposent à qui vit ici.
+| | |
+|---|---|
+| **Type** | Île-continent unique, tempéré-océanique, ceinturée de falaises noires |
+| **Taille** | Petit continent (moins étendu qu'Onara, à peine plus que la partie habitable de Cestra) ; ~300 lieues nord-sud × ~150 lieues est-ouest |
+| **Climat** | Tempéré-océanique frais, brumeux ; soleil ~1 jour sur 3 |
+| **Nations habitées** | 1 ([[Baelor]]) — un seul peuple, une seule langue, une seule règle |
+| **Régime** | Théocratie monastique : les moines sont l'État, la culture et la quasi-totalité du peuple |
+| **Trait commun** | Règle du silence, écoute des falaises, art martial du silence |
 
-Le continent est petit — moins étendu qu'Onara, à peine plus que Cestra dans sa partie habitable. Une seule île, modelée par les vents du nord et les marées de l'ouest, ceinturée de falaises noires qui n'invitent pas à débarquer et brouillée presque toute l'année par un brouillard argenté que les marins étrangers nomment *L'Île Fantôme* sans avoir jamais accosté. Ceux qui accostent ne reviennent pas pour en parler — non parce qu'on les retient, mais parce qu'à leur retour, ils ne trouvent plus les mots. Ils en parlent d'autant moins qu'ils ont vu davantage.
-
-Ce qui définit Baelor n'est pas une culture, ni un régime, ni une histoire glorieuse. C'est une **posture** : une manière collective d'être à l'écoute de quelque chose que la civilisation ordinaire couvre de bruit. Les moines qui peuplent l'île ne forment pas une religion d'État au sens où Caeloria ou Pyrtara le sont — ils sont l'État, ils sont la culture, ils sont la totalité du peuple. Hors les moines et leurs apprentis, il n'y a presque personne sur Baelor. Quelques familles de pêcheurs côtiers, quelques tailleurs de pierre dans les hauteurs centrales, quelques bergers de chèvres rocheuses dans les collines brumeuses. Tous, sans exception, vivent sous la règle du silence à des degrés divers. L'enfant qui crie dans une cour côtière n'est jamais réprimandé : il l'apprend en regardant ses parents.
+Faits notables :
+- Continent **mono-national** (anomalie politique à l'échelle d'Hybélior) ; unité présentée par les habitants comme imposée par la géographie et l'écoute, jamais comme un choix ou un exploit.
+- Population hors moines et apprentis très réduite : familles de pêcheurs côtiers, tailleurs de pierre des hauteurs centrales, bergers de chèvres rocheuses des collines brumeuses — tous sous la règle du silence à divers degrés.
+- Surnommée **L'Île Fantôme** par les marins étrangers (brouillard argenté quasi permanent) ; **visible seulement au vent du nord-est**.
 
 ---
 
 ## Géographie
 
-Baelor s'étend nord-sud sur environ trois cents lieues, est-ouest sur cent cinquante. Les côtes ne se ressemblent pas.
+**Côtes (4) :**
+- **Côte nord** — muraille de **falaises noires de basalte** (50 à 120 m), sans plage praticable sur ~200 lieues. Unique crique abritée (défaut de la falaise large de ~200 pas) : site d'accostage des premiers moines et du port creusé de **Baeloris**. Reste de la côte inaccessible (défense naturelle de l'île).
+- **Côte ouest** — falaises basses, criques étroites, grottes marines profondes, plages de galets noirs. Habitat des **rares pêcheurs** (~une douzaine de hameaux) ; **cloîtres minoritaires** dispersés. Lieu où **Hesvar de Tholmë** vécut 13 ans dans une grotte sans laisser de trace.
+- **Côte sud** — plages de galets gris, promontoires bas, marais salants (récolte du **sel**), herbes médicinales (cueillette monastique saisonnière). Établissement principal : **Tholmë**. Côte la plus ouverte au commerce limité (Tyndara ; plus rarement Caeloria).
+- **Côte est** — venteuse, quasi inhabitée ; récifs et courants traîtres (aucun navire étranger). Promontoire de **Thyldris** : poste de veille sur l'horizon d'où, selon les Veilleurs, *quelque chose viendra* (ni quand ni quoi).
 
-- **La côte nord** est une muraille de **falaises noires de basalte**, hautes de cinquante à cent vingt mètres, sans plage praticable sur deux cents lieues. C'est ici que les premiers moines en exil ont accosté, dans la seule crique abritée de tout le littoral nord — un défaut dans la falaise large d'à peine deux cents pas, où les vagues entrent par couloir et se calment en arrivant au rivage. Le port de **Baeloris** y est creusé. Le reste de la côte nord est inaccessible, et c'est ainsi que Baelor s'est défendue depuis toujours sans avoir à le décider.
+**Intérieur (2 paysages) :**
+- **Plateau central** (mi-altitude) — collines de bruyère sous brume permanente dite **le Voile bas** (brouillard léger jamais entièrement levé, même en été). Troupeaux de chèvres rocheuses ; **cairns** anciens d'origine inconnue, entretenus de longue date.
+- **Dorsale de Velkadra** — chaîne de collines escarpées (ni montagnes ni simples hauteurs) courant nord-sud, sépare côtes ouest et est. Flancs orientaux : **cloîtres reculés** cachés par la brume, où survivent les pratiques marginales.
 
-- **La côte ouest** est plus douce — des falaises basses entrecoupées de criques étroites, des grottes marines longues et profondes, des plages de galets noirs polis par le ressac. C'est ici que vivent les **rares pêcheurs**, dans une douzaine de hameaux à peine, et que se dispersent les cloîtres minoritaires (cf. *Mythes communs*). C'est aussi ici, selon les chroniques, que **Hesvar de Tholmë** vécut treize ans dans une grotte sans laisser de traces.
+**Hydrographie :**
+- 3 rivières courtes descendant de la dorsale de Velkadra vers la côte ouest ; **aucune navigable**.
+- Sources d'eau douce dans les falaises ; la **Source Sourde** (sous Baeloris) alimente tout le complexe monastique sans jamais avoir tari.
 
-- **La côte sud** est une succession de **plages de galets gris**, séparées par des promontoires bas. Quatre ou cinq établissements modestes — Tholmë la plus connue —, des marais salants où l'on récolte le sel, des bouquets d'herbes médicinales que les moines viennent cueillir aux saisons précises. C'est la côte la plus ouverte au commerce limité que l'île pratique avec Tyndara et, plus rarement, Caeloria.
+**Biomes :** landes basses (majorité du plateau central), bruyères, prairies maigres, taillis de pins maritimes côtiers, bosquets de chênes nains dans les vallées intérieures. **Aucune forêt** véritable. **Aucun grand prédateur.**
 
-- **La côte est** est venteuse, presque inhabitée. Le promontoire de **Thyldris** y surveille la mer dans la direction d'où, selon les Veilleurs, *quelque chose viendra* sans qu'ils sachent dire ni quand ni quoi. Le reste de la côte est faite de récifs et de courants traîtres ; aucun navire étranger ne s'y aventure.
+**Faune dominante :** chèvres rocheuses, oiseaux marins, **vailoth** (petit rapace nocturne local, toléré dans les salles d'écriture pour chasser les rongeurs).
 
-- **L'intérieur** combine deux paysages. Le **plateau central**, à mi-altitude, est couvert de **collines de bruyère et de brume permanente** — un brouillard léger qui ne se lève jamais entièrement, même en plein été, et que les moines nomment *le Voile bas*. Quelques troupeaux de chèvres rocheuses y pâturent ; quelques cairns y sont entretenus depuis si longtemps que personne ne sait qui les a posés. Au-delà s'élève la **dorsale de Velkadra** — une chaîne de collines escarpées, ni vraiment montagnes ni vraiment hauteurs, qui court nord-sud et sépare les côtes ouest et est. Sur les flancs orientaux de cette dorsale, dans des replis de roche que la brume cache toute l'année, se trouvent les **cloîtres reculés** où les pratiques marginales survivent.
-
-**Climat** : tempéré-océanique, frais. Les hivers sont longs, doux mais humides ; les étés courts, sans grande chaleur. Le soleil perce environ un jour sur trois. Le vent dominant vient du sud-ouest et apporte le brouillard ; quand il tourne au nord-est, il porte sec et clair, et c'est ce vent qui découvre l'île au regard de qui s'en approche. Les marins disent que **Baelor n'est visible qu'au vent du nord-est** — observation que les moines ne confirment ni ne contestent, mais que tous leurs récits de fondation décrivent comme la condition de leur arrivée.
-
-**Hydrographie** : trois rivières courtes qui descendent de la dorsale de Velkadra vers la côte ouest, aucune navigable. Plusieurs sources d'eau douce dans les falaises mêmes, dont une — la **Source Sourde** sous Baeloris — alimente le complexe monastique entier sans avoir jamais tari, ce qui fait partie des choses que les moines tiennent pour évidentes et que les visiteurs trouvent improbables.
-
-**Biomes** : landes basses (la majorité du plateau central), bruyères, prairies maigres, taillis de pins maritimes en bord de côte, quelques bosquets de chênes nains dans les vallées intérieures. Aucune forêt à proprement parler. Pas de grands prédateurs. La faune est dominée par les chèvres rocheuses, les oiseaux marins, et une espèce locale de petit rapace nocturne — le *vailoth* — que les moines tolèrent dans leurs salles d'écriture pour qu'il chasse les rongeurs sans qu'on ait à les piéger.
-
----
-
-## Mythes communs (la voix des falaises, lectures concurrentes)
-
-Aucune doctrine officielle de Baelor ne raconte d'une seule voix l'arrivée des premiers moines. Les chroniques internes — partielles, conservées dans des journaux enluminés que peu de Silentii ont lus en entier — donnent à peu près ceci, par recoupement :
-
-- **Lecture orthodoxe** (dominante à Baeloris, transmise oralement par les Maîtres de Discipline) : les premiers moines, chassés de leur terre d'origine pour pratique d'un culte du silence sacré, accostèrent à Baelor au prix d'un naufrage. Sur les falaises, ils entendirent **une voix** — non pas une voix humaine, ni le vent, ni le ressac, mais quelque chose qui parlait dans une langue qu'ils ne comprenaient pas et qui leur indiqua, par modulation seule, *où se taire*. Ils obéirent. La fondation est une **obéissance à l'écoute**. Cette lecture est celle qu'on présente aux visiteurs et qu'on enseigne aux novices.
-
-- **Lecture marginale du Premier Voile** (cloîtres de la côte ouest, frange minoritaire) : la voix qu'ils ont entendue n'était pas un message. C'était **un bruit qu'ils ont pris pour un message**. Le silence qu'ils ont alors instauré n'était pas une réponse à ce qui parlait, mais une **fuite devant ce qui aurait pu parler**. Cette lecture, qui n'est jamais formulée à voix haute (paradoxe assumé), circule par lamelles scellées et par des phrases brèves dans les correspondances entre cloîtres minoritaires. Elle ne demande pas à devenir doctrine. Elle demande seulement qu'on doute.
-
-- **Lecture de Thyldris** (Veilleurs côtiers, fragmentaire) : ce que les premiers moines ont entendu **n'a pas cessé**. La voix continue de sortir des falaises de basalte, mesurée, lente, dans une langue que personne ne comprend mais que les Veilleurs reconnaissent à la cadence — la même cadence que **ce qui vient depuis l'horizon**, qu'ils observent depuis quatre siècles sans pouvoir le nommer. Cette lecture ne s'oppose pas à l'orthodoxe ; elle l'**ancre** dans un présent inquiet. Les Maîtres de Baeloris ne la commentent pas et ne la contredisent pas.
-
-- **Lecture du Cerf de Brume** (anecdote populaire, non doctrinale) : il existerait, dans les hautes terres centrales, un animal — décrit tantôt comme un cerf, tantôt comme une silhouette humaine de loin — qui aurait précédé les moines de plusieurs siècles et qui les aurait *attendus*. Aucun moine ne tient cette lecture pour sérieuse. Aucun berger des hauteurs ne l'a jamais publiquement contredite.
-
-- **Lecture par les marins étrangers** (rumeurs portuaires) : Baelor serait habitée par les *Vaporae*, esprits de la brume qui jouent des mélodies anciennes pour égarer les voyageurs dans des forêts de cristal qu'aucun moine de l'île n'a jamais vues. Au cœur de l'île, un *lac noir comme l'obsidienne*, la **Source de l'Éternité**, dont une goutte conférerait l'immortalité au prix de l'âme. Les moines ne reçoivent ni ne démentent ces récits. Tous les chroniqueurs locaux qui les consignent le font avec la même note marginale : *« Il n'y a pas de lac noir au cœur de l'île. Il y a des collines de bruyère et le brouillard. C'est moins romanesque, et c'est ce qui est. »*
-
-Chaque lecture *protège quelque chose*. La lecture orthodoxe protège la légitimité de la règle ; celle du Premier Voile protège le doute ; celle de Thyldris protège l'attente ; celle des marins protège l'imagination du dehors. Aucune n'admet, dans sa formulation officielle, que les moines sont arrivés sur cette île par accident, qu'ils ont confondu l'écho de leur peur avec une voix divine, et qu'ils ont eu besoin de huit générations pour bâtir, autour de cette confusion fondatrice, une discipline assez serrée pour que la confusion devienne indistinguable du sens. Ce silence collectif est l'une des choses les plus caractéristiques de Baelor — et c'est, de loin, le silence qui s'entend le mieux ici.
+**Climat (détail) :** hivers longs, doux mais humides ; étés courts et frais ; soleil ~1 jour sur 3. Vent dominant du sud-ouest (apporte le brouillard) ; au nord-est il porte sec et clair et **découvre l'île** au regard (condition décrite par tous les récits de fondation).
 
 ---
 
-## Thèmes culturels
+## Croyances — la voix des falaises (lectures concurrentes)
 
-- **L'écoute comme métier**. Tout, à Baelor, gravite autour de l'idée que **quelque chose se dit en permanence** et que la civilisation ordinaire est trop bruyante pour l'entendre. L'enfant apprend à écouter avant d'apprendre à se taire, et à se taire avant d'apprendre à parler. Cette priorité inversée par rapport à toutes les autres cultures d'Hybélior produit, à l'âge adulte, une nation entière dont l'attention est extraordinairement aiguisée et dont l'expression — verbale, émotionnelle, gestuelle — est extraordinairement contrainte. Les visiteurs trouvent les Bealoriens *froids*. Les Bealoriens trouvent les voisins *encombrants*.
+Aucune doctrine officielle ne raconte d'une seule voix l'arrivée des premiers moines. Lectures attestées par tradition :
 
-- **L'unité par défaut, jamais célébrée**. Aucun monument ne fête l'unité de l'île. Aucun chant patriotique. Aucun récit de fondation glorieuse. La nation est une parce que personne n'a jamais eu le bruit nécessaire pour s'en séparer. Cette unité n'est ni fière ni fragile — elle est simplement là, comme la falaise est là.
+- **Lecture orthodoxe** (dominante à Baeloris, transmise oralement par les Maîtres de Discipline) — premiers moines chassés de leur terre d'origine pour culte du silence sacré, accostés après un naufrage ; sur les falaises ils entendent **une voix** (ni humaine, ni vent, ni ressac) qui, par modulation seule, leur indique *où se taire*. La fondation est une **obéissance à l'écoute**. Version présentée aux visiteurs et enseignée aux novices.
+- **Lecture du Premier Voile** (cloîtres de la côte ouest, frange minoritaire) — la voix n'était pas un message mais **un bruit pris pour un message** ; le silence instauré est une **fuite devant ce qui aurait pu parler**, non une réponse. Jamais formulée à voix haute (paradoxe assumé) ; circule par lamelles scellées et correspondances entre cloîtres minoritaires. Demande non de devenir doctrine, mais qu'on doute.
+- **Lecture de Thyldris** (Veilleurs côtiers, fragmentaire) — la voix **n'a pas cessé** ; elle continue de sortir des falaises de basalte, lente, dans une langue incomprise dont les Veilleurs reconnaissent la cadence — la même que **ce qui vient depuis l'horizon**, observé depuis 4 siècles sans pouvoir le nommer. Ancre l'orthodoxie dans un présent inquiet ; ni commentée ni contredite par les Maîtres de Baeloris.
+- **Lecture du Cerf de Brume** (anecdote populaire, non doctrinale) — un animal des hautes terres centrales (décrit tantôt comme un cerf, tantôt comme une silhouette humaine de loin) aurait précédé les moines de plusieurs siècles et les aurait *attendus*. Tenue pour non sérieuse par les moines ; jamais publiquement contredite par les bergers des hauteurs.
+- **Lecture des marins étrangers** (rumeurs portuaires) — l'île serait habitée par les **Vaporae** (esprits de la brume jouant des mélodies pour égarer les voyageurs dans des forêts de cristal) ; au cœur de l'île, un lac noir comme l'obsidienne, la **Source de l'Éternité**, dont une goutte conférerait l'immortalité au prix de l'âme. Ni reçue ni démentie par les moines ; les chroniqueurs locaux notent qu'il n'y a pas de lac noir au cœur de l'île — seulement collines de bruyère et brouillard.
 
-- **Le geste comme parole**. Le **langage gestuel baelorien** — précis, codifié, transmis par les Maîtres de Discipline — n'est pas un appendice culturel : c'est *la langue principale* de l'île. Les Silentii les plus avancés tiennent des conversations entières par micro-mouvements du visage et de la main. Les autres cultures du monde considèrent ce langage comme un curiosa ; les Bealoriens considèrent les langues parlées comme des outils approximatifs, longs, imprécis, qu'on tolère pour les étrangers.
+Note : chaque lecture protège quelque chose (orthodoxe → légitimité de la règle ; Premier Voile → doute ; Thyldris → attente ; marins → imagination du dehors). Aucune n'admet officiellement une arrivée accidentelle ni une confusion fondatrice entre écho de la peur et voix divine.
 
-- **L'enluminure comme seul foisonnement**. La règle du silence interdit le chant, le théâtre, la rhétorique, la déclamation — toutes les formes d'expression bruyantes. Mais elle laisse libre l'**enluminure des journaux**, et c'est là que **toute la sève créative de Baelor s'écoule**. Les manuscrits enluminés produits à Baeloris, à Tholmë et à Velkadra sont parmi les plus admirés d'Hybélior, et leurs prix dans les marchés de Lumasar et de Solena dépasseraient l'entendement si les moines acceptaient de les vendre. Ils ne les vendent pas. Ils en offrent, parfois, à des visiteurs qu'ils ont jugés dignes — selon des critères qu'aucun visiteur n'a jamais réussi à formaliser.
+---
 
-- **Le brouillard comme pédagogie**. Le **Voile bas** — ce brouillard léger et permanent du plateau central — n'est pas perçu par les Bealoriens comme une nuisance. Il est perçu comme un *enseignement météorologique* : on n'y voit pas loin, on y entend mieux que partout ailleurs, on y avance prudemment. Les moines envoient régulièrement les novices marcher seuls une journée dans le Voile bas, sans carte ni compagnon, simplement pour qu'ils éprouvent l'inverse de la certitude visuelle. Beaucoup en reviennent changés. Quelques-uns n'en reviennent pas — et ce fait est traité par les Maîtres avec une équanimité qui frappe les visiteurs.
+## Traits culturels
 
-- **Une posture face à ce qu'il y a dessous**. Aucun moine ne le formule ainsi, et c'est précisément ce qui distingue Baelor des autres continents. Ailleurs, on bâtit *au-dessus* de quelque chose qu'on refuse de regarder (les Titans à Galenor, l'Arrachement à Onara, la Polyphonie à Endora). À Baelor, on bâtit *pour ne pas couvrir* ce qui est dessous. Le silence, l'enfouissement des cellules dans la roche noire, l'interdiction de tout son ajouté — tout cela tend à ne **pas masquer** une fréquence dont la roche, ici, transmet directement la pulsation. C'est une posture rare. Elle a son piège propre, qui est l'inverse de celui de Galenor : à force de ne pas couvrir, on peut finir par n'avoir plus de soi distinct du dessous. Les moines de Baelor ne disent pas cela. Quelques-uns, dans les marges, le pressentent.
+- **L'écoute comme métier** — postulat que *quelque chose se dit en permanence* que le bruit ordinaire couvre. L'enfant apprend à écouter avant de se taire, et à se taire avant de parler. Attention extraordinairement aiguisée, expression (verbale, émotionnelle, gestuelle) extraordinairement contrainte. Les étrangers jugent les Baeloriens *froids* ; les Baeloriens jugent les voisins *encombrants*.
+- **L'unité par défaut, jamais célébrée** — aucun monument, chant patriotique ni récit de fondation glorieuse. La nation est une faute de bruit pour s'en séparer.
+- **Le geste comme parole** — le **langage gestuel baelorien** (précis, codifié, transmis par les Maîtres de Discipline) est *la langue principale* de l'île ; les Silentii avancés conversent par micro-mouvements du visage et de la main. Les langues parlées sont tenues pour des outils approximatifs tolérés pour les étrangers.
+- **L'enluminure comme seul foisonnement** — la règle interdit chant, théâtre, rhétorique, déclamation (toutes formes bruyantes) mais laisse libre l'**enluminure des journaux**, exutoire créatif de l'île. Manuscrits de Baeloris, Tholmë et Velkadra parmi les plus admirés d'Hybélior ; jamais vendus (parfois offerts à des visiteurs jugés dignes selon des critères jamais formalisés).
+- **Le brouillard comme pédagogie** — le **Voile bas** est perçu comme un enseignement (on y voit peu, on y entend mieux, on y avance prudemment). Les novices sont envoyés marcher seuls une journée dans le Voile bas, sans carte ni compagnon ; beaucoup en reviennent changés, quelques-uns n'en reviennent pas (fait traité avec équanimité par les Maîtres).
+- **Bâtir pour ne pas couvrir** — là où d'autres continents bâtissent *au-dessus* de ce qu'ils refusent de regarder (Titans à Galenor, l'Arrachement à Onara, la Polyphonie à Endora), Baelor bâtit *pour ne pas masquer* ce qui est dessous : silence, cellules enfouies dans la roche noire, interdiction de tout son ajouté visent à ne pas couvrir une pulsation que la roche transmet directement.
 
 ---
 
@@ -83,38 +84,18 @@ Chaque lecture *protège quelque chose*. La lecture orthodoxe protège la légit
 
 ## Routes et contacts limités
 
-Baelor n'est sur aucune route majeure. Trois liaisons maritimes seulement existent, toutes irrégulières :
+Baelor n'est sur aucune route majeure. **3 liaisons maritimes** seulement, toutes irrégulières :
 
-- **Baeloris ↔ Caeloria (Lunasar)** : un navire haldrien environ tous les deux mois, capitaines triés sur le volet par les moines, qui transporte du sel, des herbes, des parchemins enluminés (offerts, jamais vendus) et — dans le sens inverse — un peu de fer, de la cire, du papier brut. Cette ligne est ancienne et pratiquement diplomatique. Elle existe parce que les oracles de Caeloria reconnaissent une parenté lointaine entre la pratique des Enfants aux Yeux Blancs et l'écoute baelorienne, et que l'Abbé Suprême tolère cette reconnaissance sans la formuler.
+- **Baeloris ↔ Caeloria (Lunasar)** — un navire haldrien ~tous les deux mois, capitaines triés par les moines. Exports : sel, herbes, parchemins enluminés (offerts, jamais vendus). Imports : fer, cire, papier brut. Ligne ancienne et quasi diplomatique : les oracles de Caeloria reconnaissent une parenté lointaine entre la pratique des Enfants aux Yeux Blancs et l'écoute baelorienne, reconnaissance tolérée sans être formulée par l'Abbé Suprême.
+- **Tholmë ↔ Tyndara** — trafic mineur saisonnier (pêche partagée, menus échanges). Voie d'arrivée des rares **visiteurs payants** des cloîtres ouest (pratique tolérée, jugée scandaleuse par les orthodoxes ; ses revenus entretiennent les bibliothèques).
+- **Côte est ↔ rien** — aucune route. Thyldris regarde la mer ; les Veilleurs n'y attendent personne (ou attendent ce qui ne vient pas par navire).
 
-- **Tholmë ↔ Tyndara** : trafic mineur, saisonnier, de pêche partagée et de menus échanges. C'est par cette voie que viennent les rares **visiteurs payants** des cloîtres ouest — pratique tolérée, scandaleuse selon les orthodoxes, dont les revenus permettent l'entretien des bibliothèques.
-
-- **Côte est ↔ rien** : aucune route. Le promontoire de Thyldris regarde la mer et les Veilleurs n'y attendent personne — ou attendent quelque chose qui ne vient pas par navire.
-
-Aucune route terrestre intérieure n'est balisée. Les sentiers existent (entre Baeloris et Velkadra, entre Velkadra et Tholmë, entre la dorsale et la côte ouest), mais ils ne sont pas entretenus de manière systématique : on les retrouve par habitude, et les novices apprennent à *deviner* les sentiers que la bruyère a recouverts. Quelques **cairns** sur le plateau central indiquent les passages d'une vallée à l'autre. Personne ne sait qui les a posés. Tout le monde respecte leur emplacement.
+**Routes terrestres intérieures :** aucune balisée. Sentiers existants (Baeloris–Velkadra, Velkadra–Tholmë, dorsale–côte ouest) non entretenus systématiquement ; retrouvés par habitude, les novices apprenant à *deviner* les sentiers recouverts de bruyère. **Cairns** du plateau central indiquant les passages d'une vallée à l'autre (origine inconnue, emplacements respectés de tous).
 
 ---
 
 ## Tensions internes
 
-Baelor, du dehors, paraît monolithique. À l'écoute attentive, trois lignes de fracture la traversent en sourdine.
-
-**La querelle des Voiles.** L'orthodoxie de Baeloris pratique le **Second Voile** — silence total après une initiation de six mois. Les cloîtres dispersés sur la côte ouest et la dorsale ouest pratiquent majoritairement le **Premier Voile** — silence partiel, écriture admise, doute envers le silence lui-même comme certitude. Les deux écoles ne pratiquent plus l'**Échange des Lamelles** entre elles depuis quatre siècles ; elles se respectent en façade et se considèrent en profondeur comme l'une *trop rigide*, l'autre *trop concessive*. Aucun synode n'a jamais tranché. Aucun ne tranchera.
-
-**Le scandale des Visiteurs payants.** Depuis environ deux siècles, des nobles fortunés de Vytharia, Lumasar et Astravia viennent passer des « retraites de silence » payantes dans certains cloîtres de Tholmë et de Velkadra. La pratique est tolérée par l'orthodoxie de Baeloris parce qu'elle ne s'y déroule pas — on regarde ailleurs. Les revenus permettent l'entretien des bibliothèques d'enluminure et l'achat des matériaux rares. Une fraction du clergé, des deux Voiles, considère ces revenus comme **la corruption fondamentale** de la doctrine : un silence acheté n'est plus un silence, c'est un loisir aristocratique. Le sujet ne s'exprime jamais publiquement. Le scandale interne s'épaissit sans s'exprimer — par cohérence avec la règle.
-
-**La question de Thyldris.** Le monastère côtier à l'est, fondé après la Défense du Monastère de Kethros, pratique une discipline particulière : la **veille permanente** sur l'horizon. Les Maîtres de Baeloris reconnaissent officiellement Thyldris comme un cloître orthodoxe. En pratique, les Veilleurs développent depuis quatre siècles **leur propre doctrine** — non écrite, transmise par cooptation, fondée sur l'idée que ce qu'ils voient à l'horizon n'est pas une menace mais **un retour**. Cette lecture inquiète les orthodoxes sans qu'ils osent l'interdire (les Veilleurs ont, après tout, sauvé l'île une fois). Les histoires de **Sœur Kael** et des yeux qui blanchissent (cf. *Histoires de Baelor*) sont les manifestations visibles de cette dérive lente. L'Abbé Suprême Kethron VI n'a jamais visité Thyldris. Personne ne sait s'il s'agit d'un refus ou d'une politesse.
-
----
-
-## Climat philosophique général
-
-Baelor est, dans le langage de notre cadre interne (cf. encadré final), un continent **majoritairement dans la Loi**, à un endroit très particulier de cette Loi : **la Loi du silence**, qui se dénie elle-même comme Loi parce que le silence se présente comme l'absence de toute règle énonçable. Cette singularité est trompeuse. Le silence ici **est** la règle, et il est appliqué avec une rigidité qu'aucune autre nation d'Hybélior n'atteint, *précisément parce qu'on ne peut pas la critiquer sans la trahir*.
-
-Cette posture a un prix institutionnel — l'**Âge de la Loi figée** que la fiche de [[Taciti]] documente — et elle a un revers possible : **l'Effacement de la Limite**. Ces deux pièges, qui paraissent opposés, sont en réalité les deux faces d'une même pièce silencieuse. Si la règle ne peut pas être interrogée, alors elle se durcit (Loi figée) ; et si elle se durcit jusqu'au point où plus aucun contre-point ne peut s'énoncer, alors plus rien ne se distingue (Effacement). Baelor oscille entre ces deux dérives sans le savoir.
-
-Une **bascule partielle vers le Principe** est lisible chez quelques figures marginales : **Hesvar de Tholmë**, dans l'Histoire ancienne, dont la lamelle non scellée est la seule trace ; les Silentii contemporains qui pratiquent le **Premier Voile** non par concession mais par doute ; les rares Veilleurs de Thyldris qui regardent l'horizon sans en faire un message ; les bergers du plateau central qui posent les cairns sans demander pourquoi. Ces figures ne forment pas un mouvement. Elles ne se reconnaissent pas entre elles. Elles meurent obscures, en règle générale, et leurs lamelles vont rejoindre la niche que personne n'ouvre.
-
-**Pourquoi ce stade pour Baelor (justification interne) :** le continent est arrivé à son organisation actuelle par **obéissance à une écoute** dont la nature n'a jamais été examinée. Une bascule vers le Principe supposerait que les moines admettent collectivement qu'ils ne savent pas *ce qu'ils écoutent* — et qu'ils continuent quand même. Quelques-uns le font, en privé. La nation, non. La nation a transformé l'écoute en discipline, la discipline en règle, la règle en silence, et le silence en certitude muette qui se croit humble. C'est l'exemple presque parfait de la Loi figée habillée en Voile.
-
-**Pourquoi Baelor n'est pas Galenor ni Onara :** les autres continents bâtissent *au-dessus* de quelque chose qu'ils refusent de regarder. Baelor bâtit *à l'écoute* de quelque chose qu'elle ne nomme pas. La différence est subtile et décisive. Galenor s'enferme dans sa propre prospérité et oublie les Titans tombés ; Baelor s'enferme dans sa propre attention et oublie qu'elle pourrait *se tromper* d'attention. Le piège est plus difficile à voir, parce qu'il porte le costume de la vertu opposée à celui de Galenor.
+- **La querelle des Voiles** — l'orthodoxie de Baeloris pratique le **Second Voile** (silence total après une initiation de 6 mois) ; les cloîtres de la côte ouest et de la dorsale ouest pratiquent majoritairement le **Premier Voile** (silence partiel, écriture admise, doute envers le silence-comme-certitude). Plus d'**Échange des Lamelles** entre les deux écoles depuis 4 siècles ; respect de façade, jugements réciproques de « trop rigide » / « trop concessive ». Aucun synode n'a tranché ni ne tranchera.
+- **Le scandale des Visiteurs payants** — depuis ~2 siècles, des nobles fortunés de Vytharia, Lumasar et Astravia font des « retraites de silence » payantes dans certains cloîtres de Tholmë et Velkadra. Toléré par Baeloris (cela ne s'y déroule pas) ; revenus servant aux bibliothèques d'enluminure et aux matériaux rares. Une fraction du clergé des deux Voiles y voit la **corruption fondamentale** de la doctrine (un silence acheté n'en est plus un). Sujet jamais exprimé publiquement.
+- **La question de Thyldris** — monastère côtier est fondé après la Défense du Monastère de Kethros ; discipline propre : la **veille permanente** sur l'horizon. Reconnu officiellement comme cloître orthodoxe par Baeloris, mais les Veilleurs développent depuis 4 siècles **leur propre doctrine** (non écrite, transmise par cooptation) : ce qu'ils voient à l'horizon serait non une menace mais **un retour**. Lecture qui inquiète les orthodoxes sans qu'ils l'interdisent (les Veilleurs ont sauvé l'île une fois). Manifestations visibles : histoires de **Sœur Kael** et des yeux qui blanchissent (cf. *Histoires de Baelor*). L'Abbé Suprême **Kethron VI** n'a jamais visité Thyldris (refus ou politesse, on l'ignore).

@@ -2,7 +2,7 @@
 tags: [lore, pays, celethor, nomansland]
 type: nation
 status: canon
-last_review: 2026-05-06
+last_review: 2026-06-05
 needs_review_for: []
 ---
 # No Man's Land de Celethor — Les Terres Brisées
@@ -24,47 +24,32 @@ needs_review_for: []
 
 ## Gouvernement — Néant officiel, réseaux informels
 
-Il n'y a pas de gouvernement dans les Terres Brisées. Chaque communauté, chaque campement, chaque individu est son propre maître. Des alliances temporaires se forment et se défont au gré des circonstances. Les chefs émergent par la force, le charisme ou la compétence — et disparaissent tout aussi vite.
-
-Mais à plus long terme, **trois pôles de pouvoir informel** structurent les Terres Brisées :
-
-1. **Eridorn et la Tisseuse** — réseau commercial qui relie les trois pays voisins par la Route Sourde. Pouvoir par la connexion, jamais par la coercition.
-2. **Valdris** — communauté militaire des déserteurs elariens et de leurs descendants. Pouvoir par la discipline et le mercenariat sélectif. Refuse les contrats contre Elarian.
-3. **Nomiris** — carrefour commercial autour de la fontaine ancienne. Pouvoir diffus, cinq familles fondatrices, marché noir réglé par usage.
-
-Aucun de ces pôles ne prétend gouverner les autres. Ils coexistent par négociation tacite. Le **Roi des Ruines** (cf. *Secrets et intrigues*) cherche, selon des récits convergents mais non vérifiés, à fédérer ces pôles sous une autorité unique. La Tisseuse ne lui répond pas. Valdris non plus. Nomiris hésite.
+- Aucun gouvernement central. Chaque communauté, campement ou individu est son propre maître. Les alliances sont temporaires ; les chefs émergent par la force, le charisme ou la compétence, et disparaissent aussi vite.
+- **Trois pôles de pouvoir informel** structurent les Terres Brisées :
+  1. **Eridorn et la Tisseuse** — réseau commercial reliant les trois pays voisins par la Route Sourde. Pouvoir par la connexion, jamais par la coercition.
+  2. **Valdris** — communauté militaire de déserteurs elariens et de leurs descendants. Pouvoir par la discipline et le mercenariat sélectif. Refuse les contrats contre Elarian.
+  3. **Nomiris** — carrefour commercial autour de la fontaine ancienne. Pouvoir diffus, cinq familles fondatrices, marché noir réglé par usage.
+- Aucun pôle ne prétend gouverner les autres ; ils coexistent par négociation tacite.
+- Le **Roi des Ruines** (cf. *Secrets et intrigues*) chercherait, selon des récits convergents mais non vérifiés, à fédérer ces pôles sous une autorité unique. La Tisseuse ne lui répond pas ; Valdris non plus ; Nomiris hésite.
 
 ---
 
 ## Religion
 
-Aucune religion organisée ne domine les Terres Brisées. Les habitants pratiquent un syncrétisme sauvage — des fragments de Rota Mundi mêlés à des superstitions locales, des prières à Lex Petra pour la protection des abris, des invocations à Ignis Aeternum pour que le feu tienne pendant la nuit. Certains ne croient en rien du tout.
-
-Cette absence de religion organisée est, aux termes de notre cadre interne, le piège même de **l'Effacement de la Limite** : tout est admis, donc plus rien ne tient. Une partie des habitants en souffre sans pouvoir le formuler ; une autre y trouve une liberté authentique qu'aucune nation ne peut leur offrir. Les contemplatifs de Fenorith (cf. fiche ville) sont à la frontière de ces deux postures : ils ont *choisi* l'absence de Loi après avoir épuisé la lutte pour les Lois de leurs nations d'origine. Leur sérénité n'est pas la paix des innocents — c'est la paix des vaincus lucides.
+- Aucune religion organisée ne domine. Syncrétisme sauvage : fragments de Rota Mundi mêlés à des superstitions locales, prières à Lex Petra pour la protection des abris, invocations à Ignis Aeternum pour le maintien du feu la nuit. Certains habitants ne croient en rien.
+- Les contemplatifs de Fenorith ont *choisi* l'absence de Loi après avoir épuisé la lutte pour les Lois de leurs nations d'origine (cf. fiche ville Fenorith).
 
 ---
 
 ## Culture et société
 
-### La loi du plus pragmatique
-
-La violence existe dans les Terres Brisées, mais elle n'est pas la norme — elle est le dernier recours. Les communautés qui survivent le plus longtemps sont celles qui ont appris la coopération. Le troc est roi, la parole donnée a de la valeur (car celui qui ment perd tout crédit), et les compétences pratiques valent plus que le sang noble.
-
-### Les errants
-
-Beaucoup d'habitants ne restent pas longtemps au même endroit. Ces **errants** parcourent les Terres Brisées en quête de ruines à explorer, de gibier à chasser ou simplement d'un endroit meilleur. Ils transportent tout ce qu'ils possèdent sur leur dos et dorment là où la nuit les surprend. Certains errants sont des **Effacés** d'Elarian dont les nations d'origine ne savent pas qu'ils ont survécu ; ils n'ont pas de raison de revenir.
-
-### Les rituels d'admission (l'absence de)
-
-Il n'y a pas de rituel d'admission aux Terres Brisées. Quand on arrive, on arrive. Quand on partage le feu d'un campement la première nuit, on a fait connaissance. Quand on revient le lendemain, on est probablement accepté. Cette absence de rituel est précisément ce qui distingue les Terres Brisées de toutes les autres nations d'Hybélior — c'est aussi ce qui rend l'intégration *désespérante* pour qui aurait besoin de structures pour exister. Les nouveaux arrivants qui ne supportent pas l'absence de Loi repartent au bout de quelques semaines, ou se suicident en tentant de retraverser un défilé en hiver.
-
-### Trois mondes en un
-
-Les Terres Brisées ne sont pas un seul monde mais trois monde superposés :
-
-1. **Le monde de surface** : campements, marchés, mercenaires, prospecteurs. Visible. Contestable. Les voyageurs étrangers le voient en premier.
-2. **Le monde de la Tisseuse** : réseau invisible, fait d'alliances et d'introductions. Personne ne dessine sa carte. Personne ne pourrait. Les seules données concrètes sont les mouvements de marchandises sur la Route Sourde, et les fonctionnaires corrompus qui touchent leur part.
-3. **Le monde des ruines** : sous la toundra, les fondations de l'ancienne civilisation. Les prospecteurs y descendent. Les artefacts qu'ils en remontent sont ambigus. Les voix qu'ils entendent (cf. Zarnith) ne sont pas validées. Mais le monde existe. Il a son propre temps. Il est, peut-être, ce qui rend les Terres Brisées impossibles à intégrer dans une nation : *quelque chose y dort qui ne consent pas à être réveillé*.
+- **Loi du plus pragmatique** : la violence est le dernier recours, pas la norme. Les communautés durables reposent sur la coopération. Le troc est roi ; la parole donnée a de la valeur (le menteur perd tout crédit) ; les compétences pratiques valent plus que le sang noble.
+- **Les errants** : nombreux habitants nomades parcourant les Terres Brisées en quête de ruines, de gibier ou d'un meilleur endroit ; ils transportent tout sur leur dos. Certains sont des **Effacés** d'Elarian dont la nation d'origine ignore la survie.
+- **Pas de rituel d'admission** : on arrive, on partage le feu d'un campement la première nuit, on revient le lendemain, on est accepté. Cette absence de structure distingue les Terres Brisées de toutes les autres nations d'Hybélior et rend l'intégration éprouvante pour qui a besoin de cadre ; certains nouveaux arrivants repartent au bout de quelques semaines.
+- **Trois mondes superposés** :
+  1. **Monde de surface** : campements, marchés, mercenaires, prospecteurs. Visible, contestable ; ce que voient d'abord les voyageurs étrangers.
+  2. **Monde de la Tisseuse** : réseau invisible d'alliances et d'introductions, jamais cartographié. Seules données concrètes : mouvements de marchandises sur la Route Sourde et fonctionnaires corrompus qui touchent leur part.
+  3. **Monde des ruines** : sous la toundra, les fondations de l'ancienne civilisation. Les prospecteurs y descendent ; les artefacts remontés sont ambigus ; les voix entendues (cf. Zarnith) ne sont pas validées.
 
 ---
 
@@ -72,65 +57,56 @@ Les Terres Brisées ne sont pas un seul monde mais trois monde superposés :
 
 ### No Man's Land Celethor
 
-Vaste étendue de toundra, de forêts clairsemées et de plaines rocailleuses, coincée entre les territoires d'Astravia, d'Elarian et de Ryldor. Le terrain est difficile mais pas inhabitable — des rivières fournissent de l'eau, des forêts fournissent du bois, et les ruines de l'ancienne civilisation fournissent des matériaux de construction.
-
-Les **points d'eau** sont rares mais réguliers : la fontaine de Nomiris (artefact qui fonctionne encore), trois sources naturelles à intervalles d'environ deux jours de marche, et un puits à Eridorn dont le creusement est tenu pour antérieur à l'effacement.
+- Vaste étendue de toundra, de forêts clairsemées et de plaines rocailleuses, coincée entre Astravia, Elarian et Ryldor.
+- Terrain difficile mais habitable : rivières (eau), forêts (bois), ruines de l'ancienne civilisation (matériaux de construction).
+- **Points d'eau** rares mais réguliers : la fontaine de Nomiris (artefact encore fonctionnel), trois sources naturelles espacées d'environ deux jours de marche, et un puits à Eridorn dont le creusement est tenu pour antérieur à l'effacement.
 
 ---
 
 ## Villes et villages
 
 ### Nomiris
-*Le plus grand "village" des Terres Brisées — en réalité un campement semi-permanent de quelques centaines d'âmes, construit dans les ruines d'une ancienne cité. Nomiris est le carrefour commercial officieux du no man's land, où les errants échangent leurs trouvailles. Un marché noir y prospère, vendant tout ce que les nations civilisées interdisent.*
-**Histoire :** Nomiris se développa autour d'une fontaine des ruines qui fonctionnait encore — la seule source d'eau fiable dans un rayon de deux jours de marche. Les premiers habitants s'y installèrent par nécessité hydraulique, pas commerciale. Le marché vint ensuite, naturellement, parce que là où des gens se croisent régulièrement, l'échange apparaît. Les fondations de l'ancienne cité sur lesquelles Nomiris est bâti sont si solides qu'elles ont résisté à des siècles d'abandon — une qualité de construction que personne ne sait plus reproduire et dont les prospecteurs de Zarnith ont commencé à prélever des échantillons pour analyse. La fontaine, elle, fonctionne par un mécanisme que personne ne comprend. **Kaelith** y boit chaque matin depuis qu'elle a entendu la fontaine pleurer la nuit où un artefact a été nettoyé sur ses bords. Cf. *Histoires des Terres Brisées de Celethor — La Fontaine qui se souvient*.
+Plus grand "village" des Terres Brisées : campement semi-permanent de quelques centaines d'âmes bâti dans les ruines d'une ancienne cité ; carrefour commercial officieux du no man's land, avec marché noir vendant ce que les nations civilisées interdisent. Fondé par nécessité hydraulique autour d'une fontaine des ruines encore fonctionnelle (seule source d'eau fiable à deux jours de marche) ; le marché est venu ensuite. Les fondations antiques, d'une solidité que nul ne sait reproduire, ont résisté à des siècles d'abandon ; les prospecteurs de Zarnith y prélèvent des échantillons. Mécanisme de la fontaine incompris.
 - Population : Village
 - Région : No Man's Land Celethor
 
 ### Thyldor
-*Forteresse improvisée bâtie par un ancien mercenaire qui s'est autoproclamé "gardien du passage". Thyldor contrôle un défilé étroit entre deux collines et fait payer un péage aux voyageurs. Le "gardien" change régulièrement — le poste est pris par la force aussi souvent qu'il est transmis.*
-**Histoire :** Le premier gardien de Thyldor était un déserteur elarien qui avait remarqué que le défilé était le seul passage praticable en hiver dans cette partie des Terres Brisées. Il bâtit une barricade rudimentaire, installa un feu visible de loin, et attendit. Les voyageurs vinrent et payèrent. Treize gardiens différents ont tenu le défilé depuis lors ; plusieurs ont été renversés, deux ont négocié des transmissions pacifiques. Le treizième est **Myrael** — sept ans, arrivée par survie après que son père Brennar a été tué par des mercenaires de Valdris. Cf. *Histoires des Terres Brisées de Celethor — Le Treizième Gardien*. Les voyageurs qui passent la regardent avec un mélange de pitié et de terreur. Personne ne sait où elle cache les cordes.
+Forteresse improvisée contrôlant un défilé étroit entre deux collines, où un "gardien du passage" autoproclamé prélève un péage ; le poste se transmet ou se prend par la force. Fondé par un déserteur elarien ayant identifié ce défilé comme seul passage praticable en hiver dans cette zone. Treize gardiens se sont succédé (plusieurs renversés, deux transmissions pacifiques) ; le treizième est **Myrael**, sept ans, arrivée après le meurtre de son père Brennar par des mercenaires de Valdris.
 - Population : Village
 - Région : No Man's Land Celethor
 
 ### Feylor
-*Hameau de réfugiés d'Astravia — des non-mages qui ont fui la discrimination de la magocratie. Feylor est un endroit étonnamment paisible, organisé selon des principes égalitaires. Les habitants rêvent de bâtir une société juste, loin des mages.*
-**Histoire :** Feylor fut fondée par un groupe de Fils du Sol qui avait tenté de réformer Astravia légalement — et qui fut expulsé après que le Magistère déclara leur mouvement subversif. Ils arrivèrent aux Terres Brisées avec leurs idéaux intacts et leur expérience politique fraîche. Ce qu'ils construisirent à Feylor est la chose la plus proche d'une démocratie fonctionnelle dans toutes les Terres Brisées — une assemblée hebdomadaire, un vote à égalité, une rotation des responsabilités. Le **vote sur Seren** — décider de livrer ou non au Magistère une fugitive qui avait tué son maître archimage — a fracturé la communauté en 247 : vingt-trois pour la protéger, vingt-deux pour la livrer. Aldric, le fondateur, vota pour la protéger. L'hiver qui suivit fut brutal ; trois enfants moururent. Seren partit d'elle-même au printemps en laissant une lettre. Aldric ne vote plus. Cf. *Histoires des Terres Brisées de Celethor — Le Vote qui tua*.
+Hameau de réfugiés d'Astravia (non-mages fuyant la discrimination de la magocratie), paisible et organisé selon des principes égalitaires. Fondé par des Fils du Sol expulsés après que le Magistère eut déclaré leur mouvement réformiste subversif ; ils y ont bâti la structure la plus proche d'une démocratie fonctionnelle des Terres Brisées (assemblée hebdomadaire, vote à égalité, rotation des responsabilités). En 247, le vote sur le sort de Seren (fugitive ayant tué son maître archimage) a fracturé la communauté 23 contre 22 ; le fondateur Aldric vota pour la protéger et ne vote plus depuis.
 - Population : Village
 - Région : No Man's Land Celethor
 
 ### Zyldor
-*Campement de chasseurs spécialisés dans le gibier des Terres Brisées — des cerfs géants, des ours blancs et des créatures plus étranges. Les fourrures et la viande de Zyldor sont échangées contre des outils et des armes à Nomiris.*
-**Histoire :** Zyldor commença comme un campement saisonnier de chasseurs qui venaient exploiter la faune des Terres Brisées pendant l'été. Un hiver, plusieurs n'eurent plus de *« chez eux »* où rentrer — exilés, bannis, gens dont le clan avait disparu. Zyldor est aujourd'hui permanent. Le chasseur **Torven**, après avoir traqué pendant trois jours l'ours blanc à yeux bleus, n'a pas tué l'animal — il a entendu une pensée. Six mois plus tard, il a quitté Zyldor en laissant un dessin et deux mots : *« Il vient. »* Personne ne chasse plus l'ours blanc à Zyldor. Cf. *Histoires des Terres Brisées de Celethor — L'Ours qui parlait*.
+Campement de chasseurs spécialisés dans le gibier des Terres Brisées (cerfs géants, ours blancs, créatures plus étranges) ; fourrures et viande échangées à Nomiris contre outils et armes. D'abord saisonnier, devenu permanent quand des chasseurs exilés ou bannis n'eurent plus de foyer où rentrer. Le chasseur **Torven** a renoncé à tuer l'ours blanc à yeux bleus et a quitté Zyldor en laissant deux mots, *« Il vient. »* ; on n'y chasse plus l'ours blanc depuis.
 - Population : Village
 - Région : No Man's Land Celethor
 
 ### Zarnith
-*Village de prospecteurs qui fouillent les ruines de l'ancienne civilisation à la recherche d'artefacts. Zarnith est un endroit dangereux — les prospecteurs se disputent les découvertes, et certains artefacts sont instables ou maudits.*
-**Histoire :** Le premier prospecteur de Zarnith était un mage exilé d'Astravia qui avait entendu parler des ruines et compris avant tout le monde que les fondations de l'ancienne civilisation pouvaient receler des applications arcanistiques inconnues. La règle de quarantaine collective fut établie après qu'un artefact instable emporta quatre prospecteurs — Ydriel, Maren, Tolgren, Fynna — dans une explosion silencieuse qui laissa un trou parfaitement circulaire de deux mètres. Aucun corps. Aucun débris. Le trou est toujours là. Les prospecteurs jurent y entendre, la nuit, quatre voix qui disent : *« On est encore là. On ne sait juste plus où. »* La règle d'Aldren (cinquième prospecteur, survivant) tient depuis : tout artefact non identifié est mis en quarantaine collective avant d'être approché. Cf. *Histoires des Terres Brisées de Celethor — Le Trou propre*.
+Village de prospecteurs fouillant les ruines de l'ancienne civilisation à la recherche d'artefacts ; lieu dangereux (rivalités, artefacts instables ou maudits). Fondé par un mage exilé d'Astravia ayant compris que les fondations antiques pouvaient receler des applications arcanistiques inconnues. Après qu'un artefact instable eut fait disparaître quatre prospecteurs (Ydriel, Maren, Tolgren, Fynna) en laissant un trou parfaitement circulaire de deux mètres sans corps ni débris, la **règle d'Aldren** (cinquième prospecteur, survivant) s'applique : tout artefact non identifié est mis en quarantaine collective avant d'être approché.
 - Population : Village
 - Région : No Man's Land Celethor
 
 ### Myralor
-*Ermitage fondé par un ancien chaman de Ryldor, banni pour des pratiques jugées hérétiques. Myralor est un lieu de guérison non orthodoxe où les méthodes interdites par Ryldor sont pratiquées ouvertement — avec des résultats parfois miraculeux, parfois catastrophiques.*
-**Histoire :** Le chaman fondateur de Myralor, **Veldris** (banni du Cercle des Guérisseurs en 230), n'a jamais publié de manifeste. Il soigne. Sa méthode — doses de champignons de Zelthar que le Cercle qualifie de mortelles — guérit huit patients sur dix qui seraient morts sans lui. Les deux autres meurent quand même. Veldris ne nie pas les deux. Il ne les invoque pas non plus comme excuse. Le Cercle de Ryldor envoie discrètement des Marcheurs à Myralor pour *« évaluer »* — mais leurs rapports indiquent en réalité des patients que Ryldor refuse de traiter et qu'ils transfèrent ici. Cf. *Histoires des Terres Brisées de Celethor — Huit sur dix*. Veldris vit toujours en l'an 251. Il n'a pas demandé sa réintégration. Il ne la demandera pas.
+Ermitage et lieu de guérison non orthodoxe où sont pratiquées ouvertement des méthodes interdites par Ryldor, aux résultats parfois miraculeux, parfois catastrophiques. Fondé par **Veldris**, chaman banni du Cercle des Guérisseurs de Ryldor en 230. Sa méthode (doses de champignons de Zelthar jugées mortelles par le Cercle) guérit huit patients sur dix qui seraient morts sans lui ; les deux autres meurent. Le Cercle de Ryldor y envoie discrètement des Marcheurs qui transfèrent en réalité des patients que Ryldor refuse de traiter. Veldris vit toujours en 251 et n'a pas demandé sa réintégration.
 - Population : Village
 - Région : No Man's Land Celethor
 
 ### Valdris
-*Campement militarisé de déserteurs elariens qui ont rompu leur serment de clan. Valdris est une communauté de guerriers sans maître, qui vendent leurs services comme mercenaires. Leur réputation est double : des combattants redoutables mais des alliés imprévisibles.*
-**Histoire :** Les fondateurs de Valdris désertèrent ensemble en 213 — non pas par lâcheté, mais après avoir refusé l'ordre du Jarl Krenneth de brûler le village de Frostheim, qui refusait de payer la taxe de guerre. Le sergent **Valdris** dit *« non »*. Vingt-six dirent le même mot. Le vingt-septième hésita puis suivit. Ils marchèrent vers les Terres Brisées sans se retourner. Le Conseil des Jarls les Effaça. Ils bâtirent Valdris avec la discipline qui était la seule chose que l'armée ne pouvait pas leur reprendre. Ils refusent systématiquement les contrats contre Elarian. Le sergent Valdris mourut l'hiver suivant l'arrivée — d'une blessure infectée reçue sur un contrat de mercenaire. Rien d'héroïque. Krenneth-le-Jeune (cf. fiche Elarian), dix ans plus tard, demanda la réinscription. Le Conseil refusa. Cf. *Histoires des Terres Brisées de Celethor — L'Ordre qu'on refuse*. Valdris compte aujourd'hui environ soixante guerriers, descendants des originaux ou recrues nouvelles. La discipline tient.
+Campement militarisé de déserteurs elariens ayant rompu leur serment de clan ; communauté de guerriers-mercenaires sans maître, réputés redoutables mais imprévisibles. Fondé en 213 par 27 soldats ayant refusé l'ordre du Jarl Krenneth de brûler le village de Frostheim (le sergent **Valdris** dit *« non »* le premier) ; le Conseil des Jarls les a Effacés. Ils refusent systématiquement les contrats contre Elarian. Le sergent Valdris est mort l'hiver suivant l'arrivée (blessure infectée sur contrat). Dix ans plus tard, le Conseil a refusé la réinscription demandée par Krenneth-le-Jeune (cf. fiche Elarian). Compte aujourd'hui environ soixante guerriers, descendants ou recrues.
 - Population : Village
 - Région : No Man's Land Celethor
 
 ### Eridorn
-*Village de contrebandiers installé le long d'une route secrète reliant Astravia à Elarian. Eridorn fait transiter des marchandises interdites — aethérite non déclarée, fer glaciaire volé, potions de Ryldor. Les autorités des trois pays savent que le village existe mais n'ont pas les moyens de l'atteindre.*
-**Histoire :** La Route Sourde qu'Eridorn contrôle était connue des anciens habitants des Terres Brisées — elle est tracée dans les ruines sous forme de marquages à peine lisibles. Les premiers contrebandiers d'Eridorn la retrouvèrent en fouillant méthodiquement les décombres, pas en la découvrant par accident. La **Tisseuse** — personne ne connaît son vrai nom — dirige Eridorn depuis douze ans. Elle ne dirige pas par autorité ; elle connecte. Elle écoute. Elle se souvient. Elle introduit. Le génie d'Eridorn n'est pas le crime. C'est la compréhension que le pouvoir n'est pas dans la force, mais dans les connexions. Cf. *Histoires des Terres Brisées de Celethor — La Route secrète*. Trois fonctionnaires corrompus dans chacun des trois pays voisins protègent l'inaccessibilité d'Eridorn parce qu'elle leur fournit ce que les voies officielles ne leur fourniraient pas.
+Village de contrebandiers le long d'une route secrète reliant Astravia à Elarian ; fait transiter des marchandises interdites (aethérite non déclarée, fer glaciaire volé, potions de Ryldor). Les trois pays voisins savent qu'il existe mais ne peuvent l'atteindre. Contrôle la **Route Sourde**, voie connue des anciens habitants et tracée dans les ruines par des marquages à peine lisibles, retrouvée par fouille méthodique. Dirigé depuis douze ans par la **Tisseuse** (vrai nom inconnu), qui exerce le pouvoir par les connexions, l'écoute et les introductions, non par la force. Trois fonctionnaires corrompus dans chacun des trois pays voisins protègent l'inaccessibilité du village.
 - Population : Village
 - Région : No Man's Land Celethor
 
 ### Fenorith
-*Le village le plus isolé des Terres Brisées, niché au fond d'une vallée encaissée. Fenorith est habité par des reclus qui ont choisi de couper tout contact avec le monde. Les rares visiteurs qui y parviennent décrivent un endroit étrangement serein — et les habitants refusent de parler de ce qu'ils ont fui.*
-**Histoire :** Les habitants de Fenorith viennent d'une douzaine de pays différents et d'horizons incompatibles — un ancien archimage d'Astravia (**Yeldris**), plusieurs guérisseurs de Ryldor (dont **Sylthe**), un Jarl déchu d'Elarian (**Thorenn**), un barde de Thalmaris (**Aelwin**). Ce qu'ils ont en commun n'est pas un idéal mais un épuisement : tous ont essayé de changer quelque chose dans leur pays d'origine, ont échoué, et ont choisi de se retirer plutôt que de continuer. Cf. *Histoires des Terres Brisées de Celethor — Ceux qui ont cessé de lutter*. La règle de Fenorith : on ne parle pas du passé. Cette règle n'a jamais été brisée. Yeldris cultive un jardin. Quand un jeune aventurier vient le consulter sur la possibilité de réformer Astravia, Yeldris le laisse partir, sans le décourager — *« tu ne pourras pas vivre ici tant que tu n'auras pas essayé »*.
+Village le plus isolé des Terres Brisées, niché au fond d'une vallée encaissée ; habité par des reclus ayant coupé tout contact avec le monde, dans une sérénité notée par les rares visiteurs. Habitants venus d'une douzaine de pays et d'horizons incompatibles — un ancien archimage d'Astravia (**Yeldris**), plusieurs guérisseurs de Ryldor (dont **Sylthe**), un Jarl déchu d'Elarian (**Thorenn**), un barde de Thalmaris (**Aelwin**) — unis non par un idéal mais par l'épuisement après l'échec de leurs tentatives de réforme dans leur pays d'origine. Règle unique, jamais brisée : on ne parle pas du passé.
 - Population : Village
 - Région : No Man's Land Celethor
 
@@ -148,7 +124,7 @@ Les **points d'eau** sont rares mais réguliers : la fontaine de Nomiris (artefa
 
 ## Secrets et intrigues
 
-- **La Civilisation Effacée** : Les ruines des Terres Brisées portent une charge que les fouilleurs n'ont pas épuisée. Les prospecteurs de Zarnith ont mis au jour des inscriptions qui, selon plusieurs lectures concordantes, indiqueraient que l'ancienne civilisation ne s'est pas simplement éteinte — elle aurait procédé à un effacement délibéré, un rituel de masse pensé pour soustraire son existence à la mémoire des âges suivants. Les motifs d'un tel acte restent l'objet d'hypothèses contradictoires. Si la lecture est juste, l'ancienne civilisation est, par construction, **la plus mature en Sablier de tout Hybélior** — un peuple qui a accepté sa propre fin au point d'en effacer les traces.
-- **Le Roi des Ruines** : Un personnage rapporté seulement sous le nom de **Roi des Ruines** travaille, selon des récits convergents mais non vérifiés, à fédérer les communautés des Terres Brisées. Aucun témoignage direct n'en a été recueilli ; ses émissaires proposent protection et commerce en échange de loyauté. Si cette figure réussit, un nouveau pays pourrait naître dans le no man's land. La Tisseuse d'Eridorn ne lui répond pas. Personne ne sait pourquoi.
-- **Le Passage Souterrain** : Sous les Terres Brisées, un réseau de tunnels relie les trois pays voisins. Ce réseau, attribué à l'ancienne civilisation, est utilisé par les contrebandiers — mais certains tunnels mènent à des salles scellées dont les ouvertures ont jusqu'à présent résisté à toutes les tentatives connues. La marque que Sorin Valthen et l'archimage Varennis ont fait constater sous Galdryn (cf. fiche Astravia) pourrait pointer vers une portion non cartographiée de ce réseau.
-- **La Tisseuse et Lethanis** : Une rumeur infondée, reprise par certains apprentis des Petits Officiers d'Astravia, soutient que la Tisseuse d'Eridorn aurait eu, dans ses jeunes années, une formation Stellari incomplète à Astravia, et qu'elle serait une **héritière silencieuse de Lethanis Vor-Ostrun** — une apprentie qui aurait choisi le silence en quittant l'institution plutôt qu'en y restant. Aucune preuve. La Tisseuse ne confirme ni n'infirme. Elle ne reçoit pas les Stellari astraviens qui voudraient lui poser la question.
+- **La Civilisation Effacée** : Les ruines portent une charge non épuisée par les fouilleurs. Les prospecteurs de Zarnith ont mis au jour des inscriptions qui, selon plusieurs lectures concordantes, indiqueraient que l'ancienne civilisation ne s'est pas simplement éteinte mais aurait procédé à un effacement délibéré — un rituel de masse pensé pour soustraire son existence à la mémoire des âges suivants. Les motifs restent hypothétiques. Si la lecture est juste, cette civilisation serait **la plus mature en Sablier de tout Hybélior**.
+- **Le Roi des Ruines** : Figure rapportée sous ce seul nom qui travaillerait, selon des récits convergents mais non vérifiés, à fédérer les communautés des Terres Brisées ; aucun témoignage direct. Ses émissaires proposent protection et commerce contre loyauté. En cas de succès, un nouveau pays pourrait naître dans le no man's land. La Tisseuse d'Eridorn ne lui répond pas, pour une raison inconnue.
+- **Le Passage Souterrain** : Réseau de tunnels attribué à l'ancienne civilisation reliant les trois pays voisins, utilisé par les contrebandiers ; certains tunnels mènent à des salles scellées dont les ouvertures ont résisté à toutes les tentatives connues. La marque que Sorin Valthen et l'archimage Varennis ont fait constater sous Galdryn (cf. fiche Astravia) pourrait pointer vers une portion non cartographiée de ce réseau.
+- **La Tisseuse et Lethanis** : Rumeur infondée (reprise par certains apprentis des Petits Officiers d'Astravia) selon laquelle la Tisseuse d'Eridorn aurait eu une formation Stellari incomplète à Astravia et serait une **héritière silencieuse de Lethanis Vor-Ostrun**. Aucune preuve ; la Tisseuse ne confirme ni n'infirme et ne reçoit pas les Stellari astraviens.

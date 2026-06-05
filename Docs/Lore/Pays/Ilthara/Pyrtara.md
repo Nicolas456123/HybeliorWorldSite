@@ -1,8 +1,8 @@
-﻿---
+---
 tags: [lore, pays, ilthara, pyrtara]
 type: nation
 status: canon
-last_review: 2026-05-06
+last_review: 2026-06-05
 needs_review_for: []
 ---
 # Pyrtara — Le Royaume des Cendres Ardentes
@@ -23,13 +23,13 @@ needs_review_for: []
 
 ## Gouvernement — La Dictature Militaire
 
-Pyrtara est gouverné d'une main de fer, au sens propre :
+Structure du pouvoir :
 
-- **Le Haut Commandant** détient le pouvoir absolu — militaire, civil et judiciaire. Il est choisi non par hérédité mais par combat. À la mort du Haut Commandant, les cinq généraux de rang le plus élevé s'affrontent dans l'Arène des Cendres. Le vainqueur règne ; les vaincus servent ou meurent de leurs blessures.
-- **Le Conseil de Fer** est composé des commandants de chaque région. Ils n'ont pas de pouvoir de décision mais conseillent le Haut Commandant sur la logistique, les ressources et les menaces volcaniques.
-- **Les Centurions** administrent les villes et villages. Chaque Centurion est responsable de l'entraînement militaire de tous les habitants de sa juridiction, sans exception d'âge ou de sexe.
+- **Le Haut Commandant** — pouvoir absolu (militaire, civil, judiciaire). Non héréditaire : à sa mort, les cinq généraux de rang le plus élevé s'affrontent dans l'Arène des Cendres ; le vainqueur règne, les vaincus servent ou meurent de leurs blessures.
+- **Le Conseil de Fer** — composé des commandants de chaque région. Rôle consultatif uniquement (logistique, ressources, menaces volcaniques), sans pouvoir de décision.
+- **Les Centurions** — administrent villes et villages ; chacun responsable de l'entraînement militaire de tous les habitants de sa juridiction, sans exception d'âge ou de sexe.
 
-Le Haut Commandant actuel est **Varketh l'Indomptable**, un homme massif couvert de cicatrices de brûlures qui a survécu à trois éruptions majeures. Il est craint mais respecté, et sa philosophie est simple : « Un Pyrtarien debout vaut mieux qu'un empire à genoux. »
+**Haut Commandant actuel** : **Varketh l'Indomptable**, survivant de trois éruptions majeures, couvert de cicatrices de brûlures. Craint et respecté. Devise : « Un Pyrtarien debout vaut mieux qu'un empire à genoux. »
 
 ---
 
@@ -37,138 +37,150 @@ Le Haut Commandant actuel est **Varketh l'Indomptable**, un homme massif couvert
 
 ### [[Ignis Aeternum]] — Le Feu Éternel (religion officielle)
 
-Les Pyrtariens vénèrent le feu comme la lumière primordiale de l'existence. Selon la lecture pyrtarienne d'Ignis Aeternum, Eldoria — la flamme première — brûlerait au cœur de chaque volcan, et les éruptions seraient sa respiration. Cette identification entre Eldoria et l'activité volcanique est une lecture locale, plus dévotionnelle que doctrinale ; les écoles d'Ignis Aeternum d'autres continents la traitent diversement. Pour les fidèles de Pyrtara, le feu n'est ni bon ni mauvais ; il est pur — et l'on récite qu'il consume le faible et forge le fort.
-
-Les rituels d'Ignis Aeternum sont centrés sur la forge :
+- Le feu est vénéré comme la lumière primordiale de l'existence ; il n'est ni bon ni mauvais, mais pur — « il consume le faible et forge le fort ».
+- **Lecture locale** : Eldoria (la flamme première) brûlerait au cœur de chaque volcan, et les éruptions seraient sa respiration. Cette identification entre Eldoria et l'activité volcanique est dévotionnelle plus que doctrinale ; les écoles d'Ignis Aeternum d'autres continents la traitent diversement.
+- Rituels centrés sur la forge.
 
 **Fêtes religieuses :**
-- **La Nuit des Braises** (anniversaire de la Grande Éruption) — Chaque foyer allume un feu qui ne doit pas s'éteindre pendant trois jours. Les familles veillent à tour de rôle, et un feu éteint est considéré comme un présage de mort.
-- **L'Épreuve de la Flamme** (passage à l'âge adulte) — Chaque jeune de quinze ans doit marcher pieds nus sur un lit de braises. Ceux qui traversent sans crier sont accueillis comme adultes ; ceux qui crient doivent recommencer.
-- **La Forge du Serment** — Tout engagement solennel (mariage, promotion militaire, alliance) est scellé en plongeant les mains dans un brasier rituel. Les prêtres appliquent un onguent protecteur, mais les brûlures légères sont considérées comme le sceau d'Eldoria.
+- **La Nuit des Braises** (anniversaire de la Grande Éruption) — chaque foyer entretient un feu qui ne doit pas s'éteindre pendant trois jours ; un feu éteint est un présage de mort.
+- **L'Épreuve de la Flamme** (passage à l'âge adulte) — à quinze ans, marche pieds nus sur un lit de braises ; ceux qui crient recommencent.
+- **La Forge du Serment** — tout engagement solennel (mariage, promotion militaire, alliance) scellé en plongeant les mains dans un brasier rituel ; les prêtres appliquent un onguent protecteur, les brûlures légères étant considérées comme le sceau d'Eldoria.
 
 ### [[Lex Petra]] — La Loi de Pierre (religion secondaire)
 
-Parmi les rangs militaires les plus élevés, la Lex Petra gagne du terrain. L'idée que la loi soit aussi immuable et fondamentale que la pierre résonne avec la discipline militaire de Pyrtara. Plusieurs officiers supérieurs en font le complément naturel d'Ignis Aeternum : le feu forge, la pierre donne forme. Certains Centurions rendent désormais la justice sur des blocs d'obsidienne polie, articulant les deux traditions sans les confondre.
+- Gagne du terrain parmi les rangs militaires les plus élevés ; la loi y est conçue comme aussi immuable et fondamentale que la pierre, en résonance avec la discipline militaire.
+- Vue comme le complément d'Ignis Aeternum par plusieurs officiers supérieurs : « le feu forge, la pierre donne forme ».
+- Certains Centurions rendent désormais la justice sur des blocs d'obsidienne polie, articulant les deux traditions sans les confondre.
 
 ---
 
 ## Culture et société
 
 ### La Forge du Corps
-Chaque citoyen de Pyrtara suit un entraînement militaire obligatoire de l'âge de huit ans jusqu'à la mort. Il n'y a pas de retraite en Pyrtara — seulement des affectations adaptées à l'âge. Un vieillard qui ne peut plus combattre enseigne, surveille ou fabrique.
+- Entraînement militaire obligatoire de l'âge de huit ans jusqu'à la mort.
+- Pas de retraite : seulement des affectations adaptées à l'âge (un vieillard qui ne peut plus combattre enseigne, surveille ou fabrique).
 
 ### Hiérarchie sociale
-1. **Les Officiers Supérieurs** — L'élite au pouvoir, choisis par le mérite militaire
-2. **Les Forgerons de Guerre** — Artisans d'armes et d'armures, les seuls civils à avoir un statut comparable aux officiers
-3. **Les Soldats** — Le cœur de la société, organisés en légions permanentes
-4. **Les Civils Entraînés** — Tout le reste de la population, soumis à l'entraînement mais non enrôlés
-5. **Les Inaptes** — Les malades chroniques et les infirmes, pris en charge par l'État mais privés de voix politique
+1. **Les Officiers Supérieurs** — élite au pouvoir, choisis par le mérite militaire.
+2. **Les Forgerons de Guerre** — artisans d'armes et d'armures ; seuls civils au statut comparable aux officiers.
+3. **Les Soldats** — cœur de la société, organisés en légions permanentes.
+4. **Les Civils Entraînés** — reste de la population, soumis à l'entraînement mais non enrôlé.
+5. **Les Inaptes** — malades chroniques et infirmes, pris en charge par l'État mais privés de voix politique.
 
 ### Gastronomie
-La cuisine de Pyrtara est fonctionnelle et brutale : viandes séchées à la chaleur volcanique, pains de cendres (un pain noir cuit dans des fours alimentés par la géothermie), légumes-racines cultivés dans les sols fertiles des coulées anciennes. La boisson nationale est le « Sang du Mont » — un alcool distillé avec de l'eau volcanique sulfureuse qui brûle la gorge autant qu'il réchauffe le corps.
+- Cuisine fonctionnelle : viandes séchées à la chaleur volcanique, pains de cendres (pain noir cuit dans des fours géothermiques), légumes-racines des sols fertiles des coulées anciennes.
+- Boisson nationale : le **« Sang du Mont »**, alcool distillé avec de l'eau volcanique sulfureuse.
 
 ### Architecture
-Les bâtiments de Pyrtara sont construits en basalte et en obsidienne, matériaux abondants et résistants à la chaleur. Les murs sont épais, les fenêtres étroites, et chaque structure est conçue pour résister à une coulée de lave latérale. Les toits sont plats et renforcés pour supporter le poids des chutes de cendres.
+- Construction en basalte et obsidienne (matériaux abondants, résistants à la chaleur).
+- Murs épais, fenêtres étroites, structures conçues pour résister à une coulée de lave latérale.
+- Toits plats et renforcés pour supporter le poids des chutes de cendres.
 
 ---
 
 ## Régions
 
 ### Davoria
-Région du nord-ouest, Davoria est un plateau volcanique balayé par des vents chargés de soufre. Ses mines d'obsidienne sont les plus productives du pays et fournissent la matière première des armes de Pyrtara. Le terrain est traître — des poches de gaz toxique se forment dans les dépressions — et seuls les habitants locaux connaissent les chemins sûrs.
+- Plateau volcanique du nord-ouest, balayé par des vents chargés de soufre.
+- Mines d'obsidienne les plus productives du pays ; matière première des armes de Pyrtara.
+- Terrain traître : poches de gaz toxique dans les dépressions, chemins sûrs connus des seuls locaux.
 
 ### Brevana
-Vallée encaissée entre deux volcans jumeaux, Brevana bénéficie d'un microclimat étonnamment clément grâce aux sources chaudes qui tempèrent l'air. C'est la région la plus « agréable » de Pyrtara — un qualificatif relatif — et elle accueille les hôpitaux militaires et les centres de convalescence.
+- Vallée encaissée entre deux volcans jumeaux ; microclimat clément grâce aux sources chaudes.
+- Région la plus « agréable » de Pyrtara ; accueille les hôpitaux militaires et centres de convalescence.
 
 ### Eleris
-Région orientale caractérisée par des champs de lave solidifiée s'étendant à perte de vue, formant un paysage lunaire noir et tranchant. Eleris est la principale zone d'entraînement militaire, où les recrues apprennent à combattre sur un terrain qui déchire les bottes et les chairs avec la même indifférence.
+- Région orientale de champs de lave solidifiée à perte de vue (paysage lunaire noir et tranchant).
+- Principale zone d'entraînement militaire.
 
 ### Ilyndor
-Cœur politique et militaire de Pyrtara, Ilyndor est un plateau naturellement fortifié au centre du pays. Le Mont Pyralis domine l'horizon, et la capitale Ilyndar est bâtie à son pied, défiant le volcan depuis des siècles.
+- Cœur politique et militaire de Pyrtara ; plateau naturellement fortifié au centre du pays.
+- Dominé par le Mont Pyralis ; la capitale Ilyndar est bâtie à son pied.
 
 ### Kethorin
-Région méridionale la plus récente, née d'une coulée de lave massive qui a créé de nouvelles terres il y a deux siècles. Le sol de Kethorin est extraordinairement fertile, et c'est ici que Pyrtara cultive l'essentiel de sa nourriture — sous bonne garde militaire.
+- Région méridionale la plus récente, née d'une coulée de lave massive il y a deux siècles.
+- Sol extraordinairement fertile ; principale zone de production alimentaire du pays, sous garde militaire.
 
 ---
 
 ## Villes et villages
 
 ### Ilyndar — Capitale ★
-*Bâtie au pied du Mont Pyralis comme un défi permanent à la nature, Ilyndar est une forteresse colossale de basalte noir dont les murs sont si épais qu'ils ont résisté à quatre éruptions majeures. Les rues sont disposées en cercles concentriques autour de la Citadelle du Commandement, et chaque cercle correspond à un niveau de la hiérarchie militaire. Au centre, l'Arène des Cendres — amphithéâtre à ciel ouvert où se décide la succession du Haut Commandant.*
-**Histoire :** Thaldris, qui rebâtit Pyrtara après la Grande Éruption, choisit délibérément d'installer la capitale là où le désastre avait été le plus grand — au pied du Mont Pyralis lui-même. Ses généraux protestèrent : la position était intenable en cas de nouvelle éruption. Thaldris répondit que c'était précisément l'idée. Une capitale qu'on ne peut pas défendre contre un volcan apprend à ses habitants que la vie entière est un combat qu'on finit par perdre — et que cela n'est pas une raison de reculer. La Citadelle fut construite avec la lave solidifiée de la Grande Éruption elle-même.
+- Forteresse de basalte noir au pied du Mont Pyralis ; murs assez épais pour avoir résisté à quatre éruptions majeures. Rues en cercles concentriques autour de la Citadelle du Commandement, chaque cercle correspondant à un niveau de la hiérarchie militaire. Au centre, l'Arène des Cendres (amphithéâtre à ciel ouvert où se décide la succession du Haut Commandant).
+- Refondée par **Thaldris** après la Grande Éruption, qui plaça délibérément la capitale au pied même du Mont Pyralis (là où le désastre fut le plus grand) ; la Citadelle fut construite avec la lave solidifiée de la Grande Éruption.
 - Population : Grande ville
 - Région : Ilyndor
 - Particularités : Siège du Haut Commandant. Arène des Cendres. Forge Souveraine d'[[Ignis Aeternum]].
 
 ### Thyndor — Ville
-*Ville-forteresse perchée sur un éperon de basalte surplombant les mines d'obsidienne de Davoria, Thyndor est le centre de production d'armes le plus important de Pyrtara. Le cliquetis des marteaux sur l'obsidienne résonne jour et nuit, et la lueur des forges fait briller la ville d'un rouge permanent dans l'obscurité. Les meilleurs Forgerons de Guerre du pays y résident.*
-**Histoire :** L'obsidienne de Davoria fut d'abord jugée inutilisable comme arme — trop cassante, trop difficile à tailler avec précision. Les premiers forgerons de Thyndor passèrent une génération à comprendre qu'on ne la forgait pas comme le fer : on l'éclatait, on la fracturait selon ses propres lignes de faiblesse. Un couteau d'obsidienne ne se fabrique pas, il se révèle. Cette philosophie imprégna la doctrine militaire de Thyndor : un soldat ne se forme pas, il se révèle sous la pression. Les forgerons et les instructeurs militaires partagent ici le même vocabulaire.
+- Ville-forteresse sur un éperon de basalte surplombant les mines d'obsidienne de Davoria ; centre de production d'armes le plus important de Pyrtara ; résidence des meilleurs Forgerons de Guerre du pays.
+- Doctrine de forge propre : l'obsidienne ne se forge pas comme le fer, elle s'éclate et se fracture selon ses lignes de faiblesse (« un couteau d'obsidienne ne se fabrique pas, il se révèle »). Cette philosophie imprègne aussi la doctrine militaire locale (un soldat se révèle sous la pression) ; forgerons et instructeurs y partagent le même vocabulaire.
 - Population : Ville
 - Région : Davoria
 
 ### Rydelith — Village
-*Avant-poste minier accroché au flanc d'un volcan dormant, Rydelith vit dans l'ombre perpétuelle de la montagne. Ses habitants extraient un minerai sombre à haute teneur en fer que les forgerons de Thyndor prisent particulièrement. La vie est dure, les éboulements fréquents, et les mineurs de Rydelith portent leurs cicatrices avec la même fierté qu'un officier porte ses médailles.*
-**Histoire :** Rydelith fut fondé après qu'une équipe de prospecteurs envoyée par Thyndor disparut dans la montagne et revint deux semaines plus tard avec des poches pleines d'un minerai qu'ils n'avaient jamais vu. Ils refusèrent de révéler où ils l'avaient trouvé, exigeant en échange de leur silence le droit d'exploiter la veine eux-mêmes. Le Haut Commandant de l'époque accepta — un accord pragmatique qui fit de Rydelith un fief semi-indépendant pendant deux siècles avant qu'il ne soit finalement intégré à la structure militaire normale. Les familles fondatrices gardent encore aujourd'hui une fierté de propriétaires que leurs voisins jugent arrogante.
+- Avant-poste minier accroché au flanc d'un volcan dormant ; extrait un minerai sombre à haute teneur en fer particulièrement prisé des forgerons de Thyndor.
+- Fondé par une équipe de prospecteurs envoyée par Thyndor qui découvrit la veine et obtint le droit de l'exploiter ; fief semi-indépendant pendant deux siècles avant son intégration à la structure militaire normale. Les familles fondatrices conservent une fierté de propriétaires.
 - Population : Village
 - Région : Davoria
 
 ### Taldorn — Village
-*Poste de guet fortifié à la frontière nord de Davoria, Taldorn surveille les approches du pays depuis un réseau de tours d'obsidienne reliées par des tunnels souterrains. La garnison de Taldorn est réputée pour son endurance — les soldats y servent des rotations de six mois dans des conditions que la plupart des militaires d'Ilthara considéreraient comme inhumaines.*
-**Histoire :** L'affectation à Taldorn était autrefois considérée comme une punition — les conditions y étaient insupportables et les soldats qui y étaient envoyés savaient qu'ils avaient déçu leurs supérieurs. Puis un Centurion nommé Varek, exilé à Taldorn pour avoir refusé un ordre qu'il jugeait absurde, transforma la garnison en unité d'élite par la seule force de sa discipline personnelle. Quand ses soldats combattirent lors d'une incursion des nomades de Lythar avec une efficacité stupéfiante, le Haut Commandant comprit que Taldorn était la forge la plus dure de Pyrtara. L'affectation est depuis lors une récompense déguisée en punition.
+- Poste de guet fortifié à la frontière nord de Davoria ; réseau de tours d'obsidienne reliées par des tunnels souterrains ; garnison réputée pour son endurance (rotations de six mois en conditions extrêmes).
+- Affectation autrefois punitive, transformée en unité d'élite par le Centurion **Varek** (exilé là pour avoir refusé un ordre) ; après l'efficacité de ses soldats lors d'une incursion des nomades de Lythar, l'affectation devint une récompense déguisée en punition.
 - Population : Village
 - Région : Davoria
 
 ### Valdyn — Ville
-*Centre médical de Pyrtara, Valdyn s'est développée autour des sources chaudes thérapeutiques de Brevana. Les blessés de guerre et les brûlés y sont envoyés pour leur convalescence. Les médecins militaires de Valdyn sont les meilleurs chirurgiens de brûlures d'Ilthara, une spécialité que les circonstances leur ont imposée.*
-**Histoire :** Valdyn est la seule ville de Pyrtara où la faiblesse est temporairement autorisée. Cette parenthèse culturelle crée une tension permanente : les soldats en convalescence résistent souvent aux soins, honteux de leur état, et les médecins apprennent à traiter autant l'orgueil que les blessures. Un médecin de Valdyn, célèbre pour avoir sauvé la main droite du Haut Commandant précédent, a documenté cette tension dans un traité jamais publié : il y affirmait que la moitié des décès à Valdyn étaient causés non par les blessures mais par des patients qui se levaient trop tôt pour prouver leur valeur.
+- Centre médical de Pyrtara, développé autour des sources chaudes thérapeutiques de Brevana ; destination de convalescence des blessés de guerre et brûlés. Ses médecins militaires sont les meilleurs chirurgiens de brûlures d'Ilthara.
+- Seule ville de Pyrtara où la faiblesse est temporairement autorisée, ce qui crée une tension permanente (soldats résistant aux soins par honte).
 - Population : Ville
 - Région : Brevana
 
 ### Theralor — Village
-*Village de repos niché dans la seule vallée verdoyante de Pyrtara, Theralor est le lieu où les vétérans gravement blessés sont envoyés pour y finir leurs jours dans un calme relatif. Malgré sa vocation paisible, Theralor possède une caserne complète — car en Pyrtara, même les mourants doivent pouvoir se défendre.*
-**Histoire :** La vallée de Theralor fut découverte par un soldat blessé qui s'y réfugia après une bataille, incapable de marcher jusqu'à la prochaine ville. Il y passa l'hiver, seul, vivant des ressources de la vallée. Quand il en ressortit au printemps, il avait changé : plus calme, plus lent, mais aussi étrangement plus précis dans ses jugements. Il retourna à Ilyndar et demanda au Haut Commandant l'autorisation de transformer la vallée en lieu de retraite pour les vétérans blessés. La demande fut accordée — en partie parce que le soldat en question était, avant sa blessure, le général le plus impulsif de Pyrtara.
+- Village de repos dans la seule vallée verdoyante de Pyrtara ; destination des vétérans gravement blessés pour y finir leurs jours. Possède une caserne complète malgré sa vocation paisible.
+- Vallée découverte par un soldat blessé qui y survécut un hiver ; redevenu plus calme et plus précis dans ses jugements, il obtint du Haut Commandant de la transformer en lieu de retraite pour vétérans blessés (il était auparavant le général le plus impulsif de Pyrtara).
 - Population : Village
 - Région : Brevana
 
 ### Keldros — Ville
-*Ville d'entraînement par excellence, Keldros est un complexe militaire gigantesque bâti au milieu des champs de lave d'Eleris. Les recrues y subissent un entraînement de six mois considéré comme le plus brutal d'Ilthara. Les baraquements sont spartiates, la nourriture minimale, et les instructeurs impitoyables. Ceux qui en sortent sont des soldats ; ceux qui ne le supportent pas quittent Pyrtara.*
-**Histoire :** Keldros fut conçu par Thaldris himself en personne après la Grande Éruption, avec une intention précise : simuler les conditions d'une éruption dans la vie quotidienne. Les recrues ne savent jamais quand une « alerte d'entraînement » sera déclenchée en pleine nuit, quand leur nourriture sera réduite sans explication, quand leur unité sera séparée et forcée de se retrouver sur un terrain inconnu. La méthode est brutale et son taux d'abandon est élevé. Les survivants de Keldros portent sur la peau une petite marque de brûle en forme de flamme — pas infligée par les instructeurs, mais par eux-mêmes, lors de leur dernière nuit à Keldros.
+- Complexe militaire d'entraînement gigantesque au milieu des champs de lave d'Eleris ; entraînement de six mois considéré comme le plus brutal d'Ilthara (baraquements spartiates, nourriture minimale, instructeurs impitoyables, taux d'abandon élevé).
+- Conçu par **Thaldris** après la Grande Éruption pour simuler les conditions d'une éruption au quotidien (alertes nocturnes imprévisibles, rations réduites sans explication, unités séparées en terrain inconnu). Les survivants se marquent eux-mêmes la peau d'une petite brûlure en forme de flamme lors de leur dernière nuit.
 - Population : Ville
 - Région : Eleris
 
 ### Mendris — Village
-*Petit campement d'entraînement spécialisé dans le combat en terrain volcanique, Mendris enseigne aux soldats à utiliser les fissures, les geysers et les poches de gaz comme armes tactiques. Les instructeurs de Mendris sont des vétérans couverts de brûlures qui connaissent chaque piège du terrain.*
-**Histoire :** La doctrine de Mendris — utiliser le terrain volcanique comme arme — fut inventée par un soldat qui avait survécu seul pendant trois semaines dans les champs de lave d'Eleris après que son unité fut dispersée. Incapable de combattre normalement à cause d'une blessure au bras, il avait utilisé les geysers, les fissures et les gaz pour neutraliser les ennemis qui le poursuivaient. Sa méthode fut jugée « peu honorable » par ses supérieurs, puis « brillante » quand ils réalisèrent qu'elle avait éliminé quinze adversaires. Il devint le premier instructeur de Mendris. Il n'a jamais été décoré officiellement — sa méthode reste techniquement « désapprouvée » dans les manuels de doctrine.
+- Campement d'entraînement spécialisé dans le combat en terrain volcanique : utilisation des fissures, geysers et poches de gaz comme armes tactiques. Instructeurs vétérans couverts de brûlures.
+- Doctrine inventée par un soldat ayant survécu seul trois semaines dans les champs de lave d'Eleris (blessé au bras, il neutralisa quinze poursuivants par le terrain) ; jugée « peu honorable » puis adoptée, elle reste techniquement « désapprouvée » dans les manuels de doctrine. Il fut le premier instructeur de Mendris, jamais décoré officiellement.
 - Population : Village
 - Région : Eleris
 
 ### Vyldor — Village
-*Avant-poste de surveillance sismique, Vyldor abrite les Guetteurs de Feu — des spécialistes qui surveillent l'activité volcanique en permanence. Grâce à leurs observations, Pyrtara peut anticiper les éruptions avec plusieurs jours d'avance, permettant des évacuations ordonnées. Les Guetteurs de Vyldor sont parmi les rares Pyrtariens à ne pas être des combattants, mais leur rôle est considéré comme vital.*
-**Histoire :** Vyldor fut créé après la troisième grande éruption post-Grande Éruption, qui tua deux mille personnes qui auraient pu être évacuées si l'alerte avait été donnée un jour plus tôt. Le Haut Commandant de l'époque, furieux, ordonna la création d'un poste de surveillance permanent avec une mission simple : ne jamais être surpris. Les Guetteurs de Feu développèrent sur plusieurs décennies une méthode d'observation basée sur des capteurs de vibration, l'analyse des changements de couleur des fumerolles et l'étude du comportement animal avant les éruptions. Leurs prédictions sont fiables à quatre-vingts pour cent — un chiffre qui leur vaut l'admiration silencieuse de toute l'armée.
+- Avant-poste de surveillance sismique abritant les **Guetteurs de Feu**, qui surveillent l'activité volcanique en permanence et permettent d'anticiper les éruptions de plusieurs jours (évacuations ordonnées). Rares Pyrtariens non-combattants, au rôle jugé vital.
+- Créé après la troisième grande éruption post-Grande Éruption (2 000 morts qui auraient pu être évacués). Méthode d'observation par capteurs de vibration, analyse des fumerolles et comportement animal ; prédictions fiables à quatre-vingts pour cent.
 - Population : Village
 - Région : Eleris
 
 ### Velorn — Village
-*Village-caserne à la périphérie d'Ilyndar, Velorn sert de première ligne de défense de la capitale. Ses habitants sont des soldats d'élite en service actif permanent, et le village entier peut être mobilisé en moins d'une heure. Les familles de Velorn vivent selon un régime quasi-spartiate, et les enfants y commencent l'entraînement dès six ans.*
-**Histoire :** Velorn n'existait pas avant la tentative de coup d'état de la Faction du Fer Gris il y a un siècle — un groupe de généraux qui avait failli prendre Ilyndar par surprise lors d'une nuit de fête. La leçon retenue fut que la capitale avait besoin d'un tampon permanent, peuplé de soldats dont la seule vocation était la vigilance. Les premiers habitants de Velorn furent sélectionnés parmi les soldats ayant le moins besoin de sommeil. Leurs descendants ont développé une culture de l'insomnie productive : les enfants qui dorment trop sont considérés, avec une bienveillance dure, comme « pas encore prêts ».
+- Village-caserne à la périphérie d'Ilyndar servant de première ligne de défense de la capitale ; soldats d'élite en service actif permanent, mobilisables en moins d'une heure ; entraînement des enfants dès six ans.
+- Fondé après la tentative de coup d'état de la **Faction du Fer Gris** (il y a un siècle), pour doter la capitale d'un tampon permanent de soldats voués à la vigilance ; premiers habitants sélectionnés parmi les soldats au moindre besoin de sommeil, d'où une culture de l'« insomnie productive ».
 - Population : Village
 - Région : Ilyndor
 
 ### Hetholin — Ville
-*Grenier de Pyrtara, Hetholin est une ville agricole fortifiée au cœur des terres fertiles de Kethorin. Les champs de légumes-racines et de céréales résistantes à la chaleur s'étendent autour de la ville sous la surveillance de tours de guet. L'agriculture à Hetholin est pratiquée avec une efficacité militaire : rotations de cultures planifiées, irrigation par canaux de lave refroidie, et récoltes chronométrées.*
-**Histoire :** Les terres de Kethorin étaient encore trop chaudes pour être cultivées lorsque les premiers agriculteurs-soldats y furent envoyés sous ordre direct du Haut Commandant. Plusieurs périrent de la chaleur du sol pendant les premiers étés. Mais les rendements, quand les cultures prirent, dépassèrent toutes les prévisions — le sol volcanique était extraordinairement riche. Hetholin fut donc construite sur un paradoxe pyrtarien classique : la condition la plus hostile produisit la plus grande abondance. Les habitants de Hetholin ont une devise non officielle : « Plantés dans les cendres, récoltés dans la gloire. »
+- Grenier de Pyrtara : ville agricole fortifiée au cœur des terres fertiles de Kethorin (légumes-racines et céréales résistantes à la chaleur, sous surveillance de tours de guet). Agriculture menée avec efficacité militaire : rotations planifiées, irrigation par canaux de lave refroidie, récoltes chronométrées.
+- Établie sur des terres d'abord trop chaudes (premiers agriculteurs-soldats morts de la chaleur du sol) ; rendements exceptionnels une fois les cultures prises. Devise non officielle : « Plantés dans les cendres, récoltés dans la gloire. »
 - Population : Ville
 - Région : Kethorin
 
 ### Kyldar — Village
-*Village de cultivateurs spécialisés dans les plantes qui poussent exclusivement dans les sols volcaniques. Les récoltes de Kyldar incluent le poivre de cendre — une épice d'un rouge flamboyant au goût brûlant — et le tubercule de feu, un légume-racine si riche en nutriments qu'un seul peut nourrir un soldat pendant deux jours.*
-**Histoire :** Le tubercule de feu de Kyldar fut découvert par des cochons sauvages qui fouillaient les terres encore fumantes après une coulée. Les animaux semblaient en parfaite santé malgré une alimentation quasi-exclusive de ces tubercules ; un soldat affamé décida de les imiter. Il survécut et rapporta les tubercules à Hetholin, où ils furent cultivés méthodiquement. L'histoire des cochons explorateurs est connue de tous à Kyldar et n'est jamais racontée devant des visiteurs étrangers — les Pyrtariens jugent humiliant d'admettre qu'ils doivent leur survie à des porcs.
+- Village de cultivateurs spécialisés dans les plantes des sols volcaniques. Productions : le **poivre de cendre** (épice rouge flamboyant au goût brûlant) et le **tubercule de feu** (légume-racine si riche qu'un seul nourrit un soldat pendant deux jours).
+- Le tubercule de feu fut repéré grâce à des cochons sauvages fouillant les terres fumantes après une coulée, puis cultivé à Hetholin.
 - Population : Village
 - Région : Kethorin
 
 ### Nymiris — Village
-*Le plus jeune village de Pyrtara, fondé il y a à peine cinquante ans sur des terres encore chaudes de la dernière grande coulée. Nymiris est un projet d'expansion agricole où de nouvelles techniques de culture volcanique sont expérimentées. Les habitants sont des pionniers volontaires — principalement de jeunes soldats en quête de terres propres — et l'esprit de Nymiris est celui d'une frontière en construction.*
-**Histoire :** Les fondateurs de Nymiris furent les seuls habitants de Pyrtara à avoir demandé la permission de s'installer quelque part plutôt que d'y être affectés. Cette originalité — vouloir quelque chose plutôt que le subir — fut regardée avec suspicion par le Conseil de Fer, qui y vit un possible signe de faiblesse de caractère. Varketh l'Indomptable approuva néanmoins la demande, avec ce commentaire qui est devenu célèbre à Nymiris : « Ceux qui choisissent la pire terre de leur plein gré méritent de la garder. » Les habitants de Nymiris accrochent cette phrase sur leurs portes.
+- Le plus jeune village de Pyrtara (fondé il y a une cinquantaine d'années sur des terres encore chaudes de la dernière grande coulée) ; projet d'expansion agricole expérimentant de nouvelles techniques de culture volcanique ; habitants pionniers volontaires, principalement de jeunes soldats.
+- Seul village dont les fondateurs demandèrent à s'installer plutôt que d'y être affectés ; demande approuvée par Varketh l'Indomptable (« Ceux qui choisissent la pire terre de leur plein gré méritent de la garder. »).
 - Population : Village
 - Région : Kethorin
 
@@ -178,16 +190,16 @@ Région méridionale la plus récente, née d'une coulée de lave massive qui a 
 
 | Pays | Relation | Détails |
 |------|----------|---------|
-| **Drakora** | Respect mutuel | Deux nations de feu et de force. Les échanges sont rares mais empreints d'un respect guerrier. Drakora admire la discipline ; Pyrtara admire les dragons. |
+| **Drakora** | Respect mutuel | Deux nations de feu et de force. Échanges rares mais empreints d'un respect guerrier. Drakora admire la discipline ; Pyrtara admire les dragons. |
 | **Ackerna** | Indifférence méprisante | Pyrtara considère les druides d'Ackerna comme des rêveurs inutiles. Ackerna voit Pyrtara comme une aberration destructrice. |
-| **Gryndor** | Commerce pragmatique | Gryndor achète l'obsidienne et les métaux volcaniques de Pyrtara ; Pyrtara achète les outils de précision de Gryndor. Pas d'amitié, que des transactions. |
-| **Lythar** | Tension frontalière | Les nomades de Lythar traversent parfois les terres de Pyrtara sans autorisation. Les incidents sont fréquents mais rarement mortels — Lythar est trop mobile pour être puni. |
-| **Haldria** | Neutralité armée | Les deux nations se surveillent mutuellement sans hostilité ouverte. Haldria contrôle les mers ; Pyrtara contrôle le feu. Chacun respecte le territoire de l'autre. |
+| **Gryndor** | Commerce pragmatique | Gryndor achète l'obsidienne et les métaux volcaniques de Pyrtara ; Pyrtara achète les outils de précision de Gryndor. Transactions sans amitié. |
+| **Lythar** | Tension frontalière | Les nomades de Lythar traversent parfois les terres de Pyrtara sans autorisation. Incidents fréquents mais rarement mortels — Lythar est trop mobile pour être puni. |
+| **Haldria** | Neutralité armée | Surveillance mutuelle sans hostilité ouverte. Haldria contrôle les mers ; Pyrtara contrôle le feu. Chacun respecte le territoire de l'autre. |
 
 ---
 
 ## Secrets et intrigues
 
-- **Le Cœur du Mont Pyralis** : Les Guetteurs de Feu de Vyldor ont détecté une anomalie au cœur du volcan — une pulsation régulière qu'aucun phénomène géologique connu ne suffit à expliquer. Selon certains fidèles d'Ignis Aeternum, Eldoria même y serait littéralement présente ; selon les Guetteurs eux-mêmes, l'observation reste à corroborer. Le Haut Commandant a envoyé une expédition secrète dans les cavernes profondes. Elle n'est pas revenue.
-- **La Faction de l'Obsidienne** : Un groupe d'officiers supérieurs, mené par la générale Sylthra, conspire secrètement pour renverser Varketh et transformer Pyrtara en une puissance expansionniste. Ils estiment que la discipline militaire de Pyrtara est gaspillée en simple survie et rêvent de conquérir les territoires fertiles des pays voisins.
-- **Les Enfants des Cendres** : Dans les profondeurs de Kethorin, des enfants nés sur les terres volcaniques les plus récentes manifestent une résistance inhabituelle au feu — certains peuvent toucher des braises sans se brûler. Les prêtres d'[[Ignis Aeternum]] y lisent un signe d'Eldoria ; les médecins militaires y observent une variation biologique qu'ils peinent à expliquer. Aucune lecture n'est tranchée.
+- **Le Cœur du Mont Pyralis** : les Guetteurs de Feu de Vyldor ont détecté au cœur du volcan une pulsation régulière qu'aucun phénomène géologique connu n'explique. Certains fidèles d'Ignis Aeternum y voient Eldoria littéralement présente ; les Guetteurs jugent l'observation à corroborer. Le Haut Commandant a envoyé une expédition secrète dans les cavernes profondes — elle n'est pas revenue.
+- **La Faction de l'Obsidienne** : un groupe d'officiers supérieurs, mené par la générale **Sylthra**, conspire pour renverser Varketh et transformer Pyrtara en puissance expansionniste, jugeant la discipline du pays gaspillée en simple survie et visant la conquête des territoires fertiles voisins.
+- **Les Enfants des Cendres** : dans les profondeurs de Kethorin, des enfants nés sur les terres volcaniques les plus récentes manifestent une résistance inhabituelle au feu (certains touchent des braises sans se brûler). Les prêtres d'[[Ignis Aeternum]] y lisent un signe d'Eldoria ; les médecins militaires une variation biologique inexpliquée. Aucune lecture n'est tranchée.

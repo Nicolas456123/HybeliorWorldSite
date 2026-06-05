@@ -2,7 +2,7 @@
 tags: [lore, pays, cendara, pyrevane]
 type: nation
 status: canon
-last_review: 2026-05-06
+last_review: 2026-06-05
 needs_review_for: []
 ---
 # Pyrevane — La Théocratie des Sept Feux
@@ -25,30 +25,39 @@ needs_review_for: []
 
 ### Le Conseil des Sept Feux
 
-Sept Maîtres, un par Forge-Temple. Mandats viagers ; succession par cooptation interne au Forge-Temple concerné, ratifiée par le Conseil. Le Conseil délibère sur :
-
-- Doctrine : interprétation des Forge-Liturgies, validation des nouvelles formules rituelles, réponses aux Vigilants des cratères.
-- Ordination : tout Ignitari de la Cendara entière reçoit son Sceau du Conseil — ce qui donne à Pyrevane un levier diplomatique considérable sur les Forge-Temples cendariens-royaume et arkheniennes.
-- Discipline : excommunications (rares), interdictions de forge (plus fréquentes), démissions imposées (presque jamais — voir Tessar).
-- Diplomatie religieuse : relations avec les autres traditions d'Hybélior (Ordo Caelum, Vael'Kurash, Foedus Animae), généralement courtoises, parfois tendues (Caeloria de l'Ordo, Catena Fracta minoritaire).
-
-Le Conseil ne légifère pas dans le domaine civil. Pyrevane *n'a pas de gouvernement civil distinct* — c'est sa singularité parmi les théocraties d'Hybélior. Les questions civiles sont gérées au niveau des **Forges-Quartiers** (échelon paroissial), des **Maîtrises** (corporations de métiers liées à chaque Forge-Temple), et des **Conseils de Caldera** (assemblées locales). Cette architecture polycentrique fonctionne parce que la population pyrevanienne est petite (environ trente mille habitants) et homogène culturellement. Elle ne fonctionnerait pas à Cendara-Royaume. Elle est une des raisons pour lesquelles Pyrevane n'a pas absorbé Cendara — elle ne saurait pas gouverner un peuple qui ne soit pas déjà entièrement Ignitari.
+- Composition : sept Maîtres, un par Forge-Temple. Mandats viagers ; succession par cooptation interne au Forge-Temple concerné, ratifiée par le Conseil.
+- Domaines de délibération :
+  - **Doctrine** : interprétation des Forge-Liturgies, validation des nouvelles formules rituelles, réponses aux Vigilants des cratères.
+  - **Ordination** : tout Ignitari de la Cendara entière reçoit son Sceau du Conseil — levier diplomatique sur les Forge-Temples cendariens-royaume et arkheniennes.
+  - **Discipline** : excommunications (rares), interdictions de forge (plus fréquentes), démissions imposées (presque jamais — voir Tessar).
+  - **Diplomatie religieuse** : relations avec les autres traditions d'Hybélior (Ordo Caelum, [[Vael'Kurash]], Foedus Animae), généralement courtoises, parfois tendues (Caeloria de l'Ordo, Catena Fracta minoritaire).
+- Le Conseil ne légifère pas dans le domaine civil.
+- Singularité : Pyrevane n'a pas de gouvernement civil distinct — fait unique parmi les théocraties d'Hybélior. Questions civiles gérées au niveau des **Forges-Quartiers** (échelon paroissial), des **Maîtrises** (corporations de métiers liées à chaque Forge-Temple) et des **Conseils de Caldera** (assemblées locales).
+- Cette architecture polycentrique fonctionne grâce à une population petite (~30 000 hab.) et culturellement homogène ; elle ne fonctionnerait pas à Cendara-Royaume. C'est l'une des raisons pour lesquelles Pyrevane n'a pas absorbé Cendara (incapacité à gouverner un peuple non entièrement Ignitari).
 
 ### Le Maître de Pyrevane-Mère (primus inter pares)
 
-Convoque le Conseil. Préside les délibérations. Signe les édits communs. *Casse* en cas d'égalité au vote (rarissime — la collégialité produit une culture du consensus). Représente officiellement Pyrevane auprès des nations étrangères. Vit dans la **Maison-de-Cendre**, bâtisse sobre attenante à la Forge-Temple de Pyrevane-Mère, sans cour, sans gardes personnels.
-
-Karendis IX est le neuvième titulaire de ce nom, par tradition reprise depuis le premier Karendis de la Lecture de Miséricorde. La continuité onomastique est une fiction — chaque Maître de Pyrevane-Mère prend le nom de Karendis à son investiture. Ses proches l'appellent par son nom de naissance (Tael, dans le cas du titulaire actuel). Ce dédoublement nominal est l'un des dispositifs symboliques les plus fins de la théocratie : le Maître a deux personnes, l'une publique-rituelle, l'autre privée. La fonction permet de *tenir* ce que l'homme ne peut pas porter seul.
+- Rôle : convoque le Conseil, préside les délibérations, signe les édits communs, tranche en cas d'égalité au vote (rarissime — culture du consensus), représente officiellement Pyrevane auprès des nations étrangères.
+- Résidence : la **Maison-de-Cendre**, bâtisse sobre de basalte attenante à la Forge-Temple de Pyrevane-Mère, sans cour ni gardes personnels.
+- Titulaire actuel : **Karendis IX**, neuvième titulaire du nom.
+- Dédoublement onomastique : chaque Maître de Pyrevane-Mère prend le nom de Karendis à son investiture (tradition remontant au premier Karendis de la Lecture de Miséricorde) ; la continuité du nom est une fiction. Ses proches l'appellent par son nom de naissance — **Tael** pour le titulaire actuel. Une personne publique-rituelle, une personne privée.
 
 ### La Voix sous les Cendres
 
-Fonction sacerdotale rare, environ trois titulaires actifs dans le monde à un moment donné. Accordée à un Ignitari ayant survécu à une descente prolongée dans les flancs du Mont Cendra (au moins sept jours, descente continue, transcription de relevés). Mandat viager. Prestige immense, autorité doctrinale réelle, mais — depuis Tessar — soupçon implicite : une Voix qui revient *trop transformée* est une Voix qu'on raréfie.
-
-Les trois Voix actuelles : **Veynara de Cinderhold** (active, descente de neuf jours en l'an 230, écrits prudents) ; **Sorvain le Long** (en retrait, ermitage à Vesthrim, ne descend plus) ; **Une troisième Voix dont le nom est gardé secret**, retirée à Mosrack, dont les écrits circulent à voix très basse parmi les Délies — beaucoup soupçonnent qu'elle est, sans titre, l'autorité morale réelle du courant délien.
+- Fonction sacerdotale rare : environ trois titulaires actifs dans le monde à un moment donné. Mandat viager.
+- Accès : réservé à un Ignitari ayant survécu à une descente prolongée dans les flancs du Mont Cendra (au moins sept jours, descente continue, transcription de relevés).
+- Prestige immense, autorité doctrinale réelle. Depuis Tessar, soupçon implicite : une Voix qui revient trop transformée est raréfiée.
+- Les trois Voix actuelles :
+  - **Veynara de Cinderhold** — active ; descente de neuf jours en l'an 230 ; écrits prudents (orthodoxe).
+  - **Sorvain le Long** — en retrait ; ermitage à Vesthrim ; ne descend plus ; refuse de revenir aux délibérations.
+  - **Troisième Voix (nom gardé secret)** — retirée à Mosrack ; écrits circulant à voix très basse parmi les Délies ; soupçonnée d'être, sans titre, l'autorité morale réelle du courant délien.
 
 ### Les Maîtrises de forge
 
-Corporations qui régissent les forgerons civils. Chaque Maîtrise est attachée à l'une des Sept Forge-Temples. Une Maîtrise délivre les Sceaux d'apprentissage, organise les Épreuves du Feu, gère les *dettes de cendre* locales. Les Maîtres de Maîtrise sont élus par leurs pairs forgerons ; ils ont autorité civile et liturgique en leur ressort. À Pyrevane, la Maîtrise est plus puissante que partout ailleurs en Cendara — un Maître de Maîtrise pyrevanien dialogue d'égal à égal avec un gouverneur royal de Cendara-Royaume.
+- Corporations régissant les forgerons civils ; chaque Maîtrise est attachée à l'une des Sept Forge-Temples.
+- Fonctions : délivrance des Sceaux d'apprentissage, organisation des Épreuves du Feu, gestion des *dettes de cendre* locales.
+- Maîtres de Maîtrise élus par leurs pairs forgerons ; autorité civile et liturgique en leur ressort.
+- À Pyrevane, la Maîtrise est plus puissante que partout ailleurs en Cendara : un Maître de Maîtrise pyrevanien dialogue d'égal à égal avec un gouverneur royal de Cendara-Royaume.
 
 ---
 
@@ -56,23 +65,32 @@ Corporations qui régissent les forgerons civils. Chaque Maîtrise est attachée
 
 ### Ignis Aeternum dans sa version la plus pure
 
-Cf. fiche [[Religions/Ignis Aeternum|Ignis Aeternum]] pour la doctrine complète. À Pyrevane, on observe :
+Religion principale : Ignis Aeternum (autorité doctrinale continentale). Cf. fiche [[Religions/Ignis Aeternum|Ignis Aeternum]] pour la doctrine complète. Traits propres à Pyrevane :
 
-- **Forge-Liturgies maximalistes**. Chaque acte de forge, à Pyrevane, est entouré de formules. Aucun coup de marteau n'est *neutre*. Cette saturation rituelle distingue immédiatement un Ignitari pyrevanien d'un Ignitari cendarien-royaume (chez qui le rite est plus relâché, plus pragmatique, plus mêlé de superstition populaire).
-- **Veillées Lunaires fastueuses**. Les sept Forge-Temples allument simultanément à chaque pleine lune. La nuit, depuis Aïkhar (Arkhen), à plus de soixante lieues, on aperçoit les sept lueurs sur les versants ouest. Ce signal lumineux est, en soi, un acte d'autorité continentale.
-- **Voix sous les Cendres** comme gardienne de la pulsation. Fonction rare, prestigieuse, dangereuse.
-- **Conseil des Sept Feux** comme autorité doctrinale.
-- **Délies activement chassés** (cf. *Tensions internes*).
+- **Forge-Liturgies maximalistes** : chaque acte de forge est entouré de formules, aucun coup de marteau n'est neutre. Saturation rituelle distinguant un Ignitari pyrevanien d'un Ignitari cendarien-royaume (rite plus relâché, pragmatique, mêlé de superstition populaire).
+- **Veillées Lunaires fastueuses** : les sept Forge-Temples allument simultanément à chaque pleine lune. Les sept lueurs sont visibles la nuit depuis Aïkhar (Arkhen), à plus de soixante lieues — signal d'autorité continentale.
+- **Voix sous les Cendres** : gardienne de la pulsation (fonction rare, prestigieuse, dangereuse).
+- **Conseil des Sept Feux** : autorité doctrinale.
+- **Délies de la Flamme** : courant dissident activement chassé (cf. *Secrets et intrigues*).
 
 ### La Forge-Temple de Pyrevane-Mère
 
-Bâtie dans la caldera centrale, alimentée par une veine de magma stable depuis sept mille ans. Plan circulaire, sept entrées (une par Forge-Temple secondaire), nef ouverte sur la cuve de braise centrale, voûtes de basalte taillé. Aucun siège — on prie debout, on travaille debout, on meurt debout. La cuve centrale n'est jamais éteinte. Elle est nourrie par un système de canaux qui rejoint la veine de magma trente mètres sous le sol. La température dans la nef centrale, au plus froid de l'hiver, est de trente-quatre degrés. En été, on n'y entre que pour officier.
-
-C'est dans cette nef que Tessar a prononcé le *Discours de la Cendre Patiente*. La pierre où il se tenait est marquée d'une légère dépression — usure naturelle des sandales, attribuée par les Refondeurs à des prédicateurs antérieurs. Les Délies y déposent, de temps à autre, une poignée de cendre froide. Les balayeurs nettoient. La cendre revient.
+- Bâtie dans la caldera centrale, alimentée par une veine de magma stable depuis sept mille ans.
+- Plan circulaire ; sept entrées (une par Forge-Temple secondaire) ; nef ouverte sur la cuve de braise centrale ; voûtes de basalte taillé.
+- Aucun siège : on prie, travaille et meurt debout.
+- Cuve centrale jamais éteinte, nourrie par un système de canaux rejoignant la veine de magma trente mètres sous le sol. Température de la nef au plus froid de l'hiver : trente-quatre degrés.
+- Lieu du *Discours de la Cendre Patiente* prononcé par Tessar. La pierre où il se tenait porte une légère dépression (attribuée officiellement par les Refondeurs à l'usure des sandales de prédicateurs antérieurs). Les Délies y déposent par intermittence une poignée de cendre froide, que les balayeurs nettoient.
 
 ### Le Cycle des Sept Calderas
 
-Pèlerinage liturgique de quarante-cinq à soixante jours, parcouru par les Ignitari en formation et par les pèlerins lay. Itinéraire fixe : Pyrevane-Mère → Mosrack (forge des armes liturgiques) → Vesthrim (forge des marteaux) → Caldethor (forge des sceaux) → Verre-Fondu (forge du verre cérémoniel) → Ashenor (forge des cendres-amendes) → Cinderhold (forge des outils funèbres) → retour à Pyrevane-Mère. Chaque caldera produit une *spécialité liturgique* qui n'est pas reproductible ailleurs. Cette répartition technique a deux effets : elle empêche n'importe quel Forge-Temple de se passer des autres ; elle garantit que toute cérémonie majeure mobilise les sept.
+- Pèlerinage liturgique de quarante-cinq à soixante jours, parcouru par les Ignitari en formation et les pèlerins laïcs.
+- Itinéraire fixe : Pyrevane-Mère → Mosrack (armes liturgiques) → Vesthrim (marteaux) → Caldethor (sceaux) → Verre-Fondu (verre cérémoniel) → Ashenor (cendres-amendes) → Cinderhold (outils funèbres) → retour à Pyrevane-Mère.
+- Chaque caldera produit une spécialité liturgique non reproductible ailleurs. Effets : aucun Forge-Temple ne peut se passer des autres ; toute cérémonie majeure mobilise les sept.
+
+### Religions secondaires
+
+- Aucune religion secondaire reconnue.
+- **Délies de la Flamme** : présents mais persécutés (cf. *Secrets et intrigues*).
 
 ---
 
@@ -86,141 +104,127 @@ Pèlerinage liturgique de quarante-cinq à soixante jours, parcouru par les Igni
 4. **Ignitari maîtres** — clercs ordonnés, attachés à une Forge-Temple ou à une caldera.
 5. **Forgerons-Sceaux** — civils ayant achevé l'apprentissage et reçu leur Sceau.
 6. **Apprentis** — sous marque rouge ravivée chaque année pendant sept ans.
-7. **Brûlés** — survivants des Veillées trop longues, des Épreuves trop dures, des descentes ratées. Sans rang officiel, mais respectés. Cf. *Talvhar le Brûlé*, plus bas.
-8. **Sans-Forge** — habitants qui n'ont pas reçu de Sceau (par échec de l'épreuve, ou par refus). Catégorie marginale, environ deux mille personnes à Pyrevane. Officiellement non discriminés. Pratiquement, exclus de l'essentiel des fonctions civiles. Une frange importante sont des Délies dissimulés.
+7. **Brûlés** — survivants des Veillées trop longues, des Épreuves trop dures, des descentes ratées. Sans rang officiel, mais respectés.
+8. **Sans-Forge** — habitants n'ayant pas reçu de Sceau (échec de l'épreuve ou refus). Catégorie marginale, environ deux mille personnes à Pyrevane. Officiellement non discriminés ; pratiquement exclus de l'essentiel des fonctions civiles. Une frange importante sont des Délies dissimulés.
 
 ### L'apprentissage comme pivot social
 
-À Pyrevane, *avoir un Sceau* est ce qui sépare un homme d'un demi-homme. L'Épreuve du Feu, le rite d'initiation où l'apprenti tient sa main au-dessus d'une flamme rituelle jusqu'à ce que le Maître donne le signal, est plus dure ici qu'à Cendara-Royaume. Les durées sont plus longues. Les Maîtres sont plus exigeants. Les brûlures sérieuses sont plus fréquentes. Un apprenti qui retire la main avant le signal est *renvoyé* — il peut tenter une seconde fois l'année suivante, mais une troisième fois le marque définitivement comme Sans-Forge. Le taux d'échec à la première Épreuve est d'environ un sur cinq.
-
-Les enfants de Pyrevane vivent, dès l'âge de cinq ou six ans, sous la perspective de cette épreuve. Beaucoup se brûlent volontairement, à la maison, pour s'habituer. Certaines mères apprennent à leurs enfants à *écouter la flamme* — savoir-faire transmis sans parole, de mère à fille surtout, qui consiste à respirer en cadence avec une bougie, sans bouger, jusqu'à ce que la cire fonde. Cette pratique non liturgique est tolérée par le Conseil des Sept Feux, qui la considère comme une préparation pieuse.
+- Avoir un Sceau est le critère de pleine reconnaissance sociale.
+- **Épreuve du Feu** (rite d'initiation) : l'apprenti tient sa main au-dessus d'une flamme rituelle jusqu'au signal du Maître. Plus dure qu'à Cendara-Royaume (durées plus longues, Maîtres plus exigeants, brûlures sérieuses plus fréquentes).
+- Apprenti retirant la main avant le signal : renvoyé ; seconde tentative possible l'année suivante ; troisième échec = statut définitif de Sans-Forge.
+- Taux d'échec à la première Épreuve : environ un sur cinq.
+- Les enfants vivent dès cinq ou six ans sous la perspective de l'épreuve ; beaucoup se brûlent volontairement à la maison pour s'habituer.
+- **« Écouter la flamme »** : savoir-faire non liturgique transmis sans parole, surtout de mère à fille — respirer en cadence avec une bougie, sans bouger, jusqu'à ce que la cire fonde. Toléré par le Conseil des Sept Feux comme préparation pieuse.
 
 ### Biais culturels
 
-- **L'exactitude liturgique.** Un Pyrevanien qui frappe trois coups au lieu de quatre dans un rite est un Pyrevanien qu'on regarde différemment. La précision rituelle est, dans cette nation, ce que la précision juridique est à Kharazir : la garantie de l'existence sociale. Une Forge-Liturgie *correctement* récitée est une vie *correctement* vécue. On peut être pauvre, brûlé, malade ; si on a frappé juste, on est en règle.
-
-- **L'économie de la parole.** Les Pyrevaniens parlent peu. Pas par mauvaise humeur — par culture. La parole est une forge mineure : on n'y forge pas grand-chose, on s'y use. Le silence pendant le travail est attendu. Les conversations se font à la fin de la journée, autour d'une *braise partagée* (pratique sociale — chaque famille reçoit, à tour de rôle, les forgerons voisins autour d'une flamme couvée). Un visiteur étranger, à Pyrevane, est souvent pris pour un homme bavard, parce qu'il pose plus de trois questions par heure.
-
-- **La méfiance envers les Cendariens-Royaume.** Réciproque de la méfiance que ceux-ci nourrissent contre Arkhen. À Pyrevane, on considère les Cendariens-Royaume comme des Ignitari *paresseux* — ils prient sans frapper, ils frappent sans liturgie, ils confondent la richesse matérielle avec la fidélité. La cour de Brumaris est qualifiée de *« Forge-Temple sans cuve »* — une institution rituelle qui aurait perdu son cœur de feu.
-
-- **La reconnaissance silencieuse de la dette doctrinale.** Aucun Pyrevanien ne dit publiquement *« nous sommes plus anciens »*. Tous le pensent. Tous le savent. C'est dans la posture, dans la lenteur des saluts, dans la façon dont un Maître pyrevanien fait attendre un envoyé royal cendarien quinze minutes avant de le recevoir. Ces quinze minutes sont la dette politique millénaire qui se paie en monnaie de courtoisie.
-
-- **La cendre froide qu'on balaye.** Aucun Pyrevanien orthodoxe n'admet l'existence des Délies. Tous les Pyrevaniens, à un moment ou à un autre de leur vie, ont vu une poignée de cendre froide déposée sur le seuil d'une Forge-Temple, devant la pierre où Tessar avait parlé, ou aux pieds d'un balayeur. Tous balayent. Tous se taisent. Ce geste collectif — voir, balayer, taire — est l'un des plus parfaits *non-dits* d'Hybélior. Il maintient l'orthodoxie en surface et la dissidence en profondeur, sans jamais qu'aucun des deux ne soit nommé. Il est la **Schismature** dans sa forme quotidienne.
-
-- **La rare visite des Phénix.** Un Phénix d'Ilnara, très rarement, traverse le Détroit de Suie et survole Pyrevane. C'est devenu si rare (peut-être un cas tous les dix ou quinze ans) que les Forge-Temples gardent un *registre des passages* depuis l'an Sillage 70. Chaque passage est un événement. Le dernier date de l'an 240. Personne, à Pyrevane, n'a vu un Phénix de ses propres yeux depuis quinze ans. Les enfants nés depuis vivent sans le souvenir. Le Conseil des Sept Feux ne tient pas de discours sur cette absence. Il ne sait pas quoi dire.
+- **Exactitude liturgique** : la précision rituelle est la garantie de l'existence sociale (équivalent à la précision juridique à Kharazir). Une Forge-Liturgie correctement récitée = une vie en règle, indépendamment de la pauvreté, des brûlures ou de la maladie. Frapper trois coups au lieu de quatre dans un rite vaut une mise à l'écart sociale.
+- **Économie de la parole** : les Pyrevaniens parlent peu, par culture. Silence attendu pendant le travail ; conversations en fin de journée autour d'une **braise partagée** (chaque famille reçoit à tour de rôle les forgerons voisins autour d'une flamme couvée). Un étranger posant plus de trois questions par heure passe pour bavard.
+- **Méfiance envers les Cendariens-Royaume** : réciproque de la méfiance de ceux-ci contre Arkhen. Les Cendariens-Royaume sont jugés Ignitari paresseux (prient sans frapper, frappent sans liturgie, confondent richesse matérielle et fidélité). La cour de Brumaris est qualifiée de *« Forge-Temple sans cuve »*.
+- **Dette doctrinale tacite** : conviction non dite publiquement d'être les plus anciens. S'exprime par la posture, la lenteur des saluts, le délai (quinze minutes) avant qu'un Maître pyrevanien reçoive un envoyé royal cendarien.
+- **La cendre froide qu'on balaye** : aucun Pyrevanien orthodoxe n'admet l'existence des Délies ; tous ont vu une poignée de cendre froide déposée (seuil d'une Forge-Temple, pierre de Tessar, pieds d'un balayeur) ; tous balayent et se taisent. Ce geste collectif (voir, balayer, taire) maintient l'orthodoxie en surface et la dissidence en profondeur : c'est la **Schismature** dans sa forme quotidienne.
+- **Rareté des Phénix** : un Phénix d'Ilnara traverse très rarement le Détroit de Suie pour survoler Pyrevane (un cas tous les dix à quinze ans). Les Forge-Temples tiennent un *registre des passages* depuis l'an Sillage 70. Dernier passage : an 240. Aucun Pyrevanien vivant n'en a vu depuis quinze ans. Le Conseil des Sept Feux ne tient aucun discours sur cette absence.
 
 ---
 
 ## Régions et calderas
 
 ### Pyrevane-Mère (caldera centrale)
-La capitale. Une ville étroite construite contre la paroi sud de la caldera, dominée par la Forge-Temple Centrale dont la voûte de basalte taillé est visible à dix lieues. Trente mille habitants pour la grande agglomération continentale ; mais on appelle aussi *Pyrevane-Mère* la caldera elle-même, qui s'étend sur trois lieues de diamètre. Le climat est sec, chaud, sulfureux. L'eau potable arrive par aqueducs depuis les sources de Verre-Fondu, à deux jours de marche.
+Capitale. Ville étroite contre la paroi sud de la caldera, dominée par la Forge-Temple Centrale (voûte de basalte taillé visible à dix lieues). 30 000 habitants pour l'agglomération. Le nom désigne aussi la caldera elle-même (trois lieues de diamètre). Climat sec, chaud, sulfureux. Eau potable acheminée par aqueducs depuis les sources de Verre-Fondu (à deux jours de marche).
 
 ### Mosrack (caldera nord-ouest)
-Forge-Temple secondaire, spécialité des armes liturgiques (lames de cérémonie, marteaux de Maître, sceaux d'investiture). Mosrack est une cité industrieuse, plus ouvrière que Pyrevane-Mère, et plus *libérale* — c'est ici que le *Discours de la Cendre Patiente* a été conservé, et c'est ici que la troisième Voix sous les Cendres réside (officieusement). Le Maître actuel de Mosrack, Vethrim VI, est connu pour ses positions modérées dans les délibérations du Conseil — il a, plusieurs fois, fait avorter des motions disciplinaires contre des Délies présumés en *demandant des preuves* que les autres Maîtres n'ont pas voulu fournir.
+Forge-Temple secondaire ; spécialité : armes liturgiques (lames de cérémonie, marteaux de Maître, sceaux d'investiture). Cité industrieuse, plus ouvrière et plus libérale que Pyrevane-Mère. Lieu de conservation du *Discours de la Cendre Patiente* et résidence officieuse de la troisième Voix sous les Cendres. Maître actuel : **Vethrim VI**, modéré ; a fait avorter plusieurs motions disciplinaires contre des Délies présumés en exigeant des preuves que les autres Maîtres refusaient de fournir.
 
 ### Vesthrim (caldera nord)
-Forge-Temple secondaire, spécialité des marteaux. Petite caldera, accès difficile par un col de deux mille trois cents mètres. Plus austère, plus monastique. C'est ici que **Sorvain le Long**, l'une des trois Voix actuelles, vit en retrait — il refuse de revenir aux délibérations du Conseil. Vesthrim est le Forge-Temple où l'on entend le moins de bruit ; un visiteur s'y installe et croit la cuve éteinte. Elle ne l'est pas. Les Pyrevaniens disent que Vesthrim *« frappe le silence »*.
+Forge-Temple secondaire ; spécialité : marteaux. Petite caldera, accès difficile par un col de 2 300 mètres. Plus austère et monastique. Résidence en retrait de **Sorvain le Long**, l'une des trois Voix actuelles, qui refuse de revenir aux délibérations du Conseil. Forge-Temple le plus silencieux des sept (cuve néanmoins toujours active).
 
 ### Caldethor (caldera est)
-Forge-Temple secondaire, spécialité des sceaux d'apprentissage. C'est ici que sont fabriqués tous les Sceaux ignitariens reçus par les apprentis de la Cendara entière. Caldethor a, par cette fonction, un quasi-monopole sur l'ordination cléricale continentale. Le Maître de Caldethor est l'un des deux ou trois pôles d'opposition au Maître de Pyrevane-Mère ; les votes du Conseil opposent souvent Pyrevane-Mère et Caldethor sur des questions de procédure.
+Forge-Temple secondaire ; spécialité : sceaux d'apprentissage. Lieu de fabrication de tous les Sceaux ignitariens reçus par les apprentis de la Cendara entière ; quasi-monopole sur l'ordination cléricale continentale. Le Maître de Caldethor est l'un des deux ou trois pôles d'opposition au Maître de Pyrevane-Mère ; les votes du Conseil opposent souvent les deux calderas sur des questions de procédure.
 
 ### Verre-Fondu (caldera sud-ouest)
-Forge-Temple secondaire, spécialité du verre cérémoniel — vases, lentilles, instruments alchimiques liturgiques. Caldera moins active que les autres, alimentée par une veine de magma plus profonde. Verre-Fondu travaille de l'obsidienne en provenance directe du Mont, non de Diamora — pour des raisons doctrinales (l'obsidienne diamoréenne, lavée par la mer, serait *« moins pure »*). Les artisans de Verre-Fondu sont les seuls Pyrevaniens à entretenir une relation commerciale stable avec Cendara-Royaume — ils vendent leurs verres aux temples royaux.
+Forge-Temple secondaire ; spécialité : verre cérémoniel (vases, lentilles, instruments alchimiques liturgiques). Caldera moins active, alimentée par une veine de magma plus profonde. Travaille de l'obsidienne issue directement du Mont, non de Diamora — l'obsidienne diamoréenne, lavée par la mer, étant jugée doctrinalement *« moins pure »*. Seuls Pyrevaniens à entretenir une relation commerciale stable avec Cendara-Royaume (vente de verres aux temples royaux).
 
 ### Ashenor (caldera sud)
-Forge-Temple secondaire, spécialité des cendres-amendes — cendres rituelles utilisées comme amendement des champs sacrés, comme purification, comme matière des marques d'apprenti. Ashenor est la Forge-Temple la plus pauvre des sept, et la plus humble. Beaucoup de Délies de la Flamme passent par Ashenor en transit — la cendre y est tellement abondante, le Maître si peu attaché à la chasse des marques, que c'est un point de fuite naturel vers Arkhen via le Détroit de Suie.
+Forge-Temple secondaire ; spécialité : cendres-amendes (amendement des champs sacrés, purification, matière des marques d'apprenti). Forge-Temple la plus pauvre et la plus humble des sept. Point de transit fréquent des Délies de la Flamme (cendre abondante, Maître peu attaché à la chasse des marques) : point de fuite naturel vers Arkhen via le Détroit de Suie.
 
 ### Cinderhold (caldera sud-est)
-Forge-Temple secondaire, spécialité des outils funèbres — bûchers cérémoniels, urnes de cendre, lanternes de mort. C'est aussi le Forge-Temple le plus rigoriste — son Maître a proposé, en 121, de démettre Tessar Veynd. Cette tradition disciplinaire s'est maintenue ; c'est de Cinderhold que partent les enquêtes les plus fréquentes contre les Délies. L'actuelle Voix sous les Cendres active, **Veynara**, est une Cinderholdienne. Elle a fait sa descente neuf jours seulement et n'a pas écrit de sermon comparable à celui de Tessar. C'est une Voix orthodoxe.
+Forge-Temple secondaire ; spécialité : outils funèbres (bûchers cérémoniels, urnes de cendre, lanternes de mort). Forge-Temple le plus rigoriste ; son Maître a proposé en 121 de démettre Tessar Veynd. Point de départ des enquêtes les plus fréquentes contre les Délies. Résidence de la Voix active **Veynara**, Cinderholdienne, descente de neuf jours, orthodoxe (pas de sermon comparable à celui de Tessar).
 
 ### Plateaux Utophora-Ouest
-Région minière partagée administrativement avec Cendara-Royaume. Pyrevane y exploite des veines spécifiques (fer noir, soufre cristallin, pierre verte) sans contrôler les villes (qui sont royales). Cette **interpénétration minière** est la principale source d'irritation diplomatique entre les deux nations. Aucune frontière claire ne sépare les zones d'extraction. Les disputes sont arbitrées au cas par cas, jamais résolues structurellement.
+Région minière partagée administrativement avec Cendara-Royaume. Pyrevane y exploite des veines spécifiques (fer noir, soufre cristallin, pierre verte) sans contrôler les villes (royales). **Interpénétration minière** : principale source d'irritation diplomatique entre les deux nations. Aucune frontière claire entre les zones d'extraction ; disputes arbitrées au cas par cas, jamais résolues structurellement.
 
 ### Le Détroit de Suie (côté pyrevanien)
-Côte nord-ouest battue par les vents, port unique de **Suie-Haute** (cf. *Villes*). C'est par ce port que transite l'essentiel de la diplomatie religieuse avec Arkhen — quand elle a lieu.
+Côte nord-ouest battue par les vents. Port unique : **Suie-Haute** (cf. *Villes et villages*). Transit de l'essentiel de la diplomatie religieuse avec Arkhen, lorsqu'elle a lieu.
 
 ---
 
 ## Villes et villages
 
 ### Pyrevane-Mère — Capitale ★
-*Bâtie contre la paroi sud de la caldera centrale, Pyrevane-Mère est une cité de pierre noire et d'arcades étroites qui montent en gradins vers la Forge-Temple Centrale. Les rues sont pavées de basalte taillé — chaque dalle gravée, à la main, du Sceau du quartier qui l'a posée ; les générations s'identifient à leur dalle. La voûte de la Forge-Temple, visible depuis n'importe quel point de la cité, est éclairée la nuit par la lueur de la cuve centrale qui transparaît à travers ses sept ouvertures. L'air est sec, chaud, chargé d'une odeur de soufre et de métal. Le bruit du marteau, ininterrompu de l'aube au couchant, traverse les murs ; on dort *avec* le marteau, comme on dort avec une horloge.*
-**Histoire :** la cité a grandi par accrétion lente autour de la Forge-Temple, sans plan urbain. Les quartiers anciens sont au plus près de la cuve centrale ; les nouveaux s'étagent vers le rebord nord de la caldera, où l'air est plus respirable mais plus froid. Aucun palais — le Maître de Pyrevane-Mère vit dans la Maison-de-Cendre, simple bâtisse de basalte sans cour, attenante à la Forge-Temple.
+- Descripteur : capitale, cité de pierre noire bâtie en gradins contre la paroi sud de la caldera centrale, autour de la Forge-Temple Centrale ; rues pavées de basalte taillé, chaque dalle gravée du Sceau du quartier qui l'a posée. Cité grandie par accrétion lente sans plan urbain (quartiers anciens près de la cuve centrale, nouveaux étagés vers le rebord nord, plus froid). Aucun palais : le Maître réside à la Maison-de-Cendre.
 - Population : Capitale (environ 12 000)
 - Région : Pyrevane-Mère (caldera centrale)
 - Particularités : Forge-Temple Centrale, Maison-de-Cendre, Salle du Conseil des Sept Feux, Cuve de Braise centrale.
 
 ### Mosrack — Ville
-*Cité ouvrière au bord nord-ouest de la caldera de Mosrack, accrochée à la pente externe — vue dégagée sur la mer du nord. Mosrack a un caractère plus libéral que les autres calderas, des tavernes plus tardives, des forges plus diversifiées. C'est aussi la cité où il y a le plus de mendiants de Pyrevane — les Sans-Forge convergent ici parce qu'on les laisse manger.*
-**Histoire :** Mosrack a abrité, à plusieurs reprises au cours des derniers siècles, des forgerons en disgrâce qu'aucune autre caldera n'aurait acceptés. Le Maître Vethrim VI est connu pour avoir, à l'âge de vingt-trois ans, refusé de balayer une poignée de cendre froide déposée sur le seuil de la Forge-Temple — *« Il y avait un nom dessus »*, a-t-il dit. Ce détail, jamais raconté officiellement, circule.
+- Descripteur : cité ouvrière sur la pente externe nord-ouest de la caldera de Mosrack (vue sur la mer du nord), au caractère plus libéral. Refuge historique de forgerons en disgrâce et concentration des Sans-Forge mendiants de Pyrevane (on les y laisse manger). Maître actuel : **Vethrim VI**.
 - Population : Ville (environ 4 500)
 - Région : Mosrack (caldera nord-ouest)
 - Particularités : Forge-Temple de Mosrack, copie complète conservée du *Discours de la Cendre Patiente*, résidence non officielle de la troisième Voix sous les Cendres.
 
 ### Vesthrim — Ville
-*Petite ville monastique au fond d'une caldera étroite et froide. Vesthrim n'est pas accessible en hiver — le col se ferme cinq mois par an. Pendant ces cinq mois, la cité vit en autarcie totale. Les habitants ne s'en plaignent pas ; ils disent que c'est le moment de l'année où l'on entend le mieux la cuve.*
-**Histoire :** Vesthrim a été fondée par sept Ignitari de Pyrevane-Mère qui ont quitté la Forge-Temple Centrale en l'an Sillage 320, à cause d'une querelle de procession qu'aucune des deux factions n'a voulu démissionner. Les sept ont marché trois jours dans la neige et trouvé la caldera. Ils ont allumé une cuve. Sept générations plus tard, leur descendance directe forme encore le noyau du clergé local.
+- Descripteur : ville monastique au fond d'une caldera étroite et froide, isolée en hiver (col fermé cinq mois par an, autarcie totale). Fondée en l'an Sillage 320 par sept Ignitari ayant quitté la Forge-Temple Centrale après une querelle de procession ; leur descendance directe forme encore le noyau du clergé local.
 - Population : Ville (environ 2 800)
 - Région : Vesthrim (caldera nord)
 - Particularités : Forge-Temple de Vesthrim, Ermitage de Sorvain le Long.
 
 ### Caldethor — Ville
-*Cité officielle de l'apprentissage, Caldethor produit les Sceaux ignitariens pour la Cendara entière. La ville est stricte, propre, pleine de jeunes hommes et de jeunes femmes qui passent leurs Épreuves. L'atmosphère est tendue tout l'été (saison des Épreuves) ; détendue le reste de l'année.*
-**Histoire :** Caldethor a obtenu le monopole du Sceau en l'an Sillage 220, à l'issue d'un concours technique entre les sept Forge-Temples — ses artisans avaient développé un alliage de fer noir et de soufre cristallin qui rend la marque indélébile sans nécroser la peau. Les six autres calderas ont accepté, contre l'engagement que Caldethor produirait à prix coûtant. L'engagement est tenu.
+- Descripteur : cité officielle de l'apprentissage, produisant les Sceaux ignitariens de la Cendara entière ; stricte et propre, tendue durant l'été (saison des Épreuves). Monopole du Sceau obtenu en l'an Sillage 220 via un concours technique (alliage de fer noir et de soufre cristallin rendant la marque indélébile sans nécroser la peau), contre engagement de production à prix coûtant (tenu).
 - Population : Ville (environ 3 200)
 - Région : Caldethor (caldera est)
 - Particularités : Forge-Temple de Caldethor, Halle des Sceaux, École des Maîtres-Marqueurs.
 
 ### Verre-Fondu — Ville
-*Cité du verre cérémoniel, bâtie autour d'une caldera dont le sol est tapissé d'éclats d'obsidienne polie depuis sept mille ans de travail. Marcher pieds nus à Verre-Fondu est interdit ; les enfants apprennent à porter des sandales avant de marcher.*
-**Histoire :** Verre-Fondu est la seule caldera dont la veine de magma a été *artificiellement* étendue par des canalisations creusées à la main au cours des Ères II et III — travail colossal, mené sans conscience claire de ce qu'il prouvait : qu'on pouvait, sous certaines conditions, déplacer le feu d'Eldoria. Cette implication doctrinale n'a jamais été commentée. Les canalisations existent. Elles fonctionnent.
+- Descripteur : cité du verre cérémoniel, bâtie autour d'une caldera au sol tapissé d'éclats d'obsidienne polie (marche pieds nus interdite). Seule caldera dont la veine de magma a été artificiellement étendue par des canalisations creusées à la main aux Ères II et III — démontrant qu'on pouvait, sous conditions, déplacer le feu d'Eldoria (implication doctrinale jamais commentée).
 - Population : Ville (environ 2 500)
 - Région : Verre-Fondu (caldera sud-ouest)
 - Particularités : Forge-Temple de Verre-Fondu, Halle des Lentilles, ateliers d'obsidienne pyrevanienne.
 
 ### Ashenor — Village
-*Village pauvre et humble au pied d'une caldera basse. Ashenor produit les cendres-amendes utilisées dans tous les rites pyrevaniens et dans une bonne moitié des Forge-Temples cendariennes-royaume. On y vit dans une fine couche de cendre permanente — les enfants jouent dedans, les paysans la balayent, les voyageurs la gardent dans leurs bottes pendant des semaines.*
-**Histoire :** Ashenor doit son nom à un mot ancien signifiant *« là où la cendre s'accumule »*. Le village a longtemps été suspecté d'abriter des Délies — la pauvreté du Forge-Temple, l'éloignement, l'abondance de cendre froide en font un point de fuite naturel. Plusieurs enquêtes y ont été menées par Cinderhold. Aucune n'a abouti à des sanctions massives. Le Maître d'Ashenor, génération après génération, déploie un art consommé de la confusion administrative.
+- Descripteur : village pauvre et humble au pied d'une caldera basse, vivant dans une fine couche de cendre permanente ; produit les cendres-amendes de tous les rites pyrevaniens et d'une bonne moitié des Forge-Temples cendariennes-royaume. Nom issu d'un mot ancien signifiant *« là où la cendre s'accumule »*. Longtemps suspecté d'abriter des Délies (plusieurs enquêtes de Cinderhold, sans sanctions massives).
 - Population : Village (environ 1 200)
 - Région : Ashenor (caldera sud)
 - Particularités : Forge-Temple d'Ashenor, point de fuite tacite vers Arkhen, copie partielle du *Discours de la Cendre Patiente* dans le tablier d'un forgeron sans appartenance.
 
 ### Cinderhold — Ville
-*Cité disciplinaire, cité des morts. Cinderhold produit les bûchers cérémoniels et les outils funèbres pour l'ensemble de la Cendara. Atmosphère grave, sobre, presque sévère. Les funérailles royales d'Histoire passées par Cinderhold ont marqué la ville — chaque grand mort cendarien a sa chapelle.*
-**Histoire :** Cinderhold a tenu, depuis la fondation, le rôle de *bras disciplinaire* du Conseil des Sept Feux. Cette spécialisation ingrate a forgé une culture rigoriste, parfois oppressante. Le Maître actuel, Karthen IV, est le plus actif des sept dans la chasse aux Délies.
+- Descripteur : cité disciplinaire et funéraire, à l'atmosphère grave et sévère ; produit les bûchers cérémoniels et outils funèbres de toute la Cendara (chapelle pour chaque grand mort cendarien). Bras disciplinaire du Conseil des Sept Feux depuis la fondation, d'où une culture rigoriste. Maître actuel : **Karthen IV**, le plus actif des sept dans la chasse aux Délies.
 - Population : Ville (environ 3 800)
 - Région : Cinderhold (caldera sud-est)
 - Particularités : Forge-Temple de Cinderhold, Halle des Bûchers, résidence officielle de la Voix Veynara.
 
 ### Suie-Haute — Ville portuaire
-*Unique port pyrevanien, sur la côte nord-ouest. Suie-Haute est battue par les vents salés, perpétuellement enveloppée dans une brume sulfureuse qui descend du Détroit de Suie. La cité sert de point de départ pour les rares pèlerinages vers Arkhen et Ilnara.*
-**Histoire :** Suie-Haute n'était qu'un mouillage anonyme jusqu'à l'an Sillage 180, où le Conseil des Sept Feux a décidé d'y construire un port pour ne plus dépendre de Diamoris (cendarien-royaume) pour les liaisons maritimes religieuses. Le port a été creusé en vingt ans, à la pioche, dans le basalte. Les chantiers navals locaux construisent une variante simplifiée des navires à double coque thyronisiens.
+- Descripteur : unique port pyrevanien (côte nord-ouest), battu par les vents salés et la brume sulfureuse du Détroit de Suie ; point de départ des rares pèlerinages vers Arkhen et Ilnara. Construit à partir de l'an Sillage 180 sur décision du Conseil des Sept Feux pour ne plus dépendre de Diamoris (cendarien-royaume) ; port creusé en vingt ans à la pioche dans le basalte. Chantiers navals produisant une variante simplifiée des navires à double coque thyronisiens.
 - Population : Ville (environ 1 800)
 - Région : Pyrevane-Mère (côte nord-ouest)
 - Particularités : Port maritime, chantiers navals, Maison du Médiateur Maritime arkhenien (poste vacant six mois sur douze).
 
 ### Vethros — Village
-*Village agricole sur les pentes basses de Verre-Fondu, spécialisé dans la culture du blé noir et de l'orge de cendre. Le pain de Vethros est dur, dense, mangé avec du fromage de chèvre volcanique.*
-**Histoire :** Vethros a été fondée par des paysans qui refusaient les Forge-Liturgies maximalistes — ils acceptaient l'Ignis, mais voulaient pouvoir cultiver sans incanter à chaque coup de pioche. Un compromis a été trouvé, en l'an Sillage 90, avec le Maître de Verre-Fondu de l'époque : Vethros récite les Forge-Liturgies *en masse, à l'aube*, pour la journée entière. Cela suffit. C'est une exception dans la nation.
+- Descripteur : village agricole sur les pentes basses de Verre-Fondu ; culture du blé noir et de l'orge de cendre, pain dur et dense mangé avec du fromage de chèvre volcanique. Fondé par des paysans refusant les Forge-Liturgies maximalistes ; compromis trouvé en l'an Sillage 90 avec le Maître de Verre-Fondu (récitation des Forge-Liturgies en masse à l'aube pour la journée entière) — exception dans la nation.
 - Population : Village (environ 600)
 - Région : Verre-Fondu (caldera sud-ouest)
 
 ### Karendis — Village
-*Hameau monastique sur les hauteurs de Pyrevane-Mère, peuplé d'Ignitari retirés et de quelques laïcs qui vivent à leur service. Lieu de retraite traditionnel pour les Maîtres de Pyrevane-Mère qui veulent prendre du recul sans démissionner.*
-**Histoire :** Karendis-Village porte le nom du premier Karendis (Khalor, dit Karendis I, auteur de la Lecture de Miséricorde post-Arrachement). Aucun monument explicite — juste une pierre au pied du sentier d'accès, gravée d'un seul mot : *Karendis*.
+- Descripteur : hameau monastique sur les hauteurs de Pyrevane-Mère, peuplé d'Ignitari retirés et de quelques laïcs à leur service ; lieu de retraite traditionnel des Maîtres de Pyrevane-Mère sans démission. Porte le nom du premier Karendis (Khalor, dit Karendis I, auteur de la Lecture de Miséricorde post-Arrachement) ; pierre au pied du sentier d'accès gravée du seul mot *Karendis*.
 - Population : Village (environ 200)
 - Région : Pyrevane-Mère (hauteurs)
 
 ### Tessarin — Hameau
-*Petit hameau de douze familles sur la pente externe de Mosrack, qui n'apparaît dans aucun registre fiscal. Officiellement, le hameau n'existe pas. Pratiquement, il est habité depuis trois générations par des descendants de forgerons sans Sceau, qui pratiquent la **forge silencieuse** — sans incanter — et qui sont, à un degré ou un autre, des Délies de la Flamme.*
-**Histoire :** Le hameau ne porte pas son nom officiellement — il est désigné par les habitants des villages voisins comme *« le hameau »*, sans plus. Le surnom *Tessarin* (qui ferait référence à Tessar Veynd) circule à voix très basse parmi les Délies d'Arkhen. Aucun Pyrevanien orthodoxe n'utilise ce nom. Le Maître Vethrim VI de Mosrack sait que le hameau existe ; il choisit de ne pas le voir. Cette cécité est *politique*, pas naïve.
+- Descripteur : hameau de douze familles sur la pente externe de Mosrack, absent de tout registre fiscal (officiellement inexistant). Habité depuis trois générations par des descendants de forgerons sans Sceau pratiquant la **forge silencieuse** (sans incanter) ; tous Délies de la Flamme à divers degrés. Surnom *Tessarin* (référence à Tessar Veynd) circulant à voix très basse parmi les Délies d'Arkhen, jamais utilisé par les Pyrevaniens orthodoxes. Le Maître Vethrim VI de Mosrack connaît son existence et choisit de l'ignorer (cécité politique).
 - Population : Hameau (douze familles, environ 50 personnes)
 - Région : Mosrack (pente externe)
 
 ### Kerthos — Village
-*Village minier de la frontière utophorienne, exploitation de fer noir. Population mixte (pyrevaniens et cendariens-royaume), source de litiges fiscaux récurrents.*
-**Histoire :** Kerthos a changé de souveraineté quatre fois en deux siècles, chaque fois sur arbitrage du Conseil des Sept Feux et de la Cour de Brumaris. La dernière décision (l'an 232) a tranché en faveur de Pyrevane, mais Cendara-Royaume continue d'y prélever des taxes informelles via les Flammarques.
+- Descripteur : village minier de la frontière utophorienne, exploitation de fer noir ; population mixte (pyrevaniens et cendariens-royaume), source de litiges fiscaux récurrents. A changé de souveraineté quatre fois en deux siècles (arbitrages du Conseil des Sept Feux et de la Cour de Brumaris) ; dernière décision en l'an 232 en faveur de Pyrevane, mais Cendara-Royaume y prélève toujours des taxes informelles via les Flammarques.
 - Population : Village (environ 800)
 - Région : Plateaux Utophora-Ouest
 
@@ -242,12 +246,12 @@ Côte nord-ouest battue par les vents, port unique de **Suie-Haute** (cf. *Ville
 
 ## Secrets et intrigues
 
-- **La copie complète du *Discours de la Cendre Patiente*** est conservée à Mosrack, dans le tablier d'un forgeron sans appartenance dont la lignée a transmis le rôle de *gardien* depuis l'an Sillage 138. Karendis IX en possède une copie partielle dans son tiroir. Le Maître Vethrim VI de Mosrack en connaît l'emplacement exact mais n'en a jamais tenu copie. Quatre Délies arkheniens en ont des extraits manuscrits. Aucune édition n'a jamais été faite. Le texte ne sera probablement pas perdu ; mais il ne sera pas non plus publié dans le siècle qui vient.
+- **Copie complète du *Discours de la Cendre Patiente*** : conservée à Mosrack, dans le tablier d'un forgeron sans appartenance dont la lignée transmet le rôle de *gardien* depuis l'an Sillage 138. Karendis IX en détient une copie partielle ; le Maître Vethrim VI de Mosrack en connaît l'emplacement exact sans en tenir copie ; quatre Délies arkheniens en ont des extraits manuscrits. Aucune édition jamais réalisée ; texte non publié mais non perdu.
 
-- **La troisième Voix sous les Cendres**, retirée à Mosrack, est connue d'à peine vingt personnes. Elle est âgée d'environ soixante ans. Elle est femme. Elle a fait sa descente en l'an 211, sept jours, et n'en a jamais parlé publiquement. Ses écrits — quelques pages, qui circulent à voix très basse — élargissent le *Discours de la Cendre Patiente* dans une direction encore plus radicale : elle suggère que la pulsation du Mont *n'a peut-être jamais signifié quoi que ce soit*, que la lecture même est une projection humaine, et que la Lecture de Miséricorde de Karendis I est, à la rigueur, une invention nécessaire mais infondée. Ce serait, si c'était dit publiquement, la fin de la doctrine. Personne ne le dira publiquement. Personne. Et pourtant le texte existe.
+- **La troisième Voix sous les Cendres** : retirée à Mosrack, connue d'à peine vingt personnes. Femme, environ soixante ans ; descente de sept jours en l'an 211, jamais évoquée publiquement. Ses écrits (quelques pages, circulant à voix très basse) radicalisent le *Discours de la Cendre Patiente* : la pulsation du Mont n'aurait peut-être jamais rien signifié, la lecture serait une projection humaine, et la Lecture de Miséricorde de Karendis I une invention nécessaire mais infondée — thèse qui, dite publiquement, mettrait fin à la doctrine.
 
-- **Les Sept Calderas pulsent moins fort**. Les Vigilants de chacune des sept Forge-Temples ont noté, indépendamment, sur les vingt dernières années, une légère atténuation des pulsations dans leurs cratères respectifs. Aucun Vigilant n'a osé compiler ces relevés à l'échelle continentale. Le Conseil des Sept Feux n'a pas demandé. Si les relevés étaient compilés, la dérive serait écrasante (équivalent à la dérive 41→46 secondes du Mont central). C'est cette **non-compilation** qui maintient la doctrine.
+- **Atténuation des pulsations des Sept Calderas** : les Vigilants des sept Forge-Temples ont noté indépendamment, sur les vingt dernières années, une légère baisse des pulsations dans leurs cratères. Aucun n'a compilé ces relevés à l'échelle continentale ; le Conseil des Sept Feux ne l'a pas demandé. Une compilation révélerait une dérive écrasante (équivalente à la dérive 41→46 secondes du Mont central). Cette **non-compilation** maintient la doctrine.
 
-- **Les Sans-Forge politisés**. Une frange minoritaire de Sans-Forge à Pyrevane-Mère et Mosrack — environ trois cents personnes au total — s'organise discrètement depuis dix ans. Ils ne sont pas Délies (ils ne portent pas la marque), mais ils correspondent avec eux. Leur revendication : la suppression de l'Épreuve du Feu et son remplacement par un apprentissage non rituel. Le Conseil des Sept Feux les ignore officiellement ; pratiquement, leurs réunions sont surveillées par des agents de Cinderhold.
+- **Les Sans-Forge politisés** : frange minoritaire (environ trois cents personnes) à Pyrevane-Mère et Mosrack, organisée discrètement depuis dix ans. Non Délies (ils ne portent pas la marque) mais en correspondance avec eux. Revendication : suppression de l'Épreuve du Feu et remplacement par un apprentissage non rituel. Ignorés officiellement par le Conseil ; réunions surveillées par des agents de Cinderhold.
 
-- **Le hameau de Tessarin**. Officiellement non répertorié, douze familles, forge silencieuse depuis trois générations. Le Maître Vethrim VI de Mosrack le sait. Le Maître Karthen IV de Cinderhold le sait également, mais ne sait pas que Vethrim sait. Si Cinderhold décidait de mener un raid disciplinaire, Mosrack aurait besoin d'être prévenue. La chaîne de transmission existe — elle passe par un balayeur de Mosrack qui voyage chaque trimestre à Pyrevane-Mère. Cette chaîne est l'une des fragilités les plus quotidiennes du paysage politique pyrevanien.
+- **Le hameau de Tessarin** : officiellement non répertorié, douze familles, forge silencieuse depuis trois générations. Connu du Maître Vethrim VI de Mosrack et du Maître Karthen IV de Cinderhold — ce dernier ignorant que Vethrim sait. En cas de raid disciplinaire de Cinderhold, Mosrack devrait être prévenue ; la chaîne d'alerte passe par un balayeur de Mosrack voyageant chaque trimestre à Pyrevane-Mère — l'une des fragilités les plus quotidiennes du paysage politique pyrevanien.

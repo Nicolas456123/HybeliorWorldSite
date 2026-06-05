@@ -2,24 +2,37 @@
 tags: [lore, pays, cestra, continent]
 type: lore
 status: drafted
-last_review: 2026-05-06
+last_review: 2026-06-05
 needs_review_for: []
 ---
 # Cestra — Le Bastion du Nord
 
 ## Vue d'ensemble
 
-Cestra est un continent que le monde a renoncé à conquérir. Vaste tundra glacée, glaciers millénaires dont la glace a pris une teinte bleue-noire, montagnes de givre quasiment infranchissables — et, selon les rares récits de retour, quelque chose d'autre sous la glace, dont la nature varie d'un témoignage à l'autre. Plusieurs expéditions ont tenté de cartographier l'intérieur du continent. Les chroniques notent qu'aucune n'est revenue complète.
+| | |
+|---|---|
+| **Type** | Continent polaire (tundra glacée, glaciers millénaires, montagnes de givre) |
+| **Climat** | Hivers de 8-9 mois au sud-ouest, 10-11 plus au nord ; quasi-inaccessible |
+| **Glaciers** | Glace de teinte bleue-noire ; calotte permanente au centre |
+| **Colonie stable** | 1 seule : [[Noravia]] (crique sud-ouest), quelques centaines d'habitants |
+| **Reste du continent** | [[No Man's Land Cestra]] — sans gouvernement, culte organisé ni cartographie continue |
+| **Gouvernement central** | Aucun ; aucun siège diplomatique dans l'Êra VII |
+| **Présences signalées** | Gardiens de Givre, Tempêtes Vivantes, Froid Ancien, peuple disparu (Anciens du Givre) |
 
-À l'échelle politique, Cestra est presque vide. Une seule colonie stable y existe — [[Noravia]], en bordure sud-ouest, qui ne revendique rien au-delà de sa crique. Le reste — désigné par toutes les chancelleries du monde sous le nom de [[No Man's Land Cestra]] — est sans gouvernement, sans culte organisé, sans cartographie continue. Les marins qui longent ses côtes parlent volontiers d'un continent « qui regarde » — formule que les théologiens reçoivent comme une projection humaine sur un paysage extrême, et que les Chamanes des Brumes lisent comme la trace d'une présence ancienne.
-
-La singularité de Cestra dans la géopolitique d'Hybélior n'est pas son extrémité climatique : d'autres régions sont aussi froides. C'est qu'elle est **le seul continent que les nations ont collectivement abandonné**. Les Empires post-Arrachement ne l'ont pas conquise. Les religions de l'Êra VII ne l'ont pas incorporée. Les Tribunaux de Lumasar n'y ont pas de juridiction et ne s'en plaignent pas. Cette absence concertée n'est inscrite dans aucun traité — elle s'est imposée par érosion : génération après génération, les chancelleries ont rayé Cestra de leurs ambitions, sans débat formel.
+Faits structurants :
+- **Seul continent collectivement abandonné** par les nations : les Empires post-Arrachement ne l'ont pas conquis, les religions de l'Êra VII ne l'ont pas incorporé, les Tribunaux de [[Lumasar]] n'y ont aucune juridiction. Abandon non inscrit dans un traité — résultat d'une érosion d'ambitions sur plusieurs générations, sans débat formel.
+- Plusieurs expéditions ont tenté de cartographier l'intérieur ; aucune n'est revenue complète (chroniques).
+- Côtes seules zones théoriquement accessibles ; tempêtes imprévisibles, courants traîtres.
+- Récits invérifiés de marins : formes géantes se déplaçant sous la glace.
 
 ---
 
 ## Géographie
 
-Le continent est dominé par une **calotte de glace permanente** au centre, entourée de tundras balayées par des vents d'une violence extrême. Les côtes sont les seules zones théoriquement accessibles, mais les tempêtes y sont imprévisibles et les courants traîtres. Plusieurs marins au long cours ont rapporté avoir aperçu des formes géantes se déplaçant sous la glace ; ces récits restent invérifiés, leurs auteurs étant rarement disposés à y retourner.
+**Structure d'ensemble :**
+- Calotte de glace permanente au centre.
+- Tundras périphériques balayées par des vents extrêmes.
+- Côtes = seules zones théoriquement accessibles.
 
 ### Régions reconnues (cartographie partielle)
 
@@ -34,29 +47,53 @@ Le continent est dominé par une **calotte de glace permanente** au centre, ento
 
 ### Climat et phénomènes
 
-Les hivers durent de huit à neuf mois sur la côte sud-ouest, dix à onze à mesure qu'on remonte. La lumière hivernale est rasante, les jours courts ; la lumière estivale, blanche, ne laisse pas d'ombres — phénomène souvent noté par les voyageurs sans qu'aucune lecture astronomique n'en rende compte. Les tempêtes — appelées **Tempêtes Vivantes** par les Chamanes des Brumes, **fronts erratiques** par les météorologistes de Lumasar — présentent des comportements que les chroniqueurs jugent atypiques : déplacements contre le vent dominant, intensification autour des campements humains, retraits soudains avant des entrées de territoire que les survivants identifient seulement après coup. Les Chamanes les lisent comme habitées par des esprits ; les sceptiques y voient des effets topographiques mal compris. Aucune expédition scientifique n'a tenu assez longtemps pour trancher.
+**Durée et lumière :**
+- Hivers : 8-9 mois sur la côte sud-ouest, 10-11 à mesure qu'on remonte vers le nord.
+- Lumière hivernale rasante, jours courts.
+- Lumière estivale blanche, sans ombres — phénomène noté par les voyageurs, sans lecture astronomique connue.
 
-Le **Froid Ancien** — distingué par les explorateurs du froid hivernal ordinaire — apparaît au-delà de certaines altitudes ou profondeurs. Il traverse les fourrures les plus épaisses, éteint les feux magiques, gèle le sang en quelques minutes. Aucune lecture théologique ne s'est imposée : Ordo Caelum y a parfois lu une marque de Stellaris, Foedus Animae une frontière du Pacte, certains Chamanes une présence qui *refuse*. Aucun consensus, et la rareté des témoignages survivants empêche toute synthèse.
+**Tempêtes Vivantes** (terme des Chamanes des Brumes) / **fronts erratiques** (terme des météorologistes de Lumasar) — comportements jugés atypiques par les chroniqueurs :
+- déplacements contre le vent dominant ;
+- intensification autour des campements humains ;
+- retraits soudains avant des entrées de territoire, identifiées seulement après coup par les survivants.
+- Lectures : Chamanes = tempêtes habitées par des esprits ; sceptiques = effets topographiques mal compris. Aucune expédition scientifique n'a duré assez pour trancher.
+
+**Froid Ancien** (distingué du froid hivernal ordinaire par les explorateurs) :
+- apparaît au-delà de certaines altitudes ou profondeurs ;
+- traverse les fourrures les plus épaisses, éteint les feux magiques, gèle le sang en quelques minutes ;
+- lectures théologiques non tranchées : Ordo Caelum y a parfois lu une marque de Stellaris ; Foedus Animae une frontière du Pacte ; certains Chamanes une présence qui *refuse*. Aucun consensus (rareté des témoignages survivants).
+
+**Hydrographie / glaciologie :** glace des glaciers de teinte bleue-noire ; calotte centrale permanente.
 
 ---
 
 ## Peuples et présences
 
 ### Les Noviens
-
-Quelques centaines d'habitants d'une bande côtière, descendants de fondateurs torkamites et skaldoriens venus se mettre à l'abri d'une crise politique sur leurs continents d'origine vers ~8 100 ap.A. Ils ne se présentent pas comme un peuple cestrien — ils se présentent comme « ceux qui restent ». Voir [[Noravia]].
+- Quelques centaines d'habitants d'une bande côtière (sud-ouest).
+- Descendants de fondateurs **torkamites** et **skaldoriens** venus s'abriter d'une crise politique sur leurs continents d'origine vers **~8 100 ap.A.**.
+- Ne se présentent pas comme un peuple cestrien, mais comme « ceux qui restent ».
+- Voir [[Noravia]].
 
 ### Les Chamanes des Brumes
-
-Mystiques itinérants venus de divers continents (côtes alkaranes, périphéries d'Onara, hauts plateaux de Vytharia) qui traversent Cestra pour des raisons qu'ils ne formulent pas publiquement. Ils décrivent leur pratique comme une communication avec les esprits de glace et de vent par rituels de transe ; certains affirment pouvoir négocier un passage temporaire à travers les territoires des Gardiens. Leurs récits sont fragmentaires et parfois contradictoires — ce sont néanmoins les seuls à avoir, à plusieurs reprises, pénétré le continent et à en être revenus. Aucun ordre ne les coiffe ; aucun Chamane n'apprend d'un autre une méthode unique. La transmission, quand elle a lieu, est de personne à personne — un ancien à un débutant, sans école ni doctrine commune.
+- Mystiques itinérants venus de divers continents (côtes alkaranes, périphéries d'Onara, hauts plateaux de Vytharia).
+- Traversent Cestra pour des raisons non formulées publiquement.
+- Pratique décrite comme communication avec les esprits de glace et de vent par rituels de transe ; certains affirment pouvoir négocier un passage temporaire à travers les territoires des Gardiens.
+- Récits fragmentaires et parfois contradictoires ; seuls à avoir, à plusieurs reprises, pénétré le continent et à en revenir.
+- Aucun ordre ne les coiffe ; pas de méthode unique. Transmission de personne à personne (un ancien à un débutant), sans école ni doctrine commune.
 
 ### Les Anciens du Givre (peuple disparu)
-
-Plusieurs fragments d'artefacts — morceaux de pierre gravée, traces de structures sous la glace — suggèrent qu'un **peuple humain ou apparenté** a habité Cestra à une période que les chronologies haldriennes ne couvrent pas. Les érudits qui ont examiné les fragments se divisent : certains les rapportent à une **civilisation pré-Arrachement** disparue dans le Cardinal ; d'autres y voient des **traces antérieures à toute mémoire écrite**, possiblement contemporaines des Cités des Anciens. Aucune lecture n'est tranchée. Ce qui est certain : ce peuple — s'il a existé — ne fait pas partie des nations connues, ne figure dans aucun panthéon religieux d'Hybélior, et n'a laissé que des **runes que personne ne lit**. Les Chamanes des Brumes les appellent, dans certains récits, *« Ceux qui sont restés »* — formule qui peut désigner les Gardiens de Givre, ou les défunts du peuple disparu, ou les deux ; ils ne précisent pas.
+- Fragments d'artefacts (pierre gravée, structures sous la glace) suggérant un **peuple humain ou apparenté** ayant habité Cestra à une période non couverte par les chronologies haldriennes.
+- Érudits divisés : civilisation **pré-Arrachement** disparue dans le Cardinal / **traces antérieures à toute mémoire écrite**, possiblement contemporaines des Cités des Anciens. Aucune lecture tranchée.
+- Certitudes : ce peuple ne fait pas partie des nations connues, ne figure dans aucun panthéon religieux d'Hybélior, n'a laissé que des **runes que personne ne lit**.
+- Les Chamanes des Brumes les nomment parfois *« Ceux qui sont restés »* — formule pouvant désigner les Gardiens de Givre, les défunts du peuple disparu, ou les deux (non précisé).
 
 ### Les Gardiens de Givre
-
-Figures de glace massive aux silhouettes vaguement humanoïdes, hautes de trois à six mètres, que les Chamanes des Brumes interprètent comme des **présences anciennes incarnées**. Selon les rapports d'explorateurs, elles ne patrouillent pas — elles restent immobiles, indiscernables des formations glaciaires qui les entourent, jusqu'à ce qu'un intrus s'approche trop d'un lieu qu'elles paraissent protéger. Alors elles s'animent avec une lenteur que les survivants décrivent comme terrifiante. Ce qu'elles gardent exactement n'a pas été établi par les chroniques — les rares récits qui en parlent sont contradictoires, et aucune expédition n'a ramené de témoignage convergent. Voir [[No Man's Land Cestra]].
+- Figures de glace massive, silhouettes vaguement humanoïdes, hautes de **trois à six mètres**.
+- Interprétés par les Chamanes des Brumes comme des **présences anciennes incarnées**.
+- Ne patrouillent pas : restent immobiles, indiscernables des formations glaciaires, jusqu'à ce qu'un intrus approche trop d'un lieu qu'elles paraissent protéger ; s'animent alors avec une lenteur décrite comme terrifiante.
+- Ce qu'elles gardent n'a pas été établi (récits contradictoires, aucun témoignage convergent).
+- Voir [[No Man's Land Cestra]].
 
 ---
 
@@ -69,49 +106,74 @@ Figures de glace massive aux silhouettes vaguement humanoïdes, hautes de trois 
 | **Population humaine** | Quelques centaines à Noravia ; transit ponctuel des Chamanes ; nul ailleurs |
 | **Accès** | Maritime saisonnier (sud-ouest) ; déconseillé partout ailleurs |
 
-Cestra n'a **aucun siège** dans les enceintes diplomatiques de l'Êra VII. Aucun traité ne la mentionne comme partie ; aucun ne la mentionne comme territoire à protéger. Cette absence est *systémique*, pas accidentelle : les chancelleries n'ont jamais formulé de doctrine d'abstention, elles ont simplement, par érosion, cessé de proposer Cestra comme objet d'agenda. Quelques juristes lumasariens en parlent occasionnellement comme d'un *vide juridique honteux* ; aucune motion n'a jamais été déposée pour combler ce vide.
+Faits :
+- **Aucun siège** dans les enceintes diplomatiques de l'Êra VII ; aucun traité ne mentionne Cestra comme partie ni comme territoire à protéger.
+- Absence **systémique** et non accidentelle : pas de doctrine d'abstention formulée ; par érosion, les chancelleries ont cessé de proposer Cestra comme objet d'agenda.
+- Quelques juristes lumasariens en parlent occasionnellement comme d'un *vide juridique honteux* ; aucune motion n'a jamais été déposée pour le combler.
 
-### Les pressions répétées de Noravia sur l'extérieur
-
-Le Conseil de Maintien de Noravia reçoit chaque génération des **propositions** de chancelleries voisines — notamment d'Endora et d'Alkaran — qui souhaitent obtenir des permis d'exploration plus larges, des concessions minières prolongées, ou (plus rarement) une reconnaissance formelle de Noravia comme protectorat. Le Conseil refuse à chaque fois. Les refus ne sont pas argumentés doctrinalement ; ils sont formulés comme des refus de *capacité* : « nous ne pouvons pas accueillir ce que vous proposez ». La distinction est, selon les chroniqueurs noviens, importante : **Noravia ne se présente pas comme une colonie de vertu, mais comme une colonie qui a appris ses limites**.
+### Pressions extérieures sur Noravia
+- Le **Conseil de Maintien** de Noravia reçoit chaque génération des propositions de chancelleries voisines — notamment d'**Endora** et d'**Alkaran** : permis d'exploration élargis, concessions minières prolongées, ou (plus rarement) reconnaissance formelle de Noravia comme protectorat.
+- Le Conseil refuse à chaque fois ; refus non argumentés doctrinalement mais formulés comme refus de *capacité* (« nous ne pouvons pas accueillir ce que vous proposez »).
+- Position novienne : non « colonie de vertu » mais « colonie qui a appris ses limites ».
 
 ---
 
 ## Religion
 
-Aucune religion organisée n'est implantée durablement à Cestra. Noravia compte une majorité de **non-Liés** pratiques, une minorité **Foedus Animae** héritée des fondateurs torkamites (veillées d'âmes ancestrales aux solstices), et quelques sympathisants de **Vael'Kurash** qui lisent le climat extrême comme une **présence à laquelle s'accorder** plutôt qu'un adversaire à vaincre.
+Aucune religion organisée n'est implantée durablement à Cestra.
 
-Les Chamanes des Brumes pratiquent à titre individuel — leur tradition n'est pas affiliée à un culte connu d'Hybélior. Quelques érudits **caelorians** ont, dans le passé, tenté d'établir une mission permanente à Noravia ; toutes ont été dissoutes au bout de quelques années, faute d'audience locale. Le seul érudit caeloria connu durablement présent à Noravia aujourd'hui est **Sethiran**, dont la fonction n'est plus prosélyte mais archivistique : il conserve des chemises documentaires sur les voyageurs de passage, sans en faire commerce, sans en demander de contrepartie. Il transmet une chemise à qui en pose la question juste — par exemple, à un cartographe qui chercherait la trace de son père.
+**Noravia :**
+- majorité de **non-Liés** pratiques ;
+- minorité **Foedus Animae** héritée des fondateurs torkamites (veillées d'âmes ancestrales aux solstices) ;
+- quelques sympathisants de **Vael'Kurash** lisant le climat extrême comme une **présence à laquelle s'accorder** (plutôt qu'un adversaire à vaincre).
 
-Les théologiens des continents voisins ont produit plusieurs lectures concurrentes du **Glacier Central** (résidu d'Êra ancienne pour Rota Mundi, présence non-classifiée pour Vael'Kurash, simple effet de relief pour les sceptiques, frontière du Pacte pour Foedus Animae) sans qu'aucune ne s'impose. La pluralité non-tranchée des lectures est, à Cestra plus qu'ailleurs, **constitutive du paysage**.
+**Chamanes des Brumes :** pratique individuelle ; tradition non affiliée à un culte connu d'Hybélior.
+
+**Caelorians :**
+- missions permanentes tentées par le passé à Noravia, toutes dissoutes au bout de quelques années (faute d'audience locale) ;
+- seul érudit caeloria durablement présent aujourd'hui : **Sethiran**, à fonction archivistique (et non plus prosélyte) — conserve des chemises documentaires sur les voyageurs de passage, sans commerce ni contrepartie ; transmet une chemise à qui pose la question juste (ex. un cartographe cherchant la trace de son père).
+
+**Lectures concurrentes du Glacier Central** (théologiens des continents voisins, aucune dominante) :
+- Rota Mundi — résidu d'Êra ancienne ;
+- Vael'Kurash — présence non-classifiée ;
+- sceptiques — simple effet de relief ;
+- Foedus Animae — frontière du Pacte.
+
+La pluralité non-tranchée des lectures est, à Cestra, constitutive du paysage.
 
 ---
 
 ## Histoire
 
 ### Avant les chroniques
-
-Cestra a, semble-t-il, abrité un peuple — *Les Anciens du Givre* — dont la trace n'apparaît que par fragments. Les Pierres Runiques de Lune, les Sanctuaires Enfouis (rumeurs), les inscriptions sur les rochers polaires sont, selon les érudits qui s'y sont risqués, les vestiges d'une culture humaine ou parahumaine qui n'a pas survécu. À quelle Êra, dans quelles circonstances : aucune réponse ne fait consensus. Quelques fragments rapportés à Lumasar et à Astravia ont été classés comme *non datables par les méthodes courantes*.
+- Présence présumée des **Anciens du Givre**, attestée par fragments : Pierres Runiques de Lune, Sanctuaires Enfouis (rumeurs), inscriptions sur rochers polaires — vestiges d'une culture humaine ou parahumaine non survivante.
+- Êra et circonstances : aucun consensus.
+- Fragments rapportés à **Lumasar** et à **Astravia** classés *non datables par les méthodes courantes*.
 
 ### La fondation de Noravia (~8 100 ap.A)
-
-Un petit groupe d'expatriés — quelques familles torkamites, deux Foedus Animae itinérants, un capitaine skaldorien — choisit Cestra par calcul pessimiste : un endroit où personne ne viendrait les déranger. Ils prévoyaient d'y mourir tranquilles, et ils sont restés. Voir [[Noravia]] et [[../../Histoires/Cestra/Noravia|Histoires/Cestra/Noravia]].
+- Petit groupe d'expatriés : quelques familles torkamites, deux Foedus Animae itinérants, un capitaine skaldorien.
+- Cestra choisie par calcul pessimiste (un endroit où personne ne viendrait les déranger) ; prévoyaient d'y mourir tranquilles, sont restés.
+- Voir [[Noravia]] et [[../../Histoires/Cestra/Noravia|Histoires/Cestra/Noravia]].
 
 ### La Guerre du Sable (chronologie incertaine, antérieure à l'Êra VII)
-
-Conflit obscur dont les archives sont fragmentaires. Plusieurs factions venues de continents différents (marchands d'Endora, guerriers d'Alkaran, mages de Kytheris) convergèrent vers Cestra avec l'ambition d'exploiter des « sables du temps » — minerais inconnus, cristaux aux propriétés magiques inexpliquées, artefacts d'une civilisation oubliée. La guerre fut une **attrition**, pas une bataille rangée. En l'espace de deux hivers, toutes les factions avaient été décimées ou avaient fui. Voir [[No Man's Land Cestra]].
+- Conflit obscur, archives fragmentaires.
+- Factions de continents différents : marchands d'Endora, guerriers d'Alkaran, mages de Kytheris — convergées vers Cestra pour exploiter les « sables du temps » (minerais inconnus, cristaux aux propriétés magiques inexpliquées, artefacts d'une civilisation oubliée).
+- Guerre d'**attrition**, pas de bataille rangée : en deux hivers, toutes les factions décimées ou en fuite.
+- Voir [[No Man's Land Cestra]].
 
 ### L'expédition Valkren (an ~7 980 ap.A — datation incertaine)
-
-Six membres, méthode rigoureuse, équipement supérieur à toutes les expéditions précédentes. Le journal retrouvé contient dix-sept feuillets ; le quinzième est illisible, le seizième répète soixante fois la même phrase, le dix-septième ne contient qu'un mot. Aucun corps n'a été retrouvé. Voir [[../../Histoires/Cestra/Cestra|Histoires/Cestra]] §*L'Expédition Valkren*.
+- Six membres, méthode rigoureuse, équipement supérieur aux expéditions précédentes.
+- Journal retrouvé : dix-sept feuillets ; le 15e illisible, le 16e répète soixante fois la même phrase, le 17e ne contient qu'un mot. Aucun corps retrouvé.
+- Voir [[../../Histoires/Cestra/Cestra|Histoires/Cestra]] §*L'Expédition Valkren*.
 
 ### Le passage des cartographes (Êra VII)
-
-À partir du IIIe siècle du Sillage, des cartographes individuels — pas des expéditions, des hommes seuls — sont signalés à Noravia. Ils viennent, ils achètent un permis temporaire, ils partent. Certains rentrent, beaucoup ne rentrent pas. Le Conseil de Maintien tient un registre minimal de leurs noms et de leurs dates de départ. Le registre ne sert à personne d'autre qu'au Conseil. Il y figure, parmi d'autres, le nom d'**Aldric Valthen** (an 220 du Sillage), qui partit vers le Glacier Central et dont la trace, après cette date, est ambiguë. Voir [[../../Histoires/Cestra/Noravia|Histoires/Cestra/Noravia]].
+- À partir du IIIe siècle du Sillage : cartographes individuels (hommes seuls, pas des expéditions) signalés à Noravia — viennent, achètent un permis temporaire, partent ; certains rentrent, beaucoup non.
+- Le Conseil de Maintien tient un registre minimal des noms et dates de départ, à usage interne seul.
+- Y figure **Aldric Valthen** (an 220 du Sillage), parti vers le Glacier Central, dont la trace après cette date est ambiguë.
+- Voir [[../../Histoires/Cestra/Noravia|Histoires/Cestra/Noravia]].
 
 ### Aujourd'hui
-
-Noravia maintient son équilibre. Les Chamanes des Brumes passent. Les Pierres Runiques de Lune s'allument à la pleine lune. Le Glacier Central, selon ceux qui ont la sensibilité de l'entendre, *respire toujours*.
+- Noravia maintient son équilibre ; les Chamanes des Brumes passent ; les Pierres Runiques de Lune s'allument à la pleine lune ; le Glacier Central « respire » toujours selon ceux qui ont la sensibilité de l'entendre.
 
 ---
 

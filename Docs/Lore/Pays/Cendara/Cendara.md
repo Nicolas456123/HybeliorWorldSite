@@ -1,8 +1,8 @@
-﻿---
+---
 tags: [lore, pays, cendara]
 type: nation
 status: canon
-last_review: 2026-05-06
+last_review: 2026-06-05
 needs_review_for: []
 ---
 # Cendara — L'Île de Feu et de Cendres
@@ -23,14 +23,12 @@ needs_review_for: []
 
 ## Gouvernement — La Monarchie Ésotérique
 
-Le pouvoir à Cendara est un mélange unique d'autorité royale et de savoir mystique :
+Autorité royale combinée au savoir mystique. Le savoir ésotérique (alchimie, pyromancie, lecture des cendres) est un critère de pouvoir aussi important que la naissance ou la richesse : un alchimiste né paysan peut s'élever au Conseil des Cendres ; un noble sans talent est méprisé.
 
-- **Le Roi-Pyromancien** règne par droit de sang ET de compétence. Chaque héritier doit prouver ses aptitudes en alchimie et en pyromancie avant de monter sur le trône. Un héritier sans talent est écarté au profit d'un frère, d'une sœur ou d'un cousin.
-- **Le Conseil des Cendres** (7 membres — un par région) est composé de maîtres-alchimistes et de pyromanciens qui conseillent le roi et administrent chaque région avec une autonomie considérable.
-- **Les Flammarques** sont des officiers royaux qui supervisent les forges, les mines et le commerce. Chacun porte une marque de brûlure rituelle sur la paume — signe de son serment au feu.
-- **L'Ordre des Calcinés** est une caste de prêtres-guerriers voués à l'Ignis Aeternum, qui gardent les lieux sacrés et servent de force militaire d'élite.
-
-La particularité du gouvernement cendarien est que le savoir ésotérique — alchimie, pyromancie, lecture des cendres — est un critère de pouvoir aussi important que la naissance ou la richesse. Un alchimiste brillant né paysan peut s'élever jusqu'au Conseil des Cendres. Un noble sans talent est méprisé.
+- **Le Roi-Pyromancien** — Règne par droit de sang ET de compétence. Chaque héritier doit prouver ses aptitudes en alchimie et en pyromancie avant de monter sur le trône ; un héritier sans talent est écarté au profit d'un frère, d'une sœur ou d'un cousin.
+- **Le Conseil des Cendres** — 7 membres (un par région), maîtres-alchimistes et pyromanciens. Conseillent le roi et administrent chaque région avec une autonomie considérable.
+- **Les Flammarques** — Officiers royaux supervisant forges, mines et commerce. Chacun porte une marque de brûlure rituelle sur la paume (serment au feu).
+- **L'Ordre des Calcinés** — Caste de prêtres-guerriers voués à l'Ignis Aeternum. Gardent les lieux sacrés ; force militaire d'élite.
 
 ---
 
@@ -38,21 +36,21 @@ La particularité du gouvernement cendarien est que le savoir ésotérique — a
 
 ### Ignis Aeternum — La Flamme Éternelle (religion officielle)
 
-Nulle part dans Hybelior l'Ignis Aeternum n'est pratiquée avec autant de ferveur qu'à Cendara. Pour les Cendariens, le feu n'est pas un symbole — c'est la substance même du divin. Le Mont Cendra est un autel vivant. Chaque éruption est une bénédiction. Chaque coulée de lave est une prière d'Eldoria.
+Pratiquée à Cendara avec plus de ferveur que partout ailleurs dans Hybelior. Le feu y est tenu pour la substance même du divin. Le Mont Cendra est un autel vivant : chaque éruption est une bénédiction, chaque coulée de lave une prière d'Eldoria.
 
 **Pratiques :**
-- **La Veillée des Flammes** : Chaque forge, chaque foyer, chaque temple entretient un feu sacré qui ne doit jamais s'éteindre. L'extinction d'un feu sacré est un présage de mort.
-- **La Crémation Volcanique** : Les morts les plus honorés sont portés jusqu'aux fissures de lave et jetés dans le magma. Leurs cendres montent avec les fumées et "rejoignent le souffle d'Eldoria". Les morts ordinaires sont brûlés sur des bûchers de bois noir.
-- **Les Épreuves du Feu** : Rite d'initiation où les prêtres marchent pieds nus sur des braises volcaniques. Les cicatrices de brûlures sont des marques de bénédiction — plus un prêtre est brûlé, plus il est respecté.
-- **La Lecture des Cendres** : Forme de divination où les prêtres interprètent les motifs laissés par les cendres volcaniques après une éruption. C'est ainsi qu'ils prédisent l'avenir et conseillent le roi.
+- **La Veillée des Flammes** — Chaque forge, foyer et temple entretient un feu sacré qui ne doit jamais s'éteindre. L'extinction d'un feu sacré est un présage de mort.
+- **La Crémation Volcanique** — Les morts les plus honorés sont jetés dans les fissures de lave ; leurs cendres "rejoignent le souffle d'Eldoria". Les morts ordinaires sont brûlés sur des bûchers de bois noir.
+- **Les Épreuves du Feu** — Rite d'initiation : les prêtres marchent pieds nus sur des braises volcaniques. Les cicatrices de brûlures sont des marques de bénédiction ; plus un prêtre est brûlé, plus il est respecté.
+- **La Lecture des Cendres** — Divination par interprétation des motifs laissés par les cendres volcaniques après une éruption ; sert à prédire l'avenir et conseiller le roi.
 
 ### Vael'Kurash — Le Culte des Esprits Anciens (religion secondaire)
 
-Pratiquée surtout sur l'île d'Ilnara, où les forêts tropicales denses abritent une vie foisonnante. Les habitants d'Ilnara vénèrent les esprits des arbres, des rivières et des créatures — en particulier les Phénix de Feu, considérés comme des incarnations vivantes du lien entre le feu et la nature.
+Pratiquée surtout sur l'île d'Ilnara (forêts tropicales denses). Vénération des esprits des arbres, des rivières et des créatures, en particulier les Phénix de Feu, considérés comme des incarnations vivantes du lien entre le feu et la nature.
 
 **Pratiques spécifiques à Cendara :**
-- **Les Offrandes aux Phénix** : Dépôts rituels de résine et de bois précieux dans les clairières où nichent les Phénix.
-- **Les Chants de Cendre et de Sève** : Cérémonies syncrétiques mêlant les rites du feu et les prières aux esprits de la forêt — uniques à Ilnara.
+- **Les Offrandes aux Phénix** — Dépôts rituels de résine et de bois précieux dans les clairières où nichent les Phénix.
+- **Les Chants de Cendre et de Sève** — Cérémonies syncrétiques mêlant rites du feu et prières aux esprits de la forêt ; uniques à Ilnara.
 
 ---
 
@@ -64,194 +62,162 @@ Pratiquée surtout sur l'île d'Ilnara, où les forêts tropicales denses abrite
 3. **Les Calcinés** — Prêtres-guerriers de l'Ignis Aeternum
 4. **Les Maîtres de Forge** — Artisans d'élite, forgerons du feu
 5. **Les Alchimistes** — Chercheurs, créateurs de potions et d'élixirs
-6. **Les Mineurs de Lave** — Ouvriers qui extraient les minerais dans les cavernes volcaniques, un métier mortel et respecté
-7. **Les Pêcheurs de Sable Noir** — Humbles mais essentiels, ils récoltent le sable volcanique utilisé dans l'alchimie et la forge
+6. **Les Mineurs de Lave** — Extraient les minerais dans les cavernes volcaniques ; métier mortel et respecté
+7. **Les Pêcheurs de Sable Noir** — Récoltent le sable volcanique utilisé en alchimie et en forge
 
-### La culture de la transformation
-Les Cendariens croient que rien n'est permanent et que tout peut être transformé. Cette philosophie, née de la vie avec un volcan actif, imprègne chaque aspect de leur culture. L'alchimie n'est pas qu'une science — c'est une philosophie de vie. Transformer le plomb en or est une métaphore de la transformation de soi.
-
-### Les Forgerons du Feu
-La forge cendarienne est unique au monde. Les forgerons travaillent directement dans les cavernes de lave, utilisant la chaleur du magma pour atteindre des températures que nulle forge artificielle ne peut reproduire. Les armes et objets qui en sortent sont d'une qualité légendaire — lames qui ne s'émoussent jamais, armures légères comme du tissu mais dures comme le diamant, cristaux qui conservent la chaleur pendant des mois.
-
-### Biais culturels
-
-Quelques traits, peu théorisés in-world, qui colorent la vie quotidienne d'un Cendarien-Royaume.
-
-- **L'attente comme métier.** À Cendara, *attendre* est une activité, pas une absence d'activité. On attend la prochaine éruption, le prochain signe, le prochain Réveil. Cette posture donne aux Cendariens une endurance remarquable — ils sont les meilleurs guetteurs, les meilleurs gardiens, les meilleurs surveillants de four. Ils sont aussi, ce qu'on dit moins volontiers, les pires conservateurs de promesses *non datées*. Un Cendarien à qui l'on dit *« on verra »* sans plus de précision part frustré : il lui faut un horizon. Donner une date à un Cendarien, même fausse, le calme.
-
-- **La précipitation rituelle.** Comme l'archipel peut être détruit à tout moment par le Mont, on n'attend pas pour célébrer. Les mariages se concluent en quinze jours, les naissances sont fêtées le soir même, les morts brûlés dans les vingt-quatre heures. Cette compression temporelle a une beauté — rien ne *traîne* à Cendara. Elle a aussi un coût : peu de choses sont *réfléchies* à Cendara. Le Royaume publie davantage de Forge-Liturgies qu'il n'en lit ; il signe davantage de traités qu'il n'en honore ; il forge davantage d'épées qu'il n'en utilise. Cette accumulation produit une richesse matérielle réelle et une mémoire administrative pauvre. *Nous ne notons pas ce que nous savons. Nous le frappons.*
-
-- **La prééminence du forgeron sur le scribe.** Un forgeron qui ne sait pas écrire est un Cendarien respecté. Un scribe qui ne sait pas frapper est un Cendarien suspect. Cette hiérarchie informelle vide les bureaux royaux de leur prestige et concentre la légitimité dans les ateliers. Conséquence pratique : la cour de Brumaris fonctionne mal en l'absence du Conseil des Cendres (qui est composé de forgerons-alchimistes, pas de juristes). La diplomatie cendarienne est connue pour être brutale, directe, peu raffinée — et terriblement efficace quand il s'agit de signer un contrat de fer pour livrer mille cinq cents lames à Pyrtara.
-
-- **La crémation comme fierté.** Honorer un mort, à Cendara, c'est le rendre à la flamme. Un cadavre enterré est un cadavre *qu'on n'a pas su rendre*. Cette idée — qui n'est pas formulée dans les sermons mais qui circule dans les façons de tenir un veuvage — produit, à long terme, une **disparition culturelle des morts**. Aucun cimetière sur l'île principale. Aucune tombe identifiable. Les Colonnes de Mémoire de Thaldor (cf. *Histoires*) sont la seule trace permanente, et elles sont chères, donc rares. Une famille pauvre n'a pas de Colonne. Trois générations après, les ancêtres ne sont plus que des cendres anonymes mêlées au sol des champs. Cela rend les Cendariens très peu attachés à la généalogie longue, et très attachés à la *présence* des vivants.
-
-- **La méfiance envers Arkhen.** À Brumaris, on parle d'Arkhen avec un mélange d'indulgence et de suspicion. Les Arkheniens sont *« trop calmes »*. Leurs forges *« ne chantent pas »*. Leurs Délies *« portent la cendre froide comme s'ils en étaient fiers »*. Cette méfiance n'est jamais hostilité — Arkhen est trop loin, trop pauvre, trop inutile pour être attaquée — mais elle est tenace. Un Cendarien-Royaume qui épouse une Arkhenienne soulève les sourcils. L'enfant du couple, à l'école royale, est moqué pour sa façon de saluer en s'inclinant *vers le bas*, alors que les Cendariens saluent *vers le haut*, vers le sommet du Mont.
-
-- **L'amitié avec Pyrevane, la cousine.** Les Cendariens-Royaume considèrent les Pyrevaniens comme des cousins théologiquement plus rigoureux et politiquement moins habiles. On les respecte. On ne les écoute pas toujours. On les invite à toutes les cérémonies royales. On glisse dans leur dos qu'ils prennent le rite trop au sérieux. Réciproquement, les Pyrevaniens trouvent les Cendariens-Royaume théologiquement *paresseux* — ils prient sans frapper, ils frappent sans liturgie, ils confondent la richesse matérielle avec la fidélité. Aucun des deux n'a tort.
+### Traits culturels (faits)
+- **Philosophie de la transformation** — Croyance que rien n'est permanent et que tout peut être transformé ; née de la vie avec un volcan actif. L'alchimie est une philosophie de vie autant qu'une science (transmuter le plomb en or = métaphore de la transformation de soi).
+- **Forge dans la lave** — Les forgerons travaillent directement dans les cavernes de lave, exploitant la chaleur du magma pour atteindre des températures qu'aucune forge artificielle ne reproduit. Produits de qualité légendaire : lames qui ne s'émoussent jamais, armures légères mais dures comme le diamant, cristaux qui conservent la chaleur des mois.
+- **Précipitation rituelle** — L'archipel pouvant être détruit à tout moment par le Mont, les rites sont compressés : mariages conclus en quinze jours, naissances fêtées le soir même, morts brûlés sous vingt-quatre heures. Conséquence : richesse matérielle réelle mais mémoire administrative pauvre (on forge plus qu'on ne consigne).
+- **Prééminence du forgeron sur le scribe** — Légitimité concentrée dans les ateliers, pas dans les bureaux. La cour de Brumaris fonctionne mal sans le Conseil des Cendres (forgerons-alchimistes, non juristes). Diplomatie réputée brutale, directe, efficace (ex. contrats de fer comme la livraison de 1 500 lames à Pyrtara).
+- **Disparition culturelle des morts** — La crémation étant une fierté, l'inhumation est dévalorisée. Aucun cimetière ni tombe identifiable sur l'île principale. Seule trace permanente : les Colonnes de Mémoire de Thaldor (chères, donc rares ; les familles pauvres n'en ont pas). Faible attachement à la généalogie longue, fort attachement à la présence des vivants.
+- **Méfiance envers Arkhen** — À Brumaris, on tient les Arkheniens pour "trop calmes" ; méfiance tenace mais jamais hostile (Arkhen est jugée trop lointaine et pauvre pour être attaquée). Les Cendariens-Royaume saluent vers le haut (vers le sommet du Mont) ; les Arkheniens s'inclinent vers le bas.
+- **Amitié avec Pyrevane, la cousine** — Les Cendariens-Royaume tiennent les Pyrevaniens pour des cousins théologiquement plus rigoureux mais politiquement moins habiles ; ils les invitent à toutes les cérémonies royales. Réciproquement, les Pyrevaniens jugent les Cendariens-Royaume théologiquement paresseux.
 
 ### Fêtes
-- **La Nuit des Flammes** — Toutes les forges de l'archipel s'allument simultanément, illuminant les îles comme des constellations de feu sur l'océan noir.
-- **Le Jour de Cendre** — Anniversaire du Grand Rituel de Réveil. Le roi descend dans les forges royales et forge un objet de ses propres mains, offert au temple.
-- **Le Festival des Transformations** — Trois jours où les alchimistes rivalisent en démonstrations publiques, créant des merveilles éphémères : feux de couleur, métaux liquides dansants, cristaux qui chantent.
+- **La Nuit des Flammes** — Toutes les forges de l'archipel s'allument simultanément.
+- **Le Jour de Cendre** — Anniversaire du Grand Rituel de Réveil. Le roi descend dans les forges royales et forge de ses mains un objet offert au temple.
+- **Le Festival des Transformations** — Trois jours de démonstrations publiques des alchimistes (feux de couleur, métaux liquides, cristaux qui chantent).
 
 ---
 
 ## Régions
 
 ### Brumancia
-Région centrale et la plus peuplée, dominée par le Mont Cendra qui s'élève à l'horizon comme un dieu de pierre. Le sol basaltique est fertile grâce aux cendres, et les villages s'étendent dans les vallées entre les coulées de lave anciennes. C'est le cœur politique et culturel de Cendara.
+Région centrale et la plus peuplée, dominée par le Mont Cendra. Sol basaltique fertilisé par les cendres ; villages dans les vallées entre coulées de lave anciennes. Cœur politique et culturel de Cendara.
 
 ### Utophora
-Plateau volcanique de l'ouest, caractérisé par des formations rocheuses spectaculaires — colonnes de basalte, arches de lave solidifiée, grottes de cristaux. Région riche en minerais rares, elle attire les mineurs les plus audacieux et les alchimistes en quête de composants uniques.
+Plateau volcanique de l'ouest. Formations rocheuses spectaculaires (colonnes de basalte, arches de lave solidifiée, grottes de cristaux). Riche en minerais rares ; attire mineurs et alchimistes.
 
 ### Virendor
-Vallée verdoyante du nord, protégée des cendres volcaniques par une chaîne de collines. Anomalie dans le paysage cendarien, Virendor abrite les seules forêts de l'île principale — des arbres résistants au feu dont le bois est utilisé pour les bûchers sacrés et les constructions navales.
+Vallée verdoyante du nord, protégée des cendres par une chaîne de collines. Abrite les seules forêts de l'île principale : arbres résistants au feu dont le bois sert aux bûchers sacrés et aux constructions navales.
 
 ### Diamora
-Région côtière orientale aux plages de sable noir et aux falaises d'obsidienne. Les cavernes sous-marines de Diamora regorgent de cristaux de lave — des formations minérales uniques créées par le contact du magma et de l'eau de mer. L'extraction de ces cristaux est un travail aussi dangereux que lucratif.
+Région côtière orientale ; plages de sable noir et falaises d'obsidienne. Cavernes sous-marines riches en cristaux de lave (formés par contact magma/eau de mer) ; extraction dangereuse et lucrative.
 
 ### Solara
-Plateau méridional, le plus exposé au soleil et le moins touché par les éruptions. Solara est la région agricole de Cendara — ses sols volcaniques enrichis produisent des cultures d'une qualité remarquable. Les vignobles de Solara, nourris de cendre et de soleil, donnent un vin noir au goût de fumée, célèbre dans tout l'archipel.
+Plateau méridional, le plus ensoleillé et le moins touché par les éruptions. Région agricole de Cendara ; sols volcaniques enrichis. Vignobles produisant un vin noir au goût de fumée, célèbre dans tout l'archipel.
 
 ### Malrith
-Péninsule occidentale battue par les vents, Malrith est la région la plus rude de Cendara. Ses côtes déchiquetées et ses falaises abruptes en font une forteresse naturelle. C'est ici que sont installées les forges militaires et les arsenaux du royaume. Les habitants de Malrith sont réputés pour leur rudesse et leur endurance.
+Péninsule occidentale battue par les vents, la plus rude de Cendara. Côtes déchiquetées, falaises abruptes (forteresse naturelle). Forges militaires et arsenaux du royaume. Habitants réputés pour leur rudesse et leur endurance.
 
 ### Meliflore
-L'île secondaire d'Ilnara et ses environs, un monde radicalement différent du reste de Cendara. Des forêts tropicales d'une densité impénétrable, une faune exotique foisonnante, et les Phénix de Feu — créatures majestueuses qui nichent dans les arbres les plus hauts. Le Temple des Flammes Éternelles s'y dresse, gardé par des prêtres qui ne quittent jamais l'île.
+L'île secondaire d'Ilnara et ses environs. Forêts tropicales impénétrables, faune exotique, Phénix de Feu nichant dans les arbres les plus hauts. Abrite le Temple des Flammes Éternelles, gardé par des prêtres qui ne quittent jamais l'île.
 
 ---
 
 ## Villes et villages
 
 ### Brumaris — Capitale ★
-*Bâtie sur un plateau de basalte au pied du Mont Cendra, Brumaris est une ville de pierre noire et de lueur orangée. Les rues pavées d'obsidienne reflètent la lumière des forges perpétuelles. Au centre, le Palais des Cendres — une forteresse massive construite en basalte et en fer volcanique — abrite le Cœur de Cendra dans sa chambre la plus profonde. L'air est chaud, sec, chargé d'une odeur de soufre et de métal. Les tremblements de terre légers sont si fréquents que les Brumariens ne les remarquent même plus.*
-**Histoire :** Brumaris ne fut pas fondée — elle fut forgée. Les premiers naufragés s'installèrent sur ce plateau de basalte parce que c'était le seul endroit suffisamment stable pour dormir sans être englouti par les coulées de lave qui parcouraient les plaines environnantes. Le Palais des Cendres fut commencé par Ashgrim le Calciné lui-même, qui refusa d'habiter autre chose que de la roche volcanique pure : "Rien de construit par la main des hommes ne résiste au feu, sauf ce que le feu a construit lui-même." Ashgrim mourut avant d'en voir l'achèvement, mais sa dépouille fut jetée dans le cratère du Mont Cendra, et ses cendres retombèrent sur les fondations — les prêtres y voient encore aujourd'hui la marque de sa bénédiction.
+Capitale, sur un plateau de basalte au pied du Mont Cendra ; ville de pierre noire éclairée par les forges perpétuelles, sujette à de fréquents tremblements de terre légers. Premier site assez stable pour échapper aux coulées de lave. Le Palais des Cendres fut commencé par **Ashgrim le Calciné** (bâti en roche volcanique pure) ; mort avant l'achèvement, sa dépouille fut jetée dans le cratère du Mont Cendra.
 - Population : Ville (grande)
 - Région : Brumancia
 - Particularités : Palais des Cendres, Chambre du Cœur de Cendra, Grande Forge Royale, Temple Central de l'Ignis Aeternum
 
 ### Fyndoris
-*Village alchimique niché dans une crevasse volcanique où des sources chaudes sulfureuses bouillonnent en permanence. Les alchimistes de Fyndoris utilisent ces eaux riches en minéraux comme base pour leurs potions et élixirs. Chaque maison est un laboratoire, et l'air du village porte une odeur entêtante de soufre et d'herbes brûlées. Les explosions accidentelles sont si fréquentes que les toits sont faits de dalles de basalte plutôt que de bois.*
-**Histoire :** Fyndoris naquit d'une erreur — un groupe d'alchimistes de Brumaris qui cherchait un raccourci à travers les fissures volcaniques tomba dans la crevasse lors d'un tremblement de terre et ne put en ressortir avant plusieurs jours. Pendant leur captivité forcée, ils découvrirent que les sources sulfureuses dissolvaient certains composants alchimiques d'une façon impossible à reproduire en laboratoire. Ils ne repartirent jamais vraiment — ils envoyèrent chercher leurs outils. Deux générations plus tard, les Flammarques tentèrent d'intégrer Fyndoris à l'administration royale et se heurtèrent à des alchimistes qui préféraient payer des amendes que de se soumettre à une inspection de leurs méthodes.
+Village alchimique dans une crevasse volcanique aux sources chaudes sulfureuses permanentes, utilisées comme base de potions et d'élixirs ; chaque maison est un laboratoire (toits de basalte à cause des explosions fréquentes). Fondé par des alchimistes de Brumaris piégés dans la crevasse, qui découvrirent que les sources sulfureuses dissolvaient des composants impossibles à traiter en laboratoire. Résiste à l'administration royale (Flammarques refoulés).
 - Population : Village
 - Région : Brumancia
 - Particularités : Sources alchimiques, Guilde des Potionnistes
 
 ### Mylaris
-*Village de bergers et de cultivateurs installé sur les flancs fertiles du Mont Cendra, là où les cendres enrichissent le sol sans que les coulées de lave n'atteignent. Les habitants de Mylaris élèvent des chèvres volcaniques — une race endémique au pelage roux résistant à la chaleur — et cultivent des légumes racines qui poussent dans la cendre. Ils vivent avec la conscience permanente que le volcan peut les engloutir du jour au lendemain.*
-**Histoire :** Mylaris fut engloutie deux fois et reconstruite deux fois au même endroit. La première fois, une coulée de lave dévora le village originel en une nuit ; les survivants, plutôt que de fuir, s'installèrent sur la croûte de lave refroidie et recommencèrent. La seconde fois, une pluie de cendres brûlantes suffoqua les récoltes pendant trois années consécutives, forçant la moitié du village à partir — l'autre moitié attendit patiemment que le sol s'enrichisse et récolta des rendements prodigieux. Les gens de Mylaris expliquent cela simplement : le Mont Cendra ne détruit pas, il renouvelle. Ceux qui restent héritent du renouveau.
+Village de bergers et cultivateurs sur les flancs fertiles du Mont Cendra. Élevage de chèvres volcaniques (race endémique au pelage roux résistant à la chaleur) et culture de légumes racines dans la cendre. Englouti et reconstruit deux fois au même endroit (coulée de lave, puis pluies de cendres durant trois ans) ; les habitants tiennent que le Mont "renouvelle" plutôt qu'il ne détruit.
 - Population : Village
 - Région : Brumancia
 - Particularités : Élevages de chèvres volcaniques, Cultures de cendre
 
 ### Uthorin
-*Ville minière d'Utophora, construite à l'entrée d'un réseau de cavernes volcaniques regorgeant de minerais rares. Les Mineurs de Lave d'Uthorin descendent dans des galeries où la température peut dépasser celle d'un four de forge. Ils portent des combinaisons de cuir traité à l'alchimie, enduites d'un baume ignifuge qui ne dure que quelques heures. Un travail contre la montre, chaque jour.*
-**Histoire :** Les premières mines d'Uthorin furent ouvertes par des condamnés — des criminels auxquels on offrit le choix entre l'exécution et la descente dans les cavernes. La plupart ne revinrent pas, mais ceux qui sortirent vivants la première semaine acquirent une valeur inestimable : ils savaient comment survivre là où personne d'autre ne le pouvait. La Guilde des Mineurs descend directement de ces premiers survivants, qui transformèrent leur savoir-faire dangereux en héritage familial jalousement gardé. Aujourd'hui encore, les techniques de descente et les gestes de protection se transmettent de père en fils, jamais par écrit.
+Ville minière d'Utophora, à l'entrée d'un réseau de cavernes volcaniques riches en minerais rares ; galeries où la température dépasse celle d'un four de forge (combinaisons de cuir à baume ignifuge). Premières mines ouvertes par des condamnés ; la Guilde des Mineurs descend des premiers survivants, transmettant ses techniques de père en fils, jamais par écrit.
 - Population : Ville
 - Région : Utophora
 - Particularités : Mines de lave, Guilde des Mineurs, Marché aux minerais
 
 ### Thaldor
-*Village de sculpteurs de basalte, perché sur une formation rocheuse en forme de tour naturelle. Les artisans de Thaldor taillent le basalte volcanique en statues, monuments et blocs de construction exportés dans tout l'archipel. Leur spécialité : les Colonnes de Mémoire, des piliers gravés de runes qui commémorent les morts honorés par la crémation volcanique.*
-**Histoire :** Thaldor doit son existence à un accident géologique : la formation rocheuse en tour qui la supporte émergea lors d'une éruption ancienne, projetant vers le ciel un bloc de basalte si parfaitement lisse que les premiers habitants y virent la main d'Eldoria. Un sculpteur nommé Vorkan le Premier s'y installa seul pour tailler ce qu'il appela "la plus belle roche du monde" — il y passa dix ans à sculpter une spirale ascendante qui court encore de la base au sommet. D'autres sculpteurs vinrent voir son travail, puis restèrent. La Colonne de Vorkan est la seule sculpture de Thaldor qui ne soit jamais vendue ou exportée.
+Village de sculpteurs de basalte, perché sur une formation rocheuse en tour naturelle. Exporte statues, monuments et blocs de construction dans tout l'archipel. Spécialité : les **Colonnes de Mémoire**, piliers gravés de runes commémorant les morts honorés par crémation volcanique. La tour de basalte émergea d'une éruption ancienne ; le sculpteur **Vorkan le Premier** y tailla une spirale ascendante (la Colonne de Vorkan, jamais vendue ni exportée).
 - Population : Village
 - Région : Utophora
 - Particularités : Ateliers de sculpture basaltique, Colonnes de Mémoire
 
 ### Galron
-*Hameau isolé de prospecteurs au fond d'une vallée encaissée d'Utophora. Les habitants de Galron passent leur vie à explorer les cavernes inconnues, cartographiant les réseaux souterrains à la recherche de nouvelles veines de minerai. C'est un métier solitaire et dangereux — les effondrements sont fréquents, et certaines cavernes abritent des gaz toxiques invisibles. Mais une découverte majeure peut rendre un prospecteur riche à vie.*
-**Histoire :** Galron fut fondé par une femme dont on ne retient que le surnom : la Cartographe Noire. Arrivée de nulle part, elle passa vingt ans à descendre seule dans les cavernes d'Utophora, établissant des cartes d'une précision remarquable que ses concurrents tentèrent de lui voler sans jamais y parvenir. Quand elle mourut, ses cartes furent enterrées avec elle par sa propre demande — mais les copies que ses apprentis avaient tracées à la dérobée continuèrent à circuler, imparfaites et contradictoires. La Cartothèque de Galron est une tentative permanente de reconstituer l'œuvre originale de la Cartographe Noire, à partir de fragments, de rumeurs et de nouvelles descentes.
+Hameau isolé de prospecteurs au fond d'une vallée encaissée d'Utophora ; cartographie des réseaux souterrains à la recherche de veines de minerai (métier solitaire, effondrements et gaz toxiques fréquents). Fondé par la **Cartographe Noire**, qui passa vingt ans à cartographier seule les cavernes ; ses cartes furent enterrées avec elle. La Cartothèque tente de reconstituer son œuvre à partir de copies imparfaites.
 - Population : Village
 - Région : Utophora
 - Particularités : Guilde des Prospecteurs, Cartothèque souterraine
 
 ### Virondis
-*Seule ville de Virendor, construite entièrement en bois résistant au feu — un exploit architectural unique à Cendara. Virondis est le centre de la sylviculture cendarienne, gérant les forêts ignifuges qui fournissent le bois de construction et le combustible de l'archipel. Les forestiers de Virondis cultivent des arbres dont l'écorce ne brûle pas, une particularité naturelle que les alchimistes étudient depuis des générations sans parvenir à la reproduire.*
-**Histoire :** Virondis fut le pari fou d'un architecte qui voulait prouver qu'on pouvait bâtir en bois sur une île volcanique. Ses collègues le traitèrent de fou — le premier incendie accidentel, et tout le village partirait en fumée. L'architecte répondit en construisant sa propre maison en bois ignifuge de Virendor, puis y demeura pendant trente ans sans jamais la voir brûler, même lors des pluies de cendres incandescentes. Virondis grandit autour de sa démonstration obstinée. L'ironie est que si quelqu'un a jamais percé le secret de l'ignifugeage naturel des arbres de Virendor, ce sont les chantiers navals — le bois s'avéra encore plus précieux sur l'eau que sur terre.
+Seule ville de Virendor, bâtie entièrement en bois résistant au feu. Centre de la sylviculture cendarienne ; gère les forêts ignifuges qui fournissent bois de construction et combustible de l'archipel. Les arbres à écorce ininflammable restent inexpliqués par les alchimistes. Fondée par un architecte qui prouva qu'on pouvait bâtir en bois ignifuge sur une île volcanique ; le bois s'avéra encore plus précieux pour les chantiers navals.
 - Population : Ville
 - Région : Virendor
 - Particularités : Forêts ignifuges, Chantiers navals, École de sylviculture
 
 ### Diamoris
-*Ville côtière de Diamora, bâtie sur des falaises d'obsidienne polie qui brillent comme du verre noir au soleil. Diamoris est le principal port de commerce de Cendara — les navires étrangers viennent y acheter les métaux volcaniques, les cristaux de lave et les potions alchimiques. Le port est protégé par une baie naturelle encadrée de colonnes de basalte, et les quais sont taillés dans la roche volcanique.*
-**Histoire :** Diamoris fut longtemps une plage sans nom, évitée par les navigateurs qui craignaient les récifs d'obsidienne sous la surface. La découverte qui changea tout fut celle d'un naufragé qui, ayant marché pieds nus sur l'obsidienne brisée, vit en se penchant pour soigner ses plaies que les roches sous-marines renfermaient des cristaux d'une valeur extraordinaire. Il aurait pu repartir avec ses cristaux et ne rien dire — mais il revint avec des amis, puis d'autres amis. Diamoris n'eut jamais de fondateur officiel, juste une rumeur de richesse qui attira assez de monde pour créer une ville.
+Ville côtière de Diamora, sur des falaises d'obsidienne polie. Principal port de commerce de Cendara : les navires étrangers y achètent métaux volcaniques, cristaux de lave et potions alchimiques. Port protégé par une baie naturelle de colonnes de basalte ; quais taillés dans la roche. Née sans fondateur officiel, après la découverte de cristaux de valeur dans les récifs d'obsidienne sous-marins.
 - Population : Ville
 - Région : Diamora
 - Particularités : Port commercial principal, Marché aux cristaux, Falaises d'obsidienne
 
 ### Kaldris
-*Ville des cristalliers, Kaldris est construite au-dessus d'un réseau de grottes sous-marines où le magma rencontre l'océan. Les cristaux de lave qui s'y forment — rouges, oranges, dorés — sont d'une beauté hypnotique et d'une valeur considérable. Les plongeurs de Kaldris descendent dans les grottes à marée basse pour récolter les cristaux avant que l'eau ne remonte. Un chronomètre biologique aiguisé par des générations de pratique.*
-**Histoire :** Les premiers plongeurs de Kaldris découvrirent les grottes par accident lors d'une tempête — cherchant un abri sous les falaises, ils aperçurent dans l'eau translucide le scintillement rouge des cristaux et plongèrent sans réfléchir. Deux d'entre eux ne remontèrent pas, emportés par le courant de marée. Les autres revinrent avec des cristaux dont aucun alchimiste ne put expliquer les propriétés. La Guilde des Plongeurs-Cristalliers fut créée moins pour l'enrichissement que pour établir des règles de sécurité — le règlement intérieur de la Guilde commence par un calcul précis du temps de marée disponible et interdit formellement toute descente solo.
+Ville des cristalliers, au-dessus d'un réseau de grottes sous-marines où le magma rencontre l'océan. Récolte de cristaux de lave (rouges, oranges, dorés) de grande valeur ; les plongeurs descendent à marée basse. La Guilde des Plongeurs-Cristalliers fut créée pour la sécurité : son règlement calcule le temps de marée disponible et interdit toute descente solo.
 - Population : Ville
 - Région : Diamora
 - Particularités : Grottes de cristaux sous-marines, Guilde des Plongeurs-Cristalliers
 
 ### Malthoris
-*Village de pêcheurs sur une plage de sable noir, Malthoris vit des richesses de la mer volcanique. Les eaux au large de Diamora sont réchauffées par des sources hydrothermales sous-marines, ce qui attire une faune marine exceptionnelle. Les pêcheurs de Malthoris capturent des poissons des profondeurs aux chairs fumées naturellement par les eaux sulfureuses — un met rare et prisé.*
-**Histoire :** Malthoris existe parce que des pêcheurs refusèrent de quitter une plage. Lors d'une période d'éruptions intenses, les autorités de Brumaris ordonnèrent l'évacuation de toutes les zones côtières de Diamora. Les pêcheurs de Malthoris firent semblant d'obtempérer, puis revinrent deux jours après l'ordre, arguant que leurs filets étaient encore dans l'eau. Ils n'avaient pas tort — mais les filets restèrent dans l'eau des semaines après la fin de la crise. Les Flammarques envoyés pour les expulser définitivement goûtèrent au poisson fumé sulfureux et repartirent avec des barils pleins plutôt qu'avec des expulsions.
+Village de pêcheurs sur une plage de sable noir. Les eaux au large de Diamora, réchauffées par des sources hydrothermales sous-marines, attirent une faune marine exceptionnelle ; les pêcheurs capturent des poissons des profondeurs aux chairs fumées naturellement par les eaux sulfureuses (met rare et prisé). Fondé par des pêcheurs ayant refusé d'évacuer la côte malgré l'ordre de Brumaris.
 - Population : Village
 - Région : Diamora
 - Particularités : Pêche en eaux volcaniques, Fumoirs naturels
 
 ### Galrith
-*Hameau de souffleurs de verre volcanique, installé sur une avancée rocheuse battue par les embruns. Les artisans de Galrith transforment l'obsidienne fondue en objets d'une finesse extraordinaire — vases translucides, lentilles de précision, instruments alchimiques. Leur verre noir est exporté dans le monde entier et orne les laboratoires des plus grands alchimistes.*
-**Histoire :** L'art du verre volcanique de Galrith fut inventé par une femme aveugle — Mireth la Souffleuse — qui, ne pouvant voir la couleur du verre en fusion, développa une technique entièrement tactile et auditive pour juger de la qualité de son travail. Ses pièces, guidées par la sensation du souffle plutôt que par la vue, avaient une régularité d'épaisseur que les souffleurs voyants ne parvenaient pas à égaler. Ses disciples apprirent sa méthode les yeux bandés, et la tradition de travailler en partie à l'aveugle subsiste encore dans les ateliers de Galrith — non par nécessité, mais parce que les maîtres affirment que cela reste la meilleure école.
+Hameau de souffleurs de verre volcanique, sur une avancée rocheuse battue par les embruns. Transforme l'obsidienne fondue en objets fins (vases translucides, lentilles de précision, instruments alchimiques) exportés dans le monde entier. L'art y fut inventé par **Mireth la Souffleuse**, aveugle, qui développa une technique tactile et auditive ; la tradition de travailler en partie à l'aveugle subsiste.
 - Population : Village
 - Région : Diamora
 - Particularités : Verrerie volcanique, Ateliers d'obsidienne
 
 ### Solarith
-*Ville viticole de Solara, capitale du vin de cendre. Les vignobles de Solarith s'étendent sur les pentes douces du plateau méridional, leurs racines plongeant dans un sol enrichi de cendres millénaires. Le vin noir de Solarith — sombre comme l'obsidienne, au goût de fumée et de fruits brûlés — est le breuvage le plus célèbre de Cendara. Chaque année, le Festival des Vendanges de Cendre attire des négociants de tout l'archipel.*
-**Histoire :** Le premier cépage de Solarith fut apporté par un négociant d'un continent lointain qui pensait que le sol volcanique tuerait ses vignes en un mois — il les planta pour se débarrasser d'elles plutôt que de les jeter à la mer. Les vignes survécurent. Elles poussèrent si bien et si étrangement que leurs grappes, noires comme de la nuit et sucrées d'une façon inconnue, ne ressemblaient plus à rien de ce que le négociant avait apporté. Les Cendariens racontent que les vignes se sont transformées — qu'elles ont absorbé le feu du sol et qu'elles ne sont plus les mêmes plantes. Les viticulteurs de Solarith ne les appellent plus par leur nom d'origine ; ils les appellent simplement "les Filles de la Cendre".
+Ville viticole de Solara, capitale du vin de cendre. Vignobles sur les pentes du plateau méridional, sol enrichi de cendres millénaires ; le vin noir de Solarith (goût de fumée et de fruits brûlés) est le breuvage le plus célèbre de Cendara. Festival annuel des Vendanges de Cendre. Le cépage, apporté par un négociant lointain, se transforma dans le sol volcanique au point d'être renommé "les Filles de la Cendre".
 - Population : Ville
 - Région : Solara
 - Particularités : Vignobles de cendre, Caves royales, Festival des Vendanges
 
 ### Vyndria
-*Village agricole paisible où les fermiers cultivent des céréales et des légumes dans les cendres fertiles de Solara. Vyndria est réputée pour son pain noir — une miche dense et nourrissante, cuite dans des fours alimentés par la chaleur géothermique. Les boulangers de Vyndria considèrent leur pain comme sacré : chaque fournée est précédée d'une prière à Eldoria.*
-**Histoire :** Vyndria fut le premier village cendarien à comprendre que les cendres volcaniques enrichissaient le sol plutôt que de le tuer. Partout ailleurs dans l'archipel, les paysans fuyaient les retombées et pleuraient leurs récoltes perdues ; à Vyndria, une vieille femme nommée Dresta observa que les plantes qui poussaient dans les cendres d'un foyer abandonné étaient plus vigoureuses que celles d'un sol ordinaire. Elle laissa les cendres s'accumuler sur son champ et récoltat, cette année-là, trois fois plus que ses voisins. Son pain, qu'elle faisait cuire dans un four à même la roche géothermique, devint une attraction — et Vyndria devint le grenier de Cendara.
+Village agricole de Solara, réputé pour son pain noir (miche dense cuite dans des fours géothermiques, chaque fournée précédée d'une prière à Eldoria). Premier village cendarien à comprendre que les cendres enrichissaient le sol : la vieille **Dresta** y récolta trois fois plus que ses voisins ; Vyndria devint le grenier de Cendara.
 - Population : Village
 - Région : Solara
 - Particularités : Boulangeries rituelles, Fours géothermiques
 
 ### Thyroth
-*Village de bergers nomades qui déplacent leurs troupeaux entre les pâturages de Solara au gré des saisons et des éruptions mineures. Les éleveurs de Thyroth ont un instinct infaillible pour prédire les humeurs du Mont Cendra — ils lisent les signes dans le comportement de leurs bêtes, qui s'agitent des heures avant tout tremblement. Ce savoir empirique rivalise avec les prédictions des prêtres.*
-**Histoire :** Les gens de Thyroth furent nomades bien avant d'avoir un village fixe — ils suivaient leurs troupeaux et s'installaient là où le sol était libre de lave pour la saison. Le village actuel n'est apparu que parce que les enfants en bas âge ne pouvaient pas marcher aussi vite que les troupeaux. On construisit donc un campement permanent pour les familles avec enfants pendant que les bergers continuaient leurs migrations, revenant aux saisons des naissances. Ce n'est que progressivement que le campement devint un village, et les bergers ne sont jamais devenus tout à fait sédentaires — ils restent à Thyroth l'hiver, et partent avec les troupeaux le reste de l'année.
+Village de bergers nomades déplaçant leurs troupeaux entre les pâturages de Solara selon les saisons et les éruptions mineures. Les éleveurs prédisent les humeurs du Mont Cendra en lisant l'agitation de leurs bêtes (savoir empirique rivalisant avec les prêtres). Le village fixe naquit comme campement permanent pour les familles avec enfants ; les bergers restent semi-nomades (sédentaires l'hiver).
 - Population : Village
 - Région : Solara
 - Particularités : Pastoralisme volcanique, Tradition de lecture des signes animaux
 
 ### Drystar
-*Ville-forteresse de Malrith, accrochée à une falaise balayée par les vents salés. Drystar abrite les forges militaires de Cendara — des complexes souterrains alimentés par des veines de magma où les Maîtres de Forge produisent les armes du royaume. Les lames de Drystar sont reconnaissables à leur couleur noire veinée de rouge, comme si le feu vivait encore dans le métal.*
-**Histoire :** Drystar fut choisie comme site des forges militaires pour une raison tactique simple : la péninsule de Malrith était la seule partie de Cendara difficile à atteindre depuis la mer sans être repérée longtemps à l'avance. Le premier roi qui ordonna la construction des forges souterraines voulait que ses armes soient faites là où un ennemi ne pourrait pas les détruire avant d'être lui-même détruit. Les complexes furent creusés dans le roc en dix ans par des équipes de mineurs et de forgerons travaillant simultanément — les forgerons forgeaient les outils des mineurs pendant que les mineurs creusaient l'espace pour les forgerons.
+Ville-forteresse de Malrith, sur une falaise battue par les vents salés. Abrite les forges militaires de Cendara (complexes souterrains alimentés par des veines de magma) où les Maîtres de Forge produisent les armes du royaume ; lames noires veinées de rouge. Site choisi car la péninsule de Malrith est difficile à atteindre depuis la mer sans être repéré ; complexes creusés dans le roc en dix ans.
 - Population : Ville
 - Région : Malrith
 - Particularités : Forges militaires, Arsenal royal, Casernes des Calcinés
 
 ### Vylora
-*Village de guetteurs sur le point le plus occidental de Malrith, Vylora surveille l'horizon. Ses tours de pierre noire, dressées sur les falaises les plus élevées, sont visibles depuis la mer. Les guetteurs de Vylora communiquent par signaux de feu — un système de torches codées qui peut transmettre un message d'un bout à l'autre de l'archipel en moins d'une heure.*
-**Histoire :** Le réseau de signaux de feu de Vylora fut inventé à la suite d'un désastre naval dont Cendara aurait pu se prévenir : une flotte de pirates pilla les côtes orientales pendant trois jours avant que la nouvelle n'atteigne Brumaris, parce que les messagers à cheval devaient contourner les coulées de lave. Un officier qui avait perdu son frère dans le raid conçut le système de torches codées et le proposa au Conseil des Cendres. Le Conseil l'approuva en moins d'une heure — le premier et peut-être le seul vote à l'unanimité de son histoire. Vylora, au bout du continent, fut choisie comme point de départ : ce qu'on voit de là, on ne voit de nulle part ailleurs.
+Village de guetteurs sur le point le plus occidental de Malrith. Tours de pierre noire visibles depuis la mer ; les guetteurs communiquent par signaux de feu (torches codées) transmettant un message d'un bout à l'autre de l'archipel en moins d'une heure. Le réseau fut conçu après un raid de pirates resté trois jours ignoré de Brumaris, et approuvé par le Conseil des Cendres (vote à l'unanimité, rare dans son histoire).
 - Population : Village
 - Région : Malrith
 - Particularités : Tours de guet, Réseau de signaux de feu
 
 ### Thyronis
-*Village de chantiers navals, installé dans une crique abritée de Malrith. Les constructeurs de Thyronis bâtissent des navires en bois ignifuge de Virendor, renforcés de plaques de fer volcanique. Ces vaisseaux sombres et massifs sont les seuls à pouvoir naviguer sans danger dans les eaux brûlantes autour des îles volcaniques, là où les sources hydrothermales peuvent faire bouillir la mer.*
-**Histoire :** Le premier navire de Thyronis fut construit à l'envers — les charpentiers, novices, assemblèrent la coque en inversant les planches, ce qui créa par accident une doublure interne d'air qui isola le bois de la chaleur externe. Ce navire insolite survécut à des eaux hydrothermales où les autres brûlaient leurs coques, et les charpentiers qui avaient commis l'erreur durent avouer leur méprise avant de pouvoir revendiquer la technique. La "double coque de Thyronis" est depuis lors leur marque de fabrique — et l'erreur originale est célébrée chaque année lors de la Fête du Navire Inversé, où on lance symboliquement à la mer une petite barque construite de travers.
+Village de chantiers navals dans une crique abritée de Malrith. Construit des navires en bois ignifuge de Virendor renforcés de plaques de fer volcanique, seuls à naviguer sans danger dans les eaux brûlantes (sources hydrothermales) autour des îles. La "double coque de Thyronis" (doublure interne d'air isolant de la chaleur) naquit d'une erreur d'assemblage ; célébrée chaque année lors de la Fête du Navire Inversé.
 - Population : Village
 - Région : Malrith
 - Particularités : Chantiers navals, Construction de navires ignifuges
 
 ### Mylarin
-*Hameau de la côte sud de Malrith, peuplé d'ermites, de mystiques et de pyromanciens en quête de solitude. Mylarin est un lieu de retraite spirituelle où les prêtres de l'Ignis Aeternum viennent méditer face à l'océan et aux flammes. Les grottes de la côte sont parsemées de feux éternels — de petites flammes naturelles alimentées par des poches de gaz souterrain qui brûlent depuis des temps immémoriaux.*
-**Histoire :** Mylarin ne fut jamais fondé — les ermites qui s'y installèrent n'avaient aucune intention de créer un lieu habité. Chacun cherchait la solitude et fut déçu de trouver d'autres solitaires. Mais les feux éternels naturels dans les grottes de la côte rendaient la méditation nocturne d'une intensité particulière, et les mystiques qui y venaient s'aperçurent que la présence silencieuse d'autres chercheurs n'était pas une intrusion mais une communauté accidentelle. Il n'y a pas de chef à Mylarin, pas de règlement, pas d'accueil officiel — mais tout ermite qui arrive trouve de la nourriture laissée sans commentaire à l'entrée des grottes.
+Hameau de la côte sud de Malrith ; lieu de retraite spirituelle pour ermites, mystiques et pyromanciens de l'Ignis Aeternum venant méditer face à l'océan. Les grottes de la côte abritent des feux éternels naturels (poches de gaz souterrain brûlant depuis des temps immémoriaux). Jamais fondé : communauté accidentelle d'ermites, sans chef ni règlement, où la nourriture est laissée sans commentaire à l'entrée des grottes.
 - Population : Village
 - Région : Malrith
 - Particularités : Feux éternels naturels, Ermitages sacrés
 
 ### Lorenthia
-*Village du Temple des Flammes Éternelles sur Ilnara, Lorenthia est un lieu hors du temps. Entouré de forêts tropicales impénétrables et survolé par les Phénix de Feu, le village sert de logis aux prêtres-gardiens du Temple. La vie y est austère et rythmée par les rituels. Les prêtres de Lorenthia pratiquent un syncrétisme unique entre l'Ignis Aeternum et le Vael'Kurash — ils vénèrent le feu comme force divine ET les esprits de la forêt comme ses gardiens. Cette double dévotion est considérée comme hérétique par les puristes de Brumaris, mais tolérée par le roi.*
-**Histoire :** Le Temple des Flammes Éternelles fut construit avant le palais de Brumaris — un fait que les prêtres de Lorenthia rappellent volontiers aux émissaires royaux. Les fondateurs vinrent d'Ilnara eux-mêmes, des chamanes qui pratiquaient le Vael'Kurash et qui trouvèrent dans la flamme éternelle naturelle au centre de l'île un signe que les deux cultes adoraient en réalité le même divin sous des noms différents. La synthèse qu'ils élaborèrent — feu et forêt, Eldoria et les esprits — fut jugée hérétique par les prêtres de Brumaris mais jamais condamnée officiellement, car nul roi n'osa s'aliéner les gardiens de l'île où nichent les Phénix. Quand les Phénix commencèrent à disparaître, les prêtres de Lorenthia furent les premiers à comprendre que quelque chose avait changé dans l'équilibre du monde.
+Village du Temple des Flammes Éternelles sur Ilnara, entouré de forêts tropicales et survolé par les Phénix de Feu ; logis des prêtres-gardiens, vie austère rythmée par les rituels. Les prêtres pratiquent un syncrétisme unique entre l'Ignis Aeternum et le Vael'Kurash (feu divin ET esprits de la forêt comme gardiens), tenu pour hérétique par les puristes de Brumaris mais toléré par le roi. Le Temple fut construit avant le palais de Brumaris, par des chamanes d'Ilnara. Les prêtres de Lorenthia furent les premiers à percevoir la disparition des Phénix.
 - Population : Village
 - Région : Meliflore
 - Particularités : Temple des Flammes Éternelles, Sanctuaire des Phénix de Feu, Forêts sacrées d'Ilnara
@@ -262,22 +228,22 @@ L'île secondaire d'Ilnara et ses environs, un monde radicalement différent du 
 
 | Pays | Relation | Détails |
 |------|----------|---------|
-| **Evertia** | Alliance discrète | Les deux îles partagent l'île d'Ilnara comme sanctuaire commun. Des échanges de savoirs entre druides evertiens et alchimistes cendariens ont lieu régulièrement, loin des regards. |
-| **Myrtam** | Fascination réciproque | Les forgerons de Myrtam envient la chaleur volcanique directe de Cendara. Des expéditions conjointes de forge ont eu lieu, et les deux pays échangent techniques et minerais. |
-| **Pyrtara** | Fraternité de flamme | Les deux nations partagent la foi de l'Ignis Aeternum et un respect mutuel pour le feu. Les prêtres circulent librement entre les deux pays. |
-| **Alkaran** | Commerce prudent | Les nations d'Alkaran achètent les métaux volcaniques et les potions alchimiques, mais la distance et les mers dangereuses limitent les échanges. |
-| **Solena** | Rivalité maritime | Les marins de Solena contrôlent les routes maritimes. Cendara négocie leur accès avec réticence, préférant développer sa propre flotte. |
+| **Evertia** | Alliance discrète | Partagent l'île d'Ilnara comme sanctuaire commun. Échanges réguliers de savoirs entre druides evertiens et alchimistes cendariens. |
+| **Myrtam** | Fascination réciproque | Les forgerons de Myrtam envient la chaleur volcanique directe de Cendara. Expéditions conjointes de forge ; échange de techniques et de minerais. |
+| **Pyrtara** | Fraternité de flamme | Foi commune de l'Ignis Aeternum, respect mutuel du feu. Les prêtres circulent librement entre les deux pays. |
+| **Alkaran** | Commerce prudent | Achat de métaux volcaniques et de potions alchimiques ; échanges limités par la distance et les mers dangereuses. |
+| **Solena** | Rivalité maritime | Les marins de Solena contrôlent les routes maritimes ; Cendara négocie son accès avec réticence et développe sa propre flotte. |
 
 ---
 
 ## Secrets et intrigues
 
-- **La Grande Prophétie est peut-être en train de s'accomplir.** Les alchimistes royaux ont consigné des changements dans la composition du magma du Mont Cendra — minéraux inconnus, cristaux d'une forme inédite. Selon les rapports croisés des forges royales, quelque chose se transforme dans les profondeurs. L'éruption suprême approche-t-elle vraiment, et que révélera-t-elle ?
-- **Le Cœur de Cendra pulse plus vite.** Le roi Pyranthus IV a confié à son plus proche conseiller que les relevés tenus dans la chambre scellée font état, depuis un an, d'une accélération des pulsations du Cœur de Cendra et d'une élévation continue de sa chaleur. Les parois de la chambre commencent à fondre. Les lectures qui circulent à la cour vont du présage prophétique à l'instabilité matérielle d'origine inconnue.
-- **Le réseau d'Ilnara.** Le Temple des Flammes Éternelles sur Ilnara abrite, sous ses fondations, un réseau de galeries que les chroniqueurs locaux datent d'avant la civilisation cendarienne. Des inscriptions dans une langue qui n'a pas encore été identifiée couvrent les murs. Les prêtres de Lorenthia les étudient en cercle restreint depuis plusieurs générations, sans en avoir tiré de lecture stable.
-- **Les Phénix mourront-ils ?** Les Phénix de Feu d'Ilnara se font plus rares. Depuis une décennie, aucun nouveau nid n'a été observé. Les anciens Phénix vieillissent et leur régénération s'espace. Les prêtres du Vael'Kurash sur Ilnara y lisent une colère des esprits de la forêt — sans accord sur la cible ni sur la cause.
-- **Le Conseil des Cendres est divisé.** Deux factions s'affrontent au sein du Conseil : les **Éternistes**, qui veulent maintenir les traditions et attendre la Grande Prophétie, et les **Forgeurs d'Avenir**, qui veulent moderniser Cendara, ouvrir le commerce et abandonner ce qu'ils tiennent pour des superstitions. Le roi hésite entre les deux camps, paralysé par sa propre nature mystique.
-- **Les mines interdites de Malrith.** Sous la péninsule de Malrith, des mineurs ont rapporté la découverte d'une caverne contenant un métal jusqu'alors non répertorié — noir, léger, et qui absorbe la lumière à un degré que les essais de forge n'ont pas su reproduire. Les premiers à l'avoir touché à mains nues ont, selon les comptes-rendus médicaux des Calcinés, développé ce qu'ils décrivaient comme des visions prophétiques avant de basculer dans des états confusionnels graves. La caverne a été scellée sur ordre royal ; des contrebandiers en ont néanmoins extrait des échantillons.
+- **La Grande Prophétie peut-être en cours d'accomplissement.** Les alchimistes royaux ont consigné des changements dans la composition du magma du Mont Cendra (minéraux inconnus, cristaux d'une forme inédite). Question ouverte : l'éruption suprême approche-t-elle ?
+- **Le Cœur de Cendra pulse plus vite.** Le roi **Pyranthus IV** a rapporté, depuis un an, une accélération des pulsations du Cœur de Cendra et une élévation continue de sa chaleur (les parois de la chambre scellée commencent à fondre). Lectures à la cour : du présage prophétique à l'instabilité matérielle inconnue.
+- **Le réseau d'Ilnara.** Sous le Temple des Flammes Éternelles, un réseau de galeries antérieur à la civilisation cendarienne, couvert d'inscriptions dans une langue non identifiée. Étudié en cercle restreint par les prêtres de Lorenthia depuis plusieurs générations, sans lecture stable.
+- **Les Phénix mourront-ils ?** Les Phénix de Feu d'Ilnara se raréfient ; aucun nouveau nid observé depuis une décennie, régénération qui s'espace. Les prêtres du Vael'Kurash y lisent une colère des esprits de la forêt (sans accord sur la cause).
+- **Le Conseil des Cendres est divisé.** Deux factions : les **Éternistes** (maintenir les traditions, attendre la Grande Prophétie) et les **Forgeurs d'Avenir** (moderniser, ouvrir le commerce, abandonner les superstitions). Le roi hésite entre les deux camps.
+- **Les mines interdites de Malrith.** Sous la péninsule, découverte d'un métal non répertorié (noir, léger, absorbant la lumière). Les premiers à l'avoir touché à mains nues ont développé des visions prophétiques puis des états confusionnels graves (comptes-rendus des Calcinés). Caverne scellée sur ordre royal ; des contrebandiers en ont extrait des échantillons.
 
 ---
 
@@ -285,12 +251,8 @@ L'île secondaire d'Ilnara et ses environs, un monde radicalement différent du 
 
 > Les secrets canoniques principaux figurent plus haut. Les compléments suivants nourrissent la cohérence du continent.
 
-- **Le calendrier des pulsations.** Les relevés tenus par la Voix sous les Cendres depuis trois siècles, archivés à la Forge-Temple Centrale de Brumaris, indiquent une pulsation moyenne du Mont Cendra à 46 secondes — avec une **dérive lente** : il y a deux cents ans, la moyenne était de 41 secondes ; il y a cent ans, 43 ; aujourd'hui, 46. Le Mont *ralentit*. Les rapports officiels parlent de *cycle interne profond*. Aucun rapport officiel n'a osé écrire le mot *« atténuation »*. Les Vigilants de la Voix les plus expérimentés le pensent. Certains commencent à le dire à voix très basse. Si la dérive est confirmée, elle est mortelle pour la doctrine du Réveil — un Mont qui ralentit n'est pas un Mont qui se prépare à exploser.
-
-- **Le passage de Sorin Valthen (an 252).** Le cartographe kharazirien exilé est passé par Mylaris, sur les flancs du Mont, en l'an 252. Il y a senti la pulsation — c'est documenté dans son *Carnet IV*, déposé à Lumasar. Aucun registre cendarien n'a mentionné son passage : un Délié de plus, en transit entre deux ports. La logeuse Kessa de Mylaris s'en souvient. Talvhar le Brûlé, qui partagea un repas avec lui, l'a oublié — ou a fait semblant d'oublier. Le passage de Sorin n'a aucune signification politique à Cendara. Il a une signification cosmologique que la Cendara ne saura jamais lire, parce qu'elle suppose qu'un homme *sans formation rituelle* ne peut rien sentir.
-
-- **La fissure d'Utophora.** Un mineur de Galron a rapporté, en l'an 250, qu'une fissure latérale d'une mine inexplorée *exhalait* une chaleur stable mais *inférieure* à celle des fissures voisines. Cette anomalie thermique a été classée par les Flammarques comme erreur de mesure. Le mineur a été muté. La fissure existe toujours. Personne n'y descend.
-
-- **Les Délies à Brumaris.** Officiellement, il n'y a aucun Délie de la Flamme dans la capitale. En pratique, on en compte au moins trois — un boulanger du quartier basaltique, une herboriste de la pente sud, un sergent des Calcinés (oui, un sergent) qui porte la marque sous son brassard. Aucun n'est militant. Aucun ne prêche. Tous frappent leurs marteaux à l'aube comme tout le monde. La Médiatrice du Conseil des Cendres le sait pour deux d'entre eux ; elle n'a rien fait. Pas par tolérance — par calcul : la chasse les rendrait visibles.
-
-- **La lettre dans le tiroir.** La lettre que le roi Pyranthus IV a écrite à ses enfants après sa brûlure (cf. *Histoires*, Brumaris) existe toujours. Elle est dans le tiroir gauche du bureau royal. Personne d'autre que le roi ne l'a lue. Sa femme, la reine Tessoria, sait qu'il y a quelque chose dans ce tiroir — il le verrouille systématiquement, geste qu'il ne fait avec aucun autre meuble. Elle n'a jamais demandé. Elle ne demandera pas. Si Pyranthus mourait demain, le tiroir serait vidé par le Conseil des Cendres, qui classerait. Cendara a une grande compétence dans le classement des choses qu'elle préfère ne pas avoir lues.
+- **Le calendrier des pulsations.** Relevés de la Voix sous les Cendres depuis trois siècles (archivés à la Forge-Temple Centrale de Brumaris) : pulsation moyenne du Mont Cendra de 46 secondes, en dérive lente (41 s il y a deux cents ans ; 43 s il y a cent ans ; 46 s aujourd'hui). Le Mont ralentit. Les rapports officiels parlent de "cycle interne profond" et évitent le mot "atténuation". Si la dérive est confirmée, elle est mortelle pour la doctrine du Réveil (un Mont qui ralentit ne se prépare pas à exploser).
+- **Le passage de Sorin Valthen (an 252).** Le cartographe kharazirien exilé est passé par Mylaris, sur les flancs du Mont, en l'an 252 ; il y a senti la pulsation (documenté dans son *Carnet IV*, déposé à [[Lumasar]]). Aucun registre cendarien n'a mentionné son passage. La logeuse **Kessa** de Mylaris s'en souvient ; **Talvhar le Brûlé**, qui partagea un repas avec lui, l'a oublié. Cendara suppose qu'un homme sans formation rituelle ne peut rien sentir.
+- **La fissure d'Utophora.** Un mineur de Galron a rapporté, en l'an 250, qu'une fissure latérale d'une mine inexplorée exhalait une chaleur stable mais inférieure à celle des fissures voisines. Anomalie classée par les Flammarques comme erreur de mesure ; le mineur a été muté. La fissure existe toujours et personne n'y descend.
+- **Les Délies à Brumaris.** Officiellement aucun Délie de la Flamme dans la capitale ; en pratique au moins trois (un boulanger du quartier basaltique, une herboriste de la pente sud, un sergent des Calcinés portant la marque sous son brassard). Aucun n'est militant ni ne prêche. La Médiatrice du Conseil des Cendres en connaît deux et n'a rien fait, par calcul (la chasse les rendrait visibles).
+- **La lettre dans le tiroir.** La lettre que le roi **Pyranthus IV** a écrite à ses enfants après sa brûlure (cf. *Histoires*, Brumaris) existe toujours, dans le tiroir gauche du bureau royal verrouillé ; lui seul l'a lue. La reine **Tessoria** sait qu'il y a quelque chose dans ce tiroir mais n'a jamais demandé. Si Pyranthus mourait, le Conseil des Cendres viderait et classerait le tiroir.

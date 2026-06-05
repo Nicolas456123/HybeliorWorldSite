@@ -1,8 +1,8 @@
-﻿---
+---
 tags: [lore, pays, evertia]
 type: lore
 status: drafted
-last_review: 2026-05-06
+last_review: 2026-06-05
 needs_review_for: []
 ---
 # Thalmaris — Le Chant des Anciens
@@ -24,12 +24,12 @@ needs_review_for: []
 
 ## Gouvernement — La Monarchie Bardique
 
-Le pouvoir à Thalmaris repose sur la parole et le talent :
+Pouvoir fondé sur la parole et le talent artistique.
 
-- **Le Roi-Barde (ou la Reine-Barde)** est le souverain suprême. Le titre est héréditaire, mais chaque héritier doit prouver sa maîtrise des arts lors d'un **Grand Récital** public. Un héritier sans talent artistique est écarté au profit d'un parent plus doué.
-- **Le Chœur Royal** est un conseil de douze maîtres-bardes qui conseillent le souverain. Chacun est spécialisé dans un art : poésie épique, musique instrumentale, théâtre, danse, peinture sonore, calligraphie, etc.
-- **Les Chroniqueurs** sont des fonctionnaires-artistes qui enregistrent chaque événement important sous forme de chanson ou de récit. L'administration de Thalmaris est littéralement lyrique.
-- **Les Ambassadeurs-Bardes** représentent Thalmaris à l'étranger. Leur arme diplomatique est le talent — résoudre un conflit par un récit qui montre les deux points de vue est plus efficace que mille traités.
+- **Roi-Barde / Reine-Barde** : souverain suprême. Titre héréditaire, mais chaque héritier doit prouver sa maîtrise des arts lors d'un **Grand Récital** public. Un héritier sans talent artistique est écarté au profit d'un parent plus doué.
+- **Le Chœur Royal** : conseil de douze maîtres-bardes conseillant le souverain. Chacun spécialisé dans un art (poésie épique, musique instrumentale, théâtre, danse, peinture sonore, calligraphie, etc.).
+- **Les Chroniqueurs** : fonctionnaires-artistes qui enregistrent chaque événement important sous forme de chanson ou de récit. Administration de forme lyrique.
+- **Les Ambassadeurs-Bardes** : représentent Thalmaris à l'étranger ; diplomatie par le talent (récit montrant les deux points de vue d'un conflit).
 
 ---
 
@@ -37,183 +37,178 @@ Le pouvoir à Thalmaris repose sur la parole et le talent :
 
 ### [[Cantus Mundi]] — Le Chant du Monde (religion dominante)
 
-Les Thalmariens croient que le monde a été créé par un chant — une mélodie primordiale dont chaque note a engendré une montagne, une rivière, un être vivant. Cantor, la divinité suprême du Cantus Mundi, n'est pas représenté sous forme humaine — il est une vibration, une résonance, un son qui traverse toute chose.
+- Croyance : le monde a été créé par un chant — mélodie primordiale dont chaque note a engendré une montagne, une rivière, un être vivant.
+- **Cantor** : divinité suprême du Cantus Mundi. Non représenté sous forme humaine — vibration, résonance, son traversant toute chose.
 
 **Pratiques centrales :**
-- **L'Heure du Chant** : Chaque jour à l'aube, tous les Thalmariens chantent ensemble — pas une prière formelle, mais une improvisation collective. La mélodie change chaque matin et est considérée comme un reflet de l'état du monde.
-- **Le Silence Sacré** : Paradoxalement, le silence est aussi sacré que la musique. Un moment de silence absolu précède chaque performance, pour honorer le vide d'où naît le son.
-- **La Dernière Chanson** : Quand un Thalmarien meurt, sa famille compose une chanson unique qui résume sa vie. Cette chanson est jouée une seule fois lors des funérailles, puis scellée dans les Archives du Chant — une bibliothèque souterraine d'Ostarith.
+- **L'Heure du Chant** : chaque jour à l'aube, tous les Thalmariens chantent ensemble — improvisation collective (non une prière formelle). La mélodie change chaque matin, considérée comme un reflet de l'état du monde.
+- **Le Silence Sacré** : le silence est aussi sacré que la musique. Un moment de silence absolu précède chaque performance, pour honorer le vide d'où naît le son.
+- **La Dernière Chanson** : à la mort d'un Thalmarien, sa famille compose une chanson unique résumant sa vie. Jouée une seule fois aux funérailles, puis scellée dans les **Archives du Chant** (bibliothèque souterraine d'Ostarith).
 
 ### [[Somnium Vigil]] — La Veille des Rêves (religion secondaire)
 
-Beaucoup de Thalmariens croient que les rêves sont une source d'inspiration divine. Somnix, le gardien des rêves, envoie des visions aux artistes pendant leur sommeil — des mélodies inédites, des histoires jamais racontées, des images jamais peintes. Les bardes les plus talentueux affirment que leurs meilleures œuvres leur sont "dictées" en rêve.
+- Croyance : les rêves sont une source d'inspiration divine.
+- **Somnix** : gardien des rêves. Envoie des visions aux artistes pendant leur sommeil (mélodies inédites, histoires jamais racontées, images jamais peintes). Les bardes les plus talentueux affirment que leurs meilleures œuvres leur sont « dictées » en rêve.
 
 ---
 
 ## Culture et société
 
 ### La parole comme pouvoir
-À Thalmaris, l'éloquence est la forme suprême de pouvoir. Un orateur talentueux est plus respecté qu'un guerrier, et un poète peut influencer la politique plus sûrement qu'un noble. Les duels ne se règlent pas par l'épée mais par le **joute verbale** — un échange de vers improvisés devant un jury populaire.
+- L'éloquence est la forme suprême de pouvoir : un orateur talentueux est plus respecté qu'un guerrier ; un poète influence la politique plus sûrement qu'un noble.
+- Les duels se règlent par **joute verbale** (échange de vers improvisés devant un jury populaire), non par l'épée.
 
 ### Les Grands Festivals
-Thalmaris organise quatre festivals annuels, un par saison :
-- **Le Festival du Renouveau** (printemps) : Compétitions de composition de nouvelles œuvres.
-- **Le Festival de la Lumière** (été) : Représentations théâtrales et danses en plein air.
-- **Le Festival des Mémoires** (automne) : Récitation des grandes épopées historiques.
-- **Le Festival du Silence** (hiver) : Méditation collective et hommage aux morts.
+Quatre festivals annuels, un par saison :
+- **Festival du Renouveau** (printemps) : compétitions de composition de nouvelles œuvres.
+- **Festival de la Lumière** (été) : représentations théâtrales et danses en plein air.
+- **Festival des Mémoires** (automne) : récitation des grandes épopées historiques.
+- **Festival du Silence** (hiver) : méditation collective et hommage aux morts.
 
 ### L'éducation
-Tous les enfants thalmariens apprennent à chanter, à jouer d'un instrument et à raconter une histoire avant d'apprendre à se battre. L'éducation est centrée sur les arts, la rhétorique et la diplomatie. Les Thalmariens ne sont pas des guerriers — mais leur capacité à démoraliser un ennemi par la satire est redoutable.
+- Tous les enfants apprennent à chanter, à jouer d'un instrument et à raconter une histoire avant d'apprendre à se battre.
+- Éducation centrée sur les arts, la rhétorique et la diplomatie.
+- Pas un peuple guerrier ; redoutable capacité à démoraliser un ennemi par la satire.
 
 ---
 
 ## Régions
 
-### Azuralis
-Région côtière au sud-ouest, baignée par une lumière bleue caractéristique qui a inspiré d'innombrables poèmes. Azuralis est le berceau des arts visuels de Thalmaris — peintres et sculpteurs y puisent leur inspiration.
-
-### Zylar
-Vallée intérieure isolée, connue pour ses propriétés acoustiques exceptionnelles. Les falaises de Zylar amplifient et déforment les sons de manière imprévisible — les bardes y viennent pour tester leurs compositions dans des conditions extrêmes.
-
-### Nalmir
-Plaines fertiles au centre de Thalmaris, parsemées de villages prospères. Nalmir est le grenier du pays et le berceau des traditions rurales — chansons de moisson, contes du soir, danses populaires.
-
-### Ostaris
-Région des hautes collines où se trouve la capitale. Ostaris est le cœur politique et culturel de Thalmaris, où se concentrent les académies, les salles de spectacle et les archives.
-
-### Rylthos
-Région montagneuse au nord, terres rudes habitées par des bardes-guerriers — des musiciens qui ont adapté leur art au combat. Les chants de guerre de Rylthos sont si puissants qu'ils peuvent galvaniser une armée ou terrifier un ennemi.
-
-### Windora
-Région venteuse à l'est, où les éoliennes naturelles — des formations rocheuses qui chantent avec le vent — ont inspiré toute une tradition musicale. Les instruments de Windora sont conçus pour capturer et moduler le vent.
+- **Azuralis** : région côtière au sud-ouest, baignée d'une lumière bleue caractéristique. Berceau des arts visuels de Thalmaris (peintres, sculpteurs).
+- **Zylar** : vallée intérieure isolée aux propriétés acoustiques exceptionnelles. Falaises qui amplifient et déforment les sons de manière imprévisible ; les bardes y testent leurs compositions en conditions extrêmes.
+- **Nalmir** : plaines fertiles au centre du pays, parsemées de villages prospères. Grenier du pays et berceau des traditions rurales (chansons de moisson, contes du soir, danses populaires).
+- **Ostaris** : hautes collines où se trouve la capitale. Cœur politique et culturel (académies, salles de spectacle, archives).
+- **Rylthos** : région montagneuse au nord, terres rudes habitées par des bardes-guerriers (musiciens ayant adapté leur art au combat). Chants de guerre capables de galvaniser une armée ou de terrifier un ennemi.
+- **Windora** : région venteuse à l'est. Éoliennes naturelles (formations rocheuses qui chantent avec le vent) à l'origine d'une tradition musicale ; instruments conçus pour capturer et moduler le vent.
 
 ---
 
 ## Villes et villages
 
 ### Ostarith — Capitale ★
-*La capitale de Thalmaris est une symphonie architecturale. Chaque bâtiment est conçu pour résonner — les toits en forme de cloches, les rues qui canalisent le vent en mélodies, les places publiques dont l'acoustique permet à un murmure d'être entendu de tous. Au centre, le Palais du Chant — une construction de marbre blanc et de cristal de résonance — est le plus grand amphithéâtre couvert d'Hybelior, capable d'accueillir dix mille spectateurs.*
-**Histoire :** Valdren le Trouvère chanta ses trente nuits fondatrices sur la colline où s'élève aujourd'hui le Palais du Chant — non pas par choix, mais parce que ses pieds s'y arrêtèrent instinctivement, comme si la terre elle-même portait sa voix. Les premiers architectes de Thalmaris découvrirent pourquoi : le substrat cristallin sous la colline crée une chambre de résonance naturelle, amplifiant et clarifiant tout ce qui y est chanté. Le Palais fut construit pour capturer ce phénomène et le mettre au service de dix mille auditeurs — mais les chanteurs qui y montent pour la première fois racontent tous la même chose : on a l'impression que la terre chante avec vous.
+- Capitale de Thalmaris ; architecture conçue pour résonner (toits en forme de cloches, rues canalisant le vent en mélodies, places dont l'acoustique porte un murmure à tous).
+- **Palais du Chant** : construction de marbre blanc et de cristal de résonance ; plus grand amphithéâtre couvert d'Hybelior (capacité dix mille spectateurs).
+- Fondation : Valdren le Trouvère y chanta ses trente nuits fondatrices, sur la colline où s'élève aujourd'hui le Palais. Le substrat cristallin sous la colline forme une chambre de résonance naturelle qui amplifie et clarifie tout chant ; le Palais fut construit pour capter ce phénomène.
 - Population : Capitale
 - Région : Ostaris
 
 ### Galdaris
-*Ville académique où se trouve la Grande École des Bardes. Les étudiants y passent sept ans à maîtriser au moins trois arts avant d'obtenir le titre de Barde certifié. Les recalés sont rares mais le déshonneur est si grand que certains quittent Thalmaris plutôt que de l'affronter.*
-**Histoire :** La Grande École ne naquit pas d'une décision royale mais d'un cercle — sept disciples de Valdren qui refusèrent que son art meure avec lui et commencèrent à se réunir chaque semaine dans une clairière pour pratiquer et transmettre. Ils ne cherchèrent pas d'élèves ; les élèves vinrent d'eux-mêmes. La clairière devint une grange, la grange devint un bâtiment, le bâtiment devint une institution, et Galdaris grandit autour de l'école comme une ville grandit autour d'une cathédrale. Les sept chaises des fondateurs sont encore au centre de la grande salle — personne ne s'y assoit.
+- Ville académique abritant la **Grande École des Bardes** : sept ans d'études, maîtrise d'au moins trois arts requise pour le titre de Barde certifié. Recalés rares, mais déshonneur tel que certains quittent Thalmaris.
+- Fondation : née d'un cercle de sept disciples de Valdren qui se réunissaient chaque semaine pour pratiquer et transmettre son art ; la ville a grandi autour de l'école. Les sept chaises des fondateurs sont au centre de la grande salle (personne ne s'y assoit).
 - Population : Ville
 - Région : Ostaris
 
 ### Azuralith
-*Cité portuaire baignée dans une lumière azurée perpétuelle — un phénomène naturel dû à la réfraction des cristaux marins de la côte. Azuralith est le centre des arts visuels : ses ateliers de peinture, de mosaïque et de vitrail sont renommés.*
-**Histoire :** Pendant des siècles, la lumière bleue d'Azuralith fut considérée comme une bénédiction divine de Cantor — preuve que le monde chantait sa propre beauté à cet endroit précis. Ce n'est qu'au cours du siècle passé qu'un philosophe naturaliste identifia les formations cristallines sous-marines responsables du phénomène. Sa conclusion fut accueillie avec soulagement plutôt que déception : les artistes d'Azuralith comprirent que ce n'était pas moins merveilleux d'être né de la géologie, et que la lumière était là bien avant que quiconque ne la nomme divine.
+- Cité portuaire à la lumière azurée perpétuelle, due à la réfraction des cristaux marins de la côte (longtemps tenue pour une bénédiction divine de Cantor ; origine géologique identifiée au siècle passé par un philosophe naturaliste).
+- Centre des arts visuels : ateliers de peinture, de mosaïque et de vitrail renommés.
 - Population : Ville
 - Région : Azuralis
 
 ### Valornis
-*Ville de marchands d'art où les œuvres de tout Thalmaris sont exposées et échangées. Le Grand Marché de Valornis est un événement culturel autant que commercial — chaque transaction est accompagnée d'une performance.*
-**Histoire :** Valornis était un marché ordinaire de tissus et de céréales avant qu'un Roi-Barde décide par décret que tout acte commercial était aussi un acte culturel et que toute transaction devait s'accompagner d'une chanson, d'un poème ou d'un récit. Les marchands de Valornis protestèrent, puis s'adaptèrent, puis réalisèrent que la performance attirait des clients de plus loin que le commerce seul ne l'aurait fait. Le décret fut levé après dix ans mais la coutume était installée pour toujours.
+- Ville de marchands d'art ; œuvres de tout Thalmaris exposées et échangées. **Grand Marché de Valornis** : événement culturel autant que commercial, chaque transaction accompagnée d'une performance.
+- Origine de la coutume : décret d'un Roi-Barde rendant tout acte commercial aussi acte culturel (chanson, poème ou récit obligatoire par transaction). Décret levé après dix ans, coutume conservée.
 - Population : Ville
 - Région : Azuralis
 
 ### Galrinor
-*Village de pêcheurs-poètes qui composent des chants au rythme des vagues. La tradition musicale de Galrinor est unique : des mélopées lentes et mélancoliques qui imitent le ressac et racontent les histoires de ceux qui sont partis en mer sans revenir.*
-**Histoire :** La tradition musicale de Galrinor naquit du deuil. Une tempête emporta douze bateaux en une nuit et laissa le village incapable de pleurer — les familles attendaient toujours le retour des disparus, refusant d'admettre leur mort. Une vieille femme dont le mari était parmi les perdus commença à chanter au bord de l'eau, chaque soir, une mélopée qui imitait le bruit des vagues. Sans qu'elle le planifie, les autres familles la rejoignirent. Ce soir de deuil collectif devint le modèle de toute la musique de Galrinor.
+- Village de pêcheurs-poètes composant des chants au rythme des vagues. Tradition unique : mélopées lentes et mélancoliques imitant le ressac, racontant ceux qui sont partis en mer sans revenir.
+- Origine : née d'un deuil collectif après qu'une tempête emporta douze bateaux en une nuit ; une veuve commença à chanter au bord de l'eau chaque soir, rejointe par les autres familles.
 - Population : Ville
 - Région : Azuralis
 
 ### Zylarith
-*Unique village de la vallée de Zylar, habité par des acousticiens et des musiciens expérimentaux. Les falaises environnantes servent de salle de concert naturelle, et les compositions créées ici exploitent les échos et les distorsions de la vallée d'une manière que nul autre lieu ne permet.*
-**Histoire :** Zylarith commença comme un camp saisonnier — des musiciens qui venaient chaque automne exploiter les acoustiques de la vallée, puis repartaient. Mais un hiver particulièrement rude isola un groupe dans la vallée et ils durent passer la mauvaise saison là. Ce qu'ils découvrirent fut inattendu : les acoustiques de la vallée changeaient avec la neige, créant des résonances impossibles en été. Ils ne repartirent plus, et Zylarith devint un laboratoire sonore permanent.
+- Unique village de la vallée de Zylar, habité par des acousticiens et musiciens expérimentaux. Falaises servant de salle de concert naturelle ; compositions exploitant échos et distorsions de la vallée.
+- Particularité : les acoustiques de la vallée changent avec la neige, créant des résonances impossibles en été. D'abord camp saisonnier, devenu laboratoire sonore permanent après qu'un groupe y fut isolé un hiver rude.
 - Population : Ville
 - Région : Zylar
 
 ### Nalmiris
-*Bourg rural au cœur des plaines de Nalmir. Nalmiris est le berceau des chansons populaires — celles que les paysans chantent en travaillant, transmises de génération en génération. Les puristes des académies méprisent ces chants, mais le peuple les adore.*
-**Histoire :** Nalmiris est assez ancienne pour que ses premières chansons précèdent Thalmaris lui-même — c'est ici que Valdren le Trouvère collecta les mélodies que les paysans conservaient oralement depuis l'époque du Silence, les seules qui avaient survécu parce qu'elles avaient été transmises non comme histoire mais comme rythme de travail, inséparables du geste de moissonner. Valdren les nota, les intégra au corpus qu'il enseigna, et Nalmiris fut officiellement reconnue comme la source de la mémoire thalmarienne. La ville n'en fait aucun cas — on y est toujours en train de chanter en travaillant.
+- Bourg rural au cœur des plaines de Nalmir ; berceau des chansons populaires (chants de travail transmis de génération en génération). Méprisé des puristes des académies, adoré du peuple.
+- Antériorité : ses premières chansons précèdent Thalmaris ; Valdren le Trouvère y collecta des mélodies que les paysans conservaient oralement depuis l'époque du Silence (survie due à leur transmission comme rythme de travail). Reconnue officiellement comme source de la mémoire thalmarienne.
 - Population : Ville
 - Région : Nalmir
 
 ### Myrdoris
-*Village de conteurs spécialisés dans les récits d'horreur et les légendes sombres. Les nuits de Myrdoris sont célèbres : les habitants se rassemblent autour d'un feu et se racontent des histoires qui feraient fuir les voyageurs les plus courageux.*
-**Histoire :** La spécialisation sombre de Myrdoris naquit d'une épidémie qui emporta la moitié du village en deux hivers. Les survivants ne parvenaient pas à parler de ce qu'ils avaient vécu directement — mais ils découvrirent qu'en habillant leur traumatisme de monstres et de fantômes, ils pouvaient le nommer sans être submergés. Ce que les académies appelèrent plus tard « le conte thérapeutique » fut à Myrdoris une nécessité de survie avant d'être un art, et l'héritage de cette douleur transformée donne encore aux récits du village une profondeur que les conteurs académiques ne parviennent pas à imiter.
+- Village de conteurs spécialisés dans les récits d'horreur et légendes sombres. Veillées célèbres autour du feu.
+- Origine : spécialisation née d'une épidémie ayant emporté la moitié du village en deux hivers ; les survivants nommèrent leur traumatisme via monstres et fantômes (« conte thérapeutique » selon les académies, nécessité de survie avant d'être un art).
 - Population : Ville
 - Région : Nalmir
 
 ### Elarinor
-*Cité des danseurs. L'art de la danse à Elarinor n'est pas un divertissement — c'est un langage complet. Les danseurs d'Elarinor peuvent transmettre des messages complexes par le mouvement, et leurs performances rituelles sont considérées comme des actes de magie.*
-**Histoire :** La danse comme langage précis naquit d'une rencontre diplomatique. Une reine voisine, sourde de naissance, vint en visite officielle à Thalmaris sans interprète — et une danseuse d'Elarinor, habituée à communiquer par le mouvement avec ses partenaires, improvisa une conversation gestuelle que la reine comprit intuitivement. L'échange qui suivit entre les deux femmes, entièrement dansé, résolut un contentieux commercial que les négociateurs verbaux avaient échoué à dénouer en six mois. La danseuse rentra chez elle et passa le reste de sa vie à formaliser le langage qu'elle avait inventé cet après-midi-là.
+- Cité des danseurs ; la danse y est un langage complet capable de transmettre des messages complexes. Performances rituelles considérées comme actes de magie.
+- Origine : langage dansé formalisé par une danseuse d'Elarinor après avoir improvisé une conversation gestuelle avec une reine voisine sourde de naissance, dénouant un contentieux commercial que les négociateurs verbaux avaient échoué à résoudre en six mois.
 - Population : Ville
 - Région : Nalmir
 
 ### Velrith
-*Village de calligraphes et d'enlumineurs. Les manuscrits de Velrith sont des œuvres d'art — chaque lettre est décorée, chaque page est un tableau. Les commandes d'écriture de Velrith sont si demandées que l'attente peut durer des années.*
-**Histoire :** La tradition calligraphique de Velrith naquit d'une nécessité sécuritaire. Un faussaire talentueux avait reproduit des proclamations royales si fidèlement qu'une faction politique s'en servit pour déclencher une brève révolte. La Grande École demanda aux meilleurs artisans de créer des documents impossibles à falsifier — non par code ou sceau, mais par l'élaboration décorative, car une décoration aussi précise et personnelle ne pouvait être imitée. Velrith fut désignée comme le centre de production de ces documents officiels, et l'art qui en résulta dépassa de loin sa fonction utilitaire.
+- Village de calligraphes et enlumineurs ; manuscrits décorés comme œuvres d'art (chaque lettre ornée, chaque page un tableau). Commandes très demandées (attente de plusieurs années).
+- Origine : tradition née d'une nécessité sécuritaire — après qu'un faussaire eut reproduit des proclamations royales servant à déclencher une révolte, la Grande École commanda des documents infalsifiables par élaboration décorative. Velrith désignée centre de production des documents officiels.
 - Population : Ville
 - Région : Nalmir
 
 ### Faloria
-*Hameau paisible spécialisé dans la fabrication d'encres. Les encres de Faloria sont réputées pour ne jamais s'effacer — une propriété quasi magique qui en fait le matériau d'écriture le plus précieux de Thalmaris.*
-**Histoire :** La formule de l'encre permanente fut découverte par accident lorsqu'un scribe renversa une mixture expérimentale sur un vieux parchemin et réalisa, des décennies plus tard, que l'inscription n'avait pas pâli d'un iota. Il reconstitua la formule par déduction, la nota soigneusement — et la publia immédiatement pour tout le monde, conformément aux valeurs thalmarienne de partage du savoir. Faloria devint le centre de production de cette encre par simple proximité géographique avec les plantes dont elle nécessite l'extrait.
+- Hameau paisible spécialisé dans la fabrication d'encres. Encres réputées ne jamais s'effacer — matériau d'écriture le plus précieux de Thalmaris.
+- Origine : formule de l'encre permanente découverte par accident (mixture renversée sur un parchemin, inscription intacte des décennies plus tard) ; reconstituée par déduction et publiée pour tous (valeurs thalmariennes de partage du savoir). Faloria centre de production par proximité avec les plantes nécessaires à l'extrait.
 - Population : Ville
 - Région : Nalmir
 
 ### Rylthoris
-*Ville principale de Rylthos, perchée sur un éperon montagneux. Rylthoris est le bastion des bardes-guerriers — des hommes et des femmes qui manient aussi bien la lame que le luth. Leurs chants de guerre résonnent dans les montagnes lors des entraînements.*
-**Histoire :** La tradition des bardes-guerriers de Rylthoris naquit lors d'une invasion du nord qui surprit Thalmaris sans armée conventionnelle. Les bardes qui tentèrent de fuir vers les montagnes se retrouvèrent forcés de combattre — et découvrirent que leurs chants, répercutés par les parois rocheuses, couvraient le bruit de leurs mouvements et rendaient les coordinations de l'ennemi impossibles. Ils gagnèrent des batailles qu'ils n'auraient pas dû pouvoir gagner. Rylthoris fut fondée ensuite pour institutionnaliser cette découverte involontaire.
+- Ville principale de Rylthos, perchée sur un éperon montagneux ; bastion des bardes-guerriers (maniant la lame autant que le luth). Chants de guerre résonnant dans les montagnes.
+- Origine : tradition née lors d'une invasion du nord ayant surpris Thalmaris sans armée conventionnelle ; des bardes en fuite, forcés de combattre, découvrirent que leurs chants répercutés par les parois couvraient leurs mouvements et désorganisaient l'ennemi. Rylthoris fondée ensuite pour institutionnaliser cette découverte.
 - Population : Ville
 - Région : Rylthos
 
 ### Thaloria
-*Forteresse culturelle où les bardes apprennent le Chant de Bataille — une technique vocale capable de galvaniser les alliés et de semer la confusion chez l'ennemi. Les murs de Thaloria portent les inscriptions de chaque chant de guerre composé dans son enceinte.*
-**Histoire :** Le Chant de Bataille fut formalisé après qu'un barde remarqua qu'une fréquence particulière provoquait des vertiges chez les soldats ennemis tout en améliorant la concentration des alliés — un phénomène qu'il attribua à la résonance différente selon l'orientation du corps pendant le combat. Thaloria fut construite spécifiquement comme école-forteresse pour enseigner cette technique dans des conditions militaires réelles, et ses murs portent les inscriptions de chaque chant composé depuis sa fondation — non comme décoration mais comme archive de guerre.
+- Forteresse culturelle ; les bardes y apprennent le **Chant de Bataille** (technique vocale galvanisant les alliés et semant la confusion chez l'ennemi). Murs portant les inscriptions de chaque chant de guerre composé dans son enceinte (archive de guerre).
+- Origine : Chant de Bataille formalisé après qu'un barde remarqua qu'une fréquence particulière provoquait des vertiges chez les ennemis tout en améliorant la concentration des alliés. Thaloria bâtie comme école-forteresse pour enseigner la technique en conditions militaires réelles.
 - Population : Ville
 - Région : Rylthos
 
 ### Galdaroth
-*Village minier où les mineurs chantent en travaillant — non par tradition, mais par nécessité. Les vibrations de certaines mélodies renforcent la roche et préviennent les effondrements. Les chants de mine de Galdaroth sont un savoir technique autant qu'artistique.*
-**Histoire :** La découverte que certaines mélodies stabilisent la roche vint d'un mineur de Galdaroth qui avait l'habitude de chanter pour calmer sa peur dans les galeries profondes. Lors d'un début d'effondrement, il chanta instinctivement — et les craquements cessèrent. Il nota l'incident avec scepticisme mais testa systématiquement différentes mélodies jusqu'à isoler celles qui fonctionnaient. Son carnet de notes, transmis de mineur en mineur, est aujourd'hui le document technique le plus précieux de Galdaroth — et le plus étrange à lire pour quiconque ne comprend pas que chaque note est aussi une instruction structurelle.
+- Village minier où les mineurs chantent par nécessité : certaines mélodies renforcent la roche et préviennent les effondrements (savoir technique autant qu'artistique).
+- Origine : découverte faite par un mineur qui chantait pour calmer sa peur ; un chant instinctif stoppa un début d'effondrement. Mélodies efficaces isolées par tests systématiques ; carnet de notes transmis de mineur en mineur, document technique le plus précieux de Galdaroth (chaque note est aussi une instruction structurelle).
 - Population : Ville
 - Région : Rylthos
 
 ### Zyldoris
-*Bourg d'altitude connu pour ses chœurs de montagne — des ensembles vocaux qui exploitent les échos des sommets pour créer des harmonies impossibles à reproduire ailleurs. Les performances de Zyldoris attirent des auditeurs de tout Endora.*
-**Histoire :** Le premier chœur de Zyldoris fut créé par un barde qui testait les acoustiques des sommets en solitaire et entendit sa propre voix lui revenir déformée par trois pics différents — créant une harmonie à trois voix dont il était la seule source. Émerveillé, il convoqua des amis pour reproduire l'expérience. Ils restèrent et fondèrent Zyldoris autour de ces trois pics, dont les angles et distances furent cartographiés avec la précision d'architectes pour que chaque chœur exploite exactement les bons délais d'écho.
+- Bourg d'altitude connu pour ses chœurs de montagne (ensembles vocaux exploitant les échos des sommets pour des harmonies inreproductibles ailleurs). Performances attirant des auditeurs de tout Endora.
+- Origine : premier chœur né d'un barde entendant sa voix lui revenir déformée par trois pics, créant une harmonie à trois voix dont il était la seule source. Zyldoris fondée autour de ces trois pics, dont angles et distances furent cartographiés pour exploiter exactement les bons délais d'écho.
 - Population : Ville
 - Région : Rylthos
 
 ### Nythoria
-*Village de luthiers montagnards qui fabriquent des instruments à partir du bois rare des hauteurs. Les luths de Nythoria sont accordés par le froid — ils sonnent mieux en hiver, quand l'air sec et glacé porte les notes plus loin.*
-**Histoire :** La particularité hivernale des instruments de Nythoria fut d'abord considérée comme un défaut — les luths accordés en été sonnaient faux en hiver, et vice-versa. Un luthier décida de retourner le problème : plutôt que de fabriquer des instruments qui résistent aux changements de température, il construirait des instruments calibrés pour le froid, en exploitant la contraction du bois comme une propriété désirée. Ses luths d'hiver, considérés au départ comme des curiosités, s'avérèrent avoir une clarté et une portée que les instruments d'été ne pouvaient égaler.
+- Village de luthiers montagnards fabriquant des instruments en bois rare des hauteurs. Luths accordés par le froid : sonnent mieux en hiver (air sec et glacé portant les notes plus loin).
+- Origine : particularité hivernale d'abord tenue pour un défaut ; un luthier choisit de calibrer les instruments pour le froid en exploitant la contraction du bois, obtenant une clarté et une portée inégalées par les instruments d'été.
 - Population : Ville
 - Région : Rylthos
 
 ### Valorin
-*Avant-poste situé dans un col montagneux, servant à la fois de poste de garde et de relais culturel. Les voyageurs qui passent par Valorin sont invités à partager une histoire ou une chanson en guise de droit de passage.*
-**Histoire :** La coutume du péage par récit fut inventée par la fondatrice de Valorin, une barde qui gardait seule le col et s'ennuyait. Elle commença à refuser le passage à ceux qui ne lui apportaient pas d'histoire en échange. La règle absurde devint célèbre, et des voyageurs commencèrent à s'arrêter à Valorin spécifiquement pour entendre les histoires accumulées. Un village se forma autour de cette curiosité, et Valorin est aujourd'hui la plus grande archive orale du nord de Thalmaris — chaque histoire reçue transmise aux suivants.
+- Avant-poste dans un col montagneux ; poste de garde et relais culturel. Péage par récit : tout voyageur partage une histoire ou une chanson en guise de droit de passage.
+- Origine : coutume inventée par la fondatrice, une barde gardant seule le col, qui refusait le passage à qui n'apportait pas d'histoire. Plus grande archive orale du nord de Thalmaris (chaque histoire reçue transmise aux suivants).
 - Population : Ville
 - Région : Rylthos
 
 ### Windoris
-*Ville principale de Windora, construite autour d'un ensemble de formations rocheuses qui chantent avec le vent. Les habitants ont appris à prédire le temps en écoutant la mélodie des rochers — chaque tonalité correspond à une direction et une force de vent.*
-**Histoire :** Les premiers habitants de Windoris n'étaient pas des musiciens mais des bergers qui utilisaient le chant des rochers comme repère audible dans les brumes — le son indiquait leur position dans le paysage. Lorsque les premiers bardes arrivèrent pour étudier le phénomène, ils trouvèrent des bergers qui avaient déjà cartographié acoustiquement toute la région et pouvaient prédire la météo par l'écoute. Les bardes apprirent des bergers avant que les bergers n'apprennent des bardes, et cette inversion des rôles reste une fierté locale.
+- Ville principale de Windora, construite autour de formations rocheuses qui chantent avec le vent. Habitants capables de prédire le temps en écoutant la mélodie des rochers (chaque tonalité = une direction et une force de vent).
+- Origine : premiers habitants bergers (non musiciens) utilisant le chant des rochers comme repère audible dans les brumes ; ils avaient cartographié acoustiquement la région avant l'arrivée des bardes, qui apprirent d'eux (inversion des rôles, fierté locale).
 - Population : Ville
 - Région : Windora
 
 ### Faldorin
-*Village d'ingénieurs sonores qui conçoivent des structures capables de capturer et d'amplifier les sons naturels. Les éoliennes musicales de Faldorin alimentent à la fois la ville en énergie et en musique.*
-**Histoire :** Les ingénieurs de Faldorin essayèrent d'abord de réduire le vent — le bruit constant était considéré comme une nuisance qui rendait la concentration impossible. Tous leurs dispositifs d'atténuation sonore échouèrent. Un jeune ingénieur, excédé, décida d'aller dans la direction inverse et conçut la première éolienne musicale comme un acte de capitulation créative. Le résultat, qui transformait la nuisance en énergie et en harmonie simultanément, lui valut plus de reconnaissance que tous ses prédécesseurs qui avaient tenté de faire taire le vent.
+- Village d'ingénieurs sonores concevant des structures captant et amplifiant les sons naturels. Éoliennes musicales alimentant la ville en énergie et en musique.
+- Origine : ingénieurs ayant d'abord cherché à réduire le bruit du vent (tous dispositifs d'atténuation ayant échoué) ; un jeune ingénieur conçut la première éolienne musicale, transformant la nuisance en énergie et harmonie.
 - Population : Ville
 - Région : Windora
 
 ### Belvarin
-*Bourg paisible connu pour ses jardins sonores — des espaces paysagers où chaque plante, chaque fontaine, chaque élément est disposé pour produire une symphonie naturelle. Les malades viennent à Belvarin pour la "guérison par le son".*
-**Histoire :** Le premier jardin sonore de Belvarin fut créé par un médecin qui avait observé que ses patients récupéraient plus vite lorsqu'il les plaçait dans des chambres proches d'une fontaine et d'un jardin. Il documenta ses observations avec rigueur pendant vingt ans avant de publier ses conclusions, de peur d'être ridiculisé. Lorsqu'il le fit, d'autres médecins reproduisirent ses expériences et confirmèrent ses résultats. Belvarin devint le centre de formation en médecine sonore, et ses jardins sont aujourd'hui copiés dans tout Thalmaris.
+- Bourg paisible connu pour ses jardins sonores (espaces paysagers où plantes, fontaines et éléments sont disposés pour produire une symphonie naturelle). Destination de « guérison par le son » pour les malades.
+- Origine : premier jardin sonore créé par un médecin ayant observé une récupération plus rapide des patients proches d'une fontaine et d'un jardin ; vingt ans d'observations documentées, confirmées ensuite par d'autres médecins. Belvarin centre de formation en médecine sonore.
 - Population : Ville
 - Région : Windora
 
 ### Lythmar
-*Village isolé à l'extrémité orientale de Windora, battu par des vents constants. Les habitants de Lythmar sont des ermites musiciens qui composent dans la solitude. Leurs œuvres, rares et précieuses, sont considérées comme les plus profondes de Thalmaris.*
-**Histoire :** La tradition de solitude de Lythmar commença avec un seul barde qui se retira après avoir produit ce que les critiques de Galdaris appelèrent son chef-d'œuvre. Il refusa la célébration — il savait que l'œuvre venait du vent, pas de lui, et il avait besoin de s'isoler pour réapprendre à écouter. D'autres bardes qui avaient le même sentiment le suivirent, non pour vivre ensemble mais pour vivre parallèlement, chacun seul avec le vent. Lythmar n'est pas une communauté au sens habituel — c'est un accord tacite de ne pas se déranger mutuellement.
+- Village isolé à l'extrémité orientale de Windora, battu par des vents constants. Habités par des ermites musiciens composant dans la solitude ; œuvres rares et précieuses, tenues pour les plus profondes de Thalmaris.
+- Origine : tradition née d'un barde retiré après son chef-d'œuvre (œuvre attribuée au vent plus qu'à lui), suivi d'autres bardes vivant parallèlement, chacun seul avec le vent. Lythmar = accord tacite de ne pas se déranger mutuellement, non une communauté ordinaire.
 - Population : Ville
 - Région : Windora
 
@@ -223,17 +218,17 @@ Région venteuse à l'est, où les éoliennes naturelles — des formations roch
 
 | Pays | Relation | Détails |
 |------|----------|---------|
-| **Iskara** | Respect mutuel | Les bardes de Thalmaris chantent les exploits des guerriers d'Iskara. En échange, Iskara assure la sécurité de Thalmaris — un pays qui ne possède pas d'armée conventionnelle. |
-| **Avalor** | Amitié profonde | Les deux nations partagent un amour des traditions et du mystère. Les bardes d'Avalor et de Thalmaris organisent des festivals communs. |
-| **Tyndara** | Partenariat commercial | Les marchands de Tyndara distribuent les œuvres et instruments de Thalmaris dans tout Hybelior. Un arrangement mutuellement profitable. |
-| **Nysaria** | Fascination | Thalmaris est obsédée par le mystère de Nysaria. Des dizaines de chansons ont été composées sur l'île mystérieuse, mais aucun barde n'a réussi à y pénétrer. |
+| **Iskara** | Respect mutuel | Les bardes de Thalmaris chantent les exploits des guerriers d'Iskara. En échange, Iskara assure la sécurité de Thalmaris, pays sans armée conventionnelle. |
+| **Avalor** | Amitié profonde | Amour partagé des traditions et du mystère. Festivals communs entre bardes d'Avalor et de Thalmaris. |
+| **Tyndara** | Partenariat commercial | Les marchands de Tyndara distribuent les œuvres et instruments de Thalmaris dans tout Hybelior. Arrangement mutuellement profitable. |
+| **Nysaria** | Fascination | Obsession pour le mystère de Nysaria. Des dizaines de chansons composées sur l'île, mais aucun barde n'a réussi à y pénétrer. |
 
 ---
 
 ## Secrets et intrigues
 
-- **Les Archives du Chant** : Sous Ostarith, une bibliothèque souterraine contient les "dernières chansons" de chaque Thalmarien mort depuis la fondation du pays. Les gardiens des Archives affirment, dans des marges de catalogues que les visiteurs ne lisent jamais, que certaines de ces chansons, si elles étaient jouées ensemble, *pourraient réveiller les morts — ou détruire le monde*. Cette formulation circule depuis trois siècles. Aucun gardien des Archives n'a jamais essayé.
-- **Le Chant Interdit** : Il existe une mélodie que tous les bardes apprennent à reconnaître mais jamais à jouer. Ce chant, attribué à Valdren lui-même selon une lecture, aurait le pouvoir de contrôler les esprits de ceux qui l'entendent. Le dernier barde qui l'a joué a provoqué une folie collective dans une ville entière. Selon une autre lecture (rare, marginale, soutenue par une lignée de Cantori dissidents au XIIᵉ siècle), il n'y a jamais eu de Chant Interdit — ce serait une fiction prophylactique inventée pour discipliner les apprentis. La doctrine officielle ne tranche pas.
-- **La Reine-Barde retirée et le Rêve** : Elyndra III, après abdication, ne dort toujours pas. Elle compose la nuit dans sa cellule à Galdaris. Ses proches murmurent qu'un esprit du Somnium Vigil lui envoie des visions d'un cataclysme imminent — et qu'elle cherche désespérément le chant qui pourrait l'empêcher. Aelorys IV, son fils, lui rend visite une fois par mois et lui apporte des partitions vierges. Il n'a jamais demandé à voir ce qu'elle écrit. Elle ne lui a jamais montré.
-- **La fréquence qui hésite (Cantus actuel).** Depuis dix-huit mois, les Cantori de l'Académie notent en privé des variations subtiles dans les fréquences qu'ils perçoivent lors de leurs sessions. Pas faux — *différent*, comme le formule la Maîtresse Orvenne (cf. Sorin ch. 31). Le phénomène n'a pas été publié. Voix-de-Pierre, le doyen des Cantori, l'a relié à sa propre observation à Sylvara : *la fréquence propre de la terre commence à vibrer*. Cette analyse circule à mots couverts. Aelorys IV n'a pas été informé officiellement — Voix-de-Pierre considère que le roi pourrait *réagir politiquement* à une donnée qui n'est pas encore mûre pour la politique.
-- **Les transcriptions interdites.** Une fraction des Cantori transcrit en cachette des chants qui devraient demeurer non écrits — chants funéraires sylvarains, dernières chansons des défunts thalmariens. Cette pratique, justifiée par leurs auteurs comme un acte de *préservation*, est en violation flagrante de la doctrine du *Silence Sacré* et de la règle d'unicité de la Dernière Chanson. Le Chœur Royal soupçonne. Il n'agit pas. Trois Cantori en ont été déchus en cent ans, ce qui est un nombre ridiculement bas par rapport à la pratique réelle.
+- **Les Archives du Chant** : sous Ostarith, bibliothèque souterraine contenant les « dernières chansons » de chaque Thalmarien mort depuis la fondation du pays. Les gardiens affirment (dans des marges de catalogues jamais lues des visiteurs) que certaines de ces chansons, jouées ensemble, *pourraient réveiller les morts — ou détruire le monde*. Formulation en circulation depuis trois siècles ; jamais testée par aucun gardien.
+- **Le Chant Interdit** : mélodie que tous les bardes apprennent à reconnaître mais jamais à jouer. Attribué à Valdren selon une lecture ; aurait le pouvoir de contrôler les esprits de ceux qui l'entendent (le dernier barde à l'avoir joué aurait provoqué une folie collective dans une ville entière). Selon une autre lecture (rare, marginale, soutenue par une lignée de Cantori dissidents au XIIᵉ siècle), il n'a jamais existé : fiction prophylactique inventée pour discipliner les apprentis. Doctrine officielle non tranchée.
+- **La Reine-Barde retirée et le Rêve** : Elyndra III, après abdication, ne dort plus et compose la nuit dans sa cellule à Galdaris. Ses proches murmurent qu'un esprit du Somnium Vigil lui envoie des visions d'un cataclysme imminent, et qu'elle cherche le chant qui pourrait l'empêcher. Aelorys IV, son fils, lui rend visite une fois par mois et lui apporte des partitions vierges ; il n'a jamais demandé à voir ce qu'elle écrit, elle ne lui a jamais montré.
+- **La fréquence qui hésite (Cantus actuel)** : depuis dix-huit mois, les Cantori de l'Académie notent en privé des variations subtiles dans les fréquences perçues lors de leurs sessions — non fausses, *différentes* (formulation de la Maîtresse Orvenne, cf. Sorin ch. 31). Phénomène non publié. Voix-de-Pierre, doyen des Cantori, le relie à sa propre observation à Sylvara : *la fréquence propre de la terre commence à vibrer*. Analyse circulant à mots couverts. Aelorys IV non informé officiellement (Voix-de-Pierre craignant qu'il ne *réagisse politiquement* à une donnée pas encore mûre).
+- **Les transcriptions interdites** : une fraction des Cantori transcrit en cachette des chants qui devraient demeurer non écrits (chants funéraires sylvarains, dernières chansons des défunts thalmariens). Pratique justifiée comme acte de *préservation*, en violation de la doctrine du *Silence Sacré* et de la règle d'unicité de la Dernière Chanson. Le Chœur Royal soupçonne mais n'agit pas. Trois Cantori déchus en cent ans, nombre dérisoire au regard de la pratique réelle.

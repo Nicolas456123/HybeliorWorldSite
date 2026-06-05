@@ -2,7 +2,7 @@
 tags: [lore, pays, onara]
 type: lore
 status: drafted
-last_review: 2026-05-06
+last_review: 2026-06-05
 needs_review_for: []
 ---
 # Tyndara — La Ligue des Marchands
@@ -24,12 +24,10 @@ needs_review_for: []
 
 ## Gouvernement — La République Marchande
 
-Le pouvoir à Tyndara appartient à l'argent :
-
-- **L'Archonte** est le chef d'État, élu par le Conseil des Guildes pour un mandat de dix ans. Le titre n'est pas héréditaire, mais les familles marchandes les plus riches le monopolisent.
-- **Le Conseil des Guildes** regroupe les maîtres des douze grandes guildes commerciales (épices, textiles, métaux, navigation, banque, etc.). Chaque guilde a un vote, quel que soit sa taille.
-- **Les Juges-Marchands** sont des arbitres commerciaux qui règlent les disputes entre guildes. Leur impartialité est garantie par un système de rotation complexe.
-- **La Garde Marchande** est une force militaire privée, financée par les guildes. Elle protège les navires et les entrepôts, mais n'a aucune vocation de conquête.
+- **L'Archonte** : chef d'État, élu par le Conseil des Guildes pour un mandat de dix ans. Titre non héréditaire, mais monopolisé en pratique par les familles marchandes les plus riches.
+- **Le Conseil des Guildes** : réunit les maîtres des douze grandes guildes commerciales (épices, textiles, métaux, navigation, banque, etc.). Un vote par guilde, quelle que soit sa taille.
+- **Les Juges-Marchands** : arbitres commerciaux réglant les disputes entre guildes. Impartialité garantie par un système de rotation.
+- **La Garde Marchande** : force militaire privée financée par les guildes. Protège navires et entrepôts ; aucune vocation de conquête.
 
 ---
 
@@ -37,152 +35,168 @@ Le pouvoir à Tyndara appartient à l'argent :
 
 ### Via Ventus — La Voie du Vent (religion dominante)
 
-Les Tyndariens vénèrent Aerion comme entité du vent, et Navigor comme guide des voyageurs. Selon la lecture tyndarienne de Via Ventus, le vent est le souffle du monde — il pousse les navires, porte les nouvelles, disperse les nuages — et suivre le vent, c'est suivre le destin. Les théologiens de Solena, qui partagent la même Voie, distinguent plus volontiers les vents domestiqués (météorologie) du Souffle cosmique, et trouvent la lecture tyndarienne trop pragmatique pour leur goût.
+- Divinités vénérées : **Aerion** (entité du vent), **Navigor** (guide des voyageurs).
+- Lecture tyndarienne : le vent est le souffle du monde (il pousse les navires, porte les nouvelles, disperse les nuages) ; suivre le vent, c'est suivre le destin.
+- Variante doctrinale : les théologiens de **Solena**, qui partagent la même Voie, distinguent les vents domestiqués (météorologie) du Souffle cosmique et jugent la lecture tyndarienne trop pragmatique.
 
 **Pratiques centrales :**
-- **Le Baptême du Vent** : Chaque nouveau-né est présenté face au vent dominant. La direction du vent à cet instant détermine son "destin de voyage" — nord pour l'aventure, sud pour la richesse, est pour la sagesse, ouest pour l'amour.
-- **L'Offrande au Port** : Avant chaque voyage, les marins jettent une pièce d'or dans le port. Cet or est récupéré par les prêtres de Via Ventus pour entretenir les phares et les temples côtiers.
-- **Le Retour du Vent** : Quand un marin meurt en mer, sa famille ouvre toutes les fenêtres de sa maison pendant trois jours, pour que son esprit puisse rentrer porté par le vent.
+- **Le Baptême du Vent** : le nouveau-né est présenté face au vent dominant ; la direction détermine son "destin de voyage" — nord = aventure, sud = richesse, est = sagesse, ouest = amour.
+- **L'Offrande au Port** : avant chaque voyage, les marins jettent une pièce d'or dans le port ; l'or est récupéré par les prêtres de Via Ventus pour entretenir phares et temples côtiers.
+- **Le Retour du Vent** : à la mort d'un marin en mer, la famille ouvre toutes les fenêtres de sa maison pendant trois jours pour que son esprit rentre porté par le vent.
 
 ### Lex Petra — La Loi de la Pierre (religion secondaire)
 
-Les Tyndariens respectent la stabilité et la loi — valeurs incarnées par Lex Petra. Dans un pays de marchands, les contrats sont sacrés. La parole donnée a la solidité de la pierre, et la rompre est un crime contre Terranu lui-même.
+- Valeurs : stabilité et loi.
+- Les contrats sont sacrés ; la parole donnée a la solidité de la pierre.
+- Rompre un contrat est considéré comme un crime contre **Terranu**.
 
 ---
 
 ## Culture et société
 
 ### L'art du négoce
-Les enfants tyndariens apprennent à négocier avant de savoir lire. Le marchandage est un art, un sport et une philosophie. Un bon marchand ne cherche pas à tromper — il cherche à trouver l'accord qui satisfait les deux parties. La malhonnêteté existe, bien sûr, mais un marchand pris en flagrant délit de fraude est banni des guildes — une mort sociale.
+- Les enfants apprennent à négocier avant de savoir lire ; le marchandage est tenu pour un art, un sport et une philosophie.
+- Idéal du marchand : trouver l'accord satisfaisant les deux parties plutôt que tromper.
+- Sanction de la fraude : un marchand pris en flagrant délit est banni des guildes (mort sociale).
 
 ### La flotte
-Tyndara possède la plus grande flotte commerciale d'Hybelior. Ses navires — des caravelles légères et rapides — sillonnent toutes les mers. Les chantiers navals de Portharis produisent les meilleurs bâtiments du monde, et les navigateurs tyndariens sont les plus expérimentés.
+- Tyndara possède la plus grande flotte commerciale d'Hybelior.
+- Navires types : caravelles légères et rapides, sillonnant toutes les mers.
+- Les chantiers navals de Portharis produisent les meilleurs bâtiments du monde ; navigateurs tyndariens réputés les plus expérimentés.
 
 ### La gastronomie
-La cuisine tyndarienne est un mélange de toutes les cuisines du monde — des épices d'Endora, du poisson d'Onara, de la viande d'Alkaran, des fruits des îles. Les tavernes de Fablioris servent des plats que l'on ne trouve nulle part ailleurs, créés par des cuisiniers qui ont voyagé sur tous les continents.
+- Cuisine de métissage : épices d'Endora, poisson d'Onara, viande d'Alkaran, fruits des îles.
+- Les tavernes de Fablioris servent des plats introuvables ailleurs, créés par des cuisiniers ayant voyagé sur tous les continents.
 
 ---
 
 ## Régions
 
 ### Eryndor
-Côte nord de Tyndara, battue par les vents et les tempêtes. Eryndor est le territoire des pêcheurs et des constructeurs de navires — des gens rudes mais loyaux.
+- Côte nord, battue par les vents et les tempêtes.
+- Territoire des pêcheurs et des constructeurs de navires.
 
 ### Porthar
-Région portuaire centrale, cœur commercial de Tyndara. Les plus grands ports et entrepôts se trouvent à Porthar, ainsi que les sièges des principales guildes.
+- Région portuaire centrale, cœur commercial de Tyndara.
+- Abrite les plus grands ports et entrepôts, ainsi que les sièges des principales guildes.
 
 ### Celnar
-Arrière-pays vallonné, terre agricole et viticole. Celnar fournit la nourriture et le vin qui alimentent les ports. Plus calme et traditionnel que le reste du pays.
+- Arrière-pays vallonné, terre agricole et viticole.
+- Fournit la nourriture et le vin qui alimentent les ports ; région calme et traditionnelle.
 
 ### Fablior
-Région sud, siège de la capitale. Fablior est le centre politique et culturel de Tyndara — un lieu de luxe, de fêtes et de diplomatie.
+- Région sud, siège de la capitale.
+- Centre politique et culturel de Tyndara (luxe, fêtes, diplomatie).
 
 ### Ralmeria
-Région insulaire au large de la côte, composée de plusieurs îles. Ralmeria est la zone de pêche la plus riche de Tyndara et un refuge pour ceux qui cherchent la tranquillité loin de l'agitation des ports.
+- Région insulaire au large de la côte, composée de plusieurs îles.
+- Zone de pêche la plus riche de Tyndara.
 
 ---
 
 ## Villes et villages
 
 ### Fablioris — Capitale ★
-*La capitale de Tyndara est un festin pour les sens. Des palais de marbre blanc bordent des canaux où glissent des gondoles décorées. Les marchés débordent de soie, d'épices, de bijoux et de merveilles exotiques rapportées des quatre coins d'Hybelior. Le Palais de l'Archonte, construit sur une île artificielle, est un chef-d'œuvre d'architecture — ses dômes dorés brillent au soleil et ses jardins suspendus rivalisent avec ceux d'Avalor. La nuit, les lanternes des tavernes et des maisons de plaisir transforment la ville en un océan de lumière.*
-**Histoire :** Selyra la Calculatrice choisit Fablioris comme capitale non pour des raisons militaires mais diplomatiques — la baie était visible depuis la mer, facilement accessible, et suffisamment éloignée des zones pirates pour paraître neutre. Elle voulait que la capitale de la Ligue soit perçue comme un lieu d'échange, pas d'armement. Le Palais sur son île artificielle fut son idée : un dirigeant accessible par eau uniquement ne peut être assiégé par une foule, mais peut toujours commercer avec qui il veut. Les canaux furent creusés en réponse à la même logique — une ville où tout transit par l'eau est une ville où celui qui contrôle les bateaux contrôle tout.
+- Capitale de Tyndara, ville de canaux (gondoles) bordés de palais de marbre blanc ; marchés de soie, épices, bijoux et marchandises exotiques.
+- **Palais de l'Archonte** : bâti sur une île artificielle accessible uniquement par eau, à dômes dorés et jardins suspendus.
+- Choisie comme capitale par **Selyra la Calculatrice** pour des raisons diplomatiques (baie visible et accessible depuis la mer, éloignée des zones pirates, perçue comme neutre) ; île artificielle et canaux pensés pour le contrôle par l'eau.
 - Population : Capitale
 - Région : Fablior
 
 ### Thyldrin
-*Ville bancaire où se trouve la Banque des Guildes — l'institution financière la plus puissante d'Onara. Les coffres de Thyldrin contiennent les réserves d'or de Tyndara, protégées par des serrures mécaniques et des gardes incorruptibles. Chaque transaction majeure de Tyndara passe par Thyldrin.*
-**Histoire :** Thyldrin fut choisie comme siège de la Banque des Guildes précisément parce qu'elle n'était pas la capitale — Selyra voulait que la finance et la politique soient séparées géographiquement, pour éviter qu'un Archonte trop ambitieux ne contrôle directement la masse monétaire. Cette séparation a fonctionné pendant des siècles. Ce qu'elle n'a pas empêché, c'est que la Banque soit corrompue de l'intérieur — les directeurs qui détournent des fonds pour Mosrack le font depuis des décennies, protégés par la distance même que Selyra avait crue protectrice.
+- Ville bancaire ; siège de la **Banque des Guildes**, institution financière la plus puissante d'Onara, par laquelle transite chaque transaction majeure de Tyndara.
+- Coffres abritant les réserves d'or de Tyndara (serrures mécaniques, gardes).
+- Installée hors de la capitale par **Selyra** pour séparer géographiquement finance et politique. Corruption interne : des directeurs détournent depuis des décennies des fonds, dont certains au profit de **Mosrack**.
 - Population : Ville
 - Région : Fablior
 
 ### Galoris
-*Ville festive célèbre pour ses carnavals annuels. Galoris attire des visiteurs de tout Hybelior avec ses parades, ses bals masqués et ses concours gastronomiques. Derrière les festivités, c'est aussi un lieu de rencontres diplomatiques discrètes.*
-**Histoire :** Les carnavals de Galoris furent institués par un Archonte qui avait besoin de rencontrer des représentants d'un pays ennemi sans que la rencontre soit officielle — et qui eut l'idée d'organiser un festival où tous les participants étaient masqués. La rencontre eut lieu, le différend fut réglé, et personne ne sut jamais qui avait parlé à qui. La tradition du carnaval annuel fut maintenue parce que plusieurs Archontes successifs trouvèrent le dispositif utile, et parce que les habitants de Galoris y prirent goût.
+- Ville festive célèbre pour ses carnavals annuels (parades, bals masqués, concours gastronomiques), attirant des visiteurs de tout Hybelior.
+- Sert aussi de lieu de rencontres diplomatiques discrètes ; le carnaval masqué fut institué par un Archonte pour permettre des négociations officieuses entre parties non identifiables.
 - Population : Ville
 - Région : Fablior
 
 ### Eryndoris
-*Ville portuaire du nord, premier port de pêche de Tyndara. Eryndoris est rude et travailleuse — ses habitants méprisent le luxe de Fablioris et se considèrent comme les vrais Tyndariens. Le poisson d'Eryndoris nourrit la moitié du pays.*
-**Histoire :** Eryndoris précède la Ligue des Marchands de plusieurs siècles — c'était l'un des rares ports de pêche qui refusa de rejoindre la piraterie pendant l'Ère des Pirates, parce que ses habitants estimaient que le poisson était un revenu plus fiable et moins dangereux que le pillage. Ce calcul pragmatique leur valut une réputation de couards parmi les pirates et une réputation de sages parmi les marchands. Quand Selyra forma la Ligue, Eryndoris fut l'un des premiers ports à rejoindre volontairement — ils avaient attendu exactement ce moment depuis des décennies.
+- Ville portuaire du nord, premier port de pêche de Tyndara ; son poisson nourrit la moitié du pays.
+- Antérieure de plusieurs siècles à la Ligue ; l'un des rares ports ayant refusé la piraterie durant l'Ère des Pirates, et l'un des premiers à rejoindre volontairement la Ligue formée par **Selyra**.
 - Population : Ville
 - Région : Eryndor
 
 ### Thalorn
-*Village de constructeurs de navires, installé au bord d'une baie abritée. Les chantiers de Thalorn produisent les caravelles les plus rapides de la flotte — des bâtiments élancés, construits en bois d'Endora et calfatés avec une résine secrète.*
-**Histoire :** La résine secrète de Thalorn fut développée après qu'une caravelle de la Ligue, poursuivie par des pirates récalcitrants, survécut à plusieurs heures dans des eaux si peu profondes que ses concurrents dussent renoncer à la suivre. Le capitaine remarqua que les bordés avaient gonflé et rendu le bateau plus étanche et plus léger que prévu. L'artisan qui avait appliqué une résine végétale expérimentale la veille du départ fut convoqué, interrogé, et mis sous contrat exclusif. La résine ne quitta jamais Thalorn.
+- Village de constructeurs de navires, sur une baie abritée.
+- Chantiers produisant les caravelles les plus rapides de la flotte (bâtiments élancés, bois d'Endora, calfatage à une résine végétale secrète, exclusive à Thalorn).
 - Population : Ville
 - Région : Eryndor
 
 ### Vyndris
-*Hameau de cartographes et de navigateurs. Les cartes marines de Vyndris sont les plus précises d'Hybelior — chaque courant, chaque récif, chaque banc de sable y est consigné. Posséder une carte de Vyndris est un avantage stratégique considérable.*
-**Histoire :** La tradition cartographique de Vyndris débuta avec un navigateur qui avait perdu son navire sur un récif non cartographié et survécu par miracle en nageant jusqu'à la côte. Il passa les vingt années suivantes à documenter chaque danger de la côte d'Onara qu'il connaissait, par une obsession que ses proches considéraient pathologique. Sa mort révéla que ses carnets constituaient la carte maritime la plus complète jamais produite. La Ligue les acheta à sa famille pour une fortune, et Vyndris fut désigné comme centre cartographique officiel de Tyndara.
+- Hameau de cartographes et de navigateurs ; centre cartographique officiel de Tyndara.
+- Cartes marines les plus précises d'Hybelior (courants, récifs, bancs de sable) ; posséder une carte de Vyndris est un avantage stratégique.
 - Population : Ville
 - Région : Eryndor
 
 ### Portharis
-*Le plus grand port de Tyndara, capable d'accueillir deux cents navires simultanément. Portharis est un carrefour mondial — on y entend toutes les langues, on y sent toutes les épices, on y voit toutes les couleurs. Les entrepôts de Portharis contiennent des marchandises venues de chaque continent.*
-**Histoire :** Portharis fut agrandie trois fois en deux siècles — chaque expansion correspondait à une nouvelle route commerciale ouverte par la Ligue. La première agrandissement fut financée par la guilde des épices après l'ouverture des routes vers Endora. La deuxième par la guilde des textiles après les accords avec Alkaran. La troisième par la guilde de navigation après la découverte d'une route directe vers un continent dont les échanges commerciaux avaient doublé le volume total de Portharis en dix ans. Les deux cents emplacements actuels ne suffisent plus.
+- Le plus grand port de Tyndara (capacité : deux cents navires simultanés) ; carrefour commercial mondial dont les entrepôts reçoivent des marchandises de chaque continent.
+- Agrandi trois fois en deux siècles, chaque expansion liée à une route commerciale : guilde des épices (routes vers Endora), guilde des textiles (accords avec Alkaran), guilde de navigation (route directe ayant doublé le volume en dix ans). Capacité actuelle saturée.
 - Population : Ville
 - Région : Porthar
 
 ### Zyndris
-*Ville d'enchères où les cargaisons rares sont vendues aux plus offrants. Les ventes de Zyndris sont des événements — les marchands s'y affrontent à coups de fortunes pour des lots d'épices, de soie ou de cristaux. Les prix fixés à Zyndris déterminent les cours du marché mondial.*
-**Histoire :** Zyndris fut désignée ville d'enchères officielle après qu'une série de ventes concurrentes dans différents ports avait créé une instabilité des prix qui pénalisait tous les acteurs du marché. Le Conseil des Guildes proposa de centraliser les grandes enchères dans une seule ville neutre — neutre signifiant : appartenant à une guilde trop petite pour influencer les prix dans un sens qui lui profite. Zyndris n'a jamais eu de guilde puissante. C'est ce qui la rendit acceptable à toutes les autres.
+- Ville d'enchères officielle où les cargaisons rares (épices, soie, cristaux) sont vendues aux enchères ; les prix qui y sont fixés déterminent les cours du marché mondial.
+- Désignée par le Conseil des Guildes pour centraliser les grandes enchères dans une ville neutre, dépourvue de guilde assez puissante pour influencer les prix.
 - Population : Ville
 - Région : Porthar
 
 ### Thaloris
-*Village de douaniers et d'inspecteurs. Thaloris contrôle les marchandises qui entrent et sortent de Tyndara — une position qui rend ses habitants à la fois respectés et détestés. La contrebande est un problème constant.*
-**Histoire :** Le village de Thaloris naquit autour d'un poste de contrôle créé par Selyra pour s'assurer que les anciens pirates devenus marchands ne cachaient pas de marchandises dans leurs nouvelles cales légitimes. Les premiers douaniers étaient eux-mêmes d'anciens pirates qui connaissaient toutes les cachettes — Selyra les avait recrutés pour cette raison précise. Cette tradition de recruter des anciens contrebandiers comme inspecteurs douaniers dure encore, ce qui explique pourquoi Thaloris trouve régulièrement ce que d'autres ne trouvent pas, et pourquoi la contrebande reste un problème malgré tout : les inspecteurs savent aussi quoi laisser passer.
+- Village de douaniers et d'inspecteurs ; contrôle les marchandises entrant et sortant de Tyndara. Contrebande, problème constant.
+- Né autour d'un poste de contrôle créé par **Selyra** ; tradition (toujours en vigueur) de recruter d'anciens pirates/contrebandiers comme inspecteurs, connaissant les cachettes.
 - Population : Ville
 - Région : Porthar
 
 ### Celnaris
-*Bourg viticole au cœur de l'arrière-pays. Les vignobles de Celnaris produisent le meilleur vin de Tyndara — un blanc sec et fruité qui accompagne les fruits de mer. Les caves de Celnaris contiennent des millésimes vieux de plusieurs siècles.*
-**Histoire :** La réputation viticole de Celnaris est antérieure à Tyndara — les vignobles y étaient cultivés avant même que la côte soit organisée en Ligue. Mais c'est la commercialisation par les guildes de Tyndara qui transforma un bon vin local en un produit exporté dans tout Hybelior. Le paradoxe de Celnaris est que ses habitants trouvent leur propre vin ordinaire — ils le boivent chaque jour depuis l'enfance et n'ont pas de référence pour apprécier sa qualité. Ce sont les marchands qui vinrent d'ailleurs qui leur apprirent qu'ils vivaient sur un trésor.
+- Bourg viticole de l'arrière-pays ; produit le meilleur vin de Tyndara (blanc sec et fruité, accompagnant les fruits de mer). Caves contenant des millésimes pluriséculaires.
+- Réputation viticole antérieure à la Ligue ; exporté dans tout Hybelior grâce à la commercialisation par les guildes.
 - Population : Ville
 - Région : Celnar
 
 ### Ryldorath
-*Village agricole spécialisé dans la culture d'herbes aromatiques et d'épices adaptées au climat d'Onara. Les cuisiniers de tout Tyndara s'approvisionnent à Ryldorath pour leurs mélanges les plus recherchés.*
-**Histoire :** Ryldorath fut fondée par des immigrants de Ryldor — des herboristes qui avaient quitté leur pays natal après un désaccord avec le Grand Chaman sur l'usage commercial des plantes médicinales. Ils s'établirent dans l'arrière-pays de Tyndara, apportant leurs techniques de culture ryldoriennes mais les appliquant à des herbes culinaires plutôt que médicinales. Leur savoir-faire horticole produit des épices d'une concentration aromatique que les cultivateurs locaux n'ont jamais réussi à égaler, même en copiant exactement leurs méthodes.
+- Village agricole spécialisé dans les herbes aromatiques et épices adaptées au climat d'Onara ; fournisseur des cuisiniers de tout Tyndara pour leurs mélanges recherchés.
+- Fondé par des herboristes immigrés de **Ryldor**, partis après un désaccord avec le Grand Chaman sur l'usage commercial des plantes médicinales ; techniques de culture ryldoriennes appliquées à des herbes culinaires, à la concentration aromatique inégalée localement.
 - Population : Ville
 - Région : Celnar
 
 ### Cryslor
-*Ville principale de Ralmeria, construite sur la plus grande île de l'archipel. Cryslor est un port de pêche paisible mais prospère, entouré d'eaux turquoise riches en poissons et en perles. Les plongeurs de Cryslor récoltent des perles noires d'une beauté rare.*
-**Histoire :** Les perles noires de Cryslor furent découvertes lorsqu'un pêcheur remonta dans ses filets une huître d'une taille inhabituellement grande — dont l'intérieur était d'un noir absolu. Il la vendit à un bijoutier de Fablioris qui en fit un collier porté par l'Archonte de l'époque lors d'une réception diplomatique. Trois nations étrangères demandèrent simultanément d'où venait ce bijou. Le pêcheur, alerté par le bijoutier, retourna chercher d'autres huîtres au même endroit — et les trouva. Cryslor était jusqu'alors un village de pêcheurs ordinaires. Il ne l'est plus.
+- Ville principale de Ralmeria, sur la plus grande île de l'archipel ; port de pêche prospère entouré d'eaux turquoise riches en poissons et en perles.
+- Réputée pour ses **perles noires** rares, récoltées par ses plongeurs et exportées depuis leur découverte fortuite par un pêcheur local.
 - Population : Ville
 - Région : Ralmeria
 
 ### Thalorin
-*Village de pêcheurs sur une île secondaire, spécialisé dans la pêche au thon géant. Les bateaux de Thalorin sont petits mais leurs équipages sont les plus courageux de l'archipel — la pêche au thon géant est mortellement dangereuse.*
-**Histoire :** La pêche au thon géant à Thalorin ne fut pas choisie — elle s'imposa par défaut. Les eaux autour de l'île secondaire étaient trop peu poissonneuses pour des filets rentables, et les villageois s'appauvrirent progressivement jusqu'à ce qu'un capitaine décide de suivre l'un de ces énormes poissons qui passait près des côtes. La première chasse dura trois jours. La deuxième une journée — les techniques évoluèrent rapidement parce que l'alternative était la famine. Les équipages de Thalorin ne se considèrent pas comme courageux : ils considèrent que les pêcheurs de filets ont simplement une alternative qu'ils n'ont pas.
+- Village de pêcheurs sur une île secondaire, spécialisé dans la pêche au thon géant (activité mortellement dangereuse, petits bateaux).
+- Spécialisation imposée par défaut : eaux trop pauvres pour des filets rentables, reconversion vers le thon géant.
 - Population : Ville
 - Région : Ralmeria
 
 ### Vyndor
-*Hameau isolé sur une île volcanique. Vyndor est un lieu de villégiature pour les marchands les plus riches — les sources chaudes volcaniques et les plages de sable noir en font un paradis discret.*
-**Histoire :** Vyndor fut découvert par un marchand dont le navire, poussé hors de sa route par une tempête, s'échoua sur l'île volcanique. L'équipage, contraint d'y passer plusieurs semaines en attendant les réparations, nota les sources chaudes et la chaleur bienveillante de l'île malgré sa nature volcanique. Le marchand rentra à Tyndara et acheta discrètement les droits sur l'île avant d'en faire la promotion auprès de ses pairs les plus fortunés. L'île est restée discrète par volonté — ses fréquentants actuels préfèrent un paradis sans foule à un paradis public.
+- Hameau isolé sur une île volcanique ; lieu de villégiature des marchands les plus riches (sources chaudes volcaniques, plages de sable noir).
+- Reste volontairement discret et peu fréquenté.
 - Population : Ville
 - Région : Ralmeria
 
 ### Galdor
-*Village de sauniers qui récoltent le sel dans des marais salants naturels. Le sel de Galdor est exporté dans tout Onara — un produit essentiel pour la conservation des aliments et le traitement du cuir.*
-**Histoire :** Les marais salants de Galdor existaient avant que l'archipel soit habité — les premiers explorateurs qui y arrivèrent trouvèrent du sel cristallisé en quantités stupéfiantes, formé naturellement par l'évaporation solaire. Le village se constitua autour de la récolte, et Galdor devint la source de sel la moins chère et la plus abondante d'Onara. Cette abondance eut un effet secondaire inattendu : elle sabra le prix du sel sur tous les marchés du continent, ruinant plusieurs villages sauniers concurrents qui ne purent pas s'aligner sur les coûts de production de Galdor.
+- Village de sauniers récoltant le sel dans des marais salants naturels (formés par évaporation solaire, antérieurs au peuplement de l'archipel).
+- Source de sel la moins chère et la plus abondante d'Onara ; exporté dans tout Onara (conservation des aliments, traitement du cuir). Son abondance a ruiné plusieurs villages sauniers concurrents.
 - Population : Ville
 - Région : Ralmeria
 
 ### Myrath
-*Petit port de commerce servant de relais entre Ralmeria et le continent. Myrath est le point de passage obligé pour toutes les marchandises de l'archipel. Son auberge, "Le Vent Favorable", est célèbre pour son ragoût de fruits de mer.*
-**Histoire :** Myrath n'avait aucune raison géographique d'exister là où il est — la baie n'est pas particulièrement abritée et le fond marin est capricieux. Il existe parce que l'auberge "Le Vent Favorable" existait avant le port : une vieille femme qui vendait du ragoût de fruits de mer à des marins de passage construisit son commerce sur la pointe de l'île, et les marins s'y arrêtèrent si régulièrement qu'un quai fut nécessaire, puis un entrepôt, puis une douane. Le port de Myrath est né d'un ragoût.
+- Petit port de commerce, relais et point de passage obligé entre Ralmeria et le continent.
+- Auberge **"Le Vent Favorable"**, célèbre pour son ragoût de fruits de mer, antérieure au port lui-même (le port s'est constitué autour d'elle).
 - Population : Ville
 - Région : Ralmeria
 
 ### Zyloria
-*Village le plus éloigné de l'archipel, situé sur un îlot battu par les vagues. Zyloria est habitée par des gardiens de phare et des ermites. Son phare, le plus haut de Tyndara, guide les navires dans les eaux dangereuses de l'archipel.*
-**Histoire :** Le phare de Zyloria fut construit après la catastrophe des Cent Navires — une nuit de brouillard épais où une centaine de bâtiments de la Ligue cherchèrent le passage entre les îles sans repère lumineux et s'échouèrent ou se perdirent. La Ligue investit immédiatement dans la construction d'un phare permanent sur l'îlot le plus éloigné, offrant à quiconque voulrait bien y vivre une compensation substantielle. Les premiers gardiens restèrent trois ans puis repartirent. Les gardiens actuels, famille installée depuis quatre générations, ne comprennent plus comment on peut vouloir vivre ailleurs.
+- Village le plus éloigné de l'archipel, sur un îlot battu par les vagues ; habité par des gardiens de phare et des ermites.
+- Possède le phare le plus haut de Tyndara, guidant les navires dans les eaux dangereuses de l'archipel ; construit par la Ligue après la **catastrophe des Cent Navires** (une centaine de bâtiments échoués ou perdus une nuit de brouillard, faute de repère lumineux). Gardé par la même famille depuis quatre générations.
 - Population : Ville
 - Région : Ralmeria
 

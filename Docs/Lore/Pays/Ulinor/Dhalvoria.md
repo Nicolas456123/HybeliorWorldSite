@@ -2,7 +2,7 @@
 tags: [lore, pays, ulinor]
 type: lore
 status: drafted
-last_review: 2026-05-06
+last_review: 2026-06-05
 needs_review_for: []
 ---
 
@@ -10,11 +10,12 @@ needs_review_for: []
 
 ## Vue d'ensemble
 
-Dhalvoria est l'ensemble des **vallées intérieures** qui s'étendent à l'ouest du continent ulinorien, entre les hauts cols qui les séparent de Folinor et la côte rocheuse, peu accessible, qui ferme l'extrémité occidentale de l'archipel principal. Le pays n'est pas une nation au sens où l'entendent les chancelleries du reste d'Hybélior — il n'a pas de capitale unique, pas d'armée, pas de représentation diplomatique extérieure. Il est un **réseau de vallées habitées** unies par une pratique cultuelle commune, **les Veilles**, et par un mythe partagé : les Anciens *dorment* dans les vallées et reviendront.
-
-La population dhalvorienne est estimée entre quinze et vingt mille habitants — chiffre que personne n'a vérifié récemment, les Vallois eux-mêmes ne tenant pas de recensement. Les vallées sont reliées entre elles par un système de sentiers et de cols saisonniers ; chaque vallée vit largement en autonomie agricole, avec des contacts épisodiques entre elles lors des **Convergences** (rassemblements occasionnels au Plateau de Yltharkenn, situé au cœur géographique du réseau).
-
-Les chroniques extérieures qui mentionnent Dhalvoria — rares, généralement Folinor ou Korrinor — la décrivent comme *le pays qui attend*. La formule est juste sans être précise : Dhalvoria n'attend rien d'identifiable comme un événement programmé ; elle attend depuis si longtemps qu'attendre est devenu *sa manière d'être*. Les Vallois ne se présentent pas comme attendant ; ils se présentent comme *veillant*. La différence sémantique compte beaucoup, ici.
+- **Nature** : réseau de vallées intérieures habitées à l'ouest du continent ulinorien, entre les hauts cols séparant de Folinor et la côte rocheuse occidentale de l'archipel principal.
+- **Statut** : pas une nation au sens classique — sans capitale unique, sans armée, sans représentation diplomatique extérieure.
+- **Unité** : pratique cultuelle commune (les **Veilles**) et mythe partagé (les Anciens *dorment* dans les vallées et reviendront).
+- **Population** : estimée entre 15 000 et 20 000 habitants (non vérifiée ; pas de recensement vallon).
+- **Organisation spatiale** : vallées reliées par sentiers et cols saisonniers ; chaque vallée largement autonome sur le plan agricole ; contacts épisodiques lors des **Convergences** (rassemblements au Plateau de Yltharkenn, cœur géographique du réseau).
+- **Perception extérieure** : chroniques rares (Folinor, Korrinor) qui la décrivent comme *« le pays qui attend »* ; les Vallois se présentent comme *veillant* (et non *attendant*).
 
 ---
 
@@ -27,7 +28,9 @@ Les chroniques extérieures qui mentionnent Dhalvoria — rares, généralement 
 | **Climat** | Tempéré humide, brumes matinales fréquentes, hivers doux par rapport à Skaldoria |
 | **Accès** | Cols saisonniers vers Folinor (3-5 mois par an) ; côte ouest peu praticable ; pas d'accès direct vers Korrinor sans détour important |
 
-Le pays se compose d'environ **dix-sept vallées principales** (le chiffre exact est contesté entre les Vallois eux-mêmes — certains en comptent quinze, d'autres dix-neuf, le débat n'a pas d'arbitre), séparées par des crêtes basses mais boisées qui rendent les passages d'une vallée à l'autre lents même quand ils sont praticables. Les hauteurs ne dépassent pas mille deux cents mètres ; aucune ligne de partage des eaux n'aboutit à une mer connue — les rivières dhalvoriennes, appelées *Eaux Lentes*, sont absorbées par des fissures et des grottes que les Vallois lisent comme *des entrées vers l'endroit où dorment les Anciens*. Aucun voyageur étranger n'a confirmé la présence d'une mer souterraine ; les Vallois n'estiment pas la confirmation nécessaire.
+- **Nombre de vallées** : ~17 vallées principales (chiffre contesté entre Vallois : de 15 à 19, sans arbitre).
+- **Relief** : crêtes basses mais boisées séparant les vallées, rendant les passages lents ; hauteurs ne dépassant pas 1 200 m.
+- **Hydrographie** : aucune ligne de partage des eaux n'aboutit à une mer connue ; les rivières (*Eaux Lentes*) sont absorbées par des fissures et grottes, lues par les Vallois comme *des entrées vers l'endroit où dorment les Anciens*. Aucune mer souterraine confirmée par un voyageur étranger (confirmation jugée non nécessaire par les Vallois).
 
 ### Les vallées notables
 
@@ -42,15 +45,21 @@ Le pays se compose d'environ **dix-sept vallées principales** (le chiffre exact
 | **Vallée d'Esselrenn** | Vallée centrale-est, pratique vael'kurashe la plus marquée | ~ 1 200 |
 | **Vallée de Khairsenn** | Vallée intérieure, accès difficile, sanctuaire des Veilles longues | ~ 400 |
 
-Les autres vallées (neuf à onze, selon les comptages) sont plus petites, parfois ne comptant que quelques foyers, et portent des noms moins fréquemment cités. Toutes pratiquent les Veilles à des degrés divers.
+Les autres vallées (9 à 11 selon les comptages) sont plus petites, parfois quelques foyers seulement, moins fréquemment citées. Toutes pratiquent les Veilles à des degrés divers.
 
 ### Les Eaux Lentes
 
-Cours d'eau qui descendent des hauteurs et disparaissent dans des grottes ou des fissures avant d'atteindre la mer. La pratique vallone est de **ne pas chercher où elles vont** — par tradition, on observe le point de disparition et on s'en va. Les Vallois lisent ce point comme une *frontière de l'attente*. Quelques rares Veilleurs des vallées les plus orthodoxes y déposent, à la fin de leur vie, un objet personnel qu'ils confient à l'eau ; cet objet est tenu pour *parvenir aux Anciens* dans leur sommeil. Les voyageurs étrangers (rares) qui ont essayé de suivre les Eaux Lentes en spéléologie n'ont pas rapporté de mer souterraine ; ils ont trouvé des cavités sèches, des formations calcaires, et des traces de présence humaine ancienne (ossements humains éparpillés dans certaines des cavités). Les Vallois n'ont pas commenté ces rapports.
+- Cours d'eau descendant des hauteurs et disparaissant dans des grottes ou fissures avant d'atteindre la mer.
+- Tradition vallone : **ne pas chercher où elles vont** — on observe le point de disparition (lu comme *frontière de l'attente*) et on s'en va.
+- Rite : quelques Veilleurs des vallées les plus orthodoxes confient en fin de vie un objet personnel à l'eau ; cet objet est tenu pour *parvenir aux Anciens* dans leur sommeil.
+- Explorations étrangères (rares) : pas de mer souterraine rapportée ; cavités sèches, formations calcaires, et ossements humains éparpillés dans certaines cavités. Pas de commentaire vallon.
 
 ### Les stèles et pierres gravées
 
-Densité de pierres gravées supérieure à celle de l'archipel central. Les **Stèles des Veilles** sont des plaques verticales de basalte ou de schiste, mesurant entre soixante centimètres et trois mètres, portant des glyphes que les Vallois lisent comme *paroles inscrites par les Anciens*. Les chroniques de Folinor estiment qu'il y aurait plus de quatre mille stèles cataloguées dans l'ensemble des vallées — chiffre non vérifié. Certaines stèles sont entretenues (dégagées, lavées rituellement, devant lesquelles on veille). D'autres sont laissées à l'abandon — non par négligence, mais parce que la liturgie distingue les *stèles parlantes* (à entretenir) des *stèles silencieuses* (à laisser en l'état). Quelle stèle est *parlante* est déterminé par les Veilleurs locaux au cas par cas, sans règle universelle. Un voyageur attentif remarque que la liste des stèles parlantes change subtilement de génération en génération, sans qu'aucun Vallois ne formule ce changement.
+- Densité de pierres gravées supérieure à celle de l'archipel central.
+- **Stèles des Veilles** : plaques verticales de basalte ou de schiste, de 60 cm à 3 m, portant des glyphes lus comme *paroles inscrites par les Anciens*.
+- Catalogue : les chroniques de Folinor estiment plus de 4 000 stèles cataloguées dans l'ensemble des vallées (chiffre non vérifié).
+- Liturgie : distinction entre *stèles parlantes* (entretenues : dégagées, lavées rituellement, devant lesquelles on veille) et *stèles silencieuses* (laissées en l'état). Le statut *parlant* est déterminé par les Veilleurs locaux au cas par cas, sans règle universelle ; la liste évolue subtilement de génération en génération.
 
 ---
 
@@ -58,23 +67,29 @@ Densité de pierres gravées supérieure à celle de l'archipel central. Les **S
 
 ### Les Vallois
 
-Population stable depuis au moins six millénaires (fragments archéologiques en bordure de Brundherna). Ne se présentent pas comme une *nation* ; se présentent comme *ceux qui veillent les vallées*. La filiation est principalement matrilinéaire dans les vallées centrales, mixte ailleurs. Les Vallois pratiquent une agriculture vivrière (céréales, légumes-racines, élevage modeste de moutons et de chèvres), un artisanat textile (lainage tissé serré, prisé jusqu'à Folinor), et une vie communautaire dense organisée autour des Veilles.
-
-L'extranéité dhalvorienne au reste du monde est plus marquée que celle d'Ulinor central : les Vallois ne *vendent* pratiquement rien à l'extérieur (sauf lainages et quelques grains aux marchés de Folinor) et n'achètent que ce que leurs vallées ne produisent pas (sel marin, cristaux résonnants en quantités modestes). Aucun ambassadeur dhalvorien n'a jamais été désigné. Aucun Vallois n'a jamais quitté le pays pour s'établir ailleurs sans que ce départ ne soit considéré comme une *cessation de Veille* — c'est-à-dire comme une forme d'apostasie tacite.
+- Population stable depuis au moins six millénaires (fragments archéologiques en bordure de Brundherna).
+- Auto-définition : non comme *nation*, mais comme *ceux qui veillent les vallées*.
+- Filiation : principalement matrilinéaire dans les vallées centrales, mixte ailleurs.
+- Économie : agriculture vivrière (céréales, légumes-racines, élevage modeste de moutons et chèvres), artisanat textile (lainage tissé serré, prisé jusqu'à Folinor), vie communautaire dense organisée autour des Veilles.
+- Commerce extérieur : ne vendent quasiment rien (sauf lainages et quelques grains aux marchés de Folinor) ; n'achètent que ce que les vallées ne produisent pas (sel marin, cristaux résonnants en quantités modestes).
+- Diplomatie : aucun ambassadeur dhalvorien jamais désigné. Le départ d'un Vallois pour s'établir ailleurs est considéré comme une *cessation de Veille* (apostasie tacite).
 
 ### Les Veilleurs
 
-Catégorie informelle plutôt que clergé structuré. Un Veilleur est une personne reconnue par sa vallée pour sa *constance* dans la pratique des Veilles. Pas de titre officiel, pas de robe, pas de cérémonie d'admission. On *devient* Veilleur par accumulation de Veilles tenues — une quinzaine d'années de Veilles régulières est généralement le seuil informel.
-
-Les Veilleurs n'enseignent pas. Ils *pratiquent en présence* d'autres qui apprennent par mimétisme. Cette transmission silencieuse est la signature de la pratique vallone. Aucun ouvrage doctrinal n'a jamais été composé.
+- Catégorie informelle, pas un clergé structuré ; pas de titre officiel, pas de robe, pas de cérémonie d'admission.
+- Reconnaissance par la vallée pour la *constance* dans la pratique des Veilles ; seuil informel d'environ 15 ans de Veilles régulières.
+- N'enseignent pas : transmission par *pratique en présence* et mimétisme. Aucun ouvrage doctrinal jamais composé.
 
 ### Les Lecteurs de Stèles
 
-Sous-catégorie de Veilleurs spécialisés dans la lecture des inscriptions. Pratique plus controversée que la simple Veille — on suspecte parfois les Lecteurs de *projeter* sur la pierre ce qu'ils veulent y trouver. Les Lecteurs eux-mêmes admettent volontiers cette possibilité ; ils répondent que *la projection participe de la lecture* et qu'aucun déchiffrement n'est jamais entièrement neutre. Cette honnêteté méthodologique est, à certains égards, plus saine que la rigueur prétendue des Écho-Guides ulinoriens.
+- Sous-catégorie de Veilleurs spécialisés dans la lecture des inscriptions.
+- Pratique controversée (soupçon de *projection* sur la pierre) ; les Lecteurs admettent que *la projection participe de la lecture* et qu'aucun déchiffrement n'est neutre.
 
 ### Les Chamanes itinérantes
 
-Petit nombre (peut-être une vingtaine au total dans tout le pays) de femmes — la pratique est exclusivement féminine — qui ne s'attachent à aucune vallée et circulent. Elles tiennent des Veilles brèves dans les vallées où elles passent, partagent des fragments de chants entre vallées, et sont les principales agentes de la cohésion non-formalisée du pays. Aucune chamane itinérante n'a de successeur désigné ; quand elle meurt, son rôle est repris ou non par une autre, sans cérémonie.
+- Petit nombre (peut-être une vingtaine au total dans tout le pays), exclusivement féminines, non attachées à une vallée et circulant.
+- Rôle : tiennent des Veilles brèves dans les vallées traversées, partagent des fragments de chants entre vallées ; principales agentes de la cohésion non-formalisée du pays.
+- Succession : aucune successeur désignée ; à la mort, le rôle est repris ou non par une autre, sans cérémonie.
 
 ---
 
@@ -88,130 +103,129 @@ Petit nombre (peut-être une vingtaine au total dans tout le pays) de femmes —
 
 ### Les Conseils de vallée
 
-Chaque vallée gère ses affaires par un conseil informel composé des Veilleurs reconnus, des chefs de famille les plus anciens et — dans les vallées qui en ont — d'une chamane itinérante de passage. Les décisions sont prises *par épuisement* : on parle jusqu'à ce que personne ne parle plus contre la proposition. Cette méthode est lente. Elle est tenue pour la seule juste.
+- Chaque vallée gère ses affaires par un conseil informel : Veilleurs reconnus, chefs de famille les plus anciens, et — selon les vallées — une chamane itinérante de passage.
+- Décisions prises *par épuisement* : on parle jusqu'à ce que personne ne parle plus contre la proposition. Méthode lente, tenue pour la seule juste.
 
 ### Les Convergences
 
-Tous les sept ans environ — parfois six, parfois neuf, selon des critères qui varient et que personne ne formalise — les vallées envoient des délégations au Plateau de Yltharkenn pour une Convergence. La Convergence dure entre trois jours et trois semaines. On y partage les nouvelles, on y règle les rares conflits inter-vallées (souvent territoriaux), on y synchronise certaines pratiques cultuelles, et on y tient une **Veille collective** d'une nuit entière.
-
-Les Convergences ne produisent pas de décisions liantes pour les vallées. Elles produisent des *constats partagés*. Si une vallée constate qu'elle ne partage plus le constat, elle peut le formuler à la Convergence suivante. Le système est circulaire ; il n'aboutit à aucune progression linéaire.
+- Fréquence : tous les sept ans environ (parfois six, parfois neuf, sans critère formalisé).
+- Lieu : Plateau de Yltharkenn ; durée de trois jours à trois semaines.
+- Fonctions : partage des nouvelles, règlement des rares conflits inter-vallées (souvent territoriaux), synchronisation de certaines pratiques cultuelles, **Veille collective** d'une nuit entière.
+- Portée : aucune décision liante pour les vallées ; produisent des *constats partagés* révisables. Système circulaire, sans progression linéaire.
 
 ### La question d'extension extérieure
 
-Plusieurs vallées (notamment Brundherna et Kerwhelm) ont, à différents moments, suggéré que Dhalvoria devrait avoir une représentation auprès des chancelleries de Lumasar ou de Solena. La proposition est revenue six fois en deux siècles. Elle a été rejetée six fois — non par hostilité aux étrangers, mais parce que *l'idée même de représentation extérieure est étrangère à l'esprit de la Veille*. Une vallée qui veille n'envoie pas de représentants ; elle veille. Cette logique est intériorisée à un degré tel qu'elle n'a pas besoin d'être défendue ; elle est *évidente* aux Vallois. Les délégations extérieures qui ont tenté d'expliquer aux Vallois que *l'évidence n'est pas une preuve* sont reparties sans avoir convaincu personne.
+- Proposition d'une représentation auprès des chancelleries de Lumasar ou de Solena soulevée par plusieurs vallées (notamment Brundherna et Kerwhelm).
+- Revenue six fois en deux siècles, rejetée six fois — non par hostilité aux étrangers, mais parce que *l'idée même de représentation extérieure est étrangère à l'esprit de la Veille*.
 
 ---
 
 ## Religion
 
-Dhalvoria pratique une variante propre de **[[Foedus Animae]]**, fortement teintée de Vael'Kurash, avec des éléments doctrinaux qui ne se retrouvent dans aucune autre culture du continent. La synthèse n'a pas de nom ; les Vallois disent simplement *« la pratique »*.
+- Variante propre de **[[Foedus Animae]]**, fortement teintée de Vael'Kurash, avec des éléments doctrinaux uniques sur le continent. La synthèse n'a pas de nom ; les Vallois disent simplement *« la pratique »*.
 
 ### Les trois piliers de la pratique vallone
 
-**1. Les Veilles** — pratique centrale. Une Veille est une nuit entière (ou plusieurs nuits consécutives, pour les *Veilles longues*) passée éveillé en silence, à proximité d'une stèle parlante ou d'une Eau Lente. La Veille n'attend pas de signe particulier ; elle est *un acte de présence*. Les Veilleurs disent qu'ils ne *cherchent* rien — ils *sont là*. Cette posture est la signature spirituelle dhalvorienne.
-
-Les Veilles sont individuelles, en groupe (familles, voisinages), ou collectives (Convergences, jours marqués par les chamanes itinérantes). Un Vallois adulte tient en moyenne entre quinze et trente Veilles par an. Les Veilles longues — sept jours et sept nuits sans dormir — sont rares et réservées aux Veilleurs les plus expérimentés ; elles se pratiquent à Khairsenn, dans la vallée intérieure, et sont tenues pour particulièrement *opérantes* (sans qu'on précise pour quoi).
-
-**2. La Lecture des Stèles** — pratique secondaire, plus controversée. Les Lecteurs déchiffrent les glyphes selon une grammaire orale qui n'a jamais été codifiée. Les lectures varient d'une génération à l'autre ; aucune lecture n'est jamais déclarée *définitive*. Cette ouverture méthodologique est paradoxalement compatible avec la rigidité doctrinale globale : on accepte de varier dans le détail tant qu'on ne varie pas dans le principe (les stèles parlent, les Anciens dorment, le retour viendra).
-
-**3. La Patience** — vertu cardinale, transmise comme principe d'existence plus que comme règle. *« Avoir la patience »* est l'idéal vallon. Une personne qui s'impatiente — qui veut un résultat, une réponse, un retour — est tenue pour *mal-veillante* (au sens propre : qui veille mal). Cette catégorie est appliquée avec rigueur sociale : un mal-veillant n'est pas exclu mais *évité*. Les jeunes Vallois qui rentrent d'un séjour à Folinor avec des envies d'efficacité y reviennent souvent abandonner ces envies, faute d'interlocuteurs.
+- **1. Les Veilles** (pratique centrale) : une nuit entière (ou plusieurs nuits consécutives pour les *Veilles longues*) passée éveillé en silence, près d'une stèle parlante ou d'une Eau Lente. N'attend pas de signe ; *acte de présence*.
+  - Formes : individuelles, en groupe (familles, voisinages), ou collectives (Convergences, jours marqués par les chamanes itinérantes).
+  - Fréquence : un Vallois adulte tient en moyenne 15 à 30 Veilles par an.
+  - **Veilles longues** : 7 jours et 7 nuits sans dormir, rares, réservées aux Veilleurs les plus expérimentés, pratiquées à Khairsenn, tenues pour particulièrement *opérantes* (sans préciser pour quoi).
+- **2. La Lecture des Stèles** (pratique secondaire, plus controversée) : déchiffrement des glyphes selon une grammaire orale jamais codifiée ; lectures variables d'une génération à l'autre, jamais déclarées *définitives*. Principe invariant maintenu : les stèles parlent, les Anciens dorment, le retour viendra.
+- **3. La Patience** (vertu cardinale) : *« Avoir la patience »* est l'idéal vallon. Qui s'impatiente (veut un résultat, une réponse, un retour) est tenu pour *mal-veillant* (qui veille mal) — non exclu mais *évité*.
 
 ### La Prophétie de l'Éveil
 
-Pratique doctrinale dont la formulation officielle est : *« Les Anciens dorment. Ils s'éveilleront quand la veillée des vivants aura atteint sa juste durée. La juste durée n'est pas connue. »* La Prophétie est ancienne (au moins quatre millénaires selon les Lecteurs) et fait partie de toutes les Veilles publiques.
-
-La caractéristique la plus subtile de la Prophétie est qu'elle est **inépuisable** : aucune génération ne peut la vérifier ou la falsifier. Si les Anciens ne s'éveillent pas, c'est que la *juste durée* n'est pas atteinte ; il faut continuer. Si quelque chose se produit qui ressemble à un éveil, c'est un *signe* qu'il faut *intensifier*. Le système est conçu — sans qu'aucun Lecteur ne l'admette — pour ne jamais être contredit par les faits.
-
-Quelques rares Lecteurs ont, à différents moments de l'histoire, suggéré que la Prophétie pourrait être *fausse* — que les Anciens soient simplement morts et que la veillée n'aboutirait à rien. Aucun de ces Lecteurs n'a été excommunié ; ils ont été *écartés* (comme Selvane à Ulinor central), ce qui est plus subtil mais pas moins efficace. Le plus connu de ces dissidents est **Welna la Brève**, copiste itinérante de Yltarkhen, dont les chants sont conservés en partie par tradition orale dans cette seule vallée et niés ailleurs.
+- Formulation officielle : *« Les Anciens dorment. Ils s'éveilleront quand la veillée des vivants aura atteint sa juste durée. La juste durée n'est pas connue. »*
+- Ancienneté : au moins quatre millénaires selon les Lecteurs ; récitée dans toutes les Veilles publiques.
+- Caractère *inépuisable* : aucune génération ne peut la vérifier ni la falsifier (absence d'éveil = juste durée non atteinte ; signe d'éveil = il faut *intensifier*).
+- Dissidence : quelques rares Lecteurs ont suggéré qu'elle pourrait être *fausse* (Anciens simplement morts). Aucun excommunié ; tous *écartés* (comme Selvane à Ulinor central). Le dissident le plus connu : **Welna la Brève**, copiste itinérante de Yltarkhen, dont les chants sont conservés en partie par tradition orale dans cette seule vallée et niés ailleurs.
 
 ### Vael'Kurash dhalvorien
 
-Présence importante mais peu codifiée. Les Vallées d'Esselrenn et de Velkharra abritent les pratiques Vael'Kurash les plus marquées ; les autres mélangent les deux registres sans les distinguer clairement. Aucun Cercle Vael'Kari structuré n'existe à Dhalvoria ; la pratique est domestique et improvisée. Cette absence de structuration est, paradoxalement, ce qui rend Vael'Kurash plus *sain* à Dhalvoria qu'à Skaldoria ou Ulinor central — il n'y a pas de doctrine à durcir, donc pas de Déni du Sablier institutionnel à craindre. Le piège continental opère ici par les Veilles, pas par Vael'Kurash.
+- Présence importante mais peu codifiée.
+- Pratiques les plus marquées : vallées d'**Esselrenn** et de **Velkharra** ; ailleurs, mélange des deux registres sans distinction claire.
+- Aucun Cercle Vael'Kari structuré à Dhalvoria ; pratique domestique et improvisée.
 
 ---
 
 ## Culture et société
 
-### Les Stèles des Veilles
+### Les Stèles des Veilles (présence quotidienne)
 
-Comme indiqué supra, les stèles sont la *présence* matérielle des Anciens dans le quotidien vallon. Tatouage des Stèles : à la différence des Tatouages des Ruines ulinoriens (un glyphe choisi par l'Écho-Guide pour exprimer la nature profonde de l'individu), les Vallois portent — quand ils en portent — un glyphe choisi par eux-mêmes, parfois changé en cours de vie, sans liturgie d'attribution. Cette pratique laxe est tenue pour *moins sacrée* mais *plus honnête* par les Vallois eux-mêmes.
+- Présence matérielle des Anciens dans le quotidien vallon.
+- **Tatouage des Stèles** : contrairement aux Tatouages des Ruines ulinoriens (glyphe choisi par l'Écho-Guide), les Vallois portent — quand ils en portent — un glyphe choisi par eux-mêmes, parfois changé en cours de vie, sans liturgie d'attribution.
 
 ### Les chants
 
-Les chants vallons sont brefs, à l'opposé des longs chants funéraires ulinoriens et des Cris guerriers skaldoriens. Un chant typique vallon dure entre une et trois minutes, est répété à plusieurs reprises au cours d'une Veille, et porte sur une seule image — un arbre, une stèle, une eau lente, une absence. Les images répétées sont tenues pour s'*ancrer* à mesure que la Veille avance. Aucun chant ne dit ce qu'il *signifie* ; les chants *sont* leur signification.
+- Brefs (1 à 3 minutes), à l'opposé des longs chants funéraires ulinoriens et des Cris guerriers skaldoriens.
+- Répétés plusieurs fois au cours d'une Veille ; portent sur une seule image (un arbre, une stèle, une eau lente, une absence).
+- Aucun chant ne dit ce qu'il *signifie* : les chants *sont* leur signification.
 
 ### Les rites de passage
 
-- **L'Engagement de Veille** (à 13 ans) : l'enfant tient sa première Veille en compagnie d'un parent ou d'un Veilleur reconnu. La Veille est brève (une demi-nuit) et s'achève à l'aube par un partage de pain. Pas de cérémonie d'achèvement ; on rentre chez soi en silence.
-- **La Première Veille Solitaire** (à 17 ans) : une nuit complète, seul, devant une stèle de la vallée. Aucun adulte n'est présent. Aucun récit n'est attendu de l'enfant au retour ; les parents savent que la Veille a eu lieu, et c'est tout.
-- **Le Choix de Stèle** (variable, entre 25 et 40 ans) : le Vallois adulte *choisit* une stèle particulière comme sienne — sa *stèle de vie*. Il y veillera plus souvent qu'à d'autres. La stèle peut changer en cours de vie ; le changement n'est pas commenté.
+- **L'Engagement de Veille** (à 13 ans) : première Veille de l'enfant avec un parent ou un Veilleur reconnu ; brève (demi-nuit), s'achève à l'aube par un partage de pain ; pas de cérémonie d'achèvement.
+- **La Première Veille Solitaire** (à 17 ans) : une nuit complète, seul, devant une stèle de la vallée ; aucun adulte présent ; aucun récit attendu au retour.
+- **Le Choix de Stèle** (variable, entre 25 et 40 ans) : le Vallois adulte *choisit* une stèle comme sienne (*stèle de vie*), où il veillera plus souvent ; peut changer en cours de vie, sans commentaire.
 
 ### La pratique du non-dit
 
-Les Vallois ne parlent pas des Veilles entre elles. On *fait*, on ne *raconte* pas. Cette discipline est tenue pour préserver l'authenticité de la pratique : raconter, c'est composer ; composer, c'est mentir. Cette logique a un coût social : les Vallois sont, pour les voyageurs étrangers, un peuple *taciturne et énigmatique*. Cette réputation flatte les Vallois (qui s'y voient une marque d'authenticité) et masque, en partie, l'isolement intellectuel qu'elle entretient.
+- Les Vallois ne parlent pas des Veilles entre elles : on *fait*, on ne *raconte* pas (raconter = composer = mentir).
+- Conséquence : réputation de peuple *taciturne et énigmatique* auprès des voyageurs étrangers.
 
 ---
 
 ## Régions
 
 ### DhalvoriaRegion (générique)
-La cartographie folinor reconnaît une seule "région" administrative pour Dhalvoria, ce qui ne correspond à aucune réalité interne. Les Vallois ne se reconnaissent pas dans cette catégorie ; ils *sont* leur vallée, et ils savent qu'ils partagent une pratique avec les autres vallées.
+- Unique « région » administrative reconnue par la cartographie folinor, sans correspondance avec la réalité interne.
+- Les Vallois ne se reconnaissent pas dans cette catégorie : ils *sont* leur vallée tout en partageant une pratique avec les autres.
 
 ---
 
 ## Villes et campements
 
 ### Dhalvora ★
-*Capitale informelle de Dhalvoria, située au cœur de la vallée centrale qui porte son nom. Bourg de quelques centaines de foyers, étalé en arc autour d'une concentration exceptionnelle de stèles — la **Place des Stèles** compte vingt-trois plaques gravées sur un espace de moins d'un hectare, fait unique dans le pays. Les bâtiments sont en pierre basse et bois, à un étage maximum, et orientés de manière à ce qu'aucune fenêtre ne donne directement sur la Place.*
-**Histoire :** Dhalvora ne fut pas fondée par décision ; elle s'est *cristallisée* autour de la Place des Stèles, qui était déjà un lieu de Veille avant qu'il y ait des habitations permanentes. Les premiers foyers s'installèrent à distance respectueuse ; les générations suivantes comblèrent l'espace. La règle des fenêtres détournées remonte, selon la chamane itinérante Therwen, à une période où l'on estimait que *regarder les stèles depuis chez soi diluait la Veille*. La règle est tenue sans plus l'expliquer ; les rares maisons modernes qui dérogent (deux ou trois) ont vu leurs habitants devenir l'objet d'une réprobation diffuse, jamais formulée.
+- Descripteur : capitale informelle, au cœur de la vallée centrale homonyme ; bourg de quelques centaines de foyers en arc autour d'une concentration exceptionnelle de stèles. **Place des Stèles** : 23 plaques gravées sur moins d'un hectare (fait unique dans le pays). Bâtiments en pierre basse et bois, un étage maximum, aucune fenêtre ne donnant directement sur la Place (règle attribuée par la chamane itinérante Therwen à l'idée que *regarder les stèles depuis chez soi diluait la Veille*). Bourg *cristallisé* autour de la Place des Stèles, lieu de Veille antérieur à toute habitation permanente.
 - Population : Bourg
 - Région : DhalvoriaRegion
 
 ### Yltharkenn
-*Plateau au cœur géographique du pays, lieu des Convergences. Ne compte que six cents résidents permanents ; sa population gonfle à plusieurs milliers tous les sept ans environ pour la durée de la Convergence. Les bâtiments permanents sont des **abris de Convergence** — structures basses et longues qui accueillent les délégations. Le Plateau lui-même est marqué par sept stèles disposées en cercle, au centre desquelles se tient la Veille collective de la Convergence.*
-**Histoire :** Le cercle des sept stèles est, selon les Lecteurs vallons, *en place depuis l'avant-mémoire*. Aucun chant ne dit qui les a placées. Plusieurs voyageurs étrangers ont noté que le cercle évoque les sites d'autres continents (le cercle de colonnes brisées de Keldris à Tressalia, certains menhirs de Trinoria). Les Vallois rejettent ces parallèles : *« nos stèles sont nos stèles »*. Ils n'élaborent pas. Le Plateau est, à plusieurs égards, l'analogue dhalvorien du Grand Canyon ulinorien — centre cosmique, lieu d'écoute. Mais l'écoute s'y fait *en silence* et non par résonance.
+- Descripteur : plateau au cœur géographique du pays, lieu des Convergences ; 600 résidents permanents, population gonflant à plusieurs milliers tous les sept ans pour la durée de la Convergence. Bâtiments permanents = **abris de Convergence** (structures basses et longues accueillant les délégations). Le Plateau porte un cercle de sept stèles, au centre duquel se tient la Veille collective ; cercle dit *en place depuis l'avant-mémoire*, aucun chant n'en nommant les bâtisseurs. Analogue dhalvorien du Grand Canyon ulinorien (centre cosmique, lieu d'écoute), mais écoute *en silence* et non par résonance.
 - Population : Village
 - Région : DhalvoriaRegion
 
 ### Kerwhelm
-*Vallée la plus orientale, point d'entrée pour les voyageurs venus de Folinor. Bourg de mille cinq cents habitants, marché actif (par les standards vallons) trois mois par an pendant l'ouverture des cols. Les Vallois de Kerwhelm sont les plus *cosmopolites* du pays — ils ont vu des marchands, des prêtres ulinoriens égarés, parfois un voyageur d'Onara ou de Galenor. Cette exposition est tenue pour ambiguë : les autres vallées les estiment *contaminés*, eux-mêmes se voient comme *résistants*.*
-**Histoire :** Kerwhelm est la vallée la plus pragmatique du pays. C'est ici qu'a été émise, deux fois sur les six occurrences historiques, la proposition d'établir une représentation extérieure auprès des chancelleries. Les deux propositions venaient de la même famille — les **Brendel**, marchands installés depuis cinq générations à Kerwhelm. Aucun Brendel n'a jamais été fait Veilleur reconnu, ce qui en dit long. La famille tient l'écart sans s'en plaindre.
+- Descripteur : vallée la plus orientale, point d'entrée des voyageurs venus de Folinor ; bourg de 1 500 habitants, marché actif (par les standards vallons) trois mois par an pendant l'ouverture des cols. Vallée la plus *cosmopolite* (marchands, prêtres ulinoriens égarés, parfois voyageur d'Onara ou de Galenor), tenue pour *contaminée* par les autres vallées. Vallée la plus pragmatique : à l'origine de deux des six propositions historiques de représentation extérieure, portées par la famille **Brendel** (marchands installés depuis cinq générations) ; aucun Brendel jamais fait Veilleur reconnu.
 - Population : Bourg
 - Région : DhalvoriaRegion
 
 ### Velkharra
-*Vallée la plus occidentale, donnant sur les falaises maritimes peu praticables. Population : environ huit cents habitants. La vallée est tenue pour *silencieuse* : peu de stèles parlantes, peu de Veilles publiques, prédominance du registre Vael'Kurash sur celui des Veilles. Les Velkharrois sont vus par les autres vallées comme *moins pieux*, ce qu'ils ne contestent pas.*
-**Histoire :** Velkharra fut, selon une tradition orale rapportée par les chamanes itinérantes, *la première vallée à se taire*. Ce qui veut dire : la première qui, à un moment indéterminé entre deux et trois millénaires plus tôt, *cessa de Lecturer*. La pratique s'y est maintenue sous une forme atténuée — les Velkharrois pratiquent encore des Veilles, mais ils ne lisent plus les stèles. Cette particularité est, en filigrane, l'aveu d'une dissidence vallone ancienne, jamais nommée comme telle. Les Velkharrois n'ont pas quitté la pratique ; ils l'ont *adoucie*.
+- Descripteur : vallée la plus occidentale, sur les falaises maritimes peu praticables ; ~800 habitants. Vallée *silencieuse* : peu de stèles parlantes, peu de Veilles publiques, prédominance du registre Vael'Kurash sur celui des Veilles ; Velkharrois vus comme *moins pieux* (non contesté). Selon une tradition orale, *première vallée à se taire* (à *cesser de Lecturer*, entre deux et trois millénaires plus tôt) : les Velkharrois pratiquent encore des Veilles mais ne lisent plus les stèles — dissidence vallone ancienne jamais nommée comme telle.
 - Population : Village
 - Région : DhalvoriaRegion
 
 ### Yltarkhen
-*Vallée nord, brumes persistantes huit mois par an. Population : environ mille cent habitants. Yltarkhen est le foyer de la copiste **Welna la Brève**, dont les chants dissidents sont conservés ici par tradition orale. La vallée est, en surface, *parfaitement orthodoxe* — Veilles régulières, Lectures, pratique conforme. En sous-couche, elle conserve une littérature de doute que les autres vallées ne reconnaissent pas. Cette double couche est, en filigrane, le pli d'une frange du Voile dhalvorienne.*
-**Histoire :** Welna la Brève vivait à Yltarkhen au XVIIIe siècle vallon (datation imprécise — env. 5 700 ap.A). Copiste itinérante par défaut (sa famille était trop pauvre pour la sédentariser), elle voyagea entre les vallées en transcrivant des chants. Les chants qu'elle transcrivait sont la base canonique de la liturgie vallone moderne. Les chants qu'elle *composa elle-même* — elle en composa une vingtaine — sont d'une orthodoxie discutable : ils questionnent la Prophétie de l'Éveil sans la nier, ils nomment l'attente comme *peut-être vide*, ils affirment que les Anciens *peut-être ne dorment pas*. Ces chants ne furent jamais déclarés hérétiques ; ils furent simplement *peu transmis*. Yltarkhen les conserve. Les autres vallées les ont *oubliés*.
+- Descripteur : vallée nord, brumes persistantes huit mois par an ; ~1 100 habitants. Foyer de la copiste **Welna la Brève** (XVIIIe siècle vallon, env. 5 700 ap.A), copiste itinérante par défaut (famille trop pauvre pour la sédentariser) ayant transcrit entre les vallées les chants formant la base canonique de la liturgie vallone moderne. Elle composa elle-même une vingtaine de chants d'orthodoxie discutable : questionnant la Prophétie de l'Éveil sans la nier, nommant l'attente comme *peut-être vide* et les Anciens comme *peut-être pas endormis* ; jamais déclarés hérétiques, simplement *peu transmis*. Yltarkhen les conserve par tradition orale ; les autres vallées les ont oubliés. Vallée *orthodoxe en surface*, conservant une littérature de doute en sous-couche.
 - Population : Village
 - Région : DhalvoriaRegion
 
 ### Brundherna
-*Vallée sud, agriculture céréalière dominante. Population : environ mille neuf cents habitants — vallée la plus peuplée après Dhalvora et Kerwhelm. Brundherna fournit une part importante du grain consommé dans le pays et exporté vers Folinor. Les Brundherniens sont travailleurs, prospères selon les standards vallons, et tenus par les autres vallées pour *un peu trop matériels*. Le reproche est ancien et largement ignoré.*
-**Histoire :** Brundherna a proposé quatre fois sur les six l'extension extérieure de Dhalvoria. Aucune des propositions n'a abouti, mais la persistance de la position est notable. La vallée est aussi celle où les Veilles se tiennent *avec moins d'ascétisme* — les veilleurs y mangent quelques fruits secs et boivent du thé pendant la nuit, pratique que les autres vallées trouvent relâchée. Cette tolérance pratique est défendue par les Brundherniens comme *réaliste* ; elle est dénoncée par les autres comme *érosion*. La controverse n'aboutit pas.
+- Descripteur : vallée sud, agriculture céréalière dominante ; ~1 900 habitants (la plus peuplée après Dhalvora et Kerwhelm). Fournit une part importante du grain consommé dans le pays et exporté vers Folinor ; Brundherniens tenus pour *un peu trop matériels*. À l'origine de quatre des six propositions historiques d'extension extérieure de Dhalvoria (aucune aboutie). Veilles tenues *avec moins d'ascétisme* (veilleurs y mangeant quelques fruits secs et buvant du thé pendant la nuit), pratique jugée relâchée par les autres vallées.
 - Population : Bourg
 - Région : DhalvoriaRegion
 
 ### Esselrenn
-*Vallée centrale-est, pratique vael'kurashe la plus marquée. Population : environ mille deux cents habitants. Les Esselrenniens veillent les stèles *et* tiennent des dialogues avec les esprits de la nature, sans distinguer clairement les deux registres. Cette synthèse non-formalisée est leur signature ; elle leur a valu la réputation d'être *tendres avec les esprits*, ce qu'ils acceptent comme un compliment.*
-**Histoire :** Esselrenn est, parmi les vallées dhalvoriennes, celle où le mythe d'Éveil est le moins central. La Prophétie y est récitée mais *aussi tenue à distance* — les Esselrenniens la tiennent pour *une formule héritée* qu'ils respectent sans en faire le pivot de leur Veille. Leur pivot, c'est *l'attention au présent vivant des vallées* (les arbres, les rivières, les bêtes, les voisins). Cette inflexion les rapproche, sans qu'ils le sachent, du Vael'Kurash le plus sain de la doctrine.
+- Descripteur : vallée centrale-est, pratique vael'kurashe la plus marquée ; ~1 200 habitants. Les Esselrenniens veillent les stèles *et* tiennent des dialogues avec les esprits de la nature, sans distinguer clairement les deux registres (réputation d'être *tendres avec les esprits*). Vallée où le mythe d'Éveil est le moins central : la Prophétie y est récitée mais tenue à distance comme *formule héritée* ; pivot de leur Veille = *l'attention au présent vivant des vallées* (arbres, rivières, bêtes, voisins).
 - Population : Village
 - Région : DhalvoriaRegion
 
 ### Khairsenn
-*Vallée intérieure, accès très difficile (col fermé six mois par an, sentier précaire), sanctuaire des Veilles longues. Population permanente : environ quatre cents habitants. Khairsenn n'a pas de marché, pas d'auberge, pas d'activité commerciale — seuls s'y rendent ceux qui viennent y tenir une Veille longue. Le bourg principal est aménagé autour de la **Stèle Centrale**, plaque de basalte de trois mètres de haut tenue pour la plus parlante du pays.*
-**Histoire :** Khairsenn est le *cœur orthodoxe* de la pratique dhalvorienne. Les Veilles longues qui s'y tiennent (sept jours et sept nuits sans dormir) sont réservées aux Veilleurs les plus expérimentés ; chaque année, deux à cinq Veilles longues sont entreprises ; chaque année, une à deux échouent (le Veilleur s'endort, perd connaissance, ou se retire). L'échec n'est pas tenu pour honteux mais pour *informateur* — le Veilleur qui a échoué *n'était pas prêt*. Une lecture marginale, jamais formulée, voudrait que les Veilles longues soient *physiologiquement impossibles à tenir entièrement* et que les rares Veilles déclarées réussies aient été en réalité ponctuées de micro-sommeils non admis. Les Veilleurs ne commentent pas.
+- Descripteur : vallée intérieure, accès très difficile (col fermé six mois par an, sentier précaire), sanctuaire des Veilles longues ; ~400 habitants permanents. Pas de marché, d'auberge ni d'activité commerciale ; seuls s'y rendent ceux qui viennent y tenir une Veille longue. Bourg aménagé autour de la **Stèle Centrale**, plaque de basalte de 3 m tenue pour la plus parlante du pays. *Cœur orthodoxe* de la pratique dhalvorienne. Veilles longues (7 jours / 7 nuits sans dormir) réservées aux Veilleurs les plus expérimentés : 2 à 5 entreprises par an, dont 1 à 2 échouent (endormissement, perte de connaissance, retrait) ; l'échec est tenu pour *informateur* (le Veilleur *n'était pas prêt*).
 - Population : Hameau
 - Région : DhalvoriaRegion
 
 ### Drentvar
-*Petite vallée méridionale, à la frange entre Dhalvoria et Folinor. Population : environ trois cent cinquante habitants. Drentvar est la vallée *la plus mélangée* — beaucoup de couples mixtes Vallois-Foliniens, beaucoup d'enfants élevés dans deux pratiques. Les Vallois orthodoxes considèrent Drentvar comme une vallée *en voie de dissolution* ; les Drentvarrois la voient comme *adaptée*.*
-**Histoire :** Drentvar est jeune (huit siècles environ) ; elle s'est constituée par l'établissement de familles foliniennes qui cherchaient des terres et de Vallois qui acceptaient le mélange. La vallée tient ses Veilles, mais elle les tient *moins longtemps* (cinq à six heures plutôt que la nuit complète). Cette adaptation n'a pas été sanctionnée — Drentvar est trop périphérique pour mériter une Convergence dédiée — mais elle est citée régulièrement comme exemple à *ne pas suivre* par les vallées centrales. Drentvar continue tranquillement.
+- Descripteur : petite vallée méridionale, à la frange entre Dhalvoria et Folinor ; ~350 habitants. Vallée *la plus mélangée* (nombreux couples mixtes Vallois-Foliniens, enfants élevés dans deux pratiques), vue comme *en voie de dissolution* par les orthodoxes et *adaptée* par ses habitants. Vallée jeune (~huit siècles), constituée par l'établissement de familles foliniennes cherchant des terres et de Vallois acceptant le mélange. Veilles tenues *moins longtemps* (5 à 6 heures plutôt que la nuit complète) ; citée comme exemple à ne pas suivre par les vallées centrales.
 - Population : Village
 - Région : DhalvoriaRegion
 
@@ -230,7 +244,7 @@ La cartographie folinor reconnaît une seule "région" administrative pour Dhalv
 
 ## Secrets et intrigues
 
-- **Les chants de Welna** : conservés à Yltarkhen, ces chants questionnent la Prophétie de l'Éveil. Aucune autre vallée ne les transmet. Une copie écrite (rare en pays oral) circulerait, selon des rumeurs, parmi quelques marchands brundherniens — qui la garderaient dans leurs coffres comme une curiosité. La copie n'a jamais été produite publiquement. Si elle existait et était diffusée, elle créerait une dissidence ouverte ; personne ne tient à le faire.
-- **Les ossements des cavités** : les voyageurs spéléologues étrangers qui ont suivi les Eaux Lentes ont trouvé des ossements humains dans certaines cavités sèches. Les Vallois n'ont pas commenté. La lecture officielle (jamais formulée) serait : *« ce sont les Anciens qui dorment »*. La lecture sceptique : ce sont les ossements de Vallois qui se sont jetés dans les Eaux Lentes au cours des siècles, par désespoir ou par mysticisme. Aucune des deux lectures ne sort des cercles informés.
-- **Les Veilles longues qui *réussissent* trop régulièrement à Khairsenn** : un Lecteur de Yltarkhen, par recoupement statistique, a noté que les Veilles déclarées réussies sont concentrées sur certaines familles influentes de Khairsenn. La hypothèse de cette concentration — que les familles compétentes ont *meilleure technique* — coexiste avec la hypothèse alternative que les Veilles déclarées réussies sont en réalité approximatives et que les familles influentes bénéficient d'une indulgence. Ce Lecteur n'a jamais publié son recoupement. Il est mort depuis. Ses notes sont quelque part à Yltarkhen.
-- **Welna la Brève — sa propre fin** : selon une rumeur de Yltarkhen, Welna mourut dans une Veille longue à Khairsenn — ce qui est *paradoxal* puisqu'elle n'était pas tenue pour Veilleuse reconnue. Sa famille, à Yltarkhen, dit qu'elle ne serait jamais allée à Khairsenn. La rumeur persiste. Aucun registre vallon ne tranche.
+- **Les chants de Welna** : conservés à Yltarkhen, ils questionnent la Prophétie de l'Éveil ; aucune autre vallée ne les transmet. Une copie écrite circulerait, selon des rumeurs, parmi quelques marchands brundherniens (gardée comme curiosité, jamais produite publiquement). Sa diffusion créerait une dissidence ouverte.
+- **Les ossements des cavités** : ossements humains trouvés par des spéléologues étrangers dans certaines cavités sèches le long des Eaux Lentes ; pas de commentaire vallon. Lecture officielle (jamais formulée) : *« ce sont les Anciens qui dorment »* ; lecture sceptique : ossements de Vallois s'étant jetés dans les Eaux Lentes au cours des siècles. Aucune des deux ne sort des cercles informés.
+- **Les Veilles longues réussissant trop régulièrement à Khairsenn** : un Lecteur de Yltarkhen a noté, par recoupement statistique, que les Veilles déclarées réussies se concentrent sur certaines familles influentes de Khairsenn. Deux hypothèses coexistent (meilleure technique des familles compétentes / indulgence envers les familles influentes pour des Veilles approximatives). Recoupement jamais publié ; le Lecteur est mort ; ses notes sont quelque part à Yltarkhen.
+- **Welna la Brève — sa propre fin** : selon une rumeur de Yltarkhen, elle serait morte dans une Veille longue à Khairsenn — paradoxal puisqu'elle n'était pas tenue pour Veilleuse reconnue. Sa famille à Yltarkhen affirme qu'elle ne serait jamais allée à Khairsenn. La rumeur persiste ; aucun registre vallon ne tranche.

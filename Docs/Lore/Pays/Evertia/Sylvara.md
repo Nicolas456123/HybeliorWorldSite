@@ -2,7 +2,7 @@
 tags: [lore, pays, evertia, sylvara]
 type: lore
 status: drafted
-last_review: 2026-05-06
+last_review: 2026-06-05
 needs_review_for: []
 ---
 # Sylvara — La Forêt qui Tient
@@ -23,165 +23,148 @@ needs_review_for: []
 
 ## Gouvernement — Le Gardiennat diffus
 
-Sylvara n'a pas de gouvernement au sens habituel. Ce qui existe est un dispositif de **Gardiennat diffus** que les chroniqueurs thalmariens trouvent fascinant et que les diplomates evertiens trouvent insaisissable.
+Sylvara n'a pas de gouvernement central. L'autorité repose sur un **Gardiennat diffus**, choix transmis et non retard institutionnel. Formule attribuée à Eilenne : *« Quand on commence à compter, on commence à perdre. »*
 
-- **Les Mains Vertes** (37 en 252) sont les figures d'autorité tacite. Initiation longue (douze à vingt ans) auprès d'une Main Verte plus âgée, validée par une session de communion silencieuse avec l'Arbre-Mère que la novice doit demander d'elle-même. Pas de cérémonie publique. Pas de titre porté visiblement. Une Main Verte est reconnue parce qu'on sait, dans son hameau, qu'elle l'est. Elle peut refuser d'agir comme telle. Elle peut être déchue par les autres Mains Vertes (cinq fois en sept générations) — ce qui se manifeste par le simple fait que les autres ne lui répondent plus quand elle envoie une messagère.
+- **Les Mains Vertes** (37 en 252) : figures d'autorité tacite.
+  - Initiation longue (12 à 20 ans) auprès d'une Main Verte plus âgée.
+  - Validation par une session de communion silencieuse avec l'Arbre-Mère, que la novice doit demander d'elle-même.
+  - Pas de cérémonie publique, pas de titre porté visiblement ; reconnue parce que son hameau le sait.
+  - Peut refuser d'agir comme telle ; peut être déchue par les autres Mains Vertes (5 fois en 7 générations) — la déchéance se manifeste par le fait que les autres cessent de répondre à ses messagères.
 
-- **Les Saigneurs et Saigneuses** (environ 4 000 en 252) sont la profession centrale. Ils prélèvent la sève selon des règles tacites qu'aucun document ne consigne mais que tout le monde connaît : ne jamais saigner deux années consécutives le même arbre, ne jamais entamer un arbre de moins de cent ans, ne jamais saigner l'Arbre-Mère, toujours attendre la pleine lune pour la première coupe. Ces règles glissent doucement depuis dix-huit mois sous la pression du marché thalmarien.
+- **Les Saigneurs et Saigneuses** (≈ 4 000 en 252) : profession centrale, prélèvement de la sève selon des règles tacites non consignées :
+  - ne jamais saigner deux années consécutives le même arbre ;
+  - ne jamais entamer un arbre de moins de cent ans ;
+  - ne jamais saigner l'Arbre-Mère ;
+  - toujours attendre la pleine lune pour la première coupe.
+  - Ces règles glissent depuis 18 mois sous la pression du marché thalmarien.
 
-- **Les Veilleuses des Marges** sont les Sylvaraines qui patrouillent les frontières non balisées du pays. Pas une fonction militaire — une fonction d'observation. Elles signalent les passages de braconniers evertiens (qui viennent parfois chercher la sève sans payer), les troupeaux de chèvres de Brumalith qui s'égarent, les Cantori thalmariens en visite. Elles ne combattent pas. Elles préviennent.
+- **Les Veilleuses des Marges** : Sylvaraines patrouillant les frontières non balisées. Fonction d'observation, non militaire. Signalent les braconniers evertiens (qui viennent parfois chercher la sève sans payer), les troupeaux de chèvres de Brumalith égarés, les Cantori thalmariens en visite. Elles ne combattent pas ; elles préviennent.
 
-- **Les Hameaux** s'auto-gouvernent par des conseils ad hoc. Quand une décision doit être prise (mariage entre deux familles, partage d'une zone de saignée, accueil d'un étranger), les adultes du hameau se réunissent dans la maison commune — qui est, dans la majorité des cas, l'arbre creux le plus large du voisinage — et discutent jusqu'à ce qu'un accord apparaisse. Ce processus est lent. Il n'aboutit pas toujours.
-
-L'absence de gouvernement central n'est pas un *retard* dans la lecture sylvaraine ; c'est un choix transmis. Les Mains Vertes répètent une formule attribuée à Eilenne : *« Quand on commence à compter, on commence à perdre. »* Cette formule s'applique à tout — au temps, à la sève, aux décisions, aux gens. Les visiteurs étrangers trouvent ce système inefficient. Les Sylvarains trouvent les autres systèmes anxieux.
+- **Les Hameaux** : auto-gouvernés par des conseils ad hoc. Décisions (mariage entre familles, partage d'une zone de saignée, accueil d'un étranger) prises en assemblée des adultes dans la maison commune — généralement l'arbre creux le plus large du voisinage — jusqu'à apparition d'un accord. Processus lent, n'aboutissant pas toujours.
 
 ---
 
 ## Religion
 
-### Vael'Kurash — sous une forme particulière
+### Vael'Kurash — variante sylvaraine
 
-Sylvara pratique le [[Vael'Kurash]] dans une variante locale qui diffère sensiblement de la pratique evertienne. Là où le Vael'Kurash evertien est codifié par le Cercle des Archidruides (rituels précis, transes collectives, hiérarchie de communion), le Vael'Kurash sylvarain est *pratique sans doctrine*. Les Sylvarains ne parlent pas des esprits. Ils marchent autour des arbres. Ils chantent quand ils saignent. Ils déposent des écorces taillées au pied des troncs majeurs. Ils ne prient pas, au sens d'une formulation de demande — ils *accompagnent*, geste qu'aucun théologien evertien n'a réussi à reformuler en doctrine.
+Sylvara pratique le [[Vael'Kurash]] dans une variante locale, distincte de la pratique evertienne :
+- Le Vael'Kurash evertien est codifié par le Cercle des Archidruides (rituels précis, transes collectives, hiérarchie de communion).
+- Le Vael'Kurash sylvarain est *pratique sans doctrine* : les Sylvarains ne parlent pas des esprits, ne prient pas au sens d'une demande ; ils *accompagnent* (marchent autour des arbres, chantent en saignant, déposent des écorces taillées au pied des troncs majeurs). Geste qu'aucun théologien evertien n'a réussi à reformuler en doctrine.
 
 **Pratiques :**
 
-- **La Marche du Pacte** : chaque saigneuse, au début de la saison, marche pendant une journée entière dans la forêt sans saigner — *pour redonner à l'arbre le temps qu'on lui prend*. La pratique est privée ; aucun témoin n'est nécessaire ; l'auto-attestation suffit.
+- **La Marche du Pacte** : chaque saigneuse, au début de saison, marche une journée entière dans la forêt sans saigner, *pour redonner à l'arbre le temps qu'on lui prend*. Pratique privée, sans témoin ; l'auto-attestation suffit.
 
-- **Le Chant de la Coupe** : avant chaque saignée, la saigneuse chante une note unique, tenue, grave, jusqu'à ce qu'elle sente l'arbre *accepter*. Ce qu'elle entend par *accepter* n'est pas formulé. Si la note ne se stabilise pas, on n'incise pas — on revient le lendemain. Cette pratique est en train de glisser : depuis dix-huit mois, beaucoup de saigneurs commencent à inciser sans attendre, parce que *l'arbre n'accepte presque jamais*.
+- **Le Chant de la Coupe** : avant chaque saignée, la saigneuse chante une note unique, tenue, grave, jusqu'à sentir l'arbre *accepter* (notion non formulée). Si la note ne se stabilise pas, on n'incise pas — on revient le lendemain. Pratique en train de glisser : depuis 18 mois, beaucoup incisent sans attendre car *l'arbre n'accepte presque jamais*.
 
-- **L'Écoute de la Sève** : pratique réservée aux Mains Vertes. Elles posent un peu de sève fraîche sur la langue et restent immobiles, parfois plusieurs heures, à *écouter* ce que la sève dit du sol où elle a été extraite. Les Mains Vertes considèrent que la sève transmet l'état de la forêt à un instant donné. Eilwen aux Mains Vertes, en privé, dit que la sève parle moins clairement qu'avant — qu'elle *bredouille*. Personne d'autre n'a confirmé.
+- **L'Écoute de la Sève** : réservée aux Mains Vertes. Elles posent un peu de sève fraîche sur la langue et restent immobiles, parfois plusieurs heures, à *écouter* ce que la sève dit du sol d'extraction. La sève est tenue pour transmettre l'état de la forêt à un instant donné. Eilwen aux Mains Vertes dit en privé que la sève *bredouille* — qu'elle parle moins clairement qu'avant. Non confirmé par d'autres.
 
-- **La Veille de la Première Lune** : à chaque pleine lune, les hameaux se rassemblent autour de l'arbre le plus ancien du voisinage et chantent ensemble pendant une heure — chant collectif sans paroles, à plusieurs voix qui se cherchent. Les Cantori thalmariens en visite trouvent cette pratique *acoustiquement intéressante* et *théologiquement énigmatique*. Les Sylvarains la pratiquent sans la commenter.
+- **La Veille de la Première Lune** : à chaque pleine lune, les hameaux se rassemblent autour de l'arbre le plus ancien du voisinage et chantent ensemble une heure — chant collectif sans paroles, à plusieurs voix. Les Cantori thalmariens en visite la jugent *acoustiquement intéressante* et *théologiquement énigmatique*.
 
-### Cantus Mundi — par influence
+### Cantus Mundi — par influence thalmarienne
 
-Le contact ancien avec Thalmaris a introduit à Sylvara une pratique partielle du [[Cantus Mundi]]. Les sessions du Cantus à l'Arbre-Mère, conduites par les Cantori thalmariens deux fois par lunaison, sont l'élément le plus visible. Les Sylvarains y participent comme *auditeurs*, jamais comme exécutants — distinction qu'ils tiennent pour importante. *Chanter pour la forêt* (Cantus Mundi) et *chanter avec la forêt* (Vael'Kurash sylvarain) sont, pour eux, des actes différents qu'on ne confond pas. Cette nuance échappe à la plupart des Cantori.
-
-Quelques familles sylvaraines de la frontière thalmarienne pratiquent le Cantus Mundi comme religion principale. Elles vont aux Heures du Chant à Ostarith quand elles peuvent, achètent des partitions à Galdaris, se font enterrer avec une Dernière Chanson. Ces familles sont environ trois cents en tout, et elles sont vues sans hostilité par leurs voisins — *la lecture de chacun*, comme on dirait à Thalenvir.
+Le contact ancien avec Thalmaris a introduit une pratique partielle du [[Cantus Mundi]] :
+- Sessions du Cantus à l'Arbre-Mère, conduites par les Cantori thalmariens deux fois par lunaison ; élément le plus visible. Les Sylvarains y participent comme *auditeurs*, jamais comme exécutants — distinction tenue pour importante.
+- Distinction sylvaraine : *chanter pour la forêt* (Cantus Mundi) ≠ *chanter avec la forêt* (Vael'Kurash sylvarain). Nuance qui échappe à la plupart des Cantori.
+- Environ trois cents familles de la frontière thalmarienne pratiquent le Cantus Mundi comme religion principale : elles vont aux Heures du Chant à Ostarith, achètent des partitions à Galdaris, se font enterrer avec une Dernière Chanson. Vues sans hostilité par leurs voisins.
 
 ---
 
 ## Culture et société
 
-### La forêt comme maison commune
+- **La forêt comme maison commune** : frontière intérieur/extérieur délibérément floue. Habitations majoritairement **creusées dans des arbres morts** ou **construites entre des troncs vivants**, cloisons partielles, toits de feuillage tressé. Les Sylvarains dorment *dans* la forêt, non à côté.
 
-À Sylvara, la frontière entre l'intérieur (la maison) et l'extérieur (la forêt) est délibérément floue. Les habitations sont, dans la majorité des cas, **creusées dans des arbres morts** ou **construites entre des troncs vivants**, avec des cloisons partielles et des toits de feuillage tressé. Les Sylvarains dorment souvent en entendant les bruits de la forêt, et ne considèrent pas qu'ils dorment *à côté* de la forêt — ils dorment *dedans*.
+- **Conséquences sanitaires** : épidémies moins propagées (dispersion physique élevée des habitations, pas de rassemblements urbains). Hivers rigoureux pour qui n'a pas les bonnes essences de bois. Mortalité infantile plus élevée qu'en Evertia ou Thalmaris — *acceptée* (non approuvée) comme partie du Pacte.
 
-Cette imbrication a des conséquences pratiques. Les épidémies, à Sylvara, se propagent moins qu'ailleurs (la dispersion physique des habitations est élevée, les rassemblements urbains inexistants). Mais les hivers sont rigoureux pour ceux qui n'ont pas les bonnes essences de bois. La mortalité infantile est plus élevée qu'en Evertia ou Thalmaris. Cette mortalité est acceptée — pas approuvée, acceptée — comme partie du Pacte.
+- **L'enfant qui marche** : les enfants apprennent à marcher seuls dans la forêt avant d'apprendre à lire. Vers six ans, l'enfant est envoyé une journée entière dans une zone connue des parents mais qu'il n'a pas explorée ; il doit revenir avant la nuit. S'il se perd, il doit s'asseoir, attendre, écouter, et trouver son chemin ; personne ne va le chercher avant le lendemain. Pratique ayant coûté la vie à un certain nombre d'enfants en sept générations ; défendue fermement par les parents.
 
-### L'enfant qui marche
+- **Le silence des décisions** : les Sylvarains parlent peu (par habitude transmise, non par discipline du silence comme Baelor). Décisions importantes prises après des silences prolongés, interprétés à tort comme des blocages par les visiteurs. Les diplomates thalmariens ont mis trois générations à comprendre que le silence sylvarain en négociation est une écoute, non un refus. Les diplomates evertiens ne l'ont jamais vraiment appris — facteur de la *froideur reconnue* entre Sylvara et le Cercle de Caëspia.
 
-Les enfants sylvarains apprennent à *marcher dans la forêt seuls* avant d'apprendre à lire. Vers six ans, l'enfant est envoyé pour une journée entière dans une zone de la forêt connue de ses parents mais que lui-même n'a pas encore explorée. Il doit revenir avant la nuit. S'il se perd — ce qui arrive — il doit s'asseoir, attendre, écouter, et trouver son chemin avec ce que la forêt lui *donne*. Personne ne va le chercher avant le lendemain. Cette pratique a coûté la vie à un certain nombre d'enfants au cours des sept générations. Elle est défendue avec une fermeté tranquille par les parents, qui considèrent qu'un enfant qui ne sait pas écouter la forêt à six ans ne saura jamais l'écouter.
+**Fêtes :**
 
-### Le silence des décisions
-
-Les Sylvarains parlent peu. Pas par règle (ils n'ont pas la discipline du silence comme Baelor) — par habitude transmise. Les décisions importantes sont prises après des silences prolongés que les visiteurs interprètent à tort comme des *blocages*. Les diplomates thalmariens ont mis trois générations à comprendre que *le silence sylvarain au cœur d'une négociation n'est pas un refus, c'est une écoute*. Les diplomates evertiens, eux, n'ont jamais vraiment réussi à apprendre cela — ce qui explique en partie la *froideur reconnue* entre Sylvara et le Cercle de Caëspia.
-
-### Fêtes
-
-- **La Veille de la Première Lune** (mensuelle, mentionnée plus haut).
-- **Le Renouvellement du Pacte** (tous les sept ans). Les Mains Vertes se réunissent au pied de l'Arbre-Mère, *en silence*, pendant une journée. Elles ne renégocient rien. Elles confirment que le Pacte tient — par leur seule présence collective. Si une Main Verte ne vient pas, sa non-venue est notée. Trois absences consécutives entraînent la déchéance tacite.
-- **Le Jour des Saigneurs** (au solstice d'été). Tous les saigneurs s'arrêtent de saigner pour vingt-quatre heures. Ils chantent ensemble, dans chaque hameau, des chansons ordinaires — pas de cérémonie. C'est la seule fête où l'on boit beaucoup.
-- **Le Chant des Morts** (variable). Quand une figure importante du pays meurt — Main Verte, saigneur reconnu, bâtisseur d'arbre-creux —, les hameaux voisins se réunissent et chantent une mélodie composée par les proches. Pas de Dernière Chanson au sens thalmarien. Une mélodie qui peut être réutilisée. Les chants des morts s'accumulent dans la mémoire collective et finissent par former un répertoire que les Cantori thalmariens, qui ont assisté à plusieurs cérémonies, ont commencé à transcrire en cachette — les Sylvarains seraient probablement contre cette transcription, mais personne ne leur a demandé.
+- **La Veille de la Première Lune** (mensuelle ; cf. Religion).
+- **Le Renouvellement du Pacte** (tous les 7 ans) : les Mains Vertes se réunissent au pied de l'Arbre-Mère, en silence, une journée. Aucune renégociation ; elles confirment que le Pacte tient par leur seule présence collective. Une absence est notée ; trois absences consécutives entraînent la déchéance tacite.
+- **Le Jour des Saigneurs** (solstice d'été) : arrêt de toute saignée pour 24 h ; chants ordinaires dans chaque hameau, sans cérémonie. Seule fête où l'on boit beaucoup.
+- **Le Chant des Morts** (variable) : à la mort d'une figure importante (Main Verte, saigneur reconnu, bâtisseur d'arbre-creux), les hameaux voisins chantent une mélodie composée par les proches. Pas de Dernière Chanson au sens thalmarien ; mélodie réutilisable, accumulée dans la mémoire collective. Des Cantori thalmariens en ont commencé la transcription en cachette, sans demander l'accord des Sylvarains (qui y seraient probablement opposés).
 
 ---
 
 ## Régions
 
-Sylvara n'a pas de régions administratives. Mais les Sylvarains distinguent informellement plusieurs zones :
+Sylvara n'a pas de régions administratives. Zones distinguées informellement :
 
-### Le Cœur
+- **Le Cœur** : vaste zone autour de l'Arbre-Mère, sans frontière précise. Pas d'habitations permanentes ; quelques cabanes pour les Mains Vertes en retraite. Lieu de la Veille de la Première Lune et du Renouvellement du Pacte. Les saigneurs n'y saignent pas (convention tacite, jamais écrite).
 
-Une vaste zone autour de l'Arbre-Mère, sans frontière précise. Pas d'habitations permanentes. Quelques cabanes pour les Mains Vertes en retraite. C'est ici que se tient la Veille de la Première Lune et le Renouvellement du Pacte. Les saigneurs n'y entrent pas pour saigner — convention tacite, jamais écrite.
+- **La Lisière du Nord** : frontière diffuse avec Evertia (côté sud-ouest de l'île principale). Forêt très dense, peu peuplée. Quelques hameaux de saigneurs spécialisés dans les sèves d'arbres rares. Tensions occasionnelles avec les patrouilles des Gardiens du Labyrinthe, qui tiennent parfois cette frontière pour evertienne.
 
-### La Lisière du Nord
+- **Les Ruelles Vertes** : bande forestière suivant la côte sud-ouest, parsemée des plus anciens hameaux de saigneurs. Majorité de la population de Sylvara. Densité plus élevée (pour Sylvara) ; tradition la plus forte du Chant de la Coupe.
 
-Frontière diffuse avec Evertia (côté sud-ouest de l'île principale). Forêt très dense, peu peuplée. Quelques hameaux de saigneurs spécialisés dans les sèves d'arbres rares. Tensions occasionnelles avec les patrouilles des Gardiens du Labyrinthe, qui considèrent parfois cette frontière comme évertienne.
+- **La Marge Thalmarienne** : frontière mouvante avec Thalmaris, où la forêt s'amincit vers les collines onduleuses thalmariennes. Population mixte sylvarain-thalmarien (plusieurs hameaux). Pratique partielle du Cantus Mundi. Passage des Cantori vers l'Arbre-Mère.
 
-### Les Ruelles Vertes
-
-Bande forestière qui suit la côte sud-ouest, parsemée des plus anciens hameaux de saigneurs. La majorité de la population de Sylvara vit ici. Densité plus élevée (pour Sylvara), tradition la plus forte du Chant de la Coupe.
-
-### La Marge Thalmarienne
-
-Frontière mouvante avec Thalmaris. Zone où la forêt s'amincit progressivement et fait place aux collines onduleuses thalmariennes. Population mixte (sylvarains et thalmariens vivent ensemble dans plusieurs hameaux). Pratique partielle du Cantus Mundi. C'est ici que passent les Cantori en route pour l'Arbre-Mère.
-
-### Les Hauteurs de Vorenhal
-
-Zone de collines basses au nord-ouest de la nation. Quelques anciens villages dont les noms (Vorenhal, Caraline, Belindre) datent du *avant le Pacte*. Population isolée, parfois marginalisée par le reste du pays — accusée à mots couverts de pratiquer encore *les vieilles façons*. Quelles sont ces vieilles façons ? Personne ne dit clairement.
+- **Les Hauteurs de Vorenhal** : collines basses au nord-ouest. Anciens villages dont les noms (Vorenhal, Caraline, Belindre) datent d'*avant le Pacte*. Population isolée, parfois marginalisée, accusée à mots couverts de pratiquer encore *les vieilles façons* (jamais explicitées).
 
 ---
 
 ## Villes et villages
 
-### Sylvara — *Le Lieu sans Capitale*
-
-Sylvara n'a pas de capitale. Le centre symbolique est l'**Arbre-Mère**, qui n'est pas une ville. Le centre administratif n'existe pas. Les Mains Vertes sont dispersées. Les visiteurs étrangers qui demandent *où est Sylvara ?* reçoivent comme réponse un geste circulaire qui désigne tout — c'est la forme la plus précise que les Sylvarains puissent donner.
+Sylvara n'a pas de capitale. Centre symbolique : l'**Arbre-Mère** (qui n'est pas une ville). Pas de centre administratif ; Mains Vertes dispersées.
 
 ### L'Arbre-Mère ★
 
-*Au centre du Cœur, l'Arbre-Mère est l'arbre le plus ancien du continent — diamètre estimé à trente mètres au tronc, hauteur indéterminée parce que la canopée empêche toute mesure verticale. L'écorce porte des traces de contacts (et non de gravures) qui forment, sur certains pans du tronc, des zones lisses où des milliers de paumes se sont posées au cours de sept générations. Le sol autour de l'arbre est nu sur un rayon de vingt mètres — pas par défrichage, mais parce que rien ne pousse ici. Les Cantori thalmariens y conduisent leurs sessions du Cantus deux fois par lunaison.*
-
-**Histoire :** L'Arbre-Mère a été reconnu comme tel par Eilenne. Avant elle, c'était un arbre énorme, mais un arbre. Après elle, c'est devenu *l'arbre*. Cette différence n'a pas modifié l'arbre. Elle a modifié les humains qui l'entourent. C'est une distinction que les Sylvarains tiennent pour importante.
+Arbre le plus ancien du continent, au centre du Cœur. Diamètre estimé à 30 m au tronc ; hauteur indéterminée (canopée empêchant toute mesure verticale). Écorce portant des traces de contacts (non de gravures) formant des zones lisses où des milliers de paumes se sont posées en sept générations. Sol nu sur un rayon de 20 m (rien n'y pousse). Reconnu comme *l'arbre* (et non plus comme un simple arbre énorme) par Eilenne ; cette reconnaissance a modifié les humains, non l'arbre. Les Cantori thalmariens y conduisent leurs sessions du Cantus deux fois par lunaison.
 - Statut : Sanctuaire (pas une ville)
 - Région : Le Cœur
-- Particularités : Dispositif acoustique unique du continent, pratique sept fois centenaire, sève changeante depuis 18 mois.
+- Particularités : dispositif acoustique unique du continent, pratique sept fois centenaire, sève changeante depuis 18 mois.
 
 ### Vorenhal
 
-*Le plus ancien hameau permanent de Sylvara, niché dans les Hauteurs. Maisons creusées dans des arbres morts d'essences rares (orme noir, hêtre veiné), reliées par des passerelles en hauteur. La place centrale est creusée dans un arbre vivant dont les branches forment naturellement une voûte à dix mètres du sol. Les habitants de Vorenhal sont réputés pour leur silence — le hameau le plus taciturne d'un pays déjà taciturne.*
-**Histoire :** Vorenhal préexiste au Pacte d'au moins trois générations, peut-être davantage — les noms des familles ne dérivent pas du sylvarain courant mais d'une langue plus ancienne dont seuls les linguistes thalmariens devinent quelques racines. Quand le Pacte fut transmis, les habitants de Vorenhal le reçurent sans enthousiasme particulier ; ils faisaient déjà à peu près la même chose, mais sans le formaliser. Cette continuité fait de Vorenhal un témoin gênant : si la pratique précédait le Pacte, alors le Pacte n'a peut-être pas inauguré quoi que ce soit. Les Mains Vertes des autres hameaux ne discutent pas de Vorenhal en public. Ils s'y rendent rarement.
+Plus ancien hameau permanent de Sylvara, dans les Hauteurs. Maisons creusées dans des arbres morts d'essences rares (orme noir, hêtre veiné), reliées par des passerelles en hauteur ; place centrale creusée dans un arbre vivant dont les branches forment une voûte naturelle à 10 m du sol. Hameau le plus taciturne du pays. Préexiste au Pacte d'au moins trois générations : noms de familles issus d'une langue plus ancienne (quelques racines devinées par les linguistes thalmariens). Le Pacte y fut reçu sans enthousiasme, la pratique y préexistant sans formalisation — continuité qui en fait un témoin gênant pour la doctrine du Pacte. Les Mains Vertes des autres hameaux n'en discutent pas en public et s'y rendent rarement.
 - Population : Hameau (≈ 280 habitants)
 - Région : Hauteurs de Vorenhal
-- Particularités : Voûte vivante centrale, archives orales pré-Pacte transmises uniquement à l'intérieur des familles.
+- Particularités : voûte vivante centrale ; archives orales pré-Pacte transmises uniquement à l'intérieur des familles.
 
 ### Caraline
 
-*Hameau adjacent à Vorenhal, plus accueillant aux étrangers. Les saigneurs de Caraline pratiquent une variante du Chant de la Coupe à deux voix — une note basse tenue par la saigneuse, une note haute tenue par une partenaire. Les Cantori thalmariens considèrent cette variante comme une survivance d'un contrepoint qu'on a perdu ailleurs.*
-**Histoire :** Caraline fut le premier hameau des Hauteurs à accueillir une Cantori thalmarienne en visite, environ deux générations après le Pacte. La Cantori — dont le nom est conservé localement comme *Maelis aux Mains Lentes*, sans qu'on sache si c'est son vrai nom thalmarien ou un surnom sylvarain — passa l'hiver à Caraline et apprit à chanter le Chant de la Coupe. Elle ne le transcrivit pas. À son retour à Ostarith, elle l'enseigna à trois élèves, qui l'enseignèrent à leurs enfants. Le Chant de la Coupe à deux voix est aujourd'hui pratiqué à Ostarith par une douzaine de familles, en cachette des autorités cantori, qui considèrent l'emprunt comme illégitime.
+Hameau adjacent à Vorenhal, plus accueillant aux étrangers. Les saigneurs pratiquent une variante du Chant de la Coupe à deux voix (note basse tenue par la saigneuse, note haute par une partenaire), tenue par les Cantori thalmariens pour une survivance d'un contrepoint perdu ailleurs. Premier hameau des Hauteurs à accueillir une Cantori thalmarienne en visite (≈ deux générations après le Pacte), conservée localement sous le nom de *Maelis aux Mains Lentes* ; elle y passa l'hiver, apprit le Chant de la Coupe sans le transcrire, puis l'enseigna à trois élèves à Ostarith. Le Chant de la Coupe à deux voix y est aujourd'hui pratiqué par une douzaine de familles, en cachette des autorités cantori qui jugent l'emprunt illégitime.
 - Population : Hameau (≈ 220 habitants)
 - Région : Hauteurs de Vorenhal
-- Particularités : Chant de la Coupe à deux voix, réseau d'échange ancien avec Ostarith.
+- Particularités : Chant de la Coupe à deux voix ; réseau d'échange ancien avec Ostarith.
 
 ### Belindre
 
-*Hameau le plus isolé du nord, dans une dépression boisée presque inaccessible en hiver. Belindre n'a aucune route. On y arrive par des sentiers que seuls les habitants connaissent. La population vit principalement de l'extraction d'écorces médicinales et d'une variante locale de bois lent (un bois de croissance extrêmement lente, prisé des luthiers thalmariens).*
-**Histoire :** Belindre fut, à plusieurs reprises au cours des sept générations, accusé par des hameaux voisins de pratiquer *les vieilles façons* — ce qui voudrait dire, selon les rumeurs, des saignées non rituelles, des prélèvements sans Chant de la Coupe, voire une révérence à un *autre* arbre que l'Arbre-Mère. Les Mains Vertes se rendirent à Belindre trois fois en sept générations pour enquêter. Les trois fois, elles repartirent sans rien constater de visible. Les trois fois, elles signalèrent dans leurs messages aux autres hameaux que *quelque chose se taisait à Belindre*, sans préciser quoi.
+Hameau le plus isolé du nord, dans une dépression boisée presque inaccessible en hiver. Aucune route ; accès par sentiers connus des seuls habitants. Vit principalement de l'extraction d'écorces médicinales et d'une variante locale de bois lent (croissance extrêmement lente, prisé des luthiers thalmariens). Accusé à plusieurs reprises en sept générations par des hameaux voisins de pratiquer *les vieilles façons* (saignées non rituelles, prélèvements sans Chant de la Coupe, voire révérence à un *autre* arbre que l'Arbre-Mère). Trois enquêtes des Mains Vertes en sept générations, reparties sans rien constater de visible mais signalant que *quelque chose se taisait à Belindre*.
 - Population : Hameau (≈ 150 habitants)
 - Région : Hauteurs de Vorenhal
-- Particularités : Bois lent, écorces médicinales rares, soupçon ancien de pratique non orthodoxe.
+- Particularités : bois lent ; écorces médicinales rares ; soupçon ancien de pratique non orthodoxe.
 
 ### Aerith — Nœud des Saigneurs
 
-*Hameau central des Ruelles Vertes, le plus dense du pays après l'Arbre-Mère. Aerith est le point de regroupement des saigneurs avant les saisons de coupe. Une grande aire commune sous un toit de feuillages tressés sert de marché tacite — on y dépose les barils de sève, on y reprend les outils communs, on y note (oralement) les arbres qui sont en repos cette année.*
-**Histoire :** Le druide Aerith d'Evertia (cf. Sorin ch. 30, le druide-guide silencieux) est attesté sous ce nom à Caëspia, mais le hameau d'Aerith en Sylvara existe depuis au moins quatre générations sans rapport direct documenté avec le druide. Il s'agit d'une homonymie ancienne, due à une racine sylvarain-evertien commune (*aer* = bois clair, *ith* = lieu). Les Sylvarains ne s'en formalisent pas. *Tout le monde s'appelle Aerith quelque part*, dit-on à Belindre.
+Hameau central des Ruelles Vertes, le plus dense du pays après l'Arbre-Mère. Point de regroupement des saigneurs avant les saisons de coupe. Grande aire commune sous toit de feuillages tressés servant de marché tacite : dépôt des barils de sève, reprise des outils communs, relevé oral des arbres en repos. Homonymie ancienne avec le druide Aerith d'Evertia (cf. Sorin ch. 30) : hameau attesté depuis au moins quatre générations, sans rapport direct documenté, du fait d'une racine sylvarain-evertien commune (*aer* = bois clair, *ith* = lieu).
 - Population : Hameau-marché (≈ 600 habitants permanents, jusqu'à 1 200 en saison)
 - Région : Ruelles Vertes
-- Particularités : Aire commune, comptoir de barils, archives orales des arbres.
+- Particularités : aire commune ; comptoir de barils ; archives orales des arbres.
 
 ### Marvet — Camp de la Rive Sud
 
-*Pas un hameau au sens habituel : un camp permanent de saigneurs spécialisés dans la sève d'arbres-en-bordure, le long d'une rive boueuse. Cinq à douze cabanes basses, du bois noirci par la résine, des cuves en métal récupéré chez les marchands thalmariens. Le camp est connu localement sous le nom du saigneur le plus ancien, Marvet (cf. Sorin ch. 31).*
-**Histoire :** Le camp existe depuis trois générations. Il a connu plusieurs reconfigurations. La guilde thalmarienne des herboristes — qui achète ce que produit le camp — comptabilise officiellement *douze saigneurs* sur la rive sud. En réalité, en 252, ils sont **cinq**. La différence entre douze et cinq permet à la guilde de rapporter à Ostarith une production *par saigneur* artificiellement basse, ce qui justifie de payer le baril moins cher. Les cinq saigneurs réels supportent la charge de douze. Marvet a confié ce détail à Sorin Valthen en 252, en demandant qu'il soit consigné. Sorin l'a consigné. Il n'est pas certain que cela change quoi que ce soit.
+Camp permanent (non hameau) de saigneurs spécialisés dans la sève d'arbres-en-bordure, le long d'une rive boueuse. Cinq à douze cabanes basses, bois noirci par la résine, cuves en métal récupéré chez les marchands thalmariens. Nommé d'après le saigneur le plus ancien, Marvet (cf. Sorin ch. 31). Camp existant depuis trois générations, plusieurs reconfigurations. La guilde thalmarienne des herboristes (acheteuse) comptabilise officiellement *douze saigneurs* alors qu'ils sont **cinq** en 252 ; l'écart permet de rapporter une production *par saigneur* artificiellement basse à Ostarith et de payer le baril moins cher. Les cinq saigneurs réels supportent la charge de douze. Détail confié par Marvet à Sorin Valthen en 252 et consigné par lui.
 - Population : Camp (≈ 5 saigneurs permanents)
 - Région : Ruelles Vertes (rive sud)
-- Particularités : Sève amère depuis 18 mois, comptabilité dévoyée par la guilde thalmarienne, saigneurs surchargés.
+- Particularités : sève amère depuis 18 mois ; comptabilité dévoyée par la guilde thalmarienne ; saigneurs surchargés.
 
 ### Vellinor
 
-*Hameau de la Marge Thalmarienne, mixte sylvarain-thalmarien. Les habitations alternent entre arbres creusés (style sylvarain) et maisons à toits de tuiles (style thalmarien). On y parle un mélange des deux langues que les linguistes étiquettent *vellinari*, et qui n'a pas de tradition écrite.*
-**Histoire :** Vellinor fut fondé par un mariage — celui d'une Main Verte sylvaraine et d'un Cantori thalmarien, environ cinq générations après le Pacte. Le couple refusa de choisir entre les deux pays et s'installa exactement sur la frontière (qui n'est pas balisée mais que les deux peuples reconnaissent). Leurs descendants formèrent le hameau. La pratique religieuse est mixte : Vael'Kurash sylvarain et Cantus Mundi thalmarien sont pratiqués en alternance par les mêmes personnes, ce qui choque légèrement les puristes des deux côtés et n'a jamais empêché Vellinor d'être prospère.
+Hameau de la Marge Thalmarienne, mixte sylvarain-thalmarien. Habitations alternant arbres creusés (style sylvarain) et maisons à toits de tuiles (style thalmarien). On y parle le *vellinari*, mélange des deux langues sans tradition écrite. Fondé par le mariage d'une Main Verte sylvaraine et d'un Cantori thalmarien (≈ cinq générations après le Pacte), installés exactement sur la frontière non balisée mais reconnue des deux peuples ; leurs descendants formèrent le hameau. Pratique religieuse mixte : Vael'Kurash sylvarain et Cantus Mundi thalmarien pratiqués en alternance par les mêmes personnes — choque légèrement les puristes des deux côtés sans nuire à la prospérité du hameau.
 - Population : Hameau (≈ 400 habitants)
 - Région : Marge Thalmarienne
-- Particularités : Pratique religieuse mixte, langue *vellinari*, point de passage des Cantori vers l'Arbre-Mère.
+- Particularités : pratique religieuse mixte ; langue *vellinari* ; point de passage des Cantori vers l'Arbre-Mère.
 
 ### Solinhal
 
-*Hameau de la frontière nord avec Evertia. Le seul lieu de Sylvara où les Gardiens du Labyrinthe d'Evertia ont, à une époque, posté un détachement — sous prétexte de protection des marges, en réalité pour surveiller un passage qu'ils craignaient voir utilisé par des saigneurs non-evertiens. Le détachement fut retiré il y a une génération, à la demande des Mains Vertes.*
-**Histoire :** L'incident qui aboutit au retrait du détachement est consigné dans les annales informelles de Sylvara. Un Sylvarain de Solinhal fut arrêté par les Gardiens pour avoir traversé la frontière dans une zone d'extraction de sève qui était, selon les Gardiens, evertienne, et selon les Sylvarains, sylvaraine. Il fut conduit à Sombreval. Les Mains Vertes, en apprenant l'arrestation, marchèrent collectivement (les trente-sept de l'époque) jusqu'à la frontière et restèrent debout pendant trois jours. Les Gardiens, embarrassés, libérèrent le saigneur et retirèrent leur détachement. La frontière n'a pas été redessinée. Personne ne saigne dans la zone contestée depuis. Les arbres y sont, dit-on, plus grands.
+Hameau de la frontière nord avec Evertia. Seul lieu de Sylvara où les Gardiens du Labyrinthe d'Evertia ont, à une époque, posté un détachement — officiellement pour la protection des marges, en réalité pour surveiller un passage qu'ils craignaient voir utilisé par des saigneurs non-evertiens. Détachement retiré il y a une génération, à la demande des Mains Vertes. Incident à l'origine du retrait : un Sylvarain de Solinhal, arrêté par les Gardiens pour avoir traversé la frontière dans une zone d'extraction contestée (evertienne selon les Gardiens, sylvaraine selon les Sylvarains), fut conduit à Sombreval ; les trente-sept Mains Vertes de l'époque marchèrent collectivement jusqu'à la frontière et restèrent debout trois jours, jusqu'à libération du saigneur et retrait du détachement. La frontière n'a pas été redessinée ; la zone contestée n'est plus saignée depuis (les arbres y seraient plus grands).
 - Population : Hameau (≈ 180 habitants)
 - Région : Lisière du Nord
-- Particularités : Zone tampon non saignée, mémoire de la marche des Mains Vertes.
+- Particularités : zone tampon non saignée ; mémoire de la marche des Mains Vertes.
 
 ---
 
@@ -189,20 +172,20 @@ Sylvara n'a pas de capitale. Le centre symbolique est l'**Arbre-Mère**, qui n'e
 
 | Pays | Relation | Détails |
 |------|----------|---------|
-| **Thalmaris** | Alliance pratique de longue date | Le Pacte indirect du Cantus à l'Arbre-Mère structure une relation dépourvue de traité officiel mais profondément stable. Les saigneurs de Sylvara fournissent la sève aux guérisseurs thalmariens ; les Cantori chantent à l'Arbre-Mère ; les hameaux mixtes (Vellinor) tiennent la frontière. La tension actuelle (sève amère, comptabilité Marvet) n'a pas encore éclaté. |
-| **Evertia** | Froideur reconnue | Sylvara n'a jamais accepté de subordination au Cercle de Caëspia. Les Archidruides considèrent les Mains Vertes comme des druides mineurs sans formation systématique. Les Mains Vertes considèrent les Archidruides comme des intellectuels qui parlent trop. Les rares contacts officiels passent par Thalmaris comme intermédiaire. |
-| **Solena (via Valmora)** | Indirect | Sylvara n'a aucun contact direct avec Solena. La sève qui arrive dans les officines de Solena passe d'abord par les guérisseurs de Sélyandris (Evertia) ou par les Académies thalmariennes. Sylvara ne touche pas la marge bénéficiaire qui se construit sur ses propres produits. |
+| **Thalmaris** | Alliance pratique de longue date | Le Pacte indirect du Cantus à l'Arbre-Mère structure une relation sans traité officiel mais profondément stable. Les saigneurs fournissent la sève aux guérisseurs thalmariens ; les Cantori chantent à l'Arbre-Mère ; les hameaux mixtes (Vellinor) tiennent la frontière. La tension actuelle (sève amère, comptabilité Marvet) n'a pas encore éclaté. |
+| **Evertia** | Froideur reconnue | Sylvara n'a jamais accepté de subordination au Cercle de Caëspia. Les Archidruides tiennent les Mains Vertes pour des druides mineurs sans formation systématique ; les Mains Vertes tiennent les Archidruides pour des intellectuels qui parlent trop. Les rares contacts officiels passent par Thalmaris comme intermédiaire. |
+| **Solena (via Valmora)** | Indirect | Aucun contact direct avec Solena. La sève arrivant dans les officines de Solena passe d'abord par les guérisseurs de Sélyandris (Evertia) ou par les Académies thalmariennes. Sylvara ne touche pas la marge bénéficiaire construite sur ses produits. |
 
 ---
 
 ## Secrets et intrigues
 
-- **Le goût amer de la sève.** Phénomène attesté depuis dix-huit mois, signalé par Voix-de-Pierre à Sorin (ch. 31), confirmé par les guérisseurs de Sélyandris et par Eilwen aux Mains Vertes. La nature exacte du changement n'est pas comprise. Les guérisseurs thalmariens compensent en augmentant les doses ; les saigneurs sylvarains compensent en saignant plus d'arbres. Cette double compensation accélère le déséquilibre. Eilwen aux Mains Vertes a commencé à demander aux Cantori thalmariens de chanter à l'Arbre-Mère plus souvent — non pour accélérer la production, mais *pour écouter la fréquence qui change*. Les Cantori ont accepté sans poser de questions.
+- **Le goût amer de la sève.** Attesté depuis 18 mois, signalé par Voix-de-Pierre à Sorin (ch. 31), confirmé par les guérisseurs de Sélyandris et par Eilwen aux Mains Vertes. Nature exacte du changement non comprise. Les guérisseurs thalmariens compensent en augmentant les doses ; les saigneurs sylvarains en saignant plus d'arbres — double compensation qui accélère le déséquilibre. Eilwen a demandé aux Cantori thalmariens de chanter plus souvent à l'Arbre-Mère, non pour accélérer la production mais *pour écouter la fréquence qui change* ; les Cantori ont accepté sans poser de questions.
 
-- **La note grave de l'Arbre-Mère.** Voix-de-Pierre a entendu, lors de la session du soir d'il y a deux semaines (compté à partir de Sorin ch. 31), une note plus basse que ce qu'il a jamais entendue à Sylvara — *une fréquence qui n'est pas dans le registre habituel de l'arbre*. Voix-de-Pierre l'interprète comme la fréquence propre de la terre qui se met à vibrer en réponse à *quelque chose en dessous*. Eilwen aux Mains Vertes l'a sentie aussi. Aucune des deux n'a publié.
+- **La note grave de l'Arbre-Mère.** Voix-de-Pierre a entendu, lors de la session du soir d'il y a deux semaines (compté depuis Sorin ch. 31), une note plus basse que jamais entendue à Sylvara, hors du registre habituel de l'arbre ; il l'interprète comme la fréquence propre de la terre vibrant en réponse à *quelque chose en dessous*. Eilwen l'a sentie aussi. Aucune des deux n'a publié.
 
-- **Les vieilles façons de Belindre.** Trois Mains Vertes en sept générations ont enquêté à Belindre. Trois ont rapporté que *quelque chose se taisait* sans préciser. La rumeur la plus persistante (jamais confirmée) est qu'à Belindre, les saigneurs vénèrent un *autre arbre* — un arbre dont l'identité serait gardée secrète par les familles fondatrices, et qui serait *plus ancien* que l'Arbre-Mère reconnu par le Pacte. Si cette rumeur était vraie, elle saperait sept générations de doctrine sylvaraine. Elle n'est pas vraie. Probablement.
+- **Les vieilles façons de Belindre.** Trois Mains Vertes en sept générations y ont enquêté ; trois ont rapporté que *quelque chose se taisait* sans préciser. Rumeur persistante jamais confirmée : les saigneurs de Belindre vénéreraient un *autre arbre*, gardé secret par les familles fondatrices et *plus ancien* que l'Arbre-Mère du Pacte. Si vraie, cette rumeur saperait sept générations de doctrine sylvaraine.
 
-- **Les Cantori qui transcrivent.** Depuis quatre générations, des Cantori thalmariens transcrivent en cachette les chants funéraires sylvarains. Cette transcription viole la culture orale des Sylvarains, qui considèrent que les chants des morts ne se conservent pas. Les Cantori qui transcrivent justifient leur pratique par une formule (*« la mémoire vaut mieux que l'oubli »*) qui sonne raisonnable et qui est, dans le cadre sylvarain, exactement le contraire de ce qu'il faudrait faire. Les Mains Vertes ne savent pas, officiellement, que cette transcription a lieu. Elles le suspectent.
+- **Les Cantori qui transcrivent.** Depuis quatre générations, des Cantori thalmariens transcrivent en cachette les chants funéraires sylvarains, violant la culture orale (pour laquelle les chants des morts ne se conservent pas). Justification cantori : *« la mémoire vaut mieux que l'oubli »*. Les Mains Vertes ne le savent pas officiellement ; elles le suspectent.
 
-- **Eilwen aux Mains Vertes.** La plus âgée des trente-sept Mains Vertes en activité (estimée à 84 ans en 252). Elle vit dans une cabane non balisée à proximité du Cœur. Elle est la voix la plus écoutée pour les questions liées à l'Arbre-Mère, mais elle parle peu en assemblée. Depuis un an, elle a demandé à six saigneuses de venir la voir individuellement, sans donner de raison publique. Trois sont déjà venues. Elles ne rapportent pas le contenu des entretiens. Une seule a confié à sa propre fille : *« Eilwen demande qu'on n'arrête pas de saigner. Mais qu'on saigne moins. Et qu'on ne dise pas pourquoi. »* La fille en question est elle-même candidate Main Verte.
+- **Eilwen aux Mains Vertes.** Plus âgée des 37 Mains Vertes en activité (estimée à 84 ans en 252). Vit dans une cabane non balisée près du Cœur. Voix la plus écoutée pour les questions liées à l'Arbre-Mère, mais parle peu en assemblée. Depuis un an, a demandé à six saigneuses de venir la voir individuellement, sans raison publique ; trois sont déjà venues et ne rapportent pas le contenu des entretiens. Une seule a confié à sa fille (elle-même candidate Main Verte) : *« Eilwen demande qu'on n'arrête pas de saigner. Mais qu'on saigne moins. Et qu'on ne dise pas pourquoi. »*

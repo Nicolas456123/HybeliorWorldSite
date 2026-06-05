@@ -2,7 +2,7 @@
 tags: [lore, pays, ilthara, vytharia, lunasar]
 type: lore
 status: drafted
-last_review: 2026-05-06
+last_review: 2026-06-05
 needs_review_for: []
 ---
 # Lunasar — La Monarchie Lunaire
@@ -24,11 +24,11 @@ needs_review_for: []
 
 ## Géographie et démographie
 
-Lunasar occupe un segment de la **côte orientale de Vytharia**, sur le continent d'Ilthara, là où les estuaires lunaires s'ouvrent sur la mer. C'est la province la plus côtière du domaine vytharien, séparée de la haute-Vytharia par un cordon de marais et de bras de mer — dont le **détroit de Lunaris** — que les conventions locales interdisent de traverser pendant la nouvelle lune. Le pays s'étend sur environ deux cents lieues de côtes basses, avec un arrière-pays de plaines de Velharon et de collines basses qui montent vers l'arête vytharo-mirathienne, trait intérieur qui relie Lunasar au plateau de Mirathi, l'autre province côtière de Vytharia.
-
-Climat tempéré-froid, vents marins constants, ciel souvent dégagé la nuit (qualité prisée pour les observations lunaires).
-
-**Population** : environ quatre-vingt-dix mille âmes recensées au plus récent recensement de pleine lune (les recensements ont lieu tous les douze cycles, soit environ tous les onze mois solaires). Distribution :
+- **Localisation** : côte orientale de [[Vytharia]] (continent [[Ilthara - Continent\|Ilthara]]), là où les estuaires lunaires s'ouvrent sur la mer. Province la plus côtière du domaine vytharien.
+- **Séparation de la haute-Vytharia** : cordon de marais et de bras de mer, dont le **détroit de Lunaris** — interdit de traverser pendant la nouvelle lune par convention locale.
+- **Étendue** : ~200 lieues de côtes basses ; arrière-pays de plaines de Velharon et de collines basses montant vers l'**arête vytharo-mirathienne** (trait intérieur reliant Lunasar au plateau de Mirathi, autre province côtière de Vytharia).
+- **Climat** : tempéré-froid, vents marins constants, ciel souvent dégagé la nuit (qualité prisée pour les observations lunaires).
+- **Population** : ~90 000 âmes (dernier recensement de pleine lune). Recensements tous les douze cycles (~tous les onze mois solaires).
 
 | Région | Ville principale | Population approx. | Trait dominant |
 |---|---|---|---|
@@ -39,7 +39,7 @@ Climat tempéré-froid, vents marins constants, ciel souvent dégagé la nuit (q
 | Collines de Mirhand | Mirhand-Bourg | ~1 800 | Routes vers Mirathi, auberges |
 | Reste (hameaux dispersés) | — | ~52 000 | Agriculture |
 
-Les **Hauts-Estuaires** méritent une mention : population nettement métissée, beaucoup de **pêcheurs apatrides** que les recensements lunariens classent par défaut sous *Visiteurs permanents*. Cette catégorie administrative n'est ni un statut de citoyen ni un statut d'étranger — c'est un *entre-deux* dont l'usage scandalise les puristes lunariens et qu'aucune Assemblée n'a jamais réformée.
+- **Hauts-Estuaires** : population nettement métissée, beaucoup de **pêcheurs apatrides** classés par défaut sous *Visiteurs permanents* — catégorie administrative ni citoyen ni étranger (entre-deux), jamais réformée par aucune Assemblée, mal vue des puristes lunariens.
 
 ---
 
@@ -47,29 +47,30 @@ Les **Hauts-Estuaires** méritent une mention : population nettement métissée,
 
 ### L'Assemblée de pleine lune
 
-Tous les habitants de Lunasar ayant atteint l'âge de quinze ans cycles (env. quatorze ans solaires) ont **droit de présence** à l'Assemblée de pleine lune. Le droit de vote est plus restreint : il s'acquiert par participation continue à au moins sept Assemblées consécutives. Ce critère est tenu pour fondamental — *on ne vote pas avant d'avoir écouté longtemps*.
-
-L'Assemblée se réunit dans l'amphithéâtre central de Lunaris à chaque pleine lune. Pas de président de séance, pas de cloche, pas d'ordre du jour formel. Les questions à débattre ont été collectées pendant la lune croissante par les Recenseurs de Questions (fonction municipale rotative, neuf personnes, mandat de douze cycles). Les délibérations commencent à la montée — quand la lune est au tiers de sa course — et se terminent au zénith. **Pas parce qu'une cloche sonne** — parce que les participants, collectivement et sans se concerter, cessent de parler. Ce mécanisme, qui fonctionne depuis trois siècles, est tenu pour inexplicable et nécessaire.
-
-Les votes ne sont pas comptés à voix nue : ils sont comptés à *position* — chaque votant se déplace dans une zone des gradins selon son vote, et les Recenseurs comptent visuellement.
+- **Droit de présence** : tout habitant ayant atteint quinze ans cycles (~quatorze ans solaires).
+- **Droit de vote** : acquis par participation continue à au moins sept Assemblées consécutives (principe : on ne vote pas avant d'avoir longuement écouté).
+- **Lieu et rythme** : amphithéâtre central de Lunaris, à chaque pleine lune. Pas de président de séance, pas de cloche, pas d'ordre du jour formel.
+- **Préparation** : questions collectées pendant la lune croissante par les **Recenseurs de Questions** (fonction municipale rotative, neuf personnes, mandat de douze cycles).
+- **Déroulé** : délibérations commencées quand la lune est au tiers de sa course, terminées au zénith — non par une cloche, mais quand les participants cessent collectivement de parler (mécanisme en place depuis trois siècles, tenu pour inexplicable et nécessaire).
+- **Vote** : compté à *position* — chaque votant se déplace dans une zone des gradins selon son vote ; les Recenseurs comptent visuellement.
 
 ### Les Veilleurs de lune
 
-Corps permanent, environ deux cents personnes réparties sur tout le territoire. Postes fixes (cols, ports, routes principales) et postes mobiles. Ils observent, notent, transmettent. Ils n'ont aucun pouvoir de coercition. Aucun Veilleur n'est armé.
-
-Leurs registres — tenus depuis l'institution du corps — constituent l'archive la plus continue du pays. Ils consignent les passages, les phénomènes inhabituels, les arrivées étrangères. C'est dans leurs marges que vivent les histoires comme celle des amulettes.
+- Corps permanent, ~200 personnes réparties sur tout le territoire. Postes fixes (cols, ports, routes principales) et postes mobiles.
+- Rôle : observer, noter, transmettre. Aucun pouvoir de coercition ; aucun Veilleur n'est armé.
+- **Registres** tenus depuis l'institution du corps : archive la plus continue du pays (passages, phénomènes inhabituels, arrivées étrangères). Leurs marges abritent des récits comme celui des amulettes.
 
 ### La fonction royale
 
-Lunasar est nominalement une monarchie. Le **Roi-Lunaire** (titre lunarien : *Lunarch*) est désigné à vie par l'Assemblée pendant une pleine lune éclipsée — phénomène rare (en moyenne une fois par génération), qui n'arrive pas à des intervalles réguliers et qui peut donc laisser le pays sans souverain pendant longtemps. Le Roi a peu de pouvoirs ordinaires : sa fonction est *cérémonielle et symbolique*. Il préside les funérailles d'État, ouvre l'Assemblée de pleine lune par un silence d'une minute, signe les décisions votées sans pouvoir y opposer son veto.
-
-La fonction est, dans la pratique, peu valorisée. Plusieurs Lunarchs récents sont morts dans la quasi-anonymité publique. Le pouvoir réel se distribue entre l'Assemblée, les Veilleurs, et — c'est là un trait peu reconnu de l'extérieur — les **Vieillards** (voir plus bas).
+- Monarchie nominale. Le **Roi-Lunaire** (titre lunarien : *Lunarch*) est désigné à vie par l'Assemblée pendant une pleine lune éclipsée — phénomène rare (env. une fois par génération, à intervalles irréguliers), pouvant laisser le pays longtemps sans souverain.
+- **Pouvoirs** : cérémoniels et symboliques. Préside les funérailles d'État, ouvre l'Assemblée de pleine lune par un silence d'une minute, signe les décisions votées **sans droit de veto**.
+- Fonction peu valorisée en pratique ; plusieurs Lunarchs récents sont morts dans la quasi-anonymité. Pouvoir réel distribué entre l'Assemblée, les Veilleurs et les **Vieillards** (voir ci-dessous).
 
 ### Les Vieillards
 
-Catégorie sociale plutôt qu'institutionnelle. Lunariens ayant vu plus de **mille pleines lunes** (env. quatre-vingts ans solaires) sont collectivement appelés les Vieillards. Leur opinion est sollicitée à l'Assemblée par convention — pas par règlement. Personne ne vote contre l'avis unanime des Vieillards ; mais les Vieillards eux-mêmes votent rarement de manière unanime, ce qui rend leur poids subtil.
-
-Solvanes (env. nonante-deux ans cycles, soit ~1 100 pleines lunes) est l'un d'eux. Il vit seul dans une maison qui donne sur l'amphithéâtre, avec une bibliothèque d'une salle entière où sont conservés ses propres journaux — un par cycle — depuis ses dix-sept ans. Il n'a jamais été Lunarch. Il n'a jamais été Recenseur. Il a été Veilleur de lune pendant trente ans, et depuis sa retraite il *écoute*.
+- Catégorie sociale (non institutionnelle) : Lunariens ayant vu plus de **mille pleines lunes** (~quatre-vingts ans solaires).
+- Leur opinion est sollicitée à l'Assemblée par convention, pas par règlement. Personne ne vote contre leur avis unanime ; mais ils votent rarement de manière unanime, ce qui rend leur poids subtil.
+- **Solvanes** (env. nonante-deux ans cycles, ~1 100 pleines lunes) en est un : vit seul dans une maison donnant sur l'amphithéâtre, bibliothèque privée d'une salle entière conservant ses journaux (un par cycle depuis ses dix-sept ans). Jamais Lunarch, jamais Recenseur ; Veilleur de lune pendant trente ans (voir *Personnalités*).
 
 ---
 
@@ -77,32 +78,32 @@ Solvanes (env. nonante-deux ans cycles, soit ~1 100 pleines lunes) est l'un d'eu
 
 ### Le Somnium Vigil lunarien
 
-Le *Somnium Vigil* — religion du rêve éveillé, branche cousine du Noctari — est dominante à Lunasar. Mais sa pratique lunarienne diffère sensiblement de celle de Lumasar (Galenor). À Lumasar, le rêve est *examiné, classé, hiérarchisé*. À Lunasar, le rêve est *daté* — on note la phase lunaire à laquelle on l'a fait, et on en tire des conclusions selon une grille empirique.
-
-Pratique commune : tout Lunarien tient un **journal de rêves**, en parallèle de ses comptes quotidiens. Au moins quatre-vingts pour cent des Lunariens adultes ont un tel journal. Les pages sont datées en cycles (pas en années solaires). Les rêves de pleine lune sont notés avec plus de soin que les autres ; les rêves de nouvelle lune sont notés mais rarement relus.
-
-Pas de clergé centralisé. Les **Lecteurs de rêves** sont des praticiens privés, parfois itinérants, qui reçoivent en consultation à domicile et émettent des avis. Leur formation n'est pas réglée — beaucoup sont des autodidactes, certains sont formés à Lumasar (Galenor) et reviennent appliquer une méthode plus systématique. La querelle entre Lecteurs *empiriques* (lunariens stricts) et Lecteurs *systématiques* (formés à l'extérieur) traverse les milieux érudits depuis cinquante ans.
+- [[Somnium Vigil]] — religion du rêve éveillé, branche cousine du Noctari — dominante à Lunasar.
+- **Différence avec Lumasar (Galenor)** : à Lumasar le rêve est examiné, classé, hiérarchisé ; à Lunasar le rêve est *daté* — on note la phase lunaire et on en tire des conclusions selon une grille empirique.
+- **Journal de rêves** : tenu par tout Lunarien en parallèle de ses comptes quotidiens (≥80 % des adultes). Pages datées en cycles (pas en années solaires). Rêves de pleine lune notés avec plus de soin ; rêves de nouvelle lune notés mais rarement relus.
+- **Pas de clergé centralisé.** Les **Lecteurs de rêves** sont des praticiens privés, parfois itinérants, reçus en consultation à domicile. Formation non réglée : beaucoup d'autodidactes, certains formés à Lumasar (Galenor) appliquant une méthode systématique.
+- **Querelle** (depuis ~50 ans) entre Lecteurs *empiriques* (lunariens stricts) et Lecteurs *systématiques* (formés à l'extérieur).
 
 ### Le rêve commercial
 
-Trait caractéristique de Lunasar et **scandale doctrinal latent** : depuis environ deux siècles, des **marchands étrangers** (Tyndaris, Sondaris, Galenor) viennent à Lunaris payer des consultations de Lecteurs avant de prendre des décisions commerciales importantes. La pratique est *tolérée* — les Lunariens y voient un revenu utile et une publicité gratuite pour leurs Tables. Une fraction du clergé Somnium Vigil y voit, en privé, la **ruine doctrinale** : le rêve qui devait être une discipline d'observation devient un service commercial. L'analogie avec le scandale Taciti (les *Visiteurs*, voir [[../../Religions/_Mineures/Taciti]]) n'est pas coïncidente — les deux pratiques se nourrissent du même affaiblissement de la limite.
+- Depuis ~deux siècles, des **marchands étrangers** (Tyndaris, Sondaris, Galenor) viennent à Lunaris payer des consultations de Lecteurs avant des décisions commerciales importantes.
+- Pratique *tolérée* (revenu utile, publicité des Tables). Une fraction du clergé Somnium Vigil y voit en privé une **ruine doctrinale** (le rêve-discipline devenu service commercial).
+- Analogie revendiquée avec le scandale Taciti (les *Visiteurs*, voir [[../../Religions/_Mineures/Taciti]]) — même affaiblissement de la limite.
 
 ### Les rites lunariens
 
-- **L'Heure de la Contemplation** (chaque soir, à la montée de la lune si elle se lève à vue, sinon à l'heure équivalente). Pratique semi-ritualisée que même les non-religieux observent. On regarde la lune (ou son emplacement). On ne parle pas. On ne mange pas. La pratique dure environ un quart d'heure.
-- **Le Repas de la Décroissance** (premier soir de la lune décroissante, mensuel). Repas familial. On mange ce qui a été décidé pendant la pleine lune (le menu est voté à l'Assemblée pour les villes ; les familles l'imitent). Tradition d'origine pratique (synchronisation des stocks) devenue rituelle.
-- **Le Silence de la Nouvelle Lune** (chaque nouvelle lune, midi à minuit). Marchés fermés. Tribunaux fermés. Aucune cérémonie publique. Aucune décision politique. Beaucoup de Lunariens en profitent pour dormir longtemps, ou marcher sans but, ou ne rien faire. La pratique a quelque chose d'enfantin que les visiteurs continentaux trouvent troublant.
-- **Le Repas du Brûlement** (rite privé, peu connu). Lorsqu'un Lunarien se sent prêt à *changer de cycle de vie* — mariage, départ, prise de fonction —, il invite ses proches à un repas et brûle, devant eux, un objet qui le rattachait au cycle précédent. La pratique n'est pas obligatoire. Elle est largement observée.
+- **L'Heure de la Contemplation** (chaque soir, à la montée de la lune ou heure équivalente) : on regarde la lune (ou son emplacement), on ne parle pas, on ne mange pas. Durée ~un quart d'heure. Observée même par les non-religieux.
+- **Le Repas de la Décroissance** (premier soir de la lune décroissante, mensuel) : repas familial ; on mange ce qui a été décidé pendant la pleine lune (menu voté à l'Assemblée pour les villes, imité par les familles). Origine pratique (synchronisation des stocks) devenue rituelle.
+- **Le Silence de la Nouvelle Lune** (chaque nouvelle lune, midi à minuit) : marchés et tribunaux fermés ; aucune cérémonie publique, aucune décision politique. Beaucoup dorment longtemps, marchent sans but ou ne font rien.
+- **Le Repas du Brûlement** (rite privé, peu connu) : lors d'un changement de cycle de vie (mariage, départ, prise de fonction), le Lunarien invite ses proches et brûle devant eux un objet le rattachant au cycle précédent. Non obligatoire, largement observé.
 
 ### La langue
 
-Le **lunari** est un dialecte galéno-vytharen archaïque, riche en termes techniques pour les phases lunaires (au moins quatorze mots pour les nuances entre lune croissante et pleine lune), pauvre en termes pour les saisons solaires (un seul mot pour *printemps* et *été*, le *temps qui pousse*).
-
-Trois mots lunariens difficiles à traduire :
-
-- *Velharin* : le sentiment d'avoir pris la décision juste à la mauvaise phase. Intraduisible. *Regret de timing* est l'approximation thalmarienne.
-- *Sondhel* : le calme spécifique d'une nouvelle lune où l'on n'a rien à attendre. Pas tout à fait l'ennui ; pas tout à fait la paix. *Repos de catégorie inférieure*, traduit Orneth dans une marge.
-- *Lunarith* : l'état dans lequel un rêve laisse, au matin, le sentiment d'avoir reçu une instruction sans pouvoir la formuler. Mot que tout Lunarien connaît et qu'aucun ne peut expliquer.
+- Le **lunari** : dialecte galéno-vytharen archaïque ; riche en termes pour les phases lunaires (≥14 mots pour les nuances entre lune croissante et pleine lune), pauvre pour les saisons solaires (un seul mot pour *printemps* et *été*, le *temps qui pousse*).
+- Trois mots difficiles à traduire :
+  - *Velharin* : sentiment d'avoir pris la décision juste à la mauvaise phase (approximation thalmarienne : *regret de timing*).
+  - *Sondhel* : calme spécifique d'une nouvelle lune où l'on n'a rien à attendre (ni ennui ni paix ; Orneth traduit *repos de catégorie inférieure*).
+  - *Lunarith* : état où un rêve laisse au matin le sentiment d'avoir reçu une instruction sans pouvoir la formuler.
 
 ---
 
@@ -110,25 +111,32 @@ Trois mots lunariens difficiles à traduire :
 
 ### Lunaris (Capitale, ~24 000 habitants)
 
-Construite autour de l'amphithéâtre central, dont la voûte est le ciel lui-même. Gradins de pierre blanche. Architecture sobre — maisons à toits plats, blanches à l'extérieur, plus chaudes à l'intérieur (tapis de laine dense, lumières de résine basse, lavande marine et bois de pin brûlé).
-
-Bibliothèque centrale (Tables des Conséquences, journaux des Vieillards, registres des Veilleurs). Maison de Solvanes (qui contient sa propre bibliothèque privée, équivalente en volume à un quart de la centrale).
+- Cité-amphithéâtre, siège du gouvernement. Construite autour de l'amphithéâtre central dont la voûte est le ciel ; gradins de pierre blanche.
+- Architecture sobre : maisons à toits plats, blanches à l'extérieur.
+- **Bibliothèque centrale** : Tables des Conséquences, journaux des Vieillards, registres des Veilleurs.
+- Maison de Solvanes (bibliothèque privée équivalente à un quart de la centrale).
 
 ### Sondaris (Port, ~6 000 habitants)
 
-Ville portuaire au sud de Lunaris. Activité de pêche soutenue, commerce avec Tyndara, Nectoria et — discrètement — les pêcheurs apatrides des Hauts-Estuaires. Marché de poissons quotidien sauf nouvelle lune. Connue pour ses **maîtres saleurs** dont certaines techniques sont brevetées par tradition orale dans des familles spécifiques.
+- Port principal au sud de Lunaris. Pêche soutenue ; commerce avec Tyndara, Nectoria et (discrètement) les pêcheurs apatrides des Hauts-Estuaires.
+- Marché de poissons quotidien sauf nouvelle lune.
+- **Maîtres saleurs** : techniques brevetées par tradition orale dans des familles spécifiques.
 
 ### Velhar (Bourg agricole, ~3 500 habitants)
 
-Centre de la plaine agricole. Élevage ovin, blé, fruits secs. Marché bimensuel calé sur les phases lunaires. Existe depuis le quatrième millénaire ; certains champs sont labourés selon le même découpage parcellaire depuis quatorze générations.
+- Centre de la plaine agricole : élevage ovin, blé, fruits secs. Marché bimensuel calé sur les phases lunaires.
+- Existe depuis le quatrième millénaire ; certains champs labourés selon le même découpage parcellaire depuis quatorze générations.
 
 ### Hauts-Estuaires (population dispersée, ~2 000)
 
-Hameaux de pêcheurs sur les estuaires nord-ouest. Population métissée — beaucoup de pêcheurs apatrides ou ayant rompu avec leur nation d'origine. Les filets remontent parfois des objets anciens d'origine indéterminée (amulettes de pierre noire, statuettes, flacons luminescents), que la tradition locale rattache au vieux fond onirique vytharien. Ces objets sont remis aux Veilleurs locaux par convention tacite, sans publication. Les pêcheurs des Hauts-Estuaires, souvent classés *Visiteurs permanents*, sont les Lunariens les moins lunariens — beaucoup ne tiennent pas de journal de rêves, beaucoup ne respectent pas la fermeture de la nouvelle lune. Aucune Assemblée n'a sévi.
+- Hameaux de pêcheurs sur les estuaires nord-ouest. Population métissée, beaucoup de pêcheurs apatrides ou ayant rompu avec leur nation d'origine ; souvent classés *Visiteurs permanents*.
+- Les filets remontent parfois des objets anciens d'origine indéterminée (amulettes de pierre noire, statuettes, flacons luminescents), rattachés par la tradition locale au vieux fond onirique vytharien. Remis aux Veilleurs locaux par convention tacite, sans publication.
+- Les moins lunariens des Lunariens : beaucoup ne tiennent pas de journal de rêves ni ne respectent la fermeture de la nouvelle lune. Aucune Assemblée n'a sévi.
 
 ### Mirhand-Bourg (Routes vers Mirathi, ~1 800)
 
-Carrefour entre la côte et les routes du plateau. Auberges, relais de voyageurs. Plusieurs résidents thalmariens y ont fait étape avant de monter à Mirathi.
+- Carrefour entre la côte et les routes du plateau de Mirathi. Auberges, relais de voyageurs.
+- Plusieurs résidents thalmariens y ont fait étape avant de monter à Mirathi.
 
 ---
 
@@ -136,19 +144,20 @@ Carrefour entre la côte et les routes du plateau. Auberges, relais de voyageurs
 
 ### Solvanes (env. nonante-deux ans cycles, ~1 100 pleines lunes vues)
 
-Vieillard de Lunaris. Ancien Veilleur de lune (an 195-225 ap.A approximativement). Vit seul. Peau parcheminée, gestes lents, parole précise. Galenorien sans accent. A vu Aldric Valthen, l'ulinorien anonyme, Sorin Valthen.
-
-A reçu Sorin en l'an 252 et lui a transmis le parchemin laissé par Aldric trente ans plus tôt. La rencontre est consignée dans les Chroniques (ch. 35).
-
-Solvanes ne se présente pas comme un mentor, et l'expression *Maître* qu'on lui accole dans la maison du notable où il rencontra Sorin n'est pas un titre — c'est un usage de courtoisie locale, appliqué à plusieurs Vieillards de Lunaris.
+- Vieillard de Lunaris. Ancien Veilleur de lune (an ~195-225 ap.A). Vit seul. Galenorien sans accent.
+- A connu Aldric Valthen, l'ulinorien anonyme, et Sorin Valthen.
+- A reçu Sorin en l'an 252 et lui a transmis le parchemin laissé par Aldric trente ans plus tôt (rencontre consignée dans les Chroniques, ch. 35).
+- Le titre *Maître* qu'on lui accole est un usage de courtoisie locale (appliqué à plusieurs Vieillards de Lunaris), non un titre officiel ; il ne se présente pas comme mentor.
 
 ### Sera (env. trente ans, traductrice-guide)
 
-Femme assignée par convention à l'accueil des visiteurs galenoriens à Lunaris. Galenorien excellent. Sa fonction réelle, plus large que la traduction, est *l'interprétation des situations* — elle lit ce qui se passe dans les espaces entre les choses dites. Pas une fonction officielle ; une compétence reconnue.
+- Femme assignée par convention à l'accueil des visiteurs galenoriens à Lunaris. Galenorien excellent.
+- Fonction réelle plus large que la traduction : *interprétation des situations* (compétence reconnue, non officielle).
 
 ### Le Lunarch en exercice (an 252)
 
-Vieille femme dont le nom n'est pas mentionné dans les récits accessibles aux étrangers. Désignée lors d'une éclipse de pleine lune en l'an 244. Préside les funérailles d'État et ouvre les Assemblées par un silence d'une minute. N'a aucun pouvoir de veto. Est respectée sans être écoutée — comme la plupart de ses prédécesseurs.
+- Vieille femme, nom non mentionné dans les récits accessibles aux étrangers. Désignée lors d'une éclipse de pleine lune en l'an 244.
+- Préside les funérailles d'État, ouvre les Assemblées par un silence d'une minute. Aucun droit de veto. Respectée sans être écoutée, comme la plupart de ses prédécesseurs.
 
 ---
 
@@ -167,8 +176,8 @@ Vieille femme dont le nom n'est pas mentionné dans les récits accessibles aux 
 
 ## Secrets et intrigues
 
-- **Les marges du registre des Veilleurs.** Trois cas documentés en trente ans (Aldric Valthen, l'ulinorien anonyme, Sorin Valthen). Aucune institution lunarienne ne traite officiellement le sujet. À la mort de Solvanes, le dépôt mémoriel se dispersera.
-- **Le parchemin d'Aldric.** Conservé trente ans par Solvanes, transmis à Sorin en l'an 252. Carte cartographique partielle, avec un symbole en troisième langue marquant un point en Evertia. Le contenu réel n'est pas public. Solvanes en a-t-il pris une copie ? La question n'est pas posée.
-- **Les rêves de Solvanes.** Le Vieillard a tenu des journaux de rêves pendant soixante-quinze ans. Le contenu sera-t-il publié à sa mort ? Aucune disposition publique n'a été prise. Sa famille n'est pas connue. Les journaux pourraient être brûlés, ou versés à la bibliothèque centrale, ou disparaître.
-- **L'éclipse à venir.** Selon les calculs des astronomes lunariens (croisés avec ceux de Haldria), une éclipse de pleine lune est prévue dans les sept à douze ans. Si elle a lieu, l'Assemblée désignera un nouveau Lunarch. La perspective n'est commentée publiquement par personne, mais les milieux politiques s'y préparent — discrètement, par convention.
-- **La corrélation est-elle réelle ?** Trois siècles de Tables des Conséquences ne suffisent pas à trancher la question. Les statisticiens haldriens qui ont consulté les Tables produisent des avis contradictoires. Aucune Assemblée n'a jamais mis la question à l'ordre du jour.
+- **Les marges du registre des Veilleurs** : trois cas documentés en trente ans (Aldric Valthen, l'ulinorien anonyme, Sorin Valthen). Aucune institution lunarienne ne traite officiellement le sujet. À la mort de Solvanes, le dépôt mémoriel se dispersera.
+- **Le parchemin d'Aldric** : conservé trente ans par Solvanes, transmis à Sorin en l'an 252. Carte partielle, symbole en troisième langue marquant un point en Evertia. Contenu réel non public. Existence d'une copie par Solvanes : non établie.
+- **Les rêves de Solvanes** : journaux de rêves tenus pendant soixante-quinze ans. Sort à sa mort indéterminé (publication, versement à la bibliothèque centrale, ou destruction) ; aucune disposition publique, famille non connue.
+- **L'éclipse à venir** : selon les astronomes lunariens (croisés avec Haldria), éclipse de pleine lune prévue dans les sept à douze ans. Si elle a lieu, l'Assemblée désignera un nouveau Lunarch. Non commentée publiquement ; les milieux politiques s'y préparent discrètement.
+- **La corrélation est-elle réelle ?** Trois siècles de Tables des Conséquences ne permettent pas de trancher. Avis contradictoires des statisticiens haldriens ayant consulté les Tables. Aucune Assemblée n'a mis la question à l'ordre du jour.
