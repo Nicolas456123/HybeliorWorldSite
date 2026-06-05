@@ -1,14 +1,12 @@
-<!-- ===== Page Nation : fiche DESCRIPTION factuelle (le récit vit dans les Chroniques) ===== -->
+<!-- ===== Page Histoire : le RÉCIT (chronique) d'une nation — côté Chroniques ===== -->
 <div class="nation-page">
     <div class="nation-page-crumbs">
-        <a href="#monde/continents" class="nation-page-back">← Continents</a>
+        <a href="#histoires/histoires" class="nation-page-back">← Toutes les histoires</a>
         <span class="nation-page-crumbs-sep">·</span>
-        <a class="nation-page-continent" id="nation-page-continent" href="#monde/continents"></a>
+        <span class="nation-page-continent" id="histoire-page-continent"></span>
     </div>
 
-    <h1 class="nation-page-title" id="nation-page-title">Nation</h1>
-
-    <div class="nation-page-body" id="nation-page-body">
+    <div class="nation-page-body" id="histoire-page-body">
         <div class="nation-page-loading">Sélectionnez une nation.</div>
     </div>
 </div>
@@ -17,31 +15,29 @@
 (function () {
     'use strict';
 
-    var titleEl     = document.getElementById('nation-page-title');
-    var continentEl = document.getElementById('nation-page-continent');
-    var bodyEl      = document.getElementById('nation-page-body');
+    var continentEl = document.getElementById('histoire-page-continent');
+    var bodyEl      = document.getElementById('histoire-page-body');
 
     var _cache = {};
 
-    function currentSubkey() {
+    function currentSlug() {
         var raw = window.location.hash.slice(1);
         var parts = raw.split('/');
-        if (parts[0] !== 'nation') return null;
+        if (parts[0] !== 'histoire') return null;
         return parts.slice(1).join('/') || null;
     }
 
-    function getNationInfo(slug) {
+    function getInfo(slug) {
         if (!window.NavConfig || typeof NavConfig.findNationBySlug !== 'function') return null;
         var meta = NavConfig.findNationBySlug(slug);
         if (!meta) return null;
         var paths = window.LoreReader && LoreReader.NATIONS && LoreReader.NATIONS[meta.nation];
         if (!paths) return null;
-        return { nation: meta.nation, continent: meta.continent, continentKey: meta.continentKey, pays: paths.pays };
+        return { nation: meta.nation, continent: meta.continent, histoires: paths.histoires };
     }
 
     function renderMarkdown(text) {
         var src = (window.LoreContent ? LoreContent.stripInternalSections(text) : text);
-        // Wikilinks [[X|Y]] → lien cliquable propre si nation/continent, sinon texte.
         var clean = src.replace(/\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/g, function (_, file, display) {
             var name  = (file.split('/').pop() || file).trim();
             var label = (display || name).trim();
@@ -68,40 +64,33 @@
     }
 
     function renderForCurrentSlug() {
-        var slug = currentSubkey();
+        var slug = currentSlug();
         if (!slug) return;
-
-        var info = getNationInfo(slug);
-        if (!info || !info.pays) {
-            titleEl.textContent = info ? info.nation : 'Nation introuvable';
+        var info = getInfo(slug);
+        if (!info || !info.histoires) {
             continentEl.textContent = info ? info.continent : '';
-            bodyEl.innerHTML = '<div class="nation-page-error">Aucune fiche pour cette nation.</div>';
+            bodyEl.innerHTML = '<div class="nation-page-error">Aucune histoire pour cette nation.</div>';
             return;
         }
-
-        titleEl.textContent = info.nation;
         continentEl.textContent = info.continent;
-        // Lien fil d'ariane vers la fiche du continent (route propre)
-        continentEl.setAttribute('href', '#continent/' + (info.continentKey || ''));
-
-        if (_cache[info.pays]) { paint(_cache[info.pays]); return; }
+        if (_cache[info.histoires]) { paint(_cache[info.histoires]); return; }
         bodyEl.innerHTML = '<div class="nation-page-loading">Chargement…</div>';
-        fetch('/lore/' + info.pays).then(function (r) {
+        fetch('/lore/' + info.histoires).then(function (r) {
             if (!r.ok) throw new Error('HTTP ' + r.status);
             return r.text();
         }).then(function (text) {
-            _cache[info.pays] = text;
+            _cache[info.histoires] = text;
             paint(text);
         }).catch(function (err) {
-            bodyEl.innerHTML = '<div class="nation-page-error">Impossible de charger la fiche.<br><small>' +
+            bodyEl.innerHTML = '<div class="nation-page-error">Impossible de charger l\'histoire.<br><small>' +
                 (err && err.message ? err.message : err) + '</small></div>';
         });
     }
 
-    if (window._nationPageHandler) {
-        window.removeEventListener('hashchange', window._nationPageHandler);
+    if (window._histoirePageHandler) {
+        window.removeEventListener('hashchange', window._histoirePageHandler);
     }
-    window._nationPageHandler = renderForCurrentSlug;
+    window._histoirePageHandler = renderForCurrentSlug;
     window.addEventListener('hashchange', renderForCurrentSlug);
 
     renderForCurrentSlug();

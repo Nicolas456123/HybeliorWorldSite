@@ -1,0 +1,84 @@
+<!-- ===== Page Continent : fiche factuelle d'un continent ===== -->
+<div class="nation-page">
+    <div class="nation-page-crumbs">
+        <a href="#monde/continents" class="nation-page-back">← Continents</a>
+    </div>
+
+    <div class="nation-page-body" id="continent-page-body">
+        <div class="nation-page-loading">Sélectionnez un continent.</div>
+    </div>
+</div>
+
+<script>
+(function () {
+    'use strict';
+
+    var bodyEl = document.getElementById('continent-page-body');
+    var _cache = {};
+
+    function currentKey() {
+        var raw = window.location.hash.slice(1);
+        var parts = raw.split('/');
+        if (parts[0] !== 'continent') return null;
+        return parts.slice(1).join('/') || null;
+    }
+
+    function renderMarkdown(text) {
+        var src = (window.LoreContent ? LoreContent.stripInternalSections(text) : text);
+        var clean = src.replace(/\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/g, function (_, file, display) {
+            var name  = (file.split('/').pop() || file).trim();
+            var label = (display || name).trim();
+            var href  = (window.NavConfig && NavConfig.linkHrefForName) ? NavConfig.linkHrefForName(name) : null;
+            return href ? '[' + label + '](' + href + ')' : label;
+        });
+        if (typeof marked !== 'undefined') {
+            var html = marked.parse(clean, { breaks: true });
+            return window.LoreContent ? LoreContent.sanitizeHtml(html) : html;
+        }
+        return '<pre>' + clean.replace(/[<>&]/g, function (c) {
+            return ({'<':'&lt;','>':'&gt;','&':'&amp;'})[c];
+        }) + '</pre>';
+    }
+
+    function paint(text) {
+        bodyEl.innerHTML = '<div class="lore-md-content">' + renderMarkdown(text) + '</div>';
+        window.scrollTo({ top: 0, behavior: 'instant' });
+        var sidebar = document.getElementById('site-sidebar');
+        var content = document.querySelector('.page-content');
+        if (sidebar && content && window.SidebarTOC) {
+            SidebarTOC.build(sidebar, content);
+        }
+    }
+
+    function renderForCurrentKey() {
+        var key = currentKey();
+        if (!key) return;
+        var cont = (window.NavConfig && NavConfig.findContinentByKey) ? NavConfig.findContinentByKey(key) : null;
+        if (!cont) {
+            bodyEl.innerHTML = '<div class="nation-page-error">Continent introuvable.</div>';
+            return;
+        }
+        var url = 'Pays/' + cont.label + '/' + cont.label + ' - Continent.md';
+        if (_cache[url]) { paint(_cache[url]); return; }
+        bodyEl.innerHTML = '<div class="nation-page-loading">Chargement…</div>';
+        fetch('/lore/' + url).then(function (r) {
+            if (!r.ok) throw new Error('HTTP ' + r.status);
+            return r.text();
+        }).then(function (text) {
+            _cache[url] = text;
+            paint(text);
+        }).catch(function (err) {
+            bodyEl.innerHTML = '<div class="nation-page-error">Impossible de charger la fiche.<br><small>' +
+                (err && err.message ? err.message : err) + '</small></div>';
+        });
+    }
+
+    if (window._continentPageHandler) {
+        window.removeEventListener('hashchange', window._continentPageHandler);
+    }
+    window._continentPageHandler = renderForCurrentKey;
+    window.addEventListener('hashchange', renderForCurrentKey);
+
+    renderForCurrentKey();
+})();
+</script>

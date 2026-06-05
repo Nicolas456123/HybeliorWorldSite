@@ -28,8 +28,11 @@ const NavConfig = {
     ],
 
     /** Routes internes accessibles via deep-link (pas dans le top nav).
-        Quand on navigue vers ces routes, le top-nav highlight 'lore'. */
-    loreSubroutes: ['vision', 'monde', 'mecaniques', 'systemes', 'histoires', 'nation'],
+        Quand on navigue vers ces routes, le top-nav highlight 'lore'.
+        - #continent/<key> : fiche continent (factuel)
+        - #nation/<slug>   : fiche Description d'une nation (factuel)
+        - #histoire/<slug> : récit (Histoire) d'une nation (Chroniques) */
+    loreSubroutes: ['vision', 'monde', 'mecaniques', 'systemes', 'histoires', 'nation', 'continent', 'histoire'],
 
     /** Continents et nations — source unique pour :
         - la landing lore-histoires (cartes par continent)
@@ -81,6 +84,23 @@ const NavConfig = {
         for (const cont of conts) {
             if (cont.nations.includes(name)) return cont;
         }
+        return null;
+    },
+
+    /** Continent par clé (slug), ou null. */
+    findContinentByKey(key) {
+        return (this.nationContinents || []).find(c => c.key === key) || null;
+    },
+
+    /** Href de route PROPRE pour un nom de nation ou de continent (sinon null).
+        Sert à transformer les wikilinks [[X]] des fiches en liens cliquables :
+        nation → #nation/<slug>, continent → #continent/<key>. */
+    linkHrefForName(name) {
+        if (!name) return null;
+        const slug = this.slugifyNation(name);
+        if (this.findNationBySlug(slug)) return '#nation/' + slug;
+        const cont = (this.nationContinents || []).find(c => c.label === name || c.key === slug);
+        if (cont) return '#continent/' + cont.key;
         return null;
     },
 
@@ -235,9 +255,13 @@ const NavConfig = {
         // Routes spéciales sans entrée directe dans loreCategories :
         //   - #nation/<slug>             → catégorie Chroniques (sous le lien "Nations")
         //   - #md/Lore/Religions/*       → catégorie Chroniques (sous le lien "Religions")
-        // Fiche DESCRIPTION d'une nation (#nation/<slug>) = côté factuel → catégorie « monde »
-        if (route === 'nation') {
+        // Côté FACTUEL (Le monde) : fiche continent (#continent/) et fiche Description (#nation/)
+        if (route === 'nation' || route === 'continent') {
             return (this.loreCategories || []).find(c => c.key === 'monde') || null;
+        }
+        // Côté CHRONIQUES : récit (Histoire) d'une nation (#histoire/)
+        if (route === 'histoire') {
+            return (this.loreCategories || []).find(c => c.key === 'chroniques') || null;
         }
         if (route === 'md' && subkey) {
             const path = decodeURIComponent(subkey);

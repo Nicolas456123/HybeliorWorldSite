@@ -31,7 +31,7 @@
     // Les 5 grands onglets. `routes` = routes qui appartiennent à la section.
     const SECTIONS = [
         { key: 'accueil',        label: 'Accueil',        href: '#accueil',        routes: ['accueil'] },
-        { key: 'lore',           label: 'Lore',           href: '#lore',           routes: ['lore', 'vision', 'monde', 'mecaniques', 'systemes', 'histoires', 'nation'], kind: 'lore' },
+        { key: 'lore',           label: 'Lore',           href: '#lore',           routes: ['lore', 'vision', 'monde', 'mecaniques', 'systemes', 'histoires', 'nation', 'continent', 'histoire'], kind: 'lore' },
         { key: 'implementation', label: 'Implémentation', href: '#implementation', routes: ['implementation'], kind: 'subtabs' },
         { key: 'carte',          label: 'Carte',          href: '#carte',          routes: ['carte'] },
         { key: 'frise',          label: 'Frise',          href: '#frise',          routes: ['frise'] },
@@ -136,41 +136,24 @@
             const activeCat  = NavConfig.findLoreCategory(route, subkey);
             const activeHash = '#' + route + (subkey ? '/' + subkey : '');
 
-            // ── Côté CHRONIQUES / Nations (récit) : #histoires/histoires ou #md/Lore/Histoires/… ──
-            let isOnMdHistoire = false, mdHistoireNation = null;
-            if (route === 'md' && subkey) {
-                try {
-                    const m = /^Lore\/Histoires\/[^/]+\/(.+)\.md$/.exec(decodeURIComponent(subkey));
-                    if (m) { isOnMdHistoire = true; mdHistoireNation = m[1]; }
-                } catch (_) { /* noop */ }
-            }
+            // ── Côté CHRONIQUES / Nations (récit) : #histoires/histoires ou #histoire/<slug> ──
+            const onHistoire      = route === 'histoire' && !!subkey;
             const onNationLanding = route === 'histoires' && subkey === 'histoires';
-            const isOnNations     = onNationLanding || isOnMdHistoire;
-            let activeNationMeta = null;
-            if (mdHistoireNation && typeof NavConfig.findContinentForNation === 'function') {
-                const cont = NavConfig.findContinentForNation(mdHistoireNation);
-                if (cont) activeNationMeta = { nation: mdHistoireNation, continent: cont.label, continentKey: cont.key };
-            }
+            const isOnNations     = onNationLanding || onHistoire;
+            let activeNationMeta = onHistoire ? NavConfig.findNationBySlug(subkey) : null;
 
             // ── Côté LE MONDE / Continents (factuel) : table #monde/continents, fiche
-            //    continent (#md/Lore/Pays/<C>/<C> - Continent.md), ou Description (#nation/<slug>) ──
+            //    continent (#continent/<key>), ou Description d'une nation (#nation/<slug>) ──
             const onContinentsHub = route === 'monde' && subkey === 'continents';
-            let onMdContinent = false, mdContinentLabel = null;
-            if (route === 'md' && subkey) {
-                try {
-                    const m = /^Lore\/Pays\/([^/]+)\/\1 - Continent\.md$/.exec(decodeURIComponent(subkey));
-                    if (m) { onMdContinent = true; mdContinentLabel = m[1]; }
-                } catch (_) { /* noop */ }
-            }
-            const onNationDesc = route === 'nation' && !!subkey;
-            const isOnContinents = onContinentsHub || onMdContinent || onNationDesc;
+            const onContinent     = route === 'continent' && !!subkey;
+            const onNationDesc     = route === 'nation' && !!subkey;
+            const isOnContinents   = onContinentsHub || onContinent || onNationDesc;
             let activeContKey = null, activeNationSlug = null;
             if (onNationDesc) {
                 const meta = NavConfig.findNationBySlug(subkey);
                 if (meta) { activeContKey = meta.continentKey; activeNationSlug = subkey; }
-            } else if (onMdContinent && mdContinentLabel) {
-                const cont = (NavConfig.nationContinents || []).find(c => c.label === mdContinentLabel);
-                if (cont) activeContKey = cont.key;
+            } else if (onContinent) {
+                activeContKey = subkey;
             }
 
             const isOnReligionsHub = route === 'monde' && subkey === 'religions';
@@ -224,18 +207,14 @@
             return html;
         },
 
-        /** Lien vers le RÉCIT (Histoire) d'une nation — côté Chroniques.
-         *  La fiche factuelle (Description) est, elle, atteinte via les continents. */
+        /** Lien vers le RÉCIT (Histoire) d'une nation — côté Chroniques (route propre). */
         _histHref(nation) {
-            const NAT = (window.LoreReader && window.LoreReader.NATIONS) || {};
-            const paths = NAT[nation];
-            if (paths && paths.histoires) return '#md/' + encodeURIComponent('Lore/' + paths.histoires);
-            return '#nation/' + NavConfig.slugifyNation(nation);
+            return '#histoire/' + NavConfig.slugifyNation(nation);
         },
 
-        /** Lien vers la FICHE du continent (factuel). */
-        _continentFicheHref(label) {
-            return '#md/' + encodeURIComponent('Lore/Pays/' + label + '/' + label + ' - Continent.md');
+        /** Lien vers la FICHE du continent (route propre #continent/<key>). */
+        _continentFicheHref(key) {
+            return '#continent/' + key;
         },
 
         /** Arbre Continents → pays (côté LE MONDE / factuel). Le continent ouvre sa
@@ -247,7 +226,7 @@
                 const isActive = activeContinentKey === cont.key;
                 html += '<li class="sidebar-lore-nav-subitem' + (isActive ? ' active' : '') + '">';
                 html += '  <a class="sidebar-lore-nav-subhead' + (isActive ? ' active' : '') + '" href="' +
-                        this._continentFicheHref(cont.label) + '">' + this._escape(cont.label) + '</a>';
+                        this._continentFicheHref(cont.key) + '">' + this._escape(cont.label) + '</a>';
                 if (isActive) {
                     html += '  <ul class="sidebar-lore-nav-subleaves">';
                     for (const nation of cont.nations) {

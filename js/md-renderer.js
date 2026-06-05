@@ -475,6 +475,15 @@
         return m && nameMap[m[1]] ? nameMap[m[1]] : null;
     }
 
+    /** Si `resolved` est une fiche de continent (Lore/Pays/<L>/<L> - Continent.md),
+     *  renvoie sa clé (#continent/<key>), sinon null. */
+    function continentKeyForResolved(resolved) {
+        const m = /^Lore\/Pays\/([^/]+)\/\1 - Continent\.md$/.exec(resolved || '');
+        if (!m || !window.NavConfig) return null;
+        const cont = (NavConfig.nationContinents || []).find(c => c.label === m[1]);
+        return cont ? cont.key : null;
+    }
+
     async function postProcessObsidianLinks(rootEl, currentMdPath) {
         const links = rootEl.querySelectorAll('a.md-link[data-md-target]');
         if (links.length === 0) return;
@@ -491,8 +500,14 @@
                 link.addEventListener('click', e => e.preventDefault());
                 return;
             }
-            // Si la cible est une fiche/histoire de nation, router vers le lecteur
-            // unifié #nation/<slug> (une seule page par nation, Description + Histoire).
+            // Fiche de continent → route propre #continent/<key>.
+            const contKey = continentKeyForResolved(resolved);
+            if (contKey) {
+                link.href = '#continent/' + contKey;
+                link.classList.add('md-link-continent');
+                return;
+            }
+            // Fiche/histoire de nation → fiche Description #nation/<slug> (factuel).
             const natSlug = nationSlugForResolved(resolved, nationNames);
             if (natSlug) {
                 link.href = '#nation/' + natSlug;

@@ -318,6 +318,12 @@ function walkDir(dir, acc) {
     }
 }
 
+function slugify(s) {
+    return String(s).toLowerCase()
+        .normalize('NFD').replace(/[̀-ͯ]/g, '')
+        .replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '');
+}
+
 function computeRoute(relPath, routeMap) {
     const normRel = relPath.replace(/\\/g, '/');
     if (routeMap[normRel]) return routeMap[normRel];
@@ -325,10 +331,13 @@ function computeRoute(relPath, routeMap) {
     // Chroniques → page composite
     if (normRel.startsWith('Lore/Chroniques/')) return '#histoires/chroniques';
 
-    // Nations / Pays → page composite Nations (la modale s'ouvre côté client)
-    if (normRel.startsWith('Lore/Histoires/') || normRel.startsWith('Lore/Pays/')) {
-        return '#histoires/histoires';
-    }
+    // Routes propres : fiche continent / Description / récit (clé continent = nom slugifié).
+    let m = /^Lore\/Pays\/([^/]+)\/\1 - Continent\.md$/.exec(normRel);
+    if (m) return '#continent/' + slugify(m[1]);
+    m = /^Lore\/Pays\/[^/]+\/(.+)\.md$/.exec(normRel);
+    if (m) return '#nation/' + slugify(m[1]);
+    m = /^Lore\/Histoires\/[^/]+\/(.+)\.md$/.exec(normRel);
+    if (m) return '#histoire/' + slugify(m[1]);
 
     // Religions, Chronologie : routes composites
     if (normRel.startsWith('Lore/Religions/')) return '#monde/religions';

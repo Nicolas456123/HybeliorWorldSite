@@ -25,12 +25,9 @@
         return d.innerHTML;
     }
 
-    var NAT = (window.LoreReader && LoreReader.NATIONS) || {};
-    // Lien vers le RÉCIT (Histoire) d'une nation ; repli sur la fiche si pas d'histoire.
+    // Lien vers le RÉCIT (Histoire) d'une nation — route propre #histoire/<slug>.
     function histHref(nation) {
-        var paths = NAT[nation];
-        if (paths && paths.histoires) return '#md/' + encodeURIComponent('Lore/' + paths.histoires);
-        return '#nation/' + NavConfig.slugifyNation(nation);
+        return '#histoire/' + NavConfig.slugifyNation(nation);
     }
 
     var html = '';
