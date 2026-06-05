@@ -58,7 +58,8 @@
             bodyEl.innerHTML = '<div class="nation-page-error">Religion introuvable.</div>';
             return;
         }
-        var url = rel.md;
+        // rel.md inclut le préfixe "Lore/" ; la route /lore/ l'ajoute déjà.
+        var url = rel.md.replace(/^Lore\//, '');
         if (_cache[url]) { paint(_cache[url]); return; }
         bodyEl.innerHTML = '<div class="nation-page-loading">Chargement…</div>';
         fetch('/lore/' + url).then(function (r) {
