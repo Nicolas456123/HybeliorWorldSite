@@ -8,7 +8,7 @@
     <div class="codex-label">Naviguer dans les histoires</div>
     <p style="margin-bottom:0;">
         Chaque nation d'Hybélior possède ses propres chroniques, légendes et récits fondateurs.
-        Sélectionnez une nation pour ouvrir sa page dédiée.
+        Sélectionnez une nation pour lire son histoire. (Sa fiche factuelle se trouve via la <a href="#monde/continents">page des continents</a>.)
     </p>
 </div>
 
@@ -25,18 +25,24 @@
         return d.innerHTML;
     }
 
+    var NAT = (window.LoreReader && LoreReader.NATIONS) || {};
+    // Lien vers le RÉCIT (Histoire) d'une nation ; repli sur la fiche si pas d'histoire.
+    function histHref(nation) {
+        var paths = NAT[nation];
+        if (paths && paths.histoires) return '#md/' + encodeURIComponent('Lore/' + paths.histoires);
+        return '#nation/' + NavConfig.slugifyNation(nation);
+    }
+
     var html = '';
     NavConfig.nationContinents.forEach(function (cont) {
-        var firstSlug = cont.nations[0] ? NavConfig.slugifyNation(cont.nations[0]) : '';
-        var firstHref = firstSlug ? '#nation/' + firstSlug : '#histoires/histoires';
+        var firstHref = cont.nations[0] ? histHref(cont.nations[0]) : '#histoires/histoires';
         html += '<div class="lore-card" data-href="' + escapeHtml(firstHref) + '">';
         html += '  <h2 class="lore-card-title"><a href="' + escapeHtml(firstHref) + '">' +
                 escapeHtml(cont.label) + '</a></h2>';
         html += '  <p class="lore-card-intro">' + escapeHtml(cont.intro) + '</p>';
         html += '  <ul class="lore-card-links">';
         cont.nations.forEach(function (nation) {
-            var slug = NavConfig.slugifyNation(nation);
-            html += '<li><a href="#nation/' + escapeHtml(slug) + '">' +
+            html += '<li><a href="' + escapeHtml(histHref(nation)) + '">' +
                     escapeHtml(nation) + '</a></li>';
         });
         html += '  </ul>';

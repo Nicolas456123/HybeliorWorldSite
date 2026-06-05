@@ -240,7 +240,7 @@ const NavConfig = {
         }
         if (route === 'md' && subkey) {
             const path = decodeURIComponent(subkey);
-            if (path.startsWith('Lore/Religions/')) {
+            if (path.startsWith('Lore/Religions/') || path.startsWith('Lore/Histoires/')) {
                 return (this.loreCategories || []).find(c => c.key === 'chroniques') || null;
             }
         }

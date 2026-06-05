@@ -135,10 +135,22 @@
             const activeCat  = NavConfig.findLoreCategory(route, subkey);
             const activeHash = '#' + route + (subkey ? '/' + subkey : '');
 
+            // Récit d'une nation servi via #md/Lore/Histoires/<Continent>/<Nation>.md
+            let isOnMdHistoire = false, mdHistoireNation = null;
+            if (route === 'md' && subkey) {
+                try {
+                    const m = /^Lore\/Histoires\/[^/]+\/(.+)\.md$/.exec(decodeURIComponent(subkey));
+                    if (m) { isOnMdHistoire = true; mdHistoireNation = m[1]; }
+                } catch (_) { /* noop */ }
+            }
             const onNationRoute   = route === 'nation' && !!subkey;
             const onNationLanding = route === 'histoires' && subkey === 'histoires';
-            const isOnNations     = onNationRoute || onNationLanding;
-            const activeNationMeta = onNationRoute ? NavConfig.findNationBySlug(subkey) : null;
+            const isOnNations     = onNationRoute || onNationLanding || isOnMdHistoire;
+            let activeNationMeta = onNationRoute ? NavConfig.findNationBySlug(subkey) : null;
+            if (!activeNationMeta && mdHistoireNation && typeof NavConfig.findContinentForNation === 'function') {
+                const cont = NavConfig.findContinentForNation(mdHistoireNation);
+                if (cont) activeNationMeta = { nation: mdHistoireNation, continent: cont.label, continentKey: cont.key };
+            }
 
             const isOnReligionsHub = route === 'monde' && subkey === 'religions';
             let isOnMdReligion = false;
@@ -187,6 +199,15 @@
             return html;
         },
 
+        /** Lien vers le RÉCIT (Histoire) d'une nation — côté Chroniques.
+         *  La fiche factuelle (Description) est, elle, atteinte via les continents. */
+        _histHref(nation) {
+            const NAT = (window.LoreReader && window.LoreReader.NATIONS) || {};
+            const paths = NAT[nation];
+            if (paths && paths.histoires) return '#md/' + encodeURIComponent('Lore/' + paths.histoires);
+            return '#nation/' + NavConfig.slugifyNation(nation);
+        },
+
         _renderNationsTree(activeNationMeta) {
             if (!Array.isArray(NavConfig.nationContinents)) return '';
             const activeContinentKey = activeNationMeta ? activeNationMeta.continentKey : null;
@@ -195,8 +216,7 @@
             let html = '<ul class="sidebar-lore-nav-subtree">';
             for (const cont of NavConfig.nationContinents) {
                 const isActive  = activeContinentKey === cont.key;
-                const firstSlug = cont.nations[0] ? NavConfig.slugifyNation(cont.nations[0]) : null;
-                const headHref  = firstSlug ? '#nation/' + firstSlug : NATIONS_LINK_HREF;
+                const headHref  = cont.nations[0] ? this._histHref(cont.nations[0]) : NATIONS_LINK_HREF;
 
                 html += '<li class="sidebar-lore-nav-subitem' + (isActive ? ' active' : '') + '">';
                 html += '  <a class="sidebar-lore-nav-subhead' + (isActive ? ' active' : '') + '" href="' +
@@ -204,9 +224,8 @@
                 if (isActive) {
                     html += '  <ul class="sidebar-lore-nav-subleaves">';
                     for (const nation of cont.nations) {
-                        const slug       = NavConfig.slugifyNation(nation);
                         const linkActive = nation === activeNation;
-                        html += '<li><a href="#nation/' + slug + '"' +
+                        html += '<li><a href="' + this._histHref(nation) + '"' +
                                 (linkActive ? ' class="active"' : '') + '>' +
                                 this._escape(nation) + '</a></li>';
                     }

@@ -1,6 +1,6 @@
 // Hybélior PWA service worker.
 // Bumping VERSION invalidates all caches on next visit, forcing a refresh.
-const VERSION = '2026-06-05-histoires-wired';
+const VERSION = '2026-06-05-sep-desc-hist';
 const PRECACHE = `hybelior-precache-${VERSION}`;
 const RUNTIME  = `hybelior-runtime-${VERSION}`;
 
