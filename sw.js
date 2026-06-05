@@ -1,6 +1,6 @@
 // Hybélior PWA service worker.
 // Bumping VERSION invalidates all caches on next visit, forcing a refresh.
-const VERSION = '2026-06-05-network-first';
+const VERSION = '2026-06-05-tree';
 const PRECACHE = `hybelior-precache-${VERSION}`;
 const RUNTIME  = `hybelior-runtime-${VERSION}`;
 
@@ -22,7 +22,7 @@ const PRECACHE_URLS = [
   '/js/nav-config.js',
   '/js/nav-dropdowns.js',
   '/js/router.js',
-  '/js/sidebar-lore-nav.js',
+  '/js/sidebar-tree.js',
   '/js/site-search.js',
   '/js/subtabs.js',
   '/js/timeline-data.js',

@@ -1,0 +1,254 @@
+/**
+ * sidebar-tree.js — Arbre de navigation UNIQUE et PERSISTANT du panneau gauche.
+ *
+ * Objectif (demande UX « A ») : le panneau de gauche est TOUJOURS le même quelle
+ * que soit la page. Il liste les 5 grands onglets (Accueil, Lore, Implémentation,
+ * Carte, Frise). Le grand onglet de la section courante est ouvert ; les autres
+ * sont repliés. En passant d'une grande page à une autre, l'onglet précédent se
+ * referme et le nouveau s'ouvre.
+ *
+ * Détail des branches :
+ *   - Lore           → les 8 catégories thématiques (NavConfig.loreCategories),
+ *                      la catégorie active dépliée ; Nations → continents → nations,
+ *                      Religions → liste des religions.
+ *   - Implémentation → les sous-onglets (NavConfig.subtabs.implementation).
+ *   - Accueil / Carte / Frise → feuilles (lien direct).
+ *
+ * Remplace l'ancien sidebar-lore-nav.js et la barre #global-subtab-nav (masquée).
+ * Le « Sommaire » (TOC in-page) et le bloc « Ères » de la frise restent affichés
+ * sous l'arbre, comme détail de la page courante.
+ *
+ * Cible : <aside id="site-sidebar"> (tout en haut, sous la recherche masquée).
+ */
+
+(function () {
+    'use strict';
+
+    const NATIONS_LINK_HREF   = '#histoires/histoires';
+    const RELIGIONS_LINK_HREF = '#monde/religions';
+
+    // Les 5 grands onglets. `routes` = routes qui appartiennent à la section.
+    const SECTIONS = [
+        { key: 'accueil',        label: 'Accueil',        href: '#accueil',        routes: ['accueil'] },
+        { key: 'lore',           label: 'Lore',           href: '#lore',           routes: ['lore', 'vision', 'monde', 'mecaniques', 'systemes', 'histoires', 'nation'], kind: 'lore' },
+        { key: 'implementation', label: 'Implémentation', href: '#implementation', routes: ['implementation'], kind: 'subtabs' },
+        { key: 'carte',          label: 'Carte',          href: '#carte',          routes: ['carte'] },
+        { key: 'frise',          label: 'Frise',          href: '#frise',          routes: ['frise'] },
+    ];
+
+    const SidebarTree = {
+        _container: null,
+
+        init() {
+            if (!window.NavConfig) return;
+            const sidebar = document.getElementById('site-sidebar');
+            if (!sidebar) return;
+
+            this._container = document.createElement('nav');
+            this._container.id = 'sidebar-tree';
+            this._container.className = 'sidebar-tree';
+            this._container.setAttribute('aria-label', 'Navigation principale');
+
+            // Insère tout en haut du panneau, après l'éventuelle recherche masquée.
+            const searchWrap = sidebar.querySelector('#lore-search-wrapper');
+            if (searchWrap && searchWrap.nextSibling) {
+                sidebar.insertBefore(this._container, searchWrap.nextSibling);
+            } else if (searchWrap) {
+                sidebar.appendChild(this._container);
+            } else {
+                sidebar.insertBefore(this._container, sidebar.firstChild);
+            }
+
+            this.render();
+            window.addEventListener('hashchange', () => this.render());
+        },
+
+        /** route + subkey courants depuis le hash. */
+        _current() {
+            const raw = window.location.hash.slice(1);
+            if (!raw) return { route: 'accueil', subkey: null };
+            if (raw.startsWith('md/')) return { route: 'md', subkey: raw.slice(3) };
+            const parts = raw.split('/');
+            return { route: parts[0], subkey: parts.slice(1).join('/') || null };
+        },
+
+        /** Section active pour la route courante. */
+        _activeSectionKey(route, subkey) {
+            if (route === 'md' && subkey) {
+                try {
+                    if (decodeURIComponent(subkey).startsWith('Lore/')) return 'lore';
+                } catch (_) { /* noop */ }
+                return 'lore';
+            }
+            const s = SECTIONS.find(sec => sec.routes.includes(route));
+            return s ? s.key : 'accueil';
+        },
+
+        render() {
+            const { route, subkey } = this._current();
+            const activeKey = this._activeSectionKey(route, subkey);
+
+            let html = '<ul class="sidebar-tree-list">';
+            for (const sec of SECTIONS) {
+                const isOpen = sec.key === activeKey;
+                const hasChildren = sec.kind === 'lore' || sec.kind === 'subtabs';
+
+                html += '<li class="sidebar-tree-item' + (isOpen ? ' open' : '') + '">';
+                html += '  <a class="sidebar-tree-head' + (isOpen ? ' active' : '') + '" href="' + sec.href + '">';
+                html += '    <span class="sidebar-tree-label">' + this._escape(sec.label) + '</span>';
+                if (hasChildren) {
+                    html += '    <span class="sidebar-tree-caret" aria-hidden="true">' + (isOpen ? '▾' : '▸') + '</span>';
+                }
+                html += '  </a>';
+
+                if (isOpen && sec.kind === 'lore') {
+                    html += this._renderLoreBranch(route, subkey);
+                } else if (isOpen && sec.kind === 'subtabs') {
+                    html += this._renderSubtabsBranch(sec.routes[0], subkey);
+                }
+                html += '</li>';
+            }
+            html += '</ul>';
+            this._container.innerHTML = html;
+        },
+
+        /** Branche Implémentation : liste plate des sous-onglets. */
+        _renderSubtabsBranch(route, subkey) {
+            const cfg = NavConfig.subtabs && NavConfig.subtabs[route];
+            if (!cfg || !Array.isArray(cfg.tabs)) return '';
+            const current = subkey || cfg.defaultKey;
+            let html = '<ul class="sidebar-lore-nav-sublinks">';
+            for (const tab of cfg.tabs) {
+                const active = tab.key === current;
+                html += '<li><a href="#' + route + '/' + tab.key + '"' +
+                        (active ? ' class="active"' : '') + '>' +
+                        this._escape(tab.label) + '</a></li>';
+            }
+            html += '</ul>';
+            return html;
+        },
+
+        /** Branche Lore : 8 catégories, l'active dépliée (cf. ancien sidebar-lore-nav). */
+        _renderLoreBranch(route, subkey) {
+            if (!Array.isArray(NavConfig.loreCategories)) return '';
+
+            const activeCat  = NavConfig.findLoreCategory(route, subkey);
+            const activeHash = '#' + route + (subkey ? '/' + subkey : '');
+
+            const onNationRoute   = route === 'nation' && !!subkey;
+            const onNationLanding = route === 'histoires' && subkey === 'histoires';
+            const isOnNations     = onNationRoute || onNationLanding;
+            const activeNationMeta = onNationRoute ? NavConfig.findNationBySlug(subkey) : null;
+
+            const isOnReligionsHub = route === 'monde' && subkey === 'religions';
+            let isOnMdReligion = false;
+            if (route === 'md' && subkey) {
+                try { isOnMdReligion = decodeURIComponent(subkey).startsWith('Lore/Religions/'); }
+                catch (_) { isOnMdReligion = false; }
+            }
+            const isOnReligions  = isOnReligionsHub || isOnMdReligion;
+            const activeReligion = isOnMdReligion ? NavConfig.findReligionByMdPath(subkey) : null;
+
+            let html = '<ul class="sidebar-lore-nav-list sidebar-tree-sublist">';
+            for (const cat of NavConfig.loreCategories) {
+                const isActive  = activeCat && activeCat.key === cat.key;
+                const firstHref = cat.links[0] ? cat.links[0].href : '#lore';
+
+                html += '<li class="sidebar-lore-nav-item' + (isActive ? ' active' : '') + '">';
+                html += '  <a class="sidebar-lore-nav-head" href="' + firstHref + '">';
+                html += '    <span class="sidebar-lore-nav-icon" aria-hidden="true">' + cat.icon + '</span>';
+                html += '    <span class="sidebar-lore-nav-label">' + this._escape(cat.label) + '</span>';
+                html += '  </a>';
+
+                if (isActive) {
+                    html += '  <ul class="sidebar-lore-nav-sublinks">';
+                    for (const link of cat.links) {
+                        let linkActive = link.href === activeHash;
+                        if (link.href === NATIONS_LINK_HREF && isOnNations) linkActive = true;
+                        if (link.href === RELIGIONS_LINK_HREF && isOnReligions) linkActive = true;
+
+                        html += '<li>';
+                        html += '<a href="' + link.href + '"' +
+                                (linkActive ? ' class="active"' : '') + '>' +
+                                this._escape(link.label) + '</a>';
+                        if (link.href === NATIONS_LINK_HREF && isOnNations) {
+                            html += this._renderNationsTree(activeNationMeta);
+                        }
+                        if (link.href === RELIGIONS_LINK_HREF && isOnReligions) {
+                            html += this._renderReligionsTree(activeReligion);
+                        }
+                        html += '</li>';
+                    }
+                    html += '  </ul>';
+                }
+                html += '</li>';
+            }
+            html += '</ul>';
+            return html;
+        },
+
+        _renderNationsTree(activeNationMeta) {
+            if (!Array.isArray(NavConfig.nationContinents)) return '';
+            const activeContinentKey = activeNationMeta ? activeNationMeta.continentKey : null;
+            const activeNation       = activeNationMeta ? activeNationMeta.nation : null;
+
+            let html = '<ul class="sidebar-lore-nav-subtree">';
+            for (const cont of NavConfig.nationContinents) {
+                const isActive  = activeContinentKey === cont.key;
+                const firstSlug = cont.nations[0] ? NavConfig.slugifyNation(cont.nations[0]) : null;
+                const headHref  = firstSlug ? '#nation/' + firstSlug : NATIONS_LINK_HREF;
+
+                html += '<li class="sidebar-lore-nav-subitem' + (isActive ? ' active' : '') + '">';
+                html += '  <a class="sidebar-lore-nav-subhead' + (isActive ? ' active' : '') + '" href="' +
+                        headHref + '">' + this._escape(cont.label) + '</a>';
+                if (isActive) {
+                    html += '  <ul class="sidebar-lore-nav-subleaves">';
+                    for (const nation of cont.nations) {
+                        const slug       = NavConfig.slugifyNation(nation);
+                        const linkActive = nation === activeNation;
+                        html += '<li><a href="#nation/' + slug + '"' +
+                                (linkActive ? ' class="active"' : '') + '>' +
+                                this._escape(nation) + '</a></li>';
+                    }
+                    html += '  </ul>';
+                }
+                html += '</li>';
+            }
+            html += '</ul>';
+            return html;
+        },
+
+        _renderReligionsTree(activeReligion) {
+            if (!Array.isArray(NavConfig.religions)) return '';
+            let html = '<ul class="sidebar-lore-nav-subtree">';
+            for (const rel of NavConfig.religions) {
+                const linkActive = activeReligion && activeReligion.key === rel.key;
+                const href       = NavConfig.religionMdHref(rel.md);
+                const classes    = 'sidebar-lore-nav-subhead' +
+                                   (rel.mineure ? ' mineure' : '') +
+                                   (rel.special ? ' special' : '') +
+                                   (linkActive ? ' active' : '');
+                html += '<li class="sidebar-lore-nav-subitem">';
+                html += '  <a class="' + classes + '" href="' + href + '">' +
+                        this._escape(rel.label) + '</a>';
+                html += '</li>';
+            }
+            html += '</ul>';
+            return html;
+        },
+
+        _escape(s) {
+            const d = document.createElement('div');
+            d.textContent = s == null ? '' : String(s);
+            return d.innerHTML;
+        },
+    };
+
+    window.SidebarTree = SidebarTree;
+
+    if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', () => SidebarTree.init());
+    } else {
+        SidebarTree.init();
+    }
+})();

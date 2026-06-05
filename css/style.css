@@ -4345,6 +4345,55 @@ select:focus-visible,
    SIDEBAR LORE QUICK-NAV — switch rapide entre catégories lore
    ============================================================ */
 
+/* ============================================================
+   Arbre de navigation persistant (sidebar-tree.js) — les 5 grands
+   onglets toujours présents, l'onglet courant ouvert. Remplace
+   #global-subtab-nav (masqué) et l'ancien #sidebar-lore-nav.
+   ============================================================ */
+.sidebar-tree {
+    margin: 0 0 16px;
+    padding-bottom: 14px;
+    border-bottom: 1px solid rgba(120, 78, 18, 0.18);
+}
+.sidebar-tree-list { list-style: none; margin: 0; padding: 0; }
+.sidebar-tree-item { margin: 0 0 1px; padding: 0; }
+.sidebar-tree-head {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 7px 8px;
+    border-radius: 5px;
+    text-decoration: none;
+    color: var(--text-soft, #3c2c18);
+    font-family: var(--font-title, 'Cinzel', serif);
+    font-size: 13px;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+    transition: background 0.12s, color 0.12s;
+}
+.sidebar-tree-head:hover {
+    background: rgba(120, 78, 18, 0.08);
+    color: var(--gold, #7a4c0a);
+}
+.sidebar-tree-item.open > .sidebar-tree-head,
+.sidebar-tree-head.active {
+    background: rgba(120, 78, 18, 0.13);
+    color: var(--gold, #7a4c0a);
+}
+.sidebar-tree-label { flex: 1; min-width: 0; }
+.sidebar-tree-caret {
+    flex-shrink: 0;
+    font-size: 10px;
+    opacity: 0.7;
+}
+/* Catégories Lore et sous-onglets imbriqués sous un grand onglet ouvert */
+.sidebar-tree-sublist { margin: 4px 0 6px 6px; }
+.sidebar-tree .sidebar-lore-nav-sublinks { margin-left: 14px; }
+
+/* #global-subtab-nav désormais remplacé par l'arbre persistant. */
+#global-subtab-nav,
+#sidebar-lore-nav { display: none; }
+
 .sidebar-lore-nav {
     margin: 0 0 16px;
     padding-bottom: 14px;
