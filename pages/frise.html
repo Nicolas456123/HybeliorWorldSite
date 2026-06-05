@@ -50,6 +50,12 @@
     border-color: var(--gold);
     color: var(--gold);
 }
+/* Ère active dans le panneau gauche (#sidebar-frise-eras réutilise .sidebar-hub-tabs). */
+#sidebar-frise-eras a.current {
+    background: rgba(122, 76, 10, 0.14);
+    color: var(--gold);
+    font-weight: 600;
+}
 
 /* ── Filtres et légende ── */
 .frise-controls-row {
@@ -712,7 +718,6 @@
 
 <!-- STICKY HEADER -->
 <div class="frise-header" id="frise-sticky-header">
-    <div class="frise-era-nav" id="frise-era-nav"></div>
     <div class="frise-controls-row">
         <button class="frise-filter-all" id="btn-filter-all">Tout afficher</button>
         <div class="frise-filter-sep"></div>
@@ -1499,17 +1504,53 @@ function hideCivTooltip() {
 
 
 function renderEraNav() {
-    const nav = document.getElementById('frise-era-nav');
+    // Les liens d'ères vont dans le PANNEAU GAUCHE (#site-sidebar), pas en haut
+    // de la page — cohérent avec « Dans cette branche » du lore.
+    const sidebar = document.getElementById('site-sidebar');
+    if (!sidebar) return;
+
+    // Nettoie une éventuelle nav d'ères précédente.
+    document.getElementById('sidebar-frise-eras')?.remove();
+
+    const nav = document.createElement('nav');
+    nav.id = 'sidebar-frise-eras';
+    nav.className = 'sidebar-hub-tabs';
+    nav.setAttribute('aria-label', 'Ères');
+    const label = document.createElement('div');
+    label.className = 'sidebar-hub-tabs-label';
+    label.textContent = 'Ères';
+    nav.appendChild(label);
+    const ul = document.createElement('ul');
     ERAS.forEach(era => {
-        const btn = document.createElement('button');
-        btn.className = 'era-btn';
-        btn.dataset.eraId = era.id;
-        btn.textContent = `Ère ${era.num} — ${era.name}`;
-        btn.addEventListener('click', () => {
+        const li = document.createElement('li');
+        const a = document.createElement('a');
+        a.href = 'javascript:void(0)';
+        a.dataset.eraId = era.id;
+        a.textContent = `Ère ${era.num} — ${era.name}`;
+        a.addEventListener('click', (e) => {
+            e.preventDefault();
             document.getElementById(`era-${era.id}`)?.scrollIntoView({ behavior: 'smooth', block: 'start' });
         });
-        nav.appendChild(btn);
+        li.appendChild(a);
+        ul.appendChild(li);
     });
+    nav.appendChild(ul);
+
+    // Insère en haut du panneau, sous l'éventuelle nav de sous-onglets.
+    const subtab = sidebar.querySelector('.subtab-nav');
+    if (subtab && subtab.nextSibling) sidebar.insertBefore(nav, subtab.nextSibling);
+    else if (subtab) sidebar.appendChild(nav);
+    else sidebar.insertBefore(nav, sidebar.firstChild);
+
+    // Retire la nav d'ères dès qu'on quitte la frise (listener global unique).
+    if (!window._friseEraNavCleanup) {
+        window._friseEraNavCleanup = true;
+        window.addEventListener('hashchange', () => {
+            if ((window.location.hash || '').slice(1).split('/')[0] !== 'frise') {
+                document.getElementById('sidebar-frise-eras')?.remove();
+            }
+        });
+    }
 }
 
 function renderLegend() {
@@ -1744,7 +1785,7 @@ function renderFrise() {
 
 // Intersection Observer pour mettre à jour le bouton actif
 function setupEraObserver() {
-    const buttons = document.querySelectorAll('.era-btn');
+    const buttons = document.querySelectorAll('#sidebar-frise-eras a');
     const sections = ERAS.map(e => document.getElementById(`era-${e.id}`));
 
     const obs = new IntersectionObserver((entries) => {
