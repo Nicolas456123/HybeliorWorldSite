@@ -2047,19 +2047,16 @@ function initMap() {
         viewer.addHandler('pan', throttledCullBorders);
         viewer.addHandler('animation-finish', cullBordersOutOfView);
 
-        // Perf zoom : cacher l'overlay SVG pendant les animations pan/zoom.
-        // Le viewport culling (cullBordersOutOfView, updateTextVisibility) reduit deja
-        // beaucoup, mais OSD recompute aussi tous les transforms SVG a chaque frame
-        // d'animation. Le hide pendant l'anim gain le coup ce dernier (FPS x10 a zoom max).
-        // Les tuiles bitmap (rendues GPU) restent visibles, l'overlay revient instantanement
-        // a animation-finish. Visuellement : les overlays disparaissent pendant le mouvement,
-        // reapparaissent des qu'on relache.
-        const svgOverlayNode = svgOverlay && svgOverlay.node && svgOverlay.node();
-        const svgRoot = svgOverlayNode && (svgOverlayNode.ownerSVGElement || svgOverlayNode.parentElement);
-        if (svgRoot) {
-            viewer.addHandler('animation-start', () => { svgRoot.style.visibility = 'hidden'; });
-            viewer.addHandler('animation-finish', () => { svgRoot.style.visibility = ''; });
-        }
+        // NB : on NE cache PLUS l'overlay SVG pendant les animations pan/zoom.
+        // Auparavant un handler 'animation-start' mettait svgRoot en visibility:hidden
+        // (et 'animation-finish' le rétablissait) pour gagner du FPS — mais ça faisait
+        // disparaître TOUS les labels/frontières pendant le mouvement, qui ne
+        // réapparaissaient qu'une fois l'animation terminée (régression visible signalée
+        // par l'utilisateur : « le texte n'apparaît qu'à la fin du zoom »).
+        // Depuis l'ajout des plages de zoom exclusives par tier (updateTextVisibility),
+        // seuls ~130 labels au plus sont rendus à un instant donné : mesuré à 60 fps
+        // constants même au zoom maximum avec les frontières affichées. Le hide n'a donc
+        // plus de bénéfice perceptible et le coût UX n'en valait plus la peine.
         // Update border stroke width on zoom change
         viewer.addHandler('animation-finish', () => {
             if (bordersLayer.style.display !== 'none') renderAllBorders();
@@ -2268,18 +2265,6 @@ function initMap() {
             displayName = name;
         }
 
-        // Chrome refuse de rasteriser un <text> SVG dont le font-size LOCAL est
-        // inférieur à ~0.01 : les glyphes sortent en hauteur 0 → invisibles, même si
-        // le transform parent de l'overlay (scale ~13000) les agrandit largement à
-        // l'écran. C'était le cas du tier "régions" (fontSize 0.004) qui ne s'affichait
-        // pas du tout. Parade : on rend le glyphe à une taille au-dessus du seuil
-        // (fontSize * textScale) puis on contre-scale l'élément <text> via un transform
-        // scale(1/textScale) — l'apparence finale est identique, mais la rastérisation
-        // se fait au-dessus du seuil. Les tiers >= 0.01 (continents/pays/villes…) ont
-        // textScale = 1 et restent strictement inchangés.
-        const TEXT_RENDER_MIN = 0.02;
-        const textScale = fontSize < TEXT_RENDER_MIN ? TEXT_RENDER_MIN / fontSize : 1;
-
         // Déterminer les positions selon l'état du wrapping
         const positions = wrappingEnabled ? [
             {x: 0, y: 0},    // Position originale
@@ -2296,14 +2281,12 @@ function initMap() {
         positions.forEach(offset => {
             // Création du texte
             const textElement = document.createElementNS("http://www.w3.org/2000/svg", "text");
-            // Position/tailles multipliées par textScale ; le transform scale(1/textScale)
-            // rétablit l'apparence finale (cf. note TEXT_RENDER_MIN plus haut).
-            textElement.setAttribute("x", (coord.x + config.xOffset + offset.x) * textScale);
-            textElement.setAttribute("y", (coord.y + config.yOffset + offset.y) * textScale);
+            textElement.setAttribute("x", coord.x + config.xOffset + offset.x);
+            textElement.setAttribute("y", coord.y + config.yOffset + offset.y);
             textElement.setAttribute("fill", textFill);
             textElement.setAttribute("stroke", textStroke);
-            textElement.setAttribute("stroke-width", strokeWidth * textScale);
-            textElement.setAttribute("font-size", fontSize * textScale);
+            textElement.setAttribute("stroke-width", strokeWidth);
+            textElement.setAttribute("font-size", fontSize);
             textElement.setAttribute("text-anchor", "middle");
             textElement.setAttribute("font-family", "'Copperplate Gothic Std', 'Copperplate', 'Cinzel', serif");
             textElement.setAttribute("font-weight", fontWeight);
@@ -2312,11 +2295,8 @@ function initMap() {
             textElement.setAttribute("stroke-linejoin", "round");
             textElement.setAttribute("dominant-baseline", "central");
             textElement.setAttribute("text-rendering", "geometricPrecision");
-            if (textScale !== 1) {
-                textElement.setAttribute("transform", "scale(" + (1 / textScale) + ")");
-            }
             if (letterSpacing > 0) {
-                textElement.setAttribute("letter-spacing", letterSpacing * textScale);
+                textElement.setAttribute("letter-spacing", letterSpacing);
             }
             textElement.textContent = displayName;
 
