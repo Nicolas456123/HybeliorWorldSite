@@ -235,13 +235,18 @@ const NavConfig = {
         // Routes spéciales sans entrée directe dans loreCategories :
         //   - #nation/<slug>             → catégorie Chroniques (sous le lien "Nations")
         //   - #md/Lore/Religions/*       → catégorie Chroniques (sous le lien "Religions")
+        // Fiche DESCRIPTION d'une nation (#nation/<slug>) = côté factuel → catégorie « monde »
         if (route === 'nation') {
-            return (this.loreCategories || []).find(c => c.key === 'chroniques') || null;
+            return (this.loreCategories || []).find(c => c.key === 'monde') || null;
         }
         if (route === 'md' && subkey) {
             const path = decodeURIComponent(subkey);
+            // Récits (Histoires) + religions → Chroniques ; fiches Pays/continent → Le monde.
             if (path.startsWith('Lore/Religions/') || path.startsWith('Lore/Histoires/')) {
                 return (this.loreCategories || []).find(c => c.key === 'chroniques') || null;
+            }
+            if (path.startsWith('Lore/Pays/')) {
+                return (this.loreCategories || []).find(c => c.key === 'monde') || null;
             }
         }
 

@@ -24,8 +24,9 @@
 (function () {
     'use strict';
 
-    const NATIONS_LINK_HREF   = '#histoires/histoires';
-    const RELIGIONS_LINK_HREF = '#monde/religions';
+    const NATIONS_LINK_HREF    = '#histoires/histoires';
+    const RELIGIONS_LINK_HREF  = '#monde/religions';
+    const CONTINENTS_LINK_HREF = '#monde/continents';
 
     // Les 5 grands onglets. `routes` = routes qui appartiennent à la section.
     const SECTIONS = [
@@ -135,7 +136,7 @@
             const activeCat  = NavConfig.findLoreCategory(route, subkey);
             const activeHash = '#' + route + (subkey ? '/' + subkey : '');
 
-            // Récit d'une nation servi via #md/Lore/Histoires/<Continent>/<Nation>.md
+            // ── Côté CHRONIQUES / Nations (récit) : #histoires/histoires ou #md/Lore/Histoires/… ──
             let isOnMdHistoire = false, mdHistoireNation = null;
             if (route === 'md' && subkey) {
                 try {
@@ -143,13 +144,33 @@
                     if (m) { isOnMdHistoire = true; mdHistoireNation = m[1]; }
                 } catch (_) { /* noop */ }
             }
-            const onNationRoute   = route === 'nation' && !!subkey;
             const onNationLanding = route === 'histoires' && subkey === 'histoires';
-            const isOnNations     = onNationRoute || onNationLanding || isOnMdHistoire;
-            let activeNationMeta = onNationRoute ? NavConfig.findNationBySlug(subkey) : null;
-            if (!activeNationMeta && mdHistoireNation && typeof NavConfig.findContinentForNation === 'function') {
+            const isOnNations     = onNationLanding || isOnMdHistoire;
+            let activeNationMeta = null;
+            if (mdHistoireNation && typeof NavConfig.findContinentForNation === 'function') {
                 const cont = NavConfig.findContinentForNation(mdHistoireNation);
                 if (cont) activeNationMeta = { nation: mdHistoireNation, continent: cont.label, continentKey: cont.key };
+            }
+
+            // ── Côté LE MONDE / Continents (factuel) : table #monde/continents, fiche
+            //    continent (#md/Lore/Pays/<C>/<C> - Continent.md), ou Description (#nation/<slug>) ──
+            const onContinentsHub = route === 'monde' && subkey === 'continents';
+            let onMdContinent = false, mdContinentLabel = null;
+            if (route === 'md' && subkey) {
+                try {
+                    const m = /^Lore\/Pays\/([^/]+)\/\1 - Continent\.md$/.exec(decodeURIComponent(subkey));
+                    if (m) { onMdContinent = true; mdContinentLabel = m[1]; }
+                } catch (_) { /* noop */ }
+            }
+            const onNationDesc = route === 'nation' && !!subkey;
+            const isOnContinents = onContinentsHub || onMdContinent || onNationDesc;
+            let activeContKey = null, activeNationSlug = null;
+            if (onNationDesc) {
+                const meta = NavConfig.findNationBySlug(subkey);
+                if (meta) { activeContKey = meta.continentKey; activeNationSlug = subkey; }
+            } else if (onMdContinent && mdContinentLabel) {
+                const cont = (NavConfig.nationContinents || []).find(c => c.label === mdContinentLabel);
+                if (cont) activeContKey = cont.key;
             }
 
             const isOnReligionsHub = route === 'monde' && subkey === 'religions';
@@ -178,6 +199,7 @@
                         let linkActive = link.href === activeHash;
                         if (link.href === NATIONS_LINK_HREF && isOnNations) linkActive = true;
                         if (link.href === RELIGIONS_LINK_HREF && isOnReligions) linkActive = true;
+                        if (link.href === CONTINENTS_LINK_HREF && isOnContinents) linkActive = true;
 
                         html += '<li>';
                         html += '<a href="' + link.href + '"' +
@@ -188,6 +210,9 @@
                         }
                         if (link.href === RELIGIONS_LINK_HREF && isOnReligions) {
                             html += this._renderReligionsTree(activeReligion);
+                        }
+                        if (link.href === CONTINENTS_LINK_HREF && isOnContinents) {
+                            html += this._renderContinentsTree(activeContKey, activeNationSlug);
                         }
                         html += '</li>';
                     }
@@ -206,6 +231,38 @@
             const paths = NAT[nation];
             if (paths && paths.histoires) return '#md/' + encodeURIComponent('Lore/' + paths.histoires);
             return '#nation/' + NavConfig.slugifyNation(nation);
+        },
+
+        /** Lien vers la FICHE du continent (factuel). */
+        _continentFicheHref(label) {
+            return '#md/' + encodeURIComponent('Lore/Pays/' + label + '/' + label + ' - Continent.md');
+        },
+
+        /** Arbre Continents → pays (côté LE MONDE / factuel). Le continent ouvre sa
+         *  fiche ; chaque pays ouvre sa DESCRIPTION (#nation/<slug>). */
+        _renderContinentsTree(activeContinentKey, activeNationSlug) {
+            if (!Array.isArray(NavConfig.nationContinents)) return '';
+            let html = '<ul class="sidebar-lore-nav-subtree">';
+            for (const cont of NavConfig.nationContinents) {
+                const isActive = activeContinentKey === cont.key;
+                html += '<li class="sidebar-lore-nav-subitem' + (isActive ? ' active' : '') + '">';
+                html += '  <a class="sidebar-lore-nav-subhead' + (isActive ? ' active' : '') + '" href="' +
+                        this._continentFicheHref(cont.label) + '">' + this._escape(cont.label) + '</a>';
+                if (isActive) {
+                    html += '  <ul class="sidebar-lore-nav-subleaves">';
+                    for (const nation of cont.nations) {
+                        const slug       = NavConfig.slugifyNation(nation);
+                        const linkActive = slug === activeNationSlug;
+                        html += '<li><a href="#nation/' + slug + '"' +
+                                (linkActive ? ' class="active"' : '') + '>' +
+                                this._escape(nation) + '</a></li>';
+                    }
+                    html += '  </ul>';
+                }
+                html += '</li>';
+            }
+            html += '</ul>';
+            return html;
         },
 
         _renderNationsTree(activeNationMeta) {
