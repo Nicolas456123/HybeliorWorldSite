@@ -2731,7 +2731,7 @@ function initMap() {
                     return;
                 }
             }
-            window.LoreReader.open(name, 'histoires');
+            window.LoreReader.open(name);
         };
     }
 

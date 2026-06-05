@@ -101,14 +101,15 @@ const modalBody   = () => document.getElementById('lore-modal-body');
 const tabHistoires = () => document.getElementById('lore-tab-histoires');
 
 // ── Open / close ─────────────────────────────────────────────
-function openLoreModal(nationName, defaultTab = 'pays') {
+function openLoreModal(nationName) {
     const nation = NATIONS[nationName];
     if (!nation) return;
 
     _currentNation = nationName;
 
-    // Vérifier que le tab demandé est disponible
-    const startTab = (defaultTab === 'histoires' && nation.histoires) ? 'histoires' : 'pays';
+    // La modale (carte) = fiche DESCRIPTION factuelle uniquement.
+    // Le récit (Histoire) se lit côté Chroniques, pas ici.
+    const startTab = nation.pays ? 'pays' : 'histoires';
     _currentTab = startTab;
 
     const m = modal();
@@ -117,14 +118,13 @@ function openLoreModal(nationName, defaultTab = 'pays') {
 
     modalTitle().textContent = nationName;
 
-    // Reset tabs et activer le bon
     document.querySelectorAll('.lore-tab').forEach(t => t.classList.remove('active'));
-    const activeTabEl = document.querySelector(`.lore-tab[data-tab="${startTab}"]`);
+    const activeTabEl = document.querySelector('.lore-tab[data-tab="pays"]');
     if (activeTabEl) activeTabEl.classList.add('active');
 
-    // Hide histoires tab if no file
+    // Onglet Histoire toujours masqué : séparation Description / récit.
     const tabH = tabHistoires();
-    tabH.style.display = nation.histoires ? '' : 'none';
+    if (tabH) tabH.style.display = 'none';
 
     loadTab(startTab);
 }
