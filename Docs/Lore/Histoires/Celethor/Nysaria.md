@@ -1,9 +1,10 @@
 ---
-tags: [lore, histoire, nysaria]
+tags: [lore, histoire, nysaria, celethor]
 type: lore
 status: drafted
-last_review: 2026-05-06
+last_review: 2026-06-05
 needs_review_for: []
+Continent: Celethor
 ---
 # Histoires de Nysaria
 

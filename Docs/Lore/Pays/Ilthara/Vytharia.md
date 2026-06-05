@@ -1,8 +1,8 @@
 ﻿---
-tags: [lore, pays, ilthara, vytharia]
+tags: [lore, pays, ilthara, vytharia, lunasar, mirathi]
 type: nation
 status: canon
-last_review: 2026-05-06
+last_review: 2026-06-05
 needs_review_for: []
 ---
 # Vytharia — Le Royaume au-delà du Voile
@@ -30,6 +30,8 @@ La région qui allait devenir Vytharia était autrefois un lieu que les peuples 
 Ces premiers habitants découvrirent que la frontière entre le rêve et la réalité était exceptionnellement mince dans cette région, probablement en raison de la proximité du Lac des Rêves au cœur d'Ilthara. En apprenant à naviguer cette frontière plutôt qu'à la craindre, ils développèrent une maîtrise unique des illusions et de la perception.
 
 La première communauté organisée fut fondée par une femme nommée Vytha, une illusionniste d'un talent si extraordinaire que ses créations prenaient vie — littéralement. Ses disciples l'élevèrent au rang de prophétesse et bâtirent autour d'elle une société où la perception comptait plus que la matière.
+
+Les annales vythariennes situent ici l'aube la plus profonde du pays : la lignée **Vael'Somnix** et les civilisations oniriques des **Rêves Nommés** — la Synarchie des Voiles, les Principautés de l'Éveil Interdit, l'Empire Somnambule de Keth-Anur et la Confédération des Rêves Nommés — dont les ruines et les rites légués courent sous toute l'histoire de Vytharia. C'est de cette strate ancienne que descendent les traditions des **Noctari** et du **Somnium Vigil**.
 
 ### L'Ère de l'Illusion Libre
 
@@ -107,6 +109,18 @@ Région montagneuse du nord, Cystara est un lieu plus sombre. Les illusions y pr
 
 ### Gelinar
 Région méridionale baignée d'une brume perpétuelle, Gelinar est le domaine des Artisans du Rêve. C'est ici que sont fabriqués les cristaux oniriques, les encens de rêve et les soies de brume — des matériaux imprégnés du Voile que Vytharia exporte (avec parcimonie) vers les autres nations.
+
+---
+
+## Provinces côtières et dépendances
+
+Outre ses régions intérieures, Vytharia compte deux provinces côtières fondées jadis par des dissidents vythariens, dont les langues dérivent encore du vytharen et qui sont depuis longtemps rattachées à la couronne.
+
+### Lunasar — La Monarchie Lunaire
+Province côtière de Vytharia, **[[Lunasar]]** est gouvernée au rythme des phases de la lune : son Assemblée de pleine lune siège lorsque l'astre est plein, et l'autorité y suit le cycle lunaire. Sa capitale est **Lunaris** et elle compte environ 90 000 âmes. La parenté vytharienne se lit dans sa langue comme dans son mysticisme, mais la Monarchie Lunaire a forgé ses propres institutions le long de la côte.
+
+### Mirathi — Le Sanctuaire des Oracles
+Port-sanctuaire perché sur un replat, **[[Mirathi]]** est la dépendance vénérable des Oracles de Vytharia : moins de 4 000 âmes y veillent sur des traditions divinatoires héritées des Rêves Nommés. C'est de Mirathi que provient le **Message de Mirathi**, l'un des mystères cosmiques dont l'écho traverse l'Ère VII. L'arête qui relie le sanctuaire au reste du territoire — naguère décrite comme une frontière — n'est plus qu'un trait intérieur du pays.
 
 ---
 

@@ -10,7 +10,7 @@ needs_review_for: []
 > *« Les Oracles de Mirathi ne prédisent pas l'avenir. Ils vous montrent l'endroit de votre propre mémoire où l'avenir est déjà inscrit. La différence est essentielle, et la plupart des consultants ne la voient pas. »*
 > — Erud Valyrian, *Traité des Prophéties Commerciales*, édition de Thalmaris
 
-**Nysaria — Vytharia et Mirathi — Jour 720**
+**Vytharia — Mirathi, port-sanctuaire des Oracles — Jour 720**
 
 ---
 
@@ -72,7 +72,7 @@ Je n'eus pas de réponse pour cela non plus.
 
 C'est là que la question du Message se posa.
 
-J'avais entendu parler du Message dans les ports. Pas à Nectoria directement — dans les tavernes de Celtaris, avant l'embarquement, par un marin d'Onara qui avait absorbé assez de vin pour ne plus filtrer ce qu'il disait. Un message trouvé — ou prétendument trouvé — quelque part en Nysaria. Un message en trois langues. Des copies clandestines qui circulaient entre les mains des marchands et des érudits de la côte.
+J'avais entendu parler du Message dans les ports. Pas à Nectoria directement — dans les tavernes de Celtaris, avant l'embarquement, par un marin d'Onara qui avait absorbé assez de vin pour ne plus filtrer ce qu'il disait. Un message remonté des archives de Mirathi — ou prétendument remonté de là —, le « Message de Mirathi » dont on chuchotait jusque sur les côtes du nord. Un message en trois langues. Des copies clandestines qui circulaient entre les mains des marchands et des érudits de la côte.
 
 Je sus à Mirathi qu'une copie existait ici.
 
@@ -90,7 +90,7 @@ L'érudit de Thalmaris s'appelait Orneth. Il était vieux et sec comme un parche
 
 Il me montra la copie sans préambule — la posa sur la table devant moi avec le geste d'un joueur qui abat ses cartes non pas pour gagner mais pour savoir enfin ce qu'il a en face.
 
-Trois colonnes de texte. La première en vytharen ancien — que je lus avec difficulté mais lus quand même, ma semaine à Mirathi ayant été suffisante pour que les caractères anciens me deviennent approximativement familiers. La deuxième en un dialecte nysarien partiellement déchiffré par les érudits de Thalmaris — fragmentaire, lacunaire, mais reconnaissable. La troisième.
+Trois colonnes de texte. La première en vytharen ancien — que je lus avec difficulté mais lus quand même, ma semaine à Mirathi ayant été suffisante pour que les caractères anciens me deviennent approximativement familiers. La deuxième en un dialecte des civilisations oniriques disparues de Vytharia — celles que les érudits de Thalmaris ne déchiffrent que par fragments, lacunaire, mais reconnaissable. La troisième.
 
 La troisième.
 

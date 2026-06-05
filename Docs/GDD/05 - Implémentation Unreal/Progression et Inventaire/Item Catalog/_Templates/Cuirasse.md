@@ -457,7 +457,7 @@ Tissu T3 même attaque (Défense phys 67) → `14 × (1 − 67/167) = 14 × 0.59
 - **Tunique d'Ombre du Marcheur** (Cuir T5 Shadow) — *« Les chamans des steppes savent rendre le cuir invisible. Personne ne sait comment. »* Affixe : invisibilité 3 s lors du sprint (cooldown 60 s).
 
 > [!todo] Phase 4
-> Étoffer les signatures par continent (objectif 2-3 par grand pays × 13 continents = ~30-40 cuirasses signature pour la Phase 4). Chaque entrée doit inclure : nom complet, contexte historique, lore tenseur, classe + tier, affixe(s) signature(s), conditions de drop / craft / quête.
+> Étoffer les signatures par continent (objectif 2-3 par grand pays × 12 continents = ~30-40 cuirasses signature pour la Phase 4). Chaque entrée doit inclure : nom complet, contexte historique, lore tenseur, classe + tier, affixe(s) signature(s), conditions de drop / craft / quête.
 
 ---
 

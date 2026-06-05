@@ -27,7 +27,7 @@ Toute Ère est définie par un **EraConfig** — un objet sérialisable diffusé
 | **3. État du monde** | enum | `Floraison` · `Dégénérescence` · `Stagnation` · `Bouleversement` | Modifie densité foliage, comportement faune, prospérité PNJ |
 | **4. Mood social** | enum | `Sérénité` · `Méfiance` · `Ferveur` · `Effroi` · `Curiosité` | Bias dialogues PNJ, factions, pondération types de quêtes |
 | **5. Tension cosmique** | enum | `Faible` · `Moyenne` · `Haute` · `Critique` | Fréquence événements mondiaux, intensité phénomènes |
-| **6. Continent emphase** | array<continent_id> | 1-2 des 13 continents | Multiplicateur d'événements et spawn rares localisés |
+| **6. Continent emphase** | array<continent_id> | 1-2 des 12 continents | Multiplicateur d'événements et spawn rares localisés |
 
 **Combinatoire théorique** : 20 × 19 × 4 × 5 × 4 × 13 = **>100 000 combinaisons**.
 **Combinatoire utile** (avec contraintes de cohérence) : ~2 000 archétypes potentiellement intéressants.

@@ -149,7 +149,7 @@ Disponibilité par ère : [[Cuirasse]].
 - **Manches du Premier Lié** (Tissu T6 Doré, **Astravia**) — *« Brodées de runes pré-Souffle. »* Affixe : −5 % temps incantation toutes Voies.
 - **Avant-bras de la Légion Cendrée** (Mailles T4 Brulé, **Cendara**) — Affixe : riposte sur parade inflige +30 % et brûlure 5 s.
 
-> [!todo] Phase 4 : 2-3 par grand pays × 13 continents.
+> [!todo] Phase 4 : 2-3 par grand pays × 12 continents.
 
 ---
 

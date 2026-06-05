@@ -530,7 +530,7 @@ L'utilisation systématique de `FFastArraySerializer` (COND_OwnerOnly, push-base
 
 ### Lore Complet et Cohérent
 
-13 continents avec biomes mapés, 11 religions, 10 anatomies de personnages (6 races × 2 genres), conventions de tags pour les lieux, quêtes et conditions — le lore est non seulement écrit mais architecturalement intégré dans les systèmes de jeu.
+12 continents avec biomes mapés, 11 religions, 10 anatomies de personnages (6 races × 2 genres), conventions de tags pour les lieux, quêtes et conditions — le lore est non seulement écrit mais architecturalement intégré dans les systèmes de jeu.
 
 ---
 

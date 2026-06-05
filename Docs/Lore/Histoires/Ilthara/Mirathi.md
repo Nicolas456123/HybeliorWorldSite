@@ -1,5 +1,5 @@
 ---
-tags: [lore, histoire, nysaria, mirathi]
+tags: [lore, histoire, ilthara, vytharia, mirathi]
 type: lore
 status: drafted
 last_review: 2026-05-06
@@ -183,4 +183,4 @@ C'est aussi cela, le plateau de Vrenith.
 
 ---
 
-*Liens : [[../../Pays/Nysaria/Mirathi]] · [[../../Religions/_Mineures/Taciti]] · [[../../Chroniques/Chapitre 33 - Le Voile]] · [[../Nysaria/Nysaria]]*
+*Liens : [[../../Pays/Ilthara/Mirathi|Mirathi (fiche pays)]] · [[../../Religions/_Mineures/Taciti]] · [[../../Chroniques/Chapitre 33 - Le Voile]] · [[../../Pays/Ilthara/Vytharia|Vytharia]]*

@@ -151,7 +151,7 @@ Disponibilité par ère : voir [[Cuirasse]].
 - **Espauliers de la Tour-Mère** (Mailles T4, **Astravia**) — *« Insignes de la garde rapprochée. »* Affixe : +20 % aggro latéral · +5 % parade.
 - **Spallières du Marcheur d'Ombre** (Cuir T5 Shadow, **Ilthara**) — *« Cape d'épaule qui s'effiloche en fumée. »* Affixe : +1 s invisibilité sur sprint.
 
-> [!todo] Phase 4 : 2-3 par grand pays × 13 continents.
+> [!todo] Phase 4 : 2-3 par grand pays × 12 continents.
 
 ---
 

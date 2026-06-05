@@ -148,14 +148,6 @@
       "isIndex": true
     }
   ],
-  "GDD/02 - Monde/Continents/Nysaria": [
-    {
-      "name": "_Index",
-      "file": "_Index.md",
-      "title": "Nysaria — la Forêt de l'Éternel Hiver",
-      "isIndex": true
-    }
-  ],
   "GDD/02 - Monde/Continents/Onara": [
     {
       "name": "_Index",
@@ -6140,6 +6132,11 @@
       "title": "Histoires des Terres Brisées de Celethor"
     },
     {
+      "name": "Nysaria",
+      "file": "Nysaria.md",
+      "title": "Histoires de Nysaria"
+    },
+    {
       "name": "Ryldor",
       "file": "Ryldor.md",
       "title": "Histoires de Ryldor"
@@ -6262,9 +6259,19 @@
       "title": "Histoires de Gryndor"
     },
     {
+      "name": "Lunasar",
+      "file": "Lunasar.md",
+      "title": "Histoires de Lunasar"
+    },
+    {
       "name": "Lythar",
       "file": "Lythar.md",
       "title": "Histoires de Lythar"
+    },
+    {
+      "name": "Mirathi",
+      "file": "Mirathi.md",
+      "title": "Histoires de Mirathi"
     },
     {
       "name": "Pyrtara",
@@ -6285,23 +6292,6 @@
       "name": "Warenthor",
       "file": "Warenthor.md",
       "title": "Histoires de Warenthor"
-    }
-  ],
-  "Lore/Histoires/Nysaria": [
-    {
-      "name": "Lunasar",
-      "file": "Lunasar.md",
-      "title": "Histoires de Lunasar"
-    },
-    {
-      "name": "Mirathi",
-      "file": "Mirathi.md",
-      "title": "Histoires de Mirathi"
-    },
-    {
-      "name": "Nysaria",
-      "file": "Nysaria.md",
-      "title": "Histoires de Nysaria"
     }
   ],
   "Lore/Histoires/Onara": [
@@ -6434,6 +6424,11 @@
       "name": "No Man's Land Celethor",
       "file": "No Man's Land Celethor.md",
       "title": "No Man's Land de Celethor — Les Terres Brisées"
+    },
+    {
+      "name": "Nysaria",
+      "file": "Nysaria.md",
+      "title": "Nysaria — L'Île aux Masques"
     },
     {
       "name": "Ryldor",
@@ -6588,9 +6583,19 @@
       "title": "Ilthara — Le Grand Continent"
     },
     {
+      "name": "Lunasar",
+      "file": "Lunasar.md",
+      "title": "Lunasar — La Monarchie Lunaire"
+    },
+    {
       "name": "Lythar",
       "file": "Lythar.md",
       "title": "Lythar — L'Empire des Vents Nomades"
+    },
+    {
+      "name": "Mirathi",
+      "file": "Mirathi.md",
+      "title": "Mirathi — Le Sanctuaire des Oracles"
     },
     {
       "name": "Pyrtara",
@@ -6611,28 +6616,6 @@
       "name": "Warenthor",
       "file": "Warenthor.md",
       "title": "Warenthor — Le Royaume de la Jungle Éveillée"
-    }
-  ],
-  "Lore/Pays/Nysaria": [
-    {
-      "name": "Lunasar",
-      "file": "Lunasar.md",
-      "title": "Lunasar — La Monarchie Lunaire"
-    },
-    {
-      "name": "Mirathi",
-      "file": "Mirathi.md",
-      "title": "Mirathi — Le Sanctuaire des Oracles"
-    },
-    {
-      "name": "Nysaria - Continent",
-      "file": "Nysaria - Continent.md",
-      "title": "Nysaria — Le Continent des Voiles"
-    },
-    {
-      "name": "Nysaria",
-      "file": "Nysaria.md",
-      "title": "Nysaria — L'Île aux Masques"
     }
   ],
   "Lore/Pays/Onara": [

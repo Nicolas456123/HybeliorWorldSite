@@ -102,13 +102,13 @@ Les Selvarins sont la lignée de la **terre qui parle**. On les reconnaît à le
 
 Leur rapport à la Polyphonie est celui de la **communion** : ils laissent les voix s'inviter dans leur propre voix, jusqu'à ce qu'on ne sache plus très bien qui parle. Evertia, Sylvara et Thalmaris sont leurs nations.
 
-### Les Vael'Somnix — Nysaria
+### Les Vael'Somnix — Vytharia (Ilthara)
 
-Les Vael'Somnix sont la lignée du **voile**. Pâles, presque translucides selon les jours, ils portent souvent des masques en public — non par coquetterie, mais parce que la nudité du visage leur paraît une indécence. Frères séparés des Ombrils depuis la Mort-de-Rêve, ils ont choisi l'isolement et le retrait, fondant en Nysaria une Confédération des Rêves Nommés qui ne s'ouvrait au monde que lorsque les rêves le commandaient.
+Les Vael'Somnix sont la lignée du **voile**. Pâles, presque translucides selon les jours, ils portent souvent des masques en public — non par coquetterie, mais parce que la nudité du visage leur paraît une indécence. Frères séparés des Ombrils depuis la Mort-de-Rêve, ils ont choisi l'isolement et le retrait, fondant à Vytharia, sur le continent d'Ilthara, une Confédération des Rêves Nommés qui ne s'ouvrait au monde que lorsque les rêves le commandaient.
 
 > *« Nous ne portons pas de masques pour nous cacher. Nous en portons pour ne pas effrayer ceux qui nous regardent. »*
 >
-> *— sage anonyme de Nysaria*
+> *— sage anonyme de Vytharia*
 
 Leur rapport à la Polyphonie est celui du **seuil** : dans l'entre-deux, dans le moment où le rêve devient veille. Depuis le Rêve Sans Convocation qui dissout leur Confédération, leur présence s'est faite plus rare et plus énigmatique.
 

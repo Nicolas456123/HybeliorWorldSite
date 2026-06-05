@@ -22,7 +22,7 @@ implements: [Les Ères]
 |---|-------|-----------------------|
 | 1 | IceDesert | Cestra, Azoria, nord Celethor |
 | 2 | Tundra | Bords Cestra, nord Alkaran |
-| 3 | Taiga | Celethor, Nysaria, Alkaran |
+| 3 | Taiga | Celethor (dont l'île de Nysaria, au large de la côte est), Alkaran |
 | 4 | TemperateForest | Galenor, Evertia, Trinoria |
 | 5 | Temperate | Galenor, Alkaran, Onara |
 | 6 | Plains | Endora, Onara, Galenor |
@@ -40,7 +40,7 @@ implements: [Les Ères]
 |---|-------|-------------|
 | 14 | CrystallineGrove | Forêts cristallines Baelor, grottes Luminarc |
 | 15 | ConsciousForest | Evertia, Warenthor (végétation consciente) |
-| 16 | EternalMist | Brume Baelor, brume violette Nysaria |
+| 16 | EternalMist | Brume Baelor, brume violette de l'île de Nysaria (au large de Celethor) |
 | 17 | TemporalFaille | Zones vitrifiées Gryndor, fissures temporelles |
 | 18 | ShadowLands | Puits d'ombre, zones Noctis |
 | 19 | AncientRuins | Cités-ciel écrasées, Navoria engloutie |

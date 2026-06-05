@@ -155,7 +155,7 @@ Disponibilité par ère : [[Cuirasse]].
 - **Sash de la Tour-Mère** (Tissu T6 Doré, **Astravia**) — *« Couleur or et bleu de la Tour. »* Affixe : +25 % efficacité Voie de Lumière.
 - **Ceinturon de chasse galenor** (Cuir T4, **Galenor**) — Affixe : +3 slots fioles + +1 munition récupérée par combat.
 
-> [!todo] Phase 4 : 2-3 par grand pays × 13 continents.
+> [!todo] Phase 4 : 2-3 par grand pays × 12 continents.
 
 ---
 

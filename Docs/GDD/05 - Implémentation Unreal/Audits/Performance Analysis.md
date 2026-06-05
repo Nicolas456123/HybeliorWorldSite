@@ -260,7 +260,7 @@ TMap<FIntPoint, int32> ChunkIndexMap; // rebuild à chaque UpdateCollision
 
 **Fichier :** `Terrain/HWHybeliorWorldData.cpp:331–385`
 
-**Impact :** Les settlements et POIs sont spawnés dans une boucle de chargement. Si le nombre de settlements est élevé (le lore mentionne 13 continents avec de nombreuses agglomérations), cette boucle peut causer un pic de stutter au chargement.
+**Impact :** Les settlements et POIs sont spawnés dans une boucle de chargement. Si le nombre de settlements est élevé (le lore mentionne 12 continents avec de nombreuses agglomérations), cette boucle peut causer un pic de stutter au chargement.
 
 **Recommandation :** Étaler les spawns sur plusieurs frames via un timer ou une `TQueue` traitée à raison de N spawns par tick.
 

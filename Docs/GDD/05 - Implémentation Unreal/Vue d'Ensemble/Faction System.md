@@ -39,14 +39,14 @@ Une **Faction** est une organisation prédéfinie par le lore (NPC-driven), avec
 | `Faction.Religion.OrdoCaelum` | Ordo Caelum | Religieuse majeure | Galenor (Seraphia), Celethor (Astravia) | Lumen | Légale partout |
 | `Faction.Religion.VaelKurash` | Vael'Kurash | Religieuse majeure | Cendara, Onara | Mortis | Légale (toléré ailleurs) |
 | `Faction.Religion.IgnisAeternum` | Ignis Aeternum | Religieuse majeure | Cendara (Pyrevane), Ilthara (Pyrtara) | Ignis | Légale |
-| `Faction.Religion.Noctari` | Noctari | Religieuse majeure | Nysaria (Lunasar), Cestra | Umbra | Suspecte / interdite localement |
+| `Faction.Religion.Noctari` | Noctari | Religieuse majeure | Ilthara/Vytharia (Lunasar), Cestra | Umbra | Suspecte / interdite localement |
 | `Faction.Religion.RotaMundi` | Rota Mundi | Religieuse majeure | Evertia, Endora | Tempora | Légale |
 | `Faction.Religion.ViaVentus` | Via Ventus | Religieuse majeure | Onara, Galenor (Ventera) | Aer | Légale |
 | `Faction.Religion.LexPetra` | Lex Petra | Religieuse majeure | Alkaran (Ferrath, Torkam) | Terra | Officielle (orthodoxe) |
 | `Faction.Religion.SomniumVigil` | Somnium Vigil | Religieuse majeure | Azoria (Caeloria), Ilthara | Onirae | Marginale |
 | `Faction.Religion.FoedusAnimae` | Foedus Animae | Religieuse majeure | Galenor (Lumasar), Ulinor | Animae | Légale |
 | `Faction.Religion.FiliiFornacis` | Filii Fornacis | Religieuse mineure | Alkaran | (schisme Ignis/Lex Petra) | Sectaire |
-| `Faction.Religion.AquaNigra` | Aqua Nigra | Religieuse mineure | Nysaria, côtes Cestra | Aqua/Umbra | Hérétique |
+| `Faction.Religion.AquaNigra` | Aqua Nigra | Religieuse mineure | Celethor (île de Nysaria), côtes Cestra | Aqua/Umbra | Hérétique |
 | `Faction.Religion.CantusMundi` | Cantus Mundi | Religieuse mineure | Evertia (Sylvara) | Animae | Légale |
 | `Faction.Religion.Taciti` | Taciti | Religieuse mineure | Ulinor, monastères isolés | (silencieux) | Cryptique |
 | `Faction.Religion.CatenaFracta` | Catena Fracta | Religieuse mineure (antagoniste) | Présent partout, base Cendara/Ulinor | (refus du Lien) | **Hors-la-loi** |
@@ -92,9 +92,9 @@ Une **Faction** est une organisation prédéfinie par le lore (NPC-driven), avec
 | `Faction.Pol.Gryndor` | Gryndor | Ilthara | Khanat sauvage | Neutre |
 | `Faction.Pol.Ackerna` | Ackerna | Ilthara | Cité libre | Neutre |
 | `Faction.Pol.Lythar` | Lythar | Ilthara | Royaume marchand | Allié Marchands Ilthara |
-| `Faction.Pol.Lunasar` | Lunasar | Nysaria | Monarchie lunaire | Allié Noctari (officieux) |
-| `Faction.Pol.Mirathi` | Mirathi | Nysaria | République des Voiles | Neutre |
-| `Faction.Pol.Nysaria` | Nysaria | Nysaria | Empire ancien | Neutre |
+| `Faction.Pol.Lunasar` | Lunasar | Ilthara (Vytharia) | Monarchie lunaire | Allié Noctari (officieux) |
+| `Faction.Pol.Mirathi` | Mirathi | Ilthara (Vytharia) | Sanctuaire des Oracles | Neutre |
+| `Faction.Pol.Nysaria` | Nysaria | Celethor (île de Nysaria) | Cercle des Masques | Neutre |
 | `Faction.Pol.Mosrack` | Mosrack | Onara | Cité-marteau | Allié Lex Petra |
 | `Faction.Pol.Elarath` | Elarath | Onara | Cité druidique | Neutre |
 | `Faction.Pol.Tyndara` | Tyndara | Onara | Royaume de la steppe | Neutre |
@@ -438,13 +438,12 @@ Les **factions politiques** sont enracinées dans des continents — voir [[Cont
 | Alkaran | Ferrath, Torkam, Iskara, Altram | Lex Petra, Filii Fornacis |
 | Azoria | Caeloria, Azoral, Solmaris, Kethvar | Somnium Vigil |
 | Baelor | Baelor (unique) | (syncrétisme isolé) |
-| Celethor | Astravia, Ryldor, Elarian | Ordo Caelum (Astravia) |
+| Celethor | Astravia, Ryldor, Elarian, Nysaria (île) | Ordo Caelum (Astravia), Aqua Nigra (île de Nysaria) |
 | Cendara | Cendara, Pyrevane, Arkhen | Vael'Kurash, Ignis Aeternum |
 | Cestra | Noravia | Noctari (clandestin) |
 | Endora | Avalor, Haldria, Sanvara | Rota Mundi |
 | Evertia | Evertia, Sylvara, Thalmaris | Cantus Mundi, Rota Mundi |
-| Ilthara | Drakora, Pyrtara, Sylthara, Vytharia, Warenthor, Gryndor, Ackerna, Lythar | Ignis Aeternum, Somnium Vigil |
-| Nysaria | Lunasar, Mirathi, Nysaria | Noctari, Aqua Nigra |
+| Ilthara | Drakora, Pyrtara, Sylthara, Vytharia (+ provinces Lunasar, Mirathi), Warenthor, Gryndor, Ackerna, Lythar | Ignis Aeternum, Somnium Vigil, Noctari (Lunasar) |
 | Onara | Mosrack, Elarath, Tyndara, Myrtam | Via Ventus, Lex Petra |
 | Ulinor | Ulinor, Skaldoria, Dhalvoria | Foedus Animae, Taciti |
 

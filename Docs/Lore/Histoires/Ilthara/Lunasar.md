@@ -1,5 +1,5 @@
 ---
-tags: [lore, histoire, nysaria, lunasar]
+tags: [lore, histoire, ilthara, vytharia, lunasar]
 type: lore
 status: drafted
 last_review: 2026-05-06
@@ -95,7 +95,7 @@ Velda Mirhanen pêchait au filet à mailles serrées dans les estuaires nord-oue
 
 Velda ne tenait pas de journal de rêves. Aucun. Elle dormait. Le matin, elle ne se souvenait de rien — ou plutôt, elle ne notait rien, ce qui pour les Lunariens orthodoxes revient au même. Elle vivait dans un hameau de huit familles, toutes à peu près dans son cas, où la fermeture de la nouvelle lune était observée mollement et où l'Heure de la Contemplation était abrégée à quelques minutes de regard sur le soleil couchant — *parce qu'on est fatigués, et la journée a été dure*.
 
-Elle remontait, en moyenne, deux ou trois objets nysariens par an dans ses filets. Des amulettes de pierre noire, de petites statuettes plates, parfois des flacons luminescents. Elle les remettait au Veilleur de lune local, un homme nommé Tarn, sans demander de reçu et sans être payée. La convention voulait qu'on remette ces objets sans publier ; Velda la suivait sans se demander pourquoi. *On le fait*, disait-elle quand on lui demandait. *C'est plus simple.*
+Elle remontait, en moyenne, deux ou trois objets anciens par an dans ses filets — de ces vestiges d'origine indéterminée que la côte vytharienne rend parfois. Des amulettes de pierre noire, de petites statuettes plates, parfois des flacons luminescents. Elle les remettait au Veilleur de lune local, un homme nommé Tarn, sans demander de reçu et sans être payée. La convention voulait qu'on remette ces objets sans publier ; Velda la suivait sans se demander pourquoi. *On le fait*, disait-elle quand on lui demandait. *C'est plus simple.*
 
 En l'an 248, son filet remonta autre chose.
 
@@ -157,4 +157,4 @@ C'est peut-être pour cela qu'on l'oublie — et c'est peut-être pour cela auss
 
 ---
 
-*Liens : [[../../Pays/Nysaria/Lunasar]] · [[../../Chroniques/Chapitre 35 - Monarchie Lunaire]] · [[../Nysaria/Nysaria]]*
+*Liens : [[../../Pays/Ilthara/Lunasar|Lunasar (fiche pays)]] · [[../../Chroniques/Chapitre 35 - Monarchie Lunaire]] · [[../../Pays/Ilthara/Vytharia|Vytharia]]*

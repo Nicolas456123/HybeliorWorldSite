@@ -37,7 +37,7 @@ needs_review_for: [scission-V4, déliés-non-Liés-passe-complète, témoins-viv
 > Le monde de l'an 251 du Sillage **n'a aucun instrument juridique commun** qui régirait les nations entre elles. Les grands projets de pacte régional tentés au cours de l'Ère VI — notamment l'effort lumasarien et caelorien autour des chancelleries du Cœur, vers ~9 500 ap.A — n'ont jamais débouché sur un traité contraignant universellement reconnu. Voir [[Era 6 - L'Ère des Nations]] pour la chronique de ces tentatives avortées. Ce qui structure aujourd'hui les relations internationales est un **patchwork** de relations bilatérales et multilatérales **ad hoc**, de pactes régionaux fragmentaires, et d'usages diplomatiques transmis de chancellerie en chancellerie sans force légale partagée. La diplomatie est un travail constant de re-négociation, jamais un acquis.
 
 **Une jeunesse collective qui pèse**
-L'une des caractéristiques les moins comprises de l'Ère VII est l'extrême jeunesse des nations qui la composent. Sur les 38 nations reconnues en 10 200 ap.A, plus de la moitié ont moins de 700 ans. Parmi elles, douze ont moins de 400 ans (Pyrevane, Elarath, Solmaris, Ferrath, Mirathi, Endrath, Halcyon, Lunasar, Noravia, Dhalvoria). Même les nations considérées comme « établies » — Kharazir, Mosrack, Gryndor, Altram — n'ont qu'environ 1 000 ans d'existence. Seules Lumasar (~2 700 ans) et Solena (~3 000 ans) possèdent une profondeur historique significative. Cette jeunesse collective explique la fragilité des institutions, la volatilité des alliances, la fréquence des crises de succession et le sentiment partagé que **rien n'est définitivement acquis**. Les civilisations qui les ont précédées et ont disparu ne sont pas de l'histoire lointaine — pour certains peuples, les ruines de leur prédécesseur direct sont encore visibles à l'horizon, et plusieurs cours royales redoutent ouvertement de connaître le même sort. Aucune génération diplomatique n'a connu un cadre commun stable ; toutes ont travaillé à l'arrachée, accord par accord.
+L'une des caractéristiques les moins comprises de l'Ère VII est l'extrême jeunesse des nations qui la composent. Sur les 36 nations reconnues en 10 200 ap.A, plus de la moitié ont moins de 700 ans. Parmi elles, huit ont moins de 400 ans (Pyrevane, Elarath, Solmaris, Ferrath, Endrath, Halcyon, Noravia, Dhalvoria). Même les nations considérées comme « établies » — Kharazir, Mosrack, Gryndor, Altram — n'ont qu'environ 1 000 ans d'existence. Seules Lumasar (~2 700 ans) et Solena (~3 000 ans) possèdent une profondeur historique significative. Cette jeunesse collective explique la fragilité des institutions, la volatilité des alliances, la fréquence des crises de succession et le sentiment partagé que **rien n'est définitivement acquis**. Les civilisations qui les ont précédées et ont disparu ne sont pas de l'histoire lointaine — pour certains peuples, les ruines de leur prédécesseur direct sont encore visibles à l'horizon, et plusieurs cours royales redoutent ouvertement de connaître le même sort. Aucune génération diplomatique n'a connu un cadre commun stable ; toutes ont travaillé à l'arrachée, accord par accord.
 
 **Pactes régionaux fragmentaires**
 Quelques accords couvrent des sujets précis et limités, sans jamais former un système :
@@ -61,7 +61,7 @@ Aucune instance ne gère au niveau international les grands phénomènes qui dev
 - **La Guerre de l'Ombre** — série d'assassinats ciblés sans revendication officielle ; aucun cadre n'existe pour qualifier juridiquement ces actes ni pour coordonner une réponse
 
 **Routes commerciales — intérêt mutuel et tradition**
-Les grandes routes commerciales tiennent par **intérêt mutuel et tradition**, non par instrument juridique unique. La Route des Métaux Alkaran→Galenor fonctionne parce que chaque maillon en bénéficie ; la Voie Mosrack↔Azoria parce que les armateurs y trouvent leur compte ; la Route Nysaria→Evertia parce que Mirathi et les caravanes evertiennes ont fini par s'entendre. Quand l'intérêt change ou que la tradition se délite — embargos informels, raids depuis les wildlands, taxes croissantes — la route se reconfigure ou se rompt sans qu'aucun cadre ne soit là pour l'arbitrer.
+Les grandes routes commerciales tiennent par **intérêt mutuel et tradition**, non par instrument juridique unique. La Route des Métaux Alkaran→Galenor fonctionne parce que chaque maillon en bénéficie ; la Voie Mosrack↔Azoria parce que les armateurs y trouvent leur compte ; la Route Mirathi→Evertia parce que le port-sanctuaire vytharien de Mirathi et les caravanes evertiennes ont fini par s'entendre. Quand l'intérêt change ou que la tradition se délite — embargos informels, raids depuis les wildlands, taxes croissantes — la route se reconfigure ou se rompt sans qu'aucun cadre ne soit là pour l'arbitrer.
 
 **Lectures concurrentes de la situation**
 La même fragmentation est lue différemment selon les chancelleries :
@@ -117,7 +117,7 @@ Sans cadre supranational, les violences sont moins **contenues**. L'absence de g
 | **Pyrtara** | Mérite pur — les non-Liés peuvent être généraux si compétents | Constitution militaire (~9 650) |
 | **Mosrack** | Discrimination commerciale — guildes navales fermées aux non-Liés | Charte de la Mer (~9 200) |
 | **Altram** | Égalité dans les mines — discrimination dans la noblesse | Tradition Lex Petra |
-| **Vytharia/Nysaria** | Non-Liés privilégiés en certains cas — Noctis est "silence", non Lien | Théologie Noctari |
+| **Vytharia** (Ilthara) | Non-Liés privilégiés en certains cas — Noctis est "silence", non Lien | Théologie Noctari |
 | **Baelor-Prime** | Indifférence culturelle — ni privilège ni persécution | Aucune loi spécifique |
 
 **Formes de discrimination quotidienne**
@@ -264,7 +264,7 @@ Ce mécanisme de remutation explique pourquoi les Liés sont inégalement répar
 - *Theorie de l'Epuisement* (Academie de Lumasar) : le Lien residuel n'est plus suffisant pour les maintenir ; a mesure que les Lies meurent sans transmettre, le "carburant" disparait
 - *Theorie du Retrait* (clerge de Caeloria) : les Phenix sentent quelque chose venir et se retirent dans un plan inaccessible — signe de catastrophe imminente
 - *Theorie des Catena Fracta* : les Phenix sont des "prisons de Lien" ; les voir disparaitre est une victoire — la liberte arrive
-- *Theorie de Mirathi* (chamanes de Vytharia) : les Phenix se sont regroupes quelque part en Nysaria, attendant quelque chose — liee au Message de Mirathi
+- *Theorie de Mirathi* (chamanes de Vytharia) : les Phenix se sont regroupes quelque part sur l'ile brumeuse de Nysaria, au large de Celethor, attendant quelque chose — liee au Message de Mirathi
 
 ---
 
@@ -315,13 +315,13 @@ Le Mont Cendra n'est pas seulement le site de l'Arrachement — il est l'un des 
 #### Message de Mirathi
 
 **Les faits etablis**
-- Date de reception : ~10 064 ap.A, Mirathi (cite portuaire de Nysaria)
+- Date de reception : ~10 064 ap.A, Mirathi (port-sanctuaire des Oracles de Vytharia, sur la cote d'Ilthara)
 - Vecteur : une sphere de lumiere condensee projete un message lumineux sur le mur de la salle du Conseil pendant 3 minutes, puis disparait
-- Texte : en trois langues superposees — ancienne langue de Navoris (partiellement dechiffrable), dialecte Nysarian du 4eme millenaire, et une troisieme langue ne correspondant a rien de connu
+- Texte : en trois langues superposees — ancienne langue de Navoris (partiellement dechiffrable), vytharien ancien du 4eme millenaire (langue des civilisations oniriques disparues d'Ilthara dont Mirathi a herite), et une troisieme langue ne correspondant a rien de connu
 - Temoins directs : 9 membres du Conseil + 3 gardes
 
 **Ce qui a ete dechiffre**
-- Fragment Nysarian ancien : "...les routes rouvrent... ne pas attendre... le guide revient par les marges..."
+- Fragment en vytharien ancien : "...les routes rouvrent... ne pas attendre... le guide revient par les marges..."
 - Fragment Navoris (partiel) : "...au-dela du rideau... passage prepare..."
 - Fragment inconnu : non dechiffre malgre 20 ans de travail par des linguistes de Lumasar, Astravia et Vytharia
 
@@ -442,7 +442,7 @@ Dans les archives fragmentées de Navoria (récupérées par Mosrack) et dans un
 ### Failles Mobiles ?
 
 **Observations**
-- Depuis ~10 170, plusieurs Failles résiduelles **autrefois stables** ont été signalées comme s'étant **déplacées** de quelques dizaines de mètres à plusieurs lieues : trois cas confirmés dans la Plaine de Gryndor, deux dans les vallées d'Alkaran, un dans le delta sud d'Onara, et un cas controversé dans les forêts de Nysaria (trop éloigné de la côte pour être vérifié indépendamment)
+- Depuis ~10 170, plusieurs Failles résiduelles **autrefois stables** ont été signalées comme s'étant **déplacées** de quelques dizaines de mètres à plusieurs lieues : trois cas confirmés dans la Plaine de Gryndor, deux dans les vallées d'Alkaran, un dans le delta sud d'Onara, et un cas controversé dans les forêts intérieures de Vytharia (trop éloigné de la côte d'Ilthara pour être vérifié indépendamment)
 - Les Cartographes de Baelor, qui suivent les Failles depuis ~6 000 ap.A, rappellent que les Failles **mobiles** ont disparu après l'Ère IV ; un retour à la mobilité serait sans précédent depuis 8 600 ans
 - La Faille d'Ordavan (cf. Mystères Actuels) est désormais reconsidérée à la lumière de ces observations : et si elle n'avait pas été « provoquée » mais avait simplement été **traversée** par une Faille en mouvement ?
 
@@ -611,7 +611,7 @@ Chaque nation frappe également ses propres pièces pour usage interne. Le taux 
 | Alkaran → Galenor | Métaux, outils forgés | Très élevé | Guilde des Marteaux |
 | Galenor → Celethor/Endora | Grain, textiles, livres imprimés | Élevé | Marchands de Kharazir |
 | Mosrack ↔ Azoria | Produits maritimes, épices | Élevé | Fraternité des Navigants |
-| Nysaria → Evertia | Épices, soieries, soins | Moyen | Marchands de Mirathi |
+| Mirathi (Vytharia) → Evertia | Épices, soieries, soins | Moyen | Marchands de Mirathi |
 | Cestra → reste | Matériaux bruts inconnus | Faible | Non contrôlé |
 
 **L'économie des Liés**
@@ -648,7 +648,7 @@ Genres principaux au 10 200 ap.A :
 Auteurs importants au présent :
 - **Solan Areth de Caeloria** (~10 140-présent) — philosophe du "Lien en déclin" ; ses *Méditations sur la Fin du Lien* sont lues partout sauf en Gryndor où elles sont interdites
 - **Imara Dox de Lumasar** (~10 155-présent) — première femme Consul de l'Académie ; ses romans politiques satiriques (publiés sous pseudonyme) moquent toutes les nations y compris Lumasar
-- **Le Scribe de Mirathi** — pseudonyme collectif de 3 auteurs de Nysaria qui publient des analyses cryptées du Message de Mirathi ; leur identité est un secret d'État
+- **Le Scribe de Mirathi** — pseudonyme collectif de 3 auteurs de Mirathi (port-sanctuaire vytharien) qui publient des analyses cryptées du Message de Mirathi ; leur identité est un secret d'État
 
 **Musique**
 
@@ -740,7 +740,7 @@ Une expression entendue de plus en plus dans les ports et les marchés depuis ~1
 
 **Routes commerciales contestées**
 - **Galenor → Celethor/Endora** — les Marchands de Kharazir contrôlent le passage et imposent des taxes croissantes depuis 10 190 ; embargo informel de Lumasar sur les produits kharaziens depuis l'hiver 10 199 ; aucune instance pour arbitrer
-- **Nysaria → Evertia** — raids répétés depuis les wildlands d'Ulinor central sur les caravanes de Mirathi ; trois convois perdus en 12 mois ; aucune nation ne se reconnaît compétente pour intervenir
+- **Mirathi (Vytharia) → Evertia** — raids répétés depuis les wildlands d'Ulinor central sur les caravanes de Mirathi ; trois convois perdus en 12 mois ; aucune nation ne se reconnaît compétente pour intervenir
 - **Mosrack ↔ Azoria** — la Fraternité des Navigants accuse les armateurs mosraciens d'avoir « occupé » deux des trois principales escales de l'Océan Primordial central
 
 **Catena Fracta — montée mesurable**

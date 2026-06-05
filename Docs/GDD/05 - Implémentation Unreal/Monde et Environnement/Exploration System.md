@@ -310,7 +310,7 @@ Content/
 | Visiter 100% des POI 🟢 d'un continent | Titre "Cartographe Complet" + bonus rayon de révélation +20% |
 | Découvrir 50 POI 🟡 (toutes zones confondues) | Titre "Œil Aiguisé" |
 | Découvrir 10 POI 🔴 | Titre "Ouvreur de Voie" |
-| Visiter les 13 continents | Titre "Voyageur des Treize" |
+| Visiter les 12 continents | Titre "Voyageur des Douze" |
 | Visiter les 7 grandes Traces géologiques | Titre "Marcheur des Ères" (voir [[Traces des Ères]]) |
 | Survivre 1 mois en zone T4 sans rentrer en T0 | Titre "Errant des Frontières" |
 | Cartographier 3 Brèches du Néant stables | Titre "Lecteur du Vide" |
@@ -351,7 +351,7 @@ Content/
 
 ## Décisions actées (techniques)
 
-- ✅ 13 continents, ~2 500 km² total, streaming clipmap 1 km
+- ✅ 12 continents, ~2 500 km² total, streaming clipmap 1 km
 - ✅ 5 tiers de zones (T0-T4) basés sur éloignement et difficulté
 - ✅ 3 niveaux de visibilité POI (🟢 / 🟡 / 🔴) alignés sur [[Vision Rules]]
 - ✅ Plafond souple 25% POI 🔴 par zone (modulation +5% justifiée pilier découverte)

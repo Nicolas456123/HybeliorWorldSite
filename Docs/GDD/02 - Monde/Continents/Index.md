@@ -23,16 +23,17 @@ needs_review_for: []
 | [[Alkaran/_Index|Alkaran]] | [[Alkaran/Altram|Altram]], [[Alkaran/Ferrath|Ferrath]], [[Alkaran/Iskara|Iskara]], [[Alkaran/Torkam|Torkam]] |
 | [[Azoria/_Index|Azoria]] | [[Azoria/Azoral|Azoral]], [[Azoria/Caeloria|Caeloria]], [[Azoria/Kethvar|Kethvar]], [[Azoria/No Man's Land Azoria|No Man's Land Azoria]], [[Azoria/Solmaris|Solmaris]] |
 | [[Baelor/_Index|Baelor]] | [[Baelor/Baelor|Baelor]] |
-| [[Celethor/_Index|Celethor]] | [[Celethor/Astravia|Astravia]], [[Celethor/Elarian|Elarian]], [[Celethor/No Man's Land Celethor|No Man's Land Celethor]], [[Celethor/Ryldor|Ryldor]] |
+| [[Celethor/_Index|Celethor]] | [[Celethor/Astravia|Astravia]], [[Celethor/Elarian|Elarian]], [[Celethor/No Man's Land Celethor|No Man's Land Celethor]], [[Celethor/Ryldor|Ryldor]] · *île* : [[Celethor/Nysaria|Nysaria]] |
 | [[Cendara/_Index|Cendara]] | [[Cendara/Arkhen|Arkhen]], [[Cendara/Cendara|Cendara]], [[Cendara/Pyrevane|Pyrevane]] |
 | [[Cestra/_Index|Cestra]] | [[Cestra/No Man's Land Cestra|No Man's Land Cestra]], [[Cestra/Noravia|Noravia]] |
 | [[Endora/_Index|Endora]] | [[Endora/Avalor|Avalor]], [[Endora/Haldria|Haldria]], [[Endora/Sanvara|Sanvara]] |
 | [[Evertia/_Index|Evertia]] | [[Evertia/Evertia|Evertia]], [[Evertia/Sylvara|Sylvara]], [[Evertia/Thalmaris|Thalmaris]] |
 | [[Galenor/_Index|Galenor]] | [[Galenor/Kharazir|Kharazir]], [[Galenor/Lumasar|Lumasar]], [[Galenor/Seraphia|Seraphia]], [[Galenor/Solena|Solena]], [[Galenor/Trinoria|Trinoria]], [[Galenor/Valoria|Valoria]], [[Galenor/Ventera|Ventera]] |
-| [[Ilthara/_Index|Ilthara]] | [[Ilthara/Ackerna|Ackerna]], [[Ilthara/Drakora|Drakora]], [[Ilthara/Gryndor|Gryndor]], [[Ilthara/Lythar|Lythar]], [[Ilthara/Pyrtara|Pyrtara]], [[Ilthara/Sylthara|Sylthara]], [[Ilthara/Vytharia|Vytharia]], [[Ilthara/Warenthor|Warenthor]] |
-| [[Nysaria/_Index|Nysaria]] | [[Nysaria/Lunasar|Lunasar]], [[Nysaria/Mirathi|Mirathi]], [[Nysaria/Nysaria|Nysaria]] |
+| [[Ilthara/_Index|Ilthara]] | [[Ilthara/Ackerna|Ackerna]], [[Ilthara/Drakora|Drakora]], [[Ilthara/Gryndor|Gryndor]], [[Ilthara/Lythar|Lythar]], [[Ilthara/Pyrtara|Pyrtara]], [[Ilthara/Sylthara|Sylthara]], [[Ilthara/Vytharia|Vytharia]] (provinces : [[Ilthara/Lunasar|Lunasar]], [[Ilthara/Mirathi|Mirathi]]), [[Ilthara/Warenthor|Warenthor]] |
 | [[Onara/_Index|Onara]] | [[Onara/Elarath|Elarath]], [[Onara/Mosrack|Mosrack]], [[Onara/Myrtam|Myrtam]], [[Onara/Tyndara|Tyndara]] |
 | [[Ulinor/_Index|Ulinor]] | [[Ulinor/Dhalvoria|Dhalvoria]], [[Ulinor/Skaldoria|Skaldoria]], [[Ulinor/Ulinor|Ulinor]] |
+
+Hybelior compte **douze continents**, auxquels s'ajoutent quelques **iles notables**. La plus celebre est **Nysaria**, petite ile brumeuse au large de la cote est de Celethor (l'Ile aux Masques, ville de Nysoris) ; elle n'est pas un continent. **Lunasar** et **Mirathi** ne sont pas non plus des continents : ce sont des provinces de **Vytharia** (Ilthara) — respectivement la Monarchie Lunaire cotiere et le port-sanctuaire des Oracles, source du *Message de Mirathi*.
 
 ---
 

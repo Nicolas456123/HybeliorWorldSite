@@ -71,7 +71,7 @@ Avant tout : rien (selon les catégories que les mortels emploient). Pas de temp
 
 Les **12 Cosmiques** naissent en 4 phases (Fondamentaux, Dynamiques, Lois cosmiques, Rayonnants). Liste canonique GDD/17 (D-COSMO-4) : **Aquor, Terranu, Aerion, Climata, Gravitas, Vortex, Judicar, Fatum, Spiritus, Stellaris, Aetheron, Etherius**. La généalogie « parentale » des Cosmiques (chaque Cosmique « né » d'une interaction entre deux Éternels) est une **lecture théologique** parmi d'autres — un modèle alternatif (prérequis logiques) coexiste, et aucun n'épuise le processus.
 
-Les **45 Éthérés** s'installent sur le **Panghor** (supercontinent unique). Le **Mont Originel** (identifié au **Mont Cendra** dans la lecture cendarienne dominante) est le seul des deux monts dont l'existence est attestée et observable. Le **Mont Jumeau** est de la **matière narrative cestarienne** (notamment la *Légende du Frère Froid*) — aucun fait géologique attesté, aucune carte vérifiable. La **Fracture du Panghor** en 3 phases produit les 13 continents actuels.
+Les **45 Éthérés** s'installent sur le **Panghor** (supercontinent unique). Le **Mont Originel** (identifié au **Mont Cendra** dans la lecture cendarienne dominante) est le seul des deux monts dont l'existence est attestée et observable. Le **Mont Jumeau** est de la **matière narrative cestarienne** (notamment la *Légende du Frère Froid*) — aucun fait géologique attesté, aucune carte vérifiable. La **Fracture du Panghor** en 3 phases produit les 12 continents actuels (ainsi que de nombreuses îles notables, dont Nysaria, au large de Celethor).
 → [[Era 1a - Les Cosmiques]] · [[Era 1b - Éthérés et Panghor]]
 
 ### Ère II — L'Éveil des Mortels
@@ -123,9 +123,9 @@ Trois royaumes intermédiaires : **Tharnok** (Alkaran), **Forgon** (Onara/Azoria
 
 ### Ère VI — L'Ère des Nations
 
-7 guerres majeures façonnent les frontières. **38+ nations** émergent — toutes comme **îlots de civilisation** ; aucune ne couvre intégralement son continent. Guildes transnationales, systèmes monétaires, routes commerciales tenues. **Failles stables résiduelles** persistent (Plaine de Gryndor, delta sud d'Onara, forêts de Nysaria, vallées d'Alkaran, côtes de Celethor). La **Cristallisation** (~8 000 → ~9 500 ap.A) stabilise les **frontières tenues** — pas le contrôle effectif des continents.
+7 guerres majeures façonnent les frontières. **38+ nations** émergent — toutes comme **îlots de civilisation** ; aucune ne couvre intégralement son continent. Guildes transnationales, systèmes monétaires, routes commerciales tenues. **Failles stables résiduelles** persistent (Plaine de Gryndor, delta sud d'Onara, forêts d'Ilthara, vallées d'Alkaran, côtes de Celethor). La **Cristallisation** (~8 000 → ~9 500 ap.A) stabilise les **frontières tenues** — pas le contrôle effectif des continents.
 
-L'Ère des Nations a tenté plusieurs projets diplomatiques transcontinentaux — **aucun n'a abouti à un instrument unifié**. Les nations restent souveraines, méfiantes, liées par des accords bilatéraux ou pactes régionaux fragmentaires. Les chancelleries de Lumasar et de Caeloria ont produit des chartes dont l'écho se limite à leur cœur d'influence (Galenor, Endora, Azoria et fragments d'Ilthara et d'Alkaran) ; Cestra, Nysaria, Cendara, Ulinor n'ont jamais été parties à ces démarches. La diplomatie de l'Ère VI tardive est faite de **conférences sans suite, de pactes commerciaux à courte portée et de paix séparées** que la postérité range sous l'étiquette commode mais trompeuse de « concert des nations ».
+L'Ère des Nations a tenté plusieurs projets diplomatiques transcontinentaux — **aucun n'a abouti à un instrument unifié**. Les nations restent souveraines, méfiantes, liées par des accords bilatéraux ou pactes régionaux fragmentaires. Les chancelleries de Lumasar et de Caeloria ont produit des chartes dont l'écho se limite à leur cœur d'influence (Galenor, Endora, Azoria et fragments d'Ilthara et d'Alkaran) ; Cestra, Vytharia, Cendara, Ulinor n'ont jamais été parties à ces démarches. La diplomatie de l'Ère VI tardive est faite de **conférences sans suite, de pactes commerciaux à courte portée et de paix séparées** que la postérité range sous l'étiquette commode mais trompeuse de « concert des nations ».
 
 **Trois artefacts ancrés en Ère VI** changent de statut (rumeur érudite → pièce d'archive partiellement reconnue) : **Fragment Zéro** (parchemin Verithan, archives d'Altram), **Carte du Silence** (tradition cartographique des wildlands, codifiée en Ère VI), **Inscription de Kharazir** (stèle découverte, lectures concurrentes). Leur émergence en Ère VI est la condition de cohérence avec leurs réapparitions en Ère VII. Voir [[Era 6 - L'Ère des Nations]] §"Trois artefacts qui ressurgissent".
 → [[Era 6 - L'Ère des Nations]]
@@ -243,7 +243,7 @@ Entités issues des interactions entre Cosmiques. Liste canonique GDD/17 (Pluvia
 | **Confédération d'Alkarath** | ~15 500 av.A | Alkaran + Cestra-sud | Lithanel (futur Altram) |
 | **Khalifat de Solvenar** | ~10 000 av.A | Galenor + nord Azoria | Aethranor (futur Kharazir) |
 | **Saint-Empire d'Endara** | ~8 000 av.A | Endora entière + îles | Endral |
-| **Royaume des Songes d'Ithalorn** | ~6 000 av.A | Ilthara + Nysaria | Pyros (futur Pyrtara) |
+| **Royaume des Songes d'Ithalorn** | ~6 000 av.A | Ilthara (cœur onirique vytharien) | Pyros (futur Pyrtara) |
 | **Ligue Marchande d'Everthor** | ~4 000 av.A | Evertia + Azoria + routes maritimes | Navoria (engloutie An 0) |
 
 > [!note] Les 6 empires simultanés au pic tardif (~1 000 av.A → An 0)
@@ -289,13 +289,13 @@ Entités issues des interactions entre Cosmiques. Liste canonique GDD/17 (Pluvia
 | **Vael'Kurash** | Spiritus · Arborius | Alkaran, Ilthara, Ulinor, Evertia |
 | **Ignis Aeternum** | Eldoria (Flamara comme rumeur populaire cendarienne) | Cendara, Pyrtara, Myrtam |
 | **Ordo Caelum** | Celestia · Stellaris | Caeloria, Haldria, Seraphia, Astravia *(branche stellaire)* |
-| **Noctari** | Noctis · Umbra · Umbralis | Vytharia, Nysaria, Avalor |
+| **Noctari** | Noctis · Umbra · Umbralis | Vytharia *(ancrage, Ilthara)*, Nysaria *(île de Celethor)*, Avalor |
 | **Rota Mundi** | Tempora · Climata · Fatum | Sylthara, Ventera, Elarian, Evertia |
 | **Via Ventus** | Aerion · Navigor | Solena, Tyndara, Lythar |
 | **Lex Petra** | Terranu · Gravitas · Judicar | Altram, Iskara, Gryndor |
 | **Somnium Vigil** | Somnix · Realis · Aurion | Vytharia, Lumasar, Baelor, Astravia *(courant onirique)* |
 | **Foedus Animae** | Anima · Mentor · Ancestralis | Torkam, Skaldoria, Ulinor, tribus |
-| **Taciti** *(régionale)* | Le Silence | Baelor, Nysaria |
+| **Taciti** *(régionale)* | Le Silence | Baelor, Nysaria *(île de Celethor)* |
 | **Cantus Mundi** *(régionale)* | Cantor | Thalmaris, Seraphia |
 | **Catena Fracta** *(hors-tradition)* | Rejet de toutes les entités | Cellules dispersées (Kharazir, Haldria, Endrath dominantes) |
 
@@ -312,14 +312,13 @@ Entités issues des interactions entre Cosmiques. Liste canonique GDD/17 (Pluvia
 |-----------|---------|
 | **Alkaran** | Altram · Iskara · Ferrath |
 | **Galenor** | Kharazir · Ventera · Seraphia · Tyndara · Solena · Lumasar |
-| **Ilthara** | Drakora · Gryndor · Pyrtara |
+| **Ilthara** | Drakora · Gryndor · Pyrtara · Vytharia *(+ provinces Lunasar et Mirathi)* |
 | **Endora** | Haldria · Avalor · Sanvara · Endrath |
-| **Celethor** | Astravia · Caeloria · Orvalis · Halcyon |
+| **Celethor** | Astravia · Caeloria · Orvalis · Halcyon · Nysoris *(île de Nysaria, au large de la côte est)* |
 | **Onara** | Mosrack · Myrtam · Elarath |
 | **Azoria** | Azoral · Kethvar · Solmaris |
 | **Cendara** | Arkhen · Pyrevane |
 | **Evertia** | Thalmaris · Sylvara |
-| **Nysaria** | Vytharia · Lunasar · Mirathi |
 | **Baelor** | Baelor-Prime |
 | **Ulinor** | Skaldoria · Torkam · Dhalvoria |
 | **Cestra** | Noravia *(seule colonie stable, fondée ~9 900 ap.A — bande côtière de 200 km uniquement, intérieur du continent = wildlands)* |
@@ -329,11 +328,14 @@ Entités issues des interactions entre Cosmiques. Liste canonique GDD/17 (Pluvia
 
 ---
 
-## LES 13 CONTINENTS — LISTE CANONIQUE
+## LES 12 CONTINENTS — LISTE CANONIQUE
 
 *(Issus de la Fracture du Panghor, Ère I. Liste géographique stabilisée dans les portulans et atlas de l'Ère VI tardive — décompte cartographique, sans portée diplomatique.)*
 
-Cendara · Onara · Endora · Evertia · Cestra · Baelor · Nysaria · Ulinor · Azoria · Alkaran · Galenor · Celethor · Ilthara
+Cendara · Onara · Endora · Evertia · Cestra · Baelor · Ulinor · Azoria · Alkaran · Galenor · Celethor · Ilthara
+
+> [!note] Nysaria n'est pas un continent
+> **Nysaria** est une **petite île** au large de la côte est de **Celethor** — île célèbre et d'accès difficile (brumes), connue pour l'Île aux Masques (ville **Nysoris**), le Cercle des Masques, le Roi Sans Voix et les gorges acoustiques d'**Harmonex**. Elle figure parmi les **îles notables** issues de la Fracture du Panghor, non parmi les 12 continents.
 
 ---
 

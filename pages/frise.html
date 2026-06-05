@@ -1044,7 +1044,7 @@ const CIV = [
      lignee:'ilthara', from:null, reg:'Onirocratie', events:[
         {y:405,t:'fondation',title:'Citadelles oniriques',desc:'Héritiers des Voix-sous-Bois d\'Ilthara. Constructeurs de mémoire collective (~13 000 av.A). Bibliothèque de 100 000 âmes via le Lien.'},
         {y:500,t:'magie',title:'Tradition draconique',desc:'Le nord d\'Ilthara développe les premiers liens humains-dragons. Pacte de coexistence.'},
-        {y:622,t:'disparition',title:'Le Grand Oubli',desc:'Bibliothèque détruite en une nuit. Dernière Reine-Tisseuse disparaît. Ithalorn s\'effondre. Nysaria se sépare.'},
+        {y:622,t:'disparition',title:'Le Grand Oubli',desc:'Bibliothèque détruite en une nuit. Dernière Reine-Tisseuse disparaît. Ithalorn s\'effondre. La Vytharia onirique se sépare.'},
     ]},
     {name:'Dominat de Pyrion', color:'#e04030', y0:770, y1:812, cont:'Ilthara', dead:true,
      lignee:'ilthara', from:"Songes d'Ithalorn", reg:'Dominat guerrier', events:[
@@ -1261,7 +1261,7 @@ const CIV = [
     {name:"Ligue d'Everthor", color:'#208060', y0:425, y1:720, cont:'Evertia', dead:true,
      lignee:'evertia', from:null, reg:'Ligue maritime', events:[
         {y:440,t:'fondation',title:'Charte maritime',desc:'12 cités côtières. Loi de la mer. Paix commerciale (~11 000 av.A).'},
-        {y:550,t:'exploration',title:'Cartographie mondiale',desc:'Premières cartes fidèles des 13 continents.'},
+        {y:550,t:'exploration',title:'Cartographie mondiale',desc:'Premières cartes fidèles des 12 continents.'},
         {y:720,t:'disparition',title:'Tempête de Lien',desc:'Vague magique submerge les ports principaux. Fin de la Ligue.'},
     ]},
     // ── Civilisations intermédiaires d'Evertia ──
@@ -1307,54 +1307,54 @@ const CIV = [
     ]},
 
     // ═══════════════════════════════════════════════════
-    // LIGNÉE DE NYSARIA — L'île aux masques
+    // LIGNÉE DES VAEL'SOMNIX — Vytharia onirique (Ilthara) + l'île de Nysaria
     // ═══════════════════════════════════════════════════
-    {name:'Nysaria', color:'#404050', y0:622, y1:960, cont:'Nysaria', dead:true,
-     lignee:'nysaria', from:"Songes d'Ithalorn", reg:'Monarchie proto-isolée', events:[
-        {y:700,t:'magie',title:'Indépendance retrouvée',desc:"Se sépare à la chute des Songes d'Ithalorn. L'île se referme sur elle-même."},
-        {y:900,t:'fondation',title:'Proto-Synarchie',desc:"Les traditions oniriques se structurent. Nysaria préfigure sa future Synarchie des Voiles."},
+    {name:'Vytharia onirique', color:'#404050', y0:622, y1:960, cont:'Ilthara', dead:true,
+     lignee:'nysaria', from:"Songes d'Ithalorn", reg:'Onirocratie proto-vytharienne', events:[
+        {y:700,t:'magie',title:'Indépendance retrouvée',desc:"Se sépare à la chute des Songes d'Ithalorn. Le foyer onirique vytharien se referme sur lui-même."},
+        {y:900,t:'fondation',title:'Proto-Synarchie',desc:"Les traditions oniriques se structurent. Vytharia préfigure sa future Synarchie des Voiles."},
     ]},
     // ── Civilisations intermédiaires de Nysaria ──
-    {name:'Synarchie des Voiles', color:'#504858', y0:960, y1:1300, cont:'Nysaria', dead:true,
-     lignee:'nysaria', from:'Nysaria', reg:'Synarchie onirique', events:[
+    {name:'Synarchie des Voiles', color:'#504858', y0:960, y1:1300, cont:'Ilthara', dead:true,
+     lignee:'nysaria', from:'Vytharia onirique', reg:'Synarchie onirique', events:[
         {y:965,t:'fondation',title:'Héritière des traditions oniriques',desc:"La Synarchie préserve la tradition des Songes d'Ithalorn (~800 ap.A). Gouvernance par les rêveurs."},
-        {y:1240,t:'catastrophe',title:'Gel du Voile — épidémie onirique',desc:"Une épidémie onirique frappe Nysaria (~2 400 ap.A). Les rêveurs se perdent dans leurs propres rêves."},
+        {y:1240,t:'catastrophe',title:'Gel du Voile — épidémie onirique',desc:"Une épidémie onirique frappe la Vytharia onirique (~2 400 ap.A). Les rêveurs se perdent dans leurs propres rêves."},
         {y:1300,t:'disparition',title:'Effondrement de la Synarchie',desc:"Le Gel du Voile détruit la Synarchie (~2 400 ap.A). Les Principautés de l'Éveil émergent."},
     ]},
-    {name:"Principautés de l'Éveil Interdit", color:'#604860', y0:1300, y1:1837, cont:'Nysaria', dead:true,
+    {name:"Principautés de l'Éveil Interdit", color:'#604860', y0:1300, y1:1837, cont:'Ilthara', dead:true,
      lignee:'nysaria', from:'Synarchie des Voiles', reg:'Principautés fragmentées', events:[
         {y:1305,t:'fondation',title:'Fragmentées après le Gel du Voile',desc:"Les Principautés émergent dans le chaos post-Synarchie (~2 400 ap.A)."},
         {y:1700,t:'disparition',title:'Inadaptation climatique',desc:"Les Principautés s'éteignent progressivement (~4 800 ap.A). L'Empire Somnambule prend le relais."},
         {y:1837,t:'disparition',title:'Absorption par l\'Empire Somnambule',desc:"Le dernier vestige des Principautés disparaît (~4 800 ap.A)."},
     ]},
-    {name:'Empire Somnambule de Keth-Anur', color:'#504065', y0:1837, y1:2360, cont:'Nysaria', dead:true,
+    {name:'Empire Somnambule de Keth-Anur', color:'#504065', y0:1837, y1:2360, cont:'Ilthara', dead:true,
      lignee:'nysaria', from:"Principautés de l'Éveil Interdit", reg:'Empire onirique de caste', events:[
-        {y:1840,t:'fondation',title:'Domination de Vytharia + Lunasar',desc:"L'Empire Somnambule étend sa domination sur tout Nysaria (~5 200 ap.A). Castes oniriques rigides."},
+        {y:1840,t:'fondation',title:'Domination de Vytharia + Lunasar',desc:"L'Empire Somnambule étend sa domination sur toute la Vytharia onirique (~5 200 ap.A). Castes oniriques rigides."},
         {y:2200,t:'disparition',title:'Dégénérescence de caste',desc:"La caste dominante se perd dans ses propres rêves (~7 800 ap.A). L'Empire se dissout lentement."},
         {y:2360,t:'disparition',title:'Effondrement final',desc:"L'Empire Somnambule s'effondre définitivement (~7 800 ap.A). La Confédération des Rêves Nommés émerge."},
     ]},
-    {name:'Confédération des Rêves Nommés', color:'#403850', y0:2360, y1:2490, cont:'Nysaria', dead:true,
+    {name:'Confédération des Rêves Nommés', color:'#403850', y0:2360, y1:2490, cont:'Ilthara', dead:true,
      lignee:'nysaria', from:'Empire Somnambule de Keth-Anur', reg:'Confédération onirique', events:[
-        {y:2365,t:'fondation',title:'Tout Nysaria — rêves nommés',desc:"Issue de l'effondrement de l'Empire Somnambule (~8 100 ap.A). Pratique de nommer et cataloguer les rêves."},
+        {y:2365,t:'fondation',title:'Toute la Vytharia onirique — rêves nommés',desc:"Issue de l'effondrement de l'Empire Somnambule (~8 100 ap.A). Pratique de nommer et cataloguer les rêves."},
         {y:2490,t:'mystere',title:'Rêve Sans Convocation',desc:"Un rêve collectif non invoqué abolit la Confédération en une nuit (~9 100 ap.A). Origine inconnue."},
     ]},
-    {name:'Vytharia', color:'#7050a0', y0:2490, y1:3100, cont:'Nysaria',
+    {name:'Vytharia', color:'#7050a0', y0:2490, y1:3100, cont:'Ilthara',
      lignee:'nysaria', from:"Confédération des Rêves Nommés", reg:'Oniarchie — 7 Voilés', events:[
         {y:2495,t:'fondation',title:'Voile des Rêves — après le Rêve Sans Convocation',desc:"Issue du Rêve Sans Convocation (~9 100→9 400 ap.A). Vytha régule l'illusion. 7 Voilés maintiennent la frontière rêve/réalité."},
         {y:2995,t:'mystere',title:"3ème langue du Message",desc:'Le Temple de Vytharia interprète comme "murmure entre dimensions" (~10 080 ap.A).'},
     ]},
-    {name:'Mirathi', color:'#604858', y0:2740, y1:3100, cont:'Nysaria',
+    {name:'Mirathi', color:'#604858', y0:2740, y1:3100, cont:'Ilthara',
      lignee:'nysaria', from:"Confédération des Rêves Nommés", reg:'Principauté onirique', events:[
         {y:2745,t:'fondation',title:'Issue de la Confédération',desc:"Mirathi se consolide comme principauté distincte (~9 800 ap.A). Tradition des oracles oniriques."},
         {y:2868,t:'mystere',title:'Visions du Cœur',desc:"Les oracles de Mirathi reçoivent les visions du Cœur de Cendra pulsant."},
     ]},
-    {name:'Lunasar', color:'#504060', y0:2800, y1:3100, cont:'Nysaria',
+    {name:'Lunasar', color:'#504060', y0:2800, y1:3100, cont:'Ilthara',
      lignee:'nysaria', from:"Confédération des Rêves Nommés", reg:'Monarchie lunaire', events:[
-        {y:2805,t:'fondation',title:'Tradition lunaire de Nysaria',desc:"Lunasar hérite de la tradition lunaire de la Confédération (~9 900 ap.A)."},
+        {y:2805,t:'fondation',title:'Tradition lunaire de Vytharia',desc:"Lunasar hérite de la tradition lunaire de la Confédération (~9 900 ap.A)."},
         {y:2900,t:'magie',title:'Cycle des lunes',desc:"Les décisions de Lunasar sont prises selon les cycles lunaires."},
     ]},
     // ── Nysaria moderne — île aux masques ──
-    {name:'Nysaria (Île aux Masques)', color:'#404050', y0:2490, y1:3100, cont:'Nysaria',
+    {name:'Nysaria (Île aux Masques)', color:'#404050', y0:2490, y1:3100, cont:'Celethor',
      lignee:'nysaria', from:"Confédération des Rêves Nommés", reg:'Monarchie isolée', events:[
         {y:2495,t:'fondation',title:'Renaissance post-Rêve',desc:"Nysaria se reconstitue comme entité politique après le Rêve Sans Convocation (~9 100 ap.A). L'île se referme."},
         {y:2600,t:'conquete',title:'Invasion avortée de Mosrack',desc:'40 navires anéantis en une nuit. Aucun survivant. Aucune explication.'},

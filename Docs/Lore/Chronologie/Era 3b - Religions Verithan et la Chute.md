@@ -60,18 +60,18 @@ Elle dirige une pirogue de commerce inter-iles depuis ses 20 ans. A 40 ans, son 
 | **Vael'Kurash** | Theocratie de Celith (~17 500 av.A) | Spiritus · Arborius | Alkaran, Ilthara, Ulinor |
 | **Ignis Aeternum** | Dominat de Pyrevaste (~18 000 av.A) | Eldoria | Cendara, Pyrtara, Myrtam |
 | **Ordo Caelum** | Orivanel (~12 000 av.A) | Celestia | Caeloria, Haldria, Seraphia |
-| **Noctari** | Nysaria (~10 000 av.A) | Noctis | Vytharia, Nysaria, Avalor |
+| **Noctari** | Vytharia / Ilthara (~10 000 av.A) | Noctis | Vytharia, Lunasar, Avalor |
 | **Rota Mundi** | Alkarath (~15 000 av.A) | Tempora · Climata | Sylthara, Ventera, Elarian |
 | **Via Ventus** | Galenor-nord (~8 000 av.A) | Aerion · Navigor | Solena, Tyndara, Lythar |
 | **Lex Petra** | Alkaran (~7 000 av.A) | Terranu · Gravitas · Judicar | Altram, Iskara, Gryndor |
-| **Somnium Vigil** | Nysaria/Baelor (~5 000 av.A) | Somnix | Vytharia, Lumasar, Baelor |
+| **Somnium Vigil** | Vytharia / Ilthara, Baelor (~5 000 av.A) | Somnix | Vytharia, Lumasar, Baelor |
 | **Foedus Animae** | Tribus nomades (~4 000 av.A) | Spiritus (aspect ancestral) | Torkam, Skaldoria, tribus |
 
 **2 religions regionales :**
 
 | Religion | Origine | Entite veneree | Presence principale |
 |----------|---------|----------------|---------------------|
-| **Les Silencieux** *(Taciti)* | Baelor (~5 000 av.A) | Le Silence (rejet du Lien) | Baelor, Nysaria |
+| **Les Silencieux** *(Taciti)* | Baelor (~5 000 av.A) | Le Silence (rejet du Lien) | Baelor, Vytharia |
 | **Cantus Mundi** | Evertia (~6 000 av.A) | Cantor | Thalmaris, Seraphia |
 
 #### Portraits des grandes religions en Ere III tardive (~500 av.A)
@@ -207,12 +207,12 @@ Selon la transmission Verithane, les 8 disciples auraient été choisis par l'É
 - Detail supplementaire : Drakhan etait le plus vieux du Cercle. Sa fille, aussi forgeronne, savait ce qu'il preparait et avait tente de l'en dissuader. Il lui avait dit : "Si tu avais vu ce que j'ai vu en 60 ans de service sous le Lien, tu aurais toi aussi decide que ca ne pouvait plus durer." Sa fille survivra a l'Arrachement et sera parmi les fondatrices d'une guilde de forgerons non-Lies dans les premiers siecles de la Grande Nuit.
 
 **3 — Mirathis** (non-binaire, ~30 ans)
-- Background : erudit de Nysaria, tradition Somnium Vigil (Lien des reves de Somnix). Lie, specialise dans les reves collectifs.
+- Background : erudit de Vytharia (Ilthara), tradition Somnium Vigil (Lien des reves de Somnix). Lie, specialise dans les reves collectifs.
 - Connexion aux Verithani : les reves. Mirathis a commence a avoir des "reves de prediction" de l'Arrachement ~10 ans avant l'An 0 — visions fragmentaires d'un monde sans Lien. Ne savait pas si c'etait une prophecie ou un cauchemar. En cherchant, a trouve les Verithani.
 - Motivation : ambivalente jusqu'au bout. Mirathis n'est pas convaincu(e) que c'est une bonne idee. Mais les reves sont clairs : l'Arrachement arrive, avec ou sans eux. Autant etre present et controler les variables.
 - Role dans le Cercle : garde-fou. C'est Mirathis qui pose les questions que les autres ne posent pas. La presence de Mirathis dans le Cercle est la preuve que l'Etudiant ne cherchait pas des adeptes inconditionnels.
 - Sort apres l'Arrachement : inconnue. Peut-etre la seule personne du Cercle qui avait un plan de sortie.
-- Detail supplementaire : Mirathis avait nomme ses reves predictifs "les Reves-Gris" — ni clairs ni sombres, juste une certitude brumeuse. Dans les archives de Nysaria qui survecurent a l'Arrachement (quelques dizaines de parchemins), on trouve une mention de "l'erudite-grise qui est partie vers le continent en automne, l'an 3 avant la Grande Nuit". Cette mention correspond au voyage de Mirathis vers le Mont Cendra. "La Grande Nuit" est anachronique — c'est comment les archives ont nomme l'Arrachement apres coup. Les habitants de Nysaria savaient apparemment que quelque chose allait se passer — mais pas quoi.
+- Detail supplementaire : Mirathis avait nomme ses reves predictifs "les Reves-Gris" — ni clairs ni sombres, juste une certitude brumeuse. Dans les archives oniriques de Vytharia qui survecurent a l'Arrachement (quelques dizaines de parchemins), on trouve une mention de "l'erudite-grise qui est partie vers le continent en automne, l'an 3 avant la Grande Nuit" — partie, depuis la cote vytharienne d'Ilthara, vers le continent ou se dresse le Mont Cendra. Cette mention correspond au voyage de Mirathis. "La Grande Nuit" est anachronique — c'est comment les archives ont nomme l'Arrachement apres coup. Les Songeurs de Vytharia savaient apparemment que quelque chose allait se passer — mais pas quoi.
 
 **4 — Vorath le Tacite** (homme, ~50 ans)
 - Background : pretre des Silencieux (Taciti) de Baelor. Non-Lie convaincu — rejette le Lien par philosophie religieuse, pas par incapacite.

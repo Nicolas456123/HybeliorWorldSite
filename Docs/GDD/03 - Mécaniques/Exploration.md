@@ -85,7 +85,7 @@ L'exploration n'est jamais la même deux Ères de suite — elle prend la couleu
 
 > *« On ne traverse pas Cestra en Ère du Crépuscule comme on la traverse en Ère du Sommeil de Glace. La carte est la même. Le monde, non. »*
 >
-> *— Ilyn Nomade, marcheuse des Treize*
+> *— Ilyn Nomade, marcheuse des Douze*
 
 Cette colorisation rend l'exploration **non répétable**. Tu peux retourner cent fois dans une vallée que tu connais ; pour peu qu'une Ère ait passé, ce sera une vallée nouvelle. Le voyageur d'Hybelior ne s'use pas du monde, parce que le monde se renouvelle plus vite que sa lassitude.
 

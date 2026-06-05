@@ -10,7 +10,7 @@ needs_review_for: []
 > *« Ne crois jamais ce que tu vois. Crois ce que tu rêves. »*
 > — Proverbe de Vytharia, cité partout, compris nulle part
 
-**Nysaria — Vytharia et Lunasar — Jour 770**
+**Ilthara — Vytharia et Lunasar — Jour 770**
 
 ---
 
@@ -20,7 +20,7 @@ Je le savais de façon abstraite avant d'y arriver — les marchands qui passent
 
 Je n'avais plus de catégories de ce type depuis longtemps.
 
-Lunasar occupe le coin nord-ouest du continent de Nysaria, séparé de l'île elle-même par un bras de mer qui porte un nom que les navigateurs ont du mal à prononcer dans sa version originale. J'y arrivai depuis la côte, deux semaines après avoir quitté Nysaria, après un transit par Nectoria où je ne m'arrêtai que le temps de changer de navire. Mon corps portait encore le décalage temporel de l'île — cette façon qu'avait Nysaria de dissoudre les frontières entre veille et sommeil, qui persistait pendant les jours suivant le départ comme une image rémanente après avoir regardé une lumière trop vive.
+Lunasar occupe un repli côtier au nord de Vytharia, sur la rive d'Ilthara, à bonne distance de la petite île de Nysaria que j'avais quittée — une province lunaire de la nation vytharienne, tournée vers la mer par un bras d'eau qui porte un nom que les navigateurs ont du mal à prononcer dans sa version originale. J'y arrivai depuis la côte, deux semaines après avoir quitté Nysaria, après un transit par Nectoria où je ne m'arrêtai que le temps de changer de navire. Mon corps portait encore le décalage temporel de l'île — cette façon qu'avait Nysaria de dissoudre les frontières entre veille et sommeil, qui persistait pendant les jours suivant le départ comme une image rémanente après avoir regardé une lumière trop vive.
 
 L'amulette de pierre noire était à mon cou. Elle avait cessé de pulser pendant la traversée vers Nectoria — ou plutôt sa pulsation s'était faite plus discrète, moins perceptible, comme un son qui s'éloigne et ne disparaît pas mais cesse d'être au premier plan. Je la gardai. Je la garderai jusqu'à ce que je comprenne ce que cela signifie, de la porter.
 

@@ -115,7 +115,7 @@ Les Etheres sont souvent decrits comme des "dieux mineurs" dans les traditions r
 | 22 | **Sablune** | Aridan x Aquor | Tempetes de sable, erosion eolienne | Franges des deserts (futur Galenor, Azoria) |
 | 23 | **Selvara** | Arborius x Spiritus | Forets conscientes, esprit des lieux naturels | Forets primordiales les plus anciennes (futur Ulinor) |
 | 24 | **Mortivel** | Transitum x Terranu | Terres mortes, sols steriles, friches eternelles | Zones post-volcaniques (futur Endora sud) |
-| 25 | **Harmonex** | Cantor x Aerion | Sons du vent, musiques naturelles, resonances | Gorges, canyons, vallees (futur Nysaria) |
+| 25 | **Harmonex** | Cantor x Aerion | Sons du vent, musiques naturelles, resonances | Gorges et grottes acoustiques (future île de Nysaria, au large de Celethor) |
 
 ---
 
@@ -172,10 +172,10 @@ Les Etheres sont souvent decrits comme des "dieux mineurs" dans les traditions r
 - *Abyssus vs Thalossa :* La relation entre Thalossa (Aquor x Gravitas — les grandes profondeurs) et Abyssus (Noctis x Aquor — l'obscurite des fonds) est l'une des plus complexes du monde Ethere. Ils partagent le meme territoire mais des natures differentes. Thalossa est la profondeur physique, Abyssus est l'absence de lumiere. Dans les endroits les plus profonds, les deux coexistent — et les mortels qui y descendent (au moyen du Lien, dans de rares cas en Ere III) rapportent une sensation d'etre dans "deux endroits a la fois".
 
 **Harmonex** *(Cantor x Aerion)*
-- *Territoire :* Les gorges et canyons de Nysaria. Ce territoire est choisi a cause de son acoustique naturelle unique — creee par les fractures de la Fracture 2 du Panghor.
-- *Personnalite :* Harmonex est le Ethere le plus "accessible" artistiquement. Il repond aux sons que les mortels produisent — pas toujours de la facon attendue, mais toujours en accord. Les musiciens de Nysaria jouent dans les gorges et Harmonex *joue en retour*, ajoutant des harmoniques, des contre-melodies, des echos qui n'existent pas sans lui.
+- *Territoire :* Les gorges et grottes acoustiques de l'île de Nysaria, petite île au large de la côte est de Celethor. Ce territoire est choisi a cause de son acoustique naturelle unique — creee par les fractures qui ont detache et faconne l'île lors de l'eclatement du Panghor.
+- *Personnalite :* Harmonex est le Ethere le plus "accessible" artistiquement. Il repond aux sons que les mortels produisent — pas toujours de la facon attendue, mais toujours en accord. Les musiciens qui abordent l'île de Nysaria jouent dans ses gorges et Harmonex *joue en retour*, ajoutant des harmoniques, des contre-melodies, des echos qui n'existent pas sans lui.
 - *Son lien avec Cantor silencieux :* Depuis le silence de Cantor (~500 ap.A), Harmonex continue de repondre aux mortels — mais les musicologues de l'Ere VII notent que ses reponses sont plus *tristes*, plus *basses*, moins inventives. Comme s'il esperait encore que Cantor revienne et que cette attente ait change son jeu.
-- *Les festivals de Nysaria :* Le Grand Festival du Son (tenu tous les ans a Nysaria depuis l'Ere VI) est une celebration de Harmonex. Des musiciens de tous les 13 continents viennent y jouer. La tradition dit que si un jour un musicien parvient a jouer une melodie assez belle, Harmonex la transmettra a Cantor — et Cantor reprendra son chant. Personne n'a reussi encore.
+- *Les festivals de Nysaria :* Le Grand Festival du Son (tenu tous les ans sur l'île de Nysaria depuis l'Ere VI) est une celebration de Harmonex. Des musiciens des douze continents viennent y jouer, malgre l'acces difficile a cette île souvent prise dans les brumes. La tradition dit que si un jour un musicien parvient a jouer une melodie assez belle, Harmonex la transmettra a Cantor — et Cantor reprendra son chant. Personne n'a reussi encore.
 
 ---
 
@@ -185,7 +185,7 @@ A cette epoque, **un seul continent** : le **Panghor** — masse terrestre gigan
 
 #### L'Aspect du Panghor avant la Fracture
 
-Imaginer le Panghor est un exercice de reconstruction : aucun mortel ne l'a vu entier, car la Fracture a commence avant l'Ere des Mortels. Les reconstitutions des theologiens et geologues de l'Ere III et VI, basees sur les structures geologiques des 13 continents, donnent une image approximative :
+Imaginer le Panghor est un exercice de reconstruction : aucun mortel ne l'a vu entier, car la Fracture a commence avant l'Ere des Mortels. Les reconstitutions des theologiens et geologues de l'Ere III et VI, basees sur les structures geologiques des 12 continents, donnent une image approximative :
 
 **Dimensions :** Le Panghor couvrait environ 70% de la surface du globe. L'ocean qui l'entourait etait unique (l'"Ocean Sans Nom" dans les textes anciens, parfois appele l'"Ocean Premier"). Cet ocean etait moins profond que les oceans actuels — la croute oceanique n'avait pas encore subi l'erosion de millions d'annees.
 
@@ -214,7 +214,8 @@ Les 45 Éthérés, en s'installant chacun dans leur zone, créent des tensions g
 **Fracture 2 — L'Eclatement**
 - Panghor Nord → 5 masses : futurs Alkaran, Celethor, Galenor, Ilthara, Cestra
 - Panghor Sud → 4 masses : futurs Onara, Endora, Azoria, bloc Cendara+Evertia
-- 3 fragments isoles entre les deux : futurs Baelor, Nysaria, Ulinor
+- 2 grands fragments isoles entre les deux : futurs Baelor et Ulinor
+- Un eclat mineur se detache de la cote est de Celethor : la future petite île de Nysaria, restee dans les eaux celethoriennes
 
 **Fracture 3 — Les Details**
 - Cendara se separe d'Evertia (eruptions volcaniques brisent le pont terrestre, fragmentant Cendara en archipel volcanique)
@@ -251,7 +252,7 @@ Les 45 Éthérés, en s'installant chacun dans leur zone, créent des tensions g
   - **Thalossa** au contraire prospere : l'Ocean Primordial qui se cree entre les deux masses est son nouveau territoire. Elle s'y installe immediatement.
   - **Tempestal** trouve dans l'Ocean Primordial un nouveau theatre d'operation — les tempetes entre les deux masses deviennent les plus violentes du monde.
 - **Duree de la separation active :** ~500 000 ans pour que l'ocean soit pleinement forme et les deux masses clairement separees.
-- **Consequences geologiques :** La chaine de volcans centrale devient un fond marin. Plusieurs volcans emergent comme iles (futurs Baelor, Nysaria, Ulinor — fragments isoles entre les deux masses).
+- **Consequences geologiques :** La chaine de volcans centrale devient un fond marin. Plusieurs volcans emergent comme iles (futurs Baelor et Ulinor — grands fragments isoles entre les deux masses ; la petite Nysaria, elle, restera accrochee aux eaux de Celethor).
 - **Ce que les traditions disent des Cosmiques à ce moment :** les chroniques cendariennes rapportent que Terranu aurait perçu cette fracture comme une plaie, *Flamara* (figure rumorale, cf. note) comme une libération. Les Vael'Kurash et les Lex Petra disent qu'Arborius perd des forêts entières englouties dans la mer naissante. Cantor noterait la disparition de centaines d'espèces dans les zones fracturées — ses premières grandes pertes. *Ces propositions reflètent les lectures théologiques propres à chaque tradition ; elles ne décrivent pas un état émotionnel directement observé.*
 
 ---
@@ -279,11 +280,12 @@ Les 45 Éthérés, en s'installant chacun dans leur zone, créent des tensions g
   - **Silthor** (Aquor x Terranu) marque les embouchures fluviales qui se creent — la future Onara, zone de deltas, est son oeuvre directe.
 - **Evenement majeur : L'Isolement de Cendara/Evertia**
   - Cendara et Evertia restent momentanément unies (bloc Cendara+Evertia), mais leur position adjacente au Mont Originel les soumet aux forces volcaniques (que les théologies cendariennes attribuent à *Flamara* et Embrasur) — une isolation progressive par éruptions.
-- **Fragments intermediaires (Baelor, Nysaria, Ulinor) :**
-  - Ces trois masses sont les restes de la chaine volcanique centrale qui existait au moment du Grand Schisme. Elles ne "bougent" pas beaucoup — elles sont deja au milieu de l'Ocean Primordial.
-  - Harmonex (Cantor x Aerion) s'installe dans les gorges de Nysaria — les canyons crees par les fractures creent une acoustique unique.
+- **Fragments isoles (Baelor, Ulinor) et l'eclat de Nysaria :**
+  - Baelor et Ulinor sont les restes des grands tronçons de la chaine volcanique centrale qui existait au moment du Grand Schisme. Ces deux masses ne "bougent" pas beaucoup — elles sont deja au milieu de l'Ocean Primordial.
+  - Un eclat bien plus modeste se detache de la cote est de Celethor : la future île de Nysaria. Restee dans les eaux celethoriennes, souvent enveloppee de brumes, elle conserve les gorges et grottes faconnees par les fractures.
+  - Harmonex (Cantor x Aerion) s'installe dans ces gorges acoustiques de l'île de Nysaria — les failles creees par les fractures y creent une acoustique unique.
   - Selvara (Arborius x Spiritus) choisit Ulinor — la foret primordiale qui pousse sur ce fragment isole est la plus dense, la plus consciente du monde.
-  - Baelor, le troisieme fragment, reste sans Ethere dominant — une anomalie qui explique peut-etre pourquoi le peuple de Baelor (Ere II-III) developpe une culture de l'independance vis-a-vis des forces cosmiques, une tradition d'autosuffisance spirituelle unique dans le monde.
+  - Baelor, le second grand fragment, reste sans Ethere dominant — une anomalie qui explique peut-etre pourquoi le peuple de Baelor (Ere II-III) developpe une culture de l'independance vis-a-vis des forces cosmiques, une tradition d'autosuffisance spirituelle unique dans le monde.
 
 ---
 
@@ -307,7 +309,7 @@ Les 45 Éthérés, en s'installant chacun dans leur zone, créent des tensions g
 - Azoria (futur archipel) se fragmente en centaines d'iles sous l'action combinee de Coralix (croissance des recifs, elevation du fond marin) et de Marevane (marees qui rongent les cotes).
 - Les Gens de l'Eau (futurs premiers mortels, Ere II) naitront precisement ici — pousses a nager, naviguer, s'adapter a cet archipel impraticable a pied.
 - **Consequence tardive :** Certaines iles d'Azoria reposent sur des hauts-fonds qui etaient des plaines du Panghor Sud. Les ruines de l'epoque panghorienne sont immergees sous quelques metres d'eau — accessibles aux plongeurs, pas aux fouilleurs terrestres.
-- **Coralix et la biodiversite marine :** La fragmentation d'Azoria est la plus grande opportunite que Coralix ait jamais eue. Des milliers de kilometres de cotes nouvelles, des hauts-fonds parfaitement ensoleilles, des temperatures optimales — il cree les recifs les plus complexes du monde. La biodiversite marine d'Azoria en Ere VII est encore la plus elevee de tous les 13 continents, heritiage direct de cet episode de la Fracture.
+- **Coralix et la biodiversite marine :** La fragmentation d'Azoria est la plus grande opportunite que Coralix ait jamais eue. Des milliers de kilometres de cotes nouvelles, des hauts-fonds parfaitement ensoleilles, des temperatures optimales — il cree les recifs les plus complexes du monde. La biodiversite marine d'Azoria en Ere VII est encore la plus elevee des douze continents, heritiage direct de cet episode de la Fracture.
 
 ---
 
@@ -315,7 +317,7 @@ Les 45 Éthérés, en s'installant chacun dans leur zone, créent des tensions g
 
 | Element | Avant la Fracture | Apres la Fracture |
 |---------|------------------|------------------|
-| Topographie | 1 supercontinent + 1 ocean | 13 continents/archipels + plusieurs oceans |
+| Topographie | 1 supercontinent + 1 ocean | 12 continents/archipels (+ îles notables dont Nysaria) + plusieurs oceans |
 | Energie cosmique | Axe Mont Originel ↔ Mont Jumeau | Axe brise, Trame moins tendue |
 | Etheres | Domaines fluides, influences qui se chevauchent | Territoires definis par les coupures geologiques |
 | Climat | Uniformement chaud au centre | Zones climatiques distinctes (polaire, tempere, tropical) |
@@ -341,8 +343,8 @@ Les 45 Éthérés, en s'installant chacun dans leur zone, créent des tensions g
 | Tension Silencieuse | 5-10 millions d'annees | Lignes de faille se creusent, volcans centraux emergent |
 | Fracture 1 (Grand Schisme) | ~500 000 ans | Panghor Nord / Sud separes par l'Ocean Primordial |
 | Fracture 2A (Bris du Nord) | ~3 millions d'annees | Alkaran, Celethor, Galenor, Ilthara, Cestra separes |
-| Fracture 2B (Bris du Sud) | ~3 millions d'annees | Onara, Endora, Azoria, Cendara+Evertia separes ; Baelor, Nysaria, Ulinor isoles |
+| Fracture 2B (Bris du Sud) | ~3 millions d'annees | Onara, Endora, Azoria, Cendara+Evertia separes ; Baelor et Ulinor isoles ; Nysaria detachee en petite île de Celethor |
 | Fracture 3A (Cendara/Evertia) | ~20 000 ans | Cendara fragmentee en archipel ; Evertia isolee |
 | Fracture 3B (Exil de Cestra) | ~500 000 ans | Cestra derive vers le pole nord, Mont Jumeau recouvert |
 | Fracture 3C (Azoria) | ~1 million d'annees | Archipel d'Azoria completement fragmente |
-| Stabilisation | jusqu'a ~45 000 av.A | 13 continents stables — l'Ere des Mortels peut commencer |
+| Stabilisation | jusqu'a ~45 000 av.A | 12 continents stables (+ îles notables dont Nysaria) — l'Ere des Mortels peut commencer |

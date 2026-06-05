@@ -206,7 +206,7 @@ Disponibilité par ère active : voir [[Cuirasse#7. Variants cosmiques (10 par �
 - **Capuche druidique d'Onara** (Tissu T5 Verdoyant, **Onara**) — *« Tissée à la frontière des trois forêts. »* Affixe : +2 régen Mana/s en zone naturelle.
 - **Casque hoplique d'Astravia** (Mailles T4, **Astravia**) — *« Crête de la garde de la Tour-Mère. »* Affixe : +25 % aggro · +5 % parade tenue.
 
-> [!todo] Phase 4 : étoffer 2-3 par grand pays × 13 continents.
+> [!todo] Phase 4 : étoffer 2-3 par grand pays × 12 continents.
 
 ---
 

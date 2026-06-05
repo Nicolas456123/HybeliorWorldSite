@@ -148,7 +148,7 @@ Disponibilité par ère : [[Cuirasse]].
 - **Mitaines du Maître-Brodeur** (Tissu T4, **Onara**) — *« Cousues par le Maître-Brodeur lui-même. »* Affixe : +15 % précision craft Tissage · −10 % temps cast.
 - **Gants du Voleur de Galenor** (Cuir T6 Shadow, **Galenor**) — Affixe : +30 % crochetage · invisibilité 2 s sur pickpocket réussi.
 
-> [!todo] Phase 4 : 2-3 par grand pays × 13 continents.
+> [!todo] Phase 4 : 2-3 par grand pays × 12 continents.
 
 ---
 

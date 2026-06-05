@@ -151,7 +151,7 @@ Disponibilité par ère : [[Cuirasse]].
 - **Chausses druidiques d'Onara** (Tissu T5 Verdoyant, **Onara**) — Affixe : +15 % mvt forêt · 1 régen HP/s en zone naturelle.
 - **Bottes de la Veuve** (Cuir T5 Doré, **Galenor**) — Affixe : pas qui guérit · +5 % efficacité soins par seconde de marche.
 
-> [!todo] Phase 4 : 2-3 par grand pays × 13 continents.
+> [!todo] Phase 4 : 2-3 par grand pays × 12 continents.
 
 ---
 

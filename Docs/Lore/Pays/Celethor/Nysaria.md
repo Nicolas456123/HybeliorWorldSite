@@ -1,9 +1,10 @@
 ---
-tags: [lore, pays, nysaria]
+tags: [lore, pays, nysaria, celethor]
 type: lore
 status: drafted
-last_review: 2026-05-06
+last_review: 2026-06-05
 needs_review_for: []
+Continent: Celethor
 ---
 # Nysaria — L'Île aux Masques
 
@@ -11,8 +12,8 @@ needs_review_for: []
 
 | | |
 |---|---|
-| **Localisation** | Île-nation au sud du continent Nysaria |
-| **Numéro** | 14 |
+| **Localisation** | Petite île au large de la côte est du continent [[Celethor]] |
+| **Type** | Île notable (l'Île aux Masques) — pas un continent |
 | **Gouvernement** | Monarchie sans voix — Roi Sans Voix et Cercle des Masques |
 | **Religion principale** | [[Noctari]] (variante locale, peut-être divergente) |
 | **Religion secondaire** | [[Taciti]] (présence diffuse, non documentée localement) |
@@ -60,7 +61,7 @@ Les sources extérieures au sujet du gouvernement de Nysaria sont fragmentaires.
 
 ### Le Roi Sans Voix
 
-Souverain dont les fragments rapportent qu'il *communique par gestes rituels plutôt que par paroles*. L'expression « Roi Sans Voix » n'est pas le titre lunarien ni vytharen — c'est la traduction qu'en donnent les érudits thalmariens, faute de mieux. La fonction réelle, dans la mesure où on la comprend, ne se limite pas à un mutisme : le Roi paraît ne pas porter de masque (singularité dans une cour qui n'en porte que), et son règne n'est pas mesuré en années solaires mais selon une métrique propre à l'île dont les visiteurs n'ont pas pu déchiffrer l'unité.
+Souverain dont les fragments rapportent qu'il *communique par gestes rituels plutôt que par paroles*. L'expression « Roi Sans Voix » n'est pas un titre nysarien attesté — c'est la traduction qu'en donnent les érudits thalmariens, faute de mieux. La fonction réelle, dans la mesure où on la comprend, ne se limite pas à un mutisme : le Roi paraît ne pas porter de masque (singularité dans une cour qui n'en porte que), et son règne n'est pas mesuré en années solaires mais selon une métrique propre à l'île dont les visiteurs n'ont pas pu déchiffrer l'unité.
 
 Selon la marge d'un cahier de cartographe (an 252), le Roi Sans Voix possède *la peau de la pierre noire de Nysoris* — formulation qui peut être prise au sens littéral (un trait corporel anormal) ou métaphorique (une densité de présence singulière). La marge ne tranche pas. La fiche n'a pas vocation à le faire à sa place.
 
@@ -153,9 +154,7 @@ Plusieurs visiteurs rapportent une *vibration* ou *respiration* perceptible à N
 |------|----------|---------|
 | **Tyndara** | Terreur résiduelle | Après l'Invasion Avortée, Tyndara a interdit à ses navires d'approcher Nysaria à moins de vingt lieues. Les marins tyndariens considèrent l'île comme maudite. |
 | **Mosrack** | Frustration | Le Directoire n'a pas oublié la perte de vingt navires. Des plans d'une seconde invasion existent dans les archives secrètes, mais personne n'ose les proposer. |
-| **Lunasar** | Reconnaissance silencieuse | Lunasar tient la consigne tacite de ne pas s'approcher. Les pêcheurs apatrides remettent les objets nysariens trouvés en filets aux Veilleurs de lune sans publication. |
-| **Mirathi** | Inconnue | Aucune relation diplomatique documentée. Les échanges entre la troisième langue (probablement nysarienne) et les milieux érudits mirathiens passent par des copies, jamais par des envoyés. |
-| **Vytharia** | Filiation cultuelle indirecte | Le Noctari vytharien serait, selon une lecture, *une diffusion vers le nord* du culte nysarien plus ancien. Les sanctuaires vytharo-nysariens partagés n'existent pas — seuls les *écrits* circulent, et avec parcimonie. |
+| **[[Vytharia]]** (Ilthara) | Filiation cultuelle indirecte | Le [[Noctari]] vytharien serait, selon une lecture, *une diffusion lointaine* du culte nysarien plus ancien. Aucun sanctuaire partagé n'existe — seuls les *écrits* circulent, et avec parcimonie. Les provinces vythariennes de [[Lunasar]] et [[Mirathi]] tiennent la consigne tacite de ne pas s'approcher de l'île ; les objets nysariens trouvés en filets y sont remis aux autorités sans publication. |
 | **Baelor** | Curiosité partagée | Les moines de Baelor et les Nysariens partagent la tradition Taciti à travers des canaux non documentés. Des rumeurs persistantes parlent d'un masque de pierre sombre, conservé dans un monastère baelorien, dont la facture rappelle ceux du Cercle. |
 | **Thalmaris** | Fascination académique | Les bardes de Thalmaris ont composé des centaines de chansons sur Nysaria. L'île est la plus grande source d'inspiration — et de frustration — du monde artistique. |
 

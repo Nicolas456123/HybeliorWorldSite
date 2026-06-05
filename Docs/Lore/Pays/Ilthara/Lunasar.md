@@ -1,5 +1,5 @@
 ---
-tags: [lore, pays, nysaria, lunasar]
+tags: [lore, pays, ilthara, vytharia, lunasar]
 type: lore
 status: drafted
 last_review: 2026-05-06
@@ -11,7 +11,8 @@ needs_review_for: []
 
 | | |
 |---|---|
-| **Continent** | [[Nysaria - Continent]] |
+| **Continent** | [[Ilthara - Continent\|Ilthara]] |
+| **Rattachement** | Province côtière de [[Vytharia]] |
 | **Gouvernement** | Monarchie lunaire — Assemblée de pleine lune, Veilleurs de lune permanents |
 | **Religion principale** | [[Somnium Vigil]] (forme institutionnellement intégrée au calendrier lunaire) |
 | **Religion secondaire** | Cultes domestiques lunariens (sans clergé organisé) |
@@ -23,7 +24,7 @@ needs_review_for: []
 
 ## Géographie et démographie
 
-Lunasar occupe le coin **nord-ouest** du continent Nysaria, séparé de l'île de Nysaria proprement dite par un bras de mer (le **détroit de Lunaris**) que les conventions locales interdisent de traverser pendant la nouvelle lune. Le pays s'étend sur environ deux cents lieues de côtes basses, avec un arrière-pays de plaines de Velharon et de collines basses qui montent vers l'arête vytharo-mirathienne.
+Lunasar occupe un segment de la **côte orientale de Vytharia**, sur le continent d'Ilthara, là où les estuaires lunaires s'ouvrent sur la mer. C'est la province la plus côtière du domaine vytharien, séparée de la haute-Vytharia par un cordon de marais et de bras de mer — dont le **détroit de Lunaris** — que les conventions locales interdisent de traverser pendant la nouvelle lune. Le pays s'étend sur environ deux cents lieues de côtes basses, avec un arrière-pays de plaines de Velharon et de collines basses qui montent vers l'arête vytharo-mirathienne, trait intérieur qui relie Lunasar au plateau de Mirathi, l'autre province côtière de Vytharia.
 
 Climat tempéré-froid, vents marins constants, ciel souvent dégagé la nuit (qualité prisée pour les observations lunaires).
 
@@ -48,7 +49,7 @@ Les **Hauts-Estuaires** méritent une mention : population nettement métissée,
 
 Les chroniques lunariennes datent leur fondation avec une précision qui surprend les chroniqueurs continentaux : **le 14e jour du 9e cycle après la Grande Convergence**, soit environ l'an 3 970 ap.A. Cette précision tient à la qualité du registre — les fondateurs comptaient déjà en cycles lunaires.
 
-Trois cents personnes — des **dissidents vythariens** qui n'acceptaient ni le rite Noctari ni le schisme somnique en cours — quittèrent Vytharia-cité et descendirent vers le sud-ouest jusqu'à la côte. Ils s'établirent sur le replat où Lunaris s'élève aujourd'hui, choisi pour deux raisons : la qualité de la nuit (ciel dégagé, pas de pollution lumineuse, vue dégagée vers l'horizon est et ouest) et la **régularité des marées du détroit**, qui permettait des mesures stables.
+Trois cents personnes — des **dissidents vythariens** qui n'acceptaient ni le rite Noctari ni le schisme somnique en cours — quittèrent l'intérieur vytharien et gagnèrent la côte orientale. Ils s'établirent sur le replat où Lunaris s'élève aujourd'hui, choisi pour deux raisons : la qualité de la nuit (ciel dégagé, pas de pollution lumineuse, vue dégagée sur l'horizon marin) et la **régularité des marées du détroit**, qui permettait des mesures stables.
 
 Ces fondateurs ne se présentaient pas comme des religieux. Ils étaient, selon leur propre formulation reprise dans leurs chroniques, *des observateurs*. Ils voulaient vérifier une intuition : les décisions prises à certains moments du cycle lunaire avaient peut-être des effets différents de celles prises à d'autres.
 
@@ -81,9 +82,9 @@ Cette codification est aujourd'hui tellement intégrée à la vie ordinaire qu'a
 
 Trois cas documentés dans les marges du registre des Veilleurs, au cours des trente dernières années solaires :
 
-- **Aldric Valthen** (an 222 environ) — cartographe galenorien d'Evertia. Arrivé depuis le sud (direction Nysaria). Portait une **amulette de pierre noire**. Resté quatre nuits. A rencontré Solvanes. A laissé un parchemin scellé avant de repartir vers le nord.
-- **Cartographe ulinorien anonyme** (an 244) — arrivé depuis le sud également. Amulette comparable à celle d'Aldric. Resté trois nuits. Aucun document laissé. Repartit vers Vytharia, puis traces perdues.
-- **Sorin Valthen** (an 252) — fils d'Aldric, cartographe galenorien revenu via Nysaria. Mêmes amulette. Reste cinq nuits. Reçoit le parchemin de son père laissé trente ans plus tôt par Solvanes. Repart vers Baelor.
+- **Aldric Valthen** (an 222 environ) — cartographe galenorien d'Evertia. Arrivé par la mer, depuis le large. Portait une **amulette de pierre noire**. Resté quatre nuits. A rencontré Solvanes. A laissé un parchemin scellé avant de repartir vers le nord.
+- **Cartographe ulinorien anonyme** (an 244) — arrivé par la mer également. Amulette comparable à celle d'Aldric. Resté trois nuits. Aucun document laissé. Repartit vers la haute-Vytharia, puis traces perdues.
+- **Sorin Valthen** (an 252) — fils d'Aldric, cartographe galenorien revenu par la côte vytharienne. Mêmes amulette. Reste cinq nuits. Reçoit le parchemin de son père laissé trente ans plus tôt par Solvanes. Repart vers Baelor.
 
 Ces trois cas figurent dans les marges, jamais dans les registres officiels. Solvanes — Veilleur de lune retraité depuis longtemps mais resté influent — est le **dépositaire de mémoire** de cette série. À sa mort, qu'on attend depuis quatre ans (il a nonante-deux ans cycles), ce dépôt se dispersera. Les Veilleurs actuels ne tiennent pas registre des amulettes ; aucune institution lunarienne ne traite officiellement le sujet.
 
@@ -170,7 +171,7 @@ Centre de la plaine agricole. Élevage ovin, blé, fruits secs. Marché bimensue
 
 ### Hauts-Estuaires (population dispersée, ~2 000)
 
-Hameaux de pêcheurs sur les estuaires nord-ouest. Population métissée — beaucoup de pêcheurs apatrides ou ayant rompu avec leur nation d'origine. Les filets remontent parfois des objets nysariens (amulettes, statuettes, flacons luminescents). Ces objets sont remis aux Veilleurs locaux par convention tacite, sans publication. Les pêcheurs des Hauts-Estuaires, souvent classés *Visiteurs permanents*, sont les Lunariens les moins lunariens — beaucoup ne tiennent pas de journal de rêves, beaucoup ne respectent pas la fermeture de la nouvelle lune. Aucune Assemblée n'a sévi.
+Hameaux de pêcheurs sur les estuaires nord-ouest. Population métissée — beaucoup de pêcheurs apatrides ou ayant rompu avec leur nation d'origine. Les filets remontent parfois des objets anciens d'origine indéterminée (amulettes de pierre noire, statuettes, flacons luminescents), que la tradition locale rattache au vieux fond onirique vytharien. Ces objets sont remis aux Veilleurs locaux par convention tacite, sans publication. Les pêcheurs des Hauts-Estuaires, souvent classés *Visiteurs permanents*, sont les Lunariens les moins lunariens — beaucoup ne tiennent pas de journal de rêves, beaucoup ne respectent pas la fermeture de la nouvelle lune. Aucune Assemblée n'a sévi.
 
 ### Mirhand-Bourg (Routes vers Mirathi, ~1 800)
 
@@ -202,9 +203,8 @@ Vieille femme dont le nom n'est pas mentionné dans les récits accessibles aux 
 
 | Pays | Relation | Détails |
 |------|----------|---------|
-| **Vytharia** | Stable | Échanges d'astronomes et de musiciens. Pas d'alliance militaire. |
-| **Mirathi** | Indifférence cordiale | Les Lunariens jugent la pratique oraculaire intéressante mais incompatible avec leur calendrier. |
-| **Nysaria-île** | Consigne tacite de non-approche | Les pêcheurs apatrides remettent les objets nysariens aux Veilleurs sans publication. |
+| **[[Vytharia]]** (parent) | Tutelle souple | Lunasar est province côtière de Vytharia ; large autonomie de gouvernance lunaire, échanges d'astronomes et de musiciens, pas de garnison vytharienne permanente. |
+| **[[Mirathi]]** (province sœur) | Indifférence cordiale | Autre province côtière de Vytharia. Les Lunariens jugent la pratique oraculaire mirathienne intéressante mais incompatible avec leur calendrier. |
 | **Tyndara** | Commercial | Marchands tyndariens sur les marchés de Sondaris. Consultations de rêve commercial. |
 | **Galenor (Lumasar)** | Échange académique | Lecteurs de rêves formés à Lumasar reviennent appliquer une méthode plus systématique — querelle interne. |
 | **Endora (Haldria)** | Échange astronomique | Correspondance régulière entre les observatoires lunariens et haldriens. Les étoiles décalées de Haldria sont sujet de débat à Lunaris. |

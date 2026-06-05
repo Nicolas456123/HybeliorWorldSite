@@ -1,5 +1,5 @@
 ---
-tags: [lore, pays, nysaria, mirathi]
+tags: [lore, pays, ilthara, vytharia, mirathi]
 type: lore
 status: drafted
 last_review: 2026-05-06
@@ -11,7 +11,7 @@ needs_review_for: []
 
 | | |
 |---|---|
-| **Continent** | [[Nysaria - Continent]] |
+| **Continent** | Ilthara (province-sanctuaire de [[Vytharia]]) |
 | **Gouvernement** | Sanctuaire — gouvernance par le collège des Oracles, conseil civil consultatif |
 | **Religion principale** | Pratique oraculaire mirathienne (sans nom propre, parfois rattachée par les chroniqueurs au [[Somnium Vigil]] sans que la doctrine ne s'y reconnaisse) |
 | **Religion secondaire** | [[Taciti]] — école du Premier Voile (ermitages de Tholmë-en-haut et Vrenith) |
@@ -23,7 +23,7 @@ needs_review_for: []
 
 ## Géographie et démographie
 
-Mirathi occupe le **plateau de Vrenith**, hauts pâturages calcaires au centre du continent Nysaria, séparés de la steppe vytharienne par l'arête vytharo-mirathienne. Climat sec et venteux, étés courts, hivers tempérés mais rudes, neige rare mais durable. La pierre du plateau est un calcaire très blanc qui prend le rose à l'aube et le gris au crépuscule — qualité que les rares peintres mirathiens (issus du milieu Taciti) ont peinte sans pouvoir la reproduire ailleurs.
+Mirathi occupe le **plateau de Vrenith**, hauts pâturages calcaires de l'arrière-pays vytharien, replat d'altitude au sein de [[Vytharia]] (continent [[Ilthara - Continent|Ilthara]]), séparé de la steppe vytharienne par l'arête vytharo-mirathienne — trait interne au relief de Vytharia. Climat sec et venteux, étés courts, hivers tempérés mais rudes, neige rare mais durable. La pierre du plateau est un calcaire très blanc qui prend le rose à l'aube et le gris au crépuscule — qualité que les rares peintres mirathiens (issus du milieu Taciti) ont peinte sans pouvoir la reproduire ailleurs.
 
 Trois établissements seulement :
 
@@ -39,7 +39,7 @@ Aux marges : quelques **hameaux de bergers** (cinq ou six au plus) qui fournisse
 
 ### Avant le Sanctuaire
 
-Le plateau de Vrenith est habité depuis longtemps — les hameaux de bergers attestent une présence pastorale qu'aucune chronique ne date avec précision. Aucune ruine pré-Arrachement n'a été identifiée, ce qui distingue Mirathi des autres établissements du continent. Le plateau, dans la mesure où on le sait, n'a *pas eu d'avant*.
+Le plateau de Vrenith est habité depuis longtemps — les hameaux de bergers attestent une présence pastorale qu'aucune chronique ne date avec précision. Aucune ruine pré-Arrachement n'a été identifiée, ce qui distingue Mirathi des autres établissements vythariens. Le plateau, dans la mesure où on le sait, n'a *pas eu d'avant*.
 
 ### La fondation du Sanctuaire (~an 4 200 ap.A, lecture admise)
 
@@ -121,7 +121,7 @@ Trois traits structurants :
 
 Voir [[../../Religions/_Mineures/Taciti]]. Présence ancienne (huit siècles) à Tholmë-en-haut et Vrenith. Les frères silencieux pratiquent un **silence partiel** assorti d'une écriture parcimonieuse — au contraire des orthodoxes du Second Voile (silence total) restés à Baelor.
 
-L'école du Premier Voile cultive le **doute envers le silence lui-même** : si le silence absolu glisse en certitude muette, alors la pratique juste est celle qui *préserve la possibilité de douter de sa propre pratique*. Cette posture est, sur tout le continent Nysaria, la respiration du Voile-vertu (terme du cadre, voir encadré final) la plus claire. Elle survit à Mirathi grâce à la cohabitation paisible avec le Sanctuaire — qui pratique sa propre forme de doute (l'Oracle qui reformule plutôt que de trancher) et n'a donc pas d'intérêt à pousser les frères à choisir.
+L'école du Premier Voile cultive le **doute envers le silence lui-même** : si le silence absolu glisse en certitude muette, alors la pratique juste est celle qui *préserve la possibilité de douter de sa propre pratique*. Cette posture est, dans tout l'arrière-pays vytharien, la respiration du Voile-vertu (terme du cadre, voir encadré final) la plus claire. Elle survit à Mirathi grâce à la cohabitation paisible avec le Sanctuaire — qui pratique sa propre forme de doute (l'Oracle qui reformule plutôt que de trancher) et n'a donc pas d'intérêt à pousser les frères à choisir.
 
 Un trait notable : les frères du Premier Voile, lorsqu'ils meurent, sont **enterrés sans lamelle**. Leur dernier mot écrit, s'il existait, est brûlé. Cette pratique, contraire à l'orthodoxie baelorienne (qui conserve les lamelles dans la bibliothèque centrale de Tholmë-cloître à Baelor), traduit dans le geste la position doctrinale : ne pas absolutiser même son propre silence.
 
@@ -144,8 +144,8 @@ La **troisième langue** — celle du Message, celle des fragments épigraphique
 
 | Pays | Relation | Détails |
 |------|----------|---------|
-| **Vytharia** | Déférence rituelle | Délégation officielle tous les sept ans, qualifiée de « consultation du silence ». La nature de la consultation n'est pas publique. |
-| **Lunasar** | Indifférence cordiale | Pas d'envoi régulier. Les Lunariens jugent la pratique oraculaire mirathienne intéressante mais incompatible avec leur calendrier. |
+| **Vytharia** (capitale tutélaire) | Déférence rituelle | Mirathi est une province-sanctuaire de Vytharia. Vytharia-cité envoie une délégation officielle tous les sept ans, qualifiée de « consultation du silence ». La nature de la consultation n'est pas publique. |
+| **Lunasar** (province sœur) | Indifférence cordiale | Pas d'envoi régulier entre les deux provinces vythariennes. Les Lunariens jugent la pratique oraculaire mirathienne intéressante mais incompatible avec leur calendrier. |
 | **Nysaria-île** | Aucune | Ni envoyés, ni correspondance. Mirathi possède pourtant des copies de symboles en troisième langue dont la provenance probable est nysarienne. La filière de circulation reste opaque. |
 | **Thalmaris (Evertia)** | Échanges érudits | Plusieurs résidents thalmariens à Mirathi (Orneth est le plus récent). Les copies du Sanctuaire alimentent les bibliothèques de Thalmaris. Aucun Oracle ne s'est jamais déplacé jusqu'à Thalmaris. |
 | **Astravia (Celethor)** | Curiosité distante | Les mages d'Astravia ont, à plusieurs reprises, sollicité l'envoi d'un Oracle pour des consultations ; toutes les sollicitations ont été déclinées poliment. |

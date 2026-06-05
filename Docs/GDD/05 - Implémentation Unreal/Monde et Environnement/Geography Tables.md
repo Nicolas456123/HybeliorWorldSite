@@ -18,7 +18,7 @@ canonical_concept: "[[Géographie]]"
 ## Couche d'autorité
 
 > [!warning] Source canonique des continents/pays
-> La **table maître canonique** des 13 continents et de leurs nations est tenue par [[Continents/Index]].
+> La **table maître canonique** des 12 continents (+ îles notables dont Nysaria) et de leurs nations est tenue par [[Continents/Index]].
 > Toute divergence entre ce document et `Continents/Index.md` doit être résolue **en faveur de `Continents/Index.md`**.
 > Les fiches détaillées par continent (`Continents/<Nom>/_Index.md`) et par nation (`Continents/<Nom>/<Nation>.md`) sont les sources canoniques pour les données politiques, démographiques et historiques de chaque entité.
 
@@ -30,9 +30,9 @@ Cette page **n'est pas une duplication** de `Continents/Index.md`. Elle agrège 
 
 ---
 
-## Table maître — 13 continents et leurs nations
+## Table maître — 12 continents et leurs nations
 
-> Synchronisée sur [[Continents/Index]] (autorité). Total : **13 continents**, **50 nations** dont 4 zones « No Man's Land ».
+> Synchronisée sur [[Continents/Index]] (autorité). Total : **12 continents** (+ îles notables, dont **Nysaria**, petite île au large de la côte est de Celethor), **50 nations** dont 4 zones « No Man's Land ».
 
 | # | Continent | Nb nations | Nations |
 |---|-----------|------------|---------|
@@ -45,12 +45,15 @@ Cette page **n'est pas une duplication** de `Continents/Index.md`. Elle agrège 
 | 7 | [[Endora/_Index\|Endora]] | 3 | Avalor, Haldria, Sanvara |
 | 8 | [[Evertia/_Index\|Evertia]] | 3 | Evertia, Sylvara, Thalmaris |
 | 9 | [[Galenor/_Index\|Galenor]] | 7 | Kharazir, Lumasar, Seraphia, Solena, Trinoria, Valoria, Ventera |
-| 10 | [[Ilthara/_Index\|Ilthara]] | 8 | Ackerna, Drakora, Gryndor, Lythar, Pyrtara, Sylthara, Vytharia, Warenthor |
-| 11 | [[Nysaria/_Index\|Nysaria]] | 3 | Lunasar, Mirathi, Nysaria |
-| 12 | [[Onara/_Index\|Onara]] | 4 | Elarath, Mosrack, Myrtam, Tyndara |
-| 13 | [[Ulinor/_Index\|Ulinor]] | 3 | Dhalvoria, Skaldoria, Ulinor |
+| 10 | [[Ilthara/_Index\|Ilthara]] | 8 | Ackerna, Drakora, Gryndor, Lythar, Pyrtara, Sylthara, Vytharia (+ provinces Lunasar & Mirathi), Warenthor |
+| 11 | [[Onara/_Index\|Onara]] | 4 | Elarath, Mosrack, Myrtam, Tyndara |
+| 12 | [[Ulinor/_Index\|Ulinor]] | 3 | Dhalvoria, Skaldoria, Ulinor |
 
 **Total nations** : 50
+
+> [!note] Îles notables
+> **Nysaria** n'est plus un continent : c'est une **petite île au large de la côte est de Celethor** (l'Île aux Masques, ville Nysoris ; brumes d'accès difficile). Voir [[Celethor/_Index]].
+> **Lunasar** (province côtière, « Monarchie Lunaire », capitale Lunaris) et **Mirathi** (port-sanctuaire des Oracles, source du « Message de Mirathi ») sont des **provinces/dépendances de Vytharia** (Ilthara), et non plus des entités d'un « continent Nysaria ». Voir [[Ilthara/_Index]].
 
 ---
 
@@ -86,13 +89,13 @@ Cette page **n'est pas une duplication** de `Continents/Index.md`. Elle agrège 
 | **Azoria** | Très grande | Polaire | Désert de glace | ~8 | Majoritairement « No Man's Land » — end-game |
 | **Baelor** | Petite (île) | Mystique tempéré | Brume Éternelle, CrystallineGrove | ~3 | Mid-game, accès rituel |
 | **Celethor** | Grande | Polaire à boréal | Désert de glace, Taïga | ~10 | Mixte (civilisé sud, NML nord) |
+| ↳ *Nysaria (île)* | Petite (île) | Boréal-mystique | Taïga, Brume violette (EternalMist) | ~3 | Île au large côte est ; accès difficile (brumes) |
 | **Cendara** | Moyenne (archipel) | Volcanique chaud | Volcanique, Tropical | ~7 | Civilisé, dangereux |
 | **Cestra** | Moyenne | Polaire à toundra | Toundra, Désert de glace | ~6 | Mixte (Noravia + NML) |
 | **Endora** | Grande | Continental contrasté | Désert, Plaine, Tropical | ~12 | Civilisé |
 | **Evertia** | Moyenne (île) | Tempéré humide | Tempéré, ConsciousForest | ~6 | Civilisé hostile (esclavage des intrus) |
 | **Galenor** | Très grande | Tempéré varié | Tempéré, Savane, Désert, Tropical, Taïga | ~24 | Civilisé, hub central |
-| **Ilthara** | Très grande | Tropical magique | Tropical, EternalMist, Marécage | ~22 | Civilisé, dense |
-| **Nysaria** | Moyenne | Boréal-mystique | Taïga, Désert de glace | ~7 | Isolé, accès limité |
+| **Ilthara** | Très grande | Tropical magique | Tropical, EternalMist, Marécage | ~22 | Civilisé, dense (inclut Vytharia + provinces Lunasar & Mirathi) |
 | **Onara** | Grande | Tempéré-froid venté | Tempéré, Taïga, Plaine | ~12 | Civilisé |
 | **Ulinor** | Moyenne (archipel) | Tropical aride | Tropical, Plaine aride, Montagne | ~8 | Civilisé, mystique |
 
@@ -156,7 +159,7 @@ Embed Obsidian : `![[Hybelior Continent.png]]` (résolution par nom court).
 
 ## Décisions actées
 
-- Compte canonique : **13 continents**, **50 nations** (incluant 4 No Man's Land).
+- Compte canonique : **12 continents** (+ îles notables, dont Nysaria au large de Celethor), **50 nations** (incluant 4 No Man's Land).
 - Source canonique structurelle : [[Continents/Index]].
 - Source canonique gameplay biomes : ce document + [[Biome System]] (codes moteur).
 - Source canonique mapping biome ↔ Ère : [[Les Ères]].

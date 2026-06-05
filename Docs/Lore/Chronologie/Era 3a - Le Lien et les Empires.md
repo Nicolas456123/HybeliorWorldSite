@@ -124,7 +124,7 @@ Aucune des trois n'a entierement tort. Aucune n'a entierement raison. Le dialogu
 | **Confederation d'Alkarath** | Alkaran + Cestra-sud | ~15 500 av.A | ~11 500 av.A |
 | **Khalifat de Solvenar** | Galenor + nord Azoria | ~10 000 av.A | ~7 500 av.A |
 | **Saint-Empire d'Endara** | Endora entiere + iles | ~8 000 av.A | ~5 000 av.A |
-| **Royaume des Songes d'Ithalorn** | Ilthara + Nysaria | ~6 000 av.A | ~3 500 av.A |
+| **Royaume des Songes d'Ithalorn** | Ilthara (Vytharia) | ~6 000 av.A | ~3 500 av.A |
 | **Ligue Marchande d'Everthor** | Evertia + Azoria + routes maritimes | ~4 000 av.A | ~1 500 av.A |
 
 ---
@@ -303,7 +303,7 @@ La Theocratie de Celith est l'ancetre direct du Vael'Kurash — les "Liants-d'Am
 
 **6 — Royaume des Songes d'Ithalorn (~7 000 → ~3 500 av.A)**
 
-*Fondation :* Ilthara est un terrain de convergence — peuple par des Coureurs-Voix-sous-Bois hybrides (passes par le pont de glace post-Gel), avec des influences de Celith et d'Alkarath. L'Ilthara developpe une specialisation unique : le Lien de Somnix, les reves. Ithalorn est le premier dirigeant a cartographier systematiquement les reves collectifs.
+*Fondation :* Ilthara est un terrain de convergence — peuple par des Coureurs-Voix-sous-Bois hybrides (passes par le pont de glace post-Gel), avec des influences de Celith et d'Alkarath. L'Ilthara developpe une specialisation unique : le Lien de Somnix, les reves. Ithalorn est le premier dirigeant a cartographier systematiquement les reves collectifs. C'est sur ces terres ilthariennes — autour de la future Vytharia — que s'enracine l'heritage onirique qui marquera durablement la region.
 
 *Systeme de gouvernance :*
 - Onirocratique : les decisions politiques majeures sont precedees d'une "session de reve collectif" ou les Lies specialises (les "Songeurs") partagent un espace onirique guide pour debattre en reve. Les decisions du reve ont force de loi.
@@ -311,13 +311,13 @@ La Theocratie de Celith est l'ancetre direct du Vael'Kurash — les "Liants-d'Am
 - Conseil des Interpretes : 13 non-Lies specifiquement selectionnes pour leur pensee rationelle — leur role est de "traduire" les revelations oniriques en decisions pratiques. Premiere institutionnalisation des non-Lies dans un role de contre-pouvoir.
 
 *Culture et art :*
-- Architecture fluide, formes organiques — aucune ligne droite dans les grands batiments. "Un batiment droit repousse les reves." Influence de Nysaria (Harmonex, les gorges resonantes) visible dans l'acoustique elaborate des salles.
+- Architecture fluide, formes organiques — aucune ligne droite dans les grands batiments. "Un batiment droit repousse les reves." Les gorges resonantes d'Ilthara inspirent une acoustique elaborate dans les salles, ou les sons portent les reves partages.
 - Art : peinture onirique (premier usage de la perspective subjective dans la representation), musique atonal (les gammes ordinaires "eveillent trop"), theatre de masques (les acteurs representent des figures de reve).
 - Contribution unique : le **Codex des Nuits** (~6 500 av.A) — premier traite systematique de l'interpretation des reves comme outil de gouvernance. Copie et etudie jusqu'en Ere VII.
 
 *Cites principales :*
 - **Ithalorn** (capitale onirique) : batie dans les gorges d'Ilthara, entouree de hautes falaises qui creent un micro-climat perpetuellement brumeux. Les batiments ont des formes spiralees, des facades courbes, des fenetres en amande. Population a l'apogee : ~120 000. Acoustiquement unique — les sons s'y propagent de maniere imprevissible, ce qui est considere comme un don des Songeurs.
-- **Nysaria-la-Blanche** (ville separatiste) : fondee par les partisans des Ecoutes-Profondes exiles de Celith, puis absorbee par le Royaume des Songes. Ses habitants sont connus pour leur pratique du Lien-Noctis (connexion a l'Eternel de l'ombre), tres differente du Lien-Somnix officiel. Tension permanente avec la capitale.
+- **Vytharel-la-Blanche** (ville separatiste) : fondee par les partisans des Ecoutes-Profondes exiles de Celith, puis absorbee par le Royaume des Songes, sur la cote vytharienne d'Ilthara. Ses habitants sont connus pour leur pratique du Lien-Noctis (connexion a l'Eternel de l'ombre), tres differente du Lien-Somnix officiel. Tension permanente avec la capitale. C'est l'un des berceaux de la lignee onirique vytharienne dont descendront les Noctari.
 
 *Rapport au Lien :*
 - Specialisation exclusive : Lien de Somnix. Communication en reve (entre Lies, sur de longues distances, pendant le sommeil). Detection des maladies mentales. Cartographie des "zones de reve" (lieux ou les reves sont intensifies par la presence de Somnix ou de Mireille).
@@ -326,8 +326,8 @@ La Theocratie de Celith est l'ancetre direct du Vael'Kurash — les "Liants-d'Am
 *Cause de la chute (~3 500 av.A) :*
 - Le reve collectif devient une addiction. La classe dirigeante passe de plus en plus de temps en espace onirique, de moins en moins a gerer le royaume physique.
 - Catastrophe : une session de reve collectif tourne mal — un "Songeur-Corrompu" (Lie dont la connexion a Somnix est devenue pathologique) plonge le Conseil entier dans un cauchemar partagé. 9 dirigeants sur 13 ne se reveillent pas. (Premier incident documenté de "Mort-de-Reve".)
-- L'Empire se fracture sans leadership. Nysaria se separe d'Ilthara et deviendra un etat independant.
-- Heritage : le Codex des Nuits (source de la religion Somnium Vigil), la tradition de l'interprétation onirique, et le traumatisme de la Mort-de-Reve qui genere une mefiance durable envers les Lies de Somnix.
+- L'Empire se fracture sans leadership. Ses provinces se morcellent en principautes ilthariennes rivales — les cites separatistes comme Vytharel-la-Blanche reprennent leur independance, posant les jalons de la future Vytharia.
+- Heritage : le Codex des Nuits (source de la religion Somnium Vigil), la tradition de l'interprétation onirique, et le traumatisme de la Mort-de-Reve qui genere une mefiance durable envers les Lies de Somnix. Tout cet heritage onirique restera enracine en Ilthara, autour de Vytharia.
 
 ---
 
@@ -369,7 +369,7 @@ Les 7 grands empires ne se succedent pas de maniere lineaire — ils se chevauch
 **Alliances notables :**
 - **Celith-Alkarath** (~15 500 → ~12 000 av.A) : alliance defensive naturelle entre deux cultures non-militaristes. Celith soigne les malades, Alkarath fournit le metal et la jurisprudence. Les deux s'accordent pour neutraliser les ambitions expansionnistes du Dominat de Pyrevaste. Cette alliance dure plus longtemps que chacun des deux empires individuellement.
 - **Saint-Empire + Khalifat** (~9 000 → ~7 500 av.A) : coexistence commerciale respectueuse. L'Empire fournit le cadre juridique et institutionnel, le Khalifat fournit les routes et la logistique. Le traite qui les unit est considere comme le premier accord commercial international systematique de l'histoire.
-- **Ithalorn + Ligue Marchande** (~5 000 → ~3 500 av.A) : echange d'intelligences. Les Songeurs d'Ithalorn "lisent" les intentions des partenaires commerciaux de la Ligue. La Ligue finance en retour des expeditions d'exploration des iles de Nysaria.
+- **Ithalorn + Ligue Marchande** (~5 000 → ~3 500 av.A) : echange d'intelligences. Les Songeurs d'Ithalorn "lisent" les intentions des partenaires commerciaux de la Ligue. La Ligue finance en retour des expeditions d'exploration des cotes et iles d'Ilthara.
 
 **Conflits notables :**
 - **Guerre des Deux Lumières** (~16 800 av.A) : premier grand conflit inter-empire documenté, entre le Dominat de Pyrevaste et la Theocratie de Celith. Causes : le Dominat veut abattre des forets de Celethor pour le charbon de forge. Celith refuse. Conflit de 40 ans, resolus par arbitrage de la Confederation d'Alkarath (qui propose des minerais alternatifs au charbon de bois).
@@ -465,7 +465,7 @@ L'Arrachement ne tue pas les empires instantanement — mais il les condamne tou
 
 **Hegemonie d'Aethran (Galenor) :** Galenor, territoire des grandes plaines et heritage du Khalifat nomade, supporte mieux que d'autres la perte du Lien — les populations rurales et semi-nomades y etaient moins dependantes des portails et des grandes infrastructures liees. L'Hegemonie se fragmente neanmoins en royaumes tribaux independants dans les deux siecles suivants, ses institutions centrales (fondees sur les Cercles-du-Vent) n'ayant plus de raison d'etre sans les Lies pour les animer. Ces royaumes seront les ancetres des nations de Galenor en Ere V.
 
-**Dominat de Pyrion (Ilthara ouest) :** L'empire le plus militarise des six s'effondre en royaumes forestiers isoles dans la generation suivant l'Arrachement. Ses Lies de combat, deconnectes, perdent leur principal avantage sur les non-Lies. Sans la legitimite du Lien, le titre de Dominat n'a plus de sens. Les territoires d'Ilthara-ouest se morcelent en principautes locales — les futurs territoires de Nysaria et les marches forestieres qui porteront d'autres noms en Ere V.
+**Dominat de Pyrion (Ilthara ouest) :** L'empire le plus militarise des six s'effondre en royaumes forestiers isoles dans la generation suivant l'Arrachement. Ses Lies de combat, deconnectes, perdent leur principal avantage sur les non-Lies. Sans la legitimite du Lien, le titre de Dominat n'a plus de sens. Les territoires d'Ilthara-ouest se morcelent en principautes locales — les futurs territoires vythariens et les marches forestieres qui porteront d'autres noms en Ere V.
 
 **Empire de Lithane (Alkaran) :** Beneficiant de la tradition juridique et institutionnelle heritee de la Confederation d'Alkarath, Lithane resiste plus longtemps que ses voisins. Le Code de Pierre et les structures civiles ne reposaient pas exclusivement sur le Lien. L'Empire se contracte sur lui-meme pendant trois siecles, perdant ses marches peripheriques, avant de se stabiliser sous une forme reduite centrée sur la cite de Lithanel — germe de ce qui deviendra Altram.
 

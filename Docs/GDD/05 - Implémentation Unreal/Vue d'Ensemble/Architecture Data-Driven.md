@@ -68,7 +68,7 @@ C'est le seul niveau **vraiment coûteux**. Une fois produit, un asset y reste p
 - **Niagara FX maîtres** : émetteurs paramétriques (couleur, densité, vitesse) qui s'instancient en variantes
 - **Banque sonore** : impacts, pas, ambiances, vocalisations
 - **Sky presets** : 6-8 préréglages atmosphériques de base
-- **Heightmaps** : géographie fixe des 13 continents (cf. [[Géographie]])
+- **Heightmaps** : géographie fixe des 12 continents (cf. [[Géographie]])
 
 ### Couche B — Générateurs
 
@@ -512,7 +512,7 @@ Taille typique : **2-6 KB**. Diffusable à des dizaines de milliers de joueurs s
 ## Géographie : ne change pas, mais paraît changée
 
 > [!important] Heightmap fixe
-> Les 13 continents (cf. [[Géographie]]) sont **figés à la heightmap près**. Aucun Souffle, aucun générateur ne déplace une montagne ou ne creuse une vallée — sauf un **Souffle Cardinal** (échelle des âges, hors d'une Partie).
+> Les 12 continents (cf. [[Géographie]]) sont **figés à la heightmap près**. Aucun Souffle, aucun générateur ne déplace une montagne ou ne creuse une vallée — sauf un **Souffle Cardinal** (échelle des âges, hors d'une Partie).
 
 Ce qui varie :
 
@@ -719,7 +719,7 @@ Modèle **hybride** :
 
 **Pourquoi pas full-auto ?** Parce que la cohérence narrative à long terme (sur 1-2 ans de Partie) demande un regard humain. Une IA pourrait enchaîner trois Ères sombres et tuer la Partie ; un designer corrige.
 
-**Pourquoi pas full-manuel ?** Parce que paramétrer 4-6 Ères par Partie à la main, sur 13 continents, sans assistance, est un goulot d'étranglement. L'IA fait 80 % du travail mécanique.
+**Pourquoi pas full-manuel ?** Parce que paramétrer 4-6 Ères par Partie à la main, sur 12 continents, sans assistance, est un goulot d'étranglement. L'IA fait 80 % du travail mécanique.
 
 ---
 

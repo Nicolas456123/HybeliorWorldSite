@@ -150,7 +150,7 @@ Disponibilité par ère : [[Cuirasse]].
 - **Chausses de la Légion Cendrée** (Mailles T4 Brulé, **Cendara**) — Affixe : +30 % résistance Feu · +5 HP/s en zone volcanique.
 - **Cuissardes nordiques d'Alkaran** (Plate T5 Frost, **Alkaran**) — Affixe : +35 % résistance Glace · ne glisse pas.
 
-> [!todo] Phase 4 : 2-3 par grand pays × 13 continents.
+> [!todo] Phase 4 : 2-3 par grand pays × 12 continents.
 
 ---
 

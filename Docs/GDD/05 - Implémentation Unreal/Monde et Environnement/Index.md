@@ -29,7 +29,7 @@ SORT file.name ASC
 
 - [[Les Ères]] — 6 dimensions paramétriques
 - [[Architecture Data-Driven]] — 12 générateurs
-- [[Géographie]] — 13 continents, 37 pays
+- [[Géographie]] — 12 continents, 37 pays
 
 ---
 

@@ -34,7 +34,7 @@ Je lui dis ce qu'ils étaient. Elle s'assit en face de moi sans que je l'y aie i
 
 *« D'où venez-vous ? »*
 
-Je lui donnai la liste, dans l'ordre. Kharazir. Les mines de Valoria. La forêt d'Endora. Alkaran. Les marchés de Solena. Ilthara et ses archipels. Celethor et l'archimage Vaelorin. L'archipel volcanique de Cendara. Les ports de Nysaria. Baelor et son monastère. Cestra et le glacier du Mont Jumeau.
+Je lui donnai la liste, dans l'ordre. Kharazir. Les mines de Valoria. La forêt d'Endora. Alkaran. Les marchés de Solena. Ilthara et ses archipels. Celethor et l'archimage Vaelorin. L'archipel volcanique de Cendara. Le port de l'île de Nysaria. Baelor et son monastère. Cestra et le glacier du Mont Jumeau.
 
 Elle m'écoutait avec la même qualité d'attention que j'avais appris à reconnaître chez les gens qui ne faisaient pas semblant — pas un hochement de tête de politesse, mais un silence actif, une façon de recevoir chaque nom comme une information qu'elle plaçait quelque part dans sa tête et reliait à d'autres.
 

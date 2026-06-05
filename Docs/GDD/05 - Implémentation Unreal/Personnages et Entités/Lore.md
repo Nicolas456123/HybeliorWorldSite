@@ -9,9 +9,9 @@ implements: []
 
 # Lore
 
-Vue d'ensemble du lore HybeliorWorld — 13 continents, **9 religions canoniques** (D-GD-9-RELIGIONS). Référence pour l'écriture des dialogues ([[Dialogue Component]]) et la caractérisation des entités.
+Vue d'ensemble du lore HybeliorWorld — 12 continents, **9 religions canoniques** (D-GD-9-RELIGIONS). Référence pour l'écriture des dialogues ([[Dialogue Component]]) et la caractérisation des entités.
 
-## 13 continents principaux
+## 12 continents principaux
 
 | Continent | Thème dominant |
 |-----------|---------------|

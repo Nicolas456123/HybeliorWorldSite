@@ -1,8 +1,8 @@
 ﻿---
-tags: [lore, histoire, ilthara, vytharia]
+tags: [lore, histoire, ilthara, vytharia, lunasar, mirathi]
 type: histoire
 status: canon
-last_review: 2026-05-06
+last_review: 2026-06-05
 needs_review_for: []
 ---
 # Histoires de Vytharia
@@ -240,3 +240,12 @@ Elle posa ses filets. Elle sortit de la brume. Elle rentra chez elle et s'assit 
 Elle ne recolta plus jamais la brume. Elle devint tisseuse de soie, travaillant le produit fini plutot que la matiere premiere, gardant ses distances avec ce que les anciens appellent le Voile. Et chaque matin, elle s'asseyait en face de sa mere et lui racontait sa journee, comme si Veldra pouvait l'entendre.
 
 Peut-etre qu'elle pouvait. C'est ce que les anciennes de Kaloria disent quand on les questionne. Yselle, elle, ne tranche pas. Elle parle, simplement, et cela lui suffit.
+
+---
+
+## Provinces côtières
+
+Les deux provinces côtières de Vytharia ont leurs propres récits, conservés à part :
+
+- **[[Lunasar]]** — la Monarchie Lunaire, dont les chroniques suivent les phases de la lune.
+- **[[Mirathi]]** — le port-sanctuaire des Oracles, d'où nous est parvenu le Message de Mirathi.

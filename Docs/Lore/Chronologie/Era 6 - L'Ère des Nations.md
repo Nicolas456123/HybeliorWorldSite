@@ -142,10 +142,10 @@ needs_review_for: [scission-V4, souffles-passés-Q-LC-003, cohérence-aval-Era-7
 **Consequences durables**
 - Endora passe de l'unite des Etats Haldrins a une pluralite d'entites : les Etats Haldrins (qui continueront sous diverses formes), la Confederation Tacite du Sud, et la cite noctarie independante — ancetres respectifs de Haldria, Avalor et Sanvara, mais les nations actuelles ne naitront que plusieurs siecles plus tard
 - Premier grand schisme officiellement "religieux" de l'Ere VI
-- La theologie Noctari commence a se codifier formellement, posant les bases de ce qui deviendra la Confederation des Reves Nommes en Nysaria
+- La theologie Noctari commence a se codifier formellement, posant les bases de ce qui deviendra la Confederation des Reves Nommes en Vytharia (Ilthara)
 
 **Consequences culturelles**
-- La guerre des Schismes pousse les Noctari à codifier leur théologie pour la première fois : ce qui était une pratique diffuse et orale devient une doctrine écrite, la "Voie de l'Ombre Parlante", qui structurera toute la théologie Noctari future jusqu'à Vytharia et Nysaria
+- La guerre des Schismes pousse les Noctari à codifier leur théologie pour la première fois : ce qui était une pratique diffuse et orale devient une doctrine écrite, la "Voie de l'Ombre Parlante", qui structurera toute la théologie Noctari future jusqu'à Vytharia et ses provinces oniriques (Mirathi, Lunasar)
 - Sanvara, forgée par 15 ans de siège, développe une architecture de forteresse côtière unique — les "Murs d'Ursula", dont les créneaux sont orientés vers l'intérieur des terres plutôt que vers la mer, symbole que la menace vient de ses propres frères de continent
 - La laïcité de la Confederation Tacite du Sud, première de son espèce, attire des penseurs de tout Endora et même d'au-delà : en un siècle, elle devient un centre intellectuel comparable à Lumasar, mais focalisé sur la philosophie morale plutôt que le commerce
 - Les Etats Haldrins, traumatises par leur eclatement, renforcent leur pragmatisme commercial comme identité de substitution : "ce qui se négocie ne se saigne pas" devient un aphorisme qui traversera les siecles jusqu'a Haldria
@@ -323,7 +323,7 @@ L'Ère des Nations n'est pas qu'une succession de guerres. Entre les conflits, d
 - Cestra est emblematique du statut wildlands continental : un continent entier sans entite politique stable jusqu'a l'apparition tardive de Noravia, qui n'en controle qu'une fraction infime cotiere
 
 **Routes interrompues et "blancs de la carte"**
-- Aucune route Era VI ne traverse Nysaria d'est en ouest sans passer par mer : les terres interieures, recouvertes du Voile residuel, sont infranchissables et restent un blanc cartographique total
+- L'île de Nysaria, au large de la côte est de Celethor, reste un blanc cartographique : noyée de brumes permanentes et d'accès difficile, elle n'apparaît sur les cartes que comme un point isolé, son intérieur acoustique (gorges d'Harmonex) demeurant inaccessible aux caravanes
 - Aucune route ne penetre au-dela des Plaines Hautes d'Ulinor intercontinental : les peuples nomades qui y vivent ne reconnaissent ni traites ni peages
 - Plusieurs vallees d'Alkaran sont contournees par les caravanes — Failles residuelles documentees par les Cartographes de Baelor
 - L'interieur d'Evertia (forets profondes au-dela de la Federation des Lisieres) reste cartographie par approximations ; les "cartes blanches" d'Evertia sont un produit de luxe a Lumasar
@@ -405,7 +405,7 @@ L'Ère des Nations voit émerger des identités locales profondes, où la vie de
 | Galenor | Grain et fruits | Vins des Cavaliers de l'Ouest, fromages | Caverana : jeûne hebdomadaire obligatoire |
 | Alkaran | Légumineuses et viande séchée | Pains de forge (cuits dans les fours métallurgiques) | Aucun |
 | Celethor | Céréales légères et légumes | Huiles de Celethor central | Celethor : repas pris en silence le jour des morts |
-| Nysaria | Poissons et riz | Mélanges d'épices nomades | Certains plats réservés aux moments "d'ombre" |
+| Vytharia (Ilthara onirique) | Poissons et riz | Mélanges d'épices oniriques | Certains plats réservés aux moments "d'ombre" |
 
 ---
 
@@ -584,14 +584,16 @@ Parmi les cas documentés les plus enigmatiques de l'Ere VI figure l'expedition 
 | Conclave des Racines Profondes | ~3 800 → ~7 400 | Forets interieures | Schisme sur le silence des esprits |
 | Federation des Lisieres | ~6 900 → ~9 100 | Zones de transition | Epidemie + desintegration → Thalmaris + Sylvara |
 
-### NYSARIA — 4 civilisations disparues
+### ILTHARA (Vytharia) — 4 civilisations oniriques disparues
+
+> Les "civilisations des Rêves Nommés" forment l'**histoire profonde de Vytharia** (continent d'Ilthara) : la lignée onirique Vael'Somnix, l'origine des Noctari et du Somnium Vigil s'y enracinent. C'est de cet héritage que naîtront Vytharia et ses provinces (Mirathi, Lunasar).
 
 | Civilisation | Dates | Territoire | Cause de chute |
 |---|---|---|---|
-| Synarchie des Voiles | ~800 → ~2 400 | Tout Nysaria | Gel du Voile (epidemie onirique) |
+| Synarchie des Voiles | ~800 → ~2 400 | Ilthara onirique (proto-Vytharia) | Gel du Voile (epidemie onirique) |
 | Principautes de l'Eveil Interdit | ~2 400 → ~4 800 | Fragmente | Inadaptation climatique |
 | Empire Somnambule de Keth-Anur | ~5 200 → ~7 800 | Vytharia + Lunasar | Degenerescence de caste |
-| Confed. des Reves Nommes | ~8 100 → ~9 200 | Tout Nysaria | Reve Sans Convocation → Vytharia + Mirathi + Lunasar |
+| Confed. des Reves Nommes | ~8 100 → ~9 200 | Vytharia et ses dependances | Reve Sans Convocation → Vytharia + Mirathi + Lunasar |
 
 ### ULINOR — 4 civilisations disparues
 
@@ -662,7 +664,7 @@ Parmi les cas documentés les plus enigmatiques de l'Ere VI figure l'expedition 
 | **Arkhen** | Cendara | Ligue des Villes Libres | ~9 400 ap.A |
 | **Myrtam** | Onara | Principaute de Solvar | ~9 400 ap.A |
 | **Skaldoria** | Ulinor | Ligue Yurrak | ~9 400 ap.A |
-| **Vytharia** | Nysaria | Confed. Reves Nommes | ~9 400 ap.A |
+| **Vytharia** | Ilthara | Confed. Reves Nommes | ~9 400 ap.A |
 | **Sylvara** | Evertia | Federation des Lisieres | ~9 400 ap.A |
 | **Avalor** | Endora | Confed. Tacite du Sud | ~9 600 ap.A |
 | **Sanvara** | Endora | Confed. Tacite du Sud | ~9 600 ap.A |
@@ -674,10 +676,10 @@ Parmi les cas documentés les plus enigmatiques de l'Ere VI figure l'expedition 
 | **Elarath** | Onara | Federation de Morveth | ~9 800 ap.A |
 | **Solmaris** | Azoria | Federation de Morveth | ~9 800 ap.A |
 | **Ferrath** | Alkaran | Protectorat des Passes | ~9 800 ap.A |
-| **Mirathi** | Nysaria | Confed. Reves Nommes | ~9 800 ap.A |
+| **Mirathi** *(province de Vytharia)* | Ilthara | Confed. Reves Nommes | ~9 800 ap.A |
 | **Endrath** | Endora | Empire Kalvorn (autonomie) | ~9 900 ap.A |
 | **Halcyon** | Celethor | Protectorat d'Oriven | ~9 900 ap.A |
-| **Lunasar** | Nysaria | Confed. Reves Nommes | ~9 900 ap.A |
+| **Lunasar** *(province de Vytharia)* | Ilthara | Confed. Reves Nommes | ~9 900 ap.A |
 | **Noravia** | Cestra | Concession de Thar-Sel | ~9 900 ap.A |
 | **Dhalvoria** | Ulinor | Ligue Yurrak | ~9 900 ap.A |
 
@@ -721,7 +723,7 @@ Parmi les cas documentés les plus enigmatiques de l'Ere VI figure l'expedition 
 - Drakora signe le Pacte de la Pierre avec des reserves interpretees differemment par chaque diplomate — source de conflits perpetuels
 - Noravia (Cestra) n'est pas encore fondee lors de la majorite des traites ; meme une fois etablie, elle ne controle qu'une bande cotiere infime et ne peut signer pour un continent qu'elle ne gouverne pas
 - **Cestra** dans son ensemble reste un quasi no man's land : aucune entite n'y a la legitimite pour engager le continent
-- **Nysaria** est isolee par le Voile residuel ; les nations qui en sortent (Vytharia, Mirathi, Lunasar) ne participent que ponctuellement aux protocoles regionaux, et plusieurs ecoles oniriques refusent toute signature au nom du principe que "les paroles donnees dans le rêve ne lient pas dans la veille"
+- **Vytharia** (Ilthara) et ses provinces (Mirathi, Lunasar) ne participent que ponctuellement aux protocoles regionaux : plusieurs ecoles oniriques vythariennes refusent toute signature au nom du principe que "les paroles donnees dans le rêve ne lient pas dans la veille"
 - **Cendara** — la Theocracie issue d'Ignis Aeternum considere les conventions profanes comme infra-doctrinales ; Arkhen et Pyrevane ne contractent que des accords commerciaux bilateraux
 - **Ulinor** est un patchwork de peuples nordiques fragmentes (Skaldoria, Torkam, Dhalvoria) ; seuls quelques khanats cotiers participent aux negociations, et aucun ne pretend representer les Plaines Hautes ou les territoires de chasse intercontinentaux
 
@@ -734,7 +736,7 @@ La Cristallisation n'est pas une paix imposée mais une lassitude institutionnal
 - **Le Khaghanat de Gryndhaal** (puis Gryndor) refuse de signer aux côtés de nations alignées avec d'autres Voies, qu'il considère comme illégitimes en droit divin
 - **Kharazir** négocie chaque article séparément en fonction de ses intérêts portuaires — ce qui transforme toute conférence en bazar contractuel
 - **Les nations cendariennes** considèrent qu'aucun texte profane ne peut lier ce qui relève d'Ignis Aeternum
-- **Nysaria** ne reconnaît pas la portée juridique de paroles données hors du cycle onirique
+- **Vytharia** (Ilthara) ne reconnaît pas la portée juridique de paroles données hors du cycle onirique
 - **Cestra et l'intérieur d'Ulinor** n'ont aucune entité capable de s'engager au nom du continent
 
 À la place d'un instrument unique émerge un **enchevêtrement d'accords ad-hoc** : pactes régionaux (Pacte de la Pierre, Accord des Eaux, Traité de Lumasar, Paix d'Endora, Charte de Baelor), traités bilatéraux par centaines, conventions de guildes (Guilde des Marteaux, Fraternité des Navigants, Ordre des Voix), protocoles consulaires permanents entre capitales voisines. Chaque relation diplomatique a son régime propre. Aucun greffier ne tient le registre maître — il n'y en a pas.
