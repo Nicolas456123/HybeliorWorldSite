@@ -457,19 +457,22 @@
         return null;
     }
 
-    /** Map "Pays|Histoires/<Continent>/<Nation>.md" → slug de nation, pour rediriger
-     *  les wikilinks qui visent une fiche/histoire de nation vers le lecteur unique
-     *  #nation/<slug> (Description + Histoire) plutôt que vers le .md brut (#md/...). */
-    function buildNationPathMap() {
+    /** Map nom de nation → slug, pour rediriger les wikilinks qui visent une
+     *  fiche/histoire de nation (Pays/… ou Histoires/…) vers le lecteur unique
+     *  #nation/<slug> (Description + Histoire) plutôt que vers le .md brut (#md/…). */
+    function buildNationNameMap() {
         const map = {};
         const NAT = (window.LoreReader && window.LoreReader.NATIONS) || {};
         if (!window.NavConfig || typeof NavConfig.slugifyNation !== 'function') return map;
-        for (const name in NAT) {
-            const slug = NavConfig.slugifyNation(name);
-            if (NAT[name].pays)      map[NAT[name].pays] = slug;
-            if (NAT[name].histoires) map[NAT[name].histoires] = slug;
-        }
+        for (const name in NAT) map[name] = NavConfig.slugifyNation(name);
         return map;
+    }
+
+    /** Si `resolved` (chemin manifeste) est une fiche/histoire de nation, renvoie
+     *  son slug, sinon null. Marche que NATIONS.histoires soit défini ou non. */
+    function nationSlugForResolved(resolved, nameMap) {
+        const m = /^Lore\/(?:Pays|Histoires)\/[^/]+\/(.+?)\.md$/.exec(resolved || '');
+        return m && nameMap[m[1]] ? nameMap[m[1]] : null;
     }
 
     async function postProcessObsidianLinks(rootEl, currentMdPath) {
@@ -477,7 +480,7 @@
         if (links.length === 0) return;
 
         const manifest = await getManifest();
-        const nationPaths = buildNationPathMap();
+        const nationNames = buildNationNameMap();
 
         links.forEach(link => {
             const target = link.dataset.mdTarget;
@@ -490,7 +493,7 @@
             }
             // Si la cible est une fiche/histoire de nation, router vers le lecteur
             // unifié #nation/<slug> (une seule page par nation, Description + Histoire).
-            const natSlug = nationPaths[resolved.replace(/^Lore\//, '')];
+            const natSlug = nationSlugForResolved(resolved, nationNames);
             if (natSlug) {
                 link.href = '#nation/' + natSlug;
                 link.classList.add('md-link-nation');
