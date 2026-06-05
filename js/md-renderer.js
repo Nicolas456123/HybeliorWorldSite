@@ -457,11 +457,27 @@
         return null;
     }
 
+    /** Map "Pays|Histoires/<Continent>/<Nation>.md" → slug de nation, pour rediriger
+     *  les wikilinks qui visent une fiche/histoire de nation vers le lecteur unique
+     *  #nation/<slug> (Description + Histoire) plutôt que vers le .md brut (#md/...). */
+    function buildNationPathMap() {
+        const map = {};
+        const NAT = (window.LoreReader && window.LoreReader.NATIONS) || {};
+        if (!window.NavConfig || typeof NavConfig.slugifyNation !== 'function') return map;
+        for (const name in NAT) {
+            const slug = NavConfig.slugifyNation(name);
+            if (NAT[name].pays)      map[NAT[name].pays] = slug;
+            if (NAT[name].histoires) map[NAT[name].histoires] = slug;
+        }
+        return map;
+    }
+
     async function postProcessObsidianLinks(rootEl, currentMdPath) {
         const links = rootEl.querySelectorAll('a.md-link[data-md-target]');
         if (links.length === 0) return;
 
         const manifest = await getManifest();
+        const nationPaths = buildNationPathMap();
 
         links.forEach(link => {
             const target = link.dataset.mdTarget;
@@ -470,6 +486,14 @@
                 link.classList.add('md-link-broken');
                 link.title = 'Lien non résolu : ' + target;
                 link.addEventListener('click', e => e.preventDefault());
+                return;
+            }
+            // Si la cible est une fiche/histoire de nation, router vers le lecteur
+            // unifié #nation/<slug> (une seule page par nation, Description + Histoire).
+            const natSlug = nationPaths[resolved.replace(/^Lore\//, '')];
+            if (natSlug) {
+                link.href = '#nation/' + natSlug;
+                link.classList.add('md-link-nation');
                 return;
             }
             link.dataset.mdResolved = resolved;
