@@ -199,7 +199,7 @@ Le **Dresseur de créature** apprivoise et entraîne des créatures pour qu'elle
 
 - **Saison de chasse** — afflux captures
 - **Faction militaire** — commande cavalerie en série
-- **Religion** ([[Lore/Religions/Foedus Animae]]) : faucons sacrés Onara, [[Lore/Religions/Vael Kurash]] : esprits-animaux
+- **Religion** ([[Lore/Religions/Foedus Animae]]) : faucons sacrés Onara, [[Lore/Religions/Vael'Kurash]] : esprits-animaux
 
 ---
 

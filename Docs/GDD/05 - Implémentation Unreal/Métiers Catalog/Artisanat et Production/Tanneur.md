@@ -126,7 +126,7 @@ Recettes signature par palier :
 
 ### Selon la religion
 
-- **Vael Kurash** (mort/ancêtres) : tabou sur le cuir des aïeux ; rituels de "remerciement à la créature" obligatoires sinon malus à la qualité
+- **Vael'Kurash** (mort/ancêtres) : tabou sur le cuir des aïeux ; rituels de "remerciement à la créature" obligatoires sinon malus à la qualité
 - **Foedus Animae** (âmes) : cuir d'un animal compagnon = pacte rituel possible (cuir signé)
 - **Lex Petra** : peu d'intérêt pour le cuir, préfère pierre
 
@@ -192,7 +192,7 @@ Recettes signature par palier :
 - [ ] **Frontière Cuir tanné vs Cuir brut** : le terme "Cuir" dans [[Sources de Ressources]] §Récolte Créature couvre la peau brute. Le "Cuir tanné" est l'état stable. Garder un seul archétype Cuir (avec frontmatter `state: brut|tanné`) ou créer un archétype distinct *Cuir tanné* dans [[Catalogue/Ressources/Fabriqué]] ? **Recommandation** : un seul archétype avec deux états, Tanneur fait la transition.
 - [ ] **Sous-maîtrises (Mégissier, Hongroyeur, Parcheminier)** : créer comme métiers distincts ou sous-spécialisations Tanneur ? Recommandation : sous-spé Tanneur.
 - [ ] **Cuir cosmique (Spectral, Onirique)** : recettes signature à formaliser en Phase 3 (branche Architecture Data-Driven §ItemModifier).
-- [ ] **Tabou Vael Kurash** : impact gameplay quantifié (-X% qualité ? quête de purification ?) — à playtester.
+- [ ] **Tabou Vael'Kurash** : impact gameplay quantifié (-X% qualité ? quête de purification ?) — à playtester.
 - [ ] **Cuir d'humanoïde** (loot Goblin/Orc) : marché noir karma rouge (cf. M3 §Sécurité §Assassin) — frontière éthique à acter.
 
 ---

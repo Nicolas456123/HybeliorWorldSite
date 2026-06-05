@@ -109,7 +109,7 @@ Modulateurs ([[Concepts Fondamentaux IA PNJ]] §6) :
 | **Dialogue** | Inspection ou collègue | Bref technique ; ESTP raconte, ISTJ/ISTP factuel |
 | **Crise** | **Effondrement charpente OU navire en perdition** | `Combat.Flee` ou `Combat.NavalRepair` urgent |
 | **Festivité** | **Inauguration bâtiment / lancement navire** | Fierté, chant collectif, présent obligatoire |
-| **Religieux** | Variable — [[Vael Kurash]] (esprit du bois — Trinoria), [[Lore/Religions/Via Ventus]] (chant marin pré-traversée — naval) | Rituel court selon spé |
+| **Religieux** | Variable — [[Vael'Kurash]] (esprit du bois — Trinoria), [[Lore/Religions/Via Ventus]] (chant marin pré-traversée — naval) | Rituel court selon spé |
 | **Deuil** | Camarade tué (chute hauteur, naufrage) | -25 mood 7j, équipe silencieuse |
 | **Quête** | Construction exceptionnelle (cathédrale, navire amiral) | Continue routine + dialogue |
 

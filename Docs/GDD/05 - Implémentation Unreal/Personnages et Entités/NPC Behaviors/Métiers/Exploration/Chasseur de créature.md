@@ -25,7 +25,7 @@ Le Chasseur de créature est le **prédateur professionnel** d'Hybelior. Cible :
 - **Position sociale** : aventurier respecté, fournisseur de matières rares (cuir, corne, venin)
 - **Slot Mode Marchand** : vente directe au [[Tanneur]], [[Apothicaire]], [[Boucher]] — ponctuel à chaque retour
 - **Lien chaîne** : amont [[Forgeron]] (munitions, pièges) · aval [[Tanneur]], [[Apothicaire]], [[Boucher]], joueurs aventuriers (fourniture matières)
-- **Karma vert** par défaut — sauf chasse illégale (espèces protégées en territoire [[Vael Kurash]] → Karma gris/rouge)
+- **Karma vert** par défaut — sauf chasse illégale (espèces protégées en territoire [[Vael'Kurash]] → Karma gris/rouge)
 
 ---
 
@@ -96,7 +96,7 @@ Modulateurs ([[Concepts Fondamentaux IA PNJ]] §6) :
 | **Dialogue** | Échange technique (autre chasseur, client) | Bref, factuel ; ESTP raconte exploits |
 | **Crise** | **= combat créature actif** | **Performance** — `Combat.Tactical`, exploite faiblesses (Mémoire bestiaire) |
 | **Festivité** | Festival de chasse local | Présente prises rares, parade trophée (ESTP brille) |
-| **Religieux** | [[Vael Kurash]] (ritual avant chasse) ou [[Lore/Religions/Foedus Animae]] (offrande à la prise) | Prière brève, offrande à l'esprit de la bête |
+| **Religieux** | [[Vael'Kurash]] (ritual avant chasse) ou [[Lore/Religions/Foedus Animae]] (offrande à la prise) | Prière brève, offrande à l'esprit de la bête |
 | **Deuil** | Animal compagnon tué | -20 mood 5j (moins long que Dresseur — relation fonctionnelle) |
 
 Cascade priorité : Crise (combat créature) > Religieux > Itinérant > Marchand > Routine.
@@ -137,7 +137,7 @@ Cascade priorité : Crise (combat créature) > Religieux > Itinérant > Marchand
 
 ### 6.4 Chasse illégale (Karma)
 
-- **Trigger** : tir sur espèce protégée (territoire [[Vael Kurash]])
+- **Trigger** : tir sur espèce protégée (territoire [[Vael'Kurash]])
 - **Effets** : -30 Reconnaissance faction Vael'Kurash ; karma gris si vu, rouge si répété
 - **MBTI T** (commun) : peu de remord moral ; rationalise par profit
 

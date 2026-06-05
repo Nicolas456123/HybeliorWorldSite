@@ -6,14 +6,14 @@ catégorie_métier: Mysticisme
 stat_principale: Mémoire
 stats_secondaires: [Acuité, Verbe, Endurance]
 voie_magique: -
-religion_compatible: [Vael Kurash, Foedus Animae, Ignis Aeternum]
+religion_compatible: [Vael'Kurash, Foedus Animae, Ignis Aeternum]
 craft_category: Alchimie (légère, T1-T3)
 sources_ressources_accessibles: [Plante médicinale, Eau pure, Cire, Cendre, Sel, Sang créature commune]
 stations_principales: [Officine, Mortier et alambic léger, Comptoir d'apothicaire, Cabinet de consultation]
 outils_principaux: [Mortier et pilon, Alambic léger, Bocaux scellés, Carnet de remèdes]
 paliers_maîtrise: [Novice, Initié, Adepte, Expert, Maître]
 karma_typique: vert
-factions_compatibles: [Guildes d'apothicaires, Vael Kurash, Foedus Animae]
+factions_compatibles: [Guildes d'apothicaires, Vael'Kurash, Foedus Animae]
 era_modulation: true
 status: drafted
 last_review: 2026-05-01
@@ -62,7 +62,7 @@ L'Apothicaire est un métier **principalement terrestre** — pas de Voie active
 ### Apothicaire-Lié à Spiritus (rare)
 
 - Voie de Spiritus optionnelle
-- Religion : [[Lore/Religions/Vael Kurash\|Vael'Kurash]]
+- Religion : [[Lore/Religions/Vael'Kurash\|Vael'Kurash]]
 - Bonus : récolte/préparation rituelle des plantes plus efficace, +20% qualité
 - Karma : **vert**
 
@@ -193,7 +193,7 @@ L'Apothicaire est un métier **principalement terrestre** — pas de Voie active
 | **Ère de la Brume Mortelle** | Antidotes très demandés, prix x3, +50% Reconnaissance si fournisseur fiable |
 | **Post-[[Le Souffle]]** | Demande de remèdes en pic (1 semaine), prix x2, opportunité économique |
 | **[[L'Accord]] ≥ 75%** | Spécialités signées débloquées plus tôt |
-| **Religion alignée** ([[Lore/Religions/Vael Kurash\|Vael'Kurash]] surtout) | +Reconnaissance, accès recettes rituelles |
+| **Religion alignée** ([[Lore/Religions/Vael'Kurash\|Vael'Kurash]] surtout) | +Reconnaissance, accès recettes rituelles |
 | **Faction noble protectrice** | Rente, prix garantis, clientèle premium |
 | **Guilde d'apothicaires** | Mutualisation, recettes partagées, prix marché |
 | **Concurrence Alchimiste local** | Frontière respectée : Apothicaire = traditionnel ; Alchimiste = expérimental |
@@ -249,4 +249,4 @@ Apothicaire ↔ [[Alchimiste]] : frontière respectée (T3 max vs T4-T6)
 
 ---
 
-*Liens : [[Métiers]] · [[Personnage]] · [[Potion]] · [[Sources de Ressources]] · [[Alchimiste]] · [[Herboriste]] · [[Médecin]] · [[Guérisseur]] · [[Cuisinier]] · [[Prêtre]] · [[Tome]] · [[Économie]] · [[L'Accord]] · [[Le Souffle]] · [[Les Ères]] · [[Lore/Religions/Vael Kurash]] · [[Lore/Religions/Foedus Animae]] · [[Lore/Religions/Ignis Aeternum]]*
+*Liens : [[Métiers]] · [[Personnage]] · [[Potion]] · [[Sources de Ressources]] · [[Alchimiste]] · [[Herboriste]] · [[Médecin]] · [[Guérisseur]] · [[Cuisinier]] · [[Prêtre]] · [[Tome]] · [[Économie]] · [[L'Accord]] · [[Le Souffle]] · [[Les Ères]] · [[Lore/Religions/Vael'Kurash]] · [[Lore/Religions/Foedus Animae]] · [[Lore/Religions/Ignis Aeternum]]*

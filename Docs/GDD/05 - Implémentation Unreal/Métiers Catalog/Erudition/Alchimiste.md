@@ -113,7 +113,7 @@ Il est l'un des **rares métiers** qui touche à la fois aux ressources les plus
 | **Novice** | Potion de soin mineure · Potion de mana mineure · Antidote commun · Onguent cicatrisant basique |
 | **Initié** | Potion de Vivacité (10 min) · Élixir d'Endurance · Poison de lame (faible) · Onguent de brûlure |
 | **Adepte** | Élixir de Mémoire (étude accélérée) · Émulsion d'enchantement (Forge), Fumigène tactique · Antidote universel mineur |
-| **Expert** | Potion d'ère ([[Les Ères|Verdoiement]] = régénération en zone), poison de [[Vael Kurash]] (dueliste), élixir de [[Le Lien]] (boost Voie 30 min) |
+| **Expert** | Potion d'ère ([[Les Ères|Verdoiement]] = régénération en zone), poison de [[Vael'Kurash]] (dueliste), élixir de [[Le Lien]] (boost Voie 30 min) |
 | **Maître** | **Élixir du Concordant** (œuvre signée, +5% [[L'Accord]] sur action héroïque), Potion du Souffle (réservée aux Prophètes, [[Prédiction]]), Poison de l'Ombre Longue ([[Noctis]]) |
 
 → Recettes individuelles : Phase 2 Recipe Generator. Cross-réf [[Crafts]] §Alchimie.

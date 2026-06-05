@@ -226,7 +226,7 @@ Quand toutes les pages sont consumées, le livre devient un **livre vierge** (R�
 - **Géant avec l'immortalité** (T5, [[Lore/Religions/Foedus Animae]])
   *Codex onarien lié à un rituel de longue vie. 10 pages : 5 sorts soin majeur + 5 sorts buff Endurance permanent. Bonus narratif : déverrouille dialogue avec esprit-ancien.*
 
-- **Vautours avec honneur** (T4, [[Lore/Religions/Vael Kurash]])
+- **Vautours avec honneur** (T4, [[Lore/Religions/Vael'Kurash]])
   *Codex chamane des fjords. 7 pages : sorts d'invocation compagnon-charognard 2 min. Bonus narratif : reconnu chez les chamanes alkarans.*
 
 - **Flèche des Dieux** (T5, [[Lore/Religions/Ignis Aeternum]])
@@ -238,7 +238,7 @@ Quand toutes les pages sont consumées, le livre devient un **livre vierge** (R�
 - **Mendier dans les abysses** (T5, espionnage Vytharia)
   *Codex noir. 10 pages : sorts furtivité + invisibilité courte. Bonus narratif : marqueur Veilari.*
 
-- **Arbres et vautours** (T3, [[Lore/Religions/Foedus Animae]] + [[Lore/Religions/Vael Kurash]])
+- **Arbres et vautours** (T3, [[Lore/Religions/Foedus Animae]] + [[Lore/Religions/Vael'Kurash]])
   *Codex hybride double-religion. 5 pages : sorts communion + invocation. Bonus narratif : double allégeance.*
 
 ---

@@ -271,7 +271,7 @@ Le **pain** est l'aliment fondamental d'Hybelior — produit en quantité par le
 - **Pain de Voyageur de Galenor** (T3, [[Les Ères\|Vents Bouleversants]] uniquement)
   *Pain rond, percé au centre pour être passé sur une corde de selle. Conservation +5 jours en monture. Effet : Stamina + +5 Endurance 10 min + immunité fatigue voyage. Recette favorite des caravaniers et marchands itinérants.*
 
-- **Pain Noir d'Alkaran** (T3-T4, identité tribale [[Lore/Religions/Vael Kurash|Vael'Kurash]])
+- **Pain Noir d'Alkaran** (T3-T4, identité tribale [[Lore/Religions/Vael'Kurash|Vael'Kurash]])
   *Dense et amer, conservé un mois. Marqueur d'appartenance au peuple du Nord. Effet : Stamina + résistance froid 35% + +5 Endurance. Bonus narratif : les chamanes alkarans reconnaissent un mangeur de leur pain comme un allié.*
 
 - **Brioche Étoilée d'Astravia** (T5, rituel [[Lore/Religions/Ordo Caelum|Ordo Caelum]])
@@ -289,7 +289,7 @@ Le **pain** est l'aliment fondamental d'Hybelior — produit en quantité par le
 - **Pain du Cycle de Sylthara** (T5, rituel [[Lore/Religions/Rota Mundi|Rota Mundi]])
   *Pain rond marqué de runes saisonnières. Effet varie selon la saison de consommation : printemps = Vivacité, été = Vigueur, automne = Mémoire, hiver = Endurance.*
 
-- **Pain Ancestral d'Ulinor** (T4, rituel double [[Lore/Religions/Vael Kurash|Vael'Kurash]] + [[Lore/Religions/Foedus Animae|Foedus Animae]])
+- **Pain Ancestral d'Ulinor** (T4, rituel double [[Lore/Religions/Vael'Kurash|Vael'Kurash]] + [[Lore/Religions/Foedus Animae|Foedus Animae]])
   *Pain pétri en cavernes, parfumé à la sève d'arbre ancien. Effet : Stamina + communion 15 min avec l'esprit-ancien d'un lieu. Bonus narratif : déverrouille des dialogues d'esprits dans tout Ulinor.*
 
 > Phase 4 prévoit **2-3 pains signature par grand pays** (~30 pays), **1 pain rituel par religion** (9 pains rituels canoniques) → ~80-100 pains signatures à terme. La table des religions dominantes par pays ([[Lore/Religions/00 - Système Religieux]]) sert de matrice.

@@ -7,8 +7,8 @@ métier_lié: "[[03 - Mécaniques/Métiers/Mysticisme/Herboriste]]"
 mbti_typique: [ISFJ, INFP, ISTJ]
 karma_typique: vert
 voie_magique_principale: Spiritus (optionnelle, non-Lié fréquent)
-religion_compatible: [Vael Kurash, Foedus Animae, Somnium Vigil]
-factions_compatibles: [Vael Kurash, Foedus Animae, Cercles de Spiritus, Guildes d'herboristerie]
+religion_compatible: [Vael'Kurash, Foedus Animae, Somnium Vigil]
+factions_compatibles: [Vael'Kurash, Foedus Animae, Cercles de Spiritus, Guildes d'herboristerie]
 template_alternatif_souffle: false
 ritual_pattern_religion: [RP_VAEL_KURASH (si Lié), RP_SOMNIUM_VIGIL (Vigili herboriste)]
 needs_review_for: [calibration-playtest, pont-botaniste-apothicaire]

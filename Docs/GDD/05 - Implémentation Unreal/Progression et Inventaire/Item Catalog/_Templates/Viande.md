@@ -110,7 +110,7 @@ La **viande** est récoltée par les [[Métiers|Chasseur]] et [[Métiers|Dépéc
 | 1 | **Chassé à l'aube** | Magnitude +15% si consommé J1 |
 | 2 | **Fumé au feu sacré** ([[Lore/Religions/Ignis Aeternum]]) | +5 Vigueur bonus + Reconnaissance |
 | 3 | **Mariné aux herbes** | Modificateur Herbes appliqué |
-| 4 | **Saignée rituelle** ([[Lore/Religions/Vael Kurash]]) | +3 Esprit bonus + Reconnaissance chamane |
+| 4 | **Saignée rituelle** ([[Lore/Religions/Vael'Kurash]]) | +3 Esprit bonus + Reconnaissance chamane |
 | 5 | **Vieillie en cave** | +1 tier conservation |
 | 6 | **Coupé maître boucher** | Magnitude +10%, action −0.5s |
 | 7 | **Glaçé** ([[Cosmologie\|Aquor]]) | Conservation × 3 |
@@ -217,7 +217,7 @@ La **viande** est récoltée par les [[Métiers|Chasseur]] et [[Métiers|Dépéc
 - **Jambon Doré de Galenor** (T4, identité galenorienne)
   *Affiné en cave 2 ans. Effet : Stamina + +10 Présence + 8 Vigueur 15 min. Bonus narratif : badge négociant.*
 
-- **Cuissot d'Ours-Chamane** (T5, [[Lore/Religions/Vael Kurash]])
+- **Cuissot d'Ours-Chamane** (T5, [[Lore/Religions/Vael'Kurash]])
   *Ours sacré tué dans rituel. Effet : Stamina + +20 stat + communion brève esprit.*
 
 - **Cœur de Dragon Cendarien** (T6, [[Lore/Religions/Ignis Aeternum]])

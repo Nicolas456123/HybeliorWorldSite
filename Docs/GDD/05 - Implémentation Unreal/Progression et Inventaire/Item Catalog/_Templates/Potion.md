@@ -281,7 +281,7 @@ Magnitude variable, effet narratif > effet pur. Tier 5-6 uniquement. Détail dan
   *Distillé sous le ciel étoilé pendant un rituel astronomique des [[Lore/Religions/Ordo Caelum|Stellari]]. Le buveur voit briefly les constellations même de jour — bonus narratif : déverrouille des dialogues uniques avec les astronomes.*
 
 - **Sang de la Caverne d'Ulinor** (T4, Soin + immunité poison)
-  *Récolté goutte à goutte d'une stalactite rouge sang dans les profondeurs d'Ulinor. Religion d'origine : [[Lore/Religions/Vael Kurash|Vael'Kurash]]. Bonus narratif : les esprits-anciens reconnaissent le buveur dans les forêts d'Alkaran.*
+  *Récolté goutte à goutte d'une stalactite rouge sang dans les profondeurs d'Ulinor. Religion d'origine : [[Lore/Religions/Vael'Kurash|Vael'Kurash]]. Bonus narratif : les esprits-anciens reconnaissent le buveur dans les forêts d'Alkaran.*
 
 - **Larme de Foedus** (T6, Dispel + protection au-delà mort)
   *Rituel funéraire d'un chamane [[Lore/Religions/Foedus Animae|Animari]] sur sa propre tombe. La potion garde la trace d'une âme — si le buveur meurt dans les 24h après ingestion, son corps n'est pas profané (gameplay : pas de baisse de Reconnaissance — voir [[Mort]]).*

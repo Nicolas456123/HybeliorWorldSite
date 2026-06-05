@@ -104,7 +104,7 @@ Modulateurs ([[Concepts Fondamentaux IA PNJ]] §6) :
 | **Dialogue** | Échange avec collègue ou client | Bavard sur les bêtes (ENFP), silencieux (INFP/ISFP) |
 | **Crise** | ThreatLevel ≥ 50 | Fuit avec compagnons ; combat défensif si MBTI **F** protège animal |
 | **Festivité** | Festival local | Présente animaux dressés (parade), ENFP brille |
-| **Religieux** | [[Vael Kurash]] / [[Lore/Religions/Foedus Animae]] (pacte animal) | Rituel d'offrande à l'esprit local, bénédiction des bêtes |
+| **Religieux** | [[Vael'Kurash]] / [[Lore/Religions/Foedus Animae]] (pacte animal) | Rituel d'offrande à l'esprit local, bénédiction des bêtes |
 | **Deuil** | Mort d'un compagnon animal | Forte affliction (-30 mood 7j), cérémonie de sépulture animale |
 
 Cascade priorité : Crise > Religieux > Itinérant > Marchand > Routine.
@@ -172,7 +172,7 @@ Cascade priorité : Crise > Religieux > Itinérant > Marchand > Routine.
 
 | Nation | Style | MBTI dominant | Spécialité |
 |--------|-------|---------------|------------|
-| **Trinoria** (sylvestre) | Communion forestière, [[Vael Kurash]] | INFP | Apprivoisement loups, cervidés, oiseaux forestiers |
+| **Trinoria** (sylvestre) | Communion forestière, [[Vael'Kurash]] | INFP | Apprivoisement loups, cervidés, oiseaux forestiers |
 | **Onara** (plaines) | Cavalier-dresseur, équidés sauvages | ENFP | Chevaux de plaine, faucons |
 | **Cendara** (volcanique) | Apprivoiseur de bêtes ignées | ISFP | Salamandres, créatures de feu |
 | **Aerion** (vents) | Fauconnier des hauteurs, [[Lore/Religions/Via Ventus]] | ENFP | Aviens, montures volantes Phase 4 |

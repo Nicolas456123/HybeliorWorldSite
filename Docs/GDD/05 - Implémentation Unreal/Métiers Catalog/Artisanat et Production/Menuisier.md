@@ -167,7 +167,7 @@ Le **Menuisier** scie, rabote, assemble le bois pour produire des objets utilita
 6. **Marqueterie signature** — bonus social, prestige
 7. **Ferré** — assemblage métal renforcé (durabilité ×2)
 8. **Doré** ([[Les Ères|Rêve Lumineux]]) — bois doré, prestige
-9. **Sépulcral** ([[Lore/Religions/Vael Kurash]]) — bois funéraire bonifié
+9. **Sépulcral** ([[Lore/Religions/Vael'Kurash]]) — bois funéraire bonifié
 10. **Onirique** ([[Les Ères|Sommeil Onirique]]) — items persistent à travers le sommeil
 
 ---

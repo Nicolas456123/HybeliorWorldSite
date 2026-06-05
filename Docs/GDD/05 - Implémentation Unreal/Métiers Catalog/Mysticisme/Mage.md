@@ -77,7 +77,7 @@ Le Mage est défini par **sa Voie active** — c'est l'axe identitaire central d
 | **Aerion** | [[Lore/Religions/Via Ventus\|Via Ventus]] | vert | Mage du vent, vol, tempête |
 | **Aurion** | [[Lore/Religions/Somnium Vigil\|Somnium Vigil]] | vert | Mage arcanique pur |
 | **Umbra** | [[Lore/Religions/Noctari\|Noctari]] | jaune | Mage furtif, illusions |
-| **Spiritus** | [[Lore/Religions/Vael Kurash\|Vael'Kurash]] | vert | Mage de la nature (chevauche [[Guérisseur]] et [[Herboriste]]) |
+| **Spiritus** | [[Lore/Religions/Vael'Kurash\|Vael'Kurash]] | vert | Mage de la nature (chevauche [[Guérisseur]] et [[Herboriste]]) |
 | **Fatum** | [[Lore/Religions/Foedus Animae\|Foedus Animae]] | jaune | Mage des destins (chevauche [[Oracle]]) |
 | **Terranu** | [[Lore/Religions/Lex Petra\|Lex Petra]] | vert | Mage de la terre, fertilité, pierre |
 | **Somnix** | [[Lore/Religions/Somnium Vigil\|Somnium Vigil]] | jaune | Mage des rêves, illusions mentales |

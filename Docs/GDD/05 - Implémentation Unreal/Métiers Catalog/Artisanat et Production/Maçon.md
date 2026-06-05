@@ -201,7 +201,7 @@ Le **Maçon** assemble pierres, briques et mortier pour construire **murs porteu
 ### Par religion
 
 - **[[Lore/Religions/Lex Petra]]** : religion de la pierre — Maçon central, recettes consacrées, mortier béni, Reconnaissance bonifiée
-- **Vael Kurash** : tabou sur certaines pierres tombales (rituels d'apaisement requis)
+- **Vael'Kurash** : tabou sur certaines pierres tombales (rituels d'apaisement requis)
 - **Foedus Animae** : pierre vivante (carrières conscientes) — extraction rituelle obligatoire
 
 ### Par faction / contexte

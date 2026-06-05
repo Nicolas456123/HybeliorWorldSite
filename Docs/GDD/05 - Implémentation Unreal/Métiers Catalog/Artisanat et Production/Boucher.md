@@ -129,7 +129,7 @@ Le **Boucher** découpe les carcasses, sépare les morceaux, conserve la viande 
 | **2 — Initié** | Mouton, chèvre, cerf moyen. Salaison basique. Rendement ~65%. Conservation 3 jours | Usage : 30 carcasses |
 | **3 — Adepte** | Bovin, sanglier, gibier moyen. Charcuterie fumée. Rendement ~80%. Conservation 7 jours | Usage : 100 carcasses + recette charcuterie débloquée |
 | **4 — Expert** | Grandes carcasses, créatures Bestiaire T3-T4. Découpe créature exotique (frontière Dépéceur). Charcuterie signature pays | Usage + spécialité (signature charcutière reconnue) |
-| **5 — Maître** 🔒 | Créatures Bestiaire T5+ (dragons, colosses). Préservation organes alchimiques rares. Découpe rituelle (cf. [[Lore/Religions/Vael Kurash]]) | **Condition cachée** : ex. découper un dragon entier sans perte, fournir un organe d'Éternel à un Apothicaire-Maître, cérémonie funéraire d'une bête sacrée |
+| **5 — Maître** 🔒 | Créatures Bestiaire T5+ (dragons, colosses). Préservation organes alchimiques rares. Découpe rituelle (cf. [[Lore/Religions/Vael'Kurash]]) | **Condition cachée** : ex. découper un dragon entier sans perte, fournir un organe d'Éternel à un Apothicaire-Maître, cérémonie funéraire d'une bête sacrée |
 
 ---
 
@@ -210,7 +210,7 @@ Le **Boucher** découpe les carcasses, sépare les morceaux, conserve la viande 
 - **Saison de chasse** — afflux gibier, rendements bonifiés
 - **Festival** — demande pléthorique, prix x1.5
 - **Famine / pénurie** — viande rare, prix flambés
-- **Pacte religieux** ([[Lore/Religions/Vael Kurash|Vael'Kurash]] — découpe rituelle des ancêtres) : recettes spécifiques
+- **Pacte religieux** ([[Lore/Religions/Vael'Kurash|Vael'Kurash]] — découpe rituelle des ancêtres) : recettes spécifiques
 
 ---
 
@@ -266,4 +266,4 @@ Le **Boucher** découpe les carcasses, sépare les morceaux, conserve la viande 
 
 ---
 
-*Liens : [[Métiers]] · [[Crafts]] · [[Sources de Ressources]] · [[Catégories d'Items]] · [[Personnage]] · [[Viande]] · [[Os]] · [[Cuisinier]] · [[Tanneur]] · [[Apothicaire]] · [[Bestiary/Index]] · [[Économie]] · [[Les Ères]] · [[Lore/Religions/Vael Kurash]]*
+*Liens : [[Métiers]] · [[Crafts]] · [[Sources de Ressources]] · [[Catégories d'Items]] · [[Personnage]] · [[Viande]] · [[Os]] · [[Cuisinier]] · [[Tanneur]] · [[Apothicaire]] · [[Bestiary/Index]] · [[Économie]] · [[Les Ères]] · [[Lore/Religions/Vael'Kurash]]*

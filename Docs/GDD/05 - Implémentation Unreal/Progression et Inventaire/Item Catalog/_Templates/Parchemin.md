@@ -243,7 +243,7 @@ Un **parchemin** est un support écrit (papier, peau, vellum) sur lequel un [[M�
 - **Parchemin du Veilleur** (T4, Astravia, [[Lore/Religions/Ordo Caelum]])
   *Vellum stellaire, encre brillant doucement la nuit. Effet : sort de scrutation (révèle ennemis dans 30m pendant 20s). Bonus narratif : reconnu des Stellari.*
 
-- **Sceau de la Caverne d'Ulinor** (T3, identité [[Lore/Religions/Vael Kurash]])
+- **Sceau de la Caverne d'Ulinor** (T3, identité [[Lore/Religions/Vael'Kurash]])
   *Parchemin gravé d'écorce sacrée. Effet : invoque un esprit-loup compagnon 60s. Bonus narratif : les chamanes accèdent.*
 
 - **Lettre Brûlée de Cendara** (T5, [[Lore/Religions/Ignis Aeternum]])

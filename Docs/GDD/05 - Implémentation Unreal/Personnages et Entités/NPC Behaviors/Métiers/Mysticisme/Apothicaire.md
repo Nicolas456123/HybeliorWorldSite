@@ -7,8 +7,8 @@ métier_lié: "[[03 - Mécaniques/Métiers/Mysticisme/Apothicaire]]"
 mbti_typique: [ISTJ, ISFJ, ISTP]
 karma_typique: vert
 voie_magique_principale: -
-religion_compatible: [Vael Kurash, Foedus Animae, Ignis Aeternum]
-factions_compatibles: [Guildes d'apothicaires, Vael Kurash, Foedus Animae]
+religion_compatible: [Vael'Kurash, Foedus Animae, Ignis Aeternum]
+factions_compatibles: [Guildes d'apothicaires, Vael'Kurash, Foedus Animae]
 template_alternatif_souffle: false
 ritual_pattern_religion: [RP_VAEL_KURASH (rare), RP_FOEDUS_ANIMAE, RP_IGNIS_AETERNUM]
 needs_review_for: [calibration-playtest, frontière-alchimiste-précise, gamme-T4-T5]

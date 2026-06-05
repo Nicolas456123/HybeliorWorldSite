@@ -36,4 +36,4 @@ condition_cachée: 🔒 préparer pendant Crépuscule Pourpre
 
 Prix : ~150 Éclats.
 
-*Liens : [[_Description|Boissons]] · [[Lore/Religions/Vael Kurash]]*
+*Liens : [[_Description|Boissons]] · [[Lore/Religions/Vael'Kurash]]*

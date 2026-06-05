@@ -6,14 +6,14 @@ catégorie_métier: Mysticisme
 stat_principale: Esprit
 stats_secondaires: [Résonance, Conscience, Verbe]
 voie_magique: Spiritus | Aurion | secondaire (Eldoria, Fatum, Somnix)
-religion_compatible: [Vael Kurash, Foedus Animae, Somnium Vigil]
+religion_compatible: [Vael'Kurash, Foedus Animae, Somnium Vigil]
 craft_category: -
 sources_ressources_accessibles: [Cristal de Voie, Essence spirituelle, Sève d'arbre ancien, Plume de créature liée, Larme]
 stations_principales: [Cercle d'enchantement vivant, Bosquet sacré, Étable consacrée, Pavillon de symbiose]
 outils_principaux: [Sceptre vivant, Tome Spiritus, Anneau de pacte, Talisman lié]
 paliers_maîtrise: [Novice, Initié, Adepte, Expert, Maître]
 karma_typique: vert (variantes jaunes selon usage)
-factions_compatibles: [Vael Kurash, Foedus Animae, Cercles de Spiritus, Dresseurs de la Symbiose]
+factions_compatibles: [Vael'Kurash, Foedus Animae, Cercles de Spiritus, Dresseurs de la Symbiose]
 era_modulation: true
 status: drafted
 last_review: 2026-05-01
@@ -61,7 +61,7 @@ L'Enchanteur du vivant est un **métier-pivot** entre la magie pure et le soin/s
 
 | Voie | Style | Religion principale | Karma | Spécificité |
 |------|-------|---------------------|-------|-------------|
-| **Voie de Spiritus** | Symbiose nature, animal-pacte, plante-veilleuse | [[Lore/Religions/Vael Kurash\|Vael'Kurash]] | vert | La Voie canonique. Permet l'invocation temporaire et le pacte permanent avec la faune. |
+| **Voie de Spiritus** | Symbiose nature, animal-pacte, plante-veilleuse | [[Lore/Religions/Vael'Kurash\|Vael'Kurash]] | vert | La Voie canonique. Permet l'invocation temporaire et le pacte permanent avec la faune. |
 | **Voie d'Aurion** | Énergie pure infusée dans le vivant | [[Lore/Religions/Somnium Vigil\|Somnium Vigil]] | vert | Plus académique. Buff arcanique sur joueur ; rare en symbiose animale. |
 
 ### Voies secondaires
@@ -177,7 +177,7 @@ L'Enchanteur du vivant est un **métier-pivot** entre la magie pure et le soin/s
 | **Post-[[Le Souffle]]** | Pactes Magistral+ rouille −10% sem 1-2 ; un Souffle peut **briser** un pacte fragile |
 | **[[L'Accord]] ≥ 75%** | Durée pactes +50%, sceau de lignée permanent débloqué plus tôt |
 | **Forêt ancienne / Bosquet** | +25% efficacité, recharge Mana +50% |
-| **Religion alignée** ([[Lore/Religions/Vael Kurash\|Vael'Kurash]]) | +Reconnaissance, accès rituels exclusifs |
+| **Religion alignée** ([[Lore/Religions/Vael'Kurash\|Vael'Kurash]]) | +Reconnaissance, accès rituels exclusifs |
 | **Ville/Capitale industrielle** (Iskara, Mosrack) | −15% efficacité, suspicion sociale |
 | **PvP — buff prolongé sur cible joueur** | Buff plafonné à 1h en zone PvP active (anti-stack) |
 | **Cible animale stressée/blessée** | Pacte 30% plus difficile (Conscience check) |
@@ -230,4 +230,4 @@ Enchanteur du vivant → Lignées nobles ou Foedus Animae (sceau de lignée)
 
 ---
 
-*Liens : [[Métiers]] · [[Personnage]] · [[Le Lien]] · [[Cosmologie]] · [[Enchanteur d'objet]] · [[Dresseur de créature]] · [[Guérisseur]] · [[Herboriste]] · [[Berger]] · [[Prêtre]] · [[Mage]] · [[Tome]] · [[Anneau]] · [[Potion]] · [[L'Accord]] · [[Le Souffle]] · [[Lore/Religions/Vael Kurash]] · [[Lore/Religions/Foedus Animae]]*
+*Liens : [[Métiers]] · [[Personnage]] · [[Le Lien]] · [[Cosmologie]] · [[Enchanteur d'objet]] · [[Dresseur de créature]] · [[Guérisseur]] · [[Herboriste]] · [[Berger]] · [[Prêtre]] · [[Mage]] · [[Tome]] · [[Anneau]] · [[Potion]] · [[L'Accord]] · [[Le Souffle]] · [[Lore/Religions/Vael'Kurash]] · [[Lore/Religions/Foedus Animae]]*

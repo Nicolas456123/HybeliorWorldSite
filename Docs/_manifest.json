@@ -6003,12 +6003,6 @@
       "name": "Chapitre 40 - Les Murs Tombent",
       "file": "Chapitre 40 - Les Murs Tombent.md",
       "title": "Chapitre 40 — Les Murs Tombent"
-    },
-    {
-      "name": "_arc-sorin",
-      "file": "_arc-sorin.md",
-      "title": "Arc narratif de Sorin Valthen — référence pour A.4",
-      "isIndex": true
     }
   ],
   "Lore/Chronologie": [
@@ -6732,9 +6726,9 @@
       "title": "🌙 Somnium Vigil — Le Rêve Éveillé"
     },
     {
-      "name": "Vael Kurash",
-      "file": "Vael Kurash.md",
-      "title": "🌿 Vael Kurash — Le Culte des Esprits Anciens"
+      "name": "Vael'Kurash",
+      "file": "Vael'Kurash.md",
+      "title": "🌿 Vael'Kurash — Le Culte des Esprits Anciens"
     },
     {
       "name": "Via Ventus",
@@ -6773,30 +6767,6 @@
       "name": "Taciti",
       "file": "Taciti.md",
       "title": "🤫 Taciti — Les Silencieux"
-    }
-  ],
-  "Lore/_Analyse": [
-    {
-      "name": "Audit Patterns Existants",
-      "file": "Audit Patterns Existants.md",
-      "title": "Audit Patterns Existants — Lore Hybélior"
-    },
-    {
-      "name": "CHANTIER - Veines Philosophiques",
-      "file": "CHANTIER - Veines Philosophiques.md",
-      "title": "🌿 CHANTIER — Veines Philosophiques d'Hybélior"
-    },
-    {
-      "name": "Veines philosophiques - Référence",
-      "file": "Veines philosophiques - Référence.md",
-      "title": "🌿 Veines Philosophiques d'Hybélior — Référence d'écriture"
-    }
-  ],
-  "Lore/_Analyse/Archives": [
-    {
-      "name": "Rapport Revision Chronologie 2026-04",
-      "file": "Rapport Revision Chronologie 2026-04.md",
-      "title": "RAPPORT DE REVISION CHRONOLOGIQUE — SYNTHESE COMPLETE"
     }
   ],
   "Lore/_Audio/Chroniques": [

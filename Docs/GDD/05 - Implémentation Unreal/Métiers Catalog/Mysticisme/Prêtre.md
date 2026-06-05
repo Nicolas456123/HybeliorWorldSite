@@ -6,7 +6,7 @@ catégorie_métier: Mysticisme
 stat_principale: Conscience
 stats_secondaires: [Verbe, Mémoire, Présence]
 voie_magique: variable (selon religion)
-religion_compatible: [Vael Kurash, Ignis Aeternum, Ordo Caelum, Noctari, Rota Mundi, Via Ventus, Lex Petra, Somnium Vigil, Foedus Animae]
+religion_compatible: [Vael'Kurash, Ignis Aeternum, Ordo Caelum, Noctari, Rota Mundi, Via Ventus, Lex Petra, Somnium Vigil, Foedus Animae]
 craft_category: -
 sources_ressources_accessibles: [Encens sacré, Texte sacré, Eau bénite, Reliques, Calendrier liturgique]
 stations_principales: [Temple, Autel, Confessional, Reliquaire, Bibliothèque sacrée]

@@ -7,8 +7,8 @@ métier_lié: "[[03 - Mécaniques/Métiers/Mysticisme/Enchanteur du vivant]]"
 mbti_typique: [INFJ, INTJ, INFP]
 karma_typique: vert
 voie_magique_principale: Spiritus | Aurion | Eldoria (secondaire)
-religion_compatible: [Vael Kurash, Foedus Animae, Somnium Vigil]
-factions_compatibles: [Vael Kurash, Foedus Animae, Cercles de Spiritus, Dresseurs de la Symbiose]
+religion_compatible: [Vael'Kurash, Foedus Animae, Somnium Vigil]
+factions_compatibles: [Vael'Kurash, Foedus Animae, Cercles de Spiritus, Dresseurs de la Symbiose]
 template_alternatif_souffle: false
 ritual_pattern_religion: [RP_VAEL_KURASH, RP_FOEDUS_ANIMAE, RP_SOMNIUM_VIGIL]
 needs_review_for: [calibration-playtest, frontière-enchanteur-objet]

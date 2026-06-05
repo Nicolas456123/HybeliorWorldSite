@@ -154,7 +154,7 @@ Le **Tailleur** mesure, coupe, assemble, brode, finit des vêtements. Il fournit
 6. **Robe magique** — logement enchantement (frontière Enchanteur)
 7. **Doré** ([[Les Ères|Rêve Lumineux]]) — broderie or, prestige
 8. **Spectral** ([[Les Ères|Échos Brisés]]) — vêtement translucide brièvement (furtivité 5s)
-9. **Sépulcral** ([[Lore/Religions/Vael Kurash]]) — tenue funéraire, dialogues morts
+9. **Sépulcral** ([[Lore/Religions/Vael'Kurash]]) — tenue funéraire, dialogues morts
 10. **Cosmique** — survit au [[Le Souffle|Souffle]]
 
 ---

@@ -6,7 +6,7 @@ catégorie_métier: Mysticisme
 stat_principale: Esprit
 stats_secondaires: [Conscience, Résonance, Mémoire]
 voie_magique: Noctis | Tempora | Spiritus (chamanique) | Navigor (relique)
-religion_compatible: [Foedus Animae (légitime), Vael Kurash (chamanique), Noctari]
+religion_compatible: [Foedus Animae (légitime), Vael'Kurash (chamanique), Noctari]
 craft_category: -
 sources_ressources_accessibles: [Cristal de Voie sombre, Essence d'âme, Os rituel, Sépulcre, Cendre funéraire]
 stations_principales: [Cercle d'invocation, Crypte rituelle, Cimetière consacré, Sépulcre des ancêtres]
@@ -66,7 +66,7 @@ Le Nécromancien est l'archétype **karma-mobile** par excellence : son karma ty
 |------|-------|---------------------|---------------|
 | **Voie de Noctis** | Drain spirituel, terreur, ombre des morts | [[Lore/Religions/Noctari\|Noctari]] (clandestin) | **rouge à noir** |
 | **Voie de Tempora** | Manipulation temporelle des morts (voir l'instant de la mort, rejouer un écho) | [[Lore/Religions/Rota Mundi\|Rota Mundi]] (rare, hérétique) | jaune à rouge |
-| **Voie de Spiritus** *(chamanique)* | Communication avec esprits ancestraux, pacte funéraire — **considéré sacré** dans certaines tribus | [[Lore/Religions/Vael Kurash\|Vael'Kurash]], [[Lore/Religions/Foedus Animae\|Foedus Animae]] | **vert** dans la culture, jaune ailleurs |
+| **Voie de Spiritus** *(chamanique)* | Communication avec esprits ancestraux, pacte funéraire — **considéré sacré** dans certaines tribus | [[Lore/Religions/Vael'Kurash\|Vael'Kurash]], [[Lore/Religions/Foedus Animae\|Foedus Animae]] | **vert** dans la culture, jaune ailleurs |
 | **Voie de Navigor** *(quasi-disparue)* | Passage des âmes — la Voie originale du nécromancien sacré | [[Lore/Religions/Via Ventus\|Via Ventus]] (rare) | vert, mais relique |
 
 > [!important] Légitimité culturelle (clé du karma)
@@ -166,7 +166,7 @@ Le Nécromancien est l'archétype **karma-mobile** par excellence : son karma ty
 - **Maîtrise** — Œuvre signée funéraire, parfois nomination siège Éthéré ***Cura*** (guérison mystique) ou un siège-âme dédié (à définir Phase 4)
 - **Bascule sombre** — abandon des règles culturelles, pratique offensive en PvP, drain de joueurs vivants → karma noir, statut de hors-la-loi spirituel
 
-**Réseau** : [[Prêtre]] Animari (collaboration directe), [[Lore/Religions/Vael Kurash\|chamanes Vael'Kari]], [[Mage]] Noctis ou Tempora (rare alliance), [[Historien]] (généalogies), [[Bibliothécaire]] (textes funéraires anciens).
+**Réseau** : [[Prêtre]] Animari (collaboration directe), [[Lore/Religions/Vael'Kurash\|chamanes Vael'Kari]], [[Mage]] Noctis ou Tempora (rare alliance), [[Historien]] (généalogies), [[Bibliothécaire]] (textes funéraires anciens).
 
 ---
 
@@ -235,4 +235,4 @@ Nécromancien clandestin → Marché noir / commandes Veilari Noctari
 
 ---
 
-*Liens : [[Métiers]] · [[Personnage]] · [[Le Lien]] · [[Cosmologie]] · [[Mort]] · [[Lore/Religions/Foedus Animae]] · [[Lore/Religions/Vael Kurash]] · [[Lore/Religions/Noctari]] · [[Prêtre]] · [[Mage]] · [[Oracle]] · [[Tome]] · [[Anneau]] · [[Potion]] · [[L'Accord]] · [[Le Souffle]] · [[Les Ères]]*
+*Liens : [[Métiers]] · [[Personnage]] · [[Le Lien]] · [[Cosmologie]] · [[Mort]] · [[Lore/Religions/Foedus Animae]] · [[Lore/Religions/Vael'Kurash]] · [[Lore/Religions/Noctari]] · [[Prêtre]] · [[Mage]] · [[Oracle]] · [[Tome]] · [[Anneau]] · [[Potion]] · [[L'Accord]] · [[Le Souffle]] · [[Les Ères]]*

@@ -6,14 +6,14 @@ catégorie_métier: Mysticisme
 stat_principale: Mémoire
 stats_secondaires: [Acuité, Esprit, Endurance]
 voie_magique: Spiritus (optionnelle)
-religion_compatible: [Vael Kurash, Foedus Animae, Somnium Vigil]
+religion_compatible: [Vael'Kurash, Foedus Animae, Somnium Vigil]
 craft_category: 9 — Récolte et transformation primaire
 sources_ressources_accessibles: [Plante médicinale, Plante magique, Champignon, Herbe rituelle, Sève, Fleur d'ère]
 stations_principales: [Atelier d'herboristerie, Séchoir, Cabane de cueillette, Jardin d'herbes]
 outils_principaux: [Serpe rituelle, Mortier et pilon, Pochette d'herboriste, Carnet de plantes]
 paliers_maîtrise: [Novice, Initié, Adepte, Expert, Maître]
 karma_typique: vert
-factions_compatibles: [Vael Kurash, Foedus Animae, Cercles de Spiritus, Guildes d'herboristerie]
+factions_compatibles: [Vael'Kurash, Foedus Animae, Cercles de Spiritus, Guildes d'herboristerie]
 era_modulation: true
 status: drafted
 last_review: 2026-05-01
@@ -67,7 +67,7 @@ L'Herboriste **n'est pas obligatoirement Lié** — c'est l'une des spécificit�
 ### Herboriste-Lié à Spiritus (Vael'Kari)
 
 - **Voie de Spiritus** active (mono-Voie [[Le Lien]])
-- Religion : [[Lore/Religions/Vael Kurash\|Vael'Kurash]]
+- Religion : [[Lore/Religions/Vael'Kurash\|Vael'Kurash]]
 - Bonus : **dialogue avec les plantes** (rare mais canonique), récolte sans perte de qualité, plantes "consentent" — narratif fort
 - Karma : **vert**
 
@@ -117,7 +117,7 @@ L'Herboriste **n'est pas obligatoirement Lié** — c'est l'une des spécificit�
 | **Séchoir** | Conservation longue durée | Novice |
 | **Cabane de cueillette** | Camp temporaire en zone de récolte (forêt, plaine, marais) | Initié |
 | **Jardin d'herbes** | Culture domestiquée de plantes médicinales rares | Adepte |
-| **Bosquet sacré** ([[Lore/Religions/Vael Kurash\|Vael'Kari]]) | Récolte rituelle, plantes magiques uniques | Expert |
+| **Bosquet sacré** ([[Lore/Religions/Vael'Kurash\|Vael'Kari]]) | Récolte rituelle, plantes magiques uniques | Expert |
 
 **Outils** :
 - **Serpe rituelle** (souvent argent, parfois or pour rituels) — coupe les plantes sans les "tuer" symboliquement
@@ -189,7 +189,7 @@ L'Herboriste **n'est pas obligatoirement Lié** — c'est l'une des spécificit�
 | **[[L'Accord]] ≥ 75%** | Recettes de plantes d'ère débloquées plus tôt |
 | **Forêt ancienne / Bosquet sacré** | +25% qualité, plantes mythiques accessibles |
 | **Désert / zone aride** | Spécialisation cactacées / racines profondes |
-| **Religion alignée** ([[Lore/Religions/Vael Kurash\|Vael'Kurash]]) | +Reconnaissance, rituels conjoints |
+| **Religion alignée** ([[Lore/Religions/Vael'Kurash\|Vael'Kurash]]) | +Reconnaissance, rituels conjoints |
 | **Faction guilde herboriste** (Astravia, Lumasar) | Mutualisation, accès marchés |
 
 **Karma typique** : **vert**. Bascule **jaune** uniquement si :
@@ -243,4 +243,4 @@ Herboriste (Récolte/Culture) → [[Apothicaire]] (Remèdes traditionnels)
 
 ---
 
-*Liens : [[Métiers]] · [[Personnage]] · [[Sources de Ressources]] · [[Apothicaire]] · [[Alchimiste]] · [[Cuisinier]] · [[Guérisseur]] · [[Prêtre]] · [[Mage]] · [[Enchanteur du vivant]] · [[Botaniste]] *(à venir M6)* · [[Potion]] · [[Tome]] · [[Cosmologie]] · [[Le Lien]] · [[Prédiction]] · [[Les Ères]] · [[L'Accord]] · [[Le Souffle]] · [[Lore/Religions/Vael Kurash]] · [[Lore/Religions/Somnium Vigil]]*
+*Liens : [[Métiers]] · [[Personnage]] · [[Sources de Ressources]] · [[Apothicaire]] · [[Alchimiste]] · [[Cuisinier]] · [[Guérisseur]] · [[Prêtre]] · [[Mage]] · [[Enchanteur du vivant]] · [[Botaniste]] *(à venir M6)* · [[Potion]] · [[Tome]] · [[Cosmologie]] · [[Le Lien]] · [[Prédiction]] · [[Les Ères]] · [[L'Accord]] · [[Le Souffle]] · [[Lore/Religions/Vael'Kurash]] · [[Lore/Religions/Somnium Vigil]]*

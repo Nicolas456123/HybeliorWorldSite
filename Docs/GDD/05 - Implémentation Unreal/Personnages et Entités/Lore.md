@@ -35,7 +35,7 @@ Vue d'ensemble du lore HybeliorWorld — 13 continents, **9 religions canoniques
 
 | Religion | Thème | Fiche |
 |----------|-------|-------|
-| Vael Kurash | Les Esprits | [[Vael Kurash]] |
+| Vael'Kurash | Les Esprits | [[Vael'Kurash]] |
 | Ignis Aeternum | La Flamme | [[Ignis Aeternum]] |
 | Ordo Caelum | Le Ciel | [[Ordo Caelum]] |
 | Noctari | Les Ombres | [[Noctari]] |

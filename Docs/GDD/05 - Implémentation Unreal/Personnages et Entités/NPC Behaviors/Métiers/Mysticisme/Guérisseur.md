@@ -7,8 +7,8 @@ métier_lié: "[[03 - Mécaniques/Métiers/Mysticisme/Guérisseur]]"
 mbti_typique: [ISFJ, INFJ, ENFJ]
 karma_typique: vert
 voie_magique_principale: Eldoria | Spiritus | Aurion (rare)
-religion_compatible: [Ignis Aeternum, Vael Kurash, Foedus Animae, Ordo Caelum]
-factions_compatibles: [Ignis Aeternum, Vael Kurash, Cercles de Voie d'Eldoria, Foedus Animae]
+religion_compatible: [Ignis Aeternum, Vael'Kurash, Foedus Animae, Ordo Caelum]
+factions_compatibles: [Ignis Aeternum, Vael'Kurash, Cercles de Voie d'Eldoria, Foedus Animae]
 template_alternatif_souffle: false
 ritual_pattern_religion: [RP_IGNIS_AETERNUM, RP_VAEL_KURASH, RP_FOEDUS_ANIMAE]
 needs_review_for: [calibration-playtest, frontière-médecin]

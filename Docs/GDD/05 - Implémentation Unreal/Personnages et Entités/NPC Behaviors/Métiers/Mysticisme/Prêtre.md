@@ -7,7 +7,7 @@ métier_lié: "[[03 - Mécaniques/Métiers/Mysticisme/Prêtre]]"
 mbti_typique: [INFJ, ENFJ, ISFJ]
 karma_typique: vert
 voie_magique_principale: Voie de l'entité principale de la religion (si Lié, rare)
-religion_compatible: [Vael Kurash, Ignis Aeternum, Ordo Caelum, Noctari, Rota Mundi, Via Ventus, Lex Petra, Somnium Vigil, Foedus Animae]
+religion_compatible: [Vael'Kurash, Ignis Aeternum, Ordo Caelum, Noctari, Rota Mundi, Via Ventus, Lex Petra, Somnium Vigil, Foedus Animae]
 factions_compatibles: [9 grandes religions canoniques]
 template_alternatif_souffle: true
 ritual_pattern_religion: [RP_VAEL_KURASH, RP_IGNIS_AETERNUM, RP_ORDO_CAELUM, RP_NOCTARI, RP_ROTA_MUNDI, RP_VIA_VENTUS, RP_LEX_PETRA, RP_SOMNIUM_VIGIL, RP_FOEDUS_ANIMAE]

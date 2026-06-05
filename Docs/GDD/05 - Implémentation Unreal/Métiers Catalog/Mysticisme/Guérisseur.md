@@ -6,14 +6,14 @@ catégorie_métier: Mysticisme
 stat_principale: Esprit
 stats_secondaires: [Résonance, Conscience, Verbe]
 voie_magique: Eldoria | Spiritus | secondaire (Aquor, Aurion)
-religion_compatible: [Ignis Aeternum, Vael Kurash, Foedus Animae, Ordo Caelum]
+religion_compatible: [Ignis Aeternum, Vael'Kurash, Foedus Animae, Ordo Caelum]
 craft_category: -
 sources_ressources_accessibles: [Cristal de Voie d'Eldoria, Essence spirituelle, Larme d'élémentaire, Eau bénite, Plante médicinale]
 stations_principales: [Sanctuaire d'Eldoria, Cercle de soin, Source sacrée, Bosquet sacré]
 outils_principaux: [Sceptre lumineux, Tome Codex Solis, Anneau d'Eldoria, Talisman]
 paliers_maîtrise: [Novice, Initié, Adepte, Expert, Maître]
 karma_typique: vert
-factions_compatibles: [Ignis Aeternum, Vael Kurash, Cercles de Voie d'Eldoria]
+factions_compatibles: [Ignis Aeternum, Vael'Kurash, Cercles de Voie d'Eldoria]
 era_modulation: true
 status: drafted
 last_review: 2026-05-01
@@ -67,7 +67,7 @@ Le Guérisseur s'appuie sur **2 Voies principales** (mono-Voie obligatoire) avec
 | Voie | Style de soin | Religion principale | Karma | Spécificité |
 |------|---------------|---------------------|-------|-------------|
 | **Voie d'Eldoria** | Lumière pure, soin direct, **résurrection** | [[Lore/Religions/Ignis Aeternum\|Ignis Aeternum]] | vert | **Seule Voie qui permet la résurrection** ([[Mort]] §30s). Bouclier de lumière, révélation des malédictions, destruction des morts-vivants. |
-| **Voie de Spiritus** | Soin par la nature, communion avec faune/flore | [[Lore/Religions/Vael Kurash\|Vael'Kurash]] | vert | Soin sur la durée (HoT), invocation animal-guérisseur, communication avec le patient via plantes. Très puissant en forêt/plaine. |
+| **Voie de Spiritus** | Soin par la nature, communion avec faune/flore | [[Lore/Religions/Vael'Kurash\|Vael'Kurash]] | vert | Soin sur la durée (HoT), invocation animal-guérisseur, communication avec le patient via plantes. Très puissant en forêt/plaine. |
 
 ### Voies secondaires (alternatives plus rares)
 
@@ -199,7 +199,7 @@ Le Guérisseur s'appuie sur **2 Voies principales** (mono-Voie obligatoire) avec
 | **[[L'Accord]] ≥ 75%** | Résurrection débloquée plus tôt (Adepte au lieu d'Expert) |
 | **Lieu sacré aligné** | Rituels +25%, recharge Mana +50% |
 | **PvP (zone karma rouge)** | Restrictions narratives possibles : un Guérisseur d'Eldoria peut **refuser** de soigner un karma rouge ou noir |
-| **Religion alignée** ([[Lore/Religions/Ignis Aeternum\|Ignis Aeternum]] pour Eldoria, [[Lore/Religions/Vael Kurash\|Vael'Kurash]] pour Spiritus) | +Reconnaissance, accès à des rituels exclusifs |
+| **Religion alignée** ([[Lore/Religions/Ignis Aeternum\|Ignis Aeternum]] pour Eldoria, [[Lore/Religions/Vael'Kurash\|Vael'Kurash]] pour Spiritus) | +Reconnaissance, accès à des rituels exclusifs |
 
 **Karma typique** : **vert** quasi-systématiquement. Un Guérisseur qui refuse abusivement les soins, ou qui soigne des karma noirs notoires sans discernement, peut basculer en **jaune**.
 
@@ -246,4 +246,4 @@ Guérisseur → Faction religieuse (Reconnaissance, terres)
 
 ---
 
-*Liens : [[Métiers]] · [[Personnage]] · [[Le Lien]] · [[Cosmologie]] · [[Mort]] · [[Médecin]] · [[Apothicaire]] · [[Herboriste]] · [[Prêtre]] · [[Alchimiste]] · [[Tome]] · [[Anneau]] · [[Potion]] · [[L'Accord]] · [[Le Souffle]] · [[Lore/Religions/Ignis Aeternum]] · [[Lore/Religions/Vael Kurash]]*
+*Liens : [[Métiers]] · [[Personnage]] · [[Le Lien]] · [[Cosmologie]] · [[Mort]] · [[Médecin]] · [[Apothicaire]] · [[Herboriste]] · [[Prêtre]] · [[Alchimiste]] · [[Tome]] · [[Anneau]] · [[Potion]] · [[L'Accord]] · [[Le Souffle]] · [[Lore/Religions/Ignis Aeternum]] · [[Lore/Religions/Vael'Kurash]]*

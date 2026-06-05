@@ -92,7 +92,7 @@ Le **Meunier** transforme les céréales brutes (récoltées par l'[[Agriculteur
 | **Initié** | Farine bise · Farine de seigle · Mélange paysan (blé+orge) · Farine grossière pour bétail |
 | **Adepte** | Farine fine de noblesse · Farine d'avoine pour cavaliers · Mélange "des collines" (3 céréales) · Pré-mélange à brioche |
 | **Expert** | Farine de céréale d'ère ([[Les Ères|Verdoiement]]), farine sacrée [[Rota Mundi]], farine de [[Le Souffle|Bourrasque]] (très fine) |
-| **Maître** | Farine de la Vallée (œuvre signée locale), Farine du [[Le Souffle|Cardinal]] (recette transmise sur 3 générations), Farine d'os pour pains rituels [[Vael Kurash]] |
+| **Maître** | Farine de la Vallée (œuvre signée locale), Farine du [[Le Souffle|Cardinal]] (recette transmise sur 3 générations), Farine d'os pour pains rituels [[Vael'Kurash]] |
 
 → Recettes individuelles : Phase 2 Recipe Generator.
 

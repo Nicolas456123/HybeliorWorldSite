@@ -7,7 +7,7 @@ métier_lié: "[[03 - Mécaniques/Métiers/Mysticisme/Nécromancien]]"
 mbti_typique: [INTJ, INTP, ENTJ]
 karma_typique: variable
 voie_magique_principale: Noctis | Tempora | Spiritus (chamanique) | Navigor (relique)
-religion_compatible: [Foedus Animae (légitime), Vael Kurash (chamanique), Noctari (clandestin)]
+religion_compatible: [Foedus Animae (légitime), Vael'Kurash (chamanique), Noctari (clandestin)]
 factions_compatibles: [Foedus Animae, Noctari clandestin, cultes funéraires tribaux]
 template_alternatif_souffle: false
 ritual_pattern_religion: [RP_FOEDUS_ANIMAE, RP_VAEL_KURASH, RP_NOCTARI]
