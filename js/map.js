@@ -2265,6 +2265,17 @@ function initMap() {
             displayName = name;
         }
 
+        // Le tier "régions" a un font-size (0.004) SOUS le seuil de rastérisation des
+        // <text> SVG de Chrome (~0.009 en unités locales, indépendamment du zoom) : ses
+        // glyphes sortent en hauteur 0 et restent invisibles, alors que les autres tiers
+        // (font >= 0.01) se rendent normalement. Parade : on rastérise le glyphe à une
+        // taille au-dessus du seuil (RENDER_TARGET) puis on contre-scale l'élément <text>
+        // via transform="scale(1/textScale)" — l'apparence finale est identique. Seul le
+        // tier régions est concerné ; les autres ont textScale = 1 (aucun transform).
+        const RENDER_SAFE_MIN = 0.009;
+        const RENDER_TARGET = 0.02;
+        const textScale = fontSize < RENDER_SAFE_MIN ? RENDER_TARGET / fontSize : 1;
+
         // Déterminer les positions selon l'état du wrapping
         const positions = wrappingEnabled ? [
             {x: 0, y: 0},    // Position originale
@@ -2281,12 +2292,15 @@ function initMap() {
         positions.forEach(offset => {
             // Création du texte
             const textElement = document.createElementNS("http://www.w3.org/2000/svg", "text");
-            textElement.setAttribute("x", coord.x + config.xOffset + offset.x);
-            textElement.setAttribute("y", coord.y + config.yOffset + offset.y);
+            // Position/tailles multipliées par textScale ; le transform scale(1/textScale)
+            // rétablit l'apparence finale (cf. note RENDER_SAFE_MIN plus haut). Pour les
+            // tiers non concernés, textScale === 1 → aucun transform, valeurs inchangées.
+            textElement.setAttribute("x", (coord.x + config.xOffset + offset.x) * textScale);
+            textElement.setAttribute("y", (coord.y + config.yOffset + offset.y) * textScale);
             textElement.setAttribute("fill", textFill);
             textElement.setAttribute("stroke", textStroke);
-            textElement.setAttribute("stroke-width", strokeWidth);
-            textElement.setAttribute("font-size", fontSize);
+            textElement.setAttribute("stroke-width", strokeWidth * textScale);
+            textElement.setAttribute("font-size", fontSize * textScale);
             textElement.setAttribute("text-anchor", "middle");
             textElement.setAttribute("font-family", "'Copperplate Gothic Std', 'Copperplate', 'Cinzel', serif");
             textElement.setAttribute("font-weight", fontWeight);
@@ -2295,8 +2309,11 @@ function initMap() {
             textElement.setAttribute("stroke-linejoin", "round");
             textElement.setAttribute("dominant-baseline", "central");
             textElement.setAttribute("text-rendering", "geometricPrecision");
+            if (textScale !== 1) {
+                textElement.setAttribute("transform", "scale(" + (1 / textScale) + ")");
+            }
             if (letterSpacing > 0) {
-                textElement.setAttribute("letter-spacing", letterSpacing);
+                textElement.setAttribute("letter-spacing", letterSpacing * textScale);
             }
             textElement.textContent = displayName;
 
