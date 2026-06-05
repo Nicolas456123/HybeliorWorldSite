@@ -14,13 +14,13 @@ const NATIONS = {
     'Altram':    { continent: 'Alkaran', pays: 'Pays/Alkaran/Altram.md',    histoires: 'Histoires/Alkaran/Altram.md' },
     'Torkam':    { continent: 'Alkaran', pays: 'Pays/Alkaran/Torkam.md',    histoires: 'Histoires/Alkaran/Torkam.md' },
     'Iskara':    { continent: 'Alkaran', pays: 'Pays/Alkaran/Iskara.md',    histoires: 'Histoires/Alkaran/Iskara.md' },
-    'Ferrath':   { continent: 'Alkaran', pays: 'Pays/Alkaran/Ferrath.md',   histoires: null },
+    'Ferrath':   { continent: 'Alkaran', pays: 'Pays/Alkaran/Ferrath.md',   histoires: 'Histoires/Alkaran/Ferrath.md' },
 
     // Azoria
     'Caeloria':              { continent: 'Azoria', pays: 'Pays/Azoria/Caeloria.md',            histoires: 'Histoires/Azoria/Caeloria.md' },
-    'Azoral':                { continent: 'Azoria', pays: 'Pays/Azoria/Azoral.md',              histoires: null },
-    'Kethvar':               { continent: 'Azoria', pays: 'Pays/Azoria/Kethvar.md',             histoires: null },
-    'Solmaris':              { continent: 'Azoria', pays: 'Pays/Azoria/Solmaris.md',            histoires: null },
+    'Azoral':                { continent: 'Azoria', pays: 'Pays/Azoria/Azoral.md',              histoires: 'Histoires/Azoria/Azoral.md' },
+    'Kethvar':               { continent: 'Azoria', pays: 'Pays/Azoria/Kethvar.md',             histoires: 'Histoires/Azoria/Kethvar.md' },
+    'Solmaris':              { continent: 'Azoria', pays: 'Pays/Azoria/Solmaris.md',            histoires: 'Histoires/Azoria/Solmaris.md' },
     'No Man\'s Land Azoria': { continent: 'Azoria', pays: 'Pays/Azoria/No Man\'s Land Azoria.md', histoires: 'Histoires/Azoria/No Man\'s Land Azoria.md' },
 
     // Baelor
@@ -36,23 +36,23 @@ const NATIONS = {
 
     // Cendara
     'Cendara':  { continent: 'Cendara', pays: 'Pays/Cendara/Cendara.md',  histoires: 'Histoires/Cendara/Cendara.md' },
-    'Arkhen':   { continent: 'Cendara', pays: 'Pays/Cendara/Arkhen.md',   histoires: null },
-    'Pyrevane': { continent: 'Cendara', pays: 'Pays/Cendara/Pyrevane.md', histoires: null },
+    'Arkhen':   { continent: 'Cendara', pays: 'Pays/Cendara/Arkhen.md',   histoires: 'Histoires/Cendara/Arkhen.md' },
+    'Pyrevane': { continent: 'Cendara', pays: 'Pays/Cendara/Pyrevane.md', histoires: 'Histoires/Cendara/Pyrevane.md' },
 
     // Cestra
     'Cestra':                  { continent: 'Cestra', pays: null,                                     histoires: 'Histoires/Cestra/Cestra.md' },
-    'Noravia':                 { continent: 'Cestra', pays: 'Pays/Cestra/Noravia.md',                 histoires: null },
+    'Noravia':                 { continent: 'Cestra', pays: 'Pays/Cestra/Noravia.md',                 histoires: 'Histoires/Cestra/Noravia.md' },
     'No Man\'s Land Cestra':   { continent: 'Cestra', pays: 'Pays/Cestra/No Man\'s Land Cestra.md',   histoires: null },
 
     // Endora
     'Avalor':  { continent: 'Endora', pays: 'Pays/Endora/Avalor.md',  histoires: 'Histoires/Endora/Avalor.md' },
     'Haldria': { continent: 'Endora', pays: 'Pays/Endora/Haldria.md', histoires: 'Histoires/Endora/Haldria.md' },
-    'Sanvara': { continent: 'Endora', pays: 'Pays/Endora/Sanvara.md', histoires: null },
+    'Sanvara': { continent: 'Endora', pays: 'Pays/Endora/Sanvara.md', histoires: 'Histoires/Endora/Sanvara.md' },
 
     // Evertia
     'Evertia':   { continent: 'Evertia', pays: 'Pays/Evertia/Evertia.md',   histoires: 'Histoires/Evertia/Evertia.md' },
     'Thalmaris': { continent: 'Evertia', pays: 'Pays/Evertia/Thalmaris.md', histoires: 'Histoires/Evertia/Thalmaris.md' },
-    'Sylvara':   { continent: 'Evertia', pays: 'Pays/Evertia/Sylvara.md',   histoires: null },
+    'Sylvara':   { continent: 'Evertia', pays: 'Pays/Evertia/Sylvara.md',   histoires: 'Histoires/Evertia/Sylvara.md' },
 
     // Galenor
     'Kharazir': { continent: 'Galenor', pays: 'Pays/Galenor/Kharazir.md', histoires: 'Histoires/Galenor/Kharazir.md' },
@@ -81,12 +81,12 @@ const NATIONS = {
     'Mosrack': { continent: 'Onara', pays: 'Pays/Onara/Mosrack.md', histoires: 'Histoires/Onara/Mosrack.md' },
     'Tyndara': { continent: 'Onara', pays: 'Pays/Onara/Tyndara.md', histoires: 'Histoires/Onara/Tyndara.md' },
     'Myrtam':  { continent: 'Onara', pays: 'Pays/Onara/Myrtam.md',  histoires: 'Histoires/Onara/Myrtam.md' },
-    'Elarath': { continent: 'Onara', pays: 'Pays/Onara/Elarath.md', histoires: null },
+    'Elarath': { continent: 'Onara', pays: 'Pays/Onara/Elarath.md', histoires: 'Histoires/Onara/Elarath.md' },
 
     // Ulinor
     'Ulinor':    { continent: 'Ulinor', pays: 'Pays/Ulinor/Ulinor.md',    histoires: 'Histoires/Ulinor/Ulinor.md' },
     'Skaldoria': { continent: 'Ulinor', pays: 'Pays/Ulinor/Skaldoria.md', histoires: 'Histoires/Ulinor/Skaldoria.md' },
-    'Dhalvoria': { continent: 'Ulinor', pays: 'Pays/Ulinor/Dhalvoria.md', histoires: null },
+    'Dhalvoria': { continent: 'Ulinor', pays: 'Pays/Ulinor/Dhalvoria.md', histoires: 'Histoires/Ulinor/Dhalvoria.md' },
 };
 
 // ── Modal state ──────────────────────────────────────────────
