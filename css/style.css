@@ -3820,10 +3820,6 @@ select:focus-visible,
     .toc-list, .toc-progress, .toc-progress-label, .toc-title { display: none; }
     .subtab-content { padding-left: 0; border-left: none; }
     .hist-continent-grid { grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); }
-
-    /* Le quick-nav lore est utile en mobile pour accéder aux nations — on
-       l'affiche normalement dans le drawer. */
-    .sidebar-lore-nav { display: block; }
 }
 
 /* ===== Footer ===== */
@@ -4342,10 +4338,6 @@ select:focus-visible,
 }
 
 /* ============================================================
-   SIDEBAR LORE QUICK-NAV — switch rapide entre catégories lore
-   ============================================================ */
-
-/* ============================================================
    Arbre de navigation persistant (sidebar-tree.js) — les 5 grands
    onglets toujours présents, l'onglet courant ouvert. Remplace
    #global-subtab-nav (masqué) et l'ancien #sidebar-lore-nav.
@@ -4391,25 +4383,8 @@ select:focus-visible,
 .sidebar-tree .sidebar-lore-nav-sublinks { margin-left: 14px; }
 
 /* #global-subtab-nav désormais remplacé par l'arbre persistant. */
-#global-subtab-nav,
-#sidebar-lore-nav { display: none; }
+#global-subtab-nav { display: none; }
 
-.sidebar-lore-nav {
-    margin: 0 0 16px;
-    padding-bottom: 14px;
-    border-bottom: 1px solid rgba(120, 78, 18, 0.18);
-}
-.sidebar-lore-nav-title {
-    font-family: var(--font-title, 'Cinzel', serif);
-    font-size: 10.5px;
-    font-weight: 700;
-    letter-spacing: 2px;
-    text-transform: uppercase;
-    color: var(--gold, #7a4c0a);
-    margin: 0 0 8px;
-    padding: 0 2px;
-    opacity: 0.85;
-}
 .sidebar-lore-nav-list {
     list-style: none;
     margin: 0;
@@ -4544,13 +4519,6 @@ select:focus-visible,
     font-weight: 600;
     border-left-color: var(--gold, #7a4c0a);
     background: rgba(120, 78, 18, 0.08);
-}
-
-@media (max-width: 768px) {
-    /* Sur mobile, le sidebar devient un drawer coulissant (cf. règles plus haut).
-       Le quick-nav y reste visible — c'est même son intérêt principal en mobile
-       puisque les nations/continents ne sont accessibles que par là. */
-    .sidebar-lore-nav { display: block; }
 }
 
 /* ============================================================

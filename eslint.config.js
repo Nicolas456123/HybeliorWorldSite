@@ -53,7 +53,7 @@ module.exports = [
     ],
   },
   {
-    files: ['js/**/*.js', 'server.js', 'sw.js', 'trace-coastlines.js', 'scripts/**/*.js'],
+    files: ['js/**/*.js', 'server.js', 'sw.js', 'scripts/**/*.js'],
     languageOptions: {
       ecmaVersion: 2022,
       sourceType: 'script',
