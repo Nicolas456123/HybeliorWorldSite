@@ -14,7 +14,7 @@
  *   - `engine` : 'md' (MdRenderer) ou 'html' (SubTabs sur fragment HTML)
  *
  * Pour les pages 'html' (Lore notamment), `src` pointe vers une page HTML
- * (lore-cosmo.html, etc.) au lieu d'un .md.
+ * (lore-chronologie.html, etc.) au lieu d'un .md.
  */
 
 const NavConfig = {
@@ -151,7 +151,7 @@ const NavConfig = {
 
     /** Les 8 catégories de la landing Lore. Source unique consommée par :
         - pages/lore.html (les 8 cartes thématiques)
-        - js/sidebar-lore-nav.js (quick-nav du sidebar, switch rapide entre cats)
+        - js/sidebar-tree.js (arbre de navigation du sidebar)
         Pour chaque catégorie : icon, label, intro courte, et liste de liens. */
     loreCategories: [
         {

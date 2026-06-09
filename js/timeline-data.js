@@ -1,6 +1,6 @@
 /**
  * timeline-data.js — Donnees chronologiques partagees d'Hybelior
- * Utilise par : frise.html, frise-v2.html, lignees.html, map.js
+ * Utilise par : frise.html, map.js
  *
  * Acces : window.HYBELIOR_TIMELINE.{ERAS, CIV, GLOBAL, CONN, ...}
  */

@@ -4,7 +4,7 @@ Site web interactif dédié à l'univers d'Hybélior : carte du monde, chronolog
 
 ## Architecture
 
-Le site est une **Single Page Application** (SPA) avec routage par hash (`#accueil`, `#carte`, `#lore`, `#gameplay`, `#apprentissage`, `#frise`). Les pages sont chargées dynamiquement dans `index.html` depuis le dossier `pages/`.
+Le site est une **Single Page Application** (SPA) avec routage par hash (`#accueil`, `#lore`, `#implementation`, `#carte`, `#frise`). Les pages sont chargées dynamiquement dans `index.html` depuis le dossier `pages/`.
 
 ### Structure du projet
 
@@ -24,20 +24,22 @@ pages/                  – Pages HTML chargées dynamiquement
   accueil.html          – Page d'accueil
   carte.html            – Carte interactive
   frise.html            – Frise chronologique
-  lore.html             – Hub lore (sous-onglets : chronologie, cosmo, géo, religions, histoires)
-  gameplay.html         – Hub gameplay (sous-onglets : combat, magie, métiers, progression, monde)
-  apprentissage.html    – Section apprentissage
+  lore.html             – Hub lore (8 catégories thématiques)
+  implementation.html   – Hub implémentation (sous-onglets pilotés par NavConfig)
+  nation.html, continent.html, histoire.html, religion.html – Fiches lore (routes propres)
 api/                    – Routes serverless Vercel
   auth.js               – Authentification éditeur
   borders.js            – CRUD frontières (Turso DB)
   overrides.js          – Surcharges lore/entités
+  highlights.js         – Surlignages éditeur
   timeline.js           – Données de la timeline
-scripts/                – Scripts de génération et peuplement de données
+scripts/                – Outils de build : génération de Docs/_manifest.json
+                          (gen-doc-manifest.js) et Docs/_search-index.json
+                          (gen-search-index.js), validation JSON
 data/                   – Données de référence (timeline, noms historiques)
-Data/                   – Fichiers CSV (continents, pays, régions, villes, capitales)
-Docs/Lore/              – MIROIR du contenu lore (auto-généré, voir ci-dessous)
-HybeliorFull/           – Tuiles Deep Zoom pour OpenSeadragon
-Font/ & fonts/          – Polices personnalisées
+Docs/                   – MIROIR du contenu GDD + Lore (auto-généré, voir ci-dessous)
+HybeliorFull/           – Tuiles Deep Zoom pour OpenSeadragon (hors git)
+fonts/                  – Police personnalisée (Copperplate Gothic)
 ```
 
 ## Fonctionnalités principales
@@ -62,8 +64,8 @@ Font/ & fonts/          – Polices personnalisées
     `## Données canoniques`) qui ne doivent jamais être servies au lecteur ;
   - sanitization du HTML rendu via [DOMPurify](https://github.com/cure53/DOMPurify).
 
-### Gameplay
-- Documentation du système de jeu : combat, magie, métiers, progression, monde
+### Implémentation
+- Documentation du système de jeu, en sous-onglets Markdown pilotés par `NavConfig.subtabs.implementation`
 
 ## Source du contenu Lore
 
