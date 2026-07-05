@@ -4,14 +4,14 @@ type: roman-chapitre
 partie: IV
 chapitre: 18
 titre: Ce qu'un homme peut tenir
-pov: Vael Ossarin, Grand Pontife de Navigor (présent, la veille) — fenêtre-monde
+pov: Théon Ossarin, Grand Pontife de Navigor (présent, la veille) — fenêtre-monde
 lieu: Navoria (Thalassocratie de Navoris, Azoria) — le Sanctuaire de Navigor
 status: draft
 ---
 
 # Chapitre dix-huit — Ce qu'un homme peut tenir
 
-Le Grand Pontife de Navigor s'appelait Vael Ossarin, et il avait cessé, depuis longtemps, de croire que Navigor l'entendait.
+Le Grand Pontife de Navigor s'appelait Théon Ossarin, et il avait cessé, depuis longtemps, de croire que Navigor l'entendait.
 
 C'était un secret qu'il portait comme d'autres portent une pierre au fond d'une poche : sans jamais la montrer, sans jamais l'oublier tout à fait, la main y revenant parfois dans le noir pour vérifier qu'elle était toujours là. Il ne s'en confessait à personne, parce qu'il n'y avait personne au-dessus de lui à qui se confesser — il *était* le sommet, il était l'homme par la bouche de qui, disait-on, le dieu de la parole portée sur les eaux répondait au monde. Depuis vingt-trois ans qu'il tenait la crosse de nacre, on venait de tous les rivages d'Azoria et de plus loin déposer au pied de son autel des questions et des noms, et il rendait des réponses, et les réponses étaient bonnes, et personne n'avait jamais su qu'elles ne venaient pas d'en haut mais d'ici, de sa propre patience d'homme qui avait beaucoup lu, beaucoup écouté, beaucoup regardé les autres se tromper. Il rendait la justice de Navigor sans plus entendre Navigor. Et le pire — ce qu'il s'avouait seulement les nuits sans sommeil, dans la haute chambre du Sanctuaire où l'eau du canal clapotait contre les fondations comme une bête qui se retourne —, le pire était que ses réponses n'en étaient pas moins justes. Il avait fini par se demander si le dieu avait jamais parlé, ou si les pontifes, de tout temps, n'avaient fait que ce qu'il faisait : penser à la place d'un silence, et appeler cela une voix.
 
@@ -19,11 +19,11 @@ Ce soir-là, on l'avait fait descendre à l'eau sainte.
 
 Il n'aimait pas descendre. À soixante-huit ans, ses genoux protestaient contre les degrés de marbre humide, et il fallait qu'un diacre marchât devant lui avec une lampe, un autre derrière, comme s'il eût pu se rompre. Mais on l'avait fait descendre parce que les ingénieurs de la Thalassocratie étaient là, en bas, sur le dernier degré, et que les ingénieurs de la Thalassocratie ne montaient jamais au Sanctuaire. Ils habitaient les profondeurs. Ils servaient les grandes conduites noyées, la mécanique liée qui tenait le sel dehors et l'eau douce dedans, et ils ne rendaient de comptes qu'au Doge et, une fois par génération peut-être, au Pontife. S'ils étaient venus le chercher à la nuit, c'est qu'il se passait sous la ville une chose dont ils ne voulaient parler ni au Doge ni à voix haute.
 
-Ils étaient trois. Le plus vieux, un homme au visage gris que Vael connaissait de nom — Térec, maître des Eaux Basses —, parlait pour les autres. Il parla bas. Il dit que l'eau montait.
+Ils étaient trois. Le plus vieux, un homme au visage gris que Théon connaissait de nom — Térec, maître des Eaux Basses —, parlait pour les autres. Il parla bas. Il dit que l'eau montait.
 
 — Elle monte partout, Éminence. Doucement. Sans marée. Depuis avant-hier.
 
-Vael attendit la suite. Il avait appris, en vingt-trois ans, que la première phrase d'un homme effrayé n'est jamais celle qui compte ; on la dit pour se donner le courage de dire la seconde.
+Théon attendit la suite. Il avait appris, en vingt-trois ans, que la première phrase d'un homme effrayé n'est jamais celle qui compte ; on la dit pour se donner le courage de dire la seconde.
 
 — Les conduites répondent mal, reprit Térec. Les grandes roues tournent, mais l'eau ne veut plus monter aux réservoirs comme elle le devrait. Nos frères Liés, ceux qui tiennent la résonance des pompes basses — il s'interrompit, chercha ses mots dans le clapot noir. Ils disent que la chose à quoi ils parlent, sous la pierre, celle qui les écoute depuis toujours et qui fait monter l'eau quand ils le lui demandent — ils disent qu'elle répond de plus en plus faible. Comme quelqu'un qui s'endort au milieu d'une phrase.
 
@@ -31,11 +31,11 @@ Le Pontife garda le silence. Sous ses pieds, sur le dernier degré, l'eau sainte
 
 — Combien de temps, demanda-t-il.
 
-Térec ne répondit pas tout de suite. Ce fut peut-être ce silence-là, plus que tout le reste, qui dit la vérité à Vael Ossarin.
+Térec ne répondit pas tout de suite. Ce fut peut-être ce silence-là, plus que tout le reste, qui dit la vérité à Théon Ossarin.
 
 — Nous ne savons pas, Éminence. Nous n'avons rien vu de pareil. Les vieux registres ne parlent pas de cela. Si l'eau monte à ce rythme, et si elle ne s'arrête pas — les quartiers bas sont noyés dans deux jours. Trois, peut-être. Après, tout dépend de ce que font les pompes. Et les pompes dépendent de la chose qui s'endort.
 
-*S'endort.* Le mot resta suspendu au-dessus de l'eau noire. Vael Ossarin, qui avait passé sa vie à donner des mots aux autres, sut d'un coup que celui-là était juste, et qu'il était le pire de tous. On lutte contre ce qui attaque. On ne lutte pas contre ce qui s'endort. On ne réveille pas de force une chose immense et lasse qui a décidé, sans prévenir personne, qu'elle avait assez porté.
+*S'endort.* Le mot resta suspendu au-dessus de l'eau noire. Théon Ossarin, qui avait passé sa vie à donner des mots aux autres, sut d'un coup que celui-là était juste, et qu'il était le pire de tous. On lutte contre ce qui attaque. On ne lutte pas contre ce qui s'endort. On ne réveille pas de force une chose immense et lasse qui a décidé, sans prévenir personne, qu'elle avait assez porté.
 
 ---
 
@@ -47,7 +47,7 @@ Il pensa d'abord, parce qu'il était vieux et pieux à sa manière, qu'il fallai
 
 Car il avait un choix à faire. Il le sut à la fenêtre, en regardant les lumières.
 
-Demain était le premier jour des grandes Fêtes de Navigor. Il l'avait annoncé lui-même, une lune plus tôt ; le crieur l'avait porté sur les quais ; on préparait déjà les barques de procession, on tressait les guirlandes, on comptait les lampes qu'on lâcherait sur les canaux le soir venu. Toute la ville attendait la fête. Et lui, Vael Ossarin, était le seul homme de Navoria — avec trois ingénieurs qui ne parleraient pas — à savoir que l'eau montait sans marée, que la chose sous la pierre s'endormait, et que peut-être, dans deux jours, dans trois, il n'y aurait plus de ville sous les lampes.
+Demain était le premier jour des grandes Fêtes de Navigor. Il l'avait annoncé lui-même, une lune plus tôt ; le crieur l'avait porté sur les quais ; on préparait déjà les barques de procession, on tressait les guirlandes, on comptait les lampes qu'on lâcherait sur les canaux le soir venu. Toute la ville attendait la fête. Et lui, Théon Ossarin, était le seul homme de Navoria — avec trois ingénieurs qui ne parleraient pas — à savoir que l'eau montait sans marée, que la chose sous la pierre s'endormait, et que peut-être, dans deux jours, dans trois, il n'y aurait plus de ville sous les lampes.
 
 Il pouvait le dire.
 
@@ -77,6 +77,6 @@ Il redescendit vers sa chambre. Il dormit peu. Vers le matin il crut entendre, s
 
 Elles sonnèrent claires et hautes sur les mille ponts, et Navoria s'éveilla à sa joie annuelle, ignorante et légère, ses barques déjà pavoisées, ses guirlandes déjà tendues d'une fenêtre à l'autre au-dessus des canaux. Sur le marché aux poissons de l'île de Corail, un vieux pêcheur non-Lié qui avait vu, lui, l'eau haute sur les pilotis, entendit les cloches et fronça les sourcils, puis haussa les épaules, parce qu'un homme seul contre une ville en fête n'est qu'un homme qui gâche la fête. Sur les degrés du Sanctuaire, l'eau sainte avait encore monté d'un degré dans la nuit, et deux prêtres la regardaient sans plus oser compter à voix haute.
 
-Vael Ossarin parut à l'autel dans la lumière du matin, la crosse de nacre au poing, et il bénit la ville. Sa voix ne trembla pas. Il dit au peuple que le dieu veillait, que les eaux étaient sûres, que Navoria durerait comme elle avait toujours duré ; et le peuple le crut, parce qu'il l'avait cru toute sa vie, et parce qu'un homme qui a menti par calcul le fait mieux qu'un homme qui dit vrai par peur — sa voix porte, elle rassure, elle a l'aplomb du soin. Il mentit avec amour. Ce fut peut-être le plus tendre mensonge qu'un homme eût jamais offert à un peuple : *dormez encore, mes enfants ; laissez-moi porter cela seul cette nuit ; vous n'avez pas besoin de savoir.* Il descendit de l'autel dans les chants, et il crut avoir gagné un jour.
+Théon Ossarin parut à l'autel dans la lumière du matin, la crosse de nacre au poing, et il bénit la ville. Sa voix ne trembla pas. Il dit au peuple que le dieu veillait, que les eaux étaient sûres, que Navoria durerait comme elle avait toujours duré ; et le peuple le crut, parce qu'il l'avait cru toute sa vie, et parce qu'un homme qui a menti par calcul le fait mieux qu'un homme qui dit vrai par peur — sa voix porte, elle rassure, elle a l'aplomb du soin. Il mentit avec amour. Ce fut peut-être le plus tendre mensonge qu'un homme eût jamais offert à un peuple : *dormez encore, mes enfants ; laissez-moi porter cela seul cette nuit ; vous n'avez pas besoin de savoir.* Il descendit de l'autel dans les chants, et il crut avoir gagné un jour.
 
 Il ne le gagna pas. Ni ce jour-là, ni le suivant ; car ce n'était pas un jour qui était en jeu, ni deux, mais quelque chose que nul décompte d'homme ne mesurait — sept heures qui n'avaient pas encore commencé, très loin au sud, dans une pierre plus vieille que toutes les conduites du monde et plus profonde que tous les calculs, où une main se levait vers un nœud que le vieux pontife de Navoris, pesant ses morts à une fenêtre, ne saurait jamais avoir existé.

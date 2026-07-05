@@ -3,7 +3,7 @@
   "tome": 1,
   "titre": "La Septième Heure",
   "sousTitre": "L'Arrachement — An 0",
-  "statut": "en cours d'écriture",
+  "statut": "tome 1 complet — relu le 2026-07-06",
   "dossier": "Lore/Romans/Les Trois Coups/T1 - La Septième Heure",
   "parties": [
     {
@@ -203,6 +203,26 @@
           "key": "h7",
           "file": "33 - H7.md",
           "label": "H7"
+        }
+      ]
+    },
+    {
+      "titre": "Coda — Le premier jour de la Grande Nuit",
+      "chapitres": [
+        {
+          "key": "la-marque-qui-reste",
+          "file": "34 - La marque qui reste.md",
+          "label": "La marque qui reste"
+        },
+        {
+          "key": "le-silence-est-revenu",
+          "file": "35 - Le silence est revenu.md",
+          "label": "Le silence est revenu"
+        },
+        {
+          "key": "qu-il-attende-quelqu-un-de-meilleur",
+          "file": "36 - Qu'il attende quelqu'un de meilleur.md",
+          "label": "Qu'il attende quelqu'un de meilleur"
         }
       ]
     }

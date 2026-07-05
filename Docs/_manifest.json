@@ -6855,9 +6855,94 @@
       "title": "Partie III — Le voyage"
     },
     {
+      "name": "19 - Ce que les morts ne disent pas",
+      "file": "19 - Ce que les morts ne disent pas.md",
+      "title": "Chapitre seize — Ce que les morts ne disent pas"
+    },
+    {
+      "name": "20 - Ce qu'on ne dit pas à une sœur",
+      "file": "20 - Ce qu'on ne dit pas à une sœur.md",
+      "title": "Chapitre dix-sept — Ce qu'on ne dit pas à une sœur"
+    },
+    {
       "name": "21 - Ce qu'un homme peut tenir",
       "file": "21 - Ce qu'un homme peut tenir.md",
       "title": "Chapitre dix-huit — Ce qu'un homme peut tenir"
+    },
+    {
+      "name": "22 - La phrase qui attendait",
+      "file": "22 - La phrase qui attendait.md",
+      "title": "Chapitre dix-neuf — La phrase qui attendait"
+    },
+    {
+      "name": "23 - Seuil de la Partie IV - La voix du Lien",
+      "file": "23 - Seuil de la Partie IV - La voix du Lien.md",
+      "title": "Partie IV — La veille"
+    },
+    {
+      "name": "24 - Seuil de la Partie V - La voix du Lien",
+      "file": "24 - Seuil de la Partie V - La voix du Lien.md",
+      "title": "Partie V — La septième heure"
+    },
+    {
+      "name": "25 - H-7",
+      "file": "25 - H-7.md",
+      "title": "H-7 — Le dernier arrivé ouvre la marche"
+    },
+    {
+      "name": "26 - H-5",
+      "file": "26 - H-5.md",
+      "title": "H-5 — Ce qu'on se dit quand on ne peut plus redescendre"
+    },
+    {
+      "name": "27 - H-2",
+      "file": "27 - H-2.md",
+      "title": "H-2 — Le protocole au Premier Ancrage"
+    },
+    {
+      "name": "28 - H0",
+      "file": "28 - H0.md",
+      "title": "H0 — Ce que personne ne relie"
+    },
+    {
+      "name": "29 - H1",
+      "file": "29 - H1.md",
+      "title": "H1 — Le feu qu'on ne lève pas"
+    },
+    {
+      "name": "30 - H2",
+      "file": "30 - H2.md",
+      "title": "H2"
+    },
+    {
+      "name": "31 - H4",
+      "file": "31 - H4.md",
+      "title": "H4 — Ce qui ne résonne pas"
+    },
+    {
+      "name": "32 - H6",
+      "file": "32 - H6.md",
+      "title": "H6"
+    },
+    {
+      "name": "33 - H7",
+      "file": "33 - H7.md",
+      "title": "H7 — La dernière touchée"
+    },
+    {
+      "name": "34 - La marque qui reste",
+      "file": "34 - La marque qui reste.md",
+      "title": "La marque qui reste"
+    },
+    {
+      "name": "35 - Le silence est revenu",
+      "file": "35 - Le silence est revenu.md",
+      "title": "Le silence est revenu"
+    },
+    {
+      "name": "36 - Qu'il attende quelqu'un de meilleur",
+      "file": "36 - Qu'il attende quelqu'un de meilleur.md",
+      "title": "Qu'il attende quelqu'un de meilleur"
     },
     {
       "name": "_bible",
@@ -6871,6 +6956,11 @@
       "name": "Audit Patterns Existants",
       "file": "Audit Patterns Existants.md",
       "title": "Audit Patterns Existants — Lore Hybelior"
+    },
+    {
+      "name": "Audit cohérence 2026-07-05",
+      "file": "Audit cohérence 2026-07-05.md",
+      "title": "Audit de cohérence du lore — 5 juillet 2026"
     },
     {
       "name": "CHANTIER - Veines Philosophiques",

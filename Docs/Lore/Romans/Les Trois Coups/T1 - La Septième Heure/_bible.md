@@ -367,3 +367,15 @@ Le roman **incarne la lecture verithane de l'intérieur** (les Huit croient agir
 - **Le compte à rebours** (Partie V) converge tout au Mont Cendra ; **Drakhan meurt sur scène (H1)** ; les fenêtres-monde meurent à leur H.
 - **Ne jamais** établir que le rituel a causé l'Arrachement. Montrer la coïncidence ; laisser le doute ronger jusqu'au narrateur cosmique.
 - **Le journal de Thessan** = fil rouge cohérent (§3) et objet-miroir du carnet de Sorin (T3) ; il finit **caché**, ce qui explique qu'il ne soit jamais retrouvé.
+
+---
+
+## ANNEXE — Concordance des numérotations (note du 2026-07-06)
+
+Deux systèmes coexistent volontairement : les **noms de fichiers** (00-36, ordre de lecture,
+seuils et fenêtres inclus) et le champ frontmatter **`chapitre:`** (numérotation du plan §3,
+chapitres POV uniquement). Exemples : fichier `19` = chapitre 16 ; fichier `21` = chapitre 18 ;
+fichier `22` = chapitre 19. Chaque système est continu et sans trou ; l'ordre de lecture de
+référence est celui de `roman-index.json`. Validé (relecture finale) : POV Sera en continuité
+sur H-2 → H0 (fichiers 27-28) — le geste vu par elle seule sert l'ambiguïté ; titres-heures
+ponctuels des fenêtres (H4, H6) assumés, le texte respecte les plages de la bible §2.
