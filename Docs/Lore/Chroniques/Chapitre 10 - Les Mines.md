@@ -67,7 +67,7 @@ J'acceptai et passai sous la Porte de Fer.
 
 ---
 
-L'auberge du bourg extérieur de Glintar s'appelait Le Charbonnier, et elle méritait son nom — une salle noire de suie, des tables épaisses, de l'air chargé de fumée de charbon et de la bière sombre d'Iskara que l'on verse dans des gobelets de fer et non de bois comme en Galenor. C'est l'une des premières différences que l'on remarque en entrant dans un espace iskaran public : pas de bois. Ni dans les meubles lourds — tout est pierre ou métal —, ni dans les gobelets, ni dans les cuillers. Le bois n'est pas méprisé en Iskara comme il l'est en Altram, mais il est réservé à des usages spécifiques, non aux usages quotidiens. Comme si les Iskarans avaient décidé que tout ce qui peut être remplacé par quelque chose de plus dur doit l'être.
+L'auberge du bourg extérieur de Glintar s'appelait Le Charbonnier, et elle méritait son nom : salle noire de suie, tables épaisses, air chargé de fumée de charbon, bière sombre versée dans des gobelets de fer. C'est l'une des premières différences que l'on remarque en Iskara : presque pas de bois dans les lieux publics. Les meubles, les gobelets, les cuillers, tout est pierre ou métal. Ce qui peut être remplacé par plus dur l'est.
 
 J'y rencontrai Baret.
 
@@ -87,7 +87,7 @@ Ce n'était pas une question. Je lui demandai comment il le savait.
 
 Il dit cela sans ostentation, avec une précision factuelle qui était clairement de la culture professionnelle plutôt que du bavardage. Baret Sorn savait ce qu'il savait parce que c'était son travail de le savoir, et il le disait parce que c'était pertinent, pas pour impressionner.
 
-Nous mangeâmes ensemble — ou plutôt nous mangeâmes à la même table, ce qui en Iskara revient à manger ensemble. On nous servit un plat que j'avais déjà croisé en chemin : viande séchée dans les courants d'air des tunnels, dure, saline, d'un goût intense et économique, accompagnée de pain noir et d'un fromage pressé sous des blocs de pierre qui avait la densité de quelque chose qui avait refusé d'être mou sous la pression et avait eu raison. Le vin de Galdar — le vin de montagne de l'armée iskaran que les civils buvaient aussi, mélangé à l'eau des puits pour la purifier selon une habitude si ancienne qu'elle était devenue coutume gastronomique.
+Nous mangeâmes à la même table, ce qui en Iskara revient à manger ensemble. On nous servit viande séchée dans les courants d'air des tunnels, pain noir, fromage pressé sous blocs de pierre. Tout était dur, salé, dense. Le vin de Galdar, vin de montagne de l'armée iskaran, était coupé à l'eau des puits pour la purifier ; l'habitude était si ancienne qu'elle était devenue goût.
 
 Baret parla peu pendant le repas. Mais après la bière, il parla davantage — non pas sous l'effet de la bière, les Iskarans ne s'enivrent pas au point de perdre la mesure de leurs mots, mais parce que quelque chose dans ma façon d'écouter lui sembla digne de confiance. C'est quelque chose que j'ai appris dans ce voyage : les gens parlent non pas quand vous les interrogez mais quand ils décident que vous méritez ce qu'ils savent. Forcer l'interrogatoire donne des réponses de surface. La patience donne les profondeurs.
 
@@ -105,7 +105,7 @@ Un silence. Pas de la réticence — de la formulation. Baret cherchait les mots
 
 « Parce que les mineurs ont commencé à entendre des choses. »
 
-Il ajouta, après un autre silence — non pas sur ma demande, mais parce que le nom appartenait à ce qu'il venait de dire et qu'il ne voulait pas le laisser pour plus tard : « Il y avait Jessen. Mineur de Myrilith, comme moi. Pas plus jeune, pas plus vieux. On avait scellé une galerie, en bas, des années plus tôt — un ordre du Conseil, personne ne discutait. Lui, il n'a jamais oublié ce qu'il y avait derrière. Un jour, il a forcé les barricades avec ses propres outils. On l'a retrouvé assis devant la porte, les mains à plat sur le métal, les yeux ouverts et vides. Vivant, mais absent. Il n'a plus jamais parlé. » Il regarda le fond de son gobelet. « Il a tenu comme ça longtemps, à l'infirmerie. Sa femme — Mira — venait chaque jour. Il ne réagissait pas. Jusqu'au jour où elle a parlé de la porte. Alors il a tourné la tête vers elle et il a dit, trois mots, dans une voix qui n'était pas la sienne : *Elle arrive.* Puis il a fermé les yeux, et c'était fini. »
+Il ajouta, après un autre silence : « Il y avait Jessen. Mineur de Myrilith, comme moi. On avait scellé une galerie, en bas, des années plus tôt — un ordre du Conseil, personne ne discutait. Lui, il n'a jamais oublié ce qu'il y avait derrière. Un jour, il a forcé les barricades avec ses propres outils. On l'a retrouvé assis devant la porte, les mains à plat sur le métal, les yeux ouverts et vides. Vivant, mais absent. Il n'a plus jamais parlé. » Il regarda le fond de son gobelet. « Sa femme venait chaque jour. Il ne réagissait pas. Jusqu'au jour où elle a parlé de la porte. Alors il a tourné la tête vers elle et il a dit, dans une voix qui n'était pas la sienne : *Elle arrive.* Puis il a fermé les yeux. »
 
 Je notai. Je n'ai pas demandé qui *elle* désignait. Baret n'aurait pas répondu et la question, à ce stade, n'aurait été qu'une façon de combler l'espace que ces trois mots avaient ouvert.
 
@@ -229,7 +229,7 @@ Velathor et l'arbre qui vibrait sous ma main.
 
 Les tunnels sous Kharazir que j'avais cartographiés et qui avaient provoqué mon exil — des tunnels que mon père Aldric avait trouvés avant moi, vingt ans plus tôt.
 
-Je ne savais pas encore ce que ces choses avaient en commun. Je savais qu'elles avaient quelque chose en commun, avec la certitude sourde et pré-intellectuelle que l'on ressent quand plusieurs faits disparates cherchent à former une phrase que l'on n'a pas encore les mots pour lire. Le cartographe en moi voulait les tracer sur une carte — chaque phénomène comme un point, et tirer des lignes entre les points pour voir si une figure émergeait. La figure émergerait ou non. Mais au moins la tentative de la tracer produirait quelque chose de plus lisible que l'accumulation informe des impressions.
+Je ne savais pas encore ce que ces choses avaient en commun. Je savais seulement qu'elles appelaient une carte. Le Fragment Zéro. Les arbres de Velathor. Les sons d'Iskara. Trois points ne font pas une preuve, mais ils permettent déjà de tracer une ligne et de vérifier si elle tient.
 
 Ce soir-là, dans la salle commune de l'auberge du bourg extérieur, avec Baret Sorn en face de moi et le vin de Galdar mélangé à l'eau froide du puits entre les deux gobelets de fer, je lui parlai de la porte.
 
@@ -259,7 +259,7 @@ L'air des hauts plateaux est différent de celui des vallées d'Iskara. Plus lé
 
 Je passai trois jours dans un hameau de plateau nommé Verthal, dont les habitants — une vingtaine de familles, des forgerons et des mineurs de veine, avec la corpulence massive propre aux gens qui vivent à des altitudes où le corps s'épaissit pour se protéger — m'accueillirent avec la méfiance initiale normale des communautés isolées, suivie d'une curiosité pragmatique. Un cartographe étranger est d'abord une anomalie, puis une ressource potentielle. À Verthal, ils voulaient savoir si mes cartes des routes d'accès au plateau étaient meilleures que les leurs — elles ne l'étaient pas, les gens d'ici connaissent leur territoire mieux que n'importe quel document —, mais l'échange de regards cartographiques créa une ouverture.
 
-La forge de Verthal était dirigée par une femme dont je sus plus tard qu'elle était l'une des Maîtresses de Veine les plus respectées de la confédération ferrati. Elle s'appelait Hessa, soixante ans, une présence physique qui occupait l'espace différemment des femmes que j'avais rencontrées ailleurs dans ce voyage — pas par la taille ou la force mais par une sorte de gravité, au sens propre, comme si elle pesait légèrement plus que ce qu'on attendait. Elle me fit visiter la forge sans commentaire, me laissa observer le travail, et à la fin me dit : « Vous cherchez quoi ? »
+La forge de Verthal était dirigée par Hessa, soixante ans, l'une des Maîtresses de Veine les plus respectées de la confédération ferrati. Elle n'était pas grande, mais elle occupait l'espace comme une enclume occupe une table. Elle me fit visiter la forge sans commentaire, me laissa observer le travail, puis demanda : « Vous cherchez quoi ? »
 
 Je lui dis que je cartographiais les galeries.
 

@@ -17,13 +17,13 @@ needs_review_for: []
 
 La traversée depuis Valoria a duré dix-neuf jours.
 
-Dix-neuf jours de mer, dont sept dans une houle suffisamment haute pour que Pardine refuse de manger et que moi-même je perde tout intérêt pour la nourriture. Le capitaine du vaisseau — un homme de Yaltar nommé Dorveth, trapu comme un baril, avec un humour si sec qu'il semblait taillé dans le même bois que ses planches de pont — m'avait prévenu dès le départ que la mer entre Galenor et Alkaran était capricieuse en cette saison. Il avait dit capricieuse. Il aurait pu dire hostile. Il aurait pu dire que le vent vient de trois directions en même temps et que les vagues ont quelque chose de personnel.
+Dix-neuf jours de mer, dont sept dans une houle assez haute pour que Pardine refuse de manger et que moi-même je perde tout intérêt pour la nourriture. Le capitaine du vaisseau, Dorveth de Yaltar, trapu comme un baril et sec d'humour, m'avait prévenu que la mer entre Galenor et Alkaran était capricieuse en cette saison. Il aurait pu dire hostile. Il aurait pu dire que le vent vient de trois directions en même temps et que les vagues ont quelque chose de personnel.
 
 Je suis arrivé à Yaltar avec un estomac vide, des genoux faibles et la certitude que je ne possède aucun don naturel pour la navigation. Mais j'avais mes cartes — soigneusement enroulées dans leur tube de cuir ciré, serrées dans ma sacoche contre mon flanc à chaque moment de la traversée — et Pardine, qui avait survécu malgré ses réticences alimentaires, et une curiosité qui, je le constate avec une certaine surprise, avait survécu elle aussi à la houle et à l'inconfort.
 
 Galenor est derrière moi. Mon premier continent est derrière moi.
 
-Je ne savais pas que ce serait aussi étrange comme pensée. J'avais quitté Kharazir sans regarder en arrière — ou plutôt en regardant en arrière mais en prétendant le contraire, ce qui est une façon différente et plus coûteuse de faire la même chose. J'avais traversé sept nations, dormi dans des lits inconfortables, des fenaisons, une grotte trinorienne odorante, et le pont d'un navire dont les cordages chantaient dans le vent des lamentations de chanvre mouillé. Et maintenant, debout sur le quai de pierre du port de Yaltar — sous les pieds une roche qui ne bougeait pas, et qui était, pour cette simple raison, la chose la plus merveilleuse que j'eusse jamais sentie —, je pensais : un continent étranger.
+Je ne savais pas que ce serait aussi étrange comme pensée. J'avais quitté Kharazir sans regarder en arrière — ou plutôt en regardant en arrière en prétendant le contraire. J'avais traversé sept nations, dormi dans des lits inconfortables, des fenaisons, une grotte trinorienne odorante, et le pont d'un navire dont les cordages chantaient dans le vent des lamentations de chanvre mouillé. Et maintenant, debout sur le quai de pierre de Yaltar, une roche immobile sous les pieds, je pensais : un continent étranger.
 
 Alkaran.
 
@@ -31,7 +31,7 @@ Il m'avait fallu tout Galenor pour comprendre que mon exil n'était pas une fin,
 
 ---
 
-Yaltar m'a retenu trois jours, le temps de laisser Pardine reprendre ses esprits et les miens, et de faire corriger par un forgeron local l'anneau de fer de ma sacoche principale qui s'était tordu dans la tempête. Trois jours dans un port de pierre massive où les quais avaient été creusés à même la roche du promontoire et où les maisons ne comportaient pas un seul poteau de bois — tout était pierre, fer forgé, mortier vieux comme le royaume. L'hôtel où je logeais avait des fenêtres encadrées de fer travaillé en formes de nœuds marins, et le lit était une couchette de pierre recouverte d'une épaisse laine que j'appris plus tard venir de Turalt, une laine si dense qu'elle garde la chaleur même humide. Je dormis bien, malgré la dureté. Ou peut-être à cause d'elle.
+Yaltar m'a retenu trois jours. Il fallut laisser Pardine reprendre ses esprits, et les miens, puis faire réparer par un forgeron l'anneau de fer de ma sacoche principale, tordu dans la tempête. Trois jours dans un port de pierre massive. Les quais étaient creusés dans le promontoire ; les maisons ne comportaient pas un seul poteau de bois. Tout était pierre, fer forgé, mortier vieux comme le royaume. L'hôtel avait des fenêtres encadrées de fer en nœuds marins, et un lit de pierre couvert d'une laine de Turalt si dense qu'elle gardait la chaleur même humide. Je dormis bien, malgré la dureté. Ou peut-être à cause d'elle.
 
 Le forgeron qui répara mon anneau s'appelait Arven. Cinquante ans, les mains noires jusqu'au poignet d'une saleté que l'on n'enlève plus, des yeux petits et précis qui examinèrent mon anneau tordu avec l'expression d'un médecin regardant une fracture mal réduite. Il ne dit pas un mot pendant l'examen. Puis il reposa l'anneau sur son établi et me regarda.
 
@@ -125,7 +125,7 @@ C'est elle qui m'avait indiqué, au quatrième jour, le couloir de gauche.
 
 Le couloir de gauche débouchait sur une antichambre fermée par une porte de fer forgé, massive, portant le sceau du Conseil des Maîtres en relief. La porte était ouverte — non pas déverrouillée mais simplement entrouverte, comme si quelqu'un avait oublié de la refermer ou, plus troublant, comme si elle refusait de se fermer complètement. L'antichambre de l'autre côté était petite, taillée à même la roche, et au centre, sur un présentoir de pierre brute, il y avait quelque chose sous une cloche de verre épais.
 
-Un fragment de parchemin. Pas plus grand que ma main. D'une matière indéfinissable — ni tout à fait vélin, ni tout à fait fibre végétale, d'un beige tirant sur le gris que la lumière de ma lampe traitait différemment selon l'angle : bleuté d'un côté, presque doré de l'autre. Il portait une seule ligne d'écriture, tracée dans des caractères que je ne reconnus pas — du verithan, m'apprendrait Lisel, une écriture morte que les archivistes d'Altram étaient seuls à déchiffrer, et dont le sens exact m'échappa donc entièrement. Par endroits, dans la fibre même, une iridescence que je n'aurais pas su décrire autrement qu'en disant que la surface semblait contenir une profondeur — comme si ce que je voyais n'était qu'une première couche, en dessous de laquelle quelque chose d'autre commençait.
+Un fragment de parchemin. Pas plus grand que ma main. Une matière indéfinissable : ni tout à fait vélin, ni tout à fait fibre végétale, beige gris sous un angle, presque dorée sous un autre. Il portait une seule ligne d'écriture dans des caractères que je ne reconnus pas. Du verithan, m'apprendrait Lisel, une écriture morte que les archivistes d'Altram étaient seuls à déchiffrer. Par endroits, la fibre portait une iridescence qui donnait l'impression d'une surface posée sur une profondeur.
 
 Et il pulsait.
 

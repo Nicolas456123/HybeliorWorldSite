@@ -16,11 +16,11 @@ needs_review_for: []
 
 Le premier signe d'Onara fut l'odeur.
 
-Trois jours avant que Velithar apparaisse à l'horizon, le vent changea de nature. Je n'ai pas d'autre mot : changea de nature. Il n'apportait plus le sel ordinaire de la mer ouverte, ni ce rien propre des grandes traversées où l'air ne contient que lui-même. Il apportait quelque chose de lourd, de métallique, une arrière-note qui rappelait les forges de Kharazir dans leurs mauvais jours — mais multiplié, systématisé, comme si une ville entière avait décidé d'exhaler du métal fondu au lieu d'air. Les autres passagers du navire ne semblaient pas le remarquer. Moi, j'ai rangé mon carnet, je me suis accoudé à la rambarde de proue, et j'ai senti Onara arriver avant de la voir.
+Trois jours avant que Velithar apparaisse à l'horizon, le vent changea. Il n'apportait plus seulement le sel de la mer ouverte. Il portait une lourdeur métallique, une arrière-note de forge, comme si une ville entière exhalait du métal fondu. Les autres passagers du navire ne semblaient pas le remarquer. Moi, j'ai rangé mon carnet, je me suis accoudé à la rambarde de proue, et j'ai senti Onara arriver avant de la voir.
 
 Puis la côte est apparue.
 
-Je m'attendais à des falaises, à la silhouette habituelle des pays maritimes — des dents de roc, des criques, peut-être les tours blanches d'un phare. Ce que j'ai vu était différent. La côte de Mosrack ne cherche pas à être belle. Elle ne cherche pas du tout. Elle existe dans un but précis, et ce but est visible à des lieues : des chantiers navals que la distance réduisait en miniatures mais dont la structure restait lisible — des carcasses de coques en construction, des grues de bois et de ferraille, des colonnes de fumée qui montaient droites dans l'air calme du matin, en nombre si grand qu'elles formaient ensemble un nuage suspendu, une brume d'intérieur qui n'avait rien à voir avec le brouillard marin.
+Je m'attendais à des falaises, à des dents de roc, à des criques, peut-être aux tours blanches d'un phare. La côte de Mosrack était autre chose. Elle ne cherchait pas à être belle. Elle ne cherchait pas du tout. Elle servait un but visible à des lieues : chantiers navals, carcasses de coques, grues de bois et de fer, colonnes de fumée. Elles montaient droites dans l'air calme du matin, assez nombreuses pour former un nuage suspendu qui n'avait rien à voir avec le brouillard marin.
 
 Velithar.
 
@@ -28,7 +28,7 @@ Le port militaire de Mosrack. J'en avais entendu parler par deux marchands tynda
 
 ---
 
-Nous avons accosté dans la section marchande — séparée du chantier naval militaire par une chaîne de bouées et la présence permanente de deux patrouilleurs de la flotte, dont les canons étaient visibles depuis le pont et dont les équipages nous regardaient avec l'attention de gens dont l'attention est le métier. Le capitaine de notre bâtiment — un tyndarien du nord, grisonnant et économe de ses paroles — a manœuvré avec la précision de quelqu'un qui a fait ce trajet trop souvent pour se laisser impressionner, mais dont les mains sur la barre restaient légèrement plus serrées que nécessaire.
+Nous avons accosté dans la section marchande, séparée du chantier militaire par une chaîne de bouées et deux patrouilleurs. Leurs canons étaient visibles depuis le pont ; leurs équipages nous observaient avec l'attention de gens dont l'attention est le métier. Le capitaine, un Tyndarien du nord grisonnant et économe de ses paroles, manœuvra sans se laisser impressionner. Ses mains restaient pourtant légèrement trop serrées sur la barre.
 
 Pardine a refusé de débarquer.
 
@@ -40,9 +40,9 @@ J'aurais voulu partager sa conviction.
 
 ---
 
-Le bureau des douanes de Velithar occupait un bâtiment de pierre noire au bord du quai, carré et massif comme tout le reste ici, sans enseigne ni ornement sauf le symbole de Mosrack gravé profondément dans le linteau — un marteau croisé sur une enclume, taillé avec la précision d'un homme qui savait ce qu'il faisait et qui voulait que ça dure. Il y avait une queue. Des marchands étrangers pour la plupart, quelques ingénieurs d'aspect, une délégation de je ne savais quoi en vêtements d'une qualité que la poussière de voyage n'arrivait pas tout à fait à dissimuler.
+Le bureau des douanes de Velithar occupait un bâtiment de pierre noire au bord du quai, carré et massif comme tout le reste ici. Pas d'enseigne, pas d'ornement, seulement le symbole de Mosrack gravé dans le linteau : un marteau croisé sur une enclume. Il y avait une queue. Des marchands étrangers, quelques ingénieurs, une délégation en vêtements trop soignés pour que la poussière de voyage les rende ordinaires.
 
-L'officier de douane était une femme d'une quarantaine d'années, la charpente épaisse des gens de Mosrack — j'apprendrais que presque tout le monde ici a cette charpente, comme si le pays lui-même forgeait ses habitants selon le même moule — portant l'uniforme de la garde de Velithar avec l'aisance de quelqu'un qui l'a mis chaque matin depuis si longtemps qu'il est devenu une seconde peau. Elle s'appelait, selon la plaque à son bureau, Commandante Orryn. Elle ne s'est pas présentée. Elle m'a simplement demandé mon nom, ma provenance, mon métier, ma destination, et la durée prévue de mon séjour.
+L'officier de douane était une femme d'une quarantaine d'années, large d'épaules, avec la charpente que je retrouverais ensuite chez presque tous les gens de Mosrack. Elle portait l'uniforme de la garde de Velithar comme une seconde peau. La plaque sur son bureau disait : Commandante Orryn. Elle ne se présenta pas. Elle demanda mon nom, ma provenance, mon métier, ma destination, et la durée prévue de mon séjour.
 
 Cartographe. Origine : Kharazir, exil actif. Destination : Folgrad, pour observer. Durée : indéterminée.
 
@@ -58,13 +58,13 @@ Elle a désigné un point. Elle avait raison. Je n'aurais jamais prévu que la p
 
 ---
 
-Velithar est une ville qui n'existe que pour son port, et son port n'existe que pour ses vaisseaux de guerre. Ce n'est pas une métaphore : les rues de la ville conduisent toutes vers les chantiers ou les arsenaux, les tavernes sont situées à proximité des casernes des marins, les temples — deux Lex Petra, un Ignis Aeternum — sont bâtis face à la mer comme des vigies. Les civils qui n'ont pas de lien avec la marine existent à Velithar, mais ils y ont l'air marginaux, comme des plantes qui poussent dans les interstices d'un mur et que le mur tolère sans les avoir prévues.
+Velithar n'existe que pour son port, et son port pour ses vaisseaux de guerre. Ce n'est pas une métaphore. Les rues conduisent aux chantiers ou aux arsenaux. Les tavernes bordent les casernes des marins. Les temples — deux Lex Petra, un Ignis Aeternum — font face à la mer comme des vigies. Les civils sans lien avec la marine existent, mais ils y semblent marginaux, comme des plantes dans les fissures d'un mur conçu pour autre chose.
 
-J'ai passé deux nuits dans cette ville, le temps d'organiser la suite et de louer une place dans un convoi de marchands montant vers la capitale. Une auberge convenable dans la rue des Fournisseurs — les taverniers qui servent les équipements aux chantiers vivent dans la même rue, ce qui donne un quartier où l'on sent constamment le suif et le goudron —, une chambre propre et sans ornement, un lit qui était un cadre de métal avec une paillasse dessus et qui était parfaitement adapté à ce pour quoi il était conçu, c'est-à-dire faire dormir un homme fatigué sans lui faire croire qu'il est confortable.
+J'ai passé deux nuits dans cette ville, le temps d'organiser la suite et de louer une place dans un convoi vers la capitale. Une auberge convenable rue des Fournisseurs, un quartier qui sentait le suif et le goudron. Une chambre propre, sans ornement. Un lit fait d'un cadre de métal et d'une paillasse, parfaitement adapté à sa fonction : faire dormir un homme fatigué sans lui faire croire qu'il est confortable.
 
 Le repas du premier soir fut une expérience en soi.
 
-Les auberges de Velithar servent ce que j'apprendrais à connaître comme la cuisine de forge : des morceaux de viande cuits directement sur des plaques de métal chauffées, sans aucune préparation au-delà du sel, avec un pain si dense et si noir qu'on aurait pu penser qu'il était fait de la même matière que les murs de la ville. Le pain de fer, certains l'appellent — cuit dans des moules en fonte, et qui porte la chaleur longtemps, si longtemps qu'on brûle encore les doigts sur la croûte quand la mie est déjà tiède. La bière était épaisse comme une bouillie d'avoine et avait le goût de quelque chose qui avait une opinion ferme sur elle-même.
+Les auberges de Velithar servent une cuisine de forge : viande saisie sur plaque de métal, sel, pain noir et dense. Certains l'appellent le pain de fer. Il cuit dans des moules en fonte et garde la chaleur si longtemps qu'on se brûle encore les doigts sur la croûte quand la mie est déjà tiède. La bière était épaisse comme une bouillie d'avoine et avait le goût d'une décision prise sans consulter personne.
 
 Ce n'est pas mauvais. C'est honnête d'une façon que la cuisine de Fablioris, avec ses entrelacs de saveurs et ses présentations savantes, ne pouvait pas revendiquer. La nourriture de Mosrack ne cherche pas à vous convaincre de quoi que ce soit. Elle nourrit. C'est tout ce qu'elle fait, et elle le fait bien.
 
@@ -78,13 +78,13 @@ Il n'avait pas tort. La métaphore était juste. Je relève le terrain d'un mond
 
 ---
 
-Le convoi de marchands qui montait vers Folgrad était composé de sept chariots, deux gardes à cheval et une dizaine de voyageurs à statuts variés. Je pris place sur le deuxième chariot, Pardine attachée à l'arrière et me reprochant silencieusement de ne pas marcher moi-même comme un homme normal. La route vers Folgrad traversait la région de Velithar — la côte, d'abord, avec ses installations militaires visibles depuis les hauteurs et ses garnisons toutes les dix lieues — puis montait dans l'intérieur du pays par des routes pavées de mâchefer compacté que les chariots prenaient bien mais dont la couleur gris-noir était la même que tout le reste.
+Le convoi vers Folgrad comptait sept chariots, deux gardes à cheval et une dizaine de voyageurs. Je pris place sur le deuxième chariot, Pardine attachée à l'arrière et me reprochant silencieusement de ne pas marcher comme un homme normal. La route suivit d'abord la côte, avec ses installations militaires visibles depuis les hauteurs et ses garnisons toutes les dix lieues. Puis elle monta vers l'intérieur par des routes pavées de mâchefer compacté, aussi gris-noir que le reste du pays.
 
 Le premier village que nous traversâmes s'appelait — selon un panneau en fer forgé cloué sur un poteau — Vrond. Il n'avait pas d'auberge. Il avait une forge, une caserne de garnison, et des maisons de brique grise dont les habitants nous regardèrent passer depuis leurs fenêtres sans changer d'expression. Pas d'hostilité. Pas de curiosité. Simplement un regard qui enregistrait notre passage comme un fait parmi les faits de la journée.
 
 C'est au deuxième jour que j'ai vu les forges de Camord.
 
-On les sent d'abord — l'odeur que j'avais captée en mer, mais multipliée, concentrée, jusqu'à remplir l'air d'une façon qui n'est plus une odeur mais presque une texture. On les entend ensuite — un battement régulier, profond, qui n'est pas du bruit de tambour mais qui résonne dans la même fréquence que le cœur, comme si le pays avait son propre pouls et qu'il était fait de métal frappé. Et puis on les voit : les cheminées de Camord, des dizaines, peut-être une centaine, crachant des colonnes de fumée blanche et grise et parfois noire qui montaient et fusionnaient en une couverture d'air sale suspendue à hauteur de nuage.
+On les sent d'abord : l'odeur captée en mer, multipliée jusqu'à remplir la bouche. On les entend ensuite : un battement régulier, profond, proche du rythme du cœur. Puis on les voit. Les cheminées de Camord, des dizaines, peut-être une centaine, crachent des colonnes de fumée blanche, grise, parfois noire, qui fusionnent en plafond sale au-dessus de la ville.
 
 Le voyageur assis à côté de moi sur le chariot — une femme d'affaires de Tyndara, petite et précise dans ses mouvements, qui transportait des contrats à signer à Folgrad — désigna les cheminées avec le geste de quelqu'un qui fait une démonstration. Elle dit : « Mosrack exporte des armes dans soixante-trois pays. Soixante-trois. J'en connais le chiffre exact parce que ma guilde les achète pour trente d'entre eux. »
 
@@ -102,9 +102,9 @@ Il y a des villes que l'on voit venir de loin et qui, à mesure qu'on s'approche
 
 Folgrad est du troisième type.
 
-Elle occupe une colline. Une colline artificielle — j'avais lu les récits, j'en connaissais l'histoire — construite par Volkar le Marteau à partir des scories et des débris des vingt-trois forges des clans vaincus. Ce que les récits ne disent pas entièrement, c'est ce que ça fait de la voir. La colline n'a pas la forme arrondie et organique d'une butte naturelle. Elle a des angles. Elle est trapézoïdale, presque géométrique, comme si quelqu'un avait décidé de dessiner une colline et n'avait pas voulu que la nature y contribue. La ville qui la couvre est de la même couleur que la colline — brique noire et pierre sombre et partout la rouille orangée du métal qui a passé trop d'hivers à l'extérieur — si bien que l'ensemble, vu depuis la plaine, ressemble moins à une ville qu'à une excroissance de la terre elle-même, une formation géologique qui se serait décidée à avoir des fenêtres.
+Elle occupe une colline artificielle, construite par Volkar le Marteau avec les scories et les débris des vingt-trois forges des clans vaincus. Les récits donnent l'information ; ils ne donnent pas l'effet. La colline a des angles. Trapézoïdale, presque géométrique, elle ressemble à une butte dessinée par quelqu'un qui refusait l'aide de la nature. La ville qui la couvre a la même couleur : brique noire, pierre sombre, rouille orangée. Depuis la plaine, Camord ressemble moins à une ville qu'à une masse de terre qui aurait poussé des fenêtres.
 
-Le Palais du Directoire, au sommet, est en acier et en basalte. Je ne crois pas avoir jamais vu un palais en acier. L'acier, dans les architectures que j'avais traversées jusqu'ici, était un renfort, une armature, quelque chose qui assistait la pierre ou le bois. Ici, il est la matière principale, et il n'est pas habillé — on le voit, avec ses joints, ses boulons, ses plaques assemblées selon une logique d'ingénieur et non d'architecte. C'est beau d'une façon que l'esthétique ordinaire ne couvre pas. C'est fonctionnellement impressionnant, ce qui est différent.
+Le Palais du Directoire, au sommet, est en acier et en basalte. Je n'avais jamais vu un palais en acier. Ailleurs, l'acier renforce la pierre ou le bois. Ici, il commande. Les joints, les boulons, les plaques restent visibles. Ce n'est pas beau au sens ordinaire. C'est impressionnant parce que tout y sert à tenir.
 
 Les rues de Folgrad sont pavées de mâchefer — compacté, stabilisé, mais le mâchefer tout de même, la déjection des hauts fourneaux, le rebut de la production qui devient le sol de la ville. Je ne suis pas certain que ce soit délibéré comme symbole, mais ça l'est quand même : dans cette ville, on marche sur ce que la forge rejette, et ça ne dérange personne.
 
@@ -122,7 +122,7 @@ C'est ainsi que j'ai rencontré Thedek.
 
 ---
 
-Thedek était assis sur un banc de pierre en face d'un haut fourneau en construction — pas un des immenses de Cumulgord, mais une unité secondaire dans un district industriel du nord de la ville — et il mangeait son repas de midi avec la concentration méthodique d'un homme qui a décidé que manger était aussi un travail et méritait la même attention. Cinquante ans, peut-être, la peau tannée de quelqu'un qui a passé des décennies près d'un feu, les mains larges des forgerons avec les cicatrices et les callosités qui vont avec. Il m'avait regardé travailler depuis un moment avant de parler, et ce qu'il dit n'était pas une question mais une observation : « Vous ne dessinez pas les murs correctement. »
+Thedek était assis sur un banc de pierre devant un haut fourneau en construction, dans un district industriel du nord. Il mangeait son repas de midi avec la concentration méthodique d'un homme pour qui manger était aussi un travail. Cinquante ans, peut-être. Peau tannée par des décennies près du feu, mains larges, cicatrices et callosités. Il m'avait regardé travailler depuis un moment avant de parler. Ce qu'il dit n'était pas une question mais une observation : « Vous ne dessinez pas les murs correctement. »
 
 Je regardai mon relevé. Je demandai pourquoi.
 
@@ -138,9 +138,9 @@ Il me proposa de me montrer l'intérieur du fourneau en construction. Je n'hési
 
 ---
 
-L'intérieur d'un haut fourneau en cours d'assemblage est un espace qui défie l'habitude. Les hauts fourneaux que j'avais vus à Myrtam — je noterai pour la continuité de ce journal que Myrtam, en Onara, m'avait déjà montré ce que l'industrie fait à un paysage et à des hommes — étaient impressionnants par leur dimension. Celui-ci, plus petit, était impressionnant par son détail. Chaque brique était choisie, chaque joint calculé pour résister à des températures que je ne pouvais pas tout à fait imaginer malgré les explications de Thedek. La chambre centrale, encore froide, ressemblait à une cathédrale cylindrique construite pour un dieu qui n'appréciait pas la lumière — les parois courbes, le sol en pente douce vers le drain de la coulée, le dôme au-dessus qui serait invisible quand les fumées l'empliraient.
+L'intérieur d'un haut fourneau en cours d'assemblage défie l'habitude. Ceux que j'avais vus à Myrtam impressionnaient par leur dimension. Celui-ci, plus petit, impressionnait par son détail. Chaque brique était choisie, chaque joint calculé pour résister à des températures que je n'imaginais pas tout à fait. La chambre centrale, encore froide, ressemblait à une cathédrale cylindrique pour un dieu qui n'appréciait pas la lumière : parois courbes, sol en pente vers le drain de coulée, dôme bientôt invisible sous les fumées.
 
-Thedek m'expliqua le processus avec la patience d'un homme qui aimait son sujet suffisamment pour accepter de le traduire pour un ignorant. Le minerai de Nosford, chargé par le haut. Le charbon qui alimentait la chambre de combustion. L'air insufflé par des soufflets mécaniques — un dispositif ingénieux qu'il me montra, un système de leviers et de cuir et d'engrenages de bois —, car l'air ordinaire ne suffisait pas, il fallait forcer l'air dans le feu pour atteindre les températures nécessaires. Et puis la coulée — le métal en fusion qui s'écoulait par le bas, dans les moules, refroidissait, devenait acier ou fer selon la composition du minerai et du charbon.
+Thedek m'expliqua le processus avec la patience d'un homme qui aimait assez son sujet pour le traduire à un ignorant. Le minerai de Nosford, chargé par le haut. Le charbon dans la chambre de combustion. L'air forcé par soufflets mécaniques, parce que l'air ordinaire ne suffisait pas. Puis la coulée : le métal en fusion s'écoulait par le bas, entrait dans les moules, refroidissait, devenait acier ou fer selon la composition du minerai et du charbon.
 
 Je lui demandai depuis combien de temps il construisait des forges.
 
@@ -248,7 +248,7 @@ J'ai passé neuf jours dans ce pays et je ne suis pas certain d'en avoir compris
 
 Des individus dans un système. C'est toujours le cas, et c'est toujours ce qui me surprend, parce que les systèmes forts ont une façon de rendre les individus presque invisibles depuis l'extérieur.
 
-Je pense à ce que j'ai vu à Altram — le Fragment Zéro, ce battement de lumière froide dans la roche qui n'avait aucun nom dans les langues que je connais. Je pense aux sons dans les mines d'Iskara que les mineurs entendaient et ne décrivaient pas. Je pense aux ossements de Reldarck dont Thedek m'avait dit, en passant, que des mineurs de Nosford avaient trouvé quelque chose d'inexplicable dans les niveaux profonds — des os, avait-il murmuré, gigantesques, et il n'avait pas continué, et je n'avais pas demandé, parce que c'était le genre de chose que l'on dit et qu'on laisse tomber dans le silence qui suit.
+Je pense à Altram : le Fragment Zéro, ce battement de lumière froide dans la roche, sans nom dans les langues que je connais. Je pense aux sons d'Iskara, entendus par les mineurs et presque impossibles à décrire. Je pense aux ossements de Reldarck. Thedek m'avait dit, en passant, que des mineurs de Nosford avaient trouvé quelque chose d'inexplicable dans les niveaux profonds — des os, avait-il murmuré, gigantesques. Il n'avait pas continué. Je n'avais pas demandé. Certaines choses se disent et tombent dans le silence qui suit.
 
 Les mines de Mosrack descendent très loin. Les mines d'Iskara aussi. À Altram, quelque chose pulsait dans la roche.
 

@@ -22,11 +22,11 @@ L'air avait changé. Ce n'était pas la température — il faisait aussi froid 
 
 Je m'assis sur un rocher et j'attendis l'aube.
 
-Ce n'était pas par choix de confort. C'était par nécessité intellectuelle, peut-être, ou par épuisement qui m'avait dépassé et s'était transformé en quelque chose de calme et d'inévitable. Il y avait quatre-vingt-seize heures que je n'avais pas dormi plus d'une heure d'affilée. Depuis Ordavan — depuis le sol vitrifié, depuis les visions, depuis le moment où j'avais compris que ce que je voyais dans cette ville silencieuse n'était pas un phénomène isolé mais la conséquence lisible d'une cause que personne ne nommait encore —, mon corps fonctionnait sur une réserve que je sentais diminuer chaque jour comme on sent baisser l'eau dans une cruche.
+Ce n'était pas par confort. J'étais épuisé au point que l'épuisement était devenu calme. Il y avait quatre-vingt-seize heures que je n'avais pas dormi plus d'une heure d'affilée. Depuis Ordavan — le sol vitrifié, les visions, la certitude que cette ville morte n'était pas un phénomène isolé —, mon corps fonctionnait sur une réserve qui baissait chaque jour comme l'eau dans une cruche.
 
 Je sortis mon carnet. La moitié des dernières pages avaient été arrachées à Gryndor, avant la fuite, parce que certaines choses qu'on écrit ne doivent pas tomber entre n'importe quelles mains. Les souches des pages restaient, rugueuses sous les doigts, comme des cicatrices de papier.
 
-Ce que je savais, au jour 355 : quelque chose montait de sous la terre. Pas en un point. En plusieurs. Alkaran, les mines et leurs vibrations inexplicables. La forêt d'Elyndor que j'apprendrais plus tard, et la pulsation sous les racines que je n'avais pas encore imaginée mais que quelque chose en moi pressentait déjà. Ordavan, le sol qui brûle par en dessous jusqu'à se vitrifier, les habitants disparus, une ville entière évacuée comme si elle avait senti venir ce que personne d'autre ne voulait voir. Et les visions, à moi, dans le silence de cette ville vide — des images que je n'avais pas les mots pour transcrire fidèlement, des images de profondeur et de chaleur et de quelque chose qui pulsait à intervalles réguliers sous la croûte de calcaire et de basalte, comme un cœur dont on ignorait l'existence jusqu'au moment où on pose la main sur la terre et qu'on le sent battre.
+Ce que je savais, au jour 355 : quelque chose montait de sous la terre. Pas en un point. En plusieurs. Alkaran, les mines et leurs vibrations inexplicables. Ordavan, le sol brûlé par en dessous jusqu'à se vitrifier, les habitants disparus, la ville évacuée comme si elle avait senti venir ce que personne d'autre ne voulait voir. Et mes visions, dans ce silence : profondeur, chaleur, pulsation régulière sous la croûte de calcaire et de basalte. Un cœur qu'on ignore jusqu'au moment où la main posée sur la terre le sent battre.
 
 Je notai, dans la marge d'une page épargnée : *Drakora. Le feu est religion ici. Peut-être le feu sait-il des choses que les hommes ignorent.*
 
@@ -42,7 +42,7 @@ Un cri. Pas un cri d'animal au sens ordinaire du terme. Un son qui commençait d
 
 Je levai la tête.
 
-Il y en avait deux. À hauteur du sommet, dans la lumière encore rasante qui les dorait d'un côté et les laissait sombres de l'autre, deux silhouettes en vol — des envergures qui rendaient les aigles absurdes, des corps dont je ne comprenais pas les proportions avant plusieurs secondes, une façon de tenir l'air qui n'était pas le battement d'une aile d'oiseau mais quelque chose de plus lent, de plus délibéré, quelque chose qui donnait l'impression que l'air lui-même consentait au vol plutôt que de le subir. Les écailles du plus grand captèrent la lumière et la renvoyèrent en un éclair d'or fondu qui dura le temps d'un battement de cœur.
+Il y en avait deux. À hauteur du sommet, dans la lumière rasante, deux silhouettes en vol : des envergures qui rendaient les aigles absurdes, des corps dont je ne compris les proportions qu'après plusieurs secondes, un battement d'aile lent et délibéré. Les écailles du plus grand captèrent le soleil et le renvoyèrent en un éclair d'or fondu.
 
 Des dragons.
 
@@ -58,7 +58,7 @@ Le premier village drakorien s'appelait Veldar — un nom que n'avaient pas mes 
 
 J'arrivai à Veldar au milieu de la matinée, avec le sol volcanique sous les semelles depuis des heures, les jambes qui avaient décidé de fonctionner par automatisme sans me demander mon avis, et une faim suffisamment précise pour que je note son emplacement exact — le creux de l'estomac, pas les intestins, le type de faim qui veut du solide et du chaud et pas de la polémique.
 
-La femme qui m'ouvrit — je frappai à la première maison dont la porte avait l'air d'avoir été utilisée récemment, méthode empirique mais valide en l'absence d'enseigne d'auberge — avait la taille d'un homme de combat, des avant-bras couverts d'une marque de brûlure ancienne au niveau du poignet gauche, et des yeux qui m'évaluèrent en deux secondes avec l'efficacité d'une personne qui a passé sa vie à décider rapidement de la nature des choses qui se présentaient à elle. Elle dit quelque chose en drakorien que je ne comprenais pas. Je montrai mes mains — paumes ouvertes, geste universel — et dis en galenorien que j'étais voyageur, que je cherchais quelque chose à manger et un endroit pour dormir quelques heures.
+Je frappai à la première maison dont la porte semblait utilisée récemment. La femme qui ouvrit avait la taille d'un homme de combat, une ancienne brûlure au poignet gauche, et des yeux qui m'évaluèrent en deux secondes. Elle dit quelque chose en drakorien. Je montrai mes mains, paumes ouvertes, et répondis en galenorien que j'étais voyageur, que je cherchais à manger et un endroit où dormir quelques heures.
 
 Elle me regarda encore une seconde.
 
@@ -76,7 +76,7 @@ Je le compris plus tard. Pour l'instant, j'entrai.
 
 Elle s'appelait Rethyn. Elle était ce que les Drakoriens nomment une Brûlée — une guerrière qui avait survécu à l'Épreuve du Souffle sans obtenir de lien, et dont la marque au poignet gauche signalait l'appartenance à cette catégorie intermédiaire entre le simple citoyen et l'élite des Liés. Elle gérait Veldar au sens logistique du terme, une sorte de centurion rurale sans garnison, la personne vers laquelle les autres se tournaient quand quelque chose ne fonctionnait pas.
 
-Elle me prépara à manger, et ce repas — dont je noterais les détails non par souci de description mais parce que les détails matériels sont les seules choses vraiment sûres dans une journée dont tout le reste vacille — fut le suivant : de la viande de wyverne, grillée sur un feu qui n'était pas ordinaire. Je le vis à la façon dont les braises brûlaient — d'un orange plus profond que le bois, avec une chaleur qui rayonnait de façon différente, plus concentrée, et qui donnait à la viande une croûte sombre et une fumée d'une odeur particulière, légèrement ambrée, que je n'arrivai pas à comparer à quoi que ce soit que j'avais mangé avant. Des racines grillées dans les cendres de ce même feu. Et le breuvage national — le Souffle d'Aube, que Rethyn versa dans un bol épais en me regardant avec l'expression de quelqu'un qui attend de voir si l'étranger survivra à la première gorgée.
+Elle me prépara à manger : viande de wyverne grillée sur un feu qui n'était pas ordinaire, racines cuites dans les cendres, et Souffle d'Aube versé dans un bol épais. Les braises brûlaient d'un orange trop profond pour du bois. La chaleur rayonnait de façon plus concentrée et donnait à la viande une croûte sombre, une fumée ambrée. Rethyn me regarda boire avec l'expression de quelqu'un qui attend de voir si l'étranger survivra à la première gorgée.
 
 Je bus. La chaleur descendit dans la gorge comme un glissement de terrain — pas désagréable, en réalité, mais impossible à ignorer. Elle s'installa dans l'estomac et irradia vers le torse, et pendant plusieurs secondes je sus avec précision exactement comment le feu se propage dans un matériau organique.
 
@@ -130,7 +130,7 @@ Les deux jours d'attente à Veldar furent étranges d'une façon que je n'avais 
 
 Je marchai autour de Veldar. Le village était entouré d'une végétation que je reconnus, d'après les descriptions, comme la forêt ignifuge du Sud — des arbres dont l'écorce noircissait sans se consumer, une forêt qui sentait la résine brûlée en permanence comme si elle était toujours en train de se souvenir du feu le plus récent. Les habitants de Veldar me regardaient passer avec la même curiosité utilitaire que Rethyn — des regards qui calculaient plutôt que ne jugeaient, des expressions de gens habitués à évaluer rapidement la nature des choses et à agir en conséquence.
 
-Le deuxième jour, j'observai, depuis la lisière du village, ce que je compris après quelques minutes être un exercice d'entraînement. Trois jeunes — deux garçons et une fille, quinze ou seize ans — couraient un circuit autour des rochers noirs en alternant des postures de combat que je ne savais pas nommer mais dont la logique me sembla, même pour un œil non exercé, très différente de la logique martiale de Gryndor ou de Kharazir. À Kharazir, les soldats combattent contre d'autres corps — des corps humains, des opposants d'une taille et d'une masse définies. L'entraînement que je voyais semblait organisé autour d'un opposant différent : ils se déplaçaient comme des gens qui apprennent à se tenir dans un espace traversé par quelque chose de beaucoup plus grand qu'eux.
+Le deuxième jour, j'observai depuis la lisière du village un exercice d'entraînement. Trois jeunes — deux garçons et une fille, quinze ou seize ans — couraient autour des rochers noirs en alternant des postures de combat que je ne savais pas nommer. Ce n'était pas la logique martiale de Gryndor ou de Kharazir. À Kharazir, on apprend à combattre un corps humain. Ici, ils apprenaient à survivre dans un espace traversé par plus grand qu'eux.
 
 Je compris ensuite que c'était précisément ce que c'était. On ne s'entraîne pas à combattre un dragon, à Drakora. On s'entraîne à exister dans la présence d'un dragon sans que cette présence vous prive de toute capacité d'action. C'est une distinction subtile et fondamentale.
 
@@ -216,7 +216,7 @@ Voldrax était vieux, je l'apprendrais. La Reine Syraeth était liée à lui dep
 
 Je pensai à la vitrification d'Ordavan. Je pensai à la chaleur qui monte.
 
-Je pensai : si quelque chose se passe sous la terre depuis des mois ou des années, si quelque chose de chaud et de vivant pousse vers la surface — les dragons le sentent-ils ? Ces créatures qui vivent dans les montagnes volcaniques, dont le lien avec le feu est théologique et physique à la fois, dont le souffle est décrit comme la lumière primordiale — sentent-ils ce que moi, avec mon oreille posée contre le sol, j'ai commencé à percevoir ?
+Je pensai : si quelque chose de chaud pousse vers la surface depuis des mois ou des années, les dragons le sentent-ils ? Ces créatures des montagnes volcaniques, liées au feu par le corps autant que par le culte, perçoivent-elles ce que je commence seulement à entendre, l'oreille contre la terre ?
 
 Je ne savais pas encore. Mais j'avais une raison de poser la question ici que je n'avais nulle part ailleurs.
 
