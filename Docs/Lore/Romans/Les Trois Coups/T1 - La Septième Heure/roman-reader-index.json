@@ -1,0 +1,386 @@
+{
+  "title": "La Septième Heure",
+  "subtitle": "Les Trois Coups — Tome 1 · L'Arrachement, An 0",
+  "intro": "Premier tome de la trilogie Les Trois Coups, La Septième Heure suit les voix qui convergent vers l'Arrachement. Le livre se lit ici avec le même confort que les Chroniques : sommaire par parties, cartes de chapitres, reprise de lecture et mode page.",
+  "basePath": "/Docs/Lore/Romans/Les Trois Coups/T1 - La Septième Heure",
+  "actes": [
+    {
+      "num": "prologue",
+      "titre": "Prologue",
+      "chapitres": [
+        0
+      ]
+    },
+    {
+      "num": "I",
+      "titre": "Partie I — Les lecteurs",
+      "chapitres": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "num": "II",
+      "titre": "Partie II — Ce que le Lien a coûté",
+      "chapitres": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "num": "III",
+      "titre": "Partie III — Le voyage",
+      "chapitres": [
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ]
+    },
+    {
+      "num": "IV",
+      "titre": "Partie IV — La veille",
+      "chapitres": [
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    },
+    {
+      "num": "V",
+      "titre": "Partie V — La septième heure",
+      "chapitres": [
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33
+      ]
+    }
+  ],
+  "chapitres": [
+    {
+      "num": 0,
+      "titre": "Ce que je tiens",
+      "fichier": "00 - Ce que je tiens.md",
+      "partie": "prologue",
+      "meta": "Prologue",
+      "readerTitle": "Prologue — Ce que je tiens",
+      "key": "ce-que-je-tiens"
+    },
+    {
+      "num": 1,
+      "titre": "Les lecteurs",
+      "fichier": "01 - Les lecteurs.md",
+      "partie": "I",
+      "meta": "Chapitre 1",
+      "readerTitle": "Chapitre premier — Les lecteurs",
+      "key": "les-lecteurs"
+    },
+    {
+      "num": 2,
+      "titre": "Le fil et le vide",
+      "fichier": "02 - Le fil et le vide.md",
+      "partie": "I",
+      "meta": "Chapitre 2",
+      "readerTitle": "Chapitre deux — Le fil et le vide",
+      "key": "le-fil-et-le-vide"
+    },
+    {
+      "num": 3,
+      "titre": "La gardienne du seuil",
+      "fichier": "03 - La gardienne du seuil.md",
+      "partie": "I",
+      "meta": "Chapitre 3",
+      "readerTitle": "Chapitre trois — La gardienne du seuil",
+      "key": "la-gardienne-du-seuil"
+    },
+    {
+      "num": 4,
+      "titre": "Ce qui ne plie pas",
+      "fichier": "04 - Ce qui ne plie pas.md",
+      "partie": "I",
+      "meta": "Chapitre 4",
+      "readerTitle": "Chapitre quatre — Ce qui ne plie pas",
+      "key": "ce-qui-ne-plie-pas"
+    },
+    {
+      "num": 5,
+      "titre": "Le rapport",
+      "fichier": "05 - Le rapport.md",
+      "partie": "I",
+      "meta": "Chapitre 5",
+      "readerTitle": "Chapitre cinq — Le rapport",
+      "key": "le-rapport"
+    },
+    {
+      "num": 6,
+      "titre": "Seuil de la Partie I — La voix du Lien",
+      "fichier": "06 - Seuil de la Partie I - La voix du Lien.md",
+      "partie": "I",
+      "meta": "Partie I — Les lecteurs",
+      "readerTitle": "Partie I — Les lecteurs",
+      "key": "seuil-de-la-partie-i-la-voix-du-lien"
+    },
+    {
+      "num": 7,
+      "titre": "Montrer et faire",
+      "fichier": "07 - Montrer et faire.md",
+      "partie": "II",
+      "meta": "Chapitre 6",
+      "readerTitle": "Chapitre six — Montrer et faire",
+      "key": "montrer-et-faire"
+    },
+    {
+      "num": 8,
+      "titre": "La part des Vides",
+      "fichier": "08 - La part des Vides.md",
+      "partie": "II",
+      "meta": "Chapitre 7",
+      "readerTitle": "Chapitre sept — La part des Vides",
+      "key": "la-part-des-vides"
+    },
+    {
+      "num": 9,
+      "titre": "Ceux qui tiennent la ville",
+      "fichier": "09 - Ceux qui tiennent la ville.md",
+      "partie": "II",
+      "meta": "Chapitre 8",
+      "readerTitle": "Chapitre huit — Ceux qui tiennent la ville",
+      "key": "ceux-qui-tiennent-la-ville"
+    },
+    {
+      "num": 10,
+      "titre": "Ce que le silence garde",
+      "fichier": "10 - Ce que le silence garde.md",
+      "partie": "II",
+      "meta": "Chapitre 9",
+      "readerTitle": "Chapitre neuf — Ce que le silence garde",
+      "key": "ce-que-le-silence-garde"
+    },
+    {
+      "num": 11,
+      "titre": "Ce que les rêves savaient",
+      "fichier": "11 - Ce que les rêves savaient.md",
+      "partie": "II",
+      "meta": "Chapitre 10",
+      "readerTitle": "Chapitre dix — Ce que les rêves savaient",
+      "key": "ce-que-les-reves-savaient"
+    },
+    {
+      "num": 12,
+      "titre": "Seuil de la Partie II — La voix du Lien",
+      "fichier": "12 - Seuil de la Partie II - La voix du Lien.md",
+      "partie": "II",
+      "meta": "Partie II — Ce que le Lien a coûté",
+      "readerTitle": "Partie II — Ce que le Lien a coûté",
+      "key": "seuil-de-la-partie-ii-la-voix-du-lien"
+    },
+    {
+      "num": 13,
+      "titre": "Ceux de l'eau",
+      "fichier": "13 - Ceux de l'eau.md",
+      "partie": "III",
+      "meta": "Chapitre 11",
+      "readerTitle": "Chapitre onze — Ceux de l'eau",
+      "key": "ceux-de-l-eau"
+    },
+    {
+      "num": 14,
+      "titre": "La forge qu'on laisse",
+      "fichier": "14 - La forge qu'on laisse.md",
+      "partie": "III",
+      "meta": "Chapitre 12",
+      "readerTitle": "Chapitre douze — La forge qu'on laisse",
+      "key": "la-forge-qu-on-laisse"
+    },
+    {
+      "num": 15,
+      "titre": "La ville qui respire",
+      "fichier": "15 - La ville qui respire.md",
+      "partie": "III",
+      "meta": "Chapitre 13",
+      "readerTitle": "Chapitre treize — La ville qui respire",
+      "key": "la-ville-qui-respire"
+    },
+    {
+      "num": 16,
+      "titre": "La première personne du singulier",
+      "fichier": "16 - La première personne du singulier.md",
+      "partie": "III",
+      "meta": "Chapitre 14",
+      "readerTitle": "Chapitre quatorze — La première personne du singulier",
+      "key": "la-premiere-personne-du-singulier"
+    },
+    {
+      "num": 17,
+      "titre": "La vision et la lame",
+      "fichier": "17 - La vision et la lame.md",
+      "partie": "III",
+      "meta": "Chapitre 15",
+      "readerTitle": "Chapitre quinze — La vision et la lame",
+      "key": "la-vision-et-la-lame"
+    },
+    {
+      "num": 18,
+      "titre": "Seuil de la Partie III — La voix du Lien",
+      "fichier": "18 - Seuil de la Partie III - La voix du Lien.md",
+      "partie": "III",
+      "meta": "Partie III — Le voyage",
+      "readerTitle": "Partie III — Le voyage",
+      "key": "seuil-de-la-partie-iii-la-voix-du-lien"
+    },
+    {
+      "num": 19,
+      "titre": "Ce que les morts ne disent pas",
+      "fichier": "19 - Ce que les morts ne disent pas.md",
+      "partie": "IV",
+      "meta": "Chapitre 16",
+      "readerTitle": "Chapitre seize — Ce que les morts ne disent pas",
+      "key": "ce-que-les-morts-ne-disent-pas"
+    },
+    {
+      "num": 20,
+      "titre": "Ce qu'on ne dit pas à une sœur",
+      "fichier": "20 - Ce qu'on ne dit pas à une sœur.md",
+      "partie": "IV",
+      "meta": "Chapitre 17",
+      "readerTitle": "Chapitre dix-sept — Ce qu'on ne dit pas à une sœur",
+      "key": "ce-qu-on-ne-dit-pas-a-une-s-ur"
+    },
+    {
+      "num": 21,
+      "titre": "Ce qu'un homme peut tenir",
+      "fichier": "21 - Ce qu'un homme peut tenir.md",
+      "partie": "IV",
+      "meta": "Chapitre 18",
+      "readerTitle": "Chapitre dix-huit — Ce qu'un homme peut tenir",
+      "key": "ce-qu-un-homme-peut-tenir"
+    },
+    {
+      "num": 22,
+      "titre": "La phrase qui attendait",
+      "fichier": "22 - La phrase qui attendait.md",
+      "partie": "IV",
+      "meta": "Chapitre 19",
+      "readerTitle": "Chapitre dix-neuf — La phrase qui attendait",
+      "key": "la-phrase-qui-attendait"
+    },
+    {
+      "num": 23,
+      "titre": "Seuil de la Partie IV — La voix du Lien",
+      "fichier": "23 - Seuil de la Partie IV - La voix du Lien.md",
+      "partie": "IV",
+      "meta": "Partie IV — La veille",
+      "readerTitle": "Partie IV — La veille",
+      "key": "seuil-de-la-partie-iv-la-voix-du-lien"
+    },
+    {
+      "num": 24,
+      "titre": "Seuil de la Partie V — La voix du Lien",
+      "fichier": "24 - Seuil de la Partie V - La voix du Lien.md",
+      "partie": "V",
+      "meta": "Partie V — La septième heure",
+      "readerTitle": "Partie V — La septième heure",
+      "key": "seuil-de-la-partie-v-la-voix-du-lien"
+    },
+    {
+      "num": 25,
+      "titre": "H-7",
+      "fichier": "25 - H-7.md",
+      "partie": "V",
+      "meta": "Chapitre 20",
+      "readerTitle": "H-7 — Le dernier arrivé ouvre la marche",
+      "key": "h-7"
+    },
+    {
+      "num": 26,
+      "titre": "H-5",
+      "fichier": "26 - H-5.md",
+      "partie": "V",
+      "meta": "Partie V — La septième heure",
+      "readerTitle": "H-5 — Ce qu'on se dit quand on ne peut plus redescendre",
+      "key": "h-5"
+    },
+    {
+      "num": 27,
+      "titre": "H-2",
+      "fichier": "27 - H-2.md",
+      "partie": "V",
+      "meta": "Partie V — La septième heure",
+      "readerTitle": "H-2 — Le protocole au Premier Ancrage",
+      "key": "h-2"
+    },
+    {
+      "num": 28,
+      "titre": "H0",
+      "fichier": "28 - H0.md",
+      "partie": "V",
+      "meta": "Chapitre 22",
+      "readerTitle": "H0 — Ce que personne ne relie",
+      "key": "h0"
+    },
+    {
+      "num": 29,
+      "titre": "H1",
+      "fichier": "29 - H1.md",
+      "partie": "V",
+      "meta": "Chapitre 23",
+      "readerTitle": "H1 — Le feu qu'on ne lève pas",
+      "key": "h1"
+    },
+    {
+      "num": 30,
+      "titre": "H2",
+      "fichier": "30 - H2.md",
+      "partie": "V",
+      "meta": "Chapitre 24",
+      "readerTitle": "H2",
+      "key": "h2"
+    },
+    {
+      "num": 31,
+      "titre": "H4 — Ce qui ne résonne pas",
+      "fichier": "31 - H4.md",
+      "partie": "V",
+      "meta": "Partie V — La septième heure",
+      "readerTitle": "H4 — Ce qui ne résonne pas",
+      "key": "h4-ce-qui-ne-resonne-pas"
+    },
+    {
+      "num": 32,
+      "titre": "H6",
+      "fichier": "32 - H6.md",
+      "partie": "V",
+      "meta": "Partie V — La septième heure",
+      "readerTitle": "H6",
+      "key": "h6"
+    },
+    {
+      "num": 33,
+      "titre": "H7",
+      "fichier": "33 - H7.md",
+      "partie": "V",
+      "meta": "Chapitre 28",
+      "readerTitle": "H7 — La dernière touchée",
+      "key": "h7"
+    }
+  ]
+}

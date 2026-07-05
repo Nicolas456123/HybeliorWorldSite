@@ -1,159 +1,2498 @@
-<!-- ===== Page Roman : sommaire du tome + lecture d'un chapitre ===== -->
-<div class="nation-page roman-page">
-    <div class="nation-page-crumbs">
-        <a href="#roman" class="nation-page-back">← Sommaire du roman</a>
-    </div>
+<!-- ===== Les Chroniques de l'Exilé ===== -->
 
-    <div class="nation-page-body" id="roman-page-body">
-        <div class="nation-page-loading">Chargement…</div>
+<style>
+/* ── Header ─────────────────────────────────────────── */
+.chron-header {
+    text-align: center;
+    padding: 2.5rem 1rem 1.5rem;
+}
+.chron-header h2 {
+    font-family: 'Cinzel', serif;
+    font-size: 2rem;
+    color: var(--gold);
+    margin-bottom: .35rem;
+}
+.chron-header .chron-subtitle {
+    font-family: 'Raleway', sans-serif;
+    font-style: italic;
+    color: var(--text-muted);
+    font-size: 1.05rem;
+    margin-bottom: 1rem;
+}
+.chron-header .chron-intro {
+    font-family: 'Raleway', sans-serif;
+    color: var(--text-soft);
+    max-width: 700px;
+    margin: 0 auto;
+    line-height: 1.7;
+    font-size: .95rem;
+}
+
+/* ── Act navigation ─────────────────────────────────── */
+.chron-act-nav {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: .6rem;
+    margin: 1.5rem auto 2rem;
+    max-width: 800px;
+}
+.chron-act-btn {
+    font-family: 'Cinzel', serif;
+    font-size: .85rem;
+    font-weight: 600;
+    padding: .55rem 1.2rem;
+    border: 1px solid var(--panel-border);
+    border-radius: var(--radius);
+    background: var(--panel-bg);
+    color: var(--gold);
+    cursor: pointer;
+    transition: background .2s, color .2s, box-shadow .2s;
+}
+.chron-act-btn:hover {
+    background: var(--gold-dim);
+    box-shadow: 0 0 12px var(--gold-glow);
+}
+
+/* ── Act sections ───────────────────────────────────── */
+.chron-act-section {
+    margin-bottom: 2.5rem;
+}
+.chron-act-header {
+    font-family: 'Cinzel', serif;
+    font-size: 1.35rem;
+    color: var(--gold);
+    padding-bottom: .5rem;
+    margin-bottom: 1.2rem;
+    border-bottom: 1px solid var(--panel-border);
+}
+
+/* ── Chapter grid ───────────────────────────────────── */
+.chron-chapter-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1rem;
+}
+@media (max-width: 700px) {
+    .chron-chapter-grid { grid-template-columns: 1fr; }
+}
+.chron-card {
+    background: var(--panel-bg);
+    border: 1px solid var(--panel-border);
+    border-radius: var(--radius);
+    padding: 1.1rem 1.3rem;
+    cursor: pointer;
+    transition: box-shadow .2s, border-color .2s, transform .15s;
+    display: flex;
+    gap: 1rem;
+    align-items: flex-start;
+}
+.chron-card:hover {
+    box-shadow: 0 4px 18px var(--gold-glow);
+    border-color: var(--gold);
+    transform: translateY(-2px);
+}
+.chron-card-num {
+    font-family: 'Cinzel', serif;
+    font-size: 1.8rem;
+    font-weight: 700;
+    color: var(--gold);
+    line-height: 1;
+    min-width: 2.4rem;
+    text-align: center;
+    flex-shrink: 0;
+    padding-top: .15rem;
+}
+.chron-card-body {
+    flex: 1;
+    min-width: 0;
+}
+.chron-card-title {
+    font-family: 'Cinzel', serif;
+    font-size: 1rem;
+    font-weight: 600;
+    color: var(--text);
+    margin-bottom: .3rem;
+    line-height: 1.3;
+}
+.chron-card-meta {
+    font-family: 'Raleway', sans-serif;
+    font-size: .8rem;
+    color: var(--text-muted);
+    line-height: 1.5;
+}
+.chron-card-meta span {
+    display: inline-block;
+    margin-right: .6rem;
+}
+
+/* ── Reader modal ───────────────────────────────────── */
+.chron-modal {
+    position: fixed;
+    inset: 0;
+    z-index: 9000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.chron-modal[hidden] { display: none; }
+.chron-modal-backdrop {
+    position: absolute;
+    inset: 0;
+    background: rgba(20, 12, 4, .65);
+}
+.chron-modal-panel {
+    position: relative;
+    width: 95vw;
+    max-width: 820px;
+    height: 92vh;
+    background: var(--bg-dark);
+    border: 1px solid var(--panel-border);
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0 12px 48px rgba(40, 20, 0, .4);
+    overflow: hidden;
+}
+.chron-modal-topbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    /* Safe-area-inset-top → décale la topbar sous le notch iPhone */
+    padding-top: calc(.7rem + env(safe-area-inset-top, 0px));
+    padding-bottom: .7rem;
+    padding-left: calc(1.2rem + env(safe-area-inset-left, 0px));
+    padding-right: calc(1.2rem + env(safe-area-inset-right, 0px));
+    border-bottom: 1px solid var(--panel-border);
+    background: var(--bg-mid);
+    flex-shrink: 0;
+}
+.chron-modal-topbar-title {
+    font-family: 'Cinzel', serif;
+    font-size: 1rem;
+    color: var(--gold);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    flex: 1;
+    margin: 0 .8rem;
+    text-align: center;
+}
+.chron-modal-nav-btn {
+    font-family: 'Raleway', sans-serif;
+    font-size: .85rem;
+    padding: .35rem .8rem;
+    border: 1px solid var(--panel-border);
+    border-radius: var(--radius);
+    background: var(--panel-bg);
+    color: var(--gold);
+    cursor: pointer;
+    transition: background .15s;
+    flex-shrink: 0;
+}
+.chron-modal-nav-btn:hover:not(:disabled) {
+    background: var(--gold-dim);
+}
+.chron-modal-nav-btn:disabled {
+    opacity: .35;
+    cursor: default;
+}
+.chron-modal-close {
+    font-size: 1.5rem;
+    line-height: 1;
+    background: none;
+    border: none;
+    color: var(--text-muted);
+    cursor: pointer;
+    padding: 0 .3rem;
+    margin-left: .6rem;
+    flex-shrink: 0;
+}
+.chron-modal-close:hover { color: var(--gold); }
+.chron-modal-body {
+    flex: 1;
+    overflow-y: auto;
+    padding: 2rem 2.5rem;
+}
+@media (max-width: 600px) {
+    .chron-modal-body { padding: 1.2rem 1rem; }
+}
+.chron-modal-body .chron-md-content {
+    font-family: 'Raleway', sans-serif;
+    color: var(--text);
+    line-height: 1.8;
+    font-size: .97rem;
+    text-align: justify;
+    hyphens: auto;
+    -webkit-hyphens: auto;
+    -ms-hyphens: auto;
+}
+.chron-md-content h1, .chron-md-content h2, .chron-md-content h3 {
+    font-family: 'Cinzel', serif;
+    color: var(--gold);
+    margin: 1.5em 0 .6em;
+}
+.chron-md-content h1 { font-size: 1.5rem; }
+.chron-md-content h2 { font-size: 1.25rem; }
+.chron-md-content h3 { font-size: 1.1rem; }
+.chron-md-content p { margin-bottom: 1em; }
+.chron-md-content blockquote {
+    border-left: 3px solid var(--gold);
+    padding-left: 1rem;
+    margin: 1rem 0;
+    color: var(--text-muted);
+    font-style: italic;
+}
+.chron-md-content hr {
+    border: none;
+    border-top: 1px solid var(--panel-border);
+    margin: 1.5rem 0;
+}
+.chron-md-content em { color: var(--text-muted); }
+
+/* ── Audio player (lecture audio chapitre) ──────────── */
+.chron-audio-block {
+    background: rgba(0, 0, 0, 0.25);
+    border: 1px solid var(--panel-border);
+    border-radius: var(--radius);
+    padding: .8rem 1rem;
+    margin-bottom: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    gap: .5rem;
+}
+.chron-audio-label {
+    font-family: 'Cinzel', serif;
+    font-size: .85rem;
+    color: var(--gold);
+    letter-spacing: .04em;
+    display: flex;
+    align-items: center;
+    gap: .5rem;
+}
+.chron-audio-icon {
+    font-size: 1.1rem;
+}
+.chron-audio-partial {
+    font-family: 'Raleway', sans-serif;
+    font-style: italic;
+    font-size: .75rem;
+    color: var(--text-muted);
+    font-weight: 400;
+    letter-spacing: 0;
+}
+.chron-audio-block audio {
+    width: 100%;
+    height: 36px;
+    filter: sepia(15%) saturate(0.9) hue-rotate(-15deg);
+}
+/* Empêche le bloc audio d'être coupé entre deux colonnes en mode page */
+.chron-modal-body.page-mode .chron-audio-block {
+    break-inside: avoid;
+    -webkit-column-break-inside: avoid;
+    page-break-inside: avoid;
+}
+
+/* ── Placeholder (unwritten chapter) ────────────────── */
+.chron-placeholder {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 300px;
+    text-align: center;
+    color: var(--text-muted);
+    font-family: 'Raleway', sans-serif;
+}
+.chron-placeholder-icon {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+    opacity: .5;
+}
+.chron-placeholder-text {
+    font-style: italic;
+    font-size: 1.05rem;
+    line-height: 1.6;
+}
+
+/* ── Loading ────────────────────────────────────────── */
+.chron-loading {
+    text-align: center;
+    padding: 4rem 1rem;
+    color: var(--text-muted);
+    font-family: 'Raleway', sans-serif;
+    font-style: italic;
+}
+/* ── Resume bar ────────────────────────────────────── */
+.chron-resume-bar {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    max-width: 700px;
+    margin: 0 auto 1.5rem;
+    padding: .8rem 1.2rem;
+    background: rgba(122,76,10,0.08);
+    border: 1px solid rgba(122,76,10,0.2);
+    border-radius: var(--radius);
+    cursor: pointer;
+    transition: background .2s, box-shadow .2s;
+}
+.chron-resume-bar:hover {
+    background: rgba(122,76,10,0.14);
+    box-shadow: 0 2px 12px rgba(122,76,10,0.1);
+}
+.chron-resume-icon {
+    font-size: 1.4rem;
+    flex-shrink: 0;
+}
+.chron-resume-info {
+    flex: 1;
+    font-family: 'Raleway', sans-serif;
+}
+.chron-resume-label {
+    font-size: .75rem;
+    font-weight: 700;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: var(--gold);
+    margin-bottom: .15rem;
+}
+.chron-resume-chapter {
+    font-family: 'Cinzel', serif;
+    font-size: .95rem;
+    color: var(--text);
+}
+.chron-resume-progress {
+    width: 60px;
+    height: 4px;
+    background: rgba(120,78,18,0.12);
+    border-radius: 2px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+.chron-resume-progress-fill {
+    height: 100%;
+    background: var(--gold);
+    border-radius: 2px;
+    transition: width .3s;
+}
+.chron-card.current-reading {
+    border-color: var(--gold);
+    box-shadow: 0 0 0 2px rgba(122,76,10,0.15), 0 2px 8px rgba(122,76,10,0.1);
+    position: relative;
+}
+/* ── Reader progress footer (e-reader style) ──────── */
+.chron-reader-footer {
+    position: sticky;
+    bottom: 0;
+    background: rgba(232,220,196,0.97);
+    backdrop-filter: blur(8px);
+    border-top: 1px solid rgba(120,78,18,0.12);
+    /* Safe-area-inset → décale le footer hors du bord arrondi iPhone */
+    padding-top: 8px;
+    padding-right: calc(16px + env(safe-area-inset-right, 0px));
+    padding-bottom: calc(14px + env(safe-area-inset-bottom, 0px));
+    padding-left: calc(16px + env(safe-area-inset-left, 0px));
+    z-index: 10;
+}
+.chron-progress-bar {
+    width: 100%;
+    height: 3px;
+    background: rgba(120,78,18,0.1);
+    border-radius: 2px;
+    overflow: hidden;
+    margin-bottom: 4px;
+}
+.chron-progress-fill {
+    height: 100%;
+    background: var(--gold);
+    border-radius: 2px;
+    width: 0%;
+    transition: width .15s ease;
+}
+.chron-progress-info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: 'Raleway', sans-serif;
+    font-size: .7rem;
+    color: var(--text-muted);
+    letter-spacing: .5px;
+}
+
+.chron-card.current-reading::after {
+    content: 'En cours';
+    position: absolute;
+    top: 6px;
+    right: 8px;
+    font-family: 'Raleway', sans-serif;
+    font-size: .6rem;
+    font-weight: 700;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #fff;
+    background: var(--gold);
+    padding: 1px 6px;
+    border-radius: 3px;
+}
+
+/* ── Mode lecture (toggle scroll/page) ─────────────────────── */
+.chron-mode-toggle {
+    font-family: 'Raleway', sans-serif;
+    font-size: .8rem;
+    padding: .35rem .7rem;
+    border: 1px solid var(--panel-border);
+    border-radius: var(--radius);
+    background: var(--panel-bg);
+    color: var(--text-muted);
+    cursor: pointer;
+    transition: background .15s, color .15s, border-color .15s;
+    flex-shrink: 0;
+    margin-left: .4rem;
+    display: inline-flex;
+    align-items: center;
+    gap: .35rem;
+    line-height: 1;
+}
+.chron-mode-toggle:hover {
+    background: var(--gold-dim);
+    color: var(--gold);
+    border-color: var(--gold);
+}
+.chron-mode-toggle .chron-mode-icon {
+    font-size: 1rem;
+    line-height: 1;
+}
+
+/* ── Mode page (e-reader) ──────────────────────────────────── */
+.chron-modal-body.page-mode {
+    overflow: hidden;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: pan-y;        /* permet scroll vertical natif si besoin, on intercepte horizontal */
+    position: relative;
+    /* Le padding 2rem 2.5rem du parent reste : il joue le rôle de marge de page. */
+}
+.chron-pages-wrapper {
+    /* Mode défilement : pas de comportement spécial, simple bloc */
+}
+.chron-modal-body.page-mode .chron-pages-wrapper {
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+.chron-modal-body.page-mode .chron-md-content {
+    height: 100%;
+    column-fill: auto;
+    column-gap: 0;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    will-change: transform;
+    transition: transform .4s cubic-bezier(.22, .8, .25, 1);
+    /* column-width est défini par JS (= largeur du wrapper en pixels) */
+}
+
+/* Indicateurs de tap-zones (apparaissent brièvement au hover desktop) */
+.chron-tap-zone {
+    position: absolute;
+    top: 0; bottom: 0;
+    width: 18%;
+    z-index: 5;
+    cursor: pointer;
+    background: linear-gradient(to right, rgba(120, 78, 18, 0.05), transparent);
+    opacity: 0;
+    transition: opacity .2s;
+    pointer-events: none;       /* activé seulement en mode page via JS */
+}
+.chron-modal-body.page-mode .chron-tap-zone { pointer-events: auto; }
+.chron-modal-body.page-mode .chron-tap-zone:hover { opacity: 1; }
+.chron-tap-zone.left  { left: 0; }
+.chron-tap-zone.right { right: 0; background: linear-gradient(to left, rgba(120, 78, 18, 0.05), transparent); }
+
+/* Empêche les éléments enfants des colonnes d'être coupés bizarrement */
+.chron-modal-body.page-mode .chron-md-content > * {
+    break-inside: avoid;
+}
+.chron-modal-body.page-mode .chron-md-content p {
+    break-inside: auto;
+}
+
+/* État dragging : transition coupée pendant le mouvement */
+.chron-modal-body.page-mode.dragging .chron-md-content { transition: none; }
+
+/* ── Mode plein écran ──────────────────────────────────────── */
+.chron-fs-toggle { padding: .35rem .55rem; }
+
+.chron-modal.fullscreen .chron-modal-backdrop { display: none; }
+.chron-modal.fullscreen .chron-modal-panel {
+    width: 100vw;
+    max-width: none;
+    height: 100vh;
+    height: 100dvh;             /* dynamic viewport — gère URL bar mobile */
+    border-radius: 0;
+    border: none;
+    box-shadow: none;
+}
+
+/* Mobile : modale en plein écran par défaut */
+@media (max-width: 768px) {
+    .chron-modal { padding: 0; }
+    .chron-modal-backdrop { display: none; }
+    .chron-modal-panel {
+        width: 100vw;
+        max-width: none;
+        height: 100vh;
+        height: 100dvh;
+        border-radius: 0;
+        border: none;
+        box-shadow: none;
+    }
+    .chron-modal-topbar { padding: .55rem .8rem; }
+    .chron-modal-nav-btn { font-size: .75rem; padding: .3rem .5rem; }
+    .chron-modal-topbar-title { font-size: .85rem; margin: 0 .4rem; }
+    .chron-mode-toggle { font-size: .7rem; padding: .3rem .5rem; }
+    .chron-mode-toggle #chron-mode-label { display: none; }
+    .chron-fs-toggle { display: none; }   /* déjà fullscreen par défaut */
+}
+
+/* ── Surlignages (highlights) ─────────────────────────────── */
+.chron-highlight {
+    background-color: rgba(255, 220, 80, 0.40);
+    color: inherit;
+    padding: 0.05em 0;
+    border-radius: 2px;
+    cursor: pointer;
+    transition: background-color .15s, box-shadow .15s;
+}
+.chron-highlight.color-yellow { background-color: rgba(255, 220, 80, 0.40); }
+.chron-highlight.color-yellow:hover { background-color: rgba(255, 220, 80, 0.60); }
+.chron-highlight.color-red { background-color: rgba(220, 80, 80, 0.32); }
+.chron-highlight.color-red:hover { background-color: rgba(220, 80, 80, 0.50); }
+.chron-highlight.color-green { background-color: rgba(120, 200, 100, 0.32); }
+.chron-highlight.color-green:hover { background-color: rgba(120, 200, 100, 0.50); }
+.chron-highlight.color-blue { background-color: rgba(80, 150, 220, 0.32); }
+.chron-highlight.color-blue:hover { background-color: rgba(80, 150, 220, 0.50); }
+.chron-highlight[data-has-note="1"]::after {
+    content: '\1F4DD';
+    font-size: 0.7em;
+    vertical-align: super;
+    margin-left: 1px;
+    opacity: 0.75;
+}
+.chron-highlight.flash {
+    box-shadow: 0 0 0 2px var(--gold);
+    transition: box-shadow .3s;
+}
+
+/* Floating selection toolbar */
+.chron-select-toolbar {
+    position: fixed;
+    z-index: 9500;
+    background: var(--bg-mid);
+    border: 1px solid var(--panel-border);
+    border-radius: 8px;
+    padding: 5px 7px;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    box-shadow: 0 4px 18px rgba(0, 0, 0, 0.35);
+    transform: translate(-50%, -100%);
+    margin-top: -8px;
+}
+.chron-select-toolbar[hidden] { display: none; }
+.chron-color-btn {
+    width: 22px;
+    height: 22px;
+    border: 1px solid rgba(0, 0, 0, 0.25);
+    border-radius: 50%;
+    cursor: pointer;
+    padding: 0;
+    transition: transform .15s;
+}
+.chron-color-btn:hover { transform: scale(1.15); }
+.chron-color-btn[data-color="yellow"] { background: rgba(255, 220, 80, 0.85); }
+.chron-color-btn[data-color="red"]    { background: rgba(220, 80, 80, 0.85); }
+.chron-color-btn[data-color="green"]  { background: rgba(120, 200, 100, 0.85); }
+.chron-color-btn[data-color="blue"]   { background: rgba(80, 150, 220, 0.85); }
+.chron-select-note-btn {
+    background: transparent;
+    border: none;
+    color: var(--gold);
+    cursor: pointer;
+    font-size: 1rem;
+    padding: 2px 6px;
+    line-height: 1;
+}
+.chron-select-note-btn:hover { opacity: 0.75; }
+
+/* Highlight context menu */
+.chron-highlight-menu {
+    position: fixed;
+    z-index: 9500;
+    background: var(--bg-mid);
+    border: 1px solid var(--panel-border);
+    border-radius: 8px;
+    padding: 6px;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    box-shadow: 0 4px 18px rgba(0, 0, 0, 0.35);
+    min-width: 200px;
+    transform: translate(-50%, -100%);
+    margin-top: -8px;
+}
+.chron-highlight-menu[hidden] { display: none; }
+.chron-highlight-menu-colors {
+    display: flex;
+    gap: 6px;
+    justify-content: center;
+    padding: 2px 0;
+}
+.chron-highlight-menu-btn {
+    background: var(--panel-bg);
+    border: 1px solid var(--panel-border);
+    border-radius: 4px;
+    padding: 5px 8px;
+    color: var(--text);
+    cursor: pointer;
+    font-size: 0.8rem;
+    font-family: 'Raleway', sans-serif;
+    text-align: left;
+}
+.chron-highlight-menu-btn:hover { background: var(--gold-dim); color: var(--gold); }
+.chron-highlight-menu-note {
+    font-style: italic;
+    color: var(--text-muted);
+    font-size: 0.78rem;
+    padding: 5px 7px;
+    background: var(--panel-bg);
+    border-radius: 4px;
+    max-height: 80px;
+    overflow-y: auto;
+    white-space: pre-wrap;
+    line-height: 1.4;
+}
+
+/* Highlights side panel */
+.chron-highlights-panel {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    width: 380px;
+    max-width: 90vw;
+    background: var(--bg-mid);
+    border-left: 1px solid var(--panel-border);
+    z-index: 30;
+    display: flex;
+    flex-direction: column;
+    transform: translateX(100%);
+    transition: transform .3s ease;
+    box-shadow: -4px 0 20px rgba(0, 0, 0, 0.25);
+}
+.chron-highlights-panel.open { transform: translateX(0); }
+.chron-highlights-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.8rem 1rem;
+    border-bottom: 1px solid var(--panel-border);
+    flex-shrink: 0;
+}
+.chron-highlights-title {
+    font-family: 'Cinzel', serif;
+    color: var(--gold);
+    font-size: 1rem;
+}
+.chron-highlights-actions { display: flex; gap: 6px; align-items: center; }
+.chron-highlights-actions button {
+    background: var(--panel-bg);
+    border: 1px solid var(--panel-border);
+    border-radius: 4px;
+    padding: 4px 8px;
+    color: var(--text-muted);
+    cursor: pointer;
+    font-size: 0.78rem;
+    font-family: 'Raleway', sans-serif;
+}
+.chron-highlights-actions button:hover { background: var(--gold-dim); color: var(--gold); }
+.chron-highlights-tabs {
+    display: flex;
+    border-bottom: 1px solid var(--panel-border);
+    flex-shrink: 0;
+}
+.chron-highlights-tab {
+    flex: 1;
+    background: transparent;
+    border: none;
+    color: var(--text-muted);
+    padding: 8px;
+    cursor: pointer;
+    font-family: 'Raleway', sans-serif;
+    font-size: 0.82rem;
+    border-bottom: 2px solid transparent;
+}
+.chron-highlights-tab.active { color: var(--gold); border-bottom-color: var(--gold); }
+.chron-highlights-syncinfo {
+    padding: 6px 1rem;
+    font-size: 0.74rem;
+    color: var(--text-muted);
+    background: rgba(0, 0, 0, 0.18);
+    border-bottom: 1px solid var(--panel-border);
+    flex-shrink: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 8px;
+}
+.chron-highlights-syncinfo[hidden] { display: none; }
+.chron-highlights-syncinfo.error { color: #d97373; }
+.chron-highlights-syncinfo.success { color: #88c882; }
+.chron-highlights-list {
+    flex: 1;
+    overflow-y: auto;
+    padding: 0.6rem;
+}
+.chron-highlights-empty {
+    text-align: center;
+    color: var(--text-muted);
+    padding: 2rem 1rem;
+    font-style: italic;
+    font-size: 0.85rem;
+    line-height: 1.5;
+}
+.chron-highlight-item {
+    background: var(--panel-bg);
+    border: 1px solid var(--panel-border);
+    border-radius: 6px;
+    padding: 0.55rem 0.7rem;
+    margin-bottom: 0.5rem;
+    font-family: 'Raleway', sans-serif;
+    font-size: 0.85rem;
+    cursor: pointer;
+    transition: border-color .15s, box-shadow .15s;
+}
+.chron-highlight-item:hover { border-color: var(--gold); box-shadow: 0 2px 10px rgba(122, 76, 10, 0.15); }
+.chron-highlight-item-header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 4px;
+}
+.chron-highlight-item-chapter {
+    font-family: 'Cinzel', serif;
+    font-size: 0.72rem;
+    color: var(--gold);
+    letter-spacing: 0.5px;
+}
+.chron-highlight-item-color {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    margin-right: 6px;
+    vertical-align: middle;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+}
+.chron-highlight-item-text {
+    color: var(--text);
+    line-height: 1.5;
+    font-size: 0.85rem;
+    border-left: 3px solid transparent;
+    padding: 0.15rem 0 0.15rem 0.55rem;
+    margin: 0.25rem 0;
+}
+.chron-highlight-item.color-yellow .chron-highlight-item-text { border-left-color: rgba(255, 220, 80, 0.85); }
+.chron-highlight-item.color-red    .chron-highlight-item-text { border-left-color: rgba(220, 80, 80, 0.85); }
+.chron-highlight-item.color-green  .chron-highlight-item-text { border-left-color: rgba(120, 200, 100, 0.85); }
+.chron-highlight-item.color-blue   .chron-highlight-item-text { border-left-color: rgba(80, 150, 220, 0.85); }
+.chron-highlight-item-note {
+    font-style: italic;
+    color: var(--text-muted);
+    font-size: 0.78rem;
+    padding: 0.3rem 0.5rem;
+    margin-top: 0.3rem;
+    background: rgba(0, 0, 0, 0.18);
+    border-radius: 3px;
+    white-space: pre-wrap;
+    line-height: 1.45;
+}
+.chron-highlight-item-actions {
+    display: flex;
+    gap: 6px;
+    margin-top: 0.4rem;
+    justify-content: flex-end;
+}
+.chron-highlight-item-actions button {
+    background: transparent;
+    border: 1px solid var(--panel-border);
+    border-radius: 3px;
+    color: var(--text-muted);
+    cursor: pointer;
+    font-size: 0.7rem;
+    padding: 2px 7px;
+    font-family: 'Raleway', sans-serif;
+}
+.chron-highlight-item-actions button:hover { color: var(--gold); border-color: var(--gold); }
+
+/* Note dialog */
+.chron-note-dialog {
+    position: fixed;
+    inset: 0;
+    z-index: 9600;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgba(0, 0, 0, 0.5);
+}
+.chron-note-dialog[hidden] { display: none; }
+.chron-note-dialog-panel {
+    background: var(--bg-mid);
+    border: 1px solid var(--panel-border);
+    border-radius: 8px;
+    padding: 1.2rem;
+    width: 90vw;
+    max-width: 460px;
+    box-shadow: 0 8px 28px rgba(0, 0, 0, 0.5);
+}
+.chron-note-dialog-title {
+    font-family: 'Cinzel', serif;
+    color: var(--gold);
+    font-size: 1rem;
+    margin-bottom: 0.6rem;
+}
+.chron-note-dialog-snippet {
+    font-style: italic;
+    color: var(--text-muted);
+    font-size: 0.8rem;
+    margin-bottom: 0.8rem;
+    line-height: 1.4;
+    padding: 0.4rem 0.6rem;
+    background: var(--panel-bg);
+    border-left: 3px solid var(--gold);
+    border-radius: 3px;
+    max-height: 110px;
+    overflow-y: auto;
+}
+.chron-note-dialog-textarea {
+    width: 100%;
+    min-height: 110px;
+    background: var(--panel-bg);
+    border: 1px solid var(--panel-border);
+    border-radius: 4px;
+    color: var(--text);
+    padding: 0.55rem;
+    font-family: 'Raleway', sans-serif;
+    font-size: 0.9rem;
+    resize: vertical;
+    box-sizing: border-box;
+    line-height: 1.5;
+}
+.chron-note-dialog-textarea:focus { outline: 1px solid var(--gold); border-color: var(--gold); }
+.chron-note-dialog-actions {
+    display: flex;
+    justify-content: flex-end;
+    gap: 8px;
+    margin-top: 0.8rem;
+}
+.chron-note-dialog-actions button {
+    font-family: 'Raleway', sans-serif;
+    font-size: 0.85rem;
+    padding: 0.45rem 0.9rem;
+    border-radius: 4px;
+    border: 1px solid var(--panel-border);
+    background: var(--panel-bg);
+    color: var(--text);
+    cursor: pointer;
+}
+.chron-note-dialog-actions button.primary {
+    background: var(--gold-dim);
+    color: var(--gold);
+    border-color: var(--gold);
+}
+.chron-note-dialog-actions button:hover { opacity: 0.85; }
+
+/* Topbar highlights toggle */
+.chron-highlights-toggle {
+    font-family: 'Raleway', sans-serif;
+    font-size: 0.8rem;
+    padding: 0.35rem 0.55rem;
+    border: 1px solid var(--panel-border);
+    border-radius: var(--radius);
+    background: var(--panel-bg);
+    color: var(--text-muted);
+    cursor: pointer;
+    transition: background .15s, color .15s, border-color .15s;
+    flex-shrink: 0;
+    margin-left: .4rem;
+    line-height: 1;
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+}
+.chron-highlights-toggle:hover { background: var(--gold-dim); color: var(--gold); border-color: var(--gold); }
+.chron-highlights-toggle.has-items { color: var(--gold); border-color: var(--gold); }
+.chron-highlights-toggle.syncing { animation: chron-sync-pulse 1.4s ease-in-out infinite; }
+.chron-highlights-toggle.sync-error {
+    border-color: rgba(217, 115, 115, 0.85);
+    box-shadow: 0 0 0 1px rgba(217, 115, 115, 0.45);
+}
+@keyframes chron-sync-pulse {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.55; }
+}
+
+@media (max-width: 768px) {
+    .chron-highlights-toggle { font-size: 0.7rem; padding: 0.3rem 0.4rem; }
+    .chron-highlights-panel { width: 100%; max-width: 100%; }
+}
+</style>
+
+<div id="chroniques-root">
+    <div class="chron-loading">Chargement de l'index des chapitres...</div>
+</div>
+
+<!-- Reader modal -->
+<div id="chron-reader-modal" class="chron-modal" role="dialog" aria-modal="true" aria-label="Lecteur de chapitre" hidden>
+    <div class="chron-modal-backdrop"></div>
+    <div class="chron-modal-panel">
+        <div class="chron-modal-topbar">
+            <button class="chron-modal-nav-btn" id="chron-prev-btn" disabled>&larr; Précédent</button>
+            <div class="chron-modal-topbar-title" id="chron-reader-title"></div>
+            <button class="chron-mode-toggle" id="chron-mode-toggle" aria-label="Basculer mode de lecture">
+                <span class="chron-mode-icon" id="chron-mode-icon">⊞</span>
+                <span id="chron-mode-label">Pages</span>
+            </button>
+            <button class="chron-mode-toggle chron-fs-toggle" id="chron-fs-toggle" aria-label="Plein écran" title="Plein écran">
+                <span class="chron-mode-icon" id="chron-fs-icon">⛶</span>
+            </button>
+            <button class="chron-highlights-toggle" id="chron-highlights-toggle" aria-label="Surlignages" title="Voir les surlignages">
+                <span aria-hidden="true">📝</span><span id="chron-highlights-count"></span>
+            </button>
+            <button class="chron-modal-nav-btn" id="chron-next-btn">Suivant &rarr;</button>
+            <button class="chron-modal-close" id="chron-close-btn" aria-label="Fermer">&times;</button>
+        </div>
+        <div class="chron-modal-body" id="chron-reader-body">
+            <div class="chron-pages-wrapper" id="chron-pages-wrapper"></div>
+            <div class="chron-tap-zone left" id="chron-tap-left" aria-label="Page précédente"></div>
+            <div class="chron-tap-zone right" id="chron-tap-right" aria-label="Page suivante"></div>
+        </div>
+        <div class="chron-reader-footer" id="chron-reader-footer">
+            <div class="chron-progress-bar"><div class="chron-progress-fill" id="chron-progress-fill"></div></div>
+            <div class="chron-progress-info">
+                <span id="chron-progress-pct">0%</span>
+                <span id="chron-progress-pos">Chapitre 1/40</span>
+                <span id="chron-progress-day">Jour 1</span>
+            </div>
+        </div>
+        <aside class="chron-highlights-panel" id="chron-highlights-panel" aria-label="Liste des surlignages">
+            <div class="chron-highlights-header">
+                <div class="chron-highlights-title">Surlignages</div>
+                <div class="chron-highlights-actions">
+                    <button id="chron-highlights-sync" title="Synchroniser avec le serveur">Sync</button>
+                    <button id="chron-highlights-export" title="Exporter en JSON">Export</button>
+                    <button id="chron-highlights-close" title="Fermer">×</button>
+                </div>
+            </div>
+            <div class="chron-highlights-tabs">
+                <button class="chron-highlights-tab active" data-tab="chapter">Ce chapitre</button>
+                <button class="chron-highlights-tab" data-tab="all">Tous</button>
+            </div>
+            <div class="chron-highlights-syncinfo" id="chron-highlights-syncinfo" hidden></div>
+            <div class="chron-highlights-list" id="chron-highlights-list"></div>
+        </aside>
+    </div>
+</div>
+
+<!-- Selection toolbar (highlight creator) -->
+<div id="chron-select-toolbar" class="chron-select-toolbar" hidden>
+    <button class="chron-color-btn" data-color="yellow" title="Surligner — jaune (général)" aria-label="Surligner en jaune"></button>
+    <button class="chron-color-btn" data-color="red" title="Surligner — rouge (à modifier)" aria-label="Surligner en rouge"></button>
+    <button class="chron-color-btn" data-color="green" title="Surligner — vert (vérifié)" aria-label="Surligner en vert"></button>
+    <button class="chron-color-btn" data-color="blue" title="Surligner — bleu (à explorer)" aria-label="Surligner en bleu"></button>
+    <button class="chron-select-note-btn" id="chron-select-note-btn" title="Surligner avec une note" aria-label="Ajouter une note">📝</button>
+</div>
+
+<!-- Highlight context menu (when clicking an existing highlight) -->
+<div id="chron-highlight-menu" class="chron-highlight-menu" hidden>
+    <div class="chron-highlight-menu-note" id="chron-hl-menu-note" hidden></div>
+    <div class="chron-highlight-menu-colors">
+        <button class="chron-color-btn" data-color="yellow" aria-label="Jaune"></button>
+        <button class="chron-color-btn" data-color="red" aria-label="Rouge"></button>
+        <button class="chron-color-btn" data-color="green" aria-label="Vert"></button>
+        <button class="chron-color-btn" data-color="blue" aria-label="Bleu"></button>
+    </div>
+    <button class="chron-highlight-menu-btn" id="chron-hl-menu-edit-note">📝 Note</button>
+    <button class="chron-highlight-menu-btn" id="chron-hl-menu-delete">🗑️ Supprimer</button>
+</div>
+
+<!-- Note dialog -->
+<div id="chron-note-dialog" class="chron-note-dialog" hidden>
+    <div class="chron-note-dialog-panel">
+        <div class="chron-note-dialog-title">Note de modification</div>
+        <div class="chron-note-dialog-snippet" id="chron-note-dialog-snippet"></div>
+        <textarea class="chron-note-dialog-textarea" id="chron-note-dialog-textarea" placeholder="Ex. : reformuler la phrase, vérifier la date du voyage, ajouter le nom de la nation…"></textarea>
+        <div class="chron-note-dialog-actions">
+            <button id="chron-note-dialog-cancel">Annuler</button>
+            <button id="chron-note-dialog-save" class="primary">Enregistrer</button>
+        </div>
     </div>
 </div>
 
 <script>
-(function () {
-    'use strict';
+(function() {
+    var root = document.getElementById('chroniques-root');
+    var modal = document.getElementById('chron-reader-modal');
+    var readerTitle = document.getElementById('chron-reader-title');
+    var readerBody = document.getElementById('chron-reader-body');
+    var prevBtn = document.getElementById('chron-prev-btn');
+    var nextBtn = document.getElementById('chron-next-btn');
+    var closeBtn = document.getElementById('chron-close-btn');
 
-    var bodyEl  = document.getElementById('roman-page-body');
-    var crumbEl = document.querySelector('.roman-page .nation-page-crumbs');
-    var _cache  = {};
+    var indexData = null;
+    var allChapters = [];
+    var currentChapterIdx = -1;
+    var mdCache = {};
 
-    /** clé courante depuis le hash : null = sommaire, sinon la clé du chapitre. */
-    function currentKey() {
+    // Mode lecture (scroll | page) + état pagination
+    var STORAGE_KEY_MODE = 'hybelior_roman_septieme_heure_mode';
+    var readMode = (function() {
+        try { return localStorage.getItem(STORAGE_KEY_MODE) || 'scroll'; }
+        catch(e) { return 'scroll'; }
+    })();
+    var currentPage = 0;
+    var totalPages = 1;
+    var goLastPageOnLoad = false;     // flag pour ouvrir le chapitre précédent à la dernière page
+
+    var pagesWrapper = document.getElementById('chron-pages-wrapper');
+    var modeToggleBtn = document.getElementById('chron-mode-toggle');
+    var modeIcon = document.getElementById('chron-mode-icon');
+    var modeLabel = document.getElementById('chron-mode-label');
+    var tapLeft = document.getElementById('chron-tap-left');
+    var tapRight = document.getElementById('chron-tap-right');
+    var fsToggleBtn = document.getElementById('chron-fs-toggle');
+    var fsIcon = document.getElementById('chron-fs-icon');
+
+    // ── Fetch index ──────────────────────────────────────────
+    fetch('/Docs/' + NavConfig.roman.dossier + '/roman-reader-index.json')
+        .then(function(r) { if (!r.ok) throw new Error('HTTP ' + r.status); return r.json(); })
+        .then(function(data) {
+            indexData = data;
+            allChapters = data.chapitres;
+            buildUI(data);
+            openChapterFromHash();
+        })
+        .catch(function(err) { root.innerHTML = '<div class="chron-loading">Erreur de chargement : ' + err.message + '</div>'; });
+
+    function currentRomanKey() {
         var raw = window.location.hash.slice(1);
         var parts = raw.split('/');
         if (parts[0] !== 'roman') return null;
-        return parts.slice(1).join('/') || null;
+        return decodeURIComponent(parts.slice(1).join('/')) || null;
     }
 
-    function escapeHtml(s) {
-        var d = document.createElement('div');
-        d.textContent = s == null ? '' : String(s);
-        return d.innerHTML;
-    }
-
-    function renderMarkdown(text) {
-        // Réutilise le strip de frontmatter + sections internes du site.
-        var src = (window.LoreContent ? LoreContent.stripInternalSections(text) : text);
-        var clean = src.replace(/\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/g, function (_, file, display) {
-            var name  = (file.split('/').pop() || file).trim();
-            var label = (display || name).trim();
-            var href  = (window.NavConfig && NavConfig.linkHrefForName) ? NavConfig.linkHrefForName(name) : null;
-            return href ? '[' + label + '](' + href + ')' : label;
-        });
-        if (typeof marked !== 'undefined') {
-            var html = marked.parse(clean, { breaks: true });
-            return window.LoreContent ? LoreContent.sanitizeHtml(html) : html;
+    function openChapterByKey(key) {
+        if (!key) return;
+        for (var i = 0; i < allChapters.length; i++) {
+            if (allChapters[i].key === key || String(allChapters[i].num) === key) {
+                openChapter(allChapters[i].num);
+                return;
+            }
         }
-        return '<pre>' + clean.replace(/[<>&]/g, function (c) {
-            return ({'<':'&lt;','>':'&gt;','&':'&amp;'})[c];
-        }) + '</pre>';
     }
 
-    function buildSommaire() {
-        var roman = (window.NavConfig && NavConfig.roman) || null;
-        if (!roman) {
-            bodyEl.innerHTML = '<div class="nation-page-error">Roman introuvable.</div>';
+    function openChapterFromHash() {
+        var key = currentRomanKey();
+        if (key) openChapterByKey(key);
+    }
+
+    window.addEventListener('hashchange', function() {
+        if (indexData) openChapterFromHash();
+    });
+
+    // ── Build page UI ────────────────────────────────────────
+    function buildUI(data) {
+        var html = '';
+
+        // Header
+        html += '<div class="chron-header">';
+        html += '<h2>' + escHtml(data.title) + '</h2>';
+        html += '<div class="chron-subtitle">' + escHtml(data.subtitle) + '</div>';
+        html += '<p class="chron-intro">';
+        html += escHtml(data.intro || '');
+        html += '</p>';
+        html += '</div>';
+
+        // Act navigation
+        html += '<div class="chron-act-nav">';
+        data.actes.forEach(function(acte) {
+            html += '<button class="chron-act-btn" data-acte="acte-' + acte.num + '">' + escHtml(acte.titre) + '</button>';
+        });
+        html += '</div>';
+
+        // Chapter map for quick lookup
+        var chapMap = {};
+        data.chapitres.forEach(function(ch) { chapMap[ch.num] = ch; });
+
+        // Act sections
+        data.actes.forEach(function(acte) {
+            html += '<div class="chron-act-section" id="acte-' + acte.num + '">';
+            html += '<h3 class="chron-act-header">' + escHtml(acte.titre) + '</h3>';
+            html += '<div class="chron-chapter-grid">';
+
+            acte.chapitres.forEach(function(num) {
+                var ch = chapMap[num];
+                if (!ch) return;
+                var metaText = ch.meta || '';
+
+                html += '<div class="chron-card" data-chapter="' + ch.num + '">';
+                html += '<div class="chron-card-num">' + ch.num + '</div>';
+                html += '<div class="chron-card-body">';
+                html += '<div class="chron-card-title">' + escHtml(ch.titre) + '</div>';
+                html += '<div class="chron-card-meta">';
+                if (metaText) html += '<span>' + escHtml(metaText) + '</span>';
+                html += '</div>';
+                html += '</div>';
+                html += '</div>';
+            });
+
+            html += '</div></div>';
+        });
+
+        root.innerHTML = html;
+
+        // Act nav scroll
+        root.querySelectorAll('.chron-act-btn').forEach(function(btn) {
+            btn.addEventListener('click', function() {
+                var target = document.getElementById(btn.dataset.acte);
+                if (target) target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+            });
+        });
+
+        // Chapter card click
+        root.querySelectorAll('.chron-card').forEach(function(card) {
+            card.addEventListener('click', function() {
+                var num = parseInt(card.dataset.chapter, 10);
+                openChapter(num);
+            });
+        });
+
+        // Show resume bar and mark current chapter
+        showResumeBar();
+        updateChapterCards();
+    }
+
+    // ── Open chapter ─────────────────────────────────────────
+    function openChapter(num) {
+        var idx = -1;
+        for (var i = 0; i < allChapters.length; i++) {
+            if (allChapters[i].num === num) { idx = i; break; }
+        }
+        if (idx === -1) return;
+        // Afficher la modale d'abord pour que les mesures de layout
+        // (clientWidth en mode page) soient disponibles.
+        modal.removeAttribute('hidden');
+        document.body.style.overflow = 'hidden';
+        currentChapterIdx = idx;
+        showChapter();
+        // Auto-pull silencieux si l'utilisateur est authentifié — reste local sinon
+        if (typeof getStoredPassword === 'function' && getStoredPassword()) {
+            try { doAutoPull(); } catch(e) {}
+        }
+    }
+
+    function showChapter() {
+        var ch = allChapters[currentChapterIdx];
+        if (!ch) return;
+
+        readerTitle.textContent = ch.readerTitle || (ch.titre || 'Chapitre ' + ch.num);
+        prevBtn.disabled = currentChapterIdx <= 0;
+        nextBtn.disabled = currentChapterIdx >= allChapters.length - 1;
+
+        pagesWrapper.innerHTML = '<div class="chron-loading">Chargement...</div>';
+
+        var fichier = ch.fichier;
+        if (mdCache[fichier]) {
+            renderChapter(mdCache[fichier]);
+            return;
+        }
+
+        fetch((indexData.basePath || '/Docs/Lore/Chroniques') + '/' + encodeURIComponent(fichier))
+            .then(function(r) {
+                if (!r.ok) throw new Error('HTTP ' + r.status);
+                return r.text();
+            })
+            .then(function(text) {
+                mdCache[fichier] = text;
+                renderChapter(text);
+            })
+            .catch(function() {
+                pagesWrapper.innerHTML =
+                    '<div class="chron-placeholder">' +
+                    '<div class="chron-placeholder-icon">\u2728</div>' +
+                    '<div class="chron-placeholder-text">Ce chapitre n\u2019a pas encore \u00e9t\u00e9 \u00e9crit...<br>' +
+                    '<small>Les mots de Sorin Valthen se formeront bient\u00f4t sur ce parchemin.</small></div>' +
+                    '</div>';
+            });
+    }
+
+    // ── Reading position persistence ─────────────────────
+    var STORAGE_KEY = 'hybelior_roman_septieme_heure_bookmark';
+
+    function saveBookmark() {
+        if (currentChapterIdx < 0) return;
+        var ch = allChapters[currentChapterIdx];
+        if (!ch) return;
+        var bookmark = {
+            chapterNum: ch.num,
+            chapterTitle: ch.titre,
+            scrollTop: readerBody.scrollTop,
+            scrollHeight: readerBody.scrollHeight,
+            mode: readMode,
+            page: currentPage,
+            totalPages: totalPages,
+            timestamp: Date.now()
+        };
+        try { localStorage.setItem(STORAGE_KEY, JSON.stringify(bookmark)); } catch(e) {}
+    }
+
+    function loadBookmark() {
+        try {
+            var raw = localStorage.getItem(STORAGE_KEY);
+            return raw ? JSON.parse(raw) : null;
+        } catch(e) { return null; }
+    }
+
+    function getReadingProgress(bookmark) {
+        if (!bookmark) return 0;
+        if (bookmark.mode === 'page' && bookmark.totalPages > 0) {
+            return Math.min(100, Math.round(((bookmark.page + 1) / bookmark.totalPages) * 100));
+        }
+        if (!bookmark.scrollHeight || bookmark.scrollHeight <= 0) return 0;
+        return Math.min(100, Math.round((bookmark.scrollTop / (bookmark.scrollHeight - 600)) * 100));
+    }
+
+    // Progress UI elements
+    var progressFill = document.getElementById('chron-progress-fill');
+    var progressPct = document.getElementById('chron-progress-pct');
+    var progressPos = document.getElementById('chron-progress-pos');
+    var progressDay = document.getElementById('chron-progress-day');
+
+    function updateProgressUI() {
+        if (currentChapterIdx < 0) return;
+        var ch = allChapters[currentChapterIdx];
+        var pct;
+
+        if (readMode === 'page' && totalPages > 0) {
+            pct = Math.round(((currentPage + 1) / totalPages) * 100);
+        } else {
+            var scrollable = readerBody.scrollHeight - readerBody.clientHeight;
+            pct = scrollable > 0 ? Math.min(100, Math.round((readerBody.scrollTop / scrollable) * 100)) : 0;
+        }
+
+        if (progressFill) progressFill.style.width = pct + '%';
+        if (progressPct) progressPct.textContent = pct + '%';
+        if (progressPos) {
+            progressPos.textContent = readMode === 'page'
+                ? 'Page ' + (currentPage + 1) + '/' + totalPages + ' · Ch. ' + ch.num + '/' + allChapters.length
+                : 'Chapitre ' + ch.num + '/' + allChapters.length;
+        }
+        if (progressDay) progressDay.textContent = ch.jour ? 'Jour ' + ch.jour + ' du voyage' : '';
+    }
+
+    // Debounced scroll save + live progress
+    var scrollSaveTimer = null;
+    function onReaderScroll() {
+        updateProgressUI();
+        if (scrollSaveTimer) clearTimeout(scrollSaveTimer);
+        scrollSaveTimer = setTimeout(saveBookmark, 300);
+    }
+    readerBody.addEventListener('scroll', onReaderScroll);
+
+    function renderChapter(text) {
+        // Strip frontmatter YAML (---\n...\n---) en tête de fichier
+        var body = text;
+        if (body.startsWith('---')) {
+            var end = body.indexOf('\n---', 3);
+            if (end !== -1) body = body.slice(end + 4).replace(/^\n+/, '');
+        }
+        // Retire les sections éditoriales internes
+        if (window.LoreContent) body = LoreContent.stripInternalSections(body);
+        // Strip Obsidian wiki links
+        var clean = body.replace(/\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/g, function(_, file, display) {
+            return display || file;
+        });
+        var html = marked.parse(clean, { breaks: true });
+        if (window.LoreContent) html = LoreContent.sanitizeHtml(html);
+
+        // Inject audio player en tete si le chapitre a une piste audio
+        var audioHtml = '';
+        var ch = allChapters[currentChapterIdx];
+        if (ch && ch.audio) {
+            var partialHtml = ch.audioPartial
+                ? '<span class="chron-audio-partial">extrait — enregistrement en cours</span>'
+                : '';
+            audioHtml =
+                '<div class="chron-audio-block">' +
+                  '<div class="chron-audio-label">' +
+                    '<span class="chron-audio-icon">🎧</span>' +
+                    '<span>Écouter</span>' +
+                    partialHtml +
+                  '</div>' +
+                  '<audio controls preload="metadata" src="' + escHtml(ch.audio) + '"></audio>' +
+                '</div>';
+        }
+
+        pagesWrapper.innerHTML = '<div class="chron-md-content">' + audioHtml + html + '</div>';
+
+        // Apply persisted highlights for this chapter (before pagination so columns are stable)
+        applyAllHighlightsForCurrentChapter();
+
+        var bookmark = loadBookmark();
+        var sameChapter = bookmark && allChapters[currentChapterIdx]
+                          && bookmark.chapterNum === allChapters[currentChapterIdx].num;
+
+        if (readMode === 'page') {
+            // Setup pagination après que le DOM soit en place
+            requestAnimationFrame(function() {
+                setupPaging(sameChapter ? bookmark : null);
+            });
+        } else {
+            if (sameChapter) {
+                setTimeout(function() { readerBody.scrollTop = bookmark.scrollTop; }, 50);
+            } else {
+                readerBody.scrollTop = 0;
+            }
+        }
+
+        // Save immediately + update progress
+        setTimeout(function() {
+            saveBookmark();
+            updateProgressUI();
+        }, 120);
+
+        // Mark chapter card as current
+        updateChapterCards();
+    }
+
+    // ── Mode page (e-reader) ─────────────────────────────────
+    function applyReadMode() {
+        if (readMode === 'page') {
+            readerBody.classList.add('page-mode');
+            if (modeIcon)  modeIcon.textContent = '☰';
+            if (modeLabel) modeLabel.textContent = 'Défilement';
+            // Si un chapitre est ouvert, paginer
+            if (pagesWrapper.querySelector('.chron-md-content')) {
+                setupPaging(loadBookmark());
+            }
+        } else {
+            readerBody.classList.remove('page-mode');
+            if (modeIcon)  modeIcon.textContent = '⊞';
+            if (modeLabel) modeLabel.textContent = 'Pages';
+            teardownPaging();
+        }
+        updateProgressUI();
+    }
+
+    function setupPaging(bookmark) {
+        var content = pagesWrapper.querySelector('.chron-md-content');
+        if (!content) return;
+        var w = pagesWrapper.clientWidth;
+        if (!w) {
+            // Layout pas prêt (modale qui vient de s'afficher) → réessai différé
+            setTimeout(function() { setupPaging(bookmark); }, 50);
+            return;
+        }
+        // Reset transform avant mesure
+        content.style.transition = 'none';
+        content.style.transform = 'translate3d(0,0,0)';
+        content.style.columnWidth = w + 'px';
+        // force reflow
+        var totalWidth = content.scrollWidth;
+        // Restore transition next frame
+        requestAnimationFrame(function() { content.style.transition = ''; });
+        totalPages = Math.max(1, Math.round(totalWidth / w));
+        // Position cible
+        var targetPage = 0;
+        if (goLastPageOnLoad) {
+            targetPage = totalPages - 1;
+            goLastPageOnLoad = false;
+        } else if (bookmark && bookmark.mode === 'page'
+                   && bookmark.chapterNum === allChapters[currentChapterIdx].num
+                   && typeof bookmark.page === 'number') {
+            targetPage = Math.min(bookmark.page, totalPages - 1);
+        }
+        currentPage = targetPage;
+        applyPageTransform();
+        updateProgressUI();
+    }
+
+    function teardownPaging() {
+        var content = pagesWrapper.querySelector('.chron-md-content');
+        if (!content) return;
+        content.style.transform = '';
+        content.style.columnWidth = '';
+    }
+
+    function applyPageTransform() {
+        var content = pagesWrapper.querySelector('.chron-md-content');
+        if (!content) return;
+        var w = pagesWrapper.clientWidth;
+        content.style.transform = 'translate3d(' + (-currentPage * w) + 'px,0,0)';
+    }
+
+    function gotoPage(n) {
+        if (readMode !== 'page') return;
+        if (n < 0) {
+            // Page précédente d'un chapitre antérieur
+            if (currentChapterIdx > 0) {
+                goLastPageOnLoad = true;
+                currentChapterIdx--;
+                showChapter();
+                return;
+            }
+            n = 0;
+        }
+        if (n >= totalPages) {
+            if (currentChapterIdx < allChapters.length - 1) {
+                currentChapterIdx++;
+                showChapter();
+                return;
+            }
+            n = totalPages - 1;
+        }
+        currentPage = n;
+        applyPageTransform();
+        saveBookmark();
+        updateProgressUI();
+    }
+
+    // Toggle mode
+    if (modeToggleBtn) {
+        modeToggleBtn.addEventListener('click', function() {
+            readMode = (readMode === 'scroll') ? 'page' : 'scroll';
+            try { localStorage.setItem(STORAGE_KEY_MODE, readMode); } catch(e) {}
+            applyReadMode();
+        });
+    }
+
+    // Tap zones (clic gauche/droite)
+    if (tapLeft) {
+        tapLeft.addEventListener('click', function() { gotoPage(currentPage - 1); });
+    }
+    if (tapRight) {
+        tapRight.addEventListener('click', function() { gotoPage(currentPage + 1); });
+    }
+
+    // Swipe au doigt
+    var touchStartX = 0;
+    var touchStartY = 0;
+    var touchStartTime = 0;
+    var dragOffset = 0;
+    var isDragging = false;
+    var swipeAxis = null;   // 'x' | 'y' | null — déterminé après quelques px
+
+    readerBody.addEventListener('touchstart', function(e) {
+        if (readMode !== 'page') return;
+        touchStartX = e.touches[0].clientX;
+        touchStartY = e.touches[0].clientY;
+        touchStartTime = Date.now();
+        isDragging = false;
+        dragOffset = 0;
+        swipeAxis = null;
+    }, { passive: true });
+
+    readerBody.addEventListener('touchmove', function(e) {
+        if (readMode !== 'page') return;
+        var dx = e.touches[0].clientX - touchStartX;
+        var dy = e.touches[0].clientY - touchStartY;
+        if (swipeAxis === null && (Math.abs(dx) > 10 || Math.abs(dy) > 10)) {
+            swipeAxis = (Math.abs(dx) > Math.abs(dy)) ? 'x' : 'y';
+        }
+        if (swipeAxis !== 'x') return;
+        if (!isDragging) {
+            isDragging = true;
+            readerBody.classList.add('dragging');
+        }
+        if (e.cancelable) e.preventDefault();
+        dragOffset = dx;
+        var content = pagesWrapper.querySelector('.chron-md-content');
+        if (content) {
+            var w = pagesWrapper.clientWidth;
+            content.style.transform = 'translate3d(' + (-currentPage * w + dx) + 'px,0,0)';
+        }
+    }, { passive: false });
+
+    readerBody.addEventListener('touchend', function() {
+        if (readMode !== 'page' || !isDragging) {
+            isDragging = false; swipeAxis = null;
+            return;
+        }
+        readerBody.classList.remove('dragging');
+        var w = pagesWrapper.clientWidth;
+        var dx = dragOffset;
+        var dt = Date.now() - touchStartTime;
+        var velocity = Math.abs(dx) / Math.max(1, dt);
+
+        if (Math.abs(dx) > w * 0.20 || velocity > 0.4) {
+            gotoPage(currentPage + (dx < 0 ? 1 : -1));
+        } else {
+            applyPageTransform();   // snap back
+        }
+        isDragging = false;
+        dragOffset = 0;
+        swipeAxis = null;
+    });
+
+    // Resize → re-mesurer
+    var resizeTimer = null;
+    window.addEventListener('resize', function() {
+        if (readMode !== 'page') return;
+        clearTimeout(resizeTimer);
+        resizeTimer = setTimeout(function() {
+            setupPaging({
+                mode: 'page',
+                chapterNum: allChapters[currentChapterIdx] && allChapters[currentChapterIdx].num,
+                page: currentPage
+            });
+        }, 200);
+    });
+
+    // ── Plein écran ───────────────────────────────────────────
+    function isInFullscreen() {
+        return !!(document.fullscreenElement || document.webkitFullscreenElement);
+    }
+    function requestFs(el) {
+        try {
+            if (el.requestFullscreen) return el.requestFullscreen();
+            if (el.webkitRequestFullscreen) return el.webkitRequestFullscreen();
+        } catch(e) {}
+        return Promise.reject();
+    }
+    function exitFs() {
+        try {
+            if (document.exitFullscreen) return document.exitFullscreen();
+            if (document.webkitExitFullscreen) return document.webkitExitFullscreen();
+        } catch(e) {}
+    }
+    function rePaginate() {
+        if (readMode !== 'page') return;
+        setTimeout(function() {
+            var ch = allChapters[currentChapterIdx];
+            setupPaging(ch ? { mode: 'page', chapterNum: ch.num, page: currentPage } : null);
+        }, 220);
+    }
+    function toggleFullscreen() {
+        var willEnter = !modal.classList.contains('fullscreen');
+        if (willEnter) {
+            modal.classList.add('fullscreen');
+            if (fsIcon) fsIcon.textContent = '⮽';
+            requestFs(modal).then(function(){}, function(){});
+        } else {
+            modal.classList.remove('fullscreen');
+            if (fsIcon) fsIcon.textContent = '⛶';
+            if (isInFullscreen()) exitFs();
+        }
+        rePaginate();
+    }
+    if (fsToggleBtn) fsToggleBtn.addEventListener('click', toggleFullscreen);
+
+    // Sync si l'utilisateur quitte le plein écran via Esc / F11
+    function onFsChange() {
+        if (!isInFullscreen() && modal.classList.contains('fullscreen')) {
+            modal.classList.remove('fullscreen');
+            if (fsIcon) fsIcon.textContent = '⛶';
+            rePaginate();
+        }
+    }
+    document.addEventListener('fullscreenchange', onFsChange);
+    document.addEventListener('webkitfullscreenchange', onFsChange);
+
+    // Mobile : appliquer la classe fullscreen au DOM (le CSS la met déjà
+    // par défaut mais c'est plus cohérent pour le toggle / les mesures).
+    if (window.matchMedia && window.matchMedia('(max-width: 768px)').matches) {
+        modal.classList.add('fullscreen');
+    }
+
+    // Application initiale du mode (au chargement)
+    applyReadMode();
+
+    // ── Navigation ───────────────────────────────────────────
+    prevBtn.addEventListener('click', function() {
+        if (currentChapterIdx > 0) { currentChapterIdx--; showChapter(); }
+    });
+    nextBtn.addEventListener('click', function() {
+        if (currentChapterIdx < allChapters.length - 1) { currentChapterIdx++; showChapter(); }
+    });
+
+    // ── Close ────────────────────────────────────────────────
+    function closeModal() {
+        saveBookmark();
+        // Quitter le plein écran navigateur si actif
+        if (document.fullscreenElement || document.webkitFullscreenElement) {
+            try {
+                if (document.exitFullscreen) document.exitFullscreen();
+                else if (document.webkitExitFullscreen) document.webkitExitFullscreen();
+            } catch(e) {}
+        }
+        hideSelectToolbar();
+        hideHlMenu();
+        closeHlPanel();
+        closeNoteDialog();
+        modal.setAttribute('hidden', '');
+        document.body.style.overflow = '';
+        currentChapterIdx = -1;
+        showResumeBar();
+    }
+
+    closeBtn.addEventListener('click', closeModal);
+    modal.querySelector('.chron-modal-backdrop').addEventListener('click', closeModal);
+    document.addEventListener('keydown', function(e) {
+        if (modal.hasAttribute('hidden')) return;
+        if (e.key === 'Escape') { closeModal(); return; }
+        if (readMode === 'page') {
+            // Page mode : ←/→ = page nav (déborde sur chapitres voisins),
+            //              Shift+←/→ = chapitre prev/next direct
+            if (e.key === 'ArrowLeft')  { e.shiftKey ? prevBtn.click() : gotoPage(currentPage - 1); }
+            if (e.key === 'ArrowRight') { e.shiftKey ? nextBtn.click() : gotoPage(currentPage + 1); }
+        } else {
+            if (e.key === 'ArrowLeft')  prevBtn.click();
+            if (e.key === 'ArrowRight') nextBtn.click();
+        }
+    });
+
+    // ── Resume bar + chapter card markers ─────────────────
+    function showResumeBar() {
+        var existing = document.getElementById('chron-resume-bar');
+        if (existing) existing.remove();
+
+        var bookmark = loadBookmark();
+        if (!bookmark || !bookmark.chapterNum) return;
+
+        var progress = getReadingProgress(bookmark);
+        var bar = document.createElement('div');
+        bar.id = 'chron-resume-bar';
+        bar.className = 'chron-resume-bar';
+        bar.innerHTML =
+            '<span class="chron-resume-icon">\uD83D\uDCD6</span>' +
+            '<div class="chron-resume-info">' +
+            '  <div class="chron-resume-label">Reprendre la lecture</div>' +
+            '  <div class="chron-resume-chapter">' + escHtml(bookmark.chapterTitle) + '</div>' +
+            '</div>' +
+            '<div class="chron-resume-progress"><div class="chron-resume-progress-fill" style="width:' + progress + '%"></div></div>';
+        bar.addEventListener('click', function() {
+            openChapter(bookmark.chapterNum);
+        });
+
+        var actNav = root.querySelector('.chron-act-nav');
+        if (actNav) {
+            actNav.parentNode.insertBefore(bar, actNav);
+        }
+    }
+
+    function updateChapterCards() {
+        var bookmark = loadBookmark();
+        var cards = root.querySelectorAll('.chron-card');
+        cards.forEach(function(card) {
+            card.classList.remove('current-reading');
+        });
+        if (bookmark && bookmark.chapterNum) {
+            cards.forEach(function(card) {
+                if (parseInt(card.dataset.chapter) === bookmark.chapterNum) {
+                    card.classList.add('current-reading');
+                }
+            });
+        }
+    }
+
+    // ── Highlights system ────────────────────────────────────
+    var STORAGE_KEY_HL = 'hybelior_roman_septieme_heure_highlights';
+    var STORAGE_KEY_HL_LAST_SYNC = 'hybelior_roman_septieme_heure_lastsync';
+    var SESSION_KEY_PASSWORD = 'hybelior_roman_editor_password';
+    var HL_COLORS = ['yellow', 'red', 'green', 'blue'];
+    var DEFAULT_HL_COLOR = 'yellow';
+
+    var selectToolbar   = document.getElementById('chron-select-toolbar');
+    var selectNoteBtn   = document.getElementById('chron-select-note-btn');
+    var hlMenu          = document.getElementById('chron-highlight-menu');
+    var hlMenuNote      = document.getElementById('chron-hl-menu-note');
+    var hlMenuEditNote  = document.getElementById('chron-hl-menu-edit-note');
+    var hlMenuDelete    = document.getElementById('chron-hl-menu-delete');
+    var hlPanel         = document.getElementById('chron-highlights-panel');
+    var hlList          = document.getElementById('chron-highlights-list');
+    var hlToggleBtn     = document.getElementById('chron-highlights-toggle');
+    var hlCloseBtn      = document.getElementById('chron-highlights-close');
+    var hlExportBtn     = document.getElementById('chron-highlights-export');
+    var hlSyncBtn       = document.getElementById('chron-highlights-sync');
+    var hlSyncInfo      = document.getElementById('chron-highlights-syncinfo');
+    var hlCountSpan     = document.getElementById('chron-highlights-count');
+    var hlTabs          = hlPanel ? hlPanel.querySelectorAll('.chron-highlights-tab') : [];
+    var noteDialog      = document.getElementById('chron-note-dialog');
+    var noteDlgSnippet  = document.getElementById('chron-note-dialog-snippet');
+    var noteDlgTextarea = document.getElementById('chron-note-dialog-textarea');
+    var noteDlgSave     = document.getElementById('chron-note-dialog-save');
+    var noteDlgCancel   = document.getElementById('chron-note-dialog-cancel');
+
+    var pendingSelection = null;       // { range, start, end, text } pour création
+    var activeHighlightId = null;      // pour menu contextuel
+    var noteDialogContext = null;      // 'create' | 'edit'
+    var noteDialogPending = null;      // { start, end, text } | highlightObj
+    var hlPanelTab = 'chapter';        // 'chapter' | 'all'
+
+    // loadHighlights renvoie toutes les entrées, y compris tombstones (deleted=true)
+    function loadHighlights() {
+        try {
+            var raw = localStorage.getItem(STORAGE_KEY_HL);
+            return raw ? JSON.parse(raw) : [];
+        } catch(e) { return []; }
+    }
+    // Vue "active" : exclut les tombstones
+    function loadActiveHighlights() {
+        return loadHighlights().filter(function(h) { return h && !h.deleted; });
+    }
+    function saveHighlights(arr) {
+        try { localStorage.setItem(STORAGE_KEY_HL, JSON.stringify(arr)); } catch(e) {}
+    }
+    function getCurrentChapterHighlights() {
+        if (currentChapterIdx < 0) return [];
+        var ch = allChapters[currentChapterIdx];
+        if (!ch) return [];
+        return loadActiveHighlights().filter(function(h) { return h.chapterNum === ch.num; });
+    }
+    function getContentEl() {
+        return pagesWrapper ? pagesWrapper.querySelector('.chron-md-content') : null;
+    }
+    function genHlId() {
+        return 'h_' + Date.now().toString(36) + '_' + Math.random().toString(36).slice(2, 7);
+    }
+
+    // Range -> plain-text offsets within container
+    function rangeToOffsets(range, container) {
+        var pre = document.createRange();
+        pre.selectNodeContents(container);
+        pre.setEnd(range.startContainer, range.startOffset);
+        var start = pre.toString().length;
+        var end = start + range.toString().length;
+        return { start: start, end: end };
+    }
+
+    // Plain-text offsets -> Range within container
+    function offsetsToRange(start, end, container) {
+        var range = document.createRange();
+        var charIndex = 0, foundStart = false;
+        var walker = document.createTreeWalker(container, NodeFilter.SHOW_TEXT, null);
+        var node;
+        while ((node = walker.nextNode())) {
+            var nodeLen = node.nodeValue.length;
+            var next = charIndex + nodeLen;
+            if (!foundStart && start >= charIndex && start <= next) {
+                range.setStart(node, start - charIndex);
+                foundStart = true;
+            }
+            if (foundStart && end >= charIndex && end <= next) {
+                range.setEnd(node, end - charIndex);
+                return range;
+            }
+            charIndex = next;
+        }
+        return null;
+    }
+
+    // Wrap a range with <mark> elements (per text node, to handle element boundaries)
+    function wrapRangeWithMark(range, highlight) {
+        if (range.collapsed) return [];
+        var marks = [];
+        var startContainer = range.startContainer;
+        var endContainer = range.endContainer;
+        var startOffset = range.startOffset;
+        var endOffset = range.endOffset;
+
+        var common = range.commonAncestorContainer;
+        if (common.nodeType === Node.TEXT_NODE) common = common.parentNode;
+
+        var nodes = [];
+        var walker = document.createTreeWalker(common, NodeFilter.SHOW_TEXT, {
+            acceptNode: function(n) {
+                try { return range.intersectsNode(n) ? NodeFilter.FILTER_ACCEPT : NodeFilter.FILTER_REJECT; }
+                catch(e) { return NodeFilter.FILTER_REJECT; }
+            }
+        });
+        var n;
+        while ((n = walker.nextNode())) nodes.push(n);
+
+        nodes.forEach(function(node) {
+            var nr = document.createRange();
+            nr.selectNodeContents(node);
+            if (node === startContainer) nr.setStart(node, startOffset);
+            if (node === endContainer)   nr.setEnd(node, endOffset);
+            if (nr.collapsed) return;
+            var mark = document.createElement('mark');
+            mark.className = 'chron-highlight color-' + (highlight.color || DEFAULT_HL_COLOR);
+            mark.setAttribute('data-highlight-id', highlight.id);
+            if (highlight.note) mark.setAttribute('data-has-note', '1');
+            try {
+                nr.surroundContents(mark);
+                marks.push(mark);
+            } catch(e) { /* skip nodes that can't be wrapped */ }
+        });
+        return marks;
+    }
+
+    function applyHighlight(highlight) {
+        var content = getContentEl();
+        if (!content) return;
+        if (content.querySelector('mark[data-highlight-id="' + highlight.id + '"]')) return;
+        var range = offsetsToRange(highlight.start, highlight.end, content);
+        if (!range) {
+            // Fallback : recherche du snippet en texte brut
+            var plain = content.textContent || '';
+            var idx = plain.indexOf(highlight.text || '');
+            if (idx === -1 || !highlight.text) return;
+            range = offsetsToRange(idx, idx + highlight.text.length, content);
+            if (!range) return;
+        }
+        wrapRangeWithMark(range, highlight);
+    }
+
+    function applyAllHighlightsForCurrentChapter() {
+        var hls = getCurrentChapterHighlights();
+        // Tri par start desc : on enveloppe d'abord les plus tardifs pour
+        // ne pas perturber les offsets des plus précoces (les wrappers
+        // ajoutent des nœuds DOM mais conservent le textContent).
+        hls.sort(function(a, b) { return b.start - a.start; });
+        hls.forEach(applyHighlight);
+        updateHighlightsCount();
+    }
+
+    function createHighlight(start, end, text, color, note) {
+        if (currentChapterIdx < 0) return null;
+        var ch = allChapters[currentChapterIdx];
+        if (!ch) return null;
+        var now = Date.now();
+        var hl = {
+            id: genHlId(),
+            chapterNum: ch.num,
+            chapterTitle: ch.titre,
+            start: start,
+            end: end,
+            text: text,
+            color: color || DEFAULT_HL_COLOR,
+            note: note || '',
+            timestamp: now,
+            updatedAt: now
+        };
+        var arr = loadHighlights();
+        arr.push(hl);
+        saveHighlights(arr);
+        scheduleAutoPush();
+        return hl;
+    }
+
+    function updateHighlight(id, patch) {
+        var arr = loadHighlights();
+        var idx = -1;
+        for (var i = 0; i < arr.length; i++) { if (arr[i].id === id) { idx = i; break; } }
+        if (idx === -1) return null;
+        for (var k in patch) { if (Object.prototype.hasOwnProperty.call(patch, k)) arr[idx][k] = patch[k]; }
+        arr[idx].updatedAt = Date.now();
+        saveHighlights(arr);
+        var marks = document.querySelectorAll('mark[data-highlight-id="' + id + '"]');
+        marks.forEach(function(m) {
+            HL_COLORS.forEach(function(c) { m.classList.remove('color-' + c); });
+            m.classList.add('color-' + (arr[idx].color || DEFAULT_HL_COLOR));
+            if (arr[idx].note) m.setAttribute('data-has-note', '1');
+            else m.removeAttribute('data-has-note');
+        });
+        if (hlPanel && hlPanel.classList.contains('open')) renderHighlightsList();
+        scheduleAutoPush();
+        return arr[idx];
+    }
+
+    function deleteHighlight(id) {
+        var arr = loadHighlights();
+        var now = Date.now();
+        var found = false;
+        for (var i = 0; i < arr.length; i++) {
+            if (arr[i].id === id) {
+                // Tombstone : on garde l'id et updatedAt pour la sync, on retire le reste
+                arr[i] = { id: id, deleted: true, updatedAt: now };
+                found = true;
+                break;
+            }
+        }
+        if (!found) arr.push({ id: id, deleted: true, updatedAt: now });
+        saveHighlights(arr);
+        var marks = document.querySelectorAll('mark[data-highlight-id="' + id + '"]');
+        marks.forEach(function(m) {
+            var parent = m.parentNode;
+            while (m.firstChild) parent.insertBefore(m.firstChild, m);
+            parent.removeChild(m);
+            parent.normalize();
+        });
+        updateHighlightsCount();
+        if (hlPanel && hlPanel.classList.contains('open')) renderHighlightsList();
+        if (readMode === 'page') rePaginate();
+        scheduleAutoPush();
+    }
+
+    function updateHighlightsCount() {
+        if (!hlCountSpan) return;
+        var n = getCurrentChapterHighlights().length;
+        hlCountSpan.textContent = n > 0 ? ' ' + n : '';
+        if (hlToggleBtn) hlToggleBtn.classList.toggle('has-items', n > 0);
+    }
+
+    // ── Selection toolbar ─────────────────────────────────
+    function showSelectToolbar(rect) {
+        if (!selectToolbar) return;
+        var x = rect.left + rect.width / 2;
+        var y = rect.top;
+        // Clamp horizontally to viewport
+        var margin = 80;
+        x = Math.max(margin, Math.min(window.innerWidth - margin, x));
+        if (y < 60) y = rect.bottom + 50; // not enough room above → place below
+        selectToolbar.style.left = x + 'px';
+        selectToolbar.style.top = y + 'px';
+        selectToolbar.removeAttribute('hidden');
+    }
+    function hideSelectToolbar() {
+        if (selectToolbar) selectToolbar.setAttribute('hidden', '');
+        pendingSelection = null;
+    }
+
+    function onSelectionChange() {
+        if (!modal || modal.hasAttribute('hidden')) { hideSelectToolbar(); return; }
+        var content = getContentEl();
+        if (!content) { hideSelectToolbar(); return; }
+        var sel = window.getSelection();
+        if (!sel || sel.isCollapsed || sel.rangeCount === 0) { hideSelectToolbar(); return; }
+        var range = sel.getRangeAt(0);
+        if (!content.contains(range.startContainer) || !content.contains(range.endContainer)) {
+            hideSelectToolbar();
+            return;
+        }
+        // Skip selections inside the audio block
+        var sp = range.startContainer.parentElement;
+        if (sp && sp.closest('.chron-audio-block')) { hideSelectToolbar(); return; }
+        var text = sel.toString();
+        if (!text || !text.trim()) { hideSelectToolbar(); return; }
+        var offsets = rangeToOffsets(range, content);
+        pendingSelection = { range: range.cloneRange(), start: offsets.start, end: offsets.end, text: text };
+        var rect = range.getBoundingClientRect();
+        if (rect.width === 0 && rect.height === 0) { hideSelectToolbar(); return; }
+        showSelectToolbar(rect);
+    }
+    document.addEventListener('selectionchange', onSelectionChange);
+
+    if (selectToolbar) {
+        selectToolbar.querySelectorAll('.chron-color-btn').forEach(function(btn) {
+            btn.addEventListener('mousedown', function(e) { e.preventDefault(); });
+            btn.addEventListener('click', function() {
+                if (!pendingSelection) return;
+                var hl = createHighlight(pendingSelection.start, pendingSelection.end, pendingSelection.text, btn.dataset.color, '');
+                if (hl) applyHighlight(hl);
+                if (window.getSelection) window.getSelection().removeAllRanges();
+                hideSelectToolbar();
+                updateHighlightsCount();
+                if (readMode === 'page') rePaginate();
+            });
+        });
+    }
+    if (selectNoteBtn) {
+        selectNoteBtn.addEventListener('mousedown', function(e) { e.preventDefault(); });
+        selectNoteBtn.addEventListener('click', function() {
+            if (!pendingSelection) return;
+            openNoteDialog('create', null, pendingSelection.text);
+        });
+    }
+
+    // ── Highlight context menu ────────────────────────────
+    function showHlMenu(rect, highlight) {
+        activeHighlightId = highlight.id;
+        if (hlMenuNote) {
+            if (highlight.note) {
+                hlMenuNote.textContent = highlight.note;
+                hlMenuNote.removeAttribute('hidden');
+            } else {
+                hlMenuNote.setAttribute('hidden', '');
+            }
+        }
+        var x = rect.left + rect.width / 2;
+        var y = rect.top;
+        var margin = 110;
+        x = Math.max(margin, Math.min(window.innerWidth - margin, x));
+        if (y < 100) y = rect.bottom + 60;
+        hlMenu.style.left = x + 'px';
+        hlMenu.style.top = y + 'px';
+        hlMenu.removeAttribute('hidden');
+    }
+    function hideHlMenu() {
+        if (hlMenu) hlMenu.setAttribute('hidden', '');
+        activeHighlightId = null;
+    }
+
+    document.addEventListener('click', function(e) {
+        var mark = e.target.closest && e.target.closest('mark.chron-highlight');
+        if (mark && pagesWrapper && pagesWrapper.contains(mark)) {
+            e.stopPropagation();
+            var id = mark.getAttribute('data-highlight-id');
+            var hl = loadHighlights().find(function(h) { return h.id === id; });
+            if (!hl) return;
+            var rect = mark.getBoundingClientRect();
+            showHlMenu(rect, hl);
+            return;
+        }
+        if (hlMenu && !hlMenu.contains(e.target)) hideHlMenu();
+    });
+
+    if (hlMenu) {
+        hlMenu.querySelectorAll('.chron-color-btn').forEach(function(btn) {
+            btn.addEventListener('click', function(e) {
+                e.stopPropagation();
+                if (!activeHighlightId) return;
+                updateHighlight(activeHighlightId, { color: btn.dataset.color });
+                hideHlMenu();
+            });
+        });
+    }
+    if (hlMenuEditNote) {
+        hlMenuEditNote.addEventListener('click', function(e) {
+            e.stopPropagation();
+            if (!activeHighlightId) return;
+            var hl = loadHighlights().find(function(h) { return h.id === activeHighlightId; });
+            if (!hl) return;
+            openNoteDialog('edit', hl, hl.text);
+            hideHlMenu();
+        });
+    }
+    if (hlMenuDelete) {
+        hlMenuDelete.addEventListener('click', function(e) {
+            e.stopPropagation();
+            if (!activeHighlightId) return;
+            if (!confirm('Supprimer ce surlignage ?')) return;
+            deleteHighlight(activeHighlightId);
+            hideHlMenu();
+        });
+    }
+
+    // ── Note dialog ───────────────────────────────────────
+    function openNoteDialog(mode, highlight, snippet) {
+        noteDialogContext = mode;
+        if (mode === 'create') {
+            noteDialogPending = pendingSelection ? {
+                start: pendingSelection.start,
+                end: pendingSelection.end,
+                text: pendingSelection.text
+            } : null;
+            if (noteDlgTextarea) noteDlgTextarea.value = '';
+        } else if (mode === 'edit') {
+            noteDialogPending = highlight;
+            if (noteDlgTextarea) noteDlgTextarea.value = (highlight && highlight.note) || '';
+        }
+        if (noteDlgSnippet) noteDlgSnippet.textContent = snippet || '';
+        if (noteDialog) noteDialog.removeAttribute('hidden');
+        setTimeout(function() { if (noteDlgTextarea) noteDlgTextarea.focus(); }, 30);
+    }
+    function closeNoteDialog() {
+        if (noteDialog) noteDialog.setAttribute('hidden', '');
+        noteDialogContext = null;
+        noteDialogPending = null;
+    }
+    if (noteDlgCancel) noteDlgCancel.addEventListener('click', closeNoteDialog);
+    if (noteDlgSave) {
+        noteDlgSave.addEventListener('click', function() {
+            var note = (noteDlgTextarea && noteDlgTextarea.value || '').trim();
+            if (noteDialogContext === 'create') {
+                if (!noteDialogPending) { closeNoteDialog(); return; }
+                var hl = createHighlight(noteDialogPending.start, noteDialogPending.end, noteDialogPending.text, DEFAULT_HL_COLOR, note);
+                if (hl) applyHighlight(hl);
+                if (window.getSelection) window.getSelection().removeAllRanges();
+                hideSelectToolbar();
+                updateHighlightsCount();
+                if (readMode === 'page') rePaginate();
+            } else if (noteDialogContext === 'edit') {
+                if (noteDialogPending) updateHighlight(noteDialogPending.id, { note: note });
+            }
+            closeNoteDialog();
+        });
+    }
+    if (noteDialog) {
+        noteDialog.addEventListener('click', function(e) {
+            if (e.target === noteDialog) closeNoteDialog();
+        });
+    }
+
+    // ── Highlights side panel ─────────────────────────────
+    function openHlPanel() {
+        if (!hlPanel) return;
+        hlPanel.classList.add('open');
+        renderHighlightsList();
+        refreshSyncInfo();
+        if (typeof getStoredPassword === 'function' && getStoredPassword()) {
+            try { doAutoPull(); } catch(e) {}
+        }
+    }
+    function closeHlPanel() {
+        if (hlPanel) hlPanel.classList.remove('open');
+    }
+    if (hlToggleBtn) {
+        hlToggleBtn.addEventListener('click', function() {
+            if (hlPanel.classList.contains('open')) closeHlPanel();
+            else openHlPanel();
+        });
+    }
+    if (hlCloseBtn) hlCloseBtn.addEventListener('click', closeHlPanel);
+    hlTabs.forEach(function(tab) {
+        tab.addEventListener('click', function() {
+            hlTabs.forEach(function(t) { t.classList.remove('active'); });
+            tab.classList.add('active');
+            hlPanelTab = tab.dataset.tab;
+            renderHighlightsList();
+        });
+    });
+
+    function colorSwatch(color) {
+        switch (color) {
+            case 'red':   return 'rgba(220, 80, 80, 0.85)';
+            case 'green': return 'rgba(120, 200, 100, 0.85)';
+            case 'blue':  return 'rgba(80, 150, 220, 0.85)';
+            default:      return 'rgba(255, 220, 80, 0.85)';
+        }
+    }
+    function truncateText(s, n) {
+        s = s || '';
+        return s.length > n ? s.slice(0, n) + '…' : s;
+    }
+
+    function renderHighlightsList() {
+        if (!hlList) return;
+        var all = loadActiveHighlights();
+        var items;
+        if (hlPanelTab === 'chapter') {
+            var ch = allChapters[currentChapterIdx];
+            items = ch ? all.filter(function(h) { return h.chapterNum === ch.num; }) : [];
+        } else {
+            items = all.slice();
+        }
+        items.sort(function(a, b) {
+            if (a.chapterNum !== b.chapterNum) return a.chapterNum - b.chapterNum;
+            return a.start - b.start;
+        });
+        if (items.length === 0) {
+            var msg = hlPanelTab === 'chapter'
+                ? 'Aucun surlignage sur ce chapitre.<br><small>Sélectionne un passage du texte pour le surligner.</small>'
+                : 'Aucun surlignage enregistré.<br><small>Sélectionne un passage pour le marquer en vue d’une modification future.</small>';
+            hlList.innerHTML = '<div class="chron-highlights-empty">' + msg + '</div>';
             return;
         }
         var html = '';
-        html += '<div class="roman-sommaire-head">';
-        html += '  <div class="nation-page-continent">' + escapeHtml(roman.trilogie) +
-                ' — Tome ' + escapeHtml(String(roman.tome)) + '</div>';
-        html += '  <h1 class="nation-page-title">' + escapeHtml(roman.titre) + '</h1>';
-        if (roman.sousTitre) {
-            html += '  <p class="roman-soustitre">' + escapeHtml(roman.sousTitre) + '</p>';
-        }
-        html += '</div>';
-
-        (roman.parties || []).forEach(function (partie) {
-            html += '<section class="roman-partie">';
-            html += '  <h2 class="roman-partie-titre">' + escapeHtml(partie.titre) + '</h2>';
-            html += '  <ol class="roman-chapitres">';
-            (partie.chapitres || []).forEach(function (ch) {
-                html += '<li><a href="' + escapeHtml(NavConfig.romanHref(ch.key)) + '">' +
-                        escapeHtml(ch.label) + '</a></li>';
+        items.forEach(function(h) {
+            html += '<div class="chron-highlight-item color-' + (h.color || DEFAULT_HL_COLOR) + '" data-id="' + h.id + '" data-chapter="' + h.chapterNum + '">';
+            html += '<div class="chron-highlight-item-header">';
+            html += '<span class="chron-highlight-item-color" style="background:' + colorSwatch(h.color) + '"></span>';
+            html += '<span class="chron-highlight-item-chapter">Chapitre ' + h.chapterNum + ' — ' + escHtml(h.chapterTitle || '') + '</span>';
+            html += '</div>';
+            html += '<div class="chron-highlight-item-text">' + escHtml(truncateText(h.text, 240)) + '</div>';
+            if (h.note) html += '<div class="chron-highlight-item-note">' + escHtml(h.note) + '</div>';
+            html += '<div class="chron-highlight-item-actions">';
+            html += '<button data-action="note">' + (h.note ? 'Modifier la note' : 'Ajouter une note') + '</button>';
+            html += '<button data-action="delete">Supprimer</button>';
+            html += '</div>';
+            html += '</div>';
+        });
+        hlList.innerHTML = html;
+        hlList.querySelectorAll('.chron-highlight-item').forEach(function(item) {
+            item.addEventListener('click', function(e) {
+                var action = e.target && e.target.dataset && e.target.dataset.action;
+                var id = item.dataset.id;
+                var h = loadHighlights().find(function(x) { return x.id === id; });
+                if (!h) return;
+                if (action === 'delete') {
+                    e.stopPropagation();
+                    if (!confirm('Supprimer ce surlignage ?')) return;
+                    deleteHighlight(id);
+                    return;
+                }
+                if (action === 'note') {
+                    e.stopPropagation();
+                    openNoteDialog('edit', h, h.text);
+                    return;
+                }
+                jumpToHighlight(h);
             });
-            html += '  </ol>';
-            html += '</section>';
         });
-
-        // En mode sommaire, le fil d'ariane redevient un lien vers le Lore.
-        if (crumbEl) {
-            crumbEl.innerHTML = '<a href="#histoires/chroniques" class="nation-page-back">← Chroniques</a>';
-        }
-        bodyEl.innerHTML = '<div class="lore-md-content roman-sommaire">' + html + '</div>';
-        window.scrollTo({ top: 0, behavior: 'instant' });
     }
 
-    function buildReadingNav(ch) {
-        var html = '<nav class="roman-lecture-nav" aria-label="Navigation de lecture">';
-        if (ch.prev) {
-            html += '<a class="roman-nav-prev" href="' + escapeHtml(NavConfig.romanHref(ch.prev.key)) + '">' +
-                    '← ' + escapeHtml(ch.prev.label) + '</a>';
+    function jumpToHighlight(h) {
+        var doScroll = function() {
+            var attempts = 0;
+            var tryScroll = function() {
+                attempts++;
+                var mark = document.querySelector('mark[data-highlight-id="' + h.id + '"]');
+                if (!mark && attempts < 20) { setTimeout(tryScroll, 100); return; }
+                if (!mark) return;
+                if (readMode === 'scroll') {
+                    mark.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                } else if (readMode === 'page') {
+                    var content = getContentEl();
+                    if (!content) return;
+                    var w = pagesWrapper.clientWidth;
+                    var contentRect = content.getBoundingClientRect();
+                    var markRect = mark.getBoundingClientRect();
+                    var match = /translate3d\(([-\d.]+)px/.exec(content.style.transform || '');
+                    var currentX = match ? parseFloat(match[1]) : 0;
+                    var leftInContent = (markRect.left - contentRect.left) - currentX;
+                    var page = Math.floor(leftInContent / w);
+                    gotoPage(Math.max(0, Math.min(totalPages - 1, page)));
+                }
+                mark.classList.add('flash');
+                setTimeout(function() { mark.classList.remove('flash'); }, 1500);
+            };
+            tryScroll();
+        };
+        if (currentChapterIdx >= 0 && allChapters[currentChapterIdx] && allChapters[currentChapterIdx].num === h.chapterNum) {
+            doScroll();
         } else {
-            html += '<span class="roman-nav-prev roman-nav-disabled"></span>';
-        }
-        html += '<a class="roman-nav-sommaire" href="#roman">Sommaire</a>';
-        if (ch.next) {
-            html += '<a class="roman-nav-next" href="' + escapeHtml(NavConfig.romanHref(ch.next.key)) + '">' +
-                    escapeHtml(ch.next.label) + ' →</a>';
-        } else {
-            html += '<span class="roman-nav-next roman-nav-disabled"></span>';
-        }
-        html += '</nav>';
-        return html;
-    }
-
-    function paintChapitre(ch, text) {
-        var html = '<div class="lore-md-content roman-chapitre">' + renderMarkdown(text) + '</div>';
-        html += buildReadingNav(ch);
-        bodyEl.innerHTML = html;
-        if (crumbEl) {
-            crumbEl.innerHTML = '<a href="#roman" class="nation-page-back">← Sommaire du roman</a>';
-        }
-        window.scrollTo({ top: 0, behavior: 'instant' });
-        var sidebar = document.getElementById('site-sidebar');
-        var content = document.querySelector('.page-content');
-        if (sidebar && content && window.SidebarTOC) {
-            SidebarTOC.build(sidebar, content);
+            openChapter(h.chapterNum);
+            setTimeout(doScroll, 250);
         }
     }
 
-    function renderChapitre(key) {
-        var ch = (window.NavConfig && NavConfig.findRomanChapitreByKey) ? NavConfig.findRomanChapitreByKey(key) : null;
-        if (!ch || !ch.md) {
-            bodyEl.innerHTML = '<div class="nation-page-error">Chapitre introuvable.</div>';
-            return;
+    // ── Sync (Turso backend, password-gated) ──────────────
+    function getStoredPassword() {
+        try { return sessionStorage.getItem(SESSION_KEY_PASSWORD) || ''; } catch(e) { return ''; }
+    }
+    function setStoredPassword(pwd) {
+        try { sessionStorage.setItem(SESSION_KEY_PASSWORD, pwd); } catch(e) {}
+    }
+    function clearStoredPassword() {
+        try { sessionStorage.removeItem(SESSION_KEY_PASSWORD); } catch(e) {}
+    }
+    function showSyncInfo(msg, kind) {
+        if (!hlSyncInfo) return;
+        hlSyncInfo.textContent = msg;
+        hlSyncInfo.classList.remove('error', 'success');
+        if (kind) hlSyncInfo.classList.add(kind);
+        hlSyncInfo.removeAttribute('hidden');
+    }
+    function setLastSync(ts) {
+        try { localStorage.setItem(STORAGE_KEY_HL_LAST_SYNC, String(ts)); } catch(e) {}
+    }
+    function getLastSync() {
+        try {
+            var v = localStorage.getItem(STORAGE_KEY_HL_LAST_SYNC);
+            return v ? parseInt(v, 10) : 0;
+        } catch(e) { return 0; }
+    }
+    function formatRelativeTime(ts) {
+        if (!ts) return 'jamais';
+        var d = Date.now() - ts;
+        if (d < 60000) return 'à l’instant';
+        if (d < 3600000) return Math.floor(d / 60000) + ' min';
+        if (d < 86400000) return Math.floor(d / 3600000) + ' h';
+        return Math.floor(d / 86400000) + ' j';
+    }
+    function refreshSyncInfo() {
+        if (!hlSyncInfo) return;
+        var ts = getLastSync();
+        if (ts) showSyncInfo('Dernière sync : ' + formatRelativeTime(ts), null);
+        else hlSyncInfo.setAttribute('hidden', '');
+    }
+
+    function ensurePassword(silent) {
+        var pwd = getStoredPassword();
+        if (pwd) return Promise.resolve(pwd);
+        if (silent) return Promise.reject(new Error('no-pwd'));
+        var entered = prompt('Mot de passe éditeur :');
+        if (!entered) return Promise.reject(new Error('annulé'));
+        return fetch('/api/auth', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ password: entered })
+        }).then(function(r) {
+            if (!r.ok) throw new Error('Mot de passe incorrect');
+            setStoredPassword(entered);
+            return entered;
+        });
+    }
+
+    function reapplyHighlightsToCurrentChapter() {
+        if (currentChapterIdx < 0) return;
+        var content = getContentEl();
+        if (!content) return;
+        content.querySelectorAll('mark.chron-highlight').forEach(function(m) {
+            var p = m.parentNode;
+            while (m.firstChild) p.insertBefore(m.firstChild, m);
+            p.removeChild(m);
+            p.normalize();
+        });
+        applyAllHighlightsForCurrentChapter();
+        if (readMode === 'page') rePaginate();
+    }
+
+    // ── Auto-sync : push debounced / pull silent ──────────────
+    var SYNC_DEBOUNCE_MS = 800;
+    var autoSyncTimer = null;
+    var autoSyncInflight = false;
+    var autoSyncPending = false;
+
+    function setSyncState(state, msg) {
+        // states: 'idle' | 'syncing' | 'synced' | 'error' | 'auth'
+        if (hlToggleBtn) {
+            hlToggleBtn.classList.remove('syncing', 'sync-error');
+            if (state === 'syncing') hlToggleBtn.classList.add('syncing');
+            if (state === 'error' || state === 'auth') hlToggleBtn.classList.add('sync-error');
         }
-        // ch.md inclut le préfixe "Lore/" ; la route /lore/ l'ajoute déjà.
-        // encodeURI préserve les / mais encode apostrophes/accents/espaces des noms.
-        var rel = ch.md.replace(/^Lore\//, '');
-        if (_cache[rel]) { paintChapitre(ch, _cache[rel]); return; }
-        bodyEl.innerHTML = '<div class="nation-page-loading">Chargement…</div>';
-        fetch('/lore/' + encodeURI(rel)).then(function (r) {
+        if (state === 'syncing') showSyncInfo(msg || 'Synchronisation…', null);
+        else if (state === 'synced') showSyncInfo(msg || ('Synchronisé · ' + formatRelativeTime(getLastSync())), 'success');
+        else if (state === 'error') showSyncInfo(msg || 'Erreur de synchronisation', 'error');
+        else if (state === 'auth') showSyncInfo(msg || 'Cliquer "Sync" pour activer la synchronisation', 'error');
+        else refreshSyncInfo();
+    }
+
+    function pushHighlightsAPI(pwd) {
+        var localAll = loadHighlights(); // inclut les tombstones
+        return fetch('/api/highlights', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ password: pwd, entries: localAll })
+        }).then(function(r) {
+            if (r.status === 403) {
+                clearStoredPassword();
+                var e = new Error('Mot de passe rejeté'); e.code = 'auth'; throw e;
+            }
             if (!r.ok) throw new Error('HTTP ' + r.status);
-            return r.text();
-        }).then(function (text) {
-            _cache[rel] = text;
-            paintChapitre(ch, text);
-        }).catch(function (err) {
-            bodyEl.innerHTML = '<div class="nation-page-error">Impossible de charger le chapitre.<br><small>' +
-                (err && err.message ? err.message : err) + '</small></div>';
+            return r.json();
+        }).then(function(data) {
+            var serverList = (data && data.highlights) || [];
+            saveHighlights(serverList);
+            setLastSync(Date.now());
+            return serverList;
         });
     }
 
-    function renderForCurrentHash() {
-        var key = currentKey();
-        if (key) renderChapitre(key);
-        else buildSommaire();
+    function pullHighlightsAPI(pwd) {
+        // Editor password as header (never query string — URLs leak via logs/referrers).
+        return fetch('/api/highlights', { headers: { 'X-Editor-Password': pwd } })
+            .then(function(r) {
+                if (r.status === 403) {
+                    clearStoredPassword();
+                    var e = new Error('Mot de passe rejeté'); e.code = 'auth'; throw e;
+                }
+                if (!r.ok) throw new Error('HTTP ' + r.status);
+                return r.json();
+            }).then(function(data) {
+                var serverList = (data && data.highlights) || [];
+                // Merge server + local (par id, latest updatedAt gagne)
+                var local = loadHighlights();
+                var byId = {};
+                serverList.forEach(function(h) { byId[h.id] = h; });
+                local.forEach(function(h) {
+                    if (!byId[h.id] || (h.updatedAt || 0) > (byId[h.id].updatedAt || 0)) {
+                        byId[h.id] = h;
+                    }
+                });
+                var merged = [];
+                for (var k in byId) merged.push(byId[k]);
+                saveHighlights(merged);
+                setLastSync(Date.now());
+                return merged;
+            });
     }
 
-    if (window._romanPageHandler) {
-        window.removeEventListener('hashchange', window._romanPageHandler);
+    function scheduleAutoPush() {
+        if (!getStoredPassword()) return;
+        if (autoSyncTimer) clearTimeout(autoSyncTimer);
+        autoSyncTimer = setTimeout(doAutoPush, SYNC_DEBOUNCE_MS);
     }
-    window._romanPageHandler = renderForCurrentHash;
-    window.addEventListener('hashchange', renderForCurrentHash);
 
-    renderForCurrentHash();
+    function doAutoPush() {
+        if (autoSyncInflight) { autoSyncPending = true; return; }
+        var pwd = getStoredPassword();
+        if (!pwd) return;
+        autoSyncInflight = true;
+        setSyncState('syncing');
+        pushHighlightsAPI(pwd).then(function() {
+            setSyncState('synced');
+            renderHighlightsList();
+            updateHighlightsCount();
+            // Re-applique les highlights (server peut avoir résolu des conflits)
+            reapplyHighlightsToCurrentChapter();
+        }).catch(function(err) {
+            setSyncState(err.code === 'auth' ? 'auth' : 'error', err.code === 'auth' ? null : ('Erreur : ' + err.message));
+        }).finally(function() {
+            autoSyncInflight = false;
+            if (autoSyncPending) { autoSyncPending = false; scheduleAutoPush(); }
+        });
+    }
+
+    function doAutoPull() {
+        var pwd = getStoredPassword();
+        if (!pwd) return;
+        if (autoSyncInflight) { autoSyncPending = true; return; }
+        autoSyncInflight = true;
+        setSyncState('syncing', 'Récupération depuis le serveur…');
+        pullHighlightsAPI(pwd).then(function() {
+            setSyncState('synced');
+            updateHighlightsCount();
+            reapplyHighlightsToCurrentChapter();
+            // Si le merge a généré du local plus récent que le serveur, repousser
+            scheduleAutoPush();
+        }).catch(function(err) {
+            setSyncState(err.code === 'auth' ? 'auth' : 'error', err.code === 'auth' ? null : ('Erreur : ' + err.message));
+        }).finally(function() {
+            autoSyncInflight = false;
+            if (autoSyncPending) { autoSyncPending = false; scheduleAutoPush(); }
+        });
+    }
+
+    function syncHighlights() {
+        // Manual sync : prompt password si nécessaire, push complet
+        if (!hlSyncBtn) return;
+        hlSyncBtn.disabled = true;
+        setSyncState('syncing');
+        ensurePassword(false).then(function(pwd) {
+            return pushHighlightsAPI(pwd);
+        }).then(function(serverList) {
+            renderHighlightsList();
+            updateHighlightsCount();
+            reapplyHighlightsToCurrentChapter();
+            setSyncState('synced', 'Synchronisé · ' + serverList.length + ' surlignages');
+            setTimeout(function() { setSyncState('idle'); }, 3000);
+        }).catch(function(err) {
+            if (err && err.message === 'annulé') { setSyncState('idle'); }
+            else { setSyncState(err.code === 'auth' ? 'auth' : 'error', err.code === 'auth' ? null : ('Erreur : ' + (err.message || 'inconnue'))); }
+        }).finally(function() {
+            hlSyncBtn.disabled = false;
+        });
+    }
+
+    if (hlSyncBtn) hlSyncBtn.addEventListener('click', syncHighlights);
+
+    if (hlExportBtn) {
+        hlExportBtn.addEventListener('click', function() {
+            var arr = loadHighlights();
+            if (!arr.length) { alert('Aucun surlignage à exporter.'); return; }
+            var json = JSON.stringify(arr, null, 2);
+            var blob = new Blob([json], { type: 'application/json' });
+            var url = URL.createObjectURL(blob);
+            var a = document.createElement('a');
+            a.href = url;
+            var date = new Date().toISOString().slice(0, 10);
+            a.download = 'septieme-heure-surlignages-' + date + '.json';
+            document.body.appendChild(a);
+            a.click();
+            document.body.removeChild(a);
+            URL.revokeObjectURL(url);
+        });
+    }
+
+    // ── Utility ──────────────────────────────────────────────
+    function escHtml(str) {
+        var d = document.createElement('div');
+        d.textContent = str || '';
+        return d.innerHTML;
+    }
 })();
 </script>
