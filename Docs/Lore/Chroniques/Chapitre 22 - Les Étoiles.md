@@ -62,7 +62,7 @@ Il ajouta, avec le ton de quelqu'un qui rappelle quelque chose à quelqu'un qui 
 
 ---
 
-Il m'invita à dîner. Ou plus précisément : il dit qu'il rentrait manger et que je pouvais venir si je n'avais pas d'autre engagement, avec cette façon haldriène de formuler l'invitation qui la rend suffisamment légère pour qu'on puisse décliner sans que le refus soit une offense. Je n'avais pas d'autre engagement. Pardine fut conduit à l'écurie de la maison voisine par une voisine qui traita cet arrangement comme une évidence.
+Il m'invita à dîner. Ou plus précisément : il dit qu'il rentrait manger et que je pouvais venir si je n'avais pas d'autre engagement, avec cette façon haldriène de formuler l'invitation qui la rend suffisamment légère pour qu'on puisse décliner sans que le refus soit une offense. Je n'avais pas d'autre engagement. Pardine fut conduite à l'écurie de la maison voisine par une voisine qui traita cet arrangement comme une évidence.
 
 La maison de Tiras était à mi-pente, avec une terrasse qui donnait plein est sur la mer. Ce soir-là, la mer avait la couleur du métal froid — un gris-bleu dur, sans douceur, avec une ligne de blanc à l'horizon où les vagues se fracassaient sur les récifs lointains que je devinais plus que je ne voyais. Le soleil descendait derrière la ville, dans mon dos, et la façade est de toutes les maisons prenait la lumière indirecte du couchant, cette lumière réfléchie qui est plus douce et plus honnête que la directe.
 
@@ -188,6 +188,18 @@ Je ne sais pas encore ce que cela signifie. Je ne sais pas si c'est une coïncid
 
 Je le notai. Je laisse.
 
+Dans une petite salle attenante, Tiras me montra ensuite un autre registre, plus récent, qui ne venait pas des prêtres mais des pilotes. Une copie discrète des tables de correction nautique transmises aux capitaines de la Flotte de la Constellation d'Argent. Les marins y notaient les écarts entre la position attendue d'une étoile et la position qui permettait réellement de tenir une route droite sur plusieurs nuits.
+
+Les anciennes corrections allaient dans tous les sens. Une erreur de mesure ici, un ciel couvert là, une mauvaise estimation de courant. Depuis l'automne précédent, cinq lignes avaient changé autrement. Les cinq étoiles du canal de Haldros demandaient toutes une correction dans la même direction, faible mais constante, comme si le repère lui-même glissait vers un point invisible.
+
+Tiras posa deux doigts sur la marge. « Un astronome peut douter longtemps. Un pilote, moins. S'il corrige dans le mauvais sens, il finit sur les récifs. »
+
+Je copiai les cinq écarts angulaires avec leurs dates. La plus ancienne correction nouvelle remontait à Virel.
+
+Virel encore.
+
+Je ne dis pas ce nom à voix haute. Il était trop tôt pour le transformer en conclusion.
+
 ---
 
 Le douzième jour fut mon dernier à Haldria.
@@ -220,7 +232,7 @@ Il dit : « Si vous rencontrez quelqu'un qui comprend les étoiles et n'a pas pe
 
 ---
 
-Je suis descendu d'Hekorinth vers le port dans la lumière de l'aube. Pardine attendait, reposé, de mauvaise humeur comme toujours au moment de reprendre la route mais résigné à la nécessité. Les rues étaient presque vides — quelques pêcheurs vers le quai, une femme qui ouvrait les volets d'une échoppe de conserves marines. L'air était froid et salé, le vent venait du nord-est, les phares au loin continuaient leur langage régulier et indifférent.
+Je suis descendu d'Hekorinth vers le port dans la lumière de l'aube. Pardine attendait, reposée, de mauvaise humeur comme toujours au moment de reprendre la route mais résignée à la nécessité. Les rues étaient presque vides — quelques pêcheurs vers le quai, une femme qui ouvrait les volets d'une échoppe de conserves marines. L'air était froid et salé, le vent venait du nord-est, les phares au loin continuaient leur langage régulier et indifférent.
 
 Le feuillet de Tiras est dans mon carnet, plié entre deux pages. J'ai regardé les chiffres plusieurs fois depuis. Vingt-trois étoiles. Cinq dans le secteur que Haldros guettait depuis sa tour. Des occlusions rythmiques, non atmosphériques, non planétaires.
 

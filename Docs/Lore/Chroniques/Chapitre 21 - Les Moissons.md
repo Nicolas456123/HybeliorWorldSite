@@ -90,6 +90,18 @@ Je ne dis rien à Talvind. Ce n'était pas sa charge de porter ces connexions, e
 
 Peut-être.
 
+Talvind me mena ensuite au grenier communal, non pour me convaincre, je crois, mais parce qu'il avait besoin de montrer la chose à quelqu'un qui ne l'avait pas vue pousser année après année. Sur une table basse, dans la lumière poussiéreuse qui tombait entre les planches du toit, il ouvrit trois registres de semis reliés de ficelle. Pas des livres savants. Des colonnes de dates, de parcelles, de pluies, de levées. La mémoire sèche d'un village qui ne confie pas sa nourriture aux souvenirs seuls.
+
+Il posa son doigt sur la même parcelle, trois années de suite : Rynel-haut, au-dessus de l'ancien mur enterré que les enfants appelaient le mur d'avant les murs parce que ses pierres étaient trop lisses pour appartenir aux maisons actuelles. Sept jours. Sept jours. Puis neuf. Plus loin, dix. Puis une note d'Emris, à l'encre plus pâle : *levée irrégulière, bord nord en retard*. Talvind ne commenta pas. Il me laissa lire.
+
+La première anomalie datait de la troisième semaine de Virel, l'automne précédent.
+
+Je vérifiai dans mon carnet. La même semaine que les premiers rapports que Pyrax m'avait fait lire sur les vibrations souterraines de Pyrtara. Pas le même lieu, pas le même phénomène, pas une preuve. Une date commune seulement. Mais les dates communes sont le début des cartes, quand on ne triche pas avec elles.
+
+Talvind referma le registre. « Je ne sais pas ce qu'est Pyrtara, dit-il. Je sais seulement que le blé a commencé à attendre à ce moment-là. »
+
+Je recopiai les trois lignes. Rien de plus.
+
 ---
 
 Le troisième jour fut la récolte des pommes d'Ydralis.

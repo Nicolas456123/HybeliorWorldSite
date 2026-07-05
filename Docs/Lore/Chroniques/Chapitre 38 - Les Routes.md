@@ -20,7 +20,7 @@ Pas de la façon dont les mystiques de Lumasar l'entendent, pas comme une consci
 
 Ce carnet est le dix-septième que j'ai commencé depuis le jour 1. Les seize précédents sont dans mon sac de toile, emmitouflés dans du tissu imperméable, numérotés dans l'ordre. J'ai passé les deux premières journées de cette traversée à les relire depuis le début — tous, dans l'ordre, depuis les premières pages maladroites du départ de Kharazir jusqu'aux notes du glacier de Cestra — et c'est dans cet exercice que quelque chose a cédé. Non pas dans ma compréhension des faits, qui s'était assemblée progressivement depuis des mois, mais dans ma compréhension de leur structure. De la façon dont ils se tenaient ensemble.
 
-Je vais écrire ici ce que je sais. Pas ce que je suppose, pas ce que je ressens, pas les déductions que je me permets en privé et que je marque d'une astérisque dans mes cahiers de terrain pour signaler leur caractère incertain. Ce que je sais. La liste complète, pour la première fois depuis huit cent soixante-dix jours, réunie en un seul endroit.
+Je vais écrire ici ce que je peux tenir sans me mentir. Pas seulement ce que je sais, pas seulement ce que je suppose, mais la limite nette entre les deux — les faits d'abord, puis les liens que ces faits autorisent sans me donner le droit de les durcir en certitudes. La liste la plus solide possible, pour la première fois depuis huit cent soixante-dix jours, réunie en un seul endroit.
 
 ---
 
@@ -46,11 +46,11 @@ Tempora ne pouvait pas intervenir directement — je ne sais pas pourquoi, je n'
 
 J'ai lu les messages assez tôt pour savoir que j'étais sur la bonne voie. Assez tard pour me demander si la concordance était accidentelle ou non.
 
-*Sixième et dernier point. Navigor revient.* Le Message de Mirathi est un texte de vingt-trois colonnes gravé dans la pierre d'un monument que personne ne sait dater avec précision. Les érudits qui en ont déchiffré des fragments — par analogie avec des systèmes d'écriture connus, par déduction structurelle, par les quelques mots dont le sens semble stable à travers les comparaisons — s'accordent sur ceci : quelque chose qui était parti reviendra. Quelque chose de vaste. Quelque chose dont le départ avait changé le monde et dont le retour le changera de nouveau.
+*Sixième et dernier point. Les textes nomment Navigor.* Le Message de Mirathi est un texte de vingt-trois colonnes gravé dans la pierre d'un monument que personne ne sait dater avec précision. Les érudits qui en ont déchiffré des fragments — par analogie avec des systèmes d'écriture connus, par déduction structurelle, par les quelques mots dont le sens semble stable à travers les comparaisons — s'accordent sur ceci : quelque chose qui était parti pourrait revenir. Quelque chose de vaste. Quelque chose dont le départ aurait changé le monde et dont le retour le changerait de nouveau.
 
 Le nom *Navigor* apparaît dans les textes altram anciens et dans les légendes des peuples côtiers d'au moins trois continents, toujours dans des contextes similaires : un être qui navigue entre les états du monde, un passeur de frontières, quelque chose qui n'appartient ni à la réalité ordinaire ni à ce qui est au-delà mais qui se déplace entre les deux. Les prêtres de l'Ordo Caelum parlent d'un astre disparu — une étoile qui manque dans les constellations depuis l'Arrachement, une étoile dont les textes anciens indiquaient la présence et que les cartes célestes modernes ignorent parce que personne ne sait où chercher.
 
-Ce que le Message suggérait était que Navigor reviendrait par les routes que la civilisation pré-Arrachement avait construites pour ça. Le réseau souterrain n'est pas seulement une infrastructure — c'est un système de navigation. Un réseau de portails. Et les deux montagnes qui se répondent — Cendra et Jumeau — sont les deux extrémités d'un axe qui marque le passage.
+Ce que le Message semblait suggérer était que Navigor reviendrait par les routes que la civilisation pré-Arrachement avait peut-être construites pour ça. Le réseau souterrain n'est pas seulement une infrastructure, si ma lecture tient — c'est un système de navigation. Un réseau de portails. Et les deux montagnes qui se répondent — Cendra et Jumeau — seraient les deux extrémités d'un axe qui marque le passage.
 
 ---
 
@@ -144,7 +144,7 @@ Au matin du quatrième jour, les côtes de Galenor sont apparues — d'abord une
 
 Je suis resté sur le pont jusqu'à ce que nous entrions dans les eaux du port.
 
-Le monde changeait. Les routes rouvraient. Quelque chose montait par le dessous de tout ce que nous connaissions, et ce quelque chose n'était ni un monstre ni une catastrophe — c'était un retour. Le retour de quelque chose qui avait été là avant que nos mémoires commencent, avant que nos nations se dessinent, avant que nous décidions qui était Lié et qui était Délié et que ces distinctions aient un sens.
+Le monde changeait. Les routes rouvraient. Selon la carte que je portais désormais, quelque chose montait par le dessous de tout ce que nous connaissions, et ce quelque chose n'était peut-être ni un monstre ni une catastrophe — peut-être un retour. Le retour de quelque chose qui avait été là avant que nos mémoires commencent, avant que nos nations se dessinent, avant que nous décidions qui était Lié et qui était Délié et que ces distinctions aient un sens.
 
 J'avais dix-sept cahiers. J'avais la carte la plus complète qu'un homme vivant ait jamais dressée des mystères du monde.
 
