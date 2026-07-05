@@ -394,6 +394,14 @@
     padding-bottom: calc(14px + env(safe-area-inset-bottom, 0px));
     padding-left: calc(16px + env(safe-area-inset-left, 0px));
     z-index: 10;
+    cursor: pointer;
+    user-select: none;
+}
+.chron-reader-footer:hover .chron-progress-bar {
+    background: rgba(120,78,18,0.16);
+}
+.chron-reader-footer.book-scope .chron-progress-fill {
+    background: #5f3a08;
 }
 .chron-progress-bar {
     width: 100%;
@@ -418,6 +426,32 @@
     font-size: .7rem;
     color: var(--text-muted);
     letter-spacing: .5px;
+}
+.chron-progress-info span {
+    min-width: 0;
+}
+#chron-progress-pos {
+    text-align: center;
+}
+#chron-progress-day {
+    text-align: right;
+}
+
+.chron-book-chapter {
+    margin: 0;
+    padding: 0 0 2.5rem;
+}
+.chron-book-chapter + .chron-book-chapter {
+    padding-top: 1.5rem;
+    border-top: 1px solid rgba(120,78,18,0.14);
+}
+.chron-modal-body.page-mode .chron-book-chapter {
+    break-before: column;
+    padding-top: 0;
+    border-top: 0;
+}
+.chron-modal-body.page-mode .chron-book-chapter:first-child {
+    break-before: auto;
 }
 
 .chron-card.current-reading::after {
@@ -1054,6 +1088,11 @@
     var allChapters = [];
     var currentChapterIdx = -1;
     var mdCache = {};
+    var bookLoaded = false;
+    var chapterMetrics = [];
+    var bookTotalWords = 0;
+    var progressScope = 'chapter';
+    var readingSession = { startTime: 0, startWords: 0, wpm: 220 };
 
     // Mode lecture (scroll | page) + état pagination
     var STORAGE_KEY_MODE = 'hybelior_roman_septieme_heure_mode';
@@ -1278,6 +1317,7 @@
     var progressPct = document.getElementById('chron-progress-pct');
     var progressPos = document.getElementById('chron-progress-pos');
     var progressDay = document.getElementById('chron-progress-day');
+    var progressFooter = document.getElementById('chron-reader-footer');
 
     function updateProgressUI() {
         if (currentChapterIdx < 0) return;
@@ -1466,6 +1506,345 @@
         applyPageTransform();
         saveBookmark();
         updateProgressUI();
+    }
+
+    // Continuous book reader
+    function getChapterFetchUrl(ch) {
+        return (indexData.basePath || '/Docs/Lore/Chroniques') + '/' + encodeURIComponent(ch.fichier);
+    }
+
+    function stripFrontmatter(text) {
+        var body = text || '';
+        if (body.startsWith('---')) {
+            var end = body.indexOf('\n---', 3);
+            if (end !== -1) body = body.slice(end + 4).replace(/^\n+/, '');
+        }
+        return body;
+    }
+
+    function markdownToHtml(text) {
+        var body = stripFrontmatter(text);
+        if (window.LoreContent) body = LoreContent.stripInternalSections(body);
+        var clean = body.replace(/\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/g, function(_, file, display) {
+            return display || file;
+        });
+        var html = marked.parse(clean, { breaks: true });
+        return window.LoreContent ? LoreContent.sanitizeHtml(html) : html;
+    }
+
+    function countReadableWords(text) {
+        var plain = stripFrontmatter(text)
+            .replace(/```[\s\S]*?```/g, ' ')
+            .replace(/[#>*_\-\[\]()`|]/g, ' ')
+            .replace(/\s+/g, ' ')
+            .trim();
+        return plain ? plain.split(/\s+/).length : 0;
+    }
+
+    function audioHtmlForChapter(ch) {
+        if (!ch || !ch.audio) return '';
+        var partialHtml = ch.audioPartial ? '<span class="chron-audio-partial">extrait - enregistrement en cours</span>' : '';
+        return '<div class="chron-audio-block">' +
+              '<div class="chron-audio-label">' +
+                '<span class="chron-audio-icon">Audio</span>' +
+                '<span>Ecouter</span>' +
+                partialHtml +
+              '</div>' +
+              '<audio controls preload="metadata" src="' + escHtml(ch.audio) + '"></audio>' +
+            '</div>';
+    }
+
+    function loadWholeBook() {
+        return Promise.all(allChapters.map(function(ch) {
+            if (mdCache[ch.fichier]) return Promise.resolve({ ch: ch, text: mdCache[ch.fichier], ok: true });
+            return fetch(getChapterFetchUrl(ch))
+                .then(function(r) {
+                    if (!r.ok) throw new Error('HTTP ' + r.status);
+                    return r.text();
+                })
+                .then(function(text) {
+                    mdCache[ch.fichier] = text;
+                    return { ch: ch, text: text, ok: true };
+                })
+                .catch(function() {
+                    return { ch: ch, text: '', ok: false };
+                });
+        }));
+    }
+
+    function renderWholeBook(items, targetBookmark) {
+        var html = '';
+        var runningWords = 0;
+        chapterMetrics = [];
+        items.forEach(function(item, idx) {
+            var ch = item.ch;
+            var words = item.ok ? countReadableWords(item.text) : 0;
+            chapterMetrics[idx] = { start: runningWords, words: Math.max(1, words) };
+            runningWords += Math.max(1, words);
+            html += '<section class="chron-book-chapter" id="chron-book-chapter-' + ch.num + '" data-chapter-idx="' + idx + '" data-chapter-num="' + ch.num + '">';
+            html += item.ok
+                ? audioHtmlForChapter(ch) + markdownToHtml(item.text)
+                : '<div class="chron-placeholder"><div class="chron-placeholder-icon">*</div><div class="chron-placeholder-text">Ce chapitre n\'a pas encore ete ecrit...</div></div>';
+            html += '</section>';
+        });
+        bookTotalWords = Math.max(1, runningWords);
+        pagesWrapper.innerHTML = '<div class="chron-md-content">' + html + '</div>';
+        bookLoaded = true;
+
+        applyAllHighlightsForCurrentChapter();
+
+        var bookmark = targetBookmark || loadBookmark();
+        var sameChapter = bookmark && allChapters[currentChapterIdx] && bookmark.chapterNum === allChapters[currentChapterIdx].num;
+        if (readMode === 'page') {
+            requestAnimationFrame(function() { setupPaging(sameChapter ? bookmark : null); });
+        } else {
+            requestAnimationFrame(function() {
+                if (sameChapter && typeof bookmark.scrollTop === 'number') {
+                    readerBody.scrollTop = bookmark.scrollTop;
+                    updateCurrentChapterFromPosition();
+                } else {
+                    scrollToChapter(currentChapterIdx);
+                }
+                saveBookmark();
+                updateProgressUI();
+            });
+        }
+        updateChapterCards();
+    }
+
+    function showChapter() {
+        var ch = allChapters[currentChapterIdx];
+        if (!ch) return;
+        readerTitle.textContent = indexData && indexData.title ? indexData.title : 'Livre';
+        prevBtn.disabled = currentChapterIdx <= 0;
+        nextBtn.disabled = currentChapterIdx >= allChapters.length - 1;
+
+        if (bookLoaded) {
+            scrollToChapter(currentChapterIdx);
+            return;
+        }
+
+        pagesWrapper.innerHTML = '<div class="chron-loading">Chargement du livre...</div>';
+        loadWholeBook().then(function(items) {
+            renderWholeBook(items, loadBookmark());
+        });
+    }
+
+    function renderChapter(text) {
+        loadWholeBook().then(function(items) { renderWholeBook(items, loadBookmark()); });
+    }
+
+    function chapterElements() {
+        return Array.prototype.slice.call(pagesWrapper.querySelectorAll('.chron-book-chapter'));
+    }
+
+    function setCurrentChapterIdx(idx) {
+        idx = Math.max(0, Math.min(allChapters.length - 1, idx));
+        if (idx === currentChapterIdx) return;
+        currentChapterIdx = idx;
+        prevBtn.disabled = currentChapterIdx <= 0;
+        nextBtn.disabled = currentChapterIdx >= allChapters.length - 1;
+        updateChapterCards();
+    }
+
+    function scrollToChapter(idx) {
+        var el = pagesWrapper.querySelector('.chron-book-chapter[data-chapter-idx="' + idx + '"]');
+        if (!el) return;
+        currentChapterIdx = idx;
+        prevBtn.disabled = currentChapterIdx <= 0;
+        nextBtn.disabled = currentChapterIdx >= allChapters.length - 1;
+        if (readMode === 'page') {
+            var w = pagesWrapper.clientWidth || 1;
+            currentPage = Math.max(0, Math.min(totalPages - 1, Math.floor(el.offsetLeft / w)));
+            applyPageTransform();
+        } else {
+            readerBody.scrollTop = el.offsetTop;
+        }
+        saveBookmark();
+        updateProgressUI();
+        updateChapterCards();
+    }
+
+    function updateCurrentChapterFromPosition() {
+        var chapters = chapterElements();
+        if (!chapters.length) return;
+        var idx = 0;
+        if (readMode === 'page') {
+            var x = currentPage * (pagesWrapper.clientWidth || 1) + 2;
+            chapters.forEach(function(el, i) {
+                if (el.offsetLeft <= x) idx = i;
+            });
+        } else {
+            var y = readerBody.scrollTop + readerBody.clientHeight * 0.28;
+            chapters.forEach(function(el, i) {
+                if (el.offsetTop <= y) idx = i;
+            });
+        }
+        setCurrentChapterIdx(idx);
+    }
+
+    function getChapterProgress() {
+        var chapters = chapterElements();
+        var el = chapters[currentChapterIdx];
+        if (!el) return { pct: 0, page: 1, pages: 1 };
+        if (readMode === 'page') {
+            var w = pagesWrapper.clientWidth || 1;
+            var startPage = Math.floor(el.offsetLeft / w);
+            var next = chapters[currentChapterIdx + 1];
+            var endPage = next ? Math.max(startPage, Math.floor((next.offsetLeft - 1) / w)) : totalPages - 1;
+            var pages = Math.max(1, endPage - startPage + 1);
+            var page = Math.max(1, Math.min(pages, currentPage - startPage + 1));
+            return { pct: Math.round((page / pages) * 100), page: page, pages: pages };
+        }
+        var start = el.offsetTop;
+        var nextEl = chapters[currentChapterIdx + 1];
+        var end = nextEl ? nextEl.offsetTop : readerBody.scrollHeight;
+        var anchor = readerBody.scrollTop + readerBody.clientHeight * 0.28;
+        var pct = Math.round(((anchor - start) / Math.max(1, end - start)) * 100);
+        return { pct: Math.max(0, Math.min(100, pct)), page: 1, pages: 1 };
+    }
+
+    function getBookProgress() {
+        if (readMode === 'page') {
+            return { pct: Math.round(((currentPage + 1) / Math.max(1, totalPages)) * 100), page: currentPage + 1, pages: totalPages };
+        }
+        var scrollable = readerBody.scrollHeight - readerBody.clientHeight;
+        var pct = scrollable > 0 ? Math.round((readerBody.scrollTop / scrollable) * 100) : 0;
+        return { pct: Math.max(0, Math.min(100, pct)), page: 1, pages: 1 };
+    }
+
+    function currentBookWords(chapterProgress) {
+        var metric = chapterMetrics[currentChapterIdx] || { start: 0, words: 1 };
+        return metric.start + metric.words * (Math.max(0, Math.min(100, chapterProgress.pct)) / 100);
+    }
+
+    function updateReadingSpeed(wordsRead) {
+        var now = Date.now();
+        if (!readingSession.startTime) {
+            readingSession.startTime = now;
+            readingSession.startWords = wordsRead;
+            return;
+        }
+        var deltaWords = wordsRead - readingSession.startWords;
+        var deltaMinutes = (now - readingSession.startTime) / 60000;
+        if (deltaMinutes >= 0.35 && deltaWords > 80) {
+            readingSession.wpm = Math.max(120, Math.min(450, Math.round(deltaWords / deltaMinutes)));
+        }
+    }
+
+    function formatEta(wordsRemaining) {
+        var minutes = Math.max(1, Math.ceil(wordsRemaining / Math.max(120, readingSession.wpm || 220)));
+        if (minutes < 60) return '~' + minutes + ' min restantes';
+        var h = Math.floor(minutes / 60);
+        var m = minutes % 60;
+        return '~' + h + ' h' + (m ? ' ' + m + ' restantes' : ' restantes');
+    }
+
+    function saveBookmark() {
+        if (currentChapterIdx < 0) return;
+        var ch = allChapters[currentChapterIdx];
+        if (!ch) return;
+        var chapterProgress = getChapterProgress();
+        var bookWords = currentBookWords(chapterProgress);
+        var bookmark = {
+            chapterNum: ch.num,
+            chapterTitle: ch.titre,
+            scrollTop: readerBody.scrollTop,
+            scrollHeight: readerBody.scrollHeight,
+            mode: readMode,
+            page: currentPage,
+            totalPages: totalPages,
+            bookWords: bookWords,
+            timestamp: Date.now()
+        };
+        try { localStorage.setItem(STORAGE_KEY, JSON.stringify(bookmark)); } catch(e) {}
+    }
+
+    function getReadingProgress(bookmark) {
+        if (!bookmark) return 0;
+        if (typeof bookmark.bookWords === 'number' && bookTotalWords > 0) {
+            return Math.min(100, Math.round((bookmark.bookWords / bookTotalWords) * 100));
+        }
+        if (bookmark.mode === 'page' && bookmark.totalPages > 0) {
+            return Math.min(100, Math.round(((bookmark.page + 1) / bookmark.totalPages) * 100));
+        }
+        if (!bookmark.scrollHeight || bookmark.scrollHeight <= 0) return 0;
+        return Math.min(100, Math.round((bookmark.scrollTop / Math.max(1, bookmark.scrollHeight - 600)) * 100));
+    }
+
+    function updateProgressUI() {
+        if (currentChapterIdx < 0) return;
+        updateCurrentChapterFromPosition();
+        var ch = allChapters[currentChapterIdx];
+        var chapterProgress = getChapterProgress();
+        var bookProgress = getBookProgress();
+        var bookWords = currentBookWords(chapterProgress);
+        updateReadingSpeed(bookWords);
+        var showBook = progressScope === 'book';
+        var pct = showBook ? bookProgress.pct : chapterProgress.pct;
+
+        if (progressFooter) {
+            progressFooter.classList.toggle('book-scope', showBook);
+            progressFooter.title = showBook ? 'Cliquer pour voir l’avancement du chapitre' : 'Cliquer pour voir l’avancement du livre complet';
+        }
+        if (progressFill) progressFill.style.width = pct + '%';
+        if (progressPct) progressPct.textContent = pct + '%';
+        if (progressPos) {
+            progressPos.textContent = showBook
+                ? (readMode === 'page'
+                    ? 'Livre - Page ' + bookProgress.page + '/' + bookProgress.pages + ' - Ch. ' + ch.num + '/' + allChapters.length
+                    : 'Livre complet - Ch. ' + ch.num + '/' + allChapters.length)
+                : (readMode === 'page'
+                    ? 'Page ' + chapterProgress.page + '/' + chapterProgress.pages + ' - Ch. ' + ch.num + '/' + allChapters.length
+                    : 'Chapitre ' + ch.num + '/' + allChapters.length);
+        }
+        if (progressDay) {
+            progressDay.textContent = showBook
+                ? formatEta(Math.max(0, bookTotalWords - bookWords))
+                : (ch.jour ? 'Jour ' + ch.jour + ' du voyage' : '');
+        }
+    }
+
+    function setupPaging(bookmark) {
+        var content = pagesWrapper.querySelector('.chron-md-content');
+        if (!content) return;
+        var w = pagesWrapper.clientWidth;
+        if (!w) {
+            setTimeout(function() { setupPaging(bookmark); }, 50);
+            return;
+        }
+        content.style.transition = 'none';
+        content.style.transform = 'translate3d(0,0,0)';
+        content.style.columnWidth = w + 'px';
+        var totalWidth = content.scrollWidth;
+        requestAnimationFrame(function() { content.style.transition = ''; });
+        totalPages = Math.max(1, Math.round(totalWidth / w));
+        var targetPage = 0;
+        if (bookmark && bookmark.mode === 'page' && typeof bookmark.page === 'number') {
+            targetPage = Math.min(bookmark.page, totalPages - 1);
+        } else {
+            var el = pagesWrapper.querySelector('.chron-book-chapter[data-chapter-idx="' + currentChapterIdx + '"]');
+            if (el) targetPage = Math.floor(el.offsetLeft / w);
+        }
+        currentPage = Math.max(0, Math.min(totalPages - 1, targetPage));
+        applyPageTransform();
+        updateProgressUI();
+    }
+
+    function gotoPage(n) {
+        if (readMode !== 'page') return;
+        currentPage = Math.max(0, Math.min(totalPages - 1, n));
+        applyPageTransform();
+        updateCurrentChapterFromPosition();
+        saveBookmark();
+        updateProgressUI();
+    }
+
+    if (progressFooter) {
+        progressFooter.addEventListener('click', function() {
+            progressScope = progressScope === 'chapter' ? 'book' : 'chapter';
+            updateProgressUI();
+        });
     }
 
     // Toggle mode
