@@ -81,7 +81,7 @@
       "titre": "Ce que je tiens",
       "fichier": "00 - Ce que je tiens.md",
       "partie": "prologue",
-      "meta": "Prologue",
+      "meta": "La voix du Lien",
       "readerTitle": "Prologue — Ce que je tiens",
       "key": "ce-que-je-tiens"
     },
@@ -90,7 +90,7 @@
       "titre": "Les lecteurs",
       "fichier": "01 - Les lecteurs.md",
       "partie": "I",
-      "meta": "Chapitre 1",
+      "meta": "Thessan",
       "readerTitle": "Chapitre premier — Les lecteurs",
       "key": "les-lecteurs"
     },
@@ -99,7 +99,7 @@
       "titre": "Le fil et le vide",
       "fichier": "02 - Le fil et le vide.md",
       "partie": "I",
-      "meta": "Chapitre 2",
+      "meta": "Sera",
       "readerTitle": "Chapitre deux — Le fil et le vide",
       "key": "le-fil-et-le-vide"
     },
@@ -108,7 +108,7 @@
       "titre": "La gardienne du seuil",
       "fichier": "03 - La gardienne du seuil.md",
       "partie": "I",
-      "meta": "Chapitre 3",
+      "meta": "Fenêtre — Nera",
       "readerTitle": "Chapitre trois — La gardienne du seuil",
       "key": "la-gardienne-du-seuil"
     },
@@ -117,7 +117,7 @@
       "titre": "Ce qui ne plie pas",
       "fichier": "04 - Ce qui ne plie pas.md",
       "partie": "I",
-      "meta": "Chapitre 4",
+      "meta": "Drakhan",
       "readerTitle": "Chapitre quatre — Ce qui ne plie pas",
       "key": "ce-qui-ne-plie-pas"
     },
@@ -126,7 +126,7 @@
       "titre": "Le rapport",
       "fichier": "05 - Le rapport.md",
       "partie": "I",
-      "meta": "Chapitre 5",
+      "meta": "Aelindra",
       "readerTitle": "Chapitre cinq — Le rapport",
       "key": "le-rapport"
     },
@@ -135,7 +135,7 @@
       "titre": "Seuil de la Partie I — La voix du Lien",
       "fichier": "06 - Seuil de la Partie I - La voix du Lien.md",
       "partie": "I",
-      "meta": "Partie I — Les lecteurs",
+      "meta": "La voix du Lien",
       "readerTitle": "Partie I — Les lecteurs",
       "key": "seuil-de-la-partie-i-la-voix-du-lien"
     },
@@ -144,7 +144,7 @@
       "titre": "Montrer et faire",
       "fichier": "07 - Montrer et faire.md",
       "partie": "II",
-      "meta": "Chapitre 6",
+      "meta": "Thessan",
       "readerTitle": "Chapitre six — Montrer et faire",
       "key": "montrer-et-faire"
     },
@@ -153,7 +153,7 @@
       "titre": "La part des Vides",
       "fichier": "08 - La part des Vides.md",
       "partie": "II",
-      "meta": "Chapitre 7",
+      "meta": "Sera",
       "readerTitle": "Chapitre sept — La part des Vides",
       "key": "la-part-des-vides"
     },
@@ -162,7 +162,7 @@
       "titre": "Ceux qui tiennent la ville",
       "fichier": "09 - Ceux qui tiennent la ville.md",
       "partie": "II",
-      "meta": "Chapitre 8",
+      "meta": "Fenêtre — Kelib",
       "readerTitle": "Chapitre huit — Ceux qui tiennent la ville",
       "key": "ceux-qui-tiennent-la-ville"
     },
@@ -171,7 +171,7 @@
       "titre": "Ce que le silence garde",
       "fichier": "10 - Ce que le silence garde.md",
       "partie": "II",
-      "meta": "Chapitre 9",
+      "meta": "Vorath",
       "readerTitle": "Chapitre neuf — Ce que le silence garde",
       "key": "ce-que-le-silence-garde"
     },
@@ -180,7 +180,7 @@
       "titre": "Ce que les rêves savaient",
       "fichier": "11 - Ce que les rêves savaient.md",
       "partie": "II",
-      "meta": "Chapitre 10",
+      "meta": "Mirathis",
       "readerTitle": "Chapitre dix — Ce que les rêves savaient",
       "key": "ce-que-les-reves-savaient"
     },
@@ -189,7 +189,7 @@
       "titre": "Seuil de la Partie II — La voix du Lien",
       "fichier": "12 - Seuil de la Partie II - La voix du Lien.md",
       "partie": "II",
-      "meta": "Partie II — Ce que le Lien a coûté",
+      "meta": "La voix du Lien",
       "readerTitle": "Partie II — Ce que le Lien a coûté",
       "key": "seuil-de-la-partie-ii-la-voix-du-lien"
     },
@@ -198,7 +198,7 @@
       "titre": "Ceux de l'eau",
       "fichier": "13 - Ceux de l'eau.md",
       "partie": "III",
-      "meta": "Chapitre 11",
+      "meta": "Kayara",
       "readerTitle": "Chapitre onze — Ceux de l'eau",
       "key": "ceux-de-l-eau"
     },
@@ -207,7 +207,7 @@
       "titre": "La forge qu'on laisse",
       "fichier": "14 - La forge qu'on laisse.md",
       "partie": "III",
-      "meta": "Chapitre 12",
+      "meta": "Drakhan",
       "readerTitle": "Chapitre douze — La forge qu'on laisse",
       "key": "la-forge-qu-on-laisse"
     },
@@ -216,7 +216,7 @@
       "titre": "La ville qui respire",
       "fichier": "15 - La ville qui respire.md",
       "partie": "III",
-      "meta": "Chapitre 13",
+      "meta": "Fenêtre — Ílvar",
       "readerTitle": "Chapitre treize — La ville qui respire",
       "key": "la-ville-qui-respire"
     },
@@ -225,7 +225,7 @@
       "titre": "La première personne du singulier",
       "fichier": "16 - La première personne du singulier.md",
       "partie": "III",
-      "meta": "Chapitre 14",
+      "meta": "Thessan",
       "readerTitle": "Chapitre quatorze — La première personne du singulier",
       "key": "la-premiere-personne-du-singulier"
     },
@@ -234,7 +234,7 @@
       "titre": "La vision et la lame",
       "fichier": "17 - La vision et la lame.md",
       "partie": "III",
-      "meta": "Chapitre 15",
+      "meta": "Sera",
       "readerTitle": "Chapitre quinze — La vision et la lame",
       "key": "la-vision-et-la-lame"
     },
@@ -243,7 +243,7 @@
       "titre": "Seuil de la Partie III — La voix du Lien",
       "fichier": "18 - Seuil de la Partie III - La voix du Lien.md",
       "partie": "III",
-      "meta": "Partie III — Le voyage",
+      "meta": "La voix du Lien",
       "readerTitle": "Partie III — Le voyage",
       "key": "seuil-de-la-partie-iii-la-voix-du-lien"
     },
@@ -252,7 +252,7 @@
       "titre": "Ce que les morts ne disent pas",
       "fichier": "19 - Ce que les morts ne disent pas.md",
       "partie": "IV",
-      "meta": "Chapitre 16",
+      "meta": "Iveth",
       "readerTitle": "Chapitre seize — Ce que les morts ne disent pas",
       "key": "ce-que-les-morts-ne-disent-pas"
     },
@@ -261,7 +261,7 @@
       "titre": "Ce qu'on ne dit pas à une sœur",
       "fichier": "20 - Ce qu'on ne dit pas à une sœur.md",
       "partie": "IV",
-      "meta": "Chapitre 17",
+      "meta": "Sera",
       "readerTitle": "Chapitre dix-sept — Ce qu'on ne dit pas à une sœur",
       "key": "ce-qu-on-ne-dit-pas-a-une-s-ur"
     },
@@ -270,7 +270,7 @@
       "titre": "Ce qu'un homme peut tenir",
       "fichier": "21 - Ce qu'un homme peut tenir.md",
       "partie": "IV",
-      "meta": "Chapitre 18",
+      "meta": "Fenêtre — le Grand Pontife",
       "readerTitle": "Chapitre dix-huit — Ce qu'un homme peut tenir",
       "key": "ce-qu-un-homme-peut-tenir"
     },
@@ -279,7 +279,7 @@
       "titre": "La phrase qui attendait",
       "fichier": "22 - La phrase qui attendait.md",
       "partie": "IV",
-      "meta": "Chapitre 19",
+      "meta": "Thessan",
       "readerTitle": "Chapitre dix-neuf — La phrase qui attendait",
       "key": "la-phrase-qui-attendait"
     },
@@ -288,7 +288,7 @@
       "titre": "Seuil de la Partie IV — La voix du Lien",
       "fichier": "23 - Seuil de la Partie IV - La voix du Lien.md",
       "partie": "IV",
-      "meta": "Partie IV — La veille",
+      "meta": "La voix du Lien",
       "readerTitle": "Partie IV — La veille",
       "key": "seuil-de-la-partie-iv-la-voix-du-lien"
     },
@@ -297,7 +297,7 @@
       "titre": "Seuil de la Partie V — La voix du Lien",
       "fichier": "24 - Seuil de la Partie V - La voix du Lien.md",
       "partie": "V",
-      "meta": "Partie V — La septième heure",
+      "meta": "La voix du Lien",
       "readerTitle": "Partie V — La septième heure",
       "key": "seuil-de-la-partie-v-la-voix-du-lien"
     },
@@ -306,7 +306,7 @@
       "titre": "H-7",
       "fichier": "25 - H-7.md",
       "partie": "V",
-      "meta": "Chapitre 20",
+      "meta": "Drakhan",
       "readerTitle": "H-7 — Le dernier arrivé ouvre la marche",
       "key": "h-7"
     },
@@ -315,7 +315,7 @@
       "titre": "H-5",
       "fichier": "26 - H-5.md",
       "partie": "V",
-      "meta": "Partie V — La septième heure",
+      "meta": "Thessan",
       "readerTitle": "H-5 — Ce qu'on se dit quand on ne peut plus redescendre",
       "key": "h-5"
     },
@@ -324,7 +324,7 @@
       "titre": "H-2",
       "fichier": "27 - H-2.md",
       "partie": "V",
-      "meta": "Partie V — La septième heure",
+      "meta": "Sera",
       "readerTitle": "H-2 — Le protocole au Premier Ancrage",
       "key": "h-2"
     },
@@ -333,7 +333,7 @@
       "titre": "H0",
       "fichier": "28 - H0.md",
       "partie": "V",
-      "meta": "Chapitre 22",
+      "meta": "Sera",
       "readerTitle": "H0 — Ce que personne ne relie",
       "key": "h0"
     },
@@ -342,7 +342,7 @@
       "titre": "H1",
       "fichier": "29 - H1.md",
       "partie": "V",
-      "meta": "Chapitre 23",
+      "meta": "Drakhan",
       "readerTitle": "H1 — Le feu qu'on ne lève pas",
       "key": "h1"
     },
@@ -351,7 +351,7 @@
       "titre": "H2",
       "fichier": "30 - H2.md",
       "partie": "V",
-      "meta": "Chapitre 24",
+      "meta": "Fenêtres — Kelib, Nera",
       "readerTitle": "H2",
       "key": "h2"
     },
@@ -360,7 +360,7 @@
       "titre": "H4 — Ce qui ne résonne pas",
       "fichier": "31 - H4.md",
       "partie": "V",
-      "meta": "Partie V — La septième heure",
+      "meta": "Ísae",
       "readerTitle": "H4 — Ce qui ne résonne pas",
       "key": "h4-ce-qui-ne-resonne-pas"
     },
@@ -369,7 +369,7 @@
       "titre": "H6",
       "fichier": "32 - H6.md",
       "partie": "V",
-      "meta": "Partie V — La septième heure",
+      "meta": "Fenêtre — Ílvar",
       "readerTitle": "H6",
       "key": "h6"
     },
@@ -378,7 +378,7 @@
       "titre": "H7",
       "fichier": "33 - H7.md",
       "partie": "V",
-      "meta": "Chapitre 28",
+      "meta": "Kayara",
       "readerTitle": "H7 — La dernière touchée",
       "key": "h7"
     }
