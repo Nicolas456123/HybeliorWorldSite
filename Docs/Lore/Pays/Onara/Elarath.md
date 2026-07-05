@@ -28,7 +28,7 @@ needs_review_for: []
 - Position de relais entre Mosrack (nord), Tyndara (ouest) et les routes lointaines vers Endora, Cestra.
 - La « petitesse » (refus de grandir au-delà d'une certaine taille) est un **choix politique constitutif**, transmis depuis la Fragmentation et défendu chaque génération par les Conseils des Neuf Guildes.
 - Pressions externes récurrentes : offres d'absorption tyndariennes, propositions d'alliance militaire mosrackiennes, suggestions de rationalisation portuaire d'autres ports du sud.
-- Port modeste à l'échelle d'Hybélior, mais dense et fonctionnel ; bateaux de toutes tailles amarrés côte à côte.
+- Port modeste à l'échelle d'Hybelior, mais dense et fonctionnel ; bateaux de toutes tailles amarrés côte à côte.
 - Monnaie : **Deniers de Mer** (alliage particulier, accepté par tous, propriété de personne) — Elarath n'impose pas sa monnaie.
 - Pas d'armée : milice de marins. Pas de doctrine officielle : coutumes.
 - Fragilité structurelle : la cité ne tient que tant que ses voisins ont intérêt à la laisser tenir.
@@ -57,7 +57,7 @@ needs_review_for: []
 
 ## Gouvernement — La Cité-État Tournante
 
-- **Le Conseil des Neuf Guildes** : réunit les Maîtres des neuf guildes principales (Marine, Pêche, Sel, Change, Cartographie, Vin et Vivrier, Hospitalité, Métiers Précis, Greniers et Stockage). Se réunit deux fois par mois ; tranche les questions inter-guildiques. Pas d'Archonte permanent — président tournant élu par les Maîtres pour cinq ans.
+- **Le Conseil des Neuf Guildes** : réunit les Maîtres des neuf guildes principales (Marine, Pêche, Sel, Change, Cartographie, Vin et Vivrier, Hospitalité, Métiers Précis, Greniers et Stockage). Se réunit deux fois par mois ; tranche les questions inter-guildiques. Pas d'Archonte *permanent* comme à Tyndara : l'Archonte d'Elarath est **tournant**, élu par les Maîtres pour cinq ans non renouvelables, et n'a d'autre pouvoir que de transmettre les positions arrêtées par les Guildes (jamais d'en décider). Titre identique à celui du chef d'État tyndarien, fonction volontairement inverse.
 - **Les Quartiers** : seize quartiers + trois quartiers insulaires, unités de base de la vie civile. Chaque Quartier élit ses conseillers, gère ses conflits, organise ses fêtes. La Guilde coordonne, le Quartier administre.
 - **Les Tribunaux Mixtes** : jugent les disputes commerciales entre étrangers et locaux ; juges des deux origines, rotation par tirage au sort. Réputation telle que les marchands étrangers s'y fient plus qu'à leurs propres tribunaux.
 - **La Milice des Quais** : force de défense civile non permanente, formée des marins de la cité par roulement. Pas de hiérarchie militaire fixe — officiers élus pour la durée d'une situation. En temps de paix (quasi-totalité du temps), fonctions de police portuaire.
@@ -119,7 +119,7 @@ Pas de religion officielle. La **Charte des Voisinages** garantit la liberté re
 ## Villes et villages (cités-clés et points-relais)
 
 ### Elarath — Capitale ★
-Cité-État sans autre nom que le sien, bâtie en terrasses descendant vers une baie naturellement abritée ; façades peintes (blanc, ocre, terre de Sienne, bleu délavé) servant à identifier les Quartiers et signaler les bâtiments d'usage public. Port petit à l'échelle d'Hybélior (quatre-vingts navires simultanés au plus), dense et fonctionnel. Rue principale : la rue des Guildes, descendant vers les quais. Bâtie sur l'emplacement d'un ancien comptoir modeste de Morveth (préservé car sans convoitise) ; cité actuelle reconstruite sur les deux générations suivant la Fragmentation, ports intérieurs creusés à la main par les marins durant trois hivers consécutifs. L'Hôtel des Guildes (pierre claire) abrite la **Pierre des Quarante** (bloc de granit sombre gravé des noms des fondateurs, plus petit qu'une statue), dans une cour intérieure ouverte aux visiteurs — seul monument important.
+Cité-État sans autre nom que le sien, bâtie en terrasses descendant vers une baie naturellement abritée ; façades peintes (blanc, ocre, terre de Sienne, bleu délavé) servant à identifier les Quartiers et signaler les bâtiments d'usage public. Port petit à l'échelle d'Hybelior (quatre-vingts navires simultanés au plus), dense et fonctionnel. Rue principale : la rue des Guildes, descendant vers les quais. Bâtie sur l'emplacement d'un ancien comptoir modeste de Morveth (préservé car sans convoitise) ; cité actuelle reconstruite sur les deux générations suivant la Fragmentation, ports intérieurs creusés à la main par les marins durant trois hivers consécutifs. L'Hôtel des Guildes (pierre claire) abrite la **Pierre des Quarante** (bloc de granit sombre gravé des noms des fondateurs, plus petit qu'une statue), dans une cour intérieure ouverte aux visiteurs — seul monument important.
 - Population : ~35 000 habitants intra-muros
 - Quartiers principaux : Trois Lampes, Pierre Brûlée, Sel, Vents Doux, Halle, Cartes, Cour Petite, Bord
 

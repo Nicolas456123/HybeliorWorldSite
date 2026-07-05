@@ -736,6 +736,24 @@
           ]
         }
       }
+    },
+    "Nysaria": {
+      "csv_n": "14",
+      "csv_continent": "Celethor",
+      "csv_continent_n": "13",
+      "gouvernement": "Monarchie isolée",
+      "file": "Celethor/Nysaria.md",
+      "regions": {
+        "NysariaRegion": {
+          "n": "61",
+          "villes": [
+            {
+              "nom": "Nysoris",
+              "type": "Village"
+            }
+          ]
+        }
+      }
     }
   },
   "Cendara": {
@@ -2596,26 +2614,6 @@
             },
             {
               "nom": "Galdris",
-              "type": "Village"
-            }
-          ]
-        }
-      }
-    }
-  },
-  "Nysaria": {
-    "NysariaPays": {
-      "csv_n": "14",
-      "csv_continent": "Nysaria",
-      "csv_continent_n": "8",
-      "gouvernement": "Monarchie isolée",
-      "file": "Nysaria/Nysaria.md",
-      "regions": {
-        "NysariaRegion": {
-          "n": "61",
-          "villes": [
-            {
-              "nom": "Nysoris",
               "type": "Village"
             }
           ]

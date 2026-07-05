@@ -71,7 +71,7 @@ L'économie respire aussi à plus court terme. Une Ère de prospérité voit ses
 
 ## Le marché comme conversation
 
-La **place du marché** d'Hybélior n'est pas un menu. C'est une **place publique** — l'endroit où les voyageurs se parlent sans se voir, où ils négocient sans se rencontrer, où ils font confiance à des inconnus parce qu'un système leur garantit la transaction. C'est, à sa manière, une des plus grandes places d'Hybelior — la plus fréquentée de toutes, certainement la plus polyphonique.
+La **place du marché** d'Hybelior n'est pas un menu. C'est une **place publique** — l'endroit où les voyageurs se parlent sans se voir, où ils négocient sans se rencontrer, où ils font confiance à des inconnus parce qu'un système leur garantit la transaction. C'est, à sa manière, une des plus grandes places d'Hybelior — la plus fréquentée de toutes, certainement la plus polyphonique.
 
 Mais ce n'est pas le seul marché. À Hybelior, **l'économie a une géographie**. Chaque continent a ses prix, ses spécialités, ses pénuries. Acheter à Mosrack et vendre à Cestra peut faire vivre un marchand toute une saison. Les ressources rares de Norvendis n'ont pas la même valeur à Atravia. Les épices de Kharos coûtent une fortune à Cendara, presque rien dans leur région d'origine. Cette **disparité régionale** n'est pas un défaut d'équilibre ; c'est une **invitation au voyage**. Voir [[Géographie]].
 

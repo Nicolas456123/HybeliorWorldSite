@@ -81,9 +81,9 @@ Il ne dit rien. Il resta une heure devant la tombe et repartit.
 
 ---
 
-## Kelthor --- "L'Enfant dans la Mine"
+## Reldarck --- "L'Enfant dans la Mine"
 
-Les mines de fer de Kelthor etaient les plus profondes de Mosrack. On y descendait avec des torches qui ne duraient que trois heures. Le calcul etait simple : si tu n'etais pas remonte avant la troisieme heure, tu ne remontais pas.
+Les mines de fer de Reldarck etaient les plus profondes de Mosrack. On y descendait avec des torches qui ne duraient que trois heures. Le calcul etait simple : si tu n'etais pas remonte avant la troisieme heure, tu ne remontais pas.
 
 Brenns avait neuf ans quand sa torche tomba dans une crevasse. Il lui restait deux heures avant que l'air ne devienne irrespirable.
 
@@ -95,7 +95,7 @@ Son pere, en le retrouvant, ne le serra pas contre lui. Il le regarda, evalua se
 
 Brenns expliqua. Le pere hocha la tete. "Bien. Tu retournes demain."
 
-Brenns retourna. Il devint le meilleur mineur de Kelthor, puis le chef de mine, puis l'ingenieur responsable de la securite pour toutes les mines de Mosrack. Son premier decret : chaque mineur recoit une formation de navigation sans lumiere avant d'etre autorise a descendre.
+Brenns retourna. Il devint le meilleur mineur de Reldarck, puis le chef de mine, puis l'ingenieur responsable de la securite pour toutes les mines de Mosrack. Son premier decret : chaque mineur recoit une formation de navigation sans lumiere avant d'etre autorise a descendre.
 
 Ce decret sauva, selon les archives, quarante-trois vies en vingt ans.
 
@@ -129,9 +129,9 @@ La formule devint proverbiale a Thrymar. On l'utilise encore pour signifier que 
 
 ---
 
-## Dyrnathor --- "Ce que la frontiere garde"
+## Ramseck --- "Ce que la frontiere garde"
 
-Dyrnathor etait une ville-frontiere. De l'autre cote, un pays que Mosrack n'avait pas envahi parce que le terrain ne le permettait pas, pas parce que ca ne l'interessait pas. Les habitants de Dyrnathor vivaient avec la conscience permanente d'etre la derniere ligne.
+Ramseck etait un poste-frontiere, a l'est, dans les terres hérissées de Ragnack. De l'autre cote, un pays que Mosrack n'avait pas envahi parce que le terrain ne le permettait pas, pas parce que ca ne l'interessait pas. Les habitants de Ramseck vivaient avec la conscience permanente d'etre la derniere ligne.
 
 Sera gardait ce poste frontiere depuis douze ans. Elle connaissait chaque visage qui passait. Elle connaissait les marchands legitimes, les messagers, les espions occasionnels que les deux cotes s'envoyaient sans conviction.
 
@@ -147,6 +147,6 @@ Elle sut, d'une facon qu'elle ne put pas formuler, qu'il disait la verite. Pas l
 
 Elle le laissa passer. Elle nota dans son registre : "Passage accordé, indigent sans papiers, renvoyé vers les terres neutres." Techniquement faux dans chaque detail.
 
-Elle ne revit jamais l'homme. Mais quinze ans plus tard, un traite commercial entre Mosrack et son voisin etablit le premier passage officiel a Dyrnathor. Le negociateur du cote adverse etait un homme aux yeux de quelqu'un qui a grandi pres d'une frontiere.
+Elle ne revit jamais l'homme. Mais quinze ans plus tard, un traite commercial entre Mosrack et son voisin etablit le premier passage officiel a Ramseck. Le negociateur du cote adverse etait un homme aux yeux de quelqu'un qui a grandi pres d'une frontiere.
 
 Sera ne fit aucun lien. Ou peut-etre qu'elle le fit et garda le silence. Ce qui revient au meme.

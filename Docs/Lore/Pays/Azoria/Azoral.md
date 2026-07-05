@@ -42,7 +42,7 @@ needs_review_for: []
 
 **Particularités azoraliennes :**
 
-- **Les Tours du Vent** : chaque port-Capitainerie a sa Tour, dressée à l'extrémité de la jetée principale, dédiée à un courant atmosphérique majeur du nord. Les Voix de Bord y montent à chaque grand départ et grand retour. Tour de Korval = la plus ancienne (~+50 du Sillage) ; Tour de Tamarvik = la plus récente (~+201). Les sept Tours d'Azoral forment, avec celles de Solena à Galenor, le réseau Ventari le plus dense d'Hybélior.
+- **Les Tours du Vent** : chaque port-Capitainerie a sa Tour, dressée à l'extrémité de la jetée principale, dédiée à un courant atmosphérique majeur du nord. Les Voix de Bord y montent à chaque grand départ et grand retour. Tour de Korval = la plus ancienne (~+50 du Sillage) ; Tour de Tamarvik = la plus récente (~+201). Les sept Tours d'Azoral forment, avec celles de Solena à Galenor, le réseau Ventari le plus dense d'Hybelior.
 - **Le Geste de la Voile** : rituel central de Via Ventus, particulièrement éprouvé à Azoral (attachements concrets : navire aimé, compagnon non revenu, femme laissée). Les Capitaines de la Coupe enseignent à *« couper net »* (objet jeté à la mer, lettre brûlée, nom rayé) ; les Capitaines du Souffle Continu disent qu'il suffit de continuer. Débat permanent dans les équipages.
 - **La Veille des Sept Tours** : nuit du solstice d'hiver où les sept Tours sont allumées simultanément ; aucune flotte ne navigue. Doctrine officielle : nuit *« d'écoute du vent »*. Les Voix de Bord anciennes y associent l'écoute des noms des marins non revenus depuis le dernier Décompte.
 
@@ -137,7 +137,7 @@ Région orientale, portant la Capitainerie de Tamarvik. La plus jeune (érigée 
 ## Villes et villages
 
 ### Korval — Capitale ★
-Cœur politique et naval d'Azoral, bâtie autour de la Baie-Mère. Abrite le Palais du Conseil de Bord, la Tour du Vent la plus ancienne d'Azoral (éclairée toutes les nuits), le chantier-maître de la Baie-Mère et les archives du Décompte. Fondée par le capitaine ventari Vorek Cinq-Hivers, qui choisit la Baie-Mère parce qu'elle gelait la dernière et fondait la première (avantage de quelques jours de mer fondant l'économie). Le Décompte y fut institué en l'an 134 par la Première Capitaine de Bord Inga Skra-Korval (qui avait perdu trois fils en mer) ; sa devise *« Compter, c'est ne pas oublier. »* est gravée, sans nom, dans la salle du Conseil.
+Cœur politique et naval d'Azoral, bâtie autour de la Baie-Mère. Abrite le Palais du Conseil de Bord, la Tour du Vent la plus ancienne d'Azoral (éclairée toutes les nuits), le chantier-maître de la Baie-Mère et les archives du Décompte. Fondée par le capitaine ventari Vorek Cinq-Hivers, qui choisit la Baie-Mère parce qu'elle gelait la dernière et fondait la première (avantage de quelques jours de mer fondant l'économie). Le Décompte y fut institué en l'an 132 par la Première Capitaine de Bord Inga Skra-Korval (qui avait perdu trois fils en mer) ; sa devise *« Compter, c'est ne pas oublier. »* est gravée, sans nom, dans la salle du Conseil.
 - Population : Capitale
 - Région : Korvaria
 - Particularités : Conseil de Bord, Tour du Vent ancienne, chantier-maître de la Baie-Mère, archives du Décompte.
@@ -203,7 +203,7 @@ Hameau côtier de la côte ouest, à mi-chemin entre Hjorvik et Velkar. Célèbr
 - Région : Hjorvika
 
 ### Eldjar — Village
-Hameau de chasseurs sur la frontière nord de Skraalia ; avant-poste le plus septentrional d'Azoria habité toute l'année. Ses vingt-deux familles descendent d'un unique équipage perdu en l'an 141, dont les survivants choisirent de s'installer plutôt que de tenter le retour. Le journal de bord du capitaine (conservé à Skraal) est maintenu ouvert à la page : *« Trop loin pour rentrer. Pas assez loin pour avoir oublié. »*
+Hameau de chasseurs sur la frontière nord de Skraalia ; avant-poste le plus septentrional d'Azoria habité toute l'année. Ses quelque trente familles descendent des vingt-deux familles fondatrices d'un unique équipage perdu en l'an 141, dont les survivants choisirent de s'installer plutôt que de tenter le retour ; l'expansion y est lente mais continue. Le journal de bord du capitaine (conservé à Skraal) est maintenu ouvert à la page : *« Trop loin pour rentrer. Pas assez loin pour avoir oublié. »*
 - Population : Village
 - Région : Skraalia
 

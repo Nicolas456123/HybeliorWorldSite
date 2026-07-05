@@ -16,11 +16,11 @@ needs_review_for: []
 | **Glaciers** | Glace de teinte bleue-noire ; calotte permanente au centre |
 | **Colonie stable** | 1 seule : [[Noravia]] (crique sud-ouest), quelques centaines d'habitants |
 | **Reste du continent** | [[No Man's Land Cestra]] — sans gouvernement, culte organisé ni cartographie continue |
-| **Gouvernement central** | Aucun ; aucun siège diplomatique dans l'Êra VII |
+| **Gouvernement central** | Aucun ; aucun siège diplomatique dans l'Ère VII |
 | **Présences signalées** | Gardiens de Givre, Tempêtes Vivantes, Froid Ancien, peuple disparu (Anciens du Givre) |
 
 Faits structurants :
-- **Seul continent collectivement abandonné** par les nations : les Empires post-Arrachement ne l'ont pas conquis, les religions de l'Êra VII ne l'ont pas incorporé, les Tribunaux de [[Lumasar]] n'y ont aucune juridiction. Abandon non inscrit dans un traité — résultat d'une érosion d'ambitions sur plusieurs générations, sans débat formel.
+- **Seul continent collectivement abandonné** par les nations : les Empires post-Arrachement ne l'ont pas conquis, les religions de l'Ère VII ne l'ont pas incorporé, les Tribunaux de [[Lumasar]] n'y ont aucune juridiction. Abandon non inscrit dans un traité — résultat d'une érosion d'ambitions sur plusieurs générations, sans débat formel.
 - Plusieurs expéditions ont tenté de cartographier l'intérieur ; aucune n'est revenue complète (chroniques).
 - Côtes seules zones théoriquement accessibles ; tempêtes imprévisibles, courants traîtres.
 - Récits invérifiés de marins : formes géantes se déplaçant sous la glace.
@@ -71,12 +71,12 @@ Faits structurants :
 
 ### Les Noviens
 - Quelques centaines d'habitants d'une bande côtière (sud-ouest).
-- Descendants de fondateurs **torkamites** et **skaldoriens** venus s'abriter d'une crise politique sur leurs continents d'origine vers **~8 100 ap.A.**.
+- Descendants de fondateurs **torkamites** et **skaldoriens** venus s'abriter d'une crise politique sur leurs continents d'origine vers **~9 900 ap.A.**.
 - Ne se présentent pas comme un peuple cestrien, mais comme « ceux qui restent ».
 - Voir [[Noravia]].
 
 ### Les Chamanes des Brumes
-- Mystiques itinérants venus de divers continents (côtes alkaranes, périphéries d'Onara, hauts plateaux de Vytharia).
+- Mystiques itinérants venus de divers horizons (côtes alkaranes, périphéries d'Onara, hauts plateaux de Vytharia).
 - Traversent Cestra pour des raisons non formulées publiquement.
 - Pratique décrite comme communication avec les esprits de glace et de vent par rituels de transe ; certains affirment pouvoir négocier un passage temporaire à travers les territoires des Gardiens.
 - Récits fragmentaires et parfois contradictoires ; seuls à avoir, à plusieurs reprises, pénétré le continent et à en revenir.
@@ -85,7 +85,7 @@ Faits structurants :
 ### Les Anciens du Givre (peuple disparu)
 - Fragments d'artefacts (pierre gravée, structures sous la glace) suggérant un **peuple humain ou apparenté** ayant habité Cestra à une période non couverte par les chronologies haldriennes.
 - Érudits divisés : civilisation **pré-Arrachement** disparue dans le Cardinal / **traces antérieures à toute mémoire écrite**, possiblement contemporaines des Cités des Anciens. Aucune lecture tranchée.
-- Certitudes : ce peuple ne fait pas partie des nations connues, ne figure dans aucun panthéon religieux d'Hybélior, n'a laissé que des **runes que personne ne lit**.
+- Certitudes : ce peuple ne fait pas partie des nations connues, ne figure dans aucun panthéon religieux d'Hybelior, n'a laissé que des **runes que personne ne lit**.
 - Les Chamanes des Brumes les nomment parfois *« Ceux qui sont restés »* — formule pouvant désigner les Gardiens de Givre, les défunts du peuple disparu, ou les deux (non précisé).
 
 ### Les Gardiens de Givre
@@ -107,7 +107,7 @@ Faits structurants :
 | **Accès** | Maritime saisonnier (sud-ouest) ; déconseillé partout ailleurs |
 
 Faits :
-- **Aucun siège** dans les enceintes diplomatiques de l'Êra VII ; aucun traité ne mentionne Cestra comme partie ni comme territoire à protéger.
+- **Aucun siège** dans les enceintes diplomatiques de l'Ère VII ; aucun traité ne mentionne Cestra comme partie ni comme territoire à protéger.
 - Absence **systémique** et non accidentelle : pas de doctrine d'abstention formulée ; par érosion, les chancelleries ont cessé de proposer Cestra comme objet d'agenda.
 - Quelques juristes lumasariens en parlent occasionnellement comme d'un *vide juridique honteux* ; aucune motion n'a jamais été déposée pour le combler.
 
@@ -127,14 +127,14 @@ Aucune religion organisée n'est implantée durablement à Cestra.
 - minorité **Foedus Animae** héritée des fondateurs torkamites (veillées d'âmes ancestrales aux solstices) ;
 - quelques sympathisants de **Vael'Kurash** lisant le climat extrême comme une **présence à laquelle s'accorder** (plutôt qu'un adversaire à vaincre).
 
-**Chamanes des Brumes :** pratique individuelle ; tradition non affiliée à un culte connu d'Hybélior.
+**Chamanes des Brumes :** pratique individuelle ; tradition non affiliée à un culte connu d'Hybelior.
 
 **Caelorians :**
 - missions permanentes tentées par le passé à Noravia, toutes dissoutes au bout de quelques années (faute d'audience locale) ;
 - seul érudit caeloria durablement présent aujourd'hui : **Sethiran**, à fonction archivistique (et non plus prosélyte) — conserve des chemises documentaires sur les voyageurs de passage, sans commerce ni contrepartie ; transmet une chemise à qui pose la question juste (ex. un cartographe cherchant la trace de son père).
 
 **Lectures concurrentes du Glacier Central** (théologiens des continents voisins, aucune dominante) :
-- Rota Mundi — résidu d'Êra ancienne ;
+- Rota Mundi — résidu d'Ère ancienne ;
 - Vael'Kurash — présence non-classifiée ;
 - sceptiques — simple effet de relief ;
 - Foedus Animae — frontière du Pacte.
@@ -147,26 +147,26 @@ La pluralité non-tranchée des lectures est, à Cestra, constitutive du paysage
 
 ### Avant les chroniques
 - Présence présumée des **Anciens du Givre**, attestée par fragments : Pierres Runiques de Lune, Sanctuaires Enfouis (rumeurs), inscriptions sur rochers polaires — vestiges d'une culture humaine ou parahumaine non survivante.
-- Êra et circonstances : aucun consensus.
+- Ère et circonstances : aucun consensus.
 - Fragments rapportés à **Lumasar** et à **Astravia** classés *non datables par les méthodes courantes*.
 
-### La fondation de Noravia (~8 100 ap.A)
+### La fondation de Noravia (~9 900 ap.A)
 - Petit groupe d'expatriés : quelques familles torkamites, deux Foedus Animae itinérants, un capitaine skaldorien.
 - Cestra choisie par calcul pessimiste (un endroit où personne ne viendrait les déranger) ; prévoyaient d'y mourir tranquilles, sont restés.
 - Voir [[Noravia]] et [[../../Histoires/Cestra/Noravia|Histoires/Cestra/Noravia]].
 
-### La Guerre du Sable (chronologie incertaine, antérieure à l'Êra VII)
-- Conflit obscur, archives fragmentaires.
+### La Guerre du Sable (~an 182 du Sillage — début du IIe siècle)
+- Conflit obscur, archives fragmentaires ; datation reconstituée, non consignée à Noravia.
 - Factions de continents différents : marchands d'Endora, guerriers d'Alkaran, mages de Kytheris — convergées vers Cestra pour exploiter les « sables du temps » (minerais inconnus, cristaux aux propriétés magiques inexpliquées, artefacts d'une civilisation oubliée).
-- Guerre d'**attrition**, pas de bataille rangée : en deux hivers, toutes les factions décimées ou en fuite.
+- Guerre d'**attrition**, pas de bataille rangée : en deux hivers, toutes les factions décimées ou en fuite. Première des vagues d'expéditions qui rompent l'isolement de Noravia — elle précède de peu l'expédition Valkren (an 188).
 - Voir [[No Man's Land Cestra]].
 
-### L'expédition Valkren (an ~7 980 ap.A — datation incertaine)
+### L'expédition Valkren (an 188 du Sillage — départ consigné au Registre)
 - Six membres, méthode rigoureuse, équipement supérieur aux expéditions précédentes.
 - Journal retrouvé : dix-sept feuillets ; le 15e illisible, le 16e répète soixante fois la même phrase, le 17e ne contient qu'un mot. Aucun corps retrouvé.
 - Voir [[../../Histoires/Cestra/Cestra|Histoires/Cestra]] §*L'Expédition Valkren*.
 
-### Le passage des cartographes (Êra VII)
+### Le passage des cartographes (Ère VII)
 - À partir du IIIe siècle du Sillage : cartographes individuels (hommes seuls, pas des expéditions) signalés à Noravia — viennent, achètent un permis temporaire, partent ; certains rentrent, beaucoup non.
 - Le Conseil de Maintien tient un registre minimal des noms et dates de départ, à usage interne seul.
 - Y figure **Aldric Valthen** (an 220 du Sillage), parti vers le Glacier Central, dont la trace après cette date est ambiguë.

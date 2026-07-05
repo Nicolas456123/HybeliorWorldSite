@@ -79,11 +79,11 @@ Les marchands de Thalmaris ont une expression depuis lors. Quand on refuse une a
 
 ---
 
-## Nalmiris --- "L'Accordeur de tempetes"
+## Galrinor --- "L'Accordeur de tempetes"
 
-Nalmiris etait un village de peche et de sel. Ses habitants connaissaient le vent mieux que n'importe quel barde --- non pas ses noms poetiques et ses metaphores, mais ses cycles, ses humeurs, les nuances de son odeur qui predisaient la pluie ou le calme.
+Galrinor etait un village de peche et de sel. Ses habitants connaissaient le vent mieux que n'importe quel barde --- non pas ses noms poetiques et ses metaphores, mais ses cycles, ses humeurs, les nuances de son odeur qui predisaient la pluie ou le calme.
 
-Dort etait l'accordeur de Nalmiris. Son metier n'avait pas de nom officiel : il tendait les cordes et les cables des navires au mouillage de facon que le vent en jouant produise une harmonie specifique plutot qu'un sifflement cacophonique. Les marins dormaient mieux quand les cables chantaient juste.
+Dort etait l'accordeur de Galrinor. Son metier n'avait pas de nom officiel : il tendait les cordes et les cables des navires au mouillage de facon que le vent en jouant produise une harmonie specifique plutot qu'un sifflement cacophonique. Les marins dormaient mieux quand les cables chantaient juste.
 
 Un printemps, une tempete arriva qui ne ressemblait a aucune autre. Elle venait de l'est, la ou les tempetes ne venaient jamais. Les cables hurlerent une dissonance que Dort reconnut : ce n'etait pas du vent. C'etait un avertissement.
 
@@ -93,7 +93,7 @@ La tempete fut catastrophique. Elle depassa tout ce que les anciens avaient vu. 
 
 Dort ne fut jamais demande comment il avait su. Il ne l'aurait pas pu expliquer. "Les cables m'ont dit," aurait-il repondu.
 
-A Nalmiris, les accordeurs de cables sont aujourd'hui consideres comme aussi importants que les pilotes. Et avant chaque depart, le capitaine ecoute toujours les cables chanter.
+A Galrinor, les accordeurs de cables sont aujourd'hui consideres comme aussi importants que les pilotes. Et avant chaque depart, le capitaine ecoute toujours les cables chanter.
 
 ---
 

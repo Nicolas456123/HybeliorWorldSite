@@ -71,11 +71,11 @@ Il aurait pu adopter la méthode kharazirienne d'un coup. Il aurait pu rester su
 
 Le voyageur le regarda sans répondre. Puis il sourit — un sourire que Davan ne vit pas vraiment parce qu'il était déjà retourné à sa table. Il mit trois jours à intégrer la méthode kharazirienne dans la sienne, sur une carte de la baie d'Elarath. Le compagnon de mezzanine la regarda et dit : *« C'est moins propre que d'habitude. C'est mieux. »*
 
-Davan ne devint pas un cartographe célèbre. Il prit cinquante ans à corriger lentement les cartes secondaires d'Elarath, en intégrant la double méthode. Aucune Guilde ne le décora. Aucun apprenti ne lui demanda de l'enseigner — la Guilde avait déjà ses cours, et les cours utilisaient les anciennes méthodes.
+Davan ne deviendra pas un cartographe célèbre. Il passera un demi-siècle à corriger lentement les cartes secondaires d'Elarath, en intégrant la double méthode. Aucune Guilde ne le décorera. Aucun apprenti ne lui demandera de l'enseigner — la Guilde a déjà ses cours, et les cours utilisent les anciennes méthodes.
 
-Mais quand, en l'an 287, un commis de la Guilde de Cartographie tyndarienne demanda à Elarath de lui prêter ses cartes les plus à jour pour comparer, ce furent les cartes corrigées par Davan que la Guilde envoya. Le commis les copia sans poser de question. Quelques années plus tard, sur les cartes officielles tyndariennes, les permanents apparurent avant les ports.
+Mais le jour, des décennies plus tard, où un commis de la Guilde de Cartographie tyndarienne demandera à Elarath de lui prêter ses cartes les plus à jour pour comparer, ce sont les cartes corrigées par Davan que la Guilde enverra. Le commis les copiera sans poser de question. Quelques années après, sur les cartes officielles tyndariennes, les permanents apparaîtront avant les ports.
 
-Davan ne le sut jamais. Il était mort entre-temps. Sans tomber malade : un soir, dans son atelier, en posant une équerre sur la table, il s'arrêta. La voisine le retrouva le matin. Le compagnon de mezzanine — devenu lui-même vieux — termina la carte que Davan tenait sous la main. Il signa de son propre nom et de celui de Davan, comme c'était la coutume entre compagnons.
+Davan ne le saura jamais. Il sera mort entre-temps. Sans tomber malade : un soir, dans son atelier, en posant une équerre sur la table, il s'arrêtera. La voisine le retrouvera le matin. Le compagnon de mezzanine — devenu lui-même vieux — terminera la carte que Davan tenait sous la main. Il signera de son propre nom et de celui de Davan, comme c'est la coutume entre compagnons.
 
 ---
 
@@ -129,15 +129,15 @@ Elle ne publia pas pour une raison qu'elle s'avouait avec honnêteté : la Chart
 
 Elle rangea ses notes dans une chemise, dans son atelier du Quartier de la Halle. Elle écrivit en première page : *« Si je meurs, lire avec lenteur. Si je vis, ne pas lire. »*
 
-Elle vivait toujours en l'an 251.
+En l'an 251, elle vit toujours.
 
-Elle vivait avec ce *non-dit* — un Voile retenu, qui lui pesait moins qu'on ne pourrait croire. Elle continua à archiver, à comparer, à transmettre aux apprentis du Quartier les méthodes de croisement des registres. Elle ne devint pas une grande archiviste. Elle devint une *bonne* archiviste, ce qui à Elarath était la plus haute distinction qu'on accordait à une fonction de mémoire.
+Elle vit avec ce *non-dit* — un Voile retenu, qui lui pèse moins qu'on ne pourrait croire. Elle continue d'archiver, de comparer, de transmettre aux apprentis du Quartier les méthodes de croisement des registres. Elle ne deviendra pas une grande archiviste. Elle est une *bonne* archiviste, ce qui à Elarath est la plus haute distinction qu'on accorde à une fonction de mémoire.
 
-Quand on lui demandait, à la fin de sa vie, ce qu'elle avait fait de plus important, elle répondait : *« J'ai appris à des jeunes à comparer trois croquis avant d'en croire un. »* Elle ne disait pas pour quelle raison elle avait appris cela. Et personne ne lui demanda jamais ce qu'elle avait dans sa chemise marquée *« lire avec lenteur »*.
+Quand on lui demande ce qu'elle a fait de plus important, elle répond : *« J'ai appris à des jeunes à comparer trois croquis avant d'en croire un. »* Elle ne dit pas pour quelle raison elle a appris cela. Et personne ne lui demande jamais ce qu'elle garde dans sa chemise marquée *« lire avec lenteur »*.
 
-À sa mort — paisible, en l'an 268 — son neveu Tellis hérita de l'atelier. Il trouva la chemise. Il lut la première page. Il lut les notes. Il referma la chemise. Il la posa dans le coffre du Quartier où dormaient les manuscrits *« en attente de décision »*, et il rentra chez lui.
+À sa mort — paisible, un jour qu'elle n'a pas fixé — son neveu Tellis héritera de l'atelier. Il trouvera la chemise. Il lira la première page. Il lira les notes. Il refermera la chemise. Il la posera dans le coffre du Quartier où dorment les manuscrits *« en attente de décision »*, et il rentrera chez lui.
 
-La chemise est toujours là. Personne n'a décidé. C'est, peut-être, la plus elarathine des décisions.
+La chemise y restera. Personne ne décidera. Ce sera, peut-être, la plus elarathine des décisions.
 
 ---
 
@@ -261,9 +261,9 @@ Mirenne resta silencieuse. Elle changea ses pièces. Elle remercia Havrel. Elle 
 
 Elle ne renonça pas au projet. Elle le retarda. Elle dit à Yorvel et Estral, le mois suivant, qu'il fallait *« plus de patience »* — formulation qu'ils interprétèrent comme une faiblesse, mais qui était en réalité une *réflexion*. Trois ans plus tard, Yorvel, impatient, présenta le projet aux Conseils sans Mirenne. Le projet fut rejeté à neuf voix contre zéro. Yorvel quitta Elarath l'année suivante pour ouvrir un comptoir à Portharis. Il y prospéra. Il mourut riche. Il ne revint jamais.
 
-Mirenne resta. Elle dirige encore son entreprise. Elle a élargi sa gamme — modestement, comme la Charte le permet. Elle n'a plus jamais reparlé à Havrel après cette conversation. Mais quand elle apprit, en l'an 263, que Havrel était mort dans son sommeil, elle alla déposer sur le seuil de la boutique fermée trois Deniers de Mer — la somme exacte qu'elle avait changée le jour de leur conversation. Elle ne dit à personne pourquoi.
+Mirenne resta. Elle dirige encore son entreprise. Elle a élargi sa gamme — modestement, comme la Charte le permet. Elle n'a plus jamais reparlé à Havrel après cette conversation. Le jour où Havrel mourra, elle ira déposer sur le seuil de la boutique fermée trois Deniers de Mer — la somme exacte qu'elle avait changée le jour de leur conversation. Elle ne le dira à personne.
 
-La boutique fut reprise par un changeur compétent qui n'avait pas connu Havrel. Le sablier resta sur le comptoir, par habitude. Personne ne le retournait plus avant les conversations. La conversation se faisait sans signal d'attente, comme dans les autres boutiques de change. C'était plus efficace.
+La boutique sera reprise par un changeur compétent qui n'aura pas connu Havrel. Le sablier restera sur le comptoir, par habitude. Personne ne le retournera plus avant les conversations. La conversation se fera sans signal d'attente, comme dans les autres boutiques de change. Ce sera plus efficace.
 
 ---
 
@@ -297,8 +297,8 @@ Le négociateur sourit — un sourire poli, qui ne dissimulait pas tout. *« Et 
 
 Le négociateur ne dit plus rien d'utile. Il partit le lendemain.
 
-La proposition tyndarienne fut rejetée trois mois plus tard, à six voix contre trois. Selina signa la lettre de refus sans modifier un mot. Elle reprit sa caravelle pour ses trois mois de mer. Elle finit son mandat en 254. Elle ne se présenta pas à un second. Elle reprit son métier de capitaine.
+La proposition tyndarienne fut rejetée trois mois plus tard, à six voix contre trois. Selina signa la lettre de refus sans modifier un mot. Elle reprit sa caravelle pour ses trois mois de mer.
 
-Elle vit encore en l'an 251 — vivante, en mer, à présent. Quand on lui demande, dans les ports, si elle a été Archonte d'Elarath, elle dit oui sans s'attarder. Elle ne se vante pas. Elle ne dénigre pas non plus. Elle parle de la fonction comme d'une *campagne*, terme de marin, qui dit : *une chose qu'on a faite quand son tour est venu, et qu'on ne fait plus quand le tour est passé*.
+En l'an 251, elle est toujours Archonte — deuxième année d'un mandat de cinq, qu'elle achèvera sans en briguer un second et au terme duquel elle reprendra, sans regret, son métier de capitaine. Quand on lui demandera, dans les ports, si elle a été Archonte d'Elarath, elle dira oui sans s'attarder. Elle ne se vantera pas. Elle ne dénigrera pas non plus. Elle parle déjà de la fonction comme d'une *campagne*, terme de marin, qui dit : *une chose qu'on fait quand son tour est venu, et qu'on ne fait plus quand le tour est passé*.
 
 C'est, exactement, la définition elarathine du pouvoir.

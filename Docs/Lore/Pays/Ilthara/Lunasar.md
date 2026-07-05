@@ -17,7 +17,7 @@ needs_review_for: []
 | **Religion principale** | [[Somnium Vigil]] (forme institutionnellement intégrée au calendrier lunaire) |
 | **Religion secondaire** | Cultes domestiques lunariens (sans clergé organisé) |
 | **Culture dominante** | Calendrier lunaire strict, observation, gradins de pierre blanche, anticipation longue |
-| **Histoire marquante** | La Fondation par les Trois Cents (an ~3 970 ap.A) |
+| **Histoire marquante** | La Fondation par les Trois Cents (an ~9 900 ap.A) |
 | **Ressources clés** | Pêche côtière, sels marins, lentilles d'eau pure, observatoires |
 
 ---
@@ -70,7 +70,7 @@ needs_review_for: []
 
 - Catégorie sociale (non institutionnelle) : Lunariens ayant vu plus de **mille pleines lunes** (~quatre-vingts ans solaires).
 - Leur opinion est sollicitée à l'Assemblée par convention, pas par règlement. Personne ne vote contre leur avis unanime ; mais ils votent rarement de manière unanime, ce qui rend leur poids subtil.
-- **Solvanes** (env. nonante-deux ans cycles, ~1 100 pleines lunes) en est un : vit seul dans une maison donnant sur l'amphithéâtre, bibliothèque privée d'une salle entière conservant ses journaux (un par cycle depuis ses dix-sept ans). Jamais Lunarch, jamais Recenseur ; Veilleur de lune pendant trente ans (voir *Personnalités*).
+- **Solvanes** (env. quatre-vingt-sept ans cycles, ~1 100 pleines lunes) en est un : vit seul dans une maison donnant sur l'amphithéâtre, bibliothèque privée d'une salle entière conservant ses journaux (un par cycle depuis ses dix-sept ans). Jamais Lunarch, jamais Recenseur ; Maître des Tables puis Veilleur de lune pendant un quart de siècle (voir *Personnalités*).
 
 ---
 
@@ -86,7 +86,7 @@ needs_review_for: []
 
 ### Le rêve commercial
 
-- Depuis ~deux siècles, des **marchands étrangers** (Tyndaris, Sondaris, Galenor) viennent à Lunaris payer des consultations de Lecteurs avant des décisions commerciales importantes.
+- Depuis ~deux siècles, des **marchands étrangers** (Tyndara, Nectoria, Galenor) viennent à Lunaris payer des consultations de Lecteurs avant des décisions commerciales importantes.
 - Pratique *tolérée* (revenu utile, publicité des Tables). Une fraction du clergé Somnium Vigil y voit en privé une **ruine doctrinale** (le rêve-discipline devenu service commercial).
 - Analogie revendiquée avec le scandale Taciti (les *Visiteurs*, voir [[../../Religions/_Mineures/Taciti]]) — même affaiblissement de la limite.
 
@@ -125,7 +125,7 @@ needs_review_for: []
 ### Velhar (Bourg agricole, ~3 500 habitants)
 
 - Centre de la plaine agricole : élevage ovin, blé, fruits secs. Marché bimensuel calé sur les phases lunaires.
-- Existe depuis le quatrième millénaire ; certains champs labourés selon le même découpage parcellaire depuis quatorze générations.
+- Existe depuis les premiers siècles de la province ; certains champs labourés selon le même découpage parcellaire depuis quatorze générations.
 
 ### Hauts-Estuaires (population dispersée, ~2 000)
 
@@ -142,9 +142,9 @@ needs_review_for: []
 
 ## Personnalités
 
-### Solvanes (env. nonante-deux ans cycles, ~1 100 pleines lunes vues)
+### Solvanes (env. quatre-vingt-sept ans cycles, ~1 100 pleines lunes vues)
 
-- Vieillard de Lunaris. Ancien Veilleur de lune (an ~195-225 ap.A). Vit seul. Galenorien sans accent.
+- Vieillard de Lunaris. Ancien Maître des Tables (an ~215-226 ap.A), puis Veilleur de lune (an ~227-252 ap.A). Vit seul. Galenorien sans accent.
 - A connu Aldric Valthen, l'ulinorien anonyme, et Sorin Valthen.
 - A reçu Sorin en l'an 252 et lui a transmis le parchemin laissé par Aldric trente ans plus tôt (rencontre consignée dans les Chroniques, ch. 35).
 - Le titre *Maître* qu'on lui accole est un usage de courtoisie locale (appliqué à plusieurs Vieillards de Lunaris), non un titre officiel ; il ne se présente pas comme mentor.

@@ -142,6 +142,7 @@ Régime fondé sur la force et le lien draconique.
 
 ### Lunaris — Village
 - Descripteur : village isolé au fond d'un canyon de Xeranthia ; nom dû à la lumière lunaire réfléchie par les parois cristallines, qui baigne le village d'une lueur argentée même de jour. Habitants = mystiques et ermites, souvent d'anciens Brûlés en quête de paix.
+- Homonymie (à ne pas confondre) : le nom coïncide fortuitement avec **Lunaris**, capitale de la province vytharienne de [[Lunasar]] (autre nation d'Ilthara). Aucun lien : le Lunaris drakorien tire son nom de la lumière du canyon, la capitale lunarienne de son culte lunaire. Coïncidence de toponymes entre deux nations distinctes.
 - Fondation : premiers habitants = déserteurs (aspirants Brûlés ayant survécu à l'Épreuve du Souffle mais refusant de servir). La reine Myrthin envoya un Lié seul et sans armes plutôt que des soldats, et ne punit personne : amnistie implicite. Lunaris est depuis un lieu de retraite officieusement reconnu.
 - Note : selon les légendes, un dragon très ancien, Vey'thar, dormirait dans les profondeurs du canyon (voir Secrets et intrigues).
 - Population : Village

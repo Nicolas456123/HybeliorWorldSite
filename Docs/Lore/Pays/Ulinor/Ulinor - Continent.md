@@ -16,7 +16,7 @@ needs_review_for: []
 | **Trait commun** | Rapport central et obsessionnel au passé et à ceux qui ont précédé (les **Anciens**) |
 | **Magie / registre partagé** | La **résonance** (registre cosmique commun : magie, culte, méthode de connaissance) |
 | **Géographie clé** | Le **Grand Canyon de l'Écho**, qui rend toute unification continentale impossible |
-| **Rapport au monde** | Hors du cadre diplomatique d'Hybélior ; reçoit des marchands, envoie peu d'émissaires |
+| **Rapport au monde** | Hors du cadre diplomatique d'Hybelior ; reçoit des marchands, envoie peu d'émissaires |
 
 Trois ensembles humains, non alliés mais partageant la même substance (le passé) :
 - **Confédération tribale d'Ulinor** (centre et sud) — honore les Anciens **dans la pierre**
@@ -72,7 +72,7 @@ Aucune lecture officielle n'admet que les Anciens aient pu simplement mourir et 
 - **Le geste de déposer** — la **Pierre de Mémoire** (Ulinor) · le **Cairn des Voix** (Skaldoria) · la **Stèle des Veilles** (Dhalvoria). Déposer est tenu pour une vertu par chaque culture ; aucune ne distingue clairement le geste qui laisse partir du geste qui retient.
 - **Fixations cultuelles attestées** — Ulinor centrale : Pierres de Mémoire, Tatouages de Ruines, chants funéraires résonnants, Nuits des Voix. Skaldoria : Cri du Cairn, Interdiction de l'Enterrement. Dhalvoria : Veilles silencieuses.
 - **Fragmentation institutionnelle maintenue cohérente** — les Confédérations ne s'allient jamais formellement mais ne se font pas la guerre (conflits internes seulement) ; trêve non-écrite tenant depuis des siècles, sans ciment identifié par les chroniqueurs.
-- **Extranéité au reste du monde** — Ulinor n'entre pas dans le cadre diplomatique d'Hybélior. Les chancelleries de Lumasar, Caeloria, Solena et Rukhsar tiennent des dossiers ulinoriens *en cours de constitution depuis trois générations*, qui n'avancent pas.
+- **Extranéité au reste du monde** — Ulinor n'entre pas dans le cadre diplomatique d'Hybelior. Les chancelleries de Lumasar, Caeloria, Solena et Rukhsar tiennent des dossiers ulinoriens *en cours de constitution depuis trois générations*, qui n'avancent pas.
 
 ---
 

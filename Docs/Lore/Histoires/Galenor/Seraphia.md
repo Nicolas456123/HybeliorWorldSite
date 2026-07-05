@@ -148,7 +148,7 @@ Elle continua. Elle copia jusqu'au bout, sans relire, sans s'arrêter, sans s'at
 
 Le Grand Tableau d'Althior a sa partie blanche. Tout Seraphia le sait. Personne ne sait ce que Valdren faisait, dans son atelier de Velynor, après avoir refusé de la finir.
 
-On l'a su trois jours après sa mort, en l'an 238, quand sa logeuse Marisa entra dans la grange voisine où il avait entreposé ses dernières œuvres. Plusieurs centaines de portraits. Tous des paysans de Velynor et des environs. Tous des gens qu'il avait connus, peints, et offerts gratuitement à leurs familles — parfois en échange d'un repas, parfois sans contrepartie.
+On l'a su trois jours après sa mort, en l'an 173, quand sa logeuse Marisa entra dans la grange voisine où il avait entreposé ses dernières œuvres. Plusieurs centaines de portraits. Tous des paysans de Velynor et des environs. Tous des gens qu'il avait connus, peints, et offerts gratuitement à leurs familles — parfois en échange d'un repas, parfois sans contrepartie.
 
 Sur la dernière toile inachevée — un portrait du fils du forgeron, tué dans un accident l'année précédente — Valdren avait laissé un visage sans yeux. Il avait travaillé tout le tour, le nez, les lèvres, les cheveux, les épaules. Les yeux n'étaient pas peints. Marisa, qui n'était pas peintre, comprit pourquoi : il n'avait pas pu décider quel regard donner à un mort.
 

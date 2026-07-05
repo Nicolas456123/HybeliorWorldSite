@@ -252,7 +252,7 @@ Je comprends cela. Je ne l'aurais pas compris au début du voyage. Au début du 
 
 Je partis le matin du jour 500 pour Elarian.
 
-Vingt-cinq jours de marche à travers la géographie de Celethor, du paysage d'altitude d'Astravia vers le nord où la température descend et la géologie change et les arbres commencent à se faire de plus en plus rares. Je ne regardai pas les îles flottantes en partant. Ce geste avait quelque chose de délibéré — la décision du cartographe de ne pas s'attarder sur ce qui est derrière lui maintenant qu'il a tracé sa carte.
+Six jours de marche à travers la géographie de Celethor, du paysage d'altitude d'Astravia vers le nord où la température descend et la géologie change et les arbres commencent à se faire de plus en plus rares. Je ne regardai pas les îles flottantes en partant. Ce geste avait quelque chose de délibéré — la décision du cartographe de ne pas s'attarder sur ce qui est derrière lui maintenant qu'il a tracé sa carte.
 
 Varennis ne vint pas me voir partir. Je ne l'avais pas prévenu de mon heure de départ. Ce n'était pas un oubli.
 

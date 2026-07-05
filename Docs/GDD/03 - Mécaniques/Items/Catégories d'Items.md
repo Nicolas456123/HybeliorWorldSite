@@ -5,7 +5,7 @@ status: drafted
 last_review: 2026-05-12
 ---
 
-# Les familles d'objets d'Hybélior
+# Les familles d'objets d'Hybelior
 
 > *« Apprends à un enfant le nom des choses, et tu lui auras donné le monde. Apprends-lui ce que chaque chose veut faire dans une main humaine, et tu lui auras donné un métier. »*
 >
@@ -15,7 +15,7 @@ last_review: 2026-05-12
 
 ## Quatre familles, et rien d'autre
 
-Les habitants d'Hybélior, qu'ils soient marchands, soldats, herboristes ou prêtres, s'accordent sur une chose : tout objet du monde appartient à l'une de quatre familles, et à une seule. La frontière n'est pas toujours simple — un récipient vide ne ressemble pas à un récipient plein, une racine sortie de terre n'est plus la même quand elle est broyée en poudre — mais le principe tient. Ces quatre familles sont les **portes** par lesquelles on entre dans la matière du monde.
+Les habitants d'Hybelior, qu'ils soient marchands, soldats, herboristes ou prêtres, s'accordent sur une chose : tout objet du monde appartient à l'une de quatre familles, et à une seule. La frontière n'est pas toujours simple — un récipient vide ne ressemble pas à un récipient plein, une racine sortie de terre n'est plus la même quand elle est broyée en poudre — mais le principe tient. Ces quatre familles sont les **portes** par lesquelles on entre dans la matière du monde.
 
 | Famille | Ce qu'elle est | Ce qu'on en fait | Présence dans la vie quotidienne |
 |---------|---------------|------------------|----------------------------------|
@@ -56,7 +56,7 @@ L'équipement est ce qui couvre, pare, conduit. Sous ce nom s'abritent cinq sous
 
 ### Les armures — huit pièces, cinq étoffes
 
-Une armure ne se conçoit pas d'un bloc. C'est un assemblage de huit pièces, chacune protégeant un endroit du corps, et chacune pouvant être faite de l'une des cinq étoffes que les armuriers d'Hybélior reconnaissent.
+Une armure ne se conçoit pas d'un bloc. C'est un assemblage de huit pièces, chacune protégeant un endroit du corps, et chacune pouvant être faite de l'une des cinq étoffes que les armuriers d'Hybelior reconnaissent.
 
 | Endroit du corps | Pièce nommée | Étoffes possibles |
 |------------------|--------------|-------------------|
@@ -110,7 +110,7 @@ Ceux qui pratiquent une Voie ont besoin d'un point d'ancrage matériel. C'est ce
 
 ### Les outils — pour les mains qui font
 
-Chaque métier a ses outils, et chaque outil dit le métier. Voici les plus reconnaissables, sachant que les soixante-trois métiers d'Hybélior en cumulent bien davantage (voir [[Métiers]]).
+Chaque métier a ses outils, et chaque outil dit le métier. Voici les plus reconnaissables, sachant que les soixante-trois métiers d'Hybelior en cumulent bien davantage (voir [[Métiers]]).
 
 | Outil | Métier qui en vit | Geste familier |
 |-------|-------------------|----------------|
@@ -170,7 +170,7 @@ Chaque type d'arme a sa propre maîtrise, qui se développe par l'usage — voir
 - [[Items/Index|Hub des objets]]
 - [[Types d'Items]] — la nature détaillée de chaque chose
 - [[Sources de Ressources]] — d'où viennent les matières premières
-- [[Crafts]] — l'art du faire à Hybélior
+- [[Crafts]] — l'art du faire à Hybelior
 - [[Architecture]] — la trame profonde du monde
 - [[Métiers]] — soixante-trois manières d'entrer en relation avec la matière
 - [[Économie]] — la circulation des choses

@@ -15,7 +15,7 @@ last_review: 2026-05-12
 
 ## Pourquoi nommer
 
-Les habitants d'Hybélior ont, depuis longtemps, un goût des noms exacts. Un pommier n'est pas un poirier ; une cuirasse n'est pas un plastron ; une rapière, malgré son apparente parenté, n'est pas une épée. Cette précision n'est pas une coquetterie d'érudit — c'est l'**habitude** d'un monde où le détail engage. Acheter une fiole au lieu d'un flacon, à Mosrack, peut coûter deux pièces de moins ; demander une hache de bûcheron au lieu d'une hache d'armes peut épargner un quiproquo dont aucun marchand n'a envie.
+Les habitants d'Hybelior ont, depuis longtemps, un goût des noms exacts. Un pommier n'est pas un poirier ; une cuirasse n'est pas un plastron ; une rapière, malgré son apparente parenté, n'est pas une épée. Cette précision n'est pas une coquetterie d'érudit — c'est l'**habitude** d'un monde où le détail engage. Acheter une fiole au lieu d'un flacon, à Mosrack, peut coûter deux pièces de moins ; demander une hache de bûcheron au lieu d'une hache d'armes peut épargner un quiproquo dont aucun marchand n'a envie.
 
 Ce document détaille la nature de chaque objet, famille par famille, type par type. Il n'invente rien : il met en ordre ce que les gens du monde savent déjà.
 
@@ -51,7 +51,7 @@ L'équipement se subdivise en cinq sous-familles. Chacune obéit à sa propre lo
 
 ### Les pièces d'armure
 
-Une armure complète, à Hybélior, se compose de huit pièces, chacune protégeant un endroit du corps. Selon l'étoffe employée — tissu, cuir, mailles, plate, ou matière exotique — la pièce prend un nom différent et confère une vocation différente.
+Une armure complète, à Hybelior, se compose de huit pièces, chacune protégeant un endroit du corps. Selon l'étoffe employée — tissu, cuir, mailles, plate, ou matière exotique — la pièce prend un nom différent et confère une vocation différente.
 
 | Endroit | Nom canonique | Variations selon l'étoffe |
 |---------|---------------|---------------------------|
@@ -101,7 +101,7 @@ Pour ceux qui pratiquent une Voie du [[Le Lien|Lien]], certains objets servent d
 
 ### Les outils de métier
 
-Chaque métier d'Hybélior a son outil ou ses outils. Voici les plus reconnaissables ; la liste complète des outils des soixante-trois métiers est tenue dans [[Métiers]].
+Chaque métier d'Hybelior a son outil ou ses outils. Voici les plus reconnaissables ; la liste complète des outils des soixante-trois métiers est tenue dans [[Métiers]].
 
 | Outil | Métier | Geste |
 |-------|--------|-------|

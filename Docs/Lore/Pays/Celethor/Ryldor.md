@@ -74,7 +74,7 @@ Pouvoir exercé par les guérisseurs.
 ### La simplicité et la richesse silencieuse
 - Vie simple : maisons modestes, vêtements pratiques, nourriture saine sans luxe.
 - La richesse matérielle est vue avec suspicion : un guérisseur riche est un guérisseur qui a oublié sa vocation.
-- **Richesse d'archives** : le Cercle conserve à Ryldaris soixante-trois mille feuillets (plantes, combinaisons, cas cliniques) accumulés depuis Ryldara — l'une des bibliothèques médicales les plus complètes d'Hybélior, parmi les moins consultées par des étrangers.
+- **Richesse d'archives** : le Cercle conserve à Ryldaris soixante-trois mille feuillets (plantes, combinaisons, cas cliniques) accumulés depuis Ryldara — l'une des bibliothèques médicales les plus complètes d'Hybelior, parmi les moins consultées par des étrangers.
 - Aucun manuscrit copié pour l'extérieur depuis cent ans : le Cercle préfère qu'elles restent in situ. Simplicité **politique**, pas seulement matérielle.
 
 ### Les rituels d'admission
@@ -104,7 +104,7 @@ Thyros conserve dans ses carnets personnels la liste des candidats ayant abandon
 ## Villes et villages
 
 ### Ryldaris — Capitale ★
-Capitale-jardin, bâtiments mêlés aux plantes ; maisons de bois clair aux toits couverts de mousse et d'herbes médicinales. Au centre, le **Grand Sanctuaire** (bâtiment circulaire ouvert aux quatre vents) accueille les malades de tout Hybélior. Emplacement choisi par **Ryldara** après cartographie des concentrations résiduelles du Fléau : zone la moins virulente pour protéger les patients fragiles, mais aussi directement au-dessus d'une poche de Fléau dormant qu'elle voulait surveiller de près (révélé par les archives de Thyros). Les pétales frais répandus chaque matin ne sont pas que symboliques : certaines espèces absorbent les émanations résiduelles remontant des profondeurs. Cf. *Histoires de Ryldor — Ce que Ryldara Ne Dit Pas*.
+Capitale-jardin, bâtiments mêlés aux plantes ; maisons de bois clair aux toits couverts de mousse et d'herbes médicinales. Au centre, le **Grand Sanctuaire** (bâtiment circulaire ouvert aux quatre vents) accueille les malades de tout Hybelior. Emplacement choisi par **Ryldara** après cartographie des concentrations résiduelles du Fléau : zone la moins virulente pour protéger les patients fragiles, mais aussi directement au-dessus d'une poche de Fléau dormant qu'elle voulait surveiller de près (révélé par les archives de Thyros). Les pétales frais répandus chaque matin ne sont pas que symboliques : certaines espèces absorbent les émanations résiduelles remontant des profondeurs. Cf. *Histoires de Ryldor — Ce que Ryldara Ne Dit Pas*.
 - Population : Capitale
 - Région : Ryldor
 

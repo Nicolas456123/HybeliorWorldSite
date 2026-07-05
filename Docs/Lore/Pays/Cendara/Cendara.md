@@ -102,7 +102,7 @@ Plateau méridional, le plus ensoleillé et le moins touché par les éruptions.
 Péninsule occidentale battue par les vents, la plus rude de Cendara. Côtes déchiquetées, falaises abruptes (forteresse naturelle). Forges militaires et arsenaux du royaume. Habitants réputés pour leur rudesse et leur endurance.
 
 ### Meliflore
-L'île secondaire d'Ilnara et ses environs. Forêts tropicales impénétrables, faune exotique, Phénix de Feu nichant dans les arbres les plus hauts. Abrite le Temple des Flammes Éternelles, gardé par des prêtres qui ne quittent jamais l'île.
+L'île secondaire d'Ilnara et ses environs. Forêts tropicales impénétrables, faune exotique, Phénix de Feu nichant dans les arbres les plus hauts. Abrite le Temple des Flammes Éternelles, gardé par des prêtres qui ne quittent jamais l'île. Meliflore est une région *théologique et cérémonielle* de Cendara-Royaume, non un territoire administré : Ilnara est juridiquement arkhenienne, et Cendara ne la revendique que par le culte (le syncrétisme de Lorenthia est *toléré* par le roi, non gouverné par lui). La couronne compte Meliflore comme sa septième région pour la représentation au Conseil des Cendres, mais n'y lève ni impôt ni garnison — ce que Brumaris nomme « région » et que Khoram nomme « son île » désigne la même terre contestée.
 
 ---
 

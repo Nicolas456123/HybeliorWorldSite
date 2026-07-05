@@ -25,7 +25,7 @@ SORT file.name ASC
 
 ## Lecture conseillée
 
-- [[Vision]] — pitch, audience, ce qui distingue Hybélior
+- [[Vision]] — pitch, audience, ce qui distingue Hybelior
 - [[Univers]] — toile de fond, ambiance, narration ambiante
 - [[La Partie]] — l'expérience continue du voyageur ; le monde traverse des Ères, sans rupture
 

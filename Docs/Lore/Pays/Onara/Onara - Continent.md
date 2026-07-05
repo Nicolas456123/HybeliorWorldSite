@@ -69,7 +69,7 @@ Trait commun : les contradictions doctrinales d'Onara ne s'affrontent pas en dé
 ## Traits culturels
 
 - **Le calcul comme rapport au monde** — quantification systématique (pertes minières, lingots, tonnages, navires, taxes) ; les vies y deviennent des grandeurs comparables, donc permutables.
-- **Dépendance mutuelle entre puissances rivales** — Mosrack dépend des cargaisons de Tyndara (épices, vin, sel, bois rare) ; Tyndara dépend de l'acier de Mosrack et de Myrtam ; Myrtam dépend du grain de Tyndara et de Mosrack ; Elarath sert d'aiguillage. Structure stable depuis trois siècles.
+- **Dépendance mutuelle entre puissances rivales** — Mosrack dépend des cargaisons de Tyndara (épices, vin, sel, bois rare) ; Tyndara dépend de l'acier de Mosrack et de Myrtam ; Myrtam dépend du grain de Tyndara et de Mosrack ; Elarath sert d'aiguillage. Structure stable depuis deux siècles.
 - **Culture du contrat sacré** — la parole donnée pèse plus qu'ailleurs, par pragmatisme commercial (le commerce à grande distance exige des contrats respectés). Revers : ce qui n'est pas contractualisé reste hors registre (maladie des poumons à Myrtam, pertes minières à Mosrack, disparitions de marins de la flotte tyndarienne).
 - **Fierté du travail bien fait, jusqu'à l'autodestruction** — forgerons myrtamites refusant de livrer une pièce défectueuse, mineurs de Mosrack descendant dans des galeries instables par rotation, cristalliers de Zyndrelis taillant malgré le tremblement des mains.
 - **Posture face aux structures enfouies** — arrière-plan non questionné : structures gigantesques sous Reldarck, « larmes de la montagne » extraites à Dravenor, inscriptions sub-marines aperçues par les plongeurs d'Eryndoris. Aucune institution n'a demandé ce dont il s'agit.

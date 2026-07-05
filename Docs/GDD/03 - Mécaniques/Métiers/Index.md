@@ -5,7 +5,7 @@ status: living-doc
 last_review: 2026-05-12
 ---
 
-# Les neuf grandes voies des métiers d'Hybélior
+# Les neuf grandes voies des métiers d'Hybelior
 
 > *Cette page rassemble les neuf grandes catégories de métiers — telles que les habitants les nomment dans leur quotidien. Pour la philosophie du métier comme vocation et comme tissu social, voir [[Métiers]].*
 

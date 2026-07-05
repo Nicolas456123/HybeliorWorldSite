@@ -133,7 +133,7 @@ Quand la maladie la frappa, elle la reconnut immediatement. La Mousse Noire -- u
 
 Alendra avait elle-meme traite trois cas de Mousse Noire dans sa carriere. Les trois patients etaient morts. Elle connaissait chaque etape : les taches sombres sur la peau, la fatigue croissante, puis l'effondrement brutal quand l'arbre-jumeau cessait de vivre.
 
-Elle envoya discretement un apprenti verifier son arbre-jumeau, plante vingt-cinq ans plus tot a sa naissance. L'apprenti revint en larmes. L'arbre noircissait.
+Elle envoya discretement un apprenti verifier son arbre-jumeau, plante trente-cinq ans plus tot a sa naissance. L'apprenti revint en larmes. L'arbre noircissait.
 
 Alendra s'enferma dans son laboratoire. Si quelqu'un pouvait trouver un remede, c'etait elle. Pendant des semaines, elle testa chaque combinaison de plantes, chaque extrait, chaque teinture. La lumiere bleutee du sol de Vesperis veillait avec elle, et les esprits de l'eau semblaient murmurer des encouragements dans la brume.
 

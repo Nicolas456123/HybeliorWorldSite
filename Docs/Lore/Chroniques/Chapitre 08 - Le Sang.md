@@ -200,17 +200,17 @@ J'ai glissé la lettre dans la sacoche intérieure, à côté du disque. Je n'av
 
 Je quitte Galenor demain.
 
-J'ai écrit cette phrase trois fois depuis ce matin, et à chaque fois elle me semble trop courte pour ce qu'elle contient. Galenor a été deux pays, deux façons opposées de comprendre le monde — la forêt qui respire et la pierre qui juge — et entre les deux, quelque chose a bougé en moi qui n'était pas là quand j'ai franchi la frontière venant de Tyndara.
+J'ai écrit cette phrase trois fois depuis ce matin, et à chaque fois elle me semble trop courte pour ce qu'elle contient. Galenor s'achève pour moi sur deux nations opposées, deux façons contraires de comprendre le monde — Trinoria la forêt qui respire, Valoria la pierre qui juge — et entre les deux, quelque chose a bougé en moi qui n'était pas là quand j'ai franchi la frontière au retour de Tyndara.
 
-Je compte : Kharazir, Lumasar, Ventera, Seraphia, Solena, Tyndara, et maintenant Galenor — Trinoria et Valoria. Sept pays. Soixante-quinze jours de landes de Galenor à compter de la frontière nord. Et avant ça, tout ce qui précède, toute cette accumulation de villes et de nuits et de gens rencontrés dans des circonstances variées — certains qui ont refusé de me parler, d'autres qui m'ont donné à manger sans raison apparente, d'autres encore qui m'ont appris quelque chose en croyant parler d'autre chose.
+Je compte : Kharazir, Lumasar, Ventera, Seraphia, Solena — cinq nations de Galenor à l'aller —, puis Tyndara sur le continent d'Onara, puis Trinoria et Valoria, les deux dernières nations galenoriennes, au retour. Huit pays. Soixante-quinze jours passés en terre galenorienne à compter l'aller et le retour, la traversée d'Onara mise à part. Et avant ça, tout ce qui précède, toute cette accumulation de villes et de nuits et de gens rencontrés dans des circonstances variées — certains qui ont refusé de me parler, d'autres qui m'ont donné à manger sans raison apparente, d'autres encore qui m'ont appris quelque chose en croyant parler d'autre chose.
 
 Ce soir, j'essaie de faire le bilan de l'Acte I, comme j'appelle cette première partie du voyage dans mon journal — le temps avant de traverser le Grand Détroit vers Alkaran.
 
-Ce que j'ai appris : que chaque pays est un argument sur ce que la vie devrait être. Kharazir arguait que la vie est administration et pluralisme. Lumasar qu'elle est connaissance et méthode. Ventera qu'elle est mouvement et liberté. Seraphia qu'elle est beauté et sacré, mais d'une beauté qui exclut ceux qui n'y participent pas. Solena qu'elle est mer et départ. Tyndara qu'elle est or et corruption. Et Galenor — Trinoria et Valoria — m'a dit deux choses contradictoires en même temps : que la vie est une forêt pleine d'esprits conscients, et que la vie est une loi gravée dans la roche.
+Ce que j'ai appris : que chaque pays est un argument sur ce que la vie devrait être. Kharazir arguait que la vie est administration et pluralisme. Lumasar qu'elle est connaissance et méthode. Ventera qu'elle est mouvement et liberté. Seraphia qu'elle est beauté et sacré, mais d'une beauté qui exclut ceux qui n'y participent pas. Solena qu'elle est mer et départ. Tyndara qu'elle est or et corruption. Et les deux dernières nations de Galenor m'ont dit, ensemble, deux choses contradictoires : Trinoria que la vie est une forêt pleine d'esprits conscients, Valoria qu'elle est une loi gravée dans la roche.
 
 Je n'arrive pas à décider laquelle des deux versions je préfère. Ce qui m'intéresse, c'est que je continue à poser la question.
 
-Je suis arrivé exilé — pas exilé de Kharazir seulement, mais de moi-même, d'une façon dont je n'avais pas les mots à l'époque. Un homme qui dessine des cartes parce qu'il ne sait pas où se trouver lui-même. Après sept pays, je ne sais toujours pas exactement où je me trouve. Mais je commence à avoir une meilleure idée de la forme du terrain.
+Je suis arrivé exilé — pas exilé de Kharazir seulement, mais de moi-même, d'une façon dont je n'avais pas les mots à l'époque. Un homme qui dessine des cartes parce qu'il ne sait pas où se trouver lui-même. Après huit pays, je ne sais toujours pas exactement où je me trouve. Mais je commence à avoir une meilleure idée de la forme du terrain.
 
 C'est déjà quelque chose. Pour un cartographe, c'est même beaucoup.
 

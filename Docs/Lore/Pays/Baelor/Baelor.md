@@ -88,7 +88,7 @@ Points essentiels pour Baelor :
 - Quelques manuscrits ont quitté l'île, **offerts** à des visiteurs jugés dignes ; aucun **vendu**. Les copies atteignent des prix élevés sur les marchés de Lumasar.
 
 ### Langage gestuel baelorien
-- L'une des langues les plus riches d'Hybélior. Codifié par les premiers Maîtres, transmis par démonstration sur des décennies.
+- L'une des langues les plus riches d'Hybelior. Codifié par les premiers Maîtres, transmis par démonstration sur des décennies.
 - **~800 signes principaux** (mots de base) et **plusieurs milliers de combinaisons** (locutions, nuances, modulations).
 - Porteurs de sens : inflexions du regard, position de la main par rapport au corps, lenteur du geste. Un Silentii avancé peut tenir une conversation d'une heure sans un mot.
 - Trois **niveaux de formalité** :
@@ -118,7 +118,7 @@ Points essentiels pour Baelor :
 - **La Salle du Silence** (sommet de Baeloris) : seule pièce **ouverte au ciel** ; lieu où l'Abbé Suprême reçoit les rares visiteurs.
 
 ### Biais culturels
-- **L'écoute comme seule mesure de l'humain** : un Bealorien évalue autrui par sa **capacité à écouter sans répondre**. La parole est tolérée, jamais valorisée.
+- **L'écoute comme seule mesure de l'humain** : un Baelorien évalue autrui par sa **capacité à écouter sans répondre**. La parole est tolérée, jamais valorisée.
 - **Le mépris doux pour les bavards** : les peuples bavards (Solena, Vytharia, Trinoria) ne sont pas méprisés mais **plaints**, avec une pitié polie ressentie comme insupportable par les intéressés.
 - **L'inversion de la pédagogie** : Baelor enseigne à écouter avant d'enseigner à se taire, et à se taire avant d'enseigner à parler.
 - **L'évitement du nom** : dans la conversation gestuelle, les pronoms gestuels (« cela », « quelque chose », « ce qui... ») sont fréquents et tenus pour plus exacts que les substantifs ; les substantifs trop précis sont jugés prétentieux. La doctrine baelorienne en devient **non transmissible par traduction**.
@@ -128,13 +128,13 @@ Points essentiels pour Baelor :
 
 ## Régions
 
-L'île n'est pas divisée administrativement : Baelor est une seule **région** au registre officiel (BaelorRegion, R140). Les Bealoriens distinguent toutefois plusieurs **secteurs** par usage.
+L'île n'est pas divisée administrativement : Baelor est une seule **région** au registre officiel (BaelorRegion, R140). Les Baeloriens distinguent toutefois plusieurs **secteurs** par usage.
 
-- **Baeloris-et-Falaise** (nord) : autour du complexe monastique de Baeloris et de la crique d'accostage ; deux tiers des moines y vivent. Pas de villes (seulement Baeloris). Quelques familles de pêcheurs dans la crique, en service d'amarrage et de menus échanges.
+- **Baeloris-et-Falaise** (nord) : autour du complexe monastique de Baeloris et de la crique d'accostage ; plus de la moitié des moines y vivent. Pas de villes (seulement Baeloris). Quelques familles de pêcheurs dans la crique, en service d'amarrage et de menus échanges.
 - **Thyldris-et-Promontoire** (est) : autour du monastère de Thyldris ; les Veilleurs y vivent en discipline particulière. Aucune famille civile ; promontoire strictement monastique.
 - **Tholmë-et-Marais** (sud) : secteur le plus peuplé en civils. La ville de Tholmë (seule à mériter ce nom) abrite un cloître, un atelier d'enluminure renommé, et la plus grande communauté de pêcheurs et saliniers de l'île.
 - **Velkadra-et-Dorsale** (centre-ouest) : replis de la dorsale ; plusieurs cloîtres mineurs dispersés, dont Velkadra (chef-lieu doctrinal du Premier Voile permanent). Quelques bergers de chèvres rocheuses.
-- **Sarun-et-Côte-Ouest** (ouest) : le plus discret. Cloître de Sarun (~30 Silentii), tourné vers l'écoute des grottes marines. C'est dans ce secteur, dans une grotte non identifiée de la côte ouest, que **Hesvar de Tholmë** vécut treize ans de retrait.
+- **Sarun-et-Côte-Ouest** (ouest) : le plus discret. Cloître de Sarun (~60 Silentii), tourné vers l'écoute des grottes marines. C'est dans ce secteur, dans une grotte non identifiée de la côte ouest, que **Hesvar de Tholmë** vécut treize ans de retrait.
 - **Olfra-et-Hauteurs** (central) : le plus inhabité. Cloître d'Olfra, le plus haut de l'île, dans un repli de la dorsale atteint par un sentier que la brume cache trois jours sur quatre. Variante extrême du Second Voile (geste minimisé) ; ravitaillé en fromage, sel et herbes par les bergers du plateau, qui repartent sans voir personne.
 
 ---
@@ -160,19 +160,19 @@ Seul établissement non strictement monastique ressemblant à une ville ; sur la
 - Particularités : Plus grand atelier d'enluminure de l'île · Marais salants · Bibliothèque centrale du Premier Voile (officieuse) · Niche conservant la **lamelle non scellée d'Hesvar**
 
 ### Velkadra — Cloître de la dorsale ouest
-Cloître creusé dans le flanc oriental de la dorsale, à l'abri du brouillard permanent ; l'un des deux centres doctrinaux du Premier Voile permanent. Sa bibliothèque conserve les correspondances entre cloîtres minoritaires des quatre derniers siècles (corpus que ni Baeloris ni Tholmë ne possèdent en entier). Fondé au tournant du IIe siècle du Sillage par des Silentii ayant refusé collectivement le Second Voile ; leurs successeurs pratiquent toujours le Premier Voile permanent.
+Cloître creusé dans le flanc oriental de la dorsale, à l'abri du brouillard permanent ; l'un des deux centres doctrinaux du Premier Voile permanent. Sa bibliothèque conserve les correspondances entre cloîtres minoritaires des quatre derniers siècles (corpus que ni Baeloris ni Tholmë ne possèdent en entier). Fondé quelques siècles après Baeloris par des Silentii ayant refusé collectivement le Second Voile ; leurs successeurs pratiquent toujours le Premier Voile permanent.
 - Population : ~250 (Silentii ~180, apprentis ~70)
 - Région : BaelorRegion
 - Particularités : Bibliothèque des correspondances minoritaires · Atelier d'enluminure spécialisé dans les textes brefs · Pratique du Premier Voile permanent
 
 ### Sarun — Cloître de la côte ouest
-Petit cloître sur la côte ouest, au-dessus d'une grotte marine longue et profonde. Discipline particulière : l'écoute des grottes à marée descendante (sons produits par l'air s'échappant des cavités), tenus pour la **voix la moins déformée** des falaises de Baelor (opinion ni contredite ni validée par Baeloris). Fondé ~trois siècles après Baeloris par un Veilleur de Thyldris venu chercher sur la côte ouest un son entendu depuis la mer ; à l'origine de la pratique d'écoute des grottes (son nom n'a pas été conservé).
+Petit cloître sur la côte ouest, au-dessus d'une grotte marine longue et profonde. Discipline particulière : l'écoute des grottes à marée descendante (sons produits par l'air s'échappant des cavités), tenus pour la **voix la moins déformée** des falaises de Baelor (opinion ni contredite ni validée par Baeloris). Fondé pendant l'Ère Contemplative, dans les deux siècles suivant la Défense de Kethros (donc après la fondation de Thyldris), par un Veilleur de Thyldris venu chercher sur la côte ouest un son entendu depuis la mer ; à l'origine de la pratique d'écoute des grottes (son nom n'a pas été conservé).
 - Population : ~80 (Silentii ~60, apprentis ~20)
 - Région : BaelorRegion
 - Particularités : Grotte de la Marée Sourde · Pratique d'écoute marine · Plus haute proportion de Veilleurs Permanents de l'île (~15 %)
 
 ### Olfra — Cloître des hauteurs
-Cloître le plus haut, le plus reculé et le plus discret de l'île ; dans un repli de la dorsale atteint par un sentier de bruyère que la brume cache trois jours sur quatre. Variante extrême du Second Voile où même le geste est minimisé ; visiteurs reçus par regard seul. Fondé au IVe siècle du Sillage par sept Silentii considérant que **le geste lui-même était devenu une parole** ; subsiste à effectifs réduits, ravitaillé en sel et fromage par les bergers du plateau.
+Cloître le plus haut, le plus reculé et le plus discret de l'île ; dans un repli de la dorsale atteint par un sentier de bruyère que la brume cache trois jours sur quatre. Variante extrême du Second Voile où même le geste est minimisé ; visiteurs reçus par regard seul. Fondé plusieurs siècles avant le Sillage actuel par sept Silentii considérant que **le geste lui-même était devenu une parole** ; subsiste à effectifs réduits, ravitaillé en sel et fromage par les bergers du plateau.
 - Population : ~50 (Silentii ~45, apprentis ~5)
 - Région : BaelorRegion
 - Particularités : Geste minimal · Aucun visiteur étranger jamais accepté · Bibliothèque inexistante (l'écriture y est tenue pour un geste différé)
@@ -188,7 +188,7 @@ Le long des côtes ouest et sud : une douzaine de hameaux de pêcheurs et salini
 |------|----------|---------|
 | **Tyndara** | Non-agression tacite et commerce limité | Les navires tyndariens respectent les eaux de Baelor. Commerce de sel, riz et fer via Tholmë. Aucune tension significative depuis trois siècles. |
 | **Caeloria (Lunasar)** | Reconnaissance silencieuse | Les oracles de Caeloria reconnaissent une parenté lointaine entre la pratique des Enfants aux Yeux Blancs et l'écoute baelorienne. Échanges de manuscrits enluminés (offerts, jamais vendus) ~deux fois l'an. Aucun contact officiel. |
-| **Nysaria** | Curiosité réciproque, discrète | Intérêt partagé pour le silence et l'écoute. Aucun contact officiel. Rumeurs persistantes de passages secrets de moines entre Baelor et Vytharia, jamais confirmées. La fréquence ressentie par Sorin à Baeloris (cf. ch. 36) suggère que les deux îles partagent quelque chose d'antérieur aux moines. |
+| **Nysaria** | Curiosité réciproque, discrète | Intérêt partagé pour le silence et l'écoute. Aucun contact officiel. Rumeurs persistantes de passages secrets de moines entre Baelor et Nysaria, jamais confirmées. La fréquence ressentie par Sorin à Baeloris (cf. ch. 36) suggère que les deux îles partagent quelque chose d'antérieur aux moines. |
 | **Ulinor** | Indifférence | Aucun contact significatif. Les tribus d'Ulinor ignorent l'existence de Baelor. |
 | **Solena, Lumasar, Astravia, Vytharia** | Tolérance des retraites payantes | Quelques nobles fortunés font des "retraites de silence" payantes dans certains cloîtres de Tholmë et Velkadra. Pratique tolérée et controversée. (cf. *Tensions internes*) |
 | **Cestra** | Aucun contact | Froid au nord ; les routes maritimes nord ne passent pas par Baelor. |
@@ -227,4 +227,4 @@ Le long des côtes ouest et sud : une douzaine de hameaux de pêcheurs et salini
 - **La Carte des Cairns** : sur le plateau central (Voile bas), une trentaine de cairns marquent des passages anciens d'origine inconnue. Entretenus par les bergers (chacun replace la pierre tombée dans l'année), sans discussion. Une carte précise dressée par un berger de la fin du IIe siècle existerait, conservée dans une cache de la dorsale ; jamais consultée publiquement. Quelques moines d'Olfra la détiendraient.
 - **Le Moine Parlant** : à Baeloris, depuis plus d'un siècle, rumeur selon laquelle **un moine brise secrètement son vœu de silence**, murmurant chaque nuit des prières dans une langue inconnue. Récit le plus complet : **Histoire de Frère Ossian** (cf. *Histoires de Baelor — Le Murmure du Traître*). Possédé ou prophète selon les avis. L'Abbé Kethron VI a refusé qu'on l'amène devant la Salle Scellée (raison inconnue).
 - **L'Arme Ultime** : art martial secret enseigné aux seuls moines de rang supérieur — tuer **par l'absence de son** (vide acoustique parfait autour de la tête de l'adversaire, désorientation fatale). Utilisée trois fois dans l'histoire de Baelor (deux pendant la Défense du Monastère de Kethros, une dans une circonstance non rapportée). Transmission strictement orale-gestuelle, aucun manuscrit.
-- **Le Vieux Moine Aux Cheveux Blancs** : accompagnateur de Sorin Valthen lors de ses cinq jours à Baeloris (cf. ch. 36 des Chroniques) ; nommé dans aucune source, inconnu même de l'interprète Sera. Spéculation externe : Silentii très ancien, peut-être l'aîné survivant des **Veilleurs Permanents** du Souffle des Yeux Ouverts (an 234), ce qui en ferait un homme proche de 120 ans. Geste fait à Sorin sur le chemin du quai : « Revenez quand vous aurez lu la troisième langue ».
+- **Le Vieux Moine Aux Cheveux Blancs** : accompagnateur de Sorin Valthen lors de ses cinq jours à Baeloris (cf. ch. 36 des Chroniques) ; nommé dans aucune source, inconnu même de l'interprète Sera. Spéculation externe : Silentii très ancien — un homme proche de 120 ans —, peut-être l'aîné survivant des **Veilleurs Permanents** du Souffle des Yeux Ouverts (an 234) ; s'il l'était, il aurait déjà été un moine d'âge mûr lors de cet épisode, dix-sept ans avant le présent. Geste fait à Sorin sur le chemin du quai : « Revenez quand vous aurez lu la troisième langue ».

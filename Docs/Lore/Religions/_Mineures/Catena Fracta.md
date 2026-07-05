@@ -26,7 +26,7 @@ Voir l'arbre complet et le contexte généalogique dans [[_Histoire des Religion
 
 ## Origine
 
-Catena Fracta émerge à la fin de l'Ère VI (~6 000 ap.A) comme **dissidence radicale** au sein du courant Verithanien. Quand les Verithani modérés (qui voient dans l'Arrachement une « nécessité douloureuse ») refusent de passer à l'action politique, des extrémistes décident que la **voie philosophique ne suffira pas**.
+Catena Fracta émerge au milieu de l'Ère VI (~6 000 ap.A) comme **dissidence radicale** au sein du courant Verithanien. Quand les Verithani modérés (qui voient dans l'Arrachement une « nécessité douloureuse ») refusent de passer à l'action politique, des extrémistes décident que la **voie philosophique ne suffira pas**.
 
 L'organisation existe sous différents noms pendant des siècles avant d'adopter le nom **Catena Fracta** au début du Sillage. Première mention documentée : ~9 750 ap.A dans les archives de Kharazir.
 
@@ -114,7 +114,7 @@ La religion (ou le mouvement) reste **petite en nombre** mais difficile à érad
 ## Relations avec les autres religions
 
 **Ennemi déclaré ou opposé par toutes les 9 grandes religions et les religions mineures.** Cas particuliers :
-- **Noctari** : surveillance, pas hostilité ouverte (cf. [[../Noctari]] §Position)
+- **Noctari** : surveillance, pas hostilité ouverte (cf. [[../Noctari]], doctrine de tolérance — « il n'y a presque rien qu'il refuse »)
 - **Somnium Vigil** : tentative de dialogue, pas persécution (cf. [[../Somnium Vigil]] §Position)
 - **Taciti** : dialogue prudent
 

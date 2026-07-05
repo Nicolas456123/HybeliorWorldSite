@@ -21,13 +21,13 @@ needs_review_for: []
 
 **An 134 — Canonisation officielle de Veska.** Récupération doctrinale.
 
-**An 150-250 — Stabilité institutionnelle.** Sept Grands Chams successifs (la dernière étant Nareth la Sage, environ 220-actuel). Tensions tribales constantes mais sans guerre ouverte. Schisme rampant entre la tribu des Flammes et la Grande Chamane (accusation de favoritisme envers les Murmures). Glissement économique : transmission croissante du travail de récitation des familles pauvres aux Tisseuses extérieures, contre paiement.
+**An 150-250 — Stabilité institutionnelle.** Sept Grands Chams successifs (la dernière étant Nareth la Sage, depuis ~205). Tensions tribales constantes mais sans guerre ouverte. Schisme rampant entre la tribu des Flammes et la Grande Chamane (accusation de favoritisme envers les Murmures). Glissement économique : transmission croissante du travail de récitation des familles pauvres aux Tisseuses extérieures, contre paiement.
 
 **An 198 — Mort de Mirhan.** Le plus ancien chaman d'Olkanoris meurt en pleine récitation. Avant sa mort, il a découvert que le nom personnel de Zarek est perdu. Sa découverte est consignée par son apprentie Seyda et reste une donnée chamanique privée. La leçon qu'il transmet — *« recite les noms, pas les histoires »* — devient un précepte de formation.
 
 **An 220-250 — Apparitions des Quarante-Sept Tentes.** Chaque année, à la même période, hors saison de Conseil, quarante-sept tentes spectrales se dressent dans la cuvette d'Olkanor. Davan, gardien d'Olkanor, et la Grande Chamane Nareth identifient en 232 le phénomène comme manifestation de la treizième tribu effacée. Le nom à prononcer pour les libérer est inconnu.
 
-**An 252 — Présent.** Tensions avec la tribu des Flammes en hausse. Aucun voyageur étranger d'envergure n'a traversé Torkam récemment ; Sorin Valthen ne s'y est pas rendu directement (il n'est passé que par Tanolies, Altram, sur la frontière nord-ouest).
+**An 252 — Présent.** Tensions avec la tribu des Flammes en hausse. Sorin Valthen a traversé Torkam en venant de Myrtam : entré par les hautes plaines, il a voyagé avec la caravane de Yalnis jusqu'à Faldor, puis gagné Olkanoris — où la Grande Chamane Nareth l'a reçu — et poussé jusqu'à Valdarin, dans le désert de Qythros, avant de repartir vers Ulinor (Skaldoria).
 
 **Personnages historiques nommés :**
 - **Zarek l'Unificateur** — premier Grand Cham, ~-30 à 0 (fondation et règne)
@@ -451,7 +451,7 @@ Ashkar mourut de vieillesse quinze ans plus tard. Noria l'enterra dans le sable 
 
 ## Myrthoris — « Les Doigts de l'Esprit »
 
-Le cercle de menhirs de Myrthoris etait le site le plus sacre de Torkam apres le Sanctuaire de la Premiere Enclume a Namyr. Six pierres dressees, hautes comme trois hommes, disposees en cercle parfait au sommet d'une colline battue par les vents. Les chamans de la tribu des Pierres affirmaient que c'etaient les doigts petrifies d'un ancien esprit, fige dans la roche au moment de sa mort.
+Le cercle de menhirs de Myrthoris etait l'un des sites les plus sacres de Torkam. Six pierres dressees, hautes comme trois hommes, disposees en cercle parfait au sommet d'une colline battue par les vents. Les chamans de la tribu des Pierres affirmaient que c'etaient les doigts petrifies d'un ancien esprit, fige dans la roche au moment de sa mort.
 
 Seul le Grand Cham pouvait y penetrer.
 

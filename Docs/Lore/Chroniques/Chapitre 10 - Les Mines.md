@@ -8,7 +8,7 @@ needs_review_for: []
 # Chapitre 10 — Les Mines Silencieuses
 
 > *« Un mur peut être brisé. Une montagne peut être creusée. Mais la volonté d'Iskara est forgée dans le fer et le feu — elle ne plie jamais. »*
-> — Maréchal Valdrik, Commandant suprême de la Porte de Fer
+> — Maréchal Veldrik II, Commandant suprême de la Porte de Fer
 
 **Alkaran — Iskara, région de Glintar | Ferrath, hauts plateaux**
 **Jour 158**
@@ -87,7 +87,7 @@ Ce n'était pas une question. Je lui demandai comment il le savait.
 
 Il dit cela sans ostentation, avec une précision factuelle qui était clairement de la culture professionnelle plutôt que du bavardage. Baret Sorn savait ce qu'il savait parce que c'était son travail de le savoir, et il le disait parce que c'était pertinent, pas pour impressionner.
 
-Nous mangeâmes ensemble — ou plutôt nous mangeâmes à la même table, ce qui en Iskara revient à manger ensemble. On nous servit un plat que j'avais déjà croisé en chemin : viande séchée dans les courants d'air des tunnels, dure, saline, d'un goût intense et économique, accompagnée de pain noir et d'un fromage pressé sous des blocs de pierre qui avait la densité de quelque chose qui avait refusé d'être mou sous la pression et avait eu raison. La bière de Galdar — le vin de montagne de l'armée iskaran que les civils buvaient aussi, mélangé à l'eau des puits pour la purifier selon une habitude si ancienne qu'elle était devenue coutume gastronomique.
+Nous mangeâmes ensemble — ou plutôt nous mangeâmes à la même table, ce qui en Iskara revient à manger ensemble. On nous servit un plat que j'avais déjà croisé en chemin : viande séchée dans les courants d'air des tunnels, dure, saline, d'un goût intense et économique, accompagnée de pain noir et d'un fromage pressé sous des blocs de pierre qui avait la densité de quelque chose qui avait refusé d'être mou sous la pression et avait eu raison. Le vin de Galdar — le vin de montagne de l'armée iskaran que les civils buvaient aussi, mélangé à l'eau des puits pour la purifier selon une habitude si ancienne qu'elle était devenue coutume gastronomique.
 
 Baret parla peu pendant le repas. Mais après la bière, il parla davantage — non pas sous l'effet de la bière, les Iskarans ne s'enivrent pas au point de perdre la mesure de leurs mots, mais parce que quelque chose dans ma façon d'écouter lui sembla digne de confiance. C'est quelque chose que j'ai appris dans ce voyage : les gens parlent non pas quand vous les interrogez mais quand ils décident que vous méritez ce qu'ils savent. Forcer l'interrogatoire donne des réponses de surface. La patience donne les profondeurs.
 
@@ -105,7 +105,7 @@ Un silence. Pas de la réticence — de la formulation. Baret cherchait les mots
 
 « Parce que les mineurs ont commencé à entendre des choses. »
 
-Il ajouta, après un autre silence — non pas sur ma demande, mais parce que le nom appartenait à ce qu'il venait de dire et qu'il ne voulait pas le laisser pour plus tard : « Il y avait Jessen. Mineur de Myrilith, comme moi. Pas plus jeune, pas plus vieux. Il a forcé une barricade, en bas. Il a posé les mains à plat sur quelque chose qu'il n'aurait pas dû toucher. Il est remonté. Il a parlé à sa femme — Mira. Trois mots, dans une voix qui n'était pas la sienne : *Elle arrive.* » Il regarda le fond de son gobelet. « Il est mort le lendemain. On a fermé la galerie la semaine d'après. »
+Il ajouta, après un autre silence — non pas sur ma demande, mais parce que le nom appartenait à ce qu'il venait de dire et qu'il ne voulait pas le laisser pour plus tard : « Il y avait Jessen. Mineur de Myrilith, comme moi. Pas plus jeune, pas plus vieux. On avait scellé une galerie, en bas, des années plus tôt — un ordre du Conseil, personne ne discutait. Lui, il n'a jamais oublié ce qu'il y avait derrière. Un jour, il a forcé les barricades avec ses propres outils. On l'a retrouvé assis devant la porte, les mains à plat sur le métal, les yeux ouverts et vides. Vivant, mais absent. Il n'a plus jamais parlé. » Il regarda le fond de son gobelet. « Il a tenu comme ça longtemps, à l'infirmerie. Sa femme — Mira — venait chaque jour. Il ne réagissait pas. Jusqu'au jour où elle a parlé de la porte. Alors il a tourné la tête vers elle et il a dit, trois mots, dans une voix qui n'était pas la sienne : *Elle arrive.* Puis il a fermé les yeux, et c'était fini. »
 
 Je notai. Je n'ai pas demandé qui *elle* désignait. Baret n'aurait pas répondu et la question, à ce stade, n'aurait été qu'une façon de combler l'espace que ces trois mots avaient ouvert.
 
@@ -191,7 +191,7 @@ Je m'arrêtai devant quelque chose qui n'était pas dans mes relevés et dont pe
 
 Une porte.
 
-Pas une porte de mine — pas une herse ou un panneau de sécurité. Une porte dans la roche elle-même, taillée, encadrée d'un jambage que la roche avait accepté comme si on la lui avait proposée plutôt qu'imposée. Un métal que je ne reconnus pas — ni le fer commun de Myrilith, ni le fer noir, ni l'Acier Éternel d'Altram. Sa surface était froide au regard, froide à distance, avec la même iridescence subtile que le Fragment Zéro des Archives de Trelios, ce bleu très faible qui disparaissait quand on cherchait à le fixer et revenait dans la vision périphérique.
+Pas une porte de mine — pas une herse ou un panneau de sécurité. Une porte dans la roche elle-même, taillée, encadrée d'un jambage que la roche avait accepté comme si on la lui avait proposée plutôt qu'imposée. Un métal que je ne reconnus pas — ni le fer commun de Myrilith, ni le fer noir, ni l'acier royal d'Altram. Sa surface était froide au regard, froide à distance, avec la même iridescence subtile que le Fragment Zéro des Archives de Trelios, ce bleu très faible qui disparaissait quand on cherchait à le fixer et revenait dans la vision périphérique.
 
 Je ne la touchai pas.
 
@@ -231,7 +231,7 @@ Les tunnels sous Kharazir que j'avais cartographiés et qui avaient provoqué mo
 
 Je ne savais pas encore ce que ces choses avaient en commun. Je savais qu'elles avaient quelque chose en commun, avec la certitude sourde et pré-intellectuelle que l'on ressent quand plusieurs faits disparates cherchent à former une phrase que l'on n'a pas encore les mots pour lire. Le cartographe en moi voulait les tracer sur une carte — chaque phénomène comme un point, et tirer des lignes entre les points pour voir si une figure émergeait. La figure émergerait ou non. Mais au moins la tentative de la tracer produirait quelque chose de plus lisible que l'accumulation informe des impressions.
 
-Ce soir-là, dans la salle commune de l'auberge du bourg extérieur, avec Baret Sorn en face de moi et la bière de Galdar mélangée à l'eau froide du puits entre les deux gobelets de fer, je lui parlai de la porte.
+Ce soir-là, dans la salle commune de l'auberge du bourg extérieur, avec Baret Sorn en face de moi et le vin de Galdar mélangé à l'eau froide du puits entre les deux gobelets de fer, je lui parlai de la porte.
 
 Il ne montra aucune surprise. Il but une gorgée de bière. Puis : « Je sais quelle porte vous avez vue. »
 

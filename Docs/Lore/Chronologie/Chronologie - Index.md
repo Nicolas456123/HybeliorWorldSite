@@ -11,10 +11,10 @@ needs_review_for: [validation-V4-cohérence-finale]
 ## Calendrier hybride — D-COSMO-1 (refonte 2026-04-30)
 
 > [!important] Deux référentiels coexistent
-> - **Calendrier officiel du jeu (GDD/24) :** le présent = **An 251 du Sillage**. L'**Arrachement** = -250 du Sillage. Les ères pré-Sillage GDD couvrent ~3 000 ans (Ère Primordiale → Ère de l'Alliance → Ère des Trois Royaumes → Ère du Grand Silence → Sillage). C'est le référentiel canon pour la **partie jouée**.
+> - **Calendrier officiel du jeu (GDD/24) :** le présent = **An 251 du Sillage**. L'**Arrachement** = An 0 du Sillage — le Sillage *est* la trace qui suit l'Arrachement, il se compte donc depuis lui. Les ères pré-Sillage GDD couvrent ~3 000 ans (Ère Primordiale → Ère de l'Alliance → Ère des Trois Royaumes → Ère du Grand Silence → Sillage). C'est le référentiel canon pour la **partie jouée**.
 > - **Calendrier interne au Lore (Mémoire d'Astravie) :** l'**An 0** = l'Arrachement. Mesuré en milliers d'années avant ou après. Les ères Lore I-VII couvrent ~45 000 ans + Sillage. C'est le référentiel canon pour l'**histoire profonde**, préservée principalement par les bibliothécaires d'Astravia.
 >
-> **Conversion :** -250 du Sillage = An 0 ap.A = jour de l'Arrachement. An 251 du Sillage = ~10 200 ap.A pour les Astraviens (qui comptent le temps profond) ou ~ +250 pour les nations modernes (qui comptent le temps vécu).
+> **Conversion :** An 0 du Sillage = An 0 ap.A = jour de l'Arrachement. An 251 du Sillage = ~10 200 ap.A pour les Astraviens (qui comptent le temps profond) ou ~ +250 pour les nations modernes (qui comptent le temps vécu).
 >
 > **Lecture canonique :** la majorité des civilisations actuelles n'ont conscience que des ~250 dernières années (Sillage). Le reste est mythifié, oral, ou conservé seulement par Astravia. Les Eras Lore antérieures à l'Arrachement (0, I, II, III) sont **Mémoire d'Astravie** ; l'Arrachement (IV) est l'événement charnière ; les Eras V-VI sont des **strates de civilisation** que les nations actuelles ne se rappellent que par fragments ; l'Ère VII = le Sillage vécu.
 
@@ -38,7 +38,7 @@ Les datations en milliers d'années sont des estimations rituelles dans la Mémo
 | II — L'Éveil des Mortels | ~45 000 → ~20 000 av.A | Avant-Mémoire / Ère Primordiale (Premier Don) | [[Era 2a - Les Berceaux]] · [[Era 2b - Grand Gel et Reconstruction]] |
 | III — L'Âge du Lien | ~20 000 → An 0 | Ère de l'Alliance + Ère des Trois Royaumes + Ère du Grand Silence | [[Era 3a - Le Lien et les Empires]] · [[Era 3b - Religions Verithan et la Chute]] |
 | **III tardif** | ~-1 500 av.A | **Souffle Cardinal dit « de la Fracture »** (lecture *Rota Mundi* : Tempora se blesse — phase 1 d'un phénomène en trois temps ; lectures concurrentes existent) | [[Era 3a - Le Lien et les Empires]] §Fracture |
-| IV — L'Arrachement | An 0 (= 0 av.A / 0 ap.A) | **Souffle Cardinal de l'Arrachement** = -250 du Sillage (lecture *Rota Mundi* : phase 2) | [[Era 4 - L'Arrachement]] |
+| IV — L'Arrachement | An 0 (= 0 av.A / 0 ap.A) | **Souffle Cardinal de l'Arrachement** = An 0 du Sillage (lecture *Rota Mundi* : phase 2) | [[Era 4 - L'Arrachement]] |
 | V — La Grande Nuit | An 0 → ~3 000 ap.A | Strate de civilisation (Mémoire mythifiée — non vécue par les nations actuelles) | [[Era 5 - La Grande Nuit]] |
 | VI — L'Ère des Nations | ~3 000 → ~9 500 ap.A | Strate de civilisation (Mémoire mythifiée) | [[Era 6 - L'Ère des Nations]] |
 | VII — Le Monde Actuel | ~9 500 → 10 200 ap.A | **Le Sillage** (vécu humain, ~250 ans) | [[Era 7 - Le Monde Actuel]] |
@@ -53,7 +53,7 @@ Les datations en milliers d'années sont des estimations rituelles dans la Mémo
 |----------|-----------|--------------|----------|--------------------------------------|
 | **Premier Don** | ~Ère I/II | Ère Primordiale | Era I-II | Les chroniques rapportent l'apparition du Lien chez les mortels — nommé *Pacte du Premier Don* (texte introuvable). Aucun consensus sur la cause. |
 | **Fracture (dite « de Tempora »)** | ~-1 500 av.A | ~-1 500 du Sillage | Era III (transition Empires) | Premières Failles du Temps observées. Lecture *Rota Mundi* : Tempora se serait blessée (phase 1 d'un phénomène en trois temps). D'autres traditions y voient une dissonance polyphonique sans blessure d'entité. |
-| **Arrachement** | An 0 | -250 du Sillage | Era IV | Nom mortel donné au Cardinal observé. Lectures associées : Navigor s'absente du chant, Eldoria devient silencieuse, Tempora paraît rouvrir sa blessure (phase 2 *Rota Mundi*), Celestia-Noctis se déséquilibrent dans les rites — naissance documentée des sevrés volontaires (futurs Déliés), 17 Brèches du Néant + Cratères du Cardinal observés (canon GDD/26). Aucune chaîne causale n'est établie. |
+| **Arrachement** | An 0 | An 0 du Sillage | Era IV | Nom mortel donné au Cardinal observé. Lectures associées : Navigor s'absente du chant, Eldoria devient silencieuse, Tempora paraît rouvrir sa blessure (phase 2 *Rota Mundi*), Celestia-Noctis se déséquilibrent dans les rites — naissance documentée des sevrés volontaires (futurs Déliés), 17 Brèches du Néant + Cratères du Cardinal observés (canon GDD/26). Aucune chaîne causale n'est établie. |
 
 > [!important] Fléau / Fracture / Arrachement — lecture en trois phases (Rota Mundi)
 > Le *Rota Mundi* et plusieurs traditions érudites altramites lisent la **Fracture (~-1 500)**, l'**Arrachement (An 0)** et le **Fléau des Failles (~1 400-1 600 ap.A)** comme **trois phases d'un même phénomène cosmique long** — une blessure de Tempora qui s'ouvre, se rouvre et tente de cicatriser sur trois Ères. Cette lecture en trois phases est dominante chez les bibliothécaires Rota Mundi, **mais elle n'est pas universelle** : les *Vael'Kurash* y voient trois reconfigurations distinctes de la Polyphonie sans lien causal nécessaire ; les *Caelumites* les rattachent à l'« Étranger des Heures » ; les *Noctari* y voient des trahisons internes différentes ; les *Foedus Animae* parlent d'une *résonance des âmes* dont les Failles ne seraient qu'un symptôme local ; les **Déliés** y lisent trois manifestations d'une même prison consentie qui se fissure ; les **Verithani Endeuillés** refusent toute lecture unifiante. Aucune lecture n'a fait consensus. Voir [[Era 4 - L'Arrachement]] §"Lecture Rota Mundi" et [[Era 5 - La Grande Nuit]] §"Le Fléau des Failles comme troisième phase".
@@ -99,7 +99,7 @@ Trois individus formalisent le **Lien** indépendamment (~20 000 av.A) : **Orvan
 5. **Lecture Déliée (Catena Fracta proto-)** — chaîne consentie qui s'est libérée d'elle-même
 6. **Scission interne (Verithani schismatiques + lectures orales d'Alkaran)** — convergence de causes sans agent unique
 
-Aucune n'a force de fait causal. Ce qui est documenté : 7 cités volantes s'écrasent (chute lue diversement selon les traditions), 200 portails ferment, **Navoria** (capitale de la Thalassocratie) est engloutie en 3 jours, le Mont Cendra est remodelé par une éruption majeure, le **Gouffre d'Endora** s'ouvre. **17 Brèches du Néant** majeures + **Cratères du Cardinal** sur tous les continents (canon GDD/26). Population : 120M → ~90M en quelques années → ~60-70M en Ère V phase 2.
+Aucune n'a force de fait causal. Ce qui est documenté : 7 cités volantes s'écrasent (chute lue diversement selon les traditions), 200 portails ferment, **Navoria** (capitale de la Thalassocratie) est engloutie en ~40 minutes (au cours des 7 heures de l'Arrachement), le Mont Cendra est remodelé par une éruption majeure, le **Gouffre d'Endora** s'ouvre. **17 Brèches du Néant** majeures + **Cratères du Cardinal** sur tous les continents (canon GDD/26). Population : 120M → ~90M en quelques années → ~60-70M en Ère V phase 2.
 
 **Lectures dominantes des effets cosmiques observés :**
 - **Navigor cesse d'être atteignable** — desservants de Transitum rapportent que les chemins entre les mondes paraissent refermés ; apparition documentée des **Errants**. Lectures : *Via Ventus* (« âmes sans guide »), *Caelumites* (« retrait »), *Vael'Kurash* (« présence devenue invisible »). Plusieurs traditions débattent.
@@ -123,7 +123,7 @@ Trois royaumes intermédiaires : **Tharnok** (Alkaran), **Forgon** (Onara/Azoria
 
 ### Ère VI — L'Ère des Nations
 
-7 guerres majeures façonnent les frontières. **38+ nations** émergent — toutes comme **îlots de civilisation** ; aucune ne couvre intégralement son continent. Guildes transnationales, systèmes monétaires, routes commerciales tenues. **Failles stables résiduelles** persistent (Plaine de Gryndor, delta sud d'Onara, forêts d'Ilthara, vallées d'Alkaran, côtes de Celethor). La **Cristallisation** (~8 000 → ~9 500 ap.A) stabilise les **frontières tenues** — pas le contrôle effectif des continents.
+7 guerres majeures façonnent les frontières. **36 nations** émergent — toutes comme **îlots de civilisation** ; aucune ne couvre intégralement son continent. Guildes transnationales, systèmes monétaires, routes commerciales tenues. **Failles stables résiduelles** persistent (Plaine de Gryndor, delta sud d'Onara, forêts d'Ilthara, vallées d'Alkaran, côtes de Celethor). La **Cristallisation** (~8 000 → ~9 500 ap.A) stabilise les **frontières tenues** — pas le contrôle effectif des continents.
 
 L'Ère des Nations a tenté plusieurs projets diplomatiques transcontinentaux — **aucun n'a abouti à un instrument unifié**. Les nations restent souveraines, méfiantes, liées par des accords bilatéraux ou pactes régionaux fragmentaires. Les chancelleries de Lumasar et de Caeloria ont produit des chartes dont l'écho se limite à leur cœur d'influence (Galenor, Endora, Azoria et fragments d'Ilthara et d'Alkaran) ; Cestra, Vytharia, Cendara, Ulinor n'ont jamais été parties à ces démarches. La diplomatie de l'Ère VI tardive est faite de **conférences sans suite, de pactes commerciaux à courte portée et de paix séparées** que la postérité range sous l'étiquette commode mais trompeuse de « concert des nations ».
 
@@ -148,7 +148,7 @@ Le clivage **non-Liés / Liés** (D-COSMO-3 : "non-Lié" pour la majorité démo
 | Anomalie | Observation | Lectures principales |
 |----------|-------------|----------------------|
 | **Enfants aux Yeux Blancs** | Naissances rares dans plusieurs régions, yeux entièrement blancs, perceptions atypiques | *Ignis Aeternum* : Eldoria s'éveille via eux · *Ordo Caelum* : signaux de Stellaris · *Catena Fracta* : sevrage natal · *Cendariens* : rattachement à *Flamara* (rumeur populaire) |
-| **Mont Cendra — Pulsation Accélérée** | Pulsations rythmées depuis ~9 900 ; fréquence en accélération | *Ignis Aeternum* : réveil d'Eldoria · *Cosmologistes Lumasar* : résonance avec le Mont Jumeau (mythe cestarien) · *Vael'Ur* (tradition druidique evertienne marginale) : dialogue entre une « Profondeur Première » et le Mont · *Catena Fracta* : absence d'entité qui résonne dans le vide |
+| **Mont Cendra — Pulsation Ralentie** | Pulsations rythmées depuis ~9 900 ; fréquence en décélération lente (intervalle qui s'allonge) | *Ignis Aeternum* : réveil d'Eldoria · *Cosmologistes Lumasar* : résonance avec le Mont Jumeau (mythe cestarien) · *Vael'Ur* (tradition druidique evertienne marginale) : dialogue entre une « Profondeur Première » et le Mont · *Catena Fracta* : absence d'entité qui résonne dans le vide |
 | **Étoiles mouvantes** (Couronne, Voyageur, Manteau) | Mouvements stellaires inhabituels rapportés par les observatoires | *Ordo Caelum* : Stellaris se reconfigure · *Cercles de Rêves Vytharia* : « les étoiles s'écartent pour laisser passer quelque chose » · *Rota Mundi* : Tempora se rétablit ou se blesse à nouveau (débat interne) |
 | **Failles possiblement mobiles** | Témoignages de Failles ayant changé de position en quelques heures (Alkaran, Onara) | *Rota Mundi* : phase 4 hypothétique du phénomène trois-temps · *Vael'Kurash* : modulation polyphonique sans causalité · sceptiques : témoins isolés, observation à confirmer |
 | **8e Éternel — Folklore** | Chants kharaziens et folklore lumasarien évoquent un *Huitième Éternel* | **Aucune source canonique majeure ne corrobore.** Hypothèse parallèle au « Sixième Éternel » mentionné par certains textes Ère II tardive (Vacuus, l'Innommé, le Résidu — voir [[Era 0 - Le Vide]] §"Contradictions entre sources"). À traiter comme **rumeur in-world non confirmée** alimentant le débat, jamais comme fait acquis. |
@@ -162,7 +162,7 @@ Le clivage **non-Liés / Liés** (D-COSMO-3 : "non-Lié" pour la majorité démo
 | # | Nom | Date | Cause invoquée (lecture dominante) | Survivants |
 |---|-----|------|------------------------------------|------------|
 | 1 | **Le Grand Gel** | ~30 000 av.A | Lecture *Rota Mundi* : cycle climatique long de Climata. Lectures alternatives : retournement naturel (*Vael'Kurash*), deuil du monde (Voix-sous-Bois) | ~27% (~73% éliminés) |
-| 2 | **L'Arrachement** | An 0 (-250 Sillage) | Souffle Cardinal observé. Six lectures concurrentes (cf. Ère IV) ; aucune causation prouvée | ~75% du choc immédiat (120M → ~90M) ; ~60% à stabilisation Ère V phase 2 (~70M) |
+| 2 | **L'Arrachement** | An 0 (= An 0 Sillage) | Souffle Cardinal observé. Six lectures concurrentes (cf. Ère IV) ; aucune causation prouvée | ~75% du choc immédiat (120M → ~90M) ; ~60% à stabilisation Ère V phase 2 (~70M) |
 | 3 | **Le Fléau des Failles** | ~1 400-1 600 ap.A | Failles mobiles + épidémie. Lecture *Rota Mundi* : phase 3 du même phénomène cosmique que Fracture et Arrachement (lectures alternatives : reconfigurations distinctes, résonance des âmes, prison fissurée) | ~60% (~40% éliminés sur deux siècles) ; Tisses ~150 000 → ~200-300 |
 
 ---
@@ -243,7 +243,7 @@ Entités issues des interactions entre Cosmiques. Liste canonique GDD/17 (Pluvia
 | **Confédération d'Alkarath** | ~15 500 av.A | Alkaran + Cestra-sud | Lithanel (futur Altram) |
 | **Khalifat de Solvenar** | ~10 000 av.A | Galenor + nord Azoria | Aethranor (futur Kharazir) |
 | **Saint-Empire d'Endara** | ~8 000 av.A | Endora entière + îles | Endral |
-| **Royaume des Songes d'Ithalorn** | ~6 000 av.A | Ilthara (cœur onirique vytharien) | Pyros (futur Pyrtara) |
+| **Royaume des Songes d'Ithalorn** | ~6 000 av.A | Ilthara (cœur onirique vytharien) | Ithalorn |
 | **Ligue Marchande d'Everthor** | ~4 000 av.A | Evertia + Azoria + routes maritimes | Navoria (engloutie An 0) |
 
 > [!note] Les 6 empires simultanés au pic tardif (~1 000 av.A → An 0)
@@ -311,11 +311,11 @@ Entités issues des interactions entre Cosmiques. Liste canonique GDD/17 (Pluvia
 | Continent | Nations |
 |-----------|---------|
 | **Alkaran** | Altram · Iskara · Ferrath |
-| **Galenor** | Kharazir · Ventera · Seraphia · Tyndara · Solena · Lumasar |
+| **Galenor** | Kharazir · Ventera · Seraphia · Solena · Lumasar · Trinoria · Valoria |
 | **Ilthara** | Drakora · Gryndor · Pyrtara · Vytharia *(+ provinces Lunasar et Mirathi)* |
 | **Endora** | Haldria · Avalor · Sanvara · Endrath |
-| **Celethor** | Astravia · Caeloria · Orvalis · Halcyon · Nysoris *(île de Nysaria, au large de la côte est)* |
-| **Onara** | Mosrack · Myrtam · Elarath |
+| **Celethor** | Astravia · Caeloria · Orvalis · Halcyon *(+ Nysoris, cité-île de Nysaria au large de la côte est — polité insulaire rattachée à Celethor, hors du décompte des 36 nations continentales)* |
+| **Onara** | Mosrack · Myrtam · Elarath · Tyndara |
 | **Azoria** | Azoral · Kethvar · Solmaris |
 | **Cendara** | Arkhen · Pyrevane |
 | **Evertia** | Thalmaris · Sylvara |
@@ -351,7 +351,7 @@ Cendara · Onara · Endora · Evertia · Cestra · Baelor · Ulinor · Azoria ·
 | Avant Fléau (~1 400 ap.A) | ~30 millions (érosion cumulative phase 2) | ~150 000 |
 | Pic Fléau Ère V Phase 3 (~1 600 ap.A) | ~18 millions | ~200-300 (Tisses décimés) |
 | Recovery Ère V Phase 4 (~3 000 ap.A) | ~18 millions stabilisés | ~500 |
-| Sillage actuel (~10 200 ap.A / an 251) | ~38 nations × cités tenues + wildlands inhabités | ~30% de Liés dans la population (en légère diminution depuis ~9 700 — voir débat démographique [[Era 7 - Le Monde Actuel]]) |
+| Sillage actuel (~10 200 ap.A / an 251) | 36 nations × cités tenues + wildlands inhabités | ~30% de Liés dans la population (en légère diminution depuis ~9 700 — voir débat démographique [[Era 7 - Le Monde Actuel]]) |
 
 > [!note] Remutation du Lien sur 8 500 ans (IS-09)
 > La proportion de Liés actifs n'a pas été stable : effondrement à l'Arrachement (porteurs silencieux), réémergence progressive (~500 ap.F : premiers Liés renaissants ; ~5 000 : quelques milliers ; ~7 000 : ~10% ; ~10 200 : ~30%, en légère diminution). Voir [[Era 7 - Le Monde Actuel]] §"La remutation du Lien".

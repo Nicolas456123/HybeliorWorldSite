@@ -41,13 +41,13 @@ La doctrine officielle, élaborée dans les trois ans qui suivirent l'éruption,
 
 Les survivants choisirent de ne pas se disperser. Ils s'installèrent ensemble sur l'île voisine — qu'on nommerait Velkmis-Refuge —, et y maintinrent vivante la mémoire de l'éruption. Au début, par cris dans la nuit. Puis par récits aux enfants. Puis, à partir du Sillage 130 environ, par une cérémonie annuelle.
 
-La cérémonie consiste à *ramener la cendre*. Une fois par an, à l'équinoxe d'automne, les habitants de Velkmis-Refuge traversent les huit lieues qui les séparent de l'ancienne Velkmis. L'île est aujourd'hui inhabitée — vingt-cinq décennies plus tard, la végétation a partiellement repoussé, mais la couche de cendre est encore visible par endroits, et le cratère central exhale parfois une chaleur qui n'est pas tout à fait éteinte.
+La cérémonie consiste à *ramener la cendre*. Une fois par an, à l'équinoxe d'automne, les habitants de Velkmis-Refuge traversent les huit lieues qui les séparent de l'ancienne Velkmis. L'île est aujourd'hui inhabitée — seize décennies plus tard, la végétation a partiellement repoussé, mais la couche de cendre est encore visible par endroits, et le cratère central exhale parfois une chaleur qui n'est pas tout à fait éteinte.
 
 Les pèlerins recueillent une pincée de cendre — celle qui les attend, dans une fissure protégée que les anciens des survivants ont identifiée et que leurs descendants gardent. Ils ramènent la cendre à Velkmis-Refuge, qui la transmet à des messagers qui la portent à Astralis, qui la mêlent à l'eau du Temple du Cycle, qui bénissent les enfants nés dans l'année.
 
 C'est beau. C'est aussi, à Velkmis-Refuge, l'objet d'un malaise diffus.
 
-**Vell Krasv-Velkmis** (an 154-220), descendant d'un survivant direct de l'éruption, a passé sa vie à transcrire les témoignages oraux des derniers témoins. Son grand-père avait six ans en l'an +89 ; il était mort en l'an +94, sans avoir parlé clairement de ce qu'il avait vu. Mais sa femme — la grand-mère de Vell — vécut jusqu'en l'an 162 et lui parla, à lui, dès qu'il fut en âge de comprendre.
+**Vell Krasv-Velkmis** (an 154-220), descendant d'un survivant direct de l'éruption, a passé sa vie à transcrire les témoignages oraux des derniers témoins. Son grand-père avait six ans en l'an +89 ; il était mort en l'an +150, sans avoir jamais parlé clairement de ce qu'il avait vu. Mais sa femme — la grand-mère de Vell — vécut jusqu'en l'an 162 et lui parla, à lui, dès qu'il fut en âge de comprendre.
 
 Elle lui dit beaucoup. Vell consigna tout, sur une période de trente ans (de l'an 188 où il commença à recueillir les récits, jusqu'à l'an 218 où il publia une *Chronique privée de Velkmis* en quatre cents pages, conservée chez sa nièce et jamais publiée).
 

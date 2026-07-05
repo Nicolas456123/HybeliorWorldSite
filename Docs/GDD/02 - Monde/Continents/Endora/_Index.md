@@ -90,7 +90,7 @@ Au-dessus de ces lectures coexiste une mythologie commune, celle des **Voix Tenu
 
 ## Histoire courte
 
-Endora n'a jamais connu d'unification. C'est l'un des rares continents d'Hybelior où aucun empire n'a tenté, sérieusement, de soumettre les trois terres à une même main. Les déserts résistent par nature ; la jungle dévore ce qu'on cherche à y bâtir ; les plaines, traversées de cavaliers libres, n'offrent à personne de prise durable.
+Endora n'a connu qu'une seule unification, et elle remonte à si loin qu'elle tient désormais du mythe. Jadis, aux temps du Lien, le **Saint-Empire d'Endara** tint le continent entier — Avalor, Haldria et Sanvara descendent de ce souvenir, héritières d'une théocratie arcane qui fit un temps l'envie du monde avant que ses provinces périphériques ne déclarent, une par une, leur indépendance. Depuis sa chute, il y a des millénaires, aucun empire n'a plus tenté, sérieusement, de soumettre les trois terres à une même main. Les déserts résistent par nature ; la jungle dévore ce qu'on cherche à y bâtir ; les plaines, traversées de cavaliers libres, n'offrent à personne de prise durable.
 
 Faute de pouvoir se conquérir, les peuples se sont **tolérés**. Faute de pouvoir s'imposer, ils ont **négocié**. Les routes sont anciennes — la **Route Verte** qui relie Avalor aux oasis sanvariennes, la **Route des Marées** qui longe les côtes haldriennes, la **Route Astrale** qui plonge depuis Hekorinth vers la frontière esperienne. Toutes trois ont vu naître et mourir des civilisations dont il ne reste plus que des cités englouties par le sable ou la liane.
 

@@ -11,7 +11,7 @@ needs_review_for: []
 
 Le récit fondateur de Noravia, tel qu'il est transmis oralement dans la colonie depuis quatre siècles, ne fait pas l'objet d'un livre. Il est dit aux veillées, en partie par les Foedus minoritaires (qui en consignent les morts), en partie par les non-Liés (qui en consignent les outils). Le récit complet n'existe nulle part par écrit. Ce qui suit est la version la plus stable, recoupée par les rares voyageurs lettrés ayant séjourné assez longtemps pour la recueillir.
 
-Vers l'an 8 100 ap.A — datation approximative, selon les calculs de Sethiran à partir des registres skaldoriens fragmentaires — un petit groupe quitta Torkam et Skaldoria. Ils étaient une vingtaine. Il y avait quatre familles torkamites (les Halgren, les Vesmir, les Drennar, les Olstren), trois familles skaldoriennes (les Foredd, les Brann, les Hesgarn), un capitaine skaldorien (Holvan d'Ulinor), deux Foedus Animae itinérants (un homme et une femme dont les noms ne sont pas transmis), et un médecin jeune dont le nom ne figure pas dans la tradition orale parce qu'il mourut avant le second hiver.
+Vers l'an 9 900 ap.A — datation approximative, selon les calculs de Sethiran à partir des registres skaldoriens fragmentaires — un petit groupe quitta Torkam et Skaldoria. Ils étaient une trentaine. Il y avait quatre familles torkamites (les Halgren, les Vesmir, les Drennar, les Olstren), trois familles skaldoriennes (les Foredd, les Brann, les Hesgarn), un capitaine skaldorien (Holvan d'Ulinor), deux Foedus Animae itinérants (un homme et une femme dont les noms ne sont pas transmis), et un médecin jeune dont le nom ne figure pas dans la tradition orale parce qu'il mourut avant le second hiver.
 
 La crise politique qui les chassa n'est pas précisément documentée. Les chroniques de Torkam et de Skaldoria de cette époque mentionnent une *« réorganisation des privilèges »* qui aurait, en quelques années, ruiné plusieurs familles considérées comme hostiles à la nouvelle politique. Les Halgren, les Vesmir, les Foredd étaient de celles-là. Ils n'étaient pas d'accord entre eux sur ce qu'il aurait fallu faire pour rester, mais ils tombèrent d'accord sur le fait qu'il fallait partir.
 
@@ -27,19 +27,19 @@ Ils accostèrent dans la crique en début d'été. Ils n'avaient pas de cabanes.
 
 **Le deuxième hiver** tua quatre personnes. Les Vesmir perdirent leur dernier enfant. Le capitaine Holvan mourut au début du printemps suivant, d'une infection que le médecin aurait peut-être pu soigner. Avant de mourir, il dit aux survivants : *« Si vous voulez tenir, ne ramenez personne ici qui ne soit prêt à passer trois hivers. Et ne demandez pas à ceux qui partent de revenir. »* Cette phrase est, selon la tradition, à l'origine de la **règle des trois hivers**.
 
-**Le troisième hiver** ne tua personne. Pour la première fois, la colonie *fonctionnait*. Les survivants — onze adultes, un enfant — codifièrent dans la conversation, sans procès-verbal, ce qui deviendrait le **Conseil de Maintien** : tirage au sort tous les sept ans, parmi ceux qui ont passé trois hivers. Cette codification ne fut écrite nulle part avant l'an 8 280 ap.A, soit cent quatre-vingts ans plus tard.
+**Le troisième hiver** ne tua personne. Pour la première fois, la colonie *fonctionnait*. Les survivants — onze adultes, un enfant — codifièrent dans la conversation, sans procès-verbal, ce qui deviendrait le **Conseil de Maintien** : tirage au sort tous les sept ans, parmi ceux qui ont passé trois hivers. Cette codification ne fut écrite nulle part avant l'an 10 080 ap.A, soit cent quatre-vingts ans plus tard.
 
 **Hesgarn la Première** — ancêtre directe de l'Hesgarn actuelle — fit partie des onze survivants. Elle est, selon la tradition orale, la première à avoir formulé la phrase qui sert encore aujourd'hui de réponse aux émissaires extérieurs : *« Nous ne pouvons pas accueillir ce que vous proposez. »* Aucune source ne confirme que c'est elle qui l'a inventée. La tradition la lui attribue par défaut, faute d'autre nom.
 
-Hesgarn la Première mourut au quinzième hiver. Aucune cérémonie. Son nom est inscrit dans la liste des morts de l'année, dans le Registre rétroactif que Sethiran a constitué en l'an 220 du Sillage (huit mille ans plus tard) à partir de la tradition orale.
+Hesgarn la Première mourut au quinzième hiver. Aucune cérémonie. Son nom est inscrit dans la liste des morts de l'année, dans le Registre rétroactif que Sethiran a constitué en l'an 220 du Sillage (près de trois siècles plus tard) à partir de la tradition orale.
 
 ---
 
 ## Les vagues d'expéditions — *« Ils passent, ils ne reviennent pas »*
 
-À partir du IIIe siècle du Sillage, Noravia cesse d'être seule. Une série d'expéditions venues prospecter Cestra fait escale dans la crique, sans jamais s'y établir. Le Conseil tient un registre minimal de tous les passages ; il ne tient pas de registre des morts, *« car les morts ne reviennent pas à Noravia »*.
+À partir du IIe siècle du Sillage, Noravia cesse d'être seule. Une série d'expéditions venues prospecter Cestra fait escale dans la crique, sans jamais s'y établir. Le Conseil tient un registre minimal de tous les passages ; il ne tient pas de registre des morts, *« car les morts ne reviennent pas à Noravia »*.
 
-La première de ces vagues est liée à la **Guerre du Sable** (chronologie incertaine, milieu du IIIe siècle), à laquelle se trouva mêlée une école arcanistique dont le contact avec Noravia ne survécut pas à sa dissolution. Suivirent, vers la fin du IIIe siècle, les **expéditions Valkren** et leurs analogues — celles dont Sorin Valthen, plus tard, viendrait consulter les chemises. Puis vinrent, au IVe siècle, les **cartographes individuels** qui marquent la mémoire récente de la colonie : Aldric Valthen (an 220) et son fils Sorin (an 231).
+La première de ces vagues est liée à la **Guerre du Sable** (chronologie incertaine), à laquelle se trouva mêlée une école arcanistique dont le contact avec Noravia ne survécut pas à sa dissolution. Suivirent les **expéditions Valkren** et leurs analogues — dont celle dont le départ est consigné au Registre en l'an 188, celles-là mêmes dont Sorin Valthen, plus tard, viendrait consulter les chemises. Puis vinrent, au IIIe siècle, les **cartographes individuels** qui marquent la mémoire récente de la colonie : Aldric Valthen (an 220) et son fils Sorin (an 231).
 
 Le Conseil n'intervient dans aucune de ces entreprises. Il délivre des permis temporaires, encaisse les taxes en denrées, consigne les départs — et laisse une page vierge pour les retours qui n'ont pas lieu.
 
@@ -47,7 +47,7 @@ Le Conseil n'intervient dans aucune de ces entreprises. Il délivre des permis t
 
 ## Le Registre de Maintien — *« Pages arrachées »*
 
-Le **Registre de Maintien** est un cahier non relié, dont les pages sont ajoutées chaque année. Sa première page date d'environ l'an 8 280 ap.A — soit cent quatre-vingts ans après la fondation, quand le Conseil décida qu'il fallait *« commencer à consigner »*. Tout ce qui précède est tradition orale.
+Le **Registre de Maintien** est un cahier non relié, dont les pages sont ajoutées chaque année. Sa première page date d'environ l'an 10 080 ap.A — soit cent quatre-vingts ans après la fondation, quand le Conseil décida qu'il fallait *« commencer à consigner »*. Tout ce qui précède est tradition orale.
 
 Le Registre est volontairement bref. Une décision du Conseil tient en deux ou trois lignes : *« Refus de la proposition Endorane d'octobre 224. Motif : capacité ; ne pas développer. »* Aucune justification, aucune doctrine, aucun débat consigné. Cette brièveté est défendue depuis les origines comme une *protection contre la Loi figée* — argumenter publiquement crée une doctrine ; une doctrine se durcit ; un durcissement aboutit à une Loi qui se prend pour une vertu. Le Conseil consigne sans expliquer. La pratique est ancienne ; sa raison n'est plus articulée.
 
@@ -55,7 +55,7 @@ Quelques anomalies, dans le Registre actuel, ont été notées par les rares lec
 
 **Première anomalie : les pages arrachées.**
 
-Les pages correspondant aux années 184 à 191 du Sillage sont **arrachées**. Pas perdues, pas effacées — *arrachées*. Les déchirures sont nettes, suggérant un geste délibéré. Le Registre se présente, à cet endroit, comme un cahier qui *avoue son trou*. Quelques fragments restent collés à la reliure, mais portent des phrases incomplètes : *« ... cinq voix sur sept ... »*, *« ... Halgren, dépt. ... »*, *« ... cas non précédent ... »*.
+Les pages correspondant aux années 180 à 187 du Sillage sont **arrachées**. Pas perdues, pas effacées — *arrachées*. Les déchirures sont nettes, suggérant un geste délibéré. Le Registre se présente, à cet endroit, comme un cahier qui *avoue son trou*. Quelques fragments restent collés à la reliure, mais portent des phrases incomplètes : *« ... cinq voix sur sept ... »*, *« ... Halgren, dépt. ... »*, *« ... cas non précédent ... »*.
 
 Personne, parmi les anciens du Conseil, ne raconte ce qui s'est passé entre 184 et 191. Les Hesgarn de la lignée — la mère de Hesgarn la Sage, la grand-mère — n'en ont rien dit avant de mourir. Le silence est *protégé*.
 
@@ -105,7 +105,7 @@ Plusieurs Noviens lui ont, au fil des ans, demandé pourquoi elle n'ouvrait pas 
 
 D'autres lui ont demandé — souvent les jeunes Noviens, intrigués — comment elle reconnaîtrait le fils d'Aldric s'il venait. Elle a répondu, à chaque fois : *« Il viendra. Je ne sais pas comment je le saurai. Je le saurai. »*
 
-Cette confiance — pas religieuse, pas mystique, *empirique* — est, selon les voyageurs lettrés qui l'ont observée, une des manifestations les plus pures de l'**Aimer-ce-qui-est** dans Hybélior. Borela n'attend pas en cherchant ; elle attend en *vivant*. Sa cartographie continue. Ses journées sont remplies. La lettre est dans le tiroir.
+Cette confiance — pas religieuse, pas mystique, *empirique* — est, selon les voyageurs lettrés qui l'ont observée, une des manifestations les plus pures de l'**Aimer-ce-qui-est** dans Hybelior. Borela n'attend pas en cherchant ; elle attend en *vivant*. Sa cartographie continue. Ses journées sont remplies. La lettre est dans le tiroir.
 
 ### La transmission
 

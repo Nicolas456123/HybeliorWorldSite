@@ -30,10 +30,10 @@ needs_review_for: []
   - **Doctrine** : interprétation des Forge-Liturgies, validation des nouvelles formules rituelles, réponses aux Vigilants des cratères.
   - **Ordination** : tout Ignitari de la Cendara entière reçoit son Sceau du Conseil — levier diplomatique sur les Forge-Temples cendariens-royaume et arkheniennes.
   - **Discipline** : excommunications (rares), interdictions de forge (plus fréquentes), démissions imposées (presque jamais — voir Tessar).
-  - **Diplomatie religieuse** : relations avec les autres traditions d'Hybélior (Ordo Caelum, [[Vael'Kurash]], Foedus Animae), généralement courtoises, parfois tendues (Caeloria de l'Ordo, Catena Fracta minoritaire).
+  - **Diplomatie religieuse** : relations avec les autres traditions d'Hybelior (Ordo Caelum, [[Vael'Kurash]], Foedus Animae), généralement courtoises, parfois tendues (Caeloria de l'Ordo, Catena Fracta minoritaire).
 - Le Conseil ne légifère pas dans le domaine civil.
-- Singularité : Pyrevane n'a pas de gouvernement civil distinct — fait unique parmi les théocraties d'Hybélior. Questions civiles gérées au niveau des **Forges-Quartiers** (échelon paroissial), des **Maîtrises** (corporations de métiers liées à chaque Forge-Temple) et des **Conseils de Caldera** (assemblées locales).
-- Cette architecture polycentrique fonctionne grâce à une population petite (~30 000 hab.) et culturellement homogène ; elle ne fonctionnerait pas à Cendara-Royaume. C'est l'une des raisons pour lesquelles Pyrevane n'a pas absorbé Cendara (incapacité à gouverner un peuple non entièrement Ignitari).
+- Singularité : Pyrevane n'a pas de gouvernement civil distinct — fait unique parmi les théocraties d'Hybelior. Questions civiles gérées au niveau des **Forges-Quartiers** (échelon paroissial), des **Maîtrises** (corporations de métiers liées à chaque Forge-Temple) et des **Conseils de Caldera** (assemblées locales).
+- Cette architecture polycentrique fonctionne grâce à une population petite (~30 000 hab. de Sceau et de forge, hors ruraux dispersés des calderas) et culturellement homogène ; elle ne fonctionnerait pas à Cendara-Royaume. C'est l'une des raisons pour lesquelles Pyrevane n'a pas absorbé Cendara (incapacité à gouverner un peuple non entièrement Ignitari).
 
 ### Le Maître de Pyrevane-Mère (primus inter pares)
 
@@ -50,7 +50,7 @@ needs_review_for: []
 - Les trois Voix actuelles :
   - **Veynara de Cinderhold** — active ; descente de neuf jours en l'an 230 ; écrits prudents (orthodoxe).
   - **Sorvain le Long** — en retrait ; ermitage à Vesthrim ; ne descend plus ; refuse de revenir aux délibérations.
-  - **Troisième Voix (nom gardé secret)** — retirée à Mosrack ; écrits circulant à voix très basse parmi les Délies ; soupçonnée d'être, sans titre, l'autorité morale réelle du courant délien.
+  - **Troisième Voix (nom gardé secret)** — retirée à Vorrask ; écrits circulant à voix très basse parmi les Délies ; soupçonnée d'être, sans titre, l'autorité morale réelle du courant délien.
 
 ### Les Maîtrises de forge
 
@@ -84,7 +84,7 @@ Religion principale : Ignis Aeternum (autorité doctrinale continentale). Cf. fi
 ### Le Cycle des Sept Calderas
 
 - Pèlerinage liturgique de quarante-cinq à soixante jours, parcouru par les Ignitari en formation et les pèlerins laïcs.
-- Itinéraire fixe : Pyrevane-Mère → Mosrack (armes liturgiques) → Vesthrim (marteaux) → Caldethor (sceaux) → Verre-Fondu (verre cérémoniel) → Ashenor (cendres-amendes) → Cinderhold (outils funèbres) → retour à Pyrevane-Mère.
+- Itinéraire fixe : Pyrevane-Mère → Vorrask (armes liturgiques) → Vesthrim (marteaux) → Caldethor (sceaux) → Verre-Fondu (verre cérémoniel) → Ashenor (cendres-amendes) → Cinderhold (outils funèbres) → retour à Pyrevane-Mère.
 - Chaque caldera produit une spécialité liturgique non reproductible ailleurs. Effets : aucun Forge-Temple ne peut se passer des autres ; toute cérémonie majeure mobilise les sept.
 
 ### Religions secondaires
@@ -130,9 +130,9 @@ Religion principale : Ignis Aeternum (autorité doctrinale continentale). Cf. fi
 ## Régions et calderas
 
 ### Pyrevane-Mère (caldera centrale)
-Capitale. Ville étroite contre la paroi sud de la caldera, dominée par la Forge-Temple Centrale (voûte de basalte taillé visible à dix lieues). 30 000 habitants pour l'agglomération. Le nom désigne aussi la caldera elle-même (trois lieues de diamètre). Climat sec, chaud, sulfureux. Eau potable acheminée par aqueducs depuis les sources de Verre-Fondu (à deux jours de marche).
+Capitale. Ville étroite contre la paroi sud de la caldera, dominée par la Forge-Temple Centrale (voûte de basalte taillé visible à dix lieues). Environ 12 000 habitants pour l'agglomération (le noyau urbain et ses forges-quartiers de rebord). Le nom désigne aussi la caldera elle-même (trois lieues de diamètre). Climat sec, chaud, sulfureux. Eau potable acheminée par aqueducs depuis les sources de Verre-Fondu (à deux jours de marche).
 
-### Mosrack (caldera nord-ouest)
+### Vorrask (caldera nord-ouest)
 Forge-Temple secondaire ; spécialité : armes liturgiques (lames de cérémonie, marteaux de Maître, sceaux d'investiture). Cité industrieuse, plus ouvrière et plus libérale que Pyrevane-Mère. Lieu de conservation du *Discours de la Cendre Patiente* et résidence officieuse de la troisième Voix sous les Cendres. Maître actuel : **Vethrim VI**, modéré ; a fait avorter plusieurs motions disciplinaires contre des Délies présumés en exigeant des preuves que les autres Maîtres refusaient de fournir.
 
 ### Vesthrim (caldera nord)
@@ -166,14 +166,14 @@ Côte nord-ouest battue par les vents. Port unique : **Suie-Haute** (cf. *Villes
 - Région : Pyrevane-Mère (caldera centrale)
 - Particularités : Forge-Temple Centrale, Maison-de-Cendre, Salle du Conseil des Sept Feux, Cuve de Braise centrale.
 
-### Mosrack — Ville
-- Descripteur : cité ouvrière sur la pente externe nord-ouest de la caldera de Mosrack (vue sur la mer du nord), au caractère plus libéral. Refuge historique de forgerons en disgrâce et concentration des Sans-Forge mendiants de Pyrevane (on les y laisse manger). Maître actuel : **Vethrim VI**.
+### Vorrask — Ville
+- Descripteur : cité ouvrière sur la pente externe nord-ouest de la caldera de Vorrask (vue sur la mer du nord), au caractère plus libéral. Refuge historique de forgerons en disgrâce et concentration des Sans-Forge mendiants de Pyrevane (on les y laisse manger). Maître actuel : **Vethrim VI**.
 - Population : Ville (environ 4 500)
-- Région : Mosrack (caldera nord-ouest)
-- Particularités : Forge-Temple de Mosrack, copie complète conservée du *Discours de la Cendre Patiente*, résidence non officielle de la troisième Voix sous les Cendres.
+- Région : Vorrask (caldera nord-ouest)
+- Particularités : Forge-Temple de Vorrask, copie complète conservée du *Discours de la Cendre Patiente*, résidence non officielle de la troisième Voix sous les Cendres.
 
 ### Vesthrim — Ville
-- Descripteur : ville monastique au fond d'une caldera étroite et froide, isolée en hiver (col fermé cinq mois par an, autarcie totale). Fondée en l'an Sillage 320 par sept Ignitari ayant quitté la Forge-Temple Centrale après une querelle de procession ; leur descendance directe forme encore le noyau du clergé local.
+- Descripteur : ville monastique au fond d'une caldera étroite et froide, isolée en hiver (col fermé cinq mois par an, autarcie totale). Fondée en l'an Sillage 120 par sept Ignitari ayant quitté la Forge-Temple Centrale après une querelle de procession ; leur descendance directe forme encore le noyau du clergé local.
 - Population : Ville (environ 2 800)
 - Région : Vesthrim (caldera nord)
 - Particularités : Forge-Temple de Vesthrim, Ermitage de Sorvain le Long.
@@ -206,7 +206,7 @@ Côte nord-ouest battue par les vents. Port unique : **Suie-Haute** (cf. *Villes
 - Descripteur : unique port pyrevanien (côte nord-ouest), battu par les vents salés et la brume sulfureuse du Détroit de Suie ; point de départ des rares pèlerinages vers Arkhen et Ilnara. Construit à partir de l'an Sillage 180 sur décision du Conseil des Sept Feux pour ne plus dépendre de Diamoris (cendarien-royaume) ; port creusé en vingt ans à la pioche dans le basalte. Chantiers navals produisant une variante simplifiée des navires à double coque thyronisiens.
 - Population : Ville (environ 1 800)
 - Région : Pyrevane-Mère (côte nord-ouest)
-- Particularités : Port maritime, chantiers navals, Maison du Médiateur Maritime arkhenien (poste vacant six mois sur douze).
+- Particularités : Port maritime, chantiers navals, Maison du Médiateur Maritime pyrevanien pour Arkhen (poste vacant six mois sur douze).
 
 ### Vethros — Village
 - Descripteur : village agricole sur les pentes basses de Verre-Fondu ; culture du blé noir et de l'orge de cendre, pain dur et dense mangé avec du fromage de chèvre volcanique. Fondé par des paysans refusant les Forge-Liturgies maximalistes ; compromis trouvé en l'an Sillage 90 avec le Maître de Verre-Fondu (récitation des Forge-Liturgies en masse à l'aube pour la journée entière) — exception dans la nation.
@@ -219,9 +219,9 @@ Côte nord-ouest battue par les vents. Port unique : **Suie-Haute** (cf. *Villes
 - Région : Pyrevane-Mère (hauteurs)
 
 ### Tessarin — Hameau
-- Descripteur : hameau de douze familles sur la pente externe de Mosrack, absent de tout registre fiscal (officiellement inexistant). Habité depuis trois générations par des descendants de forgerons sans Sceau pratiquant la **forge silencieuse** (sans incanter) ; tous Délies de la Flamme à divers degrés. Surnom *Tessarin* (référence à Tessar Veynd) circulant à voix très basse parmi les Délies d'Arkhen, jamais utilisé par les Pyrevaniens orthodoxes. Le Maître Vethrim VI de Mosrack connaît son existence et choisit de l'ignorer (cécité politique).
+- Descripteur : hameau de douze familles sur la pente externe de Vorrask, absent de tout registre fiscal (officiellement inexistant). Habité depuis trois générations par des descendants de forgerons sans Sceau pratiquant la **forge silencieuse** (sans incanter) ; tous Délies de la Flamme à divers degrés. Surnom *Tessarin* (référence à Tessar Veynd) circulant à voix très basse parmi les Délies d'Arkhen, jamais utilisé par les Pyrevaniens orthodoxes. Le Maître Vethrim VI de Vorrask connaît son existence et choisit de l'ignorer (cécité politique).
 - Population : Hameau (douze familles, environ 50 personnes)
-- Région : Mosrack (pente externe)
+- Région : Vorrask (pente externe)
 
 ### Kerthos — Village
 - Descripteur : village minier de la frontière utophorienne, exploitation de fer noir ; population mixte (pyrevaniens et cendariens-royaume), source de litiges fiscaux récurrents. A changé de souveraineté quatre fois en deux siècles (arbitrages du Conseil des Sept Feux et de la Cour de Brumaris) ; dernière décision en l'an 232 en faveur de Pyrevane, mais Cendara-Royaume y prélève toujours des taxes informelles via les Flammarques.
@@ -246,12 +246,12 @@ Côte nord-ouest battue par les vents. Port unique : **Suie-Haute** (cf. *Villes
 
 ## Secrets et intrigues
 
-- **Copie complète du *Discours de la Cendre Patiente*** : conservée à Mosrack, dans le tablier d'un forgeron sans appartenance dont la lignée transmet le rôle de *gardien* depuis l'an Sillage 138. Karendis IX en détient une copie partielle ; le Maître Vethrim VI de Mosrack en connaît l'emplacement exact sans en tenir copie ; quatre Délies arkheniens en ont des extraits manuscrits. Aucune édition jamais réalisée ; texte non publié mais non perdu.
+- **Copie complète du *Discours de la Cendre Patiente*** : conservée à Vorrask, dans le tablier d'un forgeron sans appartenance dont la lignée transmet le rôle de *gardien* depuis l'an Sillage 138. Karendis IX en détient une copie partielle ; le Maître Vethrim VI de Vorrask en connaît l'emplacement exact sans en tenir copie ; quatre Délies arkheniens en ont des extraits manuscrits. Aucune édition jamais réalisée ; texte non publié mais non perdu.
 
-- **La troisième Voix sous les Cendres** : retirée à Mosrack, connue d'à peine vingt personnes. Femme, environ soixante ans ; descente de sept jours en l'an 211, jamais évoquée publiquement. Ses écrits (quelques pages, circulant à voix très basse) radicalisent le *Discours de la Cendre Patiente* : la pulsation du Mont n'aurait peut-être jamais rien signifié, la lecture serait une projection humaine, et la Lecture de Miséricorde de Karendis I une invention nécessaire mais infondée — thèse qui, dite publiquement, mettrait fin à la doctrine.
+- **La troisième Voix sous les Cendres** : retirée à Vorrask, connue d'à peine vingt personnes. Femme, environ soixante ans ; descente de sept jours en l'an 211, jamais évoquée publiquement. Ses écrits (quelques pages, circulant à voix très basse) radicalisent le *Discours de la Cendre Patiente* : la pulsation du Mont n'aurait peut-être jamais rien signifié, la lecture serait une projection humaine, et la Lecture de Miséricorde de Karendis I une invention nécessaire mais infondée — thèse qui, dite publiquement, mettrait fin à la doctrine.
 
 - **Atténuation des pulsations des Sept Calderas** : les Vigilants des sept Forge-Temples ont noté indépendamment, sur les vingt dernières années, une légère baisse des pulsations dans leurs cratères. Aucun n'a compilé ces relevés à l'échelle continentale ; le Conseil des Sept Feux ne l'a pas demandé. Une compilation révélerait une dérive écrasante (équivalente à la dérive 41→46 secondes du Mont central). Cette **non-compilation** maintient la doctrine.
 
-- **Les Sans-Forge politisés** : frange minoritaire (environ trois cents personnes) à Pyrevane-Mère et Mosrack, organisée discrètement depuis dix ans. Non Délies (ils ne portent pas la marque) mais en correspondance avec eux. Revendication : suppression de l'Épreuve du Feu et remplacement par un apprentissage non rituel. Ignorés officiellement par le Conseil ; réunions surveillées par des agents de Cinderhold.
+- **Les Sans-Forge politisés** : frange minoritaire (environ trois cents personnes) à Pyrevane-Mère et Vorrask, organisée discrètement depuis dix ans. Non Délies (ils ne portent pas la marque) mais en correspondance avec eux. Revendication : suppression de l'Épreuve du Feu et remplacement par un apprentissage non rituel. Ignorés officiellement par le Conseil ; réunions surveillées par des agents de Cinderhold.
 
-- **Le hameau de Tessarin** : officiellement non répertorié, douze familles, forge silencieuse depuis trois générations. Connu du Maître Vethrim VI de Mosrack et du Maître Karthen IV de Cinderhold — ce dernier ignorant que Vethrim sait. En cas de raid disciplinaire de Cinderhold, Mosrack devrait être prévenue ; la chaîne d'alerte passe par un balayeur de Mosrack voyageant chaque trimestre à Pyrevane-Mère — l'une des fragilités les plus quotidiennes du paysage politique pyrevanien.
+- **Le hameau de Tessarin** : officiellement non répertorié, douze familles, forge silencieuse depuis trois générations. Connu du Maître Vethrim VI de Vorrask et du Maître Karthen IV de Cinderhold — ce dernier ignorant que Vethrim sait. En cas de raid disciplinaire de Cinderhold, Vorrask devrait être prévenue ; la chaîne d'alerte passe par un balayeur de Vorrask voyageant chaque trimestre à Pyrevane-Mère — l'une des fragilités les plus quotidiennes du paysage politique pyrevanien.

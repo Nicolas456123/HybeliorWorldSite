@@ -22,7 +22,7 @@ La mer entre Celtaris et Nectoria fut calme de cette façon que les marins haldr
 
 J'avais changé.
 
-Je n'emploie pas cela dans le sens sentimental de la chose. Je l'emploie comme un cartographe emploierait le terme : je n'occupais plus le même point sur la carte. Sept cent vingt jours depuis Evertia. Le Sorin Valthen qui avait quitté sa table à dessin pour chercher une anomalie dans le tracé des rues était aussi lointain que n'importe quel autre souvenir d'enfance — précis dans ses détails, inexact dans ce qu'il avait compris du monde. Cet homme-là ignorait que Mont Cendra pulsait. Il ignorait ce que signifiait être Délié. Il ignorait que son père avait fait ce voyage avant lui.
+Je n'emploie pas cela dans le sens sentimental de la chose. Je l'emploie comme un cartographe emploierait le terme : je n'occupais plus le même point sur la carte. Sept cent vingt jours depuis Rukhsar. Le Sorin Valthen qui avait quitté sa table à dessin pour chercher une anomalie dans le tracé des rues était aussi lointain que n'importe quel autre souvenir d'enfance — précis dans ses détails, inexact dans ce qu'il avait compris du monde. Cet homme-là ignorait que Mont Cendra pulsait. Il ignorait ce que signifiait être Délié. Il ignorait que son père avait fait ce voyage avant lui.
 
 Je ne savais toujours pas ce que signifiait que mon père l'ait fait avant moi.
 

@@ -9,9 +9,9 @@ needs_review_for: []
 
 ## Les origines — Les Coureurs des Vents
 
-Avant qu'Azoral n'existe en tant que nation, ses côtes étaient parcourues par des bandes nomades, les *Coureurs des Vents*, qui survivaient sur la banquise saisonnière du sud-ouest azorien. Selon les chroniques de la Via Ventus, ces Coureurs descendent directement des nomades du Berceau des Vents qui, après s'être croisés avec les Gens de l'Eau, formèrent les premières communautés ventari (~8 000 av.A). Azoral est, en termes religieux, la matrice originelle de Via Ventus — la nation qui a vu naître la doctrine du mouvement perpétuel.
+Avant qu'Azoral n'existe en tant que nation, ses côtes étaient parcourues par des bandes nomades, les *Coureurs des Vents*, qui survivaient sur la banquise saisonnière du sud-ouest azorien. Selon les chroniques de la Via Ventus, ces Coureurs descendent directement des nomades du Berceau des Vents qui, après s'être croisés avec les Gens de l'Eau, cristallisèrent les premières communautés proprement ventari (~8 000 av.A) — le nom de « ventari » leur venant plus tard, une fois la doctrine du mouvement formulée. Azoral est, en termes religieux, la matrice originelle de Via Ventus — la nation qui a vu naître la doctrine du mouvement perpétuel.
 
-Pendant les premiers siècles, les Coureurs ne se fixaient nulle part : ils suivaient les hardes de phoques cendrés, les bancs de poissons d'hiver, les chenaux que la banquise libérait selon des rythmes qu'eux seuls savaient lire. Quand les premiers navires ventari vinrent du sud — du Khalifat de Solvenar, ~10 000 av.A —, les Coureurs leur enseignèrent la lecture des vents catabatiques en échange d'une chose qui leur manquait : la pierre. Les premiers ports de Korval, Velkar et Brisivar furent construits dans des baies que les Coureurs avaient *pointées* à des marins solvenariens, parce qu'eux-mêmes ne savaient pas tailler la pierre.
+Pendant les premiers siècles, les Coureurs ne se fixaient nulle part : ils suivaient les hardes de phoques cendrés, les bancs de poissons d'hiver, les chenaux que la banquise libérait selon des rythmes qu'eux seuls savaient lire. Quand les premiers navires solvenariens vinrent du sud — du Khalifat de Solvenar, ~10 000 av.A —, ce sont les ancêtres nomades de ces Coureurs qui leur enseignèrent la lecture des vents catabatiques en échange d'une chose qui leur manquait : la pierre. C'est de ce contact que devait naître, des siècles plus tard, l'identité ventari. Les premiers ports de Korval, Velkar et Brisivar furent construits dans des baies que les Coureurs avaient *pointées* à des marins solvenariens, parce qu'eux-mêmes ne savaient pas tailler la pierre.
 
 ---
 
@@ -31,7 +31,7 @@ Le premier en l'an 119, brise-glace de second rang pris dans une tempête au lar
 
 Trois fils. Trois fois la même formule des Capitaines de Port lui apportant la nouvelle : *« La mer a décidé. »* Trois fois la cérémonie privée. Trois fois la pension de veuvage versée à la maison-mère de la famille Skra. Trois fois les voiles noires hissées sur la jetée pendant sept jours.
 
-Inga avait soixante ans à la mort du troisième. Elle était capitaine elle-même, à la retraite depuis cinq ans. Sa propre carrière avait été honorable — capitaine de premier rang à quarante ans, deux fois élue Capitaine de Bord de Korvaria. Elle aurait pu finir ses jours dans sa maison près du port, comme finissent les vieilles capitaines.
+Inga avait cinquante-trois ans à la mort du troisième. Elle était capitaine elle-même, à la retraite depuis cinq ans. Sa propre carrière avait été honorable — capitaine de premier rang à quarante ans, deux fois élue Capitaine de Bord de Korvaria. Elle aurait pu finir ses jours dans sa maison près du port, comme finissent les vieilles capitaines.
 
 Elle ne le fit pas. Quand le Premier Capitaine de Bord d'alors mourut subitement en l'an 132, elle fut la seule candidate qui se présenta — les autres prétendants avaient hésité, attendu, négocié. Elle fut élue à l'unanimité. Première femme Première Capitaine.
 
@@ -63,7 +63,7 @@ Ils sont, dans la mémoire administrative d'Azoral, les trois marins dont la per
 
 Officiellement, Hjorvik est dirigée par le Capitaine de Port Olav Hjorm, fils de Magna Hjorm-Skra.
 
-Officieusement, Hjorvik est dirigée par la *Maison des Quinze* — quinze veuves de Manifeste, doyenne Magna, qui se réunissent une fois tous les neuf jours dans une grande maison commune au bord du port. La pratique est ancienne — elle remonte aux années 80-130, quand la Course du Givre frappait disproportionnellement la Capitainerie et que les femmes prirent les fonctions par nécessité. Le Conseil de Bord obligea formellement à l'élection d'un homme en l'an 158. Les femmes acceptèrent. Olav Hjorm fut élu (il avait dix-neuf ans, c'était le plus jeune fils de Magna). Il dirige depuis sa majorité.
+Officieusement, Hjorvik est dirigée par la *Maison des Quinze* — quinze veuves de Manifeste, doyenne Magna, qui se réunissent une fois tous les neuf jours dans une grande maison commune au bord du port. La pratique est ancienne — elle remonte aux années 80-130, quand la Course du Givre frappait disproportionnellement la Capitainerie et que les femmes prirent les fonctions par nécessité. Le Conseil de Bord obligea formellement, en l'an 158, à ce qu'un homme portât toujours le titre de Capitaine de Port. Les femmes acceptèrent : depuis, chaque génération présente un fils de la Maison au Conseil. L'actuel titulaire, Olav Hjorm, fut élu à dix-neuf ans — c'était le plus jeune fils de Magna. Il dirige depuis sa majorité.
 
 Personne ne lui demande de décisions sans consulter sa mère. Il ne le voudrait pas. Il n'est pas un fantoche — il est un *relais*. Il a grandi dans la Maison des Quinze, il en connaît les codes, il en respecte les arbitrages. Quand il signe un acte officiel, il le signe en son nom. Quand il prend une décision, il l'a entendue d'abord chez sa mère.
 

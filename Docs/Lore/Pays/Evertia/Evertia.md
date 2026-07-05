@@ -97,7 +97,10 @@ Cœur de l'île, région la plus densément boisée et la plus protégée. Abrit
 Plaines fertiles du sud-ouest : vergers, prairies d'élevage, champs de plantes médicinales. Région la plus peuplée après Vaelcendia, considérée comme le grenier de l'île.
 
 ### Brumalis
-Côte nord-est perpétuellement enveloppée de brumes. Falaises abruptes et récifs naturels rendant tout débarquement suicidaire ; première ligne de défense de l'île (épaves de navires étrangers le long du littoral).
+Côte nord perpétuellement enveloppée de brumes. Falaises abruptes et récifs naturels rendant tout débarquement suicidaire ; première ligne de défense de l'île (épaves de navires étrangers le long du littoral).
+
+### Valmora
+Enclave de la côte ouest, autour du ravin de Valmora — seul point d'accès étranger de l'île. Avancée rocheuse délibérément coupée de l'intérieur par un ravin infranchissable ; le port, les entrepôts et le quartier des marchands y sont confinés, gardés en permanence par les Gardiens du Labyrinthe.
 
 ### Lithéa
 Région souterraine s'étendant sous tout l'est de l'île. Réseau de cavernes naturelles abritant les gisements de pierres précieuses (diamants, saphirs, émeraudes, rubis). Territoire des Sans-Lumière, esclaves prisonniers des labyrinthes.
@@ -105,8 +108,8 @@ Région souterraine s'étendant sous tout l'est de l'île. Réseau de cavernes n
 ### Selvandor
 Forêts tropicales du sud, les plus sauvages de l'île. Habitat des créatures fantastiques les plus rares ; accessible seulement aux druides les plus expérimentés. Patrouillé par les Gardiens du Labyrinthe contre le braconnage.
 
-### Ilnara
-Île secondaire au large de la côte orientale, couverte de forêts tropicales d'une densité exceptionnelle. Sanctuaire des Phénix de Feu. Abrite le Temple des Flammes Éternelles, lieu sacré partagé avec la foi de l'Ignis Aeternum (anomalie religieuse).
+### Ilnara (sanctuaire extérieur partagé)
+Île tropicale isolée, juridiquement rattachée à Cendara (Arkhen), au-delà des eaux d'Evertia — non un territoire evertien mais un **sanctuaire commun**. Couverte de forêts tropicales d'une densité exceptionnelle, sanctuaire des Phénix de Feu, elle abrite le Temple des Flammes Éternelles. Depuis des générations, des druides evertiens y entretiennent une présence (le hameau de Pyracine) aux côtés des prêtres cendariens de Lorenthia : le culte du feu de l'Ignis Aeternum et le Vael'Kurash druidique s'y mêlent en un syncrétisme unique (anomalie religieuse assumée des deux côtés). Evertia n'y exerce aucune souveraineté ; elle y partage un lieu, non une frontière.
 
 ---
 
@@ -125,9 +128,9 @@ Cité druidique ancienne, dans une clairière sacrée où les arbres forment un 
 - Particularités : Académie des Druides, Cercle des Aînés Verts
 
 ### Valmora
-Seul port d'Evertia ouvert aux étrangers, et seulement aux marchands autorisés. Construite sur une avancée rocheuse délibérément séparée du reste de l'île par un ravin infranchissable (profondeur calculée pour qu'aucun pont improvisé ne l'enjambe) ; marchands limités au port, aux entrepôts et aux auberges. Créée par la troisième impératrice après qu'un navire marchand tymdarien eut abordé une côte non défendue et pénétré l'intérieur avant capture. Gardée en permanence par les Gardiens du Labyrinthe.
+Seul port d'Evertia ouvert aux étrangers, et seulement aux marchands autorisés. Construite sur une avancée rocheuse délibérément séparée du reste de l'île par un ravin infranchissable (profondeur calculée pour qu'aucun pont improvisé ne l'enjambe) ; marchands limités au port, aux entrepôts et aux auberges. Créée par la troisième impératrice après qu'un navire marchand tyndarien eut abordé une côte non défendue et pénétré l'intérieur avant capture. Gardée en permanence par les Gardiens du Labyrinthe.
 - Population : Ville
-- Région : Brumalis
+- Région : Valmora
 - Particularités : Port marchand, Marché des Gemmes annuel, Quartier des Étrangers
 
 ### Orévandis
@@ -167,7 +170,7 @@ Hameau druidique entièrement intégré au Grand Racinéal, arbre colossal au tr
 - Particularités : Le Grand Racinéal, Sanctuaire de Spiritus
 
 ### Créciel
-Village d'altitude sur un plateau dégagé au centre de l'île ; site de la Grande Cloche, instrument de bronze de douze mètres de haut, visible à des lieues. Cloche fondue au lendemain du Rituel du Grand Éveil sur instruction des treize Archidruides, par un fondeur ayant travaillé seul trois ans pour garder secrète la formule du bronze. N'a sonné que trois fois : tremblement de terre menaçant de fissurer l'île, invasion navale en masse, révolte interne (détails classifiés). Sonner la Cloche sans raison suffisante est un crime capital ; gardée par les Veilleurs vivant dans un quasi-silence monastique.
+Village d'altitude sur un plateau dégagé au centre de l'île ; site de la Grande Cloche, instrument de bronze de douze mètres de haut, visible à des lieues. Cloche fondue durant le Rituel du Grand Éveil sur instruction des treize Archidruides, par un fondeur ayant travaillé seul trois ans pour garder secrète la formule du bronze. N'a sonné que deux fois en mille ans : le premier coup, frappé par les treize Archidruides pour sceller le Rituel du Grand Éveil ; le second, lorsqu'une flotte d'invasion de Vytharia franchit les récifs de Brumalis. Sonner la Cloche sans raison suffisante est un crime capital ; gardée par les Veilleurs vivant dans un quasi-silence monastique.
 - Population : Village
 - Région : Vaelcendia
 - Particularités : La Grande Cloche, Ordre des Veilleurs
@@ -178,10 +181,10 @@ Village lacustre sur pilotis au-dessus du Lac des Miroirs, lac très calme et cl
 - Région : Orvandis
 - Particularités : Lac des Miroirs, Sanctuaire des Esprits de l'Eau
 
-### Pyracine
-Village du Temple des Flammes Éternelles sur Ilnara ; seul lieu d'Evertia où le feu est vénéré autant que la nature. Les gardiens du Temple entretiennent une flamme dite brûlante depuis la création du monde ; plumes tombées des Phénix de Feu considérées comme reliques sacrées. Ilnara colonisée après qu'un Phénix de Feu s'y posa plusieurs jours lors d'une tempête ; les druides envoyés y trouvèrent des forêts denses réchauffées par une légère activité volcanique souterraine. Temple bâti autour de la fissure volcanique principale, qui abriterait dans ses profondeurs un Phénix ancien jamais approché avec succès. Pyracine surveille l'île autant qu'elle la vénère.
-- Population : Village
-- Région : Ilnara
+### Pyracine (présence druidique sur Ilnara)
+Hameau druidique attaché au Temple des Flammes Éternelles, sur l'île d'Ilnara — sanctuaire partagé au large, hors des eaux evertiennes (Ilnara relève juridiquement de Cendara/Arkhen). Seul lieu où des Evertiens vénèrent le feu autant que la nature ; les druides de Pyracine y côtoient les prêtres cendariens de Lorenthia, gardiens de la flamme dite brûlante depuis la création du monde (plumes tombées des Phénix de Feu tenues pour reliques sacrées). La présence evertienne remonte à un Phénix de Feu qui, lors d'une tempête, se posa sur l'île plusieurs jours ; les druides dépêchés à sa suite trouvèrent des forêts denses réchauffées par une légère activité volcanique souterraine et obtinrent des gardiens du Temple d'y demeurer. Le Temple est bâti autour de la fissure volcanique principale, qui abriterait dans ses profondeurs un Phénix ancien jamais approché avec succès. Pyracine surveille l'île autant qu'elle la vénère.
+- Population : Hameau
+- Région : Ilnara (sanctuaire extérieur, Cendara/Arkhen)
 - Particularités : Temple des Flammes Éternelles, Nids des Phénix de Feu
 
 ### Coralvine
@@ -214,7 +217,7 @@ Hameau de tisserands à la lisière de la forêt et des plaines, exposé à un v
 
 | Pays | Relation | Détails |
 |------|----------|---------|
-| **Cendara** | Alliance discrète | Les deux îles partagent le sanctuaire d'Ilnara et un respect mutuel pour les forces naturelles. Des échanges de savoirs entre druides evertiens et forgerons cendariens ont lieu en secret. |
+| **Cendara** | Alliance discrète | Evertia et l'archipel cendarien partagent le sanctuaire d'Ilnara (île cendarienne où druides evertiens et prêtres de Lorenthia se côtoient) et un respect mutuel pour les forces naturelles. Des échanges de savoirs entre druides evertiens et forgerons cendariens ont lieu en secret. |
 | **Alkaran** | Méfiance réciproque | Les nations d'Alkaran convoitent les gemmes et le sang de créatures d'Evertia. Plusieurs tentatives d'invasion ont échoué dans le labyrinthe. |
 | **Solena** | Commerce limité | Seule nation à bénéficier d'un accord commercial permanent. Les marins de Solena sont les rares étrangers autorisés à accoster à Valmora. |
 | **Vytharia** | Hostilité froide | Les espions de Vytharia tentent régulièrement de percer les secrets de l'île. L'impératrice a fait exécuter trois d'entre eux en une décennie. |

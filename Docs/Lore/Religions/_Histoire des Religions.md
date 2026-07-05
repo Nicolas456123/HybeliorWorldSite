@@ -121,8 +121,8 @@ schisme
 
 | Religion mineure | Latin | Entités | Filiation |
 |---|---|---|---|
-| **Les Fils du Foyer** | *Filii Fornacis* | Igniculus *(éthéré)*, Eldoria | Branche populaire de **Ignis Aeternum**, recentrée sur le foyer domestique plutôt que sur le feu cosmique |
-| **Les Eaux Noires** | *Aqua Nigra* | Aquor, Spelunca *(éthéré)* | Syncrétisme **Vael'Kurash + Noctari** né dans les régions côtières et marécageuses où les deux traditions se sont rencontrées |
+| **Les Enfants de la Forge** | *Filii Fornacis* | Ferros *(Céleste)* | Branche populaire de **Ignis Aeternum**, recentrée sur le foyer domestique plutôt que sur le feu cosmique |
+| **Le Culte de l'Eau Noire** | *Aqua Nigra* | Aquor *(forme corrompue ; identifié de l'extérieur à l'Éthéré abyssal Thalossa)* | Syncrétisme **Vael'Kurash + Noctari** né dans les régions côtières et marécageuses où les deux traditions se sont rencontrées |
 | **Les Silencieux** | *Taciti* | « Le Silence absolu » | Branche contemplative dérivée de **Foedus Animae**, qui en a poussé la discipline orale jusqu'à un mutisme rituel total |
 | **Le Chant du Monde** | *Cantus Mundi* | Cantor *(céleste)*, Eldoria *(résonance)*, Arborius *(résonance)* | Syncrétisme tardif mêlant **Tradition de la Lumière Ancienne** et **Tradition de la Présence Visible** par la métaphore musicale |
 | **La Chaîne Brisée** | *Catena Fracta* | *(rejet de toutes les entités)* | **Hors-tradition.** Mouvement post-Cardinal qui rejette explicitement les quatre traditions ancestrales et le Pacte lui-même. Voir [[Catena Fracta]]. |
@@ -169,7 +169,7 @@ Apportée par les peuples migrants des grandes plaines vers l'ouest, la Lex Petr
 ## La Question des Cosmiques Reclassés
 
 > [!warning] Conflit canonique vs liturgique
-> La décision **D-COSMO-4** (refonte 2026-04-30) a reclassé sept entités du rang **Cosmique** au rang **Céleste** : Anima, Arborius, Aurion, Realis, Somnix, Umbra, Umbralis.
+> La décision **D-COSMO-4** (refonte 2026-04-30) a reclassé huit entités du rang **Cosmique** au rang **Céleste** : Anima, Arborius, Aurion, Cantor, Realis, Somnix, Umbra, Umbralis.
 
 In-world, ce reclassement n'est pas un simple ajustement administratif — il a des **résonances doctrinales** :
 
@@ -200,7 +200,7 @@ Ces fragments alimentent la suspicion mutuelle entre traditions et ont nourri pl
 
 | Tradition ancestrale | Régions où sa branche moderne domine |
 |---|---|
-| **Présence Visible** | Vael'Kurash : Alkaran, Ulinor, Evertia, peuples tribaux d'Ilthara · Lex Petra : Altram, Iskara, Gryndor · Via Ventus : Solena, Tyndara, Lythar |
+| **Présence Visible** | Vael'Kurash : Alkaran, Ulinor, peuples tribaux d'Ilthara · Lex Petra : Altram, Iskara, Gryndor · Via Ventus : Solena, Tyndara, Lythar |
 | **Lumière Ancienne** | Ignis Aeternum : Cendara, Pyrtara, Myrtam · Ordo Caelum : Caeloria, Haldria, Seraphia, Astravia *(branche stellaire)* |
 | **Choses Cachées** | Noctari : Vytharia, Nysaria, Avalor · Somnium Vigil : Vytharia, Lumasar, Baelor, Astravia *(courant onirique)* |
 | **Pacte Mémorisé** | Rota Mundi : Sylthara, Ventera, Elarian, Evertia *(courant druidique-cyclique)* · Foedus Animae : Torkam, Skaldoria *(Ulinor)*, Ulinor, tribus diverses |
@@ -209,7 +209,7 @@ Ces fragments alimentent la suspicion mutuelle entre traditions et ont nourri pl
 > Skaldoria est aujourd'hui rattachée au continent **Ulinor** (refonte V3.4). La présence forte de Foedus Animae à Ulinor s'explique par la proximité culturelle des peuples nordiques skaldoriens et torkamites avec les rites du Pacte des Âmes.
 
 > [!note] Sur Evertia
-> La majorité druidique d'Evertia (Cercle des Archidruides, Sylvara, monarchie druidique) inscrit la nation dans la **Tradition de la Présence Visible** (Vael'Kurash dominant), avec une influence du **Pacte Mémorisé** via Rota Mundi pour les grands cycles de la nature. Les chroniques d'Evertia décrivent un syncrétisme local où les esprits des arbres anciens sont vénérés comme témoins du cycle plus que comme manifestations dispersées.
+> La majorité druidique d'Evertia (Cercle des Archidruides, Sylvara, monarchie druidique) inscrit la nation dans la **Tradition du Pacte Mémorisé** (Rota Mundi dominant, courant druidique-cyclique), avec une forte influence de la **Présence Visible** via Vael'Kurash pour la vénération des esprits des arbres anciens. Les chroniques d'Evertia décrivent un syncrétisme local où ces esprits sont vénérés comme témoins du cycle plus que comme manifestations dispersées.
 
 > [!note] Sur Astravia (Celethor)
 > Astravia présente un **double héritage** : le centre stellaire de l'**Ordo Caelum** (observatoires, cartographie céleste, thèmes constellaires) et un courant **onirique** issu de la Tradition des Choses Cachées (Somnium Vigil) qui s'est implanté tardivement. Les théologiens locaux distinguent la "voie haute" (Ordo) et la "voie basse" (rêves) sans les opposer doctrinalement.

@@ -137,7 +137,7 @@ Elle ne formalisa jamais cette intuition. Elle n'envoya pas de révision portant
 
 Veidra mourut à soixante-quatre ans, en l'an 198, d'une fièvre. Elle laissa trente-deux cahiers. Les ermites-astronomes de Zaldrin les transmirent à la Couronne, comme le voulait l'accord. Les cahiers furent déposés dans une salle des archives où l'on classe ce qui n'a pas de catégorie. On en référença l'existence. On ne les ouvrit pas.
 
-Cinquante ans plus tard, en l'an 246, une jeune apprentie d'Hekorinth qui cherchait une référence sur les écarts d'observation tombait par hasard sur le quatorzième cahier de Veidra. Elle le lut. Elle nota la phrase sur la constellation de Haldros. Elle écrivit un mémoire mineur la citant.
+Quarante-huit ans plus tard, en l'an 246, un jeune apprenti d'Hekorinth qui reclassait les archives mineures de l'Observatoire tombait par hasard sur le quatorzième cahier de Veidra. Il le lut. Il nota la phrase sur la constellation de Haldros. Il écrivit un mémoire mineur la citant. Cet apprenti s'appelait Toren — son histoire est racontée plus loin.
 
 Le mémoire fut lu poliment et classé. La Couronne continua d'observer le point fixe. La constellation, depuis Haldros, n'a pas reparu à cet endroit.
 
@@ -213,7 +213,7 @@ Aucun de ses apprentis n'a jamais retiré le blanc. Aucun, à sa connaissance, n
 
 ## Hekorinth — « L'Apprenti qui regarda ailleurs »
 
-Toren entra à l'Observatoire Royal en l'an 248, à l'âge de seize ans. Il était d'une famille de sauniers de Valdren, brillant pour son âge, recommandé par un astrologue de passage. Il fut formé dans la stricte tradition d'Ordo Caelum : observation des constellations majeures, lecture des Tables, application aux prédictions.
+Toren entra à l'Observatoire Royal en l'an 237, à l'âge de seize ans. Il était d'une famille de sauniers de Valdren, brillant pour son âge, recommandé par un astrologue de passage. Il fut formé dans la stricte tradition d'Ordo Caelum : observation des constellations majeures, lecture des Tables, application aux prédictions.
 
 Pendant ses sept premières années, Toren fit ce qu'on attendait de lui. Il scrutait. Il consignait. Il vérifiait que les observations correspondaient aux Tables. Elles correspondaient — ou plutôt, dans les rares cas où elles ne correspondaient pas, on lui apprenait que c'était une erreur d'observation. Toren rectifiait.
 

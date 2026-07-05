@@ -74,7 +74,7 @@ needs_review_for: []
 ### Ce que les factions cherchaient
 - **Personne ne sait clairement ce que les factions cherchaient.** Voir [[../../Histoires/Cestra/Cestra|Histoires/Cestra]] §*La Guerre du Sable*.
 - Certitude : les factions ne trouvèrent pas ce qu'elles cherchaient — ou le trouvèrent et ça les tua.
-- Citation : *« La distinction est philosophiquement intéressante et pratiquement irrelevante. »* (Chronique d'Endora, an ~80 du Sillage, anonyme.)
+- Citation : *« La distinction est philosophiquement intéressante et pratiquement irrelevante. »* (Chronique d'Endora, an ~190 du Sillage, anonyme.)
 - Les gisements sont toujours sous la glace ; les Gardiens toujours debout.
 
 ### La pression résiduelle
@@ -117,7 +117,7 @@ needs_review_for: []
   - pulsation perceptible par sensibilité aux résonances (rythme trop lent pour être biologique) ;
   - rêves intensément perturbants chez les voyageurs proches ;
   - ce que certains Chamanes décrivent comme *« il sait qu'on est là »*.
-- Aucun objet ramené ; aucune carte de l'intérieur. **Plus grand vide cartographique** non comblé d'Hybélior.
+- Aucun objet ramené ; aucune carte de l'intérieur. **Plus grand vide cartographique** non comblé d'Hybelior.
 
 ---
 
@@ -133,10 +133,10 @@ needs_review_for: []
 - Monolithes de pierre noire dispersés sur la tundra, par groupes de **trois ou sept**. Rochers ordinaires de jour ; lors des nuits de pleine lune, leurs runes s'illuminent d'une lueur argentée.
 - Lus par les Chamanes des Brumes comme un message — avertissement ou invitation selon les courants chamaniques. Aucun déchiffrement intégral rapporté : s'approcher des pierres actives provoque l'éveil des Gardiens de Givre voisins.
 - **Chamane Seld** (originaire d'une tribu côtière d'Alkaran, installé temporairement à Cestra depuis vingt ans en l'an 226 du Sillage) : dix ans d'observation des monolithes à distances croissantes. Théorie sur la structure du texte : *« Ce n'est pas un message. C'est une liste. Une énumération. »* (cf. [[../../Histoires/Cestra/Cestra|Histoires/Cestra]] §*Les Pierres Runiques de Lune*).
-- Seld n'a jamais publié, jamais formé d'élève, jamais consigné son hypothèse hors d'une conversation rapportée par un journaliste d'Endora. Sa lecture sera perdue s'il meurt sans transmettre.
+- Seld n'a jamais publié ni formé d'élève ; il n'a laissé que des notes fragmentaires — esquisses de runes, distances, hypothèses sur la structure — conservées par Sethiran à Noravia. Ces notes gardent ses observations, mais non sa lecture : la manière dont il croyait *lire* la liste, jamais consignée hors d'une conversation rapportée par un journaliste d'Endora, se perdra s'il meurt sans la transmettre.
 
 ### Les Chamanes des Brumes
-- Non résidents de Cestra : mystiques itinérants venus de divers continents, traversant le Bastion du Nord pour des raisons non formulées publiquement.
+- Non résidents de Cestra : mystiques itinérants venus de divers horizons, traversant le Bastion du Nord pour des raisons non formulées publiquement.
 - Pratique décrite comme une communication avec les esprits de glace et de vent par rituels de transe ; certains affirment pouvoir négocier un passage temporaire à travers les territoires des Gardiens.
 - Récits fragmentaires, parfois contradictoires. Seuls à avoir, à plusieurs reprises, pénétré le continent et à en être revenus.
 - Aucun ordre, aucune école, aucune doctrine commune ; transmission personne à personne, sur la durée d'un compagnonnage.

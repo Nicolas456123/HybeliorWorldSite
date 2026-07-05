@@ -17,7 +17,7 @@ implementation: "[[Geography Tables]]"
 
 ## L'idée de géographie
 
-À Hybelior, la géographie n'est pas un décor sur lequel l'Histoire s'écrit. Elle **est** déjà une parole. Treize continents, plus d'îles qu'un voyageur n'en peut nommer, des archipels qui apparaissent dans le brouillard et disparaissent à la marée suivante — cette diversité n'est pas un caprice de cosmographe. C'est, littéralement, la **traduction spatiale de la Polyphonie cosmique**. Si le monde est dialogue entre les voix Éternelles et les puissances Cosmiques, alors la géographie est la trace, sur la croûte du monde, de la manière dont ce dialogue s'est posé.
+À Hybelior, la géographie n'est pas un décor sur lequel l'Histoire s'écrit. Elle **est** déjà une parole. Douze continents, plus d'îles qu'un voyageur n'en peut nommer, des archipels qui apparaissent dans le brouillard et disparaissent à la marée suivante — cette diversité n'est pas un caprice de cosmographe. C'est, littéralement, la **traduction spatiale de la Polyphonie cosmique**. Si le monde est dialogue entre les voix Éternelles et les puissances Cosmiques, alors la géographie est la trace, sur la croûte du monde, de la manière dont ce dialogue s'est posé.
 
 Là où une voix domine, le monde prend une forme. Là où plusieurs s'entremêlent, il en prend une autre. Là où elles se taisent, restent les déserts de glace, les Brèches, les zones où la carte cesse de mentir et avoue qu'elle ne sait pas. La géographie d'Hybelior est ainsi la **première leçon de cosmologie** que reçoit qui voyage : *le monde n'est pas uniforme parce qu'il n'est pas dit d'une seule voix*.
 
@@ -29,13 +29,13 @@ Cette intuition change tout. Un voyageur qui traverse Hybelior n'est pas en trai
 
 ---
 
-## Treize continents, treize visages
+## Douze continents, douze visages
 
-Pourquoi treize ? La question revient souvent, et aucune réponse n'a fait taire les autres. Les théologiens d'Ordo Caelum y voient la signature d'un nombre cosmique — la somme des cinq Éternels et de huit voix Cosmiques majeures. Les cartographes, plus prosaïques, rappellent que le compte n'a jamais été arrêté par décret : il a émergé. On a découvert le treizième tard, après que d'autres avaient été oubliés et redécouverts au fil des Souffles. Treize est, peut-être, simplement le chiffre auquel le monde s'est stabilisé pour cette ère-ci. Un Cardinal pourrait en effacer un, ou en révéler un quatorzième. Personne ne sait.
+Pourquoi douze ? La question revient souvent, et aucune réponse n'a fait taire les autres. Les théologiens d'Ordo Caelum y voient la signature d'un nombre cosmique — la somme des cinq Éternels et des sept voix Cosmiques majeures. Les cartographes, plus prosaïques, rappellent que le compte n'a jamais été arrêté par décret : il a émergé. On en a découvert certains tard, après que d'autres avaient été oubliés puis redécouverts au fil des Souffles. Douze est, peut-être, simplement le chiffre auquel le monde s'est stabilisé pour cette ère-ci. Un Cardinal pourrait en effacer un, ou en révéler un treizième. Personne ne sait.
 
 Ce qui compte n'est pas le nombre, mais la **différence**. Chaque continent est, dans le langage des géographes d'Hybelior, une **dimension du monde** — pas un lieu parmi d'autres, mais une **manière qu'a le monde d'être**. L'un dit la rigueur du froid et la patience des esprits anciens. L'un dit le feu, la transformation, l'instabilité fertile. L'un dit la magie qui pense par elle-même, l'autre la magie qui se cache. L'un dit la mer, l'un dit la pierre, l'un dit le rêve.
 
-Aucun de ces visages n'épuise Hybelior. Ils s'**additionnent** sans se totaliser. Et c'est précisément cette incomplétude qui fait du voyage, dans Hybelior, autre chose qu'un parcours : une **enquête sur ce qu'est un monde**. Celui qui n'a connu que son continent natal n'a pas connu Hybelior. Il a connu une voix. Il en reste douze.
+Aucun de ces visages n'épuise Hybelior. Ils s'**additionnent** sans se totaliser. Et c'est précisément cette incomplétude qui fait du voyage, dans Hybelior, autre chose qu'un parcours : une **enquête sur ce qu'est un monde**. Celui qui n'a connu que son continent natal n'a pas connu Hybelior. Il a connu une voix. Il en reste onze.
 
 Pour l'inventaire détaillé — qui est nation, qui est île, qui est No Man's Land, et quelle lignée habite quoi — voir [[Continents/Index]]. Cette page n'est pas un atlas. Elle est une réflexion sur ce qu'un atlas, à Hybelior, ne peut pas dire.
 

@@ -8,7 +8,7 @@ needs_review_for: []
 
 # 03 — Mécaniques
 
-> Le cœur vivant d'Hybélior. Tout ce qui chiffre, règle, déclenche, récompense. Le **comment** d'HybeliorWorld.
+> Le cœur vivant d'Hybelior. Tout ce qui chiffre, règle, déclenche, récompense. Le **comment** d'HybeliorWorld.
 >
 > ⭐ Trois fichiers en tête forment le pilier d'identité du monde post-refonte : **[[Le Souffle]]**, **[[L'Accord]]**, **[[Les Ères]]**.
 

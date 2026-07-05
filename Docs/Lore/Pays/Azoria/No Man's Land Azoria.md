@@ -83,7 +83,7 @@ needs_review_for: []
 ### Tarnora — Village principal
 - Plus grand village d'Azoria : campement permanent de quelques centaines de naufragés et descendants, sur la plus grande île de l'archipel.
 - Possède un port naturel protégé des récifs — le seul mouillage sûr de la région. Marché informel (poisson, corail, débris d'épaves).
-- Fondation : non planifiée — un capitaine marchand découvrit le mouillage par chance lors d'une tempête, revint avec deux navires pour établir un comptoir, mais ses équipages, lassés de la mer, décidèrent de rester. (Cf. *Histoires/No Man's Land Azoria — La Lassitude du Capitaine*.)
+- Fondation : non planifiée — le capitaine marchand Vorn découvrit le mouillage par chance en s'abritant d'une tempête ; il ne cherchait ni ville ni comptoir. Son équipage, épuisé, refusa de repartir : d'abord trois hommes, puis quinze. Vorn repartit avec un équipage de remplacement et revint l'année suivante, laissant deux marins de plus. Le campement grandit ainsi, par lassitude accumulée plutôt que par projet. (Cf. *Histoires/No Man's Land Azoria — La Lassitude du Capitaine*.)
 - Population : Village
 - Région : No Man's Land Azoria
 
@@ -144,7 +144,7 @@ needs_review_for: []
 
 ### Galvoria — Village
 - Village de pêcheurs de perles sauvages ; les eaux abritent des huîtres perlières exceptionnelles produisant des perles dorées uniques au monde. Richesse convoitée — village perpétuellement assiégé.
-- Origine : première perle dorée trouvée par une enfant sur le récif, revendue par ignorance à un navire de passage puis à Tyndara pour une fortune ; le village s'organisa en hâte pour exploiter le récif, d'où des défenses toujours improvisées malgré la richesse. (Cf. *Histoires/No Man's Land Azoria — La Perle et la Fuite*.)
+- Origine : première perle dorée trouvée par une villageoise sur le récif, revendue par ignorance à un navire de passage puis à Tyndara pour une fortune ; le village s'organisa en hâte pour exploiter le récif, d'où des défenses toujours improvisées malgré la richesse. (Cf. *Histoires/No Man's Land Azoria — La Perle et la Fuite*.)
 - Population : Village
 - Région : No Man's Land Azoria
 

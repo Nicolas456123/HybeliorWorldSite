@@ -69,7 +69,7 @@ La même fragmentation est lue différemment selon les chancelleries :
 - **Lecture kharazirienne** : la fragmentation est un état naturel et souhaitable ; chaque nation reste maîtresse chez elle, et la diplomatie bilatérale suffit
 - **Lecture drakorienne** : sans cadre commun, la force prime ; tant mieux pour les puissances militaires, tant pis pour les autres
 - **Lecture cendarienne** : les affaires terrestres ne devraient pas être régies par des chancelleries de toute façon ; seules les voies théologiques comptent
-- **Lecture nysarienne** : les paroles diurnes ne lient pas durablement ; la fragmentation reflète simplement la nature mouvante des choses
+- **Lecture vytharienne** : les paroles diurnes ne lient pas durablement ; la fragmentation reflète simplement la nature mouvante des choses
 - **Lecture des wildlands** : ces débats ne les concernent pas — aucun cadre ne s'est jamais préoccupé d'eux
 
 Aucune lecture ne s'impose. Cette pluralité est elle-même devenue un trait structurel du monde présent.
@@ -140,13 +140,13 @@ Sans cadre supranational, les violences sont moins **contenues**. L'absence de g
 
 **La remutation du Lien sur 8 500 ans — mécanisme génétique (IS-09)**
 
-La question démographique ne peut être comprise sans considérer ce que les académiciens de Caeloria appellent la "remutation du Lien" : le processus par lequel le trait du Lien, devenu massivement récessif après le Fléau de l'Arrachement (An 0), s'est progressivement réactivé au fil des générations.
+La question démographique ne peut être comprise sans considérer ce que les académiciens de Caeloria appellent la "remutation du Lien" : le processus par lequel le trait du Lien, devenu massivement récessif après l'Arrachement (An 0), s'est progressivement réactivé au fil des générations.
 
 Au moment de l'Arrachement, la quasi-totalité des Liés perdent leur connexion active — mais la structure génétique du Noeud ne disparaît pas, elle devient silencieuse. Ces "porteurs silencieux" ne manifestent aucun Lien, mais transmettent le trait à leur descendance. À mesure que les conditions magiques se stabilisaient (la Trame résiduelle se reconstituant lentement à partir des fragments épargnés par l'Arrachement), les unions entre porteurs silencieux ont commencé à produire des Liés actifs.
 
 Estimations intermédiaires des académiciens de Lumasar (~10 150 ap.A) :
 - **~500 ap. Fléau** : premiers Liés renaissants signalés — phénomène rare, localisé près des anciens nœuds d'ancrage (Mont Cendra, sommets d'Ilthara) ; populations les traitent de malédictions ou de miracles selon les régions
-- **~5 000 ap.A** : quelques milliers de Liés actifs dans le monde entier ; reconnaissables mais encore marginaux ; leur intégration dans les structures politiques naissantes de l'Ère V définit les premières tensions du clivage Liés/Déliés
+- **~5 000 ap.A** : quelques milliers de Liés actifs dans le monde entier ; reconnaissables mais encore marginaux ; leur intégration dans les structures politiques naissantes de l'Ère VI définit les premières tensions du clivage Liés/Déliés
 - **~7 000 ap.A** : environ 10% de la population manifeste un Lien actif ; la proportion est suffisante pour que les Liés constituent une classe sociale reconnaissable dans la plupart des nations
 - **~10 200 ap.A** : environ 30% de la population porte un Lien actif — chiffre qui semble aujourd'hui en légère diminution selon les relevés de Caeloria (voir débat démographique ci-dessus), possiblement parce que les conditions magiques stagnent voire régressent depuis que la Trame ne s'est pas restabilisée après l'Arrachement
 
@@ -174,7 +174,7 @@ Ce mécanisme de remutation explique pourquoi les Liés sont inégalement répar
 - La position sur les Lies varie selon les factions : certains veulent les convertir, d'autres les eliminer
 
 **Origine et fondation (L-07)**
-- Fondée vers la fin de l'Ère VI (~6 000 ap.A), dans les décennies suivant les premiers grands conflits Liés/Déliés, par des Verithani radicaux ayant conclu que la voie philosophique ne suffirait pas
+- Fondée vers le milieu de l'Ère VI (~5 800 ap.A), dans les décennies suivant les premiers grands conflits Liés/Déliés, par des Verithani radicaux ayant conclu que la voie philosophique ne suffirait pas
 - Organisation secrète dès sa création, vouée à la reconstitution — puis à la destruction définitive — du Lien originel ; les fondateurs se divisèrent rapidement sur l'objectif : "reconstituer pour mieux briser" versus "briser sans reconstituer"
 - La première mention documentée (~9 750, archives de Kharazir) est probablement le premier cas d'infiltration superficielle — l'organisation aurait existé sous des noms différents pendant des siècles avant d'adopter le nom "Catena Fracta"
 - Les membres les plus puissants sont recrutés parmi les Liés les plus capables (paradoxe fondateur : des Liés qui veulent détruire le Lien) et les érudits obsédés par l'histoire de l'Arrachement
@@ -281,7 +281,7 @@ Ce mécanisme de remutation explique pourquoi les Liés sont inégalement répar
 
 **Origine géologique et lien à l'Ère I (IM-13)**
 
-Le Mont Cendra n'est pas seulement le site de l'Arrachement — il est l'un des plus anciens ancrages du monde. Les théologiens d'Arkhen et les géologues de Lumasar s'accordent sur un fait : le Cœur de Cendra est directement lié au **Mont Jumeau**, l'une des deux montagnes sacrées de l'Ère I. Le Mont Jumeau, autrefois pic volcanique jumeau du Mont Cendra à l'aube du monde, fut absorbé sous les glaces de Cestra par l'Éternel Glacien lors de la Grande Glaciation de l'Ère I — un événement qui scella dans la glace une quantité considérable d'énergie tellurique primordiale. Ce que Cendra pulse aujourd'hui pourrait être l'écho de cette énergie ancienne, longtemps comprimée sous Cestra, qui cherche à remonter par son point d'ancrage survivant. La connexion entre le Cœur de Cendra et le Mont Jumeau englacé reste une hypothèse académique, mais elle expliquerait pourquoi les anomalies de Cestra et les pulsations de Cendra semblent s'intensifier simultanément depuis ~9 900 ap.A.
+Le Mont Cendra n'est pas seulement le site de l'Arrachement — il est l'un des plus anciens ancrages du monde. Les théologiens d'Arkhen et les géologues de Lumasar s'accordent sur un fait : le Cœur de Cendra est directement lié au **Mont Jumeau**, l'une des deux montagnes sacrées de l'Ère I. Le Mont Jumeau, autrefois pic volcanique jumeau du Mont Cendra à l'aube du monde, fut absorbé sous les glaces de Cestra par l'Éthéré Glacien lors de la Grande Glaciation de l'Ère I — un événement qui scella dans la glace une quantité considérable d'énergie tellurique primordiale. Ce que Cendra pulse aujourd'hui pourrait être l'écho de cette énergie ancienne, longtemps comprimée sous Cestra, qui cherche à remonter par son point d'ancrage survivant. La connexion entre le Cœur de Cendra et le Mont Jumeau englacé reste une hypothèse académique, mais elle expliquerait pourquoi les anomalies de Cestra et les pulsations de Cendra semblent s'intensifier simultanément depuis ~9 900 ap.A.
 
 **Reactions des nations**
 - **Arkhen** : declare la zone "site de pelerinage sacre" ; controle l'acces, peur qu'une autre nation s'en empare
@@ -296,19 +296,20 @@ Le Mont Cendra n'est pas seulement le site de l'Arrachement — il est l'un des 
 
 **Ce que sont les esprits-lieux**
 - "Residus de conscience" des interactions entre Arborius et des lieux specifiques d'Evertia sur des milliers d'annees
-- Invisibles sauf aux chamanes entraines ; s'expriment par signes (mouvements de vegetation, variations de temperature, visions symboliques)
-- Evertia en comptait ~300 identifies par les chamanes de Thalmaris et Sylvara
+- Invisibles sauf a ceux qui savent ecouter ; s'expriment par signes (mouvements de vegetation, variations de temperature, visions symboliques). Chaque nation les ecoute a sa maniere : les Archidruides d'Evertia en transe, les Cantori de Thalmaris dans les frequences, les gardiennes de Sylvara au chevet de l'Arbre-Mere et dans la seve.
+- Evertia en comptait ~300 identifies au fil des generations ; le decompte le plus recent, restreint a la foret primordiale de l'ile d'Evertia, porte sur 217 esprits-lieux
 
 **Historique du silence**
 - Premiers silences signales ~9 950 : 3 esprits-lieux du nord de Sylvara ne repondent plus
-- Progression brutale apres ~10 050 : en 50 ans, 200 sur 300 sont silencieux ; progression du nord vers le sud
-- Dernier esprit-lieu a avoir repondu clairement : ~10 130 ; chamane Sylvara consigne : l'esprit dit "ils arrivent par le dessous"
-- Depuis : silence total
+- Progression lente et cloisonnee : sur les generations suivantes, les extinctions gagnent du nord vers le sud sans qu'aucune nation ne partage ses observations avec les autres
+- La phase recente s'accelere : dans les trois annees precedant l'arrivee de Sorin Valthen, 189 des 217 esprits-lieux de la foret primordiale se sont tus ; le silence reste partiel (28 repondent encore)
+- Le dernier esprit-lieu a avoir repondu clairement au nord aurait, selon ce que consigne une gardienne de Sylvara, dit "ils arrivent par le dessous"
 
-**Theories**
-- *Thalmaris* (officielle) : Arborius rappelle ses derniers fils avant de sombrer completement
-- *Sylvara* (chamanique) : "ils arrivent par le dessous" est un avertissement — quelque chose sous Evertia (reste du Panghor) s'eveille
-- *Orvalis* (academique) : les esprits-lieux se sont retires dans le Lien residuel ; un evenement exterieur les a effraves
+**Lectures (aucune partagee a l'echelle continentale)**
+- *Thalmaris* (Cantori, a mots couverts) : Arborius rappelle ses derniers fils avant de sombrer completement
+- *Sylvara* (gardiennes, gardee entre elles) : "ils arrivent par le dessous" est un avertissement — quelque chose sous Evertia (reste du Panghor) s'eveille
+- *Orvalis* (academique, etrangere) : les esprits-lieux se sont retires dans le Lien residuel ; un evenement exterieur les a effrayes
+- Chaque nation garde son constat pour elle (Archidruides d'Evertia, Cantori de Thalmaris, gardiennes de Sylvara) : aucune doctrine commune, aucune annonce publique — marqueur de la fragmentation du continent
 
 ---
 
@@ -341,7 +342,7 @@ Certains théologiens de Vytharia, en creusant les fragments du Message de Mirat
 
 **Note de lore — le Sixième Éternel (DAR-08)**
 
-Dans les archives fragmentées de Navoria (récupérées par Mosrack) et dans un seul texte de l'Ordo Caelum de Seraphia daté de l'Ère III tardive, apparaît une référence isolée à "un sixième Éternel" dont le nom n'est pas transcrit — la ligne de texte est lacunaire dans tous les exemplaires connus. Les cinq Éternels canoniques sont identifiés (Flamara, Eldoria, Arborius, Glacien, et un cinquième dont l'identité est débattue). La mention d'un "sixième" est une **référence intentionnelle non développée** — un fil laissé dans le tissu du lore, sans suite explicite pour l'instant. Elle n'est pas une erreur de copiste : les académiciens de Lumasar ont vérifié l'occurrence dans trois sources indépendantes. Ce que serait ce sixième Éternel, s'il existe ou a existé, reste délibérément hors du canon accessible.
+Dans les archives fragmentées de Navoria (récupérées par Mosrack) et dans un seul texte de l'Ordo Caelum de Seraphia daté de l'Ère III tardive, apparaît une référence isolée à "un sixième Éternel" dont le nom n'est pas transcrit — la ligne de texte est lacunaire dans tous les exemplaires connus. Les cinq Éternels canoniques sont identifiés (Celestia, Noctis, Tempora, Eldoria, Navigor). La mention d'un "sixième" est une **référence intentionnelle non développée** — un fil laissé dans le tissu du lore, sans suite explicite pour l'instant. Elle n'est pas une erreur de copiste : les académiciens de Lumasar ont vérifié l'occurrence dans trois sources indépendantes. Ce que serait ce sixième Éternel, s'il existe ou a existé, reste délibérément hors du canon accessible.
 
 ---
 
@@ -545,7 +546,6 @@ Hybelior en 10 200 ap.A est un monde de savoirs fragmentés. Chaque nation poss�
 
 **Innovations récentes (~9 500 → 10 200 ap.A)**
 - **Horlogerie mécanique** (~9 700, Altram) : premières horloges à engrenages ; standardisation des heures de marché dans les nations commerçantes
-- **Presse à caractères mobiles** (~9 200, Lumasar) : révolution de l'information ; bulletins quotidiens, livres accessibles, démocratisation du savoir
 - **Chirurgie sans Lien** (~9 800, Sylvara) : techniques d'opération réussies sans Liés guerisseurs ; considérées comme une hérésie par les praticiens du Lien de Caeloria
 - **Systèmes de drainage urbain** (~9 600, Haldria) : égouts couverts dans les grandes cités ; réduction des épidémies dans les centres commerciaux
 - **Code chiffré de Lumasar** (~10 000, Lumasar) : système de chiffrement des communications commerciales ; adopté progressivement par les diplomates
@@ -815,7 +815,7 @@ La Grande-Duché navigue entre ses ambitions historiques et ses contraintes actu
 Cestra est l'un des continents les moins connus, officiellement colonisé par Noravia depuis ~9 900 ap.A. Mais "colonisé" est un terme optimiste : Noravia est une ville-forteresse côtière de 25 000 habitants entourée de 200 km de territoire cartographié. Au-delà : l'inconnu. Noravia n'a que ~300 ans d'existence — une colonie très jeune, née de la Concession de Thar-Sel (~8 900) et formalisée comme entité politique propre en ~9 900.
 
 **Structure politique de Cestra (IM-12)**
-- Cestra, la plus ancienne entité politique continue du monde, fonctionne comme une théocratie glaciaire — gouvernée par un Conseil des Givres composé de sept archontes élus à vie parmi les familles fondatrices. Son isolement géographique derrière les glaces permanentes en fait à la fois la nation la plus stable et la plus énigmatique.
+- Noravia, seule entité politique de tout Cestra, fonctionne comme une théocratie glaciaire — gouvernée par un Conseil des Givres composé de sept archontes élus à vie parmi les familles fondatrices. Son isolement géographique derrière les glaces permanentes, plus que son âge (la colonie n'a que ~300 ans), en fait la plus énigmatique — et, à l'échelle du continent inexploré qui l'entoure, la seule structure de pouvoir reconnaissable.
 - Les sept archontes ne sont jamais tous vus simultanément par des étrangers ; les rares diplomates admis à Noravia traitent avec un ou deux représentants à la fois — une protection délibérée contre toute décapitation de la direction
 - Les "familles fondatrices" de Noravia (~9 900 ap.A) sont une poignée de familles d'explorateurs Caelori et Altram qui se sont sédentarisées à partir de la Concession de Thar-Sel (~8 900) ; leurs descendants forment aujourd'hui une aristocratie de fait, la seule éligible au Conseil des Givres
 - L'expression "théocratie glaciaire" vient du fait que les décisions du Conseil sont présentées comme des "révélations de Glacien" (l'Éther des glaces permanentes de Cestra), même si la nature exacte de cette dévotion reste inconnue des étrangers

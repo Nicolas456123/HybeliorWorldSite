@@ -1,4 +1,4 @@
-﻿---
+---
 tags: [religions, lore, cosmologie, croyances]
 last_review: 2026-05-06
 cadre_interne_note: "Vue d'ensemble — chaque religion individuelle porte son propre Piège dominant, voir fichiers concernés"
@@ -341,7 +341,7 @@ Plusieurs théologiens d'Ignis Aeternum et de Vael'Kurash — dont Cantus Mundi 
 ## Constantes structurelles
 
 > [!note] Observation ethnographique
-> Cette section consigne ce qu'un observateur attentif d'Hybélior remarque en circulant longtemps entre les temples — sans prétendre à une théorie. Les fidèles eux-mêmes ne formulent pas ces constantes, et si on les leur soumet, ils contestent généralement qu'elles s'appliquent à *leur* religion.
+> Cette section consigne ce qu'un observateur attentif d'Hybelior remarque en circulant longtemps entre les temples — sans prétendre à une théorie. Les fidèles eux-mêmes ne formulent pas ces constantes, et si on les leur soumet, ils contestent généralement qu'elles s'appliquent à *leur* religion.
 
 À mesure que l'on compare les onze grandes traditions actuelles, certains motifs reviennent avec une régularité qui finit par étonner.
 
@@ -351,7 +351,7 @@ Plusieurs théologiens d'Ignis Aeternum et de Vael'Kurash — dont Cantus Mundi 
 
 **Presque toutes ont un domaine sur lequel elles ne se laissent pas examiner.** Chaque grande religion possède un point doctrinal qu'elle protège du débat — non par interdit explicite, mais par habitudes de transmission, par silence des chroniqueurs, par disparition régulière des manuscrits qui tentent de l'aborder. Les *Roteri* ne discutent jamais le Grand Calendrier, les *Stellari* jamais la qualification des Archi-Stellari, les *Vigili* jamais la composition des Herbes de Somnix. Ce n'est pas du secret organisé : c'est un **point aveugle culturel**, et les religions qui en ont le moins (les *Filii Fornacis*, les *Cantori*) sont aussi celles qui se reproduisent le moins facilement à grande échelle.
 
-**Presque toutes considèrent leur lecture comme la plus complète.** Cette dernière constante est la plus discrète parce qu'elle ne s'énonce pas. Aucune religion d'Hybélior ne se reconnaît partielle ; toutes admettent que les autres voient *quelque chose*, mais aucune ne s'avoue elle-même *un angle parmi d'autres*. Cette posture — paradoxale au regard du « Principe fondamental » consigné en tête de cet article — est ce qui distingue la doctrine vécue de la doctrine décrite par un observateur extérieur.
+**Presque toutes considèrent leur lecture comme la plus complète.** Cette dernière constante est la plus discrète parce qu'elle ne s'énonce pas. Aucune religion d'Hybelior ne se reconnaît partielle ; toutes admettent que les autres voient *quelque chose*, mais aucune ne s'avoue elle-même *un angle parmi d'autres*. Cette posture — paradoxale au regard du « Principe fondamental » consigné en tête de cet article — est ce qui distingue la doctrine vécue de la doctrine décrite par un observateur extérieur.
 
 L'observateur qui aligne ces motifs s'aperçoit qu'il n'a expliqué aucune religion : il a simplement noté que la plupart **partagent une grammaire** dont elles ne sont pas conscientes. Cette grammaire n'est nommée par aucun temple. Quelques traités mineurs en abordent des fragments — *Rota Mundi* parle parfois de « la roue qui tourne en chacun », les *Cantori* d'une « basse continue » sous toutes les liturgies — mais aucune synthèse globale n'a été tentée par un fidèle d'aucune tradition. Les bibliothécaires d'Astravia, qui ont accumulé les données, n'en ont jamais publié de lecture transverse : leur règle interne le leur interdit.
 
@@ -359,7 +359,7 @@ L'observateur qui aligne ces motifs s'aperçoit qu'il n'a expliqué aucune relig
 
 ## Schismes documentés
 
-L'arbre généalogique des religions d'Hybélior n'est pas un déploiement linéaire : il est ponctué de **cinq grandes ruptures** historiquement attestées. Chacune éclaire les tensions internes que les onze traditions actuelles continuent de porter.
+L'arbre généalogique des religions d'Hybelior n'est pas un déploiement linéaire : il est ponctué de **cinq grandes ruptures** historiquement attestées. Chacune éclaire les tensions internes que les onze traditions actuelles continuent de porter.
 
 | Schisme | Tradition source | Branches issues |
 |---------|------------------|-----------------|
@@ -419,4 +419,4 @@ Deux traditions actuelles n'ont pas connu de schisme majeur : *Cantus Mundi* (sy
 
 ---
 
-*Liens : [[Cosmologie]] | [[Géographie]] | [[Index GDD]]*
+*Liens : [[Cosmologie]] | [[Géographie]] | [[GDD/02 - Monde/Index|Index GDD]]*

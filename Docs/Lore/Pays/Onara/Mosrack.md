@@ -117,7 +117,7 @@ Village fortifié servant de dépôt d'armes ; labyrinthe de bunkers et d'entrep
 - Région : Fugnord
 
 ### Kelthor
-Poste avancé des services de renseignement (formation à la torture, l'interrogatoire, l'infiltration, le sabotage) ; localisation absente des cartes officielles. Fondé après la défaite de la Guerre des Cent-Jours, attribuée à l'absence de réseau d'espionnage. Premier directeur du renseignement : une femme ; sa statue, au centre du village, est la seule statue de femme en Mosrack.
+Poste avancé des services de renseignement (formation à la torture, l'interrogatoire, l'infiltration, le sabotage) ; localisation absente des cartes officielles. Fondé au lendemain de la Guerre des Cent-Jours, après qu'un revers coûteux du début du conflit — la coalition ayant frappé la première, faute de tout réseau d'espionnage mosrackien pour l'anticiper — eut manqué de tout perdre avant le sursaut de Volkar. Premier directeur du renseignement : une femme ; sa statue, au centre du village, est la seule statue de femme en Mosrack.
 - Population : Village
 - Région : Fugnord
 
@@ -171,7 +171,7 @@ Village frontalier fortifié, hérissé de tours de guet et de tranchées ; prem
 | **Iskara** | Respect hostile | Deux puissances militaires qui se jaugent à distance. Iskara est défensive, Mosrack offensive — une confrontation directe serait dévastatrice pour les deux. |
 | **Elarian** | Hostilité ouverte | Des escarmouches navales régulières. Les Elariens méprisent l'industrialisme de Mosrack, et Mosrack envie les ressources du nord. |
 | **Avalor** | Mépris réciproque | Les Mosrackiens voient Avalor comme un obstacle à exploiter. Les Avaloréens voient Mosrack comme une abomination. |
-| **Altram** | Tensions frontalières | Les deux nations partagent des frontières contestées. Des incidents sporadiques maintiennent une atmosphère de méfiance. |
+| **Altram** (Alkaran) | Dépendance méfiante | Aucune frontière commune (Altram est sur un autre continent) : le lien est maritime et commercial. Mosrack dépend du fer d'Altram pour ses forges de guerre ; les convois transocéaniques sont escortés, et des incidents sporadiques entre navires entretiennent la méfiance malgré l'intérêt mutuel. |
 
 ---
 

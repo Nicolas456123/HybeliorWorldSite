@@ -103,7 +103,7 @@ Lorsque tu remportes un siège mémorable, ce n'est pas la forteresse qui te sui
 
 Hybelior fait du PvP un **moteur de réputation** — auprès des factions, des guildes, des autres voyageurs. Tes choix s'inscrivent. Le monde sait, à mesure que tu y combats, **qui tu es** : un protecteur des routes, un pillard opportuniste, un duelliste loyal, un siégeur impitoyable, un médiateur respecté. Aucun de ces rôles n'est imposé. Tous sont reconnus.
 
-Cette dimension renvoie à [[Factions]] et à [[Réputation et Reconnaissance]] — car ce qui se construit dans le combat se mesure ailleurs. À Hybélior, **on n'engage pas le duel pour les dépouilles**. On le joue pour devenir quelqu'un que le monde nomme.
+Cette dimension renvoie à [[Factions]] et à [[Réputation et Reconnaissance]] — car ce qui se construit dans le combat se mesure ailleurs. À Hybelior, **on n'engage pas le duel pour les dépouilles**. On le joue pour devenir quelqu'un que le monde nomme.
 
 > *« On m'a demandé un jour ce que j'avais gagné dans toutes ces guerres. J'ai fait l'inventaire : pas grand-chose en biens. Mais tout en histoire. Quand je rentre dans une auberge, on sait qui je suis avant même que je m'asseye. C'est ça, le butin. »*
 >

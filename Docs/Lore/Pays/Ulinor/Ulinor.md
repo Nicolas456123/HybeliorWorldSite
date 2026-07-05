@@ -5,7 +5,7 @@ status: drafted
 last_review: 2026-06-05
 needs_review_for: []
 ---
-# UlinorPays — L'Archipel des Voix Oubliées
+# Ulinor — L'Archipel des Voix Oubliées
 
 ## Informations générales
 
@@ -38,7 +38,7 @@ needs_review_for: []
   - Folinor quatrième — nourriture (pouvoir matériel mais peu spirituel).
   - Elarion et Tressalia partagent la dernière position — ruines les moins étudiées.
 - **Règle du « non-débat sur les Anciens »** : par tradition tacite, le Conseil des Six ne discute pas du contenu de ce que les Écho-Guides perçoivent. Les Écho-Guides rapportent, le Conseil agit. Protège les Écho-Guides de la contestation ; empêche toute interrogation collective sur la véracité des perceptions. Aucun chef tribal n'a publiquement contesté la fiabilité des perceptions en cinq générations.
-- **Verrou des Tatouages des Ruines** : chaque adulte porte un glyphe choisi par son Écho-Guide, tenu pour exprimer sa nature profonde mais fonctionnant aussi comme marqueur d'allégeance (il rattache l'individu à la lecture de son Écho-Guide). Refuser un Tatouage ou en demander le changement est extrêmement rare ; cas connus passés sous silence : Selvane à Xerathis, un pêcheur d'Elaris dont le nom n'est plus prononcé.
+- **Verrou des Tatouages des Ruines** : chaque adulte porte un glyphe choisi par son Écho-Guide, tenu pour exprimer sa nature profonde mais fonctionnant aussi comme marqueur d'allégeance (il rattache l'individu à la lecture de son Écho-Guide). Refuser un Tatouage ou en demander le changement est extrêmement rare ; cas connus passés sous silence : un pêcheur d'Elaris dont le nom n'est plus prononcé ; l'Écho-Guide Selvane, retirée à Xerathis, fit effacer son glyphe de sa propre tombe — un effacement toléré mais jamais commenté.
 - **Collecte des Pierres de Mémoire perdues** : quand une famille perd la lignée de ses Pierres (mort sans descendance, exil), elles sont déposées dans les ruines de la tribu d'origine. Sur plusieurs siècles, cette pratique a accumulé dans les ruines des Pierres de Mémoire que plus personne ne lit.
 
 ---
@@ -231,7 +231,7 @@ Collines boisées du sud-est, forêt moins dense que celle de Xyria mais tout au
 
 ## Secrets et intrigues
 
-- **Le Message de Mirathi** : l'Écho-Guide suprême prétend avoir reçu un message complet des Anciens dans le Canyon — un avertissement sur un « éveil imminent ». Elle refuse de le partager avec le Conseil des Six, créant des fissures dans la Confédération. Certains chefs pensent qu'elle ment pour consolider son pouvoir ; d'autres craignent qu'elle dise la vérité.
+- **Le Message de Mirathi Voix-d'Ambre** : l'Écho-Guide suprême prétend avoir reçu un message complet des Anciens dans le Canyon — un avertissement sur un « éveil imminent ». Elle refuse de le partager avec le Conseil des Six, créant des fissures dans la Confédération. Certains chefs pensent qu'elle ment pour consolider son pouvoir ; d'autres craignent qu'elle dise la vérité.
 - **Les Ruines Interdites de Serenth** : dans les Grottes de Cristal de l'île de Serenth, une chambre scellée serait gardée par la résonance destructrice des cristaux (douleurs insupportables à l'approche). Les Druides de l'Écho de Nylor prétendent savoir comment y entrer mais refusent — ce qui s'y trouve « n'est pas prêt à être vu ».
 - **Le Huitième Glyphe** : les ruines d'Ulinor utilisent, selon les Écho-Guides, un alphabet de sept glyphes fondamentaux. Certains affirment avoir perçu un huitième glyphe — absent de toute ruine connue, mais que les échos du Canyon dessineraient parfois dans l'esprit des sensitifs. Signification non établie dans la tradition ; les plus anciens chamanes préfèrent ne pas en parler.
 - **Les Enfants de l'Écho** : selon les habitants de Jentaris, certains enfants naissent capables de reproduire n'importe quel son (voix humaines, cris d'animaux, grondements de la terre). Pris en charge par les Écho-Guides, leur formation est tenue à l'écart. Une part de la rumeur villageoise lit cette particularité, en langage Foedus Animae, comme la marque que les Anciens auraient façonné l'enfant in utero (lecture non validée publiquement par les Écho-Guides).

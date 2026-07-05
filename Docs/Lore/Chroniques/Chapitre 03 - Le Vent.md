@@ -155,7 +155,7 @@ Nous traversions une étendue que Dava appelait simplement « la grande herbe »
 
 Le vent était dans le dos. Le soleil à notre droite, déclinant vers l'après-midi. Les chevaux avançaient à un trot léger, les oreilles mobiles, comme si eux aussi savouraient quelque chose dans cette lumière particulière. J'avais rangé mon carnet et je marchais simplement, les bras ballants, la tête relevée.
 
-J'ai compris, à ce moment précis, quelque chose que j'aurais dû savoir plus tôt et que je n'aurais peut-être jamais su sans ces plaines et ce vent : depuis vingt-huit jours, je vivais contracté. J'avais répondu à la peur, à l'injustice, à l'humiliation de Kharazir, à l'indifférence polie de Lumasar, en me rétractant — en réduisant l'espace que j'occupais dans le monde, en m'aplatissant pour passer sous les portes qui se fermaient. Et cela avait fonctionné : je m'étais rendu moins visible, moins accrochant, moins susceptible d'être arrêté. Mais cela m'avait aussi rendu moins présent à moi-même.
+J'ai compris, à ce moment précis, quelque chose que j'aurais dû savoir plus tôt et que je n'aurais peut-être jamais su sans ces plaines et ce vent : depuis mon départ de Kharazir, je vivais contracté. J'avais répondu à la peur, à l'injustice, à l'humiliation de Kharazir, à l'indifférence polie de Lumasar, en me rétractant — en réduisant l'espace que j'occupais dans le monde, en m'aplatissant pour passer sous les portes qui se fermaient. Et cela avait fonctionné : je m'étais rendu moins visible, moins accrochant, moins susceptible d'être arrêté. Mais cela m'avait aussi rendu moins présent à moi-même.
 
 Les plaines ne permettaient pas cela. Il n'y avait pas de mur contre lequel s'aplatir. Il n'y avait que le vent, qui soufflait également sur tous.
 

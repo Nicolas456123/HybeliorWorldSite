@@ -21,7 +21,7 @@ Après la victoire, Brenna proposa un accord sans précédent : les clans rester
 
 ## Le Clan du Kraken — « Le Village Vide »
 
-Il existait autrefois un huitième clan majeur : le **Clan du Kraken**. Vers l'an 4 320 ap.A, par une nuit d'hiver, il disparut. Le village fut retrouvé vide, pas un corps. Les Skalds refusent d'en parler en assemblée, et aucun Cairn n'est tenu pour les morts du Kraken — personne ne crie leur nom.
+Il existait autrefois un huitième clan majeur : le **Clan du Kraken**. Vers l'an 9 640 ap.A, par une nuit d'hiver, il disparut. Le village fut retrouvé vide, pas un corps. Les Skalds refusent d'en parler en assemblée, et aucun Cairn n'est tenu pour les morts du Kraken — personne ne crie leur nom.
 
 Plusieurs lectures circulent à voix basse. La lecture *politique*, tenue pour la plus probable par les chroniqueurs alkarans qui en eurent vent par recoupement : une trahison vengée par les sept autres clans en une nuit de Holmgang collectif. La lecture *cosmique*, la plus durable : un enlèvement par ce que les pêcheurs du Clan du Serpent de Mer nomment les *Enfants du Kraken* — des silhouettes humaines qu'ils jurent avoir vues nageant sous les eaux glacées du fjord, trop profond et trop froid pour être humaines, et dont les chamans du Givre refusent de parler. La lecture *sceptique*, la moins commentée : une fuite organisée du clan vers Cestra ou plus loin. Les Skalds officiels n'ont pas de position.
 
@@ -29,13 +29,13 @@ Plusieurs lectures circulent à voix basse. La lecture *politique*, tenue pour l
 
 ## La Bataille des Trois Cris
 
-Vers l'an 4 580 ap.A, le **Clan du Loup** et le **Clan de la Hache** s'affrontèrent dans un combat fratricide où chaque guerrier cria les noms de ses ancêtres — y compris ceux qui étaient communs aux deux clans, car les deux lignées descendent en partie d'un fondateur partagé. Le Skald de l'Ours qui assista à la bataille rapporta, dans un chant qu'on n'a pas conservé, que *« les ancêtres ont entendu deux fois leur nom, et n'ont su quel bras tenir »*. Le combat se solda par un massacre indécis.
+Vers l'an 9 900 ap.A, le **Clan du Loup** et le **Clan de la Hache** s'affrontèrent dans un combat fratricide où chaque guerrier cria les noms de ses ancêtres — y compris ceux qui étaient communs aux deux clans, car les deux lignées descendent en partie d'un fondateur partagé. Le Skald de l'Ours qui assista à la bataille rapporta, dans un chant qu'on n'a pas conservé, que *« les ancêtres ont entendu deux fois leur nom, et n'ont su quel bras tenir »*. Le combat se solda par un massacre indécis.
 
 Depuis, les deux clans ne crient plus en commun les noms partagés : chacun a élagué sa lignée pour éviter le doublon. Cette élagation rituelle est tenue pour normale ; aucun Skald moderne n'admet qu'elle soit le résultat d'un traumatisme. C'est aussi cette bataille qui poussa Aaslund, au Clan de la Hache, à bâtir son Cairn collectif où chaque nom n'est inscrit qu'une fois.
 
 ---
 
-## Skaldria aujourd'hui
+## Skaldoria aujourd'hui
 
 La Confédération tient depuis des générations, mais elle reste fragile. Les clans continuent de se quereller pour les territoires de chasse, les droits de pêche et les insultes d'honneur. Le **Cercle des Jarls** se réunit rarement, et ses discussions dégénèrent souvent en duels.
 
@@ -109,9 +109,9 @@ Les chamans du Givre refusent d'expliquer ce qui s'est passe a Eyrik cette nuit-
 
 ## Brennvar — « Le Cri qui se Raccourcit »
 
-C'est à Brennvar, après la victoire du Fjord Gelé, que le Cri du Cairn fut raccourci pour la première fois. Avant Brenna Croc-de-Glace, on criait jusqu'à dix-sept générations d'ancêtres avant un combat — un Cri qui pouvait durer une demi-heure. Vers l'an 4 240 ap.A, Brenna réduisit le rituel à *trois noms* : son père, son grand-père, le fondateur du clan. La réduction est officiellement attribuée à la nécessité tactique, un Cri trop long retardant l'engagement. Une lecture marginale, qu'aucun Skald n'a consigné par écrit, veut que Brenna ait *cessé d'entendre* les ancêtres au-delà de la troisième génération et qu'elle ait codifié son propre déficit en règle universelle. Génération après génération, les Cris ont encore raccourci sans être renommés ; certains jeunes guerriers du Clan du Cerf ne crient plus aujourd'hui qu'un seul nom — celui d'un grand-père qu'ils ont connu vivant.
+C'est à Brennvar, après la victoire du Fjord Gelé, que le Cri du Cairn fut raccourci pour la première fois. Avant Brenna Croc-de-Glace, on criait jusqu'à dix-sept générations d'ancêtres avant un combat — un Cri qui pouvait durer une demi-heure. Vers l'an 9 560 ap.A, Brenna réduisit le rituel à *trois noms* : son père, son grand-père, le fondateur du clan. La réduction est officiellement attribuée à la nécessité tactique, un Cri trop long retardant l'engagement. Une lecture marginale, qu'aucun Skald n'a consigné par écrit, veut que Brenna ait *cessé d'entendre* les ancêtres au-delà de la troisième génération et qu'elle ait codifié son propre déficit en règle universelle. Génération après génération, les Cris ont encore raccourci sans être renommés ; certains jeunes guerriers du Clan du Cerf ne crient plus aujourd'hui qu'un seul nom — celui d'un grand-père qu'ils ont connu vivant.
 
-Brenna Croc-de-Glace mourut à Brennvar en l'an 4 285 ap.A, dans son sommeil, par un matin d'hiver sans bataille. Sa requête était inhabituelle : qu'elle ne soit pas brûlée comme un guerrier, ni confiée à la mer comme une marine, mais *exposée au sommet du fjord*, au-dessus de Brennvar, pratique normalement réservée aux chamanes. Sa famille respecta la requête.
+Brenna Croc-de-Glace mourut à Brennvar en l'an 9 605 ap.A, dans son sommeil, par un matin d'hiver sans bataille. Sa requête était inhabituelle : qu'elle ne soit pas brûlée comme un guerrier, ni confiée à la mer comme une marine, mais *exposée au sommet du fjord*, au-dessus de Brennvar, pratique normalement réservée aux chamanes. Sa famille respecta la requête.
 
 Personne ne lui demanda pourquoi avant qu'il soit trop tard. Personne ne s'y attendait. Brenna avait mené sept clans à la victoire ; elle aurait dû finir sur un bûcher de victoire, le Cri de ses ancêtres en bouche. Au lieu de cela, elle demanda l'exposition silencieuse — pratique de chamanes, qui ne crient pas.
 
@@ -119,7 +119,7 @@ Le Skald du Loup qui composa le chant funéraire de Brenna — Hrolf le Long, do
 
 Hrolf nota, sur l'écorce d'un bouleau qu'il garda chez lui jusqu'à sa propre mort vingt ans plus tard, une seconde lecture qu'il n'osa pas chanter en assemblée. *« Brenna a raccourci le Cri parce qu'elle n'entendait plus au-delà du troisième nom. Elle a demandé l'exposition parce qu'elle ne croyait plus que la flamme la rendrait à la tempête. Elle est partie comme elle a vécu : elle a fait avec ce qu'elle avait. »*
 
-L'écorce fut retrouvée par les arrière-petits-enfants de Hrolf en l'an 4 480 ap.A, presque deux siècles plus tard. Ils la lurent. Ils la rangèrent. Aucun d'eux n'en a parlé à un Skald officiel. La lecture marginale de Hrolf circule par recopiage discret entre les Skalds du Loup les plus expérimentés, transmise sans explication aux jeunes Skalds qu'on juge prêts à *entendre que Brenna n'entendait peut-être plus*.
+L'écorce fut retrouvée par les arrière-petits-enfants de Hrolf en l'an 9 800 ap.A, presque deux siècles plus tard. Ils la lurent. Ils la rangèrent. Aucun d'eux n'en a parlé à un Skald officiel. La lecture marginale de Hrolf circule par recopiage discret entre les Skalds du Loup les plus expérimentés, transmise sans explication aux jeunes Skalds qu'on juge prêts à *entendre que Brenna n'entendait peut-être plus*.
 
 Elle n'est jamais formulée publiquement. Le Cri actuel — trois noms — porte toujours, en règle, son fondateur, son grand-père et son père. Personne ne dit que ces trois noms sont la limite *physique* de l'écoute brennienne, codifiée en rituel universel. Personne, à Brennvar, ne demande pourquoi le Cri n'est pas plus court à cinq noms ou plus long à neuf. Trois est, simplement, *la mesure*.
 
@@ -127,7 +127,7 @@ Elle n'est jamais formulée publiquement. Le Cri actuel — trois noms — porte
 
 ## Hjelmgar — « Olv le Bas »
 
-Olv était éclaireur du Clan du Corbeau, vers l'an 4 350 ap.A, quand il découvrit que ses Cris attiraient les ennemis aussi sûrement qu'ils invoquaient ses ancêtres. Trois embuscades dans une saison. Trois échappées de justesse. Trois équipes qui le suivaient et qui ne revinrent pas.
+Olv était éclaireur du Clan du Corbeau, vers l'an 9 670 ap.A, quand il découvrit que ses Cris attiraient les ennemis aussi sûrement qu'ils invoquaient ses ancêtres. Trois embuscades dans une saison. Trois échappées de justesse. Trois équipes qui le suivaient et qui ne revinrent pas.
 
 À la quatrième sortie, il essaya autre chose. Il chuchota.
 
@@ -145,7 +145,7 @@ Le Cri murmuré du Clan du Corbeau est tenu, dans toute la Confédération, pour
 
 ## Faelmar — « Hreth la Calme »
 
-Hreth Femme-de-Feldris était du Clan du Cerf, née à Faelmar vers l'an 4 700, morte en 4 770. Elle avait vécu sans gloire particulière — chasseresse adroite, mère de quatre, veuve à cinquante ans, vieille femme respectée dans les vallées intérieures. Aucun chant majeur ne la cite. Sa lignée était stable, sa pratique conforme.
+Hreth Femme-de-Feldris était du Clan du Cerf, née à Faelmar vers l'an 10 020, morte en 10 090. Elle avait vécu sans gloire particulière — chasseresse adroite, mère de quatre, veuve à cinquante ans, vieille femme respectée dans les vallées intérieures. Aucun chant majeur ne la cite. Sa lignée était stable, sa pratique conforme.
 
 Sur son lit de mort, par un matin de printemps tardif, elle demanda à sa fille Vela ceci : *« je ne veux pas être brûlée. Je ne veux pas être confiée à la mer. Je ne veux pas être exposée à la montagne. Je veux être *rendue à la terre*, comme la chèvre qui meurt en hiver et qu'on enterre pour le printemps. Au pied du bouleau qui pousse derrière le four à pain. »*
 
@@ -169,11 +169,11 @@ Le Drakkar le plus ancien encore en service à Drakkengarde — un long-vaisseau
 
 La règle clanique du Serpent de Mer veut qu'un Drakkar reçoive son nom à l'issue de sa première bataille victorieuse. Si le navire revient, son nom devient son blason. S'il ne revient pas, son nom n'est pas attribué — le navire est *anonyme jusqu'au retour*.
 
-Le Drakkar de Drakkengarde a été baptisé trois fois. La première en l'an 4 850, après une expédition côtière contre des pirates de Solena ; il fut nommé *Brise-Galère*. Il revint pour quatre saisons supplémentaires sans incident. Puis, en l'an 4 855, en revenant d'une expédition vers Cestra, son équipage déclara collectivement *que ce n'était plus le même navire*. Personne ne précisa ce qu'il y avait de différent. Le bois était le même, la voile la même, les rames les mêmes. Mais l'équipage refusa désormais de l'appeler *Brise-Galère*. Il fut renommé *Le Sans-Voix*. Le second nom tint sept ans, puis fut abandonné de la même façon, sans incident précis. Le troisième nom — *Lent* — ne tint que deux saisons.
+Le Drakkar de Drakkengarde a été baptisé trois fois. La première en l'an 10 170, après une expédition côtière contre des pirates de Solena ; il fut nommé *Brise-Galère*. Il revint pour quatre saisons supplémentaires sans incident. Puis, en l'an 10 175, en revenant d'une expédition vers Cestra, son équipage déclara collectivement *que ce n'était plus le même navire*. Personne ne précisa ce qu'il y avait de différent. Le bois était le même, la voile la même, les rames les mêmes. Mais l'équipage refusa désormais de l'appeler *Brise-Galère*. Il fut renommé *Le Sans-Voix*. Le second nom tint sept ans, puis fut abandonné de la même façon, sans incident précis. Le troisième nom — *Lent* — ne tint que deux saisons.
 
-Depuis l'an 4 880 environ, le navire n'a plus de nom. Il est tiré chaque saison, équipé, gréé, mené en mer. Il revient. Il est rangé. L'équipage le désigne par sa taille (« le grand »), sa couleur (« le noir »), ou son emplacement (« celui du quai sud »). Aucun nom ne s'attache plus.
+Depuis l'an 10 200 environ, le navire n'a plus de nom. Il est tiré chaque saison, équipé, gréé, mené en mer. Il revient. Il est rangé. L'équipage le désigne par sa taille (« le grand »), sa couleur (« le noir »), ou son emplacement (« celui du quai sud »). Aucun nom ne s'attache plus.
 
-Une explication possible : le navire a fait trop de campagnes, vu trop de morts, accumulé trop de présences. Il est *plein*. Le Cri de groupe que l'équipage hurle avant chaque sortie comprend, depuis l'an 4 880, une phrase ajoutée par un Skald inconnu et reprise par tradition : *« nous appelons les ancêtres marins, et ceux qui sont morts sur ce navire, et ceux qui ont nommé ce navire, et ceux qui ont cessé. »* La dernière mention — *ceux qui ont cessé* — n'est pas explicitée. Personne, à Drakkengarde, ne saurait dire qui sont *ceux qui ont cessé*. La phrase tient. Le navire navigue. Il n'a pas de nom.
+Une explication possible : le navire a fait trop de campagnes, vu trop de morts, accumulé trop de présences. Il est *plein*. Le Cri de groupe que l'équipage hurle avant chaque sortie comprend, depuis l'an 10 200, une phrase ajoutée par un Skald inconnu et reprise par tradition : *« nous appelons les ancêtres marins, et ceux qui sont morts sur ce navire, et ceux qui ont nommé ce navire, et ceux qui ont cessé. »* La dernière mention — *ceux qui ont cessé* — n'est pas explicitée. Personne, à Drakkengarde, ne saurait dire qui sont *ceux qui ont cessé*. La phrase tient. Le navire navigue. Il n'a pas de nom.
 
 ---
 
@@ -183,7 +183,7 @@ Le Cairn collectif d'Aaslund fut bâti après la Bataille des Trois Cris, où de
 
 La pratique fonctionne depuis un siècle. Les Aaslundiens en sont fiers — ils racontent volontiers à leurs voisins que leur Cairn est *« propre »*, sans doublon, sans confusion d'invocation. C'est, de toute la Confédération, le seul Cairn dont on puisse dire qu'il est *complet et juste*.
 
-Une excentricité demeure que les Aaslundiens ne mentionnent pas spontanément : depuis l'an 4 880 environ, le rythme des nouvelles pierres a chuté drastiquement. Le Cairn collectif accueille en moyenne trois pierres par génération, contre douze à quinze avant l'unification. Pas parce qu'il y a moins de morts. Parce que de plus en plus de morts portent un nom *déjà inscrit*. Le clan, vieux de trente générations, a saturé son répertoire d'ancêtres. Les enfants sont nommés d'après les anciens. Les anciens portent les noms des très-anciens. Les très-anciens étaient déjà nommés d'après les fondateurs.
+Une excentricité demeure que les Aaslundiens ne mentionnent pas spontanément : depuis l'an 10 200 environ, le rythme des nouvelles pierres a chuté drastiquement. Le Cairn collectif accueille en moyenne trois pierres par génération, contre douze à quinze avant l'unification. Pas parce qu'il y a moins de morts. Parce que de plus en plus de morts portent un nom *déjà inscrit*. Le clan, vieux de trente générations, a saturé son répertoire d'ancêtres. Les enfants sont nommés d'après les anciens. Les anciens portent les noms des très-anciens. Les très-anciens étaient déjà nommés d'après les fondateurs.
 
 Aaslund est, statistiquement, en train de finir ses noms. Personne ne le formule. Le Skald du clan, Velmund le Comptable (un surnom qu'il porte avec une fierté ambivalente — l'épithète est moqueuse autant qu'elle est descriptive), tient le registre avec un soin obsessionnel. Il sait combien de noms *libres* il reste. Il ne le dit pas. Quand une mère vient lui demander quel nom donner à son enfant, il lui propose une liste — toujours la même, presque. Cette liste raccourcit chaque génération.
 

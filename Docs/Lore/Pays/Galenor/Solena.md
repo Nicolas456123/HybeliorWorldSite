@@ -132,6 +132,7 @@ Le pouvoir appartient aux propriétaires de navires.
 ### Caldoris — Village
 - Village de cordiers et de voiliers sur une pointe venteuse près d'Oranthor ; cordages et voiles équipant la majorité des navires soléniens.
 - Toile imperméabilisée à formule secrète (mélange d'huile de baleine, de cendres et de résine végétale), plus durable que la toile standard.
+- Fut, des siècles durant, un village de plongeurs de corail (trois familles, récifs des eaux basses) avant que la cordage et la voilerie ne deviennent son métier principal ; l'ancienne charge d'Intendante Maritime, née d'une réforme des zones de plongée, subsiste par tradition (cf. *Histoires de Solena — Les Plongeurs de Corail*).
 - Population : Village
 - Région : Oracalis
 
@@ -232,5 +233,5 @@ Le pouvoir appartient aux propriétaires de navires.
 
 - **La Carte Interdite** — la Guilde des Cartographes conserve sous coffre scellé une carte dressée par l'Amiral Etheira lors de son dernier voyage (jamais évoqué). Elle montre une terre au-delà des océans connus, annotée d'un seul mot : « Retournez. » Copie jamais autorisée.
 - **Le Navire Fantôme de Vesperilia** — vaisseau sans équipage apparaissant périodiquement au large de Vyndralith (toujours à l'aube, par temps calme) : pont vide, voiles parfaitement tendues, disparaissant dès qu'on pose le pied dessus.
-- **La Huitième Famille** — les archives mentionnent une huitième famille amirale, les **Tetramor**, expulsée du Conseil il y a trois siècles pour une raison effacée des registres. Descendance possible sur les îles de Tetramis ; faute inconnue.
+- **La Huitième Famille** — les archives mentionnent une huitième famille amirale, les **Tetramor**, expulsée du Conseil il y a un peu plus d'un siècle pour une raison effacée des registres. Descendance possible sur les îles de Tetramis ; faute inconnue.
 - **Les Profondeurs d'Oranthor** — fondations de la capitale bâties sur des ruines immergées si anciennes et massives qu'elles ne peuvent être l'œuvre d'aucune civilisation connue. Plongées d'exploration interdites par Thessara Oranthor ; rumeur persistante que quelque chose dort sous Oranthor.

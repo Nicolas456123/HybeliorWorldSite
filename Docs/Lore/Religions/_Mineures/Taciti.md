@@ -31,7 +31,7 @@ Voir l'arbre complet et le contexte généalogique dans [[_Histoire des Religion
 
 ## Origine
 
-Les Taciti naissent à **Baelor** — île-nation isolationniste — vers ~5 000 ap.A. Religion régionale, profondément liée à l'isolement géographique de Baelor et à la culture insulaire qui a évolué sans grand contact avec le reste du monde post-Arrachement.
+Les Taciti naissent à **Baelor** — île-nation isolationniste — vers ~5 000 av.A. Religion régionale, profondément liée à l'isolement géographique de Baelor et à la culture insulaire qui a évolué sans grand contact avec le reste du monde. Antérieure à l'Arrachement, elle traversera la Grande Nuit sans effondrement majeur (cf. [[../../Chronologie/Era 3b - Religions Verithan et la Chute|Ère III]] : Vorath le Tacite siège au Cercle des Huit).
 
 Le nom *Taciti* signifie « les Silencieux » en langue ancienne.
 
@@ -123,7 +123,7 @@ Ces tensions n'éclatent jamais publiquement. La doctrine du silence rend imposs
 
 ## Figure historique
 
-**Hesvar de Tholmë** (env. 4 612 – 4 681 ap.A) — Silentii des premiers siècles de la religion, formée à Baelor sous le Second Voile. À quarante ans, après vingt années de silence ininterrompu, elle quitta son cloître **sans explication écrite ni gestuelle**, et vécut treize ans dans une grotte de la côte ouest de Baelor. Aucun témoignage direct ne subsiste de cette période ; les récits tardifs lui prêtent des disciples, ce qui est probablement faux.
+**Hesvar de Tholmë** (env. 4 612 – 4 681 av.A) — Silentii des premiers siècles de la religion, formée à Baelor sous le Second Voile. À quarante ans, après vingt années de silence ininterrompu, elle quitta son cloître **sans explication écrite ni gestuelle**, et vécut treize ans dans une grotte de la côte ouest de Baelor. Aucun témoignage direct ne subsiste de cette période ; les récits tardifs lui prêtent des disciples, ce qui est probablement faux.
 
 À cinquante-trois ans, elle revint au cloître. Elle ne reprit pas les pratiques collectives. Elle ne participa plus aux Heures Vides, n'échangea plus de lamelles, ne mourut pas dans le rite du Silence Partagé. Pendant les seize dernières années de sa vie, elle s'asseyait simplement dans la cour intérieure et regardait les autres pratiquer. Les frères, embarrassés, ne lui demandèrent jamais rien. Quand elle mourut, on trouva dans sa cellule une **unique lamelle non scellée**, gravée d'un mot. Ce mot est aujourd'hui contesté : selon les sources, il s'agit de *« peut-être »*, ou de *« encore »*, ou — pour quelques manuscrits — d'un signe qu'aucun Silentii vivant ne sait plus lire.
 

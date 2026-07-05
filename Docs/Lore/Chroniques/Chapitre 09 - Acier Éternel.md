@@ -5,7 +5,7 @@ status: drafted
 last_review: 2026-05-07
 needs_review_for: []
 ---
-# Chapitre 9 — L'Acier Éternel
+# Chapitre 9 — L'Acier Royal
 
 > *« En Altram, on ne naît pas forgeron — on le devient dans la douleur, le feu et l'acier. »*
 > — Proverbe d'Altram
@@ -71,13 +71,13 @@ Trelios ne ressemble pas à une ville construite sur un rocher. Elle ressemble �
 
 Varnok le Forgeur avait dit, dit-on, que cette roche était la plus honnête d'Alkaran — impossible à dissimuler, impossible à contrefaire. En regardant Trelios du quai de débarquement, je comprenais ce qu'il voulait dire. On ne peut pas mentir avec ce matériau. On peut seulement lui obéir ou l'abandonner.
 
-J'avais une lettre de recommandation du Thane de Valoria — obtenue lors du Jugement de Pierre, en échange de mes relevés cartographiques des régions frontières — adressée à un maître-artisan de Trelios nommé Corven Asheld. Cette lettre était ma raison d'entrer dans Trelios plutôt que de passer directement vers l'intérieur du pays. Je ne savais pas encore qu'elle allait changer la nature de mon voyage.
+J'avais une lettre cachetée que Lysa, Ancienne du clan Teldar, m'avait remise à Valtheria — au titre d'une dette ancienne du clan, une dette d'acier et de mots dont elle n'avait rien précisé de plus — adressée à un maître-artisan de Trelios nommé Corven Asheld. Elle ne m'avait rien demandé en échange ; le clan Teldar n'expliquait pas tout ce qu'il donnait. Cette lettre était ma raison d'entrer dans Trelios plutôt que de passer directement vers l'intérieur du pays. Je ne savais pas encore qu'elle allait changer la nature de mon voyage.
 
 ---
 
 Corven Asheld occupait un atelier au bas du promontoire, à deux niveaux de la forge principale — "proche des quais, loin des intrigues du Conseil", dit-il lui-même à notre première rencontre avec un sourire bref qui suggérait que c'était un choix délibéré et qui lui convenait parfaitement. Soixante ans environ, voûté de la façon des hommes grands qui ont passé leur vie penchés sur un établi, avec des mains si usées par le métal qu'elles semblaient elles-mêmes faites d'un alliage particulier — ni tout à fait chair ni tout à fait pierre.
 
-Il lut la lettre du Thane, la replia soigneusement, et dit : « Un cartographe. Intéressant. Nous en avons besoin. »
+Il lut la lettre de Lysa, la replia soigneusement, et dit : « Un cartographe. Intéressant. Nous en avons besoin. »
 
 Je lui demandai pour quoi.
 
@@ -125,7 +125,7 @@ C'est elle qui m'avait indiqué, au quatrième jour, le couloir de gauche.
 
 Le couloir de gauche débouchait sur une antichambre fermée par une porte de fer forgé, massive, portant le sceau du Conseil des Maîtres en relief. La porte était ouverte — non pas déverrouillée mais simplement entrouverte, comme si quelqu'un avait oublié de la refermer ou, plus troublant, comme si elle refusait de se fermer complètement. L'antichambre de l'autre côté était petite, taillée à même la roche, et au centre, sur un présentoir de pierre brute, il y avait quelque chose sous une cloche de verre épais.
 
-Un fragment de métal. Pas plus grand que ma main. De couleur indéfinissable — ni tout à fait gris, ni tout à fait noir, avec des reflets que la lumière de ma lampe traitait différemment selon l'angle : bleuté d'un côté, presque doré de l'autre. Par endroits, une iridescence que je n'aurais pas su décrire autrement qu'en disant que le métal semblait contenir une profondeur — comme si la surface n'était pas sa vraie surface, mais une première couche en dessous de laquelle quelque chose d'autre commençait.
+Un fragment de parchemin. Pas plus grand que ma main. D'une matière indéfinissable — ni tout à fait vélin, ni tout à fait fibre végétale, d'un beige tirant sur le gris que la lumière de ma lampe traitait différemment selon l'angle : bleuté d'un côté, presque doré de l'autre. Il portait une seule ligne d'écriture, tracée dans des caractères que je ne reconnus pas — du verithan, m'apprendrait Lisel, une écriture morte que les archivistes d'Altram étaient seuls à déchiffrer, et dont le sens exact m'échappa donc entièrement. Par endroits, dans la fibre même, une iridescence que je n'aurais pas su décrire autrement qu'en disant que la surface semblait contenir une profondeur — comme si ce que je voyais n'était qu'une première couche, en dessous de laquelle quelque chose d'autre commençait.
 
 Et il pulsait.
 
@@ -171,7 +171,7 @@ Il dit cela sur le même ton qu'il m'aurait annoncé que l'un de ses alliages av
 
 « Vous savez ce que c'est ? » demandai-je.
 
-Un silence. Le genre de silence des Archives, dense et délibéré. « Nous savons ce que ce n'est pas. Ce n'est d'aucun alliage connu dans les sept siècles de métallurgie d'Altram. Ce n'est pas d'origine minière — les géologues qui l'ont examiné affirment que sa structure cristalline ne correspond à aucune formation naturelle de ce continent. » Il posa le gobelet une nouvelle fois. « Ce que c'est, en revanche — là, nous n'avons pas de réponse qui tienne debout. »
+Un silence. Le genre de silence des Archives, dense et délibéré. « Nous savons ce que ce n'est pas. Ce n'est aucune des matières que nos parcheminiers travaillent depuis sept siècles — ni vélin, ni papier de chiffe, ni fibre de roseau. Ce n'est pas d'origine animale connue — les tanneurs qui l'ont examiné affirment que sa trame ne correspond à aucune peau ni aucune plante de ce continent. » Il posa le gobelet une nouvelle fois. « Ce que c'est, en revanche — là, nous n'avons pas de réponse qui tienne debout. »
 
 Je lui dis que j'avais senti quelque chose.
 
@@ -195,13 +195,13 @@ La chaleur est la chose que l'on ne peut pas préparer. Je m'étais dit : c'est 
 
 Davan Threl était un homme de vingt-huit ans — jeune pour un maître, me dit Corven discrètement, ce qui en Altram est un compliment absolu — avec des bras qui semblaient avoir été forgés dans le même métal que ses pièces, et un regard direct et sans ornement qui m'examina lors de notre première rencontre avec la précision d'un instrument de mesure. Il décida, en quelques secondes de ce regard, que j'étais sérieux. Je le sus parce qu'il me parla directement plutôt que de me parler à travers Corven.
 
-« Vous voulez voir l'Acier Éternel ? »
+« Vous voulez voir l'acier royal ? »
 
 Je lui dis que oui.
 
 ---
 
-L'Acier Éternel d'Altram — l'alliage qui avait rendu ce pays légendaire dans toute la sphère commerciale d'Hybelior, que les marchands de Solena évoquaient avec une révérence réservée d'ordinaire aux choses sacrées, que les forgerons de Valoria regardaient avec une concurrence respectueuse et une jalousie qu'ils auraient niée sous serment — était produit dans une section des forges de Martelios à laquelle on accédait par un couloir séparé, gardé non pas militairement mais par une porte de fer si lourde qu'elle requit l'effort de deux hommes pour s'ouvrir.
+L'acier royal d'Altram — l'alliage d'exception qui avait rendu ce pays légendaire dans toute la sphère commerciale d'Hybelior, que les marchands de Solena évoquaient avec une révérence réservée d'ordinaire aux choses sacrées, que les forgerons de Valoria regardaient avec une concurrence respectueuse et une jalousie qu'ils auraient niée sous serment ; les seuls que les artisans d'Altram consentaient à nommer leurs égaux étaient ceux de Myrtam, l'autre royaume de forge, dont la légendaire lame unique, l'Acier Éternel de Myr le Fondeur, appartenait à un autre ordre de choses — une œuvre singulière que nul n'avait jamais reforgée, quand l'acier royal, lui, se coulait en série. Il était produit dans une section des forges de Martelios à laquelle on accédait par un couloir séparé, gardé non pas militairement mais par une porte de fer si lourde qu'elle requit l'effort de deux hommes pour s'ouvrir.
 
 Derrière la porte : une salle plus petite que les grandes nefs, mais plus dense dans sa chaleur, avec deux fourneaux d'un type que je n'avais pas vus dans le reste de la forge — plus hauts, plus larges, alimentés par un charbon différent que Davan appela « charbon de Liram, séché trois ans et traité à l'huile de pierre ». Cinq forgerons y travaillaient, silencieux, avec la concentration des gens qui font quelque chose qu'ils ne peuvent pas se permettre de rater.
 
@@ -217,7 +217,7 @@ Je lui demandai combien de personnes connaissaient la formule complète.
 
 « Quatre. Le roi. Le Premier Maître du Conseil. Moi. Et un autre que je ne nommerai pas. »
 
-Il dit cela sans arrogance, avec la simplicité d'un homme qui énonce un fait de la même façon qu'il énonce qu'il a vingt-huit ans ou que la fonte prend une heure. La connaissance de la formule de l'Acier Éternel n'était pas pour lui une source de prestige personnel — c'était une responsabilité, comme un poste de garde. On ne se vante pas de garder une porte ; on la garde.
+Il dit cela sans arrogance, avec la simplicité d'un homme qui énonce un fait de la même façon qu'il énonce qu'il a vingt-huit ans ou que la fonte prend une heure. La connaissance de la formule de l'acier royal n'était pas pour lui une source de prestige personnel — c'était une responsabilité, comme un poste de garde. On ne se vante pas de garder une porte ; on la garde.
 
 Je l'admirai pour cela. Je ne le lui dis pas.
 
@@ -237,7 +237,7 @@ Je réfléchis à la façon de le dire correctement.
 
 « Quelque chose qui attend. Pas patiemment — la patience implique une conscience du temps. Quelque chose qui attend comme une graine attend le printemps. Sans savoir qu'elle attend. Sans savoir qu'il y aura un printemps. »
 
-Lisel posa sa plaque sur l'établi. Elle ne dit rien pendant un assez long moment. Puis : « Les prêtres de la Lex Petra disent que le Fragment Zéro est un message. Gravé dans un métal dont nous ne lisons pas l'écriture. »
+Lisel posa sa plaque sur l'établi. Elle ne dit rien pendant un assez long moment. Puis : « Les prêtres de la Lex Petra disent que le Fragment Zéro est un message. Une seule ligne, en verithan. Nous en lisons les mots depuis des générations — et nous ne nous accordons toujours pas sur ce qu'ils veulent dire. »
 
 Je repartis à l'aube.
 

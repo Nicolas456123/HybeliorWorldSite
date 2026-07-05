@@ -137,7 +137,7 @@ Pour entrer dans le clergé Stellari, un candidat doit :
 4. **Recevoir l'étoile cousue à l'épaule** par un Maître de Tribunal qui prononce le serment des neuf degrés.
 
 Faits notables :
-- Rituel le plus codifié d'Hybélior après l'**Examen des Voiles de Lumasar**.
+- Rituel le plus codifié d'Hybelior après l'**Examen des Voiles de Lumasar**.
 - Caractéristique propre à Astravia : il sélectionne **contre l'originalité** (une lecture nouvelle, même plus juste, disqualifie). Règle explicitée dans les délibérations internes du Tribunal : *« la maison ne se construit pas sur des innovations »*.
 
 ### Les non-mages
@@ -151,7 +151,7 @@ Faits notables :
 - **La Promesse de la Lecture Suivante** : l'Astravien éduqué croit que la prochaine lecture (recalibration, table d'éphémérides, examen) révélera ce que la précédente n'a pas révélé ; ressort qui entretient la recherche mais enferme dans une fuite en avant. Les Stellari le formulent comme *« l'humilité du savoir »*.
 - **La hiérarchie de la signature** : on classe intuitivement les gens selon la signature qu'ils peuvent apposer (un Lecteur signe, un observateur ordinaire non) ; jamais énoncée, mais portée dans la réception du courrier, l'ordre de parole en assemblée, le délai d'audience.
 - **Le mépris feutré pour Lumasar** : les Stellari astraviens tiennent les Lumasariens du Somnium Vigil pour *« des rêveurs polis »* (ils ont raison à 30 %), jamais à haute voix.
-- **L'amour pour les Apocrypha, en théorie seulement** : Astravia célèbre dans ses textes officiels les figures qui ont *« lu juste sans les Tables »* (chroniqueurs pré-Arrachement), mais les marginalise de leur vivant ; la célébration vient après leur mort. Exemple : Lethanis Vor-Ostrun, citée comme *« Stellaris exemplaire »*, dont les Mémoires personnels ont été brûlés par son propre successeur.
+- **L'amour pour les Apocrypha, en théorie seulement** : Astravia célèbre dans ses textes officiels les figures qui ont *« lu juste sans les Tables »* (chroniqueurs pré-Arrachement), mais les marginalise de leur vivant ; la célébration vient après leur mort. Exemple : Lethanis Vor-Ostrun, citée comme *« Stellaris exemplaire »*, dont les carnets personnels ont été brûlés par son propre successeur.
 
 ---
 
@@ -183,7 +183,7 @@ Capitale d'Astravia, à moitié terrestre et à moitié céleste : ville basse d
 - Région : Inverna
 
 ### Ryndorin
-Ville académique perchée sur un plateau ; abrite l'**Académie des Vents**, l'école de magie aérienne la plus prestigieuse d'Hybélior (vol, manipulation des courants d'air, boucliers atmosphériques). Implantée là pour ses vents constants et prévisibles, indispensables à l'apprentissage de la magie aérienne. Lecture courante chez les théoriciens : d'anciens mages auraient modifié la géographie pour créer ces conditions (géomagie à une échelle non reproductible aujourd'hui) ; d'autres écoles l'attribuent à la seule topographie du plateau et tiennent la « géomagie ancienne » pour légende académique. Deux Lecteurs de Quart y pratiquent une variante du Petit Office (tour-est de l'Académie), connue mais non mentionnée par leur supérieur.
+Ville académique perchée sur un plateau ; abrite l'**Académie des Vents**, l'école de magie aérienne la plus prestigieuse d'Hybelior (vol, manipulation des courants d'air, boucliers atmosphériques). Implantée là pour ses vents constants et prévisibles, indispensables à l'apprentissage de la magie aérienne. Lecture courante chez les théoriciens : d'anciens mages auraient modifié la géographie pour créer ces conditions (géomagie à une échelle non reproductible aujourd'hui) ; d'autres écoles l'attribuent à la seule topographie du plateau et tiennent la « géomagie ancienne » pour légende académique. Deux Lecteurs de Quart y pratiquent une variante du Petit Office (tour-est de l'Académie), connue mais non mentionnée par leur supérieur.
 - Population : Ville
 - Région : Inverna
 
@@ -193,7 +193,7 @@ Cité minière souterraine d'extraction de l'aethérite ; chaque cristal est mes
 - Région : Inverna
 
 ### Aeloria
-Village de chercheurs au bord du cratère de **Caelum Prima** ; lieu de pèlerinage et d'étude (analyse des résidus de la Chute). Fondée dans les mois suivant la Chute par des survivants refusant de s'éloigner, par crainte que quelque chose de pire ne s'échappe du cratère si personne ne le surveillait ; les premières années, des résidus d'aethérite fracturé provoquaient explosions spontanées et anomalies gravitationnelles. Aeloria tient depuis le rôle de sentinelle permanente du site. Le Calculateur **Andren** y a pratiqué quarante ans le Petit Office sans en connaître le nom ; il a déposé en l'an 248 un rapport (le troisième en vingt ans) signalant une augmentation de la fréquence du vortex nord-est, resté sans réponse du Magistère ; il continue de noter les mesures.
+Village de chercheurs au bord du cratère de **Caelum Prima** ; lieu de pèlerinage et d'étude (analyse des résidus de la Chute). Fondée dans les mois suivant la Chute par des survivants refusant de s'éloigner, par crainte que quelque chose de pire ne s'échappe du cratère si personne ne le surveillait ; les premières années, des résidus d'aethérite fracturé provoquaient explosions spontanées et anomalies gravitationnelles. Aeloria tient depuis le rôle de sentinelle permanente du site. Le Calculateur **Andren** y a pratiqué quarante ans le Petit Office sans en connaître le nom ; il a déposé en l'an 247 un rapport (le troisième en vingt ans) signalant une augmentation de la fréquence du vortex nord-est, resté sans réponse du Magistère ; il continue de noter les mesures.
 - Population : Ville
 - Région : Inverna
 
@@ -258,7 +258,7 @@ Bourg d'observation des aurores et des courants stratosphériques, à l'extrême
 - Région : Windora
 
 ### Lythmar — Village
-Hameau de cartographes maritimes dressant les cartes des courants polaires ; seules cartes de courants d'Hybélior régulièrement mises à jour (chaque carte porte la date de sa dernière révision et le nom du cartographe). Règle établie après qu'une carte vieille de quarante ans eut causé la perte d'un convoi entier d'Elarian : aucune carte ne sort du hameau sans révision dans les douze mois précédents. Coût de la règle : les cartographes travaillent en moyenne six heures par jour, six jours sur sept, et aucun ne dépasse cinquante ans en activité.
+Hameau de cartographes maritimes dressant les cartes des courants polaires ; seules cartes de courants d'Hybelior régulièrement mises à jour (chaque carte porte la date de sa dernière révision et le nom du cartographe). Règle établie après qu'une carte vieille de quarante ans eut causé la perte d'un convoi entier d'Elarian : aucune carte ne sort du hameau sans révision dans les douze mois précédents. Coût de la règle : les cartographes travaillent en moyenne six heures par jour, six jours sur sept, et aucun ne dépasse cinquante ans en activité.
 - Population : Village
 - Région : Windora
 

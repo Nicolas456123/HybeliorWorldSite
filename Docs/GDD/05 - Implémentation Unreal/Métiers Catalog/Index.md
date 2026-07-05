@@ -7,7 +7,7 @@ last_review: 2026-05-12
 
 # Métiers Catalog — Index technique
 
-Catalogue de référence des **70 archétypes de métiers** d'Hybélior, fiches techniques pour l'implémentation Unreal (Maîtrises, progressions, paliers, recettes débloquées). Chaque archétype définit ses prérequis, ses sous-Maîtrises, sa courbe XP, ses outils-roi et ses interactions économiques. Pour le hub narratif et les concepts de design, voir [[Métiers|Métiers (hub narratif en 03 - Mécaniques)]].
+Catalogue de référence des **70 archétypes de métiers** d'Hybelior, fiches techniques pour l'implémentation Unreal (Maîtrises, progressions, paliers, recettes débloquées). Chaque archétype définit ses prérequis, ses sous-Maîtrises, sa courbe XP, ses outils-roi et ses interactions économiques. Pour le hub narratif et les concepts de design, voir [[Métiers|Métiers (hub narratif en 03 - Mécaniques)]].
 
 ---
 

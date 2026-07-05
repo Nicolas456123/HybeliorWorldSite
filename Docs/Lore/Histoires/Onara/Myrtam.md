@@ -9,7 +9,7 @@ needs_review_for: []
 
 ## Origines — « La Montagne qui Forge »
 
-Myrtam est né d'un cataclysme. Il y a des siècles, une chaîne d'éruptions volcaniques souterraines fractura les montagnes du sud d'Alkaran, créant un réseau de cavernes incandescentes où le magma affleure à quelques mètres sous la surface. Les premiers colons — des réfugiés d'Altram poussés par la surpopulation — découvrirent que cette chaleur naturelle permettait de fondre des métaux à des températures impossibles à atteindre ailleurs. Ce qui commença comme un camp de fortune devint une industrie, puis un royaume. Aujourd'hui, Myrtam est le plus grand producteur de métaux rares d'Alkaran.
+Myrtam est né d'un cataclysme. Il y a des siècles, une chaîne d'éruptions volcaniques souterraines fractura les montagnes du sud d'Onara, créant un réseau de cavernes incandescentes où le magma affleure à quelques mètres sous la surface. Les premiers colons — des réfugiés d'Altram poussés par la surpopulation — découvrirent que cette chaleur naturelle permettait de fondre des métaux à des températures impossibles à atteindre ailleurs. Ce qui commença comme un camp de fortune devint une industrie, puis un royaume. Aujourd'hui, Myrtam est le plus grand producteur de métaux rares d'Onara.
 
 L'événement fondateur fut la création de l'Acier Éternel — une arme (une épée à double tranchant, selon la légende) d'une qualité si extraordinaire qu'elle est tenue pour invincible. Elle fut forgée par **Myr le Fondeur**, le premier roi de Myrtam, qui aurait passé sept années dans les profondeurs de la Grande Forge sans jamais remonter à la surface. L'Acier Éternel est conservé au cœur de la montagne ; seul le roi régnant le contemple, le jour de son couronnement.
 
@@ -347,7 +347,7 @@ Le numero d'un homme ne devrait pas etre un poids. Il devrait etre une fierte. E
 
 ## Zyndor — « Le Souffleur de Nuit »
 
-Le verre volcanique de Zyndor etait noir et translucide — une contradiction qui fascinait les alchimistes et les artistes de tout Alkaran. Travaille a des temperatures que seule la proximite des anciennes coulees de lave permettait, il servait de vitraux pour les temples et de lentilles pour les instruments de precision.
+Le verre volcanique de Zyndor etait noir et translucide — une contradiction qui fascinait les alchimistes et les artistes de tout Onara. Travaille a des temperatures que seule la proximite des anciennes coulees de lave permettait, il servait de vitraux pour les temples et de lentilles pour les instruments de precision.
 
 Daren soufflait le verre depuis l'age de douze ans. A quarante, il etait le maitre inconteste de Zyndor — ses vitraux ornaient le Temple de la Flamme Eternelle a Haliandris, et ses lentilles etaient utilisees par les navigateurs stellaires de Torkam.
 

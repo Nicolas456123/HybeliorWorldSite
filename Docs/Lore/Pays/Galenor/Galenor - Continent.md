@@ -11,7 +11,7 @@ needs_review_for: []
 
 | | |
 |---|---|
-| **Type** | Continent le plus hétérogène d'Hybélior |
+| **Type** | Continent le plus hétérogène d'Hybelior |
 | **Surnom** | Le Jardin des Titans |
 | **Climat** | Tempéré dans l'ensemble ; plus rude au nord-est, plus doux au sud |
 | **Nations** | 7 ([[Kharazir]], [[Lumasar]], [[Seraphia]], [[Solena]], [[Trinoria]], [[Ventera]], [[Valoria]]) |
@@ -21,7 +21,7 @@ Faits structurants :
 - Aucun empire n'a jamais unifié Galenor ; le continent fonctionne comme une mosaïque de civilisations distinctes vivant à portée les unes des autres.
 - Surnom « Le Jardin des Titans » : les Titans seraient tombés sur ces terres lors de l'**Effondrement Premier** (env. 7 000 à 8 000 ans avant le présent).
 - Monuments-témoins survivants de la chute : montagnes de Voldenor, dalles scellées sous Kharazir, ruines immergées sous Oranthor ([[Solena]]), cratère du Mont Voldram (territoire valorian).
-- Aucune religion d'Hybélior ne donne la même version de la chute des Titans ; toutes s'accordent sur un seul point (ils étaient grands, ils sont tombés).
+- Aucune religion d'Hybelior ne donne la même version de la chute des Titans ; toutes s'accordent sur un seul point (ils étaient grands, ils sont tombés).
 - Héritage de l'Effondrement Premier : sol fertile (plaines centrales, forêts profondes, terrasses cristallines) et mémoire fragmentée (chaque nation a sa propre lecture des Titans).
 
 ---

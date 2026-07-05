@@ -15,7 +15,7 @@ last_review: 2026-05-12
 
 ## Trois portes par où les choses entrent dans le monde
 
-À Hybélior, rien n'apparaît sans cause. Toute matière première vient de l'une de trois portes : ce que la **nature** donne, ce qu'on prend sur les **créatures** abattues, et ce qu'une **première main** humaine a déjà transformé pour que d'autres mains puissent l'utiliser ensuite. Les quinze matières de la troisième porte ne se trouvent jamais à l'état brut — elles sont toujours déjà l'œuvre d'un artisan.
+À Hybelior, rien n'apparaît sans cause. Toute matière première vient de l'une de trois portes : ce que la **nature** donne, ce qu'on prend sur les **créatures** abattues, et ce qu'une **première main** humaine a déjà transformé pour que d'autres mains puissent l'utiliser ensuite. Les quinze matières de la troisième porte ne se trouvent jamais à l'état brut — elles sont toujours déjà l'œuvre d'un artisan.
 
 ```
    La nature             La première main
@@ -32,7 +32,7 @@ last_review: 2026-05-12
 
 ## Première porte — ce que la nature donne
 
-La nature d'Hybélior livre ses matières à qui sait les chercher. Vingt et un types se distinguent, chacun avec son métier de cueille, ses biomes de prédilection, ses saisons favorables. Sans ces matières, aucun artisan ne pourrait commencer son travail ; sans les voyageurs et les métiers de cueille qui les rapportent, le monde n'aurait que des artisans inutiles.
+La nature d'Hybelior livre ses matières à qui sait les chercher. Vingt et un types se distinguent, chacun avec son métier de cueille, ses biomes de prédilection, ses saisons favorables. Sans ces matières, aucun artisan ne pourrait commencer son travail ; sans les voyageurs et les métiers de cueille qui les rapportent, le monde n'aurait que des artisans inutiles.
 
 ### Du règne végétal — la forêt, le sous-bois, la prairie
 
@@ -155,7 +155,7 @@ Quinze matières ne se trouvent jamais à l'état brut. Elles sont toujours, dé
 
 ## Qui prend, et où
 
-Soixante-trois métiers existent à Hybélior (voir [[Métiers]]) ; voici les plus directement liés à la cueille des matières premières, et le geste qui les définit.
+Soixante-trois métiers existent à Hybelior (voir [[Métiers]]) ; voici les plus directement liés à la cueille des matières premières, et le geste qui les définit.
 
 | Métier | Ce qu'il prend | Comment il le prend |
 |--------|---------------|---------------------|
@@ -199,7 +199,7 @@ Cette modulation appartient au tissu fin du monde. Elle ne se laisse pas saisir 
 - [[Catégories d'Items]] — les quatre grandes familles
 - [[Types d'Items]] — la nature détaillée de chaque matière
 - [[Crafts]] — ce que les matières deviennent sous les mains des artisans
-- [[Métiers]] — les soixante-trois métiers d'Hybélior
+- [[Métiers]] — les soixante-trois métiers d'Hybelior
 - [[Bestiaire]] — les créatures et ce qu'elles laissent derrière elles
 - [[Les Ères]] — comment le monde colore les matières selon la saison cosmique
 - [[Architecture]] — la trame profonde

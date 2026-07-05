@@ -139,9 +139,9 @@ Astralon, la cité des étoiles, abrite onze arches de pierre disposées en cerc
 
 Soltir, Maître des Arches, a soixante-treize ans. Il connaît chaque arche, chaque azimut, chaque date. Sa famille a été Maîtres des Arches pendant huit générations. C'est sa fierté.
 
-Ce que Soltir n'a jamais dit publiquement, c'est que **deux arches ne fonctionnent plus**. Les constellations qu'elles cadraient ont *bougé* — la précession astronomique, sur deux millénaires, les a décalées d'environ deux degrés. Le cadrage n'est plus exact. Pour la majorité des observateurs, la différence est imperceptible. Pour Soltir, qui aligne les pierres au demi-degré, c'est une humiliation.
+Ce que Soltir n'a jamais dit publiquement, c'est que **deux arches ne fonctionnent plus**. Les constellations qu'elles cadraient ont *bougé* — la précession astronomique, sur deux siècles, les a décalées d'environ deux degrés. Le cadrage n'est plus exact. Pour la majorité des observateurs, la différence est imperceptible. Pour Soltir, qui aligne les pierres au demi-degré, c'est une humiliation.
 
-Il pourrait corriger les arches — déplacer les pierres, refaire l'orientation. Cela demanderait des années de travail. Il pourrait l'admettre — déclarer publiquement que les arches étaient justes il y a deux mille ans et ne le sont plus. Cela demanderait une réforme doctrinale.
+Il pourrait corriger les arches — déplacer les pierres, refaire l'orientation. Cela demanderait des années de travail. Il pourrait l'admettre — déclarer publiquement que les arches étaient justes il y a deux siècles et ne le sont plus. Cela demanderait une réforme doctrinale.
 
 Il ne fait ni l'un ni l'autre. Il *recalibre tacitement* — comme les Stellaris de Seraphia, comme les Lecteurs de Caeloria, comme tous les serviteurs des Tables fixées qui savent qu'elles ne le sont plus. Il ajuste légèrement les annonces officielles. Il décale les fêtes liturgiques d'un jour, parfois deux. Personne ne le remarque. Personne ne demande.
 

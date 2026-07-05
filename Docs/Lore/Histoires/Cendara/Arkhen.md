@@ -12,7 +12,7 @@ needs_review_for: []
 Arkhen n'a pas de mythe d'origine héroïque. Son histoire est faite de strates lentes.
 
 - **Avant Arkhen.** Aïkhar et l'Archipel des Tessons ne furent jamais vides : chasseurs-pêcheurs et bergers de cendre y pratiquaient une religiosité du feu peu structurée, honorant les sources de magma sans liturgie centrale et tenant la cendre pour un sol, non un déchet. Quand le **Dominat de Pyrevaste** se constitue (~18 000 av.A) et étend sa souveraineté nominale sur Aïkhar, les populations locales paient un tribut symbolique en cendre triée — coutume survivante sous forme de *paniers de cendre* envoyés annuellement aux Forge-Temples pyrevaniennes, vidée de toute fonction politique.
-- **La Filiation de Cendre (huit siècles).** Le trait fondateur d'Arkhen n'est pas un événement mais un flux : depuis l'an Sillage 100 jusqu'au présent, Aïkhar et les Tessons reçoivent par milliers des **exilés ignitariens** — forgerons en disgrâce dépouillés de leur Sceau, Voix sous les Cendres revenues trop transformées du Mont, refondeurs hérétiques chassés de Pyrevane, apprentis ayant raté l'Épreuve du Feu, marins épuisés des routes royales-pyrevaniennes, et, à partir du second Sillage, des **Délies de la Flamme** fuyant les persécutions cinderholdiennes. Cette mémoire collective de l'exil donne à Arkhen sa tonalité sobre, accueillante, méfiante des grands gestes.
+- **La Filiation de Cendre (un siècle et demi).** Le trait fondateur d'Arkhen n'est pas un événement mais un flux : depuis l'an Sillage 100 jusqu'au présent, Aïkhar et les Tessons reçoivent par milliers des **exilés ignitariens** — forgerons en disgrâce dépouillés de leur Sceau, Voix sous les Cendres revenues trop transformées du Mont, refondeurs hérétiques chassés de Pyrevane, apprentis ayant raté l'Épreuve du Feu, marins épuisés des routes royales-pyrevaniennes, et, à partir du second Sillage, des **Délies de la Flamme** fuyant les persécutions cinderholdiennes. Cette mémoire collective de l'exil donne à Arkhen sa tonalité sobre, accueillante, méfiante des grands gestes.
 - **La Constitution de l'Assemblée des Quais (Sillage 110-160).** Les villages côtiers vivaient en autonomie tribale. La pression vient des **pirates du Détroit de Suie**, qui pillent les navires d'Aïkhar et les ports peu défendus. Vers l'an 110, capitaines de port et notables commencent à se réunir une fois l'an à **Khoram** pour mutualiser leurs défenses ; à l'an 160, l'**Assemblée des Quais** est devenue l'organe de référence de la confédération. Elle n'a aucun pouvoir exécutif : ses délibérations sont appliquées « si on veut ». La seule sanction est réputationnelle — un port qui refuse une décision devient *« port d'Assemblée tournée »* pendant quelques années, ce qui réduit son trafic.
 - **Khessa-aux-Mains-Calmes (168-232).** Forgeronne de Khoram, née en 168, formée par sa mère et son oncle (forgerons exilés de Pyrevane après une querelle de procession aux détails perdus). Sa mère, déjà, refusait d'incanter les Forge-Liturgies ; Khessa frappe en silence sans s'en réclamer ni former d'école. Ses lames, réputées *« tenir le silence »* — voix mate, sans résonance, liée à un alliage qu'elle ne révèle jamais —, font naître l'expression locale appliquée à toute œuvre qui *« n'a pas besoin de parler »*. Elle est vraisemblablement l'inventrice de la **marque de cendre froide au pli du coude**, attestée à Khoram une génération avant de se répandre ; elle ne l'a ni reconnue ni niée. Morte en 232 à soixante-quatre ans, le marteau en main, sans Forge-Liturgie, elle est brûlée sur un bûcher de bois flotté par sa fille adoptive et trois apprentis ; la cérémonie dura sept heures, sans chant ni incantation, ponctuée d'un coup de marteau par minute frappé par l'apprentie la plus jeune. Cette pratique funéraire — **frapper en mémoire** — est née là et s'est diffusée chez les Délies de plusieurs ports d'Aïkhar.
 
@@ -26,7 +26,7 @@ L'atelier appartient officiellement à **Mevren**, fille adoptive de Khessa, soi
 
 L'atelier sert. Quatre fois par an, environ — à des dates qu'aucun Arkhenien ne tient en registre — Mevren ouvre la porte au coucher du soleil. Pendant la nuit, douze à quinze personnes entrent par la fenêtre, par la cheminée, par la porte voisine qui communique avec la maison. On ne s'éclaire pas. On parle bas. On ne s'embrasse pas. Mevren prépare une tisane. Le pot de cendre passe de main en main — chacun en prend une pincée, la met sur son pli du coude gauche pour vérifier que la marque est encore vive, la rend au pot.
 
-Les conversations sont, pour qui les entendrait, ennuyeuses : qui est en visite à Pyrevane, qui a perdu un fils en mer, quel forgeron de Cendrelis a reçu son Sceau, comment va le Maître Vethrim VI de Mosrack. Aucun mot d'ordre. Aucune doctrine. Aucune décision. Juste de l'information *humaine* qui circule, et que les participants emportent en repartant — pour la transmettre, l'oublier, ou simplement la *garder*.
+Les conversations sont, pour qui les entendrait, ennuyeuses : qui est en visite à Pyrevane, qui a perdu un fils en mer, quel forgeron de Cendrelis a reçu son Sceau, comment va le Maître Vethrim VI de Vorrask. Aucun mot d'ordre. Aucune doctrine. Aucune décision. Juste de l'information *humaine* qui circule, et que les participants emportent en repartant — pour la transmettre, l'oublier, ou simplement la *garder*.
 
 À l'aube, on est partis. La porte de l'atelier est refermée. Le pot de cendre est sur l'étagère du fond. Personne ne sait quand la prochaine réunion aura lieu.
 
@@ -54,7 +54,7 @@ Tor n'a pas balayé. Il a allumé son feu sans toucher à la cendre. Il a forgé
 
 Le lendemain matin, elle avait disparu. Tor n'a jamais su qui l'avait enlevée. Il n'a rien dit à personne.
 
-Au mois Vanir suivant, Tor a reçu une lettre. Elle venait de Pyrevane, écrite par un homme qu'il ne connaissait pas, qui lui apprenait que son frère cadet était mort en l'an 250 d'une chute de cheval, sans famille, en oubliant son nom à la fin. Le frère, apparemment, avait passé les dernières années dans un hameau qu'on appelait *« Tessarin »* (sans nom officiel) sur la pente externe de Mosrack. La lettre ne donnait pas plus de détails.
+Au mois Vanir suivant, Tor a reçu une lettre. Elle venait de Pyrevane, écrite par un homme qu'il ne connaissait pas, qui lui apprenait que son frère cadet était mort en l'an 250 d'une chute de cheval, sans famille, en oubliant son nom à la fin. Le frère, apparemment, avait passé les dernières années dans un hameau qu'on appelait *« Tessarin »* (sans nom officiel) sur la pente externe de Vorrask. La lettre ne donnait pas plus de détails.
 
 Tor a relu la lettre trois fois. Il a regardé son seuil — propre, balayé, ordinaire. Il s'est demandé si la poignée de cendre avait été un message. Il n'a pas pu décider. Il a rangé la lettre.
 
@@ -84,7 +84,7 @@ Les six personnes ont repris leur vie. Vaela a continué à pêcher. Elle a refa
 
 Personne à Aïmar n'a tiré de leçon. La *Stephin* navigue encore. Vaela vieillit. Le retard de trois minutes est, dans la culture du port, une blague affectueuse — *« elle vit à l'horloge de la mer. »*
 
-Mais quand Vaela est rentrée du second voyage post-disparition, en l'an 251, elle a été vue déposant — discrètement, à la première lueur du matin — une poignée de cendre froide sur le seuil de l'auberge du capitaine **Vorlan Tessen**, l'homme qui voyage entre Cendrelis, Khoram et Mosrack. Personne ne lui a demandé ce qu'elle avait fait au large. Personne ne lui a demandé pourquoi elle avait déposé la cendre.
+Mais quand Vaela est rentrée du second voyage post-disparition, en l'an 251, elle a été vue déposant — discrètement, à la première lueur du matin — une poignée de cendre froide sur le seuil de l'auberge du capitaine **Vorlan Tessen**, l'homme qui voyage entre Cendrelis, Khoram et Vorrask. Personne ne lui a demandé ce qu'elle avait fait au large. Personne ne lui a demandé pourquoi elle avait déposé la cendre.
 
 Vorlan Tessen, au matin, en sortant, a vu la cendre. Il l'a regardée longtemps. Il ne l'a pas balayée. Il l'a laissée là toute la journée, et elle a disparu d'elle-même, peut-être emportée par le vent.
 
@@ -104,7 +104,7 @@ Karel sait qu'avec lui, ça finira. Aucun de ses fils ne pratiquera. Sa femme mo
 
 Karel n'en fait pas un drame. Il dit, quand on aborde le sujet — rarement — : *« Les choses finissent. C'est le métier des choses. »*
 
-En l'an 251, un homme est passé à Vorsalt. Un voyageur kharazirien grand et mince, qui faisait halte une nuit avant de reprendre le bateau pour la grande île. Il s'appelait **Sorin Valthen**. Karel ne l'a pas reçu chez lui — Vorsalt accueille à l'auberge, pas dans les maisons. Mais le matin, en partant, Sorin est passé devant la maison de Karel et a vu, par la fenêtre ouverte, la bougie blanche que Karel venait d'allumer.
+En l'an 252, un homme est passé à Vorsalt. Un voyageur kharazirien grand et mince, qui faisait halte une nuit avant de reprendre le bateau pour la grande île. Il s'appelait **Sorin Valthen**. Karel ne l'a pas reçu chez lui — Vorsalt accueille à l'auberge, pas dans les maisons. Mais le matin, en partant, Sorin est passé devant la maison de Karel et a vu, par la fenêtre ouverte, la bougie blanche que Karel venait d'allumer.
 
 Sorin s'est arrêté. Il a regardé pendant peut-être trente secondes. Il n'a rien dit. Karel l'a vu, n'a pas réagi. Sorin est reparti.
 
@@ -156,7 +156,7 @@ Mara a eu, sur les quarante dernières années, trois épisodes où elle a essay
 
 Personne, à Tess-Volange, ne sait ce que la maison compte. Il y a une rumeur, jamais discutée, qui voudrait que le rythme corresponde à *quelque chose qui pulse au loin*. Qu'on appelle ce *quelque chose* le Mont Cendra ou autrement. Personne ne formule cette rumeur. Aucun villageois n'a fait le voyage à Pyrevane pour vérifier auprès des Vigilants. Aucun Vigilant n'a jamais visité Tess-Volange.
 
-En l'an 248, un capitaine de Khoram, **Vorlan Tessen** — l'homme du réseau de transmission Cendrelis-Khoram-Mosrack —, a accosté à Tess-Volange pour une réparation. Il a logé une nuit chez les Velthen. Il a entendu les coups.
+En l'an 248, un capitaine de Khoram, **Vorlan Tessen** — l'homme du réseau de transmission Cendrelis-Khoram-Vorrask —, a accosté à Tess-Volange pour une réparation. Il a logé une nuit chez les Velthen. Il a entendu les coups.
 
 Il a passé la nuit assis dans la pièce principale, à les compter. Au matin, il a dit à Mara : *« Quarante-six secondes en moyenne, avec une variation. »*
 
@@ -178,7 +178,7 @@ Si Vorlan mourait demain, le carnet partirait à un autre. Si Mara mourait demai
 
 À Stephar, hameau d'altitude perdu sur le plateau central d'Aïkhar, on bat le beurre tous les matins.
 
-C'est un geste banal. Toutes les communautés pastorales d'Hybélior battent leur beurre. À Stephar, on le fait *en cadence* — cadence transmise de mère en fille depuis quinze ou vingt générations, selon les Anciens.
+C'est un geste banal. Toutes les communautés pastorales d'Hybelior battent leur beurre. À Stephar, on le fait *en cadence* — cadence transmise de mère en fille depuis quinze ou vingt générations, selon les Anciens.
 
 La cadence est précise. Une frappe toutes les quarante-six secondes environ. Avec une variation que les Anciens disent *« sentir dans la barre du barattoir »* — la barre, paraît-il, *résiste* différemment selon les jours, et la cadence s'ajuste à cette résistance.
 
@@ -200,11 +200,11 @@ Le beurre continuera d'être battu, à quarante-six secondes — ou peut-être q
 
 ## Caldegris — « La Caldera qui ne S'Éveilla pas »
 
-La **Caldera Grise**, au pied de laquelle se trouve le hameau de Caldegris, est dormante depuis l'Arrachement — environ deux mille ans. Elle fume légèrement, elle chauffe ses sources thermales, elle alimente les fours géothermiques du hameau. Elle n'entre pas en éruption. Elle n'a pas montré le moindre signe d'activité majeure depuis qu'on tient des chroniques.
+La **Caldera Grise**, au pied de laquelle se trouve le hameau de Caldegris, est dormante depuis l'Arrachement — environ deux cent cinquante ans. Elle fume légèrement, elle chauffe ses sources thermales, elle alimente les fours géothermiques du hameau. Elle n'entre pas en éruption. Elle n'a pas montré le moindre signe d'activité majeure depuis qu'on tient des chroniques.
 
 C'est, paradoxalement, *un objet théologique encombrant* pour l'Ignis Aeternum.
 
-Pourquoi ? Parce que la doctrine du Réveil — que tout volcan finira par s'éveiller, que toute pulsation prépare une éruption, que toute cendre est combustible d'un feu futur — doit *expliquer* la Caldera Grise. Une caldera qui dort *sans se réveiller* pendant deux mille ans est, à la lettre, un contre-exemple structurel.
+Pourquoi ? Parce que la doctrine du Réveil — que tout volcan finira par s'éveiller, que toute pulsation prépare une éruption, que toute cendre est combustible d'un feu futur — doit *expliquer* la Caldera Grise. Une caldera qui dort *sans se réveiller* depuis l'Arrachement est, à la lettre, un contre-exemple structurel.
 
 Les Forge-Liturgies pyrevaniennes ne traitent pas explicitement la Caldera Grise. Elles l'évoquent, dans certaines marges et certains commentaires de cinquième ordre, comme *« la dormante »* — terme d'apparence affectueuse qui sert à éviter le mot *« morte »*.
 
@@ -212,7 +212,7 @@ Les habitants de Caldegris vivent à côté d'elle. Ils utilisent ses sources, s
 
 Le doyen actuel de Caldegris, **Vels Tessen** (sans rapport avec Vorlan, malgré le nom commun), quatre-vingt-quatre ans, a vécu toute sa vie au pied de la caldera. Quand on lui demande ce qu'il pense de la doctrine du Réveil — rarement, et seulement quand un Pyrevanien de passage s'aventure dans le sujet —, il répond avec un sourire :
 
-> *« Si la mienne ne se réveille pas en deux mille ans, peut-être que la grande non plus. Peut-être qu'elles dorment toutes. Ce n'est pas un drame. C'est un état. »*
+> *« Si la mienne ne se réveille pas en deux cents ans, peut-être que la grande non plus. Peut-être qu'elles dorment toutes. Ce n'est pas un drame. C'est un état. »*
 
 Cette phrase, prononcée pour la première fois en l'an 220 environ, est la plus parfaite expression non théorique de la lecture arkhenienne du feu. Aucun Pyrevanien ne l'a jamais transcrite. Vels Tessen n'a aucune ambition doctrinale. Il pense seulement à sa caldera.
 
@@ -224,7 +224,7 @@ Mais sa phrase circule, à voix basse, parmi les Délies de Khoram. *« Il y a u
 
 L'auberge de Suie-Basse — un nom officiel qu'aucun document n'a jamais inscrit, tout le monde l'appelle simplement *« l'auberge »* — est tenue par la famille **Vortrim** depuis sept générations. Cinq pièces. Une cuisine. Une grande salle commune avec une cheminée qui ne s'éteint jamais. Vingt couchages. Une étable.
 
-Les vingt-trois habitants permanents de Suie-Basse sont presque tous des Vortrim, des Tessen, ou des Karlith — trois familles qui se marient entre elles depuis trois siècles. La généalogie est tenue à jour par la matriarche actuelle de l'auberge, **Tessina Vortrim**, soixante-six ans, qui peut réciter, sans hésitation, les noms de toutes les personnes qui ont dormi à l'auberge depuis l'an 100 du Sillage. Ce n'est pas une exagération — elle peut, avec son cahier (qui est tenu depuis sept générations, écriture de la grand-mère puis de la mère puis d'elle-même), retrouver le nom de n'importe quel passant.
+Les vingt-trois habitants permanents de Suie-Basse sont presque tous des Vortrim, des Tessen, ou des Karlith — trois familles qui se marient entre elles depuis un siècle et demi. La généalogie est tenue à jour par la matriarche actuelle de l'auberge, **Tessina Vortrim**, soixante-six ans, qui peut réciter, sans hésitation, les noms de toutes les personnes qui ont dormi à l'auberge depuis l'an 100 du Sillage. Ce n'est pas une exagération — elle peut, avec son cahier (qui est tenu depuis sept générations, écriture de la grand-mère puis de la mère puis d'elle-même), retrouver le nom de n'importe quel passant.
 
 La pratique a une raison technique : Suie-Basse étant un mouillage de fortune, il faut savoir si un voyageur a déjà fait défaut, s'il a payé, s'il était discret. Le cahier sert à cela. Il sert aussi, accessoirement, à autre chose.
 
@@ -248,7 +248,7 @@ En 252, il en compte sept en vol au-dessus de la canopée. Il y a quinze ans, il
 
 Ashael a, sur son bureau, un cahier qui s'appelle simplement *Le Compte*. Il y note, jour après jour, les passages observés. Position du Phénix, durée du vol, trajectoire, état apparent du plumage. Il tient ce cahier depuis l'an 209 — quarante-trois ans de relevés.
 
-Le cahier est, sans qu'Ashael en ait conscience, **le document scientifique le plus précieux d'Hybélior** sur la vie des Phénix. Aucun naturaliste lumasarien n'a jamais eu accès à des données comparables. Aucune Forge-Temple pyrevanienne ne dispose d'un registre similaire. Ashael, prêtre syncrétique sans formation académique, a rassemblé une chronique de quarante-trois ans qui éclipse tout ce qui s'est jamais écrit sur ces créatures.
+Le cahier est, sans qu'Ashael en ait conscience, **le document scientifique le plus précieux d'Hybelior** sur la vie des Phénix. Aucun naturaliste lumasarien n'a jamais eu accès à des données comparables. Aucune Forge-Temple pyrevanienne ne dispose d'un registre similaire. Ashael, prêtre syncrétique sans formation académique, a rassemblé une chronique de quarante-trois ans qui éclipse tout ce qui s'est jamais écrit sur ces créatures.
 
 Ashael ne sait pas que son cahier est précieux. Il pense qu'il *suit* simplement les Phénix parce qu'il les aime. Il ne pense pas à publier. Il ne pense pas à transmettre. Il continue de noter.
 

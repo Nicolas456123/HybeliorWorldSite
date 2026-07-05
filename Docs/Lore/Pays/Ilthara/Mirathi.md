@@ -23,9 +23,9 @@ needs_review_for: []
 
 ## Géographie et démographie
 
-- **Site** : plateau de Vrenith — hauts pâturages calcaires de l'arrière-pays vytharien, replat d'altitude au sein de [[Vytharia]] (continent [[Ilthara - Continent|Ilthara]]).
-- **Séparation** : l'arête vytharo-mirathienne (trait interne au relief de Vytharia) sépare le plateau de la steppe vytharienne.
-- **Climat** : sec et venteux ; étés courts ; hivers tempérés mais rudes ; neige rare mais durable.
+- **Site** : plateau de Vrenith — hauts pâturages calcaires dressés au-dessus de la mer, replat d'altitude en surplomb de la côte d'Ilthara au sein de [[Vytharia]] (continent [[Ilthara - Continent|Ilthara]]). Le sanctuaire domine le détroit ; un port modeste, l'**Échelle-de-Vrenith**, s'accroche au pied des falaises, relié au replat par des rampes taillées.
+- **Séparation** : l'arête vytharo-mirathienne (trait interne au relief de Vytharia) sépare le plateau de la steppe vytharienne ; côté mer, la falaise tombe droit sur le détroit.
+- **Climat** : sec et venteux — vents marins constants remontant la falaise ; étés courts ; hivers tempérés mais rudes ; neige rare mais durable.
 - **Pierre** : calcaire très blanc, rose à l'aube, gris au crépuscule — qualité non reproductible ailleurs selon les rares peintres mirathiens (issus du milieu Taciti).
 - **Population totale du plateau** : moins de 4 000 âmes (recensement thalmarien le plus récent).
 
@@ -71,7 +71,7 @@ needs_review_for: []
 
 - **Résidence prolongée** : un visiteur peut s'installer plusieurs mois ou années contre un loyer modeste à l'auberge, ou en logeant dans une cellule du Sanctuaire (sur permission).
 - **Droits** : pas de citoyenneté — les étrangers ne participent pas au conseil civil ; intégration culturelle progressive et ouverte.
-- **Records documentés** : 17 ans (un musicien d'Astravia, rentré chez lui à la fin) ; 23 ans (Orneth est en passe de devenir le second).
+- **Record documenté** : 17 ans (un musicien d'Astravia, rentré chez lui à la fin). Orneth, en résidence depuis deux ans, en est encore loin.
 - **Effet économique** : le village vit en partie de ces résidences (loyers, achats quotidiens, copies commandées) ; Mirathi est un lieu de séjour pour érudits indépendants plus que de visite.
 
 ---

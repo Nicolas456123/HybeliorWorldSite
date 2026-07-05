@@ -43,7 +43,7 @@ needs_review_for: [datations-précises, démographie-fine, validation-géographi
 
 ## Gouvernement — La Confédération
 
-- **Conseil des Caravansérails :** un délégué par caravansérail majeur, **vingt-trois sièges** actuellement.
+- **Conseil des Caravansérails :** un délégué par caravansérail majeur, **vingt-sept sièges** actuellement.
 - **Siège tournant :** le Conseil siège chaque saison dans un caravansérail différent, désigné à tour de rôle.
 - **Décisions :** prises à la **majorité qualifiée des deux tiers**.
 - **Pas de bras armé propre :** l'application des décisions revient aux caravansérails membres, par compagnies de gardes contractées.
@@ -78,7 +78,7 @@ needs_review_for: [datations-précises, démographie-fine, validation-géographi
 ## Régions et caravansérails majeurs
 
 > [!info] Liste indicative
-> Les caravansérails majeurs sont au nombre de vingt-trois ; cette section liste les plus connus. Le détail intégral des relais affiliés relève des registres commerciaux du Conseil.
+> Les caravansérails majeurs sont au nombre de vingt-sept ; cette section liste les plus connus. Le détail intégral des relais affiliés relève des registres commerciaux du Conseil.
 
 ### Andivar — Caravansérail de l'Ouest ★
 - **Rôle :** point d'entrée commercial pour ce qui vient d'Avalor (via Perivalis) et de Galenor maritime ; cours pavées les plus larges de Sanvara.

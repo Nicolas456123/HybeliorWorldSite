@@ -11,13 +11,13 @@ needs_review_for: []
 
 Le plateau de Vrenith est habité depuis longtemps : les hameaux de bergers attestent une présence pastorale qu'aucune chronique ne date avec précision. Aucune ruine pré-Arrachement n'y a été identifiée — ce qui distingue Mirathi des autres établissements vythariens. Dans la mesure où on le sait, le plateau *n'a pas eu d'avant*.
 
-La **fondation du Sanctuaire** est placée vers l'**an 4 200 ap.A** (lecture admise, d'après les chroniques internes consultables avec autorisation). Un groupe de **rêveurs vythariens dissidents** quitta Vytharia-cité au début du cinquième millénaire pour s'établir sur le plateau. La dissidence était double : refus de l'institutionnalisation noctarienne du rêve (jugée trop politique) et refus de la séparation somnique (jugée trop doctrinale) ; ils cherchaient *un endroit où le rêve serait reçu sans être interprété*. Selon une autre formulation interne, le plateau leur fut indiqué *par un rêve commun* — indication jamais corroborée. Les fondateurs bâtirent le Sanctuaire en deux générations, sans plan extérieur, avec l'aide des bergers locaux.
+La **fondation du Sanctuaire** est placée vers l'**an 9 400 ap.A** (lecture admise, d'après les chroniques internes consultables avec autorisation), aux premiers temps de Vytharia. Un groupe de **rêveurs vythariens dissidents** quitta Vytharia-cité peu après sa fondation pour s'établir sur le plateau. La dissidence était double : refus de l'institutionnalisation noctarienne du rêve (jugée trop politique) et refus de la séparation somnique (jugée trop doctrinale) ; ils cherchaient *un endroit où le rêve serait reçu sans être interprété*. Selon une autre formulation interne, le plateau leur fut indiqué *par un rêve commun* — indication jamais corroborée. Les fondateurs bâtirent le Sanctuaire en deux générations, sans plan extérieur, avec l'aide des bergers locaux.
 
-La **Brèche du Néant** (ou Brèche de Mirathi) est datée approximativement entre l'**an 4 100 et l'an 4 300 ap.A**, comme événement cosmologique mineur — lecture contestée. Selon une version, ce fut un trou dans le tissu du monde qui s'ouvrit puis se referma sur le plateau, laissant des traces sensibles aux rêveurs ; selon une autre, la Brèche n'eut jamais lieu et n'est qu'une rationalisation tardive de phénomènes oniriques convergents, eux attestés. Le Sanctuaire ne se prononce pas.
+La **Brèche du Néant** (ou Brèche de Mirathi) est datée approximativement entre l'**an 9 300 et l'an 9 500 ap.A**, comme événement cosmologique mineur — lecture contestée. Selon une version, ce fut un trou dans le tissu du monde qui s'ouvrit puis se referma sur le plateau, laissant des traces sensibles aux rêveurs ; selon une autre, la Brèche n'eut jamais lieu et n'est qu'une rationalisation tardive de phénomènes oniriques convergents, eux attestés. Le Sanctuaire ne se prononce pas.
 
-Les **Taciti** (école du Premier Voile, branche minoritaire baelorienne) s'implantèrent vers l'**an 4 800 ap.A** : Tholmë-en-haut fut fondé au début du cinquième millénaire, Vrenith un siècle plus tard. Les chroniques internes des ermitages ne précisent pas leurs motifs — possiblement la qualité du silence local, possiblement une proximité doctrinale avec la pratique mirathienne du non-nom. La déférence de voisinage entre Sanctuaire et ermitages dure depuis huit siècles.
+Les **Taciti** (école du Premier Voile, branche minoritaire baelorienne) s'implantèrent peu après la fondation du Sanctuaire, vers l'**an 9 400 ap.A** : Tholmë-en-haut fut fondé le premier, Vrenith un siècle plus tard. Les chroniques internes des ermitages ne précisent pas leurs motifs — possiblement la qualité du silence local, possiblement une proximité doctrinale avec la pratique mirathienne du non-nom. La déférence de voisinage entre Sanctuaire et ermitages dure depuis huit siècles.
 
-La **pratique oraculaire** s'établit progressivement au cours des cinquième et sixième millénaires. La règle clef — *l'Oracle n'a pas de nom personnel ; il a une fonction* — émergea dans les premiers siècles et fut formalisée vers l'**an 5 800 ap.A** par un texte court, la **Première Lettre de Mirathi**, dont une copie est conservée à Thalmaris.
+La **pratique oraculaire** s'établit progressivement au cours des siècles suivants. La règle clef — *l'Oracle n'a pas de nom personnel ; il a une fonction* — émergea dans les premiers siècles et fut formalisée vers l'**an 9 700 ap.A** par un texte court, la **Première Lettre de Mirathi**, dont une copie est conservée à Thalmaris. La reconnaissance du plateau comme province-sanctuaire de Vytharia est plus tardive encore (vers l'**an 9 800 ap.A**), simple entérinement d'un fait déjà ancien.
 
 Le **Message** et la résidence d'**Orneth de Thalmaris** (à partir de l'an 250, voir plus bas) marquent l'époque récente : pour la première fois depuis longtemps, un étranger habite Mirathi sans participer à la fonction oraculaire.
 
@@ -145,7 +145,7 @@ Tholmë-en-haut et Vrenith ne se rendent pas visite. C'est un fait. Personne n'e
 
 Une chronique marginale, conservée dans une caisse du Sanctuaire, donne pourtant une version. Elle est isolée. Elle n'est pas confirmée. Elle vaut d'être posée pour le dossier sans être tenue pour vraie.
 
-Au sixième siècle après l'établissement des deux ermitages — donc vers le début du sixième millénaire ap.A — un débat éclata entre les Aînés des deux maisons. Le débat portait sur la pratique de la lamelle. Tholmë-en-haut tenait que la lamelle devait être brûlée à la mort du frère. Vrenith tenait qu'elle ne devait pas être inscrite *du tout* — que le silence vrai n'écrit pas, même un mot, même destiné à être brûlé.
+Dans le premier siècle après l'établissement des deux ermitages — donc peu après leur fondation, vers l'an 9 500 ap.A — un débat éclata entre les Aînés des deux maisons. Le débat portait sur la pratique de la lamelle. Tholmë-en-haut tenait que la lamelle devait être brûlée à la mort du frère. Vrenith tenait qu'elle ne devait pas être inscrite *du tout* — que le silence vrai n'écrit pas, même un mot, même destiné à être brûlé.
 
 Le débat dura trois ans. Il fut conduit par échange de messagers — pas par visites mutuelles, ce qui était déjà la règle. Les échanges sont conservés dans une caisse, à raison de quarante-trois lettres au total. Aucun consensus ne fut atteint.
 
@@ -153,7 +153,7 @@ Au bout de trois ans, l'Aîné de Tholmë envoya à l'Aîné de Vrenith une dern
 
 L'Aîné de Vrenith répondit par un seul mot, qui est consigné comme : *Soit.*
 
-Les deux ermitages ne se sont plus écrit. Ils ne se sont plus visités. Pendant huit siècles. Quand un frère de Tholmë meurt, sa pratique de brûler la lamelle se maintient. Quand un frère de Vrenith meurt, sa pratique de ne pas inscrire se maintient également.
+Les deux ermitages ne se sont plus écrit. Ils ne se sont plus visités. Pendant près de huit siècles. Quand un frère de Tholmë meurt, sa pratique de brûler la lamelle se maintient. Quand un frère de Vrenith meurt, sa pratique de ne pas inscrire se maintient également.
 
 Aucun échange. Aucun débat. Aucune polémique.
 

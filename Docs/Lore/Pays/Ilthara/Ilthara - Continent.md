@@ -11,7 +11,7 @@ needs_review_for: []
 
 | | |
 |---|---|
-| **Type** | Plus grand continent d'Hybélior |
+| **Type** | Plus grand continent d'Hybelior |
 | **Étendue climatique** | Du nord glacial au sud tropical |
 | **Nations** | 8 (Ackerna, Drakora, Gryndor, Lythar, Pyrtara, Sylthara, Vytharia, Warenthor) |
 | **Diversité** | Identités radicalement contrastées : jungle tropicale, chaîne de montagnes cristallines, plaines de rêve, bibliothèques de cristal, steppes infinies |
@@ -55,7 +55,7 @@ Repères d'identité par nation :
   - **Gryndor** — classement et préservation rigoureuse du savoir.
   - **Vytharia** — Voile (illusion, frontière floue rêve/réalité).
   - **Warenthor** — protocoles d'offrandes chamaniques (grand pacte vert).
-  - **Drakora** — Pacte du Souffle (Liés des dragons).
+  - **Drakora** — Pacte de la Grande Chasse (Liés des dragons).
   - **Ackerna** — Pacte Sylvestre (druides).
   - **Sylthara** — rotations agricoles héritées.
 - Racine commune partagée par toutes ces traditions, qu'aucune culture in-world ne nomme.
@@ -77,7 +77,7 @@ Repères d'identité par nation :
 | Pays | Identité |
 |------|----------|
 | [[Ackerna]] | Druides de la forêt ancienne, gardiens du Pacte Sylvestre |
-| [[Drakora]] | Seigneurs de dragons, culture guerrière et Pacte du Souffle |
+| [[Drakora]] | Seigneurs de dragons, culture guerrière et Pacte de la Grande Chasse |
 | [[Gryndor]] | Royaume du savoir, bibliothèques de cristal et préservation rigoureuse |
 | [[Lythar]] | Nomades des steppes, cavaliers sans frontières et confédération mobile |
 | [[Pyrtara]] | Dictature militaire volcanique, peuple-armée |

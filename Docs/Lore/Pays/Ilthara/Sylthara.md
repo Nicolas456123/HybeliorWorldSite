@@ -161,7 +161,7 @@ needs_review_for: []
 
 ### Galdoria — Ville
 - Principale ville de Brynthal, au bord d'une large rivière parcourue de barges de riz et de légumes. Entourée de canaux d'irrigation alimentant rizières et potagers ; eau omniprésente (rigoles le long des rues, jardin irrigué par maison).
-- Les canaux furent le premier grand projet collectif de Sylthara après la Confédération d'Amaryl : six régions mobilisées vingt ans, exemple cité par Amaryl de la coopération volontaire surpassant l'autorité coercitive des occupants. Entretien partagé entre riverains par rotation, selon le même principe.
+- Les canaux furent le premier grand projet collectif de Sylthara après la Confédération d'Amaryl : cinq régions mobilisées vingt ans, exemple cité par Amaryl de la coopération volontaire surpassant l'autorité coercitive des occupants. Entretien partagé entre riverains par rotation, selon le même principe.
 - Population : Ville
 - Région : Brynthal
 

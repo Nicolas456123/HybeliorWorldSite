@@ -8,7 +8,7 @@ needs_review_for: []
 # Chapitre 4 — Les Cathédrales Vivantes
 
 > *« Chaque note chantée est une prière, chaque couleur posée sur la toile est un acte de foi. À Seraphia, créer, c'est vénérer. »*
-> — Haute-Prêtresse Ilynara, Cathédrale des Lumières d'Althior
+> — Primat Ilynara, Cathédrale des Lumières d'Althior
 
 **Galenor — Seraphia**
 **Jour 45 du voyage**
@@ -167,7 +167,7 @@ Le Festival des Lumières se tenait dans cinq jours — je n'avais pas choisi mo
 
 Althior se préparait à se donner en spectacle. Et dans cette préparation, j'observais quelque chose qui me troublait sans que j'eusse encore les mots pour le formuler.
 
-J'ai passé un après-midi à regarder travailler les équipes de préparation depuis un café du quartier de Thalvorn, dont les sculpteurs avaient installé sur les tables extérieures de petits morceaux de marbre brut — pour les clients qui voulaient, m'a dit le propriétaire, "avoir quelque chose à faire pendant qu'ils regardent la rue". Une distraction tactile que j'ai trouvée touchante dans sa naïveté.
+J'ai passé un après-midi à regarder travailler les équipes de préparation depuis un café du quartier des tailleurs de pierre, dont le propriétaire avait installé sur les tables extérieures de petits morceaux de marbre brut — des chutes de Thalvorn, la ville des sculpteurs plus haut dans la vallée, dont on rapporte ici les déchets par pleines charrettes — pour les clients qui voulaient, m'a-t-il dit, "avoir quelque chose à faire pendant qu'ils regardent la rue". Une distraction tactile que j'ai trouvée touchante dans sa naïveté.
 
 Les préparateurs travaillaient vite, avec la précision de gens qui font la même chose chaque année et savent exactement combien de lanternes tenir dans chaque main, à quel angle accrocher le crochet pour que la lanterne tienne dans le vent, à quelle hauteur régler la flamme pour qu'elle reste stable sans devenir dangereuse. Ce travail n'était pas de l'art. C'était de la logistique. Mais sans lui, l'art n'aurait pas lieu.
 

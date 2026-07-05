@@ -91,7 +91,7 @@ Pouvoir distribué entre trois instances qui se chevauchent sans hiérarchie cla
 ### Architecture
 
 - Bâtiments de surface modestes et bas (vent fort sur les hauts massifs).
-- Vraies habitations sous terre : maisons creusées dans la roche, cuisines reliées à des conduits naturels, chambres de profondeur à luminescence cristalline (cristaux importés de Kaeloria d'Iskara, ou produits localement à Volnir).
+- Vraies habitations sous terre : maisons creusées dans la roche, cuisines reliées à des conduits naturels, chambres de profondeur à luminescence cristalline (cristaux produits à Volnir, dans les Hautes-Pierres).
 - Une famille ferrathine moyenne vit en partie sous terre, surtout l'hiver.
 
 ---
@@ -128,7 +128,7 @@ Vieille ville minière, deuxième de Ferrath en taille. Exploite l'une des plus 
 - Région : Profonds
 
 ### Ulthral
-Ville minière des Profonds, spécialisée dans le plomb et l'étain. Plus forte concentration de Mineurs Silencieux du pays (~quatre-vingts en l'an 252, sur six mille habitants). Hausse des Silencieux depuis l'an 200 environ, quand la mine principale fut poussée au-delà de cinq cents mètres pour suivre une veine d'étain riche (veine éteinte vers 230, mais les Silencieux ont continué d'apparaître, ~dix par décennie). Délégation Vael'Kari du Concile envoyée en 240 (restée six mois) : rapport conservé à Vythoris, sans conclusion.
+Ville minière des Profonds, spécialisée dans le plomb et l'étain. Plus forte concentration de Mineurs Silencieux du pays (~quatre-vingts en l'an 252, sur six mille habitants). Hausse des Silencieux depuis l'an 200 environ, quand la mine principale fut poussée au-delà de cinq cents mètres pour suivre une veine d'étain riche (veine éteinte vers 230, mais les Silencieux ont continué d'apparaître, ~dix par décennie). Délégation Vael'Kari du Concile envoyée en 232 (restée six mois) : rapport conservé à Vythoris, sans conclusion.
 - Population : Ville
 - Région : Profonds
 
@@ -153,12 +153,12 @@ Hameau autour de la plus ancienne et la plus respectée des Cavernes de l'Écout
 - Région : Hautes-Pierres
 
 ### Tombarn
-Village de fondeurs des Profonds, spécialisé dans le **fer-bleu** — alliage rare obtenu par fusion de fer altrami avec un minéral local non identifié hors de Tombarn. Le fer-bleu ne rouille pas et conserve une trempe régulière sur trente ans ; production faible (moins de cent kilos par an), liste de clients longue. Technique découverte vers l'an 80 par le fondeur Volar (mélange fortuit d'un minéral cru avec du fer altrami) ; formule transmise depuis cinq siècles dans la lignée Volar (aujourd'hui quatorze personnes, dont neuf maîtrisent au moins une étape). Les Volar refusent toute expansion ; tolérés par le Concile des Profondeurs car *« utiles »*.
+Village de fondeurs des Profonds, spécialisé dans le **fer-bleu** — alliage rare obtenu par fusion de fer altrami avec un minéral local non identifié hors de Tombarn. Le fer-bleu ne rouille pas et conserve une trempe régulière sur trente ans ; production faible (moins de cent kilos par an), liste de clients longue. Technique découverte vers l'an 80 par le fondeur Volar (mélange fortuit d'un minéral cru avec du fer altrami) ; formule transmise depuis près de deux siècles dans la lignée Volar (aujourd'hui quatorze personnes, dont neuf maîtrisent au moins une étape). Les Volar refusent toute expansion ; tolérés par le Concile des Profondeurs car *« utiles »*.
 - Population : Village
 - Région : Profonds
 
 ### Mara-Vieille
-Hameau de surface du Sourd-Bois, à la lisière la plus extrême de Ferrath. Une trentaine de familles, principalement bergers et charbonniers. Fondé comme bourg de pâturage il y a quatre siècles. Lieu de résidence depuis +250 de **Yltha**, l'une des sept apprenties de Veshva des Cavernes : femme d'environ cinquante ans, bergère, qui veille les présences affaiblies des hauts plateaux du Sourd-Bois sans titre. Elle s'absente des semaines ; son troupeau est gardé par des bénévoles en son absence.
+Hameau de surface du Sourd-Bois, à la lisière la plus extrême de Ferrath. Une trentaine de familles, principalement bergers et charbonniers. Fondé comme bourg de pâturage il y a quatre siècles. Lieu de résidence depuis +250 de **Yltha**, l'une des sept ou huit apprenties de Veshva des Cavernes : femme d'environ soixante ans, bergère, qui veille les présences affaiblies des hauts plateaux du Sourd-Bois sans titre. Elle s'absente des semaines ; son troupeau est gardé par des bénévoles en son absence.
 - Population : Hameau
 - Région : Sourd-Bois
 
@@ -181,7 +181,7 @@ Bourg du Sourd-Bois pratiquant encore une métallurgie du bronze archaïque, alo
 | **Altram** | Partenariat commercial discret | Le métal ferrathin alimente les forges de Trelios. Altram a renoncé à toute prétention de vassalité depuis la Sécession de l'an 60. La relation est cordiale dans les faits, glaciale dans les protocoles. |
 | **Iskara** | Neutralité armée | Iskara aimerait un traité formel ; Ferrath ne signe rien. La frontière des Hautes-Pierres est gardée par Selthar (Ferrath, 100 hommes) et plusieurs garnisons iskaran (Helionar, Glintar). Aucun incident majeur depuis trois générations. |
 | **Torkam** | Échanges minimaux | Pas de frontière commune significative. Quelques caravanes torkamites passent par le Sourd-Bois ; les Ferrathins les laissent passer sans formalités. |
-| **Gryndor** (Endora) | Lien religieux tendu | Le Vael'Kurash gryndori (Décrétiste) considère les Vael'Kari ferrathins comme *« insuffisamment formés »*. Les Vael'Kari ferrathins considèrent les Décrétistes comme *« administratifs »*. Les Cavernes de l'Écoute de Ferrath sont, malgré ce désaccord, le lieu d'initiation reconnu par les deux courants — ce qui est un compromis muet. |
+| **Gryndor** (Ilthara) | Lien religieux tendu | Le Vael'Kurash gryndori (Décrétiste) considère les Vael'Kari ferrathins comme *« insuffisamment formés »*. Les Vael'Kari ferrathins considèrent les Décrétistes comme *« administratifs »*. Les Cavernes de l'Écoute de Ferrath sont, malgré ce désaccord, le lieu d'initiation reconnu par les deux courants — ce qui est un compromis muet. |
 
 ---
 

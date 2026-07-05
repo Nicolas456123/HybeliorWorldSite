@@ -26,7 +26,7 @@ needs_review_for: []
 | **Continent** | [[Ulinor - Continent\|Ulinor]] |
 | **Position** | Ouest et nord-ouest de l'île principale, vallées intérieures |
 | **Climat** | Tempéré humide, brumes matinales fréquentes, hivers doux par rapport à Skaldoria |
-| **Accès** | Cols saisonniers vers Folinor (3-5 mois par an) ; côte ouest peu praticable ; pas d'accès direct vers Korrinor sans détour important |
+| **Accès** | Cols saisonniers vers Folinor (3 mois par an) ; côte ouest peu praticable ; pas d'accès direct vers Korrinor sans détour important |
 
 - **Nombre de vallées** : ~17 vallées principales (chiffre contesté entre Vallois : de 15 à 19, sans arbitre).
 - **Relief** : crêtes basses mais boisées séparant les vallées, rendant les passages lents ; hauteurs ne dépassant pas 1 200 m.
@@ -195,7 +195,7 @@ Les autres vallées (9 à 11 selon les comptages) sont plus petites, parfois que
 - Région : DhalvoriaRegion
 
 ### Kerwhelm
-- Descripteur : vallée la plus orientale, point d'entrée des voyageurs venus de Folinor ; bourg de 1 500 habitants, marché actif (par les standards vallons) trois mois par an pendant l'ouverture des cols. Vallée la plus *cosmopolite* (marchands, prêtres ulinoriens égarés, parfois voyageur d'Onara ou de Galenor), tenue pour *contaminée* par les autres vallées. Vallée la plus pragmatique : à l'origine de deux des six propositions historiques de représentation extérieure, portées par la famille **Brendel** (marchands installés depuis cinq générations) ; aucun Brendel jamais fait Veilleur reconnu.
+- Descripteur : vallée la plus orientale, point d'entrée des voyageurs venus de Folinor ; bourg de 1 500 habitants, marché actif (par les standards vallons) trois mois par an pendant l'ouverture des cols. Vallée la plus *cosmopolite* (marchands, prêtres ulinoriens égarés, parfois voyageur d'Onara ou de Galenor), tenue pour *contaminée* par les autres vallées. Vallée la plus pragmatique : à l'origine de quatre des six propositions historiques de représentation extérieure (aux Convergences de 156, 184, 201 et 217), toutes portées par la famille **Brendel** (marchands installés depuis cinq générations) ; aucun Brendel jamais fait Veilleur reconnu.
 - Population : Bourg
 - Région : DhalvoriaRegion
 
@@ -210,7 +210,7 @@ Les autres vallées (9 à 11 selon les comptages) sont plus petites, parfois que
 - Région : DhalvoriaRegion
 
 ### Brundherna
-- Descripteur : vallée sud, agriculture céréalière dominante ; ~1 900 habitants (la plus peuplée après Dhalvora et Kerwhelm). Fournit une part importante du grain consommé dans le pays et exporté vers Folinor ; Brundherniens tenus pour *un peu trop matériels*. À l'origine de quatre des six propositions historiques d'extension extérieure de Dhalvoria (aucune aboutie). Veilles tenues *avec moins d'ascétisme* (veilleurs y mangeant quelques fruits secs et buvant du thé pendant la nuit), pratique jugée relâchée par les autres vallées.
+- Descripteur : vallée sud, agriculture céréalière dominante ; ~1 900 habitants (la plus peuplée après Dhalvora). Fournit une part importante du grain consommé dans le pays et exporté vers Folinor ; Brundherniens tenus pour *un peu trop matériels*. À l'origine de deux des six propositions historiques d'extension extérieure de Dhalvoria (aucune aboutie). Veilles tenues *avec moins d'ascétisme* (veilleurs y mangeant quelques fruits secs et buvant du thé pendant la nuit), pratique jugée relâchée par les autres vallées.
 - Population : Bourg
 - Région : DhalvoriaRegion
 
@@ -238,7 +238,7 @@ Les autres vallées (9 à 11 selon les comptages) sont plus petites, parfois que
 | **Ulinor (archipel central)** | Tension symbolique non-violente | Désaccord sur la *propriété* des Anciens (cf. fiche [[Ulinor - Continent]]) ; rencontres rares entre Écho-Guides et Veilleurs ; aucun conflit ouvert |
 | **Skaldoria** | Quasi-aucun contact | Les deux pays ne se touchent pas géographiquement ; rumeurs de Skaldoriens du Givre venus mourir dans certaines vallées hautes, ni confirmées ni démenties |
 | **Folinor (Confédération ulinorienne)** | Échange commercial régulier | Trois mois par an d'échanges via les cols ; lainages dhalvoriens contre sel marin et cristaux folinoriens |
-| **Reste d'Hybélior** | Extranéité totale | Aucun ambassadeur, aucune représentation ; la Prophétie de l'Éveil interdit la cessation de la Veille pour des affaires extérieures |
+| **Reste d'Hybelior** | Extranéité totale | Aucun ambassadeur, aucune représentation ; la Prophétie de l'Éveil interdit la cessation de la Veille pour des affaires extérieures |
 
 ---
 

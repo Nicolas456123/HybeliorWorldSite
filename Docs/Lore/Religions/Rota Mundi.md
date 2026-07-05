@@ -1,4 +1,4 @@
-﻿---
+---
 tags: [religion, lore, cosmologie, refonte-2026-05, veines-philo]
 type: lore
 status: drafted
@@ -131,7 +131,7 @@ Cette dernière affirmation a un nom interne : **l'Espérance Tournante**. C'est
 
 Cette reformulation est l'œuvre de la *Concilière Mara Telventh* (cf. figure historique infra). Elle n'a pas effacé l'ancienne ; elle l'a placée sous tutelle. Une frange importante du clergé — surtout dans les villages de Sylthara et d'Elarian — continue de prêcher la formule ancienne. Le Concile tolère l'écart : *« la roue inclut ses propres décalages »*.
 
-Les sermons publics sont organisés en **cycle de quatre vingt-onze homélies**, soit une par jour selon le calendrier liturgique principal. Chaque homélie nomme la qualité du jour — *« jour de chute »*, *« jour de retour »*, *« jour vide »*, *« jour double »* — et propose un geste minuscule à accomplir. Les Roteri enseignent que la spiritualité ne consiste pas à embrasser la roue (ce qui est impossible) mais à *poser une main* sur le cran qui passe sous soi. Aucune religion d'Hybélior ne pratique aussi systématiquement le **geste petit, juste, daté**.
+Les sermons publics sont organisés en **cycle de quatre vingt-onze homélies**, soit une par jour selon le calendrier liturgique principal. Chaque homélie nomme la qualité du jour — *« jour de chute »*, *« jour de retour »*, *« jour vide »*, *« jour double »* — et propose un geste minuscule à accomplir. Les Roteri enseignent que la spiritualité ne consiste pas à embrasser la roue (ce qui est impossible) mais à *poser une main* sur le cran qui passe sous soi. Aucune religion d'Hybelior ne pratique aussi systématiquement le **geste petit, juste, daté**.
 
 ---
 
@@ -161,7 +161,7 @@ Trois lignes de friction traversent la religion.
 
 **Troisième ligne : les *Brûleurs-de-Bois*.** Petite secte interne, apparue à Evertia vers +210, qui pratique chaque année, à la Nuit-Pause, le brûlage public d'un fragment des Quatre Bois. Le geste est doctrinalement justifiable (le Bois s'use, la doctrine ne se résume pas à son support), mais il choque. Le Concile a longuement débattu d'une condamnation. Il a finalement *intégré* la pratique : depuis +231, une **Petite Combustion** a lieu au Cercle des Saisons d'Evertia, sous contrôle, avec récitation préalable. Les Brûleurs-de-Bois ne sont pas excommuniés. Ils ne sont pas non plus considérés comme une hérésie. Ils incarnent, dit-on, *« la roue qui tourne sur elle-même »*.
 
-Le doute habite donc la religion sans la déchirer. Le Concile fonctionne. Les fidèles continuent. Mais aucune autre religion d'Hybélior ne traverse de manière aussi explicite et aussi assumée la **transition entre une espérance d'âge d'or et une acceptation de la blessure**. Cette transition reste inachevée.
+Le doute habite donc la religion sans la déchirer. Le Concile fonctionne. Les fidèles continuent. Mais aucune autre religion d'Hybelior ne traverse de manière aussi explicite et aussi assumée la **transition entre une espérance d'âge d'or et une acceptation de la blessure**. Cette transition reste inachevée.
 
 ---
 
@@ -169,11 +169,11 @@ Le doute habite donc la religion sans la déchirer. Le Concile fonctionne. Les f
 
 Rota Mundi lit l'**Arrachement** comme **la seconde blessure de Tempora** — pas une catastrophe distincte, mais l'**aggravation** de la Fracture initiale. *« Une blessure qui s'est rouverte. La roue a failli s'arrêter ; elle ne s'est pas arrêtée. »* Cette lecture est sobre : pas de récit d'agression cosmique extérieure, pas d'identification d'un coupable, pas de promesse de vengeance. Le clergé tient que **la roue elle-même s'est blessée par sa propre rotation** — et que c'est précisément cette possibilité qui rend la roue digne de respect. Une roue qui ne pourrait pas se blesser ne serait pas une roue.
 
-Les **Souffles cycliques** sont le domaine d'excellence de la prédiction Roteri. Le Concile fournit aux nations des estimations de date et de magnitude qui sont parmi les plus fiables d'Hybélior. Mais — détail important — les Roteri **refusent doctrinalement** de prédire ce qui se passera *dans* un Souffle au-delà de sa structure formelle. Ils donnent la date probable, l'amplitude probable, la durée probable. Ils ne donnent pas de *contenu*. Cette modestie est consciente : c'est ce que le Concile appelle *« la pudeur de la roue »*. La roue tourne, mais ce qui se passe pendant un cran ne se prédit pas.
+Les **Souffles cycliques** sont le domaine d'excellence de la prédiction Roteri. Le Concile fournit aux nations des estimations de date et de magnitude qui sont parmi les plus fiables d'Hybelior. Mais — détail important — les Roteri **refusent doctrinalement** de prédire ce qui se passera *dans* un Souffle au-delà de sa structure formelle. Ils donnent la date probable, l'amplitude probable, la durée probable. Ils ne donnent pas de *contenu*. Cette modestie est consciente : c'est ce que le Concile appelle *« la pudeur de la roue »*. La roue tourne, mais ce qui se passe pendant un cran ne se prédit pas.
 
 La **Polyphonie** est admise sans drame. La doctrine officielle considère que plusieurs voix qui parlent en même temps font partie de la **rotation normale** — les voix se succèdent dans le temps long et coexistent dans le temps court. Les Roteri n'éprouvent pas la polyphonie comme une menace ontologique, contrairement à l'Ordo Caelum. Cette tranquillité est l'un des grands acquis de la religion.
 
-Les **Cosmiques retirés** — Tempora blessé, Climata distant, Fatum opaque — sont lus comme **présences en convalescence**. Pas en méditation (formule caelumite que les Roteri jugent verbeuse). Pas en mort (formule que les Brûleurs-de-Bois admettent à voix basse mais que le Concile rejette). En convalescence : c'est-à-dire **abîmées, partiellement présentes, en lente reconstitution dont l'issue n'est pas garantie**. Cette formule est doctrinalement neuve (elle date du Concile de +201). Elle est l'une des positions les plus mûres prises par une religion d'Hybélior sur la question du retrait cosmique. Elle reconnaît la perte sans la nier ; elle reconnaît la possibilité sans la promettre.
+Les **Cosmiques retirés** — Tempora blessé, Climata distant, Fatum opaque — sont lus comme **présences en convalescence**. Pas en méditation (formule caelumite que les Roteri jugent verbeuse). Pas en mort (formule que les Brûleurs-de-Bois admettent à voix basse mais que le Concile rejette). En convalescence : c'est-à-dire **abîmées, partiellement présentes, en lente reconstitution dont l'issue n'est pas garantie**. Cette formule est doctrinalement neuve (elle date du Concile de +201). Elle est l'une des positions les plus mûres prises par une religion d'Hybelior sur la question du retrait cosmique. Elle reconnaît la perte sans la nier ; elle reconnaît la possibilité sans la promettre.
 
 C'est précisément cette modestie qui rend la doctrine *coûteuse* à porter. Plusieurs Roteri formés à la nouvelle école finissent par revenir à l'ancienne formule de l'âge d'or, parce qu'elle est plus *consolante*. La roue qui boite est, narrativement, plus difficile à aimer que la roue qui sera réparée.
 
@@ -187,7 +187,7 @@ Née à Telventh (village de Sylthara), Mara entre comme novice à neuf ans, fai
 
 À soixante-trois ans, elle prononce devant le Concile fermé un discours qui circule sous le titre *Les Trois Refus*. Il tient en trois propositions : **(1)** *« Nous ne pouvons plus prêcher l'âge d'or. Nous prêchons à des fidèles qui voient leurs récoltes baisser et leurs morts errer. Continuer de promettre la roue droite, c'est mentir. »* **(2)** *« Nous ne pouvons pas dire que la roue est morte. Elle tourne — nos calendriers le prouvent, nos prédictions le confirment. »* **(3)** *« La seule chose que nous puissions dire est que la roue qui boite est notre roue, et qu'elle ne deviendra pas autre chose. »*
 
-Le Concile met onze ans à intégrer la position. Mara est constamment minoritaire. Elle ne hausse pas le ton. Elle prêche dans sa paroisse, elle rédige, elle calcule. Au Concile de +178, à un mois de sa mort, le tirage au sort renouvelle le siège qu'elle occupait — et la nouvelle Concilière, *Olvane Sept-Mains*, fait passer la formule *« la roue qui boite est notre roue »* dans la doctrine officielle. Mara assiste à la séance. Elle ne parle pas. Elle pose, en sortant, sa main sur le bois du dossier de sa chaise.
+Le Concile met six ans à intégrer la position. Mara est constamment minoritaire. Elle ne hausse pas le ton. Elle prêche dans sa paroisse, elle rédige, elle calcule. Au Concile de +178, à un mois de sa mort, le tirage au sort renouvelle le siège qu'elle occupait — et la nouvelle Concilière, *Olvane Sept-Mains*, fait passer la formule *« la roue qui boite est notre roue »* dans la doctrine officielle. Mara assiste à la séance. Elle ne parle pas. Elle pose, en sortant, sa main sur le bois du dossier de sa chaise.
 
 Mara meurt cinq semaines plus tard, d'une pneumonie qu'elle a refusé de soigner par une décoction qu'elle jugeait *« trop chère pour ce qu'elle vaudra dans dix ans »*. Sa fosse est creusée selon le rite ordinaire. Le poteau de hêtre a pourri en six ans et demi. Sa tombe n'est plus marquée.
 

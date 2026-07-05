@@ -9,7 +9,7 @@ needs_review_for: []
 
 ## Les Origines — « Des Naufragés aux Forgerons du Feu »
 
-Cendara n'est pas née : elle a surgi. L'archipel volcanique émergea des profondeurs de l'océan lors d'une série d'éruptions cataclysmiques qui, selon les chroniques les plus anciennes, durèrent un siècle. Le Mont Cendra, qui domine l'île principale, est le volcan le plus actif et le plus massif de tout Hybelior.
+Cendara n'est pas née : elle est ce qui a survécu. Lors de l'Effondrement Premier, une terre plus vaste s'engloutit ; seuls demeurèrent les sommets, l'archipel actuel — un *reste*, dont le Mont Cendra, qui préexistait à l'océan, forme le pilier. Les chroniques les plus anciennes disent que les éruptions cataclysmiques qui accompagnèrent l'engloutissement et sculptèrent les trois îles durèrent un siècle. Le Mont Cendra, qui domine l'île principale, est le volcan le plus actif et le plus massif de tout Hybelior.
 
 Les premiers habitants furent des naufragés — des marins d'origines diverses dont les navires s'étaient brisés sur les récifs de sable noir. Piégés sur une île hostile, ils apprirent à vivre avec le feu : la chaleur volcanique canalisée en forges naturelles travaillait les métaux à des températures impossibles ailleurs, les cendres rendaient la terre prodigieusement fertile, et les cavernes de lave refroidie offraient des abris indestructibles. De survivants, ils devinrent les **Forgerons du Feu** — un peuple qui ne craint pas les flammes mais les vénère.
 

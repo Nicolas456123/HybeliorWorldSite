@@ -158,7 +158,7 @@ Je naviguai vers Lunasar dans le silence des sept jours de retour, avec les brum
 
 Ce que je sais à présent, posé par écrit avant que la distance n'en atténue la netteté :
 
-Le monde a des passages que l'Arrachement a fermés mais pas supprimés. Ces passages ont des gardiens — les Nysariens, peut-être d'autres que je n'ai pas encore rencontrés. Ces passages ont une séquence d'ouverture que quelqu'un — Navigor, avant de disparaître, ou quelque chose qui agissait en son nom — a codée dans des textes que personne ne sait lire entièrement, dont l'un est gravé sous les mines d'Ordavan et dont un fragment circule en trois langues dans des copies clandestines entre Vytharia et Haldria.
+Le monde a des passages que l'Arrachement a fermés mais pas supprimés. Ces passages ont des gardiens — les Nysariens, peut-être d'autres que je n'ai pas encore rencontrés. Ces passages ont une séquence d'ouverture que quelqu'un — Navigor, avant de disparaître, ou quelque chose qui agissait en son nom — a codée dans des textes que personne ne sait lire entièrement, dont l'un est gravé dans les tunnels de Kharazir et dont un fragment circule en trois langues dans des copies clandestines entre Vytharia et Haldria.
 
 Je ne suis pas le guide dont parle le Message.
 

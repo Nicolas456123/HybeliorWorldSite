@@ -12,7 +12,7 @@ needs_review_for: []
 | | |
 |---|---|
 | **Type** | Continent septentrional glacial |
-| **Climat** | Le plus froid d'Hybélior — aucune saison sans gel (neige possible en été), avec des poches tempérées internes |
+| **Climat** | Le plus froid d'Hybelior — aucune saison sans gel (neige possible en été), avec des poches tempérées internes |
 | **Nations habitées** | 4 (Astravia, Elarian, Ryldor) + les Terres Brisées (No Man's Land) |
 | **Trait commun** | Chaque peuple a une discipline de « lecture » |
 
@@ -28,7 +28,7 @@ Disciplines de lecture par nation :
 
 **Trois axes :**
 - **Arcanistique (centre-ouest)** — chaîne d'Inverna, massifs de Brastallia, hauteurs brumeuses de Lysoria. Riche en aethérite, minerai de cielvif, sources thermales. Cœur d'Astravia.
-- **Glaciaire (nord-est)** — toundras de Tundryst, fjords de Kryostra, plateaux de Veskara, massifs miniers de Gimtar. Climat le plus rude d'Hybélior (hivers de 6 à 8 mois, certaines vallées sans été). Domaine d'Elarian.
+- **Glaciaire (nord-est)** — toundras de Tundryst, fjords de Kryostra, plateaux de Veskara, massifs miniers de Gimtar. Climat le plus rude d'Hybelior (hivers de 6 à 8 mois, certaines vallées sans été). Domaine d'Elarian.
 - **Austère (méridional)** — grande vallée-jardin de Ryldor, isolée par des cols, encadrée de sources chaudes. L'axe le plus tempéré du continent.
 
 Entre les trois axes : les **Terres Brisées**, zone non bornée que les trois nations traitent comme une anomalie cartographique. Sous la toundra (vers Nomiris) gît une cité enfouie « qui a choisi de ne plus s'appeler ».

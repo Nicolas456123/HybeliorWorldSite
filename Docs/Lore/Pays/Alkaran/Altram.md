@@ -197,7 +197,7 @@ Le plus petit village d'Altram (à peine une douzaine de maisons) ; abrite le Sa
 |------|----------|---------|
 | **Torkam** | Tendue mais respectueuse | Les nomades de Torkam lancent parfois des raids, mais un accord commercial ancien maintient une paix fragile. |
 | **Myrtam** | Alliance fraternelle | Les deux royaumes de forge partagent des techniques et s'échangent des maîtres-artisans. Rivalité amicale sur la qualité de l'acier. |
-| **Skaldoria** | Méfiance | Les clans de Skaldoria sont imprévisibles. Altram maintient des garnisons à la frontière nord. |
+| **Skaldoria** | Méfiance | Les clans de Skaldoria sont imprévisibles. Leurs drakkars remontent parfois les eaux glaciales jusqu'aux ports de Yaltar ; Altram y tient des garnisons côtières, prêtes aux incursions venues du large. |
 | **Mosrack** (Onara) | Commerce actif | Les machines de guerre de Mosrack ont besoin du fer d'Altram. Un partenariat lucratif mais sans chaleur. |
 
 ---

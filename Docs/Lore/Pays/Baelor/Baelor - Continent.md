@@ -19,7 +19,7 @@ needs_review_for: []
 | **Trait commun** | Règle du silence, écoute des falaises, art martial du silence |
 
 Faits notables :
-- Continent **mono-national** (anomalie politique à l'échelle d'Hybélior) ; unité présentée par les habitants comme imposée par la géographie et l'écoute, jamais comme un choix ou un exploit.
+- Continent **mono-national** (anomalie politique à l'échelle d'Hybelior) ; unité présentée par les habitants comme imposée par la géographie et l'écoute, jamais comme un choix ou un exploit.
 - Population hors moines et apprentis très réduite : familles de pêcheurs côtiers, tailleurs de pierre des hauteurs centrales, bergers de chèvres rocheuses des collines brumeuses — tous sous la règle du silence à divers degrés.
 - Surnommée **L'Île Fantôme** par les marins étrangers (brouillard argenté quasi permanent) ; **visible seulement au vent du nord-est**.
 
@@ -68,7 +68,7 @@ Note : chaque lecture protège quelque chose (orthodoxe → légitimité de la r
 - **L'écoute comme métier** — postulat que *quelque chose se dit en permanence* que le bruit ordinaire couvre. L'enfant apprend à écouter avant de se taire, et à se taire avant de parler. Attention extraordinairement aiguisée, expression (verbale, émotionnelle, gestuelle) extraordinairement contrainte. Les étrangers jugent les Baeloriens *froids* ; les Baeloriens jugent les voisins *encombrants*.
 - **L'unité par défaut, jamais célébrée** — aucun monument, chant patriotique ni récit de fondation glorieuse. La nation est une faute de bruit pour s'en séparer.
 - **Le geste comme parole** — le **langage gestuel baelorien** (précis, codifié, transmis par les Maîtres de Discipline) est *la langue principale* de l'île ; les Silentii avancés conversent par micro-mouvements du visage et de la main. Les langues parlées sont tenues pour des outils approximatifs tolérés pour les étrangers.
-- **L'enluminure comme seul foisonnement** — la règle interdit chant, théâtre, rhétorique, déclamation (toutes formes bruyantes) mais laisse libre l'**enluminure des journaux**, exutoire créatif de l'île. Manuscrits de Baeloris, Tholmë et Velkadra parmi les plus admirés d'Hybélior ; jamais vendus (parfois offerts à des visiteurs jugés dignes selon des critères jamais formalisés).
+- **L'enluminure comme seul foisonnement** — la règle interdit chant, théâtre, rhétorique, déclamation (toutes formes bruyantes) mais laisse libre l'**enluminure des journaux**, exutoire créatif de l'île. Manuscrits de Baeloris, Tholmë et Velkadra parmi les plus admirés d'Hybelior ; jamais vendus (parfois offerts à des visiteurs jugés dignes selon des critères jamais formalisés).
 - **Le brouillard comme pédagogie** — le **Voile bas** est perçu comme un enseignement (on y voit peu, on y entend mieux, on y avance prudemment). Les novices sont envoyés marcher seuls une journée dans le Voile bas, sans carte ni compagnon ; beaucoup en reviennent changés, quelques-uns n'en reviennent pas (fait traité avec équanimité par les Maîtres).
 - **Bâtir pour ne pas couvrir** — là où d'autres continents bâtissent *au-dessus* de ce qu'ils refusent de regarder (Titans à Galenor, l'Arrachement à Onara, la Polyphonie à Endora), Baelor bâtit *pour ne pas masquer* ce qui est dessous : silence, cellules enfouies dans la roche noire, interdiction de tout son ajouté visent à ne pas couvrir une pulsation que la roche transmet directement.
 

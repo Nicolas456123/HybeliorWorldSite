@@ -84,7 +84,7 @@ Rethyn, qui m'observait, eut quelque chose aux lèvres qui pouvait être satisfa
 
 Je demandai, en galenorien, si le feu du foyer était draconique.
 
-Elle dit : « Braises de Veldrax. » Puis, voyant que le nom ne m'évoquait rien : « Le dragon de la Reine. Les braises s'échangent, à Drakora. Les Liés partagent un peu du souffle de leur dragon avec les maisons du territoire. Un foyer qui brûle avec des braises draconiques dure trois fois plus longtemps qu'un foyer normal et donne une chaleur différente. »
+Elle dit : « Braises de Voldrax. » Puis, voyant que le nom ne m'évoquait rien : « Le dragon de la Reine. Les braises s'échangent, à Drakora. Les Liés partagent un peu du souffle de leur dragon avec les maisons du territoire. Un foyer qui brûle avec des braises draconiques dure trois fois plus longtemps qu'un foyer normal et donne une chaleur différente. »
 
 Je regardai les braises. Je pensai à la vitrification d'Ordavan. Je pensai à la chaleur qui monte de sous la terre. Je me demandai — sans le dire — si la différence entre le feu qui nourrit et le feu qui détruit était une question de source ou de direction.
 
@@ -212,7 +212,7 @@ Le Nid Royal. Et dans le Nid Royal, quelque chose d'or qui se déplaçait.
 
 Je m'arrêtai sur le chemin d'accès et regardai pendant plusieurs secondes. Dhorvan, à côté de moi, ne dit rien. Le jeune Brûlé non plus. Ils avaient l'habitude de cet arrêt — ils l'avaient probablement vu chez tous les étrangers qui arrivaient à Myrthorin pour la première fois.
 
-Veldrax était vieux, je l'apprendrais. La Reine Syraeth était liée à lui depuis quarante ans et il vieillissait avec elle — une usure partagée, une diminution en miroir. Mais depuis le bas du chemin d'accès, à cette distance, dans cette lumière, la silhouette dorée qui se mouvait dans le Nid Royal était encore la chose la plus grande et la plus vivante que j'avais vue dans tous mes trois cent cinquante-cinq jours de voyage. La taille qui empêche la comparaison. La façon de bouger qui redéfinit ce que bouger signifie.
+Voldrax était vieux, je l'apprendrais. La Reine Syraeth était liée à lui depuis quarante ans et il vieillissait avec elle — une usure partagée, une diminution en miroir. Mais depuis le bas du chemin d'accès, à cette distance, dans cette lumière, la silhouette dorée qui se mouvait dans le Nid Royal était encore la chose la plus grande et la plus vivante que j'avais vue dans tous mes trois cent cinquante-cinq jours de voyage. La taille qui empêche la comparaison. La façon de bouger qui redéfinit ce que bouger signifie.
 
 Je pensai à la vitrification d'Ordavan. Je pensai à la chaleur qui monte.
 
@@ -222,7 +222,7 @@ Je ne savais pas encore. Mais j'avais une raison de poser la question ici que je
 
 ---
 
-L'audience avec le représentant du Conseil des Liés — la Reine elle-même était retirée, m'avait-on dit, en raison de l'état de Veldrax — se tint dans une salle à mi-hauteur de la cité, ouverte sur deux côtés, avec le vent qui passait librement et la lumière du soir qui entrait obliquement et faisait des ombres longues sur la pierre noire.
+L'audience avec le représentant du Conseil des Liés — la Reine elle-même était retirée, m'avait-on dit, en raison de l'état de Voldrax — se tint dans une salle à mi-hauteur de la cité, ouverte sur deux côtés, avec le vent qui passait librement et la lumière du soir qui entrait obliquement et faisait des ombres longues sur la pierre noire.
 
 Le représentant était un homme d'une cinquantaine d'années, Lié à un dragon brun que je ne vis pas mais dont je perçus la présence — un son grave, intermittent, qui venait d'un niveau supérieur et qui résonnait dans le sol sous mes pieds avec une régularité qui ressemblait, de façon dérangeante, à la pulsation que j'avais sentie à Ordavan. Je le notai mentalement. J'essayai de ne pas laisser voir que je le notais.
 
@@ -238,7 +238,7 @@ Il écouta sans m'interrompre. À la fin, il dit : « Les Guetteurs de Gryndor o
 
 Je lui demandai si Drakora avait observé des phénomènes similaires.
 
-Il ne répondit pas immédiatement. Il regarda par l'ouverture de la salle vers le Pic de l'Aube, vers le Nid Royal dont la silhouette dorée était encore visible dans la lumière déclinante. Puis il dit, avec une franchise que je n'avais pas anticipée : « Veldrax est agité depuis l'automne. La Reine dit qu'il sent quelque chose dans la montagne. Quelque chose qui l'inquiète. »
+Il ne répondit pas immédiatement. Il regarda par l'ouverture de la salle vers le Pic de l'Aube, vers le Nid Royal dont la silhouette dorée était encore visible dans la lumière déclinante. Puis il dit, avec une franchise que je n'avais pas anticipée : « Voldrax est agité depuis l'automne. La Reine dit qu'il sent quelque chose dans la montagne. Quelque chose qui l'inquiète. »
 
 Il me regarda. « Un vieux dragon qui sent quelque chose dans la montagne et qui le dit à la seule personne à qui il peut le dire — c'est une information, pour nous. Pas une preuve. Une information. »
 

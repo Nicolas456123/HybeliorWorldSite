@@ -11,11 +11,11 @@ needs_review_for: [datations-précises, démographie-fine]
 ## Vue d'ensemble
 
 - **Statut** : seule colonie stable connue de [[Cestra - Continent|Cestra]] (selon les chroniques disponibles). N'est pas une nation ; ne revendique pas Cestra ; se présente comme un point de présence humaine / avant-poste.
-- **Fondation** : vers ~8 100 ap.A, en bordure du Bastion du Nord, sur une bande côtière étroite accostable une partie de l'année.
+- **Fondation** : vers ~9 900 ap.A, en bordure du Bastion du Nord, sur une bande côtière étroite accostable une partie de l'année.
 - **Population** : modeste, quelques centaines d'habitants au total.
 - **Bâti** : pierre côtière (de la Paroi), bois de pin nordique (importé de Skaldoria et d'Alkaran), os de grandes créatures marines (le Grand Os).
 - **Doctrine implicite** (issue des chroniques fondatrices) : « on n'étend pas, on ne ramène pas, on ne convertit pas, on ne sauve pas — on se maintient. »
-- **Perception extérieure** : oscille entre « avant-poste obstiné » et « seule colonie d'Hybélior à avoir compris la durée ».
+- **Perception extérieure** : oscille entre « avant-poste obstiné » et « seule colonie d'Hybelior à avoir compris la durée ».
 
 ---
 
@@ -49,7 +49,7 @@ needs_review_for: [datations-précises, démographie-fine]
 | **Le Foyer-Ferme** | Habitations groupées autour de la cheminée centrale | Treize foyers ; chaque famille a sa pièce |
 | **L'Atelier des Os** | Travail des os de créatures marines | Outils, charpente, ornements ; pas d'objets de prestige |
 | **La Réserve de Cire** | Bougies et lampes pour l'Hivernage | Une lampe par foyer ; pas de surplus |
-| **Le Cabinet d'Archive** | Registres minimaux du Conseil et chemises documentaires | Tenu par Sethiran depuis l'an 218 du Sillage |
+| **Le Cabinet d'Archive** | Registres minimaux du Conseil et chemises documentaires | Tenu par Sethiran depuis l'an 219 du Sillage |
 
 - Aucun bâtiment ne dépasse deux étages.
 - Matériaux : pierre de la Paroi ; bois de pin nordique (Skaldoria, Alkaran) ; os du Grand Os (créature marine qui s'échoue parfois à la pleine marée d'automne).
@@ -77,8 +77,8 @@ needs_review_for: [datations-précises, démographie-fine]
 
 ### Hesgarn la Sage
 
-- Membre de fait dominant du Conseil actuel (mandat 224-231 du Sillage), troisième mandat.
-- Descendante directe de l'une des trois familles fondatrices torkamites.
+- Membre de fait dominant du Conseil actuel (troisième mandat, 227-234 du Sillage).
+- Descendante directe de l'une des trois familles fondatrices skaldoriennes.
 - Fonction non formelle (une des sept Conseillers) ; parole influente (parle généralement en dernier, raisons brèves).
 - Formule de refus récurrente face aux propositions extérieures : « Nous ne pouvons pas accueillir ce que vous proposez. » Invoque la *capacité*, jamais un refus moral.
 - Critiquée par certains jeunes Noviens (nés dans la colonie, ayant vu repartir des navires endorans) qui l'accusent de figer la communauté. Pratique : elle vote parfois *avec* les jeunes — pas systématiquement contre — ce qui a évité que la critique se rigidifie.
@@ -183,4 +183,4 @@ Aucune religion dominante. Composition :
 - **La Chose Sous le Glacier Central** — peu évoquée ; consigne pratique (non doctrinale) : ne pas s'aventurer trop au nord, « on ne va pas voir ».
 - **Accord chamanique** — accord tacite supposé entre certains Chamanes des Brumes et le Conseil : aucune expédition partie de Noravia n'est ciblée par les Gardiens de Givre tant qu'elle reste dans certaines zones. Non confirmé publiquement par le Conseil ni les chamanes.
 - **Lettre conservée par Borela** — connue de quelques anciens du Conseil, jamais répertoriée officiellement ; Borela a refusé tout archivage. Transmise à son destinataire en l'an 231 du Sillage, sans annonce. Voir arc Sorin ch. 37.
-- **Registre de Maintien et ses oublis** — décisions consignées brièvement ; certaines pages présentent des espaces blancs (décisions jamais inscrites) ; plusieurs feuillets des années 180-190 ont été arrachés. Personne ne demande pourquoi.
+- **Registre de Maintien et ses oublis** — décisions consignées brièvement ; certaines pages présentent des espaces blancs (décisions jamais inscrites) ; plusieurs feuillets des années 180-187 ont été arrachés. Personne ne demande pourquoi.

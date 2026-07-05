@@ -136,7 +136,7 @@ needs_review_for: [scission-V4, souffles-passés-Q-LC-003, cohérence-aval-Era-7
 
 **Figures marquantes**
 - **Pretre-Roi Azmath des Etats Haldrins** — tente le compromis trop tard ; exil et mort en territoire iltharin
-- **Ursula la Voilee** — prophetesse Noctari de Sanvara ; refuse tout compromis de 15 ans ; son integrite devient la fondation morale de ce qui deviendra Avalor
+- **Ursula la Voilee** — prophetesse Noctari de Sanvara ; refuse tout compromis de 15 ans ; son integrite devient la fondation morale de ce qui deviendra Sanvara
 - **Davan III (representant de Caverana)** — mediateur interesse ; sa principaute obtient un territoire cotier en "dedommagement diplomatique"
 
 **Consequences durables**
@@ -203,11 +203,11 @@ needs_review_for: [scission-V4, souffles-passés-Q-LC-003, cohérence-aval-Era-7
 **Consequences durables**
 - Lumasar devient le seul regime republicain formel du monde — modele unique, admire et craint
 - Le *Code de Lumasar* devient une reference juridique citee dans les chartes municipales et les protocoles commerciaux d'une quarantaine d'entites, sans jamais devenir un texte commun : chaque nation qui s'en inspire l'adapte a ses propres institutions, parfois en n'en retenant que quelques articles. Aucune juridiction supranationale ne le rend opposable.
-- Les grandes familles en exil fondent une chambre clandestine ; les chroniques tardives lui pretent une parente avec le mouvement Catena Fracta des siecles suivants, lecture que d'autres historiens contestent comme reconstitution retrospective
+- Les grandes familles en exil fondent une chambre clandestine ; les chroniques tardives lui pretent une parente avec la mouvance qui prendra plus tard le nom de Catena Fracta, lecture que d'autres historiens contestent comme reconstitution retrospective
 
 **Le Fragment Zero et les archives d'Altram**
 
-Le Fragment Zero — le parchemin original attribue a l'Etudiant, dont les redactions intactes contiennent une sequence rituelle que plusieurs lectures associent a l'evenement nomme l'Arrachement — demeure aux archives royales de l'entite qui controlait alors Alkaran sous triple scelle. Aucune lecture ne fait consensus : pour certains exegetes, le texte decrit la cause directe de l'Arrachement ; pour d'autres, il documente une simple correspondance que l'evenement aurait revelee, sans la causer ; pour d'autres encore, il s'agit d'une reconstitution posterieure. Sa conservation est l'une des rares decisions consensuelles entre les entites issues de Tharnok : personne ne veut le detruire (trop precieux historiquement), personne ne veut l'etudier ouvertement (trop dangereusement sedieux quelles que soient les lectures). Plusieurs tentatives de vol sont documentees pendant l'Ere des Nations, dont celle attribuee a la Catena Fracta (~5 800 ap.A), qui echoue mais revele l'existence de l'organisation au grand public pour la premiere fois. L'echec de cette tentative — et la publicite involontaire qu'elle genere — amene les gardiens a renforcer le protocole de securite des archives : le Fragment Zero est desormais garde par une rotation de trois familles de gardiens dont les identites ne sont jamais rendues publiques simultanement. Lorsque Altram sera fondee (~9 100), elle en herite formellement.
+Le Fragment Zero — le parchemin original attribue a l'Etudiant, dont les redactions intactes contiennent une sequence rituelle que plusieurs lectures associent a l'evenement nomme l'Arrachement — demeure aux archives royales de l'entite qui controlait alors Alkaran sous triple scelle. Aucune lecture ne fait consensus : pour certains exegetes, le texte decrit la cause directe de l'Arrachement ; pour d'autres, il documente une simple correspondance que l'evenement aurait revelee, sans la causer ; pour d'autres encore, il s'agit d'une reconstitution posterieure. Sa conservation est l'une des rares decisions consensuelles entre les entites issues de Tharnok : personne ne veut le detruire (trop precieux historiquement), personne ne veut l'etudier ouvertement (trop dangereusement sedieux quelles que soient les lectures). Plusieurs tentatives de vol sont documentees pendant l'Ere des Nations, dont celle de ~5 800 ap.A, qui echoue et que les chroniques tardives rattachent retrospectivement au reseau clandestin qui adoptera bien plus tard le nom de Catena Fracta (le nom lui-meme n'apparait dans les archives qu'a partir de ~9 750 ap.A) ; c'est l'une des plus anciennes traces documentees attribuees a cette mouvance. L'echec de cette tentative — et la publicite involontaire qu'elle genere — amene les gardiens a renforcer le protocole de securite des archives : le Fragment Zero est desormais garde par une rotation de trois familles de gardiens dont les identites ne sont jamais rendues publiques simultanement. Lorsque Altram sera fondee (~9 100), elle en herite formellement.
 
 **Consequences culturelles**
 - La Révolution des Plumes engendre une explosion culturelle sans précédent à Lumasar : libérés du patronage des grandes familles, les artisans deviennent des créateurs autonomes. L'artisanat de Lumasar — céramique, broderies dites "plumes de couleur", reliures ouvragées — commence à s'exporter dans tout le monde connu
@@ -239,6 +239,7 @@ Le Fragment Zero — le parchemin original attribue a l'Etudiant, dont les redac
 - Le traite de non-agression centenaire entre le Protectorat des Passes et les Marches de Khorrath definira les bases des frontieres que le futur Altram et la future Drakora heriteront
 - "Tenir comme la Porte de Fer" est une expression courante dans tout le monde connu
 - Le Khaghanat de Gryndhaal, deux fois humilie, se replie dans un nationalisme religieux encore plus rigide qui durera jusqu'a sa transformation en Gryndor
+- L'evenement deviendra un modele que d'autres nations rejoueront sciemment. Plus d'un millenaire plus tard, la reine Yrelda la Forgee donnera le meme nom — "Porte de Fer" — au defile qu'elle defend en Iskara, et fera reprendre la meme gravure sur le fer, geste revendique comme echo et non comme coincidence. Le nom se transmet ainsi non par filiation dynastique mais par commemoration : chaque garnison qui tient un defile impossible se reclame de la premiere Porte
 
 **Consequences culturelles**
 - La Défense de la Porte de Fer transforme l'identité culturelle du Protectorat des Passes, transmise au futur Altram : la forge, autrefois métier technique, devient acte héroïque. Le forgeron-soldat d'Aldren IV incarne une nouvelle noblesse : celle du travail défensif plutôt que conquérant. Les épopées de forge prolifèrent à partir de ~8 900 ap.A
@@ -257,7 +258,7 @@ L'Ère des Nations n'est pas qu'une succession de guerres. Entre les conflits, d
 **Première expansion (~3 200 → ~4 700 ap.A)**
 - Dans le sillage de la Convention de Gryndor (~2 950 ap.A), les trois royaumes intermédiaires — Tharnok, Forgon, Drahk'Nor — établissent des échanges réguliers
 - Le sel d'Azoria, le bois d'Evertia, le métal d'Alkaran et le grain de Galenor forment le premier triangle commercial stable de l'ère post-Arrachement
-- Population mondiale estimée : ~8 millions en 3 000 ap.A, ~18 millions en 4 700 ap.A — doublement en 1 500 ans grâce à la stabilité relative
+- Population mondiale estimée : ~18 millions en 3 000 ap.A, ~30 millions en 4 700 ap.A — près du doublement en 1 700 ans grâce à la stabilité relative, la population retrouvant peu à peu son niveau d'avant le Fléau des Failles
 - Les monnaies de cette période sont essentiellement des lingots de métal pesé ; aucune monnaie frappée avant ~4 200 ap.A (les entites d'Alkaran frappent les premières pièces standardisées)
 - **Écho de la Convention de Gryndor — la question des Tissés renaissants** : la Convention de Gryndor (~2 950 ap.A) avait codifié un premier cadre de coexistence entre nations, mais avait laissé en suspens le statut des "Tissés renaissants" — ces individus manifestant à nouveau un Lien actif là où, dans la lecture dominante de l'Arrachement, on attendait son extinction durable. Dès ~3 200 ap.A, leur nombre croissant crée une tension structurelle : les nations comme Drahk'Nor et Tharnok les intègrent prudemment dans leurs structures militaires ou administratives, mais leur exclusion des conseils politiques formels est la norme. Cette marginalisation institutionnelle des Tissés, perçue comme une menace latente par les élites non-Liées, alimente une frustration sourde qui contribuera, des siècles plus tard, aux fractures internes de ces empires — dont la Guerre du Panghor Brisé est en partie l'héritière (selon les chroniques de Gryndhaal, les Liés de la province centrale d'Ilthara manifestaient une intensite de Lien superieure a celle de la capitale, et alimentent les forces rebelles qui donnent naissance au Voivodat de Gryndhaar).
 
@@ -390,7 +391,7 @@ L'Ère des Nations voit émerger des identités locales profondes, où la vie de
 
 *Lumasar (après la Révolution)* — La ville franche est la plus densément peuplée de l'Ère VI : 200 000 habitants au pic. Les "maisons communes" de guilde sont le cœur de la vie sociale — on y mange, débat, vote sur les règlements de quartier. La presse à imprimer (inventée vers ~7 200 ap.A à Lumasar) diffuse des bulletins quotidiens de prix de marché. Les Liés et Déliés sont formellement égaux ; un Délié peut être Consul.
 
-*Cite-Etat du Carrefour (ancetre de Kharazir)* — Port dominant, atmosphère de commerce intense. Les marchés travaillent 18 heures sur 24, organisés par "quarts" comme les navires. La langue quotidienne est un mélange de galenthien et de dialectes maritimes — une Voix de l'Ordre des Voix peut parfois avoir du mal à suivre une négociation entre capitaines. Les Déliés portent le tissu jaune dès ~5 300 ap.A (règle établie, volontaire à l'origine).
+*Cite-Etat du Carrefour (ancetre de Kharazir)* — Port dominant, atmosphère de commerce intense. Les marchés travaillent 18 heures sur 24, organisés par "quarts" comme les navires. La langue quotidienne est un mélange de galenthien et de dialectes maritimes — une Voix de l'Ordre des Voix peut parfois avoir du mal à suivre une négociation entre capitaines. Les Déliés y sont déjà socialement marginalisés (exclus des quarts de commandement), mais l'usage codifié du tissu jaune n'apparaîtra que plus tard, avec la fondation de Kharazir (~9 100 ap.A).
 
 **Dans les entites d'Alkaran (~8 000 ap.A en exemple)**
 
@@ -499,7 +500,7 @@ Parmi les cas documentés les plus enigmatiques de l'Ere VI figure l'expedition 
 | Civilisation | Dates | Territoire | Cause de chute |
 |---|---|---|---|
 | Kelthavar (Confed. des Hauteurs) | ~700 → ~2 200 | Passes de montagne | Schisme economique interne |
-| Confed. de Galenthis-Centre | ~2 800 → ~4 200 | Plaines centrales | Guerre dynastique (Cycle Brise) |
+| Confed. de Galenthis-Centre | ~2 800 → ~5 230 | Plaines centrales | Guerre dynastique (Guerre des Trois Couronnes, Cycle Brise) |
 | Hegem. de Solkethis | ~4 200 → ~5 800 | Sud et est | Schisme intellectuel + secession marchande |
 | Ligue Equestre de Galenor | ~4 300 → ~6 800 | Plaines ouest | Secession des Cavaliers Libres |
 | Principaute de Caverana | ~2 500 → ~6 400 | Montagnes sud-est | Catastrophe religieuse (Incendie Sacre) |
@@ -513,8 +514,8 @@ Parmi les cas documentés les plus enigmatiques de l'Ere VI figure l'expedition 
 |---|---|---|---|
 | Triumvirats de Khorrath | ~4 800 → ~5 400 | Centre-nord | Guerre civile interne |
 | Voivodat de Gryndhaar | ~5 200 → ~6 600 | Nord montagneux | Conquete par le Drakhal |
-| Drakhal (Empire des Cendres) | ~5 800 → ~7 100 | Centre et sud | Eruption volcanique + declin |
-| Cites-Etats de Pyrathis | ~7 050 → ~8 200 | Sud (futur Pyrtara) | Absorption par Pyrannex |
+| Drakhal (Empire des Cendres) | ~5 800 → ~7 210 | Centre et sud | Eruption volcanique + declin (survit diminue jusqu'a la Guerre de l'Ombre) |
+| Cites-Etats de Pyrathis | ~7 210 → ~8 200 | Sud (futur Pyrtara) | Absorption par Pyrannex |
 | Hegemonie de Pyrannex | ~8 200 → ~9 300 | Tout le sud | Coup mercenaire + guerre civile |
 | Marches de Khorrath | ~7 100 → ~9 000 | Centre (zone chaotique) | Absorption par proto-Drakora |
 | Khaghanat de Gryndhaal | ~6 600 → ~9 200 | Nord profond | Transformation → Gryndor |
@@ -528,7 +529,7 @@ Parmi les cas documentés les plus enigmatiques de l'Ere VI figure l'expedition 
 | Etats Haldrins | ~6 000 → ~7 200 | Nord et centre | Conquete par Kalvorn |
 | Empire Kalvorn | ~7 100 → ~8 300 | Tout Endora | Decennie Rouge (3 assassinats) |
 | Protectorat d'Haldros | ~8 200 → ~9 200 | Nord-centre | Transformation → Haldria |
-| Confed. Tacite du Sud | ~8 300 → ~9 500 | Sud-ouest | Second Schisme → Avalor + Sanvara |
+| Confed. Tacite du Sud | ~6 544 → ~9 500 | Sud-ouest | Second Schisme → Avalor + Sanvara |
 
 ### ALKARAN — 5 civilisations disparues
 
@@ -625,19 +626,19 @@ Parmi les cas documentés les plus enigmatiques de l'Ere VI figure l'expedition 
 
 | Civilisation | Dates | Continents | Pop. apogee | Cause de chute |
 |---|---|---|---|---|
-| Thalassarchie de Vorn-Akketh | ~3 400 → ~5 100 | 4 cotiers | 80M | Secheresse + guerre civile |
-| Confed. d'Asha-Khal | ~4 600 → ~6 800 | 3 centraux | 120M | Schisme religieux |
-| Empire Verath-Sol | ~5 500 → ~7 200 | 2 + vassaux | 95M | Consanguinite + fragmentation |
-| Ligue Dhur-Enmak | ~6 100 → ~7 800 | 3 carrefours | 60M | Concurrence + guerre |
-| Alliance Keth-Vraag | ~7 000 → ~8 400 | 2 nord | 70M | Fin de la menace + coup |
-| Fed. Mireth-Alun | ~7 500 → ~9 000 | 4 (dispersee) | 15M | Annexion + schisme interne |
-| Union Rhemak-Velonn | ~8 200 → ~9 200 | 3 centraux | 110M | Crise des Cent Heritiers |
+| Thalassarchie de Vorn-Akketh | ~3 400 → ~5 100 | 4 cotiers | 7M | Secheresse + guerre civile |
+| Confed. d'Asha-Khal | ~4 600 → ~6 800 | 3 centraux | 12M | Schisme religieux |
+| Empire Verath-Sol | ~5 500 → ~7 200 | 2 + vassaux | 8M | Consanguinite + fragmentation |
+| Ligue Dhur-Enmak | ~6 100 → ~7 800 | 3 carrefours | 4M | Concurrence + guerre |
+| Alliance Keth-Vraag | ~7 000 → ~8 400 | 2 nord | 5M | Fin de la menace + coup |
+| Fed. Mireth-Alun | ~7 500 → ~9 000 | 4 (dispersee) | 3M | Annexion + schisme interne |
+| Union Rhemak-Velonn | ~8 200 → ~9 200 | 3 centraux | 11M | Crise des Cent Heritiers |
 
 ---
 
 ### Naissance des Nations Actuelles — Tableau Complet
 
-> À la fin de l'Ère VI (~9 500 ap.A), le paysage politique d'Hybelior se compose d'une **mosaïque de nations souveraines** liées entre elles par des relations bilatérales et des pactes régionaux ad-hoc — jamais par un instrument supranational unique. Plusieurs initiatives diplomatiques de cadre commun ont été tentées (notamment depuis Lumasar et Caeloria) au cours du dernier siècle de l'Ère, et toutes ont échoué : aucun continent n'accepte de céder sa souveraineté, et les grandes puissances militaires (Drakora, Pyrtara, Khaghanat de Gryndhaal) refusent par principe toute contrainte externe. Le tableau ci-dessous couvre 38 nations actuelles — celles qui ont une **continuité institutionnelle reconnue jusqu'au présent** — avec leurs dates de fondation et leurs prédécesseurs directs. Plusieurs entités existantes à l'époque n'y figurent pas (cités-tribus d'Ulinor intérieur, principautés cendariennes intransigeantes, communautés des wildlands transcontinentaux), faute de continuité institutionnelle ou d'enregistrement par les chancelleries.
+> À la fin de l'Ère VI (~9 500 ap.A), le paysage politique d'Hybelior se compose d'une **mosaïque de nations souveraines** liées entre elles par des relations bilatérales et des pactes régionaux ad-hoc — jamais par un instrument supranational unique. Plusieurs initiatives diplomatiques de cadre commun ont été tentées (notamment depuis Lumasar et Caeloria) au cours du dernier siècle de l'Ère, et toutes ont échoué : aucun continent n'accepte de céder sa souveraineté, et les grandes puissances militaires (Drakora, Pyrtara, Khaghanat de Gryndhaal) refusent par principe toute contrainte externe. Le tableau ci-dessous couvre les 36 nations actuelles — celles qui ont une **continuité institutionnelle reconnue jusqu'au présent** — auxquelles s'ajoutent, pour mémoire, les deux provinces de Vytharia (Mirathi et Lunasar), listées ici du fait de leur fondation distincte mais non comptées comme nations souveraines — avec leurs dates de fondation et leurs prédécesseurs directs. Plusieurs entités existantes à l'époque n'y figurent pas (cités-tribus d'Ulinor intérieur, principautés cendariennes intransigeantes, communautés des wildlands transcontinentaux), faute de continuité institutionnelle ou d'enregistrement par les chancelleries.
 
 > [!note] Wildlands hors-tableau
 > Pour chaque nation listée, le territoire effectivement gouverné représente une fraction du continent — typiquement 20 à 50% selon les régions, parfois moins (Noravia : <5% de Cestra). Le complément est constitué de wildlands non-souverains : ruines tabou, Failles résiduelles, massifs hostiles, terres rendues à la nature après l'effondrement d'une civilisation intermédiaire, ou simplement zones que personne ne juge rentable de tenir.
@@ -689,7 +690,7 @@ Parmi les cas documentés les plus enigmatiques de l'Ere VI figure l'expedition 
 
 > Au cours de l'Ere VI, trois objets de savoir different changent de statut : ils passent de rumeur erudite a piece d'archive partiellement reconnue. Aucun ne s'explique completement ; chacun structure une partie du paysage que l'Ere VII heritera.
 
-**Fragment Zero** *(deja documente en section Revolution des Plumes ci-dessus)* — exhume des fouilles dans les ruines pre-Lien attribuees aux Empires de l'Ere III a, conserve depuis dans les archives royales successives d'Alkaran, atteint sa **visibilite publique** lors de la tentative de vol de ~5 800 ap.A attribuee a la Catena Fracta. Apres cette publicite involontaire, plusieurs ecoles d'erudits commencent a formuler des hypotheses concurrentes sur sa nature, sans qu'aucune lecture ne fasse consensus. C'est sa **decouverte sociale** au sens public, et non sa decouverte materielle, qui appartient a l'Ere VI.
+**Fragment Zero** *(deja documente en section Revolution des Plumes ci-dessus)* — exhume des fouilles dans les ruines pre-Lien attribuees aux Empires de l'Ere III a, conserve depuis dans les archives royales successives d'Alkaran, atteint sa **visibilite publique** lors de la tentative de vol de ~5 800 ap.A, plus tard rattachee au reseau qui deviendra la Catena Fracta. Apres cette publicite involontaire, plusieurs ecoles d'erudits commencent a formuler des hypotheses concurrentes sur sa nature, sans qu'aucune lecture ne fasse consensus. C'est sa **decouverte sociale** au sens public, et non sa decouverte materielle, qui appartient a l'Ere VI.
 
 **La Carte du Silence** — il ne s'agit pas d'un objet unique mais d'une **tradition cartographique** qui se developpe lentement entre ~6 500 et ~9 000 ap.A, principalement dans les ecoles de Baelor et chez certains erudits voyageurs de Celethor. Le principe : cartographier non ce que l'on voit, mais ce que l'on n'entend plus — les zones où les Voies cessent de repondre, où les Liens residuels se taisent, où certains rituels echouent sans cause apparente. Plusieurs lectures coexistent : pour les Cartographes de Baelor, c'est un outil pratique pour eviter les Failles residuelles et les wildlands instables ; pour certains pretres Vael'Kurash, c'est une **carte des absences cosmiques** qui ne devrait pas exister ; pour les Catena Fracta, c'est la preuve que la "prison consentie" a des fissures observables. Les premieres Cartes du Silence dignes de ce nom sont attestees vers ~7 200 ap.A ; la pratique se codifie au cours du dernier siecle de l'Ere VI. Tracer une Carte du Silence est repute dangereux — plusieurs cartographes documentes meurent ou disparaissent avant de l'achever, donnant a la pratique sa reputation mortelle.
 

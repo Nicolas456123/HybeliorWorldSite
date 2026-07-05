@@ -16,7 +16,7 @@ needs_review_for: []
 | **Religion principale** | Ignis Aeternum (lecture arkhenienne — *cendre*) ; Délies de la Flamme tolérés à demi-mot |
 | **Religion secondaire** | Vael'Kurash (sur Ilnara, syncrétisme avec l'Ignis local) ; Foedus Animae (présence ancienne, post-Arrachement, dans deux ports d'Aïkhar) |
 | **Culture dominante** | Forge silencieuse, pêche au long cours, cendre comme matière, économie de l'humilité |
-| **Histoire marquante** | La Filiation de Cendre (lente arrivée d'exilés ignitariens, sur huit siècles, formant la population actuelle) |
+| **Histoire marquante** | La Filiation de Cendre (lente arrivée d'exilés ignitariens, sur un siècle et demi, formant la population actuelle) |
 | **Ressources clés** | Cendre triée et bonifiée (la **stephe**), poissons fumés naturellement, plumes et résines d'Ilnara, navires de petit tonnage, bois ignifuge transporté |
 
 ---
@@ -74,7 +74,7 @@ needs_review_for: []
 ### Foedus Animae, les deux ports
 - Deux ports d'Aïkhar (**Vorsalt** et **Tess-Volange**) ont, depuis l'Arrachement, des **autels familiaux** post-Foedus Animae.
 - Les Tisseurs de Chaînes y sont arrivés au IVe siècle de l'Ère IV par bateau, fuyant l'effondrement de leurs sanctuaires continentaux ; accueillis sans débat.
-- Survivance : trois familles tisseuses à Vorsalt, deux à Tess-Volange. Rite privé, intra-familial, confiné. Aucun prosélytisme.
+- Survivance : à Vorsalt, une seule lignée tisseuse pratique encore, réduite à son dernier praticien en activité (le rite s'y éteindra avec lui) ; deux familles à Tess-Volange. Rite privé, intra-familial, confiné. Aucun prosélytisme.
 
 ---
 
@@ -130,7 +130,7 @@ Capitale confédérale, plus grand Tesson (île ronde de quelques lieues), port 
 - Particularités : Halle des Voiles (Assemblée des Quais), Atelier de Khessa (préservé, pèlerinage Délie informel), Cimetière de Bois Flotté.
 
 ### Cendrelis — Ville portuaire (Aïkhar nord)
-Deuxième port d'Arkhen, sur la côte nord d'Aïkhar. Plus récente que Khoram (an Sillage 290), fondée officiellement par sept forgerons en disgrâce de Pyrevane (querelle de procession ratée à Cinderhold), arrivés à pied et en barque sur dix-huit mois. Port le plus forgeron des ports arkheniens (quatre forges actives, marché aux outils renommé, forte réputation technique). Seul port arkhenien où l'on peut commander une lame *officiellement orthodoxe* avec Sceau valide (forgerons-Sceau environ deux pour un Délie).
+Deuxième port d'Arkhen, sur la côte nord d'Aïkhar. Plus récente que Khoram (an Sillage 190), fondée officiellement par sept forgerons en disgrâce de Pyrevane (querelle de procession ratée à Cinderhold), arrivés à pied et en barque sur dix-huit mois. Port le plus forgeron des ports arkheniens (quatre forges actives, marché aux outils renommé, forte réputation technique). Seul port arkhenien où l'on peut commander une lame *officiellement orthodoxe* avec Sceau valide (forgerons-Sceau environ deux pour un Délie).
 - Population : Ville (environ 3 000)
 - Région : Aïkhar nord
 - Particularités : Marché aux outils, Forge-Temple mineure (officielle), trois ateliers Délies discrets.
@@ -142,7 +142,7 @@ Port de pêche au long cours sur une côte de falaises rouges. Arme les plus gra
 - Particularités : Flotte de pêche au long cours, atelier syncrétique de Vael'Kurash mineur.
 
 ### Vorsalt — Ville portuaire (Aïkhar nord-est)
-Port modeste (deux quais, une auberge). Fondation incertaine, antérieure au Sillage. Connue pour ses **autels familiaux** Foedus Animae : trois familles tisseuses survivantes y pratiquent les rites des Tisseurs de Chaînes dans la stricte intimité, sans prosélytisme (Tisseurs arrivés au IVe siècle de l'Ère IV par bateau, fuyant l'effondrement de leur sanctuaire continental, accueillis sans débat). Les autels se ferment à l'arrivée d'un visiteur.
+Port modeste (deux quais, une auberge). Fondation incertaine, antérieure au Sillage. Connue pour ses **autels familiaux** Foedus Animae : le dernier Tisseur de Chaînes en activité du port y maintient encore le rite dans la stricte intimité, sans prosélytisme — la lignée tisseuse s'éteindra avec lui (Tisseurs arrivés au IVe siècle de l'Ère IV par bateau, fuyant l'effondrement de leur sanctuaire continental, accueillis sans débat). Les autels se ferment à l'arrivée d'un visiteur.
 - Population : Ville (environ 1 800)
 - Région : Aïkhar nord-est
 - Particularités : Trois familles Foedus Animae, autels familiaux discrets.
@@ -172,13 +172,13 @@ Hameau de bergers de cendre sur un haut plateau au centre d'Aïkhar. Exploite la
 - Particularités : Production de stephe, élevage de chèvres-de-cendre, Vael'Kurash mineur.
 
 ### Caldegris — Hameau de la Caldera Grise (Aïkhar sud)
-Hameau au pied de la Caldera Grise, volcan dormant depuis l'Arrachement (fume sans entrer en éruption depuis deux mille ans). Une dizaine de familles exploitent les sources chaudes pour le lavage de la laine et la cuisson du pain noir. Fondé après l'Arrachement par des survivants d'un village d'altitude détruit par une coulée latérale, installés au pied de la caldera dormante par calcul (*« si elle a tenu deux mille ans, elle tiendra autant »*).
+Hameau au pied de la Caldera Grise, volcan dormant depuis l'Arrachement (fume sans entrer en éruption depuis deux cent cinquante ans). Une dizaine de familles exploitent les sources chaudes pour le lavage de la laine et la cuisson du pain noir. Fondé après l'Arrachement par des survivants d'un village d'altitude détruit par une coulée latérale, installés au pied de la caldera dormante par calcul (*« si elle a tenu deux cents ans, elle tiendra autant »*).
 - Population : Hameau (environ 80)
 - Région : Aïkhar sud
 - Particularités : Sources chaudes, lavoirs collectifs, cuisson au géothermique.
 
 ### Suie-Basse — Village portuaire (Aïkhar sud-ouest)
-Petit port-écho à Suie-Haute (Pyrevane), sur la côte arkhenienne du Détroit de Suie. Mouillage technique (refuge pour les navires en transit ne pouvant franchir le Détroit en une journée). Apparu progressivement au Sillage moyen, à mesure que le trafic Suie-Haute augmentait (pas de fondation datée). Population faible, presque entièrement masculine (gardiens de mouillage, arrimeurs) ; vingt-trois habitants permanents liés par mariages croisés depuis trois siècles. Auberge tenue par une famille depuis sept générations.
+Petit port-écho à Suie-Haute (Pyrevane), sur la côte arkhenienne du Détroit de Suie. Mouillage technique (refuge pour les navires en transit ne pouvant franchir le Détroit en une journée). Vieux mouillage de fortune, fixé en hameau permanent au premier Sillage (auberge tenue depuis l'an 100 environ) ; il n'a pris son essor qu'ensuite, à mesure que le trafic de Suie-Haute augmentait. Population faible, presque entièrement masculine (gardiens de mouillage, arrimeurs) ; vingt-trois habitants permanents liés par mariages croisés depuis un siècle et demi. Auberge tenue par une famille depuis sept générations.
 - Population : Village (environ 40)
 - Région : Aïkhar sud-ouest
 - Particularités : Mouillage technique, auberge familiale, point de fuite vers Pyrevane (et inverse).
@@ -204,7 +204,7 @@ Petit port-écho à Suie-Haute (Pyrevane), sur la côte arkhenienne du Détroit 
 
 - **Copie partielle du *Discours de la Cendre Patiente*** : conservée à Khoram dans une malle de marin, transmise en ligne directe depuis un apprenti de Tessar Veynd ayant fui Pyrevane en l'an 138 (immédiatement après la mort de son Maître). Lacunaire (cinq passages sur sept) mais lisible. Copie la plus ancienne attestée au monde.
 
-- **Réseau de transmission Cendrelis-Khoram-Mosrack** : chaîne de balayeurs et de marins reliant ces trois villes, transmettant (paroles et cendres) des informations entre Délies et sympathisants pyrevaniens. Maillon central : **Vorlan Tessen**, capitaine de Khoram dont les voyages réguliers Cendrelis–Suie-Haute couvrent des rencontres à Mosrack avec des forgerons sympathisants. Jamais documenté ; sa découverte par Cinderhold condamnerait vingt à trente personnes.
+- **Réseau de transmission Cendrelis-Khoram-Vorrask** : chaîne de balayeurs et de marins reliant ces trois villes, transmettant (paroles et cendres) des informations entre Délies et sympathisants pyrevaniens. Maillon central : **Vorlan Tessen**, capitaine de Khoram dont les voyages réguliers Cendrelis–Suie-Haute couvrent des rencontres à Vorrask avec des forgerons sympathisants. Jamais documenté ; sa découverte par Cinderhold condamnerait vingt à trente personnes.
 
 - **Bergers de Stephar et la pulsation** : les Anciens de Stephar affirment depuis trois générations *« sentir »* la pulsation du Mont Cendra à travers le sol, au point de rythmer des gestes domestiques (battre le beurre, chanter une berceuse) dessus. Aucun Vigilant pyrevanien n'est venu vérifier. Si avéré, leur sensation correspondrait à une *pulsation modifiée par la distance et la traversée du Détroit* (partiellement déphasée) — donnée théologiquement précieuse, jamais signalée par eux (ils ne pensent pas qu'elle intéresse quiconque).
 

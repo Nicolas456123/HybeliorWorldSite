@@ -13,7 +13,7 @@ Avant l'unification, le territoire de Sanvara était une mosaïque de relais ind
 
 Vers l'an ~6 800 ap.A, sept caravansérails majeurs se réunirent à un croisement neutre — un puits sec aujourd'hui appelé le **Trône Vide** — et y signèrent la **Charte des Sept Routes**. Elle établissait quatre engagements : la libre circulation des caravanes contractuelles entre signataires ; un protocole d'arbitrage des litiges (premier embryon des Arbitres des Routes) ; une défense mutuelle en cas d'agression d'un signataire ; et le partage des relevés de routes et des cartes commerciales. Les chroniqueurs sanvariens la jugent **moins idéaliste qu'utilitaire** — chaque signataire avait calculé qu'il gagnait plus à coopérer qu'à se battre, et c'est la durabilité de ce calcul partagé qui fonde l'identité politique de Sanvara.
 
-Au fil des siècles, d'autres caravansérails rejoignirent la Charte, plusieurs fois amendée. La Confédération compte aujourd'hui vingt-trois caravansérails majeurs et plusieurs dizaines de relais affiliés sans droit de vote. Le système n'a aucune institution durable, mais il persiste depuis plus d'un millénaire — un *stable instable* dont les Sanvariens font une vertu.
+Au fil des siècles, d'autres caravansérails rejoignirent la Charte, plusieurs fois amendée. La Confédération compte aujourd'hui vingt-sept caravansérails majeurs et plusieurs dizaines de relais affiliés sans droit de vote. Le système n'a aucune institution durable, mais il persiste depuis plus d'un millénaire — un *stable instable* dont les Sanvariens font une vertu.
 
 ---
 
@@ -25,7 +25,7 @@ Andival naquit à Khessit en l'an 161, dans une famille de Lecteurs de Saison va
 
 Pendant dix ans, Andival voyagea les caravansérails de Sanvara comme tous les apprentis. Il observa les disputes, prit des notes, accompagna les Arbitres en exercice. Il revint à Ket-Anvel en l'an 190 pour la confrontation rituelle de ses notes avec le Registre. Il fut admis Arbitre des Routes en cinquième promotion de la décennie — admission ordinaire.
 
-Pendant trente-cinq ans, Andival arbitra. On remarqua vite quelque chose chez lui. Là où ses collègues, devant une dispute, appliquaient la procédure de renvoi (*« cette dispute relève des autorités religieuses, retournez-y »*, *« cette dispute relève des comptes, qu'on les vérifie »*, *« cette dispute relève de la Charte, voici l'article applicable »*), Andival écoutait. Longtemps. Trois séances n'étaient pas rares. Cinq n'étonnaient personne.
+Pendant trente-trois ans, Andival arbitra. On remarqua vite quelque chose chez lui. Là où ses collègues, devant une dispute, appliquaient la procédure de renvoi (*« cette dispute relève des autorités religieuses, retournez-y »*, *« cette dispute relève des comptes, qu'on les vérifie »*, *« cette dispute relève de la Charte, voici l'article applicable »*), Andival écoutait. Longtemps. Trois séances n'étaient pas rares. Cinq n'étonnaient personne.
 
 À la fin, il ne renvoyait pas. Il ne tranchait pas non plus. Il prononçait une phrase que les chroniques de Ket-Anvel ont consignée comme *« la formule d'Andival »* : *« Je ne tranche pas ; je vous ai entendus tous deux. »*
 
@@ -45,7 +45,7 @@ Il quitta la salle.
 
 Le Conseil ajourna. La séance suivante, deux semaines plus tard, ne reprit pas la question d'Andival. Elle reprit la discussion sur l'expédition, qui fut *différée*. Elle fut différée à la session suivante. Puis à la suivante. L'expédition n'a, à ce jour, été ni décidée ni rejetée. Elle est toujours différée.
 
-Andival reprit ses tournées. Il arbitra encore quelques années, puis demanda son retrait à soixante-cinq ans. Il revint vivre à Khessit, dans la maison familiale. Il continua de répondre par courrier aux questions que des Arbitres en exercice lui posaient en privé. Sa correspondance, conservée par sa nièce, montre une attention soutenue aux disputes de la dernière décennie de sa vie — mais aussi une retenue croissante. Sur plusieurs questions importantes, ses réponses se réduisent à des formules brèves : *« je n'ai pas la réponse »*, *« je vous renvoie à votre propre jugement »*, *« je crois que la question n'a pas la forme qu'on lui donne »*.
+Andival reprit ses tournées. Il arbitra encore une saison ou deux, puis demanda son retrait à soixante-deux ans. Il revint vivre à Khessit, dans la maison familiale. Il continua de répondre par courrier aux questions que des Arbitres en exercice lui posaient en privé. Sa correspondance, conservée par sa nièce, montre une attention soutenue aux disputes de la dernière décennie de sa vie — mais aussi une retenue croissante. Sur plusieurs questions importantes, ses réponses se réduisent à des formules brèves : *« je n'ai pas la réponse »*, *« je vous renvoie à votre propre jugement »*, *« je crois que la question n'a pas la forme qu'on lui donne »*.
 
 Andival mourut à soixante-trois ans en 224, d'une affection respiratoire chronique qu'il avait depuis ses années de voyage. Ses funérailles furent vael'kurashe. Il fut enterré à Khessit, dans le cimetière de l'oasis nord-ouest. La Confédération n'organisa pas de cérémonie centrale.
 
@@ -127,9 +127,9 @@ Les quatorze rapportèrent leurs observations à Murahal. Le caravansérail cons
 
 Les observations existent. Elles sont conservées dans les archives militaires de Murahal. Aucun chercheur sanvarien n'y a accès. Aucun étranger non plus.
 
-Aldrym n'a pas reçu de funérailles publiques — il n'était pas revenu, et la tradition de Murahal ne célèbre pas les disparus en l'absence de corps. Sa famille a placé une plaque dans la cour intérieure de la maison familiale. La plaque porte son nom et la liste des onze qui l'ont précédé. Elle ne porte pas la liste des trente-cinq qui sont partis avec lui et qui ne sont pas revenus. La famille n'a pas voulu ; aucun membre n'a expliqué pourquoi.
+Aldrym n'a pas reçu de funérailles publiques — il n'était pas revenu, et la tradition de Murahal ne célèbre pas les disparus en l'absence de corps. Sa famille a placé une plaque dans la cour intérieure de la maison familiale. La plaque porte son nom et la liste des onze qui l'ont précédé. Elle ne porte pas la liste des vingt-cinq qui sont partis avec lui et qui ne sont pas revenus. La famille n'a pas voulu ; aucun membre n'a expliqué pourquoi.
 
-Une rumeur tenace court chez les jeunes gardes de Murahal : Aldrym aurait laissé des notes, écrites pendant l'expédition, qui auraient été remises à un caravansérail périphérique non confédéral — Voldra, où une cellule Catena Fracta est tolérée depuis longtemps. La rumeur n'a jamais été confirmée. Voldra n'a jamais été interrogée à ce sujet par le Conseil. Personne, à Murahal, ne demande qu'on l'interroge.
+Une rumeur tenace court chez les jeunes gardes de Murahal : Aldrym aurait laissé des notes, écrites pendant l'expédition, qui auraient été remises à un caravansérail périphérique — Voldra, relais frontalier confédéré du sud, où une cellule Catena Fracta est tolérée depuis longtemps. La rumeur n'a jamais été confirmée. Voldra n'a jamais été interrogée à ce sujet par le Conseil. Personne, à Murahal, ne demande qu'on l'interroge.
 
 L'expédition collective réclamée par Murahal est toujours différée.
 

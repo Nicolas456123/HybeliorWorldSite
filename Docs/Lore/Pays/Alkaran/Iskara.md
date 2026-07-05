@@ -26,7 +26,7 @@ needs_review_for: []
 
 Système politique fusionnant pouvoir royal et commandement militaire :
 
-- **Le Roi-Maréchal** : souverain et commandant suprême des armées. Titre héréditaire. Un roi jugé incompétent peut être destitué par le Conseil des Forges — survenu seulement deux fois en mille ans.
+- **Le Roi-Maréchal** : souverain et commandant suprême des armées. Titre héréditaire. Un roi jugé incompétent peut être destitué par le Conseil des Forges — survenu seulement deux fois en deux siècles et demi.
 - **Le Conseil des Forges** : réunit les commandants des quatre grandes forteresses régionales ; gère les affaires civiles et militaires de leurs régions.
 - **Les Gardiens de la Porte** : ordre militaire d'élite voué à la défense du défilé principal. Y entrer est le plus grand honneur pour un Iskaran.
 - **Les Forgerons-Juges** : magistrats formés au droit et à la métallurgie. Rendent la justice en frappant un lingot sur une enclume (un coup = innocent ; trois coups = coupable).
@@ -75,7 +75,7 @@ Région centrale de hauts plateaux rocheux et gorges profondes. Cœur militaire 
 Zone montagneuse à l'est, sauvage et peu peuplée. Territoire des éclaireurs et rangers iskarans qui patrouillent ses sentiers escarpés. Des ruines d'une civilisation antérieure parsèment les sommets.
 
 ### Glintar
-Région nord, siège de la capitale. Immense bassin entouré de montagnes ; la Porte de Fer y contrôle le seul accès terrestre depuis le nord. Abrite les mines de fer les plus profondes d'Endora.
+Région nord, siège de la capitale. Immense bassin entouré de montagnes ; la Porte de Fer y contrôle le seul accès terrestre depuis le nord. Abrite les mines de fer les plus profondes d'Iskara.
 
 ---
 
@@ -102,7 +102,7 @@ Avant-poste fortifié surveillant un passage secondaire à travers les montagnes
 - Région : Glintar
 
 ### Zyndaris — Ville
-Village de forgerons spécialisés dans les mécanismes de défense (pièges, herses, catapultes). Ses ingénieurs inventèrent les "canaux de lave" qui protègent la Porte de Fer — canaux creusés à l'avance pour diriger non de la lave naturelle mais du métal en fusion pompé depuis des forges souterraines (quinze ans de mise au point). La reine Yrelda, qui survécut à la Défense de la Porte de Fer grâce à cette invention, offrit au forgeron inventeur de choisir son titre ; il demanda à être laissé tranquille dans sa forge.
+Village de forgerons spécialisés dans les mécanismes de défense (pièges, herses, catapultes). Ses ingénieurs inventèrent les "canaux de lave" qui protègent la Porte de Fer — canaux creusés à l'avance pour diriger non de la lave naturelle mais du métal en fusion pompé depuis des forges souterraines (quinze ans de mise au point). La reine Yrelda, qui survécut à la Défense de la Porte de Fer grâce à cette invention, offrit au forgeron inventeur de choisir son titre ; il demanda à être laissé tranquille dans sa forge. Le nom de « Porte de Fer » n'est pas d'origine iskarane : Yrelda l'emprunta sciemment à une défense légendaire du vieux continent, plus de mille ans antérieure, et fit reprendre sa gravure — geste revendiqué comme commémoration plutôt que comme coïncidence.
 - Population : Ville
 - Région : Glintar
 
@@ -194,7 +194,7 @@ Village reculé niché dans un cirque glaciaire, connu pour ses sources chaudes 
 |------|----------|---------|
 | **Avalor** | Alliance prudente | Les Iskarans respectent la puissance mystique d'Avalor mais se méfient de ce qu'ils ne comprennent pas. Un pacte défensif lie les deux nations. |
 | **Thalmaris** | Tolérance distante | Les bardes de Thalmaris sont les bienvenus en Iskara — leurs chants remontent le moral des garnisons. Mais les Iskarans trouvent les Thalmariens frivoles. |
-| **Galenor** | Neutralité armée | Les deux nations se respectent mutuellement mais n'ont jamais conclu d'alliance formelle. La distance géographique limite les contacts. |
+| **Galenor** *(continent)* | Neutralité armée | Iskara et les nations galenoriennes se respectent de loin, sans avoir jamais conclu d'alliance formelle. La distance — un continent entier — limite les contacts à quelques échanges d'armuriers. |
 | **Mosrack** | Méfiance réciproque | Deux puissances militaires qui se jaugent. Iskara est défensive, Mosrack est offensive — leurs doctrines s'opposent. |
 
 ---

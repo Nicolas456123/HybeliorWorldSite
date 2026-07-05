@@ -22,7 +22,7 @@ La plaine et le ciel. Comme si on avait retiré tous les éléments intermédiai
 
 J'avais voyagé sous des cieux comprimés depuis Altram — les fumées d'Haliandris, les vapeurs d'Ardentris, les nuages de cendres permanents au-dessus des forges. À Myrtam, on ne voit pas le ciel complet. Le ciel est la chose au-dessus des cheminées, un espace résiduel entre les colonnes de fumée. Arriver dans les hautes plaines de Torkam, c'était retrouver un ciel sans bord — un bleu de midi si profond et si continu qu'il semblait appartenir à une catégorie différente du bleu urbain, comme si le même mot ne suffisait pas à désigner les deux phénomènes.
 
-Pardine changea d'allure. Je ne lui demandai rien — il accéléra de lui-même, les oreilles dressées, la tête levée, respirant cet air propre après deux semaines de particules myrtamites avec la satisfaction visible d'un animal qui a attendu patiemment son moment. Je le laissai galoper. Moi aussi, j'avais besoin de vitesse.
+Pardine changea d'allure. Je ne lui demandai rien — elle accéléra d'elle-même, les oreilles dressées, la tête levée, respirant cet air propre après deux semaines de particules myrtamites avec la satisfaction visible d'un animal qui a attendu patiemment son moment. Je la laissai galoper. Moi aussi, j'avais besoin de vitesse.
 
 ---
 
@@ -50,7 +50,7 @@ Je fis la carte. Il me porta jusqu'à Faldor.
 
 ---
 
-Quatre jours avec la caravane de Yalnis m'apprirent plus sur Torkam que trois semaines à Haliandris ne m'en avaient appris sur Myrtam.
+Quatre jours avec la caravane de Yalnis m'apprirent plus sur Torkam que deux semaines à Myrtam ne m'en avaient appris sur ce pays.
 
 Non pas que Yalnis fût plus loquace — il ne l'était pas, et les hommes de sa caravane parlaient peu entre eux, conservant leur énergie avec le même soin qu'ils conservaient l'eau. Mais la route dans le désert produit une intimité que les villes n'autorisent pas. Quand on marche dans la même direction pendant quatre jours, qu'on mange le même repas du soir autour du même feu, qu'on donne le même soin aux mêmes bêtes, les barrières sociales s'amincissent par usure naturelle.
 
@@ -220,7 +220,7 @@ C'est en quittant Torkam pour les terres de Skaldoria que les pièces se mirent 
 
 La route du nord depuis Qythros vers les fjords de Skaldoria est longue et difficile — sept jours de plaine ascendante, de toundra clairsemée, de vent croissant à mesure que la latitude monte. Le sol change : plus de sable, plus d'ocre, une herbe courte et dure de couleur cuivre dans les zones protégées, la roche nue partout ailleurs. Le ciel se couvre progressivement, s'alourdit, perd la profondeur bleue de Torkam pour un gris laiteux caractéristique des latitudes nordiques.
 
-Pardine était dans son élément — le nord lui convenait mieux que le désert, sa race était de montagne froide, et il reprit de l'énergie à mesure que la température baissait. Moi, j'enveloppai davantage mes notes dans le cuir imperméable et je mis le manteau d'hiver que j'avais acheté à Faldor sur les conseils de Yalnis.
+Pardine était dans son élément — le nord lui convenait mieux que le désert, sa race était de montagne froide, et elle reprit de l'énergie à mesure que la température baissait. Moi, j'enveloppai davantage mes notes dans le cuir imperméable et je mis le manteau d'hiver que j'avais acheté à Faldor sur les conseils de Yalnis.
 
 La première trace de Skaldoria n'est pas un bâtiment ni une route. C'est un Cairn des Voix — un empilement de pierres grises qui dépasse d'un mètre depuis la toundra, des noms gravés dans chaque pierre avec la régularité patiente de générations successives de clan. Je m'arrêtai pour le regarder. Les noms les plus récents étaient gravés en runes nordiques que je ne lisais pas. Les plus anciens, dans les pierres du bas, étaient gravés dans une écriture que je ne reconnus pas du tout — pas des runes, pas un alphabet que j'avais vu dans mes voyages.
 
@@ -232,7 +232,7 @@ Le clan du Givre avait son campement de haute altitude à deux lieues du cairn �
 
 Sylthor était différent de tout ce que j'avais vu.
 
-Les autres campements que j'avais traversés — torkamites, myrtamites de surface, même les avant-postes de frontière — avaient une présence sonore. Les bêtes, les gens, le vent dans les toiles tendues, les forges ou les feux. Sylthor était silencieux d'une façon qui n'était pas l'absence de bruit mais quelque chose d'actif — un silence qui pesait, qui avait de l'épaisseur. Pardine refusa d'avancer à moins de cent mètres du campement. Je mis pied à terre et le laissai, les rênes attachées à un piquet que je plantai dans la toundra.
+Les autres campements que j'avais traversés — torkamites, myrtamites de surface, même les avant-postes de frontière — avaient une présence sonore. Les bêtes, les gens, le vent dans les toiles tendues, les forges ou les feux. Sylthor était silencieux d'une façon qui n'était pas l'absence de bruit mais quelque chose d'actif — un silence qui pesait, qui avait de l'épaisseur. Pardine refusa d'avancer à moins de cent mètres du campement. Je mis pied à terre et la laissai, les rênes attachées à un piquet que je plantai dans la toundra.
 
 Les animaux évitent Sylthor. Le sol vibre légèrement et reste froid même en été. Les chamanes du Givre y viennent pour mourir — pour rejoindre la montagne, dit la tradition, pour devenir des gardiens éternels.
 
@@ -298,7 +298,7 @@ Je ne dis pas le nom à voix haute. Mais il occupa toute la place dans mon crân
 
 La nuit que je passai à Sylthor fut la plus étrange de tout ce voyage.
 
-Je ne dormis pas vraiment — ou peut-être que je dormis mais d'un sommeil si peu profond qu'il ne laissait aucune coupure nette entre la veille et le rêve. Le feu du foyer couvait dans la cheminée centrale. Brynja et les autres chamanes dormaient dans leurs niches le long des murs. Pardine, dehors à cent mètres, ne soufflait plus — silence inhabituel pour un cheval qui soufflait généralement toutes les heures dans son sommeil.
+Je ne dormis pas vraiment — ou peut-être que je dormis mais d'un sommeil si peu profond qu'il ne laissait aucune coupure nette entre la veille et le rêve. Le feu du foyer couvait dans la cheminée centrale. Brynja et les autres chamanes dormaient dans leurs niches le long des murs. Pardine, dehors à cent mètres, ne soufflait plus — silence inhabituel pour une mule qui soufflait généralement toutes les heures dans son sommeil.
 
 La vibration du sol montait dans le bois de la couchette.
 
@@ -314,7 +314,7 @@ Et au centre de la ligne — non pas géographiquement, mais comme centre d'un r
 
 Je ne savais pas ce qu'Evertia était. Je ne l'avais jamais vu. Mes cartes l'incluaient comme une masse continentale lointaine, peu documentée, objet de récits épars et de rumeurs de marins. Le Silence d'Evertia était une référence géomantique dans des textes obscurs. Rien de plus — pour moi.
 
-Mais les ancêtres de Sylthor se taisaient et regardaient vers le sud-ouest. Les chamanes de Torkam entendaient une rumeur de fond dans les profondeurs de leur méditation, comme une voix qui se cherche et n'a pas trouvé son timbre. Le Fragment Zéro à Altram pulsait d'une lumière qui n'obéissait pas aux lois habituelles. Les failles de Myrtam avaient un rythme légèrement décalé depuis quatre ans.
+Mais les ancêtres de Sylthor se taisaient et regardaient vers le sud-ouest. Les chamanes de Torkam entendaient une rumeur de fond dans les profondeurs de leur méditation, comme une voix qui se cherche et n'a pas trouvé son timbre. Le Fragment Zéro à Altram pulsait d'un battement sourd qui n'obéissait pas aux lois habituelles — non pas une lumière, mais quelque chose que l'on percevait avec les os. Les failles de Myrtam avaient un rythme légèrement décalé depuis quatre ans.
 
 Et quelque chose, dans la nuit de Sylthor, répondait à tous ces signaux avec une régularité — lente, profonde, rythmique — qui ressemblait à un cœur.
 

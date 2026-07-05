@@ -5,7 +5,7 @@ status: drafted
 last_review: 2026-05-12
 ---
 
-# L'art du faire à Hybélior
+# L'art du faire à Hybelior
 
 > *« Apprends une chose à un apprenti, et tu lui auras donné une matinée. Apprends-lui à recommencer dix fois la même chose jusqu'à ce qu'elle soit juste, et tu lui auras donné un métier. »*
 >
@@ -15,9 +15,9 @@ last_review: 2026-05-12
 
 ## L'établi et la patience
 
-À Hybélior, on ne fait rien d'un coup. Les choses qui ont du sens — une lame qui ne se brise pas, une potion qui agit comme on l'espérait, un pain qui tient trois jours sans rancir — exigent un certain rapport au temps. Ce rapport est ce qu'on appelle ici l'**art du faire** : une série de gestes appris d'un maître, répétés jusqu'à ce que les mains les sachent sans que l'esprit ait à les penser, et appliqués à une matière qui résiste juste assez pour qu'on en sente la justesse.
+À Hybelior, on ne fait rien d'un coup. Les choses qui ont du sens — une lame qui ne se brise pas, une potion qui agit comme on l'espérait, un pain qui tient trois jours sans rancir — exigent un certain rapport au temps. Ce rapport est ce qu'on appelle ici l'**art du faire** : une série de gestes appris d'un maître, répétés jusqu'à ce que les mains les sachent sans que l'esprit ait à les penser, et appliqués à une matière qui résiste juste assez pour qu'on en sente la justesse.
 
-Un objet qu'on a fait soi-même pèse, dans la main, plus que dix qu'on a achetés. Et un objet qu'on a appris à faire d'un Maître qui l'avait lui-même appris d'un autre Maître porte, en lui, toute une lignée silencieuse. Voilà pourquoi les artisans d'Hybélior, même ceux qui ne brillent pas, sont respectés : ils tiennent un fil que personne ne pourrait retisser sans eux.
+Un objet qu'on a fait soi-même pèse, dans la main, plus que dix qu'on a achetés. Et un objet qu'on a appris à faire d'un Maître qui l'avait lui-même appris d'un autre Maître porte, en lui, toute une lignée silencieuse. Voilà pourquoi les artisans d'Hybelior, même ceux qui ne brillent pas, sont respectés : ils tiennent un fil que personne ne pourrait retisser sans eux.
 
 ---
 
@@ -39,7 +39,7 @@ Tout ouvrage, quel qu'il soit, se décrit selon quelques axes que les artisans n
 
 ## Les neuf grandes familles de faire
 
-Les soixante-trois métiers d'Hybélior se regroupent en neuf grandes familles, chacune avec sa logique propre, ses ateliers reconnaissables, ses matières typiques, ses gestes signature.
+Les soixante-trois métiers d'Hybelior se regroupent en neuf grandes familles, chacune avec sa logique propre, ses ateliers reconnaissables, ses matières typiques, ses gestes signature.
 
 ### 1. La forge — l'art du métal
 
@@ -140,7 +140,7 @@ Les soixante-trois métiers d'Hybélior se regroupent en neuf grandes familles, 
 
 ## Les ateliers — où se font les ouvrages
 
-L'atelier n'est pas seulement un lieu : c'est une présence dans la ville, une odeur qu'on reconnaît de la rue, un bruit qu'on entend depuis la place voisine. Certains ouvrages exigent plusieurs ateliers en chaîne — la forge ne tient pas sans la fournaise, et la trempe n'est pas l'enclume. Les artisans d'Hybélior connaissent par cœur ces enchaînements.
+L'atelier n'est pas seulement un lieu : c'est une présence dans la ville, une odeur qu'on reconnaît de la rue, un bruit qu'on entend depuis la place voisine. Certains ouvrages exigent plusieurs ateliers en chaîne — la forge ne tient pas sans la fournaise, et la trempe n'est pas l'enclume. Les artisans d'Hybelior connaissent par cœur ces enchaînements.
 
 | Atelier | Métiers qui s'y retrouvent | Présence dans la cité |
 |---------|----------------------------|----------------------|
@@ -166,7 +166,7 @@ L'atelier n'est pas seulement un lieu : c'est une présence dans la ville, une o
 
 ## Ce que la main fait à l'ouvrage
 
-Un même ouvrage, fait par deux artisans, n'aura pas la même qualité. C'est la première vérité de l'art du faire à Hybélior. La main de l'artisan pèse autant que sa matière première.
+Un même ouvrage, fait par deux artisans, n'aura pas la même qualité. C'est la première vérité de l'art du faire à Hybelior. La main de l'artisan pèse autant que sa matière première.
 
 ### La main, du Novice au Maître
 
@@ -199,7 +199,7 @@ Au-delà de la main et de l'Ère, ce qui module aussi l'ouvrage, c'est le **cont
 
 ## Ce qui se transmet, ce qui se garde
 
-L'art du faire, à Hybélior, n'est jamais entièrement écrit. Les livres de recettes existent, certes — les scribes en compilent des bibliothèques entières — mais aucun livre ne sait dire le moment précis où il faut tremper le métal, ni la couleur exacte du caramel avant qu'il ne brûle. Le reste se transmet de Maître à apprenti, par les mains, par le regard, par les années passées au même atelier.
+L'art du faire, à Hybelior, n'est jamais entièrement écrit. Les livres de recettes existent, certes — les scribes en compilent des bibliothèques entières — mais aucun livre ne sait dire le moment précis où il faut tremper le métal, ni la couleur exacte du caramel avant qu'il ne brûle. Le reste se transmet de Maître à apprenti, par les mains, par le regard, par les années passées au même atelier.
 
 C'est pourquoi un apprenti chez un Maître reconnu n'est pas seulement quelqu'un qui apprend un métier. C'est quelqu'un à qui l'on **lègue** un héritage — la part de l'art qui ne tient à aucun texte. Et c'est pourquoi, lorsqu'un Maître meurt sans apprenti, la cité perd quelque chose qu'aucun livre ne pourra rendre.
 
@@ -214,7 +214,7 @@ C'est pourquoi un apprenti chez un Maître reconnu n'est pas seulement quelqu'un
 - [[Catégories d'Items]] — les quatre familles d'objets
 - [[Types d'Items]] — la nature détaillée de chaque chose
 - [[Sources de Ressources]] — d'où viennent les matières premières
-- [[Métiers]] — les soixante-trois métiers d'Hybélior
+- [[Métiers]] — les soixante-trois métiers d'Hybelior
 - [[Armes et Maîtrise]] — la progression des cinq paliers, et les conditions cachées
 - [[Les Ères]] — comment le monde colore les gestes
 - [[Architecture]] — la trame profonde

@@ -255,7 +255,7 @@ Cette certitude sera le germe de toute la dependance qui rendra l'Arrachement po
 
 | Date | Evenement |
 |------|-----------|
-| ~45 000 av.A | Emergence des premiers mortels (Spiritus + Somnix + Judicar) |
+| ~45 000 av.A | Emergence des premiers mortels (plusieurs lectures ; aucune imposée) |
 | ~44 000 → ~40 000 av.A | Constitution des cinq Berceaux distincts |
 | ~40 000 → ~35 000 av.A | Croissance lente des proto-civilisations |
 | ~35 000 → ~30 000 av.A | Signes avant-coureurs du Grand Gel ; premiers conflits internes dans chaque Berceau |

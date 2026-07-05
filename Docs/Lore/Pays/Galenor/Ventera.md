@@ -104,7 +104,7 @@ Région méridionale de vastes plateaux semi-arides ; la plus mystérieuse. Nuit
 ## Villes et villages
 
 ### Soltharis — Capitale ★
-Capitale. Cité circulaire de Plenera bâtie au centre exact des plaines, aux murs bas conçus pour canaliser le vent (et non repousser un siège) ; rues orientées pour faire circuler le vent. Plan circulaire à couloirs de vent orientés à la boussole tracé par Soltharis le Fondateur après un an d'observation des vents, sans architecte, et inchangé en trois cents ans. L'Arène Royale, cœur de la cité, accueille dix mille spectateurs lors du Grand Festival des Vents.
+Capitale. Cité circulaire de Plenera bâtie au centre exact des plaines, aux murs bas conçus pour canaliser le vent (et non repousser un siège) ; rues orientées pour faire circuler le vent. Plan circulaire à couloirs de vent orientés à la boussole tracé par Soltharis le Fondateur après un an d'observation des vents, sans architecte, et inchangé depuis près de deux siècles. L'Arène Royale, cœur de la cité, accueille dix mille spectateurs lors du Grand Festival des Vents.
 - Population : Capitale
 - Région : Plenera
 - Particularités : Siège du Roi-Cavalier, Arène Royale, Haras Royal, Grand Festival des Vents.

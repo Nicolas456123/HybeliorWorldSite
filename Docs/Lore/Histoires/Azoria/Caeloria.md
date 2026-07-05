@@ -33,7 +33,7 @@ Cet événement — **l'Intervention Divine** — transforma le royaume. Le peup
 
 ## Caeloria — « L'Édit de Celestia »
 
-L'événement qui donna à Caeloria sa structure profonde n'est pas l'Intervention Divine — c'est l'Édit. Sept siècles après la fondation, vers l'an 9 350 ap.A (sept siècles avant le Sillage actuel), le **Premier Conclave** statua qu'aucun emploi public, aucune charge cérémonielle, aucune concession minière ne serait accordée à un sujet **non-Lié à Celestia ou à Stellaris**. La justification doctrinale tenait en une phrase : *« Le bien commun se lit. Qui ne lit pas le bien commun ne peut le défendre. »*
+L'événement qui donna à Caeloria sa structure profonde n'est pas l'Intervention Divine — c'est l'Édit. Sept siècles après la fondation, vers l'an 9 500 ap.A (sept siècles avant le Sillage actuel), le **Premier Conclave** statua qu'aucun emploi public, aucune charge cérémonielle, aucune concession minière ne serait accordée à un sujet **non-Lié à Celestia ou à Stellaris**. La justification doctrinale tenait en une phrase : *« Le bien commun se lit. Qui ne lit pas le bien commun ne peut le défendre. »*
 
 L'Édit fut promulgué en cinquante-huit articles, gravés dans la stellarite et fixés à l'entrée des cinq observatoires sacrés. Il n'a jamais été abrogé, mais il a été **précisé** dix-sept fois en sept cents ans, toujours dans le sens d'une extension : la liste des emplois réservés s'allongea, le seuil de Lien se durcit, la procédure d'examen s'étoffa. Aujourd'hui, un non-Lié peut être pêcheur, mineur ou artisan ordinaire, mais ne peut tenir un registre, instruire un enfant, siéger à un tribunal, transporter de la stellarite, ni officier dans le Bras des Cieux. La discrimination est *douce* (aucun châtiment positif) et *systémique* (toute la vie publique fermée). La doctrine y voit une **élévation** des Liés ; les non-Liés l'éprouvent comme une assignation.
 
@@ -135,7 +135,7 @@ Le Veilleur remonta sans Velthrin. La cérémonie eut lieu sans descendant aîn�
 
 Velthrin ne donna jamais d'explication écrite. Il ne quitta pas Vyndoris. Il ne quitta pas la mine. Il ne refusa pas son anneau de Découvreur Béni — qu'il portait au cou sous ses vêtements de mineur, comme le veut la tradition.
 
-Trois ans plus tard, en l'an 250, il mourut d'épuisement chronique, complications respiratoires probables (les médecins de Duskoris ne furent pas appelés à temps). Il avait quarante-sept ans. Sa famille demanda les rites funéraires standard ; on les leur accorda sans discussion. Aucun oracle ne se déplaça. Aucune amulette ne fut posée sur le corps — la doctrine veut qu'un descendant aîné mort sans présidence soit *« déjà pesé »*. Sa famille hésita à protester. Elle ne protesta pas.
+Trois ans plus tard, en l'an 250, il mourut d'épuisement chronique, complications respiratoires probables (les médecins de Duskoris ne furent pas appelés à temps). Il avait cinquante-trois ans. Sa famille demanda les rites funéraires standard ; on les leur accorda sans discussion. Aucun oracle ne se déplaça. Aucune amulette ne fut posée sur le corps — la doctrine veut qu'un descendant aîné mort sans présidence soit *« déjà pesé »*. Sa famille hésita à protester. Elle ne protesta pas.
 
 Sa tombe, dans le petit cimetière des mineurs au pied de Vyndoris, porte son nom et ses dates. Pas de constellation natale gravée. Pas de formule.
 
@@ -189,7 +189,7 @@ Lhanvra n'a jamais vu l'objet. Elle ignore son existence.
 
 ## Frostlin — « Les Pétitions Effacées »
 
-Le quatorze du mois de lune froide en l'an 9 712 du Sillage, trois cent quarante-deux pêcheurs de Frostlin signèrent une pétition. La pétition était courte. Elle demandait au Conclave la révision de l'Édit de Celestia — non son abrogation, juste l'admission de non-Liés dans certaines fonctions communales mineures (gardiens de port, secouristes en mer, comptables des criées).
+Le quatorze du mois de lune froide en l'an 9 712 ap.A, trois cent quarante-deux pêcheurs de Frostlin signèrent une pétition. La pétition était courte. Elle demandait au Conclave la révision de l'Édit de Celestia — non son abrogation, juste l'admission de non-Liés dans certaines fonctions communales mineures (gardiens de port, secouristes en mer, comptables des criées).
 
 Les pêcheurs n'étaient pas révoltés. Ils étaient *pratiques*. Il manquait des bras pour tenir les criées du soir ; les Liés disponibles n'y suffisaient plus. Le Conclave aurait pu, sans toucher à la doctrine, autoriser quelques exceptions techniques.
 
@@ -233,7 +233,7 @@ Les historiens notent que les abris temporaires avaient juste été bâtis au pl
 
 ## Vyntheris — « Sœur Iverra et le Registre Alternatif »
 
-Iverra entra aux Crèches Stellari à six ans. Sa carrière fut honorable — Veilleuse de quart à dix-neuf, Calculatrice Inférieure à vingt-six, Calculatrice Supérieure à trente-quatre. Elle n'était pas brillante au sens où on l'entend pour un Premier Lecteur. Elle était *exacte*. Sa Méthode des Recalibrations, appliquée aux étoiles mineures du nord-est, était plus précise que la moyenne du clergé.
+Iverra entra aux Crèches Stellari à six ans. Sa carrière fut honorable — Veilleuse de quart à dix-neuf, Calculatrice Inférieure à vingt-six, Calculatrice Supérieure à trente. Elle n'était pas brillante au sens où on l'entend pour un Premier Lecteur. Elle était *exacte*. Sa Méthode des Recalibrations, appliquée aux étoiles mineures du nord-est, était plus précise que la moyenne du clergé.
 
 En l'an 218, alors qu'elle avait trente ans, elle commença à tenir un registre parallèle. Pas un registre concurrent — un registre *complémentaire*. Elle notait, à côté des positions canoniques des Tables, les positions *qu'elle observait*, sans les corriger. Les écarts étaient minuscules — fraction de degré, parfois quart de minute. Mais ils étaient *systématiques* et *non aléatoires*.
 
@@ -243,7 +243,7 @@ Au bout de deux ans, elle avait quatre-vingt-treize entrées à trois points.
 
 Elle ne fit rien. Elle ne publia pas. Elle ne consulta pas un Tribunal des Lectures (qui aurait classé son carnet en *« humeur du clergé »*). Elle ne brûla pas le carnet (parce qu'elle ne pouvait pas trahir ce qu'elle avait vu).
 
-En l'an 220, son maître — un Conseiller d'Édit appelé Drevan Sept-Étoiles, neveu et homonyme du successeur de Lethanis Vor-Ostrun à Astravia — découvrit le carnet par hasard, en cherchant un livret de calcul qu'il avait prêté. Il lut la première page. Il lut la dernière. Il referma le carnet. Il le posa.
+En l'an 220, son maître — un Conseiller d'Édit appelé Drevan Sept-Étoiles, homonyme et descendant en ligne juridique du successeur de Lethanis Vor-Ostrun à Astravia — découvrit le carnet par hasard, en cherchant un livret de calcul qu'il avait prêté. Il lut la première page. Il lut la dernière. Il referma le carnet. Il le posa.
 
 Iverra rentra dans la pièce. Drevan ne dit rien sur le carnet. Il lui demanda si elle avait fini son Recensement. Elle dit oui. Il lui souhaita bonne nuit.
 

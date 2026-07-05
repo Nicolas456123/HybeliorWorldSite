@@ -8,7 +8,7 @@ aliases: [Items - Index]
 
 # Des choses qu'on porte, qu'on troque, qu'on offre
 
-> *« Tout objet, à Hybélior, est trois fois né. Une fois du monde qui l'a donné. Une fois des mains qui l'ont façonné. Une fois du voyageur qui le porte, et qui finira par le laisser. »*
+> *« Tout objet, à Hybelior, est trois fois né. Une fois du monde qui l'a donné. Une fois des mains qui l'ont façonné. Une fois du voyageur qui le porte, et qui finira par le laisser. »*
 >
 > *— Veslan le tonnelier, atelier des quais de Mosrack*
 
@@ -16,7 +16,7 @@ aliases: [Items - Index]
 
 ## Le seuil des objets
 
-On entre à Hybélior par les pas, par la voix, par l'apprentissage — mais l'on s'y enracine aussi par les **choses**. La gourde qu'on remplit à la source, le couteau hérité d'un parent, la cape qu'un tisserand a teinte d'un bleu qui n'existe qu'à Cendara, la fiole qu'une herboriste a fermée de cire pour qu'elle voyage avec vous : voilà la matière fine du monde. Sans ces objets, le voyageur ne serait qu'un souffle. Avec eux, il **habite**.
+On entre à Hybelior par les pas, par la voix, par l'apprentissage — mais l'on s'y enracine aussi par les **choses**. La gourde qu'on remplit à la source, le couteau hérité d'un parent, la cape qu'un tisserand a teinte d'un bleu qui n'existe qu'à Cendara, la fiole qu'une herboriste a fermée de cire pour qu'elle voyage avec vous : voilà la matière fine du monde. Sans ces objets, le voyageur ne serait qu'un souffle. Avec eux, il **habite**.
 
 Ce traité réunit ce qu'on peut tenir, troquer, offrir ou abandonner. Il ne dit pas tout — aucun traité ne dirait tout — mais il en pose les grandes lignes, pour qu'à la lecture on se figure mieux ce que c'est qu'une vie matérielle dans le monde partagé.
 
@@ -24,7 +24,7 @@ Ce traité réunit ce qu'on peut tenir, troquer, offrir ou abandonner. Il ne dit
 
 ## Ce qu'on tient, et comment on le tient
 
-Quatre grandes manières de tenir un objet existent à Hybélior. On le **consomme**, et il disparaît dans l'usage ; on le **porte sur soi**, et il modifie celui qui le porte ; on le **récolte** dans le monde, et il devient la matière des mains laborieuses ; on le **brandit**, et l'on en fait, pour un temps, un prolongement de sa volonté guerrière.
+Quatre grandes manières de tenir un objet existent à Hybelior. On le **consomme**, et il disparaît dans l'usage ; on le **porte sur soi**, et il modifie celui qui le porte ; on le **récolte** dans le monde, et il devient la matière des mains laborieuses ; on le **brandit**, et l'on en fait, pour un temps, un prolongement de sa volonté guerrière.
 
 | Famille | Comment elle se tient | Sa vocation |
 |---------|----------------------|-------------|
@@ -33,13 +33,13 @@ Quatre grandes manières de tenir un objet existent à Hybélior. On le **consom
 | **Les récoltes** | On les arrache, on les ramasse, on les transforme | Devenir, sous d'autres mains, ce qui n'existait pas encore |
 | **Les armes** | On les brandit, on les fend dans l'air | Trancher, briser, défendre, ou simplement prouver qu'on saurait |
 
-Chaque chose, à Hybélior, appartient pleinement à l'une de ces quatre familles. Certaines passent d'une famille à l'autre selon l'usage qu'on en fait — une fiole pleine n'est pas une fiole vide — mais aucun objet ne vit dans l'entre-deux pour toujours.
+Chaque chose, à Hybelior, appartient pleinement à l'une de ces quatre familles. Certaines passent d'une famille à l'autre selon l'usage qu'on en fait — une fiole pleine n'est pas une fiole vide — mais aucun objet ne vit dans l'entre-deux pour toujours.
 
 ---
 
 ## Six degrés de présence
 
-Les choses ne se valent pas. Ce n'est pas un secret ; un couteau de boucher n'a pas la même autorité qu'une lame consacrée par un Maître après un mois de patience. Les artisans d'Hybélior reconnaissent **six degrés** à la qualité des objets, qui disent comment chacun a été pris dans le tissu du monde.
+Les choses ne se valent pas. Ce n'est pas un secret ; un couteau de boucher n'a pas la même autorité qu'une lame consacrée par un Maître après un mois de patience. Les artisans d'Hybelior reconnaissent **six degrés** à la qualité des objets, qui disent comment chacun a été pris dans le tissu du monde.
 
 | Degré | Nom courant | Ce qu'il signifie |
 |-------|-------------|-------------------|
@@ -74,7 +74,7 @@ Les objets ne tiennent pas seuls. Ils sont pris dans des liens — économiques,
 - [[L'Accord]] — l'objet le plus rare ne dispense pas son porteur de s'accorder au monde présent.
 - [[Le Souffle]] — les objets de haute qualité éprouvent eux aussi, brièvement, la rouille des passages.
 - [[Économie]] — un objet n'a de prix que parce qu'un autre voyageur le veut.
-- [[Métiers]] — soixante-trois manières, parmi les habitants d'Hybélior, de faire entrer un objet dans le monde.
+- [[Métiers]] — soixante-trois manières, parmi les habitants d'Hybelior, de faire entrer un objet dans le monde.
 - [[Combat]] — quelques objets se brandissent ; on les arme, on les croise, on les casse.
 - [[Bestiaire]] — beaucoup de matières précieuses ne s'obtiennent qu'en affrontant ce qui rôde.
 

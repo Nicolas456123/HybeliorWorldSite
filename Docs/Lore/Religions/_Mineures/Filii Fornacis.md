@@ -11,7 +11,7 @@ presence_principale: [Altram, Iskara, Mosrack]
 
 # 🔨 Filii Fornacis — Les Enfants de la Forge
 
-**Entité vénérée :** **Ferros** *(siège Éthéré — forge et métal — cf. [[../../../GDD/17 - Cosmologie]] §"Sièges Éthérés")*
+**Entité vénérée :** **Ferros** *(siège Éthéré — forge et métal — cf. [[Cosmologie]] §"Les Célestes")*
 
 ---
 

@@ -17,9 +17,9 @@ implementation: "[[Labeur System]]"
 
 ## L'idée du Labeur
 
-Hybélior sait une chose que les mondes partagés oublient souvent : **un être vivant n'a pas la journée infinie**. Le paysan se lève à l'aube, retourne sa terre, taille son bois, mange, parle, dort. Il ne fait pas tout. Il ne peut pas tout. Et c'est précisément cette **finitude quotidienne** qui donne du poids à ce qu'il fait.
+Hybelior sait une chose que les mondes partagés oublient souvent : **un être vivant n'a pas la journée infinie**. Le paysan se lève à l'aube, retourne sa terre, taille son bois, mange, parle, dort. Il ne fait pas tout. Il ne peut pas tout. Et c'est précisément cette **finitude quotidienne** qui donne du poids à ce qu'il fait.
 
-Le **Labeur** est, à Hybelior, ce qui transpose cette vérité dans le monde du jeu. C'est l'**énergie du jour** — une réserve d'élan, de force, d'attention que chaque aventurier porte en lui à son réveil et qui se renouvelle, pour l'essentiel, au fil d'une nuit. Ce n'est pas une jauge punitive ; c'est une promesse : **les heures que tu donnes à Hybélior ont le même poids que celles données par n'importe quel autre voyageur**, parce que personne ne dispose d'une journée plus longue que la tienne.
+Le **Labeur** est, à Hybelior, ce qui transpose cette vérité dans le monde du jeu. C'est l'**énergie du jour** — une réserve d'élan, de force, d'attention que chaque aventurier porte en lui à son réveil et qui se renouvelle, pour l'essentiel, au fil d'une nuit. Ce n'est pas une jauge punitive ; c'est une promesse : **les heures que tu donnes à Hybelior ont le même poids que celles données par n'importe quel autre voyageur**, parce que personne ne dispose d'une journée plus longue que la tienne.
 
 Cette finitude n'est pas une limite contre laquelle se cogner. C'est ce qui transforme l'aventure en **vie** plutôt qu'en performance. Sans elle, tout devient course, accumulation, optimisation. Avec elle, chaque journée à Hybelior est, à sa modeste échelle, **une journée vécue**.
 
@@ -47,7 +47,7 @@ Quand tu rentres au crépuscule avec ta jauge bien entamée, tu rapportes avec t
 
 Le cœur philosophique du Labeur tient en une phrase : *à Hybelior, tu ne fais pas tout, tu choisis ce qui compte aujourd'hui*. C'est une promesse simple et exigeante. Simple, parce qu'elle imite la vie. Exigeante, parce qu'elle interdit l'illusion confortable que l'on peut, en jouant assez longtemps, tout cumuler.
 
-Un monde partagé classique te dit : *fais tout, deviens tout, accumule tout, à condition d'y consacrer assez d'heures*. C'est une promesse de complétude par épuisement. Hybélior te répond autrement : *tu peux devenir grand, mais grand veut dire **choisi**, et choisir veut dire **renoncer**.* Si tu décides, ce matin, d'aller forger une épée magistrale, tu sais que ce ne sera pas le matin où tu apprendras un nouveau sort, ni celui où tu participeras à la grande chasse aux marécages. Ce n'est pas une privation : c'est une **architecture du sens**. Sans renoncement, il n'y a pas de choix ; sans choix, il n'y a pas d'identité.
+Un monde partagé classique te dit : *fais tout, deviens tout, accumule tout, à condition d'y consacrer assez d'heures*. C'est une promesse de complétude par épuisement. Hybelior te répond autrement : *tu peux devenir grand, mais grand veut dire **choisi**, et choisir veut dire **renoncer**.* Si tu décides, ce matin, d'aller forger une épée magistrale, tu sais que ce ne sera pas le matin où tu apprendras un nouveau sort, ni celui où tu participeras à la grande chasse aux marécages. Ce n'est pas une privation : c'est une **architecture du sens**. Sans renoncement, il n'y a pas de choix ; sans choix, il n'y a pas d'identité.
 
 À Hybelior, deux personnages partis le même jour, avec la même classe et le même nom, divergent dès la fin de la première semaine — non par chance, mais parce qu'ils auront choisi différemment ce que leurs jours valaient. L'un sera devenu un forgeron qui chasse parfois ; l'autre, un chasseur qui forge à l'occasion ; un troisième, un marchand-orateur qui ne touche jamais le marteau. Ces trois personnages ne sont pas des classes. Ce sont **des sommes de journées choisies**.
 
@@ -77,9 +77,9 @@ Cette dialectique interdit l'accumulation définitive et bénit la régularité.
 
 Voici la promesse la plus précieuse du Labeur, celle dont aucun manuel de game design ne parle assez : c'est une **promesse d'égalité de dignité entre les vies**.
 
-Hybélior sait qu'on ne traverse pas tous le monde au même rythme. Il y a l'étudiant qui peut donner six heures un samedi soir ; il y a le parent qui grappille une heure entre deux veillées d'enfant ; il y a celui qui ne se présente qu'une fois par semaine. Tous ces voyageurs ont droit, **pour leurs heures**, à la même dignité d'aventure (voir [[La Partie]]). Le Labeur tient cette promesse. Parce qu'il se renouvelle quotidiennement, il garantit que **les heures rares d'un voyageur intermittent ne sont pas écrasées par les heures abondantes de l'assidu sans repos**. L'assidu sans repos ne peut pas faire en un jour cinq jours d'aventure ; il peut faire un jour intense, et pas plus. Le voyageur intermittent, lui, retrouve une journée fraîche — et peut, dans les heures qu'il lui consacre, **vivre une journée pleine d'Hybélior**.
+Hybelior sait qu'on ne traverse pas tous le monde au même rythme. Il y a l'étudiant qui peut donner six heures un samedi soir ; il y a le parent qui grappille une heure entre deux veillées d'enfant ; il y a celui qui ne se présente qu'une fois par semaine. Tous ces voyageurs ont droit, **pour leurs heures**, à la même dignité d'aventure (voir [[La Partie]]). Le Labeur tient cette promesse. Parce qu'il se renouvelle quotidiennement, il garantit que **les heures rares d'un voyageur intermittent ne sont pas écrasées par les heures abondantes de l'assidu sans repos**. L'assidu sans repos ne peut pas faire en un jour cinq jours d'aventure ; il peut faire un jour intense, et pas plus. Le voyageur intermittent, lui, retrouve une journée fraîche — et peut, dans les heures qu'il lui consacre, **vivre une journée pleine d'Hybelior**.
 
-C'est plus qu'une mécanique d'équilibre. C'est une **éthique du temps**. Hybélior dit à l'adulte qui revient un soir par semaine : *ton soir vaut. Ce n'est pas une miette d'aventure ; c'est une journée d'aventurier.* Cette promesse, tenue, fait d'Hybélior un monde **où l'on peut vieillir** — où l'on peut, à trente ans, à quarante, à cinquante, garder un personnage vivant sans devenir l'esclave de sa propre obsession.
+C'est plus qu'une mécanique d'équilibre. C'est une **éthique du temps**. Hybelior dit à l'adulte qui revient un soir par semaine : *ton soir vaut. Ce n'est pas une miette d'aventure ; c'est une journée d'aventurier.* Cette promesse, tenue, fait d'Hybelior un monde **où l'on peut vieillir** — où l'on peut, à trente ans, à quarante, à cinquante, garder un personnage vivant sans devenir l'esclave de sa propre obsession.
 
 > *« Il y a deux manières d'aimer un monde. La manière qui dévore, et la manière qui revient. La seconde est plus longue, et elle dure. »*
 >
@@ -121,7 +121,7 @@ Le Labeur n'est pas une mécanique isolée : il est l'un des fils qui tissent le
 
 Si l'on devait dire ce que le Labeur fait, en une phrase : **il rend chaque journée précieuse en la rendant finie**.
 
-C'est tout. C'est immense. Il faut un certain courage de conception pour dire au voyageur : *non, tu ne pourras pas tout faire ce soir, et c'est une bonne nouvelle*. Hybélior fait ce pari. Il fait confiance au voyageur — à sa capacité à choisir, à renoncer, à revenir, à construire son personnage non pas en cumulant des marques mais en accumulant des journées vécues.
+C'est tout. C'est immense. Il faut un certain courage de conception pour dire au voyageur : *non, tu ne pourras pas tout faire ce soir, et c'est une bonne nouvelle*. Hybelior fait ce pari. Il fait confiance au voyageur — à sa capacité à choisir, à renoncer, à revenir, à construire son personnage non pas en cumulant des marques mais en accumulant des journées vécues.
 
 Le Labeur n'est pas un mur. C'est un **horizon**. À chaque aube, il revient ; à chaque crépuscule, il dit ce qu'on en a fait. Entre les deux, il y a la part la plus précieuse de la vie d'aventurier : **les heures où il a fallu choisir**.
 

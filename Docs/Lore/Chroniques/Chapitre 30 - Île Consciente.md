@@ -38,7 +38,7 @@ Les marchands qui m'entouraient dans l'auberge des Négociants — de Kethvar po
 
 Moi, j'avais une lettre d'introduction.
 
-Elle venait de l'archimage Vaelorin de Celethor, adressée au Cercle des Archidruides d'Evertia, rédigée en galenorien classique avec les formules de respect appropriées que Vaelorin m'avait dictées en souriant de la façon dont sourient les vieux savants qui savent que les formules de respect n'ouvrent pas les portes mais empêchent qu'on les claque. Il m'avait dit : *Les Archidruides ne reçoivent pas les étrangers. Mais ils reçoivent les questions précises. Votre question est précise.*
+Elle venait de l'archimage Varennis de Celethor, adressée au Cercle des Archidruides d'Evertia, rédigée en galenorien classique avec les formules de respect appropriées que Varennis m'avait dictées en souriant de la façon dont sourient les vieux savants qui savent que les formules de respect n'ouvrent pas les portes mais empêchent qu'on les claque. Il m'avait dit : *Les Archidruides ne reçoivent pas les étrangers. Mais ils reçoivent les questions précises. Votre question est précise.*
 
 Ma question était : *Depuis quand les esprits se sont-ils tus ?*
 
@@ -160,7 +160,7 @@ Le soir, on m'attribua une cellule dans un bâtiment de l'académie — une piè
 
 Je ne dormis pas immédiatement.
 
-Je restai assis sur le bord de la couchette, mon cahier ouvert sur mes genoux, et je regardai ce que j'avais écrit depuis deux jours. Les pièces que j'avais collectées depuis sept cent trente jours de route — depuis le Chapitre Un, depuis les murs jaunes d'une ville dont je me rappelais maintenant l'architecture avec une précision que la nostalgie rend imprécise —, ces pièces se mettaient en ordre.
+Je restai assis sur le bord de la couchette, mon cahier ouvert sur mes genoux, et je regardai ce que j'avais écrit depuis deux jours. Les pièces que j'avais collectées depuis six cent trente jours de route — depuis le Chapitre Un, depuis les murs jaunes d'une ville dont je me rappelais maintenant l'architecture avec une précision que la nostalgie rend imprécise —, ces pièces se mettaient en ordre.
 
 Ce n'était pas le même sentiment que les fois précédentes où j'avais senti que le puzzle avançait. Ce n'était pas l'addition d'une information à d'autres — c'était une transformation qualitative, le passage d'une collection à une structure.
 

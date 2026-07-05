@@ -155,7 +155,7 @@ La technique qu'il leur legua entre deux couchers de soleil -- parce qu'il s'arr
 
 Selvane fut Écho-Guide jentarienne pendant quarante ans. Apprentie à Xerathis à quatorze ans, elle réussit son Épreuve de l'Écho — c'est-à-dire qu'elle déclara avoir entendu, dans la crevasse où elle avait passé sa nuit d'initiation, une voix qui lui parla *directement*. La déclaration suffit ; les Écho-Guides ne demandent pas qu'on rapporte le contenu de ce qui a été entendu. Elle reçut son Tatouage des Ruines — un glyphe sur la nuque, choisi par sa formatrice, qu'elle porta toute sa vie sans le contester.
 
-Ce qu'elle ne dit à personne pendant trente-neuf ans : elle n'avait rien entendu cette nuit-là. Elle avait passé la nuit dans la crevasse à attendre, à grelotter, à observer le ciel par l'ouverture, à somnoler par moments. Aucun mot. Aucune voix. Aucune phrase. Au matin, on lui avait demandé si elle avait entendu, et elle avait dit oui — non par calcul, mais parce que la question portait l'évidence de sa réponse, et qu'elle ne savait pas, à quatorze ans, comment dire non sans s'effondrer.
+Ce qu'elle ne dit à personne pendant cinquante et un ans : elle n'avait rien entendu cette nuit-là. Elle avait passé la nuit dans la crevasse à attendre, à grelotter, à observer le ciel par l'ouverture, à somnoler par moments. Aucun mot. Aucune voix. Aucune phrase. Au matin, on lui avait demandé si elle avait entendu, et elle avait dit oui — non par calcul, mais parce que la question portait l'évidence de sa réponse, et qu'elle ne savait pas, à quatorze ans, comment dire non sans s'effondrer.
 
 Elle apprit. Elle pratiqua. Elle officia. Elle forma des apprentis qui, à leur tour, déclarèrent avoir entendu. Pendant quarante ans, elle traduisit pour les chefs tribaux ce que les ruines auraient dit — toujours en termes prudents, ouverts, susceptibles de plusieurs lectures. Personne ne la prit jamais en défaut. Elle était tenue pour une Écho-Guide *modeste* — un compliment.
 
@@ -265,6 +265,6 @@ Vers la quatrième génération, la formulation officielle veut que les voix soi
 
 ## Mirathi Voix-d'Ambre --- "Le Message qu'elle ne livre pas"
 
-Mirathi Voix-d'Ambre, Écho-Guide suprême de la tribu Jentar et cheffe en titre de la Confédération en l'arc Sorin, est une sexagénaire au regard perçant. Elle affirme avoir reçu un message complet des Anciens dans le Canyon — qu'elle qualifie d'avertissement — et refuse d'en livrer le contenu au Conseil des Six. Le silence alimente les tensions avec les autres chefs tribaux.
+Mirathi Voix-d'Ambre, Écho-Guide suprême de la tribu Jentar en l'arc Sorin, est une sexagénaire au regard perçant. Elle affirme avoir reçu un message complet des Anciens dans le Canyon — qu'elle qualifie d'avertissement — et refuse d'en livrer le contenu au Conseil des Six. Le silence alimente les tensions avec les autres chefs tribaux.
 
 Les lectures divergent : certains y voient de la prudence, d'autres une manœuvre. Une troisième lecture, marginale et que Mirathi ne dément pas explicitement, voudrait que le message n'existe pas, qu'elle l'ait inventé pour consolider sa position face à l'érosion de l'autorité Jentar — une érosion lente que les chroniques de Folindor et de Korindar enregistrent depuis trois générations sans jamais la nommer.

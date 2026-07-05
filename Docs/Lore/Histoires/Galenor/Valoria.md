@@ -23,7 +23,7 @@ Valtheria fonda la **Confédération des Clans** : chaque clan garderait son aut
 
 Après Valtheria, les premiers Thanes héritiers entreprirent de *fixer* les règles du Holmgang, du Raid de Gloire, du Serment de Pierre, des successions, des dépouilles, des prisonniers, des bannissements. Ce **Code des Thanes** n'est pas un texte écrit mais un corpus oral transmis par les *Gardiens de la Mémoire* (prêtres du Foedus Animae) ; à l'an 251 il couvrait près de mille cinq cents articles, tous mémorisés. Les Gardiens connaissent le Code mieux que les Thanes : ils ne décident pas, ils *récitent* — mais ce qui est récité fait loi, et ce qui n'est pas récité n'existe pas.
 
-Cette codification permit à Valoria de tenir près de deux mille ans sans guerre civile généralisée. Elle figea aussi le pays : le Holmgang fixe la résolution des conflits, les Holmgang se répètent, les *raisons* des Holmgang se répètent. C'est ce que l'historien **Neld de Thalindor** (an 196-251) documenta dans son analyse de l'an 248, compilant deux cents ans de registres de duels.
+Cette codification permit à Valoria de tenir près de deux cents ans sans guerre civile généralisée. Elle figea aussi le pays : le Holmgang fixe la résolution des conflits, les Holmgang se répètent, les *raisons* des Holmgang se répètent. C'est ce que l'historien **Neld de Thalindor** (an 196-251) documenta dans son analyse de l'an 248, compilant deux cents ans de registres de duels.
 
 ---
 

@@ -39,7 +39,7 @@ Plusieurs cités d'envergure subissent des transformations massives. Les listes 
 - **Solinar la Lumineuse** (Celethor) — ses dômes-prismes éclatent simultanément. Rebaptisée **Solinar-Brisée**, elle reste habitée.
 - **Maremport** (Onara) — la cité, déjà éloignée du rivage depuis le Souffle Sourd, est entièrement absorbée par une fissure. Elle n'a laissé aucune ruine visible.
 - **Cendral** (Union des Flammes, Cendara) — recouverte de cendres en moins de 20 minutes par l'éruption du Mont Cendra. Plusieurs traditions rapportent que ses 340 000 habitants ont eu très peu de temps pour fuir.
-- **Navoria** (Thalassocratie de Navoris, Azoria) — engloutie en trois jours selon les chroniques de la côte azorienne.
+- **Navoria** (Thalassocratie de Navoris, Azoria) — engloutie en une quarantaine de minutes, au cours des sept heures de l'Arrachement, selon les chroniques de la côte azorienne.
 
 > [!note] Sur les "cités volantes"
 > Plusieurs traditions Lore décrivent l'effondrement de cités magiquement maintenues en altitude (Cendal'Horun, Lithanel Haute, Pyranel, Althanar, Orivane Haute, Navoris Céleste, Endral Flotant) dans la période rattachée à ce Cardinal. Ces récits sont d'une grande richesse géographique mais leur lecture causale (perte de "sustentation par le Lien") relève d'une **hypothèse théologique** d'auteurs verithanis et altramites, non d'une mécanique cosmique attestée. Les traces matérielles (ruines des Quarante Arches, Fosses de Lithane, Épaves de Pyranel, Jardins Morts d'Althanar) sont, elles, observables aujourd'hui — voir §4.
@@ -88,8 +88,8 @@ Les estimations de "rupture du Lien" pour la majorité de la population (~99,7 %
 | # | Brèche | Continent | Notes |
 |---|--------|-----------|-------|
 | 1 | Brèche de Cendra | Cendara | Sous le Cratère ; descend dans le cœur du Mont. Surveillée par les Gardiens de Cendra |
-| 2 | Brèche d'Ordavan | Endora | La plus active — lieu rattaché aux "absorptions" géologiques (cf. Era 7 : village absorbé en 3 minutes) |
-| 3 | Brèche de Mirathi | Nysaria | Origine du Message de Mirathi (cf. Era 7) — émet régulièrement des fragments de langages inconnus |
+| 2 | Brèche d'Ordavan | Ilthara | La plus active — lieu rattaché aux "absorptions" géologiques (cf. Era 7 : village absorbé en 3 minutes) |
+| 3 | Brèche de Mirathi | Ilthara | Origine du Message de Mirathi (cf. Era 7) — émet régulièrement des fragments de langages inconnus |
 | 4 | Brèche d'Aethran | Galenor | Au cœur des Jardins Morts d'Althanar |
 | 5 | Brèche de Lithane | Alkaran | Au fond des Fosses de Lithane |
 | 6 | Brèche du Vieux Karth | Onara | Profondeur des Crêtes de Sel ; gardée par le Vieux Karth lui-même (cf. GDD/24 §Témoins encore vivants) |
@@ -117,7 +117,7 @@ Composant magique extrait au péril de la vie depuis les Brèches du Néant. Uti
 
 ### 3.1 Lecture verithane — *Le Récit de l'Étudiant*
 
-C'est la lecture la plus détaillée et la plus diffusée. Selon la tradition verithane, un mortel surnommé **l'Étudiant**, accompagné d'un **Cercle de Huit** lecteurs du *Traité du Vide*, aurait accompli un rituel au sommet du **Mont Cendra** dont la conséquence aurait été l'Arrachement lui-même. Les noms transmis du Cercle incluent : **Sera (de Celethor)**, **Drakhan (l'Aîné)**, **Mirathis**, **Vorath (le Tacite)**, **Aelindra (de Pyrion)**, **Thessan (l'Érudit)**, **Kayara-du-Large**, et l'Étudiant comme huitième.
+C'est la lecture la plus détaillée et la plus diffusée. Selon la tradition verithane, un mortel surnommé **l'Étudiant** — l'Exécutant du rituel — aurait réuni un **Cercle des Huit** lecteurs du *Traité du Vide* et accompli un rituel au sommet du **Mont Cendra** dont la conséquence aurait été l'Arrachement lui-même. Les noms transmis des Huit sont : **Sera (de Celethor)**, **Drakhan (l'Aîné)**, **Mirathis**, **Vorath (le Tacite)**, **Aelindra (de Pyrion)**, **Thessan (l'Érudit)**, **Kayara-du-Large**, et **Iveth (le Silencieux)** comme huitième. L'Étudiant n'est pas compté parmi les Huit : il en est la figure centrale et l'exécutant.
 
 > [!note] Statut du récit dans le canon refondu
 > Cette tradition demeure une **ressource narrative majeure** pour les chroniqueurs et les joueurs. Elle est **lue comme tradition**, non comme cause cosmique attestée : aucun acte mortel ne cause un Souffle Cardinal dans le cadre du Pacte Primordial et de la Polyphonie. Les Verithani eux-mêmes la nuancent (cf. §3.6 ci-dessous). La tradition est précieuse pour comprendre la **doctrine déliée** moderne — c'est le récit que les Déliés invoquent pour relier leur pratique du sevrage à un geste fondateur, qu'il soit historique ou mythifié.
@@ -198,20 +198,33 @@ Les ruines à 40 m de profondeur au large d'Azoria. La ville est intacte sous l'
 
 ### 5.1 Cosmiques — Effets rattachés
 
+**Les 12 Cosmiques canoniques (D-COSMO-4) :**
+
 | Cosmique | Effet immédiat (lecture) | Effet long terme (Ère V) |
 |----------|--------------------------|--------------------------|
 | **Terranu** | Séismes majeurs sur 5 continents | Zones sismiques permanentes nouvelles |
 | **Aquor** | Sources magiques tarissent — puits alimentés par le Lien s'assèchent | Reconstitution naturelle sur 500 ans ; certains puits restent secs |
 | **Aerion** | Vents perdent toute prédictibilité pendant 40 ans | Navigation maritime chaotique, cartes des vents à réapprendre |
-| **Gravitas** | Stabilité des orbites non affectée | Marées erratiques (rattachées au déséquilibre Celestia/Noctis) |
 | **Climata** | Aucun effet immédiat | Saisons irrégulières pendant ~200 ans |
-| **Flamara** | Éruption du Mont Cendra + 7 éruptions secondaires sur Cendara et Onara | Hyperactif pendant 500 ans ; volcanisme excessif sur les continents du sud |
-| **Arborius** | Forêts magiques meurent en heures. Forêts ordinaires non touchées | Affaibli sur ~3 000 ans ; certaines espèces magiques s'éteignent |
-| **Spiritus** | Âmes des mourants n'ont plus de chemin (Navigor inaccessible) | Errants-sans-Corps prolifèrent pendant l'Ère V |
-| **Cantor** | Écosystèmes maintenus par le Lien s'effondrent | Silencieux depuis ~500 ap.A — dort ou est mort, selon les traditions |
-| **Somnix** | Cauchemars collectifs planétaires pendant 7 nuits consécutives | Agité chroniquement ; source des visions prophétiques des Ères V-VI |
+| **Gravitas** | Stabilité des orbites non affectée | Marées erratiques (rattachées au déséquilibre Celestia/Noctis) |
+| **Vortex** | Tempêtes cosmiques amplifiées dès les premières décennies | Intensifié — tempêtes plus longues et erratiques durant toute l'Ère V |
 | **Judicar** | Aucune réaction observable | Inactif — aucun signe depuis le déclin de l'Âge du Lien |
-| **Transitum** | Cycle vie/mort se rompt sans Navigor. Transitum tente de maintenir les passages seul | Surcharge : certaines âmes passent, d'autres restent bloquées. S'isole progressivement |
+| **Fatum** | Coïncidences troublantes autour des lieux frappés | Actif mais cryptique — ses signes se confondent avec le hasard |
+| **Spiritus** | Âmes des mourants n'ont plus de chemin (Navigor inaccessible) | Affaibli ; Errants-sans-Corps prolifèrent pendant l'Ère V |
+| **Stellaris** | Cieux inchangés dans l'immédiat | Actif — les constellations restent lisibles, seul repère fiable des Caelumites |
+| **Aetheron** | Flux éthérés désorientés dès la disparition de Navigor | Bourdonne sans direction — son partenaire structurel n'est plus là pour tendre les flux |
+| **Etherius** | Influence subtile brouillée | Suspendu — influence encore, sans certitude sur ses propres motifs |
+
+> [!note] Entités héritées reclassées (D-COSMO-4) — lecture des traditions
+> Les entités ci-dessous étaient classées Cosmiques dans le Lore antérieur ; la refonte 2026-04-30 les a reclassées (Flamara = **rumeur populaire cendarienne** ; Arborius, Cantor, Somnix = **Célestes** ; Transitum = **Astral**). Les effets qui leur sont rattachés dans les corpus verithanis et cendariens sont conservés ici **tels que les traditions les nomment** — ce sont des lectures culturelles, non une cartographie canonique. Voir [[Era 1a - Les Cosmiques]] §"Reclassement des entités héritées".
+
+| Entité (rang canonique) | Effet immédiat (lecture des traditions) | Effet long terme (Ère V) |
+|-------------------------|-----------------------------------------|--------------------------|
+| **Flamara** *(rumeur — lue comme Eldoria au Mont Cendra)* | Éruption du Mont Cendra + 7 éruptions secondaires sur Cendara et Onara | Volcanisme excessif ~500 ans sur les continents du sud |
+| **Arborius** *(Céleste)* | Forêts magiques meurent en heures. Forêts ordinaires non touchées | Affaibli sur ~3 000 ans ; certaines espèces magiques s'éteignent |
+| **Cantor** *(Céleste)* | Écosystèmes maintenus par le Lien s'effondrent | Silencieux depuis ~500 ap.A — dort ou est mort, selon les traditions |
+| **Somnix** *(Céleste)* | Cauchemars collectifs planétaires pendant 7 nuits consécutives | Agité chroniquement ; source des visions prophétiques des Ères V-VI |
+| **Transitum** *(Astral)* | Cycle vie/mort se rompt sans Navigor ; tente de maintenir les passages seul | Surcharge : certaines âmes passent, d'autres restent bloquées. S'isole progressivement |
 
 ### 5.2 Éthérés / Célestes — Effets rattachés
 
@@ -364,6 +377,10 @@ Liée-de-Feu secondaire, originaire d'Endora, 31 ans. Navigatrice avant d'être 
 ### Aelindra (de Pyrion) — l'Ancre Verte
 
 Liée-des-Forêts de Celethor, 36 ans. Issue d'une famille de botanistes du Dominat de Pyrion. Aurait disparu dans les forêts de Celethor après la chute, sans chercher à être retrouvée. Certains textes de l'ordre botanique de Celethor, fondés deux siècles après, citent "une femme de Pyrion qui parlait aux arbres morts" comme figure fondatrice — peut-être elle, peut-être une légende.
+
+### Iveth (le Silencieux) — le Lecteur des Morts
+
+Lié d'Alkaran de la tradition d'Ildaran (Lien-des-morts), ~55 ans, précepteur funéraire de l'ancienne Confédération d'Alkarath. Selon la tradition verithane, il aurait perçu dans les résidus des morts une "pression croissante" depuis ~200 av.A — les âmes des défunts paraissant "coincées", comme si la structure du Lien se saturait — et c'est en cherchant à comprendre ce signe qu'il aurait trouvé les Verithani. Son rôle dans le Cercle : validation spirituelle, lire les résidus d'âmes autour du Mont Cendra pour confirmer que le rituel était faisable. Serait mort dans les six mois suivant l'Arrachement, la perte du Lien-des-morts le privant de sa connexion principale au monde — non par violence, mais en s'éteignant lentement, comme une lampe sans huile. La nature de la "pression croissante" qu'il disait percevoir demeure l'un des mystères non résolus de la fin de l'Âge du Lien.
 
 ### L'Étudiant — figure centrale
 

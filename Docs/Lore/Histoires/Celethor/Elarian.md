@@ -191,7 +191,7 @@ C'est ainsi, à Elarian, qu'on transmet ce qu'on n'a pas le droit de dire : par 
 
 ## Frostheim — « L'ordre, le refus, la règle sans recours »
 
-En l'an 213, le Jarl Krenneth de Kryostra émit l'ordre de brûler le village de Frostheim — qui refusait de payer la taxe de guerre finançant son ambition personnelle. Le sergent Valdris et vingt-six de ses soldats refusèrent. Vingt-six dirent « non ». Le vingt-septième hésita puis suivit.
+En l'an 213, le Jarl Krenneth de Kryostra émit l'ordre de brûler le village de Frostheim — qui refusait de payer la taxe de guerre finançant son ambition personnelle. Le sergent Valdris et vingt-six de ses soldats refusèrent. Vingt-cinq dirent « non ». Le vingt-sixième hésita puis suivit.
 
 Ils marchèrent vers les Terres Brisées et y bâtirent un campement — le futur Valdris. Le Conseil des Jarls les effaça tous : noms retirés des registres, familles ordonnées de les renier, ration funéraire calculée comme s'ils étaient morts.
 

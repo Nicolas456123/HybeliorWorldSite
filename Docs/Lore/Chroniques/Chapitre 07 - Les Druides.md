@@ -10,7 +10,7 @@ needs_review_for: []
 > *« On ne comprend pas la forêt. On apprend, lentement, à l'écouter. »*
 > — proverbe du Vael'Kurash, région de Nalithos
 
-**Galenor — Trinoria, région de Nalithos — Jour 95**
+**Galenor — Trinoria, région de Nalithos — Jour 101**
 
 ---
 
@@ -22,7 +22,7 @@ J'ai arrêté ma mule, Pardine — je l'appelle Pardine depuis Ventera, parce qu
 
 Trinoria. Les forêts intérieures de Galenor. J'avais dans mes sacoches trois cartes différentes du lieu, produites par trois cartographes différents, et elles ne s'accordaient sur presque rien — ni les cours d'eau, ni les routes, ni même les noms des hameaux. C'est toujours un mauvais signe pour un territoire, et un bon signe pour un cartographe. Là où les cartes divergent, le vrai travail commence.
 
-Il m'avait fallu quatre jours depuis la frontière valoriane pour trouver quelqu'un qui voulût bien parler à un étranger. Les Trinoriens de la région de Grendor vous regardent depuis les arbres — je le sais maintenant, j'ai fini par les voir, ces silhouettes immobiles dans les branches hautes, parmi les feuilles, leur peau et leurs vêtements de la même teinte brun-gris que l'écorce. Ils ne descendent pas. Ils observent. Si vous n'êtes pas une menace, vous passez. Si vous l'êtes, vous ne le saurez qu'à la plume de la flèche.
+Il m'avait fallu quatre jours depuis la lisière orientale de Grendor pour trouver quelqu'un qui voulût bien parler à un étranger. Les Trinoriens de la région de Grendor vous regardent depuis les arbres — je le sais maintenant, j'ai fini par les voir, ces silhouettes immobiles dans les branches hautes, parmi les feuilles, leur peau et leurs vêtements de la même teinte brun-gris que l'écorce. Ils ne descendent pas. Ils observent. Si vous n'êtes pas une menace, vous passez. Si vous l'êtes, vous ne le saurez qu'à la plume de la flèche.
 
 C'est Orvhel qui a brisé l'impasse, au quatrième jour.
 
@@ -32,7 +32,7 @@ Sur sa peau — les avant-bras découverts malgré la fraîcheur, la gorge, les 
 
 Il a dit quelque chose que je n'ai pas compris — le trinorien du centre n'est pas la langue des côtes que j'avais apprise par bribes à Solena —, et puis, voyant mon regard vide, il a changé de registre pour un galenorien rustique mais parfaitement intelligible : « Tu arrives de l'est. Tu sens la pierre et la poussière sèche. Pas de la forêt. »
 
-J'ai répondu que j'arrivais effectivement de Grendor, et avant cela de Valoria.
+J'ai répondu que j'arrivais effectivement par l'est, de Grendor, et avant cela de la côte, où la mer m'avait rendu à Galenor après un long détour par Onara.
 
 Il a hoché la tête comme si c'était une information qui confirmait quelque chose. « Alors tu as besoin de te laver les oreilles. »
 
@@ -144,11 +144,11 @@ J'ai quitté Trinoria par le sud, en direction de Valoria, en me demandant si le
 
 Cela aussi, c'est nouveau.
 
-J'ai dormi la dernière nuit avant la frontière dans une grotte basse, en lisière du dernier bois trinorien — un abri de chasseur que Keth m'avait indiqué, avec un foyer noirci par cent feux antérieurs et une odeur particulière que je n'ai pas su nommer, à mi-chemin entre la résine et le champignon humide, une odeur qui restait dans la laine de la couverture et que je retrouverais sur mes vêtements pendant plusieurs jours après. Je note la grotte parce qu'elle existe, et parce que les abris qu'on emprunte sans payer comptent dans la cartographie d'un voyage autant que les villes où l'on s'arrête.
+J'ai dormi l'une des dernières nuits trinoriennes dans une grotte basse, en lisière du dernier bois avant les hameaux de la marche sud — un abri de chasseur que Keth m'avait indiqué, avec un foyer noirci par cent feux antérieurs et une odeur particulière que je n'ai pas su nommer, à mi-chemin entre la résine et le champignon humide, une odeur qui restait dans la laine de la couverture et que je retrouverais sur mes vêtements pendant plusieurs jours après. Je note la grotte parce qu'elle existe, et parce que les abris qu'on emprunte sans payer comptent dans la cartographie d'un voyage autant que les villes où l'on s'arrête. La toute dernière nuit, elle, je la passerais autrement — mais cela appartient déjà à Valoria.
 
 ---
 
-*Note cartographique, jour 95 — région de Nalithos, Trinoria :*
+*Note cartographique, jour 101 — région de Nalithos, Trinoria :*
 *La forêt de Nalithos résiste à la cartographie ordinaire non par complexité géographique — les rivières sont stables, les reliefs lisibles — mais par une propriété plus étrange : certains lieux semblent avoir bougé entre deux visites. Non pas de façon dramatique. Un sentier légèrement dévié. Un arbre dans une position légèrement différente de celle que j'avais notée la veille. Je ne sais pas si c'est ma mémoire ou la forêt. Je suspecte que les druides considèrent cette question comme mal posée.*
 
 *J'ai produit trois feuilles de relevés du secteur nord de Nalithos. Je les considère provisoires.*

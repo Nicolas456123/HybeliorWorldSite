@@ -6,7 +6,7 @@ last_review: 2026-05-06
 needs_review_for: [enrichissement-doctrinal-V4, hérésie-vs-orthodoxie]
 nom_latin: Lex Petra
 entites_venerees: [Terranu, Gravitas, Judicar]
-presence_principale: [Altram, Iskara, Mosrack, Gryndor, Valoria, Trinoria]
+presence_principale: [Altram, Iskara, Mosrack, Gryndor, Valoria]
 ---
 
 # ⚖️ Lex Petra — La Loi de Pierre

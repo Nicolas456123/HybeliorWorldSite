@@ -66,9 +66,9 @@ L'Édit réservait les postes de l'administration publique — les agents du Con
 
 La discrimination était institutionnelle. Elle portait une plaque de stellarite et une traduction pour les étrangers.
 
-Ce qui me frappa, en lisant l'Édit, n'était pas son existence — j'avais vu assez de systèmes hiérarchiques dans ce voyage pour ne plus être surpris par leur inventivité formelle. Ce qui me frappa était la date de promulgation : six ans plus tôt. La même fenêtre temporelle que les premières naissances d'Enfants aux Yeux Blancs. La même fenêtre que les anomalies stellaires d'Haldria. La même fenêtre que tout ce qui s'accélère.
+Ce qui me frappa, en lisant l'Édit, n'était pas son existence — l'Édit lui-même est vieux de sept siècles, promulgué bien avant le Sillage, et j'avais vu assez de systèmes hiérarchiques dans ce voyage pour ne plus être surpris par leur inventivité formelle. Ce qui me frappa était la date gravée au bas de la plaque : celle de la dernière précision, la plus récente d'une longue série de durcissements. Six ans plus tôt. La même fenêtre temporelle que les premières naissances d'Enfants aux Yeux Blancs. La même fenêtre que les anomalies stellaires d'Haldria. La même fenêtre que tout ce qui s'accélère.
 
-Le Conclave avait formalisé la distinction Lié/Délié exactement au moment où quelque chose avait commencé à changer dans la distinction elle-même.
+Le Conclave n'avait pas inventé la distinction Lié/Délié — elle est vieille comme l'Édit. Mais il l'avait resserrée, précisée, durcie une fois de plus exactement au moment où quelque chose avait commencé à changer dans la distinction elle-même.
 
 Je ne sus pas si c'était une coïncidence, une réaction de peur institutionnelle devant quelque chose qu'ils avaient senti venir, ou si le Conclave avait sciemment répondu à une information qu'il ne rendait pas publique. Je notai les dates dans mon carnet. Je ne tirai pas encore de conclusion.
 
@@ -108,7 +108,7 @@ Elle secoua la tête. *Seulement les gens qui tiennent. Les gens ordinaires sont
 
 Cette nuit-là, seul dans ma chambre de falaise avec les bruits de la Grande Grotte Thermale qui montaient du bas de la ville comme une respiration collective, je demeurai éveillé longtemps.
 
-Il y a une solitude particulière dans le fait de recevoir une vérité de quelqu'un qui ne comprend pas encore entièrement ce qu'il dit. Lysse n'avait pas de théorie. Elle n'avait pas lu les inscriptions de Kharazir. Elle n'avait pas entendu Vaelorin décrire les perturbations magiques avec le vocabulaire précis d'un archimage de Celethor. Elle n'avait pas les mots pour ce qu'elle voyait — elle avait des mots d'enfant, *tenir*, *corde*, *épaisseur*, et ces mots d'enfant décrivaient quelque chose que les mots d'adultes n'avaient pas encore nommé.
+Il y a une solitude particulière dans le fait de recevoir une vérité de quelqu'un qui ne comprend pas encore entièrement ce qu'il dit. Lysse n'avait pas de théorie. Elle n'avait pas lu les inscriptions de Kharazir. Elle n'avait pas entendu Varennis décrire les perturbations magiques avec le vocabulaire précis d'un archimage de Celethor. Elle n'avait pas les mots pour ce qu'elle voyait — elle avait des mots d'enfant, *tenir*, *corde*, *épaisseur*, et ces mots d'enfant décrivaient quelque chose que les mots d'adultes n'avaient pas encore nommé.
 
 Ce que Lysse voyait en moi, je le rattachais — c'est ma lecture, à défaut d'une autre — à ce que l'inscription de Kharazir nomme l'ancrage. Le lien différent. La façon, selon les inscriptions, d'être dans la trame du monde non pas comme un fil qui reçoit mais comme un poteau qui tient. Cela reste une lecture. Une enfant a dit *vous tenez*, un texte ancien parle d'ancrages : c'est moi qui rapproche les deux choses.
 

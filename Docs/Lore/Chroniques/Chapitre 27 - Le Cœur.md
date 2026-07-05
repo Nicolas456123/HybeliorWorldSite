@@ -10,7 +10,7 @@ needs_review_for: []
 > *« Le feu ne détruit pas. Il révèle ce qui était caché sous la surface. C'est pourquoi nous le vénérons. »*
 > — Maxime de l'Ignis Aeternum
 
-**Cendara — Arkhen, puis les flancs du Mont Cendra — Jour 550**
+**Cendara — Brumaris, puis les flancs du Mont Cendra — Jour 550**
 
 ---
 
@@ -18,21 +18,21 @@ L'odeur arrive depuis la mer.
 
 Pas l'odeur de sel que j'attendais — celle que j'avais connue aux ports d'Ilthara, à Hekorinth, à Diamoris même lors de mon approche initiale de l'archipel. Cette odeur-là est propre, tranchante, animale dans sa netteté. Celle de Cendara est autre chose. Elle porte le soufre, d'abord — une note suffocante qui s'installe dans la gorge avant même que les poumons l'aient enregistrée, un goût minéral et brûlant qui colore chaque inspiration d'un amer volcanique. Puis, en dessous, quelque chose de plus doux : une chaleur organique, presque terreuse, comme si le sol lui-même transpirait. Le basalte chauffé de l'intérieur. La cendre fertilisant une chose vivante. Le sable noir des plages qui retient la chaleur du soleil jusqu'au milieu de la nuit et la libère dans l'obscurité comme un poumon qu'on aurait retourné.
 
-J'ai débarqué à Diamoris il y a onze jours. Je repartais de Celethor — de l'archimage Vaelorin et de sa confirmation que les perturbations s'intensifient, que quelque chose change dans la trame du monde à une cadence que les instruments humains commencent seulement à mesurer. Il m'avait regardé avec les yeux de quelqu'un qui a passé quarante ans à observer des phénomènes qu'il ne comprenait pas encore tout à fait, et il m'avait dit ce que les vieux savants disent quand leurs certitudes vacillent : *il faut aller voir là où le monde parle le plus fort.* Cendara parlait. L'archipel volcanique parle toujours — mais depuis quelques années, disent les routes commerciales et les rumeurs de port, il s'était mis à crier.
+J'ai débarqué à Diamoris il y a onze jours. Je repartais de Celethor — de l'archimage Varennis et de sa confirmation que les perturbations s'intensifient, que quelque chose change dans la trame du monde à une cadence que les instruments humains commencent seulement à mesurer. Il m'avait regardé avec les yeux de quelqu'un qui a passé quarante ans à observer des phénomènes qu'il ne comprenait pas encore tout à fait, et il m'avait dit ce que les vieux savants disent quand leurs certitudes vacillent : *il faut aller voir là où le monde parle le plus fort.* Cendara parlait. L'archipel volcanique parle toujours — mais depuis quelques années, disent les routes commerciales et les rumeurs de port, il s'était mis à crier.
 
 Je suis descendu du navire marchand avec mes cahiers et ma boussole, et l'air de Cendara m'a pris le visage comme une paume ouverte.
 
 ---
 
-Arkhen est une ville bâtie dans la honte et dans l'orgueil, et ces deux choses ne se sont jamais réconciliées.
+Brumaris est une ville bâtie dans la honte et dans l'orgueil, et ces deux choses ne se sont jamais réconciliées.
 
-Je dis cela non par jugement mais par observation : la disposition même des quartiers parle. Les pierres de la Salle du Conseil de l'Ignis Aeternum — côté est — portent encore les marques noires des torches qui ont brûlé pendant le siège de l'Ère des Flammes. Les pierres du Temple Civique — côté ouest, contrôlé par les Représentants de la Région de Pyrevane depuis le Traité de Co-gouvernance — sont d'un basalte différent, plus récent, à peine gris, sans les patines de cendres que le temps donne aux bâtiments cendariens. On a bâti à côté de ce qui avait brûlé plutôt que de tout reconstruire. On a refusé d'effacer.
+Je dis cela non par jugement mais par observation : la disposition même des quartiers parle. Les pierres de la Salle du Conseil des Cendres — côté est, où siège l'administration du roi-pyromancien — portent encore les marques noires des torches qui ont brûlé pendant le siège de l'Ère des Flammes. Les pierres du Temple Central de l'Ignis Aeternum — côté ouest, où officient les prêtres que Pyrevane, la nation-forge de l'ouest de la grande île, ordonne et surveille — sont d'un basalte différent, plus récent, à peine gris, sans les patines de cendres que le temps donne aux bâtiments cendariens. On a bâti à côté de ce qui avait brûlé plutôt que de tout reconstruire. On a refusé d'effacer.
 
 Les Cendariens ne gomment pas. Ils superposent.
 
-Arkhen est la ville du conflit administratif — je le sus dès ma première heure dans ses ruelles pavées d'obsidienne, quand j'entendis deux hommes se disputer non par des cris mais par des références légales, chacun brandissant mentalement des clauses du Traité que j'allais bientôt apprendre à connaître. Arkhen est gouvernée conjointement par les institutions religieuses de l'Ignis Aeternum — qui y ont leur Grand Temple régional — et par les délégués civils de Pyrevane, la région montagneuse du nord, plus pragmatique, moins mystique, jalouse de son autonomie depuis trois générations. La co-gouvernance n'est pas un accord — c'est un armistice. Et les armistices ont la propriété de définir leurs termes par ce qu'ils interdisent plutôt que par ce qu'ils permettent.
+Brumaris est la ville du double veto — je le sus dès ma première heure dans ses ruelles pavées d'obsidienne, quand j'entendis deux hommes se disputer non par des cris mais par des références légales, chacun brandissant mentalement les clauses de l'arrangement que j'allais bientôt apprendre à connaître. La couronne y gouverne le temporel — impôt, mines, commerce — par le Conseil des Cendres et ses Flammarques ; mais le roi ne peut être oint sans l'aval du Conseil des Sept Feux de Pyrevane, qui tient l'autorité doctrinale sur toute la Cendara, et Pyrevane ne peut lever le moindre tribut sans validation royale. Deux vetos croisés, jamais brandis, toujours présents. Ce n'est pas un accord — c'est un armistice. Et les armistices ont la propriété de définir leurs termes par ce qu'ils interdisent plutôt que par ce qu'ils permettent.
 
-Le résultat est une ville qui fonctionne en deux temporalités parallèles. Le matin appartient à l'Ignis Aeternum : les prêtres mènent la procession des Feux de Veille au lever du soleil, et nul ne traverse les rues pendant la cérémonie. L'après-midi appartient au commerce et à l'administration — les délégués de Pyrevane tiennent leurs audiences dans le Temple Civique, les marchands négocient, les Maîtres de Forge exposent leur production au marché couvert du basalte. Le soir appartient à personne, et c'est dans ces heures-là qu'Arkhen est le plus elle-même : bruyante, discutant, disputant des droits d'eau et des concessions de mines avec l'enthousiasme que d'autres peuples mettraient dans leurs fêtes.
+Le résultat est une ville qui fonctionne en deux temporalités parallèles. Le matin appartient à l'Ignis Aeternum : les prêtres mènent la procession des Feux de Veille au lever du soleil, et nul ne traverse les rues pendant la cérémonie. L'après-midi appartient au commerce et à l'administration — les officiers du roi tiennent leurs audiences dans la Salle du Conseil, les marchands négocient, les Maîtres de Forge exposent leur production au marché couvert du basalte. Le soir appartient à personne, et c'est dans ces heures-là que Brumaris est le plus elle-même : bruyante, discutant, disputant des droits d'eau et des concessions de mines avec l'enthousiasme que d'autres peuples mettraient dans leurs fêtes.
 
 ---
 
@@ -54,7 +54,7 @@ Kessa versa le vin. Je payai. Je m'assis sur une caisse de basalte à côté de 
 
 Je lui demandai si elle était de la région.
 
-*Mylaris*, dit-elle. *Sur les flancs du Mont Cendra. Je suis venue à Arkhen il y a sept ans après la dernière coulée mineure — pas pour fuir, pour vendre. La coulée avait découpé un nouveau chemin dans la roche qui ouvrait vers les vignobles de Solarith, et les transporteurs avaient besoin de quelqu'un qui connaisse le terrain.*
+*Mylaris*, dit-elle. *Sur les flancs du Mont Cendra. Je suis venue à Brumaris il y a sept ans après la dernière coulée mineure — pas pour fuir, pour vendre. La coulée avait découpé un nouveau chemin dans la roche qui ouvrait vers les vignobles de Solarith, et les transporteurs avaient besoin de quelqu'un qui connaisse le terrain.*
 
 Elle connaissait le terrain. Elle connaissait le Mont Cendra. Et quand je lui demandai, prudemment, si les pulsations avaient changé — cette chose dont on parlait à Diamoris, dans les tavernes des ports, avec le ton de ceux qui savent quelque chose mais préfèrent ne pas savoir —, elle posa sa coupe et me regarda d'une façon différente.
 
@@ -68,9 +68,9 @@ Elle répondit longtemps après, en servant un autre client d'une main tandis qu
 
 ---
 
-Le repas que Kessa partagea avec moi ce soir-là — dans une taverne basse d'Arkhen aux murs couverts d'une suie ancienne qui donnait l'impression que l'endroit était lui-même forgé, non bâti — fut simple et précis. Des pois chiches mijotés dans de la graisse de bête volcanique avec des épices que je n'arrivai pas à nommer, un pain plat cuit sur la pierre brûlante du four central, deux coupes du vin de cendre qu'elle m'avait déjà vendu et qui avait ce goût de fumée et de fruits longs que les viticulteurs de Solarith décrivent comme la mémoire du sol. Elle mangea peu. Elle me regarda manger avec la curiosité tranquille de quelqu'un qui observe plutôt qu'elle ne participe.
+Le repas que Kessa partagea avec moi ce soir-là — dans une taverne basse d'Brumaris aux murs couverts d'une suie ancienne qui donnait l'impression que l'endroit était lui-même forgé, non bâti — fut simple et précis. Des pois chiches mijotés dans de la graisse de bête volcanique avec des épices que je n'arrivai pas à nommer, un pain plat cuit sur la pierre brûlante du four central, deux coupes du vin de cendre qu'elle m'avait déjà vendu et qui avait ce goût de fumée et de fruits longs que les viticulteurs de Solarith décrivent comme la mémoire du sol. Elle mangea peu. Elle me regarda manger avec la curiosité tranquille de quelqu'un qui observe plutôt qu'elle ne participe.
 
-Je lui parlai de Vaelorin. De Celethor et des mesures de l'archimage sur les perturbations. Elle m'écouta sans interrompre — une qualité que j'avais appris à valoriser, dans un voyage où la plupart des gens interrompaient par réflexe défensif ou par enthousiasme, rarement par calcul.
+Je lui parlai de Varennis. De Celethor et des mesures de l'archimage sur les perturbations. Elle m'écouta sans interrompre — une qualité que j'avais appris à valoriser, dans un voyage où la plupart des gens interrompaient par réflexe défensif ou par enthousiasme, rarement par calcul.
 
 Quand j'eus fini, elle dit : *À Mylaris, les chèvres s'agitent depuis deux saisons. Les gens qui lisent les bêtes disent que c'est plus fort qu'avant les grandes coulées. Plus profond dans le ventre.*
 
@@ -86,7 +86,7 @@ Elle eut un sourire qui n'était pas du mépris — quelque chose de plus compli
 
 ---
 
-Je montai vers le Mont Cendra trois jours plus tard, depuis Arkhen par le chemin des Calcinés — une route pavée de basalte que les prêtres-guerriers entretiennent depuis des générations, remplaçant chaque dalle que les tremblements soulèvent ou que les coulées déplacent, avec une régularité que j'aurais trouvée admirable si je n'avais pas eu les jambes aussi lourdes en montant. La chaleur augmentait avec l'altitude d'une façon qui n'avait rien à voir avec le soleil — elle venait d'en bas, de la roche elle-même, une chaleur persistante et sourde qui entrait par les semelles et remontait dans les os.
+Je montai vers le Mont Cendra trois jours plus tard, depuis Brumaris par le chemin des Calcinés — une route pavée de basalte que les prêtres-guerriers entretiennent depuis des générations, remplaçant chaque dalle que les tremblements soulèvent ou que les coulées déplacent, avec une régularité que j'aurais trouvée admirable si je n'avais pas eu les jambes aussi lourdes en montant. La chaleur augmentait avec l'altitude d'une façon qui n'avait rien à voir avec le soleil — elle venait d'en bas, de la roche elle-même, une chaleur persistante et sourde qui entrait par les semelles et remontait dans les os.
 
 Je n'étais pas seul. Kessa avait proposé de m'accompagner jusqu'au troisième plateau — elle avait affaire à Mylaris, où une famille de Solarith lui commandait du vin pour un mariage, et le chemin du Mont Cendra passait devant les vignobles qu'elle connaissait. Ce n'était pas de la générosité seule — elle voulait voir, elle aussi. Elle n'était pas retournée à Mylaris depuis deux saisons.
 
@@ -184,13 +184,13 @@ Je lui demandai laquelle.
 
 Il me regarda avec les yeux d'un homme qui reconnaît quelque chose qu'il cherchait depuis longtemps dans un endroit inattendu. Je ne sus pas quoi faire de ce regard.
 
-Je notai tout. Je repartis l'après-midi vers Arkhen, avec la pulsation du Mont Cendra dans la mémoire de ma poitrine et la certitude que quelque chose venait de changer dans ma compréhension de ce que je suis — ou de ce que je ne suis pas.
+Je notai tout. Je repartis l'après-midi vers Brumaris, avec la pulsation du Mont Cendra dans la mémoire de ma poitrine et la certitude que quelque chose venait de changer dans ma compréhension de ce que je suis — ou de ce que je ne suis pas.
 
 En descendant du temple par la ruelle qui longeait le mur de pierre d'un vignoble de Solarith, je m'arrêtai net. Un enfant était assis sur une marche, huit ou neuf ans peut-être, les genoux remontés sous le menton. Ses yeux étaient blancs — pas opaques, pas aveugles, blancs comme l'ivoire poli. J'avais entendu parler des Enfants aux Yeux Blancs à Vytharia, par un marchand qui les disait nés de plus en plus nombreux à Caeloria. Je n'en avais pas encore vu. Et il y en avait un, là, dans une ruelle volcanique de Cendara, à un demi-continent de l'endroit où on les disait apparaître.
 
 Il leva la tête en m'entendant. Il me regarda — pas comme on regarde un étranger, comme on reconnaît quelque chose. Il dit, dans un galenorien d'enfant qui apprend la langue d'un commerce voisin : *Ce que tu portes ne t'appartient pas encore.*
 
-Puis il se leva et entra dans la maison. Je n'ai pas cherché à le suivre. Je transcris la phrase mot pour mot — je l'ai répétée intérieurement tout le chemin de retour vers Arkhen pour ne pas la déformer. Le *encore* implique un devenir. Ce n'est pas un refus, c'est une condition. Je n'ai pas de cadre pour cela. J'attends d'en avoir un.
+Puis il se leva et entra dans la maison. Je n'ai pas cherché à le suivre. Je transcris la phrase mot pour mot — je l'ai répétée intérieurement tout le chemin de retour vers Brumaris pour ne pas la déformer. Le *encore* implique un devenir. Ce n'est pas un refus, c'est une condition. Je n'ai pas de cadre pour cela. J'attends d'en avoir un.
 
 ---
 

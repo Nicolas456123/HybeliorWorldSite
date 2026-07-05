@@ -77,7 +77,7 @@ Pouvoir centralisé et vertical :
 ## Régions
 
 ### Ardentia (R22)
-Cœur volcanique de Myrtam, bâtie sur un réseau de failles volcaniques actives alimentant les plus grandes forges du royaume. Sol instable, séismes fréquents, geysers de vapeur sulfureuse. Accès aux températures de forge les plus élevées d'Alkaran.
+Cœur volcanique de Myrtam, bâtie sur un réseau de failles volcaniques actives alimentant les plus grandes forges du royaume. Sol instable, séismes fréquents, geysers de vapeur sulfureuse. Accès aux températures de forge les plus élevées d'Onara.
 
 ### Xerathoria (R23)
 Région montagneuse aux pics déchiquetés, grenier minier de Myrtam. Veines de mithral et d'acier noir dans des galeries profondes de plusieurs kilomètres. Villages accrochés aux flancs, reliés par des passerelles de fer forgé au-dessus de ravins. Air sec, chargé de poussière métallique.
@@ -139,7 +139,7 @@ Hameau isolé au sommet d'un col venteux ; lieu de naissance supposé de Myr le 
 - Région : Xerathoria
 
 ### Lyraxoris
-Ville des alliages fins, réputée dans tout Alkaran pour ses lames de cérémonie et bijoux métalliques ; les armes des officiers royaux y sont forgées. Chaque pièce est unique, signée et numérotée (refus de la production de masse). Spécialisation née après que le roi interdit les commandes d'armes de cérémonie aux forges du nord ("trop brutes pour représenter la couronne") ; cent ans de perfectionnement ont rendu sa suprématie incontestée.
+Ville des alliages fins, réputée dans tout Onara pour ses lames de cérémonie et bijoux métalliques ; les armes des officiers royaux y sont forgées. Chaque pièce est unique, signée et numérotée (refus de la production de masse). Spécialisation née après que le roi interdit les commandes d'armes de cérémonie aux forges du nord ("trop brutes pour représenter la couronne") ; cent ans de perfectionnement ont rendu sa suprématie incontestée.
 - Population : Ville
 - Région : Lyraxia
 

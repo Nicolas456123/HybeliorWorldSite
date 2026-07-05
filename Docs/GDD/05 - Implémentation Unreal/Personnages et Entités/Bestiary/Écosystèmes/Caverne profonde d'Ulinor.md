@@ -2,7 +2,7 @@
 tags: [bestiaire, écosystème, biome, caverne, ulinor, souterrain, obscurité]
 type: écosystème
 biome_principal: Caverne profonde et souterrain
-régions: [Ulinor (Grand Canyon de l'Écho, Grottes de Cristal de Serenth), Myrtam mines (Alkaran), Endora-Iskara souterrains, sous-sols d'Evertia]
+régions: [Ulinor (Grand Canyon de l'Écho, Grottes de Cristal de Serenth), Myrtam mines (Onara), Endora-Iskara souterrains, sous-sols d'Evertia]
 climat: Constant, frais, humide, obscurité totale
 saisons_dominantes: [Pas de saisons — cycles d'inondation, de cristallisation, d'échos]
 espèces_dominantes: [Cristal vivant, Slime amorphe, Chauves-souris, Insectes cavernicoles, créatures aveugles]
@@ -15,7 +15,7 @@ needs_review_for: [chauves-souris-stub, créatures-aveugles-stub, druides-écho-
 
 # 💎 Caverne profonde d'Ulinor — Écosystème
 
-> Écosystème **souterrain stable**, royaume du sans-soleil. Couvre principalement **Ulinor** (l'Île des Échos — **Grand Canyon de l'Écho** sacré, **Grottes de Cristal de Serenth** qui amplifient ou détruisent la magie — cf. [[Géographie]]), les **mines de Myrtam** (Alkaran — Acier Éternel, fer, argent), les souterrains d'**Endora-Iskara** (Cités des Sables labyrinthiques), les **sous-sols d'Evertia** (gemmes), et les forteresses souterraines d'**Elarian** (Celethor — glace + cristaux). Domaine du **[[Cristal vivant]]** et du **[[Slime amorphe]]**.
+> Écosystème **souterrain stable**, royaume du sans-soleil. Couvre principalement **Ulinor** (l'Île des Échos — **Grand Canyon de l'Écho** sacré, **Grottes de Cristal de Serenth** qui amplifient ou détruisent la magie — cf. [[Géographie]]), les **mines de Myrtam** (Onara — Acier Éternel, fer, argent), les souterrains d'**Endora-Iskara** (Cités des Sables labyrinthiques), les **sous-sols d'Evertia** (gemmes), et les forteresses souterraines d'**Elarian** (Celethor — glace + cristaux). Domaine du **[[Cristal vivant]]** et du **[[Slime amorphe]]**.
 >
 > Voir [[Bestiary/Index]] · [[Géographie]] · [[Cristal vivant]] · [[Slime amorphe]] · [[Tisseur du Vide]]
 
@@ -25,7 +25,7 @@ needs_review_for: [chauves-souris-stub, créatures-aveugles-stub, druides-écho-
 
 **Localisation principale** :
 - **Ulinor** : confédération tribale animiste, ruines sacrées. **Grand Canyon de l'Écho** (lieu sacré, voix des anciens dieux). Île nord *Nylor* : **Druides de l'Écho**. Île sud *Serenth* : **Grottes de Cristal** (amplifient/détruisent la magie — cf. [[Géographie]]).
-- **Mines de Myrtam** (Alkaran) : forge légendaire, **Acier Éternel**.
+- **Mines de Myrtam** (Onara) : forge légendaire, **Acier Éternel**.
 - **Endora-Iskara** : Cités des Sables, labyrinthes souterrains.
 - **Evertia sous-sol** : riche en gemmes (alimente l'aristocratie de Caëspia).
 - **Elarian** (Celethor) : forteresses souterraines de glace et cristaux magiques.
@@ -211,7 +211,7 @@ DÉCOMPOSEURS :
 ## 8. Présence humanoïde & impact
 
 **Activités humaines** :
-- **Mining** : Myrtam (Acier Éternel — économie majeure d'Alkaran), Evertia (gemmes), Endora-Iskara (Cités des Sables).
+- **Mining** : Myrtam (Acier Éternel — économie majeure d'Onara), Evertia (gemmes), Endora-Iskara (Cités des Sables).
 - **Druides de l'Écho** (Ulinor-Nylor) : rituels, communion avec voix anciennes.
 - **Forge magique** : Elarian (forge de glace + cristaux).
 - **Pèlerinages** : Grand Canyon de l'Écho.

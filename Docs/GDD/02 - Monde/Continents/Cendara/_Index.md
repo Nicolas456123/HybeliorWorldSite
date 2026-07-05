@@ -134,7 +134,7 @@ Telle est Cendara : une terre prospère qui doute en silence, une religion magni
 
 - **Mont Cendra** — volcan-roi, axe cosmologique de l'archipel
 - **Cœur de Cendra** — pierre brûlante au sein du palais de Brumaris
-- **Sept Calderas** — Forge-Temples canoniques (Pyrevane-Mère, Mosrack, Vesthrim, Caldethor, Verre-Fondu, Ashenor, Cinderhold)
+- **Sept Calderas** — Forge-Temples canoniques (Pyrevane-Mère, Vorrask, Vesthrim, Caldethor, Verre-Fondu, Ashenor, Cinderhold)
 - **Détroit de Suie** — passage maritime le plus dangereux d'Hybelior
 - **Temple des Flammes Éternelles** — sanctuaire syncrétique d'Ilnara
 - **Stephe arkhenienne** — sol de cendre vieillie d'Aïkhar

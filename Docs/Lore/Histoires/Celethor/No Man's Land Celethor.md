@@ -191,7 +191,7 @@ Le sergent Valdris — celui qui donna son nom au campement — regarda l'ordre.
 
 « Non, » dit-il.
 
-Un mot. Un seul. Qui lui coûta tout — son rang, son clan, sa terre, son nom inscrit dans les registres d'Elarian. Vingt-six de ses soldats dirent le même mot. Le vingt-septième hésita, puis suivit, parce qu'il avait plus peur de vivre avec le souvenir de Frostheim en cendres que de mourir en exil.
+Un mot. Un seul. Qui lui coûta tout — son rang, son clan, sa terre, son nom inscrit dans les registres d'Elarian. Vingt-cinq de ses soldats dirent le même mot. Le vingt-sixième hésita, puis suivit, parce qu'il avait plus peur de vivre avec le souvenir de Frostheim en cendres que de mourir en exil. Ils étaient vingt-sept, le sergent compris.
 
 Ils marchèrent vers les Terres Brisées sans se retourner.
 
@@ -265,13 +265,13 @@ L'un des trois fonctionnaires corrompus d'Astravia qui protègent Eridorn est un
 
 Falthen ne se considère pas comme corrompu. Il se considère comme **réaliste**. Il sait que la Route Sourde fait circuler ce dont Astravia, Elarian et Ryldor ont besoin — et qu'aucun de ces pays ne peut admettre. Il considère que protéger Eridorn est une forme de service public. La rente trimestrielle est, dans son raisonnement, une compensation pour le risque qu'il prend.
 
-Il vit modestement. Il n'a pas dépensé un seul des paiements de la Tisseuse. Sa rente s'accumule depuis vingt-six ans dans la chambre forte de Brastoris. Sa femme ne sait pas. Ses enfants ne sauront jamais — il a laissé des consignes pour que la rente soit, à sa mort, restituée à la Tisseuse, *« qui en fera ce qu'elle voudra, et qui, je l'espère, comprendra que je n'en avais pas besoin »*.
+Il vit modestement. Il n'a pas dépensé un seul des paiements de la Tisseuse. Sa rente s'accumule depuis onze ans dans la chambre forte de Brastoris — depuis, presque jour pour jour, que la Tisseuse a compris les routes et l'a inclus. Sa femme ne sait pas. Ses enfants ne sauront jamais — il a laissé des consignes pour que la rente soit, à sa mort, restituée à la Tisseuse, *« qui en fera ce qu'elle voudra, et qui, je l'espère, comprendra que je n'en avais pas besoin »*.
 
 La Tisseuse comprend. Elle n'a jamais demandé à Falthen pourquoi il accumulait sans dépenser. Elle a sa propre lecture : Falthen accumule parce qu'il a besoin que la transaction soit *réelle*, pas parce qu'il a besoin de l'argent. Une rente non dépensée n'invalide pas le contrat ; elle le rend même plus solide. Falthen n'est pas corrompu *au sens où il abuserait de sa position*. Il est dans une convention qu'il a passée avec lui-même et qu'il honore.
 
 Cette nuance importe. Elle distingue Falthen des deux autres fonctionnaires corrompus d'Astravia (qui, eux, dépensent et profitent, et qui sont donc plus exposés à la chute). Falthen est invisible parce qu'il est *correct*. Personne n'enquêtera sur un homme qui vit modestement.
 
-Quand Falthen mourra — il a soixante-douze ans, sa santé décline —, la chambre forte de Brastoris contiendra cinquante-deux ans de rente accumulée. La Tisseuse en héritera officiellement par le testament secret de Falthen. Elle l'a déjà décidé : elle financera, avec cette somme, la création d'une école de cartographie indépendante à Brastoris, qui formera des Voilés à la lecture des cartes — exactement le genre d'école que le Magistère d'Astravia n'autoriserait pas. L'école s'appellera *« École Lethanis »*. Aucune publication ne fera le lien entre l'école et la Première Lectrice morte cinquante-huit ans plus tôt. La Tisseuse n'expliquera rien. Falthen, lui, n'aura plus rien à expliquer.
+Quand Falthen mourra — il a soixante-douze ans, sa santé décline —, la chambre forte de Brastoris contiendra une douzaine d'années de rente accumulée, intactes. La Tisseuse en héritera officiellement par le testament secret de Falthen. Elle l'a déjà décidé : elle financera, avec cette somme, la création d'une école de cartographie indépendante à Brastoris, qui formera des Voilés à la lecture des cartes — exactement le genre d'école que le Magistère d'Astravia n'autoriserait pas. L'école s'appellera *« École Lethanis »*. Aucune publication ne fera le lien entre l'école et la Première Lectrice morte cinquante-huit ans plus tôt. La Tisseuse n'expliquera rien. Falthen, lui, n'aura plus rien à expliquer.
 
 Ce sera, peut-être, la première brèche réelle dans la Loi figée d'Astravia depuis Lethanis. Personne ne la verra comme telle. C'est, exactement, ce qu'il faut pour qu'elle tienne.
 
@@ -305,6 +305,6 @@ Le campement existe en l'an 251. Il s'appelle *« Brynda-le-Refus »*. Il compte
 
 Si Brynda réussit, dans dix ou vingt ans, le campement deviendra un village. Les anciens soldats elariens qui auront refusé un ordre injuste pourront s'y rendre sans être Effacés *à vie* — ils seront temporairement perdus, le temps de comprendre s'ils peuvent rentrer. Quelques-uns rentreront, ayant su mieux dire *« non »* la prochaine fois. D'autres resteront.
 
-Aucune nation ne ratifiera ce dispositif. Il n'aura pas de nom officiel. Ce sera, à l'échelle d'Hybélior, l'une des plus belles inventions politiques du siècle. Personne ne la verra comme telle.
+Aucune nation ne ratifiera ce dispositif. Il n'aura pas de nom officiel. Ce sera, à l'échelle d'Hybelior, l'une des plus belles inventions politiques du siècle. Personne ne la verra comme telle.
 
 C'est, à Celethor, ainsi que les choses justes commencent — quand elles commencent : par une jeune femme qui dit *« non »* pour une grange, et par un commandant qui a la patience d'attendre qu'elle apprenne à dire *« non »* pour autre chose.

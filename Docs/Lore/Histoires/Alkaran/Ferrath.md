@@ -25,9 +25,11 @@ needs_review_for: []
 
 **An 200 — Premières alertes minières documentées.** Les chefs de mine notent, en privé, que les filons donnent moins. Aucun rapport synthétique ne consolide les chiffres à l'échelle nationale.
 
-**An 206 — Initiation de Veshva.** Treize ans, entrée en initiation Vael'Kari à la Caverne-Mère.
+**An 200 — Initiation de Veshva.** Treize ans, entrée en initiation Vael'Kari à la Caverne-Mère.
 
-**An 211 — Veshva passe les Cavernes de l'Écoute.** Reconnue Vael'Kari à 24 ans (en 211).
+**An 206 — Veshva passe les Cavernes de l'Écoute.** À dix-neuf ans, elle accomplit son passage.
+
+**An 211 — Veshva reconnue Vael'Kari.** À 24 ans (en 211).
 
 **An 215 — Incident d'Ulthral.** Une galerie remonte avec plusieurs Mineurs Silencieux, dont l'un parle exceptionnellement avant de mourir trois jours plus tard. Sa phrase, consignée dans un cahier vael'kurashe local : *« Sept respirations, et puis plus. »* La galerie est scellée. Les Mineurs Silencieux d'Ulthral commencent à augmenter en nombre.
 

@@ -70,17 +70,17 @@ Après l'Arrachement, le monde s'enfonça dans ce que les chroniqueurs appellent
 
 C'est l'âge des **seigneurs de forge** — petits domaines accrochés à un savoir-faire métallurgique, parce que la magie ne suffisait plus à nourrir un peuple. C'est aussi l'âge où le grand schisme religieux fractura les fidèles en trois camps : ceux qui croyaient les dieux endormis, ceux qui les croyaient morts, ceux qui les croyaient traîtres. Aucun n'a jamais convaincu les autres.
 
-Plus tard dans cette nuit longue advint le **Fléau des Failles** — un phénomène magique qui frappa spécifiquement les Tissés, ces êtres nés sans Lien, à travers les blessures temporelles laissées par Tempora. Et plus tard encore, la tyrannie qui s'ensuivit — les camps, les registres, les délations. La Grande Nuit n'est pas seulement une période de pauvreté ; c'est aussi celle où l'humanité d'Hybelior apprit ce dont elle était capable lorsqu'elle avait peur.
+Plus tard dans cette nuit longue advint le **Fléau des Failles** — un phénomène magique qui frappa spécifiquement les Tisses, ces porteurs d'une connexion résiduelle au Lien, à travers les blessures temporelles laissées par Tempora. Et plus tard encore, la tyrannie qui s'ensuivit — les camps, les registres, les délations. La Grande Nuit n'est pas seulement une période de pauvreté ; c'est aussi celle où l'humanité d'Hybelior apprit ce dont elle était capable lorsqu'elle avait peur.
 
 ### L'Ère des Nations
 
 Le monde finit pourtant par se relever, et lentement, sur des âges entiers, les peuples se mirent à réinventer la grande échelle. Des routes commerciales relièrent à nouveau les continents. Des monnaies standardisées circulèrent. Des **nations** émergèrent — non plus de vastes empires unifiés comme à l'Âge d'Or, mais une mosaïque de royaumes, de fédérations, de cités-États qui apprirent péniblement à négocier entre eux.
 
-Ce fut un âge de **guerres et de traités** : guerre du Panghor Brisé, guerre des Trois Couronnes, guerre des Détroits, guerre des Cinq Vents — chaque génération eut la sienne. Mais ce fut aussi l'âge où l'on signa un étalon métallique commun, où l'on tint un grand concile, où une seule république véritable osa naître et faire école. La civilisation s'était reconstituée — différente, plus prudente, plus polyphonique. Plus jamais elle n'eut la grandeur naïve de l'Âge du Lien, mais elle apprit à durer.
+Ce fut un âge de **guerres et de traités** : guerre du Panghor Brisé, guerre des Trois Couronnes, guerre des Détroits, Schismes d'Endora — chaque génération eut la sienne. Mais ce fut aussi l'âge où l'on signa un étalon métallique commun, où l'on tint un grand concile, où une seule république véritable osa naître et faire école. La civilisation s'était reconstituée — différente, plus prudente, plus polyphonique. Plus jamais elle n'eut la grandeur naïve de l'Âge du Lien, mais elle apprit à durer.
 
 ### Le Monde Actuel
 
-Et puis vint **maintenant** — cet âge dans lequel se déploie la Partie présente. Il s'ouvrit par un grand Traité signé par presque toutes les nations du monde, arbitré par la république qui avait inventé l'imprimerie. On crut un moment que la longue convalescence d'Hybelior était terminée.
+Et puis vint **maintenant** — cet âge dans lequel se déploie la Partie présente. Il s'ouvrit non sur un grand traité mondial — aucune nation n'a jamais accepté d'instrument commun —, mais sur un enchevêtrement d'accords régionaux péniblement négociés, et sur les conférences répétées, toutes manquées, que la république des imprimeurs convoquait pour tenter d'unir le monde sous un seul cadre. À voir tant d'accords se signer, on crut un moment que la longue convalescence d'Hybelior était terminée.
 
 Mais les signes se sont multipliés. Le Cœur d'un volcan s'accélère. Des esprits-lieux se sont tus, et le dernier message qu'on ait reçu d'eux était un avertissement. Une sphère de lumière a délivré, en plusieurs langues simultanées, un message obscur sur des routes qui se rouvriraient. Un village entier a disparu en quelques minutes, ne laissant qu'un sol de verre. Et dans l'ombre, des héritiers radicaux du dissident d'autrefois assassinent, méthodiquement, ceux qui défendent le Lien.
 
@@ -102,7 +102,7 @@ C'est pour cette raison que la frise est utile. Elle ne donne pas des dates ; el
 
 Les plus anciennes inscriptions d'Hybelior parlent de [[Le Souffle|Souffles Cardinaux]] — ces basculements rares qui ne sont pas des transitions ordinaires d'Ère, mais des reconfigurations de la Polyphonie elle-même. La frise canonique n'en reconnaît qu'un petit nombre, et même ceux-là sont disputés.
 
-Il y eut, dans la nuit des temps, l'**émergence** elle-même — quand la première vibration devint cinq voix éternelles. C'est le Cardinal des Cardinaux, celui sans lequel rien n'aurait pu être. Aucun mortel n'en a été témoin, et pourtant tous en sont les enfants.
+Il y eut, dans la nuit des temps, le **Cardinal du Premier Don** — le plus ancien que les théologiens osent nommer. Il ne date pas de l'émergence des Éternels, qui précède toute Ère mortelle, mais du moment où la **conscience** s'alluma chez les premiers mortels : avant lui, ils existaient sans se savoir exister ; après lui, ils surent, et avec ce savoir vint la possibilité du Lien, du nom, du rite. Aucun mortel n'en a gardé le souvenir, et pourtant tous en sont les enfants.
 
 Il y eut, au bout de l'Âge du Lien, ce qu'on appelle le **Souffle Cardinal de la Fracture** — un avertissement cosmique qui, plusieurs générations avant l'Arrachement, fit trembler les augures sans qu'on sache encore lire le signe. Ceux qui l'avaient vu vieillirent en se demandant ce qu'il annonçait. Ils moururent avant de comprendre.
 

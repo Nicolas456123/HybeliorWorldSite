@@ -9,11 +9,11 @@ needs_review_for: []
 
 ## Baeloris — « Les Naufragés du Silence »
 
-Baelor fut découverte par des moines en exil — des mystiques chassés de leur terre d'origine pour avoir pratiqué un culte jugé hérétique : le **silence sacré**. La date exacte n'est pas conservée ; les chroniques internes les plus anciennes la situent quelque cinq mille ans avant l'an actuel, ce qui en fait l'une des plus anciennes fondations religieuses d'Hybélior — antérieure à l'Arrachement, antérieure à la plupart des nations modernes.
+Baelor fut découverte par des moines en exil — des mystiques chassés de leur terre d'origine pour avoir pratiqué un culte jugé hérétique : le **silence sacré**. La date exacte n'est pas conservée ; les chroniques internes les plus anciennes la situent quelque cinq mille ans avant l'an actuel, ce qui en fait l'une des plus anciennes fondations religieuses d'Hybelior — antérieure à l'Arrachement, antérieure à la plupart des nations modernes.
 
 Ils croyaient que la parole corrompait la pensée, que le langage déformait la vérité, et que seul le silence absolu permettait d'entendre ce qui se disait *en dessous* du bruit du monde. Cette doctrine leur valut la persécution dans leur contrée d'origine — que la chronique baelorienne ne nomme plus. Ils s'enfuirent par mer. Leur navire fit naufrage dans la seule crique abritée de toute la côte nord de Baelor. Ils accostèrent vivants : sept hommes, quatre femmes, trois enfants, sans outils, sans matériaux, sans provisions au-delà de quelques jours.
 
-Ce qui suivit est l'objet du seul mythe fondateur que Baelor entretient, et il existe en plusieurs versions concurrentes (cf. [[Baelor - Continent#Mythes communs]]). Toutes s'accordent sur un point : ils **entendirent quelque chose** depuis les falaises de basalte, dans une langue qu'ils ne comprirent pas, et qui leur signifia — par la cadence, par le ton, par ce qu'ils nommaient *l'enseignement de la roche* — que **le silence était ce qu'il fallait** ici. Ils obéirent. Ils n'ont jamais cessé d'obéir.
+Ce qui suivit est l'objet du seul mythe fondateur que Baelor entretient, et il existe en plusieurs versions concurrentes (cf. [[Baelor - Continent#Croyances — la voix des falaises (lectures concurrentes)]]). Toutes s'accordent sur un point : ils **entendirent quelque chose** depuis les falaises de basalte, dans une langue qu'ils ne comprirent pas, et qui leur signifia — par la cadence, par le ton, par ce qu'ils nommaient *l'enseignement de la roche* — que **le silence était ce qu'il fallait** ici. Ils obéirent. Ils n'ont jamais cessé d'obéir.
 
 Pendant huit générations, ils sculptèrent à mains nues les premières cellules dans la falaise. Quand le commerce limité avec Tyndara leur permit enfin de se procurer des outils, ils les **refusèrent** : la lenteur du travail leur avait appris quelque chose que la vitesse ne pouvait pas. Chaque cellule fut creusée par celui qui l'habiterait, et cette pratique perdure — un Silentii contemporain creuse encore sa cellule à la main, sur une décennie, dans la roche que sept de ses prédécesseurs ont déjà façonnée.
 
@@ -21,9 +21,9 @@ Pendant huit générations, ils sculptèrent à mains nues les premières cellul
 
 ## Kethros — « La Défense du Monastère »
 
-L'événement fondateur de l'identité de Baelor — celui que les chroniques externes retiennent volontiers — est la **Défense du Monastère de Kethros**, datée de l'an 287 du Sillage actuel. Une flotte pirate de quarante navires, menée par le capitaine **Draven le Sanguinaire**, attaqua l'île pour s'emparer de ses trésors : les rumeurs des marchés de Lumasar parlaient d'or caché dans les monastères, d'enluminures de cinquante mille couronnes, de reliques cosmiques.
+L'événement fondateur de l'identité de Baelor — celui que les chroniques externes retiennent volontiers — est la **Défense du Monastère de Kethros**, que les chroniques externes situent quelque quatre siècles avant le Sillage actuel. Une flotte pirate de quarante navires, menée par le capitaine **Draven le Sanguinaire**, attaqua l'île pour s'emparer de ses trésors : les rumeurs des marchés de Lumasar parlaient d'or caché dans les monastères, d'enluminures de cinquante mille couronnes, de reliques cosmiques.
 
-Les pirates ne trouvèrent pas d'or — il n'y en a pas à Baelor. Ils trouvèrent trois cents moines-guerriers, silencieux comme des ombres et mortels comme des lames, qui défendirent Kethros pendant **sept jours**. Habitués à des victimes terrifiées, les pirates furent déstabilisés par des combattants qui ne criaient pas, ne suppliaient pas, ne parlaient pas — qui frappaient dans un silence absolu et mouraient dans le même silence. L'effet psychologique dépassa de loin l'effet militaire : les Bealoriens étaient moins nombreux et moins armés ; ce qu'ils avaient en plus était l'absence de bruit.
+Les pirates ne trouvèrent pas d'or — il n'y en a pas à Baelor. Ils trouvèrent trois cents moines-guerriers, silencieux comme des ombres et mortels comme des lames, qui défendirent Kethros pendant **sept jours**. Habitués à des victimes terrifiées, les pirates furent déstabilisés par des combattants qui ne criaient pas, ne suppliaient pas, ne parlaient pas — qui frappaient dans un silence absolu et mouraient dans le même silence. L'effet psychologique dépassa de loin l'effet militaire : les Baeloriens étaient moins nombreux et moins armés ; ce qu'ils avaient en plus était l'absence de bruit.
 
 Au septième jour, Draven se retira avec ce qui restait de sa flotte — onze navires sur quarante. Il jura, dit-on, de ne jamais revenir. Les moines ne célébrèrent pas leur victoire. Ils enterrèrent les morts des deux camps avec le même respect, dans des tombes anonymes creusées dans la falaise sud, puis reprirent leur méditation. Le bilan exact — moines tombés, civils côtiers tués, pirates abattus — n'a jamais été tenu : compter des morts, dans la doctrine, c'est leur ajouter du bruit.
 
@@ -39,9 +39,9 @@ Quatre siècles plus tard, les Veilleurs de Thyldris ont développé leur propre
 
 ## L'Ère Contemplative — « L'Enracinement de la Règle »
 
-Entre l'an 290 et l'an 200 environ — soit pendant plus de quatre siècles —, Baelor entra dans ce que les chroniques internes appellent **l'Ère Contemplative**. La règle se densifia. Les paliers de silence se codifièrent. Les **deux Voiles**, Premier et Second, se cristallisèrent comme deux écoles distinctes. L'art martial du **Poing Silencieux** atteignit la précision qu'il a aujourd'hui. Les ateliers d'enluminure de Tholmë et de Velkadra produisirent leur premier âge d'or. La nation prospéra dans l'austérité — chose rare à formuler, exacte à observer.
+Dans les siècles qui suivirent la Défense de Kethros — sur plus de quatre siècles, selon les chroniques internes —, Baelor entra dans ce que ces mêmes chroniques appellent **l'Ère Contemplative**. La règle se densifia. Les paliers de silence se codifièrent. Les **deux Voiles**, Premier et Second, se cristallisèrent comme deux écoles distinctes. L'art martial du **Poing Silencieux** atteignit la précision qu'il a aujourd'hui. Les ateliers d'enluminure de Tholmë et de Velkadra produisirent leur premier âge d'or. La nation prospéra dans l'austérité — chose rare à formuler, exacte à observer.
 
-Cette ère est aussi celle où la règle **cessa d'être interrogée**. Les premiers Bealoriens débattaient — par lamelle, par geste, par retrait dans une grotte — des bonnes formes du silence. Leurs successeurs, à partir d'un point que personne ne peut dater, ont **transmis** ces formes au lieu de les questionner. La doctrine se rigidifia ; elle continua de paraître humble parce que sa forme était humble ; elle devint l'une des Lois les plus figées du continent connu.
+Cette ère est aussi celle où la règle **cessa d'être interrogée**. Les premiers Baeloriens débattaient — par lamelle, par geste, par retrait dans une grotte — des bonnes formes du silence. Leurs successeurs, à partir d'un point que personne ne peut dater, ont **transmis** ces formes au lieu de les questionner. La doctrine se rigidifia ; elle continua de paraître humble parce que sa forme était humble ; elle devint l'une des Lois les plus figées du continent connu.
 
 ---
 
@@ -135,9 +135,9 @@ Sa cellule a été conservée intacte, par décision du Maître des Veilleurs de
 
 ## Tholmë — « La Lamelle Non Scellée »
 
-Hesvar de Tholmë vécut soixante-neuf ans dont vingt en silence du Second Voile, treize en retrait dans une grotte de la côte ouest, et seize en présence sans pratique au cœur de son cloître d'origine. Aucune des trois périodes n'a produit de doctrine. Aucune n'a produit de disciple. C'est, pour les chroniques officielles, une vie sans poids.
+Hesvar de Tholmë vécut soixante-neuf ans dont quatorze en silence du Second Voile, treize en retrait dans une grotte de la côte ouest, et seize en présence sans pratique au cœur de son cloître d'origine. Aucune des trois périodes n'a produit de doctrine. Aucune n'a produit de disciple. C'est, pour les chroniques officielles, une vie sans poids.
 
-Elle entra à Tholmë à dix-neuf ans, prit le Premier Voile à vingt, le Second à vingt-six. Pendant les vingt années qui suivirent, elle ne fit rien de remarquable. Elle enseigna l'enluminure aux novices. Elle prit son tour aux Heures Vides. Elle scella ses lamelles avec la régularité d'un oiseau qui pond. Personne, dans son cloître, n'aurait pu prédire ce qui arriverait.
+Elle entra à Tholmë à dix-neuf ans, prit le Premier Voile à vingt, le Second à vingt-six. Pendant les quatorze années qui suivirent, elle ne fit rien de remarquable. Elle enseigna l'enluminure aux novices. Elle prit son tour aux Heures Vides. Elle scella ses lamelles avec la régularité d'un oiseau qui pond. Personne, dans son cloître, n'aurait pu prédire ce qui arriverait.
 
 À quarante ans, elle quitta le cloître sans prévenir. Pas par geste d'adieu, pas par lamelle scellée laissée sur sa natte, pas par regard appuyé. Elle se leva un matin après l'Heure Vide, prit son bol et son stylet d'enluminure, et descendit le sentier vers la côte ouest. Personne ne la vit partir. Personne ne la chercha. C'est ainsi que Tholmë comprit qu'elle était partie : par son absence.
 
@@ -223,7 +223,7 @@ Pendant les saisons qui suivirent, les bergers voisins remarquèrent quelque cho
 
 Puis un autre berger commença, lentement, à reprendre la pratique. On ne sait pas qui. Les versions divergent. Selon la lamelle d'Olfra, c'est un fils que le premier berger n'avait pas reconnu officiellement. Selon les bergers contemporains, c'est un homme qui n'avait aucun lien avec le premier — qui simplement, en passant, vit un cairn écroulé un matin et reposa la pierre, et recommença le lendemain. Peu importe lequel. La pratique reprit. Elle dure encore.
 
-Aujourd'hui, sur le plateau central, dans le Voile bas, une trentaine de cairns marquent des passages. Ils sont entretenus collectivement, sans coordination, par les bergers qui passent. Aucun ne sait combien il y en avait à l'origine. Aucun ne demande pourquoi ils sont là. Quelques-uns disent — par geste, et en privé — que **c'est le travail le plus important qu'on fait à Baelor**. La majorité des Bealoriens, s'ils étaient interrogés, ne pourraient même pas situer la pratique dans la doctrine.
+Aujourd'hui, sur le plateau central, dans le Voile bas, une trentaine de cairns marquent des passages. Ils sont entretenus collectivement, sans coordination, par les bergers qui passent. Aucun ne sait combien il y en avait à l'origine. Aucun ne demande pourquoi ils sont là. Quelques-uns disent — par geste, et en privé — que **c'est le travail le plus important qu'on fait à Baelor**. La majorité des Baeloriens, s'ils étaient interrogés, ne pourraient même pas situer la pratique dans la doctrine.
 
 C'est peut-être ce qui la rend juste.
 

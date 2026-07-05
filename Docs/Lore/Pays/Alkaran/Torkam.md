@@ -111,7 +111,7 @@ Lieu et non ville : immense cuvette naturelle entourée de mesas de grès rouge,
 - Région : Olkanir
 
 ### Olkanoris — Capitale permanente
-Seul établissement véritablement permanent de Torkam : petite cité bâtie autour d'une source intarissable, où les chamans les plus âgés conservent les archives orales. Résidence du Grand Cham entre les rassemblements. Selon la tradition, la source jaillit du roc le jour même de la mort de Zarek (vue comme son eau vitale offerte à la terre) ; elle ne s'est jamais tarie en cinq siècles, et les chamans affirment qu'elle ne tarira que le jour où le Pacte sera rompu.
+Seul établissement véritablement permanent de Torkam : petite cité bâtie autour d'une source intarissable, où les chamans les plus âgés conservent les archives orales. Résidence du Grand Cham entre les rassemblements. Selon la tradition, la source jaillit du roc le jour même de la mort de Zarek (vue comme son eau vitale offerte à la terre) ; elle ne s'est jamais tarie en deux siècles et demi, et les chamans affirment qu'elle ne tarira que le jour où le Pacte sera rompu.
 - Population : Capitale
 - Région : Olkanir
 

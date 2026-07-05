@@ -9,7 +9,7 @@ needs_review_for: []
 
 > *"Ils ont pris mes cartes mais pas mon œil. Ils ont volé mes accréditations mais pas ma mémoire. Ce qu'ils n'ont pas compris — ce que les institutions ne comprennent jamais — c'est que l'on ne cartographie pas les lieux avec les mains. On les cartographie avec les heures qu'on y a passées à regarder."*
 
-**Galenor — Kharazir, région de Hiliara**
+**Galenor — Kharazir, région de Nomadaro**
 **Jour 1 du voyage**
 
 ---
@@ -56,7 +56,7 @@ Je me suis demandé, à ce moment précis, combien de ceux que je regardais sava
 
 ---
 
-Les tunnels. Il faut que j'écrive cela maintenant, ici, dans ce carnet, parce que personne d'autre ne l'écrira. Le Grand Recteur Thalendris a classifié mon rapport dans un système d'archives qui rend effectivement son existence impossible à prouver sans les accréditations que je n'ai plus. Les tunnels eux-mêmes ont été scellés avec de la maçonnerie fraîche — j'en ai eu confirmation par une source dont je ne citerai pas le nom. Dans dix ans, dans vingt ans, quelqu'un rebâtira par-dessus sans savoir ce qu'il y a dessous, et les inscriptions disparaîtront derrière du mortier neuf.
+Les tunnels. Il faut que j'écrive cela maintenant, ici, dans ce carnet, parce que personne d'autre ne l'écrira. Mon rapport a été classifié dans un système d'archives qui rend effectivement son existence impossible à prouver sans les accréditations que je n'ai plus — classifié ici, à Rukhsar, mais sur un mot venu d'ailleurs, de Prismalith, du bureau du Grand Recteur Thalendris. Nos Bibliothèques n'ont pas de Recteur ; elles ont des directeurs qui savent à quelle porte, à Lumasar, on envoie ce qui gêne, et qui obéissent à la réponse avant même qu'elle ait fini d'arriver. Les tunnels eux-mêmes ont été scellés avec de la maçonnerie fraîche — j'en ai eu confirmation par une source dont je ne citerai pas le nom. Dans dix ans, dans vingt ans, quelqu'un rebâtira par-dessus sans savoir ce qu'il y a dessous, et les inscriptions disparaîtront derrière du mortier neuf.
 
 Voici ce que j'ai trouvé, aussi exactement que ma mémoire peut le restituer, parce que ma mémoire est tout ce qu'il me reste.
 
@@ -78,7 +78,7 @@ Je dois la décrire ici parce qu'elle mérite d'exister dans quelque chose qui n
 
 Elle est venue chez moi la nuit précédant la saisie. Deux coups brefs sur la porte, le code que nous utilisions depuis deux ans pour les échanges de documents confidentiels, une habitude professionnelle qui avait pris une dimension nouvelle. Elle portait un manteau sombre et l'air de quelqu'un qui a marché vite.
 
-Elle m'a dit, rapidement et à voix basse, ce qu'elle avait entendu dans le couloir entre le bureau du directeur des Archives et la salle des Voix. Mon rapport avait atteint le Grand Recteur Thalendris avant même d'avoir été formellement enregistré dans le système des Bibliothèques — quelqu'un l'avait transmis directement, en court-circuitant les procédures habituelles. La décision de classement était venue dans les deux heures. L'accusation de sympathie Catena Fracta était apparue dans les vingt-quatre heures suivantes, sortie d'un dossier que je n'avais jamais vu et qui, si l'on en croyait sa date de création, existait avant ma naissance.
+Elle m'a dit, rapidement et à voix basse, ce qu'elle avait entendu dans le couloir entre le bureau du directeur des Archives et la salle des Voix. Mon rapport n'avait même pas été formellement enregistré dans le système des Bibliothèques : le directeur l'avait classé lui-même, dans les deux heures, sans en référer à personne — parce que tout ce qui touche aux Déliés d'avant l'Arrachement tombe, depuis des années, sous une consigne permanente venue de Prismalith. Une copie était partie le soir même par la malle rapide vers le Grand Recteur Thalendris ; ce qui reviendrait de lui, treize jours plus tard, ne ferait que confirmer un enterrement déjà creusé. L'accusation de sympathie Catena Fracta, elle, était apparue dès le lendemain, sortie d'un dossier que je n'avais jamais vu et qui, si l'on en croyait sa date de création, existait avant ma naissance.
 
 Elle m'a dit tout cela debout dans l'embrasure de ma porte, refusant d'entrer, parce qu'elle savait que sa présence chez moi risquait de suffire à faire peser le même soupçon sur elle.
 

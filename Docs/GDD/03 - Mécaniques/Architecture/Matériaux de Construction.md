@@ -5,7 +5,7 @@ status: drafted
 last_review: 2026-05-12
 ---
 
-# 🧱 Les matières du bâti — ce avec quoi Hybélior s'élève
+# 🧱 Les matières du bâti — ce avec quoi Hybelior s'élève
 
 > *« Demande à un mur de quoi il est fait. Il te répondra par sa carrière, par sa forêt, par sa coulée de lave. La pierre se souvient toujours d'où elle vient. »*
 >
@@ -15,7 +15,7 @@ last_review: 2026-05-12
 
 ## Pourquoi parler des matières
 
-Toute construction d'Hybélior se ramène, en dernière analyse, à une poignée de **matières premières** que les peuples du monde savent récolter, transformer, assembler. Pierre, bois, terre cuite, métal, verre, tissu, cuir, parfois cristal, parfois quelques matières rares qu'on n'emploie qu'aux plus hauts rangs.
+Toute construction d'Hybelior se ramène, en dernière analyse, à une poignée de **matières premières** que les peuples du monde savent récolter, transformer, assembler. Pierre, bois, terre cuite, métal, verre, tissu, cuir, parfois cristal, parfois quelques matières rares qu'on n'emploie qu'aux plus hauts rangs.
 
 Chaque matière a son histoire. Elle vient d'un lieu — une carrière, une forêt, un lac de chaux, une mine, un atelier. Elle passe par des mains — celles d'un mineur, d'un bûcheron, d'un maçon, d'un fondeur, d'un verrier. Elle reçoit une transformation — taillée, sciée, cuite, fondue, soufflée, tissée — avant d'arriver sur le chantier. Et c'est là qu'elle entre dans le mur, dans le plancher, dans la toiture, dans le mobilier qu'on viendra meubler à son tour.
 
@@ -29,7 +29,7 @@ Cette page ne dresse pas la liste de tout ce qui se bâtit. Elle raconte les **g
 >
 > *— inscription au seuil de la Carrière de Lumasar*
 
-La pierre est la première matière du bâti. Elle est partout sous nos pieds ; elle ne brûle pas, ne pourrit pas, ne s'altère qu'à des échelles de temps qui dépassent les vies humaines. Tous les peuples d'Hybélior bâtissent en pierre dès qu'ils en ont les moyens — parce que la pierre, c'est la **durée**.
+La pierre est la première matière du bâti. Elle est partout sous nos pieds ; elle ne brûle pas, ne pourrit pas, ne s'altère qu'à des échelles de temps qui dépassent les vies humaines. Tous les peuples d'Hybelior bâtissent en pierre dès qu'ils en ont les moyens — parce que la pierre, c'est la **durée**.
 
 On l'extrait dans les **carrières**, à ciel ouvert ou en galeries souterraines. Le métier du **mineur** la dégage du sol ; celui du **tailleur de pierre** lui donne sa forme. Aux échelles les plus modestes, la pierre est simplement ramassée dans les champs et empilée en murs sans mortier — on parle alors de pierre brute. Aux échelles plus élevées, elle est taillée à la main, cube par cube, par des artisans qui apprennent leur geste pendant des années. Aux sommets, on travaille des **pierres nobles** : le **marbre** des grandes capitales, le **granite** des forteresses transgénérationnelles, l'**ardoise** des toitures distinguées.
 
@@ -65,7 +65,7 @@ Au-dessus de la tuile, les toitures distinguées emploient l'**ardoise** — qu'
 
 ## La chaux et le plâtre — les liants
 
-Entre les pierres et les briques, il faut un liant. Sans lui, un mur ne tient pas. Ce liant, c'est le **mortier** — et le mortier d'Hybélior se fait avec de la **chaux**.
+Entre les pierres et les briques, il faut un liant. Sans lui, un mur ne tient pas. Ce liant, c'est le **mortier** — et le mortier d'Hybelior se fait avec de la **chaux**.
 
 La chaux s'obtient en **cuisant** une pierre calcaire dans un four à très haute température, puis en l'**éteignant** par adjonction d'eau. Cette opération produit une matière vive, dangereuse à manipuler, qu'on mélange ensuite avec du sable et de l'eau pour faire du mortier. Le **chaulier** est l'artisan obscur de cette filière — métier rude, peu reconnu, indispensable. Sans lui, aucun maçon ne pourrait dresser un mur durable.
 
@@ -155,7 +155,7 @@ Toutes ces matières partagent une chose : elles ne se vendent pas sur les march
 
 ## Les variants régionaux
 
-Chaque région d'Hybélior porte ses matières signatures, et c'est par elles, plus que par les ornements, qu'on reconnaît d'où vient un bâtiment. Voici quelques signatures qui distinguent les grandes nations :
+Chaque région d'Hybelior porte ses matières signatures, et c'est par elles, plus que par les ornements, qu'on reconnaît d'où vient un bâtiment. Voici quelques signatures qui distinguent les grandes nations :
 
 | Région | Matière signature |
 |---|---|

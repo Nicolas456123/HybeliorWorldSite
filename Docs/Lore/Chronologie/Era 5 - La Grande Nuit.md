@@ -122,7 +122,7 @@ Cette contraction geographique des alliances sociales dure 500-800 ans selon les
 
 #### Decades 16-20 (An 150-200) — Les Premiers Noms
 
-- **An 150-200** : Les premiers "noms" de la Grande Nuit apparaissent dans les archives — des chefs de clan, des seigneurs locaux, des pretres fondateurs dont les genealogies seront revendiquees pendant des siecles. Hadris Tharnok est de cette generation (~160-230 ap.A, dates approximatives) — premier grand unificateur documenté.
+- **An 150-200** : Les premiers "noms" de la Grande Nuit apparaissent dans les archives — des chefs de clan, des seigneurs locaux, des pretres fondateurs dont les genealogies seront revendiquees pendant des siecles. Ce sont les fondateurs des premieres lignees dynastiques dont se reclameront, quatre siecles plus tard, les grands unificateurs comme Hadris Tharnok (~560-650 ap.A, cf. Royaume de Tharnok).
 
 ---
 

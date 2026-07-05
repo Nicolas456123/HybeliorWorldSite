@@ -26,7 +26,7 @@ SORT file.name ASC
 ## Contenu
 
 - [[PNJ]] — présence, archétypes, mémoire des habitants
-- [[Bestiaire/Index|Bestiaire]] — taxonomie du vivant d'Hybélior, écosystèmes, statuts
+- [[Bestiaire/Index|Bestiaire]] — taxonomie du vivant d'Hybelior, écosystèmes, statuts
 - [[Comportements PNJ/Index|Comportements PNJ]] — la décision d'un habitant, ses routines, ses humeurs
 
 ---

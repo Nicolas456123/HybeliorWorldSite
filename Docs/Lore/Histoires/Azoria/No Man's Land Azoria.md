@@ -167,7 +167,7 @@ Ce qui est sûr, c'est la conséquence. L'événement renforça la mauvaise rép
 
 ---
 
-## Velkmis-Refuge (continent Solmaris) — « Le Nom Qui Ne Se Prononce Pas »
+## Velkmis-Refuge (nation Solmaris) — « Le Nom Qui Ne Se Prononce Pas »
 
 *Note : cette histoire concerne un village solmarien à proximité du No Man's Land, et figure ici parce que sa transmission s'est faite par les pêcheurs de Tarnora et de Fyloria autant que par les Veilleurs solaires.*
 

@@ -5,7 +5,7 @@ status: drafted
 last_review: 2026-05-12
 ---
 
-# 👷 Le chantier et ses ouvriers — qui bâtit Hybélior
+# 👷 Le chantier et ses ouvriers — qui bâtit Hybelior
 
 > *« Un chantier est la seule chose qu'un homme seul ne peut pas faire et qu'aucune nation ne peut éviter. Entre les deux, tout l'art de bâtir tient debout. »*
 >
@@ -15,9 +15,9 @@ last_review: 2026-05-12
 
 ## L'art de bâtir à plusieurs
 
-Bâtir, à Hybélior, n'a jamais été un geste individuel. Même la cabane la plus modeste demande déjà la pierre d'un mineur, la planche d'un menuisier, la tuile d'un tuilier — et la cabane est ce qu'on appelle un **auto-chantier**, où l'habitant fait l'essentiel lui-même. Tout ce qui dépasse ce rang exige une **équipe coordonnée**, une **hiérarchie de chantier**, et bien souvent une **corporation** qui formera les apprentis et garantira la qualité de l'ouvrage.
+Bâtir, à Hybelior, n'a jamais été un geste individuel. Même la cabane la plus modeste demande déjà la pierre d'un mineur, la planche d'un menuisier, la tuile d'un tuilier — et la cabane est ce qu'on appelle un **auto-chantier**, où l'habitant fait l'essentiel lui-même. Tout ce qui dépasse ce rang exige une **équipe coordonnée**, une **hiérarchie de chantier**, et bien souvent une **corporation** qui formera les apprentis et garantira la qualité de l'ouvrage.
 
-Cette page raconte les **métiers du bâti** et la manière dont ils s'organisent sur un chantier — de la première fondation au dernier ornement. Elle ne dresse pas un organigramme abstrait ; elle décrit la vie réelle des chantiers d'Hybélior, telle qu'elle se vit dans les corporations d'Evertia, les fraternités d'Altram, les sociétés de la charpente haute de Trinoria.
+Cette page raconte les **métiers du bâti** et la manière dont ils s'organisent sur un chantier — de la première fondation au dernier ornement. Elle ne dresse pas un organigramme abstrait ; elle décrit la vie réelle des chantiers d'Hybelior, telle qu'elle se vit dans les corporations d'Evertia, les fraternités d'Altram, les sociétés de la charpente haute de Trinoria.
 
 ---
 
@@ -29,11 +29,11 @@ Cette page raconte les **métiers du bâti** et la manière dont ils s'organisen
 
 L'**Architecte** est le métier princier du bâti. Il n'est ni maçon ni charpentier ; il ne pose ni pierre ni planche. Son geste est celui du **plan** — la conception qui anticipe ce que les mains réaliseront. Son œil voit l'ensemble quand chacun des ouvriers ne voit que sa tâche. Sa signature répondra de l'œuvre quand elle sera debout.
 
-À Hybélior, on ne devient pas Architecte par un certificat ; on le devient par un **apprentissage long** auprès d'un Maître reconnu, suivi d'un **chef-d'œuvre** — un premier ouvrage entièrement conçu et supervisé par l'apprenti devenu adulte, sous la garantie de son Maître. Ce chef-d'œuvre, s'il tient debout après une décennie, vaudra reconnaissance officielle. S'il s'effondre, l'apprenti redescendra dans la hiérarchie de la corporation et ne reprendra ce rang qu'après un nouvel ouvrage acquitté.
+À Hybelior, on ne devient pas Architecte par un certificat ; on le devient par un **apprentissage long** auprès d'un Maître reconnu, suivi d'un **chef-d'œuvre** — un premier ouvrage entièrement conçu et supervisé par l'apprenti devenu adulte, sous la garantie de son Maître. Ce chef-d'œuvre, s'il tient debout après une décennie, vaudra reconnaissance officielle. S'il s'effondre, l'apprenti redescendra dans la hiérarchie de la corporation et ne reprendra ce rang qu'après un nouvel ouvrage acquitté.
 
 L'Architecte travaille **au-delà du chantier physique**. Avant que la première pierre soit posée, il a déjà passé des mois — parfois des années — à dessiner les plans, calculer les charges, choisir les matériaux, négocier avec les corps de métier, présenter l'ouvrage au commanditaire. Pendant le chantier, il **supervise** : il visite les ateliers, vérifie les fournitures, corrige les écarts, tranche les désaccords entre artisans. Après le chantier, il **garantit** : son nom reste attaché à l'ouvrage, et sa réputation s'élève ou s'effondre avec lui.
 
-Les paliers de l'Architecte sont les paliers classiques des métiers d'Hybélior : Novice, Initié, Adepte, Expert, Maître. Le rang à partir duquel un Architecte peut signer un ouvrage dépend du rang du bâti :
+Les paliers de l'Architecte sont les paliers classiques des métiers d'Hybelior : Novice, Initié, Adepte, Expert, Maître. Le rang à partir duquel un Architecte peut signer un ouvrage dépend du rang du bâti :
 
 | Rang du bâti à concevoir | Palier minimum de l'Architecte |
 |---|---|
@@ -64,7 +64,7 @@ Aux échelles modestes, le tailleur travaille la pierre commune des champs ; ses
 
 Le **maçon** est, sur le chantier, l'ouvrier dont dépend le bâtiment entier. C'est lui qui assemble la pierre taillée en murs droits, qui monte les voûtes en arcs, qui dresse les cheminées, qui pose les fondations sur lesquelles tout le reste s'élèvera. Son outil principal est la **truelle** ; son matériau secondaire, le **mortier** ; sa science, la **mise à niveau** — fil à plomb, équerre, niveau d'eau.
 
-À Hybélior, le maçon apprend pendant cinq à sept ans avant d'être reconnu Initié. Aux paliers supérieurs, il se spécialise — maçon de fondation, maçon de voûte, maçon de cheminée, maçon-restaurateur (pour les ouvrages anciens), parfois maçon-réfractaire (pour les forges et les fours). Les maçons d'Altram, formés autour de la pierre noire d'Alkaran, ont la réputation de bâtir les murs les plus solides du continent — il faut, dit-on, trois siècles pour qu'un mur altrami commence à se fissurer.
+À Hybelior, le maçon apprend pendant cinq à sept ans avant d'être reconnu Initié. Aux paliers supérieurs, il se spécialise — maçon de fondation, maçon de voûte, maçon de cheminée, maçon-restaurateur (pour les ouvrages anciens), parfois maçon-réfractaire (pour les forges et les fours). Les maçons d'Altram, formés autour de la pierre noire d'Alkaran, ont la réputation de bâtir les murs les plus solides du continent — il faut, dit-on, trois siècles pour qu'un mur altrami commence à se fissurer.
 
 ### Le sculpteur
 
@@ -80,13 +80,13 @@ Le sculpteur n'est pas un artisan de structure — il intervient **après** que 
 
 Avant tout chantier, il faut couper. Le **bûcheron** abat l'arbre dans la forêt, le débite en grumes, le hisse jusqu'à la scierie ou la rivière où il sera flotté. C'est un métier de force et de risque — la chute d'un arbre mal entaillé peut tuer un homme.
 
-À Hybélior, les bûcherons des grandes forêts sont organisés en sociétés qui contrôlent les coupes. On ne coupe pas n'importe où, n'importe comment — chaque forêt a ses zones autorisées, ses rotations, ses arbres protégés. À **Trinoria**, ces sociétés ont une importance politique de premier plan ; couper un arbre sans leur accord, sur leur territoire, peut valoir l'exil.
+À Hybelior, les bûcherons des grandes forêts sont organisés en sociétés qui contrôlent les coupes. On ne coupe pas n'importe où, n'importe comment — chaque forêt a ses zones autorisées, ses rotations, ses arbres protégés. À **Trinoria**, ces sociétés ont une importance politique de premier plan ; couper un arbre sans leur accord, sur leur territoire, peut valoir l'exil.
 
 ### Le charpentier
 
 Le **charpentier** travaille le bois lourd — poutres, fermes, chevrons, mâts, ponts en bois, échafaudages. Il est, sur le chantier, l'ouvrier qui **monte la charpente** — l'ossature de bois qui portera le toit. Sans charpentier, pas de toit ; pas de toit, pas de bâtiment.
 
-Le métier exige de la force physique, de la précision géométrique, et une compréhension des **assemblages** — tenons, mortaises, queues d'aronde, embrèvements. Les charpentes hautes des cathédrales d'Hybélior peuvent atteindre des proportions vertigineuses ; celle de la cathédrale capitale de Lumasar passe pour l'une des plus vastes du monde habité.
+Le métier exige de la force physique, de la précision géométrique, et une compréhension des **assemblages** — tenons, mortaises, queues d'aronde, embrèvements. Les charpentes hautes des cathédrales d'Hybelior peuvent atteindre des proportions vertigineuses ; celle de la cathédrale capitale de Lumasar passe pour l'une des plus vastes du monde habité.
 
 À Trinoria, les **Charpentiers de la Haute** — corporation propre à la nation — ont fait du métier un art à part : leurs hauts-perchoirs forestiers tiennent dans les arbres sans cloue ni cheville, par seul assemblage, et ces ouvrages survivent à des siècles de tempêtes.
 
@@ -100,7 +100,7 @@ C'est aussi le menuisier qui fait le **mobilier** — meubles fixes ou portables
 
 Le **couvreur** ferme le toit. Sur un toit de chaume, il assemble la paille bottelée en couches épaisses ; sur un toit de tuile, il pose les tuiles une à une selon un agencement qui empêche la pluie d'entrer ; sur un toit d'ardoise, il fend et cloue les plaques selon un patron précis ; sur un toit de bardeau, il assemble les plaquettes en écailles. Le métier varie selon la matière, mais sa fonction est constante : **rendre le bâtiment étanche par le dessus**.
 
-À Hybélior, le couvreur est souvent considéré comme une **sous-spécialisation** du charpentier — beaucoup de charpentiers savent couvrir, et beaucoup de couvreurs ont commencé par la charpente. Mais dans les grandes villes, le métier s'autonomise, surtout pour la tuile et l'ardoise. Les couvreurs d'ardoise de Cestra forment une corporation indépendante depuis trois siècles.
+À Hybelior, le couvreur est souvent considéré comme une **sous-spécialisation** du charpentier — beaucoup de charpentiers savent couvrir, et beaucoup de couvreurs ont commencé par la charpente. Mais dans les grandes villes, le métier s'autonomise, surtout pour la tuile et l'ardoise. Les couvreurs d'ardoise de Cestra forment une corporation indépendante depuis trois siècles.
 
 ---
 
@@ -128,7 +128,7 @@ Aux paliers supérieurs, on parle de **forgeron architectural** — sous-spécia
 
 Aux plus hauts rangs du bâti, on emploie les **métaux précieux** — or pour les coupoles et les dorures, argent pour les lustres et les ornements de mobilier — et l'on sertit ces métaux de **gemmes**. C'est le travail des **orfèvres** (métaux précieux) et des **bijoutiers** (gemmes serties).
 
-Ces métiers, à Hybélior, sont les artisans qui ferment l'ouvrage — ils interviennent après tous les autres, sur les pièces les plus visibles et les plus prestigieuses. Une cathédrale capitale peut mobiliser un orfèvre maître pendant des décennies, simplement pour ses ornements précieux. Le lapidaire — sous-spécialisation du bijoutier — taille et sertit les gemmes ; aux sommets, il travaille même des **cristaux cosmiques** dans les cercles d'enchantement des constructions du rang Cosmique.
+Ces métiers, à Hybelior, sont les artisans qui ferment l'ouvrage — ils interviennent après tous les autres, sur les pièces les plus visibles et les plus prestigieuses. Une cathédrale capitale peut mobiliser un orfèvre maître pendant des décennies, simplement pour ses ornements précieux. Le lapidaire — sous-spécialisation du bijoutier — taille et sertit les gemmes ; aux sommets, il travaille même des **cristaux cosmiques** dans les cercles d'enchantement des constructions du rang Cosmique.
 
 ---
 
@@ -136,13 +136,13 @@ Ces métiers, à Hybélior, sont les artisans qui ferment l'ouvrage — ils inte
 
 ### Le tisserand et le tapissier
 
-Le **tisserand** fournit les **tentures** et les **tapisseries** qui rendent l'intérieur d'un bâtiment habitable. Son métier est ancien — il appartient aux arts du fil, de la teinture, du motif — et il est, à Hybélior, l'un des métiers les plus égalitaires en termes de répartition culturelle : on tisse partout, dans toutes les nations, à toutes les échelles.
+Le **tisserand** fournit les **tentures** et les **tapisseries** qui rendent l'intérieur d'un bâtiment habitable. Son métier est ancien — il appartient aux arts du fil, de la teinture, du motif — et il est, à Hybelior, l'un des métiers les plus égalitaires en termes de répartition culturelle : on tisse partout, dans toutes les nations, à toutes les échelles.
 
-Le **tapissier** — souvent une sous-spécialisation du tisserand ou du menuisier — est celui qui **pose** les tentures, garnit les sièges, dispose les tissus dans une demeure. À Hybélior, le métier de tapissier-décorateur ne s'est vraiment autonomisé que dans les grandes capitales, où la demande de raffinement intérieur a justifié une spécialité dédiée.
+Le **tapissier** — souvent une sous-spécialisation du tisserand ou du menuisier — est celui qui **pose** les tentures, garnit les sièges, dispose les tissus dans une demeure. À Hybelior, le métier de tapissier-décorateur ne s'est vraiment autonomisé que dans les grandes capitales, où la demande de raffinement intérieur a justifié une spécialité dédiée.
 
 ### Le tanneur et le sellier
 
-Le **tanneur** travaille les peaux animales pour en faire du **cuir**. Le métier est rude — le tannage demande des bassins acides, beaucoup d'eau, beaucoup de patience — et les tanneries sont presque toujours bâties à l'écart des centres habités, sous le vent dominant. Les tanneurs forment, dans la plupart des cultures d'Hybélior, des **quartiers à part** ; on les respecte sans les fréquenter au quotidien.
+Le **tanneur** travaille les peaux animales pour en faire du **cuir**. Le métier est rude — le tannage demande des bassins acides, beaucoup d'eau, beaucoup de patience — et les tanneries sont presque toujours bâties à l'écart des centres habités, sous le vent dominant. Les tanneurs forment, dans la plupart des cultures d'Hybelior, des **quartiers à part** ; on les respecte sans les fréquenter au quotidien.
 
 Le **sellier**, qui travaille le cuir tanné, fabrique les sièges hauts, les harnachements, les reliures de bibliothèque, les gants et les tabliers de l'artisan, les garnitures de mobilier signature. Aux échelles élevées, le sellier-mobilier devient un métier de précision — ajuster un cuir doublé sur un fauteuil de cabinet demande autant de patience qu'un menuisier sur un coffre marqueté.
 
@@ -224,7 +224,7 @@ Pour les rares qui aboutissent, l'ouvrage entre dans la mémoire du monde. Le no
 
 ## Les corporations — la transmission
 
-Tous les métiers du bâti, à Hybélior, sont organisés en **corporations** — institutions qui forment les apprentis, garantissent les paliers de maîtrise, fixent les usages, défendent les intérêts collectifs des ouvriers. Une corporation tient à la fois école et garantie. On y apprend pendant des années, et l'on en sort marqué par son sceau, qui ouvrira les portes des chantiers où l'on cherchera à travailler.
+Tous les métiers du bâti, à Hybelior, sont organisés en **corporations** — institutions qui forment les apprentis, garantissent les paliers de maîtrise, fixent les usages, défendent les intérêts collectifs des ouvriers. Une corporation tient à la fois école et garantie. On y apprend pendant des années, et l'on en sort marqué par son sceau, qui ouvrira les portes des chantiers où l'on cherchera à travailler.
 
 À **Evertia**, la **Guilde des Bâtisseurs** rassemble tous les corps de métier sous une seule institution impériale ; les rivalités entre métiers se règlent à l'intérieur, et les chantiers impériaux ne se confient qu'à des maîtres patentés par la Guilde. À **Altram**, les **Fraternités de la Pierre** sont organisées par sous-métiers — fraternité des maçons, fraternité des tailleurs, fraternité des sculpteurs — et chacune jalouse son indépendance. À **Trinoria**, la **Société de la Charpente Haute** a une autorité presque politique sur les forêts ; elle décide où l'on coupe, où l'on bâtit, et comment. À **Lumasar**, l'**Académie des Arts du Bâti** est moitié école, moitié corporation — on y enseigne l'architecture, la sculpture et la peinture sous le même toit.
 
@@ -236,7 +236,7 @@ Aucune corporation n'est uniforme à travers les continents. Chaque culture a la
 
 Le passage de palier en palier, dans tous les métiers du bâti, se fait par **chef-d'œuvre**. Un apprenti qui veut être reconnu compagnon doit présenter un ouvrage de sa main, fait sous sa propre responsabilité, devant un jury de pairs. Un compagnon qui veut être reconnu maître doit présenter un ouvrage plus grand encore — souvent une pièce signée que la corporation conservera comme témoignage de sa compétence.
 
-Cette tradition du chef-d'œuvre est, à Hybélior, **immémoriale**. Aucune corporation n'a souvenir d'un temps où elle ne pratiquait pas ainsi. Et aucune corporation n'a sérieusement envisagé d'y renoncer. Le chef-d'œuvre dit ce qu'aucun certificat administratif ne dirait : *cet artisan a fait cela, de sa main, sous notre regard ; nous garantissons qu'il sait*.
+Cette tradition du chef-d'œuvre est, à Hybelior, **immémoriale**. Aucune corporation n'a souvenir d'un temps où elle ne pratiquait pas ainsi. Et aucune corporation n'a sérieusement envisagé d'y renoncer. Le chef-d'œuvre dit ce qu'aucun certificat administratif ne dirait : *cet artisan a fait cela, de sa main, sous notre regard ; nous garantissons qu'il sait*.
 
 Aux paliers de Maître, le chef-d'œuvre devient parfois une œuvre publique — un ouvrage qui ornera durablement une cité, qui restera dans la mémoire de plusieurs générations. Certains Maîtres Architectes ont fait, comme chef-d'œuvre de maîtrise, des édifices qui sont aujourd'hui parmi les monuments les plus visités de leur nation.
 
@@ -248,7 +248,7 @@ Aux paliers de Maître, le chef-d'œuvre devient parfois une œuvre publique —
 >
 > *— Mèrebel Solis, à un apprenti*
 
-La fin d'un chantier, à Hybélior, est toujours une **fête**. Petite fête pour la maison de village — un repas partagé entre ouvriers et famille du commanditaire. Grande fête pour le manoir — banquet, discours du seigneur, parfois jeux et concerts. Fête prolongée pendant plusieurs jours pour la cathédrale ou le palais — cérémonies religieuses, processions, illuminations nocturnes.
+La fin d'un chantier, à Hybelior, est toujours une **fête**. Petite fête pour la maison de village — un repas partagé entre ouvriers et famille du commanditaire. Grande fête pour le manoir — banquet, discours du seigneur, parfois jeux et concerts. Fête prolongée pendant plusieurs jours pour la cathédrale ou le palais — cérémonies religieuses, processions, illuminations nocturnes.
 
 Au-delà de la fête, la fin d'un chantier est aussi la **signature** de l'ouvrage. L'Architecte appose son nom — gravé à un endroit visible ou caché selon l'usage local. Les Maîtres des corps de métier apposent les leurs. Et parfois, dans les ouvrages les plus prestigieux, les compagnons et apprentis ont droit eux aussi à leur petite marque, dans un coin de la pierre que nul ne regardera jamais. C'est leur trace à eux — discrète, mais réelle.
 

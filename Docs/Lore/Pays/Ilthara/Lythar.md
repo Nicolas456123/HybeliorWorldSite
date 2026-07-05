@@ -87,7 +87,7 @@ Gouvernement mobile, à l'image du peuple. Trois institutions :
 Steppe occidentale ; plaines ondulantes balayées par des vents puissants. Terre de la tribu du **Vent-Rouge**, réputée pour ses cavaliers d'une endurance surhumaine et ses chevaux à la robe cuivrée.
 
 ### Lythoria
-Région centrale, berceau historique de la confédération et plaine la plus vaste de Lythar. Lieu du Grand Rassemblement d'été. Tribu du **Vent-Blanc** (celle de Lythana), qui y maintient ses routes ancestrales.
+Région centrale, berceau historique de la confédération et plaine la plus vaste de Lythar. Berceau du premier Rassemblement, avant que Lythana ne le fixe à Raenoris. Tribu du **Vent-Blanc** (celle de Lythana), qui y maintient ses routes ancestrales.
 
 ### Raenoth
 Région nord-est ; collines herbeuses et rivières vives. Région la plus fertile de Lythar. Tribu du **Vent-Vert**, semi-nomade saisonnière (pâturages d'été en altitude, vallées protégées en hiver). Abrite Raenoris, seule vraie ville de Lythar.

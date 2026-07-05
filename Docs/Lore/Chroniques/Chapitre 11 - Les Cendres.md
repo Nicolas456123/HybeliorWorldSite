@@ -50,7 +50,7 @@ J'avais lu des descriptions — des récits de marchands dans les comptoirs de T
 
 Le bruit.
 
-Si Valoria m'avait accueilli avec un coup de marteau, Haliandris m'accueillit avec une symphonie de coups de marteau — des dizaines, des centaines peut-être, à des rythmes différents, depuis des profondeurs différentes, depuis la Grande Forge dont on sentait la chaleur comme une présence physique à travers les rues pavées, depuis les ateliers de surface, depuis les puits d'aération qui exhalaient des sons caverneux montés des galeries inférieures. La ville entière vibrait de manière presque imperceptible — pas un tremblement, quelque chose de plus doux, comme une respiration de fond. Pardine le sentait aussi : ses oreilles tournaient sans arrêt, cherchant à localiser ce son-sans-source, et il refusait de poser la tête.
+Si Valoria m'avait accueilli avec un coup de marteau, Haliandris m'accueillit avec une symphonie de coups de marteau — des dizaines, des centaines peut-être, à des rythmes différents, depuis des profondeurs différentes, depuis la Grande Forge dont on sentait la chaleur comme une présence physique à travers les rues pavées, depuis les ateliers de surface, depuis les puits d'aération qui exhalaient des sons caverneux montés des galeries inférieures. La ville entière vibrait de manière presque imperceptible — pas un tremblement, quelque chose de plus doux, comme une respiration de fond. Pardine le sentait aussi : ses oreilles tournaient sans arrêt, cherchant à localiser ce son-sans-source, et elle refusait de poser la tête.
 
 J'ai trouvé une auberge dans le quartier marchand, à l'écart de la Grande Forge d'une distance qui rendait la vibration supportable mais pas tout à fait absente. Elle s'appelait Le Foyer de Rendal — un nom et un propriétaire que je reconnus plus tard comme appartenant à une famille de Maîtres de Forge en demi-retraite, installés à une distance respectueuse de leurs propres industries. La tenancière était une femme d'une cinquantaine d'années, les mains basanées d'une longue vie proche des fourneaux, les poumons dont je percevais le travail à la légère aspiration sifflante qui accompagnait sa respiration — ce que j'appris plus tard à reconnaître comme les premiers stades de ce qu'on appelle ici, avec une politesse qui ne trompe personne, le « souffle d'Eldoria ».
 
@@ -72,7 +72,7 @@ Les autres convives de la salle commune mangeaient vite et en silence. Ce n'éta
 
 Je ne savais pas encore ce qu'était le Syndicat des Profondeurs. Je l'appris dans les jours suivants. Ce soir-là, je remarquai seulement que personne dans la salle ne regardait cet homme, avec la qualité particulière du non-regard qui signifie qu'on fait l'effort de ne pas regarder.
 
-Il s'appelait Ferrath. Comme les mines d'Iskara dans lesquelles certains mineurs entendent des sons dans les galeries les plus profondes — cette coïncidence ne m'échappa pas, mais ce n'était qu'une coïncidence de prénom. Il était un Compagnon — forgeron qualifié, troisième échelon de la hiérarchie myrtamite, juste au-dessous des Intendants royaux. Il avait perdu son poste dans une forge d'Ardentris six mois plus tôt, selon ses propres mots résumés plus tard quand nous eûmes l'occasion d'échanger : « Une lame présentait un défaut de trempe. C'était la mienne. »
+Il s'appelait Ferrath. Comme les mines d'Iskara dans lesquelles certains mineurs entendent des sons dans les galeries les plus profondes — cette coïncidence ne m'échappa pas, mais ce n'était qu'une coïncidence de prénom. Il était un Compagnon — forgeron qualifié, quatrième échelon de la hiérarchie myrtamite, juste au-dessous des Intendants royaux. Il avait perdu son poste dans une forge d'Ardentris six mois plus tôt, selon ses propres mots résumés plus tard quand nous eûmes l'occasion d'échanger : « Une lame présentait un défaut de trempe. C'était la mienne. »
 
 Un défaut dans une lame. L'exil d'un Compagnon. À Myrtam, un défaut dans une lame est un aveu d'insuffisance personnelle aussi grave que, dans d'autres pays, une fuite devant l'ennemi. La culture de l'excellence produit des hommes excellents et des hommes brisés, dans des proportions que personne ici ne semble compter.
 
@@ -86,7 +86,7 @@ Je compris rapidement que ma valeur sociale à Haliandris dépendrait de ma capa
 
 Un vieux Compagnon graveur de lames, Thyrald, examina ma carte du plateau d'Haliandra que j'avais produite depuis les hauteurs à l'entrée du pays. Il la tint à deux mains, l'inclina à la lumière de sa forge, passa le pouce sur les courbes de niveau. « Tes traits sont réguliers, » dit-il enfin. « Un bon outil. »
 
-C'est la chose la plus proche d'un compliment que je reçus à Myrtam en trois semaines. Je la notai dans mon journal avec le soin qu'on réserve aux distinctions officielles.
+C'est la chose la plus proche d'un compliment que je reçus à Myrtam en deux semaines. Je la notai dans mon journal avec le soin qu'on réserve aux distinctions officielles.
 
 ---
 
@@ -106,9 +106,9 @@ Ce qui me ramena, inévitablement, à ce que je savais déjà de ces profondeurs
 
 ---
 
-À Altram — il y a vingt jours, quelques centaines de lieues au nord-ouest —, j'avais vu le Fragment Zéro.
+À Altram — il y a près de deux mois, quelques centaines de lieues au nord-ouest —, j'avais vu le Fragment Zéro.
 
-Ce n'est pas quelque chose que j'avais prévu de voir, ni voulu voir, et je n'ai pas encore su comment l'écrire dans ce journal sans que les mots me semblent soit trop petits soit trop grands pour ce qu'ils tentent de contenir. Un fragment de quelque chose d'originel, gardé sous cloche dans une forge de la Guilde — une chose qui pulsait, d'une lumière que je me refuse encore à qualifier de « lumière » parce qu'elle n'obéissait à aucun des comportements que la lumière est supposée avoir. Une pulsation régulière. Lente. Comme un cœur.
+Ce n'est pas quelque chose que j'avais prévu de voir, ni voulu voir, et je n'ai pas encore su comment l'écrire dans ce journal sans que les mots me semblent soit trop petits soit trop grands pour ce qu'ils tentent de contenir. Un fragment de quelque chose d'originel, gardé sous cloche dans une antichambre scellée des Archives de Trelios — une chose qui pulsait, non pas d'une lumière que l'œil pût saisir, mais d'un battement que l'on percevait avec les os plutôt qu'avec la peau. Une pulsation régulière. Lente. Comme un cœur.
 
 Et à Iskara-Ferrath, dans les mines dont les mineurs entendent des sons dans les galeries les plus profondes — des sons que personne n'a pu localiser ni identifier, des sons qui n'existent que dans les sections les plus basses des galeries, là où la roche est la plus ancienne.
 
@@ -204,19 +204,19 @@ Je posai la question. Oryn réfléchit longtemps avant de répondre. Ferrath int
 
 La nuit avant mon départ d'Ardentris, je dormis mal.
 
-L'air était lourd, le foulard de soie autour du visage, Pardine dans l'écurie de l'auberge qui soufflait les vapeurs sulfureuses d'une façon qui me prouvait qu'il dormait aussi mal que moi. Le sol vibrait de son rythme de fond, légèrement décalé — maintenant que j'avais une conscience de ce décalage, que le prêtre me l'avait nommé, je ne pouvais plus ne pas l'entendre. Pas beaucoup. Comme quelqu'un qui boite à peine, et chez qui on n'aurait rien remarqué si on n'avait pas su regarder le bon pied.
+L'air était lourd, le foulard de soie autour du visage, Pardine dans l'écurie de l'auberge qui soufflait les vapeurs sulfureuses d'une façon qui me prouvait qu'elle dormait aussi mal que moi. Le sol vibrait de son rythme de fond, légèrement décalé — maintenant que j'avais une conscience de ce décalage, que le prêtre me l'avait nommé, je ne pouvais plus ne pas l'entendre. Pas beaucoup. Comme quelqu'un qui boite à peine, et chez qui on n'aurait rien remarqué si on n'avait pas su regarder le bon pied.
 
 Je rouvris mon journal et repassai en ordre ce que je savais.
 
 Trinoria — vibrations dans le sol des forêts profondes, depuis environ cinq ans selon les druides. Caractère : rythmique, montant des couches géologiques inférieures. Interprétation locale : la Forêt s'éveille.
 
-Fragment Zéro à Altram — pulsation lumineuse dans un objet d'origine inconnue, gardé par la Guilde depuis des générations. Caractère : régulier, lent. Interprétation des gardiens : anomalie stable, sans danger. Mais les gardiens m'avaient semblé moins sûrs d'eux qu'ils ne le prétendaient.
+Fragment Zéro à Altram — pulsation, dans un objet d'origine inconnue, scellé aux Archives de Trelios depuis des générations. Non visible : perçue avec les os, pas avec les yeux. Caractère : régulier, lent. Interprétation des archivistes : on ne l'observe plus directement depuis trois ans — le dernier à s'en être approché en a gardé les mains engourdies deux semaines, et la salle reste plus froide qu'elle ne devrait l'être. Anomalie qu'on préfère ne pas déranger. Les archivistes m'avaient semblé moins sûrs d'eux qu'ils ne le prétendaient.
 
-Mines d'Iskara-Ferrath — sons dans les galeries les plus profondes que personne ne peut identifier ni localiser. Caractère : intermittents, tonalités graves. Interprétation des mineurs : superstition, gaz, déformation de roche. Mais les mineurs qui en parlaient avaient dans la voix quelque chose qui n'était pas de la superstition.
+Mines d'Iskara-Ferrath — sons dans les galeries les plus profondes que personne ne peut identifier ni localiser. Présents depuis toujours, selon les anciens ; plus forts depuis une vingtaine d'années ; mais un vieux mineur et Baret s'accordent à dire que, ces dernières années, le battement a encore changé de qualité — moins régulier, plus proche. Caractère : intermittents, tonalités graves. Interprétation des mineurs : superstition, gaz, déformation de roche. Mais les mineurs qui en parlaient avaient dans la voix quelque chose qui n'était pas de la superstition.
 
 Ardentris — pulsation légèrement décalée des failles volcaniques depuis quatre ou cinq ans. Caractère : rythme modifié, imperceptible sans référence de long terme. Interprétation des prêtres de l'Ignis Aeternum : Eldoria respire différemment. Écoute quelque chose.
 
-Et partout — partout depuis Trinoria jusqu'ici —, cet horizon de quatre à cinq ans. Comme si quelque chose avait commencé à une date précise. Ou comme si quelque chose était en train de se réveiller, progressivement, depuis les couches les plus profondes du monde.
+Et partout — partout depuis Trinoria jusqu'ici —, le même horizon récent de quatre à cinq ans. Non pas que tout ait commencé là : à Iskara, les mineurs jurent que les sons montent depuis vingt ans, et ailleurs certains parlent de phénomènes qui existent depuis toujours. Mais partout, ces quatre ou cinq dernières années, quelque chose a changé de caractère — une inflexion commune posée par-dessus des phénomènes d'âges différents. Comme si quelque chose, depuis longtemps là, s'était mis récemment à se réveiller, progressivement, depuis les couches les plus profondes du monde.
 
 Je suis cartographe. Je dessine ce que je vois, je mesure ce qui peut être mesuré, et je laisse les interprétations à ceux qui ont des systèmes pour interpréter. Je n'ai pas de système pour interpréter ce que je commence à voir. Je n'ai que des points sur une carte que je ne sais pas encore dessiner.
 

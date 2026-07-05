@@ -171,7 +171,7 @@ Quatre festivals annuels, un par saison :
 - Région : Rylthos
 
 ### Zyldoris
-- Bourg d'altitude connu pour ses chœurs de montagne (ensembles vocaux exploitant les échos des sommets pour des harmonies inreproductibles ailleurs). Performances attirant des auditeurs de tout Endora.
+- Bourg d'altitude connu pour ses chœurs de montagne (ensembles vocaux exploitant les échos des sommets pour des harmonies inreproductibles ailleurs). Performances attirant des auditeurs de tout Thalmaris et des trois nations d'Evertia.
 - Origine : premier chœur né d'un barde entendant sa voix lui revenir déformée par trois pics, créant une harmonie à trois voix dont il était la seule source. Zyldoris fondée autour de ces trois pics, dont angles et distances furent cartographiés pour exploiter exactement les bons délais d'écho.
 - Population : Ville
 - Région : Rylthos
@@ -216,12 +216,17 @@ Quatre festivals annuels, un par saison :
 
 ## Relations extérieures
 
-| Pays | Relation | Détails |
+Thalmaris est la voie principale des rares contacts diplomatiques d'Evertia avec l'extérieur ; le continent reste hors des routes commerciales majeures et n'entretient que quelques liaisons réglementées.
+
+| Partenaire | Relation | Détails |
 |------|----------|---------|
-| **Iskara** | Respect mutuel | Les bardes de Thalmaris chantent les exploits des guerriers d'Iskara. En échange, Iskara assure la sécurité de Thalmaris, pays sans armée conventionnelle. |
-| **Avalor** | Amitié profonde | Amour partagé des traditions et du mystère. Festivals communs entre bardes d'Avalor et de Thalmaris. |
-| **Tyndara** | Partenariat commercial | Les marchands de Tyndara distribuent les œuvres et instruments de Thalmaris dans tout Hybelior. Arrangement mutuellement profitable. |
-| **Nysaria** | Fascination | Obsession pour le mystère de Nysaria. Des dizaines de chansons composées sur l'île, mais aucun barde n'a réussi à y pénétrer. |
+| **Evertia** (interne) | Voisinage druidique | Par le détroit, aux marées favorables : les druides evertiens viennent acheter partitions et cristaux de résonance ; les Cantori passent à Sylvara pour les sessions du Cantus à l'Arbre-Mère. Contact quotidien mais irrégulier. |
+| **Sylvara** (interne) | Écoute partagée | Les Cantori accompagnent au chant la croissance de l'Arbre-Mère ; les Sylvarains sortants viennent aux marchés de Nalmir et repartent. Aucune frontière fixée, convention orale renouvelée deux fois par génération. |
+| **Solena** (Galenor) | Seul débouché extérieur régulier | Via l'escale de Solena, les Cantori-ambassadeurs gagnent le Tribunal de Lumasar (congrès culturels, expositions d'instruments, copies de partitions) : fréquence irrégulière mais constante. Œuvres et instruments de Thalmaris ne circulent au-delà d'Evertia que par cette voie soigneusement filtrée. |
+| **Reste d'Hybelior** | Ignorance mutuelle | Isolement consenti et reconduit chaque génération. Thalmaris n'entretient aucune relation suivie hors du continent ; sa réputation d'exception artistique circule par ouï-dire, portée par les rares marchandises que Solena laisse passer. |
+
+> [!note] Diaspora Cantus Mundi — Sarandel (Endora)
+> Il y a des générations, un groupe de bardes quitta Thalmaris et s'établit à **Sarandel**, bourg des marches occidentales de Sanvara (continent Endora), où il perpétue le Cantus Mundi, l'Heure du Chant et le thalmarien loin de la mère-patrie ; c'est ce foyer, et non Thalmaris même, que traverse Sorin à l'Acte II (ch. 15-16), avant sa venue à Thalmaris à l'Acte IV (ch. 31).
 
 ---
 

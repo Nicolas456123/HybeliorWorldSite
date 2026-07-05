@@ -78,7 +78,7 @@ Je confirmai — ex-cartographe, Délié, en voyage depuis deux cent quatre-ving
 
 Elle dit : « Un cartographe dans une forêt où nous n'utilisons pas de cartes. Zyloris, ici, dessine les courants d'énergie — mais pas pour des étrangers. » Puis, avec quelque chose qui n'était pas exactement de la curiosité mais de l'attention : « Pourquoi Avalor ? »
 
-Je répondis honnêtement — je cherchais à comprendre quelque chose que je n'avais pas encore les mots pour nommer. Que j'avais commencé à percevoir dans les mines d'Alkaran un phénomène que je retrouvais, sous des formes différentes, dans chaque pays que je traversais. Que Thalmaris me l'avait montré sous sa forme musicale. Que j'espérais qu'Avalor me montrerait autre chose.
+Je répondis honnêtement — je cherchais à comprendre quelque chose que je n'avais pas encore les mots pour nommer. Que j'avais commencé à percevoir dans les mines d'Alkaran un phénomène que je retrouvais, sous des formes différentes, dans chaque pays que je traversais. Que les bardes de Sarandel me l'avaient montré sous sa forme musicale. Que j'espérais qu'Avalor me montrerait autre chose.
 
 Elle dit : « La Catena Fracta. »
 
@@ -292,9 +292,9 @@ Il y en avait un — une terrasse sur les hauteurs du quartier marchand d'où l'
 
 Endora.
 
-Deux nations-sœurs et leurs voisines immédiates. Thalmaris qui écoute le monde en chanson. Sanvara qui l'écoute dans les arbres. Avalor qui le lit dans les racines et dans les esprits. Haldria qui le mesure en flux commerciaux et qui voit les flux se détraquer sans comprendre pourquoi.
+Trois nations et, greffé sur la lisière de l'une d'elles, un morceau d'un monde plus lointain. Sarandel — le foyer cantus, les exilés de Thalmaris — qui écoute le monde en chanson. Sanvara qui l'écoute dans les arbres. Avalor qui le lit dans les racines et dans les esprits. Haldria qui le mesure en flux commerciaux et qui voit les flux se détraquer sans comprendre pourquoi.
 
-Tout cela depuis le même endroit. Depuis un continent qui avait développé, indépendamment, des accès différents à la même chose — des façons de percevoir une résonance dont personne ne savait plus exactement quelle était la source et dont plusieurs témoignaient maintenant, simultanément, d'une modification.
+Tout cela depuis le même continent — qui avait développé, indépendamment, des accès différents à la même chose, et qui avait de surcroît accueilli, sur une de ses marges, une quatrième écoute venue d'ailleurs et acclimatée depuis des générations. Des façons de percevoir une résonance dont personne ne savait plus exactement quelle était la source et dont plusieurs témoignaient maintenant, simultanément, d'une modification.
 
 Un demi-ton vers le bas, disait l'esprit du Grand Chêne de Velaris.
 
@@ -302,7 +302,7 @@ Des cargaisons perdues, disaient les capitaines entre les deux continents.
 
 Des esprits noirs en nombre croissant dans Wildoria, disait Feylara.
 
-Elyndra III qui ne dormait plus depuis trois ans, disait tout Thalmaris.
+Elyndra III qui ne dormait plus depuis trois ans, rapportaient les bardes de Sarandel de leur lointaine mère-patrie.
 
 Des sons nouveaux dans les galeries profondes d'Alkaran, disaient les mineurs.
 
@@ -330,7 +330,7 @@ Trois cents jours d'observations. D'abord les pays du continent de Galenor, leur
 
 Lu ensemble — lu d'une traite, depuis le début, avec le recul de trois cents jours —, ce n'était plus des anomalies isolées. C'était un signal. Un signal que chaque culture percevait depuis ses propres instruments, dans son propre registre, avec ses propres mots. Comme si vous demandiez à un musicien, à un druide, à un mineur et à un capitaine de décrire la même chose et qu'aucun d'eux n'avait les mots de l'autre mais que tous décrivaient néanmoins la même chose.
 
-Quelque chose dans la trame du Pacte — ce que la Catena Fracta interprète, à sa façon, comme la preuve qu'on peut s'en délier — semble vibrer autrement depuis environ deux ans, probablement plus longtemps selon des témoins dont la mémoire remonte plus loin que les humains ordinaires. Et personne — pas les bardes de Thalmaris, pas les druides d'Avalor, pas les marchands d'Haldria — personne ne regarde l'ensemble.
+Quelque chose dans la trame du Pacte — ce que la Catena Fracta interprète, à sa façon, comme la preuve qu'on peut s'en délier — semble vibrer autrement depuis environ deux ans, probablement plus longtemps selon des témoins dont la mémoire remonte plus loin que les humains ordinaires. Et personne — pas les bardes de Sarandel, pas les druides d'Avalor, pas les marchands d'Haldria — personne ne regarde l'ensemble.
 
 Sauf peut-être moi.
 
@@ -346,9 +346,9 @@ Ilthara demain. Un nouveau continent. De nouveaux instruments pour percevoir ce 
 
 *Note cartographique, jour 303 — Haltheria, Haldria, Endora :*
 
-*Je ferme l'Acte II ici, sur ce belvédère de ville marchande qui ne sait pas ce qu'elle possède. Thalmaris, Sanvara, Avalor, Haldria : quatre façons d'être en Endora, quatre façons d'entendre le monde ou de refuser de l'entendre. Je suis entré sur ce continent sans attente particulière, portant simplement les observations accumulées depuis Alkaran. Je le quitte avec quelque chose de plus encombrant et de plus précieux : une hypothèse.*
+*Je ferme l'Acte II ici, sur ce belvédère de ville marchande qui ne sait pas ce qu'elle possède. Sanvara, Avalor, Haldria — les trois voix d'Endora — et, greffé sur la marche de la première, Sarandel, le foyer des exilés cantus : quatre façons d'entendre le monde ou de refuser de l'entendre, sur un même continent. Je suis entré sur ces terres sans attente particulière, portant simplement les observations accumulées depuis Alkaran. Je les quitte avec quelque chose de plus encombrant et de plus précieux : une hypothèse.*
 
-*L'hypothèse est la suivante : la résonance de fond du monde — ce que les bardes thalmariens entendent comme une note basse du Pacte, ce que les druides d'Avalor sentent dans les racines, ce que les mineurs d'Alkaran entendent dans les galeries profondes, ce que les esprits anciens de partout semblent vouloir signaler — cette résonance est en train de changer. Pas de façon catastrophique et immédiate. De façon progressive, comme une trame qui se tend sous une pression qu'elle ne dissipe plus à l'identique.*
+*L'hypothèse est la suivante : la résonance de fond du monde — ce que les bardes de Sarandel entendent comme une note basse du Pacte, ce que les druides d'Avalor sentent dans les racines, ce que les mineurs d'Alkaran entendent dans les galeries profondes, ce que les esprits anciens de partout semblent vouloir signaler — cette résonance est en train de changer. Pas de façon catastrophique et immédiate. De façon progressive, comme une trame qui se tend sous une pression qu'elle ne dissipe plus à l'identique.*
 
 *La source de cette tension, je ne la connais pas encore. Elle pourrait être dans les profondeurs que Zorathis appelle le Fragment Zéro. Elle pourrait être dans quelque chose que personne n'a encore identifié. Elle pourrait être dans ce que personne ne regarde parce que chacun n'a les yeux que pour son propre instrument.*
 

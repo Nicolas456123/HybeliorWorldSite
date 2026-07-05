@@ -129,7 +129,7 @@ Sylven naquit à Velaris en l'an 156. Sa famille comptait quatre générations d
 
 On la forma dès cinq ans. À treize, elle traduisait déjà sous supervision. À vingt-quatre, elle fut admise comme Voix attitrée du village d'Indelith — la plus jeune affectation depuis trois générations.
 
-Pendant trente-cinq ans, Sylven traduisit. Avec une régularité que toutes les chroniques louèrent. Sans erreur. Sans hésitation. Sans ce flottement qu'on retrouvait chez les Voix moins exercées, ce léger décalage entre ce que l'esprit semblait vouloir et ce que la formule rituelle permettait de transmettre. Sylven traduisait juste. Comme on dit à Velaris, *« elle avait la fidélité du fil »*.
+Pendant quarante et un ans, Sylven traduisit. Avec une régularité que toutes les chroniques louèrent. Sans erreur. Sans hésitation. Sans ce flottement qu'on retrouvait chez les Voix moins exercées, ce léger décalage entre ce que l'esprit semblait vouloir et ce que la formule rituelle permettait de transmettre. Sylven traduisait juste. Comme on dit à Velaris, *« elle avait la fidélité du fil »*.
 
 Quand elle eut soixante-cinq ans, lors d'une Veillée Nocturne ordinaire à Indelith, Sylven écouta comme à son habitude. Et le matin, devant le druide qui l'attendait pour la transmission, elle ne dit rien.
 
@@ -145,7 +145,7 @@ Le poste d'Indelith fut repris par sa nièce. La nièce traduit avec la même r�
 
 Sylven vécut six ans encore, recluse dans la canopée. Elle reçut ses anciens élèves un par un. Elle ne leur enseignait rien. Plusieurs ont raconté qu'elle s'asseyait avec eux des heures sans une parole, et que la séance se terminait quand l'un des deux se levait. Trois élèves, à des intervalles de plusieurs années, ont laissé chacun une note brève dans leur cahier personnel, et ces trois notes disent à peu près la même chose : *« je suis sortie de chez Sylven en sachant que j'avais entendu quelque chose, sans savoir quoi. »*
 
-Sylven mourut en 211 d'une affection ordinaire. À la question rituelle de la *Dernière Voix* (*« quel dernier message veux-tu transmettre aux esprits ? »*), elle répondit : *« Demandez aux esprits ce qu'ils voulaient. Je ne saurais plus le formuler. »*
+Sylven mourut en 227 d'une affection ordinaire. À la question rituelle de la *Dernière Voix* (*« quel dernier message veux-tu transmettre aux esprits ? »*), elle répondit : *« Demandez aux esprits ce qu'ils voulaient. Je ne saurais plus le formuler. »*
 
 La phrase fut consignée. Elle n'a jamais été interprétée publiquement.
 

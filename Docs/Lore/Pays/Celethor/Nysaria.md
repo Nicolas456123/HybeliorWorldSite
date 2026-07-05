@@ -12,7 +12,7 @@ Continent: Celethor
 
 | | |
 |---|---|
-| **Localisation** | Petite île au large de la côte est du continent [[Celethor]] |
+| **Localisation** | Petite île au large de la côte est du continent [[Celethor - Continent|Celethor]] |
 | **Type** | Île notable (l'Île aux Masques) — pas un continent |
 | **Gouvernement** | Monarchie sans voix — Roi Sans Voix et Cercle des Masques |
 | **Religion principale** | [[Noctari]] (variante locale, peut-être divergente) |
@@ -122,7 +122,7 @@ Trois traits documentés :
 ### La voix sous le sol
 
 - Plusieurs visiteurs rapportent une vibration/respiration perceptible à Nysoris, plus forte près de l'escalier central, pulsant à fréquence régulière.
-- Pulsation comparée à celle du **Mont Cendra** (continent galenorien). Correspondance non exploitée au-delà du constat brut ; tenue pour l'une des données structurellement importantes du dossier.
+- Pulsation comparée à celle du **Mont Cendra** (continent de Cendara). Correspondance non exploitée au-delà du constat brut ; tenue pour l'une des données structurellement importantes du dossier.
 
 ---
 

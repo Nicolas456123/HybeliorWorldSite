@@ -78,9 +78,9 @@ L'**Accord** (cf. [[L'Accord]]) est interprété comme l'alignement personnel du
 
 ## Géographie d'implantation
 
-**Nations dominantes (Sillage) :** Caeloria, Haldria, Seraphia, Solena (en seconde position derrière Via Ventus).
+**Nations dominantes (Sillage) :** Caeloria, Haldria, Seraphia, Astravia (branche stellaire, où l'Ordo coexiste avec Somnium Vigil en second), Solena (en seconde position derrière Via Ventus).
 
-**Présence secondaire :** Astravia (où l'Ordo coexiste avec Somnium Vigil), Iskara (Archives de l'Ordo Caelum).
+**Présence secondaire :** Iskara (Archives de l'Ordo Caelum).
 
 **Sites sacrés :**
 - **Tours d'Astravia** (Celethor) — alignées sur des constellations désormais disparues
@@ -180,7 +180,7 @@ Les **Cosmiques retirés** sont lus comme **présences en méditation** : Celest
 
 Née dans une famille de petits scribes d'Endora, Lethanis entre aux Crèches Stellari comme novice à l'âge de cinq ans, et termine la copie des sept Tables en cinq ans et trois mois — record jamais battu. Sa carrière est parfaite : *Veilleuse d'Heure* à dix-sept ans, *Calculatrice Supérieure* à vingt-quatre, *Maîtresse de Tribunal* à trente-six, *Première Lectrice d'Astravia* à quarante-quatre. Pendant ses dix-sept années à la chaire, elle reforme la *Méthode des Recalibrations* — ensemble de procédures qui permet aux tours d'absorber le mouvement post-Arrachement des constellations sans modifier les Tables. Cette méthode est encore aujourd'hui le socle technique du clergé.
 
-Ce que les chroniques officielles taisent : à partir de +185, Lethanis cesse progressivement de prononcer ses propres lectures. Elle préside, elle valide, elle signe. Elle ne dit plus *« je lis »* — elle dit *« le Tribunal lit »*. Ses correspondances avec une Vigili lumasarienne, **Calmara Sept-Murs**, retrouvées trois siècles après sa mort dans une chemise de cuir non répertoriée, montrent qu'elle a passé ses sept dernières années à comparer méthodiquement les *Tables* avec un corpus onirique — non pour les contredire, mais pour mesurer ce qui *manquait* aux Tables. Une de ses dernières lettres, datée trois mois avant sa mort, contient une phrase que les archivistes ont longtemps refusé d'authentifier :
+Ce que les chroniques officielles taisent : à partir de +185, Lethanis cesse progressivement de prononcer ses propres lectures. Elle préside, elle valide, elle signe. Elle ne dit plus *« je lis »* — elle dit *« le Tribunal lit »*. Ses correspondances avec une Vigili lumasarienne, **Calmara Sept-Murs**, retrouvées longtemps après sa mort dans une chemise de cuir non répertoriée, montrent qu'elle a passé ses sept dernières années à comparer méthodiquement les *Tables* avec un corpus onirique — non pour les contredire, mais pour mesurer ce qui *manquait* aux Tables. Une de ses dernières lettres, datée trois mois avant sa mort, contient une phrase que les archivistes ont longtemps refusé d'authentifier :
 
 > *« Je crois que nous lisons une langue dont le dictionnaire a brûlé. Nous tenons les mots ; nous avons perdu ce qu'ils voulaient dire. Et personne, ici, ne supporterait que je le dise tout haut. »*
 

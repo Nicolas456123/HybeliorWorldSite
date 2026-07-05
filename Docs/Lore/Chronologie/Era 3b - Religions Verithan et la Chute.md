@@ -284,8 +284,9 @@ Malgre leurs origines radicalement differentes, les huit membres du Cercle parta
 - Population mondiale avant : ~120 millions
 - Morts directs (7 heures) : ~10 millions (cites volantes, portails, Navoria, panique)
 - Population qui survit a court terme : ~110 millions
-- Population qui survit aux 3 000 ans de Grande Nuit qui suivent : ~30 millions
-- Bilan final sur 3 000 ans : 75% de la population mondiale perdue
+- Population encore vivante a la veille du Fleau des Failles (~1 400 ap.A) : ~30 millions
+- Population qui survit aux 3 000 ans de Grande Nuit (fin de l'Ere V, ~3 000 ap.A) : ~18 millions
+- Bilan final sur 3 000 ans : ~85% de la population mondiale perdue
 
 **Ce que les survivants immediats voient :**
 Le ciel ne change pas. Le soleil se leve. Les arbres sont toujours la. L'eau coule. Rien de visible ne signale que quelque chose vient de mourir.

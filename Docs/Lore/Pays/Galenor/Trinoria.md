@@ -26,8 +26,8 @@ needs_review_for: []
 Structure féodale tempérée par les traditions de chasse :
 
 - **Le Roi-Archer** — Règne depuis la forteresse de Gyndor (chêne colossal pétrifié). Autorité confirmée tous les sept ans par le Grand Tournoi : s'il perd, il abdique en faveur du vainqueur (n'est arrivé que deux fois dans l'histoire).
-- **Les Seigneurs-Chasseurs** — Six seigneurs (un par région hors Nalithos), administrent leurs domaines avec une large autonomie. Doivent fournir au roi un contingent d'archers en cas de guerre et un tribut annuel en gibier et en bois.
-- **Le Conseil des Bois** — Composé des six seigneurs et de trois druides du Vael'Kurash. Conseille le roi sur les questions forestières (exploitation, reforestation, protection des esprits).
+- **Les Seigneurs-Chasseurs** — Cinq seigneurs (un par région hors Nalithos), administrent leurs domaines avec une large autonomie. Doivent fournir au roi un contingent d'archers en cas de guerre et un tribut annuel en gibier et en bois.
+- **Le Conseil des Bois** — Composé des cinq seigneurs et de trois druides du Vael'Kurash. Conseille le roi sur les questions forestières (exploitation, reforestation, protection des esprits).
 - **La Garde Sylvestre** — Force d'élite d'archers-éclaireurs. Patrouille les frontières et les forêts profondes. Y entrer est le plus grand honneur pour un Trinorien.
 
 ---

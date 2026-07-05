@@ -141,7 +141,7 @@ Cette formulation n'est pas devenue une formule. Personne à Drentvar ne s'en es
 
 ## Kerwhelm — « Le Marchand qui Voulait Représenter »
 
-Brendel-le-Vieux fut le quatrième de sa lignée à proposer formellement, à la Convergence de l'an 218, que Dhalvoria désigne un représentant auprès des chancelleries de Lumasar et de Solena. La proposition fut, comme les trois précédentes (faites par ses ancêtres en 156, 184, 201), discutée et rejetée. Il fit la sienne en sachant qu'elle serait rejetée.
+Brendel-le-Vieux fut le quatrième de sa lignée à proposer formellement, à la Convergence de l'an 217, que Dhalvoria désigne un représentant auprès des chancelleries de Lumasar et de Solena. La proposition fut, comme les trois précédentes (faites par ses ancêtres en 156, 184, 201), discutée et rejetée. Il fit la sienne en sachant qu'elle serait rejetée.
 
 La discussion à Yltharkenn fut, selon les comptes-rendus rapportés à Kerwhelm par la délégation, *patiente*. Aucun Veilleur ne moqua la proposition. Aucun ne s'emporta. Plusieurs prirent la parole pour expliquer, avec calme, que *l'idée même de représenter une vallée auprès d'une chancellerie est étrangère à l'esprit de la Veille*. Une vallée qui veille n'envoie pas de représentants. Elle veille.
 
@@ -149,7 +149,7 @@ Brendel écouta. Il ne contesta pas. À la fin de la discussion, il se leva et d
 
 Personne ne répondit. La Convergence passa à la question suivante (un litige de cols entre Kerwhelm et Brundherna). La proposition Brendel fut, comme les autres, formellement rejetée puis oubliée.
 
-Brendel mourut en l'an 231. Sa fille, Helmenne, est marchande à Kerwhelm et n'a pas encore proposé de représentation extérieure. Elle a indiqué à plusieurs visiteurs étrangers qu'elle pense le faire avant ses cinquante ans. Elle a quarante-trois ans en l'arc Sorin. Elle prend son temps. Elle dit qu'elle veut comprendre, avant de proposer, *pourquoi sa famille a proposé six fois en deux siècles*. Elle ne dit pas *pourquoi sa famille a échoué six fois*. La nuance est importante.
+Brendel mourut en l'an 231. Sa fille, Helmenne, est marchande à Kerwhelm et n'a pas encore proposé de représentation extérieure. Elle a indiqué à plusieurs visiteurs étrangers qu'elle pense le faire avant ses cinquante ans. Elle a quarante-trois ans en l'arc Sorin. Elle prend son temps. Elle dit qu'elle veut comprendre, avant de proposer, *pourquoi sa famille a proposé quatre fois en quatre générations*. Elle ne dit pas *pourquoi sa famille a échoué quatre fois*. La nuance est importante.
 
 ---
 

@@ -13,7 +13,7 @@ needs_review_for: []
 
 **An 0-30 — Aldric le Bâtisseur.** Premier roi. Maçon de métier. Verrouillage systématique des défilés. Construction du réseau de tunnels reliant les forteresses. La Grande Forge de Glintaris est installée dans une cavité naturelle ; son alimentation en charbon automatisée est conçue par Aldric lui-même (les prêtres d'Ignis Aeternum, plus tard, préféreront ne pas le rappeler).
 
-**An 35-38 — Défense de la Porte de Fer.** Une coalition de quarante mille hommes assiège le défilé principal — un passage naturel entre deux falaises, renforcé de murs de vingt mètres d'épaisseur. La reine **Yrelda la Forgée** commande la garnison de trois mille. Le siège dure trois cents jours. La Porte tient, grâce à un système de pièges, de meurtrières et de canaux de lave alimentés par des forges souterraines. Yrelda, à la fin, fait graver dans le fer : *« Vous êtes libres de revenir. Nous serons là. »* Phrase pragmatique sur le moment, devenue doctrine sur trois siècles.
+**An 35-38 — Défense de la Porte de Fer.** Une coalition de quarante mille hommes assiège le défilé principal — un passage naturel entre deux falaises, renforcé de murs de vingt mètres d'épaisseur. La reine **Yrelda la Forgée** commande la garnison de trois mille. Le siège dure trois cents jours. La Porte tient, grâce à un système de pièges, de meurtrières et de canaux de lave alimentés par des forges souterraines. Le nom lui-même est un emprunt assumé : Yrelda le prend à une autre Porte de Fer, celle qu'un roi-ingénieur d'Alkaran avait défendue plus de mille ans plus tôt contre deux royaumes, et dont on dit encore, dans tout le monde connu, qu'elle « a tenu ». Baptiser ainsi son propre défilé n'était pas une confusion mais un serment : rejouer le geste, en assumer la charge. Yrelda, à la fin, fait graver dans le fer les mots qu'on attribue à cette première défense — *« Vous êtes libres de revenir. Nous serons là. »* Phrase pragmatique sur le moment, reprise en connaissance de cause, devenue doctrine sur trois siècles.
 
 **An 60-87 — Fondation de la doctrine défensive.** Plusieurs incursions secondaires sont repoussées. Vers 87, le Roi-Maréchal Veldrik II promulgue le décret formalisant l'état de siège permanent. *« Tant qu'aucun traité signé ne marque la fin du danger, le pays demeure en alerte. »* Aucun traité n'a jamais été signé, parce qu'aucun ennemi assez grand pour signer ne s'est plus présenté. La doctrine est purement défensive : Iskara n'a jamais mené de guerre offensive, mais chaque citoyen est formé au combat dès l'âge de douze ans et les forteresses sont tenues en état de siège permanent.
 
@@ -21,9 +21,9 @@ needs_review_for: []
 
 **An 150-250 — Stabilité institutionnelle, ennemi qui s'efface.** Les coalitions orientales se dissolvent ; les empires lointains se fragmentent. Les rapports d'éclaireurs notent, génération après génération, que les routes de l'est se vident. Aucune synthèse n'est commandée. Le greffier qui en propose une en 232 est muté à Mytharis. La garde, elle, n'est jamais réduite : environ trente pour cent des hommes valides du pays restent sous les armes en permanence, et les greniers stratégiques de Mytharis sont rotés (vidés et remplis) tous les sept ans pour ne pas pourrir. Personne ne dit que la garde n'a plus de sens — le dire serait insulter Yrelda.
 
-**An 245 — Disparition de Sera Vyn.** L'éclaireuse de Kalvorn, dont la prédiction de 218 (armée à un an d'écart) avait été admise en privé, quitte son poste un matin de brouillard. On ne la revit jamais. Sa fille Aelra, devenue éclaireuse à son tour, suit les traces sans en parler. Un cairn près de la frontière orientale, attribué à une autre disparue (Nyra), porte un message à quatre mots : *« Ruines. Au-delà. Attention. »*
+**An 245 — Disparition de Sera Vyn.** L'éclaireuse de Kalvorn, dont la prédiction de 218 (armée à un an d'écart) avait été admise en privé, quitte son poste un matin de brouillard. On ne la revit jamais. Ce qu'elle a vu après son retour de la disgrâce, elle ne l'a confié à personne. Un cairn près de la frontière orientale, laissé par une autre disparue (l'éclaireuse Nyra), porte un message à quatre mots : *« Ruines. Au-delà. Attention. »*
 
-**An 252 — Passage de Sorin Valthen.** Le voyageur kharaziri traverse Iskara au chapitre 10 de son journal (*Les Mines*). Glintaris, brève notation sur la Grande Forge : *« Les prêtres entretiennent ce qu'ils ne comprennent pas, et c'est précisément ce qui leur permet d'y croire. »* Pas d'effet local. Le journal n'a jamais été lu officiellement à Iskara.
+**An 252 — Passage de Sorin Valthen.** Le voyageur kharaziri traverse Iskara au chapitre 10 de son journal (*Les Mines*) : la Porte de Fer, le bourg extérieur de Glintar, puis les niveaux profonds de Myrilith, sous escorte. Devant la porte de métal inconnu du niveau huit, brève notation sur l'ordre du Conseil des Forges de ne pas l'ouvrir : *« On ne sait pas ce qui est là, et on a décidé que ne pas le savoir était préférable à ce que l'on pourrait apprendre en cherchant. »* Pas d'effet local. Le journal n'a jamais été lu officiellement à Iskara.
 
 **Personnages historiques nommés :**
 - **Aldric le Bâtisseur** — fondateur, an 0-30
@@ -224,7 +224,7 @@ La riviere de Lusharis coule toujours. Et les laveuses disent que parfois, quand
 
 Brenn Aldor etait le plus riche marchand de Valryn. Ses caravanes reliaient Iskara aux pays voisins, et son or faisait tourner l'economie de la cite. Les commandants le consultaient avant de prendre des decisions. Les forgerons se disputaient ses commandes.
 
-Un jour, un emissaire etranger vint a Valryn avec une proposition : un contrat exclusif pour l'exportation du fer iskaran. Le prix propose etait astronomique. Brenn deviendrait l'homme le plus riche d'Endora.
+Un jour, un emissaire etranger vint a Valryn avec une proposition : un contrat exclusif pour l'exportation du fer iskaran. Le prix propose etait astronomique. Brenn deviendrait l'homme le plus riche d'Alkaran.
 
 La condition : livrer le fer a Mosrack.
 
@@ -392,9 +392,9 @@ Quand Meren mourut, a quatre-vingt-deux ans, on l'enterra dans la galerie ou ell
 
 ## Taldaris --- "Les Trois Soldats de Taldaris"
 
-L'histoire est celebre en Iskara, mais la verite l'est moins.
+L'histoire est celebre en Iskara, et on la raconte en grand. Les chiffres ont enfle avec les generations : une armee de mille hommes, cent morts dans l'escalier, huit heures de siege. Les greffiers d'Helionis, eux, ont garde une version plus seche --- une poignee d'assaillants, une poignee de morts, une matinee. La verite des nombres est moins racontee que celle des hommes ; c'est cette derniere que le conte transmet.
 
-Quand une armee de mille hommes tenta de prendre Taldaris par surprise, seuls trois soldats gardaient l'escalier taille dans la falaise. Leurs noms etaient Voss, Keldra et Thorn. Ils avaient respectivement soixante ans, dix-neuf ans et quarante-trois ans.
+Dans la version que l'on chante, une armee de mille hommes tenta de prendre Taldaris par surprise, et seuls trois soldats gardaient l'escalier taille dans la falaise. Leurs noms etaient Voss, Keldra et Thorn. Ils avaient respectivement soixante ans, dix-neuf ans et quarante-trois ans.
 
 Voss etait un veteran qui aurait du etre a la retraite. Keldra etait une recrue qui n'avait jamais vu le combat. Thorn etait un sergent ordinaire, ni brave ni lache, juste present.
 

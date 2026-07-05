@@ -72,7 +72,7 @@ Proverbes locaux (faits culturels attestés) :
 - *« Le filon ne meurt pas. Il s'endort. »* (Ferrath, dicton de mineur)
 - *« Vous êtes libres de revenir. Nous serons là. »* (Iskara, gravée sur la Porte de Fer)
 - *« Tant qu'on entend la pierre, c'est qu'elle parle. »* (Vael'Kari, hautes terres)
-- *« Mon père est mort en respirant la poussière. Je refuse que le prochain meure pareil. »* (Lira de Zelrith, Iskara)
+- *« Mon mari est mort en respirant la poussière. Je refuse que le prochain meure pareil. »* (Lira de Zelrith, Iskara)
 
 ---
 

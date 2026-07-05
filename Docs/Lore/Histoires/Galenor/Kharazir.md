@@ -141,7 +141,7 @@ Son père lui avait légué la barge familiale, la *Fidèle*, un vaisseau large 
 
 Mirren épousa un marchand d'Azurea nommé Cassien. Un homme doux qui détestait l'eau mais adorait Mirren. Ils eurent deux filles, Lena et Sorina, qui apprirent à nager avant de marcher.
 
-Le malheur vint avec la crue de l'an 847. Une crue centenaire qui transforma le lac en mer furieuse. Mirren était en pleine traversée avec un chargement d'herbes dorées quand les eaux montèrent. Elle réussit à ramener la *Fidèle* à quai, mais les entrepôts de Baldir étaient déjà inondés. Cassien, qui tentait de sauver leur maison, fut emporté par le courant.
+Le malheur vint avec la crue de l'an 210. Une crue centenaire qui transforma le lac en mer furieuse. Mirren était en pleine traversée avec un chargement d'herbes dorées quand les eaux montèrent. Elle réussit à ramener la *Fidèle* à quai, mais les entrepôts de Baldir étaient déjà inondés. Cassien, qui tentait de sauver leur maison, fut emporté par le courant.
 
 On retrouva son corps trois jours plus tard, accroché à un pilotis, les mains refermées sur le coffret contenant les économies de la famille.
 

@@ -1,4 +1,4 @@
-﻿---
+---
 tags: [religion, lore, cosmologie, refonte-2026-05, veines-philo]
 type: lore
 status: drafted
@@ -32,9 +32,9 @@ presence_principale: [Vytharia, Lumasar, Baelor, Thalmaris, Astravia]
 
 ## Origine
 
-Somnium Vigil naît à **Cendara** (~7 000 av.A) — fondée par **Inéa la Sept-fois-Réveillée**, dormeuse mystique dont la vie traverse des siècles par cycles de sommeil-éveil. Selon la doctrine canonique GDD/24 (§"Témoins encore vivants"), Inéa **dort encore** dans une crypte secrète sous Cendara, et son **septième réveil** est attendu comme un événement cosmique majeur.
+La pré-figure fondatrice de Somnium Vigil apparaît à **Cendara** (~-800 av.A) avec **Inéa la Sept-fois-Réveillée**, dormeuse mystique dont la vie traverse des siècles par cycles de sommeil-éveil ; le mouvement ne se cristallise en religion distincte que bien plus tard, par l'Embranchement Somnique (~-200 du Sillage), qui le sépare des Noctari. Selon la doctrine canonique GDD/24 (§"Témoins encore vivants"), Inéa **dort encore** dans une crypte secrète sous Cendara, et son **septième réveil** est attendu comme un événement cosmique majeur.
 
-La religion essaime ensuite vers Vytharia (Nysaria continent), Baelor, Thalmaris (Evertia), et Lumasar (Galenor, où elle devient majoritaire et académiquement prestigieuse).
+La religion essaime ensuite vers Vytharia (Ilthara), Baelor, Thalmaris (Evertia), et Lumasar (Galenor, où elle devient majoritaire et académiquement prestigieuse).
 
 Le nom *Somnium Vigil* signifie « Rêve Éveillé » — l'oxymore central de la doctrine.
 
@@ -81,9 +81,9 @@ L'**Accord** (cf. [[L'Accord]]) est interprété comme la mesure d'**éveil** du
 
 ## Géographie d'implantation
 
-**Nations dominantes (Sillage) :** Vytharia (mélangée à Noctari), Lumasar, Baelor, Thalmaris.
+**Nations dominantes (Sillage) :** Vytharia (mélangée à Noctari), Lumasar, Baelor.
 
-**Présence secondaire :** Astravia (mélangée à Ordo Caelum), Cendara (lieu fondateur, mais pas religion d'État là-bas).
+**Présence secondaire :** Thalmaris (en second derrière Cantus Mundi), Astravia (mélangée à Ordo Caelum), Cendara (lieu fondateur, mais pas religion d'État là-bas).
 
 **Sites sacrés :**
 - **Crypte d'Inéa** (Cendara, lieu inconnu) — site sacré le plus mystérieux d'Hybelior. Sa localisation exacte est gardée par sept Vigili héréditaires
@@ -172,17 +172,17 @@ Plus discrète encore : depuis quinze ans, un nombre croissant de Songeurs **arr
 
 Somnium Vigil lit l'**Arrachement** comme la **confirmation onirique** de la doctrine : les sept nuits de cauchemars collectifs planétaires sont, pour les Vigili, la preuve que les rêves sont bien le canal par lequel les grandes vérités cosmiques circulent. *« Quand le monde est blessé, c'est dans les rêves qu'il saigne. »* Cette lecture est *trop* confortable, et plusieurs Marcheurs Sobres la critiquent comme un confort doctrinal qui empêche de penser le réel — *« nous avons converti une catastrophe en faveur. »*
 
-Les **Souffles cycliques** sont lus comme **changements de rêve cosmique**. Chaque ère est un rêve différent que Somnix tient pour Hybélior ; le Souffle est le moment où le rêveur se retourne dans son sommeil. Cette lecture rend la religion remarquablement préparée aux **présages annonciateurs** — les Vigili sont parmi les meilleurs interprètes des rêves prophétiques collectifs qui précèdent les Petits Souffles. Ils prédisent moins bien la magnitude que les Roteri, mais ils ressentent plus tôt l'imminence. C'est une compétence reconnue par les nations qui les consultent.
+Les **Souffles cycliques** sont lus comme **changements de rêve cosmique**. Chaque ère est un rêve différent que Somnix tient pour Hybelior ; le Souffle est le moment où le rêveur se retourne dans son sommeil. Cette lecture rend la religion remarquablement préparée aux **présages annonciateurs** — les Vigili sont parmi les meilleurs interprètes des rêves prophétiques collectifs qui précèdent les Petits Souffles. Ils prédisent moins bien la magnitude que les Roteri, mais ils ressentent plus tôt l'imminence. C'est une compétence reconnue par les nations qui les consultent.
 
 La **Polyphonie** est embrassée plus que comprise. Pour les Vigili, elle est **structurelle** : il y a toujours plusieurs voix, plusieurs couches, plusieurs vérités, et c'est l'ordre normal du monde. Cette posture a un coût : elle empêche la religion de **discriminer** entre voix vraies et voix fausses. Ce qui, dans les autres religions, serait un défaut, est ici érigé en doctrine. Les Marcheurs Sobres y voient le piège fondamental — *« quand tout est vrai, plus rien n'est vrai »*. Le clergé majoritaire répond qu'au contraire, c'est le refus de hiérarchiser qui ouvre les couches. Les deux camps utilisent le même mot — *vrai* — pour désigner deux choses différentes.
 
-Les **Cosmiques retirés** sont lus comme **rêveurs qui rêvent ailleurs**. Somnix n'est pas absente : elle rêve à un autre rythme, un rêve où Hybélior n'est qu'un détail. Cette formule est consolante. Elle est aussi indistinguable, en pratique, d'une affirmation qu'**il n'y a plus rien à attendre** — distinction qui, encore une fois, ne sera pas tranchée par la doctrine, parce que la doctrine refuse les tranchants.
+Les **Cosmiques retirés** sont lus comme **rêveurs qui rêvent ailleurs**. Somnix n'est pas absente : elle rêve à un autre rythme, un rêve où Hybelior n'est qu'un détail. Cette formule est consolante. Elle est aussi indistinguable, en pratique, d'une affirmation qu'**il n'y a plus rien à attendre** — distinction qui, encore une fois, ne sera pas tranchée par la doctrine, parce que la doctrine refuse les tranchants.
 
 ---
 
 ## Une figure historique — Calmara Sept-Murs (~+121 à +201 du Sillage)
 
-Tisseuse à l'Académie Onirique de Lumasar pendant trente-six ans, *Calmara Sept-Murs* est la figure la plus citée de la frange ascétique de Somnium Vigil — celle qui a posé les bases doctrinales des **Marcheurs Sobres** sans jamais en revendiquer la fondation, et qui est morte en disgrâce silencieuse à la marge même de l'institution qui l'avait élevée.
+Tisseuse à l'Académie Onirique de Lumasar pendant quarante-six ans, *Calmara Sept-Murs* est la figure la plus citée de la frange ascétique de Somnium Vigil — celle qui a posé les bases doctrinales des **Marcheurs Sobres** sans jamais en revendiquer la fondation, et qui est morte en disgrâce silencieuse à la marge même de l'institution qui l'avait élevée.
 
 Née à Lumasar dans une famille de scribes-médecins, Calmara entre à l'Académie à dix-neuf ans, devient Tisseuse à vingt-neuf — précocité rare. Pendant ses quinze premières années, elle est une *Tisseuse exemplaire*, multipliant les Lectures, présidant les Cercles de Sommeil Partagé, défendant la doctrine de la pluralité avec brio. Ses *Lectures du Mur* — études sur les rêves de cloisonnement — sont enseignées encore aujourd'hui.
 

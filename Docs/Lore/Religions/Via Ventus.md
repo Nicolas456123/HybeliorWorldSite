@@ -23,7 +23,7 @@ presence_principale: [Solena, Tyndara, Lythar, Haldria]
 
 **Position dans l'arbre :** **schisme du vent**, séparation de la souche [[Vael'Kurash]]. Les anciens Vael'Kurash considéraient Navigor comme un esprit de migration parmi les autres présences naturelles ; une faction grandissante, marquée par l'expérience des grands voyages maritimes et des traversées de cols, a conclu que Navigor relevait d'un autre rang — une figure d'un guide cosmique méritant un culte propre. Via Ventus est née de cette élévation.
 
-**Date estimée :** ~-800 du Sillage pour la cristallisation du schisme. Les racines du mouvement remontent plus haut, aux peuples nomades d'Azoria (~8 000 av.A) et au Khalifat de Solvenar (~10 000 av.A) qui formalise les pratiques nomades.
+**Date estimée :** ~-800 du Sillage pour la cristallisation du schisme. Les racines du mouvement remontent bien plus haut, aux peuples nomades d'Azoria (~12 000 av.A), dont les pratiques sont ensuite formalisées en système par le Khalifat de Solvenar (~10 000 av.A).
 
 **Religions sœurs / cousines (même tradition) :**
 - [[Vael'Kurash]] — souche dont Via Ventus s'est séparée par schisme
@@ -42,7 +42,7 @@ presence_principale: [Solena, Tyndara, Lythar, Haldria]
 
 ## Origine
 
-Via Ventus naît parmi les peuples **nomades d'Azoria** (~8 000 av.A) — descendants des Coureurs (Berceau des Vents) et des Gens de l'Eau croisés. La doctrine se cristallise dans le **Khalifat de Solvenar** (~10 000 av.A) qui formalise les pratiques nomades en système religieux structuré. Plus tard, Via Ventus essaime vers Galenor, où elle devient majoritaire dans les grandes plaines (Solena, Tyndara, Lythar) et secondaire à Haldria et chez les nomades d'Alkaran.
+Via Ventus prend racine parmi les peuples **nomades d'Azoria** (~12 000 av.A) — descendants des Coureurs (Berceau des Vents) et des Gens de l'Eau croisés. Leurs pratiques sont d'abord formalisées en système religieux structuré par le **Khalifat de Solvenar** (~10 000 av.A) ; la doctrine ne se cristallise en religion propre — par le Grand Schisme du Vent qui la sépare de la souche Vael'Kurash — que bien plus tard, vers ~-800 du Sillage. Via Ventus essaime alors vers Galenor, où elle devient majoritaire dans les grandes plaines (Solena, Tyndara, Lythar) et secondaire à Haldria et chez les nomades d'Alkaran.
 
 Le nom *Via Ventus* signifie « la Voie du Vent » en langue ancienne. Le « Souffle » du nom français est une traduction libre — la doctrine est en fait **antérieure** à la mécanique cosmique du Souffle (cf. [[Le Souffle]]), et les deux concepts sont **distincts** in-world : *via ventus* = mouvement perpétuel ; *Souffle* = pulsation cosmique cyclique.
 

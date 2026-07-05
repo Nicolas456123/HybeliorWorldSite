@@ -88,7 +88,7 @@ needs_review_for: []
 
 ### Uldora
 - Région septentrionale de fjords et de criques profondes.
-- Domaine des pêcheurs et des constructeurs de navires ; chantiers navals produisant les meilleurs vaisseaux d'Ilthara.
+- Domaine des pêcheurs et des constructeurs de navires ; chantiers navals produisant les meilleurs vaisseaux d'Endora.
 - Bois des forêts côtières réputé pour sa résistance à l'eau salée.
 
 ### Kandaros
@@ -97,7 +97,7 @@ needs_review_for: []
 
 ### Ravantis
 - Région méridionale, la plus étendue : côte de plages longues et de lagunes, courants chauds remontant du sud.
-- Région la plus peuplée et la plus active commercialement ; porte d'entrée vers les routes maritimes du sud d'Ilthara.
+- Région la plus peuplée et la plus active commercialement ; porte d'entrée vers les routes maritimes du sud d'Endora.
 
 ---
 
@@ -120,12 +120,12 @@ Village de pêcheurs accroché à une falaise abrupte ; les maisons semblent sus
 - Région : Hekoria
 
 ### Valdren — Village
-Village côtier de Hekoria connu pour ses **salines**. Le sel, récolté dans des bassins naturels creusés par la mer dans la roche calcaire, est d'une pureté exceptionnelle et se vend à prix d'or dans tout Ilthara. Sa qualité fut découverte lors d'un banquet royal où le roi remarqua une différence de goût ; les sauniers ignoraient produire quelque chose de remarquable et ont ajusté leurs prix depuis. Métier dépendant entièrement des cycles de marée et de soleil.
+Village côtier de Hekoria connu pour ses **salines**. Le sel, récolté dans des bassins naturels creusés par la mer dans la roche calcaire, est d'une pureté exceptionnelle et se vend à prix d'or dans tout Endora. Sa qualité fut découverte lors d'un banquet royal où le roi remarqua une différence de goût ; les sauniers ignoraient produire quelque chose de remarquable et ont ajusté leurs prix depuis. Métier dépendant entièrement des cycles de marée et de soleil.
 - Population : Village
 - Région : Hekoria
 
 ### Uldarin — Ville
-Principale ville d'Uldora et plus grand **chantier naval** d'Ilthara ; cales sèches s'étendant sur des centaines de mètres le long d'un fjord profond. Chaque navire porte un nom-constellation gravé dans la proue — tradition imposée par la reine **Sylveira** avant la Traversée des Brumes, en mémoire du principe qui lui avait permis de traverser. Maîtres-charpentiers réputés pour la qualité de leurs coques.
+Principale ville d'Uldora et plus grand **chantier naval** d'Endora ; cales sèches s'étendant sur des centaines de mètres le long d'un fjord profond. Chaque navire porte un nom-constellation gravé dans la proue — tradition imposée par la reine **Sylveira** avant la Traversée des Brumes, en mémoire du principe qui lui avait permis de traverser. Maîtres-charpentiers réputés pour la qualité de leurs coques.
 - Population : Ville
 - Région : Uldora
 
@@ -150,7 +150,7 @@ Principale ville de l'archipel de Kandaros, bâtie sur la plus grande île ; cen
 - Région : Kandaros
 
 ### Sylradis — Village
-Village de **plongeurs de perles**, sur une île coralienne entourée d'eaux turquoise ; les plongeurs descendent à grande profondeur grâce à des techniques d'apnée transmises dès l'enfance. Les perles de Sylradis (argentées à reflets étoilés) sont les plus rares et chères d'Ilthara. Le reflet étoilé fut obtenu il y a trois siècles par un plongeur récoltant les perles uniquement en nuits de pleine lune et les exposant au clair de lune quarante nuits consécutives. Mécanisme discuté (effet lunaire selon les Astrologues, rigueur du rituel selon les plongeurs), les deux lectures cohabitant sans tension.
+Village de **plongeurs de perles**, sur une île coralienne entourée d'eaux turquoise ; les plongeurs descendent à grande profondeur grâce à des techniques d'apnée transmises dès l'enfance. Les perles de Sylradis (argentées à reflets étoilés) sont les plus rares et chères d'Endora. Le reflet étoilé fut obtenu il y a trois siècles par un plongeur récoltant les perles uniquement en nuits de pleine lune et les exposant au clair de lune quarante nuits consécutives. Mécanisme discuté (effet lunaire selon les Astrologues, rigueur du rituel selon les plongeurs), les deux lectures cohabitant sans tension.
 - Population : Village
 - Région : Kandaros
 
@@ -165,7 +165,7 @@ La plus petite et la plus isolée des communautés de Kandaros ; **omise délib�
 - Région : Kandaros
 
 ### Ravindor — Ville
-Principale ville portuaire de Ravantis ; carrefour commercial où convergent les routes maritimes du sud d'Ilthara, son port accueillant des dizaines de navires simultanément. Dernier port de Haldria intégré au royaume : cité indépendante depuis sa fondation, ayant résisté à trois tentatives d'annexion avant un traité lui conservant une **autonomie commerciale considérable** (impôts plus bas que toute autre ville, en échange de sa loyauté).
+Principale ville portuaire de Ravantis ; carrefour commercial où convergent les routes maritimes du sud d'Endora, son port accueillant des dizaines de navires simultanément. Dernier port de Haldria intégré au royaume : cité indépendante depuis sa fondation, ayant résisté à trois tentatives d'annexion avant un traité lui conservant une **autonomie commerciale considérable** (impôts plus bas que toute autre ville, en échange de sa loyauté).
 - Population : Ville
 - Région : Ravantis
 
@@ -180,7 +180,7 @@ Village de pêcheurs de lagune vivant de la capture de crustacés et mollusques 
 - Région : Ravantis
 
 ### Galdrion — Village
-Village de **fabricants de voiles**, fournisseur principal de toile à voile de toute la flotte haldrienne ; utilise un lin côtier d'une résistance exceptionnelle. Chaque voile est tissée avec un motif de constellation : les fils du motif sont orientés différemment de la toile et renforcent structurellement les zones de plus forte tension lors des virements de bord (ingénierie textile présentée comme religion). Une voile de Galdrion est un gage de qualité reconnu au-delà d'Ilthara.
+Village de **fabricants de voiles**, fournisseur principal de toile à voile de toute la flotte haldrienne ; utilise un lin côtier d'une résistance exceptionnelle. Chaque voile est tissée avec un motif de constellation : les fils du motif sont orientés différemment de la toile et renforcent structurellement les zones de plus forte tension lors des virements de bord (ingénierie textile présentée comme religion). Une voile de Galdrion est un gage de qualité reconnu au-delà d'Endora.
 - Population : Village
 - Région : Ravantis
 

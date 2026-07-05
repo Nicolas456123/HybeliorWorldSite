@@ -83,7 +83,7 @@ needs_review_for: []
 
 ### Les Forteresses de Glace
 
-- Architecture unique dans Hybélior : bâtiments sculptés dans la glace éternelle d'Azoria par des techniques ancestrales transmises de maître à apprenti.
+- Architecture unique dans Hybelior : bâtiments sculptés dans la glace éternelle d'Azoria par des techniques ancestrales transmises de maître à apprenti.
 - Cette glace travaillée est plus résistante que la pierre : elle ne fond pas, ne se fissure pas, et réfracte la lumière des étoiles (effet tenu pour sacré).
 - Les forteresses les plus anciennes ont des murs translucides laissant voir les ombres des occupants — manque d'intimité que les Caéloriens ne remarquent pas, habitués au regard permanent du ciel.
 - **Savoir mutilé** : une part du savoir-faire de construction est perdue (cf. *Histoires/Caeloria — Vyntheris*). Les Veilleurs savent *entretenir* les structures mais non les rebâtir. Le clergé continue d'enseigner que la technique est *« transmise »*, sans préciser qu'elle est mutilée.
@@ -93,7 +93,7 @@ needs_review_for: []
 - **La piété comme seuil d'humanité** : pour un Lié de souche, n'avoir pas reçu de Baptême des Étoiles, c'est ne pas être pleinement *advenu* socialement. Les non-Liés ne reçoivent pas ce baptême ; ils sont enregistrés sous la formule générique *« sans constellation »* (sur mariages, apprentissages, sépultures). Formule non insultante, simplement *manquante*.
 - **La patience comme doctrine pratique** : le Recensement du soir (dix-sept minutes minimum, reprise totale à la moindre interruption) rend les Caéloriens durs à presser. Adage : *« Un Stellaris attend pour acheter son pain comme on attend qu'un astre se lève. »*
 - **Le silence comme technique** : les Caéloriens parlent peu ; les voix humaines y sont *en dessous* du seuil habituel des autres villes (les gongs des observatoires sonnant à toutes les heures fixes). Les enfants apprennent à ne pas pleurer pendant les éclipses. Les morts sont enterrés tête au nord, jamais autrement ; on ne dit pas le mot *mort* mais *« lu jusqu'au bout »*.
-- **Le mépris doux pour ce qui n'est pas dans le ciel** : rêves, ombres, voix des morts, chants — tout ce qui n'est pas inscriptible dans une éphéméride est suspect. Les Somnium Vigil ne sont pas tolérés ; les Foedus Animae sont chassés ; l'Aqua Nigra est passible de peines équivalentes à celles des assassins (alignement avec Solmaris et Kethvar, cf. fiche Aqua Nigra).
+- **Le mépris doux pour ce qui n'est pas dans le ciel** : rêves, ombres, voix des morts, chants — tout ce qui n'est pas inscriptible dans une éphéméride est suspect. Les Somnium Vigil ne sont pas tolérés ; les Foedus Animae sont chassés ; l'Aqua Nigra y est proscrite et pourchassée sans merci, même si Caeloria ne l'a pas inscrite dans son code au rang des assassins comme l'ont fait Solmaris, Kethvar et Mosrack (cf. fiche Aqua Nigra).
 - **Le ciel comme tribunal** : aucun Lié n'agirait contre son thème natal sans consulter un Tribunal des Lectures. À l'inverse des réformistes d'Astravia (qui pratiquent le *Petit Office* : recenser, mesurer, signer sans prétendre comprendre), à Caeloria le Petit Office n'existe pas — le clergé y est trop dense pour qu'un Veilleur échappe à son maître.
 
 ---
@@ -113,7 +113,7 @@ needs_review_for: []
 - Région intérieure, plus élevée et plus froide que Duskoria. Plateau glacé parsemé de formations de glace ressemblant à des cathédrales, appelées *Temples du Givre*.
 - Sous la surface : réseau labyrinthique de tunnels creusés par d'anciennes rivières souterraines.
 - On y a rapporté des fragments attribués aux **Cités des Anciens** (civilisation antérieure dont les Caéloriens lisent les vestiges comme une maîtrise du froid). Nature, datation et bâtisseurs varient selon les chroniqueurs. Passages instables et dangereux ; artefacts de grande valeur.
-- Principaux **observatoires éloignés** : Vyntheris (tour qui ne fond pas, construction = savoir perdu) ; et un quatrième observatoire plus modeste à Galdrith, exclusivement dédié à la lecture des constellations *au-dessus* des Cités des Anciens (le Conclave leur prête une signature stellaire différente du reste du ciel).
+- Principal **observatoire éloigné** : un quatrième observatoire, plus modeste, à Galdrith, exclusivement dédié à la lecture des constellations *au-dessus* des Cités des Anciens (le Conclave leur prête une signature stellaire différente du reste du ciel).
 
 ---
 

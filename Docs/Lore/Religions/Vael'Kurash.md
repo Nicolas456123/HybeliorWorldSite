@@ -69,7 +69,7 @@ Chaque élément naturel possède un esprit conscient et individuel. La nature e
 
 Le Vael'Kurash est l'une des religions les plus **inclusives** vis-à-vis des non-Liés — son intuition fondamentale est que *tout est animé*, donc qu'aucun mortel n'est totalement coupé du monde spirituel. Les Liés ont accès à une perception plus directe (on dit qu'ils « entendent les esprits »), mais les non-Liés peuvent prier et participer aux rituels sans hiérarchie sacrée formelle.
 
-À Gryndor (nation Vael'Kurash dominante en Sillage), une **dérive** s'est produite après ~9 250 ap.A : les *Décrets du Concile* excluent les non-Liés (péjorativement appelés *« Déliés »* par les Décrets) des rites principaux. Cette dérive est combattue par le **Mouvement du Silence Égal** (~10 000 ap.A), prêtres réformistes qui rappellent que « le Lien et son absence sont également la volonté de Spiritus ».
+À Trinoria (nation Vael'Kurash dominante en Sillage), une **dérive** s'est produite après ~9 250 ap.A : les *Décrets du Concile* excluent les non-Liés (péjorativement appelés *« Déliés »* par les Décrets) des rites principaux. Cette dérive est combattue par le **Mouvement du Silence Égal** (~10 000 ap.A), prêtres réformistes qui rappellent que « le Lien et son absence sont également la volonté de Spiritus ».
 
 **Position sur les Déliés (sevrés volontaires) :** rejet doctrinal absolu. Couper son Lien est considéré comme blesser Spiritus *en soi-même* — l'équivalent spirituel d'une mutilation. Les Catena Fracta sont vus comme des hérétiques inversés.
 
@@ -89,9 +89,9 @@ L'**Accord** (cf. [[L'Accord]]) est interprété comme la mesure de l'écoute du
 
 ## Géographie d'implantation
 
-**Nations dominantes (Sillage) :** Alkaran, Ilthara (nord), Ulinor — dans une moindre mesure Gryndor (où il est religion d'État).
+**Nations dominantes (Sillage) :** Alkaran, Ilthara (nord), Ulinor, Trinoria (Galenor, traditions forestières — où il est religion d'État).
 
-**Présence secondaire :** Trinoria, Warenthor, Skaldoria (mêlé au Foedus Animae chez les peuples tribaux).
+**Présence secondaire :** Warenthor, Skaldoria (mêlé au Foedus Animae chez les peuples tribaux).
 
 **Sites sacrés :**
 - **Clairière des Fils** (Celethor) — lieu fondateur d'Orvane la Tisseuse, pèlerinage encore actif
@@ -120,7 +120,7 @@ L'**Accord** (cf. [[L'Accord]]) est interprété comme la mesure de l'écoute du
 
 **Réouverture en l'an 142 du Sillage** : les Vael'Kurash rouvrent leurs textes au public, dans un mouvement d'humilité post-traumatique. Les générations qui suivent élaborent une **théologie de l'écoute attentive** : puisque Spiritus est affaibli, il faut écouter *plus longtemps* et *plus profondément* pour percevoir sa présence.
 
-**Sillage actuel (an 251)** : doctrine mature mais fragmentée. Le **Mouvement du Silence Égal** à Gryndor signale qu'une nouvelle réforme se prépare — vers une inclusion explicite des non-Liés dans la communion sacrée.
+**Sillage actuel (an 251)** : doctrine mature mais fragmentée. Le **Mouvement du Silence Égal** à Trinoria signale qu'une nouvelle réforme se prépare — vers une inclusion explicite des non-Liés dans la communion sacrée.
 
 ---
 
@@ -142,7 +142,7 @@ Les sermons publics sont rares. La religion préfère les **veillées** : on s'a
 
 ## Vie quotidienne
 
-Une région Vael'Kurash se reconnaît à ce qu'elle **ne construit pas**. Les forêts d'Ulinor n'ont pas de routes pavées ; les sources d'Alkaran n'ont pas de margelles maçonnées ; les sommets de l'Ilthara nord sont parcourus de sentiers qu'aucun Concile ne dessine et que nul ne nomme. Les Vael'Kari tiennent que *« construire sur un esprit, c'est lui demander de partir »*. Cette retenue donne aux territoires Vael'Kurash une beauté distinctive — et un coût économique réel, qui pèse sur la fiscalité de Gryndor depuis trois siècles.
+Une région Vael'Kurash se reconnaît à ce qu'elle **ne construit pas**. Les forêts d'Ulinor n'ont pas de routes pavées ; les sources d'Alkaran n'ont pas de margelles maçonnées ; les sommets de l'Ilthara nord sont parcourus de sentiers qu'aucun Concile ne dessine et que nul ne nomme. Les Vael'Kari tiennent que *« construire sur un esprit, c'est lui demander de partir »*. Cette retenue donne aux territoires Vael'Kurash une beauté distinctive — et un coût économique réel, qui pèse sur la fiscalité de Trinoria depuis trois siècles.
 
 Le clergé n'a pas de hiérarchie verticale. Il a des **lignées** — chaque Vael'Kari descend, par initiation, d'un maître ou d'une maîtresse qui descend lui-même d'un autre, et cette généalogie de transmission compte plus que tout grade. Les lignées les plus prestigieuses (Selvara, Caverne, Source-Bleue, Vieille-Terre, Pierre-de-l'Aube) entretiennent des rivalités feutrées sur la *justesse de l'écoute*. Aucun Vael'Kari ne s'autoproclame ; on est reconnu par le silence qu'on tient quand un autre Vael'Kari prie à côté de soi. Les initiations principales — passage des *Cavernes de l'Écoute* — durent vingt-sept jours, dont sept sans nourriture et sept sans parole.
 
@@ -152,7 +152,7 @@ Détail important : les Vael'Kurash **n'enterrent pas non plus leurs morts dans 
 
 Les enfants Vael'Kurash apprennent dès trois ans à **se tenir au pied d'un arbre sans rien faire**. Cet apprentissage, étalé sur plusieurs années, produit une attention particulière à la lenteur — qu'on retrouve dans la diplomatie Vael'Kurash, réputée pour son endurance dans les négociations longues. Les délégations d'Ulinor à Lumasar attendent traditionnellement *plusieurs jours* avant de répondre à une proposition. Cette habitude est moquée et respectée à parts égales.
 
-À Gryndor, depuis les **Décrets du Concile** (~9 250 ap.A), la pratique a été codifiée par l'État : calendrier liturgique national, exclusion des non-Liés des rites principaux, examen d'aptitude obligatoire pour les Vael'Kari servant en ville. Cette codification a créé une **division sourde** entre les Vael'Kurash de Gryndor (institutionnels, normés, parfois corrompus) et les Vael'Kurash des hautes terres d'Alkaran et d'Ulinor (lignée pure, méfiance absolue envers tout texte officiel).
+À Trinoria, depuis les **Décrets du Concile** (~9 250 ap.A), la pratique a été codifiée par l'État : calendrier liturgique national, exclusion des non-Liés des rites principaux, examen d'aptitude obligatoire pour les Vael'Kari servant en ville. Cette codification a créé une **division sourde** entre les Vael'Kurash de Trinoria (institutionnels, normés, parfois corrompus) et les Vael'Kurash des hautes terres d'Alkaran et d'Ulinor (lignée pure, méfiance absolue envers tout texte officiel).
 
 ---
 
@@ -160,7 +160,7 @@ Les enfants Vael'Kurash apprennent dès trois ans à **se tenir au pied d'un arb
 
 Trois lignes de friction, étroitement nouées.
 
-**Première ligne : le Silence Égal contre les Décrets du Concile.** Le **Mouvement du Silence Égal** (~10 000 ap.A, encore actif) prêche que l'exclusion des non-Liés est une trahison doctrinale — *« Spiritus n'a jamais demandé d'examen ; les Décrets parlent pour Spiritus, ce qui est la première offense »*. Les Décrétistes répondent que la codification protège la pureté de la pratique, et que le mouvement réformiste ouvrirait les Cavernes à des fidèles non préparés. Les deux camps se partagent à peu près également l'opinion à Gryndor. Aux hautes terres, on considère le débat comme *« une querelle de plaine »* — symptôme du fait que la religion d'État, ce n'est déjà plus la religion.
+**Première ligne : le Silence Égal contre les Décrets du Concile.** Le **Mouvement du Silence Égal** (~10 000 ap.A, encore actif) prêche que l'exclusion des non-Liés est une trahison doctrinale — *« Spiritus n'a jamais demandé d'examen ; les Décrets parlent pour Spiritus, ce qui est la première offense »*. Les Décrétistes répondent que la codification protège la pureté de la pratique, et que le mouvement réformiste ouvrirait les Cavernes à des fidèles non préparés. Les deux camps se partagent à peu près également l'opinion à Trinoria. Aux hautes terres, on considère le débat comme *« une querelle de plaine »* — symptôme du fait que la religion d'État, ce n'est déjà plus la religion.
 
 **Deuxième ligne : le déni des esprits éteints.** C'est la friction la plus profonde et la moins formulée. Une fraction importante du clergé — d'autant plus douloureusement qu'elle est consciencieuse — observe depuis l'Arrachement que **certains esprits ne répondent plus**. La doctrine officielle parle de retrait, de sommeil, de concentration. Quelques Vael'Kari de lignée ancienne — surtout dans les Cavernes de l'Écoute — admettent en cercle restreint que **certains esprits sont morts**, ou *« quelque chose qui ressemble à mourir »*. Ces aveux ne deviennent jamais publics. Quand un Vael'Kari les formule trop nettement, sa lignée le retire de l'enseignement, sans excommunication, par déplacement progressif vers des veillées de moins en moins fréquentées. La religion **refuse** de reconnaître la mort possible d'un esprit, parce que cette reconnaissance dévasterait toute la doctrine de la persistance. Or sans cette doctrine, que reste-t-il à enseigner ?
 
@@ -190,9 +190,9 @@ Née dans une famille de bergers d'Alkaran, Veshva entre en initiation à treize
 
 À trente-neuf ans, elle entreprend ce qui deviendra son **Œuvre Tardive** : aller veiller, **seule et longuement**, les esprits qu'on disait *retirés*. Une source au nord d'Ulinor qu'aucun Vael'Kari ne visitait plus depuis vingt ans. Un sommet d'Alkaran où les Cavernes de l'Écoute donnaient sur des silences pleins. Un arbre de Selvara dont la lignée des veilleurs s'était éteinte. Veshva passe des semaines, parfois des mois, au pied de chaque présence affaiblie. Elle ne demande pas qu'ils répondent. Elle ne prétend pas qu'ils répondront. Elle veille.
 
-Pendant vingt-cinq ans, elle se déplace ainsi, et son enseignement aux apprentis change progressivement. Elle cesse de leur dire que les esprits *durent*. Elle leur enseigne, à voix basse, ce qu'elle appelle *« la veillée du mourant »* : *« on prie un esprit qui s'éteint comme on prie un vieillard sur le chemin — sans demander qu'il revienne, en disant juste que tu es là. »* Cette formulation est doctrinalement trouble : elle suggère que les esprits *s'éteignent*, ce que la doctrine refuse.
+Pendant vingt-trois ans, elle se déplace ainsi, et son enseignement aux apprentis change progressivement. Elle cesse de leur dire que les esprits *durent*. Elle leur enseigne, à voix basse, ce qu'elle appelle *« la veillée du mourant »* : *« on prie un esprit qui s'éteint comme on prie un vieillard sur le chemin — sans demander qu'il revienne, en disant juste que tu es là. »* Cette formulation est doctrinalement trouble : elle suggère que les esprits *s'éteignent*, ce que la doctrine refuse.
 
-Son passage est compliqué. Les lignées d'Alkaran la considèrent comme dangereuse mais ne la rejettent pas, par respect pour la qualité de ses veillées. À Gryndor, le clergé d'État la traite comme *« errante »* — euphémisme administratif pour ne pas avoir à reconnaître une autorité qu'on ne contrôle pas. Le Mouvement du Silence Égal tente une fois de la récupérer ; elle refuse, déclarant que *« le débat sur les fidèles n'est pas le débat important. Le débat important, c'est ce qu'on fait pour ceux qui ne peuvent plus parler. »*
+Son passage est compliqué. Les lignées d'Alkaran la considèrent comme dangereuse mais ne la rejettent pas, par respect pour la qualité de ses veillées. À Trinoria, le clergé d'État la traite comme *« errante »* — euphémisme administratif pour ne pas avoir à reconnaître une autorité qu'on ne contrôle pas. Le Mouvement du Silence Égal tente une fois de la récupérer ; elle refuse, déclarant que *« le débat sur les fidèles n'est pas le débat important. Le débat important, c'est ce qu'on fait pour ceux qui ne peuvent plus parler. »*
 
 Veshva meurt en +249, à soixante-deux ans, au pied d'une pierre des hautes terres d'Alkaran que personne d'autre n'avait visitée depuis un demi-siècle. Une apprentie de longue date la trouve trois jours plus tard. Le rite d'exposition aérienne est respecté. Aucun nom n'est inscrit. Aucune cérémonie n'est tenue par le clergé d'État.
 

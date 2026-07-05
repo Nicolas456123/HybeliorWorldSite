@@ -32,7 +32,7 @@ presence_principale: [Vytharia, Nysaria, Avalor]
 
 ## Origine
 
-Les Noctari naissent à **Nysaria** (~10 000 av.A) — île aux contours flous, terre de brume et de silence. Initialement organisation **secrète** au sein du Royaume de Veshrim avant d'essaimer vers le Saint-Empire d'Endara puis vers Vytharia (Nysaria continent), où ils trouvent enfin un foyer doctrinal stable. Le mouvement passe par plusieurs noms anciens (« les Veilleurs », « les Frères de l'Ombre Profonde ») avant de se cristalliser sous le nom **Noctari** vers ~5 000 av.A.
+Les Noctari naissent à **Nysaria** (~10 000 av.A) — île aux contours flous, terre de brume et de silence. Initialement **cercle secret** sans patrie, le mouvement essaime d'abord vers le **Saint-Empire d'Endara** (~8 000 av.A) où il prospère dans l'ombre, se cristallise sous le nom **Noctari** vers ~5 000 av.A, puis refait surface au sein du **Royaume de Veshrim** (~3 000 av.A, Cendara) comme confrérie occulte tolérée en marge du culte de la flamme, avant de gagner enfin **Vytharia** (Ilthara), où il trouve un foyer doctrinal stable. Le mouvement passe par plusieurs noms anciens (« les Veilleurs », « les Frères de l'Ombre Profonde ») avant que le nom **Noctari** ne s'impose partout.
 
 Leur origine **secrète** marque profondément la culture du clergé : structure pyramidale opaque, codes oraux, rites d'initiation par l'obscurité totale.
 
