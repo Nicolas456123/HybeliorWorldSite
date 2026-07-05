@@ -64,6 +64,7 @@ Les Huit selon Era 3b **[canon]** : **Sera de Celethor**, **Drakhan l'Aîné**, 
 ### 1.4 — SERA DE CELETHOR ★ POV MAJEUR
 
 - **Nom [canon]**. Femme, ~45 ans **[canon]**.
+- **Convention (tranché 2026-07-06)** : ~45 ans ferme ; les marques d'usure de la prose (mains, fatigue) sont l'usure du deuil, pas un âge — ne pas les lire comme une contradiction.
 - **Origine [canon]** : ancienne préceptrice à l'Académie de Celethor, tradition Orvane (Lien-de-l'Arbre, méditation). A correspondu 15 ans avec des Verithani de cinq pays **[canon]**.
 - **Blessure fondatrice [canon]** : **sa sœur jumelle non-Liée**, traitée de « Vide » toute sa vie dans une société qui vénérait le Lien. « Soit tout le monde a accès au Lien, soit personne. Entre les deux, je choisis personne. » **[canon]**. La jumelle est le cœur battant de Sera — **[inventé]** : elle s'appelle **Ísae [inventé]**, elle vit encore à Celethor, elle ignore ce que Sera prépare, et Sera lui a écrit une dernière lettre qu'elle n'a pas envoyée.
 - **Rapport au Lien** : Liée, Voie Orvane. La plus lucide du Cercle sur la théorie.
@@ -94,6 +95,7 @@ Les Huit selon Era 3b **[canon]** : **Sera de Celethor**, **Drakhan l'Aîné**, 
 **MIRATHIS** *(POV secondaire — le garde-fou)*
 - **[canon]** : non-binaire, ~30 ans, érudit·e de Vytharia (Ilthara), tradition Somnium Vigil (Lien des rêves de Somnix). A des « Rêves-Gris » prédictifs de l'Arrachement ~10 ans avant. **Ambivalent·e jusqu'au bout** — n'est pas convaincu·e que c'est une bonne idée, mais les rêves sont clairs : ça arrive avec ou sans eux. Pose les questions que les autres évitent. Peut-être le·la seul·e avec un plan de sortie.
 - Fonction : **c'est Mirathis qui prononce la phrase-canon** — « non. Aucun de nous ne le croit vraiment. Nous croyons que c'est inévitable. » **[canon]**. Incarne la lecture noctarie/onirique (« la rupture venait du Voile lui-même »). Voyage depuis Vytharia « en automne, l'an 3 avant » **[canon, archives oniriques]**.
+- **Convention pronom (tranché 2026-07-06)** : sujet « iel » + accords au point médian (déjà acquis) ; en position OBJET/TONIQUE : « ellui » ; quand un clitique objet rendrait la phrase lourde, **préférer la reformulation** (recomposer la phrase pour éviter le clitique). Les noms de rôle (« le voyageur », « l'érudit·e ») restent accordés au nom, c'est correct.
 
 **AELINDRA DE PYRION** *(POV secondaire)*
 - **[canon]** : ~35 ans, capitaine militaire du Dominat de Pyrion, Liée de combat. Envoyée *infiltrer* les Verithani, a passé 2 ans à chercher la faille pour les disqualifier, ne l'a pas trouvée, a changé de camp par **conclusion logique** (pas émotion). A envoyé à sa hiérarchie un rapport de 40 pages expliquant pourquoi ils avaient raison — classé, brûlé. Logistique et sécurité du Cercle : c'est elle qui organise le voyage au Mont sans être détectée **[canon]**.
