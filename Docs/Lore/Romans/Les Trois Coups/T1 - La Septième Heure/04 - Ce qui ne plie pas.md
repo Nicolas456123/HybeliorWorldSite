@@ -9,7 +9,7 @@ lieu: Cendara
 status: draft
 ---
 
-# Chapitre quatre — Ce qui ne plie pas
+# Ce qui ne plie pas
 
 Le fer sait ce qu'on lui a fait.
 

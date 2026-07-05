@@ -9,7 +9,7 @@ lieu: au pied du Mont Cendra (Cendral bas)
 status: draft
 ---
 
-# Chapitre dix-sept — Ce qu'on ne dit pas à une sœur
+# Ce qu'on ne dit pas à une sœur
 
 La montagne était au-dessus d'eux, maintenant, et cela changeait tout.
 

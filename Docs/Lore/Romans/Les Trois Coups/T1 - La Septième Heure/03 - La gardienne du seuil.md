@@ -9,7 +9,7 @@ lieu: Aethranor (Galenor)
 status: draft
 ---
 
-# Chapitre trois — La gardienne du seuil
+# La gardienne du seuil
 
 Nera aimait l'arche à l'heure où personne ne la traversait.
 

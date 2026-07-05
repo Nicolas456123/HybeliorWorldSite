@@ -9,7 +9,7 @@ lieu: Celethor
 status: draft
 ---
 
-# Chapitre deux — Le fil et le vide
+# Le fil et le vide
 
 Elles étaient nées à une heure d'écart, et pendant treize ans on ne les avait pas distinguées.
 

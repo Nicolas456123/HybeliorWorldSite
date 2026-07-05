@@ -9,7 +9,7 @@ lieu: Cendral bas, au pied du Mont Cendra (Cendara)
 status: draft
 ---
 
-# Chapitre dix-neuf — La phrase qui attendait
+# La phrase qui attendait
 
 Ils étaient huit, et c'était la première fois.
 

@@ -9,7 +9,7 @@ lieu: Navoria (Thalassocratie de Navoris, Azoria) — le Sanctuaire de Navigor
 status: draft
 ---
 
-# Chapitre dix-huit — Ce qu'un homme peut tenir
+# Ce qu'un homme peut tenir
 
 Le Grand Pontife de Navigor s'appelait Théon Ossarin, et il avait cessé, depuis longtemps, de croire que Navigor l'entendait.
 
