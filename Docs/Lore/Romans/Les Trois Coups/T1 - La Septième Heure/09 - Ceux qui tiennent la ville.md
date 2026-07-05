@@ -9,7 +9,7 @@ lieu: Cendal'Horun (cité volante au-dessus de Cendara)
 status: draft
 ---
 
-# Ceux qui tiennent la ville
+# Chapitre huit — Ceux qui tiennent la ville
 
 Kelib savait qu'on ne devait pas s'approcher du bord, et il s'approchait du bord.
 

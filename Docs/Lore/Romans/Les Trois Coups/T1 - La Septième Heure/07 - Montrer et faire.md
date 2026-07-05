@@ -9,7 +9,7 @@ lieu: Aethranor (Galenor)
 status: draft
 ---
 
-# Montrer et faire
+# Chapitre six — Montrer et faire
 
 Il y avait, dans la vie d'un érudit d'Aethranor, une heure qui n'appartenait à personne, et Thessan avait appris depuis longtemps à se la voler.
 

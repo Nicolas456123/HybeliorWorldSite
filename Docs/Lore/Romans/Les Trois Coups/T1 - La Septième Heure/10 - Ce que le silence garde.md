@@ -9,7 +9,7 @@ lieu: Baelor (cloître de Tholmë)
 status: draft
 ---
 
-# Ce que le silence garde
+# Chapitre neuf — Ce que le silence garde
 
 Vorath n'avait jamais prié pour que le monde finisse. Il tenait à cette précision comme on tient à un mur dans le noir, parce que tout le reste, désormais, se dérobait. Il n'avait pas prié pour la fin. Il avait seulement, pendant quarante ans, écouté — et un jour l'écoute lui avait rendu quelque chose qu'il n'avait pas demandé, comme la mer rend parfois au rivage un objet qu'on croyait avoir jeté pour toujours.
 

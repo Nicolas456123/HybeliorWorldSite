@@ -2,14 +2,14 @@
 tags: [roman, trois-coups, tome-1, coda, pov-kessa, cendara, forgerons, grande-nuit, graine-t2]
 type: roman-chapitre
 partie: coda
-chapitre: coda-1
+chapitre: 29
 titre: La marque qui reste
 pov: Kessa (An 0, le lendemain — Cendara, hors de Cendral)
 lieu: Cendara — un relais de la Route des Cendres, au nord de Cendral
 status: draft
 ---
 
-# La marque qui reste
+# Chapitre vingt-neuf — La marque qui reste
 
 Elle sut que son père était mort à la manière dont la cendre changea de couleur.
 

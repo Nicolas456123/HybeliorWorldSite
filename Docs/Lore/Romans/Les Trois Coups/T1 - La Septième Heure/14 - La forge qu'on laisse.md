@@ -9,7 +9,7 @@ lieu: Cendral, Cendara
 status: draft
 ---
 
-# La forge qu'on laisse
+# Chapitre douze — La forge qu'on laisse
 
 On ne redescend jamais tout à fait du Mont.
 

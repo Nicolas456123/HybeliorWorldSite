@@ -9,7 +9,7 @@ lieu: Celethor
 status: draft
 ---
 
-# La part des Vides
+# Chapitre sept — La part des Vides
 
 Il y avait des semaines que Sera vivait avec la question, et cette nuit la question avait un fond nouveau, plus froid que tous les autres.
 

@@ -9,7 +9,7 @@ lieu: Aethranor (Galenor)
 status: draft
 ---
 
-# Les lecteurs
+# Chapitre premier — Les lecteurs
 
 Thessan avait appris à reconnaître une bibliothèque interdite à l'odeur. Ce n'était pas celle des salles ouvertes de l'Académie, où le vélin neuf et l'encre de qualité se mêlaient au parfum des lampes bien entretenues. C'était une odeur plus basse, plus humide : la poussière qui ne sert à rien, le cuir qui se fend faute d'être ouvert, et par-dessous tout, ténue, l'odeur minérale de la pierre bleue d'Aethranor, cette pierre que les fondateurs avaient tirée du sous-sol de la ville et dont on disait qu'elle était plus ancienne que la ville elle-même. On la sentait partout où l'on descendait. Plus on s'enfonçait sous Aethranor, plus elle prenait le dessus sur le reste, jusqu'à devenir la seule chose qu'on respirât.
 

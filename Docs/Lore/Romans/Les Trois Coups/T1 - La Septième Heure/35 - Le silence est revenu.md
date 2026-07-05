@@ -2,14 +2,14 @@
 tags: [roman, trois-coups, tome-1, coda, pov-vorath, baelor, taciti, silence, saint-malgre-lui, graine-t2]
 type: roman-chapitre
 partie: coda
-chapitre: coda-2
+chapitre: 30
 titre: Le silence est revenu
 pov: Vorath le Tacite (An 0, les jours d'après — le retour à Baelor)
 lieu: la mer, puis Baelor (cloître de Tholmë)
 status: draft
 ---
 
-# Le silence est revenu
+# Chapitre trente — Le silence est revenu
 
 Il ne sut jamais pourquoi la fumée l'avait manqué.
 

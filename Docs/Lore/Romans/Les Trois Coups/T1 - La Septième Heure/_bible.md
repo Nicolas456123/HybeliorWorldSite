@@ -381,3 +381,9 @@ fichier `22` = chapitre 19. Chaque système est continu et sans trou ; l'ordre d
 référence est celui de `roman-index.json`. Validé (relecture finale) : POV Sera en continuité
 sur H-2 → H0 (fichiers 27-28) — le geste vu par elle seule sert l'ambiguïté ; titres-heures
 ponctuels des fenêtres (H4, H6) assumés, le texte respecte les plages de la bible §2.
+
+**Mise à jour (2026-07-06, demande auteur)** : numérotation OFFICIELLE des chapitres rétablie et
+unifiée — les 31 chapitres POV sont numérotés 1 à 31 dans l'ordre de lecture (coda comprise) ;
+le prologue et les seuils de la voix du Lien restent HORS numérotation. Les H1 portent
+« Chapitre X — Titre » sauf les chapitres-heures (H-7 → H7), dont le titre reste l'heure ;
+leur numéro vit sur la carte du sommaire (« Chapitre N — POV ») et en frontmatter.

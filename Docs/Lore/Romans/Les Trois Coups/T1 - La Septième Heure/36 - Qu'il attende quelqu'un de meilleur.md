@@ -2,14 +2,14 @@
 tags: [roman, trois-coups, tome-1, coda, pov-thessan, journal, fragment-zero, fragment-7, artefact-cache, clausule-d-echappee, cloture]
 type: roman-chapitre
 partie: coda
-chapitre: coda-3
+chapitre: 31
 titre: Qu'il attende quelqu'un de meilleur
 pov: Thessan l'Érudit (An 0, le soir — dernière image du livre)
 lieu: le flanc du Mont Cendra, sous la cendre — un abri de roche
 status: draft
 ---
 
-# Qu'il attende quelqu'un de meilleur
+# Chapitre trente et un — Qu'il attende quelqu'un de meilleur
 
 Il était vivant, et il ne savait pas pourquoi.
 

@@ -9,7 +9,7 @@ lieu: Route de Sulvane à Cendara (Cendara)
 status: draft
 ---
 
-# La première personne du singulier
+# Chapitre quatorze — La première personne du singulier
 
 Ils voyageaient par petits groupes, jamais tous ensemble, jamais tout à fait séparés, à la manière d'une phrase dont les mots se suivent sans se toucher. C'était Aelindra qui l'avait voulu ainsi, et Thessan avait mis du temps à comprendre la beauté froide de son calcul : huit personnes qui traversent un continent ensemble, cela se remarque, cela se raconte le soir aux relais, cela laisse dans la mémoire des aubergistes une image qu'on peut plus tard décrire à un enquêteur ; mais deux marchands d'ambre et leur commis, une préceptrice âgée voyageant vers un sanctuaire du sud avec sa servante, un vieux forgeron qui rentrait mourir au pays — cela ne laissait rien, cela s'effaçait à mesure, cela ne faisait pas d'histoire. Aelindra avait dispersé le Cercle dans le monde ordinaire comme on cache une lettre dans une bibliothèque : non pas en la dissimulant, mais en la posant entre mille autres, ouverte, illisible à force d'être visible.
 

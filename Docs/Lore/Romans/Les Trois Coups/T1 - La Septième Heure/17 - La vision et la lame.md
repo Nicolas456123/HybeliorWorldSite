@@ -9,7 +9,7 @@ lieu: en route vers Cendara — hautes terres de Sulvane
 status: draft
 ---
 
-# La vision et la lame
+# Chapitre quinze — La vision et la lame
 
 Depuis qu'ils avaient quitté la mer, Sera dormait moins encore, et elle avait fini par comprendre pourquoi : sur l'eau, on n'allait nulle part qu'on pût désigner du doigt. On avançait dans une chose sans repères, portés par Kayara qui lisait le ciel et le sel comme d'autres lisent un livre, et l'esprit, faute de bornes, se laissait bercer. À terre, c'était fini. À terre, il y avait une route, et la route avait un bout, et le bout avait un nom.
 

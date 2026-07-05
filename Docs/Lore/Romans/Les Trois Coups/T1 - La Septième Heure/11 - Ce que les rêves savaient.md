@@ -9,7 +9,7 @@ lieu: Gelinar (Vytharia, Ilthara), puis Aethranor (Galenor)
 status: draft
 ---
 
-# Ce que les rêves savaient
+# Chapitre dix — Ce que les rêves savaient
 
 Il y avait, à Gelinar, une manière de savoir l'heure sans voir le ciel. La brume ne s'ouvrait jamais assez pour montrer le soleil, mais elle changeait de densité au fil du jour, épaisse et laiteuse le matin, plus fine et grise à midi, presque bleue le soir, et un enfant de Gelinar apprenait à lire ces épaisseurs comme un enfant d'ailleurs apprend à lire une horloge. Mirathis avait grandi là, dans cette lumière qui n'en était pas une, à trois maisons du dernier champ d'encens avant que la brume ne devienne trop épaisse pour qu'on y cultivât quoi que ce fût. Iel savait, sans avoir besoin de compter, qu'il était tard — que la brume avait pris sa teinte de fin de journée — et que iel n'avait pas dormi la nuit d'avant, ni celle d'encore avant, et que ce soir non plus iel ne dormirait pas comme dorment les gens qui ont le droit de fermer les yeux sans savoir ce qu'ils vont trouver derrière.
 

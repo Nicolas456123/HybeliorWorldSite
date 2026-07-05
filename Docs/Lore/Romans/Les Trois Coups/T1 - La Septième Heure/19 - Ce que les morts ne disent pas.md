@@ -9,7 +9,7 @@ lieu: Cendral bas, au pied du Mont Cendra
 status: draft
 ---
 
-# Ce que les morts ne disent pas
+# Chapitre seize — Ce que les morts ne disent pas
 
 Iveth savait qu'il était en train de mourir de la manière dont on sait qu'une lampe va s'éteindre : non pas à sa flamme, qui brûlait encore, mais à l'huile, qu'il sentait baisser sans pouvoir la refaire monter. Il n'y avait pas de douleur. C'était là ce qui trompait les autres, ce qui trompait la fille du forgeron, à Cendral, quand elle lui montait chaque soir un bol de bouillon qu'il ne finissait plus — ils cherchaient la douleur, ils cherchaient la fièvre, ils cherchaient un mal qui aurait eu un nom et qu'on aurait pu combattre. Il n'y avait rien de tout cela. Il y avait seulement moins d'huile chaque matin qu'il n'y en avait eu la veille, et l'homme qui vit près d'une lampe assez longtemps apprend à lire ce genre de chose sans se mentir.
 
