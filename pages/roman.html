@@ -1,0 +1,159 @@
+<!-- ===== Page Roman : sommaire du tome + lecture d'un chapitre ===== -->
+<div class="nation-page roman-page">
+    <div class="nation-page-crumbs">
+        <a href="#roman" class="nation-page-back">← Sommaire du roman</a>
+    </div>
+
+    <div class="nation-page-body" id="roman-page-body">
+        <div class="nation-page-loading">Chargement…</div>
+    </div>
+</div>
+
+<script>
+(function () {
+    'use strict';
+
+    var bodyEl  = document.getElementById('roman-page-body');
+    var crumbEl = document.querySelector('.roman-page .nation-page-crumbs');
+    var _cache  = {};
+
+    /** clé courante depuis le hash : null = sommaire, sinon la clé du chapitre. */
+    function currentKey() {
+        var raw = window.location.hash.slice(1);
+        var parts = raw.split('/');
+        if (parts[0] !== 'roman') return null;
+        return parts.slice(1).join('/') || null;
+    }
+
+    function escapeHtml(s) {
+        var d = document.createElement('div');
+        d.textContent = s == null ? '' : String(s);
+        return d.innerHTML;
+    }
+
+    function renderMarkdown(text) {
+        // Réutilise le strip de frontmatter + sections internes du site.
+        var src = (window.LoreContent ? LoreContent.stripInternalSections(text) : text);
+        var clean = src.replace(/\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/g, function (_, file, display) {
+            var name  = (file.split('/').pop() || file).trim();
+            var label = (display || name).trim();
+            var href  = (window.NavConfig && NavConfig.linkHrefForName) ? NavConfig.linkHrefForName(name) : null;
+            return href ? '[' + label + '](' + href + ')' : label;
+        });
+        if (typeof marked !== 'undefined') {
+            var html = marked.parse(clean, { breaks: true });
+            return window.LoreContent ? LoreContent.sanitizeHtml(html) : html;
+        }
+        return '<pre>' + clean.replace(/[<>&]/g, function (c) {
+            return ({'<':'&lt;','>':'&gt;','&':'&amp;'})[c];
+        }) + '</pre>';
+    }
+
+    function buildSommaire() {
+        var roman = (window.NavConfig && NavConfig.roman) || null;
+        if (!roman) {
+            bodyEl.innerHTML = '<div class="nation-page-error">Roman introuvable.</div>';
+            return;
+        }
+        var html = '';
+        html += '<div class="roman-sommaire-head">';
+        html += '  <div class="nation-page-continent">' + escapeHtml(roman.trilogie) +
+                ' — Tome ' + escapeHtml(String(roman.tome)) + '</div>';
+        html += '  <h1 class="nation-page-title">' + escapeHtml(roman.titre) + '</h1>';
+        if (roman.sousTitre) {
+            html += '  <p class="roman-soustitre">' + escapeHtml(roman.sousTitre) + '</p>';
+        }
+        html += '</div>';
+
+        (roman.parties || []).forEach(function (partie) {
+            html += '<section class="roman-partie">';
+            html += '  <h2 class="roman-partie-titre">' + escapeHtml(partie.titre) + '</h2>';
+            html += '  <ol class="roman-chapitres">';
+            (partie.chapitres || []).forEach(function (ch) {
+                html += '<li><a href="' + escapeHtml(NavConfig.romanHref(ch.key)) + '">' +
+                        escapeHtml(ch.label) + '</a></li>';
+            });
+            html += '  </ol>';
+            html += '</section>';
+        });
+
+        // En mode sommaire, le fil d'ariane redevient un lien vers le Lore.
+        if (crumbEl) {
+            crumbEl.innerHTML = '<a href="#histoires/chroniques" class="nation-page-back">← Chroniques</a>';
+        }
+        bodyEl.innerHTML = '<div class="lore-md-content roman-sommaire">' + html + '</div>';
+        window.scrollTo({ top: 0, behavior: 'instant' });
+    }
+
+    function buildReadingNav(ch) {
+        var html = '<nav class="roman-lecture-nav" aria-label="Navigation de lecture">';
+        if (ch.prev) {
+            html += '<a class="roman-nav-prev" href="' + escapeHtml(NavConfig.romanHref(ch.prev.key)) + '">' +
+                    '← ' + escapeHtml(ch.prev.label) + '</a>';
+        } else {
+            html += '<span class="roman-nav-prev roman-nav-disabled"></span>';
+        }
+        html += '<a class="roman-nav-sommaire" href="#roman">Sommaire</a>';
+        if (ch.next) {
+            html += '<a class="roman-nav-next" href="' + escapeHtml(NavConfig.romanHref(ch.next.key)) + '">' +
+                    escapeHtml(ch.next.label) + ' →</a>';
+        } else {
+            html += '<span class="roman-nav-next roman-nav-disabled"></span>';
+        }
+        html += '</nav>';
+        return html;
+    }
+
+    function paintChapitre(ch, text) {
+        var html = '<div class="lore-md-content roman-chapitre">' + renderMarkdown(text) + '</div>';
+        html += buildReadingNav(ch);
+        bodyEl.innerHTML = html;
+        if (crumbEl) {
+            crumbEl.innerHTML = '<a href="#roman" class="nation-page-back">← Sommaire du roman</a>';
+        }
+        window.scrollTo({ top: 0, behavior: 'instant' });
+        var sidebar = document.getElementById('site-sidebar');
+        var content = document.querySelector('.page-content');
+        if (sidebar && content && window.SidebarTOC) {
+            SidebarTOC.build(sidebar, content);
+        }
+    }
+
+    function renderChapitre(key) {
+        var ch = (window.NavConfig && NavConfig.findRomanChapitreByKey) ? NavConfig.findRomanChapitreByKey(key) : null;
+        if (!ch || !ch.md) {
+            bodyEl.innerHTML = '<div class="nation-page-error">Chapitre introuvable.</div>';
+            return;
+        }
+        // ch.md inclut le préfixe "Lore/" ; la route /lore/ l'ajoute déjà.
+        // encodeURI préserve les / mais encode apostrophes/accents/espaces des noms.
+        var rel = ch.md.replace(/^Lore\//, '');
+        if (_cache[rel]) { paintChapitre(ch, _cache[rel]); return; }
+        bodyEl.innerHTML = '<div class="nation-page-loading">Chargement…</div>';
+        fetch('/lore/' + encodeURI(rel)).then(function (r) {
+            if (!r.ok) throw new Error('HTTP ' + r.status);
+            return r.text();
+        }).then(function (text) {
+            _cache[rel] = text;
+            paintChapitre(ch, text);
+        }).catch(function (err) {
+            bodyEl.innerHTML = '<div class="nation-page-error">Impossible de charger le chapitre.<br><small>' +
+                (err && err.message ? err.message : err) + '</small></div>';
+        });
+    }
+
+    function renderForCurrentHash() {
+        var key = currentKey();
+        if (key) renderChapitre(key);
+        else buildSommaire();
+    }
+
+    if (window._romanPageHandler) {
+        window.removeEventListener('hashchange', window._romanPageHandler);
+    }
+    window._romanPageHandler = renderForCurrentHash;
+    window.addEventListener('hashchange', renderForCurrentHash);
+
+    renderForCurrentHash();
+})();
+</script>

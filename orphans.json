@@ -1,0 +1,302 @@
+[
+  {
+    "name": "Brumaris",
+    "storage": "capitalesElements",
+    "coord_x": -323.618345951184,
+    "coord_y": 240.30105905247
+  },
+  {
+    "name": "Cëpias",
+    "storage": "capitalesElements",
+    "coord_x": -456.616141738044,
+    "coord_y": 132.233292600981
+  },
+  {
+    "name": "Solarith",
+    "storage": "citesElements",
+    "coord_x": -320.8349679985,
+    "coord_y": 309.617615218881
+  },
+  {
+    "name": "Kaldris",
+    "storage": "citesElements",
+    "coord_x": -328.781652395664,
+    "coord_y": 285.590469702117
+  },
+  {
+    "name": "Diamoris",
+    "storage": "citesElements",
+    "coord_x": -306.939520690459,
+    "coord_y": 276.446412828763
+  },
+  {
+    "name": "Uthorin",
+    "storage": "citesElements",
+    "coord_x": -334.310492886369,
+    "coord_y": 264.530113355089
+  },
+  {
+    "name": "Virondis",
+    "storage": "citesElements",
+    "coord_x": -323.958572378398,
+    "coord_y": 259.179990668455
+  },
+  {
+    "name": "Drystar",
+    "storage": "citesElements",
+    "coord_x": -381.756480786577,
+    "coord_y": 275.467606153122
+  },
+  {
+    "name": "Folindor",
+    "storage": "citesElements",
+    "coord_x": -9.25648942230973,
+    "coord_y": 135.964463892554
+  },
+  {
+    "name": "Korindar",
+    "storage": "citesElements",
+    "coord_x": 1.82972014780299,
+    "coord_y": 120.953456738508
+  },
+  {
+    "name": "Xylaris",
+    "storage": "citesElements",
+    "coord_x": 2.71686722877095,
+    "coord_y": 82.4775933482695
+  },
+  {
+    "name": "Malentar",
+    "storage": "citesElements",
+    "coord_x": -444.955219147118,
+    "coord_y": 207.802395134106
+  },
+  {
+    "name": "Hortias",
+    "storage": "citesElements",
+    "coord_x": -414.136060854031,
+    "coord_y": 193.061581323392
+  },
+  {
+    "name": "Armentas",
+    "storage": "citesElements",
+    "coord_x": -426.456361954826,
+    "coord_y": 175.607606699286
+  },
+  {
+    "name": "Miralis",
+    "storage": "citesElements",
+    "coord_x": -428.329401844758,
+    "coord_y": 159.930134902047
+  },
+  {
+    "name": "Rubien",
+    "storage": "citesElements",
+    "coord_x": -413.696812615705,
+    "coord_y": 127.372757307578
+  },
+  {
+    "name": "Nysoris",
+    "storage": "villesElements",
+    "coord_x": 225.04291982496,
+    "coord_y": -372.096294856598
+  },
+  {
+    "name": "Risel-Turam",
+    "storage": "villesElements",
+    "coord_x": 166.723858520565,
+    "coord_y": -252.774828410996
+  },
+  {
+    "name": "Thyldris",
+    "storage": "villesElements",
+    "coord_x": 73.978152867694,
+    "coord_y": 257.594169247372
+  },
+  {
+    "name": "Baeloris",
+    "storage": "villesElements",
+    "coord_x": 69.5032136603134,
+    "coord_y": 251.812252566557
+  },
+  {
+    "name": "Vorthar",
+    "storage": "villesElements",
+    "coord_x": 14.7645822658913,
+    "coord_y": 82.8403665633292
+  },
+  {
+    "name": "Xerathis",
+    "storage": "villesElements",
+    "coord_x": 6.35969192306927,
+    "coord_y": 97.8497172186768
+  },
+  {
+    "name": "Talvornis",
+    "storage": "villesElements",
+    "coord_x": 24.0790744498219,
+    "coord_y": 104.584672817594
+  },
+  {
+    "name": "Feldrin",
+    "storage": "villesElements",
+    "coord_x": 0.83600498387227,
+    "coord_y": 113.871556689876
+  },
+  {
+    "name": "Vynthal",
+    "storage": "villesElements",
+    "coord_x": 20.7375484633129,
+    "coord_y": 123.416670303776
+  },
+  {
+    "name": "Galrin",
+    "storage": "villesElements",
+    "coord_x": -8.96752242705668,
+    "coord_y": 128.025233739535
+  },
+  {
+    "name": "Mythar",
+    "storage": "villesElements",
+    "coord_x": -0.48330420209834,
+    "coord_y": 131.393447760637
+  },
+  {
+    "name": "Elaris",
+    "storage": "villesElements",
+    "coord_x": 8.91898241287415,
+    "coord_y": 138.336385973972
+  },
+  {
+    "name": "Nylorin",
+    "storage": "villesElements",
+    "coord_x": -11.6035640232441,
+    "coord_y": 143.99977097011
+  },
+  {
+    "name": "Tresnor",
+    "storage": "villesElements",
+    "coord_x": -29.4436868996056,
+    "coord_y": 157.515143854458
+  },
+  {
+    "name": "Keldris",
+    "storage": "villesElements",
+    "coord_x": -30.5758117326002,
+    "coord_y": 147.410501791151
+  },
+  {
+    "name": "Vylora",
+    "storage": "villesElements",
+    "coord_x": -385.597993297038,
+    "coord_y": 281.045221327739
+  },
+  {
+    "name": "Mylarin",
+    "storage": "villesElements",
+    "coord_x": -373.848079914898,
+    "coord_y": 272.448545246666
+  },
+  {
+    "name": "Thyronis",
+    "storage": "villesElements",
+    "coord_x": -375.499517089999,
+    "coord_y": 283.144373290071
+  },
+  {
+    "name": "Lorenthia",
+    "storage": "villesElements",
+    "coord_x": -360.555322050141,
+    "coord_y": 288.409462376828
+  },
+  {
+    "name": "Vyndria",
+    "storage": "villesElements",
+    "coord_x": -340.252445747039,
+    "coord_y": 319.990794126822
+  },
+  {
+    "name": "Thyroth",
+    "storage": "villesElements",
+    "coord_x": -328.301451828393,
+    "coord_y": 307.122928178333
+  },
+  {
+    "name": "Malthoris",
+    "storage": "villesElements",
+    "coord_x": -337.3174061357,
+    "coord_y": 297.478792753321
+  },
+  {
+    "name": "Galron",
+    "storage": "villesElements",
+    "coord_x": -329.886076889305,
+    "coord_y": 270.544123909161
+  },
+  {
+    "name": "Galrith",
+    "storage": "villesElements",
+    "coord_x": -307.372879155633,
+    "coord_y": 263.178410416784
+  },
+  {
+    "name": "Mylaris",
+    "storage": "villesElements",
+    "coord_x": -309.568292097912,
+    "coord_y": 252.016001906522
+  },
+  {
+    "name": "Thaldor",
+    "storage": "villesElements",
+    "coord_x": -329.467534884716,
+    "coord_y": 248.880249869499
+  },
+  {
+    "name": "Fyndoris",
+    "storage": "villesElements",
+    "coord_x": -313.977063385042,
+    "coord_y": 230.256419053145
+  },
+  {
+    "name": "Frinenta",
+    "storage": "villesElements",
+    "coord_x": -422.340606881991,
+    "coord_y": 195.85407001892
+  },
+  {
+    "name": "Cloche",
+    "storage": "villesElements",
+    "coord_x": -419.826594023289,
+    "coord_y": 157.566863424946
+  },
+  {
+    "name": "Killis",
+    "storage": "villesElements",
+    "coord_x": -408.825970219287,
+    "coord_y": 143.17004917737
+  },
+  {
+    "name": "Starfall",
+    "storage": "villagesElements",
+    "coord_x": 400.8369539,
+    "coord_y": 179.3395973
+  },
+  {
+    "name": "Sorel Tiam",
+    "storage": "regionElements",
+    "coord_x": 165.544527447591,
+    "coord_y": -254.251963522714
+  },
+  {
+    "name": "Xyria",
+    "storage": "regionElements",
+    "coord_x": 11.693897789592452,
+    "coord_y": 92.19369602815439
+  },
+  {
+    "name": "Jentar",
+    "storage": "regionElements",
+    "coord_x": 16.2755891353467,
+    "coord_y": 105.904351703562
+  }
+]

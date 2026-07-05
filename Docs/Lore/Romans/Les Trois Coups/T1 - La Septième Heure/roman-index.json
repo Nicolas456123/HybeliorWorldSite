@@ -1,0 +1,49 @@
+{
+  "trilogie": "Les Trois Coups",
+  "tome": 1,
+  "titre": "La Septième Heure",
+  "sousTitre": "L'Arrachement — An 0",
+  "statut": "en cours d'écriture",
+  "dossier": "Lore/Romans/Les Trois Coups/T1 - La Septième Heure",
+  "parties": [
+    {
+      "titre": "Prologue",
+      "chapitres": [
+        { "key": "ce-que-je-tiens", "file": "00 - Ce que je tiens.md", "label": "Ce que je tiens" }
+      ]
+    },
+    {
+      "titre": "Partie I — Les lecteurs",
+      "chapitres": [
+        { "key": "les-lecteurs", "file": "01 - Les lecteurs.md", "label": "Les lecteurs" },
+        { "key": "le-fil-et-le-vide", "file": "02 - Le fil et le vide.md", "label": "Le fil et le vide" },
+        { "key": "la-gardienne-du-seuil", "file": "03 - La gardienne du seuil.md", "label": "La gardienne du seuil" },
+        { "key": "ce-qui-ne-plie-pas", "file": "04 - Ce qui ne plie pas.md", "label": "Ce qui ne plie pas" },
+        { "key": "le-rapport", "file": "05 - Le rapport.md", "label": "Le rapport" },
+        { "key": "seuil-partie-1", "file": "06 - Seuil de la Partie I - La voix du Lien.md", "label": "Seuil — La voix du Lien" }
+      ]
+    },
+    {
+      "titre": "Partie II — Ce que le Lien a coûté",
+      "chapitres": [
+        { "key": "montrer-et-faire", "file": "07 - Montrer et faire.md", "label": "Montrer et faire" },
+        { "key": "la-part-des-vides", "file": "08 - La part des Vides.md", "label": "La part des Vides" },
+        { "key": "ceux-qui-tiennent-la-ville", "file": "09 - Ceux qui tiennent la ville.md", "label": "Ceux qui tiennent la ville" },
+        { "key": "ce-que-le-silence-garde", "file": "10 - Ce que le silence garde.md", "label": "Ce que le silence garde" },
+        { "key": "ce-que-les-reves-savaient", "file": "11 - Ce que les rêves savaient.md", "label": "Ce que les rêves savaient" },
+        { "key": "seuil-partie-2", "file": "12 - Seuil de la Partie II - La voix du Lien.md", "label": "Seuil — La voix du Lien" }
+      ]
+    },
+    {
+      "titre": "Partie III — Le voyage",
+      "chapitres": [
+        { "key": "ceux-de-l-eau", "file": "13 - Ceux de l'eau.md", "label": "Ceux de l'eau" },
+        { "key": "la-forge-qu-on-laisse", "file": "14 - La forge qu'on laisse.md", "label": "La forge qu'on laisse" },
+        { "key": "la-ville-qui-respire", "file": "15 - La ville qui respire.md", "label": "La ville qui respire" },
+        { "key": "la-premiere-personne-du-singulier", "file": "16 - La première personne du singulier.md", "label": "La première personne du singulier" },
+        { "key": "la-vision-et-la-lame", "file": "17 - La vision et la lame.md", "label": "La vision et la lame" },
+        { "key": "seuil-partie-3", "file": "18 - Seuil de la Partie III - La voix du Lien.md", "label": "Seuil — La voix du Lien" }
+      ]
+    }
+  ]
+}

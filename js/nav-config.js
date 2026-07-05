@@ -32,7 +32,7 @@ const NavConfig = {
         - #continent/<key> : fiche continent (factuel)
         - #nation/<slug>   : fiche Description d'une nation (factuel)
         - #histoire/<slug> : récit (Histoire) d'une nation (Chroniques) */
-    loreSubroutes: ['vision', 'monde', 'mecaniques', 'systemes', 'histoires', 'nation', 'continent', 'histoire', 'religion'],
+    loreSubroutes: ['vision', 'monde', 'mecaniques', 'systemes', 'histoires', 'nation', 'continent', 'histoire', 'religion', 'roman'],
 
     /** Continents et nations — source unique pour :
         - la landing lore-histoires (cartes par continent)
@@ -149,6 +149,101 @@ const NavConfig = {
         return (this.religions || []).find(r => r.md === norm) || null;
     },
 
+    /** Roman « La Septième Heure » — source unique pour le sommaire et le sidebar.
+        Recopie statique de roman-index.json (structure parties[] → chapitres[]).
+        Le fichier roman-index.json reste la source à mettre à jour ; recopier
+        ici quand il change. `dossier` inclut le préfixe "Lore/" (comme religions.md) :
+        le fetch retire ^Lore/ et sert via /lore/. `_bible.md` n'est PAS listé. */
+    roman: {
+        trilogie: 'Les Trois Coups',
+        tome: 1,
+        titre: 'La Septième Heure',
+        sousTitre: "L'Arrachement — An 0",
+        dossier: 'Lore/Romans/Les Trois Coups/T1 - La Septième Heure',
+        parties: [
+            {
+                titre: 'Prologue',
+                chapitres: [
+                    { key: 'ce-que-je-tiens', file: '00 - Ce que je tiens.md', label: 'Ce que je tiens' },
+                ],
+            },
+            {
+                titre: 'Partie I — Les lecteurs',
+                chapitres: [
+                    { key: 'les-lecteurs',           file: '01 - Les lecteurs.md',                             label: 'Les lecteurs' },
+                    { key: 'le-fil-et-le-vide',      file: '02 - Le fil et le vide.md',                       label: 'Le fil et le vide' },
+                    { key: 'la-gardienne-du-seuil',  file: '03 - La gardienne du seuil.md',                    label: 'La gardienne du seuil' },
+                    { key: 'ce-qui-ne-plie-pas',     file: '04 - Ce qui ne plie pas.md',                       label: 'Ce qui ne plie pas' },
+                    { key: 'le-rapport',             file: '05 - Le rapport.md',                               label: 'Le rapport' },
+                    { key: 'seuil-partie-1',         file: '06 - Seuil de la Partie I - La voix du Lien.md',   label: 'Seuil — La voix du Lien' },
+                ],
+            },
+            {
+                titre: 'Partie II — Ce que le Lien a coûté',
+                chapitres: [
+                    { key: 'montrer-et-faire',          file: '07 - Montrer et faire.md',                         label: 'Montrer et faire' },
+                    { key: 'la-part-des-vides',         file: '08 - La part des Vides.md',                        label: 'La part des Vides' },
+                    { key: 'ceux-qui-tiennent-la-ville', file: '09 - Ceux qui tiennent la ville.md',              label: 'Ceux qui tiennent la ville' },
+                    { key: 'ce-que-le-silence-garde',   file: '10 - Ce que le silence garde.md',                  label: 'Ce que le silence garde' },
+                    { key: 'ce-que-les-reves-savaient', file: '11 - Ce que les rêves savaient.md',                label: 'Ce que les rêves savaient' },
+                    { key: 'seuil-partie-2',            file: '12 - Seuil de la Partie II - La voix du Lien.md',  label: 'Seuil — La voix du Lien' },
+                ],
+            },
+            {
+                titre: 'Partie III — Le voyage',
+                chapitres: [
+                    { key: 'ceux-de-l-eau',                       file: "13 - Ceux de l'eau.md",                            label: "Ceux de l'eau" },
+                    { key: 'la-forge-qu-on-laisse',               file: "14 - La forge qu'on laisse.md",                    label: "La forge qu'on laisse" },
+                    { key: 'la-ville-qui-respire',                file: '15 - La ville qui respire.md',                     label: 'La ville qui respire' },
+                    { key: 'la-premiere-personne-du-singulier',   file: '16 - La première personne du singulier.md',        label: 'La première personne du singulier' },
+                    { key: 'la-vision-et-la-lame',                file: '17 - La vision et la lame.md',                     label: 'La vision et la lame' },
+                    { key: 'seuil-partie-3',                      file: '18 - Seuil de la Partie III - La voix du Lien.md', label: 'Seuil — La voix du Lien' },
+                ],
+            },
+        ],
+    },
+
+    /** Route PROPRE pour un chapitre de roman : #roman/<key>. */
+    romanHref(key) {
+        return '#roman/' + key;
+    },
+
+    /** Liste À PLAT de tous les chapitres du roman, dans l'ordre de lecture.
+        Chaque entrée : { key, label, file, partie, md, index }.
+        `md` = chemin complet avec préfixe "Lore/" (comme religions.md). */
+    romanChapitres() {
+        const out = [];
+        const roman = this.roman || {};
+        const dossier = roman.dossier || '';
+        (roman.parties || []).forEach(partie => {
+            (partie.chapitres || []).forEach(ch => {
+                out.push({
+                    key: ch.key,
+                    label: ch.label,
+                    file: ch.file,
+                    partie: partie.titre,
+                    md: dossier + '/' + ch.file,
+                    index: out.length,
+                });
+            });
+        });
+        return out;
+    },
+
+    /** Retrouve un chapitre de roman par sa clé (avec prev/next dans l'ordre à plat). */
+    findRomanChapitreByKey(key) {
+        if (!key) return null;
+        const flat = this.romanChapitres();
+        const i = flat.findIndex(c => c.key === key);
+        if (i === -1) return null;
+        const ch = flat[i];
+        return Object.assign({}, ch, {
+            prev: i > 0 ? flat[i - 1] : null,
+            next: i < flat.length - 1 ? flat[i + 1] : null,
+            total: flat.length,
+        });
+    },
+
     /** Les 8 catégories de la landing Lore. Source unique consommée par :
         - pages/lore.html (les 8 cartes thématiques)
         - js/sidebar-tree.js (arbre de navigation du sidebar)
@@ -158,7 +253,7 @@ const NavConfig = {
             key: 'souffle',
             icon: '🌬️',
             label: 'Le souffle du monde',
-            intro: "La respiration cosmique d'Hybélior. Le monde change parce qu'il vit.",
+            intro: "La respiration cosmique d'Hybelior. Le monde change parce qu'il vit.",
             links: [
                 { label: 'Le Souffle',           href: '#mecaniques/souffle' },
                 { label: "L'Accord",             href: '#mecaniques/accord' },
@@ -175,7 +270,7 @@ const NavConfig = {
                 { label: 'Cosmologie',           href: '#monde/cosmologie' },
                 { label: 'Géographie',           href: '#monde/geographie' },
                 { label: 'Continents',           href: '#monde/continents' },
-                { label: "Histoire d'Hybélior",  href: '#monde/histoire' },
+                { label: "Histoire d'Hybelior",  href: '#monde/histoire' },
                 { label: 'Lignées',              href: '#monde/lignees' },
                 { label: 'Frise',                href: '#monde/frise' },
                 { label: 'Traces des Ères',      href: '#monde/traces' },
@@ -184,8 +279,8 @@ const NavConfig = {
         {
             key: 'vivre',
             icon: '🏛️',
-            label: 'Vivre dans Hybélior',
-            intro: "Ce que c'est qu'être un voyageur d'Hybélior, traverser ses heures.",
+            label: 'Vivre dans Hybelior',
+            intro: "Ce que c'est qu'être un voyageur d'Hybelior, traverser ses heures.",
             links: [
                 { label: 'Vision',               href: '#vision/pitch' },
                 { label: "L'Univers",            href: '#vision/univers' },
@@ -252,6 +347,7 @@ const NavConfig = {
             intro: "Les récits de voyageurs, les religions, la chronologie, les augures.",
             links: [
                 { label: 'Chroniques de Sorin Valthen', href: '#histoires/chroniques' },
+                { label: 'La Septième Heure (roman)', href: '#roman' },
                 { label: 'Nations',              href: '#histoires/histoires' },
                 { label: 'Religions',            href: '#monde/religions' },
                 { label: 'Chronologie',          href: '#monde/chronologie' },
@@ -272,8 +368,9 @@ const NavConfig = {
         if (route === 'nation' || route === 'continent') {
             return (this.loreCategories || []).find(c => c.key === 'monde') || null;
         }
-        // Côté CHRONIQUES : récit (Histoire) d'une nation (#histoire/) et religions (#religion/)
-        if (route === 'histoire' || route === 'religion') {
+        // Côté CHRONIQUES : récit (Histoire) d'une nation (#histoire/), religions
+        // (#religion/) et le roman « La Septième Heure » (#roman/…).
+        if (route === 'histoire' || route === 'religion' || route === 'roman') {
             return (this.loreCategories || []).find(c => c.key === 'chroniques') || null;
         }
         if (route === 'md' && subkey) {

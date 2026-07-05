@@ -281,23 +281,23 @@
     {
       "name": "Catégories de Constructions",
       "file": "Catégories de Constructions.md",
-      "title": "🗂 Les familles du bâti — traité des constructions d'Hybélior"
+      "title": "🗂 Les familles du bâti — traité des constructions d'Hybelior"
     },
     {
       "name": "Index",
       "file": "Index.md",
-      "title": "🏛️ Architecture — le bâti d'Hybélior",
+      "title": "🏛️ Architecture — le bâti d'Hybelior",
       "isIndex": true
     },
     {
       "name": "Mapping Métiers de Construction",
       "file": "Mapping Métiers de Construction.md",
-      "title": "👷 Le chantier et ses ouvriers — qui bâtit Hybélior"
+      "title": "👷 Le chantier et ses ouvriers — qui bâtit Hybelior"
     },
     {
       "name": "Matériaux de Construction",
       "file": "Matériaux de Construction.md",
-      "title": "🧱 Les matières du bâti — ce avec quoi Hybélior s'élève"
+      "title": "🧱 Les matières du bâti — ce avec quoi Hybelior s'élève"
     },
     {
       "name": "Échelles et Niveaux",
@@ -309,12 +309,12 @@
     {
       "name": "Catégories d'Items",
       "file": "Catégories d'Items.md",
-      "title": "Les familles d'objets d'Hybélior"
+      "title": "Les familles d'objets d'Hybelior"
     },
     {
       "name": "Crafts",
       "file": "Crafts.md",
-      "title": "L'art du faire à Hybélior"
+      "title": "L'art du faire à Hybelior"
     },
     {
       "name": "Index",
@@ -337,7 +337,7 @@
     {
       "name": "Index",
       "file": "Index.md",
-      "title": "Les neuf grandes voies des métiers d'Hybélior",
+      "title": "Les neuf grandes voies des métiers d'Hybelior",
       "isIndex": true
     }
   ],
@@ -5839,7 +5839,7 @@
     {
       "name": "Chapitre 09 - Acier Éternel",
       "file": "Chapitre 09 - Acier Éternel.md",
-      "title": "Chapitre 9 — L'Acier Éternel"
+      "title": "Chapitre 9 — L'Acier Royal"
     },
     {
       "name": "Chapitre 10 - Les Mines",
@@ -5995,6 +5995,12 @@
       "name": "Chapitre 40 - Les Murs Tombent",
       "file": "Chapitre 40 - Les Murs Tombent.md",
       "title": "Chapitre 40 — Les Murs Tombent"
+    },
+    {
+      "name": "_arc-sorin",
+      "file": "_arc-sorin.md",
+      "title": "Arc narratif de Sorin Valthen — référence pour A.4",
+      "isIndex": true
     }
   ],
   "Lore/Chronologie": [
@@ -6664,7 +6670,7 @@
     {
       "name": "Ulinor",
       "file": "Ulinor.md",
-      "title": "UlinorPays — L'Archipel des Voix Oubliées"
+      "title": "Ulinor — L'Archipel des Voix Oubliées"
     }
   ],
   "Lore/Religions": [
@@ -6750,6 +6756,138 @@
       "name": "Taciti",
       "file": "Taciti.md",
       "title": "🤫 Taciti — Les Silencieux"
+    }
+  ],
+  "Lore/Romans/Les Trois Coups/T1 - La Septième Heure": [
+    {
+      "name": "00 - Ce que je tiens",
+      "file": "00 - Ce que je tiens.md",
+      "title": "Prologue — Ce que je tiens"
+    },
+    {
+      "name": "01 - Les lecteurs",
+      "file": "01 - Les lecteurs.md",
+      "title": "Chapitre premier — Les lecteurs"
+    },
+    {
+      "name": "02 - Le fil et le vide",
+      "file": "02 - Le fil et le vide.md",
+      "title": "Chapitre deux — Le fil et le vide"
+    },
+    {
+      "name": "03 - La gardienne du seuil",
+      "file": "03 - La gardienne du seuil.md",
+      "title": "Chapitre trois — La gardienne du seuil"
+    },
+    {
+      "name": "04 - Ce qui ne plie pas",
+      "file": "04 - Ce qui ne plie pas.md",
+      "title": "Chapitre quatre — Ce qui ne plie pas"
+    },
+    {
+      "name": "05 - Le rapport",
+      "file": "05 - Le rapport.md",
+      "title": "Chapitre cinq — Le rapport"
+    },
+    {
+      "name": "06 - Seuil de la Partie I - La voix du Lien",
+      "file": "06 - Seuil de la Partie I - La voix du Lien.md",
+      "title": "Partie I — Les lecteurs"
+    },
+    {
+      "name": "07 - Montrer et faire",
+      "file": "07 - Montrer et faire.md",
+      "title": "Chapitre six — Montrer et faire"
+    },
+    {
+      "name": "08 - La part des Vides",
+      "file": "08 - La part des Vides.md",
+      "title": "Chapitre sept — La part des Vides"
+    },
+    {
+      "name": "09 - Ceux qui tiennent la ville",
+      "file": "09 - Ceux qui tiennent la ville.md",
+      "title": "Chapitre huit — Ceux qui tiennent la ville"
+    },
+    {
+      "name": "10 - Ce que le silence garde",
+      "file": "10 - Ce que le silence garde.md",
+      "title": "Chapitre neuf — Ce que le silence garde"
+    },
+    {
+      "name": "11 - Ce que les rêves savaient",
+      "file": "11 - Ce que les rêves savaient.md",
+      "title": "Chapitre dix — Ce que les rêves savaient"
+    },
+    {
+      "name": "12 - Seuil de la Partie II - La voix du Lien",
+      "file": "12 - Seuil de la Partie II - La voix du Lien.md",
+      "title": "Partie II — Ce que le Lien a coûté"
+    },
+    {
+      "name": "13 - Ceux de l'eau",
+      "file": "13 - Ceux de l'eau.md",
+      "title": "Chapitre onze — Ceux de l'eau"
+    },
+    {
+      "name": "14 - La forge qu'on laisse",
+      "file": "14 - La forge qu'on laisse.md",
+      "title": "Chapitre douze — La forge qu'on laisse"
+    },
+    {
+      "name": "15 - La ville qui respire",
+      "file": "15 - La ville qui respire.md",
+      "title": "Chapitre treize — La ville qui respire"
+    },
+    {
+      "name": "16 - La première personne du singulier",
+      "file": "16 - La première personne du singulier.md",
+      "title": "Chapitre quatorze — La première personne du singulier"
+    },
+    {
+      "name": "17 - La vision et la lame",
+      "file": "17 - La vision et la lame.md",
+      "title": "Chapitre quinze — La vision et la lame"
+    },
+    {
+      "name": "18 - Seuil de la Partie III - La voix du Lien",
+      "file": "18 - Seuil de la Partie III - La voix du Lien.md",
+      "title": "Partie III — Le voyage"
+    },
+    {
+      "name": "21 - Ce qu'un homme peut tenir",
+      "file": "21 - Ce qu'un homme peut tenir.md",
+      "title": "Chapitre dix-huit — Ce qu'un homme peut tenir"
+    },
+    {
+      "name": "_bible",
+      "file": "_bible.md",
+      "title": "BIBLE — *La Septième Heure*",
+      "isIndex": true
+    }
+  ],
+  "Lore/_Analyse": [
+    {
+      "name": "Audit Patterns Existants",
+      "file": "Audit Patterns Existants.md",
+      "title": "Audit Patterns Existants — Lore Hybelior"
+    },
+    {
+      "name": "CHANTIER - Veines Philosophiques",
+      "file": "CHANTIER - Veines Philosophiques.md",
+      "title": "🌿 CHANTIER — Veines Philosophiques d'Hybelior"
+    },
+    {
+      "name": "Veines philosophiques - Référence",
+      "file": "Veines philosophiques - Référence.md",
+      "title": "🌿 Veines Philosophiques d'Hybelior — Référence d'écriture"
+    }
+  ],
+  "Lore/_Analyse/Archives": [
+    {
+      "name": "Rapport Revision Chronologie 2026-04",
+      "file": "Rapport Revision Chronologie 2026-04.md",
+      "title": "RAPPORT DE REVISION CHRONOLOGIQUE — SYNTHESE COMPLETE"
     }
   ],
   "Lore/_Audio/Chroniques": [

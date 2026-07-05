@@ -1,5 +1,5 @@
 /**
- * Lore Search — recherche globale dans les nations et villes d'Hybélior
+ * Lore Search — recherche globale dans les nations et villes d'Hybelior
  * Données: lore-index.json (37 nations) + city-index.json (661 villes)
  */
 var LoreSearch = (function() {

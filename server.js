@@ -96,7 +96,11 @@ const server = http.createServer(async (req, res) => {
 
     // ── Lore markdown files: GET /lore/<path> ─────────────────
     if (pathname.startsWith('/lore/')) {
-        const relative = pathname.slice('/lore/'.length);
+        // pathname (URL.pathname) n'est PAS décodé : décoder les espaces/accents
+        // (%20, %C3%A8…) pour retrouver le vrai chemin disque, comme le fait le
+        // handler de fichiers statiques plus bas.
+        let relative = pathname.slice('/lore/'.length);
+        try { relative = decodeURIComponent(relative); } catch { /* garde brut */ }
         if (relative.includes('..') || relative.includes('\0')) {
             res.writeHead(400); return res.end('Bad request');
         }

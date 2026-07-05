@@ -1,5 +1,5 @@
 /**
- * site-search.js — Recherche globale du site Hybélior.
+ * site-search.js — Recherche globale du site Hybelior.
  *
  * Charge `/Docs/_search-index.json` (généré par scripts/gen-search-index.js)
  * et expose un module SiteSearch global :

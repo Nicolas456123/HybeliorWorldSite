@@ -1,5 +1,5 @@
 /**
- * Router SPA hash-based pour Hybélior
+ * Router SPA hash-based pour Hybelior
  * Routes : NavConfig.routes() (ex: #accueil, #lore, #implementation/combat)
  *
  * Format des routes :

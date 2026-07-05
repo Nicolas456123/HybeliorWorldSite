@@ -32,6 +32,7 @@
     const SECTIONS = [
         { key: 'accueil',        label: 'Accueil',        href: '#accueil',        routes: ['accueil'] },
         { key: 'lore',           label: 'Lore',           href: '#lore',           routes: ['lore', 'vision', 'monde', 'mecaniques', 'systemes', 'histoires', 'nation', 'continent', 'histoire', 'religion'], kind: 'lore' },
+        { key: 'roman',          label: '📖 Romans',      href: '#roman',          routes: ['roman'], kind: 'roman' },
         { key: 'implementation', label: 'Implémentation', href: '#implementation', routes: ['implementation'], kind: 'subtabs' },
         { key: 'carte',          label: 'Carte',          href: '#carte',          routes: ['carte'] },
         { key: 'frise',          label: 'Frise',          href: '#frise',          routes: ['frise'] },
@@ -92,7 +93,7 @@
             let html = '<ul class="sidebar-tree-list">';
             for (const sec of SECTIONS) {
                 const isOpen = sec.key === activeKey;
-                const hasChildren = sec.kind === 'lore' || sec.kind === 'subtabs';
+                const hasChildren = sec.kind === 'lore' || sec.kind === 'subtabs' || sec.kind === 'roman';
 
                 html += '<li class="sidebar-tree-item' + (isOpen ? ' open' : '') + '">';
                 html += '  <a class="sidebar-tree-head' + (isOpen ? ' active' : '') + '" href="' + sec.href + '">';
@@ -106,6 +107,8 @@
                     html += this._renderLoreBranch(route, subkey);
                 } else if (isOpen && sec.kind === 'subtabs') {
                     html += this._renderSubtabsBranch(sec.routes[0], subkey);
+                } else if (isOpen && sec.kind === 'roman') {
+                    html += this._renderRomanBranch(route, subkey);
                 }
                 html += '</li>';
             }
@@ -125,6 +128,43 @@
                         (active ? ' class="active"' : '') + '>' +
                         this._escape(tab.label) + '</a></li>';
             }
+            html += '</ul>';
+            return html;
+        },
+
+        /** Branche Romans : trilogie → tome → parties → chapitres (#roman/<key>).
+         *  subkey = clé du chapitre courant (null sur le sommaire #roman). */
+        _renderRomanBranch(route, subkey) {
+            const roman = NavConfig.roman;
+            if (!roman || !Array.isArray(roman.parties)) return '';
+            const activeKey = (route === 'roman') ? subkey : null;
+            const tomeLabel = 'T' + roman.tome + ' — ' + roman.titre;
+
+            let html = '<ul class="sidebar-lore-nav-subtree">';
+            // Niveau trilogie
+            html += '<li class="sidebar-lore-nav-subitem active">';
+            html += '  <a class="sidebar-lore-nav-subhead active" href="#roman">' +
+                    this._escape(roman.trilogie) + '</a>';
+            // Niveau tome
+            html += '  <ul class="sidebar-lore-nav-subleaves">';
+            html += '    <li class="sidebar-lore-nav-subitem active">';
+            html += '      <a class="sidebar-lore-nav-subhead active" href="#roman">' +
+                    this._escape(tomeLabel) + '</a>';
+            // Niveau parties → chapitres
+            for (const partie of roman.parties) {
+                html += '<div class="sidebar-roman-partie">' + this._escape(partie.titre) + '</div>';
+                html += '<ul class="sidebar-lore-nav-subleaves">';
+                for (const ch of (partie.chapitres || [])) {
+                    const linkActive = ch.key === activeKey;
+                    html += '<li><a href="' + NavConfig.romanHref(ch.key) + '"' +
+                            (linkActive ? ' class="active"' : '') + '>' +
+                            this._escape(ch.label) + '</a></li>';
+                }
+                html += '</ul>';
+            }
+            html += '    </li>';
+            html += '  </ul>';
+            html += '</li>';
             html += '</ul>';
             return html;
         },
