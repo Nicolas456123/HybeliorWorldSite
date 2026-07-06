@@ -17,7 +17,7 @@ C'est la nuit, la dernière, je le sais sans savoir comment, je n'ai plus le cô
 
 Le fil ne tire plus, ne touche plus, il monte, avec eux, marche à marche, il monte le long de moi comme on remonte une veine vers le cœur.
 
-Le vieux devant. Celui du feu. Il n'est plus en bas, il est venu, en retard, le dernier, il monte le premier maintenant, c'est lui qui sait le dedans du point, c'est lui la main qui ouvre le noir, il pose les pieds où il faut, il pose les pieds où personne, et derrière lui ils vont, en file, dans le froid qui est ma chaleur retournée.
+Le vieux devant. Celui du feu. Il n'est plus en bas, il est venu, en retard, le dernier, il monte le premier maintenant, c'est lui qui sait le dedans du point, c'est lui, la main qui ouvre le noir, il pose les pieds où il faut, il pose les pieds où personne, et derrière lui ils vont, en file, dans le froid qui est ma chaleur retournée.
 
 Derrière : celui qui coupe. La marque sous sa poitrine chauffe. Il ne regarde plus le sud, il est le sud, il monte dans le sud, il monte dans moi.
 

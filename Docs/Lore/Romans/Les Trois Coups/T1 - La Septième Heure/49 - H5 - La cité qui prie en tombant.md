@@ -86,7 +86,7 @@ Ils vinrent. Par les sept ponts, par les rampes, par les escaliers en spirale de
 
 Sonn ouvrit la bouche, et n'eut pas la réponse toute prête que Wren attendait, la réponse d'adulte qui range les choses. Il resta un moment à chercher, honnêtement, ce à quoi cela servait.
 
-« Je ne sais pas si ça sert, dit-il enfin. Sonner l'heure non plus, ça ne sert à rien : l'heure passe qu'on la sonne ou pas. On la sonne quand même. Pour que personne ne la traverse seul sans le savoir. » Il regarda l'enfant. « Ça, peut-être, c'est ce que ça sert. À ne pas passer l'heure seul. »
+« Je ne sais pas si ça sert, dit-il enfin. Sonner l'heure non plus, ça ne sert à rien : l'heure passe qu'on la sonne ou pas. On la sonne quand même. Pour que personne ne la traverse seul sans le savoir. » Il regarda l'enfant. « Ça, peut-être, c'est à ça que ça sert. À ne pas passer l'heure seul. »
 
 ---
 
@@ -104,7 +104,7 @@ Un remous dans la foule. Elle attendit qu'il retombe.
 
 Sonn retint son souffle. C'était la question, la seule, celle que tout le monde tenait dans sa gorge. Il vit la vieille femme la recevoir en plein visage et ne pas ciller.
 
-« Je ne prierai pas pour qu'on remonte. » Elle le dit sans dureté, presque tendrement, et cette douceur fit plus de silence que n'en eût fait un cri. « Je ne sais pas prier pour ce qui ne se peut pas, et je ne vous insulterai pas en faisant semblant. Écoutez-moi bien, parce que je n'aurai le temps de le dire qu'une fois. » Elle ouvrit les bras — non vers le ciel, mais vers eux, vers la foule, comme on embrasse. « Nous descendons. Nous descendrons jusqu'au bout. Il nous reste un peu de temps, et je vous propose de ne pas le passer à courir vers des bords d'où l'on ne saute pas. Je vous propose de le passer ici. Ensemble. À nous dire les choses qu'on remet toujours à demain, parce que, pour une fois, il n'y a plus de demain à quoi les remettre. »
+« Je ne prierai pas pour qu'on remonte. » Elle le dit sans dureté, presque tendrement, et cette douceur fit plus de silence que n'en eût fait un cri. « Je ne sais pas prier pour ce qui ne se peut pas, et je ne vous insulterai pas en faisant semblant. Écoutez-moi bien, parce que je n'aurai le temps de le dire qu'une fois. » Elle ouvrit les bras — non vers le ciel, mais vers eux, vers la foule, comme on embrasse. « Nous descendons. Nous descendrons jusqu'au bout. Il nous reste un peu de temps, et je vous propose de ne pas le passer à courir vers des bords d'où l'on ne saute pas. Je vous propose de le passer ici. Ensemble. À nous dire les choses qu'on remet toujours à demain, parce que, pour une fois, il n'y a plus de demain où les remettre. »
 
 Elle laissa cela descendre dans la foule comme l'eau dans la terre.
 

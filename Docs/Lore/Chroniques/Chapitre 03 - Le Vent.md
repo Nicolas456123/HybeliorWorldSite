@@ -75,7 +75,7 @@ Le repas de ce soir-là restera dans ma mémoire avec une netteté particulière
 
 On avait disposé sur une toile étalée au sol — un festin nomade, sans table, sans chaises, chacun assis en tailleur ou à genoux autour du centre — plusieurs plateaux de vantal, cette viande séchée que les Ventériens produisent en tendant les bandes de chair au vent pendant des jours, jusqu'à ce qu'elle devienne dense et saline et parfumée d'herbes que je n'aurais su identifier. Il y avait du pain plat cuit directement sur des pierres chauffées, encore tiède, avec une croûte légèrement carbonisée sur un côté et moelleuse de l'autre. Et du solrak, le fromage de jument fermenté — que j'ai d'abord approché avec méfiance, parce que son odeur n'était pas précisément une invitation, mais qui avait en bouche une acidité et une onctuosité qui se contredisaient délicieusement.
 
-Personne ne m'a regardé manger. C'est à dire que plusieurs personnes ont regardé en ma direction, mais pas avec l'intensité de qui observe un étranger — plutôt avec le regard distrait de qui partage un espace sans en faire un événement. J'ai mangé lentement, consciencieusement, pour faire durer ce sentiment.
+Personne ne m'a regardé manger. C'est-à-dire que plusieurs personnes ont regardé en ma direction, mais pas avec l'intensité de qui observe un étranger — plutôt avec le regard distrait de qui partage un espace sans en faire un événement. J'ai mangé lentement, consciencieusement, pour faire durer ce sentiment.
 
 Après le repas, quelqu'un a commencé à jouer d'un instrument que je n'avais pas encore vu — une sorte de crécelle à lames de métal de différentes longueurs, qui produisait un son entre la clochette et le xylophone. Pas une musique savante, pas une démonstration de technique, juste un motif répété qui se laissait porter par le vent et qu'on entendait à peine décrocher du fond sonore des plaines. Un jeune cavalier a commencé à frapper du pied. Puis un autre. La mélodie a continué.
 
@@ -113,7 +113,7 @@ Il m'avait demandé si je savais lire les cairns.
 
 J'avais haussé les sourcils — une réponse en soi.
 
-— Il voulait dire, a expliqué Dava en souriant légèrement, est-ce que tu lis les cairns comme on lit une carte, ou comme on lit un visage. Les deux lectures sont différentes. La première te dit où tu es. La seconde te dit où quelqu'un est passé, et dans quel état il était.
+— Il voulait dire, a expliqué Dava en souriant légèrement, si tu lis les cairns comme on lit une carte ou comme on lit un visage. Les deux lectures sont différentes. La première te dit où tu es. La seconde te dit où quelqu'un est passé, et dans quel état il était.
 
 — Et lui ? ai-je demandé. Comment lit-il les cairns ?
 

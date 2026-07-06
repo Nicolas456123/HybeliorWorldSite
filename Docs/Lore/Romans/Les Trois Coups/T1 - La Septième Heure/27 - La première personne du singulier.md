@@ -173,7 +173,7 @@ Il ne répondit pas. Il les regardait tous, ces gens qui ne savaient pas, et il 
 
 Un matin, au sortir d'une hêtraie, la plaine s'ouvrit devant eux, immense, montant en longues ondulations rousses vers le fond du pays. Là, tout au bout, très loin au sud, sur la ligne où la terre touchait le ciel, il y avait une forme sombre qu'il n'avait encore jamais vue et qu'il reconnut pourtant sur-le-champ. Devant lui, Sera s'arrêta.
 
-« Le voilà, » dit-elle, très doucement, sans se retourner.
+« Le voilà », dit-elle, très doucement, sans se retourner.
 
 Un sommet. Noir, tranquille, coiffé d'un très mince filet de brume pâle qui montait tout droit dans l'air sans vent et se défaisait très haut — une brume qui n'en était pas une, comprit Thessan, mais un souffle, une respiration lente d'une chose qui dormait là depuis le commencement et qu'ils allaient réveiller.
 

@@ -27,7 +27,7 @@ Le Préfet-du-Feu le reçut le matin du troisième jour, dans la salle haute où
 
 « Encombrée. » Le Préfet goûta le mot, y chercha ce qu'il cachait, ne trouva rien, ce qui l'inquiéta davantage. « On dit des choses folles, sur le sud. Une montagne. Les guérisseurs. Vous y étiez. Vous, vous savez ce qui s'est passé. »
 
-Voilà la question, et elle était venue vite, plus vite qu'il ne l'avait prévu ; il eut, une seconde, envie de la respecter, cette hâte — c'était la seule chose sincère chez cet homme, cette faim de savoir, la même qui l'avait fait lui, Velkar, marcher un mois vers le noir.
+Voilà la question, et elle était venue vite, plus vite qu'il ne l'avait prévu ; il eut, une seconde, envie de la respecter, cette hâte — c'était la seule chose sincère chez cet homme, cette faim de savoir, la même qui l'avait fait, lui, Velkar, marcher un mois vers le noir.
 
 « Je sais ce que j'ai vu, dit-il. Ce n'est pas la même chose que savoir ce qui s'est passé. Un inquisiteur qui confond les deux ne vaut rien, et vous m'avez toujours dit que je valais quelque chose.
 
@@ -39,7 +39,7 @@ Il l'avait dit sans une once de conditionnel, au présent de vérité générale
 
 « Comment le savez-vous ? finit-il par demander.
 
-— Parce que je l'ai vu se défaire, et qu'une chose qui se défait de cette manière ne se recoud pas. Vous ne recousez pas de la fumée. » Velkar reprit un gant, le lissa sur ses doigts. « Vous vouliez me convoquer pour clore un dossier. Cloisons-le. Le reste — la montagne, le monde — n'est pas de votre grade ni du mien. C'est de personne. »
+— Parce que je l'ai vu se défaire, et qu'une chose qui se défait de cette manière ne se recoud pas. Vous ne recousez pas de la fumée. » Velkar reprit un gant, le lissa sur ses doigts. « Vous vouliez me convoquer pour clore un dossier. Clôturons-le. Le reste — la montagne, le monde — n'est pas de votre grade ni du mien. Cela n'appartient à personne. »
 
 ---
 
@@ -105,11 +105,11 @@ Il s'arrêta. Le scribe attendit, puis, comme le silence durait :
 
 — Vous gardez. » C'était le seul luxe qu'il s'accordât dans tout ce faux : cette ligne-là serait vraie. Qu'il fût dit, au moins une fois, dans un papier que personne ne lirait, qu'elle n'avait pas été achetée. « On ne me croira pas sur ce mot, et c'est bien. Un mensonge tient mieux quand il porte, au milieu, une petite vérité qui gêne. Écrivez. »
 
-« L'agent fut ensuite, poursuivit-il, et là il changea de temps, passa au passé simple, à la langue des choses tranchées, parce qu'un mensonge, lui, doit sonner sûr — *l'agent fut ensuite localisée, appréhendée et exécutée par les autorités compétentes du territoire concerné, la sentence portant sur haute trahison.* »
+« L'agente fut ensuite, poursuivit-il, et là il changea de temps, passa au passé simple, à la langue des choses tranchées, parce qu'un mensonge, lui, doit sonner sûr — *l'agente fut ensuite localisée, appréhendée et exécutée par les autorités compétentes du territoire concerné, la sentence portant sur haute trahison.* »
 
 La plume courut. Velkar écouta le grattement, ce petit bruit d'insecte qui, depuis trente ans, était le bruit de sa vie, le bruit de la vérité qu'on fixe — et qui, ce matin, fixait autre chose. *Appréhendée. Exécutée. Autorités compétentes.* Trois mensonges en une ligne, propres, ronds, invérifiables, comme la date qu'on invente. Il n'y avait pas d'autorités compétentes ; il n'y avait plus de territoire ; et la femme qu'on disait exécutée était peut-être, à cette heure, une poignée de cendre au sommet d'un mont qui battait, ou une silhouette de plus qu'il n'avait pas su compter, ou vivante quelque part, il ne le saurait jamais, personne ne le saurait jamais, et c'était lui qui scellait ce jamais.
 
-« Ajoutez, dit-il, et ce fut la ligne pour laquelle il avait écrit tout le reste, la seule qui comptât, celle qu'il avait composée pas à pas sur la Route des Cendres, dans la foule, la cendre chaude sur les épaules : *traître exécutée aux archives de Pyrion, aucun corps confirmé.* »
+« Ajoutez, dit-il, et ce fut la ligne pour laquelle il avait écrit tout le reste, la seule qui comptât, celle qu'il avait composée pas à pas sur la Route des Cendres, dans la foule, la cendre chaude sur les épaules : *traîtresse exécutée aux archives de Pyrion, aucun corps confirmé.* »
 
 Le scribe écrivit, puis releva la tête.
 
@@ -139,7 +139,7 @@ Il fit sortir le jeune homme, garda le brouillon, le brûla lui-même au brasero
 
 Puis il resta seul, comme il restait toujours seul, dans la pièce sans porte qui grince, avec le troisième silence de sa vie — le premier avait été celui d'Aelindra qui cessait d'écrire, le deuxième celui du sommet, et celui-ci, le dernier, était le sien.
 
-Une chose, pourtant, il ne l'avait pas mise dans le rapport, et il savait qu'il ne la mettrait nulle part, jamais, dans aucun papier de ce monde ou d'un autre. Une chose qu'il avait vue et qu'il ne pouvait pas écrire, non parce qu'elle était fausse — elle était la seule chose entièrement vraie qu'il eût rapportée du sud — mais parce qu'elle n'avait pas de case où se ranger, pas de colonne, pas de fait à quoi l'adosser. Il l'avait vue au troisième silence, tout en haut, contre la lueur : une silhouette de plus. Une de plus que ceux qu'il avait poursuivis, comptés sans pouvoir les compter, une de plus, debout au bord, à l'endroit exact où finit ce qu'un homme peut voir.
+Une chose, pourtant, il ne l'avait pas mise dans le rapport, et il savait qu'il ne la mettrait nulle part, jamais, dans aucun papier de ce monde ou d'un autre. Une chose qu'il avait vue et qu'il ne pouvait pas écrire, non parce qu'elle était fausse — elle était la seule chose entièrement vraie qu'il eût rapportée du sud — mais parce qu'elle n'avait pas de case où se ranger, pas de colonne, pas de fait auquel l'adosser. Il l'avait vue au troisième silence, tout en haut, contre la lueur : une silhouette de plus. Une de plus que ceux qu'il avait poursuivis, comptés sans pouvoir les compter, une de plus, debout au bord, à l'endroit exact où finit ce qu'un homme peut voir.
 
 Il prit une feuille — pas une feuille d'archive, une feuille à lui, de celles qu'on ne verse à aucun dossier — et il écrivit, une seule fois, pour personne, la phrase qui s'était logée en lui comme une écharde qu'il ne retirerait plus :
 
@@ -161,6 +161,6 @@ Pliée en quatre, elle alla non dans un dossier, non dans un tiroir du Bureau, m
 
 Le cordon, il le rangea avec les autres — celui d'Aelindra, gardé quatre ans, et les nouveaux, ceux du sud, un par station manquée, sa collection de vides. Puis il éteignit la lampe.
 
-Dehors, Pyrion tenait toujours ses murs, sous un ciel qui ne changeait pas, dans un silence que ses habitants prenaient encore pour le silence ordinaire des choses. Velkar Sorne, Prime-Inquisiteur du Bureau des Concordances, qui n'avait capturé personne, empêché rien, compris moins encore, et qui venait de mentir une fois dans sa vie, sur le papier, pour n'avoir pas à avouer qu'il avait regardé le monde finir sans le toucher — Velkar Sorne rentra chez lui, dans la ville basse, là où vivait sa fille, la Vide, celle pour qui il avait servi un ordre injuste toute sa vie afin de la protéger d'un chaos qu'il jugeait pire, et qui venait, malgré lui, malgré l'ordre, malgré la digue, d'arriver quand même — par le haut, par des lecteurs, par le côté qu'il n'avait pas gardé.
+Dehors, Pyrion tenait toujours ses murs, sous un ciel qui ne changeait pas, dans un silence que ses habitants prenaient encore pour le silence ordinaire des choses. Velkar Sorne, Prime-Inquisiteur du Bureau des Concordances, qui n'avait capturé personne, rien empêché, compris moins encore, et qui venait de mentir une fois dans sa vie, sur le papier, pour n'avoir pas à avouer qu'il avait regardé le monde finir sans le toucher — Velkar Sorne rentra chez lui, dans la ville basse, là où vivait sa fille, la Vide, celle pour qui il avait servi un ordre injuste toute sa vie afin de la protéger d'un chaos qu'il jugeait pire, et qui venait, malgré lui, malgré l'ordre, malgré la digue, d'arriver quand même — par le haut, par des lecteurs, par le côté qu'il n'avait pas gardé.
 
 Il marcha lentement. Il n'était plus pressé de rien. Sur le papier, aux archives, une capitaine était morte, exécutée, aucun corps confirmé ; c'était écrit, c'était scellé, l'Histoire aurait cela et n'aurait que cela. Contre sa poitrine, une autre phrase battait doucement au rythme de son pas, une phrase que l'Histoire n'aurait jamais, à moins qu'un homme meilleur que lui, un jour, très loin, ne vînt la ramasser dans la doublure d'un mort et n'osât, lui, la croire.

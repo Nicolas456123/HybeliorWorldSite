@@ -33,7 +33,7 @@ Il est là, du côté de la mer, monté de la côte, il regarde le sud qui est m
 
 Celle qui écrit le sens.
 
-Elle est du même côté de la mer, elle a rédigé les gestes, la femme de l'arbre, elle porte une justice dans la poitrine et une sœur loin qui ne sait pas, et cette nuit la justice tremble en elle, je le sens trembler, la chose qu'elle a construite se retourne et la regarde, et elle ne dort pas non plus, elle relit ce qu'elle a écrit et ce qu'elle a écrit ne la console plus.
+Elle est du même côté de la mer, elle a rédigé les gestes, la femme de l'arbre, elle porte une justice dans la poitrine et une sœur loin qui ne sait pas, et cette nuit la justice tremble en elle, je la sens trembler, la chose qu'elle a construite se retourne et la regarde, et elle ne dort pas non plus, elle relit ce qu'elle a écrit et ce qu'elle a écrit ne la console plus.
 
 Celle qui efface.
 

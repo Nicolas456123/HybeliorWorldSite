@@ -44,7 +44,7 @@ Le doigt du préposé descendit jusqu'au bas de la page, à cet endroit précis 
 
 ---
 
-Velkar ne nota pas le nom. On ne note pas les faux noms ; on les respire et on les oublie, parce qu'ils ne mènent nulle part sinon à un autre faux nom. Ce qui l'intéressait n'était pas *Harun Delonce* — un homme qui s'appelle ainsi ne s'appelle pas ainsi — mais la manière dont le nom avait été fabriqué. Un négociant en étain d'Everthor. Une profession qui justifie qu'on voyage, une marchandise assez lourde pour qu'on la laisse au dépôt et qu'on descende les mains vides, une cité franche où les registres se perdent. Trois précautions, pas une de trop, pas une de moins. Le travail d'une personne qui savait exactement de combien de mensonge un homme a besoin pour traverser un port — ni plus, car le trop attire l'œil, ni moins, car le pas-assez le fait tomber.
+Velkar ne nota pas le nom. On ne note pas les faux noms ; on les respire et on les oublie, parce qu'ils ne mènent nulle part sinon à un autre faux nom. Ce qui l'intéressait n'était pas *Harun Delonce* — un homme qui s'appelle ainsi ne s'appelle pas ainsi — mais la manière dont le nom avait été fabriqué. Un négociant en étain d'Everthor. Une profession qui justifie qu'on voyage, une marchandise assez lourde pour qu'on la laisse au dépôt et qu'on descende les mains vides, une cité franche où les registres se perdent. Trois précautions, pas une de trop, pas une de moins. Le travail d'une personne qui savait exactement de combien de mensonge un homme a besoin pour traverser un port — ni plus, car le trop attire l'œil, ni moins, car le pas assez le fait tomber.
 
 Cela, il l'avait déjà lu ailleurs. Dans un gîte de la route de terre, trois semaines plus tôt, où une nuit manquait au registre — non arrachée, non raturée, simplement *absente*, un blanc à la taille exacte d'une nuit. Sur un passeur qui avait « oublié » une traversée. Dans un relais où l'on avait acheté de l'huile de lampe le matin d'une nuit où personne, disait-on, n'avait veillé.
 
@@ -70,7 +70,7 @@ Il n'y avait pas de triomphe dans sa voix. Devant la petitesse même du geste �
 
 Le préposé le regardait à présent avec cette prudence des gens simples devant quelqu'un qui voit trop. « Vous parlez comme si vous étiez là.
 
-— Je n'y étais jamais. » Et c'était, Velkar le savait en le disant, la phrase la plus vraie qu'il eût prononcée de la journée. « Je n'y suis jamais. C'est mon défaut. J'arrive toujours dans la pièce que quelqu'un vient de quitter. »
+— Je n'y étais pas. » Et c'était, Velkar le savait en le disant, la phrase la plus vraie qu'il eût prononcée de la journée. « Je n'y suis jamais. C'est mon défaut. J'arrive toujours dans la pièce que quelqu'un vient de quitter. »
 
 ---
 

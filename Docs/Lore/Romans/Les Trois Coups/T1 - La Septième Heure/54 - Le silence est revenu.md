@@ -29,7 +29,7 @@ La navigatrice n'était plus là — repartie au large avant l'aube, la seule à
 
 Le mot le suivit longtemps sur l'eau. *Tout le monde perd la voix.* L'homme ne croyait pas si bien dire, et ne le saurait jamais. La terreur passerait ; elle passe toujours ; et après, il faudrait réapprendre à vivre — ce que Vorath savait faire, lui qui venait d'un pays ayant fait quatre siècles plus tôt l'expérience que ces gens faisaient à présent.
 
-Le cœur léger, qu'on ne le racontât pas ; qu'on ne dise pas plus tard que le saint des Silencieux était rentré porté par la certitude d'avoir eu raison. S'il avait raison, jamais il ne l'avait su, et il s'était méfié toute sa vie de ceux qui le savaient. Il rentrait avec le même poids qu'à l'aller, plus lourd d'avoir vu. Au sommet, le silence ne lui avait pas répondu — jamais il ne répondait. C'était pour cela qu'on pouvait lui faire confiance, et pour cela qu'il ne consolait pas.
+Qu'on ne racontât pas qu'il avait le cœur léger ; qu'on ne dise pas plus tard que le saint des Silencieux était rentré porté par la certitude d'avoir eu raison. S'il avait raison, jamais il ne l'avait su, et il s'était méfié toute sa vie de ceux qui le savaient. Il rentrait avec le même poids qu'à l'aller, plus lourd d'avoir vu. Au sommet, le silence ne lui avait pas répondu — jamais il ne répondait. C'était pour cela qu'on pouvait lui faire confiance, et pour cela qu'il ne consolait pas.
 
 ---
 
@@ -61,13 +61,13 @@ Se levant, il alla vers l'enfant, s'accroupit à sa hauteur, et ne fit rien d'au
 
 « Tu ne me diras donc rien », dit la femme, plus bas.
 
-Rien, en effet, il ne dit. Rien qu'une paume à plat sur sa poitrine, là où l'on garde ce qui ne peut pas être dit, puis ouverte vers l'enfant, vers elle, vers le seuil et le monde derrière. *Cela. Raconte cela. Qu'il n'y a rien à dire, et qu'on peut vivre dedans.*
+Il ne dit rien, en effet. Rien qu'une paume à plat sur sa poitrine, là où l'on garde ce qui ne peut pas être dit, puis ouverte vers l'enfant, vers elle, vers le seuil et le monde derrière. *Cela. Raconte cela. Qu'il n'y a rien à dire, et qu'on peut vivre dedans.*
 
 Elle repartit moins effrayée. Sur la côte, elle raconta qu'elle avait vu le saint, et que le saint lui avait parlé.
 
 ---
 
-Le saint ne lui avait pas parlé. Le saint s'était tu avec elle. Mais on ne peut empêcher les hommes de faire d'un silence une parole, ni d'un homme qui se tait un homme qui sait ; le monde avait perdu ses voix, il en cherchait partout, et il en trouvait là où il n'y en avait pas. Ainsi vinrent les autres, l'un après l'autre — car on ne refuse pas un naufragé, et le monde entier était devenu un naufragé. À chacun il apprit l'Heure Vide : non à prier, il n'y avait rien à prier, mais à se tenir dans le vide et à le laisser être vide, ce silence où l'on tombe en perdant le Lien et qui n'était pas la mort qu'on croyait — une patrie.
+Le saint ne lui avait pas parlé. Le saint s'était tu avec elle. Mais on ne peut pas empêcher les hommes de faire d'un silence une parole ni d'un homme qui se tait un homme qui sait ; le monde avait perdu ses voix, il en cherchait partout, et il en trouvait là où il n'y en avait pas. Ainsi vinrent les autres, l'un après l'autre — car on ne refuse pas un naufragé, et le monde entier était devenu un naufragé. À chacun il apprit l'Heure Vide : non à prier, il n'y avait rien à prier, mais à se tenir dans le vide et à le laisser être vide, ce silence où l'on tombe en perdant le Lien et qui n'était pas la mort qu'on croyait — une patrie.
 
 Qu'on le dît saint, il le laissa dire. La légende grossirait après lui — on lui prêterait des visions qu'il n'avait pas eues, jusqu'à faire de son écho creux sur Navigor une prophétie limpide sur l'Étranger qui avait poussé le Voyageur dehors. On dirait qu'il avait vu clair. Il n'avait rien vu de clair : rien qu'une pièce vide, et il ne saurait jamais si l'homme qu'il avait aidé était la main qui poussait ou seulement une main de plus sur une porte que le vent avait déjà ouverte. Peut-être les deux, peut-être ni l'un ni l'autre. Le silence ne tranchait jamais.
 
@@ -79,6 +79,6 @@ Et rien, il n'entendit. Non pas le rien d'avant, ce fond, cette texture, la rume
 
 Longtemps il resta dans ce silence neuf, et il éprouva une chose qu'il n'aurait su dire à personne, pas même dans le silence — ni la joie ni le deuil, mais quelque chose entre les deux, sans nom, parce qu'aucun nom n'aurait su le tenir. Le monde était enfin ce que Baelor avait toujours dit qu'il devait être : nu, silencieux, rendu à lui-même. Et c'était affreux, et c'était juste. Et les deux tenaient ensemble dans la même heure sans se contredire ni se résoudre, comme tenaient au fond de lui la main qui pousse et la porte qu'ouvre le vent, l'homme coupable et l'homme innocent, le fil qu'on avait tranché et le fil qui se serait rompu seul.
 
-Il ne pria pas. On ne prie rien pendant l'Heure Vide. La lumière atteignit la troisième pierre. Il se tint dans le vide, et le laissa être vide, et le vide, cette fois, contenait le monde entier — cent vingt millions d'êtres à qui l'on venait d'ôter la voix, et qui apprendraient, dans les années noires qui venaient, à vivre comme les Silencieux avaient vécu, ou n'apprendraient pas et mourraient de ne pas savoir. Rien, il ne pouvait pour eux, qu'être là, se taire, tenir la main de qui viendrait, et dire sans un mot ce qu'il dirait désormais à chaque naufragé de Tholmë : *ce n'est pas la mort. C'est le silence. Nous savons y vivre. Venez.*
+Il ne pria pas. On ne prie pas pendant l'Heure Vide. La lumière atteignit la troisième pierre. Il se tint dans le vide, et le laissa être vide, et le vide, cette fois, contenait le monde entier — cent vingt millions d'êtres à qui l'on venait d'ôter la voix, et qui apprendraient, dans les années noires qui venaient, à vivre comme les Silencieux avaient vécu, ou n'apprendraient pas et mourraient de ne pas savoir. Il ne pouvait rien pour eux, sinon être là, se taire, tenir la main de qui viendrait, et dire sans un mot ce qu'il dirait désormais à chaque naufragé de Tholmë : *ce n'est pas la mort. C'est le silence. Nous savons y vivre. Venez.*
 
 Le silence était revenu. Non pas revenu — jamais il n'était parti, à Baelor ; c'était le reste du monde qui, cette nuit, l'avait enfin rejoint. Vorath ferma les yeux sur la mer qui ne cachait rien, et il écouta le monde entier entrer, l'un après l'autre, âme après âme, dans la vaste Heure Vide qui commençait et qui, cette fois, n'aurait pas de fin.

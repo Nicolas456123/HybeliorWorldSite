@@ -31,7 +31,7 @@ La corniche vint enfin. On l'assit contre la roche, dos à la pierre encore tiè
 
 De deux pas elle recula — assez pour lui laisser la place, pas assez pour ne plus l'entendre s'il tombait. Kessa, elle, ne recula pas. Accroupie à côté de lui, elle défit l'outre, la lui tint aux lèvres, et le regarda boire de ce regard direct qu'elle avait, celui qui ne se détournait pas des choses laides.
 
-« Vous allez lire quoi, au juste, dit-elle. On me dit *le lecteur des morts monte lire le Mont*. Comme si le Mont était mort. »
+« Vous allez lire quoi, au juste ? dit-elle. On me dit *le lecteur des morts monte lire le Mont*. Comme si le Mont était mort. »
 
 « Le Mont ne l'est pas. » Il rendit l'outre. « Mais il en est plein. On vit à son flanc depuis avant qu'on sache écrire. Tout ce qui vit à un endroit finit par y mourir. Le Mont est vieux, Kessa. Il est plein de morts comme une vieille maison est pleine de poussière. »
 
@@ -57,7 +57,7 @@ Kessa se tut. Aelindra, deux pas plus haut, tournée vers la falaise, ne s'étai
 
 Il ouvrit son écoute comme on ouvre une main gourde.
 
-Cela ne se commandait pas ; cela se laissait venir. Toute une vie il avait appris à ne rien tendre, à ne rien vouloir, parce que vouloir entendre les morts était le plus sûr moyen de n'entendre que soi. On se taisait ; on se rendait poreux ; et si l'on avait le don, ce qui restait des partis venait affleurer contre la peau, du dedans, sans bruit — une fraîcheur là où l'air aurait dû être neutre, une densité là où il n'y avait rien à voir.
+Cela ne se commandait pas ; cela se laissait venir. Toute une vie il avait appris à ne rien tendre, à ne rien vouloir, parce que vouloir entendre les morts était le plus sûr moyen de n'entendre que soi. On se taisait ; on se rendait poreux ; et si l'on avait le don, ce qui restait des morts venait affleurer contre la peau, du dedans, sans bruit — une fraîcheur là où l'air aurait dû être neutre, une densité là où il n'y avait rien à voir.
 
 Les morts anciens vinrent d'abord, comme toujours. Ceux du flanc, les vieux, les usés du temps, à peine encore quelque chose — une buée de buée, la dernière trace d'une trace, si mince qu'un lecteur moins exercé n'aurait rien senti du tout. Ceux-là ne le retenaient pas. On les traverse comme une pièce vide dont on reconnaît vaguement qu'elle a été habitée.
 
@@ -93,7 +93,7 @@ Des heures durant, elle avait dû attendre là. Très droite sur le tabouret, le
 
 Un moment il la regarda. La femme de Celethor, la plus lucide d'eux tous, celle qui avait écrit le *pourquoi* en quarante et une pages sans une rature et qui portait ce pourquoi contre sa hanche comme d'autres portent un enfant. Et la pièce à deux faces lui revint, un instant, avec la face qu'il allait cacher, et le poids de ce choix se posa sur lui avec les autres poids.
 
-« Le fil est là-haut, dit-il, et sa voix baissait comme l'huile ; elle dut se pencher pour l'entendre. « Plus tendu qu'aucun fil que j'aie touché de ma vie. Il porte tout ce qui se presse à la porte depuis deux cents ans, tous les morts qui ne partent plus bien, tout ce poids. » Les yeux fermés, il laissa revenir la corniche, la foule, la poussée. « Ils poussent, Sera. Là-haut. De tout leur nombre. Et le fil ploie sous eux. Une main sûre, un seul geste au bon point — et il cède. »
+« Le fil est là-haut », dit-il, et sa voix baissait comme l'huile ; elle dut se pencher pour l'entendre. « Plus tendu qu'aucun fil que j'aie touché de ma vie. Il porte tout ce qui se presse à la porte depuis deux cents ans, tous les morts qui ne partent plus bien, tout ce poids. » Les yeux fermés, il laissa revenir la corniche, la foule, la poussée. « Ils poussent, Sera. Là-haut. De tout leur nombre. Et le fil ploie sous eux. Une main sûre, un seul geste au bon point — et il cède. »
 
 Longtemps, les yeux fermés, elle écouta. Aucun soulagement ne passa sur son visage ; il l'observait et il ne vit rien qui ressemblât à de la joie. Seulement une gravité qui se creusait.
 
@@ -157,7 +157,7 @@ Elle l'avait vu descendre à demi mort et remonter dans la maison de tanneur ; e
 
 Un silence. La fille avait ce don, comme le père : elle sentait le vide dans une phrase, l'endroit où il manquait un mot, la planche mal jointe.
 
-« C'est tout ce que je lui ai dit, dit Iveth, et cette fois il ne put empêcher sa voix de porter, sous les mots, l'ombre des mots qu'il ne disait pas.
+« C'est tout ce que je lui ai dit », dit Iveth, et cette fois il ne put empêcher sa voix de porter, sous les mots, l'ombre des mots qu'il ne disait pas.
 
 — *Dit.* » Le mot, elle le releva. « Vous dites *dit*. Pas *lu*. Vous avez lu autre chose. »
 

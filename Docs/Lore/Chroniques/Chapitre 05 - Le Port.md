@@ -46,7 +46,7 @@ Il avait hoché la tête, lentement, comme si ce nom lui disait quelque chose de
 
 Puis il était resté silencieux, et je n'avais pas cherché à remplir ce silence. J'avais appris, depuis Kharazir, que les silences des gens sages sont des espaces à respecter, non des vides à combler. Nous avions regardé ensemble la mer, lui dans sa familiarité de vieux complice, moi dans mon émerveillement encore intact de continental qui n'avait jamais posé les yeux sur tant d'eau. La Pointe des Explorateurs s'étendait sous nous, noire et découpée, et au-delà, rien — le vide sombre et vivant de l'océan.
 
-— On ne part jamais vraiment, avait dit Thelorn au bout d'un long moment. Chaque marin revient ici, un jour ou l'autre. Dans sa tête, si pas sur ses jambes.
+— On ne part jamais vraiment, avait dit Thelorn au bout d'un long moment. Chaque marin revient ici, un jour ou l'autre. Dans sa tête, sinon sur ses jambes.
 
 Je n'avais pas répondu à cela non plus. Mais le mot s'était posé en moi comme une graine — *revenir*. Je n'avais jamais pensé au retour. Depuis soixante-deux jours, je marchais, naviguais, dormais mal et observais beaucoup, et je n'avais pensé qu'à l'horizon suivant. Le retour était un continent étranger que je n'avais pas encore cartographié.
 
@@ -106,7 +106,7 @@ Elle l'avait posé sur le plat-bord, l'avait regardé, puis l'avait regardé enc
 
 — Qu'est-ce que c'est ? avais-je demandé.
 
-— Je ne sais pas, avait dit Calysse. Et je vous dirai qu'il y en a beaucoup que je ne sais pas.
+— Je ne sais pas, avait dit Calysse. Et je vous dirai qu'il y en a beaucoup dont je ne sais rien.
 
 Je n'avais pas posé d'autres questions. Il y a une vérité que j'ai apprise depuis Kharazir : les gens qui vivent avec des mystères quotidiens ne cherchent pas nécessairement à les résoudre. Ils apprennent à cohabiter avec ce qui ne se comprend pas. C'est peut-être sagesse. C'est peut-être la seule forme de paix que l'on puisse trouver avec un monde plus vaste que notre entendement.
 
@@ -168,7 +168,7 @@ Elle fit deux pas vers la passerelle, puis s'arrêta.
 
 — Alors tu vomiras du côté sous le vent. C'est la politesse minimale.
 
-Un marin qui passait derrière elle éclata de rire. Vela ne sourit pas, mais ses yeux le firent à sa place.
+Un marin qui passait derrière elle éclata de rire. Vela ne sourit pas, mais ses yeux sourirent à sa place.
 
 — Si tu écris sur moi dans ton carnet, ajouta-t-elle, écris que je suis patiente. Les capitaines aiment qu'on mente bien.
 
@@ -182,7 +182,7 @@ La Via Ventus enseigne que voyager est une forme de prière. Je ne suis pas homm
 
 Soixante-deux jours depuis Kharazir. Soixante-deux jours depuis la nuit de l'exil, depuis la porte fermée et les papiers arrachés de mes mains et les mots que je ne veux pas répéter ici, qui brûlaient encore il y a un mois et qui brûlent moins maintenant — pas parce que la blessure a guéri, mais parce que d'autres choses ont grandi autour d'elle, comme du bois autour d'une épine. Elle est toujours là. Elle fait moins de place dans la journée.
 
-Quand les voiles du *Souffle d'Etheira* se sont gonflées — d'un blanc éblouissant dans la lumière désormais pleine du matin, bénies trois jours plus tôt par un prêtre de la Via Ventus — et que le navire a commencé à bouger, à reprendre ce mouvement lent puis croissant qui est la naissance d'une traversée, je m'étais tenu à la rambarde tribord et j'avais regardé Vyndralith s'éloigner.
+Quand les voiles du *Souffle d'Etheira* se sont gonflées — d'un blanc éblouissant dans la lumière désormais pleine du matin, bénies trois jours plus tôt par un prêtre de la Via Ventus — et que le navire a commencé à bouger, à reprendre ce mouvement lent puis croissant qui est la naissance d'une traversée, je me suis tenu à la rambarde tribord et j'ai regardé Vyndralith s'éloigner.
 
 Je m'attendais à quelque chose de dramatique. Une émotion tranchante, peut-être des larmes, certainement une pensée profonde sur ce que je laissais.
 

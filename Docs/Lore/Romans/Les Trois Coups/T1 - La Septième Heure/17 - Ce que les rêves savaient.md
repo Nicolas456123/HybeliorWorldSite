@@ -25,7 +25,7 @@ Parfois ça marchait. La plupart du temps ça ne marchait pas.
 
 Iel avait su ce qu'iel était avant de savoir le nommer. À Vytharia, on nommait beaucoup de choses — c'était même la spécialité du pays : nommer les couches, classer les visions, tenir le Grand Tissu où l'on cousait chaque rêve rapporté. Rêve-fil, rêve-mur, rêve-eau, rêve-ouvert, rêve-clos, rêve-vide, rêve-double, rêve-noir. Huit catégories, huit tiroirs propres, et un Tisseur de famille pour vous apprendre, dès cinq ans, dans lequel ranger ce que vous aviez vu la nuit.
 
-À sept ans, on la mena à la Marque du Rêve. Elle en gardait moins un souvenir que des sensations restées prises dans la mémoire comme des insectes dans l'ambre : l'odeur du bois de tisserie, la main sèche du vieux Tisseur — un homme qui avait endormi trois générations d'enfants de Gelinar — posée sur son front pour la faire descendre dans le sommeil rituel. Puis le rêve, qui n'entrait dans aucun des huit tiroirs. Puis le réveil.
+À sept ans, on la mena à la Marque du Rêve. Elle en gardait moins un souvenir que des sensations restées prises dans la mémoire comme des insectes dans l'ambre : l'odeur du bois de tapisserie, la main sèche du vieux Tisseur — un homme qui avait endormi trois générations d'enfants de Gelinar — posée sur son front pour la faire descendre dans le sommeil rituel. Puis le rêve, qui n'entrait dans aucun des huit tiroirs. Puis le réveil.
 
 Le Tisseur n'avait rien dit tout de suite. Il était resté longtemps assis, les mains à plat sur ses genoux, à regarder l'enfant comme on regarde un mot qu'on ne sait pas épeler.
 

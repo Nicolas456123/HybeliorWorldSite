@@ -31,9 +31,9 @@ Quatre.
 
 Il compta une deuxième fois, parce qu'il ne se faisait jamais confiance la première, et parce que le compte, chez lui, n'était pas une manie mais une discipline : le monde ment, les chiffres non, et un homme qui aligne assez de chiffres finit par acculer le monde à dire la vérité malgré lui.
 
-Quatre paires de pieds montés de la quille vers le sentier. Un pas long et régulier — un marcheur habitué aux distances. Un pas traînant, appuyé sur un bâton, qui s'arrêtait souvent — un vieux, ou un malade, ou quelqu'un qui portait quelque chose de lourd en dedans. Un pas léger, presque sans talon, qui semblait ne pas vouloir peser sur la terre. Et un quatrième, celui-là plus difficile, plus effacé que les autres, comme si son propriétaire eût marché derrière les trois, à distance, en posant les pieds dans les creux déjà creusés.
+Quatre paires de pieds montées de la quille vers le sentier. Un pas long et régulier — un marcheur habitué aux distances. Un pas traînant, appuyé sur un bâton, qui s'arrêtait souvent — un vieux, ou un malade, ou quelqu'un qui portait quelque chose de lourd en dedans. Un pas léger, presque sans talon, qui semblait ne pas vouloir peser sur la terre. Et un quatrième, celui-là plus difficile, plus effacé que les autres, comme si son propriétaire eût marché derrière les trois, à distance, en posant les pieds dans les creux déjà creusés.
 
-Quatre montés. Aucun redescendu.
+Quatre personnes montées. Aucune redescendue.
 
 Et la quille repartie seule.
 
@@ -103,7 +103,7 @@ Le vieux parut surpris, l'espace d'un battement — il avait dû s'attendre à c
 
 Le pêcheur suivit son regard. Vers l'intérieur des terres, au nord, là où le sentier de chèvre se perdait dans les collines grises, et derrière les collines, très proche à présent, une masse plus sombre que la nuit finissante, coiffée d'une lente écharpe de fumée qui montait droite dans l'air sans vent.
 
-« Où veux-tu qu'on aille, par ce sentier-là. » Le vieux ne montrait rien du doigt ; il n'en avait pas besoin. « Y mène qu'à un endroit. »
+« Où veux-tu qu'on aille, par ce sentier-là ? » Le vieux ne montrait rien du doigt ; il n'en avait pas besoin. « Y mène qu'à un endroit. »
 
 ---
 

@@ -162,7 +162,7 @@ Il ne brûla pas la copie ce soir-là. Il aurait dû ; il avait le brasier, la n
 
 Restait la carte. Huit agents tus, une seule vérité, un centre vide où les fils se nouaient. Il retourna devant la carte des cinq nations, la lampe à la main, et regarda longtemps les huit points. Une préceptrice, une communauté de silencieux, des érudits, de l'argent, une forge, un rêveur, un homme des ports — et Vessa, qui savait effacer les traces mieux qu'aucun agent qu'il eût lu. Car c'était l'autre chose qu'il avait comprise, sous les quarante pages : celle qui les avait écrites n'était pas seulement retournée. Elle était devenue leur effaceuse. C'était elle, maintenant, qui rangeait les gîtes, trafiquait les registres, brouillait les pas — elle qui, jadis, lui aurait rapporté comment on fait tout cela.
 
-Il connaissait sa main. C'était lui qui avait signé son ordre de mission. Et voilà qu'elle travaillait contre lui avec l'art qu'il lui avait, en un sens, permis d'apprendre. Un duel, alors. Un duel entre deux personnes qui ne se verraient jamais, chacune lisant l'autre par le vide qu'elle laissait. Elle effacerait ; il lirait l'effacement. Elle saurait qu'il lit et compliquerait ; il saurait qu'elle sait.
+Il connaissait sa main. C'était lui qui avait signé son ordre de mission. Et voilà qu'elle travaillait contre lui avec l'art qu'il lui avait, en un sens, permis d'apprendre. Un duel, alors. Un duel entre deux personnes qui ne se verraient jamais, chacune lisant l'autre par le vide qu'elle laissait. Elle effacerait ; il lirait l'effacement. Elle saurait qu'il lit, et elle compliquerait ; il saurait qu'elle sait.
 
 « Où les envoies-tu, Vessa ? » dit-il à voix basse, à la carte, à personne.
 

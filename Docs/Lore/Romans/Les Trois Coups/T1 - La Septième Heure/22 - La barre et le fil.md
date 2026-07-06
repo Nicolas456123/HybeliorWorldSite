@@ -104,7 +104,7 @@ On ne lui proposa rien ce jour-là. C'était habile. Ils lui posèrent des quest
 
 La femme s'était penchée, et dans ses yeux passait cette faim que Kayara reverrait, plus tard, sur d'autres visages du même bord — l'avidité de qui a imaginé une chose toute sa vie et rencontre enfin quelqu'un qui l'a vécue.
 
-« Personne ne leur a donné cela, murmura-t-elle. Ni un Lié, ni une Trame. Un peuple l'a trouvé seul, et se l'est passé de bouche en bouche.
+« Personne ne leur a donné cela, murmura-t-elle. Ni un Lié ni une Trame. Un peuple l'a trouvé seul, et se l'est passé de bouche en bouche.
 
 — De bouche en bouche et de main en main, corrigea Kayara. Le figuier, on te le montre du doigt, tu ne l'oublies plus. C'est ça, savoir. Pas ce qui te tombe du ciel tout fait. Ce qu'une main te met dans la main. »
 

@@ -144,7 +144,7 @@ C'est Mira Dasthen qui m'a averti.
 
 Je dois la décrire ici parce qu'elle mérite mieux que les registres des Bibliothèques, où son nom figure comme simple Archiviste de troisième rang.
 
-Mira Dasthen avait quarante et un ans, la peau brûlée de quelqu'un qui a longtemps travaillé dehors, et une façon de marcher légèrement penchée depuis une chute dans les collines d'Ysundara. Elle portait ses cheveux noués trop serré. Elle disait ce qu'elle pensait. Dans un monde où l'on apprend très tôt à ne pas le faire, cette franchise ressemblait parfois à de la maladresse. Je crois aujourd'hui que c'était du courage.
+Mira Dasthen avait quarante et un ans, la peau brûlée de quelqu'un qui a longtemps travaillé dehors, et une façon de marcher légèrement penchée depuis une chute dans les collines d'Ysundara. Elle portait ses cheveux noués trop serrés. Elle disait ce qu'elle pensait. Dans un monde où l'on apprend très tôt à ne pas le faire, cette franchise ressemblait parfois à de la maladresse. Je crois aujourd'hui que c'était du courage.
 
 Elle est venue chez moi la nuit précédant la saisie. Deux coups brefs sur la porte, le code que nous utilisions depuis deux ans pour les échanges de documents confidentiels, une habitude professionnelle qui avait pris une dimension nouvelle. Elle portait un manteau sombre et l'air de quelqu'un qui a marché vite.
 
@@ -190,7 +190,7 @@ J'avais une chambre au premier étage. Un réduit de deux mètres sur deux, sent
 
 J'ai passé la plus grande partie de la nuit assis sur la paillasse, le carnet de mon père posé sur mes genoux.
 
-Le carnet d'Aldric Valthen ne ressemble pas aux carnets de cartographe que j'utilisais pour mes missions. Ce n'est pas un carnet professionnel. C'est un objet né de la nécessité, fabriqué à la maison avec des feuillets de parchemin de récupération cousus ensemble dans une couverture de cuir tanné qui devait être originellement une vieille semelle. Mon père était berger. Il n'avait pas accès aux fournitures des Bibliothèques. Il avait ce qu'il pouvait trouver, et avec cela, il avait tenu pendant vingt-trois ans des relevés d'observation nocturne d'une précision que l'érudite Veyla — celle dont parle l'histoire que l'on raconte encore à Valthorn — avait qualifié de digne de l'Académie de Prismalith.
+Le carnet d'Aldric Valthen ne ressemble pas aux carnets de cartographe que j'utilisais pour mes missions. Ce n'est pas un carnet professionnel. C'est un objet né de la nécessité, fabriqué à la maison avec des feuillets de parchemin de récupération cousus ensemble dans une couverture de cuir tanné qui devait être originellement une vieille semelle. Mon père était berger. Il n'avait pas accès aux fournitures des Bibliothèques. Il avait ce qu'il pouvait trouver, et avec cela, il avait tenu pendant vingt-trois ans des relevés d'observation nocturne d'une précision que l'érudite Veyla — celle dont parle l'histoire que l'on raconte encore à Valthorn — avait qualifiés de dignes de l'Académie de Prismalith.
 
 J'avais dix-sept ans quand mon père a disparu. Je ne dirai pas qu'il est mort parce que je ne sais pas s'il est mort. Il est parti un matin pour les pâturages d'altitude et n'est pas rentré. Quatre jours de recherche. Pas de corps. Pas de trace. Pas d'explication.
 

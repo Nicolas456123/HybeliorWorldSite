@@ -128,7 +128,7 @@ La suite, ce fut l'Académie.
 
 Je veux dire : la tentative de l'Académie.
 
-L'Académie d'Invorial est la plus accessible des cinq grandes académies de Lumasar, dans tous les sens du terme — la plus accessible géographiquement pour les étrangers entrant par Kelanor, la plus accessible institutionnellement pour les candidats non lumasariens, et la plus accessible au sens architectural, ses bâtiments étant construits avec cette moitié ordinaire qui caractérise Kelanor elle-même, la pierre et le cristal y étant mêlés en proportions moins extrêmes qu'à Prismalith. On peut y entrer sans rendez-vous, à condition de passer par le Bureau des Visiteurs Étrangers et d'attendre qu'un Archiviste disponible veuille bien vous recevoir.
+L'Académie d'Invorial est la plus accessible des cinq grandes académies de Lumasar, dans tous les sens du terme — la plus accessible géographiquement pour les étrangers entrant par Kelanor, la plus accessible institutionnellement pour les candidats non lumasariens, et la plus accessible au sens architectural, ses bâtiments étant construits avec cette moitié ordinaire qui caractérise Kelanor elle-même, la pierre et le cristal y étant mêlés dans des proportions moins extrêmes qu'à Prismalith. On peut y entrer sans rendez-vous, à condition de passer par le Bureau des Visiteurs Étrangers et d'attendre qu'un Archiviste disponible veuille bien vous recevoir.
 
 J'ai attendu deux heures et demie.
 
@@ -194,7 +194,7 @@ Le lendemain matin de mon arrivée à Kelanor, avant même ma visite chez Fendar
 
 Il s'appelait, d'après ce que j'ai appris plus tard par une conversation indirecte, Orath Dovan. Je l'ai identifié après coup grâce à une description qu'un libraire de la rue des Imprimeurs avait donnée dans une conversation à laquelle je n'étais pas censé prêter attention : Consul adjoint aux Relations Académiques Extérieures, un titre qui n'existe pas dans les textes officiels du Code de Lumasar mais qui décrit une fonction bien réelle, celle de quelqu'un dont le rôle consiste à gérer les affaires étrangères qui impliquent des institutions académiques et qui préfère ne pas passer par les canaux officiels.
 
-Orath Dovan avait une cinquantaine d'années, une carrure solide dans un manteau anthracite, des cheveux gris coupés net, et des yeux qui faisaient ce que j'appelle le balayage : un regard qui enregistre sans s'arrêter.
+Orath Dovan avait une cinquantaine d'années, une carrure solide dans un manteau anthracite, des cheveux gris coupés nets, et des yeux qui faisaient ce que j'appelle le balayage : un regard qui enregistre sans s'arrêter.
 
 Il ne m'a pas adressé la parole. Il passait, il regardait, il continuait.
 
@@ -268,7 +268,7 @@ Kelanor, la nuit, a une beauté que je n'avais pas prévue.
 
 Les cristaux des façades réfractent la lumière des lanternes de rue en arcs-en-ciel qui glissent lentement sur les pavés à mesure que les flammes bougent dans le vent. La pluie avait cessé, et l'air de la nuit était clair — plus clair que le ciel de Kharazir, qui garde toujours une légère brume des plaines. J'étais sorti de l'auberge parce que la chambre me serrait trop après la lecture du carnet, et j'ai marché pendant une heure dans des rues presque désertes, sous ces arcs-en-ciel nocturnes qui se reformaient à chaque brise.
 
-Il y a, dans la moitié cristalline de Kelanor, une place qui n'est pas sur les cartes officielles de la ville — ou plutôt, elle y est, mais sans nom particulier, comme si ceux qui ont nommé les espaces de la ville avaient oublié de s'arrêter là. C'est une place petite, encadrée par trois bâtiments académiques et ouverte sur un quatrième côté vers une ruelle. Au centre : une fontaine, tarie ce soir, dont le bassin de pierre blanche avait recueilli l'eau de pluie de la journée et réfléchissait les cristaux des façades en un miroitement immobile. Tout autour du bassin, plantées dans les joints des pavés, des plumes.
+Il y a, dans la moitié cristalline de Kelanor, une place qui n'est pas sur les cartes officielles de la ville — ou plutôt, elle y est, mais sans nom particulier, comme si ceux qui ont nommé les espaces de la ville avaient oublié de s'arrêter là. C'est une petite place, encadrée par trois bâtiments académiques et ouverte sur un quatrième côté vers une ruelle. Au centre : une fontaine, tarie ce soir, dont le bassin de pierre blanche avait recueilli l'eau de pluie de la journée et réfléchissait les cristaux des façades en un miroitement immobile. Tout autour du bassin, plantées dans les joints des pavés, des plumes.
 
 Des vraies plumes, de toutes les tailles et de toutes les couleurs, maintenues verticalement par leur tuyau enfoncé dans les interstices de la pierre. Des dizaines de plumes. Je n'avais aucune explication pour elles — aucun texte que j'avais lu ne mentionnait cette coutume. Elles étaient simplement là, dans la fontaine tarie, comme si quelqu'un avait voulu rappeler quelque chose à la ville.
 

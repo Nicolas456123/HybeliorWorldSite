@@ -17,7 +17,7 @@ needs_review_for: []
 
 La première chose que j'ai entendue, avant même d'avoir vu les murs d'Althior, c'est la musique. Pas une mélodie précise — plutôt une présence sonore, comme si l'air lui-même avait une texture différente, comme si la matière même de l'air entre ma bouche et l'horizon vibrait à une fréquence qu'on ne pouvait pas tout à fait nommer. Un bourdonnement continu, harmonieux, venu de partout et de nulle part, qui précédait la ville comme une rumeur basse précède la foule qui marche derrière elle.
 
-Puis j'ai vu les flèches. De loin, dans la lumière de fin d'après-midi, elles ressemblaient à des aiguilles de cristal plantées dans la montagne — blanches, impossiblement minces, s'élevant depuis la vallée de Caverana avec une légèreté que la pierre n'aurait pas dû autoriser. Le soleil les frappait obliquement et elles renvoyaient la lumière en fragments irisés, comme si chaque flèche était aussi un prisme, un instrument de transformation plutôt qu'un simple ornement architectural.
+Puis j'ai vu les flèches. De loin, dans la lumière de fin d'après-midi, elles ressemblaient à des aiguilles de cristal plantées dans la montagne — blanches, d'une minceur presque impossible, s'élevant depuis la vallée de Caverana avec une légèreté que la pierre n'aurait pas dû autoriser. Le soleil les frappait obliquement et elles renvoyaient la lumière en fragments irisés, comme si chaque flèche était aussi un prisme, un instrument de transformation plutôt qu'un simple ornement architectural.
 
 J'ai compris alors que le bourdonnement venait des cloches. Les cloches d'Althior, dont j'avais lu quelque part — dans quel traité, je ne me souviens plus, quelque chose emprunté à la bibliothèque de l'académie il y a des années — que chacune était accordée individuellement, que l'ensemble des clochers formait un instrument unique dont les harmoniques se fondaient dans le vent avant d'atteindre les oreilles des approchants. Un instrument dont le joueur était la ville entière.
 
@@ -65,7 +65,7 @@ J'ai regardé ça longtemps. Très longtemps.
 
 Et puis j'ai fait quelque chose que je n'aurais pas su anticiper avant de le faire : j'ai sorti mon carnet et j'ai essayé de dessiner.
 
-Je n'ai pas pu. Pas parce que mes mains refusaient — elles ont tracé des lignes, des courbes, des annotations dans les marges — mais parce que la représentation que j'obtenais était désespérément en deçà. C'était comme essayer de retranscrire une symphonie en notant "des sons graves puis des sons aigus, durée approximative vingt minutes". L'information y était. L'essentiel manquait.
+Je n'ai pas pu. Pas parce que mes mains refusaient — elles ont tracé des lignes, des courbes, des annotations dans les marges — mais parce que la représentation que j'obtenais était désespérément en deçà. C'était comme essayer de retranscrire une symphonie en notant "des sons graves puis des sons aigus, durée approximative de vingt minutes". L'information y était. L'essentiel manquait.
 
 C'est là que la beauté d'Althior m'a fait mal pour la première fois.
 
@@ -89,7 +89,7 @@ Il a hoché la tête avec une bienveillance si totale et si imperméable que j'a
 
 L'accès à la bibliothèque de l'Académie requérait une lettre de recommandation d'un Maître des Arts ou d'un Prélat Régional. À défaut, on pouvait consulter la bibliothèque publique du temple adjacent, dont le fonds incluait des reproductions — de bonnes reproductions, m'a-t-il assuré — des documents les plus courants.
 
-Des reproductions. J'ai remercié et je suis sorti dans la lumière trop blanche de la cour.
+Des reproductions. Je l'ai remercié et je suis sorti dans la lumière trop blanche de la cour.
 
 ---
 
@@ -107,7 +107,7 @@ Elle a ri — un rire bref et sec, sans malice. — Bienvenue en Seraphia.
 
 Yolenne était peintre. Pas Maître des Arts — elle avait essayé, m'a-t-elle expliqué au fil d'une conversation qui s'est engagée naturellement, avec la fluidité des conversations entre deux personnes qui n'ont rien à perdre à être honnêtes —, elle avait tenté le Concours d'Élévation à deux reprises. La première fois, le jury avait trouvé son travail "techniquement accompli mais insuffisamment dévotionnel". La seconde, "dévotionnel mais excessivement personnel". Elle avait compris à ce moment-là que les catégories du Conclave étaient conçues pour désigner des réussites plutôt que pour les définir — que la marge de manœuvre de l'évaluateur était totale, et que cette totalité n'était pas un hasard.
 
-Elle vivait et travaillait à Althior depuis douze ans, dans un atelier du quartier ouest. Elle vendait ses toiles à des collectionneurs privés, principalement des marchands de Zerithor qui les achetaient comme investissement plutôt que comme dévotion — une vente qui, à Seraphia, était techniquement légale mais portait une légère tache sociale, comme un accent d'une région que les gens de la capitale considèrent rustique.
+Elle vivait et travaillait à Althior depuis douze ans, dans un atelier du quartier ouest. Elle vendait ses toiles à des collectionneurs privés, principalement des marchands de Zerithor qui les achetaient comme investissement plutôt que comme dévotion — une vente qui, à Seraphia, était techniquement légale mais portait une légère tache sociale, comme un accent d'une région que les gens de la capitale considèrent comme rustique.
 
 — Tout ça pour dire, a-t-elle conclu, que je ne suis pas la mieux placée pour t'ouvrir les portes de l'Académie. Mais je connais quelqu'un qui peut.
 

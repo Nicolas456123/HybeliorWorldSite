@@ -11,11 +11,11 @@ status: draft
 
 # Chapitre vingt-six — La vision et la lame
 
-Sur l'eau, on n'allait nulle part qu'on pût désigner du doigt. Sera avait fini par comprendre là son insomnie : portés par Kayara qui lisait le ciel et le sel comme d'autres lisent un livre, ils avançaient dans une chose sans bornes, et l'esprit, faute de repères, se laissait bercer. À terre, c'était fini. À terre, il y avait une route, et la route avait un bout, et le bout avait un nom.
+Sur l'eau, on n'allait nulle part qu'on pût désigner du doigt. Sera avait fini par comprendre pourquoi son insomnie s'y taisait : portés par Kayara qui lisait le ciel et le sel comme d'autres lisent un livre, ils avançaient dans une chose sans bornes, et l'esprit, faute de repères, se laissait bercer. À terre, c'était fini. À terre, il y avait une route, et la route avait un bout, et le bout avait un nom.
 
 Trois jours qu'ils montaient vers les hautes terres de Sulvane, à pied maintenant, les mules chargées derrière eux, dans un pays qui se dressait à mesure qu'on l'entamait. Aelindra avait choisi ce chemin sans le prendre avec eux — les pistes de bergers, les cols que les caravanes ne prenaient plus, les gîtes tenus par des gens qu'on payait pour ne pas poser de questions. Comment Aelindra savait ces choses, Sera avait cessé de le lui demander. Une répartition tacite s'était faite dans le Cercle, que personne n'avait décrétée et que tous respectaient : Kayara les avait menés sur l'eau ; Aelindra les menait sur la terre, d'avance, par une route qu'elle avait dessinée puis quittée ; Drakhan les mènerait sur le feu. Chacun tenait sa part du chemin. La fin, c'était sa part à elle : le protocole plié dans sa sacoche contre son flanc, et le savoir de ce qui se ferait quand tous ces chemins auraient convergé.
 
-Le soir tombait tôt dans ces montagnes. Dès que la lumière déclinait on s'arrêtait, parce qu'il devenait dangereux de marcher, et parce qu'aussi — Sera l'avait remarqué sans le dire — le Cercle avait pris goût à ces longues soirées où l'on n'avait plus rien à faire qu'attendre le sommeil. C'étaient les meilleures heures et les pires. Les meilleures : dans le froid, autour d'un feu maigre, le peu d'entre eux que ce tronçon de route avait rassemblés — ceux que la mer avait portés et remontaient à pied vers le sud, et le jeune qui les avait rejoints par la côte — trouvaient parfois à se dire des choses simples, du pain, une histoire, un souvenir sans conséquence, et cette simplicité valait tout l'or du monde à des gens qui portaient une chose pareille. Les pires : quand le silence retombait, il était plein.
+Le soir tombait tôt dans ces montagnes. Dès que la lumière déclinait on s'arrêtait, parce qu'il devenait dangereux de marcher, et aussi parce que — Sera l'avait remarqué sans le dire — le Cercle avait pris goût à ces longues soirées où l'on n'avait plus rien à faire qu'attendre le sommeil. C'étaient les meilleures heures et les pires. Les meilleures : dans le froid, autour d'un feu maigre, le peu d'entre eux que ce tronçon de route avait rassemblés — ceux que la mer avait portés et remontaient à pied vers le sud, et le jeune qui les avait rejoints par la côte — trouvaient parfois à se dire des choses simples, du pain, une histoire, un souvenir sans conséquence, et cette simplicité valait tout l'or du monde à des gens qui portaient une chose pareille. Les pires : quand le silence retombait, il était plein.
 
 Ce soir-là, le campement s'était dressé dans le repli d'un col, à l'abri du vent. Le feu était petit. Personne ici ne le veillait comme l'aurait veillé le forgeron, resté loin au pied de son Mont ; on lui jetait une branche quand il baissait, en profanes, et il manquait au campement — Sera le sentait — celui à qui le feu appartenait comme la fin lui appartenait à elle. Roulé dans sa couverture, Mirathis s'était couché tôt et dormait mal ; ses paupières remuaient. Les Rêves-Gris ne lui laissaient plus de nuits pleines. Vorath se taisait, ce qui ne signifiait rien de particulier, puisque Vorath se taisait toujours ; mais Sera avait appris à distinguer ses silences, et celui-ci était un silence habité, tourné vers le dedans, un silence qui priait. Penché sur son cahier un peu à l'écart, Thessan écrivait avec cette concentration têtue qu'il avait ; notait-il le jour ou fuyait-il dans un souvenir, elle ne le savait jamais, et ne le lui demandait pas. Chacun portait sa part sans qu'on la lui prît des mains.
 
@@ -25,7 +25,7 @@ Jamais il n'y était tout à fait. À la lisière du cercle de lumière il s'ass
 
 Se lever lui coûta. Le froid était dans ses articulations — là où l'on sentait venir, disait la vieille croyance, le changement de temps et la pensée des êtres aimés, et qui ne lui rapportaient plus depuis longtemps que la douleur ordinaire du deuil. Elle ramassa sa couverture, la jeta sur ses épaules, et alla vers la pierre où l'homme sans nom regardait le sud.
 
-Qu'elle irait lui parler, elle ne se l'était pas dit. Elle s'aperçut, en marchant, qu'elle y allait depuis des jours.
+Elle ne s'était pas dit qu'elle irait lui parler. Elle s'aperçut, en marchant, qu'elle y allait depuis des jours.
 
 ---
 
@@ -115,7 +115,7 @@ Et comme chaque soir, il ne revint pas — parce qu'on ne résonne pas avec un v
 
 Rien de tout cela ne fut dit. On n'imagine ces choses que dans l'épuisement. Elle avait raison, et elle avait peut-être tort, et elle ne le saurait jamais.
 
-« Il fait froid, dit-elle enfin, parce qu'il fallait dire quelque chose de simple, une chose de vivant, une chose qui n'engageait rien. Tu devrais dormir. Nous avons des jours de marche encore.
+« Il fait froid, dit-elle enfin, parce qu'il fallait dire quelque chose de simple, une chose vivante, une chose qui n'engageait rien. Tu devrais dormir. Nous avons des jours de marche encore.
 
 — Oui, dit l'homme sans nom. Bientôt. »
 
