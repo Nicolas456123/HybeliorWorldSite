@@ -53,7 +53,7 @@ Ce n'était pas encore *le* journal. Un cahier neuf, relié de cuir souple, ache
 
 Il ouvrit le cahier neuf, trempa la plume, et se surprit à écrire, non pas ce qu'il voyait — la salle, les sept, le huitième de dos —, mais ceci : *Mon frère est mort en servant une chose qu'il aimait, et personne n'a pu me dire à quoi ça avait servi.* La ligne le fixa comme une accusation. Ce n'était pas ce qu'il avait voulu écrire. Il avait voulu décrire la scène, faire œuvre d'archiviste, commencer proprement. Sa main avait écrit Vael. Elle écrirait souvent Vael, dans les mois qui viendraient — chaque fois qu'il faudrait consigner l'urgence, elle glisserait vers un souvenir, comme si la mémoire refusait de laisser le présent avoir toute l'encre.
 
-« Tu écris déjà. » Sera l'avait vu faire. Il y avait de la douceur dans sa remarque, et sous la douceur autre chose — du soulagement, peut-être. « C'est bien. C'est pour cela, entre autres, que tu es ici.
+« Tu écris déjà. » Sera l'avait vu faire. Il y avait de la douceur dans sa remarque, et sous la douceur autre chose — du soulagement, peut-être. « C'est bien. C'est pour cela, entre autres, que tu es ici. »
 
 — Je ne sais pas encore pourquoi je suis ici. »
 
@@ -69,7 +69,7 @@ Le cœur de Thessan cogna. C'était vrai. Exactement vrai, et il ne l'avait jama
 
 « Beaucoup de gens ont lu le Traité », dit-il, pour se défendre.
 
-« Presque personne. » Sera avait repris la parole ; l'homme du fond s'était de nouveau penché sur sa table, la conversation lui revenait comme on repasse un fil à un autre tisseur. « On croit l'avoir lu parce qu'on en a lu la première thèse et la dernière. Ceux qui l'ont lu jusqu'au bout, jusqu'à la cinquième — nous ne sommes peut-être pas deux cents dans le monde. » Elle le regarda. « Et de ces deux cents, combien crois-tu qui aient continué à vivre exactement comme avant ? »
+« Presque personne. » Sera avait repris la parole ; l'homme du fond s'était de nouveau penché sur sa table, la conversation lui revenait comme on repasse un fil à un autre tisseur. « On croit l'avoir lu parce qu'on en a lu la première thèse et la dernière. Ceux qui l'ont lu jusqu'au bout, jusqu'à la cinquième — nous ne sommes peut-être pas deux cents dans le monde. » Elle le regarda. « Et de ces deux cents, combien, crois-tu, ont continué à vivre exactement comme avant ? »
 
 Thessan ne répondit pas. Il pensait à Vael, tombé sur un grabat pour une chose qu'il aimait, qui ne l'avait pas aimé en retour, qui l'avait usé jusqu'à la corde comme le Lien usait tous ceux qui se donnaient à lui. *L'impôt du Lien*, disaient les décrets, avec la pudeur bureaucratique des grandes injustices. Vael n'avait jamais été payé pour les réquisitions. Vael n'avait jamais pu refuser. Vael était mort de n'avoir pas pu refuser. Et lui, Thessan, qui n'avait pas la puissance de son frère, qui n'était Lié que de théorie, sans une once du don qui guérit, avait toujours porté cette culpabilité inversée des cadets : d'être moins doué, et pour cela d'avoir survécu.
 
@@ -111,7 +111,7 @@ Après cela vint le travail. On déroula des cartes, on prononça des noms de vi
 
 « Et les non-Liés ? » Il ne regardait personne en particulier, ce qui revenait à regarder tout le monde. « Ceux d'en bas. Ceux qui n'ont jamais rien tiré du Lien, qui n'ont fait que le porter sur leur dos, comme moi j'ai porté du fer. Qu'est-ce qui leur arrive, à eux, quand ça tombe ? »
 
-Un silence. Sera reposa ses mains à plat sur la table — ce geste qu'elle avait —, et Thessan comprit que la question la touchait plus qu'elle ne le laissait paraître, qu'il y avait derrière ce visage large et calme quelqu'un pour qui la réponse n'était pas une abstraction.
+Un silence. Sera reposa ses mains à plat sur la table — ce geste qui lui appartenait —, et Thessan comprit que la question la touchait plus qu'elle ne le laissait paraître, qu'il y avait derrière ce visage large et calme quelqu'un pour qui la réponse n'était pas une abstraction.
 
 « Les mieux préparés survivront, dit-elle enfin. Certains vivent déjà sans rien de Lié. » Un regard vers la navigatrice, qui hocha la tête sans lever les yeux de sa carte. « Mais beaucoup de non-Liés ne vivent pas *sans* le Lien, Drakhan. Ils vivent *sous* lui. Ils mangent le pain que les Jardiniers font pousser, ils guérissent par les guérisseurs, ils passent les portails, ils habitent des villes que le Lien tient debout. Ceux-là aussi tomberont. »
 
@@ -119,7 +119,7 @@ Un silence. Sera reposa ses mains à plat sur la table — ce geste qu'elle avai
 
 — Un sur trois. » Elle n'avait pas cillé. « Un tiers du monde ne tire rien du Lien, et ce tiers-là tombera avec les autres. »
 
-Personne ne compléta. Drakhan reprit sa mastication, plus lentement. Et Thessan, qui comptait toujours, compta malgré lui, et le compte le glaça : on voulait rendre justice aux non-Liés en tuant les non-Liés ; on libérerait d'une chaîne des gens qui, en bas, ne s'étaient jamais sus enchaînés. Il regarda Sera. Il sut, sans qu'un mot fût échangé, qu'elle avait déjà fait ce calcul mille fois, qu'elle le referait mille nuits encore, et que c'était peut-être elle, dans toute la pièce, que la chose déchirait le plus — précisément parce que c'était elle qui, la première, avait voulu le bien.
+Personne ne compléta. Drakhan reprit sa mastication, plus lentement. Et Thessan, qui comptait toujours, compta malgré lui, et le compte le glaça : on voulait rendre justice aux non-Liés en tuant les non-Liés ; on libérerait d'une chaîne des gens qui, en bas, ne s'étaient jamais crus enchaînés. Il regarda Sera. Il sut, sans qu'un mot fût échangé, qu'elle avait déjà fait ce calcul mille fois, qu'elle le referait mille nuits encore, et que c'était peut-être elle, dans toute la pièce, que la chose déchirait le plus — précisément parce que c'était elle qui, la première, avait voulu le bien.
 
 « Ma sœur est un Vide, dit-elle alors, très bas, à personne, ou à lui, ou à la carte devant elle. On l'a appelée Vide toute sa vie. » Elle releva les yeux. « Je fais ceci pour elle. Et ceci la tuera peut-être aussi. Voilà ce que c'est, Drakhan. Voilà exactement ce que c'est. Ne me demande pas de faire semblant que c'est propre. »
 
@@ -131,7 +131,7 @@ Thessan écouta la suite. Il ne comprenait pas encore la moitié de ce qui se di
 
 ---
 
-Bien plus tard dans la nuit, remonté dans sa chambre, il ne dormit pas. Mirathis avait dit vrai. Sa chandelle allumée, le cahier neuf ouvert devant lui, il le regarda longtemps sans écrire. Par la fenêtre, Aethranor dormait, immense et calme, ses toits luisant faiblement, le Grand Portail au loin marquant le ciel de son arche pâle. Tout cela semblait si solide, si éternel, si peu prêt à finir, qu'il eut honte un instant de ce qu'il savait. Cent vingt millions de gens dormaient sous cette même nuit, ignorants, en sûreté dans leur ignorance. Il enviait cette ignorance. Il l'enviait comme on envie une chose qu'on ne peut plus s'offrir.
+Bien plus tard dans la nuit, remonté dans sa chambre, il ne dormit pas. Mirathis avait dit vrai. Sa chandelle allumée, le cahier neuf ouvert devant lui, il le regarda longtemps sans écrire. Par la fenêtre, Aethranor dormait, immense et calme, ses toits luisant faiblement, le Grand Portail au loin marquant le ciel de son arche pâle. Tout cela semblait si solide, si éternel, si peu prêt à finir, qu'il eut honte un instant de ce qu'il savait. Cent vingt millions de personnes dormaient sous cette même nuit, ignorantes, en sûreté dans leur ignorance. Il enviait cette ignorance. Il l'enviait comme on envie une chose qu'on ne peut plus s'offrir.
 
 Sa pensée revint à Vael. Au carnet contre sa poitrine, ces pages où un homme mort avait noté, jusqu'à la fin, les doses et les gestes pour sauver des vies — et qui n'avaient sauvé personne, parce que personne d'autre n'avait su les lire. *Voilà ce qu'est un livre qu'on ne lit pas,* pensa-t-il. *Un homme qui parle dans une pièce vide.*
 

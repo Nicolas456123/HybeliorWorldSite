@@ -87,7 +87,7 @@ La plume reposée, elle regarda ses mains. Des mains de vieille femme, maintenan
 
 L'avant-veille, elle l'avait vue.
 
-Elle descendait rarement en ville — la chambre qu'on lui avait prêtée était haut, à l'écart, et c'était bien ainsi ; nulle raison d'être reconnue, ni de raisons du tout, sinon le sel, l'huile, le peu qu'une vieille femme achète sans qu'on la remarque. Ce jour-là elle avait pris la ruelle des teinturiers, celle qui coupe court vers la halle basse, et c'est en débouchant sur la petite place aux trois marchands qu'elle l'avait vue, de l'autre côté, à trente pas peut-être, entre l'étal du potier et celui des paniers.
+Elle descendait rarement en ville — la chambre qu'on lui avait prêtée était en hauteur, à l'écart, et c'était bien ainsi ; nulle raison d'être reconnue, nulle raison tout court, sinon le sel, l'huile, le peu qu'une vieille femme achète sans qu'on la remarque. Ce jour-là elle avait pris la ruelle des teinturiers, celle qui coupe court vers la halle basse, et c'est en débouchant sur la petite place aux trois marchands qu'elle l'avait vue, de l'autre côté, à trente pas peut-être, entre l'étal du potier et celui des paniers.
 
 Ísae.
 

@@ -93,7 +93,7 @@ Thessan ne répondit pas. Le rouleau, il le regardait. Il savait, sans qu'on le 
 
 Thessan hésita. « Le protocole. Celui de Sera. Ce que vous ferez au Mont.
 
-— Ce que nous ferons. » L'homme laissa un temps. « Sera dit que tu dois le connaître. Puisque tu le consigneras. On ne consigne pas ce qu'on n'a pas compris. » Sur le rouleau fermé, il posa sa main — cette main que Thessan avait déjà vu remonter, d'autres soirs, vers son propre sternum, comme pour vérifier une chose sous la peau — et il la laissa là, à plat, un moment, comme on couvre une chose vivante pour la calmer avant de la montrer. « Mais je veux que tu saches d'abord une chose. »
+— Ce que nous ferons. » L'homme laissa un temps. « Sera dit que tu dois le connaître. Puisque tu le consigneras. On ne consigne pas ce qu'on n'a pas compris. » Sur le rouleau fermé, il posa sa main — cette main que Thessan avait déjà vue remonter, d'autres soirs, vers son propre sternum, comme pour vérifier une chose sous la peau — et il la laissa là, à plat, un moment, comme on couvre une chose vivante pour la calmer avant de la montrer. « Mais je veux que tu saches d'abord une chose. »
 
 Le regard de l'homme se leva vers lui, et Thessan, pour une fois, vit son visage de face, en pleine lumière de lampe, et ce fut si rare et si bref qu'il ne sut pas quoi en faire — un visage ordinaire, fatigué, ni beau ni laid, avec ce quelque chose de brûlé au fond des yeux qu'on ne pouvait nommer. Un petit vertige le prit : dans un instant l'homme se remettrait de côté, se remettrait dans l'ombre, et il regretterait de n'avoir pas mieux regardé ce visage tant qu'il l'avait eu.
 

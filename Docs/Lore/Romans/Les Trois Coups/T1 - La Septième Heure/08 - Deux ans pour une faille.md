@@ -86,7 +86,7 @@ Le silence lui vint faute de réplique. C'était vrai, et c'était humiliant de 
 
 Dehors, un chien aboya, se tut. La garance montait dans la cuve en volutes rousses.
 
-« Alors je vais vous poser la seule qui compte, dit-elle. Et je saurai, à la manière dont vous répondrez, ce que vous êtes. »
+« Alors je vais vous poser la seule question qui compte, dit-elle. Et je saurai, à la manière dont vous répondrez, ce que vous êtes. »
 
 « Posez-la.
 
@@ -104,11 +104,11 @@ Quelque part sous ses côtes, quelque chose bougea qu'elle n'avait pas prévu �
 
 « C'est une jolie distinction, dit-elle, du ton dont elle refermait les dossiers. Les vôtres doivent l'aimer. *Vrai mais pas forcément bien.* Ça permet de tout faire en se donnant l'air de douter.
 
-— Vous croyez que je m'en sers pour me rassurer. » Il hocha lentement la tête, comme devant une objection qu'il attendait. « Retournez-la. Prenez-la dans l'autre sens. Un homme qui trouve une chose *vraie et bien* dort tranquille : il tient sa raison d'agir toute prête. Moi, je tiens une chose vraie dont je ne sais pas si elle est bien. » Un temps. « Ça n'aide pas à dormir, Vessa. Ça n'aide pas du tout. C'est le contraire d'un réconfort. »
+— Vous croyez que je m'en sers pour me rassurer. » Il hocha lentement la tête, comme devant une objection qu'il attendait. « Retournez-la. Prenez-la dans l'autre sens. Un homme qui trouve une chose *vraie et bonne* dort tranquille : il tient sa raison d'agir toute prête. Moi, je tiens une chose vraie dont je ne sais pas si elle est bonne. » Un temps. « Ça n'aide pas à dormir, Vessa. Ça n'aide pas du tout. C'est le contraire d'un réconfort. »
 
 La bouche déjà ouverte sur la réplique suivante — elle en avait une, prête, sur les hommes qui font de leur insomnie une vertu — elle ne la dit pas.
 
-Le mot resta pris parce qu'elle venait de comprendre, à cet instant précis, dans l'odeur d'urine et de garance, que la phrase préparée pour le piéger était exactement celle qu'elle se disait à elle-même, la nuit, penchée sur les comptes de la cellule qui ne cachaient aucun vol. *Une chose vraie dont je ne sais pas si elle est bien.* Chez lui, elle avait cru chercher la faille du mensonge. Ce qu'elle cherchait, en fait, depuis des mois, c'était la permission de continuer à croire qu'il y en avait une — parce que le jour où il n'y en aurait pas, elle ne pourrait plus rentrer chez elle.
+Le mot resta pris parce qu'elle venait de comprendre, à cet instant précis, dans l'odeur d'urine et de garance, que la phrase préparée pour le piéger était exactement celle qu'elle se disait à elle-même, la nuit, penchée sur les comptes de la cellule qui ne cachaient aucun vol. *Une chose vraie dont je ne sais pas si elle est bonne.* Chez lui, elle avait cru chercher la faille du mensonge. Ce qu'elle cherchait, en fait, depuis des mois, c'était la permission de continuer à croire qu'il y en avait une — parce que le jour où il n'y en aurait pas, elle ne pourrait plus rentrer chez elle.
 
 Ce fut là, au milieu de la phrase qu'elle ne prononça pas, qu'elle changea de camp.
 

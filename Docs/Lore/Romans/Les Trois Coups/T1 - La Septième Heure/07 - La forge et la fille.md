@@ -122,7 +122,7 @@ Il laissa cela suspendu, une barre au rouge sombre.
 
 Drakhan sentit sa gorge se serrer, non de colère cette fois, d'autre chose. C'étaient ses mots. Presque exactement les mots qu'il avait dits à Kessa un soir, près du feu, quand les hommes de Vhaeran étaient venus la première fois — *ce n'est pas le Lien qui sépare les hommes, le Lien n'est que le bâton, c'est la main qui tient le bâton.* Il ne les avait dits qu'à elle. Personne d'autre ne les avait entendus. Et voilà qu'un étranger les lui rendait dans sa propre bouche, comme s'ils traînaient dans l'air depuis toujours et qu'il n'avait fait, lui, que les cueillir avant les autres.
 
-« Où as-tu pris ça, dit-il, plus rauque qu'il ne voulut.
+« Où as-tu pris ça ? dit-il, plus rauque qu'il ne voulut.
 
 — Dans un livre, dit l'homme. Écrit il y a bien longtemps par un homme qui n'a jamais tenu de marteau, dans une ville que tu ne connais pas, à un millier de lieues d'ici. » Un temps. « Il l'a écrit autrement. Avec des mots d'académie. Mais c'est la même chose que tu as dite à ta fille près de ce feu, forgeron. Mot pour mot la même chose. »
 

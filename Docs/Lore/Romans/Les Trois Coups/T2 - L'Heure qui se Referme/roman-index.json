@@ -1,0 +1,367 @@
+{
+  "trilogie": "Les Trois Coups",
+  "tome": 2,
+  "titre": "L'Heure qui se Referme",
+  "sousTitre": "Le Fléau des Failles — Ère V",
+  "statut": "tome 2 complet",
+  "dossier": "Lore/Romans/Les Trois Coups/T2 - L'Heure qui se Referme",
+  "parties": [
+    {
+      "titre": "prologue",
+      "chapitres": [
+        {
+          "key": "ce-que-je-ne-sais-plus-quand",
+          "file": "00 - Ce que je ne sais plus quand.md",
+          "label": "Ce que je ne sais plus quand",
+          "meta": "Chœur des Voix Déportées"
+        }
+      ]
+    },
+    {
+      "titre": "I",
+      "chapitres": [
+        {
+          "key": "le-seuil-deporte-i",
+          "file": "01 - Le seuil déporté I.md",
+          "label": "Le seuil déporté I",
+          "meta": "Chœur des Voix Déportées"
+        },
+        {
+          "key": "la-forge-basse",
+          "file": "02 - La Forge-Basse.md",
+          "label": "La Forge-Basse",
+          "meta": "Chapitre 1 — Kessane"
+        },
+        {
+          "key": "le-serment-du-fer-froid",
+          "file": "03 - Le serment du fer froid.md",
+          "label": "Le serment du fer froid",
+          "meta": "Chapitre 2 — Kessane"
+        },
+        {
+          "key": "celui-qui-entend-les-morts",
+          "file": "04 - Celui qui entend les morts.md",
+          "label": "Celui qui entend les morts",
+          "meta": "Chapitre 3 — Ombreth"
+        },
+        {
+          "key": "les-chanteurs-d-alkaran",
+          "file": "05 - Les chanteurs d'Alkaran.md",
+          "label": "Les chanteurs d'Alkaran",
+          "meta": "Chapitre 4 — Ombreth"
+        },
+        {
+          "key": "le-village-qui-ne-cria-pas",
+          "file": "06 - Le village qui ne cria pas.md",
+          "label": "Le village qui ne cria pas",
+          "meta": "Chœur des Voix Déportées"
+        },
+        {
+          "key": "l-apaisement",
+          "file": "07 - L'apaisement.md",
+          "label": "L'apaisement",
+          "meta": "Chapitre 5 — Vaenor"
+        },
+        {
+          "key": "ceux-qu-on-habille-pour-avant",
+          "file": "08 - Ceux qu'on habille pour avant.md",
+          "label": "Ceux qu'on habille pour avant",
+          "meta": "Chapitre 6 — Nael, recruteur du culte des Mangeurs de Temps"
+        },
+        {
+          "key": "le-copiste",
+          "file": "09 - Le copiste.md",
+          "label": "Le copiste",
+          "meta": "Chapitre 7 — Olven"
+        },
+        {
+          "key": "la-lampe-qu-on-ne-regarde-pas",
+          "file": "10 - La lampe qu'on ne regarde pas.md",
+          "label": "La lampe qu'on ne regarde pas",
+          "meta": "Chapitre 8 — Kessane"
+        },
+        {
+          "key": "les-berges-qui-basculent",
+          "file": "11 - Les berges qui basculent.md",
+          "label": "Les berges qui basculent",
+          "meta": "Chœur des Voix Déportées"
+        }
+      ]
+    },
+    {
+      "titre": "II",
+      "chapitres": [
+        {
+          "key": "le-seuil-deporte-ii",
+          "file": "12 - Le seuil déporté II.md",
+          "label": "Le seuil déporté II",
+          "meta": "Chœur des Voix Déportées"
+        },
+        {
+          "key": "ce-qui-va-faire-mal",
+          "file": "13 - Ce qui va faire mal.md",
+          "label": "Ce qui va faire mal",
+          "meta": "Chapitre 9 — Kessane"
+        },
+        {
+          "key": "tavel-vingt-deux-ans",
+          "file": "14 - Tavel, vingt-deux ans.md",
+          "label": "Tavel, vingt-deux ans",
+          "meta": "Chapitre 10 — Vaenor"
+        },
+        {
+          "key": "donner-l-oreille",
+          "file": "15 - Donner l'oreille.md",
+          "label": "Donner l'oreille",
+          "meta": "Chapitre 11 — Ombreth"
+        },
+        {
+          "key": "le-journal-d-un-homme-qui-doutait",
+          "file": "16 - Le journal d'un homme qui doutait.md",
+          "label": "Le journal d'un homme qui doutait",
+          "meta": "Chapitre 12 — Vaenor"
+        },
+        {
+          "key": "la-main-qui-tremble",
+          "file": "17 - La main qui tremble.md",
+          "label": "La main qui tremble",
+          "meta": "Chapitre 13 — Vaenor"
+        },
+        {
+          "key": "le-village-qui-criait",
+          "file": "18 - Le village qui criait.md",
+          "label": "Le village qui criait",
+          "meta": "Chapitre 14 — Vaenor"
+        },
+        {
+          "key": "ceux-qui-entrent-dans-la-faille",
+          "file": "19 - Ceux qui entrent dans la Faille.md",
+          "label": "Ceux qui entrent dans la Faille",
+          "meta": "Chœur des Voix Déportées"
+        },
+        {
+          "key": "le-vieux-la-forgeronne-et-l-enfant",
+          "file": "20 - Le vieux, la forgeronne et l'enfant.md",
+          "label": "Le vieux, la forgeronne et l'enfant",
+          "meta": "Chapitre 15 — Ombreth"
+        }
+      ]
+    },
+    {
+      "titre": "III",
+      "chapitres": [
+        {
+          "key": "la-descente-a-la-forge-basse",
+          "file": "21 - La descente à la Forge-Basse.md",
+          "label": "La descente à la Forge-Basse",
+          "meta": "Chapitre 16 — Olven"
+        },
+        {
+          "key": "le-seuil-deporte-iii",
+          "file": "22 - Le seuil déporté III.md",
+          "label": "Le seuil déporté III",
+          "meta": "Chœur des Voix Déportées"
+        },
+        {
+          "key": "l-enfant-qui-n-a-pas-ete-declaree",
+          "file": "23 - L'enfant qui n'a pas été déclarée.md",
+          "label": "L'enfant qui n'a pas été déclarée",
+          "meta": "Chapitre 17 — Vaenor"
+        },
+        {
+          "key": "le-registre-des-foyers",
+          "file": "24 - Le registre des foyers.md",
+          "label": "Le registre des foyers",
+          "meta": "Chapitre 18 — Vaenor"
+        },
+        {
+          "key": "le-cahier-comme-outil",
+          "file": "25 - Le cahier comme outil.md",
+          "label": "Le cahier comme outil",
+          "meta": "Chapitre 19 — Kessane"
+        },
+        {
+          "key": "la-coupure",
+          "file": "26 - La coupure.md",
+          "label": "La coupure",
+          "meta": "Chapitre 20 — Kessane"
+        },
+        {
+          "key": "ceux-qui-restent-debout",
+          "file": "27 - Ceux qui restent debout.md",
+          "label": "Ceux qui restent debout",
+          "meta": "Chœur des Voix Déportées"
+        },
+        {
+          "key": "trois-failles-sur-la-plaine",
+          "file": "28 - Trois Failles sur la Plaine.md",
+          "label": "Trois Failles sur la Plaine",
+          "meta": "Chœur des Voix Déportées"
+        },
+        {
+          "key": "les-mains-qui-ne-repondent-plus",
+          "file": "29 - Les mains qui ne répondent plus.md",
+          "label": "Les mains qui ne répondent plus",
+          "meta": "Chapitre 21 — Ombreth"
+        },
+        {
+          "key": "l-interrogatoire",
+          "file": "30 - L'interrogatoire.md",
+          "label": "L'interrogatoire",
+          "meta": "Chapitre 22 — Vaenor"
+        },
+        {
+          "key": "la-clef-du-coffre",
+          "file": "31 - La clef du coffre.md",
+          "label": "La clef du coffre",
+          "meta": "Chapitre 23 — Vaenor"
+        }
+      ]
+    },
+    {
+      "titre": "IV",
+      "chapitres": [
+        {
+          "key": "le-seuil-deporte-iv",
+          "file": "32 - Le seuil déporté IV.md",
+          "label": "Le seuil déporté IV",
+          "meta": "Chœur des Voix Déportées"
+        },
+        {
+          "key": "le-dernier-chant",
+          "file": "33 - Le dernier chant.md",
+          "label": "Le dernier chant",
+          "meta": "Chapitre 24 — Ombreth"
+        },
+        {
+          "key": "le-recruteur-au-bord",
+          "file": "34 - Le recruteur au bord.md",
+          "label": "Le recruteur au bord",
+          "meta": "Chapitre 25 — Nael, recruteur du culte des Mangeurs de Temps"
+        },
+        {
+          "key": "le-deuil-et-la-fuite",
+          "file": "35 - Le deuil et la fuite.md",
+          "label": "Le deuil et la fuite",
+          "meta": "Chapitre 26 — Kessane"
+        },
+        {
+          "key": "celui-qui-vit",
+          "file": "36 - Celui qui vit.md",
+          "label": "Celui qui vit",
+          "meta": "Chapitre 27 — Vaenor"
+        },
+        {
+          "key": "celui-qui-n-a-pas-vu",
+          "file": "37 - Celui qui n'a pas vu.md",
+          "label": "Celui qui n'a pas vu",
+          "meta": "Chapitre 28 — Merric le guetteur"
+        },
+        {
+          "key": "l-edit-de-purete",
+          "file": "38 - L'Édit de Pureté.md",
+          "label": "L'Édit de Pureté",
+          "meta": "Chapitre 29 — Vaenor"
+        },
+        {
+          "key": "les-familles",
+          "file": "39 - Les familles.md",
+          "label": "Les familles",
+          "meta": "Chapitre 30 — Vaenor"
+        },
+        {
+          "key": "le-seuil-de-la-faille",
+          "file": "40 - Le seuil de la Faille.md",
+          "label": "Le seuil de la Faille",
+          "meta": "Chœur des Voix Déportées"
+        }
+      ]
+    },
+    {
+      "titre": "V",
+      "chapitres": [
+        {
+          "key": "le-seuil-deporte-v",
+          "file": "41 - Le seuil déporté V.md",
+          "label": "Le seuil déporté V",
+          "meta": "Chœur des Voix Déportées"
+        },
+        {
+          "key": "la-plaine-qui-se-troue",
+          "file": "42 - La Plaine qui se troue.md",
+          "label": "La Plaine qui se troue",
+          "meta": "Chapitre 31 — Kessane"
+        },
+        {
+          "key": "a-distance-entre-deux-failles",
+          "file": "43 - À distance, entre deux Failles.md",
+          "label": "À distance, entre deux Failles",
+          "meta": "Chapitre 32 — Vaenor"
+        },
+        {
+          "key": "le-fil-qui-se-retrecit",
+          "file": "44 - Le fil qui se rétrécit.md",
+          "label": "Le fil qui se rétrécit",
+          "meta": "Chapitre 33 — Kessane"
+        },
+        {
+          "key": "l-heure",
+          "file": "45 - L'Heure.md",
+          "label": "L'Heure",
+          "meta": "Chapitre 34 — Kessane"
+        },
+        {
+          "key": "le-trou-dans-la-memoire",
+          "file": "46 - Le trou dans la mémoire.md",
+          "label": "Le trou dans la mémoire",
+          "meta": "Chœur des Voix Déportées"
+        },
+        {
+          "key": "le-temoin-exterieur",
+          "file": "47 - Le témoin extérieur.md",
+          "label": "Le témoin extérieur",
+          "meta": "Chapitre 35 — Vaenor"
+        }
+      ]
+    },
+    {
+      "titre": "coda",
+      "chapitres": [
+        {
+          "key": "le-premier-enfant-qui-entend",
+          "file": "48 - Le premier enfant qui entend.md",
+          "label": "Le premier enfant qui entend",
+          "meta": "Chœur des Voix Déportées"
+        },
+        {
+          "key": "la-ou-d-autres-pourront-le-ramasser",
+          "file": "49 - Là où d'autres pourront le ramasser.md",
+          "label": "Là où d'autres pourront le ramasser",
+          "meta": "Chapitre 36 — Kessane"
+        }
+      ]
+    },
+    {
+      "titre": "Coda",
+      "chapitres": [
+        {
+          "key": "le-rapport-que-l-on-croira",
+          "file": "50 - Le rapport que l'on croira.md",
+          "label": "Le rapport que l'on croira",
+          "meta": "Chapitre 37 — Vaenor"
+        }
+      ]
+    },
+    {
+      "titre": "coda",
+      "chapitres": [
+        {
+          "key": "ce-qu-il-entend",
+          "file": "51 - Ce qu'il entend.md",
+          "label": "Ce qu'il entend",
+          "meta": "Chœur des Voix Déportées"
+        }
+      ]
+    }
+  ]
+}
