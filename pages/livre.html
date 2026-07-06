@@ -32,6 +32,10 @@
   .livre-btn:active { transform: scale(.97); }
   .livre-btn[disabled] { opacity: .5; cursor: default; }
   .livre-status { font-size: .8rem; opacity: .75; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 7rem; }
+  .livre-select {
+    font: inherit; font-size: .82rem; max-width: 8.5rem; padding: .35rem .5rem; border-radius: 999px;
+    border: 1px solid var(--border-color, #cbb997); background: transparent; color: inherit;
+  }
   .livre-size { display: inline-flex; gap: .2rem; }
   .livre-size button { width: 2rem; height: 2rem; border-radius: 8px; }
   .livre-hint {
@@ -164,6 +168,7 @@
       '<div class="livre-bar">' +
         '<button class="livre-btn" id="lv-play">▶ Écouter</button>' +
         '<button class="livre-btn secondary" id="lv-stop" disabled>■ Stop</button>' +
+        '<select class="livre-select" id="lv-voice" title="Voix" aria-label="Choix de la voix"></select>' +
         '<span class="livre-status" id="lv-status"></span>' +
         '<span class="livre-size"><button class="livre-btn secondary" id="lv-minus" title="Plus petit">A−</button>' +
         '<button class="livre-btn secondary" id="lv-plus" title="Plus grand">A+</button></span>' +
@@ -171,9 +176,11 @@
 
     var head = '<h1 style="text-align:center;margin:.4rem 0 0">' + escapeHtml(idx.titre || tome.titre) + '</h1>' +
                '<p style="text-align:center;opacity:.7;margin:.2rem 0 1rem">' + escapeHtml(idx.sousTitre || '') + '</p>' +
-               '<div class="livre-hint">Astuce iPhone : le bouton <b>▶ Écouter</b> lit le livre à voix haute. ' +
-               'Pour la meilleure voix et la lecture écran verrouillé, tu peux aussi utiliser <b>Réglages ▸ Accessibilité ▸ ' +
-               'Contenu énoncé ▸ Lire l’écran</b>, puis balayer vers le bas à deux doigts sur cette page.</div>';
+               '<div class="livre-hint"><b>Meilleure voix :</b> la voix par défaut est basique. Sur iPhone, installe une voix ' +
+               '<b>« Améliorée »</b> ou <b>« Siri »</b> dans <b>Réglages ▸ Accessibilité ▸ Contenu énoncé ▸ Voix ▸ Français</b> ' +
+               '(télécharge par ex. <i>Aurélie (Améliorée)</i> ou une voix <i>Siri</i>), puis choisis-la dans le menu déroulant ' +
+               'de la barre du bas. Le bouton <b>▶ Écouter</b> l’utilisera. Pour la lecture écran verrouillé, tu peux aussi ' +
+               'balayer vers le bas à deux doigts (<b>Lire l’écran</b>).</div>';
 
     var body = '<div class="livre-body" id="lv-body">';
     var lastPart = null;
@@ -205,13 +212,47 @@
       .filter(function(el){ return el.textContent.trim().length > 0; });
 
     var idx = 0, playing = false, paused = false, keepAlive = null;
+    var voiceSel = document.getElementById('lv-voice');
+    var VKEY = 'livre-voice';
 
-    function pickVoice(){
-      var vs = speechSynthesis.getVoices() || [];
-      var fr = vs.filter(function(v){ return /^fr/i.test(v.lang); });
-      // Preferer une voix francaise "premium" si presente
-      return fr.find(function(v){ return /Aurélie|Amélie|Thomas|Audrey|Marie|Google français/i.test(v.name); }) || fr[0] || null;
+    // Score de qualite : les voix "neuronales/enhanced/Siri/Google" sonnent bien mieux
+    // que les voix "compact" par defaut.
+    function voiceScore(v){
+      var n = (v.name || '') + ' ' + (v.voiceURI || '');
+      var s = 0;
+      if (/^fr/i.test(v.lang)) s += 100;
+      if (/fr[-_]FR/i.test(v.lang)) s += 10;
+      if (/siri/i.test(n)) s += 60;
+      if (/enhanced|premium|neural|natural|amelie|aurelie|aurélie|amélie/i.test(n)) s += 40;
+      if (/google/i.test(n)) s += 30;
+      if (/eloquence|compact/i.test(n)) s -= 40;
+      return s;
     }
+
+    var chosenVoice = null;
+    function populateVoices(){
+      var vs = (speechSynthesis.getVoices() || []).slice();
+      if (!vs.length || !voiceSel) return;
+      vs.sort(function(a,b){ return voiceScore(b) - voiceScore(a); });
+      var saved = localStorage.getItem(VKEY);
+      voiceSel.innerHTML = '';
+      vs.forEach(function(v){
+        var o = document.createElement('option');
+        o.value = v.voiceURI; o.textContent = v.name + ' (' + v.lang + ')';
+        voiceSel.appendChild(o);
+      });
+      // choix : sauvegarde valide, sinon la mieux notee
+      var pick = vs.find(function(v){ return v.voiceURI === saved; }) || vs[0];
+      chosenVoice = pick; voiceSel.value = pick.voiceURI;
+    }
+    function pickVoice(){ return chosenVoice; }
+    if (voiceSel) voiceSel.addEventListener('change', function(){
+      var vs = speechSynthesis.getVoices() || [];
+      chosenVoice = vs.find(function(v){ return v.voiceURI === voiceSel.value; }) || null;
+      if (chosenVoice) localStorage.setItem(VKEY, chosenVoice.voiceURI);
+      // applique immediatement si en lecture
+      if (playing){ var at = idx; speakFrom(at); }
+    });
 
     function setStatus(){
       var total = blocks.length;
@@ -273,8 +314,9 @@
     });
 
     // Precharge les voix (iOS/Chrome les chargent en async).
-    if (typeof speechSynthesis.onvoiceschanged !== 'undefined') speechSynthesis.onvoiceschanged = function(){};
-    pickVoice();
+    populateVoices();
+    if (typeof speechSynthesis.onvoiceschanged !== 'undefined') speechSynthesis.onvoiceschanged = populateVoices;
+    setTimeout(populateVoices, 400);
   }
 
   // ---------- Taille du texte ----------
