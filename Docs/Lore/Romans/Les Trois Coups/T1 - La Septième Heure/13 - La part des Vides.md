@@ -39,7 +39,7 @@ Les yeux clos de nouveau, elle laissa la question l'habiter. Cela aussi, Orvane 
 
 ---
 
-Le mal-dormir lui rappela une voix.
+Le fait de mal dormir lui rappela une voix.
 
 C'était en mer, plusieurs semaines auparavant — le temps, sur le pont de l'*Amère*, avait cessé d'avoir des bords nets. Une nuit sans lune, la houle basse ; incapable de tenir dans le noir de la cale, elle était montée s'asseoir contre le bastingage. Mirathis y était déjà, enroulé·e dans une couverture, le dos au mât, les yeux ouverts sur rien.
 

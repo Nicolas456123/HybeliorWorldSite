@@ -70,7 +70,7 @@ Elle se retourna. Il l'écoutait, immobile, les mains ouvertes sur les genoux.
 
 « Tu veux savoir ce que je te veux ? » Elle revint s'asseoir en face de lui, tout près, si près qu'il ne pouvait plus regarder que ses yeux. « Toi, tu sais *comment*. Tu l'as fait, on me l'a dit — tu as coupé, et tu as recousu, et coupé encore. Tu connais la structure de la chose comme un serrurier connaît sa serrure. Ça, je ne l'aurai jamais. Je suis une vieille préceptrice qui médite au pied d'un arbre ; je sens le fil, je ne sais pas le trancher. »
 
-« Et toi, dit-il lentement, tu— »
+« Et toi, dit-il lentement, tu... »
 
 « Moi, je sais *pourquoi*. » Elle acheva sa phrase à sa place, du même geste dont on rend à quelqu'un l'objet qu'il a laissé tomber. « Et je crois, à t'entendre ce soir, que c'est ce qui te manque. »
 
@@ -130,7 +130,7 @@ Longtemps il ne dit rien. Un assentiment aussitôt, voilà ce qu'elle avait cru 
 
 — Non.
 
-— Moi si. » Il l'avait avoué simplement, comme on pose un outil trop lourd. « Chaque nuit. Je coupe, en pensée, et je regarde ce qui tombe, et il y a des gens là-dedans qui n'ont rien demandé. Je me dis que c'est le prix. Et puis je— »
+— Moi si. » Il l'avait avoué simplement, comme on pose un outil trop lourd. « Chaque nuit. Je coupe, en pensée, et je regarde ce qui tombe, et il y a des gens là-dedans qui n'ont rien demandé. Je me dis que c'est le prix. Et puis je... »
 
 Il ne finit pas.
 
@@ -142,7 +142,7 @@ Il ne finit pas.
 
 Il la regarda alors avec un respect qui ressemblait à de l'effroi.
 
-« Verithan avait la charpente, dit-il enfin, très bas. Moi, la serrure. Il me manquait— »
+« Verithan avait la charpente, dit-il enfin, très bas. Moi, la serrure. Il me manquait... »
 
 « La colère, dit-elle. Il te manquait quelqu'un qui aime assez pour être en colère. On ne juge bien que ce qu'on aime. Le reste n'est que rancune. »
 

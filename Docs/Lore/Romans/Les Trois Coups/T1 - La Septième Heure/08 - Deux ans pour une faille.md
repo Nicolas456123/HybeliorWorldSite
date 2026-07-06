@@ -80,7 +80,7 @@ Le bâton s'immobilisa dans la cuve.
 
 Il ne finit pas, une fois de plus, et elle comprit qu'il ne finissait pas parce que la fin de cette phrase-là, personne ne pouvait la porter à voix haute.
 
-Elle resta un moment sans écrire dans sa tête. C'était neuf pour elle, cet endroit : d'ordinaire, quand elle poussait un homme jusqu'au mort qu'il ferait, elle voyait sa peur ou son mépris. Ici, elle ne voyait qu'un homme qui portait le mort d'avance et refusait de faire semblant qu'il pesât moins.
+Elle resta un moment sans écrire dans sa tête. C'était nouveau pour elle, cet endroit : d'ordinaire, quand elle poussait un homme jusqu'au mort qu'il ferait, elle voyait sa peur ou son mépris. Ici, elle ne voyait qu'un homme qui portait le mort d'avance et refusait de faire semblant qu'il pesât moins.
 
 Le silence lui vint faute de réplique. C'était vrai, et c'était humiliant de métier : il lisait ses techniques à mesure qu'elle les employait, non par ruse, mais parce qu'il n'avait rien à protéger derrière. On ne surprend pas un homme qui n'a pas de porte de derrière. Toute sa science à elle supposait un secret quelque part, une pièce fermée dont on cherche la clé ; et lui n'avait pas de pièce fermée. Dans une maison sans mur, voilà où il vivait, et elle en faisait le tour, une main tendue, cherchant une paroi qui n'existait pas.
 
@@ -170,7 +170,7 @@ Elle rentra au quartier bas par des rues qu'elle connaissait maintenant mieux qu
 
 Un rapport se rédige pour être lu. Elle le savait ; c'était le fondement de tout ce qu'elle avait fait de sa vie : que la vérité, montrée à un homme intelligent, agit. Elle croyait encore cela, cette nuit-là. Elle mettrait des mois à apprendre le contraire — que le Préfet lirait quarante pages, seul, deux fois, et les brûlerait *parce qu'*il les aurait comprises. Mais cette nuit-là, penchée sur la première page, elle croyait encore qu'un texte assez vrai finit par forcer la main de qui le tient. C'est peut-être pour cela qu'elle écrivit tout, sans rien garder pour elle, avec le soin d'un officier qui rend son dernier service.
 
-Elle ne songeait pas à ce qu'elle deviendrait chez eux. Si on lui avait dit, cette nuit-là, qu'un jour elle étalerait cinq cailloux sur une carte dans la cave d'un teinturier et apprendrait à une préceptrice comment ennuyer un homme d'octroi jusqu'à passer, elle ne l'aurait pas cru. Elle ne se voyait pas encore effacer des pas dans la cendre d'un relais, ni compter les couchages pour qu'un logeur crût n'avoir hébergé qu'un seul dormeur. Tout cela viendrait ; tout cela n'était pas encore. Cette nuit-là, il n'y avait qu'une femme et une page blanche et une conclusion froide, et l'étrange paix de qui a cessé, enfin, de se mentir dans un rapport.
+Elle ne songeait pas à ce qu'elle deviendrait chez eux. Si on lui avait dit, cette nuit-là, qu'un jour elle étalerait cinq cailloux sur une carte dans la cave d'un teinturier et apprendrait à une préceptrice comment ennuyer un homme d'octroi jusqu'à passer, elle ne l'aurait pas cru. Elle ne se voyait pas encore effacer des pas dans la cendre d'un relais ni compter les couchages pour qu'un logeur crût n'avoir hébergé qu'un seul dormeur. Tout cela viendrait ; tout cela n'était pas encore. Cette nuit-là, il n'y avait qu'une femme et une page blanche et une conclusion froide, et l'étrange paix de qui a cessé, enfin, de se mentir dans un rapport.
 
 Elle trempa la plume. *Ils n'ont pas de faille,* écrivit-elle, *et voici pourquoi.*
 

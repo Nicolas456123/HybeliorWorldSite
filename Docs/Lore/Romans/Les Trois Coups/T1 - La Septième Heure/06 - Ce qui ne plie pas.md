@@ -23,7 +23,7 @@ Cela n'avait servi à rien.
 
 La pensée passa, comme elle passait toujours, à ce moment précis du geste — quand le métal est mûr et qu'il faut frapper. Laissée passer, comme toujours. Le marteau se leva.
 
-Le premier coup partit du talon, remonta par le dos, passa par l'épaule et descendit dans le bras comme une chose vivante qui savait son chemin. Soixante ans de ce geste. Drakhan n'y pensait plus qu'on ne pense à respirer. Le marteau tomba sur le fer avec le bruit propre et net d'un métal sain, ce *tannk* clair qui disait que tout allait bien, que la matière obéissait, et lui, dans le fond de lui, à l'endroit où un homme se parle sans mots, reconnut le bruit, et fut, l'espace de ce coup-là, presque en paix.
+Le premier coup partit du talon, remonta par le dos, passa par l'épaule et descendit dans le bras comme une chose vivante qui savait son chemin. Soixante ans de ce geste. Drakhan n'y pensait pas plus qu'on ne pense à respirer. Le marteau tomba sur le fer avec le bruit propre et net d'un métal sain, ce *tannk* clair qui disait que tout allait bien, que la matière obéissait, et lui, dans le fond de lui, à l'endroit où un homme se parle sans mots, reconnut le bruit, et fut, l'espace de ce coup-là, presque en paix.
 
 Puis le deuxième coup. Puis la mémoire.
 
@@ -157,7 +157,7 @@ Alors il avait fait ce que font les hommes qui ont raison sur l'injustice et tor
 
 « Je n'ai pas décidé cela seul, avait-il dit. Nous sommes huit. Il y a parmi eux des gens plus savants que moi. Une femme de Celethor qui a lu tout ce qui s'est écrit. Un homme de l'Académie. Une qui rêve l'avenir. Ils ont pesé tout ce que tu dis, Kessa. Ils le pèsent encore chaque nuit. Ce ne sont pas des fous. » Il avait laissé le mot tomber, plus lourd que les autres. « C'est ce qu'il y a de pire — ce ne sont pas des fous.
 
-— Ne fais pas ça. » Sa voix, cette fois, n'était plus un cri. C'était plus bas, et cela lui avait fait plus mal. « Ne te caches pas derrière tes sept savants. Je ne te parle pas d'eux. Je te parle de toi. » Elle avait fait un pas vers le feu. « Si même les savants ne sont pas sûrs — tu viens de me le dire, ils pèsent encore, chaque nuit — si même eux doutent, alors pourquoi *toi* tu montes ? Toi qui vas mourir le premier. Pour quoi, père ? Dis-moi une raison qui ne soit pas ta colère. »
+— Ne fais pas ça. » Sa voix, cette fois, n'était plus un cri. C'était plus bas, et cela lui avait fait plus mal. « Ne te cache pas derrière tes sept savants. Je ne te parle pas d'eux. Je te parle de toi. » Elle avait fait un pas vers le feu. « Si même les savants ne sont pas sûrs — tu viens de me le dire, ils pèsent encore, chaque nuit — si même eux doutent, alors pourquoi *toi* tu montes ? Toi qui vas mourir le premier. Pour quoi, père ? Dis-moi une raison qui ne soit pas ta colère. »
 
 Et il n'avait pas pu.
 

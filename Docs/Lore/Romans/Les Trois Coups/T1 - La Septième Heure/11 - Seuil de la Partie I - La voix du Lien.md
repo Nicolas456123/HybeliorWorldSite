@@ -45,7 +45,7 @@ Je n'avais jamais pensé cette pensée. Je ne pense pas, d'ordinaire. Je tiens.
 
 Je vais retourner tenir.
 
-C'est ce que je fais. C'est tout ce que je suis. C'est tout ce que j'ai jamais été, et il n'y a aucune raison — aucune — pour que cette nuit soit différente d'aucune des cent millions de nuits que j'ai déjà tenues sans les compter.
+C'est ce que je fais. C'est tout ce que je suis. C'est tout ce que j'ai jamais été, et il n'y a aucune raison — aucune — pour que cette nuit soit différente des cent millions de nuits que j'ai déjà tenues sans les compter.
 
 Il éteint sa chandelle.
 

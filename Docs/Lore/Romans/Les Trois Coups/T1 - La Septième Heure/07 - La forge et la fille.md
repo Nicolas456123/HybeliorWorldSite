@@ -66,9 +66,9 @@ Kessa avait reposé la tenaille. Elle s'était rapprochée d'un pas, elle aussi,
 
 « Il flatte, père, dit-elle à voix basse. Les vendeurs commencent par flatter le travail. C'est la première leçon. On loue l'ouvrage pour acheter l'ouvrier. »
 
-« Je ne loue pas ton travail, dit l'étranger — et il s'adressa à elle, à elle directement, ce que les hommes ne faisaient pas, à Cendral, avec les filles des forgerons. « Je ne suis pas venu acheter des socs. »
+« Je ne loue pas ton travail, dit l'étranger — et il s'adressa à elle, à elle directement, ce que les hommes ne faisaient pas, à Cendral, avec les filles des forgerons. Je ne suis pas venu acheter des socs. »
 
-« Alors quoi. » Kessa croisa les bras. « Qu'est-ce que tu es venu acheter ? »
+« Alors quoi ? » Kessa croisa les bras. « Qu'est-ce que tu es venu acheter ? »
 
 *
 
@@ -166,7 +166,7 @@ Drakhan avait cessé de forger depuis longtemps. La barre, oubliée dans le feu,
 
 Personne ne parla. La goutte à l'auge, le tassement d'une braise, la barre qui se gâchait dans le blanc.
 
-« Père, dit Kessa, tout bas, et pour la première fois de la soirée sa voix trembla — non de colère, de la chose qui est sous la colère et qu'on cache dessous. « Ne réponds pas ce soir. Quoi que tu penses. Ne lui réponds pas ce soir. »
+« Père, dit Kessa, tout bas, et pour la première fois de la soirée sa voix trembla — non de colère, de la chose qui est sous la colère et qu'on cache dessous. Ne réponds pas ce soir. Quoi que tu penses. Ne lui réponds pas ce soir. »
 
 Drakhan ne répondit pas ce soir-là. Il le lui devait, cela au moins ; il n'avait plus beaucoup à lui donner, mais il pouvait lui donner de ne pas dire oui devant elle, tout de suite, dans la remise, avec la barre qui se gâchait au feu. S'avançant vers l'étranger, il essuya sa paume à son tablier — le geste qu'on fait avant de sceller un marché, et il vit que Kessa le vit, et il le fit quand même parce que sa main avait décidé avant lui — puis il ne tendit pas la main. Il la retint contre son flanc.
 

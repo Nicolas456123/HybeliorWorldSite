@@ -45,7 +45,7 @@ Trente ans plus tard, elle se souvenait de la fraîcheur du bois sous ses paumes
 
 « Elle pleure, » avait murmuré une voix, quelque part.
 
-« C'est bon signe, » avait dit la préceptrice-mère, très douce. « Ils pleurent tous, quand la porte s'ouvre. »
+« C'est bon signe », avait dit la préceptrice-mère, très douce. « Ils pleurent tous, quand la porte s'ouvre. »
 
 Sera pleurait, oui. Elle pleurait parce qu'elle avait compris, à treize ans, dans son corps et non dans sa tête, qu'elle n'avait jamais été seule et qu'elle ne le serait jamais. Que la solitude était une illusion d'en bas, une erreur de perspective, et qu'il suffisait de s'ouvrir pour voir qu'on était tenu.
 
@@ -61,7 +61,7 @@ Et rien ne vint.
 
 Sera le sentit avant de le comprendre. Encore ouverte, elle, toute fraîche de son ouverture, elle sentit la trame passer autour d'Ísae comme l'eau passe autour d'une pierre. Sans y entrer. Sans la reconnaître. Elle sentit les préceptrices pousser plus fort, plus doucement, changer d'approche — elle sentit l'effort se muer en application, l'application en gêne, la gêne en une chose qu'aucune d'elles ne nomma mais que Sera, du seuil, reconnut avec une horreur qui montait lentement comme une marée : elles ne trouvaient pas la porte. Il n'y avait pas de porte. Là où, en elle, s'était ouverte une fenêtre sur tout l'air du monde, il y avait, en Ísae, un mur. Non — pas même un mur. Un mur, on le sent, on le heurte. Il y avait un endroit où la trame arrivait et cessait, et derrière, rien qu'elle pût toucher. Une absence si nette qu'elle en était presque une présence. Un plein de vide.
 
-« Encore un peu, » disait la préceptrice-mère à voix basse, de l'autre côté de la porte. « Ne force pas, petite. Personne ne force. » Et à ses sœurs de robe, plus bas encore, un mot que Sera ne devait pas entendre et qu'elle entendit : « Certaines âmes viennent tard. Nous réessaierons. »
+« Encore un peu », disait la préceptrice-mère à voix basse, de l'autre côté de la porte. « Ne force pas, petite. Personne ne force. » Et à ses sœurs de robe, plus bas encore, un mot que Sera ne devait pas entendre et qu'elle entendit : « Certaines âmes viennent tard. Nous réessaierons. »
 
 Le mot vint plus tard. Ce jour-là, personne ne le dit. On releva Ísae avec douceur, on lui essuya les mains, on lui parla à voix basse, et la préceptrice-mère eut ce sourire — ce même sourire de douceur institutionnelle — pour annoncer que certaines âmes ne s'ouvraient pas au matin, qu'il fallait parfois attendre, qu'on réessaierait. On réessaya. Trois fois cette année-là, deux fois l'année d'après. À la fin on cessa, parce qu'à force d'essayer on ne faisait plus qu'une chose : on donnait à Ísae, chaque fois, la preuve renouvelée qu'elle était l'exception, l'échec, le vide au milieu d'une ville qui vénérait la plénitude. Et le mot, entre-temps, était venu tout seul, comme les mots viennent, par la bouche des autres enfants d'abord, puis par celle des adultes qui feignaient de ne pas l'employer, puis par l'usage, l'affreux usage qui rend un mot ordinaire à force de le dire.
 
@@ -127,7 +127,7 @@ Elle s'arrêta.
 
 Elle s'arrêta parce qu'elle avait enfin regardé le visage de sa sœur. Ísae écoutait. Ísae écoutait toujours ; c'était devenu sa manière d'aimer, écouter les autres vivre des choses qu'elle ne vivrait pas. Et sur ce visage qui était le sien, exactement le sien, Sera vit une chose qu'elle ne se pardonnerait jamais d'avoir provoquée : non pas de la jalousie — Ísae n'était pas jalouse, elle était trop généreuse pour ça — mais une solitude si profonde, si définitive, que le sol se déroba.
 
-« Continue, » dit Ísae. Doucement. Elle avait repris le linge. « Ne t'arrête pas pour moi. »
+« Continue », dit Ísae. Doucement. Elle avait repris le linge. « Ne t'arrête pas pour moi. »
 
 « Non. » Sera s'entendit dire non, et le mot lui parut le seul honnête qu'elle eût prononcé de la soirée. « Non. Je ne veux pas te raconter le pays d'où on t'a bannie et appeler ça partager. »
 
@@ -137,7 +137,7 @@ Elle s'arrêta parce qu'elle avait enfin regardé le visage de sa sœur. Ísae �
 
 Un long silence. Le feu, dans l'âtre, dit ce que le feu dit. Puis Ísae rit — de son vrai rire, celui d'avant, qui remontait parfois — et ce rire fit plus mal à Sera que des larmes.
 
-« Tu es bête, » dit-elle. Elle dégagea une main, la posa un instant sur la joue de sa sœur, du geste dont on console un enfant qui a peur d'un orage. « On ne choisit pas. »
+« Tu es bête », dit-elle. Elle dégagea une main, la posa un instant sur la joue de sa sœur, du geste dont on console un enfant qui a peur d'un orage. « On ne choisit pas. »
 
 « Je sais. »
 
@@ -197,7 +197,7 @@ Elle avait cru libérer sa sœur. Voici qu'elle allait peut-être la tuer. Non p
 
 Cette nuit-là, pour la première fois depuis des années, Sera avait pleuré comme elle avait pleuré à treize ans les mains sur le bois — mais à l'envers, cette fois, non pas de la joie d'être tenue mais de l'horreur de ce qu'elle tenait. Et la chose, elle ne l'avait dite à personne. Pas à Thessan, qui doutait déjà bien assez. Pas à l'Étudiant.
 
-L'Étudiant, elle l'imaginait pourtant. Ce qu'il répondrait, elle le savait, elle l'entendait presque, cette voix calme et rare qui faisait taire une pièce entière quand elle s'élevait. Il l'écouterait jusqu'au bout, sans l'interrompre. Puis il dirait — peu de mots, comme toujours, une phrase qu'il ne finirait peut-être pas — que oui, c'était le prix. Qu'il l'avait toujours su. Que *montrer que c'est possible* et *le faire* ne faisaient qu'un, et qu'on n'accouche pas d'un monde sans que quelqu'un— Et il laisserait la phrase ouverte, à sa manière, et le silence qui suivrait dirait le reste. Elle savait qu'il aurait, à sa façon glaçante, raison. C'était bien pour cela qu'elle ne le lui demanderait pas : parce qu'elle ne voulait pas être consolée de ce qui ne devait pas l'être.
+L'Étudiant, elle l'imaginait pourtant. Ce qu'il répondrait, elle le savait, elle l'entendait presque, cette voix calme et rare qui faisait taire une pièce entière quand elle s'élevait. Il l'écouterait jusqu'au bout, sans l'interrompre. Puis il dirait — peu de mots, comme toujours, une phrase qu'il ne finirait peut-être pas — que oui, c'était le prix. Qu'il l'avait toujours su. Que *montrer que c'est possible* et *le faire* ne faisaient qu'un, et qu'on n'accouche pas d'un monde sans que quelqu'un... Et il laisserait la phrase ouverte, à sa manière, et le silence qui suivrait dirait le reste. Elle savait qu'il aurait, à sa façon glaçante, raison. C'était bien pour cela qu'elle ne le lui demanderait pas : parce qu'elle ne voulait pas être consolée de ce qui ne devait pas l'être.
 
 Continuer à écrire le protocole, elle l'avait fait. C'était cela, le plus difficile à comprendre pour qui n'était pas elle, et qu'elle-même comprenait à peine : qu'on pût voir clairement la faille au cœur de sa propre justice, et continuer. Non par aveuglement — elle voyait tout, elle voyait mieux que personne — mais parce que reculer eût signifié laisser le monde tel qu'il était, avec ses Vides et ses pleins, avec le visage de sa sœur qui se contractait un peu plus chaque année sous la douceur en surplomb des autres, et cela, cette perpétuation de l'injustice, lui semblait à la fin plus intolérable encore que l'énormité du remède. Elle avait choisi. Elle avait choisi comme on choisit entre deux douleurs, sans qu'aucune ne soit un bien, en pesant seulement laquelle on pourrait porter. Elle croyait pouvoir porter d'avoir agi. Elle ne croyait pas pouvoir porter de n'avoir rien fait.
 

@@ -27,7 +27,7 @@ Une femme se leva. La quarantaine passée, le visage large et calme, les mains p
 
 « Thessan de Varandar », dit-elle. Ce n'était pas une question.
 
-Il tressaillit. On l'appelait Thessan tout court, à l'Académie. Personne n'accolait plus Varandar à son nom depuis des années — Varandar, cette petite ville universitaire d'Endora dont il était parti à dix-sept ans, et dont il ne parlait jamais, parce qu'en parler c'eût été dire aussi qu'il y était né là où, mille ans plus tôt, un autre homme sans Lien était né, un homme qu'il ne fallait nommer qu'à voix basse.
+Il tressaillit. On l'appelait Thessan tout court, à l'Académie. Personne n'accolait plus Varandar à son nom depuis des années — Varandar, cette petite ville universitaire d'Endora dont il était parti à dix-sept ans, et dont il ne parlait jamais, parce qu'en parler, c'eût été dire aussi qu'il était né dans la ville où, mille ans plus tôt, un autre homme sans Lien était né, un homme qu'il ne fallait nommer qu'à voix basse.
 
 « On ne me nomme plus ainsi, dit-il enfin. Depuis longtemps.
 
@@ -61,7 +61,7 @@ Ce fut sa première vraie phrase, et il l'entendit résonner sous la voûte de p
 
 Un silence. Puis, du fond de la salle, sans se retourner, l'homme sans nom parla — et Thessan remarqua que la table s'était tue avant même qu'il ouvrît la bouche, comme si chacun avait senti la voix venir.
 
-« Tu es ici parce que tu as lu le Traité en entier. » Voix calme, ni grave ni haute, une voix de professeur qui n'a plus besoin d'élever le ton depuis longtemps. « Et parce que tu ne l'as pas refermé en te disant que c'était une folie. Tu l'as refermé en te disant qu'il avait peut-être— »
+« Tu es ici parce que tu as lu le Traité en entier. » Voix calme, ni grave ni haute, une voix de professeur qui n'a plus besoin d'élever le ton depuis longtemps. « Et parce que tu ne l'as pas refermé en te disant que c'était une folie. Tu l'as refermé en te disant qu'il avait peut-être... »
 
 La phrase s'arrêta là. Elle ne fut pas finie. Elle n'en avait pas besoin.
 
@@ -71,7 +71,7 @@ Le cœur de Thessan cogna. C'était vrai. Exactement vrai, et il ne l'avait jama
 
 « Presque personne. » Sera avait repris la parole ; l'homme du fond s'était de nouveau penché sur sa table, la conversation lui revenait comme on repasse un fil à un autre tisseur. « On croit l'avoir lu parce qu'on en a lu la première thèse et la dernière. Ceux qui l'ont lu jusqu'au bout, jusqu'à la cinquième — nous ne sommes peut-être pas deux cents dans le monde. » Elle le regarda. « Et de ces deux cents, combien, crois-tu, ont continué à vivre exactement comme avant ? »
 
-Thessan ne répondit pas. Il pensait à Vael, tombé sur un grabat pour une chose qu'il aimait, qui ne l'avait pas aimé en retour, qui l'avait usé jusqu'à la corde comme le Lien usait tous ceux qui se donnaient à lui. *L'impôt du Lien*, disaient les décrets, avec la pudeur bureaucratique des grandes injustices. Vael n'avait jamais été payé pour les réquisitions. Vael n'avait jamais pu refuser. Vael était mort de n'avoir pas pu refuser. Et lui, Thessan, qui n'avait pas la puissance de son frère, qui n'était Lié que de théorie, sans une once du don qui guérit, avait toujours porté cette culpabilité inversée des cadets : d'être moins doué, et pour cela d'avoir survécu.
+Thessan ne répondit pas. Il pensait à Vael, tombé sur un grabat pour une chose qu'il aimait, qui ne l'avait pas aimé en retour, qui l'avait usé jusqu'à la corde comme le Lien usait tous ceux qui se donnaient à lui. *L'impôt du Lien*, disaient les décrets, avec la pudeur bureaucratique des grandes injustices. Vael n'avait jamais été payé pour les réquisitions. Vael n'avait jamais pu refuser. Vael était mort de n'avoir pas pu refuser. Et lui, Thessan, qui n'était Lié qu'en théorie, sans une once du don qui guérit, avait toujours porté cette culpabilité inversée des cadets : d'être moins doué, et pour cela d'avoir survécu.
 
 Sa main, sans qu'il l'eût décidé, écrivit : *le Lien tue aussi ceux qu'il choisit.* Puis il referma le cahier, parce qu'il sentit que s'il continuait à écrire il allait pleurer, et il ne connaissait aucun de ces gens.
 
@@ -115,7 +115,7 @@ Un silence. Sera reposa ses mains à plat sur la table — ce geste qui lui appa
 
 « Les mieux préparés survivront, dit-elle enfin. Certains vivent déjà sans rien de Lié. » Un regard vers la navigatrice, qui hocha la tête sans lever les yeux de sa carte. « Mais beaucoup de non-Liés ne vivent pas *sans* le Lien, Drakhan. Ils vivent *sous* lui. Ils mangent le pain que les Jardiniers font pousser, ils guérissent par les guérisseurs, ils passent les portails, ils habitent des villes que le Lien tient debout. Ceux-là aussi tomberont. »
 
-« Alors dis le chiffre, dit Drakhan. Tu l'as. Je le vois que tu l'as.
+« Alors dis le chiffre, dit Drakhan. Tu l'as. Je le vois que tu l'as. »
 
 — Un sur trois. » Elle n'avait pas cillé. « Un tiers du monde ne tire rien du Lien, et ce tiers-là tombera avec les autres. »
 
