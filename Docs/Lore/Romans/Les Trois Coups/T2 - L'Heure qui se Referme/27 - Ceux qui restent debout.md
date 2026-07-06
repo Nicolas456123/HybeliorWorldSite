@@ -9,13 +9,13 @@ status: draft
 
 # Ceux qui restent debout
 
-En Alkaran, la déchirure ne passe pas. Elle s’installe.
+En Alkaran, la déchirure ne passe pas. Chez nous, elle s’installe.
 
 Ailleurs — nous le savons, nous qui parlons de partout à la fois, nous les éparpillés — ailleurs la chose court. Elle traverse un village par la Plaine, elle le vide en un souffle et poursuit, et il ne reste qu’une soupe tiède et un métier qui bat le vide. Vite. C’est une mort de vitesse, celle-là. On n’a pas le temps d’avoir peur.
 
-En Alkaran, non. Dans les montagnes, la pierre est lente et la déchirure lui ressemble : elle prend son temps parce qu’elle a le temps, elle monte du fond des vallées comme une brume qui aurait décidé de rester. Elle ne vous jette pas ailleurs d’un coup. Elle vous emporte tout entiers, le hameau et ses toits et ses morts sous la neige, et elle vous *dépose* — deux cents ans en arrière, et elle vous y laisse. Trois mois. Trois mois pleins, à vivre, à traire, à saler le lard, dans un temps qui n’est pas le vôtre et qui pourtant vous accueille.
+En Alkaran, non. Dans les montagnes, la pierre est lente et la déchirure lui ressemble : elle prend son temps parce qu’elle a le temps, elle monte du fond des vallées comme une brume qui aurait décidé de rester. D’un coup, non, elle ne vous jette pas ailleurs. Elle vous emporte tout entiers, le hameau et ses toits et ses morts sous la neige, et elle vous *dépose* — deux cents ans en arrière, et elle vous y laisse. Trois mois. Trois mois pleins, à vivre, à traire, à saler le lard, dans un temps qui n’est pas le vôtre et qui pourtant vous accueille.
 
-Nous vous en donnons une, ce soir. Une de celles du Mont-Gris. Elle a vécu les trois mois. Elle en est revenue. Écoutez-la pendant qu’elle sait encore ce qu’elle a perdu — car elle ne le saura plus longtemps.
+Nous vous en donnons une, ce soir. Une de celles du Mont-Gris. Les trois mois, elle les a vécus. Puis elle en est revenue. Écoutez-la pendant qu’elle sait encore ce qu’elle a perdu — car elle ne le saura plus longtemps.
 
 ---
 
@@ -47,7 +47,7 @@ Je n’avais pas compris. Comment aurais-je pu ? On ne comprend pas le plein ta
 
 Le premier matin, dans le temps d’avant, une femme du hameau — leur hameau, le vieux — m’a donné du lait sans que je le demande.
 
-Ça a l’air de rien. Une femme donne du lait à une étrangère qui a l’air perdue, où est le prodige. Mais écoutez comment elle me l’a donné. Elle est sortie de chez elle avec le bol avant que j’aie levé les yeux vers sa porte. Elle savait que j’avais faim avant que je le montre. Pas parce qu’elle est fine, pas parce qu’elle a deviné à ma mine — parce qu’elle l’a *reçu*. Ma faim est passée d’elle-même par la main tiède et elle est arrivée chez la femme comme le rire arrive à l’oreille, et la femme s’est levée, et elle a versé le lait, sans un mot, sans se demander pourquoi, comme on se gratte là où ça démange.
+Ça a l’air de rien. Une femme donne du lait à une étrangère qui a l’air perdue, où est le prodige. Mais écoutez comment elle me l’a donné. Avant que j’aie levé les yeux vers sa porte, elle était déjà sortie de chez elle avec le bol. Elle savait que j’avais faim avant que je le montre. Pas parce qu’elle est fine, pas parce qu’elle a deviné à ma mine — parce qu’elle l’a *reçu*. Ma faim est passée d’elle-même par la main tiède et elle est arrivée chez la femme comme le rire arrive à l’oreille, et la femme s’est levée, et elle a versé le lait, sans un mot, sans se demander pourquoi, comme on se gratte là où ça démange.
 
 J’ai bu. Et en buvant j’ai senti — pour la première fois de ma vie, moi, née dans le froid, moi qui n’ai jamais rien connu que le silence derrière les bruits — j’ai senti la main tiède.
 
@@ -85,11 +85,11 @@ Je pleurais parce que je la tenais et que je savais que je la perdrais. Deux foi
 
 Le vieux Ombreth n’était pas tombé avec nous. Lui, il était resté dans notre temps à nous, en bas, à mourir. Mais je jure que pendant les trois mois du plein, une nuit, je l’ai entendu.
 
-Pas de mes oreilles. Par la main tiède. J’apprenais à m’en servir, mal, comme un enfant qui marche ; et une nuit, en tendant vers le grand cercle chaud, j’ai senti tout au bord, tout au loin, une voix qui n’était pas de ce temps-là. Une voix vide au milieu des pleins. Une voix comme la mienne. Elle chantait — très bas, très loin, deux cents ans devant, dans un hameau où elle agonisait —, elle chantait pour apaiser des morts, et sa chanson passait, je ne sais comment, à travers l’épaisseur des ans, jusqu’à moi qui étais tombée derrière.
+Pas de mes oreilles. Par la main tiède. J’apprenais à m’en servir, mal, comme un enfant qui marche ; et une nuit, en tendant vers le grand cercle chaud, j’ai senti tout au bord, tout au loin, une voix qui n’était pas de ce temps-là. Une voix vide au milieu des pleins. Une voix comme la mienne. Cette voix chantait — très bas, très loin, deux cents ans devant, dans un hameau où elle agonisait —, elle chantait pour apaiser des morts, et sa chanson passait, je ne sais comment, à travers l’épaisseur des ans, jusqu’à moi qui étais tombée derrière.
 
 Il ne savait pas qu’il m’atteignait. Je crois qu’il croyait chanter pour ses morts à lui. Mais moi je l’entendais, le vieux d’en bas, le mourant, comme s’il était debout à côté de moi dans le temps plein — et je comprenais, pour la première fois, ce qu’il avait voulu me dire contre le mur de l’étable. *Ne bois pas trop de leur plein.* Parce que j’en buvais. J’en buvais à m’en noyer. Et déjà, cette nuit-là, à sa chanson lointaine, je savais que je ne pourrais plus jamais m’en passer, et qu’il faudrait pourtant, et que le pourtant me tuerait un peu.
 
-Il chantait, l’homme d’en bas, dans son temps de sang et de silence. Et moi je pleurais dans mon temps de lait et de plein. Et entre nous il y avait deux cents ans, et pas un mur.
+Là-bas, l’homme d’en bas chantait, dans son temps de sang et de silence. Et moi je pleurais dans mon temps de lait et de plein. Et entre nous il y avait deux cents ans, et pas un mur.
 
 ---
 
@@ -99,11 +99,11 @@ Vous croyez peut-être que c’est une belle histoire. Une femme qui remonte le 
 
 Écoutez la suite avant de trouver ça doux.
 
-Trois mois. La déchirure d’Alkaran garde trois mois, puis elle rend. C’est sa loi, comme la Plaine a la sienne. Elle est lente à prendre et lente à rendre, mais elle rend — et en rendant, elle prend son péage, le même péage que partout, le péage de la seconde traversée. On peut aller. On ne revient pas entier.
+Trois mois. La déchirure d’Alkaran garde trois mois, puis elle rend. C’est sa loi, comme la Plaine a la sienne. Lente à prendre, lente à rendre, mais elle rend — et en rendant, elle prend son péage, le même péage que partout, le péage de la seconde traversée. On peut aller. On ne revient pas entier.
 
 Elle a bu le plein trois mois. Trois mois à vivre pleine dans le temps de sa grand-mère. Et puis la brume est remontée du Doigt-Cassé, un matin, et les vingt-deux du Mont-Gris se sont recouchés pleins et se sont réveillés vides, chez eux, dans leur temps à eux, sous leur neige à eux — et amputés. Rendez-vous compte de ce qui lui a été fait. Ce n’est pas qu’on lui a repris la main tiède : elle ne l’avait jamais eue, elle est née sans, elle aurait pu vivre et mourir sans jamais savoir qu’elle manquait. Non. On la lui a *donnée*, trois mois, pour la lui reprendre. On a montré le feu à quelqu’un qui avait toujours eu froid, et puis on a refermé la porte, et maintenant elle sait ce qu’est le chaud, et elle ne l’aura plus jamais, et elle n’a même plus le droit de se souvenir de sa forme.
 
-Voilà la déchirure lente. Elle ne tue pas d’un coup comme la Plaine. Elle vous apprend le paradis et vous en chasse, et elle vous efface le chemin du retour pour que vous ne puissiez même pas y rêver juste.
+Voilà la déchirure lente. D’un coup, comme la Plaine, elle ne tue pas. Elle vous apprend le paradis et vous en chasse, et elle vous efface le chemin du retour pour que vous ne puissiez même pas y rêver juste.
 
 Rendons-la-lui. Elle veut vous dire le retour elle-même. Nous n’en avons pas le droit ; c’est le sien.
 
@@ -159,7 +159,7 @@ Elle a raison de se hâter. Ça glisse déjà. Demain — ce demain qui n’exis
 
 C’est notre chagrin à nous, les entiers du malheur. Nous qui n’avons franchi qu’une fois, nous gardons tout — mais nous n’avons pas de margelle. Elle, qui a franchi deux fois, elle a la margelle et le lit et le nom, mais on lui a bu le milieu. Aucun n’est entier. L’un garde et n’a pas de place ; l’autre a la place et ne garde rien. Voilà ce que fait le temps quand il se replie sur lui-même : il ne laisse à personne le tout.
 
-Et pourtant regardez-les — les vingt-deux du Mont-Gris. Revenus vides, amputés, spoliés de trois mois de plein. Le lendemain, ils ont ressorti les bêtes. Ils ont salé le lard. Ils ont refait le hameau debout, dans leur temps à eux, avec leur silence à eux derrière les bruits. Ils n’ont pas su dire ce qu’ils avaient perdu ; ils ont vécu quand même. C’est peut-être ça que nous vous donnons ce soir, sous celle qui parle : non pas ceux que la déchirure a pris, mais ceux qui restent debout après qu’elle a rendu — vides, trompés, et debout.
+Et pourtant regardez-les — les vingt-deux du Mont-Gris. Revenus vides, amputés, spoliés de trois mois de plein. Le lendemain, ils ont ressorti les bêtes. Le lard, ils l’ont salé. Ils ont refait le hameau debout, dans leur temps à eux, avec leur silence à eux derrière les bruits. Dire ce qu’ils avaient perdu, ils n’ont pas su ; ils ont vécu quand même. C’est peut-être ça que nous vous donnons ce soir, sous celle qui parle : non pas ceux que la déchirure a pris, mais ceux qui restent debout après qu’elle a rendu — vides, trompés, et debout.
 
 Elle chante en bas, le vieux, encore, pour quelques nuits. Il chante pour ses morts et il ne sait pas qu’il chante aussi pour une femme tombée deux cents ans derrière, ni pour vous, ni pour l’heure qui vient. Bientôt il ne chantera plus. Et quand il ne chantera plus, il n’y aura plus personne, en Alkaran, pour entendre passer les vides à travers l’épaisseur des ans. Ils passeront quand même. Ils passent toujours. Simplement, plus personne ne les recevra.
 

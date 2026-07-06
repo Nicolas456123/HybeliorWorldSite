@@ -11,7 +11,7 @@ status: draft
 
 Le foyer suspect avait une porte peinte en bleu, et c’était la première chose que Vaenor Sorne remarqua, parce qu’un homme qui peint sa porte en bleu est un homme qui croit à un demain.
 
-Le bourg s’appelait Mireuil. Elle avait descendu, depuis Tavelpast, deux jours de route grise, l’Édit d’un côté du cœur, la fiole de l’autre — et Mireuil s’était trouvé sur la route du sud, avant les marges d’Onara, avant la forge, comme une chose qu’on rencontre en allant en rencontrer une autre. Un signalement y dormait depuis six semaines : un garçon de sept ans qui, disait le feuillet, *parlait à personne dans le coin de la grange, et sa mère l’en tirait par le bras.* Phase 1 franche. Le nom du garçon — Petit-Vel, un diminutif — et rien d’autre, parce que six semaines plus tôt l’ancien protocole ne demandait rien d’autre.
+Le bourg s’appelait Mireuil. Depuis Tavelpast, elle avait descendu deux jours de route grise, l’Édit d’un côté du cœur, la fiole de l’autre — et Mireuil s’était trouvé sur la route du sud, avant les marges d’Onara, avant la forge, comme une chose qu’on rencontre en allant en rencontrer une autre. Un signalement y dormait depuis six semaines : un garçon de sept ans qui, disait le feuillet, *parlait à personne dans le coin de la grange, et sa mère l’en tirait par le bras.* Phase 1 franche. Le nom du garçon — Petit-Vel, un diminutif — et rien d’autre, parce que six semaines plus tôt l’ancien protocole ne demandait rien d’autre.
 
 Six semaines plus tôt, elle serait montée, aurait apaisé l’enfant, serait redescendue. Une fiole, une ligne au registre. Le foyer autour n’était pas de son ressort. Ce matin, elle tenait dans sa poche un feuillet scellé qui faisait du foyer entier son ressort.
 
@@ -23,11 +23,11 @@ Vaenor mit pied à terre devant la porte bleue. Une femme balayait le seuil — 
 
 *
 
-La femme s’appelait Sarve. Elle avait un mari, Onnec, qui rentra du fond de la cour en s’essuyant les paumes à son tablier de cuir — il travaillait le cuir, sellier de village, l’odeur en tenait toute la maison — et une fille aînée, douze ans, qu’on appelait Nisse, qui parut sur le seuil derrière sa mère et qu’on renvoya d’un mot à l’intérieur, où elle resta, Vaenor la devinait, l’oreille contre le bois de la porte bleue.
+La femme s’appelait Sarve. À son foyer tenaient un mari, Onnec, qui rentra du fond de la cour en s’essuyant les paumes à son tablier de cuir — il travaillait le cuir, sellier de village, l’odeur en tenait toute la maison — et une fille aînée, douze ans, qu’on appelait Nisse, qui parut sur le seuil derrière sa mère et qu’on renvoya d’un mot à l’intérieur, où elle resta, Vaenor la devinait, l’oreille contre le bois de la porte bleue.
 
-Et il y avait Petit-Vel. Sept ans. On l’avait, celui-là, sorti de la grange et posé sur un tabouret dans la salle, parce qu’on avait compris, à la veste grise, qu’il valait mieux l’avoir sous les yeux que caché ; cacher, devant un Inspecteur, c’était le premier aveu. Il était assis très droit, les mains sur les genoux, et il regardait un coin de la pièce où il n’y avait rien — le coin de l’âtre, à gauche, où l’ombre montait — avec l’attention grave d’un enfant qui écoute une histoire que lui seul entend.
+Et il y avait Petit-Vel. Sept ans. On l’avait, celui-là, sorti de la grange et posé sur un tabouret dans la salle, parce qu’on avait compris, à la veste grise, qu’il valait mieux l’avoir sous les yeux que caché ; cacher, devant un Inspecteur, c’était le premier aveu. Assis très droit, les mains sur les genoux, il regardait un coin de la pièce où il n’y avait rien — le coin de l’âtre, à gauche, où l’ombre montait — avec l’attention grave d’un enfant qui écoute une histoire que lui seul entend.
 
-Vaenor connaissait ce regard. Elle l’avait vu quatre cent onze fois. Un enfant qui *parle à personne* ne parle pas à personne : il parle à quelqu’un que la mort a laissé sans porte, un Errant que seul un Lien neuf, encore intact, peut entendre. C’était Phase 1 — le premier signe, celui qui ne trompait pas : avant les yeux qui saignent, avant les mains qui pendent, il y avait cet enfant assis droit qui écoutait le coin de l’âtre.
+Vaenor connaissait ce regard. Quatre cent onze fois, elle l’avait vu. Un enfant qui *parle à personne* ne parle pas à personne : il parle à quelqu’un que la mort a laissé sans porte, un Errant que seul un Lien neuf, encore intact, peut entendre. C’était Phase 1 — le premier signe, celui qui ne trompait pas : avant les yeux qui saignent, avant les mains qui pendent, il y avait cet enfant assis droit qui écoutait le coin de l’âtre.
 
 Six semaines plus tôt, elle aurait sorti la fiole.
 
@@ -45,13 +45,13 @@ Ce fut Onnec qui répondit, le sellier, parce que les hommes tiennent moins bien
 
 Elle aurait dû sortir la fiole.
 
-Elle le sentit, ce matin-là, avec une netteté nouvelle : le geste était là, dans sa main, complet, appris — vingt ans de main qui savait déboucher la fiole d’un pouce, tenir la nuque d’un enfant sans qu’il eût peur, le faire boire en parlant d’autre chose, d’une voix calme qui expliquait que c’était une bonne gnôle contre les mauvais rêves. Le garçon aurait bu. Ils buvaient toujours. L’apaisement d’un enfant était la chose la mieux réglée du protocole : un enfant qui se débat, un bourg l’entend, et un bourg qui entend murmure.
+Ce matin-là, elle le sentit avec une netteté nouvelle : le geste était là, dans sa main, complet, appris — vingt ans de main qui savait déboucher la fiole d’un pouce, tenir la nuque d’un enfant sans qu’il eût peur, le faire boire en parlant d’autre chose, d’une voix calme qui expliquait que c’était une bonne gnôle contre les mauvais rêves. Le garçon aurait bu. Ils buvaient toujours. L’apaisement d’un enfant était la chose la mieux réglée du protocole : un enfant qui se débat, un bourg l’entend, et un bourg qui entend murmure.
 
 Elle ne sortit pas la fiole.
 
 Elle sortit l’Édit.
 
-Elle le déplia sur la table de la salle, à côté d’une écuelle où trempait du cuir, et elle le lut à voix haute, à plat, dans la langue plate des Préfectures — non pour eux, qui n’y comprendraient goutte, mais pour elle, parce qu’elle avait besoin de l’entendre dans sa propre bouche avant de savoir ce qu’elle en ferait. Article premier. Le foyer suspect en entier. Article deux. Recensés, marqués, suivis : les parents, la fratrie. Article trois. L’apaisement préventif — le mourant, et ceux qui ne mouraient pas encore, et ceux qui peut-être ne mourraient jamais.
+Sur la table de la salle, à côté d’une écuelle où trempait du cuir, elle le déplia, et elle le lut à voix haute, à plat, dans la langue plate des Préfectures — non pour eux, qui n’y comprendraient goutte, mais pour elle, parce qu’elle avait besoin de l’entendre dans sa propre bouche avant de savoir ce qu’elle en ferait. Article premier. Le foyer suspect en entier. Article deux. Recensés, marqués, suivis : les parents, la fratrie. Article trois. L’apaisement préventif — le mourant, et ceux qui ne mouraient pas encore, et ceux qui peut-être ne mourraient jamais.
 
 Quand elle releva les yeux, Sarve avait porté ses deux mains à sa bouche. Onnec ne comprenait pas encore ; il cherchait sur le visage de sa femme ce qu’il fallait comprendre, et il le trouva, et il devint gris.
 
@@ -69,11 +69,11 @@ Le *non* les surprit — les surprit tous, la mère, le père, et Vaenor elle-m�
 
 « Alors pourquoi. » Onnec s’était avancé d’un pas, et il tenait ses mains loin de son corps, paumes ouvertes, la posture d’un homme qui montre qu’il ne va rien faire pour se retenir de faire quelque chose. « Pourquoi elle. Si elle n’est pas malade. Pourquoi. »
 
-Vaenor aurait pu lire l’article deux. Le sang est le canal. Le Lien saute des générations, dort dans un sang, reparaît. Elle aurait pu lui donner la glose qu’elle avait relue deux fois dans le bureau gris de Drahvel — *le sang étant le canal établi de la résurgence* — et c’eût été vrai, et cela n’aurait rien expliqué, et elle savait, ce matin, faire la différence entre ce qui est vrai et ce qui explique, parce qu’un champ la lui avait apprise.
+Vaenor aurait pu lire l’article deux. Le sang est le canal. Le Lien saute des générations, dort dans un sang, reparaît. À lui, elle aurait pu donner la glose qu’elle avait relue deux fois dans le bureau gris de Drahvel — *le sang étant le canal établi de la résurgence* — et c’eût été vrai, et cela n’aurait rien expliqué, et elle savait, ce matin, faire la différence entre ce qui est vrai et ce qui explique, parce qu’un champ la lui avait apprise.
 
 « Parce que votre fils est ce qu’il est, dit-elle, et que vous l’avez fait. »
 
-Le mot tomba dans la salle et n’y trouva aucun endroit où se poser. *Vous l’avez fait.* Elle s’entendit et elle eut, pour la première fois depuis longtemps, honte de sa propre concordance — parce que c’était exactement le raisonnement de Drahvel, exactement, aligné juste, et qu’aligné juste il donnait ceci : une mère coupable d’avoir mis au monde un enfant qui écoutait un coin d’ombre, un père coupable d’avoir aimé cette femme, une sœur de douze ans coupable d’être née du même ventre.
+Le mot tomba dans la salle et n’y trouva aucun endroit où se poser. *Vous l’avez fait.* Pour la première fois depuis longtemps, elle s’entendit et elle eut honte de sa propre concordance — parce que c’était exactement le raisonnement de Drahvel, exactement, aligné juste, et qu’aligné juste il donnait ceci : une mère coupable d’avoir mis au monde un enfant qui écoutait un coin d’ombre, un père coupable d’avoir aimé cette femme, une sœur de douze ans coupable d’être née du même ventre.
 
 « On ne l’a pas fait, dit Sarve, et elle avait cessé de crier, elle parlait bas maintenant, plus bas que Vaenor, ce qui était pire. « On ne fait pas ça. On n’a pas voulu ça. On voulait des enfants. On voulait ces deux enfants. On les a faits comme tout le monde fait ses enfants, dans le noir, sans savoir, en espérant qu’ils vivent. » Elle regarda son fils sur le tabouret, qui écoutait toujours son coin, indifférent à tout ce qui n’était pas le coin. « Si le canal, comme vous dites, si le canal était en nous, on ne le savait pas. On ne peut pas être coupable d’un sang qu’on ne connaît pas. »
 
@@ -81,13 +81,13 @@ Le mot tomba dans la salle et n’y trouva aucun endroit où se poser. *Vous l�
 
 C’était Ferrec, encore. C’était la voix de Ferrec, dans une autre bouche, dans un autre bourg. *Vous me demandez d’être coupable d’un sang que je n’ai pas choisi.* Ferrec ne l’avait pas dit ainsi, Ferrec bêchait un champ et ne disait presque rien ; mais la chose qu’il portait, l’homme au champ, était celle-là, et elle la retrouvait ici, intacte, dans la salle d’un sellier, entre une écuelle de cuir qui trempait et un enfant qui écoutait un coin.
 
-Vaenor s’assit. Elle ne s’asseyait jamais dans un foyer suspect — s’asseoir, c’est descendre à leur table, c’est devenir quelqu’un. Elle s’assit quand même, en face de Sarve, les mains à plat de part et d’autre de l’Édit, comme Drahvel posait sa plume, parallèle au bord.
+Vaenor s’assit. Jamais elle ne s’asseyait dans un foyer suspect — s’asseoir, c’est descendre à leur table, c’est devenir quelqu’un. Elle s’assit quand même, en face de Sarve, les mains à plat de part et d’autre de l’Édit, comme Drahvel posait sa plume, parallèle au bord.
 
 « Écoutez-moi, dit-elle. Je vais vous dire ce que je sais, et je vais vous dire ce que je ne sais pas, et vous ferez la différence, parce que c’est la seule chose que je puisse vous donner ce matin. »
 
 Sarve la regarda. Onnec restait debout, tendu, mais il écoutait.
 
-« Ce que je sais. Votre fils est en Phase 1. » Elle vit la mère tressaillir au mot, et elle ne l’adoucit pas, parce qu’adoucir eût été mentir, et qu’elle ne mentait pas. « Il entend les morts. C’est le premier signe. Après, il y a le sang aux yeux, les mains qui pendent, la paralysie qui monte comme l’eau dans une cave, et au bout, dans un an, dans dix-huit mois, il crie sans savoir qu’il crie, et il meurt. Je l’ai vu quatre cents fois. Ce n’est pas une menace ; c’est un fait que je vous dois. »
+« Ce que je sais. Votre fils est en Phase 1. » Au mot, elle vit la mère tressaillir, et elle ne l’adoucit pas, parce qu’adoucir eût été mentir, et qu’elle ne mentait pas. « Il entend les morts. C’est le premier signe. Après, il y a le sang aux yeux, les mains qui pendent, la paralysie qui monte comme l’eau dans une cave, et au bout, dans un an, dans dix-huit mois, il crie sans savoir qu’il crie, et il meurt. Je l’ai vu quatre cents fois. Ce n’est pas une menace ; c’est un fait que je vous dois. »
 
 « Non », dit Sarve, mais faible, parce qu’au fond elle savait, les mères savent avant qu’on leur dise.
 
@@ -99,23 +99,23 @@ Onnec fit un pas. « Alors dites-nous où. Dites-nous son nom. On y court ce ma
 
 *
 
-Elle se releva. Elle reprit l’Édit, le plia, le rangea — dans la poche du cœur, non celle de la fiole ; elle remarqua le geste, comme elle l’avait remarqué à Tavelpast, cette séparation que sa main faisait toute seule.
+Elle se releva. Reprenant l’Édit, elle le plia, le rangea — dans la poche du cœur, non celle de la fiole ; elle remarqua le geste, comme elle l’avait remarqué à Tavelpast, cette séparation que sa main faisait toute seule.
 
 « Voici ce que je vais faire, dit-elle, et ce que je ne vais pas faire. Écoutez bien, parce que je ne le redirai pas, et parce que si un autre passe après moi, ce ne sera pas dit. »
 
 Ils écoutèrent. Le garçon écoutait son coin.
 
-« L’Édit me commande de prendre le foyer entier. L’apaisement préventif. Le mourant et ceux qui ne meurent pas. » Elle regarda Nisse, qu’on devinait derrière la porte, l’oreille au bois. « Votre fille. Vous. » Un temps. « Je ne le ferai pas. »
+« L’Édit me commande de prendre le foyer entier. L’apaisement préventif. Le mourant et ceux qui ne meurent pas. » Vers la porte où on la devinait, l’oreille au bois, elle regarda Nisse. « Votre fille. Vous. » Un temps. « Je ne le ferai pas. »
 
 Sarve laissa échapper un son qui n’était pas un mot.
 
-« Je vous le dis clairement, pour que vous ne viviez pas dans la peur du prochain matin en croyant que je vais revenir la nuit. Je ne prendrai pas Nisse. Je ne prendrai pas vos vies. Sur ce point-là, l’Édit, je ne l’applique pas. » Elle chercha ses mots avec le soin d’un paysan qui pose chaque chose. « Parce qu’un enfant qui ne montre aucun signe n’est pas un mort en sursis. Il est un enfant. Et le prendre, ce n’est pas l’épargner d’une agonie ; il n’a pas d’agonie ; c’est— » Elle s’arrêta sur le mot, celui qu’elle avait posé sur la table de Drahvel et qu’elle reposait ici, dans une salle qui sentait le cuir. « C’est un meurtre. Et je ne suis pas montée quatre cents fois dans les champs pour finir par tuer des enfants qui n’ont rien. »
+« Je vous le dis clairement, pour que vous ne viviez pas dans la peur du prochain matin en croyant que je vais revenir la nuit. Je ne prendrai pas Nisse. Je ne prendrai pas vos vies. Sur ce point-là, l’Édit, je ne l’applique pas. » Avec le soin d’un paysan qui pose chaque chose, elle chercha ses mots. « Parce qu’un enfant qui ne montre aucun signe n’est pas un mort en sursis. Il est un enfant. Et le prendre, ce n’est pas l’épargner d’une agonie ; il n’a pas d’agonie ; c’est— » Sur le mot, elle s’arrêta — celui qu’elle avait posé sur la table de Drahvel et qu’elle reposait ici, dans une salle qui sentait le cuir. « C’est un meurtre. Et je ne suis pas montée quatre cents fois dans les champs pour finir par tuer des enfants qui n’ont rien. »
 
 *
 
 Puis elle sortit la fiole.
 
-Elle la posa sur la table, à côté de l’écuelle de cuir, sans l’ouvrir. Sarve la regarda, et comprit que le refus n’était pas entier, que le *je ne le ferai pas* avait un bord, et qu’elle était au bord.
+Sur la table, à côté de l’écuelle de cuir, elle la posa sans l’ouvrir. Sarve la regarda, et comprit que le refus n’était pas entier, que le *je ne le ferai pas* avait un bord, et qu’elle était au bord.
 
 « Votre fils, dit Vaenor. »
 
@@ -133,7 +133,7 @@ Sarve pleurait sans bruit, la façon dont pleurent les mères qui ont encore que
 
 « Père », dit Petit-Vel. « La dame dans le coin, elle dit qu’elle a froid. »
 
-Personne ne répondit à l’enfant. Il n’y avait rien à répondre. La dame dans le coin avait froid ; c’était un Errant, une morte sans porte, qui poussait contre le monde par la seule oreille encore neuve qui l’entendait, et cette oreille, dans un an, saignerait, et dans dix-huit mois se tairait pour toujours, avec le reste de l’enfant.
+Personne ne répondit à l’enfant. Rien, là, ne pouvait se répondre. La dame dans le coin avait froid ; c’était un Errant, une morte sans porte, qui poussait contre le monde par la seule oreille encore neuve qui l’entendait, et cette oreille, dans un an, saignerait, et dans dix-huit mois se tairait pour toujours, avec le reste de l’enfant.
 
 Vaenor regarda le garçon lever les yeux vers son père, et elle vit — elle ne put pas ne pas voir — un autre visage se lever, très loin : un garçon de dix-neuf ans qui avait levé les yeux vers elle en buvant, en la croyant, parce qu’elle avait cette voix calme qu’on croit ; dont elle avait tenu la nuque pendant qu’il buvait la bonne gnôle contre les mauvais rêves ; et dont elle n’avait jamais su, ne saurait jamais, s’il eût été de ceux qui vivent.
 
@@ -145,9 +145,9 @@ Et elle ne l’ouvrit pas.
 
 « Je reviendrai, dit-elle. Dans quatre jours. Pas avant. »
 
-Elle vit l’espoir monter dans les yeux de la mère et elle le tua tout de suite, parce que laisser un faux espoir était une cruauté plus lente que la fiole.
+Dans les yeux de la mère, elle vit l’espoir monter, et elle le tua tout de suite, parce que laisser un faux espoir était une cruauté plus lente que la fiole.
 
-« N’espérez pas ce que je ne vous donne pas. Quatre jours. Dans quatre jours, votre fils sera toujours en Phase 1 — on n’en sort pas en quatre jours. Et dans quatre jours, moi, j’aurai fait ma route au delta, et vu la femme au cahier, pour ma raison à moi. » Elle rangea la fiole, poche de la fiole, côté droit du cœur ; l’Édit, côté gauche ; sa main faisait le tri toute seule. « Je ne peux pas vous mener à elle. Je vous l’ai dit. Mais un bourg parle. Un bourg parle toujours, c’est mon métier de le savoir. La femme au cahier, aux marges d’Onara, vers le delta, dans une forge basse — je ne vous donne pas son nom, mais je viens de vous donner un delta, une forge, et le mot *cahier*. C’est plus que je ne devrais. C’est peut-être assez pour un père qui court vite et qui ne dort pas. »
+« N’espérez pas ce que je ne vous donne pas. Quatre jours. Dans quatre jours, votre fils sera toujours en Phase 1 — on n’en sort pas en quatre jours. Et dans quatre jours, moi, j’aurai fait ma route au delta, et vu la femme au cahier, pour ma raison à moi. » La fiole, elle la rangea, poche de la fiole, côté droit du cœur ; l’Édit, côté gauche ; sa main faisait le tri toute seule. « Je ne peux pas vous mener à elle. Je vous l’ai dit. Mais un bourg parle. Un bourg parle toujours, c’est mon métier de le savoir. La femme au cahier, aux marges d’Onara, vers le delta, dans une forge basse — je ne vous donne pas son nom, mais je viens de vous donner un delta, une forge, et le mot *cahier*. C’est plus que je ne devrais. C’est peut-être assez pour un père qui court vite et qui ne dort pas. »
 
 Onnec la regarda, et dans son regard la haine avait cédé la place à autre chose, à cette chose stupéfaite qu’ont les gens quand la veste grise, une fois dans leur vie, laisse tomber par la manche quelque chose qui ressemble à une clef.
 
@@ -157,15 +157,15 @@ Onnec la regarda, et dans son regard la haine avait cédé la place à autre cho
 
 *
 
-Elle sortit dans la cour. L’air du dehors lui fit du bien, l’air qui ne sentait pas le cuir ni les larmes. Elle remonta vers la porte bleue, vers son cheval attaché à l’anneau près du seuil, et elle s’arrêta devant la porte.
+Elle sortit dans la cour. L’air du dehors lui fit du bien, l’air qui ne sentait pas le cuir ni les larmes. Vers la porte bleue, vers son cheval attaché à l’anneau près du seuil, elle remonta, et elle s’arrêta devant la porte.
 
 Article deux. Recensés, marqués, suivis. Un signe à la porte des foyers, pour que le prochain Inspecteur, un plus jeune, un plus sûr, sût d’un coup d’œil quelle maison portait le sang, sans monter, sans voir, sans champ sous les bottes.
 
 La circulaire n’avait pas encore nommé le signe. C’était à l’Inspectrice de terrain, en attendant, d’improviser — une croix à la craie, une entaille au couteau dans le montant, ce qu’elle voulait, pourvu que le suivant le lût.
 
-Vaenor tira son couteau. Elle le tenait bien, la lame courte des Inspecteurs, celle qui servait à mille petites choses et à aucune belle. Elle l’approcha du montant de la porte bleue, à hauteur d’œil, à l’endroit où un homme pressé passerait sa main pour vérifier sans même regarder.
+Vaenor tira son couteau. Bien en main, la lame courte des Inspecteurs, celle qui servait à mille petites choses et à aucune belle, elle la tenait. Du montant de la porte bleue elle l’approcha, à hauteur d’œil, à l’endroit où un homme pressé passerait sa main pour vérifier sans même regarder.
 
-Et elle regarda le bleu. Un homme avait peint sa porte en bleu. Un sellier, un matin, avait mélangé son bleu et l’avait passé sur le bois de sa porte, pour rien, pour la beauté, parce qu’un homme qui peint sa porte croit à un demain. Vaenor pensa au signe qu’elle allait tailler dans ce bleu, à l’entaille qui dirait au prochain : *ici, le sang ; ici, le foyer ; monte pas, vois pas, prends.* Elle pensa au jeune Inspecteur qu’elle avait croisé dans l’escalier de la Préfecture, la veste raide de neuf, l’œil sûr, qui lirait l’entaille et ne verrait ni le bleu, ni le cuir qui trempe, ni l’enfant qui écoute son coin, ni la fille de douze ans qui coud — qui lirait *sang* et sortirait sa fiole, quatre fois, proprement, sans un champ sur le visage.
+Et elle regarda le bleu. Un homme avait peint sa porte en bleu. Un sellier, un matin, avait mélangé son bleu et l’avait passé sur le bois de sa porte, pour rien, pour la beauté, parce qu’un homme qui peint sa porte croit à un demain. Vaenor pensa au signe qu’elle allait tailler dans ce bleu, à l’entaille qui dirait au prochain : *ici, le sang ; ici, le foyer ; monte pas, vois pas, prends.* Puis vint à sa pensée le jeune Inspecteur qu’elle avait croisé dans l’escalier de la Préfecture, la veste raide de neuf, l’œil sûr, qui lirait l’entaille et ne verrait ni le bleu, ni le cuir qui trempe, ni l’enfant qui écoute son coin, ni la fille de douze ans qui coud — qui lirait *sang* et sortirait sa fiole, quatre fois, proprement, sans un champ sur le visage.
 
 Elle abaissa le couteau.
 
@@ -175,19 +175,19 @@ Elle ne marqua pas la porte.
 
 Un moment, elle resta devant le montant intact, le couteau à la main, et elle sut, avec la même clarté qui ne l’avait pas quittée dans le bureau de Drahvel, ce que cela voulait dire. Objecter dans un carnet, c’était le soir ; c’était pleurer dans un cahier que personne ne lirait ; c’était ce que Drahvel lui accordait, tolérait, savait sans effet — *objectez-y tant que vous voudrez.* Ne pas marquer la porte, c’était le matin. C’était l’acte : pour la première fois de vingt ans de service, un ordre reçu, compris, applicable, et non appliqué — non par oubli, non par empêchement, mais par refus. Un refus qu’elle tenait dans la main et regardait, le couteau replié, comme une chose qu’on ne défait pas.
 
-Le préfet l’avait prévue. *Vous marquerez les portes, et vous les marquerez mieux qu’un autre.* Il l’avait lue si exactement qu’elle en avait reçu un coup. Il s’était trompé — sur une porte, un matin, dans un bourg qui s’appelait Mireuil. Et Vaenor sut que ce n’était rien : une porte, une seule, dans un district de trois cent mille âmes ; le prochain la marquerait ; l’Édit tiendrait. Mais elle sut aussi que quelque chose, en elle, venait de passer d’un côté à l’autre, comme un homme franchit un seuil sans savoir qu’il ne reviendra pas.
+Le préfet l’avait prévue. *Vous marquerez les portes, et vous les marquerez mieux qu’un autre.* Si exactement l’avait-il lue qu’elle en avait reçu un coup. Et pourtant, il s’était trompé — sur une porte, un matin, dans un bourg qui s’appelait Mireuil. Et Vaenor sut que ce n’était rien : une porte, une seule, dans un district de trois cent mille âmes ; le prochain la marquerait ; l’Édit tiendrait. Mais elle sut aussi que quelque chose, en elle, venait de passer d’un côté à l’autre, comme un homme franchit un seuil sans savoir qu’il ne reviendra pas.
 
 Elle remonta en selle. Le montant de la porte bleue était intact derrière elle, et le resterait jusqu’à ce qu’un autre vînt.
 
 *
 
-Le prévôt du bourg l’attendait à la sortie de Mireuil, sur la borne rongée, le chapeau à deux mains contre le ventre. Un homme de cinquante ans, la sueur de celui qu’on a tiré de chez lui. Il avait signalé le garçon six semaines plus tôt — c’était son droit, c’était son devoir, un prévôt qui ne signale pas un Tisse répond de tout le bourg —, et il attendait, la peur au ventre, ce que la veste grise avait fait de son signalement.
+Le prévôt du bourg l’attendait à la sortie de Mireuil, sur la borne rongée, le chapeau à deux mains contre le ventre. Un homme de cinquante ans, la sueur de celui qu’on a tiré de chez lui. Six semaines plus tôt, il avait signalé le garçon — c’était son droit, c’était son devoir, un prévôt qui ne signale pas un Tisse répond de tout le bourg —, et il attendait, la peur au ventre, ce que la veste grise avait fait de son signalement.
 
 « C’est réglé, Inspectrice ? »
 
 « C’est réglé. »
 
-Il n’osa pas demander ce que réglé voulait dire ; on prend le mot d’une veste grise, on le range, on remercie le ciel que ce ne soit pas sa propre porte. Mais Vaenor, en selle, s’arrêta au-dessus de lui, et fit une chose qu’elle ne faisait jamais : elle lui donna une consigne qui n’était pas dans le protocole.
+Ce que réglé voulait dire, il n’osa pas le demander ; on prend le mot d’une veste grise, on le range, on remercie le ciel que ce ne soit pas sa propre porte. Mais Vaenor, en selle, s’arrêta au-dessus de lui, et fit une chose qu’elle ne faisait jamais : elle lui donna une consigne qui n’était pas dans le protocole.
 
 « Le foyer à la porte bleue. Il n’est pas marqué. » Elle tint son regard. « Si un autre passe après moi — un plus jeune, la veste neuve — et vous demande les foyers suspects du bourg, vous lui montrerez les portes marquées. Pas celle-là. Vous ne vous rappellerez pas de celle-là. Un bon prévôt oublie ce qu’il faut. »
 
@@ -199,12 +199,12 @@ Il n’osa pas demander ce que réglé voulait dire ; on prend le mot d’une v
 
 Elle piqua des deux et reprit la route du sud, vers le delta, vers les marges d’Onara, vers une forge basse où une femme cachait une enfant et savait couper le Lien avec un cahier — et où elle allait, elle, Vaenor, pour marquer une autre porte, pour prendre un autre foyer, pour appliquer le même Édit qu’elle venait de ne pas appliquer à Mireuil.
 
-Elle ne se cachait pas la contradiction. Un carnet lui avait appris, depuis un champ, à ne se rien cacher. Elle avait refusé Nisse le matin ; elle voulait Kessane le surlendemain. Elle avait laissé une porte bleue intacte ; elle se promettait de marquer une porte de forge. La femme au cahier coupait le Lien de sa fille pour la sauver ; Vaenor coupait la vie des Tisses pour épargner leurs cris ; et voilà qu’elle-même, ce matin, s’était mise à couper l’Édit, article par article — gardant l’un, refusant l’autre, comme Drahvel s’était coupé la faculté de voir un visage. Chacun coupant quelque chose pour sauver quelque chose. Chacun ayant raison. Chacun ayant tort. Sauf qu’elle ne savait plus, désormais, quel article était le soin, ni lequel le meurtre.
+La contradiction, elle ne se la cachait pas. Un carnet lui avait appris, depuis un champ, à ne se rien cacher. Refusée le matin, Nisse ; voulue le surlendemain, Kessane. Elle avait laissé une porte bleue intacte ; elle se promettait de marquer une porte de forge. La femme au cahier coupait le Lien de sa fille pour la sauver ; Vaenor coupait la vie des Tisses pour épargner leurs cris ; et voilà qu’elle-même, ce matin, s’était mise à couper l’Édit, article par article — gardant l’un, refusant l’autre, comme Drahvel s’était coupé la faculté de voir un visage. Chacun coupant quelque chose pour sauver quelque chose. Chacun ayant raison. Chacun ayant tort. Sauf qu’elle ne savait plus, désormais, quel article était le soin, ni lequel le meurtre.
 
-Elle avait objecté à Tavelpast, et son objection n’avait pas arrêté l’Édit d’une ligne. Ce matin, à Mireuil, elle n’avait pas objecté : elle avait fait. Une porte non marquée. Un prévôt complice. Un enfant qu’elle laissait vivant quatre jours de plus, pour qu’un père courût vers un mot — *cahier* — qu’elle n’aurait pas dû lâcher. Ce n’était pas un carnet ; c’était un acte. Et un acte, contrairement à une objection, on ne le range pas dans la colonne des choses corrigées : il reste, dans le monde, ouvert, comme une porte qu’on a peinte en bleu et qu’on n’a pas eu le cœur d’entailler.
+À Tavelpast, elle avait objecté, et son objection n’avait pas arrêté l’Édit d’une ligne. Ce matin, à Mireuil, elle n’avait pas objecté : elle avait fait. Une porte non marquée. Un prévôt complice. Un enfant qu’elle laissait vivant quatre jours de plus, pour qu’un père courût vers un mot — *cahier* — qu’elle n’aurait pas dû lâcher. Ce n’était pas un carnet ; c’était un acte. Et un acte, contrairement à une objection, on ne le range pas dans la colonne des choses corrigées : il reste, dans le monde, ouvert, comme une porte qu’on a peinte en bleu et qu’on n’a pas eu le cœur d’entailler.
 
 *Cela vous passera*, avait dit Drahvel. *À tous, cela passe.*
 
 Vers la forge, elle chevaucha avec, pour la première fois, la certitude que non — que cela ne lui passerait plus, parce qu’elle avait franchi, devant un montant de bois bleu, quelque chose qu’on ne défranchit pas. On lui avait pris son frère, une fois, à travers ses propres mains ; on lui prenait, ce matin, la dernière chose qu’un Inspecteur peut garder en appliquant : la certitude de ne pas choisir. Elle avait choisi. Une porte oui, une porte non. Et qui commence à choisir quelles portes il marque a cessé d’être une main de l’appareil ; il est redevenu une main, tout court, avec tout le tremblement et tout le poids d’une main qui décide de sa propre entaille.
 
-Derrière elle, dans le bourg de Mireuil, un montant de porte restait bleu et intact, à hauteur d’œil, à l’endroit exact où une entaille aurait dû se lire. Elle chevaucha longtemps sans se retourner. Loin devant, sur la plaine qui se trouait déjà, l’air tremblait un peu, en retard sur lui-même, à l’endroit des Failles — indifférent à la porte marquée comme à celle qu’on avait laissée, à la fiole qu’on avait tirée comme à celle qu’on n’avait pas ouverte, avançant vers une heure qui les recoudrait toutes d’un coup, et que personne, ni la femme au cahier, ni l’homme aux chiffres, ni la femme qui venait de choisir une porte, ne saurait jamais avoir vue venir.
+Derrière elle, dans le bourg de Mireuil, un montant de porte restait bleu et intact, à hauteur d’œil, à l’endroit exact où une entaille aurait dû se lire. Longtemps, sans se retourner, elle chevaucha. Loin devant, sur la plaine qui se trouait déjà, l’air tremblait un peu, en retard sur lui-même, à l’endroit des Failles — indifférent à la porte marquée comme à celle qu’on avait laissée, à la fiole qu’on avait tirée comme à celle qu’on n’avait pas ouverte, avançant vers une heure qui les recoudrait toutes d’un coup, et que personne, ni la femme au cahier, ni l’homme aux chiffres, ni la femme qui venait de choisir une porte, ne saurait jamais avoir vue venir.

@@ -12,9 +12,9 @@ status: draft
 
 Au matin, le bord qu’elles avaient pris la veille tenait encore la longueur d’un homme couché.
 
-Kessane le mesura d’un œil, comme elle eût mesuré une barre sur l’établi — à cette part de l’œil qui sait la taille des choses sans les compter. La veille au soir, elle avait jugé le bord long de dix pas. Elle veillait, désormais, la moitié des nuits, parce qu’un bord qui bouge, ça se surveille comme un feu qui couve. Et le bord long de dix pas au soir n’en faisait plus, à l’aube, que la longueur d’un homme couché.
+Kessane le mesura d’un œil, comme elle eût mesuré une barre sur l’établi — à cette part de l’œil qui sait la taille des choses sans les compter. La veille au soir, elle avait jugé le bord long de dix pas. Désormais, elle veillait la moitié des nuits, parce qu’un bord qui bouge, ça se surveille comme un feu qui couve. Et le bord long de dix pas au soir n’en faisait plus, à l’aube, que la longueur d’un homme couché.
 
-Elle ne réveilla pas Lirenn tout de suite. Elle regarda le liseré blanc grignoter l’herbe verte par les deux bouts à la fois, avec cette patience de gel sur une vitre qui n’a l’air de rien tant qu’on ne pose pas l’œil dessus, et qui, dès qu’on l’y pose, ne s’arrête plus de gagner. Ses mains voulaient un chiffre ; elle leur en donna un : à ce train, le bord tiendrait jusqu’à midi. Peut-être. À condition qu’il ne se dépêchât pas davantage — et il se dépêchait chaque jour davantage. C’était le seul calcul sûr de la Plaine, celui-là : que tout calcul y devenait faux plus vite qu’on ne l’avait fait.
+Elle ne réveilla pas Lirenn tout de suite. Longtemps, elle regarda le liseré blanc grignoter l’herbe verte par les deux bouts à la fois, avec cette patience de gel sur une vitre qui n’a l’air de rien tant qu’on ne pose pas l’œil dessus, et qui, dès qu’on l’y pose, ne s’arrête plus de gagner. Ses mains voulaient un chiffre ; elle leur en donna un : à ce train, le bord tiendrait jusqu’à midi. Peut-être. À condition qu’il ne se dépêchât pas davantage — et il se dépêchait chaque jour davantage. C’était le seul calcul sûr de la Plaine, celui-là : que tout calcul y devenait faux plus vite qu’on ne l’avait fait.
 
 « Debout », dit-elle enfin.
 
@@ -30,13 +30,13 @@ Les douze premiers jours, on levait le camp une fois. On marchait une demi-journ
 
 — Aujourd’hui plus qu’hier. »
 
-Lirenn ne discuta pas. Elle avait cessé de discuter les choses de la marche il y a des jours — non par obéissance, sa fille n’obéissait pas plus qu’un fer n’obéit, elle *cédait* quand la chose était juste et résistait quand elle ne l’était pas —, mais parce que celles-là, les choses de la vitesse, elle les voyait aussi bien que sa mère. Peut-être mieux. C’était la chose neuve, et Kessane commençait à la remarquer, du coin de l’œil, comme on remarque qu’un apprenti, un matin, a mis le charbon là où il fallait sans qu’on le lui dise.
+Lirenn ne discuta pas. Depuis des jours, elle avait cessé de discuter les choses de la marche — non par obéissance, sa fille n’obéissait pas plus qu’un fer n’obéit, elle *cédait* quand la chose était juste et résistait quand elle ne l’était pas —, mais parce que celles-là, les choses de la vitesse, elle les voyait aussi bien que sa mère. Peut-être mieux. C’était la chose neuve, et Kessane commençait à la remarquer, du coin de l’œil, comme on remarque qu’un apprenti, un matin, a mis le charbon là où il fallait sans qu’on le lui dise.
 
 *
 
 Ce fut vers le milieu de la matinée que la petite s’arrêta net.
 
-Elles descendaient un long dévers d’herbe encore drue, un bon dévers, un de ceux qu’on prend avec soulagement parce qu’il tient sur toute sa longueur et qu’on n’a pas à compter chaque pas — et Lirenn, qui allait devant, planta ses deux pieds dans l’herbe et ne bougea plus.
+Devant elles descendait un long dévers d’herbe encore drue, un bon dévers, un de ceux qu’on prend avec soulagement parce qu’il tient sur toute sa longueur et qu’on n’a pas à compter chaque pas — et Lirenn, qui allait devant, planta ses deux pieds dans l’herbe et ne bougea plus.
 
 « Pas par là, dit-elle.
 
@@ -44,7 +44,7 @@ Elles descendaient un long dévers d’herbe encore drue, un bon dévers, un de 
 
 — L’herbe est franche. » Lirenn ne se retourna pas — on ne se retournait plus, sur Gryndor, elle avait appris ça comme le reste, à économiser jusqu’aux mouvements de la nuque. « Mais l’air est en retard, là devant. Plus qu’ici. »
 
-Kessane s’arrêta à son tour. Elle regarda le dévers, l’herbe verte, le sol qui n’annonçait rien. Rien. Son œil de forge, cet œil qui lisait le fer et la flamme et le sable de fonderie, ne trouvait rien.
+Kessane s’arrêta à son tour. Du regard elle prit le dévers, l’herbe verte, le sol qui n’annonçait rien. Rien. Son œil de forge, cet œil qui lisait le fer et la flamme et le sable de fonderie, ne trouvait rien.
 
 « En retard comment. »
 
@@ -62,7 +62,7 @@ Kessane la regarda longtemps. Puis elle fit une chose qu’elle n’avait pas fa
 
 Elles contournèrent le point que Lirenn refusait par le haut du dévers, un détour qui coûtait cent pas et le souffle, et Kessane, en passant à distance de l’endroit désigné, tourna la tête et regarda.
 
-Elle ne vit d’abord rien. Puis, parce que sa fille l’avait dit et qu’on trouve mieux ce qu’on cherche, elle vit. Un oiseau passait, très haut — et son cri arriva décalé de son vol. Pas du décalage de la distance, le coup de marteau qu’on voit de loin frapper une seconde avant de l’entendre ; autre chose. Le cri restait collé à l’endroit du ciel où l’oiseau n’était plus, comme si l’air, là, gardait le son une pincée de temps de trop avant de le lâcher.
+D’abord elle ne vit rien. Puis, parce que sa fille l’avait dit et qu’on trouve mieux ce qu’on cherche, elle vit. Un oiseau passait, très haut — et son cri arriva décalé de son vol. Pas du décalage de la distance, le coup de marteau qu’on voit de loin frapper une seconde avant de l’entendre ; autre chose. Le cri restait collé à l’endroit du ciel où l’oiseau n’était plus, comme si l’air, là, gardait le son une pincée de temps de trop avant de le lâcher.
 
 « Tu as raison, dit Kessane, et le dire lui coûta une chose qu’elle ne sut pas nommer. Il est en retard, là-bas. Plus qu’ici. »
 
@@ -90,9 +90,9 @@ Lirenn haussa une épaule, l’air de ne pas comprendre qu’on lui fît répét
 
 *
 
-Elles reprirent la marche. Kessane ne parla pas pendant un long moment, et sa fille, qui savait lire ses silences mieux que ses mots, ne parla pas non plus.
+La marche reprit. Kessane ne parla pas pendant un long moment, et sa fille, qui savait lire ses silences mieux que ses mots, ne parla pas non plus.
 
-Elle pensait à la cave. Au silence d’après la coupure — ce silence qu’elle avait pris, ce soir-là, pour la preuve que le don était *éteint*. Elle avait cru éteindre. On coupe une chose et la chose s’arrête ; on trempe un fer et le fer prend ; la forge est faite de gestes dont on connaît la suite. Elle avait eu *besoin* de croire qu’une chose coupée est une chose finie.
+Elle pensait à la cave. Au silence d’après la coupure — ce silence qu’elle avait pris, ce soir-là, pour la preuve que le don était *éteint*. Croire éteindre, voilà ce qu’elle avait fait. On coupe une chose et la chose s’arrête ; on trempe un fer et le fer prend ; la forge est faite de gestes dont on connaît la suite. Elle avait eu *besoin* de croire qu’une chose coupée est une chose finie.
 
 Et voilà que sa fille, la sourde, la coupée, l’éteinte, lisait dans l’air un retard qu’elle-même, sa mère aux longues années de feu, ne voyait pas.
 
@@ -104,7 +104,7 @@ Et voilà que sa fille, la sourde, la coupée, l’éteinte, lisait dans l’air
 
 Il fallut s’arrêter, un peu après midi, parce qu’un des trois tremblements s’était rapproché plus vite que les autres et leur avait mangé le chemin.
 
-Elles se plaquèrent contre un talus d’herbe grise, le seul relief à portée, et attendirent que la chose passât ou changeât d’avis — car les Failles, sur la fin, semblaient changer d’avis, revenir sur leurs pas, hésiter comme une bête qui a flairé deux pistes. Tapie, sa fille contre elle, Kessane regarda la Plaine et vit ce qu’elle n’avait pas voulu voir depuis trois jours.
+Contre un talus d’herbe grise, le seul relief à portée, elles se plaquèrent, et attendirent que la chose passât ou changeât d’avis — car les Failles, sur la fin, semblaient changer d’avis, revenir sur leurs pas, hésiter comme une bête qui a flairé deux pistes. Tapie, sa fille contre elle, Kessane regarda la Plaine et vit ce qu’elle n’avait pas voulu voir depuis trois jours.
 
 Il n’y avait presque plus de vert.
 
@@ -132,7 +132,7 @@ Kessane ouvrit la bouche pour dire *si*, et ne le dit pas, parce qu’elle avait
 
 Le tremblement s’éloigna enfin, à contrecœur, et elles reprirent le filet.
 
-Et ce fut Lirenn qui mena. Kessane ne l’avait pas décidé ; cela s’était fait tout seul, comme se font les choses justes — l’enfant devant, qui s’arrêtait, penchait la tête, disait *pas là, l’air est trop en retard* ou *là ça va, l’air est sur son heure* ; la mère derrière, qui vérifiait de l’œil quand elle le pouvait et suivait quand elle ne le pouvait pas. Elles avaient échangé leurs places sans un mot. La petite lisait l’air en retard ; la mère lisait le froid sur la joue, les nappes qui montaient, la vitesse des bords. Deux sens, deux âges — et sur le fil qui se rétrécissait, elles se guidaient l’une l’autre comme deux mains sur une même pièce, celle qui tient et celle qui frappe.
+Et ce fut Lirenn qui mena. Kessane ne l’avait pas décidé ; cela s’était fait tout seul, comme se font les choses justes — l’enfant devant, qui s’arrêtait, penchait la tête, disait *pas là, l’air est trop en retard* ou *là ça va, l’air est sur son heure* ; la mère derrière, qui vérifiait de l’œil quand elle le pouvait et suivait quand elle ne le pouvait pas. Sans un mot, elles avaient échangé leurs places. La petite lisait l’air en retard ; la mère lisait le froid sur la joue, les nappes qui montaient, la vitesse des bords. Deux sens, deux âges — et sur le fil qui se rétrécissait, elles se guidaient l’une l’autre comme deux mains sur une même pièce, celle qui tient et celle qui frappe.
 
 « À droite, dit Lirenn. À gauche, l’air est retardé.
 
@@ -142,7 +142,7 @@ Et ce fut Lirenn qui mena. Kessane ne l’avait pas décidé ; cela s’était 
 
 — Le temps qu’on le traverse. Cours pas — marche vite. Courir, on compte plus les pas. »
 
-Elles passèrent le fil de droite qui s’usait, et de l’autre côté Lirenn ralentit d’elle-même, sut avant sa mère que l’air, là, avait rejoint son heure.
+Le fil de droite qui s’usait, elles le passèrent, et de l’autre côté Lirenn ralentit d’elle-même, sut avant sa mère que l’air, là, avait rejoint son heure.
 
 « Ici c’est bon. L’air est collé au geste. »
 
@@ -160,7 +160,7 @@ Et elles continuèrent, la mère et la fille, chacune reine de son sens, sur le 
 
 Ce fut au plus creux de l’après-midi, entre deux fils, dans un instant où l’on pouvait souffler, que Kessane posa la question qui la rongeait.
 
-Elle s’était assise. Lirenn s’était accroupie près d’elle, tirant du sac le dernier quignon, le partageant en deux d’un coup d’ongle exact — à la miette près, une justice de balance qu’aucune faim n’entamait.
+Assise, elle l’était déjà. Lirenn s’était accroupie près d’elle, tirant du sac le dernier quignon, le partageant en deux d’un coup d’ongle exact — à la miette près, une justice de balance qu’aucune faim n’entamait.
 
 « Dis-moi une chose. Quand j’ai coupé, dans la cave. Tu as senti quoi ? »
 
@@ -214,11 +214,11 @@ Sa fille venait, encore, de la consoler — non pas en niant le doute, elle ne n
 
 *
 
-Elles repartirent sur le fil.
+Sur le fil, elles repartirent.
 
 Kessane ne prit pas le doute de sa fille — on ne troque pas les doutes comme les pains, chacun porte le sien jusqu’au bout —, mais elle marcha un moment avec le sien et celui de Lirenn côte à côte dans sa tête, et le plus léger allégeait le plus lourd, comme une main fraîche sur une brûlure ne l’éteint pas mais la rend tenable le temps qu’on la tient.
 
-Le fil descendait. Elle s’en aperçut au bout d’un moment — il ne montait plus, il n’y avait plus de tertres à gagner. Les hauts avaient blanchi les premiers ; on les voyait, tout autour, ceints de gel, îlots pâles au-dessus d’une plaine qui n’était plus que fils verts et nappes blanches. Le filet qui se défaisait ne laissait de mailles franches qu’au creux, et chaque fil qu’on prenait s’inclinait vers le milieu de la Plaine, comme si le monde troué, en se resserrant, poussait ce qui restait de vivant vers son propre trou le plus large.
+Le fil descendait. Au bout d’un moment elle s’en aperçut — il ne montait plus, il n’y avait plus de tertres à gagner. Les hauts avaient blanchi les premiers ; on les voyait, tout autour, ceints de gel, îlots pâles au-dessus d’une plaine qui n’était plus que fils verts et nappes blanches. Le filet qui se défaisait ne laissait de mailles franches qu’au creux, et chaque fil qu’on prenait s’inclinait vers le milieu de la Plaine, comme si le monde troué, en se resserrant, poussait ce qui restait de vivant vers son propre trou le plus large.
 
 « On descend, dit Lirenn. On voulait pas descendre. On voulait sortir.
 
@@ -236,9 +236,9 @@ Kessane eut un rire, court, rauque, qui la surprit elle-même — le premier dep
 
 Ce soir-là — s’il y avait encore des soirs, sur Gryndor, où le jour se retirait par plaques et laissait des flaques de crépuscule accrochées à l’herbe —, elles ne trouvèrent pas de bord pour la nuit.
 
-Il n’y en avait plus. Il n’y avait plus qu’un fil, qui tenait le temps qu’on le tenait et blanchissait dès qu’on le quittait. Alors elles ne le quittèrent pas. Elles s’assirent dessus, l’une contre l’autre, sur la maigre largeur d’herbe verte entre deux blancheurs, et Kessane comprit qu’on ne dormirait plus, que le camp était fini pour de bon.
+Il n’y en avait plus. Restait un fil, un seul, qui tenait le temps qu’on le tenait et blanchissait dès qu’on le quittait. Alors elles ne le quittèrent pas. Sur la maigre largeur d’herbe verte entre deux blancheurs, elles s’assirent dessus, l’une contre l’autre, et Kessane comprit qu’on ne dormirait plus, que le camp était fini pour de bon.
 
-Elle sortit le cahier — non pour le lire. Seulement pour tenir quelque chose de plein pendant que le monde autour d’elle se vidait fil à fil. Le fer de la boucle était froid ; le cahier, tiède de sa peau à elle. Sa fille appuya la tête contre son épaule, et ne dormit pas non plus, et regarda avec elle le creux de la Plaine trembler dans le lointain, plus vaste d’heure en heure.
+Le cahier, elle le sortit — non pour le lire. Seulement pour tenir quelque chose de plein pendant que le monde autour d’elle se vidait fil à fil. Le fer de la boucle était froid ; le cahier, tiède de sa peau à elle. Sa fille appuya la tête contre son épaule, et ne dormit pas non plus, et regarda avec elle le creux de la Plaine trembler dans le lointain, plus vaste d’heure en heure.
 
 « L’air, dit Lirenn tout bas, après un long moment. Il est de plus en plus en retard. Partout. Pas juste par endroits. Partout maintenant. »
 

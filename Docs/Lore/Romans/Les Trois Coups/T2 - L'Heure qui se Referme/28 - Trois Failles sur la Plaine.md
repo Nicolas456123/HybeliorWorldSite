@@ -59,7 +59,7 @@ Il y a, loin vers le levant, une plaine. On l’appelle la Plaine de Gryndor, ma
 
 Pas une. Trois.
 
-Vous qui comptez, comptez avec moi, parce que c’est là que la peur commence. Ailleurs dans le monde une déchirure passe et s’en va, elle traverse un village et le vide et poursuit sa route ; on peut fuir devant elle comme on fuit devant le feu, on regarde d’où vient le vent des choses et on court dans l’autre sens. Sur la Plaine, non. Sur la Plaine il y en a trois, et elles ne s’en vont pas. Elles restent. Elles tournent l’une autour de l’autre comme trois bêtes attachées au même piquet, et depuis douze ans — c’est ce qu’ils disent, douze ans, et douze ans c’est un chiffre de votre monde à vous, moi je ne sais plus ce que c’est que douze de quoi que ce soit —, depuis douze ans elles labourent le même carré de terre, encore et encore, si bien qu’il ne reste plus rien à Gryndor qui soit resté à sa place dans le temps.
+Vous qui comptez, comptez avec moi, parce que c’est là que la peur commence. Ailleurs dans le monde une déchirure passe et s’en va, elle traverse un village et le vide et poursuit sa route ; on peut fuir devant elle comme on fuit devant le feu, on regarde d’où vient le vent des choses et on court dans l’autre sens. Sur la Plaine, non. Sur la Plaine il y en a trois, et elles ne s’en vont pas. Rien ne les emmène. Fixes, elles tournent l’une autour de l’autre comme trois bêtes attachées au même piquet, et depuis douze ans — c’est ce qu’ils disent, douze ans, et douze ans c’est un chiffre de votre monde à vous, moi je ne sais plus ce que c’est que douze de quoi que ce soit —, depuis douze ans elles labourent le même carré de terre, encore et encore, si bien qu’il ne reste plus rien à Gryndor qui soit resté à sa place dans le temps.
 
 On m’a dit qu’il y a, sur la Plaine, un clocher qu’on voit deux fois. Le même clocher, à deux endroits, parce qu’une déchirure en tient une moitié trente ans en arrière et l’autre le laisse où il est. On m’a dit qu’il y a un pommier qui fleurit et donne ses fruits dans la même heure, sans arrêt, parce qu’il est pris entre deux temps qui tirent chacun de leur côté. On m’a dit qu’un homme y est entré pour chercher son fils et qu’il en est ressorti plus jeune que le fils.
 
@@ -137,7 +137,7 @@ Et dans le silence, allongée sous l’édredon des noces et des veillées, à m
 
 Il y a une place vide à table.
 
-Je crois que c’est moi. Je crois que c’est la moitié de moi qui est restée sur la Plaine, entre les trois déchirures, à regarder pour toujours le clocher qu’on voit deux fois. Elle est là-bas, elle. Elle sait ce que j’ai vu. Elle le saura toujours et elle ne pourra jamais me le dire, parce qu’entre elle et moi il y a un trou, et le trou est infranchissable, et pourtant nous portons le même nom, gravé dans la même margelle, par la même main, il y a — je ne sais plus.
+Je crois que c’est moi. Je crois que c’est la moitié de moi qui est restée sur la Plaine, entre les trois déchirures, à regarder pour toujours le clocher qu’on voit deux fois. Elle est là-bas, elle. De ce que j’ai vu, elle sait tout. Et elle le saura toujours, sans jamais pouvoir me le dire, parce qu’entre elle et moi il y a un trou, et le trou est infranchissable, et pourtant nous portons le même nom, gravé dans la même margelle, par la même main, il y a — je ne sais plus.
 
 Je ne sais plus quand.
 
@@ -145,7 +145,7 @@ Je ne sais plus quand.
 
 *Nous, tous, en refermant :*
 
-Elle s’est endormie. Elle dort à sa place, ce qui est déjà beaucoup, ce qui est presque un miracle, dans un monde où si peu de gens dorment encore à leur place dans le temps.
+Elle s’est endormie. La voilà qui dort à sa place, ce qui est déjà beaucoup, ce qui est presque un miracle, dans un monde où si peu de gens dorment encore à leur place dans le temps.
 
 Nous, nous ne dormons pas. Nous n’avons pas de place où dormir. Nous restons éveillés dans nos bulles d’heure disjointes, et nous la regardons dormir, elle, l’amputée, la presque-entière, et nous l’envions — oui, nous, les entiers du malheur, nous l’envions, elle qui a perdu le milieu. Parce qu’au moins elle est rentrée. Au moins il y a une margelle avec son nom. Nous, nous n’avons pas de margelle. Nous sommes le nom sans la pierre.
 

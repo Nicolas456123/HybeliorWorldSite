@@ -12,7 +12,7 @@ status: draft
 
 On avait ramené Olven à sa cellule, et le poste était rentré dans son silence de nuit — ce silence particulier des lieux où l’on garde des hommes, qui n’est jamais tout à fait le silence, seulement le bruit qu’on fait pour ne pas en faire : un pas dans un couloir, une porte qu’on tient pour qu’elle ne claque pas, la respiration de quelqu’un qui veille et qui préférerait dormir.
 
-Vaenor était restée dans la salle. Elle avait dit au garde qu’elle finissait le procès-verbal, ce qui était vrai et ne l’était pas — il tenait en dix lignes, elle l’avait écrit dans sa tête pendant qu’Olven récitait, elle n’avait qu’à le poser sur le papier. Ce qui la retenait n’était pas le procès-verbal.
+Vaenor était restée dans la salle. Au garde, elle avait dit qu’elle finissait le procès-verbal, ce qui était vrai et ne l’était pas — il tenait en dix lignes, elle l’avait écrit dans sa tête pendant qu’Olven récitait, elle n’avait qu’à le poser sur le papier. Ce qui la retenait n’était pas le procès-verbal.
 
 C’était le cahier.
 
@@ -22,7 +22,7 @@ Il était resté sur la table, à l’endroit exact où elle l’avait posé au 
 
 Le règlement était clair. Un texte hérétique saisi se consigne au procès-verbal — titre, nombre de feuillets, provenance présumée — puis se brûle. Une lame, un poison, on les scelle et on les verse au dossier ; ils ne se répandent pas d’eux-mêmes. Un texte, si. Le garder, c’est le laisser vivant. La règle avait la sécheresse des règles justes : *ce qui peut être recopié doit être détruit.*
 
-Elle en avait brûlé des dizaines ainsi. Des prières, surtout — évangiles bricolés du Culte de l’Étudiant, almanachs qui promettaient la fin du Fléau pour telle lune. Ça brûlait bien, le papier de mauvaise qualité ; et elle regardait toujours jusqu’au bout, parce qu’un Inspecteur qui détourne les yeux du feu qu’il allume ne croit pas tout à fait à ce qu’il fait, et elle ne voulait pas être de ceux-là. Jamais elle n’avait hésité. On ne discute pas avec une prière qui promet des lunes ; on la brûle et l’on va se coucher.
+Des dizaines, elle en avait brûlé ainsi. Des prières, surtout — évangiles bricolés du Culte de l’Étudiant, almanachs qui promettaient la fin du Fléau pour telle lune. Ça brûlait bien, le papier de mauvaise qualité ; et elle regardait toujours jusqu’au bout, parce qu’un Inspecteur qui détourne les yeux du feu qu’il allume ne croit pas tout à fait à ce qu’il fait, et elle ne voulait pas être de ceux-là. Jamais elle n’avait hésité. On ne discute pas avec une prière qui promet des lunes ; on la brûle et l’on va se coucher.
 
 Le brasero était là, dans le coin, froid, prêt. Il suffisait de le rallumer — l’affaire d’un moment.
 
@@ -38,9 +38,9 @@ C’était une copie neuve. Le papier était de bonne facture, à peine jauni ;
 
 *
 
-Elle tourna les feuillets jusqu’à la phrase.
+Du pouce elle tourna les feuillets jusqu’à la phrase.
 
-Elle savait où elle était — au milieu, presque exactement, comme si le copiste l’avait mise là exprès, au cœur du cahier, à l’abri, entourée de tout le reste. *Aucun de nous ne le croit vraiment. Nous croyons que c’est inévitable.* Dans la copie d’Olven, elle n’était pas fautive. Le poste en avait saisi une, l’an passé, où un copiste ignorant avait écrit *nous croyons que c’est équitable*, un seul mot changé, et tout le sens basculé, la conviction sans foi devenue une petite justice satisfaite d’elle-même. Olven, lui, avait la bonne. Mot pour mot. Il l’avait recopiée avec le soin qu’on met aux choses qu’on ne comprend qu’à moitié et qu’on respecte d’autant plus.
+Où elle était, elle le savait — au milieu, presque exactement, comme si le copiste l’avait mise là exprès, au cœur du cahier, à l’abri, entourée de tout le reste. *Aucun de nous ne le croit vraiment. Nous croyons que c’est inévitable.* Dans la copie d’Olven, elle n’était pas fautive. Le poste en avait saisi une, l’an passé, où un copiste ignorant avait écrit *nous croyons que c’est équitable*, un seul mot changé, et tout le sens basculé, la conviction sans foi devenue une petite justice satisfaite d’elle-même. Olven, lui, avait la bonne. Mot pour mot. Recopiée, elle l’était avec le soin qu’on met aux choses qu’on ne comprend qu’à moitié et qu’on respecte d’autant plus.
 
 À voix basse, elle la relut, pour voir si elle sonnait pareil qu’à la table, dans la bouche du copiste. Elle sonnait pareil ; et c’était le pire — elle sonnait pareil dans sa bouche à elle. Treize mots, désormais en elle comme une chanson — et elle savait déjà, avec l’exactitude froide qui était son don, qu’elle ne les perdrait plus.
 
@@ -48,9 +48,9 @@ Un bruit dans le couloir. Le pas du garde, qui revenait. Vite, elle reposa le ca
 
 *
 
-Ce n’était pas le garde. C’était le geôlier — le vieux Mern, qui tenait les clefs des cellules et qui, à cette heure, aurait dû dormir. Il apportait de l’eau. Il en apportait toujours, la nuit, aux Inspecteurs qui veillaient, sans qu’on le lui demandât ; c’était sa manière à lui d’exister dans un poste où il n’était que celui qui ouvre et ferme les portes.
+Ce n’était pas le garde. C’était le geôlier — le vieux Mern, qui tenait les clefs des cellules et qui, à cette heure, aurait dû dormir. Il apportait de l’eau. Toujours il en apportait, la nuit, aux Inspecteurs qui veillaient, sans qu’on le lui demandât ; c’était sa manière à lui d’exister dans un poste où il n’était que celui qui ouvre et ferme les portes.
 
-Il posa la cruche au bord de la table, loin du cahier, avec le respect instinctif que les vieux gardiens ont pour les papiers des Inspecteurs — on ne sait jamais lequel envoie un homme à la mort.
+Au bord de la table, loin du cahier, il posa la cruche, avec le respect instinctif que les vieux gardiens ont pour les papiers des Inspecteurs — on ne sait jamais lequel envoie un homme à la mort.
 
 « Il dort ? » demanda Vaenor, sans lever les yeux.
 
@@ -60,7 +60,7 @@ Il posa la cruche au bord de la table, loin du cahier, avec le respect instincti
 
 « Deux ou trois. » Le vieux tira une chaise, s’assit sans qu’on l’y invitât, avec l’aisance de qui a le droit de la fatigue. « Maintenant on les prend moins — pas parce qu’il y en a moins, notez. Parce qu’ils cachent mieux. On leur a appris la peur, alors ils ont appris la ruse. C’est toujours comme ça : on serre la corde, et ce qu’on attrape devient plus malin. »
 
-Elle leva enfin les yeux sur lui. Chez les vieux subalternes, elle aimait cette lucidité sans amertume qui vient d’avoir tout vu passer sans jamais décider de rien. Ils voyaient la mécanique du haut de leur tabouret bien mieux que ceux qui la faisaient tourner.
+Enfin elle leva les yeux sur lui. Chez les vieux subalternes, elle aimait cette lucidité sans amertume qui vient d’avoir tout vu passer sans jamais décider de rien. Du haut de leur tabouret, ils voyaient la mécanique bien mieux que ceux qui la faisaient tourner.
 
 *
 
@@ -76,13 +76,13 @@ Il prit son temps. C’était une question qu’on ne lui avait jamais posée, e
 
 « Un livre de comptes ? »
 
-« Un vrai. Les comptes d’un village. Qui devait quoi à qui, les grains prêtés, les dettes de mariage. On l’avait pris à un homme qu’on soupçonnait d’y cacher un code entre les lignes. Il n’y avait pas de code — c’était des comptes, rien que des comptes. Mais l’ordre était de brûler, alors on a brûlé. » Il gratta le bord de la table, un vieux geste. « Et je me suis dit, en regardant partir la fumée : personne ne saura plus jamais qui devait ces trois sacs de grain à qui. Un village entier vivait là-dedans, dans ces chiffres — ses querelles, ses accords, sa mémoire de qui avait aidé qui. On l’a brûlé par précaution, parce qu’on n’était pas sûrs. Les prières, on est sûr. Les comptes, on n’était pas sûr, et c’est justement là qu’il ne fallait pas brûler. » Il releva les yeux, un peu surpris de s’être laissé aller. « On brûle bien ce dont on est sûr. C’est ce dont on n’est pas sûr qu’on devrait garder. »
+« Un vrai. Les comptes d’un village. Qui devait quoi à qui, les grains prêtés, les dettes de mariage. On l’avait pris à un homme qu’on soupçonnait d’y cacher un code entre les lignes. Il n’y avait pas de code — c’était des comptes, rien que des comptes. Mais l’ordre était de brûler, alors on a brûlé. » De l’ongle il gratta le bord de la table, un vieux geste. « Et je me suis dit, en regardant partir la fumée : personne ne saura plus jamais qui devait ces trois sacs de grain à qui. Un village entier vivait là-dedans, dans ces chiffres — ses querelles, ses accords, sa mémoire de qui avait aidé qui. On l’a brûlé par précaution, parce qu’on n’était pas sûrs. Les prières, on est sûr. Les comptes, on n’était pas sûr, et c’est justement là qu’il ne fallait pas brûler. » Un peu surpris de s’être laissé aller, il releva les yeux. « On brûle bien ce dont on est sûr. C’est ce dont on n’est pas sûr qu’on devrait garder. »
 
 *
 
 Vaenor ne répondit pas tout de suite.
 
-La question, elle l’avait posée pour rien, croyait-elle — pour occuper le vieux, pour retarder l’instant où elle rallumerait le brasero. Elle n’avait pas prévu qu’il lui donnât, du haut de son tabouret, avec sa cendre sous les ongles, la seule pensée qu’elle n’avait pas voulu penser depuis la veille : *ce dont on n’est pas sûr, on devrait le garder.*
+La question, elle l’avait posée pour rien, croyait-elle — pour occuper le vieux, pour retarder l’instant où elle rallumerait le brasero. Jamais elle n’avait prévu qu’il lui donnât, du haut de son tabouret, avec sa cendre sous les ongles, la seule pensée qu’elle n’avait pas voulu penser depuis la veille : *ce dont on n’est pas sûr, on devrait le garder.*
 
 « Et si l’ordre est de brûler ? » dit-elle — doucement, à la manière dont elle disait *non* aux interrogés, sans poids apparent, tout le poids en dessous. « Si l’ordre est clair. Si le règlement dit : ceci se brûle. On ne garde pas ce qu’on n’est pas sûr, Mern. On garde ce qu’on peut classer. Le reste, on le détruit, justement parce qu’on n’est pas sûr — parce qu’un doute qu’on laisse traîner, c’est un doute qui se recopie. »
 
@@ -92,7 +92,7 @@ Il sortit. La porte, il la tint pour qu’elle ne claquât point.
 
 *
 
-Elle resta seule avec le cahier et le brasero froid.
+Seule, elle resta avec le cahier et le brasero froid.
 
 Ce que Mern ne savait pas, elle le savait — que ce cahier-ci n’était pas une prière. Les prières repoussent ; elles sont dans mille têtes. Mais ce cahier était un récit, une copie soignée d’un texte rare, faite par un homme qu’on venait de prendre et qui ne recopierait plus rien. La source — le vrai journal, celui dont on parlait dans les cercles verithani comme du texte le plus recherché du monde — nul ne l’avait jamais retrouvée, et ne la retrouverait peut-être jamais ; les copies étaient rares, traquées, brûlées une à une. Celle-ci était peut-être l’une des dernières bonnes — l’une des dernières où la phrase n’était pas fautive, où le récit tenait entier.
 
@@ -104,7 +104,7 @@ C’était exactement le livre de comptes de Mern. La chose dont on n’est pas 
 
 Se lever, faire ses trois pas jusqu’au mur, revenir. C’était son geste à elle, celui qui rangeait son visage — mais il n’y avait personne à qui cacher son visage, à présent, et le geste ne rangea rien du tout ; il la ramena seulement à la table, où le cahier l’attendait, ouvert sur autre chose.
 
-Sa pensée alla à Drahvel, qui, s’il apprenait qu’elle avait gardé un texte au lieu de le brûler, ne hausserait pas la voix — Drahvel non plus ne haussait jamais la voix, c’était la maladie de l’appareil — mais qui la regarderait de sa patience froide et dirait, peut-être : *vous avez fait une exception, Sorne ; le jour où l’on commence à faire des exceptions, on ne fait plus que ça.* Il aurait raison. Il avait toujours raison, de la raison sans faille de ceux qui n’ont jamais été rongés par rien.
+Sa pensée alla à Drahvel, qui, s’il apprenait qu’elle avait gardé un texte au lieu de le brûler, ne hausserait pas la voix — Drahvel non plus ne haussait jamais la voix, c’était la maladie de l’appareil — mais qui la regarderait de sa patience froide et dirait, peut-être : *vous avez fait une exception, Sorne ; le jour où l’on commence à faire des exceptions, on ne fait plus que ça.* Il aurait raison. Toujours il avait raison, de la raison sans faille de ceux qui n’ont jamais été rongés par rien.
 
 Et pourtant.
 
@@ -118,7 +118,7 @@ Et pour une fois — pour une seule fois — elle pouvait ne pas couper. Il n’
 
 *
 
-Elle referma le cahier. Doucement, du plat de la main, comme on ferme les yeux d’un mort — ou comme on ne les ferme pas, justement ; comme on décide de ne pas les fermer.
+Du plat de la main, elle referma le cahier. Doucement, comme on ferme les yeux d’un mort — ou comme on ne les ferme pas, justement ; comme on décide de ne pas les fermer.
 
 Et elle ne le brûla pas.
 
@@ -130,11 +130,11 @@ Peut-être ne se le pardonnerait-elle pas. De cela non plus, elle n’était pas
 
 *
 
-Elle porta le cahier jusqu’au coffre.
+Jusqu’au coffre, elle porta le cahier.
 
 Le coffre des preuves était dans l’angle, contre le mur porteur, une caisse de fer noir à laquelle elle seule, au poste, avait la clef — la clef qu’elle portait au cou, sous l’uniforme, contre la peau, tiède de sa chaleur. Elle l’ouvrit ; à l’intérieur, l’ordre habituel : des lames confisquées, un sachet de plantes de Sanavir scellé et étiqueté, des registres de foyers marqués, deux ou trois objets d’Âge du Lien pris à des Mangeurs de Temps — un pendentif, un fragment d’inscription, les reliques d’un culte qui rêvait de remonter le temps. Le rebut de la traque. Ce qu’on garde parce qu’on pourrait en avoir besoin, ou parce qu’on n’ose pas le détruire, ou parce qu’un jour un tribunal voudra voir.
 
-Le sceau, la cire, la petite lampe à sceller. Elle enveloppa le cahier dans une toile propre — la même toile, songea-t-elle, la même toile grossière dont l’homme aux mains tremblantes avait enveloppé son paquet, douze jours plus tôt, chez Olven ; le texte voyageait toujours dans de la toile, comme les nouveau-nés et les morts. Un nœud, la cire qu’on fait couler, le sceau qu’on presse — l’écusson de Drahk’Nor mordant la cire rouge — le poing fermé sur la flamme, l’emblème de ceux qui tiennent le feu pour qu’il ne prenne pas partout. La cire prit, froide et dure.
+Le sceau, la cire, la petite lampe à sceller. Dans une toile propre elle enveloppa le cahier — la même toile, songea-t-elle, la même toile grossière dont l’homme aux mains tremblantes avait enveloppé son paquet, douze jours plus tôt, chez Olven ; le texte voyageait toujours dans de la toile, comme les nouveau-nés et les morts. Un nœud, la cire qu’on fait couler, le sceau qu’on presse — l’écusson de Drahk’Nor mordant la cire rouge — le poing fermé sur la flamme, l’emblème de ceux qui tiennent le feu pour qu’il ne prenne pas partout. La cire prit, froide et dure.
 
 Puis elle écrivit l’étiquette. C’était là que se jouait vraiment la chose — pas dans le geste de garder, mais dans le mot qu’on met dessus ; et elle le pesa comme elle pesait chaque mot devant un interrogé.
 
@@ -144,7 +144,7 @@ Chaque mot était vrai. Chaque mot était un mensonge. Le cahier *était* une pi
 
 *
 
-Elle glissa le paquet scellé dans le coffre, entre le sachet de Sanavir et les reliques des Mangeurs de Temps. Il y était à sa place, désormais : une chose de plus qu’on garde parce qu’on pourrait en avoir besoin. Il dormirait là, dans le fer noir, sous une étiquette exacte et fausse, aussi longtemps qu’elle tiendrait la clef — et après elle, si un jour les archives d’un préfet mangeaient les preuves d’un poste de confins, il passerait avec le reste dans quelque salle plus grande, plus poussiéreuse, une salle d’État où l’on empile ce qu’on n’a ni le courage de détruire ni la raison de rouvrir. Il attendrait sans elle. Elle ne le pensa pas en ces termes — elle ne pouvait savoir ce que deviendrait le coffre, ni le monde — mais quelque chose en elle sut, en refermant le couvercle, qu’elle venait de mettre cette phrase à l’abri du temps pour une durée qu’elle ne verrait pas finir. Le contraire de la brûler. La brûler, c’était la faire mourir maintenant ; la sceller, c’était l’envoyer devant, intacte, vers des mains qu’elle ne connaîtrait jamais.
+Entre le sachet de Sanavir et les reliques des Mangeurs de Temps, elle glissa le paquet scellé dans le coffre. Il y était à sa place, désormais : une chose de plus qu’on garde parce qu’on pourrait en avoir besoin. Il dormirait là, dans le fer noir, sous une étiquette exacte et fausse, aussi longtemps qu’elle tiendrait la clef — et après elle, si un jour les archives d’un préfet mangeaient les preuves d’un poste de confins, il passerait avec le reste dans quelque salle plus grande, plus poussiéreuse, une salle d’État où l’on empile ce qu’on n’a ni le courage de détruire ni la raison de rouvrir. Il attendrait sans elle. Elle ne le pensa pas en ces termes — elle ne pouvait savoir ce que deviendrait le coffre, ni le monde — mais quelque chose en elle sut, en refermant le couvercle, qu’elle venait de mettre cette phrase à l’abri du temps pour une durée qu’elle ne verrait pas finir. Le contraire de la brûler. La brûler, c’était la faire mourir maintenant ; la sceller, c’était l’envoyer devant, intacte, vers des mains qu’elle ne connaîtrait jamais.
 
 Le couvercle rabattu, la clef tournée. Le pêne mordit avec un bruit gras et définitif, un bruit de chose close. La clef, elle la remit à son cou, sous l’uniforme, contre la peau.
 
@@ -154,10 +154,10 @@ Restait le procès-verbal — les dix lignes, enfin. *Interrogatoire du nommé O
 
 *
 
-Elle éteignit la lampe de la salle. Le brasero, elle le laissa froid — c’était, ce froid, la seule trace visible de ce qui s’était passé cette nuit : un feu qu’on n’avait pas allumé, un feu absent, la marque en creux d’un geste qu’elle n’avait pas fait.
+De la salle, elle éteignit la lampe. Le brasero, elle le laissa froid — c’était, ce froid, la seule trace visible de ce qui s’était passé cette nuit : un feu qu’on n’avait pas allumé, un feu absent, la marque en creux d’un geste qu’elle n’avait pas fait.
 
 Dans le couloir, en passant devant les cellules, elle entendit Olven qui priait toujours, à voix basse, la prière égale et sans fin des hommes doux. Il ne saurait jamais. Jusqu’à son dernier jour il croirait qu’elle avait brûlé sa copie — c’était ce qu’on faisait des copies, c’était ce que l’appareil faisait, il n’imaginerait pas autre chose. Peut-être pleurerait-il son cahier, la nuit, comme on pleure un enfant à qui on n’a pas dit adieu. Et pendant ce temps le cahier dormirait dans le fer noir, à trente pas de sa cellule, plus vivant que lui bientôt, portant sa phrase intacte vers un temps où ni lui ni elle ne seraient là pour la lire.
 
-Elle ne le lui dirait pas. On ne dit pas à un homme qu’on a désobéi pour son texte ; ce serait lui donner de l’espoir, et l’espoir, dans une geôle, est une cruauté. Cela, elle le garderait pour elle, comme elle gardait le reste — comme elle gardait la clef, tiède, contre sa peau.
+Jamais elle ne le lui dirait. On ne dit pas à un homme qu’on a désobéi pour son texte ; ce serait lui donner de l’espoir, et l’espoir, dans une geôle, est une cruauté. Cela, elle le garderait pour elle, comme elle gardait le reste — comme elle gardait la clef, tiède, contre sa peau.
 
 Loin au sud, sous une plaine qu’elle ne connaissait pas encore, quelque chose de patient qui ne savait pas lui-même quand il était sentit passer, une fois de plus, la phrase que quinze siècles n’avaient pas usée — et cette fois elle ne passait pas de bouche en bouche, mais s’enfonçait dans le fer et le silence d’un coffre, pour dormir ; et ce n’était pas une fin, seulement un autre genre d’attente, la plus longue, celle des choses qu’on a scellées en croyant les enterrer et qu’on a, sans le vouloir, gardées.
