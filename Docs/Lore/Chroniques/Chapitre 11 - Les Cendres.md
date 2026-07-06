@@ -120,11 +120,11 @@ Ce qui me ramena, inévitablement, à ce que je savais déjà de ces profondeurs
 
 À Altram — il y a près de deux mois, quelques centaines de lieues au nord-ouest —, j'avais vu le Fragment Zéro.
 
-Ce n'est pas quelque chose que j'avais prévu de voir, ni voulu voir, et je n'ai pas encore su comment l'écrire dans ce journal sans que les mots me semblent soit trop petits soit trop grands pour ce qu'ils tentent de contenir. Un fragment de quelque chose d'originel, gardé sous cloche dans une antichambre scellée des Archives de Trelios — une chose qui pulsait, non pas d'une lumière que l'œil pût saisir, mais d'un battement que l'on percevait avec les os plutôt qu'avec la peau. Une pulsation régulière. Lente. Comme un cœur.
+Ce n'est pas quelque chose que j'avais prévu de voir ni voulu voir, et je n'ai pas encore su comment l'écrire dans ce journal sans que les mots me semblent soit trop petits soit trop grands pour ce qu'ils tentent de contenir. Un fragment de quelque chose d'originel, gardé sous cloche dans une antichambre scellée des Archives de Trelios — une chose qui pulsait, non pas d'une lumière que l'œil pût saisir, mais d'un battement que l'on percevait avec les os plutôt qu'avec la peau. Une pulsation régulière. Lente. Comme un cœur.
 
 Et à Iskara-Ferrath, dans les mines dont les mineurs entendent des sons dans les galeries les plus profondes — des sons que personne n'a pu localiser ni identifier, des sons qui n'existent que dans les sections les plus basses des galeries, là où la roche est la plus ancienne.
 
-Je me tenais maintenant dans la ville qui repose sur un réseau de failles volcaniques actives. Dans la ville dont on me disait que sous la Grande Forge, dans une chambre secrète, une lame parfaite plantée dans quelque chose qui saigne depuis des siècles — une créature ancienne, disait l'histoire rapportée à voix basse, qui respire toujours.
+Je me tenais maintenant dans la ville qui repose sur un réseau de failles volcaniques actives. Dans la ville où l'on me disait que, sous la Grande Forge, dans une chambre secrète, une lame parfaite était plantée dans quelque chose qui saigne depuis des siècles — une créature ancienne, disait l'histoire rapportée à voix basse, qui respire toujours.
 
 Je n'avais pas les autorisations pour descendre. Mais j'avais la vibration dans les semelles de mes bottes, la nuit, quand tout le bruit de surface se taisait et que la Grande Forge ralentissait à son rythme de veille. Et cette vibration-là — lente, profonde, rythmique — ressemblait à ce que j'avais senti à Trinoria dans les profondeurs de la Forêt des Druides, quand le sol lui-même semblait avoir un pouls.
 
@@ -158,7 +158,7 @@ Il s'appelait Oryn. Cinquante ans, ou soixante, l'âge impossible à préciser c
 
 Je le rencontrai dans le Temple de la Flamme Éternelle d'Ardentris — pas pour prier, je n'avais rien à y prier, mais parce que les temples sont des archives : ils conservent la mémoire des villes dans leurs inscriptions, leurs fresques, leurs registres de morts et de naissances. Le temple d'Ardentris était construit directement au-dessus d'une faille canalisée, de sorte que le sol de la nef était tiède sous les pieds et qu'une grille centrale laissait voir, deux mètres en contrebas, la rougeur sourde d'un conduit de lave à basse température.
 
-Oryn officiait une cérémonie de crémation. Une famille d'ouvriers, en demi-cercle, regardait le prêtre déposer ce qui restait d'un corps — un vieux mineur, à en juger par la posture usée des endeuillés — dans une alcôve chauffée à blanc qui le consumerait en quelques heures et dont les cendres seraient transportées à Falnorath pour être jetées dans le cratère sacré.
+Oryn officiait lors d'une cérémonie de crémation. Une famille d'ouvriers, en demi-cercle, regardait le prêtre déposer ce qui restait d'un corps — un vieux mineur, à en juger par la posture usée des endeuillés — dans une alcôve chauffée à blanc qui le consumerait en quelques heures et dont les cendres seraient transportées à Falnorath pour être jetées dans le cratère sacré.
 
 Je m'assis sur un banc à l'écart et attendis.
 

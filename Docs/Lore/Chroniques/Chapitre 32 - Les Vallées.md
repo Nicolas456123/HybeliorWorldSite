@@ -144,7 +144,7 @@ Le silence qui suivit la récitation de Mekh dura plusieurs minutes.
 
 Je ne remplis pas ce silence. Il ne l'attendait pas non plus. C'était le silence de quelqu'un qui vient de déposer quelque chose de lourd et qui laisse l'autre en mesurer le poids.
 
-Je finis par écrire. Je remplis deux pages du cahier d'une écriture serrée, méthodique, cherchant à mettre en ordre ce que j'avais entendu avec ce que je savais déjà — la montée de Vael'Ur qu'avait décrit l'Aînée d'Evertia, la pulsation du Mont Cendra, la sève changée de Sylvara, les créatures de l'abîsse qui remontaient, les Enfants aux Yeux Blancs, les occlusions stellaires, les Profonds qui dans les récits des Anciens correspondaient à quelque chose que le Message de Mirathi avait nommé, dans son propre vocabulaire, d'une façon qui était peut-être la même chose vue d'un angle différent.
+Je finis par écrire. Je remplis deux pages du cahier d'une écriture serrée, méthodique, cherchant à mettre en ordre ce que j'avais entendu avec ce que je savais déjà — la montée de Vael'Ur décrite par l'Aînée d'Evertia, la pulsation du Mont Cendra, la sève changée de Sylvara, les créatures de l'abysse qui remontaient, les Enfants aux Yeux Blancs, les occlusions stellaires, les Profonds qui dans les récits des Anciens correspondaient à quelque chose que le Message de Mirathi avait nommé, dans son propre vocabulaire, d'une façon qui était peut-être la même chose vue d'un angle différent.
 
 Mekh attendit que je fusse à nouveau immobile. Puis il dit :
 
@@ -170,7 +170,7 @@ Je ne dis rien à Orryn de ce à quoi je pensais. Il marchait en silence de tout
 
 Jentaris nous accueillit vers le milieu de l'après-midi.
 
-La ville est exactement comme les descriptions me l'avaient laissé imaginer, et exactement différente de ce que j'avais imaginé, ce qui est la marque des lieux qui ont une présence réelle au-delà de leurs descriptions. Les terrasses de pierre ocre descendant vers le Grand Canyon de l'Écho, les rues étroites, les glyphes gravés sur chaque façade, tout cela correspondait. Ce que les descriptions ne transmettaient pas — ce que les descriptions ne peuvent pas transmettre — c'était le son.
+La ville ressemblait exactement à ce que les descriptions m'avaient laissé imaginer, et pourtant elle en différait dès que j'y posais les yeux, ce qui est la marque des lieux qui ont une présence réelle au-delà de leurs descriptions. Les terrasses de pierre ocre descendant vers le Grand Canyon de l'Écho, les rues étroites, les glyphes gravés sur chaque façade, tout cela correspondait. Ce que les descriptions ne transmettaient pas — ce que les descriptions ne peuvent pas transmettre — c'était le son.
 
 Jentaris est une ville où on entend toujours quelque chose.
 
@@ -302,7 +302,7 @@ Je restai trois jours supplémentaires à Jentaris.
 
 Le troisième jour, Yelthari la Muette me demanda — par les mains de Tirenne — de l'accompagner au bord du Canyon à l'aube.
 
-Nous y allâmes seules toutes les deux. Elle se plaça au bord avec la familiarité de quelqu'un qui a fait ce geste chaque matin depuis plus d'années que j'en aurais pu compter. Elle posa ses deux paumes à plat sur la roche de la paroi — non pas sur le bord, mais sur la face verticale, penché en avant à un angle qui m'aurait rendu nerveux si je n'avais pas senti à sa façon de se tenir qu'elle n'avait aucune peur de tomber, qu'elle était plus ancrée à cette roche que certains hommes ne le sont à leur propre peau.
+Nous y allâmes seuls tous les deux. Elle se plaça au bord avec la familiarité de quelqu'un qui a fait ce geste chaque matin depuis plus d'années que j'en aurais pu compter. Elle posa ses deux paumes à plat sur la roche de la paroi — non pas sur le bord, mais sur la face verticale, penchée en avant à un angle qui m'aurait rendu nerveux si je n'avais pas senti à sa façon de se tenir qu'elle n'avait aucune peur de tomber, qu'elle était plus ancrée à cette roche que certains hommes ne le sont à leur propre peau.
 
 Elle émit un son. Long, grave, une seule fréquence tenue avec une régularité que j'aurais crue impossible pour un corps humain — sans reprendre haleine, sans vacillement, pendant ce qui me parut être plusieurs minutes. Et le Canyon répondit.
 
@@ -320,7 +320,7 @@ Ses mains bougèrent. Tirenne n'était pas là pour traduire. Mais quelque chose
 
 Je partis au matin du quatrième jour.
 
-Orryn me raccompagna jusqu'à la côte d'Elarion où un bateau m'attendait. La traversée de retour serait plus longue — j'avais décidé de prendre un arc plus septentrional pour rejoindre Serenth, l'île sauvage dont les Grottes de Cristal contenaient ce que les Druides de Nylor gardaient fermé. Ce serait le prochain chapitre. Ce serait, peut-être, la chambre scellée. Ce que les Anciens avaient gravé dans les Pierres du Crépuscule pour ceux qui viendraient après eux.
+Orryn me raccompagna jusqu'à la côte d'Elarion où un bateau m'attendait. La traversée de retour serait plus longue — j'avais décidé de suivre un arc plus septentrional pour rejoindre Serenth, l'île sauvage dont les Grottes de Cristal contenaient ce que les Druides de Nylor gardaient fermé. Ce serait le prochain chapitre. Ce serait, peut-être, la chambre scellée. Ce que les Anciens avaient gravé dans les Pierres du Crépuscule pour ceux qui viendraient après eux.
 
 Mais d'abord, la marche jusqu'à la côte, dans le matin frais qui sentait le soufre et le sel.
 

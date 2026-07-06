@@ -62,7 +62,7 @@ Je notai. Je ne dis rien de plus.
 
 Le repas du quatrième soir fut le premier moment où Astravia me parla vraiment.
 
-J'avais trouvé une taverne dans le quartier des non-mages — un endroit sans prétention, sans lumière magique, avec des tables longues et des bancs usés et une cuisine dont les odeurs venaient de la terre plutôt que des cristaux. On y servait un ragoût d'agneau de montagne avec des légumes racines dont j'appris plus tard le nom — la truffe d'altitude, cultivée dans les caves de Brastallia, récoltée à la main par des femmes qui passent leur vie les genoux dans la boue de montagne pendant que les mages flottent au-dessus. Le ragoût était servi dans des bols de grès, avec du pain bis et du sel noir dont je ne sus pas l'origine. La bière était de l'orge fermenté, sans magie, épaisse et honnête.
+J'avais trouvé une taverne dans le quartier des non-mages — un endroit sans prétention, sans lumière magique, avec des tables longues et des bancs usés et une cuisine dont les odeurs venaient de la terre plutôt que des cristaux. On y servait un ragoût d'agneau de montagne avec des légumes racines dont j'appris plus tard le nom — la truffe d'altitude, cultivée dans les caves de Brastallia, récoltée à la main par des femmes qui passent leur vie les genoux dans la boue de montagne pendant que les mages flottent au-dessus. Le ragoût était servi dans des bols de grès, avec du pain bis et du sel noir dont je ne sus pas l'origine. La bière était faite d'orge fermentée, sans magie, épaisse et honnête.
 
 À ma gauche, une famille. Un homme, deux femmes, quatre enfants à des âges variés — deux des enfants montrant déjà les premières lueurs d'aptitude magique dans la façon dont les objets autour d'eux avaient tendance à bouger légèrement sans cause visible, un phénomène que les Astraviens appellent l'éveil précoce et qui dans les familles non-mages est reçu avec un mélange de fierté et de deuil que j'avais du mal à démêler. Fierté parce que l'enfant aura accès à la ville haute. Deuil parce qu'il partira.
 
@@ -94,7 +94,7 @@ Elle dit : *J'ai besoin que vous arrêtiez de poser cette question dans cet ordr
 
 Je lui donnai la pièce. Elle la prit sans me regarder. Elle dit : *Mon frère a écrit dans sa dernière lettre que les pierres de Galdryn pesaient plus lourd qu'avant. Il l'a écrit en marge, comme quelqu'un qui parle de la pluie. Je ne sais pas pourquoi je vous le dis. Vous n'aimerez pas plus l'écouter parce que ce sera moi qui vous l'ai dit.*
 
-Elle avait raison. Je notai la phrase quand même — parce que j'ai noté plus pauvre que cela, et parce que la marge d'une lettre de Galdryn comptait, pour mes raisons à moi, plus que ce qu'elle compterait jamais pour Calenne. C'est cette logique qui me restait coincée dans la gorge en remontant à l'auberge. Je ne la reverrais pas — la quatrième fois, quelques jours plus tard, je passai par l'escalier voisin pour ne pas avoir à choisir entre m'arrêter et passer. C'est tout ce que j'écris sur ce point.
+Elle avait raison. Je notai la phrase quand même — parce que j'ai noté plus pauvre que cela, et parce que la marge d'une lettre de Galdryn comptait, pour mes raisons à moi, plus qu'elle ne compterait jamais pour Calenne. C'est cette logique qui me restait coincée dans la gorge en remontant à l'auberge. Je ne la reverrais pas — la quatrième fois, quelques jours plus tard, je passai par l'escalier voisin pour ne pas avoir à choisir entre m'arrêter et passer. C'est tout ce que j'écris sur ce point.
 
 ---
 
@@ -204,7 +204,7 @@ J'atteignis la chambre au bout de deux heures de descente.
 
 Je l'appelle chambre faute d'un meilleur mot — les cartographes nomment les espaces qu'ils découvrent avec les mots disponibles, quitte à corriger plus tard quand le bon mot arrive. Ce que je trouvai était une cavité naturelle d'une hauteur que ma lanterne n'éclairait pas entièrement — les parois du haut se perdaient dans l'obscurité, et l'obscurité n'était pas vide. Elle était texturée. Des formations de cristal, mais pas de l'aethérite — pas la lueur bleue connue. Des cristaux sombres, presque noirs, d'une espèce que je ne reconnus pas, dont la surface réfléchissait la lumière de ma lanterne d'une façon qui donnait l'impression d'une profondeur intérieure, comme si chaque cristal contenait un espace plus grand que sa propre taille.
 
-Au centre de la chambre, quelque chose que je ne sus pas d'abord regarder directement.
+Au centre de la chambre, quelque chose que je ne parvins pas d'abord à regarder directement.
 
 Non pas parce que c'était éblouissant — c'était presque le contraire. C'était une zone d'obscurité plus dense que l'obscurité environnante, une forme grossièrement circulaire d'un mètre de diamètre environ, posée à même le sol de la chambre, et autour de laquelle les cristaux noirs s'organisaient en concentrations plus denses, comme des témoins autour d'une chose qui les avait rassemblés. Je m'en approchai lentement — ma lanterne brûlait normalement, ma respiration était normale, rien ne changeait dans mon corps. Un Délié dans une zone de magie inversée est un homme ordinaire — et un homme ordinaire peut s'approcher de ce qu'un mage ne peut pas.
 
@@ -254,7 +254,7 @@ L'aethérite est en train de s'épuiser. Ce n'est pas une rumeur — c'est visib
 
 Et à Astravia, sous les mines, j'avais vu une marque dans la roche dont l'allure m'avait rappelé celle de la Carte que je porte.
 
-Mon père Aldric Valthen — dont je dois continuer de ne pas mettre le nom dans ces pages sans prendre le temps de mesurer ce que ce nom y fait depuis qu'il est apparu dans le rêve de Vytharia — mon père est passé dans des mines. Je le sais — ou je le crois, la nuance compte — par certaines pages de son carnet que je relis depuis Vytharia avec d'autres yeux : des observations éparses qui mentionnaient des galeries, des entrées scellées, des roches « qui retiennent ». Lues chacune pour elle-même, ce ne sont que des notes de berger qui cartographie ses pâturages. Lues ensemble, après un an et demi de route, elles dessinent quelque chose d'autre — ou ma propre lecture impose à des pages anodines la figure que mon voyage a fini par produire. Je ne saurais pas trancher.
+Mon père Aldric Valthen — dont je dois continuer de ne pas écrire le nom dans ces pages sans prendre le temps de mesurer ce que ce nom y fait depuis qu'il est apparu dans le rêve de Vytharia — mon père est passé dans des mines. Je le sais — ou je le crois, la nuance compte — par certaines pages de son carnet que je relis depuis Vytharia avec d'autres yeux : des observations éparses qui mentionnaient des galeries, des entrées scellées, des roches « qui retiennent ». Lues chacune pour elle-même, ce ne sont que des notes de berger qui cartographie ses pâturages. Lues ensemble, après un an et demi de route, elles dessinent quelque chose d'autre — ou ma propre lecture impose à des pages anodines la figure que mon voyage a fini par produire. Je ne saurais pas trancher.
 
 Je ne sais pas ce qu'il a vu. Je sais ce que j'ai vu. Je sais que ce que j'ai vu pointait vers Evertia.
 

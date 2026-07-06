@@ -36,7 +36,7 @@ La propriétaire, Orvath, me servit le repas le plus étrange de tout mon voyage
 
 Ce soir-là : réduction de champignons des mines de Pyrendor avec des filaments de cristal soluble. Les géologues les utilisaient comme traceurs dans les failles ; un accident de laboratoire avait révélé qu'en bouillon chaud, ils donnaient une texture impossible. Légèrement craquante. Légèrement lumineuse quand on inclinait le bol vers la fenêtre.
 
-Elle ajouta qu'elle espérait que ça ne me tuerait pas, et qu'à ce jour personne n'en était mort, mais qu'il fallait garder ça à l'esprit.
+Elle ajouta qu'elle espérait que ça ne me tuerait pas, et qu'à ce jour, personne n'en était mort, mais qu'il fallait garder ça à l'esprit.
 
 Je mangeai. C'était excellent. Je notai la texture et la lumière et le fait qu'en Gryndor, même les erreurs sont documentées et deviennent des méthodes.
 
@@ -126,7 +126,7 @@ C'est là que ça changea.
 
 Je n'ai pas de meilleur mot que *superposition*.
 
-Ce que je vécus au centre d'Ordavan était une superposition de deux instants — le mien, présent, matin de printemps en l'an 10 200 de l'Aube, sol de verre et silence et lumière rasante — et un autre. Un autre instant qui n'était pas passé au sens où le passé est révolu. Un autre instant qui était encore présent quelque part, dans une couche de la réalité que la Faille de Tempora avait séparé du cours normal du temps sans l'abolir.
+Ce que je vécus au centre d'Ordavan était une superposition de deux instants — le mien, présent, matin de printemps en l'an 10 200 de l'Aube, sol de verre et silence et lumière rasante — et un autre. Un autre instant qui n'était pas passé au sens où le passé est révolu. Un autre instant qui était encore présent quelque part, dans une couche de la réalité que la Faille de Tempora avait séparée du cours normal du temps sans l'abolir.
 
 Les silhouettes.
 
@@ -238,7 +238,7 @@ Je bus mon thé dans le silence du soir. La mémoire du Fragment — celle des A
 
 La deuxième nuit, allongé dans mon sac sur la roche, je ne dormis pas.
 
-Je repensais aux silhouettes. A la femme avec l'enfant dans les bras — la posture de quelqu'un qui protège, pas de quelqu'un qui fuit. La différence était importante. Ceux d'Ordavan n'avaient pas fui : le déplacement les avait pris dans leur activité quotidienne, dans le geste ordinaire de l'instant. Aucun des gestes que j'avais perçus n'était un geste d'urgence — c'était du bruit de fond humain, le mouvement de gens qui font leur vie sans savoir que leur vie est sur le point d'être extraite de son contexte temporel.
+Je repensais aux silhouettes. À la femme avec l'enfant dans les bras — la posture de quelqu'un qui protège, pas de quelqu'un qui fuit. La différence était importante. Ceux d'Ordavan n'avaient pas fui : le déplacement les avait pris dans leur activité quotidienne, dans le geste ordinaire de l'instant. Aucun des gestes que j'avais perçus n'était un geste d'urgence — c'était du bruit de fond humain, le mouvement de gens qui font leur vie sans savoir que leur vie est sur le point d'être extraite de son contexte temporel.
 
 Tempora les avait pris dans l'ordinaire.
 

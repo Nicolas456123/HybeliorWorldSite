@@ -20,7 +20,7 @@ Six jours de mer m'avaient habitué à un monde sonore réduit à l'essentiel : 
 
 Le bruit de Portharis est indescriptible. Je vais pourtant essayer, parce que ma plume est ma seule façon de tenir le monde à une distance respectable.
 
-C'est d'abord un rugissement de fond, comme si la mer elle-même se faisait ville — permanent, sourd, constitué de milliers de sons distincts que l'oreille refuse d'individualiser et qu'elle fond en une masse unique. Dessus, des voix. Des dizaines de langues, dont beaucoup que je ne reconnais pas, dont certaines que j'identifie — le kharaziri dur et roulant que je parle, le solénien chantant que j'ai appris en marchant à travers Galenor, quelque chose qui ressemble à du venterien, d'autres inflexions auxquelles je ne sais pas encore mettre un nom. Des cris de marchands, des ordres lancés à des débardeurs, des négociations menées fort comme si le volume était une tactique commerciale, des rires brefs, des disputes réglées en quinze secondes avec l'efficacité de peuples habitués à ne pas perdre de temps.
+C'est d'abord un rugissement de fond, comme si la mer elle-même se faisait ville — permanent, sourd, constitué de milliers de sons distincts que l'oreille refuse d'individualiser et qu'elle fond en une masse unique. Dessus, des voix. Des dizaines de langues, dont beaucoup que je ne reconnais pas, dont certaines que j'identifie — le kharaziri dur et roulant que je parle, le solénien chantant que j'ai appris en marchant à travers Galenor, quelque chose qui ressemble à du ventérien, d'autres inflexions auxquelles je ne sais pas encore mettre un nom. Des cris de marchands, des ordres lancés à des débardeurs, des négociations menées fort comme si le volume était une tactique commerciale, des rires brefs, des disputes réglées en quinze secondes avec l'efficacité de peuples habitués à ne pas perdre de temps.
 
 Puis les odeurs — et là encore, la quantité écrase la qualité. Les épices d'abord, une muraille olfactive de cannelle et de poivre et de quelque chose de floral que je ne connais pas. Sous les épices, l'odeur de goudron et de sel qui ne quitte aucun port du monde. Puis quelque chose d'animal — cuir, sueur, crottin de cheval venu des docks de chargement intérieurs. Et par-dessus tout cela, intermittent, le pain qui cuit quelque part où quelqu'un a la sagesse de maintenir une boulangerie ouverte quand tout le reste de la ville ne pense qu'à vendre.
 
@@ -56,7 +56,7 @@ Ce que je notais, essentiellement, c'était l'argent.
 
 L'argent à Tyndara n'est pas caché comme il peut l'être à Kharazir — où la richesse se porte dans les broderies et les parfums mais s'expose avec discrétion, parce que la richesse trop visible attire la jalousie des Maîtres. Ici, l'argent s'expose. Il s'expose dans les façades des comptoirs, dans la qualité des vêtements des marchands, dans les gondoles décorées qui glissent sur les canaux intérieurs de la ville, dans la nourriture servie aux tables extérieures des restaurants de la grande rue. Il s'expose avec la tranquillité de quelque chose qui ne doute pas de sa propre légitimité.
 
-Mais l'argent exposé n'est que la surface. En-dessous, j'avais rapidement compris que Portharis fonctionnait selon des règles que je ne voyais pas encore clairement, des lignes de force que l'œil du passant ne suit pas naturellement.
+Mais l'argent exposé n'est que la surface. En dessous, j'avais rapidement compris que Portharis fonctionnait selon des règles que je ne voyais pas encore clairement, des lignes de force que l'œil du passant ne suit pas naturellement.
 
 Ce fut Maldrix qui commença à me les montrer.
 
@@ -126,7 +126,7 @@ Il n'avait pas dit plus. Je n'avais pas insisté. Mais l'usage portuaire de ce n
 
 Ce que j'ai vu à Portharis, ce que j'ai observé en marchant ses rues et en mangeant dans ses tavernes, c'est un monde fondé sur une axiologie simple : ce qui a un prix a une valeur ; ce qui n'a pas de prix n'a pas d'existence légale.
 
-Il y a une beauté mathématique là-dedans, que je comprends en tant qu'ancien homme de mesures. Et il y a une violence sourde qui m'a pris plusieurs jours à formuler.
+Il y a une beauté mathématique là-dedans, que je comprends en tant qu'ancien homme de mesures. Et il y a une violence sourde qu'il m'a fallu plusieurs jours pour formuler.
 
 Voici ce que je crois comprendre : à Tyndara, la honte est relative au résultat. Un marchand qui a réussi par des moyens douteux est respecté parce qu'il a réussi — les moyens appartiennent à l'histoire interne, et l'histoire interne n'est pas publique. Un marchand qui a échoué par des moyens exemplaires est méprisé parce qu'il a échoué. Ce n'est pas une société du vice ; c'est une société du résultat. Et le résultat, à Tyndara, se mesure en une seule unité.
 

@@ -18,9 +18,9 @@ Le silence de Baelor n'est pas le silence de Nysaria.
 
 Je veux commencer par cette distinction parce qu'elle m'a occupé tout le temps de la traversée — dix jours de mer entre Lunasar et Baelor, dix jours pendant lesquels j'avais besoin de penser à quelque chose de précis pour éviter de penser à la carte de mon père, et la nature du silence me parut un sujet suffisamment exigeant pour occuper dix jours.
 
-Le silence de Nysaria est dense. Il a une texture, une présence, quelque chose qui résiste si on essaie de le traverser avec du bruit — on sent que le bruit qu'on ferait n'irait pas loin, qu'il serait absorbé, qu'il n'était pas prévu. C'est le silence d'un espace qui a décidé de ne pas inclure le son.
+Le silence de Nysaria est dense. Il a une texture, une présence, quelque chose qui résiste si on essaie de le traverser avec du bruit — on sent que le bruit qu'on ferait n'irait pas loin, qu'il serait absorbé, qu'il n'aurait pas sa place. C'est le silence d'un espace qui a décidé de ne pas inclure le son.
 
-Le silence de Baelor, je l'entendis dès que le navire approcha des falaises noires du nord, est différent. C'est un silence voulu par des êtres vivants, maintenu par des êtres vivants, entretenu comme on entretient un feu — non pas en l'alimentant, mais en s'assurant qu'il ne s'éteint pas. Ce n'est pas l'absence du son. C'est le son de la décision de ne pas faire de son. Il y a une différence, et elle est audible.
+Le silence de Baelor, je l'entendis dès que le navire approcha des falaises noires du nord, est différent. C'est un silence voulu par des êtres vivants, maintenu par des êtres vivants, entretenu comme on entretient un feu — non pas en l'alimentant, mais en s'assurant qu'il ne s'éteint pas. Ce n'est pas l'absence de son. C'est le son de la décision de ne pas faire de son. Il y a une différence, et elle est audible.
 
 Je n'avais pas prévu d'entendre cela depuis la mer.
 
@@ -64,7 +64,7 @@ L'amulette pulsait. Moins forte qu'à Nysaria, moins discrète qu'en mer. Une pu
 
 Le lendemain, un moine différent vint me chercher.
 
-Plus âgé — le crâne rasé de frais, blanc dessous, une façon de se déplacer qui avait l'économie absolue des gens dont chaque geste a été épuré de tout ce qui ne lui était pas nécessaire. Il me conduisit par des escaliers descendants que je ne m'étais pas attendu à trouver — le complexe de Baeloris allait en profondeur autant qu'en hauteur, et les niveaux inférieurs avaient une qualité différente : plus froide, plus silencieuse encore, avec cette lumière des espaces souterrains où la roche elle-même semble légèrement phosphorescente, comme si la pierre retenait un peu de toute la lumière que des générations de bougies lui avaient donnée.
+Plus âgé — le crâne rasé de frais, blanc dessous, une façon de se déplacer qui avait l'économie absolue des gens dont chaque geste a été épuré de tout ce qui ne lui était pas nécessaire. Il me conduisit par des escaliers qui descendaient, chose que je ne m'étais pas attendu à trouver — le complexe de Baeloris allait en profondeur autant qu'en hauteur, et les niveaux inférieurs avaient une qualité différente : plus froide, plus silencieuse encore, avec cette lumière des espaces souterrains où la roche elle-même semble légèrement phosphorescente, comme si la pierre retenait un peu de toute la lumière que des générations de bougies lui avaient donnée.
 
 Il me conduisit à une salle de méditation — circulaire, assez grande pour vingt personnes, actuellement vide. Des coussins disposés en cercle sur le sol de roche noire. Au centre, rien. Un espace.
 
@@ -132,7 +132,7 @@ Il posa le pinceau. Il replia le parchemin. Il me le tendit avec le soin dont on
 
 Je le pris. Je le dépliai.
 
-Le mot était en galenorien — l'Abbé avait choisi de ne pas me forcer à déchiffrer une langue que je n'aurais peut-être pas sue lire, et ce choix me dit quelque chose sur le soin mis dans ce geste. Un seul mot. Écrit d'une main qui n'avait peut-être pas tenu de plume depuis des années mais dont la précision n'avait pas souffert de l'absence.
+Le mot était en galenorien — l'Abbé avait choisi de ne pas me forcer à déchiffrer une langue que je n'aurais peut-être pas su lire, et ce choix me dit quelque chose sur le soin mis dans ce geste. Un seul mot. Écrit d'une main qui n'avait peut-être pas tenu de plume depuis des années mais dont la précision n'avait pas souffert de l'absence.
 
 *Dessous.*
 
@@ -200,7 +200,7 @@ Je n'avais pas reculé — ou pas de la même façon. Je me demandai s'il y avai
 
 Le cycle pré-Arrachement. Les ancêtres d'Ulinor en parlaient comme d'un fait, pas comme d'une mythologie. Quelque chose qui s'était passé. Quelque chose qui se repasse.
 
-Une autre possibilité s'ouvrait : ce qui s'était passé ne s'arrêtait jamais tout à fait. *Se continue* serait peut-être plus juste que *se repasse*. L'Arrachement n'aurait pas interrompu ce qui était en cours ; il l'aurait seulement ralenti, comme on ralentit une masse déjà lancée. Ça ne s'arrête pas. Ça prend plus de temps.
+Une autre possibilité s'ouvrait : ce qui s'était passé ne s'arrêtait jamais tout à fait. *Continue* serait peut-être plus juste que *se repasse*. L'Arrachement n'aurait pas interrompu ce qui était en cours ; il l'aurait seulement ralenti, comme on ralentit une masse déjà lancée. Ça ne s'arrête pas. Ça prend plus de temps.
 
 Sept cent quatre-vingt-dix-neuf jours depuis Rukhsar, et je découvrais une explication possible à mon départ.
 

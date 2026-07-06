@@ -17,13 +17,13 @@ needs_review_for: []
 
 La traversée depuis Valoria a duré dix-neuf jours.
 
-Dix-neuf jours de mer, dont sept dans une houle assez haute pour que Pardine refuse de manger et que moi-même je perde tout intérêt pour la nourriture. Le capitaine du vaisseau, Dorveth de Yaltar, trapu comme un baril et sec d'humour, m'avait prévenu que la mer entre Galenor et Alkaran était capricieuse en cette saison. Il aurait pu dire hostile. Il aurait pu dire que le vent vient de trois directions en même temps et que les vagues ont quelque chose de personnel.
+Dix-neuf jours de mer, dont sept dans une houle assez haute pour que Pardine refuse de manger et que moi-même je perde tout intérêt pour la nourriture. Le capitaine du vaisseau, Dorveth de Yaltar, trapu comme un baril et doté d'un humour sec, m'avait prévenu que la mer entre Galenor et Alkaran était capricieuse en cette saison. Il aurait pu dire hostile. Il aurait pu dire que le vent vient de trois directions en même temps et que les vagues ont quelque chose de personnel.
 
 Je suis arrivé à Yaltar avec un estomac vide, des genoux faibles et la certitude que je ne possède aucun don naturel pour la navigation. Mais j'avais mes cartes — soigneusement enroulées dans leur tube de cuir ciré, serrées dans ma sacoche contre mon flanc à chaque moment de la traversée — et Pardine, qui avait survécu malgré ses réticences alimentaires, et une curiosité qui, je le constate avec une certaine surprise, avait survécu elle aussi à la houle et à l'inconfort.
 
 Galenor est derrière moi. Mon premier continent est derrière moi.
 
-Je ne savais pas que ce serait aussi étrange comme pensée. J'avais quitté Kharazir sans regarder en arrière — ou plutôt en regardant en arrière en prétendant le contraire. J'avais traversé sept nations, dormi dans des lits inconfortables, des fenaisons, une grotte trinorienne odorante, et le pont d'un navire dont les cordages chantaient dans le vent des lamentations de chanvre mouillé. Et maintenant, debout sur le quai de pierre de Yaltar, une roche immobile sous les pieds, je pensais : un continent étranger.
+Je ne savais pas que ce serait aussi étrange comme pensée. J'avais quitté Kharazir sans regarder en arrière — ou plutôt en regardant en arrière en prétendant le contraire. J'avais traversé sept nations, dormi dans des lits inconfortables, des granges à foin, une grotte trinorienne odorante, et sur le pont d'un navire dont les cordages chantaient dans le vent des lamentations de chanvre mouillé. Et maintenant, debout sur le quai de pierre de Yaltar, une roche immobile sous les pieds, je pensais : un continent étranger.
 
 Alkaran.
 
@@ -81,7 +81,7 @@ Corven Asheld occupait un atelier au bas du promontoire, à deux niveaux de la f
 
 Il lut la lettre de Lysa, la replia soigneusement, et dit : « Un cartographe. Intéressant. Nous en avons besoin. »
 
-Je lui demandai pour quoi.
+Je lui demandai pour faire quoi.
 
 Il réfléchit un moment — non pas pour trouver la réponse, je crois, mais pour décider de quelle partie de la réponse il voulait me donner. « Les Archives d'Altram ont des lacunes dans leurs cartes souterraines. Les galeries des mines de Martelios descendent plus profondément qu'on ne les a jamais tracées correctement. Si tu travailles bien, nous pouvons peut-être t'y envoyer. »
 

@@ -16,7 +16,7 @@ needs_review_for: []
 
 L'île nous vit avant que nous la voyions.
 
-Je ne dis pas cela comme une métaphore. Je le dis comme une observation empirique, de la même façon dont je note les courants et les températures et les formations géologiques — parce que ce qui arriva sur le pont du navire quand Evertia apparut à l'horizon était empiriquement observable. Les oiseaux changèrent de comportement. Ils n'étaient pas nombreux — quelques fous de Bassan qui nous suivaient depuis Solmaris, habitués au sillage des navires pour les poissons qu'il fait remonter —, et à une certaine distance de la côte d'Evertia, ils s'arrêtèrent. Ils continuèrent de voler, de planer, mais leurs trajectoires changèrent — ils cessèrent de suivre le navire et se mirent à orbiter à la même distance, comme si une ligne invisible les empêchait d'aller plus loin.
+Je ne dis pas cela comme une métaphore. Je le dis comme une observation empirique, de la même façon que je note les courants et les températures et les formations géologiques — parce que ce qui arriva sur le pont du navire quand Evertia apparut à l'horizon était empiriquement observable. Les oiseaux changèrent de comportement. Ils n'étaient pas nombreux — quelques fous de Bassan qui nous suivaient depuis Solmaris, habitués au sillage des navires pour les poissons qu'il fait remonter —, et à une certaine distance de la côte d'Evertia, ils s'arrêtèrent. Ils continuèrent de voler, de planer, mais leurs trajectoires changèrent — ils cessèrent de suivre le navire et se mirent à orbiter à la même distance, comme si une ligne invisible les empêchait d'aller plus loin.
 
 Le capitaine de ce navire — un marin de Kethvar plus taciturne qu'Orrath, du genre qui parle peu et observe tout — m'avait prévenu, avant l'embarquement, de certaines réalités pratiques de l'approche d'Evertia. Ne pas tenter de débarquer ailleurs qu'à Valmora. Ne pas approcher la côte brumale du nord. Ne pas faire de gestes brusques lors de l'inspection des Gardiens. Et — il l'avait dit avec la spécificité d'un homme qui a vu quelque chose et qui ne veut pas que vous le voyiez aussi — ne pas regarder trop longtemps la forêt depuis le pont.
 
@@ -62,7 +62,7 @@ Je veux dire par là que le sentier qui conduisait du ravin de Valmora vers l'in
 
 Le druide marchait devant moi sans se retourner. Il n'offrait pas d'explication. Je ne demandais pas.
 
-Les arbres. Je n'avais pas de termes assez ordinaires pour les décrire sans tomber dans l'emphase que les voyageurs non cartographes utilisent à la place de la précision. Alors je notai des mesures : les troncs de la forêt intérieure avaient des diamètres de trois à sept mètres dans les zones que nous traversâmes. Les canopées formaient un niveau à peut-être cinquante mètres de hauteur qui filtrait la lumière en une pénombre verte d'une qualité particulière — pas sombre, mais sans direction, une lumière qui arrivait de partout également et qui supprimait les ombres. Dans cette pénombre sans ombre, les reliefs du sol étaient difficiles à juger. J'avançai avec la prudence d'un homme qui ne peut pas se fier entièrement à ses yeux.
+Les arbres. Je n'avais pas de termes assez ordinaires pour les décrire sans tomber dans l'emphase que les voyageurs non-cartographes utilisent à la place de la précision. Alors je notai des mesures : les troncs de la forêt intérieure avaient des diamètres de trois à sept mètres dans les zones que nous traversâmes. Les canopées formaient un niveau à peut-être cinquante mètres de hauteur qui filtrait la lumière en une pénombre verte d'une qualité particulière — pas sombre, mais sans direction, une lumière qui arrivait de partout également et qui supprimait les ombres. Dans cette pénombre sans ombre, les reliefs du sol étaient difficiles à juger. J'avançai avec la prudence d'un homme qui ne peut pas se fier entièrement à ses yeux.
 
 Et les sons.
 
@@ -98,7 +98,7 @@ Ce qui suivit fut l'une des conversations les plus importantes de mon voyage, et
 
 La plus âgée des deux femmes — celle que les autres appelaient simplement l'Aînée, sans autre nom — parla la première. Elle dit que ma question avait été posée correctement. Non pas *si* les esprits s'étaient tus, mais *depuis quand* — ce qui présupposait que le fait était connu, ce qui était vrai, et ce qui signifiait que j'étais quelqu'un qui avait fait son travail avant de venir.
 
-Elle dit que le Silence des Esprits — le terme officiel dans les archives du Cercle — avait commencé à se manifester il y a environ trois ans dans l'île. Progressivement. Comme une extinction de voix qui ne s'éteignaient pas toutes en même temps mais s'assombrissaient l'une après l'autre, une par une, avec des intervalles de jours ou de semaines. Ce qui rendait l'événement plus difficile à documenter — on pouvait toujours espérer, pour chaque esprit qui s'était tu, qu'il se tairait temporairement, qu'il reviendrait. Et certains revinrent. La plupart ne revinrent pas.
+Elle dit que le Silence des Esprits — le terme officiel dans les archives du Cercle — avait commencé à se manifester il y a environ trois ans dans l'île. Progressivement. Comme des voix qui ne s'éteignaient pas toutes en même temps mais s'assombrissaient l'une après l'autre, une par une, avec des intervalles de jours ou de semaines. Ce qui rendait l'événement plus difficile à documenter — on pouvait toujours espérer, pour chaque esprit qui s'était tu, qu'il se tairait temporairement, qu'il reviendrait. Et certains revinrent. La plupart ne revinrent pas.
 
 Le décompte actuel : sur les deux cent dix-sept esprits-lieux documentés dans l'île — les esprits des arbres majeurs, des sources, des formations rocheuses, des creux de vallée qui avaient une présence identifiable depuis des générations de druides —, cent quatre-vingt-neuf étaient muets. Vingt-huit encore actifs, mais atténués, comme entendus à travers une paroi épaisse.
 
@@ -112,7 +112,7 @@ Je cessai d'écrire.
 
 Je laissai mes mains s'immobiliser sur mon cahier.
 
-*Ils arrivent par le dessous.* Les mêmes mots. Les mots que j'avais entendus pour la première fois rapportés d'une bouche d'enfant blanc-yeux à Caeloria, dans les notes d'un marchand vytharien, dans les rumeurs que j'avais commencé à collecter depuis le début. Les mots que les druides d'Evertia rapportent avoir reçus avant le silence. Une formule qui revient — toujours la même, dans des bouches qui ne se sont pas concertées. Cela en dit quelque chose ; cela ne dit pas tout.
+*Ils arrivent par le dessous.* Les mêmes mots. Les mots que j'avais entendus pour la première fois dans la bouche d'un enfant aux yeux blancs à Caeloria, dans les notes d'un marchand vytharien, dans les rumeurs que j'avais commencé à collecter depuis le début. Les mots que les druides d'Evertia rapportent avoir reçus avant le silence. Une formule qui revient — toujours la même, dans des bouches qui ne se sont pas concertées. Cela en dit quelque chose ; cela ne dit pas tout.
 
 Je levai les yeux. L'Aînée me regardait avec l'expression de quelqu'un qui attendait cette réaction.
 
@@ -128,7 +128,7 @@ Ce qui vint ensuite fut moins une conversation qu'un inventaire partagé.
 
 Je leur dis ce que j'avais vu. Pas tout, pas dans l'ordre — je leur donnai les points de convergence : les esprits de Warenthor en Ilthara, muets depuis six mois. Les chevaux de Lythar qui refusaient de traverser les dépressions de terrain. Les racines du Bosquet Primordial d'Ackerna qui saignaient. Le sol vitrifié d'Ordavan. Le Fragment Zéro des Archives d'Altram. La pulsation du Mont Cendra que j'avais sentie moi-même — moi, Délié — dans ma poitrine sur le premier plateau. L'enfant aux yeux blancs de Mylaris et ses mots.
 
-Ils m'écoutèrent. La seconde femme, qui n'avait pas encore parlé, prenait des notes sur une plaque de bois avec un poinçon. Je remarquai que sa façon d'écrire ne ressemblait pas aux systèmes alphabétiques que je connaissais — des symboles fluides, courbes, peut-être les glyphes druidiques que les textes mentionnaient mais que personne d'extérieur ne lisait.
+Ils m'écoutèrent. La seconde femme, qui n'avait pas encore parlé, prenait des notes sur une plaque de bois avec un poinçon. Je remarquai que sa façon d'écrire ne ressemblait pas aux systèmes alphabétiques que je connaissais — des symboles fluides et courbes, peut-être les glyphes druidiques que les textes mentionnaient mais que personne d'extérieur ne lisait.
 
 Quand je m'arrêtai, l'Aînée dit : *Ce que vous décrivez est une carte.*
 
@@ -180,7 +180,7 @@ Alors ce que j'avais vu à Ordavan ne serait pas une anomalie locale. La pulsati
 
 Les fragments tenaient ensemble. Une cause possible — Vael'Ur, ou autre chose que personne n'avait encore su nommer — s'éveillerait. Pas d'un coup. Pas brutalement. Comme quelque chose de très grand dont le réveil serait lui-même un processus. J'en aurais traversé le début sans le reconnaître.
 
-C'est la figure qui se dessine si je tire les lignes entre les points. Mais le cartographe en moi se rappelle ce qu'il a appris à vingt ans : trois points forment une ligne si on le veut. Plusieurs autres figures restent compatibles avec les mêmes données. Je note la mienne. Je laisse les autres possibles.
+C'est la figure qui se dessine si je tire les lignes entre les points. Mais le cartographe en moi se souvient de ce qu'il a appris à vingt ans : trois points forment une ligne si on le veut. Plusieurs autres figures restent compatibles avec les mêmes données. Je note la mienne. Je laisse les autres possibles.
 
 *Ils arrivent par le dessous*, disent les récits — répétés par des bouches qui ne se sont pas concertées.
 
@@ -192,7 +192,7 @@ Je notai cela dans la marge de mon cahier avec deux traits en dessous.
 
 Le lendemain, l'Aînée m'accorda deux heures supplémentaires.
 
-Elle me parla du Rota Mundi — la religion du Cycle, dont je ne connaissais que des versions approximatives. Pour Evertia, le cycle n'était pas seulement saisonnier ni seulement cosmique. Il incluait les profondeurs. Ce qui descend reviendrait. Ce qui dort se réveillerait. Ce qui s'est retiré se représenterait. *C'est notre école*, précisa-t-elle. *Les théologiens du continent nous le contestent.*
+Elle me parla de la Rota Mundi — la religion du Cycle, dont je ne connaissais que des versions approximatives. Pour Evertia, le cycle n'était pas seulement saisonnier ni seulement cosmique. Il incluait les profondeurs. Ce qui descend reviendrait. Ce qui dort se réveillerait. Ce qui s'est retiré se représenterait. *C'est notre école*, précisa-t-elle. *Les théologiens du continent nous le contestent.*
 
 La question n'était donc plus seulement de savoir si quelque chose revenait. Elle devenait plus difficile : que pourraient faire les êtres de surface — humains, esprits, arbres, mers — pendant un tel retour ? Le cycle permettait-il une intervention, ou fallait-il seulement le subir ?
 
@@ -200,7 +200,7 @@ La question n'était donc plus seulement de savoir si quelque chose revenait. El
 
 Je lui dis que les inscriptions de Kharazir utilisaient le même mot. Ancrages. Déliés. Ceux dont le lien est d'une autre nature.
 
-Elle me regarda avec l'expression de quelqu'un qui connecte quelque chose à quelque chose d'autre. Elle dit : *Vous avez senti la pulsation du Mont Cendra.*
+Elle me regarda avec l'expression de quelqu'un qui relie une chose à une autre. Elle dit : *Vous avez senti la pulsation du Mont Cendra.*
 
 *Oui.*
 

@@ -30,7 +30,7 @@ Je vais écrire ici ce que je peux tenir sans me mentir. Pas seulement ce que je
 
 Elles sont reliées par le dessous. Le réseau de tunnels que j'ai cartographié sous Kharazir pointe vers le nord, vers Cestra, vers Jumeau. Ce réseau n'est pas une anomalie locale. C'est une infrastructure — une architecture souterraine à l'échelle continentale, construite par une civilisation qui existait avant l'Arrachement, quand les terres actuellement séparées formaient encore un ensemble, et qui avait les moyens de creuser ou de sculpter ou de *penser* à cette échelle.
 
-*Troisième point. Le réseau n'est pas local.* Les galeries sous Kharazir. Les structures sous le glacier de Jumeau. Il y en a d'autres — j'en ai vu des traces, des indices, des rumeurs que je n'avais pas reliées à cet ensemble parce que je n'avais pas encore le cadre pour les comprendre. La faille d'Ordavan, qui ne correspond à aucune géologie connue et que les géomanciens de plusieurs continents ont cataloguée sans l'expliquer. Les chambres sous le temple de Nysaria, que le grand prêtre m'avait laissé entrevoir avant de refermer la porte avec le visage de quelqu'un qui regrettait déjà sa franchise. Les anomalies magnétiques que les navigateurs signalent dans des zones de haute mer qui ne devraient abriter rien — des zones qui, si on les porte sur une carte et qu'on les relie, forment des lignes.
+*Troisième point. Le réseau n'est pas local.* Les galeries sous Kharazir. Les structures sous le glacier de Jumeau. Il y en a d'autres — j'en ai vu des traces, des indices, des rumeurs que je n'avais pas reliées à cet ensemble parce que je n'avais pas encore le cadre pour les comprendre. La faille d'Ordavan, qui ne correspond à aucune géologie connue et que les géomanciens de plusieurs continents ont cataloguée sans l'expliquer. Les chambres sous le temple de Nysaria, que le grand prêtre m'avait laissé entrevoir avant de refermer la porte avec le visage de quelqu'un qui regrettait déjà sa franchise. Les anomalies magnétiques que les navigateurs signalent dans des zones de haute mer qui ne devraient rien abriter — des zones qui, si on les porte sur une carte et qu'on les relie, forment des lignes.
 
 Des lignes qui passent toutes sous les mêmes points.
 
@@ -106,7 +106,7 @@ Ce n'était pas une question. Je lui dis que oui.
 
 Il hocha la tête. La mer de ce côté-là était d'un gris bleu profond, sans vague, avec une surface qui ressemblait à de la peau plutôt qu'à de l'eau — quelque chose de vivant qui respirait lentement.
 
-*« Mon grand-père navigait sur ces routes au temps où les boussoles ne déviaient pas encore. Il disait que les anomalies magnétiques commençaient à se multiplier depuis trente ans environ. D'abord autour de Cestra. Puis dans la haute mer du nord. Maintenant dans des zones qui n'avaient jamais posé de problème. »*
+*« Mon grand-père naviguait sur ces routes au temps où les boussoles ne déviaient pas encore. Il disait que les anomalies magnétiques commençaient à se multiplier depuis trente ans environ. D'abord autour de Cestra. Puis dans la haute mer du nord. Maintenant dans des zones qui n'avaient jamais posé de problème. »*
 
 Il marqua une pause.
 
@@ -150,9 +150,9 @@ Je partis de la sixième, la plus brillante, et je plaçai mentalement la septi�
 
 J'aurais pu me tromper. La nuit de mer déforme les perceptions — c'est connu, documenté, les marins en parlent depuis des siècles. Mais j'ai noté ce que j'avais vu avec la précision que je réservais aux faits, et non avec l'astérisque que je réservais aux suppositions.
 
-Ce que je savais maintenant, complet pour la première fois, tenait dans les dix-sept cahiers de mon sac. La carte que j'avais dressée n'était pas une carte des terres. C'était une carte des connexions — entre les mystères, entre les lieux, entre les langues mortes et les langues vivantes, entre les esprits qui fuyaient et la chose qui montait, entre les portails qui s'ouvraient et les routes qui se rouvraient.
+Ce que je savais maintenant tenait, pour la première fois, dans les dix-sept cahiers de mon sac. La carte que j'avais dressée n'était pas une carte des terres. C'était une carte des connexions — entre les mystères, entre les lieux, entre les langues mortes et les langues vivantes, entre les esprits qui fuyaient et la chose qui montait, entre les portails qui s'ouvraient et les routes qui se rouvraient.
 
-Mon père avait fait ce chemin avant moi. Il avait probablement dressé la même carte — la sienne, dans ses deux carnets, avec son écriture plus appuyée aux consonnes et plus hésitante aux virgules. Et il avait trouvé le portail sous le Mont Jumeau, et il était peut-être passé de l'autre côté.
+Mon père avait fait ce chemin avant moi. Il avait probablement dressé la même carte — la sienne, dans ses deux carnets, avec son écriture plus appuyée aux consonnes et plus hésitante aux virgules. Il avait trouvé le portail sous le Mont Jumeau, et il était peut-être passé de l'autre côté.
 
 Je n'étais pas prêt à passer de l'autre côté. Pas encore — pas sans avoir d'abord déposé ce que je savais là où d'autres pourraient le trouver, si quelque chose m'arrivait de l'autre côté. Une carte n'a de valeur que si quelqu'un d'autre peut la lire.
 

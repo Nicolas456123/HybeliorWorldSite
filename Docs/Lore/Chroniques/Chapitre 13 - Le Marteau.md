@@ -20,7 +20,7 @@ Trois jours avant que Velithar apparaisse à l'horizon, le vent changea. Il n'ap
 
 Puis la côte est apparue.
 
-Je m'attendais à des falaises, à des dents de roc, à des criques, peut-être aux tours blanches d'un phare. La côte de Mosrack était autre chose. Elle ne cherchait pas à être belle. Elle ne cherchait pas du tout. Elle servait un but visible à des lieues : chantiers navals, carcasses de coques, grues de bois et de fer, colonnes de fumée. Elles montaient droites dans l'air calme du matin, assez nombreuses pour former un nuage suspendu qui n'avait rien à voir avec le brouillard marin.
+Je m'attendais à des falaises, à des dents de roc, à des criques, peut-être aux tours blanches d'un phare. La côte de Mosrack était autre chose. Elle ne cherchait pas à être belle. Elle ne cherchait pas du tout. Elle servait un but visible à des lieues : chantiers navals, carcasses de coques, grues de bois et de fer, colonnes de fumée. Ces dernières montaient droites dans l'air calme du matin, assez nombreuses pour former un nuage suspendu qui n'avait rien à voir avec le brouillard marin.
 
 Velithar.
 
@@ -42,7 +42,7 @@ J'aurais voulu partager sa conviction.
 
 Le bureau des douanes de Velithar occupait un bâtiment de pierre noire au bord du quai, carré et massif comme tout le reste ici. Pas d'enseigne, pas d'ornement, seulement le symbole de Mosrack gravé dans le linteau : un marteau croisé sur une enclume. Il y avait une queue. Des marchands étrangers, quelques ingénieurs, une délégation en vêtements trop soignés pour que la poussière de voyage les rende ordinaires.
 
-L'officier de douane était une femme d'une quarantaine d'années, large d'épaules, avec la charpente que je retrouverais ensuite chez presque tous les gens de Mosrack. Elle portait l'uniforme de la garde de Velithar comme une seconde peau. La plaque sur son bureau disait : Commandante Orryn. Elle ne se présenta pas. Elle demanda mon nom, ma provenance, mon métier, ma destination, et la durée prévue de mon séjour.
+L'officière de douane était une femme d'une quarantaine d'années, large d'épaules, avec la charpente que je retrouverais ensuite chez presque tous les gens de Mosrack. Elle portait l'uniforme de la garde de Velithar comme une seconde peau. La plaque sur son bureau disait : Commandante Orryn. Elle ne se présenta pas. Elle demanda mon nom, ma provenance, mon métier, ma destination, et la durée prévue de mon séjour.
 
 Cartographe. Origine : Kharazir, exil actif. Destination : Folgrad, pour observer. Durée : indéterminée.
 
@@ -68,7 +68,7 @@ Les auberges de Velithar servent une cuisine de forge : viande saisie sur plaque
 
 Ce n'est pas mauvais. C'est honnête d'une façon que la cuisine de Fablioris, avec ses entrelacs de saveurs et ses présentations savantes, ne pouvait pas revendiquer. La nourriture de Mosrack ne cherche pas à vous convaincre de quoi que ce soit. Elle nourrit. C'est tout ce qu'elle fait, et elle le fait bien.
 
-À ma table ce soir-là, un homme que j'avais remarqué dans la queue des douanes — un ingénieur à en juger par ses instruments et sa façon de regarder les charpentes du bâtiment avec cet œil professionnel qui ne se repose jamais. Il se présenta comme Gorven, de la région de Camord, ingénieur de forge en déplacement pour une consultation à Velithar. Je lui demandai pour quoi. Il dit — avec la franchise qui semblait être ici une politesse et non pas une incivilité : « Je ne vous le dirai pas. »
+À ma table ce soir-là, un homme que j'avais remarqué dans la queue des douanes — un ingénieur à en juger par ses instruments et sa façon de regarder les charpentes du bâtiment avec cet œil professionnel qui ne se repose jamais. Il se présenta comme Gorven, de la région de Camord, ingénieur de forge en déplacement pour une consultation à Velithar. Je lui demandai pour quelle raison. Il dit — avec la franchise qui semblait être ici une politesse et non pas une incivilité : « Je ne vous le dirai pas. »
 
 J'appréciai la franchise. Nous bûmes en silence pendant un moment, et puis il demanda d'où je venais et ce que je faisais.
 
@@ -164,7 +164,7 @@ C'est Thedek qui m'emmena au temple du Jugement de Fer le troisième jour.
 
 Pas pour assister à un jugement — il n'y en avait pas ce jour-là — mais pour que je comprenne quelque chose à la Lex Petra dans sa version mosrackienne, qui n'était pas celle de Valoria. À Valoria, la Lex Petra était une loi des pierres ancestrales et du témoignage public. À Mosrack, la même religion avait pris une forme différente, aussi radicalement différente que deux cousins issus d'un ancêtre commun qui n'ont plus rien en commun sauf le nom.
 
-Le temple n'était pas un bâtiment de culte au sens où je l'entendais. C'était une salle — large, haute, aux murs de pierre brute non taillée intentionnellement brute, car à Mosrack la pierre non transformée est le matériau sacré, ce sur quoi repose tout le reste —, avec au centre une série d'enclumes. Pas une. Six enclumes, de tailles différentes, disposées en cercle. Sur chacune, les marques des Serments du Marteau passés — chaque serment de soldat laissait une empreinte dans le métal de l'enclume, et l'accumulation de ces empreintes sur des décennies avait donné aux surfaces une texture particulière, ondulée, dense, comme une topographie de métal.
+Le temple n'était pas un bâtiment de culte au sens où je l'entendais. C'était une salle — large, haute, aux murs de pierre non taillée, car à Mosrack la pierre non transformée est le matériau sacré, ce sur quoi repose tout le reste —, avec au centre une série d'enclumes. Pas une. Six enclumes, de tailles différentes, disposées en cercle. Sur chacune, les marques des Serments du Marteau passés — chaque serment de soldat laissait une empreinte dans le métal de l'enclume, et l'accumulation de ces empreintes sur des décennies avait donné aux surfaces une texture particulière, ondulée, dense, comme une topographie de métal.
 
 Thedek m'expliqua le Serment du Marteau. Tout soldat mosrackien le prêtait en frappant cette enclume avec le marteau de cérémonie — le son du métal scellait l'engagement d'une façon que les mots seuls ne pouvaient pas, car les mots s'évaporent mais le son du métal résonne encore dans l'os après que les oreilles se sont tues. Il le dit avec la conviction calme de quelqu'un qui y croit mais qui n'a pas besoin que vous y croyiez aussi.
 
@@ -206,7 +206,7 @@ Elle me regarda écrire dans mon carnet — je l'avais sorti, ce qui était une 
 
 Elle prit un temps. Puis elle dit : « Qu'est-ce que vous avez compris jusqu'ici ? »
 
-Je réfléchis honnêtement à la question. Je dis : que Mosrack est un pays qui s'est convaincu que la force est la seule forme de sécurité, et qui a organisé toute son existence autour de cette conviction d'une façon si complète qu'il n'y a plus de dehors du système — l'art de la guerre et l'art de la forge sont la même chose ici, et les deux ensemble sont toute la vie.
+Je réfléchis honnêtement à la question. Je répondis que Mosrack est un pays qui s'est convaincu que la force est la seule forme de sécurité, et qui a organisé toute son existence autour de cette conviction d'une façon si complète qu'il n'y a plus de dehors du système — l'art de la guerre et l'art de la forge sont la même chose ici, et les deux ensemble sont toute la vie.
 
 Merra but sa bière. Elle dit : « Vous avez compris la moitié. »
 
@@ -240,7 +240,7 @@ Je pris la liste. Je lui demandai pourquoi.
 
 Il répondit : « Les cartes fausses tuent des hommes. Dans mon métier, dans le vôtre, c'est la même chose. »
 
-Je compris que c'était le compliment le plus élevé qu'un Mosrackien pouvait formuler — il m'avait considéré assez compétent pour que mon incompétence éventuelle représente un risque qu'il valait la peine de prévenir.
+Je compris que c'était le compliment le plus élevé qu'un Mosrackien puisse formuler — il m'avait considéré assez compétent pour que mon incompétence éventuelle représente un risque qu'il valait la peine de prévenir.
 
 Je gardai la liste avec le disque d'acier du clan Teldar dans ma poche droite. Deux formes différentes du même jugement.
 
@@ -250,7 +250,7 @@ Je pensai brièvement aux Archives de Kharazir, où le défaut d'une carte n'ét
 
 Je quitte Mosrack demain matin, par la route du sud vers Elarath.
 
-J'ai passé neuf jours dans ce pays et je ne suis pas certain d'en avoir compris davantage que ce que la surface donnait à voir — les cheminées, les murs, la machinerie, l'efficacité froide d'un système qui sait exactement ce qu'il est et ce qu'il veut. Mais sous la surface, dans les marges, j'ai entrevu autre chose : la Merra qui m'a parlé de la peur fondatrice, le Thedek qui corrige les cartes par principe de rigueur, la Commandante Orryn qui lit vraiment les documents qu'elle inspecte.
+J'ai passé neuf jours dans ce pays et je ne suis pas certain d'en avoir compris davantage que ce que la surface donnait à voir — les cheminées, les murs, la machinerie, l'efficacité froide d'un système qui sait exactement ce qu'il est et ce qu'il veut. Mais sous la surface, dans les marges, j'ai entrevu autre chose : Merra, qui m'a parlé de la peur fondatrice ; Thedek, qui corrige les cartes par principe de rigueur ; la Commandante Orryn, qui lit vraiment les documents qu'elle inspecte.
 
 Des individus dans un système. C'est toujours le cas, et c'est toujours ce qui me surprend, parce que les systèmes forts ont une façon de rendre les individus presque invisibles depuis l'extérieur.
 

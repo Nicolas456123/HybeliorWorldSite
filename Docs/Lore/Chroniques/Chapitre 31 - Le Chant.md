@@ -34,7 +34,7 @@ Thalmaris est une monarchie qui s'est donné les manières d'une académie, ou u
 
 Ce n'est pas que Thalmaris n'a pas d'armée. Elle en a une. Mais le budget de l'armée est inférieur à celui de l'Académie du Cantus.
 
-Je compris cela dès la première heure dans les rues de la capitale — une ville de quatre-vingts mille âmes qui avait une architecture étrange, les bâtiments administratifs et les bâtiments culturels entremêlés sans hiérarchie visible, les théâtres en pierre aussi imposants que les palais. Et les musiciens partout — pas dans le sens des bateleurs des marchés d'autres villes, mais dans celui des praticiens qui font leur travail dans les espaces publics comme les artisans travaillent dans leurs ateliers, visibles, sérieux, occupés.
+Je compris cela dès la première heure dans les rues de la capitale — une ville de quatre-vingt mille âmes qui avait une architecture étrange, les bâtiments administratifs et les bâtiments culturels entremêlés sans hiérarchie visible, les théâtres en pierre aussi imposants que les palais. Et les musiciens partout — pas dans le sens des bateleurs des marchés d'autres villes, mais dans celui des praticiens qui font leur travail dans les espaces publics comme les artisans travaillent dans leurs ateliers, visibles, sérieux, occupés.
 
 J'avais obtenu, par la recommandation d'un marchand de Valmora qui avait des relations dans les deux nations, une audience avec la Maîtresse des Archives Musicales de l'Académie. Son nom était Orvenne — une femme de quarante ans à la voix particulièrement grave pour sa stature, ce qui dans le contexte de Thalmaris était moins une caractéristique qu'une qualification professionnelle. Elle me reçut dans une salle aux murs couverts de partitions enluminées encadrées — des compositions anciennes, je les reconnus à la densité de leur notation.
 
@@ -52,7 +52,7 @@ Le repas que la Maîtresse Orvenne partageait avec ses collègues ce soir-là fu
 
 Huit personnes autour d'une longue table — des Canteurs et des compositeurs de l'Académie, de différents rangs. On avait servi un ragoût de légumes racines parfumé d'herbes que je ne reconnus pas, un pain dense d'un grain local, du vin rouge plus jeune que je ne l'aurais voulu mais honnête dans sa franchise fruitée. Les conversations s'entrecroisaient et je notai en marge de mon cahier les fils principaux.
 
-Le premier fil : le Cantus Mundi comme pratique était plus ancien que Thalmaris. Les origines documentées remontaient à une époque pré-monarchique, à des communautés dont les archives étaient incomplètes mais qui semblaient avoir développé le chant rituel comme une réponse à quelque chose — pas comme un art, d'abord, mais comme une nécessité. Les Canteurs de la période ancienne n'étaient pas des artistes. Ils étaient des gardiens.
+Le premier fil : le Cantus Mundi comme pratique était plus ancien que Thalmaris. Les origines documentées remontaient à une époque prémonarchique, à des communautés dont les archives étaient incomplètes mais qui semblaient avoir développé le chant rituel comme une réponse à quelque chose — pas comme un art, d'abord, mais comme une nécessité. Les Canteurs de la période ancienne n'étaient pas des artistes. Ils étaient des gardiens.
 
 *Gardiens de quoi ?*
 
@@ -122,15 +122,15 @@ Je posai une main sur l'Arbre-Mère.
 
 Avant cela — j'écris dans l'ordre où les choses se sont posées en moi, pas dans celui où elles se sont produites — il y avait eu, à mi-chemin de Sylvara depuis la capitale, un campement bas que Voix-de-Pierre m'avait fait contourner sans le commenter. Je l'avais vu de loin : des huttes basses, du bois noirci, une fumée qui ne montait pas droit. Quatre ou cinq hommes accroupis autour d'une cuve où la sève descendait par un système de tubes étroits depuis des arbres saignés à intervalles. Je n'avais pas demandé. Voix-de-Pierre marchait devant. Je l'avais suivi.
 
-Ce fut au retour, le lendemain, que je passai près d'eux par moi-même. Voix-de-Pierre était resté à Sylvara pour la session de l'aube. Je revenais seul vers Thalmaris à pied. Ils m'aperçurent — j'étais Délié, ils ne pouvaient pas me sentir d'avance, je dus tousser à dix pas pour ne pas les surprendre. L'un d'eux se redressa, se frotta les reins et marcha vers moi. Il s'appelait Marvet. Trente ans, ou trente-cinq avec les rides précoces des hommes qui passent l'année dans la résine. Il avait les paumes brunes — la sève noircit la peau et ne s'enlève pas. Il dit, en thalmarien lent qu'il sut avoir à ralentir pour moi : *Vous venez de Sylvara avec le Maître Voix.* Pas une question. Je dis oui. Il dit : *On est cinq pour l'extraction de la rive sud. La guilde nous compte douze sur les registres. Si vous écrivez quelque chose, écrivez ça.*
+Ce fut au retour, le lendemain, que je passai près d'eux par moi-même. Voix-de-Pierre était resté à Sylvara pour la session de l'aube. Je revenais seul vers Thalmaris à pied. Ils m'aperçurent — j'étais Délié, ils ne pouvaient pas me sentir d'avance, je dus tousser à dix pas pour ne pas les surprendre. L'un d'eux se redressa, se frotta les reins et marcha vers moi. Il s'appelait Marvet. Trente ans, ou trente-cinq avec les rides précoces des hommes qui passent l'année dans la résine. Il avait les paumes brunes — la sève noircit la peau et ne s'enlève pas. Il dit, en thalmarien lent qu'il savait devoir ralentir pour moi : *Vous venez de Sylvara avec le Maître Voix.* Pas une question. Je dis oui. Il dit : *On est cinq pour l'extraction de la rive sud. La guilde nous compte douze sur les registres. Si vous écrivez quelque chose, écrivez ça.*
 
 Je lui demandai pourquoi me dire cela.
 
 Il dit : *Parce que vous êtes étranger. Aux gens d'ici, on a déjà dit. Les gens d'ici trouvent que la sève est sacrée et que ce qui touche au sacré ne se compte pas. Aux étrangers qui notent, on a moins dit.*
 
-Il y avait une part de calcul dans la phrase et il ne s'en cachait pas. Je le notai. Je lui demandai depuis combien de temps la sève avait cet amer.
+Il y avait une part de calcul dans la phrase et il ne s'en cachait pas. Je le notai. Je lui demandai depuis combien de temps la sève avait cette amertume.
 
-Il dit : *Un an. Plus. Ça change le rendement — on tire plus mais ça donne moins de propriétés. La guilde a baissé le prix qu'elle nous achète au baril, parce que les guérisseurs payent moins cher pour de l'amer. Mais ils nous demandent toujours autant de barils. Donc on saigne plus d'arbres. Le Maître Voix dit que l'arbre change.* Il haussa l'épaule. *L'arbre change peut-être. Nous, on saigne plus.*
+Il dit : *Un an. Plus. Ça change le rendement — on tire plus mais ça donne moins de propriétés. La guilde a baissé le prix qu'elle nous achète au baril, parce que les guérisseurs paient moins cher pour de l'amer. Mais ils nous demandent toujours autant de barils. Donc on saigne plus d'arbres. Le Maître Voix dit que l'arbre change.* Il haussa l'épaule. *L'arbre change peut-être. Nous, on saigne plus.*
 
 Je dis que je n'écrivais pas pour la guilde. Que mon journal ne serait peut-être lu par personne avant longtemps.
 
@@ -138,13 +138,13 @@ Il dit : *Tant pis. Vous l'écrirez quand même.*
 
 Je lui dis que oui.
 
-Je ne lui demandai pas s'il croyait à ce que disait Voix-de-Pierre sur l'arbre. Je n'avais pas le droit de demander à un homme dont les mains étaient noires depuis vingt ans s'il pensait que son métier était sacré. La question m'aurait fait honte avant lui.
+Je ne lui demandai pas s'il croyait à ce que disait Voix-de-Pierre sur l'arbre. Je n'avais pas le droit de demander à un homme dont les mains étaient noires depuis vingt ans s'il pensait que son métier était sacré. La question m'aurait fait honte à moi avant de lui faire honte à lui.
 
 Il retourna à sa cuve. Je continuai vers la capitale avec sa phrase dans la poche : cinq pour douze. Je ne sais pas si c'est juste. Je sais que je l'ai écrit.
 
 Je ne suis pas druide. Je n'ai pas de pratique du Cantus. Je n'avais aucune raison théorique de percevoir quoi que ce soit que le contact ordinaire d'une main sur de l'écorce ne transmettrait pas. C'est ce que je me dis en posant la main — une précaution mentale, une façon de rester cartographe.
 
-Puis je fermai les yeux, parce que c'est ce que font les druides et les Canteurs, et parce que la lumière filtrée de la forêt se laissait mieux porter ainsi.
+Puis je fermai les yeux, parce que c'est ce que font les druides et les Canteurs, et parce que la lumière filtrée de la forêt se laissait mieux percevoir ainsi.
 
 La vibration était là.
 
@@ -230,7 +230,7 @@ Et la phrase de la compositrice : *toujours d'en bas*. Les plus belles choses et
 
 Je revins au Vael'Ur de l'Aînée d'Evertia — l'Avant-Esprit, ce qui précède les esprits, ce dont les esprits seraient la surface. Si je suivais sa formulation, les esprits ne se taisaient peut-être pas comme on disparaît. Ils se taisaient comme on écoute.
 
-Les fréquences des Canteurs n'étaient peut-être pas l'œuvre d'une entité unique, mais la perception d'une couche que chaque tradition nommait autrement. C'était ma possibilité du moment, héritée d'une autre, à confronter à ce que j'entendrais ailleurs.
+Les fréquences des Canteurs n'étaient peut-être pas l'œuvre d'une entité unique, mais la perception d'une couche que chaque tradition nommait autrement. C'était ma possibilité du moment, héritée de l'Aînée d'Evertia, à confronter à ce que j'entendrais ailleurs.
 
 *Ils arrivent par le dessous.* Pluriel, encore — selon les mots qu'on m'avait laissés.
 

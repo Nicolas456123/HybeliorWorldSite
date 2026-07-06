@@ -132,7 +132,7 @@ Je les ai regardées longtemps.
 
 Ce sont des bâtiments. Ou ce qui en reste — des angles droits, des colonnes, des plans horizontaux qui ne peuvent être que des sols ou des toits. Ils sont profonds — dix mètres, peut-être vingt sous la surface du glacier, impossible à dire avec précision depuis cette hauteur, la glace déforme les distances. Mais ils sont là. Des constructions qui n'appartiennent à aucune architecture que j'ai vue en huit cents jours de voyage.
 
-Et sur les murs, visibles même depuis le surplomb, gravées dans une pierre noire qui tranchait sur la glace alentour comme de l'encre sur du papier, des symboles.
+Et sur les murs, visibles même depuis le surplomb, des symboles gravés dans une pierre noire tranchaient sur la glace alentour comme de l'encre sur du papier.
 
 Je les ai regardés et quelque chose dans ma poitrine a fait un mouvement que je n'aurais pas su nommer — pas la surprise, qui suppose l'incertitude ; pas la peur, qui suppose une menace. Quelque chose de plus vieux et de plus fondamental. La reconnaissance.
 
@@ -188,7 +188,7 @@ Et mon père était venu ici il y a onze ans, avec ses deux carnets, l'un dans c
 
 ---
 
-J'ai mangé dans l'obscurité — du pain dur et du fromage sec que Borela m'avait recommandés pour l'autonomie, deux nuits minimum, et j'étais dans ma deuxième nuit. Le froid rendait le fromage presque inerte en bouche, il fallait le tenir un moment entre les dents avant qu'il consente à se laisser mâcher. Je l'ai mangé lentement, méthodiquement, en regardant le ciel de Cestra qui est une chose à part — pas noir comme les cieux des continents chauds, mais d'un bleu sombre et dense, presque compact, où les étoiles paraissent plus proches que partout ailleurs, comme si l'absence de chaleur avait raccourci la distance.
+J'ai mangé dans l'obscurité — du pain dur et du fromage sec que Borela m'avait recommandés pour tenir deux nuits en autonomie, et j'étais dans ma deuxième nuit. Le froid rendait le fromage presque inerte en bouche, il fallait le tenir un moment entre les dents avant qu'il consente à se laisser mâcher. Je l'ai mangé lentement, méthodiquement, en regardant le ciel de Cestra qui est une chose à part — pas noir comme les cieux des continents chauds, mais d'un bleu sombre et dense, presque compact, où les étoiles paraissent plus proches que partout ailleurs, comme si l'absence de chaleur avait raccourci la distance.
 
 Je pensais à Borela disant *il est peut-être passé à travers*.
 
@@ -214,7 +214,7 @@ La feuille était vieille. L'encre avait bruni aux pliures. L'écriture que je r
 
 Il n'y avait que deux lignes.
 
-*« Le réseau est réel. Le portail est en dessous de Jumeau. »*
+*« Le réseau est réel. Le portail est sous Jumeau. »*
 
 Et en dessous, après un espace : *« Si tu lis ceci, tu as fait le même chemin. Tu es prêt. »*
 

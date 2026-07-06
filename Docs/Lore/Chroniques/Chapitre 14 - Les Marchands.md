@@ -80,7 +80,7 @@ Retto hocha la tête. Il dit : « Tout le monde vient de quelque part d'autre, �
 
 Le fils de la voisine s'appelait Davan. Il avait vingt-deux ans, les mains propres des gens qui travaillent avec des instruments de précision plutôt qu'avec des matériaux bruts, et une façon d'entrer dans une pièce qui était entre la timidité et l'enthousiasme — l'hésitation d'un jeune homme qui veut quelque chose et qui n'est pas encore certain d'avoir le droit de le vouloir.
 
-Il me trouva le lendemain matin sur le quai, où j'avais commencé mes relevés de la côte. Il se présenta. Il demanda, avec la politesse compacte de quelqu'un qui a répété sa phrase : s'il pouvait regarder.
+Il me trouva le lendemain matin sur le quai, où j'avais commencé mes relevés de la côte. Il se présenta. Il demanda, avec la politesse compacte de quelqu'un qui a répété sa phrase, s'il pouvait regarder.
 
 Je dis qu'il le pouvait.
 
@@ -132,7 +132,7 @@ Je fis mes relevés depuis la barque. Davan observa ma méthode depuis la barque
 
 Au bout d'une heure en mer, Sorn parla pour la première fois. Ce fut une question inattendue, posée sans préambule et sans déférence particulière, à la façon de quelqu'un qui a attendu le bon moment et qui considère que le bon moment est maintenant : « Vous êtes venu de Mosrack. Comment ils sont, les gens, là-bas ? »
 
-Je réfléchis à la question honnêtement. Je dis : efficaces. Craintifs de paraître faibles. Fiers d'une façon qui n'a pas besoin d'audience. Et, ajoutai-je, plus complexes que ce que l'aspect extérieur laissait penser.
+Je réfléchis honnêtement à la question. Je répondis : efficaces. Craintifs de paraître faibles. Fiers d'une façon qui n'a pas besoin d'audience. Et, ajoutai-je, plus complexes que ce que l'aspect extérieur laissait penser.
 
 Sorn hocha la tête comme quelqu'un qui reçoit une information dont il n'est pas encore sûr de savoir quoi faire. Puis il dit : « On commerce avec eux depuis vingt ans. Du poisson contre du métal. Ils nous envoient des outils pour les bateaux, on leur envoie du poisson séché. C'est bien pour tout le monde. Mais ils ne viennent jamais ici en vacances. »
 
@@ -140,7 +140,7 @@ Il rit à sa propre remarque — un rire bref, côtier, qui n'attendait pas qu'o
 
 Je ris avec lui. Davan aussi.
 
-Il y avait quelque chose dans cette scène — trois hommes dans une barque à l'aube sur une mer calme, riant d'une observation simple sur la nature des voisins — qui me semblait contenir une vérité sur Elarath que je n'avais pas encore formulée. La facilité. Pas la légèreté — la légèreté peut être une forme d'évitement. La facilité, au sens de : ce lieu sait comment rendre les choses moins difficiles qu'elles ne doivent l'être.
+Il y avait quelque chose dans cette scène — trois hommes dans une barque à l'aube sur une mer calme, riant d'une observation simple sur la nature des voisins — qui me semblait contenir une vérité sur Elarath que je n'avais pas encore formulée. La facilité. Pas la légèreté — la légèreté peut être une forme d'évitement. La facilité, au sens de : ce lieu sait comment rendre les choses moins difficiles qu'elles pourraient l'être.
 
 ---
 
@@ -236,7 +236,7 @@ Je suis cartographe. Mon métier est de représenter ce qui est visible, mesurab
 
 Mais depuis le début de ce voyage, je commence à me demander si le terrain qui compte n'est pas la surface.
 
-Je suis debout sur un quai d'Elarath avec une mer en face et des étoiles au-dessus et les ossements inconnus de Reldarck dans la tête, et je me demande si tout ce que j'ai vu depuis Kharazir — la pulsation, les sons, les traces dans les roches profondes, les zones interdites, les cartes qui ont des trous — est la surface de quelque chose d'autre, quelque chose qui est là depuis longtemps et qui n'attend pas que je le découvre mais que je le décrive correctement.
+Je suis debout sur un quai d'Elarath avec une mer en face et des étoiles au-dessus et les ossements inconnus de Reldarck dans la tête, et je me demande si tout ce que j'ai vu depuis Kharazir — la pulsation, les sons, les traces dans les roches profondes, les zones interdites, les cartes qui ont des trous — est la surface de quelque chose d'autre, quelque chose qui est là depuis longtemps et qui n'attend pas d'être découvert, mais d'être décrit correctement.
 
 Un cartographe qui dessine une carte incomplète ne rend pas service à ceux qui s'y fient. Les trous dans une carte sont des invitations à tomber.
 
@@ -317,7 +317,7 @@ Je me surprends à formuler la phrase avec une assurance que je n'avais pas il y
 *Note cartographique, jour 240 — Route au sud d'Elarath, frontière avec les terres non cartographiées :*
 *Mes relevés de la côte d'Elarath sont les plus complets que j'aie produits depuis Velithar. La collaboration avec Davan m'a permis d'ajouter des données de terrain intérieur que je n'aurais pas eu le temps de recueillir seul. Je lui laisse crédit de sa contribution dans mes notes de méthode.*
 
-*La carte trouvée dans les archives d'Orla — recopiée dans mon carnet avec toutes les précautions —, je ne sais pas encore ce qu'elle représente. Les cercles concentriques peuvent être une représentation géologique, un relevé de phénomène sismique, ou quelque chose d'entièrement différent. Les annotations dans l'écriture inconnue seront à faire identifier. Je ne connais pas encore assez d'érudits dans cette partie du monde pour savoir à qui demander.*
+*Je ne sais pas encore ce que représente la carte trouvée dans les archives d'Orla, recopiée dans mon carnet avec toutes les précautions. Les cercles concentriques peuvent être une représentation géologique, un relevé de phénomène sismique, ou quelque chose d'entièrement différent. Les annotations dans l'écriture inconnue seront à faire identifier. Je ne connais pas encore assez d'érudits dans cette partie du monde pour savoir à qui demander.*
 
 *Je note pour mémoire ce que la femme de Tyndara a dit sur les explorateurs qui descendent dans les zones profondes et ne remontent pas. Je note aussi ce que Thedek a laissé tomber sur Reldarck. Et ce que Sorn a dit sur les marins revenus de terres inconnues qui parlaient une langue inconnue.*
 

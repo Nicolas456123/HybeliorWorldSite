@@ -38,7 +38,7 @@ Le résultat est une ville qui fonctionne en deux temporalités parallèles. Le 
 
 C'est le soir que j'ai rencontré Kessa.
 
-Elle vendait du vin de cendre à la sortie du marché — pas dans une taverne, mais depuis un chariot bas tiré par un âne de l'espèce courte des îles, à la robe gris poussière et aux yeux étrangement calmes pour un animal entouré de bruits de forge et d'odeur de soufre. Kessa elle-même avait une quarantaine d'années que je ne sus pas estimer précisément tant son visage portait plusieurs âges simultanément — des rides de plein air autour des yeux, une façon de tenir les épaules qui parlait d'une vie physique, mais des mains qui maniaient les coupes avec la précision d'une artisane, et une façon d'écouter qui n'était pas de la politesse mais de l'attention réelle, la sorte qui coûte quelque chose.
+Elle vendait du vin de cendre à la sortie du marché — pas dans une taverne, mais depuis un chariot bas tiré par un âne de l'espèce courte des îles, à la robe gris poussière et aux yeux étrangement calmes pour un animal entouré de bruits de forge et d'odeurs de soufre. Kessa elle-même avait une quarantaine d'années que je ne sus pas estimer précisément tant son visage portait plusieurs âges simultanément — des rides de plein air autour des yeux, une façon de tenir les épaules qui parlait d'une vie physique, mais des mains qui maniaient les coupes avec la précision d'une artisane, et une façon d'écouter qui n'était pas de la politesse mais de l'attention réelle, la sorte qui coûte quelque chose.
 
 Elle versait le vin noir de Solarith dans des coupes de verre volcanique de Galrith — une opacité translucide qui laissait passer la lueur des forges ambiantes en reflets orangés dans le liquide sombre. Je demandai le prix. Elle me regarda avec un intérêt qui n'était pas commercial.
 
@@ -68,7 +68,7 @@ Elle répondit longtemps après, en servant un autre client d'une main tandis qu
 
 ---
 
-Le repas que Kessa partagea avec moi ce soir-là — dans une taverne basse d'Brumaris aux murs couverts d'une suie ancienne qui donnait l'impression que l'endroit était lui-même forgé, non bâti — fut simple et précis. Des pois chiches mijotés dans de la graisse de bête volcanique avec des épices que je n'arrivai pas à nommer, un pain plat cuit sur la pierre brûlante du four central, deux coupes du vin de cendre qu'elle m'avait déjà vendu et qui avait ce goût de fumée et de fruits longs que les viticulteurs de Solarith décrivent comme la mémoire du sol. Elle mangea peu. Elle me regarda manger avec la curiosité tranquille de quelqu'un qui observe plutôt qu'elle ne participe.
+Le repas que Kessa partagea avec moi ce soir-là — dans une taverne basse de Brumaris aux murs couverts d'une suie ancienne qui donnait l'impression que l'endroit était lui-même forgé, non bâti — fut simple et précis. Des pois chiches mijotés dans de la graisse de bête volcanique avec des épices que je n'arrivai pas à nommer, un pain plat cuit sur la pierre brûlante du four central, deux coupes du vin de cendre qu'elle m'avait déjà vendu et qui avait ce goût de fumée et de fruits longs que les viticulteurs de Solarith décrivent comme la mémoire du sol. Elle mangea peu. Elle me regarda manger avec la curiosité tranquille de quelqu'un qui observe plutôt qu'elle ne participe.
 
 Je lui parlai de Varennis. De Celethor et des mesures de l'archimage sur les perturbations. Elle m'écouta sans interrompre — une qualité que j'avais appris à valoriser, dans un voyage où la plupart des gens interrompaient par réflexe défensif ou par enthousiasme, rarement par calcul.
 
@@ -122,7 +122,7 @@ Et j'ai senti la pulsation.
 
 Pas entendue — sentie. Dans la poitrine, dans quelque chose qui est sous la poitrine, dans un endroit que je ne savais pas avoir. Une légère pression, régulière, qui n'avait rien à voir avec mon propre cœur. Un battement extérieur. Un rythme qui n'était pas le mien mais que mon corps recevait comme si c'était le sien — comme quand on pose la main sur la gorge de quelqu'un qui chante et qu'on sent les vibrations traverser les os de la main.
 
-J'essayai d'abord d'expliquer. C'est l'altitude, me dis-je — l'air rare modifie la perception du pouls. C'est la chaleur du basalte qui remonte par les semelles. C'est la suggestion : Kessa avait parlé des pulsations, mon corps me fournissait ce que mon esprit attendait. Trois explications en quelques secondes, chacune raisonnable. Aucune ne tint plus de quelques secondes. Le battement continuait, étranger, indifférent à mes hypothèses. Je notai mes hypothèses et je notai aussi qu'elles ne tenaient pas. Je n'allai pas plus loin dans la correction. Je ne savais pas où aller.
+J'essayai d'abord d'expliquer. C'est l'altitude, me dis-je — l'air rare modifie la perception du pouls. C'est la chaleur du basalte qui remonte par les semelles. C'est la suggestion : Kessa avait parlé des pulsations, mon corps me fournissait ce que mon esprit attendait. Trois explications en quelques secondes, chacune raisonnable. Aucune ne tint plus de quelques secondes. Le battement continuait, étranger, indifférent à mes hypothèses. Je notai mes hypothèses et je notai aussi qu'elles ne tenaient pas. Je n'allai pas plus loin dans le raisonnement. Je ne savais pas où aller.
 
 Je suis Délié.
 
@@ -198,7 +198,7 @@ Il me regarda avec les yeux d'un homme qui reconnaît quelque chose qu'il cherch
 
 Je notai tout. Je repartis l'après-midi vers Brumaris, avec la pulsation du Mont Cendra dans la mémoire de ma poitrine et la certitude que quelque chose venait de changer dans ma compréhension de ce que je suis — ou de ce que je ne suis pas.
 
-En descendant du temple par la ruelle qui longeait le mur de pierre d'un vignoble de Solarith, je m'arrêtai net. Un enfant était assis sur une marche, huit ou neuf ans peut-être, les genoux remontés sous le menton. Ses yeux étaient blancs — pas opaques, pas aveugles, blancs comme l'ivoire poli. J'avais entendu parler des Enfants aux Yeux Blancs à Vytharia, par un marchand qui les disait nés de plus en plus nombreux à Caeloria. Je n'en avais pas encore vu. Et il y en avait un, là, dans une ruelle volcanique de Cendara, à un demi-continent de l'endroit où on les disait apparaître.
+En descendant du temple par la ruelle qui longeait le mur de pierre d'un vignoble de Solarith, je m'arrêtai net. Un enfant était assis sur une marche, huit ou neuf ans peut-être, les genoux remontés sous le menton. Ses yeux étaient blancs — pas opaques, pas aveugles, blancs comme l'ivoire poli. J'avais entendu parler des Enfants aux Yeux Blancs à Vytharia, par un marchand qui disait qu'ils naissaient de plus en plus nombreux à Caeloria. Je n'en avais pas encore vu. Et il y en avait un, là, dans une ruelle volcanique de Cendara, à un demi-continent de l'endroit où on les disait apparaître.
 
 Il leva la tête en m'entendant. Il me regarda — pas comme on regarde un étranger, comme on reconnaît quelque chose. Il dit, dans un galenorien d'enfant qui apprend la langue d'un commerce voisin : *Ce que tu portes ne t'appartient pas encore.*
 

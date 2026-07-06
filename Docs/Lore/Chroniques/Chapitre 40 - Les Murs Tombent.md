@@ -52,7 +52,7 @@ Il la prit. Il ne la lut pas là, dans le bruit et la lumière du bazar — il l
 
 ---
 
-La cuisine d'Omarin était derrière son atelier — une pièce basse et chaude dont les murs portaient des rangées de bocaux et de sachets, et dont l'unique table était assez grande pour six personnes mais assez modeste pour suggérer qu'on y mangeait seul la plupart du temps. Il avait une cuisinière de fonte dans un angle et un feu qu'il avait visiblement allumé en prévision de mon arrivée.
+La cuisine d'Omarin était derrière son atelier — une pièce basse et chaude dont les murs portaient des rangées de bocaux et de sachets, et dont l'unique table était assez grande pour six personnes, mais assez modeste pour suggérer qu'on y mangeait seul la plupart du temps. Il avait une cuisinière de fonte dans un angle et un feu qu'il avait visiblement allumé en prévision de mon arrivée.
 
 Il prépara un Kharaz.
 
@@ -60,11 +60,11 @@ J'observai le rituel avec une attention que je n'aurais pas eue neuf cent dix jo
 
 *« Tu arrives de loin. »*
 
-Je fouillai dans mon sac. Il me restait, avec la rigueur un peu superstitieuse des voyageurs qui gardent quelque chose de chaque endroit, des épices séchées de Cendara que Kessa m'avait données à Arkhen, enveloppées dans un carré de tissu. Je les ajoutai au plat — une poudre rouge-noire qui sentait le soufre et la cendre et qui changea immédiatement la couleur du bouillon.
+Je fouillai dans mon sac. Il me restait, avec la rigueur un peu superstitieuse des voyageurs qui gardent quelque chose de chaque endroit, des épices séchées de Cendara que Kessa m'avait données à Arkhen, enveloppées dans un carré de tissu. Je les ajoutai au plat — une poudre rouge sombre, presque noire, qui sentait le soufre et la cendre et qui changea immédiatement la couleur du bouillon.
 
 Omarin hocha la tête. Puis il ajouta de l'huile d'une bouteille dont l'étiquette mentionnait une région que je ne reconnus pas — quelque chose d'au nord, dit-il, apporté par un marchand d'Alkaran la semaine passée, il ne savait pas encore le nom du lieu.
 
-Nous mangeâmes. Le Kharaz avait un goût de volcanique et d'herbes médicinales, une combinaison que je n'aurais pas inventée mais qui fonctionnait — qui fonctionnait précisément parce qu'elle n'avait pas été inventée, parce qu'elle était le résultat de deux personnes apportant ce qu'elles avaient sans savoir ce que l'autre apporterait.
+Nous mangeâmes. Le Kharaz avait un goût de roche volcanique et d'herbes médicinales, une combinaison que je n'aurais pas inventée mais qui fonctionnait — qui fonctionnait précisément parce qu'elle n'avait pas été inventée, parce qu'elle était le résultat de deux personnes apportant ce qu'elles avaient sans savoir ce que l'autre apporterait.
 
 Omarin lut la synthèse pendant que je mangeais. Il était capable de faire les deux à la fois — lire et manger — avec la même attention distribuée des gens qui ont appris à traiter plusieurs registres simultanément. Il ne releva pas les yeux une seule fois. Quand il eut fini, il posa la dernière page sur la table, sans la refermer, et il resta un moment à regarder le feu dans la cuisinière de fonte.
 
@@ -132,11 +132,11 @@ Je les regardai un moment.
 
 Neuf cent dix jours de vie comprimés dans dix-sept rectangles de cuir et de papier. Une carte qui n'était pas une carte des terres. Un cartographe qui avait tenté de relever des recoupements — entre les mystères, entre les langues mortes et les langues vivantes, entre les Liés et les Déliés, entre ce que mes notes appelaient *le dessous* et ce que mes notes appelaient *la surface*, entre un père et un fils qui avaient suivi le même itinéraire à une génération d'écart.
 
-Je ne savais pas si mon père était vivant ou mort. Je ne savais pas ce qui se trouvait sous le Mont Jumeau, ni quel mot — *portail*, *seuil*, *mémoire*, *rien* — recouvrirait le mieux ce que d'autres iraient voir un jour. Je ne savais pas si Omarin avait raison de parler d'un retour de Navigor, ni si Lumasar trouverait un autre nom plus juste. Une autre Ère se formait peut-être. Sa figure appartenait encore à ceux qui la nommeraient.
+Je ne savais pas si mon père était vivant ou mort. Je ne savais pas ce qui se trouvait sous le Mont Jumeau ni quel mot — *portail*, *seuil*, *mémoire*, *rien* — recouvrirait le mieux ce que d'autres iraient voir un jour. Je ne savais pas si Omarin avait raison de parler d'un retour de Navigor ni si Lumasar trouverait un autre nom plus juste. Une autre Ère se formait peut-être. Sa figure appartenait encore à ceux qui la nommeraient.
 
 Ce que je tenais, ce n'étaient pas des certitudes. C'étaient des observations, des recoupements, des récits transmis — assez pour qu'un travail collectif s'en saisisse. C'était dans les dix-sept cahiers, dans la synthèse qu'Omarin gardait sous son manteau, dans les copies d'Ysolde, dans les questions que le Tribunal de Lumasar allait devoir poser, dans le regard de Selendris quand elle avait reconnu les coordonnées de son père endormi.
 
-Ce que je tenais était désormais plus grand que moi. Il n'avait plus besoin que je le porte seul. Et ce que personne ne tenait encore — la part indéterminée, la part qui appartiendrait à d'autres que moi — il fallait aussi lui laisser sa place : comme une page demeurée ouverte.
+Ce que je tenais était désormais plus grand que moi. Cela n'avait plus besoin que je le porte seul. Et ce que personne ne tenait encore — la part indéterminée, la part qui appartiendrait à d'autres que moi — il fallait aussi lui laisser sa place : comme une page demeurée ouverte.
 
 Je pris le dix-septième cahier. J'ouvris la dernière page utilisée. Il restait encore une quinzaine de pages blanches — de l'espace, du silence, des possibilités ouvertes vers une suite que je ne pouvais pas encore écrire parce qu'elle ne s'était pas encore produite.
 
@@ -164,9 +164,9 @@ Les murs de Kharazir étaient toujours là.
 
 Et moi, debout devant mes cahiers, le papier bruni de mon père contre la poitrine, je savais une chose simple : je n'avais plus besoin d'attendre d'être certain pour agir.
 
-Je rangeai le carnet sur le dessus de la pile. Je ne le rouvris pas ce soir-là. Je ne le rouvris pas non plus le lendemain. La pile resta sur la table pendant les jours qui suivirent, dans la chambre du quartier des Passeurs, à côté des restes du matin et de la lampe que j'oubliais d'éteindre. Je sortais marcher. Je revenais. Je mangeais avec Omarin une fois, et ensuite encore une fois. Je commençai à écrire à Mira Dasthen une lettre que je ne finis pas la première semaine. Je n'écrivis rien dans le carnet — non par décision, juste parce que la main n'allait plus vers lui. Une habitude qui s'éteint sans drame, comme s'éteint une lampe qu'on a oublié d'alimenter.
+Je rangeai le carnet sur le dessus de la pile. Je ne le rouvris pas ce soir-là. Je ne le rouvris pas non plus le lendemain. La pile resta sur la table pendant les jours qui suivirent, dans la chambre du quartier des Passeurs, à côté des restes du matin et de la lampe que j'oubliais d'éteindre. Je sortais marcher. Je revenais. Je mangeais avec Omarin une fois, puis une autre. Je commençai à écrire à Mira Dasthen une lettre que je ne finis pas la première semaine. Je n'écrivis rien dans le carnet — non par décision, juste parce que la main n'allait plus vers lui. Une habitude qui s'éteint sans drame, comme s'éteint une lampe qu'on a oublié d'alimenter.
 
-Le carnet dix-sept restait ouvert à la page de la dernière note. Il restait ensuite, après la dernière note, quatorze pages blanches.
+Le carnet dix-sept resta sur le dessus de la pile, arrêté à la page de la dernière note. Il restait ensuite, après la dernière note, quatorze pages blanches.
 
 Je laissai les pages blanches.
 

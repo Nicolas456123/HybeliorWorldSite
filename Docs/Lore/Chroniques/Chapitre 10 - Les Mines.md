@@ -39,7 +39,7 @@ La Porte de Fer est un passage naturel entre deux falaises de basalte noir, larg
 
 C'est une illusion volontaire. On ne veut pas que la Porte ait l'air construite. On veut qu'elle ait l'air inévitable.
 
-Sur le fer de la porte principale — une porte de métal noir si large qu'il fallait plusieurs chaînes de treuils pour la déplacer — des mots gravés que je lus lentement en approchant : *Vous êtes libres de revenir. Nous serons là.* La reine Yrelda la Forgée, après la Défense de la Porte de Fer. Trois siècles et la rouille n'avait pas entamé la profondeur des lettres.
+Sur le fer de la porte principale — une porte de métal noir si large qu'il fallait plusieurs chaînes de treuils pour la déplacer — étaient gravés des mots que je lus lentement en approchant : *Vous êtes libres de revenir. Nous serons là.* La reine Yrelda la Forgée, après la Défense de la Porte de Fer. Trois siècles et la rouille n'avait pas entamé la profondeur des lettres.
 
 Un garde m'arrêta au poste de contrôle — un homme jeune, trente ans peut-être, en armure de plates d'un acier qui ne réfléchissait pas la lumière mais l'absorbait, avec le regard de quelqu'un qui n'est ni méfiant ni accueillant mais simplement en train de faire son travail avec le sérieux professionnel propre aux Iskarans. Il regarda mes laissez-passer de Corven Asheld, ma lettre de la Guilde cartographique de Kharazir — périmée depuis six mois mais encore lisible —, et mon passeport valorien obtenu au Jugement de Teldar.
 
@@ -87,7 +87,7 @@ Ce n'était pas une question. Je lui demandai comment il le savait.
 
 Il dit cela sans ostentation, avec une précision factuelle qui était clairement de la culture professionnelle plutôt que du bavardage. Baret Sorn savait ce qu'il savait parce que c'était son travail de le savoir, et il le disait parce que c'était pertinent, pas pour impressionner.
 
-Nous mangeâmes à la même table, ce qui en Iskara revient à manger ensemble. On nous servit viande séchée dans les courants d'air des tunnels, pain noir, fromage pressé sous blocs de pierre. Tout était dur, salé, dense. Le vin de Galdar, vin de montagne de l'armée iskaran, était coupé à l'eau des puits pour la purifier ; l'habitude était si ancienne qu'elle était devenue goût.
+Nous mangeâmes à la même table, ce qui en Iskara revient à manger ensemble. On nous servit de la viande séchée dans les courants d'air des tunnels, du pain noir, du fromage pressé sous des blocs de pierre. Tout était dur, salé, dense. Le vin de Galdar, vin de montagne de l'armée iskaran, était coupé à l'eau des puits pour la purifier ; l'habitude était si ancienne qu'elle était devenue goût.
 
 Baret parla peu pendant le repas. Mais après la bière, il parla davantage — non pas sous l'effet de la bière, les Iskarans ne s'enivrent pas au point de perdre la mesure de leurs mots, mais parce que quelque chose dans ma façon d'écouter lui sembla digne de confiance. C'est quelque chose que j'ai appris dans ce voyage : les gens parlent non pas quand vous les interrogez mais quand ils décident que vous méritez ce qu'ils savent. Forcer l'interrogatoire donne des réponses de surface. La patience donne les profondeurs.
 
@@ -301,7 +301,7 @@ Je traçai des lignes entre les points. Pas des lignes cartographiques — des l
 
 La figure qui émergea était incomplète — trop peu de points, trop d'espace entre les lignes. Mais il y avait une cohérence directionnelle que je ne pouvais pas nier : les phénomènes que je documentais se situaient tous, sans exception, dans ou sous des formations géologiques antiques. Des roches plus vieilles que les nations qui les habitaient. Des strates que Hessa appellerait du temps plutôt que de l'espace.
 
-Et la vibration dans toutes ces formations — le battement lent, la pulsation du Fragment Zéro, la chaleur sous les mains des forgerons dans la Grande Forge de Glintaris — avaient augmenté. Les gens qui les observaient depuis assez longtemps s'accordaient là-dessus sans coordination entre eux : les sons de Myrilith, plus forts depuis vingt ans. Le Fragment Zéro, qui ne pouvait plus être approché sans conséquences depuis trois ans. La porte de la galerie profonde, qui avait fait taire un homme définitivement.
+Et la vibration dans toutes ces formations — le battement lent, la pulsation du Fragment Zéro, la chaleur sous les mains des forgerons dans la Grande Forge de Glintaris — avait augmenté. Les gens qui l'observaient depuis assez longtemps s'accordaient là-dessus sans coordination entre eux : les sons de Myrilith, plus forts depuis vingt ans. Le Fragment Zéro, qui ne pouvait plus être approché sans conséquences depuis trois ans. La porte de la galerie profonde, qui avait fait taire un homme définitivement.
 
 Quelque chose paraît augmenter — c'est en tout cas ce que les observateurs disent, chacun depuis son angle. S'agit-il d'un phénomène qui s'approche, qui s'éveille, ou simplement de notre attention qui s'aiguise sur ce qui était déjà là ? Je n'ai pas les mots pour trancher autrement.
 

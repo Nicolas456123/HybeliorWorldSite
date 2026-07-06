@@ -28,7 +28,7 @@ Pardine changea d'allure. Je ne lui demandai rien — elle accéléra d'elle-mê
 
 Le premier campement torkamite que je croisai était de la tribu des Dunes.
 
-Je le sus à l'emblème brodé sur les tentes — un scorpion sur fond ocre, stylisé avec la précision d'une calligraphie —, aux chameaux attachés aux lignes extérieures, et à la façon dont les deux gardes en bordure du campement m'aperçurent depuis une distance que je n'aurais pas su estimer et dont je compris, à la qualité de leur immobilité, qu'ils m'avaient évalué, classé et considéré comme non-menaçant avant même que je sois assez proche pour distinguer leurs visages.
+Je le sus à l'emblème brodé sur les tentes — un scorpion sur fond ocre, stylisé avec la précision d'une calligraphie —, aux chameaux attachés aux lignes extérieures, et à la façon dont les deux gardes en bordure du campement m'aperçurent depuis une distance que je n'aurais pas su estimer et dont je compris, à la qualité de leur immobilité, qu'ils m'avaient évalué, classé et considéré comme non menaçant avant même que je sois assez proche pour distinguer leurs visages.
 
 La tribu des Dunes est celle des commerçants et des caravaniers. Ce sont des gens qui ont vu beaucoup d'étrangers et qui savent à quoi ressemble un voyageur solitaire sans intention militaire : ses sacoches sont trop chargées de matériel d'observation pour contenir autre chose, son cheval est fatigué mais pas surmené, et il regarde autour de lui avec une curiosité qui n'a pas le caractère appliqué de la reconnaissance militaire.
 
@@ -128,7 +128,7 @@ Ce n'était pas tout à fait inexact.
 
 Le repas chez Nareth fut le plus silencieux que j'eus dans tout Torkam — et dans tout Torkam, les repas sont déjà assez silencieux.
 
-Kemsha, deux chamanes plus jeunes, et moi, autour d'une table basse en bois de tamaris importé de la côte, avec des plats posés au centre selon la façon torkamite : pas de service individuel, chacun prend ce dont il a besoin. Du riz à l'eau de source — dense, parfumé d'herbes que je ne reconnus pas —, de la viande de chameau séchée et braisée dans un fond de dattes, un pain de millet plat et souple qui servait d'ustensile autant que d'aliment, et du thé d'herbes du désert dans des petits verres sans anse que la chaleur de la boisson rendait difficiles à tenir.
+Kemsha, deux jeunes chamanes et moi, autour d'une table basse en bois de tamaris importé de la côte, avec des plats posés au centre selon la façon torkamite : pas de service individuel, chacun prend ce dont il a besoin. Du riz à l'eau de source — dense, parfumé d'herbes que je ne reconnus pas —, de la viande de chameau séchée et braisée dans un fond de dattes, un pain de millet plat et souple qui servait d'ustensile autant que d'aliment, et du thé d'herbes du désert dans des petits verres sans anse que la chaleur de la boisson rendait difficiles à tenir.
 
 Les plats de l'autre côté de la table, devant les places vides, étaient pleins.
 
@@ -188,11 +188,11 @@ Il rangea sa pierre, me rendit la mienne. « Entre. »
 
 Valdarin est l'endroit le plus étrange que j'aie traversé dans tout ce voyage.
 
-Ce n'est pas l'étrangeté des choses visuellement extraordinaires — le désert de Qythros est géologiquement monotone, et Valdarin est un campement de quelques dizaines de personnes sans rien qui frappe l'œil. Ce n'est pas non plus l'étrangeté de l'hostilité ou du danger. La tribu des Ossements est parfaitement aimable — d'une façon d'autant plus déconcertante que leur activité principale est la nécromance rituelle.
+Ce n'est pas l'étrangeté des choses visuellement extraordinaires — le désert de Qythros est géologiquement monotone, et Valdarin est un campement de quelques dizaines de personnes sans rien qui frappe l'œil. Ce n'est pas non plus l'étrangeté de l'hostilité ou du danger. La tribu des Ossements est parfaitement aimable — d'une façon d'autant plus déconcertante que leur activité principale est la nécromancie rituelle.
 
 L'étrangeté de Valdarin vient de son acoustique.
 
-Le chamane m'en avait prévenu avant d'entrer : « L'air ici répète les sons légèrement décalés. Certains visiteurs entendent des voix. Ce sont leurs propres voix, modifiées. Ou les voix des attendants. Selon ce que tu crois. »
+Le chamane m'en avait prévenu avant d'entrer : « L'air ici répète les sons légèrement décalés. Certains visiteurs entendent des voix. Ce sont leurs propres voix, modifiées. Ou les voix de ceux qui attendent. Selon ce que tu crois. »
 
 Il m'avait donné le choix de l'interprétation. Je le respectai pour ça.
 
@@ -274,7 +274,7 @@ Un cœur qui commence à se réveiller.
 
 Je pris une grande inspiration.
 
-« Et les esprits des ancêtres ? » je demandai. Je voulais savoir si Sylthor montrait le même phénomène que les chamanes de Torkam avaient décrit — l'agitation des ancêtres, l'inquiétude dans les couches profondes.
+« Et les esprits des ancêtres ? » demandai-je. Je voulais savoir si Sylthor montrait le même phénomène que les chamanes de Torkam avaient décrit — l'agitation des ancêtres, l'inquiétude dans les couches profondes.
 
 Brynja me regarda d'une façon que je ne sus pas déchiffrer. Puis : « À Sylthor, les ancêtres ne sont pas inquiets. »
 

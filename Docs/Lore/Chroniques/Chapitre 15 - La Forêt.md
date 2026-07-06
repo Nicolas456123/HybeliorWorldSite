@@ -88,7 +88,7 @@ Je lui demandai ce que c'était, ce qui était sous les sons.
 
 Il ne répondit pas immédiatement. Nous montions une pente douce, les bouleaux de la lisière avaient laissé place à des chênes plus anciens, et l'air avait cette densité particulière des sous-bois qui gardent l'humidité. Puis il dit, sans que je comprenne si c'était une réponse à ma question ou le début d'une nouvelle : « Vous avez traversé des mines, dans vos voyages ? »
 
-J'avais traversé les mines d'Alkaran — les galeries de cuivre de la région centrale, les puits de sel du nord, et dans l'une d'elles, profondément ancrée dans la roche à cent mètres sous la surface, j'avais entendu quelque chose. Pas un son clairement identifiable. Une vibration dans les pieds, dans les paumes posées contre la roche, quelque chose d'infra-sonore qui se situait en deçà de la perception normale et pourtant ne laissait aucun doute sur sa présence. J'en avais noté l'existence dans mon carnet, sans savoir comment le qualifier.
+J'avais traversé les mines d'Alkaran — les galeries de cuivre de la région centrale, les puits de sel du nord, et dans l'une d'elles, profondément ancrée dans la roche à cent mètres sous la surface, j'avais entendu quelque chose. Pas un son clairement identifiable. Une vibration dans les pieds, dans les paumes posées contre la roche, quelque chose d'infrasonore qui se situait en deçà de la perception normale et pourtant ne laissait aucun doute sur sa présence. J'en avais noté l'existence dans mon carnet, sans savoir comment le qualifier.
 
 Brennan dit : « Ce que vous avez entendu dans les mines. C'est ça. »
 
@@ -210,7 +210,7 @@ Il dit : « Un cartographe. » Et il y avait dans son ton quelque chose que je n
 
 La frontière de Sanvara commence là où les chênes changent de nature.
 
-C'est la seule frontière que j'aie traversée dont le marqueur était uniquement botanique — pas de borne, pas de poste de garde, pas de ligne sur la carte qui corresponde à quoi que ce soit de physique. Brennan me dit, au quatrième jour de marche après Ostarith, que nous étions en territoire sanvaren parce qu'il le savait, pas parce que quelque chose le signalait. Je lui demandai comment il le savait. Il posa la main sur le tronc d'un chêne que nous dépassions et attendit, et je l'imitai.
+Parmi toutes les frontières que j'avais traversées, c'était la seule dont le marqueur était uniquement botanique — pas de borne, pas de poste de garde, pas de ligne sur la carte qui corresponde à quoi que ce soit de physique. Brennan me dit, au quatrième jour de marche après Ostarith, que nous étions en territoire sanvaren parce qu'il le savait, pas parce que quelque chose le signalait. Je lui demandai comment il le savait. Il posa la main sur le tronc d'un chêne que nous dépassions et attendit, et je l'imitai.
 
 Le bois vibrait.
 
@@ -218,7 +218,7 @@ Pas de la façon dont j'avais senti vibrer les arbres de Trinoria — cette puls
 
 Brennan retira la sienne en même temps. Il dit : « La forêt de Sanvara est en écoute permanente. Elle perçoit tout ce qui la traverse. »
 
-Il y avait, dans le Traité des Forêts que Sanvara avait signé avec Avalor — le traité qui liait les deux confédérations du territoire forestier d'Endora —, une clause que Brennan me cita de mémoire, en thalmarien d'abord puis en galenorien : *Nul homme ne passera dans les forêts du traité sans que la forêt l'y autorise.* Ce n'était pas une métaphore. Les Gardiens de Sanvara — les hommes et les femmes qui vivaient en lisière et qui connaissaient le langage des arbres mieux que celui de leurs voisins humains — savaient quand un voyageur entrait dans le territoire parce que les arbres le leur disaient. Pas avec des mots. Avec une modification dans la vibration — quelque chose d'aussi objectif, à leurs sens éduqués, qu'un son serait à nos oreilles.
+Il y avait, dans le Traité des Forêts que Sanvara avait signé avec Avalor — le traité qui liait les deux confédérations du territoire forestier d'Endora —, une clause que Brennan me cita de mémoire, en thalmarien d'abord puis en galenorien : *Nul homme ne passera dans les forêts du traité sans que la forêt l'y autorise.* Ce n'était pas une métaphore. Les Gardiens de Sanvara — les hommes et les femmes qui vivaient en lisière et qui connaissaient le langage des arbres mieux que celui de leurs voisins humains — savaient quand un voyageur entrait dans le territoire parce que les arbres le leur disaient. Pas avec des mots. Avec une modification dans la vibration — quelque chose d'aussi objectif, pour leurs sens exercés, qu'un son le serait à nos oreilles.
 
 Je mis la main sur un autre arbre. La vibration était là, et cette fois je ne l'ôtai pas tout de suite. Je la laissai me traverser, m'installer dans l'écoute sans but que j'avais commencé à pratiquer à Galdaris. Et au bout d'un moment — dix secondes, peut-être vingt — je perçus quelque chose qui ressemblait à une direction. Pas un message articulé, pas une information au sens cartographique. Plutôt une orientation : la forêt avait conscience d'elle-même de ce côté-ci, moins nettement de l'autre, et quelque part au nord, plus profond dans le territoire, il y avait un centre dont le reste rayonnait.
 
@@ -232,7 +232,7 @@ Puis, après un moment : « C'est aussi ce que les bardes se disent la première
 
 ---
 
-Nous dormîmes deux nuits en lisière de Sanvara, dans un hameau dont les maisons étaient construites entre les arbres et avec les arbres — non pas comme à Avalor, dont j'allais apprendre la sophistication plus tard, mais avec une franchise rustique : des murs de torchis appuyés contre des troncs centenaires, des toits de chaume dont la limite et la canopée se confondaient, et à l'intérieur de chaque maison, une pièce centrale sans meuble ni décoration sinon un arbre vivant dont le tronc traversait le plancher et le plafond, et autour duquel la famille s'organisait.
+Nous dormîmes deux nuits en lisière de Sanvara, dans un hameau dont les maisons étaient construites entre les arbres et avec les arbres — non pas comme à Avalor, dont j'allais apprendre la sophistication plus tard, mais avec une franchise rustique : des murs de torchis appuyés contre des troncs centenaires, des toits de chaume dont la limite et la canopée se confondaient, et à l'intérieur de chaque maison, une pièce centrale sans autre meuble ni décoration qu'un arbre vivant dont le tronc traversait le plancher et le plafond, et autour duquel la famille s'organisait.
 
 La femme qui nous hébergea s'appelait Melle. Cinquante ans, cheveux gris noués serré, des mains qui portaient la résine et l'huile d'arbre de quelqu'un qui travaille le bois tous les jours avec des précautions particulières. Elle parla à Brennan en thalmarien — les gens de Sarandel et les Sanvarens de la lisière avaient partagé, depuis l'installation des exilés, assez de générations de voisinage pour que chacun comprît la langue de l'autre — et à moi en galenorien approximatif qui n'avait pas besoin de mots très compliqués pour être utile.
 

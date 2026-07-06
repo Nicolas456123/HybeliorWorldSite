@@ -20,7 +20,7 @@ Pas par absence — par présence de quelque chose de trop dense pour permettre 
 
 J'attendis que la brume se lève. Elle ne se leva pas.
 
-La femme qui m'avait accordé l'hébergement la veille — Varel, l'une des habitantes de Fandor que le lore d'Avalor entraîne à comprendre l'étranger, et qui parlait cinq langues avec l'accent de quelqu'un pour qui la langue n'est jamais une fin mais toujours un outil — frappa à ma porte et m'apporta une infusion dans un bol de terre cuite encore chaud. Elle dit, en galenorien, avec l'efficacité de quelqu'un qui a dit la même chose à de nombreux voyageurs avant moi : « La brume n'est pas météorologique. Elle vous évalue. Quand la forêt sera prête, elle se lèvera. »
+La femme qui m'avait accordé l'hébergement la veille — Varel, l'une des habitantes de Fandor que les usages d'Avalor entraînent à comprendre l'étranger, et qui parlait cinq langues avec l'accent de quelqu'un pour qui la langue n'est jamais une fin mais toujours un outil — frappa à ma porte et m'apporta une infusion dans un bol de terre cuite encore chaud. Elle dit, en galenorien, avec l'efficacité de quelqu'un qui a dit la même chose à de nombreux voyageurs avant moi : « La brume n'est pas météorologique. Elle vous évalue. Quand la forêt sera prête, elle se lèvera. »
 
 Je bus l'infusion. Elle avait un fond âcre que je ne reconnus pas — quelque chose de végétal et d'amer, avec un arrière-goût qui persistait sur la langue plus longtemps qu'il n'aurait dû.
 
@@ -40,7 +40,7 @@ Je veux dire ceci de façon précise, pas comme une flatterie ou un aveu de déf
 
 Les arbres : des chênes dont les troncs mesuraient dix mètres de circonférence, des hêtres dont les racines affleuraient au sol et formaient des architectures que l'on aurait prises pour de la construction intentionnelle si l'on n'avait pas su qu'elles poussaient ainsi depuis des siècles. Mais ce n'était pas leur taille qui m'arrêtait — la taille est mesurable, la taille entre dans la carte. C'était autre chose.
 
-Ma guide — une femme d'une trentaine d'années du nom de Lyris, Gardienne des Lisières de la région de Crestalia, que Varel avait arrangée pour m'accompagner jusqu'à la capitale — me dit, sans que je lui aie posé de question, à mi-voix comme on parle dans une pièce où quelqu'un dort : « Ici, les arbres ont une mémoire. Pas comme la mémoire humaine. Ils n'oublient pas. Jamais. »
+Ma guide — une femme d'une trentaine d'années du nom de Lyris, Gardienne des Lisières de la région de Crestalia, que Varel avait sollicitée pour m'accompagner jusqu'à la capitale — me dit, sans que je lui aie posé de question, à mi-voix comme on parle dans une pièce où quelqu'un dort : « Ici, les arbres ont une mémoire. Pas comme la mémoire humaine. Ils n'oublient pas. Jamais. »
 
 Je lui demandai ce qu'ils mémorisaient.
 
@@ -52,13 +52,13 @@ Lyris perçut cela et esquissa quelque chose qui n'était pas tout à fait un so
 
 Je relevai les yeux de la forêt pour la regarder. « Comment savent-ils ce qu'on veut ? »
 
-Elle dit : « La même façon que vous savez ce que quelqu'un veut quand il pose la main sur votre épaule et que vous le sentez avant qu'il parle. »
+Elle dit : « De la même façon que vous savez ce que quelqu'un veut quand il pose la main sur votre épaule et que vous le sentez avant qu'il parle. »
 
 ---
 
 Crestalis n'était pas une ville dans le sens que j'aurais su dessiner sur une carte.
 
-Le séquoia central — le palais de l'Archidruide — était visible depuis la lisière de la clairière principale, et sa taille était de celles qui réorganisent la perspective. Il avait fallu que je m'immobilise et que je laisse mes yeux recalculer : ce que je prenais pour une colline était un tronc. Ce que je prenais pour des terrasses naturelles étaient des niveaux d'habitation sculptés à même l'écorce, taillés avec une précision que nul outil humain ordinaire n'aurait permise. La légende disait que les esprits eux-mêmes avaient sculpté ces salles, au fil de trois générations, ajoutant une pièce par Archidruide. Je l'avais noté comme une métaphore poétique. Je la compris, à Crestalis, comme une description littérale.
+Le séquoia central — le palais de l'Archidruide — était visible depuis la lisière de la clairière principale, et sa taille était de celles qui réorganisent la perspective. Il avait fallu que je m'immobilise et que je laisse mes yeux recalculer : ce que je prenais pour une colline était un tronc. Ce que je prenais pour des terrasses naturelles était des niveaux d'habitation sculptés à même l'écorce, taillés avec une précision que nul outil humain ordinaire n'aurait permise. La légende disait que les esprits eux-mêmes avaient sculpté ces salles, au fil de trois générations, ajoutant une pièce par Archidruide. Je l'avais noté comme une métaphore poétique. Je la compris, à Crestalis, comme une description littérale.
 
 Lyris m'avait conduit jusqu'au Cercle des Murmures, le conseil des sept druides aînés, qui accordait aux visiteurs exceptionnels — la lettre de Brennan avait eu l'effet escompté — une audience avec l'Archidruide elle-même. Je n'avais pas prévu cette audience. Je m'étais attendu à une visite courtoise, une nuit d'hébergement, peut-être une conversation avec un barde ou un druide de rang modeste. Ce que j'obtins était différent.
 
@@ -284,7 +284,7 @@ Elle dit : « Des émissaires d'Ilthara ont demandé à Vaeldros une réunion d'
 
 Je demandai quel genre de perturbations.
 
-Elle dit : « C'est ça le problème. Personne ne le sait clairement. Les équipages parlent de... » elle chercha ses mots, « de fils perdus. Comme si la route qu'ils connaissaient avait changé de nature sous leurs pieds. Des routes qu'ils connaissent depuis vingt ans. »
+Elle dit : « C'est ça le problème. Personne ne le sait clairement. Les équipages parlent de... » Elle chercha ses mots. « De fils perdus. Comme si la route qu'ils connaissaient avait changé de nature sous leurs pieds. Des routes qu'ils connaissent depuis vingt ans. »
 
 Je posai mon stylet.
 
@@ -338,13 +338,13 @@ Trois cents jours d'observations. D'abord les pays du continent de Galenor, leur
 
 À chaque étape, j'avais noté quelque chose que je ne savais pas nommer correctement et que j'avais mis en marge comme une anomalie à vérifier plus tard. Un son bizarre. Une vibration inattendue. Un esprit plus agité qu'il n'aurait dû être. Une route maritime dérangée. Une reine-barde insomniaque. Des racines qui descendent vers quelque chose d'innommable.
 
-Lu ensemble — lu d'une traite, depuis le début, avec le recul de trois cents jours —, ce n'était plus des anomalies isolées. C'était un signal. Un signal que chaque culture percevait depuis ses propres instruments, dans son propre registre, avec ses propres mots. Comme si vous demandiez à un musicien, à un druide, à un mineur et à un capitaine de décrire la même chose et qu'aucun d'eux n'avait les mots de l'autre mais que tous décrivaient néanmoins la même chose.
+Lues ensemble — lues d'une traite, depuis le début, avec le recul de trois cents jours —, ce n'était plus des anomalies isolées. C'était un signal. Un signal que chaque culture percevait depuis ses propres instruments, dans son propre registre, avec ses propres mots. Comme si vous demandiez à un musicien, à un druide, à un mineur et à un capitaine de décrire la même chose et qu'aucun d'eux n'avait les mots de l'autre mais que tous décrivaient néanmoins la même chose.
 
 Quelque chose dans la trame du Pacte — ce que la Catena Fracta interprète, à sa façon, comme la preuve qu'on peut s'en délier — semble vibrer autrement depuis environ deux ans, probablement plus longtemps selon des témoins dont la mémoire remonte plus loin que les humains ordinaires. Et personne — pas les bardes de Sarandel, pas les druides d'Avalor, pas les marchands d'Haldria — personne ne regarde l'ensemble.
 
 Sauf peut-être moi.
 
-Je m'arrête sur ces trois mots et je les regarde. Je les ai écrits sans hésitation. Ils sont précisément le genre de phrase qu'un homme qui voyage trop longtemps seul finit par penser, et que le carnet enregistre sans contrepoids. Je les laisse — barrer ce qui est venu spontanément serait pire que de le laisser. Mais je note, à côté, que la formule contient deux affirmations, et que la première (*personne ne regarde l'ensemble*) n'est pas démontrée, c'est seulement ce que je crois depuis ma position.
+Je m'arrête sur ces trois mots et je les regarde. Je les ai écrits sans hésitation. Ils sont précisément le genre de phrase qu'un homme qui voyage trop longtemps seul finit par penser, et que le carnet enregistre sans contrepoids. Je les laisse — barrer ce qui est venu spontanément serait pire que de le laisser. Mais je note, à côté, que la formule contient deux affirmations, et que la première (*personne ne regarde l'ensemble*) n'est pas démontrée : c'est seulement ce que je crois depuis ma position.
 
 Je ne sais pas si ça me qualifie pour quoi que ce soit. Je suis cartographe et exilé — je n'ai ni l'autorité du barde, ni le don du druide, ni la sagesse de l'Archidruide. J'ai un carnet plein de points et l'habitude de trouver les lignes qui les relient.
 

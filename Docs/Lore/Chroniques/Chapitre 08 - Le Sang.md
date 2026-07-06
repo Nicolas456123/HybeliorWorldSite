@@ -70,7 +70,7 @@ Je suis allé à Valtheria.
 
 Non pas par bravoure — que personne ne s'y trompe. Par calcul. Un cartographe qui se cache dans un pays méfiant envers les cartographes sera retrouvé. Un cartographe qui se présente ouvertement avec ses outils et sa raison d'être est simplement un problème que personne ne sait encore comment classer. Je préférais être un problème ouvert.
 
-La route vers Valtheria longe des crêtes rocailleuses d'où l'on voit, dans les vallées, les forteresses des clans — des bâtisses de pierre massive, carrées, sans ornement, dont la seule décoration sont les crânes d'animaux et parfois d'autres choses, accrochés aux linteaux et aux poteaux d'entrée. L'architecture valoriane est une déclaration de principe : nous construisons pour la guerre et pour l'éternité, et si vous voyez nos maisons, sachez que nous serions les mêmes si les murs s'effondraient.
+La route vers Valtheria longe des crêtes rocailleuses d'où l'on voit, dans les vallées, les forteresses des clans — des bâtisses de pierre massive, carrées, sans ornement, dont les seules décorations sont les crânes d'animaux et parfois d'autres choses, accrochés aux linteaux et aux poteaux d'entrée. L'architecture valoriane est une déclaration de principe : nous construisons pour la guerre et pour l'éternité, et si vous voyez nos maisons, sachez que nous serions les mêmes si les murs s'effondraient.
 
 J'ai aimé cette honnêteté, d'une façon étrange. Il n'y a rien à deviner dans une forteresse valoriane. Elle dit exactement ce qu'elle est.
 
@@ -200,7 +200,7 @@ Il me l'a tendue sans discours. Je l'ai prise.
 
 « Qu'est-ce que c'est ? » j'ai demandé.
 
-« Laisser-passer. Montre ça à n'importe quel poste du clan Teldar. Ils te laisseront passer. »
+« Laissez-passer. Montre ça à n'importe quel poste du clan Teldar. Ils te laisseront passer. »
 
 J'ai regardé la pièce, puis lui. « Je ne l'ai pas mérité selon vos critères. Je ne me suis pas battu. »
 

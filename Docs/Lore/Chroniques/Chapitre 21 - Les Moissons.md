@@ -72,7 +72,7 @@ Non pas les vignobles — les champs céréaliers au nord du village, une parcel
 
 Il marchait lentement, les mains dans le dos, regardant le sol. Pas d'un regard distrait — d'un regard qui lisait quelque chose que je ne voyais pas encore. Il s'arrêtait par moments, s'agenouillait, prenait une poignée de terre, la frottait entre ses doigts avec l'attention d'un joaillier qui évalue une pierre. Il me montra la couleur — un brun très foncé, presque noir, luisant d'une humidité interne que je ne devinais pas à l'œil nu. Il dit que la terre d'Amaroth avait cette couleur depuis les origines de la culture, que les Anciens appelaient cela le « sang du sol », et que les parcelles dont le brun pâlissait vers l'ocre commençaient à souffrir — elles avaient besoin d'une rotation différente, d'une jachère, d'un apport organique.
 
-Je lui demandai comment il savait ce que la terre avait besoin.
+Je lui demandai comment il savait ce dont la terre avait besoin.
 
 Il me regarda un moment avant de répondre, d'un regard qui n'était pas tout à fait de la surprise mais de l'interrogation — comme si la question était légitime mais révélait une lacune fondamentale qu'il ne savait pas comment combler sans remonter à des évidences premières. Il dit finalement : « On l'entend. »
 
@@ -110,7 +110,7 @@ Le troisième jour fut la récolte des pommes d'Ydralis.
 
 Tout le village participa, comme pour une fête — ce qui était effectivement une fête, j'en compris la nature en regardant comment les gens arrivaient dans les vergers. Pas avec la résignation des corvées collectives, pas avec l'enthousiasme performatif des célébrations officielles. Avec quelque chose d'intermédiaire et de plus réel : le plaisir tranquille des gens qui font quelque chose qu'ils ont fait cent fois et qui savent qu'ils le referont cent fois encore, et dont la certitude elle-même est une forme de joie.
 
-Emris m'expliqua, pendant que nous travaillions côte à côte — elle avait refusé que je reste spectateur, avec une fermeté affectueuse qui n'admettait pas de réponse —, que la récolte collective était aussi ancienne que le village. Que depuis la Grande Moisson d'Amaryl, chaque geste agricole d'importance se faisait à plusieurs, parce que la solitude avait été l'ennemi pendant l'Ère de la Famine et que la solidarité était la réponse que Sylthara avait trouvée et n'avait jamais revoquée.
+Emris m'expliqua, pendant que nous travaillions côte à côte — elle avait refusé que je reste spectateur, avec une fermeté affectueuse qui n'admettait pas de réponse —, que la récolte collective était aussi ancienne que le village. Que depuis la Grande Moisson d'Amaryl, chaque geste agricole d'importance se faisait à plusieurs, parce que la solitude avait été l'ennemi pendant l'Ère de la Famine et que la solidarité était la réponse que Sylthara avait trouvée et n'avait jamais révoquée.
 
 — Tu tiens la pomme comme un document, me dit-elle après un moment.
 
@@ -174,7 +174,7 @@ La route vers Haldria traverse la région de Fenoria, les grandes plaines céré
 
 Mais je pensais à ce que Talvind avait dit. La terre qui hésite. Et en traversant ces plaines, j'observai avec une attention nouvelle les sols entre les chaumes, les parcelles en jachère, les endroits où la végétation spontanée — l'indicateur le plus honnête de l'état du sol — repoussait différemment d'une zone à l'autre. Je n'ai pas les connaissances de Talvind. Je ne peux pas entendre le sol. Mais je peux regarder, et je regardais.
 
-Ici, un carré de jachère où les plantes revenaient moins denses qu'autour. Là, une bordure de champ où le chaume, coupé à la même hauteur que partout, avait pris une légère teinte différente — plus sèche, moins vivante — que le chaume de la parcelle voisine. Peut-être rien. Peut-être des variations normales que les anciens de Sylthara n'auraient pas jugé digne de mention. Peut-être quelque chose d'autre.
+Ici, un carré de jachère où les plantes revenaient moins denses qu'autour. Là, une bordure de champ où le chaume, coupé à la même hauteur que partout, avait pris une légère teinte différente — plus sèche, moins vivante — que le chaume de la parcelle voisine. Peut-être rien. Peut-être des variations normales que les anciens de Sylthara n'auraient pas jugées dignes de mention. Peut-être quelque chose d'autre.
 
 Je notai ces observations avec soin dans mon carnet, en essayant de ne pas leur donner plus de poids que les faits ne justifient. Un cartographe note ce qu'il voit. Il n'invente pas la connexion. Il laisse la connexion émerger des notes, si elle doit émerger.
 

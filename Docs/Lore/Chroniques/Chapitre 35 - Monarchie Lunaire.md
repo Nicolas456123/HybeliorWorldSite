@@ -20,7 +20,7 @@ Je le savais de façon abstraite avant d'y arriver — les marchands qui passent
 
 Je n'avais plus de catégories de ce type depuis longtemps.
 
-Lunasar occupe un repli côtier au nord de Vytharia, sur la rive d'Ilthara, à bonne distance de la petite île de Nysaria que j'avais quittée — une province lunaire de la nation vytharienne, tournée vers la mer par un bras d'eau qui porte un nom que les navigateurs ont du mal à prononcer dans sa version originale. J'y arrivai depuis la côte, deux semaines après avoir quitté Nysaria, après un transit par Nectoria où je ne m'arrêtai que le temps de changer de navire. Mon corps portait encore le décalage temporel de l'île — cette façon qu'avait Nysaria de dissoudre les frontières entre veille et sommeil, qui persistait pendant les jours suivant le départ comme une image rémanente après avoir regardé une lumière trop vive.
+Lunasar occupe un repli côtier au nord de Vytharia, sur la rive d'Ilthara, à bonne distance de la petite île de Nysaria que j'avais quittée — une province lunaire de la nation vytharienne, tournée vers la mer par un bras d'eau qui porte un nom que les navigateurs ont du mal à prononcer dans sa version originale. J'y arrivai depuis la côte, deux semaines après avoir quitté Nysaria, après un transit par Nectoria où je ne m'arrêtai que le temps de changer de navire. Mon corps portait encore le décalage temporel de l'île — cette façon qu'avait Nysaria de dissoudre les frontières entre veille et sommeil, qui persista pendant les jours qui suivirent le départ comme une image rémanente après avoir regardé une lumière trop vive.
 
 L'amulette de pierre noire était à mon cou. Elle avait cessé de pulser pendant la traversée vers Nectoria — ou plutôt sa pulsation s'était faite plus discrète, moins perceptible, comme un son qui s'éloigne et ne disparaît pas mais cesse d'être au premier plan. Je la gardai. Je la garderai jusqu'à ce que je comprenne ce que cela signifie, de la porter.
 
@@ -66,7 +66,7 @@ Ce n'était pas une question non plus.
 
 ---
 
-Il s'appelait Solvanes. Il avait, selon Sera qui me le dit plus tard, nonante-deux ans — un âge qui en Lunasar était respecté d'une façon différente de la plupart des cultures : non pas parce que la longévité était rare, mais parce que nonante-deux ans lunaires représentaient une quantité très précise d'observations et que les Lunariens mesuraient la sagesse en cycles, pas en années. Solvanes avait vu plus de mille pleines lunes depuis sa naissance. Chacune d'entre elles était notée dans des journaux qu'il conservait dans une bibliothèque dont Sera me dit qu'elle occupait une salle entière de sa maison.
+Il s'appelait Solvanes. Il avait, selon Sera qui me le dit plus tard, nonante-deux ans — un âge qui à Lunasar était respecté d'une façon différente de la plupart des cultures : non pas parce que la longévité était rare, mais parce que nonante-deux ans lunaires représentaient une quantité très précise d'observations et que les Lunariens mesuraient la sagesse en cycles, pas en années. Solvanes avait vu plus de mille pleines lunes depuis sa naissance. Chacune d'entre elles était notée dans des journaux qu'il conservait dans une bibliothèque dont Sera me dit qu'elle occupait une salle entière de sa maison.
 
 Il me parla d'Aldric.
 
@@ -188,7 +188,7 @@ Le symbole était à Evertia.
 
 Je m'assis au bord du quai pendant un long moment.
 
-La mer de Lunasar était bleue d'un bleu net et froid, sans les ambiguïtés de la mer de Nysaria ou les lumières incorrectes de la mer de Vytharia. Une mer ordinaire, fonctionnelle, traversée par des navires de pêche avec leur bruit ordinaire de bois et de cordage. Solvanes était reparti sans attendre ma réaction — avec la délicatesse des très vieux, qui savent que les révélations importantes ont besoin de temps vide autour d'elles.
+La mer de Lunasar était bleue d'un bleu net et froid, sans les ambiguïtés de la mer de Nysaria ni les lumières incorrectes de la mer de Vytharia. Une mer ordinaire, fonctionnelle, traversée par des navires de pêche avec leur bruit ordinaire de bois et de cordage. Solvanes était reparti sans attendre ma réaction — avec la délicatesse des très vieux, qui savent que les révélations importantes ont besoin de temps vide autour d'elles.
 
 Mon père, selon ce que Solvanes me disait, était allé à Nysaria. Il avait vu le passage — depuis l'extérieur, depuis les arbres. Il était revenu. Il avait laissé une carte. Il était rentré chez lui. Il avait fabriqué les crochets de ma table à dessin. Il m'avait appris, indirectement, à regarder le monde comme quelque chose qui peut être compris si on le regarde assez longtemps avec assez de soin.
 
@@ -196,7 +196,7 @@ Dans les registres lunariens, il serait mort d'une pneumonie d'hiver. Dans ma m�
 
 Il y avait là quelque chose que je ne savais pas comment tenir — un sentiment qui n'était pas tout à fait de la tristesse et pas tout à fait de la colère mais quelque chose entre les deux, quelque chose qui ressemblait au vertige qu'on éprouve quand on s'aperçoit que ce qu'on cherchait depuis longtemps était plus proche qu'on ne le croyait et que la distance n'était pas géographique.
 
-Il avait tracé le début de la carte. Il me laissait le finir — ou il me laissait, comme lui, choisir où m'arrêter. La carte ne disait pas, et n'avait peut-être jamais voulu dire, laquelle des deux choses elle était.
+Il avait tracé le début de la carte. Il me laissait la finir — ou il me laissait, comme lui, choisir où m'arrêter. La carte ne disait pas, et n'avait peut-être jamais voulu dire, laquelle des deux choses elle était.
 
 L'amulette pulsait contre ma poitrine.
 

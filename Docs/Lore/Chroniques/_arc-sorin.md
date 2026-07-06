@@ -53,7 +53,7 @@ L'écriture de Sorin au chapitre 1 a quatre tics qu'A.4 doit conserver, retrouve
 
 - **Mesures inutiles** : il donne des dimensions, des distances, des durées (sept ans, quatre cents ans, trente-quatre ans, treize ans) là où un narrateur ordinaire dirait "longtemps" ou "depuis l'enfance". Ce tic est sa façon de tenir la réalité à distance par la précision.
 - **Phrase à incise** : il interrompt sa propre phrase pour préciser, restreindre, qualifier. Tic d'archiviste qui n'a jamais appris à laisser une affirmation respirer.
-- **Note de marge intérieure** : il commente sa propre observation depuis l'extérieur ("c'est une observation sans conséquence. Je la notais parce que les cartographes notent tout..."). Il se prend en flagrant délit d'observation et le justifie. Cette posture meta s'allège progressivement à mesure qu'il accepte d'observer sans se justifier.
+- **Note de marge intérieure** : il commente sa propre observation depuis l'extérieur ("c'est une observation sans conséquence. Je la notais parce que les cartographes notent tout..."). Il se prend en flagrant délit d'observation et le justifie. Cette posture méta s'allège progressivement à mesure qu'il accepte d'observer sans se justifier.
 - **Refus de la métaphore** : "Je n'écrirai pas le nom de celui qui frappait à ma porte". Il évite les figures, préfère les faits. La métaphore est, pour le Sorin du chapitre 1, une trahison de la rigueur. Au chapitre 27 il écrit pourtant "Comme un cœur qui battrait à l'échelle d'une montagne". L'évolution de son rapport à la métaphore est l'un des indicateurs les plus fiables de sa trajectoire.
 
 ---
@@ -82,14 +82,14 @@ Aucune Vertu n'est acquise *définitivement*. Chacune affleure, se manifeste, re
 | **Le Tranchant** | Ch. 03 (Ventera : il *refuse* de se laisser définir par ce qu'il n'est pas) | Ch. 38 (il refuse de passer le portail sous Jumeau) | Ch. 25, 30 (il dit oui à toutes les hypothèses) |
 | **Le Sablier** | Ch. 11 (Ardentris : "le souffle d'Eldoria") | Ch. 27 (Mont Cendra : *si la trame qu'on les dit tenir commençait à se déchirer*) | Ch. 17, 38 (il croit pouvoir *finir* la cartographie, la déposer, la transmettre — déni de finitude personnelle) |
 
-> **Important.** Cette table n'est pas un programme de réussite morale. Sorin n'est jamais "Charge-eux + Voilé + Rouillé + Tranchant + Sablier" en même temps. Il est, à la fin, **un homme qui a fait quelques pas et qui le sait à moitié**. Il *meurt sans savoir s'il est arrivé*. Voir §4.
+> **Important.** Cette table n'est pas un programme de réussite morale. Sorin n'est jamais "porteur de Charge + Voilé + Rouillé + Tranchant + Sablier" en même temps. Il est, à la fin, **un homme qui a fait quelques pas et qui le sait à moitié**. Il *meurt sans savoir s'il est arrivé*. Voir §4.
 
 ### 2.3 Bascule d'Âge — comment elle a lieu
 
-Pas de bascule franche. Sorin **glisse**, **régresse**, **reglisse** entre Loi et Principe sur 40 chapitres. Schéma global :
+Pas de bascule franche. Sorin **glisse**, **régresse**, **re-glisse** entre Loi et Principe sur 40 chapitres. Schéma global :
 
 - **Ch. 01-08** : Sortie violente de la Loi de Kharazir. Sorin tente immédiatement de retrouver une nouvelle Loi (l'Académie de Lumasar), il est expulsé une deuxième fois.
-- **Ch. 09-16** : Période *Désir*. Il erre, il observe, il accumule sans synthétiser. Cette période est en réalité la plus saine de son arc — il *aimerait-ce-qui-est* sans le savoir. Mais il ne le supporte pas longtemps : un cartographe a horreur du vide.
+- **Ch. 09-16** : Période *Désir*. Il erre, il observe, il accumule sans synthétiser. Cette période est en réalité la plus saine de son arc — il pratique l'*aimer-ce-qui-est* sans le savoir. Mais il ne le supporte pas longtemps : un cartographe a horreur du vide.
 - **Ch. 17-25** : **Première régression majeure**. Sorin se construit une nouvelle Loi *à lui* — la Carte du Silence, les six points qui convergent, la mission de comprendre. Il devient *celui qui sait*. C'est l'Âge de la Loi qui revient sous une forme privée : non plus la règle de la Guilde, mais la règle de sa propre théorie. Il n'en sortira pas avant le Mont Cendra.
 - **Ch. 26-32** : Premières fissures. Mont Cendra le *traverse* (il sent la pulsation alors qu'il est Délié) : sa théorie ne couvre pas son expérience. Evertia lui *donne* un cadre (Vael'Ur, Ancrages) qu'il est tenté d'avaler tel quel. **Deuxième régression** : il prend la lecture des Archidruides pour la vérité, alors qu'elle est explicitement présentée comme *une lecture parmi plusieurs* (ce point est déjà bien tenu dans le chapitre 30 actuel et doit être protégé par A.4 : ne pas durcir).
 - **Ch. 33-40** : Approche du Principe. Sorin commence à écrire ses propres lectures comme *lectures*. Il pluralise. Il dépose ses cahiers à Lumasar non pour qu'on lui donne raison, mais pour que d'autres puissent contester. Au ch. 40, il rentre à Kharazir non pour vaincre, mais pour *poser une main sur la dalle scellée et noter une cadence*.

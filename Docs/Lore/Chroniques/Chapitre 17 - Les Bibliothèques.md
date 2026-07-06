@@ -34,7 +34,7 @@ J'écris *certain* et *évidence* et *réponse*. Trois mots que je n'aurais pas 
 
 Holvendar dépasse les descriptions qu'on en fait.
 
-Je l'avais lue — deux textes d'explorateurs alkaraniens et un compte rendu diplomatique d'un négociateur haldrien —, et les descriptions étaient honnêtes dans leurs faits et incomplètes dans leur effet. Elles disaient : une ville taillée dans la montagne cristalline, des galeries voûtées éclairées par des cristaux luminescents, des rues qui sont des couloirs, des plafonds qui sont des cieux artificiels. Elles ne disaient pas ce que cela fait au corps d'entrer dans un espace où l'échelle a été repensée de fond en comble.
+J'avais lu deux textes d'explorateurs alkaraniens et un compte rendu diplomatique d'un négociateur haldrien, et les descriptions étaient honnêtes dans leurs faits et incomplètes dans leur effet. Elles disaient : une ville taillée dans la montagne cristalline, des galeries voûtées éclairées par des cristaux luminescents, des rues qui sont des couloirs, des plafonds qui sont des cieux artificiels. Elles ne disaient pas ce que cela fait au corps d'entrer dans un espace où l'échelle a été repensée de fond en comble.
 
 Parce que c'est ça, avant tout, la sensation d'Holvendar : un nouveau réglage de l'échelle. Les galeries principales font vingt mètres de haut. La lumière cristalline — blanche, légèrement bleue, sans chaleur mais sans froideur non plus, une lumière qui se comporte comme si elle avait appris comment se comporter — arrive de partout et de nulle part, reflétée et réfractée depuis des cristaux enchâssés dans les voûtes si régulièrement qu'aucune ombre ne se forme au sol.
 
@@ -56,7 +56,7 @@ Il marqua un temps. Pas de la méfiance — de l'intérêt. La distinction est n
 
 Je mis un instant à comprendre qu'il me demandait si j'exerçais encore, ou si mes cartes étaient du passé.
 
-Je dis : les deux. Plus précisément ni l'un ni l'autre. Exilé de ma guilde d'origine — Kharazir — pour désaccord de méthode, en voyage libre depuis presque onze mois. Ni actif au sens institutionnel, ni archivé au sens de retraité.
+Je dis : les deux. Plus précisément ni l'un ni l'autre. Exilé de ma guilde d'origine — Kharazir — pour désaccord de méthode, en voyage libre depuis presque onze mois. Ni actif au sens institutionnel ni archivé au sens de retraité.
 
 Il nota cela avec une précision qui suggérait que la catégorie "ni l'un ni l'autre" était parfaitement prévue dans ses formulaires — que Gryndor avait rencontré suffisamment de cas similaires pour en faire une case. Il dit, en refermant ses papiers : « Le statut Vael'Kurash vous est accordé provisoirement. »
 
@@ -106,7 +106,7 @@ Le deuxième jour, je visitai les galeries des bibliothèques elles-mêmes — p
 
 Je compris, en regardant cette pratique, pourquoi les Gryndoriens appellent leurs bibliothèques des bibliothèques de cristal. Ce n'est pas parce que les murs sont de cristal. C'est parce que le cristal est le gardien, et le livre est le prisonnier du cristal — un prisonnier soigné, vénéré, préservé dans un état de stase lumineuse, mais immobile. Les cristaux stockent la mémoire des livres autant que leur substance. Si le livre brûlait, la mémoire cristalline subsisterait. Si le cristal se brisait, le livre survivrait. Les deux systèmes se protègent mutuellement.
 
-Je restai une heure à regarder une archiviste travailler. Elle s'appelait Merris, je l'appris ensuite — une femme d'une trentaine d'années d'une concentration si totale qu'elle ne sembla pas remarquer ma présence pendant quarante minutes. Elle transcrivait un texte d'une écriture ancienne, lentement, avec la précision d'une taille de cristal. Quand elle me remarqua enfin, elle ne marqua ni surprise ni agacement — elle dit simplement, sans lever les yeux de son cahier : « Si vous cherchez quelque chose de spécifique, les Maîtres-Archivistes prennent des demandes le matin. »
+Je restai une heure à regarder une archiviste travailler. Elle s'appelait Merris, je l'appris ensuite — une femme d'une trentaine d'années d'une concentration si totale qu'elle ne sembla pas remarquer ma présence pendant quarante minutes. Elle transcrivait un texte d'une écriture ancienne, lentement, avec la précision d'une taille de cristal. Quand elle me remarqua enfin, elle ne marqua ni surprise ni agacement — elle dit simplement, sans lever les yeux de son cahier : « Si vous cherchez quelque chose de spécifique, les Maîtres-Archivistes reçoivent les demandes le matin. »
 
 Je lui demandai si elle connaissait la Faille de Tempora.
 
@@ -198,7 +198,7 @@ Et Gryndor supprimait l'information depuis cinquante-huit ans.
 
 ---
 
-Je sus pourquoi, cette nuit-là, quand Thalvin Orsett me rejoignit dans ma cellule après que les couloirs se furent vidés de leur trafic habituel, et qu'il me dit — en baissant la voix non par peur des murs mais par habitude acquise — ce que ses collègues géologues lui avaient transmis en contrebande d'hypothèses: qu'Ordavan se trouvait dans une zone que les cartographes de Gryndor avaient depuis lors rayée de toutes les cartes officielles, mais que ses propres relevés de terrain, effectués lors d'une mission d'inventaire minéral sept ans auparavant, montraient que le sol dans un rayon de quarante mètres autour du point zéro de la disparition présentait des propriétés cristallines impossibles à expliquer par aucun phénomène géologique connu.
+Je sus pourquoi, cette nuit-là, quand Thalvin Orsett me rejoignit dans ma cellule après que les couloirs se furent vidés de leur trafic habituel, et qu'il me dit — en baissant la voix non par peur des murs mais par habitude acquise — ce que ses collègues géologues lui avaient transmis en contrebande : qu'Ordavan se trouvait dans une zone que les cartographes de Gryndor avaient depuis lors rayée de toutes les cartes officielles, mais que ses propres relevés de terrain, effectués lors d'une mission d'inventaire minéral sept ans auparavant, montraient que le sol dans un rayon de quarante mètres autour du point zéro de la disparition présentait des propriétés cristallines impossibles à expliquer par aucun phénomène géologique connu.
 
 Cristal naturel : se forme en des millions d'années, sous des pressions graduelles.
 
@@ -222,11 +222,11 @@ Et pour trouver ce que Selvorn m'avait caché.
 
 Le quatrième jour, Merris m'aborda dans la galerie des transcriptions.
 
-Elle arriva par-derrière — non pas en se faufilant, mais simplement parce qu'en Gryndor les archivistes marchent toujours le long des murs et qu'on ne les entend pas venir sur les dalles de cristal poli. Elle s'arrêta à côté de moi, regarda ce que je lisais — un traité de géologie ithararienne de 10 039, un siècle avant Ordavan, qui contenait des relevés de failles tectoniques dans la région de Tolvandor — et dit, sans préambule : « Ce que vous cherchez n'est pas dans les collections de niveau deux. »
+Elle arriva par derrière — non pas en se faufilant, mais simplement parce qu'en Gryndor les archivistes marchent toujours le long des murs et qu'on ne les entend pas venir sur les dalles de cristal poli. Elle s'arrêta à côté de moi, regarda ce que je lisais — un traité de géologie ithararienne de 10 039, un siècle avant Ordavan, qui contenait des relevés de failles tectoniques dans la région de Tolvandor — et dit, sans préambule : « Ce que vous cherchez n'est pas dans les collections de niveau deux. »
 
 Je lui dis que je m'en doutais.
 
-Elle dit : « Ça n'est pas non plus dans les collections de niveau cinq. »
+Elle dit : « Ce n'est pas non plus dans les collections de niveau cinq. »
 
 Cela m'arrêta. Je la regardai.
 
@@ -268,7 +268,7 @@ Ce sont deux choses très différentes.
 
 Le cinquième jour, Selvorn me convoqua pour prendre congé.
 
-C'était ainsi que ça fonctionnait ici : pas d'expulsion, pas d'hostilité, mais un cadre précis — les séjours des Vael'Kurash provisoires en bibliothèques de niveau deux étaient limités à cinq jours, après quoi il fallait soit demander une prolongation justifiée, soit partir. Je n'avais pas de justification académique suffisante pour une prolongation, et Selvorn le savait et le montrait dans la politesse très particulière avec laquelle il reçut ma visite de congé — une politesse sans chaleur ni froideur, la politesse d'un homme qui tient à une frontière et qui fait en sorte que la frontière soit confortable pour les deux côtés.
+C'était ainsi que ça fonctionnait ici : pas d'expulsion, pas d'hostilité, mais un cadre précis — les séjours des Vael'Kurash provisoires dans les bibliothèques de niveau deux étaient limités à cinq jours, après quoi il fallait soit demander une prolongation justifiée, soit partir. Je n'avais pas de justification académique suffisante pour une prolongation, et Selvorn le savait et le montrait dans la politesse très particulière avec laquelle il reçut ma visite de congé — une politesse sans chaleur ni froideur, la politesse d'un homme qui tient à une frontière et qui fait en sorte que la frontière soit confortable pour les deux côtés.
 
 Il me remit une enveloppe. Cartonnée, cachetée d'un sceau que je ne reconnus pas — pas le sceau du Conseil des Sages, pas celui de la Grande Bibliothèque.
 

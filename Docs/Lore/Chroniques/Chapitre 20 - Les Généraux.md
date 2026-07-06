@@ -16,7 +16,7 @@ needs_review_for: []
 
 Lunaris m'avait donné quelque chose que je ne savais pas nommer avec certitude.
 
-J'y avais passé deux nuits, non une. La première parce que j'en avais besoin. La seconde parce que, après ce qui s'était passé la première nuit dans le canyon, je n'avais pas pu partir immédiatement — non par peur, mais par une nécessité de rester assis avec ce que j'avais senti et de ne pas me lever avant d'avoir compris la forme que ça prenait.
+J'y avais passé deux nuits, non une. La première parce que j'en avais besoin. La seconde parce que, après ce qui s'était passé la première nuit dans le canyon, je n'avais pas pu partir immédiatement — non par peur, mais par nécessité de rester face à ce que j'avais senti et de ne pas me lever avant d'avoir compris la forme que ça prenait.
 
 La pulsation sous la roche du canyon de Lunaris était la même que celle d'Ordavan. Pas similaire — la même. Le même intervalle, la même profondeur de fréquence, la même qualité de chaleur résiduelle dans les pierres au toucher, une chaleur qui n'avait rien à voir avec la température de l'air ambiant. J'avais posé la main à plat sur le sol du canyon et j'avais senti Vey'thar battre dessous comme un cœur que personne n'avait ausculté depuis des siècles. Pas métaphoriquement — physiquement, dans la paume, dans les os du poignet.
 
@@ -40,7 +40,7 @@ Ce fut tout. Nous reprîmes la route vers le nord.
 
 La frontière entre Drakora et Pyrtara n'était pas une ligne non plus. C'était un changement de qualité de roche.
 
-La pierre noire volcanique de Drakora laissait place, progressivement puis d'un coup, à quelque chose de plus sombre encore — un basalte massif, dense, dont la surface n'absorbait pas la lumière comme à Drakora mais la rejetait, mat et indifférent. Le sol devenait plus plat. Les montagnes se transformaient en plateaux. Et l'odeur changeait : moins de soufre léger, moins de minéral doux. Un soufre plus lourd, plus chimique, le soufre d'une activité volcanique vivante plutôt que mémorisée. À Drakora, la terre se souvient du feu. À Pyrtara, elle le pratique encore.
+La pierre noire volcanique de Drakora laissait place, progressivement puis d'un coup, à quelque chose de plus sombre encore — un basalte massif, dense, dont la surface n'absorbait pas la lumière comme à Drakora mais la rejetait, mat et indifférent. Le sol devenait plus plat. Les montagnes se transformaient en plateaux. Et l'odeur changeait : moins de soufre léger, moins d'odeur minérale douce. Un soufre plus lourd, plus chimique, le soufre d'une activité volcanique vivante plutôt que mémorisée. À Drakora, la terre se souvient du feu. À Pyrtara, elle le pratique encore.
 
 Dhorvan s'arrêta à la borne de pierre qui marquait la limite administrative. Il n'avait rien à faire au-delà — les Brûlés de Drakora n'avaient pas de juridiction en territoire pyrtarien, et les deux nations, aussi respectueuses l'une de l'autre qu'elles l'étaient, maintenaient des frontières précises que chacune s'abstenait de franchir sans raison valable.
 
@@ -108,7 +108,7 @@ J'ajoutai Vyldor à la liste des lieux où j'aurais des questions à poser. La l
 
 Keldros était exactement ce que les descriptions en faisaient : un complexe militaire posé au milieu du terrain le plus hostile d'Eleris avec la désinvolture d'une institution qui n'a aucun doute sur son droit d'exister là où elle est.
 
-Les baraquements étaient spartanes, oui. La nourriture était minimale, oui — du pain noir, de la viande séchée, des tubercules de feu que j'appris à apprécier pour ce qu'ils étaient : une alimentation sans prétention conçue pour entretenir un corps qui travaille, pas pour satisfaire un palais. Mais ce n'était pas l'austérité de Keldros qui frappa en premier.
+Les baraquements étaient austères, oui. La nourriture était minimale, oui — du pain noir, de la viande séchée, des tubercules de feu que j'appris à apprécier pour ce qu'ils étaient : une alimentation sans prétention conçue pour entretenir un corps qui travaille, pas pour satisfaire un palais. Mais ce n'était pas l'austérité de Keldros qui frappa en premier.
 
 C'était le bruit.
 
@@ -168,11 +168,11 @@ On m'installa à une longue table commune, dans une salle basse et chaude où pl
 
 Mais c'était la qualité de la table qui comptait plus que la nourriture.
 
-Le Délié à ma droite s'appelait Saven. Kharazir, comme Mara, éjecté de la Guilde des Apothicaires deux ans avant moi pour une raison qu'il formulait avec l'économie de quelqu'un qui a raconté l'histoire assez de fois pour ne plus en avoir besoin des détails : « Ils ont changé les règles. Les règles me changeaient moi. J'ai préféré partir. » Il était sergent de la Brigade depuis dix-huit mois. Il me regardait avec le regard de quelqu'un qui reconnaît une expérience partagée et n'en fait pas une cérémonie.
+Le Délié à ma droite s'appelait Saven. Kharazir, comme Mara, éjecté de la Guilde des Apothicaires deux ans avant moi pour une raison qu'il formulait avec l'économie de quelqu'un qui a raconté l'histoire assez de fois pour ne plus avoir besoin d'entrer dans les détails : « Ils ont changé les règles. Les règles me changeaient moi. J'ai préféré partir. » Il était sergent de la Brigade depuis dix-huit mois. Il me regardait avec le regard de quelqu'un qui reconnaît une expérience partagée et n'en fait pas une cérémonie.
 
-À ma gauche, une femme de Gryndor — Thyren, infirmière militaire, partie six mois plus tôt après que son accès aux archives médicales avait été révoqué sur la base d'une circulaire récente interdisant aux Déliés les postes à « responsabilité documentaire ». Elle était en colère encore, mais d'une façon contenue et utile, la colère d'une personne qui a converti l'émotion en énergie de travail.
+À ma gauche, une femme de Gryndor — Thyren, infirmière militaire, partie six mois plus tôt après que son accès aux archives médicales avait été révoqué sur la base d'une circulaire récente interdisant aux Déliés les postes à « responsabilité documentaire ». Elle était encore en colère, mais d'une façon contenue et utile, la colère d'une personne qui a converti l'émotion en énergie de travail.
 
-En face de moi, un Pyrtarien de naissance — Drev, dont le statut de Délié m'étonna avant que je comprenne que Pyrtara produisait ses propres Déliés comme tous les autres pays, simplement sans les traiter différemment dans la vie civile ou militaire. Drev était Lié à quelque chose que les Pyrtariens n'appelaient pas « don » mais « particularité » — une capacité à sentir les variations de chaleur souterraine, un don des profondeurs qui lui servait dans l'entraînement en terrain volcanique. Il était instructeur à Keldros depuis sept ans.
+En face de moi, un Pyrtarien de naissance — Drev, dont le statut de Délié m'étonna avant que je comprenne que Pyrtara produisait ses propres Déliés comme tous les autres pays, simplement sans les traiter différemment dans la vie civile ou militaire. Drev possédait quelque chose que les Pyrtariens n'appelaient pas « don » mais « particularité » — une capacité à sentir les variations de chaleur souterraine, un sens des profondeurs qui lui servait dans l'entraînement en terrain volcanique. Il était instructeur à Keldros depuis sept ans.
 
 Drev me posa la question directement, entre deux bouchées de tubercule : « Kharazir. Tu viens pour rester ou tu passes ? »
 

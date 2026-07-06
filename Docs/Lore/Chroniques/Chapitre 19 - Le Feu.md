@@ -42,7 +42,7 @@ Un cri. Pas un cri d'animal au sens ordinaire du terme. Un son qui commençait d
 
 Je levai la tête.
 
-Il y en avait deux. À hauteur du sommet, dans la lumière rasante, deux silhouettes en vol : des envergures qui rendaient les aigles absurdes, des corps dont je ne compris les proportions qu'après plusieurs secondes, un battement d'aile lent et délibéré. Les écailles du plus grand captèrent le soleil et le renvoyèrent en un éclair d'or fondu.
+Il y en avait deux. À hauteur du sommet, dans la lumière rasante, deux silhouettes en vol : des envergures qui rendaient les aigles absurdes, des corps dont je ne compris les proportions qu'après plusieurs secondes, un battement d'ailes lent et délibéré. Les écailles du plus grand captèrent le soleil et le renvoyèrent en un éclair d'or fondu.
 
 Des dragons.
 
@@ -54,7 +54,7 @@ Je restai assis sur le rocher pendant plusieurs minutes après que les silhouett
 
 ---
 
-Le premier village drakorien s'appelait Veldar — un nom que n'avaient pas mes cartes, parce que Veldar était trop petit pour figurer sur les représentations que la Guilde de Kharazir produisait à destination des marchands. Une vingtaine de maisons en pierre noire, des toits rares, les structures ouvertes sur le ciel avec une architecture qui m'avait d'abord semblé inachevée avant que je comprenne que c'était intentionnel. À Drakora, on laisse le ciel entrer, parce qu'un toit fermé empêche ce qui vole de se poser.
+Le premier village drakorien s'appelait Veldar — un nom absent de mes cartes, parce que Veldar était trop petit pour figurer sur les représentations que la Guilde de Kharazir produisait à destination des marchands. Une vingtaine de maisons en pierre noire, des toits rares, les structures ouvertes sur le ciel avec une architecture qui m'avait d'abord semblé inachevée avant que je comprenne que c'était intentionnel. À Drakora, on laisse le ciel entrer, parce qu'un toit fermé empêche ce qui vole de se poser.
 
 J'arrivai à Veldar au milieu de la matinée, avec le sol volcanique sous les semelles depuis des heures, les jambes qui avaient décidé de fonctionner par automatisme sans me demander mon avis, et une faim suffisamment précise pour que je note son emplacement exact — le creux de l'estomac, pas les intestins, le type de faim qui veut du solide et du chaud et pas de la polémique.
 
@@ -74,13 +74,13 @@ Je le compris plus tard. Pour l'instant, j'entrai.
 
 ---
 
-Elle s'appelait Rethyn. Elle était ce que les Drakoriens nomment une Brûlée — une guerrière qui avait survécu à l'Épreuve du Souffle sans obtenir de lien, et dont la marque au poignet gauche signalait l'appartenance à cette catégorie intermédiaire entre le simple citoyen et l'élite des Liés. Elle gérait Veldar au sens logistique du terme, une sorte de centurion rurale sans garnison, la personne vers laquelle les autres se tournaient quand quelque chose ne fonctionnait pas.
+Elle s'appelait Rethyn. Elle était ce que les Drakoriens nomment une Brûlée — une guerrière qui avait survécu à l'Épreuve du Souffle sans obtenir de lien, et dont la marque au poignet gauche signalait l'appartenance à cette catégorie intermédiaire entre le simple citoyen et l'élite des Liés. Elle gérait Veldar au sens logistique du terme, une sorte de responsable rurale sans garnison, la personne vers laquelle les autres se tournaient quand quelque chose ne fonctionnait pas.
 
 Elle me prépara à manger : viande de wyverne grillée sur un feu qui n'était pas ordinaire, racines cuites dans les cendres, et Souffle d'Aube versé dans un bol épais. Les braises brûlaient d'un orange trop profond pour du bois. La chaleur rayonnait de façon plus concentrée et donnait à la viande une croûte sombre, une fumée ambrée. Rethyn me regarda boire avec l'expression de quelqu'un qui attend de voir si l'étranger survivra à la première gorgée.
 
 Je bus. La chaleur descendit dans la gorge comme un glissement de terrain — pas désagréable, en réalité, mais impossible à ignorer. Elle s'installa dans l'estomac et irradia vers le torse, et pendant plusieurs secondes je sus avec précision exactement comment le feu se propage dans un matériau organique.
 
-Rethyn, qui m'observait, eut quelque chose aux lèvres qui pouvait être satisfaction ou moquerie — les deux n'étaient probablement pas séparables.
+Rethyn, qui m'observait, eut quelque chose aux lèvres qui pouvait être de la satisfaction ou de la moquerie — les deux n'étaient probablement pas séparables.
 
 — Le feu du foyer est draconique ?
 
@@ -138,7 +138,7 @@ Elle dit : « Ça signifie que dans deux jours, quelqu'un viendra te chercher po
 
 Les deux jours d'attente à Veldar furent étranges d'une façon que je n'avais pas anticipée.
 
-Étranges non pas parce qu'il se passait des choses inquiétantes — il ne se passa rien d'inquiétant. Étranges parce que rien ne se passa du tout, et que l'absence d'urgence, après des semaines de fuite permanente, avait une texture particulière. Le corps ne sait pas quoi faire du calme quand il s'est habitué à l'alerte. Il cherche les menaces. Il écoute les sons de façon compulsive. Il interprète le silence comme un silence pré-danger plutôt que comme l'absence de danger.
+Étranges non pas parce qu'il se passait des choses inquiétantes — il ne se passa rien d'inquiétant. Étranges parce que rien ne se passa du tout, et que l'absence d'urgence, après des semaines de fuite permanente, avait une texture particulière. Le corps ne sait pas quoi faire du calme quand il s'est habitué à l'alerte. Il cherche les menaces. Il écoute les sons de façon compulsive. Il interprète le silence comme un signe de danger imminent plutôt que comme l'absence de danger.
 
 Je marchai autour de Veldar. Le village était entouré d'une végétation que je reconnus, d'après les descriptions, comme la forêt ignifuge du Sud — des arbres dont l'écorce noircissait sans se consumer, une forêt qui sentait la résine brûlée en permanence comme si elle était toujours en train de se souvenir du feu le plus récent. Les habitants de Veldar me regardaient passer avec la même curiosité utilitaire que Rethyn — des regards qui calculaient plutôt que ne jugeaient, des expressions de gens habitués à évaluer rapidement la nature des choses et à agir en conséquence.
 
@@ -184,7 +184,7 @@ La route vers Myrthorin était une montée permanente.
 
 La pierre volcanique noire sous les sabots des montures — ils m'avaient fourni une bête, une jument courte et robuste au tempérament indifférent qui rappelait Pardine par sa façon d'avancer sans opinion particulière sur le trajet — absorbait le son des pas et donnait à la progression une qualité silencieuse que j'aurais trouvée apaisante en d'autres circonstances. Les deux Brûlés ne parlèrent pas pendant les premières heures. Pas d'hostilité dans ce silence — juste l'économie de parole de gens dont l'habitat quotidien est l'altitude et le vent.
 
-Le massif s'appelait Dhorvan. Je l'appris à la mi-journée, quand il me tendit de la viande séchée et du pain de cendre sans explication et que je le remerciai en l'appelant je ne sais quoi, et qu'il corrigea avec l'automatisme de quelqu'un qui a l'habitude de se nommer parce que les gens ne retiennent pas son nom du premier coup. Le plus jeune ne se présenta pas. J'aurais pu lui demander. Je ne le fis pas — à Drakora, le silence avait l'air d'une monnaie d'échange raisonnable.
+Le massif s'appelait Dhorvan. Je l'appris à la mi-journée, quand il me tendit de la viande séchée et du pain de cendre sans explication et que je le remerciai en l'appelant d'un nom approximatif, qu'il corrigea avec l'automatisme de quelqu'un qui a l'habitude de se nommer parce que les gens ne retiennent pas son nom du premier coup. Le plus jeune ne se présenta pas. J'aurais pu lui demander. Je ne le fis pas — à Drakora, le silence avait l'air d'une monnaie d'échange raisonnable.
 
 Je mangeai. La viande séchée avait ce goût fumé particulier que je commençais à associer à la présence du feu draconique — pas de la fumée ordinaire, quelque chose de plus complexe, une fumée qui avait une profondeur en bouche comme si la bête avait été fumée non pas sur quelques heures mais sur des siècles. Ce qui était, dans un sens métaphorique, peut-être vrai : si les braises des dragons circulent à travers les foyers de Drakora depuis des générations, alors la viande fumée ici portait en elle plusieurs générations de souffle.
 
@@ -218,13 +218,13 @@ Je le suivis, avec dans la poitrine quelque chose de chaud qui n'était pas tout
 
 Myrthorin apparut en fin d'après-midi, quand le soleil frappait le flanc occidental du Pic de l'Aube et que la lumière orangée faisait de la pierre noire quelque chose d'autre — quelque chose d'ambre, de vivant, d'une couleur qui n'avait pas de nom ordinaire.
 
-La cité était verticale. Je l'avais lu. Mais le mot « verticale » ne rend pas compte de ce que ça signifie d'arriver au pied d'une ville qui monte. Les quartiers les plus bas à hauteur de ma tête. Au-dessus, d'autres niveaux. Au-dessus encore, d'autres, reliés par des escaliers taillés dans la roche comme si la montagne avait été sculptée de l'intérieur plutôt que d'avoir été construite par-dessus. Et au sommet, visible de tout et par tout le monde, un édifice ouvert sur les quatre vents dont les proportions n'avaient pas l'air d'avoir été conçues pour des humains.
+La cité était verticale. Je l'avais lu. Mais le mot « verticale » ne rend pas compte de ce que ça signifie d'arriver au pied d'une ville qui monte. Les quartiers les plus bas à hauteur de ma tête. Au-dessus, d'autres niveaux. Au-dessus encore, d'autres, reliés par des escaliers taillés dans la roche comme si la montagne avait été sculptée de l'intérieur plutôt que d'avoir été construite par-dessus. Et au sommet, visible de partout et par tous, un édifice ouvert sur les quatre vents dont les proportions n'avaient pas l'air d'avoir été conçues pour des humains.
 
 Le Nid Royal. Et dans le Nid Royal, quelque chose d'or qui se déplaçait.
 
 Je m'arrêtai sur le chemin d'accès et regardai pendant plusieurs secondes. Dhorvan, à côté de moi, ne dit rien. Le jeune Brûlé non plus. Ils avaient l'habitude de cet arrêt — ils l'avaient probablement vu chez tous les étrangers qui arrivaient à Myrthorin pour la première fois.
 
-Voldrax était vieux, je l'apprendrais. La Reine Syraeth était liée à lui depuis quarante ans et il vieillissait avec elle — une usure partagée, une diminution en miroir. Mais depuis le bas du chemin d'accès, à cette distance, dans cette lumière, la silhouette dorée qui se mouvait dans le Nid Royal était encore la chose la plus grande et la plus vivante que j'avais vue dans tous mes trois cent cinquante-cinq jours de voyage. La taille qui empêche la comparaison. La façon de bouger qui redéfinit ce que bouger signifie.
+Voldrax était vieux, je l'apprendrais. La Reine Syraeth était liée à lui depuis quarante ans et il vieillissait avec elle — une usure partagée, une diminution en miroir. Mais depuis le bas du chemin d'accès, à cette distance, dans cette lumière, la silhouette dorée qui se mouvait dans le Nid Royal était encore la chose la plus grande et la plus vivante que j'avais vue en trois cent cinquante-cinq jours de voyage. La taille qui empêche la comparaison. La façon de bouger qui redéfinit ce que bouger signifie.
 
 Je pensai à la vitrification d'Ordavan. Je pensai à la chaleur qui monte.
 
@@ -310,7 +310,7 @@ Thareth me laissa partir vers Lunaris le huitième jour.
 
 Il me laissa partir avec Dhorvan — toujours Dhorvan, qui avait l'air d'avoir accepté ma surveillance comme une mission de long terme — et avec une formulation dont je ne savais pas encore comment l'interpréter : « Ce que tu trouves là-bas nous appartient aussi. Pas à Gryndor. À Drakora. Et à toi, si tu le partages. »
 
-C'était un accord. Pas un accord signé, pas un accord entre égaux — j'étais le moins puissant des deux parties de façon évidente. Mais un accord qui reconnaissait que j'avais quelque chose à donner et que cela valait quelque chose en échange d'une protection provisoire.
+C'était un accord. Pas un accord signé, pas un accord entre égaux — j'étais la partie la moins puissante, de façon évidente. Mais un accord qui reconnaissait que j'avais quelque chose à donner et que cela valait quelque chose en échange d'une protection provisoire.
 
 J'avais passé onze jours à Myrthorin en me demandant si j'étais un outil dans les mains de Drakora. La réponse était : partiellement. Mais j'étais aussi un outil dans mes propres mains, et les deux utilisations n'étaient pas nécessairement contradictoires. Mon père avait sans doute fait le même calcul.
 

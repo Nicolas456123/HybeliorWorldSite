@@ -52,7 +52,7 @@ Je lui parlai pendant deux heures. Elle posa des questions précises, toujours p
 
 Elle me présenta à Selendris.
 
-Je connaissais le nom. Tout le monde qui s'intéressait à l'histoire de l'Académie de Prismalith connaissait Selendris — la Veilleuse devenue Archiviste devenue maîtresse de chaire, dont le père avait plongé dans les strates oniriques profondes et n'en était jamais remonté, et qui passait ses soirées à tenir sa main en lui racontant sa journée. Une femme de cinquante-deux ans dans la sobriété particulière de quelqu'un dont la douleur privée est vieille et bien rangée.
+Je connaissais le nom. Tous ceux qui s'intéressaient à l'histoire de l'Académie de Prismalith connaissaient Selendris — la Veilleuse devenue Archiviste devenue maîtresse de chaire, dont le père avait plongé dans les strates oniriques profondes et n'en était jamais remonté, et qui passait ses soirées à tenir sa main en lui racontant sa journée. Une femme de cinquante-deux ans dans la sobriété particulière de quelqu'un dont la douleur privée est vieille et bien rangée.
 
 Elle m'attendait dans un petit bureau au troisième étage de la bibliothèque. Les murs étaient couverts de cartes — pas les cartes géographiques ordinaires mais des cartes de strates, des représentations des couches oniriques que le Somnium Vigil cartographiait depuis des générations, des documents qui ressemblaient à des coupes transversales d'un monde vertical plutôt qu'horizontal.
 
@@ -192,15 +192,15 @@ Elle savait déjà où.
 
 *« Kharazir. »*
 
-Elle prit mes mains — un geste inattendu, bref, de quelqu'un qui exprime quelque chose qu'elle n'a pas les mots pour formuler dans le cadre qui est le sien. Puis elle les lâcha et retourna vers la bibliothèque.
+Elle prit mes mains — un geste inattendu, bref, de quelqu'un qui exprime quelque chose pour quoi elle n'a pas les mots dans le cadre qui est le sien. Puis elle les lâcha et retourna vers la bibliothèque.
 
 ---
 
 Je passai une dernière nuit à Prismalith dans la chambre de l'auberge des Voiles. La fenêtre donnait sur les tours de l'Académie, dont les cristaux ne reflétaient plus rien dans l'obscurité mais gardaient une lueur interne — froide, persistante, la lueur particulière des choses qui emmagasinent la lumière pour la restituer plus tard.
 
-Je mangeai seul — du pain aux cristaux que l'aubergiste servait avec une confiture de fruits de haute saison, et un morceau de fromage de Kharazir qu'un marchand avait vendu à la cuisine, reconnaissable à sa croûte safranée. Le goût du Kharazir que je n'avais pas mangé depuis huit cent quatre-vingt-quinze jours — dense, légèrement piquant, avec cette note terreuse des herbes des plaines de Solandra. Je mangeai lentement, en notant dans le cahier dix-sept les dernières choses qui me venaient à l'esprit sur Lumasar, sur Selendris, sur le Tribunal, sur ce que j'avais déposé là et ce que ça voulait dire.
+Je mangeai seul — du pain aux cristaux que l'aubergiste servait avec une confiture de fruits de haute saison, et un morceau de fromage de Kharazir qu'un marchand avait vendu à la cuisine, reconnaissable à sa croûte safranée. Le goût du Kharazir que je n'avais pas mangé depuis huit cent quatre-vingt-quinze jours — dense, légèrement piquant, avec cette note terreuse des herbes des plaines de Solandra. Je mangeai lentement, en notant dans le cahier dix-sept les dernières choses qui me venaient à l'esprit sur Lumasar, sur Selendris, sur le Tribunal, sur ce que j'avais déposé là et ce que cela voulait dire.
 
-Une thèse qu'on dépose dans une institution n'est pas perdue. Elle est simplement lente. Elle travaille à la vitesse des institutions — à la vitesse des commissions de recherche et des archives copiées et des étudiants qui liront les copies vingt ans plus tard et qui feront eux-mêmes des connexions, en validant certaines pages et en démolissant les autres. C'est plus lent que le monde qui change. Mais c'est plus durable que la mémoire d'un seul homme — et plus rigoureux, aussi, que ce qu'un seul homme peut soutenir contre lui-même.
+Une thèse qu'on dépose dans une institution n'est pas perdue. Elle est simplement lente. Elle travaille à la vitesse des institutions — à la vitesse des commissions de recherche, des copies archivées et des étudiants qui les liront vingt ans plus tard, en faisant eux-mêmes des connexions, en validant certaines pages et en démolissant les autres. C'est plus lent que le monde qui change. Mais c'est plus durable que la mémoire d'un seul homme — et plus rigoureux, aussi, que ce qu'un seul homme peut soutenir contre lui-même.
 
 Et j'avais d'autres dépôts à faire. Des dépôts plus urgents, dans des endroits où la lenteur institutionnelle n'était pas le bon outil.
 

@@ -22,7 +22,7 @@ Je marchai pendant trois jours depuis la dernière ville astravienne vers le nor
 
 La frontière d'Elarian n'est pas un poste de garde. C'est un changement de roche.
 
-À un certain endroit de la route — un endroit que les cartes marquent d'une ligne mais que le terrain marque d'une fracture géologique, un changement de strate visible dans les parois de la gorge qui longe la route du nord — le granit gris cède la place à quelque chose de plus sombre, un basalte presque noir traversé de veines de quartz blanc qui brillent quand on les frappe sous la bonne lumière. Ce basalte, c'est la roche d'Elarian. Les Elariens la connaissent comme on connaît une langue maternelle — dans le corps avant dans le mot. Le changement de roche est aussi net qu'une porte.
+À un certain endroit de la route — un endroit que les cartes marquent d'une ligne mais que le terrain marque d'une fracture géologique, un changement de strate visible dans les parois de la gorge qui longe la route du nord — le granit gris cède la place à quelque chose de plus sombre, un basalte presque noir traversé de veines de quartz blanc qui brillent quand on les frappe sous la bonne lumière. Ce basalte, c'est la roche d'Elarian. Les Elariens la connaissent comme on connaît une langue maternelle — dans le corps avant les mots. Le changement de roche est aussi net qu'une porte.
 
 Je passai cette porte le matin du jour 506.
 
@@ -60,7 +60,7 @@ Devant cette flamme, Hrothgar VII m'écouta. Il m'écouta d'une façon particuli
 
 Je lui parlai de mon voyage. Pas des détails — pas de Galdryn ni de Varennis ni de la marque dans la roche souterraine. Je lui parlai des perturbations que j'avais observées depuis le début : les esprits silencieux, les anomalies stellaires, le calendrier des saisons qui se décale. Je lui demandai si Elarian avait observé quoi que ce soit de similaire.
 
-Il dit : « Nous ne nous plaignons pas du froid.»
+Il dit : « Nous ne nous plaignons pas du froid. »
 
 Ce n'était pas une réponse évasive — c'était une réponse culturelle que je mis quelques secondes à déchiffrer. Elarian ne se plaint pas du froid parce que le froid est leur condition normale. Les perturbations qui agitent les nations du sud depuis des mois — des changements dans ce qui devrait être stable, des silences là où il y avait de la présence — sont peut-être invisibles pour un peuple dont la condition de base est l'adversité constante. Ce qui pour eux serait une perturbation serait peut-être imperceptible dans le niveau général de difficulté qu'ils habitent depuis toujours.
 
@@ -102,7 +102,7 @@ Il dit : « Pas la même. Les os qui repoussent ne repoussent pas droits. »
 
 Je passai une semaine en Elarian.
 
-Une semaine qui fut la semaine la plus froide de mon voyage depuis Evertia — non pas la plus difficile physiquement, le corps finit par s'adapter à des conditions qu'il n'a pas connues si on lui laisse le temps, et j'eus le temps, mais la semaine où le froid me parla de la façon dont les conditions extrêmes parlent quand on les laisse. Le froid d'Elarian ne vous demande rien — il affirme. Il affirme que la chaleur est une opinion. Il affirme que la survie est un argument, pas un droit. Pendant une semaine, je dormis dans des longues maisons dont les foyers ne s'éteignaient jamais, je mangeai la nourriture des clans — la viande séchée, le pain de tourbe, la bière épaisse qui chauffe de l'intérieur vers l'extérieur —, et je compris quelque chose sur le rapport de ce peuple au temps.
+Une semaine qui fut la semaine la plus froide de mon voyage depuis Evertia — non pas la plus difficile physiquement, le corps finit par s'adapter à des conditions qu'il n'a pas connues si on lui laisse le temps, et j'eus le temps, mais la semaine où le froid me parla de la façon dont les conditions extrêmes parlent quand on les laisse. Le froid d'Elarian ne vous demande rien — il affirme. Il affirme que la chaleur est une opinion. Il affirme que la survie est un argument, pas un droit. Pendant une semaine, je dormis dans de longues maisons dont les foyers ne s'éteignaient jamais, je mangeai la nourriture des clans — la viande séchée, le pain de tourbe, la bière épaisse qui chauffe de l'intérieur vers l'extérieur —, et je compris quelque chose sur le rapport de ce peuple au temps.
 
 Les Elariens ne craignent pas la patience. Ils ont été formés à elle par des générations d'hivers — des hivers qui durent, des hivers qui reviennent, des hivers qu'on ne combat pas. Combattre les conditions naturelles est le premier pas vers l'épuisement, et l'épuisement le premier pas vers la mort. On attend. On prépare. On attend encore. Et quand l'hiver finit — parce qu'il finit toujours, la Rota Mundi le dit et l'expérience le confirme — on repart.
 
@@ -130,7 +130,7 @@ Dans le couloir du premier soir, je croisai une jeune femme.
 
 ---
 
-Je ne la vis d'abord qu'une seconde — elle sortait d'une pièce que je passai, et elle portait dans ses mains un bol dont le contenu fumait légèrement d'une vapeur qui n'était pas simplement de la chaleur mais quelque chose de plus coloré, une vapeur vaguement verte, le genre de détail qu'on note sans avoir de catégorie pour le noter. Elle avait une vingtaine d'années, ou peut-être moins — les guérisseurs de Ryldor ont parfois une façon de porter leur âge qui les fait paraître plus ou moins vieux selon la lumière et ce qu'ils viennent de faire. Ses mains, tenant le bol, avaient quelque chose d'inhabituellement concentré, comme si tenir cet objet demandait une attention continue qu'un bol ordinaire n'exige pas.
+Je ne la vis d'abord qu'une seconde — elle sortait d'une pièce que je passai, et elle portait dans ses mains un bol dont le contenu fumait légèrement d'une vapeur qui n'était pas simplement de la chaleur mais quelque chose de plus coloré, une vapeur vaguement verte, le genre de détail qu'on note sans avoir de catégorie pour le noter. Elle avait une vingtaine d'années, ou peut-être moins — les guérisseurs de Ryldor ont parfois une façon de porter leur âge qui les fait paraître plus ou moins vieux selon la lumière et ce qu'ils viennent de faire. Ses mains, autour du bol, avaient quelque chose d'inhabituellement concentré, comme si tenir cet objet demandait une attention continue qu'un bol ordinaire n'exige pas.
 
 Je passai. Je me retournai une fois, par habitude de cartographe — toujours regarder derrière pour avoir la vue complète.
 
@@ -164,7 +164,7 @@ Ce regard-là, je l'avais appris à lire. C'est le regard des gens qui ont une i
 
 Ils décidèrent que oui.
 
-La femme au centre dit que plusieurs espèces de plantes médicinales avaient montré des modifications de propriétés depuis environ six mois. Non pas perdues — altérées. Comme si la composition interne des plantes répondait à quelque chose qui changeait dans le sol. Les champignons de Zelthar, en particulier — les champignons anciens qui avaient évolué depuis des siècles en coexistence avec le Fléau dormant — montraient une agitation qu'aucun des champignonistes n'arrivait à expliquer par des facteurs environnementaux visibles. Comme s'ils sentaient quelque chose que les instruments des guérisseurs ne détectaient pas encore.
+La femme au centre dit que plusieurs espèces de plantes médicinales avaient montré des modifications de propriétés depuis environ six mois. Non pas perdues — altérées. Comme si la composition interne des plantes répondait à quelque chose qui changeait dans le sol. Les champignons de Zelthar, en particulier — les champignons anciens qui avaient évolué depuis des siècles en coexistence avec le Fléau dormant — montraient une agitation qu'aucun des champignonnistes n'arrivait à expliquer par des facteurs environnementaux visibles. Comme s'ils sentaient quelque chose que les instruments des guérisseurs ne détectaient pas encore.
 
 Je demandai si le Fléau lui-même avait montré des signes.
 
@@ -272,7 +272,7 @@ Elle dit : « Ce que vous cherchez est déjà là-bas. Depuis le début. »
 
 Je ne répondis pas à cela directement — non pas parce que je n'avais rien à répondre, mais parce que certaines choses se disent mieux avec un regard qu'avec des mots, et que le regard que je lui donnai contint ce que j'aurais mis plusieurs phrases à formuler. Qu'elle avait raison. Que je le savais depuis longtemps. Que savoir ne signifie pas être prêt.
 
-Elle dit, en reprenant sa plantation sans me regarder — le geste de quelqu'un qui dit quelque chose d'important en ayant l'air de dire autre chose : « Le Fléau que je contrôle, je ne sais pas depuis combien de temps il est éveillé vraiment. Je ne sais pas si je le contrôle ou si c'est lui qui me permet de croire que je le contrôle. »
+Elle dit, en reprenant sa plantation sans me regarder — le geste de quelqu'un qui dit quelque chose d'important en ayant l'air de dire autre chose : « Le Fléau que je contrôle, je ne sais pas depuis combien de temps il est vraiment éveillé. Je ne sais pas si je le contrôle ou si c'est lui qui me permet de croire que je le contrôle. »
 
 Elle dit cela avec la tranquillité d'une personne qui a intégré l'incertitude depuis assez longtemps pour ne plus en avoir peur. Pas la tranquillité de l'ignorance — la tranquillité de quelqu'un qui a regardé l'incertitude en face assez souvent pour s'y sentir à l'aise.
 

@@ -32,7 +32,7 @@ Ils voyageaient en groupe de douze — sept cavaliers et cinq yourtes montées s
 
 Ils me virent de loin — inévitablement, dans la steppe, on se voit toujours de loin, et ne pas être vu n'est pas une option. Ils ne changèrent pas de cap. Ils ne ralentirent pas. Ils attendirent simplement que je les rejoigne, avec la patience tranquille de ceux qui ont le temps parce que le temps, pour eux, est mesuré en routes et non en heures.
 
-Le chef — une femme d'une cinquantaine d'années portant un talisman de cuir tressé au poignet droit, les cheveux attachés en quatre nattes distinctes — me regarda arriver sans rien dire jusqu'à ce que je fusse à deux mètres. Puis elle dit quelque chose en lytharien que je ne compris pas. Je répondis en galenorien. Elle n'eut aucune réaction d'incompréhension — simplement un léger ajustement de regard, comme quelqu'un qui change d'outil dans sa boîte.
+La cheffe — une femme d'une cinquantaine d'années portant un talisman de cuir tressé au poignet droit, les cheveux attachés en quatre nattes distinctes — me regarda arriver sans rien dire jusqu'à ce que je fusse à deux mètres. Puis elle dit quelque chose en lytharien que je ne compris pas. Je répondis en galenorien. Elle n'eut aucune réaction d'incompréhension — simplement un léger ajustement de regard, comme quelqu'un qui change d'outil dans sa boîte.
 
 Elle dit, en galenorien teinté d'un accent qui roulait les consonnes comme des galets dans une rivière : « Vous allez à pied. »
 
@@ -70,7 +70,7 @@ Je ne les dis pas à voix haute. Je les notai dans mon journal dès que je fus s
 
 Je restai quatre jours à Lytharil. Quatre jours dans le vent qui n'arrête jamais, dans l'odeur d'herbe et de cuir et de fumée de camp, dans le bruit des chevaux qui est différent du silence de la jungle — pas son opposé, juste son pendant, l'animation de surface d'une étendue à ciel ouvert par opposition à l'animation de profondeur d'une étendue close.
 
-Ryvan me prêta une monture le deuxième jour pour explorer la région environnante. Je ne suis pas cavalier — je l'avais dit, elle l'avait entendu avec la même expression qu'en apprenant que je marchais à pied. Elle me donna un cheval que les Lythariens appellent un « vieux sage » — un animal qui a traversé assez de steppes pour avoir perdu la nervosité des jeunes bêtes et qui porte son cavalier sans nécessiter de conduite active, comme un guide qui accepte votre présence sans vous demander votre avis.
+Ryvan me prêta une monture le deuxième jour pour explorer la région environnante. Je ne suis pas cavalier — je l'avais dit, elle l'avait entendu avec la même expression qu'en apprenant que je marchais. Elle me donna un cheval que les Lythariens appellent un « vieux sage » — un animal qui a traversé assez de steppes pour avoir perdu la nervosité des jeunes bêtes et qui porte son cavalier sans nécessiter de conduite active, comme un guide qui accepte votre présence sans vous demander votre avis.
 
 Je chevauchais au pas dans les herbes et je regardais le sol. Je cherchais les dépressions. Les creux où les chevaux ne voulaient pas aller. Je n'en approchais pas — le vieux sage de toute façon aurait refusé, avec une inflexibilité douce mais absolue, comme tous les animaux qui ont décidé de quelque chose. Je les regardais de loin. Ils n'avaient rien de spectaculaire. Juste des endroits où le terrain s'inclinait vers le bas de quelques pieds, des cuvettes naturelles que les pluies remplissaient en hiver et que le vent asséchait le reste de l'année.
 
@@ -78,7 +78,7 @@ Mais depuis combien de temps les chevaux les évitaient-ils ? Depuis l'automne, 
 
 Le même calendrier. Encore.
 
-Je ne suis pas le genre d'homme qui croit aux coïncidences. Je suis cartographe — je crois aux corrélations, et je crois que les corrélations méritent d'être lues, même si la lecture qu'on en fait reste la sienne propre. La direction qui se dégageait dans mes notes était constante : vers le bas. Selon les témoignages que j'avais recueillis, vers quelque chose sous la steppe, sous la jungle, sous les racines du Bosquet Primordial qui saignaient, sous les mines d'Altram où le Fragment Zéro pulse.
+Je ne suis pas le genre d'homme qui croit aux coïncidences. Je suis cartographe — je crois aux corrélations, et je crois que les corrélations méritent d'être lues, même si chaque lecture reste propre à celui qui la fait. La direction qui se dégageait dans mes notes était constante : vers le bas. Selon les témoignages que j'avais recueillis, vers quelque chose sous la steppe, sous la jungle, sous les racines du Bosquet Primordial qui saignaient, sous les mines d'Altram où le Fragment Zéro pulse.
 
 ---
 
@@ -138,7 +138,7 @@ Le serviteur qui remit le vin à ce moment-là portait au cou un anneau de cuir 
 
 Je l'avais déjà vu à Nectoria : sur deux femmes au marché, sur un porteur, sur l'homme qui balayait le couloir. La première heure, je l'avais classé comme signe de confrérie ou de quartier. La deuxième, j'avais compris. Je ne l'avais pas écrit.
 
-Le mot local est *liés-au-foyer*. Le mot que les marchands étrangers utilisent entre eux est plus court. Trois maisons sur dix à Nectoria les emploient sans contrat parce que l'anneau est le contrat. L'Oligarchie des Voilés affirme depuis vingt ans que la pratique est *en voie d'extinction*. Mes yeux disent autre chose.
+Le mot local est *liés au foyer*. Le mot que les marchands étrangers utilisent entre eux est plus court. Trois maisons sur dix à Nectoria les emploient sans contrat parce que l'anneau est le contrat. L'Oligarchie des Voilés affirme depuis vingt ans que la pratique est *en voie d'extinction*. Mes yeux disent autre chose.
 
 Je n'ai rien dit au marchand. Je n'ai pas demandé à voir le bureau qui régule les contrats de service. Je n'ai même pas pris note du nom du serviteur, parce que je ne le lui avais pas demandé.
 
@@ -190,7 +190,7 @@ Il parla.
 
 Je n'entendis pas les mots.
 
-Je veux dire que ses lèvres bougeaient — je voyais ses lèvres bouger, et je reconnaissais la forme de certaines syllabes, et son visage avait l'expression de quelqu'un qui dit quelque chose d'important, quelque chose qu'il a réfléchi avant de dire, quelque chose qu'il dit une fois et ne répétera pas. Mais entre ses lèvres et mes oreilles, il y avait quelque chose — pas du silence, pas du bruit, quelque chose entre les deux, un interférent, comme essayer d'écouter à travers une vitre épaisse. Je pouvais voir la forme de ce qu'il disait. Je ne pouvais pas l'entendre.
+Je veux dire que ses lèvres bougeaient — je voyais ses lèvres bouger, et je reconnaissais la forme de certaines syllabes, et son visage avait l'expression de quelqu'un qui dit quelque chose d'important, quelque chose qu'il a mûri avant de le dire, quelque chose qu'il dit une fois et ne répétera pas. Mais entre ses lèvres et mes oreilles, il y avait quelque chose — pas du silence, pas du bruit, quelque chose entre les deux, un interférent, comme essayer d'écouter à travers une vitre épaisse. Je pouvais voir la forme de ce qu'il disait. Je ne pouvais pas l'entendre.
 
 Je me réveillai dans le lit de l'auberge avec la lumière incorrecte du Voile qui entrait par la fenêtre et les mains posées à plat sur le matelas, comme si j'avais essayé de tenir quelque chose.
 
@@ -206,13 +206,13 @@ Le lendemain matin, je marchai jusqu'à Brystalis.
 
 Je n'avais pas l'intention d'y aller — la capitale de Vytharia, le cœur du Voile, n'était pas dans mon itinéraire raisonnable. Mais je me retrouvai sur la route qui y menait sans avoir clairement décidé d'y aller, et dans ce pays particulier où la décision et le rêve ont un contour flou, je laissai la route choisir.
 
-Brystalis est une ville de pierre grise que les illusions habillent en permanence. Les Veilleurs — les seuls habitants capables de la voir telle qu'elle est — patrouillent avec les yeux de ceux qui ont appris à ne faire confiance à aucune perception. Pour tout le monde d'autre, la ville est un fait variable : une tour d'argent pour l'un, un jardin pour l'autre. Pour moi, ce matin-là, la ville ressemblait à Rukhsar.
+Brystalis est une ville de pierre grise que les illusions habillent en permanence. Les Veilleurs — les seuls habitants capables de la voir telle qu'elle est — patrouillent avec les yeux de ceux qui ont appris à ne faire confiance à aucune perception. Pour tous les autres, la ville est un fait variable : une tour d'argent pour l'un, un jardin pour l'autre. Pour moi, ce matin-là, la ville ressemblait à Rukhsar.
 
 Non pas Rukhsar la ville réelle — Rukhsar telle qu'elle était dans mon souvenir d'avant le voyage, avant les anomalies, avant le Fragment Zéro et la Carte du Silence. Les fontaines du fond du canyon qui chantaient encore. Les rues que je connaissais par cœur. Cette familiarité douce et sans menace que les lieux d'enfance ont quand on les retrouve en imagination.
 
 Je sus que c'était le Voile. Je sus que ma propre mémoire alimentait ce que je voyais. Cette conscience ne rendit pas la vision moins nette — juste différente. Juste vraie d'une autre façon.
 
-Un Tisseur de Voile m'aborda à l'entrée de la ville. Une femme d'une trentaine d'années portant la robe sombre des administrateurs mystiques, avec le regard particulier des gens de Vytharia — non pas désaxé, mais légèrement à côté de vous, comme s'ils regardaient simultanément votre corps et quelque chose que votre corps projetait sans le savoir. Elle dit qu'elle avait été informée de ma présence. Elle ne précisa pas par qui.
+Une Tisseuse de Voile m'aborda à l'entrée de la ville. C'était une femme d'une trentaine d'années portant la robe sombre des administrateurs mystiques, avec le regard particulier des gens de Vytharia — non pas désaxé, mais légèrement à côté de vous, comme s'ils regardaient simultanément votre corps et quelque chose que votre corps projetait sans le savoir. Elle dit qu'elle avait été informée de ma présence. Elle ne précisa pas qui l'avait informée.
 
 Elle me demanda si j'avais bien dormi.
 
@@ -242,7 +242,7 @@ Je passai la journée à Brystalis.
 
 Ce n'était pas dans mon plan. Je n'ai plus vraiment de plan depuis Warenthor — j'ai une direction, qui est le nord, et une destination, qui est Celethor, et entre les deux une obligation de passer par Vytharia que j'honore. Mais la journée à Brystalis m'apprit quelque chose que je n'aurais pas appris en restant sur la route.
 
-J'appris que les Cauchemars Éveillés — cette chose que les Veilleurs enquêtaient sans trouver d'explication, ces habitants qui se réveillaient avec des blessures correspondant à des morts violentes dans d'autres versions du monde — avaient commencé exactement au même moment que tout le reste. Pas au même moment dans le sens d'une approximation. Au même moment dans le sens d'une date : les premiers cas avaient été documentés sept mois plus tôt, exactement sept mois.
+J'appris que les Cauchemars Éveillés — cette chose sur laquelle les Veilleurs enquêtaient sans trouver d'explication, ces habitants qui se réveillaient avec des blessures correspondant à des morts violentes dans d'autres versions du monde — avaient commencé exactement au même moment que tout le reste. Pas au même moment dans le sens d'une approximation. Au même moment dans le sens d'une date : les premiers cas avaient été documentés sept mois plus tôt, exactement sept mois.
 
 Sept mois avant le jour 465, c'est le jour 298.
 
@@ -254,7 +254,7 @@ Précisément sept mois avant le jour 465. Le jour 298.
 
 Feraldir, à Haltheria, avait été le premier. Il ne fut pas le seul. Cent dix-sept jours plus tard, à Hekorinth, sur une terrasse tournée vers l'est, un autre homme de l'Ordo Caelum — Tiras, qui ne m'avait jamais nommé Feraldir et à qui je n'avais jamais nommé Feraldir — m'avait remis un feuillet couvert des mêmes occlusions : les mêmes étoiles déplacées, les mêmes points obscurcis sans logique de position, la même régularité qui n'appartient à aucun hasard. Deux astronomes. Deux observatoires séparés par une mer et par des mois. Aucune concertation entre eux que je puisse établir. Et pourtant le même ciel, lu deux fois, donnait le même relevé.
 
-Ils ne s'accordaient pas sur tout — et c'est précisément ce qui me retint. Feraldir datait le début de la perturbation d'un jour précis, celui-là, le jour 298 ; Tiras comptait ses occlusions sur cinq ans, une lente accumulation sans matin de commencement. La date était donc mon inférence, pas la leur : une chose que je nouais entre leurs deux relevés, non une chose qu'ils m'avaient remise déjà nouée. Un cartographe apprend à se méfier de la carte qu'un seul homme a levée ; ce qu'il croit voir, c'est parfois ce que l'arpenteur voulait voir. Mais deux hommes qui ne se sont pas parlé et qui rapportent les mêmes étoiles déplacées ne se copient pas — ils regardent la même chose. Ce n'est pas d'être cru deux fois. C'est que le ciel, interrogé deux fois par deux mains distinctes, ait répondu deux fois de la même manière.
+Ils ne s'accordaient pas sur tout — et c'est précisément ce qui me retint. Feraldir datait le début de la perturbation d'un jour précis, celui-là, le jour 298 ; Tiras comptait ses occlusions sur cinq ans, une lente accumulation sans matin de commencement. La date était donc mon inférence, pas la leur : une chose que je nouais entre leurs deux relevés, non une chose qu'ils m'avaient remise déjà nouée. Un cartographe apprend à se méfier de la carte qu'un seul homme a levée ; ce qu'il croit voir, c'est parfois ce que l'arpenteur voulait voir. Mais deux hommes qui ne se sont pas parlé et qui rapportent les mêmes étoiles déplacées ne se copient pas — ils regardent la même chose. Ce n'est pas une question de croire deux témoins. C'est que le ciel, interrogé deux fois par deux mains distinctes, ait répondu deux fois de la même manière.
 
 Quelque chose avait commencé ce jour-là. Quelque chose — ou le début d'une accélération, d'une augmentation d'intensité dans quelque chose qui avait commencé avant. Les chevaux agités de Lythar depuis l'automne, les esprits silencieux de Warenthor depuis six mois, les Cauchemars Éveillés de Vytharia depuis sept mois — le calendrier n'était pas le même partout. Il se précisait. Il s'approchait.
 

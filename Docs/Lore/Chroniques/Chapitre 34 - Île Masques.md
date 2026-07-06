@@ -28,7 +28,7 @@ Sept jours sur un navire de pêche dont le capitaine — un homme de Haldria rec
 
 Les brumes commencèrent au cinquième jour.
 
-Non pas les brumes ordinaires d'une mer froide — pas l'opacité grise de l'humidité accumulée au-dessus de l'eau froide. Une brume d'une texture particulière, légèrement dense, qui n'avait pas la transparence habituelle de l'eau en suspension mais quelque chose de plus — une présence dans l'épaisseur, une façon d'absorber le son et la lumière qui ne correspondait pas à la physique normale de la brume marine. Elle n'était pas noire — les récits d'Aldren parlent d'une brume noire et je veux être précis : celle que nous traversâmes était presque blanche, d'un blanc très légèrement violacé que la lumière du matin rendait difficile à définir. Comme regarder à travers un verre qui n'est pas tout à fait transparent.
+Non pas les brumes ordinaires d'une mer froide — pas l'opacité grise de l'humidité accumulée au-dessus de l'eau froide. Une brume d'une texture particulière, légèrement dense, qui n'avait pas la transparence habituelle de l'eau en suspension mais quelque chose de plus — une présence dans l'épaisseur, une façon d'absorber le son et la lumière qui ne correspondait pas à la physique normale de la brume marine. Elle n'était pas noire — les récits d'Aldren parlent d'une brume noire et je veux être précis : celle que nous traversâmes était presque blanche, d'un blanc très légèrement violacé que la lumière du matin rendait difficile à définir. Comme si l'on regardait à travers un verre qui n'est pas tout à fait transparent.
 
 Le compas cessa de fonctionner au sixième jour.
 
@@ -66,7 +66,7 @@ La forêt était traversée par des chemins. Pas des chemins accidentels, pas de
 
 Je suivis un chemin sans avoir décidé lequel. Ou le chemin me suivit. La distinction à Nysaria avait ce même flou qu'à Vytharia, mais d'un type différent — le Voile de Vytharia offre à la perception des alternatives. Nysaria ne propose pas d'alternatives. Elle propose une seule réalité, précise et opaque, qui n'a pas besoin de vous convaincre.
 
-Je passai près d'une structure — une tour effilée de pierre noire, exactement comme les observateurs l'avaient décrit depuis la mer. Elle était plus grande de près. Beaucoup plus grande. L'architecture n'avait aucun équivalent que mes deux années de voyage m'avaient appris à reconnaître — pas le calcul rationnel de Galenor, pas l'organique de Warenthor, pas le symbolique de Celethor. Des formes angulaires qui se répétaient à des échelles différentes, la même forme dans la disposition des pierres du chemin et dans la disposition des tours visibles au-dessus de la canopée, comme si un seul schéma avait généré tout le reste.
+Je passai près d'une structure — une tour effilée de pierre noire, exactement comme les observateurs l'avaient décrite depuis la mer. Elle était plus grande de près. Beaucoup plus grande. L'architecture n'avait aucun équivalent que mes deux années de voyage m'avaient appris à reconnaître — pas le calcul rationnel de Galenor, pas l'organique de Warenthor, pas le symbolique de Celethor. Des formes angulaires qui se répétaient à des échelles différentes, la même forme dans la disposition des pierres du chemin et dans la disposition des tours visibles au-dessus de la canopée, comme si un seul schéma avait généré tout le reste.
 
 J'entendis — non. Je perçus. Je ne suis pas sûr que le son soit le bon registre. Quelque chose qui ressemblait à un son sans en être un, comme une vibration que l'oreille n'aurait su reconnaître. Depuis la roche. Depuis le sol. Depuis le dessous du sol. Le même quelque chose qui avait noté ma présence sur le quai de Nectoria, mais ici amplifié, ici proche, ici d'une clarté que je ne savais pas nommer mais que mon corps reconnut.
 
@@ -78,7 +78,7 @@ Trois personnes. Silencieuses.
 
 Elles portaient des masques — blanc lisse, sans bouche ni yeux, exactement comme dans la lettre d'Aldren. La correspondance me frappa avec la netteté d'une confirmation : le capitaine avait vu ce que j'allais voir. Je n'étais pas le premier. Je ne serais peut-être pas le dernier.
 
-Elles ne firent pas de geste menaçant. Elles se tinrent à distance, me regardèrent — du moins j'eus l'impression d'être regardé, bien que les masques n'aient pas de yeux — et la personne au centre fit quelque chose avec ses mains. Un geste élaboré, lent, qui avait la grammaire d'une langue gestuelle sans ressembler à aucune que j'avais apprise ou observée. Ni le baelorien, ni les signes des moines de Wyndor, ni le langage par drapeaux des navigateurs haldriens.
+Elles ne firent pas de geste menaçant. Elles se tinrent à distance, me regardèrent — du moins j'eus l'impression d'être regardé, bien que les masques n'aient pas d'yeux — et la personne au centre fit quelque chose avec ses mains. Un geste élaboré, lent, qui avait la grammaire d'une langue gestuelle sans ressembler à aucune que j'avais apprise ou observée. Ni le baelorien, ni les signes des moines de Wyndor, ni le langage par drapeaux des navigateurs haldriens.
 
 Je répondis du mieux que je pus — les paumes ouvertes vers le bas, le geste de non-hostilité que j'avais appris dans une douzaine de cultures différentes depuis Evertia et qui, à ma grande surprise, semblait avoir un équivalent dans presque toutes.
 
@@ -94,15 +94,15 @@ Je pensai à la phrase que je venais d'écrire au début de ce chapitre : *je su
 
 Je posai deux doigts sur ma poitrine, puis sur mon front, puis je secouai doucement la tête.
 
-La personne au centre resta immobile. Le refus fut reçu. Ni approuvé, ni contesté. Reçu.
+La personne au centre resta immobile. Le refus fut reçu. Ni approuvé ni contesté. Reçu.
 
 Ce qui suivit — les trois jours à Nysaria — me demande un effort de linéarisation que les événements eux-mêmes ne s'imposaient pas. À Nysaria, le temps n'est pas scandé par les mêmes intervalles qu'ailleurs. Je le notai le premier matin quand je cherchais dans mon journal à quel moment j'avais dormi — et je ne sus pas répondre, parce que la frontière entre la veille et le sommeil à Nysaria avait la même texture que le reste de l'île : une réalité opaque et unique dans laquelle les catégories ordinaires ne prenaient pas pied.
 
 Je vis Nysoris.
 
-Je note ici, avant de décrire la ville, une chose plus discrète et que je n'ai pas envie d'oublier : pendant ces trois jours, je remarquai à plusieurs reprises l'envie de me dissoudre. Pas de mourir — de m'aligner sur le silence qui règne ici, de cesser d'être Sorin et de devenir simplement quelqu'un-qui-passe-à-Nysaria. Ce serait facile. Le masque qu'on me proposerait, je l'accepterais peut-être. Je ne sais pas pourquoi je n'acceptai pas. Quelque chose en moi continua à s'appeler par mon nom, à se souvenir de Mira Dasthen et de la table de mon père et du Kharaz d'Omarin. Je ne dirai pas que c'était une vertu. Je dirai que c'était une habitude. Les habitudes, à force, ressemblent à autre chose.
+Je note ici, avant de décrire la ville, une chose plus discrète et que je n'ai pas envie d'oublier : pendant ces trois jours, je remarquai à plusieurs reprises l'envie de me dissoudre. Pas de mourir — de m'aligner sur le silence qui règne ici, de cesser d'être Sorin et de devenir simplement quelqu'un qui passe à Nysaria. Ce serait facile. Le masque qu'on me proposerait, je l'accepterais peut-être. Je ne sais pas pourquoi je n'acceptai pas. Quelque chose en moi continua à s'appeler par mon nom, à se souvenir de Mira Dasthen et de la table de mon père et du Kharaz d'Omarin. Je ne dirai pas que c'était une vertu. Je dirai que c'était une habitude. Les habitudes, à force, ressemblent à autre chose.
 
-Je ne pouvais pas ne pas la voir — les chemins y conduisaient avec l'inexorabilité d'une grammaire dont on a accepté les règles. La ville de pierre noire, les tours effilées, les lumières violettes à chaque fenêtre. Ce que les observations depuis la mer n'avaient pas capturé : la densité de la ville, sa profondeur. Nysoris n'est pas grande en surface — elle est grande en dessous. Ce que je vis depuis les rues me donna la certitude immédiate que l'essentiel de la construction était enterré. Des escaliers descendaient depuis chaque place centrale, larges et droits, vers un éclairage qui venait de plus bas. Des sons — ces sons-pas-sons, ces vibrations de roche — montaient depuis ces escaliers avec une régularité qui n'était pas mécanique mais organique.
+Je ne pouvais pas ne pas la voir — les chemins y conduisaient avec l'inexorabilité d'une grammaire dont on a accepté les règles. La ville de pierre noire, les tours effilées, les lumières violettes à chaque fenêtre. Ce que les observations depuis la mer n'avaient pas capturé : la densité de la ville, sa profondeur. Nysoris n'est pas grande en surface — elle est grande en dessous. Ce que je vis depuis les rues me donna la certitude immédiate que l'essentiel de la construction était enterré. Des escaliers descendaient depuis chaque place centrale, larges et droits, vers un éclairage qui venait de plus bas. Des sons — ces sons qui n'étaient pas des sons, ces vibrations de roche — montaient depuis ces escaliers avec une régularité qui n'était pas mécanique mais organique.
 
 Quelque chose respirait sous Nysoris.
 
@@ -114,7 +114,7 @@ Une salle circulaire. Des sièges disposés en cercle, et dans chaque siège une
 
 Le Roi Sans Voix entra par une porte que je n'avais pas remarquée.
 
-Il ne portait pas de masque. C'est ce qui me frappa d'abord — son absence de masque dans une salle de masques. Il était vieux ou il paraissait vieux, d'une façon difficile à préciser parce que sa peau avait la qualité de la pierre noire polie de Nysoris — pas ridée, pas abîmée, mais densément présente, comme quelque chose d'ancien qui ne s'est pas dégradé mais qui a simplement continué. Il ne regarda pas vers moi immédiatement. Il s'assit dans le trône avec des gestes précis et lents, posa les paumes sur les accoudoirs, ferma les yeux.
+Il ne portait pas de masque. C'est ce qui me frappa d'abord — son absence de masque dans une salle de masques. Il était vieux ou il paraissait vieux, d'une façon difficile à préciser parce que sa peau avait la qualité de la pierre noire polie de Nysoris — pas ridée, pas abîmée, mais densément présente, comme quelque chose d'ancien qui ne s'est pas dégradé mais qui a simplement continué. Il ne regarda pas vers moi immédiatement. Il s'assit sur le trône avec des gestes précis et lents, posa les paumes sur les accoudoirs, ferma les yeux.
 
 Puis il les rouvrit et me regarda.
 
@@ -144,7 +144,7 @@ Les Nysariens ne l'ont pas créé. Ils l'ont trouvé — ou il les a trouvés, l
 
 *Le dernier portail de Navigor, l'Éternel dont les passages se sont fermés.*
 
-J'avais lu ce nom dans un texte de Celethor — Navigor, le dieu-patron des passages, celui qui avait tracé les routes entre les mondes avant l'Arrachement et dont la manifestation directe avait suivi celle des passages. Les portails de Navigor comme lieux de mémoire d'un monde plus vaste, d'un monde où les frontières étaient perméables. Il en aurait existé sept — sept points de perméabilité, dont six avaient été perdus ou scellés pendant l'Arrachement.
+J'avais lu ce nom dans un texte de Celethor — Navigor, le dieu-patron des passages, celui qui avait tracé les routes entre les mondes avant l'Arrachement et dont la manifestation directe avait disparu avec elles. Les portails de Navigor comme lieux de mémoire d'un monde plus vaste, d'un monde où les frontières étaient perméables. Il en aurait existé sept — sept points de perméabilité, dont six avaient été perdus ou scellés pendant l'Arrachement.
 
 Le septième est sous Nysoris.
 

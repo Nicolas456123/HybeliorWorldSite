@@ -20,7 +20,7 @@ Je suis entré à Vytharia une deuxième fois depuis l'autre côté de la mer : 
 
 J'avais embarqué à Celtaris vingt-deux jours plus tôt, après les Plaines de Mirondal. Les voix d'Ulinor m'avaient laissé une formulation encore trop lourde pour moi : un rythme plus ancien que les nations actuelles, plus ancien que les noms donnés à nos peurs. Leur lecture précédait l'Arrachement. Je la notai comme telle : une lecture reçue, pas une preuve vue de mes yeux.
 
-La mer entre Celtaris et Nectoria fut calme de cette façon que les marins haldriens appellent « la calme mentante » — pas d'agitation de surface, mais une houle longue et profonde qui indique quelque chose qui bouge loin dessous. Je passai les nuits sur le pont plutôt que dans la cale. Je dormis peu. Je regardai les étoiles — toujours légèrement décalées depuis les mesures de Haldria, le déplacement maintenant suffisant pour qu'un observateur ordinaire commence à le remarquer sans pouvoir en nommer la cause.
+La mer entre Celtaris et Nectoria fut calme de cette façon que les marins haldriens appellent « le calme menteur » — pas d'agitation de surface, mais une houle longue et profonde qui indique quelque chose qui bouge loin dessous. Je passai les nuits sur le pont plutôt que dans la cale. Je dormis peu. Je regardai les étoiles — toujours légèrement décalées depuis les mesures de Haldria, le déplacement maintenant suffisant pour qu'un observateur ordinaire commence à le remarquer sans pouvoir en nommer la cause.
 
 J'avais changé.
 
@@ -34,7 +34,7 @@ Mais c'était la destination que Vytharia me donnait, ce deuxième séjour : non
 
 Mirathi est une ville qui n'existe pas sur les cartes ordinaires — non pas parce qu'elle serait secrète, mais parce que les cartographes qui l'ont visitée ont tous rendu des copies légèrement différentes de sa position. Pas de façon dramatique. Pas de façon à suggérer une erreur ou un mensonge. De façon à suggérer que Mirathi bouge — pas comme Nysaria bouge, selon les navigateurs, c'est-à-dire physiquement, inexorablement, dans une direction. Mirathi bouge comme une idée bouge dans une conversation : toujours là, toujours reconnaissable, mais jamais tout à fait à la même place que la dernière fois qu'on l'a cherchée.
 
-J'y arrivai par une route de montagne que le Voile de Vytharia habillait de ses lumières particulières. Cette fois, contrairement à ma première visite, le Voile ne me montrait pas Evertia. Il me montrait du vide — pas un vide inquiétant, pas un vide agressif, mais cette sorte d'espace dégagé que certaines pièces ont quand on en a retiré tous les meubles et que le sol propre attend quelque chose. Un espace préparé. Je ne sus pas pour quoi.
+J'y arrivai par une route de montagne que le Voile de Vytharia habillait de ses lumières particulières. Cette fois, contrairement à ma première visite, le Voile ne me montrait pas Evertia. Il me montrait du vide — pas un vide inquiétant, pas un vide agressif, mais cette sorte d'espace dégagé que certaines pièces ont quand on en a retiré tous les meubles et que le sol propre attend quelque chose. Un espace préparé. Je ne sus pas à quoi il devait servir.
 
 Mirathi elle-même est petite pour ce qu'elle contient. Un village de moins de mille habitants, perché sur un replat calcaire que les vents de montagne balaient en permanence, construit en pierre grise avec des toits plats dont les bords sont décorés de symboles que je reconnus comme vytharo-anciens — une langue qui n'est plus parlée mais qui est maintenue vivante dans la décoration, comme une prière que personne ne dit à voix haute mais que tout le monde continue de réciter en silence. Au centre, le Sanctuaire des Oracles : une construction circulaire sans fenêtres, avec une unique porte de métal noir polie jusqu'à l'état de miroir.
 
@@ -108,7 +108,7 @@ L'érudit de Thalmaris s'appelait Orneth. Il était vieux et sec comme un parche
 
 Il me montra la copie sans préambule — la posa sur la table devant moi avec le geste d'un joueur qui abat ses cartes non pas pour gagner mais pour savoir enfin ce qu'il a en face.
 
-Trois colonnes de texte. La première en vytharen ancien — que je lus avec difficulté mais lus quand même, ma semaine à Mirathi ayant été suffisante pour que les caractères anciens me deviennent approximativement familiers. La deuxième en un dialecte des civilisations oniriques disparues de Vytharia — celles que les érudits de Thalmaris ne déchiffrent que par fragments, lacunaire, mais reconnaissable. La troisième.
+Trois colonnes de texte. La première en vytharen ancien — que je lus avec difficulté, mais jusqu'au bout, ma semaine à Mirathi ayant été suffisante pour que les caractères anciens me deviennent approximativement familiers. La deuxième en un dialecte des civilisations oniriques disparues de Vytharia — celles que les érudits de Thalmaris ne déchiffrent que par fragments — lacunaire, mais reconnaissable. La troisième.
 
 La troisième.
 
@@ -138,7 +138,7 @@ Orneth prit une longue inspiration et la laissa sortir très lentement, comme qu
 
 Ce n'était pas une question.
 
-Je copiai ce que je pus. Orneth me laissa faire sans objecter. Nous mangeâmes ensemble ce soir-là — du pain, du fromage de montagne et les restes de la soupe aux herbes de la cuisinière muette — sans parler beaucoup, avec la concentration de deux hommes qui digèrent la même information par des chemins différents. L'assistant dormit dans le couloir, ou ne dormit pas — je ne suis pas certain. Les Oracles de Mirathi habitent leur ville de façon qui ne ressemble pas au découpage ordinaire du temps entre veille et sommeil.
+Je copiai ce que je pus. Orneth me laissa faire sans objecter. Nous mangeâmes ensemble ce soir-là — du pain, du fromage de montagne et les restes de la soupe aux herbes de la cuisinière muette — sans parler beaucoup, avec la concentration de deux hommes qui digèrent la même information par des chemins différents. L'assistant dormit dans le couloir, ou ne dormit pas — je ne suis pas certain. Les Oracles de Mirathi habitent leur ville d'une façon qui ne ressemble pas au découpage ordinaire du temps entre veille et sommeil.
 
 ---
 

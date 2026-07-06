@@ -122,7 +122,7 @@ Et elle avait dit que la corde changeait de direction.
 
 Je sortis mon cahier. Je traçai, comme je le faisais souvent dans les moments où la pensée dépasse la langue, une carte approximative — non pas géographique mais temporelle. Une chronologie des anomalies depuis le début du voyage. Les esprits de Warenthor qui se retirent. Les chevaux de Lythar qui refusent les creux de terrain. Les racines du Bosquet Primordial d'Ackerna qui saignent. Les Cauchemars Éveillés de Vytharia. Les naissances des Enfants aux Yeux Blancs de Caeloria, de plus en plus nombreuses. La pulsation du Mont Cendra qui s'accélère. Et maintenant : un Délié qui sent les pulsations. Un ancrage qui perçoit.
 
-La chronologie convergait. Pas vers un point géographique — vers un moment. Vers quelque chose qui approchait et qui n'avait pas encore de nom.
+La chronologie convergeait. Pas vers un point géographique — vers un moment. Vers quelque chose qui approchait et qui n'avait pas encore de nom.
 
 On dit des Enfants aux Yeux Blancs qu'ils voient à travers la terre. Depuis les premières descriptions que j'avais entendues à Vytharia, en passant par les données du marchand sur leur nombre croissant, jusqu'à Lysse qui déplaçait ses pierres en cercles et qui décrivait, avec le naturel d'une enfant qui dit la couleur du ciel, ce qu'elle nommait *épaisseur*. Ils disent voir ce qui monte. Ce qui — selon eux — viendrait par le dessous.
 
@@ -164,7 +164,7 @@ Je passai deux jours de plus à Duskoris, à interroger discrètement — dans l
 
 Je note, sans en faire plus, que je comptais les enfants. Leur nombre, leur âge à la naissance documentée, la proportion par quartier, l'évolution sur quatre ans. Ce que je ne fis pas : leur parler longuement, m'asseoir à côté de la mère qui ne montre plus sa fille, demander à la fillette de quatre ans ce qu'elle voyait. Ce sont des questions de cartographe, et je suis cartographe. Une autre forme d'attention aurait été possible. Je ne l'ai pas pratiquée.
 
-Pour la mère, j'essayai pourtant. Elle s'appelait Vorenne. Arven m'avait donné l'étage de la falaise et le nom d'une voisine.
+Pour la mère, j'essayai pourtant de la voir. Elle s'appelait Vorenne. Arven m'avait donné l'étage de la falaise et le nom d'une voisine.
 
 Je montai, je frappai. La porte ne s'ouvrit pas. Je redescendis. Je remontai le lendemain à une autre heure. La voisine me dit que Vorenne était sortie avec sa fille dans la grotte aux sources. Tout le monde savait que c'était faux ; l'enfant n'était plus sortie depuis trois mois.
 
@@ -212,7 +212,7 @@ J'avais cinq cent quatre-vingts jours de route dans le corps. J'avais traversé 
 
 Ce que je croyais maintenant était plus lourd que l'inventaire.
 
-Je croyais — avec la conviction d'un cartographe qui a accumulé sur cinq cents jours, dans des nations qui ne se parlent pas, des récits dont les formes se ressemblent — que quelque chose se passerait sous le monde. Pas métaphoriquement : physiquement, dans les profondeurs que les Enfants aux Yeux Blancs disent voir comme les adultes voient la surface. Cette conclusion était la mienne.
+Je croyais — avec la conviction d'un cartographe qui a accumulé pendant cinq cents jours, dans des nations qui ne se parlent pas, des récits dont les formes se ressemblent — que quelque chose se passerait sous le monde. Pas métaphoriquement : physiquement, dans les profondeurs que les Enfants aux Yeux Blancs disent voir comme les adultes voient la surface. Cette conclusion était la mienne.
 
 J'ajoutai que j'avais ressenti, sur les flancs du Mont Cendra, ce qu'un Délié n'est pas censé ressentir. Que la distinction Lié/Délié, telle que tous les systèmes de pensée que j'avais traversés l'affirment, peinait pour moi à rendre compte de cette expérience. La thèse de Kharazir — ancrages, fonction plutôt qu'absence — ne me paraissait plus, ce soir-là, une simple curiosité philologique.
 
@@ -220,7 +220,7 @@ Et l'observation du médecin de Silvaris — ces enfants dont le nerf optique pr
 
 Deux explications restaient ouvertes : un ensemble de signes annonçait quelque chose, ou des phénomènes indépendants avaient coïncidé dans une même fenêtre temporelle. Je n'arrivais pas à choisir.
 
-La question qui me tient éveillé, dans toutes les hypothèses, est la même : et si oui — pour quoi ?
+La question qui me tient éveillé, dans toutes les hypothèses, est la même : et si oui, dans quel but ?
 
 ---
 
@@ -230,7 +230,7 @@ Seldra m'avait préparé du pain et du fromage pour la route, emballés dans un 
 
 Et Lysse était venue jusqu'à la porte.
 
-Elle n'avait pas de manteau — sa mère avait dû le lui dire mais elle n'avait pas mis le manteau, comme tous les enfants de sept ans qui jugent leur propre résistance au froid supérieure à ce qu'elle est. Elle était là dans la porte de la falaise, les yeux blancs dans le visage rougi par le froid, regardant dehors vers la neige et la corniche et, au-delà, la mer grise et le ciel bas.
+Elle n'avait pas de manteau — sa mère avait dû le lui dire mais elle n'avait pas mis le sien, comme tous les enfants de sept ans qui jugent leur propre résistance au froid supérieure à ce qu'elle est. Elle était là dans la porte de la falaise, les yeux blancs dans le visage rougi par le froid, regardant dehors vers la neige et la corniche et, au-delà, la mer grise et le ciel bas.
 
 Elle me regarda.
 
