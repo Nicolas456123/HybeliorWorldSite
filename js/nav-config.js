@@ -32,7 +32,7 @@ const NavConfig = {
         - #continent/<key> : fiche continent (factuel)
         - #nation/<slug>   : fiche Description d'une nation (factuel)
         - #histoire/<slug> : récit (Histoire) d'une nation (Chroniques) */
-    loreSubroutes: ['vision', 'monde', 'mecaniques', 'systemes', 'histoires', 'nation', 'continent', 'histoire', 'religion', 'roman'],
+    loreSubroutes: ['vision', 'monde', 'mecaniques', 'systemes', 'histoires', 'nation', 'continent', 'histoire', 'religion', 'roman', 'livre'],
 
     /** Continents et nations — source unique pour :
         - la landing lore-histoires (cartes par continent)

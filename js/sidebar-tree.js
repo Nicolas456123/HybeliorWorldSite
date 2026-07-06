@@ -150,6 +150,9 @@
             html += '    <li class="sidebar-lore-nav-subitem active">';
             html += '      <a class="sidebar-lore-nav-subhead active" href="#roman">' +
                     this._escape(tomeLabel) + '</a>';
+            // Lecture continue + audio du tome entier
+            html += '      <a class="sidebar-roman-lire" href="#livre/t' + roman.tome + '">' +
+                    '▶ Lire le livre en entier (audio)</a>';
             // Niveau parties → chapitres
             for (const partie of roman.parties) {
                 html += '<div class="sidebar-roman-partie">' + this._escape(partie.titre) + '</div>';

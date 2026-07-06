@@ -4682,6 +4682,19 @@ select:focus-visible,
     padding-left: 4px;
 }
 
+.sidebar-roman-lire {
+    display: block;
+    margin: 4px 0 6px;
+    padding: 5px 8px;
+    font-size: 12px;
+    font-weight: 600;
+    color: #fff;
+    background: var(--accent, #8a5a2b);
+    border-radius: 6px;
+    text-decoration: none;
+}
+.sidebar-roman-lire:hover { filter: brightness(1.08); }
+
 /* ============================================================
    MD HUB TABS — bandelette de sous-pages pour les pages-hubs
    ============================================================ */
