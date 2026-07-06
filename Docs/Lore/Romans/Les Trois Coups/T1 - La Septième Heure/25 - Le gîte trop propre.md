@@ -111,7 +111,7 @@ Velkar ne bougea pas. Surtout ne pas bouger, quand cela vient ; un geste de trop
 
 L'aubergiste le regarda, cette fois avec une lenteur nouvelle, la lenteur d'un homme qui comprend qu'on en sait plus que lui sur sa propre nuit.
 
-« Comment vous savez ça ?
+« Comment vous savez ça ? »
 
 — Je ne sais pas. Je demande. » Velkar se pencha à peine. « Une femme qui voyage seule ne mène pas deux bêtes de rechange pour elle seule ; deux, c'est trop pour un corps, pas assez pour un convoi. Deux, c'est un relais qu'on prépare pour d'autres qui passeront après. Elle ne fuyait pas, l'ami. Elle *aménageait*. Elle posait des chevaux frais le long d'une route pour des gens qui ne l'ont pas encore prise. » Il se redressa. « Voilà ce qui me manquait. Merci. »
 

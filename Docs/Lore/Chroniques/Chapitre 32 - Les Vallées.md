@@ -256,7 +256,7 @@ La même langue que les inscriptions des tunnels frontières. La même langue qu
 
 La langue des Profonds, peut-être.
 
-Ou la langue que les Profonds avaient appris aux habitants de chaque époque, comme une clé transmise de génération en génération par les extinctions successives, un message qui survivait à tous ceux qui l'avaient porté et qui se retrouvait intact dans la pierre, dans les échos, dans les tunnels que personne ne cartographiait.
+Ou la langue que les Profonds avaient apprise aux habitants de chaque époque, comme une clé transmise de génération en génération par les extinctions successives, un message qui survivait à tous ceux qui l'avaient porté et qui se retrouvait intact dans la pierre, dans les échos, dans les tunnels que personne ne cartographiait.
 
 Je ne comprenais pas les mots. Je reconnaissais la structure. La différence entre les deux est immense et c'est précisément cette différence qui me maintint assis au bord du Canyon jusqu'à ce que le froid de la nuit me force à m'éloigner.
 

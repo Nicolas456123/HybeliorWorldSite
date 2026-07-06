@@ -166,7 +166,7 @@ Et elle ne dit rien de plus ce soir-là. Pas par refus — par discernement. Nar
 
 Le lendemain matin, Kemsha m'emmena voir la tribu des Ossements.
 
-C'était sa suggestion — pas une obligation, mais une orientation. « Si tu cherches ce que font les esprits des ancêtres, va aux Ossements. Ils sont les seuls qui vont assez profond pour le voir. »
+C'était sa suggestion — pas une obligation, mais une orientation. « Si tu cherches ce que font les esprits des ancêtres, va aux Ossements. Ils sont les seuls qui aillent assez profond pour le voir. »
 
 La tribu des Ossements habite Valdarin, dans le désert profond de Qythros — une journée de route depuis Olkanoris, dans une direction où le paysage perd même le souvenir d'avoir eu quelque chose de vivant. La piste que Kemsha connaissait était une ligne de pierres marquées, espacées de cent pas, chaque pierre peinte d'un trait de craie blanche que le vent effaçait et que les membres de la tribu repeignaient régulièrement. Sans cette ligne, le désert de Qythros n'a pas de chemin.
 

@@ -174,7 +174,7 @@ La route vers Haldria traverse la région de Fenoria, les grandes plaines céré
 
 Mais je pensais à ce que Talvind avait dit. La terre qui hésite. Et en traversant ces plaines, j'observai avec une attention nouvelle les sols entre les chaumes, les parcelles en jachère, les endroits où la végétation spontanée — l'indicateur le plus honnête de l'état du sol — repoussait différemment d'une zone à l'autre. Je n'ai pas les connaissances de Talvind. Je ne peux pas entendre le sol. Mais je peux regarder, et je regardais.
 
-Ici, un carré de jachère où les plantes revenaient moins dense qu'autour. Là, une bordure de champ où le chaume, coupé à la même hauteur que partout, avait pris une légère teinte différente — plus sèche, moins vivante — que le chaume de la parcelle voisine. Peut-être rien. Peut-être des variations normales que les anciens de Sylthara n'auraient pas jugé digne de mention. Peut-être quelque chose d'autre.
+Ici, un carré de jachère où les plantes revenaient moins denses qu'autour. Là, une bordure de champ où le chaume, coupé à la même hauteur que partout, avait pris une légère teinte différente — plus sèche, moins vivante — que le chaume de la parcelle voisine. Peut-être rien. Peut-être des variations normales que les anciens de Sylthara n'auraient pas jugé digne de mention. Peut-être quelque chose d'autre.
 
 Je notai ces observations avec soin dans mon carnet, en essayant de ne pas leur donner plus de poids que les faits ne justifient. Un cartographe note ce qu'il voit. Il n'invente pas la connexion. Il laisse la connexion émerger des notes, si elle doit émerger.
 
