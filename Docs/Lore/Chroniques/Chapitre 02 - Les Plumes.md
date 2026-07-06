@@ -40,27 +40,25 @@ Ce serait très Lumasar, comme ambition.
 
 ---
 
-Je dois expliquer pourquoi je suis à Lumasar et pas ailleurs, parce que ce n'est pas une évidence et que dans dix ans, si je relis ces notes, je veux me souvenir du raisonnement exact qui m'a conduit ici plutôt que dans n'importe quelle autre direction.
+Je suis venu à Lumasar pour une raison simple : ici, un texte imprimé peut survivre à ceux qui veulent l'enterrer.
 
-Lumasar est la seule nation de Galenor qui s'appelle elle-même une république — le seul endroit où le gouvernement n'est pas héréditaire ni théocratique ni militaire, où le pouvoir est censé reposer sur la compétence démontrable plutôt que sur la naissance ou la foi ou la force. C'est une aristocratie académique, ce qui n'est pas la même chose qu'une démocratie au sens où le mot voudrait être pris, mais qui constitue néanmoins une structure dans laquelle les institutions sont, en théorie, redevables devant un certain nombre de principes articulés par écrit et défendus par un Tribunal.
+Lumasar se nomme république. Le pouvoir y repose, en théorie, sur la compétence, les académies, le Code, le Tribunal. Pas sur le sang. Pas sur le trône. Pas sur une épée tenue assez longtemps pour devenir une loi.
 
-Le Tribunal de Lumasar n'est pas une institution ordinaire. C'est l'instance qui peut invalider les décisions du Haut Cénacle — les cinq Recteurs des académies — si ces décisions violent les principes fondateurs du Code de Lumasar. En sept siècles d'existence, le Tribunal a rendu 1847 décisions. Dix-sept pour cent de ces décisions ont été ignorées par les institutions qu'elles visaient. C'est un chiffre que les commentateurs de Lumasar mentionnent avec des inflexions très différentes selon leur appartenance : les optimistes soulignent que 83 % ont été respectées, ce qui est remarquable dans un monde de pouvoirs non contraints. Les pessimistes soulignent que 17 %, cela représente plus de trois cents décisions de justice ignorées par les mêmes institutions qui prétendent être gouvernées par le droit.
+Je savais que cette liberté avait des limites. Je les connaissais même en chiffres : 1847 décisions rendues par le Tribunal, dix-sept pour cent ignorées par les institutions qu'elles visaient. Les optimistes disaient : quatre-vingt-trois pour cent d'obéissance, c'est un miracle. Les pessimistes répondaient : plus de trois cents décisions ignorées, c'est une méthode.
 
-J'appartiens à la catégorie des pessimistes depuis environ deux semaines.
+Depuis deux semaines, j'appartiens aux pessimistes.
 
-J'étais venu à Lumasar avec un espoir prudent : trouver ici ce que Kharazir m'avait refusé. Une institution qui regarderait mes notes sur les tunnels. Une Académie qui y verrait autre chose qu'une menace à neutraliser. J'étais cartographe. J'avais des notes, une mémoire, et peut-être assez de matière pour reconstituer un rapport que Thalendris ne pourrait pas enterrer une seconde fois. Une chose classifiée dans les Archives de Kharazir cesse d'exister. Une chose imprimée existe partout où l'encre sèche. Toute l'ironie de mon plan tenait là : l'homme qui avait enterré mon rapport à Rukhsar présidait aussi, à Prismalith, le Haut Cénacle de Lumasar. Je ne fuyais pas son pouvoir. Je fuyais vers le seul pays où un texte assez répandu pouvait lui échapper.
+J'avais tout de même un espoir prudent : trouver ici ce que Kharazir m'avait refusé. Une institution qui regarderait mes notes sur les tunnels. Une Académie qui verrait une découverte au lieu d'une menace. Toute l'ironie tenait là : l'homme qui avait enterré mon rapport à Rukhsar présidait aussi, à Prismalith, le Haut Cénacle de Lumasar. Je ne fuyais pas son pouvoir. Je fuyais vers le seul pays où l'encre, une fois répandue, pouvait lui échapper.
 
 C'était le plan. C'était un plan de quelqu'un qui n'avait pas encore compris que l'accusation de sympathie Catena Fracta voyage plus vite que les caravanes.
 
 ---
 
-La ville de Prismalith — que je n'avais pas encore atteinte ce matin-là, Kelanor n'étant que la porte d'entrée du pays — était pour moi un nom associé à une image construite par années de lecture indirecte. Les cartographes des Bibliothèques de Lumasar avaient un statut différent de celui que j'occupais à Rukhsar : ils appartenaient à un ordre académique rattaché à l'une des cinq grandes académies, bénéficiaient des accréditations correspondantes, avaient accès aux fonds documentaires protégés et circulaient dans une hiérarchie au sein de laquelle la compétence était théoriquement le seul critère d'avancement.
-
-J'avais correspondu, dans mes premières années à Rukhsar, avec un certain nombre d'entre eux. Des échanges polis, précis, professionnels — le type de relations que les institutions favorisent entre elles quand elles ont intérêt à se montrer coopératives. Depuis ma révocation, ces correspondances s'étaient interrompues sans que personne ait jugé utile de m'expliquer pourquoi. Les lettres que j'avais envoyées depuis la route n'avaient pas reçu de réponse.
+Prismalith — que je n'avais pas encore atteinte, Kelanor n'étant que la porte d'entrée du pays — était pour moi une ville bâtie par des années de lecture indirecte. J'avais correspondu autrefois avec ses cartographes : échanges polis, précis, professionnels. Depuis ma révocation, plus rien. Les lettres envoyées depuis la route n'avaient reçu aucune réponse.
 
 Il me restait deux contacts possibles à Kelanor elle-même.
 
-Le premier était un libraire : Fendar Olis, installé rue des Imprimeurs. Depuis l'arrivée de la presse à caractères mobiles, ce quartier concentrait ceux qui fabriquaient les textes, ceux qui les vendaient, et ceux qui décidaient discrètement lesquels ne devaient pas circuler trop vite. L'invention avait ouvert une brèche dans les scriptoria académiques. Les institutions s'étaient aussitôt employées à mesurer la largeur de cette brèche et le prix d'entrée.
+Le premier était un libraire : Fendar Olis, installé rue des Imprimeurs. Depuis l'arrivée de la presse à caractères mobiles, ce quartier concentrait ceux qui fabriquaient les textes, ceux qui les vendaient, et ceux qui décidaient discrètement lesquels ne devaient pas circuler trop vite.
 
 Fendar Olis imprimait ce que les institutions préféraient laisser hors vitrine. Pas des pamphlets révolutionnaires — rien d'aussi simple. Des recherches refusées, des traductions gênantes, des textes jugés prématurés par le Cénacle. Un libraire des marges. On les reconnaît à l'odeur de papier frais, aux clients qui entrent en regardant derrière eux, et au regard du libraire : pas un accueil, une pesée.
 
@@ -74,9 +72,11 @@ Ce qui me frappait, dans ces scènes, c'était leur normalité. Pas leur excepti
 
 J'essayais de décider si cela me semblait admirable ou inquiétant.
 
-La rue des Imprimeurs sentait l'encre fraîche et la colle de reliure, une odeur industrieuse qui tranchait avec l'atmosphère plus contemplative du reste de Kelanor. Les boutiques s'alignaient sous des auvents, chacune identifiable à son propre bruit — le claquement cadencé des presses en fonctionnement derrière des cloisons de bois, le froissement des feuilles qu'on retourne pour vérification, le grincement métallique des caractères qu'on replace dans leurs casiers. Dans les vitrines : des livres, des pamphlets, des recueils de jugements du Tribunal reliés en cuir, des almanachs astronomiques, des catalogues de composants alchimiques, et dans une vitrine plus étroite que les autres, un texte intitulé *Mémoire adressée au Cénacle au sujet des droits civiques des Voilés*, imprimé sur un papier de bonne qualité avec une typographie soignée qui indiquait que l'imprimeur était fier de ce qu'il produisait même quand ce qu'il produisait était inconfortable.
+La rue des Imprimeurs sentait l'encre fraîche et la colle de reliure. Chaque boutique avait son bruit : presses derrière les cloisons, feuilles retournées pour vérification, caractères replacés dans leurs casiers.
 
-La boutique de Fendar Olis était au milieu de la rue, reconnaissable à son enseigne : une plume d'oie plantée dans un encrier de métal noir, le symbole de la Révolution des Plumes que l'histoire de Lumasar date de 7500 après l'Arrachement, quand les premiers scribes indépendants avaient refusé les restrictions du Cénacle sur la reproduction des textes et s'étaient organisés en guilde libre. On appelle cela la Révolution des Plumes dans les manuels, parce que c'est une belle formule. Ce qu'on appelle moins souvent, dans les manuels, c'est que la guilde libre avait été récupérée dans la génération suivante par les mêmes académies qu'elle contestait, qui avaient simplement trouvé plus efficace d'en prendre le contrôle de l'intérieur que de la combattre de l'extérieur.
+Dans les vitrines : livres, pamphlets, jugements du Tribunal, almanachs astronomiques, catalogues alchimiques. Et dans une vitrine plus étroite, un texte intitulé *Mémoire adressée au Cénacle au sujet des droits civiques des Voilés*, imprimé sur un papier trop beau pour un sujet que beaucoup auraient préféré laid.
+
+La boutique de Fendar Olis était au milieu de la rue, reconnaissable à son enseigne : une plume d'oie plantée dans un encrier de métal noir. La Révolution des Plumes avait commencé par des scribes refusant les restrictions du Cénacle. Les manuels aimaient cette histoire. Ils parlaient moins de la génération suivante, quand les académies avaient compris qu'il était plus efficace de contrôler la guilde que de la combattre.
 
 Fendar Olis était un homme d'une soixantaine d'années, d'une maigreur studieuse, avec des lunettes de cristal aux verres teintés légèrement dorés — le type de correction optique qui se fabrique à Myndora et qui coûte assez cher pour indiquer que son propriétaire a soit de l'argent, soit des priorités très affirmées dans ses dépenses. Ses mains portaient les marques permanentes de l'encre d'imprimerie — ce n'est pas une encre qui se lave entièrement, elle s'insinue dans les lignes de la peau et y reste. Il m'a accueilli avec une question directe avant même que j'aie eu le temps de me présenter.
 
@@ -84,15 +84,39 @@ Fendar Olis était un homme d'une soixantaine d'années, d'une maigreur studieus
 
 Ce n'était pas ce que j'avais espéré entendre.
 
-Il m'a fait asseoir dans l'arrière-boutique — une pièce encombrée de textes en cours d'impression, de colonnes de cahiers non reliés, d'une table avec deux tasses de tisane déjà préparées comme s'il m'attendait. Il m'a expliqué, calmement, avec la précision factuelle de quelqu'un qui a l'habitude de gérer de mauvaises nouvelles, que mon nom était associé depuis quatre jours à une correspondance circulant entre le Bureau des Accréditations de Kharazir et la Direction des Entrées étrangères de Lumasar. Pas une interdiction formelle d'entrée sur le territoire — Lumasar n'a pas de mécanisme d'expulsion directe pour les ressortissants étrangers qui n'ont pas encore commis d'infraction à son propre Code. Mais une notification, transmise aux institutions académiques, signalant qu'un ancien détenteur d'accréditations de Kharazir, révoqué pour sympathie présumée Catena Fracta, se trouvait en déplacement vers le pays.
+Il m'a fait asseoir dans l'arrière-boutique. Deux tasses de tisane étaient déjà prêtes.
 
-La Catena Fracta. Les Chaînes Brisées. Un nom que je n'avais connu pendant sept ans que comme une catégorie abstraite de l'interdit politique — selon les rapports des Bibliothèques de Kharazir, une secte philosophique prêchant que le Pacte Primordial serait une chaîne consentie dont les Éternels seraient à la fois geôliers et prisonniers, et qu'il faudrait s'en libérer par une forme de sevrage des Voies. Ce que les rapports en disaient au-delà variait d'un Recteur à l'autre, et les versions plus alarmistes en faisaient un projet politique d'abolition générale qui me semblait, à la lecture, plus ressembler à un épouvantail administratif qu'à une doctrine cohérente. Un mouvement dont j'ignorais en réalité l'existence concrète, les membres réels, les opérations pratiques — je savais le nom parce que les Bibliothèques produisaient des rapports annuels signalant les tentatives d'infiltration et les sympathisants potentiels. C'était, pour moi, une catégorie de formulaire administratif.
+Il m'a expliqué, avec la précision d'un homme habitué aux mauvaises nouvelles, que mon nom circulait depuis quatre jours entre le Bureau des Accréditations de Kharazir et la Direction des Entrées étrangères de Lumasar. Pas une interdiction formelle. Une notification. Le genre de chose qui ne ferme aucune porte sur le papier et les ferme presque toutes dans les couloirs.
 
-Le fait qu'on me classe dans cette catégorie ne m'avait pas transformé en membre du mouvement. Il m'avait simplement transformé en quelqu'un que le mouvement aurait représenté, ce qui est une différence juridiquement importante et moralement équivalente, dans la pratique des institutions.
+La Catena Fracta. Les Chaînes Brisées. Pendant sept ans, ce nom n'avait été pour moi qu'une catégorie de formulaire : doctrine interdite, sympathisants potentiels, surveillance recommandée. Je connaissais les rapports. Je ne connaissais ni ses membres, ni ses actes, ni même sa réalité concrète.
+
+En me classant là, Kharazir ne m'avait pas transformé en membre du mouvement. Elle m'avait transformé en homme que l'on pouvait traiter comme tel.
 
 Fendar m'a dit tout cela sans jugement et sans compassion particulière — avec la neutralité documentaire d'un homme habitué à voir des vies transformées en dossiers et des dossiers transformés en obstacles.
 
 — Je ne peux pas vous aider à publier, a-t-il dit finalement. Pas maintenant. Pas avec cette association. Ma boutique serait fermée avant la fin de la semaine.
+
+Je posai la main sur mon sac, là où dormaient mes notes.
+
+— Vous n'avez pas encore lu.
+
+— C'est précisément le problème.
+
+— Vous refusez avant de savoir.
+
+Il retira ses lunettes, les posa sur la table entre nous, et pour la première fois son visage perdit cette neutralité de libraire qui classe les catastrophes par format.
+
+— Non, dit-il. Je refuse parce que je sais assez. Si je lis, je deviens responsable de ce que je sais. Si je publie, je deviens complice de votre chute. Si je garde le manuscrit, je deviens la prochaine personne chez qui l'on perquisitionne. Vous voulez que je sois courageux parce que vous n'avez plus le choix. Moi, j'en ai encore un.
+
+La phrase me frappa plus durement que son refus.
+
+— C'est donc cela, Lumasar ?
+
+— Lumasar est une ville où même la lâcheté sait citer le Code.
+
+Il remit ses lunettes.
+
+— Et aujourd'hui, monsieur Valthen, la lâcheté a raison.
 
 Il n'a pas dit : je suis désolé. Il a dit : c'est comme ça. Ce qui est, à sa façon, plus respectueux.
 
@@ -112,7 +136,9 @@ L'Archiviste qui m'a finalement reçu s'appelait Verian Soth. Il avait l'âge du
 
 Il m'a reçu dans une salle d'entretien — un espace conçu pour ces échanges, neutre, avec une table et deux chaises et une fenêtre à plaque de cristal qui diffusait la lumière de l'après-midi en un spectre pâle sur le mur blanc. Il avait mon nom sur un formulaire devant lui, et le formulaire portait, dans une case en haut à droite, une annotation en rouge que je n'ai pas pu lire à l'envers mais dont la présence disait tout ce que je devais savoir.
 
-J'ai fait mon exposé. J'avais préparé une version concise — dix minutes, les faits essentiels, les observations dans les tunnels, la nature des inscriptions, leur contenu dans la mesure de ce que j'en avais traduit, les conséquences logiques pour la compréhension de l'histoire des Déliés, la nécessité d'une publication qui, une fois imprimée et répandue, échapperait à la main du Grand Recteur Thalendris — car même le chef du Cénacle ne rappelle pas des feuilles déjà lues aux quatre coins de Galenor. J'ai présenté tout cela avec le vocabulaire que je savais adapté à un contexte académique lumasarien — j'avais passé les deux heures et demie d'attente à reformuler mentalement pour remplacer les termes cartographiques par des termes plus proches de ceux que l'on utilise dans les sciences de l'histoire et de l'archivistique.
+J'ai fait mon exposé. Dix minutes. Les tunnels. Les inscriptions. Les mots traduits. Les conséquences possibles pour l'histoire des Déliés. La nécessité d'une publication assez répandue pour que Thalendris ne puisse pas la rappeler comme on rappelle un dossier.
+
+Pendant les deux heures et demie d'attente, j'avais remplacé mes mots de cartographe par des mots d'archiviste. Je croyais encore qu'une porte peut s'ouvrir si l'on choisit la bonne poignée.
 
 Verian Soth m'a écouté. Il a pris des notes. Il m'a posé deux ou trois questions précises sur les caractéristiques linguistiques des inscriptions — des questions pertinentes, qui indiquaient qu'il comprenait ce dont je parlais et que le sujet lui était familier.
 
@@ -130,11 +156,11 @@ Une pause. Le genre de pause que l'on prend quand le *mais* est trop lourd pour 
 
 Il y avait dans sa voix quelque chose que je n'aurais pas su qualifier à ce moment-là, mais que je comprends mieux maintenant que je l'ai noté ici : ce n'était pas de la mauvaise foi. Il croyait ce qu'il disait. Il connaissait les textes et il les appliquait. Il était un homme des institutions qui applique les règles de ses institutions avec la conviction sincère que ces règles ont été faites pour de bonnes raisons par des gens plus sages que lui, et que s'y soustraire serait une forme d'arrogance.
 
-C'est peut-être la chose la plus décourageante qui existe : non pas la mauvaise foi, mais la bonne foi au service d'une règle injuste.
+C'est peut-être la chose la plus décourageante qui existe : la bonne foi au service d'une règle injuste.
 
 J'ai quitté la salle d'entretien en pensant à Verian Soth comme à un type d'homme — l'archiviste qui croit en son institution sans la voir tout à fait. Il m'a fallu attendre la rue, le pavé luisant sous mes semelles et le froid qui revenait sur les épaules, pour que la pensée se présente sous une autre forme : pendant sept ans à Rukhsar, j'avais reçu sans broncher des dossiers que je classais sans poser de questions, sous le regard d'autres jeunes hommes que mon refus aurait peut-être un jour fait sortir dans une autre rue. Je n'ai pas voulu suivre cette pensée. Je l'ai notée et je l'ai rangée. Une note qu'on range est une note qu'on traitera plus tard, ou qu'on aura oubliée.
 
-Je suis reparti sans que les mots formels d'un refus aient jamais été prononcés, parce que les institutions bien huilées n'ont pas besoin de refuser explicitement — elles peuvent simplement ne pas être en mesure de vous aider compte tenu des circonstances actuelles, et vous indiquer les voies de recours théoriquement disponibles tout en sachant que ces voies de recours requièrent des conditions que vous ne remplissez pas.
+Je suis reparti sans que les mots formels d'un refus aient jamais été prononcés. Les institutions bien huilées n'ont pas besoin de dire non. Elles peuvent ne pas être en mesure de vous aider compte tenu des circonstances actuelles, puis vous indiquer des recours qui exigent précisément ce que l'on vient de vous retirer.
 
 ---
 
@@ -146,13 +172,19 @@ On m'a servi le menu du soir : du pain de cristal — cette particularité de la
 
 Je l'ai regardée briller dans mon verre pendant un moment avant d'en boire la première gorgée. Elle avait un goût de grain et de quelque chose de plus subtil — une note légère, presque florale, qui persistait après le passage. On dit qu'elle provoque des rêves agréables. J'ai bu le verre entier sans me soucier de l'effet promis, parce que je me sentais incapable de rêver quoi que ce soit d'agréable pour le moment.
 
-À la table d'à côté, deux hommes discutaient d'un jugement récent du Tribunal. L'un d'eux — un Archiviste de rang moyen, à en juger par les trois bandes oranges cousues sur le col de son manteau — s'agitait en évoquant les 1847 décisions et les 17% d'inapplication. L'autre, plus calme, plus vieux, répondait que le système fonctionnait, que 83% d'application c'était plus que n'importe quelle autre nation de Galenor n'avait jamais atteint, que la perfection n'était pas le critère pertinent. La discussion tournait autour d'un cas récent — un Voilé qui avait contesté devant le Tribunal son exclusion d'une bibliothèque publique de Prismalith, un Voilé qui avait gagné, et dont la décision favorable avait été suivie d'une longue période de non-application silencieuse par l'administration concernée.
+À la table d'à côté, deux hommes discutaient d'un jugement récent du Tribunal. Un Voilé avait contesté son exclusion d'une bibliothèque publique de Prismalith. Il avait gagné. L'administration n'avait pas appliqué la décision.
+
+— Dix-sept pour cent, disait le plus jeune. Vous appelez ça un détail ?
+
+— J'appelle ça quatre-vingt-trois pour cent d'obéissance, répondit l'autre. Trouvez-moi mieux ailleurs.
+
+— Pour les dix-sept pour cent, ailleurs ou ici ne change rien. La porte reste fermée.
 
 Je les ai écoutés, ces deux hommes, débattre avec une précision passionnée du fonctionnement d'un système qui m'avait repoussé dans la journée avec la même précision. Je n'étais pas en colère. J'étais fatigué d'une façon qui n'avait pas de rapport avec le voyage. La fatigue de quelqu'un qui a compris une chose nouvelle et dont la compréhension est encore en train de s'étendre dans des directions auxquelles il n'était pas préparé.
 
-Lumasar débat. Lumasar publie, archive, classe, argumente. Lumasar a un Tribunal qui rend des décisions et une presse qui les répercute et des étudiants qui les dissèquent dans les tavernes. Lumasar est, indiscutablement, un endroit où les idées ont plus d'espace qu'ailleurs.
+Lumasar débat. Lumasar publie, archive, classe, argumente. Les idées y ont plus d'espace qu'ailleurs.
 
-Mais les idées qui ont de l'espace sont les idées qui ont déjà été approuvées pour avoir de l'espace. Les idées qui dérangent les fondements du système — les découvertes qui remettent en cause les récits sur lesquels les institutions ont construit leur propre légitimité — celles-là n'ont pas besoin d'être interdites. Il suffit de créer des conditions dans lesquelles elles ne peuvent pas être soumises.
+Mais certaines idées n'ont pas besoin d'être interdites. Il suffit de créer des conditions dans lesquelles elles ne peuvent pas être soumises.
 
 ---
 
@@ -162,11 +194,49 @@ Le lendemain matin de mon arrivée à Kelanor, avant même ma visite chez Fendar
 
 Il s'appelait, d'après ce que j'ai appris plus tard par une conversation indirecte, Orath Dovan. Je l'ai identifié après coup grâce à une description qu'un libraire de la rue des Imprimeurs avait donnée dans une conversation à laquelle je n'étais pas censé prêter attention : Consul adjoint aux Relations Académiques Extérieures, un titre qui n'existe pas dans les textes officiels du Code de Lumasar mais qui décrit une fonction bien réelle, celle de quelqu'un dont le rôle consiste à gérer les affaires étrangères qui impliquent des institutions académiques et qui préfère ne pas passer par les canaux officiels.
 
-Orath Dovan avait une cinquantaine d'années, une carrure solide dans un manteau bien coupé de couleur anthracite, des cheveux gris coupés net, et des yeux qui faisaient ce que j'appelle le balayage — un regard horizontal qui enregistre tout ce qui est dans le champ visuel sans s'arrêter sur quoi que ce soit en particulier. Ce sont des yeux de quelqu'un qui a appris à observer sans paraître observer, ce qui est une compétence qu'on développe dans certaines professions et dans certaines situations, et qui ne ressemble jamais à de la distraction.
+Orath Dovan avait une cinquantaine d'années, une carrure solide dans un manteau anthracite, des cheveux gris coupés net, et des yeux qui faisaient ce que j'appelle le balayage : un regard qui enregistre sans s'arrêter.
 
 Il ne m'a pas adressé la parole. Il passait, il regardait, il continuait.
 
 Mais ce soir, en réfléchissant à la journée dans ma chambre d'auberge — une chambre propre et silencieuse, dont les murs de pierre blanche reflétaient la lumière des cristaux extérieurs en un éclat diffus qui aurait dû être reposant et qui me semblait plutôt froid —, j'ai compris que cet homme savait qui j'étais avant que je me sois présenté. Que ma présence à Kelanor avait été notée avant mon arrivée. Que les institutions de Lumasar, quelle que soit leur différence de nature d'avec celles de Kharazir, communiquent entre elles par des canaux qui n'apparaissent pas dans les textes officiels.
+
+J'aurais pu garder cette conclusion pour moi. C'est ce qu'un homme raisonnable aurait fait.
+
+À la place, je suis retourné dans la rue des Marchands.
+
+Orath Dovan n'était pas difficile à retrouver quand on savait qu'il voulait être vu sans avoir l'air d'attendre. Il se tenait sous l'auvent d'un marchand de parapluies de cristal, les mains croisées dans le dos, observant les passants avec ce balayage calme de fonctionnaire qui a transformé la menace en politesse.
+
+— Consul Dovan, ai-je dit.
+
+Il ne sursauta pas. Il ne me demanda pas comment je connaissais son nom. Il se contenta de tourner légèrement la tête.
+
+— Monsieur Valthen.
+
+Il prononça mon nom comme une confirmation, pas comme une découverte.
+
+— Vous me suivez ?
+
+— Non.
+
+— Vous me surveillez ?
+
+— Les mots ont leur importance.
+
+— Alors choisissez le vôtre.
+
+Il regarda la pluie bleue tomber entre nous.
+
+— Nous constatons votre présence.
+
+Je faillis rire. Je n'en eus pas la force.
+
+— Et si je constate la vôtre ?
+
+Cette fois, un pli apparut au coin de sa bouche. Pas un sourire. Une reconnaissance de la manœuvre.
+
+— Alors vous apprenez vite. C'est ce qui inquiète certaines personnes.
+
+Il me salua d'un mouvement de tête et s'éloigna avant que je puisse répondre. Dans son sillage, l'eau des pavés portait une poussière de cristal qui brillait comme du verre pilé.
 
 La notification de sympathie Catena Fracta avait voyagé plus vite que moi.
 
@@ -210,7 +280,7 @@ J'ai posé la main sur le bord de la fontaine et regardé le reflet des cristaux
 
 Je ne suis pas en sécurité ici. Je l'ai compris aujourd'hui avec la précision que l'on réserve aux choses qu'on espérait ne pas avoir à comprendre. Lumasar n'est pas Kharazir — on ne viendra pas saisir mes effets et révoquer des accréditations que je n'ai plus. Mais les institutions communiquent, et la notification de sympathie Catena Fracta est un outil suffisamment souple pour fermer les portes sans qu'on ait à les fermer officiellement. La liberté de Lumasar est réelle. Ses limites aussi.
 
-Ce que j'ai compris — et c'est la pensée la plus difficile de cette journée, plus difficile que le refus de Verian Soth et la tisane froide de Fendar Olis et les plumes sans nom dans la fontaine tarie — c'est que je n'avais pas vraiment préparé de plan B.
+Ce que j'ai compris — plus difficilement que le refus de Verian Soth, plus durement que la tisane froide de Fendar Olis — c'est que je n'avais pas vraiment préparé de plan B.
 
 J'avais quitté Kharazir avec l'idée que Lumasar serait différent, parce que tout le monde dit que Lumasar est différent. Tout le monde le dit parce que c'est vrai, dans un sens. Mais différent ne signifie pas imperméable aux mêmes pressions, juste vêtu d'habits différents.
 

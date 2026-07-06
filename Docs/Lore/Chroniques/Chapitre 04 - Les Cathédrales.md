@@ -195,7 +195,11 @@ Parce que la roche parlait. Pas métaphoriquement — je n'ai pas de dons que je
 
 Et j'ai trouvé quelque chose. Quelque chose que je ne développerai pas entièrement ici parce que je ne suis pas encore certain de sa nature et que l'incertitude mérite le temps nécessaire à se résoudre. Mais au fond de la galerie des Voix Anciennes, là où Frère Soleth m'a dit de ne pas avancer plus loin parce que le sol devenait instable, j'ai vu dans la paroi une configuration de strates — une séquence d'inclinaisons et de compositions minérales — qui ressemblait à ce que j'avais cartographié sous Kharazir. Pas identique. Semblable. Comme deux phrases dans deux langues différentes qui traduisent la même idée.
 
-Pour la précision : trois bandes de calcaire blanchâtre interrompues par une veine de basalte sombre d'environ deux pouces, inclinée à un angle d'environ trente degrés vers le sud-ouest, et au creux de cette veine une rainure régulière — une ligne droite, pas une fracture naturelle — qui courait sur trois pas avant de disparaître dans la roche. La rainure n'était pas profonde, mais sa rectitude excluait l'érosion ordinaire. Sous Kharazir, j'avais relevé une ligne de même apparence dans la galerie ouest, à un endroit où la maçonnerie ancienne s'arrêtait pour céder la place à la roche brute. Je n'avais pas su, à l'époque, ce qu'elle indiquait. Je ne le sais toujours pas. Mais je note que les deux lignes existent, dans deux pays séparés par six cents lieues, et que l'idée de coïncidence — pour un cartographe qui mesure depuis dix ans — devient à un certain point une explication paresseuse.
+Pour la précision : trois bandes de calcaire blanchâtre interrompues par une veine de basalte sombre d'environ deux pouces, inclinée à trente degrés vers le sud-ouest. Au creux de cette veine, une rainure régulière courait sur trois pas avant de disparaître dans la roche.
+
+Une ligne droite. Pas une fracture naturelle.
+
+Sous Kharazir, j'avais relevé une ligne de même apparence dans la galerie ouest, à l'endroit où la maçonnerie ancienne cédait à la roche brute. Je n'avais pas su, à l'époque, ce qu'elle indiquait. Je ne le sais toujours pas. Mais deux lignes de même apparence, dans deux pays séparés par six cents lieues, obligent le cartographe à cesser d'appeler la coïncidence une explication.
 
 Je n'ai rien dit à Frère Soleth. J'ai noté dans la marge — l'angle, la profondeur, l'orientation, et le mot *à comparer* en abrégé. Et j'ai recommencé à marcher.
 
@@ -226,6 +230,32 @@ Yolenne m'avait accompagné jusqu'à la route du nord, portant une sacoche sur l
 Elle m'avait offert la veille, sans cérémonie, un petit dessin qu'elle avait fait de ma chambre à l'auberge — la chambre vue de la cour, la fenêtre entrouverte avec la lumière du matin dedans, et sur le rebord de la fenêtre mon carnet ouvert et mes instruments de mesure posés à côté. Un dessin de moins de quinze minutes, fait à l'encre noire, qui n'était pas une œuvre de Maître des Arts et ne prétendait pas l'être.
 
 Mais qui me ressemblait. Qui ressemblait à ce que j'étais dans cette ville : quelqu'un qui regardait depuis une fenêtre, qui mesurait, qui notait — et dont les instruments étaient là, présents, posés sur le rebord comme une identité qu'on n'abandonne pas même quand elle ne sert à rien d'immédiat.
+
+Je lui dis que c'était trop précieux pour que je l'accepte.
+
+Yolenne me regarda comme si je venais de dire une absurdité très courante.
+
+— Ce n'est pas à toi de décider ce que vaut ce que je donne.
+
+— À Seraphia, tout le monde semble décider de la valeur des œuvres des autres.
+
+— Justement. Laisse au moins les artistes décider de leurs cadeaux.
+
+Elle plia le dessin et le glissa elle-même dans mon carnet, entre deux pages de notes sur les grottes de Caverana.
+
+— Tu vas écrire que la beauté exclut, dit-elle.
+
+Je la regardai.
+
+— Tu n'as pas besoin d'être prophète pour deviner ça. Tu as cette tête depuis le Festival.
+
+— Et tu penses que j'ai tort ?
+
+— Non. Je pense que tu écriras ça comme si c'était une idée. Pour ceux qui vivent ici en dehors des portes, ce n'est pas une idée. C'est l'heure à laquelle on te laisse entrer, le banc sur lequel on te permet de t'asseoir, le mot qu'on choisit pour dire que ton travail n'est pas assez pur.
+
+Elle désigna la Cathédrale, loin derrière nous, dont les flèches luisaient encore au-dessus des toits.
+
+— Comment se plaindre d'une cathédrale ? On commence par ne pas laisser la cathédrale parler à la place de ceux qui balayent son sol.
 
 Le Père Aldric Venne ne m'avait rien offert de matériel, mais il m'avait dit, lors de notre dernière conversation dans sa tour, quelque chose qui avait la densité de ce genre de phrases qu'on transporte longtemps avant de les comprendre entièrement :
 

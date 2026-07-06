@@ -138,17 +138,25 @@ Quand je m'arrêtai, l'Aînée dit : *Ce que vous décrivez est une carte.*
 
 *Non. C'est une carte temporelle. Les anomalies n'ont pas toutes commencé au même endroit — elles ont toutes commencé dans la même période. Quelque chose a changé à un moment précis, et les effets s'étendent depuis.*
 
+La seconde femme cessa d'écrire.
+
+*Vous parlez comme si le temps était un terrain*, dit-elle.
+
+Je répondis que, pour un cartographe, tout ce qui a des distances finit par ressembler à un terrain.
+
+*Alors prenez garde*, dit l'Aînée. *Les terrains se traversent. Le temps, lui, vous traverse aussi.*
+
 *Où*, dit l'homme. Pas une question — une demande de précision.
 
 *Par le bas*, dis-je. *De partout par le bas en même temps. Pas d'un point géographique unique. D'une direction.*
 
-L'Aînée ferma les yeux une seconde. Elle dit : *Les Archidruides de la génération précédente avaient une lecture que le Cercle actuel a longtemps considérée comme une métaphore des textes de fondation. Ils l'appelaient la Profondeur Première. Selon cette lecture, sous la surface du monde — sous la croûte, sous les profondeurs ordinaires — il y aurait une couche d'une autre nature, jamais atteinte physiquement. Pas géologique : autre chose. Les textes du Vael'Kurash y font allusion une fois, dans un passage difficile à dater. Le terme exact qu'on y lit est* Vael'Ur — *ce que nous traduisons par l'Avant-Esprit. Selon les anciens, ce qui précèderait les esprits. Ce dont les esprits seraient la surface. Cette traduction-là est une lecture parmi plusieurs.*
+L'Aînée ferma les yeux une seconde. Elle dit : *Les Archidruides de la génération précédente parlaient de la Profondeur Première. Le Cercle actuel y a longtemps vu une métaphore des textes de fondation. Sous la surface du monde — sous la croûte, sous les profondeurs ordinaires — il y aurait une couche d'une autre nature. Pas géologique : autre chose. Les textes du Vael'Kurash y font allusion une fois, dans un passage difficile à dater. Le terme exact est* Vael'Ur — *l'Avant-Esprit. Ce qui précèderait les esprits. Ce dont les esprits seraient la surface. Je vous donne une traduction possible, pas un verdict.*
 
-Je notai ce terme. Je lui demandai ce que les textes, selon leur lecture, disaient de Vael'Ur.
+J'écrivis le terme. *Que disent les textes de Vael'Ur ?*
 
-*Pas grand-chose, et toujours en mode incertain. Que cela dormirait. Que son sommeil serait ce qui permet aux esprits d'exister librement. Que s'il s'éveillait, les esprits seraient rappelés à lui — comme des flammes qui rejoindraient leur source.* Elle eut un geste qui rendait à ces phrases leur statut. *Je vous donne la lecture des textes. Je ne vous donne pas une vérité. Les générations précédentes du Cercle l'ont prise pour une métaphore, et elles n'avaient peut-être pas tort. Je vous la transmets parce que vous accumulez des fragments, et qu'un fragment trouve parfois sa place dans une figure que celui qui l'a écrit n'avait pas imaginée.*
+*Pas grand-chose, et toujours au conditionnel. Cela dormirait. Son sommeil permettrait aux esprits d'exister librement. S'il s'éveillait, les esprits seraient rappelés à lui — comme des flammes qui rejoignent leur source.* Elle eut un geste qui rendait à ces phrases leur statut. *Je ne vous donne pas une vérité. Je vous transmets un fragment, parce que vous en accumulez d'autres, et qu'un fragment trouve parfois sa place dans une figure que celui qui l'a écrit n'avait pas imaginée.*
 
-*Et si la lecture est juste, et qu'il s'éveille ?*
+*Et si c'est vrai ? S'il s'éveille ?*
 
 *Selon les textes : les esprits disparaissent. D'abord le lien, puis la présence, puis la mémoire. Selon les textes, encore une fois.*
 
@@ -164,13 +172,13 @@ Je restai assis sur le bord de la couchette, mon cahier ouvert sur mes genoux, e
 
 Ce n'était pas le même sentiment que les fois précédentes où j'avais senti que le puzzle avançait. Ce n'était pas l'addition d'une information à d'autres — c'était une transformation qualitative, le passage d'une collection à une structure.
 
-Voici ce que je crois lire, ce soir-là, dans ma cellule de bois vivant à Thalenvir — étant entendu que ce qui suit est une lecture, ma lecture, et qu'une autre figure de la même collection serait possible :
+Voici ce que je crus lire, ce soir-là, dans ma cellule de bois vivant à Thalenvir — sans oublier qu'une autre figure restait possible :
 
-Les anomalies que j'avais accumulées sur tout le continent — les esprits qu'on dit muets, les comportements animaux, les pulsations volcaniques, les courants marins hésitants, les poissons des profondeurs qui remontent, les voix dans les mines, les enfants aux yeux blancs qu'on dit voir à travers la terre — partagent, dans la lecture que j'en fais, une même direction. Le bas. Dans cette lecture, ce serait une direction réelle, pas une métaphore.
+Les anomalies accumulées sur tout le continent — esprits muets, comportements animaux, pulsations volcaniques, courants hésitants, poissons des profondeurs, voix dans les mines, enfants aux yeux blancs — partageaient une direction. Le bas. Pas comme image. Comme direction réelle.
 
-Dans la même lecture, ce que j'avais vu à Ordavan ne serait pas une anomalie locale. La pulsation du Mont Cendra que j'avais sentie dans ma propre poitrine ne serait pas une erreur de ma perception. Le silence dont parlent les druides d'Evertia ne serait pas une défaillance isolée du lien druidique.
+Alors ce que j'avais vu à Ordavan ne serait pas une anomalie locale. La pulsation du Mont Cendra dans ma poitrine ne serait pas une erreur de perception. Le silence des druides d'Evertia ne serait pas une défaillance isolée.
 
-Dans cette lecture, les fragments tiennent ensemble. Une cause possible — qu'elle soit Vael'Ur tel que les druides l'esquissent, ou autre chose qui n'a pas encore de nom dans les bouches que j'ai entendues — s'éveillerait. Pas d'un coup. Pas brutalement. Comme quelque chose de très grand dont le réveil serait lui-même un processus dont nous vivrions peut-être le début. Dont j'aurais peut-être traversé le début sans le reconnaître.
+Les fragments tenaient ensemble. Une cause possible — Vael'Ur, ou autre chose que personne n'avait encore su nommer — s'éveillerait. Pas d'un coup. Pas brutalement. Comme quelque chose de très grand dont le réveil serait lui-même un processus. J'en aurais traversé le début sans le reconnaître.
 
 C'est la figure qui se dessine si je tire les lignes entre les points. Mais le cartographe en moi se rappelle ce qu'il a appris à vingt ans : trois points forment une ligne si on le veut. Plusieurs autres figures restent compatibles avec les mêmes données. Je note la mienne. Je laisse les autres possibles.
 
@@ -184,11 +192,11 @@ Je notai cela dans la marge de mon cahier avec deux traits en dessous.
 
 Le lendemain, l'Aînée m'accorda deux heures supplémentaires.
 
-Elle me parla du Rota Mundi — la religion du Cycle que je connaissais par des approximations, par les versions différentes qu'on en avait à Caeloria et à Evertia. Elle me dit que la lecture evertienne du Rota Mundi inclurait un volet que les versions continentales auraient édulcoré ou perdu : selon cette lecture, le cycle ne serait pas seulement saisonnier ni seulement cosmique. Il inclurait les profondeurs. Ce qui descend reviendrait. Ce qui dort se réveillerait. Ce qui s'est retiré se représenterait. *C'est notre lecture*, précisa-t-elle. *Les théologiens du Rota Mundi continental nous le contestent.*
+Elle me parla du Rota Mundi — la religion du Cycle, dont je ne connaissais que des versions approximatives. Pour Evertia, le cycle n'était pas seulement saisonnier ni seulement cosmique. Il incluait les profondeurs. Ce qui descend reviendrait. Ce qui dort se réveillerait. Ce qui s'est retiré se représenterait. *C'est notre école*, précisa-t-elle. *Les théologiens du continent nous le contestent.*
 
-La question, dit-elle, n'était donc pas de savoir, dans l'absolu, si quelque chose revenait — chacun le formulerait à sa façon. La question, dans le cadre de leur lecture, devenait : ce que les êtres de surface — humains, esprits, arbres, mers — pourraient faire pendant un tel retour. Si quelque chose pouvait être fait. Si le cycle, tel qu'ils le lisent, comportait une mécanique qui permettrait une intervention, ou s'il serait d'une nature entièrement passive pour ceux qui y seraient soumis.
+La question n'était donc plus seulement de savoir si quelque chose revenait. Elle devenait plus difficile : que pourraient faire les êtres de surface — humains, esprits, arbres, mers — pendant un tel retour ? Le cycle permettait-il une intervention, ou fallait-il seulement le subir ?
 
-*Les textes de fondation*, dit-elle, *parlent d'Ancrages. Selon notre lecture, des êtres qui n'appartiendraient pas tout à fait au cycle ordinaire. Des êtres qui tiendraient la trame sans être dans la trame. Les Archidruides des générations précédentes ont pensé que c'était une métaphore du lien druidique — une façon de décrire les druides les plus avancés. J'ai des doutes sur cette lecture-là, mais je n'en ai pas de meilleure pour la remplacer.*
+*Les textes de fondation*, dit-elle, *parlent d'Ancrages. Des êtres qui n'appartiendraient pas tout à fait au cycle ordinaire. Des êtres qui tiendraient la trame sans être dans la trame. Les Archidruides des générations précédentes y ont vu une métaphore du lien druidique — une façon de décrire les druides les plus avancés. J'ai des doutes sur cette explication, mais je n'en ai pas encore de meilleure.*
 
 Je lui dis que les inscriptions de Kharazir utilisaient le même mot. Ancrages. Déliés. Ceux dont le lien est d'une autre nature.
 
@@ -200,11 +208,11 @@ Elle me regarda avec l'expression de quelqu'un qui connecte quelque chose à que
 
 Je ne répondis pas parce que je ne savais pas quelle était la bonne réponse — si c'était une assertion ou une question, si elle voulait une confirmation ou si elle était en train de penser à voix haute.
 
-Elle dit : *Il y a une chose, parmi beaucoup d'autres, que les textes disent à propos des Ancrages. La plus concrète, au milieu de ce qui reste symbolique. Selon les textes : lorsque le cycle entrerait dans sa phase de retour, les Ancrages commenceraient à sentir le monde différemment. Pas comme les Liés — pas par la trame ordinaire. Par quelque chose de plus direct. Comme si le monde leur parlait non pas par l'intermédiaire des esprits mais directement. Comme si la couche intermédiaire — les esprits eux-mêmes — s'était retirée et que la communication devenait brute. C'est ce que les textes disent. Le mot* selon *vaut pour tout ce que je vous transmets.*
+Elle dit : *Les textes disent une chose concrète à propos des Ancrages. Lorsque le cycle entrerait dans sa phase de retour, ils commenceraient à sentir le monde différemment. Pas comme les Liés. Pas par la trame ordinaire. Par quelque chose de plus direct. Comme si les esprits s'étaient retirés et que la communication devenait brute. Gardez le conditionnel. Il vaut pour tout ce que je vous transmets.*
 
 Je digérai cela lentement.
 
-Ce que j'avais ressenti depuis Cendara, dans la lecture de l'Aînée, ne serait pas le début d'une connexion. Ce serait l'apparition d'une connexion qui aurait toujours été là, masquée par la présence des esprits. Les esprits se tairaient. Ce qu'ils auraient tenu à distance — la communication directe avec quelque chose de plus profond — ne serait plus atténué. Lecture, encore. Mais elle rend compte de mon expérience d'une façon que les autres lectures que j'avais en magasin ne faisaient pas.
+Dans cette hypothèse, ce que j'avais ressenti depuis Cendara n'était pas le début d'une connexion. C'était l'apparition d'une connexion qui aurait toujours été là, masquée par la présence des esprits. Les esprits se tairaient ; ce qu'ils tenaient à distance ne serait plus atténué. Je gardai mes réserves. Mais aucune autre explication ne rendait aussi bien compte de mon expérience.
 
 *Ce que je porte ne m'appartient pas encore*, dis-je, plus pour moi-même que pour l'Aînée.
 
@@ -212,11 +220,11 @@ Elle dit : *Qu'est-ce que vous avez dit ?*
 
 Je lui répétai les mots de l'enfant aux yeux blancs.
 
-Elle fut silencieuse un long moment. Puis elle dit, très bas, d'une voix qui n'était pas celle d'une Archidruide en train de répondre à un visiteur mais celle d'une vieille femme qui reconnaît quelque chose qu'elle a longtemps espéré et longtemps craint : *Dans la lecture que je vous ai transmise, ce que les Ancrages porteraient serait la responsabilité de choisir comment répondre au retour. Pas de l'arrêter — personne n'arrête le cycle, dans aucune des lectures que je connais. Mais de choisir comment le monde de surface se tient pendant que cela se passerait. S'il tient, ou s'il se défait.*
+Elle fut silencieuse un long moment. Puis elle dit, très bas, d'une voix qui n'était plus celle d'une Archidruide mais celle d'une vieille femme devant une chose longtemps espérée et longtemps crainte : *Ce que les Ancrages porteraient, ce serait la responsabilité de choisir comment répondre au retour. Pas de l'arrêter — personne n'arrête le cycle. Mais de choisir comment le monde de surface se tient pendant qu'il advient. S'il tient, ou s'il se défait.*
 
 Je la regardai.
 
-*Et l'appartenance*, continua-t-elle, *viendrait de la compréhension. Un Ancrage qui ne comprend pas ce qu'il serait ne pourrait pas faire ce choix. Il le ferait par défaut, ou il ne le ferait pas. Ce que l'enfant vous a dit ne serait pas, dans cette lecture, une insuffisance. Ce serait une instruction.* Elle eut un sourire bref. *Tout cela reste suspendu à des* si. *Je ne sais pas vous dire autrement.*
+*Et l'appartenance*, continua-t-elle, *viendrait de la compréhension. Un Ancrage qui ne comprend pas ce qu'il est ne choisit pas vraiment. Il agit par défaut, ou il n'agit pas. Ce que l'enfant vous a dit ne serait pas une insuffisance. Ce serait une instruction.* Elle eut un sourire bref. *Tout cela reste suspendu à des* si. *Je ne sais pas vous le dire autrement.*
 
 ---
 
@@ -238,7 +246,9 @@ Je lui demandai pourquoi Ulinor.
 
 Elle dit : *Parce que les Anciens d'Ulinor ont gravé leur conscience dans la pierre avant de disparaître. Et les archives de pierre ne se taisent pas comme les esprits. Si quelque chose a déjà eu lieu — si ce cycle a déjà connu une phase de retour — c'est à Ulinor qu'on trouvera la mémoire de ce qui s'est passé.*
 
-Je pris la lettre. Je la pliai avec le soin que méritait une chose qui avait pris des générations à se décider. Je rangeai mes affaires plus vite que je ne l'aurais fait deux jours plus tôt — la direction était posée, l'itinéraire suivant clair, les questions à ouvrir à Ulinor déjà rédigées dans ma tête. Je notai dans le carnet : *itinéraire prochain : Ulinor, archives de pierre, Anciens, mémoire d'un retour précédent.* Je l'écrivis sans la prudence qui aurait convenu. Je m'en aperçus en le relisant et je laissai la phrase telle quelle, parce que la corriger maintenant aurait été une autre forme de prudence que je ne ressentais pas.
+Je pris la lettre. Je la pliai avec le soin que méritait une chose qui avait pris des générations à se décider. Je rangeai mes affaires plus vite que je ne l'aurais fait deux jours plus tôt. La direction était posée. Les questions à ouvrir à Ulinor se rédigeaient déjà dans ma tête.
+
+Dans le carnet, j'écrivis : *itinéraire prochain : Ulinor, archives de pierre, Anciens, mémoire d'un retour précédent.* La phrase manquait de prudence. Je la laissai telle quelle, parce que la corriger aurait été une autre prudence que je ne ressentais plus.
 
 La forêt me laissa partir. Les sentiers s'ouvrirent devant moi d'une façon que je ne saurais pas décrire autrement qu'en disant qu'ils s'ouvrirent — non pas que les obstacles se déplacèrent physiquement, mais que le chemin du retour était là, clair, sans les hésitations de l'aller. Comme si quelque chose avait décidé que j'avais reçu ce que j'étais venu recevoir.
 
@@ -248,9 +258,9 @@ Les Gardiens du pont me laissèrent passer sans poser de questions. L'un d'eux �
 
 Je montai à bord du premier navire pour Ulinor qui levait l'ancre le lendemain.
 
-Cette nuit-là, dans l'auberge de Valmora, j'ouvris mon cahier à la page du jour et j'écrivis, non pas des notes mais une phrase. Une seule phrase — la lecture que je porte ce soir, en sachant qu'elle reste une lecture :
+Cette nuit-là, dans l'auberge de Valmora, j'ouvris mon cahier et n'écrivis pas des notes. Une seule phrase suffit :
 
-*Dans la figure que je trace, quelque chose remonterait depuis les profondeurs du monde, les esprits se seraient tus parce qu'ils auraient été rappelés à leur source, et ce qui monterait ne viendrait pas de nulle part — selon cette même lecture, ce serait déjà venu, une fois au moins, peut-être plusieurs fois, et quelqu'un quelque part en aurait gardé la mémoire dans la pierre. Ulinor, peut-être.*
+*Dans la figure que je trace, quelque chose remonterait depuis les profondeurs du monde. Les esprits se seraient tus parce qu'ils auraient été rappelés à leur source. Et ce qui monte ne viendrait pas de nulle part : ce serait déjà venu, une fois au moins, peut-être plusieurs fois, et quelqu'un quelque part en aurait gardé la mémoire dans la pierre. Ulinor.*
 
 Je refermai le cahier.
 

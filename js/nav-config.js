@@ -155,7 +155,7 @@ const NavConfig = {
         "tome": 1,
         "titre": "La Septième Heure",
         "sousTitre": "L'Arrachement — An 0",
-        "statut": "tome 1 complet — relu le 2026-07-06",
+        "statut": "tome 1 V2 complet — ~56 fichiers",
         "dossier": "Lore/Romans/Les Trois Coups/T1 - La Septième Heure",
         "parties": [
             {
@@ -177,29 +177,54 @@ const NavConfig = {
                         "label": "Les lecteurs"
                     },
                     {
+                        "key": "la-derniere-question-de-l-academie",
+                        "file": "02 - La dernière question de l'Académie.md",
+                        "label": "La dernière question de l'Académie"
+                    },
+                    {
                         "key": "le-fil-et-le-vide",
-                        "file": "02 - Le fil et le vide.md",
+                        "file": "03 - Le fil et le vide.md",
                         "label": "Le fil et le vide"
                     },
                     {
+                        "key": "la-lettre-non-ecrite",
+                        "file": "04 - La lettre non écrite.md",
+                        "label": "La lettre non écrite"
+                    },
+                    {
                         "key": "la-gardienne-du-seuil",
-                        "file": "03 - La gardienne du seuil.md",
+                        "file": "05 - La gardienne du seuil.md",
                         "label": "La gardienne du seuil"
                     },
                     {
                         "key": "ce-qui-ne-plie-pas",
-                        "file": "04 - Ce qui ne plie pas.md",
+                        "file": "06 - Ce qui ne plie pas.md",
                         "label": "Ce qui ne plie pas"
                     },
                     {
+                        "key": "la-forge-et-la-fille",
+                        "file": "07 - La forge et la fille.md",
+                        "label": "La forge et la fille"
+                    },
+                    {
+                        "key": "deux-ans-pour-une-faille",
+                        "file": "08 - Deux ans pour une faille.md",
+                        "label": "Deux ans pour une faille"
+                    },
+                    {
                         "key": "le-rapport",
-                        "file": "05 - Le rapport.md",
+                        "file": "09 - Le rapport.md",
                         "label": "Le rapport"
                     },
                     {
+                        "key": "la-concordance-manquante",
+                        "file": "10 - La concordance manquante.md",
+                        "label": "La concordance manquante"
+                    },
+                    {
                         "key": "seuil-de-la-partie-i-la-voix-du-lien",
-                        "file": "06 - Seuil de la Partie I - La voix du Lien.md",
-                        "label": "Seuil de la Partie I — La voix du Lien"
+                        "file": "11 - Seuil de la Partie I - La voix du Lien.md",
+                        "label": "Seuil de la Partie I - La voix du Lien"
                     }
                 ]
             },
@@ -208,33 +233,53 @@ const NavConfig = {
                 "chapitres": [
                     {
                         "key": "montrer-et-faire",
-                        "file": "07 - Montrer et faire.md",
+                        "file": "12 - Montrer et faire.md",
                         "label": "Montrer et faire"
                     },
                     {
                         "key": "la-part-des-vides",
-                        "file": "08 - La part des Vides.md",
+                        "file": "13 - La part des Vides.md",
                         "label": "La part des Vides"
                     },
                     {
                         "key": "ceux-qui-tiennent-la-ville",
-                        "file": "09 - Ceux qui tiennent la ville.md",
+                        "file": "14 - Ceux qui tiennent la ville.md",
                         "label": "Ceux qui tiennent la ville"
                     },
                     {
                         "key": "ce-que-le-silence-garde",
-                        "file": "10 - Ce que le silence garde.md",
+                        "file": "15 - Ce que le silence garde.md",
                         "label": "Ce que le silence garde"
                     },
                     {
+                        "key": "le-vote",
+                        "file": "16 - Le vote.md",
+                        "label": "Le vote"
+                    },
+                    {
                         "key": "ce-que-les-reves-savaient",
-                        "file": "11 - Ce que les rêves savaient.md",
+                        "file": "17 - Ce que les rêves savaient.md",
                         "label": "Ce que les rêves savaient"
                     },
                     {
+                        "key": "ce-que-les-reves-montrent-d-autre",
+                        "file": "18 - Ce que les rêves montrent d'autre.md",
+                        "label": "Ce que les rêves montrent d'autre"
+                    },
+                    {
+                        "key": "vytharia-l-automne-d-avant",
+                        "file": "19 - Vytharia, l'automne d'avant.md",
+                        "label": "Vytharia, l'automne d'avant"
+                    },
+                    {
+                        "key": "ce-que-l-agent-ne-dit-plus",
+                        "file": "20 - Ce que l'agent ne dit plus.md",
+                        "label": "Ce que l'agent ne dit plus"
+                    },
+                    {
                         "key": "seuil-de-la-partie-ii-la-voix-du-lien",
-                        "file": "12 - Seuil de la Partie II - La voix du Lien.md",
-                        "label": "Seuil de la Partie II — La voix du Lien"
+                        "file": "21 - Seuil de la Partie II - La voix du Lien.md",
+                        "label": "Seuil de la Partie II - La voix du Lien"
                     }
                 ]
             },
@@ -242,34 +287,54 @@ const NavConfig = {
                 "titre": "Partie III — Le voyage",
                 "chapitres": [
                     {
+                        "key": "la-barre-et-le-fil",
+                        "file": "22 - La barre et le fil.md",
+                        "label": "La barre et le fil"
+                    },
+                    {
                         "key": "ceux-de-l-eau",
-                        "file": "13 - Ceux de l'eau.md",
+                        "file": "23 - Ceux de l'eau.md",
                         "label": "Ceux de l'eau"
                     },
                     {
                         "key": "la-forge-qu-on-laisse",
-                        "file": "14 - La forge qu'on laisse.md",
+                        "file": "24 - La forge qu'on laisse.md",
                         "label": "La forge qu'on laisse"
                     },
                     {
+                        "key": "le-gite-trop-propre",
+                        "file": "25 - Le gîte trop propre.md",
+                        "label": "Le gîte trop propre"
+                    },
+                    {
                         "key": "la-ville-qui-respire",
-                        "file": "15 - La ville qui respire.md",
+                        "file": "26 - La ville qui respire.md",
                         "label": "La ville qui respire"
                     },
                     {
                         "key": "la-premiere-personne-du-singulier",
-                        "file": "16 - La première personne du singulier.md",
+                        "file": "27 - La première personne du singulier.md",
                         "label": "La première personne du singulier"
                     },
                     {
                         "key": "la-vision-et-la-lame",
-                        "file": "17 - La vision et la lame.md",
+                        "file": "28 - La vision et la lame.md",
                         "label": "La vision et la lame"
                     },
                     {
+                        "key": "sulvane-apres-l-appareillage",
+                        "file": "29 - Sulvane, après l'appareillage.md",
+                        "label": "Sulvane, après l'appareillage"
+                    },
+                    {
+                        "key": "les-morts-qui-poussent",
+                        "file": "30 - Les morts qui poussent.md",
+                        "label": "Les morts qui poussent"
+                    },
+                    {
                         "key": "seuil-de-la-partie-iii-la-voix-du-lien",
-                        "file": "18 - Seuil de la Partie III - La voix du Lien.md",
-                        "label": "Seuil de la Partie III — La voix du Lien"
+                        "file": "31 - Seuil de la Partie III - La voix du Lien.md",
+                        "label": "Seuil de la Partie III - La voix du Lien"
                     }
                 ]
             },
@@ -278,28 +343,38 @@ const NavConfig = {
                 "chapitres": [
                     {
                         "key": "ce-que-les-morts-ne-disent-pas",
-                        "file": "19 - Ce que les morts ne disent pas.md",
+                        "file": "32 - Ce que les morts ne disent pas.md",
                         "label": "Ce que les morts ne disent pas"
                     },
                     {
                         "key": "ce-qu-on-ne-dit-pas-a-une-s-ur",
-                        "file": "20 - Ce qu'on ne dit pas à une sœur.md",
+                        "file": "33 - Ce qu'on ne dit pas à une sœur.md",
                         "label": "Ce qu'on ne dit pas à une sœur"
                     },
                     {
                         "key": "ce-qu-un-homme-peut-tenir",
-                        "file": "21 - Ce qu'un homme peut tenir.md",
+                        "file": "34 - Ce qu'un homme peut tenir.md",
                         "label": "Ce qu'un homme peut tenir"
                     },
                     {
+                        "key": "le-feu-encore-chaud",
+                        "file": "35 - Le feu encore chaud.md",
+                        "label": "Le feu encore chaud"
+                    },
+                    {
                         "key": "la-phrase-qui-attendait",
-                        "file": "22 - La phrase qui attendait.md",
+                        "file": "36 - La phrase qui attendait.md",
                         "label": "La phrase qui attendait"
                     },
                     {
+                        "key": "la-quille-dans-le-sable-noir",
+                        "file": "37 - La quille dans le sable noir.md",
+                        "label": "La quille dans le sable noir"
+                    },
+                    {
                         "key": "seuil-de-la-partie-iv-la-voix-du-lien",
-                        "file": "23 - Seuil de la Partie IV - La voix du Lien.md",
-                        "label": "Seuil de la Partie IV — La voix du Lien"
+                        "file": "38 - Seuil de la Partie IV - La voix du Lien.md",
+                        "label": "Seuil de la Partie IV - La voix du Lien"
                     }
                 ]
             },
@@ -308,52 +383,67 @@ const NavConfig = {
                 "chapitres": [
                     {
                         "key": "seuil-de-la-partie-v-la-voix-du-lien",
-                        "file": "24 - Seuil de la Partie V - La voix du Lien.md",
-                        "label": "Seuil de la Partie V — La voix du Lien"
+                        "file": "39 - Seuil de la Partie V - La voix du Lien.md",
+                        "label": "Seuil de la Partie V - La voix du Lien"
                     },
                     {
                         "key": "h-7",
-                        "file": "25 - H-7.md",
+                        "file": "40 - H-7.md",
                         "label": "H-7"
                     },
                     {
                         "key": "h-5",
-                        "file": "26 - H-5.md",
+                        "file": "41 - H-5.md",
                         "label": "H-5"
                     },
                     {
                         "key": "h-2",
-                        "file": "27 - H-2.md",
+                        "file": "42 - H-2.md",
                         "label": "H-2"
                     },
                     {
                         "key": "h0",
-                        "file": "28 - H0.md",
+                        "file": "43 - H0.md",
                         "label": "H0"
                     },
                     {
+                        "key": "au-pied-de-la-montagne",
+                        "file": "44 - Au pied de la montagne.md",
+                        "label": "Au pied de la montagne"
+                    },
+                    {
                         "key": "h1",
-                        "file": "29 - H1.md",
+                        "file": "45 - H1.md",
                         "label": "H1"
                     },
                     {
                         "key": "h2",
-                        "file": "30 - H2.md",
+                        "file": "46 - H2.md",
                         "label": "H2"
                     },
                     {
-                        "key": "h4-ce-qui-ne-resonne-pas",
-                        "file": "31 - H4.md",
-                        "label": "H4 — Ce qui ne résonne pas"
+                        "key": "h3-le-gouffre-d-endora",
+                        "file": "47 - H3 - Le Gouffre d'Endora.md",
+                        "label": "H3 - Le Gouffre d'Endora"
+                    },
+                    {
+                        "key": "h4",
+                        "file": "48 - H4.md",
+                        "label": "H4"
+                    },
+                    {
+                        "key": "h5-la-cite-qui-prie-en-tombant",
+                        "file": "49 - H5 - La cité qui prie en tombant.md",
+                        "label": "H5 - La cité qui prie en tombant"
                     },
                     {
                         "key": "h6",
-                        "file": "32 - H6.md",
+                        "file": "50 - H6.md",
                         "label": "H6"
                     },
                     {
                         "key": "h7",
-                        "file": "33 - H7.md",
+                        "file": "51 - H7.md",
                         "label": "H7"
                     }
                 ]
@@ -363,17 +453,22 @@ const NavConfig = {
                 "chapitres": [
                     {
                         "key": "la-marque-qui-reste",
-                        "file": "34 - La marque qui reste.md",
+                        "file": "52 - La marque qui reste.md",
                         "label": "La marque qui reste"
                     },
                     {
+                        "key": "le-rapport-que-personne-ne-lira",
+                        "file": "53 - Le rapport que personne ne lira.md",
+                        "label": "Le rapport que personne ne lira"
+                    },
+                    {
                         "key": "le-silence-est-revenu",
-                        "file": "35 - Le silence est revenu.md",
+                        "file": "54 - Le silence est revenu.md",
                         "label": "Le silence est revenu"
                     },
                     {
                         "key": "qu-il-attende-quelqu-un-de-meilleur",
-                        "file": "36 - Qu'il attende quelqu'un de meilleur.md",
+                        "file": "55 - Qu'il attende quelqu'un de meilleur.md",
                         "label": "Qu'il attende quelqu'un de meilleur"
                     }
                 ]

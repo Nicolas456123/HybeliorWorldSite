@@ -82,7 +82,11 @@ Je lui donnai les onze cahiers suivants.
 
 ---
 
-Elle lut pendant trois jours. Je savais qu'elle lisait parce qu'Ysolde me tenait informé — les deux femmes travaillaient ensemble depuis des années, une confiance de bibliothèque, le genre qui se construit dans les marges et les notes de bas de page plutôt que dans les conversations directes. Je passai ces trois jours à compléter mes notes, à récrire les parties des cahiers qui avaient souffert de la traversée en mer, à dresser un résumé — une synthèse de vingt pages qui rassemblait les quatre mystères, leurs recoupements possibles, l'hypothèse d'une famille d'écritures pré-Arrachement, l'hypothèse d'anciennes constructions reliées, et plusieurs lectures concurrentes du même ensemble de signes — celles que j'avais entendues d'Ulinor, de Cestra, de Lumasar, de Solena, de Baelor — sans que j'en privilégie une seule. J'incluais aussi des notes sur ce que j'avais commencé à comprendre des Déliés, distinctes des thèses doctrinales courantes.
+Elle lut pendant trois jours. Je le savais parce qu'Ysolde me tenait informé ; les deux femmes avaient cette confiance de bibliothèque qui se construit dans les marges et les notes de bas de page.
+
+Je passai ces trois jours à compléter mes notes et à récrire les cahiers abîmés par la traversée. Je dressai aussi une synthèse de vingt pages : les quatre mystères, leurs recoupements possibles, l'hypothèse d'une famille d'écritures pré-Arrachement, celle d'anciennes constructions reliées, et les lectures concurrentes entendues d'Ulinor, de Cestra, de Lumasar, de Solena, de Baelor.
+
+Je n'en privilégiai aucune. J'ajoutai seulement ce que je commençais à comprendre des Déliés, en dehors des thèses doctrinales courantes.
 
 Le travail était, dans son détail, exactement le travail qu'un archiviste de Kharazir aurait fait sept ans plus tôt sur un autre dossier. Vérifier les renvois. Repasser à l'encre les passages effacés. Caler la marge. Numéroter les pages. Tenir une liste des sources concurrentes en tête de chapitre et l'amender quand l'une d'elles devenait fragile. Je faisais ce que j'avais toujours fait depuis ma première année à la Guilde — et je le faisais ces jours-ci avec une tranquillité que je ne me souvenais pas d'avoir eue alors. Je ne cherchai pas la cause de cette tranquillité. Je continuai de numéroter les pages.
 
@@ -167,6 +171,12 @@ Elle hocha la tête avec la sagesse particulière de quelqu'un qui a passé des 
 *« Alors ça travaillera. Les institutions sont lentes mais elles ne sont pas sourdes. Ce que vous avez déposé là ne va pas disparaître. »*
 
 Elle marqua une pause.
+
+*« Mais vous, vous ne resterez pas ici à attendre qu'elles aient fini de comprendre. »*
+
+Je répondis que non.
+
+*« Je m'en doutais. Les gens qui reviennent avec des cartes pareilles ne savent plus s'asseoir longtemps. »*
 
 *« Et d'autres entendront. Pas seulement eux. »*
 

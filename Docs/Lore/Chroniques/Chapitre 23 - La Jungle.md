@@ -16,7 +16,11 @@ needs_review_for: []
 
 L'air change avant la frontière.
 
-Je ne l'avais pas anticipé — j'avais traversé assez de pays, franchi assez de lisières pour croire que je savais ce que traverser une frontière signifiait. Un paysage qui se modifie, une architecture qui évolue, la langue qui glisse sur d'autres syllabes. Mais ici, à l'approche de Warenthor, c'est l'air lui-même qui change de nature, comme si la jungle avait étendu sa juridiction au-delà de ses arbres. À cinq lieues de la lisière, l'humidité est déjà différente — pas l'humidité morte des villes à l'aube, pas l'humidité propre de la montagne sous la pluie, mais quelque chose de chargé, de respiré, une vapeur qui vient du vivant et qui retourne au vivant, une eau qui s'apprête à redevenir feuille. L'odeur me frappa ensuite. Pas l'odeur d'une forêt ordinaire — la pourriture douce de l'humus, le vert âcre des résines, les parfums sucrés de fleurs dont je ne connaissais pas les noms et auxquels je ne trouverais peut-être pas de noms, parce que certaines choses dans le sud d'Ilthara n'ont pas encore été nommées dans ma langue.
+Je ne l'avais pas anticipé. J'avais traversé assez de pays pour croire que je savais ce qu'une frontière faisait au corps : un paysage se modifie, une architecture évolue, une langue glisse sur d'autres syllabes.
+
+Ici, c'est l'air lui-même qui changeait de nature, comme si la jungle avait étendu sa juridiction au-delà de ses arbres. À cinq lieues de la lisière, l'humidité était déjà différente : une vapeur chargée, respirée, venue du vivant et retournant au vivant.
+
+L'odeur me frappa ensuite. Pas l'odeur d'une forêt ordinaire. La pourriture douce de l'humus. Le vert âcre des résines. Les parfums sucrés de fleurs dont je ne connaissais pas les noms et auxquelles je n'en trouverais peut-être jamais.
 
 Je notai la date. Jour 440 depuis Kharazir. Depuis le début.
 
@@ -28,7 +32,9 @@ Ce que j'ignorais, c'est que le dernier morceau m'attendait ici.
 
 Wyndor n'est pas une ville dans le sens où j'aurais su l'inscrire sur une carte.
 
-Je l'avais compris en théorie — la description faite par les marchands qui reviennent de Warenthor avec leurs cargaisons de bois tropicaux et de cristaux de sève parle de « maisons dans les arbres » avec l'imprécision condescendante de quelqu'un qui n'a pas compris ce qu'il a vu. Ce qu'il faudrait dire, c'est ceci : Wyndor est un réseau suspendu qui épouse la structure des arbres plutôt que de la contraindre, un tissu de bois et de liane tendu entre des troncs qui ont commencé à pousser bien avant que les premiers habitants arrivent et qui, selon la tradition locale, savaient déjà qu'ils attendraient. La Grande Plateforme centrale — un disque poli de vingt mètres soutenu par les branches entrelacées de quatre colosses — est à la fois une place publique et un autel vivant. Je m'y tins un moment à mon arrivée, les yeux levés vers la canopée, et j'eus la sensation très précise d'être regardé.
+Les marchands parlent de « maisons dans les arbres ». C'est trop petit, et trop condescendant. Wyndor n'est pas posé sur la jungle : Wyndor négocie avec elle.
+
+La ville est un réseau suspendu, un tissu de bois et de liane tendu entre des troncs plus anciens que ses habitants. La Grande Plateforme centrale — un disque poli soutenu par les branches entrelacées de quatre colosses — est à la fois une place publique et un autel vivant. Je m'y tins un moment à mon arrivée, les yeux levés vers la canopée, et j'eus la sensation très précise d'être regardé.
 
 Pas par les gens sur les passerelles supérieures — bien que plusieurs m'observassent sans se cacher, avec la curiosité directe et sans hostilité des peuples qui n'ont pas besoin de prétendre indifférence pour se sentir en sécurité. Quelque chose d'autre regardait. Quelque chose dans l'écorce, dans la lumière verte tamisée qui tombait à travers les niveaux de feuillage, dans le léger bruissement permanent de la jungle — un bruissement qui n'était pas du vent car il n'y avait pas de vent, qui provenait d'une agitation propre à la forêt elle-même, comme la respiration d'un être qu'on n'a pas encore appris à reconnaître comme tel.
 
@@ -114,6 +120,32 @@ Je regardai Kael. Il avait de nouveau les yeux en mouvement — cet animal dans 
 
 Je sortis mon journal. Je notai la phrase exactement comme elle avait été prononcée, exactement comme elle avait été traduite. Puis je regardai la Carte du Silence dans mon sac — je ne la sortis pas, mais je sus qu'elle était là, et que la ligne qu'elle traçait vers Evertia passait par quelque chose que les chamanes désignaient comme venant du dessous.
 
+Thyris posa deux doigts sur mon carnet avant que je referme la page.
+
+— Ne fais pas de lui une preuve.
+
+Je levai les yeux.
+
+— Je note ce qu'il dit.
+
+— Non. Tu notes ce que tu peux utiliser.
+
+Sa voix n'était pas dure. C'était pire : elle était exacte.
+
+— Kael n'est pas un signe sur ta carte. C'est quelqu'un à qui le monde a cessé de répondre.
+
+Je regardai le chamane. Ses yeux bougeaient toujours, cherchant des voix absentes.
+
+— Je le sais, dis-je.
+
+— Alors écris-le aussi.
+
+Je rouvris le carnet.
+
+Sous la phrase traduite, j'ajoutai : *Kael tremble quand il respire. Thyris garde une main près de lui sans le toucher. Ce n'est pas une donnée. C'est ce que la donnée coûte.*
+
+Thyris lut par-dessus mon épaule. Elle ne dit pas que c'était suffisant. Rien ne l'était. Mais elle retira ses doigts de la page.
+
 *Par le dessous.* Je l'écrivis sans savoir si Kael décrivait une métaphore qu'il prenait pour une direction, ou une direction que ses esprits lui avaient désignée comme une métaphore. Les deux lectures restaient ouvertes.
 
 ---
@@ -142,9 +174,9 @@ Les saisons décalées dans les plaines de Gryndor et Sylthara : le printemps qu
 
 Et maintenant : *Ils arrivent par le dessous.*
 
-Je regardai la jungle sous mes pieds — le sol invisible dans l'obscurité, le niveau interdit aux humains depuis la fondation de Wyndor, le domaine que les chamanes décrivent comme celui des esprits les plus anciens. Selon leurs lectures, ces esprits-là s'étaient retirés.
+Je regardai la jungle sous mes pieds — le sol invisible dans l'obscurité, le niveau interdit aux humains depuis la fondation de Wyndor, le domaine que les chamanes décrivent comme celui des esprits les plus anciens. Dans leurs chants, ces esprits-là s'étaient retirés.
 
-Et selon Kael, quelque chose dont il n'avait pas le nom occupait désormais la place vide. Lecture de chamane, pas certitude observée. Je notai la lecture comme telle.
+Et d'après Kael, quelque chose dont il n'avait pas le nom occupait désormais la place vide. Ce n'était pas une certitude observée, mais ce n'était plus une image isolée.
 
 ---
 
@@ -158,7 +190,9 @@ La date du départ vers Celethor s'approchait. Je le sentais moins dans le calen
 
 Ce que je fis à Bybias, c'est écouter.
 
-Le marché est un endroit où les gens parlent, et où les gens qui parlent disent des choses qu'ils ne diraient pas dans un contexte plus formel. Pas des secrets — des inquiétudes, ces choses intermédiaires entre ce qu'on sait et ce qu'on veut savoir, qui circulent dans les places de marché comme de la monnaie non officielle. J'entendis des marchands de Siera parler des racines du Bosquet Primordial qui saignaient — une information que l'Archidruide tenait discrète mais qui s'était tout de même répandue, comme toutes les informations que les gens en autorité essaient de contenir. J'entendis une guérisseuse de Reckia expliquer à une collègue que certaines plantes médicinales de son secteur avaient perdu leurs propriétés curatives au cours des derniers mois — pas disparues, toujours là, mais vides. Comme des contenants qu'on aurait vidés de leur contenu sans les retirer.
+Le marché est un endroit où les gens parlent, et où les gens qui parlent disent des choses qu'ils ne diraient pas dans un contexte plus formel. Pas des secrets — des inquiétudes, ces choses intermédiaires entre ce qu'on sait et ce qu'on veut savoir, qui circulent dans les places de marché comme de la monnaie non officielle.
+
+J'entendis des marchands de Siera parler des racines du Bosquet Primordial qui saignaient — une information que l'Archidruide tenait discrète mais qui s'était tout de même répandue, comme toutes les informations que les gens en autorité essaient de contenir. J'entendis une guérisseuse de Reckia expliquer à une collègue que certaines plantes médicinales de son secteur avaient perdu leurs propriétés curatives au cours des derniers mois — pas disparues, toujours là, mais vides. Comme des contenants qu'on aurait vidés de leur contenu sans les retirer.
 
 Et j'entendis un Gardien de Bosquet parler à voix basse à un autre de ce que les habitants de Gnosias avaient entendu.
 
@@ -166,7 +200,7 @@ Les habitants de Gnosias — le village des druides silencieux, ceux qui ont fai
 
 *Ils arrivent par le dessous.*
 
-Je notai les mots de Gnosias. Je les mis à côté de ceux de Kael. Je les mis à côté du Fragment Zéro et des racines qui saignent et des plantes vides. Je fermai mon journal.
+J'écrivis les mots de Gnosias. Je les mis à côté de ceux de Kael. Je les mis à côté du Fragment Zéro et des racines qui saignent et des plantes vides. Je fermai mon journal.
 
 La ligne était devenue une flèche. Elle pointait vers Evertia — ou plutôt, elle partait d'Evertia et traversait tout ce que j'avais vu, et à son extrémité opposée il y avait quelque chose qui n'avait pas encore de nom mais qui avait une direction.
 

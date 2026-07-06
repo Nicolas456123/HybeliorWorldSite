@@ -60,6 +60,14 @@ Je suis descendu dans le carré de l'équipage. Huit personnes autour d'une tabl
 
 Les marins parlaient de la mer — des courants qui avaient changé au cours des dernières années, des zones de haute mer où la boussole se comportait bizarrement depuis quelque temps, des ports où ils ne feraient plus escale parce que les conditions d'accueil s'étaient détériorées. Une conversation ordinaire de gens dont le métier est de connaître les routes.
 
+Le matelot à l'huile de Galenor me demanda ce que je cherchais, moi, sur les routes.
+
+Je dis que je cherchais à comprendre pourquoi certaines se rouvraient.
+
+Il trempa son pain dans la soupe.
+
+*« Une route qui rouvre n'est pas toujours une invitation, »* dit-il. *« Parfois c'est une fuite dans une coque. Ça s'ouvre aussi. »*
+
 J'ai écouté en mangeant, et quelque chose dans leur façon de parler des routes — des routes de mer, des voies de navigation que les générations de marins transmettent et qui évoluent lentement avec les saisons et les vents — m'a remis à l'esprit ce que j'avais compris sur le glacier.
 
 Les routes rouvrent.
@@ -118,6 +126,18 @@ Je l'ai regardé un moment. Il avait des yeux d'un brun très pâle, presque noi
 
 Je lui dis que j'avais une idée.
 
+*« Alors méfiez-vous de vos idées, »* dit Reen.
+
+Je le regardai.
+
+*« Les marins perdus appellent souvent une dérive une route parce que route fait moins peur. Vous appelez cela un retour. Peut-être que c'en est un. Peut-être que vous avez seulement besoin que ce soit un retour parce que votre père est quelque part au bout. »*
+
+La phrase me prit plus juste que je ne l'aurais voulu.
+
+*« Vous dites cela à tous vos passagers ? »*
+
+*« Seulement à ceux qui regardent la mer comme si elle leur devait une réponse. »*
+
 Il hocha à nouveau la tête, se redressa, et retourna vers la barre sans ajouter un mot. La conversation était close non par brusquerie mais par la certitude que tout ce qui était utile avait été dit.
 
 ---
@@ -126,7 +146,7 @@ Cette nuit-là, incapable de dormir dans ma couchette trop étroite pour le form
 
 J'ai cherché l'étoile manquante. Celle que les textes de l'Ordo Caelum anciens mentionnaient et que les cartes célestes actuelles ignoraient — une étoile dans la constellation que les vieilles sources appelaient *la Proue* ou *la Route*, selon les traditions, une constellation qui aurait dû avoir sept étoiles et n'en avait que six.
 
-Je ne savais pas exactement où chercher. Mais j'ai regardé la sixième étoile de la constellation, la plus brillante, et j'ai imaginé une septième à côté d'elle — à la distance où la symétrie de la figure l'aurait placée. Et dans cet espace vide entre les étoiles existantes, il y avait quelque chose. Pas une étoile visible. Mais une densité, une façon dont la lumière autour semblait légèrement infléchie, comme si quelque chose de massif absorbait la clarté alentour ou la renvoyait dans une direction que mes yeux ne pouvaient pas suivre.
+Je partis de la sixième, la plus brillante, et je plaçai mentalement la septième là où la symétrie de la figure l'aurait exigée. Dans cet espace vide, la lumière ne se comportait pas comme ailleurs. Pas une étoile visible. Une densité. Une inflexion très légère, comme si la clarté alentour rencontrait une masse que mes yeux ne pouvaient pas suivre.
 
 J'aurais pu me tromper. La nuit de mer déforme les perceptions — c'est connu, documenté, les marins en parlent depuis des siècles. Mais j'ai noté ce que j'avais vu avec la précision que je réservais aux faits, et non avec l'astérisque que je réservais aux suppositions.
 
@@ -144,7 +164,7 @@ Au matin du quatrième jour, les côtes de Galenor sont apparues — d'abord une
 
 Je suis resté sur le pont jusqu'à ce que nous entrions dans les eaux du port.
 
-Le monde changeait. Les routes rouvraient. Selon la carte que je portais désormais, quelque chose montait par le dessous de tout ce que nous connaissions, et ce quelque chose n'était peut-être ni un monstre ni une catastrophe — peut-être un retour. Le retour de quelque chose qui avait été là avant que nos mémoires commencent, avant que nos nations se dessinent, avant que nous décidions qui était Lié et qui était Délié et que ces distinctions aient un sens.
+Le monde changeait. Les routes rouvraient. La carte que je portais ne disait pas si ce qui montait serait salut, catastrophe ou simple retour d'une chose trop ancienne pour nos catégories. Elle disait seulement ceci : le dessous n'était plus immobile, et les distinctions sur lesquelles nous avions bâti nos villes — Lié, Délié, surface, profondeur, départ, retour — commençaient à perdre leur netteté.
 
 J'avais dix-sept cahiers. J'avais la carte la plus complète qu'un homme vivant ait jamais dressée des mystères du monde.
 

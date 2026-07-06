@@ -270,6 +270,20 @@ La route sort d'Elarath par le sud-est — une pente douce qui quitte la ville s
 
 Au carrefour de Mirdeth, Davan et moi nous séparâmes. Nous ne nous fîmes pas la promesse de nous revoir — je ne fais plus ces promesses depuis longtemps, non pas par pessimisme mais parce que les promesses de revoir les gens qu'on rencontre en voyage ont une façon d'alourdir le départ d'un poids qui n'appartient pas à ce moment. On s'est rencontré. C'est réel et c'est suffisant.
 
+Davan resta longtemps avec les rênes de sa mule en main, comme s'il attendait que la route lui donne une formule convenable.
+
+— J'ai cru que les cartes servaient à savoir où aller, dit-il enfin.
+
+— C'est leur usage le plus courant.
+
+— Maintenant je crois qu'elles servent surtout à savoir ce qu'on accepte de perdre.
+
+Il me tendit une feuille pliée : son croquis maladroit de la côte, corrigé de sa main après nos discussions. Les lignes restaient hésitantes, mais il avait noté les vents, les courants, les villages dont les pêcheurs lui avaient donné les noms.
+
+— Garde-la, dit-il. Si elle est mauvaise, tu sauras pourquoi. Si elle est juste, tu sauras que j'ai appris quelque chose.
+
+Je la pris. Ce n'était pas une carte utile. C'était mieux que cela : une carte commencée.
+
 Il repartit vers Elarath. Je continuai vers le sud.
 
 Pardine avait repris son allure de croisière — ni pressée ni récalcitrante, l'allure d'une créature qui a accepté que le mouvement soit son état naturel et qui y trouve, sinon du plaisir, du moins une forme de confort dans la régularité. Je l'enviais parfois.

@@ -238,6 +238,16 @@ C'était juste. La forêt d'Avalor apprend ça — une façon de déposer le pie
 
 Vardec me demanda ce que j'avais vu en Avalor. Je fus bref — les forêts, la capitale, quelques jours. Il dit : « L'Archidruide. » Ce n'était pas une question non plus.
 
+— Vous savez déjà beaucoup de choses, dis-je.
+
+— Je sais ce qui arrive aux quais. Tout finit par arriver aux quais.
+
+— Même les secrets ?
+
+Vardec regarda les mâts derrière moi, les pavillons mêlés, les silhouettes des porteurs sur les passerelles.
+
+— Surtout les secrets. Les marchandises honnêtes passent par les registres. Les secrets passent par les hommes, et les hommes ont faim, peur, envie de parler ou besoin d'argent. C'est moins fiable, mais plus rapide.
+
 Il dit : « Feylara est en difficulté. »
 
 Je demandai ce qu'il voulait dire.

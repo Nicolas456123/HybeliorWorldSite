@@ -14,7 +14,9 @@ needs_review_for: []
 
 ---
 
-Il y a une odeur que je ne saurais plus oublier maintenant que je l'ai sentie une fois. L'odeur de la mer au petit matin, lorsque le sel se mêle au goudron chaud des coques, lorsque les cordages mouillés fument dans la première lumière et que le vent, encore froid, apporte avec lui quelque chose que je ne sais pas nommer. Ce matin-là, au port de Vyndralith, j'ai compris que je n'avais pas encore su ce que signifiait partir. Non pas fuir, comme je l'avais fait à Kharazir ; non pas être rejeté, comme à Lumasar ; non pas trouver refuge provisoire, comme chez les cavaliers de Ventera ; non pas être bouleversé, comme par les artisans de Seraphia. Partir, vraiment partir — c'est tout autre chose. C'est poser ses mains à plat sur la rambarde d'un navire à quai et sentir le bois vibrer sous le ressac, et savoir que la terre que l'on quitte ne sera plus jamais la même quand on reviendra, parce que c'est soi qui aura changé, pas elle.
+Il y a une odeur que je ne saurais plus oublier : la mer au petit matin, le sel mêlé au goudron chaud des coques, les cordages mouillés qui fument dans la première lumière.
+
+Ce matin-là, au port de Vyndralith, j'ai compris que je n'avais pas encore su ce que signifiait partir. Pas fuir, comme à Kharazir. Pas être rejeté, comme à Lumasar. Partir vraiment, c'est poser les mains sur la rambarde d'un navire à quai, sentir le bois vibrer sous le ressac, et savoir que la terre quittée ne sera plus jamais la même au retour, parce que c'est soi qui aura changé.
 
 Je n'ai pas dormi. Ce n'était pas l'insomnie de l'anxiété — celle que je connaissais bien, celle qui me rongeait à Kharazir lorsque mon exil n'était encore que rumeur. C'était quelque chose de plus propre, de plus vaste. Une veille de soldat avant la bataille, peut-être, si j'avais su ce qu'est une bataille.
 
@@ -153,6 +155,22 @@ Vela Morn était arrivée exactement à l'heure dite. Précise comme ses calculs
 Elle avait regardé mon sac unique avec quelque chose qui ressemblait à de la considération. Un homme qui tient dans un sac est un homme qui ne va pas te ralentir.
 
 — Bien. On appareille quand le vent tourne à l'ouest. Deux heures, peut-être trois.
+
+Elle fit deux pas vers la passerelle, puis s'arrêta.
+
+— Une règle, Valthen.
+
+— Laquelle ?
+
+— Sur mon pont, personne n'est un exilé. Personne n'est un noble. Personne n'est un érudit. Il y a ceux qui tiennent debout quand la mer bouge, et ceux qui apprennent vite. Tu seras dans la deuxième catégorie jusqu'à preuve du contraire.
+
+— Et si je ne tiens pas debout ?
+
+— Alors tu vomiras du côté sous le vent. C'est la politesse minimale.
+
+Un marin qui passait derrière elle éclata de rire. Vela ne sourit pas, mais ses yeux le firent à sa place.
+
+— Si tu écris sur moi dans ton carnet, ajouta-t-elle, écris que je suis patiente. Les capitaines aiment qu'on mente bien.
 
 Elle avait disparu à bord, et j'étais resté sur le quai.
 

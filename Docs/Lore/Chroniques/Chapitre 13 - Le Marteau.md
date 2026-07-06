@@ -150,6 +150,12 @@ Je lui dis que c'était comme lire une carte.
 
 Il me regarda d'un air qui n'était pas tout à fait du scepticisme mais qui lui ressemblait. Puis il dit : « Peut-être. Les cartes peuvent se tromper. Un fourneau mal construit, ça se voit immédiatement. »
 
+— Les cartes aussi, parfois. Seulement on découvre l'erreur quand quelqu'un a déjà suivi la mauvaise route.
+
+Thedek hocha la tête, lentement.
+
+— Alors nous faisons le même métier avec deux délais différents.
+
 La pragmatique de Mosrack, résumée en deux phrases.
 
 ---

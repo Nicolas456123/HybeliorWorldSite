@@ -84,7 +84,9 @@ Baelor était sur le même réseau.
 
 Je ne pus pas approfondir cette pensée davantage à ce moment-là — la méditation collective ne laissait pas d'espace à la pensée narrative, elle occupait un type d'attention différent que mes outils habituels ne savaient pas partager. Mais la sensation s'imprima suffisamment pour que je la retrouve ensuite, dans ma cellule, et que je l'examine.
 
-Baelor sans Éthéré. L'unique continent d'Hybelior où l'éther ne circule pas — ou ne circule plus, la distinction étant peut-être plus importante que les textes académiques ne l'admettaient. Pas parce que la terre serait stérile ou que les moines l'auraient refusé — mais peut-être parce que quelque chose d'autre circule ici à la place. Quelque chose de plus profond que l'éther, quelque chose que l'éther recouvre ailleurs comme une couche de surface recouvre ce qui est dessous.
+Baelor sans Éthéré. L'unique continent d'Hybelior où l'éther ne circule pas — ou ne circule plus, distinction plus importante que les textes académiques ne l'admettaient.
+
+Pas parce que la terre serait stérile. Pas parce que les moines l'auraient refusé. Parce que quelque chose d'autre circule ici à la place. Plus profond que l'éther. Recouvert ailleurs par l'éther comme une couche de surface recouvre ce qui est dessous.
 
 À Baelor, la couche de surface manquait. Ce qu'on entendait dans la roche était direct.
 
@@ -134,17 +136,29 @@ Le mot était en galenorien — l'Abbé avait choisi de ne pas me forcer à déc
 
 *Dessous.*
 
+Je relevai les yeux vers lui.
+
+Il ne souriait pas. Il ne m'encourageait pas. Il avait l'air d'un homme qui vient de dépenser une pièce conservée toute une vie et qui ne sait pas encore si elle achètera ce qu'il fallait.
+
+Je touchai le mot du bout des doigts, puis je montrai la mer, le ciel, les falaises autour de nous. Une question maladroite : *pourquoi seulement cela ?*
+
+Kethron VI posa sa main sur le parchemin, très doucement, sans couvrir le mot.
+
+Puis il leva l'autre main et désigna sa gorge.
+
+Je compris avant que le vieux moine traduise par un geste plus simple : ce mot était une rupture. Un moine de Baelor ne brise pas le silence pour expliquer. Il le brise seulement quand un seul mot suffit ou quand tous les autres seraient une profanation.
+
 ---
 
 Je m'assis longtemps dans la Salle du Silence après que l'Abbé fut parti.
 
-Le vieux moine resta — pas par surveillance, par présence. Il s'assit dans l'embrasure et ferma les yeux. Il ne méditait peut-être pas. Il était peut-être simplement là, de cette façon que les moines de Baelor avaient d'habiter le moment sans le surcharger.
+Le vieux moine resta — pas par surveillance, par présence. Il s'assit dans l'embrasure et ferma les yeux. Il était simplement là, de cette façon que les moines de Baelor avaient d'habiter le moment sans le surcharger.
 
 *Dessous.*
 
 Un seul mot. Le seul mot que Kethron VI avait choisi d'écrire pour moi — dans cette vie où il n'écrivait pas les mots pour rien, où chaque inscription dans un journal enluminé coûtait des mois et était choisie avec une économie absolue. Ce mot pour moi. Ce mot maintenant.
 
-Baelor sans Éthéré — l'anomalie que les théologiens notaient et ne pouvaient pas expliquer. Pourquoi ce continent, uniquement ce continent, était-il exempt de la circulation éthérée qui reliait les autres ? Les théories allaient de la composition minérale particulière de la roche au caractère des habitants — les moines n'utilisent pas l'éther, peut-être l'ont-ils épuisé ? Peut-être l'ont-ils refusé ?
+Baelor sans Éthéré — l'anomalie que les théologiens notaient et ne pouvaient pas expliquer. Pourquoi ce continent, uniquement ce continent, était-il exempt de la circulation éthérée qui reliait les autres ? Les théories allaient de la composition minérale particulière de la roche au caractère des habitants. Toutes restaient en surface.
 
 *Dessous.* Ce n'était pas le sol de Baelor qui était différent. C'était ce qui était dessous.
 
@@ -170,7 +184,7 @@ Non pas par insomnie — par une qualité de veille que je n'avais pas eue depui
 
 Trois documents que je ne peux pas lire entièrement. Un objet que je ne comprends pas entièrement. Et un mot : *dessous*.
 
-Je pensai au Somnium Vigil — la doctrine de Baelor, la Veille des Rêves, ce principe que les moines tiennent pour fondateur : la frontière entre veille et sommeil est le lieu où ce qui est réel se dit le plus clairement. Je pensai au rêve partagé du cercle de méditation et à ce que j'y avais senti. Je pensai aux Oracles de Mirathi qui rêvent ce qui est en dessous. Je pensai aux Enfants aux Yeux Blancs de Caeloria qui voient à travers la terre.
+Le Somnium Vigil me revint — la Veille des Rêves, ce principe que les moines tiennent pour fondateur : la frontière entre veille et sommeil est le lieu où le réel se dit le plus clairement. Puis le rêve partagé du cercle de méditation. Les Oracles de Mirathi, qui rêvent ce qui est en dessous. Les Enfants aux Yeux Blancs de Caeloria, qui voient à travers la terre.
 
 Quelque chose, en dessous, cherchait à être entendu depuis longtemps.
 
@@ -186,9 +200,9 @@ Je n'avais pas reculé — ou pas de la même façon. Je me demandai s'il y avai
 
 Le cycle pré-Arrachement. Les ancêtres d'Ulinor en parlaient comme d'un fait, pas comme d'une mythologie. Quelque chose qui s'était passé. Quelque chose qui se repasse.
 
-Une autre lecture possible était que ce qui s'était passé ne s'arrêtait jamais tout à fait — que *se continue* serait plus juste que *se repasse*. Peut-être que l'Arrachement n'avait pas tout à fait interrompu ce qui était en cours — qu'il l'avait seulement ralenti, comme on ralentit quelque chose de lourd lancé en mouvement : ça ne s'arrête pas, ça prend plus de temps.
+Une autre possibilité s'ouvrait : ce qui s'était passé ne s'arrêtait jamais tout à fait. *Se continue* serait peut-être plus juste que *se repasse*. L'Arrachement n'aurait pas interrompu ce qui était en cours ; il l'aurait seulement ralenti, comme on ralentit une masse déjà lancée. Ça ne s'arrête pas. Ça prend plus de temps.
 
-Sept cent quatre-vingt-dix-neuf jours depuis Rukhsar, et je découvrais une lecture qui pourrait expliquer pourquoi j'étais parti.
+Sept cent quatre-vingt-dix-neuf jours depuis Rukhsar, et je découvrais une explication possible à mon départ.
 
 Non pas pour chercher une anomalie dans le tracé des rues. Pour terminer ce que quelqu'un — mon père, ou quelqu'un avant mon père, ou Navigor lui-même dans cette métaphore très ancienne que je ne savais plus si je devais appeler métaphore — avait commencé.
 
@@ -207,6 +221,12 @@ J'avais appris assez de la gestuelle baelorienne pendant ces cinq jours pour en 
 Je ne saurais pas formuler comment ce geste disait cela avec autant de précision. Mais il le disait.
 
 Je hochai la tête.
+
+Je portai la main à mon carnet, par réflexe. Le moine m'arrêta d'un regard.
+
+Je compris : pas ce geste-là. Pas tout de suite. Certains messages perdent leur force quand on les transforme trop vite en note.
+
+Je laissai ma main retomber.
 
 Il fit un dernier geste — bref, conclusif, le geste que les moines utilisent pour ponctuer quelque chose qui n'appelle pas de réponse — et m'indiqua le chemin du quai.
 
@@ -228,7 +248,9 @@ Je sortis le fragment du Message d'Orneth. *Les routes rouvrent. Le guide revien
 
 Je sortis l'amulette de Nysaria — non, je la laissai contre ma poitrine. Je la sentis pulser.
 
-Je compris, dans la lumière du matin sur la mer entre Baelor et le reste du monde, que la prochaine étape n'était pas une destination nouvelle. La prochaine étape était un retour. Evertia — là où mon père avait commencé, là où la carte pointait, là où la première lecture m'avait été donnée. Là où la troisième langue attendait d'être lue par quelqu'un qui aurait fait la séquence entière des marges et qui porterait, au terme de cette séquence, assez de ce qui est dessous pour comprendre ce qui est écrit depuis en dessous.
+Dans la lumière du matin sur la mer entre Baelor et le reste du monde, la prochaine étape cessa d'être une destination nouvelle. C'était un retour.
+
+Evertia. Là où mon père avait commencé. Là où la carte pointait. Là où la première formulation m'avait été donnée. Là où la troisième langue attendait quelqu'un qui aurait parcouru la séquence entière des marges et porterait, au terme de cette séquence, assez de ce qui est dessous pour comprendre ce qui est écrit depuis en dessous.
 
 Je ne savais pas si j'étais ce quelqu'un.
 
@@ -240,7 +262,7 @@ Je repliai les documents et les rangeai avec le soin qu'on réserve aux choses d
 
 Le capitaine barrait vers le nord sans regarder en arrière. Le vent était propice — un vent de sud-ouest, régulier, de la nature des vents qui ont décidé de leur direction et s'y tiennent. Les falaises de Baelor disparurent dans la brume ordinaire de l'horizon.
 
-Je notai dans mon journal, pour la forme, pour la mémoire, pour cette habitude du cartographe qui pose les coordonnées avant d'en comprendre la signification :
+Dans mon journal, pour la forme, pour la mémoire, pour cette habitude du cartographe qui pose les coordonnées avant d'en comprendre la signification, j'écrivis :
 
 *Jour 800. Baelor. Reçu un mot. Posé un mot.*
 

@@ -16,7 +16,9 @@ needs_review_for: []
 
 L'odeur est venue avant le paysage.
 
-J'avais quitté Pyrtara depuis seize jours — seize jours de descente depuis les plateaux volcaniques, de gorges de tuf rouge qui s'ouvraient peu à peu sur quelque chose de plus doux, de plus horizontal, de moins agité. L'air de Pyrtara est chargé, compact, il pèse sur la poitrine comme une main bienveillante mais ferme ; l'air d'Ilthara centrale est différent, il arrive par vagues, il porte. Ce matin-là, deux heures avant d'apercevoir les premiers champs, j'ai su que j'entrais dans Sylthara par le seul moyen de mon nez : une odeur de pain, de terre humide, d'herbe coupée et, quelque chose que j'ai mis un moment à identifier, une note sucrée et légèrement fermentée que je reconnus finalement comme du moût de raisin en début de travail. Des cuveries ouvertes quelque part, de l'autre côté d'une ligne de collines que je ne voyais pas encore. La fermentation agricole comme signal d'arrivée.
+J'avais quitté Pyrtara depuis seize jours. Les plateaux volcaniques avaient cédé peu à peu à des gorges plus douces, puis à quelque chose de plus horizontal, de moins agité.
+
+Deux heures avant d'apercevoir les premiers champs, j'ai su que j'entrais dans Sylthara par le nez : pain, terre humide, herbe coupée, et une note sucrée de moût de raisin en début de travail. Des cuveries ouvertes quelque part, derrière une ligne de collines que je ne voyais pas encore. La fermentation agricole comme signal d'arrivée.
 
 Pardine marchait d'un pas différent. Il y a des nuances dans l'allure d'une mule que j'ai appris à lire avec la même attention que les lignes d'un tracé topographique — une façon de poser le sabot qui indique la confiance dans le sol, l'angle des oreilles qui signale la teneur de l'air. Depuis le matin, les oreilles de Pardine étaient détendues et légèrement écartées, ce qui est, dans son vocabulaire corporel, l'équivalent d'un sourire. Elle sentait l'herbe. Elle sentait l'eau douce. Elle sentait quelque chose de comestible et d'abondant, et son corps répondait à cette information avant que mon esprit y accède.
 
@@ -54,9 +56,9 @@ J'ai dormi deux nuits et trois jours dans la maison de Talvind, qui était aussi
 
 Le premier soir, Emris cuisina.
 
-Je ne sais pas comment décrire la cuisine de Sylthara à quelqu'un qui n'y a pas touché. Je peux nommer les ingrédients : un rôti d'agneau lentement cuit dans un creuset de terre avec des herbes dont je reconnus l'origan et le thym et d'autres que je ne sus pas identifier, un pain à la croûte épaisse et à la mie dense cuit dans le four communal quelques heures plus tôt et encore tiède, des légumes rôtis — carottes, panais, oignons — qui avaient pris en cuisant une douceur caramélisée qui les rendait méconnaissables par rapport à leurs versions crues, un fromage de chèvre affiné que Talvind alla chercher dans la cave sous la maison et qui avait une odeur de sous-bois et de noisette. Un pichet de vin rouge d'un millésime récent, profond sans être lourd, avec ce qu'on appelle dans les notes de dégustation des tanins soyeux — j'avais appris le vocabulaire du vin dans les auberges successives depuis Gryndor, un vocabulaire que je trouvais légèrement excessif mais qui possédait, je devais l'admettre, une précision que mon vocabulaire cartographique n'atteignait pas pour cette catégorie d'expériences.
+Je pourrais nommer les ingrédients : agneau lentement cuit, pain du four communal encore tiède, légumes rôtis, fromage de chèvre affiné, vin rouge profond sans être lourd.
 
-Mais nommer les ingrédients ne suffit pas. Ce qui fit le repas, c'était autre chose : c'était la façon dont Emris servit, sans cérémonie mais sans négligence, chaque chose au bon moment et à la bonne température, comme si l'ordonnancement du repas était aussi naturel et aussi réfléchi que l'ordonnancement d'un champ ; c'était la façon dont Talvind remplit mon verre avant le sien, comme si l'invité mangeait avant le maître de maison par une loi dont nul n'avait besoin de se souvenir parce qu'elle n'avait jamais été oubliée ; c'était la façon dont les enfants mangèrent — avec appétit, sans manières forcées, en parlant à voix basse parce que la table était un endroit où l'on parlait à voix basse sans que personne ait à le dire.
+Mais ce qui fit le repas était ailleurs. Emris servait chaque chose au bon moment, sans cérémonie et sans négligence. Talvind remplit mon verre avant le sien. Les enfants parlaient à voix basse parce que la table était un endroit où l'on parlait à voix basse sans que personne ait à le dire.
 
 Je pensai à Drakora. J'y pensai souvent depuis que je l'avais quittée, et ce soir-là plus qu'à l'ordinaire, parce que la distance entre ce repas et les repas de Drakora était plus grande que la distance géographique entre Pyrtara et Amaroth. À Drakora, on mangeait pour alimenter la force. Les officiers draconiques que j'avais croisés à Vhor'kal avaient une façon de manger qui était une extension de leur rapport au monde — efficace, sans plaisir apparent, une obligation mécanique adressée à un corps qui était avant tout un instrument de guerre. Je n'avais rien contre les instruments de guerre. Mais il me semblait que quelque chose se perdait quand on oubliait que le corps était aussi un instrument de plaisir, et que ce plaisir avait, quelque part, la même légitimité.
 
@@ -110,6 +112,18 @@ Tout le village participa, comme pour une fête — ce qui était effectivement 
 
 Emris m'expliqua, pendant que nous travaillions côte à côte — elle avait refusé que je reste spectateur, avec une fermeté affectueuse qui n'admettait pas de réponse —, que la récolte collective était aussi ancienne que le village. Que depuis la Grande Moisson d'Amaryl, chaque geste agricole d'importance se faisait à plusieurs, parce que la solitude avait été l'ennemi pendant l'Ère de la Famine et que la solidarité était la réponse que Sylthara avait trouvée et n'avait jamais revoquée.
 
+— Tu tiens la pomme comme un document, me dit-elle après un moment.
+
+Je regardai ma main. Elle avait raison : je prenais le fruit du bout des doigts, avec une précaution d'archiviste.
+
+— Je ne veux pas l'abîmer.
+
+— Alors tiens-la comme quelque chose de vivant, pas comme quelque chose de fragile.
+
+Elle prit une pomme sur la branche, ferme et douce à la fois, puis me la posa dans la paume.
+
+— Fragile, c'est ce qu'on casse sans faire exprès. Vivant, c'est ce qui répond à la manière dont on le touche.
+
 Je cueillais des pommes. C'est un geste simple — la main qui se ferme autour du fruit, le léger mouvement rotatif qui détache le pédoncule sans l'arracher, le dépôt dans le panier avec précaution pour ne pas meurtrir la peau. Mais après deux heures, ce geste simple avait pris une qualité différente. Il s'était dépouillé de sa conscience. Je ne pensais plus à comment faire, je faisais. Mes mains savaient ce que mes pensées n'avaient plus à organiser. Et dans cet espace libéré — le temps que les pensées ne dépensaient plus à coordonner les mains — d'autres choses arrivaient. Je regardais la lumière sur la pomme avant de la prendre. Je sentais le froid du fruit. J'entendais le son sourd et feutré qu'il faisait en touchant le fond du panier, différent à chaque fois selon l'angle, selon la taille, selon la maturité de ce qui était déjà en dessous.
 
 À deux paniers de moi, une vieille femme dont je n'avais pas retenu le nom posait, à intervalles réguliers, une pomme à part dans le creux d'une racine — pas dans le panier, dans la racine, à même la mousse. Une par cinquante peut-être. Sans cérémonie. Le geste prenait une seconde et son visage ne changeait pas. J'enregistrai le détail sans le commenter et continuai ma rangée.
@@ -125,6 +139,32 @@ Je suis parti le quatrième matin, à l'aube, avant que le village se réveille.
 Pas par manque d'affection — précisément pour ménager l'affection. J'avais appris depuis plusieurs pays que les départs matinaux épargnent aux gens l'obligation de trouver les bons mots, et aux voyageurs l'obligation de faire comme si ces mots étaient suffisants. Un départ avant l'aube est un départ honnête : il dit simplement que le chemin reprend, et rien d'autre.
 
 Talvind m'avait glissé la veille, avec le naturel des gens qui donnent sans faire de l'acte un événement, un tissu enveloppant quatre pommes d'Ydralis. Il n'avait pas dit : pour le voyage, pour vous rappeler, en souvenir. Il avait juste posé le tissu dans mes mains et était retourné à son vin du soir.
+
+Je croyais donc partir sans être vu.
+
+Emris m'attendait près du puits, un châle sur les épaules, les cheveux encore défaits de la nuit. Elle tenait une miche de pain enveloppée dans un linge.
+
+— Chez nous, dit-elle, on ne laisse pas partir un homme avec seulement des fruits. Les fruits donnent envie de continuer. Le pain empêche de tomber.
+
+Je pris le paquet. La chaleur traversait encore le tissu.
+
+— Je ne voulais pas réveiller la maison.
+
+— Tu ne voulais pas devoir dire merci.
+
+La phrase était douce, donc impossible à repousser.
+
+— Merci, dis-je.
+
+Elle hocha la tête, satisfaite non du mot mais de l'effort qu'il m'avait coûté.
+
+— Écris aussi que tu as été accueilli, dit-elle. Les voyageurs écrivent volontiers les étrangetés. Ils oublient l'ordinaire, parce qu'ils croient que l'ordinaire ne prouve rien.
+
+Je regardai la maison derrière elle, les fenêtres encore noires, la fumée très fine qui commençait à monter du toit.
+
+— L'ordinaire prouve peut-être davantage, dis-je.
+
+— Alors n'attends pas d'être très vieux pour l'apprendre.
 
 Pardine et moi avons repris la route vers le nord, dans la lumière grise de l'avant-aube, entre des champs encore endormis qui sentaient la rosée et le chaume. Les pommes dans mon sac pesaient peu. Le fait qu'elles y soient pesait davantage.
 

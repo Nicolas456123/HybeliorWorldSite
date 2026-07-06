@@ -132,6 +132,26 @@ Drev a regardé l'octant, regardé l'étoile, regardé ma carte, regardé à nou
 
 Je ne suis pas sûr de ce que ça voulait dire. Mais dans sa bouche, sur ce ton, ça ressemblait à quelque chose qu'on dit avec respect.
 
+Il me rendit l'octant avec des gestes plus prudents qu'avant.
+
+— Chez nous, dit-il, un homme qui ne sait pas se battre est un enfant ou un mort.
+
+— Voilà qui me laisse peu d'options.
+
+— Je n'ai pas dit que tu ne savais pas.
+
+Il désigna la carte étalée entre nous, maintenue par quatre pierres contre le vent.
+
+— Tu mets le monde dans une forme où les autres doivent répondre. C'est une attaque.
+
+— À Kharazir, ils ont appelé ça une faute.
+
+Drev resta silencieux un moment.
+
+— Alors Kharazir a peur des attaques propres.
+
+Ce fut peut-être la première fois depuis mon départ que quelqu'un nomma mon travail non comme une erreur, ni comme une curiosité, ni comme un service, mais comme une force.
+
 ---
 
 Le Jugement de Teldar se tint dans l'arène de Valtheria par un matin froid qui rendait visible la respiration des cinq cents personnes présentes.

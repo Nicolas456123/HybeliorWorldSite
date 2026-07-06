@@ -169,6 +169,36 @@ Pas une bénédiction. Une mise en garde douce.
 
 Je me suis retourné une fois après avoir repris la route. La caravane était déjà en mouvement, les tentes effondrées et arrimées aux bêtes de somme, la fumée du feu du matin encore debout dans l'air frais. Dava était à cheval, de dos. Elle ne s'était pas retournée.
 
+J'avais cru que l'adieu s'arrêterait là. J'avais déjà repris la marche quand j'entendis derrière moi le froissement d'un cheval dans l'herbe.
+
+Dava me rejoignit au petit trot, sans faire ralentir la caravane. Elle resta en selle, haute dans la lumière du matin, et me lança une petite bourse de cuir. Je l'attrapai mal ; elle heurta mon poignet avant de tomber dans l'herbe.
+
+— Du sel, dit-elle.
+
+— J'ai des provisions.
+
+— Le sel n'est pas une provision. C'est ce qui empêche ce qui nourrit de pourrir.
+
+Elle avait cette façon de parler qui donnait aux choses pratiques l'allure d'une maxime sans jamais chercher l'effet.
+
+Je ramassai la bourse.
+
+— Je vous le rendrai si nos routes se recroisent.
+
+— Non. Si nos routes se recroisent, tu me diras ce que tu as dessiné depuis. Ça vaudra plus que le sel.
+
+Elle tira légèrement sur les rênes. Son cheval pivota déjà vers la caravane.
+
+— Et Sorin ?
+
+C'était la première fois qu'elle prononçait mon nom depuis trois jours.
+
+— Oui ?
+
+— Quand une ville t'apprend à baisser la tête, ne confonds pas ça avec ta taille.
+
+Puis elle partit, et cette fois elle ne se retourna vraiment pas.
+
 Il y a une liberté dans ce genre d'adieu : aucun des deux ne prétend que le lien était autre que ce qu'il était — un passage partagé, bref, sans promesse de suite. Le cycle avait fait se croiser deux routes, puis les avait défaites. C'était complet en soi.
 
 Pendant deux jours j'ai marché seul à travers les plaines de l'est, en direction des collines qui marquaient, m'avait dit Orren, le commencement des terres séraphiennes. Le vent de Ventera était encore dans mon dos — c'est un détail technique, une affaire de direction et de saison, mais je préfère le noter ainsi : il était dans mon dos, et marcher était plus facile que la veille.

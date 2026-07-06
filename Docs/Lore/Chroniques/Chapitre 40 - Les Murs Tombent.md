@@ -94,6 +94,12 @@ Nous nous regardâmes dans le silence de la cuisine — un silence différent de
 
 Je lui dis que j'en avais besoin. Que la vérité que je portais était trop grande pour un seul homme — que c'était là son seul défaut et aussi, peut-être, sa principale qualité, parce qu'une vérité trop grande pour un seul homme ne peut pas mourir avec lui.
 
+Omarin secoua la tête.
+
+*« Ne l'appelle pas vérité trop vite. Appelle-la charge. Une charge peut se porter à plusieurs sans devenir un dogme. Une vérité, les hommes commencent aussitôt à se battre pour savoir qui la possède. »*
+
+Je corrigeai le mot dans mon cahier. Non par obéissance. Parce qu'il avait raison.
+
 ---
 
 Le lendemain, je retournai aux tunnels.
@@ -108,7 +114,7 @@ Je restai accroupi là un long moment, la main sur la dalle, à écouter ce que 
 
 Le même rythme, me semblait-il, qu'à Cendra. Le même rythme qu'au Jumeau. Trois lieux, à mon ressenti, partageant une cadence — ce qui suffisait à formuler une hypothèse de réseau, pas à la prouver. Une hypothèse qu'il faudrait soumettre à des oreilles plus rigoureuses que les miennes, à des géomètres et à des sourciers, à toutes les méthodes qu'une seule paume sur une dalle ne pouvait remplacer.
 
-Quelque chose approchait — c'est ainsi que je le notai, et c'est ainsi que je le tiens. Pas dans le sens d'une menace identifiée, plutôt dans le sens d'une attente que plusieurs traditions, à Solena, à Lumasar, dans les Plaines de Mirondal, dans les couvents oniriques de Vytharia, formulaient chacune avec ses figures propres. Là où certains voyaient un retour, d'autres voyaient un seuil, d'autres encore une simple inflexion d'un cycle qu'ils nommaient autrement. Aucune de ces lectures ne s'imposait à moi seul, et je n'avais ni l'autorité ni les éléments pour en départager.
+Quelque chose approchait — c'est ainsi que je le notai, et c'est ainsi que je le tiens. Pas une menace identifiée. Une attente. Solena, Lumasar, les Plaines de Mirondal, les couvents oniriques de Vytharia : chaque tradition lui donnait sa figure. Retour, seuil, inflexion d'un cycle plus ancien. Je n'avais ni l'autorité ni les éléments pour les départager.
 
 Les murs de Kharazir étaient toujours là. Le tissu jaune était toujours imposé aux Déliés aux portes de la ville. L'inscription sous la place centrale brillait d'une lueur bleue que les gardes refusaient de regarder. Le Tribunal de Lumasar délibérait. Les routes de haute mer se rouvraient dans la mémoire des vieux capitaines. Selendris tenait la main de son père endormi en sachant maintenant, grâce à mes cahiers, à quelle profondeur il avait plongé et vers quel endroit ses lèvres murmuraient des coordonnées depuis quarante-sept ans.
 
@@ -126,11 +132,11 @@ Je les regardai un moment.
 
 Neuf cent dix jours de vie comprimés dans dix-sept rectangles de cuir et de papier. Une carte qui n'était pas une carte des terres. Un cartographe qui avait tenté de relever des recoupements — entre les mystères, entre les langues mortes et les langues vivantes, entre les Liés et les Déliés, entre ce que mes notes appelaient *le dessous* et ce que mes notes appelaient *la surface*, entre un père et un fils qui avaient suivi le même itinéraire à une génération d'écart.
 
-Je ne savais pas si mon père était vivant ou mort. Je ne savais pas ce qui se trouvait sous le Mont Jumeau ni quel mot — *portail*, *seuil*, *mémoire*, *rien* — recouvrirait le mieux ce que d'autres iraient peut-être y voir un jour. Je ne savais pas si la lecture qu'Omarin et certains érudits faisaient d'un retour de Navigor était la bonne, ni si la lecture qu'en faisaient autrement, à Lumasar, certains cercles oniriques était plus juste. Je ne savais pas si une autre Ère était en train de se former et, si oui, sous quelle figure elle se présenterait à ceux qui la nommeraient.
+Je ne savais pas si mon père était vivant ou mort. Je ne savais pas ce qui se trouvait sous le Mont Jumeau, ni quel mot — *portail*, *seuil*, *mémoire*, *rien* — recouvrirait le mieux ce que d'autres iraient voir un jour. Je ne savais pas si Omarin avait raison de parler d'un retour de Navigor, ni si Lumasar trouverait un autre nom plus juste. Une autre Ère se formait peut-être. Sa figure appartenait encore à ceux qui la nommeraient.
 
-Ce que je tenais, ce n'étaient pas des certitudes. C'étaient des observations, des recoupements, des récits transmis et leurs lectures concurrentes — assez pour qu'un travail collectif s'en saisisse. Ce qui était dans les dix-sept cahiers, dans la synthèse qu'Omarin gardait maintenant sous son manteau, dans les copies qu'Ysolde avait faites, dans les questions que le Tribunal de Lumasar allait devoir poser, dans le regard de Selendris quand elle avait reconnu les coordonnées de son père endormi.
+Ce que je tenais, ce n'étaient pas des certitudes. C'étaient des observations, des recoupements, des récits transmis — assez pour qu'un travail collectif s'en saisisse. C'était dans les dix-sept cahiers, dans la synthèse qu'Omarin gardait sous son manteau, dans les copies d'Ysolde, dans les questions que le Tribunal de Lumasar allait devoir poser, dans le regard de Selendris quand elle avait reconnu les coordonnées de son père endormi.
 
-Ce que je tenais était désormais plus grand que moi. Il n'avait plus besoin que je le porte seul. Et ce que personne ne tenait encore — la part qui resterait peut-être indéterminée, la part qui appartiendrait à d'autres lectures que la mienne — il fallait que je le tienne aussi : comme une page qui demeurait ouverte.
+Ce que je tenais était désormais plus grand que moi. Il n'avait plus besoin que je le porte seul. Et ce que personne ne tenait encore — la part indéterminée, la part qui appartiendrait à d'autres que moi — il fallait aussi lui laisser sa place : comme une page demeurée ouverte.
 
 Je pris le dix-septième cahier. J'ouvris la dernière page utilisée. Il restait encore une quinzaine de pages blanches — de l'espace, du silence, des possibilités ouvertes vers une suite que je ne pouvais pas encore écrire parce qu'elle ne s'était pas encore produite.
 
@@ -142,31 +148,93 @@ Puis j'écrivis une dernière note. La dernière note du voyage. Pas une conclus
 
 *Plusieurs voix me disent que ce que le monde oublie, il finit par réapprendre, et que ce qui a été séparé cherche à se rejoindre. Je ne sais pas si elles ont raison. Je sais que des routes anciennes existent encore sous nos pieds — j'en ai vu les marques —, et que plusieurs traditions, chacune à sa façon, leur prêtent une destination. Je ne suis pas le premier à avoir suivi ce chemin, et je ne serai pas le dernier. Ce que j'ai rapporté n'a pas besoin que je le défende seul — il a besoin que je le dépose là où d'autres peuvent le ramasser, le contester, et le compléter.*
 
-*Mon père est peut-être de l'autre côté d'une frontière que je ne suis pas encore prêt à franchir. Peut-être qu'il attend. Peut-être que de l'autre côté, le temps fonctionne différemment et qu'il n'attend pas du tout — qu'il est simplement là, dans un lieu où l'avant et l'après n'ont pas la même forme que dans ce journal. Peut-être aussi qu'il est mort d'une pneumonie d'hiver à quarante-deux ans, et que les crochets de ma table à dessin sont la seule chose qu'il m'ait laissée. Les trois lectures tiennent ensemble dans la même page sans se contredire, parce qu'aucune des trois ne peut, depuis la place où je suis, être confirmée ni récusée. Je ne vais pas trancher. Ce n'est pas mon travail de cartographier ce que je ne peux pas voir.*
+*Mon père demeure sur trois cartes à la fois. Sur la première, il est mort depuis longtemps et les crochets de ma table à dessin sont son seul héritage. Sur la deuxième, il attend de l'autre côté d'une frontière que je ne suis pas encore prêt à franchir. Sur la troisième, le mot attendre n'a plus de sens, parce que le temps, là-bas, ne suit pas la forme de ce journal. Aucune de ces cartes ne peut être confirmée depuis la rive où je me tiens. Je ne vais pas trancher. Ce n'est pas mon travail de cartographier ce que je ne peux pas voir.*
 
 *Je pose le carnet. Non pas parce que le voyage est fini, mais parce qu'il change de nature. La prochaine étape ne s'écrit pas à l'avance.*
 
 Je posai le carnet.
 
-Les dix-sept cahiers étaient sur la table devant moi, dans la petite chambre qui sentait le cumin et le cèdre, avec la fraîcheur du puits qui montait par la fenêtre et le bruit du Grand Bazar de Rukhsar qui respirait au loin. Sous mes pieds, à travers les étages de l'auberge et les pavés de la rue et la roche millénaire de Kharazir, je sentis encore — ou je crus sentir — cette cadence dont je n'aurais pas su démontrer qu'elle n'était pas, par instants, ma propre attente prêtée à la pierre. Le même rythme, à mes os, qu'à Cendra. Le même rythme qu'au Jumeau. Si un réseau existait, il ne se laisserait pas valider par une seule paume sur une seule dalle.
+Les dix-sept cahiers étaient sur la table devant moi, dans la petite chambre qui sentait le cumin et le cèdre, avec la fraîcheur du puits qui montait par la fenêtre et le bruit du Grand Bazar de Rukhsar au loin. Sous mes pieds, à travers les étages de l'auberge et les pavés de la rue, la roche millénaire de Kharazir gardait son rythme.
 
-Quelque chose approchait — selon ma lecture, selon celle d'Omarin, selon celle d'Ysolde et de Selendris, selon celle de Mirathi et celle de Mekh et celle des cercles oniriques de Lumasar. Sous ce mot *quelque chose*, plusieurs traditions plaçaient déjà des figures différentes, et aucune de ces lectures ne me revenait. Ma place de cartographe n'était pas de trancher entre elles ; elle était d'écrire la carte sur laquelle on les départagerait.
+Je ne le nommai pas.
 
-Je le sentis avec une certitude qui n'était pas celle de la connaissance, et que je ne confondrai pas avec elle. Une certitude de corps, après neuf cent dix jours — la certitude d'avoir vécu sous le rythme suffisamment longtemps pour le reconnaître quand il se présentait. Pas la certitude d'en savoir la cause, ni le terme, ni le nom.
+J'avais passé neuf cent dix jours à apprendre la différence entre nommer et conclure.
 
 Les murs de Kharazir étaient toujours là.
 
-Ce que j'écrivis dans la marge du dix-septième cahier ne fut pas une sentence sur ce que ces murs deviendraient. C'était plutôt une remarque qui restait avec moi depuis le bazar : qu'un monde dont plusieurs voix annonçaient le changement était déjà, à plusieurs égards, en train de changer ; et que ces voix elles-mêmes — leur multiplication, leur convergence partielle, leurs désaccords — étaient une part du changement qu'elles décrivaient.
-
-Et moi, debout dans cette chambre de Kharazir avec mes dix-sept cahiers sur la table et le rythme dans les os et le papier bruni de mon père dans la poche contre ma poitrine, je ne prétendais plus savoir ce qui m'attendait au bout. Je savais, en revanche, vers où je devais marcher pour le rencontrer.
-
-Cela suffisait.
+Et moi, debout devant mes cahiers, le papier bruni de mon père contre la poitrine, je savais une chose simple : je n'avais plus besoin d'attendre d'être certain pour agir.
 
 Je rangeai le carnet sur le dessus de la pile. Je ne le rouvris pas ce soir-là. Je ne le rouvris pas non plus le lendemain. La pile resta sur la table pendant les jours qui suivirent, dans la chambre du quartier des Passeurs, à côté des restes du matin et de la lampe que j'oubliais d'éteindre. Je sortais marcher. Je revenais. Je mangeais avec Omarin une fois, et ensuite encore une fois. Je commençai à écrire à Mira Dasthen une lettre que je ne finis pas la première semaine. Je n'écrivis rien dans le carnet — non par décision, juste parce que la main n'allait plus vers lui. Une habitude qui s'éteint sans drame, comme s'éteint une lampe qu'on a oublié d'alimenter.
 
 Le carnet dix-sept restait ouvert à la page de la dernière note. Il restait ensuite, après la dernière note, quatorze pages blanches.
 
 Je laissai les pages blanches.
+
+---
+
+Le septième matin après mon retour, je sortis avant l'ouverture complète du bazar.
+
+Kharazir, à cette heure, ne ressemblait pas encore à Kharazir. Les marchands levaient les auvents, les apprentis balayaient devant les échoppes, les gardes aux portes buvaient leur premier thé en prétendant surveiller déjà. La ville avait ce visage sans masque des lieux qui ne sont pas encore en représentation.
+
+Je marchai jusqu'à la Porte d'Azur.
+
+Les trois Déliés étaient là, comme le premier jour. Deux femmes et un homme, assis à l'ombre de l'arc bleu, avec leur tissu jaune visible sur l'épaule. Ils me reconnurent avant que j'arrive. Je le vis dans la façon dont leurs regards cessèrent de glisser sur moi comme sur un passant ordinaire.
+
+Le garde de faction me demanda mon laissez-passer.
+
+Je le lui donnai.
+
+Il regarda le papier, puis mon manteau, puis mon bras gauche.
+
+« Votre tissu », dit-il.
+
+Je baissai les yeux. Le morceau jaune était là, noué comme il l'avait été tant de fois avant mon départ, puis après mon retour, par fatigue plus que par accord. Je le touchai du bout des doigts. Le tissu était rêche, mal coupé, administratif jusque dans sa matière.
+
+Je le dénouai.
+
+Personne ne parla.
+
+Je posai le tissu jaune sur la pierre entre le garde et moi.
+
+« Je suis Sorin Valthen », dis-je. « Cartographe de Kharazir. Fils d'Aldric Valthen. Délié. J'entre dans ma ville. »
+
+Le garde ouvrit la bouche. La referma. Il regarda les trois Déliés assis sous l'arc, puis la rue derrière moi, puis le morceau de tissu sur la pierre. Il avait peut-être vingt ans. Trop jeune pour avoir inventé cette règle, assez vieux pour l'appliquer sans y penser, et soudain forcé d'y penser devant trois témoins qui n'étaient plus seulement des silhouettes tolérées à l'ombre.
+
+La plus âgée des deux femmes se leva.
+
+Elle ne dit rien. Elle dénoua son propre tissu jaune et le posa à côté du mien.
+
+L'homme la regarda comme on regarde quelqu'un qui vient d'ouvrir une porte dans un mur dont on avait oublié qu'il avait une porte. Puis il dénoua le sien.
+
+La troisième femme hésita plus longtemps. Ses mains tremblaient. Quand elle posa enfin le tissu sur la pierre, elle le fit avec une délicatesse presque religieuse.
+
+Le garde recula d'un pas.
+
+Il aurait pu appeler son supérieur. Il aurait pu saisir son sifflet. Il aurait pu faire ce que les règlements prescrivent quand une anomalie devient visible. Il ne fit rien.
+
+Il ramassa les quatre morceaux de tissu jaune.
+
+Je crus un instant qu'il allait nous les rendre.
+
+Il les plia, maladroitement, et les glissa dans sa poche.
+
+« Passez », dit-il.
+
+La vieille femme rit alors — un rire court, incrédule, pas joyeux encore, mais vivant. Un rire qui n'était pas un discours, pas une victoire, pas même une promesse. Un rire qui disait seulement que quelque chose venait de se produire et que personne ne savait encore quoi en faire.
+
+Nous passâmes sous la Porte d'Azur.
+
+Les murs jaunes étaient toujours debout. Ils n'avaient pas bougé d'une pierre. La ville n'avait pas changé de loi. Le Conseil n'avait rien décidé. Les institutions, à cette heure, dormaient encore dans leurs bureaux fermés.
+
+Mais une règle venait de manquer son geste.
+
+Je compris alors que c'était peut-être ainsi que les murs commencent à tomber. Pas d'abord par le fracas. Pas d'abord par la poussière. D'abord par une pierre qui cesse d'obéir à la forme qu'on lui a donnée.
+
+Je ne retournai pas écrire cela dans le carnet.
+
+Je l'avais vécu.
+
+Et pour une fois, cela suffit.
 
 ---
 

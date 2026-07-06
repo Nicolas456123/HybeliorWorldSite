@@ -44,6 +44,12 @@ Je montai à terre à la nuit tombée, par une plage de galets noirs que les car
 
 Il n'avait pas dit *si quelque chose arrive*. Il n'avait pas dit *si vous êtes en vie*. Il avait dit *si vous n'êtes pas là*, avec la précision d'un homme qui a décidé des limites de sa responsabilité et qui s'y tient.
 
+Je lui demandai pourquoi il revenait tout de même.
+
+Il regarda l'île, puis moi, puis la ligne noire de la forêt.
+
+« Parce qu'un homme qu'on abandonne à Nysaria devient une histoire. Et les histoires de Nysaria reviennent toujours coûter plus cher que trois nuits d'attente. »
+
 Je pagayai jusqu'au bord. Le canot heurta les galets avec un bruit qui, dans le silence de cette nuit sans vent, me parut obscène. Tout était silencieux autour de moi — non pas le silence de l'absence, le silence des lieux sans habitant, mais le silence actif des lieux habités par des présences qui ont décidé de ne pas faire de bruit.
 
 Je tirai le canot sur les galets et je me retournai vers l'île.
@@ -77,6 +83,18 @@ Elles ne firent pas de geste menaçant. Elles se tinrent à distance, me regard�
 Je répondis du mieux que je pus — les paumes ouvertes vers le bas, le geste de non-hostilité que j'avais appris dans une douzaine de cultures différentes depuis Evertia et qui, à ma grande surprise, semblait avoir un équivalent dans presque toutes.
 
 La personne au centre hocha la tête.
+
+Puis elle sortit de sa manche un quatrième masque.
+
+Blanc, lisse, sans bouche ni yeux. Plus petit que les leurs, ou peut-être simplement plus proche de mon visage. Elle me le tendit avec une lenteur qui n'avait rien d'une menace.
+
+Je compris que je pouvais le prendre. Je compris aussi que le prendre rendrait tout plus simple : les chemins, les signes, le silence. Nysaria me laisserait avancer plus facilement si j'acceptais de devenir, pendant trois jours, moins nettement moi.
+
+Je pensai à la phrase que je venais d'écrire au début de ce chapitre : *je suis ici*. Pas quelqu'un. Pas un masque de passage. Moi.
+
+Je posai deux doigts sur ma poitrine, puis sur mon front, puis je secouai doucement la tête.
+
+La personne au centre resta immobile. Le refus fut reçu. Ni approuvé, ni contesté. Reçu.
 
 Ce qui suivit — les trois jours à Nysaria — me demande un effort de linéarisation que les événements eux-mêmes ne s'imposaient pas. À Nysaria, le temps n'est pas scandé par les mêmes intervalles qu'ailleurs. Je le notai le premier matin quand je cherchais dans mon journal à quel moment j'avais dormi — et je ne sus pas répondre, parce que la frontière entre la veille et le sommeil à Nysaria avait la même texture que le reste de l'île : une réalité opaque et unique dans laquelle les catégories ordinaires ne prenaient pas pied.
 

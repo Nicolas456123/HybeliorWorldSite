@@ -120,6 +120,26 @@ J'ai demandé comment il le savait.
 
 Il a souri — le premier sourire que je lui voyais. « Il me l'a dit. »
 
+Je posai le bol sur mes genoux, trop vite ; un peu de soupe déborda sur la natte.
+
+— Vous comprenez que, pour moi, cette phrase ne peut pas entrer dans un rapport.
+
+— Alors n'en fais pas un rapport.
+
+— Je suis cartographe.
+
+— Non, dit Orvhel. Tu es un homme qui a appris la cartographie. Ce n'est pas la même prison.
+
+Je voulus répondre. Rien de correct ne se présenta.
+
+Il s'accroupit devant le feu, remua les braises avec un bâton, puis ajouta :
+
+— Si tu veux tout transformer en preuve, la forêt ne te donnera que du bois. Si tu acceptes de recevoir sans posséder, elle te donnera peut-être une direction.
+
+— Et si je me trompe ?
+
+— Tu te tromperas. C'est une manière de commencer.
+
 ---
 
 Je ne sais pas ce qui s'est passé près de cet arbre. Je ne le saurai probablement jamais. Je suis un homme qui mesure les distances et trace les frontières, qui transforme le monde en lignes sur du papier, et je suis arrivé dans un endroit où les lignes refusent de se laisser tracer proprement.

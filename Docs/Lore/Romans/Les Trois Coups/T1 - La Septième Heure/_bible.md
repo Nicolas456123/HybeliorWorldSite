@@ -89,7 +89,7 @@ Les Huit selon Era 3b **[canon]** : **Sera de Celethor**, **Drakhan l'Aîné**, 
 ### 1.6 — Les autres membres *(POV secondaires)*
 
 **VORATH LE TACITE** *(POV secondaire fort)*
-- **[canon]** : prêtre des Silencieux (Taciti) de Baelor. Non-Lié par philosophie, pas par incapacité. Voix des non-Liés dans le Cercle. Sa communauté a *voté à l'unanimité* pour qu'il rejoigne le Cercle ; il a passé les derniers mois à préparer les Taciti à la vie post-Lien (« les mieux préparés au monde »). **Retourne à Baelor après**, devient un « saint » des Silencieux **[canon]** — **graine T2/T3**.
+- **[canon]** : prêtre des Silencieux (Taciti) de Baelor. Non-Lié par philosophie, pas par incapacité. Voix des non-Liés dans le Cercle. Sa communauté a *voté « à l'unanimité » selon les annales taciti* **[canon]** pour qu'il rejoigne le Cercle — la scène du roman (fichier « 10b - Le vote ») montre onze pierres noires jamais consignées : l'écart entre le registre et la grève est voulu (décision auteur 2026-07-06 ; l'Abbé ne consigne jamais les dissidents, le silence ne compte pas ses pierres). Il a passé les derniers mois à préparer les Taciti à la vie post-Lien (« les mieux préparés au monde »). **Retourne à Baelor après**, devient un « saint » des Silencieux **[canon]** — **graine T2/T3**.
 - Fonction : incarne la lecture *déliée/silencieuse* (« le Silence est revenu »). Sa vision **canon attestée** (Era 4) à placer dans le roman comme *irruption entendue par lui* : « **J'ai vu Navigor. Il ne part pas. Il est poussé. Quelqu'un l'a aidé à partir. Quelqu'un que nous n'avons pas vu.** » — c'est le **germe de l'Étranger des Heures** (lecture caelumite T2/T3) et le grand doute méta : et si ce n'était pas eux ?
 
 **MIRATHIS** *(POV secondaire — le garde-fou)*
@@ -304,7 +304,7 @@ Chapitres courts, **titrés par l'heure**, alternant sommet et fenêtres-monde e
 - Le geste au **Mont Cendra** (Premier Ancrage). **Silence de trois secondes** puis éruption.
 - Les sept heures et leurs effets : Cendral (< 20 min, ~340 000), 7 cités volantes qui tombent, ~200 portails fermés (voyageurs dissous), Navoria engloutie, Grand Pontife qui ordonne les cultes normaux et meurt noyé, ~0,3 % de Tisses (~270 000).
 - Sorts canon des membres : **Drakhan mort H1** ; Vorath retourne à Baelor (« saint ») ; Kayara survit (H6-7), descendance → commerce maritime Ère V ; Aelindra « traître exécutée » sans corps ; l'Étudiant survit, erre, disparaît ~5 ap.A ; Sera disparue sans traces ; Mirathis inconnu (plan de sortie) ; Iveth meurt < 6 mois.
-- Blessures canon : sœur jumelle Vide de Sera ; atelier volé de Drakhan + fille dissuasive ; conversion logique d'Aelindra ; Rêves-Gris de Mirathis ; peur de l'après de Thessan ; vote unanime des Taciti pour Vorath.
+- Blessures canon : sœur jumelle Vide de Sera ; atelier volé de Drakhan + fille dissuasive ; conversion logique d'Aelindra ; Rêves-Gris de Mirathis ; peur de l'après de Thessan ; vote « à l'unanimité » des Taciti pour Vorath *selon les annales* (le roman, fichier 10b, montre onze pierres noires jamais consignées — l'écart registre/grève est voulu, décision auteur 2026-07-06).
 - **La phrase de Mirathis** (verbatim) et **la vision de Vorath sur Navigor** (verbatim).
 - Le Fragment Zéro (verbatim, main de l'Étudiant), déposé bien plus tard à Altram.
 - Contexte du monde d'avant : 6 empires, 120 M d'habitants, Âge d'Or finissant, l'« impôt du Lien », les non-Liés ~30 % « second rang ».
@@ -387,3 +387,306 @@ unifiée — les 31 chapitres POV sont numérotés 1 à 31 dans l'ordre de lectu
 le prologue et les seuils de la voix du Lien restent HORS numérotation. Les H1 portent
 « Chapitre X — Titre » sauf les chapitres-heures (H-7 → H7), dont le titre reste l'heure ;
 leur numéro vit sur la carte du sommaire (« Chapitre N — POV ») et en frontmatter.
+
+---
+
+## CHARTE DE RE-DRAMATISATION (2026-07-06 — directive auteur : « je veux vivre avec eux leur aventure »)
+
+**Diagnostic mesuré du premier jet** : 33 % des phrases commencent par Il/Elle ; ~7 répliques par chapitre ; plusieurs chapitres du final à zéro dialogue. Le livre racontait au lieu de faire vivre.
+
+**Règles impératives (chapitres POV — les seuils de la voix du Lien sont EXEMPTS) :**
+1. **SCÈNE > SOMMAIRE.** Tout ce qui peut être joué est joué : pas « ils débattirent longuement », mais le débat. Ratio visé : ≥ 70 % de temps de scène immédiat.
+2. **CONVERSATIONS.** Chaque chapitre POV porte au moins 2-3 échanges dialogués substantiels. Le dialogue fait double emploi (avance l'action ET révèle la personne), porte du SOUS-TEXTE (on ne dit pas ce qu'on veut dire), du conflit ou de la tendresse — jamais de l'exposition déguisée (« comme tu le sais… » interdit).
+3. **ATTAQUES DE PHRASES.** Maximum ~15 % de phrases commençant par Il/Elle/Iel(s). Varier : complément en tête, subordonnée, sensation, geste, dialogue, nom propre, verbe.
+4. **INTACTS** : faits canon, fragments du journal (verbatim), clausule d'échappée (une seule, en fin), règles POV (l'Étudiant jamais habité — mais il PEUT parler, entendu de l'extérieur), chronologie des heures, titres, frontmatter. Longueur ±15 %.
+
+**Voix parlées des Huit (signatures de dialogue) :**
+- **Thessan** — questions, chiffres, se reprend en parlant (« Huit, dit-il. Puis : sept. ») ; vocabulaire d'archiviste ; s'excuse avant de contredire.
+- **Sera** — phrases exactes de préceptrice, impératifs doux ; cite le protocole comme d'autres citent l'écriture ; ironie triste.
+- **Drakhan** — court, concret, images de forge ; jure par le feu ; tendresse bourrue (avec Kessa : phrases qui commencent dur et finissent doux).
+- **Aelindra** — opérationnelle : listes, heures, distances ; euphémismes militaires ; ne pose jamais deux fois la même question.
+- **Mirathis** — oblique : répond à côté d'un demi-temps, parle par rêves et analogies ; les autres mettent une phrase à comprendre.
+- **Vorath** — rare et définitif ; aphorismes du Silence ; répond souvent par un geste (que le POV décrit).
+- **Kayara** — parler marin, moqueuse, tutoie tout le monde, présent de l'indicatif ; coupe les silences gênants.
+- **L'Étudiant** — peu de mots, phrases interrompues avant la fin ; plus cité par les autres qu'entendu ; quand il parle, tout le monde se tait (et le POV note le silence plutôt que la voix).
+- **Iveth** — murmure ; parle des morts comme de voisins de palier. **Kessa** — directe, questions qui coincent ; refuse les métaphores de forge de son père et les retourne contre lui.
+
+---
+
+# ANNEXE — PLAN D'EXPANSION V2 (2026-07-06)
+
+> **Nature de ce document.** Plan d'architecte, en annexe de la bible. **NE RÉÉCRIT AUCUN chapitre existant** (une passe de re-dramatisation tourne en parallèle sur les fichiers en place). Objectif auteur : passer de ~122 000 à **~200 000 mots** en ajoutant de la **matière** — des arcs entiers qui se tressent et convergent (densité à la Sanderson), **jamais du remplissage**. Chaque chapitre nouveau est pensé, selon la charte de re-dramatisation, **scènes et conversations d'abord** ; chacun porte une **fonction dramatique double** (intrigue + personne/monde). Toutes les règles §4 (garde-fous canon) et la logistique tranchée §2 priment sur ce plan.
+
+> **Principe d'expansion.** On n'allonge pas les chapitres : on **multiplie les fils** et on les fait **converger** au même point (le Mont, l'An 0), exactement comme les fils du Cercle. Trois masses nouvelles : **(A) l'Arc du Chasseur** (~9 ch., POV antagoniste, un fil qui poursuit les fils) ; **(B) les arcs secondaires étoffés** (~11 ch., surtout les recrutements par l'Étudiant + les vies d'avant) ; **(C) la Partie V élargie** (~4 ch., les heures manquantes). Total nouveau : **~24 chapitres**, ~78 000 mots visés. Voir §V pour le calcul.
+
+---
+
+## I. L'ARC DU CHASSEUR — nouveau POV antagoniste
+
+### I.1 — Fiche complète : VELKAR SORNE, du Dominat de Pyrion
+
+- **Nom [inventé, phonologie du Dominat de Pyrion — dures].** **Velkar Sorne**, Prime-Inquisiteur du Bureau des Concordances de Pyrion. Le prénom claque en deux temps durs (VEL-kar), le patronyme se ferme sec (SORNE, une seule syllabe qui tombe comme une porte). Phonologie de Pyrion : occlusives (k, d, t, p), r roulé bref, pas de voyelles longues, pas de diphtongues molles — l'inverse exact des noms d'eau d'Azoria (Kayara, Sarn) et des noms-arbres de Celethor (Sera, Ísae, Orvane). Titres du Dominat : **Prime-Inquisiteur** (grade), **Bureau des Concordances** (service — nom bureaucratique pour la police des idées : on y « met les rapports en concordance », c.-à-d. on traque les contradictions dans les récits des suspects). Ses subordonnés l'appellent « Prime ». Aelindra, qui l'a connu de loin dans l'armée du Dominat, l'appelle une fois, sans le savoir présent, « le meilleur d'entre eux » — le seul compliment du Cercle envers l'ennemi.
+- **Fonction [inventé, cohérent canon].** Officier de sécurité **et** inquisiteur : Pyrion ne sépare pas les deux. Le Dominat a envoyé **Aelindra** infiltrer les Verithani (§1.6, [canon]) ; **c'est Velkar qui a signé son ordre de mission**, il y a des années. Quand Aelindra a cessé d'envoyer ses rapports puis a « disparu » (en réalité : ralliée), c'est **Velkar qu'on a chargé de comprendre pourquoi son propre agent s'est tu.** Il est donc l'homme dont le Cercle a retourné l'espionne — humiliation professionnelle qui devient sa blessure (voir plus bas). Il a le rapport de 40 pages d'Aelindra sous les yeux (celui qui sera « classé, brûlé » — **[canon]** : c'est Velkar qui ordonne de le brûler, geste que la bible mentionne au passif ; l'expansion lui donne l'auteur).
+- **Blessure / motivation propre [inventé, cohérent — il a raison de son point de vue].** Velkar n'est **pas** un fanatique du Lien ni un tortionnaire. Il est un homme qui **croit à l'ordre comme à une digue contre la souffrance**. Il a vu, jeune officier, ce qui arrive quand le Lien lâche par accident : une résonance ratée à Pyrion, un quartier de Liés déconnectés trois jours par un sabotage — les guérisseurs muets, les enfants morts de fièvres ordinaires, le pillage. Il en a tiré une conviction entière et défendable : **retirer le Lien au monde, c'est condamner des millions de gens qui n'ont rien demandé, pour une thèse.** Il a lu le Traité du Vide, lui aussi — **c'est un lecteur, comme eux** — et il l'a refermé en pensant : *c'est juste, et c'est pour cela que c'est un poison ; les vérités les plus séduisantes tuent le plus de monde.* Sa motivation n'est pas la haine des Verithani : c'est la **protection des non-Liés d'en bas**, exactement ceux que Sera croit sauver. Miroir tragique : Velkar et Sera veulent tous deux protéger les Vides ; Sera en coupant le Lien, Velkar en le gardant. **Aucun n'a tort.**
+- **Blessure intime supplémentaire [inventé].** Velkar a une fille, non-Liée — comme Drakhan a Kessa, comme Sera a Ísae. Sa fille est **une Vide**, méprisée par le Dominat qui vénère le Lien ; Velkar sert un ordre qui humilie son propre enfant, et il le sert quand même, parce qu'il croit que le désordre la tuerait plus vite que le mépris. C'est **le nœud qui le rend humain** : il défend un système injuste envers sa fille pour la protéger d'un chaos qu'il juge pire. (Ne jamais faire se rencontrer sa fille et Ísae/Kessa — la symétrie doit rester souterraine, jamais soulignée.)
+- **Méthode [inventé, cohérent — duel à distance de deux professionnels].** Velkar **lit les traces d'Aelindra comme elle les efface.** Aelindra est l'architecte de l'invisibilité du Cercle (§2, logistique tranchée) : elle disperse, efface les pas, paie les silences, tient les gîtes complices. Velkar est son négatif : il ne cherche pas les traces, il cherche **les absences de traces** — le gîte trop propre, le registre où une nuit manque, le passeur qui a « oublié » une traversée, la concordance qui ne concorde pas. « Un homme ordinaire laisse des traces. Un professionnel n'en laisse pas. Un maître en laisse *une* : le trou exactement à sa taille. » Il ne poursuit jamais le Cercle ; il poursuit **le vide qu'Aelindra creuse derrière lui**, et ce vide dessine une flèche vers le sud. Duel de deux effaceurs : elle efface, il lit l'effacement, elle sait qu'il lit et complique, il sait qu'elle sait — sans qu'ils se voient **jamais**. Ils se connaissent par leurs gestes, comme deux joueurs d'échecs par correspondance qui ne verront jamais le visage l'un de l'autre.
+- **Voix parlée (signature de dialogue) [charte de re-dramatisation].** Velkar parle par **concordances** : il aligne deux faits et laisse le tiers se déduire (« Le passeur dit avoir dormi cette nuit-là. Son registre dit qu'il a acheté de l'huile de lampe le matin suivant. On ne brûle pas de l'huile en dormant. »). Il **ne hausse jamais la voix** (symétrie avec l'Étudiant, qui fait taire la salle). Il **pose une question dont il connaît déjà la réponse** — non pour apprendre, pour voir si on ment. Il énonce ses conclusions au présent de vérité générale, jamais au conditionnel. Politesse froide, jamais de menace explicite (« Vous allez me raccompagner à la porte, et vous allez le faire lentement, parce que c'est la dernière chose aimable que je vous demanderai. »). **Tic** : il **corrige les chiffres des autres** (contrepoint exact de Thessan qui se reprend en comptant — les deux hommes comptent, l'un pour apprivoiser sa peur, l'autre pour prendre le monde en défaut).
+- **Arc complet (de « une capitaine a trahi » à H0, témoin extérieur).** Cinq stations :
+  1. **Le déni professionnel.** Départ : *une capitaine a trahi, point.* Velkar traite d'abord l'affaire Aelindra comme une défection banale — un agent retourné, cela se range, cela se remplace. Il veut juste **fermer le dossier**. La bible pose Aelindra « déclarée traître exécutée » : c'est la ligne administrative que Velkar, au début, **croit vraie** (on lui dit qu'elle a été prise et exécutée ailleurs) — avant de découvrir qu'il n'y a **pas de corps**, et que le rapport d'exécution est aussi faux que ceux qu'il traque.
+  2. **La contamination par le doute.** En lisant le rapport de 40 pages d'Aelindra pour le brûler, Velkar le **lit vraiment** — c'est son métier de tout lire. Et il ne trouve pas la faille, exactement comme Aelindra n'avait pas trouvé la faille des Verithani. **Le raisonnement le mord.** Il brûle le rapport non parce qu'il est faux mais **parce qu'il est juste** — et c'est le premier acte qui l'apparente aux Huit (qui, eux aussi, agissent sur une vérité qui les terrifie).
+  3. **La reconstitution.** Velkar comprend que ce n'est pas une défection isolée : il y a **un plan**, une convergence, une date. Il reconstitue lentement — non le contenu du rituel (qu'il ne saura jamais vraiment), mais **la logistique** : quelqu'un déplace des gens vers un point unique, au sud, sans qu'ils se croisent. Il remonte le fil d'Aelindra à rebours. **Il a toujours un temps de retard** (voir I.2).
+  4. **La course perdue.** Les dernières stations : Velkar arrive **partout trop tard** — le gîte vidé la veille, le passeur qui a repris le large, le campement des hautes terres encore chaud. Sa lucidité croît en même temps que son impuissance : plus il comprend, moins il peut agir. **Il ne capturera personne** (canon : le Cercle réussit). Son excellence même le condamne à assister sans empêcher.
+  5. **Le témoin extérieur, au pied du Mont, à H0.** Velkar atteint **Cendral / le pied du Mont** juste à temps pour **voir, de loin, la montagne le prendre** — l'éruption, le silence, l'anomalie. Il est **le seul regard extérieur** sur l'événement (tous les autres POV sont des membres ou des fenêtres-monde ignorantes). Il voit **quelque chose monter** vers le sommet dans la nuit et ne comprend pas ce qu'il voit ; il devient ainsi **germe d'une des six lectures** (voir I.3). Et — clé de l'arc — c'est **lui qui écrit la ligne « traître exécutée aux archives de Pyrion, aucun corps confirmé »** : de retour, brisé, incapable d'avouer qu'il a laissé le monde mourir sous ses yeux sans l'empêcher, il **falsifie son propre rapport** — il déclare Aelindra prise et exécutée pour **enterrer sa défaite**. La ligne canon de la bible **est un mensonge de Velkar.** « Aucun corps confirmé » = il n'a jamais eu de corps, parce qu'il n'a jamais eu Aelindra ; il l'écrit pour que l'Histoire croie qu'il a gagné.
+- **RÈGLES DE L'ARC (garde-fous propres au Chasseur) :**
+  - Il ne **capture jamais** personne d'important. Au mieux il attrape un passeur, un logeur, un maillon — jamais un membre du Cercle. Le canon l'interdit (tous les sorts des Huit sont fixés §4.1 ; aucun ne finit « pris par Pyrion »).
+  - Il ne **résout jamais l'ambiguïté**. Velkar ne saura jamais ce qui s'est passé au sommet ni si le rituel a « causé » quoi que ce soit. Son incompréhension finale **renforce** le doute méta (§4.3) : même l'enquêteur le plus lucide du monde ne peut pas conclure.
+  - Son **excellence rend la réussite du Cercle plus précieuse** (ils ont battu le meilleur, pas un imbécile) ; sa **lucidité rend le monde d'avant plus réel** (à travers ses yeux d'ordre, on voit l'Âge d'Or comme une chose digne d'être défendue, pas seulement une injustice à abattre).
+  - Il **n'a pas de scène de POV avec un membre du Cercle en focalisation partagée** : le duel reste à distance. La seule fois où leurs chemins se touchent presque (le campement des hautes terres), c'est un POV **Velkar** sur un feu **déjà éteint**.
+
+### I.2 — Recoupement logistique avec l'itinéraire DÉJÀ écrit (vérifié §2)
+
+L'itinéraire du Cercle est tranché et écrit ; le Chasseur le recoupe **toujours un temps trop tard**. Stations vérifiées contre §2 :
+
+| Station de Velkar | Ce que le Cercle y a fait (canon §2) | Retard de Velkar |
+|---|---|---|
+| **Archives de Pyrion** | Point de départ : le rapport d'Aelindra, sa disparition | — (son point zéro) |
+| **Un gîte complice sur la route de terre** | Aelindra tient les gîtes, efface les registres | Vidé, registre trafiqué ; il lit le trou |
+| **Port de Sulvane** | Thessan débarque d'un paquebot marchand (fil de terre), identité de couverture | Le manifeste ne colle pas ; il arrive après l'appareillage |
+| **Hautes terres de Sulvane** | Fil de mer + fil de terre se nouent **à cinq** (Sera, Vorath, Mirathis, Thessan, + l'Étudiant en lisière) | **Campement encore chaud** — il touche les cendres, jamais les corps |
+| **Crique de la Dent** | L'*Amère* (Kayara) débarque de nuit ses quatre passagers, repart au large | Traces de quille dans le sable noir ; le bateau est déjà loin (Kayara survit, H6-7) |
+| **Cendral / pied du Mont** | Drakhan chez lui, dernier ; Aelindra passe le prendre ; convergence finale | Il arrive **à H0** — témoin de l'éruption, trop tard pour tout |
+
+> **Contrainte dure :** Velkar ne doit **jamais** faire converger plus de monde qu'il n'y en a réellement, ni « voir » huit personnes ensemble avant le Mont (erreur de continuité, §2). Il ne voit **jamais** le Cercle réuni — il ne voit que ses **absences**. Au pied du Mont, il perçoit « quelque chose qui monte » sans pouvoir compter (nuit, distance) : cohérent avec le motif « huit fils convergents, jamais huit corps vus ensemble ».
+
+### I.3 — Ce que le Chasseur sème (les six lectures, §4.3)
+
+Velkar, témoin extérieur à H0, voit **une silhouette monter vers le sommet** dans le noir — peut-être plusieurs, il ne peut pas dire. De retour, dans son rapport falsifié, il consigne une phrase qu'il ne s'explique pas : *« Il y avait quelqu'un de plus que ceux que je poursuivais. »* → **germe caelumite (l'Étranger des Heures)**, en écho exact à la vision de Vorath (« quelqu'un que nous n'avons pas vu », §1.6). Deux témoins que tout oppose — le prêtre du Silence et l'inquisiteur — **sèment la même lecture sans le savoir.** C'est le plus beau nœud méta que l'arc apporte : la lecture de l'Étranger naît **à la fois** de l'intérieur (Vorath) et de l'extérieur (Velkar), donc elle n'appartient à personne, donc elle ne peut être ni confirmée ni récusée (§4.3). Velkar **ne résout rien** ; il **épaissit le doute**.
+
+### I.4 — Chapitres de l'Arc du Chasseur (9 chapitres, pensés scènes d'abord)
+
+Chaque fiche : **POV** (toujours Velkar), **insertion**, **contenu (3-4 phrases, scènes/conversations)**, **fonction double**.
+
+- **C1 — « La concordance manquante »** — *POV Velkar. Insertion : Partie I (après le fichier 05 « Le rapport » — miroir immédiat : on vient de voir Aelindra écrire son rapport, on voit maintenant l'homme qui le reçoit).* **Scène :** Velkar, au Bureau des Concordances de Pyrion, interroge un scribe sur pourquoi les rapports de l'agent Aelindra se sont arrêtés — dialogue de concordances, le scribe ment mal, Velkar aligne trois dates. **Il ordonne qu'on brûle le rapport de 40 pages — puis se ravise et le lit d'abord.** **Fonction :** pose l'antagoniste et son intelligence ; révèle par ses yeux que le Dominat *savait* et a préféré le feu à la vérité (élargit le politique). Dernière image : il ne trouve pas la faille.
+- **C2 — « Ce qu'un agent ne dit plus »** — *POV Velkar. Insertion : Partie II.* **Scène :** Velkar rend visite à sa fille Vide, un dîner court et raide où l'on ne parle pas de ce qui compte (sous-texte : il la sert et la trahit du même geste). Puis retour au Bureau : il comprend que la défection d'Aelindra n'est pas isolée — d'autres silences, ailleurs, à la même période. **Un plan.** **Fonction :** humanise Velkar (la fille), transforme l'affaire personnelle en enquête d'ampleur (intrigue).
+- **C3 — « Le gîte trop propre »** — *POV Velkar. Insertion : Partie III (près du fil du voyage, autour des fichiers 13-14).* **Scène :** Velkar dans une auberge de la route de terre où Aelindra a effacé une nuit ; il fait parler l'aubergiste par la seule pression d'une conversation où chaque phrase est une concordance ; il trouve **le trou exactement à sa taille**. Monologue intérieur sur son adversaire invisible : « Elle est bonne. Elle est la meilleure que j'aie lue. » **Fonction :** installe le duel à distance ; fait admirer Aelindra par l'ennemi (rend le Cercle précieux).
+- **C4 — « Sulvane, après l'appareillage »** — *POV Velkar. Insertion : Partie III (après 17 « La vision et la lame »).* **Scène :** port de Sulvane, Velkar au bureau du manifeste ; un nom de couverture ne concorde pas ; il court au quai — le paquebot est parti (Thessan à bord, déjà loin). Il regarde la mer et **comprend qu'il est en retard structurel** : il lit des départs, jamais des présences. **Fonction :** première défaite nette du Chasseur ; escalade de l'impuissance dans la lucidité.
+- **C5 — « Le feu encore chaud »** — *POV Velkar. Insertion : Partie IV (la veille — après 21 « Ce qu'un homme peut tenir », avant la réunion des huit).* **Scène :** les hautes terres de Sulvane ; Velkar atteint le **campement à cinq** quelques heures trop tard — cendres tièdes, empreintes de cinq personnes, pas huit (il compte, il corrige son propre compte : « cinq. Pas huit. Où sont les autres ? »). Il touche le sol chaud, comprend qu'il les a manqués de peu, et pour la première fois **doute non de sa cible mais de sa cause** — et s'il avait tort ? **Fonction :** point le plus proche du contact (jamais atteint) ; contamination par le doute (miroir des Huit) ; sème « cinq pas huit » = il ne verra jamais le Cercle entier.
+- **C6 — « La quille dans le sable noir »** — *POV Velkar. Insertion : Partie IV / début Partie V (juste avant les heures).* **Scène :** crique de la Dent ; Velkar trouve les marques de l'*Amère* sur la roche noire, la mer vide (Kayara déjà repartie — elle survivra). Il comprend que la convergence est presque achevée et qu'il ne l'empêchera pas ; courte scène avec un pêcheur local qui n'a « rien vu » (et dit vrai). **Fonction :** dernière station avant le Mont ; le monde d'avant vu une dernière fois par des yeux d'ordre, la veille de sa fin.
+- **C7 — « Au pied de la montagne »** *(chapitre du Chasseur DANS les heures — voir aussi §III)* — *POV Velkar. Insertion : Partie V, entre H0 et H1.* **Scène :** Velkar arrive à Cendral basse à H0 ; il voit, très haut sur le flanc noir, **des lumières qui montent** dans la nuit — il ne peut pas compter, il ne comprend pas ; puis le **silence de trois secondes**, puis la montagne s'ouvre. Il est le **témoin extérieur** du geste et de l'éruption. Il ne relie pas cause et effet (il ne le peut pas) : il voit **une coïncidence**, comme le lecteur (§4.3, dispositif 1). **Fonction :** apporte le seul regard non-membre sur H0 ; verrouille l'ambiguïté par un témoin qui *veut* comprendre et ne peut pas ; **il survit** (Cendral basse ≠ Cendral haute ensevelie ; il est aux abords, pas dans la ville — à caler sur la géographie §2, « ensevelie en < 20 min » : Velkar est assez en périphérie/hauteur pour fuir, comme les 200 000 de la Route des Cendres).
+- **C8 — « La Route des Cendres »** — *POV Velkar. Insertion : Partie V (heures hautes / coda haute), dans le flux de la propagation.* **Scène :** Velkar fuit vers Sulvane parmi les 200 000 réfugiés ; il voit le monde s'éteindre par les effets (guérisseurs muets, un portail devenu arche morte au bord de la route). Un dialogue avec un réfugié Lié qui vient de « perdre le fil » et ne comprend pas — Velkar, lui, comprend, et **ne peut le dire à personne**. **Fonction :** relie l'arc du Chasseur au tissu des heures (fenêtres-monde) ; la lucidité comme malédiction (il porte seul un savoir inutile).
+- **C9 — « Le rapport que personne ne lira »** — *POV Velkar. Insertion : Coda (avant ou après 34 « La marque qui reste »).* **Scène :** Pyrion, ou ce qu'il en reste ; Velkar rédige son rapport. Il **falsifie** : il écrit qu'Aelindra a été prise et exécutée. Scène-miroir de Thessan cachant son journal (34-36) : deux hommes, deux documents, l'un cache la vérité pour la sauver, l'autre écrit le mensonge pour se sauver. Dernière ligne consignée par sa main : **« traître exécutée aux archives de Pyrion, aucun corps confirmé »** — le lecteur reconnaît la ligne canon de la bible et comprend enfin **qui l'a écrite et pourquoi.** **Fonction :** referme l'arc sur son origine (« quelqu'un a écrit cette ligne ») ; germe caelumite (la phrase sur « quelqu'un de plus ») ; graine T3 (le rapport falsifié est un faux document qui traînera dans les archives, à côté du journal vrai jamais retrouvé).
+
+---
+
+## II. ARCS SECONDAIRES ÉTOFFÉS (~11 chapitres)
+
+> **Cœur de l'étoffement : les RECRUTEMENTS.** Chaque membre choisi a été recruté par l'Étudiant **une seule fois, une année différente** — chaque rencontre est **un chapitre de dialogue et de décision** (l'Étudiant vu de l'extérieur, jamais habité ; règle POV §1.2). Ces chapitres se placent en **passé** dans les Parties I-III (les fenêtres de mémoire de chaque POV), et donnent au Cercle l'épaisseur temporelle qui manque : on ne les voit plus seulement décidés, on les voit **se décider**. Fonction double systématique : intrigue (comment le Cercle s'est formé) + personne/monde (la blessure fondatrice jouée en scène, pas résumée).
+
+- **S1 — « Deux ans pour une faille » (recrutement d'AELINDRA)** — *POV Aelindra (passé). Insertion : Partie I (étoffe le fichier 05 « Le rapport » sans le toucher — chapitre AVANT lui).* **Scène :** la dernière rencontre de l'infiltration — Aelindra vient chercher la faille une dernière fois ; c'est l'Étudiant (entendu, jamais habité) qui la lui refuse en ne se défendant pas. Dialogue où l'espionne pose ses questions d'interrogatoire et reçoit des réponses qui la retournent par leur honnêteté, non par leur ruse. **Décision :** elle change de camp au milieu d'une phrase. **Fonction double :** montre la conversion **par la raison** (canon) jouée en direct ; installe le savoir-faire d'Aelindra (qui servira le duel avec Velkar).
+- **S2 — « Le vote » (VORATH et la communauté de Baelor)** — *POV Vorath. Insertion : Partie II (adjacent au fichier 10 « Ce que le silence garde »).* **Scène :** l'assemblée des Taciti — non un débat bruyant, mais un **vote dans le silence** (leur rite : on vote en posant des pierres, sans un mot). Vorath ne demande rien ; la communauté **décide de le donner** au Cercle et de se préparer à l'après. Un vieux Tacite rompt le silence pour la seule phrase du chapitre. **Fonction double :** la seule communauté qui *sait* et *consent* collectivement (contrepoint serein à l'angoisse de Thessan) ; graine T2/T3 (les Taciti « les mieux préparés » → Catena Fracta).
+- **S3 — « Ce que les rêves montrent d'autre » (les Rêves-Gris de MIRATHIS, variantes de la fin)** — *POV Mirathis (passé/présent). Insertion : Partie II (adjacent au fichier 11 « Ce que les rêves savaient »).* **Scène :** Mirathis rêve **plusieurs fins différentes** de la même nuit — dans l'une, un étranger sans visage monte au sommet (→ **caelumite**) ; dans une autre, la Trame cède **sans que personne n'agisse** (→ **« cédé seule »/scission**) ; dans une autre, le Voile lui-même se déchire (→ **noctarie**). Iel les raconte à Thessan qui les note, effrayé. **Chaque variante sème une des six lectures** (§4.3), et aucune n'est « la vraie ». **Fonction double :** distribue les lectures méta dans un seul chapitre, de la manière la plus organique possible (un devin qui voit *plusieurs* futurs ne peut pas trancher — donc le livre non plus) ; approfondit l'inévitabilité (Mirathis a vu, avant qu'on décide).
+- **S4 — « La barre et le fil » (la vie de mer de KAYARA avant l'embarquement)** — *POV Kayara (passé). Insertion : Partie III (avant le fichier 13 « Ceux de l'eau »).* **Scène :** Kayara avant le Cercle — une traversée ordinaire, un sauvetage en mer, la Ligue Marchande d'Everthor qui vient la trouver (financement Verithani, canon) ; comment on recrute une femme qui **n'a pas peur de l'après parce qu'elle y vit déjà**. Dialogue moqueur : elle tutoie les émissaires graves, coupe leurs silences. **Fonction double :** ouvre Azoria et le savoir non-Lié en amont (paie le H7 de Kayara, fichier 33) ; contrepoint concret à Thessan ; graine Forgon (T2).
+- **S5 — « Les morts qui poussent » (IVETH)** — *POV Iveth. Insertion : Partie IV (adjacent au fichier 19 « Ce que les morts ne disent pas » — ce fichier EST déjà le chapitre Iveth du plan ; S5 est un SECOND passage Iveth en amont, Partie III/début IV, OU une extension conçue comme chapitre séparé si 19 reste focalisé sur la veille).* **Scène :** Iveth, mourant « comme une lampe sans huile », lit dans les résidus des morts la **pression croissante** depuis 200 av.A — il parle des morts comme de voisins de palier qui « poussent contre la porte ». Il **confirme la faisabilité** au Cercle sans savoir si c'est juste. Dialogue avec Sera (la lucide) sur ce que « faisable » veut dire. **Fonction double :** sème « la Trame aurait cédé seule » de l'intérieur (§4.3) ; installe le personnage avant la coda et pose qu'**il ne monte pas** (canon tranché §1.6).
+- **S6 — « La lettre non écrite » (recrutement de SERA + le fil Ísae)** — *POV Sera (passé). Insertion : Partie I ou II (adjacent au fichier 02 « Le fil et le vide » / 08 « La part des Vides »).* **Scène :** l'Étudiant vient trouver Sera après 15 ans de correspondance verithane — leur première rencontre en chair. Ce n'est pas lui qui la convainc : **elle a déjà décidé**, et c'est *elle* qui lui apprend qu'il lui manquait la vision (canon : « lui la technique, elle la vision »). En parallèle, un souvenir d'Ísae qui affleure. **Fonction double :** renverse le cliché du recrutement (le maître recruté par l'élève) ; approfondit Sera comme architecte (paie les fichiers 07, 17) ; nourrit le fil Ísae (fenêtre-monde 26/fichier 26).
+- **S7 — « La dernière question de l'Académie » (recrutement de THESSAN)** — *POV Thessan (passé). Insertion : Partie I (avant/autour du fichier 01, comme mémoire — attention : 01 EST déjà l'arrivée de Thessan au Cercle ; S7 est le souvenir ANTÉRIEUR de la nuit où l'Étudiant lui a montré le Traité pour la première fois à l'Académie).* **Scène :** des années avant, à Aethranor : l'étudiant du dernier rang (l'Étudiant, jamais habité) tend au jeune Thessan une copie fautive du Traité et pose *la* question. La nuit où Thessan a cherché la faille et ne l'a pas trouvée (jouée, pas résumée). **Fonction double :** paie la « honte secrète » de Thessan (§1.3) en scène ; installe le lien Thessan-Étudiant (qu'il aime et ne comprend pas) ; miroir du recrutement d'Aelindra (deux lecteurs qui cherchent la faille, ne la trouvent pas).
+- **S8 — « La forge et la fille » (recrutement de DRAKHAN + Kessa)** — *POV Drakhan (passé). Insertion : Partie I/III (adjacent au fichier 04 « Ce qui ne plie pas » et 14 « La forge qu'on laisse »).* **Scène :** l'Étudiant vient à la forge après la perte de l'atelier ; il ne promet rien, il **écoute la colère** de Drakhan et lui montre que sa rage de classe et le Traité disent la même chose. Kessa présente, hostile, retourne contre l'Étudiant les métaphores de forge de son père (charte : sa signature). **Fonction double :** montre que le Cercle recrute même la rage, pas seulement la théorie ; installe Kessa tôt (paie la coda, fichier 34) ; graine T2 (guilde des forgerons).
+- **S9 — « L'homme qu'on ne recrute pas » (l'ÉTUDIANT, vu par Thessan)** — *POV Thessan (présent). Insertion : Partie II ou III.* **Scène :** un chapitre où Thessan tente, en vain, de comprendre pourquoi l'Étudiant fait cela — une conversation nocturne où l'Étudiant répond par des phrases interrompues, où le POV **note le silence plutôt que la voix** (charte). On effleure le bannissement d'Aethranor (§1.2) sans le résoudre. **Fonction double :** approfondit l'ambiguïté centrale (certitude ou vertige ?) sans la trancher ; renforce l'angle mort narratif (règle §1.2) ; prépare le « tremblement vu de dos » (fichier 16).
+- **S10 — « Everthor, la cellule » (fenêtre-monde politique + logistique Verithani)** — *POV inconnu (un agent de la Ligue Marchande d'Everthor) OU Aelindra. Insertion : Partie II/III.* **Scène :** comment l'argent, les bateaux, les identités de couverture existent — la face **matérielle** du complot, jouée comme une scène de commerce feutré. **Fonction double :** rend concrète la logistique (paie la crédibilité du voyage §2) ; ouvre une fenêtre-monde sur le pouvoir marchand de l'Âge d'Or (à aimer avant qu'il tombe). *(Chapitre optionnel — le premier à couper si le compte de mots serre.)*
+- **S11 — « Vytharia, l'automne d'avant » (voyage de MIRATHIS depuis Vytharia)** — *POV Mirathis (passé récent, « automne, an 3 avant » — canon §1.6). Insertion : Partie II/III.* **Scène :** le long voyage solitaire de Mirathis depuis Ilthara, les Rêves-Gris en chemin, la traversée d'un monde qui ne sait pas qu'il finit. Possible mention de la **Fracture de Tempora** comme précédent (graine T2, §5.2). **Fonction double :** élargit la géographie (Vytharia) ; installe l'inévitabilité en mouvement ; sème la lecture noctarie sur la route.
+
+> **Note d'insertion (arcs secondaires).** Ces chapitres **n'exigent aucune réécriture** des fichiers existants : ils s'intercalent comme chapitres autonomes (souvenirs/POV secondaires), lesquels sont déjà la texture du livre (cf. fenêtres-monde achroniques, §1.7). La règle §1.7 (fenêtres-monde achroniques, suivant l'intensité et non le calendrier) autorise leur placement souple ; **seuls les seuils restent en chronologie stricte.**
+
+---
+
+## III. PARTIE V ÉLARGIE (~4 chapitres — les heures manquantes)
+
+> État actuel de la Partie V (vérifié `roman-index.json`) : seuil (24), puis H-7 (25), H-5 (26), H-2 (27), H0 (28), H1 (29), H2 (30), H4 (31), H6 (32), H7 (33). **Heures absentes : H3 et H5.** L'expansion les comble **en respectant §2** (qui tombe à quelle heure) et la **règle des fenêtres-monde** (anonymat aimable, pas de sous-intrigue greffée : un inconnu, une heure, une fin, aucun arc importé).
+
+- **V1 — « H3 — Le Gouffre d'Endora »** — *POV : inconnu d'Endora [inventé] — un batelier/gardien du Gouffre.* **Insertion : Partie V, entre H2 (30) et H4 (31).* **Canon §2 :** H3 = fin de la propagation régionale, portails régionaux qui cèdent, « des voyageurs bloqués en transit se dissolvent ». **Endora** est la région de Varandar (ville natale de Verithan et de Thessan, §1.3) : y placer une fenêtre-monde referme discrètement le cercle géographique (là où l'idée est née, une heure de sa conséquence). **Scène :** le Gouffre d'Endora — une faille/gorge que le Lien tenait « ouverte » ou « stable » — commence à s'ouvrir/bouger (germe des **Failles**, Fracture de Tempora, T2 §5.2) ; un homme ordinaire voit l'infrastructure Liée lâcher. **Fonction double :** comble H3 ; sème les Failles (T2) à leur source, dans la région de Verithan (écho §5.1).
+- **V2 — « H5 — La cité qui prie en tombant »** — *POV : inconnu d'Orivane Haute [inventé] — un enfant, ou un prêtre.* **Insertion : Partie V, entre H4 (31) et H6 (32).* **Canon §2 :** H3→H5, « cités volantes restantes commencent leur chute (les 7 : … **Orivane Haute** … **Endral Flotant** …) ». **Choix : Orivane Haute** (la cité qui prie en tombant — image forte : une cité qui, au lieu d'évacuer, se met en prière collective tandis qu'elle perd altitude). Alternative de secours : **Endral Flotant**. **Scène :** la perte d'altitude vécue d'en dedans ; les Liés qui la maintenaient coupés net ; les habitants qui, faute de comprendre, **prient** — miroir du Grand Pontife (fichier 18/canon) qui ordonne les cultes normaux. **Fonction double :** comble H5 ; donne à voir une réponse **collective et religieuse** à la fin (là où Kelib/fichier 24-29 donne la réponse enfantine et Kayara la réponse pragmatique) ; élargit le tableau des 7 cités volantes.
+- **V3 — « Au pied de la montagne » (= C7 de l'Arc du Chasseur)** — *POV Velkar. Insertion : Partie V, entre H0 (28) et H1 (29).* Décrit en I.4/C7. **C'est le chapitre du Chasseur DANS les heures**, exigé par la consigne §3 : il apporte le **seul témoin extérieur** de H0, verrouille l'ambiguïté (coïncidence, jamais cause), et **survit** pour écrire la ligne « traître exécutée ». Respecte §2 (Velkar aux abords/hauteurs de Cendral, pas dans la ville ensevelie ; il fuit par la Route des Cendres).
+- **V4 — « H5 → H7 — variante Endral Flotant »** *(chapitre optionnel, seulement si l'auteur veut DEUX cités volantes montrées)* — *POV : inconnu d'Endral Flotant [inventé].* **Insertion : Partie V, adjacent à V2.* **Fonction :** seconde fenêtre-monde de cité volante, si le compte de mots le permet. *(Le premier chapitre à couper si la Partie V devient trop lourde — la règle §1.9 « ne pas faire une mécanique par heure » prime : mieux vaut deux heures très fortes que huit heures diluées.)*
+
+> **Règle des fenêtres-monde rappelée (garde-fou V2, cf. §V) :** chaque nouvelle fenêtre = **un inconnu, une heure, une fin, aucun arc importé, aucune sous-intrigue.** Anonymat aimable : on aime l'inconnu en une page, on le perd à son H. Ne pas transformer une fenêtre en mini-roman.
+
+---
+
+## IV. TABLE D'INSERTION ET RENUMÉROTATION
+
+> **Principe.** Les **noms de fichiers** portent l'ordre de lecture (les nouveaux s'insèrent entre les anciens et **décalent la numérotation de fichier** vers le haut) ; le champ frontmatter **`chapitre:`** suit la numérotation officielle des chapitres POV (les seuils et le prologue restent HORS numérotation, §Concordance). **Les seuils de la voix du Lien restent aux frontières des parties** (règle intangible §1.9). Ci-dessous, la liste **complète et ordonnée après expansion** ; en gras les **nouveaux** chapitres ; « ← ancien NN » renvoie au fichier d'origine.
+
+> **Méthode de numérotation de fichier recommandée :** plutôt que renuméroter 60+ fichiers d'un coup (risque d'erreur, casse `roman-index.json`), **insérer avec des suffixes littéraux stables** (`01`, `01b`, `02`, …) OU renuméroter en une passe scriptée avec régénération de `roman-index.json`. La table ci-dessous donne l'**ordre logique** ; le numéro de fichier final est indicatif (colonne « n° cible »).
+
+### PROLOGUE
+| n° cible | Titre de travail | POV | Partie |
+|---|---|---|---|
+| 00 | Ce que je tiens *(← 00)* | Voix du Lien (irr. 1) | Prologue |
+
+### PARTIE I — Les lecteurs
+| n° cible | Titre de travail | POV | Partie |
+|---|---|---|---|
+| 01 | Les lecteurs *(← 01)* | Thessan | I |
+| **01b** | **La dernière question de l'Académie (S7, recrut. Thessan)** | **Thessan (passé)** | I |
+| 02 | Le fil et le vide *(← 02)* | Sera | I |
+| **02b** | **La lettre non écrite (S6, recrut. Sera)** | **Sera (passé)** | I |
+| 03 | La gardienne du seuil *(← 03)* | Nera (fenêtre) | I |
+| 04 | Ce qui ne plie pas *(← 04)* | Drakhan | I |
+| **04b** | **La forge et la fille (S8, recrut. Drakhan + Kessa)** | **Drakhan (passé)** | I |
+| **04c** | **Deux ans pour une faille (S1, recrut. Aelindra)** | **Aelindra (passé)** | I |
+| 05 | Le rapport *(← 05)* | Aelindra | I |
+| **05b** | **La concordance manquante (C1, Chasseur)** | **Velkar** | I |
+| 06 | *Seuil Partie I — Voix du Lien (irr. 2)* *(← 06)* | Voix du Lien | I |
+
+### PARTIE II — Ce que le Lien a coûté
+| n° cible | Titre de travail | POV | Partie |
+|---|---|---|---|
+| 07 | Montrer et faire *(← 07)* | Thessan | II |
+| 08 | La part des Vides *(← 08)* | Sera | II |
+| 09 | Ceux qui tiennent la ville *(← 09)* | Kelib (fenêtre) | II |
+| 10 | Ce que le silence garde *(← 10)* | Vorath | II |
+| **10b** | **Le vote (S2, Baelor)** | **Vorath** | II |
+| 11 | Ce que les rêves savaient *(← 11)* | Mirathis | II |
+| **11b** | **Ce que les rêves montrent d'autre (S3, variantes)** | **Mirathis** | II |
+| **11c** | **Vytharia, l'automne d'avant (S11)** | **Mirathis (passé)** | II |
+| **11d** | **Ce que l'agent ne dit plus (C2, Chasseur)** | **Velkar** | II |
+| **11e** | **L'homme qu'on ne recrute pas (S9)** | **Thessan** | II |
+| **11f** | **Everthor, la cellule (S10, optionnel)** | **inconnu / Aelindra** | II |
+| 12 | *Seuil Partie II — Voix du Lien (irr. 3, phrase-canon Fragment #3)* *(← 12)* | Voix du Lien | II |
+
+### PARTIE III — Le voyage
+| n° cible | Titre de travail | POV | Partie |
+|---|---|---|---|
+| **12b** | **La barre et le fil (S4, Kayara avant)** | **Kayara (passé)** | III |
+| 13 | Ceux de l'eau *(← 13)* | Kayara | III |
+| 14 | La forge qu'on laisse *(← 14)* | Drakhan | III |
+| **14b** | **Le gîte trop propre (C3, Chasseur)** | **Velkar** | III |
+| 15 | La ville qui respire *(← 15)* | Ílvar (fenêtre) | III |
+| 16 | La première personne du singulier *(← 16)* | Thessan | III |
+| 17 | La vision et la lame *(← 17)* | Sera | III |
+| **17b** | **Sulvane, après l'appareillage (C4, Chasseur)** | **Velkar** | III |
+| **17c** | **Les morts qui poussent (S5, Iveth amont)** | **Iveth** | III |
+| 18 | *Seuil Partie III — Voix du Lien (irr. 4)* *(← 18)* | Voix du Lien | III |
+
+### PARTIE IV — La veille
+| n° cible | Titre de travail | POV | Partie |
+|---|---|---|---|
+| 19 | Ce que les morts ne disent pas *(← 19)* | Iveth | IV |
+| 20 | Ce qu'on ne dit pas à une sœur *(← 20)* | Sera | IV |
+| 21 | Ce qu'un homme peut tenir *(← 21)* | Drakhan | IV |
+| **21b** | **Le feu encore chaud (C5, Chasseur — campement à cinq)** | **Velkar** | IV |
+| 22 | La phrase qui attendait *(← 22)* | Thessan | IV |
+| **22b** | **La quille dans le sable noir (C6, Chasseur — la Dent)** | **Velkar** | IV |
+| 23 | *Seuil Partie IV — Voix du Lien (irr. 5)* *(← 23)* | Voix du Lien | IV |
+
+### PARTIE V — La septième heure
+| n° cible | Titre de travail | POV | Partie |
+|---|---|---|---|
+| 24 | *Seuil Partie V — Voix du Lien (irr. 6)* *(← 24)* | Voix du Lien | V |
+| 25 | H-7 *(← 25)* | Drakhan (guide) | V |
+| 26 | H-5 *(← 26)* | (POV existant) | V |
+| 27 | H-2 *(← 27)* | Sera | V |
+| 28 | H0 *(← 28)* | Sera (geste ; irr. 7) | V |
+| **28b** | **H0 → H1 — Au pied de la montagne (C7/V3, Chasseur)** | **Velkar (témoin ext.)** | V |
+| 29 | H1 *(← 29)* | Drakhan (meurt) | V |
+| 30 | H2 *(← 30)* | Nera (fenêtre) | V |
+| **30b** | **H3 — Le Gouffre d'Endora (V1)** | **inconnu Endora** | V |
+| 31 | H4 — Ce qui ne résonne pas *(← 31)* | Ísae (fenêtre) | V |
+| **31b** | **H5 — La cité qui prie en tombant (V2, Orivane Haute)** | **inconnu Orivane** | V |
+| *(31c)* | *H5 — Endral Flotant (V4, optionnel)* | *inconnu Endral* | V |
+| 32 | H6 *(← 32)* | (POV existant) | V |
+| 33 | H7 *(← 33)* | Kayara (irr. 8, dernier mot) | V |
+
+### CODA — Le premier jour de la Grande Nuit
+| n° cible | Titre de travail | POV | Partie |
+|---|---|---|---|
+| 34 | La marque qui reste *(← 34)* | Kessa (fille de Drakhan) | Coda |
+| **34b** | **Le rapport que personne ne lira (C9, Chasseur — falsification)** | **Velkar** | Coda |
+| 35 | Le silence est revenu *(← 35)* | Vorath | Coda |
+| 36 | Qu'il attende quelqu'un de meilleur *(← 36)* | Thessan | Coda |
+
+> **Note C8 (« La Route des Cendres »).** Placement flottant dans la Partie V haute (entre 30b et 32, dans le flux de propagation) — non ligné ci-dessus pour ne pas surcharger la Partie V ; à intercaler par l'auteur selon le rythme voulu, OU à fondre dans C7/28b si la Partie V doit rester serrée.
+
+### IV.1 — Seuils de la voix du Lien : INCHANGÉS
+Les six irruptions de seuil (fichiers 06, 12, 18, 23, 24) + les irruptions du final (7 à H0/fichier 28, 8 à H7/fichier 33) **restent exactement où elles sont**, aux frontières des parties et dans le compte à rebours. **Le barème 1→8 n'est pas touché.** L'expansion **n'ajoute AUCUN seuil** entre parties.
+
+### IV.2 — Faut-il une irruption supplémentaire de la voix du Lien ?
+**Recommandation : NON pour les seuils ; OUI pour UNE seule irruption « hors seuil » déjà prévue par la bible, à placer dans le nouveau tissu.** La bible §1.9 autorise explicitement des irruptions **non-seuil** « au moment où un portail se ferme » (« elle *sent* les voyageurs en transit se dissoudre en elle »). Le nouveau chapitre **V1 (H3 — Gouffre d'Endora)** et les fermetures de portails régionaux sont l'occasion idéale d'**UNE** telle micro-irruption (calibrée à la phase 5-6 du barème : presque muette, « celui qui se défait en moi », noms tombés). **Contrainte :** cette irruption **ne compte pas** dans la séquence 1→8 des seuils (elle est un souffle, pas un seuil) et **ne doit pas** créer un neuvième palier de dégradation — elle épouse la phase déjà atteinte à ce point du récit. **Ne pas** en ajouter d'autres : le silence croissant est le sujet ; multiplier la voix la banaliserait (§1.9, « ne pas en faire une mécanique »).
+
+### IV.3 — Nouveaux fragments du journal de Thessan ?
+> **Recommandation : ajouter DEUX fragments intercalaires (VERBATIM ci-dessous), pas plus.** Les 7 fragments datés existants (#1 J-90 → #7 An 0 soir) forment un texte cohérent et **ne doivent pas être renumérotés** (ils sont cités T1→T3, §3). Les deux ajouts sont des **fragments intercalaires non numérotés** (« sans date exacte, en marge ») — cohérents avec le dispositif §1.3 (« le passé remonte *dans l'encre*, en marge »). Ils s'insèrent dans les nouveaux chapitres Thessan (S7, S9) sans casser le barème daté.
+
+**Fragment intercalaire A — (en marge, sans date ; à placer dans S7 « La dernière question de l'Académie »).**
+> *« Je relis mes premières pages et je m'aperçois que j'ai daté la première du jour où je les ai rencontrés. C'est faux. Le vrai premier jour, c'est une nuit d'il y a des années, à l'Académie, quand un homme du dernier rang m'a tendu un livre en me disant : lis-le jusqu'au bout, la plupart s'arrêtent avant la fin, c'est pour cela qu'ils dorment encore. J'ai cru qu'il me prêtait un livre. Il me tendait ma vie. On ne reconnaît jamais, sur le moment, la main qui vous fait basculer ; on la prend pour une main qui vous passe le sel. »*
+
+**Fragment intercalaire B — (en marge, sans date ; à placer dans S9 « L'homme qu'on ne recrute pas »).**
+> *« J'ai essayé, cette nuit, de lui demander pourquoi lui. Pas pourquoi nous — pourquoi *lui*, en premier, avant nous tous. Il a commencé une réponse et ne l'a pas finie, comme toutes ses phrases, et j'ai compris que le blanc à la fin n'était pas un oubli : c'était la réponse. Il ne finit pas ses phrases parce qu'il ne finit pas ses pensées ; il les laisse ouvertes pour que le geste, un jour, les ferme à sa place. J'écris tout de lui, sauf son nom et sauf le fond de ses yeux. Deux choses que je n'aurai jamais. On peut aimer un homme des années et ne posséder de lui que le bord. »*
+
+> **Note.** Aucun de ces deux fragments ne double une date existante ni ne touche la phrase-canon (Fragment #3). Le **Fragment Zéro** (main de l'Étudiant, §3) reste intouché.
+
+---
+
+## V. GARDE-FOUS V2 — ce que l'expansion N'A PAS le droit de faire
+
+> **Règle-mère.** L'expansion ajoute de la **matière**, jamais du délai, jamais de réponse. Tout ce qui, ajouté, **diluerait la tension**, **résoudrait l'ambiguïté** ou **contredirait le canon tranché** est interdit — quelle que soit sa beauté. En cas de doute, **couper**.
+
+1. **NE PAS diluer le compte à rebours.** La Partie V reste un **accélérateur**, pas un catalogue d'heures. Ajouter H3 et H5 (V1, V2) est permis ; ajouter une troisième cité volante (V4) est **optionnel et le premier à couper**. Interdiction d'insérer un chapitre lent ou rétrospectif **dans** la Partie V (les recrutements et vies d'avant vont en Parties I-III, jamais dans le final). Le final ne ralentit **jamais** ; il ne fait que **montrer plus de fenêtres à la même vitesse**.
+2. **NE PAS résoudre l'ambiguïté (§4.3).** Velkar, malgré toute sa lucidité, **ne comprend jamais** ce qui s'est passé ni si le rituel a causé l'Arrachement. Aucun chapitre nouveau ne relie « le geste » → « donc le monde meurt » par une chaîne causale narrée. Les variantes des Rêves-Gris (S3) **ne désignent aucune lecture comme vraie**. Le témoin extérieur (Velkar) **épaissit** le doute, il ne le lève pas.
+3. **NE PAS toucher aux six lectures.** L'expansion **sème** (Velkar → caelumite ; Mirathis S3 → les cinq autres ; Iveth S5 → « cédé seule ») mais **n'en privilégie aucune** et n'en **ajoute aucune septième**. **Règle §4.3 intangible : aucun acte mortel ne cause un Cardinal.** Velkar voit une **coïncidence**, jamais une cause.
+4. **NE PAS alourdir les fenêtres-monde existantes.** Ílvar, Nera, Kelib, Ísae, le Grand Pontife gardent leur forme (2-3 apparitions, anonymat aimable). Les **nouvelles** fenêtres (Endora, Orivane) suivent la même discipline : **un inconnu, une heure, une fin, aucun arc importé, aucune sous-intrigue greffée.** Interdiction de transformer une fenêtre en fil récurrent lourd ou de lui coller un lien caché avec le Cercle (sauf Ísae, seul cas canon, §1.7).
+5. **NE PAS contredire la logistique tranchée (§2).**
+   - **L'*Amère* à 5 (quatre passagers + Kayara).** Velkar, à la Dent (C6), trouve les traces de **quatre** débarqués, pas huit ; il ne remet **jamais** à bord Drakhan, Aelindra ou Thessan.
+   - **Jamais huit ensemble avant le Mont.** Velkar ne **voit** jamais le Cercle réuni ; au campement des hautes terres (C5) il compte **cinq**, jamais huit ; au pied du Mont (C7) il ne peut pas compter (nuit/distance) et perçoit « quelque chose qui monte », cohérent avec « huit fils, jamais huit corps vus ensemble ».
+   - **Drakhan dernier.** Rien dans l'arc du Chasseur n'anticipe Drakhan sur la route : Velkar le manque **à Cendral même**, la nuit de la montée finale ; le retard d'un jour de Drakhan (§2) est préservé.
+   - **Aelindra architecte, pas marcheuse.** Velkar traque **les effacements** d'Aelindra (registres, gîtes), jamais Aelindra en chair sur un sentier ; il ne la capture **pas** (canon : « traître exécutée » est SON mensonge, pas un fait).
+6. **NE PAS toucher aux sorts / sorts canon (§4.1).** Aucun membre n'est pris par Pyrion. Velkar **survit** (aux abords de Cendral, fuit par la Route des Cendres) — il le faut, puisqu'il écrit le rapport à la coda. Drakhan meurt **H1** (inchangé). Kayara **survit** (repartie de la Dent avant le Mont, C6 le confirme). Aelindra : sort canon « traître exécutée sans corps » = préservé **et expliqué** (mensonge de Velkar), jamais contredit.
+7. **NE PAS habiter l'Étudiant.** Règle POV §1.2 : l'Étudiant **n'est jamais** en focalisation interne, même dans les chapitres de recrutement (S1, S6-S9) — il est **entendu et vu de l'extérieur**, jamais pensé. Son nom reste perdu.
+8. **NE PAS multiplier la voix du Lien.** Un seul ajout autorisé : **une** micro-irruption hors-seuil au Gouffre d'Endora (IV.2), calibrée sur la phase déjà atteinte, **hors** de la séquence 1→8. Aucun seuil nouveau. Le barème de dégradation reste intact.
+9. **NE PAS faire de Velkar un méchant.** Charte : **pas de méchant** (§6). Velkar a **raison de son point de vue** (protéger les non-Liés d'en bas du chaos), une fille Vide qu'il trahit en la protégeant, une conviction défendable. S'il devient cruel, sadique ou bête, l'arc est raté. Il doit être **aussi humain que les Huit** — un neuvième lecteur, du mauvais côté d'une vérité qui n'a pas de bon côté.
+
+---
+
+## V-bis. LA FIN DU TOME 1 — le beat final (directive auteur : « chaque livre doit finir sur quelque chose »)
+
+> **Décision de design.** La coda ne se clôt PAS sur le seul silence (voix du Lien absente). Elle se clôt sur un **beat final positif-inquiétant** : **le premier battement du Cœur de Cendra.** Après le silence total — le narrateur cosmique s'est tu, le monde a rendu ce qu'il tenait —, **quelque chose, dans la pierre, tout au fond, se met à battre.** Ce n'est pas la voix du Lien qui revient (elle est morte) ; c'est **autre chose**, plus bas, plus vieux, qui commence exactement à l'instant où le Lien finit. Un monde s'éteint ; un cœur s'allume dans la roche. **Le livre finit sur un commencement.**
+
+- **Le texte existe déjà.** La clausule-pulsation du fichier **36** (« Qu'il attende quelqu'un de meilleur », §64-66) EST ce beat, écrit intégral : *« Le Mont Cendra battait. Il s'était mis à battre à l'instant où l'autre chose s'était tue… un battement dans la pierre, patient, que d'autres, très loin dans le temps, sentiraient un jour à leurs os sans savoir qu'ils l'avaient hérité de cette nuit, ni pour qui il battait, ni s'il attendait qu'on revînt. »* **Décision : cette clausule DEVIENT le beat final officiel du tome 1.** L'expansion **ne la réécrit pas** ; elle la **consacre** comme dernière page — et autorise, si l'auteur le veut, **une demi-page à une page de renfort** juste après le Fragment #7, pour lui donner le poids d'un vrai *cliffhanger cosmique* (sans jamais l'expliquer).
+- **Double détente (voulue).**
+  1. **Pour le lecteur du T1 :** la blessure est **vivante**. Le monde n'est pas seulement mort ; quelque chose reste, bat, attend. C'est l'amorce du **compte à rebours du Troisième Coup** (le « rituel résisté deux fois », Mythe du Troisième Coup, §5.3) — sans qu'un mot ne le nomme. Le battement est une **promesse et une menace** : ça n'est pas fini.
+  2. **Pour le lecteur des *Chroniques de l'Exilé* (livre 1) :** c'est **LA pulsation** que Sorin sentira dix mille ans plus tard sous Rukhsar, à Cendra, au Jumeau, à Cestra, à Kharazir — « le même rythme, à mes os » (§5.1). Le T1 **fournit la source** de la sensation la plus troublante de T3. Ne jamais l'expliciter dans T1 ; juste faire naître le rythme.
+- **Contraintes (garde-fous du beat) :**
+  - **Ne rien expliquer.** Le battement n'a **ni cause nommée ni destinataire** (« ni pour qui il battait, ni s'il attendait qu'on revînt »). Il ne dit pas « l'Étudiant reviendra », ni « le Lien renaîtra ». Il **bat**, point. Toute glose qui le résoudrait tue l'ambiguïté (§4.3) et brûle un mystère du présent (an 251).
+  - **Ce n'est pas la voix du Lien.** Le barème 1→8 s'achève au silence (fichier 33, H7). Le battement est un **phénomène**, pas un narrateur — il n'a pas de grammaire, pas de « je ». Il ne relance PAS la voix du Lien (§1.9 : le silence final est intangible).
+  - **Placement :** tout à la fin du fichier 36, **après** le Fragment #7 (qui reste la dernière parole *humaine* du livre). Ordre : geste de Thessan cachant le livre → Fragment #7 → **le battement** (dernière image non-verbale). Le dernier mot du livre est un **battement**, pas une phrase.
+
+### V-bis.1 — Option d'orfèvre : l'Étudiant qui s'arrête (vu par le Chasseur)
+> **Recommandation : RETENUE, en toute dernière demi-page, si l'auteur veut sceller les deux arcs d'un seul geste.**
+
+Une ultime demi-page, **POV Velkar** (le Chasseur, seul témoin extérieur survivant), fondue dans la coda **après** le battement OU juste avant lui : très loin, sur la Route des Cendres ou une crête, Velkar aperçoit **une silhouette d'homme qui marche vers l'est** — et qui **s'arrête**, net, au milieu d'un pas, la tête un peu inclinée, **comme s'il entendait, lui aussi, quelque chose monter de la terre.** Velkar ne sait pas qui c'est (il n'a jamais vu le visage — règle §1.2, l'Étudiant jamais montré de face). Le lecteur, lui, devine. **Rien n'est confirmé** : ni que c'est l'Étudiant (canon : « survit, erre, disparaît ~5 ap.A »), ni qu'il entend le battement, ni ce qu'il ferait s'il l'entendait. **Illisible, sans résolution.**
+- **Pourquoi c'est fort :** ça referme **l'Arc du Chasseur** (le poursuivant et le poursuivi, enfin dans le même cadre — et toujours à distance, jamais de face) ET **le beat cosmique** (deux êtres, aux deux bouts d'un monde mort, qui sentent battre la même pierre). Le duel de deux professionnels finit non par une capture, mais par **deux hommes immobiles qui écoutent la même chose sans se parler.**
+- **Contraintes :** l'Étudiant **n'est pas nommé, pas montré de face, pas habité** (§1.2, §V garde-fou 7). Velkar **ne comprend pas** ce qu'il voit (§V garde-fou 2). On ne dit **jamais** que l'homme entend le battement — on dit qu'il *s'arrête*, et on laisse le lecteur faire le lien interdit. **Si cette demi-page risque de trop « boucler », la couper** : le battement seul suffit à finir le livre. L'option est un bonus d'orfèvre, pas une nécessité.
+- **Insertion :** dernière demi-page du fichier **34b** (« Le rapport que personne ne lira », C9) OU tout à la fin du fichier 36 en contrepoint muet avant le battement. **Préférence : 36**, pour que le tout dernier souffle du livre reste le battement de la pierre, et l'avant-dernier, l'homme qui s'arrête.
+
+---
+
+## V-ter. DOCTRINE DES FINS DE LA TRILOGIE (note d'architecte)
+
+> **Principe :** chaque tome **finit sur un commencement** — un « quelque chose » qui s'ouvre à la dernière page, jamais tranché. La trilogie entière est un **crescendo de seuils franchis sans résolution.** Contraintes intangibles à tous les tomes : **ne jamais résoudre l'ambiguïté des six lectures ; ne pas consommer les mystères du présent du jeu (an 251).**
+
+- **T1 — *La Septième Heure* (l'Arrachement, An 0) : LE BATTEMENT COMMENCE.** Le monde s'éteint ; le Cœur de Cendra se met à battre à la dernière page. Le compte à rebours du Troisième Coup s'amorce, muet. Le livre dépose le lecteur sur **un pouls dans la pierre** — vivant, patient, sans destinataire. *(Voir V-bis.)*
+- **T2 — le Fléau des Failles (~1400-1600 ap.A) : LES FAILLES SE REFERMENT EN UNE HEURE + LA REMUTATION COMMENCE.** Fin proposée (à affiner par l'auteur, cohérente avec les graines §5.2) : après des générations de Failles mobiles qui dévorent les villages (germées à H3/H7 du T1, Gouffre d'Endora inclus), **toutes les Failles se referment d'un coup, en une seule heure** — un événement aussi inexpliqué que l'Arrachement, un **écho structurel** (le monde « se recoud » aussi brutalement qu'il s'était déchiré, et personne ne sait pourquoi). À cet instant, **le premier enfant de la remutation entend le monde** — un enfant né *après* la refermeture, qui perçoit quelque chose que personne ne perçoit plus (peut-être **le battement de Cendra**, peut-être autre chose) : germe de la lignée qui, en T3/présent, portera une perception neuve. Et **un Mangeur de Temps revient** — une créature des Failles, **jamais documentée in-world** : le roman **montre pourquoi** elle n'est jamais consignée (ceux qui la voient ne reviennent pas, ou reviennent à un autre moment du temps, ou l'oublient en franchissant une Faille — le mécanisme même de l'oubli est mis en scène). **Contraintes :** la refermeture ne s'explique pas plus que l'Arrachement ; le Mangeur de Temps **reste un mystère du présent** (ne pas le sur-expliquer — le montrer par ses effets, comme le T1 montre l'Arrachement par coïncidence, jamais par cause).
+- **T3 — le présent du Sillage (an 251) : TRÈS GRAND — LE TROISIÈME COUP COMMENCE À LA DERNIÈRE PAGE.** Le tome qui rejoint le présent du jeu. Fin proposée : après tout le parcours (là où s'achève déjà *Les Chroniques de l'Exilé*), **le Troisième Coup — le rituel "résisté deux fois", le Mythe (§5.3) — COMMENCE à la toute dernière page.** Le roman **dépose le lecteur exactement au bord du présent du jeu**, à l'instant où le troisième et dernier des « trois coups » s'amorce — **et s'arrête là, sans le trancher.** Le lecteur referme le livre au seuil du présent jouable : ce qui suit est le monde du jeu lui-même. **Contraintes majeures :** ne **rien** consommer des mystères de l'an 251 (le retour de Navigor, la nature du Sillage, le sort du père de Sorin, l'issue du Troisième Coup) ; le tome **ouvre** la porte du présent, il ne la franchit pas. C'est la fin la plus vertigineuse des trois : **le livre finit là où le jeu commence.**
+
+> **Fil rouge des trois fins :** un battement (T1) → une perception neuve dans un enfant + une créature qui échappe à la mémoire (T2) → un coup qui commence et qu'on ne verra pas finir (T3). **Trois seuils, zéro résolution.** La trilogie tout entière tient la même promesse que le journal de Thessan : *écrire la carte, ne pas trancher* (§4.3).
+
+---
+
+## VI. RÉSUMÉ CHIFFRÉ DE L'EXPANSION
+
+- **Base :** ~122 000 mots (T1 existant, 37 fichiers).
+- **Ajouts :** Arc du Chasseur (9 ch.) + arcs secondaires (10-11 ch.) + Partie V élargie (2-4 ch.) = **~22-24 nouveaux chapitres.**
+- **Longueur cible par chapitre :** ~3 000-3 500 mots (calibre moyen des chapitres existants), scènes et conversations d'abord.
+- **Mots ajoutés :** ~23 ch. × ~3 400 mots ≈ **~78 000 mots.**
+- **Total estimé après expansion : ~200 000 mots.** ✔ (cible atteinte)
+- **Marge :** couper V4 (Endral), S10 (Everthor) et/ou fondre C8 dans C7 ramène à ~20 chapitres / ~190 000 si l'auteur préfère la densité au volume ; ajouter 1-2 fenêtres-monde d'heure supplémentaires monte à ~210 000. Le plan est **modulaire** : on ajoute ou retranche des fils sans casser la structure.
+
+> **Dernier mot d'architecte.** L'expansion réussit si, à la relecture, on ne peut plus imaginer le livre **sans** ces fils — si Velkar semble avoir toujours été là, si l'on croyait déjà connaître la nuit où l'Étudiant a tendu le Traité à Thessan. La densité de Sanderson n'est pas « plus de pages » : c'est **plus de fils qui convergent au même point**. Ici, tous convergent encore au Mont Cendra, à l'An 0, à H0 — y compris celui de l'homme qui a couru toute sa vie pour empêcher ce qu'il a fini par regarder, impuissant et lucide, s'accomplir sous ses yeux.

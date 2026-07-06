@@ -94,6 +94,12 @@ Je lui demandai ce qu'elle voyait.
 
 Elle réfléchit avec le sérieux absolu des enfants qui prennent les questions des adultes plus au sérieux que les adultes ne le font eux-mêmes. *Quelque chose qui tient*, dit-elle finalement. *Comme quand on tient une corde et que la corde tire. Vous la tenez depuis longtemps.*
 
+Je lui demandai si cela lui faisait peur.
+
+Lysse posa une pierre noire contre une pierre blanche, très doucement.
+
+*Les noms font peur aux adultes*, dit-elle. *Moi, ce qui me fait peur, c'est quand les adultes voient quelque chose et disent que ça n'a pas de nom.*
+
 Je restai silencieux un moment.
 
 Elle retourna à ses pierres. Elle en déplaça une vers l'extérieur du cercle — une pierre grise, plus grande que les autres. Elle dit : *Mais la corde change. Elle tirait dans un sens avant. Maintenant elle tire dans plusieurs sens. Vous ne savez pas encore lequel suivre.*
@@ -110,7 +116,7 @@ Cette nuit-là, seul dans ma chambre de falaise avec les bruits de la Grande Gro
 
 Il y a une solitude particulière dans le fait de recevoir une vérité de quelqu'un qui ne comprend pas encore entièrement ce qu'il dit. Lysse n'avait pas de théorie. Elle n'avait pas lu les inscriptions de Kharazir. Elle n'avait pas entendu Varennis décrire les perturbations magiques avec le vocabulaire précis d'un archimage de Celethor. Elle n'avait pas les mots pour ce qu'elle voyait — elle avait des mots d'enfant, *tenir*, *corde*, *épaisseur*, et ces mots d'enfant décrivaient quelque chose que les mots d'adultes n'avaient pas encore nommé.
 
-Ce que Lysse voyait en moi, je le rattachais — c'est ma lecture, à défaut d'une autre — à ce que l'inscription de Kharazir nomme l'ancrage. Le lien différent. La façon, selon les inscriptions, d'être dans la trame du monde non pas comme un fil qui reçoit mais comme un poteau qui tient. Cela reste une lecture. Une enfant a dit *vous tenez*, un texte ancien parle d'ancrages : c'est moi qui rapproche les deux choses.
+Ce que Lysse voyait en moi rejoignait ce que l'inscription de Kharazir nomme l'ancrage. Le lien différent. La façon, selon les inscriptions, d'être dans la trame du monde non pas comme un fil qui reçoit mais comme un poteau qui tient. Une enfant avait dit *vous tenez*. Un texte ancien parlait d'ancrages. Le rapprochement était le mien, mais il n'était plus gratuit.
 
 Et elle avait dit que la corde changeait de direction.
 
@@ -120,7 +126,7 @@ La chronologie convergait. Pas vers un point géographique — vers un moment. V
 
 On dit des Enfants aux Yeux Blancs qu'ils voient à travers la terre. Depuis les premières descriptions que j'avais entendues à Vytharia, en passant par les données du marchand sur leur nombre croissant, jusqu'à Lysse qui déplaçait ses pierres en cercles et qui décrivait, avec le naturel d'une enfant qui dit la couleur du ciel, ce qu'elle nommait *épaisseur*. Ils disent voir ce qui monte. Ce qui — selon eux — viendrait par le dessous.
 
-Si leur description est ce qu'elle paraît être, et si la lecture de Kharazir vaut quelque chose, alors les deux se recoupent : ce qu'ils voient et ce que d'autres commenceraient à sentir s'inscriraient dans la même direction. C'est l'hypothèse que je formule. Elle reste une hypothèse.
+Si leur description disait vrai, et si Kharazir n'avait pas seulement conservé une curiosité philologique, alors deux lignes se recoupaient : ce que les enfants voyaient et ce que d'autres commençaient à sentir.
 
 Je m'endormis avec cette pensée qui n'était pas exactement une pensée mais quelque chose de plus proche d'une sensation — celle d'une géologie qui se réveille.
 
@@ -158,7 +164,13 @@ Je passai deux jours de plus à Duskoris, à interroger discrètement — dans l
 
 Je note, sans en faire plus, que je comptais les enfants. Leur nombre, leur âge à la naissance documentée, la proportion par quartier, l'évolution sur quatre ans. Ce que je ne fis pas : leur parler longuement, m'asseoir à côté de la mère qui ne montre plus sa fille, demander à la fillette de quatre ans ce qu'elle voyait. Ce sont des questions de cartographe, et je suis cartographe. Une autre forme d'attention aurait été possible. Je ne l'ai pas pratiquée.
 
-Pour la mère, j'essayai pourtant — je note cela en faveur de la rigueur, non en ma faveur. Elle s'appelait Vorenne. Arven m'avait donné l'étage de la falaise et le nom d'une voisine qui pourrait me présenter. Je montai, je frappai. Une porte qui ne s'ouvrit pas. Je redescendis. Je remontai le lendemain à une autre heure. La voisine me dit que Vorenne était sortie avec sa fille dans la grotte aux sources — tout le monde savait que c'était faux, l'enfant n'était plus sortie depuis trois mois, c'est ce qu'on m'avait dit la veille. Je remerciai la voisine. Je redescendis. Je ne remontai pas une troisième fois. J'écrivis dans la marge : *trois tentatives auraient suffi, j'en ai fait deux*. C'était faux aussi. Trois n'auraient pas suffi. Trois auraient été du forçage poli — le genre d'opiniâtreté qui s'autorise des prétextes parce qu'elle a une carte à finir. Je m'en suis tenu à deux et je me suis raconté que c'était une délicatesse. Ce n'était pas une délicatesse. C'était mon emploi du temps.
+Pour la mère, j'essayai pourtant. Elle s'appelait Vorenne. Arven m'avait donné l'étage de la falaise et le nom d'une voisine.
+
+Je montai, je frappai. La porte ne s'ouvrit pas. Je redescendis. Je remontai le lendemain à une autre heure. La voisine me dit que Vorenne était sortie avec sa fille dans la grotte aux sources. Tout le monde savait que c'était faux ; l'enfant n'était plus sortie depuis trois mois.
+
+Je remerciai la voisine. Je redescendis. Je ne remontai pas une troisième fois.
+
+J'écrivis dans la marge : *trois tentatives auraient suffi, j'en ai fait deux*. C'était faux. Trois auraient été du forçage poli, mais deux n'étaient pas une délicatesse. C'était mon emploi du temps.
 
 J'aperçus Vorenne le matin de mon départ, sur la corniche, seule. Elle portait des seaux de neige fondue vers la pièce d'en haut. Elle marchait sans regarder personne. Elle ne pesait rien dans la lumière du matin caélorien — l'os à travers la chemise, le visage qui avait choisi quelque chose et n'en démordait plus. Je ne m'approchai pas. Une femme qui passe ses jours à protéger sa fille de ceux qui pourraient venir la regarder ne devrait pas être abordée par un cartographe étranger qui s'en va dans la même heure. Je me dis cela. C'est exact. Cela ne suffit pas tout à fait à me racheter ce moment-là, mais cela suffit à le justifier dans l'instant — et dans l'instant, c'est ce que ma méthode demande.
 
@@ -184,7 +196,7 @@ Il baissa la voix. Dans la vapeur de la Grande Grotte Thermale, parmi les bruits
 
 Je ne répondis pas. Je regardai la vapeur monter des sources thermales au fond de la Grande Grotte. Je pensai à Lysse qui voyait ce qu'elle nommait *épaisseur*. Je pensai à Torven qui percevait la chaleur sous la ville. Je pensai aux inscriptions de Kharazir et à la distinction qu'elles tracent entre voir et tenir.
 
-Une lecture possible : que quelque chose se prépare. Une lecture parmi d'autres. Je notai cette lecture en marge.
+Quelque chose se préparait peut-être. Je l'écrivis en marge, sans lui donner plus de poids que cela.
 
 ---
 
@@ -200,13 +212,13 @@ J'avais cinq cent quatre-vingts jours de route dans le corps. J'avais traversé 
 
 Ce que je croyais maintenant était plus lourd que l'inventaire.
 
-Je croyais — avec la conviction d'un cartographe qui a accumulé sur cinq cents jours, dans des nations qui ne se parlent pas, des récits dont les formes se ressemblent — que quelque chose se passerait sous le monde. Une lecture. Pas métaphoriquement, dans cette lecture : physiquement, dans les profondeurs que les Enfants aux Yeux Blancs disent voir comme les adultes voient la surface. Je note cette lecture comme la mienne.
+Je croyais — avec la conviction d'un cartographe qui a accumulé sur cinq cents jours, dans des nations qui ne se parlent pas, des récits dont les formes se ressemblent — que quelque chose se passerait sous le monde. Pas métaphoriquement : physiquement, dans les profondeurs que les Enfants aux Yeux Blancs disent voir comme les adultes voient la surface. Cette conclusion était la mienne.
 
-Je notai aussi que j'avais ressenti, sur les flancs du Mont Cendra, ce qu'un Délié n'est pas censé ressentir. Que la distinction Lié/Délié, telle que tous les systèmes de pensée que j'avais traversés l'affirment, peinait pour moi à rendre compte de cette expérience. La lecture de Kharazir — ancrages, fonction plutôt qu'absence — restait une lecture. Mais elle ne me paraissait plus, ce soir-là, une simple curiosité philologique.
+J'ajoutai que j'avais ressenti, sur les flancs du Mont Cendra, ce qu'un Délié n'est pas censé ressentir. Que la distinction Lié/Délié, telle que tous les systèmes de pensée que j'avais traversés l'affirment, peinait pour moi à rendre compte de cette expérience. La thèse de Kharazir — ancrages, fonction plutôt qu'absence — ne me paraissait plus, ce soir-là, une simple curiosité philologique.
 
 Et l'observation du médecin de Silvaris — ces enfants dont le nerf optique présenterait une particularité commune — alimentait l'inquiétude des familles, et celle du Conclave qui les désigne comme bénis tout en les surveillant. Le Conclave a promulgué un Édit qui formalise la hiérarchie Lié/Délié au moment même où, selon ce que j'observe, cette hiérarchie semble se fissurer. La coïncidence des dates est un fait. L'interprétation qu'on en tire ne l'est pas.
 
-Une lecture possible : que quelque chose se prépare. Une autre : que des phénomènes indépendants ont coïncidé dans une fenêtre temporelle qui les fait paraître liés. Je n'arrive pas à choisir.
+Deux explications restaient ouvertes : un ensemble de signes annonçait quelque chose, ou des phénomènes indépendants avaient coïncidé dans une même fenêtre temporelle. Je n'arrivais pas à choisir.
 
 La question qui me tient éveillé, dans toutes les hypothèses, est la même : et si oui — pour quoi ?
 
@@ -226,7 +238,7 @@ Elle ne dit pas au revoir. Elle dit : *La corde tire vers le bas maintenant.*
 
 Et elle rentra.
 
-Je restai debout dans la neige encore quelques secondes, avec cette phrase qui avait la forme d'une phrase d'enfant — le vocabulaire d'une enfant de sept ans — mais qui portait, à mes oreilles, quelque chose que les mots ne suffisaient pas à contenir. La corde tire vers le bas. Si la lecture des Ancrages de Kharazir vaut, alors c'est l'image d'un ancrage sollicité d'en dessous. C'est mon œil qui rapproche. C'est ma lecture.
+Je restai debout dans la neige encore quelques secondes, avec cette phrase qui avait la forme d'une phrase d'enfant — le vocabulaire d'une enfant de sept ans — mais qui portait, à mes oreilles, quelque chose que les mots ne suffisaient pas à contenir. La corde tire vers le bas. Si les Ancrages de Kharazir valaient quelque chose, l'image était claire : un ancrage sollicité d'en dessous. Le rapprochement venait de moi. Je l'assumai comme tel.
 
 Je pris la route du port.
 

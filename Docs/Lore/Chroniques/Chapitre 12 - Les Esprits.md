@@ -60,6 +60,16 @@ Je n'avais pas encore vu ce rituel. Je le reconnus à la description que j'avais
 
 Yalnis me regarda observer le rituel sans y participer. Il ne dit rien le premier soir. Le deuxième soir, il me dit — sans pression, comme une information : « Tu peux nommer tes morts si tu en as. Ici, tous les morts ont le droit au feu. »
 
+— Et si l'on ne sait pas s'ils sont morts ?
+
+Yalnis leva les yeux vers moi. Le feu éclairait seulement la moitié de son visage.
+
+— Alors on nomme leur absence.
+
+— Ce n'est pas pareil.
+
+— Non. C'est pour cela qu'il faut le dire avec plus de soin.
+
 Je n'ai pas de morts proches. J'avais des collègues à Kharazir qui sont morts depuis mon départ — pas de ma faute, simplement de leurs vies. Et j'avais, dans un sens qui n'était pas exactement de la mort mais qui y ressemblait, une version de moi-même que l'exil avait rendue obsolète. L'homme que j'étais à Kharazir, avec ses cartes officielles et ses fonctions de cartographe de la couronne et sa certitude d'avoir une place définie dans le monde. Cet homme-là était mort le jour où on m'avait délié.
 
 Je dis son nom au feu, silencieusement. Je me sentis légèrement ridicule, puis moins ridicule qu'avant.

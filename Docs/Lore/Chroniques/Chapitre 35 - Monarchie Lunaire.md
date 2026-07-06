@@ -80,11 +80,17 @@ Je portai la main à mon cou. L'amulette de Nysaria était là, froide et dense,
 
 Solvanes regarda mon geste. Il dit : « La même. »
 
-Je demandai ce que cela signifiait.
+— Qu'est-ce que cela signifie ?
 
-Il dit : « Que vous suivez la même route. »
+— Que vous suivez la même route.
 
-Je demandai si cela était une coïncidence.
+— Une route, ou une répétition ?
+
+Solvanes posa deux doigts sur la table, puis les déplaça l'un après l'autre en suivant une courbe invisible.
+
+« Les Lunariens ne séparent pas toujours les deux. Une route qu'on reprend devient une répétition. Une répétition qu'on comprend devient une route. Votre père a fait le premier mouvement. Vous faites peut-être le second. »
+
+— Et vous appelez cela une coïncidence ?
 
 Il me regarda avec l'expression d'un homme à qui on vient de dire que le soleil pourrait peut-être se lever à l'est. Pas moqueur — patient. La patience des gens qui ont vu trop de choses pour être surpris par l'incompréhension des autres, mais qui savent que l'incompréhension est une étape et non un état final.
 
@@ -92,21 +98,23 @@ Il me regarda avec l'expression d'un homme à qui on vient de dire que le soleil
 
 Solvanes me parla pendant deux heures. Je notai autant que je pus sans perdre le fil de sa parole.
 
-La gouvernance lunaire de Lunasar n'était pas, me dit-il, une invention culturelle — ou pas seulement. C'était une réponse à une observation. Les Lunariens originels — les fondateurs de la cité, trois cents ans plus tôt, des exilés de Vytharia dont le rapport au rêve était plus littéral que la moyenne — avaient remarqué que les décisions prises à certains moments du cycle lunaire avaient des effets différents de celles prises à d'autres moments. Non pas métaphoriquement. Empiriquement — ils avaient tracé des corrélations, sur plusieurs générations, entre les phases de la lune et les résultats des choix politiques. La pleine lune n'était pas choisie pour la décision parce que c'était beau ou symbolique. Elle était choisie parce que les données indiquaient que les décisions prises à pleine lune avaient, statistiquement, une meilleure résistance aux conséquences imprévues.
+La gouvernance lunaire de Lunasar n'était pas, me dit-il, une invention culturelle — ou pas seulement. C'était une réponse à une observation.
+
+Les fondateurs de la cité, des exilés de Vytharia dont le rapport au rêve était plus littéral que la moyenne, avaient remarqué que les décisions prises à certains moments du cycle lunaire produisaient des effets différents. Pas métaphoriquement. Empiriquement. Sur plusieurs générations, ils avaient tracé des corrélations entre les phases de la lune et les conséquences politiques. La pleine lune n'était pas choisie parce que c'était beau ou symbolique. Elle était choisie parce que les données indiquaient que les décisions prises à pleine lune résistaient mieux aux conséquences imprévues.
 
 Il dit cela comme un astronome cite des mesures.
 
-Je demandai pourquoi.
+— Pourquoi ?
 
 Il dit que personne n'avait encore trouvé le mécanisme. Mais la corrélation, sur trois siècles de données, ne pouvait plus être ignorée. Et les Lunariens étaient des gens pratiques — ils avaient construit leur système autour d'un fait observable avant d'en comprendre la cause.
 
 Il dit ensuite quelque chose que je notai mot pour mot, parce que la précision me parut importante : « Votre père a passé quatre nuits ici. La nuit d'avant la pleine lune, il a rêvé. Le matin après, il m'a cherché. »
 
-Je demandai ce qu'Aldric avait rêvé.
+— Qu'a-t-il rêvé ?
 
 Solvanes dit : « La même chose que vous avez vue à Nysaria. Le passage. Mais fermé, à l'époque. Fermé et dormant. »
 
-Je demandai comment il savait ce que j'avais vu.
+— Comment savez-vous ce que j'ai vu ?
 
 Il dit : « Parce que l'amulette indique que vous avez été en dessous. Pas jusqu'au fond — jusqu'à l'escalier. Votre père n'est allé que jusqu'aux arbres. Il a vu ce qu'il y avait à voir, et il a reculé. »
 
@@ -114,13 +122,13 @@ Je restai silencieux un moment. Le bruit de l'amphithéâtre venait de l'extéri
 
 Je posai la question sans la préparer.
 
-Je demandai à Solvanes si mon père avait reculé parce qu'il avait eu peur.
+— Mon père a reculé parce qu'il a eu peur ?
 
 Solvanes ne répondit pas tout de suite. Il prit le temps que les Lunariens prennent quand on leur pose une question dont la réponse changera quelque chose dans la pièce. Puis il dit : « Je ne sais pas pourquoi votre père a reculé. Il ne me l'a pas dit. Il avait l'air d'un homme qui avait pris une décision, pas d'un homme qui avait fui une menace. La différence n'est pas toujours visible de l'extérieur. »
 
-Je notai cette phrase. Je ne la commentai pas — il n'y avait rien à y ajouter qui ne fût pas une lecture. Mon père avait peut-être eu peur. Mon père avait peut-être choisi. Ou les deux à la fois, dans une combinaison dont aucun mot que je connaissais ne portait exactement la forme.
+Je notai cette phrase. Je ne la commentai pas. Mon père avait peut-être eu peur. Mon père avait peut-être choisi. Ou les deux à la fois, dans une combinaison dont aucun mot que je connaissais ne portait exactement la forme.
 
-J'avais failli reculer moi-même devant l'escalier de Nysoris. J'avais reculé, d'ailleurs. Je ne savais pas, dans le moment où je m'étais retourné, si c'était parce que j'avais eu peur ou parce que j'avais compris que le moment n'était pas venu. Je n'étais toujours pas certain ce soir-là à Lunaris. Et la possibilité que mon père non plus ne l'eût pas su entièrement — qu'il eût mêlé peur et choix dans le même geste, comme les hommes mêlent toutes leurs raisons aux moments qui comptent — fissura quelque chose dans la lecture que je portais de lui depuis Vytharia.
+J'avais failli reculer moi-même devant l'escalier de Nysoris. J'avais reculé, d'ailleurs. Je ne savais pas, dans le moment où je m'étais retourné, si c'était parce que j'avais eu peur ou parce que j'avais compris que le moment n'était pas venu. Je n'étais toujours pas certain ce soir-là à Lunaris. Et la possibilité que mon père non plus ne l'eût pas su entièrement — qu'il eût mêlé peur et choix dans le même geste, comme les hommes mêlent toutes leurs raisons aux moments qui comptent — fissura l'image que je portais de lui depuis Vytharia.
 
 ---
 
@@ -136,7 +144,7 @@ Je pensai aux voix d'Ulinor qui m'avaient parlé d'un rythme plus ancien que l'A
 
 La lune. Les cycles. Les rythmes que plusieurs voix, depuis plusieurs lieux, m'avaient nommés *plus anciens que les nations*.
 
-Une lecture possible — la mienne, ce soir-là, dans l'amphithéâtre de Lunasar — était que des rythmes apparentés se laissaient lire à plusieurs endroits du monde : dans la roche de Nysaria, dans les astres de Haldria, dans les corrélations que les Lunariens avaient observées sur trois siècles de décisions politiques. Une autre lecture aurait pu en faire des coïncidences que mon attention de cartographe sélectionnait. Je notai la première parce qu'elle me paraissait honnête et la seconde parce qu'elle me paraissait nécessaire.
+Une explication possible — la mienne, ce soir-là, dans l'amphithéâtre de Lunasar — était que des rythmes apparentés apparaissaient à plusieurs endroits du monde : dans la roche de Nysaria, dans les astres de Haldria, dans les corrélations que les Lunariens avaient observées sur trois siècles de décisions politiques. Une autre aurait pu en faire des coïncidences que mon attention de cartographe sélectionnait. Je notai la première parce qu'elle me paraissait honnête et la seconde parce qu'elle me paraissait nécessaire.
 
 ---
 
@@ -184,7 +192,7 @@ La mer de Lunasar était bleue d'un bleu net et froid, sans les ambiguïtés de 
 
 Mon père, selon ce que Solvanes me disait, était allé à Nysaria. Il avait vu le passage — depuis l'extérieur, depuis les arbres. Il était revenu. Il avait laissé une carte. Il était rentré chez lui. Il avait fabriqué les crochets de ma table à dessin. Il m'avait appris, indirectement, à regarder le monde comme quelque chose qui peut être compris si on le regarde assez longtemps avec assez de soin.
 
-Selon la lecture lunarienne, il serait mort d'une pneumonie d'hiver. Selon ce que ma propre mémoire d'enfance gardait, il avait disparu un matin dans les pâturages de Valthorn et personne n'avait retrouvé son corps. Les deux récits, posés l'un à côté de l'autre, ne s'accordaient pas — et je ne savais pas, ce soir-là, lequel des deux je portais à tort.
+Dans les registres lunariens, il serait mort d'une pneumonie d'hiver. Dans ma mémoire d'enfance, il avait disparu un matin dans les pâturages de Valthorn et personne n'avait retrouvé son corps. Les deux récits, posés l'un à côté de l'autre, ne s'accordaient pas — et je ne savais pas, ce soir-là, lequel des deux je portais à tort.
 
 Il y avait là quelque chose que je ne savais pas comment tenir — un sentiment qui n'était pas tout à fait de la tristesse et pas tout à fait de la colère mais quelque chose entre les deux, quelque chose qui ressemblait au vertige qu'on éprouve quand on s'aperçoit que ce qu'on cherchait depuis longtemps était plus proche qu'on ne le croyait et que la distance n'était pas géographique.
 

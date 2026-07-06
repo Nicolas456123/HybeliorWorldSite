@@ -90,6 +90,14 @@ Elle dit : « Vous en avez besoin plus que moi. Mes ancêtres chevauchent avec m
 
 Je n'eus pas de réponse pour cela.
 
+Ryvan serra le cuir autour de mon poignet elle-même.
+
+— Alors ne le porte pas comme une protection, dit-elle. Porte-le comme une question.
+
+— Les questions protègent rarement.
+
+— Les mauvaises, non. Les bonnes empêchent de dormir. C'est parfois suffisant pour survivre.
+
 Je portai le talisman au poignet gauche et je partis vers l'ouest.
 
 ---
@@ -126,9 +134,27 @@ J'avais entendu parler. À Tyndara, déjà — des rumeurs, des bruits de voyage
 
 Le marchand dit : « Ils sont de plus en plus nombreux. J'ai vu des données — je ne dirai pas comment je les ai obtenues. Il y a trois ans, on en comptait une dizaine à Caeloria. L'année dernière, ils étaient peut-être soixante. »
 
-Le serviteur qui remit le vin à ce moment-là portait au cou un anneau de cuir rouge, mince, qui n'était pas un ornement. Je l'avais vu déjà à Nectoria sans m'arrêter dessus — sur deux femmes au marché du matin, sur un porteur dans la cour de l'auberge, sur l'homme qui balayait le couloir à mon arrivée. Je l'avais classé, dans la première heure, comme un signe de confrérie ou de quartier. La deuxième heure, j'avais compris ce que c'était. Je ne l'avais pas écrit. Le marchand me servit une rasade comme s'il ne voyait pas l'anneau du serviteur. Le serviteur posa la cruche et se retira sans qu'aucun de nous deux le remerciât. Le mot pour ces gens, à Vytharia, est *liés-au-foyer* ; le mot que les marchands étrangers utilisent entre eux, sans se vanter de le savoir, est plus court. Trois maisons sur dix à Nectoria les emploient sans contrat parce que l'anneau est le contrat. L'Oligarchie des Voilés a publié, il y a vingt ans selon mes lectures, un avis disant que la pratique était *en voie d'extinction*. Mes yeux disent autre chose. Mes yeux ne sont pas un avis publié.
+Le serviteur qui remit le vin à ce moment-là portait au cou un anneau de cuir rouge. Mince. Trop discret pour être un ornement.
 
-Je n'ai rien dit au marchand. Je n'ai pas demandé à voir le bureau qui régule les contrats de service. Je n'ai pas pris note du nom du serviteur — et je ne le pouvais pas, je ne le lui avais pas demandé. La règle que je me suis donnée règle cela proprement : je suis ici pour cartographier ce qui se passe sous le sol, pas ce qui se passe au-dessus ; je ne peux pas tout porter ; mes faibles forces seraient mieux employées à comprendre ce qui menace cinq nations qu'à intervenir contre une coutume vytharienne dont l'Oligarchie finira bien par s'occuper. Cela tient. Cela tient bien. C'est ce qui m'inquiète à présent, dans cette manière dont cela tient — la facilité avec laquelle on s'en arrange, la fluidité avec laquelle un anneau de cuir rouge entre dans le décor d'une cour d'auberge où un cartographe en voyage a besoin de manger et de dormir. J'écris la note dans la marge intérieure et je la laisse. Je ne reviens pas dessus.
+Je l'avais déjà vu à Nectoria : sur deux femmes au marché, sur un porteur, sur l'homme qui balayait le couloir. La première heure, je l'avais classé comme signe de confrérie ou de quartier. La deuxième, j'avais compris. Je ne l'avais pas écrit.
+
+Le mot local est *liés-au-foyer*. Le mot que les marchands étrangers utilisent entre eux est plus court. Trois maisons sur dix à Nectoria les emploient sans contrat parce que l'anneau est le contrat. L'Oligarchie des Voilés affirme depuis vingt ans que la pratique est *en voie d'extinction*. Mes yeux disent autre chose.
+
+Je n'ai rien dit au marchand. Je n'ai pas demandé à voir le bureau qui régule les contrats de service. Je n'ai même pas pris note du nom du serviteur, parce que je ne le lui avais pas demandé.
+
+La règle que je me suis donnée arrangeait tout : je suis ici pour cartographier ce qui se passe sous le sol, pas ce qui se passe au-dessus ; je ne peux pas tout porter. Cela tenait. Cela tenait trop bien.
+
+Quand le serviteur repassa, plus tard, il posa une assiette de pain entre nous. Sa main tremblait à peine. Le marchand parlait toujours de Caeloria et ne le regarda pas.
+
+— Comment t'appelles-tu ? demandai-je.
+
+Le serviteur leva les yeux. Une seconde trop longue passa.
+
+— Nerin, dit-il.
+
+Le marchand s'interrompit, surpris moins par la réponse que par ma question.
+
+Je répétai le nom dans ma tête, non parce que cela changeait quelque chose, mais parce que le contraire aurait été plus lâche encore : voir un anneau, ne pas demander le nom, et appeler cela une observation.
 
 Je lui demandai depuis combien de temps le phénomène était apparu.
 

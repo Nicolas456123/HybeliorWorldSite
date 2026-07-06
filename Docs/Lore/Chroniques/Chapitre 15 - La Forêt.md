@@ -16,7 +16,9 @@ needs_review_for: []
 
 Le premier son de Sarandel fut une voix humaine.
 
-Pas un instrument, pas le vent dans des formations rocheuses — une voix, une seule, montant d'une colline en avant de moi comme une fumée verticale dans l'air immobile du matin. Je m'étais réveillé dans la grange d'un fermier endorien dont je n'étais jamais parvenu à retenir le nom, après avoir traversé depuis deux jours un couloir de plaines agricoles que les cartes appellent « territoire frontalier non administré » et que les habitants appellent simplement « entre les deux ». Entre Cendara et les marches occidentales de Sanvara, entre une nation et une autre, dans cet espace que les géographes aiment parce qu'il admet l'incertitude. Sarandel n'est sur aucune carte comme une frontière : c'est un bourg posé là où les plaines endoraines butent contre la forêt, fondé il y a des générations par des bardes venus de l'autre bout du monde et qui n'en sont jamais repartis.
+Pas un instrument, pas le vent dans des formations rocheuses — une voix, une seule, montant d'une colline en avant de moi comme une fumée verticale dans l'air immobile du matin. Je m'étais réveillé dans la grange d'un fermier endorien dont je n'étais jamais parvenu à retenir le nom, après avoir traversé depuis deux jours un couloir de plaines agricoles que les cartes appellent « territoire frontalier non administré » et que les habitants appellent simplement « entre les deux ».
+
+Entre Cendara et les marches occidentales de Sanvara, entre une nation et une autre, dans cet espace que les géographes aiment parce qu'il admet l'incertitude. Sarandel n'est sur aucune carte comme une frontière : c'est un bourg posé là où les plaines endoraines butent contre la forêt, fondé il y a des générations par des bardes venus de l'autre bout du monde et qui n'en sont jamais repartis.
 
 La voix chantait quelque chose que je ne compris pas — du thalmarien, que je parlais à peine, une langue construite autour des voyelles longues et des consonnes qui portent, une langue faite pour être entendue de loin, et que ces gens conservaient comme on conserve le nom d'un aïeul. Mais l'ignorance du sens ne m'empêchait pas d'entendre l'architecture du chant : une montée en trois paliers, une suspension au troisième qui s'étirait comme si la note attendait une permission, puis une descente non pas vers le point de départ mais vers un endroit voisin, légèrement différent, comme si la voix avait voyagé pendant la suspension et n'était pas revenue tout à fait au même endroit.
 
@@ -122,6 +124,16 @@ Je relevai les yeux.
 
 Il dit : « C'est ainsi que les Cantori l'appellent — la résonance qu'ils prêtent à Cantor, et qu'ils disent courir sous la roche, sous la musique, sous le silence. Certains affirment l'entendre dans les mines. D'autres dans les forêts. D'autres dans les grandes harmoniques des chœurs. On rapporte de Valdren — le fondateur de Thalmaris — qu'il disait que son instrument résonnait seul quand il approchait des endroits où la voix de Cantor passe près de la surface. Tous les bardes ne donnent pas le même nom à ce qu'ils perçoivent ; certains préfèrent dire « le fond du monde », d'autres « la note tenue ». Aucune de ces lectures ne s'est jamais imposée comme la seule. »
 
+— Et vous ? demandai-je. Vous l'appelez comment quand personne ne vous écoute ?
+
+Brennan sourit sans joie.
+
+— Une responsabilité.
+
+— Ce n'est pas un nom.
+
+— C'est le seul qui m'empêche de mentir.
+
 Il s'arrêta. Puis, d'un ton légèrement différent — plus prudent, moins professoral : « Vous n'êtes pas musicien, et pourtant vous l'entendez. »
 
 Je ne répondis pas tout de suite. Je regardais Sarandel qui s'étendait devant nous dans la lumière du matin, et j'essayais de comprendre ce que cela voulait dire — ce que je portais en moi depuis les mines d'Alkaran, depuis les arbres de Trinoria dont j'avais senti les vibrations dans les semelles de mes bottes, depuis les nuits de Cendara où quelque chose dans l'air des laboratoires m'avait donné une sensation d'écoute que je n'avais pas su nommer.
@@ -138,7 +150,11 @@ La Maison du Chant — je la vis de loin avant d'y mettre les pieds, et Brennan 
 
 Brennan m'installa chez un boulanger de sa connaissance, une femme nommée Sydra dont le four à pain était adjacent à une auberge dont elle occupait aussi la moitié. Sydra était petite, rapide, d'une bonne humeur professionnelle — le genre de bonne humeur qui n'a pas besoin d'être entretenue, qui existe dans les mains, dans la façon de poser les choses, dans l'attention routinière à ce qui doit être fait. Elle m'accueillit en galenorien approximatif, me montra une chambre au premier étage d'où l'on voyait une ruelle qui donnait sur une place assez large pour que des musiciens s'y installent — ce qu'ils faisaient, à toute heure, en rotation, comme si la place était une scène dont personne ne se souciait d'administrer le programme.
 
-Le soir du premier jour, Brennan me conduisit à l'École d'Écoute que le foyer entretient à deux heures de route de Sarandel — une maison que ses fondateurs avaient nommée Galdaris, du nom de la grande école de Thalmaris où leurs aïeux avaient étudié, et dont celle-ci se voulait la fille appauvrie mais fidèle. Je compris en franchissant ses portes ce qu'ils avaient tenu à transmettre. Ce n'était pas une académie de talent. C'était une académie d'écoute. Les élèves que je voyais dans les cours pratiquaient non pas l'exécution — pas d'abord, du moins — mais la réception. Assis en cercle, les yeux fermés, les mains dans les genoux. Un maître au centre qui jouait une note, une seule, et qui attendait. Qui attendait que les élèves entendent dans cette note tout ce qu'il y avait à entendre : l'harmonique fondamentale, les harmoniques secondaires, la résonance de la salle, l'écho, la façon dont la note se modifiait en mourant. Une heure pour une note. Je m'assis au fond d'une galerie et j'écoutai avec eux.
+Le soir du premier jour, Brennan me conduisit à l'École d'Écoute, à deux heures de route de Sarandel. Ses fondateurs l'avaient nommée Galdaris, comme la grande école de Thalmaris dont ils descendaient.
+
+Je compris en franchissant ses portes ce qu'ils avaient tenu à transmettre. Ce n'était pas une académie de talent. C'était une académie d'écoute.
+
+Les élèves étaient assis en cercle, les yeux fermés, les mains dans les genoux. Au centre, un maître jouait une note. Une seule. Puis il attendait que les élèves entendent tout ce qu'elle contenait : l'harmonique, la salle, l'écho, la façon dont le son mourait. Une heure pour une note. Je m'assis au fond d'une galerie et j'écoutai avec eux.
 
 Je ne suis pas musicien. J'ai des oreilles fonctionnelles et aucune formation. Ce que les élèves entendaient dans cette note m'échappait en grande partie. Mais à mesure qu'elle mourait, puis revenait légèrement différente sous l'archet du maître, je sentis ma propre écoute changer. Je n'écoutais plus pour prendre une information. J'écoutais pour rester devant le son jusqu'à ce qu'il ait fini d'agir.
 
@@ -170,7 +186,9 @@ Je ne savais pas si c'était une grâce ou une malédiction. Je l'écrivis dans 
 
 Il y avait une femme que je ne vis jamais — que personne à Sarandel ne verrait jamais, car elle régnait à l'autre bout du monde — mais dont la présence saturait pourtant le bourg.
 
-Elyndra III — la Reine-Barde, souveraine de Thalmaris, la mère-patrie d'Evertia, depuis vingt ans, dont la voix était, selon Brennan, « la plus juste de l'histoire vivante du Cantus ». Sarandel n'a plus de reine ; les exilés ont laissé la monarchie derrière eux avec le reste. Mais ils suivent le règne de la lointaine Reine-Barde comme on suit les nouvelles d'une famille dont on descend sans plus la connaître — par les rares bateaux, par les rares lettres, par les bribes que rapportent les Cantori-ambassadeurs qui font encore, une fois par génération, le voyage vers Ostarith. Sydra, la boulangère, me dit le soir du troisième jour — avec la franchise précise des gens qui ont évalué que vous êtes digne de la vérité inconfortable — ce que ces nouvelles rapportaient : qu'Elyndra ne dormait plus. Depuis trois ans. Qu'elle composait nuit après nuit, dans les appartements du Palais du Chant, et que ses musiciens étaient épuisés de jouer ce qu'elle produisait.
+Elyndra III — la Reine-Barde de Thalmaris. Sarandel n'a plus de reine ; les exilés ont laissé la monarchie derrière eux. Mais ils suivent encore les nouvelles d'Elyndra comme celles d'une famille lointaine dont on ne connaît plus les visages.
+
+Sydra, la boulangère, me dit le soir du troisième jour ce que les rares bateaux rapportaient : Elyndra ne dormait plus. Depuis trois ans. Elle composait nuit après nuit dans le Palais du Chant, et ses musiciens étaient épuisés de jouer ce qu'elle produisait.
 
 Je savais — j'avais la note dans mon carnet, ajoutée pendant la traversée de Cendara — que la Reine-Barde était réputée pour ses prophéties en musique. Que le Somnium Vigil, le culte des rêves que les gens de Sarandel avaient emporté avec le Cantus, affirmait que les visions lui étaient envoyées pendant le sommeil. Mais si elle ne dormait plus, que devenait la source de ces visions ?
 

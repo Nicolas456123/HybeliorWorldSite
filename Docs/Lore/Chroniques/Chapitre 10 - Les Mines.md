@@ -97,6 +97,12 @@ Je lui dis que c'était mon intention.
 
 Il réfléchit. « Peut-être. Tout dépend du commandant Reval. Et de ce qu'il pense de ce que vous voulez y trouver. »
 
+— Je veux seulement comprendre.
+
+Baret souffla par le nez, presque un rire.
+
+— C'est ce que disent les hommes qui ouvrent les portes. Rarement ceux qui vivent derrière.
+
 Il vida son gobelet. Puis, en le reposant sur la pierre de la table, doucement mais avec la précision de quelqu'un qui pose soigneusement quelque chose de fragile : « Les niveaux inférieurs de Myrilith — en dessous de trois cent cinquante mètres — ont été partiellement fermés. Il y a trois ans. »
 
 Je lui demandai pourquoi.
@@ -299,7 +305,13 @@ Et la vibration dans toutes ces formations — le battement lent, la pulsation d
 
 Quelque chose paraît augmenter — c'est en tout cas ce que les observateurs disent, chacun depuis son angle. S'agit-il d'un phénomène qui s'approche, qui s'éveille, ou simplement de notre attention qui s'aiguise sur ce qui était déjà là ? Je n'ai pas les mots pour trancher autrement.
 
-Il y a une chose que j'aurais voulu noter et que j'ai mal notée. Devant Baret, dans l'auberge du Charbonnier, quand il m'a parlé de la porte et des battements qui venaient de plus proche que d'ordinaire, je n'ai rien fait d'autre qu'écouter. Je n'ai pas comparé. Je n'ai pas relié. Je l'ai laissé dire ce qu'il disait dans les mots qu'il avait. Plus tard, ici, dans la chambre que Hessa me prête, j'ai pris ces mêmes mots et je les ai posés sur ma carte mentale à côté du Fragment Zéro, à côté de l'arbre de Velathor. C'est peut-être juste. C'est peut-être prématuré. Un mineur qui décrit des sons qu'il entend depuis vingt ans n'a pas demandé à devenir un point dans la cartographie d'un étranger. La gratitude que je lui dois consisterait peut-être d'abord à ne pas le réduire à un point. J'écris cela avec la lampe basse et le brouillard qui colle aux carreaux, et je ne suis pas sûr de retenir la leçon.
+Il y a une chose que j'aurais voulu noter et que j'ai mal notée.
+
+Devant Baret, dans l'auberge du Charbonnier, quand il m'a parlé de la porte et des battements plus proches que d'ordinaire, je n'ai rien fait d'autre qu'écouter. Je ne l'ai pas comparé. Je ne l'ai pas relié. Je l'ai laissé parler avec ses mots.
+
+Plus tard, dans la chambre que Hessa me prêtait, j'ai pris ces mêmes mots et je les ai posés sur ma carte mentale à côté du Fragment Zéro, à côté de l'arbre de Velathor. Peut-être était-ce juste. Peut-être prématuré.
+
+Un mineur qui décrit des sons entendus depuis vingt ans n'a pas demandé à devenir un point dans la cartographie d'un étranger. Je ne suis pas sûr de retenir la leçon.
 
 Le mineur avait dit : *Elle arrive.*
 

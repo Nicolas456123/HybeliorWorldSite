@@ -16,7 +16,11 @@ needs_review_for: []
 
 La ville s'entend avant de se voir.
 
-Pas par les sons ordinaires d'une cité — pas le bruit des marchés, le crissement des chariots, la rumeur des foules. Ce que j'entendis d'abord fut le vent, mais un vent particulier : un vent qui avait touché quelque chose avant d'arriver jusqu'à moi, et ce quelque chose avait modifié sa texture. Un vent qui portait du sel, de la pierre blanche chauffée par le soleil d'automne, et quelque chose d'autre — une légèreté, une façon d'arriver depuis le haut plutôt que depuis le côté, comme si une falaise quelque part le précipitait vers le bas et qu'il remontait ensuite par courants chauds. J'avais lu que les maisons de Haldria sont construites en pierre blanche avec des toits plats qui servent d'observatoires astronomiques. Je compris, avant de les voir, que ces terrasses devaient créer au-dessus de la ville un système de courants d'air ascendants qui donnait au vent côtier cette qualité verticale.
+Pas par les sons ordinaires d'une cité. Pas les marchés, pas les chariots, pas la foule.
+
+Ce que j'entendis d'abord fut le vent. Un vent particulier, qui avait touché quelque chose avant d'arriver jusqu'à moi. Il portait le sel, la pierre blanche chauffée par le soleil d'automne, et une légèreté verticale, comme s'il tombait d'une falaise avant de remonter par courants chauds.
+
+J'avais lu que les maisons de Haldria avaient des toits plats servant d'observatoires. Je compris, avant de les voir, que ces terrasses devaient créer au-dessus de la ville un système de courants ascendants.
 
 Le deuxième son fut la mer.
 
@@ -117,6 +121,20 @@ Je pensai à quelque chose qu'il m'avait dit plus tôt dans la soirée. Le ciel 
 Mais quelque chose y bougeait.
 
 Tiras me dit que l'hypothèse qu'il ne pouvait pas encore formuler officiellement — celle qui lui ôtait le sommeil depuis trois ans — était celle-ci : pas quelque chose devant les étoiles. Quelque chose entre les étoiles. Quelque chose de grand, de non lumineux, se déplaçant dans l'espace à une distance et une vitesse qui rendaient sa détection possible uniquement par l'ombre qu'il projetait.
+
+— Si vous avez raison, dis-je, pourquoi me le dire à moi ?
+
+Tiras garda les yeux sur le ciel.
+
+— Parce que vous partez demain ou après-demain.
+
+— C'est une raison ?
+
+— C'est la meilleure. Les gens qui restent ici ont des supérieurs. Des familles. Des chaires. Des prières à réciter avec les mêmes mots que la veille. Vous avez une route.
+
+Il tourna enfin la tête.
+
+— Une route est parfois plus libre qu'une vérité.
 
 Je demandai s'il avait dit cela à ses supérieurs de l'Ordo Caelum.
 

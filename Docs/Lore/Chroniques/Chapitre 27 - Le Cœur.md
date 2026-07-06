@@ -150,23 +150,35 @@ Elle m'examina avec l'expression d'une personne qui entend quelque chose d'impos
 
 Elle se tut. Nous regardâmes la montagne. La fumée respirait. Le battement continuait dans ma poitrine — non pas fort, pas douloureux, pas intrusif. Présent. Réel de la façon dont une vérité est réelle même quand elle ne vous convient pas.
 
+Kessa finit par dire : *Si vous mentez, vous mentez mal.*
+
+*Je ne mens pas.*
+
+*Alors vous êtes plus dangereux que si vous mentiez.*
+
+Je me tournai vers elle.
+
+*Un menteur sait ce qu'il déforme*, dit-elle. *Vous, vous ne savez pas encore ce que vous êtes en train de prouver.*
+
+La phrase resta entre nous avec la fumée du Mont Cendra. Elle ne m'accusait pas. C'était pire : elle me plaçait devant une responsabilité que je n'avais pas demandée.
+
 ---
 
 J'ai passé la nuit à Mylaris, dans une chambre de la maison d'une vieille femme nommée Dretha qui héberge les visiteurs pour quelques pièces et qui prépare un ragoût de légumes volcaniques avec une expertise tranquille qui fait taire toute ambition culinaire.
 
 Je n'ai pas bien dormi.
 
-Dans mon insomnie, j'ai relu les notes que j'avais transcrites à Kharazir — les traductions partielles des inscriptions des tunnels, celles que le vieux Morvath m'avait dictées avec la précision laborieuse d'un érudit qui ne voulait pas que ses mots se perdent dans ma mauvaise graphie. Les inscriptions étaient en un dialecte ancien que les linguistes de Galenor dataient de la Première Ère et que personne ne lisait couramment. Morvath en avait traduit des fragments — sa traduction, prudente, qu'il présentait lui-même comme une lecture parmi d'autres possibles. L'un d'eux revenait dans mes notes comme une épine qui avait traversé le tissu de toutes mes certitudes depuis :
+Dans mon insomnie, j'ai relu les notes que j'avais transcrites à Kharazir — les traductions partielles des inscriptions des tunnels, celles que le vieux Morvath m'avait dictées avec la précision laborieuse d'un érudit qui ne voulait pas que ses mots se perdent dans ma mauvaise graphie. Les inscriptions étaient en un dialecte ancien que les linguistes de Galenor dataient de la Première Ère et que personne ne lisait couramment. Morvath en avait traduit des fragments, toujours avec prudence. L'un d'eux revenait dans mes notes comme une épine qui avait traversé le tissu de toutes mes certitudes depuis :
 
-*Selon une lecture possible : les Déliés ne sont pas ceux à qui le lien manque. Ce sont ceux dont le lien est d'une autre nature. Ancrages du monde. Ce que le monde tient. Ce que le monde pose en premier pour que les Liés ne perdent pas pied.*
+*Les Déliés ne sont pas ceux à qui le lien manque. Ce sont ceux dont le lien est d'une autre nature. Ancrages du monde. Ce que le monde tient. Ce que le monde pose en premier pour que les Liés ne perdent pas pied.*
 
 Je l'avais noté comme une curiosité philologique — une théologie d'une autre époque, une façon archaïque de conceptualiser la division Lié/Délié que les pratiques modernes avaient remplacée par une compréhension plus simple. Les Déliés ne perçoivent pas. Les Liés perçoivent. C'est ce qui se constate, ce qui se documente.
 
 Mais ce soir, avec la pulsation encore dans la mémoire de mon corps — cette mémoire qui n'est pas dans les mains ni dans la tête mais quelque part entre les deux, là où les certitudes résistent le moins —, l'inscription de Kharazir cessait d'être une curiosité philologique pour moi.
 
-Et si les Déliés n'étaient pas sans lien ? Et si le lien — selon la lecture inscrite à Kharazir — était simplement d'un autre type, non pas réceptif, mais ancré ? Posé dans la trame du monde non pas pour capter mais pour tenir ? Des piliers, non des antennes. Des fondations, non des fenêtres.
+Et si les Déliés n'étaient pas sans lien ? Et si le lien inscrit à Kharazir était simplement d'un autre type, non pas réceptif, mais ancré ? Posé dans la trame du monde non pas pour capter mais pour tenir ? Des piliers, non des antennes. Des fondations, non des fenêtres.
 
-Je pose la question, je ne la tranche pas. Si cette lecture était juste, la distinction Lié/Délié ne serait pas une distinction de présence et d'absence mais une distinction de fonction. Et la question, alors, deviendrait : pourquoi un ancrage commencerait-il à percevoir ?
+Je pose la question, je ne la tranche pas. Si l'inscription disait vrai, la distinction Lié/Délié ne serait pas une distinction de présence et d'absence mais une distinction de fonction. Et la question, alors, deviendrait : pourquoi un ancrage commencerait-il à percevoir ?
 
 La réponse que je me formule cette nuit, et qui me tient éveillé jusqu'à l'aube, est une hypothèse, pas une certitude : peut-être parce que le monde qu'il ancrerait tremblerait.
 
@@ -176,7 +188,7 @@ Le lendemain, j'interrogeai les prêtres de l'Ignis Aeternum dans le petit templ
 
 Il m'écouta avec la patience d'un homme qui a entendu beaucoup de choses extraordinaires et a appris à les peser sans les rejeter.
 
-Quand j'eus fini — la pulsation, mon statut de Délié, les inscriptions de Kharazir —, il ne dit rien pendant longtemps. Il regarda le feu sacré dans sa coupelle. Il dit enfin : *La Prophétie de la Grande Éruption parle des Porteurs de Feu Invisible. On a toujours interprété cela comme les Liés qui perçoivent sans être formés. Mais il y a une lecture différente.*
+Quand j'eus fini — la pulsation, mon statut de Délié, les inscriptions de Kharazir —, il ne dit rien pendant longtemps. Il regarda le feu sacré dans sa coupelle. Il dit enfin : *La Prophétie de la Grande Éruption parle des Porteurs de Feu Invisible. On a toujours interprété cela comme les Liés qui perçoivent sans être formés. Mais une autre explication existe.*
 
 Je lui demandai laquelle.
 
@@ -202,8 +214,8 @@ Si l'inscription de Kharazir dit vrai, le monde que j'ancrerais tremblerait. Si.
 
 Le battement du Mont Cendra continue — je le sens encore, plus diffus, atténué par la distance et par les murs de la chambre, mais là. Présent comme une évidence que je n'avais pas les mots pour formuler avant d'en faire l'expérience. Un rythme que mon corps connaît sans que mon esprit l'ait jamais appris.
 
-Ancrages du monde. Ce que le monde tient — selon la lecture des inscriptions.
+Ancrages du monde. Ce que le monde tient — dans les mots des inscriptions.
 
-Si les pulsations s'accélèrent — d'une fois par saison à une fois par semaine, et peut-être vers quelque chose de plus rapide encore — et si la lecture de Kharazir vaut quelque chose, alors la question que je me pose en cartographe n'est plus seulement ce qu'un homme sent. C'est ce que ceux qui auraient cette fonction — si fonction il y a — pourraient ou devraient faire si la trame qu'on les dit tenir commençait à se déchirer.
+Si les pulsations s'accélèrent — d'une fois par saison à une fois par semaine, et peut-être vers quelque chose de plus rapide encore — et si Kharazir disait vrai, alors la question que je me pose en cartographe n'est plus seulement ce qu'un homme sent. C'est ce que ceux qui auraient cette fonction — si fonction il y a — pourraient ou devraient faire si la trame qu'on les dit tenir commençait à se déchirer.
 
 Je n'ai pas de réponse. J'ai le battement dans la poitrine. Et j'ai cinq cents lieues encore avant Caeloria.

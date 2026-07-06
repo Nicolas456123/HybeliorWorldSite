@@ -55,7 +55,9 @@ La route de Yaltar à Trelios traverse Sarultam, une ville marchande que les gui
 
 Mais je veux noter ce que j'ai mangé ce soir-là, parce que c'est la première chose d'Altram qui m'a véritablement surpris.
 
-Dans la taverne de Sarultam — une salle basse dont le sol était la roche nue, les murs couverts d'outils de forge accrochés comme des décorations murales, et le plafond noirci de plusieurs siècles de fumée —, on me servit une assiette dont je ne sus identifier les éléments qu'après coup, par renseignement. Il y avait de la viande — un mouton, me dit-on, mais fumé d'une façon que je n'avais jamais rencontrée : fumé dans les forges elles-mêmes, exposé à la chaleur résiduelle des fourneaux pendant des jours, ce qui lui donnait un goût de métal chaud et de résine qui n'était pas désagréable mais qui demandait quelques bouchées pour s'y accoutumer. Il y avait du pain noir dense, légèrement amer, cuit dans la même chaleur résiduelle. Et il y avait une bière couleur de terre, brassée avec l'eau des sources de montagne, qui avait le goût d'un paysage plus que d'une boisson.
+Dans la taverne de Sarultam — une salle basse dont le sol était la roche nue, les murs couverts d'outils de forge accrochés comme des décorations murales, et le plafond noirci de plusieurs siècles de fumée —, on me servit une assiette dont je ne sus identifier les éléments qu'après coup, par renseignement.
+
+Il y avait de la viande — un mouton, me dit-on, mais fumé d'une façon que je n'avais jamais rencontrée : fumé dans les forges elles-mêmes, exposé à la chaleur résiduelle des fourneaux pendant des jours, ce qui lui donnait un goût de métal chaud et de résine qui n'était pas désagréable mais qui demandait quelques bouchées pour s'y accoutumer. Il y avait du pain noir dense, légèrement amer, cuit dans la même chaleur résiduelle. Et il y avait une bière couleur de terre, brassée avec l'eau des sources de montagne, qui avait le goût d'un paysage plus que d'une boisson.
 
 C'était de la nourriture faite dans des forges, par des gens qui passent leur vie entre le feu et le métal, et qui ne séparent pas leur cuisine de leur métier. Je trouvai cela profondément cohérent.
 
@@ -201,7 +203,11 @@ Je lui dis que oui.
 
 ---
 
-L'acier royal d'Altram — l'alliage d'exception qui avait rendu ce pays légendaire dans toute la sphère commerciale d'Hybelior, que les marchands de Solena évoquaient avec une révérence réservée d'ordinaire aux choses sacrées, que les forgerons de Valoria regardaient avec une concurrence respectueuse et une jalousie qu'ils auraient niée sous serment ; les seuls que les artisans d'Altram consentaient à nommer leurs égaux étaient ceux de Myrtam, l'autre royaume de forge, dont la légendaire lame unique, l'Acier Éternel de Myr le Fondeur, appartenait à un autre ordre de choses — une œuvre singulière que nul n'avait jamais reforgée, quand l'acier royal, lui, se coulait en série. Il était produit dans une section des forges de Martelios à laquelle on accédait par un couloir séparé, gardé non pas militairement mais par une porte de fer si lourde qu'elle requit l'effort de deux hommes pour s'ouvrir.
+L'acier royal d'Altram avait rendu le pays légendaire dans toute la sphère commerciale d'Hybelior. Les marchands de Solena l'évoquaient avec une révérence presque sacrée ; les forgerons de Valoria avec une jalousie qu'ils auraient niée sous serment.
+
+Les artisans d'Altram ne consentaient à nommer qu'un seul égal : Myrtam, l'autre royaume de forge, dont l'Acier Éternel de Myr le Fondeur appartenait à un autre ordre de choses. Une lame unique, jamais reforgée. L'acier royal, lui, se coulait en série.
+
+On le produisait dans une section séparée des forges de Martelios, derrière une porte de fer si lourde qu'elle requit l'effort de deux hommes pour s'ouvrir.
 
 Derrière la porte : une salle plus petite que les grandes nefs, mais plus dense dans sa chaleur, avec deux fourneaux d'un type que je n'avais pas vus dans le reste de la forge — plus hauts, plus larges, alimentés par un charbon différent que Davan appela « charbon de Liram, séché trois ans et traité à l'huile de pierre ». Cinq forgerons y travaillaient, silencieux, avec la concentration des gens qui font quelque chose qu'ils ne peuvent pas se permettre de rater.
 
@@ -214,6 +220,20 @@ Je frappai. Fort, avec la technique que j'avais apprise en Valoria en regardant 
 « La formule est conservée dans le Livre de Pierre du Conseil des Maîtres », dit Davan. « Gravée en triplicata sur des plaques séparées, stockées dans trois endroits différents. En cas de catastrophe — incendie, invasion, épidémie — au moins une des trois devrait survivre. »
 
 Je lui demandai combien de personnes connaissaient la formule complète.
+
+Davan posa sa main sur la plaque refroidie.
+
+— Assez pour que la formule survive, pas assez pour qu'elle devienne une marchandise.
+
+— C'est une ligne difficile à tenir.
+
+— Toutes les lignes importantes le sont.
+
+Il me regarda comme si ma remarque avait été une distraction inutile.
+
+— Vous venez d'un pays qui confisque les cartes, dit-il. Ici, on confisque les formules. Ne faites pas semblant de trouver cela plus étrange parce que le métal brille davantage que le papier.
+
+Je n'eus rien à répondre. Le bruit des marteaux remplissait la salle autour de nous, régulier, impitoyable. Davan avait raison : l'acier et les cartes, au fond, posaient la même question. Qui a le droit de savoir comment le monde tient ?
 
 « Quatre. Le roi. Le Premier Maître du Conseil. Moi. Et un autre que je ne nommerai pas. »
 

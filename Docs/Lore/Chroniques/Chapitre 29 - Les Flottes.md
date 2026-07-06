@@ -16,7 +16,9 @@ needs_review_for: []
 
 La mer me rend quelque chose que la terre m'avait pris.
 
-Je ne savais pas que je l'avais perdu — c'est la nature de certaines pertes, d'être invisibles jusqu'au moment du retour. Pendant cinquante jours depuis Cendara, depuis le basalte et la pulsation du Mont Cendra dans ma poitrine et l'enfant aux yeux blancs qui m'avait regardé dans les ruelles de Mylaris avec cette expression que je ne cesse de relire comme un texte dont je refuse de comprendre la langue, j'avais marché vers le nord sur des terres qui voulaient quelque chose de moi. Cendara voulait que je sente. Caeloria — les tours de glace de Duskoris, les observatoires, le Conclave que je n'avais pu approcher qu'à travers des intermédiaires prudents — Caeloria voulait que je lise les signes, que je m'inscrive dans une interprétation du monde qui laisse peu de place aux questions qui ne rentrent pas dans ses catégories. Chez les Caéloriens, on ne doute pas de la façon dont les étoiles parlent — on doute de sa propre capacité à les entendre. Là est la différence. Là est l'épuisement.
+Je ne savais pas que je l'avais perdu. Certaines pertes restent invisibles jusqu'au retour.
+
+Pendant cinquante jours depuis Cendara, j'avais marché sur des terres qui voulaient quelque chose de moi. Cendara voulait que je sente. Caeloria voulait que je lise les signes et que j'entre dans une interprétation déjà prête du monde. Chez les Caéloriens, on ne doute pas de la façon dont les étoiles parlent ; on doute de sa propre capacité à les entendre. Là est l'épuisement.
 
 La mer, elle, ne veut rien.
 
@@ -28,7 +30,9 @@ J'ai noté l'adverbe dans mon journal.
 
 Azoral est la première des trois républiques maritimes à apparaître à l'horizon, et elle apparaît comme toutes les villes bâties autour de l'ambition commerciale : de loin, elle promet ; de près, elle tient.
 
-La cité est construite sur deux îlots reliés par un triple pont de pierre blanche dont les arches sont si larges qu'on pourrait faire passer des navires dessous si les navires étaient moins hauts. Entre les deux îlots et de part et d'autre du pont, le port d'Azoral s'étend en arc de cercle — une organisation qui n'est pas venue d'un plan mais de deux siècles de nécessité accumulée, les quais poussant dans toutes les directions disponibles comme les racines d'un arbre qui cherche l'eau. Il y a des navires de toutes les nations que j'ai traversées et de plusieurs que je n'ai pas traversées encore. Des étendards de couleurs que je reconnais et d'autres que je ne reconnais pas. Un bruit de port que j'aurais pu confondre avec Hekorinth ou Valmora si ce n'était l'accent — les Azoriaux parlent un galenorien particulier, rapide, aux syllabes finales avalées, avec une façon de marquer l'emphase au milieu des mots plutôt qu'à la fin qui donne à chaque phrase l'impression d'être incomplète même quand elle est terminée.
+La cité est construite sur deux îlots reliés par un triple pont de pierre blanche. Autour, le port s'étend en arc de cercle, non comme un plan, mais comme deux siècles de nécessité accumulée : les quais ont poussé où ils pouvaient.
+
+Il y avait des navires de nations que je reconnaissais et d'autres pas encore. Des étendards, des cris, des cordages mouillés, des accents rapides. Les Azoriaux avalent les syllabes finales et marquent l'emphase au milieu des mots ; chaque phrase semble inachevée même quand elle vient de vous vendre quelque chose.
 
 Le capitaine du navire — un homme de Kethvar nommé Orrath, la cinquantaine large et prudente, avec des mains qui avaient visiblement passé plus d'heures sur les cordes que sur les registres — me fit signe depuis le château de poupe alors que nous approchions.
 
@@ -59,6 +63,14 @@ Il dit : *Cartographe ou espion ?*
 Je dis : *Cartographe.*
 
 Il dit : *C'est ce que dirait un espion.*
+
+*Un espion vend ce qu'il voit*, dis-je. *Un cartographe revient vérifier qu'il n'a pas menti sans le vouloir.*
+
+Tirven me regarda par-dessus le bord de son gobelet.
+
+*Ça, c'est ce que dirait un cartographe qui a déjà vendu quelque chose sans s'en rendre compte.*
+
+Je ne répondis pas. Il sourit à peine, comme un homme qui venait de marquer un point sans avoir besoin qu'on le lui accorde.
 
 Puis il commanda du vin et me parla, avec l'aisance des gens de mer pour qui l'échange d'information est une monnaie aussi courante que l'argent, des choses qu'il avait vues depuis quatre mois sur les routes d'Azoral et de Kethvar.
 
@@ -120,7 +132,33 @@ L'Assemblée écouta. Elle délibéra. Elle conclut que des enquêtes seraient m
 
 Je demandai à un débardeur, plus loin, qui c'était. Il dit, en haussant l'épaule droite — le geste de Solmaris pour signaler que l'information n'est pas un secret mais qu'elle ne mérite pas de phrase complète : *Femme de Veldis. Le Saint-Marvin a pas reparu en septembre. Treize hommes. Elle a pas voulu qu'on l'inscrive aux registres de veuves du Conseil — ils paient une rente sur deux ans, après c'est fini, et après c'est elle qui a deux enfants. Elle préfère attendre.* Il ajouta, comme une précision : *Elle attend pas son mari. Elle attend que le Conseil change la loi. Ils la changeront pas.*
 
-Je passai. Je ne m'assis pas avec elle. Je n'avais rien à lui apporter qui ne fût déjà venu d'ailleurs ou ne dût passer par la voisine. Le garçon de six ans me regarda — pas avec hostilité, avec la curiosité usagée des enfants des ports qui ont vu plusieurs centaines d'étrangers descendre des passerelles et qui ont appris à les classer en deux catégories, celle qui s'arrête et celle qui ne s'arrête pas. Je relevais d'une catégorie. Cela aussi est un fait. Je le note pour avoir noté.
+Je passai.
+
+Puis je revins.
+
+Je ne sais pas pourquoi je revins, sinon que le garçon de six ans me regardait — pas avec hostilité, avec la curiosité usagée des enfants des ports qui ont vu plusieurs centaines d'étrangers descendre des passerelles et qui ont appris à les classer en deux catégories, celle qui s'arrête et celle qui ne s'arrête pas. J'avais déjà choisi ma catégorie. Quelque chose en moi refusa qu'elle soit si facile.
+
+Je m'accroupis à distance correcte.
+
+— Je peux m'asseoir ?
+
+La femme me regarda enfin. Ses yeux étaient secs. Ce détail me frappa plus que des larmes.
+
+— Vous êtes du Conseil ?
+
+— Non.
+
+— Alors vous ne pouvez rien.
+
+Elle ne le dit pas méchamment. Elle constatait une géographie du pouvoir.
+
+— Je peux écrire son nom, dis-je.
+
+Le garçon baissa les yeux vers les cordages. La femme resta immobile assez longtemps pour que je croie avoir mal fait. Puis elle dit :
+
+— Veldis Arven. Treize hommes avec lui. N'écrivez pas seulement le bateau. Les bateaux ont déjà des registres.
+
+Je notai les noms qu'elle put me donner. Pas tous. Elle ne les connaissait pas tous. Cela aussi était une pauvreté : mourir avec des hommes dont votre femme ne sait pas tous les noms.
 
 Je demandai à rencontrer l'un des naturalistes ce soir-là.
 
@@ -144,7 +182,9 @@ J'observai chez les marins — pendant ces quelques jours de port — quelque ch
 
 Mes trois jours à Azoral et deux jours chacun à Kethvar et Solmaris m'avaient offert quelque chose d'inattendu : du répit.
 
-Je sais que ce mot est étrange dans ce contexte, avec les poissons des abysses dans les filets et les courants qui hésitent et la chose que Marevath avait suivie depuis les profondeurs. Mais par rapport à Cendara — à la pulsation du Mont Cendra dans ma poitrine, à l'enfant aux yeux blancs qui m'avait regardé dans la ruelle de Mylaris avec cette expression que je n'arrive toujours pas à nommer autrement qu'en disant qu'il savait quelque chose et qu'il savait que je le savais, et qu'il a dit — il a dit quelque chose, et ce quelque chose m'accompagne —, par rapport à tout cela, les républiques marchandes d'Azoral avaient quelque chose de presque ordinaire. Pas normal — mais ordinaire. La façon dont les marchands parlent des anomalies comme de problèmes à résoudre. La façon dont les assureurs ajustent leurs primes. La façon dont les naturalistes préservent les spécimens.
+Je sais que ce mot est étrange dans ce contexte, avec les poissons des abysses dans les filets et les courants qui hésitent et la chose que Marevath avait suivie depuis les profondeurs. Mais par rapport à Cendara — à la pulsation du Mont Cendra dans ma poitrine, à l'enfant aux yeux blancs qui m'avait regardé dans la ruelle de Mylaris avec cette expression que je n'arrive toujours pas à nommer autrement qu'en disant qu'il savait quelque chose et qu'il savait que je le savais, et qu'il a dit — il a dit quelque chose, et ce quelque chose m'accompagne —, par rapport à tout cela, les républiques marchandes d'Azoral avaient quelque chose de presque ordinaire.
+
+Pas normal — mais ordinaire. La façon dont les marchands parlent des anomalies comme de problèmes à résoudre. La façon dont les assureurs ajustent leurs primes. La façon dont les naturalistes préservent les spécimens.
 
 Le monde humain continue de fonctionner. Il s'adapte. Il documente, il ajuste, il délibère.
 

@@ -128,7 +128,9 @@ Il dit : « Les tunnels souterrains de Galdryn. Vous les connaissez ? »
 
 ---
 
-Je ne les connaissais pas, mais je les avais étudiés. Dans les archives des cartographes d'Evertia, j'avais relevé des mentions des réseaux souterrains d'Astravia — non pas dans les documents officiels, mais dans les marges des cartes géologiques du continent, ces griffonnages en petite écriture que les cartographes ajoutent quand ils savent quelque chose qui n'appartient pas à la carte officielle mais qui appartient à la vérité. Un réseau de tunnels sous Galdryn et sous la vallée d'Inverna. Des tunnels naturels en partie, élargis et cartographiés en partie, dont l'accès était strictement réglementé par les mineurs-archivistes de la cité. Et plus loin dans les marges, une note d'une écriture différente — une écriture plus ancienne que le reste de la carte — mentionnant des tunnels qui s'enfonçaient plus loin que les mines d'aethérite, dans des niveaux que les mineurs n'avaient pas voulu explorer, dans des directions que les boussoles magiques refusaient d'indiquer.
+Je ne les connaissais pas, mais je les avais étudiés. Dans les archives des cartographes d'Evertia, j'avais trouvé des mentions des réseaux souterrains d'Astravia, non dans les documents officiels, mais dans les marges des cartes géologiques.
+
+Un réseau sous Galdryn et la vallée d'Inverna. Des tunnels naturels, élargis par endroits, strictement réglementés par les mineurs-archivistes. Et plus loin dans les marges, une note plus ancienne : des niveaux sous les mines d'aethérite, des directions que les boussoles magiques refusaient d'indiquer.
 
 J'avais noté cela. Je note tout. Et maintenant Varennis me parlait de Galdryn.
 
@@ -141,6 +143,16 @@ Il ne me dit pas pourquoi. Il me dit que les tunnels inférieurs de Galdryn mena
 Je lui demandai ce qu'il espérait que j'y trouverais.
 
 Il dit : « Je voudrais que vous regardiez simplement. Que vous décriviez ce que vous voyez. Je suis mage — je ne peux pas y aller. Et vous êtes cartographe. »
+
+Je dis : « Vous voulez mes yeux parce que les vôtres brûleraient là-dessous. »
+
+Varennis eut un sourire bref, sans joie.
+
+« Non. Parce que les miens mentiraient. Un mage voit d'abord par ses habitudes. Il cherche le flux, la trame, la résistance. Un Délié, peut-être, verra ce qui reste quand la magie se tait. »
+
+« Peut-être. »
+
+« C'est plus que ce que le Conseil possède. »
 
 Il ajouta, après un silence : « Et on m'a dit que vous portez une carte qui indique des choses que les cartes ordinaires n'indiquent pas. »
 
@@ -156,7 +168,11 @@ J'écrivis dans mon journal : *Galdryn demain. Le dessous encore.*
 
 ---
 
-La route de Galdryn prend une demi-journée depuis Invernis — une demi-journée à travers les gorges de la vallée d'Inverna, le long de la rivière qui descend des mines vers la ville basse et qui, au printemps, charrie des particules d'aethérite si fines qu'elles ne sont visibles que dans la lumière directe du matin, une poussière bleue suspendue dans le courant comme une promesse. Je marchai seul. Varennis avait ses raisons pour ne pas m'accompagner jusqu'à la cité minière — l'archimage dissident n'était pas le bienvenu à Galdryn, dont les mineurs-archivistes répondaient directement au Conseil plutôt qu'aux académiciens. Il m'avait donné un mot de passe pour le poste d'entrée, un nom que je devais mentionner, et ses instructions étaient brèves. Je trouvai l'accès aux niveaux inférieurs passé la troisième salle d'extraction, là où les chariots s'arrêtaient et où une porte de métal sans serrure attendait depuis au moins un siècle sans avoir été ouverte de mémoire vivante.
+La route de Galdryn prend une demi-journée depuis Invernis, le long de la rivière qui descend des mines vers la ville basse. Au printemps, elle charrie des particules d'aethérite si fines qu'on ne les voit que dans la lumière directe du matin : une poussière bleue suspendue dans le courant comme une promesse.
+
+Je marchai seul. Varennis n'était pas le bienvenu à Galdryn. Il m'avait donné un mot de passe, un nom à mentionner, et des instructions brèves.
+
+Je trouvai l'accès aux niveaux inférieurs passé la troisième salle d'extraction, là où les chariots s'arrêtaient et où une porte de métal sans serrure attendait depuis au moins un siècle.
 
 La porte n'avait pas de serrure parce qu'une serrure n'était pas ce qui la retenait fermée.
 

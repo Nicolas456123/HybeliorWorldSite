@@ -90,7 +90,7 @@ Je pris en notes aussi vite que mes mains le permirent. Ce que les récits disai
 
 Le chant d'en bas.
 
-Pas les esprits. Pas une divinité. Quelque chose d'antérieur, dans la cosmologie elarienne — quelque chose dont les esprits seraient peut-être une émanation, une expression en surface de ce qui chanterait depuis des profondeurs que les humains n'auraient jamais atteintes. C'est une lecture parmi d'autres ; les récits eux-mêmes ne tranchent pas. Et ce qu'on appelle l'Arrachement — événement que les récits ne décrivent pas clairement, par traumatisme transmis ou par déformation de la mémoire même des Gardiens — aurait rompu quelque chose dans ce chant. Pas arrêté. Rompu — comme on rompt un os, avec la possibilité que ça repousse, mais pas de la même façon. Telle est la lecture des Gardiens. Je la note comme telle.
+Pas les esprits. Pas une divinité. Quelque chose d'antérieur, dans la cosmologie elarienne — quelque chose dont les esprits seraient peut-être une émanation, une expression en surface de ce qui chanterait depuis des profondeurs que les humains n'auraient jamais atteintes. Les récits eux-mêmes ne tranchent pas. Et ce qu'on appelle l'Arrachement — événement qu'ils ne décrivent pas clairement, par traumatisme transmis ou par déformation de la mémoire même des Gardiens — aurait rompu quelque chose dans ce chant. Pas arrêté. Rompu — comme on rompt un os, avec la possibilité que ça repousse, mais pas de la même façon. C'est ainsi que les Gardiens le transmettent.
 
 Brynar dit, en sortant des récits pour me parler en son propre nom — un geste rare, je le sentis à la façon dont sa voix changeait de registre : « Les Gardiens pensent depuis des générations que le chant d'en bas recommencera. Qu'il cherche sa propre façon de reprendre depuis là où ils croient qu'il a été rompu. »
 
@@ -208,6 +208,18 @@ Elle dit cela sans mysticisme — avec la précision d'une praticienne qui a dé
 
 Je lui dis qu'elle pointait vers Evertia.
 
+Myrla ne toucha pas la Carte. Elle avança seulement deux doigts, les arrêta à quelques centimètres du bord, puis les retira comme on retire la main d'une plaie qui n'a pas été lavée.
+
+« Elle vous fatigue », dit-elle.
+
+Je répondis que le voyage me fatiguait.
+
+« Non. Pas le voyage. Elle. Vous la portez comme un malade porte sa fièvre : en prétendant que c'est seulement de la chaleur. »
+
+Je n'eus pas de phrase prête. C'était rare, et elle le vit.
+
+« Les choses vivantes doivent être écoutées », dit-elle. « Même quand elles ne parlent pas dans une langue pratique. »
+
 Elle dit : « Evertia. » Pas une répétition — une note intérieure.
 
 Puis elle dit, sans lever les yeux de la Carte repliée sur ma cuisse : « Le Fléau me parle depuis six mois. Pas de la même façon. Il était dormant — comme endormi, et les chamans avaient appris à travailler autour du dormant. Depuis six mois, il rêve. Un Fléau qui rêve n'est plus la même chose qu'un Fléau qui dort. »
@@ -284,15 +296,15 @@ La Carte du Silence était chaude contre ma poitrine. Plus chaude que d'habitude
 
 Je note ceci ce soir, au bord de la route qui descend vers les plaines de Celethor, avec Evertia quelque part au-delà de la mer que je dois encore traverser.
 
-Ce que je crois pouvoir noter, et que je ne savais pas au départ de Celethor — étant entendu qu'il s'agit de mes lectures :
+Ce que je crois pouvoir noter, et que je ne savais pas au départ de Celethor :
 
 *Sous la roche d'Astravia, j'ai vu une marque. Sa parenté avec la Carte du Silence est ce que mon œil y lit.*
 
-*Dans les récits d'Elarian, une mémoire transmise depuis ce que leurs Gardiens ont nommé l'avant-Arrachement : le chant d'en bas. Une cosmologie qui suppose quelque chose d'antérieur aux esprits — c'est leur lecture, pas la mienne.*
+*Dans les récits d'Elarian, une mémoire transmise depuis ce que leurs Gardiens ont nommé l'avant-Arrachement : le chant d'en bas. Une cosmologie qui suppose quelque chose d'antérieur aux esprits — formulation des Gardiens, pas la mienne.*
 
 *À Ryldor, on me dit que le Fléau rêve. Et Myrla, immunisée au Fléau, dit entendre quelque chose que personne d'autre n'entend.*
 
-*Ces trois choses se ressemblent, à mon œil, depuis des endroits différents. Que ce soient « la même chose » est ma lecture.*
+*Ces trois choses se ressemblent, à mon œil, depuis des endroits différents. Qu'elles désignent « la même chose » reste mon interprétation.*
 
 Et ce que j'ai appris, non pas comme donnée mais comme compréhension — ce glissement d'une information vers quelque chose qui change la façon de regarder tout le reste :
 

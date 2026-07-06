@@ -22,11 +22,11 @@ Mais à deux lieues de Thalmaris, quelque chose traversa le fond sonore du navir
 
 L'un des matelots de quart m'avait vu me lever du banc où j'étais assis et regarder vers la côte. Il dit, sans que je lui eusse rien demandé : *C'est le Cantus Mundi. Le premier Canteur de la journée. Il y en a un à l'aube, un à midi, un au coucher du soleil. Si le vent porte, on les entend parfois à cinq lieues.*
 
-Je demandai pourquoi.
+*Pourquoi ?*
 
-Il réfléchit — non pas parce que la réponse était complexe, mais parce qu'il cherchait comment expliquer quelque chose d'évident à quelqu'un qui ne le savait pas encore. *Pour que les choses se souviennent d'elles-mêmes*, dit-il enfin. *C'est ce que les gens de Thalmaris disent. Le chant rappelle aux choses ce qu'elles sont. Les arbres, les pierres, la mer. Tout.*
+Il réfléchit — non pas parce que la réponse était complexe, mais parce qu'il cherchait comment expliquer une évidence à quelqu'un qui ne la possédait pas encore. *Pour que les choses se souviennent d'elles-mêmes*, dit-il enfin. *Le chant rappelle aux choses ce qu'elles sont. Les arbres, les pierres, la mer. Tout.*
 
-Je notai cette formulation. Elle me parut moins naïve que je ne l'aurais trouvée deux mois plus tôt. Je laissai au matelot le mot *évidente* qui m'était venu à l'esprit, et je le rangeai à côté de plusieurs autres mots qui m'étaient venus de la même façon ces dernières semaines, depuis Evertia : pour eux, simples ; pour moi, encore à ranger.
+Deux mois plus tôt, j'aurais trouvé la formule naïve. Depuis Evertia, je rangeais ce genre d'évidence avec plus de soin.
 
 ---
 
@@ -54,7 +54,7 @@ Huit personnes autour d'une longue table — des Canteurs et des compositeurs de
 
 Le premier fil : le Cantus Mundi comme pratique était plus ancien que Thalmaris. Les origines documentées remontaient à une époque pré-monarchique, à des communautés dont les archives étaient incomplètes mais qui semblaient avoir développé le chant rituel comme une réponse à quelque chose — pas comme un art, d'abord, mais comme une nécessité. Les Canteurs de la période ancienne n'étaient pas des artistes. Ils étaient des gardiens.
 
-Je demandai de quoi.
+*Gardiens de quoi ?*
 
 Le plus vieux des Canteurs présents — un homme que ses collègues appelaient Voix-de-Pierre, titre honorifique accordé aux Canteurs dont la voix avait traversé quarante ans de pratique — dit : *Du lien entre ce qui est conscient et ce qui ne l'est pas. Les choses inanimées — les pierres, l'eau, l'air — ont des fréquences propres. Le Cantus Mundi les reconnaît et les renforce. Ce n'est pas de la magie comme les Liés la comprennent. C'est une acoustique de la réalité. Les fréquences qui maintiennent les choses dans leur nature. Si ces fréquences s'affaiblissent, les choses commencent à... hésiter.*
 
@@ -67,6 +67,16 @@ Le second fil, qui surgit ensuite, était plus concret et plus troublant : les C
 *Vous êtes musiciens*, dis-je. *Vous entendez ce que les autres n'entendent pas.*
 
 *Oui*, dit la Maîtresse Orvenne. *Et ce que nous entendons depuis dix-huit mois, c'est que quelque chose sous nos pieds n'est plus tout à fait à sa place.*
+
+Voix-de-Pierre posa sa main sur la table, paume ouverte.
+
+*Quand une note glisse*, dit-il, *un mauvais chanteur chante plus fort. Un bon chanteur écoute où elle veut tomber.*
+
+*Et si elle veut tomber trop bas ?*
+
+Il leva les yeux vers moi.
+
+*Alors il faut descendre avec elle assez loin pour la retenir. Pas assez loin pour se perdre.*
 
 ---
 
@@ -122,15 +132,19 @@ Il y avait une part de calcul dans la phrase et il ne s'en cachait pas. Je le no
 
 Il dit : *Un an. Plus. Ça change le rendement — on tire plus mais ça donne moins de propriétés. La guilde a baissé le prix qu'elle nous achète au baril, parce que les guérisseurs payent moins cher pour de l'amer. Mais ils nous demandent toujours autant de barils. Donc on saigne plus d'arbres. Le Maître Voix dit que l'arbre change.* Il haussa l'épaule. *L'arbre change peut-être. Nous, on saigne plus.*
 
-Je dis que je n'écrivais pas pour la guilde. Que mon journal ne lirait peut-être personne avant longtemps.
+Je dis que je n'écrivais pas pour la guilde. Que mon journal ne serait peut-être lu par personne avant longtemps.
 
 Il dit : *Tant pis. Vous l'écrirez quand même.*
 
-Je lui dis que oui. Je ne lui demandai pas s'il croyait à ce que disait Voix-de-Pierre sur l'arbre — je n'avais pas le droit de demander à un homme dont les mains étaient noires depuis vingt ans s'il pensait que son métier était sacré. La question m'aurait fait honte avant lui. Il retourna à sa cuve. Je continuai vers la capitale. Je notai ce qu'il avait demandé que je notasse : cinq pour douze. Je ne sais pas si c'est juste. Je sais que je le note.
+Je lui dis que oui.
+
+Je ne lui demandai pas s'il croyait à ce que disait Voix-de-Pierre sur l'arbre. Je n'avais pas le droit de demander à un homme dont les mains étaient noires depuis vingt ans s'il pensait que son métier était sacré. La question m'aurait fait honte avant lui.
+
+Il retourna à sa cuve. Je continuai vers la capitale avec sa phrase dans la poche : cinq pour douze. Je ne sais pas si c'est juste. Je sais que je l'ai écrit.
 
 Je ne suis pas druide. Je n'ai pas de pratique du Cantus. Je n'avais aucune raison théorique de percevoir quoi que ce soit que le contact ordinaire d'une main sur de l'écorce ne transmettrait pas. C'est ce que je me dis en posant la main — une précaution mentale, une façon de rester cartographe.
 
-Puis je fermai les yeux, parce que c'est ce que font les druides et les Canteurs et peut-être parce que la lumière filtrée de la forêt se laissait mieux porter les yeux clos.
+Puis je fermai les yeux, parce que c'est ce que font les druides et les Canteurs, et parce que la lumière filtrée de la forêt se laissait mieux porter ainsi.
 
 La vibration était là.
 
@@ -164,7 +178,9 @@ J'assistai à la session du coucher du soleil — le Cantus Mundi du soir, dans 
 
 Pendant vingt minutes, j'écoutai.
 
-Puis Voix-de-Pierre changea le registre. Descendit. Une note plus grave que ce qu'il avait tenu jusque-là, et les autres Canteurs le suivirent avec une seconde de délai — de stupeur, peut-être, ou d'évaluation — puis ils suivirent. La salle changea de qualité sonore. Le grave emplit l'espace différemment. Et les murs de la salle — de pierre, construits selon une acoustique délibérément réfléchissante — renvoyèrent cette note d'une façon que les notes plus hautes n'avaient pas faite.
+Puis Voix-de-Pierre changea de registre. Il descendit. Une note plus grave que toutes celles qu'il avait tenues jusque-là.
+
+Les autres Canteurs eurent une seconde de retard, puis le suivirent. La salle changea de qualité sonore. Le grave emplit l'espace autrement. Et les murs — de pierre, construits pour réfléchir le son — répondirent comme ils n'avaient répondu à aucune note plus haute.
 
 Ce n'était pas uniquement la réflexion. Les murs chantaient.
 
@@ -188,9 +204,9 @@ Il prit le temps d'une réponse honnête. *Ce n'est pas bon ni mauvais comme une
 
 *Mais est-ce que ça suffit ?*
 
-Il ne répondit pas directement. Il dit : *Les artistes de Thalmaris créent depuis dix-huit mois des œuvres qui ressemblent à des questions. De grandes questions. Des questions qui ne trouvent pas leur résolution dans les formes musicales existantes. Peut-être que la résolution existe — peut-être qu'elle vient de quelque part que nous ne connaissons pas encore. Peut-être que la musique que nous écrivons maintenant est une lettre, et que la réponse n'est pas encore arrivée.*
+Il ne répondit pas directement. Il dit : *Les artistes de Thalmaris créent depuis dix-huit mois des œuvres qui ressemblent à des questions. De grandes questions, trop larges pour les formes musicales existantes. La résolution existe peut-être, mais elle vient de quelque part que nous ne connaissons pas encore. Peut-être que notre musique est une lettre, et que la réponse n'est pas arrivée.*
 
-Je pensai à mon propre journal. À ces six cent cinquante-cinq jours de notes qui ressemblaient de plus en plus à une question posée par fragments, une question dont j'assemblais les mots depuis le début sans en voir encore la forme complète.
+Mon propre journal me revint en tête : six cent cinquante-cinq jours de notes, une question posée par fragments, dont j'assemblais les mots depuis le début sans en voir encore la forme complète.
 
 *Une lettre*, répétai-je.
 
@@ -204,13 +220,17 @@ La mer entre Evertia et l'archipel d'Ulinor est large et peu fréquentée — le
 
 Je passai la traversée à relire mes notes de Thalenvir.
 
-Je marchai sur le pont sans cahier, plusieurs fois par jour. Je ne notais rien pendant ces marches. Je regardais l'eau, le bois, la couture des voiles. C'était une économie nouvelle, ou retrouvée — la mémoire du Sorin de Ventera, peut-être, qui pendant trois jours n'avait pas eu besoin d'inscrire ce qu'il voyait. Je ne tirais pas de leçon de ce silence. Je notais simplement, après coup, qu'il y avait eu silence, et qu'il avait été supportable.
+Je marchai sur le pont sans cahier, plusieurs fois par jour. Je regardais l'eau, le bois, la couture des voiles. C'était une économie nouvelle, ou retrouvée — la mémoire du Sorin de Ventera, peut-être, qui pendant trois jours n'avait pas eu besoin d'inscrire ce qu'il voyait.
+
+Je ne tirais pas de leçon de ce silence. Je constatai seulement qu'il avait été supportable.
 
 La sève amère de Sylvara. La note que Voix-de-Pierre avait trouvée, la fréquence propre de la terre qui commençait à vibrer. Les compositions des artistes de Thalmaris qui débordaient de leurs formes comme des questions trop grandes pour leurs contenants.
 
 Et la phrase de la compositrice : *toujours d'en bas*. Les plus belles choses et les plus terribles viennent d'en bas.
 
-Je pensai à ce que l'Aînée d'Evertia m'avait dit du Vael'Ur — l'Avant-Esprit, ce qui précède les esprits, ce dont les esprits seraient la surface, selon sa propre lecture. Si je suivais sa formulation — et je ne pouvais que la suivre, n'ayant pas d'autre cadre pour penser ce que j'avais perçu —, alors les esprits se taisaient comme on se tait quand on écoute, et les fréquences que les Canteurs notaient n'étaient peut-être pas l'œuvre d'une entité unique mais la lecture d'une couche que d'autres lectures nommeraient autrement. Je consignai cette possibilité comme telle : la mienne, héritée d'une autre, à confronter à ce que j'entendrais ailleurs.
+Je revins au Vael'Ur de l'Aînée d'Evertia — l'Avant-Esprit, ce qui précède les esprits, ce dont les esprits seraient la surface. Si je suivais sa formulation, les esprits ne se taisaient peut-être pas comme on disparaît. Ils se taisaient comme on écoute.
+
+Les fréquences des Canteurs n'étaient peut-être pas l'œuvre d'une entité unique, mais la perception d'une couche que chaque tradition nommait autrement. C'était ma possibilité du moment, héritée d'une autre, à confronter à ce que j'entendrais ailleurs.
 
 *Ils arrivent par le dessous.* Pluriel, encore — selon les mots qu'on m'avait laissés.
 

@@ -18,7 +18,13 @@ Le froid de Noravia n'est pas le même que celui du continent.
 
 Je l'ai su dès le matin de mon débarquement, quand le vent venu de l'intérieur des terres m'a trouvé sur le quai et m'a traversé d'une façon qui n'avait rien à voir avec la température. Ce n'était pas un froid qui pince ou qui brûle — c'était un froid qui renseigne. Il portait quelque chose dedans. Une information que les os enregistrent avant que le cerveau ne la formule. J'ai posé mon sac sur les planches gelées et je suis resté immobile un long moment, à laisser cette information s'installer, avant même de lever les yeux sur la ville.
 
-Noravia est une anomalie. Quelques centaines d'âmes — Altram et Skaldoriens mêlés, une proportion que je n'avais vue nulle part ailleurs dans mes huit cents jours de voyage, deux cultures qui se frottent l'une à l'autre avec la friction douce et persistante des galets dans un lit de rivière. La ville s'est construite sur une côte qui n'aurait jamais dû être habitée, dans un espace que le continent tolérait plutôt qu'il n'accueillait — une frange de roche exposée entre la mer et les premières formations glaciaires, suffisamment large pour des maisons et des entrepôts, insuffisamment pour des illusions de permanence. On le voyait dans l'architecture : aucun bâtiment ne dépassait deux étages, tous les toits étaient en pente brutale pour ne pas retenir la neige, toutes les fondations étaient ancrées dans la roche plutôt que dans la terre — on avait accepté d'avance l'idée que Cestra reprendrait ce qu'on lui avait emprunté, et on avait bâti en conséquence.
+Noravia est une anomalie.
+
+Quelques centaines d'âmes : Altram et Skaldoriens mêlés, deux cultures se frottant l'une à l'autre avec la friction douce et persistante des galets dans un lit de rivière.
+
+La ville s'est construite sur une côte qui n'aurait jamais dû être habitée, une frange de roche exposée entre la mer et les premières formations glaciaires. Assez large pour des maisons et des entrepôts. Pas assez pour des illusions de permanence.
+
+On le voyait dans l'architecture : aucun bâtiment au-dessus de deux étages, des toits en pente brutale, des fondations ancrées dans la roche. Cestra reprendrait un jour ce qu'on lui avait emprunté. Noravia avait bâti en conséquence.
 
 Le port était petit mais bien tenu. Des pêcheurs altram déchargeaient des filets d'une espèce de poisson argenté que je ne savais pas nommer, manœuvrant avec la précision silencieuse des gens qui travaillent dans le froid depuis l'enfance. Sur le quai, des marchands skaldoriens négociaient avec des coureurs en fourrures, leur respiration formant des nuages blancs qui se mêlaient et se séparaient au-dessus de leurs têtes comme une conversation visible. J'entendais les deux langues se superposer, non pas en conflit mais en contrepoint — la cadence rythmée de l'altram, plus percussive, et le liant grave du skaldorien qui court entre les consonnes comme de l'eau entre des pierres.
 
@@ -83,6 +89,12 @@ Borela a pris le temps de répondre. Le genre de temps qui signifie qu'on cherch
 Elle a marqué une pause.
 
 *« Je ne l'ai pas revu partir. Le matin, il n'était plus là. Je ne sais pas s'il est revenu de là-bas ou s'il est passé à travers. »*
+
+*« Vous auriez pu me le dire avant de me vendre les boussoles, »* dis-je.
+
+Borela haussa une épaule.
+
+*« Avant, vous étiez un client. Maintenant, vous êtes peut-être son fils. Ce n'est pas le même prix. »*
 
 Je n'ai pas demandé ce qu'elle entendait par *à travers*. Je n'étais pas sûr de vouloir le savoir ce matin-là.
 

@@ -78,7 +78,11 @@ J'avais répondu correctement. Il avait hoché la tête, et quelque chose s'éta
 
 Il m'avait offert un siège et une infusion — une herbe de Ryldorath, légèrement amère, qui laissait une chaleur persistante dans la gorge. Pendant deux heures, nous avions parlé cartographie, routes maritimes, méthodes de relevé. Je lui avais décrit certaines de mes cartes de Kharazir — non pas les cartes elles-mêmes, dont j'avais perdu l'accès, mais leur contenu, certaines mesures, certaines observations sur les courants lacustres du Grand Lac d'Umarisar. Il écoutait en prenant des notes brèves sur un carnet de cuir, et je savais que ces notes allaient alimenter quelque chose d'utile pour lui. Je n'en tirais rien de tangible. Mais j'apprenais à parler à un Tyndarien, ce qui avait sa valeur propre.
 
-Je note ici une chose qui m'a paru importante sur le moment et qui l'est moins en y revenant. Pendant ces deux heures, je me suis pris à penser que Maldrix pourrait être quelqu'un — un cartographe qui me comprendrait, un homme âgé qui me donnerait des conseils, l'aîné professionnel que je n'avais pas eu à Kharazir parce que mes supérieurs y étaient mes geôliers en puissance. Cette pensée a duré peut-être une demi-heure. Maldrix l'a écartée sans la nommer en se levant pour aller chercher un autre dossier, et en revenant en disant "je dois reprendre, j'ai un client à quatre heures". Le mot client a fait le travail. Il n'y avait pas d'aîné à trouver dans ce comptoir. Il y avait un homme qui faisait son métier et qui acceptait de m'en faire bénéficier dans la mesure exacte où cela alimentait le sien. C'est une leçon utile à apprendre, et qui ne sera utile que si je m'en souviens — ce dont je doute, à ce stade, parce que la tentation de rétablir un mentor là où je n'en ai pas est plus forte que mon scepticisme.
+Pendant ces deux heures, je me suis pris à penser que Maldrix pourrait être quelqu'un : un cartographe qui me comprendrait, un aîné professionnel, l'homme que je n'avais pas eu à Kharazir.
+
+Cette pensée dura peut-être une demi-heure. Maldrix l'écarta sans la nommer en se levant pour aller chercher un autre dossier. À son retour, il dit : « Je dois reprendre, j'ai un client à quatre heures. »
+
+Le mot *client* fit le travail. Il n'y avait pas d'aîné dans ce comptoir. Il y avait un homme qui faisait son métier et acceptait de m'en faire bénéficier dans la mesure exacte où cela alimentait le sien.
 
 C'est lui qui avait mentionné la Catena Fracta, le Jour 74.
 
@@ -164,7 +168,9 @@ Le repas le plus singulier que j'aie fait depuis Kharazir m'a été offert le Jo
 
 C'était un repas tyndarien dans toute son étendue — c'est-à-dire un repas qui est aussi une démonstration. Pas une démonstration de richesse, précisément, mais une démonstration de connexions : chaque plat venait d'un endroit différent du réseau commercial de Tyndara, et Maldrix le mentionnait avec la désinvolture de quelqu'un qui sait que cette désinvolture est calculée.
 
-Le poisson grillé venait d'Eryndoris — les meilleurs poissons d'Onara, dont les pêcheurs avaient refusé la piraterie quand tout le monde autour d'eux la pratiquait, et dont la réputation de fiabilité valait maintenant plus que leurs prises. La sauce aux herbes était de Ryldorath, de ces immigrants qui avaient apporté leurs techniques horticoles d'un autre pays et produit des épices que personne d'autre n'arrivait à reproduire. Le vin était de Celnaris — ce vin blanc sec que j'avais maintenant bu plusieurs fois et dont je commençais à apprécier la façon dont le minéral tenait jusqu'à la fin de la bouche. Et le pain était local, de Portharis même, mais cuit avec du sel de Galdor, le village des marais salants de Ralmeria dont le sel avait, m'avait expliqué Maldrix sans ironie apparente, détruit le marché de tous les sauniers concurrents d'Onara par sa seule abondance.
+Le poisson grillé venait d'Eryndoris — les meilleurs poissons d'Onara, dont les pêcheurs avaient refusé la piraterie quand tout le monde autour d'eux la pratiquait, et dont la réputation de fiabilité valait maintenant plus que leurs prises. La sauce aux herbes était de Ryldorath, de ces immigrants qui avaient apporté leurs techniques horticoles d'un autre pays et produit des épices que personne d'autre n'arrivait à reproduire.
+
+Le vin était de Celnaris — ce vin blanc sec que j'avais maintenant bu plusieurs fois et dont je commençais à apprécier la façon dont le minéral tenait jusqu'à la fin de la bouche. Et le pain était local, de Portharis même, mais cuit avec du sel de Galdor, le village des marais salants de Ralmeria dont le sel avait, m'avait expliqué Maldrix sans ironie apparente, détruit le marché de tous les sauniers concurrents d'Onara par sa seule abondance.
 
 Nous avions mangé avec une troisième personne — une femme que Maldrix m'avait présentée simplement comme Veln, sans titre, sans qualificatif. Petite, vive, avec des mains constamment en mouvement et les yeux de quelqu'un qui pratique l'écoute comme d'autres pratiquent le combat. Elle était de la Guilde des Textes — non pas des textes littéraires, avait-elle précisé quand j'avais posé la question, mais des textes commerciaux : contrats, relevés de comptes, correspondances diplomatiques. Elle copiait, traduisait, analysait. Elle savait lire treize langues.
 
@@ -215,6 +221,22 @@ J'avais regardé le petit Dris ranger ma pièce dans une poche cousue à l'inté
 — Qui te paie pour savoir ces choses ? avais-je demandé.
 
 — Tout le monde me les dit, avait-il répondu. Personne ne sait que tout le monde me les dit. C'est pour ça que c'est un bon métier.
+
+Il avait déjà fait trois pas quand il se retourna.
+
+— Toi aussi, tu vends quelque chose.
+
+— Je ne vends rien.
+
+Il haussa les épaules avec une lassitude d'adulte mal portée par un corps d'enfant.
+
+— Tout le monde vend quelque chose ici. Ceux qui disent le contraire vendent juste moins bien.
+
+— Et qu'est-ce que je vends, selon toi ?
+
+Dris me regarda, puis regarda mon carnet.
+
+— Ce que tu as vu. Mais tu ne connais pas encore le prix.
 
 Il était reparti, courant, vers le prochain client.
 

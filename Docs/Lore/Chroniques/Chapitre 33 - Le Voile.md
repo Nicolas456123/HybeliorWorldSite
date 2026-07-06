@@ -16,7 +16,9 @@ needs_review_for: []
 
 Il y a des seuils que l'on n'identifie qu'après les avoir franchis.
 
-Je suis entré à Vytharia une deuxième fois depuis l'autre côté de la mer — non pas par la route de Lythar et les steppes ouvertes, mais par le port de Nectoria qui accueille les navires du nord avec cette hospitalité calculée des villes qui ont besoin des étrangers sans vouloir les laisser rester. J'avais embarqué à Celtaris vingt-deux jours plus tôt, après les Plaines de Mirondal où les voix d'Ulinor m'avaient laissé une formulation que je n'avais pas encore eu le temps d'absorber entièrement — celle d'un rythme plus ancien que les nations actuelles, plus ancien que les noms que nous donnons à ce que nous craignons. Leur récit en faisait quelque chose qui précédait l'Arrachement, et leur lecture posait des dates que je n'avais aucun moyen de vérifier. Je notai la formulation dans mon journal comme on pose un objet trop lourd sur une table : avec soulagement, en sachant qu'il faudra le reprendre — et en sachant aussi que je la tenais d'eux, pas de mes propres yeux.
+Je suis entré à Vytharia une deuxième fois depuis l'autre côté de la mer : par le port de Nectoria, avec son hospitalité calculée de ville qui a besoin des étrangers sans vouloir les garder.
+
+J'avais embarqué à Celtaris vingt-deux jours plus tôt, après les Plaines de Mirondal. Les voix d'Ulinor m'avaient laissé une formulation encore trop lourde pour moi : un rythme plus ancien que les nations actuelles, plus ancien que les noms donnés à nos peurs. Leur lecture précédait l'Arrachement. Je la notai comme telle : une lecture reçue, pas une preuve vue de mes yeux.
 
 La mer entre Celtaris et Nectoria fut calme de cette façon que les marins haldriens appellent « la calme mentante » — pas d'agitation de surface, mais une houle longue et profonde qui indique quelque chose qui bouge loin dessous. Je passai les nuits sur le pont plutôt que dans la cale. Je dormis peu. Je regardai les étoiles — toujours légèrement décalées depuis les mesures de Haldria, le déplacement maintenant suffisant pour qu'un observateur ordinaire commence à le remarquer sans pouvoir en nommer la cause.
 
@@ -38,7 +40,11 @@ Mirathi elle-même est petite pour ce qu'elle contient. Un village de moins de m
 
 J'attendis trois jours avant d'être reçu.
 
-Ce n'était pas de la bureaucratie. C'était de la préparation — les Oracles de Mirathi ne voient pas les gens avant de les avoir rêvés, et le rêve a ses propres horaires. On m'installa dans une chambre d'hôte au bord du village. Je mangeai ce qu'on m'apporta — du pain de montagne et une soupe de légumes racines que la cuisinière, une vieille femme muette comme par choix, relevait d'un sel d'herbes qui n'existait nulle part ailleurs et dont je ne trouvai jamais le nom. Je me promenai dans les rues étroites et je laissai le Voile faire ce qu'il voulait de ma perception. Je dormis beaucoup, ce qui était inhabituel pour moi, et mes rêves furent d'une densité que je notai au réveil mais que les mots réduisaient inévitablement : des tunnels, des lumières pulsantes, quelque chose d'enfoui qui n'était pas encore mort mais qui n'était pas encore réveillé non plus, suspendu entre les deux états dans un équilibre qui durait depuis plus longtemps que mes outils de mesure pouvaient le dater.
+Ce n'était pas de la bureaucratie. C'était de la préparation : les Oracles de Mirathi ne voient pas les gens avant de les avoir rêvés, et le rêve a ses propres horaires.
+
+On m'installa dans une chambre d'hôte au bord du village. Je mangeai du pain de montagne et une soupe de racines relevée d'un sel d'herbes dont je ne trouvai jamais le nom. Je me promenai dans les rues étroites et je laissai le Voile faire ce qu'il voulait de ma perception.
+
+Je dormis beaucoup, ce qui était inhabituel pour moi. Mes rêves furent d'une densité que les mots réduisaient : tunnels, lumières pulsantes, chose enfouie qui n'était pas morte et pas encore réveillée.
 
 ---
 
@@ -60,7 +66,11 @@ Elle dit : « Ce que vous avez senti n'était pas la montagne. C'était ce qu'il
 
 Je notai cela. Je notai le ton — pas dramatique, pas destiné à impressionner. Le ton d'un médecin qui annonce un résultat d'examen à un patient dont le cas est connu.
 
-Elle me parla ensuite du Cœur de Cendra dans ses visions. Non pas comme d'une légende — les Oracles de Mirathi disent qu'ils n'ont pas de légendes, qu'ils ont des données ; je notai la prétention sans la trancher. Le Cœur, dans son récit, comme structure. Quelque chose ayant un cycle, une période, une régularité qu'elle ne formulait pas en métaphores. Elle utilisait des termes que l'assistant peina à traduire : des mots qui n'avaient pas d'équivalent en galenorien parce que le galenorien, disait-elle, n'avait pas développé le vocabulaire de ce qu'elle décrivait. Des cycles qu'elle situait avant l'Arrachement. Un rythme qu'elle disait plus ancien que la cartographie. Une chose qui respirait, dans son image, à une fréquence que nous ne percevions pas directement mais dont elle reliait les harmoniques aux anomalies que les voyageurs lui rapportaient — étoiles décalées, chevaux qui refusent les creux, esprits qui se taisent, sève qui change. C'était sa lecture. Je la consignai sous son nom.
+Elle me parla ensuite du Cœur de Cendra dans ses visions. Pas comme d'une légende. Comme d'une structure.
+
+Le Cœur, disait-elle, avait un cycle. Une période. Une régularité antérieure à l'Arrachement. L'assistant peina à traduire plusieurs termes ; le galenorien n'avait pas, selon elle, le vocabulaire de ce qu'elle décrivait.
+
+Elle reliait ce rythme aux anomalies rapportées par les voyageurs : étoiles décalées, chevaux qui refusent les creux, esprits qui se taisent, sève qui change. C'était sa lecture. Je la consignai sous son nom.
 
 Je demandai combien de temps durait le cycle.
 
@@ -81,6 +91,14 @@ Ce n'est pas l'Oracle qui me l'apprit — ce fut l'assistant, un jeune homme d'u
 Je lui demandai ce qu'il voulait en échange.
 
 Il dit : rien. Il dit cela avec une franchise qui n'était pas désintéressée — il voulait quelque chose, mais ce qu'il voulait était plus difficile à nommer qu'un prix : il voulait que quelqu'un qui comprenait regarde cette copie. Il m'avait écouté pendant la consultation, derrière la porte, et avait conclu que j'étais ce quelqu'un-là.
+
+« Si je me trompe ? » demandai-je.
+
+Il eut un mouvement d'épaule presque imperceptible.
+
+« Alors au moins quelqu'un d'autre se sera trompé avec méthode. Mon maître tourne seul autour de ces lignes depuis deux ans. Il ne dort plus. Je préfère une erreur partagée à une obsession qui pourrit dans une chambre. »
+
+Cela aussi était une forme de prix. Pas de l'argent : une responsabilité déposée entre mes mains avant même que j'aie vu le texte.
 
 Je le suivis.
 

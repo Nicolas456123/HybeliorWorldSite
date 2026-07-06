@@ -16,7 +16,9 @@ needs_review_for: []
 
 Lunaris m'avait donné quelque chose que je ne savais pas nommer avec certitude.
 
-J'y avais passé deux nuits, non une. La première parce que j'en avais besoin. La seconde parce que, après ce qui s'était passé la première nuit dans le canyon, je n'avais pas pu partir immédiatement — non par peur, mais par une nécessité de rester assis avec ce que j'avais senti et de ne pas me lever avant d'avoir compris la forme que ça prenait. La pulsation sous la roche du canyon de Lunaris était la même que celle d'Ordavan. Pas similaire — la même. Le même intervalle, la même profondeur de fréquence, la même qualité de chaleur résiduelle dans les pierres au toucher, une chaleur qui n'avait rien à voir avec la température de l'air ambiant. J'avais posé la main à plat sur le sol du canyon et j'avais senti Vey'thar battre dessous comme un cœur que personne n'avait ausculté depuis des siècles. Pas métaphoriquement — physiquement, dans la paume, dans les os du poignet.
+J'y avais passé deux nuits, non une. La première parce que j'en avais besoin. La seconde parce que, après ce qui s'était passé la première nuit dans le canyon, je n'avais pas pu partir immédiatement — non par peur, mais par une nécessité de rester assis avec ce que j'avais senti et de ne pas me lever avant d'avoir compris la forme que ça prenait.
+
+La pulsation sous la roche du canyon de Lunaris était la même que celle d'Ordavan. Pas similaire — la même. Le même intervalle, la même profondeur de fréquence, la même qualité de chaleur résiduelle dans les pierres au toucher, une chaleur qui n'avait rien à voir avec la température de l'air ambiant. J'avais posé la main à plat sur le sol du canyon et j'avais senti Vey'thar battre dessous comme un cœur que personne n'avait ausculté depuis des siècles. Pas métaphoriquement — physiquement, dans la paume, dans les os du poignet.
 
 Et j'avais su, dans ce moment-là, avec la certitude tranquille des choses qu'on perçoit plutôt qu'on raisonne, que ce n'était pas Vey'thar que je sentais.
 
@@ -137,6 +139,18 @@ Je m'assis. Le banc était de basalte poli, pas de rembourrage. Correct.
 Elle dit : « Kharazir. »
 
 Je confirmai. Je lui donnai les éléments de base — Délié, ex-cartographe de la Guilde, éjecté lors de la deuxième vague de purges, en voyage depuis trois cent soixante-quinze jours, passé par Gryndor et Drakora avant d'arriver ici.
+
+Mara ne baissa pas les yeux vers ma manche, comme tant d'autres l'avaient fait. Elle regarda mon visage.
+
+— Tu attends encore qu'on fasse une grimace, dit-elle.
+
+— C'est une habitude utile.
+
+— Non. C'était utile là-bas. Ici, ça te ralentira.
+
+Elle poussa vers moi une coupe d'eau tiède.
+
+— Bois. Et range cette partie de toi pour plus tard. Nous n'avons pas besoin que tu prouves que tu as été blessé. Nous avons besoin de savoir si tu sais encore tenir debout.
 
 Elle dit : « Gryndor. » Pas comme une question — comme quelqu'un qui note un détail qui modifie légèrement le tableau. Elle dit : « On a entendu parler d'un cartographe fugitif de Gryndor. Les nouvelles voyagent vite quand Drakora les porte. »
 

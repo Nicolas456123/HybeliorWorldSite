@@ -54,6 +54,14 @@ Je lui demandai si lui les entendait.
 
 C'était une distinction intéressante. Sentir sans traduire. Percevoir sans interpréter. Je me demandai si mon propre rapport aux anomalies de ce voyage n'était pas quelque chose d'analogue — si je ne percevais pas quelque chose que je n'avais pas encore les mots pour nommer entièrement.
 
+Orryn me regarda comme s'il avait suivi la pensée sans l'entendre.
+
+*Vous traduisez trop vite*, dit-il.
+
+Je répondis que c'était mon métier.
+
+*Peut-être. Mais c'est aussi votre danger. Une vibration qu'on traduit trop tôt devient une phrase utile. Et les phrases utiles mentent parfois mieux que le silence.*
+
 ---
 
 Nous atteignîmes Dhalvoria au soir du deuxième jour.
@@ -210,7 +218,13 @@ C'était une femme d'une soixantaine d'années au regard perçant, à la peau ma
 
 Elle parla sans préambule, dans un ulinorien lent et délibéré — une langue que je ne connaissais pas et qui, étrangement, me parvenait avec un sens. Cela n'était pas normal. Je ne l'interprétai pas comme surnaturel — je l'interprétai comme Délié. Un an et demi de marche à travers les anomalies du monde avait peut-être ouvert quelque chose dans ma perception. Ou peut-être que Mirathi parlait d'une façon qui portait le sens dans les fréquences plutôt que dans les mots.
 
-Elle me dit, *selon sa propre lecture du Canyon*, que le Message qu'elle avait reçu n'était pas un avertissement ordinaire. Pour elle, les Anciens ne prédisaient pas — leurs mémoires gravées dans la pierre étaient des mémoires, pas des prophéties. Ce qu'elle entendait n'était pas une voix qui disait *ceci va arriver* mais une voix qui disait *ceci est arrivé*. La nuance, en ulinorien, était la différence entre une prédiction et une description. Et ce que la voix dans le Canyon décrivait — avec des détails qui, dans son interprétation, recoupaient ce que les Fragments de Yurrak mentionnaient et ce que les Pierres du Crépuscule des Anciens avaient gravé — Mirathi le nommait *le Retour*. Pas une répétition, pas une imitation, disait-elle : le même motif. Je consignai cette lecture comme la sienne, en gardant à l'esprit que Mirathi parlait depuis un cadre — celui des Écho-Guides — qui ne distinguait pas entre la fidélité d'un témoin et la cohérence d'un récit transmis sur deux extinctions.
+Elle me dit, *selon sa propre lecture du Canyon*, que le Message n'était pas un avertissement ordinaire.
+
+Pour elle, les Anciens ne prédisaient pas. Leurs mémoires gravées dans la pierre étaient des mémoires, pas des prophéties. Ce qu'elle entendait n'était pas une voix disant *ceci va arriver*, mais une voix disant *ceci est arrivé*.
+
+Ce que la voix décrivait, Mirathi le nommait *le Retour*. Pas une répétition, pas une imitation : le même motif.
+
+Je consignai cette lecture comme la sienne, en gardant à l'esprit que Mirathi parlait depuis le cadre des Écho-Guides, où la fidélité d'un témoin et la cohérence d'un récit transmis sur deux extinctions ne se séparent pas toujours.
 
 Elle me dit que les signes préliminaires que le témoignage des Anciens décrivait étaient : premièrement, le silence progressif des entités spirituelles qui habitaient le monde — les esprits de la nature se retirant vers leur source avant l'arrivée de quelque chose de plus fondamental. Deuxièmement, les changements dans les eaux profondes — les courants altérés, les créatures de l'abysse remontant vers la surface. Troisièmement, les altérations des fréquences naturelles de la roche et des arbres, perçues par les sensitifs. Quatrièmement, les êtres nés différemment — les Anciens avaient noté dans leurs dernières archives qu'un certain nombre d'enfants naissaient avec une perception altérée, des yeux clairs, une sensibilité aux fréquences profondes qui n'était pas naturelle dans la population ordinaire.
 

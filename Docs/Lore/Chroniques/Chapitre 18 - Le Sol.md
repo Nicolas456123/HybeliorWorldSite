@@ -30,7 +30,11 @@ Zyrthar m'accueillit pour deux nuits.
 
 La ville-laboratoire avait la qualité d'un rêve récurrent : chaque quartier sonnait différemment selon l'heure et le vent, et à mi-journée, quand tous les ateliers fonctionnaient simultanément, le bruit composite était moins une cacophonie qu'une partition — des strates superposées qui avaient chacune leur logique propre et qui, entendues ensemble, produisaient quelque chose d'involontairement musical. Je passai deux heures assis sur un banc de pierre dans le quartier d'optique à écouter, le carnet sur les genoux, sans écrire. Certains lieux méritent d'abord d'être entendus.
 
-Je logeai à l'auberge du Souffleur — le nom venait des conduits de ventilation des laboratoires voisins, qui soufflaient en permanence une légère brise parfumée d'alchimie et de métal chauffé —, où la propriétaire, une femme nommée Orvath, me servit le repas le plus étrange de tout mon voyage : une soupe d'invention. C'était le terme consacré à Zyrthar pour un plat qui changeait chaque jour selon ce que les cuisinières trouvaient, expérimentaient, rataient parfois. Orvath dit, en déposant le bol devant moi, que le plat du soir était une réduction de champignons des mines de Pyrendor avec des filaments de cristal soluble. Les géologues de la ville utilisaient normalement ces filaments comme traceur dans les failles. Quelqu'un avait découvert, dans un accident de laboratoire trois saisons auparavant, que les mêmes filaments dissous dans un bouillon chaud donnaient une texture impossible à atteindre par tout autre moyen. Légèrement craquante. Légèrement lumineuse quand on inclinait le bol vers la fenêtre.
+Je logeai à l'auberge du Souffleur, nommée ainsi à cause des conduits de ventilation des laboratoires voisins. Ils soufflaient en permanence une brise parfumée d'alchimie et de métal chauffé.
+
+La propriétaire, Orvath, me servit le repas le plus étrange de tout mon voyage : une soupe d'invention. À Zyrthar, on appelle ainsi un plat qui change chaque jour selon ce que les cuisinières trouvent, expérimentent, ratent parfois.
+
+Ce soir-là : réduction de champignons des mines de Pyrendor avec des filaments de cristal soluble. Les géologues les utilisaient comme traceurs dans les failles ; un accident de laboratoire avait révélé qu'en bouillon chaud, ils donnaient une texture impossible. Légèrement craquante. Légèrement lumineuse quand on inclinait le bol vers la fenêtre.
 
 Elle ajouta qu'elle espérait que ça ne me tuerait pas, et qu'à ce jour personne n'en était mort, mais qu'il fallait garder ça à l'esprit.
 
@@ -140,19 +144,19 @@ Une des silhouettes — pas la femme à l'enfant, pas le vieil homme à l'outil 
 
 Pas vers moi. Vers quelque chose au-delà de moi. Comme si elle percevait quelque chose dans la direction opposée à la mienne, dans une autre couche encore du temps superposé.
 
-Et dans ce mouvement — dans la façon dont la silhouette tourna, avec une urgence qui était visible même dans sa forme spectrale, avec la posture de quelqu'un qui veut être vu, qui fait signe dans l'obscurité —, une lecture me vint.
+Et dans ce mouvement — dans la façon dont la silhouette tourna, avec une urgence qui était visible même dans sa forme spectrale, avec la posture de quelqu'un qui veut être vu, qui fait signe dans l'obscurité —, une hypothèse me vint.
 
-Selon cette lecture : ce ne serait pas Tempora qui aurait blessé Ordavan.
+Dans cette hypothèse, ce ne serait pas Tempora qui aurait blessé Ordavan.
 
 Ce serait Ordavan qui aurait été choisi par Tempora pour quelque chose.
 
-Non — pas choisi, dans cette même lecture. Utilisé. Utilisé comme un signal, comme un phare — deux cents vies déplacées dans une stase temporelle non par accident ou par cruauté, mais parce que Tempora blessé, Tempora en train de perdre son intégrité sous la pression de quelque chose que je n'avais pas encore nommé, Tempora qui voyait venir quelque chose que les mortels ne pouvaient pas encore percevoir — Tempora aurait tenté de laisser un message.
+Non — pas choisi. Utilisé. Utilisé comme un signal, comme un phare — deux cents vies déplacées dans une stase temporelle non par accident ou par cruauté, mais parce que Tempora blessé, Tempora en train de perdre son intégrité sous la pression de quelque chose que je n'avais pas encore nommé, Tempora qui voyait venir quelque chose que les mortels ne pouvaient pas encore percevoir — Tempora aurait tenté de laisser un message.
 
 Un message que personne ne pouvait lire.
 
-Sauf, peut-être, quelqu'un qui arriverait à cet endroit précis et percevrait la superposition — quelqu'un qui n'était pas supposé percevoir quoi que ce soit, qui était Délié, imperméable, et qui néanmoins percevait, parce que — selon ma lecture — ce qui se passait à Ordavan n'était pas de la magie dans le sens ordinaire du terme. Ce ne serait pas une énergie qui cherche une résonance. Ce serait du temps qui cherche une conscience — n'importe laquelle, la plus neutre possible, celle qui ne déformerait pas le signal avec ses propres fréquences.
+Sauf, peut-être, quelqu'un qui arriverait à cet endroit précis et percevrait la superposition — quelqu'un qui n'était pas supposé percevoir quoi que ce soit, qui était Délié, imperméable, et qui néanmoins percevait, parce que ce qui se passait à Ordavan n'était pas de la magie dans le sens ordinaire du terme. Ce ne serait pas une énergie qui cherche une résonance. Ce serait du temps qui cherche une conscience — n'importe laquelle, la plus neutre possible, celle qui ne déformerait pas le signal avec ses propres fréquences.
 
-Le Délié ne serait pas un obstacle, dans cette lecture. Le Délié serait le récepteur le plus pur disponible.
+Le Délié ne serait pas un obstacle. Le Délié serait le récepteur le plus pur disponible.
 
 Tempora ne briserait pas. Tempora déplacerait.
 
@@ -173,6 +177,18 @@ Ils m'attendaient à la limite du cercle de verre quand je sortis.
 Le Surveillant qui les commandait — une femme d'une quarantaine d'années avec l'expression de quelqu'un qui a reçu des instructions précises et compte les respecter précisément — me dit, sans agressivité mais sans marge de négociation audible : « Vous êtes en zone restreinte. »
 
 Je dis que je le savais.
+
+— Les gens qui savent entrent rarement par accident.
+
+— Je ne suis pas entré par accident.
+
+— Alors vous comprenez que je dois vous faire sortir.
+
+— Et vous comprenez que je devais venir.
+
+Elle ne répondit pas tout de suite. Les autres Gardes tenaient leur position autour de nous, suffisamment loin pour ne pas menacer, suffisamment près pour rappeler que la conversation n'était pas libre.
+
+— Comprendre n'est pas autoriser, dit-elle enfin.
 
 Elle dit : « Votre statut de visite à Holvendar est expiré. »
 
@@ -306,6 +322,6 @@ Mais avant Thalendris, il y a Drakora. Et à Drakora, il y a des archivistes qui
 
 *Jour 335. Je quitte la zone de Tolvandor par le chemin nord. La mémoire du Fragment Zéro — la pulsation que mes paumes en avaient gardée à Altram — me revient avec une régularité dont je commence à distinguer les états : la pulsation ordinaire, écho devenu familier ; la pulsation de proximité, plus tendue, que je ressens près des anomalies ; et il y a ce que je n'avais jamais ressenti avant Ordavan et que je ne sais pas encore nommer. Je ne sais pas si c'est ce souvenir qui me parle, ou si c'est moi qui projette sur lui ce que j'ai besoin d'entendre.*
 
-*Pour l'instant, je note ce que je tiens : Tempora a laissé un signal. Selon ma lecture, deux cents personnes vivraient dans un instant arrêté, quelque part dans les couches du temps — pas mortes, déplacées. Si Tempora peut déplacer, Tempora peut peut-être replacer. Mais seulement si Tempora est entier, et Tempora est blessé.*
+*Pour l'instant, je note ce que je tiens : Tempora a laissé un signal. Deux cents personnes vivraient dans un instant arrêté, quelque part dans les couches du temps — pas mortes, déplacées. Si Tempora peut déplacer, Tempora peut peut-être replacer. Mais seulement si Tempora est entier, et Tempora est blessé.*
 
 *Je n'ai ni magie ni légitimité divine. J'ai une carte qui se précise, et la certitude que quelqu'un d'autre a fait ce chemin avant moi et a choisi de continuer. C'est suffisant pour avancer.*

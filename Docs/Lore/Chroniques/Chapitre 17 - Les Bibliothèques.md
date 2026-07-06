@@ -36,7 +36,9 @@ Holvendar dépasse les descriptions qu'on en fait.
 
 Je l'avais lue — deux textes d'explorateurs alkaraniens et un compte rendu diplomatique d'un négociateur haldrien —, et les descriptions étaient honnêtes dans leurs faits et incomplètes dans leur effet. Elles disaient : une ville taillée dans la montagne cristalline, des galeries voûtées éclairées par des cristaux luminescents, des rues qui sont des couloirs, des plafonds qui sont des cieux artificiels. Elles ne disaient pas ce que cela fait au corps d'entrer dans un espace où l'échelle a été repensée de fond en comble.
 
-Parce que c'est ça, avant tout, la sensation d'Holvendar : un nouveau réglage de l'échelle. Les galeries principales font vingt mètres de haut. La lumière cristalline — blanche, légèrement bleue, sans chaleur mais sans froideur non plus, une lumière qui se comporte comme si elle avait appris comment se comporter — arrive de partout et de nulle part, reflétée et réfractée depuis des cristaux enchâssés dans les voûtes si régulièrement qu'aucune ombre ne se forme au sol. On marche sans ombre dans les galeries d'Holvendar. J'y fis attention la première heure, cherchant la mienne instinctivement et ne la trouvant pas, avant de comprendre que c'était intentionnel — que les ingénieurs de la Restauration avaient calculé l'angle et la densité des cristaux précisément pour cela. Theldryn III avait voulu une ville sans zones d'obscurité. Pas par esthétique. Par philosophie.
+Parce que c'est ça, avant tout, la sensation d'Holvendar : un nouveau réglage de l'échelle. Les galeries principales font vingt mètres de haut. La lumière cristalline — blanche, légèrement bleue, sans chaleur mais sans froideur non plus, une lumière qui se comporte comme si elle avait appris comment se comporter — arrive de partout et de nulle part, reflétée et réfractée depuis des cristaux enchâssés dans les voûtes si régulièrement qu'aucune ombre ne se forme au sol.
+
+On marche sans ombre dans les galeries d'Holvendar. J'y fis attention la première heure, cherchant la mienne instinctivement et ne la trouvant pas, avant de comprendre que c'était intentionnel — que les ingénieurs de la Restauration avaient calculé l'angle et la densité des cristaux précisément pour cela. Theldryn III avait voulu une ville sans zones d'obscurité. Pas par esthétique. Par philosophie.
 
 Les Gryndoriens ne font pas la différence entre les deux.
 
@@ -58,7 +60,7 @@ Je dis : les deux. Plus précisément ni l'un ni l'autre. Exilé de ma guilde d'
 
 Il nota cela avec une précision qui suggérait que la catégorie "ni l'un ni l'autre" était parfaitement prévue dans ses formulaires — que Gryndor avait rencontré suffisamment de cas similaires pour en faire une case. Il dit, en refermant ses papiers : « Le statut Vael'Kurash vous est accordé provisoirement. »
 
-Je demandai ce que cela signifiait.
+— Qu'est-ce que cela signifie ?
 
 Il dit, avec la légèreté de quelqu'un qui explique une évidence : « Que votre savoir vous définit, pas votre titre. » Puis il ajouta, presque comme une précision pratique : « Vous serez logé dans les quartiers des Apprentis non affiliés. Vous avez accès aux bibliothèques de niveau deux. Pour le niveau trois, il faudra une demande auprès d'un Maître-Archiviste. »
 
@@ -140,27 +142,27 @@ Il dit : « Il est venu ici aussi. » Un silence. « Il y a vingt-deux ans. »
 
 Le chiffre différait légèrement de ce que je savais — j'avais estimé vingt ans d'après la lettre de Thalendris, mais les lettres ne sont jamais datées avec précision. Vingt-deux ans. Mon père avait trente ans à l'époque. Il venait d'obtenir sa propre certification de cartographe — celle dont on me dépouillerait, moi, deux décennies plus tard.
 
-Je demandai à Selvorn si mon père lui avait parlé.
+— Mon père vous a parlé ?
 
 Il dit : « Il a parlé à mon prédécesseur. Maître-Archiviste Haelthyn. Qui m'a transmis ses notes avant de mourir. » Une pause de la longueur exacte d'une respiration. « Haelthyn prenait des notes sur tout. »
 
-Je demandai si je pouvais lire ces notes.
+— Puis-je lire ces notes ?
 
 Il dit : « Non. »
 
-Je demandai pourquoi.
+— Pourquoi ?
 
 Il dit, avec la précision d'un homme qui pèse les mots depuis si longtemps que le processus est devenu invisible : « Parce que ce que votre père a trouvé ici lui a été montré dans un contexte contrôlé, avec des garanties de comportement que vous n'avez pas encore offertes. Ce qu'il a fait ensuite — la façon dont il a utilisé cette information — est une raison supplémentaire de ne pas répéter l'expérience sans précautions. »
 
 Ce qu'il a fait ensuite. Mon père avait fait quelque chose avec l'information de Gryndor. Quelque chose que Selvorn ne qualifiait pas mais que sa retenue elle-même qualifiait.
 
-Je demandai ce qu'il avait fait ensuite.
+— Qu'a-t-il fait ensuite ?
 
 Selvorn dit : « Il est parti pour Thalendris. » Encore une pause. « Nous n'avons pas eu de nouvelles depuis. »
 
 C'était exact. C'était ce que je savais aussi — la lettre envoyée de Thalendris, puis le silence. Mais entendre un autre confirmer la même trajectoire, donner la même carte, pointant vers le même endroit : quelque chose se déplaça dans ma poitrine, pas de l'émotion mais quelque chose d'adjacent à l'émotion, quelque chose qui avait la température de la certitude.
 
-Je demandai à Selvorn s'il pouvait au moins me dire ce qu'était la Faille de Tempora.
+— Pouvez-vous au moins me dire ce qu'est la Faille de Tempora ?
 
 Il réfléchit. Pas longtemps — une ou deux secondes, ce qui pour un homme comme lui représentait une délibération réelle.
 
@@ -232,11 +234,11 @@ Elle dit, le regard toujours sur le traité plutôt que sur moi : « Les collect
 
 Haelthyn — le prédécesseur de Selvorn. Celui qui avait interviewé mon père.
 
-Je demandai à Merris ce qu'était la section Haelthyn.
+— Qu'est-ce que la section Haelthyn ?
 
 Elle dit : « Un fonds privé non catalogué. Il l'a constitué dans les vingt dernières années de sa vie, à partir de correspondances personnelles et de notes de terrain qu'il n'a jamais soumises au Conseil. Il les a laissées à Selvorn en héritage. Selvorn les a lues et ne les a pas déposées aux archives. Ce qui signifie, techniquement, qu'elles n'existent pas. »
 
-Je demandai comment elle savait cela.
+— Comment le savez-vous ?
 
 Elle dit : « Parce que j'ai classé la chambre de Haelthyn après sa mort, et que j'ai vu Selvorn emporter un carton qui ne figurait pas sur l'inventaire. » Elle se redressa légèrement. « Selvorn est un homme d'une intégrité totale dans tout ce qui concerne le savoir de Gryndor. Mais il pense que certaines informations doivent rester dans des mains particulières. C'est une forme d'intégrité que je ne partage pas. »
 
@@ -250,7 +252,7 @@ Elle dit : « Il a demandé à Haelthyn de lui montrer ce que les archives offic
 
 Ce que mon père avait apporté à Haelthyn avait changé quelque chose pour lui. Quelque chose de suffisamment important pour qu'il passe dix ans à compiler des notes qu'il ne soumettrait jamais au Conseil.
 
-Je demandai à Merris si elle pouvait me montrer le fonds Haelthyn.
+— Pouvez-vous me montrer le fonds Haelthyn ?
 
 Elle dit : « Non. Je ne sais pas où il est. Je sais seulement qu'il est dans les appartements de Selvorn, parce que c'est là que j'ai vu le carton disparaître. » Elle prit son cahier sous son bras. « Ce que je peux vous dire, c'est qu'Ordavan est à trente-quatre kilomètres au sud-est de Zyrthar, dans une zone signalée par la Garde Cristalline comme zone d'intérêt géologique restreint. » Elle s'arrêta. « Zone restreinte, pas zone interdite. C'est une distinction que les Gardes font très rarement et avec soin. »
 
@@ -274,7 +276,19 @@ Il dit : « À ouvrir quand vous aurez quitté Holvendar. »
 
 Je lui demandai si c'était une instruction ou une requête.
 
-Il dit : « Un conseil professionnel. »
+Selvorn garda l'enveloppe entre deux doigts, sans me la tendre encore.
+
+— Quelle différence faites-vous ?
+
+— Une instruction suppose que je suis encore dans un système qui peut me commander.
+
+— Et une requête ?
+
+— Une requête suppose que je peux refuser.
+
+Il me regarda avec cette attention gryndorienne qui donne parfois l'impression d'être pesé par un instrument plutôt que par un homme.
+
+— Alors appelons cela un conseil professionnel, dit-il. Les informations portées par contrainte arrivent rarement intactes.
 
 Je le remerciai et partis sans ouvrir l'enveloppe dans les murs de la ville. J'attendis le soir, installé dans un refuge de montagne à une demi-journée de marche au sud, pour briser le sceau.
 

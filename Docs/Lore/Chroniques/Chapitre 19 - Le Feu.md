@@ -82,7 +82,7 @@ Je bus. La chaleur descendit dans la gorge comme un glissement de terrain — pa
 
 Rethyn, qui m'observait, eut quelque chose aux lèvres qui pouvait être satisfaction ou moquerie — les deux n'étaient probablement pas séparables.
 
-Je demandai, en galenorien, si le feu du foyer était draconique.
+— Le feu du foyer est draconique ?
 
 Elle dit : « Braises de Voldrax. » Puis, voyant que le nom ne m'évoquait rien : « Le dragon de la Reine. Les braises s'échangent, à Drakora. Les Liés partagent un peu du souffle de leur dragon avec les maisons du territoire. Un foyer qui brûle avec des braises draconiques dure trois fois plus longtemps qu'un foyer normal et donne une chaleur différente. »
 
@@ -106,7 +106,7 @@ Ce fut Rethyn qui me prévint. Le soir du premier jour, quand elle m'apporta à 
 
 Elle dit : « À Myrthorin, on sait que tu es là. »
 
-Je demandai comment.
+— Comment ?
 
 Elle dit : « Les Brûlés se parlent. Il y a des postes entre Veldar et la capitale. Un fugitif de Gryndor qui passe le col au nord, ça se signale. » Pause. « Pas comme une menace. Comme une information. »
 
@@ -114,11 +114,23 @@ Il y avait une distinction dans ces deux mots — menace versus information — 
 
 La rivalité entre les deux pays — le pillage ancien, les rancunes qui ne s'éteignent pas comme une braise qu'on n'a pas étouffée — me valait, paradoxalement, une forme d'accueil que je n'aurais pas eue si j'étais arrivé de n'importe quel autre pays. Ici, mon statut de fugitif gryndorien était une forme de recommandation tacite.
 
-Je demandai ce que Myrthorin voulait d'une information comme moi.
+— Qu'est-ce que Myrthorin veut d'une information comme moi ?
 
 Rethyn me regarda avec quelque chose de légèrement amusé et de légèrement respectueux — l'expression d'une personne qui apprécie qu'on pose la question directement plutôt que de prétendre ne pas l'avoir vue venir. Elle dit : « Ce que Myrthorin veut de tout ce qui vient de Gryndor : comprendre ce qu'il vaut, ce qu'il sait, et si l'un ou l'autre peut servir. »
 
-Je demandai ce que cela signifiait concrètement.
+— Et vous ? demandai-je. Vous voulez quoi ?
+
+Elle posa son bol sur la table.
+
+— Que tu ne meures pas avant que quelqu'un d'utile t'ait entendu.
+
+Ce n'était pas de la tendresse. C'était mieux adapté au pays : une forme minimale de protection formulée comme une gestion des ressources.
+
+— C'est votre hospitalité ?
+
+— Non. Mon hospitalité, c'est la soupe. Ça, c'est mon jugement.
+
+— Concrètement ?
 
 Elle dit : « Ça signifie que dans deux jours, quelqu'un viendra te chercher pour t'emmener à la capitale. Et que tu aurais intérêt à avoir décidé, avant qu'il arrive, ce que tu es prêt à montrer et ce que tu gardes pour toi. »
 
@@ -158,7 +170,7 @@ Je confirmai.
 
 Il dit : « Myrthorin veut te voir. »
 
-Je demandai si j'avais le choix.
+— Ai-je le choix ?
 
 Il me regarda un moment, puis dit, avec une honnêteté que j'appréciai précisément parce qu'elle ne cherchait pas à déguiser la réalité : « Oui. Tu peux refuser. On ne te forcera pas. Mais si tu refuses, tu pars de Drakora dans la journée. On ne laisse pas des étrangers errer sans destination connue dans les terres des nids. »
 
@@ -242,7 +254,7 @@ Il ne répondit pas immédiatement. Il regarda par l'ouverture de la salle vers 
 
 Il me regarda. « Un vieux dragon qui sent quelque chose dans la montagne et qui le dit à la seule personne à qui il peut le dire — c'est une information, pour nous. Pas une preuve. Une information. »
 
-Je demandai ce qu'ils faisaient avec cette information.
+— Et qu'est-ce que vous faites de cette information ?
 
 Il dit : « Pour l'instant, on écoute. Et on évalue qui d'autre l'écoute. »
 
@@ -268,7 +280,7 @@ Le Dragon Dormant. Celui qui dort dans le canyon de Lunaris depuis des temps imm
 
 La note disait — il me la traduisit du vieux drakorien avec la précision d'un homme qui a vérifié sa traduction trois fois avant de la présenter — : *Le Dormant sent ce que les autres ne sentent plus. Sa prison est la profondeur même. Quand la profondeur change, le Dormant s'agite. Quand le Dormant s'agite, il vaut mieux écouter la montagne avant qu'elle parle d'elle-même.*
 
-Je demandai à Foryen depuis combien de temps Vey'thar était agité.
+— Depuis quand Vey'thar est-il agité ?
 
 Il me regarda. Il dit : « Depuis l'automne dernier, les ermites de Lunaris rapportent des vibrations dans le canyon. Des vibrations rythmiques. Régulières. Comme un cœur. »
 
@@ -288,7 +300,7 @@ Cette fois, je laissai le silence s'installer.
 
 Il dit : « Il est allé à Lunaris. Il a passé une nuit dans le canyon. Au matin, il nous a rendu ce qu'on lui avait prêté et il est reparti vers le nord. Vers Pyrtara. Je ne sais pas ce qu'il a vu dans le canyon. Il n'a rien écrit dans les archives que nous partageons. »
 
-Je demandai si je pouvais aller à Lunaris.
+— Puis-je aller à Lunaris ?
 
 Foryen dit que c'était aux Liés d'en décider. Mais que, personnellement, il pensait que si quelqu'un avait des raisons d'aller poser l'oreille sur ce canyon, c'était quelqu'un dont le père l'avait déjà fait avant lui.
 
