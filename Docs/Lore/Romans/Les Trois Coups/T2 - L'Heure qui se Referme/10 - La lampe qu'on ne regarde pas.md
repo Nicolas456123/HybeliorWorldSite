@@ -179,4 +179,4 @@ Et Lirenn, obéissante, tourna le visage vers la flamme et fixa l’endroit brû
 
 Cette nuit-là, Kessane descendit encore à la cave. Aux pages qu’elle connaissait maintenant par cœur elle ouvrit le cahier, le geste, l’eau froide, la table basse, tout ce que quinze siècles de mains avaient recopié pour ce jour-là — et cette nuit, pour la première fois, elle ne se dit pas *demain*. Elle se dit *bientôt*. Le mot avait la dureté d’un fer qu’on sort du feu au bon instant, ni trop tôt ni trop tard, dans le silence exact où il faut frapper.
 
-Loin au sud-est, par-delà les vallons et les routes où la cendre se déposait sur les fruits, une femme grise dormait bien, ou ne dormait pas ; et quelque chose de patient qui ne savait pas lui-même quand il était comptait encore, un grain après l’autre, le sable qui restait.
+Loin au sud-est, par-delà les vallons et les routes où la cendre se déposait sur les fruits, une femme grise dormait bien, ou ne dormait pas ; et quelque chose de patient qui ne savait pas lui-même quand il était, comptait encore, un grain après l’autre, le sable qui restait.

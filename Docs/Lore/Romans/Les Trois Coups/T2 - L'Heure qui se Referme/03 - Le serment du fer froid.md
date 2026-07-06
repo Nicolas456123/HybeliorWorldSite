@@ -37,7 +37,7 @@ La mère Sanvel entra sans frapper, parce qu’on ne frappe pas à la porte d’
 
 Devant la petite enclume, dans le coin, près de la trempe, elle s’arrêta. La boîte de clous tordus de Lirenn était encore là, à moitié redressés. La vieille la regarda un long moment.
 
-« Elle a la main, dit Kessane, parce qu’il fallait bien dire quelque chose, et parce que c’était vrai, et parce qu’elle avait besoin, tout à coup, de le dire à voix haute à quelqu’un qui saurait ce que ça pesait. « Elle redresse les clous tout seule depuis qu’elle a six ans. Elle entend le fer mieux que moi. Elle sait quand frapper avant que je le sache. »
+« Elle a la main, dit Kessane, parce qu’il fallait bien dire quelque chose, et parce que c’était vrai, et parce qu’elle avait besoin, tout à coup, de le dire à voix haute à quelqu’un qui saurait ce que ça pesait. « Elle redresse les clous toute seule depuis qu’elle a six ans. Elle entend le fer mieux que moi. Elle sait quand frapper avant que je le sache. »
 
 La mère Sanvel ne se retourna pas.
 

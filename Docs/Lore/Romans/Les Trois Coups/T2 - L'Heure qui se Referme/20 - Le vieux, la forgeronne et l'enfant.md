@@ -9,7 +9,7 @@ status: draft
 
 # Chapitre quinze — Le vieux, la forgeronne et l’enfant
 
-Il entendit la petite avant de voir le bourg.
+La petite, il l’entendit avant de voir le bourg.
 
 Trente lieues de cols et de basses terres l’avaient mené là, le bâton de sa mère usé d’un pouce à force de le planter dans la caillasse. Sur les derniers milles il n’avait plus eu besoin de demander son chemin : il avait suivi la chambre. Deux jours qu’il la tenait entrouverte comme une fenêtre entrebâillée pour ne pas perdre une odeur — au prix d’un peu de sang chaque soir, roulé dans la manche ; mais en pays où nul ne le connaissait, on pouvait saigner sans qu’un garçon aux yeux francs vînt le lui reprocher. Depuis l’aube, dans la vallée mouillée où les rivières faisaient les villages, quelque chose l’avait pris tout doux par le fond du sternum et l’avait tiré vers l’ouest comme un fil tire une aiguille : une insistance qui n’était pas celle d’un Errant. Plus claire. Plus vive. Une chambre à peine ouverte, encore neuve, qui laissait entrer et sortir sans savoir qu’on pouvait fermer.
 
@@ -17,11 +17,11 @@ Un enfant. Un enfant qui entendait, et que les morts avaient déjà trouvé.
 
 À l’entrée du bourg, contre un muret bas où quelqu’un avait mis des pommes à sécher, Ombreth ferma les yeux pour être sûr — parce qu’à son âge, dans son état, on ne descend pas trente lieues pour se tromper de porte.
 
-Elle était là. Quelque part devant, un peu à droite, vers un toit d’où montait une fumée trop noire pour une cuisine, trop grasse : la fumée d’un feu qu’on entretient pour le fer et non pour la soupe. Autour de cette chambre neuve, tout autour, l’air était plein. Pas d’un Errant. De plusieurs. Une file de présences qui se pressaient contre la petite oreille comme des gens contre un puits, chacune voulant boire avant les autres, chacune poussant.
+Oui, elle était là. Quelque part devant, un peu à droite, vers un toit d’où montait une fumée trop noire pour une cuisine, trop grasse : la fumée d’un feu qu’on entretient pour le fer et non pour la soupe. Autour de cette chambre neuve, tout autour, l’air était plein. Pas d’un Errant. De plusieurs. Une file de présences qui se pressaient contre la petite oreille comme des gens contre un puits, chacune voulant boire avant les autres, chacune poussant.
 
-*Ils sont trop nombreux pour elle*, pensa-t-il, et le penser lui fit mal sous les côtes, à l’endroit exact où sa mère lui avait posé la main. *Elle n’a personne pour les faire tenir. Ils vont l’écraser.*
+*Ils sont trop nombreux pour elle*, pensa-t-il, et le penser lui fit mal sous les côtes, à l’endroit exact où sa mère lui avait posé la main. *Personne pour les lui faire tenir. Ils vont l’écraser.*
 
-Il rouvrit les yeux, reprit le bâton, marcha vers la fumée noire.
+Rouvrant les yeux, il reprit le bâton, marcha vers la fumée noire.
 
 *
 
@@ -33,7 +33,7 @@ Dans un coin, près de la trempe, une enfant était assise sur une petite enclum
 
 C’était elle. Bien sûr que c’était elle.
 
-Il ne descendit pas tout de suite. Depuis l’ombre de la marche, il regarda l’enfant parler aux morts pendant que sa mère frappait le fer, et il connut une seconde le premier vrai bonheur qu’il eût eu depuis un an — celui de n’être plus seul de son espèce. Puis le bonheur s’en alla, chassé par ce qu’il voyait derrière : l’enfant qui pâlissait sous la lueur, les poignets trop fins sortis des manches, la manière dont elle penchait pour écouter, comme sous un poids.
+Pourtant il ne descendit pas tout de suite. Depuis l’ombre de la marche, il regarda l’enfant parler aux morts pendant que sa mère frappait le fer, et il connut une seconde le premier vrai bonheur qu’il eût eu depuis un an — celui de n’être plus seul de son espèce. Puis le bonheur s’en alla, chassé par ce qu’il voyait derrière : l’enfant qui pâlissait sous la lueur, les poignets trop fins sortis des manches, la manière dont elle penchait pour écouter, comme sous un poids.
 
 *Phase un*, pensa Ombreth, qui connaissait la chose sans jamais dire le mot. *Elle commence.*
 
@@ -43,13 +43,13 @@ Une ombre sur la marche, et la femme leva la tête, le marteau en l’air. Son r
 
 — Je ne viens pas pour une commande. »
 
-Il descendit une marche. Le marteau revint sur l’établi — pas loin, à portée de main, il le nota — et la femme s’essuya les paumes à son tablier de cuir, sans le quitter des yeux.
+D’un pas, il descendit une marche. Le marteau revint sur l’établi — pas loin, à portée de main, il le nota — et la femme s’essuya les paumes à son tablier de cuir, sans le quitter des yeux.
 
 « Alors vous venez pour quoi. »
 
 *
 
-Ombreth avait préparé cette phrase pendant trente lieues, et pendant trente lieues il n’avait pas trouvé la bonne. Il n’y en avait pas de bonne. On ne dit pas à une mère *votre fille entend les morts* sans faire d’elle, à l’instant, soit une ennemie soit une désespérée. Sachant cela, il était venu quand même ; et là, sur la dernière marche, dans la chaleur du feu, il choisit la seule qui était vraie, comme toujours.
+Ombreth avait préparé cette phrase pendant trente lieues, et pendant trente lieues il n’avait pas trouvé la bonne. Aucune n’était bonne. On ne dit pas à une mère *votre fille entend les morts* sans faire d’elle, à l’instant, soit une ennemie soit une désespérée. Sachant cela, il était venu quand même ; et là, sur la dernière marche, dans la chaleur du feu, il choisit la seule qui était vraie, comme toujours.
 
 « Je viens pour l’enfant. »
 
@@ -65,7 +65,7 @@ Le silence, dans la forge, se fit d’un coup — le vrai silence, celui où l�
 
 « Lui. » Lirenn ne montra pas Ombreth du doigt ; elle inclina la tête vers lui, comme il avait vu faire aux gens de sa lignée. « Il entend la dame. Mieux que moi. Il en entend plein d’autres, il en a plein dedans. » Le front plissé, cherchant : « Il en a trop. Ça lui fait mal d’en avoir tant. »
 
-Ombreth ne dit rien. Il n’y avait rien à ajouter ; l’enfant venait de le lire jusqu’au fond, mieux qu’aucun vivant ne l’avait jamais lu, et pour elle, d’emblée, il éprouva un mélange de tendresse et d’effroi — la tendresse de l’entendu, l’effroi de savoir ce qui l’attendait.
+Ombreth ne dit rien. Rien n’était à ajouter ; l’enfant venait de le lire jusqu’au fond, mieux qu’aucun vivant ne l’avait jamais lu, et pour elle, d’emblée, il éprouva un mélange de tendresse et d’effroi — la tendresse de l’entendu, l’effroi de savoir ce qui l’attendait.
 
 La femme, elle, avait repris son marteau. Pas pour frapper. Pour le tenir, comme on tient une chose familière quand le sol se dérobe.
 
@@ -73,7 +73,7 @@ La femme, elle, avait repris son marteau. Pas pour frapper. Pour le tenir, comme
 
 *
 
-Il ne sortit pas.
+Pourtant il ne sortit pas.
 
 « Vous avez raison de vouloir que je sorte, dit Ombreth, sans bouger de la marche. À votre place, je le voudrais aussi. Un vieux qui descend de nulle part et qui dit qu’il vient pour l’enfant — on chauffe le fer pour moins que ça. » Le bâton alla contre le mur, lentement, dans le geste de qui montre qu’il n’a pas les mains libres pour nuire. « Alors écoutez-moi juste le temps de refroidir. Si après vous voulez toujours que je sorte, je sors, et vous ne me reverrez pas. Je n’en ai plus pour longtemps, de toute façon. Je ne vous encombrerai pas vieux.
 
@@ -83,7 +83,7 @@ Il ne sortit pas.
 
 Quelque chose, dans le mot *mourant*, passa sur le visage de la femme — pas de la pitié, elle n’était pas de celles qui donnent leur pitié, mais une reconnaissance, comme si le mot avait cogné contre une chose qu’elle portait elle-même. Le marteau descendit. Pas jusqu’à l’établi. Jusqu’à sa hanche.
 
-« Vous avez le Fléau », dit-elle. Ce n’était pas une question. Elle l’avait dit à plat, sans détour, à la manière de sa fille — et Ombreth comprit d’un coup d’où la petite tenait cette façon de poser les choses au milieu sans les enrober.
+« Vous avez le Fléau », dit-elle. Ce n’était pas une question. À plat, sans détour, à la manière de sa fille, elle l’avait dit — et Ombreth comprit d’un coup d’où la petite tenait cette façon de poser les choses au milieu sans les enrober.
 
 « Je l’ai.
 
@@ -95,7 +95,7 @@ Quelque chose, dans le mot *mourant*, passa sur le visage de la femme — pas de
 
 La femme posa enfin le marteau.
 
-Elle traversa la forge, prit l’enfant par l’épaule — pas rudement, mais fermement, de cette main de mère qui met un corps derrière soi — et rangea Lirenn dans son dos, entre elle et le mur, loin de l’escalier et de l’étranger. La petite se laissa faire. Elle avait l’habitude, on le voyait, d’être mise à l’abri quand le monde devenait incertain.
+Puis elle traversa la forge, prit l’enfant par l’épaule — pas rudement, mais fermement, de cette main de mère qui met un corps derrière soi — et rangea Lirenn dans son dos, entre elle et le mur, loin de l’escalier et de l’étranger. La petite se laissa faire. Habituée, on le voyait, d’être mise à l’abri quand le monde devenait incertain.
 
 « Bon, dit la femme, et le mot était sec et tenait toute une décision. Vous êtes entré. Vous êtes vieux et vous mourez, et ma fille dit que vous êtes comme elle, et je vois bien qu’elle ne ment pas, elle ne sait pas mentir, c’est un défaut que je n’ai pas encore réussi à lui apprendre. Alors dites ce que vous êtes venu dire. En entier. Une fois. Et après vous partez. »
 
@@ -121,7 +121,7 @@ Puis la femme rit. Pas un rire de gaieté — un rire court, sans fond, celui qu
 
 « De ne pas la couper », répéta-t-elle, bras croisés. « Vous savez ce que c’est, la couper, au moins ? Vous savez ce qu’il y a au fond de ma cave, sur une table basse, sous un linge ? Ce que ça me coûte, à moi, d’affûter cette lame chaque soir et de remonter chaque soir sans l’avoir prise ? Et vous descendez d’Alkaran pour me dire *ne la coupez pas*. »
 
-« Je sais ce que c’est. » Il ne se déroba pas. « J’ai vu couper. Dans mes vallées, on coupe aussi, ceux qu’on prend à temps. J’en ai vu se laisser faire, à la première phase, et vivre. Sourds, mais vivants. Je sais que c’est le seul soin qui marche. Je ne suis pas un imbécile de prêtre qui vous parlerait de la roue. »
+« Je sais ce que c’est. » Sans se dérober : « J’ai vu couper. Dans mes vallées, on coupe aussi, ceux qu’on prend à temps. J’en ai vu se laisser faire, à la première phase, et vivre. Sourds, mais vivants. Je sais que c’est le seul soin qui marche. Je ne suis pas un imbécile de prêtre qui vous parlerait de la roue. »
 
 Le mot *prêtre* passa entre eux, et Ombreth vit qu’il avait touché juste — qu’un prêtre était passé là avant lui, et n’y avait pas fait bonne impression.
 
@@ -155,7 +155,7 @@ Ombreth regarda. Du fer. Une chute de fer noir, ordinaire.
 
 Reprenant la barre, elle la souleva, la tint devant la lueur du feu, et le fer noir prit un instant une bordure rouge, un fantôme de chaleur, un souvenir.
 
-« Et ça, dit-elle, c’est ma fille si je ne coupe pas. Belle. Chaude. Chantante. Entière. Elle garde son oreille, sa dame, ses morts, tout ce que vous voulez lui laisser. » La barre revint sur le bois. « Et dans dix-huit mois elle crie sans savoir qu’elle crie, parce que c’est son corps qui crie, et je la regarde se paralyser des pieds jusqu’au cœur, et je n’ai plus rien à couper, parce que la fenêtre sera passée, comme la vôtre est passée. » Elle le fixa. « Vous me demandez laquelle je préfère. La froide vivante, ou la chaude morte. »
+« Et ça, dit-elle, c’est ma fille si je ne coupe pas. Belle. Chaude. Chantante. Entière. Elle garde son oreille, sa dame, ses morts, tout ce que vous voulez lui laisser. » La barre revint sur le bois. « Et dans dix-huit mois elle crie sans savoir qu’elle crie, parce que c’est son corps qui crie, et je la regarde se paralyser des pieds jusqu’au cœur, et je n’ai plus rien à couper, parce que la fenêtre sera passée, comme la vôtre est passée. » Puis, le fixant : « Vous me demandez laquelle je préfère. La froide vivante, ou la chaude morte. »
 
 *
 
@@ -165,13 +165,13 @@ Ombreth ne répondit pas tout de suite. Les yeux sur la barre de fer, il pensait
 
 « Il n’y en a que deux.
 
-— Vous en êtes sûre. » Il leva les yeux. « Vous m’avez dit tout à l’heure qu’il en survit. Deux cents. Trois cents. Ceux que le mal ne prend pas, pour une raison que personne ne sait. Ceux qui gardent leur oreille et vivent. »
+— Vous en êtes sûre. » Les yeux levés : « Vous m’avez dit tout à l’heure qu’il en survit. Deux cents. Trois cents. Ceux que le mal ne prend pas, pour une raison que personne ne sait. Ceux qui gardent leur oreille et vivent. »
 
 Le coup porta. Sur le visage de la femme passa très vite une chose qu’elle ne voulait pas montrer — une fissure, un vertige, une pensée qu’elle avait déjà eue, seule, la nuit, et qu’elle s’interdisait.
 
 « Vous n’avez pas le droit, dit-elle, et sa voix, pour la première fois, trembla un peu. Vous n’avez pas le droit de me dire ça. Deux cents sur cent cinquante mille. Vous voulez que je joue ma fille sur deux cents sur cent cinquante mille ? Que je la laisse entière, chaude, chantante, en pariant qu’elle sera de ceux-là, et que si je perds je la regarde crier pendant six mois ? »
 
-« Non. » Il baissa la voix, doux, parce qu’il l’avait blessée et qu’on ne laisse pas une blessure ouverte. « Non, je ne vous demande pas de parier. Je n’en ai pas le droit, vous dites vrai. C’est votre fille. Ce n’est pas la mienne. » Le mot lui coûta. « Elle aurait pu l’être — dans un monde autrement fait, une enfant comme elle aurait été de ma lignée, je lui aurais posé la main sur le sternum, je lui aurais dit *c’est là que ça se tient, chez nous*. Mais ce monde-là n’est pas celui-ci. Dans celui-ci, elle est à vous, et vous avez le marteau, et vous avez la lame, et vous avez raison de les tenir. »
+« Non. » Baissant la voix, doux, parce qu’il l’avait blessée et qu’on ne laisse pas une blessure ouverte. « Non, je ne vous demande pas de parier. Je n’en ai pas le droit, vous dites vrai. C’est votre fille. Ce n’est pas la mienne. » Le mot lui coûta. « Elle aurait pu l’être — dans un monde autrement fait, une enfant comme elle aurait été de ma lignée, je lui aurais posé la main sur le sternum, je lui aurais dit *c’est là que ça se tient, chez nous*. Mais ce monde-là n’est pas celui-ci. Dans celui-ci, elle est à vous, et vous avez le marteau, et vous avez la lame, et vous avez raison de les tenir. »
 
 *
 
@@ -189,7 +189,7 @@ Les deux se turent.
 
 Ombreth sentit sa gorge se serrer, et ce n’était pas le sang, pour une fois.
 
-Cette question, il la connaissait. Il l’avait entendue toute sa vie, sous d’autres formes, dans la bouche des endeuillés — *pourquoi lui et pas un autre, pourquoi maintenant, pourquoi comme ça* — et jamais il n’y avait eu de réponse qui tînt, jamais, parce que ce genre de question ne demande pas une réponse mais un aveu. La mère regardait sa fille et ne trouvait pas ses mots, elle qui trouvait toujours ses mots, elle qui retournait les métaphores des prêtres comme des crêpes.
+Cette question, il la connaissait. Toute sa vie il l’avait entendue, sous d’autres formes, dans la bouche des endeuillés — *pourquoi lui et pas un autre, pourquoi maintenant, pourquoi comme ça* — et jamais il n’y avait eu de réponse qui tînt, jamais, parce que ce genre de question ne demande pas une réponse mais un aveu. La mère regardait sa fille et ne trouvait pas ses mots, elle qui trouvait toujours ses mots, elle qui retournait les métaphores des prêtres comme des crêpes.
 
 Alors Ombreth répondit, parce qu’il était le plus vieux, et qu’à un certain âge on a le devoir de dire les choses laides pour épargner aux plus jeunes d’avoir à les inventer.
 
@@ -215,7 +215,7 @@ D’un signe de tête, sans le regarder, elle y consentit.
 
 « À rien, pour le quand. Le quand, il n’y a que vous. » Une main sur le genou, l’autre cherchant le bâton contre le mur, il se leva. « Écoutez-moi, forgeronne. Vous savez quand frapper le fer. Je vous ai regardée : vous tenez le marteau en l’air le temps que ça se taise, et vous frappez dans le silence. Personne ne vous a appris ça avec des mots. Vos mains le savent. » Le bâton sous la paume, il s’y appuya. « Ça, ce sera pareil. Le jour viendra où vous saurez qu’il faut couper — pas parce que le cahier l’aura dit, pas parce qu’un vieux vous l’aura conseillé, mais parce que vos mains le sauront, comme elles savent le fer. Vous frapperez dans le silence. Vous ne vous tromperez pas. On ne se trompe pas quand c’est les mains qui décident. »
 
-Il monta une marche, s’arrêta, se retourna à demi.
+Montant une marche, il s’arrêta, se retourna à demi.
 
 « Et si vos mains, ce jour-là, vous disent d’attendre encore un peu — écoutez-les aussi. Elles savent peut-être une chose que ni vous ni moi ne savons. »
 
@@ -237,7 +237,7 @@ Il ne se retourna pas tout à fait ; il valait mieux, pour ce qu’il avait à 
 
 « Alors vous couperez. » Il descendit dans le mot toute la douceur qu’il put y mettre. « Et ce sera bien. Vous aurez sauvé votre fille, éteint la dernière oreille du monde, eu raison sur toute la ligne — et moi j’aurai eu raison aussi, et c’est ça le pire, forgeronne : qu’on ait raison tous les deux. Si l’un de nous avait tort, ce serait supportable. On pourrait se disputer, se convaincre, gagner. Mais on a raison tous les deux, et il n’y a pas de dispute qui règle ça. Il n’y a qu’une enfant au milieu, et une seule chose qui lui arrivera, et l’autre qui n’arrivera pas. »
 
-Il posa le pied sur la dernière marche, dans le plein jour.
+Le pied sur la dernière marche, il entra dans le plein jour.
 
 « Prenez soin de vos mains, forgeronne. Ce sont elles qui sauront. »
 
@@ -245,7 +245,7 @@ Il posa le pied sur la dernière marche, dans le plein jour.
 
 Il remonta le chemin de terre entre les murets où séchaient les pommes, et il ne se retourna pas, parce qu’un homme qui se retourne donne aux gens l’idée qu’il attend d’être rappelé, et il ne voulait pas être rappelé — ou il le voulait trop, ce qui revenait au même.
 
-Derrière lui, dans la forge basse, il l’entendit — non de ses oreilles, de sa chambre — la petite chambre neuve qui se retendait vers la sienne, une dernière fois, à travers la distance qui grandissait, comme un enfant qui appelle sans mots un adulte qui s’éloigne. Il faillit répondre. Faillit ouvrir la sienne en grand et la poser contre celle de l’enfant, par-dessus les toits, juste pour qu’elle sût qu’elle n’était pas seule de son espèce, qu’il en existait un autre, un vieux, quelque part, qui portait la même chose et qui l’entendait. Une syllabe l’aurait consolée. Une seule note, tenue une seconde, aurait dit à cette petite chambre : *je t’ai entendue, tu existes, tu n’es pas folle, il y a une porte et je sais où elle est.*
+Derrière lui, dans la forge basse, il l’entendit — non de ses oreilles, de sa chambre — la petite chambre neuve qui se retendait vers la sienne, une dernière fois, à travers la distance qui grandissait, comme un enfant qui appelle sans mots un adulte qui s’éloigne. Un instant, il faillit répondre. Faillit ouvrir la sienne en grand et la poser contre celle de l’enfant, par-dessus les toits, juste pour qu’elle sût qu’elle n’était pas seule de son espèce, qu’il en existait un autre, un vieux, quelque part, qui portait la même chose et qui l’entendait. Une syllabe l’aurait consolée. Une seule note, tenue une seconde, aurait dit à cette petite chambre : *je t’ai entendue, tu existes, tu n’es pas folle, il y a une porte et je sais où elle est.*
 
 Mais chaque note qu’il lui aurait chantée aurait creusé plus grande la porte que sa mère devait fermer. Fortifier son oreille, c’était aider le mal ; aider l’enfant à mieux entendre les morts, c’était l’aider à mourir plus sûrement. Le seul cadeau qu’il pût lui faire, à cette petite chambre qui l’appelait par-dessus les toits, c’était de ne pas répondre. De la laisser croire, un peu plus longtemps, qu’elle était seule, pour qu’elle fût, un peu plus longtemps, encore vivante.
 

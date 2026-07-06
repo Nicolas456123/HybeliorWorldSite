@@ -72,7 +72,7 @@ Le Portier le regarda longtemps.
 
 — Oui, dit Nael. Il faut être solide au bord. »
 
-Il le dit pour clore la conversation, et le Portier l’entendit ainsi, et se leva, et retourna vers les cousseurs. Mais dans sa tête, Nael acheva la phrase que le Portier n’avait pas entendue : *il faut être solide au bord, oui — pour ne pas voir que le bord, on ne sait pas ce qu’il y a dessous.*
+Il le dit pour clore la conversation, et le Portier l’entendit ainsi, et se leva, et retourna vers les couseurs. Mais dans sa tête, Nael acheva la phrase que le Portier n’avait pas entendue : *il faut être solide au bord, oui — pour ne pas voir que le bord, on ne sait pas ce qu’il y a dessous.*
 
 *
 
@@ -206,4 +206,4 @@ Ils repartirent au matin vers la Plaine, vers les trois déchirures, en portant 
 
 Personne ne documentait leur retour. Il l’avait toujours su. Ce qu’il commençait à savoir, ce matin-là, en s’éloignant d’une couture qui venait d’avaler une femme et gardait son peigne d’os, c’était pire, et plus simple, et il n’en parla jamais à personne, pas même au Portier : que si personne ne documentait leur retour, c’était peut-être qu’il n’y avait personne pour revenir, ou personne pour se souvenir d’être revenu — et que, dans les deux cas, lui, Nael, depuis dix ans, menait des gens vers un bord dont il ne saurait jamais rien, en leur cousant un matin dont il n’avait plus le cœur de jurer qu’il existait.
 
-Devant eux, la Plaine ; et sous la Plaine, là où le monde se trouait à vue d’œil et se recoudrait bientôt d’un seul coup en une heure que nul ne verrait venir, quelque chose de patient qui ne savait pas lui-même quand il était comptait les jetons percés qu’on lui apportait, un par un, sans hâte et sans faim qu’on pût nommer — et venait, ce jour-là, d’en recevoir un de plus, au cou d’une femme dont il ne resterait, de ce côté-ci de la couture, ni le nom, ni le corps, ni personne pour dire si le froid, chez lui, devenait tiède. Il en attendait un autre. Un homme aux mains qui ne se fermaient plus, porté, qui marchait encore vers lui — et dont il aurait le jeton bientôt, sous une plaine : un jeton de travers, mordu deux fois, franc quand même.
+Devant eux, la Plaine ; et sous la Plaine, là où le monde se trouait à vue d’œil et se recoudrait bientôt d’un seul coup en une heure que nul ne verrait venir, quelque chose de patient qui ne savait pas lui-même quand il était, comptait les jetons percés qu’on lui apportait, un par un, sans hâte et sans faim qu’on pût nommer — et venait, ce jour-là, d’en recevoir un de plus, au cou d’une femme dont il ne resterait, de ce côté-ci de la couture, ni le nom, ni le corps, ni personne pour dire si le froid, chez lui, devenait tiède. Il en attendait un autre. Un homme aux mains qui ne se fermaient plus, porté, qui marchait encore vers lui — et dont il aurait le jeton bientôt, sous une plaine : un jeton de travers, mordu deux fois, franc quand même.

@@ -29,7 +29,7 @@ Lirenn compta sur ses doigts, s’arrêta, recommença.
 
 — La dame est plus devant. » Lirenn haussa une épaule — le haussement de sa mère, celui des évidences. « Elle a reculé. Elle avait l’air désolée de reculer. Comme quand y a trop de monde à la porte et qu’on te pousse dehors sans le vouloir. »
 
-Kessane se leva, prit le bol, le vida dans le seau des cochons — ce gruau, la petite ne le mangerait pas, et jeter la nourriture était un péché de pauvre, mais il y a des matins où l’on paie un petit péché pour n’avoir pas à regarder plus longtemps une chose qu’on ne peut pas guérir refroidir dans un bol.
+Kessane se leva, prit le bol, le vida dans le seau des cochons — ce gruau, la petite ne le mangerait pas, et jeter la nourriture était un péché de pauvre, mais il y a des matins où l’on paie un petit péché pour n’avoir pas à regarder plus longtemps une chose qu’on ne peut pas guérir, refroidir dans un bol.
 
 « Bon », dit-elle. Le mot était sec et il tenait toute une décision, et Lirenn, qui la connaissait, redressa un peu la tête.
 
@@ -133,7 +133,7 @@ Quelques-uns. On disait deux cents. On disait trois cents, sur tous ceux qui por
 
 Et si Lirenn était de ceux-là.
 
-Kessane referma les yeux. Voilà ce que le doute avait de pire : il ne disait pas *ne coupe pas, tu tuerais ta fille* — ça, elle aurait su répondre, elle avait un cahier pour répondre, elle avait la dame qui reculait pour répondre, elle avait les poignets maigris de sa fille. Le doute disait autre chose, plus fin, plus cruel : *coupe, et tu ne sauras jamais.* Tu ne sauras jamais si elle serait morte. Tu ne sauras jamais si elle était de ceux qui vivent. Tu auras fermé la porte, jeté l’oreille, éteint la dame — et si elle était des deux cents, tu auras arraché à ta fille, de tes mains, pour rien, une chose qu’elle gardait le droit de garder. Une chose qu’elle n’avait pas choisi d’avoir, et que tu auras choisi, toi, à sa place, de lui reprendre.
+Kessane referma les yeux. Voilà ce que le doute avait de pire : il ne disait pas *ne coupe pas, tu tuerais ta fille* — ça, elle aurait su répondre, elle avait un cahier pour répondre, elle avait la dame qui reculait pour répondre, elle avait les poignets maigris de sa fille. Le doute disait autre chose, plus fin, plus cruel : *coupe, et tu ne sauras jamais.* Tu ne sauras jamais si elle serait morte. Tu ne sauras jamais si elle était de ceux qui vivent. Tu auras fermé la porte, jeté l’oreille, éteint la dame — et si elle était des deux cents, tu aurais arraché à ta fille, de tes mains, pour rien, une chose qu’elle gardait le droit de garder. Une chose qu’elle n’avait pas choisi d’avoir, et que tu auras choisi, toi, à sa place, de lui reprendre.
 
 Elle pensa au prêtre de la Roue, à l’autre semaine, avec ses images ratées. *On ne fuit pas ce qu’on est ; on ne fait que le faire attendre.* Elle l’avait renvoyé avec sa lame et sa leçon de trempe, et elle avait eu raison, l’homme était un imbécile. Mais l’imbécile avait posé la question sans le savoir, et la question restait, retournée : de quel droit décidait-on de ce qu’un enfant *était* ? Le prêtre disait que Lirenn était le retour du Lien, et Kessane avait répondu : elle est ma fille. Bien. Mais si elle coupait, ne disait-elle pas, elle aussi, à sa manière, ce qu’était sa fille ? *Tu ne seras pas ça. Je décide que tu ne seras pas ça.* Elle avait reproché au prêtre de vouloir enfermer l’enfant dans une roue ; et elle s’apprêtait à l’enfermer, elle, dans le refus d’une roue, ce qui était peut-être la même prison par l’autre porte.
 

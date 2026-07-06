@@ -33,7 +33,7 @@ Ombreth avança le tabouret bas, le même qu’on lui avançait partout, le tabo
 
 La question était sortie trop vite. Ombreth s’en voulut ; c’était une question de fils qui espère, pas de chanteur qui veille, et Baelic la reçut comme telle, avec un plissement de mépris tendre au coin de l’œil.
 
-« Non. Je la *sens*. Nuance. Je la sens comme tu sens le froid par la porte mal jointe — je sais qu’il y a quelque chose de l’autre côté, mais je ne pourrais plus te dire son poids ni sa note. Ça, c’est parti il y a des mois. » D’un doigt, il tourna la tête vers ses propres mains inertes. « En même temps que le reste. Le fil se retire de moi par les deux bouts à la fois : par les doigts, qui ne tiennent plus, et par-là — » il ne pouvait plus lever la main, il indiqua d’un mouvement du menton le creux de sa propre poitrine — « la chambre, qui ne reçoit plus. Bientôt il ne restera plus de moi qu’un morceau de tronc et une bouche pour t’insulter. Puis même plus la bouche. »
+« Non. Je la *sens*. Nuance. Je la sens comme tu sens le froid par la porte mal jointe — je sais qu’il y a quelque chose de l’autre côté, mais je ne pourrais plus te dire son poids ni sa note. Ça, c’est parti il y a des mois. » D’un doigt, il tourna la tête vers ses propres mains inertes. « En même temps que le reste. Le fil se retire de moi par les deux bouts à la fois : par les doigts, qui ne tiennent plus, et par là — » il ne pouvait plus lever la main, il indiqua d’un mouvement du menton le creux de sa propre poitrine — « la chambre, qui ne reçoit plus. Bientôt il ne restera plus de moi qu’un morceau de tronc et une bouche pour t’insulter. Puis même plus la bouche. »
 
 *
 

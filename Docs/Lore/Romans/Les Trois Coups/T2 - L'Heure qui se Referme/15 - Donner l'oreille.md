@@ -77,7 +77,7 @@ Sa voix. C’était sa voix qui disait tout. Pas les mots — les mots, un mente
 
 Il aurait pu s’arrêter là. S’arrêter là, il l’aurait dû. Un homme raisonnable, un homme qui n’aurait pas eu la mort derrière les yeux à compter ses jours, aurait rendu le garçon à sa mère avec un mot doux, *il n’a pas le don, madame, réjouissez-vous-en*, et serait allé se coucher.
 
-Ombreth n’était plus raisonnable. Il essaya encore.
+Ombreth n’était plus raisonnable. Encore une fois, il essaya.
 
 « On va faire autrement, dit-il. Oublie ma main. Ferme les yeux. Je vais chanter. Toi, tu écoutes — pas avec les oreilles. Les oreilles, tout le monde en a, elles ne servent à rien pour ça. Tu écoutes avec le ventre. Là où tu as peur, quand tu as peur. Là où ça se serre quand ta mère crie. C’est là qu’on entend. Tu comprends ?
 
@@ -105,7 +105,7 @@ Ombreth laissa la note mourir.
 
 — T’as le nez qui saigne.
 
-— Ce n’est rien, je te dis. » Ombreth s’essuya, roula le linge dans sa manche, du geste devenu machinal. « Le vieux âge. Ça saigne, ça craque, ça fuit de partout, un vieux corps, tu verras. » Il n’avait pas la force de mentir mieux, et le garçon n’avait pas l’esprit d’aller chercher plus loin ; ça convenait à tous les deux.
+— Ce n’est rien, je te dis. » Ombreth s’essuya, roula le linge dans sa manche, du geste devenu machinal. « Le vieil âge. Ça saigne, ça craque, ça fuit de partout, un vieux corps, tu verras. » La force de mentir mieux lui manquait, et le garçon n’avait pas l’esprit d’aller chercher plus loin ; ça convenait à tous les deux.
 
 Ils restèrent un moment sans rien dire. Dehors, la lumière avait basculé ; ce serait bientôt l’heure de rallumer la mère.
 
@@ -181,14 +181,14 @@ Un homme raisonnable serait resté. Serait mort chez lui, dans sa vallée, en te
 
 Mais il pensa à la remise vide où il pousserait un jour contre le mur, et à personne pour trouver sa note. Il pensa aux neuf enfants sourds. Puis à la file de sa lignée couchée dans la terre, et à lui, dernier debout au bout de la file, avec dans le crâne un chœur qu’aucun d’eux n’avait entendu et une chambre qui se vidait pour préparer sa propre place. Et il pensa qu’un homme qui va mourir a le droit d’être fou une fois, si c’est pour une petite qui parle à personne.
 
-*Si elle entend*, se dit-il, *elle va être seule. Comme moi. Pire que moi — une enfant, sans mère qui sache lui poser la main sur le sternum, sans lignée pour lui dire c’est là que ça se tient. Une enfant seule avec la chambre pleine et personne pour lui apprendre à la faire tenir sans que ça l’écrase.* Il connaissait cette solitude-là. Il en avait été préservé, lui, par une mère qui savait ; et l’idée qu’il existât, quelque part vers l’eau, une petite qui l’endurait sans personne — cette idée le mettait debout mieux que n’importe quel espoir d’héritier.
+*Si elle entend*, se dit-il, *elle va être seule. Comme moi. Pire que moi — une enfant, sans mère qui sache lui poser la main sur le sternum, sans lignée pour lui dire c’est là que ça se tient. Une enfant seule avec la chambre pleine et personne pour lui apprendre à la faire tenir sans que ça l’écrase.* Cette solitude-là, il la connaissait. Lui en avait été préservé, par une mère qui savait ; et l’idée qu’il existât, quelque part vers l’eau, une petite qui l’endurait sans personne — cette idée le mettait debout mieux que n’importe quel espoir d’héritier.
 
 Car il ne se mentait pas jusqu’au bout. Un héritier, oui, une chambre à qui passer la sienne, une porte trouvée pour l’après des morts d’Alkaran — tout cela était vrai et le tirait vers l’ouest. Mais il y avait, dessous, plus nu, quelque chose qui n’espérait rien pour lui-même : le simple refus qu’une enfant fût seule dans ce qu’il avait porté toute sa vie. On ne laisse pas un petit pousser tout seul contre un mur. On y va. Même à trente lieues. Même mourant.
 
-Il ralluma le feu. Il versa l’eau. Il mangea, cette fois — il faudrait des forces —, le pain qu’il avait après tout accepté de garder, et le fromage, en regardant les flammes prendre.
+Il ralluma le feu. Versa l’eau. Cette fois il mangea — il faudrait des forces —, le pain qu’il avait après tout accepté de garder, et le fromage, en regardant les flammes prendre.
 
-L’eau, dans le pot, se mit à chanter avant de bouillir, ce sifflement mince, aigu, qui monte. Ombreth l’écouta un moment sans le couper. C’était le même son, il le savait sans savoir comment il le savait, que celui du fer qu’on chauffe à mille lieues de là, dans une forge des marges d’Onara où une femme qui refusait les métaphores écoutait, ce soir peut-être, sa propre fille parler à personne. Il ne le savait pas. Il ne saurait jamais que le nom qu’il avait à demi saisi était celui du bourg de cette femme, ni que la petite qu’il partait chercher était exactement celle qu’une autre voix, dans un autre chapitre du même désastre, s’apprêtait à couper pour la sauver. Il partait vers elle sans savoir qu’il partait vers le seul enfant du monde qui l’aurait entendu, lui, et vers la seule femme du monde décidée à faire taire, de sa main, cette oreille qu’il traversait le pays pour éveiller.
+L’eau, dans le pot, se mit à chanter avant de bouillir, ce sifflement mince, aigu, qui monte. Ombreth l’écouta un moment sans le couper. C’était le même son, il le savait sans savoir comment il le savait, que celui du fer qu’on chauffe à mille lieues de là, dans une forge des marges d’Onara où une femme qui refusait les métaphores écoutait, ce soir peut-être, sa propre fille parler à personne. Il ne le savait pas. Jamais il ne saurait que le nom qu’il avait à demi saisi était celui du bourg de cette femme, ni que la petite qu’il partait chercher était exactement celle qu’une autre voix, dans un autre chapitre du même désastre, s’apprêtait à couper pour la sauver. Vers elle il partait sans savoir qu’il partait vers le seul enfant du monde qui l’aurait entendu, lui, et vers la seule femme du monde décidée à faire taire, de sa main, cette oreille qu’il traversait le pays pour éveiller.
 
-Il retira le pot avant que ça bouille, par vieille habitude de couper le chant de l’eau, parce qu’un chant qui monte trop, à la fin, ça n’apaise plus rien : ça brûle. Puis il alla chercher, sous le lit, le vieux bâton de marche de sa mère, celui qu’il n’avait pas pris depuis des années, et il le posa contre la porte, prêt pour le matin.
+Avant que ça bouille il retira le pot, par vieille habitude de couper le chant de l’eau, parce qu’un chant qui monte trop, à la fin, ça n’apaise plus rien : ça brûle. Puis il alla chercher, sous le lit, le vieux bâton de marche de sa mère, celui qu’il n’avait pas pris depuis des années, et il le posa contre la porte, prêt pour le matin.
 
 Loin sous une plaine qu’il ne verrait pas encore, dans un lieu qu’aucune de ses portes n’atteindrait, quelque chose de patient qui ne savait pas lui-même quand il était comptait le sable, un grain après l’autre, et n’en trouvait toujours pas la fin.

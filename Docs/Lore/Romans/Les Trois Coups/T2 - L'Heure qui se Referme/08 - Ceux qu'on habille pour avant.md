@@ -66,7 +66,7 @@ Sans le préparer il le dit, parce qu’il fallait qu’elle l’entende brut, e
 
 « Alors on peut, dit-elle. On peut couper. C’est vrai.
 
-— On peut. » Il ne mentait jamais là-dessus. Mentir là-dessus, c’eût été trahir la seule vérité de sa bouche. « On peut couper, et vivre. C’est vrai, madame. Ce n’est pas une rumeur. Des gens marchent aujourd’hui dans les champs, sourds à tout, vivants, parce qu’une main a tranché en eux au bon moment la chose qui les tuait. » Il la laissa boire cela. Puis, du même ton, sans hausser la voix, il enfonça le clou qu’il détestait enfoncer. « Au bon moment. »
+— On peut. » Il ne mentait jamais là-dessus. Mentir là-dessus, ç’eût été trahir la seule vérité de sa bouche. « On peut couper, et vivre. C’est vrai, madame. Ce n’est pas une rumeur. Des gens marchent aujourd’hui dans les champs, sourds à tout, vivants, parce qu’une main a tranché en eux au bon moment la chose qui les tuait. » Il la laissa boire cela. Puis, du même ton, sans hausser la voix, il enfonça le clou qu’il détestait enfoncer. « Au bon moment. »
 
 Le mot fit son chemin, il le vit. L’espoir hésita.
 
@@ -112,79 +112,79 @@ D’un coffre il sortit une pièce d’étoffe qu’il déplia sur la table entr
 
 — C’est doux. » Elle passa la main dessus, malgré elle. « Je n’ai jamais vu cette couleur.
 
-— Personne ne l’a vue. On ne sait plus la faire. » Il en lissa un pli avec fierté. « On la retrouve, nous. Un peu. À force. On dit qu’avant — » il buta, comme ils butaient tous sur ce mot, *avant*, qui ne voulait rien dire de sûr et voulait dire tout — « on dit qu’avant, du temps où le monde tenait encore par son fil, les gens des cités hautes portaient ce jaune-là. C’est la couleur de l’avant. Alors on en fait des robes. Une robe d’avant. »
+— Personne ne l’a vue. On ne sait plus la faire. » Du plat de la main il en lissa un pli, avec fierté. « On la retrouve, nous. Un peu. À force. On dit qu’avant — » il buta, comme ils butaient tous sur ce mot, *avant*, qui ne voulait rien dire de sûr et voulait dire tout — « on dit qu’avant, du temps où le monde tenait encore par son fil, les gens des cités hautes portaient ce jaune-là. C’est la couleur de l’avant. Alors on en fait des robes. Une robe d’avant. »
 
 « Pour quoi faire, une robe. »
 
 Nael prit une aiguille, un fil, et il commença, lentement, pour qu’elle vît chaque geste.
 
-« Pour arriver habillée. » Il piquait, tirait, sans la regarder, parce que certaines choses se disent mieux les yeux sur l’ouvrage. « Réfléchissez. Là où l’on va — de l’autre côté, dans un beau matin de l’avant, dans un monde qui ne s’est pas encore cassé — on va débarquer sans rien, venus de nulle part, avec nos hardes de mourants sur le dos et notre mal dans le corps. Comment croyez-vous qu’on nous recevra ? Comme des fous. Comme des fantômes. On nous chassera. » Il fit un point, serra. « À moins qu’on arrive vêtus des leurs. Vêtus comme les gens de leur monde. Alors ils nous reconnaîtront. Ils diront : celle-là est des nôtres, elle s’est perdue, aidons-la. Une robe d’avant, c’est un passeport, madame. C’est ce qui fait qu’on nous ouvre la porte au lieu de nous jeter des pierres. »
+« Pour arriver habillée. » Sans la regarder, il piquait, tirait, parce que certaines choses se disent mieux les yeux sur l’ouvrage. « Réfléchissez. Là où l’on va — de l’autre côté, dans un beau matin de l’avant, dans un monde qui ne s’est pas encore cassé — on va débarquer sans rien, venus de nulle part, avec nos hardes de mourants sur le dos et notre mal dans le corps. Comment croyez-vous qu’on nous recevra ? Comme des fous. Comme des fantômes. On nous chassera. » Un point, tiré, serré. « À moins qu’on arrive vêtus des leurs. Vêtus comme les gens de leur monde. Alors ils nous reconnaîtront. Ils diront : celle-là est des nôtres, elle s’est perdue, aidons-la. Une robe d’avant, c’est un passeport, madame. C’est ce qui fait qu’on nous ouvre la porte au lieu de nous jeter des pierres. »
 
-Il le disait bien. Il l’avait dit tant de fois qu’il le disait bien. Et sous les mots, comme une eau sous la glace de sa propre voix, il y avait la chose qu’il ne disait jamais et qu’il pensait à chaque point : *personne n’est revenu nous dire qu’on nous avait ouvert la porte. Personne n’est revenu nous dire quoi que ce soit.* Il cousait des robes pour un accueil dont il n’avait aucune preuve, et il le savait, et il cousait quand même, parce que la seule chose pire que coudre sans preuve, c’était de poser l’aiguille.
+Bien dit. Tant de fois répété qu’il le disait bien. Et sous les mots, comme une eau sous la glace de sa propre voix, il y avait la chose qu’il ne disait jamais et qu’il pensait à chaque point : *personne n’est revenu nous dire qu’on nous avait ouvert la porte. Personne n’est revenu nous dire quoi que ce soit.* Pour un accueil dont il n’avait aucune preuve, il cousait des robes, et il le savait, et il cousait quand même, parce que la seule chose pire que coudre sans preuve, c’était de poser l’aiguille.
 
 \*
 
 « Essayez. » Il lui tendit l’aiguille et une chute d’étoffe. « Un point, pour voir. »
 
-La femme prit l’aiguille comme on prend une chose sacrée dont on doute. Elle piqua, de travers, tira trop fort ; le fil fronça l’étoffe.
+La femme prit l’aiguille comme on prend une chose sacrée dont on doute. De travers elle piqua, tira trop fort ; le fil fronça l’étoffe.
 
 « Je n’ai jamais bien cousu.
 
 — Ça n’a pas d’importance. » Il défit doucement son point raté. « Ce n’est pas pour être beau. C’est pour occuper les mains pendant que la tête décide. Recommencez. Plus lâche. Laissez le fil respirer. »
 
-Elle recommença. Il la regarda coudre, cette femme qui n’aurait pas d’hiver, penchée sur un jaune qu’on ne savait plus faire, et il sentit monter ce qu’il sentait toujours à ce moment-là : la douceur de voir quelqu’un cesser un instant d’avoir peur, et, dessous, le froid de savoir vers quoi il l’apaisait. Car c’était le mot juste, il ne pouvait pas se le cacher : il *apaisait*, lui aussi. Comme l’Inspectrice. Ils faisaient le même geste, tous les deux, aux deux bouts de la ville — rendre douce à un condamné l’heure de sa fin. Elle avec une aiguille dans la peau. Lui avec une aiguille dans l’étoffe. La différence tenait tout entière dans une chose qu’il ne pouvait pas prouver : elle offrait le rien, et lui offrait le *peut-être*.
+Elle recommença. Coudre, il la regarda faire, cette femme qui n’aurait pas d’hiver, penchée sur un jaune qu’on ne savait plus faire, et il sentit monter ce qu’il sentait toujours à ce moment-là : la douceur de voir quelqu’un cesser un instant d’avoir peur, et, dessous, le froid de savoir vers quoi il l’apaisait. Car c’était le mot juste, il ne pouvait pas se le cacher : il *apaisait*, lui aussi. Comme l’Inspectrice. Le même geste, tous les deux, aux deux bouts de la ville — rendre douce à un condamné l’heure de sa fin. Elle avec une aiguille dans la peau. Lui avec une aiguille dans l’étoffe. La différence tenait tout entière dans une chose qu’il ne pouvait pas prouver : elle offrait le rien, et lui offrait le *peut-être*.
 
 « Voilà, dit-il. Vous voyez. Vous savez coudre l’avant. »
 
-La femme regarda son point — encore de travers, mais un point. Elle eut, pour la première fois depuis la ruelle, quelque chose qui n’était pas tout à fait un sourire mais qui en prenait le chemin.
+La femme regarda son point — encore de travers, mais un point. Pour la première fois depuis la ruelle, quelque chose passa sur son visage qui n’était pas tout à fait un sourire mais qui en prenait le chemin.
 
 « Comment vous appelez-vous, dit-elle.
 
-— Nael. » Il hésita, comme il hésitait toujours. « C’est le nom d’ici. J’en prendrai un autre pour passer. On en prend un ancien, pour l’autre côté. Un nom qui ouvre, pas un nom qui ferme.
+— Nael. » Une hésitation, comme toujours à ce mot. « C’est le nom d’ici. J’en prendrai un autre pour passer. On en prend un ancien, pour l’autre côté. Un nom qui ouvre, pas un nom qui ferme.
 
 — Qui ferme ?
 
-— Nos noms, à nous. Écoutez-les. » Il énuméra, presque en chantant, à mi-voix. « Nael. Sorne. Drahvel. Ça claque, ça tombe, ça se referme sur la langue comme une porte. Nos mots sont des mots d’après le malheur. Ceux de l’avant, on dit qu’ils restaient ouverts — qu’ils finissaient sur un son qui attendait encore une réponse. » Il en essaya un, doucement, un de ceux que la femme aux langues leur apprenait dans l’autre salle. « *Shalore.* Vous entendez ? Ça ne retombe pas. Ça reste en l’air. On apprend à parler comme ça, pour l’autre bord. Pour que là-bas on nous entende venir d’un monde où les mots attendaient encore quelque chose. »
+— Nos noms, à nous. Écoutez-les. » Presque en chantant, à mi-voix, il énuméra. « Nael. Sorne. Drahvel. Ça claque, ça tombe, ça se referme sur la langue comme une porte. Nos mots sont des mots d’après le malheur. Ceux de l’avant, on dit qu’ils restaient ouverts — qu’ils finissaient sur un son qui attendait encore une réponse. » Doucement, il en essaya un, un de ceux que la femme aux langues leur apprenait dans l’autre salle. « *Shalore.* Vous entendez ? Ça ne retombe pas. Ça reste en l’air. On apprend à parler comme ça, pour l’autre bord. Pour que là-bas on nous entende venir d’un monde où les mots attendaient encore quelque chose. »
 
 \*
 
-Il garda le jeton pour la fin, parce que le jeton était le cœur, et qu’on ne montre pas le cœur d’abord.
+Le jeton, il le garda pour la fin, parce que le jeton était le cœur, et qu’on ne montre pas le cœur d’abord.
 
 C’était un petit disque de bronze, lisse, usé, qu’il tira d’une bourse de cuir et posa sur l’étoffe jaune, entre eux.
 
 « Prenez-le. »
 
-Elle le prit. Elle le soupesa. Une chose ronde, froide, plus lourde qu’elle n’en avait l’air.
+Elle le prit. Dans sa paume elle le soupesa. Une chose ronde, froide, plus lourde qu’elle n’en avait l’air.
 
-« Il faut le percer, dit Nael. Au centre. Chacun perce le sien. C’est la seule chose qu’on ne fait pas pour vous. » Il posa près du disque un poinçon et un petit maillet — ses vieux outils, remarqua-t-il, ceux d’avant qu’on le coupe, les seuls qu’il eût gardés de l’homme qu’il était. « On dit que ces jetons servaient autrefois à payer le passage, du temps où l’on entrait sous une arche et où l’on ressortait à mille lieues sans avoir marché. Le passeur prenait le jeton, et vous laissait passer. »
+« Il faut le percer, dit Nael. Au centre. Chacun perce le sien. C’est la seule chose qu’on ne fait pas pour vous. » Près du disque il posa un poinçon et un petit maillet — ses vieux outils, remarqua-t-il, ceux d’avant qu’on le coupe, les seuls qu’il eût gardés de l’homme qu’il était. « On dit que ces jetons servaient autrefois à payer le passage, du temps où l’on entrait sous une arche et où l’on ressortait à mille lieues sans avoir marché. Le passeur prenait le jeton, et vous laissait passer. »
 
 « C’est vrai ?
 
-— Je n’en sais rien. » Il le dit sans détour, parce que devant le disque il fallait dire vrai, toujours ; c’était leur règle, la seule, ne pas mentir sur ce qu’on ne savait pas. « On les achète à des fouilleurs de ruines qui jurent qu’ils sont de l’avant. Les fouilleurs jurent toujours. Peut-être que celui-là a payé un passage il y a quinze siècles. Peut-être qu’un forgeron l’a coulé l’an dernier pour nous le vendre. Ça n’a aucune importance. »
+— Je n’en sais rien. » Sans détour il le dit, parce que devant le disque il fallait dire vrai, toujours ; c’était leur règle, la seule, ne pas mentir sur ce qu’on ne savait pas. « On les achète à des fouilleurs de ruines qui jurent qu’ils sont de l’avant. Les fouilleurs jurent toujours. Peut-être que celui-là a payé un passage il y a quinze siècles. Peut-être qu’un forgeron l’a coulé l’an dernier pour nous le vendre. Ça n’a aucune importance. »
 
 « Comment ça, aucune importance. »
 
 Nael prit le poinçon, le posa au centre du disque qu’elle tenait, guida la petite main tremblante de la femme jusqu’au maillet.
 
-« Parce que ce n’est pas le bronze qui vous fera passer. C’est ce que vous mettrez dedans en le perçant. » Il appuya, doucement, sur ses doigts. « Frappez. Pas fort. Juste assez pour marquer. »
+« Parce que ce n’est pas le bronze qui vous fera passer. C’est ce que vous mettrez dedans en le perçant. » Doucement, il appuya sur ses doigts. « Frappez. Pas fort. Juste assez pour marquer. »
 
 Elle frappa. Le poinçon mordit le bronze, laissa un point brillant au centre du disque terni.
 
-« Encore. Et à chaque coup, pensez à une chose de ce monde-ci que vous laissez. Votre mal. Votre peur. L’Inspectrice et son aiguille. On perce le jeton pour se percer soi-même — pour faire dans sa vie un trou par où passer, un trou au centre, propre, par où le reste de vous s’écoulera au moment du seuil. » Il la regarda frapper, le visage penché, absorbée, et le trou s’ouvrit peu à peu dans le bronze, et Nael sut qu’elle était à eux, non parce qu’il l’avait convaincue, mais parce que ses mains, maintenant, avaient une chose à faire, et que des mains qui ont une chose à faire ne cherchent plus la fiole ni la corde.
+« Encore. Et à chaque coup, pensez à une chose de ce monde-ci que vous laissez. Votre mal. Votre peur. L’Inspectrice et son aiguille. On perce le jeton pour se percer soi-même — pour faire dans sa vie un trou par où passer, un trou au centre, propre, par où le reste de vous s’écoulera au moment du seuil. » Frapper, il la regarda faire, le visage penché, absorbée, et le trou s’ouvrit peu à peu dans le bronze, et Nael sut qu’elle était à eux, non parce qu’il l’avait convaincue, mais parce que ses mains, maintenant, avaient une chose à faire, et que des mains qui ont une chose à faire ne cherchent plus la fiole ni la corde.
 
 « Voilà, dit-il quand le trou fut franc, quand on pouvait voir le jour à travers. « Vous avez percé votre passage. »
 
-Elle passa un fil dans le trou, comme il le lui montra, et pendit le disque à son cou, sous la robe, à l’endroit exact où montait le saignement — là où, ce matin encore, sa main s’était portée pour protéger le centre. Elle le tint contre elle. Il était froid.
+Elle passa un fil dans le trou, comme il le lui montra, et pendit le disque à son cou, sous la robe, à l’endroit exact où montait le saignement — là où, ce matin encore, sa main s’était portée pour protéger le centre. Contre elle, elle le tint. Le bronze était froid.
 
 « Il est froid, dit-elle.
 
 — Il est vieux. » Nael sourit, de son vrai sourire cette fois, celui qu’il ne montrait presque jamais. « Le vieux est froid. Là où vous allez, on dit qu’il devient tiède. »
 
-Il le dit, et il ne sut pas, à cet instant précis, s’il consolait cette femme ou s’il se répétait à lui-même, pour la millième fois, la seule phrase qui lui permît de descendre encore chaque soir dans cette cave sans devenir fou : *là où l’on va, le froid devient tiède.* Il l’avait dite à cent condamnés. Aucun n’était revenu lui dire que c’était vrai. Aucun n’était revenu lui dire que c’était faux. Entre les deux silences, il avait bâti sa foi comme on bâtit une maison sur une eau dont on ignore la profondeur — en n’osant jamais sonder, parce que sonder, ce serait la fin de la maison.
+Cela dit, il ne sut pas, à cet instant précis, s’il consolait cette femme ou s’il se répétait à lui-même, pour la millième fois, la seule phrase qui lui permît de descendre encore chaque soir dans cette cave sans devenir fou : *là où l’on va, le froid devient tiède.* À cent condamnés il l’avait dite. Aucun n’était revenu lui dire que c’était vrai. Aucun n’était revenu lui dire que c’était faux. Entre les deux silences, il avait bâti sa foi comme on bâtit une maison sur une eau dont on ignore la profondeur — en n’osant jamais sonder, parce que sonder, ce serait la fin de la maison.
 
 \*
 
-Il la raccompagna en haut de l’escalier, à l’air.
+En haut de l’escalier, à l’air, il la raccompagna.
 
 La nuit était tombée sur Drahk’Nor, la vraie, celle qui sentait le fer refroidi et où même les fourneaux se taisaient. La femme serrait le disque sous sa robe, et sa démarche n’était plus la même — elle avait encore ce trou dans les épaules, cette absence que Nael repérait à cinquante pas, mais dans ce trou, maintenant, il y avait quelque chose. Un peu de bronze froid, et un peut-être.
 
@@ -198,9 +198,9 @@ La nuit était tombée sur Drahk’Nor, la vraie, celle qui sentait le fer refro
 
 Nael regarda ses mains — celles qui avaient tenu un marteau, celles qui n’entendaient plus rien depuis qu’on l’avait mal coupé, celles qui cousaient des robes et perçaient des jetons et guidaient chaque soir vers un seuil des gens dont pas un ne revenait.
 
-« Je dis qu’on m’a pris mon écoute des morts en croyant me sauver, dit-il lentement. Et que je ne les entends plus, ceux qui poussent contre les murs, alors que je les entendais mieux que personne. Et que ça, ce silence-là, on me l’a fait au nom d’un soin, exactement comme l’Inspectrice ferait le sien au nom d’un soin. » Il tourna vers la femme un visage où, pour une fois, il ne cachait rien. « Alors quand quelqu’un m’offre le choix entre deux soins qui vous éteignent — la coupure qui vous mutile, l’aiguille qui vous tue —, et une porte dont personne ne sait rien, moi je prends la porte. Pas parce que je sais qu’il y a un matin derrière. Parce que c’est la seule des trois qu’on ne m’ait pas déjà refermée sur le corps sans me demander mon avis. »
+« Je dis qu’on m’a pris mon écoute des morts en croyant me sauver, dit-il lentement. Et que je ne les entends plus, ceux qui poussent contre les murs, alors que je les entendais mieux que personne. Et que ça, ce silence-là, on me l’a fait au nom d’un soin, exactement comme l’Inspectrice ferait le sien au nom d’un soin. » Vers la femme il tourna un visage où, pour une fois, il ne cachait rien. « Alors quand quelqu’un m’offre le choix entre deux soins qui vous éteignent — la coupure qui vous mutile, l’aiguille qui vous tue —, et une porte dont personne ne sait rien, moi je prends la porte. Pas parce que je sais qu’il y a un matin derrière. Parce que c’est la seule des trois qu’on ne m’ait pas déjà refermée sur le corps sans me demander mon avis. »
 
-Il la laissa partir dans la nuit, le disque contre le cœur, et il resta un moment en haut de l’escalier, à respirer l’air de fer.
+Dans la nuit il la laissa partir, le disque contre le cœur, et il resta un moment en haut de l’escalier, à respirer l’air de fer.
 
 Puis il redescendit coudre. Il y avait toujours quelqu’un à habiller pour avant.
 

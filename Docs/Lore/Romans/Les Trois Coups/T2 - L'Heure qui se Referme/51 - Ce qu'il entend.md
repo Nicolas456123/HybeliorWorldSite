@@ -32,7 +32,7 @@ La pièce d’à côté est encore là. Mais plus personne n’y parle.
 
 Je le sais parce que je suis le seul à savoir écouter par en bas, maintenant, et que quand j’écoute, je n’entends pas la foule. Je l’ai cherchée. On m’avait tant parlé d’elle que je croyais la trouver, tout au fond, ce grand chuchotis de gens qui ne s’accordent pas sur le jour. Il n’y est pas. Il y a du silence à sa place — un silence qui a la forme exacte de la foule, comme le creux d’un lit garde la forme du dormeur parti. Quelque chose a parlé là, longtemps, très longtemps, quinze cents ans peut-être, et vient de se taire.
 
-C’était eux qui racontaient, avant moi. Tous ces perdus. C’étaient eux, la voix.
+C’étaient eux qui racontaient, avant moi. Tous ces perdus. C’étaient eux, la voix.
 
 Et maintenant c’est moi. Parce qu’il faut bien que quelqu’un dise le monde, et que je suis le premier depuis longtemps à pouvoir le dire d’un seul temps, sans saigner, sans me tromper de bout.
 

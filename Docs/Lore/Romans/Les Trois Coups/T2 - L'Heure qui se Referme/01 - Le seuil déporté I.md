@@ -115,7 +115,7 @@ Et puis il y a les autres. Ceux qu’on a jetés vers l’avant. Vers un après 
 
 Il y a une pierre.
 
-Il y a une pierre et dessus il y a des marques et un homme se penche sur les marques et il ne sait pas — il croit que ça parle d’un chiffre, il croit que ça parle de — le mot ne — il croit que ça parle des huit mais il n’y a pas huit, il n’y a jamais eu — non. Attendez. Ce n’est pas encore. Ça n’est pas encore arrivé, l’homme et la pierre, c’est très loin devant, très loin devant vous même, un froid au bout du froid, et pourtant je le vois comme je vois ma main sauf que je n’ai plus de —
+Il y a une pierre et dessus il y a des marques et un homme se penche sur les marques et il ne sait pas — il croit que ça parle d’un chiffre, il croit que ça parle de — le mot ne — il croit que ça parle des huit mais il n’y a pas huit, il n’y a jamais eu — non. Attendez. Ce n’est pas encore. Ça n’est pas encore arrivé, l’homme et la pierre, c’est très loin devant, très loin devant vous-même, un froid au bout du froid, et pourtant je le vois comme je vois ma main sauf que je n’ai plus de —
 
 Il y a une pulsation.
 
