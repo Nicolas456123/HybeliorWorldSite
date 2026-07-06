@@ -11,7 +11,7 @@ status: draft
 
 Nous étions en train de nous taire quand c’est passé.
 
-C’est important, ça, l’ordre des choses, et nous voulons le dire juste tant qu’il nous reste de quoi le dire. Ce n’est pas l’heure qui a fait le trou. L’heure refermait — nous la sentions refermer, une à une les déchirures se pinçaient comme des lèvres, et chacune en se pinçant figeait l’un de nous à sa dernière place, le père à sa main lâchée, l’ancré à son milieu, la lointaine à son mot d'*enfant*. Ça, nous vous l’avions dit. Ça, c’était promis, c’était su, c’était doux presque, la fin du saignement. Nous nous couchions les uns après les autres dans le même blanc, sans peur, contents d’en finir de chercher.
+C’est important, ça, l’ordre des choses, et nous voulons le dire juste tant qu’il nous reste de quoi le dire. Ce n’est pas l’heure qui a fait le trou. L’heure refermait — nous la sentions refermer, une à une les déchirures se pinçaient comme des lèvres, et chacune en se pinçant figeait l’un de nous à sa dernière place, le père à sa main lâchée, l’ancré à son milieu, la lointaine à son mot d’*enfant*. Ça, nous vous l’avions dit. Ça, c’était promis, c’était su, c’était doux presque, la fin du saignement. Nous nous couchions les uns après les autres dans le même blanc, sans peur, contents d’en finir de chercher.
 
 Et pendant que nous nous couchions — pas avant, pas après, *pendant*, dans le même souffle —, autre chose est passé.
 

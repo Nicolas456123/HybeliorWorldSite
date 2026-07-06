@@ -62,7 +62,7 @@ Il y eut une fenêtre du fond que les Inspecteurs n’avaient pas jugé digne de
 
 Il marcha. C’était tout ce qu’il savait faire : marcher, et copier, et tenir la main des mourants — et de ces trois, seul marcher lui restait, cette nuit-là.
 
-Derrière lui, la lueur montait sur les toits, orange, gourmande. Il pensa, sans amertume, presque avec une paix étrange : *ils croient l’avoir brûlé.* Ils croyaient toujours l’avoir brûlé. À Baelor, à Sanavir, dans les cellules gelées d’Alkaran, ils l’avaient brûlé cent fois — et cent fois une copie était sortie par une fenêtre trop étroite, contre une poitrine, sous une tunique. On ne brûle pas une eau qui a déjà trouvé cent chenals. Contre son cœur il portait le cent-unième, et il sourit dans le noir, de son demi-sourire, celui qu’il gardait pour les vérités qui ne consolent pas mais qui tiennent chaud.
+Derrière lui, la lueur montait sur les toits, orange, gourmande. Il pensa, sans amertume, presque avec une paix étrange : *ils croient l’avoir brûlé.* Ils croyaient toujours l’avoir brûlé. À Baelor, à Sanavir, dans les cellules gelées d’Alkaran, ils l’avaient brûlé cent fois — et cent fois une copie était sortie par une fenêtre trop étroite, contre une poitrine, sous une tunique. On ne brûle pas une eau qui a déjà trouvé cent chenaux. Contre son cœur il portait le cent-unième, et il sourit dans le noir, de son demi-sourire, celui qu’il gardait pour les vérités qui ne consolent pas mais qui tiennent chaud.
 
 *
 

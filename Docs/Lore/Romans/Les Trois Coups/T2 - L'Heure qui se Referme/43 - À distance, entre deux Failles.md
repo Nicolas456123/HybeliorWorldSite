@@ -92,7 +92,7 @@ Et entre elle et la femme, il y avait le temps couché en travers, et le temps n
 
 L’enfant tourna la tête.
 
-Trop loin pour que Vaenor lût un visage, elles n’étaient — trop loin pour rien qu’une tache pâle sous des cheveux sombres —, mais la tête tourna, se fixa dans sa direction, et Vaenor eut la certitude absurde, indéracinable, que la petite l’avait vue.
+Trop loin pour que Vaenor lût un visage, elle n’était — trop loin pour rien qu’une tache pâle sous des cheveux sombres —, mais la tête tourna, se fixa dans sa direction, et Vaenor eut la certitude absurde, indéracinable, que la petite l’avait vue.
 
 Ce n’était pas possible. Une enfant, à cette distance, à travers le tremblement de l’air au-dessus du givre, ne distinguait pas une femme immobile au ras d’une haie grise. Et pourtant la tête ne bougeait plus, tournée vers elle, et Vaenor se tint immobile sous ce regard qu’elle ne pouvait pas voir et qui la voyait peut-être, et elle pensa à la fille du moulin.
 

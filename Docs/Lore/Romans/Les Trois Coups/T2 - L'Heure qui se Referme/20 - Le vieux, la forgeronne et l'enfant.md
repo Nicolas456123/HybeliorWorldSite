@@ -75,7 +75,7 @@ La femme, elle, avait repris son marteau. Pas pour frapper. Pour le tenir, comme
 
 Pourtant il ne sortit pas.
 
-« Vous avez raison de vouloir que je sorte, dit Ombreth, sans bouger de la marche. À votre place, je le voudrais aussi. Un vieux qui descend de nulle part et qui dit qu’il vient pour l’enfant — on chauffe le fer pour moins que ça. » Le bâton alla contre le mur, lentement, dans le geste de qui montre qu’il n’a pas les mains libres pour nuire. « Alors écoutez-moi juste le temps de refroidir. Si après vous voulez toujours que je sorte, je sors, et vous ne me reverrez pas. Je n’en ai plus pour longtemps, de toute façon. Je ne vous encombrerai pas vieux.
+« Vous avez raison de vouloir que je sorte, dit Ombreth, sans bouger de la marche. À votre place, je le voudrais aussi. Un vieux qui descend de nulle part et qui dit qu’il vient pour l’enfant — on chauffe le fer pour moins que ça. » Le bâton alla contre le mur, lentement, dans le geste de qui montre qu’il n’a pas les mains libres pour nuire. « Alors écoutez-moi juste le temps de refroidir. Si après vous voulez toujours que je sorte, je sors, et vous ne me reverrez pas. Je n’en ai plus pour longtemps, de toute façon. Je ne vous encombrerai pas longtemps.
 
 — Vous parlez trop pour un homme qui veut du bien.
 

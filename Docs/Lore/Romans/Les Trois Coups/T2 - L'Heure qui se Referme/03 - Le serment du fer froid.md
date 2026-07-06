@@ -87,7 +87,7 @@ La charnière laissée à refroidir dans la trempe, la mère Sanvel s’assit su
 
 « Ouvre-le », dit la mère Sanvel.
 
-Kessane défit la toile. Sous la toile, il y avait le cuir, un étui d’un cuir sombre et poli par les mains, plus vieux que celui du sien dans la cave, beaucoup plus vieux ; et sous le cuir, le cahier.
+Kessane défit la toile. Sous la toile, il y avait le cuir, un étui d’un cuir sombre et poli par les mains, plus vieux que le sien dans la cave, beaucoup plus vieux ; et sous le cuir, le cahier.
 
 Le cahier, elle le reconnut, et ne le reconnut pas. C’était le même que le sien — la même écriture qui changeait tous les vingt feuillets, la même encre qui virait de teinte comme si une file de gens s’étaient passé la plume sans se voir. Mais celui-là était plus épais. Plus gonflé aux tranches, mangé aux coins, réparé, recousu, avec des feuillets ajoutés d’une main puis d’une autre, comme un mur qu’on rebâtit à chaque génération sans jamais l’abattre.
 

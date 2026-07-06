@@ -51,7 +51,7 @@ Voilà ce qu’elle était venue chercher sans le savoir, et voilà ce qu’elle
 
 Le lui dire, elle l’aurait pu. *Vous n’y étiez pas.* Avec la clarté d’Inspectrice qui ne l’avait pas quittée même en cet instant, elle savait que cela ne pèserait rien. Drahvel se méfiait précisément de ce qui s’y trouvait. Un homme qui monte dans les champs revient avec des visages plein la tête, et les visages faussent les sommes ; c’était sa doctrine, presque nommée : *ne pas monter, pour ne pas voir, pour compter juste.* À distance, il tenait le district comme un chirurgien tient un corps sous un drap avec un seul trou découpé à l’endroit du geste — pour ne pas voir la personne, pour n’entamer que la chair.
 
-« Admettons qu’il ait été coupé, reprit Drahvel, et l’admettre lui coûtait si peu qu’elle comprit qu’il l’avait déjà admis, et calculé, avant qu’elle entrât. « Admettons. Un signalé sur combien, Inspectrice ? Vous en avez apaisé combien, vous, en vingt ans de service ? »
+« Admettons qu’il ait été coupé, reprit Drahvel, et l’admettre lui coûtait si peu qu’elle comprit qu’il l’avait déjà admis, et calculé, avant qu’elle entrât. Admettons. Un signalé sur combien, Inspectrice ? Vous en avez apaisé combien, vous, en vingt ans de service ? »
 
 Répondre, elle n’en fit rien. C’était la règle : elle posait les questions ; on n’en posait pas ; on ne répondait pas à celles qu’on ne posait pas. Mais Drahvel connaissait le chiffre — il connaissait tous les chiffres — et il le posa lui-même, à voix nue, sans reproche, comme on pose un poids sur un plateau.
 

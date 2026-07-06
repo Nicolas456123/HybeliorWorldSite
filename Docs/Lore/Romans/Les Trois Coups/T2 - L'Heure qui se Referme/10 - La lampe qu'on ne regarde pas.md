@@ -91,7 +91,7 @@ Tomm était son fils. Douze ans. Un garçon maigre que Kessane avait vu courir s
 
 « J’ai rien su. J’ai pas été bonne voisine, ces temps-ci. J’ai eu… » Elle chercha. « J’ai eu de quoi m’occuper chez moi.
 
-— On a tous de quoi s’occuper chez soi. » Maren eut un sourire qui n’en était pas un. « C’est même ça, l’époque. Chacun avec son de-quoi-s’occuper, bien caché derrière sa porte, et on se croise dehors avec nos visages de forgerons. » Elle avait repris la formule sans le savoir, la formule exacte que Kessane s’était donnée le matin même, et Kessane comprit que tout le vallon la portait, cette formule, que c’était devenue la manière de vivre du lieu le plus sûr du monde. « Tomm est parti. »
+— On a tous de quoi s’occuper chez soi. » Maren eut un sourire qui n’en était pas un. « C’est même ça, l’époque. Chacun avec son de-quoi-s’occuper, bien caché derrière sa porte, et on se croise dehors avec nos visages de forgerons. » Elle avait repris la formule sans le savoir, la formule exacte que Kessane s’était donnée le matin même, et Kessane comprit que tout le vallon la portait, cette formule, que c’était devenu la manière de vivre du lieu le plus sûr du monde. « Tomm est parti. »
 
 « Parti où.
 

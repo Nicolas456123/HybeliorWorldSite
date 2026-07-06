@@ -172,7 +172,7 @@ Elle frappa. Le poinçon mordit le bronze, laissa un point brillant au centre du
 
 « Encore. Et à chaque coup, pensez à une chose de ce monde-ci que vous laissez. Votre mal. Votre peur. L’Inspectrice et son aiguille. On perce le jeton pour se percer soi-même — pour faire dans sa vie un trou par où passer, un trou au centre, propre, par où le reste de vous s’écoulera au moment du seuil. » Frapper, il la regarda faire, le visage penché, absorbée, et le trou s’ouvrit peu à peu dans le bronze, et Nael sut qu’elle était à eux, non parce qu’il l’avait convaincue, mais parce que ses mains, maintenant, avaient une chose à faire, et que des mains qui ont une chose à faire ne cherchent plus la fiole ni la corde.
 
-« Voilà, dit-il quand le trou fut franc, quand on pouvait voir le jour à travers. « Vous avez percé votre passage. »
+« Voilà, dit-il quand le trou fut franc, quand on pouvait voir le jour à travers. » « Vous avez percé votre passage. »
 
 Elle passa un fil dans le trou, comme il le lui montra, et pendit le disque à son cou, sous la robe, à l’endroit exact où montait le saignement — là où, ce matin encore, sa main s’était portée pour protéger le centre. Contre elle, elle le tint. Le bronze était froid.
 

@@ -201,7 +201,7 @@ Lirenn regarda leurs deux mains jointes. Longtemps.
 
 — Mais la dame passait par là aussi. Et la dame était pas froide. »
 
-« Non, dit Kessane, et sa voix, en le disant, était douce comme elle ne se l’était pas entendue depuis longtemps. « La dame était pas froide. C’est ça le pire de ce que j’ai fait, ma toute, et je vais te le dire une fois, une seule, et après on n’en parlera plus, on vivra : j’ai fermé la porte pour arrêter le froid, et j’ai pas pu choisir de laisser passer la dame. La porte, ça laisse tout entrer ou ça n’arrête rien. J’ai pas coupé le mauvais et gardé le bon. J’ai tout coupé. Le froid et la dame ensemble. Parce que c’était le même chemin. »
+« Non, dit Kessane, et sa voix, en le disant, était douce comme elle ne se l’était pas entendue depuis longtemps. La dame était pas froide. C’est ça le pire de ce que j’ai fait, ma toute, et je vais te le dire une fois, une seule, et après on n’en parlera plus, on vivra : j’ai fermé la porte pour arrêter le froid, et j’ai pas pu choisir de laisser passer la dame. La porte, ça laisse tout entrer ou ça n’arrête rien. J’ai pas coupé le mauvais et gardé le bon. J’ai tout coupé. Le froid et la dame ensemble. Parce que c’était le même chemin. »
 
 Elle attendit que l’enfant comprenne, et l’enfant comprit, on le vit — cette gravité d’enfant qui pèse plus lourd que celle des grands descendit sur ses traits et s’y installa pour de bon, pour rester, un poids qu’elle porterait désormais aussi naturellement que le tablier de cuir trop long qu’elle refusait de raccourcir.
 

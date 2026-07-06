@@ -246,4 +246,4 @@ Kessane roula la couverture, chargea le sac, prit la main de sa fille — dur au
 
 Elles descendirent le fil.
 
-Et loin derrière elles, sur une route qui n’existait presque plus, une femme qui ne haussait jamais la voix regardait la Plaine se trouer à vue d’œil et comprenait qu’elle ne pouvait pas suivre — tandis que sous l’herbe qui blanchissait, très bas, très patient, quelque chose de grand qui ne savait pas lui-même quand il était fini de compter, et referma le premier doigt.
+Et loin derrière elles, sur une route qui n’existait presque plus, une femme qui ne haussait jamais la voix regardait la Plaine se trouer à vue d’œil et comprenait qu’elle ne pouvait pas suivre — tandis que sous l’herbe qui blanchissait, très bas, très patient, quelque chose de grand qui ne savait pas lui-même quand il était fini de compter, referma le premier doigt.

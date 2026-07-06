@@ -161,7 +161,7 @@ C’est notre chagrin à nous, les entiers du malheur. Nous qui n’avons franch
 
 Et pourtant regardez-les — les vingt-deux du Mont-Gris. Revenus vides, amputés, spoliés de trois mois de plein. Le lendemain, ils ont ressorti les bêtes. Le lard, ils l’ont salé. Ils ont refait le hameau debout, dans leur temps à eux, avec leur silence à eux derrière les bruits. Dire ce qu’ils avaient perdu, ils n’ont pas su ; ils ont vécu quand même. C’est peut-être ça que nous vous donnons ce soir, sous celle qui parle : non pas ceux que la déchirure a pris, mais ceux qui restent debout après qu’elle a rendu — vides, trompés, et debout.
 
-Elle chante en bas, le vieux, encore, pour quelques nuits. Il chante pour ses morts et il ne sait pas qu’il chante aussi pour une femme tombée deux cents ans derrière, ni pour vous, ni pour l’heure qui vient. Bientôt il ne chantera plus. Et quand il ne chantera plus, il n’y aura plus personne, en Alkaran, pour entendre passer les vides à travers l’épaisseur des ans. Ils passeront quand même. Ils passent toujours. Simplement, plus personne ne les recevra.
+Il chante en bas, le vieux, encore, pour quelques nuits. Il chante pour ses morts et il ne sait pas qu’il chante aussi pour une femme tombée deux cents ans derrière, ni pour vous, ni pour l’heure qui vient. Bientôt il ne chantera plus. Et quand il ne chantera plus, il n’y aura plus personne, en Alkaran, pour entendre passer les vides à travers l’épaisseur des ans. Ils passeront quand même. Ils passent toujours. Simplement, plus personne ne les recevra.
 
 Retenez la femme du Mont-Gris. Retenez son geste, quand elle touchera le lisse.
 
