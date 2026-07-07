@@ -27,6 +27,16 @@
     line-height: 1.7;
     font-size: .95rem;
 }
+.chron-header .chron-resume-texte {
+    text-align: justify;
+}
+.chron-header .chron-resume-texte p {
+    margin-bottom: .8em;
+}
+.chron-header .chron-resume-texte p:last-child {
+    margin-bottom: 0;
+    font-style: italic;
+}
 
 /* ── Act navigation ─────────────────────────────────── */
 .chron-act-nav {
@@ -1073,6 +1083,13 @@
     // ── Fetch index ──────────────────────────────────────────
     fetch('/Docs/Lore/Chroniques/chroniques-index.json')
         .then(function(r) { if (!r.ok) throw new Error('HTTP ' + r.status); return r.json(); })
+        .then(function(data) {
+            // Quatrième de couverture (_resume.md, optionnel)
+            return fetch('/Docs/Lore/Chroniques/_resume.md')
+                .then(function(r) { return r.ok ? r.text() : ''; })
+                .catch(function() { return ''; })
+                .then(function(md) { data.resume = md; return data; });
+        })
         .then(function(data) { indexData = data; allChapters = data.chapitres; buildUI(data); openChapterFromHash(); })
         .catch(function(err) { root.innerHTML = '<div class="chron-loading">Erreur de chargement : ' + err.message + '</div>'; });
 
@@ -1104,6 +1121,21 @@
         if (num) openChapter(num, { keepHash: true });
     }
 
+    // Quatrième de couverture : _resume.md (frontmatter retiré) rendu en
+    // paragraphes ; repli sur le texte d'intro historique si absent.
+    function resumeBlockHtml(resumeMd, introFallback) {
+        var md = String(resumeMd || '').replace(/^---\r?\n[\s\S]*?\r?\n---\r?\n/, '').trim();
+        var source = md || String(introFallback || '').trim();
+        if (!source) return '';
+        var h = '<div class="chron-intro chron-resume-texte">';
+        source.split(/\r?\n\s*\r?\n/).forEach(function(p) {
+            var t = p.replace(/\r?\n/g, ' ').trim();
+            if (t) h += '<p>' + escHtml(t) + '</p>';
+        });
+        h += '</div>';
+        return h;
+    }
+
     // ── Build page UI ────────────────────────────────────────
     function buildUI(data) {
         var html = '';
@@ -1112,10 +1144,9 @@
         html += '<div class="chron-header">';
         html += '<h2>' + escHtml(data.title) + '</h2>';
         html += '<div class="chron-subtitle">' + escHtml(data.subtitle) + '</div>';
-        html += '<p class="chron-intro">';
-        html += 'Banni de Kharazir pour avoir cartographi\u00e9 des lieux interdits, Sorin Valthen entreprend un voyage \u00e0 travers les treize continents d\u2019Hyb\u00e9lior. ';
-        html += 'Son journal, r\u00e9dig\u00e9 au fil de 910 jours d\u2019exil, constitue le r\u00e9cit le plus complet jamais \u00e9crit sur les peuples, les paysages et les myst\u00e8res de ce monde.';
-        html += '</p>';
+        html += resumeBlockHtml(data.resume,
+            'Banni de Kharazir pour avoir cartographi\u00e9 des lieux interdits, Sorin Valthen entreprend un voyage \u00e0 travers les treize continents d\u2019Hyb\u00e9lior. ' +
+            'Son journal, r\u00e9dig\u00e9 au fil de 910 jours d\u2019exil, constitue le r\u00e9cit le plus complet jamais \u00e9crit sur les peuples, les paysages et les myst\u00e8res de ce monde.');
         html += '</div>';
 
         // Act navigation

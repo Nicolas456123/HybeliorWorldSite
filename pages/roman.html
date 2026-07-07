@@ -27,6 +27,16 @@
     line-height: 1.7;
     font-size: .95rem;
 }
+.chron-header .chron-resume-texte {
+    text-align: justify;
+}
+.chron-header .chron-resume-texte p {
+    margin-bottom: .8em;
+}
+.chron-header .chron-resume-texte p:last-child {
+    margin-bottom: 0;
+    font-style: italic;
+}
 
 /* ── Act navigation ─────────────────────────────────── */
 .chron-act-nav {
@@ -1126,6 +1136,13 @@
                     .then(normalizeRomanIndex);
             })
             .then(function(data) {
+                // Quatrième de couverture (_resume.md du tome, optionnel)
+                return fetch('/Docs/' + currentTome.dossier + '/_resume.md')
+                    .then(function(r) { return r.ok ? r.text() : ''; })
+                    .catch(function() { return ''; })
+                    .then(function(md) { data.resume = md; return data; });
+            })
+            .then(function(data) {
                 indexData = data;
                 allChapters = data.chapitres;
                 buildUI(data);
@@ -1176,6 +1193,21 @@
         return t;
     }
 
+    // Quatrième de couverture : _resume.md (frontmatter retiré) rendu en
+    // paragraphes ; repli sur l'intro courte de l'index si absent.
+    function resumeBlockHtml(resumeMd, introFallback) {
+        var md = String(resumeMd || '').replace(/^---\r?\n[\s\S]*?\r?\n---\r?\n/, '').trim();
+        var source = md || String(introFallback || '').trim();
+        if (!source) return '';
+        var h = '<div class="chron-intro chron-resume-texte">';
+        source.split(/\r?\n\s*\r?\n/).forEach(function(p) {
+            var t = p.replace(/\r?\n/g, ' ').trim();
+            if (t) h += '<p>' + escHtml(t) + '</p>';
+        });
+        h += '</div>';
+        return h;
+    }
+
     function openChapterByKey(key) {
         if (!key) return;
         for (var i = 0; i < allChapters.length; i++) {
@@ -1205,9 +1237,7 @@
         html += '<div class="chron-header">';
         html += '<h2>' + escHtml(data.title) + '</h2>';
         html += '<div class="chron-subtitle">' + escHtml(data.subtitle) + '</div>';
-        html += '<p class="chron-intro">';
-        html += escHtml(data.intro || '');
-        html += '</p>';
+        html += resumeBlockHtml(data.resume, data.intro);
         html += '</div>';
 
         // Act navigation
