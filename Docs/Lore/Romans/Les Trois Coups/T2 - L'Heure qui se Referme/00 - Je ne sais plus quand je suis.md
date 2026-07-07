@@ -2,7 +2,7 @@
 tags: [roman, trois-coups, tome-2, fleau-des-failles, prologue, voix-deportees, journal-de-thessan]
 type: roman-chapitre
 partie: prologue
-titre: Ce que je ne sais plus quand
+titre: Je ne sais plus quand je suis
 pov: Le chœur des Voix Déportées (irruption 1 — une Voix jetée avant l'Arrachement, ~an -30)
 status: draft
 ---

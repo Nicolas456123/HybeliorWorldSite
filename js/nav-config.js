@@ -32,7 +32,7 @@ const NavConfig = {
         - #continent/<key> : fiche continent (factuel)
         - #nation/<slug>   : fiche Description d'une nation (factuel)
         - #histoire/<slug> : récit (Histoire) d'une nation (Chroniques) */
-    loreSubroutes: ['vision', 'monde', 'mecaniques', 'systemes', 'histoires', 'nation', 'continent', 'histoire', 'religion', 'roman', 'livre'],
+    loreSubroutes: ['vision', 'monde', 'mecaniques', 'systemes', 'histoires', 'nation', 'continent', 'histoire', 'religion', 'roman'],
 
     /** Continents et nations — source unique pour :
         - la landing lore-histoires (cartes par continent)
@@ -150,6 +150,33 @@ const NavConfig = {
     },
 
     /** Roman « La Septième Heure » — source unique pour le sommaire et le sidebar. */
+    romans: [
+        {
+            key: 't1',
+            tome: 1,
+            label: 'T1 — La Septième Heure',
+            titre: 'La Septième Heure',
+            sousTitre: "L'Arrachement — An 0",
+            dossier: 'Lore/Romans/Les Trois Coups/T1 - La Septième Heure',
+        },
+        {
+            key: 't2',
+            tome: 2,
+            label: "T2 — L'Heure qui se Referme",
+            titre: "L'Heure qui se Referme",
+            sousTitre: 'Le Fléau des Failles — Ère V',
+            dossier: "Lore/Romans/Les Trois Coups/T2 - L'Heure qui se Referme",
+        },
+        {
+            key: 't3',
+            tome: 3,
+            label: "T3 — L'Heure qui Naît",
+            titre: "L'Heure qui Naît",
+            sousTitre: 'Le Sillage — Ère VII',
+            dossier: "Lore/Romans/Les Trois Coups/T3 - L'Heure qui Naît",
+        },
+    ],
+
     roman: {
         "trilogie": "Les Trois Coups",
         "tome": 1,
@@ -620,7 +647,7 @@ const NavConfig = {
             intro: "Les récits de voyageurs, les religions, la chronologie, les augures.",
             links: [
                 { label: 'Chroniques de Sorin Valthen', href: '#histoires/chroniques' },
-                { label: 'La Septième Heure (roman)', href: '#roman' },
+                { label: 'Romans', href: '#roman/t1' },
                 { label: 'Nations',              href: '#histoires/histoires' },
                 { label: 'Religions',            href: '#monde/religions' },
                 { label: 'Chronologie',          href: '#monde/chronologie' },
@@ -642,7 +669,7 @@ const NavConfig = {
             return (this.loreCategories || []).find(c => c.key === 'monde') || null;
         }
         // Côté CHRONIQUES : récit (Histoire) d'une nation (#histoire/), religions
-        // (#religion/) et le roman « La Septième Heure » (#roman/…).
+        // (#religion/) et les romans (#roman/…).
         if (route === 'histoire' || route === 'religion' || route === 'roman') {
             return (this.loreCategories || []).find(c => c.key === 'chroniques') || null;
         }

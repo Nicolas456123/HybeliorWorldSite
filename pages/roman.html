@@ -1,4 +1,4 @@
-<!-- ===== Les Chroniques de l'Exilé ===== -->
+﻿<!-- ===== Les Chroniques de l'Exilé ===== -->
 
 <style>
 /* ── Header ─────────────────────────────────────────── */
@@ -249,49 +249,6 @@
     margin: 1.5rem 0;
 }
 .chron-md-content em { color: var(--text-muted); }
-
-/* ── Audio player (lecture audio chapitre) ──────────── */
-.chron-audio-block {
-    background: rgba(0, 0, 0, 0.25);
-    border: 1px solid var(--panel-border);
-    border-radius: var(--radius);
-    padding: .8rem 1rem;
-    margin-bottom: 1.5rem;
-    display: flex;
-    flex-direction: column;
-    gap: .5rem;
-}
-.chron-audio-label {
-    font-family: 'Cinzel', serif;
-    font-size: .85rem;
-    color: var(--gold);
-    letter-spacing: .04em;
-    display: flex;
-    align-items: center;
-    gap: .5rem;
-}
-.chron-audio-icon {
-    font-size: 1.1rem;
-}
-.chron-audio-partial {
-    font-family: 'Raleway', sans-serif;
-    font-style: italic;
-    font-size: .75rem;
-    color: var(--text-muted);
-    font-weight: 400;
-    letter-spacing: 0;
-}
-.chron-audio-block audio {
-    width: 100%;
-    height: 36px;
-    filter: sepia(15%) saturate(0.9) hue-rotate(-15deg);
-}
-/* Empêche le bloc audio d'être coupé entre deux colonnes en mode page */
-.chron-modal-body.page-mode .chron-audio-block {
-    break-inside: avoid;
-    -webkit-column-break-inside: avoid;
-    page-break-inside: avoid;
-}
 
 /* ── Placeholder (unwritten chapter) ────────────────── */
 .chron-placeholder {
@@ -1093,9 +1050,11 @@
     var bookTotalWords = 0;
     var progressScope = 'chapter';
     var readingSession = { startTime: 0, startWords: 0, wpm: 220 };
+    var currentTomeKey = 't1';
+    var currentTome = null;
 
     // Mode lecture (scroll | page) + état pagination
-    var STORAGE_KEY_MODE = 'hybelior_roman_septieme_heure_mode';
+    var STORAGE_KEY_MODE = 'hybelior_roman_mode';
     var readMode = (function() {
         try { return localStorage.getItem(STORAGE_KEY_MODE) || 'scroll'; }
         catch(e) { return 'scroll'; }
@@ -1114,21 +1073,107 @@
     var fsIcon = document.getElementById('chron-fs-icon');
 
     // ── Fetch index ──────────────────────────────────────────
-    fetch('/Docs/' + NavConfig.roman.dossier + '/roman-reader-index.json')
-        .then(function(r) { if (!r.ok) throw new Error('HTTP ' + r.status); return r.json(); })
-        .then(function(data) {
-            indexData = data;
-            allChapters = data.chapitres;
-            buildUI(data);
-            openChapterFromHash();
-        })
-        .catch(function(err) { root.innerHTML = '<div class="chron-loading">Erreur de chargement : ' + err.message + '</div>'; });
+    loadCurrentTome();
 
-    function currentRomanKey() {
+    function currentRomanInfo() {
         var raw = window.location.hash.slice(1);
         var parts = raw.split('/');
-        if (parts[0] !== 'roman') return null;
-        return decodeURIComponent(parts.slice(1).join('/')) || null;
+        if (parts[0] !== 'roman') return { tomeKey: 't1', chapterKey: null };
+        var rest = parts.slice(1).filter(Boolean);
+        var tomeKey = 't1';
+        var chapterParts = rest;
+        if (rest[0] && /^t\d+$/i.test(rest[0])) {
+            tomeKey = rest[0].toLowerCase();
+            chapterParts = rest.slice(1);
+        }
+        return {
+            tomeKey: tomeKey,
+            chapterKey: decodeURIComponent(chapterParts.join('/')) || null
+        };
+    }
+
+    function getTomeByKey(key) {
+        var romans = (NavConfig && NavConfig.romans) || [];
+        for (var i = 0; i < romans.length; i++) {
+            if (romans[i].key === key) return romans[i];
+        }
+        return romans[0] || {
+            key: 't1',
+            titre: NavConfig.roman.titre,
+            sousTitre: NavConfig.roman.sousTitre,
+            dossier: NavConfig.roman.dossier
+        };
+    }
+
+    function loadCurrentTome() {
+        var info = currentRomanInfo();
+        currentTomeKey = info.tomeKey || 't1';
+        currentTome = getTomeByKey(currentTomeKey);
+        indexData = null;
+        allChapters = [];
+        currentChapterIdx = -1;
+        mdCache = {};
+        bookLoaded = false;
+        chapterMetrics = [];
+        bookTotalWords = 0;
+        root.innerHTML = '<div class="chron-loading">Chargement de l\'index des chapitres...</div>';
+
+        fetch('/Docs/' + currentTome.dossier + '/roman-reader-index.json')
+            .then(function(r) {
+                if (r.ok) return r.json();
+                return fetch('/Docs/' + currentTome.dossier + '/roman-index.json')
+                    .then(function(r2) { if (!r2.ok) throw new Error('HTTP ' + r2.status); return r2.json(); })
+                    .then(normalizeRomanIndex);
+            })
+            .then(function(data) {
+                indexData = data;
+                allChapters = data.chapitres;
+                buildUI(data);
+                openChapterFromHash();
+            })
+            .catch(function(err) {
+                root.innerHTML = '<div class="chron-loading">Erreur de chargement : ' + err.message + '</div>';
+            });
+    }
+
+    function normalizeRomanIndex(idx) {
+        var out = {
+            title: idx.title || idx.titre || (currentTome && currentTome.titre) || 'Livre',
+            subtitle: idx.subtitle || idx.sousTitre || (currentTome && currentTome.sousTitre) || '',
+            intro: idx.intro || '',
+            basePath: '/Docs/' + (idx.dossier || (currentTome && currentTome.dossier) || ''),
+            actes: [],
+            chapitres: []
+        };
+        var n = 0;
+        (idx.parties || []).forEach(function(partie, pi) {
+            var nums = [];
+            (partie.chapitres || []).forEach(function(ch) {
+                var num = n++;
+                nums.push(num);
+                out.chapitres.push({
+                    num: num,
+                    titre: ch.label || ch.titre || ch.file || ('Chapitre ' + num),
+                    fichier: ch.file || ch.fichier,
+                    partie: partie.titre || '',
+                    meta: ch.meta || '',
+                    key: ch.key || String(num)
+                });
+            });
+            out.actes.push({
+                num: String(pi),
+                titre: prettyPart(partie.titre),
+                chapitres: nums
+            });
+        });
+        return out;
+    }
+
+    function prettyPart(titre) {
+        var t = String(titre || '');
+        if (/^prologue$/i.test(t)) return 'Prologue';
+        if (/^coda$/i.test(t)) return 'Coda';
+        return t;
     }
 
     function openChapterByKey(key) {
@@ -1142,12 +1187,14 @@
     }
 
     function openChapterFromHash() {
-        var key = currentRomanKey();
+        var key = currentRomanInfo().chapterKey;
         if (key) openChapterByKey(key);
     }
 
     window.addEventListener('hashchange', function() {
-        if (indexData) openChapterFromHash();
+        var info = currentRomanInfo();
+        if (info.tomeKey !== currentTomeKey) loadCurrentTome();
+        else if (indexData) openChapterFromHash();
     });
 
     // ── Build page UI ────────────────────────────────────────
@@ -1277,7 +1324,11 @@
     }
 
     // ── Reading position persistence ─────────────────────
-    var STORAGE_KEY = 'hybelior_roman_septieme_heure_bookmark';
+    function tomeStorageKey(suffix) {
+        return 'hybelior_roman_' + (currentTomeKey || 't1') + '_' + suffix;
+    }
+
+    var STORAGE_KEY = 'bookmark';
 
     function saveBookmark() {
         if (currentChapterIdx < 0) return;
@@ -1293,12 +1344,12 @@
             totalPages: totalPages,
             timestamp: Date.now()
         };
-        try { localStorage.setItem(STORAGE_KEY, JSON.stringify(bookmark)); } catch(e) {}
+        try { localStorage.setItem(tomeStorageKey(STORAGE_KEY), JSON.stringify(bookmark)); } catch(e) {}
     }
 
     function loadBookmark() {
         try {
-            var raw = localStorage.getItem(STORAGE_KEY);
+            var raw = localStorage.getItem(tomeStorageKey(STORAGE_KEY));
             return raw ? JSON.parse(raw) : null;
         } catch(e) { return null; }
     }
@@ -1366,25 +1417,7 @@
         var html = marked.parse(clean, { breaks: true });
         if (window.LoreContent) html = LoreContent.sanitizeHtml(html);
 
-        // Inject audio player en tete si le chapitre a une piste audio
-        var audioHtml = '';
-        var ch = allChapters[currentChapterIdx];
-        if (ch && ch.audio) {
-            var partialHtml = ch.audioPartial
-                ? '<span class="chron-audio-partial">extrait — enregistrement en cours</span>'
-                : '';
-            audioHtml =
-                '<div class="chron-audio-block">' +
-                  '<div class="chron-audio-label">' +
-                    '<span class="chron-audio-icon">🎧</span>' +
-                    '<span>Écouter</span>' +
-                    partialHtml +
-                  '</div>' +
-                  '<audio controls preload="metadata" src="' + escHtml(ch.audio) + '"></audio>' +
-                '</div>';
-        }
-
-        pagesWrapper.innerHTML = '<div class="chron-md-content">' + audioHtml + html + '</div>';
+        pagesWrapper.innerHTML = '<div class="chron-md-content">' + html + '</div>';
 
         // Apply persisted highlights for this chapter (before pagination so columns are stable)
         applyAllHighlightsForCurrentChapter();
@@ -1541,19 +1574,6 @@
         return plain ? plain.split(/\s+/).length : 0;
     }
 
-    function audioHtmlForChapter(ch) {
-        if (!ch || !ch.audio) return '';
-        var partialHtml = ch.audioPartial ? '<span class="chron-audio-partial">extrait - enregistrement en cours</span>' : '';
-        return '<div class="chron-audio-block">' +
-              '<div class="chron-audio-label">' +
-                '<span class="chron-audio-icon">Audio</span>' +
-                '<span>Ecouter</span>' +
-                partialHtml +
-              '</div>' +
-              '<audio controls preload="metadata" src="' + escHtml(ch.audio) + '"></audio>' +
-            '</div>';
-    }
-
     function loadWholeBook() {
         return Promise.all(allChapters.map(function(ch) {
             if (mdCache[ch.fichier]) return Promise.resolve({ ch: ch, text: mdCache[ch.fichier], ok: true });
@@ -1583,7 +1603,7 @@
             runningWords += Math.max(1, words);
             html += '<section class="chron-book-chapter" id="chron-book-chapter-' + ch.num + '" data-chapter-idx="' + idx + '" data-chapter-num="' + ch.num + '">';
             html += item.ok
-                ? audioHtmlForChapter(ch) + markdownToHtml(item.text)
+                ? markdownToHtml(item.text)
                 : '<div class="chron-placeholder"><div class="chron-placeholder-icon">*</div><div class="chron-placeholder-text">Ce chapitre n\'a pas encore ete ecrit...</div></div>';
             html += '</section>';
         });
@@ -1757,7 +1777,7 @@
             bookWords: bookWords,
             timestamp: Date.now()
         };
-        try { localStorage.setItem(STORAGE_KEY, JSON.stringify(bookmark)); } catch(e) {}
+        try { localStorage.setItem(tomeStorageKey(STORAGE_KEY), JSON.stringify(bookmark)); } catch(e) {}
     }
 
     function getReadingProgress(bookmark) {
@@ -2086,8 +2106,8 @@
     }
 
     // ── Highlights system ────────────────────────────────────
-    var STORAGE_KEY_HL = 'hybelior_roman_septieme_heure_highlights';
-    var STORAGE_KEY_HL_LAST_SYNC = 'hybelior_roman_septieme_heure_lastsync';
+    var STORAGE_KEY_HL = 'highlights';
+    var STORAGE_KEY_HL_LAST_SYNC = 'lastsync';
     var SESSION_KEY_PASSWORD = 'hybelior_roman_editor_password';
     var HL_COLORS = ['yellow', 'red', 'green', 'blue'];
     var DEFAULT_HL_COLOR = 'yellow';
@@ -2122,7 +2142,7 @@
     // loadHighlights renvoie toutes les entrées, y compris tombstones (deleted=true)
     function loadHighlights() {
         try {
-            var raw = localStorage.getItem(STORAGE_KEY_HL);
+            var raw = localStorage.getItem(tomeStorageKey(STORAGE_KEY_HL));
             return raw ? JSON.parse(raw) : [];
         } catch(e) { return []; }
     }
@@ -2131,7 +2151,7 @@
         return loadHighlights().filter(function(h) { return h && !h.deleted; });
     }
     function saveHighlights(arr) {
-        try { localStorage.setItem(STORAGE_KEY_HL, JSON.stringify(arr)); } catch(e) {}
+        try { localStorage.setItem(tomeStorageKey(STORAGE_KEY_HL), JSON.stringify(arr)); } catch(e) {}
     }
     function getCurrentChapterHighlights() {
         if (currentChapterIdx < 0) return [];
@@ -2351,9 +2371,6 @@
             hideSelectToolbar();
             return;
         }
-        // Skip selections inside the audio block
-        var sp = range.startContainer.parentElement;
-        if (sp && sp.closest('.chron-audio-block')) { hideSelectToolbar(); return; }
         var text = sel.toString();
         if (!text || !text.trim()) { hideSelectToolbar(); return; }
         var offsets = rangeToOffsets(range, content);
@@ -2656,11 +2673,11 @@
         hlSyncInfo.removeAttribute('hidden');
     }
     function setLastSync(ts) {
-        try { localStorage.setItem(STORAGE_KEY_HL_LAST_SYNC, String(ts)); } catch(e) {}
+        try { localStorage.setItem(tomeStorageKey(STORAGE_KEY_HL_LAST_SYNC), String(ts)); } catch(e) {}
     }
     function getLastSync() {
         try {
-            var v = localStorage.getItem(STORAGE_KEY_HL_LAST_SYNC);
+            var v = localStorage.getItem(tomeStorageKey(STORAGE_KEY_HL_LAST_SYNC));
             return v ? parseInt(v, 10) : 0;
         } catch(e) { return 0; }
     }
@@ -2859,7 +2876,7 @@
             var a = document.createElement('a');
             a.href = url;
             var date = new Date().toISOString().slice(0, 10);
-            a.download = 'septieme-heure-surlignages-' + date + '.json';
+            a.download = (currentTomeKey || 'roman') + '-surlignages-' + date + '.json';
             document.body.appendChild(a);
             a.click();
             document.body.removeChild(a);

@@ -250,49 +250,6 @@
 }
 .chron-md-content em { color: var(--text-muted); }
 
-/* ── Audio player (lecture audio chapitre) ──────────── */
-.chron-audio-block {
-    background: rgba(0, 0, 0, 0.25);
-    border: 1px solid var(--panel-border);
-    border-radius: var(--radius);
-    padding: .8rem 1rem;
-    margin-bottom: 1.5rem;
-    display: flex;
-    flex-direction: column;
-    gap: .5rem;
-}
-.chron-audio-label {
-    font-family: 'Cinzel', serif;
-    font-size: .85rem;
-    color: var(--gold);
-    letter-spacing: .04em;
-    display: flex;
-    align-items: center;
-    gap: .5rem;
-}
-.chron-audio-icon {
-    font-size: 1.1rem;
-}
-.chron-audio-partial {
-    font-family: 'Raleway', sans-serif;
-    font-style: italic;
-    font-size: .75rem;
-    color: var(--text-muted);
-    font-weight: 400;
-    letter-spacing: 0;
-}
-.chron-audio-block audio {
-    width: 100%;
-    height: 36px;
-    filter: sepia(15%) saturate(0.9) hue-rotate(-15deg);
-}
-/* Empêche le bloc audio d'être coupé entre deux colonnes en mode page */
-.chron-modal-body.page-mode .chron-audio-block {
-    break-inside: avoid;
-    -webkit-column-break-inside: avoid;
-    page-break-inside: avoid;
-}
-
 /* ── Placeholder (unwritten chapter) ────────────────── */
 .chron-placeholder {
     display: flex;
@@ -1338,25 +1295,7 @@
         var html = marked.parse(clean, { breaks: true });
         if (window.LoreContent) html = LoreContent.sanitizeHtml(html);
 
-        // Inject audio player en tete si le chapitre a une piste audio
-        var audioHtml = '';
-        var ch = allChapters[currentChapterIdx];
-        if (ch && ch.audio) {
-            var partialHtml = ch.audioPartial
-                ? '<span class="chron-audio-partial">extrait — enregistrement en cours</span>'
-                : '';
-            audioHtml =
-                '<div class="chron-audio-block">' +
-                  '<div class="chron-audio-label">' +
-                    '<span class="chron-audio-icon">🎧</span>' +
-                    '<span>Écouter</span>' +
-                    partialHtml +
-                  '</div>' +
-                  '<audio controls preload="metadata" src="' + escHtml(ch.audio) + '"></audio>' +
-                '</div>';
-        }
-
-        pagesWrapper.innerHTML = '<div class="chron-md-content">' + audioHtml + html + '</div>';
+        pagesWrapper.innerHTML = '<div class="chron-md-content">' + html + '</div>';
 
         // Apply persisted highlights for this chapter (before pagination so columns are stable)
         applyAllHighlightsForCurrentChapter();
@@ -1513,19 +1452,6 @@
         return plain ? plain.split(/\s+/).length : 0;
     }
 
-    function audioHtmlForChapter(ch) {
-        if (!ch || !ch.audio) return '';
-        var partialHtml = ch.audioPartial ? '<span class="chron-audio-partial">extrait - enregistrement en cours</span>' : '';
-        return '<div class="chron-audio-block">' +
-              '<div class="chron-audio-label">' +
-                '<span class="chron-audio-icon">Audio</span>' +
-                '<span>Ecouter</span>' +
-                partialHtml +
-              '</div>' +
-              '<audio controls preload="metadata" src="' + escHtml(ch.audio) + '"></audio>' +
-            '</div>';
-    }
-
     function loadWholeBook() {
         return Promise.all(allChapters.map(function(ch) {
             if (mdCache[ch.fichier]) return Promise.resolve({ ch: ch, text: mdCache[ch.fichier], ok: true });
@@ -1555,7 +1481,7 @@
             runningWords += Math.max(1, words);
             html += '<section class="chron-book-chapter" id="chron-book-chapter-' + ch.num + '" data-chapter-idx="' + idx + '" data-chapter-num="' + ch.num + '">';
             html += item.ok
-                ? audioHtmlForChapter(ch) + markdownToHtml(item.text)
+                ? markdownToHtml(item.text)
                 : '<div class="chron-placeholder"><div class="chron-placeholder-icon">*</div><div class="chron-placeholder-text">Ce chapitre n\'a pas encore ete ecrit...</div></div>';
             html += '</section>';
         });
@@ -2323,9 +2249,6 @@
             hideSelectToolbar();
             return;
         }
-        // Skip selections inside the audio block
-        var sp = range.startContainer.parentElement;
-        if (sp && sp.closest('.chron-audio-block')) { hideSelectToolbar(); return; }
         var text = sel.toString();
         if (!text || !text.trim()) { hideSelectToolbar(); return; }
         var offsets = rangeToOffsets(range, content);
