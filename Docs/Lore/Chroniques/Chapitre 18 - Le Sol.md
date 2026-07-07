@@ -14,13 +14,13 @@ needs_review_for: []
 
 ---
 
-Il faut quinze jours depuis la limite méridionale d’Holvendar pour atteindre la zone d’Ordavan, en passant par Zyrthar et en prenant ensuite les chemins non balisés qui montent vers les plateaux de Tolvandor.
+Il faut quinze jours pour atteindre la zone d’Ordavan depuis la limite méridionale d’Holvendar, en passant par Zyrthar puis par les chemins non balisés qui montent vers les plateaux de Tolvandor.
 
 Je dis quinze jours : c’est ce que cela me prit.
 
-Ça aurait pu être douze jours avec des conditions idéales. Mais les conditions idéales n’existent pas à cette altitude au tournant du printemps en Gryndor, et surtout, ce que je compris seulement à mi-chemin, il n’existe pas de chemin direct vers Ordavan. Pas parce que la géographie s’y oppose, mais parce que tous les chemins qui auraient dû y mener ont été effacés. Pas sur les cartes seulement. Physiquement : les sentiers de montagne qui convergent vers la zone ont été laissés à l’abandon pendant cinquante-huit ans, si systématiquement que la végétation les a réabsorbés sans laisser de trace. Il a fallu que je travaille depuis les contreforts : retrouver les lignes de dénivelé, reconstituer mentalement où un sentier aurait existé, et marcher à travers des années de végétation non entretenue qui avait eu le temps de redevenir forêt.
+Douze jours auraient suffi dans des conditions idéales. Mais les conditions idéales n’existent pas à cette altitude au tournant du printemps, et je compris à mi-chemin qu’il n’existait plus de route directe vers Ordavan. Pas parce que la montagne l’interdisait. Parce que tous les sentiers qui auraient dû y mener avaient été effacés. Pas seulement sur les cartes. Physiquement. Les chemins de montagne convergeant vers la zone avaient été abandonnés pendant cinquante-huit ans avec une telle constance que la végétation les avait repris. Je dus repartir des contreforts, lire les lignes de dénivelé, imaginer où un sentier aurait dû passer, puis marcher à travers une forêt qui avait eu le temps d’oublier les hommes.
 
-Quelqu’un avait fait cela avec méthode. Pas une négligence : une décision. Ne pas interdire la zone, mais la rendre difficile d’accès en effaçant les infrastructures qui y menaient. Couper les ponts dans une direction tout en laissant la rive officiellement accessible.
+Quelqu’un avait fait cela avec méthode. Ce n’était pas une négligence, mais une décision : ne pas interdire la zone, seulement la rendre pénible à atteindre. Couper les ponts dans une direction tout en laissant la rive officiellement accessible.
 
 J’avais appris à reconnaître cette différence sur les routes.
 
@@ -28,25 +28,25 @@ J’avais appris à reconnaître cette différence sur les routes.
 
 Zyrthar m’accueillit pour deux nuits.
 
-La ville-laboratoire avait la qualité d’un rêve récurrent : chaque quartier sonnait différemment selon l’heure et le vent, et à mi-journée, quand tous les ateliers fonctionnaient simultanément, le bruit composite était moins une cacophonie qu’une partition : des strates superposées qui avaient chacune leur logique propre et qui, entendues ensemble, produisaient quelque chose d’involontairement musical. Je passai deux heures assis sur un banc de pierre dans le quartier d’optique à écouter, le carnet sur les genoux, sans écrire. Certains lieux méritent d’abord d’être entendus.
+La ville-laboratoire avait la qualité d’un rêve récurrent. Chaque quartier sonnait différemment selon l’heure et le vent. À mi-journée, quand tous les ateliers fonctionnaient ensemble, le bruit tenait moins de la cacophonie que d’une partition : strates de métal, de verre, de souffle et de marteaux, chacune avec sa logique propre. Je passai deux heures assis sur un banc de pierre dans le quartier d’optique, le carnet sur les genoux, sans écrire. Certains lieux méritent d’abord d’être entendus.
 
 Je logeai à l’auberge du Souffleur, nommée ainsi à cause des conduits de ventilation des laboratoires voisins. Ils soufflaient en permanence une brise parfumée d’alchimie et de métal chauffé.
 
-La propriétaire, Orvath, me servit le repas le plus étrange de tout mon voyage : une soupe d’invention. À Zyrthar, on appelle ainsi un plat qui change chaque jour selon ce que les cuisinières trouvent, expérimentent, ratent parfois.
+La propriétaire, Orvath, me servit le repas le plus étrange de tout mon voyage : une soupe d’invention. À Zyrthar, on appelle ainsi un plat qui change chaque jour selon ce que les cuisinières trouvent, tentent ou ratent.
 
 Ce soir-là : réduction de champignons des mines de Pyrendor avec des filaments de cristal soluble. Les géologues les utilisaient comme traceurs dans les failles ; un accident de laboratoire avait révélé qu’en bouillon chaud, ils donnaient une texture impossible. Légèrement craquante. Légèrement lumineuse quand on inclinait le bol vers la fenêtre.
 
-Elle ajouta qu’elle espérait que ça ne me tuerait pas, et qu’à ce jour, personne n’en était mort, mais qu’il fallait garder ça à l’esprit.
+Elle ajouta qu’elle espérait que cela ne me tuerait pas. À ce jour, personne n’en était mort, mais il fallait garder cette possibilité à l’esprit.
 
-Je mangeai. C’était excellent. Je notai la texture et la lumière et le fait qu’en Gryndor, même les erreurs sont documentées et deviennent des méthodes.
+Je mangeai. C’était excellent. Je notai la texture, la lumière, et le fait qu’en Gryndor même les erreurs finissent documentées avant de devenir des méthodes.
 
-Ce fut aussi à Zyrthar que je compris pourquoi la zone d’Ordavan était désignée comme restreinte et non interdite : par une conversation que j’entendis sans la provoquer, dans le couloir de l’auberge le soir de mon deuxième jour, entre deux chercheurs du quartier d’alchimie qui discutaient d’une demande d’autorisation refusée. Ils parlaient à voix basse mais pas assez basse pour les murs de pierre. L’un d’eux dit : « Si elle était interdite, ils devraient justifier l’interdiction. Et pour justifier l’interdiction, ils devraient nommer ce qui s’est passé. Et pour nommer ce qui s’est passé… » Il ne finit pas la phrase, mais son compagnon hocha la tête avec l’expression de quelqu’un qui comprend la conclusion sans avoir besoin de l’entendre.
+Ce fut aussi à Zyrthar que je compris pourquoi la zone d’Ordavan était dite restreinte, et non interdite. Le soir de mon deuxième jour, dans le couloir de l’auberge, j’entendis deux chercheurs du quartier d’alchimie parler d’une demande d’autorisation refusée. Ils parlaient bas, mais pas assez pour les murs de pierre. L’un d’eux dit : « Si elle était interdite, ils devraient justifier l’interdiction. Et pour justifier l’interdiction, ils devraient nommer ce qui s’est passé. Et pour nommer ce qui s’est passé… » Il ne finit pas la phrase. Son compagnon hocha la tête, comme quelqu’un qui connaît déjà la fin.
 
 Une interdiction laisse une trace. Une restriction est administrative. Les restrictions disparaissent dans les archives, dans les formulaires, dans la paperasserie : elles ne suscitent pas de demande d’explication.
 
 Cinquante-huit ans de restriction administrative. Cinquante-huit ans d’une question que personne ne posait officiellement parce que personne ne se voyait officiellement refuser l’accès.
 
-C’était du génie bureaucratique. Je l’aurais admiré davantage si ça n’avait pas concerné deux cents personnes disparues.
+C’était du génie bureaucratique. Je l’aurais admiré davantage s’il n’avait pas servi à enterrer deux cents personnes.
 
 ---
 
@@ -56,11 +56,11 @@ Je n’y allai pas délibérément. Il se trouva sur mon chemin en quittant Zyrt
 
 Pas *Danger*. *Enquête*.
 
-Je m’arrêtai devant la porte condamnée un long moment. Il ne se passait rien de visible. Mais le Fragment Zéro dans ma chemise, sous les couches de laine, pulsait différemment : pas à un rythme différent, mais avec une qualité différente, quelque chose de plus tendu, comme si la différence entre les battements était légèrement plus chargée. Je l’avais remarqué à plusieurs reprises depuis Alkaran : le Fragment répondait à la proximité d’anomalies, pas à leur nature. Il ne distinguait pas une porte de métal d’un cristal pulsant d’une forêt qui mémorise. Il répondait à la catégorie : quelque chose ici est différent.
+Je m’arrêtai longtemps devant la porte condamnée. Rien ne bougeait. Rien ne brillait. Mais le Fragment Zéro, dans ma chemise, sous les couches de laine, pulsait autrement. Pas plus vite : plus tendu, comme si l’espace entre deux battements portait une charge nouvelle. Je l’avais remarqué à plusieurs reprises depuis Alkaran : le Fragment répondait à la proximité des anomalies, pas à leur nature. Il ne distinguait pas une porte de métal, un cristal pulsant ou une forêt qui mémorise. Il répondait à une seule catégorie : ici, le monde dévie.
 
 Il répondait maintenant.
 
-Ce n’était pas la première fois que le Fragment me signalait quelque chose. Mais la qualité de la réponse était différente de celle qu’il avait produite dans les mines d’Alkaran, ou à Zorathis. Là-bas, c’était une résonance : une vibration sympathique, deux choses de même nature qui se reconnaissent. Ici, devant la porte condamnée de l’atelier de Maethra, c’était autre chose : plus proche d’une alarme que d’une reconnaissance. Comme si le Fragment savait que ce lieu et la zone d’Ordavan étaient liés par quelque chose que je n’avais pas encore formulé.
+Ce n’était pas la première fois que le Fragment me signalait une anomalie. Mais sa réponse différait de celle des mines d’Alkaran ou de Zorathis. Là-bas, c’était une résonance : deux réalités de même nature qui se reconnaissent. Ici, devant la porte condamnée de l’atelier de Maethra, cela ressemblait davantage à une alarme. Comme si le Fragment savait déjà que ce lieu et Ordavan appartenaient à la même question.
 
 Je partis. Je notai la sensation dans mon carnet sans l’interpréter.
 
@@ -68,27 +68,27 @@ Je partis. Je notai la sensation dans mon carnet sans l’interpréter.
 
 Je trouvai la zone d’Ordavan le treizième jour de marche, à l’aube du vingt-huitième jour du mois.
 
-Je savais que j’approchais depuis la veille à cause d’un silence progressif qui n’avait rien à voir avec le silence ordinaire de la montagne. Le silence de la montagne en Tolvandor est dense et vivant : il contient les oiseaux des failles, le vent sur la roche cristalline, le bruit des ruisseaux de fonte qui courent sous les pierres en saison. C’est un silence de surface, pas un silence de fond. Ce que je commençai à percevoir la veille au soir, en campant dans un creux de rocher à une lieue environ au nord du point que ma carte reconstituée m’indiquait, était autre chose : un approfondissement du silence, pas une absence de sons mais une qualité différente dans les sons qui restaient, comme si quelque chose absorbait ou modifiait les fréquences en dessous d’un certain seuil.
+Je savais depuis la veille que j’approchais, à cause d’un silence qui ne ressemblait pas au silence ordinaire de la montagne. Celui de Tolvandor est dense et vivant : oiseaux des failles, vent sur la roche cristalline, ruisseaux de fonte sous les pierres. Un silence de surface, pas de fond. La veille au soir, en campant dans un creux de rocher à une lieue environ du point indiqué par ma carte reconstituée, j’avais perçu autre chose : non une absence de sons, mais une déformation des sons restants, comme si le sol en absorbait les fréquences basses.
 
-Je ne dormis pas beaucoup. Ce n’était pas de l’anxiété. C’était de l’attention : l’état d’un corps qui a compris qu’il s’approche de quelque chose d’important et qui ajuste sa propre vigilance sans en avoir reçu l’instruction consciente.
+Je ne dormis pas beaucoup. Ce n’était pas de l’anxiété. C’était de l’attention : le corps comprend parfois avant la pensée qu’il arrive au bord d’un lieu important.
 
 À l’aube, je mangeai ce qui me restait de provisions de Zyrthar, du pain dur au miel de roche, des noix séchées, de l’eau de fonte bouillie, et je continuai.
 
 Le sol changea avant que le terrain change.
 
-Je le remarquai d’abord comme une modification de texture sous mes semelles, à travers le cuir des bottes : quelque chose de légèrement différent, une rigidité accrue qui pouvait passer pour de la roche compacte mais qui était trop régulière pour être de la roche naturelle. Puis la couleur : la terre et la mousse et la végétation typique des plateaux de Tolvandor cédèrent la place, progressivement, à quelque chose de plus pâle. Plus lisse. Comme si la surface avait subi une transformation qui ne permettait plus à la végétation de prendre racine : pas par toxicité, pas par sécheresse, mais par une modification de la nature même du sol qui le rendait impénétrable pour les racines.
+Je le sentis d’abord sous mes semelles, à travers le cuir des bottes : une rigidité trop régulière pour être de la roche naturelle. Puis la couleur changea. La terre, la mousse et la végétation des plateaux de Tolvandor cédèrent peu à peu la place à une surface plus pâle. Plus lisse. La vie ne semblait pas morte ici : elle semblait incapable d’entrer.
 
 Sol vitrifié.
 
-Je m’arrêtai à ce que j’estimai être la limite de la zone, là où la végétation cessait net, avec la précision d’une ligne tracée à la règle, et je me mis à genoux pour regarder.
+Je m’arrêtai à la limite de la zone, là où la végétation cessait net, avec la précision d’une ligne tracée à la règle, et je me mis à genoux.
 
 Le sol au-delà de cette ligne était de verre.
 
-Pas métaphoriquement. Pas approximativement. Du verre : translucide, légèrement teinté de doré par les minéraux qu’il contenait, réfléchissant la lumière de l’aube avec la géométrie régulière d’une surface usinée. La surface n’était pas parfaitement plane : elle présentait des ondulations douces, comme une eau figée dans son mouvement, comme si la vitrification avait capturé un instant de liquidité avant de le solidifier. Et dans le verre, en regardant depuis le bon angle avec la lumière rasante du matin, des inclusions : des formes qui n’étaient pas de la roche, qui avaient une régularité trop géométrique pour être naturelles.
+Pas métaphoriquement. Pas approximativement. Du verre : translucide, légèrement doré par les minéraux, réfléchissant l’aube avec la régularité d’une surface usinée. Il n’était pas parfaitement plane. De douces ondulations le traversaient, comme une eau figée au milieu d’un mouvement. Et dans l’épaisseur, sous le bon angle, la lumière révélait des inclusions : des formes trop géométriques pour être naturelles.
 
 Des fondations. Des pierres d’angle. La base d’un mur.
 
-Ce qui restait du village d’Ordavan n’était pas au-dessus du sol. Il était dans le sol : incorporé dans la vitrification elle-même, pris dans la transformation comme une mouche dans l’ambre.
+Ce qui restait du village d’Ordavan n’était pas au-dessus du sol. C’était dans le sol : incorporé à la vitrification, pris dans la transformation comme une mouche dans l’ambre.
 
 Je restai longtemps à genoux à cette limite.
 
@@ -96,9 +96,9 @@ Je restai longtemps à genoux à cette limite.
 
 Je suis Délié.
 
-Il m’est nécessaire de l’écrire ici parce que ce qui suit ne s’explique pas autrement. Ou plutôt, il ne s’explique qu’autrement, par quelque chose que je n’ai pas de terme précis pour nommer, que j’ai évité de nommer depuis le début de ce voyage parce que nommer quelque chose c’est lui donner une réalité qu’on ne peut plus ensuite lui retirer.
+Il m’est nécessaire de l’écrire ici parce que ce qui suit ne s’explique pas autrement. Ou plutôt, cela exige un mot que j’ai évité depuis le début du voyage, car nommer une chose lui donne une réalité qu’on ne peut plus lui retirer.
 
-Le Délié n’a pas de lien avec les énergies du monde. C’est la définition. Pas de connexion aux flux magiques, aux esprits, aux résonances. Le Délié est ce qu’on appelle un homme sans antenne : il peut traverser les zones de haute magie sans être affecté, il peut toucher les artefacts enchantés sans les activer, il peut rester au centre d’une tempête spirituelle comme si elle n’existait pas. C’est la forme que prend mon exil, aussi : la guilde de Kharazir avait besoin de cartographes capables de mesurer objectivement les territoires enchantés, sans que leurs propres perceptions soient faussées par une sensibilité magique personnelle. Le Délié est l’instrument de mesure idéal. Neutre. Opaque aux fréquences qui brouillent les autres.
+Le Délié n’a pas de lien avec les énergies du monde. C’est la définition. Pas de connexion aux flux magiques, aux esprits, aux résonances. On appelle parfois cela un homme sans antenne : capable de traverser les zones de haute magie sans être affecté, de toucher les artefacts enchantés sans les activer, de rester au centre d’une tempête spirituelle comme si elle n’existait pas. C’est aussi la forme de mon exil. La guilde de Kharazir avait besoin de cartographes capables de mesurer les territoires enchantés sans que leurs propres perceptions les faussent. Le Délié est l’instrument de mesure idéal. Neutre. Opaque aux fréquences qui brouillent les autres.
 
 Je n’aurais rien dû sentir, à Ordavan.
 
@@ -108,53 +108,53 @@ Je posai le pied sur le sol vitrifié.
 
 Ce n’était pas une vision.
 
-Je tiens à cette précision, maintenant, rétrospectivement, après avoir passé plusieurs jours à y réfléchir depuis l’épisode : ce n’était pas une vision parce qu’une vision est intérieure, c’est quelque chose que l’esprit produit depuis ses propres réserves, une image générée par le cerveau. Ce que je perçus à Ordavan n’était pas généré. C’était reçu. La distinction est fondamentale même si elle est difficile à défendre par des arguments que quelqu’un d’autre pourrait vérifier.
+Je tiens à cette précision, maintenant que plusieurs jours ont passé. Ce n’était pas une vision. Une vision naît à l’intérieur : l’esprit la produit avec ses propres réserves. Ce que je perçus à Ordavan ne venait pas de moi. C’était reçu. La distinction est difficile à prouver, mais elle m’est impossible à abandonner.
 
-Le sol sous mes pieds avait la texture du verre : dur, lisse, froid même à travers les bottes. Pas d’élasticité, pas de transformation visible du monde autour de moi. Le ciel de Tolvandor à l’aube, pâle et clair. Les collines environnantes couvertes de leur végétation habituelle jusqu’à la limite, puis le cercle de verre de quarante mètres de rayon dans lequel je venais d’entrer.
+Le sol sous mes pieds avait la texture du verre : dur, lisse, froid même à travers les bottes. Rien ne changea autour de moi. Le ciel de Tolvandor restait pâle et clair. Les collines gardaient leur végétation jusqu’à la limite exacte du cercle. Au-delà, quarante mètres de verre.
 
 Et pourtant.
 
-Ce que je perçus d’abord fut la chaleur. Pas une chaleur de température, la température du sol était froide, mais une chaleur de présence, la sensation diffuse qu’on a dans une pièce où quelqu’un vient de passer, où l’air garde encore la forme d’une existence. Cette chaleur n’était pas homogène. Elle était distribuée dans l’espace autour de moi selon un schéma qui n’avait rien d’aléatoire : des nœuds de densité plus forte, séparés par des intervalles : la disposition d’un village, compris-je lentement, en avançant pas à pas sur le sol de verre, les bras légèrement écartés comme pour maintenir l’équilibre. Des foyers de présence résiduelle là où avaient été les habitations. Des couloirs d’absence entre eux, là où avaient été les rues.
+Je perçus d’abord la chaleur. Non celle d’une température : le sol était froid. Une chaleur de présence, comme dans une pièce qu’une personne vient de quitter. Elle n’était pas homogène. Autour de moi, elle formait des nœuds et des intervalles. En avançant pas à pas sur le verre, les bras légèrement écartés pour garder l’équilibre, je compris la disposition. Des foyers de présence là où s’étaient tenues les maisons. Des couloirs d’absence là où passaient les rues.
 
-Un plan de village fantôme. Invisible mais structuré. Comme si deux cents personnes avaient laissé non pas leurs corps mais leur volume, l’espace qu’elles occupaient, gravé dans quelque chose de plus permanent que la matière.
+Un plan de village fantôme. Invisible, mais structuré. Comme si deux cents personnes avaient laissé non leurs corps, mais le volume de leur existence, gravé dans une matière plus durable que la pierre.
 
 Je m’arrêtai au centre géométrique du cercle.
 
-C’est là que ça changea.
+C’est là que tout changea.
 
 ---
 
 Je n’ai pas de meilleur mot que *superposition*.
 
-Ce que je vécus au centre d’Ordavan était une superposition de deux instants. Le mien : présent, matin de printemps en l’an 10 200 de l’Aube, sol de verre et silence et lumière rasante. Et un autre. Un autre instant qui n’était pas passé au sens où le passé est révolu. Un autre instant qui était encore présent quelque part, dans une couche de la réalité que la Faille de Tempora avait séparée du cours normal du temps sans l’abolir.
+Au centre d’Ordavan, deux instants se superposèrent. Le mien : matin de printemps, an 10 200 de l’Aube, sol de verre, silence, lumière rasante. Et un autre. Pas un passé mort. Un instant encore présent quelque part, dans une couche de réalité que la Faille de Tempora avait séparée du cours normal du temps sans l’abolir.
 
 Les silhouettes.
 
-Elles n’étaient pas floues. C’est ce qui me frappa le plus : elles avaient une netteté, pas visuelle mais de présence, une texture d’existence qui était aussi précise que n’importe qui que j’avais rencontré sur les routes. Une femme avec quelque chose dans les bras : un enfant, compris-je, un enfant petit, la posture d’une femme qui porte un enfant est reconnaissable dans n’importe quelle culture. Un homme courbé sur un outil, dans ce qui avait dû être une cour. Deux enfants en mouvement, leurs trajectoires figées dans l’instant comme les ondulations du sol de verre. Une vieille femme assise, les mains sur les genoux, dans la posture de quelqu’un qui n’a pas encore compris ce qui arrive.
+Elles n’étaient pas floues. C’est ce qui me frappa le plus. Leur netteté n’était pas visuelle, mais elle avait la précision d’une présence réelle. Une femme portait un enfant contre elle. Un homme se penchait sur un outil, dans ce qui avait dû être une cour. Deux enfants couraient, leurs trajectoires figées comme les ondulations du sol. Une vieille femme restait assise, les mains sur les genoux, dans la posture de quelqu’un qui n’a pas encore compris ce qui arrive.
 
 Aucun d’eux ne me regardait.
 
-Aucun d’eux n’était conscient de moi. Ou plutôt, leurs consciences étaient orientées vers un moment qui ne comprenait pas ma présence. Ils existaient dans cet autre instant, complet en lui-même, avec sa lumière et sa chaleur et ses bruits que je n’entendais pas mais dont je percevais l’empreinte acoustique, le négatif sonore.
+Aucun d’eux n’était conscient de moi. Ou plutôt, ils appartenaient à un instant qui ne contenait pas ma présence. Ils existaient là, complets, avec leur lumière, leur chaleur, leurs bruits que je n’entendais pas mais dont je percevais le négatif.
 
 Je restai parfaitement immobile.
 
-L’instant dura, ou sembla durer, le temps n’ayant à cet endroit aucune consistance fiable : peut-être une minute, peut-être dix. Et dans cet intervalle, une chose se produisit qui changea tout ce que j’avais cru comprendre depuis Alkaran.
+L’instant dura, ou sembla durer. Le temps n’avait là aucune consistance fiable : peut-être une minute, peut-être dix. Puis un détail changea tout ce que j’avais cru comprendre depuis Alkaran.
 
-Une des silhouettes, pas la femme à l’enfant, pas le vieil homme à l’outil, une silhouette qui n’avait pas de contexte précis dans ma perception, pas d’activité lisible, simplement une présence debout et attentive au bord de ce que je percevais, tourna.
+Une des silhouettes tourna. Pas la femme à l’enfant. Pas l’homme à l’outil. Une présence debout, sans activité lisible, au bord de ce que je percevais.
 
-Pas vers moi. Vers quelque chose au-delà de moi. Comme si elle percevait quelque chose dans la direction opposée à la mienne, dans une autre couche encore du temps superposé.
+Pas vers moi. Vers un point au-delà de moi. Comme si elle percevait, dans une couche encore plus lointaine du temps, une menace que je ne pouvais pas voir.
 
-Et dans ce mouvement, dans la façon dont la silhouette tourna, avec une urgence qui était visible même dans sa forme spectrale, avec la posture de quelqu’un qui veut être vu, qui fait signe dans l’obscurité, une hypothèse me vint.
+Dans ce mouvement, dans cette urgence visible malgré l’absence de corps, une hypothèse me vint.
 
 Dans cette hypothèse, ce ne serait pas Tempora qui aurait blessé Ordavan.
 
-Ce serait Ordavan qui aurait été choisi par Tempora pour quelque chose.
+Ce serait Ordavan que Tempora aurait désigné comme signal.
 
-Non — pas choisi. Utilisé. Utilisé comme un signal, comme un phare : deux cents vies déplacées dans une stase temporelle non par accident ou par cruauté, mais parce que Tempora blessé, Tempora en train de perdre son intégrité sous la pression de quelque chose que je n’avais pas encore nommé, Tempora qui voyait venir quelque chose que les mortels ne pouvaient pas encore percevoir, Tempora aurait tenté de laisser un message.
+Non — pas choisi. Utilisé. Utilisé comme un signal, comme un phare. Deux cents vies déplacées dans une stase temporelle, non par accident ou par cruauté, mais parce que Tempora, blessé, perdant son intégrité sous la pression d’une menace encore sans nom, aurait tenté de prévenir les mortels.
 
 Un message que personne ne pouvait lire.
 
-Sauf, peut-être, quelqu’un qui arriverait à cet endroit précis et percevrait la superposition : quelqu’un qui n’était pas supposé percevoir quoi que ce soit, qui était Délié, imperméable, et qui néanmoins percevait, parce que ce qui se passait à Ordavan n’était pas de la magie dans le sens ordinaire du terme. Ce ne serait pas une énergie qui cherche une résonance. Ce serait du temps qui cherche une conscience : n’importe laquelle, la plus neutre possible, celle qui ne déformerait pas le signal avec ses propres fréquences.
+Sauf, peut-être, quelqu’un qui arriverait à cet endroit précis et percevrait la superposition. Quelqu’un qui n’aurait pas dû percevoir quoi que ce soit. Un Délié. Un homme imperméable aux énergies du monde, capable pourtant de recevoir cela, parce qu’Ordavan n’était pas de la magie au sens ordinaire. Ce n’était pas une énergie cherchant une résonance. C’était du temps cherchant une conscience : la plus neutre possible, celle qui ne déformerait pas le signal avec ses propres fréquences.
 
 Le Délié ne serait pas un obstacle. Le Délié serait le récepteur le plus pur disponible.
 
@@ -162,19 +162,19 @@ Tempora ne briserait pas. Tempora déplacerait.
 
 Et Tempora aurait déplacé Ordavan pour que quelqu’un, un jour, comprenne ce que Tempora cherchait à dire.
 
-Je couche cette dernière phrase et je la regarde. Elle est propre. Elle ferme tout. C’est précisément ce qui m’inquiète quand j’ai le temps de m’inquiéter, c’est-à-dire pas maintenant. Une explication qui rend nécessaire ma présence à cet endroit précis devrait éveiller un cartographe sérieux. Elle m’éveillera plus tard, quand j’aurai dormi. Pour l’instant, elle me console, et un homme qui a marché quinze jours pour atteindre un sol vitrifié a besoin de consolations qu’il sait fragiles.
+J’écris cette dernière phrase et je la regarde. Elle est trop propre. Elle ferme trop bien le cercle. Une explication qui rend ma présence nécessaire devrait alerter n’importe quel cartographe sérieux. Elle m’alertera plus tard, quand j’aurai dormi. Pour l’instant, elle me console, et un homme qui a marché quinze jours pour atteindre un sol vitrifié accepte parfois les consolations qu’il sait fragiles.
 
 ---
 
 La Garde Cristalline arriva le deuxième jour.
 
-Je ne m’étais pas attendu à être découvert si vite. Je me l’explique maintenant : ils devaient avoir des indicateurs dans la zone : non pas des gardes permanents, ce qui aurait été visible et aurait contredit la politique de la restriction non formelle, mais des dispositifs de détection cristalline, des systèmes d’alerte passifs que Gryndor maîtrisait mieux que quiconque. Des capteurs dans le sol. Quelque chose qui enregistrait le passage d’un poids humain sur la vitrification.
+Je ne m’étais pas attendu à être découvert si vite. Je me l’explique maintenant : ils devaient avoir des indicateurs dans la zone. Pas des gardes permanents, trop visibles pour une restriction qui prétendait ne pas être une interdiction, mais des dispositifs de détection cristalline. Des capteurs dans le sol. Un système capable d’enregistrer le passage d’un poids humain sur la vitrification.
 
-Ils arrivèrent par le nord, cinq hommes en armure légère de cristal dépoli : l’équipement des patrouilles de la Garde, conçu pour la mobilité en terrain montagneux plutôt que pour le combat frontal. Deux d’entre eux portaient les emblèmes du rang de Surveillant, ce qui signifiait que la patrouille avait été spécifiquement constituée pour cette mission et non levée depuis la garnison de Zyrthar.
+Ils arrivèrent par le nord : cinq hommes en armure légère de cristal dépoli, l’équipement des patrouilles mobiles. Deux portaient les emblèmes du rang de Surveillant. La patrouille avait donc été constituée pour cette mission, et non levée au hasard depuis la garnison de Zyrthar.
 
 Ils m’attendaient à la limite du cercle de verre quand je sortis.
 
-Le Surveillant qui les commandait, une femme d’une quarantaine d’années avec l’expression de quelqu’un qui a reçu des instructions précises et compte les respecter précisément, me dit, sans agressivité mais sans marge de négociation audible : « Vous êtes en zone restreinte. »
+La Surveillante qui les commandait, une femme d’une quarantaine d’années, avait l’expression de quelqu’un qui a reçu des instructions précises et compte les appliquer. Elle me dit, sans agressivité mais sans marge de négociation : « Vous êtes en zone restreinte. »
 
 Je dis que je le savais.
 
@@ -186,7 +186,7 @@ Je dis que je le savais.
 
 — Et vous comprenez que je devais venir.
 
-Elle ne répondit pas tout de suite. Les autres Gardes tenaient leur position autour de nous, suffisamment loin pour ne pas menacer, suffisamment près pour rappeler que la conversation n’était pas libre.
+Elle ne répondit pas tout de suite. Les autres Gardes tenaient leur position autour de nous, assez loin pour ne pas menacer, assez près pour rappeler que la conversation n’était pas libre.
 
 — Comprendre n’est pas autoriser, dit-elle enfin.
 
@@ -194,11 +194,11 @@ Elle dit : « Votre statut de visite à Holvendar est expiré. »
 
 Je dis que c’était exact aussi.
 
-Un moment passa. Elle m’examinait avec l’attention d’un Gryndorien : pas pour évaluer une menace, mais pour accumuler des données. Mes bottes. Mon carnet. L’état de mes vêtements après quinze jours de marche. Ma façon de me tenir, qui n’était pas celle de quelqu’un qu’on vient de surprendre à faire quelque chose d’illégal mais celle de quelqu’un qui attendait qu’on arrive.
+Un moment passa. Elle m’examinait avec l’attention d’une Gryndorienne : non pour évaluer une menace, mais pour accumuler des données. Mes bottes. Mon carnet. Mes vêtements après quinze jours de marche. Ma façon de me tenir, non comme quelqu’un surpris en faute, mais comme quelqu’un qui attendait qu’on arrive.
 
 Elle dit : « Qu’est-ce que vous cherchez ici ? »
 
-Je répondis honnêtement, parce qu’en Gryndor, le mensonge est la seule chose qui ferme définitivement les portes, et que j’avais encore besoin que certaines portes restent entrouvertes : je cherchais à comprendre ce qui s’était passé à Ordavan. Je cherchais la nature de la Faille de Tempora. Et je cherchais une information en rapport avec mon père, qui avait traversé les mêmes questions vingt-trois ans auparavant.
+Je répondis honnêtement. En Gryndor, le mensonge ferme les portes de façon définitive, et j’avais encore besoin que certaines restent entrouvertes. Je cherchais à comprendre ce qui s’était passé à Ordavan. Je cherchais la nature de la Faille de Tempora. Je cherchais aussi une information sur mon père, qui avait traversé les mêmes questions vingt-trois ans auparavant.
 
 Elle dit : « Aldric Valthen. »
 
@@ -208,7 +208,7 @@ Elle dit : « Il est dans les archives de la patrouille. Comme visiteur non au
 
 Je demandai pourquoi.
 
-Elle dit : « Je ne sais pas. Je n’avais pas ce rang à l’époque. » Elle prit sa décision avec la brièveté d’une personne qui ne délibère pas plus qu’il n’est nécessaire. « Vous allez quitter la zone maintenant. Vous allez vous diriger vers Zyrthar. Une escorte vous accompagnera jusqu’à la limite de la région de Tolvandor. »
+Elle dit : « Je ne sais pas. Je n’avais pas ce rang à l’époque. » Puis elle prit sa décision avec la brièveté d’une personne qui ne délibère jamais plus que nécessaire. « Vous allez quitter la zone maintenant. Vous allez vous diriger vers Zyrthar. Une escorte vous accompagnera jusqu’à la limite de la région de Tolvandor. »
 
 Je demandai si j’étais arrêté.
 
@@ -218,9 +218,9 @@ Ce n’était pas la même chose. En Gryndor, la distinction comptait.
 
 ---
 
-L’escorte m’accompagna pendant deux jours de marche en direction du nord : deux Gardes silencieux qui marchaient à une distance respectueuse et ne posaient pas de questions. Ils portaient des carnets dans leurs sacoches, ce qui en Gryndor est un signe de rang académique autant que militaire, et à une reprise je vis l’un d’eux prendre des notes sur quelque chose qu’il observait dans les strates rocheuses de la paroi d’un col. Même l’escorte faisait de la géologie.
+L’escorte m’accompagna deux jours vers le nord : deux Gardes silencieux, toujours à distance respectueuse, sans questions. Ils portaient des carnets dans leurs sacoches, signe en Gryndor d’un rang académique autant que militaire. Une fois, je vis l’un d’eux prendre des notes sur les strates rocheuses d’un col. Même l’escorte faisait de la géologie.
 
-Nous n’échangeâmes que peu. Le premier soir, je leur préparai du thé avec mes provisions, une infusion d’herbes de montagne alkraniennes que je gardais depuis des semaines, et l’un d’eux, le plus jeune, accepta en inclinant légèrement la tête avec la politesse particulière des Gryndoriens qui reconnaissent un geste de connaissance partagée. Il dit, en tenant le bol : « Certains d’entre nous pensent que la zone devrait être ouverte à l’étude. »
+Nous n’échangeâmes que peu. Le premier soir, je leur préparai du thé avec mes provisions, une infusion d’herbes de montagne alkaraniennes que je gardais depuis des semaines. Le plus jeune accepta en inclinant légèrement la tête, avec cette politesse gryndorienne qui reconnaît un geste de connaissance partagée. Il dit, en tenant le bol : « Certains d’entre nous pensent que la zone devrait être ouverte à l’étude. »
 
 Je lui demandai pourquoi elle ne l’était pas.
 
@@ -228,9 +228,9 @@ Il dit : « Parce que le Conseil des Sages a peur de ce qu’une étude formel
 
 Je lui demandai ce qu’elle obligerait à admettre.
 
-Il dit, très bas, comme quelqu’un qui dit quelque chose qu’il a réfléchi longtemps : « Que la Faille de Tempora n’est pas un événement passé. Qu’elle est un processus en cours. Que ce qui s’est passé à Ordavan n’est pas terminé. »
+Il dit, très bas, comme quelqu’un qui a longtemps porté cette phrase : « Que la Faille de Tempora n’est pas un événement passé. Qu’elle est un processus en cours. Que ce qui s’est passé à Ordavan n’est pas terminé. »
 
-Il ne dit rien de plus. Son collègue avait légèrement tourné la tête dans sa direction, pas avec réprobation mais avec la conscience de quelqu’un qui enregistre ce qui vient d’être dit.
+Il ne dit rien de plus. Son collègue avait légèrement tourné la tête vers lui, sans réprobation, avec la conscience de quelqu’un qui enregistre ce qui vient d’être dit.
 
 Je bus mon thé dans le silence du soir. La mémoire du Fragment, celle des Archives d’Altram, pulsait en moi avec la régularité d’un compte à rebours dont je ne connaissais ni le point de départ ni l’arrivée.
 
@@ -238,53 +238,53 @@ Je bus mon thé dans le silence du soir. La mémoire du Fragment, celle des Arch
 
 La deuxième nuit, allongé dans mon sac sur la roche, je ne dormis pas.
 
-Je repensais aux silhouettes. À la femme avec l’enfant dans les bras : la posture de quelqu’un qui protège, pas de quelqu’un qui fuit. La différence était importante. Ceux d’Ordavan n’avaient pas fui : le déplacement les avait pris dans leur activité quotidienne, dans le geste ordinaire de l’instant. Aucun des gestes que j’avais perçus n’était un geste d’urgence : c’était du bruit de fond humain, le mouvement de gens qui font leur vie sans savoir que leur vie est sur le point d’être extraite de son contexte temporel.
+Je repensais aux silhouettes. À la femme avec l’enfant dans les bras : une posture de protection, pas de fuite. La différence était importante. Ceux d’Ordavan n’avaient pas fui. Le déplacement les avait pris dans leur activité quotidienne, dans le geste ordinaire de l’instant. Rien de ce que j’avais perçu ne relevait de l’urgence. C’était du bruit de fond humain : des gens vivant leur vie sans savoir qu’elle allait être extraite de son contexte temporel.
 
 Tempora les avait pris dans l’ordinaire.
 
-(Je relèverai plus tard que protéger, ce n’est pas exactement le geste de l’ordinaire. La femme serrait l’enfant. Pourquoi serre-t-on un enfant à un instant donné ? Pour le bercer, ou parce qu’on a senti quelque chose. Je laisse la question pendante. Elle me dérange : j’irai donc plutôt regarder une autre silhouette.)
+(Je relèverai plus tard que protéger n’est pas tout à fait un geste ordinaire. La femme serrait l’enfant. Pourquoi serre-t-on un enfant à un instant donné ? Pour le bercer, ou parce qu’on a senti un danger. Je laisse la question pendante. Elle me dérange ; j’irai donc plutôt regarder une autre silhouette.)
 
-Ce n’était pas une punition. Une punition aurait ciblé les gestes extraordinaires, les actes d’importance. Tempora avait prélevé une tranche d’ordinaire : deux cents vies dans leur matin de semaine, dans leur geste de boulangerie et de maçonnerie et de mère qui porte un enfant. Il avait prélevé cette tranche et l’avait mise de côté, comme un archiviste glisse une note entre les pages d’un livre pour marquer une place.
+Ce n’était pas une punition. Une punition aurait ciblé des gestes extraordinaires, des actes d’importance. Tempora avait prélevé une tranche d’ordinaire : deux cents vies dans leur matin de semaine, entre boulangerie, maçonnerie, bras refermés autour d’un enfant. Il avait mis cette tranche de côté, comme un archiviste glisse une note entre les pages d’un livre pour marquer une place.
 
 Pour marquer une place.
 
-La Faille de Tempora comme signet. Ordavan comme page marquée dans le grand livre du temps. Et moi, arrivant ici cinquante-huit ans après la disparition, vingt-trois ans après mon père, moi comme le lecteur qui arrive enfin à la page marquée.
+La Faille de Tempora comme signet. Ordavan comme page marquée dans le grand livre du temps. Et moi, cinquante-huit ans après la disparition, vingt-trois ans après mon père, comme le lecteur qui arrive enfin à la page.
 
-Je n’étais pas le premier. Mon père était arrivé à cette page. Il n’avait pas pu la lire : peut-être parce qu’il était arrivé trop tôt, que le signal de Tempora n’était pas encore assez fort, que la modification de la manifestation de Tempora n’avait pas encore atteint l’intensité qui me permettait, à moi, de percevoir la superposition.
+Je n’étais pas le premier. Mon père était arrivé à cette page. Il n’avait pas pu la lire, peut-être parce qu’il était arrivé trop tôt, avant que le signal de Tempora devienne assez fort pour traverser même un Délié.
 
-Ce qui modifie Tempora amplifie la rupture observable. Et un Éternel dont la manifestation est altérée perd sa capacité à contenir les fuites entre les couches du temps. Ce que Selvorn appelait la Faille n’était pas une faille au sens géologique : c’était une rupture, et la rupture grandissait, et la rupture laissait fuir quelque chose.
+Ce qui modifiait Tempora amplifiait la rupture observable. Et un Éternel dont la manifestation s’altère perd peut-être sa capacité à contenir les fuites entre les couches du temps. Ce que Selvorn appelait la Faille n’était pas une faille au sens géologique. C’était une déchirure. Elle grandissait.
 
 Ce que j’avais perçu à Ordavan était cette fuite. Le temps d’un autre instant qui s’échappait à travers la déchirure dans la Trame liée à Tempora.
 
-Et si Tempora continuait à s’affaiblir, si la rupture continuait à s’élargir —
+Et si Tempora continuait à s’affaiblir, si la déchirure continuait à s’élargir —
 
-Je m’arrêtai à cette pensée. Je ne voulais pas la finir, pas cette nuit-là, pas dans le noir de Tolvandor avec deux Gardes Cristallines qui dormaient à quelques mètres. Je la mis de côté, avec la méthode que j’avais développée pendant dix mois de route pour les pensées trop grandes pour être traitées dans l’immédiat : je lui donnai un nom provisoire, une étiquette temporaire qui lui permettrait de rester rangée sans encombrer le reste.
+Je m’arrêtai à cette pensée. Je ne voulais pas la finir, pas cette nuit-là, pas dans le noir de Tolvandor avec deux Gardes Cristallins qui dormaient à quelques mètres. Je la mis de côté avec la méthode développée pendant dix mois de route pour les pensées trop grandes : je lui donnai un nom provisoire, une étiquette qui la garderait rangée jusqu’à ce que je puisse la regarder en face.
 
 Je l’appelai : le Seuil.
 
-Si Tempora franchissait le seuil de quelque chose, la fuite ne serait plus des fragments perçus dans une zone de quarante mètres de sol vitrifié. Elle serait autre chose.
+Si Tempora franchissait ce seuil, la fuite ne se limiterait plus à des fragments perçus sur quarante mètres de sol vitrifié. Elle changerait de nature.
 
 ---
 
 Le deuxième matin, les Gardes me rendirent mes papiers avec le tampon de la patrouille de Tolvandor : un tampon administratif brun qui signifiait *escorte volontaire*, pas *arrestation*, ce qui avait une importance pour la suite. Ils me dirent que la frontière de la région était à trois heures de marche vers le nord. Que de là, je pourrais rejoindre Zyrthar par les chemins ordinaires.
 
-L’un d’eux, le jeune, celui du thé et de la remarque sur le Conseil des Sages, me dit, pendant qu’on levait le camp, en rangeant ses affaires dans son sac avec la précision méticuleuse d’un Gryndorien : « Drakora est à l’est. » Il dit ça sans regarder. Comme une information géographique neutre. « Le passage par les cols du Veltrak est plus rapide que le chemin de côte. »
+Le plus jeune, celui du thé et de la remarque sur le Conseil des Sages, me dit pendant qu’on levait le camp, sans lever les yeux de son sac : « Drakora est à l’est. » Il prononça cela comme une information géographique neutre. « Le passage par les cols du Veltrak est plus rapide que le chemin de côte. »
 
 Je dis que je savais que Drakora était à l’est.
 
-Il dit : « Il y a des archivistes indépendants à Drakora qui s’intéressent aux anomalies temporelles. Ils ne sont pas affiliés au Conseil de Gryndor. » Une pause de la longueur d’une considération. « Ils ne sont pas affiliés à grand monde, en fait. »
+Il dit : « Il y a des archivistes indépendants à Drakora qui s’intéressent aux anomalies temporelles. Ils ne sont pas affiliés au Conseil de Gryndor. » Une pause. « Ils ne sont pas affiliés à grand monde, en fait. »
 
 Il referma son sac.
 
 L’autre Garde, qui n’avait rien dit de toute la durée de l’escorte, dit avec la précision d’une personne qui cite : « Les savants qui cherchent ce que les institutions ne cherchent pas finissent souvent par Drakora. »
 
-Je ne sus pas si c’était une recommandation ou un avertissement. Peut-être les deux, et peut-être que la distinction importait moins que le fait.
+Je ne sus pas si c’était une recommandation ou un avertissement. Peut-être les deux. À ce stade, la distinction comptait moins que la direction.
 
 ---
 
 Je les quittai à la limite de la région.
 
-La limite est marquée par une rangée de bornes de cristal gravé : des balises de frontière régionale, système typiquement gryndorien, chaque borne portant d’un côté le nom de la région et de l’autre une maxime en ancien gryndorien que personne n’avait eu besoin de traduire depuis des générations parce que tout le monde la connaissait. Celle de la borne que je passai disait, dans la langue d’origine et dans la traduction glénarienne gravée en dessous : *Ce que l’on ne nomme pas n’est pas inexistant. Il attend.*
+La limite était marquée par une rangée de bornes de cristal gravé. D’un côté, le nom de la région. De l’autre, une maxime en ancien gryndorien, avec sa traduction glénarienne en dessous. Celle que je passai disait : *Ce que l’on ne nomme pas n’est pas inexistant. Il attend.*
 
 Je m’arrêtai devant la borne un moment.
 
@@ -292,27 +292,27 @@ Puis je pris le chemin du nord vers Zyrthar, d’où je partirais vers l’est. 
 
 ---
 
-Ce que je compris à Ordavan, et que j’écris maintenant avec la précision que mérite une révélation, non pas dans le sens dramatique du terme, mais dans le sens technique, le sens cartographique : une révélation est une information qui réorganise la carte, qui déplace les contours de ce qu’on croyait savoir et dessine une géographie nouvelle, est la chose suivante :
+Ce que je compris à Ordavan, je l’écris maintenant avec la précision que mérite une révélation. Pas une révélation au sens dramatique. Au sens cartographique : une information qui réorganise la carte, déplace les contours du connu et dessine une géographie nouvelle.
 
 Les six points de la Carte du Silence ne convergent pas vers Evertia parce qu’Evertia est la source de ce qui affecte les Éternels. Ils convergent vers Evertia parce qu’Evertia est l’endroit où l’effet est le plus visible, le plus ancien, le premier à s’être manifesté. Evertia est le symptôme le plus avancé, pas la cause.
 
-La cause, ce qui blesse Tempora, ce qui agite les esprits d’Avalor, ce qui fait frémir le Fragment Zéro, ce qui frappe de l’autre côté de la porte d’Iskara, ne vient pas d’Evertia. Elle vient de quelque chose que Tempora a vu venir avant tous les autres Éternels et dont il a tenté, avec les seuls outils à sa disposition, de prévenir les mortels : en déplaçant Ordavan dans le temps, en laissant une blessure visible là où il avait agi, en créant une Faille qui ne se refermerait jamais complètement.
+La cause, ce qui blesse Tempora, agite les esprits d’Avalor, fait frémir le Fragment Zéro et frappe de l’autre côté de la porte d’Iskara, ne vient pas d’Evertia. Elle vient d’une menace que Tempora aurait vue avant les autres Éternels. Avec les seuls outils à sa disposition, il aurait tenté de prévenir les mortels : déplacer Ordavan dans le temps, laisser une blessure visible là où il avait agi, créer une Faille qui ne se refermerait jamais complètement.
 
 Tempora ne cherchait pas à sauver Ordavan.
 
 Tempora cherchait à laisser un signal assez durable pour traverser les siècles.
 
-Et j’étais le premier, à ma connaissance, le premier après mon père qui n’avait peut-être pas perçu la superposition mais avait compris autre chose, à l’atteindre avec les bonnes questions.
+Et j’étais le premier, à ma connaissance, à l’atteindre avec les bonnes questions après mon père. Lui n’avait peut-être pas perçu la superposition. Mais il avait compris une vérité qui m’échappait encore.
 
-Mon père. Il était arrivé ici vingt-trois ans avant moi. Il n’avait pas pu sentir les silhouettes. Mais il avait compris autre chose, dit à Haelthyn que Tempora déplaçait et non brisait, et il était parti pour Thalendris.
+Mon père. Il était arrivé ici vingt-trois ans avant moi. Il n’avait pas senti les silhouettes. Mais il avait dit à Haelthyn que Tempora déplaçait et ne brisait pas, puis il était parti pour Thalendris.
 
 Pour Thalendris, pas pour Drakora.
 
-Ce qui signifiait que mon père avait suivi une logique différente de la mienne. Qu’il avait compris quelque chose que je n’avais pas encore compris.
+Ce qui signifiait que mon père avait suivi une logique différente de la mienne. Il possédait une pièce de la carte qui me manquait encore.
 
 Ou qu’il avait reçu une information que je n’avais pas encore reçue.
 
-Il y a deux possibilités : soit mon père a disparu à Thalendris parce qu’il s’est trop approché de quelque chose de dangereux. Soit mon père est à Thalendris parce qu’il y attend.
+Il y a deux possibilités : soit mon père a disparu à Thalendris parce qu’il s’est trop approché d’un danger, soit il est à Thalendris parce qu’il y attend.
 
 Je ne saurai pas laquelle avant d’y arriver.
 
@@ -320,8 +320,8 @@ Mais avant Thalendris, il y a Drakora. Et à Drakora, il y a des archivistes qui
 
 ---
 
-*Jour 335. Je quitte la zone de Tolvandor par le chemin nord. La mémoire du Fragment Zéro, la pulsation que mes paumes en avaient gardée à Altram, me revient avec une régularité dont je commence à distinguer les états : la pulsation ordinaire, écho devenu familier ; la pulsation de proximité, plus tendue, que je ressens près des anomalies ; et il y a ce que je n’avais jamais ressenti avant Ordavan et que je ne sais pas encore nommer. Je ne sais pas si c’est ce souvenir qui me parle, ou si c’est moi qui projette sur lui ce que j’ai besoin d’entendre.*
+*Jour 335. Je quitte la zone de Tolvandor par le chemin nord. La mémoire du Fragment Zéro, cette pulsation que mes paumes avaient gardée à Altram, me revient avec une régularité dont je commence à distinguer les états : l’écho ordinaire, devenu familier ; la pulsation de proximité, plus tendue, près des anomalies ; et ce que je n’avais jamais ressenti avant Ordavan, que je ne sais pas encore nommer. Je ne sais pas si ce souvenir me parle, ou si je projette sur lui ce que j’ai besoin d’entendre.*
 
-*Pour l’instant, je note ce que je tiens : Tempora a laissé un signal. Deux cents personnes vivraient dans un instant arrêté, quelque part dans les couches du temps : pas mortes, déplacées. Si Tempora peut déplacer, Tempora peut peut-être replacer. Mais seulement si Tempora est entier, et Tempora est blessé.*
+*Pour l’instant, je note ce que je tiens : Tempora a laissé un signal. Deux cents personnes vivraient dans un instant arrêté, quelque part dans les couches du temps : pas mortes, déplacées. Si Tempora peut déplacer, Tempora peut peut-être replacer. Mais seulement si Tempora est entier. Et Tempora est blessé.*
 
 *Je n’ai ni magie ni légitimité divine. J’ai une carte qui se précise, et la certitude que quelqu’un d’autre a fait ce chemin avant moi et a choisi de continuer. C’est suffisant pour avancer.*
