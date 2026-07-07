@@ -109,7 +109,7 @@ Elle a ri, un rire bref et sec, sans malice.
 
 — Bienvenue en Seraphia.
 
-Yolenne était peintre. Pas Maître des Arts. Elle avait essayé, m’a-t-elle expliqué au fil d’une conversation qui s’est engagée naturellement, avec la fluidité des conversations entre deux personnes qui n’ont rien à perdre à être honnêtes, elle avait tenté le Concours d’Élévation à deux reprises. La première fois, le jury avait trouvé son travail "techniquement accompli mais insuffisamment dévotionnel". La seconde, "dévotionnel mais excessivement personnel". Elle avait compris à ce moment-là que les catégories du Conclave étaient conçues pour désigner des réussites plutôt que pour les définir : la marge de manœuvre de l’évaluateur était totale, et que cette totalité n’était pas un hasard.
+Yolenne était peintre. Pas Maître des Arts. Elle avait essayé, m’a-t-elle expliqué au fil d’une conversation qui s’est engagée naturellement, avec la fluidité des conversations entre deux personnes qui n’ont rien à perdre à être honnêtes, elle avait tenté le Concours d’Élévation à deux reprises. La première fois, le jury avait trouvé son travail "techniquement accompli mais insuffisamment dévotionnel". La seconde, "dévotionnel mais excessivement personnel". Elle avait compris à ce moment-là que les catégories du Conclave étaient conçues pour désigner des réussites plutôt que pour les définir : la marge de manœuvre de l’évaluateur était totale, et cette totalité n’était pas un hasard.
 
 Elle vivait et travaillait à Althior depuis douze ans, dans un atelier du quartier ouest. Elle vendait ses toiles à des collectionneurs privés, principalement des marchands de Zerithor qui les achetaient comme investissement plutôt que comme dévotion, une vente qui, à Seraphia, était techniquement légale mais portait une légère tache sociale, comme un accent d’une région que les gens de la capitale considèrent comme rustique.
 
@@ -273,11 +273,11 @@ Ce n’était pas de la reconnaissance, bien que j’eusse des raisons d’être
 
 La beauté exclut. Le pouvoir, même quand il prend la forme de la beauté, surtout quand il prend la forme de la beauté, trace des lignes. Il choisit ceux qui peuvent voir et ceux qui voient seulement, ceux qui ressentent et ceux qui observent, ceux dont la sensibilité est reconnue et ceux dont elle ne l’est pas parce qu’elle s’exprime dans un registre que le pouvoir ne lit pas.
 
-Kharazir m’avait exclu avec des documents. Lumasar avec de la politesse. Ventera ne m’avait pas exclu du tout, et cette absence m’avait dit quelque chose d’essentiel sur ce que l’exclusion n’était pas. Seraphia m’excluait avec de la beauté, et c’était peut-être la forme la plus difficile — parce que c’était aussi la moins contestable. Comment se plaindre d’une cathédrale ?
+Kharazir m’avait exclu avec des documents. Lumasar avec de la politesse. Ventera ne m’avait pas exclu du tout, et cette absence m’avait dit quelque chose d’essentiel sur ce que l’exclusion n’était pas. Seraphia m’excluait avec de la beauté, et c’était peut-être la forme la plus difficile : parce que c’était aussi la moins contestable. Comment se plaindre d’une cathédrale ?
 
 Mais on peut noter. On peut noter ce qu’on voit depuis la vitre. On peut noter que la vitre existe, sa texture, son épaisseur, la façon dont elle déforme légèrement ce qu’on regarde à travers elle.
 
-C’est pour ça que je suis cartographe. Pas pour reproduire le monde — pour noter la distance entre le monde et celui qui le regarde.
+C’est pour ça que je suis cartographe. Pas pour reproduire le monde, mais pour noter la distance entre le monde et celui qui le regarde.
 
 Mon père me l’avait dit une fois, dans un des rares moments où il était là assez longtemps pour dire quelque chose qui compterait. Il m’avait dit qu’une carte honnête commençait toujours par noter la position de l’observateur.
 

@@ -44,11 +44,11 @@ Il avait hoché la tête, lentement, comme si ce nom lui disait quelque chose de
 
 — Vela est une femme prudente. Elle ne prend pas la mer sans avoir lu les vents trois jours à l’avance. Vous serez en de bonnes mains.
 
-Puis il était resté silencieux, et je n’avais pas cherché à remplir ce silence. J’avais appris, depuis Kharazir, que les silences des gens sages sont des espaces à respecter, non des vides à combler. Nous avions regardé ensemble la mer, lui dans sa familiarité de vieux complice, moi dans mon émerveillement encore intact de continental qui n’avait jamais posé les yeux sur tant d’eau. La Pointe des Explorateurs s’étendait sous nous, noire et découpée, et au-delà, rien — le vide sombre et vivant de l’océan.
+Puis il était resté silencieux, et je n’avais pas cherché à remplir ce silence. J’avais appris, depuis Kharazir, que les silences des gens sages sont des espaces à respecter, non des vides à combler. Nous avions regardé ensemble la mer, lui dans sa familiarité de vieux complice, moi dans mon émerveillement encore intact de continental qui n’avait jamais posé les yeux sur tant d’eau. La Pointe des Explorateurs s’étendait sous nous, noire et découpée, et au-delà, rien : le vide sombre et vivant de l’océan.
 
 — On ne part jamais vraiment, avait dit Thelorn au bout d’un long moment. Chaque marin revient ici, un jour ou l’autre. Dans sa tête, sinon sur ses jambes.
 
-Je n’avais pas répondu à cela non plus. Mais le mot s’était posé en moi comme une graine — *revenir*. Je n’avais jamais pensé au retour. Depuis soixante-deux jours, je marchais, naviguais, dormais mal et observais beaucoup, et je n’avais pensé qu’à l’horizon suivant. Le retour était un continent étranger que je n’avais pas encore cartographié.
+Je n’avais pas répondu à cela non plus. Mais le mot s’était posé en moi comme une graine : *revenir*. Je n’avais jamais pensé au retour. Depuis soixante-deux jours, je marchais, naviguais, dormais mal et observais beaucoup, et je n’avais pensé qu’à l’horizon suivant. Le retour était un continent étranger que je n’avais pas encore cartographié.
 
 ---
 
@@ -190,7 +190,7 @@ Ce que j’avais ressenti était plus simple et plus étrange à la fois. Une cu
 
 La côte de Galenor, mes deux mois, mes routes, mes visages, la lumière particulière de ses matins, le goût de son vin et l’odeur de ses ports, la côte de Galenor s’est rétrécie, s’est aplatie, est devenue une ligne. Puis une ombre. Puis rien.
 
-À l’est, il y avait une autre ligne, déjà — pas Tyndara encore, juste l’arête d’un nuage qui ressemblait à une côte.
+À l’est, il y avait une autre ligne, déjà. Pas Tyndara encore : juste l’arête d’un nuage qui ressemblait à une côte.
 
 ---
 

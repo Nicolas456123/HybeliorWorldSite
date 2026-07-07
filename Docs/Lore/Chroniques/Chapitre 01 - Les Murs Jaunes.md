@@ -72,7 +72,7 @@ Rukhsar est une ville de canyon. De la fenêtre des Bibliothèques, on regardait
 
 J’avais passé des heures, dans mes premières années, à copier ces inscriptions. Pour les lire, il fallait descendre au fond du canyon par les escaliers de la paroi nord, traverser le pont des Voix, se tenir au bord de l’eau. Je ne le faisais pas par dévotion civique. Le tracé des lettres dans la pierre bleue d’Azuris présentait une irrégularité : certaines lignes étaient plus profondes que d’autres, comme si plusieurs maçons avaient travaillé en même temps, chacun avec sa propre force de frappe. Une observation sans conséquence, peut-être. Je la notais parce que les cartographes notent les irrégularités, dans l’espoir qu’elles révèlent quelque chose sur ce qui les entoure. Les rivières, elles, n’ont pas d’irrégularité. Elles coulent avec la certitude de ce qui n’a pas à se justifier.
 
-Les rues de Rukhsar ne rayonnent pas — elles grimpent. En bas, près de l’eau : les entrepôts, les étals, les odeurs. À mi-paroi : les maisons, les temples, les passerelles. En haut, là où la lumière du matin touche la ville en premier : les Archives. Le canyon lui-même est une architecture. Les falaises sont les murs que personne n’a construits.
+Les rues de Rukhsar ne rayonnent pas : elles grimpent. En bas, près de l’eau : les entrepôts, les étals, les odeurs. À mi-paroi : les maisons, les temples, les passerelles. En haut, là où la lumière du matin touche la ville en premier : les Archives. Le canyon lui-même est une architecture. Les falaises sont les murs que personne n’a construits.
 
 Les guides de voyage vantent cette pluralité comme une merveille. Ils disent moins que les niveaux se stratifient comme une géographie des tolérances. Les communautés vivent côte à côte mais pas ensemble. Elles partagent les mêmes rues sans partager les mêmes tables. Et depuis la Loi du Sol, il y a maintenant plus de quatre cents ans, dans les registres que j’ai consultés avant de me voir retirer mes accréditations, les Déliés portent le tissu jaune.
 
@@ -168,7 +168,7 @@ Je l’avais aperçu pour la première fois dans une taverne du quartier des Car
 
 Depuis, je l’avais croisé dans des endroits que l’on ne fréquente pas par hasard : la bibliothèque des Errants, qui n’est pas une vraie bibliothèque mais une arrière-salle où les textes circulent sans registre ; l’escalier de derrière des Salles de Médiation, là où les Déliés qui veulent porter plainte apprennent à attendre.
 
-Ce soir-là, dans le quartier des Artisans, il était appuyé contre un mur de la ruelle que je longeais pour rejoindre le caravansérail où j’avais réservé une place pour la nuit. Je n’ai rien dit. Lui non plus. Mais quand j’ai croisé son regard, j’ai vu quelque chose qui n’était pas de la pitié — c’était de la reconnaissance. La façon dont on reconnaît quelqu’un qui a vu la même chose que soi et qui sait qu’aucune institution ne lui donnera raison.
+Ce soir-là, dans le quartier des Artisans, il était appuyé contre un mur de la ruelle que je longeais pour rejoindre le caravansérail où j’avais réservé une place pour la nuit. Je n’ai rien dit. Lui non plus. Mais quand j’ai croisé son regard, j’ai vu quelque chose qui n’était pas de la pitié : c’était de la reconnaissance. La façon dont on reconnaît quelqu’un qui a vu la même chose que soi et qui sait qu’aucune institution ne lui donnera raison.
 
 Il glissa une main dans sa manche et la ressortit vide.
 
@@ -262,6 +262,6 @@ Le soleil touchait d’abord les crêtes. Puis la lumière descendait, lentement
 
 Au dernier virage, avant que la route ne sorte enfin du canyon sur le plateau, je n’ai pas regardé en arrière. Je sais que je n’aurais pas dû noter cela. Mais c’est vrai.
 
-J’ai noté la qualité de cette lumière dans mon nouveau carnet — vierge, acheté la veille, dont je n’avais pas encore décidé ce qu’il deviendrait.
+J’ai noté la qualité de cette lumière dans mon nouveau carnet, vierge, acheté la veille, dont je n’avais pas encore décidé ce qu’il deviendrait.
 
 La cartographie commence toujours par une observation. Le reste vient après.

@@ -37,7 +37,7 @@ Elle s’appelait Dava. Elle était l’une des cavalières qui coordonnaient ce
 
 Elle m’a proposé de marcher aux côtés de la caravane jusqu’au prochain campement, où l’on déciderait de la suite.
 
-Elle ne m’a pas demandé mon nom en premier. Elle ne m’a pas demandé d’où je venais. Et surtout — et cela m’a frappé avec une violence que je n’attendais pas — elle ne m’a pas demandé si j’étais Lié.
+Elle ne m’a pas demandé mon nom en premier. Elle ne m’a pas demandé d’où je venais. Et surtout, et cela m’a frappé avec une violence que je n’attendais pas, elle ne m’a pas demandé si j’étais Lié.
 
 ---
 
@@ -111,7 +111,7 @@ L’un des cavaliers m’a regardé. Pas avec hostilité, avec cette attention n
 
 Il m’avait demandé si je savais lire les cairns.
 
-J’avais haussé les sourcils — une réponse en soi.
+J’avais haussé les sourcils : une réponse en soi.
 
 — Il voulait dire, a expliqué Dava en souriant légèrement, si tu lis les cairns comme on lit une carte ou comme on lit un visage. Les deux lectures sont différentes. La première te dit où tu es. La seconde te dit où quelqu’un est passé, et dans quel état il était.
 
@@ -137,11 +137,11 @@ Pas d’où je venais, pas ce que j’avais fait avant, il avait déjà compris,
 
 Ce que je cherchais. La question m’a suivi plusieurs heures avant que je ne trouve une formulation honnête.
 
-— Je cherche à comprendre, ai-je fini par dire, ce qui arrive à une connaissance quand elle devient dangereuse. Pas à cause de ce qu’elle est — mais à cause de ce qu’elle révèle sur ceux qui ne voulaient pas qu’on la découvre.
+— Je cherche à comprendre, ai-je fini par dire, ce qui arrive à une connaissance quand elle devient dangereuse. Pas à cause de ce qu’elle est, mais à cause de ce qu’elle révèle sur ceux qui ne voulaient pas qu’on la découvre.
 
 Orren a marché en silence un long moment. Nous dépassions alors un cairn particulièrement imposant, presque à hauteur d’épaule, dont les pierres du sommet avaient une teinte légèrement différente, ajoutées plus récemment, ai-je estimé, par d’autres mains.
 
-— La Rota Mundi, a-t-il dit, n’enseigne pas que le bien triomphe du mal. Elle enseigne que tout ce qui est accompli est accompli. Que la roue tourne, et que les résistances au tour de roue font partie du mouvement, pas des obstacles à lui. Ce que tu décris — un savoir qu’on t’a reproché d’avoir trouvé — c’est une résistance dans le cycle. Elle passera. Mais le cycle ne revient jamais exactement au même point.
+— La Rota Mundi, a-t-il dit, n’enseigne pas que le bien triomphe du mal. Elle enseigne que tout ce qui est accompli est accompli. Que la roue tourne, et que les résistances au tour de roue font partie du mouvement, pas des obstacles à lui. Ce que tu décris, un savoir qu’on t’a reproché d’avoir trouvé, c’est une résistance dans le cycle. Elle passera. Mais le cycle ne revient jamais exactement au même point.
 
 — C’est consolant ou décourageant ? ai-je demandé.
 
@@ -151,7 +151,7 @@ Orren a marché en silence un long moment. Nous dépassions alors un cairn parti
 
 Le cinquième jour dans les plaines a été celui que j’aurais voulu arrêter, contenir, tenir entre mes mains comme on tient une flamme pour se réchauffer sans se brûler.
 
-Nous traversions une étendue que Dava appelait simplement « la grande herbe » : il n’y avait pas de nom cartographique, ou si jamais j’en avais rencontré un dans mes études il ne correspondait à rien de ce que je voyais, parce que les cartes que j’avais étudiées de Ventera avaient été faites de loin, par des cartographes qui n’y avaient jamais mis les pieds et s’étaient contentés de noter "plaines" sur trois quarts de la surface.
+Nous traversions une étendue que Dava appelait simplement « la grande herbe » : il n’y avait pas de nom cartographique, ou si jamais j’en avais rencontré un dans mes études il ne correspondait à rien de ce que je voyais, parce que les cartes que j’avais étudiées de Ventera avaient été faites de loin, par des cartographes qui n’y avaient jamais mis les pieds et s’étaient contentés de noter « plaines » sur trois quarts de la surface.
 
 Le vent était dans le dos. Le soleil à notre droite, déclinant vers l’après-midi. Les chevaux avançaient à un trot léger, les oreilles mobiles, comme si eux aussi savouraient quelque chose dans cette lumière particulière. J’avais rangé mon carnet et je marchais simplement, les bras ballants, la tête relevée.
 

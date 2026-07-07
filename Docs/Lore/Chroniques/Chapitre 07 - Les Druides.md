@@ -80,7 +80,7 @@ Je lui ai raconté Kharazir. Brièvement. L’essentiel. L’injustice d’une a
 
 « Les esprits de ta forêt natale te reconnaissent encore, » dit-il après un silence. « Un être qu’une forêt a connu ne peut pas être complètement effacé. »
 
-C’est le genre de phrase qu’on aurait pu dire pour consoler et que j’aurais prise pour telle. Mais il ne la disait pas pour consoler. Il la disait comme un fait, avec la même certitude tranquille qu’il aurait dite que le sol est humide après la pluie. Ça m’a déstabilisé d’une façon que je n’attendais pas.
+C’est le genre de phrase qu’on aurait pu dire pour consoler et que j’aurais prise pour telle. Mais il ne la disait pas pour consoler. Il la disait comme un fait, avec la même certitude tranquille qu’il aurait dit que le sol est humide après la pluie. Ça m’a déstabilisé d’une façon que je n’attendais pas.
 
 J’ai changé de sujet vers les cartes, le territoire, les noms des rivières. Terrain plus sûr.
 
@@ -160,11 +160,11 @@ Je suis reparti le lendemain matin, Pardine chargée de provisions et de gratitu
 
 Je l’ai mise dans la poche gauche de ma veste, là où je porte mon compas depuis que j’ai quitté Kharazir. Le compas mesure les directions. Je ne sais pas encore ce que mesure la pierre. Mais elle pèse quelque chose, et ce quelque chose n’est pas négligeable.
 
-J’ai quitté Trinoria par le sud, en direction de Valoria, en me demandant si les arbres de Velathor me regardaient partir. Puis, plus honnêtement, en me demandant si je me souciais de la réponse — et découvrant, avec une légère surprise, que oui.
+J’ai quitté Trinoria par le sud, en direction de Valoria, en me demandant si les arbres de Velathor me regardaient partir. Puis, plus honnêtement, en me demandant si je me souciais de la réponse. Et découvrant, avec une légère surprise, que oui.
 
 Cela aussi, c’est nouveau.
 
-J’ai dormi l’une des dernières nuits trinoriennes dans une grotte basse, en lisière du dernier bois avant les hameaux de la marche sud, un abri de chasseur que Keth m’avait indiqué, avec un foyer noirci par cent feux antérieurs et une odeur particulière que je n’ai pas su nommer, à mi-chemin entre la résine et le champignon humide, une odeur qui restait dans la laine de la couverture et que je retrouverais sur mes vêtements pendant plusieurs jours après. Je note la grotte parce qu’elle existe, et parce que les abris qu’on emprunte sans payer comptent dans la cartographie d’un voyage autant que les villes où l’on s’arrête. La toute dernière nuit, elle, je la passerais autrement — mais cela appartient déjà à Valoria.
+J’ai dormi l’une des dernières nuits trinoriennes dans une grotte basse, en lisière du dernier bois avant les hameaux de la marche sud, un abri de chasseur que Keth m’avait indiqué, avec un foyer noirci par cent feux antérieurs et une odeur particulière que je n’ai pas su nommer, à mi-chemin entre la résine et le champignon humide, une odeur qui restait dans la laine de la couverture et que je retrouverais sur mes vêtements pendant plusieurs jours après. Je note la grotte parce qu’elle existe, et parce que les abris qu’on emprunte sans payer comptent dans la cartographie d’un voyage autant que les villes où l’on s’arrête. La toute dernière nuit, elle, je la passerais autrement, mais cela appartient déjà à Valoria.
 
 ---
 

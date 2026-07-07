@@ -250,7 +250,7 @@ Mon père y note, avec la précision méthodique qu’il appliquait à tout, une
 
 Ce qu’il note, dans ces conversations, concerne les tunnels.
 
-Pas les mêmes tunnels que j’ai trouvés — ou peut-être si, je ne le sais pas encore avec certitude. Des tunnels sous les collines de Hiliara, dans une zone que j’aurais pu cartographier si j’avais cherché dans la bonne direction, sous un affleurement rocheux que mon père décrit avec une précision suffisante pour que je puisse en calculer l’emplacement approximatif.
+Pas les mêmes tunnels que j’ai trouvés, ou peut-être si, je ne le sais pas encore avec certitude. Des tunnels sous les collines de Hiliara, dans une zone que j’aurais pu cartographier si j’avais cherché dans la bonne direction, sous un affleurement rocheux que mon père décrit avec une précision suffisante pour que je puisse en calculer l’emplacement approximatif.
 
 Des tunnels que mon père a visités. Dont il a lu les inscriptions. Dont il a calculé, par ses relevés astronomiques, qu’ils avaient été construits dans une période antérieure à l’Arrachement.
 
@@ -296,4 +296,4 @@ Les frontières, j’avais appris à les tracer. Ce que je n’avais pas appris,
 
 Mon père avait peut-être appris. La façon dont il a disparu ne dit pas qu’il avait réussi. Elle dit seulement qu’il avait essayé.
 
-Demain, la pluie bleue. Et après, la route — par le sud, vers les plaines, vers ce qui n’a pas de bureau d’accueil.
+Demain, la pluie bleue. Et après, la route : par le sud, vers les plaines, vers ce qui n’a pas de bureau d’accueil.

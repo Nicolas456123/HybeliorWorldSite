@@ -148,7 +148,7 @@ Valdris III, que tout le monde à Portharis appelait simplement *le Vieux*, avec
 
 Je ne l’avais pas vu en personne. J’avais vu son passage.
 
-Le cortège avait traversé la rue du Sel en milieu de matinée : six hommes à pied, un homme en gondole dans le canal parallèle, une escorte navale de deux barques armées. Dans la rue, les marchands s’étaient écartés avec l’efficacité de gens qui ont appris que l’obstruction d’une voie officielle était plus coûteuse que l’interruption d’une vente. Pas de prosternation, pas d’acclamation — juste un écartement pragmatique, puis une reprise immédiate des activités quand le cortège était passé.
+Le cortège avait traversé la rue du Sel en milieu de matinée : six hommes à pied, un homme en gondole dans le canal parallèle, une escorte navale de deux barques armées. Dans la rue, les marchands s’étaient écartés avec l’efficacité de gens qui ont appris que l’obstruction d’une voie officielle était plus coûteuse que l’interruption d’une vente. Pas de prosternation, pas d’acclamation : juste un écartement pragmatique, puis une reprise immédiate des activités quand le cortège était passé.
 
 Aldrina, ma pensionnaire, avait regardé le cortège depuis la fenêtre de sa cuisine avec une expression que je n’aurais pas su nommer avant d’avoir passé une semaine à Tyndara. Ce n’était pas de l’admiration. Ce n’était pas de la méfiance. C’était de la vigilance : la vigilance de quelqu’un qui compte, qui calcule, qui s’interroge sur ce que le mouvement de ce cortège signifie pour son loyer, ses approvisionnements, la valeur de sa pension au trimestre suivant.
 
@@ -250,7 +250,7 @@ Je pense au nom que j’ai entendu : Catena Fracta.
 
 Il n’est pas dans mes cartes, évidemment. Les cartographes de Kharazir dessinaient les routes, les ports, les frontières, les reliefs. Ils ne dessinaient pas ce qui se passe dans les intervalles : les accords informels, les flux invisibles, les chaînes de décisions qui relient un entrepôt brûlé dans le quartier des épices à un navire retrouvé vide au large de Ralmeria. Ce territoire-là n’a pas de cartographe.
 
-Ou peut-être que si. Peut-être que c’est précisément le territoire dont je devrais apprendre à faire les cartes. Non pas avec des instruments de mesure et des compas d’arpentage — avec des yeux ouverts et une plume et la patience d’un homme qui n’a plus rien à perdre d’autre que sa naïveté.
+Ou peut-être que si. Peut-être que c’est précisément le territoire dont je devrais apprendre à faire les cartes. Non pas avec des instruments de mesure et des compas d’arpentage, mais avec des yeux ouverts et une plume et la patience d’un homme qui n’a plus rien à perdre d’autre que sa naïveté.
 
 Mon exil m’a pris ma certitude. La route me redonne quelque chose d’autre à la place : pas une autre certitude, plutôt une capacité d’attention que je n’avais pas à Kharazir. Quand on dessine des cartes pour une institution, on voit ce que l’institution a besoin de voir. Quand on est un exilé qui marche dans des villes étrangères sans mandat ni salaire, on commence à voir le reste.
 
@@ -258,7 +258,7 @@ Le reste est vaste.
 
 ---
 
-Je resterai à Portharis encore quelques jours. Il y a une conversation que je veux finir avec Maldrix, sur les cartes de l’archipel de Ralmeria et les routes qui passent au large, les routes des navires qui ne reviennent pas. Et il y a quelque chose d’autre que je cherche sans encore savoir exactement quoi : une direction. Après Tyndara, la route peut prendre plusieurs formes. Les flottes tyndariennes vont dans tous les sens : vers Endora, vers Alkaran, vers des continents dont je n’ai que des noms. Je ne suis plus l’homme qui fuit ou qui se réfugie ou qui s’émerveille — je suis un homme qui commence à choisir.
+Je resterai à Portharis encore quelques jours. Il y a une conversation que je veux finir avec Maldrix, sur les cartes de l’archipel de Ralmeria et les routes qui passent au large, les routes des navires qui ne reviennent pas. Et il y a quelque chose d’autre que je cherche sans encore savoir exactement quoi : une direction. Après Tyndara, la route peut prendre plusieurs formes. Les flottes tyndariennes vont dans tous les sens : vers Endora, vers Alkaran, vers des continents dont je n’ai que des noms. Je ne suis plus l’homme qui fuit ou qui se réfugie ou qui s’émerveille : je suis un homme qui commence à choisir.
 
 C’est peut-être la chose la plus étrange que ces soixante-dix-huit jours m’aient apportée. Non pas la paix : la paix est un état qui se construit lentement et que je ne prétends pas avoir atteint. Mais la capacité à poser une question sans avoir immédiatement besoin d’une réponse. La Chaîne Brisée. Les navires vides. Les routes qui disparaissent.
 
@@ -272,7 +272,7 @@ Je ne sais pas encore pour qui.
 
 *Tyndara, Onara : une nation qui a transformé l’ancien monde des pirates en empire commercial en partant d’un principe simple : que le commerce rapporte plus que le vol, à condition de contrôler les routes. Ce principe est la fondation de tout. La religion sert le commerce. La politique sert le commerce. La culture est la patine que le commerce ajoute pour que son propre fonctionnement soit supportable à ceux qui y participent.*
 
-*Ce qui m’a frappé le plus, dans cette ville qui chiffre tout : la façon dont les gens nomment l’argent sans le nommer. On dit "l’intérêt," on dit "la valeur," on dit "le juste prix," jamais simplement "l’argent." Comme si le mot direct était trop nu, trop honnête pour être convenable dans une ville dont l’honnêteté s’arrête exactement là où l’intérêt commence.*
+*Ce qui m’a frappé le plus, dans cette ville qui chiffre tout : la façon dont les gens nomment l’argent sans le nommer. On dit "l’intérêt", on dit "la valeur", on dit "le juste prix", jamais simplement "l’argent". Comme si le mot direct était trop nu, trop honnête pour être convenable dans une ville dont l’honnêteté s’arrête exactement là où l’intérêt commence.*
 
 *Catena Fracta : j’écris ce nom ici pour ne pas l’oublier, moins parce qu’il désigne quelque chose de précis que parce qu’il sert à beaucoup de gens à beaucoup de choses différentes, et qu’il faudra que j’apprenne à distinguer les usages. À Kharazir, c’était l’étiquette d’une accusation administrative. À Portharis, c’est la rengaine des marins en quête d’explication facile. Quelque part en dessous, il y a une secte philosophique réelle, minoritaire, qui prêche le sevrage des Voies, et que je ne crois pas avoir croisée. Les autres usages du nom n’en parlent pas. Ils parlent d’autre chose à travers lui.*
 
