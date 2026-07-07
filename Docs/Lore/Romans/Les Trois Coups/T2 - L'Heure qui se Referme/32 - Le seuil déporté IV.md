@@ -215,7 +215,7 @@ C’est tout ce que nous avons.
 
 ---
 
-> **Fragment #5, d’un cahier de copie du journal de Thessan.** *(copie tardive, d’une main de copiste dévote ; le texte original a presque disparu sous la glose : chaque ligne du journal est enfouie sous une explication qui la déborde, la corrige, la pieusement contredit ; seul un noyau a résisté à l’ensevelissement, on ne sait pourquoi le copiste ne l’a pas recouvert lui aussi)*
+> **Fragment #5, d’un cahier de copie du journal de Thessan.** *Copie tardive, d’une main de copiste dévote ; le texte original a presque disparu sous la glose : chaque ligne du journal est enfouie sous une explication qui la déborde, la corrige, la pieusement contredit ; seul un noyau a résisté à l’ensevelissement, on ne sait pourquoi le copiste ne l’a pas recouvert lui aussi.*
 >
 > *« Nous montons demain. [Glose : entends que la montée est l’Ascension figurée de l’âme vers le Renoncement, et que « demain » ne désigne pas un jour mais l’imminence perpétuelle où se tient le fidèle.] J’ai peur — [Glose abondante : non d’une crainte charnelle, qui messiérait au Bienheureux, mais du saint tremblement de qui approche le Mystère ; que le lecteur ne lise ici nulle faiblesse.] non de ce que nous ferons, mais de ce qui poussera à la place. [Glose : car de la Coupure sainte poussa le Monde-d’Après, ainsi qu’il est enseigné, et le Bienheureux le pressentait sans le nommer ; rendons grâce.] Nous savons ce qui se casse. Nous ne savons pas ce qui pousse. [Glose : mais NOUS le savons, nous qui venons après et qui voyons pousser ; là où le Bienheureux doutait, réjouis-toi, ô lecteur, car le doute fut relevé par l’événement, et ce qu’il ne savait pas, tu le sais.]*
 >

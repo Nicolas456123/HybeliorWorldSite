@@ -37,7 +37,7 @@ Trop de nous, et plus de voix.
 
 Elle a lâché ma main.
 
-*(un blanc. long. le temps qu’il faut à un homme pour ne pas dire le reste)*
+*un blanc. long. le temps qu’il faut à un homme pour ne pas dire le reste*
 
 Non. Ce n’est pas moi qui l’ai lâchée. C’est la déchirure. Elle est passée sur Fenoy pendant que je la tenais. Un souffle. La fontaine, les trois becs, la main dans la mienne. Et le souffle d’après, plus de main, plus de fontaine, plus de moi au bord de la fontaine. Seulement ceci, que je répète parce que c’est tout ce qui me reste :
 
@@ -45,7 +45,7 @@ Elle a lâché ma main.
 
 Ou j’ai lâché la sienne. Je ne sais plus qui a lâché. C’est ça, aussi, qui s’use : le sens des choses. Avant je savais qui tenait qui. Maintenant il y a deux mains qui se défont et je ne sais plus laquelle est la mienne.
 
-*(rien)*
+*rien*
 
 ---
 
@@ -63,7 +63,7 @@ Et sous le blanc, car il y a toujours quelque chose sous, vous savez lire mainte
 
 J’ai lâché l’ordre.
 
-*(un temps)*
+*un temps*
 
 Vous aviez raison. Tous. La folle avec sa Nesse qui court, vous tous du milieu. On glisse une fois, et après on flotte. Je flotte. Je ne sais plus si demain vient avant ou après aujourd’hui. J’ai un lundi quelque part, encore, mais je ne sais plus où le poser sur la corde, et de toute façon…
 
@@ -71,7 +71,7 @@ de toute façon la corde…
 
 Il n’y a pas de corde.
 
-*(rien)*
+*rien*
 
 ---
 
@@ -87,11 +87,11 @@ Nous ne nous en réjouissons pas. Ce n’est pas une victoire. C’est un froid 
 
 Enfant.
 
-*(blanc)*
+*blanc*
 
 Un enfant. Écoute. Ne saigne pas.
 
-*(blanc)*
+*blanc*
 
 Je n’ai plus le… les autres mots. Je les ai posés comme j’avais posé le quand. Il ne me reste que celui-là. Enfant. Je le garde parce que c’est le seul qui ne fait pas mal. Tous les autres mots je les ai lâchés en route, un à un, le mur, la lumière, l’homme qui cherche, le père, tous lâchés. Mais enfant, non. Enfant je tiens.
 
@@ -99,13 +99,13 @@ Il écoute.
 
 Sous. Un battement. Sous tout. Il penche la tête. Il ne saigne pas.
 
-*(un long blanc, si long que nous croyons qu’elle est partie)*
+*un long blanc, si long que nous croyons qu’elle est partie*
 
 À sa place.
 
 Le premier… à sa place… depuis…
 
-*(rien)*
+*rien*
 
 ---
 
@@ -143,7 +143,7 @@ Nous ne trancherons pas. La blessure qui suppure, la vengeance, la roue qui grin
 
 Ça vient.
 
-*(un temps, mais chez elle le temps est doux, elle n’a plus mal depuis longtemps)*
+*un temps, mais chez elle le temps est doux, elle n’a plus mal depuis longtemps*
 
 Ça vient et je ne vous dirai pas quand. Vous savez pourquoi. Ce n’est plus la peine de vous le répéter.
 
@@ -155,7 +155,7 @@ Ce n’est pas triste. Écoutez-moi bien, c’est important, ce n’est pas tris
 
 Nesse court encore. Elle courra toujours, maintenant. C’est ce que je gagne à la fermeture : Nesse figée en train de courir près des ruches, jeune, riant, pour toujours au milieu de son pas. Je vous l’avais dit : nous ne savons pas quand les choses finissent, alors elles ne finissent pas. La fermeture va sceller ça. Pour toujours, Nesse n’aura pas fini de courir.
 
-*(un temps)*
+*un temps*
 
 Taisez-vous, maintenant, vous autres. Ce qui parle après nous ne doit pas être couvert. Il y a un enfant qui va parler, de l’autre côté de l’heure. Faisons-lui le silence. C’est notre dernier cadeau. Nous qui n’avons jamais su quand nous étions, nous préparons la place d’une voix qui saura.
 
@@ -177,11 +177,11 @@ Il fait gris quelque part.
 
 Un enfant écoute et ne saigne pas.
 
-*(et puis plus rien, un long moment, le plus long que nous vous ayons jamais donné, non parce que nous sommes partis, mais parce qu’il faut, avant l’heure, que vous appreniez le silence dans lequel elle va tomber)*
+*et puis plus rien, un long moment, le plus long que nous vous ayons jamais donné, non parce que nous sommes partis, mais parce qu’il faut, avant l’heure, que vous appreniez le silence dans lequel elle va tomber*
 
 ---
 
-> **Fragment #6 — d’un cahier de copie du journal de Thessan.** *(le cahier qui traverse la Plaine ; recopié tant de fois que presque tout est tombé : plus de gloses, plus de dates, plus de noms. Les copistes successifs ont abrégé, sauté, renoncé, jusqu’à ne garder que ce qu’ils n’osaient pas perdre. Une seule main, la dernière, a réécrit proprement le peu qui restait, comme pour qu’on puisse le lire à voix haute)*
+> **Fragment #6 — d’un cahier de copie du journal de Thessan.** *Le cahier qui traverse la Plaine ; recopié tant de fois que presque tout est tombé : plus de gloses, plus de dates, plus de noms. Les copistes successifs ont abrégé, sauté, renoncé, jusqu’à ne garder que ce qu’ils n’osaient pas perdre. Une seule main, la dernière, a réécrit proprement le peu qui restait, comme pour qu’on puisse le lire à voix haute.*
 >
 > *[la première page est nue ; on distingue le fantôme d’anciennes lignes grattées]*
 >
@@ -195,4 +195,4 @@ Un enfant écoute et ne saigne pas.
 >
 > *Aucun de nous ne le croit vraiment. Nous croyons que c’est inévitable.*
 >
-> *(dessous, tout petit, presque effacé :) Lis-le à voix haute. C’est tout ce qu’il faut. Le reste, le temps l’a pris, comme il nous prend. Qu’au moins cette phrase-là arrive quelque part, à quelqu’un, un jour, à sa place.*
+> *Dessous, tout petit, presque effacé : Lis-le à voix haute. C’est tout ce qu’il faut. Le reste, le temps l’a pris, comme il nous prend. Qu’au moins cette phrase-là arrive quelque part, à quelqu’un, un jour, à sa place.*

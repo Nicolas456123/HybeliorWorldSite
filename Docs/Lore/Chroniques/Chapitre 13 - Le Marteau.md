@@ -265,7 +265,7 @@ Je pars pour le sud.
 ---
 
 *Note cartographique, jour 225 — Folgrad, région de Toreck, Mosrack :*
-*Mes relevés de la côte de Velithar ont été corrigés sur trois points par la Commandante Orryn (détroit nord, profondeur du chenal principal, position réelle des bouées de délimitation militaire). Mes croquis de la ville de Folgrad sont incomplets : plusieurs districts industriels du nord m’ont été inaccessibles sans laissez-passer militaire, et je n’avais pas jugé prudent de les forcer.*
+*Mes relevés de la côte de Velithar ont été corrigés sur trois points par la Commandante Orryn : détroit nord, profondeur du chenal principal, position réelle des bouées de délimitation militaire. Mes croquis de la ville de Folgrad sont incomplets : plusieurs districts industriels du nord m’ont été inaccessibles sans laissez-passer militaire, et je n’avais pas jugé prudent de les forcer.*
 
 *La colline de Folgrad vue depuis la plaine par temps clair : une silhouette trapézoïdale, sombre, avec à son sommet le Palais de Basalte qui ne brille pas mais qui absorbe la lumière d’une façon qui attire le regard malgré tout. Une ville construite sur les déchets de la victoire, qui en a fait la fondation de tout le reste.*
 

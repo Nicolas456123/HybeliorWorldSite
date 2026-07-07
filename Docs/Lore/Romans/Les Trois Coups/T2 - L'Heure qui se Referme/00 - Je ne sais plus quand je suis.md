@@ -2,12 +2,12 @@
 tags: [roman, trois-coups, tome-2, fleau-des-failles, prologue, voix-deportees, journal-de-thessan]
 type: roman-chapitre
 partie: prologue
-titre: Ce que je ne sais plus quand
+titre: Je ne sais plus quand je suis
 pov: Le chœur des Voix Déportées (irruption 1 — une Voix jetée avant l'Arrachement, ~an -30)
 status: draft
 ---
 
-# Prologue — Ce que je ne sais plus quand
+# Prologue — Je ne sais plus quand je suis
 
 Il fait beau, et je serai née dans un village qui n’existe pas encore.
 
@@ -33,13 +33,13 @@ Je descendais au lavoir avec Sœur, je l’appelle Sœur, elle n’est pas ma s�
 
 « On peut couver par beau temps. » Elle tordait un drap, les bras rouges, et elle ne me regardait pas, elle regardait le drap, parce que chez nous quand on dit une chose grave on regarde ses mains. « Ma mère couvait toujours par beau temps. Elle disait que le mauvais, elle le sentait venir de loin, mais le beau la prenait par surprise. »
 
-« Ta mère est morte de quoi. »
+« De quoi ta mère est-elle morte ? »
 
-« De rien. De son âge. » Elle a claqué le drap contre la pierre. « Tu poses des questions de gens d’ailleurs, toi, ce matin. *Morte de quoi.* On ne meurt pas *de quoi*, ici. On meurt quand la roue passe. »
+« De rien. De son âge. » Elle a claqué le drap contre la pierre. « Tu poses des questions de gens d’ailleurs, toi, ce matin. *Morte de quoi.* On ne meurt pas *de quelque chose*, ici. On meurt quand la roue passe. »
 
 Et voilà où je me suis trahie, tenez, écoutez bien, parce que je crois que c’est là que ça a commencé pour de bon : j’ai ri. Un rire faux. J’ai dit, et je ne savais pas d’où me venaient ces mots, ils sont montés seuls, d’un endroit de moi qui n’était pas là hier :
 
-« Chez nous on meurt de quoi. On meurt *de* quelque chose. On donne un nom à ce qui vous prend, et le nom, on le note. »
+« Chez nous, on meurt de quelque chose. On donne un nom à ce qui vous prend, et le nom, on le note. »
 
 Sœur a arrêté de tordre le drap.
 
@@ -63,11 +63,11 @@ Mais je le dis et déjà je ne le crois plus, et c’est ça le plus étrange, c
 
 C’est ça, ma maladie. Ce n’est pas le fer dans la bouche. C’est le quand.
 
-Je ne sais plus quand je suis. J’ai été jetée. Quelque chose m’a prise, pas la main tiède, l’autre, une main qui n’était pas là ce matin et qui est venue, une déchirure dans l’air comme une lumière en retard sur son geste, et elle m’a posée ici, à Vaumielle, au lavoir, par beau temps, l’an… l’an, je ne sais pas, l’an où ma grand-mère est encore vivante et rira encore ce soir. Mais je viens d’ailleurs. Je viens d’un après. Je porte l’après dans mon corps comme une graine qu’on aurait plantée à contre-saison, et la graine pousse, elle pousse ici où elle ne devrait pas, dans une terre trop jeune pour elle, et ce qu’elle pousse c’est la douleur d’un monde qui n’existe pas encore.
+Je ne sais plus quand je suis. J’ai été jetée. Quelque chose m’a prise, pas la main tiède, l’autre, une main qui n’était pas là ce matin et qui est venue, une déchirure dans l’air comme une lumière en retard sur son geste, et elle m’a posée ici, à Vaumielle, au lavoir, par beau temps, l’an… l’an, je ne sais pas, l’an où ma grand-mère est encore vivante et rira encore ce soir. Mais je viens d’ailleurs. Je viens d’un après. Je porte l’après dans mon corps comme une graine qu’on aurait plantée à contre-saison, et la graine pousse, elle pousse ici où elle ne devrait pas, dans une terre trop jeune pour elle, et ce qu’elle fait pousser, c’est la douleur d’un monde qui n’existe pas encore.
 
 Je porte la plaie avant la blessure.
 
-Vous comprenez ? Non. Bien sûr que non. Moi non plus. Personne ne comprend, c’est pour ça qu’on me jette d’un temps à l’autre, parce que je suis la question qu’aucun temps ne peut répondre : comment peut-on souffrir de ce qui n’a pas encore eu lieu ?
+Vous comprenez ? Non. Bien sûr que non. Moi non plus. Personne ne comprend, c’est pour ça qu’on me jette d’un temps à l’autre, parce que je suis la question à laquelle aucun temps ne peut répondre : comment peut-on souffrir de ce qui n’a pas encore eu lieu ?
 
 ---
 
@@ -99,19 +99,19 @@ L’enfant a reculé d’un pas. Pas de peur. D’étonnement.
 
 — Je suis de Vaumielle *après*. »
 
-Il n’a pas compris. Il est parti en courant, appeler les grands sans doute, appeler Sœur, dire à tout le village qu’il y a au lavoir une femme qui parle à personne et qui saigne par beau temps. Et les grands viendront, et ils me regarderont avec cette bonté qu’on a ici pour ce qu’on ne comprend pas, et ils diront : *elle couve, laissons-la à la roue*. Et ils auront raison à leur façon. Ils ont toujours raison, ceux de ce temps. C’est un temps où l’on a raison. C’est ça, l’Âge du Lien, si vous voulez que je vous le dise en un mot avant que le mot m’échappe : un âge où personne n’a tort, où tout se partage, où la mort est une haie qu’on franchit en se tenant par la main. Aimez-le. Je vous en prie, vous qui m’écoutez de votre froid : aimez-le une dernière fois par mes yeux à moi, mes yeux qui n’ont pas le droit d’être là, parce que moi je l’aime avec une force que ceux d’ici n’auront jamais, car eux ne savent pas qu’ils vont le perdre, et moi je le sais, moi je suis venue de l’endroit où il est perdu, et on n’aime jamais tant une chose que du fond du temps où elle n’est plus.
+Il n’a pas compris. Il est parti en courant, appeler les grands sans doute, appeler Sœur, dire à tout le village qu’il y a au lavoir une femme qui parle toute seule et qui saigne par beau temps. Et les grands viendront, et ils me regarderont avec cette bonté qu’on a ici pour ce qu’on ne comprend pas, et ils diront : *elle couve, laissons-la à la roue*. Et ils auront raison à leur façon. Ils ont toujours raison, ceux de ce temps. C’est un temps où l’on a raison. C’est ça, l’Âge du Lien, si vous voulez que je vous le dise en un mot avant que le mot m’échappe : un âge où personne n’a tort, où tout se partage, où la mort est une haie qu’on franchit en se tenant par la main. Aimez-le. Je vous en prie, vous qui m’écoutez de votre froid : aimez-le une dernière fois par mes yeux à moi, mes yeux qui n’ont pas le droit d’être là, parce que moi je l’aime avec une force que ceux d’ici n’auront jamais, car eux ne savent pas qu’ils vont le perdre, et moi je le sais, moi je suis venue de l’endroit où il est perdu, et on n’aime jamais tant une chose que du fond du temps où elle n’est plus.
 
 ---
 
 Il y a une heure qui vient.
 
-Je ne sais pas laquelle. Je ne sais pas quand — bien sûr, le quand, toujours le quand. Mais je la sens comme Sœur sentait le mauvais temps venir de loin : il y a une heure, quelque part, devant moi ou derrière, une heure où quelque chose va s’ouvrir. Une septième heure, peut-être. On m’a mis ce chiffre dans la tête, sept, je ne sais pas qui, une heure qui déchirera la main tiède et laissera cent vingt millions de mains lâcher ce qu’elles tiennent, et après cette heure-là plus personne ne recevra ce qu’on donne, et ce sera le début de mon froid à moi, le froid que je porte à contre-temps dans le beau soleil de Vaumielle.
+Je ne sais pas laquelle. Je ne sais pas quand — bien sûr, le quand, toujours le quand. Mais je la sens comme Sœur sentait le mauvais temps venir de loin : il y a une heure, quelque part, devant moi ou derrière, une heure où quelque chose va s’ouvrir. Une septième heure, peut-être. On m’a mis ce chiffre dans la tête, sept, je ne sais pas qui, une heure qui déchirera la main tiède et laissera cent vingt millions de mains lâcher ce qu’elles tiennent, et après cette heure-là plus personne ne recevra ce qu’on donne, et ce sera le début de mon froid à moi, le froid que je porte à contretemps dans le beau soleil de Vaumielle.
 
 Mais il y a une autre heure. Et celle-là, je l’aime, parce que celle-là referme.
 
-Je la vois, non, je ne la vois pas, je la pressens, tout au bout, tout au bout de tout, une heure où les déchirures dans l’air, toutes, celles qui m’ont jetée ici et celles qui jetteront d’autres après moi, se recousent d’un seul coup, en une heure, sans qu’on sache pourquoi, comme elles s’étaient ouvertes sans qu’on sache pourquoi. Une heure qui referme. Et dans cette heure-là. Je ne devrais pas le savoir, je ne sais rien, je ne sais plus quand je suis, mais ça je le sais. Dans cette heure-là un enfant naîtra qui sera à sa place. À sa place dans le temps. Le premier depuis longtemps. Un enfant qui entendra le monde sans saigner, qui prendra la main tiède, s’il en reste une, une neuve, recousue, sans que ça lui brûle la bouche. Un enfant qui saura *quand* il est.
+Je la vois, non, je ne la vois pas, je la pressens, tout au bout, tout au bout de tout, une heure où les déchirures dans l’air, toutes, celles qui m’ont jetée ici et celles qui jetteront d’autres après moi, se recousent d’un seul coup, en une heure, sans qu’on sache pourquoi, comme elles s’étaient ouvertes sans qu’on sache pourquoi. Une heure qui referme. Et, dans cette heure-là, je ne devrais pas le savoir, je ne sais rien, je ne sais plus quand je suis, mais ça je le sais : un enfant naîtra qui sera à sa place. À sa place dans le temps. Le premier depuis longtemps. Un enfant qui entendra le monde sans saigner, qui prendra la main tiède, s’il en reste une, une neuve, recousue, sans que ça lui brûle la bouche. Un enfant qui saura *quand* il est.
 
-Je ne serai pas là. Ou j’y serai déjà. Je ne sais plus. C’est le propre de ma maladie et c’est peut-être, aussi, ma seule paix : je ne saurai jamais quand je meurs, donc je ne meurs jamais tout à fait, je flotte, je vais d’un beau matin à l’autre, jetée, reprise, jetée encore, et à chaque fois je décris ce que je vois d’où je suis, et à chaque fois je ne comprends pas pourquoi ça fait mal.
+Je ne serai pas là. Ou j’y serai déjà. Je ne sais plus. C’est le propre de ma maladie et c’est peut-être, aussi, ma seule paix : je ne saurai jamais quand je mourrai, donc je ne meurs jamais tout à fait, je flotte, je vais d’un beau matin à l’autre, jetée, reprise, jetée encore, et à chaque fois je décris ce que je vois d’où je suis, et à chaque fois je ne comprends pas pourquoi ça fait mal.
 
 Une heure ouvrira. Une heure refermera. Et entre les deux il y aura moi, et tous ceux comme moi, éparpillés dans le temps comme des graines à contre-saison, chacun poussant sa douleur dans une terre qui n’est pas la sienne, chacun disant : *il fait beau, et je serai née dans un village qui n’existe pas encore.*
 
@@ -127,6 +127,6 @@ Je vous jure qu’il fait beau.
 
 ---
 
-> **Fragment #1 — d’un cahier de copie du journal de Thessan.** *La plus vieille copie connue en circulation dans les marges d’Onara ; provenance incertaine.*
+> **Fragment #1 — d’un cahier de copie du journal de Thessan.** *la plus vieille copie connue en circulation dans les marges d’Onara ; provenance incertaine*
 >
 > *« Hier soir j’ai posé la question que je remettais depuis des semaines. Est-ce que l’un de nous croit vraiment que c’est bien ? Le silence a duré. Puis quelqu’un a répondu : non. Aucun de nous n’y croit vraiment. Nous croyons que c’est nécessaire. »*

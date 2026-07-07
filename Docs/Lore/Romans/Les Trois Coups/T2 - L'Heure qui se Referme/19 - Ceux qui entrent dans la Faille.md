@@ -186,6 +186,6 @@ Et quelque part, au bord d’une plaine qu’aucun d’eux ne verrait, quelque c
 
 ---
 
-> **Fragment #3 — d’un cahier de copie du journal de Thessan.** *(copie dite « des marges », meilleure main que la précédente ; la phrase-noyau y est intacte)*
+> **Fragment #3 — d’un cahier de copie du journal de Thessan.** *copie dite « des marges », meilleure main que la précédente ; la phrase-noyau y est intacte*
 >
 > *« Hier soir j’ai posé la question que je remettais depuis des semaines. Est-ce que l’un de nous croit vraiment que c’est bien ? Le silence a duré. Puis quelqu’un a répondu : non. Aucun de nous ne le croit vraiment. Nous croyons que c’est inévitable. C’est la chose la plus honnête que j’aie jamais entendue, et je l’écris ici pour qu’on sache qu’au moins nous ne nous sommes pas menti. »*
