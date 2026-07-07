@@ -11,7 +11,7 @@ status: draft
 
 La petite avait cessé de manger le mardi.
 
-Pas d’un coup, pas d’une bouderie ; Kessane connaissait les bouderies, elles avaient une couleur, elles se réglaient par la faim ou par le sommeil. Celle-ci n’en avait pas. Lirenn portait la cuiller à sa bouche, la reposait, regardait un coin de la pièce comme on regarde quelqu’un qui vient d’entrer, et oubliait la cuiller. Le vendredi elle avait maigri des poignets — Kessane le vit au moment de lui laver les mains, ce léger jeu de l’os sous la peau qui n’y était pas la semaine d’avant —, et le fer, ce vendredi-là, ne chanta juste pour personne, parce que Kessane frappait à côté du silence, tout le jour, à côté, à côté.
+Pas d’un coup, pas d’une bouderie ; Kessane connaissait les bouderies, elles avaient une couleur, elles se réglaient par la faim ou par le sommeil. Celle-ci n’en avait pas. Lirenn portait la cuiller à sa bouche, la reposait, regardait un coin de la pièce comme on regarde quelqu’un qui vient d’entrer, et oubliait la cuiller. Le vendredi elle avait maigri des poignets, Kessane le vit au moment de lui laver les mains, ce léger jeu de l’os sous la peau qui n’y était pas la semaine d’avant, et le fer, ce vendredi-là, ne chanta juste pour personne, parce que Kessane frappait à côté du silence, tout le jour, à côté, à côté.
 
 Le samedi, la petite s’était réveillée deux fois dans la nuit pour dire, très posément, qu’ils étaient trop nombreux maintenant, qu’ils parlaient tous en même temps et qu’elle ne savait plus lequel écouter.
 
@@ -19,7 +19,7 @@ Le samedi, la petite s’était réveillée deux fois dans la nuit pour dire, tr
 
 « Combien ils sont. »
 
-Kessane avait posé la question sans détour, à la table du matin, en repoussant le bol de gruau que la petite ne toucherait pas. Elle avait décidé, dans la nuit blanche, qu’elle ne ferait plus semblant avec sa fille — qu’entre elles deux il n’y aurait pas de dame gentille dans le coin, pas d’histoire, pas de porte à moitié fermée. On regarde le fer. On dit sa chaleur. C’était la seule prière qu’elle savait.
+Kessane avait posé la question sans détour, à la table du matin, en repoussant le bol de gruau que la petite ne toucherait pas. Elle avait décidé, dans la nuit blanche, qu’elle ne ferait plus semblant avec sa fille : entre elles deux, il n’y aurait pas de dame gentille dans le coin, pas d’histoire, pas de porte à moitié fermée. On regarde le fer. On dit sa chaleur. C’était la seule prière qu’elle savait.
 
 Lirenn compta sur ses doigts, s’arrêta, recommença.
 
@@ -27,9 +27,9 @@ Lirenn compta sur ses doigts, s’arrêta, recommença.
 
 « La dame te disait de faire la sourde.
 
-— La dame est plus devant. » Lirenn haussa une épaule — le haussement de sa mère, celui des évidences. « Elle a reculé. Elle avait l’air désolée de reculer. Comme quand y a trop de monde à la porte et qu’on te pousse dehors sans le vouloir. »
+— La dame est plus devant. » Lirenn haussa une épaule, le haussement de sa mère, celui des évidences. « Elle a reculé. Elle avait l’air désolée de reculer. Comme quand y a trop de monde à la porte et qu’on te pousse dehors sans le vouloir. »
 
-Kessane se leva, prit le bol, le vida dans le seau des cochons — ce gruau, la petite ne le mangerait pas, et jeter la nourriture était un péché de pauvre, mais il y a des matins où l’on paie un petit péché pour n’avoir pas à regarder plus longtemps une chose qu’on ne peut pas guérir, refroidir dans un bol.
+Kessane se leva, prit le bol, le vida dans le seau des cochons. Ce gruau, la petite ne le mangerait pas, et jeter la nourriture était un péché de pauvre, mais il y a des matins où l’on paie un petit péché pour n’avoir pas à regarder plus longtemps une chose qu’on ne peut pas guérir, refroidir dans un bol.
 
 « Bon », dit-elle. Le mot était sec et il tenait toute une décision, et Lirenn, qui la connaissait, redressa un peu la tête.
 
@@ -41,21 +41,21 @@ Kessane se leva, prit le bol, le vida dans le seau des cochons — ce gruau, la 
 
 La cave sentait la terre et l’huile froide. Kessane avait descendu la lampe et l’étui de cuir, et Lirenn était descendue derrière elle sans qu’on le lui demande, sur les talons de sa mère comme à la forge, parce que sa place était là où travaillaient les mains de sa mère, elle l’avait toujours su.
 
-Sur la table basse du renfoncement — celle-là même que le cahier prescrivait, Kessane l’avait compris en le relisant, une table basse pour que le patient soit couché et non assis, pour que rien ne tombe de haut si les mains lâchent —, elle défit un linge.
+Sur la table basse du renfoncement, celle-là même que le cahier prescrivait, Kessane l’avait compris en le relisant : une table basse pour que le patient soit couché et non assis, pour que rien ne tombe de haut si les mains lâchent. Elle y défit un linge.
 
 Elle n’avait pas dormi de la semaine à cause de ce linge et de ce qu’il enveloppait.
 
-Ce n’étaient pas des outils de forge. Kessane avait des outils de forge plein les murs, elle les connaissait comme ses dents ; ceux-ci, elle les avait sortis d’une boîte qu’elle n’avait jamais ouverte, une boîte remise avec le cahier, et ils étaient étrangers à sa main de la plus mauvaise façon. Trop fins. Trop propres. Un forgeron se méfie d’un métal trop propre : ça veut dire qu’il n’a jamais servi, ou qu’on l’a nettoyé après chaque fois avec un soin qui en dit long. Une lame courte, pas plus longue qu’un doigt, à un seul tranchant, montée sur un manche d’os poli par des paumes mortes. Une aiguille courbe. Un fil qui n’était pas du fil — quelque chose de plus clair, de vaguement irisé, enroulé sur une fusaïole. Deux petites pinces. Et une chose plate, ronde, en verre poli ou en pierre claire, dont Kessane ne comprenait pas l’usage et que le cahier appelait *le miroir de la coupe* sans expliquer davantage.
+Ce n’étaient pas des outils de forge. Kessane avait des outils de forge plein les murs, elle les connaissait comme ses dents ; ceux-ci, elle les avait sortis d’une boîte qu’elle n’avait jamais ouverte, une boîte remise avec le cahier, et ils étaient étrangers à sa main de la plus mauvaise façon. Trop fins. Trop propres. Un forgeron se méfie d’un métal trop propre : ça veut dire qu’il n’a jamais servi, ou qu’on l’a nettoyé après chaque fois avec un soin qui en dit long. Une lame courte, pas plus longue qu’un doigt, à un seul tranchant, montée sur un manche d’os poli par des paumes mortes. Une aiguille courbe. Un fil qui n’était pas du fil, quelque chose de plus clair, de vaguement irisé, enroulé sur une fusaïole. Deux petites pinces. Et une chose plate, ronde, en verre poli ou en pierre claire, dont Kessane ne comprenait pas l’usage et que le cahier appelait *le miroir de la coupe* sans expliquer davantage.
 
 Lirenn regarda tout cela en silence. Puis elle tendit un doigt vers la lame courte, sans la toucher, et dit :
 
 « C’est pour la dame.
 
-— C’est pour la porte. » Kessane écarta doucement le doigt de l’enfant, pas de la lame — il fallait qu’elle apprenne à ne pas approcher la main des tranchants, c’était le premier réflexe qu’on donne à un gosse d’atelier, et celui-là servirait encore, quoi qu’il arrivât ensuite. « La dame, elle est de l’autre côté. La lame, elle est pour la porte, pas pour elle. On ne coupe pas les gens. On coupe ce qui les laisse entrer. »
+— C’est pour la porte. » Kessane écarta doucement le doigt de l’enfant, pas de la lame. Il fallait qu’elle apprenne à ne pas approcher la main des tranchants, c’était le premier réflexe qu’on donne à un gosse d’atelier, et celui-là servirait encore, quoi qu’il arrivât ensuite. « La dame, elle est de l’autre côté. La lame, elle est pour la porte, pas pour elle. On ne coupe pas les gens. On coupe ce qui les laisse entrer. »
 
 « Ça leur fera pas mal, à eux ? »
 
-Kessane s’arrêta. C’était une question qu’elle ne s’était pas posée — qu’elle s’était interdit de se poser, plutôt, parce que d’y penser ne servait à rien et usait le courage —, et sa fille venait de la poser à voix haute, à plat sur la table basse, entre eux, comme on pose une pièce dont on demande le prix.
+Kessane s’arrêta. C’était une question qu’elle ne s’était pas posée, qu’elle s’était interdit de se poser, plutôt, parce que d’y penser ne servait à rien et usait le courage ; et sa fille venait de la poser à voix haute, à plat sur la table basse, entre eux, comme on pose une pièce dont on demande le prix.
 
 « Je sais pas », dit-elle, parce qu’elle ne mentait pas à sa fille. « Je crois pas. Je crois qu’ils entendront juste la porte se fermer, et qu’ils iront cogner ailleurs. » Elle prit la lame, la posa dans la lumière, tranchant vers elle, par habitude de montrer une pièce par son bon côté. « Mais je sais pas. C’est une des choses que le cahier ne dit pas. Il y en a beaucoup, des choses qu’il ne dit pas. »
 
@@ -67,7 +67,7 @@ Kessane avait passé la semaine dedans, et elle avait fini par comprendre commen
 
 Comment savoir. Toute la question tenait dans ces trois mots d’un copiste mort, et le cahier, qui savait dire le geste, ne savait pas dire cela.
 
-« Lis-moi les phases », avait demandé Lirenn, qui savait ses lettres — Kessane les lui avait apprises sur des commandes et des factures, à même le fer et le grain, parce qu’un forgeron qui ne compte pas se fait voler.
+« Lis-moi les phases », avait demandé Lirenn, qui savait ses lettres. Kessane les lui avait apprises sur des commandes et des factures, à même le fer et le grain, parce qu’un forgeron qui ne compte pas se fait voler.
 
 « Non.
 
@@ -83,7 +83,7 @@ Lirenn considéra cela avec le sérieux qu’elle mettait à tout.
 
 — Alors pourquoi on descend aujourd’hui. » Elle désigna la table, les outils, la lame trop propre. « Pourquoi tu sors tout ça aujourd’hui si on a le temps. »
 
-Et Kessane, qui avait une réponse toute prête — *parce que je veux être prête, parce qu’un forgeron n’entre pas dans un ouvrage sans avoir chauffé sa forge la veille* —, s’entendit dire autre chose, une chose plus vraie, qui lui échappa comme un coup part parfois tout seul.
+Et Kessane, qui avait une réponse toute prête, *parce que je veux être prête, parce qu’un forgeron n’entre pas dans un ouvrage sans avoir chauffé sa forge la veille*, s’entendit dire autre chose, une chose plus vraie, qui lui échappa comme un coup part parfois tout seul.
 
 « Parce que si j’attends, je le ferai pas. »
 
@@ -105,7 +105,7 @@ Ce n’était pas une question, cette fois. La petite l’avait dit à plat, en 
 
 « Papa disait que les choses qu’on sait qu’en les faisant, c’est les seules qui valent qu’on ait peur. »
 
-Kessane leva les yeux du cahier. C’était bien une phrase de sa mère, ça — pas de « papa », la petite mélangeait, elle appelait « papa » toute la sagesse de la maison sans distinguer d’où elle venait, et c’était très bien, la sagesse d’une maison n’a pas de sexe, elle passe de main en main comme un manche que tant de paumes ont poli qu’on ne sait plus qui l’a tenu le premier.
+Kessane leva les yeux du cahier. C’était bien une phrase de sa mère, ça, pas de « papa », la petite mélangeait, elle appelait « papa » toute la sagesse de la maison sans distinguer d’où elle venait, et c’était très bien, la sagesse d’une maison n’a pas de sexe, elle passe de main en main comme un manche que tant de paumes ont poli qu’on ne sait plus qui l’a tenu le premier.
 
 « Ta grand-mère disait ça, oui. » Kessane le laissa. « Et elle avait raison, comme d’habitude, la vieille chouette. »
 
@@ -127,13 +127,13 @@ C’est cette nuit-là que le doute vint. Pas avant. Kessane avait tenu jusque-l
 
 Et si le Fléau finissait.
 
-La pensée était venue toute seule, honteuse, par en dessous, comme les pensées qui savent qu’elles n’ont pas le droit d’être là. Le Fléau durait depuis toujours — depuis avant sa mère, depuis avant la mère de sa mère ; on ne se souvenait pas d’un monde sans lui, les vieux disaient qu’il y en avait eu un mais les vieux disaient beaucoup de choses. Pourtant tout finit. Un feu finit. Une pièce, même la plus longue à forger, on la finit et on la pose refroidie sur l’établi. Rien ne dure autant que le Fléau semblait vouloir durer. Et si, quelque part, il touchait à sa fin ? Si dans un an, dans deux, les Tissés cessaient de saigner par leurs porteurs, et que ceux qui restaient — car il en restait, on le disait, il en survivait, quelques-uns, ceux qui traversaient sans que le mal les prît — pouvaient de nouveau garder ce qu’ils étaient ?
+La pensée était venue toute seule, honteuse, par en dessous, comme les pensées qui savent qu’elles n’ont pas le droit d’être là. Le Fléau durait depuis toujours, depuis avant sa mère, depuis avant la mère de sa mère ; on ne se souvenait pas d’un monde sans lui, les vieux disaient qu’il y en avait eu un mais les vieux disaient beaucoup de choses. Pourtant tout finit. Un feu finit. Une pièce, même la plus longue à forger, on la finit et on la pose refroidie sur l’établi. Rien ne dure autant que le Fléau semblait vouloir durer. Et si, quelque part, il touchait à sa fin ? Si dans un an, dans deux, les Tissés cessaient de saigner par leurs porteurs, et que ceux qui restaient pouvaient de nouveau garder ce qu’ils étaient ? Car il en restait, on le disait ; il en survivait quelques-uns, ceux qui traversaient sans que le mal les prît.
 
 Quelques-uns. On disait deux cents. On disait trois cents, sur tous ceux qui portaient encore un peu de Lien. Deux ou trois cents qui survivaient, non pas coupés, non pas mutilés, mais *entiers*, gardant leur oreille et leurs voix et leur dame dans le coin, parce que le mal, pour une raison que personne ne savait, ne les prenait pas.
 
 Et si Lirenn était de ceux-là.
 
-Kessane referma les yeux. Voilà ce que le doute avait de pire : il ne disait pas *ne coupe pas, tu tuerais ta fille* — ça, elle aurait su répondre, elle avait un cahier pour répondre, elle avait la dame qui reculait pour répondre, elle avait les poignets maigris de sa fille. Le doute disait autre chose, plus fin, plus cruel : *coupe, et tu ne sauras jamais.* Tu ne sauras jamais si elle serait morte. Tu ne sauras jamais si elle était de ceux qui vivent. Tu auras fermé la porte, jeté l’oreille, éteint la dame — et si elle était des deux cents, tu aurais arraché à ta fille, de tes mains, pour rien, une chose qu’elle gardait le droit de garder. Une chose qu’elle n’avait pas choisi d’avoir, et que tu auras choisi, toi, à sa place, de lui reprendre.
+Kessane referma les yeux. Voilà ce que le doute avait de pire : il ne disait pas *ne coupe pas, tu tuerais ta fille*. Ça, elle aurait su répondre, elle avait un cahier pour répondre, elle avait la dame qui reculait pour répondre, elle avait les poignets maigris de sa fille. Le doute disait autre chose, plus fin, plus cruel : *coupe, et tu ne sauras jamais.* Tu ne sauras jamais si elle serait morte. Tu ne sauras jamais si elle était de ceux qui vivent. Tu auras fermé la porte, jeté l’oreille, éteint la dame ; et si elle était des deux cents, tu aurais arraché à ta fille, de tes mains, pour rien, une chose qu’elle gardait le droit de garder. Une chose qu’elle n’avait pas choisi d’avoir, et que tu auras choisi, toi, à sa place, de lui reprendre.
 
 Elle pensa au prêtre de la Roue, à l’autre semaine, avec ses images ratées. *On ne fuit pas ce qu’on est ; on ne fait que le faire attendre.* Elle l’avait renvoyé avec sa lame et sa leçon de trempe, et elle avait eu raison, l’homme était un imbécile. Mais l’imbécile avait posé la question sans le savoir, et la question restait, retournée : de quel droit décidait-on de ce qu’un enfant *était* ? Le prêtre disait que Lirenn était le retour du Lien, et Kessane avait répondu : elle est ma fille. Bien. Mais si elle coupait, ne disait-elle pas, elle aussi, à sa manière, ce qu’était sa fille ? *Tu ne seras pas ça. Je décide que tu ne seras pas ça.* Elle avait reproché au prêtre de vouloir enfermer l’enfant dans une roue ; et elle s’apprêtait à l’enfermer, elle, dans le refus d’une roue, ce qui était peut-être la même prison par l’autre porte.
 
@@ -151,8 +151,8 @@ Elle enveloppa la lame dans son linge, avec l’aiguille courbe et le fil qui n�
 
 Pas encore. Le mot était revenu, celui qui lui avait échappé un soir dans les cheveux de sa fille. *Pas encore, ma toute.* Elle l’avait dit alors pour ne pas dire *phase un, tu as trois mois*. Elle se le disait maintenant à elle-même, et il avait changé de sens, il n’était plus une tendresse mais une lâcheté, ou une prudence, ou les deux à la fois, car chez elle la lâcheté et la prudence avaient toujours eu le même visage et elle ne savait pas mieux les distinguer que le prêtre ne savait distinguer une âme d’un fer.
 
-Elle s’assit au bord du lit de Lirenn. La petite dormait, à présent, d’un sommeil enfin sans paroles — ils s’étaient tus, la file de morts, ou peut-être que la petite s’était juste enfoncée trop bas pour les entendre. Son visage, dans le noir, était lisse. Un visage de neuf ans qui ne savait pas encore que sa mère, à trois pas, tenait un linge où dormait une lame qui déciderait, un jour prochain, de ce qu’il serait, ce visage : entier et mort, peut-être ; coupé et vivant ; ou — la troisième chose, la chose insupportable — coupé et vivant et l’ayant été pour rien, sauvée d’une mort qui ne serait pas venue.
+Elle s’assit au bord du lit de Lirenn. La petite dormait, à présent, d’un sommeil enfin sans paroles : ils s’étaient tus, la file de morts, ou peut-être que la petite s’était juste enfoncée trop bas pour les entendre. Son visage, dans le noir, était lisse. Un visage de neuf ans qui ne savait pas encore que sa mère, à trois pas, tenait un linge où dormait une lame qui déciderait, un jour prochain, de ce qu’il serait, ce visage : entier et mort, peut-être ; coupé et vivant ; ou, la troisième chose, la chose insupportable, coupé et vivant et l’ayant été pour rien, sauvée d’une mort qui ne serait pas venue.
 
-« Demain », dit Kessane, tout bas, comme elle le disait chaque soir depuis une semaine, et elle savait en le disant qu’elle mentait, et que le mensonge, cette fois, était peut-être le seul soin qu’elle savait donner, à sa fille et à elle-même — un jour de plus, un seul, où la porte serait un peu plus grande et où sa fille serait encore, un jour de plus, tout ce qu’elle était.
+« Demain », dit Kessane, tout bas, comme elle le disait chaque soir depuis une semaine, et elle savait en le disant qu’elle mentait, et que le mensonge, cette fois, était peut-être le seul soin qu’elle savait donner, à sa fille et à elle-même : un jour de plus, un seul, où la porte serait un peu plus grande et où sa fille serait encore, un jour de plus, tout ce qu’elle était.
 
 En haut du monde, très loin de la Forge-Basse, sous une plaine dont Kessane ne connaissait pas le nom et où trois déchirures marchaient déjà l’une vers l’autre sans se presser, quelque chose de grand et de patient, qui ne savait pas lui-même quand il était, laissa tomber un grain de plus, et n’y prêta pas garde.

@@ -11,11 +11,11 @@ status: draft
 
 La grange sentait le foin mouillé et la peur, et Vaenor Sorne connaissait les deux odeurs assez pour ne plus les distinguer.
 
-On lui avait donné une table. C’était une chose qu’elle demandait toujours, dans les bourgs qui n’en avaient pas l’usage — une table, une chaise pour elle, une chaise pour l’autre, et de la lumière par une seule fenêtre. Le reste des Inspecteurs restait dehors, sous l’auvent, à fumer et à guetter la route. Tout cela, elle l’avait appris d’un manuel qu’elle n’avait jamais lu : on ne fait pas ce travail à plusieurs. On le fait à deux, face à face, comme deux personnes qui vont conclure un marché.
+On lui avait donné une table. C’était une chose qu’elle demandait toujours, dans les bourgs qui n’en avaient pas l’usage : une table, une chaise pour elle, une chaise pour l’autre, et de la lumière par une seule fenêtre. Le reste des Inspecteurs restait dehors, sous l’auvent, à fumer et à guetter la route. Tout cela, elle l’avait appris d’un manuel qu’elle n’avait jamais lu : on ne fait pas ce travail à plusieurs. On le fait à deux, face à face, comme deux personnes qui vont conclure un marché.
 
 L’homme qu’on avait assis en face d’elle avait la quarantaine, des mains de tanneur, et il regardait la lampe.
 
-C’était le premier signe, celui qui ne trompait pas. Un homme ordinaire regarde qui l’interroge — cherche dans le visage de l’autre ce qu’on attend de lui, la faille par où passer. Un Tisse en Phase 1 regarde la lampe. Pas parce qu’elle l’éclaire : parce qu’elle bouge. La flamme faisait, au bord de son champ, des choses qu’aucune flamme ne fait, et il n’arrivait pas à ne pas les suivre, et ses yeux glissaient vers la fenêtre, revenaient, glissaient encore.
+C’était le premier signe, celui qui ne trompait pas. Un homme ordinaire regarde qui l’interroge, cherche dans le visage de l’autre ce qu’on attend de lui, la faille par où passer. Un Tisse en Phase 1 regarde la lampe. Pas parce qu’elle l’éclaire : parce qu’elle bouge. La flamme faisait, au bord de son champ, des choses qu’aucune flamme ne fait, et il n’arrivait pas à ne pas les suivre, et ses yeux glissaient vers la fenêtre, revenaient, glissaient encore.
 
 « Vous vous appelez Marek, dit-elle. Tanneur. Trois enfants. »
 
@@ -57,9 +57,9 @@ La suite, elle la connaissait mieux qu’elle ne connaissait sa propre chronolog
 
 Phase 1, mois un à trois : les choses au coin de l’œil, la voix de la morte, l’odeur de la pluie sur une terre sèche. On appelait cela des parasites de perception, dans les rapports, et le mot lui semblait juste. Quelque chose parasitait ce Marek, se nourrissait de lui par sa propre magie brisée, et il croyait entendre sa mère alors qu’il entendait sa fin.
 
-Phase 2, mois trois à six : le sang. Aux yeux, au nez, dès qu’ils essayaient d’user de ce qu’ils étaient. Certains, à ce stade, avaient encore l’idée de prier. La prière ne répondait pas. Rien ne répondait plus, nulle part, depuis mille cinq cents ans — elle avait lu cela aussi, dans un rapport verithane qu’on lui avait fait brûler et qu’elle avait lu d’abord, par habitude, avant l’huile.
+Phase 2, mois trois à six : le sang. Aux yeux, au nez, dès qu’ils essayaient d’user de ce qu’ils étaient. Certains, à ce stade, avaient encore l’idée de prier. La prière ne répondait pas. Rien ne répondait plus, nulle part, depuis mille cinq cents ans. Elle avait lu cela aussi, dans un rapport verithane qu’on lui avait fait brûler et qu’elle avait lu d’abord, par habitude, avant l’huile.
 
-Phase 3, mois six à douze : la paralysie qui monte des doigts vers le cœur. Un village entier en Phase 3, elle en avait vu un, une fois. C’était pour cela qu’elle faisait ce métier. Ils criaient tous, tout le temps, et aucun d’eux ne savait qu’il criait — le rapport disait *c’était leur corps qui criait*, et le rapport, pour une fois, était en dessous de la chose. Depuis ce village, elle n’avait pas dormi une nuit entière. Depuis ce village non plus, elle n’avait pas douté une fois que ce qu’elle faisait était une miséricorde.
+Phase 3, mois six à douze : la paralysie qui monte des doigts vers le cœur. Un village entier en Phase 3, elle en avait vu un, une fois. C’était pour cela qu’elle faisait ce métier. Ils criaient tous, tout le temps, et aucun d’eux ne savait qu’il criait ; le rapport disait *c’était leur corps qui criait*, et le rapport, pour une fois, était en dessous de la chose. Depuis ce village, elle n’avait pas dormi une nuit entière. Depuis ce village non plus, elle n’avait pas douté une fois que ce qu’elle faisait était une miséricorde.
 
 Ou plutôt : elle n’avait pas douté avant. Avant Marek. Avant que Marek dise *elle dit mon nom, elle dit rentre il fait froid*, avec les mêmes yeux que Tavel avait eus.
 
@@ -89,7 +89,7 @@ Il ouvrit la bouche. La referma.
 
 Elle laissa cela poser. Puis, du même ton :
 
-« Il faut que ce soit fait par quelqu’un qui sait. Une extraction par une main qui ne sait pas tue à tous les coups. Tous. J’ai vu les corps. » C’était vrai. « Il faut que ce soit fait en Phase 1, et seulement en Phase 1 — passé le premier saignement, couper ne fait plus qu’ajouter une douleur à une mort déjà en marche. » Vrai aussi. « Et il faut savoir que celui qui coupe reste non-Lié à vie. Ce qu’on vous ôte ne repousse pas. Vous seriez un homme diminué, dans un monde qui déjà n’aime pas les hommes diminués. »
+« Il faut que ce soit fait par quelqu’un qui sait. Une extraction par une main qui ne sait pas tue à tous les coups. Tous. J’ai vu les corps. » C’était vrai. « Il faut que ce soit fait en Phase 1, et seulement en Phase 1 : passé le premier saignement, couper ne fait plus qu’ajouter une douleur à une mort déjà en marche. » Vrai aussi. « Et il faut savoir que celui qui coupe reste non-Lié à vie. Ce qu’on vous ôte ne repousse pas. Vous seriez un homme diminué, dans un monde qui déjà n’aime pas les hommes diminués. »
 
 « Mais vivant, dit Marek.
 
@@ -107,7 +107,7 @@ Elle laissa cela poser. Puis, du même ton :
 
 « Alors nous avons devant nous, vous et moi, dit Vaenor, un homme qui va entrer en Phase 2 avant d’avoir trouvé cette main. Et en Phase 2, il sera trop tard. Vous voyez comment cela se met en concordance ? »
 
-Elle le vit comprendre. C’était le pire instant, toujours, l’instant où ils comprenaient — non pas qu’ils allaient mourir, ils le savaient depuis les neiges, mais qu’elle avait raison, que la seule porte de sortie s’était ouverte trop loin d’eux et se refermait à mesure qu’ils la cherchaient. Cet espoir, elle le leur ôtait non par cruauté mais parce que l’espoir, à ce stade, était le plus long des supplices, et qu’elle abrégeait les supplices : c’était sa charge, son titre, sa foi.
+Elle le vit comprendre. C’était le pire instant, toujours, l’instant où ils comprenaient, non pas qu’ils allaient mourir, ils le savaient depuis les neiges, mais qu’elle avait raison, que la seule porte de sortie s’était ouverte trop loin d’eux et se refermait à mesure qu’ils la cherchaient. Cet espoir, elle le leur ôtait non par cruauté mais parce que l’espoir, à ce stade, était le plus long des supplices, et qu’elle abrégeait les supplices : c’était sa charge, son titre, sa foi.
 
 « Vous êtes venue me tuer, dit Marek. Sans colère, comme un homme énonce le temps qu’il fait.
 
@@ -117,7 +117,7 @@ Elle le vit comprendre. C’était le pire instant, toujours, l’instant où il
 
 De la poche intérieure de sa veste, elle sortit la fiole, et sa main était sûre.
 
-À ce moment, toujours, la même pensée montait : *ma main est sûre.* Elle se la disait comme les Guideurs d’Âmes chantonnaient, comme Marek écoutait sa mère morte — une phrase qu’on répète pour couvrir une autre. Le protocole était simple. On appelait cela l’apaisement. Une chose amère dans un peu d’eau-de-vie pour couvrir l’amertume, et le sommeil venait en un quart d’heure, et le sommeil ne finissait pas. Pas de douleur. Pas de cris. Pas de village entier hurlant sa propre chair. C’était, de tout ce que le monde offrait à un Tisse, la seule porte qui ne donnait pas sur l’agonie. De cela, elle était certaine. De cela, elle avait besoin d’être certaine, et jamais elle n’avait interrogé le lien entre les deux.
+À ce moment, toujours, la même pensée montait : *ma main est sûre.* Elle se la disait comme les Guideurs d’Âmes chantonnaient, comme Marek écoutait sa mère morte : une phrase qu’on répète pour couvrir une autre. Le protocole était simple. On appelait cela l’apaisement. Une chose amère dans un peu d’eau-de-vie pour couvrir l’amertume, et le sommeil venait en un quart d’heure, et le sommeil ne finissait pas. Pas de douleur. Pas de cris. Pas de village entier hurlant sa propre chair. C’était, de tout ce que le monde offrait à un Tisse, la seule porte qui ne donnait pas sur l’agonie. De cela, elle était certaine. De cela, elle avait besoin d’être certaine, et jamais elle n’avait interrogé le lien entre les deux.
 
 « Buvez, dit-elle, et posa la fiole entre eux, à mi-chemin, pour qu’il la prenne lui-même. Toujours, elle demandait qu’ils la prennent eux-mêmes. Cela s’appelait le consentement, dans les rapports. Cela s’appelait autre chose dans le foin de la grange, mais elle n’avait pas ce mot-là, ou elle l’avait rangé dans la pièce fermée avec Tavel.
 
@@ -135,7 +135,7 @@ C’était vrai. C’était le plus vrai qu’elle eût dit de la journée, et e
 
 « Et si j’étais de ceux qui vivent ? »
 
-La question ne montait pas. Nulle supplique dans sa voix. Il la posait, comme elle posait les siennes — à plat, pour voir ce qu’elle en ferait.
+La question ne montait pas. Nulle supplique dans sa voix. Il la posait, comme elle posait les siennes, à plat, pour voir ce qu’elle en ferait.
 
 *Et si j’étais de ceux qui vivent.*
 
@@ -145,17 +145,17 @@ Voilà. Il l’avait dit. Rarement le disaient-ils si nettement, et ce Marek, av
 
 Tavel sortit de la pièce fermée, et cette fois elle ne referma pas la porte.
 
-Il avait dix-neuf ans. Elle en avait vingt-deux. Jamais elle ne se le racontait dans l’ordre, parce que l’ordre faisait mal d’une manière et le désordre d’une autre, et elle préférait le désordre, qui ressemblait moins à un jugement. Ce qui montait d’abord, ce n’était pas le geste. C’était le mot. Lui aussi disait *rentre*, à la fin, quand la Phase 1 le tenait — il croyait entendre leur grand-père, et le grand-père disait *rentre, Tavel, il se fait tard*, et Tavel riait de l’entendre, il n’avait pas peur, il trouvait cela presque doux, un vieux mort qui l’appelait à la maison.
+Il avait dix-neuf ans. Elle en avait vingt-deux. Jamais elle ne se le racontait dans l’ordre, parce que l’ordre faisait mal d’une manière et le désordre d’une autre, et elle préférait le désordre, qui ressemblait moins à un jugement. Ce qui montait d’abord, ce n’était pas le geste. C’était le mot. Lui aussi disait *rentre*, à la fin, quand la Phase 1 le tenait. Il croyait entendre leur grand-père, et le grand-père disait *rentre, Tavel, il se fait tard*, et Tavel riait de l’entendre, il n’avait pas peur, il trouvait cela presque doux, un vieux mort qui l’appelait à la maison.
 
 La peur, c’était elle qui l’avait. Elle qui savait lire les phases avant même d’avoir un titre pour les lire. Elle qui avait vu, dans les premières lueurs qu’il suivait au coin des murs, la ligne entière tracée jusqu’au village qui hurlerait.
 
 À l’époque, il n’y avait pas d’Inspecteurs. Pas encore. Le corps se créerait quelques années plus tard, et elle serait des premiers à s’y présenter, sans jamais se demander, jusqu’à Marek, pourquoi elle avait couru si vite vers un métier qui portait un nom pour ce qu’elle avait déjà fait sans nom.
 
-De ses mains, elle l’avait fait. Personne ne le lui avait demandé. On disait, déjà, dans les bourgs, qu’il y avait des gens qui coupaient. On le disait aussi mal qu’on le disait à Marek — une rumeur avec une virgule dedans. Personne qui coupait, elle n’en avait connu ; personne qui connût la main qui sait, non plus. Entre les deux réponses, la vraie et le couteau, elle avait pesé, et choisi le couteau parce qu’il était sûr, parce que couper était peut-être, et l’apaisement était certain, et elle aimait Tavel trop pour lui offrir un peut-être.
+De ses mains, elle l’avait fait. Personne ne le lui avait demandé. On disait, déjà, dans les bourgs, qu’il y avait des gens qui coupaient. On le disait aussi mal qu’on le disait à Marek : une rumeur avec une virgule dedans. Personne qui coupait, elle n’en avait connu ; personne qui connût la main qui sait, non plus. Entre les deux réponses, la vraie et le couteau, elle avait pesé, et choisi le couteau parce qu’il était sûr, parce que couper était peut-être, et l’apaisement était certain, et elle aimait Tavel trop pour lui offrir un peut-être.
 
 Sa nuque, elle la lui avait tenue pendant qu’il buvait. Sous l’eau-de-vie, il avait fait la grimace de l’amertume, et il avait ri encore, parce qu’il riait de tout, et il avait dit *tu me soignes mal, tu me fais boire de la mauvaise gnôle*, et elle avait dit *tais-toi et bois*, dur au début, doux à la fin, comme leur mère. Contre son épaule, il s’était endormi en un quart d’heure. Il n’avait pas crié. Pas su qu’il criait, non plus, parce qu’il n’avait jamais crié. Le village qui hurle, elle le lui avait épargné.
 
-Et jamais elle ne saurait — jamais, c’était le mot juste, le seul mot exact de toute sa vie — s’il aurait été de ceux qui coupent et qui vivent. S’il y avait eu, quelque part sur les routes, une main qui savait. Si elle avait tué, à dix-neuf ans, un homme qui aurait vieilli non-Lié et diminué et *vivant*, parce qu’elle avait eu peur de parier sur un peut-être.
+Et jamais elle ne saurait, jamais, c’était le mot juste, le seul mot exact de toute sa vie, s’il aurait été de ceux qui coupent et qui vivent. S’il y avait eu, quelque part sur les routes, une main qui savait. Si elle avait tué, à dix-neuf ans, un homme qui aurait vieilli non-Lié et diminué et *vivant*, parce qu’elle avait eu peur de parier sur un peut-être.
 
 Chaque Tisse apaisé depuis était une pierre posée sur cette question, pour la tenir au fond. Si le protocole était une miséricorde, alors Tavel avait reçu une miséricorde. Si le protocole n’était pas une miséricorde, alors elle avait tué son frère à vingt-deux ans, de ses mains, sur une rumeur — et combien en avait-elle tué depuis, pour ne pas avoir à le savoir ?
 
@@ -183,11 +183,11 @@ Il l’entendit. Bien sûr qu’il l’entendit. Depuis les neiges, il regardait
 
 — Je ne tremble pas. »
 
-Elle regarda sa main. La main tenait la fiole, à présent — reprise sans qu’elle eût décidé de la reprendre — et la main tremblait. Pas beaucoup. Le liquide, dedans, faisait un frisson, une ride minuscule qui courait d’un bord à l’autre et revenait. Sur cette ride, elle fixa les yeux. *Ma main est sûre*, pensa-t-elle, et la ride ne s’arrêta pas, et elle comprit que la phrase ne marchait plus, qu’elle l’avait usée à force, comme Marek usait le mot de sa mère.
+Elle regarda sa main. La main tenait la fiole, à présent, reprise sans qu’elle eût décidé de la reprendre, et la main tremblait. Pas beaucoup. Le liquide, dedans, faisait un frisson, une ride minuscule qui courait d’un bord à l’autre et revenait. Sur cette ride, elle fixa les yeux. *Ma main est sûre*, pensa-t-elle, et la ride ne s’arrêta pas, et elle comprit que la phrase ne marchait plus, qu’elle l’avait usée à force, comme Marek usait le mot de sa mère.
 
 « Buvez, dit-elle. »
 
-« Répondez-moi d’abord, dit Marek. Une question, contre le fait que je boive sans que vous ayez à me tenir. Vous voyez ? Je vous offre un marché. » Il sourit, et c’était un vrai sourire, épouvantable de douceur. « Est-ce que vous croyez, vous, tout au fond, là où on ne se ment pas — est-ce que vous croyez que c’est un soin ? »
+« Répondez-moi d’abord, dit Marek. Une question, contre le fait que je boive sans que vous ayez à me tenir. Vous voyez ? Je vous offre un marché. » Il sourit, et c’était un vrai sourire, épouvantable de douceur. « Est-ce que vous croyez, vous, tout au fond, là où on ne se ment pas, est-ce que vous croyez que c’est un soin ? »
 
 La question resta entre eux, au-dessus de la fiole, dans la lumière de la seule fenêtre.
 
@@ -197,13 +197,13 @@ Pour cette question, elle avait une réponse qui était vraie et une réponse qu
 
 « Oui, dit Marek. C’est ma mère qui m’appelle. »
 
-Ils se regardèrent, le tanneur qui avait besoin que sa morte veuille son bien, l’Inspectrice qui avait besoin que sa main eût été une main de soin, et pour un instant il n’y eut, dans la grange, aucune différence entre eux — seulement deux personnes penchées sur le même gouffre, chacune tenant sa corde, chacune sachant que la corde était peut-être attachée à rien.
+Ils se regardèrent, le tanneur qui avait besoin que sa morte veuille son bien, l’Inspectrice qui avait besoin que sa main eût été une main de soin, et pour un instant il n’y eut, dans la grange, aucune différence entre eux : seulement deux personnes penchées sur le même gouffre, chacune tenant sa corde, chacune sachant que la corde était peut-être attachée à rien.
 
 Puis Marek prit la fiole. Il la prit lui-même, comme le protocole le voulait, comme le consentement l’exigeait. Sa main à lui ne tremblait pas. Le stade du tremblement, il l’avait passé ; elle non.
 
 « Ne me tenez pas la nuque, dit-il. Je n’ai pas besoin qu’on me tienne. »
 
-Elle retira sa main. Elle qui tenait toujours la nuque — pour qu’ils ne s’étouffent pas, disait le rapport ; pour ne pas être seule à ce moment-là, disait le foin — elle la retira, la posa à plat sur la table, et la regarda trembler seule pendant qu’il buvait.
+Elle retira sa main. Elle qui tenait toujours la nuque, pour qu’ils ne s’étouffent pas, disait le rapport ; pour ne pas être seule à ce moment-là, disait le foin, elle la retira, la posa à plat sur la table, et la regarda trembler seule pendant qu’il buvait.
 
 Il fit la grimace de l’amertume, sous l’eau-de-vie.
 
@@ -223,9 +223,9 @@ Prime-Inspectrice, tel était son grade. On l’appelait Prime, comme un autre S
 
 « Un seul ? On avait signalé le tanneur et une fille, au moulin. La petite qui parle à personne. »
 
-Vaenor s’arrêta. La lumière tombait, longue, sur la route entre les granges. Une fille au moulin. Qui parlait à personne. Phase 1 — le stade où l’on entend, où l’on suit les choses au coin de l’œil, où quelqu’un de mort vous appelle et vous dit qu’il fait froid. Le stade, aussi — le seul —, où couper sauve encore, si l’on trouve la main qui sait.
+Vaenor s’arrêta. La lumière tombait, longue, sur la route entre les granges. Une fille au moulin. Qui parlait à personne. Phase 1 : le stade où l’on entend, où l’on suit les choses au coin de l’œil, où quelqu’un de mort vous appelle et vous dit qu’il fait froid. Le stade, aussi, le seul, où couper sauve encore, si l’on trouve la main qui sait.
 
-Lui revint la ride du liquide dans la fiole. Lui revint la question de Marek, qui n’avait pas de réponse, seulement un besoin déguisé en réponse. Lui revint le registre qu’elle tenait fermé, celui où elle ne comptait pas ses morts, et elle se demanda — pour la première fois, avec une précision d’Inspectrice — combien de noms y étaient déjà, et combien de ces noms auraient trouvé la main qui sait, si elle ne les avait pas tous devancés avec sa fiole et sa certitude.
+Lui revint la ride du liquide dans la fiole. Lui revint la question de Marek, qui n’avait pas de réponse, seulement un besoin déguisé en réponse. Lui revint le registre qu’elle tenait fermé, celui où elle ne comptait pas ses morts, et elle se demanda, pour la première fois, avec une précision d’Inspectrice, combien de noms y étaient déjà, et combien de ces noms auraient trouvé la main qui sait, si elle ne les avait pas tous devancés avec sa fiole et sa certitude.
 
 « La fille peut attendre demain, dit-elle. »
 
@@ -237,7 +237,7 @@ L’Inspecteur haussa les sourcils. Jamais elle ne remettait rien à demain. La 
 
 En selle, elle remonta. Sa main, sur les rênes, avait cessé de trembler ; assez longtemps tenue immobile, elle avait fini par se mater, comme se mate tout, à force. Mais elle savait maintenant qu’elle tremblerait encore. La question de Marek ne se rangerait pas dans la pièce fermée avec Tavel ; cette question avait trouvé l’angle exact des mots, et elle bougerait là, désormais, au coin de tout ce que Vaenor regarderait, comme une chose qu’on ne voit jamais quand on tourne la tête et qui est toujours là quand on ne la tourne pas.
 
-Avoir eu raison — c’était tout ce qui la tenait droite sur le cheval. Si elle avait eu raison, alors chaque fiole était une miséricorde, et Tavel dormait bien, et la petite du moulin dormirait bien demain. Si elle avait eu tort, ne fût-ce qu’une fois, ne fût-ce que pour un seul — pour Tavel — alors il lui fallait avoir raison la fois suivante, et la suivante, pour que le poids des raisons finît par écraser le doute au fond du registre fermé.
+Avoir eu raison — c’était tout ce qui la tenait droite sur le cheval. Si elle avait eu raison, alors chaque fiole était une miséricorde, et Tavel dormait bien, et la petite du moulin dormirait bien demain. Si elle avait eu tort, ne fût-ce qu’une fois, ne fût-ce que pour un seul, pour Tavel, alors il lui fallait avoir raison la fois suivante, et la suivante, pour que le poids des raisons finît par écraser le doute au fond du registre fermé.
 
 Plus elle en apaiserait, moins elle pourrait se permettre que ce fût autre chose qu’un soin. Sur le cheval, dans la lumière longue, elle le comprit clairement, et ne s’arrêta pas pour autant. On ne s’arrête pas au milieu d’une démonstration parce qu’on en aperçoit la conclusion. On la finit. C’était son métier de finir les démonstrations que les autres n’osaient pas mener à leur terme.
 

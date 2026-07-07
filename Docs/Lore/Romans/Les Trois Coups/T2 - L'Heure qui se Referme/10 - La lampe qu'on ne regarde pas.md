@@ -11,11 +11,11 @@ status: draft
 
 La petite ne regardait plus le feu.
 
-Kessane s’en aperçut un matin sans savoir depuis quand cela durait, comme on s’aperçoit qu’un outil manque au mur : on a travaillé dix jours avec le trou sous les yeux, et puis un matin le trou vous saute au visage, et l’on ne sait plus dire s’il date d’hier ou de la saison passée. Le feu était la première chose de la maison. On l’avait appris à Lirenn avant de marcher — se tenir face à lui, le lire, mesurer sa faim à la couleur qu’il prenait. Une enfant de forge regarde les braises comme les autres regardent le visage de leur mère. C’est là que tout se dit.
+Kessane s’en aperçut un matin sans savoir depuis quand cela durait, comme on s’aperçoit qu’un outil manque au mur : on a travaillé dix jours avec le trou sous les yeux, et puis un matin le trou vous saute au visage, et l’on ne sait plus dire s’il date d’hier ou de la saison passée. Le feu était la première chose de la maison. On l’avait appris à Lirenn avant de marcher : se tenir face à lui, le lire, mesurer sa faim à la couleur qu’il prenait. Une enfant de forge regarde les braises comme les autres regardent le visage de leur mère. C’est là que tout se dit.
 
 Et Lirenn, ce matin-là, tisonnait le foyer les yeux tournés de côté.
 
-Pas fermés. Pas baissés. Tournés — de trois doigts vers la droite, vers l’angle mort au bord de la lumière, là où la clarté du feu s’arrêtait et où commençait l’ombre de l’établi. À l’aveugle, elle poussait les braises, avec cette adresse trouble des gestes qu’on fait sans regarder parce qu’on les connaît trop, et son visage fuyait la flamme comme on détourne la joue d’une gifle qu’on voit venir.
+Pas fermés. Pas baissés. Tournés, de trois doigts vers la droite, vers l’angle mort au bord de la lumière, là où la clarté du feu s’arrêtait et où commençait l’ombre de l’établi. À l’aveugle, elle poussait les braises, avec cette adresse trouble des gestes qu’on fait sans regarder parce qu’on les connaît trop, et son visage fuyait la flamme comme on détourne la joue d’une gifle qu’on voit venir.
 
 « Regarde ce que tu fais », dit Kessane.
 
@@ -43,7 +43,7 @@ Kessane posa le marteau. À plat, avec soin, elle le rangea à sa place sur l’
 
 Kessane ne coupa pas ce jour-là. Ni le lendemain.
 
-Le bon moment, elle se dit qu’elle l’attendait, comme on attend que le fer se taise avant de frapper ; et c’était vrai, et c’était un mensonge, et elle savait faire la part des deux chez les autres mais pas chez elle. Le cahier restait dans la cave. La nuit, elle descendait le lire, apprenait les gestes par cœur, remontait — et ne coupait pas. Un forgeron qui connaît son geste et qui ne frappe pas, ça n’a qu’un nom, et le nom c’est la peur, et Kessane le savait, et elle continuait de descendre lire le cahier comme si lire était faire.
+Le bon moment, elle se dit qu’elle l’attendait, comme on attend que le fer se taise avant de frapper ; et c’était vrai, et c’était un mensonge, et elle savait faire la part des deux chez les autres mais pas chez elle. Le cahier restait dans la cave. La nuit, elle descendait le lire, apprenait les gestes par cœur, remontait. Et ne coupait pas. Un forgeron qui connaît son geste et qui ne frappe pas, ça n’a qu’un nom, et le nom c’est la peur, et Kessane le savait, et elle continuait de descendre lire le cahier comme si lire était faire.
 
 Vivre, aussi, il le fallait, pendant qu’on avait peur. Les fers de bêche du bourg d’en bas étaient prêts ; il fallait les porter. Et porter des fers de bêche voulait dire traverser la Forge-Basse tout entière, saluer les uns, tenir tête aux autres, montrer un visage de forgeronne à qui n’avait pas d’affaire à savoir ce qui cognait sous ses côtes.
 
@@ -75,7 +75,7 @@ Kessane hocha la tête, chargea les fers, s’en fut. Et pendant tout le chemin 
 
 Ce fut au retour qu’elle vit Maren.
 
-Maren tenait le feu voisin du sien, à trois portes, la forge aux gonds — elle ne faisait que ça, des gonds, des charnières, des ferrures de porte, un métier modeste et sans gloire dont elle vivait sans se plaindre. C’était une petite femme sèche, plus jeune que Kessane de quelques années, avec des mains rapides et un rire facile qu’on n’entendait plus. Kessane la trouva assise sur le seuil de sa forge froide — froide, en plein jour ouvré, le foyer éteint, ce qui chez un forgeron est un signe qu’on lit sans avoir à l’apprendre. Un feu éteint à midi, c’est une maison qui a cessé de manger.
+Maren tenait le feu voisin du sien, à trois portes, la forge aux gonds : elle ne faisait que ça, des gonds, des charnières, des ferrures de porte, un métier modeste et sans gloire dont elle vivait sans se plaindre. C’était une petite femme sèche, plus jeune que Kessane de quelques années, avec des mains rapides et un rire facile qu’on n’entendait plus. Kessane la trouva assise sur le seuil de sa forge froide, froide en plein jour ouvré, le foyer éteint, ce qui chez un forgeron est un signe qu’on lit sans avoir à l’apprendre. Un feu éteint à midi, c’est une maison qui a cessé de manger.
 
 « Ton feu est mort, dit Kessane, parce qu’on ne passe pas devant un feu mort sans le dire, c’est comme passer devant un blessé sans le voir.
 
@@ -103,19 +103,19 @@ Maren dit *ils* comme on ne nomme pas une bête qu’on craint de faire venir en
 
 — Ceux de Drahk’Nor. » Maren avala. « Les Inspecteurs. »
 
-Le mot tomba sur le seuil et y resta. Kessane l’avait entendu, bien sûr — on l’entendait, il courait les routes depuis des années, il venait de loin, de la ville aux hauts fourneaux, comme la cendre fine qui se déposait parfois jusqu’ici les jours de mauvais vent. Mais on l’entendait comme on entend parler d’une crue dans une vallée qu’on n’habite pas. Les Inspecteurs, c’était l’affaire des villes, des Tissés des villes, des grands bourgs où le Fléau saignait à découvert. Pas l’affaire de la Forge-Basse. Ici le mal ne mordait pas. Ici on n’avait rien à inspecter.
+Le mot tomba sur le seuil et y resta. Kessane l’avait entendu, bien sûr. On l’entendait, il courait les routes depuis des années, il venait de loin, de la ville aux hauts fourneaux, comme la cendre fine qui se déposait parfois jusqu’ici les jours de mauvais vent. Mais on l’entendait comme on entend parler d’une crue dans une vallée qu’on n’habite pas. Les Inspecteurs, c’était l’affaire des villes, des Tissés des villes, des grands bourgs où le Fléau saignait à découvert. Pas l’affaire de la Forge-Basse. Ici le mal ne mordait pas. Ici on n’avait rien à inspecter.
 
 Et voilà que le mot était assis sur le seuil de la forge d’à côté, dans la bouche d’une femme dont Kessane connaissait le rire.
 
-« Ici ? » dit-elle, et elle s’entendit dire *ici* du même ton dont Maren avait dit *ils* — le ton de qui refuse la place que prend une chose. « Ils sont venus ici ? »
+« Ici ? » dit-elle, et elle s’entendit dire *ici* du même ton dont Maren avait dit *ils*, le ton de qui refuse la place que prend une chose. « Ils sont venus ici ? »
 
-« Pas ici. Au bourg du haut, chez la sœur de mon homme. Tomm y passait l’été, tu sais qu’il aidait à la moisson. » Maren parlait à ses mains, maintenant, tout bas, régulièrement, comme on récite une chose pour ne pas la sentir en la disant. « Il s’était mis à voir des choses. Au printemps. Des gens dans les blés, il disait, des gens penchés qui moissonnaient et qui étaient pas là. Sa tante a cru que c’était le soleil, la fatigue. Elle l’a fait boire, dormir. Ça passait pas. Il parlait à personne, le soir. Il refusait la lampe — il disait que la lampe abîmait ce qu’il fallait voir. »
+« Pas ici. Au bourg du haut, chez la sœur de mon homme. Tomm y passait l’été, tu sais qu’il aidait à la moisson. » Maren parlait à ses mains, maintenant, tout bas, régulièrement, comme on récite une chose pour ne pas la sentir en la disant. « Il s’était mis à voir des choses. Au printemps. Des gens dans les blés, il disait, des gens penchés qui moissonnaient et qui étaient pas là. Sa tante a cru que c’était le soleil, la fatigue. Elle l’a fait boire, dormir. Ça passait pas. Il parlait à personne, le soir. Il refusait la lampe. Il disait que la lampe abîmait ce qu’il fallait voir. »
 
 *Il refusait la lampe.* Kessane ferma les yeux une seconde. Sa fille, ce matin, le nez tourné du feu.
 
 « Et quelqu’un a parlé, dit-elle.
 
-— Quelqu’un parle toujours. » Maren haussa une épaule, sans amertume, avec une lassitude qui était pire que l’amertume. « Je leur en veux même pas. Ils ont peur. On leur a dit que c’est contagieux — c’est faux, tu le sais, ça se prend pas, le Fléau, mais on leur a dit que ça se prend, et un enfant qui voit des morts dans les blés, dans un bourg qui crève de peur… quelqu’un a parlé. Un Inspecteur est venu. Une femme, à ce qu’on m’a dit. Grise. Polie. »
+— Quelqu’un parle toujours. » Maren haussa une épaule, sans amertume, avec une lassitude qui était pire que l’amertume. « Je leur en veux même pas. Ils ont peur. On leur a dit que c’est contagieux, c’est faux, tu le sais, ça se prend pas, le Fléau, mais on leur a dit que ça se prend, et un enfant qui voit des morts dans les blés, dans un bourg qui crève de peur… quelqu’un a parlé. Un Inspecteur est venu. Une femme, à ce qu’on m’a dit. Grise. Polie. »
 
 « Polie. »
 
@@ -123,7 +123,7 @@ Et voilà que le mot était assis sur le seuil de la forge d’à côté, dans l
 
 Kessane ne demanda pas le mot. Elle en devinait la forme, la douceur exacte, la manière dont il devait tenir dans la bouche.
 
-« Ils l’ont emmené, reprit Maren. Pour le soulager. On m’a dit qu’il n’a pas eu mal. On me l’a dit comme une bonté — *il n’a pas eu mal, Maren, sois tranquille, il n’a pas souffert.* » Sa voix ne trembla pas ; elle était trop usée pour trembler, elle avait passé le trembler. « Et le pire, tu vois, le pire — c’est que je me surprends à en être contente. Qu’il n’ait pas eu mal. Comme s’ils m’avaient laissé ça, cette petite douceur-là, exprès, pour que je puisse pas les haïr tout à fait. Pour que je me dise : au fond, ils ont voulu bien faire. »
+« Ils l’ont emmené, reprit Maren. Pour le soulager. On m’a dit qu’il n’a pas eu mal. On me l’a dit comme une bonté : *il n’a pas eu mal, Maren, sois tranquille, il n’a pas souffert.* » Sa voix ne trembla pas ; elle était trop usée pour trembler, elle avait passé le trembler. « Et le pire, tu vois, le pire, c’est que je me surprends à en être contente. Qu’il n’ait pas eu mal. Comme s’ils m’avaient laissé ça, cette petite douceur-là, exprès, pour que je puisse pas les haïr tout à fait. Pour que je me dise : au fond, ils ont voulu bien faire. »
 
 Elle se tut. Le ruisseau coulait. Le fer, au loin, battait toujours son deux-temps régulier, quelqu’un qui travaillait, quelqu’un pour qui c’était un jour comme un autre.
 
@@ -131,7 +131,7 @@ Elle se tut. Le ruisseau coulait. Le fer, au loin, battait toujours son deux-tem
 
 Maren la regarda longtemps.
 
-« Je pense qu’elle croyait bien faire, la femme grise. » Elle dit cela lentement, en pesant chaque mot comme du charbon dans la balance. « Je pense qu’elle est rentrée chez elle ce soir-là et qu’elle a bien dormi. C’est ça que je peux pas leur pardonner. Pas la haine — la haine, je saurais quoi en faire. Le bien dormir. Qu’on prenne mon petit et qu’on dorme bien après, parce qu’on a la conscience d’avoir soigné. » Elle se leva du seuil, raide, et rentra dans sa forge froide. « Rallume ton feu, toi. Garde-le vif. Un feu vif, ça se voit de loin, ça dit qu’on a rien à cacher. C’est les feux éteints qu’ils regardent. »
+« Je pense qu’elle croyait bien faire, la femme grise. » Elle dit cela lentement, en pesant chaque mot comme du charbon dans la balance. « Je pense qu’elle est rentrée chez elle ce soir-là et qu’elle a bien dormi. C’est ça que je peux pas leur pardonner. Pas la haine : la haine, je saurais quoi en faire. Le bien dormir. Qu’on prenne mon petit et qu’on dorme bien après, parce qu’on a la conscience d’avoir soigné. » Elle se leva du seuil, raide, et rentra dans sa forge froide. « Rallume ton feu, toi. Garde-le vif. Un feu vif, ça se voit de loin, ça dit qu’on a rien à cacher. C’est les feux éteints qu’ils regardent. »
 
 *
 
@@ -139,11 +139,11 @@ Kessane rentra avec la brouette vide, et le grincement de la roue accompagna tou
 
 *Il refusait la lampe. Il disait que la lampe abîmait ce qu’il fallait voir.*
 
-Elle le tenait, maintenant, le tableau entier. Une femme grise, polie, qui ne criait pas. Une femme qui lisait les enfants aux signes que les autres ne voyaient pas — un regard qui fuit la flamme, une phrase dite à personne, un feu éteint à midi. Une femme qui traversait les marchés et les bourgs comme Kessane traversait un fer chaud, à la recherche de la fausse note, du geste qui n’était pas accordé à son objet. Et Kessane comprit, en poussant sa brouette vide dans la côte, que le duel qui l’attendait n’était pas contre le Fléau. Le Fléau, elle savait le combattre : il y avait le cahier, il y avait le geste, il y avait la coupure. Le Fléau était un feu, et un feu, ça se ferme.
+Elle le tenait, maintenant, le tableau entier. Une femme grise, polie, qui ne criait pas. Une femme qui lisait les enfants aux signes que les autres ne voyaient pas : un regard qui fuit la flamme, une phrase dite à personne, un feu éteint à midi. Une femme qui traversait les marchés et les bourgs comme Kessane traversait un fer chaud, à la recherche de la fausse note, du geste qui n’était pas accordé à son objet. Et Kessane comprit, en poussant sa brouette vide dans la côte, que le duel qui l’attendait n’était pas contre le Fléau. Le Fléau, elle savait le combattre : il y avait le cahier, il y avait le geste, il y avait la coupure. Le Fléau était un feu, et un feu, ça se ferme.
 
 Non. Le duel était contre la femme grise. Contre une paire d’yeux quelque part sur les routes, qui savait lire exactement ce que Kessane devait cacher — et qui le lisait mieux qu’elle-même, puisque Kessane, elle, avait mis huit jours à voir que sa fille détournait le visage du feu.
 
-Elle rangea la brouette. Elle entra. Lirenn était à sa petite enclume, redressant ses clous, et à côté d’elle le foyer flambait haut et clair, ravivé de frais — la gamine avait remis du charbon, elle avait fait le feu vif — et Lirenn tisonnait ce feu vif les yeux résolument tournés de côté, vers l’angle mort au bord de la lumière.
+Elle rangea la brouette. Elle entra. Lirenn était à sa petite enclume, redressant ses clous, et à côté d’elle le foyer flambait haut et clair, ravivé de frais, la gamine avait remis du charbon, elle avait fait le feu vif, et Lirenn tisonnait ce feu vif les yeux résolument tournés de côté, vers l’angle mort au bord de la lumière.
 
 Kessane s’accroupit près d’elle. Elle prit le menton de sa fille dans sa main calleuse, doucement, et ramena le petit visage vers la flamme.
 
@@ -151,7 +151,7 @@ Kessane s’accroupit près d’elle. Elle prit le menton de sa fille dans sa ma
 
 — La dame a mal quand je le regarde.
 
-— Je sais. » Elle tenait le menton, sans forcer, juste assez. « Écoute-moi bien, ma toute. Je vais te demander une chose difficile, et tu vas la faire pour moi, comme deux forgerons. Quand quelqu’un te regarde — n’importe qui, un voisin, un passant, quelqu’un que tu connais pas —, tu regardes le feu. Tu regardes la lampe. Tu regardes la flamme droit, comme avant. Même si la dame y est. Même si ça te fait mal de la voir dedans. »
+— Je sais. » Elle tenait le menton, sans forcer, juste assez. « Écoute-moi bien, ma toute. Je vais te demander une chose difficile, et tu vas la faire pour moi, comme deux forgerons. Quand quelqu’un te regarde, n’importe qui, un voisin, un passant, quelqu’un que tu connais pas, tu regardes le feu. Tu regardes la lampe. Tu regardes la flamme droit, comme avant. Même si la dame y est. Même si ça te fait mal de la voir dedans. »
 
 Lirenn fronça les sourcils, cette gravité d’enfant qui pèse plus lourd que celle des grands.
 
@@ -165,7 +165,7 @@ Lirenn fronça les sourcils, cette gravité d’enfant qui pèse plus lourd que 
 
 — La dame me dit tout le temps de faire ça. » Lirenn eut un petit sourire triste, trop vieux pour son visage. « Elle dit : petite, fais comme si tu m’entendais pas. Elle sera contente que je le fasse enfin. Elle a l’air d’attendre ça depuis longtemps. »
 
-Kessane resta un moment le front penché, tout près du feu, à sentir la chaleur lui prendre le visage. Elle songea qu’elle était en train d’apprendre à sa fille de neuf ans l’art de cacher ce qu’elle était — de tenir un visage lisse, de regarder droit la flamme, de mentir avec le corps ; qu’elle lui apprenait cet art dans le lieu le plus sûr du monde, qui ne l’était plus, qui ne l’avait peut-être jamais été ; et que tout cela — la dissimulation, le visage de forgeron, le feu vif qu’on garde exprès pour dire qu’on n’a rien à cacher — n’était qu’un délai. Un délai avant le seul geste qui garderait vraiment sa fille en vie, et qui était de la couper.
+Kessane resta un moment le front penché, tout près du feu, à sentir la chaleur lui prendre le visage. Elle songea qu’elle était en train d’apprendre à sa fille de neuf ans l’art de cacher ce qu’elle était : tenir un visage lisse, de regarder droit la flamme, de mentir avec le corps ; qu’elle lui apprenait cet art dans le lieu le plus sûr du monde, qui ne l’était plus, qui ne l’avait peut-être jamais été ; et que tout cela, la dissimulation, le visage de forgeron, le feu vif qu’on garde exprès pour dire qu’on n’a rien à cacher, n’était qu’un délai. Un délai avant le seul geste qui garderait vraiment sa fille en vie, et qui était de la couper.
 
 Faire semblant, ce n’était pas fermer la porte. C’était tenir la porte fermée avec l’épaule pendant qu’on cherchait le courage de la murer.
 
