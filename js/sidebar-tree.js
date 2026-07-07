@@ -156,6 +156,9 @@
             // Tome 2 : lecture continue (le sommaire par chapitre reste T1 pour l\'instant)
             html += '      <a class="sidebar-roman-lire" href="#livre/t2">' +
                     '▶ Lire le T2 — L’Heure qui se Referme (audio)</a>';
+            // Tome 3 : lecture continue
+            html += '      <a class="sidebar-roman-lire" href="#livre/t3">' +
+                    '▶ Lire le T3 — L’Heure qui Naît (audio)</a>';
             // Niveau parties → chapitres
             for (const partie of roman.parties) {
                 html += '<div class="sidebar-roman-partie">' + this._escape(partie.titre) + '</div>';

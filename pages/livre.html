@@ -81,7 +81,9 @@
     t1: { titre: 'La Septième Heure', sousTitre: 'Les Trois Coups · Tome 1 — l’Arrachement',
           dossier: 'Lore/Romans/Les Trois Coups/T1 - La Septième Heure' },
     t2: { titre: 'L’Heure qui se Referme', sousTitre: 'Les Trois Coups · Tome 2 — le Fléau des Failles',
-          dossier: "Lore/Romans/Les Trois Coups/T2 - L'Heure qui se Referme" }
+          dossier: "Lore/Romans/Les Trois Coups/T2 - L'Heure qui se Referme" },
+    t3: { titre: 'L’Heure qui Naît', sousTitre: 'Les Trois Coups · Tome 3 — le Sillage',
+          dossier: "Lore/Romans/Les Trois Coups/T3 - L'Heure qui Naît" }
   };
 
   var root = document.getElementById('livre-root');
@@ -120,7 +122,7 @@
 
   function renderMenu() {
     var h = '<div class="livre-menu"><h1>Lire un livre</h1>';
-    ['t1','t2'].forEach(function(k){
+    ['t1','t2','t3'].forEach(function(k){
       var t = TOMES[k];
       h += '<a class="livre-tome-card" href="#livre/' + k + '">' +
            '<div class="t">' + escapeHtml(t.titre) + '</div>' +

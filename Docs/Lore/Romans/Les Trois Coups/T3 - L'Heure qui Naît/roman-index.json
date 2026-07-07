@@ -1,0 +1,375 @@
+{
+  "trilogie": "Les Trois Coups",
+  "tome": 3,
+  "titre": "L’Heure qui Naît",
+  "sousTitre": "Le Sillage — Ère VII",
+  "statut": "tome 3 complet",
+  "dossier": "Lore/Romans/Les Trois Coups/T3 - L'Heure qui Naît",
+  "parties": [
+    {
+      "titre": "prologue",
+      "chapitres": [
+        {
+          "key": "avant-les-mots",
+          "file": "00 - Avant les mots.md",
+          "label": "Avant les mots",
+          "meta": "La voix qui naît"
+        }
+      ]
+    },
+    {
+      "titre": "Partie I — Ceux qui écoutent",
+      "chapitres": [
+        {
+          "key": "la-voix-qui-nait",
+          "file": "01 - Seuil de la Partie I - La voix qui nait.md",
+          "label": "La voix qui naît",
+          "meta": "La voix qui naît"
+        },
+        {
+          "key": "celle-qui-entend",
+          "file": "02 - Celle qui entend.md",
+          "label": "Celle qui entend",
+          "meta": "Renna de Cendara"
+        },
+        {
+          "key": "les-coffres-quon-nouvre-pas",
+          "file": "03 - Les coffres qu'on n'ouvre pas.md",
+          "label": "Les coffres qu’on n’ouvre pas",
+          "meta": "Vaskar Sorne"
+        },
+        {
+          "key": "la-relique-de-maison",
+          "file": "04 - La relique de maison.md",
+          "label": "La relique de maison",
+          "meta": "Sanne"
+        },
+        {
+          "key": "le-decalage",
+          "file": "05 - Le decalage.md",
+          "label": "Le décalage",
+          "meta": "Fenêtre-monde"
+        },
+        {
+          "key": "ilex-parle-a-personne",
+          "file": "06 - Ilex parle a personne.md",
+          "label": "Ilex parle à personne",
+          "meta": "Renna"
+        },
+        {
+          "key": "la-concordance-qu-on-refuse",
+          "file": "07 - La concordance qu'on refuse.md",
+          "label": "La concordance qu'on refuse",
+          "meta": "Vaskar Sorne"
+        },
+        {
+          "key": "une-voix-de-famille",
+          "file": "08 - Une voix de famille.md",
+          "label": "Une voix de famille",
+          "meta": "Sanne"
+        },
+        {
+          "key": "sans-revendication",
+          "file": "09 - Sans revendication.md",
+          "label": "Sans revendication",
+          "meta": "Fenêtre-monde"
+        },
+        {
+          "key": "ce-que-loreille-a-coute",
+          "file": "10 - Ce que l'oreille a coute.md",
+          "label": "Ce que l’oreille a coûté",
+          "meta": "Renna"
+        },
+        {
+          "key": "les-mains-vides",
+          "file": "11 - Les Mains Vides.md",
+          "label": "Les Mains Vides",
+          "meta": "Sanne"
+        }
+      ]
+    },
+    {
+      "titre": "Partie II — Les signes se pressent",
+      "chapitres": [
+        {
+          "key": "la-voix-qui-nait-12",
+          "file": "12 - Seuil de la Partie II - La voix qui nait.md",
+          "label": "La voix qui naît",
+          "meta": "La voix qui naît"
+        },
+        {
+          "key": "la-pulse-au-jour",
+          "file": "13 - La pulse au jour.md",
+          "label": "La pulse au jour",
+          "meta": "Renna"
+        },
+        {
+          "key": "porter-une-cible",
+          "file": "14 - Porter une cible.md",
+          "label": "Porter une cible",
+          "meta": "Sanne"
+        },
+        {
+          "key": "un-cahier-qui-circule",
+          "file": "15 - Un cahier qui circule.md",
+          "label": "Un cahier qui circule",
+          "meta": "Vaskar Sorne"
+        },
+        {
+          "key": "le-dernier-esprit",
+          "file": "16 - Le dernier esprit.md",
+          "label": "Le dernier esprit",
+          "meta": "Fenêtre-monde"
+        },
+        {
+          "key": "la-passeuse-a-cendara",
+          "file": "17 - La passeuse a Cendara.md",
+          "label": "La passeuse à Cendara",
+          "meta": "Renna"
+        },
+        {
+          "key": "le-suspect-commode",
+          "file": "18 - Le suspect commode.md",
+          "label": "Le suspect commode",
+          "meta": "Vaskar Sorne"
+        },
+        {
+          "key": "le-texte-et-le-battement",
+          "file": "19 - Le texte et le battement.md",
+          "label": "Le texte et le battement",
+          "meta": "Sanne"
+        },
+        {
+          "key": "la-seconde-copie",
+          "file": "20 - La seconde copie.md",
+          "label": "La seconde copie",
+          "meta": "Fenêtre-monde"
+        },
+        {
+          "key": "ce-qui-suit-sans-visage",
+          "file": "21 - Ce qui suit sans visage.md",
+          "label": "Ce qui suit sans visage",
+          "meta": "Sanne"
+        },
+        {
+          "key": "ceux-qui-veulent-lenfant",
+          "file": "22 - Ceux qui veulent l'enfant.md",
+          "label": "Ceux qui veulent l’enfant",
+          "meta": "Renna"
+        }
+      ]
+    },
+    {
+      "titre": "Partie III — La traque",
+      "chapitres": [
+        {
+          "key": "la-voix-qui-nait-23",
+          "file": "23 - Seuil de la Partie III - La voix qui nait.md",
+          "label": "La voix qui naît",
+          "meta": "La voix qui naît"
+        },
+        {
+          "key": "lire-les-absences",
+          "file": "24 - Lire les absences.md",
+          "label": "Lire les absences",
+          "meta": "Vaskar Sorne"
+        },
+        {
+          "key": "la-ou-il-pourra-se-passer-d-elle",
+          "file": "25 - La ou il pourra se passer d'elle.md",
+          "label": "Là où il pourra se passer d'elle",
+          "meta": "Sanne"
+        },
+        {
+          "key": "le-copiste-de-prismalith",
+          "file": "26 - Le copiste de Prismalith.md",
+          "label": "Le copiste de Prismalith",
+          "meta": "Fenêtre-monde"
+        },
+        {
+          "key": "les-premiers-mots",
+          "file": "27 - Les premiers mots.md",
+          "label": "Les premiers mots",
+          "meta": "Renna"
+        },
+        {
+          "key": "deux-fers-une-seule-fois",
+          "file": "28 - Deux fers, une seule fois.md",
+          "label": "Deux fers, une seule fois",
+          "meta": "Vaskar Sorne"
+        },
+        {
+          "key": "plus-pres-plus-vite",
+          "file": "29 - Plus pres, plus vite.md",
+          "label": "Plus près, plus vite",
+          "meta": "Fenêtre-monde"
+        },
+        {
+          "key": "dix-mille-ans-la-meme-phrase",
+          "file": "30 - Dix mille ans, la meme phrase.md",
+          "label": "Dix mille ans, la même phrase",
+          "meta": "Sanne"
+        },
+        {
+          "key": "loin-du-mont",
+          "file": "31 - Loin du Mont.md",
+          "label": "Loin du Mont",
+          "meta": "Renna"
+        },
+        {
+          "key": "ce-que-l-ombre-demande",
+          "file": "32 - Ce que l'ombre demande.md",
+          "label": "Ce que l'ombre demande",
+          "meta": "Vaskar Sorne"
+        },
+        {
+          "key": "il-ne-tient-plus",
+          "file": "33 - Il ne tient plus.md",
+          "label": "Il ne tient plus",
+          "meta": "Renna"
+        }
+      ]
+    },
+    {
+      "titre": "Partie IV — Ce qui remonte",
+      "chapitres": [
+        {
+          "key": "la-voix-qui-nait-34",
+          "file": "34 - Seuil de la Partie IV - La voix qui nait.md",
+          "label": "La voix qui naît",
+          "meta": "La voix qui naît"
+        },
+        {
+          "key": "au-quart-dheure",
+          "file": "35 - Au quart d'heure.md",
+          "label": "Au quart d’heure",
+          "meta": "Renna"
+        },
+        {
+          "key": "le-depot",
+          "file": "36 - Le depot.md",
+          "label": "Le dépôt",
+          "meta": "Sanne"
+        },
+        {
+          "key": "lordre-dimmobiliser",
+          "file": "37 - L'ordre d'immobiliser.md",
+          "label": "L’ordre d’immobiliser",
+          "meta": "Vaskar Sorne"
+        },
+        {
+          "key": "ce-qui-tombe-sans-bruit",
+          "file": "38 - Ce qui tombe sans bruit.md",
+          "label": "Ce qui tombe sans bruit",
+          "meta": "Sanne"
+        },
+        {
+          "key": "un-dossier-de-plus",
+          "file": "39 - Un dossier de plus.md",
+          "label": "Un dossier de plus",
+          "meta": "Vaskar Sorne"
+        },
+        {
+          "key": "la-montee-qui-tourne-mal",
+          "file": "40 - La montee qui tourne mal.md",
+          "label": "La montée qui tourne mal",
+          "meta": "Fenêtre-monde"
+        },
+        {
+          "key": "ce-qu-elle-laisse-en-mourant",
+          "file": "41 - Ce qu'elle laisse en mourant.md",
+          "label": "Ce qu'elle laisse en mourant",
+          "meta": "Renna"
+        },
+        {
+          "key": "vers-le-mont",
+          "file": "42 - Vers le Mont.md",
+          "label": "Vers le Mont",
+          "meta": "Vaskar Sorne"
+        }
+      ]
+    },
+    {
+      "titre": "Partie V — Le Troisième Coup",
+      "chapitres": [
+        {
+          "key": "la-voix-qui-nait-43",
+          "file": "43 - Seuil de la Partie V - La voix qui nait.md",
+          "label": "La voix qui naît",
+          "meta": "La voix qui naît"
+        },
+        {
+          "key": "la-montee",
+          "file": "44 - La montee.md",
+          "label": "La montée",
+          "meta": "Renna"
+        },
+        {
+          "key": "trop-tard-pour-sceller",
+          "file": "45 - Trop tard pour sceller.md",
+          "label": "Trop tard pour sceller",
+          "meta": "Vaskar Sorne"
+        },
+        {
+          "key": "sous-la-dalle",
+          "file": "46 - Sous la dalle.md",
+          "label": "Sous la dalle",
+          "meta": "Fenêtre-monde"
+        },
+        {
+          "key": "la-voix-qui-nait-47",
+          "file": "47 - La voix - irruption 7.md",
+          "label": "La voix qui naît",
+          "meta": "La voix qui naît"
+        },
+        {
+          "key": "presque-une-phrase",
+          "file": "48 - Presque une phrase.md",
+          "label": "Presque une phrase",
+          "meta": "Renna"
+        },
+        {
+          "key": "la-bouche-qui-s-ouvre",
+          "file": "49 - La bouche qui s'ouvre.md",
+          "label": "La bouche qui s'ouvre",
+          "meta": "Renna"
+        },
+        {
+          "key": "le-temoin-exterieur",
+          "file": "50 - Le temoin exterieur.md",
+          "label": "Le témoin extérieur",
+          "meta": "Vaskar Sorne"
+        }
+      ]
+    },
+    {
+      "titre": "Coda — Le troisième coup",
+      "chapitres": [
+        {
+          "key": "le-rapport-que-le-monde-croira",
+          "file": "51 - Le rapport que le monde croira.md",
+          "label": "Le rapport que le monde croira",
+          "meta": "Vaskar Sorne"
+        },
+        {
+          "key": "d-autres-mains",
+          "file": "52 - D'autres mains.md",
+          "label": "D'autres mains",
+          "meta": "Fenêtre-monde"
+        },
+        {
+          "key": "au-bord",
+          "file": "53 - Au bord.md",
+          "label": "Au bord",
+          "meta": "Renna"
+        },
+        {
+          "key": "la-voix-qui-nait-54",
+          "file": "54 - La premiere phrase.md",
+          "label": "La voix qui naît",
+          "meta": "La voix qui naît"
+        }
+      ]
+    }
+  ]
+}
