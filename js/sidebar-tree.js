@@ -27,7 +27,7 @@
     const NATIONS_LINK_HREF    = '#histoires/histoires';
     const RELIGIONS_LINK_HREF  = '#monde/religions';
     const CONTINENTS_LINK_HREF = '#monde/continents';
-    const ROMANS_LINK_HREF     = '#roman/t1';
+    const ROMANS_LINK_HREF     = '#histoires/chroniques';
 
     // Les 5 grands onglets. `routes` = routes qui appartiennent à la section.
     const SECTIONS = [
@@ -40,6 +40,8 @@
 
     const SidebarTree = {
         _container: null,
+        _openParts: {},
+        _closedParts: {},
 
         init() {
             if (!window.NavConfig) return;
@@ -63,6 +65,23 @@
 
             this.render();
             window.addEventListener('hashchange', () => this.render());
+            this._container.addEventListener('click', (event) => this._onTreeClick(event));
+        },
+
+        _onTreeClick(event) {
+            const toggle = event.target.closest('[data-sidebar-toggle-part]');
+            if (!toggle || !this._container.contains(toggle)) return;
+            event.preventDefault();
+            const key = toggle.getAttribute('data-sidebar-toggle-part');
+            const isOpen = toggle.getAttribute('aria-expanded') === 'true';
+            if (isOpen) {
+                this._closedParts[key] = true;
+                delete this._openParts[key];
+            } else {
+                this._openParts[key] = true;
+                delete this._closedParts[key];
+            }
+            this.render();
         },
 
         /** route + subkey courants depuis le hash. */
@@ -162,6 +181,8 @@
             const isOnReligions    = isOnReligionsHub || onReligionRoute;
             const activeReligion   = onReligionRoute ? NavConfig.findReligionByKey(subkey) : null;
             const isOnRomans       = route === 'roman';
+            const isOnChroniques   = route === 'histoires' && (!subkey || subkey === 'chroniques' || subkey.startsWith('chroniques/'));
+            const isOnReading      = isOnRomans || isOnChroniques;
 
             let html = '<ul class="sidebar-lore-nav-list sidebar-tree-sublist">';
             for (const cat of NavConfig.loreCategories) {
@@ -181,7 +202,7 @@
                         if (link.href === NATIONS_LINK_HREF && isOnNations) linkActive = true;
                         if (link.href === RELIGIONS_LINK_HREF && isOnReligions) linkActive = true;
                         if (link.href === CONTINENTS_LINK_HREF && isOnContinents) linkActive = true;
-                        if (link.href === ROMANS_LINK_HREF && isOnRomans) linkActive = true;
+                        if (link.href === ROMANS_LINK_HREF && isOnReading) linkActive = true;
 
                         html += '<li>';
                         html += '<a href="' + link.href + '"' +
@@ -196,8 +217,8 @@
                         if (link.href === CONTINENTS_LINK_HREF && isOnContinents) {
                             html += this._renderContinentsTree(activeContKey, activeNationSlug);
                         }
-                        if (link.href === ROMANS_LINK_HREF && isOnRomans) {
-                            html += this._renderRomansTree(route, subkey);
+                        if (link.href === ROMANS_LINK_HREF && isOnReading) {
+                            html += this._renderReadingTree(route, subkey);
                         }
                         html += '</li>';
                     }
@@ -226,6 +247,38 @@
             return '#roman/' + tomeKey + (chapterKey ? '/' + chapterKey : '');
         },
 
+        _chroniquesRouteInfo(route, subkey) {
+            const parts = (subkey || '').split('/').filter(Boolean);
+            let chapterNum = null;
+            if (route === 'histoires' && parts[0] === 'chroniques' && parts[1]) {
+                const raw = parts[1].replace(/^ch-/, '');
+                const parsed = parseInt(raw, 10);
+                if (!Number.isNaN(parsed)) chapterNum = parsed;
+            }
+            return { chapterNum };
+        },
+
+        _chroniquesHref(chapterNum) {
+            return '#histoires/chroniques' + (chapterNum ? '/ch-' + chapterNum : '');
+        },
+
+        _getChroniquesIndex() {
+            this._chroniquesIndexCache = this._chroniquesIndexCache || null;
+            if (this._chroniquesIndexCache) return this._chroniquesIndexCache;
+
+            fetch('/Docs/Lore/Chroniques/chroniques-index.json')
+                .then(r => r.ok ? r.json() : Promise.reject(new Error('index introuvable')))
+                .then(data => {
+                    this._chroniquesIndexCache = data;
+                    this.render();
+                })
+                .catch(() => {
+                    this._chroniquesIndexCache = { actes: [], chapitres: [] };
+                    this.render();
+                });
+            return null;
+        },
+
         _getRomanIndex(tome) {
             if (!tome || !tome.dossier) return null;
             this._romanIndexCache = this._romanIndexCache || {};
@@ -244,15 +297,35 @@
             return null;
         },
 
+        _renderReadingTree(route, subkey) {
+            const isOnChroniques = route === 'histoires' && (!subkey || subkey === 'chroniques' || subkey.startsWith('chroniques/'));
+            const isOnRomans = route === 'roman';
+            const chroniques = this._getChroniquesIndex();
+
+            let html = '<ul class="sidebar-lore-nav-subtree">';
+            html += '<li class="sidebar-lore-nav-subitem' + (isOnChroniques ? ' active' : '') + '">';
+            html += '<a class="sidebar-lore-nav-subhead' + (isOnChroniques ? ' active' : '') + '" href="#histoires/chroniques">Les Chroniques de l\'Exilé</a>';
+            if (isOnChroniques) {
+                html += chroniques
+                    ? this._renderChroniquesParts(chroniques, this._chroniquesRouteInfo(route, subkey).chapterNum)
+                    : '<ul class="sidebar-lore-nav-subleaves"><li><span class="sidebar-tree-muted">Chargement...</span></li></ul>';
+            }
+            html += '</li>';
+
+            html += '<li class="sidebar-lore-nav-subitem' + (isOnRomans ? ' active' : '') + '">';
+            html += '<a class="sidebar-lore-nav-subhead' + (isOnRomans ? ' active' : '') + '" href="#roman/t1">Les Trois Coups</a>';
+            if (isOnRomans) html += this._renderRomansTree(route, subkey);
+            html += '</li>';
+            html += '</ul>';
+            return html;
+        },
+
         _renderRomansTree(route, subkey) {
             const romans = NavConfig.romans || [];
             if (!romans.length) return '';
             const info = this._romanRouteInfo(route, subkey);
 
-            let html = '<ul class="sidebar-lore-nav-subtree">';
-            html += '<li class="sidebar-lore-nav-subitem active">';
-            html += '<a class="sidebar-lore-nav-subhead active" href="#roman/t1">Les Trois Coups</a>';
-            html += '<ul class="sidebar-lore-nav-subleaves">';
+            let html = '<ul class="sidebar-lore-nav-subleaves">';
 
             for (const tome of romans) {
                 const openTome = tome.key === info.tomeKey;
@@ -268,7 +341,50 @@
                 html += '</li>';
             }
 
-            html += '</ul></li></ul>';
+            html += '</ul>';
+            return html;
+        },
+
+        _renderChroniquesParts(idx, activeChapterNum) {
+            const actes = idx.actes || [];
+            const chapitres = idx.chapitres || [];
+            const chapMap = {};
+            chapitres.forEach(ch => { chapMap[ch.num] = ch; });
+
+            let activeActe = null;
+            for (const acte of actes) {
+                if ((acte.chapitres || []).includes(activeChapterNum)) {
+                    activeActe = acte;
+                    break;
+                }
+            }
+            if (!activeActe && actes.length) activeActe = actes[0];
+
+            let html = '<ul class="sidebar-lore-nav-subleaves">';
+            for (const acte of actes) {
+                const partKey = 'chroniques:' + acte.num;
+                const defaultOpen = acte === activeActe;
+                const isOpen = this._isPartOpen(partKey, defaultOpen);
+                const firstNum = (acte.chapitres || [])[0];
+                html += '<li class="sidebar-lore-nav-subitem' + (isOpen ? ' active' : '') + '">';
+                html += '<a class="sidebar-lore-nav-subhead' + (isOpen ? ' active' : '') + '" href="' + this._chroniquesHref(firstNum) + '" ' +
+                        'data-sidebar-toggle-part="' + this._escapeAttr(partKey) + '" aria-expanded="' + (isOpen ? 'true' : 'false') + '">' +
+                        this._escape('Acte ' + acte.num + ' — ' + acte.titre) + '</a>';
+                if (isOpen) {
+                    html += '<ul class="sidebar-lore-nav-subleaves">';
+                    for (const num of (acte.chapitres || [])) {
+                        const ch = chapMap[num];
+                        if (!ch) continue;
+                        const linkActive = ch.num === activeChapterNum;
+                        html += '<li><a href="' + this._chroniquesHref(ch.num) + '"' +
+                                (linkActive ? ' class="active"' : '') + '>' +
+                                this._escape(ch.titre || ('Chapitre ' + ch.num)) + '</a></li>';
+                    }
+                    html += '</ul>';
+                }
+                html += '</li>';
+            }
+            html += '</ul>';
             return html;
         },
 
@@ -285,11 +401,13 @@
 
             let html = '<ul class="sidebar-lore-nav-subleaves">';
             for (const partie of parts) {
-                const isOpen = partie === activePart;
+                const partKey = 'roman:' + tome.key + ':' + (partie.titre || '');
+                const isOpen = this._isPartOpen(partKey, partie === activePart);
                 const first = (partie.chapitres || [])[0];
                 const href = first ? this._romanHref(tome.key, first.key) : this._romanHref(tome.key, '');
                 html += '<li class="sidebar-lore-nav-subitem' + (isOpen ? ' active' : '') + '">';
-                html += '<a class="sidebar-lore-nav-subhead' + (isOpen ? ' active' : '') + '" href="' + href + '">' +
+                html += '<a class="sidebar-lore-nav-subhead' + (isOpen ? ' active' : '') + '" href="' + href + '" ' +
+                        'data-sidebar-toggle-part="' + this._escapeAttr(partKey) + '" aria-expanded="' + (isOpen ? 'true' : 'false') + '">' +
                         this._escape(this._prettyRomanPart(partie.titre)) + '</a>';
                 if (isOpen) {
                     html += '<ul class="sidebar-lore-nav-subleaves">';
@@ -305,6 +423,12 @@
             }
             html += '</ul>';
             return html;
+        },
+
+        _isPartOpen(key, defaultOpen) {
+            if (this._closedParts[key]) return false;
+            if (this._openParts[key]) return true;
+            return !!defaultOpen;
         },
 
         _prettyRomanPart(titre) {
@@ -403,6 +527,10 @@
             const d = document.createElement('div');
             d.textContent = s == null ? '' : String(s);
             return d.innerHTML;
+        },
+
+        _escapeAttr(s) {
+            return this._escape(s).replace(/"/g, '&quot;');
         },
     };
 

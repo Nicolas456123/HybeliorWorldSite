@@ -646,8 +646,7 @@ const NavConfig = {
             label: 'Chroniques et lecture du monde',
             intro: "Les récits de voyageurs, les religions, la chronologie, les augures.",
             links: [
-                { label: 'Chroniques de Sorin Valthen', href: '#histoires/chroniques' },
-                { label: 'Romans', href: '#roman/t1' },
+                { label: 'Romans et chroniques', href: '#histoires/chroniques' },
                 { label: 'Nations',              href: '#histoires/histoires' },
                 { label: 'Religions',            href: '#monde/religions' },
                 { label: 'Chronologie',          href: '#monde/chronologie' },
