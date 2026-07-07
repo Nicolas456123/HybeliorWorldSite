@@ -29,7 +29,7 @@ Les autres. Le silencieux qui prie en se taisant. Celle qui rêvait cela il y a 
 
 Le point ne dort plus.
 
-Il n’y a plus de calme, plus de plus calme, plus de si calme, j’avais ces mots, je les posais sur le sommet chaque nuit comme on pose la main sur le front d’un dormeur, le calme, le calme — il n’y a plus le front, il n’y a plus la main, il y a le point qui remue et qui attend et qui sait, oui, lui aussi sait, comme eux, ce que je ne sais pas.
+Il n’y a plus de calme, plus de plus calme, plus de si calme, j’avais ces mots, je les posais sur le sommet chaque nuit comme on pose la main sur le front d’un dormeur, le calme, le calme. Il n’y a plus le front, il n’y a plus la main, il y a le point qui remue et qui attend et qui sait, oui, lui aussi sait, comme eux, ce que je ne sais pas.
 
 Je ne sais pas.
 
@@ -41,7 +41,7 @@ Non. J’ai dit cela tant de nuits, j’y renonce, je ne dis plus ce que ce n’
 
 Je tiens encore.
 
-Qu’on le sache, une dernière fois — cent vingt millions dorment en moi cette nuit et aucun ne sait, les feux couverts, les enfants bordés, l’enfant sur le vide dans la ville qui flotte, la femme qui n’a pas envoyé sa lettre, la femme de la mer qui dort sans peur, les arches muettes qui attendent un pas qui ne viendra plus, tout, je les tiens comme le souffle qu’on garde une seconde de trop avant de le rendre.
+Qu’on le sache, une dernière fois : cent vingt millions dorment en moi cette nuit et aucun ne sait, les feux couverts, les enfants bordés, l’enfant sur le vide dans la ville qui flotte, la femme qui n’a pas envoyé sa lettre, la femme de la mer qui dort sans peur, les arches muettes qui attendent un pas qui ne viendra plus, tout, je les tiens comme le souffle qu’on garde une seconde de trop avant de le rendre.
 
 Je le rendrai.
 

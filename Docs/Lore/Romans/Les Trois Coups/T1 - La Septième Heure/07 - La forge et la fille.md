@@ -14,7 +14,7 @@ Un homme qui vient pour vous vendre quelque chose entre dans une forge d’une c
 
 Celui-ci n’entra d’aucune de ces manières.
 
-Il s’arrêta sous le linteau — pas celui de la place du Marteau, celui-là on le lui avait pris trois ans plus tôt, mais le linteau nu de la remise louée, sans marque, sans histoire — et il attendit. Cet homme-là regarda l’artisan avant de regarder le feu, et ne dit rien pour couvrir le bruit du soufflet. Et ses mains, Drakhan le vit tout de suite parce que c’était la première chose qu’il voyait chez quiconque, ses mains pendaient ouvertes le long du corps, sans rien à cacher et sans rien à prendre.
+Il s’arrêta sous le linteau, pas celui de la place du Marteau, celui-là on le lui avait pris trois ans plus tôt, mais le linteau nu de la remise louée, sans marque, sans histoire, et il attendit. Cet homme-là regarda l’artisan avant de regarder le feu, et ne dit rien pour couvrir le bruit du soufflet. Et ses mains, Drakhan le vit tout de suite parce que c’était la première chose qu’il voyait chez quiconque, ses mains pendaient ouvertes le long du corps, sans rien à cacher et sans rien à prendre.
 
 « On ferme, dit Drakhan sans lever le marteau. La forge est fermée aux étrangers. »
 
@@ -28,7 +28,7 @@ L’homme ne ressortit pas. Il resta sous le linteau, dans le froid qui venait d
 
 « Père. »
 
-Kessa était près de l’auge, les avant-bras nus, la limaille encore prise dans les plis de son tablier. Elle avait vu l’homme avant lui — elle voyait toujours les portes avant lui, comme sa mère. Elle ne le quittait pas des yeux, et dans sa façon de se tenir, hanche contre l’établi, une tenaille à la main qu’elle n’avait plus de raison de tenir, Drakhan reconnut la posture qu’elle prenait quand les hommes de Vhaeran venaient : le corps qui décide, avant la tête, qu’il ne pliera pas.
+Kessa était près de l’auge, les avant-bras nus, la limaille encore prise dans les plis de son tablier. Elle avait vu l’homme avant lui : elle voyait toujours les portes avant lui, comme sa mère. Elle ne le quittait pas des yeux, et dans sa façon de se tenir, hanche contre l’établi, une tenaille à la main qu’elle n’avait plus de raison de tenir, Drakhan reconnut la posture qu’elle prenait quand les hommes de Vhaeran venaient : le corps qui décide, avant la tête, qu’il ne pliera pas.
 
 « Il est déjà venu, dit-elle. »
 
@@ -48,7 +48,7 @@ Il ne s’excusa pas et ne se justifia pas, ce qui était nouveau. Les gens de l
 
 — Je ne suis pas de Cendral. »
 
-Cela, on l’entendait. L’accent était propre, sans la traîne du Sud dans les voyelles, sans la cendre dans la gorge. Un homme des académies, ou des ports du nord ; un homme qui avait lu plus qu’il n’avait sué. Drakhan connaissait l’espèce et ne l’aimait pas. Le marteau revint dans sa main — moins pour travailler que pour avoir quelque chose à tenir.
+Cela, on l’entendait. L’accent était propre, sans la traîne du Sud dans les voyelles, sans la cendre dans la gorge. Un homme des académies, ou des ports du nord ; un homme qui avait lu plus qu’il n’avait sué. Drakhan connaissait l’espèce et ne l’aimait pas. Le marteau revint dans sa main, moins pour travailler que pour avoir quelque chose à tenir.
 
 *
 
@@ -56,17 +56,17 @@ Cela, on l’entendait. L’accent était propre, sans la traîne du Sud dans le
 
 Le marteau s’arrêta en l’air.
 
-Ce n’était pas une question, et c’était la seule phrase qui pouvait faire s’arrêter le marteau de Drakhan à mi-course. Personne ne disait cela. Les gens disaient *tu forges bien*, *tu as la main*, *ton fer dure* — ils voyaient le résultat, jamais la chose même. *À la chaleur.* Comme si l’homme avait posé le doigt exactement sur le secret que Drakhan gardait sous ses paumes depuis l’enfance, ce feu du dedans que la Voie de Khatun lui faisait sentir et que les autres forgerons, à l’œil, ne feraient jamais qu’approcher.
+Ce n’était pas une question, et c’était la seule phrase qui pouvait faire s’arrêter le marteau de Drakhan à mi-course. Personne ne disait cela. Les gens disaient *tu forges bien*, *tu as la main*, *ton fer dure* ; ils voyaient le résultat, jamais la chose même. *À la chaleur.* Comme si l’homme avait posé le doigt exactement sur le secret que Drakhan gardait sous ses paumes depuis l’enfance, ce feu du dedans que la Voie de Khatun lui faisait sentir et que les autres forgerons, à l’œil, ne feraient jamais qu’approcher.
 
 « Qu’est-ce que tu en sais, dit-il, et sa voix avait perdu quelque chose de son tranchant.
 
 — Rien. Je ne suis pas forgeron. » L’homme fit un pas dans la lumière du foyer, un seul, et s’arrêta encore, comme quelqu’un qui demande la permission d’un pas à la fois. « Mais je regarde depuis un moment, et tu ne travailles pas comme les autres. Les autres frappent quand le rouge est bon. Toi tu frappes avant que le rouge soit bon, et tu as raison, parce que tu sens quelque chose qu’ils ne voient pas encore. »
 
-Kessa avait reposé la tenaille. Elle s’était rapprochée d’un pas, elle aussi, et Drakhan sentit sa fille se raidir — non de peur, mais de cette attention aiguë qu’elle mettait quand une chose lui déplaisait avant qu’elle sût pourquoi.
+Kessa avait reposé la tenaille. Elle s’était rapprochée d’un pas, elle aussi, et Drakhan sentit sa fille se raidir, non de peur, mais de cette attention aiguë qu’elle mettait quand une chose lui déplaisait avant qu’elle sût pourquoi.
 
 « Il flatte, père, dit-elle à voix basse. Les vendeurs commencent par flatter le travail. C’est la première leçon. On loue l’ouvrage pour acheter l’ouvrier. »
 
-« Je ne loue pas ton travail, dit l’étranger — et il s’adressa à elle, à elle directement, ce que les hommes ne faisaient pas, à Cendral, avec les filles des forgerons. Je ne suis pas venu acheter des socs. »
+« Je ne loue pas ton travail, dit l’étranger, et il s’adressa à elle, à elle directement, ce que les hommes ne faisaient pas, à Cendral, avec les filles des forgerons. Je ne suis pas venu acheter des socs. »
 
 « Alors quoi ? » Kessa croisa les bras. « Qu’est-ce que tu es venu acheter ? »
 
@@ -82,9 +82,9 @@ Le silence, dans une forge, n’existe pas ; il y a toujours le souffle du foye
 
 « Kessa.
 
-— Non, père. Il vient de dire qu’il veut ta colère. » Elle avait pâli sous la suie. « Un homme qui veut la colère d’un autre, c’est un homme qui a du travail à faire faire et pas les mains pour le faire lui-même. C’est comme ça qu’on se sert d’un feu — on ne le porte pas, on le dirige sur ce qu’on veut brûler. Tu vas dire à mon père qu’il a raison d’être en colère, tu vas lui donner de belles raisons, et à la fin la colère aura chauffé ta lame à toi, et c’est mon père qui restera avec la brûlure. »
+— Non, père. Il vient de dire qu’il veut ta colère. » Elle avait pâli sous la suie. « Un homme qui veut la colère d’un autre, c’est un homme qui a du travail à faire faire et pas les mains pour le faire lui-même. C’est comme ça qu’on se sert d’un feu : on ne le porte pas, on le dirige sur ce qu’on veut brûler. Tu vas dire à mon père qu’il a raison d’être en colère, tu vas lui donner de belles raisons, et à la fin la colère aura chauffé ta lame à toi, et c’est mon père qui restera avec la brûlure. »
 
-Drakhan la regarda. Vingt-deux ans, alors — plus jeune de trois ans qu’elle ne le serait le dernier soir, mais déjà cette manière de retourner une image contre celui qui l’avait tendue, de prendre la métaphore qu’on lui donnait et de la refroidir dans sa main jusqu’à ce qu’elle coupe. Elle tenait cela de lui, cette habitude de penser en fer. Elle s’en servait contre lui depuis qu’elle savait parler.
+Drakhan la regarda. Vingt-deux ans, alors, plus jeune de trois ans qu’elle ne le serait le dernier soir, mais déjà cette manière de retourner une image contre celui qui l’avait tendue, de prendre la métaphore qu’on lui donnait et de la refroidir dans sa main jusqu’à ce qu’elle coupe. Elle tenait cela de lui, cette habitude de penser en fer. Elle s’en servait contre lui depuis qu’elle savait parler.
 
 L’étranger, lui, ne se défendit pas.
 
@@ -92,9 +92,9 @@ L’étranger, lui, ne se défendit pas.
 
 *
 
-Cela, Drakhan ne l’avait jamais entendu. Un homme accusé de se servir de vous qui répond *oui, c’est ce que je fais.* Ni les prêtres de Khatun, ni les maîtres de guilde, ni Vhaeran, ni ses hommes — aucun n’avait jamais dit *oui*. Ils disaient tous *non, tu te trompes, je veux ton bien.* Le *oui* de l’étranger le désarçonna plus que n’importe quelle défense.
+Cela, Drakhan ne l’avait jamais entendu. Un homme accusé de se servir de vous qui répond *oui, c’est ce que je fais.* Ni les prêtres de Khatun, ni les maîtres de guilde, ni Vhaeran, ni ses hommes : aucun n’avait jamais dit *oui*. Ils disaient tous *non, tu te trompes, je veux ton bien.* Le *oui* de l’étranger le désarçonna plus que n’importe quelle défense.
 
-« Je ne vais pas te mentir dans ta propre forge, poursuivit l’homme. Ce serait la pire manière d’entrer. Ta fille voit clair — elle voit que je veux quelque chose de toi, et que ce quelque chose te coûtera. Elle a raison sur tout, sauf sur un point. »
+« Je ne vais pas te mentir dans ta propre forge, poursuivit l’homme. Ce serait la pire manière d’entrer. Ta fille voit clair : elle voit que je veux quelque chose de toi, et que ce quelque chose te coûtera. Elle a raison sur tout, sauf sur un point. »
 
 « Lequel, dit Kessa.
 
@@ -118,9 +118,9 @@ Drakhan ne répondit pas. Il connaissait la réponse. Un feu couvert ne meurt pa
 
 Il laissa cela suspendu, une barre au rouge sombre.
 
-« Mais toi tu es Lié, et tu es en bas. Et Vhaeran serait Vide qu’il serait encore en haut, avec son papier. Alors, ou bien ce n’est pas le Lien qui décide — ou bien on nous a menti sur ce que le Lien décide. »
+« Mais toi tu es Lié, et tu es en bas. Et Vhaeran serait Vide qu’il serait encore en haut, avec son papier. Alors, ou bien ce n’est pas le Lien qui décide, ou bien on nous a menti sur ce que le Lien décide. »
 
-Drakhan sentit sa gorge se serrer, non de colère cette fois, d’autre chose. C’étaient ses mots. Presque exactement les mots qu’il avait dits à Kessa un soir, près du feu, quand les hommes de Vhaeran étaient venus la première fois — *ce n’est pas le Lien qui sépare les hommes, le Lien n’est que le bâton, c’est la main qui tient le bâton.* Il ne les avait dits qu’à elle. Personne d’autre ne les avait entendus. Et voilà qu’un étranger les lui rendait dans sa propre bouche, comme s’ils traînaient dans l’air depuis toujours et qu’il n’avait fait, lui, que les cueillir avant les autres.
+Drakhan sentit sa gorge se serrer, non de colère cette fois, d’autre chose. C’étaient ses mots. Presque exactement les mots qu’il avait dits à Kessa un soir, près du feu, quand les hommes de Vhaeran étaient venus la première fois : *ce n’est pas le Lien qui sépare les hommes, le Lien n’est que le bâton, c’est la main qui tient le bâton.* Il ne les avait dits qu’à elle. Personne d’autre ne les avait entendus. Et voilà qu’un étranger les lui rendait dans sa propre bouche, comme s’ils traînaient dans l’air depuis toujours et qu’il n’avait fait, lui, que les cueillir avant les autres.
 
 « Où as-tu pris ça ? dit-il, plus rauque qu’il ne voulut.
 
@@ -130,13 +130,13 @@ Drakhan sentit sa gorge se serrer, non de colère cette fois, d’autre chose. C
 
 Kessa se déplia de contre l’établi.
 
-« Voilà, dit-elle, et sa voix avait retrouvé son tranchant. Voilà où tu voulais en venir. Un livre. » Elle vint entre son père et l’étranger, non pour le protéger — Drakhan n’avait jamais eu besoin d’être protégé — mais pour se mettre dans la ligne, comme on met une enclume entre le marteau et ce qu’on ne veut pas voir plié. « Tu viens dire à mon père que sa vie, sa vraie vie, la marque qu’on a effacée au burin, l’atelier de son père et du père de son père, tout ça, c’est la même chose qu’un livre. Que sa colère est *juste* parce qu’un mort d’il y a longtemps l’a pensée avant lui. »
+« Voilà, dit-elle, et sa voix avait retrouvé son tranchant. Voilà où tu voulais en venir. Un livre. » Elle vint entre son père et l’étranger, non pour le protéger, Drakhan n’avait jamais eu besoin d’être protégé, mais pour se mettre dans la ligne, comme on met une enclume entre le marteau et ce qu’on ne veut pas voir plié. « Tu viens dire à mon père que sa vie, sa vraie vie, la marque qu’on a effacée au burin, l’atelier de son père et du père de son père, tout ça, c’est la même chose qu’un livre. Que sa colère est *juste* parce qu’un mort d’il y a longtemps l’a pensée avant lui. »
 
 « Non, dit l’étranger.
 
 — Si. C’est exactement ce que tu fais. Tu prends le feu qui est dans mon père et tu lui dis : *regarde, ton feu, c’est le même que dans mon livre, alors viens brûler ce que mon livre veut brûler.* » Elle était près de lui maintenant, plus petite que lui d’une tête et pas reculée d’un pouce. « Mon père a un feu dans les mains, monsieur. Un vrai. Il sait forger un soc qui dure trois vies de paysan. Et toi tu veux lui faire poser le marteau pour aller allumer je ne sais quoi, quelque part, pour la thèse d’un mort. Tu appelles ça lui donner raison. Moi j’appelle ça lui prendre ses mains. »
 
-Le silence, de nouveau — le faux silence de la forge, le souffle du foyer dessous.
+Le silence, de nouveau : le faux silence de la forge, le souffle du foyer dessous.
 
 « Comment t’appelles-tu ? » demanda l’étranger.
 
@@ -154,7 +154,7 @@ Ce fut là, Drakhan s’en souviendrait longtemps après, que la conversation ce
 
 Parce que l’homme aurait pu, à cet instant, faire ce que font les vendeurs : redoubler, presser, promettre. Il ne le fit pas. Il resta un moment les yeux au sol, puis les releva, non vers Drakhan mais vers la fille.
 
-« Je ne vais pas te dire que ça ne coûtera rien, dit-il. Ça coûtera tout. Je te le dois, puisque tu es la seule à avoir demandé le prix. Si ton père fait ce que je suis venu lui proposer, il ne reviendra pas. Tu le sais déjà — tu l’as su avant moi, je l’ai vu à ta manière de te mettre devant lui. Alors non, je ne viens pas allumer une colère qui dort. Je viens demander à un homme de mourir pour une idée qu’il partage sans le savoir. C’est laid dit comme ça. C’est laid dit autrement aussi. Je n’ai pas de manière propre de le dire. »
+« Je ne vais pas te dire que ça ne coûtera rien, dit-il. Ça coûtera tout. Je te le dois, puisque tu es la seule à avoir demandé le prix. Si ton père fait ce que je suis venu lui proposer, il ne reviendra pas. Tu le sais déjà : tu l’as su avant moi, je l’ai vu à ta manière de te mettre devant lui. Alors non, je ne viens pas allumer une colère qui dort. Je viens demander à un homme de mourir pour une idée qu’il partage sans le savoir. C’est laid dit comme ça. C’est laid dit autrement aussi. Je n’ai pas de manière propre de le dire. »
 
 Drakhan avait cessé de forger depuis longtemps. La barre, oubliée dans le feu, était passée du rouge mûr au blanc, gâchée ; il la vit du coin de l’œil se perdre et ne bougea pas pour la sauver, ce qui, chez lui, ne s’était pas produit depuis quarante ans.
 
@@ -166,9 +166,9 @@ Drakhan avait cessé de forger depuis longtemps. La barre, oubliée dans le feu,
 
 Personne ne parla. La goutte à l’auge, le tassement d’une braise, la barre qui se gâchait dans le blanc.
 
-« Père, dit Kessa, tout bas, et pour la première fois de la soirée sa voix trembla — non de colère, de la chose qui est sous la colère et qu’on cache dessous. Ne réponds pas ce soir. Quoi que tu penses. Ne lui réponds pas ce soir. »
+« Père, dit Kessa, tout bas, et pour la première fois de la soirée sa voix trembla, non de colère, de la chose qui est sous la colère et qu’on cache dessous. Ne réponds pas ce soir. Quoi que tu penses. Ne lui réponds pas ce soir. »
 
-Drakhan ne répondit pas ce soir-là. Il le lui devait, cela au moins ; il n’avait plus beaucoup à lui donner, mais il pouvait lui donner de ne pas dire oui devant elle, tout de suite, dans la remise, avec la barre qui se gâchait au feu. S’avançant vers l’étranger, il essuya sa paume à son tablier — le geste qu’on fait avant de sceller un marché, et il vit que Kessa le vit, et il le fit quand même parce que sa main avait décidé avant lui — puis il ne tendit pas la main. Il la retint contre son flanc.
+Drakhan ne répondit pas ce soir-là. Il le lui devait, cela au moins ; il n’avait plus beaucoup à lui donner, mais il pouvait lui donner de ne pas dire oui devant elle, tout de suite, dans la remise, avec la barre qui se gâchait au feu. S’avançant vers l’étranger, il essuya sa paume à son tablier, le geste qu’on fait avant de sceller un marché, et il vit que Kessa le vit, et il le fit quand même parce que sa main avait décidé avant lui ; puis il ne tendit pas la main. Il la retint contre son flanc.
 
 « Tu reviendras, dit-il. Pas ce soir. Tu reviendras, et tu me diras exactement ce que dit ton livre, en entier, sans en sauter les morceaux qui me donneraient tort. Je ne suis pas savant. Je ne sais pas lire. Mais je sais quand un homme me cache la moitié d’une pièce pour me vendre l’autre. Tu me diras tout. Le pour et le contre. Ce que ta fille à toi te dirait, si tu en avais une. »
 
@@ -192,11 +192,11 @@ Kessa alla sauver ce qui pouvait l’être de la barre — rien ; elle la sorti
 
 — Il ne m’a pas eu.
 
-— Il ne t’a pas menti. C’est pire. » Elle tisonna les braises, longuement, comme sa mère avant elle, comme elle-même le ferait des années plus tard un autre soir dont ni l’un ni l’autre ne savaient encore qu’il viendrait. « Un homme qui te ment, tu te défends. Un homme qui te dit la vérité, même le prix, même ma question qu’il n’a pas su réfuter — contre celui-là, on n’a pas de défense. Il t’a donné toutes les raisons de dire non et tu vas dire oui quand même. »
+— Il ne t’a pas menti. C’est pire. » Elle tisonna les braises, longuement, comme sa mère avant elle, comme elle-même le ferait des années plus tard un autre soir dont ni l’un ni l’autre ne savaient encore qu’il viendrait. « Un homme qui te ment, tu te défends. Un homme qui te dit la vérité, même le prix, même ma question qu’il n’a pas su réfuter : contre celui-là, on n’a pas de défense. Il t’a donné toutes les raisons de dire non et tu vas dire oui quand même. »
 
 Drakhan ne répondit pas. Elle avait raison, et il n’allait pas lui mentir à elle non plus, pas plus qu’il ne mentait au fer.
 
-Sur le rebord de la fenêtre, à un pas de lui, la cendre du Mont s’était déposée pendant qu’ils parlaient. Il la connaissait, cette poudre ; il l’avait sous les ongles depuis l’enfance, dans le pain, dans la gorge. Il ne la regarda pas. Mais cette nuit-là, pour la première fois depuis longtemps, quand la remise fut noire et que Kessa fut montée dormir, il posa ses paumes à plat sur le sol de terre battue, comme il faisait enfant, comme il n’osait plus faire — et très loin sous lui, très bas, il crut sentir, ou se souvint d’avoir toujours senti, une chaleur lente qui montait et descendait, montait et descendait, un souffle énorme et patient, un feu qui n’était pas encore un feu.
+Sur le rebord de la fenêtre, à un pas de lui, la cendre du Mont s’était déposée pendant qu’ils parlaient. Il la connaissait, cette poudre ; il l’avait sous les ongles depuis l’enfance, dans le pain, dans la gorge. Il ne la regarda pas. Mais cette nuit-là, pour la première fois depuis longtemps, quand la remise fut noire et que Kessa fut montée dormir, il posa ses paumes à plat sur le sol de terre battue, comme il faisait enfant, comme il n’osait plus faire, et très loin sous lui, très bas, il crut sentir, ou se souvint d’avoir toujours senti, une chaleur lente qui montait et descendait, montait et descendait, un souffle énorme et patient, un feu qui n’était pas encore un feu.
 
 Il retira ses mains.
 

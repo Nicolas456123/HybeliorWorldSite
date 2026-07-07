@@ -75,4 +75,4 @@ Pour l’instant.
 
 > **Fragment #5 — Journal de Thessan. J-1.**
 >
-> *« Demain. J’ai peur — non pas de ce que nous allons faire, mais de ce qui poussera à la place de ce que nous cassons. Nous savons ce qui va se casser. Nous ne savons pas ce qui va pousser. Personne ne le sait. Verithan lui-même ne le savait pas ; il l’a écrit dans ses dernières notes. J’ai vingt-cinq ans. Je ne veux pas mourir. J’y vais quand même. Que celui qui lira ceci comprenne au moins cela : nous n’y sommes pas allés légers. »*
+> *« Demain. J’ai peur, non pas de ce que nous allons faire, mais de ce qui poussera à la place de ce que nous cassons. Nous savons ce qui va se casser. Nous ne savons pas ce qui va pousser. Personne ne le sait. Verithan lui-même ne le savait pas ; il l’a écrit dans ses dernières notes. J’ai vingt-cinq ans. Je ne veux pas mourir. J’y vais quand même. Que celui qui lira ceci comprenne au moins cela : nous n’y sommes pas allés légers. »*
