@@ -18,9 +18,7 @@ La pluie de Lumasar a une couleur.
 
 Ce n’est pas une métaphore : c’est un fait optique, dû aux cristaux prismatiques qui affleurent dans la roche de cette région et dont les particules les plus fines sont perpétuellement en suspension dans l’atmosphère humide. Quand la pluie tombe sur Kelanor, elle traverse ce voile de poussière de cristal et se teinte d’un bleu pâle, presque imperceptible. On ne le remarque vraiment qu’en posant son manteau mouillé sur une surface claire : l’eau sèche en laissant sur le tissu de minuscules résidus nacrés. Ce matin-là, j’ai regardé mes mains après avoir tenu la capuche de mon manteau, et j’ai vu que mes paumes portaient ce reflet d’une couleur que Kharazir n’a pas. C’était la première fois que la différence entre les deux pays se montrait à moi autrement que par des mots.
 
-J’étais arrivé à Kelanor la veille au soir, après onze jours de route dans la caravane de Berand Holtis. Les sept premiers avaient traversé les dernières plaines de Kharazir. Les quatre suivants m’avaient fait entrer dans une géographie étrangère : moins d’herbes dorées, plus de roches translucides, des fenêtres en plaques de cristal qui diffusaient la lumière comme de l’eau versée. À chaque étape, l’air changeait. Plus lourd, plus humide, chargé de pluie, de pierre, d’encre et de poussière de parchemin.
-
-Ce n’est pas si loin de la vérité.
+J’étais arrivé à Kelanor la veille au soir, après onze jours de route dans la caravane de Berand Holtis. Les sept premiers avaient traversé les dernières plaines de Kharazir. Les quatre suivants m’avaient fait entrer dans une géographie étrangère : moins d’herbes dorées, plus de roches translucides, des fenêtres en plaques de cristal qui diffusaient la lumière comme de l’eau versée. À chaque étape, l’air devenait plus lourd, plus humide, chargé de pluie, de pierre, d’encre et de poussière de parchemin.
 
 ---
 
@@ -28,13 +26,13 @@ Kelanor n’est pas la capitale de Lumasar. C’est la première ville, ce qui e
 
 On me l’avait décrite plusieurs fois. Pas en bien, pas en mal, avec la précision clinique des gens qui y ont passé du temps et qui distinguent son utilité de son charme. Elle est construite en deux moitiés, disait-on, la moitié ordinaire et la moitié cristalline. Les voyageurs qui ont le sens pratique logent dans la première et visitent la seconde par curiosité ; ceux qui ont le sens de l’émerveillement font l’inverse ; ceux qui ont les deux se retrouvent à marcher entre les deux moitiés en essayant de décider qui ils sont.
 
-J’avais dormi dans la moitié ordinaire, dans une auberge de style qui ressemblait à Kharazir : bois sombre, odeur de bière et de laine humide, un propriétaire à la moustache soigneuse qui prenait son rôle de premier visage de Lumasar avec plus de formalité que de chaleur. Il avait regardé mon tissu jaune avec un regard que j’avais appris à lire en douze jours de voyage : pas d’hostilité, pas de bienvenue, une neutralité professionnelle qui signifiait que cela ne le regardait pas, ce qui était une amélioration sur beaucoup d’autres regards que j’avais reçus dans les dernières semaines.
+J’avais dormi dans la moitié ordinaire, dans une auberge dont le style rappelait Kharazir : bois sombre, odeur de bière et de laine humide, propriétaire à la moustache soigneuse. Il prenait son rôle de premier visage de Lumasar avec plus de formalité que de chaleur. Il avait regardé mon tissu jaune avec une expression que j’avais appris à lire en douze jours de voyage : pas d’hostilité, pas de bienvenue, une neutralité professionnelle qui signifiait que cela ne le regardait pas. C’était déjà mieux que beaucoup de regards reçus depuis ma révocation.
 
 Ce matin, sous la pluie bleue, j’avais traversé la ligne invisible qui sépare les deux moitiés de la ville.
 
-La moitié cristalline de Kelanor contredit les habitudes de l’œil. Les bâtiments sont en pierre blanche et en cristal prismatique. Les blocs translucides laissent passer la lumière en la brisant ; même sous un ciel couvert, les intérieurs ne sont jamais tout à fait dans l’ombre. Un mur ordinaire peut projeter, trois mètres plus loin, un rayon doré sur le pavé. Les tours académiques montent très haut, très fines, solides par leur matière et incertaines par la pluie qui les traverse.
+La moitié cristalline de Kelanor contredit les habitudes de l’œil. Les bâtiments sont en pierre blanche et en cristal prismatique. Les blocs translucides laissent passer la lumière en la brisant ; même sous un ciel couvert, les intérieurs ne sont jamais tout à fait dans l’ombre. Un mur ordinaire peut projeter, trois mètres plus loin, un rayon doré sur le pavé. Les tours académiques montent très haut, très fines, solides par leur matière et rendues presque irréelles par la pluie qui glisse à travers leurs parois.
 
-J’ai longé une de ces tours pendant un bon quart d’heure avant de m’apercevoir que je me contentais de regarder, ce que je ne m’étais pas permis de faire depuis Rukhsar. Il y a quelque chose, dans l’architecture de Lumasar, qui force l’attention vers le haut, vers les détails qui s’inscrivent en hauteur. Et je me demandais si c’était voulu, si les bâtisseurs de ces villes avaient cherché à créer un espace qui impose à ses habitants un certain rapport à la verticalité, à l’aspiration, à l’idée que ce qui compte se situe au-dessus du niveau du regard ordinaire.
+J’ai longé une de ces tours pendant un bon quart d’heure avant de m’apercevoir que je me contentais de regarder, ce que je ne m’étais pas permis de faire depuis Rukhsar. À Lumasar, les détails importants se trouvent rarement au niveau des yeux : devises gravées sous les corniches, passerelles hautes, balcons d’étude, cadrans solaires suspendus au-dessus des rues. Je me demandais si c’était voulu, si les bâtisseurs avaient cherché à créer une ville où chacun devait lever la tête pour comprendre ce qui comptait.
 
 Ce serait très Lumasar, comme ambition.
 
@@ -54,7 +52,7 @@ C’était le plan. C’était un plan de quelqu’un qui n’avait pas encore c
 
 ---
 
-Prismalith, que je n’avais pas encore atteinte, Kelanor n’étant que la porte d’entrée du pays, était pour moi une ville bâtie par des années de lecture indirecte. J’avais correspondu autrefois avec ses cartographes : échanges polis, précis, professionnels. Depuis ma révocation, plus rien. Les lettres envoyées depuis la route n’avaient reçu aucune réponse.
+Je n’avais pas encore atteint Prismalith. Kelanor n’était que la porte d’entrée du pays, mais la capitale existait déjà pour moi à travers des années de lecture indirecte. J’avais correspondu autrefois avec ses cartographes : échanges polis, précis, professionnels. Depuis ma révocation, plus rien. Les lettres envoyées depuis la route n’avaient reçu aucune réponse.
 
 Il me restait deux contacts possibles à Kelanor elle-même.
 
@@ -68,7 +66,7 @@ La rue des Imprimeurs méritait sa réputation de quartier transformé.
 
 Je l’avais atteinte par une série de ruelles où chaque tournant donnait sur un débat. C’est peut-être ce qui définit le mieux Lumasar : des gens qui discutent partout où deux corps peuvent s’arrêter. Sous la pluie qui diminuait, j’en croisai trois en moins d’une heure. Deux étudiants s’affrontaient sur une question de théorie onirique que je ne suivis pas. Un praticien vieillissant défendait, contre un homme de la rue, un arrêt du Tribunal sur l’accès des Voilés aux bibliothèques publiques. Le troisième débat était silencieux : deux Archivistes penchées sur un document posé sur un muret, se passant un stylet pour corriger les marges.
 
-Ce qui me frappait, dans ces scènes, c’était leur normalité. Pas leur exception. À Kharazir, un désaccord public, même entre étudiants, même sur un sujet théorique, attire les regards. Ici, personne ne regardait. Le débat était du bruit de fond, de l’air ambiant, quelque chose qui existait de la même façon que la pluie bleue et les cristaux dans les façades.
+Ce qui me frappait, dans ces scènes, c’était leur normalité. Pas leur exception. À Kharazir, un désaccord public, même entre étudiants, même sur un sujet théorique, attire les regards. Ici, personne ne regardait. Le débat faisait partie du décor, au même titre que la pluie bleue et les cristaux dans les façades.
 
 J’essayais de décider si cela me semblait admirable ou inquiétant.
 
@@ -78,7 +76,7 @@ Dans les vitrines : livres, pamphlets, jugements du Tribunal, almanachs astrono
 
 La boutique de Fendar Olis était au milieu de la rue, reconnaissable à son enseigne : une plume d’oie plantée dans un encrier de métal noir. La Révolution des Plumes avait commencé par des scribes refusant les restrictions du Cénacle. Les manuels aimaient cette histoire. Ils parlaient moins de la génération suivante, quand les académies avaient compris qu’il était plus efficace de contrôler la guilde que de la combattre.
 
-Fendar Olis était un homme d’une soixantaine d’années, d’une maigreur studieuse, avec des lunettes de cristal aux verres teintés légèrement dorés, le type de correction optique qui se fabrique à Myndora et qui coûte assez cher pour indiquer que son propriétaire a soit de l’argent, soit des priorités très affirmées dans ses dépenses. Ses mains portaient les marques permanentes de l’encre d’imprimerie : ce n’est pas une encre qui se lave entièrement, elle s’insinue dans les lignes de la peau et y reste. Il m’a accueilli avec une question directe avant même que j’aie eu le temps de me présenter.
+Fendar Olis était un homme d’une soixantaine d’années, d’une maigreur studieuse, avec des lunettes de cristal aux verres légèrement dorés. Ce genre de correction optique se fabrique à Myndora et coûte assez cher pour signaler soit de l’argent, soit des priorités très fermes. Ses mains portaient les marques permanentes de l’encre d’imprimerie : une encre qui ne se lave jamais entièrement, qui s’insinue dans les lignes de la peau et y reste. Il m’a accueilli avec une question directe avant même que j’aie eu le temps de me présenter.
 
 — Vous êtes le cartographe de Rukhsar, a-t-il dit. La nouvelle est arrivée avant vous.
 
@@ -120,7 +118,7 @@ Il remit ses lunettes.
 
 Il n’a pas dit : je suis désolé. Il a dit : c’est comme ça. Ce qui est, à sa façon, plus respectueux.
 
-La tisane qu’il m’avait préparée était une infusion de fleurs de cristal, une spécialité de Lumasar, à base de plantes qui poussent dans les zones où les formations de cristal prismatique enrichissent le sol de minéraux que les herboristes de Kharazir n’ont pas. L’infusion avait une couleur pâle, presque incolore, et un goût entre le miel et quelque chose que je ne saurais pas nommer, une note légèrement métallique, mais pas désagréable, qui persistait sur la langue après avoir avalé. J’en ai bu deux tasses en silence, parce que c’était aimable de sa part de les avoir préparées et parce que je n’avais rien d’autre à faire que réfléchir à la suite.
+La tisane qu’il m’avait préparée était une infusion de fleurs de cristal, une spécialité de Lumasar. Ces plantes poussent là où les formations prismatiques enrichissent le sol de minéraux inconnus des herboristes de Kharazir. L’infusion avait une couleur pâle, presque incolore, un goût de miel clair et une note métallique discrète qui persistait sur la langue. J’en ai bu deux tasses en silence, parce que c’était aimable de sa part de les avoir préparées et parce que je n’avais rien d’autre à faire que réfléchir à la suite.
 
 ---
 
@@ -128,11 +126,11 @@ La suite, ce fut l’Académie.
 
 Je veux dire : la tentative de l’Académie.
 
-L’Académie d’Invorial est la plus accessible des cinq grandes académies de Lumasar, dans tous les sens du terme : la plus accessible géographiquement pour les étrangers entrant par Kelanor, la plus accessible institutionnellement pour les candidats non lumasariens, et la plus accessible au sens architectural, ses bâtiments étant construits avec cette moitié ordinaire qui caractérise Kelanor elle-même, la pierre et le cristal y étant mêlés dans des proportions moins extrêmes qu’à Prismalith. On peut y entrer sans rendez-vous, à condition de passer par le Bureau des Visiteurs Étrangers et d’attendre qu’un Archiviste disponible veuille bien vous recevoir.
+L’Académie d’Invorial est la plus accessible des cinq grandes académies de Lumasar, dans tous les sens du terme. Géographiquement, elle accueille les étrangers qui entrent par Kelanor. Institutionnellement, elle reçoit les candidats non lumasariens plus volontiers que les autres. Même son architecture paraît moins intimidante : la pierre et le cristal s’y mêlent dans des proportions moins extrêmes qu’à Prismalith. On peut y entrer sans rendez-vous, à condition de passer par le Bureau des Visiteurs Étrangers et d’attendre qu’un Archiviste disponible veuille bien vous recevoir.
 
 J’ai attendu deux heures et demie.
 
-L’Archiviste qui m’a finalement reçu s’appelait Verian Soth. Il avait l’âge du premier emploi bien établi, pas encore de rides mais déjà une façon de tenir les épaules qui appartient aux gens dont la carrière a commencé à se figer dans une direction. Il était mince, propre, portait ses cheveux noirs coupés court, et avait aux mains l’inévitable tache d’encre de cristal, plus claire et plus irisée que l’encre ordinaire, caractéristique des scriptoria académiques. Il portait ses manteaux d’Archiviste avec la précision d’un homme qui a décidé que son appartenance institutionnelle était une de ses propriétés importantes.
+L’Archiviste qui m’a finalement reçu s’appelait Verian Soth. Il avait l’âge du premier emploi bien établi : pas encore de rides, mais déjà cette manière de tenir les épaules que prennent les gens dont la carrière commence à se figer. Il était mince, propre, les cheveux noirs coupés court. Ses mains portaient l’inévitable tache d’encre de cristal, plus claire et plus irisée que l’encre ordinaire, caractéristique des scriptoria académiques. Il portait son manteau d’Archiviste avec la précision d’un homme qui veut être reconnu par son institution avant même d’ouvrir la bouche.
 
 Il m’a reçu dans une salle d’entretien, un espace conçu pour ces échanges, neutre, avec une table et deux chaises et une fenêtre à plaque de cristal qui diffusait la lumière de l’après-midi en un spectre pâle sur le mur blanc. Il avait mon nom sur un formulaire devant lui, et le formulaire portait, dans une case en haut à droite, une annotation en rouge que je n’ai pas pu lire à l’envers mais dont la présence disait tout ce que je devais savoir.
 
@@ -154,11 +152,11 @@ Une pause. Le genre de pause que l’on prend quand le *mais* est trop lourd pou
 
 — Les mots sont ceux du Code.
 
-Il y avait dans sa voix quelque chose que je n’aurais pas su qualifier à ce moment-là, mais que je comprends mieux maintenant que je l’ai noté ici : ce n’était pas de la mauvaise foi. Il croyait ce qu’il disait. Il connaissait les textes et il les appliquait. Il était un homme des institutions qui applique les règles de ses institutions avec la conviction sincère que ces règles ont été faites pour de bonnes raisons par des gens plus sages que lui, et que s’y soustraire serait une forme d’arrogance.
+Il y avait dans sa voix une sincérité que je n’aurais pas su qualifier à ce moment-là, mais que je comprends mieux maintenant que je l’ai notée ici : ce n’était pas de la mauvaise foi. Il croyait ce qu’il disait. Il connaissait les textes et il les appliquait. Il était un homme des institutions, convaincu que les règles avaient été écrites pour de bonnes raisons par des gens plus sages que lui, et que s’y soustraire serait une forme d’arrogance.
 
 C’est peut-être la chose la plus décourageante qui existe : la bonne foi au service d’une règle injuste.
 
-J’ai quitté la salle d’entretien en pensant à Verian Soth comme à un type d’homme, l’archiviste qui croit en son institution sans la voir tout à fait. Il m’a fallu attendre la rue, le pavé luisant sous mes semelles et le froid qui revenait sur les épaules, pour que la pensée se présente sous une autre forme : pendant sept ans à Rukhsar, j’avais reçu sans broncher des dossiers que je classais sans poser de questions, sous le regard d’autres jeunes hommes que mon refus aurait peut-être un jour fait sortir dans une autre rue. Je n’ai pas voulu suivre cette pensée. Je l’ai notée et je l’ai rangée. Une note qu’on range est une note qu’on traitera plus tard, ou qu’on aura oubliée.
+J’ai quitté la salle d’entretien en pensant à Verian Soth comme à un type d’homme : l’Archiviste qui croit en son institution sans la voir tout à fait. Dans la rue, le pavé luisait sous mes semelles et le froid revenait sur mes épaules. Alors seulement, la pensée prit une autre forme. Pendant sept ans à Rukhsar, j’avais moi aussi reçu des dossiers, classé des demandes, appliqué des procédures sans poser assez de questions. Peut-être qu’un refus de ma part aurait un jour évité à quelqu’un de sortir humilié d’une salle comme celle-ci. Je n’ai pas voulu suivre cette pensée. Je l’ai notée et je l’ai rangée. Une note qu’on range est une note qu’on traitera plus tard, ou qu’on aura oubliée.
 
 Je suis reparti sans que les mots formels d’un refus aient jamais été prononcés. Les institutions bien huilées n’ont pas besoin de dire non. Elles peuvent ne pas être en mesure de vous aider compte tenu des circonstances actuelles, puis vous indiquer des recours qui exigent précisément ce que l’on vient de vous retirer.
 
@@ -168,9 +166,9 @@ Ce soir-là, j’ai mangé seul dans une taverne du quartier des étudiants, à 
 
 La taverne s’appelait Le Prisme et la Plume, un nom qui résume assez bien les deux symboles de la ville. Elle était petite, basse de plafond, avec des tables rapprochées et une clientèle d’initiés et d’Archivistes de bas rang qui débattaient encore, même ici, même après les cours, avec ce que je reconnaissais maintenant comme une habitude profonde plutôt qu’un enthousiasme particulier.
 
-On m’a servi le menu du soir : du pain de cristal, cette particularité de la cuisine de Lumasar, une farine mêlée de poudre de cristal prismatique finement broyée qui donne au pain une texture légèrement plus dense et un éclat nacré sous la lumière, avec un accompagnement de champignons confits aux épices de Dromolia et un bol de soupe aux légumes-racines dans un bouillon parfumé à la fleur de cristal. Le tout arrosé d’un verre de ce que l’on appelle ici la Lueur de Thalvar, une bière légèrement phosphorescente qui brille d’un bleu délicat dans l’obscurité et dont les clients du Prisme et la Plume semblaient fort bien se contenter.
+On m’a servi le menu du soir : du pain de cristal, une particularité de la cuisine de Lumasar. La farine, mêlée de poudre de cristal prismatique finement broyée, donne au pain une texture plus dense et un éclat nacré sous la lumière. Avec cela venaient des champignons confits aux épices de Dromolia et un bol de soupe aux légumes-racines dans un bouillon parfumé à la fleur de cristal. Le tout était arrosé d’un verre de Lueur de Thalvar, une bière légèrement phosphorescente qui brille d’un bleu délicat dans l’obscurité et dont les clients du Prisme et la Plume semblaient fort bien se contenter.
 
-Je l’ai regardée briller dans mon verre pendant un moment avant d’en boire la première gorgée. Elle avait un goût de grain et de quelque chose de plus subtil, une note légère, presque florale, qui persistait après le passage. On dit qu’elle provoque des rêves agréables. J’ai bu le verre entier sans me soucier de l’effet promis, parce que je me sentais incapable de rêver quoi que ce soit d’agréable pour le moment.
+Je l’ai regardée briller dans mon verre pendant un moment avant d’en boire la première gorgée. Elle avait un goût de grain, avec une note légère, presque florale, qui persistait après le passage. On dit qu’elle provoque des rêves agréables. J’ai bu le verre entier sans me soucier de l’effet promis, parce que je me sentais incapable de rêver quoi que ce soit d’agréable pour le moment.
 
 À la table d’à côté, deux hommes discutaient d’un jugement récent du Tribunal. Un Voilé avait contesté son exclusion d’une bibliothèque publique de Prismalith. Il avait gagné. L’administration n’avait pas appliqué la décision.
 
@@ -180,7 +178,7 @@ Je l’ai regardée briller dans mon verre pendant un moment avant d’en boire 
 
 — Pour les dix-sept pour cent, ailleurs ou ici ne change rien. La porte reste fermée.
 
-Je les ai écoutés, ces deux hommes, débattre avec une précision passionnée du fonctionnement d’un système qui m’avait repoussé dans la journée avec la même précision. Je n’étais pas en colère. J’étais fatigué d’une façon qui n’avait pas de rapport avec le voyage. La fatigue de quelqu’un qui a compris une chose nouvelle et dont la compréhension est encore en train de s’étendre dans des directions auxquelles il n’était pas préparé.
+Je les ai écoutés débattre avec une précision passionnée du fonctionnement d’un système qui m’avait repoussé dans la journée avec la même précision. Je n’étais pas en colère. J’étais fatigué d’une façon qui n’avait pas de rapport avec le voyage : la fatigue de comprendre enfin une chose et de la voir aussitôt s’étendre dans des directions auxquelles on n’était pas préparé.
 
 Lumasar débat. Lumasar publie, archive, classe, argumente. Les idées y ont plus d’espace qu’ailleurs.
 
@@ -190,15 +188,15 @@ Mais certaines idées n’ont pas besoin d’être interdites. Il suffit de cré
 
 Il y a une chose que je n’ai pas encore mentionnée dans cette entrée, et que je dois mentionner maintenant parce qu’elle est peut-être la plus importante.
 
-Le lendemain matin de mon arrivée à Kelanor, avant même ma visite chez Fendar Olis, j’avais croisé dans la rue des Marchands un homme que je reconnais maintenant, avec la clarté froide et un peu nauséeuse que donnent les recoupements tardifs, comme quelqu’un qui n’était pas là par hasard.
+Le lendemain matin de mon arrivée à Kelanor, avant même ma visite chez Fendar Olis, j’avais croisé dans la rue des Marchands un homme que je reconnais maintenant comme quelqu’un qui n’était pas là par hasard. Les recoupements tardifs donnent à ce genre de souvenir une clarté froide, presque nauséeuse.
 
-Il s’appelait, d’après ce que j’ai appris plus tard par une conversation indirecte, Orath Dovan. Je l’ai identifié après coup grâce à une description qu’un libraire de la rue des Imprimeurs avait donnée dans une conversation à laquelle je n’étais pas censé prêter attention : Consul adjoint aux Relations Académiques Extérieures, un titre qui n’existe pas dans les textes officiels du Code de Lumasar mais qui décrit une fonction bien réelle, celle de quelqu’un dont le rôle consiste à gérer les affaires étrangères qui impliquent des institutions académiques et qui préfère ne pas passer par les canaux officiels.
+Il s’appelait, d’après ce que j’ai appris plus tard, Orath Dovan. Je l’ai identifié après coup grâce à une description donnée par un libraire de la rue des Imprimeurs dans une conversation à laquelle je n’étais pas censé prêter attention. Consul adjoint aux Relations Académiques Extérieures : le titre n’existe pas dans les textes officiels du Code de Lumasar, mais il décrit une fonction réelle. Orath Dovan gérait les affaires étrangères impliquant des institutions académiques, surtout quand personne ne souhaitait passer par les canaux officiels.
 
 Orath Dovan avait une cinquantaine d’années, une carrure solide dans un manteau anthracite, des cheveux gris coupés nets, et des yeux qui faisaient ce que j’appelle le balayage : un regard qui enregistre sans s’arrêter.
 
 Il ne m’a pas adressé la parole. Il passait, il regardait, il continuait.
 
-Mais ce soir, en réfléchissant à la journée dans ma chambre d’auberge, une chambre propre et silencieuse, dont les murs de pierre blanche reflétaient la lumière des cristaux extérieurs en un éclat diffus qui aurait dû être reposant et qui me semblait plutôt froid, j’ai compris que cet homme savait qui j’étais avant que je me sois présenté. Que ma présence à Kelanor avait été notée avant mon arrivée. Que les institutions de Lumasar, quelle que soit leur différence de nature d’avec celles de Kharazir, communiquent entre elles par des canaux qui n’apparaissent pas dans les textes officiels.
+Ce soir-là, dans ma chambre d’auberge, j’ai repensé à lui. La chambre était propre et silencieuse. Ses murs de pierre blanche reflétaient la lumière des cristaux extérieurs en un éclat diffus qui aurait dû être reposant et qui me semblait plutôt froid. J’ai compris que cet homme savait qui j’étais avant que je me sois présenté. Ma présence à Kelanor avait été notée avant mon arrivée. Les institutions de Lumasar, si différentes qu’elles prétendent être de celles de Kharazir, communiquent elles aussi par des canaux qui n’apparaissent pas dans les textes officiels.
 
 J’aurais pu garder cette conclusion pour moi. C’est ce qu’un homme raisonnable aurait fait.
 
@@ -244,13 +242,13 @@ La notification de sympathie Catena Fracta avait voyagé plus vite que moi.
 
 J’ai relu, ce soir-là, quelques pages du carnet de mon père.
 
-Les pages que j’avais évitées jusqu’ici, celles qui concernent non pas ses observations astronomiques régulières, mais une série de notes que je savais exister et dont je n’avais jamais voulu lire le contenu parce que je savais qu’une fois lues, elles m’obligeraient à penser des choses que je n’étais pas encore prêt à penser.
+J’ai relu les pages que j’avais évitées jusqu’ici. Elles ne concernaient pas ses observations astronomiques régulières, mais une série de notes dont je connaissais l’existence sans avoir jamais voulu les lire. Une fois lues, elles m’obligeraient à penser des choses que je n’étais pas encore prêt à penser.
 
-Mon père y note, avec la précision méthodique qu’il appliquait à tout, une série de rencontres. Des rencontres avec d’autres bergers des collines de Hiliara et d’Ysundara, avec des colporteurs de passage, avec une femme érudite dont le nom est abrégé dans les notes d’une façon que je lis maintenant comme Veyla, l’érudite de l’histoire que l’on raconte à Valthorn, celle qui était venue étudier ses relevés astronomiques et qui avait reçu la lettre du Grand Recteur Thalendris. Mon père note leurs conversations, résumées dans des phrases courtes et directes qui ressemblent moins à de la littérature qu’à des relevés de terrain.
+Mon père y note, avec la précision méthodique qu’il appliquait à tout, une série de rencontres. Il parle d’autres bergers des collines de Hiliara et d’Ysundara, de colporteurs de passage, d’une femme érudite dont le nom est abrégé d’une façon que je lis maintenant comme Veyla. La même Veyla que dans l’histoire de Valthorn : celle qui était venue étudier ses relevés astronomiques et qui avait reçu la lettre du Grand Recteur Thalendris. Mon père résume leurs conversations en phrases courtes et directes. Moins de la littérature que des relevés de terrain.
 
 Ce qu’il note, dans ces conversations, concerne les tunnels.
 
-Pas les mêmes tunnels que j’ai trouvés, ou peut-être si, je ne le sais pas encore avec certitude. Des tunnels sous les collines de Hiliara, dans une zone que j’aurais pu cartographier si j’avais cherché dans la bonne direction, sous un affleurement rocheux que mon père décrit avec une précision suffisante pour que je puisse en calculer l’emplacement approximatif.
+Pas les mêmes tunnels que j’ai trouvés, ou peut-être si ; je ne le sais pas encore avec certitude. Ceux-là se trouvent sous les collines de Hiliara, dans une zone que j’aurais pu cartographier si j’avais cherché dans la bonne direction. Mon père décrit l’affleurement rocheux avec assez de précision pour que je puisse en calculer l’emplacement approximatif.
 
 Des tunnels que mon père a visités. Dont il a lu les inscriptions. Dont il a calculé, par ses relevés astronomiques, qu’ils avaient été construits dans une période antérieure à l’Arrachement.
 
@@ -266,11 +264,11 @@ Ce que je ne sais pas, c’est si mon père a obéi à la lettre ou s’il n’a
 
 Kelanor, la nuit, a une beauté que je n’avais pas prévue.
 
-Les cristaux des façades réfractent la lumière des lanternes de rue en arcs-en-ciel qui glissent lentement sur les pavés à mesure que les flammes bougent dans le vent. La pluie avait cessé, et l’air de la nuit était clair, plus clair que le ciel de Kharazir, qui garde toujours une légère brume des plaines. J’étais sorti de l’auberge parce que la chambre me serrait trop après la lecture du carnet, et j’ai marché pendant une heure dans des rues presque désertes, sous ces arcs-en-ciel nocturnes qui se reformaient à chaque brise.
+Les cristaux des façades réfractent la lumière des lanternes de rue en arcs-en-ciel qui glissent lentement sur les pavés à mesure que les flammes bougent dans le vent. La pluie avait cessé, et l’air de la nuit était clair, plus clair que le ciel de Kharazir, qui garde toujours une légère brume des plaines. J’étais sorti de l’auberge parce que la chambre me serrait trop après la lecture du carnet. J’ai marché pendant une heure dans des rues presque désertes, sous ces arcs-en-ciel nocturnes qui se reformaient à chaque brise.
 
-Il y a, dans la moitié cristalline de Kelanor, une place qui n’est pas sur les cartes officielles de la ville, ou plutôt, elle y est, mais sans nom particulier, comme si ceux qui ont nommé les espaces de la ville avaient oublié de s’arrêter là. C’est une petite place, encadrée par trois bâtiments académiques et ouverte sur un quatrième côté vers une ruelle. Au centre : une fontaine, tarie ce soir, dont le bassin de pierre blanche avait recueilli l’eau de pluie de la journée et réfléchissait les cristaux des façades en un miroitement immobile. Tout autour du bassin, plantées dans les joints des pavés, des plumes.
+Il y a, dans la moitié cristalline de Kelanor, une place qui n’est pas vraiment sur les cartes officielles de la ville. Elle y figure, mais sans nom particulier, comme si ceux qui avaient nommé les espaces avaient oublié de s’arrêter là. C’est une petite place, encadrée par trois bâtiments académiques et ouverte, sur le quatrième côté, vers une ruelle. Au centre : une fontaine tarie, dont le bassin de pierre blanche avait recueilli l’eau de pluie de la journée et réfléchissait les cristaux des façades en un miroitement immobile. Tout autour du bassin, plantées dans les joints des pavés, des plumes.
 
-Des vraies plumes, de toutes les tailles et de toutes les couleurs, maintenues verticalement par leur tuyau enfoncé dans les interstices de la pierre. Des dizaines de plumes. Je n’avais aucune explication pour elles : aucun texte que j’avais lu ne mentionnait cette coutume. Elles étaient simplement là, dans la fontaine tarie, comme si quelqu’un avait voulu rappeler quelque chose à la ville.
+De vraies plumes, de toutes les tailles et de toutes les couleurs, maintenues verticalement par leur tuyau enfoncé dans les interstices de la pierre. Des dizaines de plumes. Je n’avais aucune explication pour elles : aucun texte que j’avais lu ne mentionnait cette coutume. Elles étaient là, dans la fontaine tarie, comme un rappel adressé à ceux qui sauraient le lire.
 
 J’ai pensé à la Révolution des Plumes. Aux scribes qui, vingt-sept siècles plus tôt, avaient refusé les restrictions du Cénacle et s’étaient organisés en guilde libre. J’ai pensé à la façon dont cette révolution avait été récupérée, absorbée, neutralisée par les mêmes institutions qu’elle contestait. J’ai pensé que peut-être ces plumes dans la fontaine étaient posées par quelqu’un qui se souvenait de l’original plus que de la récupération. Ou peut-être étaient-elles posées par des étudiants du Somnium Vigil dans le cadre d’un rituel que je ne connais pas. Ou peut-être était-ce simplement une tradition locale que personne ne saurait m’expliquer si je posais la question.
 
@@ -280,19 +278,19 @@ J’ai posé la main sur le bord de la fontaine et regardé le reflet des crista
 
 Je ne suis pas en sécurité ici. Je l’ai compris aujourd’hui avec la précision que l’on réserve aux choses qu’on espérait ne pas avoir à comprendre. Lumasar n’est pas Kharazir. On ne viendra pas saisir mes effets et révoquer des accréditations que je n’ai plus. Mais les institutions communiquent, et la notification de sympathie Catena Fracta est un outil suffisamment souple pour fermer les portes sans qu’on ait à les fermer officiellement. La liberté de Lumasar est réelle. Ses limites aussi.
 
-Ce que j’ai compris, plus difficilement que le refus de Verian Soth, plus durement que la tisane froide de Fendar Olis, c’est que je n’avais pas vraiment préparé de plan B.
+Ce que j’ai compris, plus difficilement que le refus de Verian Soth, c’est que je n’avais pas vraiment préparé de plan B.
 
-J’avais quitté Kharazir avec l’idée que Lumasar serait différent, parce que tout le monde dit que Lumasar est différent. Tout le monde le dit parce que c’est vrai, dans un sens. Mais différent ne signifie pas imperméable aux mêmes pressions, juste vêtu d’habits différents.
+J’avais quitté Kharazir avec l’idée que Lumasar serait différent, parce que tout le monde dit que Lumasar est différent. Tout le monde le dit parce que c’est vrai, dans un sens. Mais différent ne signifie pas hors d’atteinte. Les mêmes pressions y circulent, simplement par d’autres couloirs.
 
 Le carnet de mon père pèse contre ma côte. Les plumes dans la fontaine ne bougent pas. La pluie de demain aura, comme aujourd’hui, cette couleur légèrement bleue que l’on remarque sur ses paumes après une heure à l’extérieur.
 
-Je dois penser à la suite. Prismalith est encore à deux jours de route, mais après ce que Verian Soth m’a dit, y entrer en candidat aujourd’hui, c’est entrer dans un autre Bureau des Visiteurs, plus ancien, mieux meublé, d’une politesse plus exigeante. Les bibliothèques de Prismalith ne s’ouvriront pas davantage à un Délié sans accréditation qu’à un sympathisant Catena Fracta annoncé par la lettre du Grand Recteur Thalendris. J’y ai pensé toute la nuit. La conclusion n’a pas changé au matin : Prismalith attendra. Je n’y entrerai pas en demandeur ; j’y entrerai, si j’y entre un jour, avec une matière qu’aucune lettre du Grand Recteur n’aura pu classer avant moi. Et cette matière-là n’est pas dans les archives, elle est sur les routes.
+Je dois penser à la suite. Prismalith est encore à deux jours de route, mais après ce que Verian Soth m’a dit, y entrer en candidat aujourd’hui reviendrait à pousser la porte d’un autre Bureau des Visiteurs, plus ancien, mieux meublé, d’une politesse plus exigeante. Les bibliothèques de Prismalith ne s’ouvriront pas davantage à un Délié sans accréditation qu’à un sympathisant Catena Fracta annoncé par la lettre du Grand Recteur Thalendris. J’y ai pensé toute la nuit. La conclusion n’a pas changé au matin : Prismalith attendra. Je n’y entrerai pas en demandeur. Si j’y entre un jour, ce sera avec une matière qu’aucune lettre du Grand Recteur n’aura pu classer avant moi. Et cette matière-là n’est pas dans les archives. Elle est sur les routes.
 
 J’ai donc décidé autre chose. Si Lumasar me ferme ses fonds documentaires, c’est dehors qu’il faudra les chercher : dans ce qui se voit sur le terrain et qu’aucune lettre n’a encore classifié. Plus loin que Lumasar, plus loin que Galenor même.
 
-Ce qui est, en soi, une façon de commencer à être un cartographe de quelque chose de plus grand que des frontières.
+C’est peut-être ainsi que l’on commence à cartographier autre chose que des frontières.
 
-Les frontières, j’avais appris à les tracer. Ce que je n’avais pas appris, c’était quoi faire quand on se trouve de l’autre côté de celles qu’on ne peut pas cartographier : les frontières de l’acceptable, de l’autorisé, de ce qu’une institution peut tolérer que l’on sache.
+Les frontières, j’avais appris à les tracer. Ce que je n’avais pas appris, c’était ce qu’il fallait faire quand on se trouve de l’autre côté de celles qu’on ne peut pas cartographier : les frontières de l’acceptable, de l’autorisé, de ce qu’une institution peut tolérer que l’on sache.
 
 Mon père avait peut-être appris. La façon dont il a disparu ne dit pas qu’il avait réussi. Elle dit seulement qu’il avait essayé.
 
