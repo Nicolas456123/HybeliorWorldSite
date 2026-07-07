@@ -490,7 +490,7 @@ Parmi les cas documentés les plus enigmatiques de l'Ere VI figure l'expedition 
 
 ## Civilisations Intermédiaires de l'Ère VI
 
-> L'Ère VI ne se réduit pas aux 7 guerres majeures et aux nations actuelles. Entre les royaumes de l'Ère V et les 38 nations qui composent la mosaïque politique de la fin de l'Ère, plus de 60 civilisations régionales ont existé, prospéré et disparu. Ce sont ces entités intermédiaires — et non les nations actuelles — qui sont les protagonistes directs des guerres listées ci-dessus.
+> L'Ère VI ne se réduit pas aux 7 guerres majeures et aux nations actuelles. Entre les royaumes de l'Ère V et les 36 nations reconnues qui composent la mosaïque politique de la fin de l'Ère, plus de 60 civilisations régionales ont existé, prospéré et disparu. Ce sont ces entités intermédiaires — et non les nations actuelles — qui sont les protagonistes directs des guerres listées ci-dessus.
 
 > [!note] Lecture wildlands des tableaux ci-dessous
 > Les "territoires" listés correspondent aux **zones tenues** par chaque civilisation : capitales, routes principales, terres agricoles, postes frontières. Aucune de ces entités, même les plus expansionnistes (Drakhal, Ligue de Kharavel, Empire Kalvorn), ne couvre intégralement son continent. Les "causes de chute" inscrivent généralement la perte de contrôle des couloirs tenus, jamais une "déconquête" des wildlands — qui ne sont jamais conquis pour commencer. Quand une civilisation s'effondre, ses wildlands restent ce qu'ils étaient ; ce qui change, c'est qui contrôle les corridors.

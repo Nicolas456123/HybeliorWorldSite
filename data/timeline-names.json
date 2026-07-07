@@ -532,7 +532,7 @@
         "name": "Ere V — Grande Nuit (An 0 → ~3 000 ap.A)",
         "startYear": 0,
         "endYear": 3000,
-        "description": "3 000 ans de chaos. Empires effondrés. Trois royaumes intermediaires : Tharnok (Alkaran, forteresse de pierre), Forgon (Onara/Azoria, puissance maritime), Drahk'Nor (Ilthara/Endora, armee sans Lien). Fleau des Failles (~1 500 ap.A) elimine 40% des survivants. Population : 120M (An 0) → 90M → 18M (~3 000 ap.A).",
+        "description": "3 000 ans de chaos. Empires effondrés. Trois royaumes intermediaires : Tharnok (Alkaran, forteresse de pierre), Forgon (Onara/Azoria, puissance maritime), Drahk'Nor (Ilthara/Endora, armee sans Lien). Fleau des Failles (~1 400-1 600 ap.A) : ~30M → ~18M, Tisses decimes. Population : ~90M apres l'Arrachement → ~60-70M en stabilisation → ~18M au pic du Fleau.",
         "continents": [
           {
             "currentName": "Alkaran",
@@ -624,7 +624,7 @@
         "name": "Ere VI — Nations (~3 000 → ~9 500 ap.A)",
         "startYear": 3000,
         "endYear": 9500,
-        "description": "38+ nations emergent depuis les royaumes intermediaires. 7 guerres majeures faconnent les frontieres. Guildes transnationales, systemes monetaires, routes commerciales. La Cristallisation (~8 000 → ~9 500) stabilise les frontieres. Traite des Treize Continents (~9 500 ap.A, 64 signataires) cloture l'ere.",
+        "description": "36 nations reconnues emergent depuis les royaumes intermediaires. 7 guerres majeures faconnent les frontieres. Guildes transnationales, systemes monetaires, routes commerciales. La Cristallisation (~8 000 → ~9 500) stabilise les frontieres tenues. Plusieurs projets de cadre commun echouent : aucun instrument supranational ne cloture l'ere.",
         "continents": [
           {
             "currentName": "Alkaran",
@@ -636,7 +636,7 @@
             "currentName": "Azoria",
             "historicalName": "Azoria",
             "meaning": "Nom moderne stabilise (~3 600 avec fondation d'Azoral)",
-            "notes": "Forgon → Azoral (~3 600), Kethvar (~5 800), Solmaris (~6 300). Traite des Treize Continents."
+            "notes": "Forgon → Azoral (~3 600), Kethvar (~5 800), Solmaris (~6 300). Accords regionaux azoriens, sans cadre supranational."
           },
           {
             "currentName": "Baelor",
@@ -711,12 +711,12 @@
         "name": "Ere VII — Actuelle (~9 500 → ~10 200 ap.A)",
         "startYear": 9500,
         "endYear": 10200,
-        "description": "Paix fragile sous le Traite des Treize Continents (700 ans sans guerre inter-etatique majeure). Clivage Lies/Delies (~30% Lies). Catena Fracta. Guerre de l'Ombre (~9 850 → present). Quatre mysteres actifs : Coeur de Cendra (pulse), Silence des Phenix, Message de Mirathi (~10 064), Faille d'Ordavan (~10 142).",
+        "description": "Paix fragile fondee sur des accords bilateraux et pactes regionaux, sans cadre supranational. Clivage Lies/Delies (~30% Lies). Catena Fracta. Guerre de l'Ombre (~9 850 → present). Quatre mysteres actifs : Coeur de Cendra (pulse), Silence des Phenix, Message de Mirathi (~10 064), Faille d'Ordavan (~10 142).",
         "continents": [
           {
             "currentName": "Alkaran",
             "historicalName": "Alkaran",
-            "meaning": "Nom canonique — Traite des Treize Continents (~9 500 ap.A)",
+            "meaning": "Nom canonique — usage cartographique stabilise vers ~9 500 ap.A",
             "nations": ["Altram", "Iskara", "Ferrath"],
             "notes": "Coeur metallurgique du monde. Heritage de l'Empire de Lithane."
           },
@@ -1338,7 +1338,7 @@
         "currentName": "Noravia",
         "continent": "Cestra",
         "timeline": [
-          { "era": "era6_nations", "name": "Noravia", "type": "colonie", "startYear": 8100, "endYear": 10200, "notes": "Premiere colonisation stable de Cestra. Aurores boreales de Lumiveil. Integration controversee au Traite des Treize Continents. Cherche peut-etre le Mont Jumeau." }
+          { "era": "era6_nations", "name": "Noravia", "type": "colonie", "startYear": 8100, "endYear": 10200, "notes": "Premiere colonisation stable de Cestra. Aurores boreales de Lumiveil. Statut diplomatique controverse dans les accords continentaux. Cherche peut-etre le Mont Jumeau." }
         ]
       }
     ],
@@ -1449,7 +1449,7 @@
         "startYear": -8000,
         "endYear": 0,
         "successeur": "Forgon",
-        "notes": "Capitale Navoria (400 000 hab., engloutie en 3 jours lors de l'Arrachement). Plus grand empire maritime."
+        "notes": "Capitale Navoria (400 000 hab., engloutie en ~40 minutes lors de l'Arrachement). Plus grand empire maritime."
       },
       {
         "name": "Union des Flammes",
