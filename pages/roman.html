@@ -819,6 +819,13 @@
     white-space: pre-wrap;
     line-height: 1.45;
 }
+.chron-highlight-item-orphan {
+    font-style: italic;
+    color: #b5762a;
+    font-size: 0.74rem;
+    margin-top: 0.3rem;
+    line-height: 1.4;
+}
 .chron-highlight-item-actions {
     display: flex;
     gap: 6px;
@@ -2268,30 +2275,171 @@
         return marks;
     }
 
+    // ── Ancrage robuste ───────────────────────────────────
+    // Un surlignage doit survivre aux modifications du texte : offsets
+    // vérifiés, puis recherche de la citation (désambiguïsée par le
+    // contexte), puis recherche tolérante à la typographie, puis
+    // encadrement par le contexte si le passage a été réécrit. Les ancres
+    // retrouvées sont réécrites dans le stockage (auto-guérison) ; les
+    // introuvables deviennent des orphelins conservés dans le panneau.
+    var orphanIds = {};   // id -> true (session courante)
+
+    function allIndexesOf(hay, needle) {
+        var out = [];
+        if (!needle) return out;
+        var i = hay.indexOf(needle);
+        while (i !== -1 && out.length < 200) { out.push(i); i = hay.indexOf(needle, i + 1); }
+        return out;
+    }
+    // Normalisation tolérante (apostrophes, guillemets, blancs dont NBSP,
+    // tirets, casse) avec table de correspondance vers les index d'origine.
+    function normalizeWithMap(s) {
+        var chars = [], map = [], prevSpace = false;
+        for (var i = 0; i < s.length; i++) {
+            var c = s[i];
+            if (c === '’' || c === 'ʼ') c = "'";
+            else if (c === '«' || c === '»' || c === '“' || c === '”') c = '"';
+            else if (c === '—' || c === '–') c = '-';
+            else if (c === '…') c = '.';
+            if (/\s/.test(c)) {
+                if (prevSpace) continue;
+                prevSpace = true;
+                chars.push(' '); map.push(i);
+                continue;
+            }
+            prevSpace = false;
+            chars.push(c.toLowerCase()); map.push(i);
+        }
+        return { text: chars.join(''), map: map };
+    }
+    function sharedPrefixLen(a, b) { var n = 0; while (n < a.length && n < b.length && a[n] === b[n]) n++; return n; }
+    function sharedSuffixLen(a, b) { var n = 0; while (n < a.length && n < b.length && a[a.length - 1 - n] === b[b.length - 1 - n]) n++; return n; }
+    function scoreCandidate(plain, pos, len, h) {
+        var score = 0;
+        if (h.prefix) score += sharedSuffixLen(plain.slice(Math.max(0, pos - h.prefix.length), pos), h.prefix);
+        if (h.suffix) score += sharedPrefixLen(plain.slice(pos + len, pos + len + h.suffix.length), h.suffix);
+        if (typeof h.start === 'number') score -= Math.min(40, Math.abs(pos - h.start) / 500);
+        return score;
+    }
+    function pickBest(plain, occ, len, h) {
+        var best = occ[0], bestScore = -Infinity;
+        occ.forEach(function(pos) {
+            var s = scoreCandidate(plain, pos, len, h);
+            if (s > bestScore) { bestScore = s; best = pos; }
+        });
+        return best;
+    }
+    // Localise le passage dans le texte courant.
+    // Renvoie { start, end, healed } ou null (orphelin).
+    function locateHighlight(plain, h) {
+        var text = h.text || '';
+        if (!text) return null;
+        // 1. Offsets intacts (texte inchangé à cet endroit)
+        if (typeof h.start === 'number' && typeof h.end === 'number'
+            && h.end <= plain.length && plain.slice(h.start, h.end) === text) {
+            return { start: h.start, end: h.end, healed: false };
+        }
+        // 2. Citation exacte ailleurs (texte déplacé)
+        var occ = allIndexesOf(plain, text);
+        if (occ.length) {
+            var best = pickBest(plain, occ, text.length, h);
+            return { start: best, end: best + text.length, healed: true };
+        }
+        // 3. Citation retrouvée à la typographie/casse près
+        var np = normalizeWithMap(plain);
+        var nt = normalizeWithMap(text).text.trim();
+        if (nt) {
+            var occN = allIndexesOf(np.text, nt);
+            if (occN.length) {
+                var nh = {
+                    prefix: h.prefix ? normalizeWithMap(h.prefix).text : '',
+                    suffix: h.suffix ? normalizeWithMap(h.suffix).text : '',
+                    start: h.start
+                };
+                var bestN = pickBest(np.text, occN, nt.length, nh);
+                return { start: np.map[bestN], end: np.map[bestN + nt.length - 1] + 1, healed: true };
+            }
+        }
+        // 4. Passage réécrit : on encadre ce qui se trouve entre le contexte
+        if (h.prefix && h.suffix) {
+            var tries = [[h.prefix, h.suffix], [h.prefix.slice(-24), h.suffix.slice(0, 24)]];
+            for (var t = 0; t < tries.length; t++) {
+                var pre = tries[t][0], suf = tries[t][1];
+                if (!pre || !suf) continue;
+                var pOcc = allIndexesOf(plain, pre);
+                for (var i = 0; i < pOcc.length; i++) {
+                    var from = pOcc[i] + pre.length;
+                    var sIdx = plain.indexOf(suf, from);
+                    if (sIdx !== -1 && sIdx > from && sIdx - from <= Math.max(120, text.length * 2)) {
+                        return { start: from, end: sIdx, healed: true };
+                    }
+                }
+            }
+        }
+        return null;
+    }
+    // Réécrit les ancres retrouvées dans le stockage (une seule écriture).
+    function batchHealHighlights(heals, plain) {
+        var arr = loadHighlights();
+        var byId = {};
+        arr.forEach(function(x, i) { byId[x.id] = i; });
+        var now = Date.now();
+        heals.forEach(function(item) {
+            var i = byId[item.h.id];
+            if (i === undefined) return;
+            var pos = item.pos;
+            var newText = plain.slice(pos.start, pos.end);
+            arr[i].start = pos.start;
+            arr[i].end = pos.end;
+            arr[i].text = newText;
+            arr[i].prefix = plain.slice(Math.max(0, pos.start - 48), pos.start);
+            arr[i].suffix = plain.slice(pos.end, pos.end + 48);
+            arr[i].updatedAt = now;
+            item.h.start = pos.start; item.h.end = pos.end; item.h.text = newText;
+            item.h.prefix = arr[i].prefix; item.h.suffix = arr[i].suffix;
+        });
+        saveHighlights(arr);
+        scheduleAutoPush();
+    }
+
     function applyHighlight(highlight) {
         var content = getContentEl();
         if (!content) return;
         if (content.querySelector('mark[data-highlight-id="' + highlight.id + '"]')) return;
-        var range = offsetsToRange(highlight.start, highlight.end, content);
-        if (!range) {
-            // Fallback : recherche du snippet en texte brut
-            var plain = content.textContent || '';
-            var idx = plain.indexOf(highlight.text || '');
-            if (idx === -1 || !highlight.text) return;
-            range = offsetsToRange(idx, idx + highlight.text.length, content);
-            if (!range) return;
-        }
-        wrapRangeWithMark(range, highlight);
+        var plain = content.textContent || '';
+        var pos = locateHighlight(plain, highlight);
+        if (!pos) { orphanIds[highlight.id] = true; return; }
+        delete orphanIds[highlight.id];
+        var range = offsetsToRange(pos.start, pos.end, content);
+        if (range) wrapRangeWithMark(range, highlight);
     }
 
     function applyAllHighlightsForCurrentChapter() {
+        var content = getContentEl();
+        if (!content) return;
+        var plain = content.textContent || '';
         var hls = getCurrentChapterHighlights();
-        // Tri par start desc : on enveloppe d'abord les plus tardifs pour
-        // ne pas perturber les offsets des plus précoces (les wrappers
-        // ajoutent des nœuds DOM mais conservent le textContent).
-        hls.sort(function(a, b) { return b.start - a.start; });
-        hls.forEach(applyHighlight);
+        var resolved = [], heals = [];
+        hls.forEach(function(h) {
+            if (content.querySelector('mark[data-highlight-id="' + h.id + '"]')) return;
+            var pos = locateHighlight(plain, h);
+            if (!pos) { orphanIds[h.id] = true; return; }
+            delete orphanIds[h.id];
+            if (pos.healed || !h.prefix) heals.push({ h: h, pos: pos });
+            resolved.push({ h: h, pos: pos });
+        });
+        if (heals.length) batchHealHighlights(heals, plain);
+        // Tri par position décroissante : on enveloppe d'abord les plus
+        // tardifs pour ne pas perturber les offsets des plus précoces (les
+        // wrappers ajoutent des nœuds DOM mais conservent le textContent).
+        resolved.sort(function(a, b) { return b.pos.start - a.pos.start; });
+        resolved.forEach(function(item) {
+            var range = offsetsToRange(item.pos.start, item.pos.end, content);
+            if (range) wrapRangeWithMark(range, item.h);
+            else orphanIds[item.h.id] = true;
+        });
         updateHighlightsCount();
+        if (hlPanel && hlPanel.classList.contains('open')) renderHighlightsList();
     }
 
     function createHighlight(start, end, text, color, note) {
@@ -2299,6 +2447,10 @@
         var ch = allChapters[currentChapterIdx];
         if (!ch) return null;
         var now = Date.now();
+        // Contexte d'ancrage : 48 caractères avant/après, pour retrouver le
+        // passage même si le texte est modifié par la suite.
+        var content = getContentEl();
+        var plain = content ? (content.textContent || '') : '';
         var hl = {
             id: genHlId(),
             chapterNum: ch.num,
@@ -2306,6 +2458,8 @@
             start: start,
             end: end,
             text: text,
+            prefix: plain.slice(Math.max(0, start - 48), start),
+            suffix: plain.slice(end, end + 48),
             color: color || DEFAULT_HL_COLOR,
             note: note || '',
             timestamp: now,
@@ -2621,6 +2775,7 @@
             html += '</div>';
             html += '<div class="chron-highlight-item-text">' + escHtml(truncateText(h.text, 240)) + '</div>';
             if (h.note) html += '<div class="chron-highlight-item-note">' + escHtml(h.note) + '</div>';
+            if (orphanIds[h.id]) html += '<div class="chron-highlight-item-orphan">⚠ Passage introuvable dans le texte actuel (modifié ou supprimé) — le surlignage et sa note sont conservés.</div>';
             html += '<div class="chron-highlight-item-actions">';
             html += '<button data-action="note">' + (h.note ? 'Modifier la note' : 'Ajouter une note') + '</button>';
             html += '<button data-action="delete">Supprimer</button>';
