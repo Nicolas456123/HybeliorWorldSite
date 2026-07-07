@@ -152,7 +152,10 @@
                     this._escape(tomeLabel) + '</a>';
             // Lecture continue + audio du tome entier
             html += '      <a class="sidebar-roman-lire" href="#livre/t' + roman.tome + '">' +
-                    '▶ Lire le livre en entier (audio)</a>';
+                    '▶ Lire le T1 en entier (audio)</a>';
+            // Tome 2 : lecture continue (le sommaire par chapitre reste T1 pour l\'instant)
+            html += '      <a class="sidebar-roman-lire" href="#livre/t2">' +
+                    '▶ Lire le T2 — L’Heure qui se Referme (audio)</a>';
             // Niveau parties → chapitres
             for (const partie of roman.parties) {
                 html += '<div class="sidebar-roman-partie">' + this._escape(partie.titre) + '</div>';
