@@ -71,9 +71,9 @@ function walkDir(dir) {
         if (list.length > 0) out[relDir] = list;
     }
 
-    // Récursion
+    // Récursion (archive* = anciennes versions conservées : hors manifest)
     for (const e of entries) {
-        if (e.isDirectory() && !e.name.startsWith('.')) {
+        if (e.isDirectory() && !e.name.startsWith('.') && !/^archive/i.test(e.name)) {
             const sub = walkDir(path.join(dir, e.name));
             Object.assign(out, sub);
         }

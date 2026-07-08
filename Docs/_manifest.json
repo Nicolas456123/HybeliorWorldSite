@@ -5797,209 +5797,223 @@
   ],
   "Lore/Chroniques": [
     {
-      "name": "Chapitre 01 - Les Murs Jaunes",
-      "file": "Chapitre 01 - Les Murs Jaunes.md",
-      "title": "Chapitre I — Les Murs Jaunes de Kharazir"
+      "name": "Chapitre 01 - Les Murs Jaunes de Kharazir",
+      "file": "Chapitre 01 - Les Murs Jaunes de Kharazir.md",
+      "title": "Chapitre 1 — Les Murs Jaunes de Kharazir"
     },
     {
-      "name": "Chapitre 02 - Les Plumes",
-      "file": "Chapitre 02 - Les Plumes.md",
-      "title": "Chapitre II — Les Plumes de Lumasar"
+      "name": "Chapitre 02 - Les Plumes de Lumasar",
+      "file": "Chapitre 02 - Les Plumes de Lumasar.md",
+      "title": "Chapitre 2 — Les Plumes de Lumasar"
     },
     {
-      "name": "Chapitre 03 - Le Vent",
-      "file": "Chapitre 03 - Le Vent.md",
+      "name": "Chapitre 03 - Le Vent des Cavaliers",
+      "file": "Chapitre 03 - Le Vent des Cavaliers.md",
       "title": "Chapitre 3 — Le Vent des Cavaliers"
     },
     {
-      "name": "Chapitre 04 - Les Cathédrales",
-      "file": "Chapitre 04 - Les Cathédrales.md",
-      "title": "Chapitre 4 — Les Cathédrales Vivantes"
+      "name": "Chapitre 04 - Le Port des Adieux",
+      "file": "Chapitre 04 - Le Port des Adieux.md",
+      "title": "Chapitre 4 — Le Port des Adieux"
     },
     {
-      "name": "Chapitre 05 - Le Port",
-      "file": "Chapitre 05 - Le Port.md",
-      "title": "Chapitre 5 — Le Port des Adieux"
+      "name": "Chapitre 05 - Les Druides de Trinoria",
+      "file": "Chapitre 05 - Les Druides de Trinoria.md",
+      "title": "Chapitre 5 — Les Druides de Trinoria"
     },
     {
-      "name": "Chapitre 06 - Les Comptoirs",
-      "file": "Chapitre 06 - Les Comptoirs.md",
-      "title": "Chapitre 6 — Les Comptoirs de Tyndara"
+      "name": "Chapitre 06 - Le Sang de Valoria",
+      "file": "Chapitre 06 - Le Sang de Valoria.md",
+      "title": "Chapitre 6 — Le Sang de Valoria"
     },
     {
-      "name": "Chapitre 07 - Les Druides",
-      "file": "Chapitre 07 - Les Druides.md",
-      "title": "Chapitre 7 — Les Druides de Trinoria"
+      "name": "Chapitre 07 - L'Acier Éternel",
+      "file": "Chapitre 07 - L'Acier Éternel.md",
+      "title": "Chapitre 7 — L’Acier Éternel"
     },
     {
-      "name": "Chapitre 08 - Le Sang",
-      "file": "Chapitre 08 - Le Sang.md",
-      "title": "Chapitre 8 — Le Sang de Valoria"
+      "name": "Chapitre 08 - Les Mines Silencieuses",
+      "file": "Chapitre 08 - Les Mines Silencieuses.md",
+      "title": "Chapitre 8 — Les Mines Silencieuses"
     },
     {
-      "name": "Chapitre 09 - Acier Éternel",
-      "file": "Chapitre 09 - Acier Éternel.md",
-      "title": "Chapitre 9 — L'Acier Royal"
+      "name": "Chapitre 09 - Les Cendres Rouges",
+      "file": "Chapitre 09 - Les Cendres Rouges.md",
+      "title": "Chapitre 9 — Les Cendres Rouges"
     },
     {
-      "name": "Chapitre 10 - Les Mines",
-      "file": "Chapitre 10 - Les Mines.md",
-      "title": "Chapitre 10 — Les Mines Silencieuses"
+      "name": "Chapitre 10 - Le Marteau et l'Ancre",
+      "file": "Chapitre 10 - Le Marteau et l'Ancre.md",
+      "title": "Chapitre 10 — Le Marteau et l’Ancre"
     },
     {
-      "name": "Chapitre 11 - Les Cendres",
-      "file": "Chapitre 11 - Les Cendres.md",
-      "title": "Chapitre 11 — Les Cendres Rouges"
+      "name": "Chapitre 11 - Le Grand Fleuve",
+      "file": "Chapitre 11 - Le Grand Fleuve.md",
+      "title": "Chapitre 11 — Le Grand Fleuve"
     },
     {
-      "name": "Chapitre 12 - Les Esprits",
-      "file": "Chapitre 12 - Les Esprits.md",
-      "title": "Chapitre 12 — Les Esprits des Hautes Plaines"
+      "name": "Chapitre 12 - La Forêt qui Chante",
+      "file": "Chapitre 12 - La Forêt qui Chante.md",
+      "title": "Chapitre 12 — La Forêt qui Chante"
     },
     {
-      "name": "Chapitre 13 - Le Marteau",
-      "file": "Chapitre 13 - Le Marteau.md",
-      "title": "Chapitre 13 — Le Marteau et l'Ancre"
+      "name": "Chapitre 13 - Les Yeux Saisonniers",
+      "file": "Chapitre 13 - Les Yeux Saisonniers.md",
+      "title": "Chapitre 13 — Les Yeux Saisonniers"
     },
     {
-      "name": "Chapitre 14 - Les Marchands",
-      "file": "Chapitre 14 - Les Marchands.md",
-      "title": "Chapitre 14 — Les Marchands d'Elarath"
+      "name": "Chapitre 14 - Les Bibliothèques de Cristal",
+      "file": "Chapitre 14 - Les Bibliothèques de Cristal.md",
+      "title": "Chapitre 14 — Les Bibliothèques de Cristal"
     },
     {
-      "name": "Chapitre 15 - La Forêt",
-      "file": "Chapitre 15 - La Forêt.md",
-      "title": "Chapitre 15 — La Forêt qui Chante"
+      "name": "Chapitre 15 - Le Sol Vitrifié",
+      "file": "Chapitre 15 - Le Sol Vitrifié.md",
+      "title": "Chapitre 15 — Le Sol Vitrifié"
     },
     {
-      "name": "Chapitre 16 - Les Yeux",
-      "file": "Chapitre 16 - Les Yeux.md",
-      "title": "Chapitre 16 — Les Yeux Saisonniers"
+      "name": "Chapitre 16 - Le Feu des Dragons",
+      "file": "Chapitre 16 - Le Feu des Dragons.md",
+      "title": "Chapitre 16 — Le Feu des Dragons"
     },
     {
-      "name": "Chapitre 17 - Les Bibliothèques",
-      "file": "Chapitre 17 - Les Bibliothèques.md",
-      "title": "Chapitre 17 — Les Bibliothèques de Cristal"
+      "name": "Chapitre 17 - Les Généraux Déliés",
+      "file": "Chapitre 17 - Les Généraux Déliés.md",
+      "title": "Chapitre 17 — Les Généraux Déliés"
     },
     {
-      "name": "Chapitre 18 - Le Sol",
-      "file": "Chapitre 18 - Le Sol.md",
-      "title": "Chapitre 18 — Le Sol Vitrifié"
+      "name": "Chapitre 18 - Les Moissons Éternelles",
+      "file": "Chapitre 18 - Les Moissons Éternelles.md",
+      "title": "Chapitre 18 — Les Moissons Éternelles"
     },
     {
-      "name": "Chapitre 19 - Le Feu",
-      "file": "Chapitre 19 - Le Feu.md",
-      "title": "Chapitre 19 — Le Feu des Dragons"
+      "name": "Chapitre 19 - La Jungle Éveillée",
+      "file": "Chapitre 19 - La Jungle Éveillée.md",
+      "title": "Chapitre 19 — La Jungle Éveillée"
     },
     {
-      "name": "Chapitre 20 - Les Généraux",
-      "file": "Chapitre 20 - Les Généraux.md",
-      "title": "Chapitre 20 — Les Généraux Déliés"
+      "name": "Chapitre 20 - Les Cavaliers des Steppes",
+      "file": "Chapitre 20 - Les Cavaliers des Steppes.md",
+      "title": "Chapitre 20 — Les Cavaliers des Steppes"
     },
     {
-      "name": "Chapitre 21 - Les Moissons",
-      "file": "Chapitre 21 - Les Moissons.md",
-      "title": "Chapitre 21 — Les Moissons Éternelles"
+      "name": "Chapitre 21 - Le Cœur qui Pulse",
+      "file": "Chapitre 21 - Le Cœur qui Pulse.md",
+      "title": "Chapitre 21 — Le Cœur qui Pulse"
     },
     {
-      "name": "Chapitre 22 - Les Étoiles",
-      "file": "Chapitre 22 - Les Étoiles.md",
-      "title": "Chapitre 22 — Les Étoiles d'Haldria"
+      "name": "Chapitre 22 - Le Feu sous la Pierre",
+      "file": "Chapitre 22 - Le Feu sous la Pierre.md",
+      "title": "Chapitre 22 — Le Feu sous la Pierre"
     },
     {
-      "name": "Chapitre 23 - La Jungle",
-      "file": "Chapitre 23 - La Jungle.md",
-      "title": "Chapitre 23 — La Jungle Éveillée"
+      "name": "Chapitre 23 - Les Enfants aux Yeux Blancs",
+      "file": "Chapitre 23 - Les Enfants aux Yeux Blancs.md",
+      "title": "Chapitre 23 — Les Enfants aux Yeux Blancs"
     },
     {
-      "name": "Chapitre 24 - Les Cavaliers",
-      "file": "Chapitre 24 - Les Cavaliers.md",
-      "title": "Chapitre 24 — Les Cavaliers des Steppes"
+      "name": "Chapitre 24 - L'Île Consciente",
+      "file": "Chapitre 24 - L'Île Consciente.md",
+      "title": "Chapitre 24 — L’Île Consciente"
     },
     {
-      "name": "Chapitre 25 - Les Îles",
-      "file": "Chapitre 25 - Les Îles.md",
-      "title": "Chapitre 25 — Les Îles Flottantes"
+      "name": "Chapitre 25 - Le Chant et la Sève",
+      "file": "Chapitre 25 - Le Chant et la Sève.md",
+      "title": "Chapitre 25 — Le Chant et la Sève"
     },
     {
-      "name": "Chapitre 26 - Le Froid",
-      "file": "Chapitre 26 - Le Froid.md",
-      "title": "Chapitre 26 — Le Froid Éternel"
+      "name": "Chapitre 26 - Le Départ par la Marée",
+      "file": "Chapitre 26 - Le Départ par la Marée.md",
+      "title": "Chapitre 26 — Le Départ par la Marée"
     },
     {
-      "name": "Chapitre 27 - Le Cœur",
-      "file": "Chapitre 27 - Le Cœur.md",
-      "title": "Chapitre 27 — Le Cœur qui Pulse"
+      "name": "Chapitre 27 - Le Voile des Rêves",
+      "file": "Chapitre 27 - Le Voile des Rêves.md",
+      "title": "Chapitre 27 — Le Voile des Rêves"
     },
     {
-      "name": "Chapitre 28 - Les Enfants",
-      "file": "Chapitre 28 - Les Enfants.md",
-      "title": "Chapitre 28 — Les Enfants aux Yeux Blancs"
+      "name": "Chapitre 28 - Le Masque de Nécessité",
+      "file": "Chapitre 28 - Le Masque de Nécessité.md",
+      "title": "Chapitre 28 — Le Masque de Nécessité"
     },
     {
-      "name": "Chapitre 29 - Les Flottes",
-      "file": "Chapitre 29 - Les Flottes.md",
-      "title": "Chapitre 29 — Les Flottes d'Azoral"
+      "name": "Chapitre 29 - L'Escale du Cardinal-Élu",
+      "file": "Chapitre 29 - L'Escale du Cardinal-Élu.md",
+      "title": "Chapitre 29 — L’Escale du Cardinal-Élu"
     },
     {
-      "name": "Chapitre 30 - Île Consciente",
-      "file": "Chapitre 30 - Île Consciente.md",
-      "title": "Chapitre 30 — L'Île Consciente"
+      "name": "Chapitre 30 - Le Silence Sacré",
+      "file": "Chapitre 30 - Le Silence Sacré.md",
+      "title": "Chapitre 30 — Le Silence Sacré"
     },
     {
-      "name": "Chapitre 31 - Le Chant",
-      "file": "Chapitre 31 - Le Chant.md",
-      "title": "Chapitre 31 — Le Chant et la Sève"
+      "name": "Chapitre 31 - Le Grand Saut Nord",
+      "file": "Chapitre 31 - Le Grand Saut Nord.md",
+      "title": "Chapitre 31 — Le Grand Saut Nord"
     },
     {
-      "name": "Chapitre 32 - Les Vallées",
-      "file": "Chapitre 32 - Les Vallées.md",
-      "title": "Chapitre 32 — Les Vallées Oubliées"
+      "name": "Chapitre 32 - Les Îles Flottantes",
+      "file": "Chapitre 32 - Les Îles Flottantes.md",
+      "title": "Chapitre 32 — Les Îles Flottantes"
     },
     {
-      "name": "Chapitre 33 - Le Voile",
-      "file": "Chapitre 33 - Le Voile.md",
-      "title": "Chapitre 33 — Le Voile des Rêves"
+      "name": "Chapitre 33 - L'Approche Polaire",
+      "file": "Chapitre 33 - L'Approche Polaire.md",
+      "title": "Chapitre 33 — L’Approche Polaire"
     },
     {
-      "name": "Chapitre 34 - Île Masques",
-      "file": "Chapitre 34 - Île Masques.md",
-      "title": "Chapitre 34 — L'Île aux Masques"
+      "name": "Chapitre 34 - La Chose Sous le Glacier",
+      "file": "Chapitre 34 - La Chose Sous le Glacier.md",
+      "title": "Chapitre 34 — La Chose Sous le Glacier"
     },
     {
-      "name": "Chapitre 35 - Monarchie Lunaire",
-      "file": "Chapitre 35 - Monarchie Lunaire.md",
-      "title": "Chapitre 35 — La Monarchie Lunaire"
+      "name": "Chapitre 35 - Les Routes Rouvrent",
+      "file": "Chapitre 35 - Les Routes Rouvrent.md",
+      "title": "Chapitre 35 — Les Routes Rouvrent"
     },
     {
-      "name": "Chapitre 36 - Le Silence",
-      "file": "Chapitre 36 - Le Silence.md",
-      "title": "Chapitre 36 — Le Silence Sacré"
+      "name": "Chapitre 36 - La Dernière Saisie",
+      "file": "Chapitre 36 - La Dernière Saisie.md",
+      "title": "Chapitre 36 — La Dernière Saisie"
     },
     {
-      "name": "Chapitre 37 - La Chose",
-      "file": "Chapitre 37 - La Chose.md",
-      "title": "Chapitre 37 — La Chose Sous le Glacier"
+      "name": "Chapitre 37 - Le Cartographe Sans Carte",
+      "file": "Chapitre 37 - Le Cartographe Sans Carte.md",
+      "title": "Chapitre 37 — Le Cartographe Sans Carte"
     },
     {
-      "name": "Chapitre 38 - Les Routes",
-      "file": "Chapitre 38 - Les Routes.md",
-      "title": "Chapitre 38 — Les Routes Rouvrent"
-    },
-    {
-      "name": "Chapitre 39 - Le Cartographe",
-      "file": "Chapitre 39 - Le Cartographe.md",
-      "title": "Chapitre 39 — Le Cartographe Sans Carte"
-    },
-    {
-      "name": "Chapitre 40 - Les Murs Tombent",
-      "file": "Chapitre 40 - Les Murs Tombent.md",
-      "title": "Chapitre 40 — Les Murs Tombent"
+      "name": "Chapitre 38 - Les Murs Tombent",
+      "file": "Chapitre 38 - Les Murs Tombent.md",
+      "title": "Chapitre 38 — Les Murs Tombent"
     },
     {
       "name": "_arc-sorin",
       "file": "_arc-sorin.md",
       "title": "Arc narratif de Sorin Valthen — référence pour A.4",
+      "isIndex": true
+    },
+    {
+      "name": "_atlas-voyage",
+      "file": "_atlas-voyage.md",
+      "title": "Atlas du Voyage — Chroniques de l'Exilé",
+      "isIndex": true
+    },
+    {
+      "name": "_bible-v1-fiches-legacy",
+      "file": "_bible-v1-fiches-legacy.md",
+      "title": "BANQUE DE MATIÈRE v1 — fiches legacy (archive de travail)",
+      "isIndex": true
+    },
+    {
+      "name": "_bible-v2",
+      "file": "_bible-v2.md",
+      "title": "BIBLE v2 — *Les Chroniques de l'Exilé*",
+      "isIndex": true
+    },
+    {
+      "name": "_resume",
+      "file": "_resume.md",
+      "title": "_resume",
       "isIndex": true
     }
   ],
@@ -6772,7 +6786,7 @@
     {
       "name": "02 - La dernière question de l'Académie",
       "file": "02 - La dernière question de l'Académie.md",
-      "title": "Chapitre deux — La dernière question de l'Académie"
+      "title": "Chapitre deux — La dernière question de l’Académie"
     },
     {
       "name": "03 - Le fil et le vide",
@@ -6852,17 +6866,17 @@
     {
       "name": "18 - Ce que les rêves montrent d'autre",
       "file": "18 - Ce que les rêves montrent d'autre.md",
-      "title": "Chapitre dix-sept — Ce que les rêves montrent d'autre"
+      "title": "Chapitre dix-sept. Ce que les rêves montrent d’autre"
     },
     {
       "name": "19 - Vytharia, l'automne d'avant",
       "file": "19 - Vytharia, l'automne d'avant.md",
-      "title": "Chapitre dix-huit — Vytharia, l'automne d'avant"
+      "title": "Chapitre dix-huit — Vytharia, l’automne d’avant"
     },
     {
       "name": "20 - Ce que l'agent ne dit plus",
       "file": "20 - Ce que l'agent ne dit plus.md",
-      "title": "Chapitre dix-neuf — Ce que l'agent ne dit plus"
+      "title": "Chapitre dix-neuf — Ce que l’agent ne dit plus"
     },
     {
       "name": "21 - Seuil de la Partie II - La voix du Lien",
@@ -6877,12 +6891,12 @@
     {
       "name": "23 - Ceux de l'eau",
       "file": "23 - Ceux de l'eau.md",
-      "title": "Chapitre vingt et un — Ceux de l'eau"
+      "title": "Chapitre vingt et un — Ceux de l’eau"
     },
     {
       "name": "24 - La forge qu'on laisse",
       "file": "24 - La forge qu'on laisse.md",
-      "title": "Chapitre vingt-deux — La forge qu'on laisse"
+      "title": "Chapitre vingt-deux — La forge qu’on laisse"
     },
     {
       "name": "25 - Le gîte trop propre",
@@ -6907,7 +6921,7 @@
     {
       "name": "29 - Sulvane, après l'appareillage",
       "file": "29 - Sulvane, après l'appareillage.md",
-      "title": "Chapitre vingt-sept — Sulvane, après l'appareillage"
+      "title": "Chapitre vingt-sept — Sulvane, après l’appareillage"
     },
     {
       "name": "30 - Les morts qui poussent",
@@ -6927,12 +6941,12 @@
     {
       "name": "33 - Ce qu'on ne dit pas à une sœur",
       "file": "33 - Ce qu'on ne dit pas à une sœur.md",
-      "title": "Chapitre trente — Ce qu'on ne dit pas à une sœur"
+      "title": "Chapitre trente — Ce qu’on ne dit pas à une sœur"
     },
     {
       "name": "34 - Ce qu'un homme peut tenir",
       "file": "34 - Ce qu'un homme peut tenir.md",
-      "title": "Chapitre trente et un — Ce qu'un homme peut tenir"
+      "title": "Chapitre trente et un — Ce qu’un homme peut tenir"
     },
     {
       "name": "35 - Le feu encore chaud",
@@ -6967,7 +6981,7 @@
     {
       "name": "41 - H-5",
       "file": "41 - H-5.md",
-      "title": "H-5 — Ce qu'on se dit quand on ne peut plus redescendre"
+      "title": "H-5 — Ce qu’on se dit quand on ne peut plus redescendre"
     },
     {
       "name": "42 - H-2",
@@ -6987,7 +7001,7 @@
     {
       "name": "45 - H1",
       "file": "45 - H1.md",
-      "title": "H1 — Le feu qu'on ne lève pas"
+      "title": "H1 — Le feu qu’on ne lève pas"
     },
     {
       "name": "46 - H2",
@@ -6997,7 +7011,7 @@
     {
       "name": "47 - H3 - Le Gouffre d'Endora",
       "file": "47 - H3 - Le Gouffre d'Endora.md",
-      "title": "Le Gouffre d'Endora"
+      "title": "Le Gouffre d’Endora"
     },
     {
       "name": "48 - H4",
@@ -7037,19 +7051,25 @@
     {
       "name": "55 - Qu'il attende quelqu'un de meilleur",
       "file": "55 - Qu'il attende quelqu'un de meilleur.md",
-      "title": "Chapitre cinquante — Qu'il attende quelqu'un de meilleur"
+      "title": "Chapitre cinquante — Qu’il attende quelqu’un de meilleur"
     },
     {
       "name": "_bible",
       "file": "_bible.md",
       "title": "BIBLE — *La Septième Heure*",
       "isIndex": true
+    },
+    {
+      "name": "_resume",
+      "file": "_resume.md",
+      "title": "_resume",
+      "isIndex": true
     }
   ],
   "Lore/Romans/Les Trois Coups/T2 - L'Heure qui se Referme": [
     {
-      "name": "00 - Ce que je ne sais plus quand",
-      "file": "00 - Ce que je ne sais plus quand.md",
+      "name": "00 - Je ne sais plus quand je suis",
+      "file": "00 - Je ne sais plus quand je suis.md",
       "title": "Prologue — Ce que je ne sais plus quand"
     },
     {
@@ -7075,7 +7095,7 @@
     {
       "name": "05 - Les chanteurs d'Alkaran",
       "file": "05 - Les chanteurs d'Alkaran.md",
-      "title": "Chapitre quatre — Les chanteurs d'Alkaran"
+      "title": "Chapitre quatre — Les chanteurs d’Alkaran"
     },
     {
       "name": "06 - Le village qui ne cria pas",
@@ -7085,12 +7105,12 @@
     {
       "name": "07 - L'apaisement",
       "file": "07 - L'apaisement.md",
-      "title": "Chapitre cinq — L'apaisement"
+      "title": "Chapitre cinq — L’apaisement"
     },
     {
       "name": "08 - Ceux qu'on habille pour avant",
       "file": "08 - Ceux qu'on habille pour avant.md",
-      "title": "Chapitre six — Ceux qu'on habille pour avant"
+      "title": "Chapitre six — Ceux qu’on habille pour avant"
     },
     {
       "name": "09 - Le copiste",
@@ -7100,7 +7120,7 @@
     {
       "name": "10 - La lampe qu'on ne regarde pas",
       "file": "10 - La lampe qu'on ne regarde pas.md",
-      "title": "Chapitre huit — La lampe qu'on ne regarde pas"
+      "title": "Chapitre huit — La lampe qu’on ne regarde pas"
     },
     {
       "name": "11 - Les berges qui basculent",
@@ -7125,12 +7145,12 @@
     {
       "name": "15 - Donner l'oreille",
       "file": "15 - Donner l'oreille.md",
-      "title": "Chapitre onze — Donner l'oreille"
+      "title": "Chapitre onze — Donner l’oreille"
     },
     {
       "name": "16 - Le journal d'un homme qui doutait",
       "file": "16 - Le journal d'un homme qui doutait.md",
-      "title": "Chapitre douze — Le journal d'un homme qui doutait"
+      "title": "Chapitre douze — Le journal d’un homme qui doutait"
     },
     {
       "name": "17 - La main qui tremble",
@@ -7150,7 +7170,7 @@
     {
       "name": "20 - Le vieux, la forgeronne et l'enfant",
       "file": "20 - Le vieux, la forgeronne et l'enfant.md",
-      "title": "Chapitre quinze — Le vieux, la forgeronne et l'enfant"
+      "title": "Chapitre quinze — Le vieux, la forgeronne et l’enfant"
     },
     {
       "name": "21 - La descente à la Forge-Basse",
@@ -7165,7 +7185,7 @@
     {
       "name": "23 - L'enfant qui n'a pas été déclarée",
       "file": "23 - L'enfant qui n'a pas été déclarée.md",
-      "title": "Chapitre dix-sept — L'enfant qui n'a pas été déclarée"
+      "title": "Chapitre dix-sept — L’enfant qui n’a pas été déclarée"
     },
     {
       "name": "24 - Le registre des foyers",
@@ -7200,7 +7220,7 @@
     {
       "name": "30 - L'interrogatoire",
       "file": "30 - L'interrogatoire.md",
-      "title": "Chapitre vingt-deux — L'interrogatoire"
+      "title": "Chapitre vingt-deux — L’interrogatoire"
     },
     {
       "name": "31 - La clef du coffre",
@@ -7235,12 +7255,12 @@
     {
       "name": "37 - Celui qui n'a pas vu",
       "file": "37 - Celui qui n'a pas vu.md",
-      "title": "Chapitre vingt-huit — Celui qui n'a pas vu"
+      "title": "Chapitre vingt-huit — Celui qui n’a pas vu"
     },
     {
       "name": "38 - L'Édit de Pureté",
       "file": "38 - L'Édit de Pureté.md",
-      "title": "Chapitre vingt-neuf — L'Édit de Pureté"
+      "title": "Chapitre vingt-neuf — L’Édit de Pureté"
     },
     {
       "name": "39 - Les familles",
@@ -7275,7 +7295,7 @@
     {
       "name": "45 - L'Heure",
       "file": "45 - L'Heure.md",
-      "title": "Chapitre trente-quatre — L'Heure"
+      "title": "Chapitre trente-quatre — L’Heure"
     },
     {
       "name": "46 - Le trou dans la mémoire",
@@ -7295,22 +7315,317 @@
     {
       "name": "49 - Là où d'autres pourront le ramasser",
       "file": "49 - Là où d'autres pourront le ramasser.md",
-      "title": "Chapitre trente-six — Là où d'autres pourront le ramasser"
+      "title": "Chapitre trente-six — Là où d’autres pourront le ramasser"
     },
     {
       "name": "50 - Le rapport que l'on croira",
       "file": "50 - Le rapport que l'on croira.md",
-      "title": "Chapitre trente-sept — Le rapport que l'on croira"
+      "title": "Chapitre trente-sept — Le rapport que l’on croira"
     },
     {
       "name": "51 - Ce qu'il entend",
       "file": "51 - Ce qu'il entend.md",
-      "title": "Ce qu'il entend"
+      "title": "Ce qu’il entend"
     },
     {
       "name": "_bible",
       "file": "_bible.md",
       "title": "BIBLE — *L'Heure qui se Referme*",
+      "isIndex": true
+    },
+    {
+      "name": "_resume",
+      "file": "_resume.md",
+      "title": "_resume",
+      "isIndex": true
+    }
+  ],
+  "Lore/Romans/Les Trois Coups/T3 - L'Heure qui Naît": [
+    {
+      "name": "00 - Avant les mots",
+      "file": "00 - Avant les mots.md",
+      "title": "Avant les mots"
+    },
+    {
+      "name": "01 - Seuil de la Partie I - La voix qui nait",
+      "file": "01 - Seuil de la Partie I - La voix qui nait.md",
+      "title": "La voix qui naît"
+    },
+    {
+      "name": "02 - Celle qui entend",
+      "file": "02 - Celle qui entend.md",
+      "title": "Celle qui entend"
+    },
+    {
+      "name": "03 - Les coffres qu'on n'ouvre pas",
+      "file": "03 - Les coffres qu'on n'ouvre pas.md",
+      "title": "Les coffres qu’on n’ouvre pas"
+    },
+    {
+      "name": "04 - La relique de maison",
+      "file": "04 - La relique de maison.md",
+      "title": "La relique de maison"
+    },
+    {
+      "name": "05 - Le decalage",
+      "file": "05 - Le decalage.md",
+      "title": "Le décalage"
+    },
+    {
+      "name": "06 - Ilex parle a personne",
+      "file": "06 - Ilex parle a personne.md",
+      "title": "Ilex parle à personne"
+    },
+    {
+      "name": "07 - La concordance qu'on refuse",
+      "file": "07 - La concordance qu'on refuse.md",
+      "title": "La concordance qu’on refuse"
+    },
+    {
+      "name": "08 - Une voix de famille",
+      "file": "08 - Une voix de famille.md",
+      "title": "Une voix de famille"
+    },
+    {
+      "name": "09 - Sans revendication",
+      "file": "09 - Sans revendication.md",
+      "title": "Sans revendication"
+    },
+    {
+      "name": "10 - Ce que l'oreille a coute",
+      "file": "10 - Ce que l'oreille a coute.md",
+      "title": "Ce que l’oreille a coûté"
+    },
+    {
+      "name": "11 - Les Mains Vides",
+      "file": "11 - Les Mains Vides.md",
+      "title": "Les Mains Vides"
+    },
+    {
+      "name": "12 - Seuil de la Partie II - La voix qui nait",
+      "file": "12 - Seuil de la Partie II - La voix qui nait.md",
+      "title": "La voix qui naît"
+    },
+    {
+      "name": "13 - La pulse au jour",
+      "file": "13 - La pulse au jour.md",
+      "title": "La pulse au jour"
+    },
+    {
+      "name": "14 - Porter une cible",
+      "file": "14 - Porter une cible.md",
+      "title": "Porter une cible"
+    },
+    {
+      "name": "15 - Un cahier qui circule",
+      "file": "15 - Un cahier qui circule.md",
+      "title": "Un cahier qui circule"
+    },
+    {
+      "name": "16 - Le dernier esprit",
+      "file": "16 - Le dernier esprit.md",
+      "title": "Le dernier esprit"
+    },
+    {
+      "name": "17 - La passeuse a Cendara",
+      "file": "17 - La passeuse a Cendara.md",
+      "title": "La passeuse à Cendara"
+    },
+    {
+      "name": "18 - Le suspect commode",
+      "file": "18 - Le suspect commode.md",
+      "title": "Le suspect commode"
+    },
+    {
+      "name": "19 - Le texte et le battement",
+      "file": "19 - Le texte et le battement.md",
+      "title": "Le texte et le battement"
+    },
+    {
+      "name": "20 - La seconde copie",
+      "file": "20 - La seconde copie.md",
+      "title": "La seconde copie"
+    },
+    {
+      "name": "21 - Ce qui suit sans visage",
+      "file": "21 - Ce qui suit sans visage.md",
+      "title": "Ce qui suit sans visage"
+    },
+    {
+      "name": "22 - Ceux qui veulent l'enfant",
+      "file": "22 - Ceux qui veulent l'enfant.md",
+      "title": "Ceux qui veulent l’enfant"
+    },
+    {
+      "name": "23 - Seuil de la Partie III - La voix qui nait",
+      "file": "23 - Seuil de la Partie III - La voix qui nait.md",
+      "title": "La voix qui naît"
+    },
+    {
+      "name": "24 - Lire les absences",
+      "file": "24 - Lire les absences.md",
+      "title": "Lire les absences"
+    },
+    {
+      "name": "25 - La ou il pourra se passer d'elle",
+      "file": "25 - La ou il pourra se passer d'elle.md",
+      "title": "Là où il pourra se passer d’elle"
+    },
+    {
+      "name": "26 - Le copiste de Prismalith",
+      "file": "26 - Le copiste de Prismalith.md",
+      "title": "Le copiste de Prismalith"
+    },
+    {
+      "name": "27 - Les premiers mots",
+      "file": "27 - Les premiers mots.md",
+      "title": "Les premiers mots"
+    },
+    {
+      "name": "28 - Deux fers, une seule fois",
+      "file": "28 - Deux fers, une seule fois.md",
+      "title": "Deux fers, une seule fois"
+    },
+    {
+      "name": "29 - Plus pres, plus vite",
+      "file": "29 - Plus pres, plus vite.md",
+      "title": "Plus près, plus vite"
+    },
+    {
+      "name": "30 - Dix mille ans, la meme phrase",
+      "file": "30 - Dix mille ans, la meme phrase.md",
+      "title": "Dix mille ans, la même phrase"
+    },
+    {
+      "name": "31 - Loin du Mont",
+      "file": "31 - Loin du Mont.md",
+      "title": "Loin du Mont"
+    },
+    {
+      "name": "32 - Ce que l'ombre demande",
+      "file": "32 - Ce que l'ombre demande.md",
+      "title": "Ce que l’ombre demande"
+    },
+    {
+      "name": "33 - Il ne tient plus",
+      "file": "33 - Il ne tient plus.md",
+      "title": "Il ne tient plus"
+    },
+    {
+      "name": "34 - Seuil de la Partie IV - La voix qui nait",
+      "file": "34 - Seuil de la Partie IV - La voix qui nait.md",
+      "title": "La voix qui naît"
+    },
+    {
+      "name": "35 - Au quart d'heure",
+      "file": "35 - Au quart d'heure.md",
+      "title": "Au quart d’heure"
+    },
+    {
+      "name": "36 - Le depot",
+      "file": "36 - Le depot.md",
+      "title": "Le dépôt"
+    },
+    {
+      "name": "37 - L'ordre d'immobiliser",
+      "file": "37 - L'ordre d'immobiliser.md",
+      "title": "L’ordre d’immobiliser"
+    },
+    {
+      "name": "38 - Ce qui tombe sans bruit",
+      "file": "38 - Ce qui tombe sans bruit.md",
+      "title": "Ce qui tombe sans bruit"
+    },
+    {
+      "name": "39 - Un dossier de plus",
+      "file": "39 - Un dossier de plus.md",
+      "title": "Un dossier de plus"
+    },
+    {
+      "name": "40 - La montee qui tourne mal",
+      "file": "40 - La montee qui tourne mal.md",
+      "title": "La montée qui tourne mal"
+    },
+    {
+      "name": "41 - Ce qu'elle laisse en mourant",
+      "file": "41 - Ce qu'elle laisse en mourant.md",
+      "title": "Ce qu’elle laisse en mourant"
+    },
+    {
+      "name": "42 - Vers le Mont",
+      "file": "42 - Vers le Mont.md",
+      "title": "Vers le Mont"
+    },
+    {
+      "name": "43 - Seuil de la Partie V - La voix qui nait",
+      "file": "43 - Seuil de la Partie V - La voix qui nait.md",
+      "title": "La voix qui naît"
+    },
+    {
+      "name": "44 - La montee",
+      "file": "44 - La montee.md",
+      "title": "La montée"
+    },
+    {
+      "name": "45 - Trop tard pour sceller",
+      "file": "45 - Trop tard pour sceller.md",
+      "title": "Trop tard pour sceller"
+    },
+    {
+      "name": "46 - Sous la dalle",
+      "file": "46 - Sous la dalle.md",
+      "title": "Sous la dalle"
+    },
+    {
+      "name": "47 - La voix - irruption 7",
+      "file": "47 - La voix - irruption 7.md",
+      "title": "La voix qui naît"
+    },
+    {
+      "name": "48 - Presque une phrase",
+      "file": "48 - Presque une phrase.md",
+      "title": "Presque une phrase"
+    },
+    {
+      "name": "49 - La bouche qui s'ouvre",
+      "file": "49 - La bouche qui s'ouvre.md",
+      "title": "La bouche qui s’ouvre"
+    },
+    {
+      "name": "50 - Le temoin exterieur",
+      "file": "50 - Le temoin exterieur.md",
+      "title": "Le témoin extérieur"
+    },
+    {
+      "name": "51 - Le rapport que le monde croira",
+      "file": "51 - Le rapport que le monde croira.md",
+      "title": "Le rapport que le monde croira"
+    },
+    {
+      "name": "52 - D'autres mains",
+      "file": "52 - D'autres mains.md",
+      "title": "D’autres mains"
+    },
+    {
+      "name": "53 - Au bord",
+      "file": "53 - Au bord.md",
+      "title": "Au bord"
+    },
+    {
+      "name": "54 - La premiere phrase",
+      "file": "54 - La premiere phrase.md",
+      "title": "La voix qui naît"
+    },
+    {
+      "name": "_bible",
+      "file": "_bible.md",
+      "title": "BIBLE — *L'Heure qui Naît*",
+      "isIndex": true
+    },
+    {
+      "name": "_resume",
+      "file": "_resume.md",
+      "title": "_resume",
       "isIndex": true
     }
   ],
@@ -7334,13 +7649,6 @@
       "name": "Veines philosophiques - Référence",
       "file": "Veines philosophiques - Référence.md",
       "title": "🌿 Veines Philosophiques d'Hybelior — Référence d'écriture"
-    }
-  ],
-  "Lore/_Analyse/Archives": [
-    {
-      "name": "Rapport Revision Chronologie 2026-04",
-      "file": "Rapport Revision Chronologie 2026-04.md",
-      "title": "RAPPORT DE REVISION CHRONOLOGIQUE — SYNTHESE COMPLETE"
     }
   ],
   "Lore/_Audio/Chroniques": [

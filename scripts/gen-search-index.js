@@ -308,7 +308,10 @@ function walkDir(dir, acc) {
         return;
     }
     for (const e of entries) {
-        if (e.name.startsWith('.')) continue;
+        // _* = documents internes (bibles, résumés de travail) : jamais indexés.
+        // archive* = anciennes versions conservées : jamais indexées.
+        if (e.name.startsWith('.') || e.name.startsWith('_')) continue;
+        if (e.isDirectory() && /^archive/i.test(e.name)) continue;
         const full = path.join(dir, e.name);
         if (e.isDirectory()) {
             walkDir(full, acc);
