@@ -1,0 +1,3250 @@
+{
+ "note": "Données brutes pour l'atlas du voyage. Coordonnées = unités de la carte du site (overrides des étiquettes). Les 'jours_par_100u' des étapes v1 donnent l'échelle canon implicite (inclut attentes, détours, saisons — c'est une vitesse de RÉCIT, pas de marche).",
+ "continents": {
+  "Alkaran": {
+   "x": 172.3,
+   "y": -187.6
+  },
+  "Azoria": {
+   "x": 223.0,
+   "y": 380.4
+  },
+  "Baelor": {
+   "x": 70.8,
+   "y": 240.3
+  },
+  "Celethor": {
+   "x": -47.3,
+   "y": -336.8
+  },
+  "Cendara": {
+   "x": -348.2,
+   "y": 290.7
+  },
+  "Cestra": {
+   "x": -436.8,
+   "y": -440.5
+  },
+  "Endora": {
+   "x": 203.0,
+   "y": 62.7
+  },
+  "Evertia": {
+   "x": -426.5,
+   "y": 167.3
+  },
+  "Galenor": {
+   "x": -266.2,
+   "y": -135.6
+  },
+  "Ilthara": {
+   "x": -221.9,
+   "y": 152.0
+  },
+  "Onara": {
+   "x": 395.2,
+   "y": 94.9
+  },
+  "Ulinor": {
+   "x": 7.0,
+   "y": 125.1
+  }
+ },
+ "distances_carte": {
+  "Alkaran <-> Azoria": 570.2,
+  "Alkaran <-> Baelor": 439.8,
+  "Alkaran <-> Celethor": 265.5,
+  "Alkaran <-> Cendara": 706.9,
+  "Alkaran <-> Cestra": 659.6,
+  "Alkaran <-> Endora": 252.2,
+  "Alkaran <-> Evertia": 696.1,
+  "Alkaran <-> Galenor": 441.6,
+  "Alkaran <-> Ilthara": 520.3,
+  "Alkaran <-> Onara": 359.8,
+  "Alkaran <-> Ulinor": 353.7,
+  "Azoria <-> Baelor": 206.8,
+  "Azoria <-> Celethor": 766.4,
+  "Azoria <-> Cendara": 578.2,
+  "Azoria <-> Cestra": 1053.2,
+  "Azoria <-> Endora": 318.3,
+  "Azoria <-> Evertia": 683.6,
+  "Azoria <-> Galenor": 711.0,
+  "Azoria <-> Ilthara": 500.1,
+  "Azoria <-> Onara": 333.4,
+  "Azoria <-> Ulinor": 334.4,
+  "Baelor <-> Celethor": 589.1,
+  "Baelor <-> Cendara": 422.0,
+  "Baelor <-> Cestra": 849.3,
+  "Baelor <-> Endora": 221.4,
+  "Baelor <-> Evertia": 502.6,
+  "Baelor <-> Galenor": 504.9,
+  "Baelor <-> Ilthara": 305.8,
+  "Baelor <-> Onara": 355.5,
+  "Baelor <-> Ulinor": 131.7,
+  "Celethor <-> Cendara": 696.0,
+  "Celethor <-> Cestra": 403.1,
+  "Celethor <-> Endora": 471.5,
+  "Celethor <-> Evertia": 630.8,
+  "Celethor <-> Galenor": 297.3,
+  "Celethor <-> Ilthara": 519.0,
+  "Celethor <-> Onara": 618.2,
+  "Celethor <-> Ulinor": 465.1,
+  "Cendara <-> Cestra": 736.6,
+  "Cendara <-> Endora": 596.5,
+  "Cendara <-> Evertia": 146.2,
+  "Cendara <-> Galenor": 434.2,
+  "Cendara <-> Ilthara": 187.6,
+  "Cendara <-> Onara": 768.8,
+  "Cendara <-> Ulinor": 391.9,
+  "Cestra <-> Endora": 814.0,
+  "Cestra <-> Evertia": 607.9,
+  "Cestra <-> Galenor": 349.4,
+  "Cestra <-> Ilthara": 630.2,
+  "Cestra <-> Onara": 989.4,
+  "Cestra <-> Ulinor": 719.0,
+  "Endora <-> Evertia": 638.1,
+  "Endora <-> Galenor": 509.4,
+  "Endora <-> Ilthara": 434.2,
+  "Endora <-> Onara": 194.9,
+  "Endora <-> Ulinor": 205.6,
+  "Evertia <-> Galenor": 342.7,
+  "Evertia <-> Ilthara": 205.1,
+  "Evertia <-> Onara": 824.9,
+  "Evertia <-> Ulinor": 435.6,
+  "Galenor <-> Ilthara": 291.0,
+  "Galenor <-> Onara": 700.4,
+  "Galenor <-> Ulinor": 377.7,
+  "Ilthara <-> Onara": 619.8,
+  "Ilthara <-> Ulinor": 230.5,
+  "Onara <-> Ulinor": 389.3
+ },
+ "route_v1": [
+  {
+   "chapitre": 1,
+   "continent": "Galenor",
+   "jour": 1
+  },
+  {
+   "chapitre": 2,
+   "continent": "Galenor",
+   "jour": 12
+  },
+  {
+   "chapitre": 3,
+   "continent": "Galenor",
+   "jour": 28
+  },
+  {
+   "chapitre": 4,
+   "continent": "Galenor",
+   "jour": 45
+  },
+  {
+   "chapitre": 5,
+   "continent": "Galenor",
+   "jour": 62
+  },
+  {
+   "chapitre": 6,
+   "continent": "Galenor",
+   "jour": 78
+  },
+  {
+   "chapitre": 7,
+   "continent": "Galenor",
+   "jour": 95
+  },
+  {
+   "chapitre": 8,
+   "continent": "Galenor",
+   "jour": 110
+  },
+  {
+   "chapitre": 9,
+   "continent": "Alkaran",
+   "jour": 135
+  },
+  {
+   "chapitre": 10,
+   "continent": "Alkaran",
+   "jour": 158
+  },
+  {
+   "chapitre": 11,
+   "continent": "Onara",
+   "jour": 175
+  },
+  {
+   "chapitre": 12,
+   "continent": "Alkaran/Ulinor",
+   "jour": 200
+  },
+  {
+   "chapitre": 13,
+   "continent": "Onara",
+   "jour": 225
+  },
+  {
+   "chapitre": 14,
+   "continent": "Onara",
+   "jour": 240
+  },
+  {
+   "chapitre": 15,
+   "continent": "Endora",
+   "jour": 265
+  },
+  {
+   "chapitre": 16,
+   "continent": "Endora",
+   "jour": 290
+  },
+  {
+   "chapitre": 17,
+   "continent": "Ilthara",
+   "jour": 320
+  },
+  {
+   "chapitre": 18,
+   "continent": "Ilthara",
+   "jour": 335
+  },
+  {
+   "chapitre": 19,
+   "continent": "Ilthara",
+   "jour": 355
+  },
+  {
+   "chapitre": 20,
+   "continent": "Ilthara",
+   "jour": 375
+  },
+  {
+   "chapitre": 21,
+   "continent": "Ilthara",
+   "jour": 395
+  },
+  {
+   "chapitre": 22,
+   "continent": "Endora",
+   "jour": 415
+  },
+  {
+   "chapitre": 23,
+   "continent": "Ilthara",
+   "jour": 440
+  },
+  {
+   "chapitre": 24,
+   "continent": "Ilthara",
+   "jour": 465
+  },
+  {
+   "chapitre": 25,
+   "continent": "Celethor",
+   "jour": 495
+  },
+  {
+   "chapitre": 26,
+   "continent": "Celethor",
+   "jour": 520
+  },
+  {
+   "chapitre": 27,
+   "continent": "Cendara",
+   "jour": 550
+  },
+  {
+   "chapitre": 28,
+   "continent": "Azoria",
+   "jour": 580
+  },
+  {
+   "chapitre": 29,
+   "continent": "Azoria",
+   "jour": 600
+  },
+  {
+   "chapitre": 30,
+   "continent": "Evertia",
+   "jour": 630
+  },
+  {
+   "chapitre": 31,
+   "continent": "Evertia",
+   "jour": 655
+  },
+  {
+   "chapitre": 32,
+   "continent": "Ulinor",
+   "jour": 685
+  },
+  {
+   "chapitre": 33,
+   "continent": "Ilthara",
+   "jour": 720
+  },
+  {
+   "chapitre": 34,
+   "continent": "Celethor",
+   "jour": 745
+  },
+  {
+   "chapitre": 35,
+   "continent": "Ilthara",
+   "jour": 770
+  },
+  {
+   "chapitre": 36,
+   "continent": "Baelor",
+   "jour": 800
+  },
+  {
+   "chapitre": 37,
+   "continent": "Cestra",
+   "jour": 835
+  },
+  {
+   "chapitre": 38,
+   "continent": "En mer",
+   "jour": 870
+  },
+  {
+   "chapitre": 39,
+   "continent": "Galenor",
+   "jour": 895
+  },
+  {
+   "chapitre": 40,
+   "continent": "Galenor",
+   "jour": 910
+  }
+ ],
+ "etapes_intercontinentales_v1": [
+  {
+   "de": "Galenor",
+   "vers": "Alkaran",
+   "chapitres": "8->9",
+   "jours": 25,
+   "distance_carte": 441.6,
+   "jours_par_100u": 5.7
+  },
+  {
+   "de": "Alkaran",
+   "vers": "Onara",
+   "chapitres": "10->11",
+   "jours": 17,
+   "distance_carte": 359.8,
+   "jours_par_100u": 4.7
+  },
+  {
+   "de": "Onara",
+   "vers": "Endora",
+   "chapitres": "14->15",
+   "jours": 25,
+   "distance_carte": 194.9,
+   "jours_par_100u": 12.8
+  },
+  {
+   "de": "Endora",
+   "vers": "Ilthara",
+   "chapitres": "16->17",
+   "jours": 30,
+   "distance_carte": 434.2,
+   "jours_par_100u": 6.9
+  },
+  {
+   "de": "Ilthara",
+   "vers": "Endora",
+   "chapitres": "21->22",
+   "jours": 20,
+   "distance_carte": 434.2,
+   "jours_par_100u": 4.6
+  },
+  {
+   "de": "Endora",
+   "vers": "Ilthara",
+   "chapitres": "22->23",
+   "jours": 25,
+   "distance_carte": 434.2,
+   "jours_par_100u": 5.8
+  },
+  {
+   "de": "Ilthara",
+   "vers": "Celethor",
+   "chapitres": "24->25",
+   "jours": 30,
+   "distance_carte": 519.0,
+   "jours_par_100u": 5.8
+  },
+  {
+   "de": "Celethor",
+   "vers": "Cendara",
+   "chapitres": "26->27",
+   "jours": 30,
+   "distance_carte": 696.0,
+   "jours_par_100u": 4.3
+  },
+  {
+   "de": "Cendara",
+   "vers": "Azoria",
+   "chapitres": "27->28",
+   "jours": 30,
+   "distance_carte": 578.2,
+   "jours_par_100u": 5.2
+  },
+  {
+   "de": "Azoria",
+   "vers": "Evertia",
+   "chapitres": "29->30",
+   "jours": 30,
+   "distance_carte": 683.6,
+   "jours_par_100u": 4.4
+  },
+  {
+   "de": "Evertia",
+   "vers": "Ulinor",
+   "chapitres": "31->32",
+   "jours": 30,
+   "distance_carte": 435.6,
+   "jours_par_100u": 6.9
+  },
+  {
+   "de": "Ulinor",
+   "vers": "Ilthara",
+   "chapitres": "32->33",
+   "jours": 35,
+   "distance_carte": 230.5,
+   "jours_par_100u": 15.2
+  },
+  {
+   "de": "Ilthara",
+   "vers": "Celethor",
+   "chapitres": "33->34",
+   "jours": 25,
+   "distance_carte": 519.0,
+   "jours_par_100u": 4.8
+  },
+  {
+   "de": "Celethor",
+   "vers": "Ilthara",
+   "chapitres": "34->35",
+   "jours": 25,
+   "distance_carte": 519.0,
+   "jours_par_100u": 4.8
+  },
+  {
+   "de": "Ilthara",
+   "vers": "Baelor",
+   "chapitres": "35->36",
+   "jours": 30,
+   "distance_carte": 305.8,
+   "jours_par_100u": 9.8
+  },
+  {
+   "de": "Baelor",
+   "vers": "Cestra",
+   "chapitres": "36->37",
+   "jours": 35,
+   "distance_carte": 849.3,
+   "jours_par_100u": 4.1
+  }
+ ],
+ "capitales_reperes": {
+  "Ackerna": {
+   "x": -319.4,
+   "y": 74.4
+  },
+  "Althior": {
+   "x": -370.9,
+   "y": -164.7
+  },
+  "Amarendis": {
+   "x": -249.0,
+   "y": 89.5
+  },
+  "Brumaris": {
+   "x": -319.3,
+   "y": 244.1
+  },
+  "Brystalis": {
+   "x": -203.4,
+   "y": 198.4
+  },
+  "Crestalis": {
+   "x": 188.8,
+   "y": 88.4
+  },
+  "Cëpias": {
+   "x": -453.3,
+   "y": 136.1
+  },
+  "Fablioris": {
+   "x": 326.7,
+   "y": 203.2
+  },
+  "Folgrad": {
+   "x": 14.8,
+   "y": 98.9
+  },
+  "Glintaris": {
+   "x": 195.9,
+   "y": 26.0
+  },
+  "Haliandris": {
+   "x": 219.3,
+   "y": -144.2
+  },
+  "Hekorinth": {
+   "x": -260.8,
+   "y": 153.5
+  },
+  "Holvendar": {
+   "x": -209.1,
+   "y": 66.4
+  },
+  "Ilyndar": {
+   "x": -135.1,
+   "y": 70.6
+  },
+  "Invernis": {
+   "x": 31.1,
+   "y": -348.3
+  },
+  "Myrthorin": {
+   "x": -155.1,
+   "y": 198.8
+  },
+  "Olkanoris": {
+   "x": 160.7,
+   "y": -157.0
+  },
+  "Oranthor": {
+   "x": -433.3,
+   "y": -78.1
+  },
+  "Ostarith": {
+   "x": 277.2,
+   "y": 49.6
+  },
+  "Prismalith": {
+   "x": -301.6,
+   "y": -161.4
+  },
+  "Raenoris": {
+   "x": -177.5,
+   "y": 154.3
+  },
+  "Rukhsar": {
+   "x": -236.6,
+   "y": -118.7
+  },
+  "Ryldaris": {
+   "x": 143.1,
+   "y": -359.9
+  },
+  "Soltharis": {
+   "x": -400.7,
+   "y": -74.1
+  },
+  "Trelios": {
+   "x": 192.5,
+   "y": -214.7
+  },
+  "Tundralis": {
+   "x": -68.5,
+   "y": -273.6
+  },
+  "Valtheria": {
+   "x": -338.4,
+   "y": -90.5
+  }
+ },
+ "note_couches": "Toutes les couches de la carte du site (base hybelior-map via /api/overrides, 681 éléments) : continents, pays, capitales, cites, villes, region. Mêmes unités que les distances. Pour un trajet fin, mesurer entre villes/capitales plutôt qu entre étiquettes de continents.",
+ "couche_pays": {
+  "Ackerna": {
+   "x": -302.5,
+   "y": 105.6
+  },
+  "Altram": {
+   "x": 166.9,
+   "y": -218.2
+  },
+  "Astravia": {
+   "x": -10.2,
+   "y": -323.1
+  },
+  "Avalor": {
+   "x": 188.3,
+   "y": 100.5
+  },
+  "Baelor": {
+   "x": 70.4,
+   "y": 248.0
+  },
+  "Caeloria": {
+   "x": 193.6,
+   "y": 348.5
+  },
+  "Cendara": {
+   "x": -326.1,
+   "y": 285.2
+  },
+  "Drakora": {
+   "x": -143.5,
+   "y": 219.5
+  },
+  "Elarian": {
+   "x": -60.1,
+   "y": -251.3
+  },
+  "Evertia": {
+   "x": -422.6,
+   "y": 158.8
+  },
+  "Gryndor": {
+   "x": -202.4,
+   "y": 69.4
+  },
+  "Haldria": {
+   "x": -271.3,
+   "y": 171.6
+  },
+  "Iskara": {
+   "x": 169.7,
+   "y": 18.2
+  },
+  "Lumasar": {
+   "x": -300.1,
+   "y": -136.4
+  },
+  "Lythar": {
+   "x": -169.4,
+   "y": 171.0
+  },
+  "Mosrack": {
+   "x": 392.6,
+   "y": 91.1
+  },
+  "Myrtam": {
+   "x": 213.8,
+   "y": -145.9
+  },
+  "No man's land Azoria": {
+   "x": -472.7,
+   "y": -398.4
+  },
+  "No man's land Celethor": {
+   "x": -57.3,
+   "y": -369.2
+  },
+  "No man's land Cestra": {
+   "x": 231.3,
+   "y": 384.1
+  },
+  "Nysaria": {
+   "x": 223.4,
+   "y": -380.4
+  },
+  "Pays libres de Kharazir": {
+   "x": -233.7,
+   "y": -110.5
+  },
+  "Pyrtara": {
+   "x": -166.1,
+   "y": 95.0
+  },
+  "Ryldor": {
+   "x": 137.0,
+   "y": -358.0
+  },
+  "Seraphia": {
+   "x": -365.0,
+   "y": -170.9
+  },
+  "Skaldoria": {
+   "x": 162.5,
+   "y": -70.4
+  },
+  "Solena": {
+   "x": -426.2,
+   "y": -81.5
+  },
+  "Sylthara": {
+   "x": -243.6,
+   "y": 118.5
+  },
+  "Thalmaris": {
+   "x": 249.6,
+   "y": 40.3
+  },
+  "Torkam": {
+   "x": 172.9,
+   "y": -166.1
+  },
+  "Trinoria": {
+   "x": -227.4,
+   "y": -187.2
+  },
+  "Tyndara": {
+   "x": 304.2,
+   "y": 198.3
+  },
+  "Ulinor": {
+   "x": 5.8,
+   "y": 114.9
+  },
+  "Valoria": {
+   "x": -323.8,
+   "y": -82.5
+  },
+  "Ventera": {
+   "x": -400.4,
+   "y": -72.6
+  },
+  "Vytharia": {
+   "x": -193.9,
+   "y": 224.6
+  },
+  "Warenthor": {
+   "x": -228.1,
+   "y": 183.1
+  }
+ },
+ "couche_capitales": {
+  "Ackerna": {
+   "x": -319.4,
+   "y": 74.4
+  },
+  "Althior": {
+   "x": -370.9,
+   "y": -164.7
+  },
+  "Amarendis": {
+   "x": -249.0,
+   "y": 89.5
+  },
+  "Brumaris": {
+   "x": -319.3,
+   "y": 244.1
+  },
+  "Brystalis": {
+   "x": -203.4,
+   "y": 198.4
+  },
+  "Crestalis": {
+   "x": 188.8,
+   "y": 88.4
+  },
+  "Cëpias": {
+   "x": -453.3,
+   "y": 136.1
+  },
+  "Fablioris": {
+   "x": 326.7,
+   "y": 203.2
+  },
+  "Folgrad": {
+   "x": 14.8,
+   "y": 98.9
+  },
+  "Glintaris": {
+   "x": 195.9,
+   "y": 26.0
+  },
+  "Haliandris": {
+   "x": 219.3,
+   "y": -144.2
+  },
+  "Hekorinth": {
+   "x": -260.8,
+   "y": 153.5
+  },
+  "Holvendar": {
+   "x": -209.1,
+   "y": 66.4
+  },
+  "Ilyndar": {
+   "x": -135.1,
+   "y": 70.6
+  },
+  "Invernis": {
+   "x": 31.1,
+   "y": -348.3
+  },
+  "Myrthorin": {
+   "x": -155.1,
+   "y": 198.8
+  },
+  "Olkanoris": {
+   "x": 160.7,
+   "y": -157.0
+  },
+  "Oranthor": {
+   "x": -433.3,
+   "y": -78.1
+  },
+  "Ostarith": {
+   "x": 277.2,
+   "y": 49.6
+  },
+  "Prismalith": {
+   "x": -301.6,
+   "y": -161.4
+  },
+  "Raenoris": {
+   "x": -177.5,
+   "y": 154.3
+  },
+  "Rukhsar": {
+   "x": -236.6,
+   "y": -118.7
+  },
+  "Ryldaris": {
+   "x": 143.1,
+   "y": -359.9
+  },
+  "Soltharis": {
+   "x": -400.7,
+   "y": -74.1
+  },
+  "Trelios": {
+   "x": 192.5,
+   "y": -214.7
+  },
+  "Tundralis": {
+   "x": -68.5,
+   "y": -273.6
+  },
+  "Valtheria": {
+   "x": -338.4,
+   "y": -90.5
+  }
+ },
+ "couche_cites": {
+  "Aetharis": {
+   "x": -154.4,
+   "y": 164.9
+  },
+  "Ardentris": {
+   "x": 202.2,
+   "y": -150.7
+  },
+  "Arios": {
+   "x": 156.7,
+   "y": -236.0
+  },
+  "Arlyndor": {
+   "x": -396.7,
+   "y": -117.8
+  },
+  "Armentas": {
+   "x": -426.5,
+   "y": 175.6
+  },
+  "Astralon": {
+   "x": -397.2,
+   "y": -45.6
+  },
+  "Astraneth": {
+   "x": -303.4,
+   "y": -74.8
+  },
+  "Ausford": {
+   "x": 356.1,
+   "y": 150.9
+  },
+  "Azuralith": {
+   "x": 199.3,
+   "y": 76.8
+  },
+  "Azurea": {
+   "x": -198.4,
+   "y": -127.6
+  },
+  "Baldir": {
+   "x": -194.2,
+   "y": -158.8
+  },
+  "Brastoris": {
+   "x": 11.7,
+   "y": -306.5
+  },
+  "Brendorn": {
+   "x": -298.3,
+   "y": -134.3
+  },
+  "Bybias": {
+   "x": -290.7,
+   "y": 89.6
+  },
+  "Celnaris": {
+   "x": 291.7,
+   "y": 218.6
+  },
+  "Cryslor": {
+   "x": 282.9,
+   "y": 189.8
+  },
+  "Cumulgord": {
+   "x": 391.6,
+   "y": 113.8
+  },
+  "Diamoris": {
+   "x": -305.1,
+   "y": 279.4
+  },
+  "Dorlanis": {
+   "x": -289.1,
+   "y": -236.6
+  },
+  "Drylia": {
+   "x": -255.8,
+   "y": 120.7
+  },
+  "Drystar": {
+   "x": -380.5,
+   "y": 278.3
+  },
+  "Duskoris": {
+   "x": 186.8,
+   "y": 332.1
+  },
+  "Eldrys": {
+   "x": -275.3,
+   "y": 67.7
+  },
+  "Elyanor": {
+   "x": -443.8,
+   "y": -101.5
+  },
+  "Eryndoris": {
+   "x": 319.4,
+   "y": 164.7
+  },
+  "Esaridia": {
+   "x": -418.0,
+   "y": -134.9
+  },
+  "Faldor": {
+   "x": 155.5,
+   "y": -141.7
+  },
+  "Faldrin": {
+   "x": -273.5,
+   "y": 47.0
+  },
+  "Falorin": {
+   "x": -244.0,
+   "y": -209.4
+  },
+  "Feldris": {
+   "x": -246.7,
+   "y": 223.0
+  },
+  "Felmaris": {
+   "x": -346.8,
+   "y": -100.4
+  },
+  "Folindor": {
+   "x": -7.6,
+   "y": 139.0
+  },
+  "Frostmir": {
+   "x": -66.6,
+   "y": -297.1
+  },
+  "Galdoria": {
+   "x": -214.9,
+   "y": 132.2
+  },
+  "Gimtaris": {
+   "x": -46.4,
+   "y": -223.2
+  },
+  "Gnosias": {
+   "x": -281.6,
+   "y": 115.2
+  },
+  "Gorthorn": {
+   "x": -191.5,
+   "y": -203.5
+  },
+  "Gyndor": {
+   "x": -260.1,
+   "y": -234.6
+  },
+  "Haldrin": {
+   "x": 177.4,
+   "y": -173.4
+  },
+  "Helionis": {
+   "x": 161.6,
+   "y": -18.7
+  },
+  "Hetholin": {
+   "x": -136.7,
+   "y": 118.9
+  },
+  "Hortias": {
+   "x": -414.1,
+   "y": 193.1
+  },
+  "Illythia": {
+   "x": -180.4,
+   "y": 180.7
+  },
+  "Indelith": {
+   "x": 131.7,
+   "y": 55.2
+  },
+  "Ithoria": {
+   "x": -404.1,
+   "y": -153.3
+  },
+  "Jalkoris": {
+   "x": 144.1,
+   "y": -182.2
+  },
+  "Kaldris": {
+   "x": -328.2,
+   "y": 288.6
+  },
+  "Kaloris": {
+   "x": -222.8,
+   "y": -221.9
+  },
+  "Kandorin": {
+   "x": -268.3,
+   "y": 185.2
+  },
+  "Kelanor": {
+   "x": -277.8,
+   "y": -90.7
+  },
+  "Keldros": {
+   "x": -161.7,
+   "y": 99.9
+  },
+  "Korindar": {
+   "x": 3.7,
+   "y": 123.8
+  },
+  "Kryndor": {
+   "x": -79.2,
+   "y": -239.9
+  },
+  "Lusharis": {
+   "x": 136.3,
+   "y": -7.7
+  },
+  "Lyntheria": {
+   "x": -319.0,
+   "y": -102.5
+  },
+  "Lyraxoris": {
+   "x": 187.7,
+   "y": -131.2
+  },
+  "Lysara": {
+   "x": -246.9,
+   "y": -150.2
+  },
+  "Lysoris": {
+   "x": 98.2,
+   "y": -347.0
+  },
+  "Lytharil": {
+   "x": -170.2,
+   "y": 144.4
+  },
+  "Malentar": {
+   "x": -445.0,
+   "y": 207.8
+  },
+  "Mangord": {
+   "x": 436.1,
+   "y": 85.8
+  },
+  "Merias": {
+   "x": -331.1,
+   "y": 108.8
+  },
+  "Miralis": {
+   "x": -428.3,
+   "y": 159.9
+  },
+  "Mordock": {
+   "x": -413.6,
+   "y": -100.8
+  },
+  "Mornath": {
+   "x": 177.2,
+   "y": 74.6
+  },
+  "Myrathis": {
+   "x": -445.2,
+   "y": -37.9
+  },
+  "Myrthoris": {
+   "x": 208.6,
+   "y": -195.8
+  },
+  "Mythoria": {
+   "x": -167.2,
+   "y": 242.7
+  },
+  "Nalmiris": {
+   "x": 254.8,
+   "y": 10.0
+  },
+  "Nectoria": {
+   "x": -188.8,
+   "y": 206.7
+  },
+  "Nythor": {
+   "x": -389.4,
+   "y": -93.4
+  },
+  "Nythora": {
+   "x": -195.5,
+   "y": -78.4
+  },
+  "Ostram": {
+   "x": -301.9,
+   "y": 146.5
+  },
+  "Perivalis": {
+   "x": 276.9,
+   "y": 115.7
+  },
+  "Portharis": {
+   "x": 323.4,
+   "y": 193.4
+  },
+  "Quendris": {
+   "x": -128.3,
+   "y": 166.3
+  },
+  "Quenloria": {
+   "x": -309.9,
+   "y": -201.6
+  },
+  "Quinthor": {
+   "x": -252.8,
+   "y": -80.2
+  },
+  "Raldir": {
+   "x": -234.9,
+   "y": 160.9
+  },
+  "Ramseck": {
+   "x": 429.9,
+   "y": 139.4
+  },
+  "Ravendis": {
+   "x": -215.3,
+   "y": -99.3
+  },
+  "Ravindor": {
+   "x": -225.1,
+   "y": 204.2
+  },
+  "Reldarck": {
+   "x": 362.0,
+   "y": 95.8
+  },
+  "Roseltar": {
+   "x": 165.7,
+   "y": -245.8
+  },
+  "Rubien": {
+   "x": -413.7,
+   "y": 127.4
+  },
+  "Rylthoris": {
+   "x": 291.9,
+   "y": 28.4
+  },
+  "Ryndaris": {
+   "x": 214.8,
+   "y": 112.9
+  },
+  "Ryndor": {
+   "x": -229.5,
+   "y": 99.9
+  },
+  "Sarultam": {
+   "x": 201.7,
+   "y": -225.6
+  },
+  "Silvaris": {
+   "x": 215.0,
+   "y": 341.2
+  },
+  "Solarith": {
+   "x": -319.9,
+   "y": 312.5
+  },
+  "Solthir": {
+   "x": -166.9,
+   "y": -126.8
+  },
+  "Sylthronis": {
+   "x": -320.8,
+   "y": -132.2
+  },
+  "Sylvera": {
+   "x": -235.7,
+   "y": -191.3
+  },
+  "Sylvora": {
+   "x": -138.6,
+   "y": 203.8
+  },
+  "Talnithar": {
+   "x": -187.1,
+   "y": -180.3
+  },
+  "Tanolies": {
+   "x": 198.0,
+   "y": -266.0
+  },
+  "Temeryl": {
+   "x": 207.5,
+   "y": -207.0
+  },
+  "Thalgris": {
+   "x": -218.9,
+   "y": -190.4
+  },
+  "Thalvorn": {
+   "x": -364.2,
+   "y": -147.8
+  },
+  "Thyndor": {
+   "x": -185.7,
+   "y": 89.4
+  },
+  "Thyrin": {
+   "x": -280.7,
+   "y": 164.5
+  },
+  "Traum": {
+   "x": 175.3,
+   "y": -225.8
+  },
+  "Uldarin": {
+   "x": -291.2,
+   "y": 196.3
+  },
+  "Ulris": {
+   "x": 167.3,
+   "y": -189.0
+  },
+  "Ulthorin": {
+   "x": -440.5,
+   "y": -165.5
+  },
+  "Uthorin": {
+   "x": -332.8,
+   "y": 267.7
+  },
+  "Valarion": {
+   "x": 254.1,
+   "y": 92.6
+  },
+  "Valdyn": {
+   "x": -153.3,
+   "y": 63.2
+  },
+  "Valryn": {
+   "x": 113.5,
+   "y": 10.8
+  },
+  "Valryndor": {
+   "x": -206.7,
+   "y": 149.8
+  },
+  "Velastris": {
+   "x": -275.7,
+   "y": -190.1
+  },
+  "Velithis": {
+   "x": -177.3,
+   "y": -106.6
+  },
+  "Veskoris": {
+   "x": -49.9,
+   "y": -243.7
+  },
+  "Veylorn": {
+   "x": -198.3,
+   "y": 76.1
+  },
+  "Virondis": {
+   "x": -322.4,
+   "y": 262.6
+  },
+  "Vyndralith": {
+   "x": -429.0,
+   "y": -46.8
+  },
+  "Wildaris": {
+   "x": 182.0,
+   "y": 121.4
+  },
+  "Windoris": {
+   "x": -21.2,
+   "y": -321.2
+  },
+  "Wyndor": {
+   "x": -217.8,
+   "y": 170.1
+  },
+  "Xelthor": {
+   "x": -147.1,
+   "y": 223.3
+  },
+  "Xerathoris": {
+   "x": 230.4,
+   "y": -170.3
+  },
+  "Xylandor": {
+   "x": -233.7,
+   "y": -160.5
+  },
+  "Xylaris": {
+   "x": 3.4,
+   "y": 85.4
+  },
+  "Yltheris": {
+   "x": -444.3,
+   "y": -65.3
+  },
+  "Ysolith": {
+   "x": 156.7,
+   "y": 21.7
+  },
+  "Zarilith": {
+   "x": -329.7,
+   "y": -176.5
+  },
+  "Zerithor": {
+   "x": -364.2,
+   "y": -188.5
+  },
+  "Zylarith": {
+   "x": 234.4,
+   "y": 46.0
+  },
+  "Zyrthar": {
+   "x": -190.1,
+   "y": 69.3
+  }
+ },
+ "couche_villes": {
+  "Aeloria": {
+   "x": 25.5,
+   "y": -337.7
+  },
+  "Aethoria": {
+   "x": -81.9,
+   "y": -278.3
+  },
+  "Aldaris": {
+   "x": -399.2,
+   "y": -83.2
+  },
+  "Aldora": {
+   "x": -346.9,
+   "y": -79.1
+  },
+  "Altemior": {
+   "x": 209.3,
+   "y": -238.9
+  },
+  "Aquarith": {
+   "x": -355.0,
+   "y": -151.1
+  },
+  "Baeloris": {
+   "x": 69.0,
+   "y": 252.9
+  },
+  "Belvarin": {
+   "x": -37.3,
+   "y": -319.9
+  },
+  "Brethenor": {
+   "x": -375.1,
+   "y": -172.0
+  },
+  "Brindale": {
+   "x": -253.3,
+   "y": -148.7
+  },
+  "Bryndarith": {
+   "x": -453.2,
+   "y": -114.8
+  },
+  "Bryndor": {
+   "x": -326.9,
+   "y": -71.1
+  },
+  "Brynthar": {
+   "x": -263.3,
+   "y": -218.0
+  },
+  "Brynthor": {
+   "x": -228.9,
+   "y": -77.2
+  },
+  "Caeldor": {
+   "x": -70.8,
+   "y": -233.2
+  },
+  "Caelorn": {
+   "x": 170.9,
+   "y": -181.8
+  },
+  "Caldoris": {
+   "x": -445.9,
+   "y": -73.6
+  },
+  "Caldrith": {
+   "x": -385.4,
+   "y": -31.3
+  },
+  "Cloche": {
+   "x": -419.8,
+   "y": 157.6
+  },
+  "Darnis": {
+   "x": -399.8,
+   "y": -56.5
+  },
+  "Draknor": {
+   "x": 165.0,
+   "y": 358.2
+  },
+  "Dravenor": {
+   "x": 218.2,
+   "y": -173.9
+  },
+  "Draynor": {
+   "x": -273.7,
+   "y": -173.3
+  },
+  "Drellesis": {
+   "x": -319.9,
+   "y": 105.8
+  },
+  "Drethorn": {
+   "x": -280.8,
+   "y": -65.9
+  },
+  "Drynor": {
+   "x": -424.9,
+   "y": -90.6
+  },
+  "Ebrios": {
+   "x": -306.5,
+   "y": 90.7
+  },
+  "Elandor": {
+   "x": -394.4,
+   "y": -194.4
+  },
+  "Elarinor": {
+   "x": 249.8,
+   "y": 10.4
+  },
+  "Elaris": {
+   "x": 7.5,
+   "y": 139.4
+  },
+  "Eldarion": {
+   "x": -249.9,
+   "y": 62.1
+  },
+  "Eldorath": {
+   "x": 166.6,
+   "y": 383.9
+  },
+  "Elthira": {
+   "x": -421.5,
+   "y": -93.6
+  },
+  "Elyndor": {
+   "x": -158.2,
+   "y": 191.5
+  },
+  "Endelis": {
+   "x": -323.0,
+   "y": -144.7
+  },
+  "Eridorn": {
+   "x": -119.0,
+   "y": -307.8
+  },
+  "Erynor": {
+   "x": -336.2,
+   "y": -85.8
+  },
+  "Ethriel": {
+   "x": -281.5,
+   "y": -114.1
+  },
+  "Falandros": {
+   "x": -414.2,
+   "y": -80.8
+  },
+  "Faldenor": {
+   "x": -338.0,
+   "y": -133.5
+  },
+  "Faldorin": {
+   "x": 1.4,
+   "y": -313.2
+  },
+  "Faldoris": {
+   "x": 133.0,
+   "y": -364.4
+  },
+  "Faldris": {
+   "x": -131.2,
+   "y": 183.2
+  },
+  "Falneth": {
+   "x": -288.8,
+   "y": -174.0
+  },
+  "Falnor": {
+   "x": -470.4,
+   "y": -72.3
+  },
+  "Falnorath": {
+   "x": 194.4,
+   "y": -140.8
+  },
+  "Faloria": {
+   "x": 235.6,
+   "y": 31.4
+  },
+  "Falron": {
+   "x": 121.7,
+   "y": -33.5
+  },
+  "Falyria": {
+   "x": -237.7,
+   "y": 138.4
+  },
+  "Fandor": {
+   "x": 265.1,
+   "y": 74.9
+  },
+  "Feldoris": {
+   "x": 204.9,
+   "y": 17.7
+  },
+  "Feldrin": {
+   "x": -0.2,
+   "y": 115.1
+  },
+  "Felithar": {
+   "x": -251.8,
+   "y": -90.6
+  },
+  "Felvoria": {
+   "x": -140.7,
+   "y": 231.9
+  },
+  "Felwyn": {
+   "x": -453.5,
+   "y": -38.0
+  },
+  "Fenaldor": {
+   "x": -221.3,
+   "y": -116.1
+  },
+  "Fendralis": {
+   "x": -441.1,
+   "y": -112.8
+  },
+  "Fenorith": {
+   "x": -132.0,
+   "y": -357.5
+  },
+  "Feylinor": {
+   "x": 201.5,
+   "y": 120.2
+  },
+  "Feylor": {
+   "x": -79.2,
+   "y": -350.4
+  },
+  "Feyloris": {
+   "x": 240.8,
+   "y": -153.4
+  },
+  "Feylorn": {
+   "x": -273.8,
+   "y": 88.2
+  },
+  "Feyndor": {
+   "x": 84.5,
+   "y": -348.5
+  },
+  "Feythar": {
+   "x": 150.9,
+   "y": 74.4
+  },
+  "Frinenta": {
+   "x": -422.3,
+   "y": 195.9
+  },
+  "Frosthal": {
+   "x": -60.5,
+   "y": -257.2
+  },
+  "Frosthar": {
+   "x": 179.9,
+   "y": -130.3
+  },
+  "Frostlin": {
+   "x": 190.4,
+   "y": 352.5
+  },
+  "Fyloria": {
+   "x": 106.7,
+   "y": 367.6
+  },
+  "Fylorin": {
+   "x": -215.9,
+   "y": 182.8
+  },
+  "Fyndor": {
+   "x": -232.7,
+   "y": 147.2
+  },
+  "Fyndora": {
+   "x": -362.9,
+   "y": -208.9
+  },
+  "Fyndoris": {
+   "x": -314.4,
+   "y": 231.5
+  },
+  "Fynloris": {
+   "x": -285.5,
+   "y": -206.9
+  },
+  "Fyrthar": {
+   "x": -370.0,
+   "y": -128.8
+  },
+  "Galathor": {
+   "x": 151.9,
+   "y": -37.9
+  },
+  "Galdar": {
+   "x": 133.0,
+   "y": -22.4
+  },
+  "Galdaris": {
+   "x": 253.1,
+   "y": 57.4
+  },
+  "Galdaroth": {
+   "x": 286.5,
+   "y": 32.5
+  },
+  "Galdor": {
+   "x": 277.9,
+   "y": 209.5
+  },
+  "Galdorin": {
+   "x": 268.1,
+   "y": 112.7
+  },
+  "Galdrin": {
+   "x": 170.6,
+   "y": -144.7
+  },
+  "Galdrion": {
+   "x": -241.1,
+   "y": 200.0
+  },
+  "Galdris": {
+   "x": -221.4,
+   "y": 172.8
+  },
+  "Galdrith": {
+   "x": 210.6,
+   "y": 338.5
+  },
+  "Galdryn": {
+   "x": 27.0,
+   "y": -319.4
+  },
+  "Galoris": {
+   "x": 321.5,
+   "y": 215.1
+  },
+  "Galornis": {
+   "x": 187.2,
+   "y": -0.0
+  },
+  "Galrin": {
+   "x": -10.5,
+   "y": 129.2
+  },
+  "Galrinor": {
+   "x": 228.0,
+   "y": 64.4
+  },
+  "Galrinth": {
+   "x": 115.9,
+   "y": -347.8
+  },
+  "Galrith": {
+   "x": -308.4,
+   "y": 264.7
+  },
+  "Galron": {
+   "x": -330.9,
+   "y": 271.5
+  },
+  "Galvoria": {
+   "x": 210.3,
+   "y": 401.9
+  },
+  "Glacoria": {
+   "x": -74.3,
+   "y": -247.1
+  },
+  "Hadris": {
+   "x": -300.8,
+   "y": -220.7
+  },
+  "Icelorn": {
+   "x": -79.7,
+   "y": -259.3
+  },
+  "Ilithar": {
+   "x": -378.1,
+   "y": -119.1
+  },
+  "Ilymaris": {
+   "x": -418.5,
+   "y": -54.3
+  },
+  "Ithriona": {
+   "x": -334.9,
+   "y": -119.7
+  },
+  "Kaeldor": {
+   "x": -319.6,
+   "y": -94.8
+  },
+  "Kaeloria": {
+   "x": 147.2,
+   "y": -18.4
+  },
+  "Kaldaris": {
+   "x": -58.3,
+   "y": -220.5
+  },
+  "Kaldirith": {
+   "x": -370.8,
+   "y": -68.6
+  },
+  "Kalithar": {
+   "x": -207.6,
+   "y": -69.6
+  },
+  "Kaloria": {
+   "x": -147.4,
+   "y": 253.7
+  },
+  "Kalvorn": {
+   "x": 192.3,
+   "y": 45.6
+  },
+  "Keldris": {
+   "x": -31.6,
+   "y": 148.6
+  },
+  "Kelosar": {
+   "x": 219.5,
+   "y": -183.6
+  },
+  "Kelrith": {
+   "x": 326.1,
+   "y": 421.8
+  },
+  "Kelvoris": {
+   "x": -265.6,
+   "y": 129.1
+  },
+  "Kethyris": {
+   "x": -437.9,
+   "y": -87.9
+  },
+  "Killis": {
+   "x": -408.8,
+   "y": 143.2
+  },
+  "Krylnor": {
+   "x": 172.2,
+   "y": 141.0
+  },
+  "Kryndalis": {
+   "x": -41.5,
+   "y": -237.3
+  },
+  "Kryndor": {
+   "x": -406.1,
+   "y": -66.5
+  },
+  "Kyldar": {
+   "x": -140.0,
+   "y": 113.8
+  },
+  "Liram": {
+   "x": 150.4,
+   "y": -200.3
+  },
+  "Lorenthia": {
+   "x": -360.6,
+   "y": 290.0
+  },
+  "Lornath": {
+   "x": -91.8,
+   "y": -252.0
+  },
+  "Lunaris": {
+   "x": -167.9,
+   "y": 220.5
+  },
+  "Lysindor": {
+   "x": -199.6,
+   "y": -107.6
+  },
+  "Lysorn": {
+   "x": -46.0,
+   "y": -204.1
+  },
+  "Lythmar": {
+   "x": 3.8,
+   "y": -338.9
+  },
+  "Maldor": {
+   "x": -241.5,
+   "y": -186.1
+  },
+  "Malthoris": {
+   "x": -337.6,
+   "y": 298.8
+  },
+  "Meldor": {
+   "x": -399.6,
+   "y": -105.4
+  },
+  "Melithar": {
+   "x": -261.1,
+   "y": -160.4
+  },
+  "Mendris": {
+   "x": -153.5,
+   "y": 90.5
+  },
+  "Mirtel": {
+   "x": 190.3,
+   "y": -203.2
+  },
+  "Mithorn": {
+   "x": -352.5,
+   "y": -171.1
+  },
+  "Mordock": {
+   "x": 330.7,
+   "y": 35.6
+  },
+  "Morendil": {
+   "x": 234.8,
+   "y": 350.0
+  },
+  "Morvalis": {
+   "x": 174.5,
+   "y": -12.2
+  },
+  "Mylarin": {
+   "x": -374.4,
+   "y": 273.7
+  },
+  "Mylaris": {
+   "x": -310.5,
+   "y": 253.2
+  },
+  "Mylnor": {
+   "x": -266.4,
+   "y": -78.4
+  },
+  "Myndor": {
+   "x": -188.4,
+   "y": -97.9
+  },
+  "Myndora": {
+   "x": -307.1,
+   "y": -122.1
+  },
+  "Myralor": {
+   "x": -67.5,
+   "y": -379.0
+  },
+  "Myrath": {
+   "x": 259.4,
+   "y": 191.9
+  },
+  "Myrdan": {
+   "x": -252.9,
+   "y": 210.2
+  },
+  "Myrdoris": {
+   "x": 263.9,
+   "y": 28.6
+  },
+  "Myrdris": {
+   "x": -435.6,
+   "y": -61.9
+  },
+  "Myridia": {
+   "x": -271.0,
+   "y": 111.8
+  },
+  "Myrilith": {
+   "x": 215.0,
+   "y": 34.6
+  },
+  "Myrisora": {
+   "x": -340.1,
+   "y": 81.5
+  },
+  "Myrkis": {
+   "x": -417.3,
+   "y": -48.5
+  },
+  "Myrralith": {
+   "x": -406.5,
+   "y": -88.9
+  },
+  "Myrthos": {
+   "x": 270.4,
+   "y": 88.4
+  },
+  "Mythar": {
+   "x": -1.4,
+   "y": 132.4
+  },
+  "Mytharis": {
+   "x": 142.2,
+   "y": -4.6
+  },
+  "Mythralis": {
+   "x": -27.1,
+   "y": -249.9
+  },
+  "Mythrin": {
+   "x": 224.3,
+   "y": -155.0
+  },
+  "Namyr": {
+   "x": 217.5,
+   "y": -257.0
+  },
+  "Narothis": {
+   "x": -415.0,
+   "y": -164.2
+  },
+  "Nelthoris": {
+   "x": -175.7,
+   "y": 62.0
+  },
+  "Nomiris": {
+   "x": 13.7,
+   "y": -373.6
+  },
+  "Noryndal": {
+   "x": -28.0,
+   "y": -274.8
+  },
+  "Nydoria": {
+   "x": -455.9,
+   "y": -97.5
+  },
+  "Nydoros": {
+   "x": -254.6,
+   "y": -169.4
+  },
+  "Nydris": {
+   "x": -458.5,
+   "y": -69.5
+  },
+  "Nylorin": {
+   "x": -12.6,
+   "y": 145.2
+  },
+  "Nymaris": {
+   "x": -54.5,
+   "y": -291.5
+  },
+  "Nymiris": {
+   "x": -158.5,
+   "y": 127.0
+  },
+  "Nymria": {
+   "x": 170.0,
+   "y": 89.5
+  },
+  "Nysoris": {
+   "x": 225.0,
+   "y": -372.1
+  },
+  "Nythoria": {
+   "x": 295.3,
+   "y": 37.3
+  },
+  "Nythorin": {
+   "x": 19.1,
+   "y": -301.8
+  },
+  "Obryalis": {
+   "x": -167.9,
+   "y": 204.9
+  },
+  "Olvaris": {
+   "x": -362.5,
+   "y": -220.8
+  },
+  "Ondalith": {
+   "x": -278.1,
+   "y": -236.6
+  },
+  "Otharis": {
+   "x": -372.4,
+   "y": -138.0
+  },
+  "Othrion": {
+   "x": -340.0,
+   "y": -184.3
+  },
+  "Ralithor": {
+   "x": -340.5,
+   "y": -159.1
+  },
+  "Ralor": {
+   "x": -158.0,
+   "y": 155.8
+  },
+  "Ralorin": {
+   "x": 141.9,
+   "y": 47.9
+  },
+  "Ralthyn": {
+   "x": -390.2,
+   "y": -173.9
+  },
+  "Ralynor": {
+   "x": -229.3,
+   "y": -247.8
+  },
+  "Raventh": {
+   "x": 390.4,
+   "y": 423.0
+  },
+  "Ravynor": {
+   "x": -325.7,
+   "y": -116.9
+  },
+  "Rilthanir": {
+   "x": -399.1,
+   "y": -165.8
+  },
+  "Risel-Turam": {
+   "x": 167.1,
+   "y": -251.7
+  },
+  "Rithmar": {
+   "x": -312.8,
+   "y": -191.6
+  },
+  "Rydelith": {
+   "x": -194.4,
+   "y": 87.5
+  },
+  "Ryldorath": {
+   "x": 290.8,
+   "y": 230.6
+  },
+  "Ryndar": {
+   "x": 287.4,
+   "y": 99.7
+  },
+  "Ryndoria": {
+   "x": -332.3,
+   "y": -206.1
+  },
+  "Ryndorin": {
+   "x": 55.5,
+   "y": -342.3
+  },
+  "Sautrem": {
+   "x": 175.3,
+   "y": -209.2
+  },
+  "Selvorn": {
+   "x": -349.7,
+   "y": -90.3
+  },
+  "Skaldris": {
+   "x": 172.0,
+   "y": -86.0
+  },
+  "Sylorin": {
+   "x": -150.2,
+   "y": 171.6
+  },
+  "Sylradis": {
+   "x": -271.9,
+   "y": 183.1
+  },
+  "Sylthar": {
+   "x": -245.0,
+   "y": -159.8
+  },
+  "Sylthor": {
+   "x": 177.0,
+   "y": -64.6
+  },
+  "Sylthros": {
+   "x": -293.5,
+   "y": 178.2
+  },
+  "Sylvoria": {
+   "x": -406.9,
+   "y": -205.3
+  },
+  "Sylvorn": {
+   "x": -291.2,
+   "y": -167.8
+  },
+  "Taldaris": {
+   "x": 169.8,
+   "y": 5.3
+  },
+  "Taldorn": {
+   "x": -175.3,
+   "y": 112.3
+  },
+  "Talmaris": {
+   "x": -191.1,
+   "y": 171.1
+  },
+  "Talrin": {
+   "x": -244.3,
+   "y": 182.3
+  },
+  "Talvoria": {
+   "x": -185.7,
+   "y": -168.8
+  },
+  "Talvornis": {
+   "x": 23.7,
+   "y": 105.8
+  },
+  "Tarnora": {
+   "x": 297.0,
+   "y": 364.2
+  },
+  "Tesmian": {
+   "x": 172.2,
+   "y": -268.5
+  },
+  "Thaldor": {
+   "x": -330.0,
+   "y": 250.1
+  },
+  "Thaldris": {
+   "x": -59.6,
+   "y": -204.2
+  },
+  "Thalinar": {
+   "x": -417.0,
+   "y": -148.5
+  },
+  "Thalindor": {
+   "x": -359.0,
+   "y": -107.4
+  },
+  "Thalindra": {
+   "x": -414.8,
+   "y": -210.0
+  },
+  "Thalnor": {
+   "x": -178.5,
+   "y": -121.0
+  },
+  "Thalor": {
+   "x": 218.4,
+   "y": 93.1
+  },
+  "Thaloria": {
+   "x": 285.0,
+   "y": 8.7
+  },
+  "Thalorin": {
+   "x": 292.3,
+   "y": 193.0
+  },
+  "Thaloris": {
+   "x": 326.3,
+   "y": 201.3
+  },
+  "Thalorn": {
+   "x": 326.1,
+   "y": 173.5
+  },
+  "Thalvar": {
+   "x": -278.2,
+   "y": -206.7
+  },
+  "Thalyra": {
+   "x": -171.4,
+   "y": -94.3
+  },
+  "Theralor": {
+   "x": -163.2,
+   "y": 73.9
+  },
+  "Thorindal": {
+   "x": 25.9,
+   "y": -302.4
+  },
+  "Thrandor": {
+   "x": -250.6,
+   "y": -124.4
+  },
+  "Thylandor": {
+   "x": 234.6,
+   "y": 334.2
+  },
+  "Thylaria": {
+   "x": 314.1,
+   "y": 407.7
+  },
+  "Thylaris": {
+   "x": 200.1,
+   "y": -119.7
+  },
+  "Thyldor": {
+   "x": -7.3,
+   "y": -421.5
+  },
+  "Thyldrin": {
+   "x": 336.7,
+   "y": 221.6
+  },
+  "Thyldris": {
+   "x": 73.3,
+   "y": 259.1
+  },
+  "Thyloria": {
+   "x": 238.4,
+   "y": 97.6
+  },
+  "Thyndrel": {
+   "x": -338.6,
+   "y": -104.2
+  },
+  "Thyndros": {
+   "x": -394.0,
+   "y": -204.5
+  },
+  "Thyrana": {
+   "x": -329.2,
+   "y": 70.2
+  },
+  "Thyrin": {
+   "x": -284.6,
+   "y": 151.5
+  },
+  "Thyron": {
+   "x": 158.5,
+   "y": -174.3
+  },
+  "Thyronis": {
+   "x": -375.7,
+   "y": 284.2
+  },
+  "Thyros": {
+   "x": 135.5,
+   "y": -349.2
+  },
+  "Thyroth": {
+   "x": -328.9,
+   "y": 308.3
+  },
+  "Tolvenor": {
+   "x": -382.2,
+   "y": -56.0
+  },
+  "Torenlith": {
+   "x": -281.9,
+   "y": -199.7
+  },
+  "Tresnor": {
+   "x": -30.2,
+   "y": 159.0
+  },
+  "Turalt": {
+   "x": 148.0,
+   "y": -218.5
+  },
+  "Tyrolis": {
+   "x": -235.2,
+   "y": 238.0
+  },
+  "Ulithor": {
+   "x": -436.6,
+   "y": -45.1
+  },
+  "Ultharia": {
+   "x": -386.5,
+   "y": -100.3
+  },
+  "Ulverith": {
+   "x": -292.9,
+   "y": -146.6
+  },
+  "Umert": {
+   "x": 185.5,
+   "y": -255.7
+  },
+  "Valdarin": {
+   "x": 192.9,
+   "y": -168.5
+  },
+  "Valdren": {
+   "x": -255.5,
+   "y": 171.2
+  },
+  "Valdris": {
+   "x": 72.9,
+   "y": -422.4
+  },
+  "Valora": {
+   "x": -445.6,
+   "y": -47.3
+  },
+  "Valorin": {
+   "x": 318.0,
+   "y": 15.9
+  },
+  "Valoris": {
+   "x": 197.9,
+   "y": -181.1
+  },
+  "Valornis": {
+   "x": 210.8,
+   "y": 81.5
+  },
+  "Valtaris": {
+   "x": 139.0,
+   "y": 31.8
+  },
+  "Valthara": {
+   "x": -10.8,
+   "y": -297.0
+  },
+  "Valtheron": {
+   "x": 91.9,
+   "y": -359.3
+  },
+  "Valthorn": {
+   "x": -234.7,
+   "y": -140.1
+  },
+  "Valyria": {
+   "x": 183.0,
+   "y": 59.6
+  },
+  "Varalia": {
+   "x": -371.6,
+   "y": -197.5
+  },
+  "Varethor": {
+   "x": -408.9,
+   "y": -126.8
+  },
+  "Varithor": {
+   "x": -186.3,
+   "y": -136.1
+  },
+  "Vekrion": {
+   "x": -315.5,
+   "y": -217.4
+  },
+  "Velaris": {
+   "x": 188.5,
+   "y": 103.7
+  },
+  "Velathor": {
+   "x": -238.9,
+   "y": -231.1
+  },
+  "Velimar": {
+   "x": -269.5,
+   "y": -101.6
+  },
+  "Velithor": {
+   "x": -394.2,
+   "y": -138.7
+  },
+  "Velkaris": {
+   "x": -309.9,
+   "y": -158.5
+  },
+  "Velkoros": {
+   "x": -206.7,
+   "y": -167.0
+  },
+  "Velmaris": {
+   "x": -357.8,
+   "y": -221.5
+  },
+  "Velorn": {
+   "x": -126.5,
+   "y": 87.6
+  },
+  "Velrith": {
+   "x": 254.0,
+   "y": -5.4
+  },
+  "Velryn": {
+   "x": -191.9,
+   "y": -189.5
+  },
+  "Velthar": {
+   "x": -225.5,
+   "y": 84.4
+  },
+  "Velthorin": {
+   "x": -207.4,
+   "y": 221.6
+  },
+  "Velthorn": {
+   "x": 250.3,
+   "y": 73.5
+  },
+  "Velynor": {
+   "x": -373.4,
+   "y": -147.8
+  },
+  "Vesperis": {
+   "x": -295.3,
+   "y": 139.0
+  },
+  "Vesperith": {
+   "x": -218.8,
+   "y": 119.3
+  },
+  "Vilnora": {
+   "x": -276.6,
+   "y": 78.6
+  },
+  "Vorlith": {
+   "x": -381.8,
+   "y": -213.9
+  },
+  "Vorthar": {
+   "x": 13.8,
+   "y": 84.2
+  },
+  "Vyldor": {
+   "x": -136.9,
+   "y": 99.2
+  },
+  "Vylora": {
+   "x": -386.7,
+   "y": 282.4
+  },
+  "Vyndar": {
+   "x": 161.2,
+   "y": -57.0
+  },
+  "Vyndarin": {
+   "x": 280.7,
+   "y": 74.5
+  },
+  "Vyndor": {
+   "x": 290.2,
+   "y": 174.8
+  },
+  "Vyndoria": {
+   "x": -58.1,
+   "y": -297.8
+  },
+  "Vyndorin": {
+   "x": 239.9,
+   "y": -176.0
+  },
+  "Vyndoris": {
+   "x": 179.0,
+   "y": 341.4
+  },
+  "Vyndria": {
+   "x": -341.0,
+   "y": 321.3
+  },
+  "Vyndris": {
+   "x": 309.2,
+   "y": 183.9
+  },
+  "Vyndrith": {
+   "x": 55.8,
+   "y": -370.0
+  },
+  "Vynthal": {
+   "x": 19.8,
+   "y": 124.7
+  },
+  "Vyntheris": {
+   "x": 201.9,
+   "y": 327.4
+  },
+  "Vyrathos": {
+   "x": 406.3,
+   "y": 460.4
+  },
+  "Vyrndel": {
+   "x": -313.2,
+   "y": -79.8
+  },
+  "Vyrnith": {
+   "x": -165.5,
+   "y": 161.6
+  },
+  "Vystara": {
+   "x": 214.0,
+   "y": 364.3
+  },
+  "Vystaris": {
+   "x": -131.0,
+   "y": 163.7
+  },
+  "Vythora": {
+   "x": -271.0,
+   "y": -154.1
+  },
+  "Wynthar": {
+   "x": -40.3,
+   "y": -260.1
+  },
+  "Xarnith": {
+   "x": -248.1,
+   "y": -247.4
+  },
+  "Xerathis": {
+   "x": 5.6,
+   "y": 99.1
+  },
+  "Ydralis": {
+   "x": -245.6,
+   "y": 105.2
+  },
+  "Ylisfar": {
+   "x": -308.0,
+   "y": 63.7
+  },
+  "Ylloris": {
+   "x": -252.6,
+   "y": 235.4
+  },
+  "Ylondor": {
+   "x": -174.8,
+   "y": -152.4
+  },
+  "Ylthros": {
+   "x": -368.4,
+   "y": -182.0
+  },
+  "Ynorath": {
+   "x": -224.2,
+   "y": -179.8
+  },
+  "Ythara": {
+   "x": -274.4,
+   "y": -144.0
+  },
+  "Ythralia": {
+   "x": -353.9,
+   "y": -193.2
+  },
+  "Yvondor": {
+   "x": -388.9,
+   "y": -154.7
+  },
+  "Zaldrin": {
+   "x": -277.8,
+   "y": 206.0
+  },
+  "Zalnor": {
+   "x": -294.6,
+   "y": -95.0
+  },
+  "Zaralith": {
+   "x": -186.2,
+   "y": 234.1
+  },
+  "Zarathor": {
+   "x": 120.3,
+   "y": 12.5
+  },
+  "Zarnith": {
+   "x": 113.0,
+   "y": -385.5
+  },
+  "Zelmaris": {
+   "x": -129.2,
+   "y": 150.0
+  },
+  "Zelrith": {
+   "x": 202.9,
+   "y": 6.5
+  },
+  "Zelthar": {
+   "x": 156.3,
+   "y": -370.8
+  },
+  "Zolkoris": {
+   "x": 187.0,
+   "y": -145.5
+  },
+  "Zorathis": {
+   "x": 163.1,
+   "y": 108.0
+  },
+  "Zylarin": {
+   "x": 68.1,
+   "y": 318.9
+  },
+  "Zyldor": {
+   "x": 143.8,
+   "y": -411.1
+  },
+  "Zyldoria": {
+   "x": 23.4,
+   "y": -285.1
+  },
+  "Zyldoris": {
+   "x": 312.2,
+   "y": 42.2
+  },
+  "Zyldrin": {
+   "x": 241.7,
+   "y": 117.6
+  },
+  "Zyldris": {
+   "x": 145.9,
+   "y": -152.3
+  },
+  "Zylor": {
+   "x": -192.2,
+   "y": 201.2
+  },
+  "Zyloria": {
+   "x": 291.1,
+   "y": 163.8
+  },
+  "Zyloris": {
+   "x": 277.5,
+   "y": 83.2
+  },
+  "Zyndaris": {
+   "x": 177.0,
+   "y": 34.6
+  },
+  "Zyndor": {
+   "x": 187.3,
+   "y": -110.2
+  },
+  "Zyndrel": {
+   "x": 150.5,
+   "y": 18.2
+  },
+  "Zyndrelis": {
+   "x": 249.3,
+   "y": -173.1
+  },
+  "Zyndril": {
+   "x": -385.7,
+   "y": -132.3
+  },
+  "Zyndris": {
+   "x": 310.4,
+   "y": 197.4
+  }
+ },
+ "couche_region": {
+  "Aetharia": {
+   "x": -155.9,
+   "y": 169.3
+  },
+  "Amaroth": {
+   "x": -261.2,
+   "y": 94.2
+  },
+  "Ardentia": {
+   "x": 200.0,
+   "y": -147.7
+  },
+  "Astralor": {
+   "x": -401.0,
+   "y": -53.2
+  },
+  "Azuralis": {
+   "x": 211.0,
+   "y": 74.5
+  },
+  "Azuris": {
+   "x": -199.7,
+   "y": -118.9
+  },
+  "Boralis": {
+   "x": -445.8,
+   "y": -37.6
+  },
+  "Boreluna": {
+   "x": -294.2,
+   "y": -123.5
+  },
+  "Brastallia": {
+   "x": -10.5,
+   "y": -298.0
+  },
+  "Brevana": {
+   "x": -161.7,
+   "y": 82.3
+  },
+  "Brumancia": {
+   "x": -318.5,
+   "y": 244.4
+  },
+  "Brynthal": {
+   "x": -216.6,
+   "y": 128.6
+  },
+  "Brystal": {
+   "x": -206.2,
+   "y": 205.2
+  },
+  "Caelith": {
+   "x": -347.1,
+   "y": -100.3
+  },
+  "Calyndor": {
+   "x": 365.9,
+   "y": 136.7
+  },
+  "Camord": {
+   "x": 402.1,
+   "y": 90.9
+  },
+  "Caverana": {
+   "x": -376.5,
+   "y": -146.0
+  },
+  "Celnar": {
+   "x": 291.7,
+   "y": 222.1
+  },
+  "Crestalia": {
+   "x": 175.7,
+   "y": 91.6
+  },
+  "Cystara": {
+   "x": -199.7,
+   "y": 228.8
+  },
+  "Davoria": {
+   "x": -186.9,
+   "y": 95.9
+  },
+  "Diamora": {
+   "x": -312.6,
+   "y": 287.3
+  },
+  "Dromolia": {
+   "x": -290.9,
+   "y": -202.7
+  },
+  "Duskoria": {
+   "x": 190.1,
+   "y": 342.8
+  },
+  "Dyanos": {
+   "x": -228.8,
+   "y": 95.4
+  },
+  "Elarion": {
+   "x": 15.6,
+   "y": 135.3
+  },
+  "Eleris": {
+   "x": -150.8,
+   "y": 104.8
+  },
+  "Eryndor": {
+   "x": 320.4,
+   "y": 177.6
+  },
+  "Etheira": {
+   "x": -443.9,
+   "y": -100.3
+  },
+  "Ethrion": {
+   "x": -301.1,
+   "y": -72.8
+  },
+  "Evertia": {
+   "x": -422.4,
+   "y": 152.7
+  },
+  "Fablior": {
+   "x": 334.7,
+   "y": 216.6
+  },
+  "Fenoria": {
+   "x": -260.2,
+   "y": 69.9
+  },
+  "Folinor": {
+   "x": -5.5,
+   "y": 138.5
+  },
+  "Frondeval": {
+   "x": -398.1,
+   "y": -139.9
+  },
+  "Fugnord": {
+   "x": 354.7,
+   "y": 187.2
+  },
+  "Fyrilith": {
+   "x": -207.4,
+   "y": -165.1
+  },
+  "Fyrtara": {
+   "x": -194.2,
+   "y": 155.8
+  },
+  "Gelinar": {
+   "x": -155.8,
+   "y": 244.4
+  },
+  "Gimtar": {
+   "x": -50.7,
+   "y": -219.8
+  },
+  "Gistenora": {
+   "x": -327.0,
+   "y": -135.0
+  },
+  "Glintar": {
+   "x": 196.0,
+   "y": 43.7
+  },
+  "Grendor": {
+   "x": -199.4,
+   "y": -200.5
+  },
+  "Haliandra": {
+   "x": 224.3,
+   "y": -139.9
+  },
+  "Hekoria": {
+   "x": -255.5,
+   "y": 156.5
+  },
+  "Helionar": {
+   "x": 170.0,
+   "y": 1.6
+  },
+  "Hiliara": {
+   "x": -232.4,
+   "y": -137.3
+  },
+  "Holvandor": {
+   "x": -205.7,
+   "y": 62.2
+  },
+  "Iliara": {
+   "x": -176.4,
+   "y": 190.1
+  },
+  "Ilyndor": {
+   "x": -132.0,
+   "y": 79.0
+  },
+  "Indelite": {
+   "x": 150.6,
+   "y": 67.0
+  },
+  "Inverna": {
+   "x": 39.7,
+   "y": -344.6
+  },
+  "Invorial": {
+   "x": -274.6,
+   "y": -87.0
+  },
+  "Ithralis": {
+   "x": -250.0,
+   "y": -215.4
+  },
+  "Jalkanor": {
+   "x": 155.5,
+   "y": -176.6
+  },
+  "Jentar": {
+   "x": 16.3,
+   "y": 105.9
+  },
+  "Jolera": {
+   "x": -394.8,
+   "y": -118.9
+  },
+  "Julindar": {
+   "x": -252.4,
+   "y": 121.0
+  },
+  "Kandaros": {
+   "x": -260.9,
+   "y": 196.1
+  },
+  "Kethorin": {
+   "x": -151.8,
+   "y": 129.4
+  },
+  "Korrinor": {
+   "x": 0.3,
+   "y": 122.4
+  },
+  "Kryostra": {
+   "x": -75.2,
+   "y": -245.3
+  },
+  "Krysalor": {
+   "x": -245.1,
+   "y": -187.5
+  },
+  "Lagosaim": {
+   "x": -367.2,
+   "y": -181.0
+  },
+  "Liannor": {
+   "x": 185.1,
+   "y": -239.7
+  },
+  "Lushara": {
+   "x": 129.8,
+   "y": -1.4
+  },
+  "Lyraxia": {
+   "x": 199.6,
+   "y": -115.3
+  },
+  "Lysoria": {
+   "x": 94.5,
+   "y": -362.4
+  },
+  "Lythoria": {
+   "x": -154.6,
+   "y": 149.9
+  },
+  "Malrith": {
+   "x": -377.0,
+   "y": 282.1
+  },
+  "Martelios": {
+   "x": 194.4,
+   "y": -212.7
+  },
+  "Meliflore": {
+   "x": -365.6,
+   "y": 289.1
+  },
+  "Meridia": {
+   "x": -417.8,
+   "y": -147.8
+  },
+  "Mondack": {
+   "x": 443.8,
+   "y": 85.1
+  },
+  "Myralis": {
+   "x": -129.3,
+   "y": 172.3
+  },
+  "Myrthal": {
+   "x": 200.8,
+   "y": -181.0
+  },
+  "Mytzar": {
+   "x": -323.3,
+   "y": -104.1
+  },
+  "Nalithos": {
+   "x": -251.1,
+   "y": -238.1
+  },
+  "Nalmir": {
+   "x": 252.9,
+   "y": 16.3
+  },
+  "Nectaris": {
+   "x": -182.2,
+   "y": 217.4
+  },
+  "Nomadaro": {
+   "x": -239.6,
+   "y": -111.9
+  },
+  "Nosford": {
+   "x": 351.5,
+   "y": 97.3
+  },
+  "Nysaria": {
+   "x": 226.6,
+   "y": -378.6
+  },
+  "Olkanir": {
+   "x": 160.5,
+   "y": -152.0
+  },
+  "Oracalis": {
+   "x": -433.8,
+   "y": -79.5
+  },
+  "Osaria": {
+   "x": -248.3,
+   "y": -93.1
+  },
+  "Ostaris": {
+   "x": 266.5,
+   "y": 52.4
+  },
+  "Perival": {
+   "x": 261.5,
+   "y": 101.1
+  },
+  "Plenera": {
+   "x": -389.8,
+   "y": -86.7
+  },
+  "Porthar": {
+   "x": 325.4,
+   "y": 194.5
+  },
+  "Prismora": {
+   "x": -290.7,
+   "y": -162.8
+  },
+  "Pyrendor": {
+   "x": -207.5,
+   "y": 78.3
+  },
+  "Qythros": {
+   "x": 182.8,
+   "y": -162.8
+  },
+  "Raenoth": {
+   "x": -183.0,
+   "y": 169.5
+  },
+  "Ragnack": {
+   "x": 411.9,
+   "y": 152.7
+  },
+  "Ralmeria": {
+   "x": 281.5,
+   "y": 196.2
+  },
+  "Ravantis": {
+   "x": -238.1,
+   "y": 210.7
+  },
+  "Reckia": {
+   "x": -294.6,
+   "y": 133.0
+  },
+  "Rontho": {
+   "x": -216.1,
+   "y": -186.5
+  },
+  "Ryldor": {
+   "x": 137.4,
+   "y": -362.5
+  },
+  "Rylthos": {
+   "x": 298.7,
+   "y": 27.0
+  },
+  "Rystera": {
+   "x": -416.7,
+   "y": -84.3
+  },
+  "Siera": {
+   "x": -298.3,
+   "y": 99.8
+  },
+  "Silvarenth": {
+   "x": 215.4,
+   "y": 338.0
+  },
+  "Skaldoria": {
+   "x": 167.3,
+   "y": -72.9
+  },
+  "Solandra": {
+   "x": -175.6,
+   "y": -103.2
+  },
+  "Solara": {
+   "x": -326.5,
+   "y": 314.7
+  },
+  "Sorel Tiam": {
+   "x": 165.5,
+   "y": -254.3
+  },
+  "Sylvaris": {
+   "x": -141.6,
+   "y": 198.0
+  },
+  "Taloram": {
+   "x": 175.4,
+   "y": -201.0
+  },
+  "Teldar": {
+   "x": -329.8,
+   "y": -78.1
+  },
+  "Tetramis": {
+   "x": -465.5,
+   "y": -68.9
+  },
+  "Tolvandor": {
+   "x": -186.5,
+   "y": 68.2
+  },
+  "Toreck": {
+   "x": 379.9,
+   "y": 35.3
+  },
+  "Torian": {
+   "x": 157.5,
+   "y": -217.5
+  },
+  "Tressalia": {
+   "x": -31.6,
+   "y": 155.7
+  },
+  "Tundryst": {
+   "x": -64.8,
+   "y": -283.6
+  },
+  "Uldora": {
+   "x": -288.6,
+   "y": 166.1
+  },
+  "Umarisar": {
+   "x": -183.8,
+   "y": -140.8
+  },
+  "Utophora": {
+   "x": -336.8,
+   "y": 273.6
+  },
+  "Valdran": {
+   "x": 435.6,
+   "y": 48.6
+  },
+  "Velithar": {
+   "x": 392.1,
+   "y": 136.7
+  },
+  "Veskara": {
+   "x": -42.5,
+   "y": -259.3
+  },
+  "Vesperilia": {
+   "x": -434.3,
+   "y": -57.1
+  },
+  "Virendor": {
+   "x": -318.2,
+   "y": 270.8
+  },
+  "Warenthor": {
+   "x": -219.6,
+   "y": 182.3
+  },
+  "Wildoria": {
+   "x": 207.1,
+   "y": 111.1
+  },
+  "Windora": {
+   "x": -22.6,
+   "y": -330.4
+  },
+  "Xeranthia": {
+   "x": -155.2,
+   "y": 225.4
+  },
+  "Xerathoria": {
+   "x": 221.7,
+   "y": -157.6
+  },
+  "Xyria": {
+   "x": 11.7,
+   "y": 92.2
+  },
+  "Yaltar": {
+   "x": 205.4,
+   "y": -227.5
+  },
+  "Ysolia": {
+   "x": 161.6,
+   "y": 28.4
+  },
+  "Ysundara": {
+   "x": -209.5,
+   "y": -75.5
+  },
+  "Zariheim": {
+   "x": -332.5,
+   "y": -184.8
+  },
+  "Zolkanor": {
+   "x": 177.9,
+   "y": -137.4
+  },
+  "Zylar": {
+   "x": 239.2,
+   "y": 62.4
+  }
+ }
+}
