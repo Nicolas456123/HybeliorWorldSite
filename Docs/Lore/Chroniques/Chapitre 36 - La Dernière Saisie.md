@@ -49,7 +49,7 @@ Ce n’était pas une accusation. C’était un homme qui posait ses cartes sur 
 
 La mer sous nous respirait, lente, avec cette surface tendue qui ressemblait plus à une peau qu’à de l’eau. J’aurais pu lui mentir. C’eût été facile, et sans grand risque : un capitaine altram ne va pas jeter un passager par-dessus bord sur un soupçon. Mais Reen m’avait ramené depuis le bout du monde, et il y a un moment où le prix d’une couverture devient plus lourd que la couverture elle-même.
 
-«  Ils viennent pour ce que je porte, dis-je, sans y mettre plus de voix que pour un relevé. Pas pour votre cannelle. Vos papiers vous couvriront. Le manifeste est juste, votre équipage n’a rien à cacher, et ce qu’ils cherchent, ce sont des cahiers, pas de la contrebande. Ils les regarderont, ils ne trouveront rien qui vaille une saisie, et ils repartiront.  »
+«  Ils viennent pour ce que je porte, dis-je. Pas pour votre cannelle. Vos papiers vous couvriront. Le manifeste est juste, votre équipage n’a rien à cacher, et ce qu’ils cherchent, ce sont des cahiers, pas de la contrebande. Ils les regarderont, ils ne trouveront rien qui vaille une saisie, et ils repartiront.  »
 
 Reen me considéra un long moment de ses yeux d’un brun très pâle.
 
@@ -113,11 +113,11 @@ Un autre y passa, puis un autre. Sa lecture s’accélérait et son visage ne ch
 
 — Je ne parle pas d’un cahier manquant.  » Refermant celui qu’il tenait, il le reposa exactement à sa place dans la rangée, ce qui, chez lui, était une forme de courtoisie. «  Je parle de la thèse. Un homme fait le tour du monde parce qu’il a compris quelque chose sur les Déliés, sur ce qui dort sous les continents, sur ce que certaines personnes, à Prismalith, dépensent beaucoup d’énergie à garder scellé. Cet homme écrit. Et ce qu’il écrit, si l’on cherche à l’arrêter, c’est le mémoire, l’exposé, le réquisitoire. La pièce qu’on dépose sur un bureau et qui oblige à répondre.  » Il posa une main à plat sur la rangée de cahiers. «  Il n’y a rien de cela ici. Il y a le prix du sel.  »
 
-«  Je suis cartographe, dis-je, du ton dont on donne un état civil. Je note ce que je vois. Le prix du sel se voit.  »
+«  Je suis cartographe, dis-je. Je note ce que je vois. Le prix du sel se voit.  »
 
-«  Le prix du sel se voit  », répéta-t-il, lentement, comme on répète la phrase d’un adversaire pour en sentir le poids.
+«  Le prix du sel se voit  », répéta-t-il, lentement.
 
-Rouvrant un cahier au milieu, il choisit une ligne et la lut à voix haute, sans intonation, du ton dont on lit un inventaire.
+Rouvrant un cahier au milieu, il choisit une ligne et la lut à voix haute, sans intonation.
 
 «  *Le volcan de Cendara bat à intervalle constant. Les plongeurs de Kaldris le sentent depuis la mer, les vignerons de Mylaris dans les cuves.*  » Il releva les yeux. «  Voilà qui n’est plus tout à fait le prix du sel, monsieur Valthen.
 
@@ -147,7 +147,7 @@ Je laissai une lame passer sous la coque avant de répondre. «  À personne. 
 
 Ce n’était pas un mensonge. Personne ne les avait lus. Les seize doubles dormaient dans soixante ports, dans des coffres d’imprimeurs et des arrière-boutiques d’archivistes, recopiés, dispersés, jamais ouverts, attendant un lecteur qui ne viendrait peut-être que dans dix ans ou dans cent. On ne montre pas une chose qu’on enterre. On la sème, et une graine ne se lit pas : elle attend. Personne ne les avait lus. C’était exact au mot près, et c’était la seule chose exacte qui pouvait, ce jour-là, me sauver.
 
-«  Ce sont les seuls que vous ayez  ?  » Il posa la question sans y mettre plus de poids qu’aux autres, à la manière des hommes qui gardent leur voix la plus plate pour ce qui compte le plus.
+«  Ce sont les seuls que vous ayez  ?  » demanda-t-il sans changer de ton.
 
 «  Ce sont les seuls que j’aie sur moi  », répondis-je, et je fis comme lui : je ne posai pas les deux derniers mots plus haut que le reste.
 

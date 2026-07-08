@@ -30,7 +30,7 @@ Il eut le sourire des gens qui ont déjà entendu cela.
 
 «  À Mirathi.  »
 
-Le nom lui ôta le sourire. Il rangea sa perche, cracha dans l’eau grasse du bassin, et lorsqu’il reprit ce fut d’une voix plus basse, celle qu’on emploie pour les choses qu’on ne veut pas expliquer et qu’on ne peut pas taire.
+Le nom lui ôta le sourire. Il rangea sa perche, cracha dans l’eau grasse du bassin, et reprit plus bas.
 
 «  Alors on vous a déjà rêvé là-haut. On ne monte pas à Mirathi de sa propre idée. On y monte parce que quelqu’un, là-bas, a rêvé qu’on montait.  »
 
@@ -70,7 +70,7 @@ Elle se nommait Yrenna, ce qui la distinguait des rêveuses du Sanctuaire, lesqu
 
 «  Vous copiez le courrier des autres, résumai-je.  »
 
-«  Nous copions ce qui traverse.  » Elle répondait sur un débit égal, sans une gêne, du même ton qu’elle aurait mis à recopier la phrase sans se demander ce qu’elle voulait dire  ; la nuance, pour elle, était réelle. «  Un col est un endroit où tout le monde passe et où personne ne reste. Le Sanctuaire tient l’archive de ce passage. Vous êtes cartographe, on me l’a dit. Vous levez les chemins. Nous, nous levons ce qui marche dessus.  »
+«  Nous copions ce qui traverse.  » Elle corrigeait sans se troubler  ; la nuance, pour elle, était réelle. «  Un col est un endroit où tout le monde passe et où personne ne reste. Le Sanctuaire tient l’archive de ce passage. Vous êtes cartographe, on me l’a dit. Vous levez les chemins. Nous, nous levons ce qui marche dessus.  »
 
 L’argument se tenait mieux que je n’aurais voulu. Je le lui dis, et elle parut contente qu’un étranger le comprît.
 
@@ -102,7 +102,7 @@ Elle me demanda si j’avais senti la pulsation. Oui, répondis-je : j’étais
 
 «  Ce que vous avez senti n’était pas la montagne  », dit-elle par la bouche de l’assistant. «  C’était ce qu’il y a sous la montagne.  »
 
-La phrase alla dans le carnet. Le ton surtout, qui n’avait rien de solennel : celui d’une guérisseuse annonçant ce qu’elle sait d’avance trouver sous le pansement.
+La phrase alla dans le carnet. Rien de solennel là-dedans : un constat, pas une prophétie.
 
 Ensuite elle me parla du Cœur non comme d’une légende mais comme d’une chose qui a une période. Un cycle. Une régularité plus ancienne que les nations, plus ancienne que les noms que nous donnons à nos peurs. L’assistant butait sur plusieurs termes  ; le galenorien, disait-il, manque de mots pour cela. Ce rythme, elle le reliait aux désordres que les voyageurs rapportent partout : les étoiles décalées, les chevaux qui refusent les creux du sol, les esprits qui se taisent l’un après l’autre, la sève qui change de couleur avant la saison. C’était sa lecture, que je consignai sous son nom, comme une chose entendue, non comme une preuve vue de mes yeux.
 
@@ -126,7 +126,7 @@ L’assistant me conduisit, après la consultation, chez un érudit en résidenc
 
 Sans un mot de préambule, il posa devant moi une copie qu’il gardait comme d’autres gardent une plaie.
 
-«  On me dit que vous lisez les vieilles écritures  », fit-il enfin, posant les mots un à un comme un homme habitué à les vendre au compte.
+«  On me dit que vous lisez les vieilles écritures  », dit-il enfin, sans lever les yeux de la feuille.
 
 «  Je lève des cartes, répondis-je. Je lis ce qui est gravé sur les bornes. Ce n’est pas la même science.  »
 
@@ -207,7 +207,7 @@ Le vent tirait sur le coin de la feuille sous le caillou. Yrenna me regardait.
 
 «  C’est mon nom et c’est ma ville.  »
 
-«  Alors ils vous poursuivent.  » Elle avait dit cela avec douceur, la douceur qu’on met à confirmer un malheur qu’on croit voir chez l’autre. «  Voilà pourquoi je vous la donne. On a le droit de savoir qu’on est chassé. Le vieil Orneth ne dort plus depuis deux ans à cause d’un texte  ; vous, on vous écrit à votre insu des notes qui décident de vous. C’est la même solitude. Je n’aime pas la voir deux fois dans le même mois.  »
+«  Alors ils vous poursuivent.  » Elle l’avait dit avec douceur. «  Voilà pourquoi je vous la donne. On a le droit de savoir qu’on est chassé. Le vieil Orneth ne dort plus depuis deux ans à cause d’un texte  ; vous, on vous écrit à votre insu des notes qui décident de vous. C’est la même solitude. Je n’aime pas la voir deux fois dans le même mois.  »
 
 Pendant qu’elle parlait, je copiai la note dans mon carnet, ligne à ligne. Je ne démentis rien, il n’y avait rien à démentir : chaque phrase de cette note était exacte. Le rapport avait suivi le départ, non l’inverse. Le scriptorium de Lumasar tenait une copie  ; les ports du fleuve d’Onar en tenaient d’autres, une par port, données une à une comme on plante. Un homme qui aurait été surpris de se lire ainsi aurait protesté, ou ri, ou pâli. De ces documents qui me concernent, je fais ce que je fais de tous : je les verse au relevé. Une carte de vous-même dressée par un ennemi reste une carte  ; on la range avec les autres et l’on note d’où elle vient.
 

@@ -41,7 +41,7 @@ Ses yeux ne quittèrent pas le manche.
 
 «  Une histoire que je n’arrive pas à finir. Depuis bientôt cinq ans.
 — Cinq ans sur un seul chant, repris-je.
-— Sur une seule note, dit-il, un mot planté après l’autre. La dernière. Elle devrait aller quelque part que je n’ai pas encore entendu.  »
+— Sur une seule note, dit-il. La dernière. Elle devrait aller quelque part que je n’ai pas encore entendu.  »
 
 Je posai ma gourde. Cinq ans. Mon carnet gardait, depuis Trinoria, une autre mention de cinq ans : les druides datant de là le premier trouble sous les racines. Et depuis Iskara, un mineur parlant d’un son changé «  ces dernières années  ». Trois lieux, trois métiers, une même profondeur d’années. De cela, je ne dis rien. J’écoutai la manière qu’avait cet homme de parler de son travail comme d’un lieu à atteindre et non d’un problème à résoudre. La note existait déjà, quelque part. Restait seulement à y arriver.
 
@@ -107,9 +107,7 @@ Brennan avait attendu que j’aie fini.
 — Et vous, quand personne ne vous écoute  ?
 — Je l’appelle une responsabilité.
 — Ce n’est pas un nom, dis-je.
-— C’est le seul qui m’empêche de mentir.  »
-
-Sa voix était descendue sous celle de la ville, réservée au seul homme à portée.
+— C’est le seul qui m’empêche de mentir, dit-il plus bas, pour moi seul.  »
 
 Il me regarda un instant de plus qu’il n’était nécessaire.
 
@@ -168,9 +166,9 @@ Sur le seuil de Galdaris, mon carnet à la main, je le demandai à Brennan.
 Deux doigts se posèrent sur la caisse de son luth, sans le prendre.
 
 «  Nous ne fixons pas, Sorin. Pas par paresse. Parce qu’une chose fixée cesse de bouger, et que la nôtre est faite de son mouvement. La note que je cherche depuis cinq ans, si je l’écrivais aujourd’hui fausse, je la tiendrais pour toujours fausse. Tant qu’elle n’est nulle part, elle peut encore aller où elle doit.
-— Là où je viens, une chose qui n’est nulle part meurt avec le premier homme qu’on fait taire.  »
+— Là où je viens, une chose qui n’est nulle part meurt avec le premier homme qu’on fait taire, dis-je, plus sèchement que je ne l’aurais voulu.  »
 
-Je l’avais dit plus sèchement que je ne l’aurais voulu. Il ne s’en offusqua pas, pesant la phrase comme il pesait tout.
+Il ne s’en offusqua pas, pesant la phrase comme il pesait tout.
 
 «  Deux peurs opposées, dit-il enfin. Vous craignez qu’une chose non écrite disparaisse. Nous craignons qu’une chose écrite se fige. Nous avons peut-être tort tous les deux.
 — Alors laissez-moi prendre le risque à votre place. Si je me trompe, ce n’est que mon carnet qui ment. Le vôtre reste juste.  »

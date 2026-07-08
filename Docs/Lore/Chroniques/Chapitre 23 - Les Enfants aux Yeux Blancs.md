@@ -29,8 +29,6 @@ Il s’appelait Karsk. Menant l’une des deux coques doubles de Thyronis autori
 — Je ne veux pas qu’elle bouge. Je veux savoir quand elle bougera.
 — Ça, personne ne le sait.  »
 
-Il l’avait dit sans y mettre d’humeur, comme on énonce la profondeur d’un chenal, un chiffre qui ne se discute pas.
-
 J’avais laissé passer. Certains hommes, on ne les convainc pas en une phrase, et Karsk était de ceux dont le savoir est fait d’avoir survécu, ce qui vaut mieux que d’avoir raison. Chaque soir, je revins. De la brume, je ne lui parlai pas  ; je lui parlai de ses coques, de la façon dont Thyronis double la carène pour que le récif ne l’éventre pas, du bois qu’ils font venir d’Ilthara parce qu’aucun arbre de Cendara ne pousse assez droit. Un homme parle volontiers de son métier à qui l’écoute vraiment. Au quatrième soir, il posait des questions à son tour.
 
 «  Vous notez tout, sur vos feuilles, dit-il en posant son aiguille. À quoi ça sert, de noter une brume  ?
@@ -40,7 +38,7 @@ J’avais laissé passer. Certains hommes, on ne les convainc pas en une phrase,
 
 Mon carnet, je le fis glisser vers lui, ouvert à la page des relevés. Les chiffres, il ne savait pas les lire, mais il reconnut les petits croquis du chenal, la lisière que j’avais tracée matin après matin.
 
-«  Elle recule, dit-il en suivant mon doigt, presque malgré lui.
+«  Elle recule, murmura-t-il en suivant mon doigt, presque malgré lui.
 — De deux longueurs par jour depuis avant-hier. Demain la marée descend au dernier quartier. Le froid du cône plongera sur l’eau chaude avant l’aube.  »
 
 Longtemps, il me regarda. Ce n’était pas de la crainte  ; c’était le calcul lent d’un homme qui range un fait nouveau parmi ceux qu’il croyait connaître seul.
@@ -126,9 +124,7 @@ Un instant, il me considéra, puis fit glisser une chaise du pied.
 Ce n’était pas une question. Je m’assis. Je ne mens jamais à un homme qui garde des mesures  ; je choisis seulement lesquelles je lui demande.
 
 «  On dit que vous les avez examinés.
-— Neuf, dit-il. En six ans. Le premier avait un an quand je l’ai vu, il en a sept aujourd’hui. Le dernier est né au printemps.  »
-
-Les dates lui venaient sans qu’il eût à les chercher, rangées d’avance, dans l’ordre où il les avait inscrites.
+— Neuf, récita-t-il. En six ans. Le premier avait un an quand je l’ai vu, il en a sept aujourd’hui. Le dernier est né au printemps.  »
 
 Des yeux, il ne parlait pas. D’abord, je crus qu’il évitait le sujet  ; puis je compris qu’il le tenait à distance par méthode, comme moi la brume.
 
@@ -155,7 +151,7 @@ Puis il se retourna.
 — Et l’on sait que vous le tenez.
 — On commence à le savoir, oui.  »
 
-Sans frayeur, il le dit, du ton dont on annonce une marée. Je connaissais ce ton, entendu chez Mira, la nuit d’avant Rukhsar, chez d’autres depuis. C’est celui des gens qui ont compris qu’ils étaient devenus, sans l’avoir cherché, une chose qu’on efface.
+Sans frayeur, il le dit. Je connaissais ce calme, entendu chez Mira, la nuit d’avant Rukhsar, chez d’autres depuis. C’est celui des gens qui ont compris qu’ils étaient devenus, sans l’avoir cherché, une chose qu’on efface.
 
 «  Vos mesures, demandai-je. Les dates de naissance, les lieux, l’ordre. Me les laisserez-vous copier  ?  »
 
@@ -230,7 +226,7 @@ Sa mère m’attendait à l’entrée de la maison, ce soir-là. Elle s’appela
 
 «  Vous êtes resté longtemps avec elle, sur la grève, dit-elle à voix basse, pour que la maison n’entende pas.
 — Elle m’a parlé. Je l’ai écoutée.
-— Qu’a-t-elle dit  ?  »
+— Qu’a-t-elle dit  ?  » pressa-t-elle.
 
 Fidèlement, je le lui rapportai, sans les mots que j’y avais mis moi-même : l’épaisseur, la corde, ce qui monte sous l’eau. Nera écouta, les bras croisés sur sa poitrine maigre, le visage fermé d’une femme qui a répété ce geste mille fois.
 
@@ -278,7 +274,7 @@ Karsk me repassa la Suie à la marée du soir. La brume accepta sans que j’aie
 — Oui.
 — Elles disent des choses, ces enfants-là, dit-il. Ma sœur en a eu un. On finit par ne plus écouter, sinon on ne dort plus.
 — Qu’a dit le vôtre  ?
-— Que la mer était plus haute par en dessous que par-dessus. Il avait quatre ans, dit-il du ton dont il donnait le cap à ses rameurs. Il est mort à cinq, d’une fièvre ordinaire.  »
+— Que la mer était plus haute par en dessous que par-dessus. Il avait quatre ans, dit-il, l’œil au chenal. Il est mort à cinq, d’une fièvre ordinaire.  »
 
 Sur sa rame, il tira, et n’ajouta rien.
 

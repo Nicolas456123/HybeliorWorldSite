@@ -19,11 +19,9 @@ status: draft
 
 Le premier Pyrtara que je croise est un poste de quatre soldats plantés dans le vent de basalte sans guérite ni abri, avec l’aplomb de gens qui n’ont pas besoin d’un toit pour tenir un lieu. Ils me regardent approcher bien avant que j’arrive à portée de voix. Ce ne sont pas des yeux qui jugent. Ce sont des yeux qui relèvent.
 
-Celle qui parle a les cheveux ras et une vieille brûlure qui lui barre le cou en diagonale. Sa voix attaque en galenorien, sans bonjour, avant même que je me sois arrêté.
+Celle qui parle a les cheveux ras et une vieille brûlure qui lui barre le cou en diagonale. Elle attaque en galenorien, sans bonjour, avant même que je me sois arrêté.
 
 «  Provenance. Destination. Raison.  »
-
-Trois mots posés comme trois cases à remplir.
 
 «  Drakora. Pyrtara  », dis-je. «  Cartographe, je documente les phénomènes du sol.  »
 
@@ -75,7 +73,7 @@ On me dirige vers une capitaine de la Brigade. Mara. Déliée, kharazirienne à 
 
 Le banc est de pierre polie, sans rembourrage. Correct. Je lui donne les éléments : Délié, ex-cartographe de la Guilde de Rukhsar, jeté dehors à la deuxième vague de purges, en route depuis quatre cents jours, passé par Gryndor et Drakora avant d’atteindre Pyrtara. Pas une fois son regard ne descend vers ma manche, comme tant d’autres le font.
 
-«  Tu attends encore qu’on grimace  », observe-t-elle, et c’est le ton d’un relevé, pas d’un reproche.
+«  Tu attends encore qu’on grimace  », observe-t-elle sans reproche.
 
 «  C’est une habitude utile  », dis-je.
 
@@ -83,7 +81,7 @@ Le banc est de pierre polie, sans rembourrage. Correct. Je lui donne les éléme
 
 Je bois. La formule est juste, et elle vise si bien un homme réellement blessé que je me demande un instant si je le suis autant que je le laisse croire. La question ne mérite pas d’être ouverte, et je la referme.
 
-«  Gryndor  », dit-elle ensuite, non comme une question, comme quelqu’un qui note un détail et ajuste un tableau. «  On a entendu parler d’un cartographe fugitif de Gryndor. Les nouvelles voyagent vite quand c’est Drakora qui les porte.  »
+«  Gryndor  », dit-elle ensuite. Elle constate, elle n’interroge pas. «  On a entendu parler d’un cartographe fugitif de Gryndor. Les nouvelles voyagent vite quand c’est Drakora qui les porte.  »
 
 «  Cela pose un problème  ?  » demandé-je.
 
@@ -95,7 +93,7 @@ Sa phrase me sert plus qu’elle ne le sait. Un fugitif de Gryndor entre chez le
 
 Le dîner, ce soir-là, est la première chose vraiment sociale depuis des semaines. On m’installe à une longue table commune, dans une salle basse et chaude où plusieurs unités mangent ensemble : tubercules de feu rôtis à la chaleur volcanique, pain de cendre, une viande au goût plus fort que la wyverne drakorienne. À boire, le Sang du Mont, que j’aborde avec la prudence d’un homme qui se souvient de sa première gorgée de Souffle d’Aube. La prudence est justifiée. Ce breuvage brûle droit et long, une chaleur qui reste au fond de la gorge une heure après comme un rappel.
 
-Le Délié à ma droite s’appelle Saven. Kharazir, comme Mara, jeté de la Guilde des Apothicaires deux ans avant moi pour une raison qu’il résume avec l’économie de ceux qui ont trop raconté leur histoire.
+Le Délié à ma droite s’appelle Saven. Kharazir, comme Mara, jeté de la Guilde des Apothicaires deux ans avant moi. Il en donne la raison sans s’y appesantir.
 
 «  Ils ont changé les règles. Les règles me changeaient, moi. J’ai préféré partir.  »
 
@@ -113,7 +111,7 @@ Ce que je ne possède pas encore, à ce moment de la soirée, Saven me le donne 
 
 «  Tu sais ce qu’on appelle le Syndrome d’Ordavan.  »
 
-Ce n’est pas une question. Je m’arrête. Le nom d’Ordavan, il l’a prononcé comme un terme courant, un diagnostic établi, une catégorie reconnue.
+Ce n’est pas une question. Je m’arrête. Ordavan, dans sa bouche, est déjà un terme acquis : un diagnostic établi, une catégorie reconnue.
 
 Je me tourne vers lui. «  Depuis combien de temps le mot circule  ?  »
 
@@ -215,7 +213,7 @@ Le quatrième soir, Thyren me trouve dans la salle commune. En face de moi, elle
 
 «  Oui  », dis-je.
 
-«  J’ai une question.  » Sa voix quitte le registre professionnel, juste assez. «  Est-ce que le village de Mareth existe encore  ?  »
+«  J’ai une question.  » Elle baisse la voix, juste assez. «  Est-ce que le village de Mareth existe encore  ?  »
 
 Mareth. Je cherche dans mes cartes de Gryndor, les noms notés, les points reportés. Un village de l’est, près de la Plaine des Héritages. D’après les relevés compilés dans les dossiers de Pyrax, il figure parmi les évacuations récentes du Syndrome, quelques semaines avant mon passage à Ordavan. Je lui dis ce que je sais. Que Mareth est dans les relevés. Que les habitants sont partis. Que personne, à ma connaissance, n’y est revenu.
 
@@ -231,9 +229,9 @@ Nous restons un moment en silence. Le vent d’Eleris passe sous la porte. La la
 
 ---
 
-La conversation qui change ma façon de penser la suite a lieu le cinquième soir, au crépuscule, sur une terrasse de basalte à mi-hauteur du complexe, d’où le Mont Pyralis se découpe dans le ciel orangé. Pyrax regarde le volcan quand il parle, et sa voix garde le débit égal de qui pose une mesure pour n’avoir pas à en dire la portée tout haut.
+La conversation qui change ma façon de penser la suite a lieu le cinquième soir, au crépuscule, sur une terrasse de basalte à mi-hauteur du complexe, d’où le Mont Pyralis se découpe dans le ciel orangé. Pyrax regarde le volcan quand il parle.
 
-«  Les Guetteurs ont envoyé un rapport cette semaine. La pulsation au cœur du Pyralis a accéléré de huit pour cent depuis le mois dernier.  »
+«  Les Guetteurs ont envoyé un rapport cette semaine, dit-il. La pulsation au cœur du Pyralis a accéléré de huit pour cent depuis le mois dernier.  »
 
 Huit pour cent en un mois. Je fais le calcul de tête, en prolongeant la courbe vue dans son bureau. Ce n’est plus une pente. C’est une marche qui presse le pas.
 

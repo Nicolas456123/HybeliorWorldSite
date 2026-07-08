@@ -62,7 +62,7 @@ Un tel réseau ne figure sur aucune carte. C’est précisément ce qui m’y in
 
 «  Vous portez jusqu’où  ?  » ai-je demandé, dans mon ventérien de fortune.
 
-Renk a fini son nœud avant de répondre. Sa voix était basse, sans emphase.
+Renk a fini son nœud avant de répondre.
 
 «  Jusqu’où quelqu’un attend une réponse.  »
 
@@ -96,11 +96,11 @@ La chose s’est jouée le lendemain soir, et je veux la noter telle qu’elle f
 
 Nous étions plusieurs autour du feu, Dava, Orren, deux jeunes cavaliers, un marchand du convoi nommé Vask qui suivait l’échange avec l’attention d’un homme qui flaire une affaire. C’est Vask qui a ouvert, croyant m’aider.
 
-«  L’étranger est cartographe, dit-il à Renk. Un vrai. Il a levé des cartes pour les académies. Dis-lui, cartographe, dis-lui tes titres, tes commanditaires. Un porteur confie ses relais à un homme de qualité, pas à un vagabond.  »
+«  L’étranger est cartographe, lança-t-il à Renk. Un vrai. Il a levé des cartes pour les académies. Dis-lui, cartographe, dis-lui tes titres, tes commanditaires. Un porteur confie ses relais à un homme de qualité, pas à un vagabond.  »
 
 Le piège était tendu sans qu’il le sût : il me suffisait de gonfler mes titres, d’en faire un peu plus que ce qu’ils valaient, de taire l’exil et le tissu jaune, et je passais pour un homme de qualité. Renk me regardait. Orren aussi, sans lever les yeux de son ouvrage. J’ai compris que la vraie question n’était pas ce que j’allais dire, mais si je mentirais.
 
-«  Je n’ai plus de titres. » Je posai les mots un à un, comme on plante des bornes, sans rien ajouter au relief. « On me les a retirés. J’ai levé des cartes pour l’Académie de Kharazir, c’est vrai, et l’Académie de Kharazir a saisi mes travaux et m’a chassé. Je suis Délié, ce que vos plaines nomment autrement ou pas du tout. Je porte le tissu jaune de ceux qu’on tolère et qu’on ne garde pas. Voilà ce que je tiens. Ce n’est pas beaucoup, et je ne le ferai pas passer pour davantage.  »
+«  Je n’ai plus de titres, dis-je. On me les a retirés. J’ai levé des cartes pour l’Académie de Kharazir, c’est vrai, et l’Académie de Kharazir a saisi mes travaux et m’a chassé. Je suis Délié, ce que vos plaines nomment autrement ou pas du tout. Je porte le tissu jaune de ceux qu’on tolère et qu’on ne garde pas. Voilà ce que je tiens. Ce n’est pas beaucoup, et je ne le ferai pas passer pour davantage.  »
 
 Vask a eu un mouvement de recul, gêné pour moi, ou pour lui.
 
@@ -174,7 +174,7 @@ L’offre était juste, généreuse même, et elle réglait tout : le gîte, la
 
 Vask m’a regardé comme on regarde un homme qui refuse de l’eau au bord d’un puits.
 
-«  Quel but  ? Tu es chassé. Un homme chassé n’a pas de but, il a une distance à mettre entre lui et ce qui le chasse.  »
+«  Quel but  ? Tu es chassé, insista-t-il. Un homme chassé n’a pas de but, il a une distance à mettre entre lui et ce qui le chasse.  »
 
 À cela, je n’ai pas répondu. Une réponse existait, juste, que je ne pouvais pas donner. J’ai laissé Vask croire qu’il avait touché quelque chose, et c’était mieux ainsi : un homme qu’on croit sans but, on ne se demande pas où il va.
 
@@ -188,9 +188,9 @@ Renk m’a rejoint le soir même, à la lisière du campement, là où la lumiè
 
 «  Deux façons de gagner la côte depuis ici, dit-il en s’accroupissant. La première remonte au nord, longe le fleuve, rejoint la grande caravane du sel. Trois semaines de plus, mais des gens, des relais, du travail à prendre en chemin. Personne ne meurt sur la route du sel.  »
 
-Il a marqué une pause, à la façon d’un homme qui pose une chose et sa contrepartie.
+Il a marqué une pause.
 
-«  La route du sel a des yeux, remarque. Depuis une semaine, des cavaliers la remontent et demandent après un marcheur seul. Ils paient pour un nom. On dit qu’ils viennent des ports.  » Il énonça cela du même ton qu’il avait pris pour les distances, un fait valant l’autre. «  Ça ne me regarde pas. Je te le dis parce que tu marches seul et que tu ne demandes pas après le sel.  »
+«  La route du sel a des yeux, remarque. Depuis une semaine, des cavaliers la remontent et demandent après un marcheur seul. Ils paient pour un nom. On dit qu’ils viennent des ports.  » Il gardait les yeux au loin, sur l’herbe où le feu ne portait plus. «  Ça ne me regarde pas. Je te le dis parce que tu marches seul et que tu ne demandes pas après le sel.  »
 
 J’ai reçu la chose sans la commenter. Un homme des ports qui achète des noms le long d’une route, ce n’est pas la Rota Mundi qui l’envoie. Que l’on me suivrait, je le savais déjà  ; ce que je ne savais pas, c’est à quelle vitesse une notification voyage, et Renk venait de me l’apprendre sans le vouloir.
 

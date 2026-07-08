@@ -37,7 +37,7 @@ Ce n’était pas une question.
 
 Ce qu’ils étaient, je le lui expliquai. Sans attendre d’y être invitée, elle s’assit en face de moi, avec la tranquillité des gens qui savent qu’ils apportent quelque chose à la conversation.
 
-Elle croisa les mains sur la table. «  D’où venez-vous  ?  » La question était posée à angle droit, sans préambule, du débit des gens habitués à ce qu’on leur réponde.
+Elle croisa les mains sur la table. «  D’où venez-vous  ?  » demanda-t-elle sans préambule, avec l’assurance de qui a l’habitude qu’on lui réponde.
 
 Vint la liste, dans l’ordre. Kharazir. Les mines de Valoria. Le port de Solena. Les hautes plaines d’Alkaran. Le grand fleuve d’Onar et ses soixante ports. La forêt d’Endora. Les archipels d’Ilthara. L’archipel volcanique de Cendara. Evertia. Les sphères de Vytharia et de Lunasar. Caeloria et son Cardinal-Élu. Baelor et son monastère de silence. Celethor et l’archimage Varennis. Cestra, enfin, et le glacier du Mont Jumeau.
 
@@ -113,7 +113,7 @@ Je m’assis. Là non plus, pas d’invitation, mais ce n’était pas un lieu o
 
 Vingt minutes de silence. Je bus le thé qu’Ysolde avait déposé sans s’annoncer, une infusion aux herbes que je ne sus pas reconnaître, amère, avec une note chaude et durable qui s’installait au fond de la gorge. Quand Selendris releva les yeux, la surface de son visage n’avait pas bougé, mais dessous, quelque chose avait changé de place.
 
-«  Les coordonnées  », dit-elle. Deux mots seulement, qu’elle posa comme on pose un objet longtemps porté sans jamais le montrer.
+«  Les coordonnées  », dit-elle. Deux mots seulement, qu’elle avait tus pendant des années.
 
 Rien ne m’éclairait encore.
 
@@ -133,7 +133,7 @@ Elle releva les yeux de la pile. «  Vous savez ce que vous m’apportez  ?  
 
 Je reposai ma tasse. «  Des relevés. Rien de plus.  »
 
-«  Non.  » Sa voix ne montait pas, elle appuyait. «  Vous m’apportez la preuve que mon père ne délirait pas. Pendant trente ans, on m’a dit qu’il s’était perdu dans un rêve, qu’il n’y avait rien au bout des coordonnées, que c’était le langage d’un homme qui s’enfonçait. Et vous, vous arrivez de l’autre bout du monde avec un carnet où le même point revient, daté, trois fois, sous trois écritures différentes.  »
+«  Non.  » Elle n’éleva pas le ton, mais insista. «  Vous m’apportez la preuve que mon père ne délirait pas. Pendant trente ans, on m’a dit qu’il s’était perdu dans un rêve, qu’il n’y avait rien au bout des coordonnées, que c’était le langage d’un homme qui s’enfonçait. Et vous, vous arrivez de l’autre bout du monde avec un carnet où le même point revient, daté, trois fois, sous trois écritures différentes.  »
 
 Je secouai la tête. «  Je n’ai rien prouvé. Je l’ai écrit noir sur blanc à la deuxième page. Je ne prouve rien. Je dépose des recoupements.  »
 
@@ -163,7 +163,7 @@ Le deuxième soir, Selendris me fit appeler dans son bureau, alors qu’elle n�
 
 Je pris place. Un moment passa, qu’elle employa à regarder les cartes de strates sur ses murs plutôt que moi.
 
-«  Mon père a plongé quand j’avais vingt et un ans.  » Les mots sortaient un par un, comme comptés. «  Le Somnium Vigil descend par paliers, vous le savez, on ne s’enfonce jamais d’un coup. Lui est descendu d’un coup. On n’a jamais su si c’était un accident ou un choix. Il est resté. Le corps respire encore, quelque part sous cette Académie. L’homme, non.  »
+«  Mon père a plongé quand j’avais vingt et un ans.  » Elle gardait les yeux sur les cartes de strates. «  Le Somnium Vigil descend par paliers, vous le savez, on ne s’enfonce jamais d’un coup. Lui est descendu d’un coup. On n’a jamais su si c’était un accident ou un choix. Il est resté. Le corps respire encore, quelque part sous cette Académie. L’homme, non.  »
 
 «  Je suis désolé.  »
 
@@ -177,13 +177,13 @@ La question était juste, plus juste qu’elle ne pouvait le savoir. Je pris le 
 
 «  Ni l’un ni l’autre. Je ne peux pas vous rendre votre père. Personne ne le peut, et je me méfierais de qui vous le promettrait. Ce que vos coordonnées touchent, ce n’est pas lui. C’est l’endroit qu’il regardait.  »
 
-« Ce n’est pas la même chose », dit-elle, plus bas, chaque mot détaché du précédent.
+« Ce n’est pas la même chose », dit-elle, plus bas.
 
 Je soutins son regard. «  Non. Ce n’est pas la même chose.  »
 
 Elle reçut la distinction en silence, comme une chose qui lui coûtait et la soulageait du même mouvement.
 
-Elle avança la remarque avec lenteur, en la laissant chercher son appui. «  Vous parlez d’un homme qui regardait un endroit comme si vous en connaissiez d’autres.  »
+Elle hasarda sa remarque avec lenteur. «  Vous parlez d’un homme qui regardait un endroit comme si vous en connaissiez d’autres.  »
 
 Je ne cherchai pas à le nier. «  J’en connais.  »
 
@@ -219,7 +219,7 @@ Je connaissais Thalendris de réputation. Un vieil homme d’une lucidité qui e
 
 Quand il eut fini, il posa les feuillets sur la pierre et me regarda.
 
-«  Vous avez vu les structures sous le glacier.  » Il ne le demandait pas  ; sa voix avait le débit de qui récite une chose déjà sue.
+«  Vous avez vu les structures sous le glacier.  » Il ne le demandait pas  ; il le récitait plutôt, comme une chose déjà sue.
 
 «  Je les ai vues.  »
 
@@ -303,7 +303,7 @@ Sur mon visage, elle lut quelque chose avant que j’aie parlé.
 
 «  Ils ont pris note.  »
 
-«  Ils ont pris note.  » Je le répétai sans y ajouter de couleur, du ton dont on relève une mesure exacte.
+«  Ils ont pris note.  » Je le répétai sans y ajouter de couleur.
 
 Elle acquiesça, avec la sagesse particulière de qui a travaillé des décennies à l’intérieur d’une institution et en connaît à la fois le prix et les bornes.
 

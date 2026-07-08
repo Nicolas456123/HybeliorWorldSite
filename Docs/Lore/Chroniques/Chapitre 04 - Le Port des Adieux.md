@@ -52,7 +52,7 @@ Le silence a tourné un moment avec le faisceau.
 Je connaissais à peine ce nom. Le premier navigateur, m’a-t-il expliqué, celui qui aurait tracé les premières routes du monde avant de s’en aller vers un horizon dont nul n’est revenu  ; et la Voie enseigne qu’un jour la mer le rendra, avec tout ce qu’elle garde. Thelorn en parlait sans emphase, comme d’une marée qu’on attend. Je l’ai écouté avec l’attention qu’un homme de mesures doit à ce qu’il ne peut pas mesurer. Le peuple appelle cela le retour de Navigor. Un savant appellerait cela autrement, ou ne l’appellerait pas. Moi, je le note comme on rapporte une formule entendue, sans encore décider si je la fais mienne.
 
 «  Vous n’y croyez pas, a-t-il constaté. Ça se voit.
-— Je crois ce que je peux relever, ai-je dit comme on plante une borne. Je n’ai pas d’instrument pour Navigor.
+— Je crois ce que je peux relever, ai-je dit. Je n’ai pas d’instrument pour Navigor.
 — Personne n’en a. C’est bien pour ça qu’on en fait une prière et pas une carte.  »
 
 Lampe posée, il s’est penché sur la rambarde, et pour la première fois il m’a regardé comme on jauge un ciel.
@@ -61,7 +61,7 @@ Lampe posée, il s’est penché sur la rambarde, et pour la première fois il m
 
 J’ai dit oui, parce qu’un homme qui refuse une lecture au sommet d’un phare de la Via Ventus se fait remarquer, et parce que je voulais entendre ce qu’un vieil homme dirait d’un voyageur qu’il ne connaissait pas.
 
-Thelorn a regardé le large longtemps. Puis il a parlé, lentement, sans emphase, du ton de celui qui décrit un relief plus qu’il n’invente un présage.
+Thelorn a regardé le large longtemps. Puis il a parlé, lentement, sans emphase.
 
 «  Vous ne partez pas pour arriver quelque part. Ça, ça se voit à la façon dont vous regardez les bateaux : pas les proues, les sillages. Vous suivez ce qui reste derrière, pas ce qui va devant.  » Le faisceau a fait un tour entier avant qu’il reprenne. «  Et vous rentrerez. Les gens de votre espèce rentrent toujours au point de départ, parce que c’est là qu’ils ont laissé la question qui les fait marcher. La mer ne vous apprendra rien que vous ne sachiez déjà. Elle vous donnera seulement le temps de le porter.  »
 
@@ -81,7 +81,7 @@ La capitaine Reen, je l’ai trouvée le lendemain à la taverne des Trois Vents
 
 Je me suis assis en face d’elle. Sa cuillère finie, elle a jaugé mon sac, ma cape, mes mains qui n’étaient pas des mains de marin.
 
-«  Cartographe, a-t-elle dit, du ton qui range les gens avant de leur parler. Ce n’est pas une question.
+«  Cartographe, a-t-elle dit. Ce n’est pas une question.
 — Ancien.
 — Personne n’est ancien cartographe. On l’est ou on ne l’a jamais été.  » Elle a plié un coin de sa carte. «  Vous cherchez un passage.
 — On me dit que vous connaissez les routes que les autres ont oubliées.
@@ -91,7 +91,7 @@ Son regard, quand il s’est levé vers moi, portait une invitation que je n’a
 
 «  Je pars après-demain. Vers Trelios, en Alkaran, puis plus loin si les vents sont bons. Je prends des passagers qui ne prennent pas de place, ne mangent pas plus que leur part et ne font pas de catastrophe sur le pont.  » Une pause, le temps de lisser du plat de la main un pli de sa carte. «  Un homme comme vous serait mieux loin d’ici.  »
 
-C’était dit sans détour, avec l’économie des gens qui ont peu de temps pour la pitié. Elle savait, ou devinait. Un homme seul, taché, sans lettres de créance, qui remonte un continent sans mandat : à Solena, on reconnaît ce genre de silhouette. Ce qu’elle m’offrait, c’était la mer. La mer, pour un exilé, c’est le salut : mille lieues entre vous et ce qui vous a chassé, un pont où votre nom ne pèse plus rien.
+C’était dit sans détour, sans un mot de pitié. Elle savait, ou devinait. Un homme seul, taché, sans lettres de créance, qui remonte un continent sans mandat : à Solena, on reconnaît ce genre de silhouette. Ce qu’elle m’offrait, c’était la mer. La mer, pour un exilé, c’est le salut : mille lieues entre vous et ce qui vous a chassé, un pont où votre nom ne pèse plus rien.
 
 «  Sur mon pont, a-t-elle ajouté, comme si elle avait suivi ma pensée, personne n’est un exilé. Personne n’est un noble, personne n’est un érudit. Il y a ceux qui tiennent debout quand la mer bouge, et ceux qui apprennent vite. Le reste, on le laisse à quai.  »
 
@@ -122,7 +122,7 @@ C’est un spectacle qu’il faut voir une fois. La ville entière semble s’in
 Un vieil homme s’était assis sur le bollard voisin du mien pour regarder, lui aussi. Un ancien de la mer, à ses mains.
 
 «  Vous en avez, des départs, lui ai-je dit.
-— Un port comme le nôtre vit de ça, a-t-il répondu, du débit tranquille des vieux qui ont dit la chose cent fois. On vend le sel, on vend le cuivre, mais ce qu’on fabrique, nous, ce sont des adieux. On est bons. On s’entraîne tôt.  »
+— Un port comme le nôtre vit de ça, a-t-il répondu sans se presser. On vend le sel, on vend le cuivre, mais ce qu’on fabrique, nous, ce sont des adieux. On est bons. On s’entraîne tôt.  »
 
 Du menton, il a désigné la famille, le garçon, le col rajusté.
 
@@ -157,11 +157,11 @@ Sans chercher, elle a plongé la main dans la caisse et en a sorti une feuille p
 
 «  Alors je vais vous épargner le marchandage, parce que le marchandage vous coûterait le temps que vous n’avez pas. Ceci est arrivé il y a onze jours.  » Dépliant la feuille sans me la tendre, elle l’a tenue de son côté de la table, comme on montre une carte sans la donner. «  Une notification. Elle descend de Prismalith, elle passe par Lumasar, et elle voyage vite. Soupçon de Catena Fracta. Un nom. Le vôtre, si vous êtes Valthen.  »
 
-Je n’ai rien dit. Du ton neutre de qui récite un cours du fret, elle a continué.
+Je n’ai rien dit. Elle a continué, sans hausser le ton.
 
 «  Ce genre de papier ne demande pas qu’on vous arrête. Il demande qu’on vous *constate*. Qu’on note où vous passez, à qui vous parlez, ce que vous portez. Les capitaineries en tiennent registre. Les courtiers comme moi le lisent. Et il y a un prix.  »
 
-Le prix de ma tête, elle l’a nommé, un chiffre lâché sans hâte, comme on lit une distance sur une carte.
+Le prix de ma tête, elle l’a nommé sans hâte.
 
 Ce n’était pas une somme pour un meurtre. C’était une somme pour un signalement : tant pour qui rapporterait ma route, davantage pour qui rapporterait mes contacts. Le chiffre était précis, modeste, presque administratif. Un tarif.
 
@@ -169,8 +169,8 @@ J’ai souri.
 
 Orsenne a levé les yeux, et pour la première fois son regard a cessé d’être plat.
 
-«  Vous souriez, a-t-elle dit.
-— On m’a chiffré, ai-je dit du ton dont je relève une cote. On chiffre les choses qui ont une valeur.
+«  Vous souriez, observa-t-elle.
+— On m’a chiffré, ai-je dit. On chiffre les choses qui ont une valeur.
 — La plupart des hommes que je chiffre deviennent gris, a-t-elle repris, et elle a guetté sur moi la couleur qui ne montait pas.
 — La plupart des hommes ne savent pas ce que vaut d’être cherché.  »
 
@@ -199,7 +199,7 @@ Orsenne a réfléchi, non pour retenir sa marchandise mais pour choisir ce qui n
 
 «  Il y a un naturaliste à Valoria. Aldemer Voss. Un vieux qui écrit sur ce qui bouge dans le sol, paraît-il, et qui a le tort d’en parler haut. Son nom est passé sur le même genre de liste que le vôtre, il y a une lune.  » Elle a remué les feuilles du bout des doigts. «  Les gens qui écrivent sur ce qui bouge dans le sol vivent moins vieux qu’avant, ces temps-ci. Je ne sais pas si c’est le papier ou autre chose. Personne ne sait.  »
 
-C’était dit comme on note le temps qu’il fait. Je l’ai noté de même : Aldemer Voss, Valoria, signalé. Un nom sur ma route, du côté où je devais monter.
+Elle a lâché cela sans y attacher d’importance. Je l’ai noté quand même : Aldemer Voss, Valoria, signalé. Un nom sur ma route, du côté où je devais monter.
 
 «  Vous voulez le voir avant ou après  ? a-t-elle demandé, et je n’ai pas compris tout de suite qu’elle plaisantait.
 — Avant quoi  ?

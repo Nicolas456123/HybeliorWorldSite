@@ -91,7 +91,7 @@ Le matelot à l’huile me demanda ce que je cherchais, moi, sur les routes.
 
 Trempant son pain dans la soupe, il prit son temps, puis me regarda avec cette attention lente des gens qui ont beaucoup vu.
 
-«  Une route qui rouvre n’est pas toujours une invitation, dit-il. Parfois c’est une voie d’eau dans une coque. Ça s’ouvre aussi.  »
+«  Une route qui rouvre n’est pas toujours une invitation, dit-il enfin. Parfois c’est une voie d’eau dans une coque. Ça s’ouvre aussi.  »
 
 Personne autour de la table ne releva. Pour eux c’était un dicton de métier, une évidence qu’on répète en mangeant. Pour moi c’était la phrase la plus juste qu’on m’eût dite depuis le glacier, et je la notai le soir même, sans commentaire, parce qu’un commentaire l’aurait abîmée. Une route qui rouvre. J’avais employé ce mot toute la traversée, *route*, avec la satisfaction tranquille de celui qui croit décrire un progrès. Le matelot venait de me rappeler qu’une ouverture ne dit rien de ce qui va la franchir, ni dans quel sens.
 
@@ -112,7 +112,7 @@ Reen me trouva le lendemain sur le pont avant. Il s’appuya au bastingage à ma
 
 Cela parut lui suffire, et son regard retourna à l’eau. La mer de ce côté-là était d’un gris bleu profond, sans houle, avec une surface qui tenait de la peau plus que de l’eau, quelque chose qui respirait lentement.
 
-Quand il reprit la parole, les mots vinrent lents, largement espacés, à la cadence d’un homme qui compte les brasses entre deux relèvements.
+Quand il reprit la parole, ce fut lentement, en laissant des silences entre les phrases.
 
 « Mon grand-père a navigué ici du temps où les aiguilles ne déviaient pas. Il disait que les anomalies ont commencé voici trente ans. D’abord autour de Cestra. Puis dans la haute mer du nord. Aujourd’hui dans des parages qui n’avaient jamais posé de problème.  »
 

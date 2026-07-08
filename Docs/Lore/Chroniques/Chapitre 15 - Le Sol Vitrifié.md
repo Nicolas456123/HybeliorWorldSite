@@ -33,7 +33,7 @@ L’auberge du Souffleur m’attendait au bout de la rue basse, ses ventaux tiè
 
 Un pli au coin de sa bouche, qui ne montait pas plus haut. Il essuya le comptoir, lentement, à l’endroit déjà propre.
 
-«  On m’a dit qu’un géographe remonterait vers les plateaux.  » Il ne me regardait pas en le disant, et ses mots venaient comptés, un par un, comme la monnaie qu’on rend juste. «  On ne m’a pas dit qu’il connaîtrait le chemin.  »
+«  On m’a dit qu’un géographe remonterait vers les plateaux.  » Il ne me regardait pas en le disant. «  On ne m’a pas dit qu’il connaîtrait le chemin.  »
 
 «  Les lignes de dénivelé se lisent.  »
 
@@ -121,7 +121,7 @@ La femme qui les commandait avait la quarantaine et l’expression de quelqu’u
 
 «  Je le sais.  »
 
-«  Les gens qui savent entrent rarement par accident  », dit-elle, du ton égal de qui coche une case et passe à la ligne suivante.
+«  Les gens qui savent entrent rarement par accident  », dit-elle d’une voix égale.
 
 «  Je ne suis pas entré par accident  », dis-je.
 
@@ -173,7 +173,7 @@ L’escorte me conduisit deux jours vers le nord. Deux Gardes, à distance respe
 
 «  Pourquoi ne l’est-elle pas  ?  »
 
-«  Parce que le Conseil des Sages a peur, répondit-il, de ce qu’une étude formelle obligerait à admettre.  »
+«  Parce que le Conseil des Sages a peur, répondit-il plus bas, de ce qu’une étude formelle obligerait à admettre.  »
 
 «  Et qu’obligerait-elle à admettre  ?  »
 
@@ -241,7 +241,7 @@ Au matin, on me rendit mes papiers avec le tampon brun de la patrouille : *esco
 
 «  Il y a là-bas des archivistes qui s’intéressent aux anomalies du temps. Ils ne relèvent pas du Conseil de Gryndor.  » Une pause. «  Ils ne relèvent pas de grand monde, à vrai dire.  »
 
-L’autre Garde, qui n’avait rien dit de toute l’escorte, ajouta, de la voix de qui récite une chose apprise :
+L’autre Garde, qui n’avait rien dit de toute l’escorte, récita :
 
 «  Les savants qui cherchent ce que les institutions ne cherchent pas finissent souvent par Drakora.  »
 

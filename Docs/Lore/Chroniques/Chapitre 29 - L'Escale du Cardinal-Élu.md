@@ -33,7 +33,7 @@ Tout, à Vyntheris, se rapporte au ciel. On y naît sous une position d’étoil
 
 Le passage vers Baeloris relevait d’un homme du nom de Terec, maître d’une des rares coques doublées qui acceptent l’approche voilée de l’Île du Silence. Au bas des escaliers, dans l’odeur de saumure et de soufre, je le trouvai occupé à graisser une drisse avec la lenteur des gens qui ont fait de la patience un métier.
 
-«  On ne va pas à Baelor parce qu’on le veut, me dit-il sans lever la tête, du débit uni qu’ont les phrases trop souvent servies. On y va quand elle se montre, et elle ne se montre qu’au vent du nord-est. Un jour sur trois, avec de la chance. Le reste du temps, elle n’est pas là.
+«  On ne va pas à Baelor parce qu’on le veut, récita-t-il sans lever la tête. On y va quand elle se montre, et elle ne se montre qu’au vent du nord-est. Un jour sur trois, avec de la chance. Le reste du temps, elle n’est pas là.
 — Je sais lire un vent.
 — Ça n’a jamais suffi à personne.  »
 
@@ -53,9 +53,9 @@ La fille s’appelait Ilve. Huit ans. Elle avait les yeux blancs.
 
 Je ne le vis pas tout de suite. Dans la lueur de la stellarite, les couleurs se brouillent, et l’enfant mangeait, ce premier soir, avec la concentration appliquée des petits qui exécutent encore consciemment les bonnes manières qu’on leur a apprises. Ce fut quand elle leva le regard vers moi que je compris. Les iris n’avaient pas de couleur, et ce n’était pas la fixité laiteuse d’un aveugle  ; j’avais rencontré des aveugles, je connaissais leur façon de s’orienter au son. Ilve, elle, regardait. Son regard suivit ma main quand je reposai ma cuiller. Ses yeux étaient blancs comme de la neige tassée, et ils fonctionnaient.
 
-Ardem vit que je les regardais. Sa voix était celle d’un homme qui a appris à prendre les devants.
+Ardem vit que je les regardais, et prit les devants.
 
-«  Ilve est une Bénie des Cieux. Le Conclave l’a confirmée à la naissance.
+«  Ilve est une Bénie des Cieux, dit-il. Le Conclave l’a confirmée à la naissance.
 — Elle voit mieux que nous, ajouta Nesse plus bas, avec l’expression des mères qui ont converti leur premier effroi en une vérité vivable. Parfois beaucoup mieux.  »
 
 Le frère ne dit rien, les yeux sur son bol.
@@ -108,7 +108,7 @@ Je ne répondis pas. Mon regard suivit la vapeur qui montait des sources, au fon
 
 On m’accorda l’audience le quatrième jour, au sommet de la falaise, dans une salle dont la voûte était percée d’une seule ouverture, orientée vers le nord, par où tombait un trait de jour pâle qui se déplaçait sur le sol de pierre à mesure que l’heure passait. Le Cardinal-Élu n’était pas ce que j’avais imaginé. Ni vieux, ni ornementé. Un homme de soixante ans peut-être, sec, les mains tachées d’encre comme les miennes, le regard de quelqu’un qui a passé sa vie à lire des colonnes de chiffres pris au ciel. Sur Caeloria, on n’hérite pas de cette charge et on ne l’achète pas  ; on l’obtient d’un collège d’astronomes qui vous jugent capable de lire ce que les autres ne font qu’observer. Élu, donc, comme le titre le dit. Le plus lettré des lettrés. Le moins prêt à se laisser prendre à un cartographe candide.
 
-«  On me dit, commença-t-il sans préambule, d’une voix qui rangeait les mots comme des chiffres en colonne, qu’un homme de Galenor demande le passage pour Baeloris. On ne demande pas le passage pour Baeloris. On y a affaire, ou on n’y va pas. Quelle affaire  ?
+«  On me dit, commença-t-il sans préambule, qu’un homme de Galenor demande le passage pour Baeloris. On ne demande pas le passage pour Baeloris. On y a affaire, ou on n’y va pas. Quelle affaire  ?
 — Je relève, monseigneur. Les côtes, les brumes, les liaisons. Un cartographe des marges. Baelor est un blanc sur toutes les cartes que j’ai vues, et un blanc, pour moi, est une dette.
 — Un blanc, répéta-t-il, et ce mot pesa dans sa bouche comme *loin* avait pesé dans celle de Terec. Vous traversez la moitié du monde pour un blanc sur une carte que personne ne vous a commandée.  »
 
@@ -122,7 +122,7 @@ Le trait de jour avait glissé d’une largeur de main sur le sol. Le Cardinal-�
 — Ils voient ce que je mesure, monseigneur, dis-je sans donner à la phrase plus de poids qu’à un relèvement. Ou ils prétendent le voir. Un homme qui passe sa vie à relever des choses qu’il ne comprend pas s’arrête forcément devant des enfants qui, eux, disent comprendre. Ce n’est pas un mystère. C’est un métier qui reconnaît le sien dans un autre.
 — Joliment tourné.  » Il ne souriait pas. «  Vous savez ce que je fais, de mon côté, avec ces enfants  ?
 — Vous les inscrivez.
-— Je les protège.  » Il laissa cela un instant. «  On me presse, de plusieurs côtés, de les livrer. On m’écrit. Des lettres qui ne passent pas par les canaux ordinaires, d’institutions qui n’ont pas de nom sur les portes. On me dit que ce qu’ils portent devrait être étudié loin d’ici, en lieu sûr, pour le bien de tous. Ceux du dehors disent que nous les effaçons  ; ils le disent parce qu’ils ne les trouvent plus sur les registres qu’ils savent lire. Nous ne les effaçons pas : nous les portons là où le monde ordinaire ne sait pas lire, et nous scellons derrière eux. Je réponds que le lieu sûr, c’est le registre du Temple, et le sceau, et le silence.  » Il ne haussa pas la voix pour ce qui suivait  ; les derniers mots vinrent au même pas que les premiers, et cette égalité disait la certitude mieux qu’aucun éclat. «  Je scelle, cartographe. C’est ma miséricorde à moi.  »
+— Je les protège.  » Il laissa cela un instant. «  On me presse, de plusieurs côtés, de les livrer. On m’écrit. Des lettres qui ne passent pas par les canaux ordinaires, d’institutions qui n’ont pas de nom sur les portes. On me dit que ce qu’ils portent devrait être étudié loin d’ici, en lieu sûr, pour le bien de tous. Ceux du dehors disent que nous les effaçons  ; ils le disent parce qu’ils ne les trouvent plus sur les registres qu’ils savent lire. Nous ne les effaçons pas : nous les portons là où le monde ordinaire ne sait pas lire, et nous scellons derrière eux. Je réponds que le lieu sûr, c’est le registre du Temple, et le sceau, et le silence.  » Il ne haussa pas la voix pour ce qui suivait  ; il ne la baissa pas davantage. «  Je scelle, cartographe, dit-il. C’est ma miséricorde à moi.  »
 
 Je gardai le visage que je garde. Mais il venait, sans le savoir, de me tendre le portrait d’un autre homme, à un autre bout de ma route, et de me dire que les deux appareils qui me couraient après se parlaient. Des lettres qui ne passent pas par les canaux ordinaires. J’aurais pu réciter la phrase avec lui.
 
@@ -137,7 +137,7 @@ Il me fit apporter du thé de racines blanches, ce qui est, ici, une façon de d
 
 «  Nous n’osons pas conclure, dit-il. Conclure serait plus grave que se taire. Alors nous notons, et nous scellons.  » Il me regarda par-dessus les colonnes. «  Comme vous, au fond. Vous notez et vous ne concluez pas. Je me demande seulement ce que vous faites de ce que vous notez.
 — Je le porte jusqu’à la ville suivante. Et je recommence.
-— Voilà une réponse qui ne répond à rien, dit-il, et pour la première fois sa voix quitta un peu la raideur des colonnes qu’il lisait chaque nuit. C’est une bonne réponse.  »
+— Voilà une réponse qui ne répond à rien, concéda-t-il. C’est une bonne réponse.  »
 
 Il me tendit alors ce que j’étais venu chercher : une bande de stellarite mince, gravée de mon nom et d’un signe du Conclave, le sceau qui ouvrirait la coque de Terec. Mais il la garda un instant entre ses doigts tachés, avant de me la remettre.
 

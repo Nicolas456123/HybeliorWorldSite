@@ -42,7 +42,7 @@ Mes papiers me revinrent sans qu’il ait levé les yeux. À Kharazir, un cartog
 
 Je pris chambre au *Foyer de Rendal*, dans le quartier marchand, assez loin de la Grande Forge pour que sa vibration devienne supportable, jamais assez pour qu’elle s’efface. La tenancière, une femme de la cinquantaine nommée Dorvha, avait les mains brunies par une vie proche des fourneaux, et une aspiration sifflante accompagnait chacune de ses phrases. Le premier soir, elle me regarda nouer autour de ma bouche le foulard de soie que j’avais acheté aux nomades de Torkam.
 
-«  Ça ne sert pas à grand-chose  », dit-elle, du ton d’un relevé qu’on ne discute pas.
+«  Ça ne sert pas à grand-chose  », lâcha-t-elle.
 
 «  C’est mieux que rien.  »
 
@@ -54,7 +54,7 @@ Aucun habitant d’Haliandris ne porte de protection. Se protéger, ce serait ad
 
 «  Je note la formule.  »
 
-«  Note aussi que je ris quand le prêtre la dit.  » Elle remplit mon bol de soupe noire, et l’aspiration sifflante reprit entre deux phrases, une signature au bas de chacune. «  Une bénédiction qui abîme les poumons reste une bénédiction pour celui qui n’a pas d’autre pays. C’est facile de plaindre les gens depuis un foulard qu’on retirera à la frontière.  »
+«  Note aussi que je ris quand le prêtre la dit.  » Elle remplit mon bol de soupe noire, et l’aspiration sifflante reprit entre deux phrases. «  Une bénédiction qui abîme les poumons reste une bénédiction pour celui qui n’a pas d’autre pays. C’est facile de plaindre les gens depuis un foulard qu’on retirera à la frontière.  »
 
 Cette remarque, je la gardai pour moi et pour la marge  ; je l’avais méritée. On juge vite depuis l’extérieur, un foulard sur la bouche et une chambre louée pour dix jours.
 
@@ -92,7 +92,7 @@ Les Intendants n’arrêtent pas : ils font arrêter par d’autres, et ce qu�
 
 Il m’écouta comme un graveur cherche le défaut d’une lame, et n’en trouva pas dans mes réponses. Alors il posa devant moi, sur la table de fonte, une demi-feuille pliée.
 
-«  Reconnais-tu cette écriture  ?  » Même débit plat que pour l’échelle de mes cartes, un instant plus tôt  ; reconnaître sa propre main ou déclarer une cargaison relevaient chez lui du même registre.
+«  Reconnais-tu cette écriture  ?  » demanda-t-il, du même ton qu’il avait pris pour l’échelle de mes cartes.
 
 C’était la mienne. Un fragment de mes notes de Lumasar, celles qu’un copiste de scriptorium avait recopiées sans registre, deux mois plus tôt, en croyant sauver une parole persécutée. La copie de la copie était arrivée ici avant moi, par un canal qui ne passe pas par la poste, et quelqu’un avait souligné trois mots d’un trait d’ongle : *inscriptions*, *antérieures*, *réseau*.
 
@@ -122,9 +122,9 @@ Du Syndicat, il ne dit rien ce soir-là. La trempe volcanique, en revanche, il e
 
 «  Qu’est-ce qu’elle dit  ?  »
 
-Le bol s’immobilisa entre ses paumes, pour la première fois de la soirée  ; sa réponse ne cherchait pas à m’impressionner, elle cherchait ses mots.
+Le bol s’immobilisa entre ses paumes, pour la première fois de la soirée.
 
-«  Comme quelqu’un qui frappe à une porte depuis l’autre côté.  »
+«  Comme quelqu’un qui frappe à une porte depuis l’autre côté  », dit-il enfin.
 
 Rien de plus ne vint. La même image, je l’avais entendue ailleurs, dans une bouche de mineur, à un mois de route de là, sous une autre montagne. Elle rejoignit les autres dans le carnet, et je la regardai jusqu’à ce que la bougie soit basse. Deux hommes qui ne se connaissaient pas, séparés par un continent et par un métier, avaient choisi la même porte pour dire la même chose. Un cartographe relève ces coïncidences comme des repères de triangulation. Trois relèvements qui se croisent donnent un point. Le point, ici, était sous nos pieds.
 
@@ -178,7 +178,7 @@ La distinction lui plut. Un silence, qu’il laissa venir, que le murmure des fa
 
 «  Et aujourd’hui  ?  »
 
-«  Aujourd’hui, la respiration a changé.  » Il choisit ses mots comme on trempe une lame, à la bonne vitesse. «  Une irrégularité dans la pulsation des failles. Rien qu’un œil voie. Mais les vieux Compagnons qui trempent depuis trente ans la sentent : la lave monte et descend selon un rythme légèrement décalé. Comme si ce que nous prenions pour le souffle de la déesse était devenu, très peu, autre chose.  »
+«  Aujourd’hui, la respiration a changé  », reprit-il plus bas. «  Une irrégularité dans la pulsation des failles. Rien qu’un œil voie. Mais les vieux Compagnons qui trempent depuis trente ans la sentent : la lave monte et descend selon un rythme légèrement décalé. Comme si ce que nous prenions pour le souffle de la déesse était devenu, très peu, autre chose.  »
 
 «  Depuis quand  ?  »
 
@@ -196,7 +196,7 @@ La conversation glissa au myrtamite, dont je n’ai que des rudiments  ; Oryn t
 
 «  Depuis quatre ou cinq ans  ?  »
 
-Oryn transmit la question. Ferrath acquiesça, puis parla dans une langue dont je ne relevais que le débit : brèves d’abord, ses phrases s’allongèrent, comme une galerie qu’on suit plus loin qu’on ne voulait.
+Oryn transmit la question. Ferrath acquiesça, puis parla dans une langue dont je ne saisissais rien, plus longtemps qu’il ne l’avait fait jusque-là.
 
 «  Il dit que les anciens s’y trompent. Que ce n’est pas nouveau. Que le poids était là avant eux, mais qu’il dormait, et que ce qui a changé, depuis quatre ou cinq ans, ce n’est pas le poids : c’est qu’il a bougé.  »
 

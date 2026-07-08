@@ -31,7 +31,7 @@ Cela, je le notai avec l’attention d’un cartographe pour une propriété du 
 
 La troisième nuit, Halvern devint moins loquace. Nous passions un large méandre où l’eau, sans raison de vent ni de pente, se mit à contrarier l’étrave. Le convoi ralentit, comme retenu. Halvern corrigea sa barre, jura tout bas, corrigea encore.
 
-«  Ça tient le fleuve depuis l’automne, dit-il enfin, de la voix lente qu’il réservait à l’eau.
+«  Ça tient le fleuve depuis l’automne, dit-il enfin, les yeux sur le remous.
 
 — Quoi donc  ?
 
@@ -69,7 +69,7 @@ Maldrix Thoen avait passé la cinquantaine et le regard d’un homme qui compare
 
 — Je cherche des renseignements.
 
-— À Tyndara, cela revient au même. » Il posa les mots suivants à intervalles égaux, comme on aligne des pièces sur un comptoir. « Tout se monnaie. Ce que vous savez et que j’ignore, cela vaut. Ce que vous voulez savoir et que vous ignorez encore, cela coûte.  »
+— À Tyndara, cela revient au même. » Il laissa passer un temps, puis reprit : « Tout se monnaie. Ce que vous savez et que j’ignore, cela vaut. Ce que vous voulez savoir et que vous ignorez encore, cela coûte.  »
 
 Il me servit une infusion amère qui laissait une chaleur longue dans la gorge, et pendant deux heures nous parlâmes cartes, routes, méthodes de relevé. De mes observations de Galenor, je lui décrivis non les cartes elles-mêmes, dont j’avais perdu l’accès, mais leur substance, quelques mesures, la tenue des courants d’un lac du nord. Sur un carnet de cuir, il prenait des notes brèves, et je savais qu’elles lui serviraient. Je n’en tirais rien de tangible, sinon une chose que j’étais venu apprendre : comment parle un homme pour qui chaque phrase est une pièce de monnaie, et comment lui parler sans se laisser dépouiller.
 
@@ -89,7 +89,7 @@ Il me considéra un long moment, puis fit ce que font les hommes de Tyndara quan
 
 Maldrix ne rit pas, ce qui, chez lui, était une forme de sérieux.
 
-«  La Chaîne Brisée.  » Il prononça les deux mots comme on soupèse une fausse pièce. «  Vous savez ce que c’est, ce nom  ? Une secte philosophique, quelques cellules, à Kharazir, à Haldria, ailleurs. Des gens qui font des exercices pour devenir insensibles aux Voies. Minoritaires, inoffensifs, un peu ridicules. Voilà ce que c’est.  » Il se pencha. «  Et voilà ce que c’est aussi : le nom qu’on colle sur tout ce qu’on ne veut pas expliquer. Un capitaine perd un navire, c’est la Catena Fracta. Une route faiblit, c’est la Catena Fracta. Un savant devient gênant, c’est un sympathisant Catena Fracta, et personne ne cherche plus pourquoi il était gênant. Le nom est une porte qu’on ferme pour cesser de regarder ce qu’il y a derrière.  »
+«  La Chaîne Brisée.  » Il pesa le nom un instant. «  Vous savez ce que c’est, ce nom  ? Une secte philosophique, quelques cellules, à Kharazir, à Haldria, ailleurs. Des gens qui font des exercices pour devenir insensibles aux Voies. Minoritaires, inoffensifs, un peu ridicules. Voilà ce que c’est.  » Il se pencha. «  Et voilà ce que c’est aussi : le nom qu’on colle sur tout ce qu’on ne veut pas expliquer. Un capitaine perd un navire, c’est la Catena Fracta. Une route faiblit, c’est la Catena Fracta. Un savant devient gênant, c’est un sympathisant Catena Fracta, et personne ne cherche plus pourquoi il était gênant. Le nom est une porte qu’on ferme pour cesser de regarder ce qu’il y a derrière.  »
 
 Sans le savoir, il avait décrit la porte qu’on avait fermée sur moi.
 
@@ -117,7 +117,7 @@ Avant de partir, je posai une dernière question, celle pour laquelle j’étais
 
 Maldrix me regarda avec la lenteur d’un homme qui recalcule un prix. Puis il jugea, je crois, que la question elle-même lui apprenait davantage sur moi que sa réponse ne m’apprendrait, et que le solde penchait en sa faveur.
 
-«  Des savants, surtout. Des gens qui posaient des questions sur des choses anciennes.  » Il énuméra sans emphase, comme on lit un manifeste de cargaison. «  Un épigraphiste d’Endora qui travaillait sur une écriture que personne ne sait lire. Un vieux naturaliste de Sarandel. Un archiviste de Haldria qui reliait des dates.  » Il s’arrêta sur un nom. «  Et un homme qui posait les mêmes questions que vous, à ce qu’on m’a dit. Un lettré de passage, qui cherchait des relevés de sols vitrifiés et de villages abandonnés par intuition. On l’appelait Naïm. Il est reparti vers l’ouest il y a deux mois.  »
+«  Des savants, surtout. Des gens qui posaient des questions sur des choses anciennes.  » Il énuméra sans emphase : «  Un épigraphiste d’Endora qui travaillait sur une écriture que personne ne sait lire. Un vieux naturaliste de Sarandel. Un archiviste de Haldria qui reliait des dates.  » Il s’arrêta sur un nom. «  Et un homme qui posait les mêmes questions que vous, à ce qu’on m’a dit. Un lettré de passage, qui cherchait des relevés de sols vitrifiés et de villages abandonnés par intuition. On l’appelait Naïm. Il est reparti vers l’ouest il y a deux mois.  »
 
 Je notai le nom sans le charger. Naïm. Des sols vitrifiés, des villages désertés par pressentiment, les mêmes questions que les miennes. Quel continent l’attendait, je le savais déjà, puisque c’était le mien. Un homme qui va où je vais, avec une note de courtoisie sur les talons : je pesai ce que cela valait, et je le rangeai à sa place, entre le nom de l’épigraphiste d’Endora et celui de l’archiviste de Haldria, sur une page où les noms s’accumulaient plus vite que je ne les avais rencontrés. Je ne notai pas ce que je comptais faire de cette page. On n’écrit pas tout ce qu’on pense  ; un cartographe sait mieux que personne qu’une carte se juge autant à ce qu’elle tait qu’à ce qu’elle montre.
 
@@ -175,7 +175,7 @@ Le contrôleur qui me revint s’appelait Merovis. La quarantaine sèche, l’un
 
 Le paquet, il le soupesa. Un paquet scellé, dans une ville qui vit du non-déclaré, est une promesse pour un douanier. Merovis crut tenir quelque chose. Je le vis à la façon dont il posa le reste de mes affaires sans plus les regarder. Il avait été prévenu, je le compris à retardement, prévenu de prêter attention à un cartographe voyageant vers l’ouest, et voilà que le cartographe portait un pli scellé qu’il refusait d’ouvrir. La note de courtoisie de Maldrix venait de trouver son homme, et son homme tenait la preuve dans sa main.
 
-«  Ouvrez-le, dit Merovis.
+«  Ouvrez-le, ordonna Merovis.
 
 — Faites-le vous-même. » Je ne tendis pas la main vers le paquet. « Vous ne me croiriez pas si je vous disais ce qu’il y a dedans.  »
 

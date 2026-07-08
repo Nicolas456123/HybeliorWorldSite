@@ -28,7 +28,7 @@ L’officière qui me reçut avait la charpente que j’allais retrouver chez pr
 
 «  Sorin Valthen. Kharazir. Cartographe.  »
 
-Je répondis dans l’ordre, un renseignement par mot, comme on remplit les cases d’un rôle.
+Je répondis dans l’ordre, sans un mot de trop.
 
 Le nom de la ville ne produisit rien sur son visage. Le mot cartographe, en revanche, lui fit lever les yeux, et l’attention qui s’y logea n’avait rien de vague.
 
@@ -38,7 +38,7 @@ Le nom de la ville ne produisit rien sur son visage. Le mot cartographe, en reva
 
 Elle les déplia sur le comptoir et les lut. Vraiment lues : des doigts qui suivaient les lignes de côte, les courbes de niveau, les marques de frontière, avec la méthode d’une personne pour qui déchiffrer un relevé n’est pas un prétexte mais une compétence. Dans ce pays, la cartographie est un art militaire, et l’on y forme les officiers à lire une carte comme on les forme à lire un champ de bataille.
 
-«  Votre côte de Galenor est fausse sur le détroit nord, dit-elle enfin, et sa voix posait les mots à plat, comme on aligne des cotes sur un relevé, sans en charger un seul. Vous avez placé la passe deux milles trop à l’est. Un capitaine qui vous croit s’échoue.
+«  Votre côte de Galenor est fausse sur le détroit nord, dit-elle enfin. Vous avez placé la passe deux milles trop à l’est. Un capitaine qui vous croit s’échoue.
 
 — Montrez-moi, dis-je.  »
 
@@ -90,7 +90,7 @@ Assis sur un banc de pierre devant un haut fourneau en construction, dans le dis
 
 Je regardai mon croquis, et demandai où.
 
-Il se leva, vint poser un doigt sur trois points où j’avais estimé l’épaisseur des maçonneries à deux pieds. «  Quatre, dit-il.  » Le mot tomba seul, posé comme il devait poser ses briques, un après l’autre, sans mortier perdu. «  Une doublure interne de briques réfractaires, que vous ne voyez pas de l’extérieur. Un mur de forge ment sur son épaisseur, comme le reste, ici.  » Le croquis, il me le rendit. «  Comment le savez-vous, vous allez demander.
+Il se leva, vint poser un doigt sur trois points où j’avais estimé l’épaisseur des maçonneries à deux pieds. «  Quatre, dit-il.  » Il attendit, le doigt toujours sur le croquis. «  Une doublure interne de briques réfractaires, que vous ne voyez pas de l’extérieur. Un mur de forge ment sur son épaisseur, comme le reste, ici.  » Le croquis, il me le rendit. «  Comment le savez-vous, vous allez demander.
 
 — J’allais, dis-je.
 

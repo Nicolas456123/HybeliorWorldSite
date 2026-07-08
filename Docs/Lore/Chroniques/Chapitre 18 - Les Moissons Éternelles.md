@@ -45,9 +45,9 @@ Ce n’est pas une question.
 
 «  Un homme qui entend le sol.  »
 
-Il essuie ses mains à sa blouse, lentement, et me regarde comme si ma phrase révélait une lacune qu’il ne sait pas par où combler. Quand il répond, il pose un mot après l’autre comme on plante des bornes le long d’un champ, sans hâte, chacun à sa distance de l’autre.
+Il essuie ses mains à sa blouse, lentement, et me regarde comme si ma phrase révélait une lacune qu’il ne sait pas par où combler.
 
-«  Alors on vous a mal renseigné. Personne n’entend le sol. On l’écoute, ce qui n’est pas pareil. Écouter, c’est un travail. Entendre, c’est croire que la terre vous parle à vous en particulier. Elle ne parle à personne. Elle répond, quand on l’interroge bien.
+«  Alors on vous a mal renseigné, dit-il. Personne n’entend le sol. On l’écoute, ce qui n’est pas pareil. Écouter, c’est un travail. Entendre, c’est croire que la terre vous parle à vous en particulier. Elle ne parle à personne. Elle répond, quand on l’interroge bien.
 
 — Qui vous a appris à l’interroger  ?
 
@@ -103,7 +103,7 @@ Son doigt se pose sur la même parcelle, trois années de suite. Rynel-haut.
 
 — Un mur enterré. On bute dessus quand on laboure trop profond. Les pierres sont trop lisses pour venir de nos maisons. Trop lisses pour venir de n’importe quelle maison que je connaisse. Personne ne l’a bâti de mémoire d’homme, et la mémoire d’homme, ici, remonte loin.  »
 
-Il dit cela sans y mettre d’étrangeté, du ton dont il m’a parlé de la couleur de la terre, comme si un mur qu’aucune main connue n’a bâti était une donnée du sol au même titre qu’une pierre ou qu’une racine.
+Il dit cela sans y mettre d’étrangeté, comme si un mur qu’aucune main connue n’a bâti était une donnée du sol au même titre qu’une pierre ou qu’une racine.
 
 Je garde la main immobile sur le registre pour qu’elle ne me trahisse pas. Des pierres trop lisses pour appartenir aux ouvrages actuels, sous une parcelle où la terre a commencé à hésiter la première : je connais cette forme. Cette même famille de tracé, je l’ai relevée sous Rukhsar  ; à Ordavan, sous le verre  ; à Lunaris, sous le dragon. Le réseau ne se montre jamais entier. Il affleure par un mur qu’on ne peut pas dater, par un blé qui met dix jours au lieu de sept, par une ville qu’on évacue sans savoir pourquoi. On croit voir des accidents séparés. On voit la même chose respirer sous des noms différents.
 
@@ -119,7 +119,7 @@ Talvind referme le registre.
 
 — Et  ?
 
-— On m’a répondu que le rendement d’Amaroth n’avait jamais été aussi haut, dit-il, et sa voix prend le débit plat des hommes qui récitent une réponse qu’ils ont trop de fois retournée pour encore s’en émouvoir. Ce qui est vrai. Que je confondais la vieillesse d’un homme avec celle d’une terre. Ce qui est peut-être vrai aussi. Puis quelqu’un est venu, l’hiver dernier. Pas du Conseil des Moissons. Un homme poli, d’un service dont je n’ai pas retenu le nom, qui a regardé mes registres une après-midi entière et m’a conseillé, en partant, de ne plus les montrer. Pour ma tranquillité, il a dit. Un vieux qui effraie les semeurs avec des histoires de sol malade, ça ne rend service à personne.
+— On m’a répondu que le rendement d’Amaroth n’avait jamais été aussi haut, récite-t-il. Ce qui est vrai. Que je confondais la vieillesse d’un homme avec celle d’une terre. Ce qui est peut-être vrai aussi. Puis quelqu’un est venu, l’hiver dernier. Pas du Conseil des Moissons. Un homme poli, d’un service dont je n’ai pas retenu le nom, qui a regardé mes registres une après-midi entière et m’a conseillé, en partant, de ne plus les montrer. Pour ma tranquillité, il a dit. Un vieux qui effraie les semeurs avec des histoires de sol malade, ça ne rend service à personne.
 
 — Vous avez continué à écrire, dis-je.
 
@@ -191,7 +191,7 @@ Je cueille. Le geste change de nature après deux heures : il se dépouille de 
 
 Le soir, Emris me tend une miche enveloppée dans un linge, encore chaude, et une chose que je ne sais pas où ranger.
 
-«  Écris que tu as été accueilli, dit-elle, et la phrase tombe vite, en femme qui a déjà la main sur la tâche suivante. Les voyageurs écrivent les étrangetés. Ils oublient l’ordinaire, parce qu’ils croient que l’ordinaire ne prouve rien.
+«  Écris que tu as été accueilli, dit-elle sans s’arrêter, déjà tournée vers la tâche suivante. Les voyageurs écrivent les étrangetés. Ils oublient l’ordinaire, parce qu’ils croient que l’ordinaire ne prouve rien.
 
 — L’ordinaire prouve peut-être davantage.
 

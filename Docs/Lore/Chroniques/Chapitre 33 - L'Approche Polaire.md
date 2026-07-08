@@ -70,7 +70,7 @@ Le harnais, il le reposa.
 
 «  Dites-le-moi.  »
 
-«  Le Froid Ancien.  » Il le nomma sans baisser la voix, comme un point qu’on reporte sur une carte, non comme une chose qu’on craint. «  Ce n’est pas une image. Passé une certaine hauteur, il ne traverse pas les fourrures, il les ignore. On raconte qu’il gèle le sang dans les veines avant qu’on ait fini de comprendre qu’on a froid. Et le vent ne souffle pas droit. Il tourne. Les vieux disent que les tempêtes, là-haut, remontent le vent, qu’elles grossissent sur les campements comme si elles savaient où on est. Les Tempêtes Vivantes. Vous voulez que je vous mène à ça.  »
+«  Le Froid Ancien.  » Il le nomma sans baisser la voix. «  Ce n’est pas une image. Passé une certaine hauteur, il ne traverse pas les fourrures, il les ignore. On raconte qu’il gèle le sang dans les veines avant qu’on ait fini de comprendre qu’on a froid. Et le vent ne souffle pas droit. Il tourne. Les vieux disent que les tempêtes, là-haut, remontent le vent, qu’elles grossissent sur les campements comme si elles savaient où on est. Les Tempêtes Vivantes. Vous voulez que je vous mène à ça.  »
 
 «  Je veux que vous me meniez à un jour de marche. Le reste, je le fais seul.  »
 
@@ -88,7 +88,7 @@ Je ne le pressai pas. Quelque part sur les treize continents, j’avais renoncé
 
 Les archives de Noravia tenaient dans une longue salle basse, chauffée par un poêle de fonte, et gardées par un homme qui n’était ni altram ni skaldorien. Sethiran était né sur les côtes occidentales de Caeloria et avait fait le voyage seize ans plus tôt sans jamais repartir. Non par manque de moyens, précisa-t-il, mais par manque de raison de partir. Dans les registres de ce bout du monde, il avait trouvé plus de matière qu’une vie n’en pouvait épuiser, et il vivait de cette abondance comme d’autres vivent de leur fortune, en la distribuant à ceux qui sauraient en faire quelque chose.
 
-«  On vient rarement jusqu’ici pour lire,  » dit-il en m’installant une chaise près du poêle. Il parlait comme il devait lire, sans hâte, chaque phrase menée jusqu’à son point. «  On vient pour embarquer, pour pêcher, ou pour disparaître. Vous, vous portez un carnet et de l’encre. C’est une troisième espèce. Que cherchez-vous  ?  »
+«  On vient rarement jusqu’ici pour lire,  » dit-il en m’installant une chaise près du poêle. «  On vient pour embarquer, pour pêcher, ou pour disparaître. Vous, vous portez un carnet et de l’encre. C’est une troisième espèce. Que cherchez-vous  ?  »
 
 «  Les rapports de l’expédition altram. Pas le rapport officiel. L’autre,  » dis-je.
 
@@ -102,7 +102,7 @@ Ce n’était pas faux. Rien de ce que je disais n’était faux. Sethiran cherc
 
 Sethiran s’immobilisa.
 
-«  Celle-là, dit-il lentement. Oui. C’est celle-là.  » Un silence. «  Comment  ?  »
+«  Celle-là, dit-il lentement. Oui. C’est celle-là.  » Un silence. «  Comment  ?  » souffla-t-il.
 
 «  La patine.  » Ma main quitta le cuir. «  Elle est plus sombre sur la tranche. On l’a plus souvent ouverte que les autres.  »
 
@@ -170,7 +170,7 @@ Lentement, elle s’assit en face de moi et posa sa main mutilée à plat sur la
 
 «  Que s’est-il passé le vingt-deuxième jour  ?  » demandai-je.
 
-Sa main se ferma un peu. Quand elle reprit, elle donnait les faits comme elle avait dû donner les mesures, une donnée après l’autre, sans lever la voix ni l’appuyer.
+Sa main se ferma un peu. Elle reprit plus bas, sans lever la voix.
 
 «  Vane a donné l’ordre de redescendre. On avait vu les structures depuis le surplomb. Elle a dit : *on a ce qu’on est venus chercher, on repart.* Certains ne voulaient pas. Trois voulaient monter plus près, toucher, relever au pied même. Vane a refusé. On a plié le camp dans la nuit.  » Son regard alla à la lampe. «  La tempête est venue à la descente. Elle n’est pas venue droit sur nous. Elle nous a suivis. Vous pouvez appeler ça le vent qui tourne dans les cols, si ça vous arrange. Nous, on l’a sentie choisir. Elle grossissait quand on s’arrêtait, elle faiblissait quand on marchait. Comme si elle voulait nous garder là où on était.  »
 
@@ -214,7 +214,7 @@ Le lendemain matin, je descendis acheter mon équipement. Borela m’avait mis d
 
 «  Les gens qui tiennent boutique à Noravia connaissent la question. On finit par la traiter comme le bruit du vent.  » La cire glissa vers moi. «  Passez-la sur les coutures ce soir, près du feu, pas demain dans le froid. Le froid fige la cire avant qu’elle entre.  »
 
-Je payai. Comme je rassemblais mes affaires, elle parla de nouveau, sans que rien dans le geste précédent l’eût annoncé, de la voix plate qu’elle mettait à donner les prix.
+Je payai. Comme je rassemblais mes affaires, elle parla de nouveau, sans que rien dans le geste précédent l’eût annoncé.
 
 «  Il y a eu quelqu’un d’autre, vous savez. Avant les altram. Un homme de Galenor. Seul, ce qui, ici, est une manière d’être mort avant de partir.  » Les pièces, elle les rangea. «  Il avait vos mains.  »
 

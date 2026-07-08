@@ -77,7 +77,7 @@ Une caisse de basalte traînait à côté de son chariot  ; je m’y suis assis
 
 «  Vous êtes d’ici  ?  » ai-je demandé.
 
-«  De Mylaris.  » Elle a donné le lieu d’abord, puis la distance, puis la raison, dans l’ordre où un guide pose une route. «  Sur les flancs du Mont Cendra. Descendue à Brumaris il y a sept ans, après une coulée mineure. Pas pour fuir : la coulée avait ouvert un chemin neuf dans la roche, vers les vignobles, et les transporteurs cherchaient quelqu’un qui connaisse le terrain.  »
+«  De Mylaris.  » répondit-elle. «  Sur les flancs du Mont Cendra. Descendue à Brumaris il y a sept ans, après une coulée mineure. Pas pour fuir : la coulée avait ouvert un chemin neuf dans la roche, vers les vignobles, et les transporteurs cherchaient quelqu’un qui connaisse le terrain.  »
 
 «  Vous connaissez le terrain.  »
 
@@ -175,17 +175,17 @@ D’une voix que je voulais ordinaire, je lui ai demandé si elle sentait quelqu
 
 «  La pulsation. Je suis Liée, je la sens toujours à cette distance. C’est normal.  »
 
-«  Je la sens aussi.  » Trois mots que j’ai posés un à un, à voix basse, du ton dont j’inscris un relevé que je ne sais pas encore lire.
+«  Je la sens aussi.  » murmurai-je.
 
 Elle m’a examiné avec l’expression de quelqu’un qui entend une chose impossible et décide, faute de mieux, de la croire provisoirement. «  Vous m’avez dit que vous étiez Délié.  »
 
 «  Je le suis.  »
 
-Elle énumérait comme on récite une règle sûre, puis la voix a manqué d’appui, chaque mot cherchant le suivant plus loin que le précédent.
+Elle reprit, plus lentement.
 
 «  Les Déliés ne perçoivent pas les pulsations du Mont Cendra. Même les Liés faibles peinent à les capter clairement d’ici. Et vous seriez…  »
 
-«  Délié, dis-je.  » Je récitais mon état comme on donne une position, un repère après l’autre, sans y mettre plus de chaleur qu’à une latitude. «  Depuis ma naissance. Inscrit sur les registres de la Guilde de Rukhsar, reconnu par la Brigade de Pyrtara.  »
+«  Délié, dis-je.  » Ma main n’avait pas quitté le basalte. «  Depuis ma naissance. Inscrit sur les registres de la Guilde de Rukhsar, reconnu par la Brigade de Pyrtara.  »
 
 Le silence est retombé entre nous. Nous avons regardé la montagne. La fumée respirait, loin, au-dessus des toits. Le battement continuait dans ma poitrine, pas fort, pas douloureux, seulement présent, réel comme une vérité l’est même quand elle vous encombre.
 

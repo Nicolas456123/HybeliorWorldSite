@@ -39,7 +39,7 @@ Ils me virent de loin, comme on se voit toujours dans la steppe, où n’être p
 
 La cheffe avait la cinquantaine, un talisman de cuir tressé au poignet droit, les cheveux séparés en quatre nattes. Sans un mot, elle me regarda arriver jusqu’à ce que je fusse à deux pas, dit quelque chose en lytharien que je ne saisis pas, puis, quand je répondis en galenorien, ajusta seulement son regard, comme on change d’outil dans une main.
 
-«  Vous allez à pied  », dit-elle, en galenorien roulé de galets.
+«  Vous allez à pied  », dit-elle, en galenorien rocailleux.
 
 Ce n’était pas une question. Une observation, sans mépris ni pitié, l’étonnement pratique d’une femme qui rangeait ce fait parmi les rares.
 
@@ -49,7 +49,7 @@ Ce n’était pas une question. Une observation, sans mépris ni pitié, l’ét
 
 — Vers la mer. Je cherche un port.  »
 
-Au silence, elle laissa la place qui lui revenait, puis, du ton dont on énonce une distance déjà mesurée :
+Au silence, elle laissa la place qui lui revenait, puis reprit :
 
 «  Venez ce soir à Lytharil. Un homme qui marche vers la mer par la steppe se perd deux fois avant d’y arriver.  »
 
@@ -73,7 +73,7 @@ C’est ce soir-là que passa un Cavalier du Vent.
 
 Ce sont les messagers-juges de Lythar, ceux qui galopent sans fin d’une tribu à l’autre, portant les nouvelles et tranchant les querelles. Celui-là était jeune, les mains abîmées par les rênes, le regard toujours un peu au-delà de son interlocuteur, vers le prochain point de l’horizon. Sans cérémonie, il s’assit et accepta le koumiss qu’on lui tendait. Je priai Ryvan de me servir d’interprète, ce qu’elle fit avec l’efficacité qu’elle mettait à tout.
 
-Le Cavalier parlait des chevaux. Sa voix avait le débit bas et pressé des hommes qui récitent une nouvelle de relais en relais, un fait planté après l’autre, sans jamais y ajouter le poids d’y croire.
+Le Cavalier parla des chevaux, d’une voix basse et rapide.
 
 «  Il dit que les bêtes sont mauvaises depuis l’automne, traduisit Ryvan. Des peurs sans objet. Elles refusent des terrains où rien ne devrait effrayer un cheval de Lythar.
 
@@ -95,7 +95,7 @@ Je demandai des précisions. Le jeune homme murmura quelques mots, vite, le rega
 
 — La steppe ne compte pas les jours, répondit Ryvan sans traduire. Elle compte les vents.  »
 
-Le Cavalier ajouta une phrase, plus bas que le reste, comme on lâche ce dont on n’est pas sûr de vouloir se défaire. Ryvan ne me la donna pas tout de suite.
+Le Cavalier lâcha une dernière phrase, plus bas que le reste. Ryvan ne me la donna pas tout de suite.
 
 «  Quoi  ? insistai-je.
 
@@ -207,7 +207,7 @@ Sur le bord de la route, elle m’attendait. Cela, je l’écris avec soin, parc
 
 Les couvents de Vytharia, on me l’avait dit, forment des femmes qui prétendent lire dans le sommeil ce que la veille cache. Les Tisseuses de Voile, les rêveuses, celles qui gardent les frontières intérieures. Je ne sais pas ce qu’elles lisent. Je sais qu’elle avait raison sur l’ordre, et l’ordre ne s’invente pas.
 
-«  On parle de vous jusqu’ici, dis-je, prudemment. Un voyageur qui prend des notes se remarque.
+«  On parle de vous jusqu’ici, hasardai-je. Un voyageur qui prend des notes se remarque.
 
 — On ne parle pas de vous. On vous rêve. Ce n’est pas la même chose.  » Elle fit un pas, ses novices ne bougèrent pas. «  Dans le rêve, vous portez un sac lourd et vos mains sont vides. C’est ce qui m’a réveillée. Un homme dont le fardeau n’est pas dans les mains.
 
@@ -239,7 +239,7 @@ On en parlait depuis Tyndara, sans jamais assez de netteté pour en faire une no
 
 La mère surprit mon regard et le couvrit du sien, dure, prête à défendre son petit d’un mot de travers. Je ne dis rien qui pût la blesser. L’enfant, lui, contourna le feu et vint se planter devant moi, tout près, la tête levée. Il ne regardait pas mon visage, mais ma poitrine, ou dessous.
 
-«  Tu sonnes  », dit-il, du ton égal dont les enfants nomment ce qu’ils voient sans se douter que cela puisse inquiéter.
+«  Tu sonnes  », dit-il tranquillement, sans se douter que cela puisse inquiéter.
 
 La mère se leva. L’enfant n’en tint pas compte.
 
@@ -277,7 +277,7 @@ Le sac passa sur le lutrin. Le plus jeune l’ouvrit et en tira mes cahiers, un 
 
 «  Je suis cartographe. Je relève. Je ne sème rien.
 
-— C’est ce que dit votre sac.  »
+— C’est ce que dit votre sac  », répliqua-t-il.
 
 Il feuilleta encore, pesa encore, et ne trouva rien qu’un journal de voyage : des cathédrales, des prix du sel, des recettes de mouton de fosse, la robe des chevaux de Lythar, une note sur le vent. Ce que j’y ai mis d’autre est au blanc, ou barré, ou dispersé depuis longtemps par d’autres mains que les miennes, dans des villes qu’ils avaient déjà fouillées trop tard. Le plus jeune remit les cahiers dans le sac, un à un, dans l’ordre. Le plus âgé me tendit mes papiers une seconde fois, alors qu’il me les avait déjà rendus, geste inutile qui trahissait qu’il ne savait plus quoi faire de moi.
 

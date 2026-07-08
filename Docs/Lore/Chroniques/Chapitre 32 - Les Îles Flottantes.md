@@ -42,7 +42,7 @@ L’aubergiste essuya le bois devant moi plus longtemps qu’il n’était sale.
 
 — Toutes.  »
 
-Son ton avait le terne de la fausse pièce, celui de qui a évalué le prix de la vérité et décidé de ne pas le payer devant un étranger. Je n’insistai pas. Une chandelle de cire ordinaire brûlait entre nous deux, à la place où la ville aurait dû poser sa lumière propre. Des chandelles comme partout ailleurs dans le monde, comme dans les postes de Cendara, comme dans les tavernes d’Evertia où j’avais traîné mon deuil quelques mois plus tôt. Des chandelles sans rien de plus, au cœur d’une cité qui avait fait de la lumière son orgueil.
+Elle avait évalué le prix de la vérité et décidé de ne pas le payer devant un étranger. Je n’insistai pas. Une chandelle de cire ordinaire brûlait entre nous deux, à la place où la ville aurait dû poser sa lumière propre. Des chandelles comme partout ailleurs dans le monde, comme dans les postes de Cendara, comme dans les tavernes d’Evertia où j’avais traîné mon deuil quelques mois plus tôt. Des chandelles sans rien de plus, au cœur d’une cité qui avait fait de la lumière son orgueil.
 
 Je notai. Rien de plus. Les absences, en cartographie, disent souvent davantage que les présences, et une ville qui rationne son cœur sait quelque chose qu’elle ne veut pas nommer.
 
@@ -62,13 +62,13 @@ Calenne me regarda avec la lassitude de qui a entendu trois cents fois la même 
 
 Je lui demandai s’il redescendait, parfois.
 
-«  Personne ne redescend, dit-elle, sans amertume, comme on énonce une donnée. On dit qu’ils s’élèvent. On ne dit jamais où.  »
+«  Personne ne redescend, dit-elle, sans amertume. On dit qu’ils s’élèvent. On ne dit jamais où.  »
 
 Je restai un moment, jusqu’à ce qu’elle tournât la tête vers moi  ; son regard s’arrêta une seconde de trop, à l’endroit du flanc où ma main gauche reposait sans que je l’y eusse mise, contre la veste, contre les cahiers.
 
-«  Donnez-moi la pièce que vous comptez me donner, dit-elle, et passez votre chemin. Vous me ferez moins perdre de temps que votre question.  »
+«  Donnez-moi la pièce que vous comptez me donner, lâcha-t-elle, et passez votre chemin. Vous me ferez moins perdre de temps que votre question.  »
 
-La pièce, je la lui donnai  ; elle la prit sans me regarder cette fois, et parla comme on parle de la pluie.
+La pièce, je la lui donnai  ; elle la prit sans me regarder cette fois.
 
 «  Dans sa dernière lettre, mon frère écrivait que les pierres de Galdryn pesaient plus lourd qu’avant. Il l’a mis en marge. Comme un détail. Je ne sais pas pourquoi je vous le dis. Vous ne l’écouterez pas mieux parce que ça vient de moi.  »
 
@@ -98,7 +98,7 @@ Son regard, alors, pesa non pas ce qu’un homme dit, mais s’il peut servir ce
 
 «  Sous Galdryn, dit-il, plus bas que le troisième niveau d’extraction, l’art se retourne contre lui-même. Les sorts de lumière s’éteignent. Les détecteurs s’inversent. Les protections deviennent des cages. Aucun Lié n’y descend, aucun n’en revient renseigné. Un Délié, lui, y marcherait comme une ombre dans l’eau. Sans prise. Sans signature à retourner.  »
 
-Il disait tout cela dans un ordre trop sûr pour l’inventer là, du débit d’un homme qui récite une carte levée seul et souvent reprise.
+Rien de cela ne s’inventait sur place : l’ordre en était trop sûr, la carte trop souvent reprise.
 
 «  Vous voulez mes yeux, dis-je, parce que les vôtres y verraient trop mal.  »
 
@@ -186,7 +186,7 @@ Je lui tendis mes notes, qu’il lut debout, sans changer d’expression, les de
 
 Depuis quand il le savait, je le lui demandai.
 
-«  Depuis que les autres ont cessé de vouloir en parler, dit-il, du ton qu’on prend pour relever une date, pas pour la déplorer.  »
+«  Depuis que les autres ont cessé de vouloir en parler, dit-il, sans le déplorer.  »
 
 Il me rendit les cahiers, sans en avoir pris aucune copie, et cela, je ne le lui permis pas.
 
@@ -202,7 +202,7 @@ Alors il me regarda autrement, et je vis qu’il comprenait à demi, ce qui est 
 
 «  Vous m’employiez.
 
-— Non, dit-il, et les phrases lui venaient une à une, comme un relevé qu’on vérifie en le lisant à voix haute. Vous m’avez laissé être le premier de vos témoins que le Conseil ne pourra pas faire taire. On efface un mineur de Galdryn en une nuit. On efface un berger de province, un traducteur de province. On n’efface pas un archimage, même déchu, sans que la question monte de savoir pourquoi. Vous êtes venu chercher un nom trop lourd à supprimer.  »
+— Non, reprit-il. Vous m’avez laissé être le premier de vos témoins que le Conseil ne pourra pas faire taire. On efface un mineur de Galdryn en une nuit. On efface un berger de province, un traducteur de province. On n’efface pas un archimage, même déchu, sans que la question monte de savoir pourquoi. Vous êtes venu chercher un nom trop lourd à supprimer.  »
 
 Je ne le niai pas. Ma demande fut qu’il mît par écrit ce que ses instruments avaient relevé, qu’il le datât et le signât de la main qui avait siégé au Conseil. Sur-le-champ, il le fit, appuyé contre une borne, et me tendit la feuille sans que j’aie à la reprendre. Un relevé de premier rang, daté, signé. Un homme naïf aurait voulu cette caution pour être cru. Cette caution, je la voulais pour autre chose, et je crois qu’il le savait en écrivant, et qu’il écrivit tout de même, parce que les hommes que le silence a coûté deviennent généreux d’une manière que la prudence ne comprend pas.
 

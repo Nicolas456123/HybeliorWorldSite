@@ -34,7 +34,7 @@ Fendar Olis avait la soixantaine studieuse, des lunettes de cristal aux verres d
 
 Ce n’était pas ce que j’avais espéré entendre. Je l’ai suivi dans l’arrière-boutique, où deux tasses de tisane fumaient déjà, préparées comme pour un rendez-vous convenu. Avec la précision d’un homme habitué aux mauvaises nouvelles, il m’a expliqué que mon nom circulait depuis quatre jours entre le Bureau des Brevets de Kharazir et la Direction des Entrées étrangères de Lumasar. Pas une interdiction. Une notification. Le genre de chose qui ne ferme aucune porte sur le papier et les ferme presque toutes dans les couloirs.
 
-«  La Catena Fracta  », a-t-il dit. «  Les Chaînes Brisées. On vous a rangé là.  »
+«  La Catena Fracta  », reprit-il plus bas. «  Les Chaînes Brisées. On vous a rangé là.  »
 
 Pendant sept ans, à Rukhsar, ce nom n’avait été pour moi qu’une case de formulaire : doctrine interdite, sympathisants présumés, surveillance recommandée. Je connaissais les rapports. Jamais je n’avais rencontré ni un membre, ni un acte, ni même la preuve concrète que la chose existait. En me classant là, Kharazir ne m’avait pas fait sympathisant : elle avait fait de moi un homme qu’on pouvait traiter comme tel.
 
@@ -42,7 +42,7 @@ J’ai posé la main sur mon sac, à l’endroit où dormaient mes notes.
 
 «  Vous n’avez pas encore lu.
 
-— C’est précisément le problème, dit-il sans baisser les yeux vers le sac, la voix posant les mots un par un, du débit des hommes qui ont préparé leur refus avant qu’on vienne le leur demander.
+— C’est précisément le problème, dit-il sans baisser les yeux vers le sac.
 
 — Vous refusez avant de savoir.  »
 
@@ -68,7 +68,7 @@ Il m’a resservi sans que je le lui demande, puis il m’a observé un instant 
 
 — J’ai perdu l’habitude de plaider, à Rukhsar. »
 
-Il m’a laissé finir ma tasse avant de reprendre, du ton d’un homme qui vérifie une mesure plutôt qu’il ne la conteste.
+Il m’a laissé finir ma tasse avant de reprendre.
 
 « Non. Vous avez perdu l’habitude d’attendre qu’on vous dise oui. Ce n’est pas la même chose.  »
 
@@ -100,7 +100,7 @@ La pause qui a suivi était de celles qu’on prend quand le mais est trop lourd
 
 — Aussi informelle  », ai-je répété.
 
-«  Les mots sont ceux du Code  », dit-il, et il les rapportait comme on relève une cote sur un plan, sans les peser, parce qu’un autre les avait pesés avant lui.
+«  Les mots sont ceux du Code  », dit-il, sans les peser, parce qu’un autre les avait pesés avant lui.
 
 «  Que feriez-vous, à ma place.  »
 
@@ -198,7 +198,7 @@ J’aurais dû m’arrêter là. Au lieu de quoi j’ai posé une question de pl
 
 — Personne.  »
 
-Sans se retourner tout à fait, et sans hâte, il a répondu de la voix d’un homme qui a la vérité pour lui et n’a donc pas besoin de mentir.
+Sans se retourner tout à fait, il a répondu sans hâte.
 
 «  Rien ne s’écrit, monsieur Valthen. Rien ne se signe. Un nom passe d’un bureau à un bureau parce que les bureaux se parlent, comme les rivières se rejoignent sans qu’on ait creusé entre elles. Vous cherchez une main. Il n’y a pas de main. Il n’y a qu’une pente.  »
 
@@ -212,9 +212,9 @@ J’ai dîné seul, dans une taverne du quartier des étudiants qui s’appelle 
 
 À la table voisine, deux hommes se disputaient sur un jugement récent du Tribunal. Un Voilé avait contesté son exclusion d’une bibliothèque de Prismalith, et gagné. L’administration n’avait pas appliqué la décision.
 
-«  Dix-sept pour cent, disait le plus jeune. Vous appelez ça un détail.
+«  Dix-sept pour cent, lançait le plus jeune. Vous appelez ça un détail.
 
-— J’appelle ça quatre-vingt-trois pour cent d’obéissance, répondait l’autre. Trouvez-moi mieux ailleurs.
+— J’appelle ça quatre-vingt-trois pour cent d’obéissance, rétorquait l’autre. Trouvez-moi mieux ailleurs.
 
 — Pour les dix-sept pour cent, ailleurs ou ici ne change rien. La porte reste fermée.  »
 

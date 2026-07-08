@@ -37,7 +37,7 @@ Mes lettres, je les posai devant l’homme chargé de mon dossier. Un âge mûr,
 
 Un temps me fut nécessaire pour saisir qu’il me demandait si j’exerçais encore, ou si mes cartes appartenaient au passé.
 
-«  Ni l’un ni l’autre, dis-je en posant les mots un à un, comme des bornes sur un terrain qu’on ne veut pas voir contesté. Exilé de ma guilde d’origine, à Kharazir. Désaccord de méthode. En voyage libre depuis presque onze mois.  »
+«  Ni l’un ni l’autre, dis-je sans me presser. Exilé de ma guilde d’origine, à Kharazir. Désaccord de méthode. En voyage libre depuis presque onze mois.  »
 
 Sa plume inscrivit cela avec une précision qui laissait entendre que la catégorie «  ni l’un ni l’autre  » figurait déjà, toute prête, dans ses formulaires. Gryndor avait rencontré assez de déclassés pour leur ménager une case. Rien de ce que j’étais ne le surprenait, et c’est justement ce que je voulais : un homme sans titre, sans mandat, sans pouvoir de nuire, le genre qu’on laisse entrer parce qu’on ne voit pas ce qu’il pourrait emporter.
 
@@ -77,7 +77,7 @@ Doryn la regarda longtemps. Trop longtemps pour un homme à qui l’on montre un
 
 Je demandai pourquoi.
 
-«  Parce que je connais cette écriture, dit-il à voix basse, chaque phrase plus courte que la précédente, comme s’il repliait la carte à mesure qu’il la montrait. Pas pour la lire, personne ne la lit. Pour l’avoir vue. Il en existe un fragment dans nos fonds. Un seul, à ma connaissance. Recopié il y a bien longtemps d’un original venu de l’ouest brumeux, des couvents où l’on dort les yeux ouverts.  » Il regarda autour de lui, ce mouvement d’archiviste qui longe les murs même quand il ne bouge pas. «  Il n’est pas en niveau deux. Ni en niveau cinq. Il est dans un fonds qui, officiellement, n’existe pas. Et le jour où j’ai demandé à le consulter, on m’a répondu par une question sur l’état de ma santé.  »
+«  Parce que je connais cette écriture, dit-il à voix basse. Pas pour la lire, personne ne la lit. Pour l’avoir vue. Il en existe un fragment dans nos fonds. Un seul, à ma connaissance. Recopié il y a bien longtemps d’un original venu de l’ouest brumeux, des couvents où l’on dort les yeux ouverts.  » Il regarda autour de lui, ce mouvement d’archiviste qui longe les murs même quand il ne bouge pas. «  Il n’est pas en niveau deux. Ni en niveau cinq. Il est dans un fonds qui, officiellement, n’existe pas. Et le jour où j’ai demandé à le consulter, on m’a répondu par une question sur l’état de ma santé.  »
 
 De la soirée, il ne dit plus rien. Mais il m’avait donné, sans le savoir, la forme exacte de ce que j’étais venu chercher : la preuve que ces signes n’appartenaient pas à un lieu mais à un réseau, qu’ils couraient sous les continents comme une même main aurait écrit sur douze pierres différentes. Une écriture ne se disperse pas toute seule. Il faut quelqu’un pour la porter. Ou quelque chose.
 
@@ -103,7 +103,7 @@ Une archiviste travaillait à quelques pas, si concentrée qu’elle paraissait 
 
 Elle s’arrêta d’écrire. Une fraction de seconde seulement, puis sa plume reprit. Ce silence-là, chez une Gryndorienne, valait un aveu. Merris, je l’appris plus tard, avait cette qualité rare chez les gardiens : elle croyait au savoir plus qu’à l’ordre qui le garde.
 
-«  Ce que vous décrivez, dit-elle enfin sans lâcher sa plume, la voix au rythme de la main qui écrivait, n’est pas en niveau deux. Ce n’est pas non plus en niveau cinq. Les collections de niveau cinq vous diront ce qui s’est passé quelque part. Elles ne vous diront jamais ce qui est écrit sur cette pierre. Pour cela, il faudrait un fonds que le Conseil n’a jamais catalogué, parce qu’un maître-archiviste a décidé, il y a des années, que certaines choses devaient rester dans des mains particulières.
+«  Ce que vous décrivez, dit-elle enfin sans lâcher sa plume, n’est pas en niveau deux. Ce n’est pas non plus en niveau cinq. Les collections de niveau cinq vous diront ce qui s’est passé quelque part. Elles ne vous diront jamais ce qui est écrit sur cette pierre. Pour cela, il faudrait un fonds que le Conseil n’a jamais catalogué, parce qu’un maître-archiviste a décidé, il y a des années, que certaines choses devaient rester dans des mains particulières.
 
 — Et vous savez où sont ces mains.
 
@@ -111,7 +111,7 @@ Elle s’arrêta d’écrire. Une fraction de seconde seulement, puis sa plume r
 
 Ce qu’elle attendait de moi en me disant tout cela, je le lui demandai.
 
-Elle me regarda pour la première fois, et sa voix quitta le registre plat qu’elle gardait pour la transcription. «  Que quelqu’un lise enfin ce que personne n’a le droit de lire. Je ne peux pas le sortir. Je peux vous dire à quelle heure la galerie de transcription des fonds réservés reste sans surveillance, et combien de temps. Le reste vous regarde.  »
+Elle me regarda pour la première fois. «  Que quelqu’un lise enfin ce que personne n’a le droit de lire, dit-elle. Je ne peux pas le sortir. Je peux vous dire à quelle heure la galerie de transcription des fonds réservés reste sans surveillance, et combien de temps. Le reste vous regarde.  »
 
 Elle me donna un chiffre. Une durée, courte, comptée en minutes. Puis elle repartit vers sa paroi, et je restai à mesurer, comme un cartographe mesure un gué, l’écart entre ce qu’elle m’offrait et ce que j’allais en faire. Elle croyait aider un homme assoiffé de vérité, et n’avait pas tort. C’est cela le plus dur à porter, dans ce que je fais : ceux qui m’aident ont raison sur mes motifs et se trompent seulement sur ma nature.
 
@@ -119,7 +119,7 @@ Elle me donna un chiffre. Une durée, courte, comptée en minutes. Puis elle rep
 
 Selvorn m’accorda une audience le matin du troisième jour, dans une pièce latérale sans un seul livre visible, ce qui, en Gryndor, signifie soit une salle de passage, soit une salle de danger. Deux chaises de pierre, une table basse, pas de fenêtre, deux sources de lumière cristalline dans les angles. Grand, maigre d’une maigreur volontaire, les cheveux gris peignés comme une ligne tirée à l’équerre, il me reçut en disant mon nom et mon statut sans consulter aucun papier, ce qui voulait dire qu’il avait préparé la rencontre.
 
-«  Un cartographe exilé de Kharazir, dit-il du débit égal d’un homme qui récite un relevé appris, porteur de lettres étrangères, qui demande à voir une écriture qu’on ne montre pas.  » Une pause de la longueur exacte d’une respiration. «  C’est inhabituellement convergent.
+«  Un cartographe exilé de Kharazir, récita-t-il, porteur de lettres étrangères, qui demande à voir une écriture qu’on ne montre pas.  » Une pause de la longueur exacte d’une respiration. «  C’est inhabituellement convergent.
 
 — Je peux expliquer la convergence.
 
@@ -137,7 +137,7 @@ Sans carnet, sans une note, il m’écouta jusqu’au bout. Soit il mémorisait 
 
 J’en demandai la raison.
 
-À ma question, il joignit les mains et pesa ses mots avec la lenteur d’un homme qui pèse depuis si longtemps que le mécanisme en est devenu invisible.
+À ma question, il joignit les mains et pesa longuement sa réponse.
 
 «  Parce que je connais la suite. Un homme trouve une pièce, puis une deuxième, puis il trace une ligne entre les deux et se persuade que la ligne était là avant lui. Ensuite il va la montrer au monde, parce qu’il croit que le monde a le droit de savoir. Et le monde, qui n’était pas prêt, se brise sur ce qu’on lui a mis dans les mains.  » Il me regarda. «  Nous cachons cette écriture non parce qu’elle est fausse, mais parce qu’elle est vraie et que nous ne savons pas encore quoi en faire. Cacher une chose vraie, cartographe, ce n’est pas mentir. C’est attendre.
 
@@ -179,7 +179,7 @@ Un feuillet glissa de ma chemise au moment où le gardien levait les yeux vers m
 
 On ne choisit pas de devenir fugitif de Gryndor. On le devient d’un geste de trop, sous le mauvais regard, à la mauvaise heure. Je le note ainsi parce que c’est ainsi que cela s’est passé, mot pour mot, et que je ne trouve pas de raison de l’écrire autrement.
 
-«  Ne bougez pas  », dit le gardien. La voix manquait d’assurance, celle d’un homme qui n’a pas encore eu souvent à s’en servir.
+«  Ne bougez pas  », dit le gardien d’une voix mal assurée.
 
 Je ne bougeai pas. Ce que j’étais venu chercher, je le tenais, dans ma tête et sur deux feuillets, et le reste, désormais, allait se dérouler tout seul.
 

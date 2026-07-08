@@ -99,7 +99,7 @@ Cela, je l’avais vu ailleurs. Les chevaux de Lythar qui refusaient certaines p
 
 — On m’a dit qu’à Brumaris, la couronne et le Temple ne s’accordent sur rien.
 
-— Sur rien, sauf les digues.  » Il a ri, un bruit sec sans gaieté, puis le rire est tombé et les mots ont repris leur assise, un appui vérifié avant le suivant, comme il posait ses dalles. «  C’est nouveau. Quand deux vetos qui se détestent finissent par voter la même chose, un homme prudent regarde ce qui leur a fait peur à tous les deux en même temps.
+— Sur rien, sauf les digues.  » Il a eu un rire sec, vite retombé. «  C’est nouveau, reprit-il. Quand deux vetos qui se détestent finissent par voter la même chose, un homme prudent regarde ce qui leur a fait peur à tous les deux en même temps.
 
 — Et qu’est-ce que c’est  ?
 
@@ -141,7 +141,7 @@ Voilà ce que je n’ai pas su ranger dans une colonne. Ce battement, je ne le r
 
 Vharn s’était accroupi à quelques pas.
 
-«  Vous avez changé de figure.  » Il l’a dit sans curiosité, comme un fait de terrain, du même ton qu’il aurait signalé une dalle descellée.
+«  Vous avez changé de figure  », constata-t-il sans curiosité.
 
 «  La chaleur.
 
@@ -171,7 +171,7 @@ La dernière sangle nouée, elle s’est essuyé les mains à son tablier et m�
 
 — Je n’écris que ce qui est déjà réveillé.
 
-— Alors écrivez juste. » Le conseil est venu détaché du reste, compté comme on rend la monnaie en la vérifiant deux fois. « Il n’y aura personne pour corriger derrière vous.  »
+— Alors écrivez juste  », reprit-elle plus bas. « Il n’y aura personne pour corriger derrière vous.  »
 
 Kessa a tiré son âne vers le chemin de Brumaris, et je l’ai laissée descendre avant moi, parce que je devais encore voir le prêtre et parce qu’un homme qui a senti battre une montagne n’a pas envie, tout de suite, de parler d’autre chose.
 
@@ -219,7 +219,7 @@ Les colonnes descendaient. Elles descendaient avec la régularité d’une chose
 
 — Je copie souvent.
 
-— Et quand vous aurez tout copié, demanda Talvhar sans quitter le feu des yeux, du ton d’un homme qui pose la question depuis bien avant moi et n’en attend plus de réponse, le monde ira-t-il mieux  ?
+— Et quand vous aurez tout copié, demanda Talvhar sans quitter le feu des yeux, le monde ira-t-il mieux  ?
 
 — Non. Il n’ira pas mieux. Mais il sera su. Ce n’est pas pareil, et c’est tout ce que je sais faire.  »
 
@@ -241,7 +241,7 @@ En m’entendant, il a levé la tête. Il ne m’a pas regardé comme on regarde
 
 «  Ce que tu portes ne t’appartient pas encore  », a-t-il dit.
 
-Le galenorien d’un enfant qui apprend la langue des marchands voisins, hésitant sur les liaisons, sûr de chaque mot. Puis il s’est levé et il est entré dans la maison, sans hâte, comme on rentre parce que le soir tombe et non parce qu’on fuit.
+C’était le galenorien d’un enfant qui l’apprend des marchands voisins. Puis il s’est levé et il est entré dans la maison, sans hâte, comme on rentre parce que le soir tombe et non parce qu’on fuit.
 
 Je ne l’ai pas suivi. On ne poursuit pas un enfant pour lui arracher une phrase qu’il n’expliquera pas.
 

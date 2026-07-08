@@ -27,7 +27,7 @@ Son nom était Sera.
 
 «  Vous arrivez à un mauvais moment, dit-elle en marchant. Ou à un bon. Cela dépend de ce que vous êtes venu faire, et vous n’avez pas voulu l’écrire sur le registre du port.  »
 
-Elle parlait sans ralentir le pas, chaque phrase posée d’aplomb, comme si la ville n’avait pour elle aucun angle mort.
+Elle parlait sans ralentir le pas, en femme pour qui la ville n’avait aucun angle mort.
 
 «  J’ai écrit cartographe.  »
 
@@ -83,7 +83,7 @@ Sur la table, je posai le fragment, tourné vers lui. Solvanes ne le prit pas. L
 
 — Je cherche à savoir si la même main a écrit ailleurs.  »
 
-«  La même main a écrit partout.  » Il n’appuya pas la phrase, la posa comme une mesure qu’on relève et qu’on vérifie plus tard. Il se leva, tira un volume, l’ouvrit à une planche que le temps avait brunie. Un relevé du ciel, et dans la marge, tracé à la plume, un signe. «  Mes prédécesseurs l’ont relevé sur une pierre de la côte, il y a de cela quatre cents pleines lunes. Ils ne savaient pas le lire. Ils l’ont copié parce qu’un Veilleur copie ce qu’il ne comprend pas, faute de quoi il ne reste rien à comprendre pour ceux d’après.  »
+«  La même main a écrit partout.  » Il n’appuya pas la phrase. Il se leva, tira un volume, l’ouvrit à une planche que le temps avait brunie. Un relevé du ciel, et dans la marge, tracé à la plume, un signe. «  Mes prédécesseurs l’ont relevé sur une pierre de la côte, il y a de cela quatre cents pleines lunes. Ils ne savaient pas le lire. Ils l’ont copié parce qu’un Veilleur copie ce qu’il ne comprend pas, faute de quoi il ne reste rien à comprendre pour ceux d’après.  »
 
 Le signe de la marge était celui de mon fragment. C’était aussi celui des tunnels de Kharazir, sous la ville où l’on m’avait pris mes cartes une vie plus tôt, et celui, plus loin encore, d’une chose que je portais dans les os et non sur le papier, un rythme lent et régulier que j’avais senti pour la première fois sous les racines de Trinoria et retrouvé sous le Mont Cendra, identique, à la fréquence près. Rien de tout cela ne se dit à un vieil homme qui vous reçoit chez lui. Je le notai, et je notai que je ne le lui disais pas, ce qui est ma manière de tenir mes comptes.
 
@@ -203,7 +203,7 @@ Je parlai le premier : il le fallait, puisqu’il ne parle jamais le premier, e
 
 Le Silence, autour de nous, était total. Un homme qui parle pendant le Silence de Lunasar joue sa place dans la cité. Vels n’avait pas de place à Lunasar. Il parla.
 
-«  Votre père a dit exactement cela, une fois.  » Sa voix était basse, égale, sans haine, la voix d’un homme qui a beaucoup réfléchi et peu conclu. «  Que rien ne devait se perdre. Il l’a dit à quelqu’un qui l’a cru, et ce quelqu’un est mort de l’avoir cru, et d’autres avec. Je le sais parce que j’étais des autres. J’ai porté ce que vous portez. On me l’a fait lâcher. On me l’a fait lâcher, et le monde ne s’est pas écroulé, et j’ai compris ce jour-là que le monde ne s’écroule jamais du poids qu’on lui retire, seulement du poids qu’on lui ajoute.  »
+«  Votre père a dit exactement cela, une fois.  » Sa voix était basse, égale, sans haine. «  Que rien ne devait se perdre. Il l’a dit à quelqu’un qui l’a cru, et ce quelqu’un est mort de l’avoir cru, et d’autres avec. Je le sais parce que j’étais des autres. J’ai porté ce que vous portez. On me l’a fait lâcher. On me l’a fait lâcher, et le monde ne s’est pas écroulé, et j’ai compris ce jour-là que le monde ne s’écroule jamais du poids qu’on lui retire, seulement du poids qu’on lui ajoute.  »
 
 «  Et vous ajoutez des morts, dis-je.
 
@@ -237,7 +237,7 @@ Je la regardai. Mentir d’un mot m’était facile  ; elle m’aurait cru, une
 
 Elle ne répondit pas. Sur moi son regard s’attardait comme sur un objet familier dont on découvre, à la lumière rasante, qu’il porte une seconde face qu’on n’avait jamais eu l’angle de voir. L’homme qu’elle avait guidé pendant douze jours, celui qu’elle avait cru sauver de sa propre imprudence, venait de la sauver, elle, d’une main plus sûre qu’aucun innocent n’en possède, et cette main l’effrayait plus que le gant noir sur le quai. Un naïf qu’on protège vous laisse votre place. Un homme qui vous protège mieux que vous ne le protégiez vous la reprend.
 
-«  Pourquoi m’avoir laissée venir, alors, dit-elle enfin. Si vous saviez tout. Vous auriez pu partir seul.  »
+«  Pourquoi m’avoir laissée venir, alors, demanda-t-elle enfin. Si vous saviez tout. Vous auriez pu partir seul.  »
 
 C’était la seule question à laquelle je n’avais pas de réponse préparée, et donc la seule dont la réponse fût entière.
 

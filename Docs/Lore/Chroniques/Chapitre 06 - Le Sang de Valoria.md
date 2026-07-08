@@ -26,7 +26,7 @@ Astraneth est la ville la plus ouverte de Valoria, ce qui, à Valoria, veut dire
 
 Je m’en suis souvenu. Ma chambre, je l’ai payée d’avance à une aubergiste bâtie comme un charron, qui s’appelait Marga et jaugeait la valeur marchande de tout ce qui franchissait sa porte, moi compris.
 
-«  Chambre deux pièces, repas une. Tu paies devant.  » Les mots tombaient comme un tarif cloué au mur, sans un pour adoucir l’autre. Le compas à ma ceinture retint son regard, puis mes mains. «  Tu graves  ?
+«  Chambre deux pièces, repas une. Tu paies devant  », lâcha-t-elle. Le compas à ma ceinture retint son regard, puis mes mains. «  Tu graves  ?
 
 — Je relève. Je dessine des cartes.
 
@@ -96,7 +96,7 @@ Je me suis présenté. Cartographe, exilé de Kharazir, en route vers Alkaran, c
 
 Ce n’était pas exact. Je l’ai dit quand même, et ce fut le premier vrai mensonge que je prononçai à Valoria, un mensonge d’une seule syllabe. Cette famille de signes, je la connaissais. Je l’avais vue sous Rukhsar, dans des tunnels qu’on m’avait interdit de relever, et avant moi un autre l’avait recopiée sous les collines de Hiliara, dans un carnet que je porte cousu contre mes côtes. Les mêmes angles. Le même refus des courbes. Une main qui écrivait avant que Valoria eût des clans, avant que Galenor eût une Charte, avant, peut-être, qu’il y eût quelqu’un pour graver des jugements sur du dur.
 
-«  Moi non plus, dit Torhal, et je la lis depuis trois ans.  » Il eut un rire bref, sans gaieté ni amertume, le rire d’un homme réconcilié avec l’ampleur de sa tâche. Quand il reprit, il parlait comme il gravait, un mot posé, puis le suivant, jamais deux ensemble. «  On croit que la loi commence avec nous. Que Kaeldar a levé la première pierre, que le premier serment a fondé le monde. Puis un jour tu grattes le lichen d’une dalle que personne ne regarde, et dessous il y a une gravure plus vieille que ton peuple, et elle dit quelque chose, et tu ignores quoi.  » Son regard remonta vers moi. «  Ça change un homme, de découvrir qu’on gravait avant lui.  »
+«  Moi non plus, dit Torhal, et je la lis depuis trois ans.  » Il eut un rire bref, sans gaieté ni amertume, le rire d’un homme réconcilié avec l’ampleur de sa tâche. «  On croit que la loi commence avec nous, reprit-il. Que Kaeldar a levé la première pierre, que le premier serment a fondé le monde. Puis un jour tu grattes le lichen d’une dalle que personne ne regarde, et dessous il y a une gravure plus vieille que ton peuple, et elle dit quelque chose, et tu ignores quoi.  » Son regard remonta vers moi. «  Ça change un homme, de découvrir qu’on gravait avant lui.  »
 
 «  Qu’est-ce qu’elle dit  ?
 
@@ -132,7 +132,7 @@ Le vent remplit le silence à ma place. Beaucoup de choses auraient pu se dire. 
 
 «  Je pose les questions d’un homme qui a vu la même écriture ailleurs et à qui on a retiré le droit de le dire.
 
-— Ah.  » Il laissa le mot se poser, du temps qu’il aurait mis à creuser une lettre. «  Kharazir t’a effacé pour ça.
+— Ah.  » Il laissa le mot se poser. «  Kharazir t’a effacé pour ça.
 
 — Kharazir m’a effacé pour moins que ça. Pour avoir déposé des cartes sur un bureau.  » Mes yeux revinrent à la dalle, à la gravure sous le lichen, à l’écriture d’avant les hommes. «  Torhal. L’homme au manteau propre qui est venu te questionner le mois dernier. Celui qui ne transpire jamais. Tu sais ce qu’il voulait  ?
 
@@ -144,7 +144,7 @@ Et là je fus aussi près d’un avertissement que je le serais de tout le voyag
 
 «  Moi, je repars demain. Lui, il reste, ou il envoie. Les hommes de son espèce ne viennent pas apprendre. Ils viennent classer. Range tes tablettes, Torhal. Envoie tes relevés à ton vieux de Velros, à ton liseur de Gorthorn, à trois endroits à la fois, à des gens qui ne se connaissent pas. Ce qui n’existe qu’à un seul endroit s’efface.  »
 
-Il m’écouta. Puis il fit ce que fait un Valorien à qui l’on parle d’effacement. Il rit, cette fois avec quelque chose de dur dans la gorge, et frappa la dalle du poing, assez fort pour que le coup se perde dans le vent.
+Il m’écouta. Puis il fit ce que fait un Valorien à qui l’on parle d’effacement. Il rit, d’un rire dur cette fois, et frappa la dalle du poing, assez fort pour que le coup se perde dans le vent.
 
 «  On ne m’efface pas, cartographe. C’est gravé.  » Sa main se posa sur la pierre couchée, comme un témoin la pose sur le monolithe. «  Ta Kharazir efface parce qu’elle écrit sur du mou, sur du parchemin, sur ce qui brûle. Ici, on écrit sur ce qui reste quand les murs tombent. Qu’ils viennent avec leurs manteaux propres. Ils peuvent me tuer. Ils ne retireront pas ce que la roche a reçu.  »
 

@@ -38,7 +38,7 @@ Je lui dis assez de vérité pour être utile. Que je relevais depuis deux ans l
 
 Peu de gens écoutent jusqu’au bout  ; il le fit.
 
-«  Vous parlez comme quelqu’un qui a déjà entendu la réponse et qui vient vérifier qu’il l’a bien entendue  », dit-il, posant les mots un à un comme on plante des bornes.
+«  Vous parlez comme quelqu’un qui a déjà entendu la réponse et qui vient vérifier qu’il l’a bien entendue  », observa-t-il.
 
 «  Je vérifie tout, dis-je. C’est mon métier.  »
 
@@ -66,7 +66,7 @@ Voix-de-Pierre, à qui la table déférait, répondit sans hâte. «  Du lien e
 
 Je relevai le mot. «  Hésiter.  »
 
-«  C’est le terme que nous employons, dit-il, et il y tenait comme on tient à une mesure juste. Pas s’effondrer : hésiter. Perdre de la cohérence sans la perdre tout à fait. Comme une note qui se déforme sans cesser d’être elle-même.  »
+«  C’est le terme que nous employons, insista-t-il. Pas s’effondrer : hésiter. Perdre de la cohérence sans la perdre tout à fait. Comme une note qui se déforme sans cesser d’être elle-même.  »
 
 Une femme, au bout de la table, posa alors le second fil, plus concret et plus lourd. Depuis dix-huit mois, les Canteurs relevaient dans les fréquences qu’ils percevaient des changements. Rien de brutal : des écarts fins, absents d’une séance, présents à la suivante, de plus en plus souvent. Des notes qui résonnaient un peu autrement. Pas fausses. Autres.
 
@@ -98,7 +98,7 @@ Ce fut au retour, le lendemain, seul, que je repassai près d’eux. Un homme se
 
 «  Pourquoi me la dire, à moi  ?  »
 
-«  Parce que vous êtes étranger. Aux gens d’ici, on a déjà tout dit, et les gens d’ici trouvent que la sève est sacrée et que le sacré ne se compte pas. Aux étrangers qui notent, on n’a pas encore tout dit.  » Il ne cachait pas la part de calcul dans la phrase, et je la notai comme le reste. Les chiffres lui venaient sans effort, alignés comme des barils sur une berge. «  L’arbre change, à ce qu’on raconte. L’arbre change peut-être. Nous, on saigne plus. Il faut tirer deux fois pour obtenir ce qu’on tirait une. La guilde baisse le prix du baril parce que l’amer se vend moins, et demande autant de barils. Alors on ouvre plus d’arbres.  »
+«  Parce que vous êtes étranger. Aux gens d’ici, on a déjà tout dit, et les gens d’ici trouvent que la sève est sacrée et que le sacré ne se compte pas. Aux étrangers qui notent, on n’a pas encore tout dit.  » Il ne cachait pas la part de calcul dans la phrase, et je la notai comme le reste. «  L’arbre change, à ce qu’on raconte. L’arbre change peut-être. Nous, on saigne plus. Il faut tirer deux fois pour obtenir ce qu’on tirait une. La guilde baisse le prix du baril parce que l’amer se vend moins, et demande autant de barils. Alors on ouvre plus d’arbres.  »
 
 À cela je répondis que je n’écrivais pas pour la guilde, et que mon cahier ne serait peut-être lu par personne avant longtemps.
 
@@ -144,7 +144,7 @@ La gardienne me regarda longtemps.
 
 Contre une racine, à trois pas d’elle, je m’assis et j’attendis. Une servante du Pacte parut, plus tard, avec une écuelle de sève tiède qu’elle tendit d’abord à Elwenn, puis à moi. La gardienne but. On me disait, ici comme à la ville, que la sève de Sylvara guérit, même amère, même tournée  ; que nul ne monte à l’Arbre sans en boire une gorgée, par respect autant que par soin. Je ne bus pas. Mon cahier restait ouvert sur mes genoux, et l’on n’écrit pas d’une main qui rend une écuelle. Elwenn le remarqua, et ne dit rien, et ce rien-là pesa plus qu’une phrase.
 
-Le temps, au pied de l’Arbre, ne se comptait pas comme ailleurs. La gardienne parlait par bouffées, longtemps muette, puis trois phrases, puis le silence de nouveau, réglée sur une horloge que je ne voyais pas.
+Le temps, au pied de l’Arbre, ne se comptait pas comme ailleurs. La gardienne se taisait longtemps, puis lâchait trois phrases, puis retombait dans le silence.
 
 «  Sept générations, dit-elle une fois, sans que rien l’eût appelée. Voilà ce que dure le Pacte. Les miens chantent pour la forêt, la forêt tient la paix sur ses marges. Pas de clauses, pas de peines, pas d’arbitres. Une pratique, seulement. On monte chanter deux fois par lune, et tant qu’on monte, la chose tient.  » Elle regarda le fond amer de l’écuelle. «  J’ai chanté ici toute ma vie. Ma mère avant moi. Je serai la gardienne qui aura vu l’Arbre se taire. On ne choisit pas le tour où l’on tombe.  »
 

@@ -33,7 +33,7 @@ Un garde m’arrêta au poste de contrôle. Trente ans peut-être, une armure de
 
 — Oui.
 
-— Vous cherchez à cartographier quoi, exactement  ?  » demanda-t-il, un mot après l’autre à distance égale, comme il aurait planté des bornes.
+— Vous cherchez à cartographier quoi, exactement  ?  » demanda-t-il.
 
 Les galeries de Myrilith, dis-je. Les niveaux profonds. Il y a des lacunes dans les archives d’Altram, et les maîtres-artisans de Trelios m’ont chargé de les combler.
 
@@ -65,7 +65,7 @@ Ce n’était pas une question, et je lui demandai comment il le savait.
 
 «  Parce que c’est le seul endroit qu’un cartographe d’ailleurs voudrait voir ici, répondit-il. Les puits du bourg extérieur sont déjà documentés. Myrilith, les niveaux profonds, ça, non.  »
 
-Il dit cela sans ostentation, avec la précision d’un homme qui ne confond pas savoir et bavardage. Nous mangeâmes à la même table, ce qui, en Iskara, revient à manger ensemble : viande séchée dans les courants d’air des tunnels, pain noir, fromage pressé sous des blocs de pierre, vin de Galdar coupé à l’eau des puits par une habitude si ancienne qu’elle était devenue un goût.
+Il dit cela sans ostentation. Nous mangeâmes à la même table, ce qui, en Iskara, revient à manger ensemble : viande séchée dans les courants d’air des tunnels, pain noir, fromage pressé sous des blocs de pierre, vin de Galdar coupé à l’eau des puits par une habitude si ancienne qu’elle était devenue un goût.
 
 Baret parla peu durant le repas. Après la bière, il parla davantage, non que l’alcool l’eût desserré, les Iskarans ne s’enivrent pas au point de perdre la mesure de leurs mots, mais parce que ma façon d’écouter lui parut peut-être digne de confiance. Sur les routes, j’ai appris que les gens livrent ce qu’ils savent lorsqu’ils décident que vous le méritez. L’interrogatoire donne des réponses de surface. La patience donne les profondeurs.
 
@@ -125,7 +125,7 @@ Une réponse qui n’en était pas une, posée avec la netteté iskarane des cho
 
 Reval reposa mes papiers, puis ne les lâcha pas tout de suite.
 
-«  Une dernière chose.  » Sa voix n’avait pas baissé de volume, seulement changé de registre, celle d’un homme qui récite ce qui ne figure sur aucun registre. «  On nous a fait passer un avis, il y a quelques semaines. De prêter attention aux étrangers qui s’intéressent aux niveaux profonds.  » Ses yeux ne quittèrent pas les miens. «  L’avis ne venait pas d’un canal que je reconnais. Ni Altram, ni la Guilde. Il est arrivé quand même.  »
+«  Une dernière chose.  » Il reprit après un silence, sans baisser la voix. «  On nous a fait passer un avis, il y a quelques semaines. De prêter attention aux étrangers qui s’intéressent aux niveaux profonds.  » Ses yeux ne quittèrent pas les miens. «  L’avis ne venait pas d’un canal que je reconnais. Ni Altram, ni la Guilde. Il est arrivé quand même.  »
 
 Je ne demandais qu’à mesurer de la roche, répondis-je, et la roche ne se cachait de personne.
 
@@ -187,7 +187,7 @@ Lorn n’exprima aucune opinion. Il leva simplement sa lampe un peu plus haut po
 
 Nous remontâmes à la fin de l’après-midi. La lumière grise d’un ciel couvert d’automne me frappa les yeux avec une violence que je n’attendais pas : même ce gris ordinaire est trop vif pour des yeux qui ont passé la journée aux lampes des galeries profondes. Sur une pierre au-dessus du puits, je m’assis, sans écrire, sans mesurer, sans rien faire d’utile. Parfois il faut laisser les sensations se ranger avant de les cataloguer.
 
-Ce soir-là, au Charbonnier, je parlai de la porte à Baret. Il ne montra pas de surprise, but une gorgée, puis dit : «  Je sais quelle porte vous avez vue.  » Jadis il y était allé, du temps où les niveaux inférieurs restaient ouverts. Les mineurs entendaient les sons non depuis la porte, mais depuis le mur au-delà, plus profond. Ses mots, il les cherchait comme un homme qui lit la roche mais manque de vocabulaire pour ce qui ne cadre avec aucune catégorie de son métier.
+Ce soir-là, au Charbonnier, je parlai de la porte à Baret. Il ne montra pas de surprise, but une gorgée, puis dit : «  Je sais quelle porte vous avez vue.  » Jadis il y était allé, du temps où les niveaux inférieurs restaient ouverts. Les mineurs entendaient les sons non depuis la porte, mais depuis le mur au-delà, plus profond. Il chercha un instant comment le dire.
 
 «  Partout ailleurs, les sons viennent du fond. De là où vous n’êtes pas descendu. Devant cette porte, ils viennent du fond aussi. Mais autrement. Comme si, sous elle, le dessous était plus proche que d’habitude.  » Il s’arrêta. «  L’ancien dit que ces derniers temps ils ont changé. Moins réguliers. Plus proches.  » Il posa ses deux mains de pierre à plat sur la table, sans y penser, exactement comme un homme les poserait sur du métal. «  Comme quelqu’un qui frappe à une porte depuis l’autre côté.  »
 
@@ -233,7 +233,7 @@ Puis quelque chose changea, que je ne saurais rendre autrement qu’en disant qu
 
 Dorsa rouvrit les yeux, retira ses mains du sol, lentement, et les regarda comme Baret avait regardé les siennes.
 
-«  Il s’est retiré, dit-elle.
+«  Il s’est retiré, murmura-t-elle.
 
 — Qui  ?
 

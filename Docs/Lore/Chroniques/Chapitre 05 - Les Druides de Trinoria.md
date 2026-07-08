@@ -33,7 +33,7 @@ Il se tenait au bord de ce qu’on pouvait appeler un chemin, c’est-à-dire un
 
 Sur ses avant-bras nus malgré la fraîcheur, sur sa gorge, sur ses joues, couraient des tatouages d’encre noire et de vert sombre : nervures de feuilles, ramures, anneaux de croissance du bois tranché. Un marchand de la côte m’avait dit que les druides du Vael’Kurash portaient ces marques, une par esprit avec lequel ils avaient parlé. Orvhel en portait beaucoup.
 
-Il a lancé une phrase que je n’ai pas saisie. Le trinorien du centre n’est pas le parler des ports que j’avais grappillé à Solena. Devant mon silence, il est passé à un galénorien rugueux mais net. Il parlait lentement, un mot posé après l’autre, comme on plante les bornes d’un champ.
+Il a lancé une phrase que je n’ai pas saisie. Le trinorien du centre n’est pas le parler des ports que j’avais grappillé à Solena. Devant mon silence, il est passé à un galénorien rugueux mais net.
 
 «  Tu viens des quais. Tu sens le sel séché et la pierre. Pas la forêt.  »
 
@@ -55,7 +55,7 @@ Aucune raison sérieuse de refuser, et beaucoup de raisons de cartographe d’ac
 
 Nous avons marché deux heures dans un couvert de plus en plus épais, et pendant deux heures Orvhel n’a pas décrit : il a nommé. Non par espèce, comme à Lumasar, mais par nom propre, comme on nomme une personne. Ce chêne s’appelait Yrath-qui-plie, trois cents ans, un esprit patient. Cette roche affleurante était Lassith, elle veillait le carrefour depuis avant les hommes. Il nommait les champignons sur les troncs morts, l’oiseau que j’entendais sans le voir. Des noms qui ressemblaient moins à des adresses qu’à des saluts.
 
-«  Tu retiens tout ça  ? lui ai-je demandé. Sans rien inscrire  ?  »
+«  Tu retiens tout ça  ? m’étonnai-je. Sans rien inscrire  ?  »
 
 «  Je ne retiens pas. Je connais. Ce n’est pas la même fatigue.  » Il a posé la paume sur un tronc en passant, sans s’arrêter. «  Un nom écrit, tu le ranges et tu l’oublies parce que tu sais où le retrouver. Un nom qu’on porte, on ne l’oublie pas, parce qu’il n’y a pas d’endroit où le poser.  »
 
@@ -81,13 +81,13 @@ Je lui ai raconté Kharazir. L’essentiel, brièvement. Une administration capa
 
 «  Les esprits de ta forêt natale te reconnaissent encore, dit-il après un temps. Un être qu’une forêt a connu ne peut pas être effacé tout à fait.  »
 
-On aurait pu dire cela pour consoler, et je l’aurais reçu ainsi. Mais Keth ne consolait pas. Il énonçait, avec la tranquillité qu’il aurait mise à dire que le sol reste humide après la pluie. Cela m’a touché à un endroit que je ne surveillais pas, et je me suis rabattu sur les cartes, les rivières, les noms. Terrain plus sûr.
+On aurait pu dire cela pour consoler, et je l’aurais reçu ainsi. Mais Keth ne consolait pas. Il énonçait un fait, tranquillement. Cela m’a touché à un endroit que je ne surveillais pas, et je me suis rabattu sur les cartes, les rivières, les noms. Terrain plus sûr.
 
 Plus tard, la soupe finie, j’ai posé enfin ma question.
 
 «  Vous n’écrivez rien. Ni les noms, ni les rites, ni ce que vous savez des bêtes et des arbres. Alors dis-moi, Keth : le jour où Orvhel mourra, où ira ce qu’il sait  ?  »
 
-Le garçon a réfléchi comme on soupèse un objet lourd, puis il a répondu en posant chaque nom à sa place, sans presse, comme je reporte des repères sur une feuille.
+Le garçon a réfléchi comme on soupèse un objet lourd, puis il a répondu.
 
 «  Une part est déjà en moi. Une autre chez la femme aux spirales. Une autre chez le vieux qui ne parle pas. Aucun de nous ne la porte toute.  »
 
@@ -123,13 +123,13 @@ Le quatrième jour, une chose m’a arrêté plus que les arbres. Nous revenions
 
 «  Des lettrés. Des enquêteurs.  »
 
-«  Je ne connais pas tes mots. Ils écrivaient. Ils voulaient une carte de ce que nous portons, un tableau où le mettre, un endroit où le tenir.  » Il ne mettait pas d’humeur dans ces phrases, il les rapportait, comme on relit un relevé à voix haute. «  La forêt s’est refermée sur eux. On ne leur a rien dit de faux. On ne leur a rien dit du tout. Ils sont repartis avec des feuilles pleines de rien.  »
+«  Je ne connais pas tes mots. Ils écrivaient. Ils voulaient une carte de ce que nous portons, un tableau où le mettre, un endroit où le tenir.  » Il rapportait cela sans y mettre d’humeur. «  La forêt s’est refermée sur eux. On ne leur a rien dit de faux. On ne leur a rien dit du tout. Ils sont repartis avec des feuilles pleines de rien.  »
 
 «  Et vous n’avez pas craint qu’ils reviennent en nombre  ? Qu’on vous prenne ce que vous gardez  ?  »
 
 Orvhel s’est retourné, et pour la première fois son calme avait un fond dur.
 
-«  On ne prend pas ce qui n’est écrit nulle part et su de tous. Voilà pourquoi nous n’écrivons pas, cartographe. Un homme qui met son savoir sur une feuille désigne l’endroit où le tuer. Nous, nous n’avons pas d’endroit.  »
+«  On ne prend pas ce qui n’est écrit nulle part et su de tous, dit-il plus bas. Voilà pourquoi nous n’écrivons pas, cartographe. Un homme qui met son savoir sur une feuille désigne l’endroit où le tuer. Nous, nous n’avons pas d’endroit.  »
 
 Je n’ai rien répondu, laissant la phrase se poser en moi comme une pierre au fond d’un seau. *Un homme qui met son savoir sur une feuille désigne l’endroit où le tuer.* Cette leçon, je la connais  ; je l’ai payée à Kharazir, dans le silence qui a suivi le dépôt de mon rapport sur un bureau qui l’a classé en deux heures. Mais Orvhel en tirait le refus d’écrire  ; moi, la nuit venue, j’en tirais tout autre chose. On peut mettre son savoir sur mille feuilles à la fois, en mille endroits, jusqu’à ce qu’il n’y ait plus d’endroit à frapper. La forêt et moi arrivions à la même conclusion par les deux bouts opposés. Je me suis gardé de le lui dire.
 
@@ -159,7 +159,7 @@ Quelques minutes encore. Puis j’ai retiré la main, j’ai remis le carnet dan
 
 ---
 
-Le lendemain matin, Orvhel m’a apporté le bol de soupe et a parlé sans préambule, comme il aurait commenté le ciel.
+Le lendemain matin, Orvhel m’a apporté le bol de soupe et a parlé sans préambule.
 
 «  Yrath-le-Vieux-Père t’a remarqué, hier soir. C’est rare, avec les étrangers. Il est devenu méfiant, ces dernières années.  »
 
@@ -215,7 +215,7 @@ Au matin, Pardine chargée de provisions, Keth m’a mené jusqu’à l’orée.
 
 Je l’ai glissée dans la poche gauche de ma veste, celle où je garde mon compas depuis Kharazir. Le compas donne des directions. Quant à la pierre, j’ignore encore ce qu’elle donne. Mais elle a un poids, et ce poids n’est pas rien.
 
-Keth a marché un moment à mon côté avant de me laisser. Le garçon voulait dire quelque chose et tournait autour depuis l’orée. Les mots ne lui venaient pas droit ; il les laissait approcher, puis reculer, comme une bête qui hésite au bord d’un gué.
+Keth a marché un moment à mon côté avant de me laisser. Le garçon voulait dire quelque chose et tournait autour depuis l’orée.
 
 «  Tu vas continuer d’écrire tout ce que tu vois, dit-il enfin. Même ici. Même Yrath.  »
 

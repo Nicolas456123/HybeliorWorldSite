@@ -35,7 +35,7 @@ Le second éloigné, je m’approchai du Gardien, un homme court et noueux dont 
 
 «  Non. Je relève. Des sols, des saisons, ce qui se répète.  » Je posai sur la table un fruit acheté deux étals plus loin, sans en faire un paiement, seulement une manière de rester. «  Depuis quand le chant  ?
 
-— Le printemps dernier.  » Les mots lui venaient rares, un par un, comme à un homme qui compte ce qu’il donne. Il me jaugea, décida que je ne valais ni la méfiance ni le mensonge. «  Les silencieux ont d’abord cru à un oiseau qu’ils ne connaissaient pas. On n’apprend pas de nouvel oiseau à mon âge, m’a dit leur porteur. Ce n’était pas un oiseau. Ça vient d’en bas et ça monte, et depuis, les racines du Bosquet Primordial saignent quand on les entaille.  » Il détourna les yeux, vers les glycines géantes qu’aucun étranger ne franchit. «  L’Archidruide dit que la forêt rêve. Moi je dis qu’on ne réveille pas ce qui rêve.  »
+— Le printemps dernier, lâcha-t-il.  » Il me jaugea, décida que je ne valais ni la méfiance ni le mensonge. «  Les silencieux ont d’abord cru à un oiseau qu’ils ne connaissaient pas. On n’apprend pas de nouvel oiseau à mon âge, m’a dit leur porteur. Ce n’était pas un oiseau. Ça vient d’en bas et ça monte, et depuis, les racines du Bosquet Primordial saignent quand on les entaille.  » Il détourna les yeux, vers les glycines géantes qu’aucun étranger ne franchit. «  L’Archidruide dit que la forêt rêve. Moi je dis qu’on ne réveille pas ce qui rêve.  »
 
 «  Et ce qui ne rêvait pas  ?  » demandai-je.
 
@@ -113,7 +113,7 @@ En galenorien, je lui dis que je n’étais pas venu chercher des réponses qu�
 
 Alors il me regarda vraiment. Ses yeux cessèrent de courir.
 
-Une phrase sortit, en dialecte, que je ne saisis pas. Thyris ne traduisit pas d’emblée. Il la reprit, plus doucement, en pesant chaque syllabe. Elle inspira, puis rendit les mots d’une voix si plate qu’elle en trahissait l’effort.
+Une phrase sortit, en dialecte, que je ne saisis pas. Thyris ne traduisit pas d’emblée. Il la reprit, plus doucement, en pesant chaque syllabe. Elle inspira, puis rendit les mots avec effort.
 
 «  Il dit : *ils arrivent par le dessous.*  »
 
@@ -177,7 +177,7 @@ Il s’arrêta. Ce fut le seul aveu qu’il m’accorda, cet arrêt d’une demi
 
 «  On vous a envoyé fermer une bouche, dis-je. La mienne. On vous a dit qu’un cartographe fugitif de Gryndor colportait une chose qui, laissée courir, ferait tomber ce qui tient le monde debout. Et vous l’avez cru, parce que vous, on vous l’a fait payer autrefois, cette chose que vous portiez.  »
 
-Alors il parla. Une voix basse, sans grain, usée jusqu’au bois.
+Alors il parla, d’une voix basse.
 
 «  Vous parlez trop pour un homme qui va mourir.
 

@@ -43,7 +43,7 @@ Le premier village s’appelle Veldar, un nom absent de mes cartes. Une vingtain
 
 À la première porte qui semble servir, je frappe. La femme qui ouvre a la carrure d’un homme d’armes, une vieille brûlure au poignet gauche, et un regard qui me jauge en deux secondes. Des mots tombent, dans une langue que je ne connais pas. Paumes ouvertes, je réponds en galenorien que je voyage et que je cherche à manger.
 
-Une seconde encore, elle m’étudie, puis lâche, dans un galenorien dur et compressé, comme si la langue était trop longue pour le temps qu’elle veut y mettre :
+Une seconde encore, elle m’étudie, puis lâche, dans un galenorien dur :
 
 «  De Gryndor.  »
 
@@ -71,7 +71,7 @@ C’est Rethyn qui me prévient, le soir, quand elle m’apporte de quoi manger 
 
 «  Comment  ?  »
 
-«  Les Brûlés se parlent  », dit-elle, du même débit serré qu’à sa porte, un mot posé après l’autre. «  Il y a des relais entre Veldar et Myrthorin. Un fugitif de Gryndor qui passe le col au nord, on le signale.  » Un temps, puis la voix descendue d’un cran : «  Pas comme une menace. Comme une information.  »
+«  Les Brûlés se parlent  », dit-elle. «  Il y a des relais entre Veldar et Myrthorin. Un fugitif de Gryndor qui passe le col au nord, on le signale.  » Elle marque un temps, reprend plus bas : «  Pas comme une menace. Comme une information.  »
 
 Je note la distinction  ; c’est la même que dans sa porte ouverte sans chaleur. Ici, la rivalité ancienne avec Gryndor, les pillages, les rancunes qui ne s’éteignent pas, me valent un accueil que je n’aurais reçu nulle part ailleurs. Mon statut de fugitif fait presque office de recommandation.
 
@@ -165,7 +165,7 @@ Il s’appelle Thareth, me jauge avec la même attention utilitaire que tous ceu
 
 Je lui dis. Le sol vitrifié. Les maisons abandonnées dans l’ordre, non la panique d’une fuite, l’évacuation lente de gens qui savaient depuis longtemps qu’ils partiraient. Des visions, je parle plus vaguement, non par calcul, mais faute d’avoir encore les mots qu’un homme comme lui respecterait. Sans m’interrompre, il écoute.
 
-«  Les Guetteurs de Gryndor rapportent la même chose depuis six mois  », dit-il quand j’ai fini, les mots détachés un par un, du débit d’un homme habitué à être pris en note. «  Un sol qui monte en température sans cause identifiable. Des vibrations qui gagnent en fréquence.  » Un temps. «  Ils ont cessé de partager ces rapports il y a deux mois. Depuis que leurs autorités ont jugé l’information plus dangereuse que l’ignorance.  »
+«  Les Guetteurs de Gryndor rapportent la même chose depuis six mois  », dit-il quand j’ai fini. «  Un sol qui monte en température sans cause identifiable. Des vibrations qui gagnent en fréquence.  » Un temps. «  Ils ont cessé de partager ces rapports il y a deux mois. Depuis que leurs autorités ont jugé l’information plus dangereuse que l’ignorance.  »
 
 «  Et Drakora  ? Vous observez la même chose  ?  »
 

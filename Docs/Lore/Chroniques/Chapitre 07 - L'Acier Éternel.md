@@ -44,7 +44,7 @@ En payant, je pose la question que je pose partout, du ton de l’étranger qui 
 
 — Un peu.  » Il ne lève pas les yeux de l’établi. «  Un homme est venu la semaine dernière. Pas un marchand. Il posait des questions sur les registres du port. Qui débarque, quand, avec quoi.  »
 
-Sa voix ne change pas de hauteur pour passer du fer à l’homme, du ton dont on énonce une propriété du métal. Je compte ma monnaie sur l’établi, comme si cela ne me concernait pas. Cela me concerne exactement. Une question sur les registres du port, posée par un homme qui n’est pas un marchand, c’est l’appareil qui tâte le terrain, une semaine avant moi. Mon père a écrit là-dessus une page entière, il y a vingt ans, et cette page-là aussi je la connais par cœur. Ils annoncent toujours par les registres. Ils cherchent la trace écrite avant l’homme. Tant qu’ils lisent les registres, ils ne regardent pas les visages.
+Rien dans sa voix n’a changé entre le fer et l’homme. Je compte ma monnaie sur l’établi, comme si cela ne me concernait pas. Cela me concerne exactement. Une question sur les registres du port, posée par un homme qui n’est pas un marchand, c’est l’appareil qui tâte le terrain, une semaine avant moi. Mon père a écrit là-dessus une page entière, il y a vingt ans, et cette page-là aussi je la connais par cœur. Ils annoncent toujours par les registres. Ils cherchent la trace écrite avant l’homme. Tant qu’ils lisent les registres, ils ne regardent pas les visages.
 
 Je remercie le forgeron. Mon nom ne débarquera dans aucun registre de Yaltar. La route de Trelios, je la ferai à pied, avec les rouliers, sous celui d’un autre.
 
@@ -56,7 +56,7 @@ J’ai une lettre. Cachetée, remise à Valoria par une Ancienne d’un clan de 
 
 Corven Asheld tient un atelier deux niveaux sous la forge principale. «  Proche des quais, loin des intrigues du Conseil  », dit-il en guise d’accueil, avec un demi-sourire qui indique un choix délibéré et parfaitement assumé. Soixante ans, voûté comme les hommes grands qui ont passé leur vie penchés sur un établi, les mains si travaillées par le métal qu’elles semblent d’un alliage particulier, ni tout à fait chair, ni tout à fait pierre. La lettre lue, il la replie soigneusement, la garde un instant dans sa paume comme pour en peser le fer plutôt que les mots.
 
-«  Un cartographe.  » Il relève les yeux, pose chaque phrase et la laisse refroidir avant la suivante, comme une pièce qu’on ne songe pas à reprendre. «  Intéressant. Nous en avons besoin.
+«  Un cartographe.  » Il relève les yeux. «  Intéressant. Nous en avons besoin.
 
 — Pour quel travail  ?
 
@@ -88,7 +88,7 @@ Prêtresse-juriste de la Lex Petra, responsable des plaques du sous-niveau trois
 
 Quelque chose bouge dans son regard, trop vite pour que je le nomme sur l’instant. Un archiviste précis qui tient sa plaque un peu moins fermement qu’à l’ordinaire, c’est déjà une phrase entière.
 
-«  Les niveaux les plus bas sont dans la section scellée.  » Une pause, mesurée comme un poids sur une balance. «  Je peux vous montrer les autres.  »
+«  Les niveaux les plus bas sont dans la section scellée.  » Elle marque un temps. «  Je peux vous montrer les autres.  »
 
 Je m’incline. Les autres me suffiront pour commencer. Jamais, à personne, sur ce continent, je n’ai demandé rien que je ne compte obtenir autrement.
 
@@ -110,9 +110,9 @@ Et il bat.
 
 Pas visiblement. Rien qu’on puisse montrer en disant : regardez, ça bouge. Mais la pièce contient une présence que les autres salles n’ont pas, et je ne la perçois ni par les yeux ni par les oreilles. Les os la perçoivent. Une pulsation régulière, très lente. Le battement d’un cœur endormi depuis longtemps.
 
-Je ne franchis pas le seuil. Sur la ligne où finit le couloir et où commence l’antichambre, je reste, sans savoir combien de temps. Assez pour que Lisel me rejoigne et se place à côté de moi, à regarder le fragment sans parler. Puis, d’une voix qui récite comme on relève une cote lue cent fois :
+Je ne franchis pas le seuil. Sur la ligne où finit le couloir et où commence l’antichambre, je reste, sans savoir combien de temps. Assez pour que Lisel me rejoigne et se place à côté de moi, à regarder le fragment sans parler.
 
-«  On l’appelle le Fragment Zéro.
+«  On l’appelle le Fragment Zéro, récite-t-elle enfin.
 
 — Pourquoi zéro  ?
 
@@ -160,7 +160,7 @@ Un jeune maître me tend une pièce finie, une plaque carrée, et un ciseau à f
 
 — Sauf un  ?
 
-— Myrtam.  » Il prononce le nom sans jalousie, du ton dont on cite un pair qu’on n’égalera pas. «  Leur Myr le Fondeur a laissé une lame qu’ils appellent l’Acier Éternel. Une seule. Jamais reforgée depuis. Nous coulons mille plaques par an  ; eux gardent un objet qui n’a pas changé d’âme en huit siècles. Ce n’est pas le même métier. Ce n’est pas la même idée du temps.  »
+— Myrtam.  » Il prononce le nom sans jalousie, avec le respect qu’on garde pour un maître qu’on n’égalera pas. «  Leur Myr le Fondeur a laissé une lame qu’ils appellent l’Acier Éternel. Une seule. Jamais reforgée depuis. Nous coulons mille plaques par an  ; eux gardent un objet qui n’a pas changé d’âme en huit siècles. Ce n’est pas le même métier. Ce n’est pas la même idée du temps.  »
 
 Je note le nom pour plus tard, car ma route passe par Myrtam. Une chose qu’on ne refond pas. Une chose posée une fois, jamais reprise. De tout l’Alkaran, ce sera ce que j’emporterai de plus lourd, mais je ne le sais pas encore.
 
@@ -170,7 +170,7 @@ Ma question, je la pose du ton du curieux poli.
 
 «  Combien d’hommes connaissent la formule entière  ?
 
-— Quatre, dit-il, alignant les noms comme des lingots qu’on pose un par un. Le roi. Le Premier Maître. Moi. Et un autre que je ne nommerai pas.
+— Quatre, dit-il. Le roi. Le Premier Maître. Moi. Et un autre que je ne nommerai pas.
 
 — Assez pour qu’elle survive.
 

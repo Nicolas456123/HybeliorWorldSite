@@ -51,7 +51,7 @@ En galenorien, la langue de la neutralité, elle m’accueillit.
 
 «  On m’écrit que vous avez posé la main sur un chêne de Sanvara et que vous avez entendu battre le centre du monde.  »
 
-«  J’ai senti quelque chose. Je ne suis pas sûr de savoir l’interpréter,  » dis-je du ton plat que je garde pour les relevés qui comptent, ceux qu’on note comme les autres pour qu’ils s’y perdent.
+«  J’ai senti quelque chose. Je ne suis pas sûr de savoir l’interpréter,  » dis-je, et je n’ajoutai rien.
 
 «  Vous êtes cartographe.  »
 
@@ -109,7 +109,7 @@ Il ne dit rien. C’était sa manière. Alors je parlai le premier, ce qui étai
 
 «  On me constate beaucoup, ces derniers mois,  » observai-je.
 
-«  Vous voyagez beaucoup.  » La voix restait basse, sans hâte, avec la politesse froide de ceux qui n’ont pas besoin de l’élever parce que le silence travaille pour eux. «  Un homme sans aveu, sans cause, sans argent visible, qui traverse treize pays et s’attarde là où les savants meurent. On finit par relever la coïncidence.  »
+«  Vous voyagez beaucoup,  » dit-il sans élever la voix, le gant toujours posé sur la rambarde. «  Un homme sans aveu, sans cause, sans argent visible, qui traverse treize pays et s’attarde là où les savants meurent. On finit par relever la coïncidence.  »
 
 «  C’est le mot que vous employez. Coïncidence.  »
 
@@ -147,7 +147,7 @@ Elle se retourna. La quarantaine, les tempes grises, le calme des gens qui passe
 
 Vessane : Second Observatoire, dix-huit ans de service, spécialiste des étoiles de fond, celles qu’on dit fixes.
 
-«  Qui ne devraient pas bouger,  » ajouta-t-elle, du ton d’une évidence qu’on rappelle à qui ne la connaît pas encore.
+«  Qui ne devraient pas bouger,  » ajouta-t-elle, comme on énonce une évidence.
 
 ---
 
@@ -167,7 +167,7 @@ Une étoile blanche, un peu bleutée, d’une grandeur ordinaire, que je regarda
 
 «  Toutes les étoiles clignotent, vues du sol. L’air.  »
 
-«  Pas comme ça.  »
+«  Pas comme ça,  » insista-t-elle.
 
 Elle reprit l’instrument, régla l’échelle, me le rendit. À travers le verre recalibré, je vis ce qu’elle voulait dire. Le tremblement de cette étoile n’était pas le frémissement continu de l’atmosphère : il avait un rythme. Une baisse lente, un retour, une régularité que le hasard ne produit pas. Une ombre passait devant l’étoile, et repassait.
 
@@ -227,7 +227,7 @@ Le feuillet, je le pris. Léger dans la main, lourd dans le sac.
 
 C’est là que j’ai fait ce que je ne fais pas. Cette décision, je l’avais prise, je crois, dès qu’elle avait posé le chiffre sur la table, vingt-trois, confirmées, avec ce mot, confirmées, qui n’était pas le mot d’une femme qui doute encore, mais celui d’une femme qui a écrit sa conclusion et attend qu’on la lui prenne des mains. Un savant qui a confirmé et qui parle est un savant que l’appareil range dans une liste, et cette liste-là, je sais comment elle circule.
 
-«  Vessane. Écoutez-moi une fois, et ne me demandez pas comment je le sais.  » Les mots vinrent sans le calme dont je borne d’ordinaire ce que je dis, posés trop vite pour un homme qui pèse tout.
+«  Vessane. Écoutez-moi une fois, et ne me demandez pas comment je le sais,  » dis-je, plus vite que je ne pèse d’ordinaire mes mots.
 
 Elle reposa le réflecteur.
 
@@ -235,7 +235,7 @@ Elle reposa le réflecteur.
 
 Sur moi se posa le regard qu’on pose sur une étoile qui vient de se déplacer d’un degré qu’elle n’avait pas le droit de parcourir.
 
-«  Comment un cartographe connaît-il les nuits de courrier de l’appareil académique.  » La question vint sans monter au bout, du ton dont elle relevait un angle : une mesure à vérifier, pas un cri.
+«  Comment un cartographe connaît-il les nuits de courrier de l’appareil académique,  » demanda-t-elle sans hausser la voix : une question, pas un cri.
 
 «  Je vous ai demandé de ne pas me le demander.  »
 
@@ -249,7 +249,7 @@ Elle resta longtemps sans parler. La mer travaillait en bas contre les récifs, 
 
 Aucune réponse que je pusse lui donner ne me venait. La vraie, je ne me la donne pas à moi-même volontiers. Je ne lui dis pas que j’avais passé quatre-vingt-dix jours à arriver juste après des gens comme elle, à recueillir ce qu’ils savaient pendant que d’autres se chargeaient de les faire taire, et que je m’étais juré, quelque part entre Valoria et ici, de ne jamais faire ce que j’étais en train de faire, parce que le faire une fois coûte toujours à quelqu’un d’autre. Je le savais. Je le fis quand même. C’est la seule fois du voyage où je me suis conduit comme l’homme que je feins d’être.
 
-«  Partez chez votre sœur à Haltheria,  » dis-je. «  Emportez vos tables. Laissez le réflecteur ici, pour qu’on croie que vous revenez.  »
+«  Partez chez votre sœur à Haltheria,  » dis-je plus bas. «  Emportez vos tables. Laissez le réflecteur ici, pour qu’on croie que vous revenez.  »
 
 Elle partit le lendemain à l’aube. Le réflecteur resta sur la balustrade.
 

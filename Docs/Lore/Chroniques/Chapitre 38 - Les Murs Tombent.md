@@ -83,7 +83,7 @@ Les noms, je les lui donnai. La plupart, il les connaissait, et les rangeait à 
 
 — De son âge, m’a-t-on dit sur place.  »
 
-Omarin ne releva pas le mot, il attendait la suite. Je la lui donnai comme le reste du relevé, un nom après l’autre, sans y mettre plus de voix qu’il n’en faut pour lire une liste.
+Omarin ne releva pas le mot, il attendait la suite. Je la lui donnai comme le reste du relevé, un nom après l’autre.
 
 «  Naïm, à Prismalith, avant mon passage. Il avait lu quelque chose dans les archives. Il a disparu. On n’a pas retrouvé ses notes.  » Le bouillon avait tiédi  ; j’en bus une gorgée. «  L’agronome de Sylthara, qui avait compris que l’abondance de ses champs cachait une anomalie du sol. On a relevé son corps le matin où je pliais mes papiers. Aldris Vane, à Noravia, dont l’expédition est partie à vingt et revenue à treize.  »
 
@@ -143,7 +143,7 @@ Je notai la formule qu’il en faisait, une formule qui lui appartenait, valait 
 
 Nous restâmes un moment dans le silence de la cuisine, un silence différent de tous ceux que j’avais connus en neuf cent dix jours, et qui contenait quelque chose ne s’étant pas encore dit, quelque chose qui se dirait dans les jours et les semaines à venir, dans les conversations qu’Omarin aurait avec d’autres, dans les lettres que j’écrirais, dans les copies qu’Ysolde faisait déjà circuler entre les bibliothèques de Lumasar.
 
-«  Il y a des gens qui veulent entendre ça, dit-il, plus bas, comme on baisse la voix pour un nom qu’on ne veut pas laisser sortir de la pièce. Pas beaucoup. Mais ils existent.  »
+«  Il y a des gens qui veulent entendre ça, dit-il plus bas, un coup d’œil vers la porte. Pas beaucoup. Mais ils existent.  »
 
 Ce besoin, je le lui dis : que la vérité que je portais était trop grande pour un seul homme, que c’était là son seul défaut, et peut-être aussi sa principale qualité, parce qu’une vérité trop grande pour un seul homme ne peut pas mourir avec lui.
 
@@ -167,7 +167,7 @@ La pensée m’était familière. Je ne lui dis pas où je l’avais rencontrée
 
 «  Alors on ne la laisse pas à un seul, dis-je.
 
-— Non. On la casse en morceaux exprès, et on donne les morceaux.  » Sa voix, pour la première fois, avait moins de poids qu’au début du repas. «  Tu es venu me donner un morceau.
+— Non. On la casse en morceaux exprès, et on donne les morceaux.  » Il parla plus doucement, pour la première fois du repas. «  Tu es venu me donner un morceau.
 
 — Le plus gros que je puisse confier à un homme.
 
@@ -335,7 +335,7 @@ Un instant, je crus qu’il allait nous les rendre.
 
 Il les plia, maladroitement, et les glissa dans sa poche.
 
-«  Passez  », dit-il.
+«  Passez  », finit-il par dire.
 
 La vieille femme rit alors. Un rire court, incrédule, pas joyeux encore, mais vivant. Un rire qui n’était pas un discours, pas une victoire, pas même une promesse. Un rire qui disait seulement que quelque chose venait de se produire, et que personne ne savait encore quoi en faire.
 

@@ -12,7 +12,7 @@ status: draft
 
 Borela m’a vendu deux boussoles le matin de mon départ, et elle m’a regardé les ranger dans la poche gauche de ma veste comme on regarde un homme accomplir avec soin un geste dont on sait déjà qu’il ne servira à rien.
 
-«  Elles tourneront à partir du deuxième jour de marche, dit-elle du ton dont on récite une chose vérifiée trop de fois pour qu’elle inquiète encore. Vos deux, l’une après l’autre. Vous perdrez d’abord celle qui dévie, puis celle qui cherche. Ensuite vous n’aurez plus que vos jambes et le souvenir de la pente.
+«  Elles tourneront à partir du deuxième jour de marche, récita-t-elle. Vos deux, l’une après l’autre. Vous perdrez d’abord celle qui dévie, puis celle qui cherche. Ensuite vous n’aurez plus que vos jambes et le souvenir de la pente.
 
 — Je sais.
 
@@ -48,11 +48,11 @@ Pourquoi ne montait-il plus, alors qu’il connaissait la route  ? C’est ce q
 
 Le filet reposé, il me regarda vraiment pour la première fois, et son visage avait l’immobilité économe des gens qui ont appris à ne pas gaspiller leurs expressions dans un pays où même l’air coûte cher.
 
-«  Vous avez lu le journal de la géologue, dit-il, et les mots lui venaient espacés, un par un, comme les mailles d’un filet qu’on noue sans se presser. Sinon vous ne sauriez pas dire *surplomb nord* comme un homme qui l’a déjà vu écrit. Alors vous savez que nous sommes rentrés treize sur vingt. Ce que le journal ne dit pas, parce qu’une morte ne l’écrit pas, c’est que les sept ne sont pas morts de froid. Le froid, on le voit venir, on lutte, on perd ou on gagne, c’est une lutte honnête. Eux, ils ont continué. Voilà tout. Un matin, à l’abri, il en manquait un, puis le lendemain deux, et aucun n’était tombé, aucun n’avait crié.  » Il s’arrêta, comme on s’arrête au bord d’une crevasse dont on connaît le fond. «  Ils s’étaient levés dans la nuit et ils avaient marché vers la montagne comme on répond à quelqu’un qui appelle. On a suivi les traces jusqu’à la première crevasse. Après, la neige les avait bues.  »
+«  Vous avez lu le journal de la géologue, dit-il sans lever les yeux de son filet. Sinon vous ne sauriez pas dire *surplomb nord* comme un homme qui l’a déjà vu écrit. Alors vous savez que nous sommes rentrés treize sur vingt. Ce que le journal ne dit pas, parce qu’une morte ne l’écrit pas, c’est que les sept ne sont pas morts de froid. Le froid, on le voit venir, on lutte, on perd ou on gagne, c’est une lutte honnête. Eux, ils ont continué. Voilà tout. Un matin, à l’abri, il en manquait un, puis le lendemain deux, et aucun n’était tombé, aucun n’avait crié.  » Il s’arrêta, comme on s’arrête au bord d’une crevasse dont on connaît le fond. «  Ils s’étaient levés dans la nuit et ils avaient marché vers la montagne comme on répond à quelqu’un qui appelle. On a suivi les traces jusqu’à la première crevasse. Après, la neige les avait bues.  »
 
 Puis il reprit son filet.
 
-«  Cestra ne tue pas les imprudents, dit-il. Elle les garde. Retenez ça, et quand vous entendrez la chose battre, la nuit, retenez que ce n’est pas à vous qu’elle bat.  »
+«  Cestra ne tue pas les imprudents, dit-il plus bas. Elle les garde. Retenez ça, et quand vous entendrez la chose battre, la nuit, retenez que ce n’est pas à vous qu’elle bat.  »
 
 «  Comment savez-vous, demandai-je, qu’elle bat pour quelqu’un  ?  »
 

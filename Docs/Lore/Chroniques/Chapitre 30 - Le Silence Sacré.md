@@ -20,8 +20,6 @@ Dix-huit jours durant, depuis que Caeloria avait rendu ses derniers récifs à l
 
 — Non.  » Un crachat par-dessus le plat-bord, précis. «  Personne n’en est sûr avec Baelor. On y va au nord-est ou on n’y va pas. J’ai fait la course six fois. Trois, l’île était là. Trois, demi-tour au bout de vingt jours et j’ai rendu la moitié du prix.  »
 
-Il comptait ses traversées comme je compte mes relevés, un chiffre planté après l’autre, et rien autour du chiffre.
-
 Le prix, réglé d’avance et sans le discuter, l’avait renseigné sur moi mieux qu’aucune question. Un homme qui ne marchande pas un passage vers l’Île Fantôme est un homme qui n’a pas le choix de sa destination.
 
 «  Et la sixième  ?  » ai-je demandé.
@@ -80,7 +78,7 @@ Rien ne lui répondit d’abord. Il a marché jusqu’à la fenêtre du corridor
 
 Le silence qui a suivi n’avait pas l’étoffe des autres silences de l’île. Ceux-là étaient pleins. Celui-ci était un creux.
 
-«  Ossian est descendu dans la roche, a dit Doran enfin, du même ton dont il m’avait donné la durée du séjour, comme si une mort et une date de vent se relevaient de la même encre.
+«  Ossian est descendu dans la roche, a dit Doran enfin.
 
 — Descendu, ai-je répété.
 
@@ -112,9 +110,9 @@ Doran me regardait faire mes relevés. Je copie vite, à la mine, sans commenter
 
 — Il disait quoi d’autre  ?  » ai-je repris.
 
-«  Un mot.  » Les yeux de Doran ont fui vers la paroi gravée. «  Le même que le peuple de la côte met dans ses vieilles chansons, celles de l’oublié qui remonte par le dessous. On les chante encore dans les hameaux de Tholmë, vous savez. Le Sixième qui dort et qui, un jour, se réveille et redemande sa place. On les prend pour des contes.  » Il s’est tu, puis il a fait ce que ces hommes ne font qu’au prix fort. La dernière parole d’Ossian, il l’a répétée. «  *Il remonte.* Ossian a dit cela la dernière nuit. Il l’a dit à la roche, pas à nous.  »
+«  Un mot.  » Les yeux de Doran ont fui vers la paroi gravée. «  Le même que le peuple de la côte met dans ses vieilles chansons, celles de l’oublié qui remonte par le dessous. On les chante encore dans les hameaux de Tholmë, vous savez. Le Sixième qui dort et qui, un jour, se réveille et redemande sa place. On les prend pour des contes.  » Il s’est tu, puis il a fait ce que ces hommes ne font qu’au prix fort. La dernière parole d’Ossian, il l’a répétée, tout bas. «  *Il remonte.* Ossian a dit cela la dernière nuit. Il l’a dit à la roche, pas à nous.  »
 
-Le quadrillage terminé, Doran a rompu le silence une fois encore, et sa voix, pour la première fois, portait autre chose que la mesure. Quelque chose entre le reproche et la crainte.
+Le quadrillage terminé, Doran a rompu le silence une fois encore. Cette fois, dans sa voix, il y avait du reproche, et un peu de crainte.
 
 «  Vous copiez le mur d’un mort. Pourquoi  ?
 
@@ -190,7 +188,7 @@ Croyant qu’il m’indiquait un danger du sentier, une marche descellée, je l�
 
 Il a parlé.
 
-Sa voix était rauque, mal assurée, la voix d’un instrument qu’on n’a pas accordé depuis des décennies. Chaque mot lui coûtait ce que coûte à ces hommes la rupture de leur seule règle, et il les a dépensés quand même, l’un après l’autre, en me regardant.
+Sa voix était rauque, mal assurée, celle d’un homme qui n’avait plus parlé depuis des décennies. Chaque mot lui coûtait ce que coûte à ces hommes la rupture de leur seule règle, et il les a dépensés quand même, l’un après l’autre, en me regardant.
 
 «  On monte à Baeloris pour apprendre à se taire. Vous, vous le saviez avant d’accoster. Vous n’êtes pas venu apprendre le silence. Vous êtes venu voir s’il tiendrait.
 

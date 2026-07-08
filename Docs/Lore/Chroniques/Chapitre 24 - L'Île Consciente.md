@@ -57,7 +57,7 @@ Le soir, un initié traversa le pont depuis la forêt. Jeune, les avant-bras mar
 
 Son nom, il le donna le lendemain, sur le pont, sans que je le demande. Aerith.
 
-«  L’Aînée vous entendra, dit-il, et sa voix ne montait pas. Mais elle vous fera d’abord marcher.
+«  L’Aînée vous entendra, dit-il sans hausser la voix. Mais elle vous fera d’abord marcher.
 
 — Loin  ?
 
@@ -87,7 +87,7 @@ Aerith eut ce mouvement qui n’était pas un geste, la manière dont un corps d
 
 — Et cela vous inquiète.
 
-— Cela inquiète l’Aînée, dit-il, chaque mot planté après l’autre comme on borne un champ. C’est la même chose, en plus vieux.  »
+— Cela inquiète l’Aînée, dit-il. C’est la même chose, en plus vieux.  »
 
 ---
 
@@ -115,7 +115,7 @@ L’Aînée me regarda un moment avant de répondre. J’ai revu ce regard souve
 
 — Au-delà d’ici. Une marche vers l’intérieur. Il garde la source haute d’Ourthalle. Il s’appelle Ourven.  »
 
-L’homme du Cercle, qui n’avait pas encore parlé, ajouta d’une voix aux voyelles trop ouvertes, apprise dans de vieux textes et non dans des conversations :
+L’homme du Cercle, qui n’avait pas encore parlé, ajouta :
 
 «  Il ne reçoit pas. Depuis six jours, il ne reçoit plus personne. Un étranger est monté le voir la semaine dernière. Depuis, Ourven a demandé qu’on le laisse.  »
 
@@ -153,7 +153,7 @@ Faute d’en avoir encore le nom, je ne la nommai pas dans mon cahier. Aerith, l
 
 — Je sens une pression. Sous les pieds.
 
-— Nous l’appelons le dessous, dit-il, sans ralentir le pas, mais le mot vint plus bas que les autres. Ce n’est pas une profondeur de la terre. C’est ce qui vient quand les esprits s’écartent. Ourven dirait mieux que moi. Ourven l’entend en mots.  »
+— Nous l’appelons le dessous, dit-il plus bas, sans ralentir le pas. Ce n’est pas une profondeur de la terre. C’est ce qui vient quand les esprits s’écartent. Ourven dirait mieux que moi. Ourven l’entend en mots.  »
 
 Mon pas se pressa. Le jour baissait dans la voûte. Aerith le sentit et n’eut pas besoin que je le lui demande, se mit à courir. Derrière lui je courus, mon cahier serré contre la poitrine sous le manteau, la question déjà écrite dans ma tête, celle que je répétais depuis Valmora, *depuis quand vous êtes-vous tu, et qu’avez-vous entendu en dernier.* Courir vers un homme pour lui prendre ce qu’il savait avant qu’on ne le lui prenne, voilà ce que je faisais. J’écris cette phrase à plat. Nulle manière de l’adoucir ne me vient, et je n’ai pas le droit d’en chercher.
 
@@ -191,7 +191,7 @@ Le garçon regarda le corps, puis moi, puis le corps, et je vis sa colère cherc
 
 Le garçon me regarda avec quelque chose que je préfère ne pas nommer, parce que le nommer serait me flatter d’une lucidité qu’il n’avait peut-être pas.
 
-«  La même que la vôtre, je crois, dit-il, et les mots ne pressaient plus, ils tombaient. Vous montez tous ici pour lui prendre ce qu’il entend. L’un le lui a pris en une question. Vous, vous seriez reparti avec un cahier plein. Je ne sais pas lequel de vous deux est le pire.  »
+«  La même que la vôtre, je crois, lâcha-t-il. Vous montez tous ici pour lui prendre ce qu’il entend. L’un le lui a pris en une question. Vous, vous seriez reparti avec un cahier plein. Je ne sais pas lequel de vous deux est le pire.  »
 
 Je ne répondis pas. Rien ne se répondait là qui ne fût une défense, et je n’ai pas le droit de me défendre sur cette page. Ses mots, je les notai. Ils sont de lui, non de moi. Que le lecteur en fasse ce qu’il voudra  ; moi, je les ai seulement recueillis, comme le reste.
 
@@ -221,7 +221,7 @@ Aerith s’arrêta. La lanterne fit tourner nos deux ombres, les seules ombres d
 
 — J’attendrai.
 
-— Vous attendrez  », répéta-t-il. Et j’entendis, dans sa voix, qu’il pesait ce que valait un homme prêt à attendre une marée pour arriver, encore, juste après.
+— Vous attendrez  », répéta-t-il. Et je compris qu’il pesait ce que valait un homme prêt à attendre une marée pour arriver, encore, juste après.
 
 ---
 
@@ -261,7 +261,7 @@ Je cessai d’écrire, mes mains à plat sur le cahier. *Ils arrivent par le des
 
 «  *Ils*, dis-je enfin. Pas *il*. Le pluriel est dans la formule  ?
 
-— Le pluriel est dans la formule, dit-elle, et sa voix se fit celle d’une main qui recopie sans lire. Nous ne l’expliquons pas. Nous le transmettons tel quel.
+— Le pluriel est dans la formule, récita-t-elle. Nous ne l’expliquons pas. Nous le transmettons tel quel.
 
 — Et vos textes disent-ils si cela est déjà arrivé  ? Une fois avant  ?
 

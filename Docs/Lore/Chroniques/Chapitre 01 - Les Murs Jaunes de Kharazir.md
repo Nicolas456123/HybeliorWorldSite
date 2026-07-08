@@ -29,7 +29,7 @@ Le nom de celui qui se tenait sur le seuil, je ne l’écrirai pas. Un homme que
 
 Les yeux baissés vers son formulaire, il parut soulagé que je lui offre un titre derrière lequel se cacher. Employer mon prénom avait été sa première faute, qu’il sentit aussitôt, sans y revenir.
 
-Quand il reprit, ce fut du débit plat des hommes qui récitent, un mot posé après l’autre pour n’avoir pas à peser ce qu’ils disent.
+Il récita :
 
 «  Par décision du Bureau des Brevets et sur instruction de la Direction des Archives, tout travail cartographique produit dans le cadre de votre fonction doit être remis pour examen.
 — Ils sont dans cette pièce, dis-je en montrant la pile que j’avais rangée moi-même avant l’aube.
@@ -49,9 +49,9 @@ Tout cela partait dans des caisses de bois qu’on clouait une à une sur le seu
 
 Ce qu’ils ne savaient pas, ce que personne ne savait, parce que j’avais pris garde de ne jamais l’inscrire dans aucun registre, c’est que je gardais dans ma veste, depuis la veille, le carnet de mon père.
 
-L’archiviste s’attarda sur le pas de la porte quand les autres furent descendus. Il cherchait, je crois, quelque chose à me dire qui ne fût pas une consigne. Quand il le trouva, le débit récité avait quitté sa voix, et ce qui restait était plus lent, plus bas, à lui.
+L’archiviste s’attarda sur le pas de la porte quand les autres furent descendus. Il cherchait, je crois, quelque chose à me dire qui ne fût pas une consigne.
 
-«  Ce n’est pas moi qui ai monté ce dossier.
+«  Ce n’est pas moi qui ai monté ce dossier, reprit-il plus bas.
 — Je sais.
 — On m’a désigné parce que nous nous connaissons, dit-il. Ils pensent que c’est plus doux.
 — C’est en effet ce qu’ils pensent.  »
@@ -139,7 +139,7 @@ Je ne peux pas prouver que cette lecture est exacte. Seulement affirmer qu’ell
 
 J’ai remis ce rapport aux Bibliothèques. Le directeur des Archives l’a feuilleté devant moi, sans hâte, s’arrêtant aux planches où j’avais recopié les inscriptions.
 
-Ses questions vinrent espacées, posées une à une, à la manière d’un homme qui relève une distance et vérifie son chiffre avant de porter le suivant.
+Il releva les yeux du dossier.
 
 «  Vous avez montré ceci à quelqu’un  ?
 — À vous.

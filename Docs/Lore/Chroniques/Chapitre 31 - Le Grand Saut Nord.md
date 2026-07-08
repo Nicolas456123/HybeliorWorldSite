@@ -57,9 +57,9 @@ Pour toute réponse, je lui montrai mon carnet, mes règles, ma pierre à tracer
 
 Un rire lui vint, rauque, court, qu’il ravala dans sa barbe pleine de sel.
 
-«  Personne ne choisit l’heure, avec moi. » Il le dit du débit lisse des hommes qui répètent une phrase à chaque passager nouveau. « C’est le Voile qui choisit. On part quand il se lève, et il se lève quand le vent de nord-est le couche sur les falaises. Pas avant.
+«  Personne ne choisit l’heure, avec moi », récita-t-il. « C’est le Voile qui choisit. On part quand il se lève, et il se lève quand le vent de nord-est le couche sur les falaises. Pas avant.
 
-— Le vent de nord-est se lèvera cette nuit, dis-je, du ton dont je lui aurais donné une hauteur d’étoile. À la bascule de la marée. Le Voile tiendra jusqu’à la troisième cloche après minuit, puis il partira par le fond de la crique avant de partir en surface. Prenez-moi à la troisième cloche. Nous serons au large avant que le jour ne se décide.  »
+— Le vent de nord-est se lèvera cette nuit, dis-je. À la bascule de la marée. Le Voile tiendra jusqu’à la troisième cloche après minuit, puis il partira par le fond de la crique avant de partir en surface. Prenez-moi à la troisième cloche. Nous serons au large avant que le jour ne se décide.  »
 
 Yorven m’examina sans hâte, comme il aurait jaugé une glace dont il ne savait pas encore si elle porterait.
 
@@ -77,7 +77,7 @@ Il logeait à l’auberge basse, il ne pêchait pas, il ne priait pas, ce qui à
 
 Mon père l’avait écrit d’une phrase que je connaissais par cœur. *L’appareil ne dort pas, mais il se relève, et un homme qui se relève tourne un instant le dos à la porte.* Cela, il ne l’avait pas trouvé dans un livre. Il l’avait payé pour l’apprendre, et il me l’avait laissé pour que je ne le paie pas deux fois.
 
-À la troisième cloche, le premier guetteur quitta son poste et remonta le môle vers son remplaçant. La *Vessine* larguait déjà ses amarres. Yorven jurait à mi-voix contre le vent, qui ne s’était pas levé comme je l’avais dit, ou pas assez, un souffle de nord-est mou qui couchait à peine le Voile et nous laissait sortir à la gaffe, à l’aveugle, dans une brume qui n’avait pas vraiment consenti. Des semaines plus tard, au milieu de la glace, il me le reprocha, les mots espacés du débit d’un homme qui a eu des semaines de froid pour les compter, quand il n’eut plus de raison de mentir sur ce qu’il avait pensé.
+À la troisième cloche, le premier guetteur quitta son poste et remonta le môle vers son remplaçant. La *Vessine* larguait déjà ses amarres. Yorven jurait à mi-voix contre le vent, qui ne s’était pas levé comme je l’avais dit, ou pas assez, un souffle de nord-est mou qui couchait à peine le Voile et nous laissait sortir à la gaffe, à l’aveugle, dans une brume qui n’avait pas vraiment consenti. Des semaines plus tard, au milieu de la glace, il me le reprocha, quand il n’eut plus de raison de mentir sur ce qu’il avait pensé.
 
 «  Le vent, cette nuit-là, à Baeloris. Il n’était pas là. Vous m’aviez promis un nord-est franc et il n’y avait qu’une haleine. Ce n’était pas une nuit à partir. J’ai cru que vous vous étiez trompé sur votre brume, et je suis parti quand même, parce que vous aviez payé le double et que je vous prenais pour un fou pressé.  »
 
@@ -151,7 +151,7 @@ Ma voix porta sur le silence creux, d’un mur de glace à l’autre. À ma voix
 
 Il ne répondit pas tout de suite. Il n’avait jamais parlé le premier  ; je crois qu’il n’avait jamais eu besoin de parler du tout, que le silence était son gant, celui qu’il ne retirait pas non plus. Puis il ôta ce silence comme on ôte un gant, une fois, parce que la glace le rendait inutile.
 
-«  Je le sais, que je ne passerai pas.  » Sa voix était basse, égale, sans reproche, la voix d’un homme qui constate le temps qu’il fait. «  Je le savais à Lunasar. On ne suit pas un homme comme vous jusqu’au bout. On le suit jusqu’où l’on peut.  »
+«  Je le sais, que je ne passerai pas  », dit-il d’une voix basse et sans reproche. «  Je le savais à Lunasar. On ne suit pas un homme comme vous jusqu’au bout. On le suit jusqu’où l’on peut.  »
 
 Le chenal claqua quelque part derrière lui, un long coup de fouet de glace qui se soude.
 

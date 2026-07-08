@@ -43,7 +43,7 @@ C’était une femme de Solena, veuve d’un capitaine, installée à Valmora de
 
 Me voyant entrer, elle posa son poinçon.
 
-«  Vous êtes ressorti, dit-elle sans lever le ton, de cette voix égale qu’ont les gens qui vendent des nouvelles et savent le prix de chacune. On m’avait dit que l’île gardait ceux qu’elle écoutait.
+«  Vous êtes ressorti, dit-elle sans lever le ton. On m’avait dit que l’île gardait ceux qu’elle écoutait.
 
 — On vous dit beaucoup de choses.
 
@@ -139,7 +139,7 @@ Cet homme s’appelait Hesken, ou se faisait appeler ainsi. Consignataire des v�
 
 Le second jour, au comptoir, il vint à moi et s’assit sans y être invité, comme Wenna l’avait fait, mais rien du même bois.
 
-«  On me dit que vous tenez un journal, dit-il, et sa voix avait le calme uni des hommes qui relèvent et ne concluent jamais devant vous, une voix que je connaissais pour l’avoir moi-même.
+«  On me dit que vous tenez un journal, dit-il.
 
 — On vous dit vrai. Je suis cartographe. Je note.
 
@@ -159,7 +159,7 @@ Le nombre exact, je le lui donnai sans le faire attendre. On ne gagne rien à me
 
 «  Vous les gardez tous sur vous, dit-il. Vous n’en confiez aucun.
 
-— Un homme qui voyage garde ses outils, dis-je, en homme qui donne une règle plutôt qu’une réponse.
+— Un homme qui voyage garde ses outils, dis-je.
 
 — Un homme qui voyage confie ce qui est lourd et reprend au retour. Vous, vous portez tout. Toujours.  » D’un geste, il rangea sa mine. «  C’est ce qu’on m’avait dit. Je voulais le voir.  »
 
@@ -185,7 +185,7 @@ Quand il fut sorti, Wenna vint essuyer la table où il s’était assis, bien qu
 
 Le chiffon à la main, elle s’immobilisa, et je vis passer sur son visage la compréhension lente d’une chose qui la dépassait et qu’elle n’aimait pas comprendre.
 
-«  Ils ne vous veulent plus, dit-elle. Ils veulent ce que vous écrivez.
+«  Ils ne vous veulent plus, souffla-t-elle. Ils veulent ce que vous écrivez.
 
 — Oui.
 
@@ -209,7 +209,7 @@ Le plus vieux d’entre eux, un homme de Thyronis qui avait franchi le Détroit 
 
 — Nous, on ne fait pas mystère. On a un nom et une histoire, et l’histoire suffit.  » Il but une gorgée de sa bière noire. «  Il y avait, au commencement, ceux qui tenaient le monde. Huit, dit-on, mais le nombre change selon qui raconte. Ils le tenaient comme on tient une tente, chacun son piquet. Et il y en a eu un qu’on a oublié. Pas mort. Oublié. Les hommes ont cessé de dire son nom, de lui laisser sa part, de compter avec lui. Un piquet qu’on ne retend plus.  »
 
-Je notais. Me voyant noter, il parla plus lentement, pour me laisser suivre, avec la courtoisie des conteurs qui savent leur bien précieux.
+Je notais. Me voyant noter, il parla plus lentement, pour me laisser suivre.
 
 «  Et l’oublié, il n’est pas parti, dit-il. On ne part pas d’un monde qu’on tient. Il est descendu. Il a lâché son coin de tente et il est descendu attendre sous tout le reste, patient comme la pierre, que les autres piquets lâchent à leur tour ou qu’on se souvienne de lui. Et un jour, disent les anciens de Thyronis, la toile pèse trop d’un côté, et l’oublié remonte pour reprendre sa part. Il ne remonte pas en colère. C’est ce que les gens comprennent mal. Il remonte parce que c’est son tour, et qu’un tour, ça revient.  »
 
