@@ -12,23 +12,23 @@ status: draft
 
 Borela m’a vendu deux boussoles le matin de mon départ, et elle m’a regardé les ranger dans la poche gauche de ma veste comme on regarde un homme accomplir avec soin un geste dont on sait déjà qu’il ne servira à rien.
 
-« Elles tourneront à partir du deuxième jour de marche, dit-elle. Vos deux, l’une après l’autre. Vous perdrez d’abord celle qui dévie, puis celle qui cherche. Ensuite vous n’aurez plus que vos jambes et le souvenir de la pente.
+«  Elles tourneront à partir du deuxième jour de marche, dit-elle du ton dont on récite une chose vérifiée trop de fois pour qu’elle inquiète encore. Vos deux, l’une après l’autre. Vous perdrez d’abord celle qui dévie, puis celle qui cherche. Ensuite vous n’aurez plus que vos jambes et le souvenir de la pente.
 
 — Je sais.
 
-— Vous savez. » Elle a essuyé le comptoir de son atelier, ce comptoir qui n’était pas sale, du même geste avec lequel toutes les femmes de ce voyage ont essuyé du bois pour ne pas me regarder pendant qu’elles pesaient ce qu’elles allaient dire. « Depuis quatre jours que vous lisez les registres de Sethiran, vous savez tout ce qu’il y a à savoir sur cette montagne, et vous achetez quand même mes boussoles. Un homme qui sait qu’un instrument mentira et qui l’emporte, ce n’est pas de la prudence. C’est autre chose.
+— Vous savez.  » Elle a essuyé le comptoir de son atelier, ce comptoir qui n’était pas sale, du même geste avec lequel toutes les femmes de ce voyage ont essuyé du bois pour ne pas me regarder pendant qu’elles pesaient ce qu’elles allaient dire. «  Depuis quatre jours que vous lisez les registres de Sethiran, vous savez tout ce qu’il y a à savoir sur cette montagne, et vous achetez quand même mes boussoles. Un homme qui sait qu’un instrument mentira et qui l’emporte, ce n’est pas de la prudence. C’est autre chose.
 
 — C’est de la méthode. On note d’abord ce que l’instrument dit, même faux. On corrige ensuite avec le corps.
 
-— Votre père disait la même phrase. »
+— Votre père disait la même phrase.  »
 
 La phrase tomba sans qu’elle y appuyât, tandis qu’elle nouait la lanière d’un paquet de vivres, et je n’ai pas relevé, parce qu’on ne relève pas une chose que l’on est venu chercher. Nous en avions déjà parlé, elle et moi, le premier soir, quand elle avait cessé de me vendre au prix des étrangers. Un homme de Galenor, seul, vingt ans plus tôt. Les mains de quelqu’un qui note. Parti vers l’intérieur des terres et jamais revu repartir. Tout cela, elle me l’avait dit avec la précaution des gens qui rendent un objet lourd, et depuis, entre nous, le mot *père* était devenu une pierre que nous contournions tous les deux sans jamais la nommer à voix haute.
 
-« Il vous faut un homme pour la première partie, reprit-elle en revenant à ce qui pouvait encore se dire. Pas pour vous montrer le chemin, il n’y a pas de chemin. Pour vous montrer où le chemin cesse d’être une idée raisonnable. Allez voir Torval, à la dernière maison de la rue des Filets. Il connaît le glacier mieux que personne à Noravia.
+«  Il vous faut un homme pour la première partie, reprit-elle en revenant à ce qui pouvait encore se dire. Pas pour vous montrer le chemin, il n’y a pas de chemin. Pour vous montrer où le chemin cesse d’être une idée raisonnable. Allez voir Torval, à la dernière maison de la rue des Filets. Il connaît le glacier mieux que personne à Noravia.
 
-— Comment le connaît-il mieux que personne ?
+— Comment le connaît-il mieux que personne  ?
 
-— Parce qu’il en est revenu. »
+— Parce qu’il en est revenu.  »
 
 ---
 
@@ -38,25 +38,25 @@ Il ne me l’a pas dit ainsi, mais je l’avais lu dans la chemise de cuir marro
 
 Sans lâcher son filet, il m’a écouté.
 
-« Vous voulez le surplomb nord, dit-il enfin. Celui d’où l’on voit sous la glace.
+«  Vous voulez le surplomb nord, dit-il enfin. Celui d’où l’on voit sous la glace.
 
 — Oui.
 
-— Personne ne veut jamais autre chose. » Il a tiré sur une maille, l’a serrée, a passé à la suivante. « Je vous mène à l’abri de pierre. Deux jours. Là, je m’arrête et je reviens, et vous continuez seul si le cœur vous en dit, ce qui, chez ceux qui montent là-bas, tient moins du cœur que d’une maladie. Le prix est le même que je vous accompagne au bout ou non, parce que le bout, je n’y vais pas, et qu’un homme ne se fait pas payer pour ce qu’il ne fait pas au-delà de ce qu’il vaut de ne pas le faire. »
+— Personne ne veut jamais autre chose.  » Il a tiré sur une maille, l’a serrée, a passé à la suivante. «  Je vous mène à l’abri de pierre. Deux jours. Là, je m’arrête et je reviens, et vous continuez seul si le cœur vous en dit, ce qui, chez ceux qui montent là-bas, tient moins du cœur que d’une maladie. Le prix est le même que je vous accompagne au bout ou non, parce que le bout, je n’y vais pas, et qu’un homme ne se fait pas payer pour ce qu’il ne fait pas au-delà de ce qu’il vaut de ne pas le faire.  »
 
-Pourquoi ne montait-il plus, alors qu’il connaissait la route ? C’est ce que je lui demandai.
+Pourquoi ne montait-il plus, alors qu’il connaissait la route  ? C’est ce que je lui demandai.
 
 Le filet reposé, il me regarda vraiment pour la première fois, et son visage avait l’immobilité économe des gens qui ont appris à ne pas gaspiller leurs expressions dans un pays où même l’air coûte cher.
 
-« Vous avez lu le journal de la géologue, dit-il. Sinon vous ne sauriez pas dire *surplomb nord* comme un homme qui l’a déjà vu écrit. Alors vous savez que nous sommes rentrés treize sur vingt. Ce que le journal ne dit pas, parce qu’une morte ne l’écrit pas, c’est que les sept ne sont pas morts de froid. Le froid, on le voit venir, on lutte, on perd ou on gagne, c’est une lutte honnête. Eux, ils ont continué. Voilà tout. Un matin, à l’abri, il en manquait un, puis le lendemain deux, et aucun n’était tombé, aucun n’avait crié. Ils s’étaient levés dans la nuit et ils avaient marché vers la montagne comme on répond à quelqu’un qui appelle. On a suivi les traces jusqu’à la première crevasse. Après, la neige les avait bues. »
+«  Vous avez lu le journal de la géologue, dit-il, et les mots lui venaient espacés, un par un, comme les mailles d’un filet qu’on noue sans se presser. Sinon vous ne sauriez pas dire *surplomb nord* comme un homme qui l’a déjà vu écrit. Alors vous savez que nous sommes rentrés treize sur vingt. Ce que le journal ne dit pas, parce qu’une morte ne l’écrit pas, c’est que les sept ne sont pas morts de froid. Le froid, on le voit venir, on lutte, on perd ou on gagne, c’est une lutte honnête. Eux, ils ont continué. Voilà tout. Un matin, à l’abri, il en manquait un, puis le lendemain deux, et aucun n’était tombé, aucun n’avait crié.  » Il s’arrêta, comme on s’arrête au bord d’une crevasse dont on connaît le fond. «  Ils s’étaient levés dans la nuit et ils avaient marché vers la montagne comme on répond à quelqu’un qui appelle. On a suivi les traces jusqu’à la première crevasse. Après, la neige les avait bues.  »
 
 Puis il reprit son filet.
 
-« Cestra ne tue pas les imprudents, dit-il. Elle les garde. Retenez ça, et quand vous entendrez la chose battre, la nuit, retenez que ce n’est pas à vous qu’elle bat. »
+«  Cestra ne tue pas les imprudents, dit-il. Elle les garde. Retenez ça, et quand vous entendrez la chose battre, la nuit, retenez que ce n’est pas à vous qu’elle bat.  »
 
-« Comment savez-vous, demandai-je, qu’elle bat pour quelqu’un ? »
+«  Comment savez-vous, demandai-je, qu’elle bat pour quelqu’un  ?  »
 
-« Je ne le sais pas. Je dis *à vous* pour vous mettre en garde contre l’idée que ce soit à vous. C’est l’idée qui a pris les sept. Chacun a cru que ce battement le connaissait. »
+«  Je ne le sais pas.  » Il ne quitta pas des yeux la maille qu’il nouait. «  Je dis *à vous* pour vous mettre en garde contre l’idée que ce soit à vous. C’est l’idée qui a pris les sept. Chacun a cru que ce battement le connaissait.  »
 
 La phrase, je la notai le soir même, dans ma chambre au-dessus de l’atelier de Boréla, sous la chandelle. *Chacun a cru que ce battement le connaissait.* Si je la consignai, c’était qu’elle nommait, mieux que je n’aurais su le faire, le piège exact dans lequel un homme comme moi, qui portait dans les os une pulsation qu’un Délié n’aurait rien dû sentir, avait toutes les raisons de tomber. Un homme qui reconnaît un rythme finit toujours par croire que le rythme le reconnaît. Restait à me méfier de ma propre oreille. Cette promesse, je la tins à peu près, ce qui, en cartographie comme ailleurs, est la seule façon de tenir une promesse.
 
@@ -74,35 +74,35 @@ Trois, immobiles sur une crête à notre gauche, si parfaitement immobiles que j
 
 Torval s’était arrêté net.
 
-« Ne courez pas, souffla-t-il. Ne les contournez pas non plus. On passe devant, en les reconnaissant. C’est tout ce qu’ils demandent, qu’on ne fasse pas semblant de ne pas les voir. »
+«  Ne courez pas, souffla-t-il. Ne les contournez pas non plus. On passe devant, en les reconnaissant. C’est tout ce qu’ils demandent, qu’on ne fasse pas semblant de ne pas les voir.  »
 
-« Vous les avez déjà croisés.
+«  Vous les avez déjà croisés.
 
-— Chaque fois. Ils étaient là il y a sept ans. Ils étaient là il y a vingt ans, sûrement, quand l’homme de Galenor est passé. » Il reprit sa marche, lentement. « Ils ne gardent pas la montagne. Je crois qu’ils la regardent, comme nous. Ils sont juste plus patients. »
+— Chaque fois. Ils étaient là il y a sept ans. Ils étaient là il y a vingt ans, sûrement, quand l’homme de Galenor est passé.  » Il reprit sa marche, lentement. «  Ils ne gardent pas la montagne. Je crois qu’ils la regardent, comme nous. Ils sont juste plus patients.  »
 
 À mon tour je passai, en les reconnaissant mentalement de la façon que j’avais apprise, tout au long de ce voyage, à réserver aux choses qui existaient dans des registres différents du mien. *Vous êtes là. Je le sais. Je passe.* Aucun ne bougea. Cent mètres plus loin, quand je me retournai, ils étaient redevenus indiscernables du paysage.
 
 L’abri de pierre nous attendait au creux d’un repli, à l’abri du vent dominant. L’expédition altram ne l’avait pas bâti : les pierres étaient trop patinées pour cela, trop usées, avec cette teinte gris-bleu que la glace dépose sur les surfaces qu’elle polit pendant des dizaines d’années. Quelqu’un avait vécu là, plus tôt, seul, et avait passé des nuits assis à regarder vers l’intérieur du continent. Torval y jeta un œil sans y entrer.
 
-« C’est là que je m’arrête, dit-il. La montagne est à une demi-journée. Vous la verrez au matin, si le ciel le veut. »
+«  C’est là que je m’arrête, dit-il. La montagne est à une demi-journée. Vous la verrez au matin, si le ciel le veut.  »
 
-« Vous ne dormez pas à l’abri ?
+«  Vous ne dormez pas à l’abri  ?
 
-— Non. » Il ajusta la lanière de son sac. « Je vous l’ai dit : les sept se sont levés la nuit, à l’abri, et ils ont marché. Je ne dors plus à moins d’un jour de cette chose. Je redescends jusqu’à la première crête et je m’y roule dans mes fourrures. C’est moins confortable et beaucoup plus sûr. »
+— Non.  » Il ajusta la lanière de son sac. «  Je vous l’ai dit : les sept se sont levés la nuit, à l’abri, et ils ont marché. Je ne dors plus à moins d’un jour de cette chose. Je redescends jusqu’à la première crête et je m’y roule dans mes fourrures. C’est moins confortable et beaucoup plus sûr.  »
 
 Il me regarda un instant, ce visage économe, et je crus qu’il allait me dire de ne pas monter. Rien ne vint. Mon argent, il l’avait pris, et un homme qui a pris l’argent n’insulte pas celui qui l’a donné en le traitant comme un imbécile.
 
-« L’homme de Galenor, dit-il seulement. Vous êtes venu pour lui.
+«  L’homme de Galenor, dit-il seulement. Vous êtes venu pour lui.
 
 — Je suis venu pour ce qu’il est venu voir.
 
-— Ce n’est pas la même chose ?
+— Ce n’est pas la même chose  ?
 
-— Non. »
+— Non.  »
 
-Un hochement à peine, comme un homme qui range une réponse qu’il ne comprend pas tout à fait mais qu’il tient pour honnête, et il redescendit sans se retourner. Je le regardai décroître dans la lumière blanche jusqu’à n’être plus qu’un point sombre sur la neige, puis rien. Seul, à une demi-journée de la chose, dans l’abri qu’un homme avait bâti pour la regarder, et cet homme avait mes mains.
+Il rangea ma réponse sans la discuter, comme un outil dont on ignore l’usage mais qu’on garde parce qu’il est bien fait, et il redescendit sans se retourner. Je le regardai décroître dans la lumière blanche jusqu’à n’être plus qu’un point sombre sur la neige, puis rien. Seul, à une demi-journée de la chose, dans l’abri qu’un homme avait bâti pour la regarder, et cet homme avait mes mains.
 
-Cette première nuit, je ne montai pas. La montagne pouvait attendre le matin, et je n’allais pas l’aborder dans l’obscurité comme un homme pressé. L’abri était bas, à peine assez haut pour s’y tenir accroupi, mais bien fait : les pierres calées sans mortier de façon à briser le vent sans le nier tout à fait, une niche creusée dans le fond où subsistait un reste de suif noirci, vieux de bien des années. Quelqu’un avait fait du feu là, longtemps avant l’expédition de la géologue, et s’était assis exactement où j’étais assis, dos à la même paroi, pour regarder par la même ouverture la même pente monter vers la même chose. Pas de feu à mon tour ; je posai la main sur le suif froid, ce fut tout. Un cartographe relève les traces des voyageurs qui l’ont précédé sur une route, c’est son métier, et il lui arrive de trouver que la trace la plus ancienne d’une route qu’il a crue neuve porte, sous la patine, la forme exacte de sa propre main. Cela, je ne l’écrivis pas cette nuit-là. Certaines choses, on les sait avant d’avoir le droit de les noter.
+Cette première nuit, je ne montai pas. La montagne pouvait attendre le matin, et je n’allais pas l’aborder dans l’obscurité comme un homme pressé. L’abri était bas, à peine assez haut pour s’y tenir accroupi, mais bien fait : les pierres calées sans mortier de façon à briser le vent sans le nier tout à fait, une niche creusée dans le fond où subsistait un reste de suif noirci, vieux de bien des années. Quelqu’un avait fait du feu là, longtemps avant l’expédition de la géologue, et s’était assis exactement où j’étais assis, dos à la même paroi, pour regarder par la même ouverture la même pente monter vers la même chose. Pas de feu à mon tour  ; je posai la main sur le suif froid, ce fut tout. Un cartographe relève les traces des voyageurs qui l’ont précédé sur une route, c’est son métier, et il lui arrive de trouver que la trace la plus ancienne d’une route qu’il a crue neuve porte, sous la patine, la forme exacte de sa propre main. Cela, je ne l’écrivis pas cette nuit-là. Certaines choses, on les sait avant d’avoir le droit de les noter.
 
 ---
 
@@ -122,7 +122,7 @@ Je les avais vus dans les galeries de Kharazir, à sept mètres sous ma ville, g
 
 J’écrivis cela sous forme d’hypothèse, avec les renvois aux relevés antérieurs, en me promettant de la confronter à des analyses plus rigoureuses que ne l’était mon œil seul. Plusieurs pages y passèrent. Mon écriture était plus serrée que d’ordinaire, les lettres se touchant là où elles laissent normalement de l’air entre elles, et je le notai aussi, parce qu’un cartographe qui voit sa propre main changer doit le consigner comme il consignerait la dérive d’une aiguille.
 
-Ce que je pouvais mesurer, je le mesurai. La disposition des structures d’abord : elles ne s’étalaient pas au hasard sous la glace mais suivaient des alignements, des travées, des espacements réguliers que l’œil finissait par lire comme une ville lit ses rues, sauf que ces rues descendaient. Les plus proches de la surface étaient les plus ruinées, colonnes brisées, plans effondrés ; plus bas, la glace se faisait plus bleue, plus dense, et les formes y gagnaient une netteté que je ne m’expliquais pas, comme si la profondeur les avait mieux gardées que la surface. Les signes gravés, eux, ne s’arrêtaient pas là où ma vue s’arrêtait. Ils continuaient vers le bas, de plus en plus petits, de plus en plus serrés, jusqu’à se perdre dans un bleu que la lumière sans ombres de Cestra n’atteignait pas. J’eus la certitude, invérifiable et que je consigne comme telle, que ce que je lisais depuis le surplomb n’était que la dernière ligne d’une page dont tout le reste s’enfonçait sous mes pieds.
+Ce que je pouvais mesurer, je le mesurai. La disposition des structures d’abord : elles ne s’étalaient pas au hasard sous la glace mais suivaient des alignements, des travées, des espacements réguliers que l’œil finissait par lire comme une ville lit ses rues, sauf que ces rues descendaient. Les plus proches de la surface étaient les plus ruinées, colonnes brisées, plans effondrés  ; plus bas, la glace se faisait plus bleue, plus dense, et les formes y gagnaient une netteté que je ne m’expliquais pas, comme si la profondeur les avait mieux gardées que la surface. Les signes gravés, eux, ne s’arrêtaient pas là où ma vue s’arrêtait. Ils continuaient vers le bas, de plus en plus petits, de plus en plus serrés, jusqu’à se perdre dans un bleu que la lumière sans ombres de Cestra n’atteignait pas. J’eus la certitude, invérifiable et que je consigne comme telle, que ce que je lisais depuis le surplomb n’était que la dernière ligne d’une page dont tout le reste s’enfonçait sous mes pieds.
 
 La pulsation a commencé au coucher du soleil.
 
@@ -150,7 +150,7 @@ Je suis redescendu du surplomb dans une obscurité presque complète, guidé par
 
 Assis, le carnet sur les genoux, j’ai écrit ce que je pouvais maintenant écrire.
 
-Les galeries de Kharazir pointaient vers le nord. Leur orientation, je l’avais relevée avec assez de soin, lors de mes trois jours dans les tunnels sous ma ville, pour en tirer une projection : prolongées sur des milliers de lieues dans la direction qu’elles prenaient, elles traversaient Galenor, franchissaient la mer, entraient dans Cestra, et venaient passer non loin d’ici. Sous le Jumeau. Sous ces structures. Sous ce battement. Une projection, pas une preuve, une flèche tracée par un homme qui allait justement dans cette direction et qui trouvait, comme par hasard, que la pierre l’y appelait. J’ai appris à me méfier de mes propres flèches. Une carte ne montre pas ce qu’elle contient ; elle montre ce que celui qui la dresse est déjà venu chercher.
+Les galeries de Kharazir pointaient vers le nord. Leur orientation, je l’avais relevée avec assez de soin, lors de mes trois jours dans les tunnels sous ma ville, pour en tirer une projection : prolongées sur des milliers de lieues dans la direction qu’elles prenaient, elles traversaient Galenor, franchissaient la mer, entraient dans Cestra, et venaient passer non loin d’ici. Sous le Jumeau. Sous ces structures. Sous ce battement. Une projection, pas une preuve, une flèche tracée par un homme qui allait justement dans cette direction et qui trouvait, comme par hasard, que la pierre l’y appelait. J’ai appris à me méfier de mes propres flèches. Une carte ne montre pas ce qu’elle contient  ; elle montre ce que celui qui la dresse est déjà venu chercher.
 
 Mais la flèche, cette fois, n’était pas seule. Une autre la rejoignait, plus vieille, que je ne relisais que depuis peu : celles du carnet de mon père. Des notes de galeries, d’entrées scellées, de roches qui retiennent, prises jadis pour des relevés de berger cartographiant ses pâturages, et qui, lues ensemble après tout ce chemin, dessinaient la même direction. Deux flèches tracées à vingt ans d’écart par deux hommes de la même main, et qui se croisaient ici, sous le seul point de la carte où il ne reste plus de terre à relever.
 
@@ -176,29 +176,29 @@ Je suis rentré à Noravia le surlendemain soir.
 
 Torval m’attendait à la première crête, roulé dans ses fourrures, et il m’a compté du regard comme on compte les doigts d’une main qu’on a failli perdre, un, tout entier, revenu. Il n’a rien dit sur ce que j’avais vu, ne me l’a pas demandé. Nous avons redescendu ensemble, et à l’entrée de la ville il m’a seulement dit qu’il ne raccompagnerait plus personne là-haut cette saison, que j’étais le dernier, et qu’il en était soulagé d’une façon qu’il ne s’expliquait pas. Le supplément des deux nuits de plus, je le lui ai payé. Il l’a pris. Un homme qui a pris l’argent tient ses comptes jusqu’au bout, c’est la dernière dignité de ceux qui n’en ont plus beaucoup d’autres.
 
-Borela m’a regardé entrer sans un mot. Une soupe de légumes racines vint, qui sentait le cumin et le foin séché, cette même soupe qu’elle sert, j’imagine, à tous ceux qui reviennent, pour leur remettre le corps avant de leur remettre le reste. Je l’ai mangée lentement. Le froid rend la faim silencieuse ; il faut la rappeler cuillère après cuillère.
+Borela m’a regardé entrer sans un mot. Une soupe de légumes racines vint, qui sentait le cumin et le foin séché, cette même soupe qu’elle sert, j’imagine, à tous ceux qui reviennent, pour leur remettre le corps avant de leur remettre le reste. Je l’ai mangée lentement. Le froid rend la faim silencieuse  ; il faut la rappeler cuillère après cuillère.
 
-« Vous avez vu. » Ce n’était pas une question, et j’y répondis comme à ce que c’était.
+«  Vous avez vu.  » Ce n’était pas une question, et j’y répondis comme à ce que c’était.
 
-« J’ai vu.
+«  J’ai vu.
 
 — Vous n’êtes pas monté plus loin que le surplomb.
 
 — Non.
 
-— Bien. » Elle remplit de nouveau mon bol sans que je le lui demande. « Les boussoles, vous me les rendez ou vous les gardez ?
+— Bien.  » Elle remplit de nouveau mon bol sans que je le lui demande. «  Les boussoles, vous me les rendez ou vous les gardez  ?
 
 — Je vous les rends. Elles ne serviront plus là où je vais.
 
-— Elles ne servaient déjà pas là où vous êtes allé, dit-elle. Mais vous les avez portées quand même, tout ce chemin, dans la poche gauche. Comme lui. »
+— Elles ne servaient déjà pas là où vous êtes allé, dit-elle. Mais vous les avez portées quand même, tout ce chemin, dans la poche gauche.  » Elle regardait la poche, pas moi. «  Comme lui.  »
 
 Puis elle a posé sur la table, à côté de mon bol, une feuille de papier pliée en quatre.
 
-« Il a laissé ça, dit-elle. Je ne sais pas pourquoi j’ai attendu que vous soyez monté pour vous le donner. »
+«  Il a laissé ça, dit-elle. Je ne sais pas pourquoi j’ai attendu que vous soyez monté pour vous le donner.  »
 
-« Vous le savez.
+«  Vous le savez.
 
-— Peut-être. » Elle s’essuya les mains à son tablier. « Peut-être que je voulais savoir d’abord si vous alliez redescendre. On ne donne pas ça à un homme qu’on n’est pas sûr de revoir. Ça se perd, dans la neige, avec le reste. »
+— Peut-être.  » Elle s’essuya les mains à son tablier. «  Peut-être que je voulais savoir d’abord si vous alliez redescendre. On ne donne pas ça à un homme qu’on n’est pas sûr de revoir. Ça se perd, dans la neige, avec le reste.  »
 
 Je pris la feuille. Le papier était vieux, l’encre brunie aux pliures. L’écriture, que je reconnus d’abord comme la mienne, puis compris n’être pas la mienne, était une écriture qui aurait pu être la mienne si j’avais vieilli d’une génération autrement, plus appuyée aux consonnes, plus hésitante aux virgules. Celle de mon père.
 
@@ -226,9 +226,9 @@ Je notai, pour finir, avec la précision de qui croit aux listes plus qu’aux i
 
 *Sous le glacier de Cestra, des structures que je ne sais pas dater, portant une écriture apparentée à celle des tunnels de Kharazir, du Message de Mirathi, et des marques d’Astravia.*
 
-*Une pulsation, dans la roche, dont la cadence ressemble, à mon seul ressenti, à celle du Mont Cendra ; deux lieux, une même mesure, aucune conclusion que je m’autorise à tirer.*
+*Une pulsation, dans la roche, dont la cadence ressemble, à mon seul ressenti, à celle du Mont Cendra  ; deux lieux, une même mesure, aucune conclusion que je m’autorise à tirer.*
 
-*Une projection, tracée de ma main, qui fait converger les orientations sous ce point ; je note qu’un homme trouve les flèches qu’il est venu chercher.*
+*Une projection, tracée de ma main, qui fait converger les orientations sous ce point  ; je note qu’un homme trouve les flèches qu’il est venu chercher.*
 
 *Un mot, porté depuis Baelor : Dessous. Il pointait ici.*
 

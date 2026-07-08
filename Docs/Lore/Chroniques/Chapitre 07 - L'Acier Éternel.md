@@ -10,19 +10,19 @@ status: draft
 
 # Chapitre 7 — L’Acier Éternel
 
-La côte d’Alkaran ne s’annonce pas, elle se dresse. Après vingt-cinq jours de mer, quand le brouillard s’ouvre enfin, ce n’est pas une plage qui vient au-devant du navire, c’est un mur. Trelios monte hors de l’eau comme si la roche avait décidé, un matin, de prendre une forme habitée et n’avait plus jamais changé d’avis. Le capitaine reste à mon côté un moment, sans parler, puis désigne le sommet du promontoire d’un mouvement de menton.
+La côte d’Alkaran ne s’annonce pas, elle se dresse. Après vingt-cinq jours de mer, quand le brouillard s’ouvre enfin, ce n’est pas une plage qui vient au-devant du navire, c’est un mur. Trelios monte hors de l’eau comme si la roche avait décidé, un matin, de prendre une forme habitée et n’avait plus jamais changé d’avis. Le capitaine reste à mon côté un moment, sans parler, puis désigne le sommet du promontoire d’un mouvement de menton rôdé, le geste d’un homme qui a montré cette côte à chaque passager qu’il débarque.
 
-« La forteresse, là-haut. On ne sait plus où finit la montagne et où commence l’ouvrage. C’est fait exprès.
+«  La forteresse, là-haut. On ne sait plus où finit la montagne et où commence l’ouvrage. C’est fait exprès.
 
-— Pour intimider ?
+— Pour intimider  ?
 
-— Pour durer. »
+— Pour durer.  »
 
 Je note le mot. Durer. Sur ce continent, ce sera le premier de tout un vocabulaire.
 
 La traversée, je l’ai passée à ne pas être malade, ce qui, entre Galenor et Alkaran à cette saison, tient de la discipline plus que du talent. Mes cartes ont voyagé dans leur tube de cuir ciré, serrées contre mon flanc les nuits de houle. Le carnet de mon père a voyagé plus près encore, sous la chemise, contre les côtes, à l’endroit où l’on garde ce qu’on ne veut pas mouiller. Pas une seule fois, en vingt-cinq jours, je ne l’ai ouvert. Nul besoin. Les pages qui comptent, je les sais par cœur.
 
-Galenor est derrière moi. Mon premier continent est derrière moi, et avec lui la saisie, la notification qui voyage plus vite que les caravanes, l’homme au manteau anthracite qui constatait ma présence. Un homme qui n’aurait rien à cacher se sentirait plus léger ; moi aussi, je le devrais.
+Galenor est derrière moi. Mon premier continent est derrière moi, et avec lui la saisie, la notification qui voyage plus vite que les caravanes, l’homme au manteau anthracite qui constatait ma présence. Un homme qui n’aurait rien à cacher se sentirait plus léger  ; moi aussi, je le devrais.
 
 Je descends la passerelle avec l’estomac vide et l’esprit clair.
 
@@ -30,21 +30,21 @@ Je descends la passerelle avec l’estomac vide et l’esprit clair.
 
 Yaltar, le port, me retient une demi-journée, le temps de faire remplacer l’anneau de fer de ma sacoche, tordu dans la tempête. Le forgeron l’examine comme un médecin devant une fracture mal réduite, sans un mot, puis le repose.
 
-« Fer ordinaire. Bon fer, mais ordinaire. Je te le remplace. Même prix.
+«  Fer ordinaire. Bon fer, mais ordinaire. Je te le remplace. Même prix.
 
-— Pourquoi ?
+— Pourquoi  ?
 
-— Parce que le mien sera mieux. »
+— Parce que le mien sera mieux.  »
 
 Ce n’est ni de la vanité ni de la modestie. En Alkaran, je l’apprendrai vite, une affirmation sur la qualité du métal est exacte ou inexacte, jamais orgueilleuse. L’anneau qu’il me tend est plus lourd, légèrement bleuté, avec une densité qu’on sent dans les doigts avant de la voir. Depuis, il n’a pas bougé.
 
 En payant, je pose la question que je pose partout, du ton de l’étranger qui fait la conversation.
 
-« On voit passer du monde, ici ? Des gens de Galenor ?
+«  On voit passer du monde, ici  ? Des gens de Galenor  ?
 
-— Un peu. » Il ne lève pas les yeux de l’établi. « Un homme est venu la semaine dernière. Pas un marchand. Il posait des questions sur les registres du port. Qui débarque, quand, avec quoi. »
+— Un peu.  » Il ne lève pas les yeux de l’établi. «  Un homme est venu la semaine dernière. Pas un marchand. Il posait des questions sur les registres du port. Qui débarque, quand, avec quoi.  »
 
-Un hochement de tête, comme si cela ne me concernait pas. Cela me concerne exactement. Une question sur les registres du port, posée par un homme qui n’est pas un marchand, c’est l’appareil qui tâte le terrain, une semaine avant moi. Mon père a écrit là-dessus une page entière, il y a vingt ans, et cette page-là aussi je la connais par cœur. Ils annoncent toujours par les registres. Ils cherchent la trace écrite avant l’homme. Tant qu’ils lisent les registres, ils ne regardent pas les visages.
+Sa voix ne change pas de hauteur pour passer du fer à l’homme, du ton dont on énonce une propriété du métal. Je compte ma monnaie sur l’établi, comme si cela ne me concernait pas. Cela me concerne exactement. Une question sur les registres du port, posée par un homme qui n’est pas un marchand, c’est l’appareil qui tâte le terrain, une semaine avant moi. Mon père a écrit là-dessus une page entière, il y a vingt ans, et cette page-là aussi je la connais par cœur. Ils annoncent toujours par les registres. Ils cherchent la trace écrite avant l’homme. Tant qu’ils lisent les registres, ils ne regardent pas les visages.
 
 Je remercie le forgeron. Mon nom ne débarquera dans aucun registre de Yaltar. La route de Trelios, je la ferai à pied, avec les rouliers, sous celui d’un autre.
 
@@ -54,25 +54,25 @@ Trelios de près tient la promesse de Trelios de loin. Les remparts ne sont pas 
 
 J’ai une lettre. Cachetée, remise à Valoria par une Ancienne d’un clan de forge, au titre d’une dette ancienne dont elle n’a rien voulu préciser. Une dette d’acier et de mots. Adressée à un maître-artisan de Trelios nommé Corven Asheld, elle est ma raison d’entrer dans la ville plutôt que de filer vers l’intérieur du continent. Un hasard heureux : voilà comme je la présente, la générosité d’un clan qui n’explique pas ce qu’il donne. Un homme qui note tout devrait pourtant noter ceci : on ne me remet pas des lettres par hasard. Une lettre qui ouvre exactement la bonne porte a été taillée d’avance, comme une clé.
 
-Corven Asheld tient un atelier deux niveaux sous la forge principale. « Proche des quais, loin des intrigues du Conseil », dit-il en guise d’accueil, avec un demi-sourire qui indique un choix délibéré et parfaitement assumé. Soixante ans, voûté comme les hommes grands qui ont passé leur vie penchés sur un établi, les mains si travaillées par le métal qu’elles semblent d’un alliage particulier, ni tout à fait chair, ni tout à fait pierre. La lettre lue, il la replie soigneusement, la garde un instant dans sa paume comme pour en peser le fer plutôt que les mots.
+Corven Asheld tient un atelier deux niveaux sous la forge principale. «  Proche des quais, loin des intrigues du Conseil  », dit-il en guise d’accueil, avec un demi-sourire qui indique un choix délibéré et parfaitement assumé. Soixante ans, voûté comme les hommes grands qui ont passé leur vie penchés sur un établi, les mains si travaillées par le métal qu’elles semblent d’un alliage particulier, ni tout à fait chair, ni tout à fait pierre. La lettre lue, il la replie soigneusement, la garde un instant dans sa paume comme pour en peser le fer plutôt que les mots.
 
-« Un cartographe. » Il relève les yeux. « Intéressant. Nous en avons besoin.
+«  Un cartographe.  » Il relève les yeux, pose chaque phrase et la laisse refroidir avant la suivante, comme une pièce qu’on ne songe pas à reprendre. «  Intéressant. Nous en avons besoin.
 
-— Pour quel travail ?
+— Pour quel travail  ?
 
-— Les Archives d’Altram ont des lacunes dans leurs cartes souterraines. Les galeries des mines descendent plus bas qu’on ne les a jamais tracées correctement. » Il m’observe. « Si tu travailles bien, on peut peut-être t’envoyer en dessous.
+— Les Archives d’Altram ont des lacunes dans leurs cartes souterraines. Les galeries des mines descendent plus bas qu’on ne les a jamais tracées correctement.  » Il m’observe. «  Si tu travailles bien, on peut peut-être t’envoyer en dessous.
 
-— En dessous. » Je laisse le mot rouler comme s’il ne m’évoquait rien. « C’est une spécialité que j’ai développée à Kharazir. Les tunnels. Les réseaux enfouis.
+— En dessous.  » Je laisse le mot rouler comme s’il ne m’évoquait rien. «  C’est une spécialité que j’ai développée à Kharazir. Les tunnels. Les réseaux enfouis.
 
-— Je sais. » Il repose la lettre sur l’établi, la retourne, en regarde le cachet brisé. « L’Ancienne l’écrit. Elle écrit aussi une chose curieuse. Que tu as été exilé pour avoir tracé des cartes qu’on aurait préféré garder. »
+— Je sais.  » Il repose la lettre sur l’établi, la retourne, en regarde le cachet brisé plutôt que moi. «  L’Ancienne l’écrit. Elle écrit aussi une chose curieuse. Que tu as été exilé pour avoir tracé des cartes qu’on aurait préféré garder.  »
 
 Un homme prudent nierait. Un homme habile confirmerait à demi. Je fais mieux : je souris, du sourire fatigué de celui à qui l’on rappelle une vieille injustice.
 
-« On m’a repris mes cartes, oui. Pas mon œil.
+«  On m’a repris mes cartes, oui. Pas mon œil.
 
-— Ici, on ne reprend pas les cartes. » Il retourne à son ouvrage, une pièce que je ne reconnais pas encore. « On reprend les formules. Ne fais pas semblant de trouver ça plus étrange parce que le métal brille davantage que le papier. »
+— Ici, on ne reprend pas les cartes.  » Il retourne à son ouvrage, une pièce que je ne reconnais pas encore. «  On reprend les formules. Ne fais pas semblant de trouver ça plus étrange parce que le métal brille davantage que le papier.  »
 
-Je n’ai rien à répondre. Sans le savoir, il a raison, et j’aime cela : l’acier et la carte posent la même question. Qui a le droit de savoir comment le monde tient ? Pour cette question précise, je suis venu de très loin. Et je me garde bien de le lui dire.
+Je n’ai rien à répondre. Sans le savoir, il a raison, et j’aime cela : l’acier et la carte posent la même question. Qui a le droit de savoir comment le monde tient  ? Pour cette question précise, je suis venu de très loin. Et je me garde bien de le lui dire.
 
 ---
 
@@ -82,13 +82,13 @@ C’est là que je rencontre Lisel Morvaine.
 
 Prêtresse-juriste de la Lex Petra, responsable des plaques du sous-niveau trois, celles d’avant la Rébellion des Forgerons. La quarantaine, petite, précise dans chaque geste, avec les yeux de qui a passé des années dans des pièces peu éclairées et s’y est adapté : un regard qui va droit à l’essentiel, sans les détours qu’on apprend dans les salles larges. À son cou, trois pierres polies sur un cordon de cuir. L’ordre, la mémoire, l’impartialité. Son regard va à mon laissez-passer, puis à moi, dans cet ordre.
 
-« Vous cherchez quoi, exactement ?
+«  Vous cherchez quoi, exactement  ?
 
-— Les cartes souterraines. Les galeries profondes. Les niveaux les plus bas. »
+— Les cartes souterraines. Les galeries profondes. Les niveaux les plus bas.  »
 
 Quelque chose bouge dans son regard, trop vite pour que je le nomme sur l’instant. Un archiviste précis qui tient sa plaque un peu moins fermement qu’à l’ordinaire, c’est déjà une phrase entière.
 
-« Les niveaux les plus bas sont dans la section scellée. » Une pause, mesurée comme un poids sur une balance. « Je peux vous montrer les autres. »
+«  Les niveaux les plus bas sont dans la section scellée.  » Une pause, mesurée comme un poids sur une balance. «  Je peux vous montrer les autres.  »
 
 Je m’incline. Les autres me suffiront pour commencer. Jamais, à personne, sur ce continent, je n’ai demandé rien que je ne compte obtenir autrement.
 
@@ -96,7 +96,7 @@ Je travaille dans les Archives neuf jours. Neuf jours de lampe à huile, de plaq
 
 C’est elle qui m’y mène, au quatrième jour. Je ne l’ai pas demandé. Ou plutôt, je l’ai demandé de toutes les manières possibles, sauf avec des mots.
 
-« Il y a une pièce que vous devriez voir. »
+«  Il y a une pièce que vous devriez voir.  »
 
 Le ton reste celui de la fonctionnaire, neutre, mais ses mains, ce jour-là, tiennent la plaque moins fermement encore, et chez une femme aussi maîtresse de ses gestes, cela veut dire beaucoup.
 
@@ -110,19 +110,19 @@ Et il bat.
 
 Pas visiblement. Rien qu’on puisse montrer en disant : regardez, ça bouge. Mais la pièce contient une présence que les autres salles n’ont pas, et je ne la perçois ni par les yeux ni par les oreilles. Les os la perçoivent. Une pulsation régulière, très lente. Le battement d’un cœur endormi depuis longtemps.
 
-Je ne franchis pas le seuil. Sur la ligne où finit le couloir et où commence l’antichambre, je reste, sans savoir combien de temps. Assez pour que Lisel me rejoigne et se place à côté de moi, à regarder le fragment sans parler. Puis :
+Je ne franchis pas le seuil. Sur la ligne où finit le couloir et où commence l’antichambre, je reste, sans savoir combien de temps. Assez pour que Lisel me rejoigne et se place à côté de moi, à regarder le fragment sans parler. Puis, d’une voix qui récite comme on relève une cote lue cent fois :
 
-« On l’appelle le Fragment Zéro.
+«  On l’appelle le Fragment Zéro.
 
-— Pourquoi zéro ?
+— Pourquoi zéro  ?
 
-— Parce qu’il précède tout le reste. Il est antérieur à l’Arrachement. Antérieur à Altram. Antérieur aux premières mines. Aucun archiviste n’a su déterminer d’où il vient ni de quoi il est fait. »
+— Parce qu’il précède tout le reste. Il est antérieur à l’Arrachement. Antérieur à Altram. Antérieur aux premières mines. Aucun archiviste n’a su déterminer d’où il vient ni de quoi il est fait.  »
 
 La question que je pose a l’air d’une question d’étranger, et c’est la seule qui m’importe.
 
-« Vous l’observez encore ?
+«  Vous l’observez encore  ?
 
-— Plus directement, non. Pas depuis trois ans. Le dernier qui s’en est approché de trop près a eu les mains engourdies quinze jours. » Elle marque un temps. « Les prêtres disent que la pièce est plus froide qu’elle ne devrait l’être, même en tenant compte de la roche. Nous mesurons. La mesure leur donne raison. »
+— Plus directement, non. Pas depuis trois ans. Le dernier qui s’en est approché de trop près a eu les mains engourdies quinze jours.  » Elle marque un temps. «  Les prêtres disent que la pièce est plus froide qu’elle ne devrait l’être, même en tenant compte de la roche. Nous mesurons. La mesure leur donne raison.  »
 
 Elle a dit nous mesurons, et j’ai failli l’aimer pour ce mot. Voilà une femme qui, devant l’inexplicable, ne s’émerveille pas et ne mystifie pas. Elle relève, elle date, elle compare. Comme moi. Un cartographe reconnaît un cartographe, même quand il porte des pierres au cou et un autre titre.
 
@@ -154,31 +154,31 @@ Le lendemain, Corven m’emmène voir l’acier royal.
 
 On le coule dans une section fermée des forges, derrière une porte de fer si lourde qu’il faut deux hommes pour l’ouvrir. La salle est plus petite que les grandes nefs, plus dense dans sa chaleur, dominée par deux fourneaux d’un type que je n’ai vu nulle part ailleurs. Cinq forgerons y travaillent en silence, avec la concentration de gens qui ne peuvent pas se permettre de rater leur geste. L’alliage qui sort des moules a une couleur que je n’attendais pas. Pas l’argent, pas le gris sombre des bons aciers. Un bleu très faible, presque une illusion, qui disparaît quand on le fixe et revient dans la vision de côté, comme une étoile faible qu’on voit mieux en regardant à côté d’elle.
 
-Un jeune maître me tend une pièce finie, une plaque carrée, et un ciseau à frappe large. « Essayez de l’entailler. » Je frappe, fort, avec la technique que j’ai apprise à Valoria en regardant les armuriers. Le ciseau rebondit. Je frappe encore, plus fort. Rien. Pas d’écaille, pas d’égratignure, un son plein, clos, sans la note creuse de la faiblesse.
+Un jeune maître me tend une pièce finie, une plaque carrée, et un ciseau à frappe large. «  Essayez de l’entailler.  » Je frappe, fort, avec la technique que j’ai apprise à Valoria en regardant les armuriers. Le ciseau rebondit. Je frappe encore, plus fort. Rien. Pas d’écaille, pas d’égratignure, un son plein, clos, sans la note creuse de la faiblesse.
 
-« C’est l’acier royal, dit-il. On le coule en série. Le meilleur du monde, sauf un.
+«  C’est l’acier royal, dit-il. On le coule en série. Le meilleur du monde, sauf un.
 
-— Sauf un ?
+— Sauf un  ?
 
-— Myrtam. » Il prononce le nom sans jalousie, du ton dont on cite un pair qu’on n’égalera pas. « Leur Myr le Fondeur a laissé une lame qu’ils appellent l’Acier Éternel. Une seule. Jamais reforgée depuis. Nous coulons mille plaques par an ; eux gardent un objet qui n’a pas changé d’âme en huit siècles. Ce n’est pas le même métier. Ce n’est pas la même idée du temps. »
+— Myrtam.  » Il prononce le nom sans jalousie, du ton dont on cite un pair qu’on n’égalera pas. «  Leur Myr le Fondeur a laissé une lame qu’ils appellent l’Acier Éternel. Une seule. Jamais reforgée depuis. Nous coulons mille plaques par an  ; eux gardent un objet qui n’a pas changé d’âme en huit siècles. Ce n’est pas le même métier. Ce n’est pas la même idée du temps.  »
 
 Je note le nom pour plus tard, car ma route passe par Myrtam. Une chose qu’on ne refond pas. Une chose posée une fois, jamais reprise. De tout l’Alkaran, ce sera ce que j’emporterai de plus lourd, mais je ne le sais pas encore.
 
-« La formule est dans le Livre de Pierre du Conseil, dit-il. Gravée en triplicata sur trois plaques, stockées en trois endroits différents. Incendie, invasion, épidémie, peu importe : au moins une des trois devrait survivre. »
+«  La formule est dans le Livre de Pierre du Conseil, dit-il. Gravée en triplicata sur trois plaques, stockées en trois endroits différents. Incendie, invasion, épidémie, peu importe : au moins une des trois devrait survivre.  »
 
 Ma question, je la pose du ton du curieux poli.
 
-« Combien d’hommes connaissent la formule entière ?
+«  Combien d’hommes connaissent la formule entière  ?
 
-— Quatre, dit-il. Le roi. Le Premier Maître. Moi. Et un autre que je ne nommerai pas.
+— Quatre, dit-il, alignant les noms comme des lingots qu’on pose un par un. Le roi. Le Premier Maître. Moi. Et un autre que je ne nommerai pas.
 
 — Assez pour qu’elle survive.
 
-— Assez pour qu’elle survive. Pas assez pour qu’elle devienne une marchandise. » Il pose sa main à plat sur la plaque refroidie. « C’est une ligne difficile à tenir.
+— Assez pour qu’elle survive. Pas assez pour qu’elle devienne une marchandise.  » Il pose sa main à plat sur la plaque refroidie. «  C’est une ligne difficile à tenir.
 
-— Toutes les lignes importantes le sont. »
+— Toutes les lignes importantes le sont.  »
 
-Ma remarque l’a tiré d’un travail sérieux : il me regarde, hoche une fois, retourne à sa fonte. Dans son esprit, il m’a donné une leçon sur l’acier. En vérité, il m’a donné bien davantage, et il ne le saura jamais. Trois copies, trois lieux, pour qu’une survive à la catastrophe. Aucune valable seule, aucune supprimable toutes à la fois. Voilà des siècles qu’Altram sait par le métal ce que je viens d’apprendre par la peur : une vérité trop grande pour un seul dépôt ne meurt pas si on la grave partout à la fois. Je regarde la plaque bleue qu’aucun ciseau n’entame et je pense à un objet de papier, dans ma sacoche, que je construis feuille après feuille pour qu’il résiste au même feu.
+Ma remarque l’a tiré d’un travail sérieux : il me regarde une fois, sans un mot, et retourne à sa fonte. Dans son esprit, il m’a donné une leçon sur l’acier. En vérité, il m’a donné bien davantage, et il ne le saura jamais. Trois copies, trois lieux, pour qu’une survive à la catastrophe. Aucune valable seule, aucune supprimable toutes à la fois. Voilà des siècles qu’Altram sait par le métal ce que je viens d’apprendre par la peur : une vérité trop grande pour un seul dépôt ne meurt pas si on la grave partout à la fois. Je regarde la plaque bleue qu’aucun ciseau n’entame et je pense à un objet de papier, dans ma sacoche, que je construis feuille après feuille pour qu’il résiste au même feu.
 
 Je ne prends pas de notes devant lui. Les notes attendront le soir. Un homme qui note la méthode de son propre legs pendant qu’un forgeron lui parle d’acier, cela se remarque, et je n’ai pas fait vingt-cinq jours de mer pour me faire remarquer sur une plaque.
 
@@ -190,41 +190,41 @@ Je me dis que je viens vérifier une mesure. C’est vrai, comme est vrai tout c
 
 Je ne franchis pas le seuil. On n’entre pas dans une antichambre scellée du Conseil des Maîtres, même quand la porte s’y prête. Agenouillé sur la ligne, le sablier posé devant moi, le carnet ouvert sur mes genoux, je compte. Les intervalles descendent, fidèles à la colonne. Ma main court sur la page, du geste économe qui ne relève que l’utile.
 
-« Vous n’êtes pas censé être ici la nuit. »
+«  Vous n’êtes pas censé être ici la nuit.  »
 
 La voix de Lisel, derrière moi, dans le couloir. Je ne me retourne pas tout de suite. Un homme qui se retourne trop vite a l’air d’un homme surpris en faute. Mon intervalle fini, le nombre noté, je lève les yeux, seulement alors.
 
-« Vous non plus, je crois.
+«  Vous non plus, je crois.
 
-— Je vis ici. » Elle avance dans le cercle de ma lampe. Son regard va au sablier, au carnet ouvert, à ma main encore sur la page. Un regard qui date, qui compare, qui range. « Vous mesurez.
+— Je vis ici.  » Elle avance dans le cercle de ma lampe. Son regard va au sablier, au carnet ouvert, à ma main encore sur la page. Un regard qui date, qui compare, qui range. «  Vous mesurez.
 
 — Je mesure.
 
-— Un cartographe qui mesure le froid d’une antichambre à la nuit, sans autorisation, avec un sablier de marin et un carnet qui n’est pas celui de son travail. » Elle s’accroupit en face de moi, de l’autre côté de la lampe, et pose la question droite, la question des Archives, celle sans emballage. « Qu’est-ce que vous cherchez, vraiment ? »
+— Un cartographe qui mesure le froid d’une antichambre à la nuit, sans autorisation, avec un sablier de marin et un carnet qui n’est pas celui de son travail.  » Elle s’accroupit en face de moi, de l’autre côté de la lampe, et pose la question droite, la question des Archives, celle sans emballage. «  Qu’est-ce que vous cherchez, vraiment  ?  »
 
 Deux hommes, à cet instant, que je pourrais être. Le premier ramasse son carnet, s’excuse, invoque la curiosité de l’étranger, et repart à l’aube avec sa colonne, en laissant derrière lui une archiviste vaguement inquiète qui, dans un mois, aura oublié. Le second dit la vérité. Pas toute. Juste ce qu’il faut pour que la femme en face de lui devienne, sans le savoir, une pierre de plus dans le mur.
 
 Je choisis le second, parce que je choisis toujours le second, et que c’est là ce que je ne pardonne pas.
 
-« Vous avez lu les mots du fragment toute votre vie sans vous accorder sur leur sens, dis-je. Moi, je ne sais pas les lire. Mais je sais mesurer ce qu’il fait. » Je tourne le carnet vers elle, ouvert non sur la page de mon père, jamais sur celle-là, mais sur ma propre colonne du soir. « Il bat, et il bat de plus en plus vite. Regardez. Chaque intervalle plus court que le précédent. Ce n’est pas une chose morte qu’on garde par respect. C’est une chose qui se réveille, et personne dans ces Archives ne le mesure, parce que vous avez cessé de vous en approcher il y a trois ans.
+«  Vous avez lu les mots du fragment toute votre vie sans vous accorder sur leur sens, dis-je. Moi, je ne sais pas les lire. Mais je sais mesurer ce qu’il fait.  » Je tourne le carnet vers elle, ouvert non sur la page de mon père, jamais sur celle-là, mais sur ma propre colonne du soir. «  Il bat, et il bat de plus en plus vite. Regardez. Chaque intervalle plus court que le précédent. Ce n’est pas une chose morte qu’on garde par respect. C’est une chose qui se réveille, et personne dans ces Archives ne le mesure, parce que vous avez cessé de vous en approcher il y a trois ans.
 
 — Parce qu’il rend les mains engourdies, dit-elle.
 
-— Parce qu’il fait peur. Ce n’est pas la même raison. » Je referme le carnet. « Vous êtes prêtresse de la mémoire, Lisel. Voici une mémoire qui change sous votre garde et que vous avez décidé de ne plus regarder. »
+— Parce qu’il fait peur. Ce n’est pas la même raison.  » Je referme le carnet. «  Vous êtes prêtresse de la mémoire, Lisel. Voici une mémoire qui change sous votre garde et que vous avez décidé de ne plus regarder.  »
 
 Elle ne répond pas tout de suite. Son regard va à la cloche, au fragment, au froid qu’elle mesure depuis des années sans oser le mesurer de près. Quand elle parle, c’est plus bas.
 
-« Si je consigne que le Fragment Zéro s’accélère, on me demandera d’où je le tiens. Et je devrai nommer un cartographe de Galenor qui n’avait pas d’autorisation pour la section. » Elle me regarde. « On est déjà venu poser des questions sur un cartographe de Galenor. La semaine avant votre navire. Un homme des Relations Académiques. Pas d’Altram. »
+«  Si je consigne que le Fragment Zéro s’accélère, on me demandera d’où je le tiens. Et je devrai nommer un cartographe de Galenor qui n’avait pas d’autorisation pour la section.  » Elle me regarde. «  On est déjà venu poser des questions sur un cartographe de Galenor. La semaine avant votre navire. Un homme des Relations Académiques. Pas d’Altram.  »
 
 Voilà. L’appareil, encore, une semaine devant moi, par les canaux qui n’apparaissent dans aucun texte. Je ne montre rien. Un homme qui pâlit à ce mot-là confirme ce mot-là.
 
-« Et vous ne lui avez rien dit, dis-je.
+«  Et vous ne lui avez rien dit, dis-je.
 
-— Il ne m’a rien demandé à moi. Il a demandé aux registres du port. » Elle a un mince sourire, le premier. « Les registres n’ont pas votre nom. Vous êtes entré dans Trelios sous celui d’un roulier.
+— Il ne m’a rien demandé à moi. Il a demandé aux registres du port.  » Elle a un mince sourire, le premier. «  Les registres n’ont pas votre nom. Vous êtes entré dans Trelios sous celui d’un roulier.
 
 — Vous êtes bien renseignée pour une gardienne de plaques.
 
-— Je suis juriste. Je lis les gens comme vous lisez les intervalles. » Elle se relève, lisse sa robe d’un geste. « Consignez votre mesure vous-même, cartographe. Dans votre carnet, pas dans nos plaques. Si ce que vous dites est vrai, il vaut mieux que cela existe quelque part où l’on ne pourra pas le rappeler d’une lettre. »
+— Je suis juriste. Je lis les gens comme vous lisez les intervalles.  » Elle se relève, lisse sa robe d’un geste. «  Consignez votre mesure vous-même, cartographe. Dans votre carnet, pas dans nos plaques. Si ce que vous dites est vrai, il vaut mieux que cela existe quelque part où l’on ne pourra pas le rappeler d’une lettre.  »
 
 Elle ne sait pas ce qu’elle vient de dire. Sans le savoir, elle vient de m’offrir, mot pour mot, la doctrine entière de mon voyage, en croyant seulement protéger ses Archives d’un scandale. Je la remercie du menton, sans la corriger. Corriger serait avouer que je le savais déjà.
 
@@ -234,21 +234,21 @@ Je pars à l’aube, comme mon père partait, comme je pars partout.
 
 Corven m’accompagne jusqu’au haut du premier escalier. Sur ma nuit aux Archives, il ne pose aucune question, et je comprends que Lisel ne lui en a rien dit, ce qui la rend, désormais, complice sans l’avoir voulu. Puis il me tend un petit objet enveloppé de toile huilée.
 
-« La cérémonie de la Première Forge. À quinze ans, chez nous, chacun forge son lingot natal en l’objet de son choix. Ce qu’il forge dit sa voie. » Il pose l’objet dans ma paume. « J’en avais un en trop. »
+«  La cérémonie de la Première Forge. À quinze ans, chez nous, chacun forge son lingot natal en l’objet de son choix. Ce qu’il forge dit sa voie.  » Il pose l’objet dans ma paume. «  J’en avais un en trop.  »
 
 La toile défaite, un petit compas de fer bleu apparaît, à peine plus long que le pouce, les branches assez raides pour tenir un écartement, assez souples pour ne pas se rompre.
 
-« Vous avez forgé un compas, à quinze ans.
+«  Vous avez forgé un compas, à quinze ans.
 
-— On me l’a dit. » Il regarde ailleurs, vers le port, vers l’eau. « Certaines coïncidences méritent qu’on les laisse en silence. »
+— On me l’a dit.  » Il regarde ailleurs, vers le port, vers l’eau. «  Certaines coïncidences méritent qu’on les laisse en silence.  »
 
 Ma main se referme sur le compas. Sans doute n’a-t-il pas idée de ce qu’il me donne, ou en a-t-il une idée parfaite et se garde de la dire, ce qui, chez cet homme, revient au même. Un instrument pour mesurer les écarts et les reporter à l’échelle. La seule chose que je fasse. La seule chose que je sache faire.
 
-« Vous reviendrez ? demande-t-il.
+«  Vous reviendrez  ? demande-t-il.
 
-— Non. »
+— Non.  »
 
-Un hochement de tête. En Alkaran, on ne ment pas sur ce genre de chose. On obéit au matériau ou on l’abandonne.
+Il prend le mot pour ce qu’il est, sans y revenir. En Alkaran, on ne ment pas sur ce genre de chose. On obéit au matériau ou on l’abandonne.
 
 ---
 
@@ -256,7 +256,7 @@ Roseltar, à trois jours de Trelios, est la ville la plus aérée du continent, 
 
 Le Fragment Zéro bat, et il s’accélère. Voilà le fait. Je le pose comme je poserais un point sur une carte, sans le décorer.
 
-Le peuple d’Alkaran, quand on l’interroge, dit que la pierre se souvient, que ce qui vit dans la roche n’est jamais tout à fait mort. Les prêtres de la Lex Petra ont un dieu pour cela, Terranu, l’ordre inscrit dans le sol. Aux quais de Yaltar, une vieille m’a dit que c’était ce qui répond, et elle a craché de côté en le disant. Je note ces mots comme je note les plats et les prix du sel : ce sont des relevés, pas des explications. Un mot à moi, je n’en ai pas. Hier soir, en regardant ma colonne, j’ai eu la tentation d’en écrire un. *Balise.* Le mot est commode ; il permettrait de tracer la suite. Je m’abstiens. Une balise suppose un poseur, un poseur suppose une intention, une intention suppose un destinataire. Trois pas en avant pour un battement mesuré deux fois, c’est trop, et un cartographe le sait. Je note ce que je vois. Je note la tentation de nommer. Le nom reste où il est, non encore mérité.
+Le peuple d’Alkaran, quand on l’interroge, dit que la pierre se souvient, que ce qui vit dans la roche n’est jamais tout à fait mort. Les prêtres de la Lex Petra ont un dieu pour cela, Terranu, l’ordre inscrit dans le sol. Aux quais de Yaltar, une vieille m’a dit que c’était ce qui répond, et elle a craché de côté en le disant. Je note ces mots comme je note les plats et les prix du sel : ce sont des relevés, pas des explications. Un mot à moi, je n’en ai pas. Hier soir, en regardant ma colonne, j’ai eu la tentation d’en écrire un. *Balise.* Le mot est commode  ; il permettrait de tracer la suite. Je m’abstiens. Une balise suppose un poseur, un poseur suppose une intention, une intention suppose un destinataire. Trois pas en avant pour un battement mesuré deux fois, c’est trop, et un cartographe le sait. Je note ce que je vois. Je note la tentation de nommer. Le nom reste où il est, non encore mérité.
 
 Mon père avait, dans son carnet, la même colonne, vingt ans plus tôt, un peu moins serrée. Cela, je le savais avant d’arriver. Ce n’est pas une révélation, c’est une confirmation, et les deux ne se ressemblent qu’en apparence. Une révélation vous soulève. Une confirmation vous enfonce d’un cran dans une certitude qu’on aurait préféré voir démentie.
 

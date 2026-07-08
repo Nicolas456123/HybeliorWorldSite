@@ -10,7 +10,7 @@ status: draft
 
 # Chapitre 26 — Le Départ par la Marée
 
-> *« La marée d’Evertia ne s’ouvre pas pour qu’on parte. Elle s’ouvre pour voir si l’on revient. »*
+> *«  La marée d’Evertia ne s’ouvre pas pour qu’on parte. Elle s’ouvre pour voir si l’on revient.  »*
 > — Dicton des passeurs de Valmora
 
 **Evertia — Détroit de Thalmaris, puis Valmora — Jour 630**
@@ -21,15 +21,15 @@ On ne quitte pas Evertia. On attend qu’elle vous rende à la mer.
 
 Le détroit entre Sylvara et la grande terre ne s’ouvre qu’à certaines marées, et ces marées, les passeurs les lisent dans un almanach qu’ils n’écrivent nulle part, gardé de mémoire comme les Elariens gardent leurs récits. Nous avions manqué la première, la gardienne de Thalmaris et moi restant une nuit de plus au chevet de sa dernière voix. La deuxième s’ouvrit à l’aube du sixième jour, une langue d’eau grise entre deux murs de basalte, praticable trois heures, pas davantage. Le passeur ne dit rien pendant la traversée, les yeux sur l’eau, sur la façon dont elle se retirait des récifs, corrigeant sa barre sur des signes que je notais sans les comprendre, la couleur d’un remous, la manière dont une algue se couchait. Là, j’appris une chose que je savais déjà en théorie et que le corps apprend autrement : sur cette île, ce n’est jamais l’homme qui décide de l’heure.
 
-Valmora reparut au bout du détroit, blanche et sèche sur son ravin, exactement telle que je l’avais laissée. Le port de quarantaine. Le comptoir toléré. La seule porte d’une terre qui n’en veut aucune. Une lettre et une question m’y avaient fait entrer environ cinquante jours plus tôt, dans l’idée de n’y passer qu’une quinzaine ; l’île en avait décidé autrement. Les marées s’étaient refusées les unes après les autres, mon départ reporté d’une marée à l’autre sans qu’aucun passeur consentît à en dire la raison, et la forêt qui écoute avait paru me garder jusqu’à l’heure, choisie par elle et non par moi, de me rendre à la mer. De cette île, je repartirais avec un cahier de plus, le froid d’une clairière dans les doigts, et un mot que je n’avais pas en arrivant, celui de Panghor, que je n’écrirais pas deux fois de la même encre.
+Valmora reparut au bout du détroit, blanche et sèche sur son ravin, exactement telle que je l’avais laissée. Le port de quarantaine. Le comptoir toléré. La seule porte d’une terre qui n’en veut aucune. Une lettre et une question m’y avaient fait entrer environ cinquante jours plus tôt, dans l’idée de n’y passer qu’une quinzaine  ; l’île en avait décidé autrement. Les marées s’étaient refusées les unes après les autres, mon départ reporté d’une marée à l’autre sans qu’aucun passeur consentît à en dire la raison, et la forêt qui écoute avait paru me garder jusqu’à l’heure, choisie par elle et non par moi, de me rendre à la mer. De cette île, je repartirais avec un cahier de plus, le froid d’une clairière dans les doigts, et un mot que je n’avais pas en arrivant, celui de Panghor, que je n’écrirais pas deux fois de la même encre.
 
 Le passeur me déposa au quai marchand et refusa la pièce que je lui tendais. Désignant les cahiers sanglés sur mon dos, il dit seulement :
 
-« Vous emportez plus lourd qu’en venant.
+«  Vous emportez plus lourd qu’en venant.
 
 — Toujours, dis-je.
 
-— Alors la marée vous a jugé bon à repartir. » Il repoussa sa barque de la pointe du pied. « Les autres, elle les garde. »
+— Alors la marée vous a jugé bon à repartir.  » Il repoussa sa barque de la pointe du pied. «  Les autres, elle les garde.  »
 
 Je ne lui demandai pas ce qu’il entendait par les autres. Sur cette île, j’avais appris que les phrases de cette sorte ne se déplient pas quand on tire dessus.
 
@@ -43,35 +43,35 @@ C’était une femme de Solena, veuve d’un capitaine, installée à Valmora de
 
 Me voyant entrer, elle posa son poinçon.
 
-« Vous êtes ressorti, dit-elle. On m’avait dit que l’île gardait ceux qu’elle écoutait.
+«  Vous êtes ressorti, dit-elle sans lever le ton, de cette voix égale qu’ont les gens qui vendent des nouvelles et savent le prix de chacune. On m’avait dit que l’île gardait ceux qu’elle écoutait.
 
 — On vous dit beaucoup de choses.
 
-— C’est mon fonds de commerce. » Elle ne souriait pas. « Asseyez-vous, cartographe. J’ai du courrier pour vous, et je n’aime pas ce que j’en sais. »
+— C’est mon fonds de commerce.  » Elle ne souriait pas. «  Asseyez-vous, cartographe. J’ai du courrier pour vous, et je n’aime pas ce que j’en sais.  »
 
 D’un coffre elle sortit une liasse maigre, ficelée, et la posa entre nous sans la pousser vers moi tout de suite, de la manière dont on retient un instant une chose dont on connaît le poids. Trois plis. Un imprimeur d’Ordavan qui accusait réception. Un mot d’Omarin, bref, de sa main serrée, que je reconnus au premier coup d’œil et que je gardai pour la fin comme on garde le pain. Et un feuillet d’un relais du nord que je n’attendais pas.
 
 Ce qui n’était pas là, je le vis avant ce qui l’était.
 
-« Rien de Rukhsar, dis-je.
+«  Rien de Rukhsar, dis-je.
 
-— Rien de Rukhsar. » Wenna croisa les mains. « C’est la troisième fois. »
+— Rien de Rukhsar.  » Wenna croisa les mains. «  C’est la troisième fois.  »
 
 Je comptai en silence. Depuis Cendara, trois navires de Solena, trois occasions pour une lettre de Mira Dasthen de descendre jusqu’à moi. Depuis Kharazir, elle m’écrivait à chaque relais, d’abord souvent, puis plus rarement à mesure que ses lettres se faisaient prudentes, des lettres où elle parlait du temps qu’il faisait sur les collines et de rien qui pût la compromettre, et où je lisais entre les mots qu’elle avait peur. La dernière, reçue à Pyrtara, disait qu’on l’avait convoquée deux fois pour des vérifications d’archives sans objet. Contrariété administrative sous sa plume, signalement sous mes yeux.
 
-« Dites-moi ce que vous savez, dis-je.
+«  Dites-moi ce que vous savez, dis-je.
 
-— Peu. Et rien de sûr. » Wenna baissa la voix, non par théâtre, mais parce que le comptoir avait des oreilles comme tous les comptoirs. « Un de mes hommes remonte la ligne des lettres, de port en port, pour comprendre où elles se perdent. Il est allé jusqu’à Etheira. Au-delà, il n’a pas voulu aller. Ce qu’il rapporte, c’est qu’à Rukhsar l’archiviste de troisième rang qui relevait votre courrier a été mutée. Le mot officiel est mutée. »
+— Peu. Et rien de sûr.  » Wenna baissa la voix, non par théâtre, mais parce que le comptoir avait des oreilles comme tous les comptoirs. «  Un de mes hommes remonte la ligne des lettres, de port en port, pour comprendre où elles se perdent. Il est allé jusqu’à Etheira. Au-delà, il n’a pas voulu aller. Ce qu’il rapporte, c’est qu’à Rukhsar l’archiviste de troisième rang qui relevait votre courrier a été mutée. Le mot officiel est mutée.  »
 
-Le mot officiel, elle le laissa entre nous, avec l’espace qu’il fallait autour.
+Le mot officiel, elle le laissa entre nous, avec l’espace qu’il fallait autour. La question qui allait dans cet espace, je la posai à plat, comme on relève une cote sans la commenter.
 
-« Et le mot qui n’est pas officiel ?
+«  Et le mot qui n’est pas officiel  ?
 
-— Il n’y en a pas. C’est ça qui m’inquiète. » Elle tapota la table du bout de l’ongle. « Quand une petite fonctionnaire est mutée, il y a toujours quelqu’un pour dire où. Une garnison, un bureau, une province. Là, personne ne dit où. La ligne se referme sur elle et ne se rouvre pas. J’ai vu ça deux fois dans ma vie. Les deux fois, mutée voulait dire autre chose. »
+— Il n’y en a pas. C’est ça qui m’inquiète.  » Elle tapota la table du bout de l’ongle. «  Quand une petite fonctionnaire est mutée, il y a toujours quelqu’un pour dire où. Une garnison, un bureau, une province. Là, personne ne dit où. La ligne se referme sur elle et ne se rouvre pas. J’ai vu ça deux fois dans ma vie. Les deux fois, mutée voulait dire autre chose.  »
 
 Quel autre chose, je ne le relevai pas, elle non plus. Nous étions deux personnes qui savaient nommer les choses et qui choisissaient, l’une comme l’autre, de ne pas les nommer, chacune pour ses raisons.
 
-« Ce n’est pas tout, reprit-elle. Vos relais tombent. Pas tous. Ceux du nord. L’imprimeur de Lumasar a fermé sa presse et dit qu’il se retire des affaires, à son âge. Le scriptorium où vous aviez déposé un cahier a rendu ses copistes. Mon homme de Ventera ne répond plus. » Elle me regarda enfin en face. « Quelqu’un remonte votre chemin à l’envers, cartographe. Il défait ce que vous avez tissé, nœud après nœud, en commençant par le début. »
+«  Ce n’est pas tout, reprit-elle. Vos relais tombent. Pas tous. Ceux du nord. L’imprimeur de Lumasar a fermé sa presse et dit qu’il se retire des affaires, à son âge. Le scriptorium où vous aviez déposé un cahier a rendu ses copistes. Mon homme de Ventera ne répond plus.  » Elle me regarda enfin en face. «  Quelqu’un remonte votre chemin à l’envers, cartographe. Il défait ce que vous avez tissé, nœud après nœud, en commençant par le début.  »
 
 ---
 
@@ -87,27 +87,27 @@ Je ne l’écrivis pas ce soir-là dans les termes où je l’écris maintenant.
 
 Ce soulagement, je le note parce qu’il est vrai et parce qu’il est laid. À côté de l’autre nouvelle, celle de Rukhsar, il n’a pas de place, et pourtant il occupa la même heure, la même table, le même homme. On peut être soulagé et coupable dans le même souffle. Je l’ai été, et je ne me le pardonne pas ni ne le corrige : le corriger serait mentir, et je me suis interdit cette encre-là.
 
-« Vous ne dites rien, remarqua Wenna.
+«  Vous ne dites rien, remarqua Wenna.
 
 — Je range.
 
-— Vous rangez quoi ?
+— Vous rangez quoi  ?
 
-— Ce qui va avec quoi. » Je posai la main sur la liasse. « Wenna. Cessez de relever mon courrier. À partir de ce navire. Ne prenez plus rien pour moi, ne remontez plus la ligne, renvoyez votre homme d’Etheira chez lui. »
+— Ce qui va avec quoi.  » Je posai la main sur la liasse. Ce qui suivit, je le donnai comme une consigne, un ordre après l’autre, sans y rien joindre. «  Wenna. Cessez de relever mon courrier. À partir de ce navire. Ne prenez plus rien pour moi, ne remontez plus la ligne, renvoyez votre homme d’Etheira chez lui.  »
 
 Son menton eut un mouvement qui n’était pas de la surprise.
 
-« Vous me congédiez.
+«  Vous me congédiez.
 
-— Je vous sors. Ce n’est pas la même chose. »
+— Je vous sors. Ce n’est pas la même chose.  »
 
 Un long moment, elle me considéra, de ce regard des gens de mer qui ont soupesé assez de cargaisons pour évaluer un homme au poids.
 
-« La dernière personne qui a relevé votre courrier a été mutée, dit-elle lentement. Et vous venez de comprendre, à cette table, à l’instant, que c’est peut-être pour ça. » Ce n’était pas une question. « Vous me sortez parce que vous ne voulez pas d’une deuxième mutée sur votre carte.
+«  La dernière personne qui a relevé votre courrier a été mutée, dit-elle lentement. Et vous venez de comprendre, à cette table, à l’instant, que c’est peut-être pour ça.  » Ce n’était pas une question. «  Vous me sortez parce que vous ne voulez pas d’une deuxième mutée sur votre carte.
 
 — Oui.
 
-— C’est presque de la décence, cartographe. » Elle reprit son poinçon, le fit tourner une fois. « Presque. Parce qu’un homme vraiment décent ne serait pas parti avec des cahiers qui font muter les femmes qui les relèvent. »
+— C’est presque de la décence, cartographe.  » Elle reprit son poinçon, le fit tourner une fois. «  Presque. Parce qu’un homme vraiment décent ne serait pas parti avec des cahiers qui font muter les femmes qui les relèvent.  »
 
 Je ne me défendis pas. Cette année, j’ai cessé de me défendre contre les gens qui me percent à jour à moitié. La moitié qu’ils voient, ils la voient bien. Je la leur laisse.
 
@@ -139,61 +139,61 @@ Cet homme s’appelait Hesken, ou se faisait appeler ainsi. Consignataire des v�
 
 Le second jour, au comptoir, il vint à moi et s’assit sans y être invité, comme Wenna l’avait fait, mais rien du même bois.
 
-« On me dit que vous tenez un journal, dit-il.
+«  On me dit que vous tenez un journal, dit-il, et sa voix avait le calme uni des hommes qui relèvent et ne concluent jamais devant vous, une voix que je connaissais pour l’avoir moi-même.
 
 — On vous dit vrai. Je suis cartographe. Je note.
 
-— Puis-je le voir ? »
+— Puis-je le voir  ?  »
 
 Devant lui je posai le cahier courant, celui de la traversée et d’Evertia, ouvert à la page des marées de Thalmaris et des relevés de la forêt. Hesken le prit, le feuilleta du pouce, et je vis, à sa manière de le tenir, qu’il ne le lisait pas : il le soupesait. Ses doigts couraient sur la tranche, comptaient les feuillets, cherchaient dans l’objet autre chose que ce qui y était écrit. Ce qu’il évaluait, ce n’était pas mon récit : c’était son volume, son épaisseur, la quantité de papier noirci que je transportais. Mon bagage l’occupait, non mon visage. À aucun moment de nos deux entretiens il ne me demanda si j’étais Sorin Valthen, ni ne parut se soucier de qui j’étais. Un homme qui vous cherche vous regarde en face pour vous reconnaître. Hesken ne me cherchait pas. Il inventoriait ce que je portais.
 
-« Vous en avez d’autres, dit-il. Sur votre dos, quand vous êtes entré. J’ai vu la forme sous le manteau.
+«  Vous en avez d’autres, dit-il. Sur votre dos, quand vous êtes entré. J’ai vu la forme sous le manteau.
 
-— J’en ai d’autres.
+— J’en ai d’autres, dis-je.
 
-— Combien ?
+— Combien  ?
 
-— Onze pleins. Un en cours. »
+— Onze pleins. Un en cours.  »
 
 Le nombre exact, je le lui donnai sans le faire attendre. On ne gagne rien à mentir sur un nombre qu’un homme peut vérifier en vous fouillant, et on gagne beaucoup à répondre vite et juste là où un coupable hésiterait. Un cartographe donne une échelle : je lui donnai la mienne. Hesken nota le chiffre dans un calepin de cuir usé, sans relever la tête.
 
-« Vous les gardez tous sur vous, dit-il. Vous n’en confiez aucun.
+«  Vous les gardez tous sur vous, dit-il. Vous n’en confiez aucun.
 
-— Un homme qui voyage garde ses outils.
+— Un homme qui voyage garde ses outils, dis-je, en homme qui donne une règle plutôt qu’une réponse.
 
-— Un homme qui voyage confie ce qui est lourd et reprend au retour. Vous, vous portez tout. Toujours. » D’un geste, il rangea sa mine. « C’est ce qu’on m’avait dit. Je voulais le voir. »
+— Un homme qui voyage confie ce qui est lourd et reprend au retour. Vous, vous portez tout. Toujours.  » D’un geste, il rangea sa mine. «  C’est ce qu’on m’avait dit. Je voulais le voir.  »
 
 Ouvrir le reste, il ne le demanda pas, et je compris pourquoi. Un cahier isolé ne l’intéressait pas : il était venu établir combien il en existait, et où, pour un autre qui viendrait ensuite les prendre tous, à Prismalith, ou avant Prismalith, quand ils seraient réunis sous une seule main, la mienne, et non plus dispersés là où on ne peut plus les rappeler. Ce qu’il consignait dans son calepin de cuir, c’était l’inventaire d’une saisie qui n’aurait lieu qu’au bout de ma route.
 
-« Vous voyagez vers le nord, dit-il en se levant.
+«  Vous voyagez vers le nord, dit-il en se levant.
 
 — Vers le grand continent d’abord. Le nord ensuite, si les vents.
 
-— On se reverra donc. » Il rangea son calepin. « Les routes du retour sont moins nombreuses que celles de l’aller. Un homme qui rentre est plus facile à attendre qu’un homme qui part. »
+— On se reverra donc.  » Il rangea son calepin. «  Les routes du retour sont moins nombreuses que celles de l’aller. Un homme qui rentre est plus facile à attendre qu’un homme qui part.  »
 
 Ce n’était pas une menace. C’était un relevé, dit par un homme qui faisait le même métier que moi et qui savait que je le reconnaîtrais. Je le reconnus. Sur cette page, je le remercie presque de m’avoir dit si clairement ce que l’appareil avait enfin compris. Ce n’était plus un fuyard qu’il suivait, mais une cargaison qu’il attendait au bout de sa route. Ce qui m’aurait glacé six mois plus tôt me confirma seulement que j’arrivais au bon endroit à la bonne heure, puisqu’on avait fini par disposer les guetteurs là où j’allais, et non plus là d’où je venais.
 
 Quand il fut sorti, Wenna vint essuyer la table où il s’était assis, bien qu’elle fût propre.
 
-« Il ne vous a pas arrêté, dit-elle.
+«  Il ne vous a pas arrêté, dit-elle.
 
 — Non.
 
 — Il aurait pu. Vous êtes un Délié banni, seul, sur une île fermée. Personne ne vous aurait défendu.
 
-— Il n’est pas venu pour moi. » Je refermai mon cahier. « Il est venu compter. »
+— Il n’est pas venu pour moi.  » Je refermai mon cahier. «  Il est venu compter.  »
 
 Le chiffon à la main, elle s’immobilisa, et je vis passer sur son visage la compréhension lente d’une chose qui la dépassait et qu’elle n’aimait pas comprendre.
 
-« Ils ne vous veulent plus, dit-elle. Ils veulent ce que vous écrivez.
+«  Ils ne vous veulent plus, dit-elle. Ils veulent ce que vous écrivez.
 
 — Oui.
 
-— Alors pourquoi souriez-vous ? »
+— Alors pourquoi souriez-vous  ?  »
 
-Je ne savais pas que je souriais ; je cessai. Mais je ne pus pas lui donner la vraie raison, qui n’aurait eu de sens que pour un homme au bout d’un plan, et Wenna n’était pas cet homme. Aussi lui dis-je une raison plus petite, vraie elle aussi, ce qui est la manière la plus sûre de ne pas mentir tout en ne disant pas tout.
+Je ne savais pas que je souriais  ; je cessai. Mais je ne pus pas lui donner la vraie raison, qui n’aurait eu de sens que pour un homme au bout d’un plan, et Wenna n’était pas cet homme. Aussi lui dis-je une raison plus petite, vraie elle aussi, ce qui est la manière la plus sûre de ne pas mentir tout en ne disant pas tout.
 
-« Parce qu’on ne peut pas saisir une chose qui est déjà à trois endroits, dis-je. Un fugitif, on l’attrape une fois. Le reste, c’est plus difficile. »
+«  Parce qu’on ne peut pas saisir une chose qui est déjà à trois endroits, dis-je. Un fugitif, on l’attrape une fois. Le reste, c’est plus difficile.  »
 
 ---
 
@@ -203,27 +203,27 @@ L’attente, je l’employai comme toutes mes attentes, à écouter le lieu me d
 
 Le plus vieux d’entre eux, un homme de Thyronis qui avait franchi le Détroit de Suie plus de fois qu’il n’en tenait le compte, me parla de l’oublié.
 
-« Vous montez des îles du sud, dit-il. Vous avez entendu parler du dessous, là-bas. Les gens de la forêt en font tout un mystère.
+«  Vous montez des îles du sud, dit-il. Vous avez entendu parler du dessous, là-bas. Les gens de la forêt en font tout un mystère.
 
 — On m’en a parlé, oui.
 
-— Nous, on ne fait pas mystère. On a un nom et une histoire, et l’histoire suffit. » Il but une gorgée de sa bière noire. « Il y avait, au commencement, ceux qui tenaient le monde. Huit, dit-on, mais le nombre change selon qui raconte. Ils le tenaient comme on tient une tente, chacun son piquet. Et il y en a eu un qu’on a oublié. Pas mort. Oublié. Les hommes ont cessé de dire son nom, de lui laisser sa part, de compter avec lui. Un piquet qu’on ne retend plus. »
+— Nous, on ne fait pas mystère. On a un nom et une histoire, et l’histoire suffit.  » Il but une gorgée de sa bière noire. «  Il y avait, au commencement, ceux qui tenaient le monde. Huit, dit-on, mais le nombre change selon qui raconte. Ils le tenaient comme on tient une tente, chacun son piquet. Et il y en a eu un qu’on a oublié. Pas mort. Oublié. Les hommes ont cessé de dire son nom, de lui laisser sa part, de compter avec lui. Un piquet qu’on ne retend plus.  »
 
 Je notais. Me voyant noter, il parla plus lentement, pour me laisser suivre, avec la courtoisie des conteurs qui savent leur bien précieux.
 
-« Et l’oublié, il n’est pas parti, dit-il. On ne part pas d’un monde qu’on tient. Il est descendu. Il a lâché son coin de tente et il est descendu attendre sous tout le reste, patient comme la pierre, que les autres piquets lâchent à leur tour ou qu’on se souvienne de lui. Et un jour, disent les anciens de Thyronis, la toile pèse trop d’un côté, et l’oublié remonte pour reprendre sa part. Il ne remonte pas en colère. C’est ce que les gens comprennent mal. Il remonte parce que c’est son tour, et qu’un tour, ça revient. »
+«  Et l’oublié, il n’est pas parti, dit-il. On ne part pas d’un monde qu’on tient. Il est descendu. Il a lâché son coin de tente et il est descendu attendre sous tout le reste, patient comme la pierre, que les autres piquets lâchent à leur tour ou qu’on se souvienne de lui. Et un jour, disent les anciens de Thyronis, la toile pèse trop d’un côté, et l’oublié remonte pour reprendre sa part. Il ne remonte pas en colère. C’est ce que les gens comprennent mal. Il remonte parce que c’est son tour, et qu’un tour, ça revient.  »
 
-« Et comment sait-on qu’il remonte ? » demandai-je.
+«  Et comment sait-on qu’il remonte  ?  » demandai-je.
 
-« On ne le sait pas. On le sent sous les pieds avant de le savoir dans la tête. » Il posa son bol. « Vous, vous avez des instruments, à ce qu’on dit. Nous, on a les pieds. Ils se valent, le jour où la toile penche. »
+«  On ne le sait pas. On le sent sous les pieds avant de le savoir dans la tête.  » Il posa son bol. «  Vous, vous avez des instruments, à ce qu’on dit. Nous, on a les pieds. Ils se valent, le jour où la toile penche.  »
 
 Je lui demandai s’il croyait à son histoire. C’est une question qu’un cartographe ne devrait pas poser, parce qu’elle juge, et je la posai quand même, parce que je voulais la réponse.
 
-« Croire, c’est un mot de terrien, dit-il sans se vexer. Moi je passe le Détroit de Suie deux fois l’an. Un jour la marée s’ouvre, un jour elle ne s’ouvre pas, et aucun almanach ne me dit pourquoi ce jour-là et pas la veille. J’attends. Vous attendez comme moi, à ce qu’on voit, vous êtes là depuis douze jours sur un quai sec. » Il eut un geste vers la mer. « L’oublié, c’est pareil. On ne sait pas l’heure. On sait seulement qu’il y a une heure, et qu’elle ne se négocie pas. Le reste, c’est du confort qu’on se raconte pour tenir l’attente. »
+«  Croire, c’est un mot de terrien, dit-il sans se vexer. Moi je passe le Détroit de Suie deux fois l’an. Un jour la marée s’ouvre, un jour elle ne s’ouvre pas, et aucun almanach ne me dit pourquoi ce jour-là et pas la veille. J’attends. Vous attendez comme moi, à ce qu’on voit, vous êtes là depuis douze jours sur un quai sec.  » Il eut un geste vers la mer. «  L’oublié, c’est pareil. On ne sait pas l’heure. On sait seulement qu’il y a une heure, et qu’elle ne se négocie pas. Le reste, c’est du confort qu’on se raconte pour tenir l’attente.  »
 
 Je notai cela aussi, parce que c’était plus vrai que le reste. Un peuple qui vit d’attendre des marées se fait, de ce qui monte sous le monde, une image de marée : une chose qui a son heure, qu’on ne devance pas, et devant laquelle la seule sagesse est de savoir si l’on part avec elle ou si on la laisse passer. Je ne pris pas cette image pour une preuve, mais pour ce qu’elle était : la manière dont un homme de mer rangeait une peur trop grande dans le seul tiroir qu’il eût à sa taille. Mais je la gardai, et elle m’a suivi plus loin que Valmora.
 
-Je ne tranchai pas, n’en ayant aucun moyen, et ce n’est pas mon travail de trancher ce que je ne peux pas mesurer. L’histoire de l’oublié n’était qu’une histoire, une manière qu’un peuple de mer avait trouvée de nommer une inquiétude que d’autres peuples nommaient autrement, le Panghor des druides, le dessous des gardes-champêtres de la forêt, ce qui répond des chamanes des plaines, les Profonds des vieux textes que je n’avais pas lus et dont on m’avait rapporté qu’ils existaient. Cinq noms, peut-être, pour une même chose. Ou cinq peurs sans objet commun, qu’un voyageur presse à tort les unes contre les autres parce qu’il a passé deux ans à ne rencontrer que des gens effrayés. Je gardai les deux lectures ; j’ai appris à les garder toutes les deux. C’est la discipline qui me tient debout quand les points se mettent à faire des lignes plus vite que je ne les vérifie.
+Je ne tranchai pas, n’en ayant aucun moyen, et ce n’est pas mon travail de trancher ce que je ne peux pas mesurer. L’histoire de l’oublié n’était qu’une histoire, une manière qu’un peuple de mer avait trouvée de nommer une inquiétude que d’autres peuples nommaient autrement, le Panghor des druides, le dessous des gardes-champêtres de la forêt, ce qui répond des chamanes des plaines, les Profonds des vieux textes que je n’avais pas lus et dont on m’avait rapporté qu’ils existaient. Cinq noms, peut-être, pour une même chose. Ou cinq peurs sans objet commun, qu’un voyageur presse à tort les unes contre les autres parce qu’il a passé deux ans à ne rencontrer que des gens effrayés. Je gardai les deux lectures  ; j’ai appris à les garder toutes les deux. C’est la discipline qui me tient debout quand les points se mettent à faire des lignes plus vite que je ne les vérifie.
 
 Ce que je notai, à plat, ce fut ceci : qu’un homme de Thyronis, qui n’avait jamais mis le pied à Evertia ni entendu le mot de Panghor, racontait, dans son propre vocabulaire de tente et de piquets, la même forme que la gardienne de Thalmaris me chantait de l’autre côté du détroit. Que la ressemblance était réelle, l’origine incertaine, et la conclusion différée. Un cartographe consigne la ressemblance et laisse à d’autres, plus tard, ailleurs, le soin de dire si elle mène quelque part. C’est même à cela, précisément, que sert un cartographe honnête : à porter la ressemblance jusqu’à ceux qui pourront la contester.
 
@@ -233,13 +233,13 @@ La marée s’ouvrit à l’aube du douzième jour, et je pris le navire de Sole
 
 Je le note parce que c’est un fait daté, et qu’un homme se juge à ses dates. Un homme qui fuit se cache et laisse passer le premier départ, parce que le premier départ est celui qu’on surveille. J’achetai le premier départ. Plus cher, je payai une place sur le navire qui repartait tout de suite, chargé, guetté, avec un consignataire des vérifications encore à mouiller au large, plutôt que d’attendre le calme. Wenna me regarda monter à bord et ne me dit pas au revoir. Elle me dit :
 
-« Vous êtes pressé, pour un homme qu’on attend au bout de la route.
+«  Vous êtes pressé, pour un homme qu’on attend au bout de la route.
 
 — Je suis pressé parce qu’on m’attend au bout de la route.
 
 — Ça ne veut rien dire.
 
-— Non, dis-je. Pas encore. »
+— Non, dis-je. Pas encore.  »
 
 Sur le quai, elle resta jusqu’à ce que la voile prenne. Sans doute voulait-elle voir si le navire fin, celui de Hesken, appareillerait dans notre sillage. Le navire fin ne bougea pas. On n’a pas besoin de suivre un homme dont on sait le port d’arrivée.
 

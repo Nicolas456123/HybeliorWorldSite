@@ -10,7 +10,7 @@ status: draft
 
 # Chapitre 35 — Les Routes Rouvrent
 
-> *« La mer ne sépare pas les terres. Elle les relie par en dessous. »*
+> *«  La mer ne sépare pas les terres. Elle les relie par en dessous.  »*
 > — proverbe altram recueilli à Noravia
 
 **En mer, quelque part entre Cestra et Galenor. Jour 870.**
@@ -21,21 +21,21 @@ Il y a une chose qu’on ne dit pas assez sur la haute mer : elle range les pen
 
 Ce carnet est le dix-septième depuis le jour un. Les seize autres dorment dans mon sac de toile, roulés chacun dans un tissu ciré, numérotés à l’encre sur la tranche, du premier au seizième. J’ai passé les premières nuits de cette traversée à les relire dans l’ordre, tous, depuis les pages maladroites du départ de Kharazir jusqu’aux notes prises les doigts gourds sur le surplomb du Jumeau. Ce n’est pas ma compréhension des faits qui a bougé au cours de cette relecture. Les faits, je les tenais depuis des mois. C’est la manière dont ils tiennent ensemble.
 
-Sur la première page vierge du dix-septième, avant tout le reste, j’ai écrit deux noms. Prismalith. Omarin de Velithis. Puis, dessous, une ligne d’instruction pour la main inconnue qui ouvrirait un jour ce sac si je venais à manquer : *porter les cahiers là, dans l’ordre, sans en retirer aucun.* Un homme qui voyage seul depuis huit cent soixante-dix jours apprend à préparer son absence. Un cartographe sait qu’une carte roulée dans un tissu ciré traverse une avarie que son auteur ne traverse pas. Ce n’est pas de la peur. C’est de la méthode. On numérote pour que rien ne se perde ; on cire pour que l’eau ne mange pas l’encre ; on écrit l’adresse en tête pour que le paquet trouve sa route même sans porteur. J’avais fait cela dès le premier cahier, à Rukhsar, quand je pensais encore que personne ne lirait ces pages. Je le faisais toujours.
+Sur la première page vierge du dix-septième, avant tout le reste, j’ai écrit deux noms. Prismalith. Omarin de Velithis. Puis, dessous, une ligne d’instruction pour la main inconnue qui ouvrirait un jour ce sac si je venais à manquer : *porter les cahiers là, dans l’ordre, sans en retirer aucun.* Un homme qui voyage seul depuis huit cent soixante-dix jours apprend à préparer son absence. Un cartographe sait qu’une carte roulée dans un tissu ciré traverse une avarie que son auteur ne traverse pas. Ce n’est pas de la peur. C’est de la méthode. On numérote pour que rien ne se perde  ; on cire pour que l’eau ne mange pas l’encre  ; on écrit l’adresse en tête pour que le paquet trouve sa route même sans porteur. J’avais fait cela dès le premier cahier, à Rukhsar, quand je pensais encore que personne ne lirait ces pages. Je le faisais toujours.
 
 Reen tenait la barre à l’autre bout du navire, une silhouette immobile contre un ciel de plomb. Le vent venait de trois quarts arrière, un vent régulier, et le cargo avançait avec cette lenteur obstinée des coques lourdes qui ne cherchent pas la vitesse mais l’endurance. Nous ne verrions pas Galenor avant des jours encore. J’avais du temps. Le temps est la seule chose qu’un homme au bout de sa route possède en abondance, et la seule dont il se méfie.
 
 Un mousse vint m’apporter une écuelle de thé noir, du vrai, épais, réservé d’ordinaire à l’équipage. Il resta une seconde de trop, l’œil sur mes cahiers ouverts.
 
-« Vous écrivez tout le temps.
-— J’ai beaucoup à ranger.
+«  Vous écrivez tout le temps.
+— J’ai beaucoup à ranger, dis-je sans lever la plume.
 — Le capitaine dit que vous êtes une sorte de faiseur de cartes, reprit-il.
-— C’était mon métier. »
+— C’était mon métier.  »
 
 Le garçon regarda la page, les colonnes de renvois, les astérisques dans la marge, les endroits où j’avais barré une phrase d’un seul trait.
 
-« Ça ne ressemble pas à une carte.
-— Les meilleures ne ressemblent jamais à ce qu’elles montrent. »
+«  Ça ne ressemble pas à une carte.
+— Les meilleures ne ressemblent jamais à ce qu’elles montrent.  »
 
 Il n’insista pas, reprit l’écuelle vide de la veille et redescendit. Sa question était pourtant la bonne, la seule qui vaille. Ce que je dressais là n’avait pas la forme d’une carte parce que ce n’était pas une carte des terres. C’était une carte des liens.
 
@@ -75,29 +75,29 @@ Deux dépôts, donc, et entre eux une règle que je tiens depuis le premier cahi
 
 Le dernier calcul fut celui du semis. Entre le quai de Galenor et les portes de Prismalith s’étend une route courte mais mauvaise, celle où l’appareil m’attend, et une route sur laquelle on marche sans rien semer est une route où l’on peut tout perdre d’un seul mouvement. J’ai donc repris de mémoire la carte des relais de Galenor, ceux qui tiennent encore : l’imprimeur de Lumasar qui refuse par prudence et copie par conscience, un scriptorium sans registre, une herboriste des marges qui range mieux qu’aucune bibliothèque. À chacun, en passant, je laisserai une poignée de feuillets. Non pour qu’ils les lisent. Pour qu’ils les aient, à leur insu presque, de sorte que même si l’on me prend entre le port et le Tribunal, ce que je porte soit déjà en trois endroits que rien ne relie sur une carte. Je posai les points comme on pose une triangulation : assez nombreux pour qu’aucune paire de désastres ne coïncide.
 
-Un homme me regarderait faire et croirait voir un persécuté qui se protège, un exilé qui multiplie les précautions parce qu’on a une fois vidé son tiroir. Il n’aurait pas tort sur les gestes. Il se tromperait seulement sur ce qu’ils servent. On ne se protège pas soi-même en dispersant ce qu’on porte ; on se rend inutile. Le jour où ce que je sais est en dix endroits, ma personne cesse d’avoir de la valeur, et un homme sans valeur passe plus tranquillement les dernières portes. C’est la seule sûreté que j’aie jamais cherchée : celle de n’être plus nécessaire à ma propre carte.
+Un homme me regarderait faire et croirait voir un persécuté qui se protège, un exilé qui multiplie les précautions parce qu’on a une fois vidé son tiroir. Il n’aurait pas tort sur les gestes. Il se tromperait seulement sur ce qu’ils servent. On ne se protège pas soi-même en dispersant ce qu’on porte  ; on se rend inutile. Le jour où ce que je sais est en dix endroits, ma personne cesse d’avoir de la valeur, et un homme sans valeur passe plus tranquillement les dernières portes. C’est la seule sûreté que j’aie jamais cherchée : celle de n’être plus nécessaire à ma propre carte.
 
 ---
 
 Le soir, la cloche du cuisinier m’appela au carré. Huit autour de la longue table : matelots, le mousse, Reen au bout, moi dans l’angle, à la place que je prends toujours depuis que j’ai compris qu’on voyage mieux en laissant les gens de mer occuper le centre de leur propre espace. La soupe était épaisse, couleur de cendre rose, des racines fondues dans un bouillon de poisson qui avait cuit tout le jour. Un matelot fit passer une huile qu’il gardait dans sa réserve personnelle, avec la fierté un peu jalouse des hommes qui vivent loin de chez eux et portent sur eux un morceau du pays.
 
-« De Galenor, dit-il en versant un filet dans mon écuelle. La vraie. Pas les cochonneries qu’on charge à Seraphis. »
+«  De Galenor, dit-il en versant un filet dans mon écuelle. La vraie. Pas les cochonneries qu’on charge à Seraphis.  »
 
 Les conversations tournaient autour de la mer, comme toujours quand des marins mangent : des courants qui avaient changé, des relèvements qui ne tombaient plus juste, des rades qu’ils ne toucheraient plus parce que l’accueil s’y était gâté. La parole ordinaire de gens dont le métier est de connaître les routes et de les voir se défaire.
 
 Le matelot à l’huile me demanda ce que je cherchais, moi, sur les routes.
 
-« À comprendre pourquoi certaines se rouvrent. »
+«  À comprendre pourquoi certaines se rouvrent  », répondis-je sans quitter des yeux le filet d’huile qui tournait encore à la surface de mon écuelle.
 
 Trempant son pain dans la soupe, il prit son temps, puis me regarda avec cette attention lente des gens qui ont beaucoup vu.
 
-« Une route qui rouvre n’est pas toujours une invitation, dit-il. Parfois c’est une voie d’eau dans une coque. Ça s’ouvre aussi. »
+«  Une route qui rouvre n’est pas toujours une invitation, dit-il. Parfois c’est une voie d’eau dans une coque. Ça s’ouvre aussi.  »
 
 Personne autour de la table ne releva. Pour eux c’était un dicton de métier, une évidence qu’on répète en mangeant. Pour moi c’était la phrase la plus juste qu’on m’eût dite depuis le glacier, et je la notai le soir même, sans commentaire, parce qu’un commentaire l’aurait abîmée. Une route qui rouvre. J’avais employé ce mot toute la traversée, *route*, avec la satisfaction tranquille de celui qui croit décrire un progrès. Le matelot venait de me rappeler qu’une ouverture ne dit rien de ce qui va la franchir, ni dans quel sens.
 
 Un plus jeune, à l’autre bout, voulut savoir si c’était vrai que le fond changeait.
 
-« On le dit, répondit le matelot. Les vieux le disent. Que quelque chose bouge en dessous, dans les courants profonds, là où aucun de nous ne descend. Assez pour que la mer ne se tienne plus comme avant. »
+«  On le dit, répondit le matelot. Les vieux le disent. Que quelque chose bouge en dessous, dans les courants profonds, là où aucun de nous ne descend. Assez pour que la mer ne se tienne plus comme avant.  »
 
 Sur ces mots, il haussa les épaules et retourna à sa soupe. Ils parlaient du dessous des eaux comme d’un voisin dont on entend remuer les meubles à travers le plancher. Ils avaient trouvé, pour dire la chose, des mots plus honnêtes que tous les miens : ils ne l’expliquaient pas, ils la constataient. Le fond change. On ne sait pas pourquoi. On adapte les routes. C’est ainsi que les gens qui vivent au contact d’une chose finissent par en parler mieux que ceux qui l’étudient.
 
@@ -105,47 +105,49 @@ Sur ces mots, il haussa les épaules et retourna à sa soupe. Ils parlaient du d
 
 Reen me trouva le lendemain sur le pont avant. Il s’appuya au bastingage à ma hauteur et regarda l’eau un long temps avant de parler, à sa manière, qui était de ne rien dire tant que le silence faisait le travail.
 
-« Vous avez été à Cestra.
+«  Vous avez été à Cestra.
 — Oui.
 — Les boussoles, dit-il.
-— Oui. »
+— Oui.  »
 
-À cela il hocha la tête. La mer de ce côté-là était d’un gris bleu profond, sans houle, avec une surface qui tenait de la peau plus que de l’eau, quelque chose qui respirait lentement.
+Cela parut lui suffire, et son regard retourna à l’eau. La mer de ce côté-là était d’un gris bleu profond, sans houle, avec une surface qui tenait de la peau plus que de l’eau, quelque chose qui respirait lentement.
 
-« Mon grand-père a navigué ici du temps où les aiguilles ne déviaient pas. Il disait que les anomalies ont commencé voici trente ans. D’abord autour de Cestra. Puis dans la haute mer du nord. Aujourd’hui dans des parages qui n’avaient jamais posé de problème. »
+Quand il reprit la parole, les mots vinrent lents, largement espacés, à la cadence d’un homme qui compte les brasses entre deux relèvements.
+
+« Mon grand-père a navigué ici du temps où les aiguilles ne déviaient pas. Il disait que les anomalies ont commencé voici trente ans. D’abord autour de Cestra. Puis dans la haute mer du nord. Aujourd’hui dans des parages qui n’avaient jamais posé de problème.  »
 
 Un temps.
 
-« On dit que c’est le fond qui change. »
+«  On dit que c’est le fond qui change.  »
 
-Que voulait-il dire par là ? Je le lui demandai, non parce que je l’ignorais, mais parce que je voulais l’entendre le dire.
+Que voulait-il dire par là  ? Je le lui demandai, non parce que je l’ignorais, mais parce que je voulais l’entendre le dire.
 
-« Les vieux marins. Ceux qui tiennent la mer depuis quarante ans. Ils disent que les courants profonds ne sont plus les mêmes, les températures de fond non plus. Pas assez pour que les instruments l’affirment. Assez pour que des routes qui servaient depuis un siècle cessent de porter. »
+«  Les vieux marins. Ceux qui tiennent la mer depuis quarante ans. Ils disent que les courants profonds ne sont plus les mêmes, les températures de fond non plus. Pas assez pour que les instruments l’affirment. Assez pour que des routes qui servaient depuis un siècle cessent de porter.  »
 
 Il se tourna vers moi.
 
-« Et pour que d’autres routes, celles que les anciens marins avaient perdues, recommencent à se rouvrir. »
+«  Et pour que d’autres routes, celles que les anciens marins avaient perdues, recommencent à se rouvrir.  »
 
 Voilà. Il l’avait dit avec ses mots à lui, des mots de barre et de sonde, et c’était exactement ce que j’avais compris sur la glace avec les miens, des mots de relevé et de triangulation. Deux métiers qui ne se rencontrent jamais, la même carte au bout. Les routes rouvrent. Pas une image. Une chose qui se mesure, chacun avec l’instrument de sa peine. Un réseau scellé pendant des millénaires, sous la roche de Kharazir, sous la glace du Jumeau, et quelque chose qui remue là-dedans, envoie sa cadence dans la pierre, dans les volcans, dans les aiguilles, dans les rêves des mystiques et jusque dans les courants où plonge la sonde de Reen.
 
-« Vous savez ce que vous transportez », dit-il.
+«  Vous savez ce que vous transportez  », dit-il.
 
 Il ne désignait pas les épices de la cale. Je lui répondis que j’en avais une idée.
 
-« Alors méfiez-vous de vos idées. »
+«  Alors méfiez-vous de vos idées.  »
 
 Ses yeux, lorsque je me tournai vers lui, étaient d’un brun très pâle, presque noisette, accordés à cette mer sous ce ciel.
 
-« Les marins perdus appellent souvent une dérive une route, reprit-il, parce que route fait moins peur. Vous appelez la vôtre un retour. Peut-être en est-ce un. Peut-être que vous avez seulement besoin que ce soit un retour, parce que votre père est quelque part au bout. »
+«  Les marins perdus appellent souvent une dérive une route, reprit-il, parce que route fait moins peur. Vous appelez la vôtre un retour. Peut-être en est-ce un. Peut-être que vous avez seulement besoin que ce soit un retour, parce que votre père est quelque part au bout.  »
 
 La phrase me prit plus juste que je ne l’aurais voulu, et je pris soin de ne pas le montrer, ce qui est une autre façon de le montrer.
 
-« Vous dites cela à tous vos passagers ?
-— Seulement à ceux qui regardent la mer comme si elle leur devait une réponse. »
+«  Vous dites cela à tous vos passagers  ?
+— Seulement à ceux qui regardent la mer comme si elle leur devait une réponse.  »
 
 Il avait tort, et il avait raison de la manière la plus incommode. Je ne cherche pas mon père. Cela, je l’ai su très tôt, plus tôt qu’il ne conviendrait de l’avouer : ce que je remonte de cette route n’est pas un homme, c’est une charge. La question que je me pose depuis le premier mur jaune n’a jamais été *où est Aldric*. Elle a toujours été *comment ne pas mourir comme lui en portant cela seul*. Mais Reen ne pouvait pas savoir cela, et j’aurais eu du mal à le lui dire sans mentir sur le reste, alors je le laissai croire ce qui l’arrangeait, ce qui m’arrangeait, ce qui est le plus vieux commerce entre deux hommes qui se comprennent à moitié.
 
-Sur quoi il se redressa, hocha une dernière fois la tête et retourna vers la barre sans un mot de plus. La conversation était close, non par sécheresse, mais par la certitude que tout l’utile avait été dit.
+Sur quoi il se redressa, tapota une fois le bastingage du plat de la main et retourna vers la barre sans un mot de plus. La conversation était close, non par sécheresse, mais par la certitude que tout l’utile avait été dit.
 
 ---
 
@@ -163,7 +165,7 @@ Je cherchai l’étoile absente. Celle que les vieux textes de l’Ordo Caelum m
 
 J’ai pu me tromper. La nuit de mer déforme le regard, c’est connu, documenté, les marins en parlent depuis des siècles. Aussi ai-je noté ce que j’avais vu avec la précision que je réserve aux faits, et non avec l’astérisque dont je marque les suppositions. Un bon relevé n’a pas à conclure. Il a seulement à être exact, pour qu’un autre, mieux placé, en tire ce que je n’ai pas le droit d’en tirer.
 
-C’est là toute la différence entre ce que je fais et ce que l’on croira que je fais. On me prêtera des certitudes que je n’ai pas, une thèse, une réponse à vendre. Il n’y a pas de réponse dans ces cahiers, seulement une question dressée avec assez de soin pour qu’on ne puisse plus la ranger dans un tiroir. Poser proprement une question que d’autres devront trancher, voilà l’unique chose qui soit en mon pouvoir. Le reste appartient à des yeux que je ne connaîtrai jamais, et c’est très bien ainsi. Une carte n’ordonne pas le voyage ; elle le rend possible.
+C’est là toute la différence entre ce que je fais et ce que l’on croira que je fais. On me prêtera des certitudes que je n’ai pas, une thèse, une réponse à vendre. Il n’y a pas de réponse dans ces cahiers, seulement une question dressée avec assez de soin pour qu’on ne puisse plus la ranger dans un tiroir. Poser proprement une question que d’autres devront trancher, voilà l’unique chose qui soit en mon pouvoir. Le reste appartient à des yeux que je ne connaîtrai jamais, et c’est très bien ainsi. Une carte n’ordonne pas le voyage  ; elle le rend possible.
 
 Ce que je sais maintenant tient, pour la première fois, dans les dix-sept cahiers de mon sac. La carte que j’ai dressée n’est pas une carte des terres. C’est une carte des liens : entre les mystères, entre les langues mortes et les vivantes, entre les esprits qui reculent et la chose qui monte, entre les seuils qui s’ouvrent et les routes qui se rouvrent. Mon père a fait ce chemin avant moi. Il a dressé, sans doute, la même carte, dans ses deux carnets à lui, l’écriture plus appuyée aux consonnes. Il a trouvé le seuil sous le Jumeau. Ce qu’il en a fait, je l’ignore, et je me suis interdit de le deviner, parce que deviner serait consoler, et que je n’ai pas droit à cette consolation-là.
 

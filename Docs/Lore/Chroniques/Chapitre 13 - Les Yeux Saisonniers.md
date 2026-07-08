@@ -10,7 +10,7 @@ status: draft
 
 # Chapitre 13 — Les Yeux Saisonniers
 
-> *« Les yeux ne montrent pas ce qui est. Ils montrent ce qu’on est prêt à voir passer. »*
+> *«  Les yeux ne montrent pas ce qui est. Ils montrent ce qu’on est prêt à voir passer.  »*
 > — dicton des Gardiens des Lisières, Avalor
 
 **Endora — Perivalis, Crestalis, Hekorinth — jours 276 à 300**
@@ -21,9 +21,9 @@ status: draft
 
 L’autorisation vint le neuvième matin. Neuf jours dans le village-sas à regarder la brume tenir la lisière comme un rideau qu’on ne tire pas, à boire l’infusion âcre que la logeuse apportait sans qu’on la demande, à écouter les Gardiens répéter que la forêt m’évaluait et que rien ne pressait la forêt. Rien ne me pressait non plus. Un homme pressé se remarque, et j’avais appris depuis Solena à ne pas me faire remarquer d’une file d’attente.
 
-La logeuse s’appelait Varel. Cinq langues, qu’elle parlait avec l’accent de quelqu’un pour qui la langue n’est jamais une fin, seulement un outil ; le neuvième matin, elle posa le bol devant moi et dit que la Route Verte s’ouvrait.
+La logeuse s’appelait Varel. Cinq langues, qu’elle parlait avec l’accent de quelqu’un pour qui la langue n’est jamais une fin, seulement un outil  ; le neuvième matin, elle posa le bol devant moi et dit que la Route Verte s’ouvrait.
 
-« La forêt vous a senti, » ajouta-t-elle. « Elle vous laisse monter jusqu’à Crestalis. Ce n’est pas rien. Elle referme sur beaucoup. »
+«  La forêt vous a senti,  » ajouta-t-elle. «  Elle vous laisse monter jusqu’à Crestalis. Ce n’est pas rien. Elle referme sur beaucoup.  »
 
 Je la remerciai, sans lui dire que j’avais compté les jours à autre chose qu’à l’ennui. Neuf jours à Perivalis, c’était neuf jours pendant lesquels aucun bateau ne partait vers Ilthara sans que je le sache, neuf jours pour lire qui montait, qui descendait, quels visages revenaient trop souvent au même bout du quai de rondins. Un cartographe attend rarement pour rien : il relève.
 
@@ -31,15 +31,15 @@ La brume se leva d’un coup, sans transition, comme si quelqu’un derrière la
 
 Je ne perdrai pas de pages à la décrire. D’autres l’ont fait, et mieux, avec des mots que je n’ai pas. Ce que je note, c’est ceci : dans une forêt où les arbres, dit-on, gardent la mémoire de tout ce qui passe entre eux, un homme qui a quelque chose à cacher marche autrement. Ma guide, une Gardienne de la région de Crestalia nommée Lyris, me le fit remarquer le premier soir.
 
-« Vous posez le pied comme quelqu’un qui ne veut pas laisser de trace, » dit-elle à mi-voix. « Ce n’est pas la peine. Les arbres ne lisent pas les pas. Ils lisent les intentions. »
+«  Vous posez le pied comme quelqu’un qui ne veut pas laisser de trace,  » dit-elle à mi-voix. «  Ce n’est pas la peine. Les arbres ne lisent pas les pas. Ils lisent les intentions.  »
 
-« Et que lisent-ils dans les miennes ? »
+«  Et que lisent-ils dans les miennes  ?  »
 
 Un moment, elle marcha avant de répondre, et sa réponse ne répondait pas.
 
-« Ils murmurent depuis l’automne. Pas pour vous. Avant vous. Mais ils murmurent plus fort depuis que vous êtes à Perivalis. »
+«  Ils murmurent depuis l’automne. Pas pour vous. Avant vous. Mais ils murmurent plus fort depuis que vous êtes à Perivalis.  »
 
-La date, je la notai. L’automne. Le même automne où les galeries d’Iskara avaient changé de son, où les vibrations de Trinoria s’étaient rapprochées de la surface. Un cartographe coche ainsi un repère qu’il attendait sur la ligne ; il ne le note pas comme un homme qui découvre. La différence ne se voit pas dans le carnet. Elle se voit à la vitesse de la main.
+La date, je la notai. L’automne. Le même automne où les galeries d’Iskara avaient changé de son, où les vibrations de Trinoria s’étaient rapprochées de la surface. Un cartographe coche ainsi un repère qu’il attendait sur la ligne  ; il ne le note pas comme un homme qui découvre. La différence ne se voit pas dans le carnet. Elle se voit à la vitesse de la main.
 
 ---
 
@@ -49,45 +49,45 @@ On m’avait décrit ses yeux avant que je la voie. On disait qu’ils changeaie
 
 En galenorien, la langue de la neutralité, elle m’accueillit.
 
-« On m’écrit que vous avez posé la main sur un chêne de Sanvara et que vous avez entendu battre le centre du monde. »
+«  On m’écrit que vous avez posé la main sur un chêne de Sanvara et que vous avez entendu battre le centre du monde.  »
 
-« J’ai senti quelque chose. Je ne suis pas sûr de savoir l’interpréter. »
+«  J’ai senti quelque chose. Je ne suis pas sûr de savoir l’interpréter,  » dis-je du ton plat que je garde pour les relevés qui comptent, ceux qu’on note comme les autres pour qu’ils s’y perdent.
 
-« Vous êtes cartographe. »
+«  Vous êtes cartographe.  »
 
-« Je l’étais, » dis-je.
+«  Je l’étais,  » dis-je.
 
-« Un cartographe dans une forêt qui n’emploie pas de cartes. » Un instant, elle regarda ses mains, comme pour y vérifier la saison. « Pourquoi Avalor ? »
+«  Un cartographe dans une forêt qui n’emploie pas de cartes.  » Un instant, elle regarda ses mains, comme pour y vérifier la saison. «  Pourquoi Avalor  ?  »
 
 La réponse vraie, je la lui donnai, qui est toujours la meilleure couverture. Un phénomène perçu d’abord dans les mines d’Alkaran, retrouvé sous d’autres formes à chaque terre traversée, et que je n’avais pas encore de mots pour nommer : voilà ce que je cherchais. Les bardes de Sarandel me l’avaient montré en musique. D’Avalor, j’espérais une autre écoute.
 
-« La Catena Fracta, » dit-elle.
+«  La Catena Fracta,  » dit-elle.
 
 Pas une question. Le nom d’une personne qu’on attend depuis longtemps.
 
-« Vous connaissez ce mot. »
+«  Vous connaissez ce mot.  »
 
-« Nous l’appelons autrement. Mais oui. » Ses yeux se levèrent, et le vert s’y était encore approfondi. « Les esprits en parlent depuis l’automne. Certains sont anciens, des entités qui n’avaient jamais montré d’agitation en mille ans, et qui se mettent à murmurer, comme s’ils percevaient au loin une présence importante sans encore avoir les termes pour en parler. Mon prédécesseur m’avait dit qu’ils n’avaient été ainsi qu’une fois, avant ce que nous appelons le Silence de Wildoria, il y a quatre siècles. La mémoire de la cause s’est dispersée de génération en génération. Les racines, elles, en gardent l’empreinte. »
+«  Nous l’appelons autrement. Mais oui.  » Ses yeux se levèrent, et le vert s’y était encore approfondi. «  Les esprits en parlent depuis l’automne. Certains sont anciens, des entités qui n’avaient jamais montré d’agitation en mille ans, et qui se mettent à murmurer, comme s’ils percevaient au loin une présence importante sans encore avoir les termes pour en parler. Mon prédécesseur m’avait dit qu’ils n’avaient été ainsi qu’une fois, avant ce que nous appelons le Silence de Wildoria, il y a quatre siècles. La mémoire de la cause s’est dispersée de génération en génération. Les racines, elles, en gardent l’empreinte.  »
 
 J’écrivais. Ma main s’arrêta, non parce qu’elle tremblait, mais parce qu’un homme qui écrit sans lever les yeux finit par le faire remarquer. Puis je relevai la tête.
 
-« Depuis l’automne, » dis-je. « Vous êtes certaine de la saison. »
+«  Depuis l’automne,  » dis-je. «  Vous êtes certaine de la saison.  »
 
-« On ne se trompe pas de saison, ici. » Elle sourit à peine. « C’est la seule chose dont nous soyons certains. »
+«  On ne se trompe pas de saison, ici.  » Elle sourit à peine. «  C’est la seule chose dont nous soyons certains.  »
 
 Longtemps, elle m’observa, et je soutins le regard, parce que baisser les yeux devant quelqu’un qui lit les intentions revient à en avouer une. Puis elle dit une chose que je n’ai pas cessé de relire depuis.
 
-« Les esprits ne murmurent pas de vous, cartographe. Ils murmurent de ce que vous portez. Vous et la chose ne faites pas le même bruit. »
+«  Les esprits ne murmurent pas de vous, cartographe. Ils murmurent de ce que vous portez. Vous et la chose ne faites pas le même bruit.  »
 
-« Je ne porte qu’un carnet. »
+«  Je ne porte qu’un carnet.  »
 
-« Je sais, » dit-elle. « C’est ce qui m’inquiète. »
+«  Je sais,  » dit-elle. «  C’est ce qui m’inquiète.  »
 
-Je ne lui demandai pas de préciser. On ne demande pas à voir plus clair à quelqu’un dont les yeux changent avec les saisons ; on risque qu’il vous montre.
+Je ne lui demandai pas de préciser. On ne demande pas à voir plus clair à quelqu’un dont les yeux changent avec les saisons  ; on risque qu’il vous montre.
 
 Le lendemain, Lyris me mena à l’étang de Mornath, dont on dit que l’eau ne reflète pas le ciel mais ce qu’on lui apporte. La phrase, je l’avais notée comme une image de peuple, à vérifier. Elle se vérifia, à sa manière, qui n’est jamais celle qu’on attend. L’eau était sombre comme du verre teinté, immobile malgré le vent. Accroupi au bord, je ne vis pas mon reflet. À la place où mon visage aurait dû être s’ouvrait une profondeur en couches, de plus en plus froides, de plus en plus anciennes, la même strate sans nom que les druides trouvent au fond des racines de Zorathis quand ils descendent plus bas que la mémoire d’Avalor. Comme si l’étang refusait de me montrer, moi, pour ne montrer que ce que je descendais y chercher.
 
-« L’étang réfléchit les questions, pas les hommes, » dit Lyris derrière moi.
+«  L’étang réfléchit les questions, pas les hommes,  » dit Lyris derrière moi.
 
 Sans lui répondre, je me relevai. Ma question et ce fond obscur étaient la même chose, et je la portais dans un carnet, pliée en relevés, depuis bien avant Avalor. Un étang qui montre ce qu’on cherche reste sans danger tant que celui qui s’y penche feint d’ignorer ce qu’il va voir. Je le savais, et je me penchai quand même, et je notai la couleur de l’eau, parce que noter la couleur d’une eau est ce que fait un homme qui ne veut pas noter le reste.
 
@@ -103,25 +103,25 @@ Je le reconnus avant de reconnaître son visage. On m’avait décrit une main g
 
 Il ne dit rien. C’était sa manière. Alors je parlai le premier, ce qui était exactement ce qu’il voulait, et nous le savions tous les deux.
 
-« Vous attendez quelqu’un. »
+«  Vous attendez quelqu’un.  »
 
-« Je constate. »
+«  Je constate.  »
 
-« On me constate beaucoup, ces derniers mois, » observai-je.
+«  On me constate beaucoup, ces derniers mois,  » observai-je.
 
-« Vous voyagez beaucoup. » La voix restait basse, sans hâte, avec la politesse froide de ceux qui n’ont pas besoin de l’élever parce que le silence travaille pour eux. « Un homme sans aveu, sans cause, sans argent visible, qui traverse treize pays et s’attarde là où les savants meurent. On finit par relever la coïncidence. »
+«  Vous voyagez beaucoup.  » La voix restait basse, sans hâte, avec la politesse froide de ceux qui n’ont pas besoin de l’élever parce que le silence travaille pour eux. «  Un homme sans aveu, sans cause, sans argent visible, qui traverse treize pays et s’attarde là où les savants meurent. On finit par relever la coïncidence.  »
 
-« C’est le mot que vous employez. Coïncidence. »
+«  C’est le mot que vous employez. Coïncidence.  »
 
-« C’est le mot que d’autres emploieraient. » Le gant ne bougea pas. « Moi, je ne conclus pas. Je note où vous êtes, et j’attends que la ligne se ferme. Vous connaissez le principe. Vous dessinez des lignes. »
+«  C’est le mot que d’autres emploieraient.  » Le gant ne bougea pas. «  Moi, je ne conclus pas. Je note où vous êtes, et j’attends que la ligne se ferme. Vous connaissez le principe. Vous dessinez des lignes.  »
 
 Le gant, je le regardai, puis la mer derrière lui, grise sous le ciel d’Endora.
 
-« Vous êtes des nôtres, » dis-je. Ce n’était pas une accusation. C’était un relevé. Un Délié reconnaît un Délié à ce que l’air ne fait pas, autour de lui, ce qu’il fait autour des autres. « On vous a envoyé parce qu’il faut un instrument vide pour en traquer un autre. »
+«  Vous êtes des nôtres,  » dis-je. Ce n’était pas une accusation. C’était un relevé. Un Délié reconnaît un Délié à ce que l’air ne fait pas, autour de lui, ce qu’il fait autour des autres. «  On vous a envoyé parce qu’il faut un instrument vide pour en traquer un autre.  »
 
 Pour la première fois, l’homme cessa d’être tout à fait immobile. Pas le visage : celui-là ne bougea pas. Le silence, qui dura une mesure de trop, comme une note qu’on tient pour vérifier qu’elle est juste.
 
-« Bon voyage, cartographe, » dit-il enfin. Et il ne bougea pas quand je passai, si près que j’aurais pu toucher le cuir noir, si près que je sentis qu’il voulait que je le sente : qu’il pouvait m’atteindre, et qu’il choisissait, ce jour-là, de ne pas le faire.
+«  Bon voyage, cartographe,  » dit-il enfin. Et il ne bougea pas quand je passai, si près que j’aurais pu toucher le cuir noir, si près que je sentis qu’il voulait que je le sente : qu’il pouvait m’atteindre, et qu’il choisissait, ce jour-là, de ne pas le faire.
 
 La traque avait eu, jusque-là, la forme d’une notification qui voyage plus vite que les caravanes, d’une porte fermée d’avance, d’un guetteur au bout d’un quai. Désormais, elle avait un gant, un silence et une patience. Le soir même, je m’embarquai pour la côte d’Haldria, en sachant que la patience est l’arme des chasseurs qui ont déjà tué et savent que rien ne presse.
 
@@ -137,67 +137,67 @@ Une succession de mauvais choix me déposa sur une petite place fermée, trois f
 
 M’entendant approcher, elle parla sans se retourner, dans le galenorien des ports.
 
-« Vous cherchez le port. Tout le monde cherche le port. Descendez toujours à gauche, ne prenez jamais les passages couverts. »
+«  Vous cherchez le port. Tout le monde cherche le port. Descendez toujours à gauche, ne prenez jamais les passages couverts.  »
 
-« Je cherche d’abord une astronome. »
+«  Je cherche d’abord une astronome.  »
 
 Elle se retourna. La quarantaine, les tempes grises, le calme des gens qui passent leur vie immobiles à regarder ce qui bouge. Du regard, elle me jaugea, s’arrêta sur les instruments à ma ceinture, sur les cartes qui débordaient de la sacoche.
 
-« Vous en avez trouvé une, » dit-elle. « Ce qui prouve que vous savez chercher, ou que vous avez de la chance. Les deux se ressemblent de loin. »
+«  Vous en avez trouvé une,  » dit-elle. «  Ce qui prouve que vous savez chercher, ou que vous avez de la chance. Les deux se ressemblent de loin.  »
 
 Vessane : Second Observatoire, dix-huit ans de service, spécialiste des étoiles de fond, celles qu’on dit fixes.
 
-« Qui ne devraient pas bouger, » ajouta-t-elle, du ton d’une évidence qu’on rappelle à qui ne la connaît pas encore.
+«  Qui ne devraient pas bouger,  » ajouta-t-elle, du ton d’une évidence qu’on rappelle à qui ne la connaît pas encore.
 
 ---
 
 Le soir venu, elle m’invita à monter chez elle, de cette manière haldriène qui rend l’invitation assez légère pour qu’un refus n’offense pas. Sa maison était à mi-pente, la terrasse tournée plein est vers la mer. Le repas, elle le fit elle-même, une soupe de coquillages dans un bouillon d’herbes marines, avec l’efficacité tranquille des solitaires qui ont appris à se suffire. Nous mangeâmes face à l’eau qui passait du gris de métal à l’encre, et ses yeux revenaient sans cesse à la fenêtre, non vers la mer mais vers le ciel au-dessus, où les premières étoiles apparaissaient.
 
-« Vous cherchez quoi, ce soir ? » demandai-je.
+«  Vous cherchez quoi, ce soir  ?  » demandai-je, la nuit ayant gagné la baie et vidé la fenêtre de tout sauf du ciel.
 
-« Rien que je ne sache déjà. Ce que je vérifie. »
+«  Rien que je ne sache déjà. Ce que je vérifie,  » dit-elle sans quitter des yeux le carré de ciel dans la fenêtre, comme si la réponse s’y tenait et moi seulement dans la pièce.
 
 Après le repas, elle sortit de la remise un réflecteur de constellation, métal poli, verre taillé, une échelle d’angles. L’instrument, elle le maniait sans le voir, comme un outil devenu partie du bras. Le ciel d’Haldria, ce soir-là, avait une densité que je n’avais plus perçue depuis les nuits sèches de Lythar. Elle pointa l’instrument vers un point précis et me le tendit.
 
-« Regardez cette étoile. »
+«  Regardez cette étoile.  »
 
 Une étoile blanche, un peu bleutée, d’une grandeur ordinaire, que je regardai.
 
-« Elle clignote, » dit-elle.
+«  Elle clignote,  » dit-elle.
 
-« Toutes les étoiles clignotent, vues du sol. L’air. »
+«  Toutes les étoiles clignotent, vues du sol. L’air.  »
 
-« Pas comme ça. »
+«  Pas comme ça.  »
 
 Elle reprit l’instrument, régla l’échelle, me le rendit. À travers le verre recalibré, je vis ce qu’elle voulait dire. Le tremblement de cette étoile n’était pas le frémissement continu de l’atmosphère : il avait un rythme. Une baisse lente, un retour, une régularité que le hasard ne produit pas. Une ombre passait devant l’étoile, et repassait.
 
-« Une occlusion, » dis-je.
+«  Une occlusion,  » dis-je.
 
-« Une ombre. » Elle s’assit sur la balustrade, la mer noire dessous. « Nous les avons notées voici cinq ans. Une étoile, puis deux, puis sept. Sans logique de position. Les prêtres de l’Ordre ont cherché dans les textes des planètes non cataloguées, des nuages de matière. Aucune explication ne tient : les planètes ont des trajectoires, ces ombres n’en ont pas. »
+«  Une ombre.  » Elle s’assit sur la balustrade, la mer noire dessous. «  Nous les avons notées voici cinq ans. Une étoile, puis deux, puis sept. Sans logique de position. Les prêtres de l’Ordre ont cherché dans les textes des planètes non cataloguées, des nuages de matière. Aucune explication ne tient : les planètes ont des trajectoires, ces ombres n’en ont pas.  »
 
-« Combien aujourd’hui ? »
+«  Combien aujourd’hui  ?  »
 
 Elle hésita, non par réticence, par exactitude. Un chiffre qu’elle pouvait défendre, voilà ce qu’elle voulait donner.
 
-« Vingt-trois. Confirmées. »
+«  Vingt-trois. Confirmées.  »
 
 Elle m’apprit qu’elles se regroupaient dans trois figures que les Haldriens nommaient depuis toujours : la Couronne, le Voyageur, le Manteau. Les trois qui servaient de repères aux pilotes de la Flotte de la Constellation d’Argent. Les trois que les marins gardent dans le corps autant que dans les instruments. Un second registre suivit, celui-là ne venant pas des prêtres mais des pilotes : les tables de correction nautique, où les capitaines notent l’écart entre la position attendue d’une étoile et celle qu’il faut viser pour tenir une route droite. Les vieilles corrections partaient dans tous les sens, erreurs d’homme et ciels couverts. Depuis l’automne précédent, cinq lignes avaient dévié ensemble, faiblement, constamment, toutes dans le même sens, comme si le repère lui-même glissait vers un point qu’on ne voit pas.
 
 Mes yeux allèrent aux dates dans la marge. La plus ancienne des corrections nouvelles.
 
-« L’automne dernier, » dis-je.
+«  L’automne dernier,  » dis-je.
 
-« Oui. »
+«  Oui.  »
 
-« Vessane. » Je posai le stylet. « J’ai un carnet plein de dates. Des mineurs d’Alkaran qui entendent autre chose dans les galeries depuis le même automne. Des esprits d’Avalor qui murmurent depuis le même automne. Un sol qui s’est modifié d’un demi-ton, disent les druides, il y a dix-huit mois. Vos étoiles glissent depuis l’automne. Ce ne sont pas les mêmes instruments. Ce sont les mêmes dates. »
+«  Vessane.  » Je posai le stylet. «  J’ai un carnet plein de dates. Des mineurs d’Alkaran qui entendent autre chose dans les galeries depuis le même automne. Des esprits d’Avalor qui murmurent depuis le même automne. Un sol qui s’est modifié d’un demi-ton, disent les druides, il y a dix-huit mois. Vos étoiles glissent depuis l’automne. Ce ne sont pas les mêmes instruments. Ce sont les mêmes dates.  »
 
 Son regard se posa longuement sur moi, avec l’attention qu’elle donnait aux étoiles, précise, sans distance.
 
-« Vous voyez une connexion, » dit-elle. « Ou vous voulez en voir une. »
+«  Vous voyez une connexion,  » dit-elle. «  Ou vous voulez en voir une.  »
 
-« La différence m’importe. »
+«  La différence m’importe.  »
 
-« C’est exactement ce que dirait un astronome. » Un demi-sourire lui vint, qui n’attendait pas de réponse. « Les meilleurs d’entre nous notent ce qu’ils ne savent pas conclure, et meurent parfois sans avoir conclu. C’est la condition. Les autres concluent, et se trompent. »
+«  C’est exactement ce que dirait un astronome.  » Un demi-sourire lui vint, qui n’attendait pas de réponse. «  Les meilleurs d’entre nous notent ce qu’ils ne savent pas conclure, et meurent parfois sans avoir conclu. C’est la condition. Les autres concluent, et se trompent.  »
 
 ---
 
@@ -205,51 +205,51 @@ Les nuits suivantes, elle me laissa revenir. À Hekorinth, je restai plus longte
 
 Le huitième jour, elle m’emmena au Premier Observatoire, la vieille tour de Haldros, le fondateur, bâtie deux siècles avant les autres sur une falaise tournée plein est. On n’y venait plus pour ses instruments, dépassés, mais pour l’orientation que Haldros avait choisie. Le plafond de la salle était percé de canaux étroits. L’un d’eux, me montra Vessane, ne pointait vers aucune étoile cataloguée : il visait le point du ciel d’où Haldros avait vu, une seule nuit, une figure qu’il n’avait jamais revue, et dont l’attente de retour avait décidé l’emplacement même de la ville.
 
-« Il a placé toute une capitale pour regarder un endroit vide, » dit-elle. « On appelle ça la folie d’un fondateur. Ou la patience d’un homme qui savait attendre ce qu’il ne verrait pas. »
+«  Il a placé toute une capitale pour regarder un endroit vide,  » dit-elle. «  On appelle ça la folie d’un fondateur. Ou la patience d’un homme qui savait attendre ce qu’il ne verrait pas.  »
 
 Ma carte céleste, je la sortis, une copie simplifiée de la Grande Carte de Gryndor, et je cherchai vers quoi le canal pointait. Peu de temps me suffit. Cinq des vingt-trois étoiles qui glissaient se tenaient là, dans le secteur exact que Haldros scrutait depuis sa tour, dans la figure du Manteau.
 
-« Cinq sur vingt-trois, » dis-je. « Dans l’angle qu’il gardait. »
+«  Cinq sur vingt-trois,  » dis-je. «  Dans l’angle qu’il gardait.  »
 
-« Peut-être un hasard. » Elle ne le pensait pas. « Les points du ciel sont nombreux. Cinq peuvent tomber ensemble par accident. »
+«  Peut-être un hasard.  » Elle ne le pensait pas. «  Les points du ciel sont nombreux. Cinq peuvent tomber ensemble par accident.  »
 
-« Peut-être. » Je le notai, et je laissai, ce que je fais quand un fait converge trop bien pour que j’aie le droit de m’en réjouir. Un cartographe qui écarte une coïncidence parce qu’elle l’arrange commet exactement l’erreur qu’un cartographe qui la retient trop vite commet en sens inverse. Je laissai reposer. Mais je notai aussi, plus bas, que l’homme qui avait bâti Hekorinth pour attendre un retour et l’homme qui, à Kharazir, avait trouvé sous les collines une inscription qu’il n’aurait pas dû comprendre se ressemblaient d’une façon qui ne me plaisait pas. Mon père aussi avait passé sa vie à regarder un endroit vide.
+«  Peut-être.  » Je le notai, et je laissai, ce que je fais quand un fait converge trop bien pour que j’aie le droit de m’en réjouir. Un cartographe qui écarte une coïncidence parce qu’elle l’arrange commet exactement l’erreur qu’un cartographe qui la retient trop vite commet en sens inverse. Je laissai reposer. Mais je notai aussi, plus bas, que l’homme qui avait bâti Hekorinth pour attendre un retour et l’homme qui, à Kharazir, avait trouvé sous les collines une inscription qu’il n’aurait pas dû comprendre se ressemblaient d’une façon qui ne me plaisait pas. Mon père aussi avait passé sa vie à regarder un endroit vide.
 
 La cinquième nuit, elle sortit de sa poche un feuillet plié : une page de son carnet, détachée avec soin. Les coordonnées des vingt-trois étoiles, les mesures d’occlusion comparées sur cinq ans. Des données qui n’étaient pas publiques, et ne le deviendraient peut-être jamais tant que l’Ordo Caelum les traiterait comme une anomalie à surveiller plutôt qu’un fait à comprendre.
 
-« Un cartographe en voyage, » dit-elle, « transporte des choses que les canaux officiels ne portent pas toujours. »
+«  Un cartographe en voyage,  » dit-elle, «  transporte des choses que les canaux officiels ne portent pas toujours.  »
 
 Le feuillet, je le pris. Léger dans la main, lourd dans le sac.
 
-« À qui le montrer ? »
+«  À qui le montrer  ?  »
 
-« À quelqu’un qui comprend les étoiles et n’a pas peur de ce qu’elles disent. » Elle marqua un temps. « Ils sont rares. »
+«  À quelqu’un qui comprend les étoiles et n’a pas peur de ce qu’elles disent.  » Elle marqua un temps. «  Ils sont rares.  »
 
 C’est là que j’ai fait ce que je ne fais pas. Cette décision, je l’avais prise, je crois, dès qu’elle avait posé le chiffre sur la table, vingt-trois, confirmées, avec ce mot, confirmées, qui n’était pas le mot d’une femme qui doute encore, mais celui d’une femme qui a écrit sa conclusion et attend qu’on la lui prenne des mains. Un savant qui a confirmé et qui parle est un savant que l’appareil range dans une liste, et cette liste-là, je sais comment elle circule.
 
-« Vessane. Écoutez-moi une fois, et ne me demandez pas comment je le sais. »
+«  Vessane. Écoutez-moi une fois, et ne me demandez pas comment je le sais.  » Les mots vinrent sans le calme dont je borne d’ordinaire ce que je dis, posés trop vite pour un homme qui pèse tout.
 
 Elle reposa le réflecteur.
 
-« Les signalements académiques d’Endora ne partent pas d’ici. Ils remontent à Perivalis, et de Perivalis au relais de Haltheria, et ils partent toujours avant la nouvelle lune, parce que les courriers de nuit se lisent au fanal et qu’on choisit les nuits sombres. Nous sommes à six jours de la nouvelle lune. Si votre nom est déjà parti, vous ne pouvez rien y faire. S’il n’est pas parti, il partira dans six jours. Dans les deux cas, vous ne devriez pas être sur cette terrasse dans neuf jours, à la même heure, avec le même instrument, à l’endroit exact où l’on vous trouve tous les soirs. »
+«  Les signalements académiques d’Endora ne partent pas d’ici. Ils remontent à Perivalis, et de Perivalis au relais de Haltheria, et ils partent toujours avant la nouvelle lune, parce que les courriers de nuit se lisent au fanal et qu’on choisit les nuits sombres. Nous sommes à six jours de la nouvelle lune. Si votre nom est déjà parti, vous ne pouvez rien y faire. S’il n’est pas parti, il partira dans six jours. Dans les deux cas, vous ne devriez pas être sur cette terrasse dans neuf jours, à la même heure, avec le même instrument, à l’endroit exact où l’on vous trouve tous les soirs.  »
 
 Sur moi se posa le regard qu’on pose sur une étoile qui vient de se déplacer d’un degré qu’elle n’avait pas le droit de parcourir.
 
-« Comment un cartographe connaît-il les nuits de courrier de l’appareil académique. »
+«  Comment un cartographe connaît-il les nuits de courrier de l’appareil académique.  » La question vint sans monter au bout, du ton dont elle relevait un angle : une mesure à vérifier, pas un cri.
 
-« Je vous ai demandé de ne pas me le demander. »
+«  Je vous ai demandé de ne pas me le demander.  »
 
-« Vous me demandez de fuir, » dit-elle.
+«  Vous me demandez de fuir,  » dit-elle.
 
-« Je vous demande de ne plus être prévisible. Ce n’est pas la même chose. Une étoile qu’on peut prédire, on la vise. »
+«  Je vous demande de ne plus être prévisible. Ce n’est pas la même chose. Une étoile qu’on peut prédire, on la vise.  »
 
 Elle resta longtemps sans parler. La mer travaillait en bas contre les récifs, et les fanaux des phares poursuivaient leur langage régulier, indifférent.
 
-« Vous avez peur pour moi, » dit-elle enfin, et il y avait dans sa voix quelque chose qui ressemblait à de la gratitude, ce qui était la pire chose qu’elle pût mettre là. « Pourquoi un homme qui me connaît depuis cinq nuits aurait peur pour moi. »
+«  Vous avez peur pour moi,  » dit-elle enfin, et il y avait dans sa voix quelque chose qui ressemblait à de la gratitude, ce qui était la pire chose qu’elle pût mettre là. «  Pourquoi un homme qui me connaît depuis cinq nuits aurait peur pour moi.  »
 
 Aucune réponse que je pusse lui donner ne me venait. La vraie, je ne me la donne pas à moi-même volontiers. Je ne lui dis pas que j’avais passé quatre-vingt-dix jours à arriver juste après des gens comme elle, à recueillir ce qu’ils savaient pendant que d’autres se chargeaient de les faire taire, et que je m’étais juré, quelque part entre Valoria et ici, de ne jamais faire ce que j’étais en train de faire, parce que le faire une fois coûte toujours à quelqu’un d’autre. Je le savais. Je le fis quand même. C’est la seule fois du voyage où je me suis conduit comme l’homme que je feins d’être.
 
-« Partez chez votre sœur à Haltheria, » dis-je. « Emportez vos tables. Laissez le réflecteur ici, pour qu’on croie que vous revenez. »
+«  Partez chez votre sœur à Haltheria,  » dis-je. «  Emportez vos tables. Laissez le réflecteur ici, pour qu’on croie que vous revenez.  »
 
 Elle partit le lendemain à l’aube. Le réflecteur resta sur la balustrade.
 
@@ -273,7 +273,7 @@ Je ne recommencerai pas. Cette phrase, je l’écris à plat, sans emphase, comm
 
 Le courrier de Mira m’attendait à l’auberge, arrivé par le même flux marchand qui emportait mes cahiers.
 
-Plus court que les précédents, ce billet-là. Trois lettres m’étaient parvenues depuis Kharazir, chacune plus mince que la dernière, celle-ci tenant sur une seule face. Mira Dasthen n’est pas une femme qui gaspille l’encre, mais elle n’est pas non plus une femme qui écrit court quand elle a de la place. Elle me demandait si mes lettres à moi avaient bien changé, ou si c’était son idée. Deux personnes, écrivait-elle, étaient venues aux Archives poser des questions sur le classement de mon dossier, poliment, sans papiers officiels ; elle leur avait répondu ce qu’elle répond toujours, à savoir rien, mais avait remarqué qu’ils connaissaient déjà les réponses. Une dernière ligne ne demandait rien et était la seule qui comptait : *Écris-moi que tu vas bien, même si ce n’est pas vrai. Je saurai lire lequel des deux.*
+Plus court que les précédents, ce billet-là. Trois lettres m’étaient parvenues depuis Kharazir, chacune plus mince que la dernière, celle-ci tenant sur une seule face. Mira Dasthen n’est pas une femme qui gaspille l’encre, mais elle n’est pas non plus une femme qui écrit court quand elle a de la place. Elle me demandait si mes lettres à moi avaient bien changé, ou si c’était son idée. Deux personnes, écrivait-elle, étaient venues aux Archives poser des questions sur le classement de mon dossier, poliment, sans papiers officiels  ; elle leur avait répondu ce qu’elle répond toujours, à savoir rien, mais avait remarqué qu’ils connaissaient déjà les réponses. Une dernière ligne ne demandait rien et était la seule qui comptait : *Écris-moi que tu vas bien, même si ce n’est pas vrai. Je saurai lire lequel des deux.*
 
 Une feuille, je la pris, y écrivis la date, le lieu, et *Mira,* et je restai devant.
 
@@ -297,6 +297,6 @@ Je repense aux yeux. À ceux de Feylara, qui prennent la couleur de la saison et
 
 *Je ne conclus pas sur ce qu’elle est. Ce n’est pas mon travail de cartographier ce que je ne peux pas voir. Je note qu’elle est là, qu’elle change, et qu’elle change assez pour que des étoiles glissent, des racines murmurent et des sols hésitent en même temps.*
 
-*Je note aussi, plus bas, plus petit, pour que la ligne suivante n’oublie pas la précédente : j’ai laissé un homme mort sur un quai pour en garder une autre en vie, et j’ai appris que je ne sais pas faire ce commerce-là. Un instrument vide résonne avec ce qui l’approche ; il ne devrait pas choisir ce qu’il laisse tomber en s’écartant.*
+*Je note aussi, plus bas, plus petit, pour que la ligne suivante n’oublie pas la précédente : j’ai laissé un homme mort sur un quai pour en garder une autre en vie, et j’ai appris que je ne sais pas faire ce commerce-là. Un instrument vide résonne avec ce qui l’approche  ; il ne devrait pas choisir ce qu’il laisse tomber en s’écartant.*
 
 *Ilthara demain. Un continent, m’a-t-on dit, de dragons et de généraux. Pardine traversera une mer de plus. Elle ne sera pas contente. Moi non plus, mais pour d’autres raisons que je ne mets pas sur cette page, par prudence, et par une habitude que je commence à ne plus savoir distinguer de la prudence.*

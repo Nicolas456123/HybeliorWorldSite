@@ -10,7 +10,7 @@ status: draft
 
 # Chapitre 24 — L’Île Consciente
 
-> *« Evertia n’est pas une terre habitée par des esprits. Evertia est un esprit qui tolère des habitants. »*
+> *«  Evertia n’est pas une terre habitée par des esprits. Evertia est un esprit qui tolère des habitants.  »*
 > — Fronton de l’Académie de Thalenvir
 
 **Evertia — Valmora, puis la forêt de Thalenvir — Jour 578**
@@ -25,7 +25,7 @@ Le patron du bateau, un homme de Solena qui parlait moins que Berand et regardai
 
 La raison de la dernière, je la lui avais demandée.
 
-« Parce qu’elle regarde en retour, avait-il dit. Et deux choses qui se regardent assez longtemps finissent par se reconnaître le droit de se prendre l’une l’autre. »
+«  Parce qu’elle regarde en retour, avait-il dit. Et deux choses qui se regardent assez longtemps finissent par se reconnaître le droit de se prendre l’une l’autre.  »
 
 J’avais noté la phrase sans trancher entre la superstition du marin et la description exacte d’un phénomène que je n’avais pas encore les instruments de mesurer. Le lendemain, la main posée sur le plat-bord tandis que Valmora grandissait dans le détroit, je penchais pour la seconde hypothèse. La première, je la gardais en réserve. Un cartographe qui écarte trop vite se retrouve à redessiner.
 
@@ -41,9 +41,9 @@ Une lettre m’accompagnait.
 
 Cette lettre venait de Cendara, de la main d’un vieux traducteur d’inscriptions que Kessa m’avait fait connaître, adressée au Cercle des Archidruides et scellée de la manière qui n’ouvre pas les portes mais empêche qu’on les claque. Le vieil homme me l’avait tendue avec un demi-sourire.
 
-« Le Cercle ne reçoit pas les curieux, avait-il dit. Il reçoit les questions précises. La vôtre est précise. C’est même ce qui m’inquiète. »
+«  Le Cercle ne reçoit pas les curieux, avait-il dit. Il reçoit les questions précises. La vôtre est précise. C’est même ce qui m’inquiète.  »
 
-Ma question tenait en une ligne. *Depuis quand les esprits d’Evertia se sont-ils tus, et lequel parle encore ?*
+Ma question tenait en une ligne. *Depuis quand les esprits d’Evertia se sont-ils tus, et lequel parle encore  ?*
 
 J’avais écrit cette phrase sur la première page libre de mon cahier, avant même de débarquer, pour l’avoir prête au premier qui accepterait de l’entendre. À la lumière de ce qui a suivi, je la relis maintenant. Prête, elle l’était en effet, préparée pour un homme qui, à l’heure où je la traçais, n’avait plus qu’une nuit à vivre.
 
@@ -51,17 +51,17 @@ J’avais écrit cette phrase sur la première page libre de mon cahier, avant m
 
 Le Gardien lut la lettre à l’aube du second jour, la relut, puis fit venir un second Gardien qui la relut à son tour, et ils échangèrent en evertien quelques mots dont je saisis le rythme sans les mots, le rythme d’une délibération sérieuse et non d’une hésitation de bureau. Puis le premier me dit, en galenorien de comptoir :
 
-« Attendez le soir. »
+«  Attendez le soir.  »
 
 Le soir, un initié traversa le pont depuis la forêt. Jeune, les avant-bras marqués de tatouages rituels, le regard posé non sur mes yeux mais un peu au-dessus, comme s’il suivait quelque chose qui flottait à hauteur de mon front. L’initié annonça que le Cercle acceptait de me recevoir à Thalenvir, l’académie, non à Caëspia, le centre. On m’accordait la périphérie, pas le cœur. C’était plus que je n’avais espéré, et exactement ce dont j’avais besoin.
 
 Son nom, il le donna le lendemain, sur le pont, sans que je le demande. Aerith.
 
-« L’Aînée vous entendra, dit-il. Mais elle vous fera d’abord marcher.
+«  L’Aînée vous entendra, dit-il, et sa voix ne montait pas. Mais elle vous fera d’abord marcher.
 
-— Loin ?
+— Loin  ?
 
-— Jusqu’à ce que vous cessiez de croire que vous choisissez la route. »
+— Jusqu’à ce que vous cessiez de croire que vous choisissez la route.  »
 
 ---
 
@@ -77,17 +77,17 @@ Ce n’était pas la pulsation du Mont Cendra. Celle de Cendra était une pressi
 
 Aerith s’arrêta devant moi sans que j’eusse fait de bruit.
 
-« Elle vous a senti, dit-il, toujours de dos.
+«  Elle vous a senti, dit-il, toujours de dos.
 
-— Qui ? »
+— Qui  ?  »
 
 Aerith eut ce mouvement qui n’était pas un geste, la manière dont un corps désigne ce que les bras n’ont pas à montrer.
 
-« L’île. Vous n’êtes pas comme les marchands. Les marchands, elle les tolère. Vous, elle vous écoute.
+«  L’île. Vous n’êtes pas comme les marchands. Les marchands, elle les tolère. Vous, elle vous écoute.
 
 — Et cela vous inquiète.
 
-— Cela inquiète l’Aînée, dit-il. C’est la même chose, en plus vieux. »
+— Cela inquiète l’Aînée, dit-il, chaque mot planté après l’autre comme on borne un champ. C’est la même chose, en plus vieux.  »
 
 ---
 
@@ -99,45 +99,45 @@ Trois des treize Archidruides seulement acceptèrent de paraître. Deux femmes, 
 
 Mieux valait, répondis-je, arriver avec une question qu’avec une opinion.
 
-« Les deux sont dangereuses, dit-elle. La question l’est moins. Asseyez-vous. »
+«  Les deux sont dangereuses, dit-elle. La question l’est moins.  » D’un geste, elle montra le banc de bois noueux le plus proche. «  Asseyez-vous.  »
 
 Le décompte, elle me l’exposa. Le Silence des Esprits, terme officiel des archives du Cercle, avait commencé à se manifester environ trois ans plus tôt, non d’un coup, mais voix après voix, à des intervalles de jours ou de semaines, ce qui l’avait rendu difficile à consigner. On pouvait toujours espérer, pour chaque esprit devenu muet, que le silence fût passager. Quelques-uns étaient revenus. La plupart n’étaient pas revenus. Sur les deux cent dix-sept esprits-lieux documentés dans l’île, cent quatre-vingt-neuf s’étaient tus. Vingt-huit tenaient encore, mais atténués, entendus comme à travers une paroi épaisse.
 
 Le calcul se faisait vite. Presque neuf sur dix.
 
-« Et parmi ces vingt-huit, dis-je, combien ont encore un veilleur capable de les entendre nettement ? »
+Le chiffre inscrit, je levai les yeux du cahier. «  Et parmi ces vingt-huit, dis-je, combien ont encore un veilleur capable de les entendre nettement  ?  »
 
 L’Aînée me regarda un moment avant de répondre. J’ai revu ce regard souvent depuis. C’était celui de quelqu’un qui mesure le poids exact d’un renseignement avant de le poser sur la table.
 
-« Un, dit-elle. Un seul entend encore franchement. Les autres devinent. Lui entend.
+«  Un, dit-elle.  » Le mot resta seul un moment avant qu’elle lui donne une suite. «  Un seul entend encore franchement. Les autres devinent. Lui entend.
 
-— Où ?
+— Où  ?
 
-— Au-delà d’ici. Une marche vers l’intérieur. Il garde la source haute d’Ourthalle. Il s’appelle Ourven. »
+— Au-delà d’ici. Une marche vers l’intérieur. Il garde la source haute d’Ourthalle. Il s’appelle Ourven.  »
 
 L’homme du Cercle, qui n’avait pas encore parlé, ajouta d’une voix aux voyelles trop ouvertes, apprise dans de vieux textes et non dans des conversations :
 
-« Il ne reçoit pas. Depuis six jours, il ne reçoit plus personne. Un étranger est monté le voir la semaine dernière. Depuis, Ourven a demandé qu’on le laisse. »
+«  Il ne reçoit pas. Depuis six jours, il ne reçoit plus personne. Un étranger est monté le voir la semaine dernière. Depuis, Ourven a demandé qu’on le laisse.  »
 
 Mon poinçon s’immobilisa.
 
-« Quel étranger ?
+«  Quel étranger  ?
 
-— Nous l’ignorons, dit l’homme. Il n’a pas traversé par le pont de Valmora. Personne ne sait par où il est entré. Sur une île fermée depuis quatre cents ans, un homme qui entre sans porte est une nouvelle qu’on se répète bas. »
+— Nous l’ignorons, dit l’homme. Il n’a pas traversé par le pont de Valmora. Personne ne sait par où il est entré. Sur une île fermée depuis quatre cents ans, un homme qui entre sans porte est une nouvelle qu’on se répète bas.  »
 
 Cette manière d’entrer, je la connais. On la trouve dans le carnet de mon père, à la page où il notait que l’appareil ne passe jamais par les ponts qu’on garde. Mais l’homme qui était monté voir Ourven n’appartenait pas à l’appareil. L’appareil signale, mute, classe, et prend son temps parce qu’il croit avoir le monde pour lui. L’appareil ne monte pas seul, sans mandat, sur une île où on le remarquerait. Ce qui était monté vers la source haute d’Ourthalle allait plus vite que l’appareil et ne laissait pas de trace administrative. Le nommer, je ne le savais pas, et je ne le sais toujours pas. Depuis, j’ai appris à distinguer les deux mains qui effacent les gardiens du savoir, la lente, que je devance, et l’autre. L’autre ne se devance pas.
 
-« Je veux le voir, dis-je. Aujourd’hui. »
+«  Je veux le voir, dis-je. Aujourd’hui.  »
 
 L’Aînée ne s’étonna pas.
 
-« Vous ne le sauverez pas d’un silence, dit-elle. Nul ne sauve un esprit qui rentre.
+«  Vous ne le sauverez pas d’un silence, dit-elle. Nul ne sauve un esprit qui rentre.
 
-— Je ne monte pas pour l’esprit. Je monte pour l’homme qui l’entend, tant qu’il l’entend. »
+— Je ne monte pas pour l’esprit. Je monte pour l’homme qui l’entend, tant qu’il l’entend.  »
 
 L’Aînée me considéra encore, et je vis qu’elle avait entendu, dans ma phrase, quelque chose que je n’avais pas voulu y mettre. Un signe partit vers Aerith.
 
-« Menez-le. Vite. La forêt vous ouvrira, si elle juge que c’est utile. Sinon, elle vous perdra, et vous arriverez trop tard de toute manière. »
+«  Menez-le. Vite. La forêt vous ouvrira, si elle juge que c’est utile. Sinon, elle vous perdra, et vous arriverez trop tard de toute manière.  »
 
 ---
 
@@ -149,11 +149,11 @@ La vibration du sol changeait à mesure, se creusait. Dans les zones où un espr
 
 Faute d’en avoir encore le nom, je ne la nommai pas dans mon cahier. Aerith, lui, l’avait.
 
-« Vous le sentez, dit-il, sans s’arrêter.
+«  Vous le sentez, dit-il, sans s’arrêter.
 
 — Je sens une pression. Sous les pieds.
 
-— Nous l’appelons le dessous. Ce n’est pas une profondeur de la terre. C’est ce qui vient quand les esprits s’écartent. Ourven dirait mieux que moi. Ourven l’entend en mots. »
+— Nous l’appelons le dessous, dit-il, sans ralentir le pas, mais le mot vint plus bas que les autres. Ce n’est pas une profondeur de la terre. C’est ce qui vient quand les esprits s’écartent. Ourven dirait mieux que moi. Ourven l’entend en mots.  »
 
 Mon pas se pressa. Le jour baissait dans la voûte. Aerith le sentit et n’eut pas besoin que je le lui demande, se mit à courir. Derrière lui je courus, mon cahier serré contre la poitrine sous le manteau, la question déjà écrite dans ma tête, celle que je répétais depuis Valmora, *depuis quand vous êtes-vous tu, et qu’avez-vous entendu en dernier.* Courir vers un homme pour lui prendre ce qu’il savait avant qu’on ne le lui prenne, voilà ce que je faisais. J’écris cette phrase à plat. Nulle manière de l’adoucir ne me vient, et je n’ai pas le droit d’en chercher.
 
@@ -173,27 +173,27 @@ Je restai un moment debout près de la couche, mon cahier ouvert à la page où 
 
 Un bruit à la porte. L’initié. Pas Aerith, un autre, plus jeune encore, qui avait dû monter par un chemin parallèle et qui se figea sur le seuil en me voyant penché près du mort, mon cahier à la main.
 
-« Vous, dit-il. Vous étiez là. »
+«  Vous, dit-il, le souffle encore court de la montée. Vous étiez là.  »
 
 Je lui montrai mes doigts, encore froids du cou d’Ourven.
 
-« J’arrive, dis-je. Il est mort hier soir. J’étais en mer hier soir. »
+«  J’arrive, dis-je. Il est mort hier soir. J’étais en mer hier soir.  »
 
 Le garçon regarda le corps, puis moi, puis le corps, et je vis sa colère chercher un visage et n’en pas trouver. C’est cela qui me disculpa à ses yeux, non ma parole. Un menteur peut jurer. Un menteur ne peut pas être en mer. La marée de la veille et les récifs témoignaient pour moi mieux que je n’aurais su le faire.
 
-« L’étranger, dit-il enfin. Celui de la semaine dernière. C’est lui.
+«  L’étranger, dit-il enfin. Celui de la semaine dernière. C’est lui.
 
-— Peut-être. Vous l’avez vu ?
+— Peut-être. Vous l’avez vu  ?
 
 — Personne ne l’a vu deux fois, reprit le garçon. Ourven a dit qu’un homme était venu lui poser une question, une seule, et qu’après cette question il avait cessé d’entendre la source. Comme si la question avait fermé la porte.
 
-— Quelle question ? »
+— Quelle question  ?  »
 
 Le garçon me regarda avec quelque chose que je préfère ne pas nommer, parce que le nommer serait me flatter d’une lucidité qu’il n’avait peut-être pas.
 
-« La même que la vôtre, je crois, dit-il. Vous montez tous ici pour lui prendre ce qu’il entend. L’un le lui a pris en une question. Vous, vous seriez reparti avec un cahier plein. Je ne sais pas lequel de vous deux est le pire. »
+«  La même que la vôtre, je crois, dit-il, et les mots ne pressaient plus, ils tombaient. Vous montez tous ici pour lui prendre ce qu’il entend. L’un le lui a pris en une question. Vous, vous seriez reparti avec un cahier plein. Je ne sais pas lequel de vous deux est le pire.  »
 
-Je ne répondis pas. Rien ne se répondait là qui ne fût une défense, et je n’ai pas le droit de me défendre sur cette page. Ses mots, je les notai. Ils sont de lui, non de moi. Que le lecteur en fasse ce qu’il voudra ; moi, je les ai seulement recueillis, comme le reste.
+Je ne répondis pas. Rien ne se répondait là qui ne fût une défense, et je n’ai pas le droit de me défendre sur cette page. Ses mots, je les notai. Ils sont de lui, non de moi. Que le lecteur en fasse ce qu’il voudra  ; moi, je les ai seulement recueillis, comme le reste.
 
 ---
 
@@ -201,7 +201,7 @@ Nous redescendîmes de nuit. Aerith portait une lanterne de résine dont la flam
 
 À mi-pente, il rompit pourtant le silence.
 
-« Vous n’avez pas eu l’air surpris, dit-il.
+«  Vous n’avez pas eu l’air surpris, dit-il.
 
 — Non.
 
@@ -209,19 +209,19 @@ Nous redescendîmes de nuit. Aerith portait une lanterne de résine dont la flam
 
 — C’est mon métier d’écrire ce que je trouve.
 
-— C’est votre métier de trouver », dit-il. Il n’ajouta rien, et ce silence-là fut pire qu’un reproche.
+— C’est votre métier de trouver  », dit-il. Il n’ajouta rien, et ce silence-là fut pire qu’un reproche.
 
 Un moment, je marchai sans répondre. Puis je posai la seule question qui vaille encore, maintenant qu’Ourven ne parlerait pas.
 
-« Il en reste un, avez-vous dit. Un esprit qui parle encore franchement. Ourven l’entendait. Il n’est plus là pour l’entendre. Y a-t-il, ailleurs sur l’île, quelqu’un d’autre qui l’entende ? »
+«  Il en reste un, avez-vous dit. Un esprit qui parle encore franchement. Ourven l’entendait. Il n’est plus là pour l’entendre. Y a-t-il, ailleurs sur l’île, quelqu’un d’autre qui l’entende  ?  »
 
 Aerith s’arrêta. La lanterne fit tourner nos deux ombres, les seules ombres de toute la forêt, celles que la flamme nous prêtait.
 
-« À Sylvara, dit-il enfin. De l’autre côté du détroit, quand la marée le permet. Une gardienne veille la dernière voix qui répond encore. Thalmaris. C’est là que va l’Aînée quand elle veut entendre l’île respirer. Mais la marée ne s’ouvre que certains jours, et vous devrez attendre.
+«  À Sylvara, dit-il enfin. De l’autre côté du détroit, quand la marée le permet. Une gardienne veille la dernière voix qui répond encore. Thalmaris. C’est là que va l’Aînée quand elle veut entendre l’île respirer. Mais la marée ne s’ouvre que certains jours, et vous devrez attendre.
 
 — J’attendrai.
 
-— Vous attendrez », répéta-t-il. Et j’entendis, dans sa voix, qu’il pesait ce que valait un homme prêt à attendre une marée pour arriver, encore, juste après.
+— Vous attendrez  », répéta-t-il. Et j’entendis, dans sa voix, qu’il pesait ce que valait un homme prêt à attendre une marée pour arriver, encore, juste après.
 
 ---
 
@@ -229,63 +229,63 @@ L’Aînée me reçut une dernière fois le lendemain, dans la salle aux murs vi
 
 Elle savait, pour Ourven. Toute l’île savait. Elle n’en parla pas comme d’un malheur, mais comme d’un point sur une carte qu’elle-même tenait depuis trois ans.
 
-« Vous avez trouvé le dernier veilleur mort, dit-elle. Vous n’êtes pas le premier arrivé. Cela vous soulage-t-il ?
+«  Vous avez trouvé le dernier veilleur mort, dit-elle. Vous n’êtes pas le premier arrivé. Cela vous soulage-t-il  ?
 
 — Cela m’apprend une chose, dis-je. Que je ne suis pas celui qui referme les portes. Je suis celui qui arrive après, pour ramasser ce qui traîne encore sur le seuil.
 
-— Ramasser pour qui ?
+— Ramasser pour qui  ?
 
-— Pour que cela ne meure pas avec le veilleur. »
+— Pour que cela ne meure pas avec le veilleur.  »
 
 Son regard, quand elle le posa longuement sur moi, n’était pas tendre.
 
-« Vous vous racontez une belle histoire, cartographe. Vous êtes un homme qui écrit ce qu’il ne peut pas sauver, et qui a fini par organiser sa route autour des mourants parce que ce sont eux qui parlent le plus vrai. Je ne dis pas que c’est un crime. Je dis que ce n’est pas la vertu que vous croyez. »
+«  Vous vous racontez une belle histoire, cartographe. Vous êtes un homme qui écrit ce qu’il ne peut pas sauver, et qui a fini par organiser sa route autour des mourants parce que ce sont eux qui parlent le plus vrai. Je ne dis pas que c’est un crime. Je dis que ce n’est pas la vertu que vous croyez.  »
 
 Je la laissai poser cela sans la contredire, et je l’ai écrite. Elle a raison à demi, comme tous ceux qui me percent à jour cette année. La prédation, elle la voit et la nomme. Ce que j’en fais, en revanche, et pourquoi, cela lui échappe, et je n’ai pas relevé, parce que corriger l’aurait mise sur une piste que je préfère lui laisser fausse.
 
 Alors seulement elle me parla de ce que j’étais venu chercher.
 
-« Vous demandez depuis quand les esprits se taisent, dit-elle. La bonne question est ailleurs. Demandez ce qui parle à leur place.
+«  Vous demandez depuis quand les esprits se taisent, dit-elle. La bonne question est ailleurs. Demandez ce qui parle à leur place.
 
 — Le dessous, dis-je. Aerith l’a nommé ainsi.
 
-— C’est un mot de garde-champêtre. Nous en avons un plus vieux. Les textes de fondation, ceux que nous datons d’avant l’Éveil de l’île, parlent d’une couche sous les profondeurs ordinaires. Pas géologique. Autre. Nos anciens l’appelaient le Panghor. Le Sommeil-sous-les-Sommeils. Tant qu’il dort, disent les textes, les esprits vivent librement, chacun sa voix, chacun son lieu. S’il remue, les esprits sont rappelés à lui, comme des flammes qui rentrent dans le feu qui les a lâchées. »
+— C’est un mot de garde-champêtre. Nous en avons un plus vieux. Les textes de fondation, ceux que nous datons d’avant l’Éveil de l’île, parlent d’une couche sous les profondeurs ordinaires. Pas géologique. Autre. Nos anciens l’appelaient le Panghor. Le Sommeil-sous-les-Sommeils. Tant qu’il dort, disent les textes, les esprits vivent librement, chacun sa voix, chacun son lieu. S’il remue, les esprits sont rappelés à lui, comme des flammes qui rentrent dans le feu qui les a lâchées.  »
 
-« Et le dernier message d’Ourven ? »
+«  Et le dernier message d’Ourven  ?  »
 
 Un instant, elle ferma les yeux.
 
-« Le même que celui reçu par trois de nos Archidruides en communion, il y a deux ans et demi, avant que le Silence ne commence. Trois bouches, la même phrase, au même instant. *Ils arrivent par le dessous.* »
+«  Le même que celui reçu par trois de nos Archidruides en communion, il y a deux ans et demi, avant que le Silence ne commence. Trois bouches, la même phrase, au même instant. *Ils arrivent par le dessous.*  »
 
 Je cessai d’écrire, mes mains à plat sur le cahier. *Ils arrivent par le dessous.* Les mots d’un enfant aux yeux blancs, à Cendra, la main tendue vers ma poitrine. Les mots d’un vieux chamane des hautes plaines d’Alkaran, à mille lieues d’ici, dans une autre langue et le même sens. Les mots gravés au fronton d’une mine dont je n’avais pas retenu le nom. La même formule, dans des bouches qui ne s’étaient pas concertées, sur des continents que rien ne relie sauf la mer. La répétition prouve un lien sans en donner la nature. Je me le suis répété toute la nuit pour ne pas conclure trop vite. C’est la seule discipline qui me reste.
 
-« *Ils*, dis-je enfin. Pas *il*. Le pluriel est dans la formule ?
+«  *Ils*, dis-je enfin. Pas *il*. Le pluriel est dans la formule  ?
 
-— Le pluriel est dans la formule. Nous ne l’expliquons pas. Nous le transmettons tel quel.
+— Le pluriel est dans la formule, dit-elle, et sa voix se fit celle d’une main qui recopie sans lire. Nous ne l’expliquons pas. Nous le transmettons tel quel.
 
-— Et vos textes disent-ils si cela est déjà arrivé ? Une fois avant ?
+— Et vos textes disent-ils si cela est déjà arrivé  ? Une fois avant  ?
 
-— Au conditionnel, toujours, dit-elle. Ils disent que le cycle a une mémoire, et que ce qui descend remonte. Ils ne disent pas où lire cette mémoire. Ils disent qu’un Ancrage la porterait sans le savoir. »
+— Au conditionnel, toujours, dit-elle. Ils disent que le cycle a une mémoire, et que ce qui descend remonte. Ils ne disent pas où lire cette mémoire. Ils disent qu’un Ancrage la porterait sans le savoir.  »
 
 Le mot tomba dans la salle comme une pierre dans un puits que je connaissais déjà. Ancrage. Le mot des inscriptions de Rukhsar. Le mot de Morvath à Cendra. *Les Déliés ne sont pas ceux à qui le lien manque.* Je le lui dis. Je lui dis que les tunnels de mon continent natal portaient le même mot, dans une écriture qu’aucun de nous ne lit, et que le vieux traducteur de Cendara en avait tiré la même hypothèse qu’elle.
 
 Elle me regarda alors comme on relie deux fils qu’on croyait de deux pelotes.
 
-« Vous avez senti la pulsation de Cendra, dit-elle. Aerith m’a rapporté que la forêt vous a écouté. Les esprits de ce bois ont réagi à votre présence, cartographe, et vous êtes un Délié. Les textes disent une chose concrète des Ancrages. Quand le cycle entre dans sa phase de retour, ils commencent à sentir le monde autrement. Pas par la trame des Liés. Par un contact plus brut, parce que les esprits qui filtraient ce contact se sont écartés. Gardez le conditionnel. Il vaut pour tout ce que je vous donne. »
+«  Vous avez senti la pulsation de Cendra, dit-elle. Aerith m’a rapporté que la forêt vous a écouté. Les esprits de ce bois ont réagi à votre présence, cartographe, et vous êtes un Délié. Les textes disent une chose concrète des Ancrages. Quand le cycle entre dans sa phase de retour, ils commencent à sentir le monde autrement. Pas par la trame des Liés. Par un contact plus brut, parce que les esprits qui filtraient ce contact se sont écartés. Gardez le conditionnel. Il vaut pour tout ce que je vous donne.  »
 
 Je laissai cela descendre.
 
 Dans cette hypothèse, ce que je ressentais depuis Cendara n’était pas l’apparition d’une faculté nouvelle. C’était une faculté toujours présente, jusque-là masquée par la présence des esprits, et qui affleurait à mesure qu’ils se taisaient. Je gardai mes réserves. Aucune autre figure ne rendait aussi bien compte de ce que je portais dans les os depuis le premier plateau. Je notai la mienne, laissant les autres possibles ouverts, parce que trois points font une ligne dès qu’on le veut, et qu’un cartographe qui l’oublie dessine ses désirs au lieu du terrain.
 
-« Ce que je porte ne m’appartient pas encore, dis-je, plus pour moi que pour elle.
+«  Ce que je porte ne m’appartient pas encore, dis-je, plus pour moi que pour elle.
 
-— Qu’avez-vous dit ? »
+— Qu’avez-vous dit  ?  »
 
 Je lui répétai les mots de l’enfant aux yeux blancs, ceux du Mont Cendra.
 
 Elle demeura longtemps sans répondre. Quand elle parla, ce ne fut plus la voix d’une Archidruide, mais celle d’une vieille femme devant une chose longtemps espérée et longtemps crainte.
 
-« Alors ce n’était pas un reproche, dit-elle. C’était une consigne. Ce qu’un Ancrage porterait, ce serait la charge de choisir comment le monde de surface se tient pendant le retour. Pas de l’arrêter. Personne n’arrête un cycle. De choisir s’il tient ou s’il se défait. Et cette charge ne vous appartiendrait qu’à mesure que vous comprendriez ce que vous êtes. Tant que vous ne comprenez pas, vous portez sans tenir. »
+«  Alors ce n’était pas un reproche, dit-elle. C’était une consigne. Ce qu’un Ancrage porterait, ce serait la charge de choisir comment le monde de surface se tient pendant le retour. Pas de l’arrêter. Personne n’arrête un cycle. De choisir s’il tient ou s’il se défait. Et cette charge ne vous appartiendrait qu’à mesure que vous comprendriez ce que vous êtes. Tant que vous ne comprenez pas, vous portez sans tenir.  »
 
 Je la regardai, et je ne dis rien, parce qu’il n’y avait rien à dire qui ne fût de trop. Comprendre ce que je suis m’a pris quatorze ans. Elle me croyait au seuil de le découvrir, et je la laissai le croire. C’est le plus grand mensonge que je lui aie fait, et il n’a pas passé mes lèvres. Il a tenu tout entier dans mon silence.
 
@@ -301,7 +301,7 @@ Le garçon de la source avait raison sur un point, et tort sur l’autre. Je ne 
 
 Le cinquième jour, la marée s’ouvrit sur Sylvara. Aerith vint me le dire à l’aube, sans frapper, parce que sur cette île on n’a pas besoin de frapper pour savoir qu’un homme est réveillé.
 
-« L’Aînée y va, dit-il. Elle vous emmène. Elle dit qu’il faut que vous entendiez la dernière voix pendant qu’elle répond encore. Après, il n’y en aura plus, et vous serez de nouveau le second arrivé. »
+«  L’Aînée y va, dit-il. Elle vous emmène. Elle dit qu’il faut que vous entendiez la dernière voix pendant qu’elle répond encore. Après, il n’y en aura plus, et vous serez de nouveau le second arrivé.  »
 
 Je rangeai mes affaires plus vite que le premier jour. La lettre de glyphes qu’on ne me donna pas, celle que je n’aurai pas eue, je la pliai et notai à sa place, dans la marge, sous deux traits :
 

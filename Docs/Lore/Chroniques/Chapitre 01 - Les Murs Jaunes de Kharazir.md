@@ -24,20 +24,22 @@ Au second coup, j’ai ouvert.
 
 Le nom de celui qui se tenait sur le seuil, je ne l’écrirai pas. Un homme que j’avais autrefois tenu pour un collègue, les tempes grises, le regard de quelqu’un qui a appris à ne pas trop regarder. Il portait les formulaires de saisie à deux mains, comme un objet fragile, ou contaminant. Derrière lui, trois hommes patientaient. Pas des soldats. Des archivistes aux mains propres, des gens de bureau à qui l’on avait confié cette tâche précisément parce qu’elle ne ressemblait pas à ce qu’elle était.
 
-« Sorin.
-— Archiviste. »
+«  Sorin.
+— Archiviste.  »
 
 Les yeux baissés vers son formulaire, il parut soulagé que je lui offre un titre derrière lequel se cacher. Employer mon prénom avait été sa première faute, qu’il sentit aussitôt, sans y revenir.
 
-« Par décision du Bureau des Brevets et sur instruction de la Direction des Archives, tout travail cartographique produit dans le cadre de votre fonction doit être remis pour examen.
-— Ils sont dans cette pièce, dis-je.
-— Je dois aussi vous demander les copies privées. »
+Quand il reprit, ce fut du débit plat des hommes qui récitent, un mot posé après l’autre pour n’avoir pas à peser ce qu’ils disent.
+
+«  Par décision du Bureau des Brevets et sur instruction de la Direction des Archives, tout travail cartographique produit dans le cadre de votre fonction doit être remis pour examen.
+— Ils sont dans cette pièce, dis-je en montrant la pile que j’avais rangée moi-même avant l’aube.
+— Je dois aussi vous demander les copies privées.  »
 
 Mon regard resta sur lui jusqu’à ce qu’il détourne les yeux. Nous savions l’un et l’autre que cette phrase n’était pas une demande, mais une perquisition déguisée en procédure.
 
-« Les copies privées ne figurent pas dans vos formulaires.
+«  Les copies privées ne figurent pas dans vos formulaires.
 — Sorin, je vous en prie, insista-t-il.
-— Archiviste. »
+— Archiviste.  »
 
 Cette fois, il ne releva pas. On ne déplace pas une armée contre un cartographe de trente-quatre ans. On envoie des hommes de bureau munis de papiers et d’un air d’excuse professionnelle, et l’on compte sur la honte pour faire le reste.
 
@@ -47,12 +49,12 @@ Tout cela partait dans des caisses de bois qu’on clouait une à une sur le seu
 
 Ce qu’ils ne savaient pas, ce que personne ne savait, parce que j’avais pris garde de ne jamais l’inscrire dans aucun registre, c’est que je gardais dans ma veste, depuis la veille, le carnet de mon père.
 
-L’archiviste s’attarda sur le pas de la porte quand les autres furent descendus. Il cherchait, je crois, quelque chose à me dire qui ne fût pas une consigne.
+L’archiviste s’attarda sur le pas de la porte quand les autres furent descendus. Il cherchait, je crois, quelque chose à me dire qui ne fût pas une consigne. Quand il le trouva, le débit récité avait quitté sa voix, et ce qui restait était plus lent, plus bas, à lui.
 
-« Ce n’est pas moi qui ai monté ce dossier.
+«  Ce n’est pas moi qui ai monté ce dossier.
 — Je sais.
 — On m’a désigné parce que nous nous connaissons, dit-il. Ils pensent que c’est plus doux.
-— C’est en effet ce qu’ils pensent. »
+— C’est en effet ce qu’ils pensent.  »
 
 La bouche ouverte, puis refermée, il emporta sa peine avec ses caisses. Contre lui, aucun grief. La colère que j’avais alors était froide, et la colère froide ne se dépense pas sur les exécutants.
 
@@ -62,46 +64,46 @@ Mira Dasthen était venue la nuit d’avant.
 
 Deux coups brefs sur la porte, le code que nous employions depuis deux ans pour nos échanges de documents, une habitude de bureau qui, cette nuit-là, prenait un autre poids. Un manteau sombre la couvrait, et son souffle court disait qu’elle avait marché vite. Elle ne franchit pas le seuil, mais resta dans l’embrasure, à la limite exacte au-delà de laquelle sa seule présence chez moi aurait suffi à la salir.
 
-« N’allume pas.
-— Je n’allumais pas. »
+«  N’allume pas.
+— Je n’allumais pas.  »
 
 Elle jeta un regard dans le couloir, derrière elle, puis parla vite et bas.
 
-« Ton rapport n’a pas été enregistré. Le directeur l’a classé lui-même, dans les deux heures, sans en référer à personne. Une copie est partie ce soir par la malle rapide, vers Prismalith, vers le bureau du Grand Recteur Thalendris. Ce qui reviendra de lui dans treize jours ne fera que confirmer un dossier déjà enterré.
-— Et le reste ?
-— L’accusation de sympathie Catena Fracta est sortie ce matin, reprit-elle. D’un dossier que tu n’as jamais vu. Ils viendront pour tes cartes demain. Ils espèrent que tu résisteras. »
+«  Ton rapport n’a pas été enregistré. Le directeur l’a classé lui-même, dans les deux heures, sans en référer à personne. Une copie est partie ce soir par la malle rapide, vers Prismalith, vers le bureau du Grand Recteur Thalendris. Ce qui reviendra de lui dans treize jours ne fera que confirmer un dossier déjà enterré.
+— Et le reste  ?
+— L’accusation de sympathie Catena Fracta est sortie ce matin, reprit-elle. D’un dossier que tu n’as jamais vu. Ils viendront pour tes cartes demain. Ils espèrent que tu résisteras.  »
 
 Dans le noir, je hochai la tête, ce qu’elle ne pouvait pas voir. Rien de ce qu’elle m’apprenait ne me surprenait. C’est une chose que j’ai apprise de mon père sans le savoir : tout ce qui touche aux Déliés d’avant l’Arrachement tombe, depuis des années, sous une consigne permanente venue de Prismalith. Un rapport comme le mien ne se discute pas. Il se range.
 
-« Pourquoi prends-tu ce risque, Mira ? »
+«  Pourquoi prends-tu ce risque, Mira  ?  »
 
 Ses épaules se haussèrent à peine, avec l’air de quelqu’un qui trouve la question mal posée.
 
-« Parce que ce que tu as trouvé est réel. Et parce que si je me tais, je cesse d’être une archiviste. Je deviens une complice. »
+«  Parce que ce que tu as trouvé est réel. Et parce que si je me tais, je cesse d’être une archiviste. Je deviens une complice.  »
 
 Un silence, puis elle ajouta, plus bas :
 
-« Ils se trompent sur toi. Tu n’es pas des leurs, ces Catena Fracta. Tu n’as jamais rien fait que regarder et noter.
-— Non. Je n’ai jamais rien fait que regarder et noter. »
+«  Ils se trompent sur toi. Tu n’es pas des leurs, ces Catena Fracta. Tu n’as jamais rien fait que regarder et noter.
+— Non. Je n’ai jamais rien fait que regarder et noter.  »
 
 Elle prit cela pour un acquiescement, et c’en était un, à la lettre. C’est le propre des gens droits de ne pas soupçonner qu’une même phrase puisse dire une chose à qui la prononce et une autre à qui l’entend. Elle croyait couvrir un innocent que la ville avait broyé. Je l’ai laissée le croire, parce que sa franchise, cette nuit-là, valait mieux que tout ce que j’aurais pu lui répondre.
 
 Elle recula d’un pas dans le couloir. Puis, comme si elle regrettait de partir sur une phrase si nette :
 
-« Écris-moi. Pas par la malle, ils la lisent. Passe par les Errants. Un mot de temps en temps, pour que je sache où tu es.
-— Je t’écrirai. »
+«  Écris-moi. Pas par la malle, ils la lisent. Passe par les Errants. Un mot de temps en temps, pour que je sache où tu es.
+— Je t’écrirai.  »
 
 Je l’ai dit sans hésiter, et c’était vrai. Depuis, je lui ai écrit plus qu’à quiconque. Elle est repartie dans la nuit sans que j’entende ses pas dans l’escalier, ce qui signifiait qu’elle savait descendre sans être entendue. Cela aussi, je l’ai noté. On note les gens à ce qu’ils savent faire sans qu’on le leur ait appris.
 
 Après son départ, je n’ai pas rallumé. Assis dans le noir, j’ai écouté la ville.
 
-On croit qu’une ville se tait, la nuit. Une ville ne se tait pas ; elle change de bruits. En bas, le fleuve montait plus clair qu’au jour. Un chien, sur la paroi est, répondait à un autre chien. Et sous tout cela, régulier, patient, le pas des hommes qui attendaient dans la rue des Cartographes. Deux, peut-être trois. Ils ne se cachaient pas vraiment. On ne poste pas des guetteurs pour qu’ils passent inaperçus ; on les poste pour qu’on les sache là.
+On croit qu’une ville se tait, la nuit. Une ville ne se tait pas  ; elle change de bruits. En bas, le fleuve montait plus clair qu’au jour. Un chien, sur la paroi est, répondait à un autre chien. Et sous tout cela, régulier, patient, le pas des hommes qui attendaient dans la rue des Cartographes. Deux, peut-être trois. Ils ne se cachaient pas vraiment. On ne poste pas des guetteurs pour qu’ils passent inaperçus  ; on les poste pour qu’on les sache là.
 
 J’ai fait ce qu’on fait, dans ces heures. J’ai trié.
 
 Mes quarante-deux travaux étaient étalés sur le parquet. Un homme à qui l’on va tout prendre pourrait céder à l’envie de tout emporter, de tout brûler, de tout cacher. Pourtant, je n’ai rien caché. J’ai remis chaque carte à sa place dans la pile, dans l’ordre où on la trouverait, du littoral d’Umarisar aux collines de Hiliara, pour que celui qui viendrait à l’aube n’ait rien à chercher. Une carte bien rangée se saisit vite. Une saisie qui va vite ne fouille pas.
 
-Parmi ces feuilles, il y avait celle de Hiliara où j’avais porté, des années plus tôt, l’entrée d’un tunnel que je n’avais pas encore su lire. Celle-là, je l’ai laissée dans la pile. Un homme qui soustrait cette carte-là avoue qu’il en connaît le prix ; un homme qui la laisse partir avec les autres n’a rien à cacher. J’ai longuement pesé la différence entre ces deux hommes, et celui que je voulais qu’on croie que j’étais.
+Parmi ces feuilles, il y avait celle de Hiliara où j’avais porté, des années plus tôt, l’entrée d’un tunnel que je n’avais pas encore su lire. Celle-là, je l’ai laissée dans la pile. Un homme qui soustrait cette carte-là avoue qu’il en connaît le prix  ; un homme qui la laisse partir avec les autres n’a rien à cacher. J’ai longuement pesé la différence entre ces deux hommes, et celui que je voulais qu’on croie que j’étais.
 
 Le carnet de mon père, lui, ne serait pas dans la pile. La veille, je l’avais cousu dans la doublure gauche de ma veste, là où il pèserait contre la côte à chaque pas des mois à venir. Aucun registre ne le mentionnait, parce que je n’avais jamais laissé une ligne l’y inscrire. On ne saisit pas ce dont on ignore l’existence.
 
@@ -111,7 +113,7 @@ Vers la fin de la nuit, j’ai mis mon manteau. La nuit de Rukhsar est froide qu
 
 Un mot sur Rukhsar, d’abord, avant ce qui m’en chasse, parce qu’un exil sans amour n’est qu’un déplacement, et je ne voyageais pas seulement vers l’inconnu. La ville que je quittais, je l’aimais.
 
-Rukhsar est bâtie dans un canyon. Des fenêtres des Bibliothèques, on regarde vers le bas plutôt que vers l’horizon. Tout en contrebas, les deux bras de la rivière encadrent les Sept Piliers comme une garde d’honneur liquide. Gravés du texte fondateur de la Charte, les Piliers ressemblent, vus d’en haut, aux doigts d’une main enfouie dans la roche depuis des siècles. Les rues n’y rayonnent pas, elles grimpent. En bas, près de l’eau, les entrepôts et les odeurs ; à mi-paroi, les maisons et les temples ; tout en haut, là où le matin touche la ville en premier, les Archives. Le canyon lui-même est l’architecture. Les falaises sont les murs que personne n’a construits.
+Rukhsar est bâtie dans un canyon. Des fenêtres des Bibliothèques, on regarde vers le bas plutôt que vers l’horizon. Tout en contrebas, les deux bras de la rivière encadrent les Sept Piliers comme une garde d’honneur liquide. Gravés du texte fondateur de la Charte, les Piliers ressemblent, vus d’en haut, aux doigts d’une main enfouie dans la roche depuis des siècles. Les rues n’y rayonnent pas, elles grimpent. En bas, près de l’eau, les entrepôts et les odeurs  ; à mi-paroi, les maisons et les temples  ; tout en haut, là où le matin touche la ville en premier, les Archives. Le canyon lui-même est l’architecture. Les falaises sont les murs que personne n’a construits.
 
 J’avais passé des heures, dans mes premières années, à copier les inscriptions des Piliers. Non par dévotion civique. Le tracé des lettres dans la pierre bleue d’Azuris présentait une irrégularité : certaines lignes plongeaient plus profond que d’autres, comme si plusieurs mains avaient frappé le même mot, chacune de sa propre force. Une observation sans conséquence, peut-être. Si je la notais, c’est que les cartographes notent les irrégularités, dans l’espoir qu’elles finissent par livrer la logique du lieu.
 
@@ -137,16 +139,18 @@ Je ne peux pas prouver que cette lecture est exacte. Seulement affirmer qu’ell
 
 J’ai remis ce rapport aux Bibliothèques. Le directeur des Archives l’a feuilleté devant moi, sans hâte, s’arrêtant aux planches où j’avais recopié les inscriptions.
 
-« Vous avez montré ceci à quelqu’un ?
+Ses questions vinrent espacées, posées une à une, à la manière d’un homme qui relève une distance et vérifie son chiffre avant de porter le suivant.
+
+«  Vous avez montré ceci à quelqu’un  ?
 — À vous.
 — À personne d’autre, reprit-il.
-— Personne d’autre. »
+— Personne d’autre.  »
 
 Le dossier refermé, il posa la main dessus, à plat, comme on retient une feuille qu’un courant d’air menace d’emporter.
 
-« Vous êtes un bon cartographe, Sorin. Les bons cartographes mesurent ce qui est. Ceci n’est pas une mesure. C’est un avis sur ce qui a été, et ce qui a été ne relève pas de votre fonction.
+«  Vous êtes un bon cartographe, Sorin. Les bons cartographes mesurent ce qui est. Ceci n’est pas une mesure. C’est un avis sur ce qui a été, et ce qui a été ne relève pas de votre fonction.
 — Les inscriptions sont là. Je n’ai pas d’avis sur elles. Je les ai copiées.
-— Justement. Ne les copiez plus. »
+— Justement. Ne les copiez plus.  »
 
 Je suis sorti en croyant qu’on m’avait mal compris. C’est l’erreur des hommes qui mesurent : ils s’imaginent qu’un fait mal reçu l’a été par mégarde. Le directeur m’avait parfaitement compris. C’est moi qui n’avais pas voulu entendre.
 
@@ -160,18 +164,21 @@ Dans le secteur sud, du côté des entrepôts des caravaniers de Nomadaro, une r
 
 J’ai pris un bol de ce qu’on appelle ici le Kharaz de voyage, la version de rue du grand plat national, celle que chaque marchand compose avec ce qu’il a réuni le matin. Du mouton fondant mijoté dans un bouillon d’herbes dorées de Solandra, quelques rondelles de carotte caramélisées, une poignée de pois chiches à point. La cuisinière ajouta par-dessus, à la dernière seconde, une cuillère d’huile infusée au cumin et à la graine de paradis. Des mains immenses, des cheveux rouges nattés de fils de cuivre, et cette manière de se déplacer entre ses marmites avec une précision de cartographe.
 
-« Tu mâches comme un homme qui compte ses dernières dents. »
+«  Tu mâches comme un homme qui compte ses dernières dents.  »
 
 Je levai les yeux. Elle ne souriait pas, mais ses mains, elles, continuaient de servir avec une générosité agressive.
 
-« Je compte autre chose.
+«  Je compte autre chose.
 — Les hommes qui comptent, au bazar, finissent toujours par perdre, dit-elle.
-— Vous dites ça à tous vos clients ?
-— Seulement à ceux qui regardent la rue comme si on allait la leur retirer. »
+— Vous dites ça à tous vos clients  ?  »
+
+Cette fois, elle leva les yeux de ses marmites.
+
+«  Seulement à ceux qui regardent la rue comme si on allait la leur retirer.  »
 
 Je ne répondis pas. Sans me demander si je pouvais payer, elle planta une seconde galette dans mon bol.
 
-« Mange, cartographe. Une ville quitte plus facilement un homme quand il n’a pas faim. »
+«  Mange, cartographe. Une ville quitte plus facilement un homme quand il n’a pas faim.  »
 
 Je ne sais pas si le plat valait mon souvenir, ou si la nuit blanche et la matinée de saisie m’avaient seulement rendu affamé. Peu importe. J’ai mangé en regardant passer les gens, essayant de retenir chacun. C’est un réflexe de cartographe, ou une forme de déni : quand on sait qu’on va partir, on regarde enfin ce qu’on avait cessé de voir. La femme aux cheveux rouges versant son huile de cumin. Des caravaniers disputant un prix de chargement à grands gestes. Un enfant vendant des tisanes dans des verres colorés. Deux marchands de pierres d’Osaria qui se détestaient à voix basse.
 
@@ -183,7 +190,7 @@ La réponse, je l’ai eue le soir même, et elle ne venait pas d’où je l’a
 
 Un homme m’était connu de vue depuis trois ans. Jamais je ne lui avais parlé, ce jour-là moins qu’un autre. Son nom, je l’ignorais encore.
 
-Je l’avais aperçu la première fois dans une taverne du quartier des Caravaniers, en conversation avec deux femmes dont le tissu jaune était cousu sur la manche droite, et non sur la gauche. Ce détail voulait dire quelque chose, je le savais vaguement, sans avoir jamais voulu approfondir. Depuis, je l’avais croisé dans des lieux qu’on ne fréquente pas par hasard : la bibliothèque des Errants, qui n’est pas une vraie bibliothèque mais une arrière-salle où les textes passent de main en main sans registre ; l’escalier de derrière des Salles de Médiation, là où les Déliés qui veulent porter plainte apprennent à attendre.
+Je l’avais aperçu la première fois dans une taverne du quartier des Caravaniers, en conversation avec deux femmes dont le tissu jaune était cousu sur la manche droite, et non sur la gauche. Ce détail voulait dire quelque chose, je le savais vaguement, sans avoir jamais voulu approfondir. Depuis, je l’avais croisé dans des lieux qu’on ne fréquente pas par hasard : la bibliothèque des Errants, qui n’est pas une vraie bibliothèque mais une arrière-salle où les textes passent de main en main sans registre  ; l’escalier de derrière des Salles de Médiation, là où les Déliés qui veulent porter plainte apprennent à attendre.
 
 Ce soir-là, dans le quartier des Artisans, il se tenait adossé au mur de la ruelle que je longeais pour rejoindre le caravansérail. Je n’ai rien dit. Lui non plus. Mais quand nos regards se sont croisés, je n’y ai pas trouvé de pitié. J’y ai vu la reconnaissance muette de ceux qui ont vu la même chose et savent qu’aucune institution ne leur donnera raison.
 
@@ -197,26 +204,29 @@ Le fil, je ne l’ai pas ramassé. Je l’ai regardé, j’ai regardé l’homme
 
 ---
 
-Le caravansérail où j’ai dormi s’appelle le Passage des Quatre Vents, nom ambitieux pour un bâtiment qui tient surtout par habitude. L’endroit occupe la terrasse des Caravaniers, à mi-hauteur de la paroi ouest, assez haut pour entendre les deux rivières sans les voir. La cour était une alcôve creusée dans la roche : en bas les écuries, les ballots, la cuisine commune ; à l’étage, des chambres fermées par des rideaux plutôt que par des portes, où les voyageurs dormaient mêlés à leurs odeurs et à leurs mensonges. J’avais un réduit de deux mètres sur deux, sentant le foin et la sueur ancienne, une paillasse sur des planches et un crochet au mur. C’était suffisant. Je n’avais pas grand-chose à suspendre.
+Le caravansérail où j’ai dormi s’appelle le Passage des Quatre Vents, nom ambitieux pour un bâtiment qui tient surtout par habitude. L’endroit occupe la terrasse des Caravaniers, à mi-hauteur de la paroi ouest, assez haut pour entendre les deux rivières sans les voir. La cour était une alcôve creusée dans la roche : en bas les écuries, les ballots, la cuisine commune  ; à l’étage, des chambres fermées par des rideaux plutôt que par des portes, où les voyageurs dormaient mêlés à leurs odeurs et à leurs mensonges. J’avais un réduit de deux mètres sur deux, sentant le foin et la sueur ancienne, une paillasse sur des planches et un crochet au mur. C’était suffisant. Je n’avais pas grand-chose à suspendre.
 
 Avant de monter, je suis resté près du feu de la cour, où l’on servait une soupe claire à ceux qui payaient et un quignon à ceux qui ne payaient pas. Un vieux caravanier, le visage tanné comme la couverture du carnet de mon père, m’observait depuis un moment sans en avoir l’air.
 
-« Tu vas vers le nord ? »
+«  Tu vas vers le nord  ?  »
 
 Je fis oui de la tête.
 
-« Avec Holtis ?
+«  Avec Holtis  ?
 — On me l’a dit, oui.
-— Alors garde ta manche gauche contre le mur, aux postes de garde. Holtis est réglo, mais les gardes de la route de Lumasar aiment les tissus jaunes autant qu’un chien aime l’eau. »
+— Alors garde ta manche gauche contre le mur, aux postes de garde. Holtis est réglo, mais les gardes de la route de Lumasar aiment les tissus jaunes autant qu’un chien aime l’eau.  »
 
 Il cracha dans le feu.
 
-« Remarque, un marqué qui voyage, ça les rassure. Ils te préfèrent sur une route que dans leur ville. Tu leur donnes le sentiment que le problème s’éloigne de lui-même. »
+«  Remarque, un marqué qui voyage, ça les rassure. Ils te préfèrent sur une route que dans leur ville. Tu leur donnes le sentiment que le problème s’éloigne de lui-même.  »
 
 Je n’avais pas songé à ma condition sous cet angle, et pourtant il voyait juste, plus juste qu’il ne le croyait. Un Délié banni sur les routes est un homme que les institutions cessent de surveiller de près, parce qu’elles le tiennent pour réglé. Le vieux venait de me décrire, sans le savoir, l’exacte utilité de mon tissu jaune pour ce qui m’attendait.
 
-« Vous voyagez depuis longtemps ? lui demandai-je.
-— Assez pour savoir qu’on ne rentre jamais tout à fait de la même ville qu’on a quittée. »
+«  Vous voyagez depuis longtemps  ?  » lui demandai-je.
+
+Il regarda le feu avant de répondre, le temps qu’une bûche se rompe et retombe en braises.
+
+«  Assez pour savoir qu’on ne rentre jamais tout à fait de la même ville qu’on a quittée.  »
 
 Puis il retourna à sa soupe. La phrase, je l’ai gardée. Les cartographes gardent les phrases comme les altitudes : on ne sait jamais laquelle finira par situer un lieu.
 
@@ -248,29 +258,29 @@ Les Bibliothèques ont ma carte. Ils n’ont pas la note. La note est dans ma t�
 
 J’ai posé la main sur la pierre un moment. La pierre était froide. L’aube grise, la ville presque muette, quelques marchands dressant leurs étals, un charretier dont l’essieu grinçait dans une rue parallèle. Sur ma manche gauche, le tissu jaune était pâle dans cette lumière.
 
-« Tu es Valthen ? »
+«  Tu es Valthen  ?  »
 
 Le chef de caravane m’attendait à trois pas, une lanterne au poing. Berand Holtis avait les yeux rouges de ceux qui ne dorment jamais avant un départ.
 
-« Oui.
-— Tu sais tenir une bride ?
-— Je sais apprendre vite », répondis-je.
+«  Oui.
+— Tu sais tenir une bride  ?
+— Je sais apprendre vite  », répondis-je.
 
 Il grogna. Ce n’était ni approbation ni refus. Chez les caravaniers, ai-je compris plus tard, c’était parfois les deux.
 
-« Tu ne parles à personne de ce que tu as fait pour avoir cette place. Tu ne poses pas de questions sur les ballots marqués en bleu. Si un garde demande ton nom, tu es engagé depuis trois semaines et tu as mauvais caractère.
-— Et si je n’ai pas mauvais caractère ?
-— Alors imite mieux. »
+«  Tu ne parles à personne de ce que tu as fait pour avoir cette place. Tu ne poses pas de questions sur les ballots marqués en bleu. Si un garde demande ton nom, tu es engagé depuis trois semaines et tu as mauvais caractère.
+— Et si je n’ai pas mauvais caractère  ?
+— Alors imite mieux.  »
 
 Il me tendit une longe.
 
-« Celle-ci s’appelle Nazouk. Elle mord les gens qui tirent trop fort. Tâche de ne pas lui donner raison.
-— Les ballots bleus, ils voyagent jusqu’où ?
-— Jusqu’où on ne pose pas de questions. »
+«  Celle-ci s’appelle Nazouk. Elle mord les gens qui tirent trop fort. Tâche de ne pas lui donner raison.
+— Les ballots bleus, ils voyagent jusqu’où  ?
+— Jusqu’où on ne pose pas de questions.  »
 
 À la lueur de sa lanterne, il me regarda enfin vraiment, et quelque chose dans son examen dut lui suffire, car il tourna les talons sans rien ajouter. Un homme qui transporte des ballots qu’on ne regarde pas reconnaît un autre homme qui transporte ce qu’on ne voit pas. Je crois que c’est ce jour-là, sur cette terrasse, que ma vraie route a commencé, et non plus tard, sur les continents que je n’avais pas encore vus.
 
-Je n’ai pas pleuré. La colère froide qui me tenait depuis une semaine interdisait les larmes. Pleurer aurait été accorder à la ville qu’elle m’avait blessé, et je préférais encore croire qu’elle s’était seulement trompée. Je relirai peut-être ces lignes dans un an et j’y trouverai de l’orgueil. Tant pis. Les cartographes notent d’abord ; ils corrigent ensuite, s’ils sont encore là.
+Je n’ai pas pleuré. La colère froide qui me tenait depuis une semaine interdisait les larmes. Pleurer aurait été accorder à la ville qu’elle m’avait blessé, et je préférais encore croire qu’elle s’était seulement trompée. Je relirai peut-être ces lignes dans un an et j’y trouverai de l’orgueil. Tant pis. Les cartographes notent d’abord  ; ils corrigent ensuite, s’ils sont encore là.
 
 ---
 
