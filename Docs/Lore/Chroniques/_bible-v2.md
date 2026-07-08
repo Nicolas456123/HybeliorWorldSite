@@ -7,7 +7,7 @@ revision: post-comité de lecture (2026-07-08)
 status: draft
 last_review: 2026-07-08
 auteur_directive: Nicolas (2026-07-08)
-cible_mots: "≥ 170 000 (plan détaillé : ~182 000)"
+cible_mots: "≥ 170 000 (plan détaillé : ~186 500)"
 ---
 
 # BIBLE v2 — *Les Chroniques de l'Exilé*
@@ -121,32 +121,34 @@ Modèle : le narrateur de Christie dans *Roger Ackroyd*. Contrat inviolable :
 
 Table des jalons porteurs. La strate cachée de CHAQUE chapitre est détaillée en §4 ; ci-dessous les charnières.
 
+> Numérotation **route vivante (§4.0bis, 1-38)** ; le repère legacy est indiqué entre parenthèses.
+
 | Ch. | Ce que le lecteur NAÏF comprend | Ce que le RELECTEUR voit | Palier |
 |---|---|---|---|
 | 1 | Un innocent broyé, saisie de ses cartes, exil forcé. | Il a provoqué la saisie (rapport déposé sciemment), pré-arrangé sa fuite, part avant l'arrestation. Le carnet du père, lu depuis longtemps, est le vrai bagage. | Malaise |
 | 2 | Lumasar lui ferme ses portes ; il improvise. | Il ne demande RIEN qu'il compte obtenir ; il repère Fendar (imprimeur = relais), sonde le réseau des marges, et « décide » d'aller sur les routes — ce qui était le plan. Orath Dovan le suit déjà. | Malaise |
-| 8 | Un érudit meurt ; les gens du lieu parlent de coïncidence tragique. **(La qualification vient d'eux, jamais de Sorin, qui note la mort à plat — règle §2.4.6.)** | Première mort d'un marqué que Sorin est venu moissonner ; il devance l'appareil, pas la Guerre de l'Ombre ; il repart avant que le signalement ne se referme. | Malaise |
-| 11 | Il recueille des rumeurs de « ce qui répond ». | Il reconnaît, il ne découvre pas ; il collationne une preuve qu'il attendait. | Malaise |
-| 16 | Il fuit une patrouille de plus. | La traque a un nom et un visage désormais ; Sorin la laisse le suivre là où il veut qu'elle regarde. | Malaise → seuil |
-| 20 | Il « reconstitue de mémoire les relevés d'Ordavan après avoir arraché les pages originales ». | **FLAGRANT DÉLIT** : pourquoi arracher un original ? Parce que l'original datait sa venue AVANT sa « découverte ». Un tiers le prouve. | Flagrant délit |
-| 22 | Le voyageur solitaire, victime des circonstances. | Depuis 20 chapitres, partout où il passe, un érudit meurt. Le lecteur soupçonne : **c'est lui**. | Fausse piste maîtresse |
-| 28-30 | Il enquête, horrifié, sur les morts. | Le soupçon « Sorin assassin » culmine puis se fissure : il n'a pas la main, il a le nez — il suit les condamnés. | Enquête |
-| 35-37 | Les grandes révélations sur le réseau, le Jumeau, le père. | **BASCULE** : ce qu'il veut, l'ampleur du plan, le journal comme arme, le lecteur comme vaisseau. | Bascule complète |
-| 38 | Il rentre, apaisé. | Il exécute la dernière phase : disperser, verrouiller, se rendre invisible aux poursuivants une dernière fois. | Endgame |
-| 39-40 | Il dépose son œuvre, humble, et ôte le tissu jaune. | Tout était ceci depuis le jour 1 ; le dépôt est la victoire froide, les pages blanches la dernière ruse. **MAIS le geste de la Porte d'Azur n'est PAS calculé** : c'est le seul acte hors-plan du livre (§4 ch. 40, correction comité 13), gratuit, risqué, inutile au vaisseau — l'instant où le stratège redevient un homme. Et les morts, derrière lui. | Endgame / morale |
+| 6 *(legacy 8)* | Un érudit meurt ; les gens du lieu parlent de coïncidence tragique. **(La qualification vient d'eux, jamais de Sorin, qui note la mort à plat — règle §2.4.6.)** | Première mort d'un marqué que Sorin est venu moissonner ; il devance l'appareil, pas la Guerre de l'Ombre ; il repart avant que le signalement ne se referme. | Malaise |
+| 9 *(legacy 11)* | Il recueille des rumeurs de « ce qui répond ». | Il reconnaît, il ne découvre pas ; il collationne une preuve qu'il attendait. | Malaise |
+| 13 *(legacy 16)* | Il fuit une patrouille de plus. | La traque a un nom et un visage désormais ; Sorin la laisse le suivre là où il veut qu'elle regarde. | Malaise → seuil |
+| 17 *(legacy 20)* | Il « reconstitue de mémoire les relevés d'Ordavan après avoir arraché les pages originales ». | **FLAGRANT DÉLIT** : pourquoi arracher un original ? Parce que l'original datait sa venue AVANT sa « découverte ». Un tiers le prouve. | Flagrant délit (mi-livre) |
+| 18-23 *(legacy 21-28)* | Le voyageur solitaire, victime des circonstances. | Depuis le premier mort (ch. 6), partout où il passe, un érudit meurt. Le lecteur soupçonne : **c'est lui**. Ch. 23 (Cendara, Arkhen) : le soupçon à son comble. | Pic de la fausse piste |
+| 24-25 *(legacy 30-31)* | Il enquête, horrifié, sur les morts. | Le soupçon « Sorin assassin » se fissure (ch. 24, il arrive trop tard) : il n'a pas la main, il a le nez — il suit les condamnés. | Fissure / enquête |
+| 30-34 *(legacy 36-37)* | Les grandes révélations sur le réseau, le Jumeau, le père. | **BASCULE** (par document, contrainte, lapsus, tiers-voyant, puis le père) : ce qu'il veut, l'ampleur du plan, le journal comme arme, le lecteur comme vaisseau. | Bascule complète |
+| 35-36 *(legacy 38)* | Il rentre, apaisé. | Il exécute la dernière phase : disperser, verrouiller, se rendre invisible aux poursuivants une dernière fois. | Endgame |
+| 37-38 *(legacy 39-40)* | Il dépose son œuvre, humble, et ôte le tissu jaune. | Tout était ceci depuis le jour 1 ; le dépôt est la victoire froide, les pages blanches la dernière ruse. **MAIS le geste de la Porte d'Azur n'est PAS calculé** : c'est le seul acte hors-plan du livre (§4 ch. 38, correction comité 13), gratuit, risqué, inutile au vaisseau — l'instant où le stratège redevient un homme. Et les morts, derrière lui. | Endgame / morale |
 
 ### 2.6 — Le point de bascule choisi et sa mise en scène
 
-**Le flagrant délit (palier b) : chapitre 20, « Les Généraux Déliés ».** C'est le midpoint (jour 375) et le texte actuel y contient déjà la faille : « les relevés d'Ordavan que j'avais reconstitués de mémoire **après avoir arraché les pages originales** ». La v2 fait de cette phrase le pivot. **Mise en scène** : à Pyrtara, le commandant Pyrax (ou son honnête Saven) met côte à côte les relevés de Sorin et ceux des Guetteurs de Feu — et une DATE ne colle pas. Un tiers (Saven, sans malice) le dit tout haut sans en mesurer la portée. Le lecteur, lui, la mesure : *Sorin était là avant. Sorin savait avant. Sorin a menti sur l'ordre des choses depuis le début.* Le contrat de lecture bascule. On repart en arrière.
+**Le flagrant délit (palier b) : chapitre 17 de la route vivante (legacy 20), « Les Généraux Déliés », à Pyrtara.** C'est le midpoint (jour 400) et le texte actuel y contient déjà la faille : « les relevés d'Ordavan que j'avais reconstitués de mémoire **après avoir arraché les pages originales** ». La v2 fait de cette phrase le pivot. **Mise en scène** : à Pyrtara, le commandant Pyrax (ou son honnête Saven) met côte à côte les relevés de Sorin et ceux des Guetteurs de Feu — et une DATE ne colle pas. Un tiers (Saven, sans malice) le dit tout haut sans en mesurer la portée. Le lecteur, lui, la mesure : *Sorin était là avant. Sorin savait avant. Sorin a menti sur l'ordre des choses depuis le début.* Le contrat de lecture bascule. On repart en arrière.
 
-**À qui est le relevé antérieur ? (arithmétique tranchée, correction comité 6.)** L'ancienne bible se contredisait : « antérieur de plusieurs mois » d'un côté, « pages du père passé vingt ans plus tôt » de l'autre — un écart de vingt ans serait hurlant (le relecteur y verrait un héritage, pas la préméditation de Sorin), pas subtil. **On tranche pour l'option propre : les pages arrachées portent un relevé de SORIN LUI-MÊME, d'une reconnaissance antérieure que le journal dissimule.** Le journal présente un itinéraire linéaire ; les vrais déplacements de Sorin ne l'étaient pas. Il est passé une première fois à Ordavan, en a levé les relevés, puis a « officiellement découvert » le lieu au ch. 18 dans la chronologie qu'il construit pour nous. « Plusieurs mois » devient alors exact et cohérent : c'est l'écart entre son passage réel et son passage raconté. Double bénéfice : (a) le flagrant délit prouve que *Sorin savait avant*, effet visé ; (b) il révèle que **la chronologie même du journal est une construction**, ce qui approfondit le narrateur non fiable. Coût assumé : établir discrètement, à la relecture, ce double passage (semé au ch. 18 par un détail — un chemin qu'il connaît trop bien, un relais déjà en place — payé au ch. 20).
+**À qui est le relevé antérieur ? (arithmétique tranchée, correction comité 6.)** L'ancienne bible se contredisait : « antérieur de plusieurs mois » d'un côté, « pages du père passé vingt ans plus tôt » de l'autre — un écart de vingt ans serait hurlant (le relecteur y verrait un héritage, pas la préméditation de Sorin), pas subtil. **On tranche pour l'option propre : les pages arrachées portent un relevé de SORIN LUI-MÊME, d'une reconnaissance antérieure que le journal dissimule.** Le journal présente un itinéraire linéaire ; les vrais déplacements de Sorin ne l'étaient pas. Il est passé une première fois à Ordavan, en a levé les relevés, puis a « officiellement découvert » le lieu au ch. 15 (route vivante ; legacy 18) dans la chronologie qu'il construit pour nous. « Plusieurs mois » devient alors exact et cohérent : c'est l'écart entre son passage réel et son passage raconté. Double bénéfice : (a) le flagrant délit prouve que *Sorin savait avant*, effet visé ; (b) il révèle que **la chronologie même du journal est une construction**, ce qui approfondit le narrateur non fiable. Coût assumé : établir discrètement, à la relecture, ce double passage (semé au ch. 15 par un détail — un chemin qu'il connaît trop bien, un relais déjà en place — payé au ch. 17).
 
-**La bascule complète (palier c) : chapitres 33-38 — mécanismes DIVERSIFIÉS (correction comité 3, majeure).** L'ancienne bible écrivait quatre fois le même chapitre (un tiers-voyant articule le plan de Sorin, Sorin se tait — ch. 33, 34, 35, 36) : un plateau, pas une montée. On casse les aveux jumeaux. **Un seul aveu par tiers-voyant subsiste (Baelor, ch. 36, le plus fort).** Les autres révélations changent de mécanisme et la bascule s'ACCÉLÈRE :
-- **Ch. 33 (Vytharia) — par DOCUMENT.** Ce n'est pas une rêveuse qui énonce son plan : c'est une **page interceptée par l'appareil** (un rapport d'Orath sur Sorin, ou une lettre de Sorin lui-même reprise par un relais grillé) qui le décrit mieux qu'il ne s'est jamais décrit. Sorin la recopie dans son journal, glaçé de se voir lu juste. Le masque tombe par un texte, pas par un oracle.
-- **Ch. 34 (Nysaria) — par CONTRAINTE.** Une **quasi-capture** (Vels Draye le coince) force Sorin à agir **à visage découvert** devant un allié qui le croyait naïf : pour survivre, il manœuvre en stratège sous les yeux de quelqu'un qui l'aimait innocent. Le masque tombe par la nécessité, pas par un tailleur de masques (voir aussi correction comité 12 : la littéralité du « masque » est désamorcée, §4 ch. 34).
-- **Ch. 35 (Lunasar) — par LAPSUS.** Sorin consigne une phrase de trop, un « je savais que » qui lui échappe, **puis le barre** — la barre elle-même est l'aveu (écho « *La barre vaut mieux que la phrase* » [ch. 37]). La bascule vient de sa propre plume qui déraille, pas d'une bouche extérieure.
-- **Ch. 36 (Baelor, le Silence Sacré) — par TIERS-VOYANT (le seul, gardé).** Le moine qui tend le mot « Dessous » [canon ch. 37] lui dit aussi ce qu'il faisait vraiment ; Sorin l'écrit sans commentaire. Le silence du narrateur vaut aveu.
-- **Ch. 37 (Cestra, le Jumeau, le père) :** la feuille du père « Tu es prêt » [canon] se relit comme un RELAIS d'un plan hérité. **Ch. 38 (en mer) :** Sorin, seul, exécute le verrouillage final ; on le voit entièrement à l'œuvre. **Jubilation, pas trahison :** on ne découvre aucun fait nouveau tordu ; on redécouvre tous les anciens à l'endroit — et par quatre voies différentes, en montée.
+**La bascule complète (palier c) : chapitres 27-34 de la route vivante (legacy 33-37) — mécanismes DIVERSIFIÉS (correction comité 3, majeure).** L'ancienne bible écrivait quatre fois le même chapitre (un tiers-voyant articule le plan de Sorin, Sorin se tait) : un plateau, pas une montée. On casse les aveux jumeaux. **Un seul aveu par tiers-voyant subsiste (Baelor, ch. 30, le plus fort).** Les autres révélations changent de mécanisme et la bascule s'ACCÉLÈRE. Numéros ci-dessous en route vivante (legacy entre parenthèses) :
+- **Ch. 27 (Vytharia / Mirathi, legacy 33) — par DOCUMENT, dans la SPHÈRE DE VYTHARIA.** Ce n'est pas une rêveuse qui énonce son plan : c'est une **page interceptée par l'appareil** (un rapport d'Orath sur Sorin, ou une lettre de Sorin lui-même reprise par un relais grillé) qui le décrit mieux qu'il ne s'est jamais décrit. Sorin la recopie dans son journal, glacé de se voir lu juste. Le masque tombe par un texte, pas par un oracle. C'est un **RETOUR sur Ilthara** (le hub revisité ; Vytharia est à ~78 u d'Ilthara, cf. atlas).
+- **Ch. 28 (Lunasar, sphère de Vytharia, legacy 34→35) — par CONTRAINTE.** Une **quasi-capture** (Vels Draye le coince) force Sorin à agir **à visage découvert** devant un allié qui le croyait naïf : pour survivre, il manœuvre en stratège sous les yeux de quelqu'un qui l'aimait innocent. Le masque tombe par la nécessité, pas par un tailleur de masques (correction comité 12). **Ce beat se jouait à Nysaria dans l'ancienne route ; il est transposé à Lunasar** (rattachement régional de Vytharia), Nysaria sortant de l'itinéraire (NE lointain, cf. atlas). Le portail canon reste *entrevu*, jamais visité (§7).
+- **Ch. 29 (Caeloria, escale SE, legacy 35) — par LAPSUS.** Sorin consigne une phrase de trop, un « je savais que » qui lui échappe, **puis le barre** — la barre elle-même est l'aveu (écho « *La barre vaut mieux que la phrase* », fiche legacy 37). La bascule vient de sa propre plume qui déraille, pas d'une bouche extérieure. **Le lapsus migre de Lunasar à Caeloria**, escale religieuse (Cardinal-Élu) sur l'approche de Baelor : le poids sacré du lieu appelle la confession involontaire.
+- **Ch. 30 (Baelor, le Silence Sacré, legacy 36) — par TIERS-VOYANT (le seul, gardé).** Le moine qui tend le mot « Dessous » [canon] lui dit aussi ce qu'il faisait vraiment ; Sorin l'écrit sans commentaire. Le silence du narrateur vaut aveu. **Bascule complète (~79 %).**
+- **Ch. 33-34 (Cestra, le Jumeau, le père, legacy 37) :** la feuille du père « Tu es prêt » [canon] se relit comme un RELAIS d'un plan hérité — sommet émotionnel (~89 %). **Ch. 35-36 (en mer, legacy 38) :** Sorin, seul, exécute le verrouillage final ; on le voit entièrement à l'œuvre. **Jubilation, pas trahison :** on ne découvre aucun fait nouveau tordu ; on redécouvre tous les anciens à l'endroit — et par quatre voies différentes, en montée.
 
 ---
 
@@ -217,27 +219,91 @@ Deux forces effacent les savants (§3, §5.4). L'**appareil** est lent, humain, 
 
 > **Note.** Les parenthèses de ce document sont un usage de travail (bible). La prose du roman, elle, n'en emploie JAMAIS (charte §6).
 
-### 4.0 — L'arc des cinq actes (les titres canon conservés, re-glosés)
+### 4.0 — L'ATLAS EST LA LOI, et l'arc des cinq actes redessiné (refonte route 2026-07-08)
 
-- **ACTE I — « La Fuite » (ch. 1-8, Galenor, jours 1-110).** *Le malaise s'installe.* Sous couvert d'un exil subi, Sorin lance sa manœuvre : provoquer sa chute, prendre la route, amorcer le réseau de dépôt, moissonner le premier marqué. Les quatre moteurs s'arment. Le lecteur sent que le narrateur est trop calme, trop prêt. Traque naissante (Orath Dovan).
-- **ACTE II — « La Forge » (ch. 9-16, Alkaran/Onara/Endora, jours 135-290).** *Le réseau se forge des deux côtés.* Sorin forge ses relais et ses preuves (Fragment Zéro, « ce qui répond ») ; l'appareil forge sa traque (un contact paie à sa place ; le limier apparaît). Les morts d'érudits commencent à faire motif. Fin d'acte : la traque a un visage de terrain.
-- **ACTE III — « Les Dragons » (ch. 17-24, Ilthara, jours 320-465).** *Le flagrant délit et la fausse piste.* Au cœur du continent des dragons et des Déliés-soldats, le lecteur SURPREND Sorin (ch. 20). Puis le soupçon monte : et si c'était lui l'assassin ? Sorin nourrit le leurre. Duel à distance avec l'appareil.
-- **ACTE IV — « Les Mystères » (ch. 25-32, Celethor/Cendara/Azoria/Evertia/Ulinor, jours 495-685).** *L'enquête et l'étau.* Le soupçon « Sorin assassin » culmine et se fissure ; on comprend qu'il moissonne les condamnés. Le monde s'accélère (Cendra, Enfants aux Yeux Blancs, esprits qui se taisent). L'appareil comprend qu'il DÉPOSE, et veut saisir le journal avant Prismalith.
-- **ACTE V — « L'Indicible » (ch. 33-40, Ilthara/Celethor/Baelor/Cestra/mer/Galenor, jours 720-910).** *La bascule complète, l'endgame, la morale.* On comprend ce qu'il veut (35-37) ; il verrouille (38) ; il dépose et gagne (39-40, canon) ; et il compte les morts. La tension devient : le plan tient-il, à quel prix, et l'aime-t-on encore.
+> **Directive 4 — l'atlas fait foi.** Toute la route ci-dessous se trace sur **`_atlas-voyage.md`** (positions des continents, matrice des distances, coûts en jours, obstacles tirés des fiches Continent). **Aucun rédacteur ne date un déplacement, n'ouvre une liaison ni n'invente un obstacle sans l'y vérifier.** Les durées en jours de chaque étape sont des *vitesses de récit* — séjours, attentes de fenêtre saisonnière et détours de relief INCLUS (atlas §4) —, jamais des temps de marche pur. On respecte les culs-de-sac (Cestra ne s'atteint que par Galenor/Celethor) et l'ordre de grandeur v1 (intra-grappe ≈ 1-2 semaines, saut polaire/trans-atlas ≈ 3-6 semaines). Budget total intangible : **910 jours**, départ **fin an 248** (année ≈ 365 j, cf. §5.1 corrigé), retour **jour 910 au seuil de l'an 251**.
 
-### 4.1 — Convention du plan chapitre par chapitre
+> **Directive 1 — liberté de route et resserrement.** On abandonne la règle « une nation = un chapitre », la plus ennuyeuse de toutes. La refonte **resserre à ~12-13 lieux FORTS** — cultivés, revisités, chargés d'histoire — plutôt que ~30 escales traversées une fois : le lecteur ne doit JAMAIS se perdre en géographie. Trois régimes de rythme cohabitent : des **ARCS LENTS** (2-7 chapitres au même endroit quand l'intrigue l'exige : Galenor natal, le grand continent Ilthara), des **RETOURS** (on revient sur ses pas — Ilthara deux fois, Galenor en boucle — parce que le réseau de dépôt se *cultive* et que l'étau se resserre à chaque passage), des **ACCÉLÉRATIONS** (chapitres de fuite qui avalent la distance, ex. le grand saut nord Baelor→Cestra). **Suppressions franches : Azoria et Ulinor** (continents sans fonction propre au récit resserré ; leurs fonctions sont réabsorbées, voir §4.0bis), plus la navette Endora↔Ilthara supprimée et Galenor dégraissé. **Nombre de chapitres : 38** (ce que l'histoire exige ; les deux derniers — Prismalith, puis Kharazir avec la Porte d'Azur — restent le point d'arrivée canon intangible). Le détail mouvement par mouvement, avec durée en jours et report des GARDE des anciennes fiches, est en **§4.0bis (itinéraire-maître, source de vérité de la numérotation)**.
 
-Pour chacun des 40 : **titre** (conservé / modifié) · **GARDE** (matière réutilisable du texte actuel) · **TRANSFORME** (ce qui change) · **ENJEU & SCÈNE CLÉ** (l'action, le mouvement) · **SEMÉ / PAYÉ** · **STRATE CACHÉE** (la relecture) · **MOTEURS** (A traque / B mission / C enquête / D relations) · **MOTS**.
+- **ACTE I — « La Fuite » (ch. 1-6, Galenor seul, jours 1-115).** *Le malaise s'installe, à domicile.* Un **arc lent du continent natal** — aucun saut intercontinental encore : la manœuvre se lance chez soi (provoquer sa chute, prendre la route, amorcer le réseau de dépôt, moissonner le premier marqué à Valoria). Les quatre moteurs s'arment. Le lecteur sent que le narrateur est trop calme, trop prêt. Traque naissante (Orath Dovan ; le limier Vels reprend la piste à Valoria).
+- **ACTE II — « La Forge » (ch. 7-13, Alkaran → Onara → Endora, jours 140-300).** *Le réseau se forge des deux côtés.* Sorin forge ses relais et ses preuves (Fragment Zéro à Trelios, « ce qui répond » à Myrtam, la pulse rendue publique par le Cantus) et **disperse sa première salve de copies par les soixante ports du Grand Fleuve d'Onar** (fonction récupérée d'Azoria) ; l'appareil forge sa traque (un contact paie à sa place ; Vels frôle Sorin aux docks de Mosrack). Fin d'acte : la traque a un visage de terrain et le ciel bouge (étoiles de Haldria).
+- **ACTE III — « Les Dragons » (ch. 14-20, Ilthara, jours 330-490).** *Grand arc lent du continent-plaque-tournante* (7 chapitres, 7 régions distinctes : Gryndor, Ordavan, Drakora-Lunaris, Pyrtara, Sylthara, Warenthor, Lythar-Vytharia). ★**Flagrant délit ch. 17, à Pyrtara — mi-livre**★ : le lecteur SURPREND Sorin sur la date qui ne colle pas. Puis le soupçon monte : et si c'était lui l'assassin ? Sorin nourrit le leurre. Duel de terrain avec Vels (canopée de Warenthor). L'appareil comprend, à Lythar, qu'il DÉPOSE (fonction récupérée d'Ulinor).
+- **ACTE IV — « Les Mystères » (ch. 21-26, grappe sud-ouest : Cendara / Evertia, jours 502-630).** *L'enquête et l'étau, dans l'archipel serré du sud.* ★**Pic du soupçon ch. 23 (Cendara, arc lent), fissure ch. 24 (Evertia consciente)**★ : le soupçon « Sorin assassin » culmine puis se fissure ; on comprend qu'il moissonne les condamnés (il arrive trop tard, il n'a pas la main). Le monde s'accélère (cœur de Cendra, Enfants aux Yeux Blancs, esprits qui se taisent en cascade). L'appareil comprend qu'il chasse désormais le JOURNAL, pas l'homme. *(Caeloria n'est plus ici : elle a migré en acte V, sur l'approche SE de Baelor, cf. §4.0bis.)*
+- **ACTE V — « L'Indicible » (ch. 27-38 ; retour SO = sphère de Vytharia [Vytharia → Lunasar] → Caeloria → Baelor, puis ACCÉLÉRATION nord → Celethor → Cestra → mer → Galenor ; jours 660-910).** *La bascule, l'endgame, la morale.* **Bascule diversifiée : run-up ch. 27-29 (document dans la sphère de Vytharia / contrainte à Lunasar / lapsus à Caeloria), complète ch. 30 (Baelor, le tiers-voyant) → ch. 34 (le Jumeau, sommet émotionnel).** On comprend ce qu'il veut ; il verrouille en mer ; il dépose et gagne (ch. 37-38, canon) ; et il compte les morts. La tension mute : le plan tient-il, à quel prix, et l'aime-t-on encore ?
+
+### 4.0bis — LA ROUTE REDESSINÉE (itinéraire-maître, atlas-verrouillé) — **source de vérité de la numérotation**
+
+> **Comment lire.** Ce tableau est la route officielle post-refonte : **38 chapitres, ~12-13 lieux forts, budget 910 jours** (départ fin an 248, arrivée jour 910). La colonne **Jour** est le jour cumulé au moment de la scène ; la colonne **Étape** donne la liaison et sa durée, calée sur `_atlas-voyage.md` (les valeurs intra-continent incluent séjour + attentes ; les valeurs intercontinentales reprennent le barème de l'atlas §2/§5). La colonne **GARDE** renvoie à la **fiche legacy** (§4.1, numérotée 1-40, conservée telle quelle comme *banque de matière* : c'est là qu'on récupère les scènes, dialogues et STRATES CACHÉES à réemployer). Quand une case GARDE cite deux fiches, le nouveau chapitre les **fusionne**.
+
+| Ch | Lieu (continent) | Jour | Étape & durée (atlas) | GARDE (fiche legacy) | Fonction / palier |
+|---|---|---|---|---|---|
+| **1** | Kharazir / Rukhsar (Galenor) | 1 | départ | 1 | La saisie ; le carnet du père. **Malaise.** |
+| **2** | Lumasar (Galenor) | 14 | intra Galenor +13 | 2 (+ copie de 4) | Orath Dovan ; 1re copie déposée au scriptorium (fonction de Seraphia récupérée). |
+| **3** | Ventera, steppes (Galenor) | 32 | intra +18 | 3 | Relais des steppes. **DETTE relais (ouvre).** |
+| **4** | Solena, port (Galenor) | 55 | intra +23 | 5 (+ info de 6) | Reen ; refuse d'embarquer ; courtier d'info (fonction de Tyndara récupérée). **DETTE filature (ouvre), relais (relève).** |
+| **5** | Trinoria, druides (Galenor) | 82 | intra +27 (forêts) | 7 | 1re pulsation sous le sol ; il ment « je ne sens rien ». |
+| **6** | Valoria (Galenor) | 115 | intra +33 | 8 (+ chamane de 12) | ★**1re mort d'érudit**★ ; Vels reprend la piste. **Malaise culmine. DETTE filature (relève).** |
+| **7** | Trelios (Alkaran) | 140 | Galenor→Alkaran **25 j** (mer) | 9 | **Fragment Zéro** ; il reconnaît le rythme du carnet. |
+| **8** | Iskara, mines (Alkaran) | 165 | intra +25 (cols) | 10 (+ 12) | « Ce qui répond » ; hautes plaines, esprits qui se taisent, la chamane le perçoit. |
+| **9** | Myrtam (Alkaran) | 190 | intra +25 | 11 | Synthèse « les points convergent ». **DETTE relais + paquet (solde).** |
+| **10** | Mosrack, docks (Onara) | 207 | Alkaran→Onara **17 j** | 13 | ★Vels, set-piece de quasi-mort★ ; fausse piste « puissance étrangère ». **DETTE filature (culmine).** |
+| **11** | Grand Fleuve / Tyndara (Onara) | 225 | intra fleuve +18 (accélération) | 6 (info) + 29 (dispersion) | Achète sa propre traque ; **disperse la 1re salve de copies** par les 60 ports (fonction d'Azoria récupérée). **DETTE paquet (saisie).** |
+| **12** | Sarandel (Endora) | 250 | Onara→Endora **25 j** (⚠ lent) | 15 | Cantus Mundi : la pulse devient audible de tous. |
+| **13** | Avalor / Haldria (Endora) | 300 | intra +50 (attente Perivalis) | 16 + 22 | ★**La traque prend un visage**★ ; astronome (le coût de la compassion, correction 10) ; étoiles décalées. Fin acte II. **DETTE lettres de Mira (raréfié).** |
+| **14** | Gryndor (Ilthara) | 330 | Endora→Ilthara **30 j** | 17 | Devient « fugitif » ; fragment du Message de Mirathi. |
+| **15** | Ordavan (Ilthara) | 350 | intra +20 | 18 | Arrache les pages originales. **DETTE double passage (ouvre).** |
+| **16** | Drakora / Lunaris (Ilthara) | 375 | intra +25 | 19 | Vey'thar, « le dessous du fond » ; le père est passé là. |
+| **17** | Pyrtara (Ilthara) | 400 | intra +25 | 20 | ★★**FLAGRANT DÉLIT**★★ (Saven, la date qui ne colle pas). **Mi-livre. DETTE double passage (solde).** |
+| **18** | Sylthara (Ilthara) | 425 | intra +25 | 21 | Moisson d'un agronome condamné ; le soupçon « c'est lui » monte. |
+| **19** | Warenthor, jungle (Ilthara) | 460 | intra +35 (Trace Verte à pied) | 23 | ★Vels, set-piece canopée★ ; Sorin l'épargne (indice). |
+| **20** | Lythar / Vytharia, 1er passage (Ilthara) | 490 | intra +30 | 24 (+ 32 fn) | Enfant aux Yeux Blancs le reconnaît ; **l'appareil comprend qu'il DÉPOSE** (fonction d'Ulinor récupérée). Fin acte III. |
+| **21** | Cendra (Cendara) | 502 | Ilthara→Cendara **12 j** | 27 | Kessa ; Morvath « ancrages du monde ». **Arc lent Cendara (1/3).** |
+| **22** | Mont Cendra (Cendara) | 525 | intra Cendara **23 j** | 27 | Talvhar ; la pulse qu'un Délié sent ; le rythme = Jumeau. **Arc lent Cendara (2/3).** |
+| **23** | Arkhen (Cendara) *(pic)* | 548 | Détroit de Suie, intra Cendara **13 j** + **séjour 10 j** (brumes sulfureuses) | 28 (transposée à Cendara) | ★★**PIC DU SOUPÇON**★★ (Enfant aux Yeux Blancs de Cendara, une mort trop propre). **Arc lent Cendara (3/3).** |
+| **24** | Evertia, île consciente (Evertia) | 578 | Cendara→Evertia **10 j** + **séjour 20 j** (accès Valmora, forêt-labyrinthe) | 30 | ★★**FISSURE DU SOUPÇON**★★ : il arrive trop tard ; « ils arrivent par le dessous ». **Arc lent Evertia (1/2).** |
+| **25** | Sylvara / Thalmaris (Evertia) | 600 | intra Evertia **22 j** | 31 | Chevet du dernier esprit-lieu ; le moissonneur assumé. **Arc lent Evertia (2/2).** |
+| **26** | Départ d'Evertia, cap sur le retour | 630 | attente marée + appareillage **30 j** | 26 (Mira) + 32 (bascule appareil) | Les lettres de Mira **se coupent** sans résolution ; l'appareil chasse le JOURNAL. Fin acte IV. **DETTE lettres de Mira (coupe).** |
+| **27** | Vytharia / Mirathi, **RETOUR Ilthara** | 660 | Evertia→Ilthara **14 j** + **séjour 16 j** (sphère de Vytharia) | 33 | **Bascule par DOCUMENT** (le rapport d'Orath). Message de Mirathi (non traduit). **Sphère de Vytharia (1/2).** |
+| **28** | Lunasar *(rattachement sphère de Vytharia)* | 690 | intra sphère Vytharia **15 j** + **séjour 15 j** | 34 (contrainte transposée) + 35 | **Bascule par CONTRAINTE** : quasi-capture par Vels, il manœuvre à visage découvert. ★set-piece★ **Sphère de Vytharia (2/2).** |
+| **29** | Caeloria *(SE, escale religieuse)* | 715 | Ilthara/Vytharia→Caeloria **22 j** (long saut SE) + **séjour 3 j** | 28 (Caeloria) + 35 (lapsus) | **Bascule par LAPSUS** : la phrase de trop, barrée. Escale du Cardinal-Élu, en approche de Baelor. |
+| **30** | Baelor-Prime (Baelor) | 745 | Caeloria→Baelor **18 j** (brume) + **séjour 12 j** (attente fenêtre, vent NE) | 36 | **Bascule par TIERS-VOYANT** (le seul, gardé) : le moine, le mot « Dessous ». **Bascule complète (~79 %).** |
+| **31** | En route, **ACCÉLÉRATION nord** | 775 | Baelor→nord, grand saut +30 | (transition) | Chapitre de fuite qui avale la distance ; ultime interception de Vels déjouée. |
+| **32** | Astravia / Varennis (Celethor) | 800 | (suite du saut) +25 | 25 | Caution de l'archimage ; la trame se modifie, mesurable ; porte du pôle. |
+| **33** | Noravia (Cestra) | 825 | Celethor→Cestra **25 j** (polaire) | 37 | Approche polaire ; Borela « vous êtes peut-être son fils ». |
+| **34** | Mont Jumeau (Cestra) | 845 | intra +20 | 37 | La feuille du père « Tu es prêt ». ★**Sommet émotionnel de la bascule (~89 %)**★ |
+| **35** | En mer (Reen) | 870 | Cestra→mer **25 j** | 38 | Verrouillage final des cahiers ; les routes anciennes rouvrent. |
+| **36** | En mer, approche de Galenor | 885 | +15 | 38 | Dernière saisie de l'appareil déjouée. |
+| **37** | **Prismalith (Galenor)** | 895 | →Galenor +10 | 39 | ★**CANON — le dépôt**★ : Ysolde, le Tribunal, Selendris. L'appareil arrive trop tard. |
+| **38** | **Kharazir (Galenor), RETOUR** | 910 | intra +15 | 40 | ★**CANON — la Porte d'Azur**★ (unique acte hors-plan), les murs commencent à tomber. **DETTE lettres de Mira (paie, sans résolution).** |
+
+> **Les 76 jours-séjours (correction arithmétique 2026-07-08, chantier 1).** La somme des **legs de trajet** fait **833 j** (+ 1 j de départ = 834), mais les tampons canoniques (J400, J502-525, J845, J895, J910) exigent **910 j** : **76 j** étaient non comptés, tous concentrés aux ch. 23-30. On ne rallonge PAS les legs (plafonnés par l'atlas) : on les **explicite en SÉJOURS**, cohérents avec la dramaturgie des arcs lents et des attentes de fenêtre (atlas §4 : *l'attente de fenêtre devient un séjour*). Les 76 j se répartissent exactement ainsi : **ch. 23 Arkhen +10** (brumes du Détroit de Suie), **ch. 24 Evertia +20** (accès Valmora, forêt-labyrinthe), **ch. 27 Vytharia +16** (sphère de Vytharia), **ch. 28 Lunasar +15**, **ch. 29 Caeloria +3**, **ch. 30 Baelor +12** (attente de la fenêtre de passage, vent NE). **Preuve : départ 1 + legs 833 + séjours 76 = 910**, et chaque tampon se reconstitue ligne à ligne (J400 = ch. 17 ; J502/525 = ch. 21/22 ; J845 = ch. 34 ; J895 = ch. 37 ; J910 = ch. 38).
+
+**Récapitulatif de la route (une page).**
+- **Lieux forts retenus (~12-13) :** Galenor (natal + retour), Alkaran, Onara, Endora, **Ilthara (hub, revisité)**, Cendara, Evertia, **sphère de Vytharia (Vytharia + Lunasar)** = retour élargi d'Ilthara, **Caeloria (SE, escale religieuse avant Baelor)**, Baelor, Celethor, **Cestra** (terminus). Plus la mer et Prismalith (Galenor). *(Nysaria retirée de la route, cf. atlas : NE lointain à l'opposé de Vytharia.)*
+- **Retours (le réseau se cultive, l'étau se resserre) :** **Ilthara ×2** — grand arc lent ch. 14-20, puis retour ch. 27-28 (**sphère de Vytharia** : Vytharia/Lunasar) pour la bascule ; **Galenor en boucle** — départ ch. 1-6, retour-arrivée ch. 37-38 ; le **réseau de dépôt** lui-même est un retour thématique (copie posée ch. 2 → dispersée ch. 11 → ressort à Prismalith ch. 37).
+- **Arcs lents :** Galenor (6 ch.), **Ilthara (7 ch.)**, **Cendara (3 ch. : 21-23, pic du soupçon inclus)**, Evertia (2 ch.), Cestra (2 ch.).
+- **Accélérations :** le fleuve d'Onar (ch. 11), et surtout **le grand saut nord ch. 31-32** (Baelor→Celethor→Cestra), chapitre de fuite qui avale la distance.
+- **Suppressions franches :** **Azoria** (cul-de-sac arctique sans fonction propre → dispersion des copies transférée à Onara, ch. 11) ; **Ulinor** (l'archipel le plus lent, Grand Canyon → « l'appareil comprend qu'il dépose » transféré à Lythar ch. 20, folklore de « l'oublié qui remonte » à Baelor ch. 30) ; **Nysaria retirée de la route** (NE lointain, ~734 u de Vytharia, à l'opposé de la bascule → beat de la quasi-capture transféré à Lunasar/sphère de Vytharia, ch. 28 ; portail *entrevu* conservé en canon, jamais visité) ; navette Endora↔Ilthara supprimée ; Galenor dégraissé (Seraphia et Tyndara-comptoirs fondus).
+- **Budget jours :** 910 (départ fin an 248 → arrivée seuil an 251 ; année ≈ 365 j, cf. §5.1). Legs 833 + séjours 76 + 1 départ = 910 (chantier 1). Legs intercontinentaux conformes à l'atlas §5. **Paliers repositionnés :** malaise ch. 1-13 (premier tiers) ; flagrant délit ch. 17 (mi-livre) ; pic de la fausse piste ch. 23 puis fissure ch. 24 (~60-63 %) ; bascule run-up ch. 27-29, complète ch. 30 → sommet ch. 34 (~79-89 %) ; endgame + morale ch. 35-38.
+- **Compte de chapitres : 38** (contre 40). Les deux finaux (ch. 37-38) restent le point d'arrivée canon intangible.
+
+### 4.1 — Convention du plan chapitre par chapitre (fiches legacy = banque de matière)
+
+> **Bridge (refonte route 2026-07-08).** Les fiches ci-dessous conservent leur **numérotation legacy 1-40** : elles ne sont PLUS l'ordre de lecture, mais la **banque de GARDE** dans laquelle §4.0bis puise. Pour la route réelle, sa numérotation (1-38), ses durées et ses fusions, se reporter **exclusivement à §4.0bis**. Les mentions « ch. N » à l'intérieur des fiches renvoient au repère legacy ; le tableau §4.0bis fait le pont vers la numérotation vivante.
+
+Pour chacune : **titre** (conservé / modifié) · **GARDE** (matière réutilisable du texte actuel) · **TRANSFORME** (ce qui change) · **ENJEU & SCÈNE CLÉ** (l'action, le mouvement) · **SEMÉ / PAYÉ** · **STRATE CACHÉE** (la relecture) · **MOTEURS** (A traque / B mission / C enquête / D relations) · **MOTS**.
 
 ### 4.1bis — DOCTRINE DE TRESSAGE (correction comité 4, majeure) : tuer l'épisodique résiduel
 
 Le comité a raison : annoter des moteurs sur chaque chapitre ne suffit pas si la structure reste **une nation = un chapitre = une fonction autonome** (relais des steppes, première copie, intel…). Tant que les fonctions ne **dépendent pas les unes des autres** d'un chapitre à l'autre, chaque escale reste interchangeable, sautable — le guide de voyage à peine déguisé. **Remède obligatoire : créer des DETTES qui traversent 3 à 4 escales**, pour qu'aucun chapitre ne soit auto-suffisant et que le lecteur doive tourner la page vers un chapitre précis. Fils de dette à tenir dans les fiches (les cinq principaux, tissés dès l'acte I) :
 
-- **Fil « relais grillé ».** Le relais des steppes activé au **ch. 3** est **menacé/grillé au ch. 6** (Tyndara vend l'info de sa propre traque) et **paie au ch. 11** (l'appareil a suivi son courrier). Le lecteur revient à ce fil trois fois.
-- **Fil « paquet compromis ».** La copie confiée à Seraphia (**ch. 4**) « ressort » **compromise au ch. 11**, puis **saisie au ch. 29** (Azoral) — et sa saisie désamorce, à la bascule, le soupçon « ordres de mort » (§4 ch. 29).
-- **Fil « filature Mosrack ».** La filature amorcée au **ch. 5** (Sorin refuse d'embarquer, on le remarque) **court jusqu'au ch. 8**, où le limier Vels Draye la reprend physiquement.
-- **Fil « double passage d'Ordavan ».** Le détail semé au **ch. 18** (Sorin connaît trop bien le chemin) est **payé au ch. 20** (le flagrant délit, §2.6).
-- **Fil « lettres de Mira ».** Le courrier avec Mira (**ch. 1**) se raréfie, s'inquiète (**ch. 14, 26**) et se coupe (**ch. 26**) sans résolution (§3.3) — payé au ch. 40.
+> Numéros en route vivante (§4.0bis).
+
+- **Fil « relais grillé ».** Le relais des steppes activé au **ch. 3** (Ventera) est **menacé/grillé au ch. 4** (Solena : le courtier vend à Sorin l'info de sa propre traque, fonction récupérée de Tyndara) et **paie au ch. 9** (Myrtam : l'appareil a suivi son courrier). Le lecteur revient à ce fil trois fois.
+- **Fil « paquet compromis ».** La copie déposée au scriptorium de Lumasar (**ch. 2**, fonction récupérée de Seraphia) « ressort » **compromise au ch. 9** (Myrtam), puis **saisie au ch. 11** (Onara, lors de la dispersion par le fleuve) — et sa saisie désamorce, à la bascule, le soupçon « ordres de mort » (§4.0bis ch. 11).
+- **Fil « filature Mosrack ».** La filature amorcée au **ch. 4** (Solena : Sorin refuse d'embarquer, on le remarque) est **reprise physiquement au ch. 6** (Valoria) par le limier Vels Draye et **culmine au ch. 10** (docks de Mosrack, set-piece).
+- **Fil « double passage d'Ordavan ».** Le détail semé au **ch. 15** (Sorin connaît trop bien le chemin) est **payé au ch. 17** (le flagrant délit de Pyrtara, §2.6).
+- **Fil « lettres de Mira ».** Le courrier avec Mira (**ch. 1**) se raréfie, s'inquiète (**ch. 13**) et se coupe (**ch. 26**) sans résolution (§3.3) — payé au ch. 38.
 
 **Règle dure : aucun chapitre auto-suffisant.** Le comité estime que 30 des 40 le sont aujourd'hui ; cible de refonte : que chaque chapitre ouvre OU solde au moins une dette d'un autre chapitre. Les fiches ci-dessous portent la mention **DETTE** (ouvre/relève) là où le fil traverse.
 
@@ -486,6 +552,8 @@ Le comité a raison : annoter des moteurs sur chaque chapitre ne suffit pas si l
 - **MOTEURS.** B (preuve maîtresse), C (le monde bascule, l'Enfant), D (Kessa). · **MOTS : 5 000.**
 
 **CH. 28 — Les Enfants aux Yeux Blancs** *(Caeloria)* · **Jour 580** — **★ PIC DU SOUPÇON ★**
+
+> **REFONTE GÉOGRAPHIE 2026-07-08 (chantier 2).** Caeloria est au **sud-est** (carte : x≈194 / y≈349), voisine de Baelor et d'Azoria — **pas** entre Cendara et Evertia. Cette fiche se scinde donc en deux emplois de la route vivante : **(a)** le **PIC DU SOUPÇON** (Enfant aux Yeux Blancs + mort trop propre) est **transposé à Cendara / Arkhen (ch. 23 vivant)**, où l'Enfant aux Yeux Blancs est déjà canon ; **(b)** Caeloria elle-même migre à **l'approche SE de Baelor (ch. 29 vivant)**, en **escale religieuse** cohérente avec son Cardinal-Élu, et y porte la bascule **par LAPSUS**. La matière « Enfants aux Yeux Blancs, on les fait disparaître des registres » sert les deux slots.
 - **GARDE.** [canon Era 7] Caeloria, foyer des Enfants aux Yeux Blancs, les plus nombreux ; on les « fait disparaître des registres » ailleurs, on se les dispute.
 - **TRANSFORME.** **Le pic de la fausse piste maîtresse.** Sorin arrive à Caeloria ; un gardien de savoir des Enfants meurt dans des circonstances si proches de sa visite, si « propres », que tout — sa présence, son calme, son avance sur les événements, les pages arrachées, l'homme épargné dans la jungle — semble enfin cohérent d'une seule façon horrible : **Sorin marque les cibles, ou les tue.** Le chapitre est construit pour que le lecteur en soit presque sûr.
 - **ENJEU & SCÈNE CLÉ.** Comprendre les Enfants (qui l'entendent) tout en étant, aux yeux du lecteur, le suspect numéro un. Scène clé : un Enfant aux Yeux Blancs lui dit quelque chose que seul un coupable — ou un porteur — pourrait mériter ; et la mort survient. Le doute du lecteur est à son comble.
@@ -526,7 +594,7 @@ Le comité a raison : annoter des moteurs sur chaque chapitre ne suffit pas si l
 - **STRATE CACHÉE.** Sorin est soulagé qu'on chasse le journal : cela veut dire que le vaisseau est enfin perçu comme dangereux, donc réel, donc efficace. Sa cible à lui approche.
 - **MOTEURS.** A (le duel mute), B (course au dépôt), C (l'oublié). · **MOTS : 4 600.**
 
-*Sous-total Acte IV : 36 200 mots. · Cumul I-IV : 147 500 mots.*
+*Sous-total Acte IV : 36 800 mots. · Cumul I-IV : 148 100 mots.*
 
 ---
 
@@ -543,6 +611,8 @@ Le comité a raison : annoter des moteurs sur chaque chapitre ne suffit pas si l
 - **MOTEURS.** B (Mirathi, preuve), A (le rapport d'Orath, l'appareil), C (le monde bascule), D (les rêveuses). · **MOTS : 4 800.**
 
 **CH. 34 — L'Île aux Masques** *(Nysaria)* · **Jour 745**
+
+> **REFONTE GÉOGRAPHIE 2026-07-08 (chantier 2) — Nysaria SORT de la route.** La carte place Nysaria au **nord-est lointain** (x≈223 / y≈−380), à **~734 u de Vytharia** et **~694 u d'Ilthara**, soit à l'**opposé** de la bascule SO : un aller-retour au NE en pleine bascule coûterait des dizaines de jours, absurde. Son statut continent/île reste une **question de lore OUVERTE**, non tranchée ici. **Le beat de cette fiche — la quasi-capture par Vels, la bascule par CONTRAINTE (masque tombé par nécessité) — est transposé à Lunasar (ch. 28 vivant), dans la sphère de Vytharia.** Le **portail canon** (« à Nysaria, au portail dont j'avais entrevu la forme » [ch. 37]) est préservé comme *entrevu de loin / reconnu sur document* (Message de Mirathi), **jamais visité** : le verbe « entrevu » tient sans escale (garde-fou §7, portail de Nysaria intouchable).
 - **GARDE.** [canon ch. 37 : « à Nysaria, au portail dont j'avais entrevu la forme, quelque chose que je n'avais pas su nommer... une ouverture dans l'espace »] Nysaria, l'île aux masques ; le portail entrevu.
 - **TRANSFORME.** **Le chapitre-charnière de la bascule, révélation par CONTRAINTE (correction comité 3 + 12).** On abandonne le tailleur de masques qui énonce la métaphore : le comité a raison, faire de Nysaria « l'île où chacun porte un masque » pile quand le lecteur comprend le masque, c'est un dispositif qui explique son propre dispositif. **Le masque de Nysaria reste un motif de fond, jamais nommé par un personnage comme « votre masque à vous ».** À la place, le masque de Sorin tombe par la NÉCESSITÉ : **Vels Draye le coince ici** (quasi-capture, set-piece de l'acte), et pour survivre Sorin doit **manœuvrer en stratège à visage découvert devant un allié qui le croyait naïf.** L'allié voit, en une scène, l'homme complet — la ruse, l'avance, le sang-froid. Le masque tombe parce qu'il n'a plus le choix, pas parce qu'un oracle le désigne. Le portail entrevu pose, sans le résoudre, la lecture du « seuil » [garde-fou].
 - **ENJEU & SCÈNE CLÉ.** Échapper à Vels sans lâcher le plan, au prix de se démasquer devant quelqu'un qui l'aimait innocent. Scène clé : l'acculement, la manœuvre froide et brillante sous le regard blessé de l'allié, le gant noir tout près, le portail au loin comme une porte qu'il ne franchit pas. **DETTE (relève le fil « Vels » : la menace charnelle culmine ici pour l'acte).**
@@ -551,6 +621,8 @@ Le comité a raison : annoter des moteurs sur chaque chapitre ne suffit pas si l
 - **MOTEURS.** A (Vels, la quasi-capture), D (le masque, l'allié trahi), C (le seuil). · **MOTS : 4 600.**
 
 **CH. 35 — La Monarchie Lunaire** *(Lunasar)* · **Jour 770**
+
+> **REFONTE GÉOGRAPHIE 2026-07-08 (chantier 2).** Lunasar est **absente de la carte** ; le lore la donne pour **enfant de Vytharia** (avec Mirathi). On la traite en **rattachement régional de la sphère de Vytharia** (position non cartographiée). Dans la route vivante, Lunasar devient **ch. 28** et **hérite du beat de CONTRAINTE** (quasi-capture par Vels, masque tombé à visage découvert) qui se jouait à Nysaria. **Le beat de LAPSUS** de cette fiche (la phrase de trop, barrée) **migre à Caeloria (ch. 29 vivant)**. La matière « cour lunaire, cycles, secret d'État, miroir de l'appareil » reste employable pour la sphère de Vytharia.
 - **GARDE.** [canon Era 7 ; chapitre en cours de révision au dépôt git] Lunasar, la monarchie lunaire, ses cycles, sa cour ; les enfants de Vytharia [T3 : « Lunasar/Mirathi sont les enfants de Vytharia »].
 - **TRANSFORME.** La bascule se poursuit par le pouvoir et le secret d'État — mais **révélation par LAPSUS (correction comité 3, pas un troisième aveu par tiers).** À la cour lunaire, Sorin voit un appareil qui, comme le sien, vit de ce qu'il tait (miroir de Vaskar/Orath : garder scellé comme miséricorde). Et c'est **sa propre plume qui déraille** : dans son journal, il consigne une phrase de trop — un « je savais depuis Kharazir que » qui lui échappe — **puis la barre** (écho « *La barre vaut mieux que la phrase* » [ch. 37]). La barre elle-même est l'aveu : le narrateur se trahit tout seul, sans oracle, sans document. La bascule vient de l'intérieur cette fois.
 - **ENJEU & SCÈNE CLÉ.** Obtenir un dernier passage / une dernière caution vers Baelor et Cestra sans que la cour ne saisisse le journal. Scène clé : une audience nocturne sur le secret d'État, puis, seul, la page où Sorin écrit ce qu'il n'aurait pas dû, s'arrête, et raye — le lecteur lit la phrase sous la barre. La bascule progresse d'un cran de plus, par une quatrième voie.
@@ -598,20 +670,22 @@ Le comité a raison : annoter des moteurs sur chaque chapitre ne suffit pas si l
 - **STRATE CACHÉE.** Dernière relecture : « une vérité trop grande pour un seul homme ne peut pas mourir avec lui » n'est pas la sagesse tardive d'un voyageur — c'est la thèse fondatrice de tout le plan, énoncée par le père, exécutée par le fils, payée par les dupes et les morts. Et la question morale reste ouverte : il a gagné, la vérité est indestructible, les murs commencent à tomber — et le savant de Valoria est mort, et le gardien d'Evertia, et Mira Dasthen a disparu sans qu'il sache jamais s'il l'a tuée. L'aime-t-on encore ? Le fulcrum de cette question, c'est le seul geste qu'il n'avait pas calculé : la Porte d'Azur. Le livre ne répond pas. Il laisse quatorze pages blanches.
 - **MOTEURS.** B (le dépôt final + l'acte), C (les morts, le prix), D (Omarin, les Déliés), A (l'appareil dépassé). · **MOTS : 5 200.**
 
-*Sous-total Acte V : 38 400 mots. · **TOTAL PLAN : 185 900 mots** (≥ 170 000 ✓).*
+*Sous-total Acte V : 38 400 mots. · **TOTAL PLAN : 186 500 mots** (≥ 170 000 ✓).*
 
 ### 4.2 — Vérification de la somme des mots cible
 
+Recalé sur la **route vivante 38 chapitres** (§4.0bis). Le budget mots total (~186 000) est redistribué sur 38 chapitres au lieu de 40 (moyenne ~4 900/chapitre) ; les arcs lents (Ilthara, Galenor) absorbent la matière des escales supprimées.
+
 | Acte | Chapitres | Mots |
 |---|---|---|
-| I — La Fuite | 1-8 | 37 100 |
-| II — La Forge | 9-16 | 36 600 |
-| III — Les Dragons | 17-24 | 37 600 |
-| IV — Les Mystères | 25-32 | 36 200 |
-| V — L'Indicible | 33-40 | 38 400 |
-| **TOTAL** | **40** | **185 900** |
+| I — La Fuite (Galenor) | 1-6 | 30 600 |
+| II — La Forge (Alkaran/Onara/Endora) | 7-13 | 34 300 |
+| III — Les Dragons (Ilthara) | 14-20 | 35 000 |
+| IV — Les Mystères (grappe sud-ouest) | 21-26 | 29 400 |
+| V — L'Indicible | 27-38 | 57 200 |
+| **TOTAL** | **38** | **186 500** |
 
-Marge confortable au-dessus du plancher de 170 000. Fourchette par chapitre : 4 200-5 200 (dans la cible 4 000-5 500). Si densité insuffisante à la rédaction, les chapitres à 4 200 (3, 6, 13, 14, 21) peuvent monter à 4 600 sans déséquilibre.
+Marge confortable au-dessus du plancher de 170 000. Fourchette par chapitre : ~4 200-5 400 (dans la cible 4 000-5 500). Les chapitres-charnières (flagrant délit ch. 17, Cendra ch. 21-22, Jumeau ch. 34, finaux canon ch. 37-38) tirent vers le haut ; les transitions et accélérations (ch. 26, 31, 36) vers le bas.
 
 ---
 
@@ -623,38 +697,42 @@ Marge confortable au-dessus du plancher de 170 000. Fourchette par chapitre : 4 
 
 Le T3 fixe : présent = **an 251 ≈ 10 200 ap.A** [canon Era 7] ; ch. 39 = Jour 895, ch. 40 = Jour 910 « au cusp de l'an 251 » ; la copie de Prismalith **dort déjà à Prismalith quand le T3 se joue**. On en déduit :
 
-**Calage arithmétique (correction comité 14).** L'ancien tableau flottait : départ « ~an 249 » (soit 249,0) + 895 jours (~2,45 ans) donnait ~mi-251, pas « cusp » (seuil) an 251. On **cale le départ en FIN d'an 249** pour que le jour 895 tombe au tout début de l'an 251, cohérent avec « la copie dort déjà pour le T3 ». Vérifié : le jour 375 (milieu) reste bien dans l'an 250. On ne date jamais après l'an 251.
+**Calage arithmétique (correction de fond 2026-07-08, chantier 3 — remplace la correction comité 14).** L'ancienne justification était incohérente : elle superposait trois échelles d'année contradictoires (une année « jours » de 910 j ≈ 2,5 ans, une échelle « an Sillage » qui n'avançait que de ~2 ans, et une échelle « ap.A » qui n'avançait que de ~1,3 an entre départ et arrivée). **On tranche : année standard ≈ 365 jours** (aucune durée d'année contraire n'est fixée par le T3 : sa bible date le présent « an 251 / ~10 200 ap.A » sans jamais définir la longueur d'une année ; à défaut de canon contraire, on prend 365 j). Dès lors **910 jours ≈ 2,49 ans**. Pour que le jour 895 (Prismalith) tombe au **seuil de l'an 251** — la fenêtre du T3, où la copie « dort déjà » —, le départ se cale **FIN AN 248** (et non fin 249 : corrigé partout). Ancrage conservé : **an 251 ≈ 10 200 ap.A**, d'où un décalage constant entre les deux ères (an X ↔ ap.A X + 9 949). La cohérence INTERNE des tampons ne bouge pas (J400 = flagrant délit, etc. : ce sont des jours cumulés, indépendants de l'étiquette calendaire). On ne date jamais après l'an 251. **Jours calés sur la route vivante §4.0bis** (numérotation vivante ; legacy entre parenthèses) :
 
-| Repère | Jour | an (Sillage) | ap.A | Remarque |
-|---|---|---|---|---|
-| Départ de Kharazir | 1 | **fin an 249** | ~10 198,7 | début de la fenêtre des prédictions de Cardinal [canon 10 198-10 200] |
-| Milieu (Pyrtara) | 375 | an 250 | ~10 199 | « 8 % d'accélération de la pulse par mois » [canon ch. 20] |
-| Cendra | 550 | an 250 (fin) | ~10 199-200 | pulse « une fois par semaine depuis 6-7 mois » [canon ch. 27] |
-| Jumeau | 835 | an 251 (début) | ~10 200 | terme géologique du réseau |
-| Prismalith | 895 | **tout début an 251 (cusp)** | ~10 200 | dépôt ; la copie « dort » pour le T3 |
-| Kharazir, retour | 910 | an 251 | ~10 200 | contemporain du T3 ; le Troisième Coup approche |
+| Repère | Ch. | Jour | an (Sillage) | ap.A | Remarque |
+|---|---|---|---|---|---|
+| Départ de Kharazir | 1 | 1 | **fin an 248** | ~10 197,6 | à l'orée de la fenêtre des prédictions de Cardinal [canon 10 198-10 200] |
+| Milieu (Pyrtara), flagrant délit | 17 *(l.20)* | 400 | an 249 (dernier tiers) | ~10 198,7 | dans la fenêtre Cardinal ; « 8 % d'accélération de la pulse par mois » [canon] |
+| Cendra | 21-22 *(l.27)* | 502-525 | seuil an 250 | ~10 199,0 | pulse « une fois par semaine depuis 6-7 mois » [canon] |
+| Jumeau | 34 *(l.37)* | 845 | an 250 (fin) | ~10 199,9 | terme géologique du réseau |
+| Prismalith | 37 *(l.39)* | 895 | **tout début an 251 (cusp)** | ~10 200,0 | dépôt ; la copie « dort » pour le T3 |
+| Kharazir, retour | 38 *(l.40)* | 910 | an 251 | ~10 200,1 | contemporain du T3 ; le Troisième Coup approche |
+
+> **Preuve du calage (année = 365 j, départ an 248,6 ≈ fin 248, ancrage an 251 = 10 200 ap.A).** an(J) = 248,6 + (J−1)/365 ; ap.A = an + 9 949. J1 → an 248,6 / 10 197,6. J400 → 249,7 / 10 198,7. J525 → 250,0 / 10 199,0. J845 → 250,9 / 10 199,9. J895 → **251,05** / 10 200,05 (seuil an 251 ✓). J910 → 251,09 / 10 200,1 (an 251 ✓). Les trois échelles avancent désormais du **même pas** (2,49 an entre J1 et J910 sur les trois), la contradiction est levée.
 
 **La journée de Sorin est l'horloge lente ; le T3 est l'horloge terminale.** Les 18 derniers mois d'accélération de la pulse [canon Era 7 : 3 h → 90 min] recouvrent grosso modo la seconde moitié du voyage (actes III-V). Ne jamais dater un événement *après* l'an 251 : le livre s'arrête au bord, comme le T3.
 
 ### 5.2 — Les phénomènes T3, chapitre par chapitre (dates + garde-fou)
 
+Numéros en **route vivante (§4.0bis)** :
+
 | Ch. | Phénomène T3 [canon Era 7] visible par Sorin | Statut / garde-fou |
 |---|---|---|
-| 5 | Lecture « retour de Navigor » (Solena, Via Ventus) | une des six lectures, jamais tranchée [T3 §5.3] |
-| 7, 11 | Pulsations souterraines « depuis 4-5 ans » (Trinoria, Iskara, Ardentris) ; « ce qui répond » | montrées, jamais expliquées |
-| 8, 21, 28, 30 | **Guerre de l'Ombre** : morts de gardiens de savoir / réformistes, sans revendication [canon : 4 tentatives/12 mois en phase terminale] | l'auteur JAMAIS révélé (§7) ; Sorin connaît le profil, pas la main |
-| 9, 11 | Le Fragment Zéro, la pulse « perçue avec les os » | hypothèse de réseau, jamais confirmée |
-| 12, 30, 31 | **Esprits qui se taisent** en cascade ; « ils arrivent par le dessous » (Skaldoria, Evertia, Sylvara) | le dessous / Panghor : semé, jamais confirmé [T3 §5.3 lecture 5] |
-| 16, 22 | **Étoiles mouvantes** : Couronne / Voyageur / Manteau décalées [canon depuis ~10 180] | la peur savante ; on n'ose conclure |
-| 18, 19, 20 | **Faille d'Ordavan** (ancienne, ~10 142) + **Syndrome d'Ordavan** (récent, évacuations) ; pulse = Lunaris/Vey'thar | distinguer la faille ancienne de l'accélération récente ; Vey'thar jamais « expliqué » |
-| 24, 28 | **Enfants aux Yeux Blancs** convoités (Vytharia, Caeloria) [canon : apparus ~6 ans avant le présent] | angle mort ; riment avec la voix qui naît du T3, jamais explicité |
-| 27 | **Cœur de Cendra** : pulse « saison → semaine » [canon] ; foyer de convergence du T3 | Sorin (Délié) la sent : posé, jamais résolu |
-| 32 | Folklore du **8e / Sixième Éternel**, « l'oublié qui remonte par le dessous » (Ulinor) | lecture 4 [T3 §5.3], jamais tranchée |
-| 33 | **Message de Mirathi** (même écriture) ; couvents oniriques | **NON traduit** ; **chambre de Navoria NON ouverte** (§7) |
-| 34 | Le **portail** de Nysaria, « seuil » | entrevu, jamais franchi ni expliqué (§7) |
-| 37 | **Mont Jumeau** sous Cestra, structures, pulse = Cendra ; « Dessous » | hypothèse ; Jumeau/Cestra jamais confirmés [T3 §5.1] |
-| 38 | **Failles remobiles**, routes anciennes rouvertes [canon depuis ~10 170] | le monde du T2 refrémit, sans le refaire |
-| 40 | L'inscription des Huit qui **remonte** sous Rukhsar ; « les murs commencent à tomber » | rime frontale T3 ; les Huit jamais déchiffrés (§7) |
+| 4 | Lecture « retour de Navigor » (Solena, Via Ventus) | une des six lectures, jamais tranchée [T3 §5.3] |
+| 5, 9 | Pulsations souterraines « depuis 4-5 ans » (Trinoria, Iskara, Myrtam) ; « ce qui répond » | montrées, jamais expliquées |
+| 6, 18, 23, 24 | **Guerre de l'Ombre** : morts de gardiens de savoir / réformistes, sans revendication [canon : 4 tentatives/12 mois en phase terminale] | l'auteur JAMAIS révélé (§7) ; Sorin connaît le profil, pas la main |
+| 7, 9 | Le Fragment Zéro, la pulse « perçue avec les os » | hypothèse de réseau, jamais confirmée |
+| 8, 24, 25 | **Esprits qui se taisent** en cascade ; « ils arrivent par le dessous » (hautes plaines d'Alkaran, Evertia, Sylvara) | le dessous / Panghor : semé, jamais confirmé [T3 §5.3 lecture 5] |
+| 13 | **Étoiles mouvantes** : Couronne / Voyageur / Manteau décalées [canon depuis ~10 180] | la peur savante ; on n'ose conclure |
+| 15, 16, 17 | **Faille d'Ordavan** (ancienne, ~10 142) + **Syndrome d'Ordavan** (récent, évacuations) ; pulse = Lunaris/Vey'thar | distinguer la faille ancienne de l'accélération récente ; Vey'thar jamais « expliqué » |
+| 20, 23, 29 | **Enfants aux Yeux Blancs** convoités (Lythar-Vytharia 1er passage, Cendara, Caeloria) [canon : apparus ~6 ans avant le présent] | angle mort ; riment avec la voix qui naît du T3, jamais explicité |
+| 21-22 | **Cœur de Cendra** : pulse « saison → semaine » [canon] ; foyer de convergence du T3 | Sorin (Délié) la sent : posé, jamais résolu |
+| 20, 30 | Folklore du **8e / Sixième Éternel**, « l'oublié qui remonte par le dessous » (Lythar, Baelor ; fonction transférée d'Ulinor supprimé) | lecture 4 [T3 §5.3], jamais tranchée |
+| 27 | **Message de Mirathi** (même écriture) ; couvents oniriques | **NON traduit** ; **chambre de Navoria NON ouverte** (§7) |
+| 27-28 | Le **portail** de Nysaria, « seuil » — désormais *entrevu de loin / rapporté* (Nysaria hors route), sa forme reconnue via le Message de Mirathi ou un document | entrevu, jamais franchi ni expliqué (§7) ; le canon « j'avais entrevu la forme » [ch. 37] tient sans visite |
+| 33-34 | **Mont Jumeau** sous Cestra, structures, pulse = Cendra ; « Dessous » | hypothèse ; Jumeau/Cestra jamais confirmés [T3 §5.1] |
+| 35-36 | **Failles remobiles**, routes anciennes rouvertes [canon depuis ~10 170] | le monde du T2 refrémit, sans le refaire |
+| 38 | L'inscription des Huit qui **remonte** sous Rukhsar ; « les murs commencent à tomber » | rime frontale T3 ; les Huit jamais déchiffrés (§7) |
 
 ### 5.3 — Le point de contact documentaire avec le T3 (Sorin jamais POV dans le T3, réciproquement)
 
@@ -674,7 +752,11 @@ Sorin a **le profil exact des victimes** (gardiens de savoir, découvreurs du r�
 
 1. **Journal en première personne, conservé** (identité du livre, économie documentaire de la trilogie). Mais écrit en **SCÈNES vécues**, jamais en sommaire de guide de voyage. La présentation encyclopédique du monde appartient au site, plus au livre.
 2. **Scène > sommaire (≥ 70 % de temps de scène immédiat).** Chaque chapitre a un enjeu, une scène, un mouvement de l'intrigue. Le monde se voit **en fuyant, en se cachant, en négociant un passage** — jamais en visite guidée. Une description ne vaut que si elle sert l'action, la traque, le dépôt ou la relation.
-3. **DIALOGUE-FIRST.** 2-3 échanges dialogués substantiels à sous-texte par chapitre au minimum (le texte actuel excelle déjà là : Berand, Kessa, Oryn, Pyrax, Omarin — les garder comme étalon).
+3. **DIALOGUE PAR DÉFAUT (directive auteur 2026-07-08, majeure).** La **scène dialoguée est le MODE PAR DÉFAUT** du livre ; le récit résumé est l'**exception justifiée** (transitions, accélérations, ellipses de trajet). *Il faut beaucoup de dialogue : l'immersion en dépend ; trop de narration et le lecteur n'est plus au cœur de l'action.* Règles concrètes :
+   - Sorin **retranscrit les conversations AU STYLE DIRECT**, au présent de la scène vécue, pas en discours indirect résumé (« il me dit que… » est proscrit sauf sommaire assumé). On entend les voix.
+   - **Exigence chiffrée par chapitre : répliques nombreuses et 2 à 4 vraies confrontations parlées à sous-texte** (au-delà du minimum ancien de 2-3). Chaque enjeu de chapitre passe, autant que possible, par une scène PARLÉE (négocier un passage, arracher un savoir, tester un poursuivant, recruter une dupe).
+   - Le texte actuel excelle déjà là et sert d'étalon : Berand, Kessa, Oryn, Pyrax, Omarin. Étendre ce régime à TOUS les chapitres, y compris ceux que la v1 traitait en description encyclopédique.
+   - La duperie du narrateur se joue mieux en dialogue : le sous-texte (ce que Sorin dit vs ce qu'il tait) est plus tranchant dans une réplique que dans un paragraphe de glose.
 4. **Immédiateté de l'aventure.** Le journal reste rétrospectif dans son cadre, mais les scènes sont écrites au plus près du présent vécu (le présent de narration est permis pour les ouvertures de chapitre, comme « L'odeur arrive depuis la mer » [ch. 27] ; alterner sans lourdeur avec le passé du journal).
 
 ### 6.2 — Contraintes de style (héritées de la trilogie, strictes)
@@ -684,6 +766,41 @@ Sorin a **le profil exact des victimes** (gardiens de savoir, découvreurs du r�
 7. **JAMAIS de parenthèses dans la prose du roman.** **Point de vigilance de refonte :** le texte actuel emploie des parenthèses pour les apartés de Sorin (ch. 20 : « (Je relis la formule...) » ; ch. 37). **Ces parenthèses doivent être réécrites** en phrases pleines, en notes de marge signalées autrement, ou en incises virgulées. L'aparté meta de Sorin (précieux pour le narrateur non fiable) se garde ; sa forme parenthésée, non.
 8. **Dialogues : guillemets français** « … » avec tiret cadratin au changement de locuteur si nécessaire. Uniformiser sur tout le livre (le texte actuel mélange guillemets aux ch. 39-40 et tirets seuls aux ch. 1-20 : harmoniser vers les guillemets français, tiret réservé au changement de tour).
 9. **Typographie française** partout : espaces insécables avant ; : ! ? et dans les guillemets ; apostrophes courbes ; capitales accentuées.
+
+### 6.2bis — FRANÇAIS, PAS DE L'ANGLAIS TRADUIT (directive auteur 2026-07-08)
+
+> **Le principe.** Beaucoup d'expressions marchent en anglais et pas en français ; la tentation est de les traduire mot à mot, et « ça ne sonne pas français ». **Quand une tournure anglaise n'a pas d'équivalent, on ne traduit pas la formule : on REFORMULE L'IDÉE en français naturel.** On écrit en français de naissance, pas en français calqué.
+
+**Calques lexicaux et syntaxiques à PROSCRIRE** (liste ouverte, à étendre) :
+- « **faire sens** » (*make sense*) → *avoir un sens, être cohérent, se tenir*.
+- « **adresser un problème / une question** » (*address*) → *traiter, s'attaquer à, régler, aborder*.
+- « **être confortable avec** » (*comfortable with*) → *être à l'aise avec, accepter, se faire à*.
+- « **définitivement** » au sens de *definitely* → *assurément, sans aucun doute, vraiment* (garder « définitivement » pour *for good / une fois pour toutes*).
+- « **réaliser que** » au sens de *realize* → *se rendre compte, comprendre, mesurer, saisir*.
+- « **juste** » adverbial (*just*) → *simplement, seulement, ne… que* (« c'était juste un carnet » → « ce n'était qu'un carnet »).
+- « **être supposé faire** » (*supposed to*) → *être censé faire, devoir faire*.
+- « **en charge de** » (*in charge of*) → *chargé de, responsable de, à la tête de*.
+- (autres à surveiller : « au final », « supporter » = *support* au sens d'appuyer, « opportunité » à toutes les sauces, « développer » = *develop* un symptôme, « anticiper » = *expect*).
+
+**Clichés de fiction traduits à PROSCRIRE** (la « pâte » des romans traduits de l'anglais) :
+- « **laissa échapper un souffle qu'il ne savait pas [avoir] retenu** » (*let out a breath he didn't know he was holding*) — bannir.
+- **yeux qui s'écarquillent**, **frisson le long de la colonne / de l'échine**, **hochements de tête en rafale**, **sourire qui n'atteint pas les yeux**, **mâchoire qui se serre**, **cœur qui manque un battement**.
+- Ces gestes-tics se remplacent par une notation concrète, sobre et située (la litote émotive de Sorin : « le papier était humide à un endroit. Je ne notai pas autre chose » [fiche legacy 37] est le modèle).
+
+**Règle de fond.** Cadence française (rythme de la phrase, place de l'adverbe, longueur variable), **variété des attaques de phrase** (cf. §6.2 règle 5), et reformulation de l'idée plutôt que décalque de la formule. En cas de doute, se demander : *un auteur français qui n'a jamais lu la phrase anglaise l'écrirait-il ainsi ?* Sinon, réécrire.
+
+### 6.2ter — RÈGLE « PAS DE MAGIE » (directive auteur 2026-07-08 : « le monde est différent, des choses ne sont pas normales, mais de là à qualifier ça de magique… »)
+
+> **Le principe.** Le mot **« MAGIE » n'existe JAMAIS dans la voix du narrateur ni dans celle des lettrés.** C'est un mot **du peuple** pour l'inexpliqué. Le texte le **laisse dire** sans jamais le valider : on rapporte la croyance, on ne l'endosse pas. Usage canon déjà en place, à généraliser : « je comprends qu'on l'ait crue magique », « ce n'est pas de la magie, c'est juste… moins seul ».
+
+**Chaque culture nomme l'anormal dans SON registre** (jamais « magie » dans la bouche d'un savant ou du narrateur) :
+- **administratif / institutionnel** : *syndrome* (Syndrome d'Ordavan), *remutation*, *parasites de perception*, *anomalie*, *perturbation de la trame* ;
+- **religieux** : *miracle*, *sacrilège*, *Souffle*, *don du ciel* ;
+- **populaire** : *dons*, *ceux qui entendent*, *ce qui répond*, *l'oublié qui remonte*.
+
+**Ce qui est structurel se DÉCRIT, ne s'explique pas.** Le Lien, les Failles, la pulsation, le battement : on note ce qu'on observe (un pouls dans le sol, un son dans les galeries, une trame qui se modifie et se **mesure**), on ne fournit ni mécanisme ni cause. **Sorin, cartographe, MESURE l'anormal — jamais il ne l'exotise** : il relève, triangule, date, compare ; il ne s'émerveille pas et ne mystifie pas. La litote du cartographe (« le papier était humide à un endroit. Je ne notai pas autre chose ») est l'anti-magie par excellence.
+
+> **Point d'audit (réécriture).** Le **ch. 25 v1 (« Les Îles »)** concentre **13 occurrences de « magie »** : toutes à vérifier et à réécrire en **croyances rapportées** (« ceux du port l'appelaient… », « on disait que… ») ou à remplacer par le registre culturel adéquat. Aucune ne doit subsister comme constat du narrateur ou d'un lettré.
 
 ### 6.3 — Le registre du narrateur non fiable (rappel opérationnel, cf. §2.4)
 
@@ -764,6 +881,36 @@ Sorin a **le profil exact des victimes** (gardiens de savoir, découvreurs du r�
 | 11 | IMPORTANT | **Retenu** | Mandat : ≥ 1 double-fond **factuel** par chapitre (objet/chiffre/nom/geste/date qui s'inverse), jamais une strate seulement tonale. → §2.4.7 + double-fonds factuels ajoutés aux fiches 3, 6, 11, 12, 14, 22 (acte II surtout) + garde-fou 23. |
 | 12 | MINEUR | **Retenu (fondu dans #3)** | Nysaria : littéralité du masque désamorcée (motif de fond, jamais nommé « votre masque à vous ») ; l'aveu passe par la contrainte (Vels), pas par un tailleur de masques. → fiche 34. |
 | 13 | MINEUR | **Retenu** | La Porte d'Azur (ch. 40) désignée **unique acte hors-plan** : gratuit, non calculé, fulcrum de la question morale. Ne plus la retro-stratégiser. → fiche 40 (TRANSFORME + STRATE) + ligne 39-40 du tableau §2.5 + garde-fou 22. |
-| 14 | MINEUR | **Retenu** | Datation calée : départ en **fin d'an 249 (~10 198,7)** pour que le jour 895 tombe au tout début de l'an 251 ; jour 375 vérifié dans l'an 250. → tableau §5.1. |
+| 14 | MINEUR | **Retenu, puis CORRIGÉ (chantier 3, §8.2)** | ~~Datation calée : départ en fin d'an 249~~ — **remplacé** : la correction de fond 2026-07-08 tranche l'année à ≈ 365 j et recale le départ en **fin d'an 248** (910 j ≈ 2,49 ans, sinon le jour 895 dépasse le seuil de l'an 251). → tableau §5.1 réécrit + §8.2 C3. |
 
 **Vérification finale des garde-fous T3 (relecture §5 de la bible du T3, intégrale).** Aucune correction n'entame un mystère du jeu : l'auteur de la Guerre de l'Ombre reste inconnu (renforcé par la correction 1-2, qui interdit désormais explicitement à Sorin de la minuter) ; le sort d'Aldric reste ouvert ; la chambre de Navoria et le Message de Mirathi restent scellés/non traduits (fiche 33 le redit) ; les ch. 39-40 restent le point d'arrivée intact ; la datation an 251 et la copie de Prismalith qui « dort » pour le T3 sont préservées (correction 14 les resserre). Les deux séries d'effacement (appareil / Guerre de l'Ombre) répondent au « double aveuglement » du T3 (§3.3 T3) sans le trancher. Rien de ce que le T3 établit n'est contredit.
+
+---
+
+### 8.1 — DIRECTIVES DE ROUTE (auteur, 2026-07-08) — refonte structurelle
+
+Quatre directives de Nicolas, intégrées en place. **Aucune ne touche les garde-fous §7 ni la mécanique de la duperie §2** (seules les renumérotations en découlent).
+
+| # | Directive | Décision et sections touchées |
+|---|---|---|
+| **R1** | **Liberté de route + resserrement.** Pas de règle « une nation = un chapitre » ; accélérations, retours (5-10 possibles), arcs lents ; réduire le nombre de lieux pour ne pas se perdre ; supprimer les continents sans fonction. | **Route REDESSINÉE sur l'atlas.** §4.0 réécrit (arc des actes + budget jours + atlas-loi) ; **§4.0bis créé** (itinéraire-maître 38 chapitres, ~12-13 lieux forts, durées en jours conformes à l'atlas, source de vérité de la numérotation). **Suppressions : Azoria** (dispersion des copies → Onara ch. 11) et **Ulinor** (« l'appareil comprend qu'il dépose » → Lythar ch. 20 ; folklore de « l'oublié » → Baelor ch. 30) ; navette Endora↔Ilthara supprimée ; Galenor dégraissé (Seraphia, Tyndara-comptoirs fondus). **Retours : Ilthara ×2** (arc ch. 14-20 + retour bascule ch. 27-29), **Galenor en boucle** (ch. 1-6 / 37-38), réseau de dépôt (copie ch. 2 → dispersée ch. 11 → Prismalith ch. 37). **Arcs lents :** Galenor (6), Ilthara (7), Cendra (2), Evertia (2), Cestra (2). **Accélérations :** fleuve d'Onar (11), grand saut nord (31-32). **Compte : 40 → 38** (finaux ch. 37-38 = canon intangible). **Paliers repositionnés** (malaise ch. 1-13, flagrant délit ch. 17, pic ch. 23 / fissure ch. 24, bascule ch. 27-34). Tables §2.5, §2.6, §4.1bis, §5.1, §5.2 recalées. Fiches §4.1 conservées en **banque de matière legacy** (bridge §4.1). |
+| **R2** | **Dialogue = immersion.** Beaucoup de dialogue ; trop de narration éloigne de l'action. | §6.1 règle 3 réécrite : **la scène dialoguée est le MODE PAR DÉFAUT**, style direct au présent de la scène, **2-4 confrontations parlées à sous-texte par chapitre**, récit résumé réservé aux transitions/accélérations. |
+| **R3** | **Français idiomatique, pas de calques.** Ne pas traduire les tournures anglaises sans équivalent ; reformuler l'idée. | **§6.2bis créé — « Français, pas de l'anglais traduit ».** Calques proscrits (« faire sens », « adresser un problème », « être confortable avec », « définitivement »=*definitely*, « réaliser que », « juste » adverbial, « être supposé faire », « en charge de ») ; clichés de fiction traduite proscrits (« un souffle qu'il ne savait pas retenir », yeux écarquillés, frisson dans l'échine, hochements en rafale, sourire qui n'atteint pas les yeux) ; règle : reformuler l'idée, pas décalquer la formule. |
+| **R4** | **L'atlas est la loi.** Référencer `_atlas-voyage.md` ; tout rédacteur y vérifie durées et obstacles. | §4.0 ouvre sur la directive atlas ; §4.0bis cale chaque durée sur l'atlas §2/§5 ; consigne gravée : aucune datation ni obstacle inventés hors atlas. |
+
+**Note de renumérotation.** La route vivante (§4.0bis) numérote 1-38. Les **fiches §4.1 gardent leur numérotation legacy 1-40** comme banque de GARDE ; le pont legacy→vivant est dans la colonne GARDE de §4.0bis et signalé « *(legacy N)* » dans les tables recalées (§2.5, §5.1, §5.2). Les citations canon internes aux fiches (« [ch. 27] », « [ch. 37] »…) restent des repères legacy vers le texte-source. **Garde-fous §7 et mécanique §2 : inchangés au fond** (seuls les numéros de chapitre cités s'y liraient désormais via le pont ; le §7 n'a pas été réécrit, ses renvois « ch. 39-40 » = les deux finaux canon = ch. 37-38 vivants).
+
+---
+
+### 8.2 — CORRECTIONS DE FOND (rapport de vérification, 2026-07-08) — quatre chantiers tranchés par le chef de projet
+
+Arbitrages **déjà tranchés**, appliqués et consignés. Aucun n'entame un garde-fou §7 ni la mécanique §2.
+
+| # | Chantier | Décision et sections touchées |
+|---|---|---|
+| **C1** | **Les 76 jours fantômes (§4.0bis).** La somme des legs faisait **833 j** (+1 départ = 834), les tampons exigent **910** : 76 j non comptés, concentrés ch. 23-30. | **Explicités en SÉJOURS** (legs NON rallongés, plafonnés par l'atlas ; atlas §4 : l'attente de fenêtre devient un séjour). Colonne « Étape & durée » de §4.0bis enrichie d'une mention **« séjour N j »** aux ch. **23 (+10, brumes du Détroit de Suie), 24 (+20, accès Valmora/forêt-labyrinthe), 27 (+16, sphère de Vytharia), 28 (+15), 29 (+3), 30 (+12, attente fenêtre de Baelor)**. **Preuve : 1 + 833 (legs) + 76 (séjours) = 910** ; tampons reconstitués ligne à ligne (J400=ch17, J502/525=ch21/22, J845=ch34, J895=ch37, J910=ch38). Bloc de preuve ajouté sous la table §4.0bis. |
+| **C2** | **Géographie réelle (carte du site = vérité terrain).** Caeloria (194/349) = **SE**, voisine de Baelor et d'Azoria ; Nysaria (223/−380) = **NE lointain**, à l'opposé de Vytharia ; Vytharia (−194/225) = **grappe SO près d'Ilthara** ; Lunasar = **absente**, enfant de Vytharia. | **(a)** Le retour SO (ch. 27-28) devient la **SPHÈRE DE VYTHARIA** (Vytharia + Lunasar en rattachement régional) ; **Nysaria SORT de la route** (aller-retour NE absurde ; statut continent/île laissé ouvert) ; le beat de **quasi-capture par Vels (contrainte)** se joue à **Lunasar (ch. 28)**. **(b)** Caeloria migre à l'**approche SE, précède Baelor (ch. 29)**, en escale religieuse (Cardinal-Élu) et porte le **lapsus** ; le **pic du soupçon reste au ch. 23 mais se joue à Cendara / Arkhen** (Enfant aux Yeux Blancs déjà canon, Détroit de Suie). Portail de Nysaria conservé *entrevu*, jamais visité (§7). **Sections :** §4.0bis (ordre, legs, séjours, durées depuis positions réelles), §4.0 (actes IV-V), §2.5, §2.6, §5.2, fiches legacy 28/34/35 (notes de refonte), **atlas §1** (pays/régions ajoutés : Vytharia, Lunasar non cartographiée, Caeloria, Nysaria) et **§2** (liaisons Vytharia↔Ilthara/Cendara/Evertia, Ilthara/Vytharia↔Caeloria ~407 u, Caeloria↔Baelor, Caeloria↔Azoria, grand saut nord). Durées vérifiées à l'échelle (4-7 j/100 u terre, 10-15 mer). |
+| **C3** | **Calendrier (§5.1) incohérent (trois échelles d'année contradictoires).** | **Tranché : année ≈ 365 jours** (le T3 ne fixe aucune longueur d'année : sa bible date « an 251 / ~10 200 ap.A » sans la définir → 365 par défaut). **910 j ≈ 2,49 ans.** Départ recalé **FIN AN 248** (et non fin 249) pour que J895 (Prismalith) tombe au **seuil de l'an 251** ; ancrage **an 251 ≈ 10 200 ap.A** conservé (décalage constant an X ↔ ap.A X+9 949) ; colonne ap.A recalée pour avancer du **même pas** que les jours (levée de la contradiction). Cohérence interne des tampons inchangée. **Preuve** : an(J)=248,6+(J−1)/365 ; J895→251,05 (cusp ✓), J910→251,09 ; ap.A J1=10 197,6 → J910=10 200,1. Remplace la correction comité 14. → §5.1 (paragraphe + table + bloc de preuve). |
+| **C4** | **Règle « pas de magie » (charte).** « Le monde est différent, des choses ne sont pas normales, mais de là à qualifier ça de magique… » | **§6.2ter créé.** « MAGIE » n'existe **jamais** dans la voix du narrateur ni des lettrés : mot **du peuple** pour l'inexpliqué, le texte le laisse dire sans le valider (canon : « je comprends qu'on l'ait crue magique »). Chaque culture nomme l'anormal dans son registre (administratif : syndrome/remutation/parasites de perception ; religieux : miracle/sacrilège/Souffle ; populaire : dons/ceux qui entendent). Le structurel (Lien, Failles, pulsation) se **décrit**, ne s'explique pas ; Sorin **mesure** l'anormal, jamais ne l'exotise. **Point d'audit :** ch. 25 v1 (« Les Îles ») = 13 occurrences de « magie » à réécrire en croyances rapportées lors de la réécriture. |
+
+**Vérification garde-fous.** Aucun mystère du jeu entamé : l'auteur de la Guerre de l'Ombre reste inconnu ; le sort d'Aldric reste ouvert ; le Message de Mirathi non traduit ; **le portail de Nysaria reste intouchable et devient seulement *entrevu* sans visite** (le canon « j'avais entrevu la forme » tient) ; les ch. 37-38 (canon 39-40) restent le point d'arrivée intact ; datation an 251 ≈ 10 200 ap.A et copie de Prismalith qui « dort » pour le T3 préservées (C3 les resserre). Les tampons de jours (J400 flagrant délit, etc.) sont inchangés (C1).
