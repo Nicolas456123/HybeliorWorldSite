@@ -18,7 +18,7 @@ status: draft
 
 Ils sont venus chercher mes cartes à l’aube, et le premier coup à la porte fut presque poli.
 
-J’avais déjà mon manteau sur les épaules. Pas parce que je comptais fuir. La rue était surveillée, et j’avais passé la nuit à entendre, sous les bruits ordinaires de Rukhsar, les pas trop réguliers d’hommes qui attendaient. Ce manteau, je l’avais mis avant même d’avoir décidé ce que je ferais du reste de la matinée. Un homme qui a froid met son manteau. On ne cherche pas plus loin, d’habitude.
+J’avais déjà mon manteau sur les épaules. Non pas que je comptais fuir. La rue était surveillée, et j’avais passé la nuit à entendre, sous les bruits ordinaires de Rukhsar, le va-et-vient trop régulier d’une ronde qui ne s’éloignait jamais de ma porte. Ce manteau, je l’avais mis avant même d’avoir décidé ce que je ferais du reste de la matinée. Un homme qui a froid met son manteau ; personne ne se demande pourquoi.
 
 Au second coup, j’ai ouvert.
 
