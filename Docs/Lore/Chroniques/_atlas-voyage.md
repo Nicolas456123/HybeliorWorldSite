@@ -1,13 +1,10 @@
 ---
-tags: [chroniques, atlas, travail, exile]
-type: document-de-travail
-status: draft
-last_review: 2026-07-08
-note: "Document de travail rédacteurs. Sert à écrire des trajets crédibles pour les « Chroniques de l'Exilé ». Fondé sur _atlas-donnees.json (coordonnées carte du site, matrice de distances, route v1, 16 étapes observées) et sur les 12 fiches Continent (Docs/Lore/Pays/<Continent>). Ne pas inventer de géographie neuve : tout obstacle cité est tiré d'une fiche."
+tags: [chroniques, atlas, exile]
+note: "Sert à écrire des trajets crédibles pour les « Chroniques de l'Exilé ». Les positions et les distances suivent la carte du site ; les obstacles sont tirés des 12 fiches Continent (Docs/Lore/Pays/<Continent>). Ne pas inventer de géographie neuve : tout obstacle cité est tiré d'une fiche."
 ---
 # Atlas du Voyage — Chroniques de l'Exilé
 
-But : donner à l'auteur une **carte utilisable** — où sont les continents les uns par rapport aux autres, combien de jours pour aller de l'un à l'autre, ce qui ralentit en route, et à quelle vitesse le récit voyage. Tout est calé sur la **route v1** (canon d'ordre de grandeur) et sur les **fiches Continent** (obstacles réels).
+But : une **carte utilisable** — où sont les continents les uns par rapport aux autres, combien de jours pour aller de l'un à l'autre, ce qui ralentit en route, et à quelle vitesse le récit voyage. Tout est calé sur la **route v1** (canon d'ordre de grandeur) et sur les **fiches Continent** (obstacles réels).
 
 Conventions de coordonnées (unités de la carte du site) :
 - **x** croît vers l'**est** (négatif = ouest, positif = est).
@@ -35,7 +32,7 @@ Conventions de coordonnées (unités de la carte du site) :
 | Cendara | −348 | +291 | sud-ouest | archipel volcanique de feu |
 | Azoria | +223 | +380 | extrême sud | arctique en couronne |
 
-### Pays et régions nommés de la route (hors liste des 12 continents) — ajout refonte 2026-07-08
+### Pays et régions nommés de la route (hors liste des 12 continents)
 
 Positions relevées sur la carte du site (mêmes unités). Ces lieux sont des **pays/régions**, pas des continents ; on les situe pour trancher la route des *Chroniques*.
 
@@ -43,10 +40,10 @@ Positions relevées sur la carte du site (mêmes unités). Ces lieux sont des **
 |---|---|---|---|---|
 | Vytharia (pays) | −193,9 | +224,6 | ouest-sud | **Grappe SO, à ~78 u d'Ilthara** : pleinement dans la sphère d'Ilthara. Ses « enfants » lore : Lunasar et Mirathi. |
 | Lunasar | — | — | non cartographiée | **Absente de la carte.** Lore : « Lunasar et Mirathi sont les enfants de Vytharia ». **Rattachement régional : sphère de Vytharia** ; position non cartographiée, traitée comme escale intra-sphère. |
-| Caeloria (pays) | +193,6 | +348,5 | **sud-est** | **Voisine de Baelor (~164 u) et d'Azoria (~43 u).** PAS entre Cendara et Evertia. Liaison canon régulière : Baeloris ↔ Caeloria. Escale religieuse (Cardinal-Élu) sur l'approche sud-est de Baelor. |
-| Nysaria (pays/région) | +223 | −380 | **nord-est lointain** | **À l'opposé de Vytharia (~734 u).** Plus proche voisin : Alkaran (~199 u). **Hors route** des *Chroniques* (un aller-retour NE coûterait ~60 j en pleine bascule) ; statut continent/île laissé OUVERT au lore. |
+| Caeloria (pays) | +193,6 | +348,5 | **sud-est** | **Voisine de Baelor (~164 u) et d'Azoria (~43 u).** Liaison canon régulière : Baeloris ↔ Caeloria. Escale religieuse (Cardinal-Élu) sur l'approche sud-est de Baelor. |
+| Nysaria (pays/région) | +223 | −380 | **nord-est lointain** | **À l'opposé de Vytharia (~734 u).** Plus proche voisin : Alkaran (~199 u). **Hors route** des *Chroniques* (un aller-retour NE coûterait ~60 j en pleine bascule) ; statut continent/île laissé ouvert au lore. |
 
-> **Conséquence de route (refonte).** Caeloria bascule au **sud-est**, sur l'**approche de Baelor** (elle le précède), non plus entre Cendara et Evertia. Le **retour SO** du protagoniste est la **sphère de Vytharia** (Vytharia + Lunasar en rattachement régional), et **non** un crochet vers Nysaria, géographiquement absurde ici.
+> **Conséquence de route.** Caeloria se situe au **sud-est**, sur l'**approche de Baelor** (elle le précède). Le **retour SO** du protagoniste passe par la **sphère de Vytharia** (Vytharia + Lunasar en rattachement régional), et non par un crochet vers Nysaria, géographiquement absurde ici.
 
 ### Voisinages (plus proches voisins, distance carte)
 
@@ -137,9 +134,9 @@ Liaisons directes utiles (triées par proximité) :
 
 **Lecture rapide** : à l'intérieur de la grappe sud-ouest (Ilthara–Evertia–Cendara–Ulinor–Baelor), on compte **1 à 2 semaines** par saut. Vers les pôles (Cestra, Celethor, Azoria) ou pour traverser tout l'atlas, on passe à **3–6 semaines**. Les trois liaisons intrinsèquement lentes à surveiller (mer difficile) sont **Ilthara↔Ulinor**, **Onara↔Endora** et **Ilthara↔Baelor**.
 
-### Liaisons de la route redessinée (ajout refonte 2026-07-08)
+### Liaisons de la route (pays et régions nommés)
 
-Distances relevées sur la carte pour les pays/régions ajoutés ci-dessus ; jours calés sur l'échelle (4–7 j/100 u terre, 10–15 j/100 u mer difficile).
+Distances relevées sur la carte pour les pays/régions ci-dessus ; jours calés sur l'échelle (4–7 j/100 u terre, 10–15 j/100 u mer difficile).
 
 | A → B | Dist. carte | Jours (récit) | Type | Notes |
 |---|---|---|---|---|
@@ -148,10 +145,10 @@ Distances relevées sur la carte pour les pays/régions ajoutés ci-dessus ; jou
 | Vytharia ↔ Evertia | ~239 | 10–14 | bateau | Cf. Evertia↔Ilthara (205, 10–14) : Vytharia à peine plus loin. |
 | Ilthara/Vytharia ↔ Caeloria | ~407 | 20–25 | bateau | **Long saut SE** (mer ouverte) depuis la sphère SO vers l'approche de Baelor. |
 | Caeloria ↔ Baelor | ~164 | 15–20 | bateau (brume) | **Liaison canon Baeloris↔Caeloria** ; approche voilée de l'Île du Silence (visible au seul vent du NE). |
-| Caeloria ↔ Azoria | ~43 | 3–5 | bateau | Voisinage immédiat (Azoria hors route depuis la refonte, mais Caeloria en est mitoyenne). |
+| Caeloria ↔ Azoria | ~43 | 3–5 | bateau | Voisinage immédiat (Azoria hors route, mais Caeloria en est mitoyenne). |
 | Baelor → nord (Celethor) | ~589 | ~55 (sur 2 ch.) | bateau polaire | **Grand saut nord** de l'accélération (Baelor→Celethor→Cestra) ; avale la distance en chapitres de fuite. |
 
-**Note Nysaria (hors route).** Depuis la sphère de Vytharia, Nysaria est à **~734 u** (Ilthara↔Nysaria ~694 u) : un aller-retour au nord-est en pleine bascule serait absurde. Nysaria reste dans le lore (portail canon *entrevu*, jamais visité) mais **ne figure plus sur l'itinéraire**.
+**Note Nysaria (hors route).** Depuis la sphère de Vytharia, Nysaria est à **~734 u** (Ilthara↔Nysaria ~694 u) : un aller-retour au nord-est en pleine bascule serait absurde. Nysaria reste dans le lore (portail canon *entrevu*, jamais visité) mais **ne figure pas sur l'itinéraire**.
 
 ---
 
