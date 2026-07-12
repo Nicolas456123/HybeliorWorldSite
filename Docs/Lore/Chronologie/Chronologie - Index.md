@@ -251,6 +251,9 @@ Entités issues des interactions entre Cosmiques. Liste canonique GDD/17 (Pluvia
 >
 > La version GDD/24 mentionne 3 royaumes canoniques : Veshrim, Othen-Cael, Seraïth — émergeant vers ~-3 000 du Sillage et superposables sur certaines régions des entités Lore.
 
+> [!tip] Dynasties et comparatif des apogées
+> Les **maisons régnantes** (Pyrecour, Solvénides, les 9 dynasties de Tharnok, les 22 de Drahk'Nor, Varnokides…) et le **grand comparatif des empires par terres tenues à l'apogée** sont détaillés dans [[Dynasties et Empires]]. Palmarès en bref : plus grande emprise revendiquée toutes ères confondues — **Empire Drahk'Nor** (~20 % des terres émergées, sur un monde vidé) ; plus grande emprise tenue dans un monde plein — **Khalifat de Solvenar** (~18 %) ; la mieux administrée — **Saint-Empire d'Endara** ; plus grand domaine total mers comprises — **Thalassocratie de Navoris**. Aucune lecture ne fait consensus, comme il se doit.
+
 ---
 
 ## TROIS ARTEFACTS — Référence rapide
@@ -382,4 +385,4 @@ Cendara · Onara · Endora · Evertia · Cestra · Baelor · Ulinor · Azoria ·
 
 ---
 
-*Liens : [[Histoire d'Hybelior]] | [[Le Souffle]] | [[Cosmologie]] | [[Univers]] | [[Traces des Ères]] | [[../Religions/00 - Système Religieux]] | [[../Religions/_Histoire des Religions]]*
+*Liens : [[Histoire d'Hybelior]] | [[Le Souffle]] | [[Cosmologie]] | [[Univers]] | [[Traces des Ères]] | [[Dynasties et Empires]] | [[../Religions/00 - Système Religieux]] | [[../Religions/_Histoire des Religions]]*
