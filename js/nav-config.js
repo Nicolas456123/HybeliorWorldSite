@@ -720,6 +720,7 @@ const NavConfig = {
                 { key: 'lignees',     label: 'Lignées',        src: 'GDD/02 - Monde/Lignées.md' },
                 { key: 'histoire',    label: 'Histoire',       src: "GDD/02 - Monde/Histoire d'Hybelior.md" },
                 { key: 'chronologie', label: 'Chronologie',    src: '/pages/lore-chronologie.html', engine: 'html' },
+                { key: 'tapisserie',  label: 'Tapisserie des Âges', src: '/pages/tapisserie.html',  engine: 'html' },
                 { key: 'religions',   label: 'Religions',      src: '/pages/lore-religions.html',   engine: 'html' },
                 { key: 'frise',       label: 'Frise',          src: 'GDD/02 - Monde/Frise.md' },
                 { key: 'traces',      label: 'Traces des Ères', src: 'GDD/02 - Monde/Traces des Ères.md' },

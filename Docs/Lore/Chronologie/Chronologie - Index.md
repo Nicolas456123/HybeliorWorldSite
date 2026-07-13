@@ -43,6 +43,18 @@ Les datations en milliers d'années sont des estimations rituelles dans la Mémo
 | VI — L'Ère des Nations | ~3 000 → ~9 500 ap.A | Strate de civilisation (Mémoire mythifiée) | [[Era 6 - L'Ère des Nations]] |
 | VII — Le Monde Actuel | ~9 500 → 10 200 ap.A | **Le Sillage** (vécu humain, ~250 ans) | [[Era 7 - Le Monde Actuel]] |
 
+### Bornes des Ères — qu'est-ce qui ouvre et ferme chaque âge ?
+
+> Chaque changement d'ère a un événement d'ouverture et un événement de clôture. Version visuelle : la **Tapisserie des Âges** (Monde › Tapisserie), où chaque titre d'Ère est cliquable.
+
+| Ère | Ce qui l'ouvre | Ce qui la ferme |
+|-----|----------------|------------------|
+| **III — L'Âge du Lien** | La Découverte du Lien (~20 000 av.A) — Orvane, Khatun et Ildaran apprennent aux mortels à écouter la Trame | **L'Arrachement** (An 0) — le Lien se tait en sept heures |
+| **IV — L'Arrachement** | Les Sept Heures elles-mêmes — la charnière, pas une ère | Le premier soir : la Grande Nuit a déjà commencé |
+| **V — La Grande Nuit** | Le monde privé du Lien — les empires bâtis dessus meurent en quelques générations | La **Convention de Gryndor** (~2 950 ap.A) — les Trois Grands se parlent ; on cesse de survivre, on recommence à bâtir |
+| **VI — L'Ère des Nations** | L'après-Gryndor (~3 000 ap.A) — l'idée de frontières négociées | La **Cristallisation** (~8 000 → ~9 500 ap.A) — les frontières tenues se figent une à une |
+| **VII — Le Sillage** | Les frontières cristallisées (~9 500 ap.A) — début de la mémoire vécue (~250 ans) | *(en cours)* — les chroniqueurs guettent ce qui la clora : Anomalies Tardives, Guerre de l'Ombre, pulsations du Mont Cendra |
+
 ---
 
 ## SOUFFLES CARDINAUX — Référence rapide
@@ -251,6 +263,9 @@ Entités issues des interactions entre Cosmiques. Liste canonique GDD/17 (Pluvia
 >
 > La version GDD/24 mentionne 3 royaumes canoniques : Veshrim, Othen-Cael, Seraïth — émergeant vers ~-3 000 du Sillage et superposables sur certaines régions des entités Lore.
 
+> [!tip] Dynasties et comparatif des apogées
+> Les **maisons régnantes** (Pyrecour, Solvénides, les 9 dynasties de Tharnok, les 22 de Drahk'Nor, Varnokides…) et le **grand comparatif des empires par terres tenues à l'apogée** sont détaillés dans [[Dynasties et Empires]]. Palmarès en bref : plus grande emprise revendiquée toutes ères confondues — **Empire Drahk'Nor** (~20 % des terres émergées, sur un monde vidé) ; plus grande emprise tenue dans un monde plein — **Khalifat de Solvenar** (~18 %) ; la mieux administrée — **Saint-Empire d'Endara** ; plus grand domaine total mers comprises — **Thalassocratie de Navoris**. Aucune lecture ne fait consensus, comme il se doit.
+
 ---
 
 ## TROIS ARTEFACTS — Référence rapide
@@ -307,6 +322,7 @@ Entités issues des interactions entre Cosmiques. Liste canonique GDD/17 (Pluvia
 ## NATIONS ACTUELLES — ORIGINE PAR CONTINENT
 
 > Résumé. Détail dans [[Era 6 - L'Ère des Nations]] et fichiers Pays. **Rappel** : ces nations sont des îlots de civilisation — aucune ne couvre intégralement son continent ; les wildlands occupent au moins 50% du monde.
+> Fiche historique de chaque pays (fondation, souverains et durées de règne, chutes et transformations) : voir [[Registre des Nations]]. Les royaumes oubliés et guerres retrouvées de la densification 2026-07 : voir [[Annales des Âges]]. Vue d'ensemble visuelle : la **Tapisserie des Âges** (Monde › Tapisserie).
 
 | Continent | Nations |
 |-----------|---------|
@@ -382,4 +398,4 @@ Cendara · Onara · Endora · Evertia · Cestra · Baelor · Ulinor · Azoria ·
 
 ---
 
-*Liens : [[Histoire d'Hybelior]] | [[Le Souffle]] | [[Cosmologie]] | [[Univers]] | [[Traces des Ères]] | [[../Religions/00 - Système Religieux]] | [[../Religions/_Histoire des Religions]]*
+*Liens : [[Histoire d'Hybelior]] | [[Le Souffle]] | [[Cosmologie]] | [[Univers]] | [[Traces des Ères]] | [[Dynasties et Empires]] | [[../Religions/00 - Système Religieux]] | [[../Religions/_Histoire des Religions]]*
