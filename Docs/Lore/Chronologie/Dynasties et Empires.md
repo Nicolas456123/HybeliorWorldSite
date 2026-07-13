@@ -236,4 +236,4 @@ Mais la première place de Drahk'Nor porte une ombre : son emprise record s'éte
 
 ---
 
-*Liens : [[Chronologie - Index]] | [[Era 3a - Le Lien et les Empires]] | [[Era 5 - La Grande Nuit]] | [[Era 6 - L'Ère des Nations]] | [[Era 7 - Le Monde Actuel]]*
+*Liens : [[Chronologie - Index]] | [[Registre des Nations]] | [[Era 3a - Le Lien et les Empires]] | [[Era 5 - La Grande Nuit]] | [[Era 6 - L'Ère des Nations]] | [[Era 7 - Le Monde Actuel]]*
