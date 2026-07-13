@@ -6,15 +6,15 @@
   "generated": "2026-07-13"
  },
  "eras": [
-  { "id": "III", "name": "L'Âge du Lien", "startApA": -19000, "endApA": 0, "color": "#3060a0", "memoire": true
+  { "id": "III", "name": "L'Âge du Lien", "startApA": -19000, "endApA": 0, "color": "#3060a0", "memoire": true, "debut": { "titre": "La Découverte du Lien", "detail": "~20 000 av.A — Orvane la Tisseuse (Celethor), Khatun Pyrecour (Cendara) et Ildaran l'Écouteur (Alkaran) formalisent le Lien indépendamment, à quelques décennies d'intervalle. L'âge commence quand les mortels apprennent à écouter la Trame — et à bâtir des empires dessus." }, "fin": { "titre": "L'Arrachement", "detail": "An 0 — le Souffle Cardinal : sept cités volantes s'écrasent, deux cents portails se ferment, Navoria est engloutie en quarante minutes. L'âge s'achève en sept heures, le temps que le Lien se taise." }
   },
-  { "id": "IV", "name": "L'Arrachement", "startApA": 0, "endApA": 1, "color": "#a02020", "memoire": true
+  { "id": "IV", "name": "L'Arrachement", "startApA": 0, "endApA": 1, "color": "#a02020", "memoire": true, "debut": { "titre": "Les Sept Heures", "detail": "An 0 — l'Arrachement n'est pas une ère mais une charnière : le jour où le monde d'avant est devenu le monde d'après. Six lectures concurrentes de sa cause coexistent ; aucune ne fait autorité." }, "fin": { "titre": "Le premier soir", "detail": "An 0 au crépuscule — quand la poussière retombe, la Grande Nuit a déjà commencé." }
   },
-  { "id": "V", "name": "La Grande Nuit", "startApA": 0, "endApA": 3000, "color": "#502060", "memoire": true
+  { "id": "V", "name": "La Grande Nuit", "startApA": 0, "endApA": 3000, "color": "#502060", "memoire": true, "debut": { "titre": "Le monde privé du Lien", "detail": "An 0 — les six empires, bâtis sur le Lien, sont condamnés le soir même : famines, premières Failles, effondrement démographique (120M → ~90M en quelques années). La nuit commence quand les structures meurent, pas quand le soleil se couche." }, "fin": { "titre": "La Convention de Gryndor", "detail": "~2 950 ap.A — les Trois Grands survivants (Tharnok, Forgon, Drahk'Nor) se parlent pour la première fois dans un cadre diplomatique. La démographie remonte : on cesse de survivre, on recommence à bâtir. C'est la fin symbolique que retiennent toutes les chroniques." }
   },
-  { "id": "VI", "name": "L'Ère des Nations", "startApA": 3000, "endApA": 9500, "color": "#7a5020", "memoire": true
+  { "id": "VI", "name": "L'Ère des Nations", "startApA": 3000, "endApA": 9500, "color": "#7a5020", "memoire": true, "debut": { "titre": "L'après-Gryndor", "detail": "~3 000 ap.A — de la table de la Convention naît l'idée de frontières négociées. Les royaumes intermédiaires cèdent peu à peu la place à des nations qui se pensent permanentes — 7 guerres majeures dessineront leurs contours." }, "fin": { "titre": "La Cristallisation", "detail": "~8 000 → ~9 500 ap.A — les frontières tenues se figent une à une ; les 36 nations actuelles émergent. Quand plus personne ne conteste une frontière, l'ère a déjà changé sans le dire." }
   },
-  { "id": "VII", "name": "Le Sillage", "startApA": 9500, "endApA": 10201, "color": "#7a4c0a", "memoire": false
+  { "id": "VII", "name": "Le Sillage", "startApA": 9500, "endApA": 10201, "color": "#7a4c0a", "memoire": false, "debut": { "titre": "Les frontières cristallisées", "detail": "~9 500 ap.A — les nations tiennent leurs terres, les wildlands le reste. Le Sillage vécu — les ~250 ans de mémoire humaine directe — commence ; tout ce qui précède relève désormais de la Mémoire d'Astravie." }, "fin": { "titre": "(en cours)", "detail": "An 251 — l'ère n'est pas close. Les chroniqueurs guettent ce qui la clora : les Anomalies Tardives, la Guerre de l'Ombre, les pulsations ralenties du Mont Cendra. Ce qui met fin à une ère ne se voit jamais qu'après." }
   }
  ],
  "continents": [

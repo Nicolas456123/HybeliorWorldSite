@@ -43,6 +43,18 @@ Les datations en milliers d'années sont des estimations rituelles dans la Mémo
 | VI — L'Ère des Nations | ~3 000 → ~9 500 ap.A | Strate de civilisation (Mémoire mythifiée) | [[Era 6 - L'Ère des Nations]] |
 | VII — Le Monde Actuel | ~9 500 → 10 200 ap.A | **Le Sillage** (vécu humain, ~250 ans) | [[Era 7 - Le Monde Actuel]] |
 
+### Bornes des Ères — qu'est-ce qui ouvre et ferme chaque âge ?
+
+> Chaque changement d'ère a un événement d'ouverture et un événement de clôture. Version visuelle : la **Tapisserie des Âges** (Monde › Tapisserie), où chaque titre d'Ère est cliquable.
+
+| Ère | Ce qui l'ouvre | Ce qui la ferme |
+|-----|----------------|------------------|
+| **III — L'Âge du Lien** | La Découverte du Lien (~20 000 av.A) — Orvane, Khatun et Ildaran apprennent aux mortels à écouter la Trame | **L'Arrachement** (An 0) — le Lien se tait en sept heures |
+| **IV — L'Arrachement** | Les Sept Heures elles-mêmes — la charnière, pas une ère | Le premier soir : la Grande Nuit a déjà commencé |
+| **V — La Grande Nuit** | Le monde privé du Lien — les empires bâtis dessus meurent en quelques générations | La **Convention de Gryndor** (~2 950 ap.A) — les Trois Grands se parlent ; on cesse de survivre, on recommence à bâtir |
+| **VI — L'Ère des Nations** | L'après-Gryndor (~3 000 ap.A) — l'idée de frontières négociées | La **Cristallisation** (~8 000 → ~9 500 ap.A) — les frontières tenues se figent une à une |
+| **VII — Le Sillage** | Les frontières cristallisées (~9 500 ap.A) — début de la mémoire vécue (~250 ans) | *(en cours)* — les chroniqueurs guettent ce qui la clora : Anomalies Tardives, Guerre de l'Ombre, pulsations du Mont Cendra |
+
 ---
 
 ## SOUFFLES CARDINAUX — Référence rapide

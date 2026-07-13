@@ -130,6 +130,16 @@
     font-family: 'Raleway', sans-serif; font-size: 10.5px; color: var(--text-muted);
     margin-top: 8px; line-height: 1.6;
 }
+
+/* mini-carte des continents */
+.tap-map { margin: 4px 0 10px; }
+.tap-map svg { display: block; width: 100%; height: auto; background: rgba(120,78,18,0.05); border: 1px solid rgba(120,78,18,0.2); border-radius: 6px; }
+.tap-map-caption { font-family: 'Raleway', sans-serif; font-size: 9.5px; color: var(--text-muted); font-style: italic; text-align: right; margin-top: 2px; }
+.tap-era-title-svg { cursor: pointer; }
+.tap-borne { margin: 8px 0; padding: 8px 10px; border-radius: 5px; background: rgba(120,78,18,0.07); }
+.tap-borne b { font-family: 'Cinzel', serif; font-size: 10.5px; letter-spacing: 1px; color: var(--gold); display: block; margin-bottom: 3px; text-transform: uppercase; }
+.tap-borne .tb-event { font-family: 'Cinzel', serif; font-size: 12.5px; color: var(--text); font-weight: 700; margin-bottom: 2px; }
+.tap-borne .tb-detail { font-family: 'Raleway', sans-serif; font-size: 11.5px; color: var(--text); line-height: 1.5; }
 </style>
 
 <div class="section-header">
@@ -146,6 +156,8 @@
         Cliquez sur une bande ou un nœud pour ouvrir sa fiche — fondation, souverains, cause de la chute, successeurs.
         Les bandes en <strong>pointillés</strong> relèvent des <em>Annales des Âges</em> (nouveau canon, en validation) ;
         les bandes à <strong>bord doré</strong> sont les nations encore vivantes en l'an 251.
+        Chaque fiche s'ouvre sur une <strong>carte</strong> où s'allument les continents concernés —
+        et cliquer sur le <strong>titre d'une Ère</strong> révèle ses bornes : l'événement qui l'ouvre, celui qui la ferme.
     </p>
 </div>
 
@@ -281,8 +293,10 @@
             if (era.id === 'IV') return;
             var x1 = xOf(era.startApA), x2 = xOf(era.endApA);
             rect(x1, 0, x2 - x1, TOTAL_H, era.color, era.id === 'VII' ? 0.07 : 0.045);
-            text((x1 + x2) / 2, 16, 'Ère ' + era.id + ' — ' + era.name, 12, era.color, 'Cinzel, serif', 'middle')
-                .setAttribute('font-weight', '700');
+            var titleEl = text((x1 + x2) / 2, 16, '⊕ Ère ' + era.id + ' — ' + era.name, 12, era.color, 'Cinzel, serif', 'middle');
+            titleEl.setAttribute('font-weight', '700');
+            titleEl.setAttribute('class', 'tap-era-title-svg');
+            titleEl.setAttribute('data-era', era.id);
             var lbl = era.id === 'VII' ? '~9 500 → an 251 du Sillage'
                 : (era.startApA < 0 ? '~' + fmtNum(-era.startApA) + ' av.A → ' : '~' + fmtNum(era.startApA) + ' → ')
                   + (era.endApA === 0 ? 'An 0' : '~' + fmtNum(era.endApA) + ' ap.A');
@@ -406,6 +420,51 @@
     function findEntity(id) { return state.data.entities.find(function (e) { return e.id === id; }); }
     function findConflict(id) { return state.data.conflicts.find(function (c) { return c.id === id; }); }
 
+    /* ————— mini-carte des continents (positions canoniques de l'atlas) ————— */
+    var MINI_MAP = [
+        { n: 'Cestra',   x: -437, y: -441, r: 48, tilt: -14 },
+        { n: 'Celethor', x: -47,  y: -337, r: 60, tilt: 10 },
+        { n: 'Nysaria',  x: 224,  y: -386, r: 13, tilt: 0 },
+        { n: 'Alkaran',  x: 172,  y: -188, r: 62, tilt: -8 },
+        { n: 'Galenor',  x: -269, y: -135, r: 80, tilt: 6 },
+        { n: 'Endora',   x: 203,  y: 63,   r: 60, tilt: 12 },
+        { n: 'Onara',    x: 395,  y: 95,   r: 58, tilt: -10 },
+        { n: 'Ulinor',   x: 7,    y: 125,  r: 44, tilt: 18 },
+        { n: 'Ilthara',  x: -222, y: 152,  r: 76, tilt: -6 },
+        { n: 'Evertia',  x: -426, y: 167,  r: 44, tilt: 8 },
+        { n: 'Baelor',   x: 71,   y: 240,  r: 28, tilt: 0 },
+        { n: 'Cendara',  x: -348, y: 291,  r: 46, tilt: -12 },
+        { n: 'Azoria',   x: 223,  y: 380,  r: 74, tilt: 14 }
+    ];
+
+    function miniMapHTML(highlights, color, caption) {
+        var trans = highlights.indexOf('Transcontinental') !== -1;
+        var hset = {};
+        highlights.forEach(function (h) { hset[h] = true; });
+        var s = '<div class="tap-map"><svg viewBox="-540 -540 1080 1030" xmlns="http://www.w3.org/2000/svg">';
+        MINI_MAP.forEach(function (c) {
+            var on = trans || hset[c.n];
+            var fill = on ? hexToRgba(color, trans ? 0.4 : 0.6) : 'rgba(120,78,18,0.12)';
+            var stroke = on ? color : 'rgba(120,78,18,0.35)';
+            s += '<ellipse cx="' + c.x + '" cy="' + c.y + '" rx="' + c.r + '" ry="' + Math.round(c.r * 0.76) + '"'
+               + ' transform="rotate(' + c.tilt + ' ' + c.x + ' ' + c.y + ')"'
+               + ' fill="' + fill + '" stroke="' + stroke + '" stroke-width="' + (on ? 3 : 1.5) + '"/>';
+            if (c.r > 20) {
+                s += '<text x="' + c.x + '" y="' + (c.y + c.r * 0.76 + 26) + '" text-anchor="middle" font-size="26"'
+                   + ' font-family="Cinzel, serif" font-weight="' + (on ? '700' : '400') + '"'
+                   + ' fill="' + (on ? '#3a2606' : 'rgba(90,70,30,0.55)') + '">' + c.n + '</text>';
+            }
+        });
+        s += '</svg>';
+        if (caption) s += '<div class="tap-map-caption">' + esc(caption) + '</div>';
+        s += '</div>';
+        return s;
+    }
+    function mapCaption(list) {
+        if (list.indexOf('Transcontinental') !== -1) return 'Domaine transcontinental — d\'après la tradition cartographique de Baelor';
+        return list.join(' · ') + ' — d\'après la tradition cartographique de Baelor';
+    }
+
     /* ————— tooltip + panneau ————— */
     function wireInteractions() {
         var tip = document.getElementById('tap-tip');
@@ -435,7 +494,12 @@
             var t = ev.target.closest('[data-entity]');
             if (t) { openPanelEntity(findEntity(t.getAttribute('data-entity'))); return; }
             var k = ev.target.closest('[data-conflict]');
-            if (k) { openPanelConflict(findConflict(k.getAttribute('data-conflict'))); }
+            if (k) { openPanelConflict(findConflict(k.getAttribute('data-conflict'))); return; }
+            var er = ev.target.closest('[data-era]');
+            if (er) {
+                var era = state.data.eras.find(function (x) { return x.id === er.getAttribute('data-era'); });
+                openPanelEra(era);
+            }
         });
 
         document.getElementById('tap-panel-close').addEventListener('click', function () {
@@ -522,6 +586,7 @@
         var h = '<h3>' + esc(e.name) + (e.statut === 'nouveau' ? '<span class="tp-badge-nouveau">ANNALES</span>' : '') + '</h3>';
         h += '<span class="tp-type" style="background:' + (e.vivant ? '#7a4c0a' : eraColor) + '">' + esc(cap(e.type)) + (e.vivant ? ' · vivante' : '') + '</span>';
         h += '<div class="tp-dates">' + esc(e.startLabel) + ' → ' + esc(e.endLabel) + ' · ' + esc(e.continents.join(', ')) + '</div>';
+        h += miniMapHTML(e.continents, e.vivant ? '#7a4c0a' : eraColor, mapCaption(e.continents));
         if (e.fondation) h += '<div class="tp-sec"><b>Naissance</b>' + esc(e.fondation) + '</div>';
         if (e.souverains && e.souverains.length) {
             h += '<div class="tp-sec"><b>Ont régné</b><ul class="tp-rulers">';
@@ -542,6 +607,7 @@
         var h = '<h3>' + esc(c.name) + (c.statut === 'nouveau' ? '<span class="tp-badge-nouveau">ANNALES</span>' : '') + '</h3>';
         h += '<span class="tp-type" style="background:' + (c.type === 'traité' ? '#3a7a4a' : '#a02020') + '">' + esc(cap(c.type)) + '</span>';
         h += '<div class="tp-dates">' + esc(c.label) + ' · ' + esc((c.continents || []).join(', ')) + '</div>';
+        h += miniMapHTML(c.continents || [], c.type === 'traité' ? '#3a7a4a' : '#a02020', mapCaption(c.continents || []));
         if (c.belligerants && c.belligerants.length) h += '<div class="tp-sec"><b>Belligérants</b>' + esc(c.belligerants.join(' ⚔ ')) + '</div>';
         if (c.batailles && c.batailles.length) {
             h += '<div class="tp-sec"><b>Batailles</b><ul class="tp-rulers">';
@@ -552,6 +618,29 @@
         }
         if (c.issue) h += '<div class="tp-sec"><b>Issue</b>' + esc(c.issue) + '</div>';
         if (c.blurb) h += '<div class="tp-sec tp-blurb">' + esc(c.blurb) + '</div>';
+        showPanel(h);
+    }
+
+    function openPanelEra(era) {
+        if (!era) return;
+        var lblStart = era.startApA < 0 ? '~' + fmtNum(-era.startApA) + ' av.A' : (era.startApA === 0 ? 'An 0' : '~' + fmtNum(era.startApA) + ' ap.A');
+        var lblEnd = era.id === 'VII' ? 'an 251 du Sillage (en cours)' : (era.endApA === 0 || era.endApA === 1 ? 'An 0' : '~' + fmtNum(era.endApA) + ' ap.A');
+        var h = '<h3>Ère ' + esc(era.id) + ' — ' + esc(era.name) + '</h3>';
+        h += '<span class="tp-type" style="background:' + era.color + '">Ère</span>';
+        h += '<div class="tp-dates">' + esc(lblStart) + ' → ' + esc(lblEnd) + (era.memoire ? ' · Mémoire d\'Astravie' : ' · mémoire vécue') + '</div>';
+        h += miniMapHTML([], era.color, 'Les douze continents — d\'après la tradition cartographique de Baelor');
+        if (era.debut) {
+            h += '<div class="tap-borne"><b>Pourquoi elle commence</b>'
+               + '<div class="tb-event">' + esc(era.debut.titre) + '</div>'
+               + '<div class="tb-detail">' + esc(era.debut.detail) + '</div></div>';
+        }
+        if (era.fin) {
+            h += '<div class="tap-borne"><b>Pourquoi elle s\'achève</b>'
+               + '<div class="tb-event">' + esc(era.fin.titre) + '</div>'
+               + '<div class="tb-detail">' + esc(era.fin.detail) + '</div></div>';
+        }
+        var ents = state.data.entities.filter(function (e) { return e.era === era.id; }).length;
+        h += '<div class="tp-sec tp-blurb">' + ents + ' États tissés sur cette ère. Le détail se lit dans les onglets Chronologie (Ère ' + esc(era.id) + ').</div>';
         showPanel(h);
     }
 
