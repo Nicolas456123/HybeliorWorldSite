@@ -6019,6 +6019,11 @@
   ],
   "Lore/Chronologie": [
     {
+      "name": "Annales des Âges",
+      "file": "Annales des Âges.md",
+      "title": "📜 Annales des Âges — royaumes oubliés et guerres retrouvées"
+    },
+    {
       "name": "Chronologie - Index",
       "file": "Chronologie - Index.md",
       "title": "Chronologie d'Hybelior — Index"

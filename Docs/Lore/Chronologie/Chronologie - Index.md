@@ -310,7 +310,7 @@ Entités issues des interactions entre Cosmiques. Liste canonique GDD/17 (Pluvia
 ## NATIONS ACTUELLES — ORIGINE PAR CONTINENT
 
 > Résumé. Détail dans [[Era 6 - L'Ère des Nations]] et fichiers Pays. **Rappel** : ces nations sont des îlots de civilisation — aucune ne couvre intégralement son continent ; les wildlands occupent au moins 50% du monde.
-> Fiche historique de chaque pays (fondation, souverains et durées de règne, chutes et transformations) : voir [[Registre des Nations]].
+> Fiche historique de chaque pays (fondation, souverains et durées de règne, chutes et transformations) : voir [[Registre des Nations]]. Les royaumes oubliés et guerres retrouvées de la densification 2026-07 : voir [[Annales des Âges]]. Vue d'ensemble visuelle : la **Tapisserie des Âges** (Monde › Tapisserie).
 
 | Continent | Nations |
 |-----------|---------|
