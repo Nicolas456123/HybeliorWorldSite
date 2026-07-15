@@ -141,7 +141,7 @@ Quand Noctis et Eldoria se font face dans la Polyphonie, sans qu'aucune ne l'emp
 
 ### L'Ère du Sommeil Onirique
 
-Somnix, ce Céleste rare, prend la parole. Tempora, plus discrète, l'accompagne. Le monde devient **rêveur**. Les couleurs glissent vers l'irréel. Les sons s'amortissent. Les voyageurs racontent qu'ils ne savent plus s'ils dorment ou s'ils marchent. Des **papillons géants** apparaissent dans les forêts ; des **poissons aériens** flottent au-dessus des fleuves. Les fidèles de **Somnium Vigil** prospèrent. Les chroniqueurs notent que cette Ère, douce, dure souvent longtemps — comme un songe qu'on ne veut pas terminer.
+Somnix, ce Cosmique rare, prend la parole. Tempora, plus discret, l'accompagne. Le monde devient **rêveur**. Les couleurs glissent vers l'irréel. Les sons s'amortissent. Les voyageurs racontent qu'ils ne savent plus s'ils dorment ou s'ils marchent. Des **papillons géants** apparaissent dans les forêts ; des **poissons aériens** flottent au-dessus des fleuves. Les fidèles de **Somnium Vigil** prospèrent. Les chroniqueurs notent que cette Ère, douce, dure souvent longtemps — comme un songe qu'on ne veut pas terminer.
 
 ### L'Ère des Présages
 

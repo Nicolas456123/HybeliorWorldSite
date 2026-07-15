@@ -42,7 +42,7 @@ Puis vint la première vibration. Les chroniqueurs disent que **les voix se sont
 
 Lorsque les voix se furent installées et que les terres eurent trouvé leurs places, les premiers mortels apparurent — non pas ensemble, mais simultanément, dans plusieurs **berceaux** dispersés à travers le monde. Chaque berceau a sa langue première, sa première figure nommée, sa façon propre de découvrir le feu, la pierre, la voix, l'eau. C'est un âge d'émerveillement et de fragilité.
 
-Cet âge connut sa première grande blessure : un long gel, attribué à la Cosmique du Froid, qui faillit éteindre tout ce qui venait à peine de s'allumer. Les survivants se comptèrent sur quelques mains à l'échelle d'un continent. La reconstruction prit des âges entiers, et les peuples qui en sortirent n'étaient plus tout à fait ceux qui y étaient entrés.
+Cet âge connut sa première grande blessure : un long gel, attribué à Climata, l'Astrale du froid, qui faillit éteindre tout ce qui venait à peine de s'allumer. Les survivants se comptèrent sur quelques mains à l'échelle d'un continent. La reconstruction prit des âges entiers, et les peuples qui en sortirent n'étaient plus tout à fait ceux qui y étaient entrés.
 
 ### L'Âge du Lien
 
@@ -104,7 +104,7 @@ Les plus anciennes inscriptions d'Hybelior parlent de [[Le Souffle|Souffles Card
 
 Il y eut, dans la nuit des temps, le **Cardinal du Premier Don** — le plus ancien que les théologiens osent nommer. Il ne date pas de l'émergence des Éternels, qui précède toute Ère mortelle, mais du moment où la **conscience** s'alluma chez les premiers mortels : avant lui, ils existaient sans se savoir exister ; après lui, ils surent, et avec ce savoir vint la possibilité du Lien, du nom, du rite. Aucun mortel n'en a gardé le souvenir, et pourtant tous en sont les enfants.
 
-Il y eut, au bout de l'Âge du Lien, ce qu'on appelle le **Souffle Cardinal de la Fracture** — un avertissement cosmique qui, plusieurs générations avant l'Arrachement, fit trembler les augures sans qu'on sache encore lire le signe. Ceux qui l'avaient vu vieillirent en se demandant ce qu'il annonçait. Ils moururent avant de comprendre.
+Il y eut, au bout de l'Âge du Lien, ce qu'on appelle le **Souffle Cardinal de la Fracture** — un avertissement cosmique qui, quinze siècles avant l'Arrachement, fit trembler les augures sans qu'on sache encore lire le signe. Ceux qui l'avaient vu vieillirent en se demandant ce qu'il annonçait. Ils moururent avant de comprendre.
 
 Et il y eut l'**Arrachement** lui-même, qui fut peut-être un Cardinal, peut-être un Grand Souffle d'amplitude inhumaine, peut-être autre chose — les théologiens ne s'accordent toujours pas. Ce dont ils s'accordent, c'est qu'après lui, la Polyphonie n'a plus jamais sonné de la même manière.
 
