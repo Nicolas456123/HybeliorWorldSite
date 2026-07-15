@@ -114,7 +114,7 @@ Le **Berger** est le **gardien mobile** des troupeaux : moutons, chèvres, parfo
 | Contexte | Effet |
 |----------|-------|
 | **Ère [[Les Ères|Verdoiement]] (Terranu)** | Pâturages riches +30% lait, agneaux abondants |
-| **Ère [[Les Ères|Sommeil de Glace]] (Climata)** | Transhumance hâtive, pertes +15%, laine épaisse +20% |
+| **Ère [[Les Ères|Sommeil de Glace]] (Aquor)** | Transhumance hâtive, pertes +15%, laine épaisse +20% |
 | **Ère [[Les Ères|Vents]] (Aerion)** | Idéal — bergers chantent, troupeaux mobiles, chiens en forme |
 | **Ère [[Les Ères|Ombre Longue]] (Noctis)** | Prédateurs +50%, garde de nuit obligatoire, pertes +20% |
 | **Post-[[Le Souffle]]** | Bêtes désorientées 1 semaine, taux perte temporaire x2 |

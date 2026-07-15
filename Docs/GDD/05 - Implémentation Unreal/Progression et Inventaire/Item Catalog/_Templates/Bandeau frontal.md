@@ -354,7 +354,7 @@ Récupération ~30-50% du cristal. Le tissu est récupérable (recyclable par Ti
 - [[Maîtrises]] — gain XP modulé
 - [[Architecture Data-Driven]] §ItemModifier Generator
 - [[Le Souffle]] / [[L'Accord]]
-- [[Cosmologie]] §Sièges Éthérés — *Luxa*, *Arcana*
+- Consécrations *Luxa*, *Arcana* — honneurs mortels liés à une entité, jamais des sièges cosmiques (cf. [[L'Accord]] ; entités : [[Cosmologie]] §Les rangs inférieurs)
 
 ---
 

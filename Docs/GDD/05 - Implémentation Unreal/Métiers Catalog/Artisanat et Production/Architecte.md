@@ -215,7 +215,7 @@ L'**Architecte** conçoit, plane et supervise la construction de bâtiments, for
 | Ère | Effet sur l'Architecte |
 |-----|-------------------------|
 | **Verdoiement** (Terranu) | Bâtiments organiques bonifiés : intégration jardins, +10% durabilité bois |
-| **Sommeil de Glace** (Climata) | Pas de chantier extérieur en hiver. Focus plans + maquettes |
+| **Sommeil de Glace** (Aquor) | Pas de chantier extérieur en hiver. Focus plans + maquettes |
 | **Échos Brisés** (Tempora) | Plans instables : ±10% surface effective vs prévue |
 | **Ombre Longue** (Noctis) | Bâtiments défensifs en demande, +20% commande fortifications |
 | **Présages** (Fatum) | Recettes rituelles temples bonifiées |

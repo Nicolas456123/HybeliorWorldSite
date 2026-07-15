@@ -156,7 +156,7 @@ Hybelior offre des terrains d'exploration légendaires : **Azoria** (Cités des 
 | Contexte | Effet |
 |----------|-------|
 | **Ère [[Les Ères\|Vents]] (Aerion)** | Voyages aériens facilités, +30% vitesse |
-| **Ère [[Les Ères\|Sommeil de Glace]] (Climata)** | Routes gelées, accès à zones précédemment infranchissables |
+| **Ère [[Les Ères\|Sommeil de Glace]] (Aquor)** | Routes gelées, accès à zones précédemment infranchissables |
 | **Ère [[Les Ères\|Verdoiement]] (Terranu)** | Forêts denses, ralentissement, mais flore extraordinaire |
 | **Ère [[Les Ères\|Brume Mortelle]]** | Zones cachées se révèlent — opportunité historique |
 | **Post-[[Le Souffle]]** | **Le monde change** — zones autrefois inexplorables ouvertes, nouvelles routes nécessaires, **demande explose** |

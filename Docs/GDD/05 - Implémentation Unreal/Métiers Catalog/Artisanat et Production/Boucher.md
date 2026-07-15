@@ -200,7 +200,7 @@ Le **Boucher** découpe les carcasses, sépare les morceaux, conserve la viande 
 | Ère | Effet |
 |-----|-------|
 | **Verdoiement** (Terranu) | Élevages florissants, +20% rendement viande |
-| **Sommeil de Glace** (Climata) | Conservation +30% (froid naturel), focus salaison |
+| **Sommeil de Glace** (Aquor) | Conservation +30% (froid naturel), focus salaison |
 | **Brume Mortelle** (Umbra) | Viandes "Pourpres" (variant), recettes alchimiques boostées |
 | **Présages** (Fatum) | Découpes rituelles, organes augures bonifiés |
 | **Échos Brisés** (Tempora) | Charcuterie *Spectrale* (T4+ variant) |

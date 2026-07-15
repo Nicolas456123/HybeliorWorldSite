@@ -153,7 +153,7 @@ Cascade : Crise > Religieux (sabbat) > Deuil > Marchand > Festivité > Routine.
 | Ère | Effet |
 |-----|-------|
 | **Verdoiement** (Terranu) | +20% production (céréales abondantes), mood +10 |
-| **Sommeil de Glace** (Climata) | Céréales rares, focus pains de conservation, prix x1.3 |
+| **Sommeil de Glace** (Aquor) | Céréales rares, focus pains de conservation, prix x1.3 |
 | **Vents** (Aerion) | Recette "Pain du Voyageur" boostée, mood +5, rumeurs/chants |
 | **Brume Mortelle** (Umbra) | Ouverture limitée, peur, demande pains rituels (ESFJ propage rumeur "Fin du monde") |
 | **Rêve Lumineux** (Eldoria) | Pains dorés, magnitude ×2 jour |

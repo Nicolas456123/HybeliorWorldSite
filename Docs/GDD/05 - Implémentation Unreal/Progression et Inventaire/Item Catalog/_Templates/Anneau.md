@@ -294,7 +294,7 @@ Un Enchanteur Expert+ peut **dissoudre** un affixe d'un anneau pour récupérer 
 | Station | Établi mythique (siège ou héritage spécial) + Cercle d'enchantement majeur |
 | Intrants | Alliage mythique × 1 (mithril + métal cosmique), Gemmes taillées mythiques × 3, Cristal de Voie apex × 1, Cristaux de Voie majeur × 2, Essences spirituelles × 3, Cœur de créature cosmique × 1, Encre rare × 6 |
 | Sortie | Anneau mythique (3 affixes ou 1 affixe Apex) |
-| Mastery | Maître (Joaillerie) + Maître (Scriptorium), souvent **œuvre signée** d'un porteur de siège Éthéré (cf. *Forgion* / *Talos* — voir [[Cosmologie]] §Sièges Éthérés) |
+| Mastery | Maître (Joaillerie) + Maître (Scriptorium), souvent **œuvre signée** d'un porteur de Consécration (honneur mortel lié à une entité, jamais un siège cosmique — cf. *Forgion* / *Talos* ; mécanisme : [[L'Accord]] ; entités : [[Cosmologie]] §Les rangs inférieurs) |
 | Mini-jeu | Sertissage Maître + composition runique (12 glyphes, séquence + timing rituel) |
 | Durée | 1h+ (rituel cosmique, doit être effectué à un moment d'Accord ≥75%) |
 
@@ -381,7 +381,7 @@ Un Enchanteur Expert+ peut **dissoudre** un affixe d'un anneau pour récupérer 
 - [[Architecture Data-Driven]] §ItemModifier Generator — paramètre les affixes
 - [[Architecture Data-Driven]] §Recipe Generator — paramètre les recettes par tier × région × ère
 - [[Le Lien]] — Voies, mono-Voie, opposition magique
-- [[Cosmologie]] §Sièges Éthérés — *Forgion* (forge) et *Talos* (talismans/protection) sont les sièges concernés par les Anneaux Mythiques
+- Consécrations *Forgion* (forge) et *Talos* (talismans/protection) — honneurs mortels liés à une entité, jamais des sièges cosmiques ; concernées par les Anneaux Mythiques (cf. [[L'Accord]] ; entités : [[Cosmologie]] §Les rangs inférieurs)
 - [[Le Souffle]] — rouille post-Souffle s'applique aux anneaux Magistral+
 - [[L'Accord]] — modulation du rituel d'enchantement par l'Accord de l'Enchanteur
 

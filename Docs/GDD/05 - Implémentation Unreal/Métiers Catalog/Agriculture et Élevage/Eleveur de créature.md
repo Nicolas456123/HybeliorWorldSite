@@ -142,7 +142,7 @@ L'**Éleveur de créature** sélectionne, reproduit et élève le bétail, les *
 | Contexte | Effet |
 |----------|-------|
 | **Ère [[Les Ères|Verdoiement]] (Terranu)** | +30% fertilité, naissances abondantes, herbe nutritive |
-| **Ère [[Les Ères|Sommeil de Glace]] (Climata)** | -25% naissances, mortalité jeunes +15%, focus animaux résistants |
+| **Ère [[Les Ères|Sommeil de Glace]] (Aquor)** | -25% naissances, mortalité jeunes +15%, focus animaux résistants |
 | **Ère [[Les Ères|Vents]] (Aerion)** | Aviens +30% performance, lignées de courrier ailé |
 | **Ère [[Les Ères|Brume Mortelle]]** | Variants morbides apparaissent — opportunité éleveurs experts |
 | **Post-[[Le Souffle]]** | **Variants** dans les portées : rare chance de naissance "marquée par l'Ère" (créature rare) |

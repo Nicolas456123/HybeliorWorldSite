@@ -214,7 +214,7 @@ Les chantiers magnifiques deviennent eux-mêmes des **objets de l'identité d'un
 >
 > *— inscription au seuil de la Cathédrale Engloutie d'Iskara*
 
-Au rang Cosmique, le **chantier ordinaire ne suffit plus**. Il faut un Architecte Maître au sommet de son art ; une équipe de Maîtres dans tous les corps de métier ; un Enchanteur Maître avec accès à une Voie de magie pertinente ; souvent plusieurs Liés à des Voies différentes en **coopération rituelle** ; parfois l'accord d'un siège Éthéré (Forgion pour les forges cosmiques, Talos pour les fortifications cosmiques, Luxa pour les sanctuaires de savoir cosmique).
+Au rang Cosmique, le **chantier ordinaire ne suffit plus**. Il faut un Architecte Maître au sommet de son art ; une équipe de Maîtres dans tous les corps de métier ; un Enchanteur Maître avec accès à une Voie de magie pertinente ; souvent plusieurs Liés à des Voies différentes en **coopération rituelle** ; parfois l'accord d'un Céleste (Forgion pour les forges cosmiques, Talos pour les fortifications cosmiques, Luxa pour les sanctuaires de savoir cosmique).
 
 Mais surtout, il faut un **consentement du monde** — un moment où la respiration cosmique laisse, pour quelques années ou quelques décennies, l'œuvre se lever sans s'effondrer. Ce consentement ne s'achète pas. Il s'obtient par accomplissement, par signe, par condition cachée. Beaucoup de chantiers Cosmiques tentés à mauvais moment se sont effondrés en pleine construction ; les chroniqueurs en gardent la liste sombre.
 

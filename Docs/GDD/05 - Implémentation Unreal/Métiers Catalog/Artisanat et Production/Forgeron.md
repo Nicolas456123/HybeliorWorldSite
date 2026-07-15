@@ -220,7 +220,7 @@ Le **Forgeron** est l'artisan métal d'Hybelior. Il transforme les [[Lingot|ling
 |-----|------------------------|
 | **Feu Endormi** (Eldoria) | +20% qualité Forge, +10% chance affixe rare sur armes, accès Mithril facilité |
 | **Ombre Longue** (Noctis) | −10% production, prix minerai +25%, recettes *Shadow* débloquées |
-| **Sommeil de Glace** (Climata) | −10% rendement (chaleur dispersée), +30% qualité trempe (eau froide pure) |
+| **Sommeil de Glace** (Aquor) | −10% rendement (chaleur dispersée), +30% qualité trempe (eau froide pure) |
 | **Verdoiement** (Terranu) | Recettes ferrures agricoles boostées, focus outils plutôt qu'armes |
 | **Échos Brisés** (Tempora) | Forges instables : ±15% rendement aléatoire, items *Brisé* possibles |
 | **Brume Mortelle** (Umbra) | Forges sombres : recettes obscures, items *Pourpre* gratuits |

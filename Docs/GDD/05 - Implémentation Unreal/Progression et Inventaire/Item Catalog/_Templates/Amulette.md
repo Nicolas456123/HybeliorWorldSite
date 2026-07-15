@@ -332,7 +332,7 @@ Récupération de ~30-50% du cristal, jamais l'essence ni la larme d'Éternel. C
 - [[Économie]] §Catégorie 3 — économie d'enchantement
 - [[Architecture Data-Driven]] §ItemModifier Generator
 - [[Le Lien]] — Voies, Lien profond
-- [[Cosmologie]] §Sièges Éthérés — *Talos* (talismans/protection) concerné par les Amulettes Mythiques
+- Consécration *Talos* (talismans/protection) — honneur mortel lié à une entité, jamais un siège cosmique ; concerne les Amulettes Mythiques (cf. [[L'Accord]] ; entités : [[Cosmologie]] §Les rangs inférieurs)
 - [[Le Souffle]] — rouille post-Souffle
 - [[L'Accord]] — modulation rituel
 - [[Foedus Animae]] — religion liée aux pactes d'âme

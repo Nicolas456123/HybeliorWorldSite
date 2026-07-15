@@ -161,7 +161,7 @@ Sa force est sa **fiabilité** : un médecin ne dépend pas d'un Lien, ne s'épu
 |----------|-------|
 | **Ère [[Les Ères|Verdoiement]] (Terranu)** | +20% efficacité remèdes végétaux, abondance d'herbes |
 | **Ère [[Les Ères|Brume Mortelle]]** | Épidémies actives → demande médicale x3, recettes spéciales débloquées, danger de contagion personnelle |
-| **Ère [[Les Ères|Sommeil de Glace]] (Climata)** | Maladies hivernales (gelures, pneumonie), conservation des remèdes facilitée |
+| **Ère [[Les Ères|Sommeil de Glace]] (Aquor)** | Maladies hivernales (gelures, pneumonie), conservation des remèdes facilitée |
 | **Ère [[Les Ères|Vents]] (Aerion)** | Maladies aéroportées, médecine itinérante valorisée |
 | **Post-[[Le Souffle]] semaine 1** | Pic de demande (dérégulation des organismes par le Souffle), médecin sur-sollicité |
 | **[[L'Accord]] ≥ 75%** | Accès à une nouvelle pharmacopée d'ère |

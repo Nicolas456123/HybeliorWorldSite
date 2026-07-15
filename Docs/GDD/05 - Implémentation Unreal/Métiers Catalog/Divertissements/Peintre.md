@@ -167,7 +167,7 @@ Métier **patrimonial** : une fresque monumentale d'un Maître peut survivre à 
 | Contexte | Effet |
 |----------|-------|
 | **Ère [[Les Ères|Verdoiement]] (Terranu)** | Pigments végétaux abondants, fresques de jardin, prix pigment baisse |
-| **Ère [[Les Ères|Sommeil de Glace]] (Climata)** | Pigments minéraux valorisés, fresques d'intérieur, conservation facilitée |
+| **Ère [[Les Ères|Sommeil de Glace]] (Aquor)** | Pigments minéraux valorisés, fresques d'intérieur, conservation facilitée |
 | **Ère [[Les Ères|Vents]] (Aerion)** | Fresques exposées au vent dégradent x2, peintres itinérants avantagés |
 | **Ère [[Les Ères|Brume Mortelle]]** | Pigments rares disponibles (couleurs putrides), demande de fresques mémorielles x3 |
 | **Ère [[Les Ères|Ombre Longue]] (Noctis)** | Pigments noctari (encres révélatrices), fresques aux effets cachés |

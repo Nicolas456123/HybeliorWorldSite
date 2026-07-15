@@ -210,7 +210,7 @@ Le **Menuisier** scie, rabote, assemble le bois pour produire des objets utilita
 | Ère | Effet |
 |-----|-------|
 | **Verdoiement** (Terranu) | +20% qualité bois, essences rares accessibles |
-| **Sommeil de Glace** (Climata) | Bois compact, résistance dégâts +10% |
+| **Sommeil de Glace** (Aquor) | Bois compact, résistance dégâts +10% |
 | **Échos Brisés** (Tempora) | Bois Spectral (variant) |
 | **Sommeil Onirique** (Somnix) | Items Onirique persistent à travers sommeil |
 | **Brume Mortelle** (Umbra) | Bois Pourpre |

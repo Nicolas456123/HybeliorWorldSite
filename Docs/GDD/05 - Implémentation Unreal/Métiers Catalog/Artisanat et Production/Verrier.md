@@ -197,7 +197,7 @@ Le **Verrier** transforme **sable + chaleur** en verre, sous toutes ses formes :
 |-----|-----------------------|
 | **Feu Endormi** (Eldoria) | +20% qualité fusion, recettes verre rubis bonifiées |
 | **Cieux Lus** (Stellaris) | Lentilles d'observation +25% qualité, recettes Verre d'Astravia accessibles |
-| **Sommeil de Glace** (Climata) | Chaleur du four luttant contre le froid : −10% rendement, +15% durabilité au refroidissement |
+| **Sommeil de Glace** (Aquor) | Chaleur du four luttant contre le froid : −10% rendement, +15% durabilité au refroidissement |
 | **Verdoiement** (Terranu) | Recettes verre vert (pigment cuivre végétal) bonifiées |
 | **Brume Mortelle** (Umbra) | Verre opaque/sombre en demande, recettes Verre noir |
 | **Échos Brisés** (Tempora) | Vitraux instables : ±10% taux casse au recuit |

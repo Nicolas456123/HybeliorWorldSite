@@ -233,7 +233,7 @@ Le **Boulanger** mélange farine, eau, sel et levain ; pétrit, façonne, cuit. 
 | Ère | Effet |
 |-----|-------|
 | **Verdoiement** (Terranu) | Récolte céréales abondante, +20% production |
-| **Sommeil de Glace** (Climata) | Céréales rares, focus pains de conservation, prix x1.3 |
+| **Sommeil de Glace** (Aquor) | Céréales rares, focus pains de conservation, prix x1.3 |
 | **Vents** (Aerion) | Recette "Pain du Voyageur" boostée, rumeurs/chants en cuisine |
 | **Brume Mortelle** (Umbra) | Ouverture limitée, peur, demande pains rituels |
 | **Rêve Lumineux** (Eldoria) | Pains dorés, magnitude ×2 jour |

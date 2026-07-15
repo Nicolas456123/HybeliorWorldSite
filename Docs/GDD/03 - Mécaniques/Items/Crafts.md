@@ -185,7 +185,7 @@ Le monde ne fait pas le même ouvrage selon l'Ère qui se joue. Les voix Éterne
 | Ère | Ce qu'elle fait au faire |
 |-----|--------------------------|
 | **Verdoiement (Terranu)** | Les arts du végétal et de l'apothicairerie prennent un éclat particulier |
-| **Sommeil de Glace (Climata)** | Les arts du végétal se ralentissent, mais la conservation des aliments devient miraculeuse |
+| **Sommeil de Glace (Aquor)** | Les arts du végétal se ralentissent, mais la conservation des aliments devient miraculeuse |
 | **Feu Endormi (rumeur d'Eldoria)** | La forge porte une vertu nouvelle ; certaines armes naissent avec un caractère qu'on n'attendait pas |
 | **Brume Mortelle** | Certaines recettes alchimiques rares s'éveillent ; d'autres arts s'engourdissent |
 | **Ombre Longue (Noctis)** | Le scriptorium et l'enchantement parlent plus fort ; la forge se fait plus discrète |

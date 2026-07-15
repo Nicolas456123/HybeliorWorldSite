@@ -292,7 +292,7 @@ Les variants sont **mappés sur la cosmologie** (cf. [[Cosmologie]]). Chaque var
 | **Pourpre** | Umbra (Céleste) | iridescent violet | particules secrètes | chuchotements aigus | confusion |
 | **Doré** | Eldoria (en sommeil, rêve) | dorures, lumière interne | étincelles solaires | carillons | aveuglement bref |
 | **Brisé** | Tempora (failles aiguës) | fissures lumineuses | éclats, désynchro | parasites | déphasage |
-| **Onirique** | Somnix (Céleste rêve) | flottement, halo pastel | volutes, papillons | nappes oniriques | sommeil/désorientation |
+| **Onirique** | Somnix (Cosmique du rêve) | flottement, halo pastel | volutes, papillons | nappes oniriques | sommeil/désorientation |
 | **Vénérable** | Fatum (Cosmique) | patine, runes anciennes | poussière dorée | basses graves | révérence/peur fond |
 
 > [!note] Extensibilité

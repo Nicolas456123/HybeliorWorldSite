@@ -132,7 +132,7 @@ Hybelior connaît trois traditions principales : le **chasseur des plaines** (On
 | Contexte | Effet |
 |----------|-------|
 | **Ère [[Les Ères\|Verdoiement]] (Terranu)** | +30% gibier, prix bas (saturation) |
-| **Ère [[Les Ères\|Sommeil de Glace]] (Climata)** | Gibier rare, traques longues, prix x1.5 |
+| **Ère [[Les Ères\|Sommeil de Glace]] (Aquor)** | Gibier rare, traques longues, prix x1.5 |
 | **Ère [[Les Ères\|Brume Mortelle]]** | Variants morbides : très dangereux mais très rentables |
 | **Post-[[Le Souffle]]** | **Variants** apparaissent — pic d'activité, primes spéciales |
 | **[[L'Accord]] ≥ 75%** | Chasse aux créatures cosmiques débloquée |
