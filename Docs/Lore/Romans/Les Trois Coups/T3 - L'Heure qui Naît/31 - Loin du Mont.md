@@ -6,7 +6,7 @@ status: draft
 
 # Loin du Mont
 
-Renna attela avant le jour, à la chandelle qu’elle n’osa pas moucher, parce qu’à la fin il fallait bien tourner le dos à la seule chose devant laquelle elle avait vécu vingt-cinq ans. Le mulet loué au carrier de la Cendre-Basse ne valait pas son prix, mais il avait cet avantage rare de tirer vers le nord sans qu’on dût le battre, et cette nuit-là c’était tout ce qu’elle demandait à une bête : qu’elle veuille aller là où son cœur à elle ne voulait pas.
+Renna attela avant le jour, à la chandelle qu’elle n’osa pas moucher, parce qu’à la fin il fallait bien tourner le dos à la seule chose devant laquelle elle avait vécu vingt-cinq ans. Le mulet loué au carrier de Taldre ne valait pas son prix, mais il avait cet avantage rare de tirer vers le nord sans qu’on dût le battre, et cette nuit-là c’était tout ce qu’elle demandait à une bête : qu’elle veuille aller là où son cœur à elle ne voulait pas.
 
 Car son cœur voulait rester. Voilà ce qu’elle apprit sur le pas de sa porte, la corde de la ridelle encore dans les mains. Toute sa vie elle avait cru que se boucher les oreilles était son seul métier, qu’entre le Mont et elle il n’y avait qu’un long refus tenu de force ; et voilà qu’au moment de partir, quelque chose en elle se dressait vers le sud comme le fer de l’enfant, tirait vers la chaleur, vers la poussée sous les molaires, vers la longue chose patiente qui montait par le plancher et qui, ces derniers matins, ne butait plus tout à fait de la même façon sur son bout manqué. C’était pour ça qu’elle partait. Parce qu’elle avait failli, l’avant-veille, comprendre.
 

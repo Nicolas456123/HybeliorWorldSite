@@ -6,7 +6,7 @@ status: draft
 
 # Ceux qui veulent l’enfant
 
-Renna descendit à la Cendre-Basse pour du sel et une mesure d’alun, parce qu’une teinturière sans mordant est une femme aux mains bleues qui n’a rien à vendre. Elle laissa Ilex en haut, la porte tirée, la consigne dite trois fois : ne pas sortir, ne pas répondre, ne pas dire le mot. L’enfant avait promis en regardant le mur du sud, ce qui ne valait pas une vraie promesse, mais on ne descend pas au marché avec un enfant aux yeux de lait quand la vallée s’est mise à compter les enfants aux yeux de lait.
+Renna descendit à Taldre pour du sel et une mesure d’alun, parce qu’une teinturière sans mordant est une femme aux mains bleues qui n’a rien à vendre. Elle laissa Ilex en haut, la porte tirée, la consigne dite trois fois : ne pas sortir, ne pas répondre, ne pas dire le mot. L’enfant avait promis en regardant le mur du sud, ce qui ne valait pas une vraie promesse, mais on ne descend pas au marché avec un enfant aux yeux de lait quand la vallée s’est mise à compter les enfants aux yeux de lait.
 
 La vallée avait changé en quinze jours. À l’aller, sur le sentier, Renna croisa deux familles qui montaient du bas avec des ballots sur le dos, un âne, une chèvre au bout d’une corde, et cette façon de marcher vite en regardant devant soi qu’ont les gens qui déménagent une peur plutôt qu’un ménage. On ne montait plus vers le Mont pour prier. On traversait la vallée du Mont pour la quitter par l’autre bout, et ceux qui restaient le faisaient comme on reste dans une maison dont on sait le toit fendu, en dormant d’un œil.
 

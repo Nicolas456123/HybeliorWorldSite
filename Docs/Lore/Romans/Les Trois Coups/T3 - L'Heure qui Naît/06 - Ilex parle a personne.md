@@ -42,7 +42,7 @@ Ilex ouvrit la bouche et dit le mot.
 
 « Ourrène. »
 
-Ce n’était pas un mot. Ça n’appartenait à aucune des trois langues qu’on parlait au marché de la Cendre-Basse, ni à celle des prêtres d’Arkhen quand ils montaient en procession, ni au patois des bergers d’en haut. C’était deux souffles cousus, un roulement au milieu, une chute. Ilex le dit, et le perdit aussitôt, et le rechercha sur ses lèvres comme on cherche une dent qui bouge.
+Ce n’était pas un mot. Ça n’appartenait à aucune des trois langues qu’on parlait au marché de Taldre, ni à celle des prêtres d’Arkhen quand ils montaient en procession, ni au patois des bergers d’en haut. C’était deux souffles cousus, un roulement au milieu, une chute. Ilex le dit, et le perdit aussitôt, et le rechercha sur ses lèvres comme on cherche une dent qui bouge.
 
 « Ourr… Ourrène. Non. Presque. »
 
@@ -108,7 +108,7 @@ Le drap était tendu. Renna resta un moment les bras levés, les pinces dans la 
 
 Renna se retourna enfin. Ferane la regardait avec ses vieux yeux troubles, et il n’y avait ni menace ni jugement dedans, seulement la fatigue d’une femme qui monte un sentier pour prévenir une autre femme, parce que personne ne l’avait prévenue, elle, il y avait soixante ans, d’une autre chose.
 
-« Ils remontent la vallée, dit Ferane. Ils demandent aux gens. Poliment, toujours. Où sont les enfants, combien, depuis quand, chez qui. Ils ont un registre. Ils cochent. Ils sont peut-être à Cendre-Basse à l’heure où je te parle. Alors je me suis dit : Renna, elle, avec son petit, personne ne lui aura rien dit, parce que personne ne monte chez elle, parce qu’on la trouve bizarre, parce qu’elle parle à personne, elle non plus, tout comme le petit.
+« Ils remontent la vallée, dit Ferane. Ils demandent aux gens. Poliment, toujours. Où sont les enfants, combien, depuis quand, chez qui. Ils ont un registre. Ils cochent. Ils sont peut-être à Taldre à l’heure où je te parle. Alors je me suis dit : Renna, elle, avec son petit, personne ne lui aura rien dit, parce que personne ne monte chez elle, parce qu’on la trouve bizarre, parce qu’elle parle à personne, elle non plus, tout comme le petit.
 
 — Je ne parle à personne, dit Renna.
 
@@ -134,7 +134,7 @@ Ferane descendit. Renna resta seule avec le linge, les chèvres, et le battement
 
 La dame de Caeloria monta à l’heure où l’ombre du muret touchait le seuil.
 
-La dame vint seule, à pied, ce qui était habile, Renna le comprit plus tard : une femme seule qui gravit un sentier ne fait pas peur. Les deux hommes à la manche brodée devaient attendre en bas, à la Cendre-Basse, avec la voiture et le registre. Celle-ci n’apportait rien qu’un sourire et une robe claire que la cendre n’avait pas osé salir, ou qu’elle secouait d’un geste précis tous les dix pas, on ne salit pas la lumière.
+La dame vint seule, à pied, ce qui était habile, Renna le comprit plus tard : une femme seule qui gravit un sentier ne fait pas peur. Les deux hommes à la manche brodée devaient attendre en bas, à Taldre, avec la voiture et le registre. Celle-ci n’apportait rien qu’un sourire et une robe claire que la cendre n’avait pas osé salir, ou qu’elle secouait d’un geste précis tous les dix pas, on ne salit pas la lumière.
 
 « Vous êtes Renna, dit-elle. On m’a dit le nom en bas. On m’a dit aussi le chemin, qu’on ne monte guère. C’est joli, pourtant. Rude, mais joli.
 
@@ -216,7 +216,7 @@ Il tourna enfin la tête, et il la regarda avec cette gravité d’eau calme qui
 
 Renna n’avait pas de réponse à cela. Sous le plancher, patiemment, la chose reprit la syllabe qu’Ilex venait de taire et la roula à sa place, un ton plus bas, un peu plus près d’y arriver, comme si le silence de l’enfant lui avait laissé le champ.
 
-Le jour tomba pendant qu’elle rangeait le linge sec. En bas, aux premières fumées de la Cendre-Basse, une lanterne s’attardait près de la fontaine, immobile, là où stationnait la voiture de Caeloria. On ne repartait pas. On attendait quelque chose, ou quelqu’un, ou simplement le lendemain et les deux noms neufs sur le registre. Renna regarda la lanterne longtemps, du haut de son sentier où l’on ne monte pas, et pour la première fois de sa vie l’idée lui vint que le sentier où l’on ne monte pas était aussi un sentier d’où l’on ne descend pas facilement, un cul-de-sac qu’elle avait pris pour une cachette.
+Le jour tomba pendant qu’elle rangeait le linge sec. En bas, aux premières fumées de Taldre, une lanterne s’attardait près de la fontaine, immobile, là où stationnait la voiture de Caeloria. On ne repartait pas. On attendait quelque chose, ou quelqu’un, ou simplement le lendemain et les deux noms neufs sur le registre. Renna regarda la lanterne longtemps, du haut de son sentier où l’on ne monte pas, et pour la première fois de sa vie l’idée lui vint que le sentier où l’on ne monte pas était aussi un sentier d’où l’on ne descend pas facilement, un cul-de-sac qu’elle avait pris pour une cachette.
 
 ---
 
@@ -248,4 +248,4 @@ Renna ferma les yeux. Le mensonge qu’elle avait servi à Oréane la protégeai
 
 L’enfant s’endormit contre elle. Le lait déborda un peu, siffla sur les braises. Dehors, les chèvres s’étaient tues, et la nuit du Mont était sans étoiles, ou avec des étoiles qui n’étaient plus tout à fait à leur place, on commençait à le dire au marché, on n’osait pas le dire trop haut.
 
-Renna resta éveillée, l’enfant tiède sous son bras, et elle écouta malgré elle, parce qu’à cette heure, dans le noir, il n’y avait plus de linge ni de chèvres pour couvrir le bruit. Sous la maison, sous la Cendre-Basse, sous la vallée entière et l’épaule de la colline, quelque chose reprenait le mot d’Ilex là où l’enfant l’avait laissé en s’endormant, le roulait, le manquait, recommençait, patient, infatigable, un peu plus près d’y arriver qu’au matin, et remontait vers elle par le seul chemin qu’on n’avait jamais su murer.
+Renna resta éveillée, l’enfant tiède sous son bras, et elle écouta malgré elle, parce qu’à cette heure, dans le noir, il n’y avait plus de linge ni de chèvres pour couvrir le bruit. Sous la maison, sous Taldre, sous la vallée entière et l’épaule de la colline, quelque chose reprenait le mot d’Ilex là où l’enfant l’avait laissé en s’endormant, le roulait, le manquait, recommençait, patient, infatigable, un peu plus près d’y arriver qu’au matin, et remontait vers elle par le seul chemin qu’on n’avait jamais su murer.

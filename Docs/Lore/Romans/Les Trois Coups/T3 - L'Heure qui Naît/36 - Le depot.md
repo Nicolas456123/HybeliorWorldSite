@@ -4,7 +4,7 @@ type: chapitre-roman
 partie: IV — Ce qui remonte
 pov: Sanne
 chapitre: 36
-lieu: Cendara, une forge au pied du Mont Cendra
+lieu: Taldre, une forge au pied du Mont Cendra
 status: draft
 ---
 
@@ -42,7 +42,7 @@ Le hameau donnait ses derniers bruits du jour, une charrette, un chien, une port
 
 — Depuis longtemps, à la façon dont vous portez l’épaule. Un poids qu’on a sanglé longtemps déforme l’os. Le mien est à droite, le vôtre est à gauche, au travers, deux fois. » Elle attendit. « Vous me le montrez, ou vous attendez que je le devine tout à fait ? »
 
-Sanne défit la lanière. Le geste dans le silence, ce geste qu’elle n’avait fait devant témoin que deux fois, une nuit à Cendara devant une femme qui entendait le Mont, une autre nuit à Prismalith devant une jeune à la main tachée. La toile cirée. La laine d’aucune couleur. Le cordon. Le nœud plat, deux tours. Le cahier nu vint dans la lumière basse, et Halka le regarda sans tendre la main, et quelque chose passa sur son visage tanné, non de la surprise, une reconnaissance ancienne, le genre de reconnaissance qui saute une génération et se réveille d’un coup.
+Sanne défit la lanière. Le geste dans le silence, ce geste qu’elle n’avait fait devant témoin que deux fois, une nuit à Taldre devant une femme qui entendait le Mont, une autre nuit à Prismalith devant une jeune à la main tachée. La toile cirée. La laine d’aucune couleur. Le cordon. Le nœud plat, deux tours. Le cahier nu vint dans la lumière basse, et Halka le regarda sans tendre la main, et quelque chose passa sur son visage tanné, non de la surprise, une reconnaissance ancienne, le genre de reconnaissance qui saute une génération et se réveille d’un coup.
 
 « Ah, dit-elle seulement. Celui-là. »
 

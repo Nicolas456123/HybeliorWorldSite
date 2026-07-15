@@ -118,7 +118,7 @@ Manteau sombre, pas de suie sur la face, pas de mèches peintes, rien qui le don
 
 « Vous, la femme à l’enfant. » Il ne haussa pas la voix ; il n’en avait pas besoin, elle portait. « Vous n’êtes pas d’ici, ou plus. Vous cherchez à passer et vous ne priez pas. C’est rare. »
 
-« Je suis d’ici, dit Renna. Je suis de la Cendre-Basse. Teinturière. Je rentre chez moi.
+« Je suis d’ici, dit Renna. Je suis de Taldre. Teinturière. Je rentre chez moi.
 
 — Chez vous, c’est au sud du foyer, et le foyer est fermé. » Il désigna d’un mouvement de menton la fente, la margelle, la foule. « Tout ceci sera dispersé avant l’aube. On ne laisse pas quinze mille personnes camper sur une bouche de feu qui cogne au quart d’heure. Il y aura une bousculade, un feu qui prend une tente, une centaine de morts pour rien, et ce sera de notre faute à nous qui aurons laissé faire. Alors on ne laisse pas faire. »
 
@@ -134,7 +134,7 @@ Renna le regarda, cet homme calme qui parlait de sûreté comme les autres parla
 
 « Non », dit Renna.
 
-L’homme retira sa main. Il ne se fâcha pas. Les hommes de son espèce ne se fâchent pas, ils notent, et Renna le vit noter, quelque part derrière son front froid, qu’une teinturière de la Cendre-Basse avait dit non, et qu’il faudrait y revenir.
+L’homme retira sa main. Il ne se fâcha pas. Les hommes de son espèce ne se fâchent pas, ils notent, et Renna le vit noter, quelque part derrière son front froid, qu’une teinturière de Taldre avait dit non, et qu’il faudrait y revenir.
 
 « Comme vous voudrez, dit-il. Restez donc au bord de la fente. Priez avec les autres. Quand la bousculade viendra, tenez-le bien. » Il se détourna, puis, par-dessus l’épaule, sans méchanceté, avec ce qui ressemblait presque à de la pitié : « Une taie ne se retourne pas vers le sud, la mère. La vôtre le fait depuis tout à l’heure. Un jour, quelqu’un de moins patient que moi le remarquera. »
 

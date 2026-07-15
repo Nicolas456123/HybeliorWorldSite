@@ -54,7 +54,7 @@ Elle le reprit dans ses bras. Le petit ne pesait plus rien, ou pesait de nouveau
 
 \*
 
-Au matin, elle descendit à la Cendre-Basse, parce qu’il ne restait ni pain ni sel et qu’un enfant qui ne dort plus mange à des heures folles. Elle porta Ilex sur la hanche, faute d’oser le laisser seul entre quatre murs qu’une cuve ne fermait plus.
+Au matin, elle descendit à Taldre, parce qu’il ne restait ni pain ni sel et qu’un enfant qui ne dort plus mange à des heures folles. Elle porta Ilex sur la hanche, faute d’oser le laisser seul entre quatre murs qu’une cuve ne fermait plus.
 
 Le chemin du bas n’était pas le chemin du bas.
 
@@ -70,7 +70,7 @@ Renna se rangea contre le talus pour les laisser passer, l’enfant sur la hanch
 
 — Toi aussi, » dit Renna, tout bas.
 
-« Moi aussi. » Ferane serra son panier vide contre son ventre. « Et j’ai peur, teinturière, pas de ce qui monte, de ça je m’en arrange, on s’arrange de tout à Cendre-Basse. J’ai peur du jour où je me forcerai plus. Où je poserai le panier et où je monterai avec eux sans savoir pourquoi. Parce que ce jour-là arrive. Je le sens comme je sens la pluie dans mon genou. Il arrive pour moi comme il est déjà arrivé pour eux. »
+« Moi aussi. » Ferane serra son panier vide contre son ventre. « Et j’ai peur, teinturière, pas de ce qui monte, de ça je m’en arrange, on s’arrange de tout à Taldre. J’ai peur du jour où je me forcerai plus. Où je poserai le panier et où je monterai avec eux sans savoir pourquoi. Parce que ce jour-là arrive. Je le sens comme je sens la pluie dans mon genou. Il arrive pour moi comme il est déjà arrivé pour eux. »
 
 Elle reprit sa descente sans un mot de plus, à contre-courant du flot qui montait, et Renna la regarda s’éloigner, petite silhouette obstinée qui redescendait vers ses raves en luttant contre un fil que personne ne voyait.
 

@@ -48,7 +48,7 @@ Dehors, très loin, une cloche de collège sonna une heure que personne n’éco
 
 *
 
-La lanière se défit dans le silence, ce geste que Sanne n’avait fait devant témoin qu’une seule fois, une nuit, à Cendara, devant une femme qui entendait le Mont. La toile cirée. La laine d’aucune couleur. Le cordon. Le nœud plat, deux tours, celui qui tient et se défait vite. Ysolde regardait faire sans tendre la main, sans se pencher, avec cette retenue de qui sait qu’un dépôt n’est pas une prise et que la première politesse, envers une chose portée si longtemps, c’est de ne pas la vouloir trop vite.
+La lanière se défit dans le silence, ce geste que Sanne n’avait fait devant témoin qu’une seule fois, une nuit, à Taldre, devant une femme qui entendait le Mont. La toile cirée. La laine d’aucune couleur. Le cordon. Le nœud plat, deux tours, celui qui tient et se défait vite. Ysolde regardait faire sans tendre la main, sans se pencher, avec cette retenue de qui sait qu’un dépôt n’est pas une prise et que la première politesse, envers une chose portée si longtemps, c’est de ne pas la vouloir trop vite.
 
 « Il est vieux, dit Sanne. On me l’a passé de mère en mère. Mille ans, dix mille, on ne compte plus, chez moi, on tient, on ne compte pas. Dedans, presque tout est perdu. L’encre a passé, les pages sont mangées. C’est un cahier de gestes, un métier couché sur le papier pour ne pas mourir avec les mains, et le geste, justement, c’est ce qui est parti en premier. Il ne reste que des mains dessinées qui montrent un mouvement que plus personne ne sait faire.
 

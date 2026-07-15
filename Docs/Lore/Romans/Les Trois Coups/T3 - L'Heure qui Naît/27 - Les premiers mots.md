@@ -10,7 +10,7 @@ status: draft
 
 Du temps. Renna se surprit à penser en ce mot comme on pense à un pays qu’on a quitté. Il y avait eu un temps où l’on avait le temps. La saison, puis le mois, puis la semaine, puis le jour, et voilà que le jour lui-même se mettait à s’émietter, que la longue poussée revenait avant qu’on eût fini de trembler de la précédente, et qu’entre deux venues il ne restait plus qu’un répit maigre où l’on rangeait sa peur pour la ressortir aussitôt. On ne comptait plus les jours. Bientôt, elle le sentait à la manière dont l’intervalle se rétrécissait sous elle, on compterait les heures, et l’heure serait longue à porter et courte à durer.
 
-Renna descendit tout de même à la Cendre-Basse, parce qu’une jarre de guède ne se vend pas en restant au bout de son sentier, et parce qu’un enfant qui mange, ces temps-ci, mange pour deux. Ilex, elle le laissa en haut, la porte tirée, la consigne dite. L’enfant ne promit rien qu’il pût tenir, mais il ne tournait plus la tête vers la porte quand elle sortait : il la tournait vers le sud, toujours, vers le Mont, et cela au moins ne bougerait pas de la journée.
+Renna descendit tout de même à Taldre, parce qu’une jarre de guède ne se vend pas en restant au bout de son sentier, et parce qu’un enfant qui mange, ces temps-ci, mange pour deux. Ilex, elle le laissa en haut, la porte tirée, la consigne dite. L’enfant ne promit rien qu’il pût tenir, mais il ne tournait plus la tête vers la porte quand elle sortait : il la tournait vers le sud, toujours, vers le Mont, et cela au moins ne bougerait pas de la journée.
 
 La place, en bas, n’était pas la place. On y avait dressé, entre la fontaine et l’auvent du forgeron, une manière d’estrade de planches, et sur les planches un homme en robe de bure rousse haranguait une trentaine de gens serrés, plus qu’il n’en venait un jour de marché. Renna reconnut la bure d’Arkhen à la ceinture de corde et au signe de flamme peint sur le torse, une flamme droite, en pointe, la couleur du fer chauffé. L’homme parlait fort, d’une voix rauque d’avoir déjà parlé dans dix hameaux.
 
@@ -34,7 +34,7 @@ C’était Ferane, le fichu de travers, un panier de raves au bras, avec sur le 
 
 — Tu n’y crois pas, dit Renna.
 
-— Je crois que ça tremble, dit Ferane. Ça, je le sens sous mes pieds comme toi sous les tiens, je ne suis pas sotte. Je crois qu’il y a quelque chose. Mais dès qu’on lui met un nom, une flamme, une braise, un dieu, moi je décroche. Le nom, ça sert à ceux qui vendent le nom. La chose, elle se moque bien de comment on l’appelle. Elle montera pareil qu’on dise Flamara, qu’on dise Eldoria, ou qu’on ne dise rien du tout. Nous, à Cendre-Basse, on n’a jamais eu de temps à perdre à baptiser ce qui nous tombe dessus. On le subit et on continue. »
+— Je crois que ça tremble, dit Ferane. Ça, je le sens sous mes pieds comme toi sous les tiens, je ne suis pas sotte. Je crois qu’il y a quelque chose. Mais dès qu’on lui met un nom, une flamme, une braise, un dieu, moi je décroche. Le nom, ça sert à ceux qui vendent le nom. La chose, elle se moque bien de comment on l’appelle. Elle montera pareil qu’on dise Flamara, qu’on dise Eldoria, ou qu’on ne dise rien du tout. Nous, à Taldre, on n’a jamais eu de temps à perdre à baptiser ce qui nous tombe dessus. On le subit et on continue. »
 
 Un homme, un peu à l’écart, ne cria pas et ne contredit personne. Un vieux, le bâton haut, les pieds nus dans la poussière malgré la saison, avec au cou un cordon de petits ossements d’oiseau qui cliquetaient à chaque pas. Lentement, il fit le tour de la place, sans monter sur aucune estrade, et parla bas, à qui voulait, d’une voix qui ne cherchait pas à convaincre.
 
@@ -116,7 +116,7 @@ Le prédicant d’Arkhen monta le lendemain. Seul, sans sa braisière pour le co
 
 Du seuil elle le vit prendre le tournant du bas, la bure rousse dans le petit matin gris, et elle poussa Ilex dans la resserre par vieille habitude, entre les cuves, avant de se rappeler que celui-là ne venait pas pour prendre l’enfant. Celui-là venait pour elle. La planche entrouverte, elle sortit sur le seuil, les bras croisés, pour qu’il n’entrât pas.
 
-« La femme qui entend », dit-il en arrivant, essoufflé de la montée, et il sourit, d’un sourire qui voulait être doux et n’avait que faim. « Sur la place, hier, tu as dit que le Mont ne t’avait jamais dit son nom. Je t’ai crue à moitié. On ment bien, à Cendre-Basse. Mais on ne ment pas au grain de la voix, et ta voix, quand tu as dit qu’un tremblement ne se baptise pas, ta voix, elle, savait qu’elle mentait.
+« La femme qui entend », dit-il en arrivant, essoufflé de la montée, et il sourit, d’un sourire qui voulait être doux et n’avait que faim. « Sur la place, hier, tu as dit que le Mont ne t’avait jamais dit son nom. Je t’ai crue à moitié. On ment bien, à Taldre. Mais on ne ment pas au grain de la voix, et ta voix, quand tu as dit qu’un tremblement ne se baptise pas, ta voix, elle, savait qu’elle mentait.
 
 — Vous avez monté un sentier raide pour me dire que je mens, dit Renna. Redescendez-le en sachant que je mens. Ça ne me change rien.
 

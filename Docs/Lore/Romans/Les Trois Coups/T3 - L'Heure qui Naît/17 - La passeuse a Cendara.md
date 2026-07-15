@@ -4,7 +4,7 @@ type: chapitre-roman
 partie: II — Les signes se pressent
 pov: Renna
 chapitre: 17
-lieu: Cendre-Basse, la vallée du Mont, en Cendara
+lieu: Taldre, la vallée du Mont, en Cendara
 status: draft
 ---
 

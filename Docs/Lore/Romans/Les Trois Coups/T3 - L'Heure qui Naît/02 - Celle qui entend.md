@@ -2,7 +2,7 @@
 tags: [roman, trois-coups, tome-3, sillage, an-251, partie-1, pov-renna, celle-qui-entend, enfant-aux-yeux-blancs, cendara, cendra, remutation]
 type: chapitre-roman
 partie: I
-pov: Renna de Cendara
+pov: Renna de Taldre
 chapitre: 2
 status: draft
 ---
@@ -63,7 +63,7 @@ L’enfant la regarda, enfin, autant qu’on pouvait dire qu’il regardait.
 
 Le reste de la matinée fut du travail, et le travail était bon, parce qu’il occupait les mains et laissait les oreilles tranquilles.
 
-Renna balaya la cendre du seuil, celle qui tombait la nuit sans qu’on la vît tomber et qu’il fallait pousser chaque matin, sinon elle prenait en croûte. Du puits elle tira de l’eau, mit à tremper les fèves. Cendara vivait au ralenti de la fin d’été, les hommes en haut aux estives, les femmes au bas au lavoir et aux jardins, et sur tout ce petit monde le Mont montait au sud, énorme et gris, si familier qu’on ne le regardait plus, une présence qu’on portait sur la nuque comme on porte le ciel. Renna avait grandi ainsi, à ne pas le regarder. Sa mère avait grandi ainsi, et la mère de sa mère, dont on disait dans le village, à mi-voix, du temps où Renna était petite, qu’elle avait un jour prédit un éboulement trois jours avant qu’il tombe et qu’on l’avait, pour cela, moins aimée. On n’aime pas ceux qui savent. On les tolère quand ils se taisent, et on les tolère mal.
+Renna balaya la cendre du seuil, celle qui tombait la nuit sans qu’on la vît tomber et qu’il fallait pousser chaque matin, sinon elle prenait en croûte. Du puits elle tira de l’eau, mit à tremper les fèves. Taldre vivait au ralenti de la fin d’été, les hommes en haut aux estives, les femmes au bas au lavoir et aux jardins, et sur tout ce petit monde le Mont montait au sud, énorme et gris, si familier qu’on ne le regardait plus, une présence qu’on portait sur la nuque comme on porte le ciel. Renna avait grandi ainsi, à ne pas le regarder. Sa mère avait grandi ainsi, et la mère de sa mère, dont on disait dans le village, à mi-voix, du temps où Renna était petite, qu’elle avait un jour prédit un éboulement trois jours avant qu’il tombe et qu’on l’avait, pour cela, moins aimée. On n’aime pas ceux qui savent. On les tolère quand ils se taisent, et on les tolère mal.
 
 Voilà l’art qu’on lui avait légué de femme en femme, dans cette maison de cendre : non pas entendre, mais faire comme si l’on n’entendait pas. Passer inaperçue. Ne jamais lever la tête la première quand un chien hurlait. Ne jamais dire *il va pleuvoir* avant les nuages, *elle va mourir* avant la fièvre, *ça vient* avant que ça vienne. Renna était bonne à ce jeu. Vingt-cinq ans qu’elle y jouait, et personne au village, hormis peut-être la vieille Corvane qui devinait tout, n’aurait pu jurer qu’elle avait dans les oreilles autre chose que ce que les gens ordinaires y ont. L’enfant, lui, ne savait pas jouer. Voilà ce qui la tenait éveillée les mauvaises nuits : non pas ce qu’elle entendait, elle, qu’elle savait cacher, mais ce que lui laissait voir sur son petit visage transparent, sans une ombre de ruse, chaque fois que le dessous du monde lui parlait.
 
@@ -105,7 +105,7 @@ Ils montèrent tous en même temps, des toits, des haies, du grand frêne mort a
 
 Et là-bas, au bout de tout, par-dessus les toits et la ligne noire des sapins, le Mont fuma.
 
-Rien d’un volcan. Personne, à Cendara, n’aurait plus employé ce mot ; les vieux qui l’employaient encore étaient morts, et le Mont ne crachait ni feu ni pierre. Il exhalait. Une seule spirale de cendre pâle monta droit dans l’air sans vent, tourna sur elle-même, se dédoubla en montant comme faisaient ces spirales depuis quelque temps, deux bras au lieu d’un, tressés, puis se défit tout en haut en une figure branchue que Renna ne se laissa pas regarder, parce qu’à la regarder trop on croyait y lire quelque chose, et ce qu’on croyait y lire ne vous quittait plus.
+Rien d’un volcan. Personne, à Taldre, n’aurait plus employé ce mot ; les vieux qui l’employaient encore étaient morts, et le Mont ne crachait ni feu ni pierre. Il exhalait. Une seule spirale de cendre pâle monta droit dans l’air sans vent, tourna sur elle-même, se dédoubla en montant comme faisaient ces spirales depuis quelque temps, deux bras au lieu d’un, tressés, puis se défit tout en haut en une figure branchue que Renna ne se laissa pas regarder, parce qu’à la regarder trop on croyait y lire quelque chose, et ce qu’on croyait y lire ne vous quittait plus.
 
 Dans son dos, l’enfant avait quitté le seuil.
 

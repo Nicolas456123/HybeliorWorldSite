@@ -4,7 +4,7 @@ type: chapitre-roman
 partie: IV — Ce qui remonte
 pov: Sanne
 chapitre: 38
-lieu: Cendara, du pied du Mont au chemin qui monte
+lieu: Taldre, du pied du Mont au chemin qui monte
 status: draft
 ---
 
@@ -56,7 +56,7 @@ Sanne ne se retourna pas. Se retourner, c’était rendre la chose plus lourde p
 
 *
 
-Le haut du bourg se vidait. Cela se voyait à des riens, une charrette chargée à la hâte et mal, une porte qu’on ne prenait plus la peine de fermer, un chien laissé qui suivait n’importe qui. Cendara s’en allait par le bas, vers les vallées plus sourdes, comme s’en étaient allés les forgerons de la rangée de Halka ; et ce qui restait n’était plus tout à fait un bourg, plutôt la coquille d’un bourg, des murs qui tenaient encore autour d’un dedans parti. Sanne avait passé sa vie à lire les lieux morts. Elle en traversait un qui mourait sous ses yeux, à petit bruit, sans qu’une seule maison tombât, rien qu’en se vidant de ses gens.
+Le haut du bourg se vidait. Cela se voyait à des riens, une charrette chargée à la hâte et mal, une porte qu’on ne prenait plus la peine de fermer, un chien laissé qui suivait n’importe qui. Taldre s’en allait par le bas, vers les vallées plus sourdes, comme s’en étaient allés les forgerons de la rangée de Halka ; et ce qui restait n’était plus tout à fait un bourg, plutôt la coquille d’un bourg, des murs qui tenaient encore autour d’un dedans parti. Sanne avait passé sa vie à lire les lieux morts. Elle en traversait un qui mourait sous ses yeux, à petit bruit, sans qu’une seule maison tombât, rien qu’en se vidant de ses gens.
 
 Monter, elle ne l’avait pas vraiment décidé. S’éloigner, oui : de la forge, de la brique rescellée, de l’enfant, de tout ce à quoi elle tenait encore. Elle avait fini par comprendre une chose simple et froide, qu’elle se répétait maintenant en marchant, une fois pour toutes.
 
@@ -66,7 +66,7 @@ Selha était morte de l’avoir croisée. Morte, ou rangée quelque part sans no
 
 C’était fait. La ligne était sauve, à Prismalith, chez la jeune à l’encre indélébile, et ailleurs, et encore ailleurs, dans des cahiers qu’elle ne reverrait pas. Le cahier de sa maison dormait dans le mur de Halka, derrière les trois traits, là où la chasse ne va pas. L’enfant était sauve, quelque part sur la route du levant, les mains vides comme son nom, derrière une femme qu’on ne suit pas. À suivre, désormais, il ne restait plus que Sanne. Et Sanne ne portait plus rien qu’on pût lui reprendre.
 
-Elle s’aperçut, en montant, qu’elle marchait plus droit qu’elle ne l’avait fait depuis des mois. C’était cela, se rendre inutile à sa propre mort. Ce n’était pas triste. C’était léger. On passait sa vie à croire que le poids donnait de la valeur, et on découvrait, tout en haut d’une ruelle de Cendara, un matin de gel, qu’on ne valait jamais autant que quand on ne pesait plus rien pour personne.
+Elle s’aperçut, en montant, qu’elle marchait plus droit qu’elle ne l’avait fait depuis des mois. C’était cela, se rendre inutile à sa propre mort. Ce n’était pas triste. C’était léger. On passait sa vie à croire que le poids donnait de la valeur, et on découvrait, tout en haut d’une ruelle de Taldre, un matin de gel, qu’on ne valait jamais autant que quand on ne pesait plus rien pour personne.
 
 *
 
@@ -124,7 +124,7 @@ Et le nom du frappeur, elle ne l’aurait pas. C’était cela, le plus dur, non
 
 Puis, dessous, quand la colère fut tombée, ce qui monta fut plus calme, et plus doux, et cela commença par le cahier.
 
-Le cahier ne mourait pas avec elle. Voilà la chose qu’elle vint tenir, à la fin, comme on tient la seule pièce réussie d’une mauvaise fournée. Il dormait dans un mur de forge, quelque part en contrebas, derrière trois traits qu’il fallait s’accroupir pour voir, gardé par une vieille et par la pierre, là où nul chasseur n’irait le prendre. Autrefois, sa mort à elle aurait été la mort de la ligne, l’extinction du seul feu qui la gardât ; on l’aurait couchée là, sur le chemin, et avec elle se serait éteint le dernier endroit du monde où cette phrase se lisait entière. Plus maintenant. Des mois durant elle avait défait ce nœud-là, à Prismalith, chez la jeune à l’encre indélébile, sur les routes, de cahier en cahier, et enfin dans la pierre de Halka, précisément pour que cet instant, quand il viendrait, ne reprît rien au monde. Ils l’avaient prise, enfin, la bonne, après tous les leurres. Et cela ne leur rendait rien. La ligne était à dix endroits. On pouvait la coucher, elle, dans un chemin de Cendara ; on ne couchait qu’une femme. Le geste, cette fois, ne tombait pas avec le dos qui l’avait porté.
+Le cahier ne mourait pas avec elle. Voilà la chose qu’elle vint tenir, à la fin, comme on tient la seule pièce réussie d’une mauvaise fournée. Il dormait dans un mur de forge, quelque part en contrebas, derrière trois traits qu’il fallait s’accroupir pour voir, gardé par une vieille et par la pierre, là où nul chasseur n’irait le prendre. Autrefois, sa mort à elle aurait été la mort de la ligne, l’extinction du seul feu qui la gardât ; on l’aurait couchée là, sur le chemin, et avec elle se serait éteint le dernier endroit du monde où cette phrase se lisait entière. Plus maintenant. Des mois durant elle avait défait ce nœud-là, à Prismalith, chez la jeune à l’encre indélébile, sur les routes, de cahier en cahier, et enfin dans la pierre de Halka, précisément pour que cet instant, quand il viendrait, ne reprît rien au monde. Ils l’avaient prise, enfin, la bonne, après tous les leurres. Et cela ne leur rendait rien. La ligne était à dix endroits. On pouvait la coucher, elle, dans un chemin de Taldre ; on ne couchait qu’une femme. Le geste, cette fois, ne tombait pas avec le dos qui l’avait porté.
 
 Se rendre inutile à sa propre mort. Elle y était. C’était la seule victoire qui lui restât, entière, tenue dans le froid, et que nul ne lui reprendrait, parce que c’était la seule chose au monde qu’on ne pouvait pas ranger dans une route vide : une mort qui ne servait à rien. Ils avaient gagné le dos. Le geste, elle l’avait gardé. Le compte était bon, et Sanne, qui avait passé sa vie à faire des comptes froids les mains dans le chaud, arrêta celui-là, juste, à l’équilibre, comme une balance dont on retire enfin les doigts.
 
