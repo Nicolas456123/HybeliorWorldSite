@@ -120,7 +120,7 @@ Le **Tavernier** est le **maître du soir** d'Hybelior — vendeur de **boissons
 | Contexte | Effet |
 |----------|-------|
 | **Ère [[Les Ères|Verdoiement]] (Terranu)** | Cuvées miellées, fruits abondants, fréquentation +30% |
-| **Ère [[Les Ères|Sommeil de Glace]] (Climata)** | Plats chauds, eaux-de-vie réchauffantes, fréquentation +20% |
+| **Ère [[Les Ères|Sommeil de Glace]] (Aquor)** | Plats chauds, eaux-de-vie réchauffantes, fréquentation +20% |
 | **Ère [[Les Ères|Vents]] (Aerion)** | Bardes voyageurs nombreux, soirées musicales animées |
 | **Ère [[Les Ères|Brume Mortelle]]** | Méfiance, fréquentation -20%, rumeurs morbides |
 | **Ère [[Les Ères|Ombre Longue]] (Noctis)** | Tavernes ouvertes plus tard, [[Noctari]] hub clandestin |

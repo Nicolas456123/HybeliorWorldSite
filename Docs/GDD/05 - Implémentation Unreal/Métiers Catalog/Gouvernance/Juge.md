@@ -19,7 +19,7 @@ needs_review_for: [calibration-progression-jouable]
 # ⚖️ Juge — Archétype-métier
 
 > [!info] Entités tutélaires canoniques
-> **[[Cosmologie|Judicar]]** (Cosmique — *Gardien des lois cosmiques*, arbitre de l'ordre cosmique) et **[[Cosmologie|Fatum]]** (Cosmique — *Juge des destins*). Voir [[Cosmologie]] §"Liste canonique des entités cosmiques". Source : `AccessExport/Legende.csv` (D-COSMO-LEGENDE-CSV-INTEGRATION).
+> **[[Cosmologie|Judicar]]** (Astral — *Gardien des lois cosmiques*, arbitre de l'ordre cosmique) et **[[Cosmologie|Fatum]]** (Cosmique — *Juge des destins*). Voir [[Cosmologie]] §"Liste canonique des entités cosmiques". Source : `AccessExport/Legende.csv` (D-COSMO-LEGENDE-CSV-INTEGRATION).
 
 ## 1. Vue d'ensemble
 

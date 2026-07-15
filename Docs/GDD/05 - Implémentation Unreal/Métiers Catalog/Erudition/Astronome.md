@@ -20,7 +20,7 @@ needs_review_for: [calibration-fenêtres-prédiction-playtest]
 # 🌌 Astronome — Archétype Métier
 
 > [!info] Entités tutélaires canoniques
-> **[[Cosmologie|Stellaris]]** (Cosmique — *Danseur des étoiles*, mouvements célestes) et **[[Cosmologie|Asterion]]** (Céleste — *Cartographe céleste*, mappeur des constellations). Voir [[Cosmologie]] §"Liste canonique des entités cosmiques". Source : `AccessExport/Legende.csv` (D-COSMO-LEGENDE-CSV-INTEGRATION).
+> **[[Cosmologie|Stellaris]]** (Astral — *Danseur des étoiles*, mouvements célestes) et **[[Cosmologie|Asterion]]** (Céleste — *Cartographe céleste*, mappeur des constellations). Voir [[Cosmologie]] §"Liste canonique des entités cosmiques". Source : `AccessExport/Legende.csv` (D-COSMO-LEGENDE-CSV-INTEGRATION).
 
 > *« Les étoiles tournent depuis avant les Éternels. Elles savent. Il ne nous reste qu'à apprendre leur langue. »*
 > — **Maître Veylan**, Astronome d'Astravia, dernière entrée connue avant le Souffle d'Umbra

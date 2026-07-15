@@ -139,7 +139,7 @@ Il est l'un des **rares métiers** qui touche à la fois aux ressources les plus
 |----------|-------|
 | **Ère [[Les Ères|Verdoiement]] (Terranu)** | +20% qualité potions végétales, recettes de cure abondantes |
 | **Ère [[Les Ères|Brume Mortelle]]** | Recettes alchimiques rares disponibles (cf. [[Crafts]] §Modulation), -10% sur autres crafts |
-| **Ère [[Les Ères|Sommeil de Glace]] (Climata)** | -20% rendement intrants végétaux, +30% conservation des potions |
+| **Ère [[Les Ères|Sommeil de Glace]] (Aquor)** | -20% rendement intrants végétaux, +30% conservation des potions |
 | **Ère [[Les Ères|Ombre Longue]] (Noctis)** | Recettes obscures débloquées (poisons, somnifères), [[Voie]] de Noctis +10% |
 | **Post-[[Le Souffle]] semaine 1** | Rouille -15% : recettes d'ère sortante deviennent instables, certaines disparaissent |
 | **[[L'Accord]] ≥ 75%** | Recette d'ère signée débloquée (1 par ère) |

@@ -122,7 +122,7 @@ Les ères ([[Les Ères]]) modulent la routine :
 |----------|---------------|
 | Ombre Longue (Noctis) | Couvre-feu, rentrer plus tôt, prier plus |
 | Verdoiement (Terranu) | Travail prolongé en extérieur, fêtes |
-| Sommeil de Glace (Climata) | Rester chez soi, hiver intensifié |
+| Sommeil de Glace (Aquor) | Rester chez soi, hiver intensifié |
 | Crépuscule (transition) | Anxiété, processions, foules |
 | Vents (Aerion) | Voyages, marché itinérant, rumeurs |
 

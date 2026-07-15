@@ -222,7 +222,7 @@ Un Enchanteur Expert+ peut **effacer** un sort d'un Tome (rite de purgation, con
 | *Recettes débloquées (X)* | Permet d'apprendre N recettes d'un métier sans formation directe |
 | *Carte révélée* | Révèle une zone précise d'un continent |
 | *Lore d'une religion* | Bonus diplomatie +X% avec 1 faction religieuse |
-| *Langues anciennes* | Permet de lire 1 langue oubliée — branche siège *Lingua* (cf. [[Cosmologie]] §Sièges Éthérés) |
+| *Langues anciennes* | Permet de lire 1 langue oubliée — branche liée à la Consécration *Lingua* (honneur mortel, jamais un siège cosmique — cf. [[L'Accord]] ; entités : [[Cosmologie]] §Les rangs inférieurs) |
 
 ### Règle d'unicité du Tome
 
@@ -377,7 +377,7 @@ Un Enchanteur Expert+ peut **effacer** un sort d'un Tome (rite de purgation, con
 1. **Reprendre la structure 10 sections** de ce fichier.
 2. **Calibration de profil par focus** :
    - **Orbe** : sphère cristalline tenue en main libre — **amplificateur passif** d'une Voie spécifique (+15-25% à tous les sorts de la Voie). Pas de sorts encapsulés. Plus simple qu'un Tome, plus puissant en bonus passif.
-   - **Talisman** : petit objet (cou ou ceinture) — **ancre rituelle / pacte**. Porte 1 sort encapsulé unique mais à charges illimitées, conditionné par pacte. Recoupe avec siège Éthéré *Talos*.
+   - **Talisman** : petit objet (cou ou ceinture) — **ancre rituelle / pacte**. Porte 1 sort encapsulé unique mais à charges illimitées, conditionné par pacte. Recoupe avec la Consécration *Talos* (honneur mortel, jamais un siège cosmique).
    - **Cristal de Voie** : cristal taillé attaché à l'équipement (broche, anneau, arme) — **signature de la Voie pratiquée**. Bonus visuel + +5-10% à la Voie. Composant aussi (intrant des Tomes/Anneaux). Recoupe avec [[Sources de Ressources]] §Cristal.
    - **Bandeau frontal / Reliure** : tissu enchanté autour du front — **focus discret**. Bonus Mémoire + −5-10% temps d'incantation. Compatible avec capuche de tissu (slot armure tête).
 3. **Reprendre le système d'enchantement à l'identique** (cercle, cristal, essence, charges).
@@ -392,7 +392,7 @@ Un Enchanteur Expert+ peut **effacer** un sort d'un Tome (rite de purgation, con
 - [[Architecture Data-Driven]] §Recipe Generator — recettes par tier × Voie × région
 - [[Le Lien]] — Voies, mono-Voie, opposition magique, palier Lien profond
 - [[Combat]] §Sorts de Voie — alignement des coûts Mana et incantation des sorts encapsulés
-- [[Cosmologie]] §Sièges Éthérés — *Luxa* (runes), *Legatus* (lore), *Lingua* (langues anciennes), *Arcana* (savoir mystique) sont les sièges concernés par les Tomes Mythiques
+- Consécrations *Luxa* (runes), *Legatus* (lore), *Lingua* (langues anciennes), *Arcana* (savoir mystique) — honneurs mortels liés à une entité, jamais des sièges cosmiques ; concernées par les Tomes Mythiques (cf. [[L'Accord]] ; entités : [[Cosmologie]] §Les rangs inférieurs)
 - [[Le Souffle]] — rouille post-Souffle s'applique aux Tomes Magistral+
 - [[L'Accord]] — modulation du rituel d'inscription ET de l'efficacité du Tome porté
 - [[Catégories d'Items]] §Livre Récipient — distinction critique préservée

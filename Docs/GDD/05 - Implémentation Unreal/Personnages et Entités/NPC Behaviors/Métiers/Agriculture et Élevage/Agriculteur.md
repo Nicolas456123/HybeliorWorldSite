@@ -220,7 +220,7 @@ trigger:
 ### 6.5 Souffle / Ère (§5.5)
 - **Le métier le plus modulé par les Ères** :
   - Verdoiement (Terranu) : +50% rendement, mood Joy +30
-  - Sommeil de Glace (Climata) : -40% rendement, focus cultures résistantes (seigle, chou) — MBTI **T** rationnement, **F** détresse
+  - Sommeil de Glace (Aquor) : -40% rendement, focus cultures résistantes (seigle, chou) — MBTI **T** rationnement, **F** détresse
   - Vents (Aerion) : pollinisation excellente, mais récoltes balayées si tempête
   - Brume Mortelle : cultures contaminées, opportunités cultures variants Expert+
   - Feu Endormi (Eldoria) : sécheresses, irrigation requise

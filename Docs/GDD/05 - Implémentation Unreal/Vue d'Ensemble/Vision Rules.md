@@ -72,7 +72,7 @@ Les conditions cachées sont un pilier d'identité d'Hybelior. **Trois niveaux d
 |---|---|---|---|
 | 🟢 **Visible** | Condition + barre de progression affichées | Progression normale, paliers réguliers | Niveaux d'arme 1 à 4, quêtes ordinaires, métiers 1 à 4 |
 | 🟡 **Indicé** | Une icône `🔒` signale qu'une condition existe, sans en révéler la nature | Paliers spéciaux, reliques, routes alternatives | Compétences signature niveau Maître, donjons spéciaux, rédemption karma |
-| 🔴 **Cachée totale** | Aucune indication. Déclenchement par surprise. | Réservé aux **vrais secrets uniques** | Titres Célestes secondaires, Voies non répertoriées, conditions de Souffle Cardinal, fragments de lore exclusifs, signatures cosmétiques uniques |
+| 🔴 **Cachée totale** | Aucune indication. Déclenchement par surprise. | Réservé aux **vrais secrets uniques** | Consécrations secondaires, Voies non répertoriées, conditions de Souffle Cardinal, fragments de lore exclusifs, signatures cosmétiques uniques |
 
 ### Plafond souple — règle de balance
 

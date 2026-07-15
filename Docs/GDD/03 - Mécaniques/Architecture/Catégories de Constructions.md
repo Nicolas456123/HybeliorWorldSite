@@ -139,7 +139,7 @@ Caëspia, la cité signature d'Evertia, dont aucun chroniqueur ne parvient à da
 
 Ces ouvrages ne se vendent pas. Ne s'achètent pas. Parfois ne se visitent même pas — il y a des sanctuaires d'Hybelior qu'on ne touche que par condition rituelle, par accomplissement long, par grâce des Ères qui veulent bien laisser le seuil s'ouvrir.
 
-Élever, soi-même, un bâti qui entre dans cette famille, est l'une des aspirations les plus hautes qu'un Architecte puisse nourrir. Très peu y parviennent. Les conditions s'accumulent : maîtrise absolue, ressources rares, accord d'un siège Éthéré ou d'un Cosmique, parfois la coopération de plusieurs Liés aux Voies. La plupart du temps, ces œuvres-là ne se construisent pas — elles **arrivent**, comme on dit dans les corporations, *« quand le monde consent »*. Et un monde qui consent est un monde rare.
+Élever, soi-même, un bâti qui entre dans cette famille, est l'une des aspirations les plus hautes qu'un Architecte puisse nourrir. Très peu y parviennent. Les conditions s'accumulent : maîtrise absolue, ressources rares, accord d'un Céleste ou d'un Cosmique, parfois la coopération de plusieurs Liés aux Voies. La plupart du temps, ces œuvres-là ne se construisent pas — elles **arrivent**, comme on dit dans les corporations, *« quand le monde consent »*. Et un monde qui consent est un monde rare.
 
 Voir [[Traces des Ères]] pour la lecture longue de ces ouvrages, et de ce qu'ils disent du temps long d'Hybelior.
 

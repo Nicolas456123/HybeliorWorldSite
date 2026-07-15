@@ -132,7 +132,7 @@ Le Banquier ne produit ni ne consomme de ressource matérielle. Il **gère un fl
 | Contexte | Effet |
 |----------|-------|
 | **Ère [[Les Ères|Verdoiement]] (Terranu)** | Économie expansive, prêts faciles, taux bas (5%) |
-| **Ère [[Les Ères|Sommeil de Glace]] (Climata)** | Crise, défauts +30%, taux durs (15-20%) |
+| **Ère [[Les Ères|Sommeil de Glace]] (Aquor)** | Crise, défauts +30%, taux durs (15-20%) |
 | **Ère [[Les Ères|Brume Mortelle]]** | Effondrement de confiance, ruée sur les coffres |
 | **Ère [[Les Ères|Ombre Longue]] (Noctis)** | Banques clandestines, contrebande financière |
 | **Pré-[[Le Souffle]]** | **Bourse des Augures s'agite** : spéculation maximale, gain ou faillite |

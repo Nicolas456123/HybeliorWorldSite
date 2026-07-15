@@ -221,7 +221,7 @@ Le **Cuisinier** transforme les viandes (livrées par le [[Boucher]]), poissons 
 | Ère | Effet |
 |-----|-------|
 | **Verdoiement** (Terranu) | +20% qualité plats végétariens, herbes abondantes |
-| **Sommeil de Glace** (Climata) | Soupes longues bonifiées, conservation +30% |
+| **Sommeil de Glace** (Aquor) | Soupes longues bonifiées, conservation +30% |
 | **Vents** (Aerion) | Recettes voyageurs/rations boostées |
 | **Brume Mortelle** (Umbra) | Plats *Pourpres* (immunité brume) |
 | **Présages** (Fatum) | Plats augures, divination par festin |

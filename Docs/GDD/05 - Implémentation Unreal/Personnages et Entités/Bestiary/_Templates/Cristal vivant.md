@@ -55,7 +55,7 @@ Sons : **résonance harmonique permanente** (variations subtiles selon humeur ; 
 
 ### Place écologique et culturelle
 
-**Filtre énergétique / Cathédrale magique**. Le Cristal vivant **filtre** les flux magiques d'une zone (capte fuites de Voies, redistribue lentement). Présence stable = signe de **filons magiques actifs**. Souvent **point de pélerinage** pour Liés à Aetheron. Affinité **Aetheron** (énergie pure) et **Stellaris** (cosmique mineur — proposition canonique à valider).
+**Filtre énergétique / Cathédrale magique**. Le Cristal vivant **filtre** les flux magiques d'une zone (capte fuites de Voies, redistribue lentement). Présence stable = signe de **filons magiques actifs**. Souvent **point de pélerinage** pour Liés à Aetheron. Affinité **Aetheron** (énergie pure) et **Stellaris** (astral mineur — proposition canonique à valider).
 
 **Folklore** :
 - *Alkaran (Myrtam)* → "**Cathédrales de Pierre Vivante**", protégées par Mineurs-Liés ; source d'Acier Magistral
@@ -315,7 +315,7 @@ Le Cristal vivant **n'apparaît pas** — il **est là**, depuis longtemps. Déc
 - **Voie d'Aetheron** : à formaliser dans [[Le Lien]]. Le Cristal vivant est le **lieu de méditation** principal pour XP de Voie
 - **Récolte rituelle** : pattern à étendre à d'autres ressources (arbres-totems Phase 4, sources sacrées)
 - **Réseau régional de Cristaux** : carte à formaliser pour les régions minières (Myrtam, Mosrack, Vythar)
-- **Stellaris** : entité cosmique mineure proposée pour affinité Cristal — à valider [[Cosmologie]]
+- **Stellaris** : entité astrale mineure proposée pour affinité Cristal — à valider [[Cosmologie]]
 
 ### Notes pour autres agents
 

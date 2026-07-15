@@ -262,7 +262,7 @@ Chaque archétype peut avoir jusqu'à **10 variants visuels** mappés sur les en
 | Pourpre | Aetheron |
 | Doré | Celestia |
 | Brisé | Vortex |
-| Onirique | Somnix (Astral) |
+| Onirique | Somnix (Cosmique) |
 | Vénérable | Spiritus |
 
 > ⚠️ Ce mapping est une **proposition initiale** héritée de V3.3 GameDoc. À valider en V4-bis ou en sprint pilote bestiaire.

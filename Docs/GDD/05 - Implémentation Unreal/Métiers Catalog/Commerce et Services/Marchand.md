@@ -20,7 +20,7 @@ needs_review_for: [calibration-progression-playtest, taux-marges-régionales]
 # 💰 Marchand — Archétype Métier
 
 > [!info] Entités tutélaires canoniques
-> **[[Cosmologie|Aetheron]]** (Cosmique — *Marchand de l'éther*, commerçant des essences éthérées), **[[Cosmologie|Anima]]** (Céleste — *Négociant des âmes*), **[[Cosmologie|Realis]]** (Céleste — *Échangeur de réalités*), **[[Cosmologie|Somnix]]** (Céleste — *Marchand de rêves*), **[[Cosmologie|Legatus]]** (Céleste — *Collectionneur des légendes*). Voir [[Cosmologie]] §"Liste canonique des entités cosmiques". Source : `AccessExport/Legende.csv` (D-COSMO-LEGENDE-CSV-INTEGRATION).
+> **[[Cosmologie|Aetheron]]** (Astral — *Marchand de l'éther*, commerçant des essences éthérées), **[[Cosmologie|Anima]]** (Céleste — *Négociant des âmes*), **[[Cosmologie|Realis]]** (Céleste — *Échangeur de réalités*), **[[Cosmologie|Somnix]]** (Cosmique — *Marchand de rêves*), **[[Cosmologie|Legatus]]** (Céleste — *Collectionneur des légendes*). Voir [[Cosmologie]] §"Liste canonique des entités cosmiques". Source : `AccessExport/Legende.csv` (D-COSMO-LEGENDE-CSV-INTEGRATION).
 
 > *"Mon métier n'est pas de vendre. C'est de faire qu'on m'achète."*
 
@@ -149,7 +149,7 @@ Le Marchand **ne produit aucune ressource brute**. Il gère un **flux** :
 | Contexte | Effet |
 |----------|-------|
 | **Ère [[Les Ères|Verdoiement]] (Terranu)** | Surplus céréales/fruits, marges resserrées sur denrées, opportunités sur outils agricoles |
-| **Ère [[Les Ères|Sommeil de Glace]] (Climata)** | Pénurie alimentaire, marges +50% sur denrées, conservation prime |
+| **Ère [[Les Ères|Sommeil de Glace]] (Aquor)** | Pénurie alimentaire, marges +50% sur denrées, conservation prime |
 | **Ère [[Les Ères|Vents]] (Aerion)** | Caravanes rapides, marges +20% sur trajet, opportunités relais |
 | **Ère [[Les Ères|Brume Mortelle]]** | Trafic de remèdes, marges extrêmes (+200%), risque |
 | **Ère [[Les Ères|Ombre Longue]] (Noctis)** | Marché noir, contrebande facile, [[Noctari|recettes obscures]] |

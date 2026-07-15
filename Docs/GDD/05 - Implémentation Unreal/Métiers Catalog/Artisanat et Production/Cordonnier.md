@@ -192,7 +192,7 @@ Le **Cordonnier** taille, coud, monte et finit des chaussures/bottes en cuir. Il
 
 | Ère | Effet |
 |-----|-------|
-| **Sommeil de Glace** (Climata) | Demande bottes fourrées +50%, fourrure prix x1.5 |
+| **Sommeil de Glace** (Aquor) | Demande bottes fourrées +50%, fourrure prix x1.5 |
 | **Vents** (Aerion) | Bottes du Voyageur boostées (recettes itinérantes) |
 | **Feu Endormi** (Eldoria) | Demande bottes résistantes feu (Cendara) |
 | **Brume Mortelle** (Umbra) | Bottes silencieuses recherchées (peur, furtivité) |

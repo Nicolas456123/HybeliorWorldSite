@@ -344,7 +344,7 @@ Un Enchanteur Expert+ peut **dissocier** l'Orbe de sa Voie (rite de purgation, ~
 - [[Le Lien]] — Voies, opposition, pactes
 - [[Combat]] — calcul d'efficacité des sorts
 - [[Le Souffle]] / [[L'Accord]]
-- [[Cosmologie]] §Sièges Éthérés — *Talos*, *Arcana*
+- Consécrations *Talos*, *Arcana* — honneurs mortels liés à une entité, jamais des sièges cosmiques (cf. [[L'Accord]] ; entités : [[Cosmologie]] §Les rangs inférieurs)
 
 ---
 

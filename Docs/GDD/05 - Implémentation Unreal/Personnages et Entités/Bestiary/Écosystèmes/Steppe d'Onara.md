@@ -141,7 +141,7 @@ DÉCOMPOSEURS :
 | **Ère des Présages** | **Vols d'étourneaux forment constellations lisibles**. Augures dans les hardes migratrices. Variant **Vénérable**. Astronomes affluent. |
 | **Ère de la Communion** | Domestication facilitée (chevaux, antilopes). Lythar et Ventera dans une frénésie. |
 
-> **Modulation forte** : la steppe est **l'écosystème le plus lié à Aerion / Climata** (Cosmiques du vent et des cycles). Les Foires des Vents prédisent les ères par les vols aviens.
+> **Modulation forte** : la steppe est **l'écosystème le plus lié à Aerion (Cosmique du vent) et à Climata (Astrale des cycles)**. Les Foires des Vents prédisent les ères par les vols aviens.
 
 ---
 

@@ -329,7 +329,7 @@ Le Tisseur **n'erre pas** — il **se manifeste** :
 
 - **Voie de Verbe Doux palier 4+** : à formaliser dans [[Le Lien]]. Indispensable contre Tisseur. Pattern d'apprentissage : tutoré par [[Esprit changeforme]] (Verdoyant), maîtrisé en combat Tisseur
 - **Brèches du Néant** : à canoniser dans [[Géographie]] (lieux de spawn) et [[Cosmologie]] (lore d'apparition)
-- **Etherius** : entité cosmique du Vide proposée — à valider [[Cosmologie]] (avec Vide de [[Tentacule abyssal]])
+- **Etherius** : entité astrale du Vide proposée — à valider [[Cosmologie]] (avec Vide de [[Tentacule abyssal]])
 - **Lien Navigor** : disparition canonique liée aux Tisseurs Avatar. Quête majeure Phase 4
 - **Acier du Vide** : équivalent paradoxal d'Acier Éternel — recette Magistrale à formaliser ([[Sources de Ressources]])
 

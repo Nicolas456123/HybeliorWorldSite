@@ -120,7 +120,7 @@ Recettes signature par palier :
 | Ère type | Effet |
 |----------|-------|
 | **Verdoiement (Terranu)** | Tannins végétaux abondants ; +20 % qualité tannage végétal |
-| **Sommeil de Glace (Climata)** | Préservation longue ; les cuirs durent 50 % plus longtemps en stockage |
+| **Sommeil de Glace (Aquor)** | Préservation longue ; les cuirs durent 50 % plus longtemps en stockage |
 | **Brume Mortelle** | Pénurie de bétail vivant ; prix cuirs ×2, recettes nécromantiques de cuir d'âme rare disponibles |
 | **Feu Endormi (rumeur Eldoria)** | Cuirs au [[Sang]] de dragon nain (Zocshawk) deviennent forgeables → composante Acier Éternel cuir |
 

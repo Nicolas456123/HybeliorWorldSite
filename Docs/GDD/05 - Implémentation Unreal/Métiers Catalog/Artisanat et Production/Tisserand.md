@@ -216,7 +216,7 @@ Le **Tisserand** carde les fibres, file le fil, tisse le tissu, le teint, l'appr
 | Ère | Effet |
 |-----|-------|
 | **Verdoiement** (Terranu) | +25% rendement laines plante (coton/lin abondant) |
-| **Sommeil de Glace** (Climata) | Demande laines épaisses +50%, fibre creature précieuse |
+| **Sommeil de Glace** (Aquor) | Demande laines épaisses +50%, fibre creature précieuse |
 | **Vents** (Aerion) | Demande voiles +100%, lin marin bonifié |
 | **Brume Mortelle** (Umbra) | Tissus *Pourpres* (variant) |
 | **Échos Brisés** (Tempora) | Tissus Spectraux |

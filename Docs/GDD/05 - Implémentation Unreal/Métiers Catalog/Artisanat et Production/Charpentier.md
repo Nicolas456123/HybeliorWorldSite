@@ -188,7 +188,7 @@ Le **Charpentier** taille, lève, assemble les **grandes pièces de bois structu
 | Ère | Effet sur le Charpentier |
 |-----|---------------------------|
 | **Verdoiement** (Terranu) | Charpentes vivantes possibles (intégration arbres en croissance) ; +20% durabilité bois |
-| **Sommeil de Glace** (Climata) | Bois gelé impossible à travailler ; chantiers d'hiver suspendus |
+| **Sommeil de Glace** (Aquor) | Bois gelé impossible à travailler ; chantiers d'hiver suspendus |
 | **Vents Bouleversants** (Aerion) | Charpentes hautes valorisées, +25% pour toits ailés et mâts élevés |
 | **Échos Brisés** (Tempora) | Assemblages instables : ±10% précision tenon-mortaise |
 | **Ombre Longue** (Noctis) | Bois sombres en demande (charpentes nocturnes) |

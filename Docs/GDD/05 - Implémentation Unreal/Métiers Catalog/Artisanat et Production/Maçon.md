@@ -192,7 +192,7 @@ Le **Maçon** assemble pierres, briques et mortier pour construire **murs porteu
 | Ère | Effet sur le Maçon |
 |-----|---------------------|
 | **Verdoiement** (Terranu) | Mortier végétal possible (intégration mousses, lichens) ; +10% durabilité humide |
-| **Sommeil de Glace** (Climata) | Mortier gèle ; chantiers extérieurs suspendus l'hiver, focus production briques |
+| **Sommeil de Glace** (Aquor) | Mortier gèle ; chantiers extérieurs suspendus l'hiver, focus production briques |
 | **Feu Endormi** (Eldoria) | Briques réfractaires +20% qualité, mortier rouge de cendre |
 | **Échos Brisés** (Tempora) | Voûtes instables : ±10% risque fissure post-pose |
 | **Ombre Longue** (Noctis) | Fortifications en demande (+20% commandes), motifs sombres |
