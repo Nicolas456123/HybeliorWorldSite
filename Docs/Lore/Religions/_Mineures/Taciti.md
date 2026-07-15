@@ -35,6 +35,11 @@ Les Taciti naissent à **Baelor** — île-nation isolationniste — vers ~5 000
 
 Le nom *Taciti* signifie « les Silencieux » en langue ancienne.
 
+> [!warning] « Les Silencieux » — désambiguïsation
+> L'épithète « les Silencieux » est **surchargée** ; au sens strict et religieux, elle ne désigne que les **Taciti de Baelor** décrits ici.
+> - **Ne pas confondre avec les contemplatifs de Foedus Animae (Skaldoria).** L'aile contemplative de [[Foedus Animae]] pratique elle aussi une discipline du silence, et l'on entend parfois l'appeler « les silencieux » de Skaldoria. Ce sont deux groupes distincts, mais **non étrangers** : les Taciti sont la **branche cadette** qui a poussé cette discipline orale jusqu'au mutisme rituel total (cf. § "Origine et lignée" et [[_Histoire des Religions]]). L'épithète partagée est donc le signe d'une **filiation réelle**, pas d'une identité. Un « sanctuaire du silence » à Skaldoria relève des contemplatifs Foedus Animae, **non** d'une implantation Taciti — la seule présence Taciti hors de Baelor est la présence secondaire de **Nysaria**.
+> - **Ne pas confondre avec les surnoms personnels.** « Silencieux » sert aussi de sobriquet à des individus sans lien avec la religion Taciti — ainsi **Iveth le Silencieux**, membre du Cercle des Huit, Lié d'Alkaran de tradition Ildaran (Lien-des-morts) : son épithète tient à son mutisme d'homme. « Silencieux d'Alkaran » ne désigne donc **jamais** une implantation Taciti.
+
 ---
 
 ## Doctrine principale

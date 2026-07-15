@@ -11,7 +11,7 @@ presence_principale: [Caeloria, Haldria, Astravia, Seraphia, Solena]
 
 # ⭐ Ordo Caelum — L'Ordre Céleste
 
-**Entités vénérées :** Celestia *(Éternelle)* · Stellaris *(Cosmique de Phase 4)*
+**Entités vénérées :** Celestia *(Éternelle)* · Stellaris *(Astral)*
 
 ---
 
@@ -21,7 +21,7 @@ presence_principale: [Caeloria, Haldria, Astravia, Seraphia, Solena]
 
 - **Tradition source :** la **Tradition de la Lumière Ancienne** — focalisée sur les corps célestes, les feux primordiaux, l'écriture du ciel.
 - **Position :** courant parallèle issu d'une tradition mère perdue, parfois nommée *Lumière Primordiale* dans les chroniques anciennes. Selon ces chroniques, flamme et constellations étaient initialement vénérées ensemble comme manifestations conjointes d'Eldoria — avant que la voie céleste ne se distingue comme corpus propre.
-- **Schisme historique :** la **Séparation des Étoiles** (~ -1200 du Sillage). La cristallisation s'est faite autour d'une question doctrinale : Celestia est-elle une part d'Eldoria, ou une présence distincte ? Selon la lecture *Caelum*, Celestia se manifeste comme entité autonome — et plus tard Stellaris en émanation cosmique propre. D'autres traditions soutiennent au contraire que la flamme fondatrice demeure le foyer unique, et que ce qui paraît distinct n'est qu'un visage d'Eldoria.
+- **Schisme historique :** la **Séparation des Étoiles** (~ -1200 du Sillage). La cristallisation s'est faite autour d'une question doctrinale : Celestia est-elle une part d'Eldoria, ou une présence distincte ? Selon la lecture *Caelum*, Celestia se manifeste comme entité autonome — et plus tard Stellaris (rang Astral) comme émanation stellaire propre. D'autres traditions soutiennent au contraire que la flamme fondatrice demeure le foyer unique, et que ce qui paraît distinct n'est qu'un visage d'Eldoria.
 - **Religion sœur :** [[Ignis Aeternum]] — courant cousin, né du même schisme, focalisé sur la flamme fondatrice et la forge.
 - **Cohabitation actuelle :** pacifique. Des théologiens des deux camps dialoguent ouvertement sur les périodes de Souffle ; la relation est généralement décrite comme « indifférence neutre » dans les sources Ignis et comme « divergence respectée » dans les sources Caelum.
 
@@ -87,6 +87,18 @@ L'**Accord** (cf. [[L'Accord]]) est interprété comme l'alignement personnel du
 - **Crypte des Astres Tournés** (Celethor) — sépulcres orientés selon des étoiles précises à des dates précises
 - **Archives de l'Ordo Caelum** (Iskara, Alkaran) — biais doctrinal mais richesse documentaire inégalée
 - **Observatoire de Caeloria** (Endora) — siège théologique central en Sillage
+
+---
+
+## L'office du Cardinal-Élu
+
+Au-dessus des neuf degrés Stellari — dont le sommet, le *Premier Lecteur*, dirige une tour-observatoire donnée — plusieurs nations Caelumites coiffent leur clergé national d'une **primatie élective : le Cardinal-Élu**. Ce n'est pas un grade de plus dans l'échelle des tours : c'est une charge de présidence, tenue à vie, **élue** par le collège des plus hauts Stellari du royaume (Conseillers d'Édit et Premiers Lecteurs réunis en conclave) — d'où le titre. Le Cardinal-Élu arbitre les différends entre tours, promulgue les recalibrations doctrinales et représente l'Ordo Caelum devant les pouvoirs civils.
+
+**À Caeloria**, l'office est distinct de la tête de l'État. La nation est une théocratie dirigée par la **Haute-Prêtresse**, qui siège à **Duskoris** (capitale civile) : elle gouverne. Le **Cardinal-Élu**, lui, siège à **Vyntheris** (la cité sainte de l'Ordo Caelum en Caeloria) : il préside le clergé. Les deux charges se distribuent l'autorité — l'une temporelle, l'autre proprement ecclésiale — et il arrive qu'elles divergent, la lecture des Tables ne coïncidant pas toujours avec la raison d'État. Un Caelorien ne confond jamais « aller à Duskoris » (affaire de gouvernement) et « aller à Vyntheris » (affaire d'âme).
+
+> [!note] Homonymies à ne pas confondre
+> - **L'office existe dans plus d'une nation Caelumite.** Outre le Cardinal-Élu de Caeloria (siège de Vyntheris), **Seraphia** possède le sien — tenu, au Sillage actuel, par **Serathis, Cardinal-Élu de Seraphia**. Le titre désigne donc une charge de l'Ordo Caelum, non un poste unique : préciser toujours la nation.
+> - **Le titre clérical « Cardinal-Élu » n'a rien à voir avec les emplois cosmiques du mot *Cardinal*** dans la théologie Caelumite — le *Souffle Cardinal* (grand Souffle) et les *Cardinaux célestes* (grandes pauses / configurations du ciel). Homonymie pure : l'un est un dignitaire mortel, les autres des phénomènes de la Polyphonie.
 
 ---
 

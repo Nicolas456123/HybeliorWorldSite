@@ -69,6 +69,19 @@ Focus sur la mémoire des cycles, le passage du temps, les âmes ancestrales, le
 
 ---
 
+## Les trois temps de la formation
+
+> [!important] Comment lire ensemble l'arbre, les dates, et les origines profondes d'Ère III
+> Deux sources décrivent l'histoire des religions sous deux angles qui semblent concurrents : la [[Era 3b - Religions Verithan et la Chute|chronique d'Ère III]] donne à chaque religion une **origine en temps profond** (théocraties et dominats de l'Âge du Lien, ~4 000 → ~18 000 av.A) ; le présent article donne un **arbre à quatre traditions** avec des schismes datés en Sillage négatif. Il s'agit d'**une seule histoire**, en trois temps :
+>
+> 1. **Les racines profondes** *(temps profond, non datable finement)*. Du Savoir Premier se stabilisent les quatre traditions ancestrales, portées par des cultes diffus. Ce sont elles que la table d'Ère III enregistre sous forme d'« origines » anciennes — non la fondation des religions modernes, mais la **première présence attestée** de leurs souches.
+> 2. **La cristallisation par codification** *(Ère des Trois Royaumes, ~-3 000 du Sillage)*. C'est l'ère où les **conseils religieux se constituent** et où les **textes se fixent** (cf. [[Histoire d'Hybelior]] §"Ère des Trois Royaumes"). Les traditions diffuses deviennent des **religions formalisées** : clergés hiérarchisés, corpus écrits, religions d'État (Ordo Caelum sous Othen-Cael, Ignis Aeternum sous Veshrim, Foedus Animae en contre-courant de Seraïth, etc.). C'est là que naissent les institutions reconnaissables.
+> 3. **Les schismes tardifs** *(dernier millénaire de l'Âge du Lien, ~-1 200 à ~-200 du Sillage)*. Les cinq ruptures ci-dessous achèvent l'arborescence en séparant les branches cadettes de leurs troncs codifiés.
+>
+> **Rappel calendaire décisif :** *An 0 du Sillage = l'Arrachement.* Les dates en **Sillage négatif sont donc antérieures à l'Arrachement** (elles ne se situent **pas** pendant la Grande Nuit). Les cinq schismes se produisent tous **avant** l'An 0 — ce qui est cohérent avec la table d'Ère III, où les neuf religions apparaissent **déjà distinctes** au crépuscule de l'Âge du Lien (~500 av.A).
+
+---
+
 ## Arbre généalogique
 
 ```
@@ -132,7 +145,7 @@ schisme
 ## Les cinq grands schismes documentés
 
 > [!info] Datations
-> Les datations utilisent le **Sillage** (calendrier dominant). Les valeurs sont des estimations issues de chroniques croisées ; aucune n'est gravée dans la pierre.
+> Les datations utilisent le **Sillage** (calendrier dominant). Les valeurs sont des estimations issues de chroniques croisées ; aucune n'est gravée dans la pierre. **An 0 du Sillage = l'Arrachement** : les cinq dates ci-dessous, toutes en Sillage négatif, sont donc **antérieures à l'Arrachement** — elles se répartissent dans le dernier millénaire de l'Âge du Lien, après la codification de l'Ère des Trois Royaumes (~-3 000 S) qui avait déjà cristallisé les grandes traditions en religions formalisées. Ces schismes ne *fondent* pas les religions : ils **achèvent** la séparation de branches déjà anciennes (cf. §"Les trois temps de la formation").
 
 ### 1. La Séparation des Étoiles *(~ -1200 du Sillage)*
 

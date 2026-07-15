@@ -2,8 +2,7 @@
 tags: [lore, ère, religions, verithan, étudiant, refonte-2026-05]
 type: lore
 status: drafted
-last_review: 2026-05-02
-needs_review_for: [scission-religions-V4]
+last_review: 2026-07-15
 ---
 
 # Ère III — Religions, Verithan et la Chute
@@ -53,6 +52,9 @@ Elle dirige une pirogue de commerce inter-iles depuis ses 20 ans. A 40 ans, son 
 
 ### Les Grandes Religions
 
+> [!note] Lecture de la colonne « Origine » — racines profondes et cristallisation
+> Les dates ci-dessous (~4 000 → ~18 000 av.A) ne datent pas la *fondation* des neuf religions telles qu'on les connaît : elles marquent la **première présence attestée** de leurs racines profondes — les théocraties, dominats et confédérations de l'Âge du Lien d'où descendent, par filiation lente, les quatre grandes traditions ancestrales. Ces racines ne **cristallisent** en religions formalisées (conseils constitués, textes fixés, clergés hiérarchisés) qu'à la **codification de l'Ère des Trois Royaumes** (~-3 000 du Sillage, cf. [[Histoire d'Hybelior]] §"Ère des Trois Royaumes"), et les cinq schismes qui achèvent l'arborescence — Séparation des Étoiles, Grand Schisme du Vent, Réforme de la Loi de Pierre, Hérésie de Foedus Animae, Embranchement Somnique — se produisent dans le dernier millénaire avant l'Arrachement (~-1 200 à ~-200 du Sillage, **rappel : An 0 du Sillage = l'Arrachement, donc ces dates lui sont antérieures**). Les neuf sont ainsi toutes distinctes et codifiées **avant** l'Arrachement, ce qui rend cette table cohérente avec les portraits d'Ère III tardive ci-dessous. L'arbre généalogique complet, la filiation des quatre traditions et le détail des schismes sont dans [[_Histoire des Religions]].
+
 **9 grandes religions :**
 
 | Religion | Origine | Entite(s) veneree(s) | Presence principale |
@@ -60,18 +62,18 @@ Elle dirige une pirogue de commerce inter-iles depuis ses 20 ans. A 40 ans, son 
 | **Vael'Kurash** | Theocratie de Celith (~17 500 av.A) | Spiritus · Arborius | Alkaran, Ilthara, Ulinor |
 | **Ignis Aeternum** | Dominat de Pyrevaste (~18 000 av.A) | Eldoria | Cendara, Pyrtara, Myrtam |
 | **Ordo Caelum** | Orivanel (~12 000 av.A) | Celestia | Caeloria, Haldria, Seraphia |
-| **Noctari** | Vytharia / Ilthara (~10 000 av.A) | Noctis | Vytharia, Lunasar, Avalor |
+| **Noctari** | Nysaria (~10 000 av.A) | Noctis | Vytharia, Nysaria, Avalor |
 | **Rota Mundi** | Alkarath (~15 000 av.A) | Tempora · Climata | Sylthara, Ventera, Elarian |
 | **Via Ventus** | Galenor-nord (~8 000 av.A) | Aerion · Navigor | Solena, Tyndara, Lythar |
 | **Lex Petra** | Alkaran (~7 000 av.A) | Terranu · Gravitas · Judicar | Altram, Iskara, Gryndor |
 | **Somnium Vigil** | Vytharia / Ilthara, Baelor (~5 000 av.A) | Somnix | Vytharia, Lumasar, Baelor |
-| **Foedus Animae** | Tribus nomades (~4 000 av.A) | Spiritus (aspect ancestral) | Torkam, Skaldoria, tribus |
+| **Foedus Animae** | Tribus nomades (~4 000 av.A) | Anima · Mentor · Ancestralis *(à l'origine honorés sous l'aspect ancestral de Spiritus, avant la cristallisation de la triade)* | Torkam, Skaldoria, tribus |
 
 **2 religions regionales :**
 
 | Religion | Origine | Entite veneree | Presence principale |
 |----------|---------|----------------|---------------------|
-| **Les Silencieux** *(Taciti)* | Baelor (~5 000 av.A) | Le Silence (rejet du Lien) | Baelor, Vytharia |
+| **Les Silencieux** *(Taciti)* | Baelor (~5 000 av.A) | Le Silence (rejet du Lien) | Baelor, Nysaria |
 | **Cantus Mundi** | Evertia (~6 000 av.A) | Cantor | Thalmaris, Seraphia |
 
 #### Portraits des grandes religions en Ere III tardive (~500 av.A)
@@ -83,7 +85,10 @@ La plus ancienne tradition religieuse du monde, heritiere directe de la Theocrat
 Le culte du feu transformateur, directement issu de la tradition Khatun. Les "Forgeants" croient qu'Eldoria (l'Eternelle de la matiere) se manifeste dans le feu comme instrument de transformation. Tout peut etre purifies, clarifie, eleve par le feu — les metaux, les caracteres, les ames. L'Ignis Aeternum est la religion la plus militarisee : leurs temples sont des forges, leurs pretres des forgerons-Lies, leurs rituels impliquent du metal en fusion. Profondement lies a l'Union des Flammes et au Dominat de Pyrion, l'Ignis Aeternum est la religion officielle de deux des six grands empires.
 
 **Les Silencieux (Taciti) :**
-Mouvement marginal mais philosophiquement important. Les Taciti croient que le Lien est une distorsion du silence naturel du monde — que les Cosmiques et Eternels "parlent trop fort" et empechent les mortels d'entendre la resonance authentique de la realite. Pas de pretres formels, pas de temples. Des communautes rurales qui pratiquent des journees de silence total. Influence sur : le mouvement Catena Fracta (Ere VII), les futurs Silencieux d'Alkaran qui traverseront la Grande Nuit quasi-intacts. Vorath le Tacite (membre du Cercle des Huit) est leur representant le plus connu dans la Grande Histoire.
+Mouvement marginal mais philosophiquement important, propre a l'ile-nation de **Baelor**. Les Taciti croient que le Lien est une distorsion du silence naturel du monde — que les Cosmiques et Eternels "parlent trop fort" et empechent les mortels d'entendre la resonance authentique de la realite. Contrairement a une idee repandue chez leurs voisins, ils ne sont pas sans structure : leur clerge — les **Silentii**, moines qui n'emettent aucun son et ne communiquent que par gestes — vit dans des **cloitres discrets** organises par degres de silence (le Premier Voile, ou l'ecrit reste admis ; le Second Voile, mutisme total), sous l'autorite d'Abbes. Ce qui leur manque, ce ne sont pas les pretres ni les lieux de retraite, mais le faste : ni grands temples publics, ni liturgie sonore, ni hierarchie ostentatoire. Cette discipline monastique est ancienne — la Silentii Hesvar de Tholme est attestee des ~4 600 av.A (cf. [[Taciti]]). Legalement persecutes dans quatre des six empires (leur rejet du Lien passe pour sedition), ils se replient d'autant plus sur leurs cloitres insulaires. Influence sur : le mouvement Catena Fracta (Ere VII) et les **Silencieux de Baelor** qui traverseront la Grande Nuit quasi-intacts. Vorath le Tacite (membre du Cercle des Huit) est leur representant le plus connu dans la Grande Histoire — et sa qualite de « pretre des Silencieux » confirme, dans le recit meme du Cercle, l'existence d'un clerge Taciti structure.
+
+> [!note] « Les Silencieux » — un terme surcharge
+> L'epithete « les Silencieux » ne designe pas un seul groupe. Au sens strict, ce sont les **Taciti de Baelor** (la religion du silence decrite ici). On la rencontre aussi, par filiation, chez les **contemplatifs de Foedus Animae** de Skaldoria — les Taciti sont une branche cadette de cette aile contemplative, ce qui explique l'epithete partagee (cf. [[Taciti]] et [[_Histoire des Religions]]). Enfin, elle sert de **surnom personnel** a des figures isolees sans rapport avec la religion Taciti — ainsi **Iveth le Silencieux**, membre du Cercle des Huit, Lie d'Alkaran de tradition Ildaran (Lien-des-morts), dont l'epithete tient a son mutisme d'homme et non a une appartenance cultuelle. Il ne faut donc pas lire « Silencieux d'Alkaran » comme une implantation Taciti : les Taciti sont de Baelor.
 
 **Les Phenix dans les cultes de l'Age du Lien :**
 Parmi les creatures mythiques venerees dans les cultes animalistes qui prospèrent en marge des grandes religions institutionnelles, les Phenix occupent une place a part — etres de feu et de renaissance, lies a Flamara selon certaines traditions de Cendara et d'Endora, a Eldoria selon d'autres, et a Somnix selon quelques cercles esoterique d'Ilthara qui y voient une metaphore du reve qui renaît de lui-meme. L'Ignis Aeternum reconnait les Phenix comme manifestations vivantes du feu transformateur, sans pour autant leur accorder un statut theologique formel. Leur presence dans l'Age du Lien tardif est documentee par plusieurs academiciens du Saint-Empire d'Endara, qui les classent comme "Lies naturels" — des creatures dont la connexion a la Trame est constitutive de leur physiologie. Leur disparition progressive au cours de l'Ere III reste l'un des grands mysteres non resolus de l'Age du Lien : eteints un par un au fur et a mesure que la Trame se saturait, ou retires dans des regions inaccessibles ? Les theologiens des religions du feu, en Ere V-VI, y voient retrospectivement un premier signe avant-coureur de l'Arrachement — comme si les creatures les plus intimement liees a la Trame avaient senti venir ce que les mortels n'ont pas vu.
@@ -158,7 +163,7 @@ Thyara n'apparait pas dans le Traite du Vide. Elle est mentionnee trois fois dan
 - Meurt a Vorathis, dans sa chambre, entour. des 3 Verithani les plus anciens. Age apparent : 50 ans. Age reel : ~600 ans.
 - Ses derniers mots (tels que transmis par les Verithani) : "Je vous ai dit ce qui arrivera. Mais je n'ai jamais su *quand*. Peut-etre jamais. Peut-etre demain. C'est pourquoi j'ai ecrit — pour que si ca arrive, quelqu'un comprenne pourquoi."
 - Sa tombe : inconnue. Les Verithani l'ont enterre clandestinement pour eviter que sa tombe ne devienne un lieu de pelerinage (et thus, une cible pour les autorites).
-- Sa longevite devient legendaire. Interpretations religieuses contradictoires : pour les Ignis Aeternum, il etait "protege par Eldoria" — bien que des traditions locales des regions volcaniques de Cendara y associent Flamara, un syncretisme courant dans les empires multi-ethniques de l'Age du Lien (le culte de l'Ignis Aeternum venere Eldoria, mais les populations vivant au pied des volcans ont souvent transpose cette protection sur Flamara, Eternelle du feu souterrain) ; pour les Vael'Kurash, il etait "le dernier Porteur-de-Recits" ; pour les Verithani eux-memes, elle reste une question ouverte.
+- Sa longevite devient legendaire. Interpretations religieuses contradictoires : pour les Ignis Aeternum, il etait "protege par Eldoria" — bien que des traditions locales des regions volcaniques de Cendara y associent Flamara, un syncretisme courant dans les empires multi-ethniques de l'Age du Lien (le culte de l'Ignis Aeternum venere Eldoria, mais les populations vivant au pied des volcans ont souvent transpose cette protection sur Flamara, figure cendarienne du feu souterrain — croyance populaire sans rang canonique, jamais comptee parmi les Eternels) ; pour les Vael'Kurash, il etait "le dernier Porteur-de-Recits" ; pour les Verithani eux-memes, elle reste une question ouverte.
 
 ---
 

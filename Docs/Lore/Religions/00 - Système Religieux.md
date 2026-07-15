@@ -1,6 +1,7 @@
 ---
 tags: [religions, lore, cosmologie, croyances]
-last_review: 2026-05-06
+last_review: 2026-07-15
+needs_review_for: [scission-religions-V4]
 cadre_interne_note: "Vue d'ensemble — chaque religion individuelle porte son propre Piège dominant, voir fichiers concernés"
 ---
 
@@ -360,6 +361,9 @@ L'observateur qui aligne ces motifs s'aperçoit qu'il n'a expliqué aucune relig
 ## Schismes documentés
 
 L'arbre généalogique des religions d'Hybelior n'est pas un déploiement linéaire : il est ponctué de **cinq grandes ruptures** historiquement attestées. Chacune éclaire les tensions internes que les onze traditions actuelles continuent de porter.
+
+> [!note] Racines profondes, codification, schismes — une seule histoire
+> Les origines en temps profond que rapporte la [[Era 3b - Religions Verithan et la Chute|chronique d'Ère III]] et l'arbre à quatre traditions ci-dessous **ne se contredisent pas** : ce sont trois temps d'un même récit. Des **racines profondes** (les quatre traditions ancestrales issues du Savoir Premier) **cristallisent** en religions formalisées à la **codification de l'Ère des Trois Royaumes** (~-3 000 du Sillage — conseils constitués, textes fixés), puis les **cinq schismes** ci-dessous (~-1 200 à ~-200 du Sillage) achèvent l'arborescence. Comme **An 0 du Sillage = l'Arrachement**, ces schismes sont tous **antérieurs** à l'Arrachement : les neuf religions sont donc déjà distinctes avant An 0. Le détail est dans [[_Histoire des Religions]] §"Les trois temps de la formation".
 
 | Schisme | Tradition source | Branches issues |
 |---------|------------------|-----------------|
