@@ -179,16 +179,20 @@ Apportée par les peuples migrants des grandes plaines vers l'ouest, la Lex Petr
 
 ---
 
-## La Question des Cosmiques Reclassés
+## La Question des Rangs — reclassements et confirmations
 
 > [!warning] Conflit canonique vs liturgique
-> La décision **D-COSMO-4** (refonte 2026-04-30) a reclassé huit entités du rang **Cosmique** au rang **Céleste** : Anima, Arborius, Aurion, Cantor, Realis, Somnix, Umbra, Umbralis.
+> La décision **D-COSMO-4** (refonte 2026-04-30) avait rétrogradé huit entités du rang **Cosmique** au rang **Céleste**. La décision **D1** (2026-07-15), en alignant la Chronologie sur le roster du GDD ([[Cosmologie]]), tranche l'affaire dans les deux sens :
+> - elle **confirme Cosmiques** trois de ces huit — **Aurion, Somnix, Umbra** — qui figurent parmi les douze du roster : leur rétrogradation ne tient pas ;
+> - elle laisse les cinq autres — **Anima, Arborius, Cantor, Realis, Umbralis** — au rang **Céleste** ;
+> - et elle opère le mouvement **inverse** pour sept voix jadis comptées Cosmiques — **Climata, Gravitas, Vortex, Judicar, Stellaris, Aetheron, Etherius** — qui descendent au rang **Astral**.
 
-In-world, ce reclassement n'est pas un simple ajustement administratif — il a des **résonances doctrinales** :
+In-world, ces mouvements de rang ne sont pas de simples ajustements administratifs — ils ont des **résonances doctrinales** :
 
-- **Foedus Animae** maintient qu'**Anima** est de rang Cosmique. Pour eux, la dégrader serait dégrader l'âme elle-même. Leur liturgie continue d'invoquer Anima comme Cosmique, et ils considèrent les rituels qui l'invoquent comme Céleste comme **diminués**.
-- **Noctari** et **Somnium Vigil** se disputent le statut d'**Umbra** et **Umbralis**. Les Noctari maintiennent l'ancien statut Cosmique ; les Somnium Vigil acceptent la reclassification Céleste, ce qui les place doctrinalement plus proches de la nouvelle orthodoxie.
-- **Vael'Kurash** est divisée sur **Arborius**. Les anciens du Nord (Alkaran) maintiennent l'ancien statut ; les écoles d'Ilthara acceptent la reclassification.
+- **Foedus Animae** maintient qu'**Anima** est de rang Cosmique. Pour eux, la dégrader serait dégrader l'âme elle-même ; leur liturgie continue de l'invoquer comme Cosmique, et tient pour **diminués** les rituels qui l'invoquent comme Céleste. D1 ne leur donne pas raison — mais ne les fait pas taire.
+- **Noctari** et **Somnium Vigil** se disputaient le statut d'**Umbra**. Les Noctari, qui maintenaient l'ancien rang Cosmique, se voient **confirmés par D1** — cas rare où une insistance jugée marginale rejoint l'orthodoxie. Les Somnium Vigil, qui avaient accepté la rétrogradation, doivent au contraire réviser : deux de leurs voix, **Somnix** et **Aurion**, sont rendues Cosmiques, tandis qu'**Umbralis** et **Realis** demeurent Célestes.
+- **Vael'Kurash** reste divisée sur **Arborius** (maintenu Céleste) : les anciens du Nord (Alkaran) tiennent l'ancien rang Cosmique, les écoles d'Ilthara acceptent le rang Céleste.
+- **Lex Petra** et **Rota Mundi** encaissent le mouvement le plus dur : leurs tutélaires **Judicar**, **Gravitas** et **Climata** ne sont pas *débattus* mais *descendus* — de Cosmiques à Astraux. Certaines écoles y lisent une humiliation cosmique, d'autres la preuve que la Loi et le Cycle n'ont jamais eu besoin d'un trône pour tenir.
 
 Ces désaccords ne sont pas anodins — ils alimentent une partie de la politique cosmique entre temples, et certains schismes mineurs en cours pourraient se cristalliser sur cette question dans les Ères à venir.
 

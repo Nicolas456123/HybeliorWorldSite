@@ -11,7 +11,7 @@ presence_principale: [Altram, Iskara, Mosrack, Gryndor, Valoria]
 
 # ⚖️ Lex Petra — La Loi de Pierre
 
-**Entités vénérées :** Terranu *(Cosmique)* · Gravitas *(Cosmique)* · Judicar *(Cosmique)*
+**Entités vénérées :** Terranu *(Cosmique)* · Gravitas *(Astral — reversé par D1)* · Judicar *(Astral — reversé par D1)*
 
 ---
 
@@ -35,7 +35,7 @@ presence_principale: [Altram, Iskara, Mosrack, Gryndor, Valoria]
 
 **Tensions doctrinales actives :**
 - Les **Lames de Pierre Premier** (sept tablettes découvertes à Iskara au Sillage 142) sont revendiquées par Lex Petra comme ses fondements écrits originels. Foedus Animae conteste cette attribution et y lit un texte du Pacte Mémorisé. Aucune lecture concurrente n'a pu être réfutée par les paléographes des deux camps.
-- Le statut de **Judicar** dans la classification cosmique reste sensible : Judicar est l'un des Cosmiques *non* reclassés par D-COSMO-4, mais son **inactivité** depuis l'Âge du Lien (cf. [[Era 1a - Les Cosmiques]]) crée une tension liturgique propre — on continue d'invoquer un arbitre qui ne répond plus, ce qui est interprété diversement selon les écoles.
+- Le statut de **Judicar** reste sensible : reversé au rang **Astral** par la décision D1 (il figurait jadis parmi les Cosmiques), il cumule cette rétrogradation avec son **inactivité** depuis l'Âge du Lien (cf. [[Era 1a - Les Cosmiques]]) — on continue d'invoquer un arbitre qui ne répond plus et dont le rang même a baissé, ce qui est interprété diversement selon les écoles : certaines y lisent une humiliation cosmique, d'autres la preuve que la Loi n'a jamais eu besoin d'un trône pour être la Loi.
 - Les **Petrani du Mouvement** acceptent le Souffle ; le clergé central le rejette comme illusion ou perturbation. Cette dissidence est tolérée mais non reconnue.
 
 ---

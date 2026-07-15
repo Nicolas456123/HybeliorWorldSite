@@ -11,7 +11,7 @@ presence_principale: [Altram, Iskara, Mosrack]
 
 # 🔨 Filii Fornacis — Les Enfants de la Forge
 
-**Entité vénérée :** **Ferros** *(siège Éthéré — forge et métal — cf. [[Cosmologie]] §"Les Célestes")*
+**Entité vénérée :** **Ferros** *(Céleste de la forge et du métal — cf. [[Cosmologie]] §"Les rangs inférieurs")*
 
 ---
 
@@ -39,7 +39,7 @@ Le nom signifie « Enfants de la Forge » en langue d'Alkarath moderne.
 
 Ferros (Céleste) est le **vrai créateur** du monde — pas les Éternels. Les Éternels sont des forces brutes, mais ce qui *façonne* le monde, c'est le travail du métal sur la matière brute. Le forgeron est l'image du dieu créateur.
 
-**Selon d'autres traditions :** les théologiens d'Ignis Aeternum rappellent que Ferros n'est qu'un **siège Éthéré** — domaine spécifique de la forge — et non un créateur cosmique remplaçant les Éternels. Pour les Lex Petra, la métaphore du forgeron est juste mais incomplète : ce qui façonne le monde n'est pas le marteau seul, c'est la **loi inscrite dans la pierre**. Les Filii rejettent ces lectures comme des relectures jalouses.
+**Selon d'autres traditions :** les théologiens d'Ignis Aeternum rappellent que Ferros n'est qu'un **Céleste** — une entité au domaine étroit, la forge — et non un créateur cosmique remplaçant les Éternels. Pour les Lex Petra, la métaphore du forgeron est juste mais incomplète : ce qui façonne le monde n'est pas le marteau seul, c'est la **loi inscrite dans la pierre**. Les Filii rejettent ces lectures comme des relectures jalouses.
 
 **Pratiques :**
 - Forge sacrée — toute pièce signée par un Filii porte une marque secrète

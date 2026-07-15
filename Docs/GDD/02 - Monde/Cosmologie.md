@@ -27,7 +27,7 @@ Cette intuition change tout. Dans un monde polyphonique, **rien n'est jamais pur
 
 > *« Demande à un fou : "qui est dieu ?" Il te répondra. Demande à un sage : "qui parle, en ce moment, dans le ciel ?" Il écoutera d'abord, et te répondra peut-être. »*
 >
-> *— proverbe attribué aux Silencieux du sanctuaire de Taciti, Skaldoria*
+> *— proverbe attribué aux Silencieux de Skaldoria (contemplatifs du Foedus Animae)*
 
 ---
 

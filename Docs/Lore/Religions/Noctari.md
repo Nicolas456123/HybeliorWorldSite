@@ -11,7 +11,7 @@ presence_principale: [Vytharia, Nysaria, Avalor]
 
 # 🌑 Noctari — Le Voile des Ombres
 
-**Entités vénérées :** Noctis *(Éternel)* · Umbra *(Céleste)* · Umbralis *(Céleste)*
+**Entités vénérées :** Noctis *(Éternel)* · Umbra *(Cosmique — confirmé par D1)* · Umbralis *(Céleste)*
 
 ---
 

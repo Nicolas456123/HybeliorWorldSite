@@ -11,7 +11,7 @@ presence_principale: [Sylthara, Ventera, Elarian, Evertia]
 
 # ⏳ Rota Mundi — Le Cycle Éternel
 
-**Entités vénérées :** Tempora *(Éternel)* · Climata *(Cosmique)* · Fatum *(Cosmique)*
+**Entités vénérées :** Tempora *(Éternel)* · Climata *(Astral — reversée par D1)* · Fatum *(Cosmique)*
 
 ---
 

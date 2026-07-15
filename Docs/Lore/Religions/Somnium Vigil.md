@@ -11,7 +11,7 @@ presence_principale: [Vytharia, Lumasar, Baelor, Thalmaris, Astravia]
 
 # 🌙 Somnium Vigil — Le Rêve Éveillé
 
-**Entités vénérées :** Somnix *(Céleste depuis D-COSMO-4 ; auparavant classé Cosmique dans le Lore antérieur)* · Realis *(Céleste)* · Aurion *(Céleste)*
+**Entités vénérées :** Somnix *(Cosmique — confirmé par le roster GDD, décision D1)* · Realis *(Céleste)* · Aurion *(Cosmique — confirmé par D1)*
 
 ---
 
