@@ -1,7 +1,7 @@
 ---
 tags: [religions, lore, cosmologie, croyances]
 last_review: 2026-07-15
-needs_review_for: [scission-religions-V4]
+needs_review_for: []
 cadre_interne_note: "Vue d'ensemble — chaque religion individuelle porte son propre Piège dominant, voir fichiers concernés"
 ---
 
