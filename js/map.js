@@ -2274,8 +2274,8 @@ function initMap() {
         const spacingWidth = Math.max(0, text.length - 1) * letterSpacing;
         leftExtent += spacingWidth / 2;
         rightExtent += spacingWidth / 2;
-        const width = Math.max(leftExtent + rightExtent + (paddingX * 2), fontSize);
-        const height = Math.max(ascent + descent + (paddingY * 2), fontSize);
+        const width = Math.max(leftExtent + rightExtent + (paddingX * 2), fontSize * 0.5);
+        const height = Math.max(ascent + descent + (paddingY * 2), fontSize * 0.5);
         return {
             xOffset: -leftExtent - paddingX,
             yOffset: -ascent - paddingY,
@@ -2286,37 +2286,20 @@ function initMap() {
 
     function updateHitboxGeometry(rect, text, centerX, centerY, fontSize, fontWeight, letterSpacing) {
         const renderScale = parseFloat(text.dataset.textScale || '1');
-        let hitX;
-        let hitY;
-        let hitWidth;
-        let hitHeight;
-
-        try {
-            const bbox = text.getBBox();
-            const paddingX = fontSize * renderScale * 0.18;
-            const paddingY = fontSize * renderScale * 0.14;
-            if (!Number.isFinite(bbox.width) || !Number.isFinite(bbox.height) || bbox.width <= 0 || bbox.height <= 0) {
-                throw new Error('Invalid SVG text bounds');
-            }
-            hitX = (bbox.x - paddingX) / renderScale;
-            hitY = (bbox.y - paddingY) / renderScale;
-            hitWidth = (bbox.width + (paddingX * 2)) / renderScale;
-            hitHeight = (bbox.height + (paddingY * 2)) / renderScale;
-            rect.dataset.measurement = 'svg';
-        } catch {
-            const bounds = measureLabelHitbox(
-                text.textContent,
-                fontSize,
-                fontWeight,
-                letterSpacing,
-                text.getAttribute('font-style') || 'normal'
-            );
-            hitX = centerX + bounds.xOffset;
-            hitY = centerY + bounds.yOffset;
-            hitWidth = bounds.width;
-            hitHeight = bounds.height;
-            rect.dataset.measurement = 'canvas';
-        }
+        // Les limites d'encre Canvas restent stables pendant le zoom et excluent
+        // les grandes marges invisibles que Chrome ajoute au getBBox() SVG.
+        const bounds = measureLabelHitbox(
+            text.textContent,
+            fontSize,
+            fontWeight,
+            letterSpacing,
+            text.getAttribute('font-style') || 'normal'
+        );
+        const hitX = centerX + bounds.xOffset;
+        const hitY = centerY + bounds.yOffset;
+        const hitWidth = bounds.width;
+        const hitHeight = bounds.height;
+        rect.dataset.measurement = 'canvas-ink';
 
         rect.setAttribute('x', hitX * renderScale);
         rect.setAttribute('y', hitY * renderScale);
@@ -2960,7 +2943,6 @@ function initMap() {
                         const mState = (state === 'none' || !markersVisible) ? 'none' : state;
                         element.markers.forEach(m => m.style.display = mState);
                     }
-                    if (state !== 'none') refreshElementHitboxes(element);
                 };
 
                 // Masquer les entités cachées par le filtre temporel
