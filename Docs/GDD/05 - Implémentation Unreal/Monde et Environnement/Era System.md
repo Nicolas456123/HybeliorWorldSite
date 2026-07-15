@@ -22,7 +22,7 @@ Toute Ère est définie par un **EraConfig** — un objet sérialisable diffusé
 
 | Dimension | Type | Valeurs possibles | Effet runtime |
 |---|---|---|---|
-| **1. Force dominante** | enum | 5 Éternels + 12 Cosmiques + 3 Célestes principaux (~20 entrées) | Voie amplifiée, thème principal, biais quêtes IA |
+| **1. Force dominante** | enum | 5 Éternels + 12 Cosmiques + 3 Célestes/Astraux principaux (~20 entrées) | Voie amplifiée, thème principal, biais quêtes IA |
 | **2. Force secondaire** | enum | mêmes 20 entrées (≠ dominante) | Voie semi-amplifiée, dynamique narrative |
 | **3. État du monde** | enum | `Floraison` · `Dégénérescence` · `Stagnation` · `Bouleversement` | Modifie densité foliage, comportement faune, prospérité PNJ |
 | **4. Mood social** | enum | `Sérénité` · `Méfiance` · `Ferveur` · `Effroi` · `Curiosité` | Bias dialogues PNJ, factions, pondération types de quêtes |
