@@ -28,12 +28,12 @@ needs_review_for: []
 - Composition : sept Maîtres, un par Forge-Temple. Mandats viagers ; succession par cooptation interne au Forge-Temple concerné, ratifiée par le Conseil.
 - Domaines de délibération :
   - **Doctrine** : interprétation des Forge-Liturgies, validation des nouvelles formules rituelles, réponses aux Vigilants des cratères.
-  - **Ordination** : tout Ignitari de la Cendara entière reçoit son Sceau du Conseil — levier diplomatique sur les Forge-Temples cendariens-royaume et arkheniennes.
+  - **Ordination** : tout Ignitari de la Cendara entière reçoit son Sceau du Conseil — levier diplomatique sur les Forge-Temples brumariens et arkheniennes.
   - **Discipline** : excommunications (rares), interdictions de forge (plus fréquentes), démissions imposées (presque jamais — voir Tessar).
   - **Diplomatie religieuse** : relations avec les autres traditions d'Hybelior (Ordo Caelum, [[Vael'Kurash]], Foedus Animae), généralement courtoises, parfois tendues (Caeloria de l'Ordo, Catena Fracta minoritaire).
 - Le Conseil ne légifère pas dans le domaine civil.
 - Singularité : Pyrevane n'a pas de gouvernement civil distinct — fait unique parmi les théocraties d'Hybelior. Questions civiles gérées au niveau des **Forges-Quartiers** (échelon paroissial), des **Maîtrises** (corporations de métiers liées à chaque Forge-Temple) et des **Conseils de Caldera** (assemblées locales).
-- Cette architecture polycentrique fonctionne grâce à une population petite (~30 000 hab. de Sceau et de forge, hors ruraux dispersés des calderas) et culturellement homogène ; elle ne fonctionnerait pas à Cendara-Royaume. C'est l'une des raisons pour lesquelles Pyrevane n'a pas absorbé Cendara (incapacité à gouverner un peuple non entièrement Ignitari).
+- Cette architecture polycentrique fonctionne grâce à une population petite (~30 000 hab. de Sceau et de forge, hors ruraux dispersés des calderas) et culturellement homogène ; elle ne fonctionnerait pas à Brumaria. C'est l'une des raisons pour lesquelles Pyrevane n'a pas absorbé Cendara (incapacité à gouverner un peuple non entièrement Ignitari).
 
 ### Le Maître de Pyrevane-Mère (primus inter pares)
 
@@ -57,7 +57,7 @@ needs_review_for: []
 - Corporations régissant les forgerons civils ; chaque Maîtrise est attachée à l'une des Sept Forge-Temples.
 - Fonctions : délivrance des Sceaux d'apprentissage, organisation des Épreuves du Feu, gestion des *dettes de cendre* locales.
 - Maîtres de Maîtrise élus par leurs pairs forgerons ; autorité civile et liturgique en leur ressort.
-- À Pyrevane, la Maîtrise est plus puissante que partout ailleurs en Cendara : un Maître de Maîtrise pyrevanien dialogue d'égal à égal avec un gouverneur royal de Cendara-Royaume.
+- À Pyrevane, la Maîtrise est plus puissante que partout ailleurs en Cendara : un Maître de Maîtrise pyrevanien dialogue d'égal à égal avec un gouverneur royal de Brumaria.
 
 ---
 
@@ -67,7 +67,7 @@ needs_review_for: []
 
 Religion principale : Ignis Aeternum (autorité doctrinale continentale). Cf. fiche [[Religions/Ignis Aeternum|Ignis Aeternum]] pour la doctrine complète. Traits propres à Pyrevane :
 
-- **Forge-Liturgies maximalistes** : chaque acte de forge est entouré de formules, aucun coup de marteau n'est neutre. Saturation rituelle distinguant un Ignitari pyrevanien d'un Ignitari cendarien-royaume (rite plus relâché, pragmatique, mêlé de superstition populaire).
+- **Forge-Liturgies maximalistes** : chaque acte de forge est entouré de formules, aucun coup de marteau n'est neutre. Saturation rituelle distinguant un Ignitari pyrevanien d'un Ignitari brumarien (rite plus relâché, pragmatique, mêlé de superstition populaire).
 - **Veillées Lunaires fastueuses** : les sept Forge-Temples allument simultanément à chaque pleine lune. Les sept lueurs sont visibles la nuit depuis Aïkhar (Arkhen), à plus de soixante lieues — signal d'autorité continentale.
 - **Voix sous les Cendres** : gardienne de la pulsation (fonction rare, prestigieuse, dangereuse).
 - **Conseil des Sept Feux** : autorité doctrinale.
@@ -110,7 +110,7 @@ Religion principale : Ignis Aeternum (autorité doctrinale continentale). Cf. fi
 ### L'apprentissage comme pivot social
 
 - Avoir un Sceau est le critère de pleine reconnaissance sociale.
-- **Épreuve du Feu** (rite d'initiation) : l'apprenti tient sa main au-dessus d'une flamme rituelle jusqu'au signal du Maître. Plus dure qu'à Cendara-Royaume (durées plus longues, Maîtres plus exigeants, brûlures sérieuses plus fréquentes).
+- **Épreuve du Feu** (rite d'initiation) : l'apprenti tient sa main au-dessus d'une flamme rituelle jusqu'au signal du Maître. Plus dure qu'à Brumaria (durées plus longues, Maîtres plus exigeants, brûlures sérieuses plus fréquentes).
 - Apprenti retirant la main avant le signal : renvoyé ; seconde tentative possible l'année suivante ; troisième échec = statut définitif de Sans-Forge.
 - Taux d'échec à la première Épreuve : environ un sur cinq.
 - Les enfants vivent dès cinq ou six ans sous la perspective de l'épreuve ; beaucoup se brûlent volontairement à la maison pour s'habituer.
@@ -120,8 +120,8 @@ Religion principale : Ignis Aeternum (autorité doctrinale continentale). Cf. fi
 
 - **Exactitude liturgique** : la précision rituelle est la garantie de l'existence sociale (équivalent à la précision juridique à Kharazir). Une Forge-Liturgie correctement récitée = une vie en règle, indépendamment de la pauvreté, des brûlures ou de la maladie. Frapper trois coups au lieu de quatre dans un rite vaut une mise à l'écart sociale.
 - **Économie de la parole** : les Pyrevaniens parlent peu, par culture. Silence attendu pendant le travail ; conversations en fin de journée autour d'une **braise partagée** (chaque famille reçoit à tour de rôle les forgerons voisins autour d'une flamme couvée). Un étranger posant plus de trois questions par heure passe pour bavard.
-- **Méfiance envers les Cendariens-Royaume** : réciproque de la méfiance de ceux-ci contre Arkhen. Les Cendariens-Royaume sont jugés Ignitari paresseux (prient sans frapper, frappent sans liturgie, confondent richesse matérielle et fidélité). La cour de Brumaris est qualifiée de *« Forge-Temple sans cuve »*.
-- **Dette doctrinale tacite** : conviction non dite publiquement d'être les plus anciens. S'exprime par la posture, la lenteur des saluts, le délai (quinze minutes) avant qu'un Maître pyrevanien reçoive un envoyé royal cendarien.
+- **Méfiance envers les Brumariens** : réciproque de la méfiance de ceux-ci contre Arkhen. Les Brumariens sont jugés Ignitari paresseux (prient sans frapper, frappent sans liturgie, confondent richesse matérielle et fidélité). La cour de Brumaris est qualifiée de *« Forge-Temple sans cuve »*.
+- **Dette doctrinale tacite** : conviction non dite publiquement d'être les plus anciens. S'exprime par la posture, la lenteur des saluts, le délai (quinze minutes) avant qu'un Maître pyrevanien reçoive un envoyé royal brumarien.
 - **La cendre froide qu'on balaye** : aucun Pyrevanien orthodoxe n'admet l'existence des Délies ; tous ont vu une poignée de cendre froide déposée (seuil d'une Forge-Temple, pierre de Tessar, pieds d'un balayeur) ; tous balayent et se taisent. Ce geste collectif (voir, balayer, taire) maintient l'orthodoxie en surface et la dissidence en profondeur : c'est la **Schismature** dans sa forme quotidienne.
 - **Rareté des Phénix** : un Phénix d'Ilnara traverse très rarement le Détroit de Suie pour survoler Pyrevane (un cas tous les dix à quinze ans). Les Forge-Temples tiennent un *registre des passages* depuis l'an Sillage 70. Dernier passage : an 240. Aucun Pyrevanien vivant n'en a vu depuis quinze ans. Le Conseil des Sept Feux ne tient aucun discours sur cette absence.
 
@@ -142,7 +142,7 @@ Forge-Temple secondaire ; spécialité : marteaux. Petite caldera, accès diffic
 Forge-Temple secondaire ; spécialité : sceaux d'apprentissage. Lieu de fabrication de tous les Sceaux ignitariens reçus par les apprentis de la Cendara entière ; quasi-monopole sur l'ordination cléricale continentale. Le Maître de Caldethor est l'un des deux ou trois pôles d'opposition au Maître de Pyrevane-Mère ; les votes du Conseil opposent souvent les deux calderas sur des questions de procédure.
 
 ### Verre-Fondu (caldera sud-ouest)
-Forge-Temple secondaire ; spécialité : verre cérémoniel (vases, lentilles, instruments alchimiques liturgiques). Caldera moins active, alimentée par une veine de magma plus profonde. Travaille de l'obsidienne issue directement du Mont, non de Diamora — l'obsidienne diamoréenne, lavée par la mer, étant jugée doctrinalement *« moins pure »*. Seuls Pyrevaniens à entretenir une relation commerciale stable avec Cendara-Royaume (vente de verres aux temples royaux).
+Forge-Temple secondaire ; spécialité : verre cérémoniel (vases, lentilles, instruments alchimiques liturgiques). Caldera moins active, alimentée par une veine de magma plus profonde. Travaille de l'obsidienne issue directement du Mont, non de Diamora — l'obsidienne diamoréenne, lavée par la mer, étant jugée doctrinalement *« moins pure »*. Seuls Pyrevaniens à entretenir une relation commerciale stable avec Brumaria (vente de verres aux temples royaux).
 
 ### Ashenor (caldera sud)
 Forge-Temple secondaire ; spécialité : cendres-amendes (amendement des champs sacrés, purification, matière des marques d'apprenti). Forge-Temple la plus pauvre et la plus humble des sept. Point de transit fréquent des Délies de la Flamme (cendre abondante, Maître peu attaché à la chasse des marques) : point de fuite naturel vers Arkhen via le Détroit de Suie.
@@ -151,7 +151,7 @@ Forge-Temple secondaire ; spécialité : cendres-amendes (amendement des champs 
 Forge-Temple secondaire ; spécialité : outils funèbres (bûchers cérémoniels, urnes de cendre, lanternes de mort). Forge-Temple le plus rigoriste ; son Maître a proposé en 121 de démettre Tessar Veynd. Point de départ des enquêtes les plus fréquentes contre les Délies. Résidence de la Voix active **Veynara**, Cinderholdienne, descente de neuf jours, orthodoxe (pas de sermon comparable à celui de Tessar).
 
 ### Plateaux Utophora-Ouest
-Région minière partagée administrativement avec Cendara-Royaume. Pyrevane y exploite des veines spécifiques (fer noir, soufre cristallin, pierre verte) sans contrôler les villes (royales). **Interpénétration minière** : principale source d'irritation diplomatique entre les deux nations. Aucune frontière claire entre les zones d'extraction ; disputes arbitrées au cas par cas, jamais résolues structurellement.
+Région minière partagée administrativement avec Brumaria. Pyrevane y exploite des veines spécifiques (fer noir, soufre cristallin, pierre verte) sans contrôler les villes (royales). **Interpénétration minière** : principale source d'irritation diplomatique entre les deux nations. Aucune frontière claire entre les zones d'extraction ; disputes arbitrées au cas par cas, jamais résolues structurellement.
 
 ### Le Détroit de Suie (côté pyrevanien)
 Côte nord-ouest battue par les vents. Port unique : **Suie-Haute** (cf. *Villes et villages*). Transit de l'essentiel de la diplomatie religieuse avec Arkhen, lorsqu'elle a lieu.
@@ -191,7 +191,7 @@ Côte nord-ouest battue par les vents. Port unique : **Suie-Haute** (cf. *Villes
 - Particularités : Forge-Temple de Verre-Fondu, Halle des Lentilles, ateliers d'obsidienne pyrevanienne.
 
 ### Ashenor — Village
-- Descripteur : village pauvre et humble au pied d'une caldera basse, vivant dans une fine couche de cendre permanente ; produit les cendres-amendes de tous les rites pyrevaniens et d'une bonne moitié des Forge-Temples cendariennes-royaume. Nom issu d'un mot ancien signifiant *« là où la cendre s'accumule »*. Longtemps suspecté d'abriter des Délies (plusieurs enquêtes de Cinderhold, sans sanctions massives).
+- Descripteur : village pauvre et humble au pied d'une caldera basse, vivant dans une fine couche de cendre permanente ; produit les cendres-amendes de tous les rites pyrevaniens et d'une bonne moitié des Forge-Temples brumariennes. Nom issu d'un mot ancien signifiant *« là où la cendre s'accumule »*. Longtemps suspecté d'abriter des Délies (plusieurs enquêtes de Cinderhold, sans sanctions massives).
 - Population : Village (environ 1 200)
 - Région : Ashenor (caldera sud)
 - Particularités : Forge-Temple d'Ashenor, point de fuite tacite vers Arkhen, copie partielle du *Discours de la Cendre Patiente* dans le tablier d'un forgeron sans appartenance.
@@ -203,7 +203,7 @@ Côte nord-ouest battue par les vents. Port unique : **Suie-Haute** (cf. *Villes
 - Particularités : Forge-Temple de Cinderhold, Halle des Bûchers, résidence officielle de la Voix Veynara.
 
 ### Suie-Haute — Ville portuaire
-- Descripteur : unique port pyrevanien (côte nord-ouest), battu par les vents salés et la brume sulfureuse du Détroit de Suie ; point de départ des rares pèlerinages vers Arkhen et Ilnara. Construit à partir de l'an Sillage 180 sur décision du Conseil des Sept Feux pour ne plus dépendre de Diamoris (cendarien-royaume) ; port creusé en vingt ans à la pioche dans le basalte. Chantiers navals produisant une variante simplifiée des navires à double coque thyronisiens.
+- Descripteur : unique port pyrevanien (côte nord-ouest), battu par les vents salés et la brume sulfureuse du Détroit de Suie ; point de départ des rares pèlerinages vers Arkhen et Ilnara. Construit à partir de l'an Sillage 180 sur décision du Conseil des Sept Feux pour ne plus dépendre de Diamoris (brumarien) ; port creusé en vingt ans à la pioche dans le basalte. Chantiers navals produisant une variante simplifiée des navires à double coque thyronisiens.
 - Population : Ville (environ 1 800)
 - Région : Pyrevane-Mère (côte nord-ouest)
 - Particularités : Port maritime, chantiers navals, Maison du Médiateur Maritime pyrevanien pour Arkhen (poste vacant six mois sur douze).
@@ -224,7 +224,7 @@ Côte nord-ouest battue par les vents. Port unique : **Suie-Haute** (cf. *Villes
 - Région : Vorrask (pente externe)
 
 ### Kerthos — Village
-- Descripteur : village minier de la frontière utophorienne, exploitation de fer noir ; population mixte (pyrevaniens et cendariens-royaume), source de litiges fiscaux récurrents. A changé de souveraineté quatre fois en deux siècles (arbitrages du Conseil des Sept Feux et de la Cour de Brumaris) ; dernière décision en l'an 232 en faveur de Pyrevane, mais Cendara-Royaume y prélève toujours des taxes informelles via les Flammarques.
+- Descripteur : village minier de la frontière utophorienne, exploitation de fer noir ; population mixte (pyrevaniens et brumariens), source de litiges fiscaux récurrents. A changé de souveraineté quatre fois en deux siècles (arbitrages du Conseil des Sept Feux et de la Cour de Brumaris) ; dernière décision en l'an 232 en faveur de Pyrevane, mais Brumaria y prélève toujours des taxes informelles via les Flammarques.
 - Population : Village (environ 800)
 - Région : Plateaux Utophora-Ouest
 
@@ -234,7 +234,7 @@ Côte nord-ouest battue par les vents. Port unique : **Suie-Haute** (cf. *Villes
 
 | Pays | Relation | Détails |
 |------|----------|---------|
-| **Cendara-Royaume** | Cousine concurrente | Pyrevane officie, Cendara règne. Tension permanente, jamais affrontée. Pyrevane exporte les Sceaux vers les Forge-Temples royales ; Cendara dépend de Pyrevane pour l'ordination ; ni l'une ni l'autre ne peut rompre. |
+| **Brumaria** | Cousine concurrente | Pyrevane officie, Brumaria règne. Tension permanente, jamais affrontée. Pyrevane exporte les Sceaux vers les Forge-Temples royales ; Brumaria dépend de Pyrevane pour l'ordination ; ni l'une ni l'autre ne peut rompre. |
 | **Arkhen** | Indifférence officielle, persécution sélective des Délies | Officiellement, Arkhen est une province périphérique. Pratiquement, elle est le réservoir de la dissidence ignitarienne. Pyrevane y envoie de loin en loin des inspecteurs qui ne trouvent jamais rien. |
 | **Pyrtara** | Fraternité doctrinale | Les Pyrtariens partagent l'Ignis Aeternum dans sa version martiale. Échanges de Sceaux et d'Ignitari réguliers. Une certaine condescendance pyrevanienne — Pyrtara est jugée *trop militaire*, peu portée sur la liturgie pure. |
 | **Myrtam** | Alliance de forge | Les forgerons de Myrtam reconnaissent l'autorité technique pyrevanienne. Échanges de techniques, de minerais, d'apprentis. |

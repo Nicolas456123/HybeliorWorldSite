@@ -120,7 +120,7 @@ Le rite Foedus s'éteindra avec Karel. Sorin ne le saura pas. Personne ne le rac
 
 ## Khalath — « Le Médiateur qui Buvait »
 
-**Drevan Karlith** est Médiateur Maritime cendarien-royaume à Khalath depuis dix-huit ans. C'est la plus longue durée jamais enregistrée pour ce poste — la plupart des Médiateurs partent au bout de trois ou quatre ans, accablés par la brume, l'isolement, et la politesse glaciale des Arkheniens. Drevan tient.
+**Drevan Karlith** est Médiateur Maritime brumarien à Khalath depuis dix-huit ans. C'est la plus longue durée jamais enregistrée pour ce poste — la plupart des Médiateurs partent au bout de trois ou quatre ans, accablés par la brume, l'isolement, et la politesse glaciale des Arkheniens. Drevan tient.
 
 Il tient parce qu'il boit. Pas violemment — sobrement, méthodiquement, du soir au matin. Le vin noir de Solarith, qu'il fait expédier par caboteurs depuis Diamoris à raison de douze barils par an. La quantité a augmenté chaque année. Il en est, en l'an 253, à dix-huit barils — soit environ un demi-tonneau par mois, un peu plus de deux verres par jour. Sa résidence officielle, dans la rue haute de Khalath, est connue par les habitants comme *« la maison qui sent »*.
 
@@ -128,7 +128,7 @@ Drevan n'a aucune fonction utile. Ses rapports annuels à Brumaris sont écrits 
 
 Pourquoi Drevan ne dit rien : parce qu'il sait que dire entraînerait un travail. Si Brumaris apprenait l'étendue de la pratique délienne à Khalath, il faudrait enquêter, sanctionner, arrêter. Drevan devrait coordonner avec Cinderhold. Il aurait des choses à faire. Il préfère le vin.
 
-Mais il n'est pas idiot. Et il est, à sa manière paresseuse, profondément cendarien-royaume — il aime sa nation, il aime la doctrine du Réveil, il aime le Mont. Quand il pense à ce qu'il pourrait dire et qu'il ne dit pas, il a, parfois, un pincement.
+Mais il n'est pas idiot. Et il est, à sa manière paresseuse, profondément brumarien — il aime sa nation, il aime la doctrine du Réveil, il aime le Mont. Quand il pense à ce qu'il pourrait dire et qu'il ne dit pas, il a, parfois, un pincement.
 
 Une nuit de l'hiver 252, Drevan est descendu à l'auberge — *Le Toit de Suie*, qui reste ouverte tard. Il a bu deux verres de vin local (pas son vin de Solarith — du vin de Khalath, plus rude). Il a vu, au fond de la salle, quatre forgerons arkheniens en conversation basse. L'un d'eux portait, visible sous la manche relevée, la marque de cendre froide au pli du coude.
 
@@ -240,7 +240,7 @@ C'est la mode arkhenienne d'archiver : sans projet, sans gloire, sans exhaustivi
 
 ## Lorenthia (Ilnara) — « Les Ailes de Cendre »
 
-(*Ilnara est juridiquement arkhenienne. Le Temple des Flammes Éternelles relève de la nation par le droit, pas par la pratique. Cette histoire complète celle racontée dans la fiche Cendara-Royaume sous le titre « Le Prêtre des Deux Feux ».*)
+(*Ilnara est juridiquement arkhenienne. Le Temple des Flammes Éternelles relève de la nation par le droit, pas par la pratique. Cette histoire complète celle racontée dans la fiche Brumaria sous le titre « Le Prêtre des Deux Feux ».*)
 
 Le **prêtre Ashael**, gardien syncrétique du Temple des Flammes Éternelles depuis quarante-trois ans, regarde mourir les Phénix de Feu.
 

@@ -74,7 +74,7 @@ Une **Faction** est une organisation prédéfinie par le lore (NPC-driven), avec
 | `Faction.Pol.Astravia` | Astravia | Celethor | Empire stellaire | Allié Ordo Caelum |
 | `Faction.Pol.Ryldor` | Ryldor | Celethor | Royaume forestier | Neutre |
 | `Faction.Pol.Elarian` | Elarian | Celethor | Magocratie | Neutre |
-| `Faction.Pol.Cendara` | Cendara | Cendara | Théocratie funéraire | Allié Vael'Kurash |
+| `Faction.Pol.Brumaria` | Brumaria | Cendara | Monarchie ésotérique | Allié Ignis Aeternum |
 | `Faction.Pol.Pyrevane` | Pyrevane | Cendara | Royaume volcanique | Allié Ignis Aeternum |
 | `Faction.Pol.Arkhen` | Arkhen | Cendara | Royaume frontière | Neutre |
 | `Faction.Pol.Noravia` | Noravia | Cestra | Royaume des neiges | Hostile Noctari |
@@ -439,7 +439,7 @@ Les **factions politiques** sont enracinées dans des continents — voir [[Cont
 | Azoria | Caeloria, Azoral, Solmaris, Kethvar | Somnium Vigil |
 | Baelor | Baelor (unique) | (syncrétisme isolé) |
 | Celethor | Astravia, Ryldor, Elarian, Nysaria (île) | Ordo Caelum (Astravia), Aqua Nigra (île de Nysaria) |
-| Cendara | Cendara, Pyrevane, Arkhen | Vael'Kurash, Ignis Aeternum |
+| Cendara | Brumaria, Pyrevane, Arkhen | Vael'Kurash, Ignis Aeternum |
 | Cestra | Noravia | Noctari (clandestin) |
 | Endora | Avalor, Haldria, Sanvara | Rota Mundi |
 | Evertia | Evertia, Sylvara, Thalmaris | Cantus Mundi, Rota Mundi |

@@ -50,7 +50,7 @@ Au large, plus loin encore, **Ilnara** — petite île tropicale recouverte de f
 
 L'archipel se partage entre trois nations qui se ressemblent assez pour partager un panthéon, et diffèrent assez pour ne jamais s'entendre tout à fait sur ce qu'il signifie.
 
-**Cendara-Royaume**, au sud-est, est la plus peuplée, la plus prospère, la plus *pieuse* — au sens où elle attend le plus férocement le **Réveil** annoncé. Monarchie ésotérique, foyer du **Cœur de Cendra** — pierre brûlante dont les parois fondent et qui *pulse* à l'unisson du Mont —, elle est gouvernée par un roi-pyromancien dont la légitimité tient autant à son sang qu'à sa capacité à *lire* les humeurs du volcan. Les **Forgerons du Feu** y sont une caste autant qu'un métier ; leurs armes, imprégnées de la chaleur même du Mont, sont les plus convoitées d'Hybelior.
+**Brumaria**, au sud-est, est la plus peuplée, la plus prospère, la plus *pieuse* — au sens où elle attend le plus férocement le **Réveil** annoncé. Monarchie ésotérique, foyer du **Cœur de Cendra** — pierre brûlante dont les parois fondent et qui *pulse* à l'unisson du Mont —, elle est gouvernée par un roi-pyromancien dont la légitimité tient autant à son sang qu'à sa capacité à *lire* les humeurs du volcan. Les **Forgerons du Feu** y sont une caste autant qu'un métier ; leurs armes, imprégnées de la chaleur même du Mont, sont les plus convoitées d'Hybelior.
 
 **Pyrevane**, à l'ouest, est l'inverse en miroir. Pas de roi : un **Conseil des Sept Feux** qui délibère pour l'ensemble de la Cendara en matière religieuse — autorité que la cour royale tolère avec une crispation héritée. Pyrevane n'attend pas le Réveil ; elle l'**entretient**. Elle frappe le métal, récite les Forge-Liturgies, ordonne les prêtres. Si Cendara *règne*, Pyrevane *officie*. Sa rigueur a une noblesse — celle de qui ne demande pas pourquoi, mais comment bien faire. À force de bien frapper, on cesse de se demander pourquoi on frappe.
 
@@ -60,7 +60,7 @@ L'archipel se partage entre trois nations qui se ressemblent assez pour partager
 >
 > *— sermon non copié, attribué à un Vigilant de la Voix*
 
-Cette diversité façonne les corps. Le Cendarien royal a la **flamme aux yeux** — l'élan, la conviction, la jeunesse, même chez ses vieillards. Le Pyrevanien a les mains noires et la parole économe. L'Arkhenien a la **cendre dans la voix** — cette fatigue lucide de qui a vu beaucoup brûler, et qui parle bas parce que les choses importantes n'ont pas besoin qu'on crie.
+Cette diversité façonne les corps. Le Brumarien a la **flamme aux yeux** — l'élan, la conviction, la jeunesse, même chez ses vieillards. Le Pyrevanien a les mains noires et la parole économe. L'Arkhenien a la **cendre dans la voix** — cette fatigue lucide de qui a vu beaucoup brûler, et qui parle bas parce que les choses importantes n'ont pas besoin qu'on crie.
 
 ---
 
@@ -68,7 +68,7 @@ Cette diversité façonne les corps. Le Cendarien royal a la **flamme aux yeux**
 
 Une seule religion gouverne officiellement Cendara : l'**Ignis Aeternum**, le feu éternel. Mais cette unité de surface masque un dissentiment de fond. Les Cendariens partagent le même panthéon — la déesse créatrice de la flamme, les Phénix qui en sont les passeurs, les Refondeurs qui veillent sur les sanctuaires — sans s'accorder sur ce que cette flamme *demande*.
 
-À **Cendara-Royaume**, le feu est **promesse**. La déesse a montré sa miséricorde lors du grand cataclysme ; elle montrera bientôt sa puissance. Le Réveil est imminent — *bientôt*, *bientôt*. Ce *bientôt* a commencé il y a très longtemps. Personne ne l'a encore corrigé. Une nation qui attend trop longtemps finit par confondre l'attente avec la foi.
+À **Brumaria**, le feu est **promesse**. La déesse a montré sa miséricorde lors du grand cataclysme ; elle montrera bientôt sa puissance. Le Réveil est imminent — *bientôt*, *bientôt*. Ce *bientôt* a commencé il y a très longtemps. Personne ne l'a encore corrigé. Une nation qui attend trop longtemps finit par confondre l'attente avec la foi.
 
 À **Pyrevane**, le feu est **liturgie**. La déesse n'attend pas qu'on l'attende ; elle attend qu'on *frappe correctement*. Les Forge-Liturgies, les Six Feux quotidiens, l'Épreuve du Feu sont la **forme** même de la fidélité. Sortir de la forme, c'est rompre la chaîne. Cette stabilité protège des illusions de la grande île ; elle a aussi sa rigidité — à force de répéter le geste juste, on oublie qu'il fut, un jour, l'invention d'un homme qui doutait.
 
@@ -116,7 +116,7 @@ Telle est Cendara : une terre prospère qui doute en silence, une religion magni
 
 **Type** : continent insulaire (archipel volcanique).
 **Surnoms** : *L'Île de Feu et de Cendres* (canonique) ; *L'Archipel de Feu* (continental) ; *l'Archipel de cendre froide* (lecture arkhenienne).
-**Composition géographique** : trois ensembles — Grande Île (Cendara-Royaume et Pyrevane), Arkhen (Aïkhar et Archipel des Tessons), Ilnara.
+**Composition géographique** : trois ensembles — Grande Île (Brumaria et Pyrevane), Arkhen (Aïkhar et Archipel des Tessons), Ilnara.
 **Élément central** : Mont Cendra (volcan-roi, cône tronqué, pulsation continue).
 **Religion dominante** : Ignis Aeternum (lectures concurrentes : royale, liturgique, des Délies, syncrétique d'Ilnara).
 **Lignée principale** : Kharavasts — *la flamme qui ne meurt pas* (voir [[Lignées]])
@@ -126,7 +126,7 @@ Telle est Cendara : une terre prospère qui doute en silence, une religion magni
 
 | Nation | Identité courte |
 |---|---|
-| [[Cendara/Cendara\|Cendara-Royaume]] | Monarchie ésotérique, foyer du Cœur de Cendra, orthodoxie de la Grande Prophétie |
+| [[Cendara/Brumaria\|Brumaria]] | Monarchie ésotérique, foyer du Cœur de Cendra, orthodoxie de la Grande Prophétie |
 | [[Cendara/Pyrevane\|Pyrevane]] | Théocratie de forge, capitale liturgique de l'Ignis Aeternum |
 | [[Cendara/Arkhen\|Arkhen]] | Confédération arkhenienne, cendre froide, Délies de la Flamme |
 

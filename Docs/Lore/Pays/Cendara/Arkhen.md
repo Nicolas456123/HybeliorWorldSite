@@ -31,8 +31,8 @@ needs_review_for: []
 - **Défense** : pas de force armée commune ; chaque port arme ses propres patrouilles.
 - **Finances** : pas de fiscalité commune ; chaque port lève ses taxes et alimente, par contribution volontaire, un fonds de solidarité maritime utilisé en cas de raid.
 
-### La Médiation Maritime (poste pyrevanien et cendarien-royaume)
-- Les deux nations de la grande île ([[Pyrevane]] et Cendara-Royaume) nomment chacune un **Médiateur Maritime** — fonction théoriquement importante, vacante six mois sur douze.
+### La Médiation Maritime (poste pyrevanien et brumarien)
+- Les deux nations de la grande île ([[Pyrevane]] et Brumaria) nomment chacune un **Médiateur Maritime** — fonction théoriquement importante, vacante six mois sur douze.
 - Poste mal considéré (traversée du Détroit de Suie, brouillard de Khoram, notables qui répondent en proverbes). Depuis cinquante ans, les nominations servent de sanctions ou de purgatoires politiques.
 - Arrangement tacite : Arkhen ne veut pas être administrée, personne ne veut sérieusement l'administrer.
 
@@ -81,7 +81,7 @@ needs_review_for: []
 ## Culture et société
 
 ### Hiérarchie de la cendre (équivalent arkhenien)
-Pas de hiérarchie sociale articulée comme à Cendara-Royaume ou à Pyrevane. Distinctions :
+Pas de hiérarchie sociale articulée comme à Brumaria ou à Pyrevane. Distinctions :
 
 1. **Capitaines de port** — chefs informels des Conseils, autorité maritime et fiscale.
 2. **Forgerons-Sceaux** (orthodoxes) et **forgerons silencieux** (Délies) — coexistence pacifique ; on est forgeron par la qualité du travail, Sceau ou pas.
@@ -94,8 +94,8 @@ Pas de hiérarchie sociale articulée comme à Cendara-Royaume ou à Pyrevane. D
 ### Biais culturels (faits)
 - **Humilité comme contenance** : exhiber sa réussite est suspect ; modestie radicale frôlant la dissimulation. Posture choisie, non timidité.
 - **Parole brève** : les Arkheniens parlent encore moins que les Pyrevaniens (phrases courtes, grognements, regards). Compensation par une écoute meilleure.
-- **Salut vers le bas** : on salue en abaissant légèrement la tête vers le sol (vers la cendre), contre le salut cendarien-royaume vers le sommet du Mont. Marqueur identitaire fort.
-- **Méfiance des grandes nouvelles** : réaction différée de trois jours ; réponse type *« On verra demain »*. Protection contre l'enthousiasme, tenu pour une faiblesse cendarienne-royaume importée par les marins.
+- **Salut vers le bas** : on salue en abaissant légèrement la tête vers le sol (vers la cendre), contre le salut brumarien vers le sommet du Mont. Marqueur identitaire fort.
+- **Méfiance des grandes nouvelles** : réaction différée de trois jours ; réponse type *« On verra demain »*. Protection contre l'enthousiasme, tenu pour une faiblesse brumarienne importée par les marins.
 - **Métier comme sacrement** : en l'absence d'institution religieuse contraignante, *bien faire son métier* est l'éthique centrale, plus impérative que toute Forge-Liturgie. Un mauvais forgeron est moralement suspect ; un excellent forgeron (Délie ou orthodoxe) est respecté absolument.
 - **Accueil de l'exilé** : tout étranger est a priori accueilli, surtout venant de la grande île (hospitalité ancienne, filiation d'exilés). Ne s'étend pas à l'autorité : un Médiateur Maritime est traité avec une politesse glaciale, un forgeron en disgrâce est nourri trois mois sans question.
 - **Ironie sourde** : pas d'humour explicite mais une ironie sèche tournée vers soi et les institutions (ex. *« Notre Assemblée est si parfaite qu'elle ne décide rien. »* ; *« Nous sommes trop pauvres pour avoir des dieux. Nous avons leurs cendres. »*). Jamais reprise devant un étranger.
@@ -114,7 +114,7 @@ Une dizaine d'îles, du Tesson de Khoram (le plus grand, capitale confédérale)
 Vastes herbages élevés, sources chaudes nombreuses, fumerolles. Population sparse de bergers de cendre. La **stephe** (croûte de cendre durcie) y est exploitée comme amendement. Chèvres-de-cendre (race endémique au pelage gris) élevées pour leur lait et leur laine.
 
 ### Côte du Détroit (Aïkhar sud-ouest)
-Falaises battues, ports difficiles, brouillard sulfureux récurrent. Point de départ et d'arrivée des rares liaisons maritimes avec Pyrevane (Suie-Haute) et Cendara-Royaume (Diamoris).
+Falaises battues, ports difficiles, brouillard sulfureux récurrent. Point de départ et d'arrivée des rares liaisons maritimes avec Pyrevane (Suie-Haute) et Brumaria (Diamoris).
 
 ### Ilnara
 Île tropicale séparée. Cf. fiche *Cendara - Pays* (administrativement arkhenienne, théologiquement gérée par le Temple des Flammes Éternelles).
@@ -148,7 +148,7 @@ Port modeste (deux quais, une auberge). Fondation incertaine, antérieure au Sil
 - Particularités : Trois familles Foedus Animae, autels familiaux discrets.
 
 ### Khalath — Ville (Aïkhar sud-est)
-Cité commerciale tournée vers la grande île, sur le passage maritime le plus court entre Aïkhar et Diamoris (Cendara-Royaume). Port arkhenien le plus *cendarien-royaume* d'atmosphère (taverne plus animée, marchandises de luxe, prix élevés ; jugée vulgaire par les autres ports). A prospéré pendant les paix continentales, langui pendant les tensions Pyrevane / Cendara. Unique port où le Médiateur Maritime cendarien-royaume passe ses *six mois actifs* (petite résidence officielle, jamais visitée par sa famille).
+Cité commerciale tournée vers la grande île, sur le passage maritime le plus court entre Aïkhar et Diamoris (Brumaria). Port arkhenien le plus *brumarien* d'atmosphère (taverne plus animée, marchandises de luxe, prix élevés ; jugée vulgaire par les autres ports). A prospéré pendant les paix continentales, langui pendant les tensions Pyrevane / Cendara. Unique port où le Médiateur Maritime brumarien passe ses *six mois actifs* (petite résidence officielle, jamais visitée par sa famille).
 - Population : Ville (environ 2 200)
 - Région : Aïkhar sud-est
 - Particularités : Résidence du Médiateur Maritime, marché des produits royaux, banque informelle (réseau de capitaines).
@@ -189,7 +189,7 @@ Petit port-écho à Suie-Haute (Pyrevane), sur la côte arkhenienne du Détroit 
 
 | Pays | Relation | Détails |
 |------|----------|---------|
-| **Cendara-Royaume** | Indifférence cordiale | Khalath sert de point de contact. Le Médiateur Maritime royal y passe six mois sur douze. Pas de tension active, pas d'alliance. |
+| **Brumaria** | Indifférence cordiale | Khalath sert de point de contact. Le Médiateur Maritime royal y passe six mois sur douze. Pas de tension active, pas d'alliance. |
 | **Pyrevane** | Suspicion silencieuse, persécution sélective des Délies | Suie-Basse / Suie-Haute en frontière. Les inspecteurs cinderholdiens visitent rarement Khoram, ne trouvent jamais rien, repartent. |
 | **Onara** | Liens commerciaux modestes mais réguliers | Les pêcheurs aïmariens vont jusqu'aux confins d'Onara. Quelques exilés onarais arrivent à Khoram. |
 | **Solena** | Méfiance — *« ils prennent nos Phénix »* | Les marins soléniens ont vendu à plusieurs reprises des Phénix d'Ilnara à des temples étrangers. Pratique scandaleuse pour les Arkheniens, jamais cessée. |

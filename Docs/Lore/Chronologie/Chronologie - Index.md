@@ -317,7 +317,7 @@ Entités issues des interactions entre Cosmiques. Liste canonique GDD/17 (Pluvia
 | **Celethor** | Astravia · Orvalis · Halcyon *(+ Nysoris, cité-île de Nysaria au large de la côte est — polité insulaire rattachée à Celethor, hors du décompte des 36 nations continentales)* |
 | **Onara** | Mosrack · Myrtam · Elarath · Tyndara |
 | **Azoria** | Azoral · Kethvar · Solmaris · Caeloria |
-| **Cendara** | Arkhen · Pyrevane |
+| **Cendara** | Brumaria · Pyrevane · Arkhen |
 | **Evertia** | Thalmaris · Sylvara |
 | **Baelor** | Baelor-Prime |
 | **Ulinor** | Skaldoria · Dhalvoria |

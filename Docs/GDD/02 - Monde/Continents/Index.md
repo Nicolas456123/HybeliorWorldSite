@@ -24,7 +24,7 @@ needs_review_for: []
 | [[Azoria/_Index|Azoria]] | [[Azoria/Azoral|Azoral]], [[Azoria/Caeloria|Caeloria]], [[Azoria/Kethvar|Kethvar]], [[Azoria/No Man's Land Azoria|No Man's Land Azoria]], [[Azoria/Solmaris|Solmaris]] |
 | [[Baelor/_Index|Baelor]] | [[Baelor/Baelor|Baelor]] |
 | [[Celethor/_Index|Celethor]] | [[Celethor/Astravia|Astravia]], [[Celethor/Elarian|Elarian]], [[Celethor/No Man's Land Celethor|No Man's Land Celethor]], [[Celethor/Ryldor|Ryldor]] · *île* : [[Celethor/Nysaria|Nysaria]] |
-| [[Cendara/_Index|Cendara]] | [[Cendara/Arkhen|Arkhen]], [[Cendara/Cendara|Cendara]], [[Cendara/Pyrevane|Pyrevane]] |
+| [[Cendara/_Index|Cendara]] | [[Cendara/Arkhen|Arkhen]], [[Cendara/Brumaria|Brumaria]], [[Cendara/Pyrevane|Pyrevane]] |
 | [[Cestra/_Index|Cestra]] | [[Cestra/No Man's Land Cestra|No Man's Land Cestra]], [[Cestra/Noravia|Noravia]] |
 | [[Endora/_Index|Endora]] | [[Endora/Avalor|Avalor]], [[Endora/Haldria|Haldria]], [[Endora/Sanvara|Sanvara]] |
 | [[Evertia/_Index|Evertia]] | [[Evertia/Evertia|Evertia]], [[Evertia/Sylvara|Sylvara]], [[Evertia/Thalmaris|Thalmaris]] |

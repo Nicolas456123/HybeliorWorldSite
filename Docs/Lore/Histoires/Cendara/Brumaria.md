@@ -1,11 +1,13 @@
 ﻿---
-tags: [lore, histoire, cendara]
+tags: [lore, histoire, brumaria, cendara]
 type: histoire
 status: canon
 last_review: 2026-05-06
 needs_review_for: []
 ---
-# Histoires de Cendara — Royaume de la Grande Île
+# Histoires de Brumaria — Royaume de la Grande Île
+
+> *Brumaria* est le nom de la nation-monarchie (capitale Brumaris) ; *Cendara* désigne le continent qui la porte. Fiche anciennement « Histoires de Brumaria ».
 
 ## Les Origines — « Des Naufragés aux Forgerons du Feu »
 
@@ -153,7 +155,7 @@ A Thaldor, les Colonnes de Memoire racontaient la vie des morts. Chaque rune gra
 
 Le sculpteur Maeven etait le meilleur de sa generation. Ses runes etaient si precises qu'on disait qu'elles vibraient sous les doigts, comme si le mort lui-meme avait guide son ciseau.
 
-On lui commanda la colonne du Grand Pyromancien Ashavar --- le plus celebre pyromancien de l'histoire de Cendara, mort trois siecles auparavant, dont l'ancienne colonne s'etait fissuree. Un honneur immense. Maeven s'enferma dans son atelier et travailla pendant six mois.
+On lui commanda la colonne du Grand Pyromancien Ashavar --- le plus celebre pyromancien de l'histoire de Brumaria, mort trois siecles auparavant, dont l'ancienne colonne s'etait fissuree. Un honneur immense. Maeven s'enferma dans son atelier et travailla pendant six mois.
 
 Le probleme commenca a la troisieme rune. Maeven gravait les exploits d'Ashavar tels que les chroniques les relataient. Mais son ciseau refusait de suivre le tracé prevu. Ses mains deviaient, traçant des runes differentes --- des runes qui n'etaient pas dans les chroniques.
 
@@ -225,7 +227,7 @@ Mais la nuit, seule dans sa cabane au milieu de la foret silencieuse, elle pensa
 
 ## Diamoris — « Le Port des Disparus »
 
-Diamoris etait le port le plus anime de Cendara. Des navires de tout Hybelior y accostaient pour acheter les merveilles de l'ile --- metaux volcaniques, cristaux de lave, potions alchimiques. Le marche aux cristaux attirait des marchands de continents lointains.
+Diamoris etait le port le plus anime de Brumaria. Des navires de tout Hybelior y accostaient pour acheter les merveilles de l'ile --- metaux volcaniques, cristaux de lave, potions alchimiques. Le marche aux cristaux attirait des marchands de continents lointains.
 
 Le maitre-portuaire Grendel tenait un registre. Pas le registre officiel des cargaisons et des taxes. Un registre personnel. Celui des disparus.
 
@@ -321,7 +323,7 @@ Et chaque matin, sur ses draps, des gouttes de sang. Pas le sien.
 
 ## Solarith — « Les Vendanges de Cendre »
 
-Le vin noir de Solarith avait un gout de fumee et de fruits brules. C'etait le breuvage le plus celebre de Cendara --- sombre comme l'obsidienne, riche, complexe. Les vignerons de Solarith le produisaient depuis des siecles, nourrissant leurs vignes de cendres millenaires.
+Le vin noir de Solarith avait un gout de fumee et de fruits brules. C'etait le breuvage le plus celebre de Brumaria --- sombre comme l'obsidienne, riche, complexe. Les vignerons de Solarith le produisaient depuis des siecles, nourrissant leurs vignes de cendres millenaires.
 
 Le vigneron Aldric avait le meilleur palais de la region. Il goutait chaque baril avant la mise en cave, identifiant les subtilites que d'autres ne percevaient pas. Fume. Mineral. Soufre. Miel de lave. Chaque millesime avait sa signature.
 
@@ -405,7 +407,7 @@ Il ne reprit jamais son troupeau. Il passa le reste de ses jours assis sur une p
 
 ## Drystar — « La Lame Noire »
 
-Les forges militaires de Drystar produisaient les meilleures armes de Cendara. Lames noires veinees de rouge, si tranchantes qu'elles coupaient l'air lui-meme. Les Maitres de Forge de Drystar etaient respectes autant que les pretres --- et craints davantage.
+Les forges militaires de Drystar produisaient les meilleures armes de Brumaria. Lames noires veinees de rouge, si tranchantes qu'elles coupaient l'air lui-meme. Les Maitres de Forge de Drystar etaient respectes autant que les pretres --- et craints davantage.
 
 Le Maitre Thyren forgeait depuis quarante ans. Ses lames equippaient les Calcines, les pretres-guerriers d'elite. Chaque arme qu'il creait etait un chef-d'oeuvre --- et chaque arme lui coutait un peu de lui-meme.
 
@@ -465,7 +467,7 @@ Un message, ecrit en feu sous l'ocean. Trop vaste pour etre lu d'une seule tour.
 
 ## Thyronis — « Le Navire qui Refusa de Naviguer »
 
-Les chantiers navals de Thyronis construisaient les meilleurs navires de Cendara. Coques de bois ignifuge, plaques de fer volcanique, voiles tissees de fibres resistantes au soufre. Des vaisseaux capables de traverser les eaux brulantes de l'archipel sans une egratignure.
+Les chantiers navals de Thyronis construisaient les meilleurs navires de Brumaria. Coques de bois ignifuge, plaques de fer volcanique, voiles tissees de fibres resistantes au soufre. Des vaisseaux capables de traverser les eaux brulantes de l'archipel sans une egratignure.
 
 Le charpentier Valden mettait la derniere main au plus grand navire jamais construit a Thyronis --- un trois-mats commande par le roi pour des expeditions commerciales lointaines. Deux ans de travail. Trois cents ouvriers. Un chef-d'oeuvre.
 

@@ -163,10 +163,10 @@ Ces cas ont déjà été réglés ; on les liste pour mémoire, afin qu'ils ne s
 | **Les deux Portes de Fer** | homonymie **commémorative** assumée ; à gloser, pas à renommer |
 | **Les deux Lunaris d'Ilthara** | coïncidence de toponymes assumée (cf. `Drakora.md`) |
 | **Plaine de Gryndor ↔ future nation Gryndor** | homonymie **délibérée** conservée (décision **L1**) |
-| **Cendara (continent) / Brumaria (nation) / Cendral (bourg)** | **renommage acté (L1)** : trois noms **distincts**. La « nation Cendara » des Chroniques (capitale Brumaris) devient **Brumaria** ; le bourg au pied du Mont (ex-« Cendral » / « Cendara-ville ») reste **Cendral**. Carte politique de référence du continent : **Arkhen + Pyrevane**. |
+| **Cendara (continent) / Brumaria (nation) / Taldre (bourg)** | **renommage acté (L1 + arbitrages 2026-07-15)** : trois noms **distincts**. La « nation Cendara » des Chroniques (capitale Brumaris) devient **Brumaria** ; le bourg de Renna au pied du Mont (T3, ex-« Cendara-ville » / brouillon « Cendre-Basse ») devient **Taldre** — **Cendral** est réservé à l'ancienne cité enfouie à l'An 0 ([[Era 4 - L'Arrachement]]). Nations du continent : **Brumaria · Pyrevane · Arkhen** (Grande Île : Brumaria au SE + Pyrevane à l'ouest ; Arkhen au nord). |
 
 > [!note] Principe général (L1)
-> Les **homonymies accidentelles** se **renomment** (ex. le trio Cendara/Brumaria/Cendral) ; les **homonymies délibérées** de l'*Annexe C* (Plaine de Gryndor ↔ nation Gryndor, Panghor supercontinent ↔ entité, les deux Portes de Fer, les deux Lunaris, Mirathi ↔ Mirathis) se **conservent et se glosent**.
+> Les **homonymies accidentelles** se **renomment** (ex. le trio Cendara/Brumaria/Taldre) ; les **homonymies délibérées** de l'*Annexe C* (Plaine de Gryndor ↔ nation Gryndor, Panghor supercontinent ↔ entité, les deux Portes de Fer, les deux Lunaris, Mirathi ↔ Mirathis) se **conservent et se glosent**.
 
 ---
 

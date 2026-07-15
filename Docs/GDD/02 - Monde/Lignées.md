@@ -78,7 +78,7 @@ Leur rapport à la Polyphonie est celui de la **contemplation** : ils écoutent 
 
 ### Les Kharavasts — Cendara
 
-Les Kharavasts sont la lignée de la **flamme qui ne meurt pas**. Peau cuivrée, cheveux sombres, voix grave, ils descendent des Marcheurs de Cendre, ces premiers mortels qui survécurent aux plaines volcaniques de Cendara en apprenant à danser avec le feu plutôt qu'à le fuir. L'empire de Pyrevaste fut le leur ; aujourd'hui le continent de Cendara seul porte encore la lignée pure — Cendara-Royaume, Pyrevane et Arkhen en sont les trois nations héritières —, là où le Cœur de Cendra bat sous la pierre, pulsations qui, depuis quelques décennies, s'accélèrent.
+Les Kharavasts sont la lignée de la **flamme qui ne meurt pas**. Peau cuivrée, cheveux sombres, voix grave, ils descendent des Marcheurs de Cendre, ces premiers mortels qui survécurent aux plaines volcaniques de Cendara en apprenant à danser avec le feu plutôt qu'à le fuir. L'empire de Pyrevaste fut le leur ; aujourd'hui le continent de Cendara seul porte encore la lignée pure — Brumaria, Pyrevane et Arkhen en sont les trois nations héritières —, là où le Cœur de Cendra bat sous la pierre, pulsations qui, depuis quelques décennies, s'accélèrent.
 
 > *« Un Kharavast n'éteint pas un feu. Il le laisse s'endormir, et il veille à côté jusqu'à son réveil. »*
 >
