@@ -188,7 +188,7 @@ Le Souffle est un fait cosmique ; c'est aussi un **objet d'interprétation**. Le
 | **Rota Mundi** | La roue du monde. Tout est cycle, rien n'est neuf. Ce qui revient n'a jamais cessé d'être. |
 | **Via Ventus** | Expiration cosmique. Le Souffle est le vent du monde, sans cause ni but, simplement vrai. |
 | **Lex Petra** | Hérésie. La vraie Lex Petra rejette le Souffle ; les sectes dissidentes l'acceptent en cachette. |
-| **Somnium Vigil** | Changement de rêve. Hybelior est rêvée différemment chaque Ère ; le Souffle est le rêveur qui change de song. |
+| **Somnium Vigil** | Changement de rêve. Hybelior est rêvée différemment chaque Ère ; le Souffle est le rêveur qui change de songe. |
 | **Foedus Animae** | Renouvellement des serments cosmiques entre les entités. Les âmes mortelles s'y synchronisent. |
 
 Pour le détail théologique, voir [[Cosmologie]]. Pour ce que le Souffle fait à un fidèle dans son rapport à sa Voie, voir [[Le Lien]].
