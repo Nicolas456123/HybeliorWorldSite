@@ -2356,39 +2356,34 @@ function initMap() {
 
         // Style par type d'entité
         const storageType = config.storage || '';
-        let textFill, textStroke, strokeWidth, fontWeight, letterSpacing, displayName;
+        let textFill, textStroke, fontWeight, letterSpacing, displayName;
         if (storageType === 'continentsElements') {
             textFill = '#c9a84c';
             textStroke = 'rgba(20, 12, 5, 0.85)';
-            strokeWidth = fontSize * 0.12;
             fontWeight = 'bold';
             letterSpacing = fontSize * 0.15;
             displayName = name.toUpperCase();
         } else if (storageType === 'paysElements') {
             textFill = '#e0c97f';
             textStroke = 'rgba(25, 15, 5, 0.8)';
-            strokeWidth = fontSize * 0.1;
             fontWeight = 'bold';
             letterSpacing = fontSize * 0.08;
             displayName = name;
         } else if (storageType === 'regionElements') {
             textFill = '#d4b87a';
             textStroke = 'rgba(30, 18, 8, 0.75)';
-            strokeWidth = fontSize * 0.1;
             fontWeight = 'normal';
             letterSpacing = fontSize * 0.05;
             displayName = name;
         } else if (storageType === 'capitalesElements') {
             textFill = '#f0d890';
             textStroke = 'rgba(20, 12, 5, 0.85)';
-            strokeWidth = fontSize * 0.12;
             fontWeight = 'bold';
             letterSpacing = 0;
             displayName = name;
         } else {
             textFill = '#e8d5a3';
             textStroke = 'rgba(25, 15, 5, 0.8)';
-            strokeWidth = fontSize * 0.1;
             fontWeight = 'normal';
             letterSpacing = 0;
             displayName = name;
@@ -2422,7 +2417,8 @@ function initMap() {
             textElement.setAttribute("y", (coord.y + config.yOffset + offset.y) * textScale);
             textElement.setAttribute("fill", textFill);
             textElement.setAttribute("stroke", textStroke);
-            textElement.setAttribute("stroke-width", strokeWidth * textScale);
+            textElement.setAttribute("stroke-width", 2);
+            textElement.setAttribute("vector-effect", "non-scaling-stroke");
             textElement.setAttribute("font-size", fontSize * textScale);
             textElement.setAttribute("text-anchor", "middle");
             textElement.setAttribute("font-family", LABEL_FONT_FAMILY);
@@ -2431,7 +2427,7 @@ function initMap() {
             textElement.setAttribute("paint-order", "stroke");
             textElement.setAttribute("stroke-linejoin", "round");
             textElement.setAttribute("dominant-baseline", "alphabetic");
-            textElement.setAttribute("text-rendering", "geometricPrecision");
+            textElement.setAttribute("text-rendering", "optimizeLegibility");
             textElement.setAttribute("transform", "scale(" + (1 / textScale) + ")");
             if (letterSpacing > 0) {
                 textElement.setAttribute("letter-spacing", letterSpacing * textScale);
