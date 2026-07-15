@@ -551,7 +551,7 @@ Parmi les cas documentés les plus enigmatiques de l'Ere VI figure l'expedition 
 | Ligue des Clairieres (Orivath) | ~800 → ~1 600 | Clairieres forestieres | Fracture politique |
 | Conclave de Selvorn | ~1 600 → ~3 800 | Etat de mediateurs | Marginalisation progressive |
 | Federation de Thalvorn | ~4 000 → ~7 500 | Forets interieures | Dessechement Gris + dissolution |
-| Protectorat d'Oriven | ~7 500 → ~9 200 | Tout Celethor | Fragmentation volontaire → Astravia + Caeloria + Orvalis + Halcyon |
+| Protectorat d'Oriven | ~7 500 → ~9 200 | Tout Celethor | Fragmentation volontaire → Astravia + Orvalis + Halcyon ; un essaim méridional gagne l'Azoria et y fonde Caeloria |
 
 ### ONARA / AZORIA — 8 civilisations disparues
 
@@ -603,7 +603,7 @@ Parmi les cas documentés les plus enigmatiques de l'Ere VI figure l'expedition 
 | Khanat des Vents Noirs | ~700 → ~1 400 | Nord | Fin de l'unite de necessite |
 | Confed. Triksal (Trois Rivieres) | ~2 100 → ~3 600 | Centre (riviere) | Secheresse |
 | Khanat Dorvakh (Ciel Rouge) | ~4 800 → ~5 700 | Sud et centre | Guerre civile de succession |
-| Ligue des Plaines Hautes (Yurrak) | ~6 200 → ~8 100 | Nord-est | Perte d'autorite morale → Skaldoria + Torkam + Dhalvoria |
+| Ligue des Plaines Hautes (Yurrak) | ~6 200 → ~8 100 | Nord-est (transcontinentale : hauts plateaux d'Ulinor et nord d'Alkaran) | Perte d'autorite morale → Skaldoria + Dhalvoria ; sa branche alkaranaise donne Torkam |
 
 ### BAELOR — 4 civilisations disparues
 
@@ -659,7 +659,7 @@ Parmi les cas documentés les plus enigmatiques de l'Ere VI figure l'expedition 
 | **Thalmaris** | Evertia | Federation des Lisieres | ~9 200 ap.A |
 | **Astravia** | Celethor | Protectorat d'Oriven | ~9 200 ap.A |
 | **Azoral** | Azoria | Thalassocr. Azor-Kerev | ~9 300 ap.A |
-| **Caeloria** | Celethor | Protectorat d'Oriven | ~9 300 ap.A |
+| **Caeloria** | Azoria | essaim méridional du Protectorat d'Oriven | ~9 300 ap.A |
 | **Haldria** | Endora | Protectorat d'Haldros | ~9 300 ap.A |
 | **Iskara** | Alkaran | Protectorat des Passes | ~9 400 ap.A |
 | **Arkhen** | Cendara | Ligue des Villes Libres | ~9 400 ap.A |
@@ -670,7 +670,7 @@ Parmi les cas documentés les plus enigmatiques de l'Ere VI figure l'expedition 
 | **Avalor** | Endora | Confed. Tacite du Sud | ~9 600 ap.A |
 | **Sanvara** | Endora | Confed. Tacite du Sud | ~9 600 ap.A |
 | **Orvalis** | Celethor | Protectorat d'Oriven | ~9 600 ap.A |
-| **Torkam** | Ulinor | Ligue Yurrak | ~9 600 ap.A |
+| **Torkam** | Alkaran | Ligue Yurrak (branche alkaranaise) | ~9 600 ap.A |
 | **Pyrtara** | Ilthara | Hegemonie de Pyrannex | ~9 650 ap.A |
 | **Kethvar** | Azoria | Thalassocr. Azor-Kerev | ~9 700 ap.A |
 | **Pyrevane** | Cendara | Ligue des Villes Libres | ~9 800 ap.A |

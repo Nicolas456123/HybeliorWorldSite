@@ -159,7 +159,7 @@ Les Failles sont **observees** comme zones de distorsion temporelle apparues ou 
 2. **Phase d'instabilite** : le temps dans la zone devient asynchrone. Un voyageur qui entre sort 3 ans plus tot, ou 50 ans plus tard. Les cycles sont imprevisibles.
 3. **Phase mobile** : les Failles de la periode du Fleau se deplacent sur le terrain a des vitesses variables (quelques km/decennie jusqu'a plusieurs km/heure). C'est cette mobilite qui rend la periode calamiteuse.
 4. **Engloutissement** : quand une Faille mobile passe sur un village, les habitants sont disperses dans le temps. Certains emergent dans le passe (generalement quelques decennies avant l'Arrachement — consideres comme des fantomes). D'autres emergent dans le futur (inconnu, aucun temoignage direct).
-5. **Fermeture** : les Failles mobiles se ferment toutes avant ~1 700 ap.A. Cause non etablie — les corpus verithanis lisent une *guerison partielle de Tempora* ; les caelumites parlent d'un *retrait de l'Etranger* ; les vael'kurashes simplement d'une recomposition de la voix.
+5. **Fermeture** : les Failles mobiles se ferment toutes vers ~1 600 ap.A — d'un seul coup, en ce que les memoires appelleront *l'Heure qui se referme*, et non par extinction lente ; des Failles statiques subsistent. Cause non etablie — les corpus verithanis lisent une *guerison partielle de Tempora* ; les caelumites parlent d'un *retrait de l'Etranger* ; les vael'kurashes simplement d'une recomposition de la voix.
 
 **Zones les plus touchees :**
 
@@ -548,9 +548,9 @@ Le Forgon absorbe progressivement les Corsaires en les integrant dans leur Senat
 
 La Grande Nuit ne se termine pas par un evenement unique mais par une accumulation de facteurs sur ~300 ans (~2 700 → ~3 000 ap.A).
 
-**1. La Fermeture des Failles mobiles (~1 700 ap.A)**
+**1. La Fermeture des Failles mobiles (~1 600 ap.A)**
 
-Les Failles mobiles cessent leur deplacement, se fixent, puis se ferment progressivement. Apres ~1 700 ap.A, seules des Failles statiques et localisees subsistent (ancetres des Failles observees en Ere VII). La pression du Fleau s'allege. Les corpus verithanis lisent une *guerison partielle de Tempora* ; les Caelumites, un *retrait de l'Etranger des Heures* ; les Vael'Kurashes, simplement une recomposition du dialogue cosmique. L'observation est commune ; les lectures ne convergent pas.
+Les Failles mobiles se ferment **d'un seul coup** — un instant unique, observe simultanement partout, que les memoires appelleront *l'Heure qui se referme* (les archives tardives, elles, en font volontiers une extinction progressive etalee jusque vers ~1 700). Apres ~1 600 ap.A, seules des Failles statiques et localisees subsistent (ancetres des Failles observees en Ere VII). La pression du Fleau s'allege. Les corpus verithanis lisent une *guerison partielle de Tempora* ; les Caelumites, un *retrait de l'Etranger des Heures* ; les Vael'Kurashes, simplement une recomposition du dialogue cosmique. L'observation est commune ; les lectures ne convergent pas.
 
 **2. La Remutation du Lien (~1 800-2 500 ap.A)**
 
