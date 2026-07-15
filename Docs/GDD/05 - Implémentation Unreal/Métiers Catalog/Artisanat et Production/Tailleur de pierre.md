@@ -182,7 +182,7 @@ Le **Tailleur de pierre** prend la pierre brute extraite par le [[Mineur]] et la
 
 | Ère | Effet sur le Tailleur de pierre |
 |-----|----------------------------------|
-| **Sommeil de Glace** (Climata) | Pierre gelée plus dure, +20% temps mais +10% qualité finition |
+| **Sommeil de Glace** (Aquor) | Pierre gelée plus dure, +20% temps mais +10% qualité finition |
 | **Feu Endormi** (Eldoria) | Basalte volcanique de Cendara abondant, recettes pierre-de-cendre |
 | **Verdoiement** (Terranu) | Pierre poreuse végétalisée — variants intégration mousses |
 | **Échos Brisés** (Tempora) | Risque de fendage doublé (instabilité du grain) |

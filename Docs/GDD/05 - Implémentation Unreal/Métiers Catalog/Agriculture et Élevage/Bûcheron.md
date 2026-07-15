@@ -115,7 +115,7 @@ Le **Bûcheron** est le **premier maillon** de la chaîne **bois** d'Hybelior. I
 | Contexte | Effet |
 |----------|-------|
 | **Ère [[Les Ères|Verdoiement]] (Terranu)** | +30% rendement, mais bois moins dense (sève haute) |
-| **Ère [[Les Ères|Sommeil de Glace]] (Climata)** | Bois dense de qualité +20%, mais déplacement difficile, journée courte |
+| **Ère [[Les Ères|Sommeil de Glace]] (Aquor)** | Bois dense de qualité +20%, mais déplacement difficile, journée courte |
 | **Ère [[Les Ères|Brume Mortelle]]** | Forêts dangereuses, créatures rares, essences variants |
 | **Ère [[Les Ères|Ombre Longue]] (Noctis)** | Bois sombre rituel ([[Noctari]]), production -20%, prix x1.5 |
 | **Post-[[Le Souffle]]** | Forêts modifiées : variants d'arbres, opportunités/dangers |

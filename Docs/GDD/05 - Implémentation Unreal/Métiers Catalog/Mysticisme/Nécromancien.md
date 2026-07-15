@@ -163,7 +163,7 @@ Le Nécromancien est l'archétype **karma-mobile** par excellence : son karma ty
 - **Engagement** — premier pacte funéraire ; pour les Animari, souvent avec un ancêtre proche
 - **Service** — rôle communautaire (chamane funéraire) ou clandestin (Veilari) selon religion
 - **Reconnaissance** — chez Foedus Animae uniquement : Reconnaissance accrue. Ailleurs, **Reconnaissance négative** par défaut.
-- **Maîtrise** — Œuvre signée funéraire, parfois nomination siège Éthéré ***Cura*** (guérison mystique) ou un siège-âme dédié (à définir Phase 4)
+- **Maîtrise** — Œuvre signée funéraire, parfois la **Consécration** ***Cura*** (guérison mystique, honneur mortel lié à l'entité) ou une Consécration-âme dédiée (à définir Phase 4)
 - **Bascule sombre** — abandon des règles culturelles, pratique offensive en PvP, drain de joueurs vivants → karma noir, statut de hors-la-loi spirituel
 
 **Réseau** : [[Prêtre]] Animari (collaboration directe), [[Lore/Religions/Vael'Kurash\|chamanes Vael'Kari]], [[Mage]] Noctis ou Tempora (rare alliance), [[Historien]] (généalogies), [[Bibliothécaire]] (textes funéraires anciens).

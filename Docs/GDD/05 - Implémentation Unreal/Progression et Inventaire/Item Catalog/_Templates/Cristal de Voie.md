@@ -368,7 +368,7 @@ Un non-Lié peut **porter** un Cristal de Voie en signature (esthétique, +5% ch
 - [[Le Lien]] — Voies, opposition
 - [[Le Souffle]] — pénurie, rouille, destruction Cardinaux
 - [[L'Accord]] — qualité de taille, alignement
-- [[Cosmologie]] §Sièges Éthérés — *Arcana*, *Luxa*
+- Consécrations *Arcana*, *Luxa* — honneurs mortels liés à une entité, jamais des sièges cosmiques (cf. [[L'Accord]] ; entités : [[Cosmologie]] §Les rangs inférieurs)
 
 ---
 

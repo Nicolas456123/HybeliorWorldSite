@@ -107,7 +107,7 @@ Ces trois trajectoires ne sont pas en compétition. Aldric a un Héritage que N�
 
 Quand le Souffle survient, l'Accord ne s'effondre pas brutalement. Ce serait une trahison de la promesse — et ce serait, surtout, infidèle à la nature même de la cosmologie d'Hybelior. Un monde polyphonique ne *coupe* pas une note pour en jouer une autre. Il glisse. Les voix s'estompent, d'autres s'élèvent, et le tissu sonore se redistribue lentement assez pour qu'une oreille attentive puisse suivre le mouvement.
 
-L'Accord fait pareil. Au moment du Souffle, il **reste** à sa valeur acquise. Puis, sur les jours et les semaines qui suivent, il **dérive** vers une nouvelle valeur d'équilibre — une valeur qui dépend de la similarité entre l'Ère qui finit et l'Ère qui commence. Si la nouvelle Ère ressemble à l'ancienne (un Verdoiement qui cède la place à une Pousse Lente — toutes deux dans la dominante de Terranu), la dérive est minime ; tes pratiques restent largement pertinentes, le monde continue à les valoriser, tu sens la **continuité**. Si la nouvelle Ère est radicalement étrangère (un Verdoiement qui bascule vers un Sommeil de Glace de Climata), tu sens, semaine après semaine, que ton Accord redescend — non parce qu'on te punit, mais parce que ce que tu cultives n'a plus de place dans la composition cosmique présente.
+L'Accord fait pareil. Au moment du Souffle, il **reste** à sa valeur acquise. Puis, sur les jours et les semaines qui suivent, il **dérive** vers une nouvelle valeur d'équilibre — une valeur qui dépend de la similarité entre l'Ère qui finit et l'Ère qui commence. Si la nouvelle Ère ressemble à l'ancienne (un Verdoiement qui cède la place à une Pousse Lente — toutes deux portées par le couple Spiritus-Terranu), la dérive est minime ; tes pratiques restent largement pertinentes, le monde continue à les valoriser, tu sens la **continuité**. Si la nouvelle Ère est radicalement étrangère (un Verdoiement qui bascule vers un Sommeil de Glace d'Aquor), tu sens, semaine après semaine, que ton Accord redescend — non parce qu'on te punit, mais parce que ce que tu cultives n'a plus de place dans la composition cosmique présente.
 
 Cette dérive n'est jamais instantanée. Elle prend plusieurs semaines, à un rythme que ton attention peut accompagner. Le monde te laisse le temps de comprendre ce qui a changé, le temps d'aller voir les zones nouvelles, le temps d'éprouver si tes Voies résonnent encore. Et pendant cette période, **tu as la main** : tu peux gagner de l'Accord activement, par tes actes, et compenser la dérive — voire la dépasser. Celui qui s'adapte vite peut, en quelques semaines, retrouver un Accord plus haut que celui qu'il avait à la fin de l'Ère précédente.
 
@@ -139,15 +139,15 @@ Aucune de ces lectures n'est la "vraie". Le monde d'Hybelior se permet d'avoir p
 
 ---
 
-## Les Titres Célestes — l'enjeu de tenir l'Accord
+## Les Consécrations — l'enjeu de tenir l'Accord
 
-Au plus haut de cette voie, il y a les **Titres Célestes** — ces distinctions prestigieuses qui marquent un mortel du sceau des plus grands. On ne les obtient pas en accumulant. On les obtient en s'accordant **pleinement** à une Ère, et en tenant cet accord avec assez de constance pour que le monde te reconnaisse comme un de ses enfants exemplaires.
+Au plus haut de cette voie, il y a les **Consécrations** — ces distinctions prestigieuses qui marquent un mortel du sceau des plus grands. Chacune emprunte son nom à une entité dont elle honore le domaine : on est consacré « voix de Cura » pour la guérison, « main de Forgion » pour la forge, « œil d'Asterion » pour la cartographie céleste. Ce n'est pas rejoindre le ciel — **aucun mortel ne prend place dans la Polyphonie** (voir [[Cosmologie]]) ; c'est être reconnu, sur terre, comme celui qui sert ce domaine mieux qu'aucun autre de son temps. On ne les obtient pas en accumulant, mais en s'accordant **pleinement** à une Ère et en tenant cet accord avec assez de constance pour que le monde te reconnaisse.
 
-Un Titre Céleste ne se *campe* pas. C'est précisément ce qui le rend précieux. À chaque Souffle, il faut **tenir** — ne pas laisser son Accord descendre au-dessous d'un seuil critique au moment où la nouvelle Ère s'installe. Si on ne tient pas, le Titre se retire, sans drame, mais sans appel. On reste celui qui l'a porté ; on n'en est plus le porteur actuel. Et il faudra, pour le retrouver, ré-accorder son instrument à la saison suivante.
+Une Consécration ne se *campe* pas. C'est précisément ce qui la rend précieuse. À chaque Souffle, il faut **tenir** — ne pas laisser son Accord descendre au-dessous d'un seuil critique au moment où la nouvelle Ère s'installe. Si on ne tient pas, le titre se retire, sans drame mais sans appel. On reste celui qui l'a porté ; on n'en est plus le porteur actuel. Et il faudra, pour le retrouver, ré-accorder son instrument à la saison suivante.
 
-Cette exigence est volontaire. Elle dit que les sommets d'Hybelior ne sont pas des trophées à poser sur une étagère, mais des **pratiques à entretenir**. Un Titre Céleste, à Hybelior, ressemble plus à la dignité d'un musicien de concert qu'à la médaille d'un retraité. On l'a, parce qu'on **continue**. Et le jour où l'on cesse de continuer, on l'a eu — ce qui est une autre forme de dignité, mais une autre.
+Cette exigence est volontaire. Elle dit que les sommets d'Hybelior ne sont pas des trophées à poser sur une étagère, mais des **pratiques à entretenir**. Une Consécration, à Hybelior, ressemble plus à la dignité d'un musicien de concert qu'à la médaille d'un retraité. On l'a, parce qu'on **continue**. Et le jour où l'on cesse de continuer, on l'a eu — ce qui est une autre forme de dignité, mais une autre.
 
-> *« Un Titre Céleste, ce n'est pas ce qu'on a gagné. C'est ce qu'on tient encore. »*
+> *« Une Consécration, ce n'est pas ce qu'on a gagné. C'est ce qu'on tient encore. »*
 >
 > *— Eslin Vael, célébrante du Concordat, Cendara*
 

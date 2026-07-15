@@ -23,7 +23,7 @@ needs_review_for: [équilibrage-foi-vs-voie, signatures-prêtres-par-religion-ph
 # 🛐 Prêtre — Archétype Métier
 
 > [!info] Entités tutélaires canoniques
-> Le Prêtre canalise principalement **[[Cosmologie|Spiritus]]** (Cosmique — *Druide des esprits*) selon la religion vénérée. Selon la foi, il invoque aussi : **Aurion** (Céleste, énergies éthérées), **Aerion** (Cosmique, vents), **Noctis** (Éternel, ombres), **Vortex** (Cosmique, tempêtes), **Cura** (Céleste, soin mystique), **Mythica** (Céleste, soin créatures), **Ancestralis** (Céleste, esprits ancestraux). Voir [[Cosmologie]] §"Liste canonique des entités cosmiques". Source : `AccessExport/Legende.csv` (D-COSMO-LEGENDE-CSV-INTEGRATION).
+> Le Prêtre canalise principalement **[[Cosmologie|Spiritus]]** (Cosmique — *Druide des esprits*) selon la religion vénérée. Selon la foi, il invoque aussi : **Aurion** (Cosmique, énergies éthérées), **Aerion** (Cosmique, vents), **Noctis** (Éternel, ombres), **Vortex** (Astral, tempêtes), **Cura** (Céleste, soin mystique), **Mythica** (Céleste, soin créatures), **Ancestralis** (Céleste, esprits ancestraux). Voir [[Cosmologie]] §"Liste canonique des entités cosmiques". Source : `AccessExport/Legende.csv` (D-COSMO-LEGENDE-CSV-INTEGRATION).
 
 > *"Je ne demande pas aux dieux. Je traduis. Le mortel parle, l'entité écoute — quand elle écoute. Ma vie est dans cet 'quand'."*
 > — **Hierona Cendara**, Ignitari de Pyrtara

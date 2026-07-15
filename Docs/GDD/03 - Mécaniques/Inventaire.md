@@ -275,7 +275,7 @@ Un voyageur dont le sac est plein de fragments d'Ignis pétrifiés, de potions �
 
 Cette résonance n'est pas une affaire d'optimisation. Elle est trop ténue pour qu'on la **vise**. Mais elle existe, et elle fait que ton sac, à Hybelior, n'est jamais seulement un sac — c'est aussi un **portrait** que le monde lit en filigrane.
 
-Pour la philosophie complète de l'Accord : voir [[L'Accord]]. Pour les conditions cachées qui peuvent récompenser certaines collections : voir [[L'Accord]] §"Les Titres Célestes" et [[Le Souffle]] §"Pour ceux qui le comprennent".
+Pour la philosophie complète de l'Accord : voir [[L'Accord]]. Pour les conditions cachées qui peuvent récompenser certaines collections : voir [[L'Accord]] §"Les Consécrations" et [[Le Souffle]] §"Pour ceux qui le comprennent".
 
 ---
 

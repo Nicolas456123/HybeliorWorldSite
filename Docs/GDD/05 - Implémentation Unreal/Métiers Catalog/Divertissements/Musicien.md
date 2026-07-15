@@ -152,7 +152,7 @@ Hybelior reconnaît trois familles d'instruments : **cordes** (luth, vièle, har
 | Contexte | Effet |
 |----------|-------|
 | **Ère [[Les Ères|Verdoiement]] (Terranu)** | Festivals saisonniers x2, demande accrue |
-| **Ère [[Les Ères|Sommeil de Glace]] (Climata)** | Spectacles d'intérieur (taverne, salle), tempo plus mélancolique valorisé |
+| **Ère [[Les Ères|Sommeil de Glace]] (Aquor)** | Spectacles d'intérieur (taverne, salle), tempo plus mélancolique valorisé |
 | **Ère [[Les Ères|Vents]] (Aerion)** | Instruments à vent +20% effet, musiciens itinérants avantagés |
 | **Ère [[Les Ères|Ombre Longue]] (Noctis)** | Mélodies nocturnes, répertoire Noctari débloqué |
 | **Post-[[Le Souffle]] semaine 1** | Demande x3 (la communauté guérit par la musique) |

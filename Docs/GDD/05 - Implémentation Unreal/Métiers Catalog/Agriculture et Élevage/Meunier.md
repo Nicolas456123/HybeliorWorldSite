@@ -125,7 +125,7 @@ Le **Meunier** transforme les céréales brutes (récoltées par l'[[Agriculteur
 | Contexte | Effet |
 |----------|-------|
 | **Ère [[Les Ères|Verdoiement]] (Terranu)** | +20% rendement, céréales abondantes, prix farine baisse |
-| **Ère [[Les Ères|Sommeil de Glace]] (Climata)** | -30% rendement, focus farines de conservation, prix x1.5 |
+| **Ère [[Les Ères|Sommeil de Glace]] (Aquor)** | -30% rendement, focus farines de conservation, prix x1.5 |
 | **Ère [[Les Ères|Vents]] (Aerion)** | Moulins à vent +40% débit, recette "Farine du Voyageur" |
 | **Post-[[Le Souffle]] semaine 1** | Rouille -15% : mouture irrégulière, plus d'échecs |
 | **[[L'Accord]] ≥ 75%** | Recette de farine d'ère débloquée |

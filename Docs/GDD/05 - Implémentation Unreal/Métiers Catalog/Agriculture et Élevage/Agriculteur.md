@@ -131,7 +131,7 @@ L'**Agriculteur** est la **base nutritive** d'Hybelior — celui qui produit **c
 | Contexte | Effet |
 |----------|-------|
 | **Ère [[Les Ères|Verdoiement]] (Terranu)** | +50% rendement, semences abondantes, fruits exceptionnels |
-| **Ère [[Les Ères|Sommeil de Glace]] (Climata)** | -40% rendement, focus cultures résistantes (seigle, chou) |
+| **Ère [[Les Ères|Sommeil de Glace]] (Aquor)** | -40% rendement, focus cultures résistantes (seigle, chou) |
 | **Ère [[Les Ères|Vents]] (Aerion)** | Pollinisation excellente, récoltes balayées si tempête |
 | **Ère [[Les Ères|Brume Mortelle]]** | Cultures contaminées, opportunités cultures variants |
 | **Ère [[Les Ères|Feu Endormi]] (Eldoria)** | Sécheresses, irrigation requise |

@@ -126,7 +126,7 @@ Distinct du [[Chasseur de trésors]] (qui fouille avec contexte historique, cibl
 | Contexte | Effet |
 |----------|-------|
 | **Ère [[Les Ères\|Verdoiement]] (Terranu)** | Filons frais, +20% rendement minerai |
-| **Ère [[Les Ères\|Sommeil de Glace]] (Climata)** | Glace bouche les galeries, mais expose des veines polaires |
+| **Ère [[Les Ères\|Sommeil de Glace]] (Aquor)** | Glace bouche les galeries, mais expose des veines polaires |
 | **Ère [[Les Ères\|Vents]] (Aerion)** | Aération naturelle, baisse risque gaz |
 | **Ère [[Les Ères\|Brume Mortelle]]** | Veines cosmiques exposées (gemmes uniques), risque de contamination |
 | **Post-[[Le Souffle]]** | Nouvelles veines apparaissent, anciennes disparaissent — pic d'activité de prospection |

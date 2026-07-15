@@ -334,7 +334,7 @@ Un Maître Enchanteur peut **dissocier** le Talisman du pacte (rite de purgation
 - [[Amulette]] — slot cou alternatif
 - [[Économie]] §Catégorie 3
 - [[Le Lien]] §Pactes — mécanique de pacte cosmique
-- [[Cosmologie]] §Sièges Éthérés — *Talos* (talismans) concerné
+- Consécration *Talos* (talismans) — honneur mortel lié à une entité, jamais un siège cosmique (cf. [[L'Accord]] ; entités : [[Cosmologie]] §Les rangs inférieurs)
 - [[Le Souffle]] / [[L'Accord]]
 - [[Foedus Animae]] — transmission Talisman post-mort
 

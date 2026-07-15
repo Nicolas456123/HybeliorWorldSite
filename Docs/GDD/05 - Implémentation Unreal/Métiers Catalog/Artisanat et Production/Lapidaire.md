@@ -191,7 +191,7 @@ Le **Lapidaire** transforme un caillou opaque en pierre lumineuse. Il **lit** la
 |-----|-------------------------|
 | **Cieux Lus** (Stellaris) | Gemmes astrales d'Astravia bonifiées, +25% qualité cristaux à propriétés optiques |
 | **Feu Endormi** (Eldoria) | Rubis et grenat (gemmes feu) +20% qualité |
-| **Sommeil de Glace** (Climata) | Diamant (gemme froide) +20% qualité, taille plus stable (vibrations amorties) |
+| **Sommeil de Glace** (Aquor) | Diamant (gemme froide) +20% qualité, taille plus stable (vibrations amorties) |
 | **Verdoiement** (Terranu) | Émeraude +20% qualité |
 | **Brume Mortelle** (Umbra) | Gemmes sombres (onyx, obsidienne) bonifiées |
 | **Échos Brisés** (Tempora) | Taux éclatement doublé (vibrations parasites) |

@@ -135,7 +135,7 @@ Le Dresseur est distinct du [[Chasseur de créature]] (qui **abat** pour le loot
 | Contexte | Effet |
 |----------|-------|
 | **Ère [[Les Ères\|Verdoiement]] (Terranu)** | +20% spécimens disponibles, faune luxuriante |
-| **Ère [[Les Ères\|Sommeil de Glace]] (Climata)** | Faune diminuée, mais variants de glace apparaissent |
+| **Ère [[Les Ères\|Sommeil de Glace]] (Aquor)** | Faune diminuée, mais variants de glace apparaissent |
 | **Ère [[Les Ères\|Vents]] (Aerion)** | Aviens +30% disponibilité, sessions montagneuses |
 | **Ère [[Les Ères\|Brume Mortelle]]** | Variants morbides apprivoisables (haut risque) |
 | **Post-[[Le Souffle]]** | Variants apparaissent — pic de demande d'experts |

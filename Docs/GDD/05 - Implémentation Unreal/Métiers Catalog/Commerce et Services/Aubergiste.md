@@ -121,7 +121,7 @@ L'**Aubergiste** est le **maître de la nuit et du matin** d'Hybelior — vendeu
 | Contexte | Effet |
 |----------|-------|
 | **Ère [[Les Ères|Verdoiement]] (Terranu)** | Petit-déj copieux, fréquentation +20%, Labeur regen +10% bonus |
-| **Ère [[Les Ères|Sommeil de Glace]] (Climata)** | Bois de chauffage cher, prix +30%, fréquentation +30% (besoin chaleur) |
+| **Ère [[Les Ères|Sommeil de Glace]] (Aquor)** | Bois de chauffage cher, prix +30%, fréquentation +30% (besoin chaleur) |
 | **Ère [[Les Ères|Vents]] (Aerion)** | Caravanes nombreuses, étables pleines, marges étables x2 |
 | **Ère [[Les Ères|Brume Mortelle]]** | Sécurité critique, prix gardiens +50%, bains rares |
 | **Ère [[Les Ères|Ombre Longue]] (Noctis)** | Auberges fortifiées, ouverture précoce, [[Noctari]] discrets |

@@ -144,7 +144,7 @@ Métier **itinérant** par nature : un jongleur tient rarement boutique. Il suit
 | Contexte | Effet |
 |----------|-------|
 | **Ère [[Les Ères|Verdoiement]] (Terranu)** | Festivals abondants, demande x2, places ouvertes |
-| **Ère [[Les Ères|Sommeil de Glace]] (Climata)** | Spectacles d'intérieur uniquement, demande baisse mais qualité monte (concentration sociale) |
+| **Ère [[Les Ères|Sommeil de Glace]] (Aquor)** | Spectacles d'intérieur uniquement, demande baisse mais qualité monte (concentration sociale) |
 | **Ère [[Les Ères|Vents]] (Aerion)** | Acrobatie aérienne valorisée, costume volant +10% effet visuel |
 | **Ère [[Les Ères|Brume Mortelle]]** | Spectacles raréfiés (rassemblements limités), troupes itinérantes en péril |
 | **Post-[[Le Souffle]] semaine 1** | Demande de divertissement x3 (la communauté a besoin de respirer) |

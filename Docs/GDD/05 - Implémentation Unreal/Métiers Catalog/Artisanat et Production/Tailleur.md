@@ -198,7 +198,7 @@ Le **Tailleur** mesure, coupe, assemble, brode, finit des vêtements. Il fournit
 | Ère | Effet |
 |-----|-------|
 | **Verdoiement** (Terranu) | Tissus végétaux abondants, +20% qualité |
-| **Sommeil de Glace** (Climata) | Demande capes/fourrures +50% |
+| **Sommeil de Glace** (Aquor) | Demande capes/fourrures +50% |
 | **Vents** (Aerion) | Capes voyage bonifiées |
 | **Brume Mortelle** (Umbra) | Vêtements *Pourpres*, immunité brume |
 | **Présages** (Fatum) | Tenues cérémonielles bonifiées |

@@ -135,7 +135,7 @@ Modulateurs :
 | **Eldoria (Feu Endormi)** | Plats dorés, magnitude buffs ×2 jour |
 | **Vents** (Aerion) | Recettes voyageurs, cuisine itinérante |
 | **Brume Mortelle** (Umbra) | Demande pains/plats rituels, ambiance peur ; ENFJ symbolique fort |
-| **Sommeil de Glace** (Climata) | Plats chauds réchauffants, soupes longues |
+| **Sommeil de Glace** (Aquor) | Plats chauds réchauffants, soupes longues |
 
 ENFJ N : "Cette Ère demande des saveurs nouvelles" ; ESFJ S : "Mon plat reste mon plat."
 

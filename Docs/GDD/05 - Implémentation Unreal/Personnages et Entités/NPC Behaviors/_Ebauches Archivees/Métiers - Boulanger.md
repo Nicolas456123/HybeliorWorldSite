@@ -127,7 +127,7 @@ needs_review_for: [concepts-fondamentaux, modulation-mbti-boulanger, recettes-pa
 | Ère type | Effet |
 |----------|-------|
 | Verdoiement (Terranu) | Récolte céréales abondante, +20% production |
-| Sommeil de Glace (Climata) | Céréales rares, focus pains de conservation, prix x1.3 |
+| Sommeil de Glace (Aquor) | Céréales rares, focus pains de conservation, prix x1.3 |
 | Vents (Aerion) | Rumeurs, chants en cuisine, recette "Pain du Voyageur" |
 | Brume Mortelle | Ouverture limitée, peur, pains rituels |
 

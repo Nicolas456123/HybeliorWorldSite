@@ -136,7 +136,7 @@ Distinct du [[Pêcheur]] (qui exploite la mer mais ne la traverse pas longuement
 |----------|-------|
 | **Ère [[Les Ères\|Vents]] (Aerion)** | +30% vitesse maritime, navigation aérienne facilitée (Phase 4) |
 | **Ère [[Les Ères\|Verdoiement]] (Terranu)** | Mers calmes, vents stables, +15% sécurité |
-| **Ère [[Les Ères\|Sommeil de Glace]] (Climata)** | Routes nordiques bloquées par les glaces, ouverture de routes spéciales |
+| **Ère [[Les Ères\|Sommeil de Glace]] (Aquor)** | Routes nordiques bloquées par les glaces, ouverture de routes spéciales |
 | **Ère [[Les Ères\|Brume Mortelle]]** | Brouillards permanents, navigation à l'instinct, danger accru |
 | **Post-[[Le Souffle]]** | Routes maritimes altérées (courants modifiés, îles déplacées) — pic d'activité |
 | **[[L'Accord]] ≥ 75%** | Navigation cosmique débloquée (atteindre [[Baelor - Continent|Baelor]], [[Azoria - Continent|Azoria]]) |

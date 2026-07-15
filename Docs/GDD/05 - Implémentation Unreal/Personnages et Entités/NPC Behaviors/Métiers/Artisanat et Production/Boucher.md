@@ -130,7 +130,7 @@ Modulateurs :
 ### 6.5 Souffle / changement d'Ère
 
 - **Verdoiement** (Terranu) : abondance bétail, prix -20%, plus de qualité
-- **Sommeil de Glace** (Climata) : viande conservée naturellement, focus salaisons longues
+- **Sommeil de Glace** (Aquor) : viande conservée naturellement, focus salaisons longues
 - **Ombre Longue** (Noctis) : peu d'effet sauf rumeurs créatures bizarres
 - **Échos Brisés** (Tempora) : carcasses étranges (créatures hybrides), méfiance Boucher
 

@@ -95,19 +95,19 @@ Chacun a sa voix, son domaine, sa manière de s'inscrire dans la Polyphonie. Cer
 
 ---
 
-## Les Célestes — quand un mortel devient voix
+## Les rangs inférieurs — Célestes, Astraux, Éthérés
 
-Sous les Cosmiques, il y a un seuil. C'est le seuil des **Célestes**. Et ce seuil, à la différence des deux étages au-dessus, n'est pas étanche : il peut être franchi par un mortel.
+Sous les Cosmiques, la Polyphonie continue de se ramifier en voix de plus en plus proches du monde, mais toujours **natives** : ce sont des entités, jamais des mortels. On les range en trois degrés décroissants. Les **Célestes** sont les plus proches des Cosmiques — des voix amples et rares, dont chacune tient un pan du réel. Sous eux, les **Astraux**, plus nombreux, plus spécialisés. Sous eux encore, les **Éthérés** : les esprits-gardiens des lieux, la flamme d'un foyer, la mémoire d'une source — les voix les plus menues, les plus attachées à un endroit précis du monde.
 
-C'est là l'une des promesses les plus singulières d'Hybelior. Un homme, une femme, peuvent — par un cheminement long, exigeant, jamais garanti — devenir une **voix** dans la Polyphonie. Non pas un dieu (le mot est trop pauvre, trop inexact), mais un **siège tenu** dans le grand chœur cosmique. Un Céleste est un mortel qui a porté son Accord avec le monde à un degré tel que la Polyphonie elle-même lui ouvre une place. Cette place, il l'occupe tant qu'il s'y tient. Il peut être défié. Il peut tomber. Mais tant qu'il s'y tient, sa voix entre dans la composition, et le monde, par lui, dit quelque chose qu'il n'aurait pas pu dire sans lui.
+Il faut le dire nettement, car les traditions populaires l'oublient : **aucun mortel ne devient l'une de ces voix.** La Polyphonie n'a pas de siège vacant qu'un homme viendrait occuper. Ce qu'un mortel peut faire, c'est *s'accorder* — porter sa résonance avec le monde à un degré tel qu'une voix le traverse plus clairement que les autres (voir [[L'Accord]]). Mais s'accorder n'est pas monter : le plus grand des accordés reste un mortel, une bouche par où le monde passe, jamais une voix qui compose.
 
-Les sièges Célestes ont des noms, et ces noms désignent des domaines. **Arcana** est la voix de la connaissance arcane ; **Forgion** celle de l'enchantement d'armes ; **Cura** celle de la guérison ; **Asterion** celle de la cartographie céleste ; **Explorator** celle de la découverte. Il en existe d'autres, certains vacants depuis si longtemps que personne ne se souvient du dernier qui les a portés. Les détails de ces sièges, des conditions pour y prétendre, des épreuves pour les conquérir, appartiennent au domaine de [[L'Accord]] — c'est là qu'on apprend à devenir une voix.
+Certaines de ces entités ont pourtant laissé leur nom à des **honneurs mortels**. Quand une tradition consacre un maître guérisseur « voix de Cura », un forgeron d'exception « main de Forgion », un cartographe « œil d'Asterion », elle ne l'élève pas au ciel : elle reconnaît, sur terre, qu'il a servi le domaine de cette entité mieux qu'aucun autre de son temps. Le titre est un hommage, pas un trône — et il se perd avec l'homme qui l'a porté.
 
-Ce qu'il faut retenir ici est plus simple, et plus grand. **Hybelior n'est pas un monde où les dieux décident et où les mortels obéissent.** Hybelior est un monde où la conversation cosmique est ouverte, et où ceux qui apprennent à s'y inscrire peuvent, à terme, en devenir les contributeurs. Cette idée seule justifierait tout le reste.
+Ce qu'il faut retenir est plus simple, et plus grand. **Hybelior n'est pas un monde où les dieux décident et où les mortels obéissent** — mais ce n'est pas non plus un monde où les mortels deviennent dieux. C'est un monde où la conversation cosmique est ouverte à l'écoute : ceux qui apprennent à s'y accorder ne prennent pas place dans le chœur, ils apprennent à le laisser parler par eux. Cette idée seule justifierait tout le reste.
 
-> *« Le jour où un de nous s'est assis sur un siège Céleste, j'ai compris que les Cosmiques nous écoutaient. Non parce qu'ils nous le devaient, mais parce qu'il y avait, désormais, parmi eux, quelqu'un qui parlait notre langue. »*
+> *« On m'a demandé si l'accordé devient un dieu. Non. Il devient l'endroit le plus clair où le dieu se laisse entendre. Ce n'est pas moins ; c'est autre chose. »*
 >
-> *— Veyana de Caeloria, prêtresse de l'Ordo Caelum, à propos de la consécration de Forgion*
+> *— Veyana de Caeloria, prêtresse de l'Ordo Caelum*
 
 ---
 
@@ -161,7 +161,7 @@ Il existe, au plus profond de la mémoire cosmique d'Hybelior, le souvenir d'un 
 
 Personne ne sait exactement ce qui a été promis. Personne ne sait à quelles conditions le Pacte tient encore. Les Rota Mundi disent qu'il se renouvelle à chaque grande révolution cosmique. Les Foedus Animae prétendent que les serments mortels sont des reflets minuscules du Pacte originel, et qu'on l'honore en honorant ses propres promesses. Les Catena Fracta, ces sectaires post-Cardinal qui rejettent tout, soutiennent que le Pacte a été rompu jadis et que tout ce qu'on appelle réalité n'est que le débris d'un accord disparu. Aucune lecture n'a vaincu. Aucune ne vaincra. C'est sans doute mieux ainsi : un Pacte dont on connaîtrait tous les termes serait un contrat, et le monde mérite plus qu'un contrat.
 
-Ce qu'il faut retenir, simplement, est ceci : **le monde tient parce qu'il a été promis**. Pas par un dieu, pas par une volonté unique, pas par un calcul. Par un consentement plural, fragile, perpétuellement à renouveler. Et chaque mortel qui s'accorde au monde, chaque mortel qui prie une religion, chaque mortel qui s'élève vers un siège Céleste, contribue, à sa minuscule échelle, à tenir ce Pacte. Quand on dit qu'à Hybelior **rien n'est anodin**, c'est cela qu'on dit.
+Ce qu'il faut retenir, simplement, est ceci : **le monde tient parce qu'il a été promis**. Pas par un dieu, pas par une volonté unique, pas par un calcul. Par un consentement plural, fragile, perpétuellement à renouveler. Et chaque mortel qui s'accorde au monde, chaque mortel qui prie une religion, chaque mortel qui gagne une Consécration, contribue, à sa minuscule échelle, à tenir ce Pacte. Quand on dit qu'à Hybelior **rien n'est anodin**, c'est cela qu'on dit.
 
 > *« Il n'y a pas d'origine. Il y a une promesse. Et tant qu'il y aura quelqu'un pour la tenir, il y aura un monde. »*
 >

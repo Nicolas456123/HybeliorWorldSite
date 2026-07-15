@@ -235,7 +235,7 @@ L'**Enchanteur d'objet** trace des **runes/glyphes** sur un item, lit la matièr
 |-----|-------|
 | **Verdoiement** (Terranu/Spiritus) | +25% efficacité enchantements vie/nature |
 | **Feu Endormi** (Eldoria/Ignis) | +25% Ignis, +10% chance affixe rare |
-| **Sommeil de Glace** (Climata/Aquor) | +25% Aquor |
+| **Sommeil de Glace** (Aquor) | +25% Aquor |
 | **Brume Mortelle** (Umbra) | Recettes obscures débloquées |
 | **Ombre Longue** (Noctis) | Recettes Voie de Noctis débloquées |
 | **Échos Brisés** (Tempora) | Enchantements *Spectraux* (l'effet survit 5s après retrait) |
