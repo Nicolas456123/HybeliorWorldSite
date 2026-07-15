@@ -23,7 +23,7 @@ needs_review_for: [équilibrage-mono-voie-playtest, signatures-par-voie-phase4]
 # 🔮 Mage — Archétype Métier
 
 > [!info] Entités tutélaires canoniques
-> Selon la Voie : **[[Cosmologie|Aurion]]** (Céleste — *Maître des énergies éthérées*), **[[Cosmologie|Aerion]]** (Cosmique — vents), **[[Cosmologie|Vortex]]** (Cosmique — tempêtes cosmiques), **[[Cosmologie|Etherius]]** (Cosmique — *Sage de l'éther*, influence subtile), **[[Cosmologie|Aetheron]]** (Cosmique — éther universel). Voir [[Cosmologie]] §"Liste canonique des entités cosmiques". Source : `AccessExport/Legende.csv` (D-COSMO-LEGENDE-CSV-INTEGRATION).
+> Selon la Voie : **[[Cosmologie|Aurion]]** (Cosmique — *Maître des énergies éthérées*), **[[Cosmologie|Aerion]]** (Cosmique — vents), **[[Cosmologie|Vortex]]** (Astral — tempêtes cosmiques), **[[Cosmologie|Etherius]]** (Astral — *Sage de l'éther*, influence subtile), **[[Cosmologie|Aetheron]]** (Astral — éther universel). Voir [[Cosmologie]] §"Liste canonique des entités cosmiques". Source : `AccessExport/Legende.csv` (D-COSMO-LEGENDE-CSV-INTEGRATION).
 
 > *"Je ne lance pas de sorts. Je laisse passer une force plus grande que moi à travers ma chair, et j'apprends à ne pas me consumer en chemin."*
 > — **Veylar de l'Aurion**, mage-itinérant d'Astravia
@@ -164,7 +164,7 @@ Le Mage est défini par **sa Voie active** — c'est l'axe identitaire central d
 - **Apprentissage** — maîtriser le sort Mineur, comprendre le coût Mana, le timing.
 - **Élargissement** — débloquer les sorts Standard, fréquenter un Sanctuaire de Voie, parfois un mentor PNJ.
 - **Reconnaissance** — devenir un *Lié reconnu* dans une région ou une faction (Conclave d'Astravia, Cercle de Voie local, ordre religieux).
-- **Maîtrise** — sort Apex maîtrisé, **Œuvre signée** de Voie, parfois nomination à un siège Éthéré (cf. [[Cosmologie]] §Sièges, sièges *Arcana*, *Luxa*).
+- **Maîtrise** — sort Apex maîtrisé, **Œuvre signée** de Voie, parfois une **Consécration** liée à une entité (honneur mortel, jamais un siège cosmique — cf. [[L'Accord]] ; entités : [[Cosmologie]] §Les rangs inférieurs ; ex. *Arcana*, *Luxa*).
 - **Lien profond** 🔒 — fusion partielle avec l'entité. Rare et risquée. Peut transformer le personnage (changements physiques, longévité accrue, marques d'entité).
 
 **Réseau** : Liés de la même Voie (cercles de soutien), Liés de Voies affines (synergies combat — voir [[Le Lien]] §Réactions), [[Enchanteur d'objet]] (clients pour cristaux), [[Bibliothécaire]] (grimoires).
@@ -178,7 +178,7 @@ Le Mage est défini par **sa Voie active** — c'est l'axe identitaire central d
 > Source canonique : `Role.csv` (cat 8, role n°33).
 
 - **Description** : titre canonique du palier 5 — Mage reconnu comme l'autorité absolue d'une Voie ou d'un cercle. Maîtrise au moins 1 sort Apex, possède une Œuvre signée et siège souvent à un Conclave.
-- **Conditions** : palier Maître + ≥ 1 Voie maîtrisée à fond + 1 Œuvre signée déposée + Reconnaissance ≥ Expert + 🔒 condition cachée (Lien profond OU nomination à un siège Éthéré).
+- **Conditions** : palier Maître + ≥ 1 Voie maîtrisée à fond + 1 Œuvre signée déposée + Reconnaissance ≥ Expert + 🔒 condition cachée (Lien profond OU **Consécration** liée à une entité).
 - **Notes** : équivalent direct de la *Maîtrise* dans la progression spirituelle (§8). Figure de référence pour les apprentis Liés.
 
 #### Sous-spécialisation Maître+ : Chef de tour de mage

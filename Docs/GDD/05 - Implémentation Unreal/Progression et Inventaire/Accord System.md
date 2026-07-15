@@ -73,15 +73,15 @@ Pour les Liés (voir [[Le Lien]]) :
 
 ---
 
-## Titres Célestes — exigences d'Accord
+## Consécrations — exigences d'Accord
 
-Les Titres Célestes (voir [[Cosmologie]]) sont les sommets prestigieux du jeu.
+Les Consécrations (honneurs mortels nommés d'après une entité — voir [[L'Accord]] et [[Cosmologie]]) sont les sommets prestigieux du jeu : elles se tiennent tant que l'Accord tient, jamais comme une place dans la Polyphonie.
 
 | Règle | Valeur |
 |---|---|
-| Acquisition | Accord 100% pendant l'ère où le Titre est revendiqué |
+| Acquisition | Accord 100% pendant l'ère où la Consécration est revendiquée |
 | Conservation | Accord ≥ 80% à chaque Souffle (mesure prise au moment du Souffle) |
-| Perte | Accord < 80% au moment du Souffle → Titre Céleste retiré |
+| Perte | Accord < 80% au moment du Souffle → Consécration retirée |
 | Récupération | Re-acquérable lors d'une ère ultérieure si conditions remplies |
 
 ---
@@ -117,9 +117,9 @@ Référence pour calibrage (Accord_actuel = 100% en entrée) :
 
 | Cas | Ère N → Ère N+1 | Similarité | Accord cible |
 |---|---|---|---|
-| Très proche | Verdoiement (Terranu / Floraison) → Pousse Lente (Terranu / Stagnation) | 0.85 | 85% |
+| Très proche | Verdoiement (Spiritus / Floraison) → Pousse Lente (Spiritus / Stagnation) | 0.85 | 85% |
 | Modéré | Crépuscule (Tempora / Bouleversement) → Voile (Tempora-Noctis / Bouleversement) | 0.55 | 55% |
-| Très éloigné | Verdoiement (Terranu / Floraison) → Sommeil de Glace (Climata / Dégénérescence) | 0.15 | 15% |
+| Très éloigné | Verdoiement (Spiritus / Floraison) → Sommeil de Glace (Aquor / Stagnation) | 0.15 | 15% |
 | Extrême | Feu Endormi → Brume Mortelle | 0.05 | 5% |
 
 ---
@@ -231,7 +231,7 @@ Affiché en sous-titre d'identité PJ, visible par les autres joueurs via examen
 - ✅ 5 paliers d'effets (0–25 / 25–50 / 50–75 / 75–100 / 100)
 - ✅ Pas de reset au Souffle — dérive cinétique 2–4 semaines vers `Accord_cible`
 - ✅ Similarité vectorielle pondérée sur 6 dimensions (poids 0.30 / 0.20 / 0.15 / 0.10 / 0.10 / 0.15)
-- ✅ Titres Célestes : 100% requis pour acquisition, perte si <80% au Souffle
+- ✅ Consécrations : 100% requis pour acquisition, perte si <80% au Souffle
 - ✅ Voie : ±10% efficacité selon Accord ≥75% / ≤25%
 - ✅ Sources multiples (>100% disponible) pour personnaliser trajectoire
 - ✅ Compteur "Ères Concordées" permanent, jamais décrémenté
@@ -247,7 +247,7 @@ Affiché en sous-titre d'identité PJ, visible par les autres joueurs via examen
 | [[Les Ères]] | Fournit le vecteur 6-dimensions utilisé par la similarité |
 | [[Le Lien]] | Bonus/malus efficacité Voie selon Accord |
 | [[Personnage]] | +1 slot action et +1 Focus aux paliers 50% et 75% |
-| [[Cosmologie]] | Titres Célestes verrouillés derrière Accord 100% |
+| [[Cosmologie]] | Consécrations verrouillées derrière Accord 100% |
 | [[Univers]] (Déliés) | Path antagoniste si refus actif d'Accord |
 | [[Quest System]] | Quêtes d'ère = sources principales d'Accord |
 | [[Prédiction]] | Bourse des Augures donne crédit aux Concordants connus |
@@ -273,7 +273,7 @@ Affiché en sous-titre d'identité PJ, visible par les autres joueurs via examen
 - [ ] Cap à 100% avec sources >100% — le joueur ressent-il du choix, ou de la frustration de "perdre" du surplus ?
 - [ ] Cinétique de dérive 2–4 sem — trop lent / juste / trop rapide ?
 - [ ] Poids de similarité (0.30/0.20/0.15/0.10/0.10/0.15) — équilibre entre force dominante et autres dimensions
-- [ ] Seuil 80% pour Titres Célestes — punitif ou stimulant ?
+- [ ] Seuil 80% pour les Consécrations — punitif ou stimulant ?
 - [ ] +10/-10% efficacité Voie — différence sentie ou marginale ?
 - [ ] Sources +10/+15/+20% — équilibre entre les types d'objectifs
 - [ ] Crédit Bourse des Augures pour Concordants — abus économique ?

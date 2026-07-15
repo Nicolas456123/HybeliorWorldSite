@@ -170,7 +170,7 @@ Le Guérisseur s'appuie sur **2 Voies principales** (mono-Voie obligatoire) avec
 - **Engagement de Lien** — choix de la Voie (Eldoria ou Spiritus). Souvent accompagné d'un vœu narratif (ne jamais refuser un soin, ne jamais soigner pour de l'argent...)
 - **Service public** — beaucoup de Guérisseurs s'attachent à un temple, un village, ou une expédition d'aventuriers
 - **Reconnaissance** — la **Reconnaissance** (cf. [[Mort]]) monte rapidement chez un Guérisseur honnête, plus qu'auprès de tout autre métier
-- **Maîtrise** — Œuvre signée de soin, parfois nomination au siège Éthéré ***Cura*** (cf. [[Cosmologie]] §Sièges Éthérés)
+- **Maîtrise** — Œuvre signée de soin, parfois la **Consécration** ***Cura*** (honneur mortel lié à l'entité Cura — cf. [[L'Accord]], [[Cosmologie]] §Les rangs inférieurs)
 
 **Réseau** : [[Médecin]] (collaboration terrestre), [[Apothicaire]] (potions), [[Herboriste]] (plantes), [[Prêtre]] (rituels conjoints), [[Mage]] (réactions de Voie), [[Alchimiste]] (potions de soin haut tier).
 

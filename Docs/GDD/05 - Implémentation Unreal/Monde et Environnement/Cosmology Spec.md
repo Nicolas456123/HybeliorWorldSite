@@ -146,28 +146,28 @@ Une entité ne peut **se manifester** (intervention scriptée, événement mondi
 |-----------------------|---------------------|---------------|
 | Apparition d'omen (Éternel) | présence ≥ 0.30 ET événement narratif déclencheur | 1 par mois |
 | Avatar local d'un Cosmique | présence ≥ 0.20 ET continent affinité ≥ 0.50 | 1 par 2 semaines par continent |
-| Intervention directe d'un Céleste | rituel collectif réussi (≥ 50 participants) OU titre Céleste détenu | À la demande, cooldown 7j |
+| Intervention directe d'un Céleste | rituel collectif réussi (≥ 50 participants) OU Consécration liée détenue | À la demande, cooldown 7j |
 | Réveil d'un Éternel silencieux | Souffle Cardinal OU rituel mondial (≥ 1000 participants) | Très rare, scripté |
 | Éveil d'une voix tue (Délié→Lié) | Quête narrative spécifique + Accord ≥ 75 | Cas par cas |
 
 ---
 
-## 6. Mécaniques des Titres Célestes ([[Accord System]])
+## 6. Mécaniques des Consécrations ([[Accord System]])
 
-Les Célestes sont des **mortels élevés** ayant atteint un siège cosmique. Voir [[Accord System]] §"Élévation" pour le système complet.
+Une **Consécration** est un **honneur mortel** nommé d'après une entité (Céleste ou Cosmique) : son porteur devient la « main de Forgion », la « voix de Cura », l'« œil d'Asterion »… Ce n'est **pas** un siège dans le chœur cosmique — aucun mortel ne rejoint la Polyphonie. La Consécration se tient tant que le porteur garde son Accord. Voir [[Accord System]] §"Consécrations" pour le système complet.
 
-### Seuils d'élévation
+### Seuils de Consécration
 
 | Étape | Condition | Récompense |
 |-------|-----------|------------|
-| Candidat Céleste | Accord ≥ 80 ET maîtrise Voie ≥ niv 7 | Titre "Aspirant" + invitation rituel |
-| Élu Céleste | Réussite épreuve cosmique (boss instancié) ET 3 Souffles vécus | Titre "Élu", accès rituel d'élévation |
-| Céleste consacré | Siège vacant disponible ET vote/défi remporté | Titre Céleste permanent + buff signature |
-| Céleste déchu | Accord < 40 pendant 2 Souffles consécutifs | Perte du titre, siège libéré |
+| Candidat | Accord ≥ 80 ET maîtrise Voie ≥ niv 7 | Titre "Aspirant" + invitation rituel |
+| Élu | Réussite épreuve dédiée (boss instancié) ET 3 Souffles vécus | Titre "Élu", accès rite de Consécration |
+| Consacré | Consécration vacante disponible ET vote/défi remporté | Consécration permanente + buff signature (tant que l'Accord tient) |
+| Consécration perdue | Accord < 40 pendant 2 Souffles consécutifs | Perte de la Consécration, honneur rendu disponible |
 
-### Buffs signature des Titres Célestes
+### Buffs signature des Consécrations
 
-| Titre Céleste (exemples) | Domaine | Buff permanent du détenteur |
+| Consécration (exemples) | Domaine | Buff permanent du détenteur |
 |--------------------------|---------|------------------------------|
 | **Arcana** | Savoir mystique | +25 % vitesse identification, accès bibliothèques cachées |
 | **Forgion** | Enchantement d'armes | +15 % qualité enchantement, déblocage recettes uniques |
@@ -175,15 +175,15 @@ Les Célestes sont des **mortels élevés** ayant atteint un siège cosmique. Vo
 | **Asterion** | Cartographie | Carte du monde révélée +50 %, prédiction Souffle améliorée |
 | **Explorator** | Découverte | +25 % loot rare, accès zones cachées |
 
-### Règles de défi de siège
+### Règles de défi de Consécration
 
 ```
 Défi possible si :
-  - Siège occupé depuis ≥ 30 jours
+  - Consécration tenue depuis ≥ 30 jours
   - Challenger : Accord ≥ 75, maîtrise Voie ≥ niv 6
-  - Cooldown défi : 14 jours par challenger par siège
+  - Cooldown défi : 14 jours par challenger par Consécration
 
-Conditions de victoire (propres au siège) — voir Accord System.
+Conditions de victoire (propres à la Consécration) — voir Accord System.
 ```
 
 ---
@@ -269,7 +269,7 @@ Le Pacte Primordial est l'arrière-plan mythologique. Mécaniquement, il déclen
 | [[Souffle System]] | Reconfigure PolyphonyVector à chaque Souffle |
 | [[Era System]] | Consomme EraConfig dérivée de PolyphonyVector |
 | [[Lien System]] | Utilise présence Cosmiques pour bonus/malus Voies |
-| [[Accord System]] | Calcule éligibilité Titres Célestes |
+| [[Accord System]] | Calcule éligibilité Consécrations |
 | [[Global Data Service]] | Stockage/sync PolyphonyVector courant |
 | [[Quest System]] | Biais thématique selon dominante |
 | [[HW Religion Component]] | Gestion réputation, rituels, bonus/malus religieux |
@@ -282,7 +282,7 @@ Le Pacte Primordial est l'arrière-plan mythologique. Mécaniquement, il déclen
 - [ ] Bornes présence Éternels (0.05–0.55) — tonalité d'Ère trop monolithique ou trop diluée ?
 - [ ] Seuils dominante Cosmiques (0.18) — biais quêtes assez visible ?
 - [ ] Modulateurs durée Ère par Polyphonie — perception ressentie ?
-- [ ] Buffs Titres Célestes — pas trop puissants vs joueur sans titre ?
+- [ ] Buffs Consécrations — pas trop puissants vs joueur sans Consécration ?
 - [ ] Stades Délié — viabilité du path antagoniste sans devenir cassé ou inutile ?
 - [ ] Bonus/malus religion par Ère — incite vraiment au switch de pratique ?
 
@@ -295,7 +295,7 @@ Le Pacte Primordial est l'arrière-plan mythologique. Mécaniquement, il déclen
 - Seuil dominante Éternel = 0.35, Cosmique = 0.18
 - Seuil silencieux Éternel < 0.10, Cosmique < 0.05
 - 12 Cosmiques canonisés D-COSMO-4 : Aerion, Aquor, Aurion, Umbra, Spiritus, Fatum, Terranu, Somnix, Ignara, Sanguis, Resonia, Vermis
-- Titres Célestes = sièges Éthérés du canon (Arcana, Forgion, Cura, Asterion, Explorator, etc.)
+- Consécrations = honneurs mortels nommés d'après une entité (Arcana, Forgion, Cura, Asterion, Explorator, etc.), tenus tant que l'Accord tient — jamais un siège dans la Polyphonie
 - 9 religions canoniques + 5 mineures, modulateurs Ère selon présence des entités vénérées
 - Path Délié à 3 stades, immunité partielle compression au prix d'isolement social
 

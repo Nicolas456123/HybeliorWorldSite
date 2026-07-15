@@ -135,7 +135,7 @@ L'Herboriste **n'est pas obligatoirement Lié** — c'est l'une des spécificit�
 | **Initié** | 40 plantes (incluant 10 magiques mineures), récolte propre (échec ~7%), onguents, sachets d'herbes mineurs |
 | **Adepte** | 80 plantes (incluant 20 rares), identification de plantes inconnues (Acuité check), encens rituels (collab Prêtre), proc qualité Magistrale 5% |
 | **Expert** | 150 plantes (incluant variants d'ère [[Les Ères]]), récolte de plantes mythiques (collab Mage de Spiritus pour permission rituelle), production de sève d'or |
-| **Maître** | **Condition cachée 🔒** — Connaissance de **plantes disparues** ([[Le Souffle]] anciens), Œuvre signée (variété signée — fleur unique nommée par sa lignée), siège Éthéré possible (à définir Phase 4 — *Arborius* ?) |
+| **Maître** | **Condition cachée 🔒** — Connaissance de **plantes disparues** ([[Le Souffle]] anciens), Œuvre signée (variété signée — fleur unique nommée par sa lignée), **Consécration** possible (honneur mortel lié à une entité ; à définir Phase 4 — *Arborius* ?) |
 
 > Décroissance : un Herboriste qui ne récolte/cueille plus oublie les plantes rares. Rouille post-Souffle 1 semaine, −15%.
 
@@ -162,7 +162,7 @@ L'Herboriste **n'est pas obligatoirement Lié** — c'est l'une des spécificit�
 - **Établissement** — atelier urbain (clientèle Apothicaire/Alchimiste), ferme botanique (cultures rares), cabane forestière (récolte sauvage premium)
 - **Réseau** — alliances étroites avec [[Apothicaire]] (client direct principal), [[Alchimiste]] (client haut tier), [[Cuisinier]] (épices), [[Prêtre]] (encens), [[Guérisseur]] (plantes médicinales mystiques)
 - **Reconnaissance** — Doyen / Doyenne d'une vallée, parfois nomination religieuse (Vael'Kari)
-- **Maîtrise** — Œuvre signée (variété de plante nommée), parfois siège Éthéré (à définir)
+- **Maîtrise** — Œuvre signée (variété de plante nommée), parfois une **Consécration** (à définir)
 
 ### Sous-spécialisations canoniques (Role.csv)
 

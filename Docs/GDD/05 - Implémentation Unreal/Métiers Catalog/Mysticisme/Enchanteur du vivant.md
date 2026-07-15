@@ -150,7 +150,7 @@ L'Enchanteur du vivant est un **métier-pivot** entre la magie pure et le soin/s
 - **Premier pacte** — un animal sauvage choisit l'Enchanteur (le pacte n'est jamais imposé). Souvent rite de passage à l'âge adulte.
 - **Expansion** — élargissement vers plusieurs créatures, vers les plantes (Bosquets), vers les joueurs/voyageurs (services payants)
 - **Reconnaissance** — Reconnaissance forte chez Vael'Kurash, parfois Foedus Animae (lignées)
-- **Maîtrise** — Œuvre signée de pacte (lignée pacte-créature transmise), parfois nomination au siège Éthéré ***Mythanos*** (Élevage et symbiose, cf. [[Cosmologie]] §Sièges)
+- **Maîtrise** — Œuvre signée de pacte (lignée pacte-créature transmise), parfois la **Consécration** ***Mythanos*** (honneur mortel lié à l'entité — Élevage et symbiose ; cf. [[L'Accord]], [[Cosmologie]] §Les rangs inférieurs)
 
 **Réseau** : [[Dresseur de créature]] (collaboration permanente), [[Herboriste]] (plantes rituelles), [[Berger]] (bénédictions de troupeau), [[Guérisseur]] (rituels conjoints), [[Prêtre]] Vael'Kari ou Animari, [[Mage]] de Spiritus.
 
