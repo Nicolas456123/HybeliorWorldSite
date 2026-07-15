@@ -148,7 +148,7 @@ Le clivage **non-Liés / Liés** (D-COSMO-3 : "non-Lié" pour la majorité démo
 | Anomalie | Observation | Lectures principales |
 |----------|-------------|----------------------|
 | **Enfants aux Yeux Blancs** | Naissances rares dans plusieurs régions, yeux entièrement blancs, perceptions atypiques | *Ignis Aeternum* : Eldoria s'éveille via eux · *Ordo Caelum* : signaux de Stellaris · *Catena Fracta* : sevrage natal · *Cendariens* : rattachement à *Flamara* (rumeur populaire) |
-| **Mont Cendra — Pulsation Ralentie** | Pulsations rythmées depuis ~9 900 ; fréquence en décélération lente (intervalle qui s'allonge) | *Ignis Aeternum* : réveil d'Eldoria · *Cosmologistes Lumasar* : résonance avec le Mont Jumeau (mythe cestarien) · *Vael'Ur* (tradition druidique evertienne marginale) : dialogue entre une « Profondeur Première » et le Mont · *Catena Fracta* : absence d'entité qui résonne dans le vide |
+| **Mont Cendra — Pulsation Accélérée** | Pulsations rythmées depuis ~9 900 ; fréquence en accélération (intervalle qui se resserre : de la saison à la semaine, puis vers le jour) | *Ignis Aeternum* : réveil d'Eldoria · *Cosmologistes Lumasar* : résonance avec le Mont Jumeau (mythe cestarien) · *Vael'Ur* (tradition druidique evertienne marginale) : dialogue entre une « Profondeur Première » et le Mont · *Catena Fracta* : absence d'entité qui résonne dans le vide |
 | **Étoiles mouvantes** (Couronne, Voyageur, Manteau) | Mouvements stellaires inhabituels rapportés par les observatoires | *Ordo Caelum* : Stellaris se reconfigure · *Cercles de Rêves Vytharia* : « les étoiles s'écartent pour laisser passer quelque chose » · *Rota Mundi* : Tempora se rétablit ou se blesse à nouveau (débat interne) |
 | **Failles possiblement mobiles** | Témoignages de Failles ayant changé de position en quelques heures (Alkaran, Onara) | *Rota Mundi* : phase 4 hypothétique du phénomène trois-temps · *Vael'Kurash* : modulation polyphonique sans causalité · sceptiques : témoins isolés, observation à confirmer |
 | **8e Éternel — Folklore** | Chants kharaziens et folklore lumasarien évoquent un *Huitième Éternel* | **Aucune source canonique majeure ne corrobore.** Hypothèse parallèle au « Sixième Éternel » mentionné par certains textes Ère II tardive (Vacuus, l'Innommé, le Résidu — voir [[Era 0 - Le Vide]] §"Contradictions entre sources"). À traiter comme **rumeur in-world non confirmée** alimentant le débat, jamais comme fait acquis. |
@@ -310,17 +310,17 @@ Entités issues des interactions entre Cosmiques. Liste canonique GDD/17 (Pluvia
 
 | Continent | Nations |
 |-----------|---------|
-| **Alkaran** | Altram · Iskara · Ferrath |
+| **Alkaran** | Altram · Iskara · Ferrath · Torkam |
 | **Galenor** | Kharazir · Ventera · Seraphia · Solena · Lumasar · Trinoria · Valoria |
 | **Ilthara** | Drakora · Gryndor · Pyrtara · Vytharia *(+ provinces Lunasar et Mirathi)* |
 | **Endora** | Haldria · Avalor · Sanvara · Endrath |
-| **Celethor** | Astravia · Caeloria · Orvalis · Halcyon *(+ Nysoris, cité-île de Nysaria au large de la côte est — polité insulaire rattachée à Celethor, hors du décompte des 36 nations continentales)* |
+| **Celethor** | Astravia · Orvalis · Halcyon *(+ Nysoris, cité-île de Nysaria au large de la côte est — polité insulaire rattachée à Celethor, hors du décompte des 36 nations continentales)* |
 | **Onara** | Mosrack · Myrtam · Elarath · Tyndara |
-| **Azoria** | Azoral · Kethvar · Solmaris |
+| **Azoria** | Azoral · Kethvar · Solmaris · Caeloria |
 | **Cendara** | Arkhen · Pyrevane |
 | **Evertia** | Thalmaris · Sylvara |
 | **Baelor** | Baelor-Prime |
-| **Ulinor** | Skaldoria · Torkam · Dhalvoria |
+| **Ulinor** | Skaldoria · Dhalvoria |
 | **Cestra** | Noravia *(seule colonie stable, fondée ~9 900 ap.A — bande côtière de 200 km uniquement, intérieur du continent = wildlands)* |
 
 > [!note] Décision D-LORE-NATIONS-CHEVAL
