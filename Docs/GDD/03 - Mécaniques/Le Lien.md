@@ -113,6 +113,26 @@ Pour le détail des entités elles-mêmes, leurs traits, leurs mythes et leur pl
 
 ---
 
+## Le Lien après l'Arrachement — la trame, le fragment, les Voies au Sillage
+
+> Cette page décrit le Lien tel qu'un mortel le pratique **au présent** (le Sillage). Mais le Lien a une histoire, et cette histoire change ce que « une Voie » veut dire.
+
+Ce qu'on appelle aujourd'hui « le Lien » — la connexion d'un mortel à **une** Voie unique — est ce qui **subsiste** d'une chose bien plus vaste. Avant l'Arrachement (An 0), le Lien n'était pas une corde tendue entre un fidèle et une entité : c'était une **trame unique** qui reliait tous les êtres à la fois, la « main tiède » que les chroniques d'après pleurent sans savoir la nommer. À l'An 0, au Premier Ancrage du Mont Cendra, cette trame **rompit**. Ce que fut la *cause* de cette rupture n'est pas établi et ne le sera jamais : les Huit croient l'avoir tranchée, mais le monde — et le Lien mourant lui-même — hésitent entre le geste, une usure, un Souffle Cardinal trop violent, une décision des Éternels, et plusieurs autres lectures qu'aucune n'emporte (voir les six lectures de la [[Frise]] et [[Histoire d'Hybelior]]). Ce qui est sûr, c'est le fait, non sa raison : le Lien cessa d'être une trame. Ce qui en restait — un **fragment** résiduel, porté par une poignée de survivants qu'on appela les **Tisses** (trois sur mille) — s'est, de génération en génération, **remuté** : c'est de cette remutation qu'est née la règle actuelle, *une seule Voie par Lié*. Autrement dit, la **règle de la corde n'est pas une loi éternelle du monde** ; c'est la forme qu'a prise le fragment après la coupure. Au Sillage présent (an 251), près d'un mortel sur trois porte de nouveau un fragment actif du Lien — assez pour qu'on parle, dans plusieurs nations, d'une caste des Liés (voir [[Era 7 - Le Monde Actuel]] et le [[Lexique du Lien à travers les Ères]]).
+
+Cette histoire a une conséquence directe sur les Voies : **toutes ne sonnent plus pareil depuis l'An 0.** Les cinq Voies des Éternels, en particulier, portent la marque de l'Arrachement.
+
+| Voie | État au Sillage | Ce que le Lié éprouve |
+|---|---|---|
+| **Navigor** (passage) | **Inatteignable** depuis l'An 0 — les grands portails sont muets. Des rumeurs de retour courent (« la mer rend », des routes rouvrent), jamais confirmées. | La Voie ne répond presque plus ; les rares qui la tiennent décrivent une porte entrouverte sur du silence. |
+| **Eldoria** (création) | **Silencieuse** — « endormie » ou « en méditation » selon les lectures ; on lui associe la pulsation du Cœur de Cendra. | Guérisons et créations intermittentes, « comme issues d'un sommeil qui parfois rêve ». |
+| **Tempora** (temps) | **Blessé** selon les Rota Mundi (lecture, non fait établi) — origine possible des Failles temporelles. | Une Voie qui hoquette ; apaiser une Faille exige des rites collectifs. |
+| **Celestia** (attention) | **Silence ancien** — n'a jamais répondu qu'en se taisant ; son silence s'est approfondi. | Une présence qui veille sans jamais confirmer qu'elle veille. |
+| **Noctis** (voile) | **En montée** — les nuits s'allongent, les ombres s'épaississent. | La seule des cinq dont la voix *croît* ; les Noctari y voient une faveur. |
+
+Rien de tout cela n'empêche de pratiquer ces Voies — mais un Lié sage sait qu'il canalise, depuis l'An 0, des voix **diminuées ou changées**, et que ce qu'il tient est le fragment d'une trame qui, jadis, tenait le monde entier. Pour la chaîne des noms (Vides, Tisses, non-Liés, Déliés) à travers les Ères, voir le [[Lexique du Lien à travers les Ères]].
+
+---
+
 ## Le Souffle et le Lié
 
 Aucun pratiquant d'Hybelior ne ressent le [[Le Souffle|Souffle]] aussi intensément qu'un Lié. Pour le guerrier, le Souffle est une transition — une rouille brève sur ses outils, une saison qui change. Pour le Lié, c'est un **événement intime**, parce que la voix qu'il porte se met soudain à résonner différemment dans le monde.
