@@ -139,15 +139,15 @@ Aucune de ces lectures n'est la "vraie". Le monde d'Hybelior se permet d'avoir p
 
 ---
 
-## Les Titres Célestes — l'enjeu de tenir l'Accord
+## Les Consécrations — l'enjeu de tenir l'Accord
 
-Au plus haut de cette voie, il y a les **Titres Célestes** — ces distinctions prestigieuses qui marquent un mortel du sceau des plus grands. On ne les obtient pas en accumulant. On les obtient en s'accordant **pleinement** à une Ère, et en tenant cet accord avec assez de constance pour que le monde te reconnaisse comme un de ses enfants exemplaires.
+Au plus haut de cette voie, il y a les **Consécrations** — ces distinctions prestigieuses qui marquent un mortel du sceau des plus grands. Chacune emprunte son nom à une entité dont elle honore le domaine : on est consacré « voix de Cura » pour la guérison, « main de Forgion » pour la forge, « œil d'Asterion » pour la cartographie céleste. Ce n'est pas rejoindre le ciel — **aucun mortel ne prend place dans la Polyphonie** (voir [[Cosmologie]]) ; c'est être reconnu, sur terre, comme celui qui sert ce domaine mieux qu'aucun autre de son temps. On ne les obtient pas en accumulant, mais en s'accordant **pleinement** à une Ère et en tenant cet accord avec assez de constance pour que le monde te reconnaisse.
 
-Un Titre Céleste ne se *campe* pas. C'est précisément ce qui le rend précieux. À chaque Souffle, il faut **tenir** — ne pas laisser son Accord descendre au-dessous d'un seuil critique au moment où la nouvelle Ère s'installe. Si on ne tient pas, le Titre se retire, sans drame, mais sans appel. On reste celui qui l'a porté ; on n'en est plus le porteur actuel. Et il faudra, pour le retrouver, ré-accorder son instrument à la saison suivante.
+Une Consécration ne se *campe* pas. C'est précisément ce qui la rend précieuse. À chaque Souffle, il faut **tenir** — ne pas laisser son Accord descendre au-dessous d'un seuil critique au moment où la nouvelle Ère s'installe. Si on ne tient pas, le titre se retire, sans drame mais sans appel. On reste celui qui l'a porté ; on n'en est plus le porteur actuel. Et il faudra, pour le retrouver, ré-accorder son instrument à la saison suivante.
 
-Cette exigence est volontaire. Elle dit que les sommets d'Hybelior ne sont pas des trophées à poser sur une étagère, mais des **pratiques à entretenir**. Un Titre Céleste, à Hybelior, ressemble plus à la dignité d'un musicien de concert qu'à la médaille d'un retraité. On l'a, parce qu'on **continue**. Et le jour où l'on cesse de continuer, on l'a eu — ce qui est une autre forme de dignité, mais une autre.
+Cette exigence est volontaire. Elle dit que les sommets d'Hybelior ne sont pas des trophées à poser sur une étagère, mais des **pratiques à entretenir**. Une Consécration, à Hybelior, ressemble plus à la dignité d'un musicien de concert qu'à la médaille d'un retraité. On l'a, parce qu'on **continue**. Et le jour où l'on cesse de continuer, on l'a eu — ce qui est une autre forme de dignité, mais une autre.
 
-> *« Un Titre Céleste, ce n'est pas ce qu'on a gagné. C'est ce qu'on tient encore. »*
+> *« Une Consécration, ce n'est pas ce qu'on a gagné. C'est ce qu'on tient encore. »*
 >
 > *— Eslin Vael, célébrante du Concordat, Cendara*
 
