@@ -2,7 +2,7 @@
 tags: [roman, trois-coups, tome-1, partie-1, pov-velkar, pyrion, chasseur]
 type: roman-chapitre
 partie: I
-pov: Velkar (présent — le Bureau des Concordances ; le rapport à brûler, qu'il lit d'abord)
+pov: Verkan (présent — le Bureau des Concordances ; le rapport à brûler, qu'il lit d'abord)
 chapitre: 10
 lieu: Dominat de Pyrion — Bureau des Concordances
 status: draft
@@ -12,17 +12,17 @@ status: draft
 
 Un rapport qui s’arrête n’est pas un rapport silencieux. C’est la première chose qu’on apprend au Bureau des Concordances, avant même de lire une ligne : le silence d’un agent est une phrase, et il faut la lire comme les autres.
 
-Velkar Sorne avait devant lui trois liasses de ce silence. Sur la première, une écriture serrée d’officier, régulière comme un mur bien monté, courait sur des mois, puis cessait, net, au milieu d’une page encore à moitié blanche. Sur la deuxième, plus rien : les canaux du Dominat vides, saison après saison, là où un agent en poste aurait dû verser son grain de nouvelles. Sur la troisième : quarante pages liées d’un cordon, un sceau de capitaine, l’ordre du Préfet-du-Feu agrafé par-dessus en travers, deux mots de sa main : *Au feu.*
+Verkan Sorne avait devant lui trois liasses de ce silence. Sur la première, une écriture serrée d’officier, régulière comme un mur bien monté, courait sur des mois, puis cessait, net, au milieu d’une page encore à moitié blanche. Sur la deuxième, plus rien : les canaux du Dominat vides, saison après saison, là où un agent en poste aurait dû verser son grain de nouvelles. Sur la troisième : quarante pages liées d’un cordon, un sceau de capitaine, l’ordre du Préfet-du-Feu agrafé par-dessus en travers, deux mots de sa main : *Au feu.*
 
 Il n’aimait pas les ordres agrafés en travers. Un ordre qu’on écrit vite, sur le premier coin venu, c’est un homme qui ne veut pas qu’on le voie hésiter.
 
 Le scribe attendait, debout, les mains à plat sur les cuisses. Un jeune homme soigneux, de ceux que le Bureau formait à recopier sans comprendre, ce qui était la meilleure garantie de discrétion et la pire de mémoire.
 
-« Vous avez classé les versements de l’agent Vessa, dit Velkar. Marchande de graines, Celethor. Vous vous souvenez d’elle ?
+« Vous avez classé les versements de l’agent Vessa, dit Verkan. Marchande de graines, Celethor. Vous vous souvenez d’elle ?
 
 — De ses envois, Prime. Pas d’elle. On ne voyait que l’écriture. »
 
-Un bon scribe. Velkar posa un doigt sur la dernière page de la première liasse, à l’endroit où l’encre s’arrêtait.
+Un bon scribe. Verkan posa un doigt sur la dernière page de la première liasse, à l’endroit où l’encre s’arrêtait.
 
 « Dernier versement reçu ici : au début du troisième hiver. Vous confirmez la date ?
 
@@ -40,9 +40,9 @@ Le silence, cette fois, fut plus long. Le jeune homme regardait le cordon comme 
 
 « Je ne sais pas qui l’a apporté, dit-il enfin, et c’était sincère.
 
-— Non. Vous ne savez pas. » Velkar reprit la liasse, la remit d’aplomb sur les deux autres, aligna les bords d’un geste net. « Vous savez seulement ce que le registre vous dit de savoir. C’est le propre d’un bon registre : il ne ment pas, il choisit. Merci. Fermez en sortant. »
+— Non. Vous ne savez pas. » Verkan reprit la liasse, la remit d’aplomb sur les deux autres, aligna les bords d’un geste net. « Vous savez seulement ce que le registre vous dit de savoir. C’est le propre d’un bon registre : il ne ment pas, il choisit. Merci. Fermez en sortant. »
 
-Le scribe sortit. La porte se ferma sur un mécanisme bien huilé, car le Bureau des Concordances n’avait pas de portes qui grincent, une porte qui grince est une confidence, et Velkar resta seul avec les trois silences de l’agent Vessa.
+Le scribe sortit. La porte se ferma sur un mécanisme bien huilé, car le Bureau des Concordances n’avait pas de portes qui grincent, une porte qui grince est une confidence, et Verkan resta seul avec les trois silences de l’agent Vessa.
 
 ---
 
@@ -50,7 +50,7 @@ Son vrai nom, il le connaissait, bien sûr. On ne l’appelait Vessa que dans le
 
 Quatre ans. Deux ans de rapports réguliers, propres, sans une fioriture : l’écriture d’une femme qui rend compte comme on rembourse une dette, au grain près. Puis le mur, net, au milieu d’une page.
 
-On lui avait donné une explication toute prête, en haut. *Prise et exécutée.* Un procès, une chaise vide, une sentence par contumace, l’affaire close. On avait même un rapport d’exécution, quelque part, avec un cachet et une date. Velkar l’avait demandé.
+On lui avait donné une explication toute prête, en haut. *Prise et exécutée.* Un procès, une chaise vide, une sentence par contumace, l’affaire close. On avait même un rapport d’exécution, quelque part, avec un cachet et une date. Verkan l’avait demandé.
 
 Le cachet était bon. La date était ronde : le premier du mois, comme les dates qu’on invente. Et nulle part, dans les trois liasses qu’on lui avait remises pour clore le dossier, il n’y avait la seule chose qu’une exécution laisse toujours : un corps. Un lieu. Un fossoyeur payé. Une fosse marquée. *Prise et exécutée*, disait le papier ; et le papier ne disait pas où, et ne disait pas qui l’avait prise, et ne disait pas qui avait creusé.
 
@@ -62,7 +62,7 @@ Il n’aimait pas qu’on lui demande de fermer un dossier. Fermer, c’est le m
 
 Le Préfet-du-Feu voulait qu’on brûle ces quarante pages.
 
-Velkar tira le cordon.
+Verkan tira le cordon.
 
 ---
 
@@ -74,7 +74,7 @@ Puis le rapport changeait de nature, à la sixième page, sans prévenir, comme 
 
 *On m’a envoyée trouver la pourriture,* écrivait-elle. *Il n’y en a pas. J’ai cherché deux ans. Ce que je rapporte n’est pas ce qu’on m’a demandé, et je sais ce qu’il m’en coûtera.*
 
-Velkar releva les doigts de l’arête de la table.
+Verkan releva les doigts de l’arête de la table.
 
 Il lut le reste comme il lisait tout : non pour se laisser convaincre, un inquisiteur qui se laisse convaincre a manqué sa vocation, mais pour trouver l’endroit où la démonstration triche. Car toute démonstration triche quelque part ; c’était l’axiome de sa vie, le pilier sous la digue. Un homme qui vous mène quelque part par la seule raison vous ment forcément à un tournant, sans quoi il ne vous mènerait pas où vous ne voulez pas aller. Il suffit de trouver le tournant.
 
@@ -82,7 +82,7 @@ Les cinq thèses défilèrent, résumées avec une sécheresse qu’il ne put s�
 
 Restait son propre tournant, celui qu’il gardait pour lui depuis vingt ans, l’argument qui pour lui fermait la question : *le Traité a peut-être raison, et c’est justement pour cela qu’il faut le taire, parce que les vérités les plus séduisantes tuent le plus de monde.* Il chercha si elle l’avait manqué. Elle ne l’avait pas manqué : à la trente-troisième page, dans les mots presque exacts qu’il aurait employés, elle l’avait posé, *on m’objectera qu’une vérité qui tue vaut moins qu’un mensonge qui garde en vie*, et elle avait répondu, non par un tour, mais par une question qu’il n’avait jamais osé se poser à lui-même : *un mensonge qui garde en vie qui ? Les Liés. Et ceux d’en bas ? Ceux qui n’ont pas de Lien, et qu’on tient au second rang par une chose qu’ils n’ont pas choisie ? Le mensonge les garde en vie comme on garde une bête : nourrie, pour qu’elle ait plus peur de la faim que de la corde.*
 
-Velkar reposa la page. Sa fille, à Pyrion, était une de ces bêtes-là. Non-Liée. Une Vide. Nourrie.
+Verkan reposa la page. Sa fille, à Pyrion, était une de ces bêtes-là. Non-Liée. Une Vide. Nourrie.
 
 Il ne laissa pas la pensée s’installer : il avait, sur ses propres pensées, la même discipline que sur une salle d’interrogatoire : on laisse parler celles qui avancent l’enquête, on renvoie les autres à la porte. Celle-là ne faisait pas avancer l’enquête. Elle faisait avancer autre chose, plus bas, qu’il ne nommait pas.
 
@@ -96,7 +96,7 @@ Puis, en dessous, plus petit, comme ajouté après coup, d’une plume qui pour 
 
 *Je n’écris pas ceci parce que je suis sûre. Je ne suis sûre de rien. Je l’écris parce qu’un rapport faux m’est devenu impossible à signer. On a fait de moi un espion pour cela. On me tuera pour cela. Que celui qui lira ces pages sache au moins qu’elles ont été écrites par quelqu’un qui n’avait plus rien à y gagner.*
 
-*Celui qui lira ces pages.* Velkar les avait lues. Celui-là, c’était lui. Elle ne pouvait pas savoir qui la lirait, et pourtant elle lui parlait, à travers deux ans et deux frontières, à lui précisément, l’homme qui avait signé son départ et qu’on chargeait maintenant de l’effacer.
+*Celui qui lira ces pages.* Verkan les avait lues. Celui-là, c’était lui. Elle ne pouvait pas savoir qui la lirait, et pourtant elle lui parlait, à travers deux ans et deux frontières, à lui précisément, l’homme qui avait signé son départ et qu’on chargeait maintenant de l’effacer.
 
 Il resta longtemps immobile, les quarante pages à plat sous sa main, dans la posture de la carte qu’on tient pour qu’elle ne roule pas.
 
@@ -116,7 +116,7 @@ Aelindra voulait sauver ceux d’en bas en coupant le Lien. Lui voulait les sauv
 
 Il tira le brasero à lui. Le Bureau en gardait un allumé jour et nuit : on brûlait beaucoup, au Bureau des Concordances, c’était un métier de feu autant que d’encre.
 
-Le Préfet avait écrit *au feu* en travers. Le Préfet n’avait pas lu. Le Préfet croyait faire brûler un délire de secte, une folie qu’on efface comme on écrase une fleur d’encre sur une carte. Velkar, lui, savait ce qu’il tenait. Et c’était pour cela, non malgré cela, *pour* cela, qu’il le brûlerait quand même.
+Le Préfet avait écrit *au feu* en travers. Le Préfet n’avait pas lu. Le Préfet croyait faire brûler un délire de secte, une folie qu’on efface comme on écrase une fleur d’encre sur une carte. Verkan, lui, savait ce qu’il tenait. Et c’était pour cela, non malgré cela, *pour* cela, qu’il le brûlerait quand même.
 
 Il tint les quarante pages au-dessus des braises, sans les lâcher tout de suite.
 
@@ -126,7 +126,7 @@ C’était propre. C’était même, il le savait, exactement ce qu’elle aurai
 
 Les pages prirent. Il les tint jusqu’à ce que la flamme lui vînt aux doigts, puis les lâcha dans le brasero et regarda l’écriture serrée d’officier se tordre et noircir, chaque poterne murée, chaque contre-attaque, la trente-troisième page où elle avait deviné son propre argument, la dernière où elle avait tremblé. *Celui qui lira ces pages.* Il les avait lues. Il les brûlait. Il n’y avait plus, désormais, dans tout le monde vaste, qu’un seul homme qui sût ce qu’elles contenaient, et cet homme venait de les mettre au feu de sa main.
 
-Seul, il resta, comme le Préfet, plus tard, dirait qu’il était resté seul, car l’ordre disait le nom du Préfet, et le feu porta le nom du Préfet, et nul ne saurait jamais que le Prime-Inquisiteur Velkar Sorne avait passé la nuit à lire ce qu’on lui avait ordonné de ne pas lire. On raconterait, aux frontières, dans les auberges où les contacts se parlent bas, qu’un homme puissant avait brûlé quarante pages seul, en disant une belle phrase. On donnerait la phrase au Préfet. C’était très bien ainsi. Le Bureau des Concordances était un lieu où les bonnes phrases s’attribuaient aux bons grades, et où les hommes qui faisaient le travail avaient l’élégance de ne pas y figurer.
+Seul, il resta, comme le Préfet, plus tard, dirait qu’il était resté seul, car l’ordre disait le nom du Préfet, et le feu porta le nom du Préfet, et nul ne saurait jamais que le Prime-Inquisiteur Verkan Sorne avait passé la nuit à lire ce qu’on lui avait ordonné de ne pas lire. On raconterait, aux frontières, dans les auberges où les contacts se parlent bas, qu’un homme puissant avait brûlé quarante pages seul, en disant une belle phrase. On donnerait la phrase au Préfet. C’était très bien ainsi. Le Bureau des Concordances était un lieu où les bonnes phrases s’attribuaient aux bons grades, et où les hommes qui faisaient le travail avaient l’élégance de ne pas y figurer.
 
 ---
 

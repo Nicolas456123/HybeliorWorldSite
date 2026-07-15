@@ -44,7 +44,7 @@ La petite le dit à plat, comme sa mère aurait dit le prix du grain. Kessane s�
 
 Ils n’étaient pas seuls sur la Plaine.
 
-Kessane l’avait su dès le troisième jour, et cela l’avait d’abord effrayée, puis rassurée d’une manière tordue, la manière dont on est rassuré de ne pas être le seul fou. Sur Gryndor vivait une poignée d’autres. Des Tissés en fuite, comme elle fuyait pour sa fille ; des marcheurs qui n’étaient plus des marcheurs de rien ; et des gens dont on ne savait pas dire ce qu’ils fuyaient ni ce qu’ils cherchaient, qui erraient d’un bord à l’autre avec dans le regard cette faim qu’elle avait vue chez le chanteur mourant, sauf que chez ceux-là ce n’était pas une faim de transmettre. C’était une faim d’entrer.
+Kessane l’avait su dès le troisième jour, et cela l’avait d’abord effrayée, puis rassurée d’une manière tordue, la manière dont on est rassuré de ne pas être le seul fou. Sur Gryndor vivait une poignée d’autres. Des Tisses en fuite, comme elle fuyait pour sa fille ; des marcheurs qui n’étaient plus des marcheurs de rien ; et des gens dont on ne savait pas dire ce qu’ils fuyaient ni ce qu’ils cherchaient, qui erraient d’un bord à l’autre avec dans le regard cette faim qu’elle avait vue chez le chanteur mourant, sauf que chez ceux-là ce n’était pas une faim de transmettre. C’était une faim d’entrer.
 
 Ceux-là s’appelaient les Mangeurs de Temps. Vêtus d’habits d’un autre âge, cousus grossièrement d’après on ne savait quel souvenir, ils apprenaient entre eux des mots morts, et ils regardaient les Failles non comme des feux mais comme des portes. Kessane les évitait comme elle évitait les arbres qui ne savaient plus leur saison. Un homme qui veut entrer dans la chose que vous fuyez n’est pas un homme avec qui on partage un feu.
 
@@ -134,7 +134,7 @@ Lirenn considéra cela. Puis elle dit, et sa voix avait le calme terrible des en
 
 Kessane ne répondit pas tout de suite. Parce que la question, sous la question, c’était : *qu’est-ce que tu m’as pris, encore ? Est-ce que tu m’as pris ça aussi ?*
 
-« Il les voyait, dit-elle enfin, prudente, honnête, parce qu’elle avait juré de ne pas mentir à sa fille et qu’elle ne commencerait pas sur la Plaine. Autrement que moi. Il disait qu’elles chantaient. Que là où on voyait, nous, un tremblement, lui il entendait comme une note fausse, très basse, sous le sol. Il disait qu’un Tissé qui écoute bien sent une déchirure venir avant de la voir. Il disait qu’il aurait su, lui, que ce couloir allait prendre le vieux. Il l’aurait entendu monter. »
+« Il les voyait, dit-elle enfin, prudente, honnête, parce qu’elle avait juré de ne pas mentir à sa fille et qu’elle ne commencerait pas sur la Plaine. Autrement que moi. Il disait qu’elles chantaient. Que là où on voyait, nous, un tremblement, lui il entendait comme une note fausse, très basse, sous le sol. Il disait qu’un Tisse qui écoute bien sent une déchirure venir avant de la voir. Il disait qu’il aurait su, lui, que ce couloir allait prendre le vieux. Il l’aurait entendu monter. »
 
 « Et moi, avant, j’aurais entendu ?
 
@@ -168,7 +168,7 @@ Elle attendit. L’enfant ne cilla pas.
 
 Lirenn ne dit rien. Mais ses yeux, très noirs dans la lumière fausse de la Plaine, ne lâchaient pas ceux de sa mère.
 
-« Un Tissé, sur cette plaine, il entend les déchirures venir. Et un Tissé, sur cette plaine, il crache le sang au bout de six mois et il meurt en criant sans savoir qu’il crie. Toi, tu entends rien venir. Et toi, tu vas vivre. » Kessane prit le visage de sa fille dans ses deux mains, ses mains de forge, dures, calleuses, tièdes. « J’ai échangé ton oreille contre ta vie. C’est un marché de voleur. Je l’ai fait sans te demander, parce que t’avais dix ans et qu’on demande pas à un enfant s’il préfère mourir en entendant ou vivre en sourd. Un jour tu m’en voudras. Tu auras raison de m’en vouloir. Et le même jour tu seras vivante pour m’en vouloir, et ça. » Sa voix se cassa, une fois, se reprit, dure à nouveau. « Ça, personne me l’enlèvera. Tu m’en voudras vivante. C’est tout ce que je voulais. Une fille vivante qui m’en veut. Pas une fille entière dans un trou. »
+« Un Tisse, sur cette plaine, il entend les déchirures venir. Et un Tisse, sur cette plaine, il crache le sang au bout de six mois et il meurt en criant sans savoir qu’il crie. Toi, tu entends rien venir. Et toi, tu vas vivre. » Kessane prit le visage de sa fille dans ses deux mains, ses mains de forge, dures, calleuses, tièdes. « J’ai échangé ton oreille contre ta vie. C’est un marché de voleur. Je l’ai fait sans te demander, parce que t’avais dix ans et qu’on demande pas à un enfant s’il préfère mourir en entendant ou vivre en sourd. Un jour tu m’en voudras. Tu auras raison de m’en vouloir. Et le même jour tu seras vivante pour m’en vouloir, et ça. » Sa voix se cassa, une fois, se reprit, dure à nouveau. « Ça, personne me l’enlèvera. Tu m’en voudras vivante. C’est tout ce que je voulais. Une fille vivante qui m’en veut. Pas une fille entière dans un trou. »
 
 Le vent froid de la Plaine passa entre elles, portant l’odeur des saisons mêlées, l’or et le gel dans la même bouffée.
 
@@ -176,7 +176,7 @@ Le vent froid de la Plaine passa entre elles, portant l’odeur des saisons mêl
 
 « Tu m’en voudras.
 
-— Peut-être. » L’enfant y réfléchit, avec ce sérieux qui pesait plus lourd que celui des grands. « Mais pas aujourd’hui. Aujourd’hui je suis contente d’être sourde. Le vieux qui vient de passer, il a rien entendu venir non plus, et il était pas Tissé. Ça sert à rien, entendre, si les déchirures vont plus vite que l’oreille. » Elle regarda le couloir par-dessus l’épaule de sa mère, une seconde. « Peut-être que bientôt, sur cette plaine, y aura plus personne d’assez rapide. Sourd ou pas. Et alors ça fera plus de différence, ce que tu m’as coupé. »
+— Peut-être. » L’enfant y réfléchit, avec ce sérieux qui pesait plus lourd que celui des grands. « Mais pas aujourd’hui. Aujourd’hui je suis contente d’être sourde. Le vieux qui vient de passer, il a rien entendu venir non plus, et il était pas Tisse. Ça sert à rien, entendre, si les déchirures vont plus vite que l’oreille. » Elle regarda le couloir par-dessus l’épaule de sa mère, une seconde. « Peut-être que bientôt, sur cette plaine, y aura plus personne d’assez rapide. Sourd ou pas. Et alors ça fera plus de différence, ce que tu m’as coupé. »
 
 Kessane la regarda longtemps. Sa fille venait de la consoler, encore, avec la seule matière qu’elles eussent en commun, le froid calcul de qui survit, et de la consoler d’une façon plus noire que tout ce qu’un adulte aurait osé.
 

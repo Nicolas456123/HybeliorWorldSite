@@ -157,7 +157,7 @@ Kessane se leva à son tour. Elle alla fermer la porte, car le vent gâchait le 
 
 Kessane revint s’asseoir. Elle prit enfin le cahier, le vrai, l’épais, celui des mille mains, et il était lourd, plus lourd que le sien, comme si chaque main qui l’avait tenu y avait laissé un peu de son poids.
 
-« Il y a un choix, dit-elle, à mi-voix, plus pour elle-même que pour la vieille. « Le prêtre parlait de roue. Toi tu parles de serment. Mais dans les deux, il n’y a qu’une porte et une seule chose à faire. Personne ne me dit : et si tu attendais. Et si le Fléau finissait. Et si ta fille était de celles qui vivent. On m’a dit qu’il en survivait quelques-uns, des Tissés. Deux cents. Trois cents. Et si elle en était ? »
+« Il y a un choix, dit-elle, à mi-voix, plus pour elle-même que pour la vieille. « Le prêtre parlait de roue. Toi tu parles de serment. Mais dans les deux, il n’y a qu’une porte et une seule chose à faire. Personne ne me dit : et si tu attendais. Et si le Fléau finissait. Et si ta fille était de celles qui vivent. On m’a dit qu’il en survivait quelques-uns, des Tisses. Deux cents. Trois cents. Et si elle en était ? »
 
 La mère Sanvel la regarda longtemps.
 

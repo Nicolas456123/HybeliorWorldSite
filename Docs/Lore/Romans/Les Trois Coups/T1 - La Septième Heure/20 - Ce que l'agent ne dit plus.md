@@ -2,7 +2,7 @@
 tags: [roman, trois-coups, tome-1, partie-2, pov-velkar, pyrion]
 type: roman-chapitre
 partie: II
-pov: Velkar (présent — Pyrion, le Bureau des Concordances)
+pov: Verkan (présent — Pyrion, le Bureau des Concordances)
 chapitre: 19
 lieu: Dominat de Pyrion — la ville haute, puis le Bureau des Concordances
 status: draft
@@ -12,13 +12,13 @@ status: draft
 
 Sa fille avait mis trois couverts, et c’était déjà un mensonge.
 
-Velkar le vit du seuil, avant même d’ôter son manteau : la table dressée pour trois, dans un logis où ils n’étaient que deux. Le troisième couvert était pour la mère, morte depuis six ans, et Rensa le posait chaque fois qu’il venait dîner, chaque fois exactement, l’assiette, le verre, la cuiller à droite comme il faut. Puis elle ne s’expliquait pas, et lui ne demandait pas, et ils dînaient à côté d’une place vide en faisant comme si la place vide n’était pas la seule chose vraie de la pièce.
+Verkan le vit du seuil, avant même d’ôter son manteau : la table dressée pour trois, dans un logis où ils n’étaient que deux. Le troisième couvert était pour la mère, morte depuis six ans, et Rensa le posait chaque fois qu’il venait dîner, chaque fois exactement, l’assiette, le verre, la cuiller à droite comme il faut. Puis elle ne s’expliquait pas, et lui ne demandait pas, et ils dînaient à côté d’une place vide en faisant comme si la place vide n’était pas la seule chose vraie de la pièce.
 
 « Tu es en retard, dit-elle sans se retourner. La soupe a tiédi.
 
 — De trois quarts d’heure. » Il accrocha le manteau, compta les pas jusqu’à la table par habitude, s’assit. « Le Bureau ne ferme pas parce que j’ai faim. »
 
-Elle apporta la marmite, servit deux assiettes, laissa la troisième sèche. Une femme de vingt-deux ans, sèche elle aussi, avec les mains de sa mère et le silence de son père : un mauvais héritage des deux côtés, il le savait, et il n’y pouvait rien. Rensa était née Vide. Pas faible : Vide. Le test de résonance, à l’âge où l’on éprouve les enfants du Dominat, n’avait rien trouvé en elle du tout : pas un fil, pas une trace, pas même l’ombre d’un Lien qui aurait pu grandir. Le mire l’avait annoncé à Velkar comme on annonce une maladie, à voix basse, avec un regard qui demandait pardon. Velkar n’avait pas eu besoin qu’on lui demande pardon. Ce dont il avait eu besoin, c’était qu’on protège sa fille du monde qui, désormais, la mépriserait.
+Elle apporta la marmite, servit deux assiettes, laissa la troisième sèche. Une femme de vingt-deux ans, sèche elle aussi, avec les mains de sa mère et le silence de son père : un mauvais héritage des deux côtés, il le savait, et il n’y pouvait rien. Rensa était née Vide. Pas faible : Vide. Le test de résonance, à l’âge où l’on éprouve les enfants du Dominat, n’avait rien trouvé en elle du tout : pas un fil, pas une trace, pas même l’ombre d’un Lien qui aurait pu grandir. Le mire l’avait annoncé à Verkan comme on annonce une maladie, à voix basse, avec un regard qui demandait pardon. Verkan n’avait pas eu besoin qu’on lui demande pardon. Ce dont il avait eu besoin, c’était qu’on protège sa fille du monde qui, désormais, la mépriserait.
 
 « On t’a vue aux registres bas, dit-il. Hier. »
 
@@ -62,7 +62,7 @@ Fenn l’attendait devant la porte du cabinet, un dossier sous le bras et l’ai
 
 « Prime. J’ai fini le recoupement que vous aviez demandé. Sur l’agent Vessa. »
 
-*Vessa.* Le nom de couverture. Velkar l’employait encore, par discipline : tant qu’un dossier n’était pas clos, on nommait l’agent par son nom d’opération, jamais par le vrai. Cela évitait qu’un scribe, à la cantine, laisse tomber *Aelindra de Pyrion* dans une phrase où il ne fallait pas.
+*Vessa.* Le nom de couverture. Verkan l’employait encore, par discipline : tant qu’un dossier n’était pas clos, on nommait l’agent par son nom d’opération, jamais par le vrai. Cela évitait qu’un scribe, à la cantine, laisse tomber *Aelindra de Pyrion* dans une phrase où il ne fallait pas.
 
 « Dans mon cabinet. »
 
@@ -70,7 +70,7 @@ Il alluma lui-même la lampe, il n’aimait pas qu’on la lui allume, et dépli
 
 « Vous savez qu’il n’existe plus, dit Fenn, prudent, les yeux sur le cahier. Le rapport. Vous l’avez fait brûler.
 
-— Je l’ai fait brûler. » Velkar posa la main à plat sur la couverture, sans l’ouvrir. « Ceci n’est pas le rapport. » Il tira une chaise, non pour Fenn, qui restait debout, mais pour lui-même. « Dites-moi ce que vous avez trouvé. »
+— Je l’ai fait brûler. » Verkan posa la main à plat sur la couverture, sans l’ouvrir. « Ceci n’est pas le rapport. » Il tira une chaise, non pour Fenn, qui restait debout, mais pour lui-même. « Dites-moi ce que vous avez trouvé. »
 
 Fenn ouvrit son propre feuillet. « Vous vouliez savoir si l’arrêt des rapports de Vessa était un cas isolé. J’ai comparé, sur les cinq nations, tous les agents du Bureau et des Bureaux frères qui ont cessé d’écrire dans la même fenêtre de temps. Deux ans, disons. »
 
@@ -82,7 +82,7 @@ Fenn ouvrit son propre feuillet. « Vous vouliez savoir si l’arrêt des rappo
 
 Fenn cligna. « Prime ?
 
-— Vous avez dit neuf. Il y en a huit. » Velkar tapota le feuillet du dos de l’ongle. « Vous avez compté l’agent Loresh, noyé au large de Sulvane. Loresh est mort : noyade avérée, un corps, un enterrement, une veuve qui touche la pension. Un mort n’est pas un silence, c’est un mort. On ne le range pas dans la même colonne. Huit agents ont cessé d’écrire *en étant vivants*. C’est ceux-là qui m’intéressent. »
+— Vous avez dit neuf. Il y en a huit. » Verkan tapota le feuillet du dos de l’ongle. « Vous avez compté l’agent Loresh, noyé au large de Sulvane. Loresh est mort : noyade avérée, un corps, un enterrement, une veuve qui touche la pension. Un mort n’est pas un silence, c’est un mort. On ne le range pas dans la même colonne. Huit agents ont cessé d’écrire *en étant vivants*. C’est ceux-là qui m’intéressent. »
 
 Il ne haussait pas la voix. Il ne la haussait jamais. Jeune, il avait remarqué que les hommes qui crient donnent à l’autre une chose à combattre, le cri, au lieu de le laisser seul avec le fait. Un fait posé à voix basse ne laisse rien à haïr. On ne peut que le regarder.
 
@@ -92,7 +92,7 @@ Il ne haussait pas la voix. Il ne la haussait jamais. Jeune, il avait remarqué 
 
 Fenn lut. Un agent à Celethor : Vessa. Un à Baelor, infiltré chez les Silencieux Taciti, dont le dernier rapport datait d’un automne, deux ans plus tôt, et disait : *rien à signaler, communauté inoffensive, je demande mon rappel.* Rappel jamais accordé, agent jamais revenu. Un à Aethranor, chargé de surveiller les cercles d’érudits de l’Académie, silencieux depuis dix-huit mois. Une agente en Azoria, sur les Ligues marchandes d’Everthor : les financements douteux, l’argent qui bouge sans marchandise. Un à Cendara, placé aux forges, là où l’on murmurait qu’un maître écrasé par le monopole d’un noble-Lié prêtait l’oreille à d’autres discours. Trois autres, plus obscurs : un à Vytharia, un sur les routes de terre entre Sulvane et l’intérieur, et un dernier qui n’était pas même un agent : un correspondant de la côte, un homme des ports qui rendait compte contre bourse et qui, lui aussi, s’était tu.
 
-Velkar écoutait sans écrire. Il avait cette manière d’écouter les yeux mi-clos, comme un homme qui dort, et Fenn savait qu’il ne dormait pas : qu’il rangeait, derrière ce visage éteint, chaque nom à sa place sur une carte que lui seul voyait.
+Verkan écoutait sans écrire. Il avait cette manière d’écouter les yeux mi-clos, comme un homme qui dort, et Fenn savait qu’il ne dormait pas : qu’il rangeait, derrière ce visage éteint, chaque nom à sa place sur une carte que lui seul voyait.
 
 « Répétez le troisième, dit-il quand Fenn eut fini.
 
@@ -102,31 +102,31 @@ Velkar écoutait sans écrire. Il avait cette manière d’écouter les yeux mi-
 
 — Celethor. Vessa. »
 
-« Et l’agent de Baelor demandait son rappel en disant que les Taciti étaient inoffensifs. » Velkar rouvrit les yeux. « Vous voyez ce que je vois, Fenn ?
+« Et l’agent de Baelor demandait son rappel en disant que les Taciti étaient inoffensifs. » Verkan rouvrit les yeux. « Vous voyez ce que je vois, Fenn ?
 
 — Je vois huit agents qui se sont tus, Prime.
 
 — Non. » Il se leva, alla à la carte murale des cinq nations, celle où les provinces étaient cousues de fil, et posa le doigt sur Celethor. « Vous voyez huit agents qui se sont tus, et vous vous arrêtez là parce que c’est là que le rapport s’arrête. Un rapport s’arrête à ce qu’il sait. Moi, je continue jusqu’à ce qu’il devrait savoir. » Le doigt glissa de Celethor à Baelor, de Baelor à Aethranor, dessina lentement, sur la carte, une figure que la lampe faisait trembler. « Regardez ce qu’ils surveillaient. Une préceptrice à Celethor. Une communauté de non-Liés à Baelor. Des érudits à Aethranor. De l’argent à Everthor. Une forge à Cendara. Un rêveur à Vytharia. Ce ne sont pas huit affaires. C’est une affaire, vue de huit fenêtres. »
 
-Fenn regarda la carte, et Velkar vit le moment précis où le scribe comprit, où les huit points cessèrent d’être huit points pour devenir les sommets d’une seule chose.
+Fenn regarda la carte, et Verkan vit le moment précis où le scribe comprit, où les huit points cessèrent d’être huit points pour devenir les sommets d’une seule chose.
 
 « Les Verithani, souffla Fenn.
 
-— Les Verithani, on les surveille depuis quarante ans. Ce n’est pas nouveau, qu’on ait des agents chez eux. » Velkar retira son doigt de la carte. « Ce qui est nouveau, c’est qu’ils se taisent tous. En même temps. Huit agents, dans cinq nations, qui infiltraient des cellules qui ne se connaissent pas. Et huit agents qui, la même année, cessent d’écrire. »
+— Les Verithani, on les surveille depuis quarante ans. Ce n’est pas nouveau, qu’on ait des agents chez eux. » Verkan retira son doigt de la carte. « Ce qui est nouveau, c’est qu’ils se taisent tous. En même temps. Huit agents, dans cinq nations, qui infiltraient des cellules qui ne se connaissent pas. Et huit agents qui, la même année, cessent d’écrire. »
 
 « Ils ont été démasqués.
 
 — Non. » Il retourna à la table, reprit le cahier des quarante pages recopiées, le tint un instant sans l’ouvrir. « Un agent démasqué, on le retrouve. Dans un fossé, dans un fleuve, dans une geôle avec une rançon au bout. On retrouve toujours l’agent démasqué, mort ou vif, parce que le mouvement qui le démasque veut qu’on sache : voilà ce qui arrive à qui nous espionne. C’est un message. Or il n’y a pas de message. Il n’y a pas de corps, pas de rançon, pas de fossé. » Il reposa le cahier. « Il y a huit absences propres. Et une absence propre, ce n’est pas quelqu’un qu’on a tué. C’est quelqu’un qu’on a *convaincu*. »
 
-Le silence, dans le cabinet, prit une épaisseur nouvelle. Fenn n’avait plus envie de rentrer chez lui. Personne n’avait jamais envie de rentrer chez soi après que Velkar avait aligné trois faits.
+Le silence, dans le cabinet, prit une épaisseur nouvelle. Fenn n’avait plus envie de rentrer chez lui. Personne n’avait jamais envie de rentrer chez soi après que Verkan avait aligné trois faits.
 
 « Huit agents retournés, dit Fenn lentement. C’est… ça ne s’est jamais vu.
 
-— Non. Un, cela se voit. Deux, on parle de malchance. Huit, on parle d’autre chose. » Velkar revint à la carte, mais cette fois il ne regarda pas les huit points ; il regarda l’espace entre eux, le vide au centre de la figure, là où les huit fils, s’ils étaient tirés, se rejoindraient. « On envoie huit espions dans huit directions, et les huit reviennent, ou plutôt ne reviennent pas, en disant la même chose. Ce n’est pas huit trahisons. C’est une seule vérité, assez forte pour retourner huit professionnels de la méfiance. Voilà ce qui devrait vous empêcher de dormir, Fenn. Pas qu’ils se soient tus. Ce qui les a fait taire. »
+— Non. Un, cela se voit. Deux, on parle de malchance. Huit, on parle d’autre chose. » Verkan revint à la carte, mais cette fois il ne regarda pas les huit points ; il regarda l’espace entre eux, le vide au centre de la figure, là où les huit fils, s’ils étaient tirés, se rejoindraient. « On envoie huit espions dans huit directions, et les huit reviennent, ou plutôt ne reviennent pas, en disant la même chose. Ce n’est pas huit trahisons. C’est une seule vérité, assez forte pour retourner huit professionnels de la méfiance. Voilà ce qui devrait vous empêcher de dormir, Fenn. Pas qu’ils se soient tus. Ce qui les a fait taire. »
 
 ---
 
-Fenn parti, car il l’avait renvoyé chez lui, un homme a le droit de dormir, Velkar resta seul avec la lampe et les quarante pages de sa propre main.
+Fenn parti, car il l’avait renvoyé chez lui, un homme a le droit de dormir, Verkan resta seul avec la lampe et les quarante pages de sa propre main.
 
 Le rapport, il l’avait lu une fois, une seule, la nuit du feu : on ne brûle pas un document sans le lire ; c’était sa règle, presque sa seule superstition. On peut condamner un homme sur un résumé, jamais un texte. Un texte, il faut l’avoir tenu jusqu’au bout, sinon on brûle une chose qu’on n’a pas connue, et il y avait, dans l’idée de détruire ce qu’on ignore, quelque chose qui lui répugnait comme à d’autres le mensonge. Il l’avait donc lu jusqu’au bout, puis livré aux braises. Et il aurait dû en rester là.
 
@@ -138,11 +138,11 @@ Il rouvrit sa copie à la première page. Sous sa propre encre, l’autre écrit
 
 Aelindra n’avait pas trouvé de pourriture. Il l’avait recopié à la troisième page, dans les mots exacts qu’elle avait écrits, sèchement, comme un rapport de terrain qui contredit l’ordre reçu : *Il n’y a pas de faille. J’ai cherché deux ans. J’ai tendu tous les pièges de mon métier. Ils sont revenus vides. Ces gens ne se mentent pas sur ce qu’ils sont ; ils se croient pires qu’ils ne sont. C’est l’inverse exact du gibier que je traque d’ordinaire, et je n’avais pas d’arme pour l’inverse.*
 
-Velkar s’arrêta sur cette ligne. *Je n’avais pas d’arme pour l’inverse.* Lui non plus. Toute sa science était une science de la faille : trouver l’écart entre ce qu’un homme dit être et ce qu’il est, et enfoncer le coin dans l’écart. Devant un mouvement qui *se croyait pire qu’il n’était*, sa science ne mordait pas. On ne fait pas vomir d’eux-mêmes des gens qui se soupçonnent déjà.
+Verkan s’arrêta sur cette ligne. *Je n’avais pas d’arme pour l’inverse.* Lui non plus. Toute sa science était une science de la faille : trouver l’écart entre ce qu’un homme dit être et ce qu’il est, et enfoncer le coin dans l’écart. Devant un mouvement qui *se croyait pire qu’il n’était*, sa science ne mordait pas. On ne fait pas vomir d’eux-mêmes des gens qui se soupçonnent déjà.
 
 Il tourna les pages. Elle exposait le Traité : les cinq thèses, chacune suivie de l’attaque qu’elle avait tentée et de la raison de son échec, avec la sécheresse d’un plan de campagne. Il lut cela comme un officier lit le rapport d’un autre officier : en refaisant lui-même les attaques, pour voir si elle avait manqué une poterne qu’il verrait, lui.
 
-Il ne la manqua pas, la poterne : elle n’existait pas. À chaque thèse, il posait dans sa tête l’objection. Et deux pages plus loin, Verithan l’avait déjà posée, et y avait répondu, non par un tour de force mais en concédant tout ce qu’un honnête homme doit concéder. Y compris, Velkar s’arrêta là longtemps, que le monde d’après tuerait. Que les non-Liés qu’on prétendait libérer mourraient en foule, eux aussi.
+Il ne la manqua pas, la poterne : elle n’existait pas. À chaque thèse, il posait dans sa tête l’objection. Et deux pages plus loin, Verithan l’avait déjà posée, et y avait répondu, non par un tour de force mais en concédant tout ce qu’un honnête homme doit concéder. Y compris, Verkan s’arrêta là longtemps, que le monde d’après tuerait. Que les non-Liés qu’on prétendait libérer mourraient en foule, eux aussi.
 
 Voilà où le raisonnement le mordit.
 
@@ -168,4 +168,4 @@ Il connaissait sa main. C’était lui qui avait signé son ordre de mission. Et
 
 Les huit fils, s’il les tirait, ne pointaient pas vers huit directions. Ils convergeaient. Il ne savait pas encore vers où : le centre de la figure tombait quelque part au sud, dans les terres de Cendara, une région qu’il n’avait pas de raison de surveiller et qu’il surveillerait désormais. Mais il savait, avec la certitude froide qui lui tenait lieu de foi, que huit absences propres n’apparaissent pas ensemble par hasard, et que quand des professionnels de la méfiance cessent tous d’écrire la même année, ce n’est pas qu’ils sont morts : c’est qu’ils ont un rendez-vous, et qu’ils ne veulent pas qu’on y soit.
 
-Il éteignit la lampe. Dans le noir du cabinet, la carte disparut, mais la figure resta, imprimée derrière ses yeux comme une brûlure regardée trop longtemps : huit points, un centre, une flèche vers le sud. Et très loin sous cette flèche, dans une nuit que Velkar ne pouvait ni voir ni nommer, une chose immense qui ne se connaissait pas elle-même sentait déjà, sans savoir les compter, huit fils se tendre vers son cœur.
+Il éteignit la lampe. Dans le noir du cabinet, la carte disparut, mais la figure resta, imprimée derrière ses yeux comme une brûlure regardée trop longtemps : huit points, un centre, une flèche vers le sud. Et très loin sous cette flèche, dans une nuit que Verkan ne pouvait ni voir ni nommer, une chose immense qui ne se connaissait pas elle-même sentait déjà, sans savoir les compter, huit fils se tendre vers son cœur.

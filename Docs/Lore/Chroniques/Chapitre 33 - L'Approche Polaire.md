@@ -82,7 +82,7 @@ Il finit sa boucle de cuir avant de répondre, sans hâte, sans mépris.
 
 «  Je crois aux chiffres. Sept sur vingt, c’est un chiffre. Le reste, les gens le décorent parce que le chiffre tout nu leur fait peur.  » Sa bête, il l’attela. «  Je ne vous mènerai pas. Mais je ne vous empêcherai pas non plus. Chacun compte ses propres pas, ici.  »
 
-Je ne le pressai pas. Quelque part sur les treize continents, j’avais renoncé à convaincre les gens qui savaient de quoi ils parlaient. Je le remerciai, et notai en marge, pour moi seul, que les bêtes refusaient d’aller vers l’intérieur. À Ordavan déjà, et à Warenthor, j’avais vu des bêtes refuser une direction, là où les singes descendaient des arbres et marchaient vers la côte sans raison qu’un homme pût lire. Aucune conclusion. Ces refus, je les collectionnais comme on collectionne des relevés : sans les relier, en attendant qu’ils veuillent bien dire quelque chose.
+Je ne le pressai pas. Quelque part sur les douze continents, j’avais renoncé à convaincre les gens qui savaient de quoi ils parlaient. Je le remerciai, et notai en marge, pour moi seul, que les bêtes refusaient d’aller vers l’intérieur. À Ordavan déjà, et à Warenthor, j’avais vu des bêtes refuser une direction, là où les singes descendaient des arbres et marchaient vers la côte sans raison qu’un homme pût lire. Aucune conclusion. Ces refus, je les collectionnais comme on collectionne des relevés : sans les relier, en attendant qu’ils veuillent bien dire quelque chose.
 
 ---
 

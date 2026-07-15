@@ -111,7 +111,7 @@ Le prêtre voulut répondre. Kessane ne lui en laissa pas le temps.
 
 Elle raccompagna le prêtre à la porte avec une courtoisie parfaite, et referma derrière lui, et resta un moment le front contre le bois froid.
 
-Parce qu’il avait dit une chose vraie, l’imbécile, sous ses images ratées. *Votre lignée a fui le Lien pendant mille ans, et voilà qu’il s’assied dans votre maison.* Ça, c’était vrai. Toute la Forge-Basse était bâtie là-dessus, sur ce refus : la guilde entière, les non-Liés qui ne devaient rien à personne, qui tiraient leur force de leurs seuls bras et n’en avaient jamais eu honte. Ils étaient les hommes et les femmes que le Fléau ne touchait pas. Les épargnés. Ceux qui, quand le monde des Tissés s’était mis à saigner par tous ses porteurs, avaient pu continuer à frapper le fer sans rien sentir, parce qu’ils n’avaient rien en eux que le Fléau pût mordre. Non-Liés. À l’abri. Fiers de l’être.
+Parce qu’il avait dit une chose vraie, l’imbécile, sous ses images ratées. *Votre lignée a fui le Lien pendant mille ans, et voilà qu’il s’assied dans votre maison.* Ça, c’était vrai. Toute la Forge-Basse était bâtie là-dessus, sur ce refus : la guilde entière, les non-Liés qui ne devaient rien à personne, qui tiraient leur force de leurs seuls bras et n’en avaient jamais eu honte. Ils étaient les hommes et les femmes que le Fléau ne touchait pas. Les épargnés. Ceux qui, quand le monde des Tisses s’était mis à saigner par tous ses porteurs, avaient pu continuer à frapper le fer sans rien sentir, parce qu’ils n’avaient rien en eux que le Fléau pût mordre. Non-Liés. À l’abri. Fiers de l’être.
 
 Et la femme dont toute la maison avait fui le Lien pendant mille ans avait mis au monde exactement ce que sa maison fuyait.
 

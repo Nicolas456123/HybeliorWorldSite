@@ -49,7 +49,7 @@ Vivre, aussi, il le fallait, pendant qu’on avait peur. Les fers de bêche du b
 
 Elle prit donc son visage de forgeronne, le plus solide de ses outils, et sortit.
 
-La Forge-Basse tenait dans un pli de vallon, une trentaine de feux serrés le long d’un ruisseau qu’on avait détourné jadis pour les trempes, avec la halle commune au milieu où l’on pesait le charbon et réglait les comptes de guilde. On y forgeait de père en fille et de mère en fils depuis un temps que personne ne comptait plus, et l’on y était non-Lié comme on est d’un pays : sans le penser, sans avoir choisi, avec cette fierté tranquille qui ne se déclare pas parce qu’elle n’a jamais eu besoin de se défendre. C’était le lieu le plus sûr du monde. C’était ce qu’on disait aux enfants pour les endormir : ici le mal ne mord pas, ici on a des bras et pas de Lien, ici le froid qui prend les Tissés passe la porte et ne trouve rien à manger.
+La Forge-Basse tenait dans un pli de vallon, une trentaine de feux serrés le long d’un ruisseau qu’on avait détourné jadis pour les trempes, avec la halle commune au milieu où l’on pesait le charbon et réglait les comptes de guilde. On y forgeait de père en fille et de mère en fils depuis un temps que personne ne comptait plus, et l’on y était non-Lié comme on est d’un pays : sans le penser, sans avoir choisi, avec cette fierté tranquille qui ne se déclare pas parce qu’elle n’a jamais eu besoin de se défendre. C’était le lieu le plus sûr du monde. C’était ce qu’on disait aux enfants pour les endormir : ici le mal ne mord pas, ici on a des bras et pas de Lien, ici le froid qui prend les Tisses passe la porte et ne trouve rien à manger.
 
 Kessane traversait le lieu le plus sûr du monde avec, dans sa maison, exactement ce que le lieu croyait ne pas abriter.
 
@@ -103,7 +103,7 @@ Maren dit *ils* comme on ne nomme pas une bête qu’on craint de faire venir en
 
 — Ceux de Drahk’Nor. » Maren avala. « Les Inspecteurs. »
 
-Le mot tomba sur le seuil et y resta. Kessane l’avait entendu, bien sûr. On l’entendait, il courait les routes depuis des années, il venait de loin, de la ville aux hauts fourneaux, comme la cendre fine qui se déposait parfois jusqu’ici les jours de mauvais vent. Mais on l’entendait comme on entend parler d’une crue dans une vallée qu’on n’habite pas. Les Inspecteurs, c’était l’affaire des villes, des Tissés des villes, des grands bourgs où le Fléau saignait à découvert. Pas l’affaire de la Forge-Basse. Ici le mal ne mordait pas. Ici on n’avait rien à inspecter.
+Le mot tomba sur le seuil et y resta. Kessane l’avait entendu, bien sûr. On l’entendait, il courait les routes depuis des années, il venait de loin, de la ville aux hauts fourneaux, comme la cendre fine qui se déposait parfois jusqu’ici les jours de mauvais vent. Mais on l’entendait comme on entend parler d’une crue dans une vallée qu’on n’habite pas. Les Inspecteurs, c’était l’affaire des villes, des Tisses des villes, des grands bourgs où le Fléau saignait à découvert. Pas l’affaire de la Forge-Basse. Ici le mal ne mordait pas. Ici on n’avait rien à inspecter.
 
 Et voilà que le mot était assis sur le seuil de la forge d’à côté, dans la bouche d’une femme dont Kessane connaissait le rire.
 

@@ -58,7 +58,7 @@ Net, elle s’arrêta. Sa main monta vers le col de sa robe, ce réflexe qu’il
 
 La femme le fixait. Quelque chose bougea dans son visage usé, une eau sous une glace.
 
-« Vous êtes Tissé.
+« Vous êtes Tisse.
 
 — Je l’étais. » Et là, comme toujours à cet endroit du récit, quelque chose se serra dans la poitrine de Nael, un vieux nœud qu’il avait cessé d’espérer dénouer. « On m’a coupé. »
 

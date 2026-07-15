@@ -22,7 +22,7 @@ Il était au troisième feuillet. Depuis des heures il l’était ; il semblait
 
 Il ne courut pas. Des mourants il tenait cette chose-là : que courir donne des idées à ceux qui vous regardent, qu’un homme qui court se désigne, tandis qu’un homme qui range ses affaires lentement passe, une seconde de plus, pour un homme qui a le droit d’être là.
 
-« Vous brûlez les mots », dit-il, et il s’entendit le dire d’une voix presque douce, la voix qu’il prenait pour les Tissés au bord du seuil. « Pas les hommes. »
+« Vous brûlez les mots », dit-il, et il s’entendit le dire d’une voix presque douce, la voix qu’il prenait pour les Tisses au bord du seuil. « Pas les hommes. »
 
 L’Inspecteur, car c’en était un, le col haut, la lampe déjà basculée au bout du bras, s’arrêta un quart de battement. Se savoir reconnus, ils n’aimaient pas cela. Aveugles, voilà ce qu’ils préféraient qu’on les crût.
 
@@ -50,7 +50,7 @@ Parce que le modèle *mentait*. Voilà ce qu’il pensa, dans la chaleur qui mon
 
 Il prit la neuve.
 
-De ses mains il l’enveloppa dans le carré de toile cirée qu’il gardait toujours prêt, contre la pluie, contre la crasse des routes, il en avait toujours un prêt, comme les vieux gardent leur linceul plié, la glissa contre sa poitrine, sous la tunique, à l’endroit où les Tissés protégeaient leur ventre et où lui, non-Lié, ne protégeait que de l’encre.
+De ses mains il l’enveloppa dans le carré de toile cirée qu’il gardait toujours prêt, contre la pluie, contre la crasse des routes, il en avait toujours un prêt, comme les vieux gardent leur linceul plié, la glissa contre sa poitrine, sous la tunique, à l’endroit où les Tisses protégeaient leur ventre et où lui, non-Lié, ne protégeait que de l’encre.
 
 Le modèle prit le feu derrière lui. Derrière son dos il l’entendit : le parchemin ne crie pas comme le bois, il gémit, il se recroqueville, il fait un bruit de feuille morte piétinée. Et il ne se retourna pas, parce qu’un homme qui se retourne sur ce qui brûle grave la flamme dans ses yeux pour le restant de ses nuits, et Olven avait déjà assez de choses gravées.
 
@@ -76,7 +76,7 @@ On lui avait dit où aller. C’était Teor qui le lui avait dit, sans le savoir
 
 Cette phrase-là ne l’avait plus quitté. *Elle, elle s’en sert.* Toute sa vie, Olven avait porté le cahier comme un témoignage, une chose qu’on lit pour savoir où est la plaie ; et voilà qu’on lui parlait d’une femme qui en avait fait un outil, qui ouvrait le livre non pour comprendre mais pour trancher. Attiré, épouvanté, il ne savait pas encore dire lequel des deux. Les deux, sans doute. C’était toujours les deux, chez lui, quand une chose vraie se présentait sous un visage qu’il n’attendait pas.
 
-Vers la vallée basse il descendit, vers les rivières qui faisaient les villages, la copie propre contre le cœur, et il sut qu’il n’aurait peut-être pas le temps d’arriver. À ses jambes il le sentait, à sa bouche qui avait oublié sa forme pleine, à cette manière qu’avait le froid, désormais, d’entrer plus profond qu’avant et de rester. Tissé, il ne l’était pas, le Fléau ne le prendrait pas, mais il y avait d’autres façons de mourir sur les routes de ce temps, et la faim en était une, et il en connaissait le goût.
+Vers la vallée basse il descendit, vers les rivières qui faisaient les villages, la copie propre contre le cœur, et il sut qu’il n’aurait peut-être pas le temps d’arriver. À ses jambes il le sentait, à sa bouche qui avait oublié sa forme pleine, à cette manière qu’avait le froid, désormais, d’entrer plus profond qu’avant et de rester. Tisse, il ne l’était pas, le Fléau ne le prendrait pas, mais il y avait d’autres façons de mourir sur les routes de ce temps, et la faim en était une, et il en connaissait le goût.
 
 *
 
@@ -94,9 +94,9 @@ Un rire, dans le foin. Court, mouillé. « Alors tu es chez toi. Entre. »
 
 Il entra. Contre les gerbes il s’assit, à un bras de l’homme, et sortit de sa besace le quignon qu’il gardait pour le lendemain, et le rompit sans qu’on le lui demandât, parce que c’était le geste par lequel il commençait toujours, le geste qui disait *je ne suis pas venu te prendre quelque chose.*
 
-« Tu es Tissé », dit-il en tendant la moitié du pain.
+« Tu es Tisse », dit-il en tendant la moitié du pain.
 
-La forme se figea comme se figent tous les Tissés, cette immobilité de bête acculée. Puis, comprenant qu’il n’y avait dans le noir qu’un vieux qui partageait son pain, elle se détendit.
+La forme se figea comme se figent tous les Tisses, cette immobilité de bête acculée. Puis, comprenant qu’il n’y avait dans le noir qu’un vieux qui partageait son pain, elle se détendit.
 
 « Tu vois ça dans le noir ?
 

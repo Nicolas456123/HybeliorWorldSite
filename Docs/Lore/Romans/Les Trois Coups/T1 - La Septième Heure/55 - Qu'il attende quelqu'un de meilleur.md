@@ -5,7 +5,7 @@ partie: coda
 chapitre: 50
 titre: Qu'il attende quelqu'un de meilleur
 pov: Thessan l'Érudit (An 0, le soir — dernière image du livre) ; ultime demi-page en contrepoint muet (le Chasseur voit l'homme qui s'arrête, vers l'est) avant le beat final — le premier battement du Cœur de Cendra
-beat_final: le premier battement du Mont Cendra (V-bis) — dernière image non-verbale du tome ; ordre : geste (livre muré) → Fragment #7 (dernière parole humaine) → l'homme qui s'arrête (POV Velkar, avant-dernier souffle) → le battement (dernier souffle)
+beat_final: le premier battement du Mont Cendra (V-bis) — dernière image non-verbale du tome ; ordre : geste (livre muré) → Fragment #7 (dernière parole humaine) → l'homme qui s'arrête (POV Verkan, avant-dernier souffle) → le battement (dernier souffle)
 lieu: le flanc du Mont Cendra, sous la cendre — un abri de roche
 status: draft
 ---

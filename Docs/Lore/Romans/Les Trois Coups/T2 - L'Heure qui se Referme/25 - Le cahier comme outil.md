@@ -97,7 +97,7 @@ Elle ne dit rien de cela. On ne dit pas ces choses. Elle demanda seulement :
 
 « Coupé, dit Kessane.
 
-— Le Lien. Le fil qui tenait tout. » La paume à plat sur les deux cahiers, à la fois, il la posa comme un homme qui prête serment sur deux pierres. « Il y a quinze siècles, au Mont, ils ont coupé le fil qui reliait le monde. Cet homme le raconte. C’est pour ça que le monde saigne encore. Pour ça que les Failles avalent les villages, que vos Tissés meurent par ce qu’ils portent. La plaie n’a jamais été recousue. Elle suppure. »
+— Le Lien. Le fil qui tenait tout. » La paume à plat sur les deux cahiers, à la fois, il la posa comme un homme qui prête serment sur deux pierres. « Il y a quinze siècles, au Mont, ils ont coupé le fil qui reliait le monde. Cet homme le raconte. C’est pour ça que le monde saigne encore. Pour ça que les Failles avalent les villages, que vos Tisses meurent par ce qu’ils portent. La plaie n’a jamais été recousue. Elle suppure. »
 
 *
 
@@ -137,7 +137,7 @@ Le silence, dans la forge, était devenu épais. Olven ne bougeait plus. Le feu 
 
 « Votre fille. » Olven dit les mots lentement, et quelque chose en lui, elle le vit, venait de comprendre où il avait marché, dans quelle maison exactement il avait apporté son témoignage.
 
-« Neuf ans. Elle parle à une dame qui n’est pas là. » Kessane referma le cahier d’une main. « Elle est Tissée. Dans une maison qui a fui le Lien pendant mille ans, elle est née Tissée, et elle a commencé à entendre les coins de la pièce, et dans trois mois elle saignera, et dans six mois elle criera sans savoir qu’elle crie. À moins que je fasse ce qui est écrit là. »
+« Neuf ans. Elle parle à une dame qui n’est pas là. » Kessane referma le cahier d’une main. « Elle est Tisse. Dans une maison qui a fui le Lien pendant mille ans, elle est née Tisse, et elle a commencé à entendre les coins de la pièce, et dans trois mois elle saignera, et dans six mois elle criera sans savoir qu’elle crie. À moins que je fasse ce qui est écrit là. »
 
 « La couper. »
 

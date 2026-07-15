@@ -2,7 +2,7 @@
 tags: [roman, trois-coups, tome-1, partie-4, pov-velkar, chasseur, sulvane, hautes-terres, campement]
 type: roman-chapitre
 partie: IV
-pov: Velkar Sorne, Prime-Inquisiteur du Bureau des Concordances de Pyrion (présent, la veille)
+pov: Verkan Sorne, Prime-Inquisiteur du Bureau des Concordances de Pyrion (présent, la veille)
 chapitre: 32
 lieu: les hautes terres de Sulvane, au-dessus du port — un campement abandonné
 status: draft
@@ -10,13 +10,13 @@ status: draft
 
 # Chapitre trente-deux — Le feu encore chaud
 
-On mesure un homme à ce qu’il laisse. Un imbécile laisse tout : ses pas, ses ordures, le nom qu’il a crié à un passeur. Un homme prudent laisse peu. Un professionnel ne laisse rien, et c’est déjà un renseignement, car le rien n’est pas naturel, le rien coûte du travail, et le travail se lit. Mais un maître, un vrai, laisse une chose et une seule : le trou exactement à sa taille. Velkar Sorne montait vers ce trou-là depuis le port de Sulvane, dans le froid d’avant l’aube, et il savait qu’il allait arriver trop tard, parce qu’il arrivait toujours trop tard, et que c’était devenu, à la longue, une manière de compagnie.
+On mesure un homme à ce qu’il laisse. Un imbécile laisse tout : ses pas, ses ordures, le nom qu’il a crié à un passeur. Un homme prudent laisse peu. Un professionnel ne laisse rien, et c’est déjà un renseignement, car le rien n’est pas naturel, le rien coûte du travail, et le travail se lit. Mais un maître, un vrai, laisse une chose et une seule : le trou exactement à sa taille. Verkan Sorne montait vers ce trou-là depuis le port de Sulvane, dans le froid d’avant l’aube, et il savait qu’il allait arriver trop tard, parce qu’il arrivait toujours trop tard, et que c’était devenu, à la longue, une manière de compagnie.
 
 Le sentier des hautes terres n’était pas un sentier. C’était l’idée d’un sentier, une hésitation dans la caillasse que les chèvres et les contrebandiers entretenaient à parts égales, et que personne d’honnête n’avait de raison de prendre. Voilà pourquoi elle l’avait prise. Au bureau du manifeste, deux jours plus bas, il l’avait compris : cette femme ne choisissait jamais la route qu’un innocent choisirait, mais celle qu’un innocent ne pouvait pas avoir de raison de choisir : donc invisible aux registres, donc sans témoin, donc parfaite. Sa perfection même la trahissait. Un chemin que personne n’emprunte est un chemin que quelqu’un a emprunté pour cela précisément.
 
 Pour souffler, il s’arrêta. Cinquante ans dans les jambes, et deux nuits sans sommeil derrière lui, cela finissait par se dire. En bas, très loin, Sulvane dormait au bord de sa rade, une poignée de lampes jaunes couchées sur l’eau noire, et plus loin encore la mer sans lumière du tout, qui avait emporté un paquebot l’avant-veille avec, à son bord, un homme dont le nom de couverture ne concordait pas avec sa cabine. *Le port me lit des départs,* pensa-t-il. *Jamais des présences.* La phrase lui était venue au quai, en regardant la coque s’amenuiser, et elle ne l’avait plus quitté. Il traquait un monde qui n’était déjà plus là où il posait la main.
 
-Un berger le croisa, plus haut, là où la caillasse cédait à une herbe rase. Un vieux, sa dizaine de chèvres devant lui, un bâton, ce regard des gens de montagne qui vous jaugent avant de vous saluer. Velkar l’aurait laissé passer, il n’était pas là pour les bergers, mais on ne laisse jamais passer un homme qui a peut-être vu ; la règle valait pour les rois comme pour les chevriers.
+Un berger le croisa, plus haut, là où la caillasse cédait à une herbe rase. Un vieux, sa dizaine de chèvres devant lui, un bâton, ce regard des gens de montagne qui vous jaugent avant de vous saluer. Verkan l’aurait laissé passer, il n’était pas là pour les bergers, mais on ne laisse jamais passer un homme qui a peut-être vu ; la règle valait pour les rois comme pour les chevriers.
 
 « Bonne garde », dit-il, la formule du pays, sans s’arrêter tout à fait.
 
@@ -26,19 +26,19 @@ Un berger le croisa, plus haut, là où la caillasse cédait à une herbe rase. 
 
 « Y a jamais personne, là-haut. »
 
-« Jamais. » Velkar laissa le mot revenir tout seul, comme une pierre qu’on lâche pour entendre le fond. « Et pourtant tu montes tes bêtes par le mauvais versant, ce matin. Le bon est à l’est, l’herbe y est plus grasse, je l’ai vu en montant. Un homme qui a toute la montagne pour lui n’évite pas le bon pré, sauf s’il n’a pas envie de croiser ce qu’il y a dessus. »
+« Jamais. » Verkan laissa le mot revenir tout seul, comme une pierre qu’on lâche pour entendre le fond. « Et pourtant tu montes tes bêtes par le mauvais versant, ce matin. Le bon est à l’est, l’herbe y est plus grasse, je l’ai vu en montant. Un homme qui a toute la montagne pour lui n’évite pas le bon pré, sauf s’il n’a pas envie de croiser ce qu’il y a dessus. »
 
-Le berger s’arrêta, cette fois. Ses yeux passèrent une fois sur le visage de Velkar, sur ses mains, sur ses bottes de ville que la caillasse avait déjà blanchies. Et il comprit, à ce que ces yeux firent, qu’il n’avait pas affaire à un marchand égaré.
+Le berger s’arrêta, cette fois. Ses yeux passèrent une fois sur le visage de Verkan, sur ses mains, sur ses bottes de ville que la caillasse avait déjà blanchies. Et il comprit, à ce que ces yeux firent, qu’il n’avait pas affaire à un marchand égaré.
 
 « J’évite rien, dit le vieux. J’ai vu du feu cette nuit, en bas dans le repli. J’ai pas cherché à savoir qui. On cherche pas à savoir, par ici. C’est comme ça qu’on vit vieux. »
 
-« C’est une bonne façon de vivre vieux. » Velkar hocha la tête, sans menace, sans rien. « Garde-la. Bonne garde, l’ancien. »
+« C’est une bonne façon de vivre vieux. » Verkan hocha la tête, sans menace, sans rien. « Garde-la. Bonne garde, l’ancien. »
 
 Et il le laissa à ses bêtes, parce qu’il avait ce qu’il était venu prendre : non un nom, le vieux n’en avait pas, mais une heure. *Du feu cette nuit.* Le berger ne mentait pas ; les gens qui mentent en disent trop, et celui-là en avait dit juste assez. Il y avait eu du feu dans le repli, la nuit même, et l’homme qui l’avait vu de loin n’était pas descendu voir. Restait à savoir si le feu était encore quelque chose.
 
 Au tournant, l’odeur.
 
-Elle le prit avant qu’il vît quoi que ce fût : de la fumée éteinte, ce charbon froid qui pique moins qu’il ne serre, et sous elle, ténue, quelque chose de vivant encore. Velkar s’immobilisa. Il ne courut pas. On ne court pas vers une chose qu’on a mis des semaines à approcher : on la regarde de loin d’abord, longtemps, parce que la première seconde est celle où l’on apprend le plus, et qu’on ne l’a qu’une fois.
+Elle le prit avant qu’il vît quoi que ce fût : de la fumée éteinte, ce charbon froid qui pique moins qu’il ne serre, et sous elle, ténue, quelque chose de vivant encore. Verkan s’immobilisa. Il ne courut pas. On ne court pas vers une chose qu’on a mis des semaines à approcher : on la regarde de loin d’abord, longtemps, parce que la première seconde est celle où l’on apprend le plus, et qu’on ne l’a qu’une fois.
 
 Un repli du terrain, à couvert des chemins. Bien choisi. Toujours bien choisi.
 
@@ -64,7 +64,7 @@ Retirant sa main, il l’essuya, et se força au vrai. La tiédeur ne datait rie
 
 ---
 
-L’aube pâlissait à l’orient, du côté qui n’était pas la montagne. Car il y avait une montagne. On ne la voyait pas d’ici, du fond du creux, mais Velkar la savait au sud, cette masse noire vers laquelle toutes les absences qu’il lisait depuis Pyrion se rangeaient comme la limaille vers l’aimant : un point unique, au sud, où l’on déplaçait des gens sans qu’ils se croisent. Ce qu’il y avait au bout, il l’ignorait. Le contenu lui échappait : il ne saurait jamais, il commençait à s’en douter, ce que ces gens croyaient aller faire. Mais la forme, la logistique, le dessin de la chose, cela il le lisait comme d’autres lisent une carte : quelqu’un, quelque part, tirait des fils épars vers un seul nœud, et le faisait avec un art qui lui arrachait, à lui, l’inquisiteur, un respect qui ressemblait à de la tendresse.
+L’aube pâlissait à l’orient, du côté qui n’était pas la montagne. Car il y avait une montagne. On ne la voyait pas d’ici, du fond du creux, mais Verkan la savait au sud, cette masse noire vers laquelle toutes les absences qu’il lisait depuis Pyrion se rangeaient comme la limaille vers l’aimant : un point unique, au sud, où l’on déplaçait des gens sans qu’ils se croisent. Ce qu’il y avait au bout, il l’ignorait. Le contenu lui échappait : il ne saurait jamais, il commençait à s’en douter, ce que ces gens croyaient aller faire. Mais la forme, la logistique, le dessin de la chose, cela il le lisait comme d’autres lisent une carte : quelqu’un, quelque part, tirait des fils épars vers un seul nœud, et le faisait avec un art qui lui arrachait, à lui, l’inquisiteur, un respect qui ressemblait à de la tendresse.
 
 « Tu es bonne », dit-il à voix haute, au creux vide, à la femme qui n’était pas là et qu’il n’avait jamais vue. « Tu es la meilleure que j’aie lue. »
 
@@ -78,7 +78,7 @@ Ce ne fut pas une pensée neuve. Elle l’accompagnait depuis Sulvane, depuis le
 
 Il resta un temps sans bouger, accroupi près du foyer mort, à laisser le lieu lui dire ce qu’il pouvait encore.
 
-Quatre couches, une veille. L’un d’eux n’avait pas dormi : un seul creux ne portait pas la marque tassée d’un corps couché mais celle, plus légère, plus étroite, d’un homme resté assis toute la nuit sur une pierre, tourné, à en juger par l’usure du sol devant lui, vers le sud. Vers la montagne qu’on ne voyait pas. Longtemps, Velkar considéra cette place-là. De l’homme qui l’avait tenue, il ne saurait rien : ni son nom, ni son visage, ni pourquoi on veille assis toute une nuit face à une masse noire. Mais il sut qu’il y avait, dans cette veille immobile, quelque chose qu’il reconnaissait sans pouvoir le nommer, et qui n’était pas de la peur, et qui n’était pas non plus tout à fait le contraire de la peur.
+Quatre couches, une veille. L’un d’eux n’avait pas dormi : un seul creux ne portait pas la marque tassée d’un corps couché mais celle, plus légère, plus étroite, d’un homme resté assis toute la nuit sur une pierre, tourné, à en juger par l’usure du sol devant lui, vers le sud. Vers la montagne qu’on ne voyait pas. Longtemps, Verkan considéra cette place-là. De l’homme qui l’avait tenue, il ne saurait rien : ni son nom, ni son visage, ni pourquoi on veille assis toute une nuit face à une masse noire. Mais il sut qu’il y avait, dans cette veille immobile, quelque chose qu’il reconnaissait sans pouvoir le nommer, et qui n’était pas de la peur, et qui n’était pas non plus tout à fait le contraire de la peur.
 
 Ses genoux le rappelèrent à son âge quand il se releva. Un dernier tour, méthodique, non qu’il espérât trouver mieux, mais parce que le métier ne se relâche pas devant le vide : c’est devant le vide, justement, qu’il faut le plus de rigueur, un vide mal lu étant pire qu’une trace fausse.
 
@@ -100,8 +100,8 @@ Se secouant, il jura tout bas : on n’attrape personne en s’attendrissant su
 
 ---
 
-Le jour était levé, franc, sans pitié pour la fatigue. Velkar remonta au bord du creux et regarda vers le sud, où l’on ne voyait rien qu’une brume basse mangeant les crêtes.
+Le jour était levé, franc, sans pitié pour la fatigue. Verkan remonta au bord du creux et regarda vers le sud, où l’on ne voyait rien qu’une brume basse mangeant les crêtes.
 
 Descendre, maintenant. Reprendre le fil, le peu qu’il en restait : la côte, une crique peut-être, une quille dans du sable, tout ce qu’elle aurait laissé mourir proprement avant lui. Il irait. Il irait parce qu’un homme ne s’arrête pas d’être ce qu’il est sous prétexte qu’il a compris qu’il perdrait ; parce que la course, même perdue d’avance, était la seule forme que sa vie savait prendre ; et parce qu’au fond, il se l’accorda ce matin-là, une fois, sur des cendres tièdes, il voulait moins les prendre désormais que les comprendre, et qu’il n’y avait, pour cela, pas d’autre chemin que de continuer à arriver trop tard, station après station, jusqu’à la dernière.
 
-Un dernier regard en arrière, au campement. Cinq places, un feu mort, l’herbe qui déjà se relevait dans les creux tassés, effaçant d’elle-même ce que nul n’avait eu besoin d’effacer. Dans une heure, un berger passerait sans rien voir. Dans un jour, la pluie prendrait le reste. Les gens qui avaient dormi là s’en allaient vers quelque chose dont Velkar ne mesurait pas l’ampleur, et le monde, autour d’eux, autour de lui, continuait de ne rien savoir, de border ses enfants, d’allumer ses lampes au bord des rades : un monde immense et paisible qui ignorait qu’on marchait, cette nuit, par cinq chemins séparés, vers l’endroit où quelqu’un se penchait déjà, très loin au sud, au-dessus d’une chose plus vieille que tous les ordres qu’un homme avait jamais cru défendre, et qui ne savait pas encore, elle non plus, ce qu’on venait lui demander.
+Un dernier regard en arrière, au campement. Cinq places, un feu mort, l’herbe qui déjà se relevait dans les creux tassés, effaçant d’elle-même ce que nul n’avait eu besoin d’effacer. Dans une heure, un berger passerait sans rien voir. Dans un jour, la pluie prendrait le reste. Les gens qui avaient dormi là s’en allaient vers quelque chose dont Verkan ne mesurait pas l’ampleur, et le monde, autour d’eux, autour de lui, continuait de ne rien savoir, de border ses enfants, d’allumer ses lampes au bord des rades : un monde immense et paisible qui ignorait qu’on marchait, cette nuit, par cinq chemins séparés, vers l’endroit où quelqu’un se penchait déjà, très loin au sud, au-dessus d’une chose plus vieille que tous les ordres qu’un homme avait jamais cru défendre, et qui ne savait pas encore, elle non plus, ce qu’on venait lui demander.

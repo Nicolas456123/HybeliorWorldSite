@@ -271,7 +271,7 @@ Le vieil érudit me regarda, et sa bouche eut un mouvement qui, chez un autre, a
 
 «  Non. J’ai pensé à ceci. Ce qui n’est pas la même chose, et c’est bien mon seul mérite. Le reste, je l’ignore, et je l’ai écrit là où je l’ignore.  »
 
-«  La modestie  », observa-t-il, «  chez un homme qui a traversé treize continents, est une forme d’habileté.  »
+«  La modestie  », observa-t-il, «  chez un homme qui a traversé douze continents, est une forme d’habileté.  »
 
 Je haussai à peine les épaules. «  Ou de fatigue. Vous choisirez.  »
 

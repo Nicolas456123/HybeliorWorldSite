@@ -24,7 +24,7 @@ cible_mots: "≥ 170 000 (plan détaillé 38 fiches : 183 800)"
 
 > **⚠ RÈGLE ABSOLUE.** Ce pitch révèle le narrateur non fiable : il est réservé à ce document. **La quatrième de couverture PUBLIQUE (_resume.md, site, Word) ne révèle JAMAIS que Sorin ment.** Elle vend l'aventure au premier degré : l'exilé, la traque, les érudits qui meurent sans assassin, le monde qui bascule — au plus une phrase ambiguë qui se relira après coup. La surprise des trois paliers (§2.6) est sacrée ; un lecteur qui sait d'avance perd le palier (a) ET le palier (b).
 
-*Sorin Valthen, cartographe déchu de Kharazir, tient le journal de son exil : neuf cent dix jours à travers les treize continents d'un monde au bord de basculer. On y suit un homme sans titres qui documente ce qu'il voit, ville après ville, avec la seule arme qui lui reste — son œil. C'est le récit d'un innocent broyé par les institutions.*
+*Sorin Valthen, cartographe déchu de Kharazir, tient le journal de son exil : neuf cent dix jours à travers les douze continents d'un monde au bord de basculer. On y suit un homme sans titres qui documente ce qu'il voit, ville après ville, avec la seule arme qui lui reste — son œil. C'est le récit d'un innocent broyé par les institutions.*
 
 *C'est ce qu'il veut vous faire croire.*
 
@@ -69,7 +69,7 @@ Le livre ne tient PAS sur le seul twist du narrateur : une idée unique ne porte
 **Sorin veut rendre la vérité indestructible.** Pas la trouver — la mettre hors de portée de ceux qui tuent pour l'enterrer. Son père est mort (ou pire) en la portant seul ; Veyla a été réduite au silence ; le rapport de Sorin sur les tunnels a été classé en deux heures [canon ch. 1]. La leçon paternelle, retournée en plan : **une vérité trop grande pour un seul homme ne peut pas mourir avec lui — à condition de la déposer partout à la fois, dans une forme qu'aucune institution ne peut rappeler.** [canon ch. 40, verbatim : « il a besoin que je le dépose là où d'autres peuvent le ramasser, le contester, et le compléter ».]
 
 Concrètement, son plan en trois temps :
-- **Se faire exiler** (pas emprisonner) : seul un Délié banni, taché de soupçon Catena Fracta, a à la fois la raison (l'errance) et la couverture (l'inoffensif cartographe déchu) pour parcourir les treize continents et voir ce qu'aucune lettre du Grand Recteur n'a encore classé [canon ch. 2 : « c'est dehors qu'il faudra les chercher... plus loin que Galenor même »].
+- **Se faire exiler** (pas emprisonner) : seul un Délié banni, taché de soupçon Catena Fracta, a à la fois la raison (l'errance) et la couverture (l'inoffensif cartographe déchu) pour parcourir les douze continents et voir ce qu'aucune lettre du Grand Recteur n'a encore classé [canon ch. 2 : « c'est dehors qu'il faudra les chercher... plus loin que Galenor même »].
 - **Assembler la preuve distribuée** du réseau ancien et de la fonction des Déliés, en la recueillant de la bouche des seuls qui savent : les érudits marqués, ceux que le monde efface. Il va vers eux parce qu'ils sont condamnés — et il moissonne leur savoir avant l'effacement.
 - **Fabriquer et planter le vaisseau indestructible** : le journal lui-même, écrit dès le premier jour pour être copié, dispersé, impossible à supprimer, et déposé au terme (Prismalith, Ysolde, le Tribunal ; seconde copie à Omarin ; relais aux marges) au moment exact où le monde commence à basculer [canon ch. 39-40].
 
@@ -200,7 +200,7 @@ C'est moralement pire qu'un témoin passif (il se sert des condamnés, il ne les
 
 ### 3.4bis — La règle de partage des deux effacements (garde-fou opérationnel, gravé)
 
-Le risque à écarter — arriver « une heure avant qu'on les fasse taire », de façon répétée, sur treize continents, exigerait de prédire la Guerre de l'Ombre, donc de consommer son imprévisibilité — se ferme par une seule phrase, à tenir dans chaque chapitre :
+Le risque à écarter — arriver « une heure avant qu'on les fasse taire », de façon répétée, sur douze continents, exigerait de prédire la Guerre de l'Ombre, donc de consommer son imprévisibilité — se ferme par une seule phrase, à tenir dans chaque chapitre :
 
 > **Sorin peut minuter l'appareil ; il ne peut JAMAIS minuter la Guerre de l'Ombre.**
 

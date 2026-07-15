@@ -186,7 +186,7 @@ Lirenn la regarda avec ce calme terrible des enfants qui ont compris avant les g
 
 « Pourrait quoi ?
 
-— Revenir. Repousser. Rappeler le Fléau. » Elle dit le mot bas, comme on ne prononce pas le nom d’une chose de peur qu’elle entende. « Je t’ai coupée pour te mettre à l’abri du Fléau, ma fille. Le Fléau mange les Tissés. Si tu n’es plus rien, tu es à l’abri. Mais si tu es encore quelque chose, quelque chose qui écoute l’air en retard, alors je ne sais plus si tu es à l’abri. Je ne sais plus ce que je t’ai fait. Je croyais t’avoir sauvée en te vidant. Et tu n’es pas vide. »
+— Revenir. Repousser. Rappeler le Fléau. » Elle dit le mot bas, comme on ne prononce pas le nom d’une chose de peur qu’elle entende. « Je t’ai coupée pour te mettre à l’abri du Fléau, ma fille. Le Fléau mange les Tisses. Si tu n’es plus rien, tu es à l’abri. Mais si tu es encore quelque chose, quelque chose qui écoute l’air en retard, alors je ne sais plus si tu es à l’abri. Je ne sais plus ce que je t’ai fait. Je croyais t’avoir sauvée en te vidant. Et tu n’es pas vide. »
 
 *
 

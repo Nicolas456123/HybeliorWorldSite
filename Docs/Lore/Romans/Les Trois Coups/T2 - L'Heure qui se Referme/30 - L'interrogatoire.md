@@ -88,7 +88,7 @@ Elle se pencha un peu, dans son quart de tour, si bien qu’elle regardait la la
 
 Le copiste avait fermé les yeux.
 
-« Autour d’elle, reprit Vaenor, le village. Les non-Tissés. Ceux que le Fléau ne touche pas. Ils l’entendaient crier depuis quatre semaines. Ils ne dormaient plus. Ils avaient cessé de travailler les champs. La moitié était partie sur les routes, l’autre moitié buvait ou priait ou battait ses propres enfants sans savoir pourquoi. Un homme s’était pendu, qui n’était pas malade : il n’en pouvait plus d’entendre. » Elle marqua un silence. « Le Fléau ne tue que les Tissés. Mais il ne tue pas qu’eux. Il ronge tout autour, comme une eau croupie ronge la berge. Voilà ce que j’ai vu. »
+« Autour d’elle, reprit Vaenor, le village. Les non-Tisses. Ceux que le Fléau ne touche pas. Ils l’entendaient crier depuis quatre semaines. Ils ne dormaient plus. Ils avaient cessé de travailler les champs. La moitié était partie sur les routes, l’autre moitié buvait ou priait ou battait ses propres enfants sans savoir pourquoi. Un homme s’était pendu, qui n’était pas malade : il n’en pouvait plus d’entendre. » Elle marqua un silence. « Le Fléau ne tue que les Tisses. Mais il ne tue pas qu’eux. Il ronge tout autour, comme une eau croupie ronge la berge. Voilà ce que j’ai vu. »
 
 *
 
@@ -132,7 +132,7 @@ Sans appuyer, presque distraitement, les yeux sur ses mains, il l’avait dit. M
 
 — C’est justement là où vous placez votre ligne. En Phase 1. » Il releva enfin les yeux. « Vous tuez au moment précis où l’on pourrait encore couper. »
 
-« La coupure mutile. » Elle l’entendit venir un peu trop vite dans sa propre bouche, comme une porte qu’on ferme un peu trop fort. « On coupe le Lien, on ampute. La personne devient non-Tissée pour toujours, on lui ôte quelque chose qu’elle n’a pas choisi de perdre. Et sur cent qu’on coupe, combien tiennent ? Le geste est brutal, il est risqué, il rate. »
+« La coupure mutile. » Elle l’entendit venir un peu trop vite dans sa propre bouche, comme une porte qu’on ferme un peu trop fort. « On coupe le Lien, on ampute. La personne devient non-Tisse pour toujours, on lui ôte quelque chose qu’elle n’a pas choisi de perdre. Et sur cent qu’on coupe, combien tiennent ? Le geste est brutal, il est risqué, il rate. »
 
 « Il rate parfois. Il réussit parfois. » Olven parlait toujours doucement, et cette douceur était devenue une lame. « Vous, vous ne ratez jamais. Ce que vous apaisez ne se relève pas. La coupure laisse une chance. Vous n’en laissez aucune. Et vous placez votre main juste avant celle qui, elle, laisserait une chance. »
 
@@ -152,7 +152,7 @@ Elle ne cilla pas. Mais il avait vu. Bien sûr qu’il avait vu ; c’était so
 
 « Répondez, dit-elle.
 
-— J’en ai vu vivre. » Il le dit simplement, sans triomphe, ce qui était pire que tout le triomphe du monde. « Pas beaucoup. La coupure est dure, vous dites vrai là-dessus. Mais j’en ai vu. Une femme de Sanavir, coupée jeune, qui a des enfants maintenant — non-Tissés, ses enfants, la lignée s’est éteinte en elle, mais elle vit, elle est vieille, elle rit. Un forgeron d’Onara. Un garçon que j’ai connu petit et qui laboure aujourd’hui. Ils ne portent plus le Lien. Ils ne le porteront jamais. On leur a coupé une part d’eux. Mais ils sont là, ils mangent, ils dorment sans crier. » Il baissa la voix. « Ce sont ceux qu’on n’a pas apaisés à temps. »
+— J’en ai vu vivre. » Il le dit simplement, sans triomphe, ce qui était pire que tout le triomphe du monde. « Pas beaucoup. La coupure est dure, vous dites vrai là-dessus. Mais j’en ai vu. Une femme de Sanavir, coupée jeune, qui a des enfants maintenant — non-Tisses, ses enfants, la lignée s’est éteinte en elle, mais elle vit, elle est vieille, elle rit. Un forgeron d’Onara. Un garçon que j’ai connu petit et qui laboure aujourd’hui. Ils ne portent plus le Lien. Ils ne le porteront jamais. On leur a coupé une part d’eux. Mais ils sont là, ils mangent, ils dorment sans crier. » Il baissa la voix. « Ce sont ceux qu’on n’a pas apaisés à temps. »
 
 Vaenor ne bougeait pas.
 

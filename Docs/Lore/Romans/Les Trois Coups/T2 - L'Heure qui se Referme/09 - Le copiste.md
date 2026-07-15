@@ -66,13 +66,13 @@ Ce regard-là, Olven le connaissait. Chez d’autres il l’avait vu, une fois p
 
 L’homme eut un son qui aurait pu être un rire s’il lui était resté de quoi rire. Sur le tabouret, il se laissa aller. Ses mains, quand il les posa sur ses genoux, tremblaient d’un tremblement fin, régulier, qui n’était pas le froid.
 
-« Tu es Tissé », dit Olven. Ce n’était pas une question.
+« Tu es Tisse », dit Olven. Ce n’était pas une question.
 
 L’homme se figea. Sa main droite glissa vers l’ouverture de sa tunique, un réflexe de bête qui protège son ventre.
 
 « Je ne le dirai à personne, dit Olven très vite. Regarde-moi. Je suis un Endeuillé. Nous n’avons jamais dénoncé un seul d’entre vous, pas un, en cent cinquante ans. C’est même à peu près la seule chose dont nous puissions être fiers. » Il approcha un bol, y versa ce qui restait de tisane tiède au fond du pot. « Bois. C’est de la sanavir. Ça ne guérit rien. Ça fait juste que la douleur te laisse dormir une heure ou deux. »
 
-L’homme prit le bol à deux mains. Il buvait comme on boit quand chaque gorgée est une décision. Teor, c’était son nom. Il le lâcha entre deux gorgées, à mi-voix, comme on rend les armes : le nom d’abord, parce qu’un Tissé qui donne son nom à un inconnu, par ces temps, se met tout entier dans la main de l’autre.
+L’homme prit le bol à deux mains. Il buvait comme on boit quand chaque gorgée est une décision. Teor, c’était son nom. Il le lâcha entre deux gorgées, à mi-voix, comme on rend les armes : le nom d’abord, parce qu’un Tisse qui donne son nom à un inconnu, par ces temps, se met tout entier dans la main de l’autre.
 
 « Tu n’aurais pas dû me le dire, ton nom.
 
@@ -98,7 +98,7 @@ C’était non. Bien sûr que c’était non. Le cahier ne protégeait de rien 
 
 À peine dit, il vit le visage de Teor se défaire, la planche à laquelle l’homme flottait lui glisser des mains, et il se hâta, parce qu’il connaissait ce visage, il l’avait vu tant de fois.
 
-« Écoute-moi jusqu’au bout. On le dit partout, oui : qu’il protège, qu’un Tissé qui dort avec lui sous l’oreiller ne passe pas la Phase 1, qu’on l’a fait circuler dans des villages et que le mal s’est arrêté. Ce sont des histoires. Et je comprends qu’on les fasse, parce qu’un homme qui a peur a besoin de tenir quelque chose, et il vaut mieux qu’il tienne un cahier qu’un couteau. Mais le papier ne referme aucune plaie. Ce n’est pas une amulette. »
+« Écoute-moi jusqu’au bout. On le dit partout, oui : qu’il protège, qu’un Tisse qui dort avec lui sous l’oreiller ne passe pas la Phase 1, qu’on l’a fait circuler dans des villages et que le mal s’est arrêté. Ce sont des histoires. Et je comprends qu’on les fasse, parce qu’un homme qui a peur a besoin de tenir quelque chose, et il vaut mieux qu’il tienne un cahier qu’un couteau. Mais le papier ne referme aucune plaie. Ce n’est pas une amulette. »
 
 « Alors il sert à quoi ? » La voix de Teor était devenue mate.
 
@@ -116,7 +116,7 @@ Cette chose-là, il ne pouvait pas la dire assis ; il se leva. Ses mains, il en 
 
 Teor le fixait, de biais, comme il fixait tout.
 
-« Le monde a été coupé. » Olven baissa la voix, prit ce ton qu’il gardait pour ce qui devait être dit lentement. « Il y a quinze siècles, une main a coupé le fil qui tenait tout. Cet homme le raconte, dans le cahier : il était de la main qui a coupé. Et quand on tranche un corps vivant, ça ne se referme pas tout seul, proprement, comme on voudrait. Ça suppure. La plaie travaille, elle s’infecte, elle rejette des années après ce qu’elle n’a pas su digérer. » Il ouvrit les mains, offrant la chose comme une évidence terrible. « Le Fléau, c’est la plaie qui suppure. Les déchirures dans l’air, celles qui avalent les villages, c’est la plaie qui suppure. Et toi, Teor, toi et tous les Tissés, vous portez en vous un petit bout du fil coupé. Un morceau du vieux monde qui n’est pas mort, qui est resté vivant dans votre chair et qui, depuis mille cinq cents ans, pourrit doucement. Ce qui te tue, ce n’est pas une malédiction. C’est un bout de vieux monde qui a mal cicatrisé en toi. »
+« Le monde a été coupé. » Olven baissa la voix, prit ce ton qu’il gardait pour ce qui devait être dit lentement. « Il y a quinze siècles, une main a coupé le fil qui tenait tout. Cet homme le raconte, dans le cahier : il était de la main qui a coupé. Et quand on tranche un corps vivant, ça ne se referme pas tout seul, proprement, comme on voudrait. Ça suppure. La plaie travaille, elle s’infecte, elle rejette des années après ce qu’elle n’a pas su digérer. » Il ouvrit les mains, offrant la chose comme une évidence terrible. « Le Fléau, c’est la plaie qui suppure. Les déchirures dans l’air, celles qui avalent les villages, c’est la plaie qui suppure. Et toi, Teor, toi et tous les Tisses, vous portez en vous un petit bout du fil coupé. Un morceau du vieux monde qui n’est pas mort, qui est resté vivant dans votre chair et qui, depuis mille cinq cents ans, pourrit doucement. Ce qui te tue, ce n’est pas une malédiction. C’est un bout de vieux monde qui a mal cicatrisé en toi. »
 
 Le silence, après cela, fut long. Dehors, très loin, un chien aboyait après quelque chose qui n’existait peut-être pas.
 
@@ -132,7 +132,7 @@ Teor hocha la tête lentement, et son regard oblique se perdit un instant dans l
 
 Et là, Olven aurait dû dire non encore une fois.
 
-Ce n’était pas écrit dedans. Le cahier, il le connaissait ligne à ligne ; il n’y avait pas de troisième coup, pas de promesse de recoudre, rien qu’un homme qui cachait son livre à la fin en espérant que quelqu’un de meilleur que lui le lise. Le Troisième Coup était une rumeur, une consolation : une glose qu’un copiste effrayé avait dû griffonner dans une marge et qu’un autre avait recopiée dans le corps du texte, et de marge en corps l’espoir avait fini par entrer dans le sang du livre comme le Fléau entrait dans le sang des Tissés. C’était exactement le genre d’ajout qu’un frère honnête devait signaler et laisser au lecteur de trancher.
+Ce n’était pas écrit dedans. Le cahier, il le connaissait ligne à ligne ; il n’y avait pas de troisième coup, pas de promesse de recoudre, rien qu’un homme qui cachait son livre à la fin en espérant que quelqu’un de meilleur que lui le lise. Le Troisième Coup était une rumeur, une consolation : une glose qu’un copiste effrayé avait dû griffonner dans une marge et qu’un autre avait recopiée dans le corps du texte, et de marge en corps l’espoir avait fini par entrer dans le sang du livre comme le Fléau entrait dans le sang des Tisses. C’était exactement le genre d’ajout qu’un frère honnête devait signaler et laisser au lecteur de trancher.
 
 « Ce n’est pas dans le livre, dit-il enfin. Le livre s’arrête au deuxième coup : il finit là où le monde se coupe. Le troisième, c’est ce que les hommes ont mis dans les marges après, chacun sa prière. »
 
@@ -178,7 +178,7 @@ Lui revinrent toutes les fois où il avait patiemment, honnêtement, démonté l
 
 Dans la pile, il prit non pas son modèle, celui-là il le gardait, il en était le copiste, il devait le faire vivre encore, mais la copie qu’il achevait, l’encre à peine sèche, la phrase du troisième feuillet posée dedans de sa main à lui, entière et vérifiée trois fois. Il l’enveloppa d’un carré de toile cirée, contre la pluie, contre la crasse des routes.
 
-« Tiens. Celui-ci est propre. Ne le montre à personne sur la route. Un Tissé qu’on trouve avec un texte verithane, c’est deux fois mort. »
+« Tiens. Celui-ci est propre. Ne le montre à personne sur la route. Un Tisse qu’on trouve avec un texte verithane, c’est deux fois mort. »
 
 Teor prit le paquet à deux mains, et le porta contre sa poitrine, sous la tunique, exactement là où montait le saignement quand il essayait, exactement à l’endroit qu’il avait protégé d’un réflexe de bête en entrant. Il le tint là. Les yeux clos, il resta ainsi le temps de trois souffles ; et sur son visage passa quelque chose qu’Olven ne sut nommer que bien plus tard, les nuits sans sommeil : le soulagement immense, animal, de celui qui a trouvé un dieu à qui parler.
 
