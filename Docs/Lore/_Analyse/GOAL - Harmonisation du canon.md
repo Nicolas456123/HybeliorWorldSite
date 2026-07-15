@@ -1,8 +1,9 @@
 ---
 tags: [goal, chantier, harmonisation, cohérence, canon, méta, gdd, lore, romans]
 type: meta-goal
-status: à-arbitrer
+status: arbitré — exécution en cours
 date: 2026-07-15
+phase-0-arbitrée: 2026-07-15
 portée: [GDD, Lore/Chronologie, Lore/Pays, Lore/Histoires, Lore/Religions, Romans, artefacts-site]
 dépend_de: [Audit cohérence 2026-07-05.md]
 ---
@@ -114,6 +115,39 @@ Rien de lourd ne peut être exécuté proprement avant ces arbitrages, parce qu'
 - **Le Mont Jumeau** : la Chronologie dit « aucune expédition documentée », les ch. 33-34 des Chroniques en documentent une. → *Nuancer la Chronologie (« aucune expédition parvenue aux académies avant le dépôt de Sorin ») plutôt que reflouter le texte.*
 - **« Velkar » Sorne** (antagoniste du T1) porte le nom d'un port canon d'Azoria. → *Renommer l'inquisiteur, ou assumer l'homonymie et retirer la justification phonologique de la bible.*
 - **La chaîne terminologique du Lien** (Vide → Tisse → non-Lié → « Délié ») et **le chantier différé « scission-religions-V4 »** (origines temps-profond vs schismes récents des fiches) restent ouverts depuis juillet. → *À instruire, voir chantiers B et F.*
+
+---
+
+## 4bis. Journal de Phase 0 — arbitrages actés (2026-07-15)
+
+Décisions prises par l'auteur (Nicolas). Elles font désormais foi et commandent l'exécution.
+
+**Cosmologie du GDD**
+- **D1 — Roster des douze Cosmiques : la liste GDD / D-COSMO-4 fait foi** (Aerion, Aquor, Aurion, Umbra, Spiritus, Fatum, Terranu, Somnix, Ignara, Sanguis, Resonia, Vermis). La Chronologie (Era 1a, Index) est amendée pour l'adopter ; les entités de l'ancienne liste Chronologie qui disparaissent (Climata, Gravitas, Vortex, Judicar, Stellaris, Aetheron, Etherius) sont reversées au rang **Astral**.
+- **D2 — « Céleste » = rang d'entités natives**, uniquement. Ce n'est plus un mortel élevé.
+- **D3 — Suppression de la notion de siège tenu par un mortel. Aucun mortel n'a de siège.** Conséquences : retirer de `Cosmologie.md` la section « Les Célestes — quand un mortel devient voix » et la remplacer par une description des rangs d'entités (Célestes, Astraux, Éthérés) ; retirer de `L'Accord.md` la promesse d'accession à un siège (l'Accord reste une résonance/attunement, pas une ascension) ; reformuler les titres du catalogue métiers (Arcana, Forgion, Cura, Asterion, Explorator…) en **honneurs / attributions légendaires liées aux entités**, pas en sièges atteignables.
+- **D4 — Aligner le GDD sur la réconciliation Lien/Délié déjà actée côté Chronologie (D-COSMO-3).** Mettre à jour `Univers.md` et `Le Lien.md` (tripartition héréditaire, trame historique, Tisses, statut des Voies au Sillage) + créer une page de concordance du lexique du Lien. Les romans ne bougent pas.
+- **D-bis** — Pacte Primordial : parties = **Éternels ET Cosmiques**. Blessure de Tempora : **lecture disputée** (pas un fait). Catena Fracta : **deux courants internes assumés** (rupturistes / carcéralistes).
+
+**Monde & Histoire**
+- **D5a — Corriger la table Chronologie : Caeloria → Azoria, Torkam → Alkaran.**
+- **D5b — Recentrer le théâtre des tomes 2 et 3 sur un bloc continental** : Forge-Basse et marges de Kessane déplacées sur Ilthara (plus petit retcon).
+- **D6 — « treize continents » → « douze »** dans les Chroniques et la bible v2.
+- **D7 — L'Heure (fin du Fléau) datée ~1600** : referme d'un coup les Failles *mobiles*, les statiques subsistent ; corriger le « vingt ans » de Drahvel.
+- **D8 — Le « Grand Silence » réécrit en déclin local/religieux** qui n'entame pas le pic magique global ; les Éternels tombent à l'An 0.
+
+**Décisions locales**
+- **L1 — Pas d'homonymie : noms distincts.** Continent **Cendara** / nation **Brumaria** (ex-« nation Cendara » des Chroniques, capitale Brumaris) / bourg **Cendral** (au pied du Mont, sur les cendres de l'ancienne cité). Carte politique de référence = **Arkhen + Pyrevane** (Chronologie/T3). *Principe général : les homonymies accidentelles se renomment ; les homonymies délibérées de l'Annexe C (Plaine de Gryndor ↔ nation Gryndor, Panghor supercontinent ↔ entité, les deux Portes de Fer, les deux Lunaris) restent, glosées.*
+- **L2 — Créer l'office du Cardinal-Élu de Caeloria** : tête religieuse siégeant à Vyntheris, distincte de la Haute-Prêtresse de Duskoris.
+- **L3 — Aligner la fiche Lunasar sur le texte** : Silence de trois jours, masque temporaire, distinct du masque permanent de Nysaria.
+- **L4 — Nuancer la Chronologie sur le Mont Jumeau** (« aucune expédition parvenue aux académies avant le dépôt de Sorin »).
+- **L5 — Renommer l'inquisiteur du T1** (Velkar → **Verkan Sorne**, le patronyme Sorne conservé pour la lignée), rechercher-remplacer dans le T1.
+- **L6 — Normaliser « Tisse »** dans les 13 chapitres du T2.
+
+**Exécution & livraison**
+- **E1 — Une passe** : correctifs sûrs + arbitrages ci-dessus, dans l'ordre GDD → Lore → romans → site.
+- **E2 — L'auteur revoit les ~110 correctifs mécaniques** avant application (liste de revue fournie).
+- **E3 — Livraison : push direct sur `main`** (pas de PR), **après la revue E2**. Reconciliation E2/E3 : travail sur la branche `claude/four-books-summary-f9fi76`, revue en fil, puis push sur `main`.
 
 ---
 
