@@ -2,19 +2,32 @@ function initMap() {
     if (window._mapInitialized) return;
     window._mapInitialized = true;
 
+    // Taille de chaque libellé à son palier de zoom validé. Le produit
+    // fontSize * zoom reste constant, donc tous les tiers ont la même taille
+    // apparente lorsqu'on les ouvre depuis la barre de zoom.
+    const LABEL_FONT_SIZES = {
+        continentsElements: 0.03,
+        paysElements: 0.01,
+        regionElements: 0.004,
+        capitalesElements: 0.0015,
+        citesElements: 0.0015,
+        villesElements: 0.0011,
+        villagesElements: 0.0006
+    };
+
     // Configuration globale
     const CONFIG = {
         worldWidthKm: 1000,
         layers: [
-            { fontSize: "0.03", storage: "continentsElements", xOffset: 0, yOffset: 0, zoomRange: [0, 2] },
-            { fontSize: "0.01", storage: "paysElements", xOffset: 0, yOffset: 0, zoomRange: [2, 4] },
-            { fontSize: "0.004", storage: "regionElements", xOffset: 0, yOffset: 0, zoomRange: [4, 10] },
+            { fontSize: LABEL_FONT_SIZES.continentsElements, storage: "continentsElements", xOffset: 0, yOffset: 0, zoomRange: [0, 2] },
+            { fontSize: LABEL_FONT_SIZES.paysElements, storage: "paysElements", xOffset: 0, yOffset: 0, zoomRange: [2, 4] },
+            { fontSize: LABEL_FONT_SIZES.regionElements, storage: "regionElements", xOffset: 0, yOffset: 0, zoomRange: [4, 10] },
             // Plages de zoom exclusives par tier : à zoom max, seuls les villages restent
             // pour éviter la superposition (était : tous Infinity → 48 labels superposés à zoom 85).
-            { fontSize: "0.011", storage: "capitalesElements", xOffset: 0, yOffset: 0.020, showMarker: true, iconScale: 1.5, zoomRange: [10, 60] },
-            { fontSize: "0.010", storage: "citesElements",     xOffset: 0, yOffset: 0.016, showMarker: true, iconScale: 1.2, zoomRange: [14, 70] },
-            { fontSize: "0.010", storage: "villesElements",    xOffset: 0, yOffset: 0.012, showMarker: true, iconScale: 0.8, zoomRange: [16, Infinity] },
-            { fontSize: "0.010", storage: "villagesElements",  xOffset: 0, yOffset: 0.011, showMarker: true, iconScale: 0.6, zoomRange: [18, Infinity] }
+            { fontSize: LABEL_FONT_SIZES.capitalesElements, storage: "capitalesElements", xOffset: 0, yOffset: 0.0027, showMarker: true, iconScale: 1.5, zoomRange: [10, 60] },
+            { fontSize: LABEL_FONT_SIZES.citesElements,     storage: "citesElements",     xOffset: 0, yOffset: 0.0024, showMarker: true, iconScale: 1.2, zoomRange: [14, 70] },
+            { fontSize: LABEL_FONT_SIZES.villesElements,    storage: "villesElements",    xOffset: 0, yOffset: 0.00132, showMarker: true, iconScale: 0.8, zoomRange: [16, Infinity] },
+            { fontSize: LABEL_FONT_SIZES.villagesElements,  storage: "villagesElements",  xOffset: 0, yOffset: 0.00066, showMarker: true, iconScale: 0.6, zoomRange: [18, Infinity] }
         ]
     };
 
@@ -2944,7 +2957,15 @@ function initMap() {
 
     // Font sizes matching each bar icon (Global has no fontSize → zoom 0)
     // Icons: 🌍Global(0), 🏔Continents(0.03), 🚩Pays(0.01), 🏰Régions(0.004), ⚔Cités(0.0015), 🏠Villes(0.0011), 🌿Villages(0.0006)
-    const ZOOM_BAR_FONT_SIZES = [null, 0.03, 0.01, 0.004, 0.0015, 0.0011, 0.0006];
+    const ZOOM_BAR_FONT_SIZES = [
+        null,
+        LABEL_FONT_SIZES.continentsElements,
+        LABEL_FONT_SIZES.paysElements,
+        LABEL_FONT_SIZES.regionElements,
+        LABEL_FONT_SIZES.citesElements,
+        LABEL_FONT_SIZES.villesElements,
+        LABEL_FONT_SIZES.villagesElements
+    ];
 
     // Compute adjusted stops: same formula as getTargetZoom → (VISUAL_SIZE_REF / fontSize) * clickZoomMultiplier
     function getAdjustedStops() {
