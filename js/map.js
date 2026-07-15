@@ -2248,44 +2248,84 @@ function initMap() {
 
     function measureLabelHitbox(label, fontSize, fontWeight, letterSpacing, fontStyle) {
         const text = label || '';
-        const paddingX = fontSize * 0.35;
-        const paddingY = fontSize * 0.35;
-        let textWidth = Math.max(text.length, 1) * fontSize * 0.6;
-        let glyphHeight = fontSize;
+        const paddingX = fontSize * 0.18;
+        const paddingY = fontSize * 0.14;
+        let leftExtent = Math.max(text.length, 1) * fontSize * 0.3;
+        let rightExtent = leftExtent;
+        let ascent = fontSize * 0.8;
+        let descent = fontSize * 0.2;
 
         if (labelMeasureContext) {
             labelMeasureContext.font = `${fontStyle || 'normal'} ${fontWeight || 'normal'} ${LABEL_MEASURE_SIZE}px ${LABEL_FONT_FAMILY}`;
+            labelMeasureContext.textAlign = 'center';
+            labelMeasureContext.textBaseline = 'alphabetic';
             const metrics = labelMeasureContext.measureText(text);
-            const measuredWidth = (metrics.width / LABEL_MEASURE_SIZE) * fontSize;
-            const measuredHeight = ((metrics.actualBoundingBoxAscent + metrics.actualBoundingBoxDescent) / LABEL_MEASURE_SIZE) * fontSize;
-            if (Number.isFinite(measuredWidth) && measuredWidth > 0) textWidth = measuredWidth;
-            if (Number.isFinite(measuredHeight) && measuredHeight > 0) glyphHeight = measuredHeight;
+            const scale = fontSize / LABEL_MEASURE_SIZE;
+            const measuredLeft = metrics.actualBoundingBoxLeft * scale;
+            const measuredRight = metrics.actualBoundingBoxRight * scale;
+            const measuredAscent = metrics.actualBoundingBoxAscent * scale;
+            const measuredDescent = metrics.actualBoundingBoxDescent * scale;
+            if (Number.isFinite(measuredLeft) && measuredLeft > 0) leftExtent = measuredLeft;
+            if (Number.isFinite(measuredRight) && measuredRight > 0) rightExtent = measuredRight;
+            if (Number.isFinite(measuredAscent) && measuredAscent > 0) ascent = measuredAscent;
+            if (Number.isFinite(measuredDescent) && measuredDescent >= 0) descent = measuredDescent;
         }
 
-        textWidth += Math.max(0, text.length - 1) * letterSpacing;
+        const spacingWidth = Math.max(0, text.length - 1) * letterSpacing;
+        leftExtent += spacingWidth / 2;
+        rightExtent += spacingWidth / 2;
+        const width = Math.max(leftExtent + rightExtent + (paddingX * 2), fontSize);
+        const height = Math.max(ascent + descent + (paddingY * 2), fontSize);
         return {
-            width: Math.max(textWidth + (paddingX * 2), fontSize),
-            height: Math.max(glyphHeight + (paddingY * 2), fontSize * 1.5)
+            xOffset: -leftExtent - paddingX,
+            yOffset: -ascent - paddingY,
+            width,
+            height
         };
     }
 
     function updateHitboxGeometry(rect, text, centerX, centerY, fontSize, fontWeight, letterSpacing) {
-        const bounds = measureLabelHitbox(
-            text.textContent,
-            fontSize,
-            fontWeight,
-            letterSpacing,
-            text.getAttribute('font-style') || 'normal'
-        );
-        const hitX = centerX - (bounds.width / 2);
-        const hitY = centerY - (bounds.height / 2);
+        const renderScale = parseFloat(text.dataset.textScale || '1');
+        let hitX;
+        let hitY;
+        let hitWidth;
+        let hitHeight;
 
-        rect.setAttribute('x', hitX);
-        rect.setAttribute('y', hitY);
-        rect.setAttribute('width', bounds.width);
-        rect.setAttribute('height', bounds.height);
+        try {
+            const bbox = text.getBBox();
+            const paddingX = fontSize * renderScale * 0.18;
+            const paddingY = fontSize * renderScale * 0.14;
+            if (!Number.isFinite(bbox.width) || !Number.isFinite(bbox.height) || bbox.width <= 0 || bbox.height <= 0) {
+                throw new Error('Invalid SVG text bounds');
+            }
+            hitX = (bbox.x - paddingX) / renderScale;
+            hitY = (bbox.y - paddingY) / renderScale;
+            hitWidth = (bbox.width + (paddingX * 2)) / renderScale;
+            hitHeight = (bbox.height + (paddingY * 2)) / renderScale;
+            rect.dataset.measurement = 'svg';
+        } catch {
+            const bounds = measureLabelHitbox(
+                text.textContent,
+                fontSize,
+                fontWeight,
+                letterSpacing,
+                text.getAttribute('font-style') || 'normal'
+            );
+            hitX = centerX + bounds.xOffset;
+            hitY = centerY + bounds.yOffset;
+            hitWidth = bounds.width;
+            hitHeight = bounds.height;
+            rect.dataset.measurement = 'canvas';
+        }
+
+        rect.setAttribute('x', hitX * renderScale);
+        rect.setAttribute('y', hitY * renderScale);
+        rect.setAttribute('width', hitWidth * renderScale);
+        rect.setAttribute('height', hitHeight * renderScale);
+        rect.setAttribute('transform', `scale(${1 / renderScale})`);
         rect.dataset.hitOffsetX = hitX - centerX;
         rect.dataset.hitOffsetY = hitY - centerY;
+        rect.dataset.renderScale = renderScale;
         rect.dataset.fontWeight = fontWeight;
         rect.dataset.letterSpacing = letterSpacing;
         rect.dataset.displayName = text.textContent;
@@ -2363,16 +2403,11 @@ function initMap() {
             displayName = name;
         }
 
-        // Le tier "régions" a un font-size (0.004) SOUS le seuil de rastérisation des
-        // <text> SVG de Chrome (~0.009 en unités locales, indépendamment du zoom) : ses
-        // glyphes sortent en hauteur 0 et restent invisibles, alors que les autres tiers
-        // (font >= 0.01) se rendent normalement. Parade : on rastérise le glyphe à une
-        // taille au-dessus du seuil (RENDER_TARGET) puis on contre-scale l'élément <text>
-        // via transform="scale(1/textScale)" — l'apparence finale est identique. Seul le
-        // tier régions est concerné ; les autres ont textScale = 1 (aucun transform).
-        const RENDER_SAFE_MIN = 0.009;
-        const RENDER_TARGET = 0.02;
-        const textScale = fontSize < RENDER_SAFE_MIN ? RENDER_TARGET / fontSize : 1;
+        // Chrome perd en précision sur l'ancrage et la rasterisation des textes SVG
+        // minuscules. Tous les tiers sont rendus dans un repère typographique stable,
+        // puis contre-redimensionnés avec exactement la même transformation que leur hitbox.
+        const RENDER_TARGET = 1;
+        const textScale = RENDER_TARGET / fontSize;
 
         // Déterminer les positions selon l'état du wrapping
         const positions = wrappingEnabled ? [
@@ -2390,9 +2425,8 @@ function initMap() {
         positions.forEach(offset => {
             // Création du texte
             const textElement = document.createElementNS("http://www.w3.org/2000/svg", "text");
-            // Position/tailles multipliées par textScale ; le transform scale(1/textScale)
-            // rétablit l'apparence finale (cf. note RENDER_SAFE_MIN plus haut). Pour les
-            // tiers non concernés, textScale === 1 → aucun transform, valeurs inchangées.
+            // Position/tailles multipliées par textScale ; le contre-scale rétablit
+            // exactement la taille finale validée pour ce palier de zoom.
             textElement.setAttribute("x", (coord.x + config.xOffset + offset.x) * textScale);
             textElement.setAttribute("y", (coord.y + config.yOffset + offset.y) * textScale);
             textElement.setAttribute("fill", textFill);
@@ -2405,15 +2439,16 @@ function initMap() {
             textElement.setAttribute("pointer-events", "none");
             textElement.setAttribute("paint-order", "stroke");
             textElement.setAttribute("stroke-linejoin", "round");
-            textElement.setAttribute("dominant-baseline", "central");
+            textElement.setAttribute("dominant-baseline", "alphabetic");
             textElement.setAttribute("text-rendering", "geometricPrecision");
-            if (textScale !== 1) {
-                textElement.setAttribute("transform", "scale(" + (1 / textScale) + ")");
-            }
+            textElement.setAttribute("transform", "scale(" + (1 / textScale) + ")");
             if (letterSpacing > 0) {
                 textElement.setAttribute("letter-spacing", letterSpacing * textScale);
             }
             textElement.textContent = displayName;
+            textElement.dataset.textScale = textScale;
+            textElement.dataset.wrapX = offset.x;
+            textElement.dataset.wrapY = offset.y;
 
             // Zone de clic transparente, ajustée à la taille du libellé.
             const rectElement = document.createElementNS("http://www.w3.org/2000/svg", "rect");
@@ -2461,9 +2496,6 @@ function initMap() {
             );
             rectElement.dataset.wrapX = offset.x;
             rectElement.dataset.wrapY = offset.y;
-            textElement.dataset.textScale = textScale;
-            textElement.dataset.wrapX = offset.x;
-            textElement.dataset.wrapY = offset.y;
             svgOverlay.node().insertBefore(rectElement, textElement);
 
             // Gestionnaire de clic
@@ -2928,6 +2960,7 @@ function initMap() {
                         const mState = (state === 'none' || !markersVisible) ? 'none' : state;
                         element.markers.forEach(m => m.style.display = mState);
                     }
+                    if (state !== 'none') refreshElementHitboxes(element);
                 };
 
                 // Masquer les entités cachées par le filtre temporel
@@ -3451,8 +3484,9 @@ function initMap() {
             const wrapY = parseFloat(r.dataset.wrapY || '0');
             const hitOffsetX = parseFloat(r.dataset.hitOffsetX || '0');
             const hitOffsetY = parseFloat(r.dataset.hitOffsetY || '0');
-            r.setAttribute("x", point.x + element.xOffset + wrapX + hitOffsetX);
-            r.setAttribute("y", point.y + element.yOffset + wrapY + hitOffsetY);
+            const renderScale = parseFloat(r.dataset.renderScale || '1');
+            r.setAttribute("x", (point.x + element.xOffset + wrapX + hitOffsetX) * renderScale);
+            r.setAttribute("y", (point.y + element.yOffset + wrapY + hitOffsetY) * renderScale);
         });
 
         (element.markers || []).forEach(marker => {
