@@ -16,7 +16,7 @@ Vaskar Sorne y descendait chaque nuit par le même escalier, cent onze marches, 
 
 Cette nuit-là, il classait un mort.
 
-Le dossier était neuf, il en tenait encore la fraîcheur administrative sous les doigts, la colle des chemises pas tout à fait sèche. Sur la couverture, une main de greffier avait porté le nom : *Serathis, Cardinal-Élu de Caeloria*. En dessous, la formule qui revenait désormais si souvent qu’un copiste l’avait fait graver sur un tampon pour s’épargner de l’écrire : *décès par cause non revendiquée*. Non revendiquée. Le monde entier savait comment mourait le Cardinal-Élu Serathis, une lame propre entre deux gardes, dans une ville tenue, sous des protocoles qu’on avait triplés pour rien ; et personne ne savait de quelle main. Les deux choses étaient vraies en même temps. C’était même, à bien y regarder, la seule chose que le dossier établissait avec certitude : qu’on pouvait tout savoir d’une mort et rien de son auteur.
+Le dossier était neuf, il en tenait encore la fraîcheur administrative sous les doigts, la colle des chemises pas tout à fait sèche. Sur la couverture, une main de greffier avait porté le nom : *Vyntaris, Cardinal-Élu de Caeloria*. En dessous, la formule qui revenait désormais si souvent qu’un copiste l’avait fait graver sur un tampon pour s’épargner de l’écrire : *décès par cause non revendiquée*. Non revendiquée. Le monde entier savait comment mourait le Cardinal-Élu Vyntaris, une lame propre entre deux gardes, dans une ville tenue, sous des protocoles qu’on avait triplés pour rien ; et personne ne savait de quelle main. Les deux choses étaient vraies en même temps. C’était même, à bien y regarder, la seule chose que le dossier établissait avec certitude : qu’on pouvait tout savoir d’une mort et rien de son auteur.
 
 Vaskar posa la lampe à sa gauche, comme toujours, pour que l’ombre de sa main ne tombât pas sur la ligne qu’il lisait. Puis il commença ce qu’il faisait de mieux, ce que sa lignée avait fait avant lui sans qu’il se sût d’aucune lignée : il lut les absences.
 
@@ -28,17 +28,17 @@ Le pas de Karsel, dans l’escalier, se reconnaissait à ce qu’il descendait t
 
 « Le relevé du mois, » dit Karsel en posant une liasse au bord de la table, essoufflé de ses cent onze marches. « Le Prime le veut au propre pour l’aube. »
 
-« Il ne le veut pas pour l’aube. Il le veut pour ne pas l’avoir demandé deux fois. » Vaskar ne leva pas les yeux du dossier de Serathis. « Ce n’est pas la même urgence. La première vous fait courir. La seconde vous fait bien faire. Posez-vous. »
+« Il ne le veut pas pour l’aube. Il le veut pour ne pas l’avoir demandé deux fois. » Vaskar ne leva pas les yeux du dossier de Vyntaris. « Ce n’est pas la même urgence. La première vous fait courir. La seconde vous fait bien faire. Posez-vous. »
 
 Karsel se posa, sur le tabouret bas qui servait aux visiteurs, ceux qu’on faisait attendre en dessous de soi. Il avait vingt-trois ans, de bons chiffres, une écriture nette et cette gravité inquiète des gens jeunes qui ont compris trop vite dans quel monde ils entraient. Vaskar l’aimait bien, de la manière dont on aime un outil qu’on a soi-même affûté et dont on surveille le fil.
 
-« Trois cette année, » dit Karsel au bout d’un silence, en regardant le dossier ouvert. « Serathis fait le troisième. »
+« Trois cette année, » dit Karsel au bout d’un silence, en regardant le dossier ouvert. « Vyntaris fait le troisième. »
 
 « Quatre. »
 
 Le jeune leva la tête.
 
-« Trois morts, » reprit Vaskar, du même ton plat, celui qui ne corrigeait pas pour humilier mais parce qu’un chiffre faux était, pour lui, une petite douleur physique, la sensation d’un os mal remis. « Quatre tentatives. Vous comptez les corps. On ne compte pas les corps. La Reine Solva a survécu, en Astremer, au printemps ; on lui a manqué de peu, la lame a pris le chambellan à sa place. Une main qui rate reste une main. Elle vous apprend exactement ce que la main qui réussit vous apprend : qui l’on veut mort, et combien on le veut. Vous ôtez Solva de votre compte parce qu’elle respire, et ce faisant vous jetez la moitié de ce que nous savons. » Il tira à lui la liasse, la parcourut, retourna deux feuillets. « Trois et un. Quatre. Portez quatre. »
+« Trois morts, » reprit Vaskar, du même ton plat, celui qui ne corrigeait pas pour humilier mais parce qu’un chiffre faux était, pour lui, une petite douleur physique, la sensation d’un os mal remis. « Quatre tentatives. Vous comptez les corps. On ne compte pas les corps. La Reine Ysendre a survécu, en Astremer, au printemps ; on lui a manqué de peu, la lame a pris le chambellan à sa place. Une main qui rate reste une main. Elle vous apprend exactement ce que la main qui réussit vous apprend : qui l’on veut mort, et combien on le veut. Vous ôtez Ysendre de votre compte parce qu’elle respire, et ce faisant vous jetez la moitié de ce que nous savons. » Il tira à lui la liasse, la parcourut, retourna deux feuillets. « Trois et un. Quatre. Portez quatre. »
 
 « Quatre, » répéta Karsel, et il le nota, et sa manière de le noter disait qu’il avait compris plus que le chiffre.
 
@@ -54,7 +54,7 @@ Le jeune eut ce petit tressaillement de ceux à qui l’on ôte leur question de
 
 Karsel hésita, puis obéit, parce qu’aux Fonds on obéissait aux questions dont l’autre connaissait déjà la réponse ; c’était une manière d’apprendre.
 
-« Le Consul-Adjoint Mira, qui voulait un traité de libre passage entre Kharazir et Mosrack. Le Général Pyrak, qui avait refusé de marcher et prêchait la table plutôt que le champ. L’Archiviste Davan. La Reine Solva, qui recevait les envoyés non-Liés à sa cour. Le Prophète Uveth, qu’on a trouvé dans le Mont. Serathis, qui parlait de concile. » Il s’arrêta. « Des gens qui voulaient… se parler. »
+« Le Consul-Adjoint Selvir, qui voulait un traité de libre passage entre Kharazir et Mosrack. Le Général Ostrek, qui avait refusé de marcher et prêchait la table plutôt que le champ. L’Archiviste Nevran. La Reine Ysendre, qui recevait les envoyés non-Liés à sa cour. Le Prophète Vharok, qu’on a trouvé dans le Mont. Vyntaris, qui parlait de concile. » Il s’arrêta. « Des gens qui voulaient… se parler. »
 
 « Continuez. Vous y êtes. »
 
@@ -70,11 +70,11 @@ Karsel ouvrit la bouche, la referma. Le piège n’en était pas un ; c’étai
 
 *
 
-Vaskar se leva, prit le dossier de Serathis contre sa poitrine, la lampe de l’autre main, et fit ce qu’il venait faire cette nuit : le porter jusqu’à sa place. Karsel le suivit, parce qu’on ne renvoie pas un jeune au milieu d’une leçon.
+Vaskar se leva, prit le dossier de Vyntaris contre sa poitrine, la lampe de l’autre main, et fit ce qu’il venait faire cette nuit : le porter jusqu’à sa place. Karsel le suivit, parce qu’on ne renvoie pas un jeune au milieu d’une leçon.
 
 Les coffres des vieux fonds tenaient l’aile la plus profonde, celle qu’on appelait Drahk’Nor par vieille habitude, du nom de la cité qui avait été là avant Drakora et dont Drakora était née comme un arbre naît de sa souche, sans se souvenir de la graine. C’étaient des caisses de fer noir alignées le long du mur porteur, certaines vieilles de mille ans, certaines de bien davantage, cabossées, mangées de rouille sèche, marquées d’écussons que plus personne ne savait lire, le poing fermé sur une flamme, une roue, un sceau qui avait été celui d’un ordre dissous depuis si longtemps qu’on n’en disait même plus le nom. On versait là, de siècle en siècle, ce que les postes plus petits, en mourant, laissaient derrière eux : les preuves de procès oubliés, les saisies de guerres finies, tout ce qu’aucun État successif n’avait eu ni le courage de détruire ni la raison de rouvrir. Les Fonds étaient l’estomac lent d’un pays : ils digéraient les siècles, et ce qu’ils ne pouvaient pas digérer, ils le gardaient entier, indéfiniment, dans le froid.
 
-À la travée des affaires non revendiquées, Vaskar glissa le dossier de Serathis à sa place, entre deux morts plus anciennes, et le rang se referma sur lui comme l’eau sur une pierre.
+À la travée des affaires non revendiquées, Vaskar glissa le dossier de Vyntaris à sa place, entre deux morts plus anciennes, et le rang se referma sur lui comme l’eau sur une pierre.
 
 En retirant la main, il la toucha.
 
@@ -106,7 +106,7 @@ Ils remontèrent vers la table, laissant les vieux coffres à leur nuit sans nui
 
 « Précisez. On ne fait rien de quoi. »
 
-« Des morts. » Karsel avait baissé la voix, non que quelqu’un pût l’entendre, à douze toises sous la ville, mais parce que certaines pensées se disent bas par instinct. « Le dessin, vous l’avez dit vous-même, il existe. On sait quel genre d’homme meurt. On sait quel genre d’homme mourra ensuite : un raccommodeur, un pont, quelqu’un qui parle de table. On tient, dans nos dossiers, la liste de tous ceux qui, demain, prêcheront le concile ou le libre passage. On pourrait les prévenir. Un mot. *Prenez garde, on abat vos pareils.* On pourrait sauver le prochain Serathis avant qu’il soit un dossier. Et on ne le fait pas. On classe. On scelle. On descend le mort à sa place, comme cette nuit, et on remonte. » Il regarda Vaskar bien en face, ce qui, chez lui, était un acte de courage. « Pourquoi on ne prévient pas ? »
+« Des morts. » Karsel avait baissé la voix, non que quelqu’un pût l’entendre, à douze toises sous la ville, mais parce que certaines pensées se disent bas par instinct. « Le dessin, vous l’avez dit vous-même, il existe. On sait quel genre d’homme meurt. On sait quel genre d’homme mourra ensuite : un raccommodeur, un pont, quelqu’un qui parle de table. On tient, dans nos dossiers, la liste de tous ceux qui, demain, prêcheront le concile ou le libre passage. On pourrait les prévenir. Un mot. *Prenez garde, on abat vos pareils.* On pourrait sauver le prochain Vyntaris avant qu’il soit un dossier. Et on ne le fait pas. On classe. On scelle. On descend le mort à sa place, comme cette nuit, et on remonte. » Il regarda Vaskar bien en face, ce qui, chez lui, était un acte de courage. « Pourquoi on ne prévient pas ? »
 
 Vaskar ne répondit pas tout de suite. Ce n’était pas qu’il n’eût pas la réponse ; il l’avait, entière, il vivait dedans depuis vingt ans. C’était qu’il pesait comment la donner à un homme de vingt-trois ans sans la lui donner trop tôt, car une doctrine reçue trop jeune, mal mâchée, devient ou bien un cynisme, ou bien une révolte, et il ne voulait pour Karsel ni l’un ni l’autre. Il voulait qu’il comprît. C’est plus long.
 
@@ -114,11 +114,11 @@ Vaskar ne répondit pas tout de suite. Ce n’était pas qu’il n’eût pas la
 
 « Ils se gardent. Ils se protègent. »
 
-« Non. Réfléchissez comme un dossier, pas comme un cœur. Le lendemain matin, cent hommes qui ne se connaissent pas, dans dix pays qui ne se parlent pas, savent en même temps qu’une main sans visage tue les pacificateurs. Que font cent hommes qui apprennent en même temps qu’on les chasse ? » Il n’attendit pas. « Les uns fuient, et le pont qu’ils tenaient tombe, parce qu’un raccommodeur qui se cache ne raccommode plus rien. Les autres accusent. Celui de Kharazir accuse Mosrack, celui de Mosrack accuse Kharazir, chacun est sûr de savoir qui, chacun le crie, et le crie sans preuve, parce que nous, qui n’avons pas de preuve, la leur aurons mise dans la bouche. Vous vouliez sauver le prochain Serathis. Vous venez, avec votre mot de bonté, de donner à cent chancelleries la certitude qu’elles cherchaient un ennemi. Vous n’avez pas empêché une mort. Vous avez armé une guerre. »
+« Non. Réfléchissez comme un dossier, pas comme un cœur. Le lendemain matin, cent hommes qui ne se connaissent pas, dans dix pays qui ne se parlent pas, savent en même temps qu’une main sans visage tue les pacificateurs. Que font cent hommes qui apprennent en même temps qu’on les chasse ? » Il n’attendit pas. « Les uns fuient, et le pont qu’ils tenaient tombe, parce qu’un raccommodeur qui se cache ne raccommode plus rien. Les autres accusent. Celui de Kharazir accuse Mosrack, celui de Mosrack accuse Kharazir, chacun est sûr de savoir qui, chacun le crie, et le crie sans preuve, parce que nous, qui n’avons pas de preuve, la leur aurons mise dans la bouche. Vous vouliez sauver le prochain Vyntaris. Vous venez, avec votre mot de bonté, de donner à cent chancelleries la certitude qu’elles cherchaient un ennemi. Vous n’avez pas empêché une mort. Vous avez armé une guerre. »
 
 Karsel se taisait, et dans son silence Vaskar reconnut le bon silence, celui d’une pensée qui plie sans casser.
 
-« Le monde d’aujourd’hui, » reprit-il, et sa voix ne monta pas d’un ton, elle ne montait jamais, « tient à un fil. Vous êtes trop jeune pour sentir à quel point. Il n’y a pas de cadre commun, pas de table où tous s’assoient, pas de loi au-dessus des lois. Rien que des peurs qui se regardent. Un rien peut le rompre : une rumeur, un chiffre lâché trop tôt, une vérité vraie dite au mauvais moment. Nous ne sommes pas ici pour savoir. N’importe quel imbécile veut savoir. Nous sommes ici pour tenir. Et tenir, dans un monde à un souffle de la rupture, ce n’est pas dire ce qui est vrai. C’est décider, à chaque fois, ce que le monde peut porter. » Il posa la main à plat sur le dossier de Serathis, comme sur une pierre qu’on remet en place dans un mur. « On n’inquiète pas le monde avec ce qu’il ne peut pas porter, Karsel. C’est tout notre métier. Ce n’est pas un métier de courage. C’est un métier de poids. On soupèse, on garde, on se tait. Le silence que nous tenons ici n’est pas une lâcheté. C’est une digue. »
+« Le monde d’aujourd’hui, » reprit-il, et sa voix ne monta pas d’un ton, elle ne montait jamais, « tient à un fil. Vous êtes trop jeune pour sentir à quel point. Il n’y a pas de cadre commun, pas de table où tous s’assoient, pas de loi au-dessus des lois. Rien que des peurs qui se regardent. Un rien peut le rompre : une rumeur, un chiffre lâché trop tôt, une vérité vraie dite au mauvais moment. Nous ne sommes pas ici pour savoir. N’importe quel imbécile veut savoir. Nous sommes ici pour tenir. Et tenir, dans un monde à un souffle de la rupture, ce n’est pas dire ce qui est vrai. C’est décider, à chaque fois, ce que le monde peut porter. » Il posa la main à plat sur le dossier de Vyntaris, comme sur une pierre qu’on remet en place dans un mur. « On n’inquiète pas le monde avec ce qu’il ne peut pas porter, Karsel. C’est tout notre métier. Ce n’est pas un métier de courage. C’est un métier de poids. On soupèse, on garde, on se tait. Le silence que nous tenons ici n’est pas une lâcheté. C’est une digue. »
 
 « Une digue devant quoi ? »
 
@@ -128,19 +128,19 @@ Karsel se taisait, et dans son silence Vaskar reconnut le bon silence, celui d�
 
 Il renvoya Karsel après cela, doucement, avec le relevé à mettre au propre, et le jeune remonta ses cent onze marches plus lentement qu’il ne les avait descendues, ce qui était bon signe. Vaskar resta.
 
-Seul, il ne rangeait plus rien. La table portait le dossier clos de Serathis, la liasse du mois, la lampe. Au loin, dans l’aile profonde, les vieux coffres se taisaient, et parmi eux le petit fer noir au couvercle mal joint, avec son coin de cahier rentré dans l’ombre et ses trois mots qui interdisaient de savoir.
+Seul, il ne rangeait plus rien. La table portait le dossier clos de Vyntaris, la liasse du mois, la lampe. Au loin, dans l’aile profonde, les vieux coffres se taisaient, et parmi eux le petit fer noir au couvercle mal joint, avec son coin de cahier rentré dans l’ombre et ses trois mots qui interdisaient de savoir.
 
 Il avait dit à Karsel la doctrine entière, et chaque mot en était vrai, et il y croyait comme on croit à une digue quand on a vu, une fois, ce que fait l’eau sans digue. Prévenir arme la guerre ; savoir se répand ; le monde ne porte pas tout. Vrai. Vrai. Vrai. Il aurait pu le graver, comme le copiste avait fait graver *décès par cause non revendiquée*, tant il le disait souvent.
 
 Et pourtant il y avait, dans son propre silence, une place qu’il n’avait pas montrée au jeune, une chambre de son raisonnement dont il tenait la clef seul et qu’il n’ouvrait jamais devant témoin.
 
-L’Archiviste Davan.
+L’Archiviste Nevran.
 
-Karsel l’avait récité tout à l’heure, dans la liste, sans le savoir, un nom entre deux autres. Davan. Un gardien de savoir, comme lui ; un homme des registres, comme lui ; mort il y avait quatre ans, cause non revendiquée. Ce que Karsel ne savait pas, ce que personne ne savait, ce que le registre lui-même ne portait pas, c’est que le dossier de Davan avait passé, six semaines avant sa mort, sur cette table, sous cette lampe, entre ces mains. Une note mince. Trois concordances qui, mises côte à côte, disaient qu’une main travaillait, méthodique, et que Davan était sur son chemin. Vaskar les avait alignées, comme il alignait toujours, et il avait vu le troisième fait se lever, comme il se levait toujours. Il aurait pu envoyer le mot. Un seul homme, cette fois, pas cent ; pas une guerre, un homme. *Prenez garde, Davan.*
+Karsel l’avait récité tout à l’heure, dans la liste, sans le savoir, un nom entre deux autres. Nevran. Un gardien de savoir, comme lui ; un homme des registres, comme lui ; mort il y avait quatre ans, cause non revendiquée. Ce que Karsel ne savait pas, ce que personne ne savait, ce que le registre lui-même ne portait pas, c’est que le dossier de Nevran avait passé, six semaines avant sa mort, sur cette table, sous cette lampe, entre ces mains. Une note mince. Trois concordances qui, mises côte à côte, disaient qu’une main travaillait, méthodique, et que Nevran était sur son chemin. Vaskar les avait alignées, comme il alignait toujours, et il avait vu le troisième fait se lever, comme il se levait toujours. Il aurait pu envoyer le mot. Un seul homme, cette fois, pas cent ; pas une guerre, un homme. *Prenez garde, Nevran.*
 
 Il ne l’avait pas envoyé. Il avait classé.
 
-Parce que prévenir Davan, c’était nommer la main à Davan ; et Davan était bavard, savant, honnête de cette honnêteté qui ne sait pas se taire ; et un mot dit à Davan devenait, en un mois, un mot su de vingt archivistes, et de vingt il montait vers le haut, vers la peur, vers l’émeute. Il avait pesé un homme contre une digue, et il avait choisi la digue. Six semaines plus tard, Davan était un dossier, et le dossier était descendu, et Vaskar l’avait glissé à sa place entre deux morts plus anciennes, de sa propre main, sans que rien sur son visage bougeât.
+Parce que prévenir Nevran, c’était nommer la main à Nevran ; et Nevran était bavard, savant, honnête de cette honnêteté qui ne sait pas se taire ; et un mot dit à Nevran devenait, en un mois, un mot su de vingt archivistes, et de vingt il montait vers le haut, vers la peur, vers l’émeute. Il avait pesé un homme contre une digue, et il avait choisi la digue. Six semaines plus tard, Nevran était un dossier, et le dossier était descendu, et Vaskar l’avait glissé à sa place entre deux morts plus anciennes, de sa propre main, sans que rien sur son visage bougeât.
 
 Voilà ce qu’il n’avait pas dit à Karsel. Non pas *on ne prévient pas cent hommes.* Cela, c’était propre, défendable, cela s’enseignait. Mais : *je n’ai pas prévenu le seul.* Et il ne saurait jamais, jamais, s’il avait laissé mourir un homme qu’il aurait pu sauver, ou évité, par cette mort, une guerre qu’il ne verrait donc jamais et dont il ne pourrait donc jamais se créditer. La digue tient, et l’on ne remercie personne pour l’eau qui n’est pas venue. C’était le prix du métier de poids : on ne portait au crédit du gardien que ses fautes, jamais ses digues ; les catastrophes qu’il empêchait n’avaient pas de nom, pas de dossier, pas de coffre ; elles n’existaient nulle part, sinon dans le doute d’un seul homme, la nuit, à douze toises sous la ville.
 
