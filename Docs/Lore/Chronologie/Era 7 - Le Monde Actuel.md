@@ -386,6 +386,14 @@ Dans les archives fragmentées de Navoria (récupérées par Mosrack) et dans un
 - Des chercheurs de Caeloria (~10 080) ont tenté d'étudier le Fragment dans le cadre de l'enquête sur le Cœur de Cendra ; Altram a refusé l'accès, invoquant "la sécurité des archives nationales"
 - La coïncidence temporelle entre les pulsations croissantes du Mont Cendra et les témoignages des archivistes sur les "pulsations nocturnes" du Fragment n'est pas officielle mais circule dans les milieux académiques de Lumasar
 
+#### Le dépôt de Prismalith — les cahiers de Sorin Valthen
+
+**Fait récent, semi-public.** Au terme de son exil — les neuf cent dix jours des *[[Chroniques - Index|Chroniques de l'Exilé]]* —, le cartographe déchu de Kharazir **Sorin Valthen** dépose ses **dix-sept cahiers** aux archives de l'**Académie de Prismalith** (rattachée au Tribunal de Lumasar), reçus par l'archiviste **Ysolde**. Une **seconde copie** est confiée à **Omarin de Velithis, à Rukhsar** — précaution de cartographe : un relevé déposé en deux lieux ne meurt pas avec un seul.
+
+- **Contenu.** Une somme d'observations, ville après ville, sur les douze continents ; et, noyée parmi les cartes et les colonnes de nombres, une **ligne** que le temps a épargnée quand l'entour s'effaçait — la même arête que portent d'autres écrits sans lien connu (cf. le Fragment Zéro ci-dessus, et les strates Verithanes). Les copistes de Prismalith en conservent **quatorze pages laissées vides**, recopiées vides à l'exact, « parce que le blanc se compte comme le reste ».
+- **Statut.** C'est la strate documentaire **la plus neuve** du Sillage, contemporaine du présent (~an 251-254). Elle *ignore* les strates plus anciennes et pose pourtant la même question — coïncidence que nul, à Prismalith, ne sait ni ne cherche à trancher.
+- **Portée.** L'Académie ne publie rien ; la chose circule « dans les marges », de bibliothèque en bibliothèque. Le dépôt est le point discret où la longue errance des *Chroniques* rejoint, sans le savoir, la convergence documentaire que met en scène *[[Era 7 - Le Monde Actuel|le Sillage]]* (cf. le tome *L'Heure qui Naît*).
+
 ---
 
 ## Anomalies Tardives — Observations Récentes
@@ -424,6 +432,9 @@ Dans les archives fragmentées de Navoria (récupérées par Mosrack) et dans un
 - *Ignis Aeternum (Cendara, Pyrevane)* : Eldoria s'éveille effectivement, et le rythme s'accélère parce que le réveil approche ; certains prêtres de Pyrevane prêchent désormais que le Grand Rituel doit être avancé
 - *Cosmologistes de Lumasar* : oscillation possiblement liée à la connexion supposée avec le Mont Jumeau englacé sous Cestra (cf. IM-13) ; l'écho mettrait en résonance deux structures séparées par 10 000 ans de glace
 - *Vael'Ur (tradition druidique evertienne)* : les druides d'Evertia, héritiers d'une école locale qui parle d'une « Profondeur Première » sous le sol du monde, lisent les pulsations comme un dialogue entre cette Profondeur et le Mont Cendra. Lecture marginale, peu reprise hors d'Evertia, mais persistante
+
+> [!note] « Panghor » — deux emplois à ne pas confondre
+> Le mot **Panghor** désigne d'abord le **supercontinent primordial** (Ère I), fracturé bien avant l'Ère des Mortels (voir [[Era 1b - Éthérés et Panghor]]) — c'est le sens géologique, celui de l'« Épopée du Panghor » de Gryndor. Les lectures evertiennes du Sillage ([Sylvara], [Vael'Ur]) l'emploient dans un **second sens, entifié** : « le reste du Panghor », la « Profondeur Première » qui dormirait sous le monde et « répondrait » au Mont Cendra. Ce que recouvre au juste ce second Panghor — le remnant enseveli du supercontinent, une présence tapie en lui, ou tout autre chose — **n'est pas établi et n'a pas à l'être** : c'est l'une des lectures ouvertes du « dessous qui monte » (« ils arrivent par le dessous »), au même titre que Navigor, Eldoria, la Trame qui se reconfigure ou les morts. Une même graphie, deux référents ; le canon ne les fond pas et ne tranche pas le second.
 - *Catena Fracta* : preuve que la rupture résiduelle de la Trame s'amplifie, et que ce qui pulse n'est pas une entité mais l'**absence d'une entité** qui résonne dans le vide
 
 ### Étoiles Mouvantes

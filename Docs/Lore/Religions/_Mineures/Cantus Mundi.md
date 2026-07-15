@@ -81,6 +81,9 @@ Le Souffle est interprété comme un **changement de mouvement musical** — le 
 
 L'Accord est interprété comme la **justesse** du fidèle dans le chant cosmique en cours.
 
+> [!note] « Le Souffle de Cantor » — à ne pas confondre avec le Souffle cosmologique
+> Les Cantori emploient une expression qui leur est propre, **« le Souffle de Cantor »**, et qui ne désigne PAS le [[Le Souffle|Souffle]] cosmologique (la redistribution des voix Éternelles d'une Ère à l'autre). C'est le nom qu'ils donnent à ce qu'ils disent percevoir de leur entité silencieuse : une **résonance qui court « sous la roche, sous la musique, sous le silence »**, entendue diversement — par les uns dans les mines, par les autres dans les grands chœurs — sans qu'aucune lecture ne se soit jamais imposée comme la seule. Certains Cantori du Sillage affirment que ce Souffle de Cantor **« se modifie »** depuis peu ; ils rejoignent là, à mots couverts, l'inquiétude diffuse des autres traditions (la roche qui sonne autrement, les arbres plus vifs) sans s'accorder ni sur la cause ni sur le sens. Pour l'École de Thalmaris, c'est peut-être une **bribe du chant qui revient** ; pour les Sourds, une simple illusion d'oreille. (cf. *Les Chroniques de l'Exilé*, ch. 12 « La Forêt qui Chante ».)
+
 ---
 
 ## Tensions internes
