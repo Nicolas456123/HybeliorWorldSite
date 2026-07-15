@@ -43,7 +43,7 @@
         },
         {
             id: 'arrachement', num: 'IV', name: 'L\'Arrachement',
-            dates: 'An 0 (= -250 du Sillage)',
+            dates: 'An 0 du Sillage',
             desc: 'Souffle Cardinal observ\u00E9. Selon le r\u00E9cit Verithane, l\'\u00C9tudiant aurait sectionn\u00E9 son N\u0153ud au Mont Cendra ; six lectures coexistent. Navigor cesse d\'\u00EAtre atteignable, Eldoria se fait silencieuse, Tempora para\u00EEt bless\u00E9. Navoria est engloutie en ~40 minutes. 17 Br\u00E8ches du N\u00E9ant + Crat\u00E8res du Cardinal.',
             color: '#a02020', bg: 'rgba(160,30,30,0.07)', accent: '#a02020',
             yMin: 800, yMax: 960

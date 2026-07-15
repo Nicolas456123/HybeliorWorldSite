@@ -72,7 +72,7 @@
         "name": "Ere I — Fracture 2 : L'Eclatement",
         "startYear": -600000,
         "endYear": -100000,
-        "description": "Panghor Nord et Sud se divisent en masses individuelles. Les futurs 13 continents prennent forme sur ~3 millions d'annees.",
+        "description": "Panghor Nord et Sud se divisent en masses individuelles. Les futurs 12 continents prennent forme sur ~3 millions d'annees.",
         "continents": [
           {
             "currentName": "Alkaran",
@@ -153,7 +153,7 @@
         "name": "Ere I — Fracture 3 : Les Details",
         "startYear": -100000,
         "endYear": -45000,
-        "description": "Cendara se separe d'Evertia (eruptions volcaniques). Cestra s'exile vers le nord (Mont Jumeau recouvert par Glacien). Azoria se fragmente en archipel. Les 13 continents sont stables — l'Ere des Mortels peut commencer.",
+        "description": "Cendara se separe d'Evertia (eruptions volcaniques). Cestra s'exile vers le nord (Mont Jumeau recouvert par Glacien). Azoria se fragmente en archipel. Les 12 continents sont stables — l'Ere des Mortels peut commencer.",
         "continents": [
           {
             "currentName": "Alkaran",

@@ -5795,6 +5795,18 @@
       "title": "Vision Rules — Implémentation"
     }
   ],
+  "Lore": [
+    {
+      "name": "Glossaire des homonymies",
+      "file": "Glossaire des homonymies.md",
+      "title": "Glossaire des homonymies"
+    },
+    {
+      "name": "Lexique du Lien à travers les Ères",
+      "file": "Lexique du Lien à travers les Ères.md",
+      "title": "Lexique du Lien à travers les Ères"
+    }
+  ],
   "Lore/Chroniques": [
     {
       "name": "Chapitre 01 - Les Murs Jaunes de Kharazir",
@@ -6169,9 +6181,9 @@
       "title": "Histoires d'Arkhen — La Confédération de la Cendre Froide"
     },
     {
-      "name": "Cendara",
-      "file": "Cendara.md",
-      "title": "Histoires de Cendara — Royaume de la Grande Île"
+      "name": "Brumaria",
+      "file": "Brumaria.md",
+      "title": "Histoires de Brumaria — Royaume de la Grande Île"
     },
     {
       "name": "Pyrevane",
@@ -6463,19 +6475,24 @@
       "title": "Arkhen — La Confédération de la Cendre Froide"
     },
     {
+      "name": "Brumaria",
+      "file": "Brumaria.md",
+      "title": "Brumaria — le Royaume de Feu et de Cendres"
+    },
+    {
       "name": "Cendara - Continent",
       "file": "Cendara - Continent.md",
       "title": "Cendara — L'Archipel de Feu"
     },
     {
-      "name": "Cendara",
-      "file": "Cendara.md",
-      "title": "Cendara — L'Île de Feu et de Cendres"
-    },
-    {
       "name": "Pyrevane",
       "file": "Pyrevane.md",
       "title": "Pyrevane — La Théocratie des Sept Feux"
+    },
+    {
+      "name": "Taldre",
+      "file": "Taldre.md",
+      "title": "Taldre — le bourg au pied du Mont"
     }
   ],
   "Lore/Pays/Cestra": [
@@ -7644,6 +7661,11 @@
       "name": "CHANTIER - Veines Philosophiques",
       "file": "CHANTIER - Veines Philosophiques.md",
       "title": "🌿 CHANTIER — Veines Philosophiques d'Hybelior"
+    },
+    {
+      "name": "GOAL - Harmonisation du canon",
+      "file": "GOAL - Harmonisation du canon.md",
+      "title": "GOAL — Harmonisation du canon d'Hybelior"
     },
     {
       "name": "Veines philosophiques - Référence",

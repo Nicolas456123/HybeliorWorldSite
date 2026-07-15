@@ -757,12 +757,12 @@
     }
   },
   "Cendara": {
-    "CendaraPays": {
+    "BrumariaPays": {
       "csv_n": "30",
       "csv_continent": "Cendara",
       "csv_continent_n": "16",
       "gouvernement": "Monarchie ésotérique",
-      "file": "Cendara/Cendara.md",
+      "file": "Cendara/Brumaria.md",
       "regions": {
         "Brumancia": {
           "n": "128",
