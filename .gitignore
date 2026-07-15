@@ -21,6 +21,7 @@ HybeliorFull/
 
 # Données générées localement par server.js (régénérées au démarrage)
 local-db.json
+local-history.json
 local-borders.json
 local-highlights.json
 

@@ -4,6 +4,7 @@ const path = require('path');
 
 const PORT = process.env.PORT || 3001;
 const DB_FILE = path.join(__dirname, 'local-db.json');
+const HISTORY_FILE = path.join(__dirname, 'local-history.json');
 const BORDERS_FILE = path.join(__dirname, 'local-borders.json');
 const LORE_ROOT = path.join(__dirname, 'Docs', 'Lore');
 const EDITOR_PASSWORD = process.env.EDITOR_PASSWORD || 'local';
@@ -17,6 +18,15 @@ function loadDB() {
 
 function saveDB(data) {
     fs.writeFileSync(DB_FILE, JSON.stringify(data, null, 2));
+}
+
+function loadHistory() {
+    try { return JSON.parse(fs.readFileSync(HISTORY_FILE, 'utf8')); }
+    catch { return []; }
+}
+
+function saveHistory(data) {
+    fs.writeFileSync(HISTORY_FILE, JSON.stringify(data, null, 2));
 }
 
 function initDBFromCSV() {
@@ -118,6 +128,11 @@ const server = http.createServer(async (req, res) => {
 
     // ── API: GET /api/overrides ───────────────────────────────
     if (pathname === '/api/overrides' && req.method === 'GET') {
+        if (url.searchParams.get('history') === '1') {
+            const limit = Math.max(1, Math.min(Number(url.searchParams.get('limit')) || 30, 100));
+            res.writeHead(200, { 'Content-Type': 'application/json' });
+            return res.end(JSON.stringify(loadHistory().slice(-limit).reverse()));
+        }
         res.writeHead(200, { 'Content-Type': 'application/json' });
         return res.end(JSON.stringify(loadDB()));
     }
@@ -125,15 +140,37 @@ const server = http.createServer(async (req, res) => {
     // ── API: POST /api/overrides ──────────────────────────────
     if (pathname === '/api/overrides' && req.method === 'POST') {
         try {
-            const { name, storage, coord_x, coord_y, password } = await parseBody(req);
+            const { name, storage, coord_x, coord_y, password, action = 'move' } = await parseBody(req);
             if (password !== EDITOR_PASSWORD) {
                 res.writeHead(403, { 'Content-Type': 'application/json' });
                 return res.end(JSON.stringify({ error: 'Mot de passe incorrect' }));
             }
             const db = loadDB();
             const idx = db.findIndex(e => e.name === name && e.storage === storage);
-            if (idx >= 0) { db[idx].coord_x = coord_x; db[idx].coord_y = coord_y; }
-            else db.push({ name, storage, coord_x, coord_y });
+            const current = idx >= 0 ? db[idx] : null;
+            const nextX = Number(coord_x);
+            const nextY = Number(coord_y);
+            if (!Number.isFinite(nextX) || !Number.isFinite(nextY)) {
+                res.writeHead(400, { 'Content-Type': 'application/json' });
+                return res.end(JSON.stringify({ error: 'Coordonnées invalides' }));
+            }
+            if (!current || Number(current.coord_x) !== nextX || Number(current.coord_y) !== nextY) {
+                const history = loadHistory();
+                history.push({
+                    id: (history[history.length - 1]?.id || 0) + 1,
+                    name,
+                    storage,
+                    old_coord_x: current ? Number(current.coord_x) : null,
+                    old_coord_y: current ? Number(current.coord_y) : null,
+                    new_coord_x: nextX,
+                    new_coord_y: nextY,
+                    action: String(action).slice(0, 30),
+                    changed_at: new Date().toISOString()
+                });
+                saveHistory(history.slice(-500));
+            }
+            if (idx >= 0) { db[idx].coord_x = nextX; db[idx].coord_y = nextY; }
+            else db.push({ name, storage, coord_x: nextX, coord_y: nextY });
             saveDB(db);
             res.writeHead(200, { 'Content-Type': 'application/json' });
             return res.end(JSON.stringify({ ok: true }));

@@ -37,6 +37,17 @@ async function ensureTable() {
     coord_x REAL NOT NULL, coord_y REAL NOT NULL,
     PRIMARY KEY (name, storage)
   )`);
+  await tursoExecute(`CREATE TABLE IF NOT EXISTS coordinate_overrides_history (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    name TEXT NOT NULL,
+    storage TEXT NOT NULL,
+    old_coord_x REAL,
+    old_coord_y REAL,
+    new_coord_x REAL NOT NULL,
+    new_coord_y REAL NOT NULL,
+    action TEXT NOT NULL DEFAULT 'move',
+    changed_at TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP
+  )`);
   tableReady = true;
 }
 
@@ -51,17 +62,56 @@ export default async function handler(req, res) {
     await ensureTable();
 
     if (req.method === 'GET') {
+      if (req.query?.history === '1') {
+        const limit = Math.max(1, Math.min(Number(req.query?.limit) || 30, 100));
+        const rows = await tursoExecute(
+          `SELECT id, name, storage, old_coord_x, old_coord_y,
+                  new_coord_x, new_coord_y, action, changed_at
+             FROM coordinate_overrides_history
+            ORDER BY id DESC LIMIT ?`,
+          [{ type: 'integer', value: String(limit) }]
+        );
+        return res.status(200).json(rows);
+      }
       const rows = await tursoExecute('SELECT name, storage, coord_x, coord_y FROM coordinate_overrides');
       return res.status(200).json(rows);
     }
 
     if (req.method === 'POST') {
-      const { name, storage, coord_x, coord_y, password } = req.body;
+      const { name, storage, coord_x, coord_y, password, action = 'move' } = req.body;
       if (password !== process.env.EDITOR_PASSWORD) {
         return res.status(403).json({ error: 'Mot de passe incorrect' });
       }
       if (!name || !storage || coord_x == null || coord_y == null) {
         return res.status(400).json({ error: 'Champs manquants' });
+      }
+      const currentRows = await tursoExecute(
+        'SELECT coord_x, coord_y FROM coordinate_overrides WHERE name = ? AND storage = ? LIMIT 1',
+        [{ type: 'text', value: name }, { type: 'text', value: storage }]
+      );
+      const current = currentRows[0];
+      const nextX = Number(coord_x);
+      const nextY = Number(coord_y);
+      if (!Number.isFinite(nextX) || !Number.isFinite(nextY)) {
+        return res.status(400).json({ error: 'Coordonnées invalides' });
+      }
+      const changed = !current || Number(current.coord_x) !== nextX || Number(current.coord_y) !== nextY;
+
+      if (changed) {
+        await tursoExecute(
+          `INSERT INTO coordinate_overrides_history
+             (name, storage, old_coord_x, old_coord_y, new_coord_x, new_coord_y, action)
+           VALUES (?, ?, ?, ?, ?, ?, ?)`,
+          [
+            { type: 'text', value: name },
+            { type: 'text', value: storage },
+            current ? { type: 'float', value: Number(current.coord_x) } : { type: 'null' },
+            current ? { type: 'float', value: Number(current.coord_y) } : { type: 'null' },
+            { type: 'float', value: nextX },
+            { type: 'float', value: nextY },
+            { type: 'text', value: String(action).slice(0, 30) }
+          ]
+        );
       }
       await tursoExecute(
         `INSERT INTO coordinate_overrides (name, storage, coord_x, coord_y)
@@ -69,10 +119,10 @@ export default async function handler(req, res) {
         [
           { type: 'text', value: name },
           { type: 'text', value: storage },
-          { type: 'float', value: Number(coord_x) },
-          { type: 'float', value: Number(coord_y) },
-          { type: 'float', value: Number(coord_x) },
-          { type: 'float', value: Number(coord_y) }
+          { type: 'float', value: nextX },
+          { type: 'float', value: nextY },
+          { type: 'float', value: nextX },
+          { type: 'float', value: nextY }
         ]
       );
       return res.status(200).json({ ok: true });

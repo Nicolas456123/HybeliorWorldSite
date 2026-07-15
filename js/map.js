@@ -14,6 +14,9 @@ function initMap() {
         villesElements: 0.0011,
         villagesElements: 0.0006
     };
+    const LABEL_FONT_FAMILY = "'Copperplate Gothic Std', 'Copperplate', 'Cinzel', serif";
+    const LABEL_MEASURE_SIZE = 100;
+    const labelMeasureContext = document.createElement('canvas').getContext('2d');
 
     // Configuration globale
     const CONFIG = {
@@ -194,6 +197,9 @@ function initMap() {
         const s = iconSize / 32;
         g.setAttribute("transform", `translate(${tx} ${ty}) scale(${s})`);
         g.setAttribute("pointer-events", "none");
+        g.dataset.translateOffsetX = offsetX - (iconSize / 2);
+        g.dataset.translateOffsetY = offsetY - iconSize;
+        g.dataset.iconScale = s;
         const content = ICON_SVG[tier] || ICON_SVG.villagesElements;
         const parser = new DOMParser();
         const doc = parser.parseFromString(
@@ -240,6 +246,7 @@ function initMap() {
     let editorAuthenticated = false;
     let editorTrackers = [];
     let editorDragTrackers = [];
+    const editorMoveHistory = [];
     let addPointMode = false;
     let editorActiveMode = 'none'; // 'none' | 'move' | 'borders' | 'addPoint'
 
@@ -1879,6 +1886,7 @@ function initMap() {
                         el.style.opacity = '';
                     }
                 });
+                refreshElementHitboxes(element);
             }
         });
     }
@@ -1920,6 +1928,7 @@ function initMap() {
                 // Le pays n'existe pas encore : masquer
                 element._eraHidden = true;
             }
+            refreshElementHitboxes(element);
         });
     }
 
@@ -1964,6 +1973,8 @@ function initMap() {
         document.getElementById('measureArea').onclick = () => startMeasure('area');
         document.getElementById('toggleEditor').onclick = toggleEditor;
         document.getElementById('toggleMarkers').onclick = toggleMarkers;
+        document.getElementById('toggleClickHitboxes').onchange = toggleClickHitboxes;
+        document.getElementById('editorUndoMove').onclick = undoLastMove;
         document.getElementById('toggleGrid').onclick = toggleGrid;
 
         // Navigation personnalisée
@@ -2227,9 +2238,83 @@ function initMap() {
                     elements.rects.forEach(r => allRectElements.push(r));
                 });
                 updateTextVisibility();
+                if (document.fonts && document.fonts.ready) {
+                    document.fonts.ready.then(refreshAllHitboxes);
+                }
                 console.log(`Base de données chargée: ${entries.length} entrées`);
             })
             .catch(err => console.error('Erreur chargement base de données:', err));
+    }
+
+    function measureLabelHitbox(label, fontSize, fontWeight, letterSpacing, fontStyle) {
+        const text = label || '';
+        const paddingX = fontSize * 0.35;
+        const paddingY = fontSize * 0.35;
+        let textWidth = Math.max(text.length, 1) * fontSize * 0.6;
+        let glyphHeight = fontSize;
+
+        if (labelMeasureContext) {
+            labelMeasureContext.font = `${fontStyle || 'normal'} ${fontWeight || 'normal'} ${LABEL_MEASURE_SIZE}px ${LABEL_FONT_FAMILY}`;
+            const metrics = labelMeasureContext.measureText(text);
+            const measuredWidth = (metrics.width / LABEL_MEASURE_SIZE) * fontSize;
+            const measuredHeight = ((metrics.actualBoundingBoxAscent + metrics.actualBoundingBoxDescent) / LABEL_MEASURE_SIZE) * fontSize;
+            if (Number.isFinite(measuredWidth) && measuredWidth > 0) textWidth = measuredWidth;
+            if (Number.isFinite(measuredHeight) && measuredHeight > 0) glyphHeight = measuredHeight;
+        }
+
+        textWidth += Math.max(0, text.length - 1) * letterSpacing;
+        return {
+            width: Math.max(textWidth + (paddingX * 2), fontSize),
+            height: Math.max(glyphHeight + (paddingY * 2), fontSize * 1.5)
+        };
+    }
+
+    function updateHitboxGeometry(rect, text, centerX, centerY, fontSize, fontWeight, letterSpacing) {
+        const bounds = measureLabelHitbox(
+            text.textContent,
+            fontSize,
+            fontWeight,
+            letterSpacing,
+            text.getAttribute('font-style') || 'normal'
+        );
+        const hitX = centerX - (bounds.width / 2);
+        const hitY = centerY - (bounds.height / 2);
+
+        rect.setAttribute('x', hitX);
+        rect.setAttribute('y', hitY);
+        rect.setAttribute('width', bounds.width);
+        rect.setAttribute('height', bounds.height);
+        rect.dataset.hitOffsetX = hitX - centerX;
+        rect.dataset.hitOffsetY = hitY - centerY;
+        rect.dataset.fontWeight = fontWeight;
+        rect.dataset.letterSpacing = letterSpacing;
+        rect.dataset.displayName = text.textContent;
+        const title = rect.querySelector('title');
+        if (title) title.textContent = `Zone de clic : ${text.textContent}`;
+    }
+
+    function refreshElementHitboxes(element) {
+        element.rects.forEach((rect, index) => {
+            const text = element.texts[index];
+            if (!text) return;
+            const wrapX = parseFloat(rect.dataset.wrapX || '0');
+            const wrapY = parseFloat(rect.dataset.wrapY || '0');
+            updateHitboxGeometry(
+                rect,
+                text,
+                element.coord.x + element.xOffset + wrapX,
+                element.coord.y + element.yOffset + wrapY,
+                element.fontSize,
+                rect.dataset.fontWeight || text.getAttribute('font-weight') || 'normal',
+                parseFloat(rect.dataset.letterSpacing || '0')
+            );
+        });
+    }
+
+    function refreshAllHitboxes() {
+        Object.values(elementStorage).forEach(elements => {
+            elements.forEach(refreshElementHitboxes);
+        });
     }
 
     function createTextAndRect(name, coord, config, item) {
@@ -2315,7 +2400,7 @@ function initMap() {
             textElement.setAttribute("stroke-width", strokeWidth * textScale);
             textElement.setAttribute("font-size", fontSize * textScale);
             textElement.setAttribute("text-anchor", "middle");
-            textElement.setAttribute("font-family", "'Copperplate Gothic Std', 'Copperplate', 'Cinzel', serif");
+            textElement.setAttribute("font-family", LABEL_FONT_FAMILY);
             textElement.setAttribute("font-weight", fontWeight);
             textElement.setAttribute("pointer-events", "none");
             textElement.setAttribute("paint-order", "stroke");
@@ -2330,17 +2415,16 @@ function initMap() {
             }
             textElement.textContent = displayName;
 
-            // Création du rectangle de collision
-            const textWidth = name.length * fontSize * 0.6;
-            const textHeight = fontSize * 1.1;
-
+            // Zone de clic transparente, ajustée à la taille du libellé.
             const rectElement = document.createElementNS("http://www.w3.org/2000/svg", "rect");
-            rectElement.setAttribute("x", coord.x + config.xOffset + offset.x - textWidth / 2);
-            rectElement.setAttribute("y", coord.y + config.yOffset + offset.y - textHeight + (fontSize * 0.3));
-            rectElement.setAttribute("width", textWidth);
-            rectElement.setAttribute("height", textHeight);
+            rectElement.classList.add('map-click-hitbox');
+            rectElement.dataset.storage = storageType;
+            rectElement.dataset.name = name;
             rectElement.setAttribute("fill", "transparent");
             rectElement.setAttribute("pointer-events", "all");
+            const hitboxTitle = document.createElementNS("http://www.w3.org/2000/svg", "title");
+            hitboxTitle.textContent = `Zone de clic : ${name}`;
+            rectElement.appendChild(hitboxTitle);
 
             // Icône stylisée par tier (capitale/cité/ville/village)
             // Note : l'icône n'est PAS poussée dans allTexts → reste visible
@@ -2357,18 +2441,33 @@ function initMap() {
                     0
                 );
                 if (!markersVisible) iconGroup.style.display = 'none';
+                iconGroup.dataset.wrapX = offset.x;
+                iconGroup.dataset.wrapY = offset.y;
                 svgOverlay.node().appendChild(iconGroup);
                 allMarkers.push(iconGroup);
             }
 
-            // Ajout des éléments au SVG
-            svgOverlay.node().appendChild(rectElement);
             svgOverlay.node().appendChild(textElement);
+            const textCenterX = coord.x + config.xOffset + offset.x;
+            const textCenterY = coord.y + config.yOffset + offset.y;
+            updateHitboxGeometry(
+                rectElement,
+                textElement,
+                textCenterX,
+                textCenterY,
+                fontSize,
+                fontWeight,
+                letterSpacing
+            );
+            rectElement.dataset.wrapX = offset.x;
+            rectElement.dataset.wrapY = offset.y;
+            textElement.dataset.textScale = textScale;
+            textElement.dataset.wrapX = offset.x;
+            textElement.dataset.wrapY = offset.y;
+            svgOverlay.node().insertBefore(rectElement, textElement);
 
             // Gestionnaire de clic
             const clickFontSize = parseFloat(config.fontSize);
-            const textCenterX = coord.x + config.xOffset;
-            const textCenterY = coord.y + config.yOffset;
             const tracker = new OpenSeadragon.MouseTracker({
                 element: rectElement,
                 clickHandler: function(event) {
@@ -2901,6 +3000,10 @@ function initMap() {
         updateTextVisibility();
     }
 
+    function toggleClickHitboxes(event) {
+        viewer.container.classList.toggle('show-click-hitboxes', event.target.checked);
+    }
+
     function toggleBorders() {
         bordersLayer.style.display = bordersLayer.style.display === 'none' ? 'block' : 'none';
     }
@@ -3209,6 +3312,7 @@ function initMap() {
         editorMode = true;
         document.getElementById('toggleEditor').classList.add('active');
         document.getElementById('editorPanel').style.display = 'block';
+        loadEditorHistory();
 
         // Border draw canvas handler
         function borderDrawCanvasHandler(event) {
@@ -3316,44 +3420,166 @@ function initMap() {
 
     let dragEl = null;
     let dragMarker = null;
+    let dragStartCoord = null;
+    let dragGrabOffset = null;
+    let dragStartClient = null;
+    let dragMoved = false;
+
+    function updateUndoMoveButton() {
+        const button = document.getElementById('editorUndoMove');
+        if (button) button.disabled = editorMoveHistory.length === 0;
+    }
+
+    function moveElementTo(element, point) {
+        element.coord.x = point.x;
+        element.coord.y = point.y;
+        element.textCoord.x = point.x + element.xOffset;
+        element.textCoord.y = point.y + element.yOffset;
+
+        element.texts.forEach(t => {
+            if (t.tagName !== 'text') return;
+            const scale = parseFloat(t.dataset.textScale || '1');
+            const wrapX = parseFloat(t.dataset.wrapX || '0');
+            const wrapY = parseFloat(t.dataset.wrapY || '0');
+            t.setAttribute("x", (point.x + element.xOffset + wrapX) * scale);
+            t.setAttribute("y", (point.y + element.yOffset + wrapY) * scale);
+        });
+
+        element.rects.forEach(r => {
+            if (r.tagName !== 'rect') return;
+            const wrapX = parseFloat(r.dataset.wrapX || '0');
+            const wrapY = parseFloat(r.dataset.wrapY || '0');
+            const hitOffsetX = parseFloat(r.dataset.hitOffsetX || '0');
+            const hitOffsetY = parseFloat(r.dataset.hitOffsetY || '0');
+            r.setAttribute("x", point.x + element.xOffset + wrapX + hitOffsetX);
+            r.setAttribute("y", point.y + element.yOffset + wrapY + hitOffsetY);
+        });
+
+        (element.markers || []).forEach(marker => {
+            const wrapX = parseFloat(marker.dataset.wrapX || '0');
+            const wrapY = parseFloat(marker.dataset.wrapY || '0');
+            if (marker.tagName === 'circle') {
+                marker.setAttribute("cx", point.x + wrapX);
+                marker.setAttribute("cy", point.y + wrapY);
+                return;
+            }
+            if (marker.tagName === 'g') {
+                const offsetX = parseFloat(marker.dataset.translateOffsetX || '0');
+                const offsetY = parseFloat(marker.dataset.translateOffsetY || '0');
+                const scale = parseFloat(marker.dataset.iconScale || '1');
+                marker.setAttribute("transform", `translate(${point.x + wrapX + offsetX} ${point.y + wrapY + offsetY}) scale(${scale})`);
+            }
+        });
+    }
+
+    function undoLastMove() {
+        const move = editorMoveHistory.pop();
+        if (!move) return;
+        moveElementTo(move.element, move.from);
+        const csvX = move.from.x * 1047 - 527.5;
+        const csvY = move.from.y * 1047 - 535;
+        saveOverride(move.element.name, move.element.storage, csvX, csvY, 'undo');
+        updateUndoMoveButton();
+    }
+
+    function findStoredElement(name, storage) {
+        return (elementStorage[storage] || []).find(element => element.name === name);
+    }
+
+    function formatHistoryDate(value) {
+        const date = new Date(value);
+        if (Number.isNaN(date.getTime())) return '';
+        return date.toLocaleString('fr-FR', {
+            day: '2-digit', month: '2-digit', hour: '2-digit', minute: '2-digit'
+        });
+    }
+
+    function renderEditorHistory(entries) {
+        const container = document.getElementById('editorHistory');
+        if (!container) return;
+        container.innerHTML = '';
+        const actionLabels = {
+            move: 'Déplacement',
+            undo: 'Annulation',
+            restore: 'Restauration'
+        };
+
+        if (!entries.length) {
+            const empty = document.createElement('div');
+            empty.className = 'editor-history-empty';
+            empty.textContent = 'Aucune modification';
+            container.appendChild(empty);
+            return;
+        }
+
+        entries.forEach(entry => {
+            const row = document.createElement('div');
+            row.className = 'editor-history-entry';
+
+            const description = document.createElement('div');
+            const name = document.createElement('span');
+            name.className = 'editor-history-name';
+            name.textContent = entry.name;
+            const meta = document.createElement('span');
+            meta.className = 'editor-history-meta';
+            const action = actionLabels[entry.action] || entry.action || actionLabels.move;
+            meta.textContent = `${formatHistoryDate(entry.changed_at)} - ${action}`;
+            description.append(name, meta);
+
+            const restore = document.createElement('button');
+            restore.className = 'editor-history-restore';
+            restore.type = 'button';
+            restore.title = `Restaurer ${entry.name}`;
+            restore.setAttribute('aria-label', `Restaurer ${entry.name}`);
+            restore.textContent = '\u21A9';
+            restore.disabled = entry.old_coord_x == null || entry.old_coord_y == null;
+            restore.onclick = () => restoreHistoryEntry(entry);
+
+            row.append(description, restore);
+            container.appendChild(row);
+        });
+    }
+
+    function loadEditorHistory() {
+        fetch('/api/overrides?history=1&limit=30')
+            .then(response => {
+                if (!response.ok) throw new Error(response.status);
+                return response.json();
+            })
+            .then(renderEditorHistory)
+            .catch(error => console.error('Erreur chargement historique:', error));
+    }
+
+    function restoreHistoryEntry(entry) {
+        if (entry.old_coord_x == null || entry.old_coord_y == null) return;
+        const element = findStoredElement(entry.name, entry.storage);
+        const restored = convertCoordinates(Number(entry.old_coord_x), Number(entry.old_coord_y));
+        if (element) moveElementTo(element, restored);
+        saveOverride(
+            entry.name,
+            entry.storage,
+            Number(entry.old_coord_x),
+            Number(entry.old_coord_y),
+            'restore'
+        );
+    }
 
     function onPointerMove(evt) {
-        if (!dragEl) return;
+        if (!dragEl || !dragStartClient || !dragGrabOffset) return;
         evt.preventDefault();
         evt.stopPropagation();
+        if (!dragMoved && Math.hypot(evt.clientX - dragStartClient.x, evt.clientY - dragStartClient.y) < 3) return;
+        dragMoved = true;
         const viewerRect = viewer.container.getBoundingClientRect();
         const pixelPt = new OpenSeadragon.Point(
             evt.clientX - viewerRect.left,
             evt.clientY - viewerRect.top
         );
-        const newPt = viewer.viewport.pointFromPixel(pixelPt);
-
-        dragEl.coord.x = newPt.x;
-        dragEl.coord.y = newPt.y;
-        dragEl.textCoord.x = newPt.x + dragEl.xOffset;
-        dragEl.textCoord.y = newPt.y + dragEl.yOffset;
-
-        const fontSize = dragEl.fontSize;
-        const textWidth = dragEl.name.length * fontSize * 0.6;
-        const textHeight = fontSize * 1.1;
-
-        if (dragMarker.tagName === 'circle') {
-            dragMarker.setAttribute("cx", newPt.x);
-            dragMarker.setAttribute("cy", newPt.y);
-        }
-
-        dragEl.texts.forEach(t => {
-            if (t.tagName === 'text') {
-                t.setAttribute("x", newPt.x + dragEl.xOffset);
-                t.setAttribute("y", newPt.y + dragEl.yOffset);
-            }
-        });
-        dragEl.rects.forEach(r => {
-            if (r.tagName === 'rect') {
-                r.setAttribute("x", newPt.x + dragEl.xOffset - textWidth / 2);
-                r.setAttribute("y", newPt.y + dragEl.yOffset - textHeight + (fontSize * 0.3));
-            }
-        });
+        const pointerPt = viewer.viewport.pointFromPixel(pixelPt);
+        moveElementTo(dragEl, new OpenSeadragon.Point(
+            pointerPt.x + dragGrabOffset.x,
+            pointerPt.y + dragGrabOffset.y
+        ));
     }
 
     function onPointerUp(evt) {
@@ -3361,12 +3587,23 @@ function initMap() {
         dragMarker.setAttribute("cursor", "grab");
         if (dragMarker.tagName === 'circle') dragMarker.setAttribute("fill", "#c9a84c");
         dragMarker.releasePointerCapture(evt.pointerId);
-        const csvX = dragEl.coord.x * 1047 - 527.5;
-        const csvY = dragEl.coord.y * 1047 - 535;
-        saveOverride(dragEl.name, dragEl.storage, csvX, csvY);
+        if (dragMoved && dragStartCoord) {
+            const from = dragStartCoord;
+            const to = { x: dragEl.coord.x, y: dragEl.coord.y };
+            editorMoveHistory.push({ element: dragEl, from, to });
+            if (editorMoveHistory.length > 20) editorMoveHistory.shift();
+            const csvX = to.x * 1047 - 527.5;
+            const csvY = to.y * 1047 - 535;
+            saveOverride(dragEl.name, dragEl.storage, csvX, csvY, 'move');
+            updateUndoMoveButton();
+        }
         viewer.setMouseNavEnabled(true);
         dragEl = null;
         dragMarker = null;
+        dragStartCoord = null;
+        dragGrabOffset = null;
+        dragStartClient = null;
+        dragMoved = false;
     }
 
     function attachDragToElement(el) {
@@ -3389,6 +3626,18 @@ function initMap() {
             evt.stopPropagation();
             dragEl = el;
             dragMarker = handle;
+            dragStartCoord = { x: el.coord.x, y: el.coord.y };
+            dragStartClient = { x: evt.clientX, y: evt.clientY };
+            dragMoved = false;
+            const viewerRect = viewer.container.getBoundingClientRect();
+            const pointerPt = viewer.viewport.pointFromPixel(new OpenSeadragon.Point(
+                evt.clientX - viewerRect.left,
+                evt.clientY - viewerRect.top
+            ));
+            dragGrabOffset = {
+                x: el.coord.x - pointerPt.x,
+                y: el.coord.y - pointerPt.y
+            };
             handle.setAttribute("cursor", "grabbing");
             if (handle.tagName === 'circle') handle.setAttribute("fill", "#e74c3c");
             handle.setPointerCapture(evt.pointerId);
@@ -3424,6 +3673,10 @@ function initMap() {
         window._attachDragToElement = null;
         dragEl = null;
         dragMarker = null;
+        dragStartCoord = null;
+        dragGrabOffset = null;
+        dragStartClient = null;
+        dragMoved = false;
 
         CONFIG.layers.forEach(config => {
             const storage = elementStorage[config.storage];
@@ -3506,6 +3759,9 @@ function initMap() {
         document.getElementById('toggleEditor').classList.remove('active');
         document.getElementById('editorPanel').style.display = 'none';
         viewer.canvas.style.cursor = '';
+        const hitboxToggle = document.getElementById('toggleClickHitboxes');
+        hitboxToggle.checked = false;
+        viewer.container.classList.remove('show-click-hitboxes');
 
         // Remove all editor trackers
         editorTrackers.forEach(t => t.destroy());
@@ -3523,7 +3779,7 @@ function initMap() {
         });
     }
 
-    function saveOverride(name, storage, csvX, csvY) {
+    function saveOverride(name, storage, csvX, csvY, action = 'move') {
         console.log('Saving override:', name, storage, csvX, csvY);
         fetch('/api/overrides', {
             method: 'POST',
@@ -3533,12 +3789,14 @@ function initMap() {
                 storage: storage,
                 coord_x: csvX,
                 coord_y: csvY,
+                action: action,
                 password: window._editorPassword
             })
         })
         .then(r => {
             if (!r.ok) return r.text().then(t => { throw new Error('Save failed: ' + r.status + ' ' + t); });
             console.log('Override saved OK:', name);
+            loadEditorHistory();
         })
         .catch(err => {
             console.error('Override save error:', err);

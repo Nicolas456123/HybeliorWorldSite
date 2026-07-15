@@ -68,10 +68,21 @@
                 <button id="editorModeBorders" class="editor-mode-btn"><span class="icon">&#x1F5FA;</span> Fronti&egrave;res</button>
                 <button id="editorModeAddPoint" class="editor-mode-btn"><span class="icon">&#x2795;</span> Ajouter lieu</button>
             </div>
+            <div class="ctrl-section">
+                <div class="ctrl-section-title">Historique</div>
+                <button id="editorUndoMove" disabled><span class="icon">&#x21A9;</span> Annuler le dernier d&eacute;placement</button>
+                <div id="editorHistory" class="editor-history">
+                    <div class="editor-history-empty">Aucune modification</div>
+                </div>
+            </div>
             <!-- Options -->
             <div class="ctrl-section">
                 <div class="ctrl-section-title">Options</div>
                 <button id="toggleMarkers"><span class="icon">&#x1F4CD;</span> Marqueurs</button>
+                <label class="editor-debug-toggle" for="toggleClickHitboxes">
+                    <input type="checkbox" id="toggleClickHitboxes">
+                    <span>Zones de clic</span>
+                </label>
                 <div id="addPointOptions" style="display:none; margin-top:4px;">
                     <label style="font-size:11px; color:var(--text-muted); margin-bottom:4px; display:block;">Type de lieu :</label>
                     <select id="addPointType" style="width:100%; padding:5px 8px; background:var(--input-bg); border:1px solid var(--input-border); border-radius:var(--radius); color:var(--text); font-size:12px; margin-bottom:4px;">

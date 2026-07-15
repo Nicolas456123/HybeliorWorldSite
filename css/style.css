@@ -2338,6 +2338,80 @@ body.measure-bar-visible .editor-panel { top: calc(var(--nav-height) + 50px); }
 }
 .editor-panel button .icon { font-size: 14px; flex-shrink: 0; }
 
+.editor-history {
+    max-height: 220px;
+    overflow-y: auto;
+    margin-top: 6px;
+    border-top: 1px solid var(--panel-border);
+}
+
+.editor-history-entry {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) 28px;
+    gap: 6px;
+    align-items: center;
+    padding: 7px 0;
+    border-bottom: 1px solid var(--panel-border);
+}
+
+.editor-history-name,
+.editor-history-meta {
+    display: block;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.editor-history-name { color: var(--text); font-size: 11px; font-weight: 600; }
+.editor-history-meta { color: var(--text-muted); font-size: 9px; margin-top: 2px; }
+.editor-history-empty { color: var(--text-muted); font-size: 10px; padding: 8px 0; }
+
+.editor-history-entry .editor-history-restore {
+    width: 28px;
+    height: 28px;
+    padding: 0;
+    text-align: center;
+}
+
+.editor-debug-toggle {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    min-height: 32px;
+    padding: 7px 10px;
+    color: var(--text);
+    font-size: 12px;
+    cursor: pointer;
+}
+
+.editor-debug-toggle input {
+    width: 15px;
+    height: 15px;
+    margin: 0;
+    accent-color: var(--accent);
+    cursor: pointer;
+}
+
+.map-click-hitbox {
+    fill: transparent;
+    stroke: transparent;
+    vector-effect: non-scaling-stroke;
+}
+
+.osd-container.show-click-hitboxes .map-click-hitbox {
+    fill: rgba(255, 82, 82, 0.2);
+    stroke: #ff5252;
+    stroke-width: 1.5px;
+}
+
+.osd-container.show-click-hitboxes .map-click-hitbox[data-storage="continentsElements"] { fill: rgba(224, 92, 255, 0.2); stroke: #e05cff; }
+.osd-container.show-click-hitboxes .map-click-hitbox[data-storage="paysElements"] { fill: rgba(66, 165, 245, 0.2); stroke: #42a5f5; }
+.osd-container.show-click-hitboxes .map-click-hitbox[data-storage="regionElements"] { fill: rgba(255, 213, 79, 0.2); stroke: #ffd54f; }
+.osd-container.show-click-hitboxes .map-click-hitbox[data-storage="capitalesElements"] { fill: rgba(239, 83, 80, 0.2); stroke: #ef5350; }
+.osd-container.show-click-hitboxes .map-click-hitbox[data-storage="citesElements"] { fill: rgba(255, 167, 38, 0.2); stroke: #ffa726; }
+.osd-container.show-click-hitboxes .map-click-hitbox[data-storage="villesElements"] { fill: rgba(102, 187, 106, 0.2); stroke: #66bb6a; }
+.osd-container.show-click-hitboxes .map-click-hitbox[data-storage="villagesElements"] { fill: rgba(38, 198, 218, 0.2); stroke: #26c6da; }
+
 @media (max-width: 768px) {
     .editor-panel {
         left: 12px;
