@@ -2394,11 +2394,11 @@ function initMap() {
             displayName = name;
         }
 
-        // Chrome perd en précision sur l'ancrage et la rasterisation des textes SVG
-        // minuscules. Tous les tiers sont rendus dans un repère typographique stable,
-        // puis contre-redimensionnés avec exactement la même transformation que leur hitbox.
-        const RENDER_TARGET = 1;
-        const textScale = RENDER_TARGET / fontSize;
+        // Tous les tiers utilisent le repère typographique du niveau Continent.
+        // Cela reste assez grand pour Chrome sans créer les facteurs de transformation
+        // extrêmes qui rendaient les noms profonds flous ou instables pendant le zoom.
+        const RENDER_TARGET = LABEL_FONT_SIZES.continentsElements;
+        const textScale = Math.max(1, RENDER_TARGET / fontSize);
 
         // Déterminer les positions selon l'état du wrapping
         const positions = wrappingEnabled ? [
