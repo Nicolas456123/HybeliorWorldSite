@@ -2066,6 +2066,14 @@ function initMap() {
         viewer.addHandler('pan', throttledUpdateVisibility);
         viewer.addHandler('resize', updateTextVisibility);
         viewer.addHandler('animation-finish', updateTextVisibility);
+        // Les hitboxes restent actives pendant le mouvement, mais leur coloration
+        // de debug attend la fin du zoom pour ne pas produire de grands flashs.
+        viewer.addHandler('animation-start', () => {
+            viewer.container.classList.add('hitbox-debug-zooming');
+        });
+        viewer.addHandler('animation-finish', () => {
+            viewer.container.classList.remove('hitbox-debug-zooming');
+        });
         // Culling des bordures aussi sur zoom/pan (cf cullBordersOutOfView)
         viewer.addHandler('zoom', throttledCullBorders);
         viewer.addHandler('pan', throttledCullBorders);

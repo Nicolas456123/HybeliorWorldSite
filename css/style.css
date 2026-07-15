@@ -2412,6 +2412,11 @@ body.measure-bar-visible .editor-panel { top: calc(var(--nav-height) + 50px); }
 .openseadragon-container.show-click-hitboxes .map-click-hitbox[data-storage="villesElements"] { fill: rgba(102, 187, 106, 0.2); stroke: #66bb6a; }
 .openseadragon-container.show-click-hitboxes .map-click-hitbox[data-storage="villagesElements"] { fill: rgba(38, 198, 218, 0.2); stroke: #26c6da; }
 
+.openseadragon-container.show-click-hitboxes.hitbox-debug-zooming .map-click-hitbox {
+    fill: transparent !important;
+    stroke: transparent !important;
+}
+
 @media (max-width: 768px) {
     .editor-panel {
         left: 12px;
