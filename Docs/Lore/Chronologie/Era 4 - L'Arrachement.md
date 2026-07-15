@@ -332,6 +332,8 @@ Les continents les moins dépendants du Lien, les plus pauvres en Liés, reçoiv
 
 > [!important] Statut
 > Les fiches qui suivent sont consignées dans les corpus verithanis comme **portraits du Cercle des Huit** rattachés au récit de l'Étudiant (§3.1). Elles constituent une matière narrative majeure pour les chroniqueurs, les Bardes et les joueurs explorant la doctrine déliée. Elles ne sont **pas canoniques sur le plan cosmologique** : leur historicité est débattue (cf. §3.6), et leur lecture causale (un mortel + huit complices causant un Cardinal cosmique) est explicitement rejetée par le cadre du Pacte Primordial et de la Polyphonie. Conservées pour leur valeur de **document doctrinal délié**.
+>
+> **Lignée canonique vs transmission tardive.** La composition, les âges et les Voies des Huit qui font foi sont ceux consignés en [[Era 3b - Religions Verithan et la Chute]] — et que suit la trilogie *Les Trois Coups*. Les portraits ci-dessous relèvent d'une **transmission verithane tardive** qui s'en écarte sur plusieurs points (âges, Voies, sorts, jusqu'à des contradictions internes) : ces écarts sont des **déformations de transmission in-world**, non des faits à réconcilier. Le lecteur qui connaît les deux versions voit précisément comment la légende a tordu la mémoire.
 
 ### Sera (de Celethor) — la Survivante-Témoin
 
