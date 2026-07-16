@@ -1,13 +1,26 @@
 const http = require('http');
 const fs = require('fs');
 const path = require('path');
+const kg = require('./lib/kg-core.js');
+const { createSqliteExec } = require('./lib/sqlite-adapter.js');
 
 const PORT = process.env.PORT || 3001;
 const DB_FILE = path.join(__dirname, 'local-db.json');
 const HISTORY_FILE = path.join(__dirname, 'local-history.json');
 const BORDERS_FILE = path.join(__dirname, 'local-borders.json');
+const KG_DB_FILE = path.join(__dirname, 'local-kg.sqlite');
 const LORE_ROOT = path.join(__dirname, 'Docs', 'Lore');
 const EDITOR_PASSWORD = process.env.EDITOR_PASSWORD || 'local';
+
+// ── Graphe de connaissances : adaptateur node:sqlite (miroir dev de Turso) ──
+// Le MÊME cœur (lib/kg-core.js) tourne ici et sur Turso en production.
+let kgExec = null;
+let kgSchemaReady = false;
+async function ensureKgSchema() {
+  if (!kgExec) kgExec = createSqliteExec(KG_DB_FILE).exec;
+  if (!kgSchemaReady) { await kg.initSchema(kgExec); kgSchemaReady = true; }
+  return kgExec;
+}
 
 // ── Local DB (dev fallback for /api/overrides) ──────────────
 
@@ -280,6 +293,41 @@ const server = http.createServer(async (req, res) => {
         } catch (err) {
             res.writeHead(400, { 'Content-Type': 'application/json' });
             return res.end(JSON.stringify({ error: err.message }));
+        }
+    }
+
+    // ── API: /api/kg (graphe de connaissances) ────────────────
+    if (pathname === '/api/kg') {
+        try {
+            await ensureKgSchema();
+            if (req.method === 'GET') {
+                if (req.headers['x-editor-password'] !== EDITOR_PASSWORD) {
+                    res.writeHead(403, { 'Content-Type': 'application/json' });
+                    return res.end(JSON.stringify({ error: 'Mot de passe requis (header X-Editor-Password)' }));
+                }
+                const query = Object.fromEntries(url.searchParams.entries());
+                const out = await kg.readAction(kgExec, query.action || 'list', query);
+                res.writeHead(200, { 'Content-Type': 'application/json' });
+                return res.end(JSON.stringify(out));
+            }
+            if (req.method === 'POST') {
+                const { password, action, data } = await parseBody(req);
+                if (password !== EDITOR_PASSWORD) {
+                    res.writeHead(403, { 'Content-Type': 'application/json' });
+                    return res.end(JSON.stringify({ error: 'Mot de passe incorrect' }));
+                }
+                const out = await kg.writeAction(kgExec, action, data);
+                res.writeHead(200, { 'Content-Type': 'application/json' });
+                return res.end(JSON.stringify(out));
+            }
+            res.writeHead(405, { 'Content-Type': 'application/json' });
+            return res.end(JSON.stringify({ error: 'Method not allowed' }));
+        } catch (err) {
+            const code = err && err.code ? err.code : 'error';
+            const status = (code === 'validation' || code === 'ref' || code === 'referenced') ? 400
+                : code === 'not-found' ? 404 : 500;
+            res.writeHead(status, { 'Content-Type': 'application/json' });
+            return res.end(JSON.stringify({ error: err.message, code }));
         }
     }
 

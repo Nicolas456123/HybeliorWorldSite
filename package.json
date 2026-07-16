@@ -4,6 +4,8 @@
   "description": "Site interactif de l'univers d'Hybélior (SPA vanilla JS).",
   "scripts": {
     "dev": "node server.js",
+    "kg:schema": "node -e \"const kg=require('./lib/kg-core.js'),fs=require('fs');const h='-- db/schema.sql — Schéma du graphe de connaissances (instantané régénéré par: npm run kg:schema).\\n-- SOURCE DE VÉRITÉ: lib/kg-core.js (SCHEMA_STATEMENTS). Même DDL Turso + node:sqlite.\\n\\n\\n';fs.mkdirSync('db',{recursive:true});fs.writeFileSync('db/schema.sql',h+kg.SCHEMA_STATEMENTS.map(s=>s.replace(/\\n\\s+/g,'\\n  ').trim()+';').join('\\n\\n')+'\\n')\"",
+    "kg:migrate": "node scripts/migrate-kg.js",
     "lint": "eslint .",
     "format": "prettier --write \"**/*.{js,json,css}\"",
     "format:check": "prettier --check \"**/*.{js,json,css}\""

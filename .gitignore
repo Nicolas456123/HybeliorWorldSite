@@ -25,6 +25,12 @@ local-history.json
 local-borders.json
 local-highlights.json
 
+# Base locale du graphe de connaissances (node:sqlite — miroir dev de Turso)
+local-kg.sqlite
+local-kg.sqlite-*
+local-kg.sqlite-shm
+local-kg.sqlite-wal
+
 # Config éditeur Obsidian — ne doit pas être servie publiquement
 Docs/Lore/.obsidian/
 
