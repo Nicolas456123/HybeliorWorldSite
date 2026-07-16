@@ -112,7 +112,7 @@ Inversement, là où les frontières s'effacent — sur une route caravanière q
 
 Et puis il y a les **passages improbables** — les ponts entre îles que personne n'a construits, les sentiers qui apparaissent et disparaissent au gré des Souffles, les détroits que certains naviguent et d'autres pas, sans qu'on sache pourquoi. Hybelior est riche de ces seuils irréguliers. Une part de la magie du voyage tient à ce qu'aucun chemin n'est universellement praticable. Ce qui s'ouvre à toi peut rester fermé à un autre, et inversement. La géographie d'Hybelior n'est jamais purement objective : elle a toujours, pour part, **affaire à toi**.
 
-Pour le détail des grandes routes commerciales, des ports majeurs et des flux économiques entre continents, voir [[Économie]]. Pour les seuils cosmiques (Failles, Brèches, Sanctuaires), voir [[Traces des Ères]].
+Pour les seuils cosmiques (Failles, Brèches, Sanctuaires), voir [[Traces des Ères]].
 
 > *« Il existe un détroit, entre Cendara et Ulinor, que mon père a traversé soixante fois. Je l'ai tenté trois fois. La mer m'a renvoyée trois fois. Je n'ai jamais su pourquoi. Peut-être qu'elle me garde pour un autre voyage. »*
 >
@@ -134,5 +134,5 @@ La géographie d'Hybelior n'enseigne pas que tout se vaut. Elle enseigne que **t
 
 ---
 
-*Liens narratifs : [[Continents/Index]] | [[Lignées]] | [[Cosmologie]] | [[Univers]] | [[Traces des Ères]] | [[Économie]] | [[Le Souffle]]*
+*Liens narratifs : [[Continents/Index]] | [[Lignées]] | [[Cosmologie]] | [[Univers]] | [[Traces des Ères]] | [[Le Souffle]]*
 

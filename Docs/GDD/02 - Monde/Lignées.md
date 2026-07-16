@@ -174,8 +174,6 @@ Ce que la lignée donne, ce sont des **prises sur le monde**. Elle vous fait rec
 
 C'est en cela que la lignée est plus précieuse qu'une statistique : elle est un **fil narratif** que vous tirez avec vous à travers les Ères. Vous resterez de votre lignée à travers tous les Souffles ; c'est l'une des continuités les plus stables qu'Hybelior vous offre.
 
-Pour les choix de personnage, voir [[Personnage]].
-
 ---
 
 ## Synthèse
@@ -190,4 +188,4 @@ Une lignée n'est pas une race. Ce n'est pas non plus un destin. C'est une **con
 
 ---
 
-*Liens narratifs : [[02 - Monde/Index|02 - Monde]] · [[Histoire d'Hybelior]] · [[Frise]] · [[Cosmologie]] · [[Géographie]] · [[Continents/Index]] · [[Personnage]] · [[Le Lien]] · [[Le Souffle]]*
+*Liens narratifs : [[02 - Monde/Index|02 - Monde]] | [[Histoire d'Hybelior]] | [[Frise]] | [[Cosmologie]] | [[Géographie]] | [[Continents/Index]] | [[Le Lien]] | [[Le Souffle]]*

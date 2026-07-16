@@ -9,8 +9,6 @@ needs_review_for: []
 # 01 — Vision
 
 > Pitch, identité, public cible, monétisation. Les fondamentaux qui répondent à la question **"Pourquoi HybeliorWorld ?"**.
->
-> Si un fichier décrit un comportement chiffré ou une règle de jeu, il appartient à [[03 - Mécaniques/Index|Mécaniques]] — pas ici.
 
 ---
 
@@ -27,7 +25,6 @@ SORT file.name ASC
 
 - [[Vision]] — pitch, audience, ce qui distingue Hybelior
 - [[Univers]] — toile de fond, ambiance, narration ambiante
-- [[La Partie]] — l'expérience continue du voyageur ; le monde traverse des Ères, sans rupture
 
 ---
 

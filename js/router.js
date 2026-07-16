@@ -17,7 +17,7 @@ const Router = {
 
     routes() {
         return window.NavConfig ? window.NavConfig.routes() : [
-            'accueil', 'vision', 'monde', 'mecaniques', 'systemes',
+            'accueil', 'vision', 'monde',
             'lore', 'carte', 'frise',
         ];
     },

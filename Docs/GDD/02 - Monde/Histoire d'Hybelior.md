@@ -82,7 +82,7 @@ Cet âge dura — combien, nul ne sait, et la question n'a peut-être pas de sen
 
 Après la Fracture, le monde se replia sur lui-même et apprit à se compter. L'humanité — et les peuples qui lui sont apparentés — émergea comme forme dominante. Trois grandes puissances structurèrent le continent central et ses voisins ; elles n'eurent pas le temps de se connaître autrement que par la guerre et par les pactes qui suspendent la guerre. C'est de leurs frottements que sortit la plupart de ce qu'Hybelior porte encore aujourd'hui : ses langues administratives, ses unités de mesure, ses lignages aristocratiques, ses neuf grandes religions consignées (voir [[00 - Système Religieux|Religions]]).
 
-Avant cette Ère, la dévotion était locale, presque familiale. Avec les royaumes vint la **codification** : les conseils religieux se constituèrent, les textes furent fixés, les hérésies nommées. C'est aussi l'âge où l'on commença à étudier les Souffles méthodiquement, et où naquirent les **disciplines de prédiction** transmises depuis (voir [[Prédiction]]). Atmosphère ambiguë, donc : **lumineuse** par la sophistication qu'elle inventa, **lourde** par les hiérarchies qu'elle scella. Les chroniqueurs en parlent comme d'un long midi — un soleil au zénith, des ombres courtes, et déjà, à l'horizon, l'avant-goût d'un soir.
+Avant cette Ère, la dévotion était locale, presque familiale. Avec les royaumes vint la **codification** : les conseils religieux se constituèrent, les textes furent fixés, les hérésies nommées. C'est aussi l'âge où l'on commença à étudier les Souffles méthodiquement, et où naquirent les **disciplines de prédiction** transmises depuis. Atmosphère ambiguë, donc : **lumineuse** par la sophistication qu'elle inventa, **lourde** par les hiérarchies qu'elle scella. Les chroniqueurs en parlent comme d'un long midi — un soleil au zénith, des ombres courtes, et déjà, à l'horizon, l'avant-goût d'un soir.
 
 > *« Les Trois Royaumes ont tout écrit. Et c'est peut-être pour ça qu'ils n'ont rien laissé survivre. Ce qui est écrit est fragile : il suffit d'un feu. Ce qui est chanté ne brûle pas. »*
 >
@@ -170,4 +170,4 @@ Ce que cette chronique ne dit pas — et ne pourra jamais dire — c'est ce qui 
 
 ---
 
-*Liens narratifs : [[Cosmologie]] | [[Le Souffle]] | [[Les Ères]] | [[Le Lien]] | [[00 - Système Religieux|Religions]] | [[Géographie]] | [[Prédiction]] | [[Traces des Ères]] | [[La Partie]]*
+*Liens narratifs : [[Cosmologie]] | [[Le Souffle]] | [[Les Ères]] | [[Le Lien]] | [[00 - Système Religieux|Religions]] | [[Géographie]] | [[Traces des Ères]]*

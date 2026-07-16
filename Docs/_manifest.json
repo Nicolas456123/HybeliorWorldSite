@@ -7,11 +7,6 @@
       "isIndex": true
     },
     {
-      "name": "La Partie",
-      "file": "La Partie.md",
-      "title": "🌐 La Partie — l'expérience du voyageur"
-    },
-    {
       "name": "Univers",
       "file": "Univers.md",
       "title": "🌍 Univers — Hybelior"
@@ -48,6 +43,26 @@
       "file": "Index.md",
       "title": "02 — Monde",
       "isIndex": true
+    },
+    {
+      "name": "L'Accord",
+      "file": "L'Accord.md",
+      "title": "🎵 L'Accord — la résonance avec le monde"
+    },
+    {
+      "name": "Le Lien",
+      "file": "Le Lien.md",
+      "title": "🔮 Le Lien — la magie comme résonance"
+    },
+    {
+      "name": "Le Souffle",
+      "file": "Le Souffle.md",
+      "title": "🌬️ Le Souffle — la respiration du monde"
+    },
+    {
+      "name": "Les Ères",
+      "file": "Les Ères.md",
+      "title": "🌌 Les Ères — saisons cosmiques d'Hybelior"
     },
     {
       "name": "Lignées",
@@ -161,284 +176,6 @@
       "name": "_Index",
       "file": "_Index.md",
       "title": "Ulinor — l'Île des Échos",
-      "isIndex": true
-    }
-  ],
-  "GDD/03 - Mécaniques": [
-    {
-      "name": "Armes et Maîtrise",
-      "file": "Armes et Maîtrise.md",
-      "title": "🗡️ Armes & Maîtrise — on devient ce qu'on pratique"
-    },
-    {
-      "name": "Combat",
-      "file": "Combat.md",
-      "title": "⚔️ Le Combat — le dialogue qui peut tuer"
-    },
-    {
-      "name": "Dialogue et Interactions",
-      "file": "Dialogue et Interactions.md",
-      "title": "💬 Dialogue et Interactions — la parole comme acte"
-    },
-    {
-      "name": "Exploration",
-      "file": "Exploration.md",
-      "title": "🗺️ Exploration — entrer en relation avec un monde"
-    },
-    {
-      "name": "Factions",
-      "file": "Factions.md",
-      "title": "⚔️ Les Factions — pensées du monde"
-    },
-    {
-      "name": "Guildes",
-      "file": "Guildes.md",
-      "title": "🏰 Les Guildes — la famille élue"
-    },
-    {
-      "name": "Index",
-      "file": "Index.md",
-      "title": "03 — Mécaniques",
-      "isIndex": true
-    },
-    {
-      "name": "Inventaire",
-      "file": "Inventaire.md",
-      "title": "🎒 Inventaire — la bourse du voyageur"
-    },
-    {
-      "name": "L'Accord",
-      "file": "L'Accord.md",
-      "title": "🎵 L'Accord — la résonance avec le monde"
-    },
-    {
-      "name": "Labeur",
-      "file": "Labeur.md",
-      "title": "⚡ Le Labeur — l'énergie du jour"
-    },
-    {
-      "name": "Le Lien",
-      "file": "Le Lien.md",
-      "title": "🔮 Le Lien — la magie comme résonance"
-    },
-    {
-      "name": "Le Souffle",
-      "file": "Le Souffle.md",
-      "title": "🌬️ Le Souffle — la respiration du monde"
-    },
-    {
-      "name": "Les Ères",
-      "file": "Les Ères.md",
-      "title": "🌌 Les Ères — saisons cosmiques d'Hybelior"
-    },
-    {
-      "name": "Mort",
-      "file": "Mort.md",
-      "title": "💀 Mort — la rupture qui apprend"
-    },
-    {
-      "name": "Métiers",
-      "file": "Métiers.md",
-      "title": "🔨 Métiers — soixante-trois manières d'habiter le monde"
-    },
-    {
-      "name": "Personnage",
-      "file": "Personnage.md",
-      "title": "🧑 Le Personnage — une présence dans le monde"
-    },
-    {
-      "name": "Progression",
-      "file": "Progression.md",
-      "title": "📈 Progression — Plusieurs vies dans une seule"
-    },
-    {
-      "name": "Prédiction",
-      "file": "Prédiction.md",
-      "title": "🔮 La Prédiction — lire le Souffle qui vient"
-    },
-    {
-      "name": "PvP",
-      "file": "PvP.md",
-      "title": "⚔️ PvP — le monde quand il devient dangereux"
-    },
-    {
-      "name": "Réactions Élémentaires",
-      "file": "Réactions Élémentaires.md",
-      "title": "🜂 Les Réactions Élémentaires — la chimie cosmique des voix"
-    },
-    {
-      "name": "Économie",
-      "file": "Économie.md",
-      "title": "💰 L'Économie — le tissu vivant d'Hybelior"
-    },
-    {
-      "name": "Équipement et Armures",
-      "file": "Équipement et Armures.md",
-      "title": "🛡️ Équipement et Armures — la seconde peau du voyageur"
-    }
-  ],
-  "GDD/03 - Mécaniques/Architecture": [
-    {
-      "name": "Catégories de Constructions",
-      "file": "Catégories de Constructions.md",
-      "title": "🗂 Les familles du bâti — traité des constructions d'Hybelior"
-    },
-    {
-      "name": "Index",
-      "file": "Index.md",
-      "title": "🏛️ Architecture — le bâti d'Hybelior",
-      "isIndex": true
-    },
-    {
-      "name": "Mapping Métiers de Construction",
-      "file": "Mapping Métiers de Construction.md",
-      "title": "👷 Le chantier et ses ouvriers — qui bâtit Hybelior"
-    },
-    {
-      "name": "Matériaux de Construction",
-      "file": "Matériaux de Construction.md",
-      "title": "🧱 Les matières du bâti — ce avec quoi Hybelior s'élève"
-    },
-    {
-      "name": "Échelles et Niveaux",
-      "file": "Échelles et Niveaux.md",
-      "title": "📐 Les degrés de l'opulence — six rangs du bâti, cinq tailles de peuplement"
-    }
-  ],
-  "GDD/03 - Mécaniques/Items": [
-    {
-      "name": "Catégories d'Items",
-      "file": "Catégories d'Items.md",
-      "title": "Les familles d'objets d'Hybelior"
-    },
-    {
-      "name": "Crafts",
-      "file": "Crafts.md",
-      "title": "L'art du faire à Hybelior"
-    },
-    {
-      "name": "Index",
-      "file": "Index.md",
-      "title": "Des choses qu'on porte, qu'on troque, qu'on offre",
-      "isIndex": true
-    },
-    {
-      "name": "Sources de Ressources",
-      "file": "Sources de Ressources.md",
-      "title": "D'où viennent les choses"
-    },
-    {
-      "name": "Types d'Items",
-      "file": "Types d'Items.md",
-      "title": "Les natures des objets"
-    }
-  ],
-  "GDD/03 - Mécaniques/Métiers": [
-    {
-      "name": "Index",
-      "file": "Index.md",
-      "title": "Les neuf grandes voies des métiers d'Hybelior",
-      "isIndex": true
-    }
-  ],
-  "GDD/03 - Mécaniques/Métiers/Agriculture et Élevage": [
-    {
-      "name": "Index",
-      "file": "Index.md",
-      "title": "Métiers — Agriculture et Élevage",
-      "isIndex": true
-    }
-  ],
-  "GDD/03 - Mécaniques/Métiers/Artisanat et Production": [
-    {
-      "name": "Index",
-      "file": "Index.md",
-      "title": "Métiers — Artisanat et Production",
-      "isIndex": true
-    }
-  ],
-  "GDD/03 - Mécaniques/Métiers/Commerce et Services": [
-    {
-      "name": "Index",
-      "file": "Index.md",
-      "title": "Métiers — Commerce et Services",
-      "isIndex": true
-    }
-  ],
-  "GDD/03 - Mécaniques/Métiers/Divertissements": [
-    {
-      "name": "Index",
-      "file": "Index.md",
-      "title": "Métiers — Divertissements",
-      "isIndex": true
-    }
-  ],
-  "GDD/03 - Mécaniques/Métiers/Erudition": [
-    {
-      "name": "Index",
-      "file": "Index.md",
-      "title": "Métiers — Erudition",
-      "isIndex": true
-    }
-  ],
-  "GDD/03 - Mécaniques/Métiers/Exploration": [
-    {
-      "name": "Index",
-      "file": "Index.md",
-      "title": "Métiers — Exploration",
-      "isIndex": true
-    }
-  ],
-  "GDD/03 - Mécaniques/Métiers/Gouvernance": [
-    {
-      "name": "Index",
-      "file": "Index.md",
-      "title": "Métiers — Gouvernance",
-      "isIndex": true
-    }
-  ],
-  "GDD/03 - Mécaniques/Métiers/Mysticisme": [
-    {
-      "name": "Index",
-      "file": "Index.md",
-      "title": "Métiers — Mysticisme",
-      "isIndex": true
-    }
-  ],
-  "GDD/03 - Mécaniques/Métiers/Sécurité": [
-    {
-      "name": "Index",
-      "file": "Index.md",
-      "title": "Métiers — Sécurité",
-      "isIndex": true
-    }
-  ],
-  "GDD/04 - Systèmes": [
-    {
-      "name": "Index",
-      "file": "Index.md",
-      "title": "04 — Systèmes",
-      "isIndex": true
-    },
-    {
-      "name": "PNJ",
-      "file": "PNJ.md",
-      "title": "🧍 Les PNJ — la présence comme contrat"
-    }
-  ],
-  "GDD/04 - Systèmes/Bestiaire": [
-    {
-      "name": "Index",
-      "file": "Index.md",
-      "title": "🐾 Le Bestiaire — recensement du vivant",
-      "isIndex": true
-    }
-  ],
-  "GDD/04 - Systèmes/Comportements PNJ": [
-    {
-      "name": "Index",
-      "file": "Index.md",
-      "title": "Comportements PNJ — vivre sa journée, pas attendre celui qui passe",
       "isIndex": true
     }
   ],

@@ -31,7 +31,7 @@ const NavConfig = {
         - #continent/<key> : fiche continent (factuel)
         - #nation/<slug>   : fiche Description d'une nation (factuel)
         - #histoire/<slug> : récit (Histoire) d'une nation (Chroniques) */
-    loreSubroutes: ['vision', 'monde', 'mecaniques', 'systemes', 'histoires', 'nation', 'continent', 'histoire', 'religion', 'roman'],
+    loreSubroutes: ['vision', 'monde', 'histoires', 'nation', 'continent', 'histoire', 'religion', 'roman'],
 
     /** Continents et nations — source unique pour :
         - la landing lore-histoires (cartes par continent)
@@ -543,7 +543,7 @@ const NavConfig = {
         });
     },
 
-    /** Les 8 catégories de la landing Lore. Source unique consommée par :
+    /** Les catégories de la landing Lore. Source unique consommée par :
         - pages/lore.html (les 8 cartes thématiques)
         - js/sidebar-tree.js (arbre de navigation du sidebar)
         Pour chaque catégorie : icon, label, intro courte, et liste de liens. */
@@ -554,10 +554,10 @@ const NavConfig = {
             label: 'Le souffle du monde',
             intro: "La respiration cosmique d'Hybelior. Le monde change parce qu'il vit.",
             links: [
-                { label: 'Le Souffle',           href: '#mecaniques/souffle' },
-                { label: "L'Accord",             href: '#mecaniques/accord' },
-                { label: 'Les Ères',             href: '#mecaniques/eres' },
-                { label: 'Le Lien',              href: '#mecaniques/lien' },
+                { label: 'Le Souffle',           href: '#monde/souffle' },
+                { label: "L'Accord",             href: '#monde/accord' },
+                { label: 'Les Ères',             href: '#monde/eres' },
+                { label: 'Le Lien',              href: '#monde/lien' },
             ],
         },
         {
@@ -578,65 +578,11 @@ const NavConfig = {
         {
             key: 'vivre',
             icon: '🏛️',
-            label: 'Vivre dans Hybelior',
-            intro: "Ce que c'est qu'être un voyageur d'Hybelior, traverser ses heures.",
+            label: 'Vision & Univers',
+            intro: "La vision d'ensemble d'Hybelior et l'univers qui la porte.",
             links: [
                 { label: 'Vision',               href: '#vision/pitch' },
                 { label: "L'Univers",            href: '#vision/univers' },
-                { label: 'La Partie',            href: '#vision/partie' },
-                { label: 'Personnage',           href: '#mecaniques/personnage' },
-                { label: 'Mort',                 href: '#mecaniques/mort' },
-                { label: 'Exploration',          href: '#mecaniques/exploration' },
-                { label: 'Dialogue & Interactions', href: '#mecaniques/dialogue' },
-            ],
-        },
-        {
-            key: 'combat',
-            icon: '⚔️',
-            label: 'Combat et magie',
-            intro: "L'art du combat, les Voies du Lien, la chimie cosmique des éléments.",
-            links: [
-                { label: 'Combat',               href: '#mecaniques/combat' },
-                { label: 'Armes et Maîtrise',    href: '#mecaniques/armes' },
-                { label: 'Réactions Élémentaires', href: '#mecaniques/reactions' },
-                { label: 'PvP',                  href: '#mecaniques/pvp' },
-            ],
-        },
-        {
-            key: 'faire',
-            icon: '🔨',
-            label: 'Faire, troquer, bâtir',
-            intro: "Les mains qui façonnent le monde. Métiers, marchés, ateliers, constructions.",
-            links: [
-                { label: 'Métiers',              href: '#mecaniques/metiers' },
-                { label: 'Économie',             href: '#mecaniques/economie' },
-                { label: 'Items',                href: '#mecaniques/items' },
-                { label: 'Architecture',         href: '#mecaniques/architecture' },
-                { label: 'Équipement et Armures', href: '#mecaniques/equipement' },
-                { label: 'Inventaire',           href: '#mecaniques/inventaire' },
-                { label: 'Labeur',               href: '#mecaniques/labeur' },
-                { label: 'Progression',          href: '#mecaniques/progression' },
-            ],
-        },
-        {
-            key: 'presences',
-            icon: '👥',
-            label: 'Présences et entités',
-            intro: "Les habitants, les bêtes, les esprits, les cosmiques qui peuplent le monde.",
-            links: [
-                { label: 'PNJ — présence et identité', href: '#systemes/pnj' },
-                { label: 'Bestiaire',            href: '#systemes/bestiaire' },
-                { label: 'Comportements PNJ',    href: '#systemes/comportements' },
-            ],
-        },
-        {
-            key: 'liens',
-            icon: '🤝',
-            label: 'Liens et alliances',
-            intro: "Comment les voyageurs se rassemblent, se promettent, se déchirent.",
-            links: [
-                { label: 'Factions',             href: '#mecaniques/factions' },
-                { label: 'Guildes',              href: '#mecaniques/guildes' },
             ],
         },
         {
@@ -649,12 +595,11 @@ const NavConfig = {
                 { label: 'Nations',              href: '#histoires/histoires' },
                 { label: 'Religions',            href: '#monde/religions' },
                 { label: 'Chronologie',          href: '#monde/chronologie' },
-                { label: 'Prédiction',           href: '#mecaniques/prediction' },
             ],
         },
     ],
 
-    /** Étant donné une route (ex: 'mecaniques') + subkey (ex: 'souffle'),
+    /** Étant donné une route (ex: 'monde') + subkey (ex: 'souffle'),
         retourne la catégorie Lore correspondante, ou null. */
     findLoreCategory(route, subkey) {
         if (!route) return null;
@@ -703,7 +648,6 @@ const NavConfig = {
                 { key: 'index',      label: "Vue d'ensemble", src: 'GDD/01 - Vision/Index.md' },
                 { key: 'pitch',      label: 'Pitch',       src: 'GDD/01 - Vision/Vision.md' },
                 { key: 'univers',    label: "L'Univers",   src: 'GDD/01 - Vision/Univers.md' },
-                { key: 'partie',     label: 'La Partie',   src: 'GDD/01 - Vision/La Partie.md' },
                 { key: 'production', label: 'Production',  src: 'GDD/01 - Vision/Production.md' },
             ],
         },
@@ -714,6 +658,10 @@ const NavConfig = {
             tabs: [
                 { key: 'index',       label: "Vue d'ensemble", src: 'GDD/02 - Monde/Index.md' },
                 { key: 'cosmologie',  label: 'Cosmologie',     src: 'GDD/02 - Monde/Cosmologie.md' },
+                { key: 'lien',        label: 'Le Lien',        src: 'GDD/02 - Monde/Le Lien.md' },
+                { key: 'souffle',     label: 'Le Souffle',     src: 'GDD/02 - Monde/Le Souffle.md' },
+                { key: 'accord',      label: "L'Accord",       src: "GDD/02 - Monde/L'Accord.md" },
+                { key: 'eres',        label: 'Les Ères',       src: 'GDD/02 - Monde/Les Ères.md' },
                 { key: 'geographie',  label: 'Géographie',     src: 'GDD/02 - Monde/Géographie.md' },
                 { key: 'continents',  label: 'Continents',     src: 'GDD/02 - Monde/Continents/Index.md' },
                 { key: 'lignees',     label: 'Lignées',        src: 'GDD/02 - Monde/Lignées.md' },
@@ -722,49 +670,6 @@ const NavConfig = {
                 { key: 'religions',   label: 'Religions',      src: '/pages/lore-religions.html',   engine: 'html' },
                 { key: 'frise',       label: 'Frise',          src: 'GDD/02 - Monde/Frise.md' },
                 { key: 'traces',      label: 'Traces des Ères', src: 'GDD/02 - Monde/Traces des Ères.md' },
-            ],
-        },
-
-        mecaniques: {
-            engine: 'md',
-            defaultKey: 'index',
-            tabs: [
-                { key: 'index',        label: "Vue d'ensemble",  src: 'GDD/03 - Mécaniques/Index.md' },
-                { key: 'souffle',      label: 'Le Souffle',      src: 'GDD/03 - Mécaniques/Le Souffle.md' },
-                { key: 'accord',       label: "L'Accord",        src: "GDD/03 - Mécaniques/L'Accord.md" },
-                { key: 'eres',         label: 'Les Ères',        src: 'GDD/03 - Mécaniques/Les Ères.md' },
-                { key: 'personnage',   label: 'Personnage',      src: 'GDD/03 - Mécaniques/Personnage.md' },
-                { key: 'progression',  label: 'Progression',     src: 'GDD/03 - Mécaniques/Progression.md' },
-                { key: 'labeur',       label: 'Labeur',          src: 'GDD/03 - Mécaniques/Labeur.md' },
-                { key: 'combat',       label: 'Combat',          src: 'GDD/03 - Mécaniques/Combat.md' },
-                { key: 'armes',        label: 'Armes',           src: 'GDD/03 - Mécaniques/Armes et Maîtrise.md' },
-                { key: 'lien',         label: 'Le Lien (magie)', src: 'GDD/03 - Mécaniques/Le Lien.md' },
-                { key: 'reactions',    label: 'Réactions Élémentaires', src: 'GDD/03 - Mécaniques/Réactions Élémentaires.md' },
-                { key: 'equipement',   label: 'Équipement et Armures',  src: 'GDD/03 - Mécaniques/Équipement et Armures.md' },
-                { key: 'inventaire',   label: 'Inventaire',      src: 'GDD/03 - Mécaniques/Inventaire.md' },
-                { key: 'dialogue',     label: 'Dialogue et Interactions', src: 'GDD/03 - Mécaniques/Dialogue et Interactions.md' },
-                { key: 'mort',         label: 'Mort',            src: 'GDD/03 - Mécaniques/Mort.md' },
-                { key: 'metiers',      label: 'Métiers',         src: 'GDD/03 - Mécaniques/Métiers.md' },
-                { key: 'metiers-cat',  label: 'Métiers — catalogue', src: 'GDD/03 - Mécaniques/Métiers/Index.md' },
-                { key: 'economie',     label: 'Économie',        src: 'GDD/03 - Mécaniques/Économie.md' },
-                { key: 'exploration',  label: 'Exploration',     src: 'GDD/03 - Mécaniques/Exploration.md' },
-                { key: 'items',        label: 'Items',           src: 'GDD/03 - Mécaniques/Items/Index.md' },
-                { key: 'architecture', label: 'Architecture',    src: 'GDD/03 - Mécaniques/Architecture/Index.md' },
-                { key: 'guildes',      label: 'Guildes',         src: 'GDD/03 - Mécaniques/Guildes.md' },
-                { key: 'factions',     label: 'Factions',        src: 'GDD/03 - Mécaniques/Factions.md' },
-                { key: 'pvp',          label: 'PvP',             src: 'GDD/03 - Mécaniques/PvP.md' },
-                { key: 'prediction',   label: 'Prédiction',      src: 'GDD/03 - Mécaniques/Prédiction.md' },
-            ],
-        },
-
-        systemes: {
-            engine: 'md',
-            defaultKey: 'index',
-            tabs: [
-                { key: 'index',         label: "Vue d'ensemble",    src: 'GDD/04 - Systèmes/Index.md' },
-                { key: 'pnj',           label: 'PNJ',               src: 'GDD/04 - Systèmes/PNJ.md' },
-                { key: 'bestiaire',     label: 'Bestiaire',         src: 'GDD/04 - Systèmes/Bestiaire/Index.md' },
-                { key: 'comportements', label: 'Comportements PNJ', src: 'GDD/04 - Systèmes/Comportements PNJ/Index.md' },
             ],
         },
 

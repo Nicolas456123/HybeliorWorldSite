@@ -126,4 +126,4 @@ Hybelior, à la fin, n'est pas un produit. C'est une invitation — adressée à
 
 ---
 
-*Liens narratifs : [[Univers]] | [[Personnage]] | [[La Partie]] | [[Le Souffle]] | [[Cosmologie]]*
+*Liens narratifs : [[Univers]] | [[Le Souffle]] | [[Cosmologie]]*

@@ -110,7 +110,7 @@ L'Accord fait pareil. Au moment du Souffle, il **reste** à sa valeur acquise. P
 
 Cette dérive n'est jamais instantanée. Elle prend plusieurs semaines, à un rythme que ton attention peut accompagner. Le monde te laisse le temps de comprendre ce qui a changé, le temps d'aller voir les zones nouvelles, le temps d'éprouver si tes Voies résonnent encore. Et pendant cette période, **tu as la main** : tu peux gagner de l'Accord activement, par tes actes, et compenser la dérive — voire la dépasser. Celui qui s'adapte vite peut, en quelques semaines, retrouver un Accord plus haut que celui qu'il avait à la fin de l'Ère précédente.
 
-Cette inertie est philosophique avant d'être pratique. Elle dit au voyageur : *« le monde change, mais il te laisse le temps de comprendre comment il a changé »*. Et elle ouvre une question qui devient à elle seule un art : **lire les signes** assez tôt pour adapter ses pratiques avant que la dérive ne se fasse sentir. Ceux qui savent prédire un Souffle (voir [[Prédiction]]) ont, ici, un avantage discret mais réel : ils commencent à ré-accorder leur instrument avant que le morceau ne change.
+Cette inertie est philosophique avant d'être pratique. Elle dit au voyageur : *« le monde change, mais il te laisse le temps de comprendre comment il a changé »*. Et elle ouvre une question qui devient à elle seule un art : **lire les signes** assez tôt pour adapter ses pratiques avant que la dérive ne se fasse sentir. Ceux qui savent prédire un Souffle ont, ici, un avantage discret mais réel : ils commencent à ré-accorder leur instrument avant que le morceau ne change.
 
 > *« Le monde ne te trahit pas en changeant. Il te demande simplement d'apprendre à entendre la nouvelle musique. »*
 >
@@ -182,5 +182,5 @@ Une promesse en une phrase, qui résume tout : *« Quel que soit ton temps dispo
 
 ---
 
-*Liens narratifs : [[Le Souffle]] | [[Les Ères]] | [[Personnage]] | [[Armes et Maîtrise]] | [[Progression]] | [[La Partie]] | [[Cosmologie]] | [[Le Lien]] | [[Univers]] | [[Prédiction]]*
+*Liens narratifs : [[Le Souffle]] | [[Les Ères]] | [[Cosmologie]] | [[Le Lien]] | [[Univers]]*
 

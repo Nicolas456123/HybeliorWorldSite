@@ -227,5 +227,5 @@ Devenir un Lié, c'est, à Hybelior, **prendre place dans une conversation qui d
 
 ---
 
-*Liens narratifs : [[Cosmologie]] | [[Le Souffle]] | [[L'Accord]] | [[Les Ères]] | [[Univers#Les Déliés|Les Déliés]] | [[Combat]] | [[Armes et Maîtrise]]*
+*Liens narratifs : [[Cosmologie]] | [[Le Souffle]] | [[L'Accord]] | [[Les Ères]] | [[Univers#Les Déliés|Les Déliés]]*
 

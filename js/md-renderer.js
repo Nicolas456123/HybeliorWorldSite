@@ -1,7 +1,7 @@
 /**
  * md-renderer.js — Rendu markdown depuis Docs/GDD/ avec support sous-onglets
  *
- * Utilisé par les pages-coquilles (vision.html, monde.html, mecaniques.html, etc.)
+ * Utilisé par les pages-coquilles (vision.html, monde.html, etc.)
  * pour charger dynamiquement les .md de Documentation/GDD/ sans avoir à dupliquer
  * le contenu en HTML.
  *

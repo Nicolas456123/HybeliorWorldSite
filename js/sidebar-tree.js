@@ -31,7 +31,7 @@
     // Les 5 grands onglets. `routes` = routes qui appartiennent à la section.
     const SECTIONS = [
         { key: 'accueil',        label: 'Accueil',        href: '#accueil',        routes: ['accueil'] },
-        { key: 'lore',           label: 'Lore',           href: '#lore',           routes: ['lore', 'vision', 'monde', 'mecaniques', 'systemes', 'histoires', 'nation', 'continent', 'histoire', 'religion', 'roman'], kind: 'lore' },
+        { key: 'lore',           label: 'Lore',           href: '#lore',           routes: ['lore', 'vision', 'monde', 'histoires', 'nation', 'continent', 'histoire', 'religion', 'roman'], kind: 'lore' },
         { key: 'carte',          label: 'Carte',          href: '#carte',          routes: ['carte'] },
         { key: 'frise',          label: 'Frise',          href: '#frise',          routes: ['frise'] },
     ];

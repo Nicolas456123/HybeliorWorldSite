@@ -192,5 +192,5 @@ Les Ères ne sont pas un dispositif. Ce sont des **chapitres** d'une histoire qu
 
 ---
 
-*Liens narratifs : [[Le Souffle]] | [[L'Accord]] | [[Cosmologie]] | [[Histoire d'Hybelior]] | [[Prédiction]] | [[Traces des Ères]] | [[Le Lien]] | [[La Partie]]*
+*Liens narratifs : [[Le Souffle]] | [[L'Accord]] | [[Cosmologie]] | [[Histoire d'Hybelior]] | [[Traces des Ères]] | [[Le Lien]]*
 

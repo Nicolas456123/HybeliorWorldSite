@@ -144,7 +144,7 @@ Et ton **Accord** — ta résonance avec le monde présent — ne s'effondre pas
 
 Le Souffle n'est pas un événement isolé : c'est une **expérience qui se déploie en plusieurs temps**, et la communauté d'Hybelior a appris à les nommer.
 
-D'abord, il y a la **phase stable** — la routine de l'Ère en cours, ses rituels, ses combats, ses projets. C'est la majeure partie d'une Ère. Le monde paraît acquis, les pratiques évidentes, les ennemis prévisibles. Puis, au bout d'un temps qu'aucun calendrier ne fixe, viennent les **signes faibles**. Ce ne sont d'abord que des bizarreries : un passant qui rapporte un rêve étrange, un chasseur qui remarque une migration à contre-saison, un astronome qui croit voir une constellation trembler. Rien d'alarmant, rien de spectaculaire. Mais ceux qui savent lire ces signes — et c'est tout un art, voir [[Prédiction]] — commencent à se préparer.
+D'abord, il y a la **phase stable** — la routine de l'Ère en cours, ses rituels, ses combats, ses projets. C'est la majeure partie d'une Ère. Le monde paraît acquis, les pratiques évidentes, les ennemis prévisibles. Puis, au bout d'un temps qu'aucun calendrier ne fixe, viennent les **signes faibles**. Ce ne sont d'abord que des bizarreries : un passant qui rapporte un rêve étrange, un chasseur qui remarque une migration à contre-saison, un astronome qui croit voir une constellation trembler. Rien d'alarmant, rien de spectaculaire. Mais ceux qui savent lire ces signes — et c'est tout un art — commencent à se préparer.
 
 Ensuite, plus tard, viennent les **signes forts**. Là, plus de doute possible : un événement mondial annonciateur traverse le ciel, les oracles parlent ouvertement, la Bourse des Augures s'agite, les compagnies organisent des veillées. C'est une période de **suspension** — tout ralentit en attendant ce qui doit arriver.
 
@@ -232,5 +232,5 @@ Il y a, dans cette respiration, une humilité revendiquée. Hybelior ne promet p
 
 ---
 
-*Liens narratifs : [[Les Ères]] | [[L'Accord]] | [[Cosmologie]] | [[Histoire d'Hybelior]] | [[Prédiction]] | [[Traces des Ères]] | [[La Partie]] | [[Le Lien]]*
+*Liens narratifs : [[Les Ères]] | [[L'Accord]] | [[Cosmologie]] | [[Histoire d'Hybelior]] | [[Traces des Ères]] | [[Le Lien]]*
 
