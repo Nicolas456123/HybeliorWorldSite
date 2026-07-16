@@ -1,6 +1,6 @@
 # Hybélior
 
-Site web interactif dédié à l'univers d'Hybélior : carte du monde, chronologie, lore et gameplay.
+Site web interactif dédié à l'univers d'Hybélior : carte du monde, chronologie, lore et romans.
 
 ## Architecture
 

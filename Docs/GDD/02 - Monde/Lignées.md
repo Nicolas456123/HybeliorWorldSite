@@ -166,13 +166,13 @@ L'**exil**, lui, ne change pas la lignée. Un Vael'Somnix exilé reste Vael'Somn
 
 ---
 
-## Lignée et personnage joueur
+## Lignée et identité
 
-Pour celui qui entre à Hybelior, le choix d'une lignée n'est pas le choix d'une **classe**. C'est le choix d'un **point de départ narratif** — d'un héritage culturel, d'une parenté avec certains continents, d'une affinité avec certaines traditions. Aucune mécanique n'en découle directement ; aucune limitation non plus. Un Petravin peut devenir Lié de toutes les Voies, un Ventori peut s'enraciner, un Vael'Somnix peut renoncer aux masques.
+Pour celui qui vit à Hybelior, la lignée n'est pas une **caste**. C'est un **point de départ narratif** — un héritage culturel, une parenté avec certains continents, une affinité avec certaines traditions. Aucun destin n'en découle directement ; aucune limitation non plus. Un Petravin peut devenir Lié de toutes les Voies, un Ventori peut s'enraciner, un Vael'Somnix peut renoncer aux masques.
 
-Ce que la lignée donne, ce sont des **prises sur le monde**. Elle vous fait reconnaître par certains PNJ comme un parent ; elle ouvre certaines lectures de quêtes, certaines hospitalités, certaines méfiances. Elle inscrit votre personnage dans un **réseau de sens** que les autres joueurs perçoivent au premier regard. Un Kharavast qui entre dans une taverne de Cendara n'a pas besoin de se présenter ; sa lignée parle pour lui, et la taverne répond.
+Ce que la lignée donne, ce sont des **prises sur le monde**. Elle vous fait reconnaître comme un parent ; elle ouvre certaines portes, certaines hospitalités, certaines méfiances. Elle inscrit le voyageur dans un **réseau de sens** que les autres perçoivent au premier regard. Un Kharavast qui entre dans une taverne de Cendara n'a pas besoin de se présenter ; sa lignée parle pour lui, et la taverne répond.
 
-C'est en cela que la lignée est plus précieuse qu'une statistique : elle est un **fil narratif** que vous tirez avec vous à travers les Ères. Vous resterez de votre lignée à travers tous les Souffles ; c'est l'une des continuités les plus stables qu'Hybelior vous offre.
+C'est en cela que la lignée est plus précieuse qu'un rang : elle est un **fil narratif** que vous tirez avec vous à travers les Ères. Vous resterez de votre lignée à travers tous les Souffles ; c'est l'une des continuités les plus stables qu'Hybelior vous offre.
 
 ---
 

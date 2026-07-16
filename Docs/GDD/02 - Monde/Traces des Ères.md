@@ -142,7 +142,7 @@ Les Traces ne sont pas un système annexe d'Hybelior. Elles sont, au sens le plu
 
 Cette mémoire est généreuse, mais elle est aussi exigeante. Elle ne se livre pas à qui passe sans regarder. Elle réclame des métiers, des coopérations, du temps. Elle récompense l'œil patient et punit la cupidité pressée. Elle fait du monde, sous chaque pas, une **archive vivante** que l'on peut, si l'on y consent, apprendre à lire.
 
-Et puis, surtout, elle inscrit une promesse profonde aux joueurs : *vos actes, ici, peuvent peser*. Pas seulement pour la durée d'une saison, pas seulement pour la mémoire d'une guilde — pour le monde lui-même, dans son paysage le plus durable. Une grande victoire peut laisser un cratère que les enfants des enfants visiteront. Une grande prédiction peut laisser une statue dont le nom continuera d'être prononcé. Cette promesse n'a rien d'une mécanique de récompense déguisée. C'est l'**éthique géographique** d'Hybelior : un monde qui garde la trace, parce qu'il considère que ce qui s'y est passé mérite d'être gardé.
+Et puis, surtout, elle inscrit une promesse profonde aux voyageurs : *vos actes, ici, peuvent peser*. Pas seulement pour la durée d'une saison, pas seulement pour la mémoire d'une guilde — pour le monde lui-même, dans son paysage le plus durable. Une grande victoire peut laisser un cratère que les enfants des enfants visiteront. Une grande prédiction peut laisser une statue dont le nom continuera d'être prononcé. Cette promesse n'a rien d'un marché déguisé. C'est l'**éthique géographique** d'Hybelior : un monde qui garde la trace, parce qu'il considère que ce qui s'y est passé mérite d'être gardé.
 
 > *« On ne marche pas sur Hybelior. On marche sur dix mille Ères empilées. Et chaque pas est une lecture. »*
 >

@@ -152,7 +152,7 @@ Taïga clairsemée (nord), prairie ouverte (centre), zone humide (Fugnord), mont
 
 ### Tonalité narrative
 
-Registre à mi-chemin entre **chronique commerciale** (les routes, les volumes, les contrats, vécus comme tissu réel du monde) et **carnet de voyageur** qui refuse, par instinct, de tout réduire au chiffre. Ironie sourde permise. Pas de leçon. Pas de pathos. Aucun PNJ ne nomme jamais le piège de la Loi du Calcul ; les nations affleurent leur propre dérive dans des proverbes qu'elles trouvent flatteurs.
+Registre à mi-chemin entre **chronique commerciale** (les routes, les volumes, les contrats, vécus comme tissu réel du monde) et **carnet de voyageur** qui refuse, par instinct, de tout réduire au chiffre. Ironie sourde permise. Pas de leçon. Pas de pathos. Aucun habitant ne nomme jamais le piège de la Loi du Calcul ; les nations affleurent leur propre dérive dans des proverbes qu'elles trouvent flatteurs.
 
 ---
 

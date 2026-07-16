@@ -70,7 +70,7 @@ Position **inclusive et nuancée**. La sensibilité onirique n'a pas grand-chose
 
 **Somnium Vigil sur le Souffle : Souffle = changement de rêve — Hybelior rêvée différemment.**
 
-Le Souffle est lu comme un **changement de rêve cosmique** — Somnix reconfigure la trame onirique du monde, et chaque ère est un rêve différent. Les Vigili sont parmi les meilleurs **interprètes des présages** annonciateurs de Souffles, en particulier les rêves prophétiques collectifs (cf. [[Le Souffle]] §"Phases d'un Petit Souffle" — les "PNJ font des rêves étranges" est leur domaine d'excellence).
+Le Souffle est lu comme un **changement de rêve cosmique** — Somnix reconfigure la trame onirique du monde, et chaque ère est un rêve différent. Les Vigili sont parmi les meilleurs **interprètes des présages** annonciateurs de Souffles, en particulier les rêves prophétiques collectifs (cf. [[Le Souffle]] — les rêves étranges qui gagnent les dormeurs à l'approche d'un Souffle sont leur domaine d'excellence).
 
 L'**Accord** (cf. [[L'Accord]]) est interprété comme la mesure d'**éveil** du fidèle dans le rêve en cours — combien il a *vraiment vu* l'ère qui passe.
 

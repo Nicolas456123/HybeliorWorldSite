@@ -8,7 +8,7 @@ needs_review_for: []
 
 # 01 — Vision
 
-> Pitch, identité, public cible, monétisation. Les fondamentaux qui répondent à la question **"Pourquoi HybeliorWorld ?"**.
+> Pitch, identité, intentions. Les fondamentaux qui répondent à la question **"Pourquoi Hybelior ?"**.
 
 ---
 
