@@ -52,11 +52,11 @@ L'archipel se partage entre trois nations qui se ressemblent assez pour partager
 
 **Brumaria**, au sud-est, est la plus peuplée, la plus prospère, la plus *pieuse* — au sens où elle attend le plus férocement le **Réveil** annoncé. Monarchie ésotérique, foyer du **Cœur de Cendra** — pierre brûlante dont les parois fondent et qui *pulse* à l'unisson du Mont —, elle est gouvernée par un roi-pyromancien dont la légitimité tient autant à son sang qu'à sa capacité à *lire* les humeurs du volcan. Les **Forgerons du Feu** y sont une caste autant qu'un métier ; leurs armes, imprégnées de la chaleur même du Mont, sont les plus convoitées d'Hybelior.
 
-**Pyrevane**, à l'ouest, est l'inverse en miroir. Pas de roi : un **Conseil des Sept Feux** qui délibère pour l'ensemble de la Cendara en matière religieuse — autorité que la cour royale tolère avec une crispation héritée. Pyrevane n'attend pas le Réveil ; elle l'**entretient**. Elle frappe le métal, récite les Forge-Liturgies, ordonne les prêtres. Si Cendara *règne*, Pyrevane *officie*. Sa rigueur a une noblesse — celle de qui ne demande pas pourquoi, mais comment bien faire. À force de bien frapper, on cesse de se demander pourquoi on frappe.
+**Pyrevane**, à l'ouest, est l'inverse en miroir. Pas de roi : un **Conseil des Sept Feux** qui délibère pour l'ensemble de la Cendara en matière religieuse — autorité que la cour royale tolère avec une crispation héritée. Pyrevane n'attend pas le Réveil ; elle l'**entretient**. Elle frappe le métal, récite les Forge-Liturgies, ordonne les prêtres. Si Brumaria *règne*, Pyrevane *officie*. Sa rigueur a une noblesse — celle de qui ne demande pas pourquoi, mais comment bien faire. À force de bien frapper, on cesse de se demander pourquoi on frappe.
 
 **Arkhen**, au nord, est la nation périphérique. Confédération de petites communautés, elle est la patrie des **Délies de la Flamme** — courant dissident qui considère que le feu est *passé*, qu'il a brûlé ce qu'il avait à brûler, et qu'il appartient désormais aux mortels d'apprendre à vivre dans la cendre. Cette lecture, jugée hérétique au sud, prospère à Arkhen pour une raison simple : Arkhen ne dépend de rien.
 
-> *« À Cendara, on lit le feu. À Pyrevane, on le frappe. À Arkhen, on le balaye. À Ilnara, on l'écoute respirer. Quatre verbes. Une seule flamme. Personne ne l'avoue. »*
+> *« À Brumaria, on lit le feu. À Pyrevane, on le frappe. À Arkhen, on le balaye. À Ilnara, on l'écoute respirer. Quatre verbes. Une seule flamme. Personne ne l'avoue. »*
 >
 > *— sermon non copié, attribué à un Vigilant de la Voix*
 

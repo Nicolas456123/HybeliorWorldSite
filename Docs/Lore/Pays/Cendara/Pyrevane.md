@@ -33,7 +33,7 @@ needs_review_for: []
   - **Diplomatie religieuse** : relations avec les autres traditions d'Hybelior (Ordo Caelum, [[Vael'Kurash]], Foedus Animae), généralement courtoises, parfois tendues (Caeloria de l'Ordo, Catena Fracta minoritaire).
 - Le Conseil ne légifère pas dans le domaine civil.
 - Singularité : Pyrevane n'a pas de gouvernement civil distinct — fait unique parmi les théocraties d'Hybelior. Questions civiles gérées au niveau des **Forges-Quartiers** (échelon paroissial), des **Maîtrises** (corporations de métiers liées à chaque Forge-Temple) et des **Conseils de Caldera** (assemblées locales).
-- Cette architecture polycentrique fonctionne grâce à une population petite (~30 000 hab. de Sceau et de forge, hors ruraux dispersés des calderas) et culturellement homogène ; elle ne fonctionnerait pas à Brumaria. C'est l'une des raisons pour lesquelles Pyrevane n'a pas absorbé Cendara (incapacité à gouverner un peuple non entièrement Ignitari).
+- Cette architecture polycentrique fonctionne grâce à une population petite (~30 000 hab. de Sceau et de forge, hors ruraux dispersés des calderas) et culturellement homogène ; elle ne fonctionnerait pas à Brumaria. C'est l'une des raisons pour lesquelles Pyrevane n'a pas absorbé Brumaria (incapacité à gouverner un peuple non entièrement Ignitari).
 
 ### Le Maître de Pyrevane-Mère (primus inter pares)
 

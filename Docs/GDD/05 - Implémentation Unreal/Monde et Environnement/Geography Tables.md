@@ -32,7 +32,7 @@ Cette page **n'est pas une duplication** de `Continents/Index.md`. Elle agrège 
 
 ## Table maître — 12 continents et leurs nations
 
-> Synchronisée sur [[Continents/Index]] (autorité). Total : **12 continents** (+ îles notables, dont **Nysaria**, petite île au large de la côte est de Celethor), **50 nations** dont 4 zones « No Man's Land ».
+> Synchronisée sur [[Continents/Index]] (autorité). Total : **12 continents** (+ îles notables, dont **Nysaria**, petite île au large de la côte est de Celethor), **47 nations** dont 3 zones « No Man's Land ».
 
 | # | Continent | Nb nations | Nations |
 |---|-----------|------------|---------|
@@ -40,7 +40,7 @@ Cette page **n'est pas une duplication** de `Continents/Index.md`. Elle agrège 
 | 2 | [[Azoria/_Index\|Azoria]] | 5 | Azoral, Caeloria, Kethvar, No Man's Land Azoria, Solmaris |
 | 3 | [[Baelor/_Index\|Baelor]] | 1 | Baelor |
 | 4 | [[Celethor/_Index\|Celethor]] | 4 | Astravia, Elarian, No Man's Land Celethor, Ryldor |
-| 5 | [[Cendara/_Index\|Cendara]] | 3 | Arkhen, Cendara, Pyrevane |
+| 5 | [[Cendara/_Index\|Cendara]] | 3 | Arkhen, Brumaria, Pyrevane |
 | 6 | [[Cestra/_Index\|Cestra]] | 2 | No Man's Land Cestra, Noravia |
 | 7 | [[Endora/_Index\|Endora]] | 3 | Avalor, Haldria, Sanvara |
 | 8 | [[Evertia/_Index\|Evertia]] | 3 | Evertia, Sylvara, Thalmaris |
@@ -49,7 +49,7 @@ Cette page **n'est pas une duplication** de `Continents/Index.md`. Elle agrège 
 | 11 | [[Onara/_Index\|Onara]] | 4 | Elarath, Mosrack, Myrtam, Tyndara |
 | 12 | [[Ulinor/_Index\|Ulinor]] | 3 | Dhalvoria, Skaldoria, Ulinor |
 
-**Total nations** : 50
+**Total nations** : 47
 
 > [!note] Îles notables
 > **Nysaria** n'est plus un continent : c'est une **petite île au large de la côte est de Celethor** (l'Île aux Masques, ville Nysoris ; brumes d'accès difficile). Voir [[Celethor/_Index]].
@@ -159,7 +159,7 @@ Embed Obsidian : `![[Hybelior Continent.png]]` (résolution par nom court).
 
 ## Décisions actées
 
-- Compte canonique : **12 continents** (+ îles notables, dont Nysaria au large de Celethor), **50 nations** (incluant 4 No Man's Land).
+- Compte canonique : **12 continents** (+ îles notables, dont Nysaria au large de Celethor), **47 nations** (incluant 3 No Man's Land).
 - Source canonique structurelle : [[Continents/Index]].
 - Source canonique gameplay biomes : ce document + [[Biome System]] (codes moteur).
 - Source canonique mapping biome ↔ Ère : [[Les Ères]].
