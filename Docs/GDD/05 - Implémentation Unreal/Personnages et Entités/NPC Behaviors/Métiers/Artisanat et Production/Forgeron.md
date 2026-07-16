@@ -15,7 +15,7 @@ needs_review_for: [calibration-mbti-playtest, animations-uniques, sons]
 
 > Comportement situationnel d'un PNJ Forgeron. Hérite de [[Routine Quotidienne]] et applique [[Actions Situationnelles]]. Spécialise les Tâches 3 et 5 (travail matin/après-midi) avec la **boucle de forge** canonique. Métier joueur correspondant : [[Forgeron]].
 >
-> Ce template **réécrit et intègre** l'ébauche `Métiers - Forgeron.md` (archivée dans [[_Ebauches Archivees/Métiers - Forgeron|_Ebauches Archivees]]).
+> Ce template **réécrit et intègre** l'ancienne ébauche du métier.
 
 ---
 

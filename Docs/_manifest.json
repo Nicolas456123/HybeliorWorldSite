@@ -2997,18 +2997,6 @@
       "title": "⚔️ Template comportement PNJ — Soldat"
     }
   ],
-  "GDD/05 - Implémentation Unreal/Personnages et Entités/NPC Behaviors/_Ebauches Archivees": [
-    {
-      "name": "Métiers - Boulanger",
-      "file": "Métiers - Boulanger.md",
-      "title": "🥖 Métier PNJ — Boulanger"
-    },
-    {
-      "name": "Métiers - Forgeron",
-      "file": "Métiers - Forgeron.md",
-      "title": "🔨 Métier PNJ — Forgeron"
-    }
-  ],
   "GDD/05 - Implémentation Unreal/Progression et Inventaire": [
     {
       "name": "Accord System",

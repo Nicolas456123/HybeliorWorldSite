@@ -15,7 +15,7 @@ needs_review_for: [calibration-mbti-playtest, recettes-pains-spécialités, lien
 
 > Comportement situationnel d'un PNJ Boulanger. **Cycle inversé** : lever 03:00, fermeture 14:00. Mode Marchand central — le boulanger est avant tout un vendeur. Métier joueur : [[Boulanger]].
 >
-> Réécrit et intègre l'ébauche `Métiers - Boulanger.md` (archivée dans `_Ebauches Archivees/`).
+> Version définitive : réécrit et intègre l'ancienne ébauche du métier.
 
 ---
 

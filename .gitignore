@@ -27,3 +27,7 @@ local-highlights.json
 
 # Config éditeur Obsidian — ne doit pas être servie publiquement
 Docs/Lore/.obsidian/
+
+# Config éditeur Obsidian (état local — ne pas versionner)
+.obsidian/
+**/.obsidian/
