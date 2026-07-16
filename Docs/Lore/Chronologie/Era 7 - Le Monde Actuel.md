@@ -91,14 +91,14 @@ Sans cadre supranational, les violences sont moins **contenues**. L'absence de g
 > [!important] Décision D-COSMO-3 (refonte 2026-04-30)
 > Cette section a été révisée pour appliquer la distinction terminologique canonique :
 > - **non-Lié** (avec tiret) = catégorie démographique de la majorité (~70%) sans accès au Lien — usage par défaut dans cette section
-> - **Délié** = sevré volontaire actif, antagoniste scripté gameplay (Catena Fracta, héritiers des doctrines Verithanes) — voir section dédiée plus bas
+> - **Délié** = sevré volontaire actif, antagoniste assumé (Catena Fracta, héritiers des doctrines Verithanes) — voir section dédiée plus bas
 >
 > Plusieurs nations utilisent péjorativement "Délié" pour désigner leurs non-Liés (cf. Loi du Sol de Kharazir, marque de tissu jaune, etc.). Cet usage **interne aux nations** est conservé en italique entre guillemets *« Délié »* quand il s'agit d'une accusation politique, mais le narrateur du document utilise toujours **non-Lié** pour la simple catégorie démographique.
 
 **Définitions**
 - **Lié** : individu portant un fragment du Lien cosmique — capacité variable, de la simple perception à la puissance totale
 - **non-Lié** : individu sans accès au Lien — la majorité de la population (~70% en l'an 251 du Sillage / 10 200 ap.A) ; terme neutre par défaut, mais souvent stigmatisé sous l'appellation politique *« Délié »* dans certaines nations (Kharazir, Gryndor, Caeloria)
-- **Délié** : sevré volontaire — mortel qui choisit *activement* de couper son Lien (héritiers des doctrines Verithanes, recrues actives des Catena Fracta). Catégorie distincte et minoritaire, antagoniste scripté gameplay. Confondre les deux est une **erreur politique** que le présent document refuse — même quand les nations elles-mêmes l'entretiennent.
+- **Délié** : sevré volontaire — mortel qui choisit *activement* de couper son Lien (héritiers des doctrines Verithanes, recrues actives des Catena Fracta). Catégorie distincte et minoritaire, antagoniste assumé. Confondre les deux est une **erreur politique** que le présent document refuse — même quand les nations elles-mêmes l'entretiennent.
 
 **Histoire du clivage**
 - Pendant la Grande Nuit et l'Eveil des Royaumes, les Liés étaient des ressources rares et précieuses — healers, prévisions météorologiques, communication à distance

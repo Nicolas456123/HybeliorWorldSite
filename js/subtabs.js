@@ -1,6 +1,6 @@
 /**
  * SubTabs — moteur de sous-onglets avec sidebar TOC et suivi de progression
- * Utilisé par les pages Lore et Gameplay
+ * Utilisé par les pages à sous-onglets du site
  */
 
 // ── SubTabs ──────────────────────────────────────────────────────────────────

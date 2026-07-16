@@ -11,7 +11,7 @@ needs_review_for: [validation-narrative-V4]
 ## Cadre temporel — Mémoire d'Astravie
 
 > [!note] D-COSMO-1 (calendrier hybride)
-> Cette Ère relève de la **Mémoire d'Astravie** : l'histoire profonde du monde, mythifiée et préservée principalement par les bibliothèques d'Astravia. Les datations en "av.A" (avant Arrachement) ou en milliers d'années sont des estimations rituelles, non historiques. Le présent du jeu se mesure en années du Sillage (an 251) ; les événements pré-Sillage récents (~3000 ans) relèvent de la chronologie GDD/24 ; au-delà, c'est l'**Avant-Mémoire**.
+> Cette Ère relève de la **Mémoire d'Astravie** : l'histoire profonde du monde, mythifiée et préservée principalement par les bibliothèques d'Astravia. Les datations en "av.A" (avant Arrachement) ou en milliers d'années sont des estimations rituelles, non historiques. Le présent se mesure en années du Sillage (an 251) ; les événements pré-Sillage récents (~3000 ans) relèvent de la chronologie GDD/24 ; au-delà, c'est l'**Avant-Mémoire**.
 
 ---
 

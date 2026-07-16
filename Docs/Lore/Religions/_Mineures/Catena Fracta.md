@@ -73,7 +73,7 @@ Les **Fils de l'Abîme** ne sont pas des fanatiques exaltés. Les rares témoign
 > [!important] Distinction critique D-COSMO-3
 > Catena Fracta exploite politiquement la **confusion linguistique** entre :
 > - **non-Lié** = catégorie démographique (~70% population, sans accès au Lien)
-> - **Délié** = sevré volontaire (sens canonique gameplay)
+> - **Délié** = sevré volontaire (sens canonique strict)
 >
 > Les Catena Fracta cherchent à **convertir des non-Liés mécontents en Déliés actifs** — en leur faisant adopter idéologiquement la position de l'Étudiant. Tout non-Lié n'est PAS un Catena Fracta. La confusion entretenue par les nations (cf. Kharazir, Loi du Sol) est une instrumentalisation politique.
 

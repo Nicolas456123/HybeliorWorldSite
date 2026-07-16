@@ -22,7 +22,7 @@ Le corpus emploie « le Lien » dans deux sens qu'il ne faut jamais superposer.
 
 ### (a) Sens GDD / mécanique — la résonance mono-Voie
 
-C'est le sens décrit dans [[Le Lien]] : la **connexion d'un pratiquant à une seule Voie**, c'est-à-dire à une seule entité de la Polyphonie (un Éternel ou un Cosmique, voir [[Cosmologie]]). Un Lié résonne avec une voix, et une seule ; c'est cette résonance que le jeu appelle « son Lien ». La règle **mono-Voie** (« une corde ne vibre qu'à une fréquence à la fois ») décrit l'état **présent** du monde, celui où le joueur agit.
+C'est le sens décrit dans [[Le Lien]] : la **connexion d'un pratiquant à une seule Voie**, c'est-à-dire à une seule entité de la Polyphonie (un Éternel ou un Cosmique, voir [[Cosmologie]]). Un Lié résonne avec une voix, et une seule ; c'est cette résonance qu'on appelle « son Lien ». La règle **mono-Voie** (« une corde ne vibre qu'à une fréquence à la fois ») décrit l'état **présent** du monde, celui où le pratiquant agit.
 
 ### (b) Sens historique / romans — la trame-monde unique
 
