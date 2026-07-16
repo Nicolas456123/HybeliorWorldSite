@@ -1,9 +1,10 @@
 ---
 tags: [goal, chantier, harmonisation, cohérence, canon, méta, gdd, lore, romans]
 type: meta-goal
-status: arbitré — exécution en cours
+status: terminé
 date: 2026-07-15
 phase-0-arbitrée: 2026-07-15
+clôturé: 2026-07-16
 portée: [GDD, Lore/Chronologie, Lore/Pays, Lore/Histoires, Lore/Religions, Romans, artefacts-site]
 dépend_de: [Audit cohérence 2026-07-05.md]
 ---
@@ -152,6 +153,28 @@ Décisions prises par l'auteur (Nicolas). Elles font désormais foi et commanden
 **Correction de trame (2026-07-15) — la déchirure du Lien est cyclique, non unique**
 - **D9 — La trame du Lien « respire ».** Objection de l'auteur : trop de faits sont « un peu trop unique pour être réaliste ». Si la rupture du Lien est un phénomène naturel (et non un acte volontaire justifié — ce que le canon refuse déjà comme cause, cf. Era 4 §3.1), alors elle a dû se produire avant et pourra se reproduire quand les conditions seront réunies. **Décision de trame :** le Lien n'est pas une structure posée une fois pour toutes qui se serait brisée à l'An 0 ; c'est une **trame vivante** qui se tend et se relâche au rythme le plus lent du monde (les Souffles Cardinaux). Elle se remplit sur des millénaires (les **Âges du Lien** = ses hautes marées), se **déchire** quand un Cardinal assez profond passe sur une trame assez pleine, puis se **remute** lentement (la réémergence des Liés au Sillage = ce retissage en cours). L'Arrachement devient **une marée basse de plus** dans la respiration du monde — ni la première déchirure, ni la dernière — cohérent avec la lecture *Rota Mundi* en trois temps (Fracture → Arrachement → Fléau). **Ce qui reste unique et protégé, ce n'est jamais *le fait* de la déchirure (récurrent par nature), mais *sa cause* à chaque déchirure** — les six lectures concurrentes (Annexe C) sont intactes. Fichiers touchés : `Le Lien.md` §"Le Lien après l'Arrachement" (reformulation focale), `Era 4 - L'Arrachement.md` §1.4 (note), `Histoire d'Hybelior.md` §Sillage (clause). `Frise.md` et `Chronologie - Index.md` portaient déjà le cadre cyclique (trois phases, remutation, « un Cardinal était déjà là »).
 - **D9-bis — Écarter la ressemblance « Roue du Temps » (arbitrage 2026-07-15).** L'auteur veut garder le nom **Rota Mundi** (Rota Fortunae latine, une religion sur neuf) mais éviter que « la roue » soit l'image porteuse. La cyclicité est désormais portée par les **images natives d'Hybelior** — la *respiration* du Souffle, la *marée* qui monte et se retire — et « la roue » n'est plus citée que comme une lecture parmi les neuf. Différenciateurs face à Jordan (déjà dans le canon, désormais explicités) : le Souffle **ne rejoue jamais deux fois la même Ère à l'identique** (durée émergente, réactive aux mortels), la **mémoire est préservée** (pas de legend→myth→reborn), et **chaque déchirure a une cause différente et inconnaissable** (cyclique dans la forme, jamais dans le contenu). Retouche légère des mêmes 3 fichiers.
+
+---
+
+## 4ter. Clôture — les cinq phases exécutées (2026-07-16)
+
+**Statut : terminé.** Les cinq phases du plan (section 6) ont été exécutées et livrées directement sur `main` (workflow E3), la revue de l'auteur intervenant en fil après chaque phase (E2). Récapitulatif de ce qui a été réglé.
+
+**Phase 1 — Cohérence interne du GDD (chantier A).** Roster des douze Cosmiques aligné sur D-COSMO-4 (Chronologie amendée, entités écartées reversées au rang Astral) ; « Céleste » réservé au rang d'entités (D2) ; suppression des sièges tenus par des mortels (D3, `Cosmologie.md` + `L'Accord.md` + catalogue métiers) ; dominantes d'Ère, mécanisme de dominance, origine des Failles et doctrine des Déliés harmonisés.
+
+**Phase 2 — Cohérence interne du Lore / Chronologie (chantier B).** Pulse du Mont Cendra corrigée vers l'accélération ; Cercle des Huit documenté (Era 3b = lignée consignée, Era 4 = déformation tardive) ; Fracture repositionnée ; Grand Silence réécrit en déclin local (D8) ; blessure de Tempora et parties au Pacte remises en lecture ; passe « scission-religions-V4 » traitée (Flamara sans rang, attribution Foedus, Taciti, présences Noctari/Taciti).
+
+**Phase 3 — Le pont GDD ↔ Lore (chantier C).** `Le Lien.md` doté de la section « Le Lien après l'Arrachement » (trame vivante, Tisses, statut des Voies au Sillage), `Univers.md`/`Kharazir.md` alignés sur D-COSMO-3 ; lexique du Lien à travers les Ères et **Glossaire des homonymies** créés.
+
+**Phase 4 — Les romans (chantiers D + E + F).** Contradiction interne Vaskar réglée (ch. 51 réécrit : Olven lu une nuit puis rescellé) ; âges et datations corrigés (Ysolde, strate Olven/Vaenor → Ère V, voyage de Sorin) ; renommages actés — inquisiteur T1 **Velkar → Verkan Sorne**, caste T2 normalisée en **Tisse**, victimes récentes de la Guerre de l'Ombre du T3 renommées (Serathis→Vyntaris, Davan→Nevran, Solva→Ysendre, Uveth→Vharok, Mira→Selvir, Pyrak→Ostrek), les noms historiques d'Era 7 conservés ; trous comblés (Souffle de Cantor, Panghor-entité, Dominat/Drahk'Nor, dépôt de Prismalith, mensonge fondateur/Édit de Pureté).
+
+**Phase 5 — Index & artefacts du site (chantier G).** Frise, `timeline-data.js`, `timeline-names.json`, `accueil.html`, `manifest.webmanifest`, `lore-chroniques.html`, `roman.html`, `roman-index.json`/`roman-reader-index.json`, `lore-index.json`/`lore-structure.json`, `_manifest.json`/`_search-index.json` régénérés : « An 0 du Sillage », douze continents, 38 chapitres, Verkan, Brumaria, Renna de Taldre.
+
+**Les deux derniers points, réglés avant clôture (2026-07-16) :**
+- **Compte des nations unifié à 47** (incluant 3 zones « No Man's Land »). La table maître `Continents/Index.md` et `Geography Tables.md` totalisent bien 47 entrées ; le « Total : 50 » de Geography Tables était une erreur stale, corrigée. Le « 37 nations » du site est remonté à 47 (`manifest.webmanifest`, `accueil.html`, `lore-histoires.html`, `lore-search.js`). Le « 36 » de la Chronologie est une sous-métrique distincte (nations continentales majeures), laissée telle quelle.
+- **Triple homonymie Cendara résolue à zéro résidu au sens « nation »** : continent = **Cendara**, cité enfouie à l'An 0 = **Cendral**, bourg du T3 (Renna) = **Taldre**, nation des Chroniques = **Brumaria** (capitale Brumaris). Derniers résidus nation-sens nettoyés (`_Index.md`, `Cendara - Continent.md`, `Pyrevane.md`). Le continent garde « Cendara » partout.
+
+**Mystères protégés (Annexe C) : intacts.** Aucune des ambiguïtés délibérées n'a été tranchée — en particulier la *cause* de chaque déchirure du Lien reste inconnaissable (seule la récurrence du *fait* a été rendue explicite, cf. D9), l'auteur de la Guerre de l'Ombre reste sans visage, et « revenir ou commencer » reste ouvert jusqu'à la dernière page.
 
 ---
 
