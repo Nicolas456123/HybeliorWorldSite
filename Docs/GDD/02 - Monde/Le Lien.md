@@ -166,35 +166,6 @@ C'est pourquoi les vieux Maîtres répètent que **la Voie ne fait pas tout** : 
 
 ---
 
-## Les réactions entre Voies
-
-Quand deux Liés œuvrent ensemble, leurs Voies n'ignorent pas l'une l'autre. Elles **se reconnaissent**, ou **se repoussent**. Et quand elles se reconnaissent, ce qui sort de leur rencontre dépasse ce que chacune aurait produit seule.
-
-C'est l'un des aspects les plus poétiques du système magique d'Hybelior — et l'un des plus profondément sociaux. Un Lié seul est puissant ; deux Liés affinés ne sont pas *deux fois* plus puissants : ils sont **autre chose**. Une Voie d'Aquor et une Voie d'Aerion forment ensemble une tempête qu'aucune des deux n'aurait su faire venir. Une Voie de Tempora et une Voie de Fatum, conjuguées, ralentissent un destin tout entier. Une Voie de Celestia et une Voie d'Eldoria, prononcées au même instant, font monter sur le champ de bataille une **aube** — au sens le plus littéral, lumière qui révèle, lumière qui guérit, lumière qui interdit aux ombres de s'attarder.
-
-Ces synergies ne sont pas un *surcroît chiffré*. Elles sont la **rencontre de deux résonances** qui se complètent — comme deux voix humaines qui, en chantant, trouvent un harmonique qu'aucune ne possède seule. Les Liés expérimentés s'écoutent les uns les autres avant de combattre, parce qu'ils savent que leur efficacité collective dépend d'une accordance préalable.
-
-À l'inverse, certaines Voies **s'annulent**. Quand un Lié d'Eldoria et un Lié de Noctis lancent leurs sorts au même instant sur la même cible, rien ne se passe — ou plutôt : leurs forces se neutralisent dans le tissu cosmique, et tous deux sentent dans leur poitrine ce drainage particulier qu'on appelle, dans les vieux livres, **le silence des voix**. Cela fait mal. Pas physiquement. Mais comme on a mal quand quelque chose qu'on a dit avec sincérité ne rencontre que le néant.
-
-Cette dimension relationnelle de la magie est, elle aussi, philosophiquement décisive. Elle dit qu'**aucune Voie n'est complète à elle seule**. Que le monde, dans sa structure même, est une **conversation**. Et que les Liés, quand ils combinent leurs Voies, ne font qu'**imiter en miniature ce que la Polyphonie cosmique fait à grande échelle** — des voix qui s'écoutent, se complètent, se contredisent, et qui ensemble font le tissu du monde.
-
-| Voies qui se reconnaissent | Voies qui se repoussent |
-|---|---|
-| Aquor et Aerion (la tempête) | Eldoria et Noctis (le silence des voix) |
-| Celestia et Eldoria (l'aube) | Celestia et Umbra (le démasquage) |
-| Tempora et Fatum (le destin scellé) | Aquor et Ignara (sans coordination, l'extinction) |
-| Terranu et Spiritus (la sève) | Spiritus et Vermis (la pourriture du vivant) |
-| Noctis et Umbra (l'ombre profonde) | Resonia et Vermis (le chant qui se gâte) |
-| Sanguis et Vermis (la plaie qui dure) | |
-| Resonia et Somnix (la berceuse) | |
-| Aurion et Tempora (la surcharge) | |
-
-> *« Deux Voies qui s'accordent ne se contentent pas de s'additionner. Elles s'épousent. Et de cette épousaille naît une troisième chose, qu'aucune des deux n'aurait pu enfanter seule. »*
->
-> *— Maître Tarell, école polyphonique de Galenor*
-
----
-
 ## Les Déliés — ceux qui rompent le Lien
 
 Il y a, dans Hybelior, une voie qui n'est pas une Voie. On l'appelle, par défaut, le **chemin des Déliés**. Ses pratiquants ont fait un choix radical, presque sacrilège aux yeux des religions du monde : ils ont **refusé d'être un canal**. Ils ne veulent plus laisser passer une voix à travers eux. Ils veulent être la voix elle-même.
