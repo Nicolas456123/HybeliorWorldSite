@@ -5797,6 +5797,11 @@
   ],
   "Lore": [
     {
+      "name": "Canon — décisions et mystères protégés",
+      "file": "Canon — décisions et mystères protégés.md",
+      "title": "Canon — décisions actées et mystères protégés"
+    },
+    {
       "name": "Glossaire des homonymies",
       "file": "Glossaire des homonymies.md",
       "title": "Glossaire des homonymies"
@@ -7653,19 +7658,9 @@
       "title": "Audit Patterns Existants — Lore Hybelior"
     },
     {
-      "name": "Audit cohérence 2026-07-05",
-      "file": "Audit cohérence 2026-07-05.md",
-      "title": "Audit de cohérence du lore — 5 juillet 2026"
-    },
-    {
       "name": "CHANTIER - Veines Philosophiques",
       "file": "CHANTIER - Veines Philosophiques.md",
       "title": "🌿 CHANTIER — Veines Philosophiques d'Hybelior"
-    },
-    {
-      "name": "GOAL - Harmonisation du canon",
-      "file": "GOAL - Harmonisation du canon.md",
-      "title": "GOAL — Harmonisation du canon d'Hybelior"
     },
     {
       "name": "Veines philosophiques - Référence",

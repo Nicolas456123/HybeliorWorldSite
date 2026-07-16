@@ -12,7 +12,7 @@ needs_review_for: []
 > [!abstract] À quoi sert cette page
 > Le corpus d'Hybelior — GDD, Chronologie, Pays, Religions, et les quatre livres — a fait naître, au fil de sa croissance, un certain nombre de **termes qui portent plusieurs sens**. Certains sont des **collisions à éviter** (deux notions incompatibles qui se disputent un mot par accident, source de faux-sens) ; d'autres sont des **homonymies voulues** (résonances délibérées qu'on gloses mais qu'on ne fond jamais).
 >
-> Cette page recense ces termes. Pour chacun : les sens distincts, où ils s'emploient, et le statut (**collision** / **homonymie voulue** / **écho non tranché**). Elle **décrit** ; elle ne tranche aucun mystère protégé (voir *Annexe C* du [[GOAL - Harmonisation du canon]]). Quand une entrée touche un flou délibéré, la consigne est de **gloser sans identifier le référent**.
+> Cette page recense ces termes. Pour chacun : les sens distincts, où ils s'emploient, et le statut (**collision** / **homonymie voulue** / **écho non tranché**). Elle **décrit** ; elle ne tranche aucun mystère protégé (voir [[Canon — décisions et mystères protégés]] § *Mystères protégés*). Quand une entrée touche un flou délibéré, la consigne est de **gloser sans identifier le référent**.
 
 ---
 
@@ -87,7 +87,7 @@ needs_review_for: []
 | **supercontinent Panghor** | masse terrestre primordiale | [[Era 1b - Éthérés et Panghor]] |
 | **« Sommeil-sous-les-Sommeils » / Profondeur Première** | lecture druidique evertienne (Vael'Ur) d'une entité/présence sous le monde | Chroniques, tome 3 ; [[Era 7 - Le Monde Actuel]] |
 
-**Statut : homonymie voulue — documenter SANS identifier le référent.** Le supercontinent et la « Profondeur Première » des druides evertiens portent un même nom sans que le canon ne dise s'ils sont une même chose. Ce silence est **délibéré** : il est lié au mystère « revenir ou commencer » (ce qui s'éveille sous le monde ne sait pas s'il *revient* ou *commence*). On consigne l'homonymie ; on **ne** pose **jamais** l'équivalence Panghor-continent = Panghor-entité = Profondeur Première (voir *Annexe C*).
+**Statut : homonymie voulue — documenter SANS identifier le référent.** Le supercontinent et la « Profondeur Première » des druides evertiens portent un même nom sans que le canon ne dise s'ils sont une même chose. Ce silence est **délibéré** : il est lié au mystère « revenir ou commencer » (ce qui s'éveille sous le monde ne sait pas s'il *revient* ou *commence*). On consigne l'homonymie ; on **ne** pose **jamais** l'équivalence Panghor-continent = Panghor-entité = Profondeur Première (voir [[Canon — décisions et mystères protégés]] § *Mystères protégés*).
 
 ---
 
@@ -110,7 +110,7 @@ needs_review_for: []
 | **Ordo Caelum = « l'Ordre Céleste »** | nom d'une des neuf religions | [[Ordo Caelum]] |
 | **cartographie céleste** | l'observation et la cartographie des cieux | astronomes, navigateurs |
 
-**Statut : homonymie voulue (cadrée par D2).** Depuis la décision **D2** (§4bis du [[GOAL - Harmonisation du canon]]), « Céleste » désigne **uniquement** un rang d'entités natives de la Polyphonie ; **aucun mortel** n'est jamais « élevé au rang de Céleste » (l'ancien sens « mortel devenu voix » est supprimé, cf. D3). Le nom de religion (« l'Ordre Céleste ») et l'usage astronomique (« cartographie céleste ») sont des emplois adjectivaux distincts, sans collision avec le rang, tant qu'on ne parle plus de siège tenu par un mortel. Voir aussi **Cardinaux célestes** (entrée « Cardinal »).
+**Statut : homonymie voulue (cadrée par D2).** Depuis la décision **D2** (voir [[Canon — décisions et mystères protégés]] § *Décisions actées*), « Céleste » désigne **uniquement** un rang d'entités natives de la Polyphonie ; **aucun mortel** n'est jamais « élevé au rang de Céleste » (l'ancien sens « mortel devenu voix » est supprimé, cf. D3). Le nom de religion (« l'Ordre Céleste ») et l'usage astronomique (« cartographie céleste ») sont des emplois adjectivaux distincts, sans collision avec le rang, tant qu'on ne parle plus de siège tenu par un mortel. Voir aussi **Cardinaux célestes** (entrée « Cardinal »).
 
 ---
 
@@ -176,4 +176,4 @@ Ces cas ont déjà été réglés ; on les liste pour mémoire, afin qu'ils ne s
 - [[Le Lien]] · [[Cosmologie]] · [[L'Accord]] · [[Le Souffle]] · [[Les Ères]] — pages GDD référencées.
 - [[Era 4 - L'Arrachement]] · [[Era 7 - Le Monde Actuel]] · [[Era 1b - Éthérés et Panghor]] · [[Era 3b - Religions Verithan et la Chute]] — Chronologie.
 - [[Ordo Caelum]] · [[Caeloria]] · [[Cantus Mundi]] — fiches Religions / Pays.
-- [[GOAL - Harmonisation du canon]] — décisions (§4bis) et mystères protégés (*Annexe C*).
+- [[Canon — décisions et mystères protégés]] — décisions de canon actées et mystères protégés.

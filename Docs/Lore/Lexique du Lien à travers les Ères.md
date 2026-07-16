@@ -12,7 +12,7 @@ needs_review_for: []
 > [!abstract] À quoi sert cette page
 > Le mot **« Lien »** — et les noms de ceux qui le portent ou en sont privés — ne veut pas dire la même chose dans le GDD (règle mécanique du jeu) et dans les romans (mémoire historique et sociale). Cette page retrace la **chaîne terminologique** de ce que « le Lien » et ses porteurs ont été appelés au fil des Ères, afin qu'un lecteur ne confonde pas une **caste sociale** (les « Vides » de l'Âge du Lien), une **catégorie démographique** (les non-Liés du Sillage), une **injure politique** (les « Déliés » des Lois du Sol) et un **choix métaphysique** (les Déliés-sevrés du GDD). Aucun de ces sens n'annule les autres ; les distinguer est la seule manière de lire le corpus sans faux-sens.
 >
-> Cette page **décrit** un usage ; elle ne tranche aucun mystère (voir *Annexe C — mystères protégés* dans [[GOAL - Harmonisation du canon]]).
+> Cette page **décrit** un usage ; elle ne tranche aucun mystère (voir [[Canon — décisions et mystères protégés]] § *Mystères protégés*).
 
 ---
 
@@ -86,7 +86,7 @@ Le mot **« Vide »** revient à plusieurs strates du corpus. Ces réapparitions
 | **Mains Vides** | la **Fraternité des Mains Vides** — défense juridique légale des non-Liés discriminés (Lumasar, ~9 700) | Sillage |
 
 > [!note] Sur la lecture « les Déliés sont les Ancrages du monde »
-> Les *Chroniques de l'Exilé* prêtent aux inscriptions du dessous une doctrine selon laquelle **« les Déliés sont les Ancrages du monde »**. Cette lecture est une **lecture-parmi-plusieurs**, jamais tranchée par le canon : ni confirmée, ni réfutée. On la consigne comme telle, au conditionnel, sans en faire une vérité du monde (voir [[Glossaire des homonymies]] § « Ancrage » et *Annexe C* du [[GOAL - Harmonisation du canon]]).
+> Les *Chroniques de l'Exilé* prêtent aux inscriptions du dessous une doctrine selon laquelle **« les Déliés sont les Ancrages du monde »**. Cette lecture est une **lecture-parmi-plusieurs**, jamais tranchée par le canon : ni confirmée, ni réfutée. On la consigne comme telle, au conditionnel, sans en faire une vérité du monde (voir [[Glossaire des homonymies]] § « Ancrage » et [[Canon — décisions et mystères protégés]] § *Mystères protégés*).
 
 ---
 
