@@ -199,4 +199,4 @@ C'est aussi cela, le plateau de Vrenith.
 
 ---
 
-*Liens : [[../../Pays/Ilthara/Mirathi|Mirathi (fiche pays)]] · [[../../Religions/_Mineures/Taciti]] · [[../../Chroniques/Chapitre 33 - Le Voile]] · [[../../Pays/Ilthara/Vytharia|Vytharia]]*
+*Liens : [[../../Pays/Ilthara/Mirathi|Mirathi (fiche pays)]] · [[../../Religions/_Mineures/Taciti]] · [[../../Chroniques/Chapitre 27 - Le Voile des Rêves]] · [[../../Pays/Ilthara/Vytharia|Vytharia]]*

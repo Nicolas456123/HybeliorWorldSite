@@ -27,5 +27,3 @@ SORT file.name ASC
 - [[Univers]] — toile de fond, ambiance, narration ambiante
 
 ---
-
-*Liens : [[🏠 Hybelior]]*

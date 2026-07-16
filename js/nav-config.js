@@ -648,7 +648,6 @@ const NavConfig = {
                 { key: 'index',      label: "Vue d'ensemble", src: 'GDD/01 - Vision/Index.md' },
                 { key: 'pitch',      label: 'Pitch',       src: 'GDD/01 - Vision/Vision.md' },
                 { key: 'univers',    label: "L'Univers",   src: 'GDD/01 - Vision/Univers.md' },
-                { key: 'production', label: 'Production',  src: 'GDD/01 - Vision/Production.md' },
             ],
         },
 

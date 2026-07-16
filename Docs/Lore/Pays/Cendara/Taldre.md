@@ -7,7 +7,7 @@ needs_review_for: [rattachement-national-Arkhen-vs-Brumaria]
 ---
 # Taldre — le bourg au pied du Mont
 
-> Bourg de la vallée, au pied sud du **Mont Cendra**, sur le continent de **Cendara**. Cadre principal du fil de **Renna** dans *[[T3 - L'Heure qui Naît|L'Heure qui Naît]]* (Sillage, an 251).
+> Bourg de la vallée, au pied sud du **Mont Cendra**, sur le continent de **Cendara**. Cadre principal du fil de **Renna** dans *L'Heure qui Naît* (T3 — Sillage, an 251).
 
 > [!note] Homonymie — à ne pas confondre
 > **Taldre** est le *bourg moderne* vivant au pied du Mont. Il est distinct de **Cendral**, l'ancienne cité engloutie sous les cendres à l'An 0 ([[Era 4 - L'Arrachement]]), du continent **Cendara** lui-même, et de la nation **Brumaria** (capitale Brumaris). Nom fixé le 2026-07-15 : les brouillons du T3 l'appelaient « Cendara-bourg » puis « Cendre-Basse » — formes abandonnées.
@@ -44,4 +44,4 @@ Au Sillage, la **pulse du Cœur de Cendra** se resserre — de la saison à la s
 - [[Arkhen]] · [[Pyrevane]] — les nations et cultes voisins
 - [[Era 4 - L'Arrachement]] — Cendral, l'ancienne cité enfouie
 - [[Era 7 - Le Monde Actuel]] — le Sillage, la pulse du Mont, les Enfants aux Yeux Blancs
-- *[[T3 - L'Heure qui Naît]]* — le fil de Renna
+- *L'Heure qui Naît* (T3) — le fil de Renna

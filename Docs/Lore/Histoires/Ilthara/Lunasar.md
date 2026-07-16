@@ -176,4 +176,4 @@ C'est peut-être pour cela qu'on l'oublie — et c'est peut-être pour cela auss
 
 ---
 
-*Liens : [[../../Pays/Ilthara/Lunasar|Lunasar (fiche pays)]] · [[../../Chroniques/Chapitre 35 - Monarchie Lunaire]] · [[../../Pays/Ilthara/Vytharia|Vytharia]]*
+*Liens : [[../../Pays/Ilthara/Lunasar|Lunasar (fiche pays)]] · [[../../Chroniques/Chapitre 28 - Le Masque de Nécessité]] · [[../../Pays/Ilthara/Vytharia|Vytharia]]*

@@ -50,5 +50,3 @@ SORT file.name ASC
 - `Lore/Chroniques/` — chapitres narratifs
 
 ---
-
-*Liens : [[🏠 Hybelior]]*

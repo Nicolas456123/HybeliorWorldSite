@@ -197,7 +197,7 @@ Le pouvoir appartient aux propriétaires de navires.
 - Région : Boralis
 
 ### Felwyn — Village
-- Village de saleurs et de conserveurs transformant les prises de Boralis en provisions de longue durée ; sel marin récolté dans des marais salants naturels, de qualité rivalisant avec celui de [[Tolvenor]] à [[Ventera]].
+- Village de saleurs et de conserveurs transformant les prises de Boralis en provisions de longue durée ; sel marin récolté dans des marais salants naturels, de qualité rivalisant avec celui de Tolvenor à [[Ventera]].
 - Bâti pour servir des marais salants préexistants : maisons, puis entrepôts, puis fumeries, comme infrastructure logistique d'un phénomène naturel.
 - Population : Village
 - Région : Boralis

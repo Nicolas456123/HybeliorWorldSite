@@ -148,7 +148,7 @@ Telle est Cendara : une terre prospère qui doute en silence, une religion magni
 ### Liens internes
 
 - **Religion** : [[Religions/Ignis Aeternum|Ignis Aeternum]]
-- **Pivot narratif** : [[Chroniques/Chapitre 27 - Le Cœur]] (arc de Sorin Valthen)
+- **Pivot narratif** : [[Chroniques/Chapitre 21 - Le Cœur qui Pulse]] (arc de Sorin Valthen)
 - **Source détaillée** : [[Cendara - Continent|Lore/Pays/Cendara — Continent]]
 
 ---
