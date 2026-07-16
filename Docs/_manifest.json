@@ -6010,18 +6010,6 @@
       "isIndex": true
     },
     {
-      "name": "_atlas-voyage",
-      "file": "_atlas-voyage.md",
-      "title": "Atlas du Voyage — Chroniques de l'Exilé",
-      "isIndex": true
-    },
-    {
-      "name": "_bible-v1-fiches-legacy",
-      "file": "_bible-v1-fiches-legacy.md",
-      "title": "BANQUE DE MATIÈRE v1 — fiches legacy (archive de travail)",
-      "isIndex": true
-    },
-    {
       "name": "_bible-v2",
       "file": "_bible-v2.md",
       "title": "BIBLE v2 — *Les Chroniques de l'Exilé*",
