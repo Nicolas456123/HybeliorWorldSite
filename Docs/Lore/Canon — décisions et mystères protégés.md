@@ -20,7 +20,7 @@ needs_review_for: []
 
 ## Partie 1 — Décisions de canon actées
 
-Quand deux sources se contredisent, l'ordre de priorité par défaut est : **Chronologie** (`Docs/Lore/Chronologie/`) > **majorité du corpus** > **plus petit retcon**. Deux nuances : une décision d'auteur **récente et assumée** peut céder devant la règle mécanique (cas du roster des Cosmiques, qui porte tout le système jouable) ; et **le texte publié des romans prime** sur les bibles quand il n'entre pas en conflit avec le canon supérieur (les bibles rattrapent le texte, pas l'inverse).
+Quand deux sources se contredisent, l'ordre de priorité par défaut est : **Chronologie** (`Docs/Lore/Chronologie/`) > **majorité du corpus** > **plus petit retcon**. Deux nuances : une décision d'auteur **récente et assumée** peut céder devant la règle mécanique (cas du roster des Cosmiques, qui porte toute la chimie des Voies) ; et **le texte publié des romans prime** sur les bibles quand il n'entre pas en conflit avec le canon supérieur (les bibles rattrapent le texte, pas l'inverse).
 
 ### Cosmologie
 

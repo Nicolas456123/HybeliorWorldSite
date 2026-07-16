@@ -47,7 +47,7 @@ Le livre ne tient PAS sur le seul twist du narrateur : une idée unique ne porte
 2. **La promesse du flagrant délit.** Milieu du livre : on SURPREND Sorin sur une omission concrète et vérifiable. Le contrat de lecture change. On n'accompagne plus le journal : on l'interroge, ligne à ligne, en arrière.
 3. **La promesse de la bascule.** Ch. 35-38 : on comprend ce qu'il veut, l'ampleur de la duperie, le rôle qu'on nous a fait jouer. Jubilation de relecture, pas trahison : tout était sous nos yeux.
 4. **La promesse de l'après.** La tension ne retombe pas : de « que cache-t-il ? » elle passe à « son plan va-t-il tenir, et à quel prix ? », plus la question morale — maintenant qu'on sait, l'aime-t-on encore ?
-5. **La promesse épique.** Le monde bascule en même temps que Sorin le traverse (l'an 251, le présent du jeu, le Tome 3 vu de l'extérieur, §5) : la pulsation s'accélère, la Guerre de l'Ombre tue partout, le ciel bouge. Sorin marche dans une fin du monde qu'il est seul à lire, en jouant celui qui ne comprend pas.
+5. **La promesse épique.** Le monde bascule en même temps que Sorin le traverse (l'an 251, le présent du Sillage, le Tome 3 vu de l'extérieur, §5) : la pulsation s'accélère, la Guerre de l'Ombre tue partout, le ciel bouge. Sorin marche dans une fin du monde qu'il est seul à lire, en jouant celui qui ne comprend pas.
 6. **La promesse de la carte blanche.** Le livre finit là où il finit déjà [canon ch. 40] : sur un dépôt et un refus de conclure. Ce que Sorin voulait, il l'obtient ; ce que le monde en fera appartient au jeu. Les quatorze pages blanches du dernier cahier sont la dernière ruse et le dernier honneur.
 
 ---
@@ -668,7 +668,7 @@ Recalé chapitre par chapitre sur les **38 fiches définitives** ci-dessus (§4.
 
 ## 5. LA TOILE DE FOND T3 (l'an 251 vu de l'extérieur par Sorin)
 
-> **Principe.** Les *Chroniques* se déroulent **en même temps que le Tome 3** (*L'Heure qui Naît*, an 251, le présent du jeu). Sorin traverse, sans le nommer, le monde que le T3 vit de l'intérieur : la Guerre de l'Ombre qui tue les savants partout, la pulse du Cendra qui s'emballe, les Enfants aux Yeux Blancs, les étoiles qui bougent, les esprits qui se taisent, les Failles qui remarchent. **Sorin voit tout de l'extérieur, en fuyant ; le T3 le voit de l'intérieur, en le portant.** Aucun des deux ne tranche (§7). Règle méta absolue : **coïncidence, jamais chaîne causale.**
+> **Principe.** Les *Chroniques* se déroulent **en même temps que le Tome 3** (*L'Heure qui Naît*, an 251, le présent du Sillage). Sorin traverse, sans le nommer, le monde que le T3 vit de l'intérieur : la Guerre de l'Ombre qui tue les savants partout, la pulse du Cendra qui s'emballe, les Enfants aux Yeux Blancs, les étoiles qui bougent, les esprits qui se taisent, les Failles qui remarchent. **Sorin voit tout de l'extérieur, en fuyant ; le T3 le voit de l'intérieur, en le portant.** Aucun des deux ne tranche (§7). Règle méta absolue : **coïncidence, jamais chaîne causale.**
 
 ### 5.1 — Clé de datation (les deux calendriers alignés)
 
