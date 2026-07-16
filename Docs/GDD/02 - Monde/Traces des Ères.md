@@ -86,7 +86,7 @@ Une Trace existe ; mais elle n'est rien tant que personne ne la lit. C'est ici q
 
 Lire une Trace n'est jamais le travail d'un seul. Le Cartographe relève la position, l'orientation, l'extension. L'Historien date la couche, identifie l'Ère probable, croise avec les annales. L'Astronome déchiffre les alignements, les calendriers gravés, les constellations devenues invisibles. Le Bibliothécaire fouille les sources textuelles, recoupe les versions, élimine les inventions. Le Barde mémorise, transmet, chante. Le Linguiste traque les mots qui ont changé de sens. Le Prêtre reconnaît les rites éteints. L'Antiquaire estime la rareté de ce qu'on en a sorti.
 
-Cette **collaboration organique entre métiers** est la marque des grandes découvertes archéologiques d'Hybelior. Aucun joueur, aucune guilde n'a jamais lu une Trace majeure seul. C'est un travail de concert, qui se déploie sur des semaines parfois, et dont la récompense n'est jamais seulement matérielle. Lire une Trace, c'est **rendre la parole** à une Ère qui s'était tue. C'est, pour la durée d'une lecture, ramener à la lumière une voix qui s'était couchée dans la pierre.
+Cette **collaboration organique entre métiers** est la marque des grandes découvertes archéologiques d'Hybelior. Aucun voyageur, aucune guilde n'a jamais lu une Trace majeure seul. C'est un travail de concert, qui se déploie sur des semaines parfois, et dont la récompense n'est jamais seulement matérielle. Lire une Trace, c'est **rendre la parole** à une Ère qui s'était tue. C'est, pour la durée d'une lecture, ramener à la lumière une voix qui s'était couchée dans la pierre.
 
 > *« Je ne fouille pas les ruines pour ce qu'elles cachent. Je les fouille pour ce qu'elles veulent dire. La différence est petite. Mais elle est tout. »*
 >
