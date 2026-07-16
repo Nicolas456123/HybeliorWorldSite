@@ -4,7 +4,6 @@ status: drafted
 last_review: 2026-05-12
 needs_review_for: []
 type: mechanic-narrative
-implementation: "[[Armor System]]"
 ---
 
 # 🛡️ Équipement et Armures — la seconde peau du voyageur
@@ -36,8 +35,6 @@ S'envelopper, ce n'est pas seulement ajouter une couche. C'est **modifier sa sil
 L'armure, à Hybelior, **change le corps**. Elle ajoute une masse, freine un geste, soutient une posture, élargit une silhouette. Elle promet une protection, mais elle réclame en échange une **adaptation**. C'est cette tension — protection contre mobilité, soutien contre liberté — qui rend le geste de s'équiper si singulier. On ne *prend* pas une armure ; on **entre** en elle, et il faut le temps qu'il faut pour que la seconde peau cesse d'être étrangère.
 
 Cette idée a une conséquence mécanique simple : à Hybelior, toute armure a un **prix corporel**. Une cuirasse de plates ne se porte pas sans Vigueur. Une tunique d'éclaireur ne se porte pas sans Vivacité. Une robe de Lié ne se porte pas sans Résonance. Ce ne sont pas des prérequis arbitraires posés pour bloquer le voyageur — ce sont des **conditions de vérité**. Tu ne portes que ce que ton corps a déjà appris à porter.
-
-> Pour le détail des prérequis chiffrés (seuils de qualités par rang et par catégorie) : voir [[Armor System]].
 
 ---
 
@@ -85,8 +82,6 @@ Et puis, par-dessus tout cela, viennent les accessoires. La cape, qui n'est pas 
 
 Sans les accessoires, l'armure reste fonctionnelle ; avec eux, elle devient **portrait**. C'est, à Hybelior, la couche où la pratique de l'artisanat se déploie le plus librement — chaque artisan-armurier renommé est connu pour la signature de ses accessoires plus que pour celle de ses cuirasses.
 
-> Pour la liste exhaustive des slots et leur mapping technique avec les composants mesh : voir [[Armor System]].
-
 ---
 
 ## Les slots — le tableau du voyageur
@@ -113,8 +108,6 @@ Hybelior connaît dix-sept emplacements d'équipement, traversant tout le corps 
 | Pantalon | Toutes couches | Jambes, mobilité, posture |
 | Bottes | Intermédiaire / plate | Sol, climat, endurance de marche |
 | Cristal | Accessoire-Voie | Réservé aux Liés, canalise la résonance |
-
-> Pour la correspondance technique des emplacements (17 valeurs) : voir [[HW Inventory Component]].
 
 Cette grille n'est pas une cage. Tous les slots ne se remplissent pas systématiquement, et la **manière** de les laisser vides est, elle aussi, une signature. Un éclaireur qui marche sans casque le fait pour entendre mieux. Un Lié qui ne porte pas de gants le fait pour sentir mieux. Une duelliste qui laisse sa main droite nue le fait pour que sa rapière la reconnaisse. L'armure de Hybelior se lit aussi dans ses **absences**.
 
@@ -169,7 +162,7 @@ Comme tous les objets d'Hybelior, les armures se distribuent sur une échelle de
 | 5 | Légendaire | orange | L'armure dont on parle dans les chants. Une pièce que les bardes mentionnent, dont les vieux maîtres savent dire la provenance. Quelques exemplaires existent à Hybelior, pas davantage. |
 | 6 | Mythique | rouge / doré | L'armure des Éternels. Faite de matériaux qu'aucun mortel ne sait reproduire. Souvent unique. Sa simple présence dans une scène la change. |
 
-> Les degrés visuels (Modeste à Magnifique) sont une dimension propre, qui ne se confond pas avec la défense — voir [[Armor System]] §"Degrés et raretés".
+> Les degrés visuels (Modeste à Magnifique) sont une dimension propre, qui ne se confond pas avec la défense.
 
 Hybelior tient à cette distinction. Un objet **Mythique** n'est pas seulement plus puissant ; il est **plus rare dans le récit**. On ne l'achète pas dans une boutique. On l'hérite, on le trouve, on l'arrache à une bête redoutable. Sa puissance brute est bornée — comme celle de tout objet, elle est compressée par le Souffle — mais sa **présence narrative** est éternelle.
 
@@ -213,8 +206,6 @@ Cette dépendance n'est pas un piège tendu au voyageur. C'est une **fidélité 
 
 Les Liés sont, comme partout, les plus sensibles à cette dimension. Un Lié à une Voie cherchera toujours, dans la mesure du possible, à porter au moins une pièce qui résonne avec sa Voie — un brassard, une cape, un anneau. Cette pièce devient sa **boussole** : elle lui dit, par sa chaleur ou sa froideur, où en est la composition cosmique.
 
-> Pour les chiffres exacts de la résonance par Voie et par degré : voir [[Armor System]] et [[Accord System]].
-
 ---
 
 ## L'érosion des Ères — la patine des objets longue durée
@@ -257,7 +248,7 @@ Pour les esprits curieux qui aiment compter, voici la grille de référence des 
 | Robes (tissu noble) | Tunique | Résonance, Esprit | élevée | très faible | Lié, érudit, prêtre |
 | Tenues d'apparat | Tunique signée | aucune | très élevée | aucune | noblesse, cérémonies |
 
-Les qualités utilisées ici (Vigueur, Vivacité, Endurance, Esprit, Résonance) sont définies dans [[Personnage]] §"Les qualités comme reflets". Pour leur progression par usage : voir [[Stats System]].
+Les qualités utilisées ici (Vigueur, Vivacité, Endurance, Esprit, Résonance) sont définies dans [[Personnage]] §"Les qualités comme reflets".
 
 ---
 
@@ -371,4 +362,3 @@ Cette ambition est exigeante. Elle suppose qu'un voyageur ait envie de **choisir
 
 *Liens narratifs : [[Personnage]] | [[Le Souffle]] | [[L'Accord]] | [[Les Ères]] | [[Armes et Maîtrise]] | [[Métiers]] | [[Labeur]] | [[Inventaire]] | [[Mort]] | [[PvP]] | [[Le Lien]]*
 
-*Implémentation technique (emplacements, degrés, assets, formules) : [[Armor System]] | [[Character Appearance]] | [[HW Inventory Component]]*

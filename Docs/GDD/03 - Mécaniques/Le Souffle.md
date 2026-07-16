@@ -4,7 +4,6 @@ status: drafted
 last_review: 2026-05-12
 needs_review_for: []
 type: mechanic-narrative
-implementation: "[[Souffle System]]"
 ---
 
 # 🌬️ Le Souffle — la respiration du monde
@@ -77,7 +76,7 @@ C'est volontaire que la pulsation soit modeste. Si chaque cycle court bouleversa
 
 Hybelior tourne sur son axe à un rythme qui lui est propre. Un jour complet dure environ **soixante minutes de temps réel** — une heure mortelle pour une journée du monde, soit un **facteur 36** par rapport à notre temps. Cette compression n'est pas arbitraire : elle est la cadence qu'il faut pour qu'un passage moyen dans le monde traverse plusieurs phases — assez pour qu'on vive un coucher de soleil pendant qu'on chasse, qu'on attende l'aube assis près d'un feu, qu'on rentre en ville à la nuit tombée. Le mortel présent deux heures vit *deux jours* d'Hybelior. C'est suffisant pour que le ciel raconte quelque chose ; c'est court pour qu'aucun moment ne dure trop.
 
-Les astronomes du monde — ceux de l'observatoire d'Astravia, les chamanes des continents glacés, les moines compteurs de l'Ordo Caelum — ont mesuré le ciel avec précision. La déclinaison du soleil, sa course inclinée selon la latitude, la lune et ses **vingt-neuf jours et demi** de cycle synodique, ses huit phases nommées par toutes les traditions du monde : tout cela existe, tout cela tourne, tout cela influence. Pour les chiffres exacts — angles, périodes, calculs astronomiques —, voir [[Time Of Day]].
+Les astronomes du monde — ceux de l'observatoire d'Astravia, les chamanes des continents glacés, les moines compteurs de l'Ordo Caelum — ont mesuré le ciel avec précision. La déclinaison du soleil, sa course inclinée selon la latitude, la lune et ses **vingt-neuf jours et demi** de cycle synodique, ses huit phases nommées par toutes les traditions du monde : tout cela existe, tout cela tourne, tout cela influence.
 
 ### Les quatre tonalités du jour
 
@@ -127,10 +126,6 @@ Cette imbrication n'est jamais énoncée. Elle se vit. Au bout de quelques Ères
 
 Le cycle court ne respire pas seul. Il se compose avec les **Saisons** — qui font varier la durée du jour selon la latitude et l'inclinaison axiale — et avec la **Météo** — qui voile, accentue, contredit parfois la tonalité de l'heure. Une aube d'hiver à Cestra n'est pas une aube d'été à Onara. Un crépuscule sous pluie battante à Astravia n'est pas le même crépuscule qu'à ciel pur. Ces trois cadences — heure, saison, météo — tissent ensemble la **trame fine** sur laquelle le Souffle imprime sa figure longue.
 
-Les détails de cette composition appartiennent aux pages dédiées : voir [[Seasons]] pour le rythme saisonnier et l'inclinaison du monde, [[Sky Surface Renderer]] pour la traduction visuelle des heures et des phases lunaires, [[HW Environment Manager]] pour l'orchestration générale.
-
-> Pour les paramètres exacts du cycle court — durée d'une heure du monde, calcul des sept périodes (nuit, crépuscules astronomique, nautique et civil, heure bleue, heure dorée, plein jour), cycle synodique lunaire, équation du temps — voir [[Time Of Day]].
-
 ---
 
 ## Ce que le Souffle préserve, ce qu'il rend
@@ -142,8 +137,6 @@ Tes **acquis matériels** — les éclats accumulés, les montures, les items en
 Mais ta **capacité brute à dominer la saison qui s'ouvre**, elle, est partiellement remise en jeu. Pendant quelques jours, tes outils familiers te sembleront étrangers — non parce qu'ils ont changé, mais parce que **toi**, désormais, vis dans un monde qui les valorise différemment. Tes Maîtrises subiront une **rouille** brève, une friction d'adaptation qui se dissipe par l'usage — comme si la main, après un long voyage, devait redécouvrir le poids exact de sa lame. Tes objets de plus haut degré perdront temporairement un peu de leur éclat, le temps que leurs vertus retrouvent leur place dans la nouvelle composition cosmique.
 
 Et ton **Accord** — ta résonance avec le monde présent — ne s'effondre pas, mais il **dérive**. Selon que la nouvelle Ère ressemble à l'ancienne ou s'en éloigne, tu sens, sur quelques jours ou quelques semaines, que tes pratiques résonnent encore, ou qu'elles font écho dans le vide. Rien n'est instantané. Le monde te laisse le temps de comprendre ce qui a changé.
-
-> Pour les nombres exacts (taux de compression, durée de la rouille, cinétique de dérive de l'Accord), voir [[Souffle System]].
 
 ---
 
@@ -225,8 +218,6 @@ Certains apprennent à **prédire** trois Souffles successifs et gagnent le titr
 
 Il existe aussi un chemin **antagoniste** : celui qui *refuse* le Souffle. C'est le chemin des [[Univers#Les Déliés|Déliés]] — les rares qui s'extraient du tissu cosmique pour gagner en puissance brute, mais au prix d'une déconnexion profonde. Ils ne respirent plus avec le monde. Et le monde, à terme, ne les respire plus.
 
-> Pour le détail des récompenses associées à ces conditions, voir [[Souffle System]].
-
 ---
 
 ## Pourquoi le Souffle est le cœur d'Hybelior
@@ -243,4 +234,3 @@ Il y a, dans cette respiration, une humilité revendiquée. Hybelior ne promet p
 
 *Liens narratifs : [[Les Ères]] | [[L'Accord]] | [[Cosmologie]] | [[Histoire d'Hybelior]] | [[Prédiction]] | [[Traces des Ères]] | [[La Partie]] | [[Le Lien]]*
 
-*Implémentation technique (chiffres, formules, specs Unreal) : [[Souffle System]]*

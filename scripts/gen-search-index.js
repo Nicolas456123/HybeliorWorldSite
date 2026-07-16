@@ -44,7 +44,6 @@ const CATEGORY_MAP = [
     { prefix: 'GDD/02 - Monde/', label: 'Le monde' },
     { prefix: 'GDD/03 - Mécaniques/', label: 'Mécaniques' },
     { prefix: 'GDD/04 - Systèmes/', label: 'Systèmes' },
-    { prefix: 'GDD/05 - Implémentation Unreal/', label: 'Implémentation' },
     { prefix: 'GDD/', label: 'GDD' },
 ];
 
@@ -69,7 +68,7 @@ function buildRouteMap() {
     // On localise chaque section par "<sectionKey>:\s*{" et on extrait les tabs jusqu'à la fermeture.
     // Cette regex matche : key: 'xx',  ... src: 'src.md'
     // (les éventuels engine: 'html' sont ignorés car non destinés à un .md)
-    const sections = ['vision', 'monde', 'mecaniques', 'systemes', 'implementation', 'histoires'];
+    const sections = ['vision', 'monde', 'mecaniques', 'systemes', 'histoires'];
 
     for (const section of sections) {
         // Trouver le bloc subtabs.section

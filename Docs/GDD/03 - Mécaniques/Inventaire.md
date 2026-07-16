@@ -4,7 +4,6 @@ status: drafted
 last_review: 2026-05-12
 needs_review_for: []
 type: mechanic-narrative
-implementation: "[[HW Inventory Component]]"
 ---
 
 # 🎒 Inventaire — la bourse du voyageur
@@ -60,8 +59,6 @@ Cette dimension est invisible dans la grille, et c'est précisément ce qui la r
 ### Le volume — la troisième mesure
 
 Et puis, plus discrète, la troisième mesure : le **volume**. Certains objets, peu lourds mais encombrants, occupent plus d'emplacements qu'ils ne le devraient. Une cape pliée occupe deux cases. Un casque ne se met pas dans une case d'anneau. Cette dimension est moins critique que les deux premières — elle se gère par sens commun, sans calcul mental — mais elle existe, et c'est ce qui donne à l'inventaire de Hybelior sa **sensation tactile**.
-
-> Pour les nombres exacts (capacité de base, paliers de progression, paliers de pénalité de poids) : voir [[HW Inventory Component]].
 
 ---
 
@@ -207,8 +204,6 @@ Pour les esprits curieux qui aiment compter, voici la grille indicative des capa
 | Vétéran | important (sac + sacoches + monture) | élevée + extension monture | banque large | réseau de coffres |
 | Concordant / Maître | maximum atteignable | maximale (mais jamais infinie) | banque la plus large | réseau étendu |
 
-> Les chiffres exacts, les paliers de progression et les paliers de pénalité de poids vivent dans : voir [[HW Inventory Component]] §"Architecture" et §"Emplacements d'équipement".
-
 Cette progression n'est pas une course. La plupart des aventuriers atteignent la capacité de **voyageur confirmé** assez vite, et y restent — parce que c'est assez pour vivre. Au-delà, on étend pour des raisons précises : un artisan veut transporter plus de ressources, un explorateur veut tenir plus longtemps sur le terrain, un commerçant veut transporter sa propre boutique itinérante. Mais aucun chemin n'oblige à viser le maximum. Il y a, à Hybelior, des aventuriers qui voyagent toute leur vie avec le sac de base — et qui le font très bien.
 
 ---
@@ -309,4 +304,3 @@ C'est cette densité-là que la mécanique tente de tenir. Pas un sac magique in
 
 *Liens narratifs : [[Équipement et Armures]] | [[Économie]] | [[Mort]] | [[PvP]] | [[Le Souffle]] | [[L'Accord]] | [[Personnage]] | [[Métiers]] | [[Labeur]] | [[Exploration]]*
 
-*Implémentation technique (capacités, persistance, RPC, sérialisation JSON) : [[HW Inventory Component]] | [[Inventory Items]] | [[Inventory Persistence]]*

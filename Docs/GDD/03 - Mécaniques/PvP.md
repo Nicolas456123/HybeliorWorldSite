@@ -4,7 +4,6 @@ status: drafted
 last_review: 2026-05-12
 needs_review_for: []
 type: mechanic-narrative
-implementation: "[[PvP System]]"
 ---
 
 # ⚔️ PvP — le monde quand il devient dangereux
@@ -59,8 +58,6 @@ Ce chemin n'est pas une impasse. Le monde laisse la **rédemption** ouverte : on
 
 Inversement, ceux qui ont fait du Rouge leur identité deviennent à leur tour le **gibier des autres**. Une mise à prix court sur leur tête, financée par les taxes du monde. Des chasseurs s'organisent pour les traquer. Ils ne sont pas exclus du jeu — ils sont **inscrits dans une autre place**, plus dure, plus solitaire. Certains choisissent ce chemin volontairement. Ils sont le folklore vivant des routes mal famées, les ombres dont les voyageurs prudents apprennent à se méfier.
 
-> Pour les seuils précis, les durées de marque, les montants de prime et les règles de rédemption, voir [[PvP System]].
-
 ---
 
 ## Les sièges — la guerre comme rituel
@@ -77,7 +74,7 @@ Cette ritualisation est une **dignité accordée aux conflits**. Une guerre déc
 
 Le siège n'est pas qu'une question de force. C'est aussi une question de **cœur** — qui se présente, qui tient, qui rompt. Une guilde nombreuse mais désunie tombe ; une guilde réduite mais soudée résiste à des assauts plus larges. Les vétérans parlent souvent de ces moments où la victoire s'est jouée sur un détail — un défenseur qui a refusé de fuir, un commandant qui a su quand renoncer pour sauver le reste.
 
-Pour les règles exactes, voir [[Guildes]] et [[PvP System]]. La forme est rituelle ; le détail est technique.
+Pour les règles exactes, voir [[Guildes]].
 
 ---
 
@@ -137,4 +134,3 @@ Le PvP, dans Hybelior, n'est donc pas un système ajouté. C'est **une dimension
 
 *Liens narratifs : [[Guildes]] | [[Factions]] | [[Réputation et Reconnaissance]] | [[Mort]] | [[Le Souffle]] | [[Univers]]*
 
-*Implémentation technique (chiffres, formules, specs Unreal) : [[PvP System]]*

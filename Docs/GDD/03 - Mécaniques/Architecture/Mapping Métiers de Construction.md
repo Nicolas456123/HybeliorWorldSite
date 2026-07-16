@@ -268,4 +268,3 @@ Le bâtiment, une fois consacré, entre dans sa vie propre. Il abrite des habita
 - [[Le Lien]] — les Voies de magie et les Enchanteurs des chantiers Cosmiques
 - [[Guildes]] — les corporations bâtisseuses et leurs édifices collectifs
 
-*Implémentation technique (matrice métiers × catégories, paliers chiffrés, données structurées) : [[Architecture Data-Driven]]*

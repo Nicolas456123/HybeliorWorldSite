@@ -4,7 +4,6 @@ status: drafted
 last_review: 2026-05-07
 needs_review_for: []
 type: lore-narrative
-implementation: "[[Traces System]]"
 ---
 
 # 🏛️ Traces des Ères — la mémoire géographique du monde
@@ -153,4 +152,3 @@ Et puis, surtout, elle inscrit une promesse profonde aux joueurs : *vos actes, i
 
 *Liens narratifs : [[Le Souffle]] | [[Les Ères]] | [[Histoire d'Hybelior]] | [[Cosmologie]] | [[Exploration]] | [[Métiers]] | [[La Partie]]*
 
-*Implémentation technique (chiffres, formules, specs Unreal) : [[Traces System]]*

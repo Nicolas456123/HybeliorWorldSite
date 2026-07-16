@@ -4,7 +4,6 @@ status: drafted
 last_review: 2026-05-12
 needs_review_for: []
 type: mechanic-narrative
-implementation: "[[Labeur System]]"
 ---
 
 # ⚡ Le Labeur — l'énergie du jour
@@ -133,4 +132,3 @@ Le Labeur n'est pas un mur. C'est un **horizon**. À chaque aube, il revient ; �
 
 *Liens narratifs : [[La Partie]] | [[Le Souffle]] | [[L'Accord]] | [[Armes et Maîtrise]] | [[Personnage]] | [[Progression]] | [[Métiers]] | [[Reconnaissance]]*
 
-*Implémentation technique (chiffres, formules, specs Unreal) : [[Labeur System]]*

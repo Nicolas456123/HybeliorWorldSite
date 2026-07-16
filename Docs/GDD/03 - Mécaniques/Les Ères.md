@@ -4,7 +4,6 @@ status: drafted
 last_review: 2026-05-12
 needs_review_for: []
 type: mechanic-narrative
-implementation: "[[Era System]]"
 ---
 
 # 🌌 Les Ères — saisons cosmiques d'Hybelior
@@ -195,4 +194,3 @@ Les Ères ne sont pas un dispositif. Ce sont des **chapitres** d'une histoire qu
 
 *Liens narratifs : [[Le Souffle]] | [[L'Accord]] | [[Cosmologie]] | [[Histoire d'Hybelior]] | [[Prédiction]] | [[Traces des Ères]] | [[Le Lien]] | [[La Partie]]*
 
-*Implémentation technique (paramètres canoniques, archétypes, variants, spawn tables, balance) : [[Era System]]*

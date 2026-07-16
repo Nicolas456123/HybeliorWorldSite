@@ -9,8 +9,6 @@ needs_review_for: []
 # 04 — Systèmes
 
 > Architectures **transversales** : ce qui n'est pas une mécanique jouable mais qui sous-tend toutes les mécaniques.
->
-> Les **implémentations Unreal** correspondantes sont dans [[05 - Implémentation Unreal/Index|05 - Implémentation Unreal]].
 
 ---
 

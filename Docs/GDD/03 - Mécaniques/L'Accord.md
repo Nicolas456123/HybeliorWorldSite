@@ -4,7 +4,6 @@ status: drafted
 last_review: 2026-05-12
 needs_review_for: []
 type: mechanic-narrative
-implementation: "[[Accord System]]"
 ---
 
 # 🎵 L'Accord — la résonance avec le monde
@@ -185,4 +184,3 @@ Une promesse en une phrase, qui résume tout : *« Quel que soit ton temps dispo
 
 *Liens narratifs : [[Le Souffle]] | [[Les Ères]] | [[Personnage]] | [[Armes et Maîtrise]] | [[Progression]] | [[La Partie]] | [[Cosmologie]] | [[Le Lien]] | [[Univers]] | [[Prédiction]]*
 
-*Implémentation technique (chiffres, formules, specs Unreal) : [[Accord System]]*

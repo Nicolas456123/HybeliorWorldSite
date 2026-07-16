@@ -181,4 +181,3 @@ Une **cité fantôme** — ancienne grande ville réduite à dix habitants — r
 - [[Traces des Ères]] — les bâtis Cosmiques laissés par les Souffles passés
 - [[Économie]] — le marché du bâti et la circulation des biens immobiliers
 
-*Implémentation technique (paliers chiffrés, paramètres de génération, données structurées) : [[Architecture Data-Driven]]*

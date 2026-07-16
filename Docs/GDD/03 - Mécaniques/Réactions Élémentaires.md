@@ -4,7 +4,6 @@ status: drafted
 last_review: 2026-05-12
 needs_review_for: []
 type: mechanic-narrative
-implementation: "[[Elemental Reactions]]"
 ---
 
 # 🜂 Les Réactions Élémentaires — la chimie cosmique des voix
@@ -132,7 +131,7 @@ Plus rare, plus spectaculaire, l'**Embrasement** se produit quand on touche au f
 Cette réaction est considérée par les vieux maîtres comme l'une des plus belles de la chimie élémentaire — non pour sa puissance, mais parce qu'elle est l'**inverse exact** de la Surcharge. Là où la Surcharge fait emprunter à la foudre la voix du feu, l'Embrasement fait emprunter au feu la voix de la foudre. Deux réactions sœurs, qui se répondent.
 
 > [!important]
-> L'Embrasement est aujourd'hui à l'état d'**implémentation partielle**. Sa formulation cosmologique est arrêtée ; sa traduction technique se peaufine. Voir [[Elemental Reactions]] pour l'état exact des travaux.
+> L'Embrasement est aujourd'hui à l'état d'**implémentation partielle**. Sa formulation cosmologique est arrêtée ; sa traduction technique se peaufine.
 
 ### Brisure — la glace qui se rompt
 
@@ -145,7 +144,7 @@ Frapper avec violence un corps **gelé** peut produire la **Brisure**. Ce n'est 
 
 ## Le tableau des rencontres
 
-Voici, pour qui veut une vue d'ensemble, la matrice des réactions. Chaque cellule indique ce qui se produit quand une voix nouvelle frappe un corps déjà marqué d'un état. Les chiffres exacts (multiplicateurs, rayons, durées) se trouvent dans la page d'implémentation [[Elemental Reactions]] ; ici, on s'en tient à la grammaire générale.
+Voici, pour qui veut une vue d'ensemble, la matrice des réactions. Chaque cellule indique ce qui se produit quand une voix nouvelle frappe un corps déjà marqué d'un état. Ici, on s'en tient à la grammaire générale.
 
 | État du corps | + Feu | + Eau | + Givre | + Foudre |
 |---|---|---|---|---|
@@ -156,7 +155,7 @@ Voici, pour qui veut une vue d'ensemble, la matrice des réactions. Chaque cellu
 | **Électrifié** | **Embrasement** ⚠️ | **Électrocharge** (~×1.2) | **Supraconduction** ⚠️ | — |
 | **Chargé** | **Surcharge** (~×1.5 AoE) | — | **Supraconduction** ⚠️ | — |
 
-⚠️ = réactions en cours d'implémentation complète (voir [[Elemental Reactions]]).
+⚠️ = réactions en cours d'implémentation complète.
 
 Les cases vides ne sont pas des oublis. Ce sont des **silences cosmiques** : des rencontres où les deux voix ne se reconnaissent pas, où rien ne naît, où le coup frappe seulement comme un coup. Hybelior assume ces silences. Toutes les voix ne se parlent pas. Toute la matière du monde n'est pas faite pour résonner avec n'importe quoi. Une chimie qui réagirait partout serait une chimie pauvre — elle ne dirait plus rien, parce qu'elle dirait tout.
 
@@ -703,9 +702,3 @@ Il y a dans cette mécanique une exigence et une promesse. L'exigence : on ne co
 - [[L'Accord]] — la résonance personnelle qui colore les phrases chimiques
 - [[Cosmologie]] — d'où viennent les voix qui se mêlent
 - [[Armes et Maîtrise]] — la pratique armée et ses conditions cachées
-
-**Liens d'implémentation**
-
-- [[Elemental Reactions]] — matrice exacte, multiplicateurs, durées
-- [[Effects Elemental States]] — déclinaison technique des états élémentaires (Burning, Wet, Cold, Frozen, Electrified, Charged)
-- [[Reactions Integration]] — le pipeline complet combo → moveset → ExecutionCalc → AttributeSet → réaction

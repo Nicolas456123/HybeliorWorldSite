@@ -203,7 +203,6 @@ Cette modulation appartient au tissu fin du monde. Elle ne se laisse pas saisir 
 - [[Bestiaire]] — les créatures et ce qu'elles laissent derrière elles
 - [[Les Ères]] — comment le monde colore les matières selon la saison cosmique
 - [[Architecture]] — la trame profonde
-- Pour la spécification technique des matières et des tables : [[Inventory Items]], [[Data Tables Items]].
 
 ---
 

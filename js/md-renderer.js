@@ -246,7 +246,7 @@
 
     /**
      * Construit la grille de cartes pour un bloc dataview.
-     * `from` est le chemin Obsidian (ex: "05 - Implémentation Unreal/Combat et Capacités")
+     * `from` est le chemin Obsidian (ex: "02 - Monde/Continents")
      * → on tente plusieurs préfixes de manifest pour le résoudre.
      */
     async function postProcessDataview(rootEl, currentMdPath) {

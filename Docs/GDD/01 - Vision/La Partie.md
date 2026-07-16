@@ -4,7 +4,6 @@ status: drafted
 last_review: 2026-05-12
 needs_review_for: []
 type: vision
-implementation: "[[Player Sessions Spec]]"
 ---
 
 # 🌐 La Partie — l'expérience du voyageur
@@ -113,4 +112,3 @@ Et tout cela, sans que jamais on te demande de choisir entre Hybelior et le rest
 
 *Liens narratifs : [[Vision]] | [[Le Souffle]] | [[Les Ères]] | [[L'Accord]] | [[Univers]] | [[Traces des Ères]] | [[Prédiction]] | [[Guildes]]*
 
-*Implémentation technique (durées, boucles, seuils, métriques) : [[Player Sessions Spec]]*

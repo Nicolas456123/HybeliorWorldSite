@@ -4,7 +4,6 @@ status: drafted
 last_review: 2026-05-12
 needs_review_for: []
 type: mechanic-narrative
-implementation: "[[Prediction System]]"
 ---
 
 # 🔮 La Prédiction — lire le Souffle qui vient
@@ -165,4 +164,3 @@ Les trois disciplines — astronomie, oracle, Voie de Tempora — sont les trois
 
 *Liens narratifs : [[Le Souffle]] | [[Les Ères]] | [[L'Accord]] | [[Le Lien]] | [[Cosmologie]] | [[Histoire d'Hybelior]] | [[Métiers]] | [[Économie]]*
 
-*Implémentation technique (chiffres, formules, règles de Bourse, conditions de titre) : [[Prediction System]]*

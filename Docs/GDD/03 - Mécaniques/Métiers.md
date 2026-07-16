@@ -4,7 +4,6 @@ status: drafted
 last_review: 2026-05-12
 needs_review_for: []
 type: mechanic-narrative
-implementation: "[[Profession System]]"
 ---
 
 # 🔨 Métiers — soixante-trois manières d'habiter le monde
@@ -103,8 +102,6 @@ Certaines recettes, d'ailleurs, *n'existent que pendant certaines Ères*. La Soi
 >
 > *— Maître Aldric, forgeron-armurier de Mosrack*
 
-Pour les chiffres exacts (bonus/malus par Ère, recettes éphémères), voir [[Profession System]].
-
 ---
 
 ## L'économie des œuvres signées
@@ -119,7 +116,7 @@ Cette mécanique a des effets en cascade. Les Maîtres deviennent **célèbres**
 >
 > *— récit d'une cliente de Cestra*
 
-Pour les flux économiques précis (signature, prestige, prix de vente), voir [[Économie]] et [[Profession System]].
+Pour les flux économiques précis (signature, prestige, prix de vente), voir [[Économie]].
 
 ---
 
@@ -137,4 +134,3 @@ Soixante-trois manières d'habiter le monde. Soixante-trois façons d'avoir un n
 
 *Liens narratifs : [[Armes et Maîtrise]] | [[Le Souffle]] | [[L'Accord]] | [[Économie]] | [[Labeur]] | [[Progression]] | [[Items]] | [[PNJ]]*
 
-*Implémentation technique (chiffres, formules, recettes par tier, balance, dépendances de récolte) : [[Profession System]]*

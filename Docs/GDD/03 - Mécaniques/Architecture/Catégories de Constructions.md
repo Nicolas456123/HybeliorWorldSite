@@ -197,4 +197,3 @@ Cette liste n'est pas un catalogue exhaustif. Elle dit seulement qu'**aucune con
 - [[Traces des Ères]] — les bâtis cosmiques laissés par les Souffles passés
 - [[Cosmologie]] — les religions qui ont leurs sanctuaires propres
 
-*Implémentation technique (taxonomie structurée, données par catégorie) : [[Architecture Data-Driven]]*

@@ -218,4 +218,3 @@ Voir [[Mapping Métiers de Construction]] pour la lecture longue des métiers et
 - [[Géographie]] — comment chaque terre détermine les matières du bâti
 - [[Économie]] — les flux marchands des matières
 
-*Implémentation technique (table des matières, paramètres de craft, données structurées) : [[Architecture Data-Driven]]*

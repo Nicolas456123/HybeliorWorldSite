@@ -4,7 +4,6 @@ status: drafted
 last_review: 2026-05-12
 needs_review_for: []
 type: mechanic-narrative
-implementation: "[[Exploration System]]"
 ---
 
 # 🗺️ Exploration — entrer en relation avec un monde
@@ -52,8 +51,6 @@ Il y a d'abord ce qui est **visible** : ce que le monde offre sans détour, ce q
 Il y a ensuite l'**indicé** — le 🔒 du monde. Quelque chose existe ici, le voyageur le pressent, mais le monde ne dit pas quoi. Une silhouette dans la brume, un fragment de chant qui répète une syllabe sans nom, un PNJ qui parle d'un cousin qu'il n'a pas vu depuis trop longtemps. L'indicé est un appel discret : *si tu veux, tu peux chercher*. Ceux qui l'ignorent ne perdent rien ; ceux qui le suivent gagnent un fil à tirer.
 
 Il y a enfin le **caché tout court** — le secret qu'aucun signe n'annonce, qui ne se livre qu'à l'œil aigu, à la persistance, parfois à la chance, plus souvent à la collaboration. Ces secrets sont rares. Hybelior les protège : ils ne sont jamais documentés, ils se découvrent par croisement de lore, par observation patiente. Quand l'un d'eux se révèle pour la première fois, le nom de l'arpenteur peut s'inscrire dans la mémoire du monde — non comme récompense, mais comme **trace** que d'autres, des Parties plus tard, retrouveront.
-
-Pour le détail des trois régimes et leur balance, voir [[Vision Rules]].
 
 > *« Il y a ce que le monde montre. Il y a ce qu'il laisse deviner. Et puis il y a ce qu'il garde. C'est dans ce troisième pli qu'il met ce qu'il a de plus précieux. »*
 >
@@ -139,4 +136,3 @@ Cette rencontre demande de la patience, et de renoncer à l'illusion qu'un monde
 
 *Liens narratifs : [[Vision]] | [[Le Souffle]] | [[Les Ères]] | [[L'Accord]] | [[Traces des Ères]] | [[Prédiction]] | [[Géographie]] | [[Univers]]*
 
-*Implémentation technique (chiffres, formules, specs Unreal) : [[Exploration System]]*

@@ -1,4 +1,0 @@
-Begin Object Class=/Script/Engine.UserDefinedEnum Name="E_CombatStyle" ExportPath="/Script/Engine.UserDefinedEnum'/Game/Data/Enums/E_CombatStyle.E_CombatStyle'"
-   UniqueNameIndex=3
-   DisplayNameMap=(("NewEnumerator0", NSLOCTEXT("[CAF0B08FAC88DC4860E11583BFE1C6FB]", "CF3956954656CD211220A5B6644177D8", "Unarmed")),("NewEnumerator1", NSLOCTEXT("[CAF0B08FAC88DC4860E11583BFE1C6FB]", "A6D24D2946F4EFC921460AB51299E0C5", "SwordAndShield")),("NewEnumerator2", NSLOCTEXT("[CAF0B08FAC88DC4860E11583BFE1C6FB]", "B8D249F54C5B10293650449F5FEBCB95", "Bow")))
-End Object

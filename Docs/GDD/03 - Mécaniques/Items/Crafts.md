@@ -218,7 +218,6 @@ C'est pourquoi un apprenti chez un Maître reconnu n'est pas seulement quelqu'un
 - [[Armes et Maîtrise]] — la progression des cinq paliers, et les conditions cachées
 - [[Les Ères]] — comment le monde colore les gestes
 - [[Architecture]] — la trame profonde
-- Pour la spécification technique des recettes : [[Inventory Items]], [[Data Tables Items]].
 
 ---
 

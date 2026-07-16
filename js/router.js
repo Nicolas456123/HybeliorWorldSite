@@ -1,6 +1,6 @@
 /**
  * Router SPA hash-based pour Hybelior
- * Routes : NavConfig.routes() (ex: #accueil, #lore, #implementation/combat)
+ * Routes : NavConfig.routes() (ex: #accueil, #lore, #histoires/chroniques)
  *
  * Format des routes :
  *   #route                — page principale, sous-onglet par défaut
@@ -18,7 +18,7 @@ const Router = {
     routes() {
         return window.NavConfig ? window.NavConfig.routes() : [
             'accueil', 'vision', 'monde', 'mecaniques', 'systemes',
-            'implementation', 'lore', 'carte', 'frise',
+            'lore', 'carte', 'frise',
         ];
     },
 

@@ -4,7 +4,6 @@ status: drafted
 last_review: 2026-05-12
 needs_review_for: []
 type: lore-narrative
-implementation: "[[Geography Tables]]"
 ---
 
 # 🗺️ Géographie d'Hybelior — la forme du monde
@@ -69,7 +68,7 @@ Le **volcanique** est la transformation par le feu. Là, le monde se rappelle qu
 
 Et puis il y a la **désolation** — ces zones où le tissu du monde s'est usé, où une voix s'est tue trop brutalement et a laissé derrière elle une absence active. Ce ne sont pas des biomes ; ce sont des **cicatrices**. On y entre rarement par choix. On en sort rarement intact.
 
-Pour la grille technique des biomes — leur grammaire technique, ce qu'un biome **inflige** ou **donne** — voir [[Geography Tables]] (voir aussi). Cette section ne décrit pas ce qu'un biome **fait** à celui qui le traverse. Elle décrit ce qu'il **est** dans le monde.
+Cette section ne décrit pas ce qu'un biome **fait** à celui qui le traverse. Elle décrit ce qu'il **est** dans le monde.
 
 > *« Le biome n'est pas un climat. C'est une humeur du cosmos. Apprends à reconnaître celle qui t'habite, et tu sauras où aller. »*
 >
@@ -137,4 +136,3 @@ La géographie d'Hybelior n'enseigne pas que tout se vaut. Elle enseigne que **t
 
 *Liens narratifs : [[Continents/Index]] | [[Lignées]] | [[Cosmologie]] | [[Univers]] | [[Traces des Ères]] | [[Économie]] | [[Le Souffle]]*
 
-*Implémentation technique (tables, surfaces, grille technique des biomes, mappings) : [[Geography Tables]]*

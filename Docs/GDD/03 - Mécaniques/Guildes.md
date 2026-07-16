@@ -4,7 +4,6 @@ status: drafted
 last_review: 2026-05-12
 needs_review_for: []
 type: mechanic-narrative
-implementation: "[[Guild System]]"
 ---
 
 # 🏰 Les Guildes — la famille élue
@@ -149,4 +148,3 @@ C'est très peu, et c'est tout. Une parole donnée — qui n'est pas magique, qu
 
 *Liens narratifs : [[Factions]] | [[Univers]] | [[Économie]] | [[PvP]] | [[L'Accord]] | [[Le Souffle]] | [[Le Lien]] | [[Religions]] | [[La Partie]]*
 
-*Implémentation technique (chiffres, formules, specs Unreal) : [[Guild System]]*

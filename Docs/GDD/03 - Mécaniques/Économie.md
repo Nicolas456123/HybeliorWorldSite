@@ -4,7 +4,6 @@ status: drafted
 last_review: 2026-05-12
 needs_review_for: []
 type: mechanic-narrative
-implementation: "[[Economy System]]"
 ---
 
 # 💰 L'Économie — le tissu vivant d'Hybelior
@@ -129,4 +128,3 @@ Tout, dans cette économie, est **conversation**. Et c'est en cela qu'elle ne re
 
 *Liens narratifs : [[Le Souffle]] | [[L'Accord]] | [[Les Ères]] | [[Géographie]] | [[Guildes]] | [[Factions]] | [[Métiers]] | [[Prédiction]] | [[PvP]]*
 
-*Implémentation technique (chiffres, formules, taxes, taux, specs Unreal) : [[Economy System]]*

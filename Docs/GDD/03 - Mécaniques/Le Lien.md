@@ -4,7 +4,6 @@ status: drafted
 last_review: 2026-05-12
 needs_review_for: []
 type: mechanic-narrative
-implementation: "[[Lien System]]"
 ---
 
 # 🔮 Le Lien — la magie comme résonance
@@ -46,8 +45,6 @@ Mais cette contrainte cosmique, qui pourrait passer pour une limitation, est en 
 > *— inscription au temple-école d'Astravia*
 
 Changer de Voie est possible. Mais c'est un acte rare, lourd, presque tragique. Il faut **rompre** son Lien, abandonner volontairement la voix qu'on a portée, traverser une période où aucune voix ne passe plus, et réapprendre, comme un débutant, à écouter une autre fréquence. Ceux qui l'ont fait racontent un deuil. La Voie qu'on quitte ne disparaît pas seulement de notre pratique — elle se retire de notre manière de voir. Et on ne sait jamais, avant la rupture, si la nouvelle Voie nous reconnaîtra.
-
-> Pour les conditions techniques de la rupture (coûts, durées), voir [[Lien System]].
 
 ---
 
@@ -192,8 +189,6 @@ Cette dimension relationnelle de la magie est, elle aussi, philosophiquement dé
 | Resonia et Somnix (la berceuse) | |
 | Aurion et Tempora (la surcharge) | |
 
-> Pour les paramètres techniques exacts des combos, des oppositions et des réactions à trois Voies, voir [[Lien System]].
-
 > *« Deux Voies qui s'accordent ne se contentent pas de s'additionner. Elles s'épousent. Et de cette épousaille naît une troisième chose, qu'aucune des deux n'aurait pu enfanter seule. »*
 >
 > *— Maître Tarell, école polyphonique de Galenor*
@@ -234,4 +229,3 @@ Devenir un Lié, c'est, à Hybelior, **prendre place dans une conversation qui d
 
 *Liens narratifs : [[Cosmologie]] | [[Le Souffle]] | [[L'Accord]] | [[Les Ères]] | [[Univers#Les Déliés|Les Déliés]] | [[Combat]] | [[Armes et Maîtrise]]*
 
-*Implémentation technique (chiffres, formules, specs Unreal) : [[Lien System]]*

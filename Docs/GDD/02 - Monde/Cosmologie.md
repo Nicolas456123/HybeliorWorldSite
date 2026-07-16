@@ -4,7 +4,6 @@ status: drafted
 last_review: 2026-05-07
 needs_review_for: []
 type: lore-narrative
-implementation: "[[Cosmology Spec]]"
 ---
 
 # La Cosmologie d'Hybelior — la Polyphonie du monde
@@ -185,4 +184,3 @@ Et pour comprendre, enfin, ce que tout cela donne dans la trame des âges — co
 
 *Liens narratifs : [[Le Souffle]] | [[Les Ères]] | [[L'Accord]] | [[Le Lien]] | [[Histoire d'Hybelior]] | [[Géographie]] | [[Univers]]*
 
-*Implémentation technique (chiffres, formules, tableaux mécaniques, specs Unreal) : [[Cosmology Spec]]*

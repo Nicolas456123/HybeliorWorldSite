@@ -4,7 +4,6 @@ status: drafted
 last_review: 2026-05-12
 needs_review_for: []
 type: mechanic-narrative
-implementation: "[[Progression System]]"
 ---
 
 # 📈 Progression — Plusieurs vies dans une seule
@@ -127,4 +126,3 @@ La progression à Hybelior est une **réconciliation** — entre l'effort et la 
 
 *Liens narratifs : [[Personnage]] | [[Armes et Maîtrise]] | [[L'Accord]] | [[Le Souffle]] | [[Les Ères]] | [[Labeur]] | [[Le Lien]]*
 
-*Implémentation technique (chiffres, formules, tables, specs Unreal) : [[Progression System]]*

@@ -175,7 +175,6 @@ Chaque type d'arme a sa propre maîtrise, qui se développe par l'usage — voir
 - [[Métiers]] — soixante-trois manières d'entrer en relation avec la matière
 - [[Économie]] — la circulation des choses
 - [[Bestiaire]] — ce que les créatures laissent derrière elles
-- Pour la spécification technique des objets : [[Inventory Items]], [[Data Tables Items]].
 
 ---
 

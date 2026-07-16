@@ -4,7 +4,6 @@ status: drafted
 last_review: 2026-05-12
 needs_review_for: []
 type: mechanic-narrative
-implementation: "[[Dialogue Component]]"
 ---
 
 # 💬 Dialogue et Interactions — la parole comme acte
@@ -406,8 +405,3 @@ Une promesse en une phrase, qui résume tout : *« À Hybelior, parler n'est pas
 - [[Prédiction]] — l'art d'écouter les voix pour sentir venir le prochain Souffle
 - [[Réputation]] — l'inscription durable de tes paroles dans le tissu social
 - [[Univers]] — la cosmologie d'où viennent les voix qui modulent tout dialogue
-
-**Liens d'implémentation**
-
-- [[Dialogue Component]] — composant de dialogue
-- [[Dialogue UI]] — interface, déclencheurs, replication

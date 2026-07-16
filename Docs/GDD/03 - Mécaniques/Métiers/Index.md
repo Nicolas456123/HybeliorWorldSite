@@ -30,4 +30,3 @@ Chaque catégorie ouvre une chambre où l'on raconte les métiers qu'elle réuni
 ## Voir aussi
 
 - [[Métiers]] — la philosophie du métier comme vocation et présence sociale.
-- Pour les fiches détaillées de chaque métier (stats, paliers, recettes débloquées, économie) : [[Métiers Catalog]] dans `05 - Implémentation Unreal`.

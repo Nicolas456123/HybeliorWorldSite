@@ -4,7 +4,6 @@ status: drafted
 last_review: 2026-05-12
 needs_review_for: []
 type: system-narrative
-implementation: "[[Bestiary]]"
 ---
 
 # 🐾 Le Bestiaire — recensement du vivant
@@ -367,7 +366,7 @@ L'[[L'Accord]] modifie ta relation au bestiaire d'une manière subtile mais perm
 
 Un personnage profondément accordé à l'Ère présente émet, sans le vouloir, une **harmonique** que les créatures sentent. Les loups, à son approche, hésitent une seconde de plus avant de charger. Les cerfs ne fuient pas aussi loin. Les esprits du seuil le saluent. Les élémentaires ne se manifestent pas en agression première. Cette aura n'est pas magique au sens strict — c'est la traduction, dans le tissu écologique, de ce qu'est être Concordant.
 
-Certains rituels — voir [[Souffle System]] §conditions cachées — récompensent un haut Accord par des **alliances saisonnières** : un loup blessé qui te suit pendant une Ère, un oiseau qui revient se poser sur ton épaule en chaque village. Ces présences ne sont pas des compagnons mécaniques. Ce sont des **témoignages** que le monde te rend.
+Certains rituels récompensent un haut Accord par des **alliances saisonnières** : un loup blessé qui te suit pendant une Ère, un oiseau qui revient se poser sur ton épaule en chaque village. Ces présences ne sont pas des compagnons mécaniques. Ce sont des **témoignages** que le monde te rend.
 
 Le haut Accord ne fait pas d'un voyageur un pacificateur universel. Une bête affamée reste affamée, un démon pacté reste pacté. Mais la marge — cet espace fragile où l'agression pourrait ne pas avoir lieu — s'élargit. Et dans le bestiaire d'Hybelior, cette marge fait souvent la différence entre une expédition tranquille et un drame.
 
@@ -798,8 +797,3 @@ Une promesse en une phrase, qui résume tout : *« Tu n'es pas l'unique vivant d
 **Liens d'implémentation**
 
 - [[Bestiary]] — le moteur du bestiaire et ses patrons de production
-- [[NPC System]] — couche commune avec les habitants
-- [[Entity Pool Manager]] — la gestion technique des présences
-- [[Entity Spawner]] — l'apparition technique
-- [[Loot System]] — la trame technique des dépouilles
-- [[AI Controller]] — la perception et le comportement technique

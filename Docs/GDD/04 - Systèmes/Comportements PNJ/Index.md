@@ -3,7 +3,6 @@ tags: [systemes, pnj, comportements, ia, présence, monde-vivant, narration]
 status: drafted
 last_review: 2026-05-12
 type: system-narrative
-implementation: "[[NPC System]]"
 ---
 
 # Comportements PNJ — vivre sa journée, pas attendre celui qui passe
@@ -392,16 +391,3 @@ Les décisions actées : douze tempéraments canoniques, mémoire individuelle d
 - [[Le Lien]] — Voies du Lien, modulation des affinités
 - [[Bestiaire/Index]] — entités non humaines, comportements grégaires partagés
 - [[Métiers]] — les métiers couverts par les habitants artisans
-- [[Routine Quotidienne]] — détail des phases canoniques de journée
-- [[Modes Sociaux]] — interactions sociales superposables
-
-**Liens d'implémentation**
-
-- [[NPC System]] — composant de présence
-- [[NPC Spec]] — chiffres, formules, équilibrage
-- [[AI Controller]] — perception, mémoire de travail
-- [[AI Blueprints]] — arbres de comportement partagés
-- [[Dialogue Component]] — flux de dialogue
-- [[Actions Situationnelles]] — matrice contexte × action
-- [[Concepts Fondamentaux IA PNJ]] — décisions architecturales
-- [[Architecture Data-Driven]] — générateurs liés aux habitants et comportements

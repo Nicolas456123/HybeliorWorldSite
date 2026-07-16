@@ -4,7 +4,6 @@ status: drafted
 last_review: 2026-05-12
 needs_review_for: []
 type: mechanic-narrative
-implementation: "[[Death System]]"
 ---
 
 # 💀 Mort — la rupture qui apprend
@@ -121,4 +120,3 @@ Tout cela tient en une phrase : **à Hybelior, mourir coûte ce qu'il faut pour 
 
 *Liens narratifs : [[L'Accord]] | [[Le Souffle]] | [[PvP]] | [[Factions]] | [[Guildes]] | [[Le Lien]] | [[Cosmologie]]*
 
-*Implémentation technique (chiffres, formules, règles précises) : [[Death System]]*

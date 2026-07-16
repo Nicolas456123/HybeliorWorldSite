@@ -4,7 +4,6 @@ status: drafted
 last_review: 2026-05-12
 needs_review_for: []
 type: mechanic-narrative
-implementation: "[[Mastery System]]"
 ---
 
 # 🗡️ Armes & Maîtrise — on devient ce qu'on pratique
@@ -137,4 +136,3 @@ Ce que cela donne, en bout de course, est une histoire qui se lit en toi et raco
 
 *Liens narratifs : [[Personnage]] | [[Le Souffle]] | [[Le Lien]] | [[L'Accord]] | [[Reconnaissance]] | [[Labeur]] | [[Combat]] | [[Progression]]*
 
-*Implémentation technique (chiffres, formules, specs Unreal) : [[Mastery System]]*

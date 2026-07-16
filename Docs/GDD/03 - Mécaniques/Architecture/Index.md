@@ -130,4 +130,3 @@ Habiter une construction à Hybelior, c'est donc accepter une **dette discrète*
 - [[Cosmologie]] — les sanctuaires des grandes traditions religieuses
 - [[Guildes]] — les corporations bâtisseuses et les édifices collectifs
 
-*Implémentation technique (générateurs, templates paramétriques, données structurées) : [[Architecture Data-Driven]]*

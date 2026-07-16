@@ -25,7 +25,6 @@ pages/                  – Pages HTML chargées dynamiquement
   carte.html            – Carte interactive
   frise.html            – Frise chronologique
   lore.html             – Hub lore (8 catégories thématiques)
-  implementation.html   – Hub implémentation (sous-onglets pilotés par NavConfig)
   nation.html, continent.html, histoire.html, religion.html – Fiches lore (routes propres)
 api/                    – Routes serverless Vercel
   auth.js               – Authentification éditeur

@@ -4,7 +4,6 @@ status: drafted
 last_review: 2026-05-12
 needs_review_for: []
 type: mechanic-narrative
-implementation: "[[Faction System]]"
 ---
 
 # ⚔️ Les Factions — pensées du monde
@@ -123,4 +122,3 @@ Une faction, à Hybelior, est plus qu'une bande d'alliés. Elle est une **pensé
 
 *Liens narratifs : [[Guildes]] | [[Univers]] | [[Cosmologie]] | [[Histoire d'Hybelior]] | [[Le Souffle]] | [[Les Ères]] | [[Le Lien]] | [[Géographie]] | [[Continents/Index]] | [[Prédiction]] | [[PvP]]*
 
-*Implémentation technique (chiffres, paliers, balance, specs Unreal) : [[Faction System]]*

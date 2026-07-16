@@ -196,7 +196,6 @@ Les armes se classent selon le nombre de mains qui les tiennent, et selon la dis
 - [[Crafts]] — l'art du faire
 - [[Armes et Maîtrise]] — la pratique des armes, des paliers, et leurs conditions cachées
 - [[Métiers]] — qui produit quoi
-- Pour la spécification technique des objets : [[Inventory Items]], [[Data Tables Items]].
 
 ---
 

@@ -2,7 +2,7 @@
  * sidebar-tree.js — Arbre de navigation UNIQUE et PERSISTANT du panneau gauche.
  *
  * Objectif (demande UX « A ») : le panneau de gauche est TOUJOURS le même quelle
- * que soit la page. Il liste les 5 grands onglets (Accueil, Lore, Implémentation,
+ * que soit la page. Il liste les 4 grands onglets (Accueil, Lore,
  * Carte, Frise). Le grand onglet de la section courante est ouvert ; les autres
  * sont repliés. En passant d'une grande page à une autre, l'onglet précédent se
  * referme et le nouveau s'ouvre.
@@ -11,7 +11,6 @@
  *   - Lore           → les 8 catégories thématiques (NavConfig.loreCategories),
  *                      la catégorie active dépliée ; Nations → continents → nations,
  *                      Religions → liste des religions.
- *   - Implémentation → les sous-onglets (NavConfig.subtabs.implementation).
  *   - Accueil / Carte / Frise → feuilles (lien direct).
  *
  * Remplace l'ancien sidebar-lore-nav.js et la barre #global-subtab-nav (masquée).
@@ -33,7 +32,6 @@
     const SECTIONS = [
         { key: 'accueil',        label: 'Accueil',        href: '#accueil',        routes: ['accueil'] },
         { key: 'lore',           label: 'Lore',           href: '#lore',           routes: ['lore', 'vision', 'monde', 'mecaniques', 'systemes', 'histoires', 'nation', 'continent', 'histoire', 'religion', 'roman'], kind: 'lore' },
-        { key: 'implementation', label: 'Implémentation', href: '#implementation', routes: ['implementation'], kind: 'subtabs' },
         { key: 'carte',          label: 'Carte',          href: '#carte',          routes: ['carte'] },
         { key: 'frise',          label: 'Frise',          href: '#frise',          routes: ['frise'] },
     ];
@@ -133,7 +131,7 @@
             this._container.innerHTML = html;
         },
 
-        /** Branche Implémentation : liste plate des sous-onglets. */
+        /** Branche à sous-onglets : liste plate des sous-onglets. */
         _renderSubtabsBranch(route, subkey) {
             const cfg = NavConfig.subtabs && NavConfig.subtabs[route];
             if (!cfg || !Array.isArray(cfg.tabs)) return '';

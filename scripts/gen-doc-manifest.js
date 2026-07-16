@@ -4,8 +4,8 @@
  *
  * Scanne `HybeliorWorldSite/Docs/` et produit `Docs/_manifest.json` :
  *   {
- *     "GDD/05 - Implémentation Unreal/Combat et Capacités": [
- *       { "name": "Abilities Combat", "file": "Abilities Combat.md", "title": "Abilities Combat" },
+ *     "GDD/02 - Monde/Continents": [
+ *       { "name": "Index", "file": "Index.md", "title": "Continents" },
  *       ...
  *     ],
  *     ...

@@ -4,7 +4,6 @@ status: drafted
 last_review: 2026-05-12
 needs_review_for: []
 type: mechanic-narrative
-implementation: "[[Combat System]]"
 ---
 
 # ⚔️ Le Combat — le dialogue qui peut tuer
@@ -45,7 +44,7 @@ Dans la salle d'armes, on enseigne très tôt aux apprentis qu'un combat n'est p
 
 C'est cet **espace entre les coups** que le combat d'Hybelior vise à rendre habitable. Pas un duel de gestes qui s'enchaînent dans l'urgence aveugle ; pas non plus un casse-tête de cadences où chaque fenêtre se mesure à l'éclair. **Quelque chose entre les deux** — un rythme qui se sent plus qu'il ne se compte, où le combattant expérimenté finit par savoir, sans avoir à y penser, le moment exact où il faut frapper, le moment exact où il faut céder un pas.
 
-La parade parfaite, l'esquive précise, le finisseur de combo qui s'ouvre au bon instant — toutes ces dispositions (chiffres et fenêtres : voir [[Combat System]]) ne sont, en réalité, que des **points de cristallisation** d'une attention plus large. Un combattant qui parade parfaitement n'a pas réagi à la fraction d'instant près. Il a **lu** son adversaire pendant les quelques instants précédents, et la parade est sortie d'elle-même quand la lecture s'est avérée juste. C'est cela que le combat d'Hybelior cherche à récompenser : non pas le réflexe seul, mais **l'attention qui produit le bon réflexe au bon moment**.
+La parade parfaite, l'esquive précise, le finisseur de combo qui s'ouvre au bon instant — toutes ces dispositions ne sont, en réalité, que des **points de cristallisation** d'une attention plus large. Un combattant qui parade parfaitement n'a pas réagi à la fraction d'instant près. Il a **lu** son adversaire pendant les quelques instants précédents, et la parade est sortie d'elle-même quand la lecture s'est avérée juste. C'est cela que le combat d'Hybelior cherche à récompenser : non pas le réflexe seul, mais **l'attention qui produit le bon réflexe au bon moment**.
 
 > *« Avant que ta lame parle, il faut que tes yeux aient déjà tout dit. »*
 >
@@ -69,7 +68,7 @@ Les Liés — ceux qui ont juré une Voie unique, voir [[Le Lien]] — apportent
 
 Cela rend le combat des Liés profondément différent. Plus lent dans certaines phases — la canalisation prend du temps, et ce temps est un risque assumé. Plus fulgurant dans d'autres — quand le sort sort, il sort avec une autorité qu'aucune lame ne reproduit. Et toujours **coloré** par la Voie : un Lié au Feu ne combat pas comme un Lié à la Pierre, qui ne combat pas comme un Lié au Verbe. Leur rapport au danger, à la distance, à la patience, est sculpté par ce qu'ils servent.
 
-Quand Liés et guerriers combattent ensemble, quelque chose de particulier peut se produire : les Voies entrent en **résonance**. Une flamme et un vent, une eau et un froid, une lumière et une ombre — certaines combinaisons éveillent des effets qu'aucun des deux participants n'aurait obtenu seul. Pour la table exacte de ces résonances, voir [[Combat System]] et [[Le Lien]]. Mais l'idée philosophique tient en peu de mots : **dans Hybelior, deux Voies qui se rencontrent au bon instant peuvent dire ensemble ce qu'aucune ne saurait dire seule**.
+Quand Liés et guerriers combattent ensemble, quelque chose de particulier peut se produire : les Voies entrent en **résonance**. Une flamme et un vent, une eau et un froid, une lumière et une ombre — certaines combinaisons éveillent des effets qu'aucun des deux participants n'aurait obtenu seul. Pour ces résonances, voir [[Le Lien]]. Mais l'idée philosophique tient en peu de mots : **dans Hybelior, deux Voies qui se rencontrent au bon instant peuvent dire ensemble ce qu'aucune ne saurait dire seule**.
 
 > *« Quand le feu et le vent s'entendent, c'est l'incendie qui parle. Apprends à reconnaître la voix qui sort de toi quand tu n'es plus seul à la porter. »*
 >
@@ -167,9 +166,6 @@ Certaines phrases du combat ne s'ouvrent que dans des conditions précises. Un c
 
 Hybelior assume cette opacité. Aucun manuel ne t'annonce ce qui libérera la suite. On te laisse **trouver** — par l'usage, par l'écoute, par les indices que les vieux maîtres glissent dans leurs leçons. C'est l'une des rares récompenses qu'aucun guide ne saurait t'épargner complètement, parce qu'elle est faite, précisément, du chemin que tu auras parcouru pour la mériter.
 
-> [!important]
-> Le détail technique des fenêtres (durée exacte du seuil du geste suivant, coûts de souffle, amplification des dégâts, conditions cachées par moveset) se trouve dans [[Combat System]], [[Combo System]] et [[Movesets]].
-
 ### Le rythme comme récompense
 
 Au fond, ce que la grammaire des combos récompense, ce n'est pas la vitesse — c'est le **rythme**. Un combattant qui frappe vite mais sans rythme n'enchaîne rien ; ses coups se télescopent, ses seuils se ratent, ses finishers ne sortent pas. Un combattant qui frappe lentement mais **dans le rythme** voit ses phrases se tenir, ses finishers s'ouvrir, ses adversaires reculer devant la cadence de ce qu'il prononce. Le rythme n'est pas une vitesse ; c'est une **présence au temps qui passe**.
@@ -229,9 +225,6 @@ Il y a des combats, à Hybelior, où le verrouillage est plus une **erreur** qu'
 
 Apprendre à **ne pas verrouiller** est aussi un apprentissage. Beaucoup de voyageurs, en arrivant dans Hybelior, croient que le focus est toujours préférable — qu'il rend le combat plus précis, plus lisible, plus efficace. Ils apprennent, à mesure qu'ils traversent les Ères et les types d'adversaires, que c'est faux. Le focus est un outil. Comme tout outil, il est utile quand il est employé au bon moment, et nuisible quand il devient une habitude.
 
-> [!important]
-> Le détail technique du ciblage (rayon de détection, comportement de la rotation du regard, transitions entre cibles, commandes) se trouve dans [[Targeting System]] et [[HW GAS Player Character]].
-
 ### Le focus comme acte de respect
 
 Pour finir, une chose qu'on dit rarement, mais qui mérite d'être dite : verrouiller un adversaire est, à Hybelior, un **acte de respect**. C'est dire *je te vois, toi, je te considère assez pour te regarder pleinement, je ne te traite pas comme une statistique épuisable parmi d'autres*. Cette gravité du focus est cohérente avec la gravité du combat lui-même — qui n'est, on l'a dit, jamais une formalité.
@@ -246,4 +239,3 @@ Quand un combattant verrouille un adversaire digne, il **engage** sa propre atte
 
 *Liens narratifs : [[Mort]] | [[Armes et Maîtrise]] | [[Le Lien]] | [[L'Accord]] | [[Le Souffle]] | [[Les Ères]] | [[Personnage]] | [[Réactions Élémentaires]]*
 
-*Implémentation technique (chiffres, formules, fenêtres de timing, coûts, cooldowns) : [[Combat System]]*

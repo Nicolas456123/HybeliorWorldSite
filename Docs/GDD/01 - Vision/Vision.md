@@ -4,7 +4,6 @@ status: drafted
 last_review: 2026-05-12
 needs_review_for: []
 type: vision
-implementation: "[[Vision Rules]]"
 ---
 
 # 🎯 Vision & Concept — la promesse d'Hybelior
@@ -128,5 +127,3 @@ Hybelior, à la fin, n'est pas un produit. C'est une invitation — adressée à
 ---
 
 *Liens narratifs : [[Univers]] | [[Personnage]] | [[La Partie]] | [[Le Souffle]] | [[Cosmologie]]*
-
-*Implémentation produit (identité, plafonds, monétisation) : [[Vision Rules]]*

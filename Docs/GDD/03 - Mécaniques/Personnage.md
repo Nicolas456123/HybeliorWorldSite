@@ -4,7 +4,6 @@ status: drafted
 last_review: 2026-05-12
 needs_review_for: []
 type: mechanic-narrative
-implementation: "[[Stats System]]"
 ---
 
 # 🧑 Le Personnage — une présence dans le monde
@@ -37,7 +36,7 @@ L'essentiel : **personne ne te dit qui être au départ**. Ni un menu, ni un ma�
 
 Si tu passes des semaines à frapper l'enclume, tu seras **forgeron** — non pas parce qu'on t'aura coché cette case, mais parce que tes mains auront appris la chaleur du métal et que les apprentis viendront te demander conseil. Si tu passes des mois à pister du gibier dans les forêts d'Onara, tu seras **chasseur** — et le monde te traitera comme tel, parce que tes pas reconnaîtront les sentiers que les autres ne voient pas. Si tu passes des années à canaliser une Voie, tu seras **Lié** — et ta présence, dans la salle d'une auberge, fera baisser la voix de ceux qui savent.
 
-Cette manière de devenir est lente. Elle est aussi la seule qui produise des identités auxquelles le voyageur **croit**. Un titre qui se gagne d'un seul geste ne tient pas. Un titre qui s'est inscrit en toi par mille gestes, lui, ne se perd plus. Pour le détail de la progression par usage : voir [[Armes et Maîtrise]] et [[Stats System]].
+Cette manière de devenir est lente. Elle est aussi la seule qui produise des identités auxquelles le voyageur **croit**. Un titre qui se gagne d'un seul geste ne tient pas. Un titre qui s'est inscrit en toi par mille gestes, lui, ne se perd plus. Pour le détail de la progression par usage : voir [[Armes et Maîtrise]].
 
 > *« On naît sans nom à Hybelior. On le gagne, ou on s'en passe. »*
 >
@@ -57,8 +56,6 @@ Chaque qualité est une **manière d'être au monde** — pas un compteur. Et c'
 >
 > *— Aldric, forgeron-aventurier de Mosrack*
 
-Pour le détail des qualités, leurs valeurs, leurs paliers de progression et leurs effets : voir [[Stats System]].
-
 ---
 
 ## La compression — le monde te ramène à hauteur d'humain
@@ -66,8 +63,6 @@ Pour le détail des qualités, leurs valeurs, leurs paliers de progression et le
 Il y a une chose qu'Hybelior refuse : qu'un être devienne un **dieu inaccessible** par seule accumulation. Aucun mortel, dans ce monde, n'a vocation à dépasser durablement la mesure des autres. Cette mesure a un seuil — *la hauteur d'humain*, comme disent les anciens — et au-delà de ce seuil, le monde, périodiquement, te ramène à lui.
 
 C'est le geste que pose le [[Le Souffle|Souffle]] sur la chair brute du personnage : *ce qui est mémoire reste, ce qui est puissance brute se rejoue*. Pour la philosophie complète de cette respiration — ce qu'elle préserve, ce qu'elle rend — voir [[Le Souffle]]. Ce qu'il importe ici de comprendre, à hauteur de personnage, c'est qu'aucune statue ne tient debout éternellement à Hybelior : l'ancien ne devient jamais un mur infranchissable pour le nouveau, et le nouveau ne décroche jamais devant un écart impossible à combler.
-
-Pour les nombres exacts de la compression : voir [[Souffle System]].
 
 > *« On reconnaît les vieux d'Hybelior à ce qu'ils ne se plaignent jamais d'avoir été ramenés à hauteur. Ils savent que c'est la condition pour que le monde reste un monde. »*
 >
@@ -83,8 +78,6 @@ La réponse d'Hybelior s'appelle le **Focus**. C'est un geste simple : tu désig
 
 Le Focus n'est pas un engagement à vie. Il se déplace. On peut, après quelques semaines, déplacer son attention ailleurs — comme un artisan qui, après avoir longtemps perfectionné une technique, décide qu'il a fait le tour et veut maintenant travailler autre chose. Cette **intentionnalité mobile** est l'un des outils les plus délicats d'Hybelior. Elle remplace, pour ceux qui en sentent le besoin, l'allocation de points — mais sans figer, sans imposer, sans punir le changement.
 
-Pour les paliers, le multiplicateur exact, et la cadence de changement : voir [[Stats System]] §"Système de Focus".
-
 > *« On ne devient pas quelqu'un en décidant qui l'on sera. On le devient en décidant, chaque saison, ce qu'on choisit de pratiquer. »*
 >
 > *— Ilthani Vael, Cendara*
@@ -98,8 +91,6 @@ Un personnage, à Hybelior, n'est pas seul dans son corps. Il porte des choses. 
 Hybelior tient à cette idée que l'équipement raconte. Une armure usée à la jointure de l'épaule dit qu'on a porté longtemps un bouclier à gauche. Un manche de hache lustré dit qu'on a coupé beaucoup de bois ou beaucoup d'ennemis. Un anneau gravé dit qu'on appartient — à un ordre, à une guilde, à un souvenir. Le monde reconnaît ces signes, et toi-même, en regardant ton personnage, tu vois la **trace** matérielle de ce que tu as traversé.
 
 Mais l'équipement n'est pas une voie de contournement. On ne s'achète pas une identité. Pour porter les pièces les plus puissantes, il faut **s'être accordé** au monde présent et **avoir maîtrisé** la discipline qui les sert. Un Concordant qui n'a jamais touché à une épée ne peut pas brandir une lame légendaire ; un Maître épéiste qui n'est pas accordé non plus. La double condition est une déclaration : *l'équipement ne fait pas l'homme. Il le complète, quand l'homme est déjà là.*
-
-Pour les emplacements, les effets, les prérequis chiffrés : voir [[Stats System]] §"Emplacements d'équipement".
 
 > *« Mon épée est de moi. Pas parce que je l'ai payée. Parce que je l'ai méritée, et qu'elle me reconnaît. »*
 >
@@ -280,4 +271,3 @@ C'est cela, la plaque : l'**inscription première** sans laquelle toutes les aut
 
 *Liens narratifs : [[Le Souffle]] | [[L'Accord]] | [[Armes et Maîtrise]] | [[Le Lien]] | [[Métiers]] | [[Labeur]] | [[Mort]] | [[La Partie]] | [[PNJ]] | [[Factions]] | [[Guildes]] | [[Dialogue et Interactions]]*
 
-*Implémentation technique (chiffres, formules, specs Unreal) : [[Stats System]] | [[Nameplate]] | [[Nameplate UI]]*

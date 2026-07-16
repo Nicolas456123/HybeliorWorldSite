@@ -8,7 +8,7 @@
  *     pour éviter la duplication.
  *
  * Convention :
- *   - `key`    : identifiant URL (slug). Ex: #implementation/combat
+ *   - `key`    : identifiant URL (slug). Ex: #histoires/chroniques
  *   - `label`  : libellé bouton/menu
  *   - `src`    : chemin du .md à rendre (relatif à /Docs/)
  *   - `engine` : 'md' (MdRenderer) ou 'html' (SubTabs sur fragment HTML)
@@ -22,7 +22,6 @@ const NavConfig = {
     mainNav: [
         { route: 'accueil',        label: 'Accueil',        icon: 'home' },
         { route: 'lore',           label: 'Lore',           icon: 'book' },
-        { route: 'implementation', label: 'Implémentation', icon: 'code' },
         { route: 'carte',          label: 'Carte',          icon: 'map' },
         { route: 'frise',          label: 'Frise',          icon: 'clock' },
     ],
@@ -767,30 +766,6 @@ const NavConfig = {
                 { key: 'bestiaire',     label: 'Bestiaire',         src: 'GDD/04 - Systèmes/Bestiaire/Index.md' },
                 { key: 'comportements', label: 'Comportements PNJ', src: 'GDD/04 - Systèmes/Comportements PNJ/Index.md' },
             ],
-        },
-
-        implementation: {
-            engine: 'md',
-            defaultKey: 'index',
-            tabs: (function () {
-                const base = 'GDD/05 - Implémentation Unreal/';
-                return [
-                    { key: 'index',       label: "Vue d'ensemble",            src: base + 'Index.md' },
-                    { key: 'overview',    label: 'Architecture',              src: base + "Vue d'Ensemble/Index.md" },
-                    { key: 'combat',      label: 'Combat & Capacités',         src: base + 'Combat et Capacités/Index.md' },
-                    { key: 'entities',    label: 'Personnages & Entités',      src: base + 'Personnages et Entités/Index.md' },
-                    { key: 'progression', label: 'Progression & Inventaire',   src: base + 'Progression et Inventaire/Index.md' },
-                    { key: 'monde',       label: 'Monde & Environnement',      src: base + 'Monde et Environnement/Index.md' },
-                    { key: 'ui',          label: 'Interaction & UI',           src: base + 'Interaction et UI/Index.md' },
-                    { key: 'vfx',         label: 'VFX / Audio / Rendu',        src: base + 'VFX Audio Rendu/Index.md' },
-                    { key: 'framework',   label: 'Framework & Plugins',        src: base + 'Framework et Plugins/Index.md' },
-                    { key: 'backend',     label: 'Backend OWS',                src: base + 'Backend OWS/Index.md' },
-                    { key: 'tools',       label: 'Outils & Automation',        src: base + 'Outils et Automation/Index.md' },
-                    { key: 'audits',      label: 'Audits',                     src: base + 'Audits/Index.md' },
-                    { key: 'items-cat',   label: "Catalogue d'Items",          src: base + 'Progression et Inventaire/Item Catalog/_Index.md' },
-                    { key: 'metiers-cat', label: 'Catalogue Métiers',          src: base + 'Métiers Catalog/Index.md' },
-                ];
-            })(),
         },
 
         histoires: {

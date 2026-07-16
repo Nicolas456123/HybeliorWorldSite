@@ -4,7 +4,6 @@ status: drafted
 last_review: 2026-05-12
 needs_review_for: []
 type: system-narrative
-implementation: "[[NPC Spec]]"
 ---
 
 # 🧍 Les PNJ — la présence comme contrat
@@ -151,4 +150,3 @@ C'est cela, un PNJ d'Hybelior. Pas un distributeur. Pas un service. **Un autre h
 
 *Liens narratifs : [[Le Souffle]] | [[L'Accord]] | [[Prédiction]] | [[Métiers]] | [[Cosmologie]] | [[Univers]]*
 
-*Implémentation technique (chiffres, archétypes, balance économique, mémoire de PNJ, IA) : [[NPC Spec]]*
