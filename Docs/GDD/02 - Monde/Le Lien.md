@@ -1,9 +1,9 @@
 ---
-tags: [magie, lien, voies, cosmologie, mécanique-centrale, résonance, narration]
+tags: [magie, lien, voies, cosmologie, résonance, narration]
 status: drafted
 last_review: 2026-05-12
 needs_review_for: []
-type: mechanic-narrative
+type: cosmologie
 ---
 
 # 🔮 Le Lien — la magie comme résonance
@@ -203,7 +203,7 @@ Pour cela, ils rompent. Délibérément, méthodiquement, ils défont leur Lien 
 
 Et cela marche. Il faut le dire honnêtement : les Déliés deviennent puissants. Plus puissants, dans certains contextes immédiats, qu'un Lié de niveau comparable. Leur force est plus directe, leur efficacité plus prévisible, leur autonomie complète. Ils ne dépendent ni de leur Voie ni de leur Ère — ce qui, du point de vue d'un guerrier solitaire, est un avantage considérable.
 
-Mais ce qu'ils gagnent en puissance, ils le paient en **présence**. Le monde, peu à peu, cesse de les reconnaître. Les PNJ religieux les évitent. Les Concordants ne les voient plus. Les Souffles passent sur eux sans les toucher — ce qu'ils prennent pour une force est en réalité un signe que **la Polyphonie ne les inclut plus**. Les vieux Maîtres disent qu'à terme, un Délié ancien finit par disparaître non pas en mourant, mais en *devenant inaudible*. Le monde continue, et lui ne fait plus partie de sa conversation.
+Mais ce qu'ils gagnent en puissance, ils le paient en **présence**. Le monde, peu à peu, cesse de les reconnaître. Les Concordants ne les voient plus. Les Souffles passent sur eux sans les toucher — ce qu'ils prennent pour une force est en réalité un signe que **la Polyphonie ne les inclut plus**. Les vieux Maîtres disent qu'à terme, un Délié ancien finit par disparaître non pas en mourant, mais en *devenant inaudible*. Le monde continue, et lui ne fait plus partie de sa conversation.
 
 Cette voie antagoniste est parfaitement ouverte. Ce n'est ni un piège ni une pénalité : c'est un **chemin philosophique alternatif**. Hybelior y croit autant qu'aux autres, parce qu'il y a des mortels qui rejettent, intimement, l'idée d'être un canal pour quoi que ce soit. À eux, le monde dit : *« très bien. Voici ta force. Garde-la. Elle est à toi seul. »* Et c'est ce *toi seul* qui est, à la fois, la victoire et la perte du Délié.
 

@@ -1,9 +1,9 @@
 ---
-tags: [souffle, cycle, cosmologie, mécanique-centrale, ères, polyphonie, narration]
+tags: [souffle, cycle, cosmologie, ères, polyphonie, narration]
 status: drafted
 last_review: 2026-05-12
 needs_review_for: []
-type: mechanic-narrative
+type: cosmologie
 ---
 
 # 🌬️ Le Souffle — la respiration du monde
@@ -74,7 +74,7 @@ C'est volontaire que la pulsation soit modeste. Si chaque cycle court bouleversa
 
 ### Le métronome cosmique mineur
 
-Hybelior tourne sur son axe à un rythme qui lui est propre. Un jour complet dure environ **soixante minutes de temps réel** — une heure mortelle pour une journée du monde, soit un **facteur 36** par rapport à notre temps. Cette compression n'est pas arbitraire : elle est la cadence qu'il faut pour qu'un passage moyen dans le monde traverse plusieurs phases — assez pour qu'on vive un coucher de soleil pendant qu'on chasse, qu'on attende l'aube assis près d'un feu, qu'on rentre en ville à la nuit tombée. Le mortel présent deux heures vit *deux jours* d'Hybelior. C'est suffisant pour que le ciel raconte quelque chose ; c'est court pour qu'aucun moment ne dure trop.
+Hybelior tourne sur son axe à un rythme qui lui est propre. Cette compression n'est pas arbitraire : elle est la cadence qu'il faut pour qu'un passage moyen dans le monde traverse plusieurs phases — assez pour qu'on vive un coucher de soleil pendant qu'on chasse, qu'on attende l'aube assis près d'un feu, qu'on rentre en ville à la nuit tombée. C'est suffisant pour que le ciel raconte quelque chose ; c'est court pour qu'aucun moment ne dure trop.
 
 Les astronomes du monde — ceux de l'observatoire d'Astravia, les chamanes des continents glacés, les moines compteurs de l'Ordo Caelum — ont mesuré le ciel avec précision. La déclinaison du soleil, sa course inclinée selon la latitude, la lune et ses **vingt-neuf jours et demi** de cycle synodique, ses huit phases nommées par toutes les traditions du monde : tout cela existe, tout cela tourne, tout cela influence.
 
@@ -96,7 +96,7 @@ Les astronomes du monde — ceux de l'observatoire d'Astravia, les chamanes des 
 
 ### Ce que la pulsation change, ce qu'elle laisse intact
 
-Le cycle court ne touche pas aux fondations. Tes Maîtrises, ton Accord, tes statistiques, ta puissance brute — tout cela ne dépend pas de l'heure. Un guerrier reste un guerrier à minuit comme à midi. Une Voie ne se tarit pas parce que le soleil se couche.
+Le cycle court ne touche pas aux fondations. Tes Maîtrises, ton Accord, ta puissance brute — tout cela ne dépend pas de l'heure. Un guerrier reste un guerrier à minuit comme à midi. Une Voie ne se tarit pas parce que le soleil se couche.
 
 Mais autour de cette colonne stable, **tout vibre légèrement**. La **visibilité** d'abord : la nuit profonde porte des distances plus courtes, des silhouettes incertaines, une dépendance accrue aux torches et aux yeux entraînés. Les éclaireurs et les Liés aux Voies nocturnes y voient mieux que les autres ; les guerriers en armure lourde y sont plus vulnérables aux embuscades. Le **comportement des habitants** ensuite : les marchands ferment boutique au crépuscule, certains ouvrent à nuit close, les patrouilles changent de tour, les ivrognes sortent, les enfants rentrent. Les **prix au marché** suivent — certains biens (huile de lampe, fruits frais, herbes nocturnes) varient de quelques pour cent selon l'heure, ce qui ne change pas une fortune mais récompense ceux qui observent. Les **créatures** enfin : certaines bêtes dorment quand d'autres s'éveillent, certaines régions sont fréquentables le jour et hostiles la nuit, certains événements rares ne se déclenchent qu'à une phase précise.
 
@@ -132,9 +132,9 @@ Le cycle court ne respire pas seul. Il se compose avec les **Saisons** — qui f
 
 À chaque passage, le Souffle pose deux gestes simultanés. Il **préserve** tout ce qui est mémoire et identité ; il **rend** ce qui est puissance brute. Cette distinction est, en soi, une déclaration philosophique.
 
-Tes **acquis matériels** — les éclats accumulés, les montures, les items en banque — ne disparaissent jamais. Tes **savoirs** — les recettes apprises, les conditions cachées trouvées, les fragments de lore exhumés — restent inscrits. Tes **titres et héritages** — Concordant, Maître d'une discipline, Voyageur des Souffles — sont gravés à vie. Ta **place sociale** — guilde, factions, karma, réseau — survit au Souffle, parce que le tissu humain ne se déchire pas avec les voix cosmiques. Tes **œuvres signées** — l'épée que tu as forgée et qui circule entre les mains des autres, le monument érigé après une victoire mémorable — gardent ton nom inscrit jusqu'à ce qu'elles tombent par leur propre histoire.
+Tes **savoirs** — les recettes apprises, les conditions cachées trouvées, les fragments de lore exhumés — restent inscrits. Tes **titres et héritages** — Concordant, Maître d'une discipline, Voyageur des Souffles — sont gravés à vie. Ta **place sociale** — guilde, factions, réseau — survit au Souffle, parce que le tissu humain ne se déchire pas avec les voix cosmiques. Tes **œuvres signées** — l'épée que tu as forgée et qui circule entre les mains des autres, le monument érigé après une victoire mémorable — gardent ton nom inscrit jusqu'à ce qu'elles tombent par leur propre histoire.
 
-Mais ta **capacité brute à dominer la saison qui s'ouvre**, elle, est partiellement remise en jeu. Pendant quelques jours, tes outils familiers te sembleront étrangers — non parce qu'ils ont changé, mais parce que **toi**, désormais, vis dans un monde qui les valorise différemment. Tes Maîtrises subiront une **rouille** brève, une friction d'adaptation qui se dissipe par l'usage — comme si la main, après un long voyage, devait redécouvrir le poids exact de sa lame. Tes objets de plus haut degré perdront temporairement un peu de leur éclat, le temps que leurs vertus retrouvent leur place dans la nouvelle composition cosmique.
+Mais ta **capacité brute à dominer la saison qui s'ouvre**, elle, est partiellement remise en jeu. Pendant quelques jours, tes outils familiers te sembleront étrangers — non parce qu'ils ont changé, mais parce que **toi**, désormais, vis dans un monde qui les valorise différemment. Tes Maîtrises subiront une **rouille** brève, une friction d'adaptation qui se dissipe par l'usage — comme si la main, après un long voyage, devait redécouvrir le poids exact de sa lame.
 
 Et ton **Accord** — ta résonance avec le monde présent — ne s'effondre pas, mais il **dérive**. Selon que la nouvelle Ère ressemble à l'ancienne ou s'en éloigne, tu sens, sur quelques jours ou quelques semaines, que tes pratiques résonnent encore, ou qu'elles font écho dans le vide. Rien n'est instantané. Le monde te laisse le temps de comprendre ce qui a changé.
 

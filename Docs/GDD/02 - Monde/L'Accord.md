@@ -1,9 +1,9 @@
 ---
-tags: [accord, progression, ère, métrique-centrale, héritage, narration]
+tags: [accord, ère, héritage, narration]
 status: drafted
 last_review: 2026-05-12
 needs_review_for: []
-type: mechanic-narrative
+type: cosmologie
 ---
 
 # 🎵 L'Accord — la résonance avec le monde
@@ -18,7 +18,7 @@ type: mechanic-narrative
 
 L'Accord part d'un constat presque musical : dans la plupart des mondes habités, on confond **être ancien** et **être au diapason**. Un vétéran qui n'a pas arpenté depuis six mois croit avoir des droits ; un nouveau-venu qui passe ses soirées à comprendre l'Ère active mérite-t-il moins ? Hybelior tranche : ce qui compte, c'est ta **résonance** avec le monde tel qu'il est maintenant, pas le poids de ce que tu as fait avant.
 
-D'où la métaphore : tu ne *montes* pas un niveau, tu **t'accordes** à une Ère. Le monde joue une partition différente à chaque saison cosmique ; ton rôle est de l'écouter, de cultiver les pratiques qui résonnent avec elle, et de le faire avec sincérité — parce que personne ne reste accordé en faisant le minimum syndical. Quand le [[Le Souffle|Souffle]] change la partition, tu ne perds pas ce que tu sais : tu apprends à jouer autre chose. Ton Héritage — titres, œuvres, monuments, disciples — reste comme la signature d'un musicien qui a déjà accompagné plusieurs orchestres. Mais sur la scène présente, tu dois t'accorder comme tout le monde.
+D'où la métaphore : tu **t'accordes** à une Ère. Le monde joue une partition différente à chaque saison cosmique ; ton rôle est de l'écouter, de cultiver les pratiques qui résonnent avec elle, et de le faire avec sincérité — parce que personne ne reste accordé en faisant le minimum syndical. Quand le [[Le Souffle|Souffle]] change la partition, tu ne perds pas ce que tu sais : tu apprends à jouer autre chose. Ton Héritage — titres, œuvres, monuments, disciples — reste comme la signature d'un musicien qui a déjà accompagné plusieurs orchestres. Mais sur la scène présente, tu dois t'accorder comme tout le monde.
 
 C'est cette idée — **alignement plutôt qu'accumulation** — qui justifie tout ce qui suit. L'Accord n'est pas une force qui croît, une expérience qui s'épaissit ; c'est une mesure d'écoute. Le monde demande : *est-ce que ce que tu cultives en ce moment fait écho à ce que je joue ?* Et selon ta réponse, il te porte ou il te résiste — sans humiliation, simplement avec la justesse d'un orchestre qui sent qui suit la mesure.
 
@@ -58,7 +58,7 @@ Et parce qu'aucune Ère ne ressemble à la précédente, s'accorder n'est jamais
 
 À chaque Souffle, l'Accord pose le même geste double que le Souffle lui-même : il **préserve** ce qui est mémoire et identité, il **rend** ce qui est puissance brute. Cette distinction est, en soi, une déclaration philosophique.
 
-Tes acquis matériels — éclats, montures, items en banque — ne disparaissent jamais. Tes savoirs — recettes apprises, conditions cachées découvertes, lore exhumé — restent inscrits. Tes titres et tes héritages — Concordant d'une Ère donnée, Maître d'une discipline, Voyageur des Souffles — sont gravés à vie. Ta place sociale — guilde, factions, réseau, disciples — survit au Souffle, parce que le tissu humain ne se déchire pas avec les voix cosmiques. Tes œuvres signées — l'épée que tu as forgée et qui circule, le monument érigé après une victoire mémorable — gardent ton nom inscrit jusqu'à ce qu'elles tombent par leur propre histoire.
+Tes savoirs — recettes apprises, conditions cachées découvertes, lore exhumé — restent inscrits. Tes titres et tes héritages — Concordant d'une Ère donnée, Maître d'une discipline, Voyageur des Souffles — sont gravés à vie. Ta place sociale — guilde, factions, réseau, disciples — survit au Souffle, parce que le tissu humain ne se déchire pas avec les voix cosmiques. Tes œuvres signées — l'épée que tu as forgée et qui circule, le monument érigé après une victoire mémorable — gardent ton nom inscrit jusqu'à ce qu'elles tombent par leur propre histoire.
 
 Mais ta capacité brute à dominer la saison qui s'ouvre, elle, est partiellement remise en jeu. Pendant quelques jours, tes outils familiers te sembleront étrangers — non parce qu'ils ont changé, mais parce que toi, désormais, vis dans un monde qui les valorise différemment. Et ton Accord — ta résonance avec le monde présent — ne s'effondre pas, mais il **dérive**. Selon que la nouvelle Ère ressemble à l'ancienne ou s'en éloigne, tu sens, sur quelques jours ou quelques semaines, que tes pratiques résonnent encore, ou qu'elles font écho dans le vide. Rien n'est instantané. Le monde te laisse le temps de comprendre ce qui a changé.
 
@@ -96,7 +96,7 @@ Néris a découvert Hybelior tard. Quand elle a posé son premier pas dans le mo
 
 ### Théo, fidèle aux heures comptées
 
-Théo passe une heure par soir, parfois moins, dans le monde. Il n'a Concordé aucune Ère et n'a pas l'intention d'y consacrer ce qu'il faudrait pour. Mais il connaît son cercle, il échange avec sa guilde, il rate les boss mondiaux et s'en moque. Son Accord oscille au milieu — assez pour ne pas être laissé sur le bord, jamais assez pour rejoindre le sommet. Et c'est très bien. Il a, dans Hybelior, exactement la place qu'il veut y avoir. Le monde ne lui dit pas qu'il est en retard. Il lui dit, à chaque saison, *« tu es là, je te vois, va à ton rythme »*. Et tant que cela suffit à Théo, cela suffit à Hybelior.
+Théo passe une heure par soir, parfois moins, dans le monde. Il n'a Concordé aucune Ère et n'a pas l'intention d'y consacrer ce qu'il faudrait pour. Mais il connaît son cercle, il échange avec sa guilde. Son Accord oscille au milieu — assez pour ne pas être laissé sur le bord, jamais assez pour rejoindre le sommet. Et c'est très bien. Il a, dans Hybelior, exactement la place qu'il veut y avoir. Le monde ne lui dit pas qu'il est en retard. Il lui dit, à chaque saison, *« tu es là, je te vois, va à ton rythme »*. Et tant que cela suffit à Théo, cela suffit à Hybelior.
 
 Ces trois trajectoires ne sont pas en compétition. Aldric a un Héritage que Néris n'a pas encore ; Néris a une faim de l'Ère présente qu'Aldric n'a plus tout à fait ; Théo a une **paix** que les deux autres lui envient parfois. Aucun n'écrase les autres. Aucun n'est en retard. Le monde leur joue, à tous trois, la même partition — et ils répondent à leur manière.
 

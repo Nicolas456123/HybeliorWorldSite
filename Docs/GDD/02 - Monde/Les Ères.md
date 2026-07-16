@@ -3,7 +3,7 @@ tags: [ères, saisons-cosmiques, monde, polyphonie, narration, cosmologie]
 status: drafted
 last_review: 2026-05-12
 needs_review_for: []
-type: mechanic-narrative
+type: cosmologie
 ---
 
 # 🌌 Les Ères — saisons cosmiques d'Hybelior
@@ -90,7 +90,7 @@ Le **Bouleversement**, c'est quand le monde se renverse : les vents soufflent à
 
 ### L'humeur des peuples
 
-Mais une Ère n'est pas qu'un état du monde non-humain. C'est aussi **une humeur des peuples**. Selon les Ères, les hommes sont sereins, ou méfiants, ou en pleine ferveur religieuse, ou saisis d'effroi face à des phénomènes qui les dépassent, ou traversés par cette curiosité fébrile qui pousse aux grands voyages. Cette humeur n'est pas un décor ; elle est ce qui fait que la même quête, donnée par le même PNJ, ne sonne pas pareil selon l'Ère où on la reçoit. C'est dans les regards des hommes que l'Ère se lit, autant que dans les couleurs du ciel.
+Mais une Ère n'est pas qu'un état du monde non-humain. C'est aussi **une humeur des peuples**. Selon les Ères, les hommes sont sereins, ou méfiants, ou en pleine ferveur religieuse, ou saisis d'effroi face à des phénomènes qui les dépassent, ou traversés par cette curiosité fébrile qui pousse aux grands voyages. Cette humeur n'est pas un décor ; elle est ce qui fait que la même quête ne sonne pas pareil selon l'Ère où on la reçoit. C'est dans les regards des hommes que l'Ère se lit, autant que dans les couleurs du ciel.
 
 ### La tension cosmique
 
