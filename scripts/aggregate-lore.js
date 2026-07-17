@@ -26,6 +26,10 @@ const OUT = path.join(__dirname, '..', 'data', 'lore-extracted.json');
 
 // Ordre de fusion : événements/chronologie avant les lots de rois.
 const ORDER = [
+  // _baseline = snapshot du graphe déjà sur main (data/lore-extracted.json au
+  // moment du sweep). En tête ⇒ ses résumés canoniques gagnent le dédup et la
+  // nouvelle base est garantie ⊇ la base courante (aucune régression).
+  '_baseline',
   'concepts', 'religions', 'lineages', 'characters', 'divinities',
   'events', 'chronologie', 'vies', 'objets',
   'rulers-A', 'rulers-B', 'rulers-C', 'rulers-D',
@@ -42,13 +46,19 @@ const DEEP_TIME = 300; // |année| > 300 ⇒ datation absolue conservée
 // Découverte : tous les *.json du dossier (hors artefacts), triés selon ORDER
 // puis alphabétiquement pour les nouveaux lots. L'ordre place les sources
 // datées canoniques avant les doublons narratifs (la version datée gagne au dédup).
-const DENYLIST = new Set(['lore-extracted', '.lore-aggregate-report']);
+const DENYLIST = new Set(['lore-extracted', '.lore-aggregate-report', '_notes-sweep']);
 const discovered = fs.readdirSync(DIR)
   .filter((f) => f.endsWith('.json'))
   .map((f) => f.replace(/\.json$/, ''))
   .filter((n) => !DENYLIST.has(n));
 const rank = (n) => { const i = ORDER.indexOf(n); return i === -1 ? ORDER.length : i; };
 const BATCHES = discovered.sort((a, b) => (rank(a) - rank(b)) || a.localeCompare(b));
+
+// Règles de canon auto-appliquées : entités que le Canon interdit de matérialiser.
+// Flamara — « rumeur populaire, pas au canon ; ne pas lui donner de rang d'entité »
+// (voir Docs/Lore/Canon — décisions et mystères protégés). Ses mentions en bouche
+// de personnages restent conformes, mais elle ne doit pas exister comme entité.
+const CANON_ENTITY_DENY = new Set(['flamara']);
 
 const norm = (s) => String(s == null ? '' : s).replace(/[’‘]/g, "'").trim();
 const eKey = (e) => `${e.type}|${norm(e.name)}`;
@@ -72,6 +82,11 @@ for (const name of BATCHES) {
   let ne = 0, nr = 0, nf = 0;
 
   for (const e of (data.entities || [])) {
+    if (CANON_ENTITY_DENY.has(norm(e.name).toLowerCase())) {
+      report.canonDropped = report.canonDropped || [];
+      report.canonDropped.push({ name: e.name, type: e.type, batch: name });
+      continue;
+    }
     const k = eKey(e);
     if (eSeen.has(k)) {
       report.entityCollisions.push({ key: k, kept: eSeen.get(k), dropped: name });
@@ -83,6 +98,7 @@ for (const name of BATCHES) {
   }
 
   for (const r of (data.relations || [])) {
+    if (CANON_ENTITY_DENY.has(norm(r.from).toLowerCase()) || CANON_ENTITY_DENY.has(norm(r.to).toLowerCase())) continue;
     const k = rKey(r);
     if (rSeen.has(k)) { report.relDup++; continue; }
     rSeen.add(k);
@@ -91,6 +107,7 @@ for (const name of BATCHES) {
   }
 
   for (const f of (data.facts || [])) {
+    if (CANON_ENTITY_DENY.has(norm(f.subject).toLowerCase())) continue;
     const fact = {
       fact_type: f.fact_type,
       subject: f.subject,
@@ -159,6 +176,10 @@ for (const [b, v] of Object.entries(report.batches)) console.log(' ', b.padEnd(1
 console.log('Totaux    :', out._meta.totals);
 console.log('Dates filtrées (rois, |an|<=300 -> null):', report.dateFiltered);
 console.log('Relations dupliquées ignorées:', report.relDup, '| Faits dupliqués ignorés:', report.factDup);
+if (report.canonDropped && report.canonDropped.length) {
+  console.log('Entités écartées par règle de canon :', report.canonDropped.length);
+  for (const c of report.canonDropped) console.log(`    ${c.type} « ${c.name} » (lot ${c.batch}) — interdit par le Canon`);
+}
 if (report.orphanEvents.length) {
   console.log('Événements orphelins récupérés :', report.orphanEvents.length);
   for (const o of report.orphanEvents) console.log('    "' + o.subject + '" ->', o.resolvedTo);
