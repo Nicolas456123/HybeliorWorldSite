@@ -219,6 +219,28 @@ function truncate(s, n) { if (!s) return null; return s.length > n ? s.slice(0, 
     }
   }
 
+  // ── Géographie : lieux depuis la sauvegarde des données carte ─────────
+  // Nom + échelle + coordonnées. Le rattachement continent/nation (situe-dans)
+  // est laissé de côté : il exige les polygones de frontières (Turso de prod)
+  // ou une assignation dans l'Atelier — le déduire des seules coordonnées
+  // serait faux (continents mal séparés, noms divergents). À faire ensuite.
+  let geo = null;
+  try { geo = require('../local-db.backup-20260503.json'); } catch { geo = null; }
+  if (geo) {
+    const arr = Array.isArray(geo) ? geo : Object.values(geo);
+    const scaleOf = { capitalesElements: 'cite', citesElements: 'cite', villesElements: 'ville', villagesElements: 'bourg', regionElements: 'region' };
+    counts.geo = { created: 0, reused: 0 };
+    for (const p of arr) {
+      const echelle = scaleOf[p.storage];
+      if (!echelle || !p.name) continue;
+      if (index.has(keyOf('lieu', p.name))) { counts.geo.reused++; continue; }
+      const data = { echelle, coord_x: p.coord_x, coord_y: p.coord_y };
+      if (p.storage === 'capitalesElements') data.capitale = true;
+      ensure('lieu', p.name, { data });
+      counts.geo.created++;
+    }
+  }
+
   counts.religions = [...index.keys()].filter(k => k.startsWith('religion|')).length;
   counts.oeuvres = [...index.keys()].filter(k => k.startsWith('oeuvre|')).length;
 
