@@ -103,15 +103,13 @@ Leur royaume est nommé dans le **libellé** (ex. « Thane d'Astraneth (Valoria)
 
 ---
 
-## 6. Géographie sans rattachement — 651 lieux, aucun `situe-dans`
+## 6. Géographie — rattachement `situe-dans` en grande partie comblé
 
-**Statut : ouvert (chantier assumé).**
+**Statut : largement résolu par le balayage (reste un tail).**
 
-Les **633** lieux importés depuis la sauvegarde carte (plus les 13 continents et quelques capitales : **651** `lieu` au total) n'ont **aucune** relation `situe-dans` : on connaît leur nom, leur échelle (cité/ville/bourg/région) et leurs coordonnées, mais **pas** leur continent ni leur nation de rattachement.
+Les lieux importés de la sauvegarde carte n'avaient **aucune** relation `situe-dans`. Le **balayage des fiches Pays** (un agent par continent) a rattaché la géographie via les fiches elles-mêmes (chaque nation → son continent, chaque cité/village → sa nation) : **326 lieux existants** ont été reliés à leur nation/continent (`geo.reused` = 326) et l'ensemble porte désormais **~1000 relations `situe-dans`**.
 
-Le rattachement a été volontairement laissé de côté (cf. `scripts/migrate-kg.js`) : le déduire des seules coordonnées serait **faux** (les continents ne sont pas séparés par des polygones fiables, et l'heuristique « continent le plus proche » biaisait tout vers Galenor). 
-
-**Résolution suggérée.** Rattacher via de vrais **polygones de frontières** (magasin Turso de prod) ou par **assignation manuelle** dans l'Atelier. Tant que ce n'est pas fait, la carte du graphe et les fiches « lieux d'un continent » restent incomplètes.
+**Reste ouvert :** les lieux de la sauvegarde carte **non nommés** dans une fiche Pays restent orphelins (tail de villages mineurs) ; leur rattachement fin demandera de vrais **polygones de frontières** (Turso de prod) ou une assignation dans l'Atelier. Quelques conflits de rattachement sont aussi remontés en note (ex. *Iskara* rattachée à *Endora* dans la base Access d'origine mais à *Alkaran* dans les fiches — cf. §9).
 
 ---
 
@@ -138,11 +136,39 @@ Un même événement/personnage peut être nommé **différemment** d'une fiche 
 
 ---
 
+## 9. Constats du balayage exhaustif du corpus (380 notes d'agents)
+
+**Statut : matière brute à trier.** En balayant tout le corpus (Pays, Religions, Chronologie, GDD/Monde, Chroniques, Romans, puis Histoires continent par continent), les ~30 agents d'extraction ont remonté **380 notes d'incohérence**, versées telles quelles dans **`data/lore-notes.json`** (source, texte). Répartition approximative :
+
+| Thème | ~n | Nature |
+|---|---|---|
+| **Homonymies / variantes de noms** | 116 | un même nom pour deux référents, ou un référent orthographié différemment selon les fiches |
+| **Datation (trois calendriers)** | 84 | confirme le §1 — dates locales/du Sillage vs ap.A absolu, mêlées sans tag |
+| **Rattachement géographique** | 69 | complète le §6 — nation/région d'un lieu ambiguë ou contradictoire |
+| **Mystères laissés ouverts** | 45 | **normal** — les agents ont *correctement* refusé de trancher (Profondeur Première, sort d'Aldric Valthen…) ; à ne pas « résoudre » |
+| **Continents (12 vs 13)** | 41 | recoupe le §2 |
+| **Successions** | 6 | trous/chevauchements dans des listes de règnes |
+
+Cas concrets à traiter en priorité (échantillon) :
+
+- **Doublon de religion** : le graphe porte **« Taciti »** ET **« Les Silencieux (Taciti) »** comme deux religions distinctes — à fusionner.
+- **Nom écrit de trois façons** : *« No Man's Land Azoria » / « No Man's Land d'Azoria » / « No-Man's-Land azorien »* — à canoniser (+ alias).
+- **Variantes de dirigeants** : *« Nareth la Sage » = « Grande Chamane Nareth »*, *« Nymera » / « Nyméra »*, *« Yrelda la Forgée » = « Yrelda… »* — candidats alias.
+- **Homonymies proches** à surveiller : *Kaeloria* (ville d'Iskara) vs *Caeloria* (nation) ; *Thalorin* (ville **et** prince héritier de Haldria) ; *Karendis*, *Pyrevane*, *Thyros* (chacun désigne à la fois un lieu et une personne/titre).
+- **Rattachement contradictoire** : *Iskara* rattachée à *Endora* dans la base Access d'origine, à *Alkaran* dans les fiches (idem *Myrtam/Skaldoria*).
+- **Double « Défense de la Porte de Fer »** : deux datations concurrentes (~8790 ap.A vs autre) — à réconcilier.
+- **Statut de divinité sectaire** : *Ferros* (« Forgeron Légendaire, rang Céleste ») est une **croyance des Filii Fornacis**, pas le panthéon canonique — à marquer `lecture-disputee` plutôt que fait (idem plusieurs Célestes/divinités locales ajoutés par les fiches religieuses).
+
+**Résolution suggérée.** Trier `data/lore-notes.json` en trois piles : (a) **alias** à créer (variantes de noms) ; (b) **fusions** d'entités (vrais doublons) ; (c) **arbitrages d'auteur** (continents, calendriers, statut des divinités locales). Les mystères (thème « ouverts ») restent **hors périmètre** — on n'y touche pas.
+
+---
+
 ## Annexe — d'où viennent ces constats
 
+- Notes brutes du balayage : **`data/lore-notes.json`** (380 entrées `{ source, note }`, versionné).
 - Rapport d'agrégation régénérable : `data/.lore-aggregate-report.json` (produit par `node scripts/aggregate-lore.js`, non versionné).
-- Rapport de cohérence du graphe : projection *Cohérence* de l'Atelier (`getConsistencyReport`) — **0 erreur** actuellement (les points ci-dessus sont des **trous** ou des **arbitrages**, pas des ruptures d'intégrité référentielle).
-- Base de vérité : `data/kg-base.json` — **1 097** entités, 248 faits, 202 relations au dernier import.
+- Rapport de cohérence du graphe : projection *Cohérence* de l'Atelier (`getConsistencyReport`) — **0 erreur** (les points ci-dessus sont des **trous**, **doublons** ou **arbitrages**, pas des ruptures d'intégrité référentielle).
+- Base de vérité : `data/kg-base.json` — **2 734** entités, 1 097 faits, 3 246 relations au dernier import (contre 1 097 entités avant le balayage).
 
 ## Renvois
 

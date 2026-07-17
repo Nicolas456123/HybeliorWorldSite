@@ -1,0 +1,1522 @@
+[
+  {
+    "src": "pays-Alkaran",
+    "note": "Les dates locales des fiches Alkaran (an 58, an 80, an 92, +249, +250, an 252) relèvent d'un calendrier local (« du Sillage »), non de l'ère cosmologique ap.A (Arrachement = An 0) ; rulers-D.json les enregistre pourtant comme années absolues, ce qui risque un télescopage avec la chronologie cosmologique — d'où les années laissées à null ici."
+  },
+  {
+    "src": "pays-Alkaran",
+    "note": "Double « Défense de la Porte de Fer » : events.json en place une à ~8790-8820 ap.A (roi-ingénieur Aldren IV du Protectorat des Passes, modèle légué au futur Altram), alors que la fiche Iskara en fait l'épisode fondateur iskaran sous la reine Yrelda ; la fiche Zyndaris réconcilie en précisant qu'Yrelda emprunta sciemment le nom à une défense légendaire du vieux continent « plus de mille ans antérieure »."
+  },
+  {
+    "src": "pays-Alkaran",
+    "note": "La note V3.4 (fiche continent) signale qu'à l'origine (base Access) Iskara était rattachée au continent Endora, et Myrtam/Skaldoria à Alkaran ; la refonte a relocalisé Iskara→Alkaran, Myrtam→Onara, Skaldoria→Ulinor, rendant les relations Altram–Myrtam et Altram–Skaldoria désormais inter-continentales."
+  },
+  {
+    "src": "pays-Alkaran",
+    "note": "Ferrath est la seule nation alkarane au statut de fiche 'drafted' (les trois autres sont 'canon') et sans numéro de Pays.csv ; elle n'a de plus aucune capitale officielle — Vythoris n'est qu'un centre informel — ce qui la met à l'écart du schéma « une capitale par nation »."
+  },
+  {
+    "src": "pays-Alkaran",
+    "note": "Torkam présente deux « capitales » : Olkanor, cuvette de rassemblement biannuel dite « Capitale (temporaire) », et Olkanoris, « Capitale permanente » et résidence du Grand Cham ; seule Olkanoris est retenue ici via capitale-de."
+  },
+  {
+    "src": "pays-Alkaran",
+    "note": "Variantes de noms entre fiches : « Nareth la Sage » (rulers) = « Grande Chamane Nareth » (fiches Torkam/continent) ; « Yrelda la Forgée » (rulers) = « la reine Yrelda » (fiche Iskara)."
+  },
+  {
+    "src": "pays-Alkaran",
+    "note": "Homonymies proches à surveiller : Kaeloria (ville souterraine d'Iskara) vs Caeloria (nation ailleurs, et Caelorn, oasis de Torkam) ; le prénom Aldric/Aldren se répète d'une nation à l'autre (Aldric le Bâtisseur d'Iskara ; Aldric II et Aldric IV d'Altram)."
+  },
+  {
+    "src": "pays-Alkaran",
+    "note": "Les fiches organisent les localités par régions internes (Glintar, Lushara, Helionar, Ysolia ; Martelios, Sorel Tiam, Liannor, Torian, Taloram, Yaltar ; Olkanir, Jalkanor, Qythros, Zolkanor, Myrthal ; Vorra, Hautes-Pierres, Profonds, Sourd-Bois, Lac-de-Vyrn), non modélisées ici comme entités : conformément à la consigne, chaque localité est rattachée directement à sa nation (la région figure dans data.region)."
+  },
+  {
+    "src": "pays-Alkaran",
+    "note": "La fiche Ferrath date la codification des Décrétistes à « ~9 250 ap.A » (échelle cosmologique explicite) tout en datant ses propres événements en « an 58 / +249 / an 252 » (calendrier local) : deux échelles temporelles coexistent dans une même fiche."
+  },
+  {
+    "src": "pays-Alkaran",
+    "note": "Tension religieuse inter-continentale relevée mais non modélisée en relation : les Vael'Kari de Ferrath et les Décrétistes de Gryndor (Ilthara) se jugent mutuellement, tout en reconnaissant les Cavernes de l'Écoute ferrathines comme lieu d'initiation commun."
+  },
+  {
+    "src": "pays-Alkaran",
+    "note": "Ferros, « Forgeron Légendaire (rang Céleste) » vénéré par les Filii Fornacis comme architecte du monde, est introduit ici comme divinité ; son « rang Céleste » est à confronter à la règle GDD selon laquelle un Céleste n'est jamais un mortel élevé (ambiguïté figure déifiée vs entité native)."
+  },
+  {
+    "src": "pays-Azoria",
+    "note": "Deux calendriers coexistent : les fiches d'Azoria comptent en 'an X / du Sillage' (présent vers l'an 251, années négatives possibles comme '-312 du Sillage'), non aligné sur l'axe global ap.A dont l'ère courante avoisine 10150 ; rulers-C.json a déjà placé ces années locales (28, 89, 132, 156, 201, 246...) comme des dates absolues ap.A, conflation déjà documentée."
+  },
+  {
+    "src": "pays-Azoria",
+    "note": "Dans Caeloria.md, les pétitions contre l'Édit sont datées à l'échelle globale à cinq chiffres (an 9 712, 10 028, 10 156) tandis que les événements contemporains (Thandric an 244, Yeux Blancs an 247) emploient l'échelle locale à deux ou trois chiffres — les deux calendriers apparaissent dans une même fiche."
+  },
+  {
+    "src": "pays-Azoria",
+    "note": "Bilan de l'éruption de Velkmis : Solmaris.md ne mentionne que 'trois cents survivants', alors que l'entrée 'Éruption de Velkmis' de rulers-C.json ajoute '682 morts' — chiffre absent des fiches sources d'Azoria."
+  },
+  {
+    "src": "pays-Azoria",
+    "note": "La même entité politique est écrite de trois façons : 'No Man's Land Azoria' (lien wiki et région), 'No Man's Land d'Azoria' (titre de la fiche) et 'No Man's Land' (tables de relations)."
+  },
+  {
+    "src": "pays-Azoria",
+    "note": "Plusieurs sièges de Capitainerie d'Azoral (Hjorvik, Sterevor, Skraal, Tamarvik) sont étiquetés 'Village' dans leurs sections alors qu'ils portent une Capitainerie et siègent au Conseil de Bord — tension de classification entre statut politique et taille."
+  },
+  {
+    "src": "pays-Azoria",
+    "note": "La religion officielle du No Man's Land est déclarée 'Aucune', mais la fiche documente une présence Aqua Nigra clandestine, des vestiges Via Ventus (Tarnora, Fyloria) et des fragments Vael'Kurash côtiers — d'où une relation lie-a plutôt que pratique."
+  },
+  {
+    "src": "pays-Baelor",
+    "note": "Chronologie de fondation contradictoire : le graphe date Baelor-Prime de -15000 (« Cité de Baelorn », Ère III) et « La Fondation de Baelor (Les Naufragés du Silence) » de -4750 (avant l'Arrachement), alors que les fiches Pays présentent une théocratie monastique fondée par des naufragés et « inchangée depuis quatre siècles » — trois horizons de fondation incompatibles."
+  },
+  {
+    "src": "pays-Baelor",
+    "note": "Doublon d'entité religion : le graphe contient à la fois « Taciti » et « Les Silencieux (Taciti) » comme religions distinctes ; Baelor-Prime était relié à « Les Silencieux (Taciti) » tandis que la structure schisme-de/venere est portée par « Taciti » — à fusionner."
+  },
+  {
+    "src": "pays-Baelor",
+    "note": "Lacune corrigée : Somnium Vigil est la religion PRINCIPALE de Baelor selon la fiche, mais le graphe ne reliait Baelor-Prime qu'aux Silencieux (Taciti), Somnium Vigil n'étant pas relié."
+  },
+  {
+    "src": "pays-Baelor",
+    "note": "Écart de catégorisation : le graphe classe Baelor-Prime en « cité-état isolationniste » (alias), alors que la fiche continent le présente comme l'unique « nation » du continent (théocratie monastique)."
+  },
+  {
+    "src": "pays-Baelor",
+    "note": "Homonymie à ne pas confondre : « La Première Veillée » du graphe est rattachée à « fin de l'an 0 / origine cultuelle de Solmaris » et n'a aucun lien avec « La Veille » ni les Veilleurs de Baelor malgré la proximité lexicale (Veille / Veillée / Veilleurs)."
+  },
+  {
+    "src": "pays-Baelor",
+    "note": "Calendrier : toutes les dates internes de Baelor (« an 89 », « an 234 ») sont « du Sillage » (comput local), non ap.A ; aucune date absolue ap.A/av.A n'apparaît dans les deux fiches, d'où l'absence d'années chiffrées dans les faits ci-dessus."
+  },
+  {
+    "src": "pays-Baelor",
+    "note": "Nom externe variable : la fiche écrit « Caeloria (Lunasar) » pour l'interlocuteur maritime de Baelor, alors que le graphe possède des entités distinctes « Caeloria » et « Lunasar » (plus une ville « Kaeloria ») — le référent exact reste à départager."
+  },
+  {
+    "src": "pays-Baelor",
+    "note": "Possible confusion : « Draven le Sanguinaire » (assaillant de Kethros) partage sa racine avec la ville « Dravenor » déjà présente au graphe, sans lien établi entre les deux."
+  },
+  {
+    "src": "pays-Celethor",
+    "note": "Capitale d'Astravia contradictoire : la fiche donne Invernis comme capitale, mais le graphe enregistre déjà 'Orivanel capitale-de Astravia' et une fondation en l'an -8000 (Sanctuaire d'Orivane) ; deux récits d'origine et deux capitales coexistent, non réconciliés."
+  },
+  {
+    "src": "pays-Celethor",
+    "note": "Collision Nysaria : la fiche décrit Nysaria comme une petite île au large de Celethor ('pas un continent'), capitale Nysoris, gouvernée par le Roi Sans Voix et le Cercle des Masques ; or le graphe modélise Nysaria comme un lieu echelle=continent contenant les entités-politiques Vytharia, Lunasar et Mirathi (que la fiche situe pourtant sur le continent Ilthara). J'ai volontairement NON ajouté 'Nysaria situe-dans Celethor' pour ne pas imbriquer un continent sous Celethor : à trancher par un humain."
+  },
+  {
+    "src": "pays-Celethor",
+    "note": "Typage hétérogène des nations de Celethor : Astravia est une entite-politique, Elarian est créée ici comme entite-politique, mais Ryldor est enregistré comme lieu echelle=region (et n'avait aucun rattachement situe-dans Celethor avant ce lot) ; les Terres Brisées sont modélisées en lieu region faute de gouvernement."
+  },
+  {
+    "src": "pays-Celethor",
+    "note": "Homonymie Veldris / Valdris / Veldris l'Ancien : le chaman ryldorien banni (Veldris, fonde Myralor en 230) diffère du sergent elarien Valdris (campement Valdris, Effacé en 213) et de 'Veldris l'Ancien' (Thane d'Ethrion, Astraneth) ; trois personnages distincts aux noms proches (relations a-ne-pas-confondre-avec ajoutées)."
+  },
+  {
+    "src": "pays-Celethor",
+    "note": "Homonymie Thyros : 'Thyros' désigne à la fois le Grand Chaman actuel de Ryldor (personne) et le bourg-école (lieu) ; la fiche laisse volontairement indécis lequel a nommé l'autre. La relation 'Thyros gouverne Ryldor' vise la personne."
+  },
+  {
+    "src": "pays-Celethor",
+    "note": "Homonymie Sera : le fondateur de l'École de Thyros est nommé 'Sera' (fiche Ryldor), homonyme possible de 'Sera de Celethor' (préceptrice, Cercle des Huit) ; aucun lien établi — non fusionnés, entité minime non créée."
+  },
+  {
+    "src": "pays-Celethor",
+    "note": "Le 'Fléau' dormant surveillé sous Ryldaris (contenu, non guéri, à pulsation qui s'accélère) n'est pas explicitement rattaché aux événements 'Le Fléau des Failles' ni 'Le Temps des Fièvres' du graphe ; lien non établi."
+  },
+  {
+    "src": "pays-Celethor",
+    "note": "L'Invasion Avortée : la fiche Nysaria attribue à Mosrack la perte de 'vingt navires' (plus la terreur de Tyndara), alors que le fait du graphe parle d'une 'flotte conjointe de quarante navires et huit mille hommes' ; chiffres possiblement complémentaires (Tyndara + Mosrack) mais non harmonisés."
+  },
+  {
+    "src": "pays-Celethor",
+    "note": "Calendrier : les fiches datent en 'an N' (78, 213, 230, 247, 251, 252) sans suffixe ap.A/av.A ; interprétés ici comme années absolues ap.A (An 0 = l'Arrachement), faute d'indication contraire. Le règne du Roi Sans Voix, mesuré selon une métrique nysarienne non déchiffrée, est laissé sans année."
+  },
+  {
+    "src": "pays-Celethor",
+    "note": "Le 'Roi des Ruines' (Terres Brisées) — figure rapportée sous ce seul nom qui chercherait à fédérer les pôles du no man's land — est laissé hors du graphe : rumeur convergente mais non vérifiée, sans témoignage direct. La 'civilisation effacée' (effacement délibéré, cité enfouie sous Nomiris) est de même gardée au conditionnel, non tranchée."
+  },
+  {
+    "src": "pays-Cendara",
+    "note": "Nom du dieu du feu incohérent : la fiche continent parle du « panthéon Eldoria/Flamara », Taldre attribue Flamara au culte d'Arkhen et Eldoria à Pyrevane, tandis que les fiches Brumaria/Pyrevane/Arkhen n'emploient qu'Eldoria — identité ou distinction Flamara/Eldoria jamais tranchée."
+  },
+  {
+    "src": "pays-Cendara",
+    "note": "Homonymie « Délié » : le terme cosmologique « Délié » (non-Lié stigmatisé) et les « Délies de la Flamme » (courant dissident de l'Ignis Aeternum en Cendara) sont des notions distinctes malgré la quasi-homonymie."
+  },
+  {
+    "src": "pays-Cendara",
+    "note": "Calendrier « Sillage » ambigu : les fiches emploient tantôt « an Sillage X » tantôt « an X » (ex. « an Sillage 70 » puis « an 240 » dans la même phrase) sans expliciter si l'année du Sillage équivaut à l'année ap.A (An 0 = l'Arrachement) ; les années locales (90 à 252) n'ont donc pas été converties en dates absolues."
+  },
+  {
+    "src": "pays-Cendara",
+    "note": "Homonymie « Karendis » : désigne à la fois un village pyrevanien, le premier Maître Khalor (Karendis I) et le titulaire actuel Karendis IX (Tael), chaque Maître de Pyrevane-Mère reprenant ce nom."
+  },
+  {
+    "src": "pays-Cendara",
+    "note": "Homonymie « Pyrevane » : nom de la nation (théocratie) et de « Pyrevane-Mère » (à la fois la caldera centrale, la capitale et la Forge-Temple) — nation et capitale à ne pas confondre."
+  },
+  {
+    "src": "pays-Cendara",
+    "note": "Rattachement national de Taldre non tranché : le front-matter porte needs_review_for: rattachement-national-Arkhen-vs-Brumaria, et la fiche évoque les cultes d'Arkhen ET de Pyrevane sans dire de quelle nation relève le bourg — rattaché ici au seul continent Cendara."
+  },
+  {
+    "src": "pays-Cendara",
+    "note": "Territoire contesté : Ilnara est juridiquement arkhenienne (gérée depuis Khoram) mais comptée par Brumaria comme sa 7e région « Meliflore » (théologique/cérémonielle), sans impôt ni garnison ; Lorenthia est le point de friction."
+  },
+  {
+    "src": "pays-Cendara",
+    "note": "Renommage : Brumaria = ancien « Cendara-Royaume »/« Cendara-du-Roi », renommé pour lever l'homonymie avec le continent Cendara ; les brouillons du bourg Taldre l'avaient nommé « Cendara-bourg » puis « Cendre-Basse » (formes abandonnées)."
+  },
+  {
+    "src": "pays-Cendara",
+    "note": "Patronyme Valthen partagé : Sorin Valthen (cartographe kharazirien) porte le même nom qu'Aldric Valthen (mystère protégé) et que « L'Affaire Valthen » ; aucun lien de parenté n'est explicité dans les fiches Cendara."
+  },
+  {
+    "src": "pays-Cestra",
+    "note": "Le calendrier « du Sillage » (an 182, 188, 215, 218, 220, 226, 231…, découpé en siècles) est un compte local propre à l'histoire de Cestra/Noravia, non aligné sur l'ère ap.A : Noravia est fondée vers ~9 900 ap.A mais toute son histoire interne se date en petits nombres « du Sillage » — les deux échelles ne sont raccordées nulle part et ne doivent pas être converties."
+  },
+  {
+    "src": "pays-Cestra",
+    "note": "Le base-graphe date déjà « Fondation de Noravia » en année absolue 9900, alors que la Guerre du Sable (an 182) et l'expédition Valkren (an 188) restent « du Sillage » : mélange de deux calendriers non articulés dans le corpus."
+  },
+  {
+    "src": "pays-Cestra",
+    "note": "Aldric Valthen (cartographe parti au Glacier Central en 220 du Sillage, laissant une lettre à son fils) et Sorin Valthen (cartographe de « L'Affaire Valthen », exilé des Bibliothèques de Rukhsar en 248-251) partagent le même patronyme, et le renvoi « arc Sorin ch. 37 » suggère une filiation père-fils jamais énoncée explicitement dans les fiches Cestra."
+  },
+  {
+    "src": "pays-Cestra",
+    "note": "Noravia est typée entite-politique dans le graphe alors que les fiches insistent qu'elle « n'est pas une nation » mais une colonie/avant-poste."
+  },
+  {
+    "src": "pays-Cestra",
+    "note": "Libellés multiples pour le continent (« Cestra », « Cestra — Le Bastion du Nord », alias de lien « Cestra - Continent ») et graphie flottante du « glacier central » / « Glacier Central »."
+  },
+  {
+    "src": "pays-Endora",
+    "note": "Les lieux d'Endora existaient déjà dans le graphe (kg-base.json) mais sans aucun rattachement géographique : ni situe-dans ville→nation, ni capitale-de, ni pratique nation→religion — ces liens manquaient entièrement et sont ajoutés ici."
+  },
+  {
+    "src": "pays-Endora",
+    "note": "Le graphe date la fondation de Haldria à ~-10000 (province sud du Saint-Empire d'Endara), alors que les fiches font de Haldria un royaume fondé par Haldros le Navigateur, postérieur aux Schismes d'Endora (Ère VI, ~6450-6550) : deux strates de fondation contradictoires."
+  },
+  {
+    "src": "pays-Endora",
+    "note": "La fondation de Sanvara enregistrée (an 6487, « Cité de Sanvara assiégée 15 ans ») décrit une cité assiégée, ce qui contredit la fiche présentant Sanvara comme une confédération marchande explicitement « sans capitale durable » et sans cité unique."
+  },
+  {
+    "src": "pays-Endora",
+    "note": "La fondation d'Avalor enregistrée (an 5800, « Communauté Noctari d'Endora ») précède les Schismes d'Endora (6450-6550) censés faire naître Avalor par fragmentation d'Endora : ordre chronologique à clarifier."
+  },
+  {
+    "src": "pays-Endora",
+    "note": "Homonymie : « Thalorin » est déjà une ville du graphe (orpheline, sans rattachement) et c'est aussi le prénom du prince héritier de Haldria (fils de Vaeldros III) — deux entités distinctes, d'où le suffixe « (prince de Haldria) »."
+  },
+  {
+    "src": "pays-Endora",
+    "note": "Homonymie institutionnelle : le « Conseil des Amiraux » de Haldria porte le même nom que celui de Solena (cf. événement existant « Fondation du Conseil des Amiraux », issu de la Guerre des Marées à Solena) — institutions de deux nations différentes."
+  },
+  {
+    "src": "pays-Endora",
+    "note": "Quasi-homonymie de pactes fondateurs forestiers : « Pacte des Sylves » (Avalor, Nyméra la Muette) est proche de « Le Pacte Sylvestre » (Ackerna, Faelorn) et de « Pacte de l'Arbre-Mère » (Sylvara, Eilenne) — trois accords distincts déjà présents dans le graphe."
+  },
+  {
+    "src": "pays-Endora",
+    "note": "Reclassement canonique (note V3.4 de la fiche continent) : dans la base Access d'origine, Iskara et Thalmaris étaient rattachées à Endora et Haldria à Ilthara ; la refonte a déplacé Iskara→Alkaran, Thalmaris→Evertia et Haldria→Endora. Le graphe reflète déjà Haldria dans Endora."
+  },
+  {
+    "src": "pays-Endora",
+    "note": "L'alliance défensive Avalor-Iskara évoquée dans la fiche Avalor est explicitement « sans application concrète » depuis le rattachement d'Iskara à Alkaran (refonte V3.4) : alliance caduque, non enregistrée comme active."
+  },
+  {
+    "src": "pays-Endora",
+    "note": "Selon les fiches, les trois nations d'Endora n'ont aucune alliance ni guerre formelle entre elles — seulement des « tensions feutrées » et des routes commerciales, sans cadre supranational ; aucune relation allie-de/en-guerre-avec inter-Endora n'est donc créée."
+  },
+  {
+    "src": "pays-Endora",
+    "note": "Sanvara compte « vingt-sept caravansérails majeurs » mais la fiche n'en décrit que onze ; les seize autres (Olarin, Kerset, Brassa, Idrenval, Yamoth, Vassir, Tholdir, Anker, Olythes, Maranth, Korvendis, Tabren, Welaris, Aphradan, Senthar, Mordrhin) ne sont que nommés, sans description — créés avec un résumé générique."
+  },
+  {
+    "src": "pays-Endora",
+    "note": "La seule datation quasi-absolue du corpus Endora est la « lenteur des saisons notée depuis env. l'an 100 » (fiche continent), exprimée sans échelle explicite (ap.A supposé) ; aucun fait daté n'en a été tiré, conformément à la règle des dates absolues."
+  },
+  {
+    "src": "pays-Endora",
+    "note": "Soltarin est décrit comme « capitale mobile de fait » de Sanvara mais « sans le nom ni l'institution » : aucune relation capitale-de n'a donc été posée pour Sanvara, qui reste sans capitale."
+  },
+  {
+    "src": "pays-Evertia",
+    "note": "Collision de noms : le continent « Evertia » (lieu, déjà dans le graphe) et la nation druidique portent le même nom ; la nation a été nommée « Empire d'Evertia » pour désambiguïser (fiches EvertiaPays vs Evertia — Continent) — à réconcilier avec le nom canonique si un existe déjà."
+  },
+  {
+    "src": "pays-Evertia",
+    "note": "Note V3.4 : la base Access rattachait Thalmaris au continent Endora (N°11) ; la refonte V3.4 l'a relocalisé sur le continent Evertia. La fiche Thalmaris porte « Numéro 34 » tout en conservant la mention Endora."
+  },
+  {
+    "src": "pays-Evertia",
+    "note": "« Rituel du Grand Éveil » (fiches Evertia + graphe) coexiste dans le graphe avec « Le Grand Rituel de Réveil » — possible doublon ou variante de nom du même événement fondateur, à réconcilier."
+  },
+  {
+    "src": "pays-Evertia",
+    "note": "« Valmora » désigne à la fois une région-enclave de la côte ouest et la ville-port qu'elle contient dans la même fiche ; fusionné ici en un seul lieu (ville)."
+  },
+  {
+    "src": "pays-Evertia",
+    "note": "Le « Pacte de l'Arbre-Mère » de Sylvara pourrait recouper les entités « Pacte des Sylves » / « Le Pacte Sylvestre » présentes dans le graphe ; identité non établie par les fiches, à vérifier."
+  },
+  {
+    "src": "pays-Evertia",
+    "note": "Datation locale : abdication d'Elyndra III et accession d'Aelorys IV datées « 250 », effectifs sylvarains « en 252 », signaux de Brumalith « il y a deux siècles » — années d'une ère locale/relative, non converties en ap.A ; laissées sans année absolue."
+  },
+  {
+    "src": "pays-Evertia",
+    "note": "Homonymie « Aerith » signalée par la fiche Sylvara elle-même : le hameau-marché des Ruelles Vertes et le druide evertien Aerith (cf. Sorin ch. 30) partagent une racine sans rapport direct documenté."
+  },
+  {
+    "src": "pays-Evertia",
+    "note": "Cause du Silence des Esprits laissée ouverte : les fiches proposent des lectures concurrentes (affaiblissement du Rituel du Grand Éveil, signature d'un Souffle, réveil des « Vael'Ur ») sans en trancher aucune ; mystère protégé."
+  },
+  {
+    "src": "pays-Evertia",
+    "note": "Ilnara est décrite comme « rattachée à Cendara (Arkhen) » : la hiérarchie entre Cendara (nation ?) et Arkhen (continent ?) n'est pas explicitée ; situe-dans provisoirement pointé vers Cendara."
+  },
+  {
+    "src": "pays-Evertia",
+    "note": "L'Impératrice actuelle d'Evertia et la « troisième impératrice » fondatrice de Valmora ne sont pas nommées dans les fiches ; aucune personne créée pour elles malgré leur rôle de gouvernement."
+  },
+  {
+    "src": "pays-Galenor",
+    "note": "Toponymes très voisins à ne pas confondre : Gyndor (capitale de Trinoria, en Nalithos), Grendor (région orientale de Trinoria) et Gryndor (entité-politique/nation distincte ailleurs, avec ses propres événements de déclin et de restauration)."
+  },
+  {
+    "src": "pays-Galenor",
+    "note": "« Valora » (village de sauveteurs de Solena, en Vesperilia) est distinct de la nation « Valoria » ; homonymie de surface."
+  },
+  {
+    "src": "pays-Galenor",
+    "note": "« Felmaris » (forteresse-ville du clan de Caelith, Valoria) et « Felmarith » (village de tisserands d'Astralor, Ventera) sont deux lieux différents aux noms très proches."
+  },
+  {
+    "src": "pays-Galenor",
+    "note": "Le Grand Recteur de Lumasar est nommé « Thalendris Prismor » dans la fiche ; le graphe connaît « Thalendris » — patronyme Prismor à rattacher et identité à confirmer."
+  },
+  {
+    "src": "pays-Galenor",
+    "note": "Le fondateur éponyme de Soltharis est appelé « Soltharis le Fondateur » dans la fiche, alors que le graphe connaît « Soltharis le Vif » : épithètes différentes, identité non confirmée (aucune relation de fondation forcée)."
+  },
+  {
+    "src": "pays-Galenor",
+    "note": "« Valren le Fondateur » (fondateur de Gyndor et de la monarchie trinorienne) est très probablement le « Valren de Nalithos » du graphe, Gyndor étant situé en Nalithos, mais les deux libellés coexistent."
+  },
+  {
+    "src": "pays-Galenor",
+    "note": "La fiche Ventera nomme « Aldren » comme celui dont la découverte de la conspiration de Dame Nyra déclencherait la guerre civile ; le Roi-Cavalier régnant n'est jamais nommé explicitement, mais le rapprochement avec « Aldren de Plenera » (Plenera = région-capitale) est fortement suggéré sans être affirmé — rattaché ici par lie-a et non par gouverne."
+  },
+  {
+    "src": "pays-Galenor",
+    "note": "La chute des Titans (Effondrement Premier) est datée « env. 7 000 à 8 000 ans avant le présent » : datation relative non convertie en ap.A/av.A ; elle ne coïncide pas avec l'Arrachement (An 0)."
+  },
+  {
+    "src": "pays-Galenor",
+    "note": "Trinoria et Valoria sont présentées comme deux des sept nations de Galenor mais n'existaient pas encore comme entités-politiques dans le graphe (seules 5 des 7 y figuraient) : elles sont créées ici."
+  },
+  {
+    "src": "pays-Galenor",
+    "note": "« Cantor », divinité créatrice du Cantus Mundi citée dans les fiches Seraphia et continent, n'apparaissait pas dans le roster des divinités du graphe, bien qu'un événement « Le Silence de Cantor » y figure — ajoutée ici comme divinite."
+  },
+  {
+    "src": "pays-Galenor",
+    "note": "Le patronyme « Valthen » (Sorin Valthen, Délié exilé de Kharazir) recoupe le mystère protégé « Aldric Valthen » / « L'Affaire Valthen » ; aucune filiation n'est établie par les fiches et aucune n'est inventée ici."
+  },
+  {
+    "src": "pays-Galenor",
+    "note": "Seule référence à une année potentiellement absolue dans le corpus : la fiche continent évoque un allongement des hivers « depuis l'an 100 », mais donnée comme controverse non tranchée — non retenue comme fait daté."
+  },
+  {
+    "src": "pays-Galenor",
+    "note": "La « Guerre des Marées » est un conflit interne à Solena (non résolu / non cicatrisé) et non une guerre inter-nations ; de même les rivalités Lumasar/Seraphia, Solena/Ventera, Kharazir/tous restent des tensions non militaires, sans relation en-guerre-avec active."
+  },
+  {
+    "src": "pays-Galenor",
+    "note": "Les sept familles amirales de Solena ne sont nommées explicitement que pour deux d'entre elles : les Oranthor (la plus ancienne) et les Tetramor (huitième, expulsée) ; les cinq autres restent anonymes dans les fiches."
+  },
+  {
+    "src": "pays-Ilthara",
+    "note": "Incohérence de calendrier : Lunasar est datée « an ~9 900 ap.A » alors que les charges de Solvanes (« ~215-226 » puis « ~227-252 ap.A ») et les visites datées (Sorin Valthen an 252, Orneth an 250, Lunarch an 244) emploient un compte d'années bas (~200-250) incompatible avec l'échelle ap.A et l'Ère VII (~9 500-10 200 ap.A) — probablement un calendrier narratif distinct malgré la mention « ap.A ». Années laissées à null pour ces charges/visites."
+  },
+  {
+    "src": "pays-Ilthara",
+    "note": "Haldria a été relocalisée vers Endora (refonte V3.4), mais les fiches de Lythar, Pyrtara, Sylthara, Gryndor et Vytharia la citent encore comme voisine dans leurs « Relations extérieures » sans signaler qu'elle est hors du continent Ilthara."
+  },
+  {
+    "src": "pays-Ilthara",
+    "note": "Homonymie Lunaris : la capitale de Lunasar (Vytharia) et un village isolé de Xeranthia (Drakora) portent tous deux le nom « Lunaris » ; la fiche Drakora le signale explicitement (à ne pas confondre), mais le graphe ne possède qu'un seul nœud « Lunaris ». Le village drakorien n'a pas été rattaché pour ne pas fusionner les deux lieux."
+  },
+  {
+    "src": "pays-Ilthara",
+    "note": "Le « Pacte Sylvestre » d'Ackerna coexiste avec les événements déjà présents « Pacte des Sylves » et « Pacte de l'Arbre-Mère » : possible doublon ou variante de nom à vérifier."
+  },
+  {
+    "src": "pays-Ilthara",
+    "note": "La divinité « Realis » (figure de la réalité du culte Somnium Vigil) n'apparaît pas dans le roster canonique des divinités, qui contient bien Somnix et Aurion mais pas Realis."
+  },
+  {
+    "src": "pays-Ilthara",
+    "note": "Corruption de données probable dans la liste des entités connues : la région d'Ackerna « Obélia » y figure comme « Ob lia », et la région de Drakora « Myrthéria » comme « Myrth ria »."
+  },
+  {
+    "src": "pays-Ilthara",
+    "note": "La capitale d'Ackerna n'a pas de nom propre in-world (« la Ville ») mais est désignée « AckernaVille » dans les fiches et les routes inter-nations ; risque de doublon avec le lieu déjà connu « Ackerna »."
+  },
+  {
+    "src": "pays-Ilthara",
+    "note": "« Ère de la Famine » : les fiches de Sylthara (Feylorn, Faldrin, Velthar, Myridia, Galdoria) évoquent une occupation étrangère et une résistance sous ce nom sans le relier explicitement aux événements canoniques « La Grande Famine de Sylthara » et « L'Occupation étrangère et la Résistance de Sylthara »."
+  },
+  {
+    "src": "pays-Ilthara",
+    "note": "Le Marcheur disparu de Warenthor se nomme « Veldris », homonyme de la personne déjà connue « Veldris l'Ancien » et proche de l'« Affaire Veldris » : homonymie à vérifier (personne non ajoutée)."
+  },
+  {
+    "src": "pays-Ilthara",
+    "note": "Sorin Valthen et Aldric Valthen partagent le patronyme « Valthen » (cf. l'événement connu « L'Affaire Valthen ») : parenté possible mais non affirmée par les fiches. Le sort d'Aldric Valthen reste un mystère protégé, non tranché."
+  },
+  {
+    "src": "pays-Onara",
+    "note": "Mosrack porte le « Numéro 2 » et Tyndara le « Numéro 3 », mais aucun pays « Numéro 1 » n'apparaît dans le dossier Onara (Myrtam et Elarath non numérotés) : possible fiche manquante."
+  },
+  {
+    "src": "pays-Onara",
+    "note": "La fiche Mosrack liste « Elarian » comme voisin en hostilité ouverte (escarmouches navales, convoitise des « ressources du nord »), ce qui ne correspond pas à Elarath (cité-État du sud, sans marine, en relation « feutrée » avec Mosrack) : Elarian semble une nation distincte (cf. l'événement « Le Grand Incendie d'Elarian »)."
+  },
+  {
+    "src": "pays-Onara",
+    "note": "« Frostmar » (dépôt d'armes de Fugnord, Mosrack) ne diffère que d'une lettre de « Frostmir » déjà présent dans le graphe : possible variante orthographique ou doublon."
+  },
+  {
+    "src": "pays-Onara",
+    "note": "« Vornaeth » (ancien membre de Morveth absorbé par Tyndara, près d'Elarath) et « Vorneth » (hameau d'ingénieurs de Mosrack, Fugnord) sont deux lieux distincts aux noms quasi identiques."
+  },
+  {
+    "src": "pays-Onara",
+    "note": "Les dates d'Onara sont exprimées dans un calendrier local (« an 28 », « an 41 », « an 47 », « an 88 », « an 130 », « an 178 », « an 200 », « an 224 », « an 247 », « an 248 ») incompatible avec la chronologie ap.A (l'Ère des Nations est ~3000-10200 ap.A) : les années absolues ont été laissées nulles."
+  },
+  {
+    "src": "pays-Onara",
+    "note": "« Fédération de Morveth » est enregistrée comme evenement dans le graphe, alors que les fiches la décrivent comme une ancienne fédération (entité politique) dont Elarath est l'héritière et dont Drelmais et Vornaeth furent membres."
+  },
+  {
+    "src": "pays-Onara",
+    "note": "Elarath (cité-État) et sa capitale portent le même nom : aucune relation capitale-de n'a été créée pour éviter l'auto-référence, et aucun lieu-capitale distinct n'existe."
+  },
+  {
+    "src": "pays-Onara",
+    "note": "Homonymies proches à surveiller : Vyndorin (Myrtam) vs Vyndor (Tyndara) ; Thalorn (Eryndor, Tyndara) vs Thalorin (Ralmeria, Tyndara) ; Zyndor (Myrtam) vs Zyndris (Tyndara) et Zyndrelis (Myrtam)."
+  },
+  {
+    "src": "pays-Onara",
+    "note": "La lecture « mosrackienne » de Lex Petra (la nature existe pour être exploitée) est jugée par les théologiens d'Altram et d'Iskara un détournement de la doctrine orthodoxe du serment-témoin : variante doctrinale locale, non un schisme formel."
+  },
+  {
+    "src": "pays-Onara",
+    "note": "Le continent Onara compte Elarath parmi ses « 4 nations habitées », alors que la fiche Elarath se déclare « non recensé dans le CSV Access » (cité-État hors structure des Pays canoniques) : léger flottement de catégorisation."
+  },
+  {
+    "src": "pays-Ulinor",
+    "note": "« Ulinor » désigne à la fois le continent (lieu existant) et la nation centrale : la fiche continent la nomme « Confédération tribale d'Ulinor » alors que la fiche pays s'intitule simplement « Ulinor », d'où une collision de noms résolue ici en créant l'entité distincte « Confédération tribale d'Ulinor »."
+  },
+  {
+    "src": "pays-Ulinor",
+    "note": "Note V3.4 de la fiche continent : Skaldoria était rattachée au continent Alkaran dans la base Access puis relocalisée vers Ulinor ; des résidus subsistent (Vyndar exporte « vers tout Alkaran », et les voisins cités de Skaldoria — Altram, Torkam, Myrtam, Celethor — sont des polités situées hors du continent Ulinor)."
+  },
+  {
+    "src": "pays-Ulinor",
+    "note": "Deux lieux dhalvoriens portent des noms quasi identiques : « Yltharkenn » (plateau des Convergences, cœur géographique) et « Yltarkhen » (vallée nord, foyer de Welna la Brève) — probable source de confusion, voire coquille."
+  },
+  {
+    "src": "pays-Ulinor",
+    "note": "Le nombre de vallées dhalvoriennes est contesté dans la source elle-même (~17, entre 15 et 19, sans arbitre)."
+  },
+  {
+    "src": "pays-Ulinor",
+    "note": "Les années des Convergences dhalvoriennes (156, 184, 201, 217) emploient un calendrier non précisé, d'échelle incompatible avec l'ère ap.A courante (~10 200) ; laissées sans année absolue."
+  },
+  {
+    "src": "pays-Ulinor",
+    "note": "Divergence de ton sur la relation Ulinor central / Skaldoria : la fiche pays Ulinor la qualifie de « respect mutuel », la fiche continent parle d'un « malaise mutuel jamais formulé » lié à l'incompatibilité des pratiques (crier vs murmurer les noms des morts)."
+  },
+  {
+    "src": "pays-Ulinor",
+    "note": "« La résonance » (registre cosmique partagé d'Ulinor) porte un nom proche du concept déjà connu « La double résonance » ; le lien éventuel n'est pas établi par les fiches."
+  },
+  {
+    "src": "pays-Ulinor",
+    "note": "Contradiction interne signalée par la fiche Dhalvoria : la rumeur d'une mort de Welna la Brève lors d'une Veille longue à Khairsenn est incompatible avec le fait qu'elle n'était pas Veilleuse reconnue, et sa famille de Yltarkhen nie qu'elle y soit jamais allée ; aucun registre vallon ne tranche."
+  },
+  {
+    "src": "pays-Ulinor",
+    "note": "Skaldoria et Dhalvoria n'ont aucun contact et « ne se touchent pas » géographiquement : aucune frontière commune n'est donc posée entre elles, malgré leur appartenance au même continent."
+  },
+  {
+    "src": "religions",
+    "note": "Doublon dans le graphe : la religion des Silencieux apparaît sous deux noms canoniques, « Taciti » et « Les Silencieux (Taciti) » — même entité."
+  },
+  {
+    "src": "religions",
+    "note": "Hesvar de Tholmë : la fiche Taciti écrit « env. 4 612 – 4 681 av.A », soit une naissance postérieure à la mort en calendrier av.A ; l'arithmétique de la fiche (vie de ~69 ans) impose une naissance vers -4681 et une mort vers -4612."
+  },
+  {
+    "src": "religions",
+    "note": "Somnium Vigil : l'en-tête classe Somnix « Cosmique — confirmé par D1 », mais le corps du texte affirme que les Vigili ont « accepté la reclassification de Somnix au rang Céleste » — contradiction interne sur le rang de Somnix."
+  },
+  {
+    "src": "religions",
+    "note": "Rang d'Umbra : les Noctari le maintiennent Cosmique (confirmé par D1) tandis que le Somnium Vigil dit avoir accepté sa reclassification au rang Céleste — désaccord doctrinal explicite entre les deux fiches."
+  },
+  {
+    "src": "religions",
+    "note": "Anima : classée Céleste par D1 (en-tête Foedus Animae) mais la liturgie animari continue de l'invoquer comme Cosmique et de la placer au-dessus de Tempora — divergence assumée."
+  },
+  {
+    "src": "religions",
+    "note": "« L'Heure Vide » : le rite matinal des Taciti porte le même nom que le terme « l'Heure Vide » déjà présent dans le graphe (contexte du Fléau/de l'Heure) — homonymie à ne pas confondre."
+  },
+  {
+    "src": "religions",
+    "note": "« Cardinal-Élu » (dignitaire clérical de l'Ordo Caelum) est homonyme du « Souffle Cardinal » et des « Cardinaux célestes » cosmologiques — la fiche Ordo Caelum signale elle-même cette homonymie pure."
+  },
+  {
+    "src": "religions",
+    "note": "Flamara : nom local d'Eldoria dans l'Ignis Aeternum, explicitement présenté comme « rumeur populaire » et « non un Cosmique canonique » — non traité comme divinité distincte."
+  },
+  {
+    "src": "religions",
+    "note": "Les dates des cinq schismes sont données « du Sillage » (négatif) ; la fiche _Histoire pose An 0 du Sillage = l'Arrachement (donc Sillage négatif = av.A), mais les fiches ne convertissent pas explicitement — années laissées à null, date brute en libellé."
+  },
+  {
+    "src": "religions",
+    "note": "Plusieurs nations citées dans les tables religieuses (Trinoria, Valoria, Elarian) n'ont pas de correspondance claire dans la liste canonique des entités politiques du graphe."
+  },
+  {
+    "src": "religions",
+    "note": "« Forêts de Selvara » (Ulinor, Vael'Kurash) pourrait désigner la même région que « Sylvara » (entité) ou « Sylvera » (lieu) déjà connus, sans que les fiches le confirment."
+  },
+  {
+    "src": "religions",
+    "note": "Aqua Nigra : la fiche vénère « Aquor sous une forme corrompue » mais les cosmologistes extérieurs identifient cette présence à l'Éthéré abyssal Thalossa (Aquor × Gravitas) — deux lectures concurrentes non tranchées."
+  },
+  {
+    "src": "chronologie",
+    "note": "Deux calendriers coexistent et divergent d'échelle : An 251 du Sillage = ~10 200 ap.A, si bien que « du Sillage » et « ap.A » comptent tous deux depuis l'Arrachement mais à des rythmes incompatibles (~250 ans vécus vs ~10 200 ans de Mémoire d'Astravie)."
+  },
+  {
+    "src": "chronologie",
+    "note": "Dans le tableau des 9 religions (Era 3b), les dates d'origine sont en av.A tandis que les 5 schismes sont datés « du Sillage » (~-1 200 S, etc.) — deux référentiels mêlés sans conversion."
+  },
+  {
+    "src": "chronologie",
+    "note": "La note du tableau religieux précise que les dates av.A marquent la « racine profonde attestée », non la fondation, laquelle « cristallise » seulement vers ~-3 000 du Sillage : ces dates religieuses ne sont donc pas des dates de fondation."
+  },
+  {
+    "src": "chronologie",
+    "note": "Dans les repères chronologiques de l'Ère II (Era 2b), Pelari-les-Yeux-Clairs est daté ~30 100 av.A mais listé après les entrées ~29 200 av.A — ligne hors ordre chronologique."
+  },
+  {
+    "src": "chronologie",
+    "note": "Homonymie « Sera » : Sera de Celethor (Cercle des Huit, An 0), l'Impératrice Sera Drahk'Nor (~1 300 ap.A) et la juriste Sera Ovath (~10 160 ap.A) sont trois personnes distinctes."
+  },
+  {
+    "src": "chronologie",
+    "note": "Homonymie « Mirathis » (membre non-binaire du Cercle des Huit) / « Mirathi » (nation-province et port-sanctuaire d'Ilthara) / « Mirathi Voix-d'Ambre » — référents distincts."
+  },
+  {
+    "src": "chronologie",
+    "note": "Le texte Era 2b signale lui-même le doublon « Harrath » : deux Guides-de-Piste distincts séparés d'environ 4 000 ans portent ce nom-titre repris comme honorifique."
+  },
+  {
+    "src": "chronologie",
+    "note": "Divergence des dates d'empires de l'Âge du Lien : l'index donne l'apogée (ex. Dominat de Pyrevaste ~16 500 av.A) tandis qu'Era 3a donne fondation ~18 000 → chute ~14 500 av.A ; cohérent mais à ne pas confondre."
+  },
+  {
+    "src": "chronologie",
+    "note": "« Guerre de l'Ombre d'Ilthara » (~7 180 ap.A, Ère VI) et « La Guerre de l'Ombre » (~9 850 ap.A → présent, Ère VII) sont deux conflits homonymes distincts."
+  },
+  {
+    "src": "chronologie",
+    "note": "Le nom « Vorath » est récurrent : Vorath le Tacite (Cercle des Huit), le général-traître Vorath Shan (~4 780 ap.A) et le Grand-Duc Vorath VI (présent) sont des personnes différentes."
+  },
+  {
+    "src": "chronologie",
+    "note": "Nombreux micro-événements légendaires datés de l'Ère II (ex. Varak la Brûlante ~43 000, Schisme du Froid ~33 000, Querelle du Bûcher ~24 900) ont une historicité explicitement incertaine et n'ont pas été extraits comme faits canoniques."
+  },
+  {
+    "src": "gdd-monde",
+    "note": "INCOHÉRENCE CLÉ (douze vs treize) : le corpus dit explicitement « douze continents » (Géographie.md et Continents/Index.md, qui listent exactement 12 dossiers-continents) alors que le graphe compte treize lieux-continents ; le treizième « de trop » est très vraisemblablement Nysaria, que le corpus qualifie littéralement de petite île brumeuse au large de la côte est de Celethor (« elle n'est pas un continent ») — à reclasser en région/île rattachée à Celethor."
+  },
+  {
+    "src": "gdd-monde",
+    "note": "Lunasar et Mirathi ne sont PAS des continents : Continents/Index.md les donne comme provinces de Vytharia (Ilthara) — respectivement Monarchie Lunaire côtière et port-sanctuaire des Oracles ; s'ils figurent comme continents ou comme rattachés directement à Ilthara dans le graphe, à reclasser sous Vytharia."
+  },
+  {
+    "src": "gdd-monde",
+    "note": "Confusion de noms possible : Nysaria (l'Île aux Masques, au large de Celethor, ville de Nysoris) vs Nysarith (gorges de Vytharia, Ilthara) — le graphe mappe déjà « gorges de Nysarith → Vytharia », donc deux lieux distincts à ne pas fusionner."
+  },
+  {
+    "src": "gdd-monde",
+    "note": "Note canonique explicite (Onara/_Index.md) : Myrtam a été relocalisée d'Alkaran vers Onara ; à vérifier que le graphe la rattache bien à Onara (les alias existants « Terres interieures de Forgon → Myrtam » brouillent la piste)."
+  },
+  {
+    "src": "gdd-monde",
+    "note": "Trou de nations à Cendara : le corpus liste Brumaria comme nation (capitale Brumaris, foyer du Cœur de Cendra) mais Brumaria est absente des entités-politiques connues du graphe (seuls Arkhen et Pyrevane y figuraient)."
+  },
+  {
+    "src": "gdd-monde",
+    "note": "Trous de nations à Galenor et Celethor : Trinoria et Valoria (Galenor), Elarian et Ryldor (Celethor) sont citées comme nations dans les fiches mais absentes des entités-politiques du graphe ; Ryldor n'existait que comme lieu — à réconcilier en nation (théocratie chamanique)."
+  },
+  {
+    "src": "gdd-monde",
+    "note": "Décompte des nations de Celethor incohérent : le proverbe de la fiche parle de « quatre nations » (la cinquième sans nation = No Man's Land) mais seules trois sont nommées et décrites (Astravia, Elarian, Ryldor) ; la quatrième reste ambiguë (l'île de Nysaria ? la cité enfouie des Terres Brisées ?)."
+  },
+  {
+    "src": "gdd-monde",
+    "note": "Homonymie Baelor : le continent Baelor, la nation monastique, la crique-cité fondatrice Baeloris et l'entité « Baelor-Prime » du graphe désignent des niveaux différents mais des noms proches — à clarifier (Baelor-Prime = probablement Baeloris/Cite de Baelorn)."
+  },
+  {
+    "src": "gdd-monde",
+    "note": "Homonymie Elarian (Celethor) / Elarath (Onara) / lieux Elarion-Elaris : noms très proches, entités distinctes à ne pas fusionner."
+  },
+  {
+    "src": "gdd-monde",
+    "note": "Ambiguïté Evertia : « Evertia » désigne à la fois le continent-archipel et la nation centrale (dirigée par une Impératrice et un Cercle d'Archidruides) ; le graphe doit distinguer le lieu-continent de l'entité-politique homonyme."
+  },
+  {
+    "src": "gdd-monde",
+    "note": "Ambiguïté Ulinor : « Ulinor » désigne à la fois le continent-archipel et la Confédération tribale du centre-sud ; même besoin de distinction."
+  },
+  {
+    "src": "gdd-monde",
+    "note": "Nomenclature « Veilleurs de Givre » (Celethor, Terres Brisées) vs « Gardiens de Givre » (Cestra, No Man's Land) : deux entités glaciaires semi-divines distinctes, à ne pas confondre malgré la similarité."
+  },
+  {
+    "src": "gdd-monde",
+    "note": "Le Cœur de Cendra : le corpus parle de pulsations qui « s'accélèrent depuis quelques décennies », ce qui recoupe l'événement connu « Le Réveil du Cœur de Cendra » — vérifier qu'ils désignent bien le même phénomène et ne créent pas de doublon."
+  },
+  {
+    "src": "chroniques",
+    "note": "L'arc-sorin.md (référence v1, 40 chapitres / 5 actes) et la bible-v2.md (refonte, 38 chapitres) divergent sur la structure et sur la géographie de l'itinéraire ; certains noms et rattachements peuvent devoir être réconciliés."
+  },
+  {
+    "src": "chroniques",
+    "note": "Placement continental divergent : arc-sorin situe Lythar/Vytharia/Mirathi/Nysaria/Lunasar dans un continent « Nysaria » ; la bible-v2 les rattache à la « sphère de Vytharia » (région d'Ilthara) et retire Nysaria de la route."
+  },
+  {
+    "src": "chroniques",
+    "note": "Abbé de Baelor : arc-sorin le nomme « Kethron VI, Abbé Suprême de Baelor » (il écrit le mot « Dessous ») ; la bible-v2 le laisse anonyme (« le moine »). Kethron VI porte le même nom que des souverains déjà au graphe (Kethron II/III/VI) — homonymie possible."
+  },
+  {
+    "src": "chroniques",
+    "note": "Astronome(s) de Haldria : la bible-v2 ne nomme qu'un astronome anonyme ; arc-sorin en nomme deux, Feraldir (situé à « Haltheria », jour 298) et Tiras (Hekorinth, jour 415). « Haltheria » n'apparaît nulle part ailleurs (variante possible de Haldria)."
+  },
+  {
+    "src": "chroniques",
+    "note": "« Ancrages du monde » : la bible-v2 attribue la formule à l'inscription traduite par Morvath à Cendra ; arc-sorin (ch. 27) l'attribue à l'inscription de Kharazir."
+  },
+  {
+    "src": "chroniques",
+    "note": "« Cendra » (site-cœur / cité) et « Cendara » (continent-région) sont quasi homonymes — risque de confusion dans le graphe."
+  },
+  {
+    "src": "chroniques",
+    "note": "« Ferrath » désigne à la fois une entité-politique déjà connue (Mines Libres d'Altram) et un personnage des Chroniques (compagnon exilé du Syndicat des Profondeurs) — homonymie non résolue, personnage non ajouté pour éviter un doublon de nom."
+  },
+  {
+    "src": "chroniques",
+    "note": "« Mara » de la Brigade Déliée de Pyrtara pourrait être distincte de « Mara Threv-Kethdar » déjà au graphe — homonymie non tranchée, entité non créée."
+  },
+  {
+    "src": "chroniques",
+    "note": "« Sera » (traductrice/interprète à Lunasar, ch. 35) pourrait être « Sera de Celethor » déjà connue (à qui est aussi liée « La lettre non envoyée de Sera ») — à vérifier avant de fusionner."
+  },
+  {
+    "src": "chroniques",
+    "note": "Ordavan cumule deux phénomènes à distinguer : la Faille d'Ordavan (ancienne, ~10 142 ap.A, déjà au graphe) et le « Syndrome d'Ordavan » récent (évacuations, vitrification)."
+  },
+  {
+    "src": "chroniques",
+    "note": "Le sort d'Aldric Valthen reste un mystère protégé : quatre lectures coexistent (mort de pneumonie ; passé « de l'autre côté » du portail ; revenu ; indéterminé) — le récit ne tranche pas."
+  },
+  {
+    "src": "chroniques",
+    "note": "Les valeurs ap.A du voyage (≈ 10 198 → 10 200) sont des calages approximatifs dérivés du calendrier local « du Sillage » (an 248 → 251), le seul ancrage canonique direct étant an 251 ≈ 10 200 ap.A ; d'où circa=true."
+  },
+  {
+    "src": "chroniques",
+    "note": "Mystères laissés ouverts par le récit (non tranchés) : l'auteur de la Guerre de l'Ombre, la nature du « Dessous »/Panghor, Vey'thar, le Mont Jumeau et son portail, la chambre scellée de Navoria et le Message de Mirathi (non traduit)."
+  },
+  {
+    "src": "romans-T1",
+    "note": "« Le Traité du Vide » figure dans known-entities comme *evenement*, alors qu'il s'agit d'un traité écrit par Verithan (plutôt objet/œuvre) : catégorisation possiblement erronée."
+  },
+  {
+    "src": "romans-T1",
+    "note": "Collision de noms autour de « Mirathis » : le membre du Cercle (érudit·e non-binaire de Vytharia/Ilthara) partage son nom avec la personne « Mirathis », « Mirathi Voix-d'Ambre » et le lieu/entité « Mirathi » (Sanctuaire de Mirathi) déjà au graphe."
+  },
+  {
+    "src": "romans-T1",
+    "note": "Confusion possible « Kessa » (fille de Drakhan, T1) vs « Kessane de la Forge-Basse » et « Le cahier de Kessane » déjà au graphe : personnes distinctes aux noms proches."
+  },
+  {
+    "src": "romans-T1",
+    "note": "Le nom du Chasseur est écrit « VELKAR SORNE » dans un en-tête de la bible puis aussitôt corrigé en « Verkan Sorne » (nom retenu, conforme à known-entities) ; la variante « Velkar » est à ignorer."
+  },
+  {
+    "src": "romans-T1",
+    "note": "La bible signale une contradiction canon interne : deux jeux de fiches du Cercle (Era 3b vs Era 4) divergent sur les Voies, les âges et le huitième membre (Era 3b liste Iveth le Silencieux, Era 4 liste l'Étudiant) ; Era 3b fait foi, le Cercle compte huit membres et Iveth reste un disciple qui ne monte pas."
+  },
+  {
+    "src": "romans-T1",
+    "note": "Durée de l'engloutissement de Navoria contradictoire : ~40 min (Era 3b) vs « trois jours » (Era 4) ; les deux échelles sont conservées volontairement."
+  },
+  {
+    "src": "romans-T1",
+    "note": "Le sort d'Aelindra (« traître exécutée, aucun corps ») est canoniquement une falsification de Verkan Sorne, pas une exécution réelle ; son sort effectif reste inconnu."
+  },
+  {
+    "src": "romans-T1",
+    "note": "L'heure exacte du geste de l'An 0 (aube / minuit / midi) est laissée volontairement ambiguë par le canon : indétermination assumée, non incohérence."
+  },
+  {
+    "src": "romans-T1",
+    "note": "« Cendra » (échos T3) semble une forme brève de « Mont Cendra » ; « le Jumeau » n'est nommé que comme second sommet où l'on sent la même pulsation, sans autre description."
+  },
+  {
+    "src": "romans-T1",
+    "note": "La cause de l'Arrachement demeure indéterminée : la bible interdit d'établir que le rituel du Cercle l'a causé (six lectures concurrentes, aucune confirmée) ; le narrateur cosmique lui-même doute de sa propre cause de mort."
+  },
+  {
+    "src": "romans-T2",
+    "note": "Incohérence de nom : la bible T2 nomme l'ancêtre de Vaenor « Velkar Sorne », mais le graphe stocke déjà « Verkan Sorne » ET « Vaskar Sorne » — trois graphies pour ce qui semble le même inquisiteur du T1 (le falsificateur du rapport)."
+  },
+  {
+    "src": "romans-T2",
+    "note": "« Sera Drahk'Nor » (impératrice de Drahk'Nor, tag « T1/Era 5 ») risque d'être confondue avec « Sera de Celethor » (personne du T1) : même prénom, mais Drahk'Nor n'est fondé que ~800 ap.A, ce qui rend une identité entre les deux chronologiquement improbable ; la source reste ambiguë."
+  },
+  {
+    "src": "romans-T2",
+    "note": "La bible signale elle-même une tension de calendrier : le canon fixe la fermeture des Failles à ~1700 ap.A, mais le tome dramatise la refermeture au terme d'un cadre resserré (~15-20 ans autour du pic ~1450-1550) — compression assumée à surveiller."
+  },
+  {
+    "src": "romans-T2",
+    "note": "« Errants-sans-Corps » (bible) et « Errants » (graphe) désignent la même entité — variante de graphie."
+  },
+  {
+    "src": "romans-T2",
+    "note": "« Le cahier de la guilde (chez Kessane) » (bible) = « Le cahier de Kessane » (graphe, objet) : même objet, gardé puis re-caché par Kessane."
+  },
+  {
+    "src": "romans-T2",
+    "note": "Le nom « Mangeur de Temps » recouvre deux réalités que la bible tient distinctes : le culte humain (« Les Mangeurs de Temps ») et la créature des Failles (« Mangeur de Temps », déjà au graphe) — risque de conflation."
+  },
+  {
+    "src": "romans-T2",
+    "note": "Homonymes « Gryndor » : la nation (entite-politique), la Plaine de Gryndor (lieu d'Ilthara, site de la refermeture), et les lieux proches « Grendor » / « Gyndor » du graphe — à garder distincts."
+  },
+  {
+    "src": "romans-T2",
+    "note": "Mystères protégés laissés au conditionnel : la cause du Fléau et de la refermeture n'est jamais tranchée (trois lectures concurrentes), et la créature Mangeur de Temps reste montrée par ses seuls effets — non résolus, conformément à la doctrine du tome."
+  },
+  {
+    "src": "romans-T3",
+    "note": "Le T3 nomme « Velkar Sorne » l'Inquisiteur du T1, mais le graphe le connaît sous « Verkan Sorne » (cf. l'objet « Le rapport falsifié de Verkan Sorne ») : très probablement le même personnage avec une orthographe divergente à réconcilier."
+  },
+  {
+    "src": "romans-T3",
+    "note": "Le graphe contient deux entités « Guerre de l'Ombre » (« La Guerre de l'Ombre » et « Guerre de l'Ombre d'Ilthara ») ; la série d'assassinats de l'an 251, rattachée ici à « La Guerre de l'Ombre », ne doit pas être confondue avec la guerre ancienne d'Ilthara."
+  },
+  {
+    "src": "romans-T3",
+    "note": "Renna, Sanne, Ilex et Vaskar Sorne figuraient déjà dans le graphe (vraisemblablement d'une passe T3 antérieure) ; cette passe ne fait que les enrichir de relations et de faits."
+  },
+  {
+    "src": "romans-T3",
+    "note": "Le T3 emploie deux systèmes de datation interchangeables, « an 251 du Sillage » et « ~10 200 ap.A » ; les faits d'an 251 ont été ancrés à ~10 200 ap.A (circa) selon l'équivalence donnée par la bible."
+  },
+  {
+    "src": "romans-T3",
+    "note": "La bible distingue volontairement deux vagues de victimes de la Guerre de l'Ombre : une table historique canon d'Era 7 (Mira II, Pyrak, Solva, Davan, Serathis, Uveth) et une vague récente aux noms distincts mise en scène dans le T3 (Selvir, Ostrek, Ysendre, Nevran, Vyntaris, Vharok) — dispositif assumé pour ne pas re-dater la table, à ne pas fusionner."
+  },
+  {
+    "src": "romans-T3",
+    "note": "« Le Fragment #3 » (noyau textuel de la trilogie) est distinct de l'objet déjà présent « Le Fragment Zéro » ; ne pas les confondre."
+  },
+  {
+    "src": "romans-T3",
+    "note": "« Le Cœur de Cendra » (le foyer pulsant, ajouté ici comme concept) est distinct de l'événement déjà présent « Le Réveil du Cœur de Cendra » : le premier est le phénomène, le second son réveil."
+  },
+  {
+    "src": "romans-T3",
+    "note": "Le graphe n'avait que « Cendara » (la région) ; « Mont Cendra » (le mont lui-même, site de l'An 0) est ajouté distinctement."
+  },
+  {
+    "src": "romans-T3",
+    "note": "Le statut de « Flamara » comme divinité pleine reste incertain : la bible ne la cite qu'en alternative à Eldoria dans une lecture du culte du feu."
+  },
+  {
+    "src": "romans-T3",
+    "note": "« Cardinal » est ambigu dans la bible : à la fois source de prédictions et candidat à la nature du coup qui vient ; sa nature exacte (institution, ordre, entité ?) n'est pas précisée."
+  },
+  {
+    "src": "romans-T3",
+    "note": "Les codes « DAR-07 / DAR-08 » (l'entité qui aurait aidé Navigor) sont cités comme désignations de mystères non résolus ; non retenus comme entités distinctes, rattachés aux questions ouvertes."
+  },
+  {
+    "src": "histoires-Alkaran",
+    "note": "Iskara.md : l’identité des assaillants de l’an 88 est attribuée par tradition à Skaldoria, mais probablement gryndoris (défaite refoulée)."
+  },
+  {
+    "src": "histoires-Alkaran",
+    "note": "Altram.md : les raids de la tyrannie de Korvath III sont attribués à Skaldoria dans les chroniques d’Altram, mais probablement gryndoris selon les chroniques skaldori non reconnues — incohérence parallèle à celle d’Iskara."
+  },
+  {
+    "src": "histoires-Alkaran",
+    "note": "Iskara.md : « Nyra (éclaireuse d’Ysolith) » est distincte de la « Dame Nyra » déjà connue ; homonymie potentielle."
+  },
+  {
+    "src": "histoires-Alkaran",
+    "note": "Iskara.md : deux « Lira » distinctes — Lira de Zelrith (femme de Drenn, connue) et Lira, petite-fille de Morven à Galdar."
+  },
+  {
+    "src": "histoires-Alkaran",
+    "note": "Iskara.md / Altram.md : le prénom « Kael » désigne ici deux personnes distinctes (gardienne des greniers de Mytharis ; forgeron de Traum), à distinguer des Kael connus (Kael le Cendreux, Sœur Kael)."
+  },
+  {
+    "src": "histoires-Alkaran",
+    "note": "Iskara.md / Altram.md / Ferrath.md : plusieurs « Sera » distinctes — Sera Vyn (Kalvorn), Sera Vorn (Helionis), Sera fille de Coryn (Risel-Turam), Sera mineuse de Volnir — sans lien entre elles ni avec les Sera connues."
+  },
+  {
+    "src": "histoires-Alkaran",
+    "note": "Iskara.md : le patronyme « Voss » est porté par des personnages sans parenté déclarée — Aldren Voss (Glintaris), Torin Voss (Lusharis) et Voss, soldat de Taldaris."
+  },
+  {
+    "src": "histoires-Alkaran",
+    "note": "Altram.md : deux maîtresses joaillières d’Ulris sont nommées — Mirala Veth (créatrice de la couronne fondatrice, fiche pays) et Maelys (parure de la reine morte, conte) — sans lien explicité."
+  },
+  {
+    "src": "histoires-Alkaran",
+    "note": "Torkam.md : quasi-homonymes distincts — Tarik (forgeur de Valoris, tribu des Pierres) et Tariq (espion de la tribu des Ombres, Caelorn), orthographes différentes."
+  },
+  {
+    "src": "histoires-Alkaran",
+    "note": "Torkam.md : la garde de Myrthoris est attribuée à Daran (conte Myrthoris, depuis 20 ans) et à Sahra (« gardienne du site sacré », conte Caelorn, tribu des Pierres) — deux gardiens, articulation non précisée."
+  },
+  {
+    "src": "histoires-Alkaran",
+    "note": "Torkam.md : « Orath, conteur de Haldrin » pourrait être confondu avec « Orath Dovan » déjà connu ; personnes a priori distinctes."
+  },
+  {
+    "src": "histoires-Alkaran",
+    "note": "Iskara.md : la Porte de Fer d’Yrelda (siège an 35-38) reprend le nom d’une « Porte de Fer » antérieure défendue par un roi-ingénieur d’Alkaran « plus de mille ans plus tôt » contre deux royaumes — possible lien avec l’évènement connu « Défense de la Porte de Fer », à ne pas confondre."
+  },
+  {
+    "src": "histoires-Alkaran",
+    "note": "Ferrath.md : les sept noms sécessionnistes (Korn, Vythar, Drevvan, Tomnir, Ostha, Yltheris, Saren) sont déchiffrés par certains lecteurs sans confirmation ; Yltheris (fondeuse de Tombarn) pourrait être identique à une contremaîtresse Yltheris de Volnir, ou non."
+  },
+  {
+    "src": "histoires-Alkaran",
+    "note": "Torkam.md : mort de Zarek — version officielle (vieillesse) contre secret refoulé (assassinat par empoisonnement, révélation d’Ileth, os détruit par Horath) ; l’identité de l’assassin reste inconnue (non tranché)."
+  },
+  {
+    "src": "histoires-Alkaran",
+    "note": "Torkam.md : Veska Drennar est canonisée sous le nom « Veska de la Patience » (version qui escamote son refus) — alias doctrinal."
+  },
+  {
+    "src": "histoires-Alkaran",
+    "note": "Altram.md : « Torvek » désigne à la fois une mine (près de Roseltar, effondrement fatal au père d’Ilyana) et le vieil homme d’Umert — homonymie."
+  },
+  {
+    "src": "histoires-Alkaran",
+    "note": "Iskara.md : le conte de Mytharis évoque une « Grande Famine de Lushara », distincte de la « Grande Famine de Sylthara » déjà connue."
+  },
+  {
+    "src": "histoires-Alkaran",
+    "note": "Altram.md : trou dynastique — entre Aldric II (fin de règne 218) et Aldric IV (avènement 234) un règne intermédiaire non nommé (le « grand-père » d’Aldric IV évoqué au couronnement)."
+  },
+  {
+    "src": "histoires-Alkaran",
+    "note": "Méthodologie : chaque « An 0 » est local (fondation propre à chaque nation : Aldric/Iskara, Varnok/Altram, Zarek/Torkam) et non le calendrier absolu ap.A (An 0 = l’Arrachement) ; Ferrath emploie une échelle +/− locale (ex. +187, −1500). Toutes les années sont donc laissées à null, dates brutes recopiées dans les labels."
+  },
+  {
+    "src": "histoires-Alkaran",
+    "note": "Ferrath.md : la « lignée des Enfants-de-la-Roche » de Veshva (famille de bergers) recoupe l’espèce déjà connue « Les Enfants de la Roche » (orthographe sans traits d’union) — rattachement fait via membre-de sans créer de doublon."
+  },
+  {
+    "src": "histoires-Azoria",
+    "note": "Homonymie « Drevan Sept-Étoiles » (Caeloria.md): plusieurs porteurs en ligne juridique — le successeur de Lethanis Vor-Ostrun à Astravia (~3 siècles avant 251), le maître d'Iverra en l'an 220, Drevan III (sermon 247, mort 250) et Drevan IV actuel; le texte ne dit pas si le maître d'Iverra (220) et Drevan III (247) sont la même personne."
+  },
+  {
+    "src": "histoires-Azoria",
+    "note": "Trois personnes distinctes nommées « Vell » dans Solmaris.md: Vell Krasv-Velkmis (an 154-220), Vell Brum-Solnir-Brume (68 ans) et Vell Krasv-Thylaria (an 173-241) — risque de fusion."
+  },
+  {
+    "src": "histoires-Azoria",
+    "note": "Plusieurs « Mira » dans la section Azoria: Mira apprentie-observatrice de Thylaria (No Man's Land Azoria.md, « Récif de Mira »), Mira Solnir-Brume (Solmaris.md), Mira Velm-Frostlin (Caeloria.md), Mira Kort-Vraskvar (Kethvar.md), en plus des Mira déjà au graphe (Mira Dasthen, Mira Halnerin, Mira II)."
+  },
+  {
+    "src": "histoires-Azoria",
+    "note": "Deux « Halmar » distincts: Halmar Kort-Vraskvar (graveur retraité, Azoral.md) et Halmar Tresk-Verstrum (scribe, Kethvar.md)."
+  },
+  {
+    "src": "histoires-Azoria",
+    "note": "Mara Threv-Kethdar est explicitement « à ne pas confondre avec Mara Telventh, la réformatrice Roteri de Galenor » (Kethvar.md) — coïncidence de prénoms."
+  },
+  {
+    "src": "histoires-Azoria",
+    "note": "« Les Coureurs des Vents » (Azoral.md) pourrait être confondu avec l'espèce « Les Coureurs » déjà au graphe; la fiche présente les Coureurs des Vents comme des nomades humains, la nature exacte du lien avec l'espèce n'est pas clarifiée."
+  },
+  {
+    "src": "histoires-Azoria",
+    "note": "Vesna Krasv-Velkmis apparaît dans deux fichiers (No Man's Land Azoria.md et Solmaris.md) avec la même description (82 ans en 251) et la même citation « les vraies cendres sont chez nous » — même personne."
+  },
+  {
+    "src": "histoires-Azoria",
+    "note": "« Endora » / « Premier Lecteur d'Endora » (Caeloria.md) désigne une localité caélorienne avec sa propre diplomatie et un relais vers l'observatoire de Duskoris; risque de confusion avec la nation Endora déjà au graphe (le fait regne conserve object=Endora par prudence)."
+  },
+  {
+    "src": "histoires-Azoria",
+    "note": "Tension assumée dans Kethvar.md sur les Sept Anneaux: la doctrine tient qu'ils existaient « en droit » dès l'an 28 du Sillage, alors que seuls six eurent une guilde en 28 et que le septième (Anneau de Voile) n'eut la sienne, la Guilde des Marins-Forgeurs, qu'en ~an +120."
+  },
+  {
+    "src": "histoires-Azoria",
+    "note": "La section Azoria mêle trois calendriers: la plupart des dates de villages sont « du Sillage » (années laissées à null), tandis que l'Édit de Celestia (~9 500 ap.A) et la pétition de Frostlin (9 712 ap.A, décès 9 727 ap.A) sont en ap.A absolu."
+  },
+  {
+    "src": "histoires-Azoria",
+    "note": "Bataille des Gelées Éternelles: date non fixée (entre an 80 et 130 du Sillage) et participants incertains (troisième flotte « peut-être mosrackoise »); versions divergentes entre chroniques des nations et tradition locale du No Man's Land, non tranchables faute de chronique locale."
+  },
+  {
+    "src": "histoires-Azoria",
+    "note": "« Le Petit Office de Calmara » (Caeloria.md): le nom « Calmara » pourrait renvoyer à Calmara Sept-Murs déjà au graphe, mais la fiche ne le confirme pas."
+  },
+  {
+    "src": "histoires-Azoria",
+    "note": "Deux artefacts de stellarite forgée au motif géométrique inconnu de la Guilde des Graveurs de Vraskvar sont décrits en parallèle (l'un extrait d'un Léviathan à Eltrassa par Skela Velk-Ven, l'autre rapporté de Galdrith par Thandric Cœur-de-Givre), tous deux découverts en l'an 244 du Sillage; le lien éventuel n'est pas explicité et n'est pas tranché."
+  },
+  {
+    "src": "histoires-Azoria",
+    "note": "Plusieurs « Velna » distincts: Velna Kort-Ven (Azoral), Velna Korr (Solmaris), Velna Kort-Hjorgvik (Kethvar), Velna Korr-Volgvar (Kethvar), Sœur Velna Brum-Velmaris (Solmaris) — homonymie de prénom."
+  },
+  {
+    "src": "histoires-Baelor",
+    "note": "Baelor.md : Kethron II est désigné à la fois « Kethron II » et « le quatrième de la lignée » — la numérotation régnale (II) et le rang dans la lignée d'abbés (4e) ne coïncident pas ; ambiguïté non résolue."
+  },
+  {
+    "src": "histoires-Baelor",
+    "note": "Baelor.md : toutes les dates sont relatives (« ~5000 ans avant l'an actuel », « ~4 siècles avant le Sillage actuel », « an 89 du Sillage », « an 251 ») ; l'an 251 (débarquement de Sorin) et l'an 89 (conclave) relèvent du calendrier du Sillage, non de l'ap.A — aucune année absolue renseignée."
+  },
+  {
+    "src": "histoires-Baelor",
+    "note": "Baelor.md : « Sera », interprète accompagnant Sorin Valthen (ch. 36 de ses chroniques), n'est pas désambiguïsée ; elle pourrait correspondre à « Sera de Celethor » ou « Sera Drahk'Nor » déjà présentes au graphe — lien non tranché ici."
+  },
+  {
+    "src": "histoires-Baelor",
+    "note": "Baelor.md : le mot gravé sur la lamelle non scellée d'Hesvar de Tholmë est explicitement contesté (trois lectures : « peut-être », « encore », ou un signe gestuel baelorien que plus aucun Silentii vivant ne sait lire) — non tranché."
+  },
+  {
+    "src": "histoires-Baelor",
+    "note": "Baelor.md : la langue murmurée par Frère Ossian est présentée comme identique à « la voix des falaises » entendue par les moines fondateurs ; correspondance recopiée telle quelle, mystère non résolu."
+  },
+  {
+    "src": "histoires-Baelor",
+    "note": "Baelor.md : Kethron VI écrit « Dessous » à Sorin Valthen, écho possible du mystère protégé de la Profondeur Première / « le dessous » ; non tranché, aucune identification faite."
+  },
+  {
+    "src": "histoires-Baelor",
+    "note": "Baelor.md : la silhouette de l'horizon nord-est (vue par Sœur Kael puis Pelvas) reste non identifiée, et l'amulette de pierre noire de Sorin n'est jamais nommée « Fragment » dans la fiche — aucune identification avancée."
+  },
+  {
+    "src": "histoires-Celethor",
+    "note": "Homonymie « Aldren »: le nom désigne au moins trois personnes distinctes dans ces fiches — le capitaine survivant de l'Invasion Avortée (Nysaria.md), le Grand Chaman de Ryldor (Ryldor.md, épisode Faldoris) et le cinquième prospecteur de Zarnith (No Man's Land Celethor.md) — sans compter les Aldren déjà au graphe; risque de fusion."
+  },
+  {
+    "src": "histoires-Celethor",
+    "note": "Homonymie « Aldric »: charron d'Invernis (Astravia.md), figure fondatrice de Feylor (No Man's Land Celethor.md) et le cartographe Aldric Valthen sont des personnes différentes à ne pas fusionner."
+  },
+  {
+    "src": "histoires-Celethor",
+    "note": "Le « sergent Valdris » fondateur du campement (Elarian.md, No Man's Land Celethor.md) a été rattaché à l'entité existante « Valdris l'Ancien » par hypothèse d'identité; le texte ne l'énonce pas explicitement."
+  },
+  {
+    "src": "histoires-Celethor",
+    "note": "Nombre d'Effacés de Valdris incohérent: « Frosthal » (Elarian.md) parle de « vingt-six soldats » Effacés, tandis que « L'Ordre qu'on refuse » (No Man's Land Celethor.md) précise « vingt-sept, le sergent compris » — écart de 26 vs 27 selon que l'on compte ou non le sergent."
+  },
+  {
+    "src": "histoires-Celethor",
+    "note": "« Sera », fondatrice de l'école de médecine de Thyros (Ryldor.md), est un homonyme possible de « Sera de Celethor » déjà au graphe; à ne pas fusionner sans preuve."
+  },
+  {
+    "src": "histoires-Celethor",
+    "note": "« Conseil des Jarls » (Elarian.md) et « Cercle des Jarls » (terme du graphe) pourraient désigner la même institution sous deux libellés."
+  },
+  {
+    "src": "histoires-Celethor",
+    "note": "Thyros est présenté comme le Grand Chaman contemporain de Ryldor (il conduit l'épreuve des carnets et prend les mesures du Sanctuaire) mais le titre n'est jamais écrit explicitement (Ryldor.md); rôle marqué comme inféré."
+  },
+  {
+    "src": "histoires-Celethor",
+    "note": "« Andren », sentinelle d'Aeloria (Astravia.md), est graphiquement proche de « Ander » déjà au graphe; homonymie à surveiller."
+  },
+  {
+    "src": "histoires-Celethor",
+    "note": "Aldric Valthen (an 222 env.) et Sorin Valthen (an 252), tous deux cartographes galenoriens du même nom à trente ans d'intervalle (Nysaria.md), suggèrent une parenté non explicitée par les fiches."
+  },
+  {
+    "src": "histoires-Celethor",
+    "note": "Toutes les dates de ces fiches sont en calendrier local (« an X ») ou « du Sillage » (+172 à +193), jamais en ap.A/av.A absolu; conformément à la règle, start_year/end_year restent null et la date brute est recopiée dans les labels."
+  },
+  {
+    "src": "histoires-Celethor",
+    "note": "Le mystère de ce qui s'éveille sous la glace (ours blancs veilleurs, « Il vient », Zyldor, No Man's Land Celethor.md) n'est pas résolu ici; il fait écho, sans être identifié, aux questions déjà au graphe sur ce qui gît sous la glace."
+  },
+  {
+    "src": "histoires-Cendara",
+    "note": "Le patronyme « Tessen » est explicitement un nom commun sans lien familial : Khor Tessen et Selva Tessen « sans rapport familial » à Vorrask, Vels Tessen « sans rapport avec Vorlan », plus Aldwin Tessen, Vaela Tev, Vorlan Tessen, Selka Tessen — aucune lignée « Les Tessen » ne doit être créée (Pyrevane.md, Arkhen.md)."
+  },
+  {
+    "src": "histoires-Cendara",
+    "note": "Contradiction apparente : à Suie-Basse « Vortrim, Tessen, Karlith » sont pourtant nommées comme trois familles locales s'inter-mariant depuis un siècle et demi, ce qui coexiste mal avec le statut de « nom commun » de Tessen (Arkhen.md, Suie-Basse)."
+  },
+  {
+    "src": "histoires-Cendara",
+    "note": "Deux personnes distinctes nommées « Tessa » : la bergère de Mylaris (Brumaria.md) et l'épouse de Karel Vorsalt (Arkhen.md) — homonymie signalée."
+  },
+  {
+    "src": "histoires-Cendara",
+    "note": "Deux personnes distinctes nommées « Selka » : Selka Tessen (Khoram, successeur de Mevren) et Selka Vortrim (Suie-Basse, fille de Tessina) — homonymie signalée."
+  },
+  {
+    "src": "histoires-Cendara",
+    "note": "« Aldric » le vigneron de Solarith (Brumaria.md) est homonyme des nombreux Aldric déjà au graphe (Aldric Valthen, Aldric le Bâtisseur, etc.) ; personne distincte sans patronyme, nommée ici « Aldric (vigneron de Solarith) »."
+  },
+  {
+    "src": "histoires-Cendara",
+    "note": "Graphies proches à ne pas confondre : « Tor Velden » (forgeron de Cendrelis, Arkhen.md) et la famille « Velthen » / « Mara Velthen » (Tess-Volange)."
+  },
+  {
+    "src": "histoires-Cendara",
+    "note": "Le titre de section « Virondis » (Brumaria.md) traite en réalité des arbres ignifuges « de Virendor » ; les deux toponymes existent au graphe — flottement possible entre lieu-titre et lieu du récit."
+  },
+  {
+    "src": "histoires-Cendara",
+    "note": "Mois voisins possiblement confondus : Khessa meurt « 14 du mois Vaden 232 » et Tor Velden voit la cendre « 14 du mois Vaden 252 » (Cendrelis), tandis que Karendis Vorth brûle son carnet « 14 du mois Vanir 252 » et Sorin traverse Aïkhar le même jour (Cinderhold). « Vaden » et « Vanir » sont proches (Pyrevane.md, Arkhen.md)."
+  },
+  {
+    "src": "histoires-Cendara",
+    "note": "« Karendis » est un nom de règne repris par chaque Maître de Pyrevane-Mère (Karendis I = Khalor, IV, IX = Tael), non une lignée de sang ; « Karendis Vorth » (inspecteur cinderholdien) est explicitement « sans rapport » avec eux (Pyrevane.md)."
+  },
+  {
+    "src": "histoires-Cendara",
+    "note": "« Vels Tessen » (doyen de Caldegris) est distinct de l'entité connue « Vels Draye » et de « Vorlan Tessen » (Arkhen.md)."
+  },
+  {
+    "src": "histoires-Cendara",
+    "note": "Flamara n'apparaît que comme sujet de la Lecture de Miséricorde (« aurait cassé son propre sommet ») ; conformément aux consignes elle n'est pas créée comme entité — rumeur non canonique laissée en note (Pyrevane.md)."
+  },
+  {
+    "src": "histoires-Cendara",
+    "note": "Dates : toutes les années « du Sillage » / « an X » locales (47, 121, 137, 168, 232, 244-254, etc.) sont laissées sans start_year/end_year numérique et recopiées en label ; seules les dates av.A absolues (~18 000, ~14 500, ~7 000, circa) et l'An 0 (Arrachement) reçoivent une année."
+  },
+  {
+    "src": "histoires-Cendara",
+    "note": "Mystère laissé ouvert (protection) : ce qui « pulse » ou « dort » sous le Mont Cendra — cadence ≈46 s attestée indépendamment à Tess-Volange, Stephar, Vesthrim et dans la Chambre du Cœur — traverse les trois fiches sans être résolu ; non tranché."
+  },
+  {
+    "src": "histoires-Cendara",
+    "note": "« Sorvain » et « Sorvain le Long » désignent la même Voix sous les Cendres (nom canonique « Sorvain le Long ») ; encore vivant dans le présent narratif (mort seulement projetée, non datée), d'où l'absence de fait de mort."
+  },
+  {
+    "src": "histoires-Cestra",
+    "note": "Cestra.md (Registre de Maintien / Noravia.md): le trou du Registre est daté « années 180 à 187 du Sillage » pour les pages arrachées, mais le silence des anciens porte sur « entre 184 et 191 » — deux plages différentes pour le même épisode."
+  },
+  {
+    "src": "histoires-Cestra",
+    "note": "Cestra.md dit que la Conseillère qui reçut Aldric Valthen en 220 est « une Conseillère plus âgée dont le nom n'a pas été conservé », alors que Noravia.md la nomme « Vesmira d'Halgren » (d'après les chemises de Sethiran): même personne, sources divergentes."
+  },
+  {
+    "src": "histoires-Cestra",
+    "note": "Cestra.md (Guerre du Sable): le mage survivant nommé simplement « Vorath » est distinct des « Vorath le Tacite » et « Vorath Shan » déjà au graphe; enregistré ici « Vorath (mage de Kytheris) » pour éviter la confusion."
+  },
+  {
+    "src": "histoires-Cestra",
+    "note": "Cestra.md distingue explicitement « Mira l'Ancienne » de « Mira Dasthen » (contemporaine de Sorin); homonymie à surveiller avec Mira II et Mira Halnerin déjà connus."
+  },
+  {
+    "src": "histoires-Cestra",
+    "note": "Noravia.md signale que l'archiviste « Holvan » (passant permanent formé par Sethiran) porte, par coïncidence, le nom du capitaine fondateur « Holvan d'Ulinor »: deux personnes distinctes."
+  },
+  {
+    "src": "histoires-Cestra",
+    "note": "Chronologie: la Fondation de Noravia est datée en absolu (~9 900 ap.A) et sa codification écrite ~10 080 ap.A, alors que toute la vie interne de la colonie (fondation orale, mandats, expéditions) est comptée « du Sillage »; la correspondance entre les deux calendriers n'est pas explicitée dans les fiches."
+  },
+  {
+    "src": "histoires-Cestra",
+    "note": "Deux objets déjà au graphe — « La lettre d'Aldric Valthen » et « La feuille du père (« Tu es prêt ») » — semblent désigner la même lettre remise à Sorin (dont la première phrase est aussi son incipit)."
+  },
+  {
+    "src": "histoires-Cestra",
+    "note": "L'école arcanistique « mère » de la Guerre du Sable est dissoute et non nommée dans Cestra.md; seule survit « l'École Arcanistique de Kytheris-Mineure » où sont gardées les notes de Mira l'Ancienne."
+  },
+  {
+    "src": "histoires-Cestra",
+    "note": "Flamara: aucune occurrence dans les fiches Cestra; aucune entité créée (conforme à l'interdit)."
+  },
+  {
+    "src": "histoires-Endora",
+    "note": "Haldria.md : le texte rattache Haldria à la région d'Ilthara (« puissance maritime incontestée d'Ilthara »), alors que la fiche est classée sous le continent Endora — incohérence géographique possible."
+  },
+  {
+    "src": "histoires-Endora",
+    "note": "Avalor.md : la fondatrice « Nyméra la Muette » est orthographiée « Nymera » (sans accent) dans la section Zorathis."
+  },
+  {
+    "src": "histoires-Endora",
+    "note": "Haldria.md / Sanvara.md / Avalor.md : deux systèmes de datation coexistent — un « an X » local (an 134–251) pour les récits de personnages et une date absolue ap.A (~6 800 ap.A) pour la Charte des Sept Routes ; les dates « an X » ont été laissées à année nulle, faute d'ancrage absolu."
+  },
+  {
+    "src": "histoires-Endora",
+    "note": "Haldria.md : « les Tables stellaires » correspond vraisemblablement à l'œuvre canonique « Les Tables Stellari » (variante orthographique)."
+  },
+  {
+    "src": "histoires-Endora",
+    "note": "Avalor.md : « Indelite » (forêt, sections Crestalis/Galdorin) et « Indelith » (village/lieu de retraite de Theron et poste de Sylven) coexistent comme entités canoniques distinctes mais pourraient désigner la même localité (risque de confusion orthographique)."
+  },
+  {
+    "src": "histoires-Endora",
+    "note": "Velaris (Avalor.md) : « Sylven la Tisserande » (née an 156) est nommée en mémoire de la fondatrice sourde-muette de Velaris, homonyme du canonique « Sylven (première Voix) » — à ne pas confondre."
+  },
+  {
+    "src": "histoires-Endora",
+    "note": "Avalor.md : deux fondatrices muettes distinctes coexistent — Nyméra la Muette (fondatrice d'Avalor) et la fondatrice sourde-muette de Velaris — écho thématique sans contradiction établie."
+  },
+  {
+    "src": "histoires-Endora",
+    "note": "Avalor.md : le sage « Keldris » de Vyndarin est homonyme du lieu canonique « Keldris » (collision de noms)."
+  },
+  {
+    "src": "histoires-Endora",
+    "note": "Homonymies désambiguïsées par qualificatif : « Aldric » (frère de Lyssara) vs les nombreux Aldric canoniques ; « Vela » (mère d'Eryn) vs « Vela Morn » ; « Kael » (Voix de Velaris) vs « Kael le Cendreux »/« Sœur Kael » ; « Mira » (fille de Koren) vs les autres Mira ; « Aldren » (de Thalor) et « Aldren Vel » vs les Aldren canoniques."
+  },
+  {
+    "src": "histoires-Endora",
+    "note": "Les chronologies internes en « an X » (Veidra 134–198, Andival 161–224, Sahari →226, Tordav →219, Lethrin →247, Sylven 156–227, Toren entré 237) sont mutuellement cohérentes ; aucune contradiction de dates relevée."
+  },
+  {
+    "src": "histoires-Evertia",
+    "note": "Sylvara.md: le Pacte de l'Arbre-Mère est daté « sept générations » par les Mains Vertes (formule glissante) mais « ~an −80 du Sillage » (~330 ans) par les Cantori thalmariens; les Sylvarains ne confirment ni n'infirment — datation contradictoire."
+  },
+  {
+    "src": "histoires-Evertia",
+    "note": "Evertia.md: la résidence impériale est nommée tantôt « Château de la Cascade » tantôt « palais de la Cascade », et la localité s'écrit « Caëspia » (Repères) mais « Caespia » (récit) — même lieu, orthographes divergentes."
+  },
+  {
+    "src": "histoires-Evertia",
+    "note": "Evertia.md: « Korven » désigne ici un bûcheron (patient de Thalwen à Sélyandris), homonyme du lieu connu « Korven » / « Hameau de Korven » — ne pas confondre."
+  },
+  {
+    "src": "histoires-Evertia",
+    "note": "Evertia.md: « Corven » (réparateur de filets, Coralvine) est un quasi-homonyme de « Korven » (bûcheron, Sélyandris) et du lieu « Korven » — trois entités distinctes."
+  },
+  {
+    "src": "histoires-Evertia",
+    "note": "Evertia.md / Thalmaris.md: le « Gardien Theron » (Sombreval) et l'archiviste « Theron Cass » (Velrith) s'ajoutent aux nombreux Theron déjà au graphe (Theron Archidruide d'Avalor, Theron fils de Kaeldar, Theron IV, Theron l'Enclume) — homonymes sans lien établi."
+  },
+  {
+    "src": "histoires-Evertia",
+    "note": "Thalmaris.md: « Mira » (copiste muette d'Elarinor) est homonyme de plusieurs Mira du graphe (Mira Dasthen, Mira Halnerin, Mira II, Sœur Mira-Reth Nathalan); aucun lien établi."
+  },
+  {
+    "src": "histoires-Evertia",
+    "note": "Thalmaris.md: « Oryn Vael » (barde d'Ostarith) partage son prénom avec le « Oryn » déjà au graphe; identité non établie."
+  },
+  {
+    "src": "histoires-Evertia",
+    "note": "Sylvara.md: « Marvet » est ici une personne (un saigneur de la rive sud) alors que « Marvet » figure déjà au graphe comme lieu; homonymie non résolue."
+  },
+  {
+    "src": "histoires-Evertia",
+    "note": "Thalmaris.md: le centre musical est nommé « Palais du Chant », « Académie du Cantus » et « Académie d'Ostarith »; possiblement une même institution ou plusieurs distinctes — non tranché."
+  },
+  {
+    "src": "histoires-Evertia",
+    "note": "Evertia.md vs Sylvara.md: « Guilde des Herboristes » désigne côté evertien l'autorité médicale qui bannit Thalwen (Sélyandris) et côté sylvarain une guilde explicitement « thalmarienne » qui achète la sève; même nom, possiblement deux institutions."
+  },
+  {
+    "src": "histoires-Evertia",
+    "note": "Evertia.md: la « Grande Cloche de Créciel » pourrait correspondre au lieu « Cloche » déjà au graphe; lien non établi."
+  },
+  {
+    "src": "histoires-Evertia",
+    "note": "Sylvara.md: « Eilwen » (Arbre-Mère, Écoute de la Sève) est rattachée au canonique « Eilwen aux Mains Vertes »; la fiche ne donne que « Eilwen » — identification probable mais non explicite. De même « Aerith » y désigne le hameau (lieu connu), homonyme de la personne « Aerith » du graphe."
+  },
+  {
+    "src": "histoires-Evertia",
+    "note": "Evertia.md: « Aelric » (héritier impérial, 15 ans) est réutilisé depuis le graphe; à confirmer qu'il s'agit bien de la même entité que le « Aelric » existant."
+  },
+  {
+    "src": "histoires-Evertia",
+    "note": "Toutes les dates de ces fiches (200, 250, 251, 252, 254, « −80 du Sillage », « sept générations », « il y a des millénaires ») sont relatives ou du Sillage/local — aucune date absolue ap.A/av.A, d'où start_year/end_year à null pour tous les faits."
+  },
+  {
+    "src": "histoires-Galenor",
+    "note": "Toutes les dates des fiches Galenor sont en 'an X' local (an 50 à an 252), non en ap.A absolu : start_year/end_year laissés à null conformément à la règle, dates brutes conservées dans les labels (Lumasar.md, Seraphia.md, Valoria.md, Ventera.md, Solena.md, Kharazir.md, Trinoria.md)."
+  },
+  {
+    "src": "histoires-Galenor",
+    "note": "Homonymes 'Veldris' : l'astronome aveugle de Brendorn (Lumasar.md) est rattaché au nom canonique 'Veldris', mais il coexiste avec Veldris l'Ancien (Thane d'Ethrion, Valoria.md) et Veldris III/Veldrik II ; identité à confirmer."
+  },
+  {
+    "src": "histoires-Galenor",
+    "note": "Homonymes 'Kael/Kaël' : Kaël cristallier de Sylvorn et Kael Veilleur de Sylthronis (Lumasar.md), Kael pêcheur d'Ylondor (Kharazir.md) sont trois personnes distinctes, à ne pas confondre avec Kael le Cendreux ou Sœur Kael déjà connus."
+  },
+  {
+    "src": "histoires-Galenor",
+    "note": "Homonymes 'Aldric' : Aldric Thrand (fils de Yornis, Valoria.md/Lyntheria), Aldric cavalier de Kryndor (Ventera.md) et Aldric berger de Valthorn (Kharazir.md) sont distincts entre eux et des nombreux Aldric connus (Aldric Valthen, Aldric le Bâtisseur, etc.)."
+  },
+  {
+    "src": "histoires-Galenor",
+    "note": "Homonymes 'Mira' : Mira bergère d'Ythara (Lumasar.md) et Mira cavalière d'Ultharia (Ventera.md) sont distinctes de Mira Dasthen, Mira Halnerin et Mira II."
+  },
+  {
+    "src": "histoires-Galenor",
+    "note": "Homonymes 'Elara' : Elara épouse de Kael à Sylthronis (Lumasar.md) et Elara Vinthor vigneronne de Lysara (Kharazir.md) sont deux personnes différentes."
+  },
+  {
+    "src": "histoires-Galenor",
+    "note": "'Aldren de Nydoros' (cartographe de rêves, Lumasar.md) est distinct d'Aldren de Plenera (Roi-Cavalier de Ventera) et des autres Aldren connus."
+  },
+  {
+    "src": "histoires-Galenor",
+    "note": "'Valdren Ayle' (peintre du Grand Tableau d'Althior, Seraphia.md) est distinct de Valdren le Trouvère déjà connu."
+  },
+  {
+    "src": "histoires-Galenor",
+    "note": "'Theron d'Ulverith' (Gardien du cristal, Lumasar.md) est distinct des Theron connus (Archidruide d'Avalor, Theron IV, Theron l'Enclume, etc.)."
+  },
+  {
+    "src": "histoires-Galenor",
+    "note": "'Kessa' de Velathor (chamane, morte an 251, Trinoria.md) réutilise le nom canonique 'Kessa' ; vérifier qu'il s'agit bien de la même entité et non d'une homonyme de Kessane de la Forge-Basse."
+  },
+  {
+    "src": "histoires-Galenor",
+    "note": "'Veyla' l'érudite de Valthorn (Kharazir.md) est rattachée au nom canonique 'Veyla' déjà connu ; identité à confirmer et à ne pas confondre avec Veyra de Falneth (Lumasar.md)."
+  },
+  {
+    "src": "histoires-Galenor",
+    "note": "'Omarin', ami de Sorin Valthen au Bazar de Rukhsar (Kharazir.md), est plausiblement 'Omarin de Velithis' déjà connu, mais le lien n'est pas explicite dans la fiche."
+  },
+  {
+    "src": "histoires-Galenor",
+    "note": "Dossier Sorin Valthen : Kharazir.md dit qu'il a déposé ses dix-sept cahiers au Tribunal des Plumes de Lumasar début 251, alors que Lumasar.md (Invorial) dit que la République des Plumes a refusé d'examiner son dossier faute de lettre de créance — dépôt vs refus d'examen à réconcilier ; les deux organes semblent être le même (Tribunal des Plumes = République des Plumes de Lumasar)."
+  },
+  {
+    "src": "histoires-Galenor",
+    "note": "'Le carnet de son père' que porte Sorin Valthen (Kharazir.md) pourrait correspondre à l'objet déjà connu 'Le carnet d'Aldric Valthen', ce qui suggérerait qu'Aldric Valthen est le père de Sorin ; la fiche ne le dit pas explicitement — non tranché (mystère protégé du sort d'Aldric Valthen)."
+  },
+  {
+    "src": "histoires-Galenor",
+    "note": "La 'Recalibration Tacite' est décrite à l'identique à Seraphia (Tables stellaires, Seraphia.md) et à Astralon en Ventera (arches, Ventera.md) : même pratique sous des noms locaux différents."
+  },
+  {
+    "src": "histoires-Galenor",
+    "note": "Les trois cavaliers de Kryndor disparus vers le sud (Vendris an 198, Tessana an 222, Aldric an 247, Ventera.md) recoupent les 'cairns qui marchent toujours vers le sud' de Myrkis (Ventera.md) — convergence géographique vers les terres non cartographiées, non expliquée."
+  },
+  {
+    "src": "histoires-Galenor",
+    "note": "Faisceau de signes convergeant vers/sous Prismalith : coordonnées murmurées par Veyren (Lumasar.md), point pulsant au-dessus de Prismalith entendu par Veldris (Brendorn) et lu par Thalendris, masse souterraine perçue par Mère Sylthe (Velastris), constellation errante vers le Huitième Pilier notée par Aldric de Valthorn (Kharazir.md) — présentés comme observations séparées, non unifiés dans les fiches."
+  },
+  {
+    "src": "histoires-Galenor",
+    "note": "'La Grande Éclipse' (Lumasar) est un événement local distinct de l'Arrachement ; sa cause (rôle d'un cercle secret d'archimages) reste explicitement non tranchée dans Rithmar (Lumasar.md)."
+  },
+  {
+    "src": "histoires-Galenor",
+    "note": "Osaria n'a pas de récit propre : la région est couverte par Quinthor, Mylnor et Felithar (Kharazir.md, note de fin de fichier)."
+  },
+  {
+    "src": "histoires-Ilthara",
+    "note": "Collision de nom : 'Lunaris' designe a la fois la capitale de Lunasar (cote vytharienne, Lunasar.md) et un canyon de Drakora (histoire 'Le Reve de Vey'thar', Drakora.md) -- deux lieux distincts homonymes."
+  },
+  {
+    "src": "histoires-Ilthara",
+    "note": "Homonymie 'Aldren' : Aldren de Talmaris (Lythar.md), Aldren colon de Nymiris (Pyrtara.md) et Aldren vieux Brule de Lunaris (Drakora.md) sont trois personnages differents, en plus des Aldren deja connus dans le graphe."
+  },
+  {
+    "src": "histoires-Ilthara",
+    "note": "Homonymie 'Thyssa' au sein de Pyrtara.md : le sergent de Velorn et la cultivatrice de poivre de Kyldar sont deux personnes distinctes."
+  },
+  {
+    "src": "histoires-Ilthara",
+    "note": "Noms proches Thyra/Thyria : Thyra druide d'AckernaVille (Ackerna.md), Thyra chasseuse de Felvoria (Drakora.md) et Thyria Veilleuse de Zaralith (Vytharia.md) designent trois personnages differents."
+  },
+  {
+    "src": "histoires-Ilthara",
+    "note": "Deux Veilleurs nommes 'Aldris' dans Vytharia.md (Brystalis et Velthorin) : les fiches ne precisent pas s'il s'agit du meme homme ou d'homonymes."
+  },
+  {
+    "src": "histoires-Ilthara",
+    "note": "Homonymie 'Maela' : doyenne guerisseuse de Galdris (Warenthor.md) et vieille de Fenoria (Sylthara.md) sont deux personnes distinctes."
+  },
+  {
+    "src": "histoires-Ilthara",
+    "note": "Noms quasi identiques dans des fiches differentes : Velden (forestier de Drylia, Sylthara.md) / Veldon (chaman de Sorothar, Warenthor.md) / Veldra (mere d'Yselle, Vytharia.md), et Bren (Raenoris, Lythar.md) / Bern (fermier de Feylorn, Sylthara.md)."
+  },
+  {
+    "src": "histoires-Ilthara",
+    "note": "Homonymie 'Valdren' : famille Valdren de Thyrana (Ackerna.md), Brule Valdren de Xelthor (Drakora.md) et le connu Valdren le Trouvere."
+  },
+  {
+    "src": "histoires-Ilthara",
+    "note": "Collision semantique du terme 'Lie' : a Drakora (Drakora.md) il designe un humain lie a un dragon, sens distinct du 'Lie'/'Lien' cosmique deja connu (magie du Lien) -- rendu ici par l'entite 'Le Lie draconique'."
+  },
+  {
+    "src": "histoires-Ilthara",
+    "note": "Dates : Lunasar.md et Mirathi.md melent des dates absolues en ap.A (fondations ~9 400 / 9 900 ap.A, Sanctuaire, Breche) et un comptage local 'an 215-254' (visiteurs aux amulettes, Lunarchs, Orneth, Sorin Valthen) sans preciser l'ere ; ce comptage local a ete conserve en label avec annee nulle."
+  },
+  {
+    "src": "histoires-Ilthara",
+    "note": "Incoherence chronologique signalee dans la fiche elle-meme (Lunasar.md, Hauts-Estuaires) : a Thalmaris un copiste a confondu l'amulette du corps inconnu (an 248) avec celle d'Aldric Valthen, 'brouillant la chronologie de plusieurs cycles dans les Tables thalmariennes'."
+  },
+  {
+    "src": "histoires-Ilthara",
+    "note": "Chevauchement chronologique a Mirathi (Mirathi.md) : la Breche du Neant (~9 300-9 500 ap.A, existence contestee) precede ou recouvre la fondation du Sanctuaire et l'implantation Taciti (~9 400 ap.A) sans articulation nette."
+  },
+  {
+    "src": "histoires-Ilthara",
+    "note": "Ambiguite toponymique a Mirathi (Mirathi.md) : 'Vrenith' nomme a la fois le plateau et l'ermitage Taciti le plus austere qui s'y trouve."
+  },
+  {
+    "src": "histoires-Ilthara",
+    "note": "Motif recurrent non tranche (mystere protege, non resolu ici) : une presence ou un chant sous la terre -- 'Chant des Profondeurs' a Gnosias et Ylisfar, presence 'qui dort sous Ilthara' a Ostram (Ackerna.md), Vey'thar le Dragon Dormant a Lunaris (Drakora.md) -- converge vers ce qui dormirait sous Ilthara."
+  },
+  {
+    "src": "histoires-Ilthara",
+    "note": "Coincidence recurrente non expliquee : l'intervalle '87' et le motif de 'l'oeil' -- lumiere bleue tous les 87 jours a Taldorn, pulsation toutes les 87 secondes au Mont Pyralis interpretee comme 'un oeil' (Pyrtara.md), oeil vertical de Vey'thar (Drakora.md)."
+  },
+  {
+    "src": "histoires-Ilthara",
+    "note": "Motif 'troisieme langue' recurrent (non elucide) : symbole sur la carte de Sorin Valthen (Lunasar.md), copies du Message de Mirathi et dernier mot d'un frere de Tholme (Mirathi.md), inscription lisible-mais-inconnue de Taldric a Veylorn (Gryndor.md)."
+  },
+  {
+    "src": "histoires-Ilthara",
+    "note": "La fondatrice du premier Chene-Mere d'Ackerna (Ackerna.md) est volontairement anonyme (nom efface) ; non retenue comme entite faute de nom propre. Aucune mention de Flamara dans les fiches Ilthara."
+  },
+  {
+    "src": "histoires-Onara",
+    "note": "Aldris Vay (pilote de Porthar, Tyndara.md) partage un prénom quasi identique avec « Aldris Vane » déjà dans le graphe : possible variante orthographique ou personne distincte, non tranché."
+  },
+  {
+    "src": "histoires-Onara",
+    "note": "Deux Lirenn dans ces fiches — Lirenn fille de Selvas Morn (Eryndoris, Tyndara.md) et Lirenn matrone de Pélandre (Elarath.md) — plus une « Lirenn » déjà connue : désambiguïsées, correspondance incertaine."
+  },
+  {
+    "src": "histoires-Onara",
+    "note": "Plusieurs « Sera » : la garde de Ramseck (Mosrack.md), l'apprentie saunière d'Ostrabis (Elarath.md), plus les Sera connues (Sera Drahk'Nor, Sera de Celethor) — personnes distinctes désambiguïsées."
+  },
+  {
+    "src": "histoires-Onara",
+    "note": "La comptable « Mira » de Celnaris/Eryndoris (Tyndara.md) est distincte des Mira connues (Mira Dasthen, Mira Halnerin, Mira II)."
+  },
+  {
+    "src": "histoires-Onara",
+    "note": "« Maren » (Feyloris, Myrtam.md) et « Marenn » (fille de Retto, Elarath.md) : orthographes différentes, personnes distinctes."
+  },
+  {
+    "src": "histoires-Onara",
+    "note": "« Aldren » forgeron n°7714 de Lyraxoris (Myrtam.md) est distinct des Aldren connus (Grand Chaman de Ryldor, de Plenera, le Juste)."
+  },
+  {
+    "src": "histoires-Onara",
+    "note": "Deux « Seld » : Seld frère d'Orn (forge de Valdran, Mosrack.md) et Seld d'Alkaran déjà connu — personnes distinctes."
+  },
+  {
+    "src": "histoires-Onara",
+    "note": "Le patronyme « Cors » revient chez Beln Cors (Zyndris) et Daven Cors (Ryldorath), tous deux Tyndara.md, sans lien de parenté indiqué."
+  },
+  {
+    "src": "histoires-Onara",
+    "note": "Le patronyme « Korel » revient chez Ben Korel (Eryndoris, Tyndara.md) et le jeune Korel (Ostrabis, Elarath.md), villes différentes, sans lien de parenté indiqué."
+  },
+  {
+    "src": "histoires-Onara",
+    "note": "Noms proches Davan Korren (Elarath.md), Daven Cors (Tyndara.md) et Daren (Zyndor, Myrtam.md) : personnes distinctes."
+  },
+  {
+    "src": "histoires-Onara",
+    "note": "Yrath-d'Aval se dit « descendant lointain d'un autre Yrath plus connu » non nommé (Pélandre, Elarath.md) ; rapprochement possible avec « Yrath-le-Vieux-Père » du graphe non établi — laissé en question ouverte, aucune relation descend-de affirmée."
+  },
+  {
+    "src": "histoires-Onara",
+    "note": "Le « Temple de la Flamme Éternelle » à Haliandris (Myrtam.md, Zyndor et Haliandris) correspond vraisemblablement au « Temple des Flammes Éternelles » déjà connu (variante singulier/pluriel)."
+  },
+  {
+    "src": "histoires-Onara",
+    "note": "La cité « Drelmais », ex-membre de la Fédération de Morveth basculée dès l'an 41 (Elarath.md), correspond au « Comptoir de Drelmais » du graphe (devenue comptoir tyndarien)."
+  },
+  {
+    "src": "histoires-Onara",
+    "note": "Fablioris possède une monarchie (rois numérotés) alors que Tyndara est dirigée par un Archonte : le statut de Fablioris (île-capitale ou sous-royaume) n'est pas précisé."
+  },
+  {
+    "src": "histoires-Onara",
+    "note": "Le nom du « troisième roi de Fablioris » a été volontairement effacé des chroniques (trou assumé par la fiche Tyndara.md)."
+  },
+  {
+    "src": "histoires-Onara",
+    "note": "Les numéros dynastiques (Thorvald VIII, Volkar IX, Valdris III) impliquent des lignées de dirigeants, mais aucune maison ni lignée n'est nommée dans les fiches d'Onara — aucune entité lignee créée ; Volkar IX porte « Volkar » comme titre honorifique, non comme filiation."
+  },
+  {
+    "src": "histoires-Onara",
+    "note": "Deux institutions distinctes du sel : la « Guilde du Sel » d'Elarath (Guerre des Sels) et la « Guilde du Sel tyndarienne » qui échoua trente ans à reproduire le pairage d'Ostrabis (Elarath.md)."
+  },
+  {
+    "src": "histoires-Onara",
+    "note": "Homonymie « des Quais » : Conseil des Quais (Morveth), Milice/Garde des Quais (Elarath) et l'« Assemblée des Quais » déjà connue — organes distincts."
+  },
+  {
+    "src": "histoires-Onara",
+    "note": "Toponymes proches dans Myrtam.md : « Xerathoris » (mines/village de l'Intendant Voss) et « Xerathoria » (cols et région traversés par Ereven)."
+  },
+  {
+    "src": "histoires-Onara",
+    "note": "Ce que Thorvald VIII crut voir sous l'Acier Éternel (humidité noire, lame « plantée », battement entendu par les gardes) reste un mystère non résolu, capturé en question sans être tranché."
+  },
+  {
+    "src": "histoires-Ulinor",
+    "note": "Ulinor.md : Yelthari la Muette apparaît à la fois comme figure fondatrice (Premiers Échos, création de l'alphabet écho-guide) et comme personne vivante à Jentaris en l'arc Sorin (assistée par Tirenne), alors que Mirathi Voix-d'Ambre est donnée comme Écho-Guide suprême de la tribu Jentar en l'arc Sorin — chevauchement/contradiction, ou 'Yelthari' pourrait être un titre récurrent (non tranché)."
+  },
+  {
+    "src": "histoires-Ulinor",
+    "note": "Calendriers : Skaldoria.md date en ap.A absolu (an 9 640, 9 900, 10 020…), tandis qu'Ulinor.md et Dhalvoria.md emploient un calendrier local à petits nombres (an 187, 195, 217, 232, 240, 244, 250…) et des 'siècles vallons' ; ces années locales sont laissées à null (label seulement) faute d'ancrage ap.A/av.A."
+  },
+  {
+    "src": "histoires-Ulinor",
+    "note": "Homonymie : 'Korven' (cristallier en chef de Korindar, Ulinor.md) et 'Korvenn' (charpentier de Dhalvora, Dhalvoria.md) sont deux personnes distinctes aux noms quasi identiques ; 'Korven' est aussi un lieu existant du graphe."
+  },
+  {
+    "src": "histoires-Ulinor",
+    "note": "Homonymie : 'Velmar' (guetteur de Talvornis, Ulinor.md) et 'Welmar' (forgeron de Keldris, Ulinor.md) sont deux personnes distinctes ; proximité aussi avec 'Velmund le Comptable' (Aaslund), 'Velderren' et 'Helderen' (Dhalvoria.md)."
+  },
+  {
+    "src": "histoires-Ulinor",
+    "note": "Homonymie : 'Vidar Trois-Hivers' (Kaltvik, Clan de l'Ours) est distinct de la personne connue 'Vidar le Long' ; 'Vela' (fille de Hreth la Calme) est distincte de 'Vela Morn'."
+  },
+  {
+    "src": "histoires-Ulinor",
+    "note": "Ulinor.md : 'Aldric' le mineur sourd de Korindar partage son prénom avec plusieurs Aldric du graphe (Aldric Valthen, Aldric le Bâtisseur, Aldric II/IV) ; renommé 'Aldric le Mineur Sourd de Korindar' pour éviter le doublon."
+  },
+  {
+    "src": "histoires-Ulinor",
+    "note": "Ambiguïté 'Folinor' : nom d'une tribu d'Ulinor (Ulinor.md : famine, greniers de Folindor) mais aussi référencé comme peuple/culture/langue voisine dans Skaldoria.md et Dhalvoria.md ('marchands folinor', 'agronome de Folinor', 'un mot folinor ou solenian') — possiblement le même peuple, non confirmé ; à ne pas confondre avec le lieu Folindor."
+  },
+  {
+    "src": "histoires-Ulinor",
+    "note": "Doublon potentiel à vérifier : la 'Convergence' vallone (Veille collective septennale au Plateau de Yltharkenn, Dhalvoria.md) pourrait ou non correspondre au concept déjà présent 'Les Convergences' du graphe ; entité créée séparément par prudence pour ne pas fusionner à tort."
+  },
+  {
+    "src": "histoires-Ulinor",
+    "note": "La Septième Tribu d'Ulinor (Ulinor.md) n'est jamais nommée dans les fiches ; entité 'lignee' créée pour porter le Schisme de la Septième Tribu, sans nom canonique propre."
+  },
+  {
+    "src": "histoires-Ulinor",
+    "note": "Skaldoria.md : le Clan du Loup et le Clan de la Hache 'descendent en partie d'un fondateur partagé' (non nommé), à l'origine de la Bataille des Trois Cris ; relation rendue par lie-a faute de fondateur identifié."
+  },
+  {
+    "src": "pays-Cendara",
+    "note": "Le rattachement national de Taldre n'est pas tranché : le frontmatter de la fiche porte needs_review_for [rattachement-national-Arkhen-vs-Brumaria] ; le bourg n'est rattaché ici qu'au continent."
+  },
+  {
+    "src": "pays-Cendara",
+    "note": "La fiche Taldre attribue le « culte de Flamara » aux prêtres d'Arkhen et Eldoria à Pyrevane, alors que les fiches nations décrivent un panthéon commun « Eldoria/Flamara » de l'Ignis Aeternum et font d'Arkhen la lecture la plus discrète (cendre, feu au passé) — tension entre fiches."
+  },
+  {
+    "src": "pays-Cendara",
+    "note": "La relation entre Eldoria et Flamara n'est jamais précisée (même divinité à deux noms, paire de panthéon ou aspects distincts) ; les deux sont laissées comme divinités liées."
+  },
+  {
+    "src": "pays-Cendara",
+    "note": "Meliflore est comptée comme septième région de Brumaria alors qu'Ilnara est juridiquement arkhenienne : double revendication assumée par les fiches (« ce que Brumaris nomme région et que Khoram nomme son île désigne la même terre contestée »)."
+  },
+  {
+    "src": "pays-Cendara",
+    "note": "Les années sans ère explicite (110, 156, 198, 211, 230, 232, 240, 250, 251, 252…) semblent être des années « du Sillage » et non des années absolues ap.A ; elles sont laissées sans start_year, en label seulement."
+  },
+  {
+    "src": "pays-Cendara",
+    "note": "Khoram est dite fondée vers 12 000 av.A « par des marins exilés du Dominat de Pyrevaste », alors que le Dominat est donné comme fragmenté vers 14 500 av.A — l'exil depuis un Dominat déjà fragmenté est chronologiquement flou."
+  },
+  {
+    "src": "pays-Cendara",
+    "note": "Le continent est un archipel nommé Cendara mais la fiche continent utilise encore « Cendara » pour désigner la nation Brumaria dans plusieurs passages (« Côte est (Cendara) », « à Cendara on lit le feu ») — résidu de l'ancien nom « Cendara-Royaume »."
+  },
+  {
+    "src": "pays-Cendara",
+    "note": "« Délies de la Flamme » (courant dissident ignitarien, marque de cendre froide) est graphiquement très proche du concept déjà en graphe « Les Déliés » (non-Liés stigmatisés) : entités distinctes, relation a-ne-pas-confondre-avec ajoutée."
+  },
+  {
+    "src": "pays-Cendara",
+    "note": "La fiche continent mentionne les universités de « Lumasar (Galenor) » alors que le graphe contient l'événement « La Fondation de Lunasar par les Trois Cents » — Lumasar/Lunasar à vérifier (variante ou lieux distincts)."
+  },
+  {
+    "src": "pays-Cendara",
+    "note": "Sous le Royaume de Veshrim « les Pyrtariens forment caste » alors que Pyrtara est par ailleurs présentée comme une nation extérieure pratiquant l'Ignis martial — le lien entre cette caste et la nation Pyrtara n'est pas explicité."
+  },
+  {
+    "src": "pays-Cendara",
+    "note": "La « Kessa » logeuse de Mylaris est supposée être la même que l'entité Kessa déjà en graphe ; homonymie possible avec Kessane de la Forge-Basse à surveiller."
+  },
+  {
+    "src": "pays-Cendara",
+    "note": "La troisième Voix sous les Cendres (retirée à Vorrask) est volontairement laissée sans entité : son nom est gardé secret dans les sources."
+  },
+  {
+    "src": "pays-Cendara",
+    "note": "La fiche Arkhen parle de « deux des cinq familles tisseuses Foedus Animae survivantes d'Arkhen » à Tess-Volange, mais dénombre par ailleurs une seule lignée à Vorsalt et deux familles à Tess-Volange (soit trois) — décompte incohérent."
+  },
+  {
+    "src": "pays-Cendara",
+    "note": "Population du continent ~90 000 habitants : la somme des chiffres donnés (Pyrevane ~30 000, ports arkheniens ~17 000+, Brumaria « la plus peuplée » sans chiffre) reste plausible mais Brumaria n'est jamais chiffrée."
+  },
+  {
+    "src": "pays-Cestra",
+    "note": "La Guerre du Sable est datée « ~an 182 du Sillage » tout en étant qualifiée de « début du IIe siècle » : l'an 182 correspond plutôt à la fin du IIe siècle."
+  },
+  {
+    "src": "pays-Cestra",
+    "note": "Noravia.md écrit « Évertia » alors que les autres extraits du graphe utilisent « Evertia » (sans accent)."
+  },
+  {
+    "src": "pays-Cestra",
+    "note": "La fiche continent ne cite qu'« un capitaine skaldorien » parmi les fondateurs de Noravia, mais la fiche Noravia évoque « trois familles fondatrices skaldoriennes » dont descend Hesgarn la Sage."
+  },
+  {
+    "src": "pays-Cestra",
+    "note": "Deux calendriers coexistent dans les fiches Cestra (fondation « ~9 900 ap.A » mais tous les autres événements « du Sillage ») sans table de conversion explicite."
+  },
+  {
+    "src": "pays-Cestra",
+    "note": "Kytheris (mages impliqués dans la Guerre du Sable, école arcanistique dissoute) n'est rattachée à aucun continent documenté dans les fiches lues."
+  },
+  {
+    "src": "pays-Cestra",
+    "note": "Vytharia (hauts plateaux, origine du chamane Holvar) n'apparaît dans aucune autre fiche connue du graphe."
+  },
+  {
+    "src": "pays-Cestra",
+    "note": "Astravia est mentionnée une fois (destination de fragments runiques, avec Lumasar) sans exister ailleurs dans le graphe."
+  },
+  {
+    "src": "pays-Cestra",
+    "note": "La fiche Noravia évoque « le premier Sethiran distinct de l'actuel » : deux figures portent le nom Sethiran, risque de confusion avec l'archiviste actuel."
+  }
+]
