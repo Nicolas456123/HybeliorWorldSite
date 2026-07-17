@@ -182,6 +182,21 @@ function selectEntity(id) {
 // ═══════════════════════════════════════════════════════════════════════════════
 // FICHE (dossier)
 // ═══════════════════════════════════════════════════════════════════════════════
+
+// Rend le contenu complet (body) d'une entité : markdown → HTML. Convertit les
+// liens Obsidian [[Cible|Label]] en texte (pas de lien cassé) ; repli en <pre>
+// si marked n'est pas chargé.
+function renderBody(md) {
+  let s = String(md == null ? '' : md)
+    .replace(/\[\[([^\]|]+)\|([^\]]+)\]\]/g, '$2')
+    .replace(/\[\[([^\]]+)\]\]/g, '$1');
+  if (typeof marked !== 'undefined') {
+    try { return marked.parse(s, { breaks: true }); } catch { /* repli ci-dessous */ }
+  }
+  const esc = s.replace(/[&<>]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;' }[c]));
+  return '<pre style="white-space:pre-wrap">' + esc + '</pre>';
+}
+
 async function renderFiche() {
   const view = $('#view');
   if (!S.selectedId) { view.innerHTML = ''; view.append(h('div', { class: 'empty', text: 'Sélectionne une entité à gauche, ou crée-en une.' })); return; }
@@ -204,7 +219,7 @@ async function renderFiche() {
       h('button', { class: 'danger edit-only', onclick: () => deleteEntity(e), text: '🗑' }))));
 
   if (e.summary) view.append(h('p', { class: 'muted', text: e.summary }));
-  if (e.body) view.append(h('div', { class: 'card', style: 'white-space:pre-wrap; margin-bottom:22px', text: e.body }));
+  if (e.body) view.append(h('div', { class: 'card fiche-body', style: 'margin-bottom:22px', html: renderBody(e.body) }));
 
   // Noms / alias
   view.append(section('Noms datés', () => aliasForm(e.id),

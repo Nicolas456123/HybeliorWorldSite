@@ -106,6 +106,17 @@
     .item .x { color: var(--faint); cursor: pointer; font-size: 12px; }
     .item .x:hover { color: var(--err); }
     .card { background: var(--panel); border: 1px solid var(--line); border-radius: var(--radius); padding: 16px; }
+    /* Contenu complet (body markdown) d'une entité */
+    .fiche-body { line-height: 1.6; overflow-x: auto; }
+    .fiche-body h1, .fiche-body h2, .fiche-body h3 { margin: 1.1em 0 .4em; line-height: 1.25; }
+    .fiche-body h1 { font-size: 1.35rem; } .fiche-body h2 { font-size: 1.15rem; } .fiche-body h3 { font-size: 1.02rem; }
+    .fiche-body p, .fiche-body ul, .fiche-body ol, .fiche-body blockquote { margin: .5em 0; }
+    .fiche-body table { border-collapse: collapse; margin: .6em 0; font-size: .92em; }
+    .fiche-body th, .fiche-body td { border: 1px solid var(--line); padding: 4px 8px; text-align: left; }
+    .fiche-body blockquote { border-left: 3px solid var(--line); padding-left: 12px; color: var(--dim); }
+    .fiche-body code { background: rgba(127,127,127,.15); padding: .1em .3em; border-radius: 4px; }
+    .fiche-body hr { border: none; border-top: 1px solid var(--line); margin: 1.2em 0; }
+    .fiche-body img { max-width: 100%; }
 
     .fiche-head { display: flex; align-items: flex-start; gap: 14px; margin-bottom: 8px; }
     .fiche-head h2 { margin: 0; font-size: 26px; font-weight: 600; }
@@ -195,6 +206,7 @@
   <div id="overlay"><div class="modal" id="modal"></div></div>
   <div id="toast" class="toast"></div>
 
+  <script src="/vendor/marked.min.js"></script>
   <script src="/js/atelier.js"></script>
 </body>
 </html>
