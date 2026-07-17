@@ -4,7 +4,8 @@
   "description": "Site interactif de l'univers d'Hybélior (SPA vanilla JS).",
   "scripts": {
     "dev": "node server.js",
-    "kg:build": "node scripts/migrate-kg.js",
+    "kg:build": "node scripts/migrate-kg.js && node scripts/gen-kg-search-index.js",
+    "kg:query": "node scripts/kg-query.js",
     "lint": "eslint .",
     "format": "prettier --write \"**/*.{js,json,css}\"",
     "format:check": "prettier --check \"**/*.{js,json,css}\""
