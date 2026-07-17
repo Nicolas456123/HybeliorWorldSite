@@ -56,6 +56,7 @@ const PORTES = [
   { cle: 'reliques', glyphe: '🜍', titre: 'Reliques & objets', ligne: 'Journaux murés, copies interdites, amulettes qui pulsent.', types: ['objet'] },
   { cle: 'peuples', glyphe: '🜄', titre: 'Peuples & espèces', ligne: 'Ceux qui marchent, chantent ou dorment sous la pierre.', types: ['espece'] },
   { cle: 'lexique', glyphe: '❖', titre: 'Le Lexique', ligne: 'Lié, Tisse, Souffle, Voie — les mots exacts du monde.', types: ['concept', 'terme'] },
+  { cle: 'visions', glyphe: '🕸', titre: 'Visions croisées', ligne: 'Le monde dans tous les sens — réseaux, fresque du temps, croisements.', route: '#/visions', compte: async () => 5 },
 ];
 const PORTE_PAR_CLE = Object.fromEntries(PORTES.map((p) => [p.cle, p]));
 const TYPE_LABEL = {
@@ -117,6 +118,9 @@ async function route() {
     else if (parts[0] === 'portes' && PORTE_PAR_CLE[parts[1]]) await vuePorte(PORTE_PAR_CLE[parts[1]]);
     else if (parts[0] === 'fiche' && parts[1]) await vueFiche(parts[1]);
     else if (parts[0] === 'carte') await vueCarte(parts[1] || null);
+    else if (parts[0] === 'visions' && parts[1] === 'trame') await vueTrame(parts[2] || 'sang');
+    else if (parts[0] === 'visions' && parts[1] === 'fresque') await vueFresque();
+    else if (parts[0] === 'visions') await vueVisions();
     else if (parts[0] === 'eres') await vueEres();
     else if (parts[0] === 'recherche' && parts[1]) await vueRecherche(parts.slice(1).join('/'));
     else await vueSeuil();
@@ -718,6 +722,302 @@ function trait(svg, NS, x1, y1, x2, y2) {
   l.setAttribute('x1', x1); l.setAttribute('y1', y1); l.setAttribute('x2', x2); l.setAttribute('y2', y2);
   l.setAttribute('stroke', 'rgba(201,162,75,.28)');
   svg.append(l);
+}
+
+/* ── Visions croisées : le hub ─────────────────────────────────────────── */
+const TRAMES = {
+  sang: { titre: 'Le Sang', ligne: 'Lignées, parents, conjoints — toutes les générations tissées.', rels: 'parent-de,conjoint-de,fratrie-de,descend-de,membre-de', types: 'personne,lignee', glyphe: '🜃' },
+  foi: { titre: 'Foi & Pouvoir', ligne: 'Qui vénère quoi, qui pratique quoi — dieux, cultes et nations.', rels: 'venere,pratique,schisme-de,incarne', types: '', glyphe: '⛧' },
+  recits: { titre: 'Les Récits interconnectés', ligne: 'Les quatre livres et tout ce qui les traverse — personnages, reliques, strates.', rels: 'apparait-dans,lie-a', types: 'oeuvre,personne,objet,question', glyphe: '📜' },
+  pouvoirs: { titre: 'Le Grand Échiquier', ligne: 'Alliances, guerres, vassalités, successions — la politique du monde.', rels: 'allie-de,en-guerre-avec,vassal-de,succede-a,capitale-de,frontiere-avec', types: '', glyphe: '♛' },
+};
+async function vueVisions() {
+  app.innerHTML = '';
+  const vue = h('div', { class: 'vue' });
+  vue.append(fil(['Visions croisées']));
+  vue.append(h('div', { class: 'fiche-tete' },
+    h('h1', { text: '🕸  Visions croisées' }),
+    h('p', { class: 'devise', style: 'color:var(--dim);font-style:italic;margin:4px 0 0', text: 'Le même monde, sous tous les angles — chaque croisement de données a sa lecture.' })));
+  const grille = h('div', { class: 'portes', style: 'margin-top:26px' });
+  for (const [cle, t] of Object.entries(TRAMES)) {
+    grille.append(h('div', { class: 'porte', onclick: () => aller('#/visions/trame/' + cle) },
+      h('div', { class: 'glyphe', text: t.glyphe }), h('h3', { text: t.titre }), h('p', { text: t.ligne })));
+  }
+  grille.append(h('div', { class: 'porte', onclick: () => aller('#/visions/fresque') },
+    h('div', { class: 'glyphe', text: '⏳' }), h('h3', { text: 'La Fresque du temps' }),
+    h('p', { text: 'Tous les faits datés déroulés sur dix mille ans — zoomez dans l’histoire.' })));
+  grille.append(h('div', { class: 'porte', onclick: () => aller('#/carte') },
+    h('div', { class: 'glyphe', text: '🧭' }), h('h3', { text: 'La Carte' }), h('p', { text: 'La toile des lieux, à survoler.' })));
+  vue.append(grille);
+  app.innerHTML = ''; app.append(vue);
+}
+
+/* ── La Trame : graphe de force interactif ─────────────────────────────── */
+const COULEUR_TYPE = {
+  personne: '#e0c274', lignee: '#c9a24b', divinite: '#f0d894', religion: '#b89ad6',
+  'entite-politique': '#8fb0cf', lieu: '#8fbe9b', oeuvre: '#d89393', objet: '#cbb794',
+  question: '#a795d6', concept: '#9db3c9', terme: '#9db3c9', espece: '#a9c98f', evenement: '#d0a273',
+};
+async function vueTrame(cle) {
+  const t = TRAMES[cle] || TRAMES.sang;
+  const data = await kget({ action: 'reseau', rels: t.rels, types: t.types || null, limit: 900 });
+  app.innerHTML = '';
+  const vue = h('div', { class: 'vue' });
+  vue.append(fil(['Visions croisées', '#/visions'], [t.titre]));
+  vue.append(h('div', { class: 'fiche-tete' },
+    h('h1', { text: t.glyphe + '  ' + t.titre }),
+    h('p', { class: 'devise', style: 'color:var(--dim);font-style:italic;margin:4px 0 0', text: t.ligne + ' — ' + data.nodes.length + ' nœuds, ' + data.links.length + ' liens.' + (data.tronque ? ' (vue tronquée)' : '') })));
+  // navigation entre trames
+  const barre = h('div', { class: 'filtre-ligne' });
+  for (const [k, tt] of Object.entries(TRAMES)) barre.append(h('span', { class: 'chip', style: k === cle ? 'border-color:var(--gold);color:var(--gold-soft)' : '', onclick: () => aller('#/visions/trame/' + k), text: tt.glyphe + ' ' + tt.titre }));
+  vue.append(barre);
+  const bloc = h('div', { class: 'panneau', style: 'padding:10px' });
+  const cv = h('canvas', { style: 'width:100%;height:min(70vh,680px);display:block;border-radius:8px;cursor:grab' });
+  bloc.append(cv, h('div', { class: 'legende', style: 'color:var(--faint);font-size:12px;text-align:center;margin-top:8px;letter-spacing:1px', text: 'glisser un astre : le déplacer · glisser le vide : naviguer · molette : zoom · clic : ouvrir' }));
+  vue.append(bloc);
+  app.innerHTML = ''; app.append(vue);
+  requestAnimationFrame(() => trameForce(cv, data));
+}
+function trameForce(cv, data) {
+  const dpr = devicePixelRatio || 1;
+  const W = cv.clientWidth * dpr, H = cv.clientHeight * dpr;
+  cv.width = W; cv.height = H;
+  const ctx = cv.getContext('2d');
+  const N = data.nodes.map((n, i) => ({
+    ...n,
+    x: W / 2 + Math.cos(i * 2.399) * (H / 3) * Math.sqrt(i / data.nodes.length),
+    y: H / 2 + Math.sin(i * 2.399) * (H / 3) * Math.sqrt(i / data.nodes.length),
+    vx: 0, vy: 0, r: (3 + Math.sqrt(n.degre || 1) * 2.2) * dpr,
+  }));
+  const parId = Object.fromEntries(N.map((n) => [n.id, n]));
+  const L = data.links.map((l) => ({ a: parId[l.from], b: parId[l.to], rel: l.rel })).filter((l) => l.a && l.b);
+  let k = 1, ox = 0, oy = 0;              // vue (zoom/pan)
+  let chaud = 1;                           // température de la simulation
+  let survole = null, saisi = null, drag = null;
+  const versEcran = (n) => [n.x * k + ox, n.y * k + oy];
+
+  function etape() {
+    // ressorts
+    for (const l of L) {
+      const dx = l.b.x - l.a.x, dy = l.b.y - l.a.y;
+      const d = Math.max(Math.hypot(dx, dy), 1);
+      const cible = 62 * dpr;
+      const f = (d - cible) * 0.012 * chaud;
+      const fx = (dx / d) * f, fy = (dy / d) * f;
+      l.a.vx += fx; l.a.vy += fy; l.b.vx -= fx; l.b.vy -= fy;
+    }
+    // répulsion (approx : sous-échantillonnée pour les gros graphes)
+    const pas = N.length > 220 ? 2 : 1;
+    for (let i = 0; i < N.length; i += 1) {
+      for (let j = i + pas; j < N.length; j += pas) {
+        const a = N[i], b = N[j];
+        const dx = b.x - a.x, dy = b.y - a.y;
+        let d2 = dx * dx + dy * dy; if (d2 < 40) d2 = 40;
+        if (d2 > (300 * dpr) ** 2) continue;
+        const f = (900 * dpr * chaud) / d2;
+        const d = Math.sqrt(d2);
+        const fx = (dx / d) * f, fy = (dy / d) * f;
+        a.vx -= fx; a.vy -= fy; b.vx += fx; b.vy += fy;
+      }
+    }
+    // gravité vers le centre + amortissement
+    for (const n of N) {
+      if (n === saisi) { n.vx = 0; n.vy = 0; continue; }
+      n.vx += (W / 2 - n.x) * 0.0016 * chaud; n.vy += (H / 2 - n.y) * 0.0016 * chaud;
+      n.vx *= .86; n.vy *= .86; n.x += n.vx; n.y += n.vy;
+    }
+    chaud = Math.max(chaud * .995, .12);
+  }
+  function peindre() {
+    ctx.clearRect(0, 0, W, H);
+    ctx.lineWidth = .6 * dpr;
+    for (const l of L) {
+      const [ax, ay] = versEcran(l.a), [bx, by] = versEcran(l.b);
+      const actif = survole && (l.a === survole || l.b === survole);
+      ctx.strokeStyle = actif ? 'rgba(240,216,148,.6)' : 'rgba(201,162,75,.20)';
+      ctx.beginPath(); ctx.moveTo(ax, ay); ctx.lineTo(bx, by); ctx.stroke();
+    }
+    for (const n of N) {
+      const [sx, sy] = versEcran(n);
+      if (sx < -30 || sx > W + 30 || sy < -30 || sy > H + 30) continue;
+      ctx.beginPath(); ctx.arc(sx, sy, n.r * k, 0, 7);
+      ctx.fillStyle = n === survole ? '#f0d894' : (COULEUR_TYPE[n.type] || '#b3a68f');
+      ctx.globalAlpha = survole && n !== survole && !L.some((l) => (l.a === survole && l.b === n) || (l.b === survole && l.a === n)) ? .35 : 1;
+      ctx.fill(); ctx.globalAlpha = 1;
+      if (n.degre >= 6 || n === survole || k > 1.6) {
+        ctx.font = `${11.5 * dpr}px Raleway, sans-serif`; ctx.textAlign = 'center';
+        ctx.fillStyle = n === survole ? 'rgba(240,216,148,.95)' : 'rgba(179,166,143,.75)';
+        ctx.fillText(n.name, sx, sy - n.r * k - 5 * dpr);
+      }
+    }
+    if (survole) {
+      const [sx, sy] = versEcran(survole);
+      ctx.font = `${10.5 * dpr}px Raleway, sans-serif`; ctx.textAlign = 'center';
+      ctx.fillStyle = 'rgba(131,119,95,.9)';
+      ctx.fillText(TYPE_LABEL[survole.type] || survole.type, sx, sy + survole.r * k + 14 * dpr);
+    }
+  }
+  (function boucle() {
+    if (!cv.isConnected) return;
+    etape(); peindre();
+    requestAnimationFrame(boucle);
+  })();
+  function sous(ev) {
+    const box = cv.getBoundingClientRect();
+    const mx = (ev.clientX - box.left) * dpr, my = (ev.clientY - box.top) * dpr;
+    let best = null, d2min = (18 * dpr) ** 2;
+    for (const n of N) { const [sx, sy] = versEcran(n); const d2 = (sx - mx) ** 2 + (sy - my) ** 2; if (d2 < d2min) { d2min = d2; best = n; } }
+    return { best, mx, my };
+  }
+  cv.addEventListener('mousedown', (ev) => {
+    const { best, mx, my } = sous(ev);
+    if (best) { saisi = best; chaud = Math.max(chaud, .5); }
+    else drag = { mx, my, ox, oy };
+    cv.style.cursor = 'grabbing';
+  });
+  addEventListener('mousemove', (ev) => {
+    const box = cv.getBoundingClientRect();
+    const mx = (ev.clientX - box.left) * dpr, my = (ev.clientY - box.top) * dpr;
+    if (saisi) { saisi.x = (mx - ox) / k; saisi.y = (my - oy) / k; saisi.bouge = true; return; }
+    if (drag) { ox = drag.ox + (mx - drag.mx); oy = drag.oy + (my - drag.my); return; }
+    if (ev.clientX < box.left || ev.clientX > box.right || ev.clientY < box.top || ev.clientY > box.bottom) { survole = null; return; }
+    survole = sous(ev).best;
+    cv.style.cursor = survole ? 'pointer' : 'grab';
+  });
+  addEventListener('mouseup', () => {
+    if (saisi && !saisi.bouge) aller('#/fiche/' + saisi.id);
+    if (saisi) saisi.bouge = false;
+    saisi = null; drag = null; cv.style.cursor = 'grab';
+  });
+  cv.addEventListener('wheel', (ev) => {
+    ev.preventDefault();
+    const box = cv.getBoundingClientRect();
+    const mx = (ev.clientX - box.left) * dpr, my = (ev.clientY - box.top) * dpr;
+    const k2 = Math.max(.3, Math.min(5, k * (ev.deltaY < 0 ? 1.15 : 1 / 1.15)));
+    ox = mx - (mx - ox) * (k2 / k); oy = my - (my - oy) * (k2 / k); k = k2;
+  }, { passive: false });
+}
+
+/* ── La Fresque du temps : tous les faits datés, zoomables ─────────────── */
+async function vueFresque() {
+  if (!CACHE.chrono) CACHE.chrono = (await kget({ action: 'chronologie' })).facts || [];
+  if (!CACHE.eres) CACHE.eres = (await kget({ action: 'list', type: 'ere' })).entities;
+  const faits = CACHE.chrono.filter((f) => f.start_year != null);
+  const eres = CACHE.eres.map((e) => ({ ...e, d: e.data || {} })).filter((e) => e.d.startYear != null);
+
+  app.innerHTML = '';
+  const vue = h('div', { class: 'vue' });
+  vue.append(fil(['Visions croisées', '#/visions'], ['La Fresque du temps']));
+  vue.append(h('div', { class: 'fiche-tete' },
+    h('h1', { text: '⏳  La Fresque du temps' }),
+    h('p', { class: 'devise', style: 'color:var(--dim);font-style:italic;margin:4px 0 0', text: faits.length + ' faits datés — molette pour plonger dans une époque, clic pour ouvrir.' })));
+  const bloc = h('div', { class: 'panneau', style: 'padding:10px' });
+  const cv = h('canvas', { style: 'width:100%;height:min(62vh,560px);display:block;border-radius:8px;cursor:grab' });
+  bloc.append(cv, h('div', { class: 'legende', style: 'color:var(--faint);font-size:12px;text-align:center;margin-top:8px;letter-spacing:1px', text: 'les bandes = les Ères · chaque point = un fait daté (fondations, chutes, batailles, vies…)' }));
+  vue.append(bloc);
+  app.innerHTML = ''; app.append(vue);
+
+  const dpr = devicePixelRatio || 1;
+  const W = cv.clientWidth * dpr, H = cv.clientHeight * dpr;
+  cv.width = W; cv.height = H;
+  const ctx = cv.getContext('2d');
+
+  // échelle temporelle : vue initiale sur l'histoire « humaine »
+  let a0 = -20000, a1 = 10600;
+  const LANES = ['fondation', 'chute', 'bataille', 'traite', 'evenement', 'regne', 'naissance', 'mort', 'apparition', 'disparition', 'autre'];
+  const laneY = (t) => 54 * dpr + LANES.indexOf(LANES.includes(t) ? t : 'autre') * ((H - 90 * dpr) / LANES.length);
+  const COUL_FAIT = { fondation: '#8fbe9b', chute: '#d08a8a', bataille: '#d0a273', traite: '#9db3c9', evenement: '#e0c274', regne: '#c9a24b', naissance: '#a9c98f', mort: '#b3a68f', apparition: '#b89ad6', disparition: '#a795d6', autre: '#83775f' };
+  const X = (an) => ((an - a0) / (a1 - a0)) * W;
+  let survole = null, drag = null;
+
+  function peindre() {
+    ctx.clearRect(0, 0, W, H);
+    // bandes des ères
+    for (const e of eres) {
+      const x0 = X(e.d.startYear), x1 = X(e.d.endYear == null ? 10600 : e.d.endYear);
+      if (x1 < 0 || x0 > W) continue;
+      ctx.fillStyle = 'rgba(201,162,75,.045)';
+      ctx.fillRect(x0, 0, Math.max(x1 - x0, 1), H);
+      ctx.strokeStyle = 'rgba(201,162,75,.14)'; ctx.lineWidth = dpr;
+      ctx.beginPath(); ctx.moveTo(x0, 0); ctx.lineTo(x0, H); ctx.stroke();
+      if (x1 - x0 > 80 * dpr) {
+        ctx.font = `${11 * dpr}px Cinzel, serif`; ctx.textAlign = 'left';
+        ctx.fillStyle = 'rgba(201,162,75,.55)';
+        ctx.fillText(e.name.replace(/^Ere\s+\w+\s*[—-]\s*/, '').toUpperCase(), Math.max(x0, 0) + 8 * dpr, 22 * dpr);
+      }
+    }
+    // graduations d'années
+    const portee = a1 - a0;
+    const pas = portee > 2e6 ? 1e6 : portee > 2e5 ? 1e5 : portee > 30000 ? 5000 : portee > 6000 ? 1000 : portee > 1200 ? 200 : 50;
+    ctx.font = `${10.5 * dpr}px Raleway, sans-serif`; ctx.textAlign = 'center'; ctx.fillStyle = 'rgba(131,119,95,.7)';
+    for (let an = Math.ceil(a0 / pas) * pas; an <= a1; an += pas) {
+      const x = X(an);
+      ctx.fillRect(x, H - 26 * dpr, dpr, 6 * dpr);
+      ctx.fillText(anStr(an) || '0', x, H - 8 * dpr);
+    }
+    // lanes + faits
+    ctx.font = `${10 * dpr}px Raleway, sans-serif`; ctx.textAlign = 'left';
+    for (const t of LANES) { ctx.fillStyle = 'rgba(131,119,95,.5)'; ctx.fillText(t, 6 * dpr, laneY(t) - 8 * dpr); }
+    for (const f of faits) {
+      const x = X(f.start_year);
+      if (x < -10 || x > W + 10) continue;
+      const y = laneY(f.fact_type);
+      const actif = f === survole;
+      ctx.beginPath(); ctx.arc(x, y, (actif ? 6 : 3.4) * dpr, 0, 7);
+      ctx.fillStyle = actif ? '#f0d894' : (COUL_FAIT[f.fact_type] || '#83775f');
+      ctx.globalAlpha = actif ? 1 : .8; ctx.fill(); ctx.globalAlpha = 1;
+      if (f.end_year != null && f.end_year !== f.start_year) {
+        ctx.strokeStyle = 'rgba(201,162,75,.3)'; ctx.lineWidth = 2 * dpr;
+        ctx.beginPath(); ctx.moveTo(x, y); ctx.lineTo(X(f.end_year), y); ctx.stroke();
+      }
+    }
+    if (survole) {
+      const x = X(survole.start_year), y = laneY(survole.fact_type);
+      const txt = (survole.subjectName || '') + ' — ' + (survole.label || survole.fact_type) + ' (' + anStr(survole.start_year, survole.start_circa) + ')';
+      ctx.font = `${12 * dpr}px Raleway, sans-serif`;
+      const wTxt = ctx.measureText(txt).width;
+      const bx = Math.min(Math.max(x - wTxt / 2 - 8 * dpr, 4 * dpr), W - wTxt - 20 * dpr);
+      ctx.fillStyle = 'rgba(13,11,9,.92)';
+      ctx.fillRect(bx, y - 34 * dpr, wTxt + 16 * dpr, 22 * dpr);
+      ctx.strokeStyle = 'rgba(201,162,75,.4)'; ctx.lineWidth = dpr;
+      ctx.strokeRect(bx, y - 34 * dpr, wTxt + 16 * dpr, 22 * dpr);
+      ctx.fillStyle = '#ece4d4'; ctx.textAlign = 'left';
+      ctx.fillText(txt, bx + 8 * dpr, y - 19 * dpr);
+    }
+  }
+  peindre();
+  cv.addEventListener('mousedown', (ev) => { drag = { x: ev.clientX, a0, a1, bouge: false }; cv.style.cursor = 'grabbing'; });
+  addEventListener('mousemove', (ev) => {
+    const box = cv.getBoundingClientRect();
+    if (drag) {
+      const dx = (ev.clientX - drag.x) / box.width * (drag.a1 - drag.a0);
+      a0 = drag.a0 - dx; a1 = drag.a1 - dx;
+      if (Math.abs(ev.clientX - drag.x) > 4) drag.bouge = true;
+      peindre(); return;
+    }
+    if (ev.clientX < box.left || ev.clientX > box.right || ev.clientY < box.top || ev.clientY > box.bottom) return;
+    const mx = (ev.clientX - box.left) * dpr, my = (ev.clientY - box.top) * dpr;
+    let best = null, d2min = (14 * dpr) ** 2;
+    for (const f of faits) {
+      const x = X(f.start_year); if (x < 0 || x > W) continue;
+      const y = laneY(f.fact_type);
+      const d2 = (x - mx) ** 2 + (y - my) ** 2;
+      if (d2 < d2min) { d2min = d2; best = f; }
+    }
+    if (best !== survole) { survole = best; cv.style.cursor = best ? 'pointer' : 'grab'; peindre(); }
+  });
+  addEventListener('mouseup', () => { const b = drag && drag.bouge; drag = null; cv.style.cursor = 'grab'; if (!b && survole && survole.subject_id) aller('#/fiche/' + survole.subject_id); });
+  cv.addEventListener('wheel', (ev) => {
+    ev.preventDefault();
+    const box = cv.getBoundingClientRect();
+    const frac = (ev.clientX - box.left) / box.width;
+    const pivot = a0 + frac * (a1 - a0);
+    const zoom = ev.deltaY < 0 ? 1 / 1.22 : 1.22;
+    let n0 = pivot - (pivot - a0) * zoom, n1 = pivot + (a1 - pivot) * zoom;
+    if (n1 - n0 < 40) return;                 // plancher : 40 ans
+    if (n1 - n0 > 26e6) return;               // plafond : tout le cosmos
+    a0 = n0; a1 = n1; peindre();
+  }, { passive: false });
 }
 
 /* ── Démarrage ─────────────────────────────────────────────────────────── */
