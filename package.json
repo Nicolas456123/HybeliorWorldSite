@@ -7,6 +7,8 @@
     "kg:index": "node scripts/gen-kg-search-index.js",
     "kg:build": "node scripts/gen-kg-search-index.js",
     "kg:reseed": "KG_RESEED=1 node scripts/migrate-kg.js && node scripts/gen-kg-search-index.js",
+    "kg:absorb": "node scripts/absorb-docs.js",
+    "kg:db": "node scripts/build-sqlite.js",
     "kg:query": "node scripts/kg-query.js",
     "lint": "eslint .",
     "format": "prettier --write \"**/*.{js,json,css}\"",

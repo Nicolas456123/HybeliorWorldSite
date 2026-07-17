@@ -38,3 +38,10 @@ Docs/Lore/.obsidian/
 # Config éditeur Obsidian (état local — ne pas versionner)
 .obsidian/
 **/.obsidian/
+
+# Base SQLite (transitoire) : reconstruite via `npm run kg:db` depuis data/kg-base.json.
+# Le fichier WAL/SHM ne se versionne jamais. (À committer quand la DB deviendra
+# la source de vérité de plein droit — voir feuille de route inversion.)
+data/hybelior.db
+data/hybelior.db-wal
+data/hybelior.db-shm
