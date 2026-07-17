@@ -643,18 +643,29 @@ function jeuSurfaces(eraId) {
   return SURFACES.doc.jeux.find((j) => j.era_id === eraId)
     || SURFACES.doc.jeux.find((j) => j.era_id == null) || null;
 }
-function dessinerSurfaces(ctx, E, dpr, eraId) {
+function dessinerSurfaces(ctx, E, dpr, eraId, couleurPays) {
   const jeu = jeuSurfaces(eraId);
   if (!jeu) return;
-  for (const m of jeu.masses) {
+  const trace = (m) => {
     ctx.beginPath();
     m.points.forEach(([wx, wy], i) => { const [sx, sy] = E(wx, wy); i ? ctx.lineTo(sx, sy) : ctx.moveTo(sx, sy); });
     ctx.closePath();
-    ctx.fillStyle = 'rgba(201,178,128,.055)';
-    ctx.fill();
-    ctx.strokeStyle = 'rgba(201,162,75,.38)';
-    ctx.lineWidth = 1.2 * dpr;
-    ctx.stroke();
+  };
+  // côtes des continents
+  for (const m of jeu.masses) {
+    if (m.niveau && m.niveau !== 'continent') continue;
+    trace(m);
+    ctx.fillStyle = 'rgba(201,178,128,.055)'; ctx.fill();
+    ctx.strokeStyle = 'rgba(201,162,75,.38)'; ctx.lineWidth = 1.2 * dpr; ctx.stroke();
+  }
+  // surfaces nationales (remplies par religion quand la couche est active)
+  for (const m of jeu.masses) {
+    if (m.niveau !== 'pays') continue;
+    trace(m);
+    const coul = couleurPays && couleurPays(m.nom);
+    if (coul) { ctx.fillStyle = coul + '2b'; ctx.fill(); }
+    ctx.strokeStyle = coul ? coul + '99' : 'rgba(201,162,75,.30)';
+    ctx.lineWidth = .9 * dpr; ctx.stroke();
   }
 }
 
@@ -871,7 +882,14 @@ async function vueCarte(focusId) {
     // surfaces des masses terrestres (contours extraits — sensibles à l'ère)
     if (M.couches.has('surfaces')) {
       const ereCourante = eres.find((e) => an >= e.d.startYear && an <= (e.d.endYear == null ? 1e15 : e.d.endYear));
-      dessinerSurfaces(ctx, E, dpr, ereCourante ? ereCourante.id : null);
+      const nomVersNation = {};
+      for (const n of Object.values(nations)) if (n.nom) nomVersNation[n.nom] = n;
+      const couleurPays = (nom) => {
+        const n = nomVersNation[nom];
+        if (!n || !nationVisible(n, an)) return null;
+        return (M.couches.has('religions') && n.religion) ? coulRel[n.religion] : null;
+      };
+      dessinerSurfaces(ctx, E, dpr, ereCourante ? ereCourante.id : null, couleurPays);
     }
     if (M.couches.has('lien')) {
       const puls = .85 + Math.sin(tAnim / 1400) * .15;
